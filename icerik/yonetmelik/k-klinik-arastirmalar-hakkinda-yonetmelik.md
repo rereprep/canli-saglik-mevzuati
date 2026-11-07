@@ -27,7 +27,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -139,9 +139,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Araştırmaya İştirak Edecek Gönüllülerin Korunması, Sigortalanması,
+**Araştırmaya İştirak Edecek Gönüllülerin Korunması, Sigortalanması,**
 
-Araştırma İçin Olur Alınması ve Sorumluluk
+**Araştırma İçin Olur Alınması ve Sorumluluk**
 
 #### Gönüllülerin korunmasıyla ilgili genel esaslar ve sigortalama
 
@@ -247,7 +247,7 @@ d) Kısıtlılarda yapılacak klinik araştırmalar için kısıtlıların araş
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Etik Kurulların Yapısı, Çalışma Usul ve Esasları ile Görevleri
+**Etik Kurulların Yapısı, Çalışma Usul ve Esasları ile Görevleri**
 
 #### Etik kurulların yapısı
 
@@ -507,9 +507,9 @@ değerlendirir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Klinik Araştırmalar Danışma Kurulunun Yapısı,
+**Klinik Araştırmalar Danışma Kurulunun Yapısı,**
 
-Çalışma Usul ve Esasları ile Görevleri
+**Çalışma Usul ve Esasları ile Görevleri**
 
 #### Klinik Araştırmalar Danışma Kurulunun yapısı
 
@@ -545,7 +545,7 @@ g) Kurulun sekreteryasını İlaç ve Eczacılık Genel Müdürlüğü yürütü
 
 ### BEŞİNCİ BÖLÜM
 
-Araştırmaların Yürütülmesi ile İlgili Esaslar
+**Araştırmaların Yürütülmesi ile İlgili Esaslar**
 
 #### İlaç klinik araştırmalarının safhaları
 
@@ -637,7 +637,7 @@ d) Destekleyici, yazılı sözleşme yapılmak ve Bakanlığa bilgi vermek şart
 
 ### ALTINCI BÖLÜM
 
-Araştırma Ürünleri
+**Araştırma Ürünleri**
 
 #### Destekleyicinin ve sorumlu araştırmacının araştırma ürünü ile ilgili sorumluluğu
 
@@ -669,7 +669,7 @@ c) Araştırma ürününün dış ambalajında veya dış ambalajı yok ise en d
 
 ### YEDİNCİ BÖLÜM
 
-Advers Olayların ve Ciddi Advers Etkilerin Bildirimi
+**Advers Olayların ve Ciddi Advers Etkilerin Bildirimi**
 
 #### Advers olayların bildirimi
 
@@ -701,7 +701,7 @@ Advers Olayların ve Ciddi Advers Etkilerin Bildirimi
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Eğitim
 

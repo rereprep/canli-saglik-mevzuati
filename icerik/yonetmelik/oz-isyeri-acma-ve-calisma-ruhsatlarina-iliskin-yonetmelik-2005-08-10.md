@@ -12,31 +12,31 @@ durum: "yürürlükte"
 
 4729
 
-İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik
+**İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik**
 
-Bakanlar Kurulu Kararının Tarihi : 14/7/2005 No : 2005/9207
+**Bakanlar Kurulu Kararının Tarihi : 14/7/2005 No : 2005/9207**
 
-Dayandığı Kanunun Tarihi : 24/4/1930 No : 1593
+**Dayandığı Kanunun Tarihi : 24/4/1930 No : 1593**
 
-4/7/1934 No : 2559
+**4/7/1934 No : 2559**
 
-14/6/1989 No : 3572
+**14/6/1989 No : 3572**
 
-12/4/2000 No : 4562
+**12/4/2000 No : 4562**
 
-10/7/2004 No : 5216
+**10/7/2004 No : 5216**
 
-22/2/2005 No : 5302
+**22/2/2005 No : 5302**
 
-3/7/2005 No : 5393
+**3/7/2005 No : 5393**
 
-Yayımlandığı R.Gazetenin Tarihi : 10/8/2005 No : 25902
+**Yayımlandığı R.Gazetenin Tarihi : 10/8/2005 No : 25902**
 
-Yayımlandığı Düsturun Tertibi : 5 Cilt : 44
+**Yayımlandığı Düsturun Tertibi : 5 Cilt : 44**
 
 ²
 
-19/4/2019 tarihli ve 30750 sayılı Resmî Gazete’de yayımlanan 18/4/2019 tarihli ve 1003 sayılı Cumhurbaşkanı Kararı uyarınca bu Yönetmelik Cumhurbaşkanlığı Yönetmeliği bölümüne eklenmiştir.
+<i>19/4/2019 tarihli ve 30750 sayılı Resmî Gazete’de yayımlanan 18/4/2019 tarihli ve 1003 sayılı Cumhurbaşkanı Kararı uyarınca bu Yönetmelik Cumhurbaşkanlığı Yönetmeliği bölümüne eklenmiştir.</i>
 
 ²
 
@@ -46,7 +46,7 @@ Genel Hükümler
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+<i>Amaç, Kapsam, Dayanak ve Tanımlar</i>
 
 #### Amaç
 
@@ -64,29 +64,29 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 **Madde 4 –** Bu Yönetmelikte geçen deyimlerden;
 
-a) (Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.) Yetkili idare: Belediye sınırları ve mücavir alanlar dışı ile kanunlarda münhasıran il özel idaresine yetki verilen hususlarda il özel idaresini, büyükşehir belediyesi sınırları içinde büyükşehir belediyesinin yetkili olduğu konularda büyükşehir belediyesini, bunların dışında kalan hususlarda büyükşehir ilçe belediyesini, belediye sınırları ve mücavir alanlar içinde belediyeyi, organize sanayi bölgesi sınırları içinde organize sanayi bölgesi tüzel kişiliğini, endüstri bölgesi sınırları içinde Sanayi ve Teknoloji Bakanlığını ve teknoloji geliştirme bölgesi yönetici şirketi ile bölgede yer alan AR-GE ve tasarım faaliyetinde bulunan firmalar için Sanayi ve Teknoloji Bakanlığı il müdürlüklerini,
+a) **(Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.)** Yetkili idare: Belediye sınırları ve mücavir alanlar dışı ile kanunlarda münhasıran il özel idaresine yetki verilen hususlarda il özel idaresini, büyükşehir belediyesi sınırları içinde büyükşehir belediyesinin yetkili olduğu konularda büyükşehir belediyesini, bunların dışında kalan hususlarda büyükşehir ilçe belediyesini, belediye sınırları ve mücavir alanlar içinde belediyeyi, organize sanayi bölgesi sınırları içinde organize sanayi bölgesi tüzel kişiliğini, endüstri bölgesi sınırları içinde Sanayi ve Teknoloji Bakanlığını ve teknoloji geliştirme bölgesi yönetici şirketi ile bölgede yer alan AR-GE ve tasarım faaliyetinde bulunan firmalar için Sanayi ve Teknoloji Bakanlığı il müdürlüklerini,
 
 _____________
 
-(1) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkraya “24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu,” ibaresinden sonra gelmek üzere “15/5/1930 tarihli ve 1608 sayılı Umuru Belediyeye Müteallik Ahkâmı Cezaiye Hakkında 16 Nisan 1340 Tarih ve 486 Numaralı Kanunun Bazı Maddelerini Muaddil Kanun,” ibaresi eklenmiştir.
+<i>(1) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkraya “24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu,” ibaresinden sonra gelmek üzere “15/5/1930 tarihli ve 1608 sayılı Umuru Belediyeye Müteallik Ahkâmı Cezaiye Hakkında 16 Nisan 1340 Tarih ve 486 Numaralı Kanunun Bazı Maddelerini Muaddil Kanun,” ibaresi eklenmiştir.</i>
 
-(2) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkraya “12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanunu,” ibaresinden sonra gelmek üzere “9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu,” ibaresi eklenmiştir.
+<i>(2) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkraya “12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanunu,” ibaresinden sonra gelmek üzere “9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu,” ibaresi eklenmiştir.</i>
 
-(3) 11/12/2025 tarihli ve 33104 sayılı Resmî Gazete’de yayımlanan 10681 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu maddede yer alan “3/7/2005 tarihli ve 5393 sayılı Belediye Kanununa” ibaresi “3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu hükümleri ile 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun ek 11 inci maddesinin birinci fıkrasının (ç) ve (f) bentlerine” şeklinde değiştirilmiştir.
+<i>(3) 11/12/2025 tarihli ve 33104 sayılı Resmî Gazete’de yayımlanan 10681 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu maddede yer alan “3/7/2005 tarihli ve 5393 sayılı Belediye Kanununa” ibaresi “3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu hükümleri ile 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun ek 11 inci maddesinin birinci fıkrasının (ç) ve (f) bentlerine” şeklinde değiştirilmiştir.</i>
 
 4730
 
 b) Gayrisıhhî müessese: Faaliyeti sırasında çevresinde bulunanlara biyolojik, kimyasal, fiziksel, ruhsal ve sosyal yönden az veya çok zarar veren veya vermesi muhtemel olan ya da doğal kaynakların kirlenmesine sebep olabilecek müesseseleri,
 
-c) (Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.) Birinci sınıf gayrisıhhî müessese: Konutlardan ve insan ikametine mahsus diğer yerlerden mutlaka uzak bulundurulmaları gereken müesseseleri,
+c) **(Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.)** Birinci sınıf gayrisıhhî müessese: Konutlardan ve insan ikametine mahsus diğer yerlerden mutlaka uzak bulundurulmaları gereken müesseseleri,
 
-d) (Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.) İkinci sınıf gayrisıhhî müessese: Konutlardan ve insan ikametine mahsus diğer yerlerden mutlaka uzak bulundurulmaları gerekmeyen, bununla birlikte müessesenin faaliyetinin gerektirdiği durumlarda izin verilmeden önce civarında ikamet edenlerin esenlik ve istirahati hususunda konumu, tesisatı ve vaziyeti itibarıyla bir zarar vermeyeceğine kanaat oluşması için inceleme yapılması gerekli müesseseleri,
+d) **(Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.)** İkinci sınıf gayrisıhhî müessese: Konutlardan ve insan ikametine mahsus diğer yerlerden mutlaka uzak bulundurulmaları gerekmeyen, bununla birlikte müessesenin faaliyetinin gerektirdiği durumlarda izin verilmeden önce civarında ikamet edenlerin esenlik ve istirahati hususunda konumu, tesisatı ve vaziyeti itibarıyla bir zarar vermeyeceğine kanaat oluşması için inceleme yapılması gerekli müesseseleri,
 
-e) (Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.) Üçüncü sınıf gayrisıhhî müessese: Konutların ve insan ikametine mahsus diğer yerlerin yanında açılabilmesi için sıhhî nezarete tabi tutulması yeterli olan müesseseleri,
+e) **(Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.)** Üçüncü sınıf gayrisıhhî müessese: Konutların ve insan ikametine mahsus diğer yerlerin yanında açılabilmesi için sıhhî nezarete tabi tutulması yeterli olan müesseseleri,
 
 f) Sıhhî müessese: Gayrisıhhî müesseseler dışında kalan her türlü işyerini,
 
-g) (Değişik:RG-11/12/2025-33104-CK-10681/2 md.) Umuma açık istirahat ve eğlence yeri: Bu Yönetmeliğin eki (EK-3 UMUMA AÇIK İSTİRAHAT VE EĞLENCE YERLERİ LİSTESİ)’nde yer alan ve kişilerin tek tek veya toplu olarak eğlenmesi, dinlenmesi veya konaklaması için açılan günübirlik tesisler, eğlence merkezleri, turizm kompleksleri, tatil merkezleri ile otel, motel, pansiyon, kamping ve benzeri konaklama yerleri; gazino, pavyon, meyhane, bar, birahane, içkili lokanta, taverna ve benzeri içkili yerler; sinema, kahvehane ve kıraathaneler; kumar ve kazanç kastı olmamak şartıyla adı ne olursa olsun bilgi ve maharet artırıcı veya zeka geliştirici nitelikteki elektronik oyun alet ve makinelerinin, video ve televizyon oyunlarının içerisinde bulunduğu elektronik oyun yerleri; internet salonları, lunaparklar, sirkler ve benzeri yerleri,
+g) **(Değişik:RG-11/12/2025-33104-CK-10681/2 md.)** Umuma açık istirahat ve eğlence yeri: Bu Yönetmeliğin eki (EK-3 UMUMA AÇIK İSTİRAHAT VE EĞLENCE YERLERİ LİSTESİ)’nde yer alan ve kişilerin tek tek veya toplu olarak eğlenmesi, dinlenmesi veya konaklaması için açılan günübirlik tesisler, eğlence merkezleri, turizm kompleksleri, tatil merkezleri ile otel, motel, pansiyon, kamping ve benzeri konaklama yerleri; gazino, pavyon, meyhane, bar, birahane, içkili lokanta, taverna ve benzeri içkili yerler; sinema, kahvehane ve kıraathaneler; kumar ve kazanç kastı olmamak şartıyla adı ne olursa olsun bilgi ve maharet artırıcı veya zeka geliştirici nitelikteki elektronik oyun alet ve makinelerinin, video ve televizyon oyunlarının içerisinde bulunduğu elektronik oyun yerleri; internet salonları, lunaparklar, sirkler ve benzeri yerleri,
 
 h) İçkili yer bölgesi: Belediye sınırları ve mücavir alanlar içinde belediye meclisi, bu sınırlar dışında il genel meclisi tarafından valilik veya kaymakamlığın görüşü alınarak tespit edilen ve içerisinde şarap ve bira dahil her türlü alkollü içeceğin verilebileceği işyerlerinin açılabileceği bölgeyi,
 
@@ -94,7 +94,7 @@ h) İçkili yer bölgesi: Belediye sınırları ve mücavir alanlar içinde bele
 
 j) Çevre sağlığı: İnsan sağlığının çevredeki fizikî, kimyevî, biyolojik, sosyal ve psiko-sosyal faktörlerle tespit edilen yaşam kalitesini,
 
-k) (Değişik: 19/3/2007 – 2007/11882 K.) İnceleme kurulu: Birinci sınıf gayrisıhhî müesseseler için yer seçimi ve tesis kurma, deneme veya açılma izni amacıyla inceleme yapan kurulu,
+k) **(Değişik: 19/3/2007 – 2007/11882 K.)** İnceleme kurulu: Birinci sınıf gayrisıhhî müesseseler için yer seçimi ve tesis kurma, deneme veya açılma izni amacıyla inceleme yapan kurulu,
 
 l) Yer seçimi ve tesis kurma izni: Birinci sınıf gayrisıhhî müesseselerde tesisin yapılmasından önce söz konusu yerde kurulup kurulamayacağı konusunda ve kurulacak yer, proje ve belgelerin uygun görülmesi durumunda müessesenin kurulması için yetkili idarece verilen izni,
 
@@ -106,25 +106,25 @@ o) Mahallin en büyük mülkî idare amiri: İllerde valiyi, büyükşehir beled
 
 p) Kolluk: Polis ve jandarma teşkilatını,
 
-r) (Değişik:RG-11/12/2025-33104-CK-10681/2 md.) Konaklama yeri: Otel, tatil köyü, motel, pansiyon, apart otel, kırsal turizm tesisi, mobil ev, konaklama amaçlı mesire yeri, konaklamalı orman parkı, kamping, lüks çadır ve asıl fonksiyonları müşterilerin konaklama ihtiyaçlarını sağlamak olan benzeri yerleri,
+r) **(Değişik:RG-11/12/2025-33104-CK-10681/2 md.)** Konaklama yeri: Otel, tatil köyü, motel, pansiyon, apart otel, kırsal turizm tesisi, mobil ev, konaklama amaçlı mesire yeri, konaklamalı orman parkı, kamping, lüks çadır ve asıl fonksiyonları müşterilerin konaklama ihtiyaçlarını sağlamak olan benzeri yerleri,
 
 s) Organize sanayi bölgesi: 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununa göre kurulan özel hukuk tüzel kişisini,
 
-t) (Ek:RG-9/6/2020-31150-C.K-2626/2 md.) İş yeri: Ticari, sınai, zirai veya mesleki bir faaliyetin ya da girişimin icrasına tahsis edilen veya bu faaliyetlerde kullanılan, kara ya da su üzerindeki açık veya kapalı alanda bulunan sabit ya da mobil yerleri,
+t) **(Ek:RG-9/6/2020-31150-C.K-2626/2 md.)** İş yeri: Ticari, sınai, zirai veya mesleki bir faaliyetin ya da girişimin icrasına tahsis edilen veya bu faaliyetlerde kullanılan, kara ya da su üzerindeki açık veya kapalı alanda bulunan sabit ya da mobil yerleri,
 
-u) (Ek:RG-9/6/2020-31150-C.K-2626/2 md.) Sınıf tespiti: Bu Yönetmelik ile sınıflandırması yapılmamış bir gayrisıhhî müessesenin kendi içinde kaçıncı sınıfta bulunduğunun tespiti amacıyla Sağlık Bakanlığınca yapılan tespiti ve sınıflandırmayı,
+u) **(Ek:RG-9/6/2020-31150-C.K-2626/2 md.)** Sınıf tespiti: Bu Yönetmelik ile sınıflandırması yapılmamış bir gayrisıhhî müessesenin kendi içinde kaçıncı sınıfta bulunduğunun tespiti amacıyla Sağlık Bakanlığınca yapılan tespiti ve sınıflandırmayı,
 
-v) (Ek:RG-17/4/2021-31457-C.K.-3835/1 md.) Endüstri bölgesi: Ülke ekonomisini uluslararası rekabet edebilir bir yapıya kavuşturmak, teknoloji transferini sağlamak, üretim ve istihdamı artırmak, yabancı sermaye girişini hızlandırmak ve özellikle üretim maliyetleri açısından büyük ölçekli yatırımlar için uygun sanayi alanı oluşturmak üzere 9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu gereğince kurulacak üretim bölgelerini,
+v) **(Ek:RG-17/4/2021-31457-C.K.-3835/1 md.)** Endüstri bölgesi: Ülke ekonomisini uluslararası rekabet edebilir bir yapıya kavuşturmak, teknoloji transferini sağlamak, üretim ve istihdamı artırmak, yabancı sermaye girişini hızlandırmak ve özellikle üretim maliyetleri açısından büyük ölçekli yatırımlar için uygun sanayi alanı oluşturmak üzere 9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu gereğince kurulacak üretim bölgelerini,
 
 4731
 
-y) (Ek:RG-17/4/2021-31457-C.K.-3835/1 md.) Teknoloji geliştirme bölgesi: Yüksek/ileri teknoloji kullanan ya da yeni teknolojilere yönelik firmaların, belirli bir üniversite veya yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsünün olanaklarından yararlanarak teknoloji veya yazılım ürettikleri/geliştirdikleri, teknolojik bir buluşu ticari bir ürün, yöntem veya hizmet haline dönüştürmek için faaliyet gösterdikleri ve bu yolla bölgenin kalkınmasına katkıda bulundukları, 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu gereğince aynı üniversite, yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsü alanı içinde veya yakınında kurulan; akademik, ekonomik ve sosyal yapının bütünleştiği siteyi veya bu özelliklere sahip teknoparkı,
+y) **(Ek:RG-17/4/2021-31457-C.K.-3835/1 md.)** Teknoloji geliştirme bölgesi: Yüksek/ileri teknoloji kullanan ya da yeni teknolojilere yönelik firmaların, belirli bir üniversite veya yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsünün olanaklarından yararlanarak teknoloji veya yazılım ürettikleri/geliştirdikleri, teknolojik bir buluşu ticari bir ürün, yöntem veya hizmet haline dönüştürmek için faaliyet gösterdikleri ve bu yolla bölgenin kalkınmasına katkıda bulundukları, 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu gereğince aynı üniversite, yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsü alanı içinde veya yakınında kurulan; akademik, ekonomik ve sosyal yapının bütünleştiği siteyi veya bu özelliklere sahip teknoparkı,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Ortak hükümler
+<i>Ortak hükümler</i>
 
 #### İşyerlerinde aranacak genel şartlar (1)
 
@@ -150,9 +150,9 @@ h) Umuma açık istirahat ve eğlence yerleri; patlayıcı, parlayıcı ve yanı
 
 _______________________
 
-(1) 23/5/2011 tarihli ve 2011/1900 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğinin 1 inci maddesi ile bu maddenin birinci fıkrasına (f) bendi eklenmiş diğer bentler buna göre teselsül ettirilmiş ve metne işlenmiştir.
+<i>(1) 23/5/2011 tarihli ve 2011/1900 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğinin 1 inci maddesi ile bu maddenin birinci fıkrasına (f) bendi eklenmiş diğer bentler buna göre teselsül ettirilmiş ve metne işlenmiştir.</i>
 
-(2) 17/4/2021 tarihli ve 31457 sayılı Resmî Gazete’de yayımlanan 3835 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu bende “karayolu trafik güvenliğinin sağlanmış” ibaresinden sonra gelmek üzere “ve geçiş yolu izin belgesinin alınmış” ibaresi eklenmiştir.
+<i>(2) 17/4/2021 tarihli ve 31457 sayılı Resmî Gazete’de yayımlanan 3835 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu bende “karayolu trafik güvenliğinin sağlanmış” ibaresinden sonra gelmek üzere “ve geçiş yolu izin belgesinin alınmış” ibaresi eklenmiştir.</i>
 
 4732
 
@@ -160,33 +160,33 @@ _______________________
 
 j) Sınaî, tıbbî ve radyoaktif atık üreten işyerlerinde bu atıkların toplanması, taşınması, depolanması, işlenmesi ve bertarafı konusunda gerekli tedbirlerin ve izinlerin alınmış olması,
 
-k) (Değişik:RG-11/12/2025-33104-CK-10681/3 md.) İş yerlerinin engelliler, yaşlılar ve diğer hareket kısıtlılığı bulunan kişiler için erişilebilirlik mevzuatına uygun olarak düzenlenmesi,
+k) **(Değişik:RG-11/12/2025-33104-CK-10681/3 md.)** İş yerlerinin engelliler, yaşlılar ve diğer hareket kısıtlılığı bulunan kişiler için erişilebilirlik mevzuatına uygun olarak düzenlenmesi,
 
 l) Yabancı uyrukluların işyeri açması ve çalıştırması konusunda, yabancılarla ilgili mevzuat hükümlerine uyulması.
 
-m) (Ek: 29/6/2010 – 2010/671 K.; Değişik: 10/11/2014-2014/7002 K.) Ekmek fırınlarının bu amaca tahsisli ayrık nizamda müstakil binalarda açılmış olması (Ancak, alışveriş merkezleri içinde bulunan 1000 m 2 ve üstü alana sahip hipermarket, süpermarket, grossmarket ve megamarket gibi adlarla açılan işyerleri bünyesinde yer alan fırınlarda ayrık nizamda müstakil bina şartı aranmaz.),
+m) **(Ek: 29/6/2010 – 2010/671 K.; Değişik: 10/11/2014-2014/7002 K.)** Ekmek fırınlarının bu amaca tahsisli ayrık nizamda müstakil binalarda açılmış olması (Ancak, alışveriş merkezleri içinde bulunan 1000 m 2 ve üstü alana sahip hipermarket, süpermarket, grossmarket ve megamarket gibi adlarla açılan işyerleri bünyesinde yer alan fırınlarda ayrık nizamda müstakil bina şartı aranmaz.),
 
-n) (Ek: 29/6/2010 – 2010/671 K.) Yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla kullanılan tesis ve düzeneklerde, işyeri açma ve çalışma ruhsatında kayıtlı hacimden fazla ve başka kategoriden sıvı depolanmaması, bu tesis ve düzeneklerde gerçekleştirilecek tadilatların ruhsata işlenmeden faaliyete geçirilmemesi.
+n) **(Ek: 29/6/2010 – 2010/671 K.)** Yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla kullanılan tesis ve düzeneklerde, işyeri açma ve çalışma ruhsatında kayıtlı hacimden fazla ve başka kategoriden sıvı depolanmaması, bu tesis ve düzeneklerde gerçekleştirilecek tadilatların ruhsata işlenmeden faaliyete geçirilmemesi.
 
-o) (Ek: 12/12/2016-2016/9607 K.) Sıvılaştırılmış petrol gazı tüp dağıtım merkezleri ve perakende satış yerleri ile bunların varsa tüp depolamak için kullandığı yerlerde işyerlerine giren ve çıkanların tespiti amacıyla gerekli kamera kayıt sisteminin kurulması (Bu sistem aracılığıyla elde edilen kayıtlar otuz gün süre ile saklanır ve kayıtlar yetkili makamlar haricindeki kişi ve kuruluşlara verilemez.).
+o) **(Ek: 12/12/2016-2016/9607 K.)** Sıvılaştırılmış petrol gazı tüp dağıtım merkezleri ve perakende satış yerleri ile bunların varsa tüp depolamak için kullandığı yerlerde işyerlerine giren ve çıkanların tespiti amacıyla gerekli kamera kayıt sisteminin kurulması (Bu sistem aracılığıyla elde edilen kayıtlar otuz gün süre ile saklanır ve kayıtlar yetkili makamlar haricindeki kişi ve kuruluşlara verilemez.).
 
 Yetkili idareler, işyeri açma ve çalışma ruhsatının verilmesinden sonra yapacakları denetimlerde bu hususların yerine getirilip getirilmediğini kontrol eder.
 
-(Değişik üçüncü fıkra: 19/3/2007 – 2007/11882 K.) Turizm işletme belgeli tesisler, işletme belgesinin düzenlenmesine esas hususlarla ilgili olarak sadece Kültür ve Turizm Bakanlığı tarafından denetlenir. (Mülga cümle:RG-11/12/2025-33104-CK-10681/3 md.)
+**(Değişik üçüncü fıkra: 19/3/2007 – 2007/11882 K.)** Turizm işletme belgeli tesisler, işletme belgesinin düzenlenmesine esas hususlarla ilgili olarak sadece Kültür ve Turizm Bakanlığı tarafından denetlenir. **(Mülga cümle:RG-11/12/2025-33104-CK-10681/3 md.)**
 
 Umuma açık istirahat ve eğlence yerleri için bu hususlar işyeri açma ve çalışma ruhsatı verilmeden önce yerinde kontrol edilir.
 
 ___________
 
-(1) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2048 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu bende “elektronik oyun merkezi” ibaresinden sonra gelmek üzere “, internet salonu” ibaresi eklenmiştir.
+<i>(1) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2048 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu bende “elektronik oyun merkezi” ibaresinden sonra gelmek üzere “, internet salonu” ibaresi eklenmiştir.</i>
 
 4732-1
 
-(Ek fıkra: 29/6/2010 – 2010/671 K.) Fabrika, şantiye, nakliye filosu ve benzeri işletmelerin ticari amaç dışında kendi faaliyetlerinin gerekli kıldığı yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması veya kendi araçlarına yakıt ikmali yapılması amacıyla kullanılan düzenekler, özel mevzuatındaki hükümler saklı kalmak kaydıyla, bu Yönetmelik ekindeki depolama hacimleri esas alınarak gayrisıhhî müessese olarak ruhsatlandırılır.
+**(Ek fıkra: 29/6/2010 – 2010/671 K.)** Fabrika, şantiye, nakliye filosu ve benzeri işletmelerin ticari amaç dışında kendi faaliyetlerinin gerekli kıldığı yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması veya kendi araçlarına yakıt ikmali yapılması amacıyla kullanılan düzenekler, özel mevzuatındaki hükümler saklı kalmak kaydıyla, bu Yönetmelik ekindeki depolama hacimleri esas alınarak gayrisıhhî müessese olarak ruhsatlandırılır.
 
-(Ek fıkra: 23/5/2011 – 2011/1900 K.) Maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesislerle ilgili bu Yönetmeliğin uygulanmasında 4/6/1985 tarihli ve 3213 sayılı Maden Kanununun 7 nci maddesinde yer alan hususlar öncelikle dikkate alınır.
+**(Ek fıkra: 23/5/2011 – 2011/1900 K.)** Maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesislerle ilgili bu Yönetmeliğin uygulanmasında 4/6/1985 tarihli ve 3213 sayılı Maden Kanununun 7 nci maddesinde yer alan hususlar öncelikle dikkate alınır.
 
-(Ek fıkra: 12/3/2012-2012/2958 K.) Birden fazla işyerinin bir arada bulunduğu iş hanı, çarşı ve benzeri işyerlerinde yangına karşı gerekli önlemlerin alındığını gösteren itfaiye raporu bu binaların yönetimi tarafından alınır ve yapıda değişiklik olmadığı sürece buralardaki işyerleri için ayrıca münferit itfaiye raporu aranmaz. Yangın tedbirlerini etkileyecek şekilde yapıda değişiklik yapılması durumunda yalnızca yapısında değişiklik yapılan işyerinin sahibinden münferit itfaiye raporu istenir.
+**(Ek fıkra: 12/3/2012-2012/2958 K.)** Birden fazla işyerinin bir arada bulunduğu iş hanı, çarşı ve benzeri işyerlerinde yangına karşı gerekli önlemlerin alındığını gösteren itfaiye raporu bu binaların yönetimi tarafından alınır ve yapıda değişiklik olmadığı sürece buralardaki işyerleri için ayrıca münferit itfaiye raporu aranmaz. Yangın tedbirlerini etkileyecek şekilde yapıda değişiklik yapılması durumunda yalnızca yapısında değişiklik yapılan işyerinin sahibinden münferit itfaiye raporu istenir.
 
 #### İşyeri açılması
 
@@ -212,7 +212,7 @@ Umuma açık istirahat ve eğlence yerleri için düzenlenen işyeri açma ve ç
 
 **Madde 8 –** (Değişik birinci fıkra:RG-17/4/2021-31457-C.K.-3835/3 md.) Ruhsatta belirtilen faaliyet konusu, faaliyet alanı ve adresin değişmemesi kaydıyla iş yerinin devredilmesi halinde, devralan kişinin başvurusu üzerine dosyadaki bilgi ve belgeler esas alınmak suretiyle yeni işletmeci adına tekrar ruhsat düzenlenir. Ancak devredilmek istenen iş yerinin fiziki durumu ve ruhsat dosyasındaki bilgi ve belgelerin işletmecinin kusuru sebebiyle faaliyet konusuyla ilgili bu Yönetmelik kapsamında karşılanması gereken mevzuat hükümlerine aykırı olması halinde, söz konusu aykırılıklar ve noksanlıklar giderilmeden yeni işletmeci adına ruhsat düzenlenemez.
 
-(Ek fıkra: 12/3/2012-2012/2958 K.) Umuma açık istirahat ve eğlence yerleri ile gayrisıhhî müesseseler hariç olmak üzere, sıhhî işyerleri için adresin değişmemesi kaydıyla faaliyet konusunun değiştiği durumlarda ruhsat başvurusunda bulunulması halinde, dosyadaki bilgi ve belgeler esas alınarak yeni faaliyet konusu ile ilgili şartlar karşılanmak kaydıyla başvuru sahibi adına tekrar ruhsat düzenlenir.
+**(Ek fıkra: 12/3/2012-2012/2958 K.)** Umuma açık istirahat ve eğlence yerleri ile gayrisıhhî müesseseler hariç olmak üzere, sıhhî işyerleri için adresin değişmemesi kaydıyla faaliyet konusunun değiştiği durumlarda ruhsat başvurusunda bulunulması halinde, dosyadaki bilgi ve belgeler esas alınarak yeni faaliyet konusu ile ilgili şartlar karşılanmak kaydıyla başvuru sahibi adına tekrar ruhsat düzenlenir.
 
 İşyerine yeni ortak alınması veya ortaklardan birinin ayrılması durumunda yeni ruhsat düzenlenmez.
 
@@ -228,13 +228,13 @@ Ruhsatın yenilenmesi veya intibakı gereken hallerde yetkili idareye en geç ü
 
 **Madde 9 –** Bu Yönetmelik kapsamına girmesine rağmen adı ve nitelikleri belirtilmeyen sıhhî bir işyerinin açılması halinde, benzeri işyerleri için öngörülen esaslara göre işlem yapılır.
 
-(Değişik fıkra:RG-9/6/2020-31150-C.K-2626/4 md.) Bu Yönetmelik ile sınıf tespiti yapılmamış gayrisıhhî müesseseler için sınıf tespiti; ilgili tesisin neden olabileceği kirleticilerin nitelik ve niceliği ile izalesi konusundaki proje ve açıklama raporu, neden olabileceği çevre sağlığı riskleri, açıklamalı proses akım şeması, eğer kurulu ise kapasite raporu (yoksa kişinin beyanı), toplam motor gücü, toplam personel sayısı ve tesisin diğer özelliklerine ilişkin bilgi ve belgeler dikkate alınarak Sağlık Bakanlığı tarafından yapılarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığına bildirilir. (2)
+**(Değişik fıkra:RG-9/6/2020-31150-C.K-2626/4 md.)** Bu Yönetmelik ile sınıf tespiti yapılmamış gayrisıhhî müesseseler için sınıf tespiti; ilgili tesisin neden olabileceği kirleticilerin nitelik ve niceliği ile izalesi konusundaki proje ve açıklama raporu, neden olabileceği çevre sağlığı riskleri, açıklamalı proses akım şeması, eğer kurulu ise kapasite raporu (yoksa kişinin beyanı), toplam motor gücü, toplam personel sayısı ve tesisin diğer özelliklerine ilişkin bilgi ve belgeler dikkate alınarak Sağlık Bakanlığı tarafından yapılarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığına bildirilir. (2)
 
 ––––––––––––––
 
-(1) 12/3/2012 tarihli ve 2012/2958 sayılı Bakanlar Kurulu Kararının Eki Yönetmeliğin 10 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “ilgili ise ticaret siciline” ibaresinden sonra gelmek üzere “veya esnaf siciline” ibaresi eklenmiş ve metne işlenmiştir.
+<i>(1) 12/3/2012 tarihli ve 2012/2958 sayılı Bakanlar Kurulu Kararının Eki Yönetmeliğin 10 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “ilgili ise ticaret siciline” ibaresinden sonra gelmek üzere “veya esnaf siciline” ibaresi eklenmiş ve metne işlenmiştir.</i>
 
-(2) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu fıkrada yer alan “yapılır.” ibaresi “yapılarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığına bildirilir.” şeklinde değiştirilmiştir.
+<i>(2) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu fıkrada yer alan “yapılır.” ibaresi “yapılarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığına bildirilir.” şeklinde değiştirilmiştir.</i>
 
 4733
 
@@ -246,9 +246,9 @@ Aynı adreste bulunsa bile ana faaliyet konusu veya işletmecisi farklı olan i�
 
 İşyerlerinin depo olarak kullandıkları yerler, işyeri açma ve çalışma ruhsatında gösterilir.
 
-(Ek fıkra: 23/5/2011 – 2011/1900 K.) Gayrisıhhî müesseseler kapsamına giren maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesisler için birlikte veya ayrı ayrı verilen işyeri açma ve çalışma ruhsatı, ÇED kapsamındaki madencilik faaliyetleri için ÇED koordinatları içindeki alanı, bunun dışındaki madencilik faaliyetleri için maden ruhsat alanının tamamı ile geçici tesisleri kapsar. Maden ruhsat sahasındaki faaliyetler esas alınarak maden ruhsat sahibi adına ya da maden ruhsat sahibinin muvafakati bulunmak kaydıyla işletmeci adına işyeri açma ve çalışma ruhsatı düzenlenir. Ancak, aynı maden ruhsat sahasında bulunsa bile işletmecisi farklı olan maden üretim faaliyetleri ve bu faaliyetlere dayalı olarak üretim yapılan geçici tesisler için ayrı ayrı işyeri açma ve çalışma ruhsatı düzenlenir.
+**(Ek fıkra: 23/5/2011 – 2011/1900 K.)** Gayrisıhhî müesseseler kapsamına giren maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesisler için birlikte veya ayrı ayrı verilen işyeri açma ve çalışma ruhsatı, ÇED kapsamındaki madencilik faaliyetleri için ÇED koordinatları içindeki alanı, bunun dışındaki madencilik faaliyetleri için maden ruhsat alanının tamamı ile geçici tesisleri kapsar. Maden ruhsat sahasındaki faaliyetler esas alınarak maden ruhsat sahibi adına ya da maden ruhsat sahibinin muvafakati bulunmak kaydıyla işletmeci adına işyeri açma ve çalışma ruhsatı düzenlenir. Ancak, aynı maden ruhsat sahasında bulunsa bile işletmecisi farklı olan maden üretim faaliyetleri ve bu faaliyetlere dayalı olarak üretim yapılan geçici tesisler için ayrı ayrı işyeri açma ve çalışma ruhsatı düzenlenir.
 
-(Ek fıkra: RG-25/8/2022-31934-C.K-5987/3 md.) Gayrisıhhî müesseselerde tâlî faaliyet konuları, ana faaliyet konusunun sınıfıyla aynı veya alt düzeyde olacak şekilde belirlenir.
+**(Ek fıkra: RG-25/8/2022-31934-C.K-5987/3 md.)** Gayrisıhhî müesseselerde tâlî faaliyet konuları, ana faaliyet konusunun sınıfıyla aynı veya alt düzeyde olacak şekilde belirlenir.
 
 #### Ruhsatın işyerinde bulundurulması
 
@@ -260,7 +260,7 @@ Sıhhî İşyerleri
 
 ### BİRİNCİ BÖLÜM
 
-Ruhsatların Düzenlenmesi ve Kesinleşmesi
+<i>Ruhsatların Düzenlenmesi ve Kesinleşmesi</i>
 
 #### Ruhsatın düzenlenmesi
 
@@ -282,7 +282,7 @@ Verilen süre içinde tespit edilen noksanlık ve aykırılıklar giderilmediği
 
 ### İKİNCİ BÖLÜM
 
-Aranacak Şartlar
+<i>Aranacak Şartlar</i>
 
 #### Aranacak şartlar
 
@@ -296,39 +296,39 @@ Gayrisıhhî Müesseseler
 
 ### BİRİNCİ BÖLÜM
 
-Kurullar
+<i>Kurullar</i>
 
 #### İnceleme kurulları
 
 **Madde 15 –** İl özel idarelerinde birinci sınıf gayrisıhhî müesseseleri inceleme kurulu, beş kişiden az olmamak üzere valinin veya görevlendireceği yetkilinin başkanlığında çevre, sağlık, hukuk, imar ve tarım birimleri görevlileri, sanayi ve ticaret il müdürlüğü temsilcisi, ilgili meslek odalarının temsilcileri ile tesisin özelliğine göre gerektiğinde vali tarafından belirlenecek diğer kuruluş temsilcilerinden oluşur.
 
-(Mülga İkinci Fıkra: 19/3/2007 – 2007/11882 K.)
+**(Mülga İkinci Fıkra: 19/3/2007 – 2007/11882 K.)**
 
 Büyükşehir belediyelerinde birinci sınıf gayrisıhhî müesseseleri inceleme kurulu, beş kişiden az olmamak üzere büyükşehir belediye başkanı veya görevlendireceği yetkilinin başkanlığında çevre, sağlık, hukuk, imar ve küşat birimleri görevlileri, sanayi ve ticaret il müdürlüğü temsilcisi, ilgili meslek odalarının temsilcileri ile tesisin özelliğine göre belediye başkanı tarafından belirlenecek diğer kuruluş temsilcilerinden oluşur.
 
 İl belediyelerinde birinci sınıf gayrisıhhî müesseseleri inceleme kurulu, üçüncü fıkrada belirtilen esasa göre oluşturulur.
 
-(Mülga Beşinci Fıkra: 19/3/2007 – 2007/11882 K.)
+**(Mülga Beşinci Fıkra: 19/3/2007 – 2007/11882 K.)**
 
 Kurulların oluşturulması sırasında yeterli teknik ve uzman elemana sahip olmayan belediyeler, kurulların oluşturulması için valilikten eleman görevlendirilmesini talep edebilir .(1)
 
-(Değişik yedinci fıkra:RG-17/4/2021-31457-C.K.-3835/4 md.) Organize sanayi bölgelerinde ve endüstri bölgelerinde inceleme kurulu oluşturulmaz. Tesisin özelliğine göre ilave olarak bırakılacak sağlık koruma bandı; organize sanayi bölgesinde organize sanayi bölgesi yönetim kurulu kararı, endüstri bölgelerinde ise Sanayi ve Teknoloji Bakanlığının izni ile tespit edilir.
+**(Değişik yedinci fıkra:RG-17/4/2021-31457-C.K.-3835/4 md.)** Organize sanayi bölgelerinde ve endüstri bölgelerinde inceleme kurulu oluşturulmaz. Tesisin özelliğine göre ilave olarak bırakılacak sağlık koruma bandı; organize sanayi bölgesinde organize sanayi bölgesi yönetim kurulu kararı, endüstri bölgelerinde ise Sanayi ve Teknoloji Bakanlığının izni ile tespit edilir.
 
-(Ek fıkra: 23/5/2011 – 2011/1900 K.) Çevresel Etki Değerlendirmesi Yönetmeliği hükümlerine göre ÇED olumlu kararı alınmış olan maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesisler için inceleme kurulu oluşturulmaz.
+**(Ek fıkra: 23/5/2011 – 2011/1900 K.)** Çevresel Etki Değerlendirmesi Yönetmeliği hükümlerine göre ÇED olumlu kararı alınmış olan maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesisler için inceleme kurulu oluşturulmaz.
 
 ### İKİNCİ BÖLÜM
 
-Başvuru ve Açılma Ruhsatı
+<i>Başvuru ve Açılma Ruhsatı</i>
 
 #### Sağlık koruma bandı
 
 **Madde 16 –** Sanayi bölgesi, organize sanayi bölgesi ve endüstri bölgeleri ile bu bölgeler dışında kurulacak birinci sınıf gayrisıhhî müesseselerin etrafında, sağlık koruma bandı konulması mecburîdir. Sağlık koruma bandı mülkiyet sınırları dışında belirlenemez ve bu alan içinde mesken veya insan ikametine mahsus yapılaşmaya izin verilmez.
 
-(Mülga İkinci Fıkra: 19/3/2007 – 2007/11882 K.)
+**(Mülga İkinci Fıkra: 19/3/2007 – 2007/11882 K.)**
 
 –––––––––––––––––––––––––––
 
-(1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 5 inci maddesiyle bu fıkrada yer alan “valilik veya kaymakamlıktan" ibaresi "valilikten" olarak değiştirilmiş ve metne işlenmiştir.
+<i>(1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 5 inci maddesiyle bu fıkrada yer alan “valilik veya kaymakamlıktan" ibaresi "valilikten" olarak değiştirilmiş ve metne işlenmiştir.</i>
 
 .
 
@@ -340,19 +340,19 @@ Sağlık koruma bandı, inceleme kurulları tarafından tesislerin çevre ve top
 
 **Madde 17 –** Gayrisıhhî müessese açmak isteyen gerçek veya tüzel kişiler Örnek 2’de yer alan başvuru formunu doldurarak yetkili idareye başvurur.
 
-(Ek fıkra: 23/5/2011 – 2011/1900 K.) Maden üretim faaliyetleri ile bu faaliyetlere dayalı ruhsat sahasındaki geçici tesisler için işyeri açma ve çalışma ruhsatı il özel idareleri tarafından verilir. Maden üretim faaliyetleri ile bu faaliyetlere bağlı geçici tesislere dayalı olarak üretim yapmak isteyen gerçek veya tüzel kişiler Örnek 7’de yer alan formu doldurarak il özel idaresine başvurur. Başvurularda bu formda yer alanlar dışında başka bir bilgi ve belge istenilmez. Maden arama faaliyetleri işyeri açma ve çalışma ruhsatına tabi değildir. Ancak, arama ruhsat dönemi içinde üretim yapılması halinde işyeri açma ve çalışma ruhsatı alınması zorunludur. Madencilik faaliyetleri için işyeri açma ve çalışma ruhsatı Örnek 8’de yer alan bilgileri içerecek şekilde düzenlenir.
+**(Ek fıkra: 23/5/2011 – 2011/1900 K.)** Maden üretim faaliyetleri ile bu faaliyetlere dayalı ruhsat sahasındaki geçici tesisler için işyeri açma ve çalışma ruhsatı il özel idareleri tarafından verilir. Maden üretim faaliyetleri ile bu faaliyetlere bağlı geçici tesislere dayalı olarak üretim yapmak isteyen gerçek veya tüzel kişiler Örnek 7’de yer alan formu doldurarak il özel idaresine başvurur. Başvurularda bu formda yer alanlar dışında başka bir bilgi ve belge istenilmez. Maden arama faaliyetleri işyeri açma ve çalışma ruhsatına tabi değildir. Ancak, arama ruhsat dönemi içinde üretim yapılması halinde işyeri açma ve çalışma ruhsatı alınması zorunludur. Madencilik faaliyetleri için işyeri açma ve çalışma ruhsatı Örnek 8’de yer alan bilgileri içerecek şekilde düzenlenir.
 
-(Ek fıkra: RG-25/8/2022-31934-C.K-5987/4 md.) 10/9/2014 tarihli ve 29115 sayılı Resmî Gazete’de yayımlanan Çevre İzin ve Lisans Yönetmeliğine göre verilen geçici faaliyet belgesi, bu madde ile 21 inci, 22 nci ve 23 üncü maddelerin uygulanmasında çevre izni veya çevre izin ve lisans belgesi yerine geçer.
+**(Ek fıkra: RG-25/8/2022-31934-C.K-5987/4 md.)** 10/9/2014 tarihli ve 29115 sayılı Resmî Gazete’de yayımlanan Çevre İzin ve Lisans Yönetmeliğine göre verilen geçici faaliyet belgesi, bu madde ile 21 inci, 22 nci ve 23 üncü maddelerin uygulanmasında çevre izni veya çevre izin ve lisans belgesi yerine geçer.
 
 #### Yer seçimi ve tesis kurma izni
 
 **Madde 18 –** Birinci sınıf gayrisıhhî müesseseleri inceleme kurulu, ilgilinin başvurusundan itibaren en geç yedi gün içinde tesisin kurulacağı yeri mahallinde inceleyerek, Örnek-3’teki yer seçimi raporu formunu düzenler ve görüşünü bildirir. Yer seçimi inceleme kurulunun raporu, ilgili birimin teklifi üzerine yetkili idarenin en üst amiri veya görevlendireceği yetkili tarafından üç gün içinde değerlendirilerek yer seçimi ve tesis kurma izni kararı verilir.
 
-(Mülga İkinci Fıkra: 19/3/2007 – 2007/11882 K.)
+**(Mülga İkinci Fıkra: 19/3/2007 – 2007/11882 K.)**
 
 Yer seçimi ve tesis kurma izni, tesisin imara uygun olması şartıyla verildiği tarihten itibaren beş yıl süreyle geçerlidir. Bu süre sonunda açılma izni alınmadığı takdirde, ilgilinin başvurusu üzerine yer seçimi ve tesis kurma izni iki yıl daha uzatılır.
 
-(Mülga Dördüncü Fıkra: 19/3/2007 – 2007/11882 K.)
+**(Mülga Dördüncü Fıkra: 19/3/2007 – 2007/11882 K.)**
 
 #### Yer seçimi ve tesis kurma izni muafiyeti
 
@@ -362,7 +362,7 @@ Yer seçimi ve tesis kurma izni, tesisin imara uygun olması şartıyla verildi�
 
 #### Deneme izni
 
-**Madde 20 –** Projesine uygun olarak inşa edilmiş birinci sınıf gayrisıhhî müesseselere yetkili idarenin gerekli görmesi veya işyeri sahibinin müracaatı halinde, inceleme kurulunun önerisi üzerine yetkili idarenin en üst amiri veya görevlendireceği yetkili tarafından süresi bir yılı geçmemek üzere deneme izni verilebilir. (Mülga İkinci Cümle: 19/3/2007 – 2007/11882 K.)
+**Madde 20 –** Projesine uygun olarak inşa edilmiş birinci sınıf gayrisıhhî müesseselere yetkili idarenin gerekli görmesi veya işyeri sahibinin müracaatı halinde, inceleme kurulunun önerisi üzerine yetkili idarenin en üst amiri veya görevlendireceği yetkili tarafından süresi bir yılı geçmemek üzere deneme izni verilebilir. **(Mülga İkinci Cümle: 19/3/2007 – 2007/11882 K.)**
 
 Deneme izni, bu süreçte açılma ve çalışma ruhsatı yerine geçer.
 
@@ -372,17 +372,17 @@ Deneme izni, bu süreçte açılma ve çalışma ruhsatı yerine geçer.
 
 –––––––––––––––––––––––––––
 
-(1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 10 uncu maddesiyle bu arada yer alan “veya analizi" ibaresi madde metninden çıkarılmıştır.
+<i>(1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 10 uncu maddesiyle bu arada yer alan “veya analizi" ibaresi madde metninden çıkarılmıştır.</i>
 
-(2) 23/5/2011 tarihli ve 2011/1900 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 5 inci maddesi ile bu fıkrada yer alan “Deşarj ve emisyon izin belgesi” ibaresi “Çevre izni veya çevre izin ve lisans belgesi” olarak değiştirilmiş ve metne işlenmiştir.
+<i>(2) 23/5/2011 tarihli ve 2011/1900 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 5 inci maddesi ile bu fıkrada yer alan “Deşarj ve emisyon izin belgesi” ibaresi “Çevre izni veya çevre izin ve lisans belgesi” olarak değiştirilmiş ve metne işlenmiştir.</i>
 
 4736
 
 Birinci sınıf gayrisıhhî müessese başvuru ve beyan formunda yer alan bilgiler esas alınarak bir ay içinde yapılan denetimlerde, beyan edilen hususlara aykırı bir durumun tespiti halinde ilgililer hakkında gerekli kanunî işlem yapılır. Aykırılık ve noksanlıklar toplum ve çevre sağlığı açısından bir zarar doğurmuyorsa, tedbirlerin alınması ve noksanlıkların giderilmesi için bir yılı geçmemek üzere süre verilir. Verilen süre içinde aykırılık ve noksanlıklarını gidermeyen işletmelerin faaliyeti söz konusu aykırılık ve noksanlıklar giderilinceye kadar durdurulur.
 
-(Mülga Üçüncü Fıkra: 19/3/2007 – 2007/11882 K.)
+**(Mülga Üçüncü Fıkra: 19/3/2007 – 2007/11882 K.)**
 
-(Mülga Dördüncü Fıkra: 19/3/2007 – 2007/11882 K.)
+**(Mülga Dördüncü Fıkra: 19/3/2007 – 2007/11882 K.)**
 
 Ruhsatın verilmesinden sonra yetkili idare tarafından yapılacak denetim sonucunda toplum ve çevre sağlığı açısından zararlı olan işletmelerin faaliyeti, noksanlıklar ve aykırılıklar giderilinceye kadar derhal durdurulur.
 
@@ -402,7 +402,7 @@ a) Yer seçimi ve tesis kurma için gerekli belgeler;
 
 5) Şehir şebeke suyu bulunmayan yerlerde içme ve kullanma suyunun hangi kaynaktan sağlandığı ile suyun bakteriyolojik ve kimyasal analiz raporu.
 
-6) (Ek: 23/5/2011 – 2011/1900 K.) Madencilik faaliyetlerinde bunlara ilave olarak maden arama ruhsatı veya işletme ruhsatı ile Çevresel Etki DeğerlendirmesiYönetmeliği kapsamında alınmış karar.
+6) **(Ek: 23/5/2011 – 2011/1900 K.)** Madencilik faaliyetlerinde bunlara ilave olarak maden arama ruhsatı veya işletme ruhsatı ile Çevresel Etki DeğerlendirmesiYönetmeliği kapsamında alınmış karar.
 
 b) Ruhsat için gerekli belgeler;
 
@@ -412,25 +412,25 @@ b) Ruhsat için gerekli belgeler;
 
 3) Yangın ve patlamalar için gerekli önlemlerin alındığına dair itfaiye raporu,
 
-4) (Değişik: 12/3/2012-2012/2958 K.) Sorumlu müdürün adı, soyadı, Türkiye Cumhuriyeti kimlik numarası ve sorumlu müdür sözleşme tarihinin beyanı,
+4) **(Değişik: 12/3/2012-2012/2958 K.)** Sorumlu müdürün adı, soyadı, Türkiye Cumhuriyeti kimlik numarası ve sorumlu müdür sözleşme tarihinin beyanı,
 
-5) (Değişik: 23/5/2011 – 2011/1900 K.) Çevre izni veya çevre izin ve lisans belgesi.
+5) **(Değişik: 23/5/2011 – 2011/1900 K.)** Çevre izni veya çevre izin ve lisans belgesi.
 
-6) (Mülga: 23/5/2011 – 2011/1900 K.)
+6) **(Mülga: 23/5/2011 – 2011/1900 K.)**
 
-7) (Değişik : 19/3/2007 – 2007/11882 K.) Açılma izni raporu.
+7) **(Değişik : 19/3/2007 – 2007/11882 K.)** Açılma izni raporu.
 
 (a) ve (b) bentlerinde istenilen belgelerden ÇED kapsamında hazırlanarak ilgili idareye verilenler ruhsatlandırma sürecinde yeniden istenmez.
 
-(Ek fıkra: 23/5/2011 – 2011/1900 K.) Maden mevzuatı uyarınca ruhsat veya sertifika alan başvuru sahiplerinden tapu ya da kira sözleşmesi istenmez. Maden üretim faaliyetleri veya bu faaliyetlere bağlı geçici tesisler için çevre izni veya çevre izin ve lisans belgesi, işyeri açma ve çalışma ruhsatı verilmesini müteakip işletme faaliyete geçtikten sonra bir yıl içinde il özel idaresine verilir.
+**(Ek fıkra: 23/5/2011 – 2011/1900 K.)** Maden mevzuatı uyarınca ruhsat veya sertifika alan başvuru sahiplerinden tapu ya da kira sözleşmesi istenmez. Maden üretim faaliyetleri veya bu faaliyetlere bağlı geçici tesisler için çevre izni veya çevre izin ve lisans belgesi, işyeri açma ve çalışma ruhsatı verilmesini müteakip işletme faaliyete geçtikten sonra bir yıl içinde il özel idaresine verilir.
 
 ––––––––––––––––––––––––––––––––––––––––––
 
-(1) 23/5/2011 tarihli ve 2011/1900 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 6 ıncı maddesi ile bu alt bende “birinci sınıf gayrisıhhî müesseseler kapsamında yer alan madencilik tesislerinde ise maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesislerin yerleşiminin son durumunu gösteren uygun ölçekli harita,” ibaresi eklenmiş ve metne işlenmiştir.
+<i>(1) 23/5/2011 tarihli ve 2011/1900 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 6 ıncı maddesi ile bu alt bende “birinci sınıf gayrisıhhî müesseseler kapsamında yer alan madencilik tesislerinde ise maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesislerin yerleşiminin son durumunu gösteren uygun ölçekli harita,” ibaresi eklenmiş ve metne işlenmiştir.</i>
 
-(2) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 7 nci maddesiyle, 22 nci maddenin birinci fıkrasının (a) bendinin (4) numaralı alt bendindeki “veya yatırım sürecinin hızlandırılması amacı ile yetkili makamca uygun görülen durumlarda, bir yıl içerisinde üretim sürecinin gerektirdiği atık limitlerini sağlayacak projenin ve raporların hazırlatılmasına ilişkin müteşebbisçe verilen taahhütname,” ibaresi madde metninden çıkarılmıştır.
+<i>(2) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 7 nci maddesiyle, 22 nci maddenin birinci fıkrasının (a) bendinin (4) numaralı alt bendindeki “veya yatırım sürecinin hızlandırılması amacı ile yetkili makamca uygun görülen durumlarda, bir yıl içerisinde üretim sürecinin gerektirdiği atık limitlerini sağlayacak projenin ve raporların hazırlatılmasına ilişkin müteşebbisçe verilen taahhütname,” ibaresi madde metninden çıkarılmıştır.</i>
 
-(3) 23/5/2011 tarihli ve 2011/1900 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 6 ıncı maddesi ile bu alt bende “birinci sınıf gayrisıhhî müesseseler kapsamında yer alan madencilik tesislerinde ise sağlık koruma bandının işaretlendiği ve maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesislerin yerleşiminin son durumunu gösteren uygun ölçekli harita,” ibaresi eklenmiş ve metne işlenmiştir.
+<i>(3) 23/5/2011 tarihli ve 2011/1900 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 6 ıncı maddesi ile bu alt bende “birinci sınıf gayrisıhhî müesseseler kapsamında yer alan madencilik tesislerinde ise sağlık koruma bandının işaretlendiği ve maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesislerin yerleşiminin son durumunu gösteren uygun ölçekli harita,” ibaresi eklenmiş ve metne işlenmiştir.</i>
 
 4737
 
@@ -454,7 +454,7 @@ Ruhsat verilmesini takiben yapılacak kontrol ve denetimlerde, ikinci fıkrada b
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Denetim ve Diğer Hükümler
+<i>Denetim ve Diğer Hükümler</i>
 
 #### Denetim
 
@@ -464,7 +464,7 @@ Denetim ve Diğer Hükümler
 
 **Madde 25 –** Birinci sınıf gayrisıhhî müesseselerde, işletmenin faaliyet alanında mesleki yeterliliğe sahip bir sorumlu müdür çalıştırılması zorunludur.
 
-(Ek fıkra: 12/3/2012-2012/2958 K.) Birinci sınıf gayrisıhhî müesseselerde, ruhsat başvurusu sırasında beyan edilen sorumlu müdür sözleşmesinin işyerinde bulundurulması zorunludur. Yetkili idareler tarafından yapılacak denetimlerde sorumlu müdür sözleşmesinin işyerinde bulunmaması veya bu sözleşmeyle ilgili hatalı beyanda bulunulduğunun tespit edilmesi hâlinde onbeş gün içinde bu eksikliğin giderilmesi istenir. Bu süre sonunda eksikliklerin giderilmemesi hâlinde bu işyerleri hakkında işyeri ruhsatının iptaline ilişkin hükümler uygulanır. Ruhsat başvurusunda bu sözleşmeyle ilgili gerçeğe aykırı beyanda bulundukları tespit edilen işyeri sahipleri hakkında suç duyurusunda bulunulur.
+**(Ek fıkra: 12/3/2012-2012/2958 K.)** Birinci sınıf gayrisıhhî müesseselerde, ruhsat başvurusu sırasında beyan edilen sorumlu müdür sözleşmesinin işyerinde bulundurulması zorunludur. Yetkili idareler tarafından yapılacak denetimlerde sorumlu müdür sözleşmesinin işyerinde bulunmaması veya bu sözleşmeyle ilgili hatalı beyanda bulunulduğunun tespit edilmesi hâlinde onbeş gün içinde bu eksikliğin giderilmesi istenir. Bu süre sonunda eksikliklerin giderilmemesi hâlinde bu işyerleri hakkında işyeri ruhsatının iptaline ilişkin hükümler uygulanır. Ruhsat başvurusunda bu sözleşmeyle ilgili gerçeğe aykırı beyanda bulundukları tespit edilen işyeri sahipleri hakkında suç duyurusunda bulunulur.
 
 #### Gayrisıhhî müesseselerin sanayi bölgelerinde kurulması
 
@@ -478,9 +478,9 @@ Sanayi bölgesi içindeki gayrisıhhî müesseselerden, diğer tesislere zarar v
 
 –––––––––––––––––––––––––––––––––––––––––
 
-(1) Bu madde başlığı 19/3/2007 tarihli ve 2007/11882 sayılı Bakanalar Kurulu Kararı eki Yönetmeliğin 8 inci maddesiyle “Tesise diğer kuruluşlarca izin verilmesi durumu” iken metne işlendiği şekilde değiştirilmiştir.
+<i>(1) Bu madde başlığı 19/3/2007 tarihli ve 2007/11882 sayılı Bakanalar Kurulu Kararı eki Yönetmeliğin 8 inci maddesiyle “Tesise diğer kuruluşlarca izin verilmesi durumu” iken metne işlendiği şekilde değiştirilmiştir.</i>
 
-(2) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 5 inci maddesiyle, bu fıkrada yer alan “sıkıştırılmış doğalgaz istasyonları” ibaresinden sonra gelmek üzere “, atık işleme sanayi tesisleri” ibaresi eklenmiştir.
+<i>(2) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 5 inci maddesiyle, bu fıkrada yer alan “sıkıştırılmış doğalgaz istasyonları” ibaresinden sonra gelmek üzere “, atık işleme sanayi tesisleri” ibaresi eklenmiştir.</i>
 
 4738
 
@@ -488,7 +488,7 @@ Sanayi bölgesi içindeki gayrisıhhî müesseselerden, diğer tesislere zarar v
 
 **Madde 28 –** Gayrisıhhî müesseselerde işletmenin faaliyet alanının değişmesi durumunda yeniden ruhsat alınması zorunludur.
 
-(Mülga fıkra:RG-9/6/2020-31150-C.K-2626/5 md.)
+**(Mülga fıkra:RG-9/6/2020-31150-C.K-2626/5 md.)**
 
 Gayrisıhhî müesseselerin yeniden sınıflandırılması veya tesiste yapılan bir değişiklik neticesinde bir alt sınıfa geçen tesislerin yeniden ruhsat alması gerekmez. Ancak gayrisıhhî müesseselerin yeniden sınıflandırılmasında yapılan değişiklik neticesinde üst sınıfa geçmiş olan tesislerin bir yıl içinde yeni sınıfa göre açılma ruhsatı alması zorunludur.
 
@@ -498,7 +498,7 @@ Umuma Açık İstirahat ve Eğlence Yerleri
 
 ### BİRİNCİ BÖLÜM
 
-İçkili Yer Bölgesi
+<i>İçkili Yer Bölgesi</i>
 
 #### İçkili yer bölgesinin tespiti
 
@@ -528,7 +528,7 @@ tespit edilemez.
 
 ### İKİNCİ BÖLÜM
 
-Umuma Açık İstirahat ve Eğlence Yerinin Açılması
+<i>Umuma Açık İstirahat ve Eğlence Yerinin Açılması</i>
 
 #### Umuma açık istirahat ve eğlence yerlerinin açılması
 
@@ -542,7 +542,7 @@ Yetkili kolluk kuvveti, açılacak yerin genel güvenlik ve asayişin korunması
 
 Umuma açık istirahat ve eğlence yeri açılması hususundaki başvurular yetkili idareler tarafından bir ay içinde sonuçlandırılır.
 
-(Değişik cümle:RG-25/1/2020-31019-CK-2048/2 md.) Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri, internet salonu gibi umuma açık yerler ile alkollü içkilerin açık olarak satışının yapıldığı yerlerin; örgün eğitim kurumları, özel öğretim kursları, yükseköğretim hariç öğrenci yurtları ile anaokullarından, kapıdan kapıya en az yüz metre uzaklıkta bulunması zorunludur. Özel eğitime muhtaç bireylerin devam ettikleri öğretim kurumları ile okullar dışındaki diğer özel öğretim kurumları için bu zorunluluk aranmaz. Ancak söz konusu özel öğretim kurumlarıyla yukarıda belirtilen türdeki işyerleri aynı binada bulunamaz.
+**(Değişik cümle:RG-25/1/2020-31019-CK-2048/2 md.)** Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri, internet salonu gibi umuma açık yerler ile alkollü içkilerin açık olarak satışının yapıldığı yerlerin; örgün eğitim kurumları, özel öğretim kursları, yükseköğretim hariç öğrenci yurtları ile anaokullarından, kapıdan kapıya en az yüz metre uzaklıkta bulunması zorunludur. Özel eğitime muhtaç bireylerin devam ettikleri öğretim kurumları ile okullar dışındaki diğer özel öğretim kurumları için bu zorunluluk aranmaz. Ancak söz konusu özel öğretim kurumlarıyla yukarıda belirtilen türdeki işyerleri aynı binada bulunamaz.
 
 4739
 
@@ -554,7 +554,7 @@ Sabit veya seyyar olarak kullanılan kara, deniz, hava ve her çeşit taşıma a
 
 Kollukça, izin almadan açıldığı tespit edilen umuma açık istirahat ve eğlence yerleri düzenlenecek bir tutanakla kapatılmak üzere yetkili idareye bildirilir. Yetkili idare yapılan bildirim üzerine izin almadan açılan yeri kapatarak en geç üç gün içinde kolluğa bilgi verir.
 
-(Ek onbirinci fıkra:RG-17/4/2021-31457-C.K.-3835/5 md.) Gazino, pavyon, meyhane, bar, birahane, içkili lokanta, taverna ve benzeri içkili yerler kapsamında açıkta alkollü içki satışı ve sunumu yapılan iş yerleri ile nargilelik tütün mamulünün sunumu yapılan iş yerlerine kesinleşmemiş ruhsat düzenlenir. Kesinleşmemiş ruhsat düzenlenen bu yerler bir aylık süre içinde açık alkollü içkilerin satışının ve sunumunun yapılabilmesi için gerekli olan, açık alkollü içki satış belgesi ile nargilelik tütün mamulünün sunumu suretiyle satışının yapılabilmesi için gerekli olan, nargilelik tütün mamulü sunum uygunluk belgesini yetkili idareye ibraz ederek ruhsatlarını kesinleştirir. Bu maddedeki belgeleri süresi içinde ibraz edilmeyen iş yerleri, işyeri açma ve çalışma ruhsatları iptal edilerek yetkili idareler tarafından kapatılır.
+**(Ek onbirinci fıkra:RG-17/4/2021-31457-C.K.-3835/5 md.)** Gazino, pavyon, meyhane, bar, birahane, içkili lokanta, taverna ve benzeri içkili yerler kapsamında açıkta alkollü içki satışı ve sunumu yapılan iş yerleri ile nargilelik tütün mamulünün sunumu yapılan iş yerlerine kesinleşmemiş ruhsat düzenlenir. Kesinleşmemiş ruhsat düzenlenen bu yerler bir aylık süre içinde açık alkollü içkilerin satışının ve sunumunun yapılabilmesi için gerekli olan, açık alkollü içki satış belgesi ile nargilelik tütün mamulünün sunumu suretiyle satışının yapılabilmesi için gerekli olan, nargilelik tütün mamulü sunum uygunluk belgesini yetkili idareye ibraz ederek ruhsatlarını kesinleştirir. Bu maddedeki belgeleri süresi içinde ibraz edilmeyen iş yerleri, işyeri açma ve çalışma ruhsatları iptal edilerek yetkili idareler tarafından kapatılır.
 
 #### Açılış ve kapanış saatleri
 
@@ -572,29 +572,29 @@ Bu tür yerlerin açılmasına izin verilirken, o yerin en az yüz metre civarı
 
 **Madde 35 –** Umuma açık istirahat ve eğlence yerinin sahibinin tüzel kişi olması durumunda, işyerini idare etmek üzere bir mes’ul müdür görevlendirilir. Gerçek kişiler de işyerine mes’ul müdür görevlendirebilir. Görevlendirilen mes’ul müdür yetkili idareye bildirilir.
 
-(Ek fıkra: 12/3/2012-2012/2958 K.) Umuma açık istirahat ve eğlence yerlerinde, ruhsat başvurusu sırasında mes’ul müdürün adı, soyadı, Türkiye Cumhuriyeti kimlik numarası ve mes’ul müdür sözleşme tarihinin beyanı yeterlidir. Yetkili idareler tarafından yapılacak denetimlerde mes’ul müdür sözleşmesinin işyerinde bulunmaması veya bu sözleşmeyle ilgili hatalı beyanda bulunulduğunun tespit edilmesi hâlinde onbeş gün içinde bu eksikliğin giderilmesi istenir. Bu süre sonunda eksikliklerin giderilmemesi hâlinde bu işyerleri hakkında işyeri ruhsatının iptaline ilişkin hükümler uygulanır. Ruhsat başvurusunda mes’ul müdür sözleşmesiyle ilgili gerçeğe aykırı beyanda bulundukları tespit edilen işyeri sahipleri hakkında suç duyurusunda bulunulur.
+**(Ek fıkra: 12/3/2012-2012/2958 K.)** Umuma açık istirahat ve eğlence yerlerinde, ruhsat başvurusu sırasında mes’ul müdürün adı, soyadı, Türkiye Cumhuriyeti kimlik numarası ve mes’ul müdür sözleşme tarihinin beyanı yeterlidir. Yetkili idareler tarafından yapılacak denetimlerde mes’ul müdür sözleşmesinin işyerinde bulunmaması veya bu sözleşmeyle ilgili hatalı beyanda bulunulduğunun tespit edilmesi hâlinde onbeş gün içinde bu eksikliğin giderilmesi istenir. Bu süre sonunda eksikliklerin giderilmemesi hâlinde bu işyerleri hakkında işyeri ruhsatının iptaline ilişkin hükümler uygulanır. Ruhsat başvurusunda mes’ul müdür sözleşmesiyle ilgili gerçeğe aykırı beyanda bulundukları tespit edilen işyeri sahipleri hakkında suç duyurusunda bulunulur.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Umuma Açık İstirahat ve Eğlence Yerlerinde Çalıştırılacak Kişiler
+<i>Umuma Açık İstirahat ve Eğlence Yerlerinde Çalıştırılacak Kişiler</i>
 
 #### Çalıştırılacak kişilerde aranacak şartlar
 
 **Madde 36 –** Kanunî istisnalar saklı kalmak üzere; eğlence, oyun, içki ve benzeri amaçlı umuma açık yerlerde onsekiz yaşından küçükler çalıştırılamaz.
 
-(Değişik ikinci fıkra: 12/3/2012-2012/2958 K.) Umuma açık istirahat ve eğlence yerlerinde çalıştırılacak kişilerin adı, soyadı, Türkiye Cumhuriyeti kimlik numarası, adlî sicil ve bulaşıcı hastalığı bulunmadığına dair beyanlarının yetkili idareye verilmesi şarttır.
+**(Değişik ikinci fıkra: 12/3/2012-2012/2958 K.)** Umuma açık istirahat ve eğlence yerlerinde çalıştırılacak kişilerin adı, soyadı, Türkiye Cumhuriyeti kimlik numarası, adlî sicil ve bulaşıcı hastalığı bulunmadığına dair beyanlarının yetkili idareye verilmesi şarttır.
 
 _____________
 
-(1) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2048 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle, bu fıkraya “elektronik oyun merkezleri” ibaresinden sonra gelmek üzere “, internet salonu” ibaresi eklenmiştir.
+(1) <i>25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2048 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle, bu fıkraya “elektronik oyun merkezleri” ibaresinden sonra gelmek üzere “, internet salonu” ibaresi eklenmiştir.</i>
 
 4740
 
-(Değişik üçüncü fıkra: 12/3/2012-2012/2958 K.) Umuma açık istirahat ve eğlence yerlerinde çalıştırılacak kişilerin, bulaşıcı hastalığı bulunmadığına dair resmî sağlık kurumundan alınacak sağlık raporu, bu kişiler işe başlamadan önce temin edilir ve bu kişiler çalıştığı sürece altı ayda bir yenilenerek işyerinde hazır bulundurulur. Bu raporlar ruhsat verme aşamasında yetkili idare tarafından istenmez; ancak, yapılacak denetimlerde bu raporların görevlilere gösterilmesi gerekir.
+**(Değişik üçüncü fıkra: 12/3/2012-2012/2958 K.)** Umuma açık istirahat ve eğlence yerlerinde çalıştırılacak kişilerin, bulaşıcı hastalığı bulunmadığına dair resmî sağlık kurumundan alınacak sağlık raporu, bu kişiler işe başlamadan önce temin edilir ve bu kişiler çalıştığı sürece altı ayda bir yenilenerek işyerinde hazır bulundurulur. Bu raporlar ruhsat verme aşamasında yetkili idare tarafından istenmez; ancak, yapılacak denetimlerde bu raporların görevlilere gösterilmesi gerekir.
 
 Umuma açık istirahat ve eğlence yerlerinde, genel kadın olarak tescil edilenler çalıştırılamaz.
 
-(Değişik beşinci fıkra: 12/3/2012-2012/2958 K.) Sahneye münhasır olarak sanatını icra edecek sanatçılar için yukarıdaki bilgi ve belgeler istenmez.
+**(Değişik beşinci fıkra: 12/3/2012-2012/2958 K.)** Sahneye münhasır olarak sanatını icra edecek sanatçılar için yukarıdaki bilgi ve belgeler istenmez.
 
 Müşteri ile beraber yiyip içerek müşterinin eğlenmesini sağlayan konsomatrisler sadece pavyon ruhsatlı yerlerde çalışabilir.
 
@@ -602,7 +602,7 @@ Yabancıların umuma açık istirahat ve eğlence yerlerinde çalışmaları yab
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli Hükümler
+<i>Çeşitli Hükümler</i>
 
 #### Kolluk denetimi
 
@@ -622,7 +622,7 @@ Müzik yayın izni iptal edilen iş yerlerinde, müzik yayını harici faaliyetl
 
 **Madde 39 –** (Değişik birinci fıkra: 12/12/2016-2016/9741 K.) 2559 sayılı Kanunun 8 inci maddesinde sayılan hususların tespiti halinde belirtilen işyerleri otuz günü geçmemek üzere geçici süreyle; bu işyerlerinin mevzuat hükümlerine aykırı olarak ruhsatsız işletildiğinin tespiti halinde ise süresiz olarak ya da ruhsat alıncaya kadar mahallin en büyük mülki idare amiri tarafından faaliyetten men edilir. Faaliyetten men’e ilişkin onay uygulanmak üzere yetkili idareye bildirilir. Yetkili idare en geç üç işgünü içinde faaliyetten men’e ilişkin kararı işyerini mühürlemek suretiyle uygulayarak buna ilişkin tutanağın bir suretini ilgili mülki makama gönderir. Yetkili idare, işyerinin faaliyetten men’ine ilişkin kararı süresinde uygulamazsa, sorumluluğu yetkili idareye ait olmak üzere kapatma kararı kolluk güçleri tarafından re’sen uygulanır ve yetkili idareye bilgi verilir.
 
-(Değişik ikinci fıkra: 12/3/2012-2012/2958 K.) 36 ncı maddeye aykırılığın veya 2559 sayılı Kanunun 6 ncı maddesinde belirtilen hususların tespiti hâlinde, yetkili idare tarafından 2559 sayılı Kanunun 6 ncı maddesinde belirtilen usûle göre idarî para cezası uygulanır.
+**(Değişik ikinci fıkra: 12/3/2012-2012/2958 K.)** 36 ncı maddeye aykırılığın veya 2559 sayılı Kanunun 6 ncı maddesinde belirtilen hususların tespiti hâlinde, yetkili idare tarafından 2559 sayılı Kanunun 6 ncı maddesinde belirtilen usûle göre idarî para cezası uygulanır.
 
 #### Faaliyetten men kararının uygulanması
 
@@ -676,17 +676,17 @@ Kumar kastı olmaksızın okey ve benzerleri ile her türlü kağıt oyunları a
 
 İnternet salonlarında bulunan bilgisayarlarda bilgi ve beceri artırıcı veya zeka geliştirici nitelikteki oyunların oynatılması serbesttir. Bu işyerlerinde, Devletin ülkesi ve milletiyle bölünmez bütünlüğüne, Anayasal düzene, genel güvenliğe ve genel ahlaka zararı dokunacak internet sayfalarına erişimin sağlanması yasaktır. Bu sayfalara girilmemesi için bilgisayarların bu tür yayınları yapan sayfaların kapatılmasını sağlayacak güncel filtre yazılımlarının kullanımı zorunludur. .(1)
 
-_______________________
+<i>_______________________</i>
 
-(1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 9 uncu maddesiyle bu fıkrada yer alan “internet kafelerde”" ibaresi "internet salonlarında" olarak değiştirilmiş, “sağlayacak” ibaresinden sonra gelmek üzere “güncel” ibaresi eklenmiş ve metne işlenmiştir.
+<i>(1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 9 uncu maddesiyle bu fıkrada yer alan “internet kafelerde”" ibaresi "internet salonlarında" olarak değiştirilmiş, “sağlayacak” ibaresinden sonra gelmek üzere “güncel” ibaresi eklenmiş ve metne işlenmiştir.</i>
 
-(2) 11/12/2025 tarihli ve 33104 sayılı Resmî Gazete’de yayımlanan 10681 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle bu fıkrada yer alan “Otel, motel, kamp ve benzeri her türlü” ibaresi “Her türlü” şeklinde değiştirilmiştir.
+<i>(2) 11/12/2025 tarihli ve 33104 sayılı Resmî Gazete’de yayımlanan 10681 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle bu fıkrada yer alan “Otel, motel, kamp ve benzeri her türlü” ibaresi “Her türlü” şeklinde değiştirilmiştir.</i>
 
 4742
 
 ### BEŞİNCİ KISIM
 
-Geçici ve Son Hükümler
+<i>Geçici ve Son Hükümler</i>
 
 #### Uygulamaya ilişkin esaslar
 
@@ -726,7 +726,7 @@ Yetkili idare, kendi kayıtlarında bulunan ve değişmediği başvuru sahibince
 
 –––––––––––––––––––––––––––
 
-(1) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 6 ncı maddesiyle, bu fıkrada yer alan “Çevre ve Şehircilik Bakanlığınca” ibaresi “Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca” şeklinde ve “Çevre ve Şehircilik Bakanlığının” ibaresi “Çevre, Şehircilik ve İklim Değişikliği Bakanlığının” şeklinde değiştirilmiştir.
+<i>(1) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 6 ncı maddesiyle, bu fıkrada yer alan “Çevre ve Şehircilik Bakanlığınca” ibaresi “Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca” şeklinde ve “Çevre ve Şehircilik Bakanlığının” ibaresi “Çevre, Şehircilik ve İklim Değişikliği Bakanlığının” şeklinde değiştirilmiştir.</i>
 
 4742-1
 
@@ -746,7 +746,7 @@ Başvuru sahiplerinin işyeri açma ve çalışma ruhsatı başvuru işlemleri s
 
 Bu Yönetmelik kapsamında iş yeri açılabilmesi için, iş yeri sahibinin veya iş yerinde her bir meslek dalında çalıştırdıkları en az birer çalışanının, 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanunu kapsamında alınan ustalık belgesine ya da mesleki veya teknik ortaöğretim kurumlarının ilgili alanlarından mezun olduğunu gösterir diplomaya ya da üniversitelerin ilgili lisans ve ön lisans alan ve dalından mezun olduğunu gösterir diplomaya (transkript ile birlikte ibraz edilecek) ya da 1/1/2022 tarihi ve sonrasında Mesleki Yeterlilik Kurumunca mesleki yeterlilik belgesi verilen meslekler hariç olmak üzere 2/8/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununa göre faaliyet gösteren kurumlardan alınan kurs bitirme belgesine sahip olması gerekir. Birinci cümledeki belgelerin kapsamına girmeyen faaliyet konuları için bu belgeler aranmaz. İlgili diploma ve belgelerin yurt dışından alınmış olması halinde bunların ilgili mevzuata göre denkliğinin kabul edilmiş olması şarttır. Milli Eğitim Bakanlığının tanıdığı ve önceden alınmış diğer diplomalar ve kurs bitirme belgeleri, müktesep hak kapsamında değerlendirilir. (1)(3)
 
-(Mülga ikinci fıkra:RG-17/4/2021-31457-C.K.-3835/6 md.)
+**(Mülga ikinci fıkra:RG-17/4/2021-31457-C.K.-3835/6 md.)**
 
 #### Faaliyetten geçici süreyle men ve idarî para cezası
 
@@ -754,15 +754,15 @@ Bu Yönetmelik kapsamında iş yeri açılabilmesi için, iş yeri sahibinin vey
 
 13 üncü maddenin birinci fıkrası, 21 inci maddenin ikinci fıkrası ve 23 üncü maddenin beşinci fıkrası uyarınca yapılacak ilk denetimden sonra yetkili idarelerce yapılacak denetimlerde, işletmecinin kusurlu fiili sebebiyle iş yerinde oluşmuş, mer’i mevzuata aykırılıkların ve noksanlıkların tespiti halinde, bu aykırılıkların ve noksanlıkların giderilmesi için işletmeciye bir defaya mahsus onbeş günlük süre verilir. Verilen süre içinde tespit edilen aykırılıkların ve noksanlıkların giderilmemesi halinde 1608 sayılı Kanunun 1 inci maddesi gereğince işletmeciye idari para cezası verilir. Ayrıca gayrisıhhî müesseselerde aykırılık ve noksanlıklar giderilinceye kadar, sıhhi müesseselerde ise yetkili idarenin öngördüğü ve onbeş günden fazla olmayan bir süre kadar faaliyetin menine karar verilir. Aykırılıkların ve noksanlıkların giderildiğinin tespiti halinde iş yeri hakkında verilmiş olan men kararı derhal kaldırılır. Umuma açık istirahat ve eğlence yerleri bakımından 2559 sayılı Kanunun 6 ncı ve 8 inci madde hükümleri saklıdır. (2)
 
-(Ek fıkra:RG-25/12/2020-31345-C.K-3327/1 md.) Ana faaliyet konusuna tali faaliyet olarak vale hizmetini işleten işyerlerince yukarıdaki fıkrada belirtilen idari yaptırımlara rağmen aykırılık ve noksanlıkların faaliyetten men edilen süre içerisinde giderilememesi durumunda bu işyerlerine ait ruhsata işlenen tali faaliyet kısmı iptal edilir.
+**(Ek fıkra:RG-25/12/2020-31345-C.K-3327/1 md.)** Ana faaliyet konusuna tali faaliyet olarak vale hizmetini işleten işyerlerince yukarıdaki fıkrada belirtilen idari yaptırımlara rağmen aykırılık ve noksanlıkların faaliyetten men edilen süre içerisinde giderilememesi durumunda bu işyerlerine ait ruhsata işlenen tali faaliyet kısmı iptal edilir.
 
 ________________
 
-(1) 17/4/2021 tarihli ve 31457 sayılı Resmî Gazete’de yayımlanan 3835 sayılı Cumhurbaşkanı Kararının 6 ncı maddesiyle, bu fıkrada yer alan “açılacak iş yerlerinde” ibaresi “iş yeri açılabilmesi için” şeklinde, “çalıştırdıklarının” ibaresi “çalıştırdıkları en az birer çalışanının” şeklinde değiştirilmiştir.
+(1) <i>17/4/2021 tarihli ve 31457 sayılı Resmî Gazete’de yayımlanan 3835 sayılı Cumhurbaşkanı Kararının 6 ncı maddesiyle, bu fıkrada yer alan “açılacak iş yerlerinde” ibaresi “iş yeri açılabilmesi için” şeklinde, “çalıştırdıklarının” ibaresi “çalıştırdıkları en az birer çalışanının” şeklinde değiştirilmiştir.</i>
 
-(2) 17/4/2021 tarihli ve 31457 sayılı Resmî Gazete’de yayımlanan 3835 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle, bu fıkraya “13 üncü maddenin birinci fıkrası” ibaresinden sonra gelmek üzere “, 21 inci maddenin ikinci fıkrası” ibaresi eklenmiştir.
+<i>(2) 17/4/2021 tarihli ve 31457 sayılı Resmî Gazete’de yayımlanan 3835 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle, bu fıkraya “13 üncü maddenin birinci fıkrası” ibaresinden sonra gelmek üzere “, 21 inci maddenin ikinci fıkrası” ibaresi eklenmiştir.</i>
 
-(3) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle, bu fıkrada yer alan “okulların” ibaresi “ortaöğretim kurumlarının” şeklinde değiştirilmiş ve aynı fıkraya “mezun olduğunu gösterir diplomaya (transkript ile birlikte ibraz edilecek) ya da” ibaresinden sonra gelmek üzere “1/1/2022 tarihi ve sonrasında Mesleki Yeterlilik Kurumunca mesleki yeterlilik belgesi verilen meslekler hariç olmak üzere” ibaresi eklenmiştir.
+<i>(3) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle, bu fıkrada yer alan “okulların” ibaresi “ortaöğretim kurumlarının” şeklinde değiştirilmiş ve aynı fıkraya “mezun olduğunu gösterir diplomaya (transkript ile birlikte ibraz edilecek) ya da” ibaresinden sonra gelmek üzere “1/1/2022 tarihi ve sonrasında Mesleki Yeterlilik Kurumunca mesleki yeterlilik belgesi verilen meslekler hariç olmak üzere” ibaresi eklenmiştir.</i>
 
 #### 4742-2
 
@@ -770,9 +770,9 @@ ________________
 
 Bu Yönetmelik yürürlüğe girmeden önce yapılmış bulunan işyeri açma ve çalışma ruhsat başvuruları bu Yönetmelik hükümlerine göre sonuçlandırılır.
 
-**Geçici Madde 2 –** (Ek:5/11/2012-2012/3986 K.)
+**<i>Geçici Madde 2 –** (Ek:5/11/2012-2012/3986 K.)</i>
 
-Bu maddenin yayımı tarihinden itibaren bir ay içinde güzellik salonlarında bulunan epilasyon ve depilasyon amaçlı cihazlar ile bu cihazların taşıdığı teknik özellikler sorumlu müdür tarafından yetkili idareye ve valilik aracılığıyla il sağlık müdürlüğüne bildirilir. (1)
+<i>Bu maddenin yayımı tarihinden itibaren bir ay içinde güzellik salonlarında bulunan epilasyon ve depilasyon amaçlı cihazlar ile bu cihazların taşıdığı teknik özellikler sorumlu müdür tarafından yetkili idareye ve valilik aracılığıyla il sağlık müdürlüğüne bildirilir. (1)</i>
 
 **Geçici Madde 3 –** (Ek: 10/11/2014-2014/7002 K.)
 
@@ -780,9 +780,9 @@ Bu maddenin yayımı tarihinden önce yapı ruhsatı ve yapı kullanma izin belg
 
 **Geçici Madde 4 –** (Ek: 20/3/2017-2017/10085 K.)
 
-(Danıştay Onuncu Dairesinin 12/11/2020 tarihli ve E.:2017/1846; K.:2020/4821 sayılı kararı ile iptal ; Bu maddenin yayımı tarihinden itibaren bir ay içinde güzellik salonlarında bulunan epilasyon ve depilasyon amaçlı cihazlar ile bu cihazların taşıdığı teknik özellikler sorumlu müdür tarafından yetkili idareye ve valilik aracılığıyla il sağlık müdürlüğüne bildirilir. )
+**(Danıştay Onuncu Dairesinin 12/11/2020 tarihli ve E.:2017/1846; K.:2020/4821 sayılı kararı ile iptal ;** <i>Bu maddenin yayımı tarihinden itibaren bir ay içinde güzellik salonlarında bulunan epilasyon ve depilasyon amaçlı cihazlar ile bu cihazların taşıdığı teknik özellikler sorumlu müdür tarafından yetkili idareye ve valilik aracılığıyla il sağlık müdürlüğüne bildirilir. )</i>
 
-Geciçi Madde 5- (Ek:RG-25/1/2020-31019-CK-2048/5 md.)
+**Geciçi Madde 5- (Ek:RG-25/1/2020-31019-CK-2048/5 md.)**
 
 (1) Bu Yönetmeliğin eki (EK-1)’de yer alan “SIHHÎ MÜESSESELER İÇİN SINIFLARINA VE ÖZELLİKLERİNE GÖRE ARANACAK NİTELİKLER” kısmının “E- KAHVEHANE, KIR KAHVESİ, OYUN SALONU, İNTERNET SALONU, ÇAY BAHÇESİ, ÇAY OCAĞI VE BENZERİ İŞYERLERİ” bölümündeki “f-İnternet Salonu” alt başlıklı bölümüne bu maddeyi ihdas eden yönetmelik değişikliği ile eklenen 12 nci, 14 üncü, 15 inci ve 17 nci maddeleri hükümlerine aykırı durumlar sırasıyla 5 yıl, 3 ay, 1 ay ve 3 ay içinde söz konusu hükümlere uygun hale getirilir. (6)
 
@@ -794,7 +794,7 @@ Bu Yönetmeliğin eki (EK-1)’de yer alan “SIHHÎ MÜESSESELER İÇİN SINIFL
 
 Bu Yönetmeliğin eki (EK-2)’de yer alan “GAYRİSIHHÎ MÜESSESELER LİSTESİ” kısmının “C) ÜÇÜNCÜ SINIF GAYRİSIHHÎ MÜESSESELER” bölümünde değiştirilen “1- ENERJİ SANAYİİ” alt bölümü hükümleri ile aynı bölümün “8- DİĞERLERİ” başlıklı alt bölümüne eklenen madde ve alt madde hükümlerine,
 
-aykırı durumlar, 31/7/2024 tarihine kadar anılan hükümlere uygun hale getirilir. (Ek cümle:RG-10/10/2024-32688-C.K-9016/3 md.) Ancak elektrikli araç şarj istasyonlarına ilişin hükümler bakımından bu fıkrada yer alan tarih 31/7/2025 olarak uygulanır. (2)(3)(4)(5)
+aykırı durumlar, 31/7/2024 tarihine kadar anılan hükümlere uygun hale getirilir. **(Ek cümle:RG-10/10/2024-32688-C.K-9016/3 md.)** Ancak elektrikli araç şarj istasyonlarına ilişin hükümler bakımından bu fıkrada yer alan tarih 31/7/2025 olarak uygulanır. (2)(3)(4)(5)
 
 Bu maddenin yürürlüğe girdiği tarih itibarıyla yapı ruhsatı ve yapı kullanma izin belgesi verilmiş toplu iş yerlerindeki ikinci el motorlu kara taşıtı ticareti yapılan iş yerleri, bu Yönetmelik hükümleri uyarınca faaliyet konusuyla ilgili aranması gereken metrekare şartından muaftır.
 
@@ -806,17 +806,17 @@ Bu maddenin yürürlüğe girdiği tarihte ticari amaca yönelik verilen yapı k
 
 ____________
 
-(1) Danıştay 8. Dairesinin 30/5/2014 tarihli ve E:2013/2099 sayılı kararıyla bu maddenin yürütülmesi durdurulmuş olup, daha sonra söz konusu madde Danıştay Onyedinci Dairesinin 28/1/2016 tarihli ve E.: 2015/12196, K.: 2016/440 sayılı Kararı ile iptal edilmiştir.
+<i>(1) Danıştay 8. Dairesinin 30/5/2014 tarihli ve E:2013/2099 sayılı kararıyla bu maddenin yürütülmesi durdurulmuş olup, daha sonra söz konusu madde Danıştay Onyedinci Dairesinin 28/1/2016 tarihli ve E.: 2015/12196, K.: 2016/440 sayılı Kararı ile iptal edilmiştir.</i>
 
-(2) 9/9/2020 tarihli ve 31239 sayılı Resmi Gazete’de yayımlanan 2945 sayılı Cumhurbaşkanı Kararının 1 inci maddesi ile bu fıkrada yer alan "bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde" ibaresi "31/7/2021 tarihine kadar" şeklinde değiştirilmiştir.
+<i>(2) 9/9/2020 tarihli ve 31239 sayılı Resmi Gazete’de yayımlanan 2945 sayılı Cumhurbaşkanı Kararının 1 inci maddesi ile bu fıkrada yer alan "bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde" ibaresi "31/7/2021 tarihine kadar" şeklinde değiştirilmiştir.</i>
 
-(3) 30/7/2021 tarihli ve 31553 sayılı Resmi Gazete’de yayımlanan 4313 sayılı Cumhurbaşkanı Kararının 1 inci maddesi ile bu fıkrada yer alan “31/7/2021” ibaresi “31/7/2022” şeklinde değiştirilmiştir.
+<i>(3) 30/7/2021 tarihli ve 31553 sayılı Resmi Gazete’de yayımlanan 4313 sayılı Cumhurbaşkanı Kararının 1 inci maddesi ile bu fıkrada yer alan “31/7/2021” ibaresi “31/7/2022” şeklinde değiştirilmiştir.</i>
 
-(4) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 8 inci maddesiyle, bu fıkrada yer alan “31/7/2022” ibaresi “31/7/2023” şeklinde değiştirilmiştir.
+<i>(4) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 8 inci maddesiyle, bu fıkrada yer alan “31/7/2022” ibaresi “31/7/2023” şeklinde değiştirilmiştir.</i>
 
-(5) 29/7/2023 tarihli ve 32263 sayılı Resmî Gazete’de yayımlanan 7433 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkrada yer alan “31/7/2023” ibaresi “31/7/2024” şeklinde değiştirilmiştir.
+<i>(5) 29/7/2023 tarihli ve 32263 sayılı Resmî Gazete’de yayımlanan 7433 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkrada yer alan “31/7/2023” ibaresi “31/7/2024” şeklinde değiştirilmiştir.</i>
 
-(6) 6/4/2024 tarihli ve 32512 sayılı Resmî Gazete’de yayımlanan 8320 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkrada yer alan “4 yıl” ibaresi “5 yıl” şeklinde değiştirilmiştir.
+<i>(6) 6/4/2024 tarihli ve 32512 sayılı Resmî Gazete’de yayımlanan 8320 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkrada yer alan “4 yıl” ibaresi “5 yıl” şeklinde değiştirilmiştir.</i>
 
 #### 4742-3
 
@@ -842,37 +842,37 @@ Bu Yönetmelik kapsamında itfaiye raporu alınması gereken ve 27/11/2007 tarih
 
 ### YÜRÜRLÜĞE KONULAN YÖNETMELİĞE İŞLENMEYEN HÜKÜMLER
 
-1) 2010/671 Sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin Geçici Maddesi:
+<i>1) 2010/671 Sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin Geçici Maddesi:</i>
 
 **GEÇİCİ MADDE 1 –** Bu Yönetmeliğin yürürlüğe girdiği tarihte mevzuata uygun olarak ruhsatlandırılmış bulunan güzellik salonları ile masaj salonları bir yıl içinde durumlarını bu Yönetmeliğe uygun hale getirmek zorundadır. Bu şartları yerine getirmeyen güzellik salonları ile masaj salonlarının işyeri açma ve çalışma ruhsatları iptal edilir.
 
 _______________
 
-(1) 19/4/2019 tarihli ve 30750 sayılı Resmi Gazete’de yayımlanan 1003 sayılı Cumhurbaşkanı Kararının 2 nci maddesi ile bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+<i>(1) 19/4/2019 tarihli ve 30750 sayılı Resmi Gazete’de yayımlanan 1003 sayılı Cumhurbaşkanı Kararının 2 nci maddesi ile bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i>
 
 4743
 
-ÖRNEK 1 (Değişik: 12/3/2012-2012/2958 K.)
+**ÖRNEK 1 (Değişik: 12/3/2012-2012/2958 K.)**
 
 SIHHÎ İŞYERİ AÇMA VE ÇALIŞMA RUHSATI BAŞVURU/BEYAN FORMU T.C. …………. İL ÖZEL İDARESİNE …………….. BELEDİYE BAŞKANLIĞINA 1- Adı-Soyadı :………………………………………………… 2- İşyerinin unvanı :……………………………………………….……… 3- Faaliyet konusu :……………………………………………….……………… 4- İşyerinin adresi :……………………………………………….……………… Tel. no : ……….………… e-posta:……………….……………… 5- Pafta, Ada, Parsel no :……………………………………………………………… 6- Mülkiyet durumu : Kira □ (kira sözleşmesi) Malik □ (tapu sureti*) 7- İşyerinin kullanım alanı :……………….… m 2 8- Kayıtlı olduğu vergi dairesi adı ve vergi no : ………………………………………….. 9- Türkiye Cumhuriyeti kimlik numarası :……………………………. 10- Ustalık belge no :……………… (...) (1) 11- Ticaret sicil numarası ve kayıtlı olduğu ticaret sicili müdürlüğünün adı:…………(Ticaret siciline kayıtlı olanlardan istenir.) 12- İşyerinin bulunduğu yer : Yerleşim yeri □ Sanayi bölgesi □ Endüstri bölgesi □ Sanayi sitesi □ Diğer □ ……………… 13- Çalışacak personel sayısı : …………………………… 14- İstenen ruhsatın türü : Sıhhî müessese □ Umuma açık istirahat ve eğlence yeri □ 15- Esnaf sicil numarası ve kayıtlı olduğu esnaf sicili müdürlüğünün adı:…………(Esnaf siciline kayıtlı olanlardan istenir.) 16- Kat Mülkiyeti Kanununa tabi ise alınması gereken izin : Var □ Yok □ 17- Özel yapı şeklini gerektiren işyeri ise gerekli izin : Var □ Yok □ 18- Karayolu trafik güvenliği gerektiren işyeri ise gerekli izin : Var □ Yok □ 19- İtfaiye raporu gerektiren işyeri ise itfaiye raporu : Var □ Yok □ 20- Umuma açık istirahat ve eğlence yeri ise mesafe krokisi : Var □ Yok □ 21- Özürlülerin giriş ve çıkışını kolaylaştıracak tedbirler : Var □ Yok □ 22- Vale İşletmesi ile işyerleri arasında yapılan vale hizmet sözleşmesi: (2) Var □ Yok □ Açmak istediğim işyeriyle ilgili olarak yukarıdaki bilgilerin doğruluğunu beyan eder, işyerime açma ve çalışma ruhsatı verilmesini arz ederim. Adı ve Soyadı İmza Kaşe (mevcut ise) Tarih Gerçeğe aykırı beyanda bulunulması hâlinde beyan sahipleri hakkında ilgili mevzuat hükümlerine göre işlem yapılır. 16, 19 ve 20 sıra no’lu belgelerin bu beyana tabi işyerleri için forma eklenmesi zorunludur. 17, 18 ve 22 sıra no’lu belgeler başvuru esnasında istenmeyecektir; ancak söz konusu belgenin işyerinde bulundurulması zorunludur. (3) *Tapu bilgilerinin TAKBİS’ten temin edilmesinin mümkün olduğu hâllerde tapu sureti istenmez.
 
-(1) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle, bu formun 10 uncu maddesinde yer alan “(Ticaret siciline kayıtlı olanlardan istenmez.)” ibaresi yürürlükten kaldırılmıştır.
+<i>(1) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle, bu formun 10 uncu maddesinde yer alan “(Ticaret siciline kayıtlı olanlardan istenmez.)” ibaresi yürürlükten kaldırılmıştır.</i>
 
-(2) 25/12/2020 tarihli ve 31345 sayılı Resmî Gazete’de yayımlanan 3327 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle bu başvuru/beyan formuna 21 inci maddesinden sonra gelmek üzere 22 nci madde eklenmiştir.
+<i>(2) 25/12/2020 tarihli ve 31345 sayılı Resmî Gazete’de yayımlanan 3327 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle bu başvuru/beyan formuna 21 inci maddesinden sonra gelmek üzere 22 nci madde eklenmiştir.</i>
 
-(3) 25/12/2020 tarihli ve 31345 sayılı Resmî Gazete’de yayımlanan 3327 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle bu cümlede yer alan “17 ve 18” ibaresi “17, 18 ve 22” şeklinde değiştirilmiştir.
+<i>(3) 25/12/2020 tarihli ve 31345 sayılı Resmî Gazete’de yayımlanan 3327 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle bu cümlede yer alan “17 ve 18” ibaresi “17, 18 ve 22” şeklinde değiştirilmiştir.</i>
 
 4744
 
-ÖRNEK 2 (Değişik: 12/3/2012-2012/2958 K.)
+**ÖRNEK 2 (Değişik: 12/3/2012-2012/2958 K.)**
 
 GAYRİSIHHÎ MÜESSESE AÇMA RUHSATI BAŞVURU/BEYAN FORMU T.C. …..……………. İL ÖZEL İDARESİNE ………………… BELEDİYE BAŞKANLIĞINA 1- Tesisin adı veya unvanı :……………………………………………………… 2- Tesisin sahibi :……………………………………………………… 3- Faaliyet konusu :……………………………………………………… 4- Tesisin adresi :……………………………………………………… Tel. no : …………… e-posta:……………….……………… 5- Pafta, Ada, Parsel no :……………………………………………………………… 6- Mülkiyet durumu : Kira □ (kira sözleşmesi) Malik □ (tapu sureti*) 7- İşyerinin kullanım alanı : Açık alan……………….… m 2 Kapalı alan……………….… m 2 8- İşyerinde yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla bulunacak depoların hacmi** : 1. Depo..... 2. Depo….. 3. Depo….. 4. Depo….. 5. Depo…. 9- İşyerinde yanıcı ve parlayıcı madde kategorisindeki sıvılardan depolanmasına izin verilenlerin sınıfı/sınıfları** :…….………………………………… 10- Kayıtlı olduğu vergi dairesi adı ve vergi no: ……………………………………….. 11- Türkiye Cumhuriyeti kimlik numarası :……………………………. 12- Ustalık belge no :……………………..…….(...) (1) 13- Ticaret sicil numarası ve kayıtlı olduğu ticaret sicili müdürlüğünün adı:………… (Ticaret sicilline kayıtlı olanlardan istenir.) 14- Sınıfı : Birinci sınıf □ İkinci sınıf □ Üçüncü sınıf □ 15- Tesisin bulunduğu yer : Endüstri bölgesi □ Organize sanayi bölgesi □ Sanayi bölgesi □ Sanayi sitesi □ Yerleşim yeri □ Diğer □ …… 16- ÇED Yönetmeliği kapsamında olan tesisler için ÇED Olumlu Belgesi veya ÇED Gerekli Değildir Belgesi var mı? Var □ Yok □ 17- Karayolu trafik güvenliği gerektiren işyerleri için izin : Var □ Yok □ 18- İtfaiye raporu gereken işyerleri için rapor : Var □ Yok □ 19- Çevre izni veya çevre izin ve lisans belgesi : Var □ Yok □ 20- Tehlikeli atıklarla ilgili lisansa tabi ise belgesi : Var □ Yok □ Açmak istediğim işyeriyle ilgili olarak yukarıdaki bilgilerin doğruluğunu beyan eder, işyerime açma ve çalışma ruhsatı verilmesini arz ederim. Adı ve Soyadı İmza Kaşe Tarih Gerçeğe aykırı beyanda bulunulması hâlinde beyan sahipleri hakkında ilgili mevzuat hükümlerine göre işlem yapılır. 16, 18 ve 20 sıra no’lu belgelerin ikinci sınıf gayrisıhhî müesseseler ve tabi ise üçüncü sınıf gayrisıhhî müesseseler için forma eklenmesi zorunludur. 17 ve 19 sıra no’lu belgeler ikinci sınıf gayrisıhhî müesseseler ve tabi ise üçüncü sınıf gayrisıhhî müesseselerden başvuru esnasında istenmeyecektir; ancak söz konusu belgelerin işyerinde bulundurulması zorunludur. *Tapu bilgilerinin TAKBİS’ten temin edilmesinin mümkün olduğu hâllerde tapu sureti istenmez. **Akaryakıt, sıvılaştırılmış petrol gazı, sıvılaştırılmış doğal gaz ve sıkıştırılmış doğal gaz istasyonu niteliğindeki işyerleri için doldurulacaktır.
 
-(1) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 8 inci maddesiyle, bu formun 12 nci maddesinde yer alan “(Ticaret siciline kayıtlı olanlardan istenmez.)” ibaresi yürürlükten kaldırılmıştır.
+<i>(1) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 8 inci maddesiyle, bu formun 12 nci maddesinde yer alan “(Ticaret siciline kayıtlı olanlardan istenmez.)” ibaresi yürürlükten kaldırılmıştır.</i>
 
 4745
 
-Örnek 3 (1)(2)
+**Örnek 3 (1)(2)**
 
 ### BİRİNCİ SINIF GAYRİSIHHÎ MÜESSESELERE AİT
 
@@ -918,27 +918,27 @@ Tel. no : …………………… e-posta:.……….………………
 
 19- Sağlık koruma bandı mesafesi……………………………………………………
 
-İnceleme kurulunun görüşü
+**İnceleme kurulunun görüşü**
 
-Tesisin kurulması uygundur/uygun değildir. (Uygun değilse gerekçesi)
+**Tesisin kurulması uygundur/uygun değildir. (Uygun değilse gerekçesi)**
 
 Başkan Üye Üye Üye Üye
 
 * Akaryakıt, sıvılaştırılmış petrol gazı, sıvılaştırılmış doğal gaz ve sıkıştırılmış doğal gaz istasyonu niteliğindeki işyerleri için doldurulacaktır. (2)
 
-(1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 11 inci maddesiyle Bu formun 6 ncı sırasında yer alan karelerdeki “Kira” karesinden sonra gelen “(Kira sözleşmesi)” ve “Malik” karesinden sonra gelen “(Tapu sureti)” ibareleri ile 11 inci sırası metinden çıkarılmış ve 12, 13, 14, 15, 16, 17 ve 18 inci sıraları 11, 12, 13, 14, 15, 16 ve 17 nci sıra olarak değiştirilmiştir.
+<i>(1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 11 inci maddesiyle Bu formun 6 ncı sırasında yer alan karelerdeki “Kira” karesinden sonra gelen “(Kira sözleşmesi)” ve “Malik” karesinden sonra gelen “(Tapu sureti)” ibareleri ile 11 inci sırası metinden çıkarılmış ve 12, 13, 14, 15, 16, 17 ve 18 inci sıraları 11, 12, 13, 14, 15, 16 ve 17 nci sıra olarak değiştirilmiştir.</i>
 
-(2) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 3 üncü maddesiyle 7 nci sıradan sonra gelmek üzere 8 inci ve 9 uncu sıralar eklenmiş, diğer sıralar buna göre teselsül ettirilmiş ve formun sonuna açıklama cümlesi eklenmiştir.
+<i>(2) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 3 üncü maddesiyle 7 nci sıradan sonra gelmek üzere 8 inci ve 9 uncu sıralar eklenmiş, diğer sıralar buna göre teselsül ettirilmiş ve formun sonuna açıklama cümlesi eklenmiştir.</i>
 
 4746
 
-ÖRNEK 4 (Değişik: 12/3/2012-2012/2958 K.)
+**ÖRNEK 4 (Değişik: 12/3/2012-2012/2958 K.)**
 
 BİRİNCİ SINIF GAYRİSIHHÎ MÜESSESELERE AİT AÇILMA İZNİ RAPORU FORMU 1- Tesisin adı veya unvanı :……………………………………………………… 2- Tesisin sahibi :……………………………………………………… 3- Faaliyet konusu :……………………………………………………… 4- Tesisin adresi :……………………………………………………… Tel. no :………………… e-posta:………….……………… 5- Pafta, Ada,Parsel no :………………………………………………………… 6- Mülkiyet durumu : Kira □ (kira sözleşmesi) Malik □ (tapu sureti*) 7- İşyerinin kullanım alanı : Açık alan…………… m 2 Kapalı alan……….… m 2 8-İşyerinde yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla bulunacak depoların hacmi** : 1. Depo…. 2. Depo…. 3. Depo….. 4. Depo….5. depo….. 9-İşyerinde yanıcı ve parlayıcı madde kategorisindeki sıvılardan depolanmasına izin verilenlerin sınıfı/sınıfları** :..…………………………………………………….. 10- Tesisin bulunduğu yer : Endüstri bölgesi □ Organize sanayi bölgesi □ Sanayi bölgesi □ Sanayi sitesi □ Yerleşim yeri □ Diğer □ …… 11- ÇED Yönetmeliği kapsamında olan tesisler için ÇED Olumlu Belgesi veya ÇED Gerekli Değildir Belgesi var mı? Var □ Yok □ 12- Karayolu trafik güvenliği açısından uygun mu? Evet □ Hayır □ 13- İtfaiye raporu gereken işyerleri için rapor : Var □ Yok □ 14- Çevre izni veya çevre izin ve lisans belgesi : Var □ Yok □ 15- Tehlikeli atıklarla ilgili lisansa tabi ise belgesi : Var □ Yok □ 16- Sağlık koruma bandı mesafesi uygun mu? Evet □ Hayır □ İnceleme kurulunun görüşü 1- Deneme izni verilmesi uygundur. 2- Açılma ruhsatı verilmesi uygundur. 3- Açılma ruhsatı verilmesi uygun değildir. (Gerekçe yazılacak) Başkan Üye Üye Üye Üye Gerçeğe aykırı beyanda bulunulması hâlinde beyan sahipleri hakkında ilgili mevzuat hükümlerine göre işlem yapılır. 9, 10, 11, 13, 14 ve 15 sıra no’lu belgelerin bu beyana tabi işyerleri için forma eklenmesi zorunludur. 12 sıra no’lu belge başvuru esnasında istenmeyecektir ancak söz konusu belgelerin işyerinde bulundurulması zorunludur * Tapu bilgilerinin TAKBİS’ten temin edilmesinin mümkün olduğu hâllerde tapu sureti istenmez. ** Akaryakıt, sıvılaştırılmış petrol gazı, sıvılaştırılmış doğal gaz ve sıkıştırılmış doğal gaz istasyonu niteliğindeki işyerleri için doldurulacaktır.
 
 4747
 
-Örnek 5 (Değişik: 29/6/2010 – 2010/671 K.)
+**Örnek 5 (Değişik: 29/6/2010 – 2010/671 K.)**
 
 ### T.C.
 
@@ -976,7 +976,7 @@ Unvanı
 
 *Akaryakıt, sıvılaştırılmış petrol gazı, sıvılaştırılmış doğal gaz ve sıkıştırılmış doğal gaz istasyonu niteliğindeki işyerleri için doldurulacaktır.
 
-Örnek 6
+**Örnek 6**
 
 ### BAŞVURU VE BEYAN FORMU ALINDI BELGESİ
 
@@ -1006,7 +1006,7 @@ Unvanı :
 
 4747-1
 
-Örnek 7 (Ek:23/5/2011-2011/1900 K.)
+**Örnek 7 (Ek:23/5/2011-2011/1900 K.)**
 
 ### MADENCİLİK FAALİYETLERİ İÇİN GAYRİSIHHÎ MÜESSESE AÇMA RUHSATI
 
@@ -1066,7 +1066,7 @@ Sorumlu müdür sözleşmesi ile çevre izni veya çevre izin ve lisans belgesi 
 
 4747-2
 
-Örnek 8 (Ek:23/5/2011-2011/1900 K.)
+**Örnek 8 (Ek:23/5/2011-2011/1900 K.)**
 
 ### T.C.
 
@@ -1114,15 +1114,15 @@ Unvanı
 
 Mühür ve imza
 
-(Ek:RG-29/7/2023-32263-CK-7433/3 md.) ÖRNEK 9
+**(Ek:RG-29/7/2023-32263-CK-7433/3 md.)** ÖRNEK 9
 
 ELEKTRİKLİ ARAÇ ŞARJ İSTASYONU YER SEÇİMİ VE FAALİYET İZİN BELGESİ BAŞVURU/BEYAN FORMU T.C. ………… İL ÖZEL İDARESİNE ..…….. BÜYÜKŞEHİR BELEDİYESİ BAŞKANLIĞINA …………….. BELEDİYESİ BAŞKANLIĞINA 1- Şarj ağı işletmecisi:……………………………………………………………………….. 2- Şarj ağı işletmecisi tel. no: ……….……………. e-posta:……………….………………. KEP adresi:…………… 3- Şarj istasyonu işletmecisi:……………………………………………….…………………... 4- Şarj istasyonu işletmecisi tel. no: ……….………… e-posta:……………….……………… KEP adresi:……………. 5- Şarj istasyonu işletmecisinin kayıtlı olduğu vergi dairesi adı ve vergi numarası: ……………………………………… 6- Şarj istasyonu işletmecisinin Türkiye Cumhuriyeti kimlik numarası:…………………………………………… 7- Şarj istasyonu işletmecisinin ticaret/esnaf sicil numarası ve kayıtlı olduğu ticaret/esnaf sicili müdürlüğünün adı*:………………………………………………………………………… (Ticaret/esnaf siciline kayıtlı olanlardan istenir.) 8- İstasyon adresi:……………………………………………….……………………………… 9- İstasyonun bulunduğu yer Pafta, Ada, Parsel no:……………………………………………………………….. 10- İstasyonun bulunduğu yer mülkiyet durumu: Kira □ (kira sözleşmesi/izin belgesi) Malik □ (tapu sureti**) 11- İstasyon faaliyet kullanım alanı:……………….….. m 2 12- İstasyonun bulunduğu yer: Yerleşim yeri □ Sanayi bölgesi □ Endüstri bölgesi □ Sanayi sitesi □ Diğer □……………… 13- İstasyonun kurulu bulunduğu iş yerinin ruhsat türü*: Sıhhî müessese □ Gayrisıhhî müessese □ Umuma açık istirahat ve eğlence yeri □ 14- İstasyonun kurulu bulunduğu iş yerinin unvanı ve faaliyet konusu*: …………………………………………... 15- İstasyonun kurulu bulunduğu toplu yapılarda Kat Mülkiyeti Kanunu uyarınca alınması gereken izin***: Var □ Yok □ 16- İstasyonun kurulu bulunduğu yerde araç ve yaya trafiğini güçleştirici veya engelleyici durumu: Var □ Yok □ 17- Şarj istasyonu işletmecisine şarj ağı işletmecisi tarafından verilen sertifika****: Var □ Yok □ Yukarıdaki bilgilerin doğruluğunu beyan eder, elektrikli araç şarj istasyonuma yer seçimi ve faaliyet izin belgesi verilmesini arz ederim. Adı ve Soyadı İmza Kaşe (mevcut ise) Tarih Gerçeğe aykırı beyanda bulunulması hâlinde beyan sahipleri hakkında ilgili mevzuat hükümlerine göre işlem yapılır. * Toplu yapılarda kurulu olan ve toplu yapı yönetimi tarafından işletilen istasyonlar için aranmaz. ** Tapu bilgilerinin TAKBİS’ten temin edilmesinin mümkün olduğu hâllerde tapu sureti istenmez. *** Bu beyana tabi yerler için forma eklenmesi zorunludur. **** Şarj ağı işletmecisi ile şarj istasyonu işletmecisinin aynı kişi olması durumunda sertifika aranmaz.
 
 4747-3
 
-(Ek:RG-29/7/2023-32263-CK-7433/3 md.) ÖRNEK 10
+**(Ek:RG-29/7/2023-32263-CK-7433/3 md.)** ÖRNEK 10
 
-T.C. ………… İL ÖZEL İDARESİ ………… BÜYÜKŞEHİR BELEDİYESİ BAŞKANLIĞI ………………… BELEDİYESİ BAŞKANLIĞI ELEKTRİKLİ ARAÇ ŞARJ İSTASYONU YER SEÇİMİ VE FAALİYET İZİN BELGESİ Şarj istasyonu işletmecisi :……………………………………………….…………... Şarj ağı işletmecisi :……………………………………………….…………... İstasyon adresi : ……………………………………………….………….. İstasyonun bulunduğu yer Ada no:……......….. Pafta no: …….......…... Parsel no: …….........…… İstasyonun bulunduğu yerin niteliği: İş yeri □ Toplu yapı □ İstasyonun kurulu bulunduğu iş yerinin faaliyet konusu*: …………………………………. İstasyonun kurulu bulunduğu iş yerinin ruhsat türü*: Sıhhî müessese □ Gayrisıhhî müessese □ Umuma açık istirahat ve eğlence yeri □ Yer seçimi ve faaliyet izin belgesi tarihi ve sayısı :…………………………………………………………… Adı Soyadı Unvanı 14/7/2005 tarihli ve 2005/9207 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik kapsamında düzenlenmiştir. * Toplu yapılarda kurulu olan, toplu yapı yönetimi tarafından işletilen ve toplu yapılardaki iş yerlerinde kurulu olmayan istasyonlar için doldurulmayacaktır.
+T.C. ………… İL ÖZEL İDARESİ ………… BÜYÜKŞEHİR BELEDİYESİ BAŞKANLIĞI ………………… BELEDİYESİ BAŞKANLIĞI **ELEKTRİKLİ ARAÇ ŞARJ İSTASYONU YER SEÇİMİ VE FAALİYET İZİN BELGESİ** Şarj istasyonu işletmecisi :……………………………………………….…………... Şarj ağı işletmecisi :……………………………………………….…………... İstasyon adresi : ……………………………………………….………….. İstasyonun bulunduğu yer Ada no:……......….. Pafta no: …….......…... Parsel no: …….........…… İstasyonun bulunduğu yerin niteliği: İş yeri □ Toplu yapı □ İstasyonun kurulu bulunduğu iş yerinin faaliyet konusu*: …………………………………. İstasyonun kurulu bulunduğu iş yerinin ruhsat türü*: Sıhhî müessese □ Gayrisıhhî müessese □ Umuma açık istirahat ve eğlence yeri □ Yer seçimi ve faaliyet izin belgesi tarihi ve sayısı :…………………………………………………………… Adı Soyadı Unvanı 14/7/2005 tarihli ve 2005/9207 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik kapsamında düzenlenmiştir. * Toplu yapılarda kurulu olan, toplu yapı yönetimi tarafından işletilen ve toplu yapılardaki iş yerlerinde kurulu olmayan istasyonlar için doldurulmayacaktır.
 
 4748
 
@@ -1156,7 +1156,7 @@ Bardak ve tabaklar cam veya porselen; kaşık, çatal ve bıçak paslanmaz çeli
 
 10- Umuma açık istirahat ve eğlence yerleri, konaklama yerleri, düğün salonları, lokantalar ve benzeri işyerlerinde bulunan tuvaletlerin zeminleri ve duvarları mermer, seramik ve mozaik gibi kolay temizlenebilir, yıkanabilir ve dezenfekte edilebilir malzemelerle kaplı olacaktır. Tuvalet ile mutfak yan yana olmayacaktır.
 
-11 - (Ek:RG-11/12/2025-33104-CK-10681/7 md.) Konaklama yerlerinde yapı kullanma izin belgesi ve itfaiye raporu alınmış olacaktır.
+**11 - (Ek:RG-11/12/2025-33104-CK-10681/7 md.)** Konaklama yerlerinde yapı kullanma izin belgesi ve itfaiye raporu alınmış olacaktır.
 
 ### B- ET VE BALIK ÜRÜNLERİNİN SATILDIĞI YERLER
 
@@ -1192,7 +1192,7 @@ Bakkal, market, şarküteri, kuruyemişçi, büfe, manav, kantin ve ekmek bayile
 
 6 - Kuruyemiş ve kuru kahve satılan işyerlerinde kavurma ve ısıtma işlemi yapılacak ise bunun için gereken donanım kurulacaktır.
 
-7 - (Değişik: 19/3/2007-2007/11882 K.) Hipermarket, grosmarket ve megamarketlerde giriş ve çıkış olmak üzere iki kapı, çocuk emzirme yeri ile satış alanının en az yarısı kadar olmak üzere otopark ve yeteri kadar depo alanı bulunacaktır.
+**7 - (Değişik: 19/3/2007-2007/11882 K.)** Hipermarket, grosmarket ve megamarketlerde giriş ve çıkış olmak üzere iki kapı, çocuk emzirme yeri ile satış alanının en az yarısı kadar olmak üzere otopark ve yeteri kadar depo alanı bulunacaktır.
 
 8- Manavlarda, sebze ve meyveler için kolayca yıkanabilecek şekilde yapılmış masa ve raflar olacak, iki metre yüksekliğe kadar duvarlar su geçirmez malzeme ile kaplanacaktır.
 
@@ -1202,7 +1202,7 @@ Bakkal, market, şarküteri, kuruyemişçi, büfe, manav, kantin ve ekmek bayile
 
 Lokanta, ayakta yemek yenilen yerler, kafeterya, yemeği pakette satan yerler ve benzeri işyerlerinde ortak hükümlere ilave olarak aşağıdaki hükümler aranır:
 
-a) Birinci sınıf lokantalar
+**a) Birinci sınıf lokantalar**
 
 1- Ustalık belgesine sahip en az iki aşçı bulunacaktır.
 
@@ -1236,7 +1236,7 @@ a) Birinci sınıf lokantalar
 
 15 - Müşteri kapasitesine yeterli bankolu vestiyer bulunacaktır.
 
-b) İkinci sınıf lokantalar
+**b) İkinci sınıf lokantalar**
 
 1- Ustalık belgesi bulunan en az bir aşçı bulunacaktır.
 
@@ -1252,7 +1252,7 @@ b) İkinci sınıf lokantalar
 
 7 - Bay ve bayanlara ait aynalı, lavabolu, sıvı sabunlu yeteri kadar tuvalet bulunacaktır.
 
-c) Üçüncü sınıf lokantalar
+**c) Üçüncü sınıf lokantalar**
 
 1- Ustalık belgesi bulunan en az bir aşçı bulunacaktır.
 
@@ -1264,13 +1264,13 @@ c) Üçüncü sınıf lokantalar
 
 5 - Bay ve bayanlara ait aynalı, lavabolu, sıvı sabunlu yeteri kadar tuvalet bulunacaktır.
 
-d) Ayakta yemek yenilen yerler, kafeterya, yemeği pakette satan yerler
+**d) Ayakta yemek yenilen yerler, kafeterya, yemeği pakette satan yerler**
 
 1 - Yemek pişirme ve kapları temizleme yeri olmak üzere en az iki bölümden oluşacaktır.
 
 2 - Havalandırma en azından aspiratörle sağlanacaktır.
 
-e) Gezici piliç ve köfte satış yerleri
+**e) Gezici piliç ve köfte satış yerleri**
 
 Gezici satıcılık işkolu altında faaliyette bulunan sıhhî müesseselerin, sattıkları ürünleri muhafaza etmek için merkez depoları ve satış yapmak için özel ızgara kasalı araçları bulunacaktır.
 
@@ -1282,13 +1282,13 @@ Gezici satış aracı için aranacak şartlar şunlardır:
 
 3 - Araçta, yeterli büyüklükte buzdolabı ve jeneratör bulunacaktır.
 
-4 - (Danıştay Dördüncü Dairesinin 7/5/2024 tarihli ve E.:2023/13485; K.:2024/2803 sayılı kararı ile iptal ibare; Danıştay İDDK’nın 3/6/2025 tarihli E.:2024/2765, K.:2025/1245 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)
+**4 - (Danıştay Dördüncü Dairesinin 7/5/2024 tarihli ve E.:2023/13485; K.:2024/2803 sayılı kararı ile iptal ibare; Danıştay İDDK’nın 3/6/2025 tarihli E.:2024/2765, K.:2025/1245 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)**
 
 5 - Sıcak ve soğuk su tertibatı bulunacaktır.
 
 6 - Aracın yemek hazırlama ve satış yeri hijyenik olacaktır.
 
-f) (Ek: 29/6/2010 – 2010/671 K.) Su ürünleri seyyar satış araçları
+**f) (Ek: 29/6/2010 – 2010/671 K.) Su ürünleri seyyar satış araçları**
 
 Su ürünlerinin perakende satışını yapacak seyyar satış araçlarında aşağıdaki şartlar aranır:
 
@@ -1320,7 +1320,7 @@ Su ürünlerinin perakende satışını yapacak seyyar satış araçlarında aş
 
 Kahvehane, kır kahvesi, oyun salonu, internet salonu, çay bahçesi ve çay ocağı ve benzeri işyerlerinde ortak hükümlere ilave olarak, sınıflarına ve türlerine göre aşağıdaki şartlar aranır:
 
-a) Birinci sınıf kahvehaneler, çay bahçesi, kır kahvesi,
+**a) Birinci sınıf kahvehaneler, çay bahçesi, kır kahvesi,**
 
 1 - Sandalye ve masalar iyi cins malzemeden yapılmış olacaktır.
 
@@ -1342,7 +1342,7 @@ a) Birinci sınıf kahvehaneler, çay bahçesi, kır kahvesi,
 
 10 - Garsonlar ve çalışanlar, işyeri tarafından belirlenen özel kıyafeti giyecektir.
 
-b) İkinci sınıf kahvehaneler
+**b) İkinci sınıf kahvehaneler**
 
 1 - Sandalye ve masalar iyi cins malzemeden yapılmış olacaktır.
 
@@ -1366,7 +1366,7 @@ b) İkinci sınıf kahvehaneler
 
 4751
 
-c) Üçüncü sınıf kahvehaneler
+**c) Üçüncü sınıf kahvehaneler**
 
 1 - İyi cins malzemeden yapılmış sandalye ve masa bulunacaktır.
 
@@ -1382,7 +1382,7 @@ c) Üçüncü sınıf kahvehaneler
 
 7 - Ocağın bulunduğu yer cam ile salondan ayrı olacaktır.
 
-d) Oyun yeri
+**d) Oyun yeri**
 
 Bilgi ve maharet artırıcı, beden veya zeka geliştirici nitelikteki oyunların oynandığı işyerlerinde ortak hükümlere ilave olarak aşağıdaki şartlar aranır:
 
@@ -1402,13 +1402,13 @@ Bilgi ve maharet artırıcı, beden veya zeka geliştirici nitelikteki oyunları
 
 8 - Gürültünün yayılmasını engellemek üzere ses izolasyonu yapılacaktır.
 
-e) Çay ocağı
+**e) Çay ocağı**
 
 Çay ocaklarında, işyerlerinde aranacak ortak asgarî niteliklerden (2), (3), (6) ve (7) numaralı şartlar aranır. Bu işyerlerine masa ve sandalye konulamaz. Mekanı uygunsa tabure konulabilir.
 
 Çay ocaklarında mutfağın uygun olarak düzenlenmesi şartıyla tost ve sandviç verilebilir.
 
-f) İnternet salonu (1)
+**f) İnternet salonu (1)**
 
 1- Sandalye ve masalar iyi cins malzemeden yapılmış üzeri kumaş veya deri ile kaplı bulunacaktır.
 
@@ -1424,37 +1424,37 @@ f) İnternet salonu (1)
 
 7 - İşyerinde yiyecek ve içecek verilmesi halinde üçüncü sınıf lokantaların tabi olduğu şartlar aranır.
 
-( 1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 12 nci maddesiyle (f) alt başlığı “İnternet kafe” iken metne işlendiği şekilde değiştirilmiştir.
+( <i>1) 19/3/2007 tarihli ve 2007/11882 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 12 nci maddesiyle (f) alt başlığı “İnternet kafe” iken metne işlendiği şekilde değiştirilmiştir.</i>
 
-(2) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2048 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle, bu maddeye “Masalar” ibaresinden sonra gelmek üzere “ve sırt sırta gelen sandalyeler” ibaresi eklenmiştir.
+<i>(2) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2048 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle, bu maddeye “Masalar” ibaresinden sonra gelmek üzere “ve sırt sırta gelen sandalyeler” ibaresi eklenmiştir.</i>
 
 4752
 
-8 - (Değişik: 19/3/2007-2007/11882 K.) İşyerinde mekanik ve elektronik oyun alet ve makineleri bulunamaz.
+**8 - (Değişik: 19/3/2007-2007/11882 K.)** İşyerinde mekanik ve elektronik oyun alet ve makineleri bulunamaz.
 
-9 - (Değişik: 19/3/2007-2007/11882 K.) İşyerlerinde sürekli güncellenen filtre programı kullanılması zorunludur.
+**9 - (Değişik: 19/3/2007-2007/11882 K.)** İşyerlerinde sürekli güncellenen filtre programı kullanılması zorunludur.
 
-10- (Ek: 29/6/2010 – 2010/671 K.) İnternet salonlarında her türlü televizyon yayını yasaktır.
+**10- (Ek: 29/6/2010 – 2010/671 K.)** İnternet salonlarında her türlü televizyon yayını yasaktır.
 
-11- (Ek:RG-25/1/2020-31019-CK-2048/4 md.) İnternet salonu için ruhsat başvurusu yapacak kişilerde Milli Eğitim Bakanlığı onaylı bilgisayar işletmeni sertifikasına sahip olmak veya bitirdiği okulun ders müfredatında en az iki dönem bilgisayarla ilgili ders aldığını belgelemek şartı aranır; sorumlu müdür görevlendirilen hallerde ise bu şart, işyeri sahibi veya sorumlu müdürden birisi için aranır. Bu diploma ve belgelerin yurt dışından alınmış olması halinde bunların ilgili mevzuata göre denkliğinin kabul edilmiş olması şarttır.
+**11- (Ek:RG-25/1/2020-31019-CK-2048/4 md.)** İnternet salonu için ruhsat başvurusu yapacak kişilerde Milli Eğitim Bakanlığı onaylı bilgisayar işletmeni sertifikasına sahip olmak veya bitirdiği okulun ders müfredatında en az iki dönem bilgisayarla ilgili ders aldığını belgelemek şartı aranır; sorumlu müdür görevlendirilen hallerde ise bu şart, işyeri sahibi veya sorumlu müdürden birisi için aranır. Bu diploma ve belgelerin yurt dışından alınmış olması halinde bunların ilgili mevzuata göre denkliğinin kabul edilmiş olması şarttır.
 
-12- (Ek:RG-25/1/2020-31019-CK-2048/4 md.) İnternet salonları zemin altı katlarda faaliyet gösteremez.
+**12- (Ek:RG-25/1/2020-31019-CK-2048/4 md.)** İnternet salonları zemin altı katlarda faaliyet gösteremez.
 
-13- (Ek:RG-25/1/2020-31019-CK-2048/4 md.) Masalar en az 72x52 cm ölçülerinde olacak ve masa ile sandalye sırtı arasında en az 55 cm boşluk bulundurulacaktır.
+**13- (Ek:RG-25/1/2020-31019-CK-2048/4 md.)** Masalar en az 72x52 cm ölçülerinde olacak ve masa ile sandalye sırtı arasında en az 55 cm boşluk bulundurulacaktır.
 
-14- (Ek:RG-25/1/2020-31019-CK-2048/4 md.) Pencereler, dışarıdan içerisinin görünmesini sürekli olarak engellemeyen perde, jaluzi vb. malzemeler ile kapatılacaktır.
+**14- (Ek:RG-25/1/2020-31019-CK-2048/4 md.)** Pencereler, dışarıdan içerisinin görünmesini sürekli olarak engellemeyen perde, jaluzi vb. malzemeler ile kapatılacaktır.
 
-15- (Ek:RG-25/1/2020-31019-CK-2048/4 md.) Duvarlarda, bilgisayar donanım birimlerinde (monitör, klavye, fare, yazıcı, tarayıcı, fare altlıkları vb.) ve bilgisayar yazılım birimlerinde (masaüstü ekran koruyucusu, masaüstü ekran arka planı vb.) ilgili mevzuatça yasaklanmış olan içeriklere sahip görseller, optik oyunlar, hologramlar (lazer fotoğraflar), sloganlar ve yazılar bulunamaz.
+**15- (Ek:RG-25/1/2020-31019-CK-2048/4 md.)** Duvarlarda, bilgisayar donanım birimlerinde (monitör, klavye, fare, yazıcı, tarayıcı, fare altlıkları vb.) ve bilgisayar yazılım birimlerinde (masaüstü ekran koruyucusu, masaüstü ekran arka planı vb.) ilgili mevzuatça yasaklanmış olan içeriklere sahip görseller, optik oyunlar, hologramlar (lazer fotoğraflar), sloganlar ve yazılar bulunamaz.
 
-16- (Ek:RG-25/1/2020-31019-CK-2048/4 md.) İnternet salonlarında, ana faaliyet dışında başka bir faaliyette bulunulması yasaktır.
+**16- (Ek:RG-25/1/2020-31019-CK-2048/4 md.)** İnternet salonlarında, ana faaliyet dışında başka bir faaliyette bulunulması yasaktır.
 
-17- (Ek:RG-25/1/2020-31019-CK-2048/4 md.) İnternet salonlarında, kullanıcılar arası paravan, kabin veya ayırıcı gibi unsurlar bulundurulamaz ve özel oda türü uygulamalar yapılamaz.
+**17- (Ek:RG-25/1/2020-31019-CK-2048/4 md.)** İnternet salonlarında, kullanıcılar arası paravan, kabin veya ayırıcı gibi unsurlar bulundurulamaz ve özel oda türü uygulamalar yapılamaz.
 
 ### F- PASTANELER
 
 Pastanelerde ortak hükümlere ilave olarak, sınıflarına göre aşağıdaki şartlar aranır:
 
-a) Birinci sınıf pastaneler
+**a) Birinci sınıf pastaneler**
 
 1 - Ustalık belgesi bulunan en az iki personel bulunacaktır.
 
@@ -1478,7 +1478,7 @@ a) Birinci sınıf pastaneler
 
 11 - Müşteri kapasitesine yeterli bankolu vestiyer bulunacaktır.
 
-b) İkinci sınıf pastaneler
+**b) İkinci sınıf pastaneler**
 
 1 - Ustalık belgesine sahip en az bir personel bulunacaktır.
 
@@ -1494,7 +1494,7 @@ b) İkinci sınıf pastaneler
 
 7 - Bay ve bayanlara ait aynalı, lavabolu, sıvı sabunlu yeteri kadar tuvalet bulunacaktır.
 
-c) Üçüncü sınıf pastaneler
+**c) Üçüncü sınıf pastaneler**
 
 1 - Ustalık belgesi bulunan en az bir personel bulunacaktır.
 
@@ -1512,7 +1512,7 @@ Gazino, dans salonu, diskotek, pavyon, taverna, açık hava gazinosu, bar, kokte
 
 4753
 
-a) Birinci sınıf gazino, dans salonu, diskotek, pavyon, taverna, açık hava gazinosu, bar, kokteyl salonu
+**a) Birinci sınıf gazino, dans salonu, diskotek, pavyon, taverna, açık hava gazinosu, bar, kokteyl salonu**
 
 1 - Mutfak bulunan gazino, dans salonu, diskotek, pavyon, taverna, açık hava gazinosu, bar, kokteyl salonunda birinci sınıf lokanta mutfaklarında aranan şartlar aranır.
 
@@ -1544,7 +1544,7 @@ a) Birinci sınıf gazino, dans salonu, diskotek, pavyon, taverna, açık hava g
 
 15 - Gazinonun salondan ayrı bir yerinde hizmetliler için bir soyunma yeri bulunacaktır.
 
-b) İkinci sınıf gazino, dans salonu, diskotek, pavyon, taverna, açık hava gazinosu, bar, kokteyl salonu
+**b) İkinci sınıf gazino, dans salonu, diskotek, pavyon, taverna, açık hava gazinosu, bar, kokteyl salonu**
 
 1 - Mutfak bulunan gazino, dans salonu, diskotek, pavyon, taverna, açık hava gazinosu, bar, kokteyl salonunda ikinci sınıf lokanta mutfaklarında aranan şartlar aranır.
 
@@ -1570,7 +1570,7 @@ b) İkinci sınıf gazino, dans salonu, diskotek, pavyon, taverna, açık hava g
 
 Tiyatro, sinema, düğün salonları, sirk, lunapark ve gösteri merkezlerinde ortak hükümlere ilave olarak aşağıdaki şartlar aranır:
 
-a) Birinci sınıf tiyatro, sinema ve gösteri merkezi
+**a) Birinci sınıf tiyatro, sinema ve gösteri merkezi**
 
 1 - İlk koltuk sırasının perdeye uzaklığı en az yedi metre, her bir koltuk genişliği en az 50 cm, koltukların arka arkaya olan mesafesi en az 90 cm, sahneye paralel olan yollar en az bir metre ve sahneye dik olan yollar en az 150 cm olacaktır.
 
@@ -1578,7 +1578,7 @@ a) Birinci sınıf tiyatro, sinema ve gösteri merkezi
 
 3 - Bekleme salonunun ve balkonun tuvaletler ile doğrudan doğruya irtibatı yok ise, bu bölümde en az bir bayan ve bay tuvaleti bulunacaktır.
 
-(1) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 9 uncu maddesiyle bu bölüm başlığı “Tiyatro, Sinema, Düğün Salonları, Sirk, Lunaparklar ve Gösteri Merkezleri” iken metne işlendiği şekilde değiştirilmiştir.
+<i>(1) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 9 uncu maddesiyle bu bölüm başlığı “Tiyatro, Sinema, Düğün Salonları, Sirk, Lunaparklar ve Gösteri Merkezleri” iken metne işlendiği şekilde değiştirilmiştir.</i>
 
 4754
 
@@ -1602,13 +1602,13 @@ a) Birinci sınıf tiyatro, sinema ve gösteri merkezi
 
 11 - Salon ve balkon;
 
-11 . 1- Duvarlar ses geçirmez ve akustiği sağlayacak, giriş ve çıkışlar ise ses ve ışık geçirmeyecek şekilde olacaktır.
+**11 . 1-** Duvarlar ses geçirmez ve akustiği sağlayacak, giriş ve çıkışlar ise ses ve ışık geçirmeyecek şekilde olacaktır.
 
-11.2 - Koltuklar ortopedik, deri veya kumaştan iyi cins malzeme ile kaplı olacak ve ayrıca kol dayama yerleri bulunacaktır.
+**11.2** - Koltuklar ortopedik, deri veya kumaştan iyi cins malzeme ile kaplı olacak ve ayrıca kol dayama yerleri bulunacaktır.
 
-11.3 - Loca mevcut ise bu kısımlar salon ve balkon niteliklerine uygun olacak ve ayrıca askılığı bulunacaktır.
+**11.3** - Loca mevcut ise bu kısımlar salon ve balkon niteliklerine uygun olacak ve ayrıca askılığı bulunacaktır.
 
-b) İkinci sınıf tiyatro, sinema ve gösteri merkezi
+**b) İkinci sınıf tiyatro, sinema ve gösteri merkezi**
 
 1 - Sahne, sinemaskop filmler gösterilmesine uygun şekilde ve büyüklükte yapılmış olacaktır.
 
@@ -1624,7 +1624,7 @@ b) İkinci sınıf tiyatro, sinema ve gösteri merkezi
 
 4 - Bay ve bayanlara ait sıcak suyu akan aynalı, lavabolu, sıvı sabunlu, kurutma makineli veya peçeteli yeteri kadar tuvalet bulunacaktır.
 
-c) Açık hava sineması
+**c) Açık hava sineması**
 
 1- Etrafının duvarla ya da başka malzeme ile çevrilmesi halinde, buralarda göz estetiğini bozmayacak malzeme kullanılacaktır.
 
@@ -1638,7 +1638,7 @@ c) Açık hava sineması
 
 6 - Yedek jeneratör bulunacaktır.
 
-d) Düğün salonu
+**d) Düğün salonu**
 
 1 - Giriş ve çıkış kapıları ayrı ayrı olmak üzere en az ikişer adet olacaktır.
 
@@ -1666,9 +1666,9 @@ d) Düğün salonu
 
 12 - Mutfak, salondan ayrı bir yerde olacak ve mutfağın dışarıya açılan kapı ve pencerelerinde sineklik telleri bulunacaktır.
 
-e) Sirkler ve lunaparklar
+**e) Sirkler ve lunaparklar**
 
-1 - (Değişik:RG-9/6/2020-31150-C.K-2626/9 md.) (Değişik birinci cümle:RG-17/4/2021-31457-C.K.-3835/8 md.) Sirkler ve lunaparklardaki konstrüksiyon, ekipman ve makinelerin kontrolü ve bakımı ayda iki defadan az olmamak üzere düzenli olarak en az bir makine veya elektrik mühendisi ile birlikte en az bir makine veya elektrik teknisyeni tarafından yapılır. Düzenli kontrol ve bakımlar, bu maddede belirtilenlerin gözetimi altında yetkili teknik servisler tarafından da yapılabilir. Bakımların yetkili teknik servisler tarafından yapılmış olması, bu maddede belirtilen yetkili kişilerin sorumluluğunu ortadan kaldırmaz.
+**1 - (Değişik:RG-9/6/2020-31150-C.K-2626/9 md.) (Değişik birinci cümle:RG-17/4/2021-31457-C.K.-3835/8 md.)** Sirkler ve lunaparklardaki konstrüksiyon, ekipman ve makinelerin kontrolü ve bakımı ayda iki defadan az olmamak üzere düzenli olarak en az bir makine veya elektrik mühendisi ile birlikte en az bir makine veya elektrik teknisyeni tarafından yapılır. Düzenli kontrol ve bakımlar, bu maddede belirtilenlerin gözetimi altında yetkili teknik servisler tarafından da yapılabilir. Bakımların yetkili teknik servisler tarafından yapılmış olması, bu maddede belirtilen yetkili kişilerin sorumluluğunu ortadan kaldırmaz.
 
 2 - Hareket eden makine ve oyun araçlarında emniyet kemeri bulundurulacaktır.
 
@@ -1676,7 +1676,7 @@ e) Sirkler ve lunaparklar
 
 4 - Elektrik kesilmesinde otomatik devreye girecek yeterli kapasiteye sahip jeneratör bulunacaktır.
 
-5 - (Değişik:RG-9/6/2020-31150-C.K-2626/9 md.) Yarısı kadınlar, yarısı erkekler için olmak üzere her 50 kişi için en az birer adet modern tuvalet ve aynalı lavabo bulunacaktır. Buralar günlük olarak temizlenecektir. Bu yapılarda engellilerin erişiminin sağlanmasına yönelik tedbirler alınarak en az 1 kadın, 1 erkek olmak üzere engellilerin kullanımına ve erişilebilirlik standardına uygun tuvalet ayrılacaktır. Bu işletmelerin alışveriş merkezi, otel ve benzeri kompleks yapıda başka işletmeler bünyesinde faaliyet göstermesi halinde, kompleks yapının bu nitelikleri haiz tuvaletleri yeterlidir.
+**5 - (Değişik:RG-9/6/2020-31150-C.K-2626/9 md.)** Yarısı kadınlar, yarısı erkekler için olmak üzere her 50 kişi için en az birer adet modern tuvalet ve aynalı lavabo bulunacaktır. Buralar günlük olarak temizlenecektir. Bu yapılarda engellilerin erişiminin sağlanmasına yönelik tedbirler alınarak en az 1 kadın, 1 erkek olmak üzere engellilerin kullanımına ve erişilebilirlik standardına uygun tuvalet ayrılacaktır. Bu işletmelerin alışveriş merkezi, otel ve benzeri kompleks yapıda başka işletmeler bünyesinde faaliyet göstermesi halinde, kompleks yapının bu nitelikleri haiz tuvaletleri yeterlidir.
 
 6 - Zemin toz kaldırmayacak uygun malzeme ile kaplanacaktır.
 
@@ -1686,9 +1686,9 @@ e) Sirkler ve lunaparklar
 
 9- Sirk ve lunaparklarda bulunan işyeri niteliğindeki yerler benzer işyerlerinde aranan şartları taşıyacaktır.
 
-f) Açık ve kapalı alanlarda bulunan oyun, eğlence, su, spor ve macera parkları ile teleferikler (Ek:RG-9/6/2020-31150-C.K-2626/9 md.)
+**f) Açık ve kapalı alanlarda bulunan oyun, eğlence, su, spor ve macera parkları ile teleferikler (Ek:RG-9/6/2020-31150-C.K-2626/9 md.)**
 
-1- (Değişik birinci cümle:RG-17/4/2021-31457-C.K.-3835/8 md.) Parkurlar ve parklardaki konstrüksiyon, ekipman ve makinelerin kontrolü ve bakımı ayda iki defadan az olmamak üzere düzenli olarak en az bir makine veya elektrik mühendisi ile birlikte en az bir makine veya elektrik teknisyeni tarafından yapılır. Düzenli kontrol ve bakımlar, maddede belirtilenlerin gözetimi altında yetkili teknik servisler tarafından da yapılabilir. Bakımların yetkili teknik servisler tarafından yapılmış olması bu maddede belirtilen yetkili kişilerin sorumluluğunu ortadan kaldırmaz.
+**1- (Değişik birinci cümle:RG-17/4/2021-31457-C.K.-3835/8 md.)** Parkurlar ve parklardaki konstrüksiyon, ekipman ve makinelerin kontrolü ve bakımı ayda iki defadan az olmamak üzere düzenli olarak en az bir makine veya elektrik mühendisi ile birlikte en az bir makine veya elektrik teknisyeni tarafından yapılır. Düzenli kontrol ve bakımlar, maddede belirtilenlerin gözetimi altında yetkili teknik servisler tarafından da yapılabilir. Bakımların yetkili teknik servisler tarafından yapılmış olması bu maddede belirtilen yetkili kişilerin sorumluluğunu ortadan kaldırmaz.
 
 2- Bilgi artırıcı ve zeka geliştirici, yetenek ve maharete dayanan oyunlar dışında kumar ve benzeri şans oyunları oynatılamaz.
 
@@ -1696,9 +1696,9 @@ f) Açık ve kapalı alanlarda bulunan oyun, eğlence, su, spor ve macera parkla
 
 4- Parkur ve parklarda bulunan iş yeri niteliğindeki yerler benzer iş yerlerinde aranan şartları taşıyacaktır.
 
-5- (Ek:RG-17/4/2021-31457-C.K.-3835/8 md.) Teleferik sistemine ait olan alt ve üst istasyonlar ile alt sistemlerin tanzimi, bakımı, onarımı, kontrolü ve denetimi Kablolu Taşıma Tesisatı Yönetmeliği hükümleri kapsamında yerine getirilir.
+**5- (Ek:RG-17/4/2021-31457-C.K.-3835/8 md.)** Teleferik sistemine ait olan alt ve üst istasyonlar ile alt sistemlerin tanzimi, bakımı, onarımı, kontrolü ve denetimi Kablolu Taşıma Tesisatı Yönetmeliği hükümleri kapsamında yerine getirilir.
 
-I- KONAKLAMA YERLERİ (Başlığı ile Birlikte Değişik:RG-11/12/2025-33104-CK-10681/8 md.)
+**I- KONAKLAMA YERLERİ (Başlığı ile Birlikte Değişik:RG-11/12/2025-33104-CK-10681/8 md.)**
 
 Konaklama yerlerinde ortak hükümlere ilave olarak aşağıda belirtilen asgari nitelikler ile faaliyet konusuna göre belirlenen şartlar aranır:
 
@@ -1720,7 +1720,7 @@ Konaklama yerlerinde ortak hükümlere ilave olarak aşağıda belirtilen asgari
 
 8 - Yatak odalarında mutfak ya da mutfak nişi düzenlenmeyecektir.
 
-a) Oteller
+**a) Oteller**
 
 Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşağıda belirtilen şartlar aranır;
 
@@ -1728,7 +1728,7 @@ Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşa
 
 2 - Resepsiyon ile bekleme bölümünden oluşan lobi bulunacaktır.
 
-b) Tatil köyleri
+**b) Tatil köyleri**
 
 Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşağıda belirtilen şartlar aranır;
 
@@ -1738,7 +1738,7 @@ Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşa
 
 3 - Resepsiyon ve bekleme bölümünden oluşan lobi bulunacaktır (Yazlık tesislerde bu amaçla kullanılan mahallin bir kısmı açık olabilir.).
 
-c) Moteller
+**c) Moteller**
 
 Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşağıda belirtilen şartlar aranır;
 
@@ -1750,11 +1750,11 @@ Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşa
 
 4 - Oda sayısının yüzde sekseni oranında otopark bulunacaktır.
 
-Ç) Pansiyonlar
+**Ç) Pansiyonlar**
 
 Ortak hükümleri ve konaklama yerlerinin asgari niteliklerini sağlayan en az üç en fazla yirmi beş odalı konaklama yerleridir.
 
-d) Apart oteller
+**d) Apart oteller**
 
 Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşağıda belirtilen şartlar aranır;
 
@@ -1762,11 +1762,11 @@ Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşa
 
 2 - Resepsiyon ve bekleme bölümünden oluşan lobi bulunacaktır (Yazlık tesislerde bu amaçla kullanılan mahallin bir kısmı açık olabilir.).
 
-e) Kırsal turizm tesisleri (köy evi, çiftlik evi, kır evi, yayla evi, dağ evi)
+**e) Kırsal turizm tesisleri (köy evi, çiftlik evi, kır evi, yayla evi, dağ evi)**
 
 Ortak hükümleri ve konaklama yerlerinin asgari niteliklerini sağlayan, sadece kırsal bölgelerde ve ev pansiyonculuğu kapsamında, dağ veya yaylalarda kurulan, en fazla iki katlı olan, en az beş, en fazla otuz odalı çiftlik evi, köy evi, kır evi, yayla evi veya dağ evi olarak düzenlenen tesislerde her beş oda için bir adet olmak üzere ortak kullanıma uygun müşteri duş, tuvalet ve lavabo mahalli düzenlenecektir.
 
-f) Mobil evler
+**f) Mobil evler**
 
 Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşağıda belirtilen şartlar aranır;
 
@@ -1776,7 +1776,7 @@ Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşa
 
 3 - Tamamı mobil evlerden oluşan bu tesislerde en az beş, en fazla kırk dokuz konaklama birimi bulunacaktır.
 
-g) Kampingler
+**g) Kampingler**
 
 Ortak hükümlere ve konaklama yerlerinin asgari niteliklerine ilave olarak aşağıda belirtilen şartlar aranır;
 
@@ -1814,37 +1814,37 @@ Güzellik salonları için ortak hükümlere ilave olarak aşağıdaki şartlar 
 
 9 - Görevli personel, hizmetlerine uygun önlük veya üniforma giyecektir.
 
-(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.
+<i>(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.</i>
 
 4758
 
-10 - Güzellik salonunda, faaliyet gösterilen süre boyunca, güzellik uzmanı olan bir sorumlu müdür bulunacaktır. Sorumlu müdür, 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanunu kapsamında ilgili alanda ustalık belgesine veya bu konuda ön lisans veya lisans diplomasına (Ek ibare: RG-25/8/2022-31934-C.K-5987/10 md.) veya mesleki ya da teknik ortaöğretim kurumlarının ilgili alanlarından mezun olduğunu gösterir diplomaya veya en az dördüncü seviye kurs bitirme belgesine veya en az dördüncü seviye mesleki yeterlilik belgesine ya da yurtdışındaki eğitim kurumlarından alınmış ve ilgili mevzuata göre denkliği kabul edilmiş belgeye sahip kişi olacaktır. Sorumlu müdür, sadece bir salonda sorumlu müdürlük görevini üstlenebilecek ve sorumlu müdürlük yaptığı kuruluşta aynı zamanda mesleğini icra edebilecektir. Sorumlu müdür hem idari hem de uygulanan işlemlerden uygulayıcılarla birlikte sorumlu olacaktır. Sorumlu müdürün görev ve sorumlulukları şunlardır:
+10 - Güzellik salonunda, faaliyet gösterilen süre boyunca, güzellik uzmanı olan bir sorumlu müdür bulunacaktır. Sorumlu müdür, 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanunu kapsamında ilgili alanda ustalık belgesine veya bu konuda ön lisans veya lisans diplomasına **(Ek ibare: RG-25/8/2022-31934-C.K-5987/10 md.)** veya mesleki ya da teknik ortaöğretim kurumlarının ilgili alanlarından mezun olduğunu gösterir diplomaya veya en az dördüncü seviye kurs bitirme belgesine veya en az dördüncü seviye mesleki yeterlilik belgesine ya da yurtdışındaki eğitim kurumlarından alınmış ve ilgili mevzuata göre denkliği kabul edilmiş belgeye sahip kişi olacaktır. Sorumlu müdür, sadece bir salonda sorumlu müdürlük görevini üstlenebilecek ve sorumlu müdürlük yaptığı kuruluşta aynı zamanda mesleğini icra edebilecektir. Sorumlu müdür hem idari hem de uygulanan işlemlerden uygulayıcılarla birlikte sorumlu olacaktır. Sorumlu müdürün görev ve sorumlulukları şunlardır:
 
-10.1 - Açılış ve faaliyetler ile ilgili her türlü izin işlemlerini yürütmek.
+**10.1** - Açılış ve faaliyetler ile ilgili her türlü izin işlemlerini yürütmek.
 
-10.2 - İşleyişte tanımlanmış alt yapı ve hizmet kalite standartlarının korunması ve sürdürülmesini sağlamak.
+**10.2** - İşleyişte tanımlanmış alt yapı ve hizmet kalite standartlarının korunması ve sürdürülmesini sağlamak.
 
-10.3 - Güzellik salonunun faaliyetlerinde, fiziki alt yapı, personel, cihaz ve malzemelerinde meydana gelen tüm değişiklikleri zamanında ruhsatlandırmaya yetkili makama bildirmek.
+**10.3** - Güzellik salonunun faaliyetlerinde, fiziki alt yapı, personel, cihaz ve malzemelerinde meydana gelen tüm değişiklikleri zamanında ruhsatlandırmaya yetkili makama bildirmek.
 
-10.4 - Güzellik salonunda, çalışma saatleri içerisinde hizmetlerin düzenli ve sürekli olarak yürütülmesini sağlamak, bu amaçla gerekli iç denetimleri yapmak.
+**10.4** - Güzellik salonunda, çalışma saatleri içerisinde hizmetlerin düzenli ve sürekli olarak yürütülmesini sağlamak, bu amaçla gerekli iç denetimleri yapmak.
 
-10.5 - Güzellik salonu adına ilgili belgeleri onaylamak.
+**10.5** - Güzellik salonu adına ilgili belgeleri onaylamak.
 
-10.6 - Güzellik salonunda yapılacak denetimler sırasında yetkililere gerekli bilgi ve belgeleri vermek ve denetime yardımcı olmak.
+**10.6** - Güzellik salonunda yapılacak denetimler sırasında yetkililere gerekli bilgi ve belgeleri vermek ve denetime yardımcı olmak.
 
-10.7 - Uygulanan işlemler sırasında oluşan tıbbî atıkların usulüne uygun şekilde imha edilmesini sağlamak.
+**10.7** - Uygulanan işlemler sırasında oluşan tıbbî atıkların usulüne uygun şekilde imha edilmesini sağlamak.
 
-10.8- Güzellik salonunda bulunan cihaz ve malzemelerin sterilizasyonunun yapılmasını sağlamak.
+**10.8-** Güzellik salonunda bulunan cihaz ve malzemelerin sterilizasyonunun yapılmasını sağlamak.
 
-10.9 - Çalışan personelin bulaşıcı hastalıklar yönünden periyodik muayenelerini yaptırmak.
+**10.9** - Çalışan personelin bulaşıcı hastalıklar yönünden periyodik muayenelerini yaptırmak.
 
-11 – (Ek: 5/11/2012-2012/3986 K; De ğ i ş ik: 20/3/2017-2017/10085 K.) (Danıştay Onuncu Dairesinin 12/11/2020 tarihli ve E.:2017/1846; K.:2020/4821 sayılı kararı ile iptal) (Yeniden Düzenleme: RG-25/8/2022-31934-C.K-5987/10 md.) Güzellik salonlarında yer alan tüy alma uygulamalarına yönelik 600-1200 nanometre dalga aralığındaki yoğun atımlı ışık (IPL) ve sadece epilasyon endikasyonuyla üretilmiş 20j/cm2 enerji sınırını geçmeyen seri atışlı diode lazer ekipmanı ile bu ekipmanın cihaz tanımı ve spesifikasyonları, tasarım ve imalat bilgileri gibi teknik dokümantasyonuna ilişkin bilgileri yıllık olarak her yılın Aralık ayı sonu itibarıyla; yeni cihaz alınması durumunda ise yirmi iş günü içinde, sorumlu müdür tarafından yetkili idareye ve valiliğe (il sağlık müdürlüğü) bildirilir. Güzellik salonları, yetkili idarelerce her yıl Şubat ve Ağustos aylarında ve uygun görülecek diğer zamanlarda denetlenir. Güzellik salonlarında yetkili idarelerce yapılacak denetimlerde il sağlık müdürlüğü temsilcisi de yer alır. Denetimler sonucu bu Yönetmeliğe aykırılıkların tespiti hâlinde ek 3 üncü maddeye göre işlem tesis edilir.
+**11 – (Ek: 5/11/2012-2012/3986 K; De ğ i ş ik: 20/3/2017-2017/10085 K.) (Danıştay Onuncu Dairesinin 12/11/2020 tarihli ve E.:2017/1846; K.:2020/4821 sayılı kararı ile iptal) (Yeniden Düzenleme: RG-25/8/2022-31934-C.K-5987/10 md.)** Güzellik salonlarında yer alan tüy alma uygulamalarına yönelik 600-1200 nanometre dalga aralığındaki yoğun atımlı ışık (IPL) ve sadece epilasyon endikasyonuyla üretilmiş 20j/cm2 enerji sınırını geçmeyen seri atışlı diode lazer ekipmanı ile bu ekipmanın cihaz tanımı ve spesifikasyonları, tasarım ve imalat bilgileri gibi teknik dokümantasyonuna ilişkin bilgileri yıllık olarak her yılın Aralık ayı sonu itibarıyla; yeni cihaz alınması durumunda ise yirmi iş günü içinde, sorumlu müdür tarafından yetkili idareye ve valiliğe (il sağlık müdürlüğü) bildirilir. Güzellik salonları, yetkili idarelerce her yıl Şubat ve Ağustos aylarında ve uygun görülecek diğer zamanlarda denetlenir. Güzellik salonlarında yetkili idarelerce yapılacak denetimlerde il sağlık müdürlüğü temsilcisi de yer alır. Denetimler sonucu bu Yönetmeliğe aykırılıkların tespiti hâlinde ek 3 üncü maddeye göre işlem tesis edilir.
 
 11.1- Cihazların denetimlerinde;
 
 11.1.1- Sorumlu müdürün cihazların yalnızca tüy alma uygulamaları amacına yönelik üretildiğine ve belirtilen nanometre aralığı ile enerji sınırlarına uygun olarak kullanıldığına ilişkin yazılı beyanı alınır.
 
-11.1.2- (Değişik:RG-11/12/2025-33104-CK-10681/9 md.) Y oğun atımlı ışık (IPL) cihazının nanometre aralığı ile seri atışlı diode lazer cihazının enerji sınırı tespiti için spektrofotometre ve lazer güç ölçümü kapsamlarında faaliyet gösteren TS 13193 standardından TSE-HYB belgeli yetkili servislerden veya muayene kuruluşlarından alınmış, dalga boyuna ve enerji sınırına ilişkin muayene raporları kontrol edilir. Bu raporlar, her yıl ve ayrıca her cihaz alımında veya cihaz başlığı değişiminde yenilenir.
+11.1.2- **(Değişik:RG-11/12/2025-33104-CK-10681/9 md.)** Y oğun atımlı ışık (IPL) cihazının nanometre aralığı ile seri atışlı diode lazer cihazının enerji sınırı tespiti için spektrofotometre ve lazer güç ölçümü kapsamlarında faaliyet gösteren TS 13193 standardından TSE-HYB belgeli yetkili servislerden veya muayene kuruluşlarından alınmış, dalga boyuna ve enerji sınırına ilişkin muayene raporları kontrol edilir. Bu raporlar, her yıl ve ayrıca her cihaz alımında veya cihaz başlığı değişiminde yenilenir.
 
 11.1.3- Cihazların, Makine Emniyeti Yönetmeliği (2006/42/AT-2006/42/EC/2023/1230/EU), Elektromanyetik Uyumluluk Yönetmeliği (2014/30/AB-2014/30/EU) ve Belirli Gerilim Sınırları İçin Tasarlanan Elektrikli Ekipman ile İlgili Yönetmelik (2014/35/AB-2014/35/EU) hükümleri ile TS EN 60204-1 Makinalarda Güvenlik – Makinaların Elektrik Donanımı – Bölüm 1: Genel Kurallar ve TS EN ISO 12100 Makinalarda Güvenlik – Tasarım İçin Genel Prensipler – Risk Değerlendirilmesi ve Risk Azaltılması standartlarına uygunluğuna ilişkin CE belgesi olması; 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Yönetmeliğinin 9 uncu maddesi gereğince kabul edilen ortak spesifikasyonların yürürlüğe giriş tarihinden itibaren piyasaya arz edilecek olan cihazların ise Tıbbi Cihaz Yönetmeliği hükümlerine uygunluğuna ilişkin ilgili belgeleri haiz olması ve CE işareti taşıması zorunludur. Cihazın tüy alma uygulamalarına yönelik epilasyon amacıyla üretilip üretilmediği bu belgelerden de ayrıca kontrol edilir. (1)
 
@@ -1852,11 +1852,11 @@ Güzellik salonları için ortak hükümlere ilave olarak aşağıdaki şartlar 
 
 13 - Güzellik uzmanının yapabileceği işlemler şunlardır:
 
-(1) 11/12/2025 tarihli ve 33104 sayılı Resmî Gazete’de yayımlanan 10681 sayılı Cumhurbaşkanı Kararının 9 uncu maddesiyle bu bentte yer alan “(2006/42/AT-2006/42/EC)” ibaresi “(2006/42/AT-2006/42/EC/2023/1230/EU)” şeklinde değiştirilmiştir.
+<i>(1) 11/12/2025 tarihli ve 33104 sayılı Resmî Gazete’de yayımlanan 10681 sayılı Cumhurbaşkanı Kararının 9 uncu maddesiyle bu bentte yer alan “(2006/42/AT-2006/42/EC)” ibaresi “(2006/42/AT-2006/42/EC/2023/1230/EU)” şeklinde değiştirilmiştir.</i>
 
 4758-1
 
-13.1 - Cilt (yüz ve boyun) bakım biriminde:
+**13.1** - Cilt (yüz ve boyun) bakım biriminde:
 
 a . Kozmetik preparatlarla ve cihazlarla yapılan her türlü cilt temizliği uygulaması.
 
@@ -1882,13 +1882,13 @@ k . Refleksofizyolojik uygulamalar.
 
 l . Sıcak ve soğuk uygulamalar.
 
-13.2 - Epilasyon/depilasyon biriminde:
+**13.2** - Epilasyon/depilasyon biriminde:
 
-a. (Değişik: 20/3/2017-2017/10085 K.) (Danıştay Onuncu Dairesinin 12/11/2020 tarihli ve E.:2017/1846; K.:2020/4821 sayılı kararı ile iptal) (Yeniden Düzenleme: RG-25/8/2022-31934-C.K-5987/10 md.) Tüy alma uygulamalarına yönelik 600-1200 nanometre dalga aralığındaki yoğun atımlı ışık (IPL) ve sadece epilasyon endikasyonuyla üretilmiş 20j/cm2 enerji sınırını geçmeyen seri atışlı diode lazer ekipmanı ile yapılacak epilasyon ve depilasyon işlemleri (Epilasyon işlemini gerçekleştirecek güzellik uzmanlarının, kullanacağı epilasyon cihazıyla ilgili bu Yönetmeliğin ek 2 nci maddesinde yer alan belgelerden veya Mesleki Yeterlilik Kurumundan alınan mesleki yeterlilik belgesinden birisine sahip olması zorunludur.).
+**a. (Değişik: 20/3/2017-2017/10085 K.) (Danıştay Onuncu Dairesinin 12/11/2020 tarihli ve E.:2017/1846; K.:2020/4821 sayılı kararı ile iptal) (Yeniden Düzenleme: RG-25/8/2022-31934-C.K-5987/10 md.)** Tüy alma uygulamalarına yönelik 600-1200 nanometre dalga aralığındaki yoğun atımlı ışık (IPL) ve sadece epilasyon endikasyonuyla üretilmiş 20j/cm2 enerji sınırını geçmeyen seri atışlı diode lazer ekipmanı ile yapılacak epilasyon ve depilasyon işlemleri (Epilasyon işlemini gerçekleştirecek güzellik uzmanlarının, kullanacağı epilasyon cihazıyla ilgili bu Yönetmeliğin ek 2 nci maddesinde yer alan belgelerden veya Mesleki Yeterlilik Kurumundan alınan mesleki yeterlilik belgesinden birisine sahip olması zorunludur.).
 
 b . Ağda uygulaması.
 
-13.3 - El ve ayak bakım biriminde:
+**13.3** - El ve ayak bakım biriminde:
 
 a . Kozmetik preparatlar ve cihazlarla el ve ayak cildinin her türlü bakımının yapılması.
 
@@ -1898,7 +1898,7 @@ c . Protez tırnak uygulamaları.
 
 d . Tırnak süsleme.
 
-13.4 - Vücut bakım biriminde:
+**13.4** - Vücut bakım biriminde:
 
 a . Vücutta çeşitli cihazlarla yapılan selülit giderici uygulamalar.
 
@@ -1918,9 +1918,9 @@ h . SPA bakımları.
 
 ı . Birimde gerçekleştirilen işlemlerin gerektirdiği masaj uygulamaları.
 
-13.5 - Bronzlaştırma biriminde: Bronzlaştırıcı solaryum uygulamaları.
+**13.5** - Bronzlaştırma biriminde: Bronzlaştırıcı solaryum uygulamaları.
 
-13.6 - Makyaj biriminde:
+**13.6** - Makyaj biriminde:
 
 a . Artistik ve plastik makyaj uygulaması.
 
@@ -1930,11 +1930,11 @@ c . Kaş ve kirpik şekillendirme.
 
 d . Protez kirpik uygulaması.
 
-e. (Ek: RG-25/8/2022-31934-C.K-5987/10 md.) Kalıcı makyaj işlemleri.
+**e. (Ek: RG-25/8/2022-31934-C.K-5987/10 md.)** Kalıcı makyaj işlemleri.
 
 14- Birimlerde bulundurulması gerekli asgari araç, gereç ve ekipmanlar şunlardır:
 
-14.1 - Cilt (yüz ve boyun) bakım biriminde:
+**14.1** - Cilt (yüz ve boyun) bakım biriminde:
 
 a . Cilt bakım cihazı (Frimatör veya yüksek frekans veya vakum sprey veya iontoforez veya galvenik veya faradik akım ile kas stimülasyonu veya ultrason veya soft laser veya infraruj).
 
@@ -1956,7 +1956,7 @@ h . Lifting cihazları (Galvanik veya faradik akım uygulayan cihazlar ve/veya s
 
 4758-2
 
-14.2 - Epilasyon/depilasyon biriminde:
+**14.2** - Epilasyon/depilasyon biriminde:
 
 a . Epilasyon cihazı (Termoliz Sistem ve Elektroliz Sistemleri kapsayan Blend Sistem).
 
@@ -1976,7 +1976,7 @@ h . Depilasyon cihazları.
 
 ı . Epilasyon/depilasyon uygulamalarına yönelik çeşitli el aparatları (Cımbız, makas, eldiven, maske ve benzeri).
 
-14.3 - El ve ayak bakım biriminde:
+**14.3** - El ve ayak bakım biriminde:
 
 a . Uygulama yatağı/koltuğu ve uygulayıcı taburesi.
 
@@ -1986,7 +1986,7 @@ c . El ayak bakımı için kullanılan ürünler.
 
 d . Manikür ve pedikür uygulamalarına yönelik çeşitli el aparatları.
 
-14.4 - Vücut bakım biriminde:
+**14.4** - Vücut bakım biriminde:
 
 a . Elektro stimulasyon cihazı (Değişik akımlarla kas stimülasyonu yapan cihazlar ve pasif jimnastik cihazları).
 
@@ -2030,7 +2030,7 @@ u . Duş kabini.
 
 4758-3
 
-14.5 . Bronzlaştırma biriminde:
+**14.5** . Bronzlaştırma biriminde:
 
 a . Solaryum cihazları.
 
@@ -2040,7 +2040,7 @@ c . Cihazların temizliği için dezenfektanlar.
 
 d . Soyunma dolabı.
 
-14.6 - Makyaj birimi:
+**14.6** - Makyaj birimi:
 
 a . Renkli kozmetikler.
 
@@ -2058,23 +2058,23 @@ f . Makyaj uygulamalarına yönelik çeşitli el aparatları (Ayna, fırça, mak
 
 16 - Güzellik salonlarında yasak olan faaliyetler aşağıda belirtilmiştir.
 
-16.1 - Güzellik salonlarının tanıtıcı reklam, tabela ve basılı belgelerinde güzellik merkezini çağrıştıracak ifadeler kullanılamaz ve açıkça “güzellik salonu” ifadesi kullanılır.
+**16.1** - Güzellik salonlarının tanıtıcı reklam, tabela ve basılı belgelerinde güzellik merkezini çağrıştıracak ifadeler kullanılamaz ve açıkça “güzellik salonu” ifadesi kullanılır.
 
-16.2 - Güzellik salonlarında, kullanılan makine veya ürün ile ilgili kanıtlanmış etkilerinin dışında etki vadeden, tüketiciyi yanıltıcı reklâm faaliyetinde bulunulamaz.
+**16.2** - Güzellik salonlarında, kullanılan makine veya ürün ile ilgili kanıtlanmış etkilerinin dışında etki vadeden, tüketiciyi yanıltıcı reklâm faaliyetinde bulunulamaz.
 
-16.3 - (Değişik: RG-25/8/2022-31934-C.K-5987/10 md.) Güzellik salonlarında lazer veya IPL ile akne, cilt yenileme, vasküler damar tedavisi, pigmentli lezyon tedavisi ve benzeri hiçbir tıbbi işlem yapılamaz ve bunlara ilişkin hiçbir surette reklam ve diğer tür tanıtım faaliyetlerinde bulunulamaz.
+**16.3 - (Değişik: RG-25/8/2022-31934-C.K-5987/10 md.)** Güzellik salonlarında lazer veya IPL ile akne, cilt yenileme, vasküler damar tedavisi, pigmentli lezyon tedavisi ve benzeri hiçbir tıbbi işlem yapılamaz ve bunlara ilişkin hiçbir surette reklam ve diğer tür tanıtım faaliyetlerinde bulunulamaz.
 
-16.4 - Güzellik salonunda tıp fakültesi mezunu olan biri çalışsa bile mezoterapi, akupunktur, lipoelektro gibi her türlü (Değişik ibare: RG-25/8/2022-31934-C.K-5987/10 md.) invaziv girişimler ile tabip yetkisinde olan tıbbi işlemler yapılamaz. Beşeri tıbbi ürün tavsiye edilemez ve hastalıkların tedavisine ilişkin tavsiyelerde bulunamaz.
+**16.4** - Güzellik salonunda tıp fakültesi mezunu olan biri çalışsa bile mezoterapi, akupunktur, lipoelektro gibi her türlü **(Değişik ibare: RG-25/8/2022-31934-C.K-5987/10 md.)** invaziv girişimler ile tabip yetkisinde olan tıbbi işlemler yapılamaz. Beşeri tıbbi ürün tavsiye edilemez ve hastalıkların tedavisine ilişkin tavsiyelerde bulunamaz.
 
-16.5 - Güzellik salonlarında deriye veya deri altına enjeksiyonla müdahalede bulunmayı gerektiren işlemler yapılamaz.
+**16.5** - Güzellik salonlarında deriye veya deri altına enjeksiyonla müdahalede bulunmayı gerektiren işlemler yapılamaz.
 
-16.6 - Solaryum biriminde, bronzlaştırıcı solaryum uygulamaları dışındaki işlemler uygulanamaz.
+**16.6** - Solaryum biriminde, bronzlaştırıcı solaryum uygulamaları dışındaki işlemler uygulanamaz.
 
-16.7 - Güzellik salonlarında, cilt bakım birimi ile vücut bakım biriminde gerçekleştirilen işlemlerin gerektirdiği masaj uygulamaları hariç masaj yapılamaz.
+**16.7** - Güzellik salonlarında, cilt bakım birimi ile vücut bakım biriminde gerçekleştirilen işlemlerin gerektirdiği masaj uygulamaları hariç masaj yapılamaz.
 
-16.8 - Güzellik salonlarında cildin bakımı ve desteklenmesine yönelik yüzeysel olarak % 30’luk oranın üzerinde alfa hidroksi asitler ve türevlerinin kullanımı suretiyle kimyasal ve bitkisel peeling uygulamaları ile cildin bakımı ve desteklenmesine yönelik mekanik peeling uygulamaları yapılamaz.
+**16.8** - Güzellik salonlarında cildin bakımı ve desteklenmesine yönelik yüzeysel olarak % 30’luk oranın üzerinde alfa hidroksi asitler ve türevlerinin kullanımı suretiyle kimyasal ve bitkisel peeling uygulamaları ile cildin bakımı ve desteklenmesine yönelik mekanik peeling uygulamaları yapılamaz.
 
-16.9 - Güzellik salonlarında yetkili kurumlar tarafından üretim izni verilen veya bu kurumlardan alınan izinle ithal edilmiş olan ürünler dışında ürün bulundurulamaz, kullanılamaz veya satılamaz.
+**16.9** - Güzellik salonlarında yetkili kurumlar tarafından üretim izni verilen veya bu kurumlardan alınan izinle ithal edilmiş olan ürünler dışında ürün bulundurulamaz, kullanılamaz veya satılamaz.
 
 4758-4
 
@@ -2102,27 +2102,27 @@ Masaj salonları için ortak hükümlere ilave olarak aşağıdaki şartlar aran
 
 10 - Masaj salonunda bir sorumlu müdür bulunacaktır. Sorumlu müdür; Milli Eğitim Bakanlığının ilgili mevzuatına göre açılmış okullar, kurumlar veya kurslardan 520 saatlik genel masaj eğitimi sonunda alınmış diploma ile birlikte 3308 sayılı Kanun kapsamında ilgili alanda ustalık belgesine veya bu konuda ön lisans veya lisans diplomasına ya da yurtdışındaki eğitim kurumlarından alınmış ve ilgili mevzuata göre denkliği kabul edilmiş belgeye sahip olacaktır. Sorumlu müdür, sadece bir salonda sorumlu müdürlük görevini üstlenebilecek ve sorumlu müdürlük yaptığı kuruluşta aynı zamanda mesleğini de icra edebilecektir. Sorumlu müdür hem idari hem de uygulanan işlemlerden uygulayıcılarla birlikte sorumlu olacaktır. Sorumlu müdürün görev ve sorumlulukları şunlardır:
 
-10.1 - Açılış ve faaliyetler ile ilgili her türlü izin işlemlerini yürütmek.
+**10.1** - Açılış ve faaliyetler ile ilgili her türlü izin işlemlerini yürütmek.
 
-(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.
+<i>(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.</i>
 
 4758-5
 
-10.2 - İşleyişte tanımlanmış alt yapı ve hizmet kalite standartlarının korunması ve sürdürülmesini sağlamak.
+**10.2** - İşleyişte tanımlanmış alt yapı ve hizmet kalite standartlarının korunması ve sürdürülmesini sağlamak.
 
-10.3 - Masaj salonunun faaliyetlerinde, fiziki alt yapı, personel, cihaz ve malzemelerde meydana gelen tüm değişiklikleri zamanında, ruhsatlandırmaya yetkili makama bildirmek.
+**10.3** - Masaj salonunun faaliyetlerinde, fiziki alt yapı, personel, cihaz ve malzemelerde meydana gelen tüm değişiklikleri zamanında, ruhsatlandırmaya yetkili makama bildirmek.
 
-10.4 - Masaj salonunda, çalışma saatleri içerisinde hizmetlerin düzenli ve sürekli olarak yürütülmesini sağlamak, bu amaçla gerekli iç denetimleri yapmak.
+**10.4** - Masaj salonunda, çalışma saatleri içerisinde hizmetlerin düzenli ve sürekli olarak yürütülmesini sağlamak, bu amaçla gerekli iç denetimleri yapmak.
 
-10.5 - Masaj salonu adına ilgili belgeleri onaylamak.
+**10.5** - Masaj salonu adına ilgili belgeleri onaylamak.
 
-10.6 - Masaj salonunda yapılacak denetimler sırasında yetkililere gerekli bilgi ve belgeleri vermek ve denetime yardımcı olmak.
+**10.6** - Masaj salonunda yapılacak denetimler sırasında yetkililere gerekli bilgi ve belgeleri vermek ve denetime yardımcı olmak.
 
-10.7 - Uygulanan işlemler sırasında oluşan tıbbî atıkların usulüne uygun şekilde imha edilmesini sağlamak.
+**10.7** - Uygulanan işlemler sırasında oluşan tıbbî atıkların usulüne uygun şekilde imha edilmesini sağlamak.
 
-10.8 - Masaj salonunda bulunan cihaz ve malzemelerin sterilizasyonunun yapılmasını sağlamak.
+**10.8** - Masaj salonunda bulunan cihaz ve malzemelerin sterilizasyonunun yapılmasını sağlamak.
 
-10.9 - Çalışan personelin bulaşıcı hastalıklar yönünden periyodik muayenelerini yaptırmak.
+**10.9** - Çalışan personelin bulaşıcı hastalıklar yönünden periyodik muayenelerini yaptırmak.
 
 11 - Sorumlu müdür, salonda gerçekleştirilen uygulamalar sonucu oluşabilecek komplikasyonlardan sorumludur.
 
@@ -2130,27 +2130,27 @@ Masaj salonları için ortak hükümlere ilave olarak aşağıdaki şartlar aran
 
 13 - Masaj salonlarında yasak olan faaliyetler aşağıda belirtilmiştir.
 
-13.1 - Kullanılan makine veya ürün ile ilgili kanıtlanmış etkilerinin dışında etki vaad eden, tüketiciyi yanıltıcı reklam faaliyetinde bulunulamaz.
+**13.1** - Kullanılan makine veya ürün ile ilgili kanıtlanmış etkilerinin dışında etki vaad eden, tüketiciyi yanıltıcı reklam faaliyetinde bulunulamaz.
 
-13.2 - Yetkili kurumlar tarafından üretim izni verilen veya bu kurumlardan alınan izinle ithal edilmiş olan ürünler dışında ürün bulundurulamaz, kullanılamaz veya satılamaz.
+**13.2** - Yetkili kurumlar tarafından üretim izni verilen veya bu kurumlardan alınan izinle ithal edilmiş olan ürünler dışında ürün bulundurulamaz, kullanılamaz veya satılamaz.
 
-13.3 - Tıp fakültesi mezunu olan biri çalışsa bile mezoterapi, akupunktur, lipoelektro gibi her türlü invazif girişimler ile tabip yetkisinde olan tıbbi işlemler yapılamaz. Beşeri tıbbi ürün tavsiye edilemez ve hastalıkların tedavisine ilişkin tavsiyelerde bulunamaz.
+**13.3** - Tıp fakültesi mezunu olan biri çalışsa bile mezoterapi, akupunktur, lipoelektro gibi her türlü invazif girişimler ile tabip yetkisinde olan tıbbi işlemler yapılamaz. Beşeri tıbbi ürün tavsiye edilemez ve hastalıkların tedavisine ilişkin tavsiyelerde bulunamaz.
 
-13.4 - Deriye veya deri altına enjeksiyonla müdahalede bulunmayı gerektiren işlemler yapılamaz.
+**13.4** - Deriye veya deri altına enjeksiyonla müdahalede bulunmayı gerektiren işlemler yapılamaz.
 
-13.5 - Onsekiz yaş altındakiler çalıştırılamaz ve bu yaşın altında bulunan kişilere hizmet verilemez.
+**13.5** - Onsekiz yaş altındakiler çalıştırılamaz ve bu yaşın altında bulunan kişilere hizmet verilemez.
 
 ### L- HAMAM, SAUNA VE BENZERİ YERLER (1)
 
 Hamam ve saunalar için ortak hükümlere ilave olarak aşağıdaki şartlar aranır:
 
-a) Hamamlar
+**a) Hamamlar**
 
 1 - Hamam soyunma, yıkanma ve dinlenme yeri olmak üzere üç bölümden oluşacaktır.
 
 2 - Çalışanların saç, sakal ve tırnakları kesilmiş ve temizlenmiş olacak, hastalıklarının bulunmadığına ilişkin sağlık raporu bulunacaktır. Bu raporlar altı ayda bir yenilenecektir.
 
-(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.
+<i>(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.</i>
 
 4758-6
 
@@ -2158,7 +2158,7 @@ a) Hamamlar
 
 4 - Kese, lif, sünger gibi müşteri temizliğinde kullanılacak malzemeler sıhhî şartları haiz olacak ve her kullanımdan sonra usulünce temizlenecektir.
 
-b) Saunalar
+**b) Saunalar**
 
 1 - En az beş adet soyunma kabini bulunacaktır. Yıkanma yerlerinden başka en az iki adet soğuk ve sıcak duş yeri bulunacaktır.
 
@@ -2174,7 +2174,7 @@ Hamam ve saunalar yetkili idareler tarafından özelliklerine ve sunduğu hizmet
 
 Berber ve kuaförlerde ortak hükümlere ilave olarak, sınıflarına göre aşağıdaki şartlar aranır:
 
-a) Birinci sınıf berber ve kuaför salonu
+**a) Birinci sınıf berber ve kuaför salonu**
 
 1 - Çalışanlar ustalık ve kalfalık belgesine veya çıraklık sözleşmesine sahip olacaktır.
 
@@ -2200,7 +2200,7 @@ a) Birinci sınıf berber ve kuaför salonu
 
 12 - Pencereler dışarıdan içerinin görünmesini engelleyecek şekilde dizayn edilecektir.
 
-b) İkinci sınıf kuaför ve berber salonu
+**b) İkinci sınıf kuaför ve berber salonu**
 
 1 - Çalışanlar ustalık ve kalfalık belgesine veya çıraklık sözleşmesine sahip olacaktır.
 
@@ -2240,7 +2240,7 @@ c) Üçüncü sınıf kuaför ve berber salonu
 
 9- Askılık bulunacaktır.
 
-(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.
+<i>(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.</i>
 
 4758-7
 
@@ -2248,7 +2248,7 @@ c) Üçüncü sınıf kuaför ve berber salonu
 
 Taksi durağı ve yazıhanesi, kapalı ve açık otoparklarda ortak hükümlere ilave olarak aşağıdaki şartlar aranır: (2)
 
-a) Taksi durağı
+**a) Taksi durağı**
 
 1 - En az sekiz araba park edebilecek alana sahip olacaktır.
 
@@ -2266,7 +2266,7 @@ a) Taksi durağı
 
 8 - Çalışanlar, işyerinin belirlediği kıyafeti giyecektir.
 
-b) Kapalı otoparklar
+**b) Kapalı otoparklar**
 
 1 - Kullanış amacına uygun yapı kullanma izni belgesi olacaktır.
 
@@ -2288,7 +2288,7 @@ b) Kapalı otoparklar
 
 10 - Sıvılaştırılmış petrol gazı ve sıkıştırılmış doğalgaz kullanan araçların kapalı otoparka kabul edilmesi yasaktır.
 
-c) Açık otoparklar
+**c) Açık otoparklar**
 
 1- Açık otopark olarak kullanılan yerin mülkiyet sahibinden tapu tescil belgesine göre muvafakat alınacaktır.
 
@@ -2306,7 +2306,7 @@ c) Açık otoparklar
 
 8- Plan değişikliği veya mülkiyet değişikliği nedeniyle oluşacak durumlarda yeni malikin veya maliklerin muvafakati olmadan işletmeye devam edilemez.
 
-d) (Mülga:RG-9/6/2020-31150-C.K-2626/10 md.) Oto galerileri
+**d) (Mülga:RG-9/6/2020-31150-C.K-2626/10 md.)** Oto galerileri
 
 ### O- TAŞINMAZ TİCARETİ YAPILAN İŞ YERLERİ (Ek:RG-9/6/2020-31150-C.K-2626/11 md.)
 
@@ -2328,9 +2328,9 @@ Taşınmaz ticaretinde ortak hükümlere ilave olarak aşağıdaki şartlar aran
 
 Vale hizmetini tali olarak veren işyerleri ile asli olarak veren işletmelerde ortak hükümlere ilave olarak aşağıdaki şartlar aranır:
 
-(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.
+<i>(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 8 inci maddesiyle (I) bölümünden sonra gelmek üzere (J) ve (K) bölümleri eklenmiş, mevcut (J), (K) ve (L) bölümleri (L), (M) ve (N) bölümleri olarak teselsül ettirilmiştir.</i>
 
-(2) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 10 uncu maddesiyle, bu bölüm başlığındaki “VE OTO GALERİLERİ” ibaresi başlıktan çıkartılmış, aynı bölümün birinci fıkrasındaki “kapalı ve açık otoparklar ve oto galerilerinde” ibaresi “kapalı ve açık otoparklarda” şeklinde değiştirilmiştir.
+<i>(2) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 10 uncu maddesiyle, bu bölüm başlığındaki “VE OTO GALERİLERİ” ibaresi başlıktan çıkartılmış, aynı bölümün birinci fıkrasındaki “kapalı ve açık otoparklar ve oto galerilerinde” ibaresi “kapalı ve açık otoparklarda” şeklinde değiştirilmiştir.</i>
 
 4758-8
 
@@ -2402,7 +2402,7 @@ Vale hizmetini tali olarak veren işyerleri ile asli olarak veren işletmelerde 
 
 2- Faaliyet sınıfı için aranması gereken genel şartlar ile bu bölümdeki ilave şartlar, işyeri açma ve çalışma ruhsatı verilmeden önce yerinde kontrol edilecektir.
 
-(1) 6/4/2024 tarihli ve 32512 sayılı Resmî Gazete’de yayımlanan 8320 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu fıkrada yer alan “kültürel niteliği haiz çarşılar” ibaresinden sonra gelmek üzere “ile 634 sayılı Kanunun 10 uncu maddesinin üçüncü fıkrası gereğince tek bağımsız bölüm olarak tescili yapılan yapılar” ibaresi eklenmiştir.
+<i>(1) 6/4/2024 tarihli ve 32512 sayılı Resmî Gazete’de yayımlanan 8320 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu fıkrada yer alan “kültürel niteliği haiz çarşılar” ibaresinden sonra gelmek üzere “ile 634 sayılı Kanunun 10 uncu maddesinin üçüncü fıkrası gereğince tek bağımsız bölüm olarak tescili yapılan yapılar” ibaresi eklenmiştir.</i>
 
 4759
 
@@ -2432,41 +2432,41 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 1.2 - Nükleer enerji santralleri.
 
-1.3- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) (Mülga:RG-11/12/2025-33104-CK-10681/11 md.)
+**1.3- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) (Mülga:RG-11/12/2025-33104-CK-10681/11 md.)**
 
-1.4- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Toplam ısıl gücü 20 megavat (MW) ve üzeri kapasitede olan tavuk veya büyükbaş hayvan dışkısından elektrik üretim tesisleri,
+**1.4- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Toplam ısıl gücü 20 megavat (MW) ve üzeri kapasitede olan tavuk veya büyükbaş hayvan dışkısından elektrik üretim tesisleri,
 
-1.5- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) (Değişik:RG-11/12/2025-33104-CK-10681/11 md.) Jeotermal elektrik santrali veya jeotermal işleme ve işletme tesisi ya da jeotermal enerjiye bağlı sair tesislerinden birisini kapsayacak şekilde teşkil edilen seracılık tesisleri,
+**1.5- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) (Değişik:RG-11/12/2025-33104-CK-10681/11 md.)** Jeotermal elektrik santrali veya jeotermal işleme ve işletme tesisi ya da jeotermal enerjiye bağlı sair tesislerinden birisini kapsayacak şekilde teşkil edilen seracılık tesisleri,
 
-1.6- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Toplam biyogaz depolama kapasitesi 500 m3 ve üzeri olan atıklardan enerji ve gübre üretim tesisleri,
+**1.6- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Toplam biyogaz depolama kapasitesi 500 m3 ve üzeri olan atıklardan enerji ve gübre üretim tesisleri,
 
 ### 2- METALURJİ VE MAKİNE SANAYİİ:
 
 2.1 - Sıcak haddeleme tesisleri, her türlü demir çelik fabrikaları, metal boru üretim tesisleri, metal kaplama tesisleri,
 
-2.1.1- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Krom kaplama tesisleri,
+**2.1.1- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Krom kaplama tesisleri,
 
 2.2 - 50 ton/yıl ve üzerinde kapasiteye sahip her türlü demir ve demir dışı dökümhaneler ile soğuk haddeleme tesisleri,
 
-2.3 - (Değişik: 19/3/2007-2007/11882 K.) 500 HP ve üzeri motor gücü kullanan her nevi elektromekanik, elektromanyetik madeni eşya imal, işleme, montaj, tamir, emayeleme, plastik ve benzeri maddelerle kaplama yerleri, tarım ilaçlama makine imalatı yapan işyerleri,
+**2.3 - (Değişik: 19/3/2007-2007/11882 K.)** 500 HP ve üzeri motor gücü kullanan her nevi elektromekanik, elektromanyetik madeni eşya imal, işleme, montaj, tamir, emayeleme, plastik ve benzeri maddelerle kaplama yerleri, tarım ilaçlama makine imalatı yapan işyerleri,
 
-2.4- (Değişik:RG-11/12/2025-33104-CK-10681/12 md.) Gemi geri dönüşüm tesisleri ile tersaneler,
+**2.4- (Değişik:RG-11/12/2025-33104-CK-10681/12 md.)** Gemi geri dönüşüm tesisleri ile tersaneler,
 
 2.5- Kara, hava, demiryolu araçları, içten yanmalı motor ile iş makineleri üretim fabrikaları.
 
-2.6- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Alüminyum aksesuarları, sac ve alüminyum tutunma boruları imalat tesisleri,
+**2.6- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Alüminyum aksesuarları, sac ve alüminyum tutunma boruları imalat tesisleri,
 
-2.7- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 1350 DWT ve üzeri ağırlıktaki deniz araçlarının ticari amaçlı liman, iskele ve rıhtım işletmeleri (yolcu taşıma amaçlı olarak kullanılan iskele ve limanlar hariç),
+**2.7- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 1350 DWT ve üzeri ağırlıktaki deniz araçlarının ticari amaçlı liman, iskele ve rıhtım işletmeleri (yolcu taşıma amaçlı olarak kullanılan iskele ve limanlar hariç),
 
-2.8- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Endüstriyel filtre üretim tesisleri,
+**2.8- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Endüstriyel filtre üretim tesisleri,
 
-2.9- (Ek:RG-11/12/2025-33104-CK-10681/12 md.) Fotovoltaik güneş hücresi ve/veya güneş modülü imalat tesisleri,
+**2.9- (Ek:RG-11/12/2025-33104-CK-10681/12 md.)** Fotovoltaik güneş hücresi ve/veya güneş modülü imalat tesisleri,
 
-2.10- (Ek:RG-11/12/2025-33104-CK-10681/12 md.) Toplam motor gücü 500 HP ve üzeri ve/veya billet ısıtılma kapasitesi 5 ton/gün ve daha fazla olan ekstrüzyon metodu ile alüminyum profil üretim tesisleri,
+**2.10- (Ek:RG-11/12/2025-33104-CK-10681/12 md.)** Toplam motor gücü 500 HP ve üzeri ve/veya billet ısıtılma kapasitesi 5 ton/gün ve daha fazla olan ekstrüzyon metodu ile alüminyum profil üretim tesisleri,
 
-2.11- (Ek:RG-11/12/2025-33104-CK-10681/12 md.) 500 HP ve üzeri motor gücü kullanan rulman, bilezik ve makara imal tesisleri,
+**2.11- (Ek:RG-11/12/2025-33104-CK-10681/12 md.)** 500 HP ve üzeri motor gücü kullanan rulman, bilezik ve makara imal tesisleri,
 
-3- MADEN SANAYİİ (Değişik: 23/5/2011-2011/1900 K.)
+**3- MADEN SANAYİİ (Değişik: 23/5/2011-2011/1900 K.)**
 
 3.1- Çimento fabrikaları veya klinker üretim tesisleri ile 5 ton/saat ve üzeri kapasitede olan çimento öğütme, paketleme ve karıştırma tesisleri,
 
@@ -2488,55 +2488,55 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 3.9- Biyolojik, kimyasal, elektrolitik ya da ısıl işlem yöntemleri uygulanan cevher zenginleştirme tesisleri,
 
-3.10- Kanununun 2 nci maddesinde yer alan I. Ve II. Grup madenlerin her türlü işlemden geçirilmesi (kırma, eleme, öğütme, yıkama ve benzeri) projelerinden 100.000 m 3 /yıl ve üzeri kapasitede olanlar.
+**3.10-** Kanununun 2 nci maddesinde yer alan I. Ve II. Grup madenlerin her türlü işlemden geçirilmesi (kırma, eleme, öğütme, yıkama ve benzeri) projelerinden 100.000 m 3 /yıl ve üzeri kapasitede olanlar.
 
-3.11- (Ek:RG-11/12/2025-33104-CK-10681/13 md.) Hammadde kapasitesi 500 ton/gün ve daha fazla olan taşkömürü ve/veya bitümlü maddeleri gazlaştırma ve/veya sıvılaştırma tesisleri,
+**3.11- (Ek:RG-11/12/2025-33104-CK-10681/13 md.)** Hammadde kapasitesi 500 ton/gün ve daha fazla olan taşkömürü ve/veya bitümlü maddeleri gazlaştırma ve/veya sıvılaştırma tesisleri,
 
-3.12- (Ek:RG-11/12/2025-33104-CK-10681/13 md.) Maden Tekstil yıkama, taş yıkama, ağartma, durulama ve kurulama işlemlerinin beraber yapıldığı tesisler,
+**3.12- (Ek:RG-11/12/2025-33104-CK-10681/13 md.)** Maden Tekstil yıkama, taş yıkama, ağartma, durulama ve kurulama işlemlerinin beraber yapıldığı tesisler,
 
 ### 4- KİMYA SANAYİİ
 
-4.1-Temel organik kimyasalların üretildiği kimya tesisleri
+**4.1-Temel organik kimyasalların üretildiği kimya tesisleri**
 
-4.1.1- (Değişik: 19/3/2007-2007/11882 K.) Alkoller, aldehitler, ketonlar, karboksilli asitler, esterler, asetatlar, eterler, peroksitler, yapay reçineler gibi oksijen içeren hidrokarbonlar, ayçiçeğini kabuğundan ayırıp iç üretim yapacak biyoyakıt üreten işyerleri,
+**4.1.1- (Değişik: 19/3/2007-2007/11882 K.)** Alkoller, aldehitler, ketonlar, karboksilli asitler, esterler, asetatlar, eterler, peroksitler, yapay reçineler gibi oksijen içeren hidrokarbonlar, ayçiçeğini kabuğundan ayırıp iç üretim yapacak biyoyakıt üreten işyerleri,
 
-4.1.2 - Sülfürlü, fosforlu, halojenli hidrokarbonlar üretim tesisleri,
+**4.1.2** - Sülfürlü, fosforlu, halojenli hidrokarbonlar üretim tesisleri,
 
-4.1.3- Temel plastik hammaddeleri ile kimyasal elyaf (polimeriler, sentetik lif veya selüloz tabanlı lifler) üretim tesisleri,
+**4.1.3-** Temel plastik hammaddeleri ile kimyasal elyaf (polimeriler, sentetik lif veya selüloz tabanlı lifler) üretim tesisleri,
 
-4.1.4 - Sentetik kauçuklar üretim tesisleri,
+**4.1.4** - Sentetik kauçuklar üretim tesisleri,
 
-4.1.5 - Sentetik, selülozik veya su bazlı boyalar ve pigmentler üretim tesisleri,
+**4.1.5** - Sentetik, selülozik veya su bazlı boyalar ve pigmentler üretim tesisleri,
 
-4.1.6 - Madeni ve nebati, yüzey koruyucu ve kimyasalları (vernik, cila gibi) üretim tesisleri,
+**4.1.6** - Madeni ve nebati, yüzey koruyucu ve kimyasalları (vernik, cila gibi) üretim tesisleri,
 
-4.1.7 - (Ek: 29/6/2010 – 2010/671 K.) 75 ton/gün üzeri hazır sıva ve ıslak sıva üretim tesisleri, (1)
+**4.1.7 - (Ek: 29/6/2010 – 2010/671 K.)** 75 ton/gün üzeri hazır sıva ve ıslak sıva üretim tesisleri, (1)
 
-4.1.8 - (Ek: 29/6/2010 – 2010/671 K.) Yapışkan ambalaj, yara bandı, medikal bantlar ile endüstriyel bantlar üretim tesisleri, (1)
+**4.1.8 - (Ek: 29/6/2010 – 2010/671 K.)** Yapışkan ambalaj, yara bandı, medikal bantlar ile endüstriyel bantlar üretim tesisleri, (1)
 
-4.1.9- (Değişik: 19/3/2007-2007/11882 K.) Diğer organik kimyasalların ve karışımlarının üretim yerleri, sanayi tipi yapıştırıcı imal eden tesisler (polimerizasyon işlemi gerçekleştirilen tesisler.) (1)
+**4.1.9- (Değişik: 19/3/2007-2007/11882 K.)** Diğer organik kimyasalların ve karışımlarının üretim yerleri, sanayi tipi yapıştırıcı imal eden tesisler (polimerizasyon işlemi gerçekleştirilen tesisler.) (1)
 
-4.1.10 - (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Yanıcı ve parlayıcı madde kategorisindeki 150 m3 üzeri sıvıların depolanması ve/veya 500 m3 ve üzeri sıvı kimyasal ürün depolaması olan katı ve sıvı maddelerin depolandığı antrepo tesisleri,
+**4.1.10 - (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Yanıcı ve parlayıcı madde kategorisindeki 150 m3 üzeri sıvıların depolanması ve/veya 500 m3 ve üzeri sıvı kimyasal ürün depolaması olan katı ve sıvı maddelerin depolandığı antrepo tesisleri,
 
-(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 9 uncu maddesiyle bu alt başlıkta yer alan (4.1.6) numaralı maddeden sonra gelmek üzere iki madde eklenmiş, mevcut (4.1.7) numaralı madde (4.1.9) olarak teselsül ettirilmiştir.
+<i>(1) 29/6/2010 tarihli ve 2010/671 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 9 uncu maddesiyle bu alt başlıkta yer alan (4.1.6) numaralı maddeden sonra gelmek üzere iki madde eklenmiş, mevcut (4.1.7) numaralı madde (4.1.9) olarak teselsül ettirilmiştir.</i>
 
 4761
 
-4.2-Temel inorganik kimyasalların üretildiği tesisler
+**4.2-Temel inorganik kimyasalların üretildiği tesisler**
 
-4.2.1 - Amonyum klorür, potasyum klorat, potasyum karbonat, sodyum karbonat, perborat ve gümüş nitrat gibi kimyasalların üretildiği tesisler,
+**4.2.1** - Amonyum klorür, potasyum klorat, potasyum karbonat, sodyum karbonat, perborat ve gümüş nitrat gibi kimyasalların üretildiği tesisler,
 
-4.2.2 - Amonyak, hidrojen, oksijen, azot, flor gibi gazlar ve bunların bileşiklerin üretim ve dolum tesisleri ile sülfür bileşikleri, karbon oksitler gibi oksitleyici bileşiklerin üretildiği tesisler,
+**4.2.2** - Amonyak, hidrojen, oksijen, azot, flor gibi gazlar ve bunların bileşiklerin üretim ve dolum tesisleri ile sülfür bileşikleri, karbon oksitler gibi oksitleyici bileşiklerin üretildiği tesisler,
 
-4.2.3- Kromik asit, hidroklorik asit, fosforik asit, nitrik asit, sülfürik asit, oleum ve sülfürlü asit üretim ve depolanma tesisleri,
+**4.2.3-** Kromik asit, hidroklorik asit, fosforik asit, nitrik asit, sülfürik asit, oleum ve sülfürlü asit üretim ve depolanma tesisleri,
 
-4.2.4 - Amonyum hidroksit, potasyum hidroksit, sodyum hidroksit gibi bazik madde üretim tesisleri,
+**4.2.4** - Amonyum hidroksit, potasyum hidroksit, sodyum hidroksit gibi bazik madde üretim tesisleri,
 
-4.2.5- Diğer inorganik kimyasalların ve karışımlarının üretim yerleri,
+**4.2.5-** Diğer inorganik kimyasalların ve karışımlarının üretim yerleri,
 
-4.2.6- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Dağıtım ve toplam depolama kapasitesi 500 m³ ve üzeri olan medikal gaz satış yerleri,
+**4.2.6- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Dağıtım ve toplam depolama kapasitesi 500 m³ ve üzeri olan medikal gaz satış yerleri,
 
-4.2.7- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Medikal gaz depolama tesisleri,
+**4.2.7- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Medikal gaz depolama tesisleri,
 
 4.3- Fosfor, azot veya potasyum tabanlı basit veya bileşik haldeki gübre üretim tesisleri,
 
@@ -2548,87 +2548,87 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 4.7- 1 ton/gün ve üzeri kapasiteli sabun üretim tesisleri ile sulfonlama yapılan deterjan fabrikaları,
 
-4.8 - (Değişik: 29/6/2010 – 2010/671 K.) Cam ve cam eşya üretim fabrikaları, ısıcam, temperli cam, baskılı cam imalat, kesme ve işleme tesisleri,
+**4.8 - (Değişik: 29/6/2010 – 2010/671 K.)** Cam ve cam eşya üretim fabrikaları, ısıcam, temperli cam, baskılı cam imalat, kesme ve işleme tesisleri,
 
-4.8.1- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Adblue, cam suyu, dizel yakıt katkısı üretim tesisleri,
+**4.8.1- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Adblue, cam suyu, dizel yakıt katkısı üretim tesisleri,
 
-4.8.2- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Antifriz ve cam suyu dolum ve paketleme tesisleri,
+**4.8.2- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Antifriz ve cam suyu dolum ve paketleme tesisleri,
 
-4.8.3- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Sıvı conta likit dolum ve paketleme tesisleri,
+**4.8.3- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Sıvı conta likit dolum ve paketleme tesisleri,
 
 4.9- Pleksiglas, poliester imalathaneleri,
 
-4.10 - Zirai mücadele ve halk sağlığı mücadele ilaçları üretim tesisleri,
+**4.10** - Zirai mücadele ve halk sağlığı mücadele ilaçları üretim tesisleri,
 
-4.11 - Deri yakma eksraktları (zırnık) üretim tesisleri,
+**4.11** - Deri yakma eksraktları (zırnık) üretim tesisleri,
 
-4.12 - Pil, batarya ve akü imal tesisleri,
+**4.12** - Pil, batarya ve akü imal tesisleri,
 
-4.13 - Her türlü film ve film banyosunda kullanılan kimyasal maddelerin üretildiği tesisler,
+**4.13** - Her türlü film ve film banyosunda kullanılan kimyasal maddelerin üretildiği tesisler,
 
-4.14 - 50 HP ve üzeri motor gücü kullanan kauçuk ve lastik üretim ve kaplama ve lastik eşya üretim tesisleri, lastik fabrikaları ve kablo fabrikaları,
+**4.14** - 50 HP ve üzeri motor gücü kullanan kauçuk ve lastik üretim ve kaplama ve lastik eşya üretim tesisleri, lastik fabrikaları ve kablo fabrikaları,
 
-4.15 - İlaç ve ilaç hammaddelerinin bir arada üretildiği tesisler,
+**4.15** - İlaç ve ilaç hammaddelerinin bir arada üretildiği tesisler,
 
-4.16 - Parlayıcı madde üretim tesisleri,
+**4.16** - Parlayıcı madde üretim tesisleri,
 
-4.17 - 100 HP ve üzeri motor gücü kapasitedeki plastik, plaksiglas, polyester gibi maddelerden eşya, oyuncak, reklam levhaları, izolasyon malzemeleri vb. yapan yerler,
+**4.17** - 100 HP ve üzeri motor gücü kapasitedeki plastik, plaksiglas, polyester gibi maddelerden eşya, oyuncak, reklam levhaları, izolasyon malzemeleri vb. yapan yerler,
 
-4.17.1- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Plastik poşet, çöp torbası, çanta, torba, çuval, file, sandık, kutu, kasa, damacana, bidon, makara, masura, bobin, tıpa, kapak, kapsül ve benzeri paketleme, idrar torbası, randa, tentene, stor (güneşlik), yelken, çadır, şişme yatak ve kamp malzemelerinin imalat tesisleri,
+**4.17.1- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Plastik poşet, çöp torbası, çanta, torba, çuval, file, sandık, kutu, kasa, damacana, bidon, makara, masura, bobin, tıpa, kapak, kapsül ve benzeri paketleme, idrar torbası, randa, tentene, stor (güneşlik), yelken, çadır, şişme yatak ve kamp malzemelerinin imalat tesisleri,
 
-4.18 - Selüloz ve selüloit fabrikaları,
+**4.18** - Selüloz ve selüloit fabrikaları,
 
-4.19- Asfalt ve zift üretme, işleme tesisleri,
+**4.19-** Asfalt ve zift üretme, işleme tesisleri,
 
-4.20 - Karpit, asetilen, sentetik benzin üretim ve dolum tesisleri,
+**4.20** - Karpit, asetilen, sentetik benzin üretim ve dolum tesisleri,
 
-4.21- Plastik hammaddesi üretim tesisleri,
+**4.21-** Plastik hammaddesi üretim tesisleri,
 
-4.22 - Çocuk bezi ve kadın bağı üretim tesisleri.
+**4.22** - Çocuk bezi ve kadın bağı üretim tesisleri.
 
-4.23- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Boya üretim atölyeleri,
+**4.23- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Boya üretim atölyeleri,
 
-4.24- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 50 HP ve üzeri motor gücü kullanan metalin kauçuk ile kaplama tesisleri,
+**4.24- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 50 HP ve üzeri motor gücü kullanan metalin kauçuk ile kaplama tesisleri,
 
-4.25- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 500 HP ve üzeri motor gücü kullanan metalin fosfalt ile kaplama tesisleri,
+**4.25- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 500 HP ve üzeri motor gücü kullanan metalin fosfalt ile kaplama tesisleri,
 
-4.26- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 500 HP ve üzeri motor gücü kullanan boru pazarlama, showroom ve pazarlama amaçlı üretim gösterisi,
+**4.26- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 500 HP ve üzeri motor gücü kullanan boru pazarlama, showroom ve pazarlama amaçlı üretim gösterisi,
 
-4.27- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) PCR ve Real Time PCR mastermix kit üretim tesisleri,
+**4.27- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** PCR ve Real Time PCR mastermix kit üretim tesisleri,
 
-4.28- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Polietilen izolasyon malzemesi üretim tesisleri,
+**4.28- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Polietilen izolasyon malzemesi üretim tesisleri,
 
-4.29- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Polietilen izolasyon borusu üretim tesisleri,
+**4.29- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Polietilen izolasyon borusu üretim tesisleri,
 
-4.30- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Sulfonlama yapılan deterjan üretim ünitesi bulunan tekstil yardımcı maddeleri ve deterjan üretim tesisleri,
+**4.30- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Sulfonlama yapılan deterjan üretim ünitesi bulunan tekstil yardımcı maddeleri ve deterjan üretim tesisleri,
 
-4.31- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) 1 ton/gün ve üzeri kapasiteli ve/veya 100 HP ve üzeri motor gücü kapasitedeki tekstil yardımcı kimyasal madde ve deterjan üretim tesisleri,
+**4.31- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** 1 ton/gün ve üzeri kapasiteli ve/veya 100 HP ve üzeri motor gücü kapasitedeki tekstil yardımcı kimyasal madde ve deterjan üretim tesisleri,
 
-4.32- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Traktör, forklift ve iş makinesi koltukları, koltuk altlığı, koltuk sırtlığı, koltuk başlığı, kolçak, kolçak iç plastiği, koltuk kızağı, koltuk süspansiyon mekanizması ve muhtelif koltuk parçaları imalatı,
+**4.32- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Traktör, forklift ve iş makinesi koltukları, koltuk altlığı, koltuk sırtlığı, koltuk başlığı, kolçak, kolçak iç plastiği, koltuk kızağı, koltuk süspansiyon mekanizması ve muhtelif koltuk parçaları imalatı,
 
-4.33- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) 50 HP ve üzeri motor gücü kapasitedeki visco (hafızalı) sünger (yastık, yatak ve ortopedik ürünler ve benzeri.) imalatı,
+**4.33- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** 50 HP ve üzeri motor gücü kapasitedeki visco (hafızalı) sünger (yastık, yatak ve ortopedik ürünler ve benzeri.) imalatı,
 
-4.34- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Polimer esaslı beton katkı maddesi üretim tesisleri,
+**4.34- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Polimer esaslı beton katkı maddesi üretim tesisleri,
 
-4.35- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Karbondioksit gazı çıkarma tesisleri,
+**4.35- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Karbondioksit gazı çıkarma tesisleri,
 
-4.36- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) 100 HP ve üzeri motor gücü kullanan vulkanizasyon işlemi sonrasında pudrasız nitril eldiven üretim tesisleri,
+**4.36- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** 100 HP ve üzeri motor gücü kullanan vulkanizasyon işlemi sonrasında pudrasız nitril eldiven üretim tesisleri,
 
-4.37- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Organik ve organomineral sıvı gübre ile inorganik sıvı gübre üretim tesisleri,
+**4.37- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Organik ve organomineral sıvı gübre ile inorganik sıvı gübre üretim tesisleri,
 
-4.38- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Fosfatlı ve potasyumlu gübre üretim tesisleri,
+**4.38- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Fosfatlı ve potasyumlu gübre üretim tesisleri,
 
-4.39- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) İki veya üç besin maddesi içeren gübre üretim tesisleri,
+**4.39- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** İki veya üç besin maddesi içeren gübre üretim tesisleri,
 
-4.40- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Sodyum nitrat ile diğer kimyasal ve mineral gübre üretim tesisleri,
+**4.40- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Sodyum nitrat ile diğer kimyasal ve mineral gübre üretim tesisleri,
 
-4.41- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Zirai ilaç imalatı tesisleri,
+**4.41- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Zirai ilaç imalatı tesisleri,
 
-4.42- (Ek:RG-11/12/2025-33104-CK-10681/14 md.) Sıvı gübre, fosfatlı ve potasyumlu gübre, iki veya üç besin maddesi içeren gübre ve sodyum nitrat ile diğer kimyasal ve mineral gübre üretim tesisleri,
+**4.42- (Ek:RG-11/12/2025-33104-CK-10681/14 md.)** Sıvı gübre, fosfatlı ve potasyumlu gübre, iki veya üç besin maddesi içeren gübre ve sodyum nitrat ile diğer kimyasal ve mineral gübre üretim tesisleri,
 
 ### 5-PETROKİMYA SANAYİİ
 
-5.1 - ( Değişik: 19/3/2007-2007/11882 K.) Madeni yağ üretim tesisleri, petrol rafinerileri, petrokimya tesisleri, döküm çamuru ve madeni yağ konusunda faaliyet gösteren işletmeler,
+**5.1 - ( Değişik: 19/3/2007-2007/11882 K.)** Madeni yağ üretim tesisleri, petrol rafinerileri, petrokimya tesisleri, döküm çamuru ve madeni yağ konusunda faaliyet gösteren işletmeler,
 
 5.2 - Havagazı ve kok fabrikaları ile doğal gaz ve kömür gazlaştırma ve sıvılaştırma tesisleri,
 
@@ -2640,13 +2640,13 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 5.5 - Toplam depolama kapasitesi 500 m 3 ve üzeri olan doğalgaz, petrokimya ve kimyasal ürün depolama tesisleri,
 
-5.6- (Değişik: 29/6/2010 – 2010/671 K .) İçerisinde yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla kullanılan 150 m 3 ve üzeri depolama hacmine sahip depolama tesis ve düzenekleri,
+**5.6- (Değişik: 29/6/2010 – 2010/671 K** .) İçerisinde yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla kullanılan 150 m 3 ve üzeri depolama hacmine sahip depolama tesis ve düzenekleri,
 
-5.7- (Ek: 19/3/2007-2007/11882 K.) Biyodizel üretim yerleri.
+**5.7- (Ek: 19/3/2007-2007/11882 K.)** Biyodizel üretim yerleri.
 
-5.7.1- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Biyodizel depolama tesisleri,
+**5.7.1- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Biyodizel depolama tesisleri,
 
-5.7.2- (Ek:RG-11/12/2025-33104-CK-10681/15 md.) Pentan kullanılan jeotermal enerji tesisleri,
+**5.7.2- (Ek:RG-11/12/2025-33104-CK-10681/15 md.)** Pentan kullanılan jeotermal enerji tesisleri,
 
 ### 6-GIDA MADDELERİ, İÇKİLER, YEMLER VE TARIMSAL ÜRÜNLER SANAYİİ
 
@@ -2658,11 +2658,11 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 6.4 - Kırmızı et kombina ve 1 inci ve 2 nci sınıf mezbahalar ile kanatlı et kombina ve kesimhaneler,
 
-6.4.1- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 100 kesim ünitesi/gün ve üzeri büyükbaş ve küçükbaş kesim tesisleri (her bir kesim ünitesi eşdeğeri; 1 baş sığır, 2 baş devekuşu, 4 baş domuz, 8 baş koyun, 10 baş keçi, 130 baş tavşan),
+**6.4.1- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 100 kesim ünitesi/gün ve üzeri büyükbaş ve küçükbaş kesim tesisleri (her bir kesim ünitesi eşdeğeri; 1 baş sığır, 2 baş devekuşu, 4 baş domuz, 8 baş koyun, 10 baş keçi, 130 baş tavşan),
 
-6.4.2- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 50.000 adet/gün ve üzeri tavuk ve eşdeğeri diğer kanatlılar kesim tesisleri (her bir kesim ünitesi eşdeğeri; 1 adet hindi = 7 adet tavuk),
+**6.4.2- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 50.000 adet/gün ve üzeri tavuk ve eşdeğeri diğer kanatlılar kesim tesisleri (her bir kesim ünitesi eşdeğeri; 1 adet hindi = 7 adet tavuk),
 
-6.5 - (Değişik: 29/6/2010 – 2010/671 K .) Su ürünleri, salyangoz, kurbağa ve benzeri ürün işleme yerleri ile gemileri,
+**6.5 - (Değişik: 29/6/2010 – 2010/671 K** .) Su ürünleri, salyangoz, kurbağa ve benzeri ürün işleme yerleri ile gemileri,
 
 6.6 - 500 ton/gün ve üzeri yem ve un fabrikaları,
 
@@ -2672,35 +2672,35 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 6.9 - Kökeni hayvansal olan maddelerden balık unu, balık yağı, yem, yemlik, preparat vb. üretim tesisleri,
 
-6.10 - Endüstriyel nişasta üretim tesisleri,
+**6.10** - Endüstriyel nişasta üretim tesisleri,
 
-6.11 - Genetik olarak modifiye edilmiş organizmalar ile işlem yapılan yerler.
+**6.11** - Genetik olarak modifiye edilmiş organizmalar ile işlem yapılan yerler.
 
-6.12 - ( Ek: 19/3/2007-2007/11882 K.) Üzüm çekirdeği, keten tohumu işleme ve paketleme tesisi.
+**6.12 - ( Ek: 19/3/2007-2007/11882 K.)** Üzüm çekirdeği, keten tohumu işleme ve paketleme tesisi.
 
-6.13- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) (Değişik:RG-11/12/2025-33104-CK-10681/16 md.) Kontinü sistem zeytinyağı üretim ve zeytin işleme tesislerinden;
+**6.13- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) (Değişik:RG-11/12/2025-33104-CK-10681/16 md.)** Kontinü sistem zeytinyağı üretim ve zeytin işleme tesislerinden;
 
-6.13.1- (Ek:RG-11/12/2025-33104-CK-10681/16 md.) 30 ton/gün ve üzeri kontinü sistem zeytinyağı üretim tesisleri,
+**6.13.1- (Ek:RG-11/12/2025-33104-CK-10681/16 md.)** 30 ton/gün ve üzeri kontinü sistem zeytinyağı üretim tesisleri,
 
-6.13.2- (Ek:RG-11/12/2025-33104-CK-10681/16 md.) 150 ton/gün ve üzeri zeytin işleme tesisleri,
+**6.13.2- (Ek:RG-11/12/2025-33104-CK-10681/16 md.)** 150 ton/gün ve üzeri zeytin işleme tesisleri,
 
-6.13.3- (Ek:RG-11/12/2025-33104-CK-10681/16 md.) 30 ton/gün altı kontinü sistem zeytinyağı üretimi ve 100 ton/gün ve üzeri zeytin işlemesi yapılan tesisler,
+**6.13.3- (Ek:RG-11/12/2025-33104-CK-10681/16 md.)** 30 ton/gün altı kontinü sistem zeytinyağı üretimi ve 100 ton/gün ve üzeri zeytin işlemesi yapılan tesisler,
 
-6.14- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Protein çözeltisi ve tozu üretim tesisleri,
+**6.14- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Protein çözeltisi ve tozu üretim tesisleri,
 
-6.15- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Evcil hayvanlar için hazır gıda imalatı,
+**6.15- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Evcil hayvanlar için hazır gıda imalatı,
 
-6.16- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 500 kg/gün ve üzeri kapasiteli kemik suyu ve tavuk suyu üretim tesisleri,
+**6.16- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 500 kg/gün ve üzeri kapasiteli kemik suyu ve tavuk suyu üretim tesisleri,
 
-6.17- (Ek:RG-11/12/2025-33104-CK-10681/16 md.) Piliç ve balık iç organlarından protein çözeltisi ve tozu üretim tesisleri,
+**6.17- (Ek:RG-11/12/2025-33104-CK-10681/16 md.)** Piliç ve balık iç organlarından protein çözeltisi ve tozu üretim tesisleri,
 
-7-ATIK İŞLEME SANAYİ (Değişik başlık: RG-25/8/2022-31934-C.K-5987/12 md.)
+**7-ATIK İŞLEME SANAYİ (Değişik başlık: RG-25/8/2022-31934-C.K-5987/12 md.)**
 
 7.1 - Atık yağ ve benzeri geri kazanım tesisleri,
 
 7.2 - Rendering tesisleri,
 
-7.3 - (Değişik: 29/6/2010 – 2010/671 K .) Tehlikeli ve tıbbi atık yakma tesisleri ve tıbbi atık sterilizasyon tesisleri,
+**7.3 - (Değişik: 29/6/2010 – 2010/671 K** .) Tehlikeli ve tıbbi atık yakma tesisleri ve tıbbi atık sterilizasyon tesisleri,
 
 7.4 - Katı atık depolama tesisleri,
 
@@ -2708,23 +2708,23 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 7.6 - Nükleer yakıtların yeniden işlenmesi veya çeşitli metotlarla bertaraf edilmesi ile ilgili tesisler.
 
-7.7- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 100 ton ve üzeri kapasiteli deniz araçlarından kaynaklanan atıkların toplanması tesisleri,
+**7.7- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 100 ton ve üzeri kapasiteli deniz araçlarından kaynaklanan atıkların toplanması tesisleri,
 
-7.8- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Tehlikeli atık ara depolama ve atıktan üretilmiş yakıt üretim tesisleri,
+**7.8- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Tehlikeli atık ara depolama ve atıktan üretilmiş yakıt üretim tesisleri,
 
-7.9- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Arıtma çamurları bertaraf ve değerlendirme tesisleri,
+**7.9- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Arıtma çamurları bertaraf ve değerlendirme tesisleri,
 
-7.10- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Atık barajı tesisleri,
+**7.10- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Atık barajı tesisleri,
 
-7.11- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Atıkların işlenerek biyogaz elde edildiği ve toplam biyogaz depolama kapasitesi 500 m3 ve üzeri olan biyometanizasyon tesisleri,
+**7.11- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Atıkların işlenerek biyogaz elde edildiği ve toplam biyogaz depolama kapasitesi 500 m3 ve üzeri olan biyometanizasyon tesisleri,
 
-7.12- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Toplam ısıl gücü 20 megavat (MW) ve üzeri kapasiteli atık yakma tesisleri,
+**7.12- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Toplam ısıl gücü 20 megavat (MW) ve üzeri kapasiteli atık yakma tesisleri,
 
-7.13- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Atık işleme entegre tesisleri,
+**7.13- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Atık işleme entegre tesisleri,
 
-7.14- (Ek:RG-11/12/2025-33104-CK-10681/17 md.) Tehlikesiz cüruftan demir, bakır granül, atık/hurda kablodan bakır ve plastik üretim tesisleri (üretim kapasitesi 2.000 (ikibin) ton/gün ve daha fazla olan metal tehlikesiz atıkların ve/veya cüruf, tufal ve benzeri atıklardan metallerin ergitildiği geri kazanım tesisleri),
+**7.14- (Ek:RG-11/12/2025-33104-CK-10681/17 md.)** Tehlikesiz cüruftan demir, bakır granül, atık/hurda kablodan bakır ve plastik üretim tesisleri (üretim kapasitesi 2.000 (ikibin) ton/gün ve daha fazla olan metal tehlikesiz atıkların ve/veya cüruf, tufal ve benzeri atıklardan metallerin ergitildiği geri kazanım tesisleri),
 
-7.15- (Ek:RG-11/12/2025-33104-CK-10681/17 md.) Geri dönüşüm ürünü plastik granül üretim tesisleri,
+**7.15- (Ek:RG-11/12/2025-33104-CK-10681/17 md.)** Geri dönüşüm ürünü plastik granül üretim tesisleri,
 
 ### 8-TEKSTİL SANAYİİ
 
@@ -2736,7 +2736,7 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 8.4 - 500 HP üzeri motor gücü kullanan işlenmiş deriden eşya imal yerleri.
 
-8.5- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Blok ve levha sünger üretim tesisleri,
+**8.5- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Blok ve levha sünger üretim tesisleri,
 
 ### 9-DİĞERLERİ
 
@@ -2744,41 +2744,41 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 9.2- Ağacın kimyasal prosese tabi tutulduğu (kontrplak, ağaç kaplama vb) ve suni tahta üretim tesisleri,
 
-9.3 - (Değişik: 29/6/2010 – 2010/671 K .) Her çeşit karton, mukavva ve mukavva entegre üretim fabrikaları, selülozik yumurta ve meyve viyolleri üretim tesisleri,
+**9.3 - (Değişik: 29/6/2010 – 2010/671 K .)** Her çeşit karton, mukavva ve mukavva entegre üretim fabrikaları, selülozik yumurta ve meyve viyolleri üretim tesisleri,
 
 9.4 - Bir üretim periyodunda 60.000 adet ve üzeri tavuk, 85.000 adet ve üzeri piliç veya eş değeri diğer kanatlılar, 30 kg ve üzeri 3.000 baş ve üzeri domuz besi çiftlikleri ve 900 baş ve üzeri dişi domuz üretim çiftlikleri,
 
-9.5- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 500 HP ve üzeri motor gücü kullanan römork çelik konstrüksiyon imalat tesisleri,
+**9.5- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 500 HP ve üzeri motor gücü kullanan römork çelik konstrüksiyon imalat tesisleri,
 
-9.6- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 50 ton/yıl üzeri kapasiteli cıvata saplama, sıcak dövme tesisleri,
+**9.6- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 50 ton/yıl üzeri kapasiteli cıvata saplama, sıcak dövme tesisleri,
 
-9.7- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Özel amaçlı motorlu kara taşıtları imalat tesisleri,
+**9.7- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Özel amaçlı motorlu kara taşıtları imalat tesisleri,
 
-9.8- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 500 HP ve üzeri motor gücü kullanan rulo sac açma, doğrultma, boy kesme işlemi ve çelik konstrüksiyon üretim tesisleri,
+**9.8- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 500 HP ve üzeri motor gücü kullanan rulo sac açma, doğrultma, boy kesme işlemi ve çelik konstrüksiyon üretim tesisleri,
 
-9.9- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) 100 HP üzeri motor gücü kullanan su işletmeleri,
+**9.9- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** 100 HP üzeri motor gücü kullanan su işletmeleri,
 
-9.10- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Kâğıt üretimi tesisleri,
+**9.10- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Kâğıt üretimi tesisleri,
 
-9.11- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Liman tesisleri,
+**9.11- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Liman tesisleri,
 
-9.12- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.) Kağıt toplama, ayırma ve geri dönüşüm işlemi sonrası gri karton üretim tesisleri,
+**9.12- (Ek: RG-25/8/2022-31934-C.K-5987/12 md.)** Kağıt toplama, ayırma ve geri dönüşüm işlemi sonrası gri karton üretim tesisleri,
 
-9.13- (Ek:RG-11/12/2025-33104-CK-10681/18 md.) Kontrol ve kumanda binası yüksek gerilim indirici şalt merkezi,
+**9.13- (Ek:RG-11/12/2025-33104-CK-10681/18 md.)** Kontrol ve kumanda binası yüksek gerilim indirici şalt merkezi,
 
-9.14- (Ek:RG-11/12/2025-33104-CK-10681/18 md.) Mikro uydu motor üretimi, montaj, test ve sistem entegrasyonu ile 100 ton kapasiteli enerjik (parlayıcı ve patlayıcı) madde depolama tesisleri,
+**9.14- (Ek:RG-11/12/2025-33104-CK-10681/18 md.)** Mikro uydu motor üretimi, montaj, test ve sistem entegrasyonu ile 100 ton kapasiteli enerjik (parlayıcı ve patlayıcı) madde depolama tesisleri,
 
-9.15- (Ek:RG-11/12/2025-33104-CK-10681/18 md.) Toplam motor gücü 500 HP ve üzeri ve/veya 60.000 ton/yıl üzeri kapasiteli selülozdan sigara kâğıdı üretimi yapan tesisler,
+**9.15- (Ek:RG-11/12/2025-33104-CK-10681/18 md.)** Toplam motor gücü 500 HP ve üzeri ve/veya 60.000 ton/yıl üzeri kapasiteli selülozdan sigara kâğıdı üretimi yapan tesisler,
 
-9.16- (Ek:RG-11/12/2025-33104-CK-10681/18 md.) Kompozit aksiyal fan kanadı imalatı,
+**9.16- (Ek:RG-11/12/2025-33104-CK-10681/18 md.)** Kompozit aksiyal fan kanadı imalatı,
 
-9.17- (Ek:RG-11/12/2025-33104-CK-10681/18 md.) Kompozit rüzgâr türbin kanadı imalatı,
+**9.17- (Ek:RG-11/12/2025-33104-CK-10681/18 md.)** Kompozit rüzgâr türbin kanadı imalatı,
 
-9.18- (Ek:RG-11/12/2025-33104-CK-10681/18 md.) Organik maddelerle yüzey muamelesi yapan tesisler;
+**9.18- (Ek:RG-11/12/2025-33104-CK-10681/18 md.)** Organik maddelerle yüzey muamelesi yapan tesisler;
 
-9.18.1- (Ek:RG-11/12/2025-33104-CK-10681/18 md.) Toplam organik çözücü içeriği 250 kg/saat ve üzeri boya, cila ve benzeri maddelerle malzemelerin boyandığı, cilalandığı ve/veya kurutulduğu tesisler,
+**9.18.1- (Ek:RG-11/12/2025-33104-CK-10681/18 md.)** Toplam organik çözücü içeriği 250 kg/saat ve üzeri boya, cila ve benzeri maddelerle malzemelerin boyandığı, cilalandığı ve/veya kurutulduğu tesisler,
 
-9.18.2- (Ek:RG-11/12/2025-33104-CK-10681/18 md.) Toplam organik çözücü içeriği 250 kg/saat ve üzeri boya ve benzeri maddeler kullanarak malzemelerin döner baskı makineleri ile basıldığı ve/veya kurutulduğu tesisler,
+**9.18.2- (Ek:RG-11/12/2025-33104-CK-10681/18 md.)** Toplam organik çözücü içeriği 250 kg/saat ve üzeri boya ve benzeri maddeler kullanarak malzemelerin döner baskı makineleri ile basıldığı ve/veya kurutulduğu tesisler,
 
 ### B) İKİNCİ SINIF GAYRİSIHHÎ MÜESSESELER
 
@@ -2794,33 +2794,33 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 1.5 - Jeotermal enerji santralleri ile bu enerjiden 5 MW ve üzerinde kullanan tesisler.
 
-1.6 - (Ek: 29/6/2010 – 2010/671 K .)Hidroelektrik santralleri (HES).
+**1.6 - (Ek: 29/6/2010 – 2010/671 K** .)Hidroelektrik santralleri (HES).
 
 4762-1
 
-1.7- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) (Mülga:RG-11/12/2025-33104-CK-10681/19 md.)
+**1.7- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) (Mülga:RG-11/12/2025-33104-CK-10681/19 md.)**
 
-1.8- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Biyokütlelerin gazlaştırılması ve yenilenebilir temiz enerji üretim tesisleri,
+**1.8- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Biyokütlelerin gazlaştırılması ve yenilenebilir temiz enerji üretim tesisleri,
 
-1.9- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Briket kömür imalat tesisleri,
+**1.9- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Briket kömür imalat tesisleri,
 
-1.10- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Ormansal ve tarımsal biyokütle pelet üretim tesisleri,
+**1.10- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Ormansal ve tarımsal biyokütle pelet üretim tesisleri,
 
-1.11- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Toplam biyogaz depolama kapasitesi 500 m3’ten az olan atıklardan enerji ve gübre üretim tesisleri,
+**1.11- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Toplam biyogaz depolama kapasitesi 500 m3’ten az olan atıklardan enerji ve gübre üretim tesisleri,
 
-1.12- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Toplam ısıl gücü 20 megavat (MW) altında kapasitede olan tavuk veya büyükbaş hayvan dışkısından elektrik üretim tesisleri,
+**1.12- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Toplam ısıl gücü 20 megavat (MW) altında kapasitede olan tavuk veya büyükbaş hayvan dışkısından elektrik üretim tesisleri,
 
-1.13- (Ek:RG-11/12/2025-33104-CK-10681/19 md.) Hayvansal atıklardan enerji ve gübre üretim tesisleri (metan gazı deposuz),
+**1.13- (Ek:RG-11/12/2025-33104-CK-10681/19 md.)** Hayvansal atıklardan enerji ve gübre üretim tesisleri (metan gazı deposuz),
 
 ### 2- METALURJİ VE MAKİNE SANAYİİ
 
 2.1 - Kurşun kalay ve benzeri maddelerden tüp, klişe ve harf gibi malzemelerin imal edildiği tesisler,
 
-2.1.1- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Rafine kurşun üretim tesisi,
+**2.1.1- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Rafine kurşun üretim tesisi,
 
 2.2 - 50 Ton/yıl dan düşük kapasiteye sahip her türlü demir ve demir dışı dökümhaneler ile soğuk haddeleme tesisleri,
 
-2.3 - (Değişik: 19/3/2007-2007/11882 K.) 50-500 HP arası motor gücü kullanan her nevi elektro mekanik, elektromanyetik madeni eşya imal, işleme, montaj, tamir, emayeleme, plastik ve diğer maddelerle çeşitli metotlarla kaplama yerleri, tarım ilaçlama makine imalatı yapan işyerleri,
+**2.3 - (Değişik: 19/3/2007-2007/11882 K.)** 50-500 HP arası motor gücü kullanan her nevi elektro mekanik, elektromanyetik madeni eşya imal, işleme, montaj, tamir, emayeleme, plastik ve diğer maddelerle çeşitli metotlarla kaplama yerleri, tarım ilaçlama makine imalatı yapan işyerleri,
 
 2.4 - 20 HP den fazla motor gücü kullanan matbaalar ile baskı tesisleri,
 
@@ -2830,31 +2830,31 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 2.7 - Zımpara fabrikaları,
 
-2.8 - (Değişik:RG-11/12/2025-33104-CK-10681/20 md.) Tekne imal yerleri ve çekek yerleri,
+**2.8 - (Değişik:RG-11/12/2025-33104-CK-10681/20 md.)** Tekne imal yerleri ve çekek yerleri,
 
-2.9 - (Ek: 29/6/2010 – 2010/671 K.) LPG oto dönüşüm tesisleri.
+**2.9 - (Ek: 29/6/2010 – 2010/671 K.)** LPG oto dönüşüm tesisleri.
 
-2.10- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Termal sprey yöntemiyle metal kaplama tesisleri,
+**2.10- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Termal sprey yöntemiyle metal kaplama tesisleri,
 
-2.11- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Elektroliz metal kaplama tesisleri,
+**2.11- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Elektroliz metal kaplama tesisleri,
 
-2.12- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Konveyörlerden gemilere yükleme tesisleri,
+**2.12- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Konveyörlerden gemilere yükleme tesisleri,
 
-2.13- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 50-500 HP arasında motor gücü kullanan rulo sac açma, doğrultma, boy kesme işlemi ve çelik konstrüksiyon üretim tesisleri,
+**2.13- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 50-500 HP arasında motor gücü kullanan rulo sac açma, doğrultma, boy kesme işlemi ve çelik konstrüksiyon üretim tesisleri,
 
-2.14- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Elektroliz yöntemiyle çinko kaplama tesisleri,
+**2.14- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Elektroliz yöntemiyle çinko kaplama tesisleri,
 
-2.15 - (Ek:RG-11/12/2025-33104-CK-10681/20 md.) Metallerin makinede işlenmesi (torna tesviye işleri, metal parçaları delme, tornalama, frezeleme, parlatma, oluk açma, perdahlama, birleştirme, kaynak yapma ve benzeri faaliyetler) (metallerin lazerle kesilmesi hariç),
+**2.15 - (Ek:RG-11/12/2025-33104-CK-10681/20 md.)** Metallerin makinede işlenmesi (torna tesviye işleri, metal parçaları delme, tornalama, frezeleme, parlatma, oluk açma, perdahlama, birleştirme, kaynak yapma ve benzeri faaliyetler) (metallerin lazerle kesilmesi hariç),
 
-2.16- (Ek:RG-11/12/2025-33104-CK-10681/20 md.) Toplam motor gücü 500 HP’den düşük ve/veya bille ısıtılma kapasitesi 5 ton/günden düşük olan ekstrüzyon metodu ile alüminyum profil üretimi,
+**2.16- (Ek:RG-11/12/2025-33104-CK-10681/20 md.)** Toplam motor gücü 500 HP’den düşük ve/veya bille ısıtılma kapasitesi 5 ton/günden düşük olan ekstrüzyon metodu ile alüminyum profil üretimi,
 
-2.17 - (Ek:RG-11/12/2025-33104-CK-10681/20 md.) Akışkan gücü ile çalışan ekipmanlar ve talaşlı imalat,
+**2.17 - (Ek:RG-11/12/2025-33104-CK-10681/20 md.)** Akışkan gücü ile çalışan ekipmanlar ve talaşlı imalat,
 
-2.18 - (Ek:RG-11/12/2025-33104-CK-10681/20 md.) Akışkan gücü ile çalışan ekipmanların ve bunların parçalarının imalatı (hidrolik ve pnömatik motorlar, hidrolik pompalar, hidrolik ve pnömatik valfler, hidrolik sistemler ve bunların parçaları),
+**2.18 - (Ek:RG-11/12/2025-33104-CK-10681/20 md.)** Akışkan gücü ile çalışan ekipmanların ve bunların parçalarının imalatı (hidrolik ve pnömatik motorlar, hidrolik pompalar, hidrolik ve pnömatik valfler, hidrolik sistemler ve bunların parçaları),
 
-2.19- (Ek:RG-11/12/2025-33104-CK-10681/20 md.) 500 HP’den az motor gücü kullanan rulman, bilezik ve makara imal tesisleri,
+**2.19- (Ek:RG-11/12/2025-33104-CK-10681/20 md.)** 500 HP’den az motor gücü kullanan rulman, bilezik ve makara imal tesisleri,
 
-3- MADEN SANAYİİ (Değişik: 23/5/2011-2011/1900 K.)
+**3- MADEN SANAYİİ (Değişik: 23/5/2011-2011/1900 K.)**
 
 3.1- Her türlü tuz fabrikaları,
 
@@ -2868,7 +2868,7 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 3.6- Çimento, çakıl kum, cüruf ve benzeri maddelerden motor gücü kullanarak yapı yalıtım döşeme ve sair malzemeleri imal tesisleri,
 
-3.6.1- (Ek:RG-11/12/2025-33104-CK-10681/21 md.) 15 ton/saat altı kapasiteli taş parke ve karo üretim tesisleri,
+**3.6.1- (Ek:RG-11/12/2025-33104-CK-10681/21 md.)** 15 ton/saat altı kapasiteli taş parke ve karo üretim tesisleri,
 
 3.7- Mozaik imal yerleri,
 
@@ -2876,55 +2876,55 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 3.9- Kum ocakları, kum yıkama ve eleme tesisleri,
 
-3.10- Hazır beton tesisleri,
+**3.10-** Hazır beton tesisleri,
 
-3.11- 5 ton/saatten düşük kapasitedeki çimento öğütme ve paketleme tesisleri,
+**3.11-** 5 ton/saatten düşük kapasitedeki çimento öğütme ve paketleme tesisleri,
 
-3.12- Kükürt eleme, öğütme ve paketleme tesisleri,
+**3.12-** Kükürt eleme, öğütme ve paketleme tesisleri,
 
-3.13- Her türlü madenin çıkarılması (birinci ve üçüncü sınıf gayrisıhhî müesseseler kapsamında yer almayanlar)
+**3.13-** Her türlü madenin çıkarılması (birinci ve üçüncü sınıf gayrisıhhî müesseseler kapsamında yer almayanlar)
 
-3.14- 5.000 m 3 /yıl ve üzeri kapasiteli blok ve parça mermer, dekoratif amaçlı taşların çıkartılması, işlenmesi ve yıllık 250.000m 2 ve üzeri kapasiteli mermer kesme, işleme ve sayalama tesisleri,
+**3.14-** 5.000 m 3 /yıl ve üzeri kapasiteli blok ve parça mermer, dekoratif amaçlı taşların çıkartılması, işlenmesi ve yıllık 250.000m 2 ve üzeri kapasiteli mermer kesme, işleme ve sayalama tesisleri,
 
-3.15- Karbondioksit ve diğer gazların çıkartıldığı, depolandığı veya işlendiği 10.000 ton/yıl ve üzeri kapasiteli tesisler,
+**3.15-** Karbondioksit ve diğer gazların çıkartıldığı, depolandığı veya işlendiği 10.000 ton/yıl ve üzeri kapasiteli tesisler,
 
-3.16- 1.000.000 m 3 /yıl ve üzerinde metan gazının çıkarılması ve depolanması,
+**3.16-** 1.000.000 m 3 /yıl ve üzerinde metan gazının çıkarılması ve depolanması,
 
-3.17 -Maden Kanununun 2 nci maddesinde yer alan ve birinci sınıf gayrisıhhî müesseseler kapsamında olmayan I. Ve II. Grup madenlerin her türlü işleme sokulması (kırma, eleme, öğütme, yıkama ve benzeri),
+**3.17** -Maden Kanununun 2 nci maddesinde yer alan ve birinci sınıf gayrisıhhî müesseseler kapsamında olmayan I. Ve II. Grup madenlerin her türlü işleme sokulması (kırma, eleme, öğütme, yıkama ve benzeri),
 
-3.18 -50.000 ton/yıl ve üzeri tuzun çıkarılması ile bu madenlerin her türlü işleme tesisleri,
+**3.18** -50.000 ton/yıl ve üzeri tuzun çıkarılması ile bu madenlerin her türlü işleme tesisleri,
 
-3.19 -Birinci sınıf gayrisıhhî müesseseler kapsamında yer almayan cevher hazırlama veya zenginleştirme tesisleri,
+**3.19** -Birinci sınıf gayrisıhhî müesseseler kapsamında yer almayan cevher hazırlama veya zenginleştirme tesisleri,
 
-3.20 - Yeraltı maden ocakları.
+**3.20** - Yeraltı maden ocakları.
 
-3.20.1- (Değişik:RG-11/12/2025-33104-CK-10681/21 md.) Krom ve manyezit ocağı,
+**3.20.1- (Değişik:RG-11/12/2025-33104-CK-10681/21 md.)** Krom ve manyezit ocağı,
 
-3.21- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Barit kırma ve öğütme tesisleri,
+**3.21- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Barit kırma ve öğütme tesisleri,
 
-3.22- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Hafriyat kaynaklı toprak eleme, bahçe toprağı ve toprağı zenginleştiren elementler (torf, gübre, kil, taş) karıştırma, kırma, depolama ve satış yerleri,
+**3.22- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Hafriyat kaynaklı toprak eleme, bahçe toprağı ve toprağı zenginleştiren elementler (torf, gübre, kil, taş) karıştırma, kırma, depolama ve satış yerleri,
 
-3.23- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Seramik ve bakalit taşları üretim tesisleri,
+**3.23- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Seramik ve bakalit taşları üretim tesisleri,
 
-3.24- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Toz kömür imal ve kömür eleme ve paketleme tesisleri,
+**3.24- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Toz kömür imal ve kömür eleme ve paketleme tesisleri,
 
-3.25- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Kömür kurutma, boyutlandırma ve paketleme tesisleri,
+**3.25- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Kömür kurutma, boyutlandırma ve paketleme tesisleri,
 
-3.26- (Ek:RG-11/12/2025-33104-CK-10681/21 md.) Şaftlı ve/veya döner fırınlı olmayan kapasitesi 75 ton/günün altında olan kireç taşından sönmemiş kireç imalatı,
+**3.26- (Ek:RG-11/12/2025-33104-CK-10681/21 md.)** Şaftlı ve/veya döner fırınlı olmayan kapasitesi 75 ton/günün altında olan kireç taşından sönmemiş kireç imalatı,
 
-3.27- (Ek:RG-11/12/2025-33104-CK-10681/21 md.) Pomza ve perlit kırma, eleme ve öğütme tesisleri,
+**3.27- (Ek:RG-11/12/2025-33104-CK-10681/21 md.)** Pomza ve perlit kırma, eleme ve öğütme tesisleri,
 
-3.28- (Ek:RG-11/12/2025-33104-CK-10681/21 md.) Hammadde kapasitesi 10 ton/gün ve daha fazla ve 500 ton/günden az olan taşkömürü ve/veya bitümlü maddeleri gazlaştırma ve/veya sıvılaştırma tesisleri,
+**3.28- (Ek:RG-11/12/2025-33104-CK-10681/21 md.)** Hammadde kapasitesi 10 ton/gün ve daha fazla ve 500 ton/günden az olan taşkömürü ve/veya bitümlü maddeleri gazlaştırma ve/veya sıvılaştırma tesisleri,
 
 4762-2
 
 ### 4- KİMYA SANAYİİ
 
-4.1 - ( Değişik: 19/3/2007-2007/11882 K.) Tutkal, zamk ve yapıştırıcı madde üretim tesisleri, sanayi tipi yapıştırıcı imal eden tesisler,
+**4.1 - ( Değişik: 19/3/2007-2007/11882 K.)** Tutkal, zamk ve yapıştırıcı madde üretim tesisleri, sanayi tipi yapıştırıcı imal eden tesisler,
 
 4.2 - Her çeşit kozmetik ürünleri üretim tesisleri,
 
-4.2.1- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Gülyağı, gülsuyu ve gül konkret üretim tesisleri,
+**4.2.1- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Gülyağı, gülsuyu ve gül konkret üretim tesisleri,
 
 4.3 - Mürekkep üretme tesisleri,
 
@@ -2940,69 +2940,69 @@ Yüksek nitelikli konutlar hariç olmak üzere 25/10/2023 tarihli ve 7464 sayıl
 
 4.9 - 50 HP’den az motor gücü bulunan lastik kaplama ve lastik eşya üretim tesisleri, kablo fabrikaları,
 
-4.10 - Amonyum hidroksit, potasyum hidroksit, sodyum hidroksit gibi bazik madde depolama tesisleri,
+**4.10** - Amonyum hidroksit, potasyum hidroksit, sodyum hidroksit gibi bazik madde depolama tesisleri,
 
-4.10.1- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Üre, potasyum nitrat, amonyum sülfat, çinko sülfat, boraks, molibdat gibi ürünlerin karıştırılarak paketlenmesi tesisleri,
+**4.10.1- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Üre, potasyum nitrat, amonyum sülfat, çinko sülfat, boraks, molibdat gibi ürünlerin karıştırılarak paketlenmesi tesisleri,
 
-4.11 - Madeni ve nebati boya, cila, vernik atölyeleri ile dolum ve paketleme yerleri,
+**4.11** - Madeni ve nebati boya, cila, vernik atölyeleri ile dolum ve paketleme yerleri,
 
-4.12- ( Değişik: 19/3/2007-2007/11882 K.) Zirai mücadele ve halk sağlığı mücadele ilaçları depoları ile paketleme ve toptan satış yerleri, haşerelere karşı insektisit, rodentisit ve mollusisit kullanarak mücadele yapmak isteyen işyeri (Özel ambalajlı ilaç miktarı 100 kg veya litre üzeri ise)
+**4.12- ( Değişik: 19/3/2007-2007/11882 K.)** Zirai mücadele ve halk sağlığı mücadele ilaçları depoları ile paketleme ve toptan satış yerleri, haşerelere karşı insektisit, rodentisit ve mollusisit kullanarak mücadele yapmak isteyen işyeri (Özel ambalajlı ilaç miktarı 100 kg veya litre üzeri ise)
 
-4.13 - Sulfonlama yapılmayan deterjan fabrikaları ile 1 ton/günden düşük kapasiteli sabun üretim tesisleri,
+**4.13** - Sulfonlama yapılmayan deterjan fabrikaları ile 1 ton/günden düşük kapasiteli sabun üretim tesisleri,
 
-4.14- Farmasotik teknolojilerin gerektirdiği fiziksel yöntemlerle mamul ilaç üreten tıbbi müstahzarat laboratuarları,
+**4.14-** Farmasotik teknolojilerin gerektirdiği fiziksel yöntemlerle mamul ilaç üreten tıbbi müstahzarat laboratuarları,
 
-4.15 - 50 HP’den düşük motor gücü bulunan kauçuk ve lastik üretim tesisleri, lastik imalat ve kaplama tesisleri ile kablo fabrikaları,
+**4.15** - 50 HP’den düşük motor gücü bulunan kauçuk ve lastik üretim tesisleri, lastik imalat ve kaplama tesisleri ile kablo fabrikaları,
 
-4.16 - (Ek: 29/6/2010 – 2010/671 K.) Zirkon silikat, seramik sır ve seramik boyası üretim tesisleri,
+**4.16 - (Ek: 29/6/2010 – 2010/671 K.)** Zirkon silikat, seramik sır ve seramik boyası üretim tesisleri,
 
-4.17 - (Ek: 29/6/2010 – 2010/671 K.) Varil ve IBC depo yıkama, boyama geri dönüşüm tesisleri,
+**4.17 - (Ek: 29/6/2010 – 2010/671 K.)** Varil ve IBC depo yıkama, boyama geri dönüşüm tesisleri,
 
-4.17.1- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Tanker yıkama ve IBC tank temizleme tesisleri,
+**4.17.1- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Tanker yıkama ve IBC tank temizleme tesisleri,
 
-4.18 - (Ek: 29/6/2010 – 2010/671 K.) Havuzsuyu kimyasalları, yüzey dezenfektanları ve içme suyu dezenfektanları üretim tesisleri,
+**4.18 - (Ek: 29/6/2010 – 2010/671 K.)** Havuzsuyu kimyasalları, yüzey dezenfektanları ve içme suyu dezenfektanları üretim tesisleri,
 
-4.19 - (Ek: 29/6/2010 – 2010/671 K.) 75 ton/gün altında hazır sıva ve ıslak sıva üretim tesisleri,
+**4.19 - (Ek: 29/6/2010 – 2010/671 K.)** 75 ton/gün altında hazır sıva ve ıslak sıva üretim tesisleri,
 
-4.20 - (Ek: 29/6/2010 – 2010/671 K.) Zehirsiz fare yapıştırıcısı dolum tesisleri.
+**4.20 - (Ek: 29/6/2010 – 2010/671 K.)** Zehirsiz fare yapıştırıcısı dolum tesisleri.
 
-4.21- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Kimyasal gübre depolama ve satış yerleri,
+**4.21- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Kimyasal gübre depolama ve satış yerleri,
 
-4.22- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Atık kâğıdın temizliğinde kullanılan yardımcı kimyasal madde üretim tesisleri,
+**4.22- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Atık kâğıdın temizliğinde kullanılan yardımcı kimyasal madde üretim tesisleri,
 
-4.23- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Asfalt plenti tesisleri,
+**4.23- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Asfalt plenti tesisleri,
 
-4.24- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Deri sanayi yardımcı kimyasal maddeleri üretim tesisleri,
+**4.24- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Deri sanayi yardımcı kimyasal maddeleri üretim tesisleri,
 
-4.25- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) AUS azot düşürücü üretim tesisleri,
+**4.25- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** AUS azot düşürücü üretim tesisleri,
 
-4.26- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Dağıtım ve toplam depolama kapasitesi 500 m³’ün altı medikal gaz satış yerleri,
+**4.26- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Dağıtım ve toplam depolama kapasitesi 500 m³’ün altı medikal gaz satış yerleri,
 
-4.27- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Karbon ve grafit üretim tesisleri,
+**4.27- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Karbon ve grafit üretim tesisleri,
 
-4.28- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Kimyasal madde depolama, laboratuvar cam ve sarf malzemeleri tesisleri,
+**4.28- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Kimyasal madde depolama, laboratuvar cam ve sarf malzemeleri tesisleri,
 
-4.29- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 50 HP’den düşük motor gücü kullanan metalin kauçuk ile kaplama tesisleri,
+**4.29- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 50 HP’den düşük motor gücü kullanan metalin kauçuk ile kaplama tesisleri,
 
-4.30- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 50-500 HP arası motor gücü kullanan metalin fosfalt ile kaplama tesisleri,
+**4.30- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 50-500 HP arası motor gücü kullanan metalin fosfalt ile kaplama tesisleri,
 
-4.31- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Asfalt plenti, büz boru ve baca tesisleri,
+**4.31- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Asfalt plenti, büz boru ve baca tesisleri,
 
-4.32- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 50-500 HP arası motor gücü kullanan boru pazarlama, showroom ve pazarlama amaçlı üretim gösterisi,
+**4.32- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 50-500 HP arası motor gücü kullanan boru pazarlama, showroom ve pazarlama amaçlı üretim gösterisi,
 
-4.33- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Asfalt üretim tesisleri,
+**4.33- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Asfalt üretim tesisleri,
 
-4.34- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Hazır gelen camların kesilerek elektrik enerjisi kullanılan fırınlarda temperleme prosesine sahip ancak izabe (eritme) teknolojisine sahip olmayan temperli cam imalat tesisleri,
+**4.34- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Hazır gelen camların kesilerek elektrik enerjisi kullanılan fırınlarda temperleme prosesine sahip ancak izabe (eritme) teknolojisine sahip olmayan temperli cam imalat tesisleri,
 
-4.35- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Lastik üretim tesisi kaynaklı pişmemiş hamur hâlde telli kauçuk malzemenin tel çekme makinesinden geçirilmek suretiyle tel ile kauçuğun ayrılma tesisleri,
+**4.35- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Lastik üretim tesisi kaynaklı pişmemiş hamur hâlde telli kauçuk malzemenin tel çekme makinesinden geçirilmek suretiyle tel ile kauçuğun ayrılma tesisleri,
 
-4.36- (Ek:RG-11/12/2025-33104-CK-10681/22 md.) Sulfonlama yapılan deterjan üretim ünitesi olmaması koşuluyla 1 ton/gün altı kapasiteli ve/veya 100 HP’den düşük motor gücü kapasitedeki tekstil yardımcı kimyasal madde ve deterjan üretim tesisleri,
+**4.36- (Ek:RG-11/12/2025-33104-CK-10681/22 md.)** Sulfonlama yapılan deterjan üretim ünitesi olmaması koşuluyla 1 ton/gün altı kapasiteli ve/veya 100 HP’den düşük motor gücü kapasitedeki tekstil yardımcı kimyasal madde ve deterjan üretim tesisleri,
 
-4.37- (Ek:RG-11/12/2025-33104-CK-10681/22 md.) 50 HP’den düşük motor gücü kapasitedeki visco (hafızalı) sünger (yastık, yatak ve ortopedik ürünler ve benzeri) imalatı,
+**4.37- (Ek:RG-11/12/2025-33104-CK-10681/22 md.)** 50 HP’den düşük motor gücü kapasitedeki visco (hafızalı) sünger (yastık, yatak ve ortopedik ürünler ve benzeri) imalatı,
 
-4.38- (Ek:RG-11/12/2025-33104-CK-10681/22 md.) Yanıcı ve parlayıcı madde kategorisindeki 150 m 3 ’ten az sıvıların depolanması ve/veya 500 m 3 ’ten az sıvı kimyasal ürün depolaması olan katı ve sıvı maddelerin depolandığı antrepo tesisleri,
+**4.38- (Ek:RG-11/12/2025-33104-CK-10681/22 md.)** Yanıcı ve parlayıcı madde kategorisindeki 150 m 3 ’ten az sıvıların depolanması ve/veya 500 m 3 ’ten az sıvı kimyasal ürün depolaması olan katı ve sıvı maddelerin depolandığı antrepo tesisleri,
 
-4.39- (Ek:RG-11/12/2025-33104-CK-10681/22 md.) İs karası (karbon siyahı) depolama tesisleri,
+**4.39- (Ek:RG-11/12/2025-33104-CK-10681/22 md.)** İs karası (karbon siyahı) depolama tesisleri,
 
 ### 5- PETROKİMYA SANAYİİ
 
@@ -3014,15 +3014,15 @@ depolama tesisleri,
 
 4763
 
-5.3 - ( Değişik: 29/6/2010 – 2010/671 K.) Marina, akaryakıt ve/veya otogaz istasyonları ile içerisinde yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla kullanılan en az 8 m 3 ’ten 150 m 3 ’e kadar depolama hacmine sahip depolama tesis ve düzenekleri,
+**5.3 - ( Değişik: 29/6/2010 – 2010/671 K.)** Marina, akaryakıt ve/veya otogaz istasyonları ile içerisinde yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla kullanılan en az 8 m 3 ’ten 150 m 3 ’e kadar depolama hacmine sahip depolama tesis ve düzenekleri,
 
 5.4 - Petrol, doğal gaz ve kimyasalları 10 kilometreden uzun ve 600 mm’den küçük çaplı borularla taşıma tesisleri,
 
 5.5 - 250 kg-500 kg arasında kapasitedeki perakende sıvılaştırılmış petrol gazı tüp satış yerleri.
 
-5.6- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Petrol boru hattı ile akaryakıt ikmali arasında oluşabilecek kaza ve sızıntıların çevreye zarar vermesinin önlenmesi tesisleri,
+**5.6- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Petrol boru hattı ile akaryakıt ikmali arasında oluşabilecek kaza ve sızıntıların çevreye zarar vermesinin önlenmesi tesisleri,
 
-5.7- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Madeni yağ satış yerleri,
+**5.7- (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Madeni yağ satış yerleri,
 
 ### 6- GIDA MADDELERİ, İÇKİLER, YEMLER VE TARIMSAL ÜRÜNLER SANAYİİ
 
@@ -3030,7 +3030,7 @@ depolama tesisleri,
 
 6.2- 500 ton/gün’den az olan yem ve un fabrikaları,
 
-6.2.1 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Hayvan yemi satış yerleri,
+**6.2.1 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Hayvan yemi satış yerleri,
 
 6.3 - Kültür mantarı üretim tesisleri,
 
@@ -3042,157 +3042,157 @@ depolama tesisleri,
 
 6.7 - Mekanik olarak ve sızdırma yolu ile yağ imal yerleri hariç atölye mahiyetindeki yağ imal yerleri ile 25 ton/yıl kapasiteden büyük bitkisel ve hayvansal yağ depolama ve dolum yerleri,
 
-6.7.1 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Bitkisel ham yağ depolama yerleri,
+**6.7.1 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Bitkisel ham yağ depolama yerleri,
 
 6.8- Glikoz, nişasta (endüstriyel nişasta hariç), dekstrin (kola) ve emsali maddeler üretim tesisleri,
 
 6.9 - Meşrubat üretim tesisleri,
 
-6.10 - Fruko, eskimo ve dondurmayı fabrikasyon halinde üreten tesisler,
+**6.10** - Fruko, eskimo ve dondurmayı fabrikasyon halinde üreten tesisler,
 
-6.11 - Günlük olarak 1.000 kg/gün ve üzeri şeker veya şeker şerbetinden şekerli maddeler üreten tesisler,
+**6.11** - Günlük olarak 1.000 kg/gün ve üzeri şeker veya şeker şerbetinden şekerli maddeler üreten tesisler,
 
-6.12 - ( Değişik: 19/3/2007-2007/11882 K.) Meyve, sebze işleme yerleri ile konserve ve çeltik fabrikaları, ayçiçeğini kabuğundan ayıran iç üretim tesisleri,
+**6.12 - ( Değişik: 19/3/2007-2007/11882 K.)** Meyve, sebze işleme yerleri ile konserve ve çeltik fabrikaları, ayçiçeğini kabuğundan ayıran iç üretim tesisleri,
 
-6.13 - Meyan kökü, şerbetçiotu vb. bitkilerin işlendiği tesisler,
+**6.13** - Meyan kökü, şerbetçiotu vb. bitkilerin işlendiği tesisler,
 
-6.14 - Çiklet fabrikaları,
+**6.14** - Çiklet fabrikaları,
 
-6.15 - ( Değişik: 19/3/2007-2007/11882 K.) Günlük üretimi 1.000 kg/gün ve üzeri ekmek, sade pide ve ekmek çeşitleri üreten, asgari yüksekliği 3,5 metre ve büyükşehir belediyesi sınırları içinde en az 400 m2; büyükşehir belediyesi olmayan illerde en az 300 m2; köy, belde ve ilçe belediye sınırları içinde en az 250 m2 ve üzeri genişlikteki yerler,
+**6.15 - ( Değişik: 19/3/2007-2007/11882 K.)** Günlük üretimi 1.000 kg/gün ve üzeri ekmek, sade pide ve ekmek çeşitleri üreten, asgari yüksekliği 3,5 metre ve büyükşehir belediyesi sınırları içinde en az 400 m2; büyükşehir belediyesi olmayan illerde en az 300 m2; köy, belde ve ilçe belediye sınırları içinde en az 250 m2 ve üzeri genişlikteki yerler,
 
-6.16 - Dışarıya servis yaparak günde 500 adet/kişi ve üzerinde yemek üretimi yapan tesisler,
+**6.16** - Dışarıya servis yaparak günde 500 adet/kişi ve üzerinde yemek üretimi yapan tesisler,
 
-6.17 - Hayvansal yağların eritildiği tesisler,
+**6.17** - Hayvansal yağların eritildiği tesisler,
 
-6.18 - Buz üretim tesisleri,
+**6.18** - Buz üretim tesisleri,
 
-6.19 - Fabrikasyon olarak çerez üretim tesisleri,
+**6.19** - Fabrikasyon olarak çerez üretim tesisleri,
 
-6.20 - İçme amaçlı doğal bitkilerin işlendiği ve paketlendiği tesisler,
+**6.20** - İçme amaçlı doğal bitkilerin işlendiği ve paketlendiği tesisler,
 
-6.21 - 500 kg / günden büyük kapasitedeki bal dolum ve paketleme tesisleri,
+**6.21** - 500 kg / günden büyük kapasitedeki bal dolum ve paketleme tesisleri,
 
-6.22- Meyve, sebze, bakliyat ve hububatı olgunlaştırma kurutma, mumlama ve ambalajlama tesisleri,
+**6.22-** Meyve, sebze, bakliyat ve hububatı olgunlaştırma kurutma, mumlama ve ambalajlama tesisleri,
 
-6.23 - Hazır gıdaların ambalajlandığı tesisler,
+**6.23** - Hazır gıdaların ambalajlandığı tesisler,
 
-6.24 - Gıda katkı maddesi üreten tesisler,
+**6.24** - Gıda katkı maddesi üreten tesisler,
 
-6.25 - Mayonez, ketçap ve salata sosu üretim tesisleri,
+**6.25** - Mayonez, ketçap ve salata sosu üretim tesisleri,
 
-6.26 –Her türlü meyve suyu üretme ve paketleme tesisleri,
+**6.26** –Her türlü meyve suyu üretme ve paketleme tesisleri,
 
 4764
 
-6.27- 500 kg/gün ve üzerinde fermente gıda (turşu, şalgam, sirke vb.) ürünleri üreten tesisler,
+**6.27-** 500 kg/gün ve üzerinde fermente gıda (turşu, şalgam, sirke vb.) ürünleri üreten tesisler,
 
-6.28 - Yumurtanın konserve edildiği tesisler,
+**6.28** - Yumurtanın konserve edildiği tesisler,
 
-6.29 - Fermantasyon ile alkolü içki üreten atölye mahiyetindeki tesisler,
+**6.29** - Fermantasyon ile alkolü içki üreten atölye mahiyetindeki tesisler,
 
-6.30 - Dondurulmuş gıda üretim tesisleri,
+**6.30** - Dondurulmuş gıda üretim tesisleri,
 
-6.31 - Çocuk mamaları ve ek besin üretim tesisleri,
+**6.31** - Çocuk mamaları ve ek besin üretim tesisleri,
 
-6.32 - İçecek tozu üretim tesisleri,
+**6.32** - İçecek tozu üretim tesisleri,
 
-6.33 - Toz şekerden küp şeker ve pudra şekeri üretim tesisleri,
+**6.33** - Toz şekerden küp şeker ve pudra şekeri üretim tesisleri,
 
-6.34 - Tahin, helva, pekmez ve çikolata üretim tesisleri,
+**6.34** - Tahin, helva, pekmez ve çikolata üretim tesisleri,
 
-6.35 - ( Değişik: 29/6/2010 – 2010/671 K.) Fındık, fıstık, badem, ceviz kırma ve kavurma tesisleri, 500 kg/gün ve üzeri fındık, ballı fındık, fıstık, badem, ceviz ezmesi dolum ve paketleme tesisleri,
+**6.35 - ( Değişik: 29/6/2010 – 2010/671 K.)** Fındık, fıstık, badem, ceviz kırma ve kavurma tesisleri, 500 kg/gün ve üzeri fındık, ballı fındık, fıstık, badem, ceviz ezmesi dolum ve paketleme tesisleri,
 
-6.36 - Sakatat işleme tesisleri,
+**6.36** - Sakatat işleme tesisleri,
 
-6.37 - 75 kg / saat ve büyük kapasitede kavurma kapasitesine sahip kahve ve kuruyemiş hazırlama tesisleri,
+**6.37 -** 75 kg / saat ve büyük kapasitede kavurma kapasitesine sahip kahve ve kuruyemiş hazırlama tesisleri,
 
-6.38 - 10 HP ve üzeri motor gücü kullanan balık temizleme (kılçık ayıklama) tesisleri ve soğuk hava depoları,
+**6.38 -** 10 HP ve üzeri motor gücü kullanan balık temizleme (kılçık ayıklama) tesisleri ve soğuk hava depoları,
 
-6.39 - 500 kg/gün ve üzerindeki kapasitedeki haşhaş öğütme ve ezme tesisleri,
+**6.39** - 500 kg/gün ve üzerindeki kapasitedeki haşhaş öğütme ve ezme tesisleri,
 
-6.40 - Gıda ışınlama yerleri,
+**6.40** - Gıda ışınlama yerleri,
 
-6.41- 3 üncü sınıf kırmızı et mezbahaları.
+**6.41-** 3 üncü sınıf kırmızı et mezbahaları.
 
-6.42 - ( Ek: 29/6/2010 – 2010/671 K.) Hammaddeden başlayarak preform ve polietilen tereftelat (pet) imalat ünitesi bulunan içme suyu şişeleme tesisleri.
+**6.42 - ( Ek: 29/6/2010 – 2010/671 K.)** Hammaddeden başlayarak preform ve polietilen tereftelat (pet) imalat ünitesi bulunan içme suyu şişeleme tesisleri.
 
-6.43 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) (Değişik:RG-11/12/2025-33104-CK-10681/23 md.) Kontinü sistem zeytinyağı üretim ve zeytin işleme tesislerinden;
+**6.43 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) (Değişik:RG-11/12/2025-33104-CK-10681/23 md.)** Kontinü sistem zeytinyağı üretim ve zeytin işleme tesislerinden;
 
-6.43.1- (Ek:RG-11/12/2025-33104-CK-10681/23 md.) 30 ton/gün altı kontinü sistem zeytinyağı üretim tesisleri,
+**6.43.1- (Ek:RG-11/12/2025-33104-CK-10681/23 md.)** 30 ton/gün altı kontinü sistem zeytinyağı üretim tesisleri,
 
-6.43.2- (Ek:RG-11/12/2025-33104-CK-10681/23 md.) 150 ton/gün altı zeytin işleme tesisleri,
+**6.43.2- (Ek:RG-11/12/2025-33104-CK-10681/23 md.)** 150 ton/gün altı zeytin işleme tesisleri,
 
-6.44 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Gıda ve çevre ölçüm ve analiz laboratuvarları,
+**6.44 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Gıda ve çevre ölçüm ve analiz laboratuvarları,
 
-6.45 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Probiyotik ürünler üretim tesisleri,
+**6.45 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Probiyotik ürünler üretim tesisleri,
 
-6.46 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Yumurtaların tasnifi, viyollenmesi, ambalajlanması ve kafes sistemleri tesisleri,
+**6.46 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Yumurtaların tasnifi, viyollenmesi, ambalajlanması ve kafes sistemleri tesisleri,
 
-6.47 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Minarelli premix üretim tesisleri,
+**6.47 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Minarelli premix üretim tesisleri,
 
-6.48 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Fonksiyonel/özel beyanlı gıda, takviye edici gıda ve genetik gıda üretim yerleri,
+**6.48 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Fonksiyonel/özel beyanlı gıda, takviye edici gıda ve genetik gıda üretim yerleri,
 
-6.49 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Bitkisel ekstrat üretim tesisleri,
+**6.49 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Bitkisel ekstrat üretim tesisleri,
 
-6.50 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Kuluçkahane ve damızlık üretim tesisleri,
+**6.50 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Kuluçkahane ve damızlık üretim tesisleri,
 
-6.51 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Alabalık kuluçkahaneleri,
+**6.51 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Alabalık kuluçkahaneleri,
 
-6.52 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Su ürünleri yetiştiriciliği tesisleri,
+**6.52 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Su ürünleri yetiştiriciliği tesisleri,
 
-6.53 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Yemeklik sos ve çeşni imalat tesisleri,
+**6.53 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Yemeklik sos ve çeşni imalat tesisleri,
 
-6.54 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Toz, sıvı ve katı atıklar ile sebze, şurup, aromalar vb. gıda ürünleri geri dönüşüm tesisleri,
+**6.54 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Toz, sıvı ve katı atıklar ile sebze, şurup, aromalar vb. gıda ürünleri geri dönüşüm tesisleri,
 
-6.55 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 100 kesim ünitesi/gün altı büyükbaş ve küçükbaş kesim tesisleri (her bir kesim ünitesi eşdeğeri; 1 baş sığır, 2 baş devekuşu, 4 baş domuz, 8 baş koyun, 10 baş keçi, 130 baş tavşan),
+**6.55 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 100 kesim ünitesi/gün altı büyükbaş ve küçükbaş kesim tesisleri (her bir kesim ünitesi eşdeğeri; 1 baş sığır, 2 baş devekuşu, 4 baş domuz, 8 baş koyun, 10 baş keçi, 130 baş tavşan),
 
-6.56 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 1.000-50.000 adet/gün arası tavuk ve eşdeğeri diğer kanatlılar kesim tesisleri (her bir kesim ünitesi eşdeğeri; 1 adet hindi = 7 adet tavuk),
+**6.56 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 1.000-50.000 adet/gün arası tavuk ve eşdeğeri diğer kanatlılar kesim tesisleri (her bir kesim ünitesi eşdeğeri; 1 adet hindi = 7 adet tavuk),
 
-6.57 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Yumurta ve pastörize yumurta üretim tesisleri,
+**6.57 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Yumurta ve pastörize yumurta üretim tesisleri,
 
-6.58 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Soda depolama ve nakliye tesisleri,
+**6.58 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Soda depolama ve nakliye tesisleri,
 
-6.59 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Gıda mikrobiyolojisi ve gıda moleküler laboratuvarları,
+**6.59 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Gıda mikrobiyolojisi ve gıda moleküler laboratuvarları,
 
-6.60 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 500 kg/gün ve altı kapasiteli kemik suyu ve tavuk suyu üretim tesisleri,
+**6.60 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 500 kg/gün ve altı kapasiteli kemik suyu ve tavuk suyu üretim tesisleri,
 
-6.61 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 500 kg/gün ve üzeri kapasiteli reçel, salça, tarhana üretim tesisleri,
+**6.61 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 500 kg/gün ve üzeri kapasiteli reçel, salça, tarhana üretim tesisleri,
 
-6.62- (Ek:RG-11/12/2025-33104-CK-10681/23 md.) Tatlı sularda (ırmak, göl) yapılan balık (alabalık, sazan, yayın ve benzeri) üretim tesisleri,
+**6.62- (Ek:RG-11/12/2025-33104-CK-10681/23 md.)** Tatlı sularda (ırmak, göl) yapılan balık (alabalık, sazan, yayın ve benzeri) üretim tesisleri,
 
-7- ATIK İŞLEME SANAYİ (Değişik başlık: RG-25/8/2022-31934-C.K-5987/13 md.)
+**7- ATIK İŞLEME SANAYİ (Değişik başlık: RG-25/8/2022-31934-C.K-5987/13 md.)**
 
 7.1 - Kumaş atıkları ve eski kumaşlardan yün imal tesisleri,
 
 7.2- Kullanılmayan et ve hayvan cesetleri yakma tesisleri,
 
-7.3 - ( Değişik: 19/3/2007-2007/11882 K.) Katı atık ara transfer istasyonları, katı atık aktarma istasyonları,
+**7.3 - ( Değişik: 19/3/2007-2007/11882 K.)** Katı atık ara transfer istasyonları, katı atık aktarma istasyonları,
 
 7.4 - Kompostlama tesisleri,
 
 7.5 - Nüfusu 50.000 ve üzeri olan yerleşim yerlerine ait atık su arıtma tesisleri,
 
-7.6 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 20-100 ton arası kapasiteli deniz araçlarından kaynaklanan atıkların toplanması tesisleri,
+**7.6 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 20-100 ton arası kapasiteli deniz araçlarından kaynaklanan atıkların toplanması tesisleri,
 
-7.7 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Tehlikeli, tehlikesiz ve özel işleme tabi atıkların geri kazanım tesisleri,
+**7.7 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Tehlikeli, tehlikesiz ve özel işleme tabi atıkların geri kazanım tesisleri,
 
-7.8 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Atık akü geçici depolama tesisleri,
+**7.8 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Atık akü geçici depolama tesisleri,
 
-7.9 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Ambalaj atığı toplama, ayırma ve geri kazanım tesisleri,
+**7.9 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Ambalaj atığı toplama, ayırma ve geri kazanım tesisleri,
 
-7.10 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Çevre kirliliğine müdahale tesisleri,
+**7.10 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Çevre kirliliğine müdahale tesisleri,
 
-7.11 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Atıkların işlenerek biyogaz elde edildiği ve toplam biyogaz depolama kapasitesi 500 m3’ten az olan biyometanizasyon tesisleri,
+**7.11 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Atıkların işlenerek biyogaz elde edildiği ve toplam biyogaz depolama kapasitesi 500 m3’ten az olan biyometanizasyon tesisleri,
 
-7.12 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Toplam ısıl gücü 20 megavat (MW) altı kapasiteli atık yakma tesisleri,
+**7.12 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Toplam ısıl gücü 20 megavat (MW) altı kapasiteli atık yakma tesisleri,
 
-7.13 - (Ek:RG-11/12/2025-33104-CK-10681/24 md.) Tehlikesiz cüruftan demir, bakır granül, atık/hurda kablodan bakır ve plastik üretim tesisleri (2.000 (ikibin) ton/günden az olan metal tehlikesiz atıkların ve/veya cüruf, tufal ve benzeri atıklardan metallerin ergitildiği geri kazanım tesisleri),
+**7.13 - (Ek:RG-11/12/2025-33104-CK-10681/24 md.)** Tehlikesiz cüruftan demir, bakır granül, atık/hurda kablodan bakır ve plastik üretim tesisleri (2.000 (ikibin) ton/günden az olan metal tehlikesiz atıkların ve/veya cüruf, tufal ve benzeri atıklardan metallerin ergitildiği geri kazanım tesisleri),
 
-7.14- (Ek:RG-11/12/2025-33104-CK-10681/24 md.) Bitik katalizör geri kazanım tesisleri,
+**7.14- (Ek:RG-11/12/2025-33104-CK-10681/24 md.)** Bitik katalizör geri kazanım tesisleri,
 
-7.15 - (Ek:RG-11/12/2025-33104-CK-10681/24 md.) Tarımsal atıkları yüksek verimde aktif karbona dönüştürme tesisleri,
+**7.15 - (Ek:RG-11/12/2025-33104-CK-10681/24 md.)** Tarımsal atıkları yüksek verimde aktif karbona dönüştürme tesisleri,
 
-7.16 - (Ek:RG-11/12/2025-33104-CK-10681/24 md.) Bitkisel atık yağ ara depolama tesisleri ve atık yağ transfer noktaları,
+**7.16 - (Ek:RG-11/12/2025-33104-CK-10681/24 md.)** Bitkisel atık yağ ara depolama tesisleri ve atık yağ transfer noktaları,
 
 ### 8- TEKSTİL SANAYİİ
 
@@ -3216,7 +3216,7 @@ depolama tesisleri,
 
 9.3 - Camdan süs eşyası, ayna vb. madde üreten tesisler,
 
-9.3.1 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Füzyon cam eşya ve cam eşya tezyinatı üretim tesisleri,
+**9.3.1 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Füzyon cam eşya ve cam eşya tezyinatı üretim tesisleri,
 
 9.4 - Halı ve kilim dokuma ve boyama atölyeleri,
 
@@ -3228,223 +3228,223 @@ depolama tesisleri,
 
 9.7- Tomruk ve kereste depoları,
 
-9.8 - ( Değişik: 19/3/2007-2007/11882 K.) Her nevi hurda depoları, katı atık depolama tesisleri ile evsel ve endüstriyel katı atıklardan ham ve mamul madde üretimi konusunda faaliyet gösteren işletmeler (metal, kağıt, karton, pet, plastik, cam hurda ve atıkları kaynağından karışık toplayarak biriktiren, depolandığı yerden alınarak cinslerine göre ayrıştıran ve nakliye edilebilmesi için preslenen, preslenmiş hurdaların ayrı ayrı depolanarak sonra geri kazanım firmalarına gönderen tesis),
+**9.8 - ( Değişik: 19/3/2007-2007/11882 K.)** Her nevi hurda depoları, katı atık depolama tesisleri ile evsel ve endüstriyel katı atıklardan ham ve mamul madde üretimi konusunda faaliyet gösteren işletmeler (metal, kağıt, karton, pet, plastik, cam hurda ve atıkları kaynağından karışık toplayarak biriktiren, depolandığı yerden alınarak cinslerine göre ayrıştıran ve nakliye edilebilmesi için preslenen, preslenmiş hurdaların ayrı ayrı depolanarak sonra geri kazanım firmalarına gönderen tesis),
 
-9.8.1 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Atık elektrik ve elektronik eşya geçici depolama ve işleme tesisleri,
+**9.8.1 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Atık elektrik ve elektronik eşya geçici depolama ve işleme tesisleri,
 
 9.9 - Steril katgüt üretim tesisleri,
 
-9.10 - Herhangi bir işlem yapılmayan ham deri depoları,
+**9.10** - Herhangi bir işlem yapılmayan ham deri depoları,
 
-9.11 - Bağırsak temizleme işleme yerleri ile işlenmiş bağırsaktan eşya üretim tesisleri,
+**9.11** - Bağırsak temizleme işleme yerleri ile işlenmiş bağırsaktan eşya üretim tesisleri,
 
-9.12 - Bitkisel yemler ve hazır preparatlardan karma yem üretim tesisleri,
+**9.12** - Bitkisel yemler ve hazır preparatlardan karma yem üretim tesisleri,
 
-9.13 - Nakliyat, ticaret, komisyon, ithalat ve ihracat işleri ile ilgili depolar,
+**9.13** - Nakliyat, ticaret, komisyon, ithalat ve ihracat işleri ile ilgili depolar,
 
-9.14 - Bir üretim periyodunda 20.000-60.000 adet arası tavuk, 30.000-85.000 adet arası piliç veya eş değeri diğer kanatlı kapasitedeki tavuk veya piliç yetiştirme tesisleri, 30 kg ve üzeri, 1.000-3.000 baş arası domuz besi çiftlikleri ve 300-900 baş arası dişi domuz üretim çiftlikleri, 500 adet ve üzeri büyükbaş ve 1.000 adet ve üzeri kapasitedeki küçükbaş kapasiteli büyükbaş ve küçükbaş besi tesisleri,
+**9.14** - Bir üretim periyodunda 20.000-60.000 adet arası tavuk, 30.000-85.000 adet arası piliç veya eş değeri diğer kanatlı kapasitedeki tavuk veya piliç yetiştirme tesisleri, 30 kg ve üzeri, 1.000-3.000 baş arası domuz besi çiftlikleri ve 300-900 baş arası dişi domuz üretim çiftlikleri, 500 adet ve üzeri büyükbaş ve 1.000 adet ve üzeri kapasitedeki küçükbaş kapasiteli büyükbaş ve küçükbaş besi tesisleri,
 
-9.15 - Bitkisel liflerden sicim, halat, hasır vb. üretim tesisleri,
+**9.15** - Bitkisel liflerden sicim, halat, hasır vb. üretim tesisleri,
 
-9.16 - ( Değişik: 19/3/2007-2007/11882 K.) Oto bakım ve servis istasyonları; kaporta, boya, motor bakımı, elektrik, oto egzozcuları,
+**9.16 - ( Değişik: 19/3/2007-2007/11882 K.)** Oto bakım ve servis istasyonları; kaporta, boya, motor bakımı, elektrik, oto egzozcuları,
 
-9.17 - Düğme, fermuar, şemsiye vb. üretim tesisleri,
+**9.17** - Düğme, fermuar, şemsiye vb. üretim tesisleri,
 
-9.18 - Kibrit fabrikaları,
+**9.18** - Kibrit fabrikaları,
 
-9.19 - Gaz maskesi üretim tesisleri,
+**9.19** - Gaz maskesi üretim tesisleri,
 
-9.20 - Kurşunkalem fabrikaları,
+**9.20** - Kurşunkalem fabrikaları,
 
-9.21 - Tütün işleme ve sigara fabrikaları,
+**9.21** - Tütün işleme ve sigara fabrikaları,
 
-9.22- Nüfusu 50.000 ve üzerinde olan yerleşim birimlerine ait atık su arıtma tesisleri ile istihdam kapasitesi 20.000 ve üzerinde olan ihtisas ve karma organize sanayi bölgelerine ait atık su arıtma tesisleri.
+**9.22-** Nüfusu 50.000 ve üzerinde olan yerleşim birimlerine ait atık su arıtma tesisleri ile istihdam kapasitesi 20.000 ve üzerinde olan ihtisas ve karma organize sanayi bölgelerine ait atık su arıtma tesisleri.
 
-9.23 - ( Ek: 19/3/2007-2007/11882 K.) Organik gübre üreten işyerleri,
+**9.23 - ( Ek: 19/3/2007-2007/11882 K.)** Organik gübre üreten işyerleri,
 
-9.24 - ( Ek: 19/3/2007-2007/11882 K.) Hurda kağıt balyalama tesisleri,
+**9.24 - ( Ek: 19/3/2007-2007/11882 K.)** Hurda kağıt balyalama tesisleri,
 
-9.25 - ( Ek: 19/3/2007-2007/11882 K.) Motorlu araç boyalarının kumlama yoluyla temizlendiği işyerleri,
+**9.25 - ( Ek: 19/3/2007-2007/11882 K.)** Motorlu araç boyalarının kumlama yoluyla temizlendiği işyerleri,
 
-9.26 - ( Ek: 19/3/2007-2007/11882 K.) Tuvalet kağıdı, peçete, kağıt havlu üretimi yapan tesisler.
+**9.26 - ( Ek: 19/3/2007-2007/11882 K.)** Tuvalet kağıdı, peçete, kağıt havlu üretimi yapan tesisler.
 
-9.27 - (Ek: 29/6/2010 – 2010/671 K.) Oluklu mukavva üretim tesisleri,
+**9.27 - (Ek: 29/6/2010 – 2010/671 K.)** Oluklu mukavva üretim tesisleri,
 
-9.28 - (Ek: 29/6/2010 – 2010/671 K.) Alüminyum ve çeşitli folyolardan gıda, tarım ve ilaç ambalaj maddeleri üretim tesisleri.
+**9.28 - (Ek: 29/6/2010 – 2010/671 K.)** Alüminyum ve çeşitli folyolardan gıda, tarım ve ilaç ambalaj maddeleri üretim tesisleri.
 
-9.29- (Ek:RG-9/6/2020-31150-C.K-2626/12 md.) Açık alanda sergilenen ikinci el motorlu kara taşıtı pazarları,
+**9.29- (Ek:RG-9/6/2020-31150-C.K-2626/12 md.)** Açık alanda sergilenen ikinci el motorlu kara taşıtı pazarları,
 
-9.30 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Tarımda tozlaşma (polinasyon), arı ve biyolojik mücadele amaçlı böcek üretim tesisleri,
+**9.30 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Tarımda tozlaşma (polinasyon), arı ve biyolojik mücadele amaçlı böcek üretim tesisleri,
 
-9.31 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Duş teknesi ve kabin üretim tesisleri,
+**9.31 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Duş teknesi ve kabin üretim tesisleri,
 
-9.32 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Farmasotik ile hücresel ürünler ve medikal cihaz kategorisine giren biyo malzemelerin üretim tesisleri,
+**9.32 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Farmasotik ile hücresel ürünler ve medikal cihaz kategorisine giren biyo malzemelerin üretim tesisleri,
 
-9.33 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Endüstriyel tip buzdolabı ve soğutma sistemleri servis ve bakım tesisleri,
+**9.33 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Endüstriyel tip buzdolabı ve soğutma sistemleri servis ve bakım tesisleri,
 
-9.34 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Polistren dekoratif cephe elemanları tesisleri,
+**9.34 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Polistren dekoratif cephe elemanları tesisleri,
 
-9.35 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Elektrostatik toz boyama tesisleri,
+**9.35 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Elektrostatik toz boyama tesisleri,
 
-9.36 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Sera ortamında tohumun yeşertilerek fide haline getirilmesi tesisleri,
+**9.36 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Sera ortamında tohumun yeşertilerek fide haline getirilmesi tesisleri,
 
-9.37 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) İş hijyeni ölçüm ve analiz laboratuvarları,
+**9.37 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** İş hijyeni ölçüm ve analiz laboratuvarları,
 
-9.38 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 1350 DWT altı ağırlıktaki deniz araçlarının ticari amaçlı liman, iskele ve rıhtım işletmeleri (yolcu taşıma amaçlı olarak kullanılan iskele ve limanlar hariç),
+**9.38 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 1350 DWT altı ağırlıktaki deniz araçlarının ticari amaçlı liman, iskele ve rıhtım işletmeleri (yolcu taşıma amaçlı olarak kullanılan iskele ve limanlar hariç),
 
-9.39 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Topraksız domates üreticiliği ve sera işletmeciliği,
+**9.39 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Topraksız domates üreticiliği ve sera işletmeciliği,
 
-9.40 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Otobüsler için hava kanalları, engelli rampası, kapı içi kaplama kumaşları, vagon, alüminyum profilleri, metal yüzeyleri temizleme, işleme ve boyama üretim tesisleri,
+**9.40 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Otobüsler için hava kanalları, engelli rampası, kapı içi kaplama kumaşları, vagon, alüminyum profilleri, metal yüzeyleri temizleme, işleme ve boyama üretim tesisleri,
 
-9.41 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Katı maddelerin depolandığı antrepo tesisleri,
+**9.41 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Katı maddelerin depolandığı antrepo tesisleri,
 
-9.42 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Hayvan satış yerleri,
+**9.42 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Hayvan satış yerleri,
 
-9.43 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Yem katkı ve mikroorganizma ve blok mineral üretim tesisleri,
+**9.43 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Yem katkı ve mikroorganizma ve blok mineral üretim tesisleri,
 
-9.44 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Beton analiz laboratuvarları,
+**9.44 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Beton analiz laboratuvarları,
 
-9.45 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Atık naylonlardan granül plastik üretim tesisleri,
+**9.45 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Atık naylonlardan granül plastik üretim tesisleri,
 
-9.46 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Araç parça yıkama tesisleri,
+**9.46 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Araç parça yıkama tesisleri,
 
-9.47 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Maden laboratuvarları,
+**9.47 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Maden laboratuvarları,
 
-9.48 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Ömrünü tamamlamış araçların sökümü ve geçici depolanması tesisleri,
+**9.48 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Ömrünü tamamlamış araçların sökümü ve geçici depolanması tesisleri,
 
-9.49 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Arıtma mikroorganizmaları (bakteri) depolama ve üretim tesisleri,
+**9.49 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Arıtma mikroorganizmaları (bakteri) depolama ve üretim tesisleri,
 
-9.50 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Mutfak dolabı granitinin kesilmesi ve montajı tesisleri,
+**9.50 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Mutfak dolabı granitinin kesilmesi ve montajı tesisleri,
 
-9.51 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Soğuk asfalt yama tesisleri,
+**9.51 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Soğuk asfalt yama tesisleri,
 
-9.52 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Araç muayene istasyonları,
+**9.52 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Araç muayene istasyonları,
 
-9.53 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Biyosidal ürün analiz raporu tesisleri,
+**9.53 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Biyosidal ürün analiz raporu tesisleri,
 
-9.54 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 50 HP ve üzeri motor gücü kullanan karton bardak imalat tesisleri,
+**9.54 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 50 HP ve üzeri motor gücü kullanan karton bardak imalat tesisleri,
 
-9.55 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Hava yastığı üretim tesisleri,
+**9.55 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Hava yastığı üretim tesisleri,
 
-9.56 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) İçme suyu arıtma tesisleri,
+**9.56 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** İçme suyu arıtma tesisleri,
 
-9.57 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Organik toprak düzenleyici tesisleri,
+**9.57 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Organik toprak düzenleyici tesisleri,
 
-9.58 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 50 ton/yıl altı kapasiteli cıvata saplama, sıcak dövme tesisleri,
+**9.58 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 50 ton/yıl altı kapasiteli cıvata saplama, sıcak dövme tesisleri,
 
-9.59 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 50-500 HP arası motor gücü kullanan römork çelik konstrüksiyon imalat tesisleri,
+**9.59 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 50-500 HP arası motor gücü kullanan römork çelik konstrüksiyon imalat tesisleri,
 
-9.60 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 100 HP altı motor gücü kullanan su işletmeleri,
+**9.60 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 100 HP altı motor gücü kullanan su işletmeleri,
 
-9.61 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) (Mülga:RG-11/12/2025-33104-CK-10681/25 md.)
+**9.61 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) (Mülga:RG-11/12/2025-33104-CK-10681/25 md.)**
 
-9.62 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Yapı ve zemin laboratuvarları (zemin sondajları),
+**9.62 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Yapı ve zemin laboratuvarları (zemin sondajları),
 
-9.63 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Hara ve aşım istasyonları,
+**9.63 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Hara ve aşım istasyonları,
 
-9.64 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Balıkçı barınağı içerisinde bulunan konveyör yükleme bandı ve döküm yerine kamyonlarla getirilen kuvarsit madeninin herhangi bir işlem görmeden gemilere yüklenmesi işi yapılan tesisler,
+**9.64 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Balıkçı barınağı içerisinde bulunan konveyör yükleme bandı ve döküm yerine kamyonlarla getirilen kuvarsit madeninin herhangi bir işlem görmeden gemilere yüklenmesi işi yapılan tesisler,
 
-9.65 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Bigbaglerde katı formda toz olarak kimyasal madde, elektronik malzeme, perde, tül, plastik hammadde ve ofis mobilyaları depolama veya antrepo yerleri,
+**9.65 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Bigbaglerde katı formda toz olarak kimyasal madde, elektronik malzeme, perde, tül, plastik hammadde ve ofis mobilyaları depolama veya antrepo yerleri,
 
-9.66 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Pet preform ve pet şişe imalat tesisleri,
+**9.66 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Pet preform ve pet şişe imalat tesisleri,
 
-9.67 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Gıda, yem veya su gibi materyallerin analizinin yapıldığı laboratuvarlar,
+**9.67 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Gıda, yem veya su gibi materyallerin analizinin yapıldığı laboratuvarlar,
 
-9.68 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Toptan dezenfektan depoları,
+**9.68 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Toptan dezenfektan depoları,
 
-9.69 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) 28/2/2018 tarihli ve 30341 sayılı Resmî Gazete’de yayımlanan Tarımda Kullanılan Organik, Mineral ve Mikrobiyal Kaynaklı Gübrelere Dair Yönetmelik kapsamındaki sıvı gübre çözeltisi üretim tesisleri,
+**9.69 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** 28/2/2018 tarihli ve 30341 sayılı Resmî Gazete’de yayımlanan Tarımda Kullanılan Organik, Mineral ve Mikrobiyal Kaynaklı Gübrelere Dair Yönetmelik kapsamındaki sıvı gübre çözeltisi üretim tesisleri,
 
-9.70 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Kan unu üretim tesisleri,
+**9.70 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Kan unu üretim tesisleri,
 
-9.71 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Zirai tarımda böcek üretimi tesisleri,
+**9.71 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Zirai tarımda böcek üretimi tesisleri,
 
-9.72 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.) Çinko, kalsiyum, magnezyum, sodyum, lityum ve benzeri stearat öğütme ve paketleme tesisleri,
+**9.72 - (Ek: RG-25/8/2022-31934-C.K-5987/13 md.)** Çinko, kalsiyum, magnezyum, sodyum, lityum ve benzeri stearat öğütme ve paketleme tesisleri,
 
-9.73- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Jeotermal kaynaktan elde edilen sıcak su vasıtasıyla ısıtılan seracılık tesisleri,
+**9.73- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Jeotermal kaynaktan elde edilen sıcak su vasıtasıyla ısıtılan seracılık tesisleri,
 
-9.74- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Otomobil parçası kalite kontrol faaliyeti (enjektör parçalarının kalite kontrol işlemi kimyasal ve fiziki olarak ikisi birlikte veya sadece kimyasal yapılıyorsa),
+**9.74- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Otomobil parçası kalite kontrol faaliyeti (enjektör parçalarının kalite kontrol işlemi kimyasal ve fiziki olarak ikisi birlikte veya sadece kimyasal yapılıyorsa),
 
-9.75- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Toplam motor gücü 500 HP’den az ve/veya 60.000 ton/yıl altı düşük kapasiteli selülozdan sigara kâğıdı üretimi yapan tesisler,
+**9.75- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Toplam motor gücü 500 HP’den az ve/veya 60.000 ton/yıl altı düşük kapasiteli selülozdan sigara kâğıdı üretimi yapan tesisler,
 
-9.76- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Sondaj akışkanları test laboratuvarı,
+**9.76- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Sondaj akışkanları test laboratuvarı,
 
-9.77- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Spor alanları için zemin kaplama malzemeleri üretim tesisleri,
+**9.77- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Spor alanları için zemin kaplama malzemeleri üretim tesisleri,
 
-9.78- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Plastik kasa üretim tesisi,
+**9.78- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Plastik kasa üretim tesisi,
 
-9.79- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Biyoteknolojiyle ilgili araştırma ve deneysel geliştirme faaliyetleri,
+**9.79- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Biyoteknolojiyle ilgili araştırma ve deneysel geliştirme faaliyetleri,
 
-9.80- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Metal levhalardan yalıtım özellikli tek kat panel imalatı,
+**9.80- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Metal levhalardan yalıtım özellikli tek kat panel imalatı,
 
-9.81- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Trafo izolasyon malzemeleri (izolasyon komponentler: transformerboard, presband, nomex, ve benzeri.) imalatı,
+**9.81- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Trafo izolasyon malzemeleri (izolasyon komponentler: transformerboard, presband, nomex, ve benzeri.) imalatı,
 
-9.82- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Lityum pil montajı,
+**9.82- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Lityum pil montajı,
 
-9.83- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Çamur kurutma tesisi,
+**9.83- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Çamur kurutma tesisi,
 
-9.84- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Tıbbi olmayan veteriner sağlık ürünleri imalatı,
+**9.84- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Tıbbi olmayan veteriner sağlık ürünleri imalatı,
 
-9.85- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Tomruk, ahşap, bambu ve diğer odunsu malzemelerden kaplamalık plaka, levha ve benzeri imalatı (yaprak halde ve preslenmemiş),
+**9.85- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Tomruk, ahşap, bambu ve diğer odunsu malzemelerden kaplamalık plaka, levha ve benzeri imalatı (yaprak halde ve preslenmemiş),
 
-9.86- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Katı maddelerin depolandığı antrepolar,
+**9.86- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Katı maddelerin depolandığı antrepolar,
 
-9.87- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Otomotiv yedek parça ve aksamı üretim tesisleri,
+**9.87- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Otomotiv yedek parça ve aksamı üretim tesisleri,
 
-9.88- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) 50 kg/saat ve daha fazla toz boya kullanılarak, malzemelerin elektrostatik toz boyama yöntemi ile boyandığı tesisler,
+**9.88- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** 50 kg/saat ve daha fazla toz boya kullanılarak, malzemelerin elektrostatik toz boyama yöntemi ile boyandığı tesisler,
 
-9.89- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Av ve yaban hayvanları üretimi ve yetiştiriciliği,
+**9.89- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Av ve yaban hayvanları üretimi ve yetiştiriciliği,
 
-9.90- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Yapı malzemeleri laboratuvarları,
+**9.90- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Yapı malzemeleri laboratuvarları,
 
-9.91- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Profil, pvc çıta, pvc lambiri, pvc kapı, pvc pencere üretim tesisleri,
+**9.91- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Profil, pvc çıta, pvc lambiri, pvc kapı, pvc pencere üretim tesisleri,
 
-9.92- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) 100 HP’den az motor gücü kullanan vulkanizasyon işlemi sonrasında pudrasız nitril eldiven üretim tesisleri,
+**9.92- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** 100 HP’den az motor gücü kullanan vulkanizasyon işlemi sonrasında pudrasız nitril eldiven üretim tesisleri,
 
-9.93- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Yüzey koruyucu bant ve karton mukavva kâğıt, karton ürünleri imalatı,
+**9.93- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Yüzey koruyucu bant ve karton mukavva kâğıt, karton ürünleri imalatı,
 
-9.94- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Granülden muhtelif plastik malzeme (magnet, tapa, kulp, kapı kolu ve benzeri.) imalatı,
+**9.94- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Granülden muhtelif plastik malzeme (magnet, tapa, kulp, kapı kolu ve benzeri.) imalatı,
 
-9.95- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Organik maddelerle yüzey muamelesi yapan tesisler;
+**9.95- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Organik maddelerle yüzey muamelesi yapan tesisler;
 
-9.95.1- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Toplam organik çözücü içeriği 25 kg/saat (dahil) ile 250 kg/saat (hariç) arasında olan boya, cila ve benzeri maddelerle malzemelerin boyandığı, cilalandığı ve/veya kurutulduğu tesisler,
+**9.95.1- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Toplam organik çözücü içeriği 25 kg/saat (dahil) ile 250 kg/saat (hariç) arasında olan boya, cila ve benzeri maddelerle malzemelerin boyandığı, cilalandığı ve/veya kurutulduğu tesisler,
 
-9.95.2- (Ek:RG-11/12/2025-33104-CK-10681/25 md.) Toplam organik çözücü içeriği 25 kg/saat (dahil) ile 250 kg/saat (hariç) arasında olan boya ve benzeri maddeler kullanarak malzemelerin döner baskı makineleri ile basıldığı ve/veya kurutulduğu tesisler,
+**9.95.2- (Ek:RG-11/12/2025-33104-CK-10681/25 md.)** Toplam organik çözücü içeriği 25 kg/saat (dahil) ile 250 kg/saat (hariç) arasında olan boya ve benzeri maddeler kullanarak malzemelerin döner baskı makineleri ile basıldığı ve/veya kurutulduğu tesisler,
 
 ### C) ÜÇÜNCÜ SINIF GAYRİSIHHÎ MÜESSESELER
 
-1- ENERJİ SANAYİİ (Değişik:RG-9/6/2020-31150-C.K-2626/13 md.)
+**1- ENERJİ SANAYİİ (Değişik:RG-9/6/2020-31150-C.K-2626/13 md.)**
 
 1.1- Akü tamir yerleri,
 
-1.2 - (Değişik:RG-29/7/2023-32263-CK-7433/2 md.) Elektrik enerjisi ile çalışan araçların elektrik ihtiyacını temin edebilmeleri için yetkili idarece uygun görülecek ve imar planında “elektrikli araç şarj istasyonu alanı” olarak ayrılmış parsellerde kurulacak müstakil elektrikli araç şarj istasyonları ile diğer iş yerlerinde ve toplu yapılarda kurularak faaliyette bulunacak elektrikli araç şarj istasyonları,
+**1.2 - (Değişik:RG-29/7/2023-32263-CK-7433/2 md.)** Elektrik enerjisi ile çalışan araçların elektrik ihtiyacını temin edebilmeleri için yetkili idarece uygun görülecek ve imar planında “elektrikli araç şarj istasyonu alanı” olarak ayrılmış parsellerde kurulacak müstakil elektrikli araç şarj istasyonları ile diğer iş yerlerinde ve toplu yapılarda kurularak faaliyette bulunacak elektrikli araç şarj istasyonları,
 
-1.2.1 - Müstakil elektrikli araç şarj istasyonlarına bu Yönetmelik gereğince işyeri açma ve çalışma ruhsatı düzenlenir.
+**1.2.1** - Müstakil elektrikli araç şarj istasyonlarına bu Yönetmelik gereğince işyeri açma ve çalışma ruhsatı düzenlenir.
 
-1.2.2 - Müstakil elektrikli araç şarj istasyonları dışında, diğer iş yerlerinde ve toplu yapılarda kurularak faaliyette bulunacak elektrikli araç şarj istasyonları için bu Yönetmeliğin eki ÖRNEK 9’da yer alan forma uygun şekilde doldurularak yapılacak başvurular sonucu yetkili idarelerce yer seçimi ve faaliyet izin belgesi, bu Yönetmeliğin eki ÖRNEK 10’da yer alan yer alan bilgileri içerecek şekilde düzenlenir. Yer seçimi ve faaliyet izin belgesi düzenlenen istasyonlar için ayrıca işyeri açma ve çalışma ruhsatı düzenlenmez. Yer seçimi ve faaliyet izin belgesi müracaatı sırasında bu Yönetmelikte belirtilen bilgi ve belgeler dışında başka herhangi bir belge istenemez ve başvuru formundaki beyana göre belge işlemleri sonuçlandırılır.
+**1.2.2** - Müstakil elektrikli araç şarj istasyonları dışında, diğer iş yerlerinde ve toplu yapılarda kurularak faaliyette bulunacak elektrikli araç şarj istasyonları için bu Yönetmeliğin eki ÖRNEK 9’da yer alan forma uygun şekilde doldurularak yapılacak başvurular sonucu yetkili idarelerce yer seçimi ve faaliyet izin belgesi, bu Yönetmeliğin eki ÖRNEK 10’da yer alan yer alan bilgileri içerecek şekilde düzenlenir. Yer seçimi ve faaliyet izin belgesi düzenlenen istasyonlar için ayrıca işyeri açma ve çalışma ruhsatı düzenlenmez. Yer seçimi ve faaliyet izin belgesi müracaatı sırasında bu Yönetmelikte belirtilen bilgi ve belgeler dışında başka herhangi bir belge istenemez ve başvuru formundaki beyana göre belge işlemleri sonuçlandırılır.
 
-1.2.3 - Elektrikli araç şarj istasyonlarına işyeri açma ve çalışma ruhsatı ile yer seçimi ve faaliyet izin belgesi büyükşehirlerde büyükşehir belediyesi tarafından verilir.
+**1.2.3** - Elektrikli araç şarj istasyonlarına işyeri açma ve çalışma ruhsatı ile yer seçimi ve faaliyet izin belgesi büyükşehirlerde büyükşehir belediyesi tarafından verilir.
 
-1.2.4 - İşyeri açma ve çalışma ruhsatı ile işletilen müstakil elektrikli araç şarj istasyonları bünyesinde sair faaliyet konuları ve yapı elemanları (idari bina, tuvalet, market, çay ocağı, mescit, büfe, kafe, kafeterya, oto elektrik, lastikçi, yıkama yağlama vb.) bulunabilir.
+**1.2.4** - İşyeri açma ve çalışma ruhsatı ile işletilen müstakil elektrikli araç şarj istasyonları bünyesinde sair faaliyet konuları ve yapı elemanları (idari bina, tuvalet, market, çay ocağı, mescit, büfe, kafe, kafeterya, oto elektrik, lastikçi, yıkama yağlama vb.) bulunabilir.
 
-1.2.5 - Yer seçimi ve faaliyet izin belgesi için araç şarj istasyonu alanı ve istasyon nedeniyle faydalanılan alanlar toplamı olacak şekilde her metrekare için büyükşehirlerde 50.-TL, diğer yerlerde 25.-TL üzerinden ücret alınır. Tespit edilen bu tutarlar, her takvim yılı başından geçerli olmak üzere bir önceki yıla ilişkin olarak Vergi Usul Kanunu hükümlerine göre belirlenen yeniden değerleme oranında artırılır. Bu alt maddede belirtilen ücret dışında, istasyonlar için herhangi bir ücret veya bedel alınamaz.
+**1.2.5** - Yer seçimi ve faaliyet izin belgesi için araç şarj istasyonu alanı ve istasyon nedeniyle faydalanılan alanlar toplamı olacak şekilde her metrekare için büyükşehirlerde 50.-TL, diğer yerlerde 25.-TL üzerinden ücret alınır. Tespit edilen bu tutarlar, her takvim yılı başından geçerli olmak üzere bir önceki yıla ilişkin olarak Vergi Usul Kanunu hükümlerine göre belirlenen yeniden değerleme oranında artırılır. Bu alt maddede belirtilen ücret dışında, istasyonlar için herhangi bir ücret veya bedel alınamaz.
 
-1.2.6 - Yer seçimi ve faaliyet izin belgesi verilmesiyle ilgili bu madde ve alt maddelerinde yer almayan hususlarda bu Yönetmelikte işyeri açma ve çalışma ruhsatıyla ilgili hükümler uygulanır.
+**1.2.6** - Yer seçimi ve faaliyet izin belgesi verilmesiyle ilgili bu madde ve alt maddelerinde yer almayan hususlarda bu Yönetmelikte işyeri açma ve çalışma ruhsatıyla ilgili hükümler uygulanır.
 
-1.3- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.) (Değişik:RG-11/12/2025-33104-CK-10681/26 md.) Fotovoltaik güneş enerjisine dayalı elektrik santralleri,
+**1.3- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.) (Değişik:RG-11/12/2025-33104-CK-10681/26 md.)** Fotovoltaik güneş enerjisine dayalı elektrik santralleri,
 
-1.4- (Ek:RG-11/12/2025-33104-CK-10681/26 md.) Güneş enerjisine dayalı enerji üretim tesisleri,
+**1.4- (Ek:RG-11/12/2025-33104-CK-10681/26 md.)** Güneş enerjisine dayalı enerji üretim tesisleri,
 
 ### 2- METALURJİ VE MAKİNE SANAYİİ
 
-2.1 - ( Değişik: 19/3/2007-2007/11882 K.) 50 HP’den az motor gücü kullanan veya motor kullanmaksızın iptidai usullerle çalışan her nevi elektromekanik, elektromanyetik yöntemle madeni eşya imal, işleme, montaj ve tamir atölyeleri, tarım ilaçlama makine imalatı yapan işyerleri,
+**2.1 - ( Değişik: 19/3/2007-2007/11882 K.)** 50 HP’den az motor gücü kullanan veya motor kullanmaksızın iptidai usullerle çalışan her nevi elektromekanik, elektromanyetik yöntemle madeni eşya imal, işleme, montaj ve tamir atölyeleri, tarım ilaçlama makine imalatı yapan işyerleri,
 
 4766
 
 2.2- Harf dökümü yapmayan ve 20 HP’den az motor gücü kullanan matbaalar ve baskı yerleri.
 
-2.3 - (Ek:RG-11/12/2025-33104-CK-10681/27 md.) Profesyonel VHV/UHF antenlerin, taktik HF sabit mobil antenlerin, sabit mobil ve taşınabilir uydu anten sistemlerinin, hava platform antenlerin, 5G dual polarize antenlerin, taktik VHF/UHF antenlerin üretim tesisleri,
+**2.3 - (Ek:RG-11/12/2025-33104-CK-10681/27 md.)** Profesyonel VHV/UHF antenlerin, taktik HF sabit mobil antenlerin, sabit mobil ve taşınabilir uydu anten sistemlerinin, hava platform antenlerin, 5G dual polarize antenlerin, taktik VHF/UHF antenlerin üretim tesisleri,
 
-3- MADEN SANAYİİ ( Değişik: 23/5/2011 – 2011/1900 K.)
+**3- MADEN SANAYİİ ( Değişik: 23/5/2011 – 2011/1900 K.)**
 
 3.1- İnşaat malzemeleri depo ve satış yerleri,
 
@@ -3466,21 +3466,21 @@ depolama tesisleri,
 
 4.3 - Kolonya ve benzeri tuvalet malzemeleri üretim yerleri,
 
-4.4 - ( Değişik: 19/3/2007-2007/11882 K.) Zirai mücadele ilaçları, insektisit, rodentisit, mollusisit ve benzeri maddelerin perakende satış yerleri, haşerelere karşı insektisit, rodentisit ve mollusisit kullanarak mücadele yapmak isteyen işyeri (Özel ambalajlı ilaç miktarı 100 kg veya litreden az ise),
+**4.4 - ( Değişik: 19/3/2007-2007/11882 K.)** Zirai mücadele ilaçları, insektisit, rodentisit, mollusisit ve benzeri maddelerin perakende satış yerleri, haşerelere karşı insektisit, rodentisit ve mollusisit kullanarak mücadele yapmak isteyen işyeri (Özel ambalajlı ilaç miktarı 100 kg veya litreden az ise),
 
 4.5- Kuru temizleme yerleri,
 
 4.6 - Halk sağlığını koruma amaçlı haşere ile mücadele için kurulan ticari işyerleri.
 
-4.7- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.) 50 HP’den düşük motor gücü kullanan metalin fosfalt ile kaplama tesisleri
+**4.7- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.)** 50 HP’den düşük motor gücü kullanan metalin fosfalt ile kaplama tesisleri
 
-4.8- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.) 50 HP’den düşük motor gücü kullanan boru pazarlama, showroom ve pazarlama amaçlı üretim gösterisi,
+**4.8- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.)** 50 HP’den düşük motor gücü kullanan boru pazarlama, showroom ve pazarlama amaçlı üretim gösterisi,
 
-4.9- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.) Temel eczacılık ürünleri imalat tesisleri,
+**4.9- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.)** Temel eczacılık ürünleri imalat tesisleri,
 
 ### 5-PETROKİMYA SANAYİİ
 
-5.1- ( Değişik: 29/6/2010 – 2010/671 K.) Köy pompası ile içerisinde yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla kullanılan 8 m 3 ’e kadar depolama hacmine sahip depolama tesis ve düzenekleri,
+**5.1- ( Değişik: 29/6/2010 – 2010/671 K.)** Köy pompası ile içerisinde yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla kullanılan 8 m 3 ’e kadar depolama hacmine sahip depolama tesis ve düzenekleri,
 
 5.2 - Film halindeki plastikten naylon torba ve benzeri eşya yapan yerler,
 
@@ -3506,61 +3506,61 @@ depolama tesisleri,
 
 6.9 - Karbonat ve kabartma tozu üretim ve ambalajlama yerleri,
 
-6.10 - Hamur, yufka, bazlama, simit, poğaça, kadayıf, mantı, pasta, börek ve benzeri unlu mamullerin üretim yerleri,
+**6.10** - Hamur, yufka, bazlama, simit, poğaça, kadayıf, mantı, pasta, börek ve benzeri unlu mamullerin üretim yerleri,
 
-6.11 - Kapasitesi 1 ton / günden az olan dondurma imal yerleri,
+**6.11** - Kapasitesi 1 ton / günden az olan dondurma imal yerleri,
 
-6.12- Dondurma külahı üretim yerleri
+**6.12-** Dondurma külahı üretim yerleri
 
-6.13- 10 HP’den az motor gücü kullanan balık temizleme (kılçık ayıklama) tesisleri ve soğuk hava depoları,
+**6.13-** 10 HP’den az motor gücü kullanan balık temizleme (kılçık ayıklama) tesisleri ve soğuk hava depoları,
 
-6.13.1- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.) Midye dolma imalathaneleri,
+**6.13.1- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.)** Midye dolma imalathaneleri,
 
-6.14- Süt depolama ve soğutma yerleri,
+**6.14-** Süt depolama ve soğutma yerleri,
 
 4767
 
-6.15 - Hazır preparatlardan karıştırılarak içecek yapılan yerler,
+**6.15** - Hazır preparatlardan karıştırılarak içecek yapılan yerler,
 
-6.16 - Gıda katkı maddesi paketleme yerleri,
+**6.16** - Gıda katkı maddesi paketleme yerleri,
 
-6.17 - Dışarıya servis yaparak günde 500 adet/kişi den az yemek üretimi yapan yerler,
+**6.17** - Dışarıya servis yaparak günde 500 adet/kişi den az yemek üretimi yapan yerler,
 
-6.18 - (Değişik: 29/6/2010 – 2010/671 K.) Sanayi bölgeleri ile mesken amacıyla kullanılmayan müstakil binalarda kurulan süpermarket, hipermarket, grossmarket ve megamarketlerin bünyesinde, kendi müşterilerine satış yapan ve işyerinin bütünlüğünden duvar, bölme, bölüm ve benzeri şekilde ayrılmış bir şekilde üretim yapılan, elektrik enerjisi veya doğalgaz kullanılarak ekmek ve ekmek çeşitleri üreten işyerleri,
+**6.18 - (Değişik: 29/6/2010 – 2010/671 K.)** Sanayi bölgeleri ile mesken amacıyla kullanılmayan müstakil binalarda kurulan süpermarket, hipermarket, grossmarket ve megamarketlerin bünyesinde, kendi müşterilerine satış yapan ve işyerinin bütünlüğünden duvar, bölme, bölüm ve benzeri şekilde ayrılmış bir şekilde üretim yapılan, elektrik enerjisi veya doğalgaz kullanılarak ekmek ve ekmek çeşitleri üreten işyerleri,
 
-6 . 19 - ( Değişik: 19/3/2007-2007/11882 K.) Günlük üretimi 1000 kg/günden az olan ekmek, sade pide ve ekmek çeşitleri üreten büyükşehir belediyesi sınırları içinde en az 250 m2, büyükşehir belediyesi olmayan illerde en az 200 m2, köy, belde ve ilçe belediye sınırları içinde en az 100 m2 olması zorunlu yerler,
+**6 . 19 - ( Değişik: 19/3/2007-2007/11882 K.)** Günlük üretimi 1000 kg/günden az olan ekmek, sade pide ve ekmek çeşitleri üreten büyükşehir belediyesi sınırları içinde en az 250 m2, büyükşehir belediyesi olmayan illerde en az 200 m2, köy, belde ve ilçe belediye sınırları içinde en az 100 m2 olması zorunlu yerler,
 
-6 . 20- Mekanik olarak ve sızdırma yolu ile yağ imal yerleri ile 25 ton/yıl kapasiteden az bitkisel ve hayvansal yağ depolama ve dolum yerleri,
+**6 . 20-** Mekanik olarak ve sızdırma yolu ile yağ imal yerleri ile 25 ton/yıl kapasiteden az bitkisel ve hayvansal yağ depolama ve dolum yerleri,
 
-6 . 21- Mısır çerezi üretim tesisleri,
+**6 . 21-** Mısır çerezi üretim tesisleri,
 
-6.22 - 500 kg/gün ve altında kapasitedeki bal dolum ve paketleme tesisleri,
+**6.22 -** 500 kg/gün ve altında kapasitedeki bal dolum ve paketleme tesisleri,
 
-6.23- Yumurta paketleme yerleri,
+**6.23-** Yumurta paketleme yerleri,
 
-6.24- 500 kg/gün altında kapasitedeki haşhaş öğütme ve ezme tesisi,
+**6.24-** 500 kg/gün altında kapasitedeki haşhaş öğütme ve ezme tesisi,
 
-6.25- 500 kg/gün altında kapasitedeki fermente gıda (turşu, şalgam, sirke vb.) ürünleri üreten tesisler,
+**6.25-** 500 kg/gün altında kapasitedeki fermente gıda (turşu, şalgam, sirke vb.) ürünleri üreten tesisler,
 
-6.26 - 500 kg/gün altında kapasitedeki çay paketleme tesisi,
+**6.26** - 500 kg/gün altında kapasitedeki çay paketleme tesisi,
 
-6.27 - Et parçalama ve mamul madde üretim tesisi.
+**6.27** - Et parçalama ve mamul madde üretim tesisi.
 
-6.28 - (Ek: 29/6/2010 – 2010/671 K.) 500 kg/gün altındaki fındık, ballı fındık, fıstık, badem, ceviz ezmesi dolum ve paketleme tesisleri,
+**6.28 - (Ek: 29/6/2010 – 2010/671 K.)** 500 kg/gün altındaki fındık, ballı fındık, fıstık, badem, ceviz ezmesi dolum ve paketleme tesisleri,
 
-6.29 - (Ek: 29/6/2010 – 2010/671 K.) Çemen üretim tesisleri.
+**6.29 - (Ek: 29/6/2010 – 2010/671 K.)** Çemen üretim tesisleri.
 
-6.30- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.) Mineralli su alım tesisleri,
+**6.30- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.)** Mineralli su alım tesisleri,
 
-6.31- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.) Çiğköfte imalathaneleri,
+**6.31- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.)** Çiğköfte imalathaneleri,
 
-6.32- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.) Mekanik usullerle domates ve biber salçası üretimi ve paketleme tesisleri,
+**6.32- (Ek: RG-25/8/2022-31934-C.K-5987/14 md.)** Mekanik usullerle domates ve biber salçası üretimi ve paketleme tesisleri,
 
-6.33 - (Ek:RG-11/12/2025-33104-CK-10681/28 md.) Zeytin işleme ve/veya zeytinyağı üretimi yapılmayan zeytin paketleme tesisleri,
+**6.33 - (Ek:RG-11/12/2025-33104-CK-10681/28 md.)** Zeytin işleme ve/veya zeytinyağı üretimi yapılmayan zeytin paketleme tesisleri,
 
 ### 6/A-ATIK İŞLEME SANAYİ (Ek: RG-25/8/2022-31934-C.K-5987/15 md.)
 
-6/A.1- (Ek: RG-25/8/2022-31934-C.K-5987/15 md.) 20 ton altında kapasitesi olan deniz araçlarından kaynaklanan atıkların toplanması tesisleri,
+**6/A.1- (Ek: RG-25/8/2022-31934-C.K-5987/15 md.)** 20 ton altında kapasitesi olan deniz araçlarından kaynaklanan atıkların toplanması tesisleri,
 
 ### 7-TEKSTİL SANAYİİ
 
@@ -3574,7 +3574,7 @@ depolama tesisleri,
 
 7.5 - Mamul süngerden eşya imal yeri.
 
-7.6 - (Ek:RG-11/12/2025-33104-CK-10681/29 md.) Firma ve markaların satış döngüsüne dahil edemediği (defolu, üretim hatalı) ürünlerin ayrıştırılıp kusurlarının tespit edildiği, tespit edilen kusurların tadilatlarının yapıldığı ve herhangi bir üretim olmayan tesisler,
+**7.6 - (Ek:RG-11/12/2025-33104-CK-10681/29 md.)** Firma ve markaların satış döngüsüne dahil edemediği (defolu, üretim hatalı) ürünlerin ayrıştırılıp kusurlarının tespit edildiği, tespit edilen kusurların tadilatlarının yapıldığı ve herhangi bir üretim olmayan tesisler,
 
 ### 8-DİĞERLERİ
 
@@ -3584,31 +3584,31 @@ depolama tesisleri,
 
 8.3 - Halı, elbise ve çamaşır yıkama ve temizleme yerleri,
 
-8.3.1- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Halı yıkama yerleri için aşağıdaki ilave şartlar aranır:
+**8.3.1- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Halı yıkama yerleri için aşağıdaki ilave şartlar aranır:
 
-8.3.1.1- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Toplam faaliyet alanı 250 metrekareden az olmayacaktır.
+**8.3.1.1- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Toplam faaliyet alanı 250 metrekareden az olmayacaktır.
 
-8.3.1.2- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) İdari büro, kabul yeri, depo, toz alma bölümü, yıkama bölümü (ıslak zemin), havalandırma (askı) bölümü, kışlık kurutma bölümü, sarım, son kontrol ve paketleme bölümü, tasnif ve sevkiyat bölümü ile kapasiteye uygun sosyal bölümler (mutfak, personel giyim, wc, duş ve benzeri.) bulunacaktır.
+**8.3.1.2- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** İdari büro, kabul yeri, depo, toz alma bölümü, yıkama bölümü (ıslak zemin), havalandırma (askı) bölümü, kışlık kurutma bölümü, sarım, son kontrol ve paketleme bölümü, tasnif ve sevkiyat bölümü ile kapasiteye uygun sosyal bölümler (mutfak, personel giyim, wc, duş ve benzeri.) bulunacaktır.
 
-8.3.1.3- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Sipariş alma, iletişim ve kayıt takibine uygun bilişim (bilgisayar, tablet ve benzeri.) sistem bulunacaktır.
+**8.3.1.3- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Sipariş alma, iletişim ve kayıt takibine uygun bilişim (bilgisayar, tablet ve benzeri.) sistem bulunacaktır.
 
-8.3.1.4- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Toz dolabı, konveyörlü ve çırpmalı toz alma makinesi, döner fırçalı ve yüksek vakumlu sanayi süpürgesi bulunacaktır.
+**8.3.1.4- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Toz dolabı, konveyörlü ve çırpmalı toz alma makinesi, döner fırçalı ve yüksek vakumlu sanayi süpürgesi bulunacaktır.
 
-8.3.1.5- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) El fırçası (takoz destekli saplı veya sapsız el fırçası), halı sıyırma aparatları (gelberi ve benzeri.), manuel motorlu yıkama makinesi (meç), otomasyonlu halı yıkama makinesi (zemin tipi veya konveyör bantlı) bulunacaktır.
+**8.3.1.5- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** El fırçası (takoz destekli saplı veya sapsız el fırçası), halı sıyırma aparatları (gelberi ve benzeri.), manuel motorlu yıkama makinesi (meç), otomasyonlu halı yıkama makinesi (zemin tipi veya konveyör bantlı) bulunacaktır.
 
-8.3.1.6- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Kazan tipi santrifüj, rulo tipi santrifüj ve halıdan su uzaklaştırma sistemi (vakum ve benzeri.) bulunacaktır.
+**8.3.1.6- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Kazan tipi santrifüj, rulo tipi santrifüj ve halıdan su uzaklaştırma sistemi (vakum ve benzeri.) bulunacaktır.
 
-8.3.1.7- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Toz, is, duman ve güneşten korunaklı açık alan halı askı sistemi ve kapalı alan ısı yalıtımlı kurutma odası bulunacaktır.
+**8.3.1.7- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Toz, is, duman ve güneşten korunaklı açık alan halı askı sistemi ve kapalı alan ısı yalıtımlı kurutma odası bulunacaktır.
 
-8.3.1.8- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Son kontrol, sarım ve ambalajlama işlemleri için kontrol ve sarım masası, hav alma ve sarım makinesi, endüstriyel vakumlu fırçalı süpürge, poşet, hurç veya diğer ambalajlama sistemleri ve panelvan tipi taşıma aracı bulunacaktır.
+**8.3.1.8- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Son kontrol, sarım ve ambalajlama işlemleri için kontrol ve sarım masası, hav alma ve sarım makinesi, endüstriyel vakumlu fırçalı süpürge, poşet, hurç veya diğer ambalajlama sistemleri ve panelvan tipi taşıma aracı bulunacaktır.
 
-8.3.1.9- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Sıcak ve soğuk su tertibatı bulunacaktır.
+**8.3.1.9- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Sıcak ve soğuk su tertibatı bulunacaktır.
 
-8.3.1.10- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) En az 2 ton kapasiteli su deposu bulunacaktır.
+**8.3.1.10- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** En az 2 ton kapasiteli su deposu bulunacaktır.
 
-8.3.1.11- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Basınçlı temiz su temini için hidrofor ve benzeri sistem bulunacaktır.
+**8.3.1.11- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Basınçlı temiz su temini için hidrofor ve benzeri sistem bulunacaktır.
 
-8.3.1.12- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) En az 1 metreküp kapasiteli atık su çökeltme havuzu bulunacaktır.
+**8.3.1.12- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** En az 1 metreküp kapasiteli atık su çökeltme havuzu bulunacaktır.
 
 8.4- 50 HP gücünden az motor gücü kullanan veya motor kullanmaksızın iptidai usullerle çalışılan her nevi ağaç eşya imal, işleme ve tamir yerleri
 
@@ -3624,85 +3624,85 @@ depolama tesisleri,
 
 8.9- Otomobil yıkama tesisleri,
 
-8.10 -Oto lastik tamir atölyeleri,
+**8.10** -Oto lastik tamir atölyeleri,
 
-8.11 - Mobilya ve oto döşeme atölyeleri,
+**8.11** - Mobilya ve oto döşeme atölyeleri,
 
-8.12 - 50 HP’den az motor gücü kullanan ve işlenmiş deriden eşya imal eden yerler,
+**8.12** - 50 HP’den az motor gücü kullanan ve işlenmiş deriden eşya imal eden yerler,
 
-8.13 - Bir üretim periyodunda 500-20.000 adet arası tavuk, 500-30.000 adet arası piliç veya eş değeri diğer kanatlı kapasitedeki tavuk veya piliç yetiştirme tesisleri, 30 kg ve üzeri, 10-1.000 adet arası domuz besi çiftlikleri ve 5-300 baş arası dişi domuz üretim çiftlikleri, 20 – 500 adet arası büyükbaş ve 100-1.000 adet arası kapasitedeki küçükbaş ve büyükbaş besi tesisleri,
+**8.13** - Bir üretim periyodunda 500-20.000 adet arası tavuk, 500-30.000 adet arası piliç veya eş değeri diğer kanatlı kapasitedeki tavuk veya piliç yetiştirme tesisleri, 30 kg ve üzeri, 10-1.000 adet arası domuz besi çiftlikleri ve 5-300 baş arası dişi domuz üretim çiftlikleri, 20 – 500 adet arası büyükbaş ve 100-1.000 adet arası kapasitedeki küçükbaş ve büyükbaş besi tesisleri,
 
-8.14- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) İkinci el motorlu kara taşıtı ticareti yapılan iş yerleri:
+**8.14- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** İkinci el motorlu kara taşıtı ticareti yapılan iş yerleri:
 
-8.14.1- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Öncelikle faaliyet konusuyla ilgili toplu iş yerlerinde açılması esastır.
+**8.14.1- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Öncelikle faaliyet konusuyla ilgili toplu iş yerlerinde açılması esastır.
 
-8.14.2- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Tapu kütüğünde dükkân, mağaza, ofis ve büro gibi iş yeri niteliğini haiz bağımsız bölüm olacaktır.
+**8.14.2- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Tapu kütüğünde dükkân, mağaza, ofis ve büro gibi iş yeri niteliğini haiz bağımsız bölüm olacaktır.
 
-8.14.3- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Ana gayrimenkulün kayıtlı bulunduğu tapu kütüğünde, mesken olarak gösterilen bağımsız bölüm bulunmayacaktır.
+**8.14.3- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Ana gayrimenkulün kayıtlı bulunduğu tapu kütüğünde, mesken olarak gösterilen bağımsız bölüm bulunmayacaktır.
 
-8.14.4- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Açık ve kapalı faaliyet alanı büyüklüğü, en az altmış metrekaresi teşhir alanı olmak kaydıyla seksen metrekareden az olmayacaktır.
+**8.14.4- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Açık ve kapalı faaliyet alanı büyüklüğü, en az altmış metrekaresi teşhir alanı olmak kaydıyla seksen metrekareden az olmayacaktır.
 
-8.14.5- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Kapalı teşhir alanında sıvılaştırılmış petrol gazı ve sıvılaştırılmış veya sıkıştırılmış doğalgaz kullanan araç bulundurulmayacaktır.
+**8.14.5- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Kapalı teşhir alanında sıvılaştırılmış petrol gazı ve sıvılaştırılmış veya sıkıştırılmış doğalgaz kullanan araç bulundurulmayacaktır.
 
-8.14.6- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Giriş ve çıkış kapısı kolay tahliyeye imkan verecek nitelikte olacaktır.
+**8.14.6- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Giriş ve çıkış kapısı kolay tahliyeye imkan verecek nitelikte olacaktır.
 
-8.14.7- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Çevreye, altyapıya ve trafiğe getirdiği yük ile can ve mal güvenliği riskine ilişkin Valilik görüşü alınacaktır. (Ek cümle:RG-10/10/2024-32688-C.K-9016/1 md.) Tamamı için valilik görüşü alınmış olan toplu iş yerlerindeki ikinci el motorlu kara taşıtı ticareti yapılan iş yerleri için ayrıca valilik görüşü aranmaz.
+**8.14.7- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Çevreye, altyapıya ve trafiğe getirdiği yük ile can ve mal güvenliği riskine ilişkin Valilik görüşü alınacaktır. **(Ek cümle:RG-10/10/2024-32688-C.K-9016/1 md.)** Tamamı için valilik görüşü alınmış olan toplu iş yerlerindeki ikinci el motorlu kara taşıtı ticareti yapılan iş yerleri için ayrıca valilik görüşü aranmaz.
 
-8.14.8- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Aynı iş yerinde en fazla iki tacir veya esnaf ve sanatkâr ikinci el motorlu kara taşıtı ticaretiyle iştigal edecektir. Bu durumda, iş yerinin açık ve kapalı faaliyet alanı büyüklüğü, en az yüz yirmi metrekaresi teşhir alanı olmak kaydıyla yüz altmış metrekareden az olmayacaktır.
+**8.14.8- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Aynı iş yerinde en fazla iki tacir veya esnaf ve sanatkâr ikinci el motorlu kara taşıtı ticaretiyle iştigal edecektir. Bu durumda, iş yerinin açık ve kapalı faaliyet alanı büyüklüğü, en az yüz yirmi metrekaresi teşhir alanı olmak kaydıyla yüz altmış metrekareden az olmayacaktır.
 
-8.14.9- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) İş yerinde ikinci el motorlu kara taşıtı ticaretinden başka ticari faaliyette bulunulmayacaktır. Bu hüküm, ikinci el motorlu kara taşıtı ticareti yapılan iş yerlerine ilişkin diğer şartların karşılanması kaydıyla, işyeri açma ve çalışma ruhsatındaki ana faaliyet konusu ilk tescil motorlu kara taşıtı ticareti olan işletmelere uygulanmaz.
+**8.14.9- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** İş yerinde ikinci el motorlu kara taşıtı ticaretinden başka ticari faaliyette bulunulmayacaktır. Bu hüküm, ikinci el motorlu kara taşıtı ticareti yapılan iş yerlerine ilişkin diğer şartların karşılanması kaydıyla, işyeri açma ve çalışma ruhsatındaki ana faaliyet konusu ilk tescil motorlu kara taşıtı ticareti olan işletmelere uygulanmaz.
 
-8.14.10- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Mali sorumluluk sigortası yaptırılacaktır.
+**8.14.10- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Mali sorumluluk sigortası yaptırılacaktır.
 
-8.14.11- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) İdari büro ve kabul yeri ile taşıt teşhir alanı aynı adreste olacak ve iş yerinin bulunduğu ana gayrimenkulün ortak kullanım alanları taşıt teşhir alanı olarak kullanılmayacaktır. (Ek cümleler:RG-10/10/2024-32688-C.K-9016/2 md.) Ancak toplu iş yerleri parselinin veya parsellerinin içinde bulunan eklentilerde veya kat maliklerinin oy birliği kararı ile 634 sayılı Kanun kapsamındaki ortak yerlerde idari büro ve kabul yeri ile ilişkilendirilecek yerler, taşıt teşhir alanı olarak kullanılabilecektir. Bu şekilde belirlenmiş alanlar 8.14.4 numaralı alt maddede belirtilen taşıt teşhir alanı hesabında dikkate alınır.
+**8.14.11- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** İdari büro ve kabul yeri ile taşıt teşhir alanı aynı adreste olacak ve iş yerinin bulunduğu ana gayrimenkulün ortak kullanım alanları taşıt teşhir alanı olarak kullanılmayacaktır. **(Ek cümleler:RG-10/10/2024-32688-C.K-9016/2 md.)** Ancak toplu iş yerleri parselinin veya parsellerinin içinde bulunan eklentilerde veya kat maliklerinin oy birliği kararı ile 634 sayılı Kanun kapsamındaki ortak yerlerde idari büro ve kabul yeri ile ilişkilendirilecek yerler, taşıt teşhir alanı olarak kullanılabilecektir. Bu şekilde belirlenmiş alanlar 8.14.4 numaralı alt maddede belirtilen taşıt teşhir alanı hesabında dikkate alınır.
 
-8.14.12- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Açık ve kapalı faaliyet alanı dışında yol, kaldırım ve benzeri yerlerde motorlu kara taşıtı teşhir edilmeyecektir.
+**8.14.12- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Açık ve kapalı faaliyet alanı dışında yol, kaldırım ve benzeri yerlerde motorlu kara taşıtı teşhir edilmeyecektir.
 
-8.14.13- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Faaliyet sınıfı için aranması gereken genel şartlar ile bu alt bölümün ilgili alt maddelerindeki özel şartlar, işyeri açma ve çalışma ruhsatı verilmeden önce yerinde kontrol edilecektir.
+**8.14.13- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Faaliyet sınıfı için aranması gereken genel şartlar ile bu alt bölümün ilgili alt maddelerindeki özel şartlar, işyeri açma ve çalışma ruhsatı verilmeden önce yerinde kontrol edilecektir.
 
-8.15- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Her türlü motorlu araç testi ve incelemesi yapan ekspertiz yerleri,
+**8.15- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Her türlü motorlu araç testi ve incelemesi yapan ekspertiz yerleri,
 
-8.16- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Motorlu kara taşıtı kiralama işletmeleri:
+**8.16- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Motorlu kara taşıtı kiralama işletmeleri:
 
-8.16.1- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) İdari büro ile taşıtların bekletildiği yerin aynı yerde olması halinde faaliyet konusuyla uyumlu olacak şekilde 8.14.1, 8.14.2, 8.14.3, 8.14.5, 8.14.6, 8.14.7, 8.14.10, 8.14.12 ve 8.14.13 alt maddelerindeki hükümlere tabidir. Ancak idari büro ile taşıtların bekletildiği yerin farklı yerlerde olması halinde bu şartlar yalnızca taşıtların bekletildiği yer için aranır.
+**8.16.1- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** İdari büro ile taşıtların bekletildiği yerin aynı yerde olması halinde faaliyet konusuyla uyumlu olacak şekilde 8.14.1, 8.14.2, 8.14.3, 8.14.5, 8.14.6, 8.14.7, 8.14.10, 8.14.12 ve 8.14.13 alt maddelerindeki hükümlere tabidir. Ancak idari büro ile taşıtların bekletildiği yerin farklı yerlerde olması halinde bu şartlar yalnızca taşıtların bekletildiği yer için aranır.
 
-8.16.2- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) Taşıtların bekletildiği yer, taşıt başına on metrekareden az olamaz.
+**8.16.2- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** Taşıtların bekletildiği yer, taşıt başına on metrekareden az olamaz.
 
-8.16.3- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.) İş yerinde taşıt kiralama faaliyetinden başka ticari faaliyette bulunulmayacaktır.
+**8.16.3- (Ek:RG-9/6/2020-31150-C.K-2626/14 md.)** İş yerinde taşıt kiralama faaliyetinden başka ticari faaliyette bulunulmayacaktır.
 
-8.17- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) Nükleer tıpta kullanılan radyoaktif referans ve kalibrasyon kaynakları üretim tesisleri,
+**8.17- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** Nükleer tıpta kullanılan radyoaktif referans ve kalibrasyon kaynakları üretim tesisleri,
 
-8.18- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) Orta gerilim indirici şalt merkezi, sayaç kalibrasyon birimi ve çalışma ofisleri,
+**8.18- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** Orta gerilim indirici şalt merkezi, sayaç kalibrasyon birimi ve çalışma ofisleri,
 
-8.19- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) Binicilik tesisleri,
+**8.19- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** Binicilik tesisleri,
 
-8.20- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) Kedi veya köpek çiftlikleri,
+**8.20- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** Kedi veya köpek çiftlikleri,
 
-8.21- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) Kanatlı süs hayvanı yetiştiriciliği tesisleri,
+**8.21- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** Kanatlı süs hayvanı yetiştiriciliği tesisleri,
 
-8.22- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) Distile su üretim tesisleri,
+8.22- **(Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** Distile su üretim tesisleri,
 
-8.23- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) 50 HP’den düşük motor gücü kullanan karton bardak imalat tesisleri,
+**8.23- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** 50 HP’den düşük motor gücü kullanan karton bardak imalat tesisleri,
 
-8.24- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) 50 HP’den düşük motor gücü kullanan rulo sac açma, doğrultma, boy kesme işlemi ve çelik konstrüksiyon üretim tesisleri,
+**8.24- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** 50 HP’den düşük motor gücü kullanan rulo sac açma, doğrultma, boy kesme işlemi ve çelik konstrüksiyon üretim tesisleri,
 
-8.25- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) 50 HP’den düşük motor gücü kullanan römork çelik konstrüksiyon imalat tesisleri,
+**8.25- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** 50 HP’den düşük motor gücü kullanan römork çelik konstrüksiyon imalat tesisleri,
 
-8.26- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) Oto kurtarma ve yol yardım hizmetleri,
+**8.26- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** Oto kurtarma ve yol yardım hizmetleri,
 
-8.27- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.) Ev ve süs hayvanı üretim, satış ve eğitim tesisleri,
+**8.27- (Ek: RG-25/8/2022-31934-C.K-5987/16 md.)** Ev ve süs hayvanı üretim, satış ve eğitim tesisleri,
 
-8.28- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Otomobil parçalarına kalite kontrol faaliyeti yapılan tesisler (enjektör parçalarının kalite kontrol işlemi fiziki olarak yapılıyorsa),
+**8.28- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Otomobil parçalarına kalite kontrol faaliyeti yapılan tesisler (enjektör parçalarının kalite kontrol işlemi fiziki olarak yapılıyorsa),
 
-8.29- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Organik maddelerle yüzey muamelesi yapan tesisler;
+**8.29- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Organik maddelerle yüzey muamelesi yapan tesisler;
 
-8.29.1- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Toplam organik çözücü içeriği 25 kg/saat altı boya, cila ve benzeri maddelerle malzemelerin boyandığı, cilalandığı ve/veya kurutulduğu tesisler,
+**8.29.1- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Toplam organik çözücü içeriği 25 kg/saat altı boya, cila ve benzeri maddelerle malzemelerin boyandığı, cilalandığı ve/veya kurutulduğu tesisler,
 
-8.29.2- (Ek:RG-11/12/2025-33104-CK-10681/30 md.) Toplam organik çözücü içeriği 25 kg/saat altı boya ve benzeri maddeler kullanarak malzemelerin döner baskı makineleri ile basıldığı ve/veya kurutulduğu tesisler,
+**8.29.2- (Ek:RG-11/12/2025-33104-CK-10681/30 md.)** Toplam organik çözücü içeriği 25 kg/saat altı boya ve benzeri maddeler kullanarak malzemelerin döner baskı makineleri ile basıldığı ve/veya kurutulduğu tesisler,
 
 ### EK-3
 
-(Değişik:RG-11/12/2025-33104-CK-10681/31 md.)
+**(Değişik:RG-11/12/2025-33104-CK-10681/31 md.)**
 
 ### UMUMA AÇIK İSTİRAHAT VE EĞLENCE YERLERİ LİSTESİ *
 
@@ -3762,7 +3762,7 @@ depolama tesisleri,
 
 1.9- Benzeri içkili yerler.
 
-Ç) KUMAR VE KAZANÇ KASTI OLMAMAK ŞARTIYLA ADI NE OLURSA OLSUN BİLGİ VE MAHARET ARTIRICI VEYA ZEKÂ GELİŞTİRİCİ NİTELİKTEKİ ELEKTRONİK OYUN ALET VE MAKİNELERİNİN, VİDEO VE TELEVİZYON OYUNLARININ İÇİNDE BULUNDUĞU ELEKTRONİK OYUN YERLERİ:
+**Ç) KUMAR VE KAZANÇ KASTI OLMAMAK ŞARTIYLA ADI NE OLURSA OLSUN BİLGİ VE MAHARET ARTIRICI VEYA ZEKÂ GELİŞTİRİCİ NİTELİKTEKİ ELEKTRONİK OYUN ALET VE MAKİNELERİNİN, VİDEO VE TELEVİZYON OYUNLARININ İÇİNDE BULUNDUĞU ELEKTRONİK OYUN YERLERİ:**
 
 1.1- Elektronik oyun salonu.
 
@@ -3804,7 +3804,7 @@ depolama tesisleri,
 
 4768-1/4769
 
-14 /7/2005 TARİHLİ VE 2005//9207 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE
+**14 /7/2005 TARİHLİ VE 2005//9207 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE**
 
 | Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Kararnamenin | 14/7/2005 Tarihli Yönetmeliğin Değişen Maddeleri | Yürürlüğe Giriş Tarihi |
 | Tarihi | Numarası |

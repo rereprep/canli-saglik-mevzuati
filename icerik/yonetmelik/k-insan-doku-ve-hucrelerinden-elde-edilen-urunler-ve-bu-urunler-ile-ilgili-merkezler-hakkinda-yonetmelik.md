@@ -20,7 +20,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -146,7 +146,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Yetkili Merciler ve Komisyonlar
+**Yetkili Merciler ve Komisyonlar**
 
 #### Yetkili merciler
 
@@ -220,7 +220,7 @@ f) Bakanlıkça ihtiyaç duyulan diğer konular.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Doku ve Hücre Koordinasyon Merkezi ve TÜSEB’in Yetkileri
+**Doku ve Hücre Koordinasyon Merkezi ve TÜSEB’in Yetkileri**
 
 #### Doku ve Hücre Koordinasyon Merkezi
 
@@ -234,7 +234,7 @@ Doku ve Hücre Koordinasyon Merkezi ve TÜSEB’in Yetkileri
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Merkezlerin Çeşitleri ve Açılması
+**Merkezlerin Çeşitleri ve Açılması**
 
 #### Merkezlerin çeşitleri ve açılması
 
@@ -256,7 +256,7 @@ c) İnsana uygulama merkezi.
 
 ### BEŞİNCİ BÖLÜM
 
-Doku ve Hücre Kaynağı Merkezleri
+**Doku ve Hücre Kaynağı Merkezleri**
 
 #### Doku ve hücre kaynağı merkezleri ve faaliyetleri
 
@@ -398,7 +398,7 @@ b) Biyovijilans sisteminin gereklerini yerine getirmek.
 
 ### ALTINCI BÖLÜM
 
-Doku ve Hücre Merkezleri
+**Doku ve Hücre Merkezleri**
 
 #### Doku ve hücre merkezleri ve faaliyetleri
 
@@ -684,7 +684,7 @@ h) İşleme-üretim yapılmak üzere uygun görülen doku ve hücreler, sözleş
 
 ### YEDİNCİ BÖLÜM
 
-İnsana Uygulama Merkezleri
+**İnsana Uygulama Merkezleri**
 
 #### İnsana uygulama merkezleri
 
@@ -750,7 +750,7 @@ b) Biyovijilans sisteminin gereklerini yerine getirmek.
 
 ### SEKİZİNCİ BÖLÜM
 
-Kalite Yönetim Sistemi, Cihaz ve Malzeme Standartları ve İzlenebilirlik
+**Kalite Yönetim Sistemi, Cihaz ve Malzeme Standartları ve İzlenebilirlik**
 
 #### Kalite yönetim sistemi
 
@@ -940,7 +940,7 @@ f) Yetkili merci, gerekli gördüğü durumlarda merkezlerin sözleşme yaptığ
 
 ### DOKUZUNCU BÖLÜM
 
-Ürün İadeleri, Geri Çağırma ve İmha İşlemleri
+**Ürün İadeleri, Geri Çağırma ve İmha İşlemleri**
 
 #### Ürünlerin iade işlemleri
 
@@ -1004,7 +1004,7 @@ f) Yetkili merci, gerekli gördüğü durumlarda merkezlerin sözleşme yaptığ
 
 ### ONUNCU BÖLÜM
 
-Ulusal Doku ve Hücre Rezervi, Uygulama Esasları ve Ücretlendirme
+**Ulusal Doku ve Hücre Rezervi, Uygulama Esasları ve Ücretlendirme**
 
 #### Ulusal doku ve hücre rezervi
 
@@ -1038,7 +1038,7 @@ Ulusal Doku ve Hücre Rezervi, Uygulama Esasları ve Ücretlendirme
 
 ### ON BİRİNCİ BÖLÜM
 
-Denetim ve Yasaklar
+**Denetim ve Yasaklar**
 
 #### Denetim ve kontrol
 
@@ -1086,7 +1086,7 @@ h) Yetkili merciden izin almayanlar insan doku ve hücrelerini yurt dışına ç
 
 ### ON İKİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Düzenleme yetkisi
 

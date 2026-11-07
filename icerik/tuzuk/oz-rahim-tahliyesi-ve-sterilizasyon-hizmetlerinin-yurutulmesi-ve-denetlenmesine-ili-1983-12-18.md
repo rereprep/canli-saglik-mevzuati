@@ -16,23 +16,23 @@ durum: "yürürlükte"
 
 ### TÜZÜK
 
-Bakanlar Kurulu Kararının Tarihi : 14/11/1983 No : 83/7395
+**Bakanlar Kurulu Kararının Tarihi : 14/11/1983 No : 83/7395**
 
-Dayandığı Kanunun Tarihi : 24/5/1983 No : 2827
+**Dayandığı Kanunun Tarihi : 24/5/1983 No : 2827**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 18/12/1983 No : 18255
+**Yayımlandığı Resmî Gazetenin Tarihi : 18/12/1983 No : 18255**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 23 S. :1636
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 23 S. :1636**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç ve Deyimler
+**Amaç ve Deyimler**
 
-Amaç:
+**Amaç:**
 
 **Madde 1 –** Bu Tüzüğün amacı, rahim tahliyesinde acil müdahale hallerinin nelerden ibaret olduğunu ve yapılacak ihbarların şekil ve mahiyetini, rahim tahliyesini ve sterilizasyonu kabul edenlerden istenecek izin belgesinin şeklini ve doldurulma esaslarını, rahim tahliyesi ve sterilizasyonun yapılacağı yerleri, bu yerlerde bulunması gereken sağlık koşulları ve diğer koşullarla buraların denetim ve gözetim esaslarını belirlemektir.
 
-Deyimler:
+**Deyimler:**
 
 **Madde 2 –** Bu Tüzükte geçen;
 
@@ -48,9 +48,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Rahim Tahliyesi
+**Rahim Tahliyesi**
 
-On haftayı geçmeyen gebeliklerde rahim tahliyesi:
+**On haftayı geçmeyen gebeliklerde rahim tahliyesi:**
 
 **Madde 3 –** Gebeliğin onuncu haftası doluncaya kadar kadının sağlığı açısından tıbbi sakınca olmadığı takdirde, istek üzerine rahim tahliye edilir.
 
@@ -58,7 +58,7 @@ Rahim tahliyesi, kadın hastalıkları ve doğum uzmanlarınca yapılır.
 
 Ancak, Bakanlıkça açılan eğitim merkezlerinde kurs görerek yeterlik, belgesi almış pratisyen hekimler, kadın hastalıkları ve doğum uzmanının denetim ve gözetiminde menstrüel regülasyon yöntemiyle rahim tahliyesi yapabilirler.
 
-On haftayı geçmeyen gebelikte rahim tahliyesinin yapılacağı yerler ve buralarda bulunması gereken koşullar:
+**On haftayı geçmeyen gebelikte rahim tahliyesinin yapılacağı yerler ve buralarda bulunması gereken koşullar:**
 
 **Madde 4 –** On haftayı geçmeyen gebelikte, rahim tahliyesini,
 
@@ -72,7 +72,7 @@ Anestezi gerektiren tahliyeler ise, anestezi uygulanabilen resmi tedavi kurumlar
 
 On haftayı geçmeyen gebelikte rahim tahliyesinin yapılacağı resmi tedavi kurumlarıyla özel hastanelerde ve kadın hastalıkları ve doğum uzmanlarının muayenehanelerinde, Tüzük'e ekli (1) sayılı listede yer alan araç ve gerecin bulunması zorunludur.
 
-On haftayı geçen gebelikte rahim tahliyesi:
+**On haftayı geçen gebelikte rahim tahliyesi:**
 
 **Madde 5 –** Gebelik süresi on haftayı geçen kadınlarda, rahim tahliyesi yapılamaz.
 
@@ -80,19 +80,19 @@ Bu durumdaki kadınlarda, ancak, Tüzük'e ekli (2) sayılı listede sayılan ha
 
 Rahim tahliyesini yapan hekim, bu raporu, ameliyenin sonucuyla birlikte en geç bir hafta içinde, illerde sağlık ve sosyal yardım müdürlüklerine, ilçelerde hükümet tabipliklerine göndermek zorundadır. Bu raporlar il sağlık ve sosyal yardım müdürlüğünde toplanır.
 
-On haftayı geçen gebelikte rahim tahliyesinin yapılacağı yerler ve buralarda bulunması gereken koşullar:
+**On haftayı geçen gebelikte rahim tahliyesinin yapılacağı yerler ve buralarda bulunması gereken koşullar:**
 
 **Madde 6 –** On haftayı geçen gebelikte, rahim tahliyesi, resmi yataklı tedavi kurumlarıyla özel hastanelerde yapılır.
 
 Buralarda, Tüzük'e ekli (3) sayılı listede yer alan araç, gereç ve personelin bulunması zorunludur.
 
-Acil hallerde rahim tahliyesi:
+**Acil hallerde rahim tahliyesi:**
 
 **Madde 7 –** Derhal müdahale edilmediği takdirde kadının hayatını ya da hayati organlarından birini tehdit eden acil hallerde rahim tahliye edilir.
 
 Bu durumda, rahim tahliyesi, kadın hastalıkları ve doğum uzmanlarınca yapılır.
 
-Rahim tahliyesini gerektiren acil haller:
+**Rahim tahliyesini gerektiren acil haller:**
 
 **Madde 8 –** Rahim tahliyesini gerektiren acil haller şunlardır:
 
@@ -102,7 +102,7 @@ b) Servikal internal osun açık olduğu haller,
 
 c) Uterustaki gebelik ürününün bir bölümünün düştüğü ve kanamanın devam ettiği haller ya da enfeksiyon tehlikesi.
 
-Acil hallerde rahim tahliyesinin yapılacağı yerler ve bildirme zorunluluğu:
+**Acil hallerde rahim tahliyesinin yapılacağı yerler ve bildirme zorunluluğu:**
 
 **Madde 9 –** Acil hallerde rahim tahliyesi, resmi yataklı tedavi kurumlarıyla özel hastanelerde yapılır. Ancak, kadının buralara taşınması olanaksızsa, ameliye, muayenehane, ev gibi hastanın bulunduğu yerlerde de yapılabilir.
 
@@ -110,9 +110,9 @@ Hekim, müdahaleyi yapmadan önce, olanaksızsa, müdahaleden itibaren en geç 2
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Sterilizasyon
+**Sterilizasyon**
 
-Sterilizasyon ameliyatı:
+**Sterilizasyon ameliyatı:**
 
 **Madde 10 –** Sterilizasyon ameliyatı, tıbbi sakınca olmaması koşuluyla ve reşit kişinin isteği üzerine yapılır.
 
@@ -120,19 +120,19 @@ Kadınlara sterilizasyon ameliyatı, kadın hastalıkları ve doğum ya da genel
 
 Erkeklere sterilizasyon ameliyatı, üroloji, kadın hastalıkları ve doğum yada genel cerrahi uzmanlarıyla bu konuda Bakanlıkça açılan eğitim merkezlerinde kurs görerek yeterlik belgesi almış pratisyen hekimlerce yapılır.
 
-Kadınlara sterilizasyonun yapılacağı yerler ve buralarda bulunması gereken koşullar:
+**Kadınlara sterilizasyonun yapılacağı yerler ve buralarda bulunması gereken koşullar:**
 
 **Madde 11 –** Kadınlara sterilizasyon ameliyatı, yalnızca, resmi tedavi kurumlarıyla özel hastanelerde yapılır. Buralarda, Tüzük'e ekli (4) sayılı listede yer alan araç, gereç ve personelin bulunması zorunludur.
 
-Erkeklere sterilizasyonun yapılacağı yerler ve buralarda bulunması gereken koşullar:
+**Erkeklere sterilizasyonun yapılacağı yerler ve buralarda bulunması gereken koşullar:**
 
 **Madde 12 –** Erkeklere sterilizasyon ameliyatını, uzman hekimler, mesleklerini uyguladıkları yerlerde, pratisyen hekimlerse, resmi tedavi kurumlarında yaparlar. Buralarda, Tüzük'e ekli (5) sayılı listede yer alan araç ve gereçlerin bulunması zorunludur.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
-İzin belgesi:
+**İzin belgesi:**
 
 **Madde 13 –** On haftayı geçmeyen gebeliklerde yapılacak rahim tahliyesinde, gebe kadın,
 
@@ -148,25 +148,25 @@ d) Evliyse eşinden,
 
 Evli kimseye sterilizasyon ameliyatının uygulanması, eşinden, ayrıca, izin belgesi alınmasına bağlıdır.
 
-İzin belgesi aranmayacak haller:
+**İzin belgesi aranmayacak haller:**
 
 **Madde 14 –** Akıl maluliyeti nedeniyle şuur serbestisine sahip olmayan gebe kadın hakkında rahim tahliyesi için kendi rızası aranmaz.
 
 Veli ya da sulh mahkemesinden izin alınmasının zamana ihtiyaç gösterdiği ve derhal müdahale edilmemesinin hayatı ve hayati organlardan birini tehdit ettiği acil hallerde izin şartı aranmaz.
 
-İzin belgesinin alınma yöntemi:
+**İzin belgesinin alınma yöntemi:**
 
 **Madde 15 –** İzin belgeleri, 13 üncü maddede sözü edilenlere, rahim tahliyesi ve sterilizasyon için başvurduklarında imzalatılır. Eşin, ya da vasinin gelmemesi halinde, bunların sterilizasyon ya da rahim tahliyesine izin verdiklerine ilişkin yazılı ve imzalı belge yeterli sayılır. Belgeyi getiren, imzanın sahibine ait olduğunun hukuki sorumluluğunu kabul ettiğine ilişkin bir belgeyi de imzalamak zorundadır.
 
-Gözetim ve denetim:
+**Gözetim ve denetim:**
 
 **Madde 16 –** Milli Savunma Bakanlığına bağlı olanlar ayrık olmak üzere, rahim tahliyesi ve sterilizasyon ameliyatının yapıldığı resmi ya da özel kurum ve kuruluşlarla gerçek ve tüzel kişilere ait muayenehane ve tedavi yerlerini gözetim ve denetim altında bulundurmak ve yönlendirmekle Bakanlık yetkili ve görevlidir.
 
-Yürürlük:
+**Yürürlük:**
 
 **Madde 17 –** 24/5/1983 günlü ve 2827 sayılı Nüfus Planlaması Hakkında Kanunun 5 inci maddesine dayanılarak hazırlanmış ve Danıştayca incelenmiş olan bu Tüzük hükümleri, Resmi Gazete'de yayımı gününde yürürlüğe girer.
 
-Yürütme:
+**Yürütme:**
 
 **Madde 18 –** Bu Tüzük hükümlerini Bakanlar Kurulu yürütür.
 

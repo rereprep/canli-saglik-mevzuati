@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/12/20081205-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-KAMU İHALE KANUNU İLE KAMU İHALE SÖZLEŞMELERİ KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**KAMU İHALE KANUNU İLE KAMU İHALE SÖZLEŞMELERİ KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 5812 Kabul Tarihi: 20/11/2008
 
 MADDE 1 – 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (b) bendi aşağıdaki şekilde; (e) bendinde yer alan “malzemeler” ibaresi “hizmetler” şeklinde değiştirilmiş, aynı bendin sonuna “ile araştırma-geliştirme faaliyetleri kapsamında Türkiye Bilimsel ve Teknolojik Araştırma Kurumundan yapacakları mal, hizmet ve danışmanlık hizmet alımları, et ve et ürünleri için Et ve Balık Kurumu Genel Müdürlüğünden, ray üstünde çeken ve çekilen araçlarda kullanılan monoblok tekerlek ve tekerlek takımları için Makine ve Kimya Endüstrisi Kurumu Genel Müdürlüğünden yapacakları alımlar” ibaresi eklenmiş; (f) bendi aşağıdaki şekilde değiştirilmiş; (h) bendinin sonuna “sağlık hizmeti sunan bu Kanun kapsamındaki idarelerin teşhis ve tedaviye yönelik olarak birbirlerinden yapacakları mal ve hizmet alımları,” ibaresi eklenmiş ve maddeye aşağıdaki (n) bendi eklenmiştir.

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/08/20180803-20.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN ASKERLİK KANUNU İLE DİĞER BAZI KANUNLARDA VE 663 SAYILI
-KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7146 Kabul Tarihi: 26/7/2018
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN ASKERLİK KANUNU İLE DİĞER BAZI KANUNLARDA VE 663 SAYILI**
+**KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7146 Kabul Tarihi: 26/7/2018**
 
 
 MADDE 1 – 21/6/1927 tarihli ve 1111 sayılı Askerlik Kanununun ek 1 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -77,7 +77,7 @@ MADDE 9 – 8/6/1994 tarihli ve 3996 sayılı Bazı Yatırım ve Hizmetlerin Yap
 MADDE 10 – 11/5/2000 tarihli ve 4566 sayılı Harp Okulları Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 6- Bu maddenin yürürlüğe girdiği tarihten itibaren 2020 yılı sonuna kadar harp okullarının ikinci, üçüncü ve dördüncü sınıflarına üniversitelerin ilgili bölümlerinden öğrenci alınabilir. Harp okullarına geçişe ilişkin usul ve esaslar Millî Savunma Bakanlığı ile Yükseköğretim Kurulu tarafından müştereken belirlenir.”
+**MADDE 6-** Bu maddenin yürürlüğe girdiği tarihten itibaren 2020 yılı sonuna kadar harp okullarının ikinci, üçüncü ve dördüncü sınıflarına üniversitelerin ilgili bölümlerinden öğrenci alınabilir. Harp okullarına geçişe ilişkin usul ve esaslar Millî Savunma Bakanlığı ile Yükseköğretim Kurulu tarafından müştereken belirlenir.”
 
 
 MADDE 11 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 40 ıncı maddesinin ikinci fıkrasında yer alan tabloya aşağıdaki sıra eklenmiştir.
@@ -100,7 +100,7 @@ MADDE 14 – 14/3/2007 tarihli ve 5602 sayılı Şans Oyunları Hasılatından A
 MADDE 15 – 5602 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 1- (1) Spor Toto Teşkilat Başkanlığı tarafından içinde bulunulan yılın ilgili ayında beyan edilip ödenen katma değer vergisi tutarından, bir önceki yılın aynı ayında beyan edilip ödenmiş olan katma değer vergisi tutarının Orta Vadeli Programda ilgili yıl için belirlenen nominal ekonomik büyüme tahmini oranında artırılmasıyla bulunan tutarın çıkarılmasından sonra kalan tutar, Spor Toto Teşkilat Başkanlığınca Türkiye’de kurulu bankalarda açılmış olan özel hesaba, ödemeyi takip eden beş iş günü içinde ilgili vergi dairesi tarafından 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu hükümlerine göre, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 23 üncü maddesi hükmü uygulanmaksızın red ve iade edilir.
+**MADDE 1-** (1) Spor Toto Teşkilat Başkanlığı tarafından içinde bulunulan yılın ilgili ayında beyan edilip ödenen katma değer vergisi tutarından, bir önceki yılın aynı ayında beyan edilip ödenmiş olan katma değer vergisi tutarının Orta Vadeli Programda ilgili yıl için belirlenen nominal ekonomik büyüme tahmini oranında artırılmasıyla bulunan tutarın çıkarılmasından sonra kalan tutar, Spor Toto Teşkilat Başkanlığınca Türkiye’de kurulu bankalarda açılmış olan özel hesaba, ödemeyi takip eden beş iş günü içinde ilgili vergi dairesi tarafından 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu hükümlerine göre, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 23 üncü maddesi hükmü uygulanmaksızın red ve iade edilir.
 (2) Özel hesaba aktarılan bu tutar, Spor Toto Teşkilat Başkanlığınca yatırım ve işletme giderleri olarak kullanılır ve yatırım ve işletme giderleri oranına dâhil edilir. Özel hesaptan amaç dışı kullanılan vergi iadeleri, amaç dışı kullanıldığı vergilendirme dönemine ilişkin katma değer vergisi olarak Spor Toto Teşkilat Başkanlığı adına 213 sayılı Kanundaki esaslara göre vergi ziyaı cezası kesilerek tarh edilir ve gecikme faizi hesaplanır.
 (3) Özel hesabın oluşturulması, idaresi, bu hesaba aktarılan tutarların kullanılması ve denetlenmesi ile bu maddenin uygulanmasına ilişkin diğer usul ve esasları belirlemeye Cumhurbaşkanlığı yetkilidir.”
 
@@ -108,7 +108,7 @@ MADDE 1- (1) Spor Toto Teşkilat Başkanlığı tarafından içinde bulunulan y�
 MADDE 16 – 5602 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 7- (1) Ek 1 inci maddenin uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanlığınca tespit edilinceye kadar 4 üncü maddede yer alan % 83 oranının % 59 olarak uygulanmasına devam edilir.”
+**MADDE 7-** (1) Ek 1 inci maddenin uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanlığınca tespit edilinceye kadar 4 üncü maddede yer alan % 83 oranının % 59 olarak uygulanmasına devam edilir.”
 
 
 MADDE 17 – 21/2/2008 tarihli ve 5738 sayılı Spor Müsabakalarına Dayalı Sabit İhtimalli ve Müşterek Bahis Oyunlarının Özel Hukuk Tüzel Kişilerine Yaptırılması Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (j) bendinde yer alan “davet edilenlerle” ibaresinden sonra gelmek üzere “teminata ilişkin hususların,” ibaresi eklenmiştir.
@@ -121,7 +121,7 @@ MADDE 18 – 5738 sayılı Kanunun 15 inci maddesinin beşinci fıkrasında yer 
 MADDE 19 – 11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 2- (1) Uluslararası sağlık hizmetleri alanında ülkemizde sunulan hizmetlerin tanıtımını yapmak, kamu ve özel sektörün sağlık turizmine yönelik faaliyetlerini desteklemek ve koordine etmek, uluslararası sağlık hizmetlerine ilişkin politika ve stratejiler ile hizmet sunum standartları ve akreditasyon kriterleri konusunda Bakanlığa önerilerde bulunmak üzere Uluslararası Sağlık Hizmetleri unvanı ile bir anonim şirket (USHAŞ) kurulmuştur. USHAŞ’ın ilgili olduğu bakanlık Sağlık Bakanlığıdır.
+**MADDE 2-** (1) Uluslararası sağlık hizmetleri alanında ülkemizde sunulan hizmetlerin tanıtımını yapmak, kamu ve özel sektörün sağlık turizmine yönelik faaliyetlerini desteklemek ve koordine etmek, uluslararası sağlık hizmetlerine ilişkin politika ve stratejiler ile hizmet sunum standartları ve akreditasyon kriterleri konusunda Bakanlığa önerilerde bulunmak üzere Uluslararası Sağlık Hizmetleri unvanı ile bir anonim şirket (USHAŞ) kurulmuştur. USHAŞ’ın ilgili olduğu bakanlık Sağlık Bakanlığıdır.
 (2) USHAŞ’ın faaliyet konuları şunlardır:
 a) Uluslararası sağlık hizmetleri alanında aracılık faaliyeti gösteren kurumlara yetki belgesi vermek.
 b) Ülkemizin sağlık hizmetlerinin uluslararası tanıtımını yapmak, bu alandaki tanıtım ve bilgilendirme faaliyetlerini koordine etmek, yönlendirmek ve desteklemek.

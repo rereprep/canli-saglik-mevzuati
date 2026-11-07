@@ -12,29 +12,29 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/10/20191024-25.htm"
 durum: "yürürlükte"
 ---
 
-KANUN CEZA MUHAKEMESİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7188 Kabul Tarihi: 17/10/2019
+**KANUN CEZA MUHAKEMESİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7188 Kabul Tarihi: 17/10/2019**
 
-MADDE 1 – 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 14 üncü maddesinin (A) fıkrasına üçüncü paragraftan sonra gelmek üzere aşağıdaki paragraf eklenmiştir.
+**MADDE 1 –** 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 14 üncü maddesinin (A) fıkrasına üçüncü paragraftan sonra gelmek üzere aşağıdaki paragraf eklenmiştir.
 “Baro levhasına yazılı olan ve en az on beş yıl kıdemi bulunan avukatlara, haklarında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümünde tanımlanan suçlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan dolayı soruşturma veya kovuşturma bulunmaması kaydıyla hususi damgalı pasaport verilebilir. Buna ilişkin usul ve esaslar, Dışişleri Bakanlığı ile Adalet Bakanlığının olumlu görüşü alınarak İçişleri Bakanlığınca yürürlüğe konulan yönetmelikle belirlenir.”
 
 
-MADDE 2 – 5682 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 2 –** 5682 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
 MADDE 7- Millî güvenliğe tehdit oluşturduğu tespit edilen yapı, oluşum veya gruplara ya da terör örgütlerine üyeliği veya iltisakı ya da bunlarla irtibatı nedeniyle;
 A) 20/7/2016 tarihli ve 2016/9064 sayılı Bakanlar Kurulu Kararıyla ilan edilen olağanüstü hal kapsamında kabul edilen kanunlar uyarınca kamu görevinden çıkarılmaları veya rütbelerinin alınması nedeniyle pasaportları iptal edilenler ile haklarında pasaport verilmemesine yönelik idari işlem tesis edilmiş olanlardan, B) 18/10/2016 tarihli ve 6749 sayılı Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 5 inci maddesi ve 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin geçici 35 inci maddesi uyarınca pasaportları iptal edilenler ile haklarında pasaport verilmemesine yönelik idari işlem tesis edilmiş olanlardan, C) Mahkemelerce yurt dışına çıkmaları yasaklananlar hariç olmak üzere bu Kanunun 22 nci maddesi uyarınca pasaportları iptal edilenler ile haklarında pasaport verilmemesine yönelik idari işlem tesis edilmiş olanlardan, haklarında aynı nedenlerden dolayı; devam etmekte olan herhangi bir idari veya adli soruşturma veya kovuşturma bulunmayanlara, kovuşturmaya yer olmadığına, beraatine, ceza verilmesine yer olmadığına, davanın reddine veya düşmesine karar verilenlere, mahkûmiyet kararı bulunanlardan cezası tümüyle infaz edilenlere veya ertelenenlere, hükmün açıklanmasının geri bırakılmasına karar verilenlere, başvurmaları hâlinde kolluk birimlerince yapılacak araştırma sonucuna göre İçişleri Bakanlığınca pasaport verilebilir.”
 
 
-MADDE 3 – 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 16 ncı maddesinin birinci fıkrasında yer alan “taşıyanlardan,” ibaresi “taşıyan ve Hukuk Mesleklerine Giriş Sınavında başarılı olanlardan,” şeklinde değiştirilmiştir.
+**MADDE 3 –** 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 16 ncı maddesinin birinci fıkrasında yer alan “taşıyanlardan,” ibaresi “taşıyan ve Hukuk Mesleklerine Giriş Sınavında başarılı olanlardan,” şeklinde değiştirilmiştir.
 
 
-MADDE 4 – 18/1/1972 tarihli ve 1512 sayılı Noterlik Kanununun 7 nci maddesinin birinci fıkrasının mülga (4) numaralı bendi aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 4 –** 18/1/1972 tarihli ve 1512 sayılı Noterlik Kanununun 7 nci maddesinin birinci fıkrasının mülga (4) numaralı bendi aşağıdaki şekilde yeniden düzenlenmiştir.
 “4.
 Hukuk Mesleklerine Giriş Sınavında başarılı olmak,”
 
 
-MADDE 5 – 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununa aşağıdaki ek madde eklenmiştir.
+**MADDE 5 –** 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununa aşağıdaki ek madde eklenmiştir.
 “Hukuk Mesleklerine Giriş Sınavı ve İdari Yargı Ön Sınavı
 
 EK MADDE
@@ -82,33 +82,33 @@ Sınavların yapılma şekli ile sınavlara ilişkin diğer hususlar Hâkimler v
 Bu maddenin uygulanmasında hâkimlik, savcılık, avukatlık ve noterlik meslekleri hukuk mesleği olarak kabul edilir.”
 
 
-MADDE 6 – 2547 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 6 –** 2547 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
 MADDE 80- Ek 41 inci maddede düzenlenen ve ilgili kanunlarda öngörülen Hukuk Mesleklerine Giriş Sınavı veya İdari Yargı Ön Sınavında başarılı olma şartı, ilgili yükseköğretim kurumlarına bu maddenin yürürlüğe girdiği tarihten sonra kayıt yaptıranlar hakkında uygulanır.”
 
 
-MADDE 7 – 6/1/1982 tarihli ve 2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanunun 3/C maddesinin dördüncü fıkrasının (c) bendinde yer alan “Danıştay Başkanlığına iletmek.” ibaresi “Danıştaydan bu konuda karar verilmesini istemek.” şeklinde ve beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 7 –** 6/1/1982 tarihli ve 2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanunun 3/C maddesinin dördüncü fıkrasının (c) bendinde yer alan “Danıştay Başkanlığına iletmek.” ibaresi “Danıştaydan bu konuda karar verilmesini istemek.” şeklinde ve beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “5.
 Dördüncü fıkranın (c) bendine göre yapılacak istemler, konusuna göre İdari veya Vergi Dava Daireleri Kuruluna iletilir. İlgili dava daireleri kurulunca üç ay içinde karar verilir. Aykırılık veya uyuşmazlığın giderilmesine ilişkin olarak bu fıkra uyarınca verilen kararlar kesindir.”
 
 
-MADDE 8 – 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanununun 31 inci maddesinin birinci fıkrasında yer alan “işlemler ile elektronik işlemlerde” ibaresi “işlemler, elektronik işlemler ile ses ve görüntü nakledilmesi yoluyla duruşma icrasında” şeklinde değiştirilmiştir.
+**MADDE 8 –** 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanununun 31 inci maddesinin birinci fıkrasında yer alan “işlemler ile elektronik işlemlerde” ibaresi “işlemler, elektronik işlemler ile ses ve görüntü nakledilmesi yoluyla duruşma icrasında” şeklinde değiştirilmiştir.
 
 
-MADDE 9 – 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununun 8 inci maddesinin birinci fıkrasının (c) bendinin ikinci paragrafında yer alan “bulunmak ya da bakanlığın ihtiyaç durumuna göre belirleyeceği diğer alanlarda” ibaresi “bulunmak, hukuk fakültesinden mezun olanlar dışından alınacak adaylar bakımından, her dönemde alınacak aday sayısının yüzde yirmisini geçmemek üzere, hukuk bilgisine programlarında yeterince yer veren siyasal bilgiler, idari bilimler, iktisat ve maliye alanlarında” şeklinde değiştirilmiş ve fıkranın mülga (e) bendi aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 9 –** 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununun 8 inci maddesinin birinci fıkrasının (c) bendinin ikinci paragrafında yer alan “bulunmak ya da bakanlığın ihtiyaç durumuna göre belirleyeceği diğer alanlarda” ibaresi “bulunmak, hukuk fakültesinden mezun olanlar dışından alınacak adaylar bakımından, her dönemde alınacak aday sayısının yüzde yirmisini geçmemek üzere, hukuk bilgisine programlarında yeterince yer veren siyasal bilgiler, idari bilimler, iktisat ve maliye alanlarında” şeklinde değiştirilmiş ve fıkranın mülga (e) bendi aşağıdaki şekilde yeniden düzenlenmiştir.
 “e) Hukuk Mesleklerine Giriş Sınavı veya İdari Yargı Ön Sınavında başarılı olmak,”
 
-MADDE 10 – 2802 sayılı Kanunun 9/A maddesinin üçüncü fıkrasının (a) bendine “ticaret hukuku,” ibaresinden sonra gelmek üzere “iş hukuku,” ibaresi eklenmiş, altıncı fıkrasında yer alan “olmak üzere toplam beş” ibaresi “ile Hâkimler ve Savcılar Kurulu Genel Sekreteri ve Türkiye Adalet Akademisi Danışma Kurulundan seçilen bir kişi olmak üzere toplam yedi” şeklinde değiştirilmiş, mülga yedinci fıkrası aşağıdaki şekilde yeniden düzenlenmiş ve dokuzuncu fıkrasında yer alan “yerine” ibaresi “Türkiye Adalet Akademisi Danışma Kurulundan seçilen üyenin yerine bu Kurulda görev yapan hâkim ve savcılar arasından üye tam sayısının salt çoğunluğunun gizli oyuyla seçilen yedek üye, diğer üyelerin yerine ise” şeklinde değiştirilmiştir.
+**MADDE 10 –** 2802 sayılı Kanunun 9/A maddesinin üçüncü fıkrasının (a) bendine “ticaret hukuku,” ibaresinden sonra gelmek üzere “iş hukuku,” ibaresi eklenmiş, altıncı fıkrasında yer alan “olmak üzere toplam beş” ibaresi “ile Hâkimler ve Savcılar Kurulu Genel Sekreteri ve Türkiye Adalet Akademisi Danışma Kurulundan seçilen bir kişi olmak üzere toplam yedi” şeklinde değiştirilmiş, mülga yedinci fıkrası aşağıdaki şekilde yeniden düzenlenmiş ve dokuzuncu fıkrasında yer alan “yerine” ibaresi “Türkiye Adalet Akademisi Danışma Kurulundan seçilen üyenin yerine bu Kurulda görev yapan hâkim ve savcılar arasından üye tam sayısının salt çoğunluğunun gizli oyuyla seçilen yedek üye, diğer üyelerin yerine ise” şeklinde değiştirilmiştir.
 “Türkiye Adalet Akademisi Danışma Kurulunda;
 a) Yargıtay veya Danıştay mensubunun birden fazla olması hâlinde bu kişiler arasından,
 b) Yargıtay veya Danıştay mensubu bulunmaması hâlinde, Kurulda görev yapan hâkim ve savcılar arasından, her sınav için Danışma Kurulunca, üye tam sayısının salt çoğunluğunun gizli oyuyla, sınavın türüne göre bir asıl üye Mülâkat Kuruluna seçilir.”
 
-MADDE 11 – 2802 sayılı Kanunun 10 uncu maddesinin birinci fıkrasına aşağıdaki cümle eklenmiş; üçüncü fıkrasında yer alan “Eğitim Dairesi” ibaresi “Türkiye Adalet Akademisi” şeklinde, dördüncü fıkrasında yer alan “Personel Genel Müdürü” ibaresi “Türkiye Adalet Akademisi Başkanının” ve “Eğitim Dairesi Başkanı” ibaresi “Personel Genel Müdürü” şeklinde değiştirilmiş; sekizinci fıkrasında yer alan “ayrılması, yazılı ve sözlü sınav ile” ibaresi “ayrılması ve” şeklinde, “alınmak suretiyle çıkarılacak yönetmelikle;” ibaresi “alınmak suretiyle Adalet Bakanlığınca çıkarılacak yönetmelikle; eğitimin uygulama esasları ile yazılı ve sözlü sınava ilişkin hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle;” şeklinde değiştirilmiştir.
+**MADDE 11 –** 2802 sayılı Kanunun 10 uncu maddesinin birinci fıkrasına aşağıdaki cümle eklenmiş; üçüncü fıkrasında yer alan “Eğitim Dairesi” ibaresi “Türkiye Adalet Akademisi” şeklinde, dördüncü fıkrasında yer alan “Personel Genel Müdürü” ibaresi “Türkiye Adalet Akademisi Başkanının” ve “Eğitim Dairesi Başkanı” ibaresi “Personel Genel Müdürü” şeklinde değiştirilmiş; sekizinci fıkrasında yer alan “ayrılması, yazılı ve sözlü sınav ile” ibaresi “ayrılması ve” şeklinde, “alınmak suretiyle çıkarılacak yönetmelikle;” ibaresi “alınmak suretiyle Adalet Bakanlığınca çıkarılacak yönetmelikle; eğitimin uygulama esasları ile yazılı ve sözlü sınava ilişkin hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle;” şeklinde değiştirilmiştir.
 “Eğitim, Türkiye Adalet Akademisince yaptırılır.”
 
 
-MADDE 12 – 2802 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 12 –** 2802 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “Türkiye Adalet Akademisinde ders ücreti
 
 EK MADDE
@@ -119,36 +119,36 @@ Akademide ders veren üniversite öğretim elemanlarına 11/10/1983 tarihli ve 2
 Yazılı sınav kurulunda görev alanlara 2914 sayılı Kanun hükümlerine göre ücret ödenir.”
 
 
-MADDE 13 – 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun 7 nci maddesinin ikinci fıkrasına üçüncü cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
+**MADDE 13 –** 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun 7 nci maddesinin ikinci fıkrasına üçüncü cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
 “Haber verme sınırlarını aşmayan veya eleştiri amacıyla yapılan düşünce açıklamaları suç oluşturmaz.”
 
 
-MADDE 14 – 9/1/2003 tarihli ve 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5 inci maddesinin başlığı “Uzmanlardan yararlanma” şeklinde, birinci fıkrası aşağıdaki şekilde ve üçüncü fıkrasında yer alan “18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununda” ibaresi “12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununda” şeklinde değiştirilmiştir.
+**MADDE 14 –** 9/1/2003 tarihli ve 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun 5 inci maddesinin başlığı “Uzmanlardan yararlanma” şeklinde, birinci fıkrası aşağıdaki şekilde ve üçüncü fıkrasında yer alan “18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununda” ibaresi “12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununda” şeklinde değiştirilmiştir.
 “Aile mahkemeleri, 1.
 Davanın esasına girilmeden önce veya davanın görülmesi sırasında, mahkemece istenen konular hakkında taraflar arasındaki uyuşmazlık nedenlerine ilişkin araştırma ve inceleme yapmak ve sonucunu bildirmek, 2.
 Mahkemenin gerekli gördüğü hâllerde duruşmada hazır bulunmak, istenilen konularla ilgili çalışmalar yapmak ve görüş bildirmek, 3.
 Mahkemece verilecek diğer görevleri yapmak, üzere tercihen; evli ve çocuk sahibi, otuz yaşını doldurmuş ve aile sorunları alanında lisansüstü eğitim yapmış olanlar arasından Adalet Bakanlığınca adliyelerde görevlendirilen psikolog, pedagog ve sosyal çalışmacılardan yararlanır.”
 
 
-MADDE 15 – 4787 sayılı Kanunun 6 ncı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 15 –** 4787 sayılı Kanunun 6 ncı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Aile mahkemesince verilen bu kararların takibi ve yerine getirilmesinde 5 inci maddeye göre görevlendirilen uzmanlardan yararlanılabilir. Bu kararlara uyulmaması hâlinde Hukuk Muhakemeleri Kanununun 398 inci maddesi uygulanır.”
 
 
-MADDE 16 – 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 75 inci maddesinin birinci fıkrasına birinci cümlesinden sonra gelmek üzere aşağıdaki cümleler ve altıncı fıkrasına aşağıdaki bentler eklenmiştir.
+**MADDE 16 –** 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 75 inci maddesinin birinci fıkrasına birinci cümlesinden sonra gelmek üzere aşağıdaki cümleler ve altıncı fıkrasına aşağıdaki bentler eklenmiştir.
 “Failin on gün içinde talep etmesi koşuluyla bu miktarın birer ay ara ile üç eşit taksit hâlinde ödenmesine Cumhuriyet savcısı tarafından karar verilir. Taksitlerin süresinde ödenmemesi hâlinde önödeme hükümsüz kalır ve soruşturmaya devam edilir.”
 “c) 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun 74 üncü maddesinin ikinci fıkrasının birinci cümlesinde yer alan suç,
 d) 4/11/2004 tarihli ve 5253 sayılı Dernekler Kanununun 32 nci maddesinin birinci fıkrasının (d) bendinde yer alan suç,”
 
 
-MADDE 17 – 5237 sayılı Kanunun 136 ncı maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 17 –** 5237 sayılı Kanunun 136 ncı maddesine aşağıdaki fıkra eklenmiştir.
 “(2) Suçun konusunun, Ceza Muhakemesi Kanununun 236 ncı maddesinin beşinci ve altıncı fıkraları uyarınca kayda alınan beyan ve görüntüler olması durumunda verilecek ceza bir kat artırılır.”
 
 
-MADDE 18 – 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 102 nci maddesine aşağıdaki fıkralar eklenmiştir.
+**MADDE 18 –** 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 102 nci maddesine aşağıdaki fıkralar eklenmiştir.
 “(4) Soruşturma evresinde tutukluluk süresi, ağır ceza mahkemesinin görevine girmeyen işler bakımından altı ayı, ağır ceza mahkemesinin görevine giren işler bakımından ise bir yılı geçemez. Ancak, Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümünde tanımlanan suçlar, Terörle Mücadele Kanunu kapsamına giren suçlar ve toplu olarak işlenen suçlar bakımından bu süre en çok bir yıl altı ay olup, gerekçesi gösterilerek altı ay daha uzatılabilir.
 (5) Bu maddede öngörülen tutukluluk süreleri, fiili işlediği sırada on beş yaşını doldurmamış çocuklar bakımından yarı oranında, on sekiz yaşını doldurmamış çocuklar bakımından ise dörtte üç oranında uygulanır.”
 
-MADDE 19 – 5271 sayılı Kanunun 171 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiş, üçüncü fıkrasında yer alan “, uzlaşmaya ilişkin hükümler saklı kalmak üzere” ibaresi madde metninden çıkarılmış, fıkranın (d) bendinde yer alan “uğradığı zararın,” ibaresi “uğradığı ve Cumhuriyet savcısı tarafından tespit edilen zararın,” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 19 –** 5271 sayılı Kanunun 171 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiş, üçüncü fıkrasında yer alan “, uzlaşmaya ilişkin hükümler saklı kalmak üzere” ibaresi madde metninden çıkarılmış, fıkranın (d) bendinde yer alan “uğradığı zararın,” ibaresi “uğradığı ve Cumhuriyet savcısı tarafından tespit edilen zararın,” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “(2) Uzlaştırma ve önödeme kapsamındaki suçlar hariç olmak üzere, Cumhuriyet savcısı, üst sınırı üç yıl veya daha az süreli hapis cezasını gerektiren suçlardan dolayı, yeterli şüphenin varlığına rağmen, kamu davasının açılmasının beş yıl süre ile ertelenmesine karar verebilir. Suçtan zarar gören veya şüpheli, bu karara 173 üncü madde hükümlerine göre itiraz edebilir.”
 “(6) Bu madde hükümleri;
 a) Suç işlemek için örgüt kurmak, yönetmek veya örgüte üye olmak suçları ile örgüt faaliyeti çerçevesinde işlenen suçlar,
@@ -156,16 +156,16 @@ b) Kamu görevlisi tarafından görevi sebebiyle veya kamu görevlisine karşı 
 c) Cinsel dokunulmazlığa karşı işlenen suçlar, hakkında uygulanmaz.”
 
 
-MADDE 20 – 5271 sayılı Kanunun 174 üncü maddesinin birinci fıkrasının (b) ve (c) bentleri aşağıdaki şekilde değiştirilmiş, fıkraya aşağıdaki bent eklenmiştir.
+**MADDE 20 –** 5271 sayılı Kanunun 174 üncü maddesinin birinci fıkrasının (b) ve (c) bentleri aşağıdaki şekilde değiştirilmiş, fıkraya aşağıdaki bent eklenmiştir.
 “b) Suçun sübûtuna doğrudan etki edecek mevcut bir delil toplanmadan düzenlenen,
 c) Önödemeye veya uzlaştırmaya ya da seri muhakeme usulüne tâbi olduğu soruşturma dosyasından açıkça anlaşılan işlerde önödeme veya uzlaştırma ya da seri muhakeme usulü uygulanmaksızın düzenlenen,” “d) Soruşturma veya kovuşturma yapılması izne veya talebe bağlı olan suçlarda izin alınmaksızın veya talep olmaksızın düzenlenen,”
 
 
-MADDE 21 – 5271 sayılı Kanunun 234 üncü maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 21 –** 5271 sayılı Kanunun 234 üncü maddesine aşağıdaki fıkra eklenmiştir.
 “(4) Soruşturma veya kovuşturma evresinde, dava nakli veya adlî tıp işlemleri nedeniyle yerleşim yeri dışında bir yere gitme zorunluluğu doğması hâlinde mağdurun yapmış olduğu konaklama, iaşe ve ulaşım giderleri, 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre Adalet Bakanlığı bütçesinden karşılanır.”
 
 
-MADDE 22 – 5271 sayılı Kanunun 236 ncı maddesinin üçüncü fıkrasının son cümlesi yürürlükten kaldırılmış ve maddeye aşağıdaki fıkralar eklenmiştir.
+**MADDE 22 –** 5271 sayılı Kanunun 236 ncı maddesinin üçüncü fıkrasının son cümlesi yürürlükten kaldırılmış ve maddeye aşağıdaki fıkralar eklenmiştir.
 “(4) Cumhuriyet savcısı veya hâkim tarafından ifade ve beyanının özel ortamda alınması gerektiği ya da şüpheli veya sanık ile yüz yüze gelmesinde sakınca bulunduğu değerlendirilen çocuk veya mağdurların ifade ve beyanları özel ortamda uzmanlar aracılığıyla alınır.
 (5) Türk Ceza Kanununun 103 üncü maddesinin ikinci fıkrasında düzenlenen suçlardan mağdur olan çocukların soruşturma evresindeki beyanları, bunlara yönelik hizmet veren merkezlerde Cumhuriyet savcısının nezaretinde uzmanlar aracılığıyla alınır. Mağdur çocuğun beyan ve görüntüleri kayda alınır.
 Kovuşturma evresinde ise ancak, maddi gerçeğin ortaya çıkarılması açısından mağdur çocuğun beyanının alınması veya başkaca bir işlem yapılmasında zorunluluk bulunması hâlinde bu işlem, mahkeme veya görevlendireceği naip hâkim tarafından bu merkezlerde uzmanlar aracılığıyla yerine getirilir.
@@ -175,7 +175,7 @@ Mağdur çocuk yargı çevresi ve mülkî sınırlara bakılmaksızın en yakın
 (8) Beşinci ve altıncı fıkra kapsamında alınan beyan ve görüntü kayıtları, yazılı tutanağa dönüştürülür. Bu tutanak, talepte bulunan şüpheli, sanık, müdafii, mağdur, vekil veya kanuni temsilciye verilir. Beyan ve görüntü kayıtları bu kişilere soruşturma ve kovuşturma makamlarının gözetiminde gizliliği korunmak suretiyle izletilebilir.”
 
 
-MADDE 23 – 5271 sayılı Kanunun mülga 250 nci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 23 –** 5271 sayılı Kanunun mülga 250 nci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Seri muhakeme usulü
 
 
@@ -219,7 +219,7 @@ aksi takdirde talebi reddeder ve soruşturmanın genel hükümlere göre sonuçl
 (15) Bu maddenin uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığı tarafından çıkarılan yönetmelikle belirlenir.”
 
 
-MADDE 24 – 5271 sayılı Kanunun mülga 251 inci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 24 –** 5271 sayılı Kanunun mülga 251 inci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Basit yargılama usulü
 
 
@@ -235,7 +235,7 @@ Ayrıca, toplanması gereken belgeler, ilgili kurum ve kuruluşlardan talep edil
 (8) Basit yargılama usulü, bu kapsama giren bir suçun, kapsama girmeyen başka bir suçla birlikte işlenmiş olması hâlinde uygulanmaz.”
 
 
-MADDE 25 – 5271 sayılı Kanunun mülga 252 nci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 25 –** 5271 sayılı Kanunun mülga 252 nci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Basit yargılama usulünde itiraz
 
 
@@ -247,21 +247,21 @@ Süresi içinde itiraz edilmeyen hükümler kesinleşir.
 (5) İkinci fıkra uyarınca verilen hükümlere karşı genel hükümlere göre kanun yoluna başvurulabilir.
 (6) Birinci fıkradaki itirazın, süresinde yapılmadığı veya kanun yoluna başvuru hakkı bulunmayan tarafından yapıldığı mahkemesince değerlendirildiğinde dosya, 268 inci maddenin ikinci fıkrası uyarınca itirazı incelemeye yetkili olan mercie gönderilir. Mercii bu sebepler yönünden incelemesini yapar ve kararını gereği için mahkemesine gönderir.”
 
-MADDE 26 – 5271 sayılı Kanunun 253 üncü maddesinin birinci fıkrasının (b) bendinin mevcut
+**MADDE 26 –** 5271 sayılı Kanunun 253 üncü maddesinin birinci fıkrasının (b) bendinin mevcut
 (4), (5) ve (6) numaralı alt bentlerinden sonra gelmek üzere sırasıyla aşağıdaki alt bentler eklenmiş ve bent numaraları buna göre teselsül ettirilmiş, üçüncü fıkrasına “birlikte” ibaresinden sonra gelmek üzere “aynı mağdura karşı” ibaresi eklenmiş, onikinci fıkrasında yer alan “en çok yirmi gün daha” ibaresi “her defasında yirmi günü geçmemek üzere en fazla iki kez” şeklinde değiştirilmiştir.
 “5. İş ve çalışma hürriyetinin ihlali (madde 117, birinci fıkra; madde 119, birinci fıkra (c) bendi),” “7.
 Güveni kötüye kullanma (madde 155),” “9. Suç eşyasının satın alınması veya kabul edilmesi (madde 165),”
 
 
-MADDE 27 – 5271 sayılı Kanunun 280 inci maddesinin birinci fıkrasına (b) bendinden sonra gelmek üzere aşağıdaki (c) bendi, mevcut (d) bendinden sonra gelmek üzere aşağıdaki (f) bendi eklenmiş ve bentler buna göre teselsül ettirilmiştir.
+**MADDE 27 –** 5271 sayılı Kanunun 280 inci maddesinin birinci fıkrasına (b) bendinden sonra gelmek üzere aşağıdaki (c) bendi, mevcut (d) bendinden sonra gelmek üzere aşağıdaki (f) bendi eklenmiş ve bentler buna göre teselsül ettirilmiştir.
 “c) Başka bir araştırmaya ihtiyaç duyulmadan cezayı kaldıran veya cezada indirim yapılmasını gerektiren şahsî sebeplere ya da şahsî cezasızlık sebeplerine bağlı olarak daha az ceza verilmesini veya ceza verilmesine yer olmadığına karar verilmesini gerektiren hâllerde, hukuka aykırılığın düzeltilerek istinaf başvurusunun esastan reddine,” “f) Soruşturma veya kovuşturma şartının gerçekleşmediğinin veya önödeme ve uzlaştırma usulünün uygulanmadığının anlaşılması ya da davanın ilk derece mahkemesinde görülmekte olan bir dava ile birlikte yürütülmesinin zorunlu olması hâlinde hükmün bozulmasına ve dosyanın yeniden incelenmek ve hükmolunmak üzere hükmü bozulan ilk derece mahkemesine veya kendi yargı çevresinde uygun göreceği diğer bir ilk derece mahkemesine gönderilmesine,”
 
 
-MADDE 28 – 5271 sayılı Kanunun 282 nci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
+**MADDE 28 –** 5271 sayılı Kanunun 282 nci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “f) Sanık, müdafii, katılan ve vekilinin davetiye tebliğ edilmesine rağmen duruşmaya gelmemesi hâlinde duruşmaya devam edilerek sanığın sorgu tutanakları anlatılmak suretiyle dava yokluklarında bitirilebilir. Ancak, 195 inci madde hükümleri saklı kalmak üzere, sanık hakkında verilecek ceza, ilk derece mahkemesinin verdiği cezadan daha ağır ise, her hâlde sanığın dinlenmesi gerekir.”
 
 
-MADDE 29 – 5271 sayılı Kanunun 286 ncı maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 29 –** 5271 sayılı Kanunun 286 ncı maddesine aşağıdaki fıkra eklenmiştir.
 “(3) İkinci fıkrada belirtilen temyiz edilemeyecek kararlar kapsamında olsa bile aşağıda sayılan suçlar nedeniyle verilen bölge adliye mahkemesi ceza dairelerinin kararları temyiz edilebilir:
 a) Türk Ceza Kanununda yer alan;
 1.
@@ -280,13 +280,13 @@ b) Terörle Mücadele Kanununun 6 ncı maddesinin ikinci ve dördüncü fıkras�
 c) Toplantı ve Gösteri Yürüyüşleri Kanununun 28 inci maddesinin birinci fıkrası, 31 inci maddesi ve 32 nci maddesinde yer alan suçlar.”
 
 
-MADDE 30 – 5271 sayılı Kanunun 308/A maddesinin birinci fıkrasının üçüncü ve dördüncü cümleleri aşağıdaki şekilde değiştirilmiş ve fıkraya aşağıdaki cümleler eklenmiştir.
+**MADDE 30 –** 5271 sayılı Kanunun 308/A maddesinin birinci fıkrasının üçüncü ve dördüncü cümleleri aşağıdaki şekilde değiştirilmiş ve fıkraya aşağıdaki cümleler eklenmiştir.
 “Daire, mümkün olan en kısa sürede itirazı inceler ve yerinde görürse kararını düzeltir; görmezse dosyayı itirazı incelemek üzere ceza daireleri başkanlar kuruluna gönderir. Kurula gönderilen itiraz hakkında, kararına itiraz edilen dairenin başkanı veya görevlendireceği üye tarafından kurula sunulmak üzere bir rapor hazırlanır.”
 “Kurulun itirazın kabulüne ilişkin kararları, gereği için dairesine gönderilir. Kurulun verdiği kararlar kesindir. Dörtten fazla ceza dairesi olan bölge adliye mahkemelerinde Hâkimler ve Savcılar Kurulu tarafından daire başkanları arasından belirlenen ve dört üyeden oluşan başkanlar kurulu bu incelemeyi yapar.
 Başkanlar kurulunun bu maddeye ilişkin çalışma usul ve esasları, Hâkimler ve Savcılar Kurulu tarafından belirlenir.”
 
 
-MADDE 31 – 5271 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 31 –** 5271 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
 MADDE 5- (1) Bu maddeyi ihdas eden Kanunla;
@@ -300,7 +300,7 @@ g) 308/A maddesinde yapılan değişiklikle bölge adliye mahkemesi Cumhuriyet b
 h) Aile mahkemeleri ile çocuk ve çocuk ağır ceza mahkemelerinde görev yapan psikolog, pedagog ve sosyal çalışma görevlilerine ilişkin düzenlemeler, bu maddenin yayımlandığı tarihten itibaren altı ay sonra uygulanır.”
 
 
-MADDE 32 – 13/12/2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanuna 17 nci maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 32 –** 13/12/2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanuna 17 nci maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Mahkemece infazın ertelenmesi veya durdurulması
 
 
@@ -308,25 +308,25 @@ MADDE 17 – /A- (1) Birlikte işlenmiş olup da 4/12/2004 tarihli ve 5271 sayı
 Karar verilmeden önce Cumhuriyet savcısı ve hükümlünün görüşlerini yazılı olarak bildirmesi istenebilir. Karar, duruşma açılmaksızın verilir ve bu karara karşı itiraz yoluna gidilebilir. Erteleme veya durdurma talebinin kabulü, güvence gösterilmesine veya diğer bir şarta bağlanabilir.”
 
 
-MADDE 33 – 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununun 19 uncu maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 33 –** 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununun 19 uncu maddesine aşağıdaki fıkra eklenmiştir.
 “(2) Ceza Muhakemesi Kanununun 171 inci maddesinin ikinci fıkrasında belirtilen hapis cezasının üst sınırı, on beş yaşını doldurmamış çocuklar bakımından beş yıl olarak uygulanır.”
 
 
-MADDE 34 – 5395 sayılı Kanunun 32 nci maddesinin ikinci fıkrasında yer alan “atananların,” ibaresi “görevlendirilenlerin,” şeklinde değiştirilmiştir.
+**MADDE 34 –** 5395 sayılı Kanunun 32 nci maddesinin ikinci fıkrasında yer alan “atananların,” ibaresi “görevlendirilenlerin,” şeklinde değiştirilmiştir.
 
 
-MADDE 35 – 5395 sayılı Kanunun 33 üncü maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde; ikinci fıkrasında yer alan “atanan ve bu Kanun kapsamındaki tedbirleri uygulayan Sosyal Hizmetler ve Çocuk Esirgeme Kurumunda görevli” ibaresi “görevlendirilen veya bu Kanun kapsamındaki tedbirleri uygulayan” şeklinde değiştirilmiştir.
+**MADDE 35 –** 5395 sayılı Kanunun 33 üncü maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde; ikinci fıkrasında yer alan “atanan ve bu Kanun kapsamındaki tedbirleri uygulayan Sosyal Hizmetler ve Çocuk Esirgeme Kurumunda görevli” ibaresi “görevlendirilen veya bu Kanun kapsamındaki tedbirleri uygulayan” şeklinde değiştirilmiştir.
 “Adalet Bakanlığınca en az lisans öğrenimi görmüş olanlar arasından yeterli sayıda sosyal çalışma görevlisi mahkemelere görevlendirilmek üzere adliyelere atanır.”
 
 
-MADDE 36 – 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanunun 8 inci maddesinin yedinci fıkrasına “Cumhuriyet savcısı,”, sekizinci fıkrasına “mahkemece” ibarelerinden sonra gelmek üzere “hükümsüz kalan erişimin engellenmesi kararına konu internet adresini belirtmek suretiyle,” ibaresi ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 36 –** 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanunun 8 inci maddesinin yedinci fıkrasına “Cumhuriyet savcısı,”, sekizinci fıkrasına “mahkemece” ibarelerinden sonra gelmek üzere “hükümsüz kalan erişimin engellenmesi kararına konu internet adresini belirtmek suretiyle,” ibaresi ve maddeye aşağıdaki fıkra eklenmiştir.
 “(17) Bu maddenin ikinci, dördüncü ve ondördüncü fıkraları kapsamında verilen erişimin engellenmesi kararları, ihlalin gerçekleştiği yayın, kısım, bölüm ile ilgili olarak (URL vb. şeklinde) içeriğe erişimin engellenmesi yöntemiyle verilir. Ancak, teknik olarak ihlale ilişkin içeriğe erişimin engellenmesi yapılamadığı veya ilgili içeriğe erişimin engellenmesi yoluyla ihlalin önlenemediği durumlarda, internet sitesinin tümüne yönelik olarak erişimin engellenmesi kararı verilebilir.”
 
 
-MADDE 37 – 6/1/1982 tarihli ve 2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanunun 3/B maddesinin birinci fıkrasının (c) bendi ve 3/7/2005 tarihli ve 5402 sayılı Denetimli Serbestlik Hizmetleri Kanununun 12 nci maddesinin birinci fıkrasının (c) bendi ile 13 üncü maddesinin birinci fıkrasının (c) bendi yürürlükten kaldırılmış; 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununun 39 uncu maddesinin birinci fıkrasında yer alan “mahkeme nezdindeki” ibaresi ile Denetimli Serbestlik Hizmetleri Kanununun 17 nci maddesinin birinci fıkrasının (a) bendinde yer alan “suçtan zarar gören kişilerin karşılaştıkları sosyal ve ekonomik sorunların çözümü ile” ibaresi madde metninden çıkarılmıştır.
+**MADDE 37 –** 6/1/1982 tarihli ve 2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanunun 3/B maddesinin birinci fıkrasının (c) bendi ve 3/7/2005 tarihli ve 5402 sayılı Denetimli Serbestlik Hizmetleri Kanununun 12 nci maddesinin birinci fıkrasının (c) bendi ile 13 üncü maddesinin birinci fıkrasının (c) bendi yürürlükten kaldırılmış; 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununun 39 uncu maddesinin birinci fıkrasında yer alan “mahkeme nezdindeki” ibaresi ile Denetimli Serbestlik Hizmetleri Kanununun 17 nci maddesinin birinci fıkrasının (a) bendinde yer alan “suçtan zarar gören kişilerin karşılaştıkları sosyal ve ekonomik sorunların çözümü ile” ibaresi madde metninden çıkarılmıştır.
 
 
-MADDE 38 – Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 38 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
 
-MADDE 39 – Bu Kanun hükümlerini Cumhurbaşkanı yürütür.
+**MADDE 39 –** Bu Kanun hükümlerini Cumhurbaşkanı yürütür.

@@ -12,11 +12,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308M1-5.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN
-Kanun No. 7072 Kabul Tarihi: 1/2/2018
-BİRİNCİ BÖLÜM
-Yargı ile İlgili Düzenlemeler
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN**
+**Kanun No. 7072 Kabul Tarihi: 1/2/2018**
+**BİRİNCİ BÖLÜM**
+**Yargı ile İlgili Düzenlemeler**
 
 
 MADDE 1 – 4/2/1983 tarihli ve 2797 sayılı Yargıtay Kanununun 7 nci maddesinin onuncu fıkrası yürürlükten kaldırılmıştır.
@@ -45,7 +45,7 @@ MADDE 6 – 2802 sayılı Kanunun 93 üncü maddesinin birinci fıkrası aşağ�
 MADDE 7 – 2802 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 20- Bu maddeyi ihdas eden Kanun Hükmünde Kararnameyle 9/A maddesinin beşinci fıkrasında yapılan değişiklik, bu maddenin yürürlüğe girdiği tarihten önce yapılan ve sonucu açıklanmayan yazılı sınava katılanlar bakımından da uygulanır.”
+**MADDE 20-** Bu maddeyi ihdas eden Kanun Hükmünde Kararnameyle 9/A maddesinin beşinci fıkrasında yapılan değişiklik, bu maddenin yürürlüğe girdiği tarihten önce yapılan ve sonucu açıklanmayan yazılı sınava katılanlar bakımından da uygulanır.”
 
 
 MADDE 8 – 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 161 inci maddesinin altıncı fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -71,8 +71,8 @@ MADDE 13 – 11/12/2010 tarihli ve 6087 sayılı Hâkimler ve Savcılar Yüksek 
 
 
 MADDE 14 – 30/3/2011 tarihli ve 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanunun 17 nci maddesinin ikinci fıkrasında yer alan “Yargıtay Ceza Genel Kurulunca” ibaresi “Yargıtay ilgili ceza dairesince” şeklinde ve aynı maddenin dördüncü fıkrasında yer alan “Yargıtay Ceza Genel Kuruluna” ibaresi “Yargıtay ilgili ceza dairesine” şeklinde değiştirilmiştir.
-İKİNCİ BÖLÜM
-Medya Hizmet Sağlayıcılara İlişkin Hükümler
+**İKİNCİ BÖLÜM**
+**Medya Hizmet Sağlayıcılara İlişkin Hükümler**
 
 
 MADDE 15 – 11/11/1983 tarihli ve 2954 sayılı Türkiye Radyo ve Televizyon Kanununun 50 nci maddesinin birinci fıkrasının (g) bendinin birinci paragrafı ile aynı fıkranın (ı) bendi aşağıdaki şekilde değiştirilmiştir.
@@ -81,7 +81,7 @@ MADDE 15 – 11/11/1983 tarihli ve 2954 sayılı Türkiye Radyo ve Televizyon Ka
 Kurumun yabancı dilde yayın yapan televizyon kanallarında fiilen çalışanlar hariç, sözleşmeli personelin ücretleri 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrasına göre istihdam edilenlere uygulanan sözleşme ücreti tavanının dört katını geçemez ve bu ücret dışında herhangi bir ödeme yapılamaz. Bu şekilde istihdam edilecek personel sayısı 300’ü geçemez. Ancak, Kurumun yabancı dilde yayın yapan televizyon kanallarında fiilen çalıştırılmak üzere bu sayıya ilaveten 450’yi geçmemek üzere sözleşmeli personel istihdam edilebilir. Bu bentte belirtilen sözleşmeli personel sayıları Bakanlar Kurulu kararı ile artırılabilir.
 Yabancı uyruklular dışında kalan sözleşmeli personel yönetici kadrolarında görevlendirilebilir.”
 
-MADDE 16- 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanunun 7 nci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 16-** 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanunun 7 nci maddesine aşağıdaki fıkra eklenmiştir.
 “(4) Bu madde ile 9/6/2004 tarihli ve 5187 sayılı Basın Kanunu uyarınca getirilen yayın yasak ve kısıtlamalarına aykırı olarak yayın yapılması hâlinde, Üst Kurul tarafından medya hizmet sağlayıcı kuruluşun programlarının yayını bir gün durdurulur ve bu halde 32 nci maddenin dördüncü fıkrası uygulanır. Bir yıl içinde; aykırılığın tekrarı halinde medya hizmet sağlayıcı kuruluşun yayınlarının beş güne kadar, ikinci kez tekrar edilmesi halinde onbeş güne kadar durdurulmasına, üçüncü kez tekrar edilmesi halinde ise yayın lisansının iptaline karar verilir.”
 
 
@@ -98,8 +98,8 @@ MADDE 19 – 6112 sayılı Kanunun 32 nci maddesinin birinci fıkrasında yer al
 
 
 MADDE 20 – 6112 sayılı Kanunun geçici 8 inci maddesinin birinci fıkrası yürürlükten kaldırılmıştır.
-ÜÇÜNCÜ BÖLÜM
-İç Güvenlik ile İlgili Düzenlemeler
+**ÜÇÜNCÜ BÖLÜM**
+**İç Güvenlik ile İlgili Düzenlemeler**
 
 
 MADDE 21 – 18/3/1924 tarihli ve 442 sayılı Köy Kanununun 74 üncü maddesine aşağıdaki fıkra eklenmiştir.
@@ -163,7 +163,7 @@ MADDE 32 – 6245 sayılı Kanunun 17 nci maddesinin başlığına “Türk Sila
 
 MADDE 33 – 6245 sayılı Kanunun 33 üncü maddesinin birinci fıkrasının (b) bendine “Silahlı Kuvvetler Denetleme ve Tetkik Kurulları Başkan ve Üyeleri,” ibaresinden sonra gelmek üzere “Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Denetleme, Teftiş ve Tetkik Başkan ve Üyeleri ile Müfettiş ve Müfettiş Yardımcıları,” ibaresi eklenmiştir.
 
-MADDE 34- 21/2/1963 tarihli ve 210 sayılı Değerli Kağıtlar Kanununa bağlı “Değerli Kağıtlar Tablosu”nun (11) numaralı sırası yürürlükten kaldırılmıştır.
+**MADDE 34-** 21/2/1963 tarihli ve 210 sayılı Değerli Kağıtlar Kanununa bağlı “Değerli Kağıtlar Tablosu”nun (11) numaralı sırası yürürlükten kaldırılmıştır.
 
 
 MADDE 35 – 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 122 nci maddesinin birinci fıkrasında yer alan “(Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı hariç)” ibaresi yürürlükten kaldırılmıştır.
@@ -174,7 +174,7 @@ MADDE 36 – 8/9/1971 tarihli ve 1481 sayılı Asayişe Müessir Bazı Fiillerin
 
 MADDE 37 – 1481 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (b) bendinde yer alan “Polis veya jandarmaya” ibaresi “Polis, jandarma veya sahil güvenliğe” şeklinde değiştirilmiştir.
 
-MADDE 38- 11/9/1981 tarihli ve 2521 sayılı Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve Av Bıçaklarının Yapımı, Alımı, Satımı ve Bulundurulmasına Dair Kanunun 12 nci maddesinin birinci fıkrasında yer alan “beşyüz” ibaresi “beşbin” şeklinde, “beşbin” ibaresi “ellibin” şeklinde ve aynı maddenin ikinci fıkrasında yer alan “ikiyüz” ibaresi “ikibin” şeklinde değiştirilmiştir.
+**MADDE 38-** 11/9/1981 tarihli ve 2521 sayılı Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve Av Bıçaklarının Yapımı, Alımı, Satımı ve Bulundurulmasına Dair Kanunun 12 nci maddesinin birinci fıkrasında yer alan “beşyüz” ibaresi “beşbin” şeklinde, “beşbin” ibaresi “ellibin” şeklinde ve aynı maddenin ikinci fıkrasında yer alan “ikiyüz” ibaresi “ikibin” şeklinde değiştirilmiştir.
 
 
 MADDE 39 – 2521 sayılı Kanunun 13 üncü maddesinin birinci fıkrasında yer alan “elli” ibaresi “her tüfek için beşyüz” şeklinde ve aynı maddenin ikinci fıkrasında yer alan “elli” ibaresi “beşyüz” şeklinde değiştirilmiştir.
@@ -190,14 +190,14 @@ MADDE 41 – 2692 sayılı Kanunun 23 üncü maddesinin birinci fıkrasında yer
 MADDE 42 – 2692 sayılı Kanuna aşağıdaki ek maddeler eklenmiştir.
 “Para mükâfatı
 
-EK MADDE
-5- 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun hükümleri saklı kalmak kaydıyla Sahil Güvenlik Komutanlığı personelinden;
+EK **MADDE**
+**5-** 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun hükümleri saklı kalmak kaydıyla Sahil Güvenlik Komutanlığı personelinden;
 a) Ülkenin güvenlik ve esenliği, Devletin çıkarları ve kişilerin can, ırz ve mallarını korumada yüksek hizmetleri görülenler, fiilen almakta oldukları aylık tutarlarının iki katından beş katına kadar,
 b) Olağanüstü durumlarda yaşamını ortaya koyarak büyük yararlıklar gösterenler, fiilen almakta oldukları aylık tutarlarının altı katından yirmidört katına kadar, para verilerek ödüllendirilir.
 Adli yardım
 
-EK MADDE
-6- Kanunlarla verilen; karakol, karakol nöbetçisi, devriye, sevk, nakliyat muhafazası hizmetlerinde veya emniyet ve asayiş, kamu düzeninin korunması ile kaçakçılığın men, takip ve tahkiki için görevlendirilen ve adli görev ile hizmetlerin yerine getirilmesi sırasında veya bu görevlerinden dolayı, karargâh personeli dahil sanık durumuna düşen personelin vekalet verdiği avukatın ücreti, olayın mahiyetine ve kusurun derecesine göre durumunun uygun görülmesi halinde Sahil Güvenlik Komutanlığı bütçesine konulan ödenekten karşılanır.
+EK **MADDE**
+**6-** Kanunlarla verilen; karakol, karakol nöbetçisi, devriye, sevk, nakliyat muhafazası hizmetlerinde veya emniyet ve asayiş, kamu düzeninin korunması ile kaçakçılığın men, takip ve tahkiki için görevlendirilen ve adli görev ile hizmetlerin yerine getirilmesi sırasında veya bu görevlerinden dolayı, karargâh personeli dahil sanık durumuna düşen personelin vekalet verdiği avukatın ücreti, olayın mahiyetine ve kusurun derecesine göre durumunun uygun görülmesi halinde Sahil Güvenlik Komutanlığı bütçesine konulan ödenekten karşılanır.
 Avukat tutma ve ücret ödeme usul ve esasları ile adli yardıma esas olan görevlerin mahiyeti ve sınırları İçişleri Bakanlığı tarafından yönetmelikle düzenlenir.”
 
 
@@ -221,22 +221,22 @@ MADDE 45 – 2803 sayılı Kanunun 24 üncü maddesinde yer alan “Hizmetleri S
 MADDE 46 – 2803 sayılı Kanuna aşağıdaki ek maddeler eklenmiştir.
 “Para mükâfatı EK
 
-MADDE 9- 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun hükümleri saklı kalmak kaydıyla Jandarma Genel Komutanlığı personelinden;
+**MADDE 9-** 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun hükümleri saklı kalmak kaydıyla Jandarma Genel Komutanlığı personelinden;
 a) Ülkenin güvenlik ve esenliği, Devletin çıkarları ve kişilerin can, ırz ve mallarını korumada yüksek hizmetleri görülenler, fiilen almakta oldukları aylık tutarlarının iki katından beş katına kadar,
 b) Olağanüstü durumlarda yaşamını ortaya koyarak büyük yararlıklar gösterenler, fiilen almakta oldukları aylık tutarlarının altı katından yirmidört katına kadar, para verilerek ödüllendirilir.
 Atıflar
 
-EK MADDE
-10- 4678 sayılı Kanun ile 3269 sayılı Kanunda; Jandarma Genel Komutanlığı mensubu sözleşmeli subay ve astsubay ile uzman erbaş statüsündeki personel için Türk Silahlı Kuvvetlerine yapılan atıflar Jandarma Genel Komutanlığına, Millî Savunma Bakanlığı ve Genelkurmay Başkanlığına yapılan atıflar İçişleri Bakanlığına yapılmış sayılır.
+EK **MADDE**
+**10-** 4678 sayılı Kanun ile 3269 sayılı Kanunda; Jandarma Genel Komutanlığı mensubu sözleşmeli subay ve astsubay ile uzman erbaş statüsündeki personel için Türk Silahlı Kuvvetlerine yapılan atıflar Jandarma Genel Komutanlığına, Millî Savunma Bakanlığı ve Genelkurmay Başkanlığına yapılan atıflar İçişleri Bakanlığına yapılmış sayılır.
 Adli yardım
 
-EK MADDE
-11- Kanunlarla verilen; karakol, karakol nöbetçisi, devriye, sevk, nakliyat muhafazası hizmetlerinde veya emniyet, asayiş ile kamu düzeninin korunması ve kaçakçılığın men, takip ve tahkiki için görevlendirilen ya da önleyici, caydırıcı, düzenleyici, koruyucu, istihbari ve adli görev ile hizmetlerin yerine getirilmesi sırasında veya bu görevlerinden dolayı, karargâh personeli dahil sanık durumuna düşen personelin vekalet verdiği avukatın ücreti, olayın mahiyetine ve kusurun derecesine göre durumunun uygun görülmesi halinde Jandarma Genel Komutanlığı bütçesine konulan ödenekten karşılanır.
+EK **MADDE**
+**11-** Kanunlarla verilen; karakol, karakol nöbetçisi, devriye, sevk, nakliyat muhafazası hizmetlerinde veya emniyet, asayiş ile kamu düzeninin korunması ve kaçakçılığın men, takip ve tahkiki için görevlendirilen ya da önleyici, caydırıcı, düzenleyici, koruyucu, istihbari ve adli görev ile hizmetlerin yerine getirilmesi sırasında veya bu görevlerinden dolayı, karargâh personeli dahil sanık durumuna düşen personelin vekalet verdiği avukatın ücreti, olayın mahiyetine ve kusurun derecesine göre durumunun uygun görülmesi halinde Jandarma Genel Komutanlığı bütçesine konulan ödenekten karşılanır.
 Avukat tutma ve ücret ödeme usul ve esasları ile adli yardıma esas olan görevlerin mahiyeti ve sınırları İçişleri Bakanlığı tarafından yönetmelikle düzenlenir.
 Yaş haddi
 
-EK MADDE
-12- Jandarma Genel Komutanlığına mensup sözleşmeli subay ve astsubaylar için muvazzaf subay ve astsubaylığa geçişte belirlenen üst sınır, subaylar için yüzbaşılık rütbe yaş haddi, astsubaylar için astsubay kıdemli üstçavuşluk rütbe yaş haddi şeklinde uygulanır.
+EK **MADDE**
+**12-** Jandarma Genel Komutanlığına mensup sözleşmeli subay ve astsubaylar için muvazzaf subay ve astsubaylığa geçişte belirlenen üst sınır, subaylar için yüzbaşılık rütbe yaş haddi, astsubaylar için astsubay kıdemli üstçavuşluk rütbe yaş haddi şeklinde uygulanır.
 Yüzbaşılık ve astsubay kıdemli üstçavuşluk normal bekleme süresinin bitiminden sonra muvazzaf subay ve astsubay olanlar, geçmişe yönelik herhangi bir hak talebinde bulunamaz.”
 
 
@@ -307,8 +307,8 @@ MADDE 59 – 2918 sayılı Kanunun ek 2 nci maddesinin birinci fıkrasında yer 
 MADDE 60 – 2918 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “Noterliklere devir
 
-EK MADDE
-18- Emniyet Genel Müdürlüğünce yürütülen araç tescil hizmetlerine ilişkin iş ve işlemler, bu Kanunun 131 inci maddesi hükümleri saklı kalmak üzere, Türkiye Noterler Birliği koordinesinde noterliklere devredilebilir. Bu durumda;
+EK **MADDE**
+**18-** Emniyet Genel Müdürlüğünce yürütülen araç tescil hizmetlerine ilişkin iş ve işlemler, bu Kanunun 131 inci maddesi hükümleri saklı kalmak üzere, Türkiye Noterler Birliği koordinesinde noterliklere devredilebilir. Bu durumda;
 a) Araç tescil işlemlerine ilişkin olarak noterliklere devredilen iş ve işlemler hakkında mevzuatta Emniyet birimlerine yapılmış olan atıflar, noterliklere yapılmış sayılır.
 b) Araç sicil ve tescil sistemi veri tabanı Türkiye Noterler Birliğince tutulur ve bu kuruluşça yönetimi ve güvenliği sağlanır. Veri tabanında yer alan bilgiler anlık olarak Emniyet Genel Müdürlüğü ile paylaşılır.
 c) Araç tescil işlemi karşılığında, noterler tarafından alınacak ücret, araç tescil hizmetlerine ilişkin iş ve işlemler ile bu maddenin uygulanmasına ilişkin usul ve esaslar; Bilim, Sanayi ve Teknoloji Bakanlığı, Maliye Bakanlığı ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığı ile Türkiye Noterler Birliğinin görüşleri alınarak, Adalet Bakanlığı ve İçişleri Bakanlığınca müştereken çıkarılan yönetmelikle belirlenir.
@@ -321,10 +321,10 @@ Birinci fıkrada devre ilişkin öngörülen hükümler istihbarat, gizlilik vey
 MADDE 61 – 2918 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
 “GEÇİCİ
 
-MADDE 23- Mevcut araçları için Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca bu Kanunun 22 nci maddesinin birinci fıkrasının (e) bendine göre yapılacak tescil işlemleri bu maddenin yayımı tarihinden itibaren üç ay içinde tamamlanır.
+**MADDE 23-** Mevcut araçları için Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca bu Kanunun 22 nci maddesinin birinci fıkrasının (e) bendine göre yapılacak tescil işlemleri bu maddenin yayımı tarihinden itibaren üç ay içinde tamamlanır.
 GEÇİCİ
 
-MADDE 24- Bu Kanunun 115 inci maddesinin sekizinci fıkrasının uygulanmasına ilişkin yönetmelik, bu maddenin yayımı tarihinden itibaren altı ay içinde yürürlüğe konulur.”
+**MADDE 24-** Bu Kanunun 115 inci maddesinin sekizinci fıkrasının uygulanmasına ilişkin yönetmelik, bu maddenin yayımı tarihinden itibaren altı ay içinde yürürlüğe konulur.”
 
 
 MADDE 62 – 28/5/1988 tarihli ve 3466 sayılı Uzman Jandarma Kanununun 18 inci maddesinin birinci fıkrasının (a) bendinin (3) numaralı alt bendinde yer alan “28” ibaresi “31” şeklinde değiştirilmiştir.
@@ -339,10 +339,10 @@ MADDE 64 – 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dai
 “Kurucu, yönetici, eğitici ile şirket tüzel kişi ortağının yetkilendirdiği temsilcilerde de 10 uncu maddenin birinci fıkrasının (a), (d), ve (h) bentlerinde belirtilen şartlar aranır. Yöneticilerin ayrıca lisans mezunu olmaları ve 14 üncü maddede belirtilen özel güvenlik temel eğitimini başarıyla tamamlamış olmaları gerekir.
 Yöneticiler sadece bir faaliyet izin belgesinde yönetici unvanı alabilirler. Özel güvenlik birimleri veya özel güvenlik şirketlerinin şubelerinde veya onbeş kişi ve üzerinde özel güvenlik görevlisi istihdam edilen yerlerde en az bir güvenlik sorumlusu belirlenir. Güvenlik sorumlularında 10 uncu maddede belirtilen şartlara ilave olarak en az önlisans mezunu olma şartı aranır.”
 
-MADDE 65- 5188 sayılı Kanunun 6 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 65-** 5188 sayılı Kanunun 6 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Mülki idare amirleri; kamu güvenliğinin gerektirdiği hallerde özel güvenlik izni verilen yerlerde alınan özel güvenlik tedbirlerini denetlemeye ve yetersiz bulduğu takdirde ek önlemler aldırmaya yetkilidir.”
 
-MADDE 66- 5188 sayılı Kanunun 9 uncu maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
+**MADDE 66-** 5188 sayılı Kanunun 9 uncu maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
 “Özel güvenlik görevlileri 7 nci maddede sayılan yetkileri sadece görevli oldukları süre içinde ve görev alanlarında kullanabilirler.
 Özel güvenlik görevlileri silahlarını görev alanı dışına çıkaramazlar. İşlenmiş bir suçun sanığı veya suç işleyeceğinden kuvvetle şüphe edilen kişinin takibi, dışarıdan yapılan saldırılara karşı tedbir alınması, para ve değerli eşya nakli ve cenaze töreni gibi güzergâh ifade eden durumlarda güzergâh boyu görev alanı sayılır. Görev alanı, zorunlu hallerde Komisyon kararıyla genişletilebilir. Kişi korumasında çalışan özel güvenlik görevlilerinin görev alanı; koruduğu kişi ile birlikte olduğunda ülke geneli, koruduğu kişi olmaksızın kişi koruma izni verilen ilin sınırlarıdır.”
 
@@ -354,7 +354,7 @@ MADDE 67 – 5188 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (d) 
 3) Anayasal düzene ve bu düzenin işleyişine, özel hayata ve hayatın gizli alanına, cinsel dokunulmazlığa karşı suçlar ile uyuşturucu veya uyarıcı madde suçlarından dolayı hakkında devam etmekte olan bir soruşturma veya kovuşturma bulunmamak.”
 “h) Güvenlik soruşturması olumlu olmak.”
 
-MADDE 68- 5188 sayılı Kanunun 11 inci maddesinin birinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 68-** 5188 sayılı Kanunun 11 inci maddesinin birinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
 “Özel güvenlik görevlisi olarak istihdam edilecekler ile özel güvenlik şirketlerinde, alarm izleme merkezlerinde ve özel güvenlik eğitimi verecek kurumlarda kurucu ve/veya yönetici olarak çalışacaklar hakkında valilikçe güvenlik soruşturması ve arşiv araştırması yapılır. Soruşturma sonucu olumlu olanlara, bu Kanunun 14 üncü maddesinde belirtilen özel güvenlik temel eğitimini başarıyla bitirmiş olmak şartıyla, valilikçe çalışma izni verilir. Güvenlik soruşturması ve arşiv araştırması bir ay içinde tamamlanır. Güvenlik soruşturması ve arşiv araştırması her kimlik verilmesi veya ihtiyaç duyulması halinde yenilenir. Şirketlerde eğitici ve temsilci olacaklar ile şirket ortağı tüzel kişi ortaklarında da kurucularda aranan şartlar aranır ve güvenlik soruşturması ve arşiv araştırması yapılır.”
 “Yönetici veya özel güvenlik görevlisi olabilme şartlarını taşımadığı veya bu şartlardan herhangi birini sonradan kaybettiği tespit edilenlerin kimliği iptal edilir.”
 “Terör örgütlerine veya Millî Güvenlik Kurulunca Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara iltisakı veya irtibatı olduğu tespit edilen kişiler, özel güvenlik alanında faaliyet yürüten şirket veya birimlerde çalışamazlar.”
@@ -394,8 +394,8 @@ MADDE 73 – 29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun
 
 MADDE 74 – 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 45 inci maddesinin üçüncü fıkrasına aşağıdaki cümleler eklenmiştir.
 “Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca ihtiyaç duyulan veteriner hizmetleri ile gıda, denetim ve kontrol hizmetleri Gıda, Tarım ve Hayvancılık Bakanlığı tarafından, bunun mümkün olmadığı mahallerde ise Millî Savunma Bakanlığının ilgili birimlerince ücretsiz olarak karşılanır. Buna ilişkin usul ve esaslar Gıda, Tarım ve Hayvancılık Bakanlığı, İçişleri Bakanlığı ve Millî Savunma Bakanlığı tarafından müştereken belirlenir.”
-DÖRDÜNCÜ BÖLÜM
-Çeşitli ve Son Hükümler
+**DÖRDÜNCÜ BÖLÜM**
+**Çeşitli ve Son Hükümler**
 
 
 MADDE 75 – 10/7/1953 tarihli ve 6132 sayılı At Yarışları Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
@@ -413,7 +413,7 @@ MADDE 76 – 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanunun
 MADDE 77 – 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun ek 1 inci maddesinin beşinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Üçüncü fıkranın (a), (b), (c) ve (ç) bentlerinde sayılan maluller ile 15/8/2016 tarihli ve 670 sayılı Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler Hakkında Kanun Hükmünde Kararnamenin 9 uncu maddesine göre tazminat hakkından yararlandırılanların kendileri kırkbeş yaşını bitirmiş olsalar bile istihdam hakkından faydalanabilirler.”
 
-MADDE 78- 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununun 49 uncu maddesinin mülga üçüncü fıkrası aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 78-** 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununun 49 uncu maddesinin mülga üçüncü fıkrası aşağıdaki şekilde yeniden düzenlenmiştir.
 “(3) Yerleşim yeri adresi yurt dışında olan Türk vatandaşlarının adres kayıtları, yaşadıkları ülkede kullanılan adres verilerine veya o ülke ve bağlı olduğu temsilcilik bilgisine göre tutulur.”
 
 
@@ -430,13 +430,13 @@ MADDE 2- Karşılığı nakit olmak üzere oynatılan Piyango, Hemen-Kazan, Say�
 MADDE 81 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesine (C) fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Ç) Kamu kurum ve kuruluşlarında görev yapan personel (işçiler dahil), Türkiye Büyük Millet Meclisi kararlarına dayanılarak Türk Silahlı Kuvvetleri personelinin gönderilmesine karar verilen ülkelerde geçici olarak görev yapmak üzere görevlendirilebilir. Bu madde uyarınca görevlendirilen personele, (40.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık tutarı geçmemek üzere görev süresince damga vergisi dahil hiçbir vergi ve kesintiye tabi tutulmaksızın tazminat ödenir. Bunlara ayrıca, 6245 sayılı Harcırah Kanunu hükümlerine göre ödenen yol gideri dışında harcırah ödenmez. Görevlendirmeye ilişkin usul ve esaslar, ödenecek tazminatın tutarı ile hangi hallerde kesileceği ve ödemeye ilişkin usul ve esaslar Başbakan onayı ile tespit edilir.”
 
-MADDE 82- 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararnamenin 7 nci maddesinin birinci fıkrasına (e) bendinden sonra gelmek üzere aşağıdaki bent eklenmiştir.
+**MADDE 82-** 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararnamenin 7 nci maddesinin birinci fıkrasına (e) bendinden sonra gelmek üzere aşağıdaki bent eklenmiştir.
 “f) Güvenlik soruşturması ve/veya arşiv araştırması yapılmış olmak,”
 
-MADDE 83- 399 sayılı Kanun Hükmünde Kararnamenin 45 inci maddesinin birinci fıkrasına (e) bendinden sonra gelmek üzere aşağıdaki bent eklenmiştir.
+**MADDE 83-** 399 sayılı Kanun Hükmünde Kararnamenin 45 inci maddesinin birinci fıkrasına (e) bendinden sonra gelmek üzere aşağıdaki bent eklenmiştir.
 “f) Terör örgütleriyle eylem birliği içerisinde olmak, bu örgütlere yardım etmek, kamu imkân ve kaynaklarını bu örgütleri desteklemeye yönelik kullanmak ya da kullandırmak, bu örgütlerin propagandasını yapmak,”
 
-GEÇİCİ MADDE 1- (1) 680 sayılı Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarih itibarıyla yürütülmekte olan kovuşturmalarda, 680 sayılı Kanun Hükmünde Kararnameyle mahkemelerin görev ve yetkisine ilişkin yapılan düzenlemeler nedeniyle görevsizlik veya yetkisizlik kararı verilemez; bu davalara ilgili mahkemesinde bakılmaya devam olunur.
+**GEÇİCİ MADDE 1-** (1) 680 sayılı Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarih itibarıyla yürütülmekte olan kovuşturmalarda, 680 sayılı Kanun Hükmünde Kararnameyle mahkemelerin görev ve yetkisine ilişkin yapılan düzenlemeler nedeniyle görevsizlik veya yetkisizlik kararı verilemez; bu davalara ilgili mahkemesinde bakılmaya devam olunur.
 
 
 MADDE 84 – Bu Kanunun;

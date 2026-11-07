@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -34,7 +34,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) (Değişik:R.G.:6/11/2007-26692) Genel Müdürlük: Tedavi Hizmetleri Genel Müdürlüğünü,
+b) **(Değişik:R.G.:6/11/2007-26692)** Genel Müdürlük: Tedavi Hizmetleri Genel Müdürlüğünü,
 
 c) Müdürlük: İl Sağlık Müdürlüğünü,
 
@@ -54,7 +54,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Sağlık Kuruluşlarının Türleri ve Açılması
+**Sağlık Kuruluşlarının Türleri ve Açılması**
 
 #### Sağlık Kuruluşu Türleri
 
@@ -84,11 +84,11 @@ Dilekçeye ekli olarak başvuru dosyasında bulunması gereken bilgi ve belgeler
 
 a) Sağlık kuruluşunun oda esasında bütün mekanlarının ne amaçla kullanılacağını gösterir en az 1/100 ölçekli onaylanmış plan örneği,
 
-b) (Değişik:RG-4/4/2012-28254) Merkez olarak a çı lacak sa ğ l ı k kurulu ş u ticaret ş irketi taraf ı ndan a çı lacak ise, ticaret unvan ı , kay ı tl ı olunan ticaret sicil memurlu ğ unun ad ı ve ticaret sicil numaras ı beyan ı ( Ş irket ana s ö zle ş mesi Ticaret Sicil Gazetesinde 1/10/2003 tarihinden ö nce yay ı nlanm ış sa Ticaret Sicil Gazetesinin asl ı veya Bakanl ı k ç a onayl ı ö rne ğ i),
+b) **(Değişik:RG-4/4/2012-28254)** Merkez olarak a çı lacak sa ğ l ı k kurulu ş u ticaret ş irketi taraf ı ndan a çı lacak ise, ticaret unvan ı , kay ı tl ı olunan ticaret sicil memurlu ğ unun ad ı ve ticaret sicil numaras ı beyan ı ( Ş irket ana s ö zle ş mesi Ticaret Sicil Gazetesinde 1/10/2003 tarihinden ö nce yay ı nlanm ış sa Ticaret Sicil Gazetesinin asl ı veya Bakanl ı k ç a onayl ı ö rne ğ i),
 
 c) Birim olarak faaliyet gösterilecek ise bünyesinde bulunduğu sağlık kuruluşunun uygunluk belgesi/ruhsatnamesinin Müdürlükçe onaylı örneği,
 
-d) Sağlık kuruluşunda çalışacak tüm personelin listesi ile diplomalarının Müdürlükçe onaylı örnekleri, (Değişik ibare:RG-17/10/2008-27027) T.C. Kimlik Numarası ve ikişer adet vesikalık fotoğrafları,
+d) Sağlık kuruluşunda çalışacak tüm personelin listesi ile diplomalarının Müdürlükçe onaylı örnekleri, **(Değişik ibare:RG-17/10/2008-27027)** T.C. Kimlik Numarası ve ikişer adet vesikalık fotoğrafları,
 
 e) Sağlık kuruluşunda çalışacak bütün sağlık personelinin herhangi bir kamu kuruluşunda görev yapıp yapmadıklarını beyan eden dilekçeleri ile görev yaptıklarını beyan edenlerin dilekçe ekinde görev yaptıkları kamu kurum ve kuruluşlarında 2368 sayılı Sağlık Personelinin Tazminat ve Çalışma Esaslarına Dair Kanunda öngörülen tazminatların, söz konusu sağlık personeli için düzenlenecek personel çalışma belgesinin tarihinin bildirilmesinden itibaren, maaşlarından kesilmeye başlanacağını bildirir belgeleri,
 
@@ -112,7 +112,7 @@ Sağlık kuruluşunun diğer şartlarının korunması kaydıyla sadece faaliyet
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Personel Standartları
+**Personel Standartları**
 
 #### Mesul Müdür
 
@@ -202,7 +202,7 @@ h) Hasta ve ailesine, gereksinimlerine göre, hastalığa özel, kendi kendine b
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Fiziki Alt Yapı Standardı ve Donanım
+**Fiziki Alt Yapı Standardı ve Donanım**
 
 #### Binanın İç Mekan ve Fiziki Altyapı Durumu
 
@@ -242,7 +242,7 @@ Başka bir tabela ile sağlık kuruluşunda hizmet verilen alanların ve çalı�
 
 ### BEŞİNCİ BÖLÜM
 
-Çalışma Usul ve Esasları
+**Çalışma Usul ve Esasları**
 
 #### Hizmet Sunumu
 
@@ -274,7 +274,7 @@ Birimler, varsa bünyesinde bulunduğu sağlık kuruluşunda faaliyet gösteren 
 
 ### ALTINCI BÖLÜM
 
-Kayıt ve Bildirim Sistemi
+**Kayıt ve Bildirim Sistemi**
 
 #### Kayıtlar
 
@@ -298,7 +298,7 @@ c) Hastaların klinik ve laboratuvar bulguları, hastalığın tanısı ve seyri
 
 ### YEDİNCİ BÖLÜM
 
-Hastanın Evde Bakıma Kabulü ve Evde Bakımdan Taburcu Edilmesi
+**Hastanın Evde Bakıma Kabulü ve Evde Bakımdan Taburcu Edilmesi**
 
 #### Hastanın Evde Bakıma Kabulü
 
@@ -348,7 +348,7 @@ Hastanın veya ailesinin tedavi/bakım planına ve çalışma şartlarına uymam
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetim
 
@@ -412,7 +412,7 @@ Ek-1
 
 ### ..............................VALİLİĞİNE
 
-(İl Sağlık Müdürlüğü)
+**(İl Sağlık Müdürlüğü)**
 
 ### EVDE BAKIM MERKEZİ / BİRİMİ
 
@@ -426,7 +426,7 @@ Adresi :
 
 Sahibi veya Sahipleri :
 
-Birim ise;sağlık kuruluşunun
+<i>Birim ise;sağlık kuruluşunun</i>
 
 İsmi :
 
@@ -442,7 +442,7 @@ Sahibi/ Mesul Müdürü
 
 (İmza-Kaşe)
 
-Ek - 2
+**Ek - 2**
 
 ### TAAHHÜTNAME ÖRNEĞİ
 
@@ -450,9 +450,9 @@ Kuruluşumuzdan evde bakım hizmetleri alacak kişi ve yakınlarına aşağıda 
 
 Tarih
 
-Mesul Müdür Sahipler
+**<i>Mesul Müdür Sahipler</i>**
 
-Ek - 3
+**Ek - 3**
 
 ### TAAHHÜTNAME ÖRNEĞİ
 
@@ -460,7 +460,7 @@ Sağlık kuruluşumuzca evde bakım hizmeti verdiğimiz kişinin, hastanın gere
 
 Tarih
 
-Mesul Müdür Sahipler
+**<i>Mesul Müdür Sahipler</i>**
 
 Ek - 4
 
@@ -494,11 +494,11 @@ Yukarıda adı ve adresi belirtilen özel sağlık kuruluşunun mesul müdür/bi
 
 ### VALİ
 
-veya adına
+**veya adına**
 
 ### İL SAĞLIK MÜDÜRÜ
 
-Ek-5
+**Ek-5**
 
 ### T.C.
 
@@ -508,7 +508,7 @@ Ek-5
 
 Belge No: Tarih:
 
-MESUL MÜDÜRLÜK/birim sorumlusu BELGESİ
+**MESUL MÜDÜRLÜK/birim sorumlusu BELGESİ**
 
 ### MESUL MÜDÜRÜN/BİRİM SORUMLUSU
 
@@ -542,7 +542,7 @@ Yukarıda açık kimliği yazılı olan hekimin ................................
 
 ### İL SAĞLIK MÜDÜRÜ
 
-Ek - 6
+**Ek - 6**
 
 ### T.C.
 
@@ -588,7 +588,7 @@ Yukarıda açık kimliği yazılı olan personelin .............................
 
 ### İL SAĞLIK MÜDÜRÜ
 
-Ek – 7
+**Ek – 7**
 
 ### T.C.
 
@@ -598,7 +598,7 @@ Ek – 7
 
 ### EVDE BAKIM HİZMETİ SUNAN SAĞLIK KURULUŞU DENETLEME FORMU
 
-Denetlenen Kuruluşun Tarih : / /
+**Denetlenen Kuruluşun** Tarih : / /
 
 Adı : Saat :
 
@@ -640,7 +640,7 @@ Adresi :
 | 29. | Mesul Müdür veya uygunluk belgesinin verilmesine esas olan personel sağlık kuruluşundan ayrıldılar ise belirtilen sürede Müdürlüğe başvuruları var mı? | Evet | Hayır | 3 gün | 5 gün |
 | Genel Değerlendirme: |
 
-Denetim Ekip Başkanı Denetçi Denetçi Mesul Müdür
+**Denetim Ekip Başkanı Denetçi Denetçi Mesul Müdür**
 
 ad, soyad ad, soyad ad, soyad kaşe, imza
 
@@ -650,6 +650,6 @@ görev, imza görev, imza görev, imza
 
 ** İşaretli düzenlemede eksiklik saptandığında sağlık kuruluşu uyarılır, tekrarının tespiti halinde belirtilen sürede faaliyet durdurma uygulanır.
 
-Not: Denetlenen özel sağlık kuruluşu türüne uygun olmayan soruları cevaplandırmayınız.
+**Not:** Denetlenen özel sağlık kuruluşu türüne uygun olmayan soruları cevaplandırmayınız.
 
 Bu Formda saptanan eksiklikleri Denetim ve Teftiş Defterine kaydediniz.

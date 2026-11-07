@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
-İŞ EKİPMANLARININ KULLANIMINDA SAĞLIK VE GÜVENLİK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR
+**İŞ EKİPMANLARININ KULLANIMINDA SAĞLIK VE GÜVENLİK ŞARTLARI** YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR
 
 MADDE 1- 25/4/2013 tarihli ve 28628 sayılı Resmî Gazete’de yayımlanan İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğinin 4 üncü maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
 “p) Genel Müdürlük: İş Sağlığı ve Güvenliği Genel Müdürlüğünü,

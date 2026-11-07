@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/05/20220527-7.htm"
 durum: "yürürlükte"
 ---
 
-KANUN TÜRK CEZA KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7406 Kabul Tarihi: 12/5/2022
+**KANUN TÜRK CEZA KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7406 Kabul Tarihi: 12/5/2022**
 
 MADDE 1- 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 62 nci maddesinin ikinci fıkrasında yer alan “sürecindeki davranışları,” ibaresi “sürecindeki pişmanlığını gösteren davranışları veya” şeklinde değiştirilmiş ve “gibi hususlar” ibaresi madde metninden çıkarılmış, fıkraya birinci cümlesinden sonra gelmek üzere aşağıdaki cümle ve “kararda” ibaresinden sonra gelmek üzere “gerekçeleriyle” ibaresi eklenmiştir.
 “Ancak failin duruşmadaki mahkemeyi etkilemeye yönelik şeklî tutum ve davranışları, takdiri indirim nedeni olarak dikkate alınmaz.”

@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -100,7 +100,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Komisyonların Oluşturulması
+**Komisyonların Oluşturulması**
 
 #### Merkez komisyonu
 
@@ -134,7 +134,7 @@ Komisyonların Oluşturulması
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Evde Sağlık Hizmetlerinin Planlanması ve Hizmet Birimlerinin Oluşturulması
+**Evde Sağlık Hizmetlerinin Planlanması ve Hizmet Birimlerinin Oluşturulması**
 
 #### Evde sağlık hizmetlerinin planlanması
 
@@ -196,9 +196,9 @@ olarak ayrılır.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Evde Sağlık Hizmetleri Personel Görevlendirmeleri,
+**Evde Sağlık Hizmetleri Personel Görevlendirmeleri,**
 
-Personellerin Yetki ve Sorumlulukları
+**Personellerin Yetki ve Sorumlulukları**
 
 #### ESH birimleri ve ESKOM personel görevlendirmeleri
 
@@ -232,7 +232,7 @@ Personellerin Yetki ve Sorumlulukları
 
 ### BEŞİNCİ BÖLÜM
 
-Evde Sağlık Hizmetleri Sunum Süreçleri
+**Evde Sağlık Hizmetleri Sunum Süreçleri**
 
 #### ESKOM yapılanması ve faaliyetleri
 
@@ -340,9 +340,9 @@ hallerinde sonlandırılır.
 
 ### ALTINCI BÖLÜM
 
-Palyatif Bakım Hizmetlerinin Planlanması ve Palyatif Bakım
+**Palyatif Bakım Hizmetlerinin Planlanması ve Palyatif Bakım**
 
-Servislerinin Oluşturulması
+**Servislerinin Oluşturulması**
 
 #### Palyatif bakım hizmetlerinin planlanması
 
@@ -396,9 +396,9 @@ e) Tıpta uzmanlık eğitimi verilen sağlık tesislerinde, en az on yataklı ol
 
 ### YEDİNCİ BÖLÜM
 
-Palyatif Bakım Hizmetleri Personel Görevlendirmeleri,
+**Palyatif Bakım Hizmetleri Personel Görevlendirmeleri,**
 
-Personellerin Yetki ve Sorumlulukları
+**Personellerin Yetki ve Sorumlulukları**
 
 #### Palyatif bakım hizmetleri personel görevlendirmeleri
 
@@ -430,7 +430,7 @@ Personellerin Yetki ve Sorumlulukları
 
 ### SEKİZİNCİ BÖLÜM
 
-Palyatif Bakım Hizmetleri Sunum Süreçleri
+**Palyatif Bakım Hizmetleri Sunum Süreçleri**
 
 #### Palyatif bakım hizmetlerine başvurunun yapılması, değerlendirilmesi ve hasta kabulü
 
@@ -474,9 +474,9 @@ Palyatif Bakım Hizmetleri Sunum Süreçleri
 
 ### DOKUZUNCU BÖLÜM
 
-Kayıt Raporlama, Kalite Performans İzleme,
+**Kayıt Raporlama, Kalite Performans İzleme,**
 
-Denetim ve Sorumluluk
+**Denetim ve Sorumluluk**
 
 #### Kayıt raporlama
 
@@ -524,7 +524,7 @@ c) ESH birimlerinde ve palyatif bakım servislerinde, bu Yönetmelik hükümleri
 
 ### ONUNCU BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### İdarî sorumlulukların paylaşımı ve yetki devri
 
@@ -560,4 +560,4 @@ c) ESH birimlerinde ve palyatif bakım servislerinde, bu Yönetmelik hükümleri
 
 **MADDE 33 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

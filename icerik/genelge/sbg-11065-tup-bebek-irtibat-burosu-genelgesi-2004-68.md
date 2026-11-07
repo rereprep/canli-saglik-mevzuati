@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Tarihi:10.05.2004 Sayısı:2004/68-5040-9216-1941
 
-T.C. SAĞLIK BAKANLIĞI Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIĞI** Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
 
 ### ANKARA
 

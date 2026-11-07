@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2006/12/20061219-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
+T.C. Resmî Gazete Resmî Gazete **KANUN**
 ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN
-Kanun No. 5560 Kabul Tarihi : 6/12/2006
+**Kanun No. 5560 Kabul Tarihi : 6/12/2006**
 
 MADDE 1 – 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 61 inci maddesine sekizinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkra numaraları buna göre teselsül ettirilmiştir.
 "(9) Adlî para cezasının seçimlik ceza olarak öngörüldüğü suçlarda bu cezaya ilişkin gün biriminin alt sınırı, o suç tanımındaki hapis cezasının alt sınırından az; üst sınırı da, hapis cezasının üst sınırından fazla olamaz."

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI TEFTİŞ KURULU YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI TEFTİŞ KURULU YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 23/8/2022 tarihli ve 31932 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Teftiş Kurulu Yönetmeliğinin 3 üncü maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “ğ) Yetkili müfettiş yardımcısı: Tek başına göreve gidebilmesi için Başkanlıkça yetki verilen müfettiş yardımcılarını,”

@@ -14,13 +14,13 @@ durum: "yürürlükte"
 
 ### MEZARLIKLARIN KORUNMASI HAKKINDA KANUN
 
-Kanun Numarası : 3998
+**Kanun Numarası : 3998**
 
-Kabul Tarihi : 9/6/1994
+**Kabul Tarihi : 9/6/1994**
 
-Yayımlandığı Resmî Gazete : Tarih : 13/6/1994 Sayı : 21959
+**Yayımlandığı Resmî Gazete : Tarih : 13/6/1994 Sayı : 21959**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 33
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 33**
 
 #### Mülkiyet
 
@@ -53,4 +53,4 @@ Belediyeler ve köy muhtarlıkları birinci fıkrada belirtilen hizmetleri yerin
 | Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası | 3998 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri | Yürürlüğe Giriş Tarihi |
 | 7153 | 2 | 10/12/2018 |
 
-<small>[1] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>

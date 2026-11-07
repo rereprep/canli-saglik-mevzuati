@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2004/11/20041113.htm#2"
 durum: "yürürlükte"
 ---
 
-—— • —— İzmir Kentinde Yapılacak Dünya Üniversitelerarası Spor Oyunları (Universiade) Kanunu Kanun No. 5255 Kabul Tarihi : 10.11.2004 Amaç ve kapsam
+—— • —— **İzmir Kentinde Yapılacak Dünya Üniversitelerarası Spor Oyunları (Universiade) Kanunu** Kanun No. 5255 Kabul Tarihi : 10.11.2004 **Amaç** ve kapsam
 
 
 MADDE 1 – Bu Kanun, 2005 yılında İzmir Kentinde yapılacak olan 23 üncü Dünya Üniversitelerarası Spor Oyunlarının (Universiade), Uluslararası Üniversite Sporları Federasyonunun (FISU) kurallarına uygun olarak düzenlenmesi ile ilgili esas ve usulleri belirler ve bu amaçla kendilerine görev verilen kurum ve kuruluşların teşkil, görev, yetki ve çalışma usulleri ile diğer düzenlemeleri kapsar.
@@ -29,17 +29,17 @@ Kurul, İcra Kurulunun başkanı olarak bir genel koordinatör görevlendirir.
 Organizasyon Komitesi
 
 
-MADDE 4 – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulunun vereceği görevleri yerine getirmek, Oyunların organizasyonuna yönelik olarak ilgili birimler arasında koordinasyonu sağlamak, Oyunlarla ilgili olarak Uluslararası Üniversite Sporları Federasyonu ve yurt dışı ile ilişkilerde yetkili organ görevini yapmak üzere kurulan Organizasyon Komitesi; İzmir Büyükşehir Belediye Başkanının başkanlığında, Başkanın belirleyeceği iki üye, Dışişleri Bakanlığınca görevlendirilecek bir büyükelçi, Üniversite Sporları Federasyonu Başkanı, Genel Koordinatör, Oyunların yapılacağı illerin üniversite rektörleri, spordan sorumlu İzmir Vali Yardımcısı, İzmir Gençlik ve Spor İl Müdürü, İzmir Emniyet Müdürü, İzmir Kültür ve Turizm İl Müdürü ve Üniversite rektörlerinin göstereceği üniversite öğrencisi bir sporcudan oluşur.
+**MADDE 4** – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulunun vereceği görevleri yerine getirmek, Oyunların organizasyonuna yönelik olarak ilgili birimler arasında koordinasyonu sağlamak, Oyunlarla ilgili olarak Uluslararası Üniversite Sporları Federasyonu ve yurt dışı ile ilişkilerde yetkili organ görevini yapmak üzere kurulan Organizasyon Komitesi; İzmir Büyükşehir Belediye Başkanının başkanlığında, Başkanın belirleyeceği iki üye, Dışişleri Bakanlığınca görevlendirilecek bir büyükelçi, Üniversite Sporları Federasyonu Başkanı, Genel Koordinatör, Oyunların yapılacağı illerin üniversite rektörleri, spordan sorumlu İzmir Vali Yardımcısı, İzmir Gençlik ve Spor İl Müdürü, İzmir Emniyet Müdürü, İzmir Kültür ve Turizm İl Müdürü ve Üniversite rektörlerinin göstereceği üniversite öğrencisi bir sporcudan oluşur.
 İcra Kurulu
 
 
-MADDE 5 – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulunun vereceği görevleri yerine getirecek, hizmet ve faaliyetleri yürütecek İcra Kurulu; Genel Koordinatörün başkanlığında, spordan sorumlu İzmir Vali Yardımcısı, İzmir Emniyet Müdürü, İzmir Gençlik ve Spor İl Müdürü, İzmir Kültür ve Turizm İl Müdürü ile Genel Koordinatörün ve İzmir Büyükşehir Belediye Başkanının belirleyeceği ikişer üye olmak üzere toplam dokuz üyeden oluşur.
+**MADDE 5** – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulunun vereceği görevleri yerine getirecek, hizmet ve faaliyetleri yürütecek İcra Kurulu; Genel Koordinatörün başkanlığında, spordan sorumlu İzmir Vali Yardımcısı, İzmir Emniyet Müdürü, İzmir Gençlik ve Spor İl Müdürü, İzmir Kültür ve Turizm İl Müdürü ile Genel Koordinatörün ve İzmir Büyükşehir Belediye Başkanının belirleyeceği ikişer üye olmak üzere toplam dokuz üyeden oluşur.
 İcra Kurulu, Oyunların organizasyonu için gerekli tüm işlerin yürütülmesinden sorumludur.
 İcra Kurulunun çalışma usul ve esasları, Hazırlık ve Düzenleme Kurulu tarafından çıkarılacak yönergelerle belirlenir.
 Görev, yetki ve sorumluluk
 
 
-MADDE 6 – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu, Oyunların hazırlığı, düzenlenmesi ve sonuçlandırılmasıyla ilgili her türlü iş ve işlemleri yaptırmakla yetkili ve sorumludur. Kurul, yetki ve sorumluluklarının bir kısmını Organizasyon Komitesine ve İcra Kuruluna devredebilir.
+**MADDE 6** – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu, Oyunların hazırlığı, düzenlenmesi ve sonuçlandırılmasıyla ilgili her türlü iş ve işlemleri yaptırmakla yetkili ve sorumludur. Kurul, yetki ve sorumluluklarının bir kısmını Organizasyon Komitesine ve İcra Kuruluna devredebilir.
 Organizasyon Komitesinin görev ve yetkileri şunlardır:
 a) Sporcu, antrenör, idareci, teknik eleman veya diğer elemanların ülkemize giriş, çıkışlarında gerekli tedbirleri almak veya aldırmak.
 b) Oyunların süresi ile bağlı kalmak ve kanunlara aykırı olmamak şartıyla her türlü talimat ve yönergeleri hazırlayarak İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulunun onayına sunmak ve uygulanmasını ilgili kurum ve kuruluşlardan talep etmek.
@@ -55,25 +55,25 @@ d) İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu tarafından veri
 Gelirler
 
 
-MADDE 7 – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulunun gelirleri şunlardır:
+**MADDE 7** – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulunun gelirleri şunlardır:
 a) Konsolide bütçeden ayrılacak ödenek.
 b) İzmir Büyükşehir Belediyesinin tasdik edilen bütçesinden % 1 oranında aktarılacak pay.
 c) Oyunların düzenlenmesi ile ilgili her türlü naklen yayın, reklam ve sponsorluk gelirleri.
 d) Gerçek ve tüzel kişilerden alınacak nakdî ve aynî bağış ve yardımlar.
 e) Diğer gelirler.
-Bu Kanun kapsamındaki iş, işlem ve harcamalar Başbakanlık Yüksek Denetleme Kurulunun denetimine tâbidir.
+Bu Kanun kapsamındaki iş, işlem ve harcamalar **Başbakanlık** Yüksek Denetleme Kurulunun denetimine tâbidir.
 Hizmet zorunluluğu
 
 
-MADDE 8 – Bütün kamu kurum ve kuruluşları Oyunların hazırlık ve düzenleme çalışmaları sırasında İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu, Organizasyon Komitesi ve İcra Kurulunun taleplerini öncelikle karşılar.
+**MADDE 8** – Bütün kamu kurum ve kuruluşları Oyunların hazırlık ve düzenleme çalışmaları sırasında İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu, Organizasyon Komitesi ve İcra Kurulunun taleplerini öncelikle karşılar.
 Kurulun tasfiyesi
 
 
-MADDE 9 – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu, tasfiye işlemlerini Oyunların kapanış töreninden sonra en geç altı ay içinde tamamlar. Ödeneklerden ve gelirlerden artan meblağ tasfiyeyi müteakip İzmir Gençlik ve Spor İl Müdürlüğüne irad kaydedilir.
+**MADDE 9** – İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu, tasfiye işlemlerini Oyunların kapanış töreninden sonra en geç altı ay içinde tamamlar. Ödeneklerden ve gelirlerden artan meblağ tasfiyeyi müteakip İzmir Gençlik ve Spor İl Müdürlüğüne irad kaydedilir.
 Alım, satım ve ihale işleri
 
 
-MADDE 10 – Bu Kanun kapsamında İcra Kurulunca ve bu Kurulun talebi üzerine diğer kamu kurum ve kuruluşlarınca yapılacak alım, satım ve ihale işleri, 2886 sayılı Devlet İhale Kanunu ile 832 sayılı Sayıştay Kanunu hükümlerine tâbi değildir.
+**MADDE 10** – Bu Kanun kapsamında İcra Kurulunca ve bu Kurulun talebi üzerine diğer kamu kurum ve kuruluşlarınca yapılacak alım, satım ve ihale işleri, 2886 sayılı Devlet İhale Kanunu ile 832 sayılı Sayıştay Kanunu hükümlerine tâbi değildir.
 Alım, satım ve ihale işlemlerine ilişkin usul ve esaslar, İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulunun onayı ile yürürlüğe konulacak yönergelerle belirlenir.
 
 
@@ -90,35 +90,35 @@ MADDE 66. - İzmir Universiade Oyunları Hazırlık ve Düzenleme Kuruluna yapı
 
 
 MADDE 13 – 1.7.1964 tarihli ve 488 sayılı Damga Vergisi Kanununa aşağıdaki geçici madde eklenmiştir.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 3. - 2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası Spor Oyunları ile ilgili olarak yapılacak her türlü mal ve hizmet alımları, kiralama ve ihale işleri ile bu işlemlerle ilgili düzenlenen kağıtlar Damga Vergisinden müstesnadır.
+**MADDE 3. -** 2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası Spor Oyunları ile ilgili olarak yapılacak her türlü mal ve hizmet alımları, kiralama ve ihale işleri ile bu işlemlerle ilgili düzenlenen kağıtlar Damga Vergisinden müstesnadır.
 
 
 MADDE 14 – 25.10.1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununa aşağıdaki geçici madde eklenmiştir.
 GEÇİCİ
 
-MADDE 22. - 2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası Spor Oyunları ile ilgili olarak yapılacak her türlü mal ve hizmet alımları, kiralama, yapım ve ihale işleri Katma Değer Vergisinden müstesnadır.
+**MADDE 22. -** 2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası Spor Oyunları ile ilgili olarak yapılacak her türlü mal ve hizmet alımları, kiralama, yapım ve ihale işleri Katma Değer Vergisinden müstesnadır.
 
 
 MADDE 15 – 4.1.2002 tarihli ve 4734 sayılı Kamu İhale Kanununa aşağıdaki geçici madde eklenmiştir.
 GEÇİCİ
 
-MADDE 7. - 2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası Spor Oyunları ile ilgili olarak İcra Kurulunca ve bu Kurulun talebi üzerine diğer kamu kurum ve kuruluşlarınca yapılacak her türlü mal ve hizmet alımları ile yapım işleri, ceza ve ihalelerden yasaklama hükümleri hariç, bu Kanun hükümlerinden müstesnadır.
-GEÇİCİ
+**MADDE 7. -** 2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası Spor Oyunları ile ilgili olarak İcra Kurulunca ve bu Kurulun talebi üzerine diğer kamu kurum ve kuruluşlarınca yapılacak her türlü mal ve hizmet alımları ile yapım işleri, ceza ve ihalelerden yasaklama hükümleri hariç, bu Kanun hükümlerinden müstesnadır.
+**GEÇİCİ**
 
-MADDE 1. - Bu Kanun kapsamında gerçekleştirilecek oyunlara yönelik olarak Kanunun yürürlüğe girdiği tarihe kadar mevcut Organizasyon Komitesi tarafından gerçekleştirilmiş tüm işlemler ve ileriye yönelik taahhütler, her türlü hak ve yükümlülükleriyle birlikte ve başka bir işleme gerek kalmaksızın kendiliğinden İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu tüzel kişiliğine devredilmiş sayılır. Bu suretle, Organizasyon Komitesinin yerini İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu alır.
+**MADDE 1. -** Bu Kanun kapsamında gerçekleştirilecek oyunlara yönelik olarak Kanunun yürürlüğe girdiği tarihe kadar mevcut Organizasyon Komitesi tarafından gerçekleştirilmiş tüm işlemler ve ileriye yönelik taahhütler, her türlü hak ve yükümlülükleriyle birlikte ve başka bir işleme gerek kalmaksızın kendiliğinden İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu tüzel kişiliğine devredilmiş sayılır. Bu suretle, Organizasyon Komitesinin yerini İzmir Universiade Oyunları Hazırlık ve Düzenleme Kurulu alır.
 Bu devir ve yerine alma işlemleri ile organizasyonla ilgili olarak yapılacak giderler Katma Değer Vergisi dahil her türlü vergi, resim ve harçtan muaftır.
 16.7.2004 tarihli ve 5228 sayılı Kanunun geçici 4 üncü maddesinde Organizasyon Komitesine yapılan atıflar, İzmir Universiade Oyunları Hazırlık ve Düzenleme Kuruluna yapılmış sayılır.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 2. - İzmir Dünya Üniversitelerarası Spor Oyunlarını (Universiade) izlemek üzere Devlete bağlı bütün üniversitelerden ve vakıf üniversitelerinden yarışma ile her alan için birer temsilci seçilir.
+**MADDE 2. -** İzmir Dünya Üniversitelerarası Spor Oyunlarını (Universiade) izlemek üzere Devlete bağlı bütün üniversitelerden ve vakıf üniversitelerinden yarışma ile her alan için birer temsilci seçilir.
 Seçilen bu temsilciler en az iki ay önce İcra Kuruluna bildirilir. İzlemeye gelen üniversite temsilcileri İzmir'deki Devlet üniversitelerinde, kamu kurum ve kuruluşlarında barındırılır.
-Yürürlük
+**Yürürlük**
 
 
 MADDE 16 – Bu Kanun yayımı tarihinde yürürlüğe girer.
-Yürütme
+**Yürütme**
 
 
 MADDE 17 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

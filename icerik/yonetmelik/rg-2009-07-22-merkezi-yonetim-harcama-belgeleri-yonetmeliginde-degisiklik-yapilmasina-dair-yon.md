@@ -12,11 +12,11 @@ durum: "yürürlükte"
 ---
 
 Maliye Bakanlığından:
-MERKEZÎ YÖNETİM
-HARCAMA BELGELERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MERKEZÎ YÖNETİM**
+**HARCAMA BELGELERİ YÖNETMELİĞİNDE** DEĞİŞİKLİK YAPILMASINA DAİR **YÖNETMELİK**
 
-MADDE 1 – 31/12/2005 tarihli ve 26040 sayılı Üçüncü Mükerrer Resmî Gazete'de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliğinin 20 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 20 – Eczanelere, resmî ve özel sağlık kurum ve kuruluşlarına ve personele yapılacak ilaç ve ilaç mahiyetinde olmayan ve tedavi amacıyla kullanılan çeşitli protez ve ortez, cihaz ve malzeme bedelleri ile hizmet giderlerinin ödenmesinde aranacak kanıtlayıcı belgeler aşağıda belirtilmiştir.
+**MADDE 1 –** 31/12/2005 tarihli ve 26040 sayılı Üçüncü Mükerrer Resmî Gazete'de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliğinin 20 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+**"Madde 20 –** Eczanelere, resmî ve özel sağlık kurum ve kuruluşlarına ve personele yapılacak ilaç ve ilaç mahiyetinde olmayan ve tedavi amacıyla kullanılan çeşitli protez ve ortez, cihaz ve malzeme bedelleri ile hizmet giderlerinin ödenmesinde aranacak kanıtlayıcı belgeler aşağıda belirtilmiştir.
 a) Eczanelere yapılacak ödemelerde;
 - Hastanın şevkine ilişkin belge, - 12/8/2005 tarihli ve 25904 sayılı Resmî Gazete'de yayımlanan Beşeri Tıbbi Ürünler Ambalaj ve Etiketleme Yönetmeliği kapsamında karekodlu ilaçlara ait reçete, kapsam dışındaki ilaçlar için ise ilaç fiyat kupürlerinin ve barkod diyagramlarının yapıştırılmış olduğu reçete, - Reçetelerin kişi bazında dökümünü gösteren liste, - Fatura ödeme belgesine bağlanır.
 Güvenli elektronik imzalı reçeteleme uygulamasına geçilen yerlerde kanıtlayıcı belge olarak ayrıca reçete aranmaz. Fatura üzerinde döküm yapıldığı takdirde ayrıca liste düzenlenmez.
@@ -37,6 +37,6 @@ Mevzuatı gereğince hekim veya sağlık kurulu raporuna göre ödeme yapılaca�
 Subay, askerî memur ve astsubaylarla bunların emeklilerinin ve aile efradının tedavi giderlerinin ödenmesinde, 6/9/1961 tarihli ve 10899 sayılı Resmî Gazete'de yayımlanan Türk Silahlı Kuvvetleri İç Hizmet Yönetmeliğinin sağlık işleri bölümünde belirtilen belgeler aranır.
 Personelin tedavi hizmetlerinden yararlanan aile fertlerinin tedavi giderlerinin ödenmesinde birinci fıkranın (a), (b), (c) ve (d) bentlerinde belirtilen hasta sevkine ilişkin belge aranmaz."
 
-MADDE 2 – Sayıştayın görüşü alınarak hazırlanan bu Yönetmelik 1/7/2009 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+**MADDE 2 –** Sayıştayın görüşü alınarak hazırlanan bu Yönetmelik 1/7/2009 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
 
-MADDE 3 – Bu Yönetmelik hükümlerini Maliye Bakanı yürütür.
+**MADDE 3 –** Bu Yönetmelik hükümlerini Maliye Bakanı yürütür.

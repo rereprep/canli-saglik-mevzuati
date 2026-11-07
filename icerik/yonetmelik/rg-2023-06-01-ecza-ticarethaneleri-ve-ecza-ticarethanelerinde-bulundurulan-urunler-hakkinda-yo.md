@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-ECZA TİCARETHANELERİ VE ECZA TİCARETHANELERİNDE BULUNDURULAN ÜRÜNLER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ECZA TİCARETHANELERİ VE ECZA TİCARETHANELERİNDE BULUNDURULAN ÜRÜNLER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 15/6/2022 tarihli ve 31867 sayılı Resmî Gazete’de yayımlanan Ecza Ticarethaneleri ve Ecza Ticarethanelerinde Bulundurulan Ürünler Hakkında Yönetmeliğin 9 uncu maddesinin altıncı fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(6) Ecza ticarethaneleri sadece;

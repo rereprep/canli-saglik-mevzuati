@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARI ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARI ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 26/3/2013 tarihli ve 28599 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı ve Bağlı Kuruluşları Atama ve Yer Değiştirme Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (m) bendi aşağıdaki şekilde değiştirilmiştir.
 “m) Stratejik personel: Tıpta ve diş hekimliğinde uzmanlık eğitimi mevzuatına göre uzman olmuş uzman tabip, uzman (TUTG) ve tabip unvanındaki personeli,”

@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/08/20080806-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 5793 Kabul Tarihi: 24/7/2008
 
 MADDE 1 – 4/2/1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanununa aşağıdaki ek madde eklenmiştir.

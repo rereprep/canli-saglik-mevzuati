@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Tarihi:28.11.2001 Sayısı:151220
 
-T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIĞI** Personel Genel Müdürlüğü
 
 Sayı :B100PER00000000/151220 Tarih : 28.11.2001 Konu :Yetki Devri
 

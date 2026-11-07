@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -24,9 +24,9 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Kapsam
 
-**MADDE 2 –** (1) (Değişik:RG-16/11/2022-32015) Bu Yönetmelik, gıda, yem, gıda ile temas eden madde ve malzeme, gıda üretimi amacıyla yetiştirilen bitkilerin yaprak, gövde, kök gibi bitki kısımları ve tohumluk analizlerinin yapıldığı Tarım ve Orman Bakanlığı Gıda Kontrol Laboratuvarları ile gıda, yem, gıda ile temas eden madde ve malzeme ve gıda üretimi amacıyla yetiştirilen ürünlerin yaprak, gövde, kök gibi bitki kısımları analizlerinin yapıldığı gerçek veya tüzel kişilerce kurulan veya kurulacak özel gıda kontrol laboratuvarlarının çalışma usul ve esaslarını kapsar.
+**MADDE 2 –** (1) **(Değişik:RG-16/11/2022-32015)** Bu Yönetmelik, gıda, yem, gıda ile temas eden madde ve malzeme, gıda üretimi amacıyla yetiştirilen bitkilerin yaprak, gövde, kök gibi bitki kısımları ve tohumluk analizlerinin yapıldığı Tarım ve Orman Bakanlığı Gıda Kontrol Laboratuvarları ile gıda, yem, gıda ile temas eden madde ve malzeme ve gıda üretimi amacıyla yetiştirilen ürünlerin yaprak, gövde, kök gibi bitki kısımları analizlerinin yapıldığı gerçek veya tüzel kişilerce kurulan veya kurulacak özel gıda kontrol laboratuvarlarının çalışma usul ve esaslarını kapsar.
 
-(2) Bu Yönetmelik, diğer kamu kurum ve kuruluşlarının kendi mevzuatı kapsamında kurdukları veya yetki verdikleri laboratuvarlar, kamu kurumu niteliğindeki kuruluşlar ile tarım ve gıda alanında faaliyet gösteren üretici birlikleri, (Ek ibare:RG-16/11/2022-32015) yetiştirici birlikleri ve kooperatif gibi organizasyonların kendi mevzuatı kapsamında kurdukları ve kendi üyeleri için hizmet verecekleri laboratuvarların 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun resmî kontrol kapsamında olmayan analiz hizmetlerini kapsamaz.
+(2) Bu Yönetmelik, diğer kamu kurum ve kuruluşlarının kendi mevzuatı kapsamında kurdukları veya yetki verdikleri laboratuvarlar, kamu kurumu niteliğindeki kuruluşlar ile tarım ve gıda alanında faaliyet gösteren üretici birlikleri, **(Ek ibare:RG-16/11/2022-32015)** yetiştirici birlikleri ve kooperatif gibi organizasyonların kendi mevzuatı kapsamında kurdukları ve kendi üyeleri için hizmet verecekleri laboratuvarların 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun resmî kontrol kapsamında olmayan analiz hizmetlerini kapsamaz.
 
 (3) Türk Silahlı Kuvvetleri bünyesinde veteriner hizmetleri ile gıda denetim ve kontrol faaliyetleri, bu Yönetmelik çerçevesinde Tarım ve Orman Bakanlığı ile iş birliği içerisinde Türk Silahlı Kuvvetlerinin ilgili birimleri tarafından yapılır.
 
@@ -40,7 +40,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 a) Akreditasyon: Bir laboratuvarın Türk Akreditasyon Kurumu tarafından, Türk Akreditasyon Kurumunun faaliyet kapsamının yetersizliğinde ise Avrupa Akreditasyon Birliği ile karşılıklı tanınma anlaşması imzalamış başka bir ulusal akreditasyon kurumu tarafından TS EN ISO/IEC 17025 Deney ve Kalibrasyon Laboratuvarlarının Yetkinliği için Genel Gereklilikler ve destekleyici alt referanslar ile teknik kriterlere göre değerlendirilmesi, yeterliliğinin onaylanmasını ve düzenli aralıklarla denetlenmesini,
 
-b) (Değişik:RG-1/8/2024-32619) Askıya alma: Laboratuvarın kendi isteği ile veya Tarım ve Orman Bakanlığınca analiz, analiz metodu ve/veya ürün/ürün grubu için numune kabulünün geçici süre ile durdurulmasını,
+b) **(Değişik:RG-1/8/2024-32619)** Askıya alma: Laboratuvarın kendi isteği ile veya Tarım ve Orman Bakanlığınca analiz, analiz metodu ve/veya ürün/ürün grubu için numune kabulünün geçici süre ile durdurulmasını,
 
 c) Bakanlık: Tarım ve Orman Bakanlığını,
 
@@ -72,11 +72,11 @@ m) Laboratuvar birim sorumlusu: Laboratuvar birimlerinin faaliyet ve görev alan
 
 n) Laboratuvar denetçileri: En az lisans eğitimi almış, laboratuvarların başvuru dosyalarını inceleyen, değerlendiren, yerinde denetim yapan ve rapor hazırlayan, TS EN ISO/IEC 17025 ve iç denetçi eğitimini almış, Genel Müdürlüğün laboratuvarla ilgili merkez biriminde çalışan personel ile Ulusal Gıda Referans Laboratuvar Müdürlüğü veya Bakanlık gıda kontrol laboratuvarlarında çalışan ve ilgili konuda en az iki yıl çalışmış, konusunda uzman Bakanlık personelini,
 
-o) Laboratuvar personeli: Laboratuvar birimlerinin/bölümlerinin faaliyet ve görev alanına giren konularda görev alan (Değişik ibare:RG-1/8/2024-32619) veya analizleri yapan, laboratuvar birim sorumlusuna ve idareye karşı sorumlu olan, faaliyet ve görev alanına giren konularda en az lisans düzeyinde eğitim almış personeli,
+o) Laboratuvar personeli: Laboratuvar birimlerinin/bölümlerinin faaliyet ve görev alanına giren konularda görev alan **(Değişik ibare:RG-1/8/2024-32619)** veya analizleri yapan, laboratuvar birim sorumlusuna ve idareye karşı sorumlu olan, faaliyet ve görev alanına giren konularda en az lisans düzeyinde eğitim almış personeli,
 
 ö) Laboratuvar tecrübesi: Genel Müdürlüğün Bakanlık gıda kontrol laboratuvarları ile ilgili merkez biriminde, Bakanlık gıda kontrol laboratuvarlarında veya Bakanlık gıda kontrol laboratuvarlarının çalışma konularında faaliyet gösteren diğer resmî kurum ve kuruluşlara bağlı laboratuvarlarda çalışma süresini,
 
-p) Laboratuvar yardımcı personeli: Laboratuvar birimlerinin/bölümlerinin faaliyet ve görev alanına giren konularda (Mülga ibare:RG-1/8/2024-32619) , birim/bölüm sorumlusuna ve idareye karşı sorumlu olan, analizlerin yapılmasında görev alan, ancak tek başına analizin tamamını yapma, sonuç değerlendirme, sonuç onay ve rapor imzalama yetkisi bulunmayan, laboratuvarın faaliyet alanları ile ilgili konularda en az lise düzeyinde eğitim almış personeli,
+p) Laboratuvar yardımcı personeli: Laboratuvar birimlerinin/bölümlerinin faaliyet ve görev alanına giren konularda **(Mülga ibare:RG-1/8/2024-32619)** , birim/bölüm sorumlusuna ve idareye karşı sorumlu olan, analizlerin yapılmasında görev alan, ancak tek başına analizin tamamını yapma, sonuç değerlendirme, sonuç onay ve rapor imzalama yetkisi bulunmayan, laboratuvarın faaliyet alanları ile ilgili konularda en az lise düzeyinde eğitim almış personeli,
 
 r) Laboratuvarlar arası karşılaştırma testi: Laboratuvarların belirli aralıklarla analiz performansını ve analiz sonuçlarını karşılaştırmak ve kontrol etmek amacıyla, önceden belirlenmiş koşullara uygun olarak aynı veya benzer ögeler üzerinde yapılan ölçümlerin veya deneylerin düzenlenmesi, gerçekleştirilmesi ve değerlendirilmesini,
 
@@ -114,7 +114,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel Şartlar, Laboratuvar Binası, Laboratuvar Birimleri ve Genel Özellikleri
+**Genel Şartlar, Laboratuvar Binası, Laboratuvar Birimleri ve Genel Özellikleri**
 
 #### Genel şartlar
 
@@ -176,7 +176,7 @@ b) Teknik hizmet bölümü.
 
 a) Laboratuvarlar, faaliyet alanları ile ilgili olarak ulusal veya uluslararası belirlenen limitleri doğru bir şekilde tespit edebilecek donanıma sahip olur.
 
-b) Enstrümental cihazlarla yapılan analizlerde numune hazırlama birimi ile cihazın bulunduğu (Değişik ibare:RG-1/8/2024-32619) oda ayrı planlanır, dışarıya hava ve gaz veren cihazlar ile analizde kullandığı çözeltileri ve hazırlanan numuneleri kapalı ortamda bulundurmayan cihazların bulunduğu ortamlarda mutlaka hava emici olur.
+b) Enstrümental cihazlarla yapılan analizlerde numune hazırlama birimi ile cihazın bulunduğu **(Değişik ibare:RG-1/8/2024-32619)** oda ayrı planlanır, dışarıya hava ve gaz veren cihazlar ile analizde kullandığı çözeltileri ve hazırlanan numuneleri kapalı ortamda bulundurmayan cihazların bulunduğu ortamlarda mutlaka hava emici olur.
 
 c) Organoleptik analizler dışında yapılan duyusal analizlerin yapıldığı yer, laboratuvarın diğer analiz birimlerinden ayrı, aydınlatma, havalandırma ve ortam şartları ayarlanabilir, ısı, ışık ve koku geçirmeyen bağımsız odalarda planlanır.
 
@@ -220,37 +220,37 @@ s) Numune kabul ve rapor düzenleme birimi, laboratuvarın analiz yapılan birim
 
 ş) Özel gıda kontrol laboratuvarları onaylı faaliyet listesinde yer alan analizler için yetki aldığı laboratuvar hizmet birimleri ile cihazları bu Yönetmeliğin kapsamı dışındaki ürün/ürün grupları analizleri için kullanamaz.
 
-t) (Ek:RG-1/8/2024-32619) Laboratuvarlarda laboratuvar müdürü ve diğer yönetim personeli ile birim sorumluları ve personel için yeterli sayıda oda, arşiv ve tuvalet bulunur.
+t) **(Ek:RG-1/8/2024-32619)** Laboratuvarlarda laboratuvar müdürü ve diğer yönetim personeli ile birim sorumluları ve personel için yeterli sayıda oda, arşiv ve tuvalet bulunur.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İstihdam, Laboratuvar ve Sorumlularının Görev ve Yetkileri,
+**İstihdam, Laboratuvar ve Sorumlularının Görev ve Yetkileri,**
 
-Çalışma Bölümleri/Birimleri
+**Çalışma Bölümleri/Birimleri**
 
 #### İstihdam
 
 **MADDE 9 –** (1) Laboratuvarlarda müdür, kalite yönetim birim sorumlusu, numune kabul ve rapor düzenleme birim sorumlusu, her laboratuvar hizmet biriminde ayrı ayrı laboratuvar birim sorumlusu ve yeterli sayıda laboratuvar personeli istihdamı zorunludur. Bakanlık gıda kontrol laboratuvarlarında Bakanlıkça yayımlanan mevzuata uygun olarak gerektiğinde birden fazla müdür yardımcısı istihdam edilir. Laboratuvarda istihdam edilecek personelde aşağıdaki hususlar dikkate alınır:
 
-a) Laboratuvarların teknik hizmet bölümünde faaliyet ve görev alanına giren konulara göre gıda, süt, su ürünleri, zootekni, bitki koruma, bahçe bitkileri, tarla bitkileri, toprak, biyosistem, biyoteknoloji, tarım teknolojisi ve tarımsal biyoteknoloji bölümü ziraat mühendisliği, veteriner hekimlik, gıda mühendisliği, gıda teknolojisi, kimya mühendisliği, kimya, su ürünleri mühendisliği, balıkçılık teknolojisi mühendisliği, biyoloji, moleküler biyoloji ve genetik, kimya ve biyoloji mühendisliği, biyokimya, biyokimya mühendisliği, genetik ve biyoteknoloji, biyomühendislik, polimer mühendisliği bölümlerinden veya bu bölümlere eşdeğer olduğu Yükseköğretim Kurulu Başkanlığınca belgelenen bölümlerden lisans derecesine sahip personel görev yapar. Ayrıca laboratuvarlarda faaliyet ve görev alanına giren konularda tekniker, teknisyen, laborantlar laboratuvar yardımcı personeli olarak istihdam edilir. Laboratuvarlarda ilgili konularda, en az lisans mezunu bir laboratuvar müdürü, en az lisans mezunu bir kalite yönetim birim sorumlusu, analiz birimleri için birim sorumlusu dahil en az lisans mezunu iki laboratuvar personeli, numune kabul ve (Değişik ibare:RG-1/8/2024-32619) rapor düzenleme birim sorumlusu için en az ön lisans mezunu personel istihdamı sağlanır.
+a) Laboratuvarların teknik hizmet bölümünde faaliyet ve görev alanına giren konulara göre gıda, süt, su ürünleri, zootekni, bitki koruma, bahçe bitkileri, tarla bitkileri, toprak, biyosistem, biyoteknoloji, tarım teknolojisi ve tarımsal biyoteknoloji bölümü ziraat mühendisliği, veteriner hekimlik, gıda mühendisliği, gıda teknolojisi, kimya mühendisliği, kimya, su ürünleri mühendisliği, balıkçılık teknolojisi mühendisliği, biyoloji, moleküler biyoloji ve genetik, kimya ve biyoloji mühendisliği, biyokimya, biyokimya mühendisliği, genetik ve biyoteknoloji, biyomühendislik, polimer mühendisliği bölümlerinden veya bu bölümlere eşdeğer olduğu Yükseköğretim Kurulu Başkanlığınca belgelenen bölümlerden lisans derecesine sahip personel görev yapar. Ayrıca laboratuvarlarda faaliyet ve görev alanına giren konularda tekniker, teknisyen, laborantlar laboratuvar yardımcı personeli olarak istihdam edilir. Laboratuvarlarda ilgili konularda, en az lisans mezunu bir laboratuvar müdürü, en az lisans mezunu bir kalite yönetim birim sorumlusu, analiz birimleri için birim sorumlusu dahil en az lisans mezunu iki laboratuvar personeli, numune kabul ve **(Değişik ibare:RG-1/8/2024-32619)** rapor düzenleme birim sorumlusu için en az ön lisans mezunu personel istihdamı sağlanır.
 
-b) (Değişik ibare:RG-1/8/2024-32619) Laboratuvar müdürü, müdür yardımcısı, kalite yönetim birim sorumlusu ile numune kabul ve rapor düzenleme biriminde görevli personel laboratuvarın analiz yapılan birimlerinde görev alamaz.
+b) **(Değişik ibare:RG-1/8/2024-32619)** Laboratuvar müdürü, müdür yardımcısı, kalite yönetim birim sorumlusu ile numune kabul ve rapor düzenleme biriminde görevli personel laboratuvarın analiz yapılan birimlerinde görev alamaz.
 
-c) (Değişik:RG-1/8/2024-32619) Laboratuvarda laboratuvar müdürünün, birim sorumlularının izinli veya raporlu olması durumunda yerine vekâlet edecek personel, vekâlet edilen görevin gerektirdiği özellikleri taşımak zorundadır. Vekâlet edilen kişi laboratuvar müdürü, müdür yardımcısı, kalite yönetim birim sorumlusu veya numune kabul ve rapor düzenleme birim sorumlusu olması durumunda vekâlet eden kişi vekâlet süresince analizlerde görev alamaz. Bir personel birden fazla birim sorumluluğuna aynı anda vekâlet edemez.
+c) **(Değişik:RG-1/8/2024-32619)** Laboratuvarda laboratuvar müdürünün, birim sorumlularının izinli veya raporlu olması durumunda yerine vekâlet edecek personel, vekâlet edilen görevin gerektirdiği özellikleri taşımak zorundadır. Vekâlet edilen kişi laboratuvar müdürü, müdür yardımcısı, kalite yönetim birim sorumlusu veya numune kabul ve rapor düzenleme birim sorumlusu olması durumunda vekâlet eden kişi vekâlet süresince analizlerde görev alamaz. Bir personel birden fazla birim sorumluluğuna aynı anda vekâlet edemez.
 
 ç) Laboratuvarda, personelin işten ayrılması durumunda mevcut analiz birimlerine göre istihdam edilmesi gereken asgari personel sayısının otuz gün içerisinde sağlanması gerekir.
 
 d) Laboratuvarlarda yapılacak olan gıdaların duyusal analizlerinde görev alacak panelistler için ön lisans veya lisans eğitimi almış personel dışında da personel istihdam edilebilir. Panelistlerin metodun gerektirdiği niteliklere sahip olması ve gerekli eğitimleri almış olması gereklidir.
 
-e) (Mülga:RG-1/8/2024-32619)
+e) **(Mülga:RG-1/8/2024-32619)**
 
-f) Özel gıda kontrol laboratuvarında görevli müdür ve teknik hizmet bölümü personeli tam zamanlı sigortalı olmak zorundadır ve farklı bir işle iştigal olamazlar. Bu şart, (Değişik ibare:RG-16/11/2022-32015) (d) bendinde belirtilen personel için aranmaz.
+f) Özel gıda kontrol laboratuvarında görevli müdür ve teknik hizmet bölümü personeli tam zamanlı sigortalı olmak zorundadır ve farklı bir işle iştigal olamazlar. Bu şart, **(Değişik ibare:RG-16/11/2022-32015)** (d) bendinde belirtilen personel için aranmaz.
 
 g) Özel gıda kontrol laboratuvarının şirket sahibi, şirket ortağı, genel müdür, genel müdür yardımcısı gibi üst yönetimi laboratuvarın teknik hizmet bölümünde görev alamaz.
 
-ğ) (Değişik:RG-1/8/2024-32619) Bakanlık gıda kontrol laboratuvarına müdür ve müdür yardımcısı olarak atanacak personelin en az üç yıl laboratuvar tecrübesine sahip olması gerekir. Gıda kontrol laboratuvarlarına teknik hizmet bölümünde çalışmak üzere atanacak personelin hizmet süresi on yıldan fazla olamaz. Hizmet süresi on yıldan fazla olan teknik ve sağlık hizmetleri sınıfı personelinin laboratuvarlara atanabilmesi için en az iki yıl laboratuvar tecrübesine sahip olması şartı aranır.
+ğ) **(Değişik:RG-1/8/2024-32619)** Bakanlık gıda kontrol laboratuvarına müdür ve müdür yardımcısı olarak atanacak personelin en az üç yıl laboratuvar tecrübesine sahip olması gerekir. Gıda kontrol laboratuvarlarına teknik hizmet bölümünde çalışmak üzere atanacak personelin hizmet süresi on yıldan fazla olamaz. Hizmet süresi on yıldan fazla olan teknik ve sağlık hizmetleri sınıfı personelinin laboratuvarlara atanabilmesi için en az iki yıl laboratuvar tecrübesine sahip olması şartı aranır.
 
-h) (Ek:RG-1/8/2024-32619) Laboratuvarda bilfiil çalışma gerektirmeyen teknik servis, bakım-onarım, bilgi işlem, istatistik ve benzeri görevleri yürütmek üzere; elektrik, elektronik, makine, fizik, çevre, bilgisayar mühendisliği, istatistik gibi bölümlerden mezun olanlar, bu alanlardan mezun olan tekniker ve teknisyenler ile idari ve mali işler ve benzeri bölümlerde görev alacak personelin atanmasında laboratuvar tecrübesi ve hizmet süresi şartı aranmaz.
+h) **(Ek:RG-1/8/2024-32619)** Laboratuvarda bilfiil çalışma gerektirmeyen teknik servis, bakım-onarım, bilgi işlem, istatistik ve benzeri görevleri yürütmek üzere; elektrik, elektronik, makine, fizik, çevre, bilgisayar mühendisliği, istatistik gibi bölümlerden mezun olanlar, bu alanlardan mezun olan tekniker ve teknisyenler ile idari ve mali işler ve benzeri bölümlerde görev alacak personelin atanmasında laboratuvar tecrübesi ve hizmet süresi şartı aranmaz.
 
 #### Laboratuvarın görevleri
 
@@ -356,9 +356,9 @@ e) Laboratuvar müdürü tarafından verilecek iş ve işlemleri yürütmek.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Özel Gıda Kontrol Laboratuvarlarının Başvuruları, Kuruluş İzni,
+**Özel Gıda Kontrol Laboratuvarlarının Başvuruları, Kuruluş İzni,**
 
-Çalışma İzni, Kapsam Genişletmesi ve Geçici Kapsam
+**Çalışma İzni, Kapsam Genişletmesi ve Geçici Kapsam**
 
 #### Başvurular
 
@@ -366,7 +366,7 @@ e) Laboratuvar müdürü tarafından verilecek iş ve işlemleri yürütmek.
 
 #### Kuruluş izni
 
-**MADDE 17 –** (1) Özel gıda kontrol laboratuvarı kurmak isteyen gerçek (Değişik ibare:RG-1/8/2024-32619) veya tüzel kişiler, aşağıdaki bilgi ve belgelerle Genel Müdürlüğe başvurur:
+**MADDE 17 –** (1) Özel gıda kontrol laboratuvarı kurmak isteyen gerçek **(Değişik ibare:RG-1/8/2024-32619)** veya tüzel kişiler, aşağıdaki bilgi ve belgelerle Genel Müdürlüğe başvurur:
 
 a) Başvuru dilekçesi.
 
@@ -384,9 +384,9 @@ f) Özel gıda kontrol laboratuvarının idari ve teknik hizmet bölümlerini g�
 
 g) Dosya inceleme ve belge düzenleme ücretinin Bakanlık hesabına yatırıldığını gösterir alındı belgesi.
 
-(2) Genel Müdürlük özel gıda kontrol laboratuvarının bilgi ve belgelerini içeren başvuru dosyasını inceler. Dosyanın uygun bulunması halinde özel gıda kontrol laboratuvarı, denetim için görevlendirilen her bir laboratuvar denetçisi için yerinde denetim ücretini (Ek ibare:RG-1/8/2024-32619) denetimin gerçekleşeceği tarihteki birim fiyatlar üzerinden ilgili hesaba yatırır ve en az üç kişiden oluşan laboratuvar denetçileri tarafından özel gıda kontrol laboratuvarı yerinde denetlenir. Genel Müdürlüğe sunulan denetim raporuna göre özel gıda kontrol laboratuvarının kuruluşunun bu Yönetmeliğe uygun olması halinde Genel Müdürlükçe kuruluş izin belgesi düzenlenir.
+(2) Genel Müdürlük özel gıda kontrol laboratuvarının bilgi ve belgelerini içeren başvuru dosyasını inceler. Dosyanın uygun bulunması halinde özel gıda kontrol laboratuvarı, denetim için görevlendirilen her bir laboratuvar denetçisi için yerinde denetim ücretini **(Ek ibare:RG-1/8/2024-32619)** denetimin gerçekleşeceği tarihteki birim fiyatlar üzerinden ilgili hesaba yatırır ve en az üç kişiden oluşan laboratuvar denetçileri tarafından özel gıda kontrol laboratuvarı yerinde denetlenir. Genel Müdürlüğe sunulan denetim raporuna göre özel gıda kontrol laboratuvarının kuruluşunun bu Yönetmeliğe uygun olması halinde Genel Müdürlükçe kuruluş izin belgesi düzenlenir.
 
-(3) Yerinde yapılan denetimlerde özel gıda kontrol laboratuvarının kuruluşunun uygun bulunmaması halinde, özel gıda kontrol laboratuvarına denetim raporu ile eksiklikler bildirilir. Özel gıda kontrol laboratuvarı, denetim tarihinden itibaren bir yıl içerisinde eksikliklerini tamamlayarak Genel Müdürlüğe müracaat eder. Özel gıda kontrol laboratuvarının eksiklikleri tamamladığına dair Genel Müdürlüğe müracaatından sonra gerekli görülür ise takip denetimi yapılır. Takip denetimi için görevlendirilen her bir laboratuvar denetçisi için yerinde denetim ücreti (Ek ibare:RG-1/8/2024-32619) denetimin gerçekleşeceği tarihteki birim fiyatlar üzerinden ilgili hesaba yatırılır. En az üç kişiden oluşan laboratuvar denetçileri tarafından özel gıda kontrol laboratuvarı tekrar eksikliklerle ilgili yerinde denetlenir. Genel Müdürlüğe sunulan denetim raporuna göre özel gıda kontrol laboratuvarının kuruluşunun bu Yönetmeliğe uygun olması halinde Genel Müdürlükçe kuruluş izin belgesi düzenlenir. Yerinde yapılan takip denetimi veya eksikliklerle ilgili dosya incelemesi neticesinde eksikliklerin halen giderilmediğinin tespit edilmesi ya da belirtilen sürede müracaat edilmemesi halinde özel gıda kontrol laboratuvarının kuruluş izni müracaatı geçersiz sayılır ve özel gıda kontrol laboratuvarının kuruluş izni için istenen belgeleri güncelleyerek tekrar müracaat etmesi gerekir.
+(3) Yerinde yapılan denetimlerde özel gıda kontrol laboratuvarının kuruluşunun uygun bulunmaması halinde, özel gıda kontrol laboratuvarına denetim raporu ile eksiklikler bildirilir. Özel gıda kontrol laboratuvarı, denetim tarihinden itibaren bir yıl içerisinde eksikliklerini tamamlayarak Genel Müdürlüğe müracaat eder. Özel gıda kontrol laboratuvarının eksiklikleri tamamladığına dair Genel Müdürlüğe müracaatından sonra gerekli görülür ise takip denetimi yapılır. Takip denetimi için görevlendirilen her bir laboratuvar denetçisi için yerinde denetim ücreti **(Ek ibare:RG-1/8/2024-32619)** denetimin gerçekleşeceği tarihteki birim fiyatlar üzerinden ilgili hesaba yatırılır. En az üç kişiden oluşan laboratuvar denetçileri tarafından özel gıda kontrol laboratuvarı tekrar eksikliklerle ilgili yerinde denetlenir. Genel Müdürlüğe sunulan denetim raporuna göre özel gıda kontrol laboratuvarının kuruluşunun bu Yönetmeliğe uygun olması halinde Genel Müdürlükçe kuruluş izin belgesi düzenlenir. Yerinde yapılan takip denetimi veya eksikliklerle ilgili dosya incelemesi neticesinde eksikliklerin halen giderilmediğinin tespit edilmesi ya da belirtilen sürede müracaat edilmemesi halinde özel gıda kontrol laboratuvarının kuruluş izni müracaatı geçersiz sayılır ve özel gıda kontrol laboratuvarının kuruluş izni için istenen belgeleri güncelleyerek tekrar müracaat etmesi gerekir.
 
 (4) Kuruluş izni verilen özel gıda kontrol laboratuvarı yeni bir birim açmak istediğinde, dosya inceleme ve belge yenileme ücretini Bakanlık hesabına yatırarak yeni açılacak birim/birimlere ait bilgi ve belgelerle Genel Müdürlüğe müracaat eder. İkinci ve/veya üçüncü fıkralarda belirtilen işlemler yapılarak yeni kuruluş izin belgesi düzenlenir.
 
@@ -398,7 +398,7 @@ g) Dosya inceleme ve belge düzenleme ücretinin Bakanlık hesabına yatırıld�
 
 a) Dilekçe.
 
-b) Analiz ve metodun kapsadığı ürün (Değişik ibare:RG-1/8/2024-32619) veya ürün grupları bazında belirlenmiş faaliyet konularını belirten belge.
+b) Analiz ve metodun kapsadığı ürün **(Değişik ibare:RG-1/8/2024-32619)** veya ürün grupları bazında belirlenmiş faaliyet konularını belirten belge.
 
 c) Laboratuvar personelinin isimleri, görevleri ve mesleklerini belirten organizasyon şeması.
 
@@ -414,9 +414,9 @@ g) Özel gıda kontrol laboratuvarının yetkilendirildiği faaliyet konuları i
 
 ğ) Dosya inceleme ve belge düzenleme ücretinin Bakanlık hesabına yatırıldığını gösterir alındı belgesi fotokopisi.
 
-(2) Çalışma izni almak isteyen özel gıda kontrol laboratuvarı, bu belgelerle Genel Müdürlüğe müracaat eder. Genel Müdürlük, başvuru dosyasını inceler. Başvuru dosyasının uygun bulunması durumunda, özel gıda kontrol laboratuvarı, kendisine bildirim tarihinden itibaren en geç bir ay içerisinde çalışma izni almak istediği tüm analizlerin yazılı metot talimatlarını, bu talimatların orijinal kaynaklarını, metot validasyon/verifikasyon raporlarını içeren dosyalarını Genel Müdürlüğün görevlendirdiği Ulusal Gıda Referans Laboratuvarına veya Bakanlık gıda kontrol laboratuvarına teknik yönden incelenmek üzere imzalanarak taranmış şekilde dijital ortamda (Değişik ibare:RG-1/8/2024-32619) veya ıslak imzalı olarak gönderir ve dosya inceleme ücretini laboratuvara başvurduğu tarihteki birim fiyat listesinde yer alan ücretler üzerinden görevlendirilen laboratuvara yatırır. Bu süre içerisinde dosyası ilgili laboratuvara gönderilmeyen başvurular geçersiz sayılır. Ulusal Gıda Referans Laboratuvarı veya Bakanlık gıda kontrol laboratuvarı özel gıda kontrol laboratuvarının dosyasını inceler ve eksiklik tespit ettiğinde tamamlaması için özel gıda kontrol laboratuvarına yazılı olarak bildirir. Dosyayı inceleyen Ulusal Gıda Referans Laboratuvarı veya Bakanlık gıda kontrol laboratuvarınca en geç üç ay içerisinde geri dönüş sağlanır. Özel gıda kontrol laboratuvarı eksiklikleri en geç üç ay içerisinde tamamlar veya uygun bulunmayan analizlerini başvuru dosyasından çıkarabilir. Üç ay içerisinde eksikliği tamamlanmayan analiz başvuru listesinden çıkarılır. Dosyayı inceleyen Ulusal Gıda Referans Laboratuvarı veya Bakanlık gıda kontrol laboratuvarı, özel gıda kontrol laboratuvarının dosyaları ile ilgili işlemleri sonuçlandırdıktan sonra gelen dosyayı arşivler.
+(2) Çalışma izni almak isteyen özel gıda kontrol laboratuvarı, bu belgelerle Genel Müdürlüğe müracaat eder. Genel Müdürlük, başvuru dosyasını inceler. Başvuru dosyasının uygun bulunması durumunda, özel gıda kontrol laboratuvarı, kendisine bildirim tarihinden itibaren en geç bir ay içerisinde çalışma izni almak istediği tüm analizlerin yazılı metot talimatlarını, bu talimatların orijinal kaynaklarını, metot validasyon/verifikasyon raporlarını içeren dosyalarını Genel Müdürlüğün görevlendirdiği Ulusal Gıda Referans Laboratuvarına veya Bakanlık gıda kontrol laboratuvarına teknik yönden incelenmek üzere imzalanarak taranmış şekilde dijital ortamda **(Değişik ibare:RG-1/8/2024-32619)** veya ıslak imzalı olarak gönderir ve dosya inceleme ücretini laboratuvara başvurduğu tarihteki birim fiyat listesinde yer alan ücretler üzerinden görevlendirilen laboratuvara yatırır. Bu süre içerisinde dosyası ilgili laboratuvara gönderilmeyen başvurular geçersiz sayılır. Ulusal Gıda Referans Laboratuvarı veya Bakanlık gıda kontrol laboratuvarı özel gıda kontrol laboratuvarının dosyasını inceler ve eksiklik tespit ettiğinde tamamlaması için özel gıda kontrol laboratuvarına yazılı olarak bildirir. Dosyayı inceleyen Ulusal Gıda Referans Laboratuvarı veya Bakanlık gıda kontrol laboratuvarınca en geç üç ay içerisinde geri dönüş sağlanır. Özel gıda kontrol laboratuvarı eksiklikleri en geç üç ay içerisinde tamamlar veya uygun bulunmayan analizlerini başvuru dosyasından çıkarabilir. Üç ay içerisinde eksikliği tamamlanmayan analiz başvuru listesinden çıkarılır. Dosyayı inceleyen Ulusal Gıda Referans Laboratuvarı veya Bakanlık gıda kontrol laboratuvarı, özel gıda kontrol laboratuvarının dosyaları ile ilgili işlemleri sonuçlandırdıktan sonra gelen dosyayı arşivler.
 
-(3) Dosya incelemesinin uygun sonuçlanmasının ardından özel gıda kontrol laboratuvarı, denetim için görevlendirilen her bir laboratuvar denetçisi için yerinde denetim ücretini (Ek ibare:RG-1/8/2024-32619) denetimin gerçekleşeceği tarihteki birim fiyatlar üzerinden ilgili hesaba yatırır. En az üç kişiden oluşan yeterli sayıda laboratuvar denetçileri tarafından özel gıda kontrol laboratuvarının çalışmaları en geç otuz gün içerisinde yerinde denetlenir. Denetlemede laboratuvar denetçileri, validasyon/verifikasyon çalışmaları da dâhil analiz ve özel gıda kontrol laboratuvarı ile ilgili tüm teknik kontrolleri yapar. Laboratuvar denetçileri tarafından denetim raporunun bir nüshası özel gıda kontrol laboratuvarına verilir. Diğer nüshası dosya inceleme raporu (Ek-3) ile birlikte Genel Müdürlüğe gönderilir.
+(3) Dosya incelemesinin uygun sonuçlanmasının ardından özel gıda kontrol laboratuvarı, denetim için görevlendirilen her bir laboratuvar denetçisi için yerinde denetim ücretini **(Ek ibare:RG-1/8/2024-32619)** denetimin gerçekleşeceği tarihteki birim fiyatlar üzerinden ilgili hesaba yatırır. En az üç kişiden oluşan yeterli sayıda laboratuvar denetçileri tarafından özel gıda kontrol laboratuvarının çalışmaları en geç otuz gün içerisinde yerinde denetlenir. Denetlemede laboratuvar denetçileri, validasyon/verifikasyon çalışmaları da dâhil analiz ve özel gıda kontrol laboratuvarı ile ilgili tüm teknik kontrolleri yapar. Laboratuvar denetçileri tarafından denetim raporunun bir nüshası özel gıda kontrol laboratuvarına verilir. Diğer nüshası dosya inceleme raporu (Ek-3) ile birlikte Genel Müdürlüğe gönderilir.
 
 (4) Yerinde yapılan denetimin uygun sonuçlanması durumunda, Genel Müdürlükçe çalışma izin belgesi ve onaylı faaliyet listesi düzenlenir.
 
@@ -424,7 +424,7 @@ g) Özel gıda kontrol laboratuvarının yetkilendirildiği faaliyet konuları i
 
 a) Özel gıda kontrol laboratuvarı uygun bulunmayan analizlerin kapsamdan çıkarılmasını talep eder ve uygun görülen analizler için çalışma izin belgesi ve onaylı faaliyet listesi düzenlenir.
 
-b) Uygun bulunmayan analizler için özel gıda kontrol laboratuvarı, denetim raporunda belirtilen eksiklikleri tamamlayarak, denetim için görevlendirilen laboratuvara bildirir. Özel gıda kontrol laboratuvarı tarafından denetim tarihinden itibaren üç ay içerisinde uygun bulunmayan analizlerin kapsamdan çıkarılması ya da eksikliklerin tamamlandığına dair müracaat yapılmaması durumunda özel gıda kontrol laboratuvarının çalışma izni müracaatı geçersiz sayılır ve çalışma izni için istenen belgeleri güncelleyerek tekrar müracaat etmesi gerekir. Özel gıda kontrol laboratuvarının eksikliklerini giderdiğine dair müracaatından sonra gerekli görülür ise ikinci denetim planlanır ve özel gıda kontrol laboratuvarı yapılacak ikinci denetimde görevlendirilen her bir laboratuvar denetçisi için yerinde denetim ücretini (Ek ibare:RG-1/8/2024-32619) denetimin gerçekleşeceği tarihteki birim fiyatlar üzerinden ilgili hesaba yatırır. En az üç kişiden oluşan laboratuvar denetçileri tarafından ilk denetimde tespit edilen eksikliklerin giderilip giderilmediğine ilişkin özel gıda kontrol laboratuvarında tekrar denetim yapılır. Laboratuvar denetçileri tarafından Genel Müdürlüğe sunulan denetim raporuna göre Genel Müdürlükçe çalışma izin belgesi ve onaylı faaliyet listesi düzenlenir.
+b) Uygun bulunmayan analizler için özel gıda kontrol laboratuvarı, denetim raporunda belirtilen eksiklikleri tamamlayarak, denetim için görevlendirilen laboratuvara bildirir. Özel gıda kontrol laboratuvarı tarafından denetim tarihinden itibaren üç ay içerisinde uygun bulunmayan analizlerin kapsamdan çıkarılması ya da eksikliklerin tamamlandığına dair müracaat yapılmaması durumunda özel gıda kontrol laboratuvarının çalışma izni müracaatı geçersiz sayılır ve çalışma izni için istenen belgeleri güncelleyerek tekrar müracaat etmesi gerekir. Özel gıda kontrol laboratuvarının eksikliklerini giderdiğine dair müracaatından sonra gerekli görülür ise ikinci denetim planlanır ve özel gıda kontrol laboratuvarı yapılacak ikinci denetimde görevlendirilen her bir laboratuvar denetçisi için yerinde denetim ücretini **(Ek ibare:RG-1/8/2024-32619)** denetimin gerçekleşeceği tarihteki birim fiyatlar üzerinden ilgili hesaba yatırır. En az üç kişiden oluşan laboratuvar denetçileri tarafından ilk denetimde tespit edilen eksikliklerin giderilip giderilmediğine ilişkin özel gıda kontrol laboratuvarında tekrar denetim yapılır. Laboratuvar denetçileri tarafından Genel Müdürlüğe sunulan denetim raporuna göre Genel Müdürlükçe çalışma izin belgesi ve onaylı faaliyet listesi düzenlenir.
 
 (6) Çalışma izni bakımından yerinde yapılan denetim sonucunda; kuruluş iznine esas koşullar laboratuvarın faaliyetlerini ve analiz kalitesini etkileyecek şekilde değişmiş, değiştirilmiş ise kuruluş iznine esas eksikliklerin giderilmesi için üç ay süre verilir. Eksiklikler giderilene kadar çalışma izni de düzenlenmez. Süre sonunda eksiklikleri gidermeyen laboratuvarın kuruluş izni iptal edilir.
 
@@ -434,7 +434,7 @@ b) Uygun bulunmayan analizler için özel gıda kontrol laboratuvarı, denetim r
 
 a) Dilekçe.
 
-b) Özel gıda kontrol laboratuvarının kapsam genişletmek istediği analiz ve ürün (Değişik ibare:RG-1/8/2024-32619) veya ürün gruplarını belirten belge.
+b) Özel gıda kontrol laboratuvarının kapsam genişletmek istediği analiz ve ürün **(Değişik ibare:RG-1/8/2024-32619)** veya ürün gruplarını belirten belge.
 
 c) Dosya inceleme ve belge düzenleme ücretinin Bakanlık hesabına yatırıldığını gösterir alındı belgesi fotokopisi.
 
@@ -444,13 +444,13 @@ c) Dosya inceleme ve belge düzenleme ücretinin Bakanlık hesabına yatırıld�
 
 (4) Kapsam genişletme için Genel Müdürlüğe yapılan başvuru ve görevli laboratuvarın belirlenmesi sonrası laboratuvara dosya gönderilmesi bir ay içerisinde yapılır. Bir ay içerisinde gönderilmeyen kapsam genişletme dosyası için Genel Müdürlüğe yeniden başvuru yapılması gerekir.
 
-(5) Bakanlık gıda kontrol laboratuvarları yeni bir analiz, analiz metodu (Değişik ibare:RG-1/8/2024-32619) veya ürün grubunda yetki almak istediklerinde aşağıdaki adımlar uygulanır:
+(5) Bakanlık gıda kontrol laboratuvarları yeni bir analiz, analiz metodu **(Değişik ibare:RG-1/8/2024-32619)** veya ürün grubunda yetki almak istediklerinde aşağıdaki adımlar uygulanır:
 
 a) Laboratuvar analiz çalışmaları başlamadan önce, Ek-2’de yer alan analiz metodu başvuru listesi ile Genel Müdürlüğe müracaatta bulunurlar.
 
 b) Genel Müdürlükçe başvurunun uygun bulunması durumunda, yeni başvuru yapılan analizlere ait metot validasyon/verifikasyon çalışmalarına başlar. Çalışmalar tamamlandığında raporlarının incelenmesi için görevlendirilen Ulusal Gıda Referans Laboratuvarı veya Bakanlık gıda kontrol laboratuvarına gönderir. Teknik inceleme uygun sonuçlandığında gerekli görüldüğü durumlarda en az üç kişiden oluşan laboratuvar denetçileri tarafından yerinde denetim gerçekleştirilir.
 
-c) Dosya inceleme formu (Değişik ibare:RG-1/8/2024-32619) veya denetim raporuna göre uygun bulunan analizler için Genel Müdürlükçe onay verilir.
+c) Dosya inceleme formu **(Değişik ibare:RG-1/8/2024-32619)** veya denetim raporuna göre uygun bulunan analizler için Genel Müdürlükçe onay verilir.
 
 ç) Ülke gündemini meşgul eden, halk sağlığını tehdit eden durumlarda acilen yapılmasına ihtiyaç duyulan analizler için Bakanlık tarafından bu fıkraya istisna uygulanabilir.
 
@@ -458,7 +458,7 @@ c) Dosya inceleme formu (Değişik ibare:RG-1/8/2024-32619) veya denetim raporun
 
 **MADDE 20 –** (1) Özel gıda kontrol laboratuvarları, onaylı faaliyet listesinde yer almayan, sadece özel istek analizlerine cevap verebilmek amacıyla geçici kapsam almak için Genel Müdürlüğe başvurur. Özel gıda kontrol laboratuvarının geçici kapsama başvurabilmesi için aşağıdaki şartları taşıması gereklidir:
 
-a) Özel gıda kontrol laboratuvarının geçici kapsam için başvuruda bulunduğu analiz hizmet birimine (fiziksel, kimyasal (Mülga ibare:RG-1/8/2024-32619) , mikrobiyoloji, (Değişik ibare:RG-1/8/2024-32619) moleküler biyoloji ) sahip olması.
+a) Özel gıda kontrol laboratuvarının geçici kapsam için başvuruda bulunduğu analiz hizmet birimine (fiziksel, kimyasal **(Mülga ibare:RG-1/8/2024-32619)** , mikrobiyoloji, **(Değişik ibare:RG-1/8/2024-32619)** moleküler biyoloji ) sahip olması.
 
 b) Özel gıda kontrol laboratuvarının geçici kapsam için başvuruda bulunacağı birimin en az 3 yıl süre ile onaylı faaliyet listesinde onayının bulunması.
 
@@ -470,7 +470,7 @@ c) Geçici kapsam için başvuruda bulunulan analizin, mevcut onaylı faaliyet l
 
 a) Dilekçe.
 
-b) Özel gıda kontrol laboratuvarının kapsam genişletmek istediği analiz ve ürün (Değişik ibare:RG-1/8/2024-32619) veya ürün gruplarını belirten belge.
+b) Özel gıda kontrol laboratuvarının kapsam genişletmek istediği analiz ve ürün **(Değişik ibare:RG-1/8/2024-32619)** veya ürün gruplarını belirten belge.
 
 c) Geçici kapsam belge düzenleme ücretinin Bakanlık hesabına yatırıldığını gösterir alındı belgesi fotokopisi.
 
@@ -486,7 +486,7 @@ c) Geçici kapsam belge düzenleme ücretinin Bakanlık hesabına yatırıldığ
 
 ### BEŞİNCİ BÖLÜM
 
-Yetkilendirme ve Bildirimler
+**Yetkilendirme ve Bildirimler**
 
 #### Yetkilendirme
 
@@ -502,7 +502,7 @@ Yetkilendirme ve Bildirimler
 
 (2) Çalışma iznine sahip özel gıda kontrol laboratuvarları her üç ayda bir olarak Ek-9’da yer alan forma uygun olarak üçer aylık toplam faaliyetlerini ve yıl sonunda yıllık toplam faaliyetlerini takip eden ayın on beşine kadar yazılı olarak Genel Müdürlüğe gönderir.
 
-(3) Laboratuvarlar katılım sağladıkları yeterlilik testlerinin sonuçlarının olumlu olması durumunda Ek-10’a uygun olarak Ocak ayı içerisinde Genel Müdürlüğe bildirir. Olumsuz çıkan yeterlilik test sonuçlarını, düzeltici faaliyetleri ile birlikte yeterlilik testi sonucunun laboratuvara bildirildiği tarihten itibaren (Değişik ibare:RG-16/11/2022-32015) otuz gün içerisinde Genel Müdürlüğe bildirir.
+(3) Laboratuvarlar katılım sağladıkları yeterlilik testlerinin sonuçlarının olumlu olması durumunda Ek-10’a uygun olarak Ocak ayı içerisinde Genel Müdürlüğe bildirir. Olumsuz çıkan yeterlilik test sonuçlarını, düzeltici faaliyetleri ile birlikte yeterlilik testi sonucunun laboratuvara bildirildiği tarihten itibaren **(Değişik ibare:RG-16/11/2022-32015)** otuz gün içerisinde Genel Müdürlüğe bildirir.
 
 (4) Özel gıda kontrol laboratuvarının; kapatılması, sahibinin, cadde, sokak, numara değişikliği dâhil adresinin veya adının değişmesi, fiziksel olarak genişletilmesi veya yapısını temelden değiştirecek tadilatların yapılması halinde otuz gün içinde değişikliğe ilişkin bilgi ve belgeler Genel Müdürlüğe gönderilir. Değişiklikle ilgili bilgi ve belgeler incelendikten sonra gerekli görüldüğünde özel gıda kontrol laboratuvarı, denetim için görevlendirilen laboratuvar denetçileri için yerinde denetim ücretini ilgili hesaba yatırır ve en az üç kişiden oluşan laboratuvar denetçileri tarafından özel gıda kontrol laboratuvarında, yerinde denetleme yapılır. Denetçiler tarafından hazırlanan ve Genel Müdürlüğe sunulan raporda özel gıda kontrol laboratuvarının yapmış olduğu değişikliğe göre Genel Müdürlük tarafından belge yenilenmesi gerek görülürse özel gıda kontrol laboratuvarı belge yenileme ücreti yatırır. Kuruluş veya çalışma izin belgesi yenilenir ya da 17 nci maddede belirtilen kuruluş izni ve 18 inci maddede belirtilen çalışma izni almasına esas teşkil eden bir hükmün ortadan kalktığı tespit edilirse, belirlenen eksiklik giderilinceye kadar laboratuvarın analiz yapma yetkisi askıya alınarak faaliyeti durdurulur.
 
@@ -516,7 +516,7 @@ Yetkilendirme ve Bildirimler
 
 ### ALTINCI BÖLÜM
 
-Belge ve Kayıtların Tutulması
+**Belge ve Kayıtların Tutulması**
 
 #### Belge ve kayıtlar
 
@@ -538,7 +538,7 @@ f) Yeterlilik testi bildirim raporu (Ek-10).
 
 g) Kimyasal madde stok takip formu (Ek-11).
 
-ğ) Standart (Değişik ibare:RG-1/8/2024-32619) ve referans maddelerin kayıtları.
+ğ) Standart **(Değişik ibare:RG-1/8/2024-32619)** ve referans maddelerin kayıtları.
 
 h) Laboratuvarın atık prosedürü ve atık kayıtları.
 
@@ -558,7 +558,7 @@ n) İlk yardım talimatı.
 
 o) Denetim tutanakları.
 
-ö) Tıbbi (Değişik ibare:RG-1/8/2024-32619) ve kimyasal atık beyan ve teslim formu.
+ö) Tıbbi **(Değişik ibare:RG-1/8/2024-32619)** ve kimyasal atık beyan ve teslim formu.
 
 (2) Birinci fıkrada belirtilen doküman ve kayıtlar en az beş yıl muhafaza edilir. Elektronik ortamda tutulan kayıtların, eklerde belirtilen formlarda bulunan bilgileri içermesi ve gerektiğinde aynı formatta raporlanabilmesi gerekir.
 
@@ -566,13 +566,13 @@ o) Denetim tutanakları.
 
 ### YEDİNCİ BÖLÜM
 
-Analiz Metotları ve Özellikleri, Analiz Raporları ve Ücretleri
+**Analiz Metotları ve Özellikleri, Analiz Raporları ve Ücretleri**
 
 #### Analiz metotları ve özellikleri
 
 **MADDE 24 –** (1) Laboratuvarlarda öncelikle gıda ve yem mevzuatlarında belirtilen analiz metotları, uluslararası veya ulusal metotlar kullanılır. Ulusal veya uluslararası kabul edilmiş bir analiz metodu kullanıldığında, laboratuvar tarafından ilgili metodun laboratuvarda uygulanabilirliğinin verifikasyon çalışmasının yapılması gerekir. Ulusal veya uluslararası kabul edilmiş bir analiz metodu kullanılmadığında, laboratuvar tarafından ilgili metodun uluslararası bir protokole göre validasyon çalışmaları yapılarak dokümante edilir. Yapılan validasyon metotta tanımlanmış olan ürün/ürünler için geçerlidir. Metotta belirtilenin dışında farklı özelliklere sahip bir matriksteki ürün çalışıldığında metot yeniden geçerli kılınır. Elde edilen validasyon sonuçlarına göre metodun optimum şartlarda ve en yüksek performansta kullanılması için gerekli olan uyarıların, dikkat edilecek noktaların, kritik nokta ve kritik işlemlerin tanımlandığı rutin uygulamalara yönelik analiz metot talimatları hazırlanır.
 
-(2) Metot validasyonu doğruluk, tespit limiti, tayin sınırı, kesinlik (tekrar edilebilirlik ve tekrar üretilebilirlik), doğrusallık, ölçüm belirsizliği ve gerekli görülecek diğer çalışmaları kapsar. Standart olmayan metotlarda bu çalışmalara ilave olarak (Değişik ibare:RG-1/8/2024-32619) seçicilik ve hassasiyet çalışmaları da yapılır.
+(2) Metot validasyonu doğruluk, tespit limiti, tayin sınırı, kesinlik (tekrar edilebilirlik ve tekrar üretilebilirlik), doğrusallık, ölçüm belirsizliği ve gerekli görülecek diğer çalışmaları kapsar. Standart olmayan metotlarda bu çalışmalara ilave olarak **(Değişik ibare:RG-1/8/2024-32619)** seçicilik ve hassasiyet çalışmaları da yapılır.
 
 #### Analiz raporları
 
@@ -594,11 +594,11 @@ e) Raporda mevzuatın gerektirdiği durumlarda geri alma sonuçları, ölçüm b
 
 #### Analiz ücretleri
 
-**MADDE 26 –** (1) Bakanlık tarafından gönderilen resmî kontrol numunelerinde uygulanacak analiz ücretleri 31/1/2015 tarihli ve 29253 sayılı Resmî Gazete’de yayımlanan Gıda, Tarım ve Hayvancılık Bakanlığı Döner Sermaye İşletmeleri Uygulama Yönetmeliğinde yer alan esaslara uygun olarak Bakanlıkça belirlenir. Resmî kontrol numuneleri için belirlenen fiyat tarifesine uyulması zorunludur. (Ek cümle:RG-1/8/2024-32619) (Mülga üçüncü cümle:RG-27/3/2025-32854) Belirlenen fiyatlara uymayan özel gıda kontrol laboratuvarına numune gönderimi altı ay durdurulur.
+**MADDE 26 –** (1) Bakanlık tarafından gönderilen resmî kontrol numunelerinde uygulanacak analiz ücretleri 31/1/2015 tarihli ve 29253 sayılı Resmî Gazete’de yayımlanan Gıda, Tarım ve Hayvancılık Bakanlığı Döner Sermaye İşletmeleri Uygulama Yönetmeliğinde yer alan esaslara uygun olarak Bakanlıkça belirlenir. Resmî kontrol numuneleri için belirlenen fiyat tarifesine uyulması zorunludur. **(Ek cümle:RG-1/8/2024-32619) (Mülga üçüncü cümle:RG-27/3/2025-32854)** Belirlenen fiyatlara uymayan özel gıda kontrol laboratuvarına numune gönderimi altı ay durdurulur.
 
 ### SEKİZİNCİ BÖLÜM
 
-Denetim ve Kontroller, İdari Yaptırımlar
+**Denetim ve Kontroller, İdari Yaptırımlar**
 
 #### Denetim
 
@@ -614,13 +614,13 @@ Denetim ve Kontroller, İdari Yaptırımlar
 
 (6) Denetim sırasında gerekli bilgi ve belgeyi sunmayan ve gerekli kolaylığı göstermeyen özel gıda kontrol laboratuvarlarının ilgili faaliyetleri askıya alınarak faaliyeti durdurulur.
 
-(7) Denetim için görevlendirilen laboratuvar denetçileri gizliliğe riayet etmek koşulu ile uygunsuzluğun belgelenmesi amacıyla fotoğraf (Değişik ibare:RG-1/8/2024-32619) veya video çekimi yapabilir, belgelerin kopyasını veya onaylı suretini alabilir.
+(7) Denetim için görevlendirilen laboratuvar denetçileri gizliliğe riayet etmek koşulu ile uygunsuzluğun belgelenmesi amacıyla fotoğraf **(Değişik ibare:RG-1/8/2024-32619)** veya video çekimi yapabilir, belgelerin kopyasını veya onaylı suretini alabilir.
 
 (8) Askıya alınma işleminin laboratuvara bildiriminden itibaren bir yıldan fazla askıda kalan, yapılabilirliği sağlanamayan analiz veya analiz grupları onaylı faaliyet konuları listesinden çıkarılır.
 
 (9) Özel gıda kontrol laboratuvarının 9 uncu maddede belirtilen ve istihdam edilmesi zorunlu olan personelinin bulunmadığı, 17 nci maddede belirtilen kuruluş izni, 18 inci maddede belirtilen çalışma izni almasına esas teşkil eden hususlardan bir ya da birkaçının analiz sonuçlarının güvenilirliğini etkileyecek şekilde ortadan kalkmış olduğunun tespit edilmesi durumunda, analiz yetkisi eksiklik giderilinceye kadar askıya alınarak faaliyeti durdurulur. Söz konusu eksiklik bir yıl içerisinde giderilmediği takdirde kuruluş izni ve/veya çalışma izni iptal edilir.
 
-(10) Bakanlık gıda kontrol laboratuvarlarında denetimde bulunan uygunsuzluk analiz (Değişik ibare:RG-1/8/2024-32619) sonuçlarının güvenilirliğini etkileyen bir uygunsuzluk ise, denetçi laboratuvar bunu denetim tutanağında belirterek ivedilikle Genel Müdürlüğe bildirir. (Değişik ibare:RG-1/8/2024-32619) Söz konusu analiz uygunsuzluk giderilinceye kadar askıya alınır.
+(10) Bakanlık gıda kontrol laboratuvarlarında denetimde bulunan uygunsuzluk analiz **(Değişik ibare:RG-1/8/2024-32619)** sonuçlarının güvenilirliğini etkileyen bir uygunsuzluk ise, denetçi laboratuvar bunu denetim tutanağında belirterek ivedilikle Genel Müdürlüğe bildirir. **(Değişik ibare:RG-1/8/2024-32619)** Söz konusu analiz uygunsuzluk giderilinceye kadar askıya alınır.
 
 #### Kontroller
 
@@ -636,7 +636,7 @@ Denetim ve Kontroller, İdari Yaptırımlar
 
 #### İdari yaptırımlar
 
-**MADDE 29 –** (1) Bakanlıktan, 17 nci (Değişik ibare:RG-1/8/2024-32619) veya 18 inci maddelerde belirtilen izni almadan faaliyette bulunan (Değişik ibare:RG-1/8/2024-32619) veya analiz yapmadan muayene ve analiz raporu düzenleyen (Değişik ibare:RG-1/8/2024-32619) veya onaylı faaliyet listesinde yer alan analiz, ürün grubu ya da metot dışında analiz yapan ve rapor düzenleyen özel gıda kontrol laboratuvarları için 5996 sayılı Kanunun 41 inci maddesinin birinci fıkrasının (g) bendi uygulanır.
+**MADDE 29 –** (1) Bakanlıktan, 17 nci **(Değişik ibare:RG-1/8/2024-32619)** veya 18 inci maddelerde belirtilen izni almadan faaliyette bulunan **(Değişik ibare:RG-1/8/2024-32619)** veya analiz yapmadan muayene ve analiz raporu düzenleyen **(Değişik ibare:RG-1/8/2024-32619)** veya onaylı faaliyet listesinde yer alan analiz, ürün grubu ya da metot dışında analiz yapan ve rapor düzenleyen özel gıda kontrol laboratuvarları için 5996 sayılı Kanunun 41 inci maddesinin birinci fıkrasının (g) bendi uygulanır.
 
 (2) Bakanlıkça, 23 üncü maddede istenilen kayıtları tutmayan ve süresi içerisinde sunmayanlar ile 22 nci maddede bildirimi istenilen değişiklikleri süresi içerisinde bildirmeyen özel gıda kontrol laboratuvarları için 5996 sayılı Kanunun 41 inci maddesinin birinci fıkrasının (ğ) bendi uygulanır.
 
@@ -648,13 +648,13 @@ Denetim ve Kontroller, İdari Yaptırımlar
 
 #### Geçiş hükümleri
 
-**GEÇİCİ MADDE 1 –** (1) (Değişik:RG-16/11/2022-32015) Halen faaliyet gösteren laboratuvarlar 9 uncu maddenin birinci fıkrasının (a) bendi hükümlerine; bu Yönetmeliğin yayımı tarihinden önce başvurusu bulunan laboratuvarlar 17 nci maddenin beşinci fıkrası, 18 inci maddenin ikinci fıkrası ve 19 uncu maddenin dördüncü fıkrası hükümlerine bu Yönetmeliğin yayımı tarihinden itibaren bir yıl içinde, 8 inci maddenin birinci fıkrasının (d) ve (e) bentleri hükümlerine bu Yönetmeliğin yayımı tarihinden itibaren iki yıl içinde uymak zorundadır.
+**GEÇİCİ MADDE 1 –** (1) **(Değişik:RG-16/11/2022-32015)** Halen faaliyet gösteren laboratuvarlar 9 uncu maddenin birinci fıkrasının (a) bendi hükümlerine; bu Yönetmeliğin yayımı tarihinden önce başvurusu bulunan laboratuvarlar 17 nci maddenin beşinci fıkrası, 18 inci maddenin ikinci fıkrası ve 19 uncu maddenin dördüncü fıkrası hükümlerine bu Yönetmeliğin yayımı tarihinden itibaren bir yıl içinde, 8 inci maddenin birinci fıkrasının (d) ve (e) bentleri hükümlerine bu Yönetmeliğin yayımı tarihinden itibaren iki yıl içinde uymak zorundadır.
 
 (2) Bu Yönetmeliğin yayımı tarihinden önce faaliyette bulunan laboratuvarlar; uyum için gerekli süre doluncaya kadar 30 uncu madde ile yürürlükten kaldırılan Gıda Kontrol Laboratuvarlarının Kuruluş, Görev, Yetki ve Sorumlulukları ile Çalışma Usul ve Esaslarının Belirlenmesine Dair Yönetmeliğin 7 nci maddesi, 8 inci maddesinin birinci fıkrasının (a) bendi ile 14 üncü maddenin ikinci fıkrası hükümlerine göre çalışmak zorundadır.
 
-(3) (Ek:RG-16/11/2022-32015) Bu Yönetmeliğin yayımı tarihinden önce düzenlenen kuruluş ve çalışma izin belgelerinin geçerliliği devam eder.
+(3) **(Ek:RG-16/11/2022-32015)** Bu Yönetmeliğin yayımı tarihinden önce düzenlenen kuruluş ve çalışma izin belgelerinin geçerliliği devam eder.
 
-(4) (Ek:RG-16/11/2022-32015) Bu Yönetmeliğin yayımı tarihinden önce üniversiteler ile diğer kamu kurum ve kuruluşlarına özel istek analizleri yapabilmeleri için düzenlenen kuruluş yeterlilik izni ve/veya çalışma yeterlilik izni belgeleri bu Yönetmeliğin yayımı tarihi itibarıyla iptal edilmiş sayılır.
+(4) **(Ek:RG-16/11/2022-32015)** Bu Yönetmeliğin yayımı tarihinden önce üniversiteler ile diğer kamu kurum ve kuruluşlarına özel istek analizleri yapabilmeleri için düzenlenen kuruluş yeterlilik izni ve/veya çalışma yeterlilik izni belgeleri bu Yönetmeliğin yayımı tarihi itibarıyla iptal edilmiş sayılır.
 
 #### Geçiş hükmü
 
@@ -670,7 +670,7 @@ Denetim ve Kontroller, İdari Yaptırımlar
 
 **MADDE 32 –** (1) Bu Yönetmelik hükümlerini Tarım ve Orman Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -681,4 +681,4 @@ Ekleri için tıklayınız
 | 2. | 1/8/2024 | 32619 |
 | 3. | 27/3/2025 | 32854 |
 
-<small>[1] Bu değişiklik yayımı tarihinden bir yıl sonra yürürlüğe girer.</small>
+<small>[1] <i>Bu değişiklik yayımı tarihinden bir yıl sonra yürürlüğe girer.</i></small>

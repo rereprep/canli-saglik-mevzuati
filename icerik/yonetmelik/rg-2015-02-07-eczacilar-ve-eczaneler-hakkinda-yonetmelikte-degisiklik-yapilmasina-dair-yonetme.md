@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 İlaç ve Tıbbi Cihaz Kurumundan:
-ECZACILAR VE ECZANELER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ECZACILAR VE ECZANELER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 12/4/2014 tarihli ve 28970 sayılı Resmî Gazete’de yayımlanan Eczacılar ve Eczaneler Hakkında Yönetmeliğin 20 nci maddesinin sekizinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 12/4/2014 tarihli ve 28970 sayılı Resmî Gazete’de yayımlanan Eczacılar ve Eczaneler Hakkında Yönetmeliğin 20 nci maddesinin sekizinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(8) Muayenehaneler ile sadece tahlil ve görüntüleme hizmeti veren laboratuvar tanı merkezleri hariç olmak üzere, içinde sağlık kurum ve kuruluşu bulunan bina ve bahçesi ile müştemilatında serbest eczane açılamaz. Ancak, içinde eczane bulunan binalarda mevcut eczane veya eczanelerin en az beş yıl süreyle faaliyette bulunması kaydıyla sağlık kurum ve kuruluşu açılmasına izin verilebilir.
 Havaalanları, otogarlar ile tren garları ve limanlarda bu kısıtlama uygulanmaz.”
 

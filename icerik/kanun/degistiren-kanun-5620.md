@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/04/20070421-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-KAMUDA GEÇİCİ İŞ POZİSYONLARINDA ÇALIŞANLARIN SÜREKLİ İŞÇİ KADROLARINA VEYA SÖZLEŞMELİ PERSONEL STATÜSÜNE GEÇİRİLMELERİ, GEÇİCİ İŞÇİ ÇALIŞTIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 5620 Kabul Tarihi : 4/4/2007 Kapsam
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**KAMUDA GEÇİCİ İŞ POZİSYONLARINDA ÇALIŞANLARIN SÜREKLİ İŞÇİ KADROLARINA VEYA SÖZLEŞMELİ PERSONEL STATÜSÜNE GEÇİRİLMELERİ, GEÇİCİ İŞÇİ ÇALIŞTIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+**Kanun No. 5620 Kabul Tarihi : 4/4/2007** Kapsam
 
 MADDE 1 – (1) Bu Kanun;
 a) Genel bütçe kapsamındaki kamu idareleri, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (II) sayılı cetvelde yer alan özel bütçeli idareler ve (IV) sayılı cetvelde yer alan sosyal güvenlik kurumları ile bunlara bağlı döner sermayeli kuruluşlar, kanunlarla kurulan fonlar ve kefalet sandıkları, özel kanunlarla kurulan kuruluş ve teşekküller ile hizmetlerini genel bütçenin transfer tertiplerinden yardım alarak yürüten kamu kurum ve kuruluşlarında,

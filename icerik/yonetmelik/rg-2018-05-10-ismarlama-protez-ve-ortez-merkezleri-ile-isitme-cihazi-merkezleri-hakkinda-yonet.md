@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİ İLE İŞİTME CİHAZI MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİ İLE İŞİTME CİHAZI MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 24/9/2011 tarihli ve 28064 sayılı Resmî Gazete’de yayımlanan Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmeliğin 24 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Hazır tıbbi cihazların satılması
@@ -22,7 +22,7 @@ MADDE 24 – /A – (1) Ismarlama protez ve ortez merkezleri, ısmarlama olarak 
 
 MADDE 2 – Aynı Yönetmeliğe aşağıdaki EK-9 eklenmiştir.
 “EK-9
-ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİNDE SATILABİLECEK HAZIR TIBBİ CİHAZLAR
+**ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİNDE SATILABİLECEK HAZIR TIBBİ CİHAZLAR**
 1. Alüminyum koltuk değneği/baston
 2. Canadian
 3. Tripot

@@ -20,11 +20,11 @@ durum: "yürürlükte"
 
 ### DÜKKANLARA MAHSUS KANUN
 
-Kanun Numarası : 984
+**Kanun Numarası : 984**
 
-Kabul Tarihi : 2/3/1927
+**Kabul Tarihi : 2/3/1927**
 
-Yayımlandığı Resmî Gazete : Tarih: 12/3/1927 Sayı: 575
+**Yayımlandığı Resmî Gazete : Tarih: 12/3/1927 Sayı: 575**
 
 #### Yayımlandığı Düstur : Tertip: 3 Cilt: 8 Sayfa: 124
 
@@ -32,7 +32,7 @@ Yayımlandığı Resmî Gazete : Tarih: 12/3/1927 Sayı: 575
 
 **Madde 2 –** Eczaneler Kanununa göre eczane açmak salahiyetini haiz olan her eczacı ecza ticarethanesi açabilir.
 
-**Madde 3 –** Ecza ticarethanesi işlerinden mesul olacak diplomalı bir eczacıyı müdür göstermek şartiyle eczacı olmıyan kimseler dahi ecza ticarethanesi açabilirler. Bir şirket tarafından dahi ecza ticarethanesi açılabilir. (Mülga cümle:15/11/2018-7151/4 md.) (…)
+**Madde 3 –** Ecza ticarethanesi işlerinden mesul olacak diplomalı bir eczacıyı müdür göstermek şartiyle eczacı olmıyan kimseler dahi ecza ticarethanesi açabilirler. Bir şirket tarafından dahi ecza ticarethanesi açılabilir. **(Mülga cümle:15/11/2018-7151/4 md.) (…)**
 
 **Madde 4 –** Bir yerde ecza ticarethanesi açmak için o yerin en büyük mülkiye memuruna bir istida ile müracaat olunur. Bu istidaya:
 
@@ -56,7 +56,7 @@ Yayımlandığı Resmî Gazete : Tarih: 12/3/1927 Sayı: 575
 
 **Madde 11 –** Ecza ticarethanelerinden yalnız eczanelere ve ilaç üreticilerine toptan veya perakende ecza ve mevaddı kimyeviye satılabilir. Ecza ticarethanelerinde reçete yapılması memnu olduğu gibi tuvalet eşyasiyle kauçuk mamulat veya tıbba ve kimyaya ait alat ve edevat müstesna olmak üzere toptan ve perakende olarak ecza ve kimyevi maddelerin ve tıbbi müstahzaratın eşhasa satılması dahi memnudur. Sanat ve ziraatte kullanılan zehirli ve müessir kimyevi maddeler toptan ve perakende olarak hususi ahkamına tevfikan satılabilir.[2]
 
-(Ek fıkra:15/11/2018-7151/1 md.) Türkiye’de ruhsatlı olmayan veya ruhsatlı olup da çeşitli sebeplerle piyasada bulunmayan beşeri tıbbi ürünler, Sağlık Bakanlığı tarafından uygun görülen kamu kurum ve kuruluşları ile Sosyal Güvenlik Kurumu ve Türk Eczacıları Birliği aracılığıyla şahsi kullanım maksadıyla reçeteli olarak yurt dışından temin edilebilir ve doğrudan hastalara verilebilir. Hastanelerin yurt dışından toplu olarak getirdiği ilaçların temini de bu şekilde sağlanabilir. Bu fıkraya göre temin edilen ilaçlar için, yurt dışı ilaç listesine girdiği tarihten itibaren üç yıl içerisinde izin/ruhsat sahibi tarafından ruhsat başvurusunda bulunulması ve başvuru tarihinden itibaren en geç iki yıl içerisinde ruhsat alınması zorunludur. Ruhsat başvurusu yapılmayan veya ruhsatı alınmayan ilaçların bu şekilde teminine devam edilmesine karar vermeye Cumhurbaşkanı yetkilidir.
+**(Ek fıkra:15/11/2018-7151/1 md.)** Türkiye’de ruhsatlı olmayan veya ruhsatlı olup da çeşitli sebeplerle piyasada bulunmayan beşeri tıbbi ürünler, Sağlık Bakanlığı tarafından uygun görülen kamu kurum ve kuruluşları ile Sosyal Güvenlik Kurumu ve Türk Eczacıları Birliği aracılığıyla şahsi kullanım maksadıyla reçeteli olarak yurt dışından temin edilebilir ve doğrudan hastalara verilebilir. Hastanelerin yurt dışından toplu olarak getirdiği ilaçların temini de bu şekilde sağlanabilir. Bu fıkraya göre temin edilen ilaçlar için, yurt dışı ilaç listesine girdiği tarihten itibaren üç yıl içerisinde izin/ruhsat sahibi tarafından ruhsat başvurusunda bulunulması ve başvuru tarihinden itibaren en geç iki yıl içerisinde ruhsat alınması zorunludur. Ruhsat başvurusu yapılmayan veya ruhsatı alınmayan ilaçların bu şekilde teminine devam edilmesine karar vermeye Cumhurbaşkanı yetkilidir.
 
 **Madde 12 –** Ecza komüsyoncuları, ecza ticarethaneleriyle eczanelere ecza ve kimyevi maddeler ve müstahzarat celbine tavassut etmeğe salahiyettar olup nezdlerinde nümune olarak gösterilecek miktardan fazla ilaç bulunduramazlar.
 
@@ -123,6 +123,6 @@ Bu maddenin yürürlüğe girdiği tarihten önce 11 inci maddenin ikinci fıkra
 | 7151 | 3, 11, 21, Geçici Madde 1 | 5/12/2018 |
 | 7557 | EkMadde 1 | 24/7/2025 |
 
-<small>[1] Maddede geçen ruhsat harcı 25/2/1952 tarih ve 5887 sayılı Mülga Harçlar Kanununun 126 ncı maddesinin (İ) bendi ile kaldırılmıştır.</small>
+<small>[1] <i>Maddede geçen ruhsat harcı 25/2/1952 tarih ve 5887 sayılı Mülga Harçlar Kanununun 126 ncı maddesinin (İ) bendi ile kaldırılmıştır.</i></small>
 
-<small>[2] 2/1/2014 tarihli ve 6514 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci cümlesinde yer alan “eczanelere” ibaresinden sonra gelmek üzere “ve ilaç üreticilerine” ibaresi eklenmiştir.</small>
+<small>[2] <i>2/1/2014 tarihli ve 6514 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci cümlesinde yer alan “eczanelere” ibaresinden sonra gelmek üzere “ve ilaç üreticilerine” ibaresi eklenmiştir.</i></small>

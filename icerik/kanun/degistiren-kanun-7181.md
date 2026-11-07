@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/07/20190710-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN TAPU KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7181 Kabul Tarihi: 4/7/2019
+**KANUN TAPU KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7181** Kabul Tarihi: 4/7/2019
 
 MADDE 1 – 22/12/1934 tarihli ve 2644 sayılı Tapu Kanununun 26 ncı maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerde, tarafların farklı tapu müdürlükleri veya yurt dışı teşkilatında bulunmaları hâlinde, taraf iradeleri resmî görevliler tarafından ayrı ayrı alınarak sözleşme tamamlanabilir. Bu fıkranın uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.”

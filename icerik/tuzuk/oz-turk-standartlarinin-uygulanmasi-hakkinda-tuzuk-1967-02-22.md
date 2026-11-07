@@ -15,13 +15,13 @@ durum: "yürürlükte"
 
 ### HAKKINDA TÜZÜK
 
-Bakanlar Kurulu Kararının Tarihi : 7.2.1967 No : 6/7677
+**Bakanlar Kurulu Kararının Tarihi : 7.2.1967 No : 6/7677**
 
-İlgili Kanunun Tarihi : 10.6.1930 No : 1705
+**İlgili Kanunun Tarihi : 10.6.1930 No : 1705**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 22.2.1967 No : 12534
+**Yayımlandığı Resmî Gazetenin Tarihi : 22.2.1967 No : 12534**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 6 Sayfa : 469
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 6 Sayfa : 469**
 
 ### BİRİNCİ KISIM
 
@@ -43,7 +43,7 @@ Bu malların, ne kadar süre içinde ve ne suretle tasfiye edilecekleri, ilgili 
 
 ### İKİNCİ KISIM
 
-Denetleme
+**Denetleme**
 
 ### BİRİNCİ BÖLÜM
 
@@ -97,7 +97,7 @@ Mal sahibi veya temsilcisinin itirazı bulunduğu takdirde, bunu, ilgili tutana�
 
 **Madde 14 –** İhracatta denetleme, ihracatcının veya temsilcisinin malın denetlenmesini isteyen bir beyanname vermesi üzerine, en geç yirmi dört saat içinde, depo, antrepo veya işleme yerlerinden denetlemeye en elverişli olanında, ihracatcı veya temsilcisi de hazır bulunmak suretiyle 9 uncu madde gereğince yapılır.
 
-Bu denetleme sonunda:
+**Bu denetleme sonunda:**
 
 A - Malın, standardına aykırı olmadığı anlaşıldığı takdirde, ambalajları üzerine denetlendiğini gösteren bir işaret konulur ve ambalajların sonradan açılmalarını önlemek için gerekli tedbir alınır. Denetlenmiş mal için ihracatçıya malın standardına uygunluğunu belirten bir denetleme belgesi (Kontrol belgesi) ve gerekli diğer belgeler verilir. Denetleme belgesi ile mal arasındaki bağlantıyı sağlamak için, ambalajlar üzerindeki parti numarası ve diğer resmi işaretler belgelere de yazılır.
 

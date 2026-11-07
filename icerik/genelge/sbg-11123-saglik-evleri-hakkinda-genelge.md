@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı :B100TSH0130001 ANKARA Konu:Sağlık evleri
+**Sayı :**B100TSH0130001 ANKARA **Konu:**Sağlık evleri
 
 ### 19.10.2004 016043 …………… VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE 2004/127
 
@@ -38,4 +38,4 @@ Müsteşar Ek:Makam Onayı
 
 **Dipnotlar**
 
-<small>SAĞLIK OCAKLARI DAİRE BAġKANLIĞI Tel : 0 (312) 435 64 40 / 1242 Faks : 0 (312) 434 44 49</small>
+<small>SAĞLIK OCAKLARI DAİRE BAġKANLIĞI **Tel :** 0 (312) 435 64 40 / 1242 **Faks :** 0 (312) 434 44 49</small>

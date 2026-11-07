@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-HASTA HAKLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**HASTA HAKLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 1/8/1998 tarihli ve 23420 sayılı Resmî Gazete’de yayımlanan Hasta Hakları Yönetmeliğinin 42/A maddesinin birinci fıkrasının (f) bendinde yer alan “hasta iletişim birimine” ibaresi “hasta hakları birimine” olarak değiştirilmiştir.
+**MADDE 1 –** 1/8/1998 tarihli ve 23420 sayılı Resmî Gazete’de yayımlanan Hasta Hakları Yönetmeliğinin 42/A maddesinin birinci fıkrasının (f) bendinde yer alan “hasta iletişim birimine” ibaresi “hasta hakları birimine” olarak değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 42/B maddesinin başlığında ve aynı maddenin birinci fıkrasında yer alan “hasta iletişim birimleri” ibaresi “hasta hakları birimleri” olarak değiştirilmiştir.
 

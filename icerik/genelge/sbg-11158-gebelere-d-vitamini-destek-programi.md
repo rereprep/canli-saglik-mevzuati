@@ -12,7 +12,7 @@ durum: "yürürlükte"
 
 ### SAĞLIK BAKANLIĞI
 
-Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
+**Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü**
 
 Sayı : B.10.0.ACS.0.12.00.11- 350/01
 
@@ -22,7 +22,7 @@ Konu : D Vitamini Destek Programı Uygulaması
 
 ### GENELGE
 
-2011/ 34
+**2011/ 34**
 
 Bilindiği üzere sağlıklı beslenme; doğum öncesinden başlayarak yaşamın her evresinde bireylerin fiziksel, zihinsel, sosyal yeteneklerini etkileyerek toplumun ekonomik ve sosyal gelişmesini sağlayan temel koşullardan en önemlisidir. Eksikliği yaygın olarak gözlenen, yetersizliğinin yarattığı sonuçların anne ve bebek sağlığına olumsuz etkileri bilinen D-Vitamini yetersizliğinin önlenmesi toplum sağlığının geliştirilmesi açısından önem taşımaktadır. Bu nedenle ülkemizde gebelik ve süt verme döneminde annelere D vitamin desteği sağlanması hem anne sağlığı bakımından hem de bebeklerde D vitamini eksikliğinin önlenmesi bakımından gereklidir.
 

@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224-25.htm"
 durum: "yürürlükte"
 ---
 
-KANUN KAMULAŞTIRMA KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7201 Kabul Tarihi: 21/12/2019
+**KANUN KAMULAŞTIRMA KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7201 Kabul Tarihi: 21/12/2019**
 
 MADDE 1 – 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun ek 8 inci maddesinin birinci fıkrasında yer alan “yirmidokuz” ibaresi “yirmi” şeklinde değiştirilmiştir.
 

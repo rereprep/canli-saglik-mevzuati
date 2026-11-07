@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2004/07/20040723.htm#2"
 durum: "yürürlükte"
 ---
 
-Özel Gelir ve Özel Ödeneklerin Düzenlenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Kanun No. 5217 Kabul Tarihi : 14.7.2004
+**Özel Gelir ve Özel Ödeneklerin Düzenlenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Kanun No. 5217 Kabul Tarihi : 14.7.2004**
 
 
 MADDE 1 – 6.6.1985 tarihli ve 3218 sayılı Kanunun 7 nci maddesinin birinci fıkrasının (d) bendinden sonra gelen paragrafı ile son fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -52,14 +52,14 @@ Bu madde hükümlerine göre yapılacak eğitim ve öğretim yardımı ile 13.10
 MADDE 5 – 4.11.1981 tarihli ve 2547 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 EK
 
-MADDE 25. — Bu Kanunun 55 inci maddesine göre yüksek öğretim kurumları adına tapuda kayıtlı taşınmazların kiralanması, satılması ve işletilmesi suretiyle elde edilecek gelirler ile Hazine adına kayıtlı olup, yüksek öğretim kurumlarına tahsis edilmiş taşınmaz malların üzerinde herhangi bir inşaat yapılmamak ve irtifak hakkı tesisine konu edilmemek şartıyla eğitim, sağlık ve sosyal amaçlı kiralanması ve işletilmesi suretiyle elde edilecek gelirlerin tamamını ilgili yüksek öğretim kurumunun her çeşit mal ve hizmet alımlarında ve sermaye harcamalarında (yüksek öğretim kurumları adına tapuda kayıtlı taşınmazların satılması suretiyle elde edilen gelirlerin tamamı sadece sermaye harcamalarında) kullanılmak üzere bir yandan özel gelir, diğer yandan mevcut veya yeni açılacak tertibe özel ödenek kaydetmeye Maliye Bakanı yetkilidir. Sermaye giderleri, yılı yatırım programı ile ilişkilendirilir. Bu ödeneklerin yılı içinde harcanmayan kısmı ertesi yılın bütçesine devren gelir ve ödenek kaydolunur.
+**MADDE 25. —** Bu Kanunun 55 inci maddesine göre yüksek öğretim kurumları adına tapuda kayıtlı taşınmazların kiralanması, satılması ve işletilmesi suretiyle elde edilecek gelirler ile Hazine adına kayıtlı olup, yüksek öğretim kurumlarına tahsis edilmiş taşınmaz malların üzerinde herhangi bir inşaat yapılmamak ve irtifak hakkı tesisine konu edilmemek şartıyla eğitim, sağlık ve sosyal amaçlı kiralanması ve işletilmesi suretiyle elde edilecek gelirlerin tamamını ilgili yüksek öğretim kurumunun her çeşit mal ve hizmet alımlarında ve sermaye harcamalarında (yüksek öğretim kurumları adına tapuda kayıtlı taşınmazların satılması suretiyle elde edilen gelirlerin tamamı sadece sermaye harcamalarında) kullanılmak üzere bir yandan özel gelir, diğer yandan mevcut veya yeni açılacak tertibe özel ödenek kaydetmeye Maliye Bakanı yetkilidir. Sermaye giderleri, yılı yatırım programı ile ilişkilendirilir. Bu ödeneklerin yılı içinde harcanmayan kısmı ertesi yılın bütçesine devren gelir ve ödenek kaydolunur.
 Hazine adına kayıtlı olup yüksek öğretim kurumlarına tahsis edilmiş taşınmaz mallar üzerinde ilgili yüksek öğretim kurumlarının teklifi üzerine, öğrenci yurt binası ve müştemilatı yaptırılmak üzere mülkiyetin gayri aynî hak tesis edilebilir.
 
 
 MADDE 6 – 13.12.1983 tarihli ve 181 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
 EK
 
-MADDE 2. - Sağlık Bakanlığınca düzenlenecek veya onaylanacak her türlü ruhsatlandırma, ürün üretim ve satış izin belgesi ve mesul müdürlük belgesi ile permi ve sertifikalar üzerinden ellimilyon liradan az, onbeşmilyar liradan çok olmamak üzere Maliye Bakanlığının görüşü üzerine Sağlık Bakanlığınca belirlenecek tarifelere göre ruhsatlandırma bedeli alınır.
+**MADDE 2. -** Sağlık Bakanlığınca düzenlenecek veya onaylanacak her türlü ruhsatlandırma, ürün üretim ve satış izin belgesi ve mesul müdürlük belgesi ile permi ve sertifikalar üzerinden ellimilyon liradan az, onbeşmilyar liradan çok olmamak üzere Maliye Bakanlığının görüşü üzerine Sağlık Bakanlığınca belirlenecek tarifelere göre ruhsatlandırma bedeli alınır.
 Bu tarifeler her yıl 213 sayılı Vergi Usul Kanununa göre belirlenen yeniden değerleme oranında artırılır.
 Bakanlık Merkez Saymanlığınca tahsil edilen bu tutarlar bütçeye gelir kaydedilir.
 
@@ -207,9 +207,9 @@ MADDE 30 – Yılı bütçe kanunları ile diğer kanun hükümleri uyarınca ö
 
 
 MADDE 31 – 1) 21.12.1959 tarihli ve 7397 sayılı Kanunun 30 uncu maddesinin dördüncü ve beşinci fıkraları, 2) 13.10.1988 tarihli ve 3480 sayılı Kanunun 3 üncü ve 4 üncü maddeleri, 3) 13.12.1983 tarihli ve 181 sayılı Kanun Hükmünde Kararnamenin geçici 9 uncu maddesi, 4) 11.2.1950 tarihli ve 5539 sayılı Kanunun 20 nci maddesi, 5) 30.6.1934 tarihli ve 2548 sayılı Kanunun 5 inci ve 6 ncı maddeleri, 6) 29.3.1984 tarihli ve 2992 sayılı Kanunun ek 3 üncü maddesi, 7) 19.11.2003 tarihli ve 5003 sayılı Kanunun 7 nci maddesi ile geçici 2 nci maddesi, 8) 6.8.1997 tarihli ve 4301 sayılı Kanunun 7 nci maddesinin beşinci fıkrası, 9) 10.7.1953 tarihli ve 6136 sayılı Kanunun ek 8 inci maddesinin üçüncü fıkrası, 10) 6.6.2002 tarihli ve 4760 sayılı Kanunun 17 nci maddesinin (2) numaralı fıkrasının (b), (c) ve (d) bentleri ile (3) numaralı fıkrası, 11) 9.1.1985 tarihli ve 3146 sayılı Kanunun 39 uncu maddesinin altıncı fıkrası ile son fıkrasının birinci cümlesi, Yürürlükten kaldırılmıştır.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 1. — 21.2.2002 tarihli ve 4629 sayılı Kanunun geçici 1 inci maddesinin (A) fıkrasının (c) bendi ile (C) fıkrasının (b), (c) ve (d) bentlerine dayanılarak kurum bütçelerine özel ödenek kaydedilen gelirlerden;
+**MADDE 1. —** 21.2.2002 tarihli ve 4629 sayılı Kanunun geçici 1 inci maddesinin (A) fıkrasının (c) bendi ile (C) fıkrasının (b), (c) ve (d) bentlerine dayanılarak kurum bütçelerine özel ödenek kaydedilen gelirlerden;
 a) Mülga Yatırımları Teşvik Fonu gelirleri,
 b) Mülga Gelir İdaresini Geliştirme Fonu gelirleri,
 c) Mülga Organize Sanayi Bölgeleri ve Küçük Sanayi Siteleri Geliştirme ve Destekleme Fonu gelirleri,
@@ -225,24 +225,24 @@ k) Mülga Çevre Kirliliğinin Önlenmesi ve Temizlenmesi Fonu gelirleri,
 l) Mülga Trafik Hizmetlerini Geliştirme Fonu gelirleri,
 m) Mülga Federasyonlar Fonu gelirleri,
 n) Mülga Kooperatifleri Tanıtma ve Eğitim Fonu gelirleri, Bütçe geliri olarak kaydedilir.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 2. — 10.12.2003 tarihli ve 5018 sayılı Kanuna ekli (II) sayılı Cetvelde sayılan özel bütçe kapsamındaki idarelerin ilgili mevzuatında gerekli düzenlemeler yapılıncaya kadar, devam eden özel gelir ve özel ödenek uygulamaları 2005 yılında da 2004 yılında olduğu gibi uygulanmaya devam olunur.
-GEÇİCİ
+**MADDE 2. —** 10.12.2003 tarihli ve 5018 sayılı Kanuna ekli (II) sayılı Cetvelde sayılan özel bütçe kapsamındaki idarelerin ilgili mevzuatında gerekli düzenlemeler yapılıncaya kadar, devam eden özel gelir ve özel ödenek uygulamaları 2005 yılında da 2004 yılında olduğu gibi uygulanmaya devam olunur.
+**GEÇİCİ**
 
-MADDE 3. — 31.12.2005 tarihine kadar;
+**MADDE 3. —** 31.12.2005 tarihine kadar;
 Gençlik ve Spor Genel Müdürlüğü bütçesine ekli (B) işaretli cetvelin "Futbol Müsabakaları Müşterek Bahis Hâsılatından Elde Edilecek Gelir" koduna kayıtlı kaynaktan sağlanacak gelir fazlalarını, sportif hizmetler ve spor tesislerinin yapım, bakım ve büyük onarımlarında kullanılmak üzere Gençlik ve Spor Genel Müdürlüğü bütçesine bir yandan özel gelir, diğer yandan açılacak özel tertibe ödenek kaydetmeye, Çeşitli kurum ve kuruluşlar ile şahıslar tarafından Gençlik ve Spor Genel Müdürlüğüne bağlı spor federasyonları ile dairelere yapılan nakdî yardım ve bağışlarla kendi faaliyet ve hizmetlerinden sağladıkları gelirleri, Genel Müdürlük onayı ile federasyonların ve dairelerin gençlik ve sportif hizmetleri ile mal ve hizmet alımlarında kullanılmak üzere Genel Müdürlük bütçesine bir yandan özel gelir, diğer yandan açılacak özel tertiplere ödenek kaydetmeye, Gençlik ve Spor Genel Müdürlüğünün mülkiyetinde bulunan ve spor amacıyla ayrılmış taşınmaz malların; satışından, mülkiyetin gayri aynî hak tesisinden ve kiralanmasından elde edilen gelirlerini, sportif hizmetler ve spor tesislerinin yapım, bakım ve büyük onarım giderlerinde kullanılmak üzere Genel Müdürlük bütçesine bir yandan özel gelir, diğer yandan açılacak özel tertibe ödenek kaydetmeye, Maliye Bakanı yetkilidir. Bu ödeneklerden yılı içinde sarf edilemeyen kısmı ertesi yıl bütçesinin ilgili tertiplerine devren gelir ve ödenek kaydolunur.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 4. — 31.12.2005 tarihine kadar; Hudut ve Sahiller Sağlık Genel Müdürlüğü bütçesine ekli (B) işaretli Cetvelde yıl içinde meydana gelebilecek gelir fazlalarını bir yandan özel gelir, diğer yandan mevcut veya yeni açılacak özel tertibe ödenek kaydetmeye Maliye Bakanı yetkilidir.
+**MADDE 4. —** 31.12.2005 tarihine kadar; Hudut ve Sahiller Sağlık Genel Müdürlüğü bütçesine ekli (B) işaretli Cetvelde yıl içinde meydana gelebilecek gelir fazlalarını bir yandan özel gelir, diğer yandan mevcut veya yeni açılacak özel tertibe ödenek kaydetmeye Maliye Bakanı yetkilidir.
 Bu şekilde kaydedilen ödeneklerden; Hudut ve Sahiller Sağlık Genel Müdürlüğünde fiilen çalışan tüm personele Sağlık Bakanının onayı ile ek ödeme yapılabilir.
 Ek ödemenin oran, usul ve esasları Maliye Bakanlığının uygun görüşü üzerine Sağlık Bakanlığınca belirlenir. Personele yapılacak ek ödemenin miktarı, en yüksek Devlet memuru aylığının (ek gösterge dahil) % 200'ünü geçemez. Ek ödeme miktarı; görev yapılan birim ve iş hacmi, görevin önem ve güçlüğü, çalışma süresi, personelin sınıfı, kadro unvanı, derecesi ve atanma biçimi gibi kriterler ile personele aylık ve özlük hakları dışında ilgili mevzuatına göre yapılan diğer ilave ödemeler dikkate alınarak belirlenir. Bu ödemeler damga vergisi hariç herhangi bir vergi ve kesintiye tâbi tutulmaz. Yatırım harcamaları yılı yatırım programı ile ilişkilendirilir. Bu ödeneklerin yılı içinde sarf edilemeyen kısmı ertesi yıl bütçesinin ilgili tertibine devren gelir ve ödenek kaydolunur.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 5. — 31.12.2005 tarihine kadar; Vakıflar Genel Müdürlüğü bütçesinin (B) işaretli Cetvelinde yıl içinde meydana gelebilecek gelir fazlalarını bir yandan özel gelir, diğer yandan mevcut veya yeni açılacak özel tertibe ödenek kaydetmeye Maliye Bakanı yetkilidir. Yatırım harcamaları, yılı yatırım programı ile ilişkilendirilir. Bu ödeneklerin yılı içinde harcanmayan kısmı ertesi yıl bütçesinin ilgili tertibine devren gelir ve ödenek kaydolunur.
-GEÇİCİ
+**MADDE 5. —** 31.12.2005 tarihine kadar; Vakıflar Genel Müdürlüğü bütçesinin (B) işaretli Cetvelinde yıl içinde meydana gelebilecek gelir fazlalarını bir yandan özel gelir, diğer yandan mevcut veya yeni açılacak özel tertibe ödenek kaydetmeye Maliye Bakanı yetkilidir. Yatırım harcamaları, yılı yatırım programı ile ilişkilendirilir. Bu ödeneklerin yılı içinde harcanmayan kısmı ertesi yıl bütçesinin ilgili tertibine devren gelir ve ödenek kaydolunur.
+**GEÇİCİ**
 
-MADDE 6. — 31.12.2005 tarihine kadar; Devlet Su İşleri Genel Müdürlüğünün mülkiyetinde bulunan taşınmazlardan ihtiyaç fazlası olanların satışı veya kiralanmasından elde edilen gelirler Devlet Su İşleri Genel Müdürlüğü bütçesinin (B) işaretli cetveline gelir kaydedilir.
+**MADDE 6. —** 31.12.2005 tarihine kadar; Devlet Su İşleri Genel Müdürlüğünün mülkiyetinde bulunan taşınmazlardan ihtiyaç fazlası olanların satışı veya kiralanmasından elde edilen gelirler Devlet Su İşleri Genel Müdürlüğü bütçesinin (B) işaretli cetveline gelir kaydedilir.
 
 
 MADDE 32 – Bu Kanunun;

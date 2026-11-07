@@ -19,11 +19,11 @@ Sayı : 29174
 
 Başbakanlıktan:
 
-Konu : Uyuşturucu ile Mücadele
+**Konu :** Uyuşturucu ile Mücadele
 
 ### GENELGE
 
-2014/19
+**2014/19**
 
 Uyuşturucu madde kullanımı, toplumun ve bireylerin sağlığını ve güvenliğini tehdit eden psikolojik, ekonomik, sosyal vb. çok boyutlu, önemli bir sorundur. Gerekli tedbirler alınmadığı takdirde hızlı bir şekilde yayılarak bireylerin ve toplumun geleceğini tehdit eden bu halk sağlığı problemi ile mücadelenin, ilgili tüm paydaşlarla işbirliği ve koordinasyon içerisinde sürdürülmesi zorunludur.
 

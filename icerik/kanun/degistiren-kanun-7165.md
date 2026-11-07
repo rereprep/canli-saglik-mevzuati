@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/02/20190228-7.htm"
 durum: "yürürlükte"
 ---
 
-KANUN CEZA MUHAKEMESİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7165 Kabul Tarihi: 20/2/2019
+**KANUN CEZA MUHAKEMESİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7165 **Kabul Tarihi: 20/2/2019**
 
 MADDE 1 – 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 364 üncü maddesinin birinci fıkrasında yer alan “kırk bin” ibaresi “elli sekiz bin sekiz yüz” şeklinde değiştirilmiştir.
 

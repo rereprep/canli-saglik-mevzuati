@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/02/20070228-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-FUTBOL MÜSABAKALARINDA MÜŞTEREK BAHİSLER TERTİBİ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5583 Kabul Tarihi : 22/2/2007
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**FUTBOL MÜSABAKALARINDA MÜŞTEREK BAHİSLER TERTİBİ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5583 Kabul Tarihi : 22/2/2007**
 
 
 MADDE 1 – 29/4/1959 tarihli ve 7258 sayılı Futbol Müsabakalarında Müşterek Bahisler Tertibi Hakkında Kanunun adı "Futbol ve Diğer Spor Müsabakalarında Bahis ve Şans Oyunları Düzenlenmesi Hakkında Kanun" olarak değiştirilmiş ve aynı Kanunun 1 inci maddesi ise aşağıdaki şekilde değiştirilmiştir.

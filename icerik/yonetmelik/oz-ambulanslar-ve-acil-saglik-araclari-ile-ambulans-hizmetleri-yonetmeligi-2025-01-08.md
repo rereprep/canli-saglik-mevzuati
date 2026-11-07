@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -24,7 +24,7 @@ Başlangıç Hükümleri
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönetmelik; Millî Savunma Bakanlığı, (Değişik ibare:RG-24/6/2025-32936) Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğü haricindeki kamu kurum ve kuruluşları ile özel hukuk tüzel kişilerince sunulan ambulans hizmetleri ile ambulanslar ve acil sağlık araçlarını kapsar.
+**MADDE 2 –** (1) Bu Yönetmelik; Millî Savunma Bakanlığı, **(Değişik ibare:RG-24/6/2025-32936)** Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğü haricindeki kamu kurum ve kuruluşları ile özel hukuk tüzel kişilerince sunulan ambulans hizmetleri ile ambulanslar ve acil sağlık araçlarını kapsar.
 
 #### Dayanak
 
@@ -86,9 +86,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Ambulansların ve Acil Sağlık Araçlarının
+**Ambulansların ve Acil Sağlık Araçlarının**
 
-Sınıflandırılması, Özellikleri, Personeli ve Tescili
+**Sınıflandırılması, Özellikleri, Personeli ve Tescili**
 
 #### Ambulanslar
 
@@ -98,7 +98,7 @@ a) Kara ambulansları; kullanım amacına göre aşağıda yer alan acil yardım
 
 1) Acil yardım ambulansı; hasta veya yaralılara, acil yardım gerektiren hallerde, olay yerinde ve ambulans içerisinde gerekli acil tıbbi müdahalenin yapılabileceği, Ek-1 ve Ek-2’de yer alan teknik ve tıbbi donanıma sahip kara aracıdır.
 
-2) Hasta nakil ambulansı; acil tıbbi müdahale gerektirmeyen hasta veya yaralıların nakli amacıyla kullanılan, (Değişik ibare:RG-24/6/2025-32936) sesli uyarı sistemi, mavi renkli derhal sökülüp takılabilecek şekilde ışıklı uyarı cihazı ve Ek-1 ile Ek-2’de yer alan teknik ve tıbbi donanıma sahip kara aracıdır.[1]
+2) Hasta nakil ambulansı; acil tıbbi müdahale gerektirmeyen hasta veya yaralıların nakli amacıyla kullanılan, **(Değişik ibare:RG-24/6/2025-32936)** sesli uyarı sistemi, mavi renkli derhal sökülüp takılabilecek şekilde ışıklı uyarı cihazı ve Ek-1 ile Ek-2’de yer alan teknik ve tıbbi donanıma sahip kara aracıdır.[1]
 
 3) Yoğun bakım ambulansı; hasta veya yaralıların nakil esnasında ileri seviyede izlenmesine ve tedavisine yönelik tasarımlanan, Ek-1 ve Ek-2’de yer alan teknik ve tıbbi donanıma sahip kara aracıdır.
 
@@ -134,13 +134,13 @@ a) Acil yardım ambulanslarında en az üç kişiden oluşan ambulans ekibi gör
 
 b) Hasta nakil ambulanslarında en az iki kişiden oluşan ambulans ekibi görev yapar. Ambulans ekibinde en az bir sağlık personeli ve bir sürücü bulunur.
 
-c) Yoğun bakım ambulansları ile özel donanımlı ambulanslarda en az üç kişiden oluşan ambulans ekibi görev yapar. Ambulans ekibinde biri hekim veya acil tıp teknikeri olmak üzere en az iki sağlık personeli ve bir sürücü bulunur. (Mülga cümle:RG-24/6/2025-32936)
+c) Yoğun bakım ambulansları ile özel donanımlı ambulanslarda en az üç kişiden oluşan ambulans ekibi görev yapar. Ambulans ekibinde biri hekim veya acil tıp teknikeri olmak üzere en az iki sağlık personeli ve bir sürücü bulunur. **(Mülga cümle:RG-24/6/2025-32936)**
 
-(2) Hava ambulanslarında, kullanılacak hava aracına göre Ulaştırma ve Altyapı Bakanlığının uygun gördüğü sayıda pilot, en az bir hekim ve bir sağlık personeli bulunmak zorundadır. (Mülga cümle:RG-24/6/2025-32936)
+(2) Hava ambulanslarında, kullanılacak hava aracına göre Ulaştırma ve Altyapı Bakanlığının uygun gördüğü sayıda pilot, en az bir hekim ve bir sağlık personeli bulunmak zorundadır. **(Mülga cümle:RG-24/6/2025-32936)**
 
-(3) Deniz ambulanslarında, kullanılacak deniz aracına göre Ulaştırma ve Altyapı Bakanlığının uygun gördüğü sayıda kaptan ve personel ile en az iki sağlık personeli bulunmak zorundadır. (Mülga cümle:RG-24/6/2025-32936)
+(3) Deniz ambulanslarında, kullanılacak deniz aracına göre Ulaştırma ve Altyapı Bakanlığının uygun gördüğü sayıda kaptan ve personel ile en az iki sağlık personeli bulunmak zorundadır. **(Mülga cümle:RG-24/6/2025-32936)**
 
-(4) (Ek:RG-24/6/2025-32936) Ambulanslarda görev yapacak sağlık personeline Bakanlıkça belirlenen eğitimler tamamlatılır.
+(4) **(Ek:RG-24/6/2025-32936)** Ambulanslarda görev yapacak sağlık personeline Bakanlıkça belirlenen eğitimler tamamlatılır.
 
 (5) Acil sağlık aracında ilgili aracın görev tanımına uygun nitelikte ve sayıda personel görev yapar.
 
@@ -154,7 +154,7 @@ b) Hasta nakil ambulansları gri (RAL 7004) renktedir. Bu araçları fosforlu, m
 
 c) Ambulansın sınıfını gösterir yazılar aracın sağ ve sol yanında yer alır. Hilal işareti aracın ön camının üstünde yolcu tarafında, arka kapı camında sedye tarafında ve aracın üst kısmında yer alır.
 
-ç) Ambulanslar üzerinde kamu kurum ve kuruluşlarına ait olanlar hariç olmak üzere 50x50 cm’yi geçmeyecek şekilde ön camın üstünde sürücü tarafında, her iki yanda ve arka kısımda birer adet olmak üzere işletme (Değişik ibare:RG-24/6/2025-32936) isim, amblem ve iletişim bilgilerine yer verilir.
+ç) Ambulanslar üzerinde kamu kurum ve kuruluşlarına ait olanlar hariç olmak üzere 50x50 cm’yi geçmeyecek şekilde ön camın üstünde sürücü tarafında, her iki yanda ve arka kısımda birer adet olmak üzere işletme **(Değişik ibare:RG-24/6/2025-32936)** isim, amblem ve iletişim bilgilerine yer verilir.
 
 (2) Hava ve deniz ambulanslarında asgari olarak kuruluşa ait isim, marka, işaret, amblem ve iletişim bilgileri yer alır.
 
@@ -180,7 +180,7 @@ c) Tescil işlemi, ilgili mevzuatında tescil işlemi için istenen belgeler ve 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Ambulans Servisleri ve İstasyonların Kuruluşu
+**Ambulans Servisleri ve İstasyonların Kuruluşu**
 
 #### Ambulans servislerine uygunluk verilmesi
 
@@ -188,7 +188,7 @@ Ambulans Servisleri ve İstasyonların Kuruluşu
 
 (2) Kara ambulans servisleri, en az biri acil yardım ambulansı olmak üzere, 4/1/2012 tarihli ve 28163 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinin Ek-1’inde tespit edilmiş olan İ1 grubu illerde en az beş adet; İ2 ve İ3 grubu illerde en az dört adet; İ4 ve İ5 grubu illerde en az üç adet; İ6, İ7, İ8 ve İ9 grubu illerde en az iki adet kara ambulansı ve ekibini bulundurmak zorundadır. Bu servisler, kullandıkları ambulanslardan herhangi birinin geçici olarak hizmet dışı kaldığı durumlarda kullanılmak üzere her beş adet ambulans için bir adet yedek ambulans bulundurabilir. Bulundurulan yedek ambulans için ayrıca personel gerekmez.
 
-(3) (Değişik ibare:RG-24/6/2025-32936) Kamu kurum ve kuruluşlarınca işletilenler dışındaki ambulans servislerinde bulunan kara ambulanslarının mülkiyeti ambulans servisi işletenine ait olmak zorundadır.
+(3) **(Değişik ibare:RG-24/6/2025-32936)** Kamu kurum ve kuruluşlarınca işletilenler dışındaki ambulans servislerinde bulunan kara ambulanslarının mülkiyeti ambulans servisi işletenine ait olmak zorundadır.
 
 (4) Özel sağlık kuruluşları üç ve daha fazla sayıda ambulansı mülkiyetinde bulundurmaları halinde ambulans servisi uygunluk belgesi almak zorundadır.
 
@@ -222,7 +222,7 @@ Ambulans Servisleri ve İstasyonların Kuruluşu
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Ambulans Servisinin Personeli, Personelin Görev ve Sorumlulukları
+**Ambulans Servisinin Personeli, Personelin Görev ve Sorumlulukları**
 
 #### Mesul müdür
 
@@ -258,7 +258,7 @@ h) Ambulansların Ek-1’de istenilen teknik özellikleri koruyup korumadığın
 
 #### Danışman hekim, ekip sorumlusu, çağrı karşılayıcı ve sağlık personeli
 
-**MADDE 15 –** (1) (Değişik:RG-24/6/2025-32936) Danışman hekim gündüz mesai saatlerinde ambulans servislerinin çağrı merkezinde bulunur, diğer zamanlarda ise kendisine ulaşılabilir şekilde olmalıdır. Danışman hekim, vakaların takibi ve tedavi süreçlerinden uygulamayı yapan ambulans ekibi ile birlikte sorumludur.
+**MADDE 15 –** (1) **(Değişik:RG-24/6/2025-32936)** Danışman hekim gündüz mesai saatlerinde ambulans servislerinin çağrı merkezinde bulunur, diğer zamanlarda ise kendisine ulaşılabilir şekilde olmalıdır. Danışman hekim, vakaların takibi ve tedavi süreçlerinden uygulamayı yapan ambulans ekibi ile birlikte sorumludur.
 
 (2) Ekip sorumlusu; ambulanslarda hasta ve yaralılara uygulanan tıbbi işlemleri, hasta ve yaralı kayıtlarının tutulmasını, yapılan işlemlerin ve tıbbi müdahalelerin mobil cihaz üzerinden ambulans vaka kayıt formuna işlenmesini, hastanın hastaneye teslim sürecini ve bu süreçlerin ASOS’a kaydedilmesini koordine eder.
 
@@ -268,7 +268,7 @@ h) Ambulansların Ek-1’de istenilen teknik özellikleri koruyup korumadığın
 
 ### BEŞİNCİ BÖLÜM
 
-Ambulans Servisi Çalışma Usul ve Esasları
+**Ambulans Servisi Çalışma Usul ve Esasları**
 
 #### Çağrı
 
@@ -328,7 +328,7 @@ Ambulans Servisi Çalışma Usul ve Esasları
 
 ### ALTINCI BÖLÜM
 
-Tutulacak Kayıt ve Arşiv
+**Tutulacak Kayıt ve Arşiv**
 
 #### Kayıt
 
@@ -350,7 +350,7 @@ Tutulacak Kayıt ve Arşiv
 
 ### YEDİNCİ BÖLÜM
 
-Denetim ve Yaptırım, Ücretlendirme, Tabela ve Devir
+**Denetim ve Yaptırım, Ücretlendirme, Tabela ve Devir**
 
 #### Denetim ve yaptırım
 
@@ -398,7 +398,7 @@ yetkilidir. Valilikçe, (b) bendinde gösterilen yetki il sağlık müdürüne d
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yasaklar
 
@@ -408,7 +408,7 @@ a) Ambulans servisleri, ambulans servisi uygunluk belgesi almadan ve asgari say�
 
 b) Ambulans servisi, ambulanslar ve sağlık hizmeti sunulan alanlarda bulunması zorunlu sağlık personeli yerine stajyer öğrenci çalıştırılamaz.
 
-c) (Değişik:RG-24/6/2025-32936) Ambulans servisleri, kamu kurum ve kuruluşları ve özel sağlık kuruluşları dışındaki gerçek ve tüzel kişiler ambulans işletemez. Bu kuruluşlar dışında; maden sahaları, sanayi bölgeleri, şantiye alanları gibi acil yardım gerektiren olayların yaşanabileceği alanlarda faaliyet gösteren kurum ve işletmelere, acil yardım ambulansı işletme izni veya 10 uncu maddenin beşinci fıkra hükmü kapsamındaki hizmet sözleşmesini il dışı ambulans servisleri ile de yapabilme izni Müdürlükçe verilebilir. Ambulans servislerince il dışında faaliyet göstermek üzere yapılan bu hizmet sözleşmelerinde, en az bir acil yardım ambulansı, ambulans servisinin kurulduğu ilde hizmet vermek üzere sözleşme kapsamı dışında tutulur. Bu şekilde izin verilen ambulanslar izin alan kurum veya işletmenin ihtiyacı dışında ve başka amaçla kullanılamaz.
+c) **(Değişik:RG-24/6/2025-32936)** Ambulans servisleri, kamu kurum ve kuruluşları ve özel sağlık kuruluşları dışındaki gerçek ve tüzel kişiler ambulans işletemez. Bu kuruluşlar dışında; maden sahaları, sanayi bölgeleri, şantiye alanları gibi acil yardım gerektiren olayların yaşanabileceği alanlarda faaliyet gösteren kurum ve işletmelere, acil yardım ambulansı işletme izni veya 10 uncu maddenin beşinci fıkra hükmü kapsamındaki hizmet sözleşmesini il dışı ambulans servisleri ile de yapabilme izni Müdürlükçe verilebilir. Ambulans servislerince il dışında faaliyet göstermek üzere yapılan bu hizmet sözleşmelerinde, en az bir acil yardım ambulansı, ambulans servisinin kurulduğu ilde hizmet vermek üzere sözleşme kapsamı dışında tutulur. Bu şekilde izin verilen ambulanslar izin alan kurum veya işletmenin ihtiyacı dışında ve başka amaçla kullanılamaz.
 
 ç) Ambulans işletmeye yetkili olanlar dışındakilerce ambulans satın alınamaz. Ancak kamu kurum ve kuruluşlarına hibe etmek amacıyla yapılacak satın alımlarda bu hüküm uygulanmaz.
 
@@ -466,9 +466,9 @@ s) İlgili mevzuat hükümlerine uygun olarak bakım, onarım, test, kontrol ve 
 
 #### Faaliyette olan ambulans servisleri ve ambulansların uyumu
 
-**GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce faaliyete başlayan ambulans işletenler; 5 inci, 8 inci ve 10 uncu maddeler, 30 uncu maddenin birinci fıkrasının (c), (l) ve (o) bentleri ile Ek-1 ve Ek-14’teki hüküm ve şartlara uyumunu, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren (Değişik ibare:RG-24/6/2025-32936) 1/1/2026 tarihine kadar sağlar. Bu süre içinde bu şartları sağlamayan ambulans servisleri ve ambulansların uygunluk belgeleri iptal edilir.
+**GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce faaliyete başlayan ambulans işletenler; 5 inci, 8 inci ve 10 uncu maddeler, 30 uncu maddenin birinci fıkrasının (c), (l) ve (o) bentleri ile Ek-1 ve Ek-14’teki hüküm ve şartlara uyumunu, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren **(Değişik ibare:RG-24/6/2025-32936)** 1/1/2026 tarihine kadar sağlar. Bu süre içinde bu şartları sağlamayan ambulans servisleri ve ambulansların uygunluk belgeleri iptal edilir.
 
-(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce faaliyete başlayan ambulanslar ve acil sağlık araçlarının bu Yönetmelikte yer alan kamera cihaz paketi ve mobil cihaz paketine ilişkin hükümlere uyumu (Değişik ibare:RG-24/6/2025-32936) 1/1/2026 tarihine kadar gerçekleştirilir.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce faaliyete başlayan ambulanslar ve acil sağlık araçlarının bu Yönetmelikte yer alan kamera cihaz paketi ve mobil cihaz paketine ilişkin hükümlere uyumu **(Değişik ibare:RG-24/6/2025-32936)** 1/1/2026 tarihine kadar gerçekleştirilir.
 
 #### Aynı isimle birden fazla ambulans servisi açılması
 
@@ -482,7 +482,7 @@ s) İlgili mevzuat hükümlerine uygun olarak bakım, onarım, test, kontrol ve 
 
 **MADDE 34 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -492,6 +492,6 @@ Ekleri için tıklayınız
 | 1. | 24/6/2025 | 32936 |
 | 2. |  |  |
 
-<small>[1] Danıştay Onuncu Dairesinin 9/2/2026 tarihli ve E.:2025/4300 sayılı kararı ile bu alt bendin eksik düzenleme nedeniyle yürütmesi durdurulmuştur.</small>
+<small>[1] **<i>Danıştay Onuncu Dairesinin 9/2/2026 tarihli ve E.:2025/4300 sayılı kararı ile bu alt bendin eksik düzenleme nedeniyle yürütmesi durdurulmuştur.</i>**</small>
 
-<small>[2] 24/6/2025 tarihli ve 32936 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu maddeye üçüncü fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.</small>
+<small>[2] <i>24/6/2025 tarihli ve 32936 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu maddeye üçüncü fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.</i></small>

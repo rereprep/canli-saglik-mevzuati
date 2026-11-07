@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/07/20210714-8.htm"
 durum: "yürürlükte"
 ---
 
-KANUN CEZA MUHAKEMESİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7331 Kabul Tarihi: 8/7/2021
+**KANUN CEZA MUHAKEMESİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7331 **Kabul Tarihi: 8/7/2021**
 
 MADDE 1 – 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanununun 10 uncu maddesinin ikinci fıkrasının birinci ve üçüncü cümlelerinde yer alan “Altmış” ibareleri “Otuz” şeklinde, ikinci cümlesinde yer alan “altmış” ibaresi “otuz” şeklinde, beşinci cümlesinde yer alan “altı” ibaresi “dört” şeklinde ve altıncı cümlesinde yer alan “altmış günlük” ibaresi “otuz günlük” şeklinde değiştirilmiştir.
 

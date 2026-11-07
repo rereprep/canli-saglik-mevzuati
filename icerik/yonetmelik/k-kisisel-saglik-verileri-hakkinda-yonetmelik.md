@@ -17,11 +17,11 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönetmeliğin amacı; 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu hükümleri kapsamında, Sağlık Bakanlığının merkez ve taşra teşkilatı birimleri ile bunlara bağlı olarak faaliyet göstermekte olan sağlık hizmeti sunucuları ile (Değişik ibare:RG-3/12/2025-33096) Sağlık Bakanlığına bağlı ve ilgili kuruluşlar tarafından yürütülen süreç ve uygulamalarda uyulacak usul ve esasları düzenlemektir.
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı; 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu hükümleri kapsamında, Sağlık Bakanlığının merkez ve taşra teşkilatı birimleri ile bunlara bağlı olarak faaliyet göstermekte olan sağlık hizmeti sunucuları ile **(Değişik ibare:RG-3/12/2025-33096)** Sağlık Bakanlığına bağlı ve ilgili kuruluşlar tarafından yürütülen süreç ve uygulamalarda uyulacak usul ve esasları düzenlemektir.
 
 #### Kapsam
 
@@ -83,7 +83,7 @@ s) Sağlık hizmeti sunucusu: Sağlık hizmetini sunan veya üreten gerçek kiş
 
 ş) Veri sorumlusu: Kişisel sağlık verilerinin işlenme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi,
 
-t) (Ek:RG-3/12/2025-33096) Bakım veren kişi: Çocuğun velisi veya vasisi ya da bakım ve gözetiminden sorumlu olarak yetkilendirilmiş gerçek ya da tüzel kişileri,
+t) **(Ek:RG-3/12/2025-33096)** Bakım veren kişi: Çocuğun velisi veya vasisi ya da bakım ve gözetiminden sorumlu olarak yetkilendirilmiş gerçek ya da tüzel kişileri,
 
 ifade eder.
 
@@ -91,7 +91,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel İlke ve Esaslar
+**Genel İlke ve Esaslar**
 
 #### Genel ilke ve esaslar
 
@@ -99,7 +99,7 @@ Genel İlke ve Esaslar
 
 (2) Herkesin sağlık durumunun takip edilebilmesi ve sağlık hizmetlerinin daha etkin ve hızlı şekilde yürütülmesi maksadıyla, Bakanlık ile bağlı ve ilgili kuruluşlarınca gerekli kayıt ve bildirim sistemi kurulur. Bu sistem, e-Devlet uygulamalarına uygun olarak elektronik ortamda da oluşturulabilir. Bu amaçla Bakanlık tarafından, bağlı ve ilgili kuruluşları da kapsayacak şekilde ülke çapında bilişim sistemleri kurulabilir.
 
-(3) Hiç kimse, (Değişik ibare:RG-3/12/2025-33096) Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartları ile öngörülen durumlar haricinde geçmiş sağlık verilerinin dökümünü sunmaya veya göstermeye zorlanamaz.
+(3) Hiç kimse, **(Değişik ibare:RG-3/12/2025-33096)** Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartları ile öngörülen durumlar haricinde geçmiş sağlık verilerinin dökümünü sunmaya veya göstermeye zorlanamaz.
 
 (4) Sağlık hizmeti sunucuları tarafından; banko, gişe ve masa gibi bölümlerde yetkisi olmayan kişilerin yer almasını önleyecek ve aynı anda yakın konumda hizmet alanların birbirlerine ait kişisel verileri duymalarını, görmelerini, öğrenmelerini veya ele geçirmelerini engelleyecek nitelikte gerekli fiziki, teknik ve idari tedbirler alınır.
 
@@ -113,13 +113,13 @@ Genel İlke ve Esaslar
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Kişisel Sağlık Verilerine Erişim
+**Kişisel Sağlık Verilerine Erişim**
 
 #### Sağlık personelinin verilere erişimi
 
 **MADDE 6 –** (1) Sağlık hizmeti sunumunda görevli kişiler; ilgili kişinin sağlık verilerine ancak, verilecek olan sağlık hizmetinin gereği ile sınırlı olmak kaydıyla erişebilir.
 
-(2) (Değişik:RG-3/12/2025-33096) Kişilerin sağlık verilerine Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartları ile sınırlı olmak üzere ancak;
+(2) **(Değişik:RG-3/12/2025-33096)** Kişilerin sağlık verilerine Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartları ile sınırlı olmak üzere ancak;
 
 a) Kişinin kayıtlı olduğu aile hekimi tarafından herhangi bir süre sınırı olmaksızın,
 
@@ -133,11 +133,11 @@ d) Acil servis üzerinden girişi yapılan kişilerin, ilgili sağlık hizmeti i
 
 erişilebilir.
 
-(3) (Değişik:RG-3/12/2025-33096) e-Nabız hesabı üzerinden güvenlik ayarı tercihinde bulunan kişilerin sağlık verilerine, kendi güvenlik ayarları çerçevesinde erişim sağlanır. İlgili kişiler, güvenlik ayarları ve sonuçları konusunda ayrıntılı şekilde bilgilendirilir. Güvenlik ayarları ve geçmiş sağlık verilerinin görüntülenememesi nedeniyle sağlık hizmeti sunumunda meydana gelebilecek aksaklık ve zararlardan Bakanlık sorumlu olmaz. Bu fıkranın ilk cümlesi, ikinci fıkranın (ç) ve (d) bentlerinde belirtilen hallerde Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartları ile sınırlı olmak kaydıyla uygulanmaz.
+(3) **(Değişik:RG-3/12/2025-33096)** e-Nabız hesabı üzerinden güvenlik ayarı tercihinde bulunan kişilerin sağlık verilerine, kendi güvenlik ayarları çerçevesinde erişim sağlanır. İlgili kişiler, güvenlik ayarları ve sonuçları konusunda ayrıntılı şekilde bilgilendirilir. Güvenlik ayarları ve geçmiş sağlık verilerinin görüntülenememesi nedeniyle sağlık hizmeti sunumunda meydana gelebilecek aksaklık ve zararlardan Bakanlık sorumlu olmaz. Bu fıkranın ilk cümlesi, ikinci fıkranın (ç) ve (d) bentlerinde belirtilen hallerde Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartları ile sınırlı olmak kaydıyla uygulanmaz.
 
-(4) (Danıştay Onuncu Dairesinin 17/10/2023 tarihli ve E.:2019/10544; K.:2023/5655 sayılı kararı ile iptal fıkra) (Yeniden düzenleme:RG-3/12/2025-33096) Sunulan güvenlik tercihlerindeki durumlarda sağlık verilerine erişilmesini istemeyen kişilerin geçmiş sağlık verilerine, kişinin kendisi tarafından profilinde beyan edilen telefon numarasına gönderilecek olan kodun hekim ile paylaşılması ve hekim tarafından sisteme girilmesi halinde erişilebilir.
+(4) **(Danıştay Onuncu Dairesinin 17/10/2023 tarihli ve E.:2019/10544; K.:2023/5655 sayılı kararı ile iptal fıkra) (Yeniden düzenleme:RG-3/12/2025-33096)** Sunulan güvenlik tercihlerindeki durumlarda sağlık verilerine erişilmesini istemeyen kişilerin geçmiş sağlık verilerine, kişinin kendisi tarafından profilinde beyan edilen telefon numarasına gönderilecek olan kodun hekim ile paylaşılması ve hekim tarafından sisteme girilmesi halinde erişilebilir.
 
-(5) (Değişik:RG-3/12/2025-33096) Kişiler e-Nabız güvenlik ayarlarını dördüncü fıkra doğrultusunda gerçekleştirmiş olsalar dahi tutukluluk ve hükümlülük gibi haller nedeniyle dördüncü fıkra kapsamında gönderilecek koda ulaşamayacakları durumlarda herhangi bir güvenlik ayarı kontrolü yapılmaz ve kişinin sağlık verilerine Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartları ile sınırlı olmak kaydıyla aile hekimi ve muayene olduğu tüm hekimler erişim sağlayabilir. Bu hallerin ortadan kalkması durumunda kişi yeniden güvenlik ayarları tercihinde bulunabilir.
+(5) **(Değişik:RG-3/12/2025-33096)** Kişiler e-Nabız güvenlik ayarlarını dördüncü fıkra doğrultusunda gerçekleştirmiş olsalar dahi tutukluluk ve hükümlülük gibi haller nedeniyle dördüncü fıkra kapsamında gönderilecek koda ulaşamayacakları durumlarda herhangi bir güvenlik ayarı kontrolü yapılmaz ve kişinin sağlık verilerine Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartları ile sınırlı olmak kaydıyla aile hekimi ve muayene olduğu tüm hekimler erişim sağlayabilir. Bu hallerin ortadan kalkması durumunda kişi yeniden güvenlik ayarları tercihinde bulunabilir.
 
 (6) Mahremiyet düzeyi daha yüksek olan, başkaları tarafından görülmesi ve bilinmesi halinde kişilerin sosyal hayatını ve ruh sağlığını olumsuz etkileme riski taşıyan kişisel sağlık verileri Bakanlıkça belirlenir ve sağlık personelinin bu verilere erişimine ölçülü kısıtlar getirilebilir.
 
@@ -145,25 +145,25 @@ erişilebilir.
 
 **MADDE 7 –** (1) Sağlık hizmeti sunucuları tarafından merkezi sağlık veri sistemine kimliksizleştirilerek gönderilen sağlık verilerini, ilişkisel veri tabanı aracılığı ile ait oldukları kişilerle eşleştirmeye yetkili kişileri Bakanlığın birim amirleri ayrı ayrı belirler ve Genel Müdürlükten bu kişilerin yetkilendirilmesini talep eder. Her birimin amiri, kendi biriminden en fazla üç kişinin yetkilendirilmesini talep edebilir.
 
-(2) (Değişik:RG-3/12/2025-33096) Birim amirinin talebi üzerine Genel Müdürlükçe yetkilendirilen kullanıcılar bu yetkiyi, Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartlarıyla sınırlı olmak üzere kişisel veri koruma mevzuatı ilkelerine uygun olarak kullanabilirler.
+(2) **(Değişik:RG-3/12/2025-33096)** Birim amirinin talebi üzerine Genel Müdürlükçe yetkilendirilen kullanıcılar bu yetkiyi, Kanunun 6 ncı maddesinin üçüncü fıkrasında yer alan işleme şartlarıyla sınırlı olmak üzere kişisel veri koruma mevzuatı ilkelerine uygun olarak kullanabilirler.
 
-(3) (Mülga:RG-3/12/2025-33096)
+(3) **(Mülga:RG-3/12/2025-33096)**
 
 #### Çocukların sağlık verilerine erişim
 
 **MADDE 8 –** (1) Ebeveynler, çocuklarına ilişkin sağlık kayıtlarına herhangi bir onaya ihtiyaç duyulmaksızın e-Nabız üzerinden erişebilir. Ayırt etme gücüne sahip çocuklar, sağlık geçmişlerine ebeveynlerinin erişimini e-Nabız üzerinden izne tabi tutabilir.
 
-(2) (Değişik:RG-3/12/2025-33096) Boşanma davası devam ederken velâyet hakkı tedbiren üzerine bırakılan taraf çocuğun sağlık verilerine erişebilir.
+(2) **(Değişik:RG-3/12/2025-33096)** Boşanma davası devam ederken velâyet hakkı tedbiren üzerine bırakılan taraf çocuğun sağlık verilerine erişebilir.
 
-(3) (Ek:RG-3/12/2025-33096) Boşanmanın gerçekleşmesi durumunda velâyet hakkı üzerine bırakılan taraf çocuğun sağlık verilerine erişebilir.
+(3) **(Ek:RG-3/12/2025-33096)** Boşanmanın gerçekleşmesi durumunda velâyet hakkı üzerine bırakılan taraf çocuğun sağlık verilerine erişebilir.
 
-(4) (Ek:RG-3/12/2025-33096) Velâyet hakkı üzerinde bırakılmayan anne veya babanın çocuğuyla ilgili sağlık verilerine ilişkin Genel Müdürlüğe başvurması halinde bu başvuru Genel Müdürlükçe değerlendirilir. Başvurunun olumlu sonuçlanması halinde; velâyet hakkı üzerinde bırakılan tarafa veya çocuğa ilişkin lokasyon, adres veya iletişim bilgileri gibi verilerden arındırılmış olan ve yalnızca çocuğun sağlığına ilişkin çıkarımlar yapılabilecek veriler talep sahibi anne veya baba ile paylaşılabilir.
+(4) **(Ek:RG-3/12/2025-33096)** Velâyet hakkı üzerinde bırakılmayan anne veya babanın çocuğuyla ilgili sağlık verilerine ilişkin Genel Müdürlüğe başvurması halinde bu başvuru Genel Müdürlükçe değerlendirilir. Başvurunun olumlu sonuçlanması halinde; velâyet hakkı üzerinde bırakılan tarafa veya çocuğa ilişkin lokasyon, adres veya iletişim bilgileri gibi verilerden arındırılmış olan ve yalnızca çocuğun sağlığına ilişkin çıkarımlar yapılabilecek veriler talep sahibi anne veya baba ile paylaşılabilir.
 
-Sağlık verilerine hasta yakınları ile sağlık hizmeti alan kişi yakınlarının erişimi (Değişik başlık:RG-3/12/2025-33096)
+**Sağlık verilerine hasta yakınları ile sağlık hizmeti alan kişi yakınlarının erişimi (Değişik başlık:RG-3/12/2025-33096)**
 
-**MADDE 9 –** (1) Kişisel sağlık verilerinin hasta yakınları ile paylaşımında, Kanun ilkelerine aykırılık teşkil etmeyecek şekilde, 1/8/1998 tarihli ve 23420 sayılı Resmî Gazete’de yayımlanan Hasta Hakları (Değişik ibare:RG-3/12/2025-33096) Yönetmeliği hükümlerine uygun hareket edilir.
+**MADDE 9 –** (1) Kişisel sağlık verilerinin hasta yakınları ile paylaşımında, Kanun ilkelerine aykırılık teşkil etmeyecek şekilde, 1/8/1998 tarihli ve 23420 sayılı Resmî Gazete’de yayımlanan Hasta Hakları **(Değişik ibare:RG-3/12/2025-33096)** Yönetmeliği hükümlerine uygun hareket edilir.
 
-(2) (Ek:RG-3/12/2025-33096) Engelli raporu bulunan kişilerin sağlık verilerine, bakım veren kişiler tarafından da erişim sağlanabilir.
+(2) **(Ek:RG-3/12/2025-33096)** Engelli raporu bulunan kişilerin sağlık verilerine, bakım veren kişiler tarafından da erişim sağlanabilir.
 
 #### Sağlık verilerine avukatların erişimi
 
@@ -173,13 +173,13 @@ Sağlık verilerine hasta yakınları ile sağlık hizmeti alan kişi yakınlar�
 
 **MADDE 11 –** (1) Ölmüş bir kimsenin sağlık verilerini almaya, veraset ilamını ibraz etmek suretiyle murisin yasal mirasçıları münferit olarak yetkilidir.
 
-(2) Ölmüş bir kimsenin sağlık verileri, en az (Değişik ibare:RG-3/12/2025-33096) 30 yıl süre ile saklanır.
+(2) Ölmüş bir kimsenin sağlık verileri, en az **(Değişik ibare:RG-3/12/2025-33096)** 30 yıl süre ile saklanır.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Kişisel Sağlık Verilerinin Gizlenmesi, Düzeltilmesi, Yeniden Değerlendirilmesi,
+**Kişisel Sağlık Verilerinin Gizlenmesi, Düzeltilmesi, Yeniden Değerlendirilmesi,**
 
-İmha Edilmesi ve Aktarılması [1]
+**İmha Edilmesi ve Aktarılması [1]**
 
 #### Kişisel sağlık verilerinin gizlenmesi
 
@@ -187,9 +187,9 @@ Kişisel Sağlık Verilerinin Gizlenmesi, Düzeltilmesi, Yeniden Değerlendirilm
 
 #### Kişisel sağlık verilerinin düzeltilmesi
 
-**MADDE 13 –** (1) İlgili kişi, kendisi hakkında sehven oluşturulan sağlık verilerinin düzeltilmesi hususunda sağlık verisinin oluşturulduğu sağlık hizmeti sunucusunun bağlı bulunduğu il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü, (Değişik ibare:RG-3/12/2025-33096) Genel Müdürlük tarafından yayımlanan kurallar doğrultusunda yapacağı araştırma neticesinde sağlık verisinin sehven oluşturulduğu bilgisine ulaşırsa resmi yazı ile Genel Müdürlüğe başvurur ve sehven oluşturulan sağlık verisinin düzeltilmesini ister.
+**MADDE 13 –** (1) İlgili kişi, kendisi hakkında sehven oluşturulan sağlık verilerinin düzeltilmesi hususunda sağlık verisinin oluşturulduğu sağlık hizmeti sunucusunun bağlı bulunduğu il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü, **(Değişik ibare:RG-3/12/2025-33096)** Genel Müdürlük tarafından yayımlanan kurallar doğrultusunda yapacağı araştırma neticesinde sağlık verisinin sehven oluşturulduğu bilgisine ulaşırsa resmi yazı ile Genel Müdürlüğe başvurur ve sehven oluşturulan sağlık verisinin düzeltilmesini ister.
 
-(2) (Değişik:RG-4/7/2026-33300) İlgili başvuruyla sınırlı olmak üzere; Genel Müdürlük tarafından tesis edilen işlem, sağlık hizmeti sunucusunun kendi veri tabanında da gerçekleştirilir. Bu veriyi işleyen diğer kurum ve kuruluşların veri tabanlarında da gerçekleştirilmesi hususu ilgili mevzuat hükümleri kapsamında ilgili kurum ve kuruluş tarafından değerlendirilir.
+(2) **(Değişik:RG-4/7/2026-33300)** İlgili başvuruyla sınırlı olmak üzere; Genel Müdürlük tarafından tesis edilen işlem, sağlık hizmeti sunucusunun kendi veri tabanında da gerçekleştirilir. Bu veriyi işleyen diğer kurum ve kuruluşların veri tabanlarında da gerçekleştirilmesi hususu ilgili mevzuat hükümleri kapsamında ilgili kurum ve kuruluş tarafından değerlendirilir.
 
 (3) Genel Müdürlük, sağlık hizmeti sunucuları tarafından oluşturulan sağlık verilerinin kendileri tarafından düzeltilebileceği tarihi belirler ve bu tarihi ihtiyaca göre günceller. Genel Müdürlükçe belirlenen bu tarihten sonra oluşturulan sağlık verileri ilgili sağlık hizmeti sunucusu tarafından; bu tarihten önce oluşturulan sağlık verileri ise ilgili il sağlık müdürlüğünün talebi üzerine Genel Müdürlükçe düzeltilir.
 
@@ -215,7 +215,7 @@ Kişisel Sağlık Verilerinin Gizlenmesi, Düzeltilmesi, Yeniden Değerlendirilm
 
 ### BEŞİNCİ BÖLÜM
 
-Bilimsel Amaçlarla İşleme ve Açık Sağlık Verisi
+**Bilimsel Amaçlarla İşleme ve Açık Sağlık Verisi**
 
 #### Bilimsel amaçlarla işleme
 
@@ -229,7 +229,7 @@ Bilimsel Amaçlarla İşleme ve Açık Sağlık Verisi
 
 ### ALTINCI BÖLÜM
 
-Veri Güvenliği
+**Veri Güvenliği**
 
 #### Veri güvenliğine ilişkin yükümlülükler
 
@@ -247,13 +247,13 @@ Veri Güvenliği
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yaptırım
 
 **MADDE 21 –** (1) Bu Yönetmelikle korunan kişisel verilere ilişkin suçlar ve kabahatler bakımından Kanunun 17 nci ve 18 inci maddelerine göre işlem yapılır.
 
-(2) Bu Yönetmelik gereklerini yerine getirmeyen kamu görevlileri için bağlı oldukları disiplin amirliğine bildirim yapılır ve (Değişik ibare:RG-3/12/2025-33096) disiplin amirliği tarafından gerekli işlemler tesis edilir . Gerçek kişiler ve özel hukuk tüzel kişileri hakkında ilgili mevzuata göre işlem yapılır.
+(2) Bu Yönetmelik gereklerini yerine getirmeyen kamu görevlileri için bağlı oldukları disiplin amirliğine bildirim yapılır ve **(Değişik ibare:RG-3/12/2025-33096)** disiplin amirliği tarafından gerekli işlemler tesis edilir . Gerçek kişiler ve özel hukuk tüzel kişileri hakkında ilgili mevzuata göre işlem yapılır.
 
 (3) Merkezi sağlık veri sistemine Bakanlıkça belirlenen usul ve esaslara uygun bir şekilde veri gönderimi yapmayan sağlık hizmeti sunucularına, 3359 sayılı Sağlık Hizmetleri Temel Kanununun Ek 11 inci maddesinin üçüncü fıkrasına göre işlem tesis edilir.
 
@@ -281,4 +281,4 @@ Veri Güvenliği
 | 1. | 3/12/2025 | 33096 |
 | 2. | 4/7/2026 | 33300 |
 
-<small>[1] 4/7/2026 tarihli ve 33300 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu bölüm başlığı “Kişisel Sağlık Verilerinin Gizlenmesi, Düzeltilmesi, İmha Edilmesi ve Aktarılması” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[1] <i>4/7/2026 tarihli ve 33300 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu bölüm başlığı “Kişisel Sağlık Verilerinin Gizlenmesi, Düzeltilmesi, İmha Edilmesi ve Aktarılması” iken metne işlendiği şekilde değiştirilmiştir.</i></small>

@@ -9,41 +9,41 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-Sağlık Bakanlığınca Sunulan Evde Sağlık
+**Sağlık Bakanlığınca Sunulan Evde Sağlık**
 
-Hizmetlerinin Uygulama Usul Ve Esasları
+**Hizmetlerinin Uygulama Usul Ve Esasları**
 
-Hakkında Yönerge
+**Hakkında Yönerge**
 
-BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
+**BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar**
 
-Amaç
+**Amaç**
 
-MADDE 1- (1) Bu Yönergenin amacı; evde sağlık hizmeti sunumuna ihtiyacı olan bireylerin muayene, tetkik, tahlil, tedavi, tıbbi bakım ve rehabilitasyonlarının evinde ve aile ortamında sağlanması, bu kişilere ve aile bireylerine sosyal ve psikolojik destek hizmetlerinin bir bütün olarak birlikte verilmesi için Sağlık Bakanlığına bağlı sağlık kurumları bünyesinde evde sağlık hizmetleri birimleri kurulması, bu birimlerin asgari fiziki donanımı ile araç, gereç ve personel standardının ve ilgili personelin görev yetki ve sorumluluklarının belirlenmesi, iletişim, uygulanacak randevu, kayıt ve takip sisteminin tanımlanması ve uygulamanın denetimine ilişkin usul ve esasların belirlenerek evde sağlık hizmetlerinin sosyal devlet anlayışı ile etkin ve ulaşılabilir bir şekilde uygulanmasını sağlamaktır.
+**MADDE 1-** (1) Bu Yönergenin amacı; evde sağlık hizmeti sunumuna ihtiyacı olan bireylerin muayene, tetkik, tahlil, tedavi, tıbbi bakım ve rehabilitasyonlarının evinde ve aile ortamında sağlanması, bu kişilere ve aile bireylerine sosyal ve psikolojik destek hizmetlerinin bir bütün olarak birlikte verilmesi için Sağlık Bakanlığına bağlı sağlık kurumları bünyesinde evde sağlık hizmetleri birimleri kurulması, bu birimlerin asgari fiziki donanımı ile araç, gereç ve personel standardının ve ilgili personelin görev yetki ve sorumluluklarının belirlenmesi, iletişim, uygulanacak randevu, kayıt ve takip sisteminin tanımlanması ve uygulamanın denetimine ilişkin usul ve esasların belirlenerek evde sağlık hizmetlerinin sosyal devlet anlayışı ile etkin ve ulaşılabilir bir şekilde uygulanmasını sağlamaktır.
 
-Kapsam
+**Kapsam**
 
-MADDE 2- (1) Bu Yönerge, Sağlık Bakanlığına bağlı olarak faaliyet gösteren ve Sağlık Bakanlığınca, bünyesinde evde sağlık hizmetleri birimi kurmak suretiyle bu hizmetleri vermeye yetkili kılınacak yataklı tedavi kurumlarını, toplum sağlığı merkezlerini ve buralarda çalışan personel ile aile hekimlerini, aile sağlığı merkezlerini ve aile sağlığı elemanlarını kapsar.
+**MADDE 2-** (1) Bu Yönerge, Sağlık Bakanlığına bağlı olarak faaliyet gösteren ve Sağlık Bakanlığınca, bünyesinde evde sağlık hizmetleri birimi kurmak suretiyle bu hizmetleri vermeye yetkili kılınacak yataklı tedavi kurumlarını, toplum sağlığı merkezlerini ve buralarda çalışan personel ile aile hekimlerini, aile sağlığı merkezlerini ve aile sağlığı elemanlarını kapsar.
 
-Dayanak
+**Dayanak**
 
-MADDE 3- (1) Bu Yönerge, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri
+**MADDE 3-** (1) Bu Yönerge, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri
 
 Temel Kanununun 3 üncü ve 9 uncu maddeleri ile 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde
 
 Kararnamenin 43 üncü maddesine dayanılarak hazırlanmıştır.
 
-Tanımlar
+**Tanımlar**
 
-MADDE 4- (1) Bu Yönerge’ de geçen tanımlardan;
+**MADDE 4-** (1) Bu Yönerge’ de geçen tanımlardan;
 
 a) Aile hekimi: Kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetlerini, yaş, cinsiyet ve hastalık ayrımı yapmaksızın, her kişiye kapsamlı ve devamlı olarak belli bir mekanda vermekle yükümlü, gerektiği ölçüde gezici sağlık hizmeti veren ve tam gün esasına göre çalışan aile hekimliği uzmanı veya Bakanlığın öngördüğü eğitimleri alan uzman tabip veya tabipleri, b) Aile sağlığı elamanı: aile hekimi ile birlikte hizmet veren, sözleşmeli çalıştırılan hemşire, ebe, sağlık memurunu (toplum sağlığı), c) Aile sağlığı merkezi: Bir veya daha fazla aile hekimi ile aile sağlığı elemanlarınca aile hekimliği hizmetinin verildiği sağlık kuruluşunu, ç) Bakan: Sağlık Bakanını, d) Bakanlık: Sağlık Bakanlığını, e) Birim: Evde sağlık hizmeti vermek üzere Bakanlığa bağlı sağlık kurum ve kuruluşları bünyesinde kurulan ve bu hizmete uygun olarak gerekli personel araç gereç tahsisinin yapıldığı ve idari ve teknik desteğin sağlandığı evde sağlık hizmetleri birimini, f) Evde sağlık hizmeti: Çeşitli hastalıklara bağlı olarak evde sağlık hizmeti sunumuna ihtiyacı olan bireylere evinde ve aile ortamında sosyal ve psikolojik danışmanlık hizmetlerini de kapsayacak şekilde verilen muayene, tetkik, tahlil, tedavi, tıbbi bakım, takip ve rehabilitasyon hizmetlerini, g) Genel müdürlük: Tedavi Hizmetleri Genel Müdürlüğünü, ğ) Grup başkanlığı: İlçe sağlık grup başkanlığını, h) Komisyon: Müdürlük bünyesinde, evde sağlık hizmetlerinin etkin bir şekilde sunumunu ve koordinasyonu sağlamak üzere bu Yönergenin 6’ncı maddesine göre oluşturulan inceleme ve değerlendirme komisyonunu, ı) Koordinasyon merkezi: Telefon ile doğrudan yapılan başvuruların karşılandığı ve kayda alındığı, ildeki tüm evde sağlık hizmet birimleri, toplum sağlığı merkezi, aile sağlığı merkezi ve aile hekimlikleri ile irtibatlandırılmış santral donanımı ve özel telefon hattı bulunan, evde sağlık hizmetinin hangi seviyede verileceğini belirleyen ve buna göre yönlendirmesini yapan, evde sağlık birimleri arasındaki organizasyon ve koordinasyonu sağlayan ve aynı zamanda hastaları ilgili diğer kuruluşlara yönlendiren ve gerektiğinde bu kuruluşlarla ilişkilendiren, sağlık müdürlüğü bünyesinde oluşturulan evde sağlık hizmetleri iletişim ve koordinasyon merkezini, i) Kurum amiri: Evde sağlık hizmeti vermeye yetkili sağlık kurumunun baştabibini, j) Mobil birim: Yataklı sağlık kurumu bulunmayan veya bünyesinde evde sağlık birimi kurulmamış sağlık kurumu bulunan yerleşim yerleri ile yataklı sağlık kurumunun bağlı bulunduğu belediyenin mücavir alanı dışında kalan yerleşim yerlerinde, evde sağlık hizmeti vermek üzere sağlık müdürlükleri tarafından oluşturulan gezici birimleri, k) Müdürlük: İl sağlık müdürlüğünü, l) Sağlık kurumu: Evde sağlık hizmeti vermek üzere bu Yönerge usul ve esaslarına uygun olarak yetkilendirilen Bakanlığa ait yataklı tedavi kurumlarını, m) Sorumlu tabip: Evde sağlık hizmetlerinin bir ekip anlayışı içerisinde planlaması ve uygulanması amacıyla ilgili kurum amirince görevlendirilen evde sağlık hizmetleri biriminden sorumlu olan tabibi, n) Toplum sağlığı merkezi: Bölgesinde yaşayan kişilerin ve toplumun sağlık hizmetlerini organize eden, topluma koruyucu hekimlik hizmetlerini sunan, birinci basamak sağlık hizmeti veren kurumların kendi arasında ve diğer kurumlar arasında eşgüdümünü sağlayan, idari hizmetler ile sağlık eğitimi ve denetim faaliyetlerini yürüten sağlık merkezini, ifade eder.
 
-İKİNCİ BÖLÜM Hizmetlerin Teşkilatlanması ve Komisyon
+**İKİNCİ BÖLÜM Hizmetlerin Teşkilatlanması ve Komisyon**
 
-Oluşturulması Hizmetlerin teşkilatlanması
+**Oluşturulması Hizmetlerin teşkilatlanması**
 
-MADDE 5- (1) Evde sağlık hizmetleri, Bakanlığa bağlı olarak faaliyet gösteren eğitim ve araştırma hastaneleri ile genel veya dal hastaneleri bünyesinde kurulan evde sağlık hizmeti birimleri ile toplum sağlığı merkezi, aile sağlığı merkezi ve aile hekimleri vasıtası ile sunulur. Hizmetin yönetimi, birimler arasındaki iletişim ve koordinasyon müdürlük bünyesinde oluşturulan koordinasyon merkezi tarafından sağlanır. Koordinasyon merkezinin sorumluluğunu müdürün görevlendireceği bir sağlık müdür yardımcısı yürütür.
+**MADDE 5-** (1) Evde sağlık hizmetleri, Bakanlığa bağlı olarak faaliyet gösteren eğitim ve araştırma hastaneleri ile genel veya dal hastaneleri bünyesinde kurulan evde sağlık hizmeti birimleri ile toplum sağlığı merkezi, aile sağlığı merkezi ve aile hekimleri vasıtası ile sunulur. Hizmetin yönetimi, birimler arasındaki iletişim ve koordinasyon müdürlük bünyesinde oluşturulan koordinasyon merkezi tarafından sağlanır. Koordinasyon merkezinin sorumluluğunu müdürün görevlendireceği bir sağlık müdür yardımcısı yürütür.
 
 Koordinasyon merkezi sorumlusu müdür yardımcısı aynı zamanda
 
@@ -53,53 +53,53 @@ komisyonun da başkanıdır.
 
 (3) Koordinasyon merkezi için müdürlükçe uygun bir mekan ayrılır. Evde sağlık hizmeti sunan tüm birimler ile irtibatlandırılmış santral donanımı ve özel telefon hattı tahsis edilir. İletişim, haberleşme, kayıt, arşiv ve sekretarya işlemlerinin yürütülebilmesi için müdürlükçe yeterli sayı ve nitelikte personel görevlendirilir. Koordinasyon merkezi ile komisyon, etkin bir koordinasyon ve işbirliği içerisinde çalışır.
 
-Komisyon oluşturulması
+**Komisyon oluşturulması**
 
-MADDE 6- (1) Evde sağlık hizmetlerinin sunumu, birimlerin işleyişi, uygulama sırasında ortaya çıkan sorun ve aksaklıkların tespiti ve çözüme kavuşturulması, evde sağlık hizmeti alan birey ve yakınlarının hizmetle ilgili talep ve şikayetlerini değerlendirmek ve karara bağlamak amacıyla koordinasyon merkezi başkanlığını yürüten müdür yardımcısının başkanlığında; ruh ve sosyal hastalıklar şube müdürü, aile ve toplum sağlığı şube müdürü, acil sağlık hizmetleri şube müdürü, il acil servis sorumlu tabibi ve birim sorumlusu tabiplerin katılımı ile en az beş üyeden oluşan inceleme ve değerlendirme komisyonu kurulur. Komisyon koordinasyon merkezi sorumlusu müdür yardımcısına bağlı olarak çalışır.
+**MADDE 6-** (1) Evde sağlık hizmetlerinin sunumu, birimlerin işleyişi, uygulama sırasında ortaya çıkan sorun ve aksaklıkların tespiti ve çözüme kavuşturulması, evde sağlık hizmeti alan birey ve yakınlarının hizmetle ilgili talep ve şikayetlerini değerlendirmek ve karara bağlamak amacıyla koordinasyon merkezi başkanlığını yürüten müdür yardımcısının başkanlığında; ruh ve sosyal hastalıklar şube müdürü, aile ve toplum sağlığı şube müdürü, acil sağlık hizmetleri şube müdürü, il acil servis sorumlu tabibi ve birim sorumlusu tabiplerin katılımı ile en az beş üyeden oluşan inceleme ve değerlendirme komisyonu kurulur. Komisyon koordinasyon merkezi sorumlusu müdür yardımcısına bağlı olarak çalışır.
 
 (2) Komisyon ayda bir defadan az olmamak üzere, her ayın ilk haftasında başkanın önceden belirlediği gündemle toplanır. Acil olarak değerlendirilmesi gereken durumlar için komisyon başkanının her daveti üzerine toplanmakla yükümlüdür.
 
 (3) Komisyon oy çokluğu ile karar alır. Kararlar tutanağa bağlanır. Oylarda eşitlik olması halinde başkanın taraf olduğu karar geçerlidir. Komisyonun sekretaryası koordinasyon merkezince yürütülür.
 
-ÜÇÜNCÜ BÖLÜM Birim Kurulması, Asgari Araç, Gereç ve Tıbbi Cihaz
+**ÜÇÜNCÜ BÖLÜM Birim Kurulması, Asgari Araç, Gereç ve Tıbbi Cihaz**
 
-Standardı ile Ulaşım Araçlarının Tahsisi
+**Standardı ile Ulaşım Araçlarının Tahsisi**
 
-Birim kurulması
+**Birim kurulması**
 
-MADDE 7- (1) Birim, illerde ilgili kurum baştabibinin talebi, ilçelerde grup başkanlıklarının talebi ve müdürlüğün teklifi üzerine valilik onayı ile kurulur ve tescil için Bakanlığa bildirilir.
+**MADDE 7-** (1) Birim, illerde ilgili kurum baştabibinin talebi, ilçelerde grup başkanlıklarının talebi ve müdürlüğün teklifi üzerine valilik onayı ile kurulur ve tescil için Bakanlığa bildirilir.
 
 (2) Evde sağlık hizmeti verecek sağlık kurum veya kuruluşu bünyesinde kayıt, arşiv, sekretarya, iletişim, ulaşım, planlama ve koordinasyon hizmetlerinin yürütülebileceği genişlikte fiziki mekân ayrılır. Bu faaliyetlerin gerektirdiği sayıda bilgisayar ve yazıcı, masa, sandalye, yeterli sayıda şehir içi ve şehirlerarası görüşmelere açık mesaj bırakabilme ve yönlendirme yapabilme özelliklerini haiz telefon hattı, mobil telefon ve hattı, perde, oturma grubu, çöp kutusu, kırtasiye malzemeleri, hasta muayene masası, paravan ve gerekli diğer tefriş ve donanım sağlanır.
 
-Asgari araç gereç, tıbbi cihaz ve ilaç standardı
+**Asgari araç gereç, tıbbi cihaz ve ilaç standardı**
 
-MADDE 8- (1) Evde sağlık hizmetlerinin verilmesi sırasında bulundurulması gereken araç-gereç ve tıbbi cihazlar ile ilaçların asgari standardı Ek-1’de gösterilmiştir.
+**MADDE 8-** (1) Evde sağlık hizmetlerinin verilmesi sırasında bulundurulması gereken araç-gereç ve tıbbi cihazlar ile ilaçların asgari standardı Ek-1’de gösterilmiştir.
 
 (2) Evde sağlık hizmeti verilen hastaların fonksiyonlu hasta karyolası, havalı yatak ve benzeri, tedaviye yardımcı olabilecek ve demirbaş niteliğindeki tıbbi cihazlar, imkânlar ölçüsünde, hizmeti veren müdürlük veya sağlık kurumu tarafından temin edilerek evde sağlık bakım hizmeti süresince hasta veya yakını adına düzenlenen zimmet karşılığında hastanın kullanımına tahsis edilebilir. Zimmet karşılığı tahsis edilen demirbaş cihazlar, evde sağlık hizmetinin sonlanmasını takiben devir teslim tutanağı ile geri alınır.
 
 (3) Birinci basamak sağlık hizmetleri kapsamında evde sağlık hizmetlerinin sunumu için gerekli personelin görevlendirilmesi, ulaşım araçlarının tahsisi, tıbbi cihaz, sarf malzemesi ve araç-gereç ihtiyacı müdürlükçe karşılanır.
 
-Ulaşım araçlarının tahsisi
+**Ulaşım araçlarının tahsisi**
 
-MADDE 9- (1) Evde sağlık hizmeti vermek üzere görevlendirilen ekibin ulaşımı için uygun bir mobil araç, hastaların evden sağlık kurumuna veya sağlık kurumundan eve nakli için gerektiğinde kullanılmak üzere bir hasta nakil aracı tahsisi yapılır. Acil durumlardaki hasta nakli için 112 ambulans hizmetlerinden yararlanılır.
+**MADDE 9-** (1) Evde sağlık hizmeti vermek üzere görevlendirilen ekibin ulaşımı için uygun bir mobil araç, hastaların evden sağlık kurumuna veya sağlık kurumundan eve nakli için gerektiğinde kullanılmak üzere bir hasta nakil aracı tahsisi yapılır. Acil durumlardaki hasta nakli için 112 ambulans hizmetlerinden yararlanılır.
 
 (2) Lüzum görülmesi halinde adres bulmayı kolaylaştırmak için ulaşım araçlarına uydu konumlandırma cihazı konulabilir.
 
 (3) Ulaşım ve hasta nakil hizmetleri, ilgili mevzuatına uygun olarak hizmet alımı yolu ile de gerçekleştirilebilir.
 
-DÖRDÜNCÜ BÖLÜM Personel Görevlendirilmesi ve Asgari Personel
+**DÖRDÜNCÜ BÖLÜM Personel Görevlendirilmesi ve Asgari Personel**
 
-Standardı, Sorumlu Tabip ile Personelin Görev Yetki ve
+**Standardı, Sorumlu Tabip ile Personelin Görev Yetki ve**
 
-Sorumlulukları Personel görevlendirilmesi ve asgari personel standardı
+**Sorumlulukları Personel görevlendirilmesi ve asgari personel standardı**
 
-MADDE 10- (1) Evde sağlık hizmetleri biriminde görevlendirilecek sorumlu tabip ve diğer personel ilgili kurum amirince belirlenir.
+**MADDE 10-** (1) Evde sağlık hizmetleri biriminde görevlendirilecek sorumlu tabip ve diğer personel ilgili kurum amirince belirlenir.
 
 (2) Birimde kayıt ve arşivleme işlemleri ile iletişim ve haberleşme işlemleri için var ise 1 tıbbi sekreter, bulunmaması halinde uygun nitelikte bir personel, evde sağlık hizmetleri ekibinde ise asgari bir tabip, bir hemşire, bir sağlık memuru ve bir şoför görevlendirilir. Mevcut olması halinde bir fizyoterapist, bir diyetisyen, ihtiyaç halinde bir psikolog, bulunmaması halinde ise sosyal çalışmacı veya her ikisi birden bu ekibe dahil edilebilir. İşin yoğunluğu veya ihtiyaca göre birden fazla evde sağlık hizmeti ekibi oluşturulabilir ve bu ekiplere ilave personel görevlendirmesi yapılabilir.
 
-Sorumlu tabibin görev, yetki ve sorumlulukları
+**Sorumlu tabibin görev, yetki ve sorumlulukları**
 
-MADDE 11- (1) Sorumlu tabip, ekibinde görevli tüm personelden kurum amirine karşı sorumlu olup görev, yetki ve sorumlulukları şunlardır:
+**MADDE 11-** (1) Sorumlu tabip, ekibinde görevli tüm personelden kurum amirine karşı sorumlu olup görev, yetki ve sorumlulukları şunlardır:
 
 a) Kişinin kapsamlı olarak tıbbi değerlendirmesini yapar,
 
@@ -121,9 +121,9 @@ h) Evde sağlık hizmetlerinin hasta hakları mevzuatına, tıbbi deontolojiye, 
 
 ı) Gerçekleştirilen hizmetlerle ilgili olarak hastanın aile hekimine bilgi verir.
 
-Personelin görev, yetki ve sorumlulukları
+**Personelin görev, yetki ve sorumlulukları**
 
-MADDE 12- (1) Evde sağlık hizmetleri ekibinde görevli personelin görev yetki ve sorumlulukları şunlardır:
+**MADDE 12-** (1) Evde sağlık hizmetleri ekibinde görevli personelin görev yetki ve sorumlulukları şunlardır:
 
 A- Hemşire/sağlık memuru (toplum sağlığı):
 
@@ -169,27 +169,27 @@ evde sağlık hizmeti ekibinin birbirleriyle olan iletişimini ve evde sağlık 
 
 4) Ekipte görevlendirilen ve bunların dışında kalan diğer personel ise sorumlu tabibin belirlediği görev dağılımı ve iş akış planına uygun olarak görev yapmakla yükümlüdür.
 
-BEŞİNCİ BÖLÜM Birimin Çalışması, Hizmetin Kapsamı ve
+**BEŞİNCİ BÖLÜM Birimin Çalışması, Hizmetin Kapsamı ve**
 
-Konsültasyon, Başvurular ve Başvuruların Değerlendirilmesi, Kabul ve
+**Konsültasyon, Başvurular ve Başvuruların Değerlendirilmesi, Kabul ve**
 
-Sevk Esasları Birimin çalışması
+**Sevk Esasları Birimin çalışması**
 
-MADDE 13- (1) Evde sağlık hizmetleri sağlık kurum veya kuruluşunun bulunduğu il veya ilçenin belediye mücavir alanı ile sınırlıdır. Memuriyet mahalli dışına çıkılmasını gerektiren zorunlu hallerde o yerin en büyük mülki amirinin onayı ve 6245 sayılı Harcırah Kanunu gereği işlem yapılması gerekir.
+**MADDE 13-** (1) Evde sağlık hizmetleri sağlık kurum veya kuruluşunun bulunduğu il veya ilçenin belediye mücavir alanı ile sınırlıdır. Memuriyet mahalli dışına çıkılmasını gerektiren zorunlu hallerde o yerin en büyük mülki amirinin onayı ve 6245 sayılı Harcırah Kanunu gereği işlem yapılması gerekir.
 
 (2) Birim, randevu sistemi ile ve mesai saatleri dahilinde çalışır.
 
-Hizmetin kapsamı ve konsültasyon
+**Hizmetin kapsamı ve konsültasyon**
 
-MADDE 14- (1) Evde sağlık hizmetleri biriminin görevi hastalığın teşhisini koymak olmayıp daha önce ilgili dal uzman tabiplerince konulmuş olan tanı ve planlanan tedavi çerçevesinde ve kişinin bulunduğu ev ortamında; muayene, tetkik, tahlil, tedavi, tıbbi bakım ve rehabilitasyon hizmetlerinin verilmesi, ilacın reçete edilmesindeki özel düzenlemeler saklı kalmak kaydıyla uzun süreli kullanımı sağlık raporu ile belgelendirilen ilaçların reçete edilmesi, tıbbi cihaz ve malzeme kullanımına ilişkin raporların çıkarılmasına yardımcı olunması, hastanın ve ailesinin evde bakım sürecinde üstlenebilecekleri görevler ve hastalık ve bakım süreçleri ile ilgili bilgilendirilmesi ve hastalığı ile alakalı evde kullanımı gerektiren tıbbi cihaz ve ekipmanların doğru ve uygun koşullarda kullanılması konusunda eğitim ve danışmanlık gibi hizmetlerin verilmesini kapsar.
+**MADDE 14-** (1) Evde sağlık hizmetleri biriminin görevi hastalığın teşhisini koymak olmayıp daha önce ilgili dal uzman tabiplerince konulmuş olan tanı ve planlanan tedavi çerçevesinde ve kişinin bulunduğu ev ortamında; muayene, tetkik, tahlil, tedavi, tıbbi bakım ve rehabilitasyon hizmetlerinin verilmesi, ilacın reçete edilmesindeki özel düzenlemeler saklı kalmak kaydıyla uzun süreli kullanımı sağlık raporu ile belgelendirilen ilaçların reçete edilmesi, tıbbi cihaz ve malzeme kullanımına ilişkin raporların çıkarılmasına yardımcı olunması, hastanın ve ailesinin evde bakım sürecinde üstlenebilecekleri görevler ve hastalık ve bakım süreçleri ile ilgili bilgilendirilmesi ve hastalığı ile alakalı evde kullanımı gerektiren tıbbi cihaz ve ekipmanların doğru ve uygun koşullarda kullanılması konusunda eğitim ve danışmanlık gibi hizmetlerin verilmesini kapsar.
 
 (2) Lüzumu halinde ilgili dal uzmanlarının da görüşü alınarak gerekli konsültasyon sağlanır. Birim sorumlusu tabibin evde sağlık hizmeti verilen kişi ile ilgili konsültasyon ve tıbbi değerlendirme talebinin sağlık kurumunda görevli ilgili uzman tabiplerce zamanında karşılanması zorunludur. Zorunlu hallerde uzman tabibin hastayı evinde konsülte etmesi sağlanır. Bu konudaki uygulamalar uzman tabipler arasında dönüşümlü olarak sağlık kurumu amirinin belirleyeceği bir düzen içerisinde yürütülür. Gerektiğinde, stoma ve yara bakımı, diyabet eğitimi hemşiresi gibi, konularında eğitim almış hemşirelerin hizmete katılması sağlanır.
 
 (3) Evde takibi zorunlu özürlü, yaşlı, yatalak ve benzeri durumda olan hastalar ile evde sağlık hizmeti alması gerektiği bu Yönerge’de belirtilen usul ve esaslara göre tespit edilen kişilere yönelik birinci basamak koruyucu sağlık, tanı, tedavi, rehabilitasyon ve danışmanlık hizmetleri, ilgili mevzuatı gereği toplum sağlığı merkezi, aile sağlığı merkezi ve aile hekimleri vasıtası ile verilir.
 
-Sağlık kurum veya kuruluşuna sevk
+**Sağlık kurum veya kuruluşuna sevk**
 
-MADDE 15- (1) Evde sağlık hizmeti verilen kişilerin mevcut durumları hariç, yeni oluşan acil haller birimin görev alanına girmez. Bu durumlarda 112 İl
+**MADDE 15-** (1) Evde sağlık hizmeti verilen kişilerin mevcut durumları hariç, yeni oluşan acil haller birimin görev alanına girmez. Bu durumlarda 112 İl
 
 Ambulans Servisi ya da doğrudan sağlık kuruluşlarının acil servislerine başvuru esastır.
 
@@ -197,9 +197,9 @@ Ambulans Servisi ya da doğrudan sağlık kuruluşlarının acil servislerine ba
 
 Sevkine karar verilen hastanın sevk edildiği sağlık kurumuna veya gerektiğinde sağlık kurumundan eve nakli evde bakım hizmetleri için tahsis edilen veya ilgili sağlık kurumuna ait hasta nakil aracı ile yapılır. Nakil işlemi için yeterli sayıda yardımcı personel görevlendirilir. Nakille ilgili giderler hastaya fatura edilemez
 
-Evde sağlık hizmetleri başvurusu
+**Evde sağlık hizmetleri başvurusu**
 
-MADDE 16- (1) Başvurular, hastalar veya aile bireyleri tarafından Ek-2’deki
+**MADDE 16-** (1) Başvurular, hastalar veya aile bireyleri tarafından Ek-2’deki
 
 Evde Sağlık Hizmeti Başvuru Formu ile veya müdürlük bünyesindeki koordinasyon merkezine veya sağlık kurumları bünyesindeki birimlere telefon müracaatı ile sözlü olarak veya toplum sağlığı merkezi, aile sağlığı merkezi veya aile hekimleri aracılığı ile yapılabilir.
 
@@ -207,9 +207,9 @@ Evde Sağlık Hizmeti Başvuru Formu ile veya müdürlük bünyesindeki koordina
 
 (3) Hizmet birinci basamak sağlık hizmetleri kapsamında verilecek ise birim aracılığı ile ve ilgili tüm bilgi ve belgeleri ile birlikte koordinasyon merkezine iletilir. Koordinasyon merkezi gerekli değerlendirmeyi yaparak kayıt altına aldığı hasta için, kayıtlı olduğu aile sağlığı merkezi veya aile hekimine evde sağlık hizmetinin başlatılması için gerekli bildirimi yapar.
 
-Başvuruların değerlendirilmesi ve evde sağlık hizmetine kabul
+**Başvuruların değerlendirilmesi ve evde sağlık hizmetine kabul**
 
-MADDE 17- (1) Telefon veya Ek-2’deki form ile yapılan başvurular ilgisine göre, birim sorumlusu tabibe havale edilir. Başvurular kayıt altına alınarak en kısa zamanda duruma göre, tabip, hemşire veya sosyal çalışmacı tarafından ikametine gidilerek vaka yerinde değerlendirilir. Evde sağlık hizmeti almak için başvuran kişi veya aile bireylerine değerlendirme sonucu konusunda, menfi veya müspet olup olmadığına bakılmaksızın, en kısa sürede bilgi verilir.
+**MADDE 17-** (1) Telefon veya Ek-2’deki form ile yapılan başvurular ilgisine göre, birim sorumlusu tabibe havale edilir. Başvurular kayıt altına alınarak en kısa zamanda duruma göre, tabip, hemşire veya sosyal çalışmacı tarafından ikametine gidilerek vaka yerinde değerlendirilir. Evde sağlık hizmeti almak için başvuran kişi veya aile bireylerine değerlendirme sonucu konusunda, menfi veya müspet olup olmadığına bakılmaksızın, en kısa sürede bilgi verilir.
 
 Başvurusu olumsuz neticelenenler sebepleri konusunda ayrıntılı olarak bilgilendirilir. Hastanın evde sağlık hizmetine kabul edilip edilmediği koordinasyon merkezine ve kayıtlı olduğu aile hekimine de bildirilir.
 
@@ -221,11 +221,11 @@ Birim veya aile hekimi karar doğrultusunda işlem yapmakla yükümlüdür.
 
 (5) Hizmetin seviyesi, kapsamı, süresi ve benzeri konularda birim ile aile hekimliği arasında itilafa düşülmesi halinde koordinasyon merkezi itilaf konusunu, komisyon marifetiyle karara bağlar. Koordinasyon merkezinin kararı kesindir.
 
-ALTINCI BÖLÜM Çalışma düzeni ve İş Planları, Randevu Sistemi ve
+**ALTINCI BÖLÜM Çalışma düzeni ve İş Planları, Randevu Sistemi ve**
 
-Kayıtların Tutulması Çalışma düzeni ve iş planları
+**Kayıtların Tutulması Çalışma düzeni ve iş planları**
 
-MADDE 18- (1) Evde sağlık hizmetlerinde çalışma düzeni ve saatleri birim sorumlu tabibi tarafından hazırlanan ve ilgili kurum amirince uygun görülerek onaylanan çalışma ve iş planına göre yürütülür.
+**MADDE 18-** (1) Evde sağlık hizmetlerinde çalışma düzeni ve saatleri birim sorumlu tabibi tarafından hazırlanan ve ilgili kurum amirince uygun görülerek onaylanan çalışma ve iş planına göre yürütülür.
 
 (2) Evde sağlık hizmetleri vakanın durumuna göre müdavi tabip, ilgili uzman tabipler ve ekip personeli ile de istişare edilerek birim sorumlusu hekim tarafından, ziyaret zaman ve süreleri, yapılacak tetkikler, uygulanacak bakım ve tedaviler, ekipte yer alacak personel ve iş akış planı, götürülmesi gerekli araç, gereç, tıbbi cihaz, malzeme ve basılı formlar bakımından ayrıntılı olarak planlanır. Planlamalar vakanın durumuna göre günlük, haftalık veya aylık olarak yapılabilir ve ekip personeline yazılı olarak tebliğ edilir. Plan dokümanının kurum amirince uygun görülüp onaylanması zorunludur.
 
@@ -233,23 +233,23 @@ MADDE 18- (1) Evde sağlık hizmetlerinde çalışma düzeni ve saatleri birim s
 
 (4) Birinci basamak sağlık hizmetleri kapsamında verilecek evde sağlık hizmetlerine ilişkin çalışma ve iş planı aile sağlığı merkezi veya ilgili aile hekimince hazırlanır, sağlık grup başkanlığı veya toplum sağlığı merkezi tarafından onaylanarak bu maddenin ikinci ve üçüncü fıkrasında belirtilen esaslar dahilinde uygulanır.
 
-Randevu sistemi
+**Randevu sistemi**
 
-MADDE 19- (1) Evde sağlık hizmetleri randevu sistemine dayalı olarak yürütülür. Vakanın durumuna göre günlük, haftalık veya aylık dilimler halinde önceden hazırlanan ziyaret gün ve saatlerini, ekipte yer alacak personelin unvan ve kimlik bilgilerini içeren ziyaret planı evde sağlık hizmeti verilecek kişi veya aile bireylerine önceden bildirilerek randevu alınır. Ziyaret planının bir nüshası kişi ve aile bireylerine de verilir.
+**MADDE 19-** (1) Evde sağlık hizmetleri randevu sistemine dayalı olarak yürütülür. Vakanın durumuna göre günlük, haftalık veya aylık dilimler halinde önceden hazırlanan ziyaret gün ve saatlerini, ekipte yer alacak personelin unvan ve kimlik bilgilerini içeren ziyaret planı evde sağlık hizmeti verilecek kişi veya aile bireylerine önceden bildirilerek randevu alınır. Ziyaret planının bir nüshası kişi ve aile bireylerine de verilir.
 
 (2) Randevu tarih ve saatinin değiştirilmesi konusunda birim sorumlusu tabip yetkilidir. Değişikliklerin ilgili personele, kişi veya aile bireylerine önceden bildirimi zorunludur. Randevuların alınması, bildirimin yapılmasından ve takibinden iletişim ve haberleşme işlemleri için görevlendirilen personel sorumludur. Yapılan görüşmelerin hizmeti veren ve hizmeti alanların güvenliği açısından kayıt edilmesi zorunludur. Randevu sisteminin yöntemi ve işleyişi mevcut şartlara göre birim sorumlu tabibi veya ilgili aile hekimi tarafından belirlenir ve buna göre uygulanır.
 
-Kayıtların tutulması
+**Kayıtların tutulması**
 
-MADDE 20- (1) Bu Yönergenin 15 inci maddesine uygun olarak başvurusu değerlendirilen ve kabulü uygun görülen kişiler için hasta kayıt dosyası açılır.
+**MADDE 20-** (1) Bu Yönergenin 15 inci maddesine uygun olarak başvurusu değerlendirilen ve kabulü uygun görülen kişiler için hasta kayıt dosyası açılır.
 
 Bu dosyada, hastanın kimlik bilgileri, adresi, iletişim telefonları, sosyal güvencesi, sosyal durumu, var ise alkol sigara ve benzeri alışkanlıkları, hastalığı, konulan tanı, uygulanan tedaviler, sürekli kullandığı ilaçlar, kullandığı tıbbi cihaz, ortez ve protezlere ilişkin bilgiler ile evde bakım hizmeti veren sağlık ekibinin takip notları, advers etki bildirim formu ve görüşleri yer alır.
 
 (2) Evde bakım hizmetleri birimince yürütülen iş ve işlemler için gerekli kayıtlar sağlık kurum veya kuruluşu kayıtlarından ayrı olarak tutulur ve hizmet süresince hastanın yanında muhafaza edilir. Hastaya ait bilgileri içeren formlar ve hizmet planının bir sureti de birimde bulundurulur. Tüm kayıtlar evde sağlık hizmetinin sona ermesinden sonra birim veya kurum arşivine kaldırılır. Bilgisayar ortamında tutulan kayıtların yetkisiz olarak değiştirilmesine ve silinmesine yönelik gerekli idari ve teknik tedbirler alınır.
 
-YEDİNCİ BÖLÜM Çeşitli Hükümler Ev ziyaretlerinde uyulacak
+**YEDİNCİ BÖLÜM Çeşitli Hükümler Ev ziyaretlerinde uyulacak**
 
-ilkeler MADDE 21- (1) Evde sağlık hizmetlerinin sunumunda aşağıda belirtilen ilke ve kurullara uyulması zorunludur.
+**ilkeler MADDE 21- (1)** Evde sağlık hizmetlerinin sunumunda aşağıda belirtilen ilke ve kurullara uyulması zorunludur.
 
 1 İlgili mevzuatı gereği evde sağlık hizmeti alması uygun görülen kişilerin rızasının alınması zorunludur. Kişinin tıbbi durumunun onay vermeye elverişli olmaması halinde kanuni temsilcisinin bilgilendirilmiş onam formu ile rızası alınır.
 
@@ -257,19 +257,19 @@ ilkeler MADDE 21- (1) Evde sağlık hizmetlerinin sunumunda aşağıda belirtile
 
 3 Ev ziyaretlerinde verilen sağlık hizmetleri sırasında hastanın ailesinden birinin veya bir yakınının bulunması sağlanır. Yalnız yaşayan hastalara yapılan ev ziyaretlerinde ekipte görevli diğer bir sağlık personeli hizmete katılır.
 
-Evde sağlık hizmetinin sonlandırılması
+**Evde sağlık hizmetinin sonlandırılması**
 
-MADDE 22- (1) Kişiye verilen evde sağlık hizmeti aşağıdaki hallerde sonlandırılır:
+**MADDE 22-** (1) Kişiye verilen evde sağlık hizmeti aşağıdaki hallerde sonlandırılır:
 
 a) Evde sağlık hizmeti verilen hastanın uygulanan tedavi ile iyileşerek tedavi ihtiyacının ortadan kalkması, b) Evde sağlık hizmeti sunulan hasta için uygulanacak sağlık bakım ve tedavinin, belli bir aşamadan sonra sağlık personeli gerektirmeden uygulanabilecek hale gelmesi, c) Evde sağlık hizmeti sunulan hastanın, sağlık kurumuna yatırılarak tedavi edilmesini gerektiren tıbbi endikasyonun oluşması, ç) Hastanın kendisi veya kanuni temsilcilerinin hizmeti sonlandırmayı talep etmesi, d) Hastanın vefat etmesi, e) Hasta veya yakınlarının tedaviye uyumsuz davranışları, direnç göstermeleri, önerilere uymamaları halinde verilen hizmetin faydası sorumlu tabip tarafından sorgulanır ve hizmetin sonlandırılmasına karar verilebilir.
 
-Denetim ve sorumluluk
+**Denetim ve sorumluluk**
 
-MADDE 23- (1) Evde sağlık hizmetlerinin koordinasyonundan ve bu Yönerge hükümlerine uygun olarak etkin bir şekilde eksiksiz olarak yürütülmesinden müdürlükler ve grup başkanlıkları sorumludur.
+**MADDE 23-** (1) Evde sağlık hizmetlerinin koordinasyonundan ve bu Yönerge hükümlerine uygun olarak etkin bir şekilde eksiksiz olarak yürütülmesinden müdürlükler ve grup başkanlıkları sorumludur.
 
-Hüküm bulunmayan haller
+**Hüküm bulunmayan haller**
 
-MADDE 24- (1) Bu Yönergede hüküm bulunmayan hallerde 13/1/1983 tarih ve 17927 sayılı Resmi Gazetede yayımlanan Yataklı Tedavi Kurumları İşletme
+**MADDE 24-** (1) Bu Yönergede hüküm bulunmayan hallerde 13/1/1983 tarih ve 17927 sayılı Resmi Gazetede yayımlanan Yataklı Tedavi Kurumları İşletme
 
 Yönetmeliği, 10/3/2005 tarih ve 25751 sayılı resmi Gazetede yayımlanan
 
@@ -277,23 +277,23 @@ Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelik ile 6/7/2005 tarih ve 25867 
 
 Hakkında Yönetmelik hükümleri uygulanır.
 
-Aile hekimliği uygulanmayan illerde evde sağlık hizmetlerinin verilmesi
+**Aile hekimliği uygulanmayan illerde evde sağlık hizmetlerinin verilmesi**
 
-GEÇİCİ MADDE 1- (1) Ülke genelinde aile hekimliği uygulamasına geçilene kadar, aile hekimliği uygulanmayan illerde kişiye yönelik birinci basamak koruyucu sağlık, tanı, tedavi, rehabilitasyon ve danışmanlık hizmetleri birinci basamak sağlık kuruluşları bünyesinde kurulan evde sağlık birimleri veya mücavir alan dışında müdürlükçe oluşturulacak gezici sağlık ekipleri vasıtasıyla, bu Yönerge hükümleri çerçevesinde verilir.
+**GEÇİCİ MADDE 1-** (1) Ülke genelinde aile hekimliği uygulamasına geçilene kadar, aile hekimliği uygulanmayan illerde kişiye yönelik birinci basamak koruyucu sağlık, tanı, tedavi, rehabilitasyon ve danışmanlık hizmetleri birinci basamak sağlık kuruluşları bünyesinde kurulan evde sağlık birimleri veya mücavir alan dışında müdürlükçe oluşturulacak gezici sağlık ekipleri vasıtasıyla, bu Yönerge hükümleri çerçevesinde verilir.
 
-SEKİZİNCİ BÖLÜM Son Hükümler Yürürlük MADDE 25- (1) Bu Yönerge,
+**SEKİZİNCİ BÖLÜM Son Hükümler Yürürlük MADDE 25-** (1) Bu Yönerge,
 
 Bakan Onayını takiben yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 26- (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
+**MADDE 26-** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
-EK-1 EVDE SAĞLIK HİZMETLERİNDE BULUNDURULMASI GEREKEN-
+**EK-1 EVDE SAĞLIK HİZMETLERİNDE BULUNDURULMASI GEREKEN-**
 
-ARAÇ GEREÇ, TIBBİ CİHAZ VE İLAÇLARIN ASGARİ STANDARDI
+**ARAÇ GEREÇ, TIBBİ CİHAZ VE İLAÇLARIN ASGARİ STANDARDI**
 
-a)Araç-Gereç ve Tıbbi Cihaz Asgari Standardı
+**a)Araç-Gereç ve Tıbbi Cihaz Asgari Standardı**
 
 1-Tansiyon aleti, stetoskop, derece,
 
@@ -323,7 +323,7 @@ a)Araç-Gereç ve Tıbbi Cihaz Asgari Standardı
 
 ( Örneğin; Taşınabilir fototerapi cihazı, bilirübinometri cihazı, bebek tartısı ve benzeri)
 
-b-İlaçların Asgari Standardı
+**b-İlaçların Asgari Standardı**
 
 1-Adrenalin ampul,
 
@@ -361,55 +361,55 @@ b-İlaçların Asgari Standardı
 
 * Bu Listede asgari standardı belirtilen araç-gereç tıbbi malzemeler ile ilaçlar bir ziyaret çantası düzeninde tertip edilir ve ev ziyaretleri için hazır bulundurulur.
 
-Ek-2
+**Ek-2**
 
 ……………..(Sağlık Kurumu/ Kuruluşu/Aile sağlığı Merkezi/Aile Hekimi
 
 Adı)…………………
 
-EVDE SAĞLIK HİZMETİ BAŞVURU FORMU
+**EVDE SAĞLIK HİZMETİ BAŞVURU FORMU**
 
-KİMLİK BİLGİLERİ İLETİŞİM
+**KİMLİK BİLGİLERİ İLETİŞİM**
 
-BİLGİLERİ Adı :………………………………… Ev
+**BİLGİLERİ Adı :**………………………………… Ev
 
-Soyadı :…………………………………. E-
+**Soyadı :**…………………………………. E-
 
-mail:…………………………..
+**mail:**…………………………..
 
-Anne
+**Anne**
 
-adı :………………………………… Adresi:……………………
+**adı :**………………………………… **Adresi:**……………………
 
 ……...
 
-Baba
+**Baba**
 
-adı :………………………………… ……………………………
+**adı :**………………………………… ……………………………
 
 ………
 
-Doğum
+**Doğum**
 
-tarihi :………………………………… ………………………………
-
-……
-
-Doğum
-
-yeri :………………………………… ………………………………
+**tarihi :**………………………………… ………………………………
 
 ……
 
-T.C. Kimlik No
+**Doğum**
+
+**yeri :**………………………………… ………………………………
+
+……
+
+**T.C. Kimlik No**
 
 :………………………………... ……………………………………..
 
-Güvence Durumu/Sosyal
+**Güvence Durumu/Sosyal**
 
-GüvenlikNumarası:…………………………………………….....
+**GüvenlikNumarası:**…………………………………………….....
 
-HASTALIĞI HAKKINDA BİLGİ (Tanı-
+**HASTALIĞI HAKKINDA BİLGİ** (Tanı-
 
 Tedavi):…………………………………………..............……………………………
 
@@ -421,7 +421,7 @@ Tedavi):…………………………………………..............………�
 
 …………………...........
 
-SÜREKLİ KULLANDIĞI İLAÇ/TIBBİ CİHAZ/ORTEZ/PROTEZ
+**SÜREKLİ KULLANDIĞI İLAÇ/TIBBİ CİHAZ/ORTEZ/PROTEZ**
 
 : ………………………………………………………………………………………
 
@@ -455,16 +455,16 @@ Açık adresi:……………………………………........................
 
 ............……………………………………………………………………
 
-DEĞERLENDİRME SONUCU ,………………………………………….
+**DEĞERLENDİRME SONUCU ,**………………………………………….
 
 ……………………………………………………………………………..
 
 ..…………………………………………………………………………..
 
-Değerlendiren Tabip:
+**Değerlendiren Tabip:**
 
 Kaşe/İmza
 
-ONAY Kurum/Kuruluş Amiri Kaşe/imza/mühür
+**ONAY Kurum/Kuruluş Amiri** Kaşe/imza/mühür
 
 *Taburcu aşamasındaki hastalar ile aile hekimleri tarafından yapılan başvurularda doldurulacaktır.

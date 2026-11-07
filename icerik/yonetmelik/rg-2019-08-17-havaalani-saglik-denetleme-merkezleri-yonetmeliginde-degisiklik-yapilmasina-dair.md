@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-HAVAALANI SAĞLIK DENETLEME MERKEZLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**HAVAALANI SAĞLIK DENETLEME MERKEZLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 17/2/2008 tarihli ve 26790 sayılı Resmî Gazete’de yayımlanan Havaalanı Sağlık Denetleme Merkezleri Yönetmeliğinin 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 3 –

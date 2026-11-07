@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/05/20120531-3.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 ECZACILAR VE ECZANELER HAKKINDA KANUN İLE UYUŞTURUCU MADDELERİN MURAKABESİ HAKKINDA KANUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 6308 Kabul Tarihi: 17/5/2012
+Kanun No. 6308 **Kabul Tarihi: 17/5/2012**
 
 MADDE 1 – 18/12/1953 tarihli ve 6197 sayılı Eczacılar ve Eczaneler Hakkında Kanunun 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 1 - Eczacılık; hastalıkların teşhis ve tedavisi ile hastalıklardan korunmada kullanılan tabii ve sentetik kaynaklı ilaç hammaddelerinden değişik farmasötik tipte ilaçların hazırlanması ve hastaya sunulması; ilacın analizlerinin yapılması, farmakolojik etkisinin devamlılığı, emniyeti, etkinliği ve maliyeti bakımından gözetimi; ilaçla ilgili standardizasyon ve kalite güvenliğinin sağlanması ve ilaç kullanımına bağlı sorunlar hakkında hastaların bilgilendirilmesi ve çıkan sorunların bildiriminin yapılmasına ilişkin faaliyetleri yürüten sağlık hizmetidir.

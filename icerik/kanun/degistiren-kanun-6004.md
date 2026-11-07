@@ -12,22 +12,22 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/07/20100713-3.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-DIŞİŞLERİ BAKANLIĞININ KURULUŞ VE GÖREVLERİ HAKKINDAKANUN
-Kanun No. 6004 Kabul Tarihi: 7/7/2010
-BİRİNCİ BÖLÜM
-Amaç, Tanımlar, İlkeler, Görev ve Yetkiler Amaç ve tanımlar
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**DIŞİŞLERİ BAKANLIĞININ KURULUŞ VE GÖREVLERİ HAKKINDAKANUN**
+**Kanun No. 6004 Kabul Tarihi: 7/7/2010**
+**BİRİNCİ BÖLÜM**
+**Amaç, Tanımlar, İlkeler, Görev ve Yetkiler Amaç ve tanımlar**
 
-MADDE 1- (1) Bu Kanunun amacı; Dışişleri Bakanlığının kuruluş, görev ve yetkilerine ilişkin esasları düzenlemektir.
+**MADDE 1-** (1) Bu Kanunun amacı; Dışişleri Bakanlığının kuruluş, görev ve yetkilerine ilişkin esasları düzenlemektir.
 (2) Bu Kanunun uygulanmasında;
 a) Bakan:
 Dışişleri Bakanını,
 b) Bakanlık:
 Dışişleri Bakanlığını,
 c) Emsal kararnamesi: 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 156 ncı ve 157 nci maddeleri uyarınca yürürlüğe konulan sürekli görevle yurtdışında bulunan memurlara ödenecek aylıklara ilişkin Bakanlar Kurulu kararını, ifade eder.
-İlkeler, görev ve yetkiler
+**İlkeler, görev ve yetkiler**
 
-MADDE 2- (1) Bakanlık, bu Kanunda belirtilen görevlerini yerine getirirken aşağıda belirtilen ilkeler çerçevesinde hareket eder:
+**MADDE 2-** (1) Bakanlık, bu Kanunda belirtilen görevlerini yerine getirirken aşağıda belirtilen ilkeler çerçevesinde hareket eder:
 a) Bölgesinde ve dünyada barışçıl, adil ve kalkınmaya imkan tanıyan bir ortamın kalıcı şekilde tesisi ve güçlendirilmesi.
 b) Ulusal hak ve çıkarların savunulması ve korunması.
 c) Her türlü toplumsal yaşamın temelini oluşturan insan haklarının ve demokratik değerlerin savunulması ve ileriye götürülmesi, dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle yapılan her türlü ayrımcılık ile mücadele edilmesi.
@@ -51,22 +51,22 @@ k) Türkiye Cumhuriyetinin Devlet ve dışişleri protokolünü düzenlemek ve y
 1) Diplomasi ve konsolosluk ilişkilerinin yürütülmesi ile bağlantılı olarak uluslararası andlaşmalardan kaynaklanan iş ve görevleri yerine getirmek.
 m) Uluslararası kuruluşlarla işbirliğini geliştirmek.
 n) Kanunlarla verilen diğer görevleri yapmak.
-İKİNCİ BÖLÜM
-Bakanlık Teşkilatı, Kadroları ve Personeli Bakanlığın genel teşkilat ve kadro yapısı
+**İKİNCİ BÖLÜM**
+**Bakanlık Teşkilatı, Kadroları ve Personeli Bakanlığın genel teşkilat ve kadro yapısı**
 
-MADDE 3- (1) Bakanlık, merkez teşkilatı ve yurtdışı teşkilatından oluşur.
+**MADDE 3-** (1) Bakanlık, merkez teşkilatı ve yurtdışı teşkilatından oluşur.
 Bakanlığın merkez ve yurtdışı kadroları bir bütün teşkil eder.
-Merkez teşkilatı
+**Merkez teşkilatı**
 
-MADDE 4- (1) Bakanlık merkez teşkilatı ana hizmet, danışma ve denetim ile yardımcı hizmet birimlerinden oluşur.
-Bakanlık makamı
+**MADDE 4-** (1) Bakanlık merkez teşkilatı ana hizmet, danışma ve denetim ile yardımcı hizmet birimlerinden oluşur.
+**Bakanlık makamı**
 
-MADDE 5- (1) Bakan, Bakanlık kuruluşunun en üst amiridir. Bakanlık hizmetlerinin mevzuata ve Hükümetin genel siyasetine uygun olarak yürütülmesini ve Bakanlığın görev alanına giren konularda diğer bakanlıklarla işbirliği ve koordinasyonun tesisini sağlamakla görevli ve Başbakana karşı sorumludur. Bakan, emri altındakilerin eylem ve işlemlerinden sorumlu olup, merkez ve yurtdışı teşkilatının faaliyetlerini, işlemlerini ve hesaplarını denetlemekle görevli ve yetkilidir.
+**MADDE 5-** (1) Bakan, Bakanlık kuruluşunun en üst amiridir. Bakanlık hizmetlerinin mevzuata ve Hükümetin genel siyasetine uygun olarak yürütülmesini ve Bakanlığın görev alanına giren konularda diğer bakanlıklarla işbirliği ve koordinasyonun tesisini sağlamakla görevli ve Başbakana karşı sorumludur. Bakan, emri altındakilerin eylem ve işlemlerinden sorumlu olup, merkez ve yurtdışı teşkilatının faaliyetlerini, işlemlerini ve hesaplarını denetlemekle görevli ve yetkilidir.
 (2) Müsteşar, Bakanın emrinde ve onun yardımcısı olup, Bakanlığın hizmet ve görevlerinin Bakan adına ve Bakanın talimatları yönünde, Bakanlığın amaç, politika ve tabi olduğu mevzuat hükümleri ile stratejik planlara uygun olarak düzenlenmesi ve yürütülmesinden sorumludur. Bu amaçla, Teftiş Kurulu Başkanlığı hariç olmak üzere, merkez ve yurtdışı teşkilatına gereken talimatları verir ve bunların uygulanmasını takip ve temin eder. Müsteşar, bu görev ve hizmetlerin yürütülmesinden Bakana karşı sorumludur.
 (3) Ana hizmet, danışma ve denetim ile yardımcı hizmet birimlerinin ve yurtdışı teşkilatının yönetim ve koordinasyonunda Müsteşara yardımcı olmak üzere, yedi müsteşar yardımcısı görevlendirilebilir.
-Ana hizmet birimleri
+**Ana hizmet birimleri**
 
-MADDE 6- (1) Bakanlıktaki ana hizmet birimleri yirmi beş adet genel müdürlükten oluşur. Genel müdürlükler, Bakanlığın görev ve yetkileri çerçevesinde, kendi görev alanlarına giren konularda, dış politikanın ve dış ilişkilerin icra edilmesine yönelik stratejilerin ve hareket tarzlarının tespit ve tatbikinden sorumludur. Bakanlık yurtdışı teşkilatının dış politika amaçları doğrultusunda yönlendirilmesi ve talimatlandırılması ile dış ilişkilerin ülke içindeki boyutunun icra ve koordinasyonundan da genel müdürlükler sorumludur. Genel müdürlükler, ikinci fıkrada sayılan görevlerin yanı sıra, Türk dış politikasının yürütülmesi çerçevesinde ülkeler ve bölgeler temelinde ortaya çıkan yeni öncelikler ile uluslararası ilişkiler alanında yaşanan gelişmeler doğrultusunda Bakan tarafından verilen diğer görevleri de yerine getirir.
+**MADDE 6-** (1) Bakanlıktaki ana hizmet birimleri yirmi beş adet genel müdürlükten oluşur. Genel müdürlükler, Bakanlığın görev ve yetkileri çerçevesinde, kendi görev alanlarına giren konularda, dış politikanın ve dış ilişkilerin icra edilmesine yönelik stratejilerin ve hareket tarzlarının tespit ve tatbikinden sorumludur. Bakanlık yurtdışı teşkilatının dış politika amaçları doğrultusunda yönlendirilmesi ve talimatlandırılması ile dış ilişkilerin ülke içindeki boyutunun icra ve koordinasyonundan da genel müdürlükler sorumludur. Genel müdürlükler, ikinci fıkrada sayılan görevlerin yanı sıra, Türk dış politikasının yürütülmesi çerçevesinde ülkeler ve bölgeler temelinde ortaya çıkan yeni öncelikler ile uluslararası ilişkiler alanında yaşanan gelişmeler doğrultusunda Bakan tarafından verilen diğer görevleri de yerine getirir.
 (2) Ana hizmet birimleri ve görevleri şunlardır:
 a) Siyaset Planlama Genel Müdürlüğü; Türkiye'nin dış politikasını ilgilendiren güncel uluslararası ve bölgesel konulara ilişkin uzun vadeli politikaların belirlenmesine katkıda bulunur ve bu konularda analiz, planlama, eşgüdüm ve kamuoyunu bilgilendirme çalışmaları yapar.
 b) Avrupa Genel Müdürlüğü; Avrupa ülkeleri ile ikili düzeydeki siyasi ilişkileri yürütür ve koordine eder.
@@ -88,9 +88,9 @@ Dış politika alanında medya aracılığıyla yerli ve yabancı kamuoyu ile il
 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanunu çerçevesinde Bakanlık içi koordinasyonu sağlar.
 m) Yurtdışı Tanıtım ve Kültürel İlişkiler Genel Müdürlüğü; ilgili kurum ve kuruluşlar ile işbirliği yapmak suretiyle, kültür, eğitim, bilim, spor ve benzeri alanlarında diğer ülke ve uluslararası kuruluşlarla ikili ve çok taraflı ilişkileri ve işbirliğini yürütür. Türkiye'nin yurtdışındaki tanıtımına yönelik proje ve faaliyetlerin yürütülmesini ve koordinasyonunu sağlar.
 n) Protokol Genel Müdürlüğü; Devlet ve dışişleri protokolünü düzenler ve uygular. Ülkedeki yabancı misyonların diplomatik işlemlerini, yurtdışındaki Türk misyonları ile ülkedeki yabancı misyonların güvenlikle ilgili iş ve işlemlerini, diplomatik pasaport işlemlerini, misyon şeflerinin atama belgeleri ile yabancı konsolosların buyrultu belgelerinin hazırlanması işlemlerini yürütür.
-Danışma ve denetim birimleri
+**Danışma ve denetim birimleri**
 
-MADDE 7- (1) Danışma ve denetim birimleri ile görevleri şunlardır:
+**MADDE 7-** (1) Danışma ve denetim birimleri ile görevleri şunlardır:
 a) Dış Politika Danışma Kurulu Başkanlığı; Türkiye Cumhuriyetinin dış politikasının oluşturulması, yönlendirilmesi ve uygulanması hakkında değerlendirmeler yapar ve görüş bildirir. Kurul Başkanlığı görevi Müsteşar tarafından yürütülür. Kurul, meslek memurları arasından atanan altı üye ile müsteşar yardımcılarından oluşur.
 b) Teftiş Kurulu Başkanlığı; Bakanın emri veya onayı üzerine, Bakanlık merkez ve yurtdışı teşkilatının her türlü faaliyet ve işlemlerini, Bakan adına incelemek, denetlemek ve gerekli görülmesi halinde soruşturmakla görevlidir. Teftiş Kurulu Başkanlığı, merkez ve yurtdışı teşkilatını oluşturan birimlerin işleyişini mevcut görev tanımları ve verimlilik esasları temelinde Bakanın emriyle gözden geçirip tavsiyelerde de bulunabilir. Teftiş Kurulu Başkanlığının görev, yetki ve sorumlulukları ile çalışma usul ve esasları yönetmelikle düzenlenir.
 c) Strateji Geliştirme Başkanlığı; 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, 22/12/2005 tarihli ve 5436 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 15 inci maddesi ve diğer mevzuatla strateji geliştirme ve mali hizmetler birimlerine verilen görevleri yerine getirir.
@@ -98,9 +98,9 @@ c) Strateji Geliştirme Başkanlığı; 10/12/2003 tarihli ve 5018 sayılı Kamu
 Müsteşara bağlı olarak faaliyet gösteren Başkanlığın teşekkül tarzı ile çalışma usul ve esasları yönetmelikle düzenlenir.
 d) Hukuk Müşavirliği; Bakanlık birimlerince hazırlanan veya diğer kamu kurum ve kuruluşlarınca gönderilen kanun, kanun hükmünde kararname, tüzük ve yönetmelik taslakları ile diğer hukuki konular hakkında görüş bildirir, Bakanlığın menfaatlerini koruyucu, anlaşmazlıkları önleyici hukuki tedbirleri alır, 8/1/1943 tarihli ve 4353 sayılı Kanun hükümlerine göre adli ve idari davalarda gerekli bilgileri hazırlar, Hazineyi ilgilendirmeyen idari davalarda Bakanlığı temsil eder ve Bakanın vereceği diğer vazifeleri yerine getirir.
 (2) Bakanlık Müşavirleri; Bakanlık açısından özel önem ve öncelik taşıyan konularda, sayıları otuzu geçmemek şartıyla, Bakanlık makamına yardımcı olmak üzere merkez teşkilatında görevlendirilen ve Bakanlık makamına bağlı olarak hizmet veren memurlardır.
-Yardımcı hizmet birimleri
+**Yardımcı hizmet birimleri**
 
-MADDE 8- (1) Yardımcı hizmet birimleri ve görevleri aşağıda gösterilmiştir:
+**MADDE 8-** (1) Yardımcı hizmet birimleri ve görevleri aşağıda gösterilmiştir:
 a) İnsan Kaynakları Dairesi Başkanlığının görevleri şunlardır:
 1) Bakanlığın insan kaynakları politikası ve planlamasıyla ilgili çalışmaları yürütmek, insan kaynaklarının ve personel yönetiminin geliştirilmesine yönelik önerilerde bulunmak ve bu kapsamda alınan kararları uygulamak.
 2) Kurumsal gelişim faaliyetlerini koordine etmek ve yürütmek.
@@ -131,9 +131,9 @@ f) Özel Kalem Müdürlüğü; Bakanın resmi ve özel temaslarını planlamak, 
 (4) Birinci fıkranın (a), (c), (ç), (d) ve (e) bentlerinde sayılan yardımcı birimler, müstakil daire başkanlıklarıdır.
 (5) Diplomasi Akademisi Başkanlığının çalışma usul ve esaslarına ilişkin hususlar yönetmelikle düzenlenir. Diplomasi Akademisi Başkanlığında ücret karşılığı ders vermek üzere görevlendirilen Bakanlık personeli ve diğer kişilere, haftada yirmi, bir takvim yılında üç yüz altmış saati aşmamak ve 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanununun 11 inci maddesinde öngörülen azami ek ders ücretlerini geçmemek üzere, Maliye Bakanlığının uygun görüşü üzerine Bakanlık tarafından belirlenen miktar, esas ve usuller çerçevesinde ders ücreti ödenir.
 (6) Bakanlık, yurtiçinde, dış ilişkilerin yürütülmesi açısından önem ve gereklilik taşıyan yerlerde Bakanın teklifi ve Başbakanın onayı ile toplam sayıları beşi geçmemek üzere irtibat bürosu açabilir. İrtibat bürolarının çalışma esasları, Bakanlıkça yürürlüğe konulan yönetmelikle belirlenir.
-Yurtdışı teşkilatı
+**Yurtdışı teşkilatı**
 
-MADDE 9- (1) Bakanlık, 13/12/1983 tarihli ve 189 sayılı Kamu Kurum ve Kuruluşlarının Yurtdışı Teşkilatı Hakkında Kanun Hükmünde Kararname esaslarına uygun olarak yurtdışı teşkilatı kurabilir.
+**MADDE 9-** (1) Bakanlık, 13/12/1983 tarihli ve 189 sayılı Kamu Kurum ve Kuruluşlarının Yurtdışı Teşkilatı Hakkında Kanun Hükmünde Kararname esaslarına uygun olarak yurtdışı teşkilatı kurabilir.
 (2) Bakanlığın yurtdışı teşkilatı, büyükelçilikler, daimi temsilcilikler, başkonsolosluklar, büyükelçilik konsolosluk şubeleri ile fahri başkonsolosluk ve fahri konsolosluklardan oluşur. İhtiyaç halinde, elçilik, konsolosluk, irtibat ofisi, büyükelçilik bürosu, başkonsolosluk bürosu, muavin konsolosluk ve konsolosluk ajanlığı ile diplomatik temsil ve konsolosluk hizmeti amaçlı benzer temsilcilikler, Bakanlığın teklifi üzerine Bakanlar Kurulu kararı ile kurulabilir.
 (3) Büyükelçiliklerin görevleri şunlardır:
 a) Kuruldukları ve akredite edildikleri devlet nezdinde Türkiye Cumhuriyetini temsil etmek, Türkiye Cumhuriyetinin, vatandaşlarının ve uyrukluğunu taşıyan tüzelkişilerin hak ve menfaatlerini korumak.
@@ -159,9 +159,9 @@ a) Türkiye Cumhuriyetinin menfaatlerini korumak, geliştirmek ve tanıtımına 
 b) Türkiye Cumhuriyeti vatandaşlarına ve uyrukluğunu taşıyan tüzelkişilere yönelik konsolosluk himayesi sağlamak.
 c) Özel olarak yetkilendirildiği takdirde, konsolosluk işlemleri yapmak.
 ç) Büyükelçilik tarafından verilen diğer görevleri yerine getirmek.
-Bakanlık personeli
+**Bakanlık personeli**
 
-MADDE 10- (1) Meslek memurlarına ilişkin esaslar aşağıda gösterilmiştir:
+**MADDE 10-** (1) Meslek memurlarına ilişkin esaslar aşağıda gösterilmiştir:
 a) Meslek memurları, Bakanlığın görevleri çerçevesinde, Türk dış politikasının oluşturulması ve icrasında görev, yetki ve sorumluluk üstlenen ve temsil görevi icra eden memurlardır. Meslek memurları, yabancı devletlerle ve uluslararası kuruluşlarla yürütülen ikili ve çok taraflı ilişkilerin siyasi, ekonomik ve kültürel boyutları ile uluslararası hukuk konuları ağırlıklı olmak üzere, uluslararası ilişkiler alanındaki gelişmeleri takip ve analiz eder, dış politikanın oluşturulmasına yönelik gerekli girdileri sağlar, stratejileri ve hareket tarzlarını oluşturarak Hükümet tarafından tespit olunan dış politika çerçevesinde uygular. Meslek memurları, yurtdışı teşkilatına sürekli görevle atandıklarında, konsolosluk işlemlerinde imzaya yetkilidir.
 b) Meslek memuru olabilmek için, 657 sayılı Kanunun 48 inci maddesinde sayılan şartlar ile Bakanlıkça açılan yarışma sınavına ilişkin yönetmelikle belirlenen diğer şartlar saklı kalmak üzere, yurtiçindeki üniversitelerin veya diploma denkliği Yükseköğretim Kurulu tarafından onaylanmış olmak kaydıyla yabancı üniversitelerin en az dört yıllık lisans eğitimi veren fakültelerinin uluslararası ilişkiler, siyaset bilimi, kamu yönetimi, tarih, sosyoloji, halkla ilişkiler ve tanıtım, psikoloji, iktisat, işletme, maliye ve finans bölümleri ile ağırlıklı olarak bu alanlara yönelik eğitim programlarına sahip bölümlerinden veya hukuk fakültelerinden mezun olmak ya da üniversitelerin sosyal bilimler alanında en az dört yıllık lisans eğitimi yapmış olup, uluslararası ilişkiler, siyaset bilimi, kamu yönetimi, hukuk ve iktisat alanlarında lisansüstü eğitim yapmış olmak gerekir. Meslek memurluğu sınavının açıldığı yılın Ocak ayının ilk günü itibarıyla, lisans diplomasına sahip bulunanlar için otuz yaşını, lisansüstü eğitim diplomasına sahip bulunanlar için otuz iki yaşını doldurmamış olmak şarttır. Meslek memurluğunda adaylık süresi bir yıldır.
 c) Meslek memurlarının merkez ve yurtdışı teşkilatında taşıyacakları unvanlar ve bunların hangi derecelere tekabül ettiği ekli (1) sayılı listede gösterilmiştir.
@@ -190,9 +190,9 @@ b) Mütercim kadrosunda görev yapacak memurların merkezi sınava ilave olarak 
 c) Sağlık hizmetleri sınıfına mensup merkez memurları, merkez teşkilatındaki görevlerine ilave olarak, yerel mahrumiyet şartları nedeniyle güvenilir sağlık hizmetlerine erişim imkanının kısıtlı olduğu veya ciddi sağlık riskleri bulunan bölge veya ülkelerdeki temsilciliklerde görevli personelin ve beraberlerindeki aile üyelerinin sağlık kontrolünden geçirilmelerinin, koruyucu sağlık hizmetlerinden yararlandırılmalarının ve ağır şekilde rahatsızlananların Türkiye'ye nakline nezaret edilmesinin gerektirdiği durumlarda geçici olarak yurtdışı teşkilatında görevlendirilebilir.
 (9) Koruma görevlileri, 657 sayılı Kanunun ek 8 inci ve ek 9 uncu maddelerine göre görevlendirildikleri yurtdışı teşkilatına ait bina ve konutların güvenliğinin sağlanması ile diplomatik misyon veya konsolosluk şefinin ve onun talimatı çerçevesinde diğer diplomatik misyon veya konsolosluk mensuplarının şahsi korunmalarından sorumludur.
 (10) Yardımcı hizmetliler, 657 sayılı Kanunun 36 ncı maddesinin birinci fıkrasının (VIII) numaralı bendi çerçevesinde görev yapan memurlardır.
-Mali hizmetler uzmanları ile merkez memurlarının yurtdışı teşkilatında görevlendirilmeleri
+**Mali hizmetler uzmanları ile merkez memurlarının yurtdışı teşkilatında görevlendirilmeleri**
 
-MADDE 11- (1) Mali hizmetler uzmanları ile merkez memurlarından genel idare hizmetleri ve teknik hizmetler sınıfına mensup olanlar, askerlik hizmeti dahil merkez teşkilatındaki kesintisiz ve fiili hizmet süreleri her defasında yedi yıldan az olmamak şartıyla ve sicil ve disiplin ile ilgili hususlar dikkate alınmak üzere, en fazla iki kez yurtdışı sürekli görevlere atanabilir. Bunun için memurun;
+**MADDE 11-** (1) Mali hizmetler uzmanları ile merkez memurlarından genel idare hizmetleri ve teknik hizmetler sınıfına mensup olanlar, askerlik hizmeti dahil merkez teşkilatındaki kesintisiz ve fiili hizmet süreleri her defasında yedi yıldan az olmamak şartıyla ve sicil ve disiplin ile ilgili hususlar dikkate alınmak üzere, en fazla iki kez yurtdışı sürekli görevlere atanabilir. Bunun için memurun;
 a) İlk kez yurtdışı sürekli göreve atanabilmek için, usul ve esasları yönetmelikle belirlenen yeterlik sınavını geçmesi ve Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında yeterlik sınavının yapıldığı tarih itibarıyla son iki yıl içerisinde en az (C) düzeyinde başarılı olması ve lisans diplomasına sahip bulunması,
 b) İkinci kez yurtdışı sürekli göreve atanabilmek için Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında son iki yıl içerisinde en az (B) düzeyinde başarılı olması ve yüksek lisans diplomasına sahip bulunması,
 c) Merkez teşkilatındaki görevleri sırasında ve varsa daha önceki yurtdışı görevinde sergilediği başarıya ilişkin olarak Bakanlık Komisyonu tarafından her bir yurtdışı sürekli görevlendirme öncesinde yapılan değerlendirmenin olumlu olması, gerekir.
@@ -200,10 +200,10 @@ c) Merkez teşkilatındaki görevleri sırasında ve varsa daha önceki yurtdı�
 Gerek görülmesi halinde, ikinci kez yurtdışı sürekli göreve atanacakların belirlenmesinde de sınav yöntemine başvurulabilir.
 (3) Bu madde hükümleri çerçevesinde yapılan birinci yurtdışı sürekli görevlendirmenin süresi üç yıldan, ikinci sürekli görevlendirmenin süresi ise dört yıldan fazla olamaz.
 (4) Yurtdışı sürekli göreve atanan mali hizmetler uzmanları ataşe, merkez memurları ise ataşe yardımcısı unvanını taşır.
-ÜÇÜNCÜ BÖLÜM
-Unvanlar ve Atamalar Yurtdışı teşkilatında unvanlar ve görev süreleri
+**ÜÇÜNCÜ BÖLÜM**
+**Unvanlar ve Atamalar Yurtdışı teşkilatında unvanlar ve görev süreleri**
 
-MADDE 12- (1) Bakanlık memurlarının merkez teşkilatından yurtdışı teşkilatına, yurtdışı teşkilatındaki bir temsilcilikten diğer bir temsilciliğe ve yurtdışı teşkilatından merkez teşkilatına sürekli görevle atanmalarında, 23/4/1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin Kanunda belirtilen usuller uygulanır.
+**MADDE 12-** (1) Bakanlık memurlarının merkez teşkilatından yurtdışı teşkilatına, yurtdışı teşkilatındaki bir temsilcilikten diğer bir temsilciliğe ve yurtdışı teşkilatından merkez teşkilatına sürekli görevle atanmalarında, 23/4/1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin Kanunda belirtilen usuller uygulanır.
 Bakanlığın yurtdışı teşkilatında görevli meslek memurları ile konsolosluk ve ihtisas memurları, ekli (1) ve (2) sayılı listelerde sayılan unvanları, temsil görevinin diplomatik veya konsüler niteliğine göre, aşağıdaki fıkralarda belirtilen esaslar çerçevesinde taşırlar.
 (2) Büyükelçi unvanına ilişkin esaslar şunlardır:
 a) Büyükelçi, nezdinde görevli bulunduğu ve akredite edildiği ülkelerde Türkiye Cumhuriyeti Devletini, Cumhurbaşkanını ve Hükümeti temsil eder.
@@ -238,9 +238,9 @@ b) Daha önce büyükelçilik yapmış meslek memurları ile merkez teşkilatın
 (10) Aday memurlar yurtdışına sürekli görevle atanamaz.
 (11) Meslek memurları ile konsolosluk ve ihtisas memurları merkez teşkilatından yurtdışı teşkilatına veya yurtdışı teşkilatından merkez teşkilatına, sahip bulundukları kadro dereceleriyle ve bu kadro derecelerine tekabül eden unvanlarla atanır.
 (12) Uzman müşavirlerin görev süresi, hizmetin gerektirdiği istisnalar dışında en çok dört yıldır. Yurtdışı görevleri sona eren uzman müşavirler, Bakanlık ile ilişikleri kesilerek daha önceden bağlı bulundukları kamu kurum veya kuruluşundaki kadrolarına iade edilir. Uzman müşavirler, diplomatik temsilciliklerde müşavir veya müşavir yardımcısı; konsolosluklarda ataşe veya ataşe yardımcısı unvanlarını taşır.
-Merkez teşkilatındaki unvanlar ve atamalar
+**Merkez teşkilatındaki unvanlar ve atamalar**
 
-MADDE 13- (l) Merkez teşkilatındaki görevlere yapılan atamalara ilişkin genel esaslar şunlardır:
+**MADDE 13-** (l) Merkez teşkilatındaki görevlere yapılan atamalara ilişkin genel esaslar şunlardır:
 a) Müsteşar ve müsteşar yardımcıları, büyükelçilik yapmış birinci derece kadrodaki meslek memurları arasından atanır.
 b) Genel müdürler, genel müdür yardımcıları ve müstakil daire başkanları, birinci derece kadrodaki meslek memurları arasından atanır.
 c) Müstakil daire başkanları ve genel müdür yardımcıları ile büyükelçilik yapmamış genel müdürler ve meslek memurları arasından atanan Strateji Geliştirme Başkanı elçi unvanı da taşır.
@@ -249,9 +249,9 @@ d) Stratejik Araştırmalar Merkezi Başkanı, 657 sayılı Kanunun 59 uncu madd
 e) Yurtdışı teşkilatında büyükelçi unvanıyla görev yapmış olan meslek memurları, merkez görevine döndüklerinde bu unvanı kullanmaya devam eder.
 (2) Bakanlık merkez teşkilatında görev yapan personelden 2451 sayılı Kanun hükümleri dışında kalan memurların atanmaları Bakan tarafından yapılır. Bakan bu yetkisini gerekli gördüğü hallerde alt kademelere devredebilir.
 (3) Yarışma sınavı ile memur alınan Bakanlık kadrolarına yapılan atamalar, ilan edilen kadro sayısına kadar ve başarı listesindeki sıraya göre yapılır.
-Yurtdışı sürekli görevlere ilişkin genel esaslar
+**Yurtdışı sürekli görevlere ilişkin genel esaslar**
 
-MADDE 14- (1) Yurtdışı teşkilatına sürekli görevle atanacak memurların, temsil yeteneği, olumlu sicil ve kanaat, mesleki bilgi ve yeterlik ile yabancı dil bilgisi konularında yurtdışı sürekli görevlere ilişkin mevzuat hükümlerinde yer verilen nitelikleri taşımaları ve son iki yılda olumlu sicil almış olmaları gerekir.
+**MADDE 14-** (1) Yurtdışı teşkilatına sürekli görevle atanacak memurların, temsil yeteneği, olumlu sicil ve kanaat, mesleki bilgi ve yeterlik ile yabancı dil bilgisi konularında yurtdışı sürekli görevlere ilişkin mevzuat hükümlerinde yer verilen nitelikleri taşımaları ve son iki yılda olumlu sicil almış olmaları gerekir.
 (2) Durumlarının aşağıda sayılanlardan birine uyduğu Bakanlık Komisyonunun teklifi üzerine Bakan onayıyla tespit edilen Bakanlık memurları yurtdışı sürekli görevlere atanamaz.
 a) Birinci fıkrada sayılan nitelikleri kaybettiği tespit edilenler.
 b) Devletin güvenlik ve itibarını zedeleyici davranışta bulunduğu tespit edilenler.
@@ -262,10 +262,10 @@ d) Haklarında ceza kovuşturması yürütülenler.
 (4) Haklarında ceza soruşturması başlatılan memurların yurtdışı sürekli görevlere atanmaları veya atanmış bulunanların görevlerine başlamaları, Bakanlık Komisyonunun teklifi ve Bakan onayı ile soruşturmanın sonuçlanmasına kadar askıya alınabilir.
 (5) Bakanlığın yurtdışı teşkilatını oluşturan temsilcilikler, diğer unsurların yanı sıra, bulundukları ülke veya şehirlerdeki asayiş, güvenlik, sağlık, eğitim, iskân, sosyal yaşam, temel ihtiyaçlara erişim, iklim ve buna benzer yaşam koşullarının zorluğu dikkate alınarak derecelendirilmek suretiyle altı kategoriye kadar gruplandırılabilir.
 (6) Bakanlık personelinin merkez teşkilatından yurtdışı teşkilatına, yurtdışı teşkilatından merkez teşkilatına ve bir temsilcilikten diğer bir temsilciliğe sürekli görevle atanmaları ile bu maddenin uygulanmasına ilişkin diğer usul ve esaslar Bakanlıkça yürürlüğe konulan yönetmelikle düzenlenir.
-DÖRDÜNCÜ BÖLÜM
-Mali Hükümler Aylıklara ilişkin düzenlemeler
+**DÖRDÜNCÜ BÖLÜM**
+**Mali Hükümler Aylıklara ilişkin düzenlemeler**
 
-MADDE 15- (1) Ek gösterge ve makam tazminatlarına ilişkin esaslar aşağıda belirtilmiştir:
+**MADDE 15-** (1) Ek gösterge ve makam tazminatlarına ilişkin esaslar aşağıda belirtilmiştir:
 a) Büyükelçilere, valiler için belirlenen ek gösterge ve makam tazminatı göstergeleri uygulanır.
 b) Kazanılmış hak olarak birinci derece üzerinden aylık almış;
 1) Birinci sınıf başkonsoloslar ile elçi unvanı taşıyan diğer meslek memurlarına merkez teşkilatında, birinci sınıf mülki idare amirleri için,
@@ -275,36 +275,36 @@ c) Birinci derecenin dördüncü kademesinden aylık alan;
 2) Başkonsoloslar, müsteşarlar ve daimi temsilci yardımcılarına, birinci derecenin dördüncü kademesinden aylık alan kaymakamlar için, belirlenen ek gösterge uygulanır.
 (2) Emsal kararnamesiyle belirlenen katsayılar, büyükelçiler ve daimi temsilcilere % 15, elçi-müsteşar, elçi-daimi temsilci yardımcısı ve başkonsoloslara % 5 oranında artırılmak suretiyle uygulanır. Bakanlar Kurulu, bu oranları bir katına kadar artırmaya ve bu oranları aşmamak üzere yurtdışı aylıklara esas ülke gruplarının bir bölümünü veya bazı ülkeleri kapsayacak şekilde farklı oranlar tespit etmeye yetkilidir.
 (3) Meslek memurlarına, aday memuriyete atanmalarıyla birlikte başlamak üzere, sınava girdikleri birinci dilden Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında (A) seviyesinde başarılı olanlar için tespit edilmiş bulunan yabancı dil tazminatı Bakanlık kadrolarında bulundukları sürece ödenir.
-Yurtdışı teşkilatındaki görevlere ilişkin mali haklar
+**Yurtdışı teşkilatındaki görevlere ilişkin mali haklar**
 
-MADDE 16- (1) Bakanlığın yurtdışı teşkilatına sürekli görevle atanan memurlara 657 sayılı Kanunda belirtilen usul ve esaslar dahilinde, aile yardımı ödeneğine hak kazanan eş için % 5 ve her bir çocuk için % 2,5 oranında aile yardımı ödeneği verilir. Bu ödeneğin hesaplanmasında, yurtdışı aylıklara ilişkin emsal kararnamesi çerçevesinde, görev yapılan ülke için birinci derecenin dördüncü kademesindeki meslek memurunun yurtdışı aylığı esas alınır. Bakanlar Kurulu bu oranları birer katına kadar artırabilir.
+**MADDE 16-** (1) Bakanlığın yurtdışı teşkilatına sürekli görevle atanan memurlara 657 sayılı Kanunda belirtilen usul ve esaslar dahilinde, aile yardımı ödeneğine hak kazanan eş için % 5 ve her bir çocuk için % 2,5 oranında aile yardımı ödeneği verilir. Bu ödeneğin hesaplanmasında, yurtdışı aylıklara ilişkin emsal kararnamesi çerçevesinde, görev yapılan ülke için birinci derecenin dördüncü kademesindeki meslek memurunun yurtdışı aylığı esas alınır. Bakanlar Kurulu bu oranları birer katına kadar artırabilir.
 (2) Eğitim yardımına ilişkin esaslar aşağıda belirtilmiştir:
 a) Bakanlığın yurtdışı teşkilatına sürekli görevle atanan memurlara, aile yardımı ödeneğine hak kazanan çocuklarından yurtdışında eğitim-öğretim görenleri için, belgelendirilmesi şartıyla eğitim yardımı verilebilir. Temsilciliğin bulunduğu şehirde Türkçe, İngilizce, Almanca veya Fransızca dillerinde faaliyet gösteren ilk, orta ve lise düzeyinde ücretsiz bir eğitim kurumuna devam etme imkanı bulunması halinde eğitim yardımı verilmez.
 b) Eğitim yardımı, ilk, orta ve lise öğrenimine devam eden her bir çocuk için, eğitim-öğretim yılı masrafının % 50'si, yirmi üç yaşından büyük olmamak üzere lisans düzeyinde üniversite öğrenimine devam eden her bir çocuk için ise eğitim-öğretim yılı masrafının % 25'i oranında hesaplanır ve aylık bazda ödenir. Bakanlar Kurulunca bu oranlar yarısına kadar artırılabilir. Servis, kurs ve yemek ücretleri ile benzeri ödemeler eğitim-öğretim yılı masrafı kapsamında kabul edilmez.
 c) Aylık bazda ödenecek eğitim yardımı, emsal kararnamesi çerçevesinde, çocuğun öğrenim gördüğü ülke için birinci derecenin dördüncü kademesindeki meslek memurunun yurtdışı aylığının ilkokul, ortaokul ve lise öğrenimi görenler için % 10'unu, üniversite öğrenimi görenler için % 5'ini aşamaz. Bu oranlar Bakanlar Kurulunca birer katına kadar artırılabilir.
 (3) Bakanlığın yurtdışı teşkilatına sürekli görevle atananlardan 14 üncü maddenin beşinci fıkrasına göre belirlenen dış temsilcilik gruplandırmasında, sondaki üç grupta yer alan temsilciliklerde görevli bulunanlar ile beraberlerindeki eş ve aile yardımı ödeneğine hak kazanan çocuklarının iki yılda bir defa olmak üzere Türkiye'ye gidiş-dönüş ulaşım masrafları bütçeden karşılanabilir.
 Sondaki üç grupta yer almayan temsilciliklerden hangilerinde görevli olanların bu imkandan faydalanabileceğine Bakanlar Kurulunca karar verilir. Ulaşım masrafı karşılananlar Türkiye'de en az on beş gün kalmak zorundadır. Merkez teşkilatına dönüş yapılacağı yıl bu imkandan faydalanılmaz. Öngörülen dönüş yılından önce zorunlu sebeplerle merkez teşkilatına dönen veya alınanlar ile beraberlerindeki eş ve aile yardımı ödeneğine hak kazanan çocukları için bu fıkra çerçevesinde daha önce yapılmış olan ödemeler nedeniyle ilgiliye borç çıkarılmaz.
-Teşvik ödeneği
+**Teşvik ödeneği**
 
-MADDE 17- (1) Bakanlığın yurtdışı teşkilatına sürekli görevle atananlara, aşağıda belirtilen usul ve esaslar çerçevesinde kazanılmış hak teşkil etmemek üzere, teşvik ödeneği verilebilir:
+**MADDE 17-** (1) Bakanlığın yurtdışı teşkilatına sürekli görevle atananlara, aşağıda belirtilen usul ve esaslar çerçevesinde kazanılmış hak teşkil etmemek üzere, teşvik ödeneği verilebilir:
 a) Teşvik ödeneği, 14 üncü maddenin beşinci fıkrasına göre belirlenen dış temsilcilik gruplandırmasında son üç grupta yer alan temsilciliklerde görev yapan memurlara, yurtdışı aylığının % 15'ini geçmemek üzere emsal kararnamesinde belirlenen oran, esas ve usuller çerçevesinde ödenir. Sondan üçüncü grupta yer alan temsilciliklerde görevli memurlara ödenecek tazminat oranı % 5'tir. Sondan ikinci ve sonuncu gruplarda görev yapanlara ödenecek tazminat oranları Bakanlar Kurulunca tespit edilir. Bakanlar Kurulu bu oranları birer katına kadar artırmaya ve yarısına kadar azaltmaya yetkilidir. Savaş, iç savaş ve iç karışıklık halinin devam ettiği veya bu durumların ortaya çıktığı ülke veya bölgelerdeki temsilciliklerde görevli memurlara, temsilcilik sınıflandırması gözetilmeksizin, daha yüksek oranlarda tazminat ödenmesine Bakanlar Kurulunca karar verilebilir.
 b) Teşvik ödeneği kapsamına dahil temsilciliklerde görevli Türk uyruklu sözleşmeli personel de teşvik ödeneğinden yararlanır. Bu ödemenin hesaplanmasında, sözleşmeli personelin net maaşı esas alınır. Net maaş üzerinden hesaplanacak ödenek miktarının oranı, aynı temsilcilikte görevli memurlar için saptanan teşvik ödeneği oranına eşittir.
 (2) Bakanlığın yurtdışı teşkilatına sürekli görevle atanan memurlara, bu Kanunla yurtdışı aylığı ve diğer ödemelere ilişkin getirilen hükümler, diğer kamu idarelerince sürekli görevle yurtdışına atananlardan yurtdışı aylıkları 657 sayılı Kanunun 156 ncı ve 157 nci maddelerine göre belirlenenler hakkında da uygulanır.
-Olağanüstü durumlar
+**Olağanüstü durumlar**
 
-MADDE 18- (1) Bir ülkede savaş, iç karışıklık, tabii afet, salgın hastalık ve can güvenliğini tehdit eden benzeri olağanüstü durumların ortaya çıkması veya bu yönde kuvvetli belirtiler bulunması hâlinde, can ve mal güvenliğinin sağlanması amacıyla, bu ülkede bulunan temsilciliklerde görevli personelin ve beraberlerindeki aile üyelerinin tahliye edilmesi kararı Bakanlıkça alınabilir. Böyle bir kararın alınması halinde, personelin ve aile üyelerinin ülke dışına çıkarılması veya ülke içinde daha güvenli bölgelere nakilleri ile iaşe ve ibatelerinin sağlanması dahil gerekli tüm tedbirler Bakanlıkça alınır ve giderleri karşılanır.
+**MADDE 18-** (1) Bir ülkede savaş, iç karışıklık, tabii afet, salgın hastalık ve can güvenliğini tehdit eden benzeri olağanüstü durumların ortaya çıkması veya bu yönde kuvvetli belirtiler bulunması hâlinde, can ve mal güvenliğinin sağlanması amacıyla, bu ülkede bulunan temsilciliklerde görevli personelin ve beraberlerindeki aile üyelerinin tahliye edilmesi kararı Bakanlıkça alınabilir. Böyle bir kararın alınması halinde, personelin ve aile üyelerinin ülke dışına çıkarılması veya ülke içinde daha güvenli bölgelere nakilleri ile iaşe ve ibatelerinin sağlanması dahil gerekli tüm tedbirler Bakanlıkça alınır ve giderleri karşılanır.
 (2) Yurtdışında sürekli görevle bulunan memurların, beraberlerinde bulunan bakmakla yükümlü oldukları aile üyelerini de kapsamak üzere, görevleri sırasında maruz kaldıkları saldırılar nedeniyle veya görevli bulundukları ülkede savaş, iç karışıklık, tabii afet ve diğer olağanüstü hallere bağlı sebeplerle taşınır veya taşınmazlarının kısmen veya tamamen tahrip olması halinde, sigorta şirketleri veya yabancı makamlar tarafından herhangi bir tazminat ödenmediği takdirde, olayın meydana geldiği ülkenin mevzuatına göre düzenlenecek hasar tespit raporunda belirtilen parasal miktarın % 80'i tazminat olarak hak sahiplerine Bakanlıkça ödenir. Ancak, ilgili ülke mevzuatının uygulama imkanı bulunmaması gibi zorunlu hallerde en yakın misyon şefi tarafından teşkil edilecek ve uzmanlardan oluşan bir kurulca düzenlenecek hasar tespit raporu ödemeye esas alınır. Sigorta şirketleri veya yabancı makamların ödedikleri tazminatın tutarı bu miktardan az olduğu takdirde, aradaki fark Bakanlık tarafından karşılanır.
 (3) Savaş, iç karışıklık, tabii afet, salgın ve bulaşıcı hastalıklar ile can güvenliğini tehdit eden diğer olağanüstü haller ve görev riskleri sonucunda meydana gelen yaralanmalar veya hastalanmalar ile görevleriyle bağlantılı olarak geçirdikleri kazalar neticesinde, yurtdışında sürekli görevli bulundukları ülkeden Türkiye'ye tedavi amacıyla dönmek zorunda kalan veya başka bir ülkeye geçmesi istenen memurlara Bakan onayı ile tazminat ödenir. Tazminatın miktarı, daimi sakatlık ve ölümle sonuçlanmayan durumlarda, altı aylık yurtdışı maaşından fazla olamaz. Söz konusu maaş tutarının hesaplanmasında, yurtdışı aylıklara esas birinci ülke grubunda çalışan memurların tabi oldukları emsal katsayıları kullanılır.
 (4) Siyasi gerekçelerle veya savaş, iç karışıklık, tabii afet, salgın hastalıklar ve can güvenliğini tehdit eden diğer olağanüstü haller nedeniyle görev yaptıkları ülkeden başka bir ülkeye geçmeleri ya da Türkiye'ye dönmeleri Bakanlıkça istenen veya bu gerekçeler nedeniyle, görev yaptıkları ülkeye dönmelerine Bakanlıkça izin verilmeyen memurlara üç aya kadar yurtdışı maaşı ödenebilir. Siyasi gerekçelerle geçici olarak merkeze çağırılan misyon şefleri için bu süre altı aya kadar uzatılabilir.
 (5) İkinci ve üçüncü fıkralar kapsamında yapılan ödemeler gelir vergisine tabi değildir.
-BEŞİNCİ BÖLÜM
-Çeşitli Hükümler Yabancı dillerin geliştirilmesi ve uzmanlaşmanın teşviki
+**BEŞİNCİ BÖLÜM**
+**Çeşitli Hükümler Yabancı dillerin geliştirilmesi ve uzmanlaşmanın teşviki**
 
-MADDE 19- (1) Bakanlık, dış politikanın yürütülmesinde gerekli ve faydalı gördüğü uzmanlık konularının ve yabancı dillerin Bakanlık personelince öğrenilmesi ve bu alanlardaki mevcut birikim ve yeteneklerinin geliştirilmesi amacıyla gerekli gördüğü tedbirleri alır ve bu personele uygulanacak teşvikleri belirler.
+**MADDE 19-** (1) Bakanlık, dış politikanın yürütülmesinde gerekli ve faydalı gördüğü uzmanlık konularının ve yabancı dillerin Bakanlık personelince öğrenilmesi ve bu alanlardaki mevcut birikim ve yeteneklerinin geliştirilmesi amacıyla gerekli gördüğü tedbirleri alır ve bu personele uygulanacak teşvikleri belirler.
 (2) Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.
-Yurtdışı teşkilatında resmi tatiller, yetki devri, siciller, güvenlik ve sağlık raporları, Bakanlık iznine tabi hususlar, yurtdışı temsilcilikler bünyesindeki binalar, Devlet konukevleri
+**Yurtdışı teşkilatında resmi tatiller, yetki devri, siciller, güvenlik ve sağlık raporları, Bakanlık iznine tabi hususlar, yurtdışı temsilcilikler bünyesindeki binalar, Devlet konukevleri**
 
-MADDE 20- (1) Yurtdışı teşkilatı, Cumhuriyet Bayramı ve dini bayramların birinci günü ile Bakanlıkça belirlenen istisnalar dışında, mahalli tatil günlerinde tatil edilir.
+**MADDE 20-** (1) Yurtdışı teşkilatı, Cumhuriyet Bayramı ve dini bayramların birinci günü ile Bakanlıkça belirlenen istisnalar dışında, mahalli tatil günlerinde tatil edilir.
 (2) Bakan, Müsteşar ve her kademedeki Bakanlık yöneticileri, sınırlarını açıkça belirtmek şartıyla yetkilerinden bir kısmını alt kademelere devredebilir.
 Yetki devri, yetkisini devreden amirin sorumluluğunu ortadan kaldırmaz.
 (3) Meslek memurları ile konsolosluk ve ihtisas memurlarının sicillerinin verilmesinde, mesleğin özelliklerine göre, genel hükümlere ilave düzenlemeler yönetmelikle yapılabilir.
@@ -316,21 +316,21 @@ Hukuk müşavirleri ile danışmanlardan da Bakanlığa alınmaları sırasında
 (8) Devlet konukevi olarak kullanılacak binaların kullanılması ve döner sermaye işletmeleri şeklinde işletilmesi görev, yetki ve sorumluluğu Bakanlığa aittir. Döner sermaye işletmeleri için kendi kaynaklarından karşılanmak üzere 500.000 Türk Lirası sermaye tahsis edilmiştir. Bu miktar Maliye Bakanlığının uygun görüşü üzerine Bakanlar Kurulunca beş katına kadar artırılabilir. Ödenmiş sermaye tutarı tahsis edilen sermaye tutarına ulaşıncaya kadar, elde edilen dönem sonu kârları ödenmiş sermayeye eklenir.
 Ödenmiş sermaye tutarı tahsis edilen sermaye tutarına ulaştıktan sonra elde edilen kârlar, hesap dönemini izleyen Nisan ayının sonuna kadar genel bütçeye gelir kaydedilmek üzere ilgili muhasebe birimi hesabına yatırılır.
 Döner sermaye işletmelerinin yönetimi, faaliyet alanları, işleyişi, sermaye kaynakları, idari ve mali işlemleri ile gelirlerine ilişkin usul ve esaslar Maliye Bakanlığının da görüşü alındıktan sonra yürürlüğe konulan yönetmelikle belirlenir. Bakanlıkça gerekli görüldüğü takdirde, Devlet konukevinin kullanma ve işletme görev, yetki ve sorumluluğu, ihtisas alanları da gözönünde tutularak kısmen resmi veya özel diğer kuruluşlara devredilebilir.
-Kadrolar
+**Kadrolar**
 
-MADDE 21- (1) Ekli (3) sayılı listede yer alan kadrolar iptal edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Dışişleri Bakanlığına ait bölümünden çıkarılmış, ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Dışişleri Bakanlığına ait bölümüne eklenmiştir.
-Yürürlükten kaldırılan hükümler
+**MADDE 21-** (1) Ekli (3) sayılı listede yer alan kadrolar iptal edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Dışişleri Bakanlığına ait bölümünden çıkarılmış, ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Dışişleri Bakanlığına ait bölümüne eklenmiştir.
+**Yürürlükten kaldırılan hükümler**
 
-MADDE 22- (1) 24/6/1994 tarihli ve 4009 sayılı Dışişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanun yürürlükten kaldırılmıştır.
+**MADDE 22-** (1) 24/6/1994 tarihli ve 4009 sayılı Dışişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanun yürürlükten kaldırılmıştır.
 
-MADDE 23- (1) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun;
+**MADDE 23-** (1) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun;
 a) 36 ncı maddesinin "Ortak Hükümler" başlıklı bölümünün (A) fıkrasının (11) numaralı bendinde yer alan "Dışişleri Bakanlığı meslek memurları" ibaresi "Dışişleri Bakanlığı meslek memurları ile konsolosluk ve ihtisas memurları" olarak, "Dışişleri meslek memurluğunda" ibaresi "Dışişleri Bakanlığı meslek memurluğu ile konsolosluk ve ihtisas memurluğunda" olarak değiştirilmiştir.
 b) 59 uncu maddesinin birinci fıkrasında yer alan "Daimi Temsilciliklere," ibaresinden sonra gelmek üzere "Dışişleri Bakanlığı Stratejik Araştırmalar Merkezi Başkanlığına," ibaresi eklenmiştir.
 c) 152 nci maddesinin "II-Tazminatlar" kısmının "A-Özel Hizmet Tazminatı" bölümünün (1) bendi aşağıdaki şekilde değiştirilmiştir.
 "1) Dışişleri Bakanlığı meslek memurları için (aday meslek memurları dahil) % 140'ına, konsolosluk ve ihtisas memurları için (aday konsolosluk ve ihtisas memurları dahil) % 130'una,"
 ç) Eki (I) sayılı Ek Gösterge Cetvelinin "I- Genel İdare Hizmetleri Sınıfı" bölümünün (d) bendine "Genel Müdürler," ibaresinden sonra gelmek üzere "Dışişleri Bakanlığı Stratejik Araştırmalar Merkezi Başkanı," ibaresi ile (h) bendine "Devlet Bütçe Uzmanları," ibaresinden sonra gelmek üzere "Konsolosluk ve İhtisas Memurları," ibaresi eklenmiştir.
 
-MADDE 24- (1) 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 24-** (1) 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa aşağıdaki geçici madde eklenmiştir.
 "GEÇİCİ MADDE
 222- Dışişleri Bakanlığı meslek mensubu, ataşe, ataşe yardımcısı ya da münhasıran yurtdışında kullanılmak üzere ihdas edilmiş olan kadro unvanlarına atanmak suretiyle görev yapmakta iken bu maddenin yürürlüğe girdiği tarihten önce meydana gelen terör eylemleri nedeniyle malul veya şehit olanlar için bağlanan aylık ve vazife malullüğü aylıklarında unvan tavanları;
 a) Başkonsolos, elçi-müsteşar, büyükelçilik birinci müsteşarı kadro unvanında görev yaptığı halde büyükelçi kadro unvanı emsal alınarak,
@@ -338,20 +338,20 @@ b) Diğer meslek mensubu kadro unvanlarında görev yaptığı halde başkonsolo
 c) Ataşe, ataşe yardımcısı ya da münhasıran yurtdışında kullanılmak üzere ihdas edilmiş olan kadro unvanlarında görev yaptığı halde uzman kadro unvanı emsal alınarak, belirlenir.
 Bu madde kapsamına giren hak sahiplerinin aylıkları, bu maddenin yürürlüğe girdiği tarihi takip eden aybaşından itibaren ek 77 nci madde hükmü dikkate alınarak birinci fıkrada belirtilen esaslara göre yükseltilir. Ancak bu yükseltmeden dolayı geçmişe yönelik aylık veya aylık farkı ödenmez."
 
-MADDE 25- (1) 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 13 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 25-** (1) 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 13 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "Yeni memuriyet mahallinde işe başlamadan veya yolda vefat halinde veyahut göreve başladıktan sonra vefat halinde aile harcırahı:
 
 MADDE 13- Yurtiçinde daimi memuriyetle bir mahale tayin olunup da yolda veya yeni memuriyet mahallinde işe başlamadan evvel vefat eden memur veya hizmetli, ailesini birlikte götürmüş bulunuyor ise harcıraha müstehak aile efradına ölümün vukubulduğu mahalden itibaren ve ailesini birlikte götürmemiş ise bunlara vefat tarihinde bulundukları mahalden itibaren, 45 inci madde esaslarına göre harcırah verilir.
 Yabancı bir memlekete daimi vazife ile tayin olunup da yolda veya yeni memuriyet mahallinde işe başlamadan evvel veyahut vazifesine başladıktan sonra vefat eden memur veya hizmetli, ailesini beraberinde götürmüş bulunuyor ise harcıraha müstahak aile efradına ölümün vukubulduğu mahalden itibaren ödenecek harcırah 46 ncı madde esaslarına göre belirlenir."
-ALTINCI BÖLÜM
-Geçici Hükümler Yönetmelikler ve teşkilata ilişkin geçiş süreci
+**ALTINCI BÖLÜM**
+**Geçici Hükümler Yönetmelikler ve teşkilata ilişkin geçiş süreci**
 
-GEÇİCİ MADDE 1- (1) Bu Kanunda öngörülen yönetmelikler, bu Kanunun yayımı tarihinden itibaren altı ay içinde Bakanlık tarafından hazırlanarak yürürlüğe konulur.
+**GEÇİCİ MADDE 1-** (1) Bu Kanunda öngörülen yönetmelikler, bu Kanunun yayımı tarihinden itibaren altı ay içinde Bakanlık tarafından hazırlanarak yürürlüğe konulur.
 Bu yönetmelikler yürürlüğe girinceye kadar, mevcut yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 (2) Bu Kanunda Bakanlık teşkilatı için öngörülen yeni düzenlemeler uygulamaya konuluncaya kadar, Bakanlık birimleri mevcudiyetlerini ve görevlerini sürdürürler.
-Meslek memurlarına ilişkin geçiş süreci
+**Meslek memurlarına ilişkin geçiş süreci**
 
-GEÇİCİ MADDE 2- (1) Bu Kanunun yürürlüğe girdiği tarih itibarıyla meslek memuru veya aday meslek memuru statüsünde bulunanlardan başkatiplik ve konsolosluk yeterlik sınavına henüz girmemiş veya bu sınavı geçememiş olanlar, dördüncü fıkradaki düzenleme saklı kalmak üzere, bu Kanunun yürürlüğe girdiği tarihten önce tabi bulundukları hükümler çerçevesinde, başkatiplik ve konsolosluk yeterlik sınavına girmeye devam eder. İlk sınav haklarında başarılı olamayanlar, kalan iki sınav haklarını, müteakip iki yıl içerisinde kullanabilir.
+**GEÇİCİ MADDE 2-** (1) Bu Kanunun yürürlüğe girdiği tarih itibarıyla meslek memuru veya aday meslek memuru statüsünde bulunanlardan başkatiplik ve konsolosluk yeterlik sınavına henüz girmemiş veya bu sınavı geçememiş olanlar, dördüncü fıkradaki düzenleme saklı kalmak üzere, bu Kanunun yürürlüğe girdiği tarihten önce tabi bulundukları hükümler çerçevesinde, başkatiplik ve konsolosluk yeterlik sınavına girmeye devam eder. İlk sınav haklarında başarılı olamayanlar, kalan iki sınav haklarını, müteakip iki yıl içerisinde kullanabilir.
 (2) Üç sınav hakkında da başarısız olan meslek memurlarına, 10 uncu maddenin ikinci fıkrasının (ç) bendinde konsolosluk ve ihtisas memurları için öngörülen kariyer ilerleme ve konsolosluk yeterlik sınavına iki kez girme hakkı tanınır.
 Meslek memuru bu haklarını, en son katıldığı başkatiplik ve konsolosluk yeterlik sınavından sonra düzenlenecek müteakip üç kariyer ilerleme ve konsolosluk yeterlik sınavında kullanabilir. Kariyer ilerleme ve konsolosluk yeterlik sınavına katılıp başarılı olan meslek memurları, konsolosluk ve ihtisas memuru statüsüne geçmiş olur. Bu sınavda da başarılı olamayan veya bu sınava katılmayan meslek memurları, mevcut statüleri ile birlikte, merkez teşkilatında ikinci katip, yurtdışı teşkilatında ise ikinci katip veya muavin konsolos unvanını korur, ancak daha üst unvanlara yükselemez.
 (3) Bu Kanunun yürürlüğe girdiği tarihten sonra aday meslek memuru statüsünü kazananlar, bu Kanunda belirtilen gerekli diğer şartları taşımaları halinde, aşağıda yer alan esaslara göre belirlenecek tarihlerde başkatiplik ve konsolosluk yeterlik sınavına kabul edilir.
@@ -363,9 +363,9 @@ a) Aday meslek memuru olarak bir yılını tamamlamış bulunanlar asli memurlu�
 b) Ataşe unvanını taşıyanlar üçüncü katip,
 c) Üçüncü katip unvanını taşıyanlar ikinci katip, unvanını alır ve askerlik hizmeti dahil meslek memurluğunda geçirdikleri en erken dokuzuncu fiili hizmet yılı içinde başkatiplik ve konsolosluk yeterlik sınavına girer.
 (5) Üçüncü fıkra çerçevesinde başkatiplik ve konsolosluk yeterlik sınavına girecek meslek memurlarından, aynı fıkranın (a) bendine tabi olacakların üç yıla kadar, (b) bendine tabi olacakların iki yıla kadar, (c) bendine tabi olacakların ise bir yıla kadar ikinci katip veya muavin konsolos unvanıyla fazladan geçirdikleri süreler, ilgili memurların müteakip derece ilerlemesi için gerekli olan süreden sayılır.
-Hukuk müşavirlerine ilişkin geçiş süreci
+**Hukuk müşavirlerine ilişkin geçiş süreci**
 
-GEÇİCİ MADDE 3- (1) Bakanlıkta hukuk müşaviri unvanıyla görev yapan memurlar, bu Kanunun yürürlüğe girdiği tarihten itibaren yüz yirmi gün içerisinde meslek memuru statüsüne geçiş yapmak istediklerini yazılı olarak beyan etmeleri halinde, bu maddede yer alan hükümler çerçevesinde meslek memurluğu statüsüne geçirilir ve uygun unvanları alır. Meslek memurluğuna geçiş yapmayan hukuk müşavirleri mevcut unvanlarını ve özlük haklarını muhafaza eder.
+**GEÇİCİ MADDE 3-** (1) Bakanlıkta hukuk müşaviri unvanıyla görev yapan memurlar, bu Kanunun yürürlüğe girdiği tarihten itibaren yüz yirmi gün içerisinde meslek memuru statüsüne geçiş yapmak istediklerini yazılı olarak beyan etmeleri halinde, bu maddede yer alan hükümler çerçevesinde meslek memurluğu statüsüne geçirilir ve uygun unvanları alır. Meslek memurluğuna geçiş yapmayan hukuk müşavirleri mevcut unvanlarını ve özlük haklarını muhafaza eder.
 (2) Bu Kanunun yürürlüğe girdiği tarihi izleyen yüz yirmi günlük başvuru süresinin sona erdiği tarih itibarıyla, memuriyette askerlik hizmeti dahil en fazla sekizinci fiili hizmet yılı içinde bulunanların alacakları unvanlar aşağıda yer alan esaslara göre belirlenir ve geçici 2 nci maddenin dördüncü fıkrası çerçevesinde unvan düzenlemeleri yapılır:
 a) Aday hukuk müşaviri olarak görev yapanlar aday meslek memuru,
 b) Memuriyette üçüncü fiili hizmet yılı içinde bulunan hukuk müşavirleri ataşe,
@@ -377,9 +377,9 @@ c) Memuriyette dördüncü, beşinci ve altıncı fiili hizmet yılı içinde bu
 Sınavda başarılı olanların alacakları unvanlar Bakanlık Komisyonunun teklifi ve Bakan onayı ile belirlenir. Sınavda başarılı olanlar, 12 nci maddenin ikinci fıkrası çerçevesinde büyükelçi olarak da atanabilir. Sınavda başarılı olamayanlara en az altışar ay arayla iki sınav hakkı daha tanınır. Bu haklarında da başarılı olamayanlar, merkez ve yurtdışı teşkilatında hukuk müşaviri unvanlarını muhafaza ederler.
 Bunlara, konsolosluk ve ihtisas memurları için öngörülen kariyer ilerleme ve konsolosluk yeterlik sınavına iki kez katılma hakkı verilir. Bu sınav hakları, en son girilen özel yeterlik sınavından sonra düzenlenecek müteakip üç kariyer ilerleme ve konsolosluk yeterlik sınavında kullanılabilir. Bu sınava katılıp başarılı olanlar, konsolosluk ve ihtisas memuru statüsüne geçmiş olurlar. Bu haklarında da başarılı olamayanlar, merkez ve yurtdışı teşkilatında mevcut unvanlarını korurlar.
 (5) Bu madde çerçevesinde meslek memuru veya konsolosluk ve ihtisas memuru statüsüne geçen hukuk müşavirlerinin kadroları herhangi bir işleme gerek kalmaksızın toplam kadro sayısı yirmiye düşünceye kadar iptal edilmiş sayılır.
-Danışmanlar, idari memurlar, bölge uzmanları, yabancı dil uzmanları ve haberleşme teknik personeline ilişkin geçiş süreci
+**Danışmanlar, idari memurlar, bölge uzmanları, yabancı dil uzmanları ve haberleşme teknik personeline ilişkin geçiş süreci**
 
-GEÇİCİ MADDE 4- (1) Bu Kanunun yürürlüğe girdiği tarihte Bakanlıkta, adaylık süreci devam edenler dahil, danışman, idari memur (bunlardan uzman ve idari ataşe unvanı taşıyanlar dahil), bölge uzmanı ve yabancı dil uzmanı ile haberleşme teknik personeli olarak görev yapan mühendis, tekniker ve haberleşme teknisyenlerinden bu Kanunun yürürlüğe girdiği tarihten itibaren yüz yirmi gün içerisinde konsolosluk ve ihtisas memurluğu statüsüne geçmek istediklerini yazılı olarak beyan edenler aşağıda yer alan esaslar çerçevesinde konsolosluk ve ihtisas memurluğuna geçirilir. Konsolosluk ve ihtisas memurluğuna geçmek istemeyenler, mevcut statülerini ve özlük haklarını muhafaza ederler.
+**GEÇİCİ MADDE 4-** (1) Bu Kanunun yürürlüğe girdiği tarihte Bakanlıkta, adaylık süreci devam edenler dahil, danışman, idari memur (bunlardan uzman ve idari ataşe unvanı taşıyanlar dahil), bölge uzmanı ve yabancı dil uzmanı ile haberleşme teknik personeli olarak görev yapan mühendis, tekniker ve haberleşme teknisyenlerinden bu Kanunun yürürlüğe girdiği tarihten itibaren yüz yirmi gün içerisinde konsolosluk ve ihtisas memurluğu statüsüne geçmek istediklerini yazılı olarak beyan edenler aşağıda yer alan esaslar çerçevesinde konsolosluk ve ihtisas memurluğuna geçirilir. Konsolosluk ve ihtisas memurluğuna geçmek istemeyenler, mevcut statülerini ve özlük haklarını muhafaza ederler.
 (2) Bu Kanunun yürürlüğe girdiği tarihten sonra, konsolosluk ve ihtisas memurluğu statüsüne geçiş nedeniyle boşalacak olan danışman kadroları, herhangi bir işleme gerek kalmaksızın, toplam kadro sayısı on beşe düşünceye kadar iptal edilmiş sayılır. Danışman kadroları hariç olmak üzere, birinci fıkrada sayılan kadrolara yeni atama yapılmaz. Atama yapılmayacak kadrolardan, bu Kanunun yürürlüğe girdiği tarihte boş olanlar ile herhangi bir nedenle boşalacak olanlar herhangi bir işleme gerek kalmaksızın iptal edilmiş sayılır.
 (3) Konsolosluk ve ihtisas memurluğuna geçiş yapan memurlar, dördüncü fıkrada yer alan esaslar çerçevesinde, merkez ve yurtdışı teşkilatında ataşe veya daha üst unvanları taşımaya hak kazanırlar.
 (4) Konsolosluk ve ihtisas memurluğuna geçiş yapanlardan;
@@ -389,23 +389,23 @@ b) Dört yıldan az eğitim veren bir yüksek öğrenim kurumundan veya orta ö�
 Bunlara, askerlik hizmeti dahil, eski statülerinde ve konsolosluk ve ihtisas memurluğunda geçirdikleri fiili hizmet süresi toplamı dokuz yıldan fazla ise veya fazla olduğunda kariyer ilerleme ve konsolosluk yeterlik sınavına iki kez iştirak etme hakkı tanınır. Bu sınav hakları, sınava katılma hakkının Bakanlıkça kayda geçirildiği tarihten itibaren tertip edilecek ilk üç sınavdan ikisinde kullanılır. İkinci haklarında da başarılı olamayanlar merkez teşkilatında ikinci katip, yurtdışı teşkilatında ise ikinci katip veya muavin konsolos unvanını taşımaya devam ederler, ancak daha üst unvanlara yükseltilmezler.
 c) Bu Kanunun yürürlüğe girdiği tarihteki statülerinde ve yüz yirmi günlük başvuru süresinin sona erdiği tarih itibarıyla, askerlik hizmeti dahil sekizinci ve daha az fiili hizmet yılı içinde bulunanlar, fiili hizmet sürelerine karşılık gelen unvanlara atanır. Bunlar, eski statülerinde ve konsolosluk ve ihtisas memurluğunda geçirdikleri askerlik hizmeti dahil toplam dokuzuncu fiili hizmet yılları içinde, 10 uncu maddenin ikinci fıkrasının (ç) bendi hükümlerine tabi olarak, kariyer ilerleme ve konsolosluk yeterlik sınavına girerler.
 (5) Konsolosluk ve ihtisas memurluğuna geçiş yapan personelin kendi aralarındaki öndegelim sıralarının belirlenmesine ilişkin esaslar yönetmelikle düzenlenir.
-Sürekli merkez hizmeti gören memurlara ilişkin geçiş süreci
+**Sürekli merkez hizmeti gören memurlara ilişkin geçiş süreci**
 
-GEÇİCİ MADDE 5- (1) Bu Kanunun yürürlüğe girdiği tarihten önce sürekli merkez hizmeti gören memur statüsüyle görev yapmakta olanlar, bu Kanunun yürürlük tarihi itibarıyla merkez memuru statüsüne geçiş yapar.
+**GEÇİCİ MADDE 5-** (1) Bu Kanunun yürürlüğe girdiği tarihten önce sürekli merkez hizmeti gören memur statüsüyle görev yapmakta olanlar, bu Kanunun yürürlük tarihi itibarıyla merkez memuru statüsüne geçiş yapar.
 (2) Bu memurlar, 11 inci maddede belirtilen şartları taşımaları veya taşıyor duruma gelmeleri halinde, aynı maddedeki esaslar çerçevesinde yurtdışı sürekli görevlere atanabilirler.
 (3) Bu memurlardan, l1 inci maddede kayıtlı şartları taşımayanlar da askerlik hizmeti dahil Bakanlıkta en az on beş yıl fiili hizmeti bulunmak, beşinci ve daha üst derecelere yükselmiş olmak, yükseköğretim mezunu olmak, Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında son iki sene içerisinde en az (E) düzeyinde başarılı olmuş bulunmak ve son altı yıllık sicil notu ortalamaları en az seksen beş olmak kaydıyla, en fazla iki defaya mahsus olmak üzere ve en çok üçer yıllık sürelerle, 14 üncü maddenin beşinci fıkrasına göre belirlenen dış temsilcilik gruplandırmasında son üç grupta yer alan temsilciliklere sürekli görevle atanabilirler. Bunların 11 inci madde çerçevesinde ikinci kez yurtdışı sürekli göreve atanabilmeleri için, Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında son iki sene içerisinde en az (C) düzeyinde başarılı olmaları şartı aranır.
 (4) Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında son iki sene içerisinde en az (E) düzeyinde başarılı olamamış bulunan memurlar, üçüncü fıkrada belirtilen sicil ve derece ile ilgili şartları taşıyor olmaları kaydıyla, 14 üncü maddenin beşinci fıkrasına göre belirlenen dış temsilcilik gruplandırmasında son iki grupta yer alan temsilciliklere bir defaya mahsus olmak üzere ve en çok üç yıl süreyle sürekli görevle atanabilirler. Bu fıkra çerçevesinde yurtdışına atanacak merkez memurlarının askerlik hizmeti dahil Bakanlıktaki fiili hizmet sürelerinin, yükseköğretim mezunu olanlar için en az on beş yıl, lise ve daha alt düzeyde bir eğitim kurumundan mezun olanlar için en az yirmi yıl olması gerekir.
 (5) Üçüncü ve dördüncü fıkralar çerçevesinde bir yılda en fazla on merkez memuru yurtdışı teşkilata sürekli görevle atanabilir. Bu sayıyı, ihtiyaca binaen üç katına kadar artırmaya Bakanlık Komisyonunun teklifi üzerine Bakan yetkilidir.
-Diğer geçiş hükümleri
+**Diğer geçiş hükümleri**
 
-GEÇİCİ MADDE 6- (1) Bu Kanunla kadroları iptal edilen personelden kadro unvanları değişmeyenler ihdas edilen aynı unvanlı kadrolara atanmış sayılır. Bu Kanunun yürürlüğe girdiği tarihte görevde bulunan Personel Dairesi Başkanı, İnsan Kaynakları Dairesi Başkanlığına; Dışişleri Eğitim Merkezi Başkanı, Diplomasi Akademisi Başkanlığına; Arşiv ve Ulaştırma Dairesi Başkanı, Bilişim Teknolojileri Dairesi Başkanlığına herhangi bir işleme gerek kalmaksızın atanmış sayılır. Daimi temsilciliklerde; elçi-müsteşar unvanıyla görev yapan daimi temsilci yardımcıları elçi-daimi temsilci yardımcısı, büyükelçilik birinci müsteşarı unvanıyla görev yapanlar daimi temsilcilik birinci müsteşarı, büyükelçilik müsteşarı unvanıyla görev yapanlar daimi temsilcilik müsteşarı unvanlarına herhangi bir işleme gerek kalmaksızın atanmış sayılır.
+**GEÇİCİ MADDE 6-** (1) Bu Kanunla kadroları iptal edilen personelden kadro unvanları değişmeyenler ihdas edilen aynı unvanlı kadrolara atanmış sayılır. Bu Kanunun yürürlüğe girdiği tarihte görevde bulunan Personel Dairesi Başkanı, İnsan Kaynakları Dairesi Başkanlığına; Dışişleri Eğitim Merkezi Başkanı, Diplomasi Akademisi Başkanlığına; Arşiv ve Ulaştırma Dairesi Başkanı, Bilişim Teknolojileri Dairesi Başkanlığına herhangi bir işleme gerek kalmaksızın atanmış sayılır. Daimi temsilciliklerde; elçi-müsteşar unvanıyla görev yapan daimi temsilci yardımcıları elçi-daimi temsilci yardımcısı, büyükelçilik birinci müsteşarı unvanıyla görev yapanlar daimi temsilcilik birinci müsteşarı, büyükelçilik müsteşarı unvanıyla görev yapanlar daimi temsilcilik müsteşarı unvanlarına herhangi bir işleme gerek kalmaksızın atanmış sayılır.
 (2) Mahalli katip kadrolarının boşalması halinde bu kadrolara tekrar atama yapılmaz. Mahalli katipler, merkez teşkilatına tayin edildiklerinde merkez memuru kadrolarına atanırlar.
 (3) Bu Kanunun yürürlüğe girdiği tarihte, Devlet konukevindeki mevcut sözleşmeli personelin aynı statüleri ile istihdamına devam olunur ve aynı tarih itibarıyla sözleşmeli personele ait boş pozisyonlar ile boşalacak olanlar hiçbir işleme gerek kalmaksızın iptal edilmiş sayılır.
 (4) Bu Kanunla yürürlükten kaldırılan 4009 sayılı Kanunun 56 ncı maddesinin (a) fıkrası uyarınca Bakanlık personeline yapılan ödemeler 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesi kapsamında ek ödemeden yararlanmaya başlayıncaya kadar aynı usul ve esaslar çerçevesinde ödenmeye devam olunur.
 (5) Diğer mevzuatta 4009 sayılı Dışişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanuna yapılan atıflar bu Kanuna yapılmış sayılır.
-Yürürlük
+**Yürürlük**
 
-MADDE 26- (1) Bu Kanun yayımı tarihinden itibaren otuz gün sonra yürürlüğe girer.
-Yürütme
+**MADDE 26-** (1) Bu Kanun yayımı tarihinden itibaren otuz gün sonra yürürlüğe girer.
+**Yürütme**
 
-MADDE 27- (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 27-** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

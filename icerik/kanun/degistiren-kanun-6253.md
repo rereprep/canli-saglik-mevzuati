@@ -12,11 +12,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/12/20111218-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞI İDARİ TEŞKİLATI KANUNU
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞI İDARİ TEŞKİLATI KANUNU**
 Kanun No. 6253 Kabul Tarihi: 1/12/2011
-BİRİNCİ BÖLÜM
-Amaç, Tanımlar ve Görevler Amaç
+**BİRİNCİ BÖLÜM**
+**Amaç, Tanımlar ve Görevler** Amaç
 
 MADDE 1 – (1) Bu Kanunun amacı Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatının kuruluş, görev, yetki ve sorumluluklarını düzenlemektir.
 Tanımlar
@@ -43,8 +43,8 @@ g) TBMM’nin ve İdari Teşkilatın uluslararası kuruluşlarla ilişkilerini v
 h) TBMM yönetiminde bulunan saray, köşk ve kasırlar ile bunlara bağlı taşınır ve taşınmaz kültür varlıklarının tespitini, tasnifini, periyodik bakımını, muhafazasını, restorasyonunu ve tanıtımını yapmak.
 ı) Evrak ve arşiv hizmetlerini yerine getirmek.
 i) TBMM Başkanlığınca ve mevzuatla İdari Teşkilata verilen diğer görevleri yerine getirmek.
-İKİNCİ BÖLÜM
-İdari Teşkilat Teşkilat
+**İKİNCİ BÖLÜM**
+**İdari Teşkilat** Teşkilat
 
 MADDE 4 – (1) Bu Kanuna ekli (I) sayılı cetvelde gösterilen İdari Teşkilat, doğrudan TBMM Başkanına ve Genel Sekretere bağlı birimler ile Yasama ve Denetim Hizmetlerinden Sorumlu Genel Sekreter Yardımcısına, İdari, Mali ve Teknik Hizmetlerden Sorumlu Genel Sekreter Yardımcısına, Bilgi ve Bilişim Hizmetlerinden Sorumlu Genel Sekreter Yardımcısına ve Milli Saraylardan Sorumlu Genel Sekreter Yardımcısına bağlı birimlerden meydana gelir.
 (2) Özel Kalem Müdürlüğü, TBMM Başkan başmüşavirleri, TBMM Başkan müşavirleri ve Hukuk Hizmetleri Başkanlığı görev yönünden TBMM Başkanına, idari yönden ise Genel Sekretere bağlıdır.
@@ -71,8 +71,8 @@ c) İdari ve Mali İşler Başkanlığı Genel Sekreter ve Genel Sekreter yardı
 MADDE 5 – (1) Genel Sekreter, İdari Teşkilatın üst yöneticisi olup İdari Teşkilatın görevlerinin yürütülmesinden TBMM Başkanına karşı sorumludur.
 (2) Genel Sekreter, İdari Teşkilatın görevlerini mevzuata, İdari Teşkilatın amaç ve politikaları ile stratejik planına uygun olarak düzenler, yürütür ve hizmet birimleri arasında eş güdümü sağlar.
 (3) Genel Sekreter yardımcıları kendilerine bağlı birimlerin yönetim ve eş güdümünden Genel Sekretere karşı sorumludur.
-ÜÇÜNCÜ BÖLÜM
-Hizmet Birimlerinin Görevleri Kanunlar ve Kararlar Başkanlığı
+**ÜÇÜNCÜ BÖLÜM**
+**Hizmet Birimlerinin Görevleri** Kanunlar ve Kararlar Başkanlığı
 
 MADDE 6 – (1) Kanunlar ve Kararlar Başkanlığının görevleri şunlardır:
 a) Genel Kurula, Başkanlık Divanına, TBMM Başkanlığına, Danışma Kuruluna, komisyonlara ve milletvekillerine uzmanlık hizmeti sunmak.
@@ -270,8 +270,8 @@ Müşavirler
 MADDE 24 – (1) Önem ve öncelik taşıyan konularda TBMM Başkanına yardımcı olmak üzere beş TBMM Başkan başmüşaviri, on beş TBMM Başkan müşaviri, on beş müşavir atanabilir.
 (2) TBMM Başkan Başmüşaviri, TBMM Başkan Müşaviri ve Müşavir kadrolarına, her bir kadro unvanının toplam sayısının yüzde kırkı oranında, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun istisnai memuriyet hakkındaki hükümlerine göre açıktan veya naklen atama yapılabilir.
 (3) TBMM Başkan Başmüşaviri, TBMM Başkan Müşaviri ve Müşavir kadrolarına atanabilmek için üniversitelerin dört yıllık eğitim veren fakültelerinden ya da bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilen yurt dışındaki yükseköğretim kurumlarından mezun olmak şarttır.
-DÖRDÜNCÜ BÖLÜM
-Sorumluluk ve Yetkiler Yöneticilerin sorumlulukları ve yetki devri
+**DÖRDÜNCÜ BÖLÜM**
+**Sorumluluk ve Yetkiler** Yöneticilerin sorumlulukları ve yetki devri
 
 MADDE 25 – (1) Bu Kanunla, TBMM Başkanına İdari Teşkilatla ilgili verilen yetkiler, sınırları açıkça belirtilmek kaydıyla TBMM Başkanı tarafından Genel Sekretere devredilebilir.
 (2) İdari Teşkilatın her kademedeki yöneticisi görevlerini mevzuata, stratejik plan ve programlara, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütmekten üst kademelere karşı sorumludur.
@@ -285,8 +285,8 @@ MADDE 26 – (1) Kanun ve kanun hükmünde kararnamelerde Bakanlar Kurulu karar�
 Düzenleme yetkisi
 
 MADDE 27 – (1) Başkanlık Divanı ve TBMM Başkanlığı; İdari Teşkilatın görev, yetki ve sorumluluk alanına giren ve önceden kanunla düzenlenmiş konularda idari düzenlemeler yapabilir. Bu madde uyarınca çıkarılacak yönetmeliklerden Başkanlık Divanınca uygun görülenler Resmî Gazetede veya uygun araçlarla yayımlanır.
-BEŞİNCİ BÖLÜM
-Personele İlişkin Hükümler Kadrolar
+**BEŞİNCİ BÖLÜM**
+**Personele İlişkin Hükümler** Kadrolar
 
 MADDE 28 – (1) İdari Teşkilatın kadroları ekli (1) ve (2) sayılı listelerde gösterilmiştir.
 (2) Başkanlık Divanı, bu Kanuna ekli (1) sayılı listede yer alan toplam kadro sayısı geçilmemek ve anılan listede yer alan kadro unvanları ile 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki cetvellerde yer alan kadro unvanlarıyla sınırlı olmak kaydıyla, dolu kadrolarda derece ve sınıf değişikliği, boş kadrolarda sınıf, unvan ve derece değişikliği ile sınıflar arası atama yapabilir ve boş kadroları iptal edebilir.
@@ -346,8 +346,8 @@ c) Sınavın yapıldığı yılın ocak ayının ilk günü itibarıyla otuz ya�
 (3) Stenograf yardımcıları, en az üç yıl çalışmaları ve yapılacak yeterlik sınavında başarılı olmaları hâlinde Stenograf kadrolarına atanırlar. Yeterlik sınavında iki defa başarılı olamayanlar, Stenograf Yardımcısı unvanını kaybederler ve İdari Teşkilatta durumlarına uygun başka kadrolara atanırlar.
 (4) Kamu kurumlarında çalışanlar hariç stenografi kursiyerlerine kurs süresince damga vergisi hariç, herhangi bir vergi ve kesintiye tabi tutulmaksızın net asgari ücret tutarında aylık ödeme yapılır.
 (5) Stenografi kursunun düzenlenmesi ve yürütülmesi, stenograf yardımcılarının mesleğe alınmaları, yetiştirilmeleri, yeterliklerinin tespiti ile stenograf ve stenograf yardımcılarının görevleri ile çalışma usul ve esasları, yurt içi ve yurt dışı eğitimleri ve diğer hususlar Başkanlık Divanınca çıkarılacak bir yönetmelikle düzenlenir.
-ALTINCI BÖLÜM
-Çeşitli Hükümler Norm kadro
+**ALTINCI BÖLÜM**
+**Çeşitli Hükümler** Norm kadro
 
 MADDE 33 – (1) İdari Teşkilatta norm kadro ilke ve standartları uygulanır. İdari Teşkilat hizmet birimlerinin görev ve sorumlulukları çerçevesinde gerekli personel sayısı ve bunlarda aranacak nitelikler norm kadro ilke ve standartları dikkate alınarak Başkanlık Divanınca belirlenir.
 Mali yönetim
@@ -376,8 +376,8 @@ MADDE 39 – (1) Milletvekilleri ve İdari Teşkilatın kadrolu personeli, bunla
 Güvenlik hizmetleri
 
 MADDE 40 – (1) TBMM’nin bütün bina, tesis, eklenti ve arazisinde kolluk ve yönetim hizmetleri TBMM Başkanlığı eliyle düzenlenir ve yürütülür. Emniyet ve diğer kolluk hizmetleri için yeteri kadar kuvvet İçişleri Bakanlığınca TBMM Başkanlığına tahsis edilir.
-YEDİNCİ BÖLÜM
-Değiştirilen ve Yürürlükten Kaldırılan Hükümler Değiştirilen hükümler
+**YEDİNCİ BÖLÜM**
+**Değiştirilen ve Yürürlükten Kaldırılan Hükümler** Değiştirilen hükümler
 
 MADDE 41 – (1) 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 13 üncü maddesinin üçüncü fıkrasında yer alan “Cumhurbaşkanlığı Genel Sekreterine,” ibaresinden sonra gelmek üzere “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreterine,” ibaresi eklenmiştir.
 (2) 657 sayılı Kanunun;
@@ -416,8 +416,8 @@ b) 4 üncü maddesinin (c) bendi aşağıdaki şekilde değiştirilmiştir.
 Yürürlükten kaldırılan Kanun
 
 MADDE 42 – (1) 13/10/1983 tarihli ve 2919 sayılı Türkiye Büyük Millet Meclisi Genel Sekreterliği Teşkilat Kanunu ile ekleri yürürlükten kaldırılmıştır.
-SEKİZİNCİ BÖLÜM
-Geçiş Hükümleri Düzenleyici işlemler
+**SEKİZİNCİ BÖLÜM**
+**Geçiş Hükümleri** Düzenleyici işlemler
 GEÇİCİ
 
 MADDE 1 – (1) Bu Kanun hükümlerine göre çıkarılacak Başkanlık Divanı kararları ve yönetmelikler yürürlüğe girinceye kadar yürürlükte bulunan Başkanlık Divanı kararlarının ve yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam edilir.

@@ -33,9 +33,9 @@ EK: LI ve 1.2 tipi I laik Sağlığı Laboratuvarları analiz yetkileri (1 sayfa
 
 HALK SAĞLIĞI LABORATUVARLARININ KLINIK DIŞI NUNIUNI: ANALIZ VETKİLERİ
 
-LI TİPİ HALK SAĞ LIĞI LABORATUVARLARI:
+**LI TİPİ HALK** SAĞ **LIĞI LABORATUVARLARI:**
 
-- içme-kullanma suyu. içme suyu. Kaynak suyu ve Doğal mineralli suların ilgili ıne%zuatı kapsamında ruhsat. denetim izleme, kontrol izleme ve piyasa gözetimi-denetimine (PGD) esas analizleri.
+- içme-kullanma suyu. içme suyu. Kaynak suyu ve Doğal mineralli suların **ilgili** ıne%zuatı kapsamında ruhsat. denetim izleme, kontrol izleme ve piyasa gözetimi-denetimine (PGD) esas analizleri.
 
 -Kaplıca suyu. İtt% UZ suyu. Yüzme suyu. Talasaoterapi amaçlı deniz suyu. Kıta içi sular. Hemodiy allı çözeltilerinin dilüsyonunda kullanılan sular. Içme suyu -amaçlı ham sular ve benzeri suların ilgili me%zuatı kapsamındaki analizleri.
 
@@ -65,7 +65,7 @@ LI TİPİ HALK SAĞ LIĞI LABORATUVARLARI:
 
 -Çalışma konularına yönelik Kurumun planlaması N e izni dahilinde diğer analizler.
 
-L2 TİP' HALK SAĞLİĞİ LABORATUVARLARI:
+**L2 TİP' HALK SAĞLİĞİ LABORATUVARLARI:**
 
 -içme-kullanma suyu. Içme suyu ve Kaynak sularının ilgili mevzuat' kapsamında kontrol izlemesi analizleri.
 

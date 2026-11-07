@@ -11,13 +11,13 @@ kontrol_edildi: true
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-Türkiye Halk Sağlığı Kurumu Başkanlığı
+**Türkiye Halk Sağlığı Kurumu Başkanlığı**
 
-Sayı : 23248055/232
+**Sayı :** 23248055/232
 
-Konu : Üreme Sağlığı Hizmetleri
+**Konu :** Üreme Sağlığı Hizmetleri
 
 ……………………… VALİLİĞİNE
 

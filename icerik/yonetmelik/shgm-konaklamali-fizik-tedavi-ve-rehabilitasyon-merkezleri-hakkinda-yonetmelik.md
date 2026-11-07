@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -52,7 +52,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Konaklamalı Fizik Tedavi ve Rehabilitasyon Merkezleri
+**Konaklamalı Fizik Tedavi ve Rehabilitasyon Merkezleri**
 
 #### Konaklamalı fizik tedavi ve rehabilitasyon merkezlerinin özellikleri
 
@@ -84,7 +84,7 @@ Konaklamalı Fizik Tedavi ve Rehabilitasyon Merkezleri
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Fizik Tedavi ve Rehabilitasyon Merkezlerinin Konaklama Tesisinde Açılması
+**Fizik Tedavi ve Rehabilitasyon Merkezlerinin Konaklama Tesisinde Açılması**
 
 #### Açılması ve faaliyet esasları
 
@@ -112,7 +112,7 @@ Fizik Tedavi ve Rehabilitasyon Merkezlerinin Konaklama Tesisinde Açılması
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Engelli Bakım Merkezleri, Yaşlı Bakım Merkezleri ile Termal Merkezler
+**Engelli Bakım Merkezleri, Yaşlı Bakım Merkezleri ile Termal Merkezler**
 
 #### Engelli bakım merkezleri ve yaşlı bakım merkezleri
 
@@ -128,9 +128,9 @@ Engelli Bakım Merkezleri, Yaşlı Bakım Merkezleri ile Termal Merkezler
 
 ### BEŞİNCİ BÖLÜM
 
-Başvuru, Gerekli Belgeler ve Konaklamalı Fizik Tedavi ve
+**Başvuru, Gerekli Belgeler ve Konaklamalı Fizik Tedavi ve**
 
-Rehabilitasyon Merkezi Yetki Belgesi
+**Rehabilitasyon Merkezi Yetki Belgesi**
 
 #### Başvuru
 
@@ -146,7 +146,7 @@ Rehabilitasyon Merkezi Yetki Belgesi
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetim ve müeyyideler
 
@@ -164,4 +164,4 @@ Rehabilitasyon Merkezi Yetki Belgesi
 
 **MADDE 17 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

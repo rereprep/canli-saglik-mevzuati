@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 15/5/2017 tarihli ve 30067 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Döner Sermaye İşletmeleri Hakkında Yönetmeliğin 3 üncü maddesinin birinci fıkrasına aşağıdaki bent ile aynı fıkraya (ğ) bendinden sonra gelmek üzere “ifade eder.” ibaresi eklenmiştir.
 “ğ) Koordinatör başhekim: Aynı yerleşke içinde birden fazla hastanenin müşterek yönetimini yapan başhekimi,”

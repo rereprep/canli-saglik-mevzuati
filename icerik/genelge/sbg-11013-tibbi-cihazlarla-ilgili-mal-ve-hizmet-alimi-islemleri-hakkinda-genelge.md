@@ -79,7 +79,7 @@ Yüksek veya ileri teknolojiye sahip tıbbi cihaz alımlarında, belirli teknik 
 
 Tıbbi Cihaz Yönetmelikleri kapsamındaki ürünlerin veya cihazların satın alımlarında, aday veya isteklilerin T.C. İlaç ve Tıbbi Cihaz Ulusal Bilgi Bankası’na (TİTUBB) kayıt veya bildirimi aranması zorunludur. Aday veya isteklinin, teklif edilen ürünün imalatçı veya ithalatçısı (tedarikçi firma) olmadığı durumlarda, ürünün tedarikçi firmasının bayii olduğuna dair TİTUBB kayıt veya bildirimi aranacaktır.
 
-Tıbbi Cihaz Yönetmelikleri kapsamındaki ürünlerin veya cihazların satın alımlarında, alımı yapılacak ürünlerin TİTUBB’da tedarikçi firma altında Sağlık Bakanlığı tarafından kayıt veya bildirim işlemi tamamlanmış olması şartı aranacaktır. Aday veya isteklilerden Tıbbi Cihaz Yönetmeliklerinin öngördüğü AT Belgelerini (CE/EC sertifikaları, uygunluk Beyanı) ibraz etmeleri istenmeyecektir. Özellikle genel laboratuar amaçlı cihazlar olmak üzere Tıbbi Cihaz Yönetmelikleri kapsamında olmayan ürünler veya cihazlar için TİTUBB kayıt veya bildirimi aranmayacaktır.
+Tıbbi Cihaz Yönetmelikleri kapsamındaki ürünlerin veya cihazların satın alımlarında, alımı yapılacak ürünlerin TİTUBB’da tedarikçi firma altında Sağlık Bakanlığı tarafından kayıt veya bildirim işlemi tamamlanmış olması şartı aranacaktır. Aday veya isteklilerden Tıbbi Cihaz Yönetmeliklerinin öngördüğü AT Belgelerini <i>(CE/EC sertifikaları, uygunluk Beyanı)</i> ibraz etmeleri istenmeyecektir. Özellikle genel laboratuar amaçlı cihazlar olmak üzere Tıbbi Cihaz Yönetmelikleri kapsamında olmayan ürünler veya cihazlar için TİTUBB kayıt veya bildirimi aranmayacaktır.
 
 Tıbbi Cihaz Yönetmelikleri uyarınca, herhangi bir ürünün veya cihazın Tıbbi Cihaz Yönetmelikleri kapsamında olup olmadığına, üretim veya kullanım amacı çerçevesinde üreticiler karar vermektedir. Eğer ürün, üreticisi tarafından Tıbbi Cihaz Yönetmelikleri kapsamında belgelendirilmemiş ise (tıbbi cihazlar kapsamında değilse) TİTUBB’a kayıt veya bildirim işlemi yapılmamaktadır. Satın alma işlemlerinde, Tıbbi Cihaz Yönetmelikleri kapsamında olup olmadığı hakkında tereddüt oluşan ürünler için üreticinin veya ithalatçının Yönetmelikler kapsamında olmadığına dair beyanı esas alınarak işlemler yürütülmelidir. Bu durumda ayrıca belge aranmayacaktır. Ancak, içerik ve özellikleri ile aynı olan iki ürün hakkında çelişkili belge veya kayıtlar bulunması, ürünün bu yönetmelikler kapsamına girip girmediği ve tıbbi cihazların sınıfları konusunda tereddüde düşülmesi halinde satın alma süreci tamamlanmadan önce ürüne veya cihaza ait belgeleri İlaç ve Eczacılık Genel Müdürlüğüne intikal ettirerek görüş alınacaktır.
 
@@ -103,7 +103,7 @@ Tıbbi Cihaz Yönetmelikleri kapsamındaki cihazların veya ürünlerin kullanma
 
 Sağlıkta Dönüşüm Programını takiben sağlık kurumlarımızın artan hasta potansiyeli, birçok hastalığın tanı ve tedavisinde yüksek teknoloji ürünü tıbbi cihazların kullanımı zorunluluğunu beraberinde getirmiştir. Ancak bu cihazların yüksek maliyetli olması ve kamu kaynaklarının etkin ve verimli olarak kullanılması gerektiği de dikkate alınmalıdır. Bu cihazlarla yapılacak hizmetlerin öncellikle Sağlık Bakanlığı’na bağlı sağlık kurum ve kuruluşları ile sağlık hizmeti sunan 4734 sayılı Kanun kapsamındaki diğer kurumlardan “Sağlık Hizmeti Sunan 4734 Sayılı Kamu İhale Kanunu Kapsamındaki İdarelerin Teşhis ve Tedaviye Yönelik Olarak Birbirlerinden Yapacakları Mal ve Hizmet Alımlarına İlişkin Yönetmelik” ve bu konudaki Bakanlığımız düzenlemeleri uyarınca temin edilmesi gerekmektedir. Bu yöntemle ihtiyacın karşılanamaması halinde cihazların temini için mal veya hizmet alımı yoluna başvurulmalıdır.
 
-27.04.2005 tarihli ve 2598 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 5335 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun’un 5 inci maddesi ile 04.01.1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 3 üncü maddesi değiştirilmiş ve anılan değişiklikle “Döner sermayeli işletmeler, süreklilik arz eden hizmet alımları ile maliyeti yüksek ve ileri teknoloji ürünü olan tıbbî cihazların hizmet alımı yoluyla temini veya kiralanması için döner sermaye kaynaklarından, gelecek yıllara yaygın yüklenmelere girişebilir” hükmüne yer verilmiştir.
+27.04.2005 tarihli ve 2598 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 5335 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun’un 5 inci maddesi ile 04.01.1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 3 üncü maddesi değiştirilmiş ve anılan değişiklikle <i>“Döner sermayeli işletmeler, süreklilik arz eden hizmet alımları ile maliyeti yüksek ve ileri teknoloji ürünü olan tıbbî cihazların hizmet alımı yoluyla temini veya kiralanması için döner sermaye kaynaklarından, gelecek yıllara yaygın yüklenmelere girişebilir”</i> hükmüne yer verilmiştir.
 
 Bakanlığımızca (Strateji Geliştirme Başkanlığı) yayımlanan 05.06.2008 tarihli ve 2008/42 sıra nolu Genelgenin, “XIV-Tıbbi Cihaz Hizmet Alımları” başlığı altında yer alan hükümler bu genelge ile yürürlükten kaldırılmıştır.
 
@@ -133,7 +133,7 @@ Tıbbi cihaz hizmet alımı yoluyla kiralanarak kuruma kurdurulacak olan cihazı
 
 Hizmet satın alımı, 4734 sayılı Kamu İhale Kanunu hükümleri çerçevesinde yapılacaktır.
 
-Tıbbi cihaz hizmet alımında yükleniciye, SUT’da belirlenen fiyatları geçmemek üzere cihazın özelliğine göre çekim, tetkik, tahlil veya test gibi her işlem başına (ihalede oluşan) bir bedelin ödenmesi ve ihale dokümanlarına ödemelerin bu yönde yapılacağına dair hükümlerin konulması gerekmektedir.
+Tıbbi cihaz hizmet alımında yükleniciye, SUT’da belirlenen fiyatları geçmemek üzere cihazın özelliğine göre çekim, tetkik, tahlil veya test gibi her işlem başına <i>(ihalede oluşan)</i> bir bedelin ödenmesi ve ihale dokümanlarına ödemelerin bu yönde yapılacağına dair hükümlerin konulması gerekmektedir.
 
 Yaklaşık maliyetin tespitinde ve ihalede teklif edilen teklif bedellerinin değerlendirilmesinde; SUT’da belirlenen fiyatların ve bu fiyatlardan döner sermaye işletmelerimizin Hazine hissesi, SHÇEK payı ve Merkez payı yatırdıklarının da dikkate alınması gerekmektedir.
 
@@ -209,15 +209,15 @@ Talep edilen tıbbi cihazın finans kaynağı (genel bütçe, döner sermaye, kr
 
 TCDÖİK başvurularında Ek-3’teki başvuru formu, her bir cihaz için eksiksiz olarak doldurulacak ve gönderilecektir.
 
-Finans kaynağı başvuru formunun ilgili bölümünde belirtilecektir,
+<i>Finans kaynağı başvuru formunun ilgili bölümünde belirtilecektir,</i>
 
-Cihazın kullanılacağı ilgili bölüm yetkilisince, cihaz birden fazla bölümü ilgilendiriyor ise ilgili bölüm yetkililerince hazırlanmış, imzalanmış ve onaylanmış, talep edilen cihazın tıbbi ve teknik yönden gerekliliğini detaylı olarak açıklayan gerekçe raporu,
+<i>Cihazın kullanılacağı ilgili bölüm yetkilisince, cihaz birden fazla bölümü ilgilendiriyor ise ilgili bölüm yetkililerince hazırlanmış, imzalanmış ve onaylanmış, talep edilen cihazın tıbbi ve teknik yönden gerekliliğini detaylı olarak açıklayan gerekçe raporu,</i>
 
-Cihazla ilgili uzman elemanlar (cihaz birden fazla bölümü ilgilendiriyor ise ilgili bölüm uzmanları) tarafından hazırlanmış ve onaylanmış teknik şartname örneği,
+<i>Cihazla ilgili uzman elemanlar (cihaz birden fazla bölümü ilgilendiriyor ise ilgili bölüm uzmanları) tarafından hazırlanmış ve onaylanmış teknik şartname örneği,</i>
 
-Tahmini fiyat tespiti için yapılan piyasa araştırmasına ait değerlendirme raporu (cihazla ilgili toplanan proforma faturaların fotokopileri ve tespit edilen tahmini fiyatla ilgili bilgiler vb.)
+<i>Tahmini fiyat tespiti için yapılan piyasa araştırmasına ait değerlendirme raporu (cihazla ilgili toplanan proforma faturaların fotokopileri ve tespit edilen tahmini fiyatla ilgili bilgiler vb.)</i>
 
-Komisyondan onay istenen cihazın o ildeki mevcut durumu İl Sağlık Müdürlüğünden talep edilecek (kamu/özel) ve talep yazısının ekinde TCDÖİK’na sunulacaktır. Sağlık Müdürlüğü cihazın ildeki durumunu bildirirken cihazın temini ile ilgili görüşünü de belirtecektir.
+<i>Komisyondan onay istenen cihazın o ildeki mevcut durumu İl Sağlık Müdürlüğünden talep edilecek (kamu/özel) ve talep yazısının ekinde TCDÖİK’na sunulacaktır. Sağlık Müdürlüğü cihazın ildeki durumunu bildirirken cihazın temini ile ilgili görüşünü de belirtecektir.</i>
 
 TCDÖİK başvurularında, cihazın tesis edileceği kurumun bağlı olduğu üst makam yetkilileri tarafından da evraklar incelenerek imza, onay vb. eksiklikler var ise eksikliklerin tamamlanması sağlanacaktır. Eksik bilgi ve belge ile yapılan başvurular değerlendirme dışı tutulacaktır. Gereksiz zaman kaybı ve yazışmalara sebebiyet verilmemesi hususunda talepte bulunan kurum azami gayret gösterecektir.
 

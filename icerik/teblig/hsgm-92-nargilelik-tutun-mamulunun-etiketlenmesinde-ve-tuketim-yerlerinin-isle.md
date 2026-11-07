@@ -8,7 +8,7 @@ kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=17142&MevzuatTur=9&Mev
 durum: "yürürlükte"
 ---
 
-NARGİLELİK TÜTÜN MAMULÜ İÇİLEN İŞYERİNE AİT ALAN/ALANLARA SUNUM UYGUNLUK BELGESİ VERİLMESİ İLE BU YERLERİN İŞLETİLMESİNDE UYULMASI GEREKLİ HUSUSLAR HAKKINDA TEBLİĞ
+**NARGİLELİK TÜTÜN MAMULÜ İÇİLEN İŞYERİNE AİT ALAN/ALANLARA SUNUM UYGUNLUK BELGESİ VERİLMESİ İLE BU YERLERİN İŞLETİLMESİNDE UYULMASI GEREKLİ HUSUSLAR HAKKINDA TEBLİĞ**
 
 **MADDE 1 –** (1) Bu Tebliğ; 25/11/2004 tarihli ve 5261 sayılı Kanun ile onaylanan Dünya Sağlık Örgütü Tütün Kontrolü Çerçeve Sözleşmesi, 3/1/2002 tarihli ve 4733 sayılı Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve Görevleri Hakkında Kanun, 7/11/1996 tarihli ve 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun, 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun ile 7/1/2011 tarihli ve 27808 sayılı Resmî Gazete’de yayımlanan Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümlerine dayanılarak, nargilelik tütün mamulü içilen işyerine ait alan/alanlara sunum uygunluk belgesi verilmesi ve bu işyerine ait alan/alanların işletilmesine ilişkin usul ve esasları düzenlemek amacıyla hazırlanmıştır.
 
@@ -18,7 +18,7 @@ NARGİLELİK TÜTÜN MAMULÜ İÇİLEN İŞYERİNE AİT ALAN/ALANLARA SUNUM UYGU
 
 **MADDE 4 –** (1) Nargilelik tütün mamulü içilen işyerine ait alan/alanların, Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte yer alan düzenlemelerle birlikte;
 
-a) (Değişik:RG-8/10/2013-28789) Örgün eğitim kurumları, dershaneler ve öğrenci yurtlarına kapıdan kapıya en az 100 (yüz) metre mesafede bulunması,
+a) **(Değişik:RG-8/10/2013-28789)** Örgün eğitim kurumları, dershaneler ve öğrenci yurtlarına kapıdan kapıya en az 100 (yüz) metre mesafede bulunması,
 
 b) Okul öncesi eğitim kurumlarının, dershaneler, özel eğitim ve öğretim kurumları dahil olmak üzere ilk, orta, lise ve yükseköğretim kurumlarının; kültür ve sosyal hizmet binalarının; bu binaların müstakil yapıları ile bunların eklentileri ve bahçelerinin, yerleşke sınırları içinde faaliyet gösteriliyor ise buraların, kapalı ve açık alanlarında yer almaması,
 
@@ -28,7 +28,7 @@ c) Sağlık, kültür, sosyal hizmet ve spor hizmeti verilen yerlerin hizmetin i
 
 zorunludur.
 
-(2) (Ek:RG-8/10/2013-28789) Birinci fıkrada belirtilen şartların uygunluğu, nargilelik tütün mamulü içimi yapılacak işyerlerinin faaliyete geçmesi için gerekli olan işyeri açma ve çalışma ruhsatını vermeye yetkili merci tarafından tespit edilerek belgelendirilir. (Ek cümle:RG-19/8/2014-29093) Bu belgenin düzenlenme tarihini takip eden otuz gün içinde Nargilelik Tütün Mamulü Sunum Uygunluk Belgesi başvurusunda bulunulmaması durumunda, belgenin yenilenmesi gerekir.
+(2) **(Ek:RG-8/10/2013-28789)** Birinci fıkrada belirtilen şartların uygunluğu, nargilelik tütün mamulü içimi yapılacak işyerlerinin faaliyete geçmesi için gerekli olan işyeri açma ve çalışma ruhsatını vermeye yetkili merci tarafından tespit edilerek belgelendirilir. **(Ek cümle:RG-19/8/2014-29093)** Bu belgenin düzenlenme tarihini takip eden otuz gün içinde Nargilelik Tütün Mamulü Sunum Uygunluk Belgesi başvurusunda bulunulmaması durumunda, belgenin yenilenmesi gerekir.
 
 **MADDE 5 –** (1) Nargilelik tütün mamulü içilen işyerine ait alan/alanlarda aşağıda belirtilen hususlara uyulması zorunludur.
 
@@ -46,7 +46,7 @@ e) Nargilelik tütün mamulünün içime sunulduğu işyerine ait alan/alanlarda
 
 f) İçime sunulan nargilelik tütün mamulü, Kurumdan satış belgesi almış satıcılardan temin edilir, bunlara ilişkin belgeler saklanıp ve gerektiğinde ilgililere ibraz edilir.
 
-g) (Değişik:RG-8/10/2013-28789) Nargilelik tütün mamulü ile tütün ihtiva etmeyen ancak nargile aparatında nargilelik tütün mamulünü taklit eder tarzda tüketilen ürünler, Nargilelik Tütün Mamulü Sunum Uygunluk Belgesi alınan iş yerlerinin açık alanları dışında tüketime sunulamaz.
+g) **(Değişik:RG-8/10/2013-28789)** Nargilelik tütün mamulü ile tütün ihtiva etmeyen ancak nargile aparatında nargilelik tütün mamulünü taklit eder tarzda tüketilen ürünler, Nargilelik Tütün Mamulü Sunum Uygunluk Belgesi alınan iş yerlerinin açık alanları dışında tüketime sunulamaz.
 
 ğ) Nargile şişeleri üzerinde, usul ve esasları Kurumca belirlenen sağlık uyarıları bulundurulur.
 

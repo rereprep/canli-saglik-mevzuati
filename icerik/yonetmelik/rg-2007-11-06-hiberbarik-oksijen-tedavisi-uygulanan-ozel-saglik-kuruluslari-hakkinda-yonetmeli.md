@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-HİPERBARİK OKSİJEN TEDAVİSİ UYGULANAN ÖZEL SAĞLIK KURULUŞLARI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**HİPERBARİK OKSİJEN TEDAVİSİ UYGULANAN ÖZEL SAĞLIK** KURULUŞLARI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR **YÖNETMELİK**
 
 MADDE 1 – 1/8/2001 tarihli ve 24480 sayılı Resmî Gazete’de yayımlanan Hiperbarik Oksijen Tedavisi Uygulanan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiştir.
 "c) Genel Müdürlük: Tedavi Hizmetleri Genel Müdürlüğünü,"

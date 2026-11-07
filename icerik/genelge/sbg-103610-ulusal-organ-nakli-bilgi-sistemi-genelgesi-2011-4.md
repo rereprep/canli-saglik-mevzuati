@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-2.3.31. Ulusal Organ Nakli Bilgi Sistemi Genelgesi (2011/4)
+**2.3.31. Ulusal Organ Nakli Bilgi Sistemi Genelgesi (2011/4)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Tedavi Hizmetleri Genel Müdürlüğü

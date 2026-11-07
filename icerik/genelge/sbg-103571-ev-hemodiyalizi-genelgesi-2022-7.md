@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-2.3.29. Ev Hemodiyalizi Genelgesi (2022/7)
+**2.3.29. Ev Hemodiyalizi Genelgesi (2022/7)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü

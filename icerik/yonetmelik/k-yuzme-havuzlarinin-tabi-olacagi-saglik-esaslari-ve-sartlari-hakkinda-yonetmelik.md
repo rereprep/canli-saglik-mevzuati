@@ -29,7 +29,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 Amaç
 
@@ -79,7 +79,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Havuz Suyunun Nitelikleri, Numune Alma ve Analiz Sıklığı
+**Havuz Suyunun Nitelikleri, Numune Alma ve Analiz Sıklığı**
 
 Kimyasal, fiziksel ve mikrobiyolojik nitelikleri ve analiz sıklığı
 
@@ -125,7 +125,7 @@ halinde Bakanlıkça yetkilendirilir.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Yüzme Havuzu İşletilmesine Ait Hükümler
+**Yüzme Havuzu İşletilmesine Ait Hükümler**
 
 Yüzme havuzunun işletilmesi
 
@@ -159,7 +159,7 @@ MADDE 9 − (1) Çocuk yüzme havuzunun derinliği 50 santimetreden fazla olamaz
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Muhtelif Hükümler
+**Muhtelif Hükümler**
 
 Fiziki mekanlar
 
@@ -221,7 +221,7 @@ MADDE 15 − (1) Yüzme havuzu suyu hazırlamasından sorumlu havuz suyu operat�
 
 ### BEŞİNCİ BÖLÜM
 
-Düzenleme Yetkisi ve Müeyyideler
+**Düzenleme Yetkisi ve Müeyyideler**
 
 Düzenleme yetkisi
 
@@ -233,11 +233,11 @@ MADDE 17 − (1) Bu Yönetmelik hükümlerine aykırı hareket eden işletme sah
 
 ### ALTINCI BÖLÜM
 
-Geçici ve Son Hükümler
+**Geçici ve Son Hükümler**
 
 Mevcut havuzlara ilişkin geçici hükümler
 
-GEÇİCİ MADDE 1 − Bu Yönetmeliğin yayımı tarihinden önce izin almak için başvurusu yapılmış yüzme havuzları ile halen faaliyette olan yüzme havuzları fiziki koşullarını bu Yönetmeliğin yayımı tarihinden itibaren bir yıl içinde 8 inci maddenin (c) bendi ile 9 ve 10 uncu maddelere uygun hale getirir.
+GEÇİCİ **MADDE 1 −** Bu Yönetmeliğin yayımı tarihinden önce izin almak için başvurusu yapılmış yüzme havuzları ile halen faaliyette olan yüzme havuzları fiziki koşullarını bu Yönetmeliğin yayımı tarihinden itibaren bir yıl içinde 8 inci maddenin (c) bendi ile 9 ve 10 uncu maddelere uygun hale getirir.
 
 Yürürlük
 

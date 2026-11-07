@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Nükleer Düzenleme Kurumundan:
-RADYASYON GÜVENLİĞİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**RADYASYON GÜVENLİĞİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 24/3/2000 tarihli ve 23999 sayılı Resmî Gazete’de yayımlanan Radyasyon Güvenliği Yönetmeliğinin 4, 5, 39, 40, 41, 42, 47 nci maddeleri, 50 ila 76 ncı maddeleri ve Ek-1’i yürürlükten kaldırılmıştır.
 

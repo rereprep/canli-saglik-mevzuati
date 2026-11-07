@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-OPTİSYENLİK MÜESSESELERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**OPTİSYENLİK MÜESSESELERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 18/1/2014 tarihli ve 28886 sayılı Resmî Gazete’de yayımlanan Optisyenlik Müesseseleri Hakkında Yönetmeliğin 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 3 – (1) Bu Yönetmelik, 22/6/2004 tarihli ve 5193 sayılı Optisyenlik Hakkında Kanunun 16 ncı maddesi ve 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 508 inci ve 796 ncı maddelerine dayanılarak hazırlanmıştır.”

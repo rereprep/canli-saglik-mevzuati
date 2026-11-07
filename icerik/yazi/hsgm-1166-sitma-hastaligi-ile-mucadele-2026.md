@@ -42,7 +42,7 @@ Parazitoloji Referans Laboratuvarı) gönderilmesi,
 
  Negatif yayma sayısının beşin altında olması durumunda, ay içerisinde incelenen en az bir negatif yaymanın çapraz kontrol amacıyla üst basamak laboratuvara iletilmesi,
 
- Plasmodium tür tayini yapılamayan veya ileri değerlendirme gerektiren vakalarda, EDTA’lı tüpte alınan kan örneklerinin Ulusal Sıtma Referans Laboratuvarına gönderilmesi,
+ <i>Plasmodium</i> tür tayini yapılamayan veya ileri değerlendirme gerektiren vakalarda, EDTA’lı tüpte alınan kan örneklerinin Ulusal Sıtma Referans Laboratuvarına gönderilmesi,
 
  İl Halk Sağlığı Laboratuvarları ve hastane laboratuvarlarında sıtma tanı kapasitesinin sürdürülebilirliğinin sağlanması amacıyla; personel değişikliği, deneyim kaybı veya teknik ihtiyaç oluşması halinde hizmet içi eğitim planlaması yapılarak Genel Müdürlüğümüz ilgili Daire Başkanlıkları ile koordineli şekilde eğitimler düzenlenmesi,
 

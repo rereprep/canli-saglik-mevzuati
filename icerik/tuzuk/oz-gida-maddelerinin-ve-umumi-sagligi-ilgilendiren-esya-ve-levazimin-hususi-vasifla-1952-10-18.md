@@ -16,13 +16,13 @@ durum: "yürürlükte"
 
 ### GÖSTEREN TÜZÜK[1][2]
 
-Bakanlar Kurulu Kararının Tarihi : 4/8/1952 No : 3/15481
+**Bakanlar Kurulu Kararının Tarihi : 4/8/1952 No : 3/15481**
 
-Dayandığı Kanunun Tarihi : 24/4/1930 No : 1593
+**Dayandığı Kanunun Tarihi : 24/4/1930 No : 1593**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 18/10/1952 No : 8236
+**Yayımlandığı Resmî Gazetenin Tarihi : 18/10/1952 No : 8236**
 
-Yayımlandığı Düsturun: Tertibi : 3 Cildi : 33 Sayfa : 1809
+**Yayımlandığı Düsturun: Tertibi : 3 Cildi : 33 Sayfa : 1809**
 
 ### BİRİNCİ BÖLÜM
 
@@ -82,7 +82,7 @@ Belli gıda maddelerinin konulmasına özgü, üzerlerinde buna ilişkin işaret
 
 ### İKİNCİ BÖLÜM
 
-Süt ve Sütten Yapılan Gıda Maddeleri
+**Süt ve Sütten Yapılan Gıda Maddeleri**
 
 ### KISIM I
 
@@ -248,7 +248,7 @@ Koyulaştırılmış sütler, son kullanma tarihinden sonra tüketime verilemez.
 
 Muayene ve analiz için iki ambalaj alınır.
 
-KlSlM VI
+**KlSlM VI**
 
 #### Süt Tozu
 
@@ -564,7 +564,7 @@ Bir litre mayada en çok 10 gram borik asit, bir gram salisilik asit bulunabilir
 
 Sıvı mayaların 15°C ın altında saklanması gerekir. Mayalar bu Tüzükte belirlenmeyen hususlarda Türk Standartları Enstitüsünce çıkarılan standarda uygun olacaktır.
 
-(Değişik: 6/11/1983 - 83/7366 K.)
+**(Değişik: 6/11/1983 - 83/7366 K.)**
 
 Sıvı mayalar, ağzı kapalı koyu renkli cam şişeler ya da mayanın niteliğine uygun yapılmış plastik ve madensel ambalajlar içinde satışa çıkarılır. Ambalaj üzerine, yapımcı firmanın adı, adresi, varsa tescil edilmiş markası, yapım tarihi ve seri numarasıyla maya kuvveti, son kullanma tarihi, içine katılan kimyasal koruyucu maddelerin cins ve oranlarıyla karamel konulup konulmadığı okunaklı ve silinmeyecek biçimde yazılacaktır.
 
@@ -580,7 +580,7 @@ Mayalardan muayene ve analiz için, orjinal 200 gramlık ambalajlardan bir ambal
 
 ### KISIM XII
 
-Tereyağları
+**Tereyağları**
 
 #### Pastörize tereyağı (kahvaltılık tereyağı), mutfak tereyağı, eritilmiş tereyağı (sadeyağ)
 
@@ -634,7 +634,7 @@ Pastörize tereyağları, TS. 1331 e uygun olarak yapılmış, üzerine yapımc�
 
 Pastörize edilmemiş tuzlu ve tuzsuz mutfak tereyağlarıyla eritilmiş tereyağlar, TS. 1331 e uygun olarak yapılmış, üzerine yapımcı firmanın adı, adresi, varsa tescil edilmiş markası, tuzlu olup olmadığı, eritilmiş tereyağlarında eritilmiş tereyağı olduğu, net miktarı, seri numarası, ay ve yıl olarak son kullanma tarihi, yağın pastörüze edilmediği, depolanma sıcaklığı, yapıldığı sütün adı, varsa içindeki katkı maddeleri ve miktarları okunaklı ve silinmeyecek biçimde yazılmış kaplar ve ambalajlar içinde satışa çıkarılacaktır.
 
-(Değişik: 6/3/1980 - 8/525 K.) Pastörize edilmemiş mutfak tereyağların ambalajı en az 500 gramlık olacak ve üzerinde çiğ yenmeyeceği açıkça görülecek biçimde yazılacaktır. Ambalajsızlarda bu husus etiketinde belirtilecektir. Etiket yeşil renkte yapılacaktır. Pastörize edilmemiş tereyağlarının kahvaltılık tereyağı olarak satışı yasaktır.
+**(Değişik: 6/3/1980 - 8/525 K.)** Pastörize edilmemiş mutfak tereyağların ambalajı en az 500 gramlık olacak ve üzerinde çiğ yenmeyeceği açıkça görülecek biçimde yazılacaktır. Ambalajsızlarda bu husus etiketinde belirtilecektir. Etiket yeşil renkte yapılacaktır. Pastörize edilmemiş tereyağlarının kahvaltılık tereyağı olarak satışı yasaktır.
 
 **Madde 83 –** (Değişik: 6/3/1980 - 8/525 K.)
 
@@ -698,7 +698,7 @@ Bakteriyolojik muayene ve analiz numuneleri aseptik koşullarda alınarak, steri
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Süt Yağından Başka Yemeklik Diğer Hayvan Yağları ve
+**Süt Yağından Başka Yemeklik Diğer Hayvan Yağları ve**
 
 #### Hayvani Margarinler
 
@@ -784,7 +784,7 @@ Margarin imalathaneleri, her türlü teknik ve sıhhi şartları haiz oldukları
 
 ### KISIM: V
 
-Bozulmuş, Taklit Veya Tağşiş Edilmiş Süt Yağından Başka Yemeklik
+**Bozulmuş, Taklit Veya Tağşiş Edilmiş Süt Yağından Başka Yemeklik**
 
 #### Diğer Hayvan Yağları ve Hayvani Margarinler
 
@@ -814,7 +814,7 @@ c) Ölmüş hayvanlardan tedarik edilen veya içine herhangi zehirli bir madde k
 
 **Madde 109 –** Hayvani margarinler:
 
-a) (Değişik: 10/12/1959 - 4/12500 K.) Tüzükte yazılı şartlara uygun bir teknik ile hazırlanmayan, içindeki safi yağ miktarı muayyen nispetten az, tuz ve su miktarı bu nispetlerden fazla olan, içindeki süt yağı miktarı % 10 dan velesitin miktarı % 5 den fazla olan, tamamı ile erime derecesi 36 derecenin üstünde bulunan veya içine zararsız da olsa bu tüzükte ilavesine müsaade edilmemiş herhangi bir madde katılmış olan veyahut 100 üncü maddede yazılı vasıflara uymayan diğer yağlarla karıştırılmış olan; lezzet, görünüş ve kıvamları tereyağı vasıflarına uymayan; tüzükte tarif edilen ambalajlar haricinde satışa çıkartılan veya ambalajları üzerindeki yazıların tüzükte tarif edilen kayıtlara uymayan, içindeki vitamin miktarı etiketlerindeki yazılı miktarlardan aşağı olan margarinler taklit veya tağşiş edilmiş sayılırlar.
+a) **(Değişik: 10/12/1959 - 4/12500 K.)** Tüzükte yazılı şartlara uygun bir teknik ile hazırlanmayan, içindeki safi yağ miktarı muayyen nispetten az, tuz ve su miktarı bu nispetlerden fazla olan, içindeki süt yağı miktarı % 10 dan velesitin miktarı % 5 den fazla olan, tamamı ile erime derecesi 36 derecenin üstünde bulunan veya içine zararsız da olsa bu tüzükte ilavesine müsaade edilmemiş herhangi bir madde katılmış olan veyahut 100 üncü maddede yazılı vasıflara uymayan diğer yağlarla karıştırılmış olan; lezzet, görünüş ve kıvamları tereyağı vasıflarına uymayan; tüzükte tarif edilen ambalajlar haricinde satışa çıkartılan veya ambalajları üzerindeki yazıların tüzükte tarif edilen kayıtlara uymayan, içindeki vitamin miktarı etiketlerindeki yazılı miktarlardan aşağı olan margarinler taklit veya tağşiş edilmiş sayılırlar.
 
 b) Bozulmuş, kokmuş, kurtlanmış, küflenmiş, acımış olan, hasta hayvanlardan tedarik edilen veya içinde insanlarda hastalık yapan mikroplar bulunan, rafinaj esnasında kullanılan kimyevi maddeleri ihtiva eden, içinde deri kazıntı yağlarının, hayvan necisleri veya uzuv bakiyeleri bulunan.
 
@@ -848,7 +848,7 @@ olmak üzere 4 sınıfa ayrılırlar;
 
 Yemeklik zeytinyağları; natürel (vierges), rafine (raffinees), tip (huiles pures d'olive) zeytinyağları olmak üzere üç sınıfa ayrılır.
 
-A – Natürel (Vierges) zeytinyağı:
+<i>A – Natürel (Vierges) zeytinyağı:</i>
 
 Olgun zeytin tanelerinden sızma veya basınçla çıkarılan santrüfüjleme, dinlendirme ve süzme gibi yalnız fiziksel ve mekanik işlemlere tabi tutulan ve hiçbir kimyasal işlem görmeyen zeytinyağlarıdır.
 
@@ -864,13 +864,13 @@ Tadı üstün nefasette ve serbest yağ asitleri % 1'i geçmeyen natürel zeytin
 
 4) Birinci yemeklik zeytinyağları: Normal yemeklik özelliğini kaybetmemiş ve serbest yağ asitleri % 4,5 i geçmeyen natürel zeytinyağlarıdır.
 
-B – Rafine (Rafinees) zeytinyağı:
+<i>B – Rafine (Rafinees) zeytinyağı:</i>
 
 Natürel zeytinyağlarının nötrleştirme, ağartma ve koku giderme gibi işlemlere tabi tutularak arıtılması suretile elde edilen zeytinyağlarıdır.
 
 Bu işlemlerde kullanılan maddeler ile metodlar sağlığa zararlı olmayacaktır.
 
-C – Tip (Huiles pures d'olive) zeytinyağı:
+<i>C – Tip (Huiles pures d'olive) zeytinyağı:</i>
 
 Bu Tüzükte kabul edilen natürel zeytinyağlarının rafine zeytinyağları ile karıştırılması suretile elde edilen zeytinyağlarıdır.
 
@@ -972,7 +972,7 @@ Tamamiyle rafine ve kısmen selektif bir tarzda idrojene edilmiş nebati yağlar
 
 Bu yağlar % 99 safi yağı ihtiva edecek, erime noktaları 36 santigrat derecesinin üstünde olmıyacak ve asidite dereceleri asit oleik hesabiyle % 0,2 yi geçmiyecektir.
 
-(Değişik: 6/11/1983 - 83/7366 K.) Bu yağlar, diğer margarinler gibi, vitaninize edilebilir ve içlerine Yönetmeliğinde izin verilen boya ve zararsız koku maddeleri konabilir. Bu yağlar, TS. 2812 ye uygun olarak yapılmış ambalajlarda satılırlar.
+**(Değişik: 6/11/1983 - 83/7366 K.)** Bu yağlar, diğer margarinler gibi, vitaninize edilebilir ve içlerine Yönetmeliğinde izin verilen boya ve zararsız koku maddeleri konabilir. Bu yağlar, TS. 2812 ye uygun olarak yapılmış ambalajlarda satılırlar.
 
 133, 134, 135 ve 136 ncı maddeler mutfak yemeklik nebati margarinler için de uygulanır.
 
@@ -1022,9 +1022,9 @@ b) Her türlü madeni yağlarla, veya sanayide kullanılmasına müsaade edilmi�
 
 ### BEŞİNCİ BÖLÜM
 
-Etler
+**Etler**
 
-Kasaplık Hayvan Etleri, - Kümes Hayvanları Etleri,- Balık Etleri
+**Kasaplık Hayvan Etleri, - Kümes Hayvanları Etleri,- Balık Etleri**
 
 ### KISIM: I
 
@@ -1090,7 +1090,7 @@ b) (a) kısmında yazılmış hayvanlara ait her türlü ahşa kısımları,
 
 c) Herhangi surette olursa olsun bozulmuş, kokmuş, kurtlanmış olan kasaplık hayvan etleriyle, bu hayvanların yenilebilir diğer kısımları ve kümes, av hayvanları, balıklar ve diğer deniz hayvanları,
 
-d) (Değişik: 21/3/1956 - 4/6999 K.) 139 uncu maddenin son fıkrasında belirtilen şartlarda bulunmıyan çiğ kıymalar.
+d) **(Değişik: 21/3/1956 - 4/6999 K.)** 139 uncu maddenin son fıkrasında belirtilen şartlarda bulunmıyan çiğ kıymalar.
 
 **Madde 147 –** Kasaplık hayvan etleri ve bunların yenilebilir diğer aksamı ile balık ve kümes hayvanları etleri aşağıda yazılı hallerde sağlığa az veya çok zarar verecek derecede taklit veya tağşiş edilmiş sayılırlar:
 
@@ -1106,15 +1106,15 @@ c) İçinde herhangi bir suretle zehirli maddeler bulunan her türlü hayvan etl
 
 **Madde 148 –** Taze veya pişirilmiş uzvi gıda maddelerinin, yenilmelerinde hiçbir mahzur meydana getirmiyecek teknik usullerle işlenerek bir kaç haftadan birkaç seneye kadar vasıfları bozulmadan saklanabilen şekillerine konserve derler. Bu konserveler iki şekilde yapılır:
 
-a) (Değişik: 6/11/1983 - 83/7366 K.) T.S. 1118 de belirtilen hacim, ölçü ve nitelikteki teneke kutular, cam kavanozlar ya da plastik maddelerden yapılmış ve hermetik olarak kapatılmış kaplar içinde sterilize edildikten sonra, bozulmalarına ve kirlenmelerine engel olacak ve steril durumlarını koruyacak koşullarda saklanan konserveler, (Teneke kutularda kapalı olarak sterilize edilmiş et, balık, sebze, meyve konserveleri vb.)
+a) **(Değişik: 6/11/1983 - 83/7366 K.)** T.S. 1118 de belirtilen hacim, ölçü ve nitelikteki teneke kutular, cam kavanozlar ya da plastik maddelerden yapılmış ve hermetik olarak kapatılmış kaplar içinde sterilize edildikten sonra, bozulmalarına ve kirlenmelerine engel olacak ve steril durumlarını koruyacak koşullarda saklanan konserveler, (Teneke kutularda kapalı olarak sterilize edilmiş et, balık, sebze, meyve konserveleri vb.)
 
-b) (Değişik: 16/5/1953 - 4/808 K.) Ayrıca isterilize edilmiyerek mikropların ve diyastasların faaliyetine ve bu sebeple gıda maddelerinin vasıflarının değişmesine veya bozulmasına engel olacak (disjenetik) şartlarda yapılan kısa devamlı konserveler.
+b) **(Değişik: 16/5/1953 - 4/808 K.)** Ayrıca isterilize edilmiyerek mikropların ve diyastasların faaliyetine ve bu sebeple gıda maddelerinin vasıflarının değişmesine veya bozulmasına engel olacak (disjenetik) şartlarda yapılan kısa devamlı konserveler.
 
 ### KISIM: I
 
-Kapalı Kablarla İsterilize Edilerek veya Disjenetik Şartlarda
+**Kapalı Kablarla İsterilize Edilerek veya Disjenetik Şartlarda**
 
-Hazırlanan Et, Balık, Sebze ve Meyva Konserveleri Hakkında
+**Hazırlanan Et, Balık, Sebze ve Meyva Konserveleri Hakkında**
 
 #### Müşterek Hükümler[3]
 
@@ -1148,11 +1148,11 @@ Kapalı kutularda isterilize edilerek hazırlanan her türlü gıda maddeleri ko
 
 ### KISIM: II
 
-Kapalı Kaplarda Sterlize Edilerek Hazırlanan Et, Balık, Sebze,
+**Kapalı Kaplarda Sterlize Edilerek Hazırlanan Et, Balık, Sebze,**
 
-Meyva Konserveleri Hakkında Özel Hükümler
+**Meyva Konserveleri Hakkında Özel Hükümler**
 
-A) Et konserveleri:
+**A) Et konserveleri:**
 
 **Madde 160 –** (Değişik: 6/11/1983 - 83/7366 K.)
 
@@ -1168,7 +1168,7 @@ Konserve yapılacak etlerin, Sağlık Bakanlığınca çalışmasına izin veril
 
 **Madde 163 –** Çeşitli balıkların avlanmalarını mütaakıp, bütün tazeliklerini muhafaza ettikleri halde ayıklanıp temizlendikten sonra pişirilip kurutularak ve içine zeytinyağı veya bu Tüzük ile yenilmesine müsaade edilmiş diğer bir nebati yağ ilavesiyle ermetik olarak kapatılmış kutular içinde sterilize edilmeleriyle hazırlanır. Bu konservelere biber, domates veya salçası gibi çeşni ve lezzet verecek zararsız maddeler de ilave edilebilir.
 
-C) Sebze ve meyva konserveleri:
+**C) Sebze ve meyva konserveleri:**
 
 **Madde 164 –** Tabii vasıflarını muhafaza eden çeşitli sebze ve meyvaların ayıklanıp temizlenerek iptidai bir pişirmeye ve mahalli ihtiyatlara uygun bir işlemeye tabi tutulduktan sonra ermetik olarak kapatılmış kutularda sterilize edilmeleriyle hazırlanırlar.
 
@@ -1220,11 +1220,11 @@ e) Bu Tüzük hükümlerine göre sağlığı bozacak derecede taklit veya tağ�
 
 ### KISIM: IV
 
-Disjenetik Şartlarda Yapılan Kısa Devamlı Et Konserveleri
+**Disjenetik Şartlarda Yapılan Kısa Devamlı Et Konserveleri**
 
-(Kurutma, gömme, isleme usuliyle yapılanlar)[4]
+**(Kurutma, gömme, isleme usuliyle yapılanlar)[4]**
 
-A) Pastırmalar:
+**A) Pastırmalar:**
 
 **Madde 170 –** (Değişik: 16/5/1953 - 4/808 K.)
 
@@ -1232,25 +1232,25 @@ Pastırmalar Sağlık ve Sosyal Yardım Vekaletince faaliyetlerine müsaade edil
 
 Pastırmalarda rutubet miktarı % 40 ı geçemez.
 
-B) Sucuklar:
+**B) Sucuklar:**
 
 **Madde 171 –** Sucuklar Sağlık Bakanlığınca faaliyetine müsaade edilmiş bulunan fenni mezbahalarda kesilen sıhhatli kasaplık hayvan etlerinin et veya yağdan başka diğer bütün unsurlarından ayrıldıktan sonra kıyılıp, içine mahalli adetlere uygun olarak konulması mütat olan tuz, biber, bahar, kimyon, sarımsak gibi zararsız maddelerin ilavesiyle elde edilen kitlenin temizlenmiş ve kurutulmuş barsaklara veya bu maksatla kullanılmasına müsaade edilen benzeri diğer münasip maddeler içine doldurulup kurutulmasiyle elde edilen et müstahzarlarıdır. Sucuklarda safi et miktarı % 60 dan aşağı ve yağ miktarı % 40 dan fazla olmıyacak, rutubet miktarı % 40 ı geçmiyecektir. İçine bu nispetten fazla yağ konulmuş olan sucuklar (çok yağlı sucuklar) etiketi altında satılabilirler.
 
-C) Sosis ve salamlar:
+**C) Sosis ve salamlar:**
 
 **Madde 172 –** (Değişik: 6/11/1983 - 83/7366 K.)
 
 Sosis ve salamlar, yukarıdaki maddede gösterilen koşullarda, kasaplık hayvan etlerinin et ve yağlarıyla yöntemine uygun olarak yapay ya da doğal kılıflara doldurulup gerekli teknolojik işlemlerden geçirilen et ürünleridir. Bunların içine Yönetmeliğinde belirtilen miktarda katkı maddeleriyle yüzde 5'i geçmemek üzere patates nişastası eklenebilir.
 
-D) Kavurmalar:
+**D) Kavurmalar:**
 
 **Madde 173 –** Kavurmalar 171 inci maddede yazılı şartlardaki kasaplık hayvanların, kendisine yapışık az miktarda yağdan başka diğer bütün aksamından tecrit edilmiş et kitlelerinin, parçalanarak yağ içinde kavrulduktan sonra temiz ve zarar sız kaplarda yağ içine gömülmek ve üzerleri, et kitlesini tamamiyle ve kafikalınlıkta kapatacak bir tabaka halinde yağ ile örtülmek suretiyle yapılan et müstahzarlarıdır.
 
-E) Kurutulmuş et:
+**E) Kurutulmuş et:**
 
 **Madde 174 –** Kurutulmuş et 171 inci maddede yazılı şartlarda bulunan kasaplık hayvanların et kitlelerinin tuzlanıp kurutulmasiyle elde edilir.
 
-F) Dumanlanmış, (islenmiş) etler:
+**F) Dumanlanmış, (islenmiş) etler:**
 
 **Madde 175 –** Dumanlanmış etler 171 inci maddede yazılı şartlarda bulunan kasaplık hayvanların et kitlelerinin kurutulup dumanlama suretiyle, duman içindeki dezenfektan maddelerle bir tabaka halinde örtülmesiyle elde edilirler.
 
@@ -1294,35 +1294,35 @@ c) Bu Tüzük hükümlerine göre sağlığa az veya çok zarar verecek derecede
 
 ### KISIM: VI
 
-Disjenetik Şartlarda Yapılan Kısa Devamlı Balık Konserveleri
+**Disjenetik Şartlarda Yapılan Kısa Devamlı Balık Konserveleri**
 
-(Tuzlama, kurutma, isleme usulleriyle yapılanlar)
+**(Tuzlama, kurutma, isleme usulleriyle yapılanlar)**
 
-A) Tuzlu balıklar:
+**A) Tuzlu balıklar:**
 
 **Madde 183 –** Tuzlu balıklar, bütün vasıfları tabii, taze balıkların mütat usullerle hazırlandıktan sonra kafi miktarda tuzlanması veya tuz içinde istif edilmesiyle elde edilen müstahzarlardır. (Lakerdalar ve tuzlu balıklar gibi)
 
-B) Kurutulmuş balıklar:
+**B) Kurutulmuş balıklar:**
 
 **Madde 184 –** Kurutulmuş balıklar; bütün vasıfları tabii, taze balıkların ayıklanıp tuzlandıktan sonra kurutulmasıyle elde edilirler. (Çiroz gibi)
 
-C) Dumanlanmış (islenmiş) balıklar:
+**C) Dumanlanmış (islenmiş) balıklar:**
 
 **Madde 185 –** Dumanlanmış balıklar; bütün vasıfları tabii, taze balıkların ayıklanıp temizlendikten sonra dumanlanmak suretiyle duman içindeki dezenfektan maddelerle bir tabaka halinde örtülmesi suretiyle yapılırlar.
 
-D) Balık ezmesi:
+**D) Balık ezmesi:**
 
 **Madde 186 –** (Değişik: 21/3/1956 - 4/6999 K.)
 
 Balık ezmesi; kafa, kuyruk, kanat, barsak, kılçık, deri ve pullardan tamamiyle ayıklanmış ve temizlenmiş taze ve tuzlu balıkların çiğ olarak veya haşlandıktan sonra içine tuz, bahar, zeytinyağı ilave edilerek ezilmeleriyle yapılır.
 
-E) Balık yumurtası:
+**E) Balık yumurtası:**
 
 **Madde 187 –** (Değişik: 21/3/1956 - 4/6999 K.)
 
 Kefal ve diğer bazı nevi balıkların yumurtalarının keseleriyle birlikte taze olarak veya tuzlanıp olgunlaştırıldıktan veya kurutulmasından sonra satışa arzedilen şekline balık yumurtası denir. Balık yumurtaları balmumu ile kaplanmış olarak da satılabilirler. Ancak balmumu miktarı % 8 i geçmemelidir.
 
-F) Havyar ve tarama:
+**F) Havyar ve tarama:**
 
 **Madde 188 –** (Değişik: 16/5/1953 - 4/808 K.)
 
@@ -1348,7 +1348,7 @@ c) Üzerlerinde veya ambalajlarında etiketleri olmıyan veya etiketlerindeki ya
 
 **Madde 192 –** Tuzlu, kurutulmuş, islenmiş balıklar, balık yumurtaları, havyar ve taramalar aşağıdaki hallerde sağlığa az veya çok zarar verecek derecede bozulmuş sayılırlar:
 
-a) (Değişik: 16/5/1953 - 4/808 K.) Küflenmiş, acımış, kokmuş veya herhangi bir sebeple bozulmuş olanlar,
+a) **(Değişik: 16/5/1953 - 4/808 K.)** Küflenmiş, acımış, kokmuş veya herhangi bir sebeple bozulmuş olanlar,
 
 b) İçlerinde hastalık yapan mikroplar üremiş olanlar,
 
@@ -1364,7 +1364,7 @@ b) Bu Tüzük hükümlerine göre sağlığı bozacak derecede taklit veya tağ�
 
 ### KISIM: VIII
 
-Soğutmak veya Dondurmak Suretiyle Muhafaza Edilen
+**Soğutmak veya Dondurmak Suretiyle Muhafaza Edilen**
 
 #### Gıda Maddeleri
 
@@ -1382,7 +1382,7 @@ Soğutulmak veya dondurulmak suretiyle muhafaza edilecek her türlü gıda madde
 
 ### KISIM: IX
 
-Bozulmuş, Taklit Veya Tağşiş Edilmiş Soğutma Veya Dondurma
+**Bozulmuş, Taklit Veya Tağşiş Edilmiş Soğutma Veya Dondurma**
 
 #### Suretiyle Muhafaza Edilen Gıda Maddeleri
 
@@ -1406,11 +1406,11 @@ Bu Tüzükte sağlığa az veya çok zarar verecek derecede taklit veya tağşi�
 
 ### YEDİNCİ BÖLÜM
 
-Yumurta ve Yumurta Konserveleri
+**Yumurta ve Yumurta Konserveleri**
 
 ### KISIM: I
 
-Taze Yumurta - Konserve Yumurta - Saklanmış
+**Taze Yumurta - Konserve Yumurta - Saklanmış**
 
 #### Yumurta - Yumurta Konserveleri
 
@@ -1442,7 +1442,7 @@ Toz yumurtaların ambalajları, cam, teneke, alüminyum, karton, parşömen kağ
 
 ### KISIM: II
 
-Bozulmuş, Taklit veya Tağşiş Edilmiş Yumurta, Konserve
+**Bozulmuş, Taklit veya Tağşiş Edilmiş Yumurta, Konserve**
 
 #### Yumurta ve Yumurta Tozu
 
@@ -1478,7 +1478,7 @@ b) Yumurta diye satılan sağlığa zararlı suni müstahzar maddeler.
 
 ### SEKİZİNCİ BÖLÜM
 
-Domates Salçaları - Domates Konservesi
+**Domates Salçaları - Domates Konservesi**
 
 #### Domates Suyu - Ketçap ve Sos[5]
 
@@ -1606,13 +1606,13 @@ Mama içinde bulunması gereken miktarda vitamin ve madensel maddeler tabii gıd
 
 4 – Çocuk mamalarına, çocuğun sağlığına zarar vermiyen ve Yönetmeliğinde belirtilen cins ve miktarda koruyucu maddeler katılabilir.
 
-C – Değişik: 22/10/1976 - 7/12798 K.) Perhiz yiyecekleri ile çocuk mamalarında patogen mikroorganizma bulunmayacak, toz halindeki çocuk mamalarının bir gramında 10.000 den, sıvı olanlarının pastörize edilenlerinde bir mililitrede 20.000 den çok saprofit bakteri olmıyacak ve E. coli bulunmayacaktır.
+C – **Değişik: 22/10/1976 - 7/12798 K.)** Perhiz yiyecekleri ile çocuk mamalarında patogen mikroorganizma bulunmayacak, toz halindeki çocuk mamalarının bir gramında 10.000 den, sıvı olanlarının pastörize edilenlerinde bir mililitrede 20.000 den çok saprofit bakteri olmıyacak ve E. coli bulunmayacaktır.
 
 Sterilizasyon uygulananlarda hiç bir mikroorganizma üremiyecektir.
 
 Sıvı çocuk mamalarının pastörize veya sterilize edilmeden tüketime verilmesi yasaktır.
 
-D – (Ek: 22/10/1976 - 7/12798 K.) İçerisine tahıl ve kuru sebze unu katılarak yapılan mamalarda % 96 lık etil alkole geçen serbest asidite (Phenol phtalein belirtici kullanılarak sülfirik asit hesabıyla) % 0,04 (onbinde dört) ten çok olmayacaktır."
+D – **(Ek: 22/10/1976 - 7/12798 K.)** İçerisine tahıl ve kuru sebze unu katılarak yapılan mamalarda % 96 lık etil alkole geçen serbest asidite (Phenol phtalein belirtici kullanılarak sülfirik asit hesabıyla) % 0,04 (onbinde dört) ten çok olmayacaktır."
 
 **Madde 232 –** (Değişik: 27/1/1968 - 6/9470 K.)
 
@@ -1658,7 +1658,7 @@ c) 236 ncı maddeye aykırı olarak devai nitelik taşıdığı bildirilen perhi
 
 Perhiz yiyecekleri ve çocuk mamaları aşağıdaki hallerde sağlığa az veya çok zarar verecek derecede bozuk sayılırlar:
 
-a) (Değişik: 22/10/1976 - 7/12798 K.) Islanmış, nemlenmiş, küflenmiş, kokmuş, acımış, kurtlanmış, içinde patogen mikroorganizmalar üremiş veya bunların toksini yahut diğer toksit maddeler bulunan, içindeki maddeye etki yapacak şekilde ambalajı bozulmuş veya sağlığa zarar verecek malzemeden yapılmış ambalajlar içine konan, içinde parazit üremiş veya bu parazitlerin kalıntısı bulunan veya içine, izin verilmeyen cins ve miktarda katkı maddeleri katılmış olan perhiz yiyecekleri ve çocuk mamaları;
+a) **(Değişik: 22/10/1976 - 7/12798 K.)** Islanmış, nemlenmiş, küflenmiş, kokmuş, acımış, kurtlanmış, içinde patogen mikroorganizmalar üremiş veya bunların toksini yahut diğer toksit maddeler bulunan, içindeki maddeye etki yapacak şekilde ambalajı bozulmuş veya sağlığa zarar verecek malzemeden yapılmış ambalajlar içine konan, içinde parazit üremiş veya bu parazitlerin kalıntısı bulunan veya içine, izin verilmeyen cins ve miktarda katkı maddeleri katılmış olan perhiz yiyecekleri ve çocuk mamaları;
 
 b) Her ne suretle olursa olsun bayatlamış veya özelliğini kaybetmiş perhiz yiyecekleri va çocuk mamaları;
 
@@ -1674,7 +1674,7 @@ Muayene ve analiz için laboratuvarlara gönderilmek üzere alınacak nümune mi
 
 ### ONUNCU BÖLÜM
 
-Hazır Sebze Çorbalıkları - Münhal Nebati Çorbalıklar - Terbiyeler
+**Hazır Sebze Çorbalıkları - Münhal Nebati Çorbalıklar - Terbiyeler**
 
 ### KISIM: I
 
@@ -1696,7 +1696,7 @@ Hazır Sebze Çorbalıkları - Münhal Nebati Çorbalıklar - Terbiyeler
 
 ### KISIM: IV
 
-Hazır Sebze Çorbalıkları, Münhal Nebati Çorbalıklar ve Terbiyeler
+**Hazır Sebze Çorbalıkları, Münhal Nebati Çorbalıklar ve Terbiyeler**
 
 #### Hakkında Müşterek Hükümler
 
@@ -1712,7 +1712,7 @@ Hazır çorbalıklara, suda eriyen bitkisel çorbalıklara ve terbiyelere, her n
 
 ### KISIM: V
 
-Bozulmuş, Taklit Veya Tağşiş Edilmiş Hazır Sebze Çorbalıkları,
+**Bozulmuş, Taklit Veya Tağşiş Edilmiş Hazır Sebze Çorbalıkları,**
 
 #### Münhal Nebati Çorbalıklar ve Terbiyeler
 
@@ -1736,7 +1736,7 @@ b) İçine yenmeye elverişli olmayan mantar konulmuş olanlar.
 
 ### ONBİRİNCİ BÖLÜM
 
-Tahıl - Bulgur - Yemeklik Baklagil Kuru Taneleri
+**Tahıl - Bulgur - Yemeklik Baklagil Kuru Taneleri**
 
 ### KISIM: I
 
@@ -1828,7 +1828,7 @@ Yemeklik baklagil kuru tanelerini yabancı ağırlaştırıcı maddelerle karı�
 
 ### KISIM: IV
 
-Bozulmuş, Taklit Veya Tağşiş Edilmiş Tahıllar, Bulgur ve Yemeklik
+**Bozulmuş, Taklit Veya Tağşiş Edilmiş Tahıllar, Bulgur ve Yemeklik**
 
 #### Baklagil Kuru Taneleri
 
@@ -1866,9 +1866,9 @@ Muayene ve analiz için laboratuvara gönderilmek üzere alınacak numüne mikta
 
 ### ONİKİNCİ BÖLÜM
 
-Tahıl Unları - İrmik - Yemeklik Baklagil Unları ve Kuru Sebze
+**Tahıl Unları - İrmik - Yemeklik Baklagil Unları ve Kuru Sebze**
 
-Tozları - Nişasta
+**Tozları - Nişasta**
 
 ### KISIM: I
 
@@ -1964,9 +1964,9 @@ Pirinç unu, yalnız pirinçten yapılmış olmalı ve içinde yabancı unlar bu
 
 Unlar, kağıt, kıl dökmeyen torba, plastik ve alüminyum varaktan yapılmış ambalajlar içinde satışa çıkarılacak; ambalajın üzerinde, unun, sınıfını (ekstra-ekstra, birinci nev'i, ikinci nev'i vb.), miktarını, yapımcı firmanın adını, adresini, varsa tescil edilmiş markasını, ay ve yıl olarak yapım tarihini, Yönetmeliğine göre konulan katkı maddelerini gösterir, okunaklı, düşmeyecek, silinmeyecek biçimde etiket ya da yazı bulunacaktır.
 
-(Değişik: 27/10/1972 - 7/5274 K.) Baklava, kadayıf, börek, bisküvi ve benzerlerinin imalinde kullanılacak unların etiketlerinde veya ambalajları üzerindeki yazılarda ayrıca bu hususların da belirtilmesi zorunludur.
+**(Değişik: 27/10/1972 - 7/5274 K.)** Baklava, kadayıf, börek, bisküvi ve benzerlerinin imalinde kullanılacak unların etiketlerinde veya ambalajları üzerindeki yazılarda ayrıca bu hususların da belirtilmesi zorunludur.
 
-(Değişik: 27/10/1972 - 7/5274 K.) Her nev'i ekmeklik unun, içi kolayca temizlenebilen bir madde ile kaplı ve dış etkilerden zarar görmeyecek şekilde yapılmış, kapalı araçlarla taşınması zorunludur.
+**(Değişik: 27/10/1972 - 7/5274 K.)** Her nev'i ekmeklik unun, içi kolayca temizlenebilen bir madde ile kaplı ve dış etkilerden zarar görmeyecek şekilde yapılmış, kapalı araçlarla taşınması zorunludur.
 
 ### KISIM: II
 
@@ -1996,7 +1996,7 @@ Yemeklik kuru baklagil unlarının ve kuru sebze tozlarının diğer cins kuruba
 
 **Madde 289 –** (Değişik: 27/10/1972 - 7/5274 K.)
 
-a) (Değişik: 23/9/1977 - 7/14228 K.) Yemeklik baklagil unlarında rutubet % 14,5; kuru maddede kül % 2; külün % 10 luk tuz asidinde erimeyen kısmı % 0,2; 6 numaralı elek kalıntısı % 1; serbest asitlik % 0,5 ten çok olmayacaktır.
+**a) (Değişik: 23/9/1977 - 7/14228 K.)** Yemeklik baklagil unlarında rutubet % 14,5; kuru maddede kül % 2; külün % 10 luk tuz asidinde erimeyen kısmı % 0,2; 6 numaralı elek kalıntısı % 1; serbest asitlik % 0,5 ten çok olmayacaktır.
 
 Ancak mercimek ununda göz açıklığı 800 mikron olan elek üzerinde kalan kısım % 1 e; kuru maddede kül miktarı % 3 e kadar kabul edilebilir.
 
@@ -2014,7 +2014,7 @@ d) Yemeklik kuru baklagil unları; iyice temizlenmiş tanelerden, sebze tozları
 
 Yemeklik kuru baklagil unları ve sebze tozları; ağırlaştırıcı maddelerle karıştırılmış, suni olarak beyazlatılmış (patates unu hariç) veya boyanmış, zararsız da olsa kimyasal maddelerle muamele edilmiş olmayacak, zehirli tarım mücadele ilaçlarını yahut sağlığa zararlı herhangi bir maddeyi ihtiva etmeyecektir.
 
-KlSlM: IV
+**KlSlM: IV**
 
 #### Nişasta
 
@@ -2034,7 +2034,7 @@ Nişastaların ambalajsız olarak açıkta satışı yasaktır.
 
 ### KISIM: V
 
-Tahıl Unları, İrmik, Yemeklik Kuru Baklagil Unları ve Kuru Sebze
+**Tahıl Unları, İrmik, Yemeklik Kuru Baklagil Unları ve Kuru Sebze**
 
 #### Tozları, Nişastalar Hakkında Ortak Hükümler
 
@@ -2052,9 +2052,9 @@ c) Zararsız da olsa her türlü yabancı, ağırlaştırıcı cisimler ve maden
 
 d) Kızışmış, acımış, ekşimiş, küflenmiş veya herhangi bir şekilde tegayyür etmiş olmamalı, zararlı bitki tohumlarını ve diğer unsurları, böcek, kurt, küf ve diğer canlı, cansız parazitler, bunların kalıntı ve dışkısını ve benzeri kirlilikleri ihtiva etmemelidir.
 
-KlSlM: VI
+**KlSlM: VI**
 
-Bozulmuş, Taklit veya Tağşiş Edilmiş Tahıl Unları, İrmik, Yemeklik
+**Bozulmuş, Taklit veya Tağşiş Edilmiş Tahıl Unları, İrmik, Yemeklik**
 
 #### Kuru Baklagil Unları ve Kuru Sebze Tozları, Nişastalar
 
@@ -2122,7 +2122,7 @@ Açıkta satılan maddelerden alınan numune, ağzı kapaklı sıkıca kapalı c
 
 ### ONÜÇÜNCÜ BÖLÜM
 
-Ekmek ve Benzerleri - Hamur Müstahzarları
+**Ekmek ve Benzerleri - Hamur Müstahzarları**
 
 ### KISIM: I
 
@@ -2204,11 +2204,11 @@ Ekmekler indirekt ısıtmalı fırınlarda pişirilir.
 
 Petrol ürünleri gibi sağlığa zararlı yakıtlarla fırınların direkt ısıtılması yasaktır.
 
-KlSlM: II
+**KlSlM: II**
 
-Hamurdan Yapılan Yiyecekler
+**Hamurdan Yapılan Yiyecekler**
 
-A – Yufka, yassı kadayıf, tel kadayıf ve benzerleri:
+**A – Yufka, yassı kadayıf, tel kadayıf ve benzerleri:**
 
 **Madde 311 –** (Değişik: 27/10/1972 - 7/5274 K.)
 
@@ -2222,7 +2222,7 @@ Su miktarı yufkada % 43 ü yassı kadayıfta % 45 i, tel kadayıfta % 26 yı ge
 
 311 inci maddede yazılı mamüllerin imalinde, kullanılması mutad olan ilkel maddelerden başka, bunlara zararsız da olsa herhangi yabancı bir madde katılması veya boyanması yasaktır. Bu mamüllere teknoloji icabı, ilavesi gerekli sağlığa zararsız maddelerin katılması Sağlık Bakanlığının müsaadesine bağlıdır.
 
-B – Ekmek kadayıfı ve benzerleri:
+**B – Ekmek kadayıfı ve benzerleri:**
 
 **Madde 314 –** (Değişik: 27/10/1972 - 7/5274 K.)
 
@@ -2232,13 +2232,13 @@ Ekmek kadayıfı ve benzerleri; ekstra - ekstra veya ekstra undan usulüne göre
 
 Ekmek kadayıfı ve benzerlerinde kül miktarı ve külün % 10 luk klorhidrik asitte erimeyen kısmı, yapıldığı unun özelliğinde olacaktır.
 
-C – Güllaç:
+**C – Güllaç:**
 
 **Madde 316 –** (Değişik: 27/10/1972 - 7/5274 K.)
 
 Güllaç; nişastadan usulüne göre yapılan bir besin maddesidir. Güllaça boya ve suni tad verici madde katılması yasaktır. Güllaçta kül miktarı % 0,5 i geçmemelidir.
 
-D – Tarhana:
+**D – Tarhana:**
 
 **Madde 317 –** (Değişik: 23/9/1977 - 7/14228 K.)
 
@@ -2254,7 +2254,7 @@ Tarhanada renk sarımtırak turuncu, koku ve tat kendine özgü, protein en az %
 
 Tarhana, TSE 2282 ye uygun biçimdeki ambalajlar içinde satışa çıkarılacak ve üzerine yapım tarihi ay ve yıl olarak yazılacaktır.
 
-E – Şehriye, kuskus, makarna ve benzerleri hamur müstahzarları:
+**E – Şehriye, kuskus, makarna ve benzerleri hamur müstahzarları:**
 
 **Madde 318 –** (Değişik: 27/10/1972 - 7/5274 K.)
 
@@ -2282,13 +2282,13 @@ Yağlı vasfının ilavesi ile satılan çörek ve benzeri yağlı hamur müstah
 
 Sütlü hamur müstahzarlarının % 10 dan az olmamak üzere bu Tüzükteki vasıflarına uygun yağlı süt veya buna muadil miktarda süt konservesi yahut süt tozu ile yapılmış olması şarttır.
 
-F – Peksimet, galeta ve gevrek:
+**F – Peksimet, galeta ve gevrek:**
 
 **Madde 324 –** (Değişik: 27/10/1972 - 7/5274 K.)
 
 Peksimet, galeta ve gevrek; usulüne uygun olarak ekstra - ekstra veya ekstra buğday unundan yapılır. Bunlarda rutubet miktarı % 6, tuzsuz kül ve külün % 10 luk klorhidrik asitte erimeyen kısmı, yapıldığı un için kabul edilen sınırları aşmamalı, 100 gramının suya geçen asiditesini tadil için 6 santimetre küpten fazla normal kalevi sarf edilmemelidir.
 
-G – Bisküviler:
+**G – Bisküviler:**
 
 **Madde 325 –** (Değişik: 27/10/1972 - 7/5274 K.)
 
@@ -2346,7 +2346,7 @@ Ancak, ekmek ve benzerleri ile hamur müstahzarlarına, kalitesini, görünümü
 
 ### KISIM: IV
 
-Taklit veya Tagşiş Edilmiş, Bozulmuş Ekmek ve Benzerleri ve
+**Taklit veya Tagşiş Edilmiş, Bozulmuş Ekmek ve Benzerleri ve**
 
 #### Hamur Müstahzarları
 
@@ -2418,7 +2418,7 @@ Bu numunelerden ekmekten başka bisküvi ve benzerleri, yağlı, yumurtalı süt
 
 ### ONDÖRDÜNCÜ BÖLÜM
 
-Mayalar, Hamur Kabartma Tozları
+**Mayalar, Hamur Kabartma Tozları**
 
 ### KISIM: I
 
@@ -2452,7 +2452,7 @@ Hamur kabartma tozları ile mayaların ambalajları üzerinde, fabrikasının ad
 
 ### KISIM: III
 
-Bozulmuş, Taklit veya Tağşiş Edilmiş Mayalar ve
+**Bozulmuş, Taklit veya Tağşiş Edilmiş Mayalar ve**
 
 #### Hamur Kabartma Tozları
 
@@ -2494,13 +2494,13 @@ Bal; bal arılarınca (Apis melifica) bitki nektarlarında ve bitkilerin diğer 
 
 Bal, menşeine ve elde edilişine göre sınıflandırılır.
 
-A – Menşeine göre:
+**A – Menşeine göre:**
 
 a) Çiçek balı; arıların çeşitli zararsız bitkilerin çiçeklerinden elde ettikleri baldır. (Ihlamur balı, pamuk balı, yonca balı v.b. gibi)
 
 b) Salgı balı, arıların zararsız bitkilerin veya bazı böceklerin salgılarından elde ettikleri baldır. (Çam balı, yaprak balı v.b. gibi)
 
-B –Elde edilişine göre;
+**B –Elde edilişine göre;**
 
 a). Petekli ballar:
 
@@ -2604,13 +2604,13 @@ Açık satılan ballardan alınan numuneler, temiz ve ağızları açılmayacak 
 
 ### ON ALTINCI BÖLÜM
 
-Şeker, Meyva Şekeri Şurubu - Glikoz - Şekerle Yapılan Yenilecek ve
+**Şeker, Meyva Şekeri Şurubu - Glikoz - Şekerle Yapılan Yenilecek ve**
 
-İçilecekler - Pektin - Jelatin - Hamur Tatlıları, Şekerli ve Şekersiz
+**İçilecekler - Pektin - Jelatin - Hamur Tatlıları, Şekerli ve Şekersiz**
 
-Börekler - Muhallebi ve Benzerleri, Aşure ve Benzerleri - Helvalar
+**Börekler - Muhallebi ve Benzerleri, Aşure ve Benzerleri - Helvalar**
 
-Pekmez ve Bulama - Boza ve Benzerleri - Pastalar ve Benzerleri
+**Pekmez ve Bulama - Boza ve Benzerleri - Pastalar ve Benzerleri**
 
 ### KISIM: I
 
@@ -2642,9 +2642,9 @@ Glikoz şurubunda muhafaza maddesi olarak bir kiloda 40 mg. geçmemek üzere sü
 
 ### KISIM: IV
 
-Şekerle Yapılan Yenilecek ve İçilecek Şekercilik Çeşitleri
+**Şekerle Yapılan Yenilecek ve İçilecek Şekercilik Çeşitleri**
 
-A – Akide şekeri ve benzerleri (Akide şekeri, bergamot şekeri, nane şekeri, loğusa şekeri, karamela):
+**A – Akide şekeri ve benzerleri (Akide şekeri, bergamot şekeri, nane şekeri, loğusa şekeri, karamela):**
 
 **Madde 365 –** (Değişik: 18/4/1972 - 7/4322 K.)
 
@@ -2654,19 +2654,19 @@ Akide şekeri ve benzerleri; adi şekerin (Sakkarozun) sitrik veya tartarikasit 
 
 **Madde 367 –** Sadece şekerle (sakkarozla) yapılmış akide şekeri ve benzerlerinde mecmuu şeker miktarı (sakkaroz hesabiyle) 98 den aşağı olamaz.
 
-B – Fondan:
+**B – Fondan:**
 
 **Madde 368 –** Fondan: Şeker şurubunun (sakkaroz şekeri) kaynatılarak sitrik veya tartarik asit veya krem dö tartr ile kestirilmesi ve süsatüre edilmesiyle elde edilen yumuşakça kıvamda gayet ince zerreli, ya sade veya içine yaş ve kuru meyva aksamı, marmelat, meyva ezmeleri, kahve, kakao, zararsız tabii veya suni meyva veya çiçek esansları, vanilya veya vanilin, lokum, katılarak ve yönetmeliğinde kullanılmasına müsaade edilen boyalardan herhangi birisiyle hafifçe boyanarak el veya kalıpla hususi şekil verilmiş olan müstahzarlar anlaşılır.
 
 Bu maddenin veya içine katılmış diğer maddelerin imalinde kısmen veya tamamen glikoz kullanıldığı takdirde bu hususun satıldığı kaplar üzerinde bulundurulacak etikette yazılı olması mecburidir.
 
-C – Şekerleme:
+**C – Şekerleme:**
 
 **Madde 369 –** Şekerleme armut, elma, incir, kayısı, badem, kestane, turunç gibi meyvaların ve kabuklarının veya fındık, fıstık, badem, ceviz, hindistan cevizi gibi kuru meyvaların şekerle kaynatılmasiyle yapılmış müstahzar anlaşılır. Sanat icabı olarak imal esnasında meyva veya kabukların zararsız tabii veya suni esanslar ile kokulandırılması ve kullanılmasına müsaade edilen boyalardan herhangi birisiyle hafifçe boyanması caizdir. Bunların imalinde glikoz kullanıldığı takdirde bu hususun satıldıkları kaplarda bulundurulacak etikette yazılması mecburidir.
 
 **Madde 370 –** Şekerleme çeşitlerinin sarılmasında kullanılacak alüminyum veya kalay yapraklarının saf alüminyum veya kalay olması mecburidir.
 
-D - Lokum:
+**D - Lokum:**
 
 **Madde 371 –** (Değişik: 16/5/1953 - 4/808 K.)
 
@@ -2676,7 +2676,7 @@ Lokum kütlesinde su miktarı % 17 den fazla, mecmu şeker miktarı mürci şeke
 
 **Madde 372 –** Lokum çeşitleri şekerle (sakkarozla) yapılır. Ancak bunların imalinde glikoz kullanıldığı takdirde bu hususun satıldığı kaplarda bulundurulacak etikette açık ve okunaklı bir şekilde (glikozla yapılmıştır) ibaresinin yazılı olması mecburidir.
 
-E – Badem şekeri ve benzerleri:
+**E – Badem şekeri ve benzerleri:**
 
 **Madde 373 –** Badem şekeri ve benzerleri (sade badem şekeri, vanilyalı badem şekeri, yaldızlı drajeler, portakal, kişniş şekerleri...) tatlı çiğ veya kavrulmuş iç bademin usulüne göre şeker ve bir miktar nişasta ile kaplanmasiyle hazırlanan müstahzar olup vanilyalı badem çeşitlerinde bu tabakanın içine vanilin ve kullanılmasına müsaade edilen boyalardan herhangi birinden cüzi miktarda ilave edilmesive teknik icaplara göre dış sathının asit istearik, talk ve parafin gibi maddelerle parlatılmasiyle elde edilir. Yaldızlı draje çeşitlerinde dış tabaka kalay veya alüminyum tozu ile yaldızlanır. Portakal veya kişniş şekeri, tıpkı bademşekeri gibi olup bunun iç kısmı portakal ve turunç kabuğundan veya kişniş tanesinden ibarettir.
 
@@ -2684,7 +2684,7 @@ E – Badem şekeri ve benzerleri:
 
 **Madde 375 –** Badem şekerinde badem nispeti % 45 ten, şeker nispeti % 43 ten az, şeker tabakasının nispeti % 55 ten fazla, ve vanilyalı badem şekerinde de badem nispeti % 30 dan az ve şeker tabakasının nispeti de % 66 dan fazla olmamalı ve yaldızlı draje çeşitlerinde kullanılacak kalay ve alüminyum tamamiyle saf bulunmalıdır.
 
-F – Badem ezmesi ve benzerleri:
+**F – Badem ezmesi ve benzerleri:**
 
 **Madde 376 –** Badem ezmesi ve benzerleri: Tatlı iç badem, fındık veya çamfıstığının kabuklarının ayıklanması, haşlanıp ezilmesi ve usulüne göre şeker ve teknik icaplar dolayısiyle az miktarda nişasta veya lokum hamurunun katılmasından sonra yoğurulup hazırlanmasiyle elde edilen müstahzarlardır.
 
@@ -2696,7 +2696,7 @@ Bu maddeye kakao ilave edilebileceği gibi yaş veya kuru mevya aksamı, hindist
 
 **Madde 379 –** Badem ezmesi ve benzerlerinde su miktarı % 10 dan mecmu şeker miktarı da sakkaroz hesabiyle % 70 ten fazla olmamalıdır.
 
-G – Badem kurabiyesi:
+**G – Badem kurabiyesi:**
 
 **Madde 380 –** Badem kurabiyesi: Tatlı badem, şeker ve yumurta akı ile usulüne göre yapılıp hususi şekil verilen ve fırında pişirilmiş olan müstahzardır.
 
@@ -2704,7 +2704,7 @@ Badem kurabiyesine sair kuru yemiş ezmeleri, un, hububat ve kuru sebze nişasta
 
 **Madde 381 –** Badem kurabiyelerinde şeker miktarı % 60 dan fazla ve protein miktarı % 12 den az olmamalıdır.
 
-H – Reçel, marmelat, şurup:
+**H – Reçel, marmelat, şurup:**
 
 **Madde 382 –** Yaş veya kuru meyvaların kabuk veya içlerinin veya bazı çiçeklerin veya yapraklarının mahalli usul ve adetlere göre, sadece şeker, şeker ve glikoz karışığı veya sadece glikozla veya meyva şekeri ile muayyen bir koyuluğa kadar kaynatılmasiyle hazırlanan maddeye reçel denir.
 
@@ -2730,7 +2730,7 @@ Marmelatda su miktarı % 45 den, mecmu şeker miktarı sakkaroz hesabiyle % 50 d
 
 Şuruplarda su miktarı % 40 dan fazla, mecmu şeker miktarı sakkaroz hesabiyle % 60 dan az olamaz.
 
-İ - Pelte:
+**İ - Pelte:**
 
 **Madde 387 –** Pelte: Bazı meyvaların veya usarelerinin su ve şekerle pişirilerek koyuca bir kıvama getirilmesiyle elde edilen müstahzardır.
 
@@ -2760,7 +2760,7 @@ Mayi pektinde muhafaza maddesi olarak bir kiloda 2 Gr. benzoat veya 1,7 Gr. asit
 
 ### KISIM: VII
 
-Hamur Tatlıları, Şekerli ve Şekersiz Börekler ve Benzerleri, Pasta ve
+**Hamur Tatlıları, Şekerli ve Şekersiz Börekler ve Benzerleri, Pasta ve**
 
 #### Benzerleri, Mahallebi ve Benzerleri
 
@@ -2778,9 +2778,9 @@ Hamur Tatlıları, Şekerli ve Şekersiz Börekler ve Benzerleri, Pasta ve
 
 ### KISIM: VIII
 
-Helvalar ve Benzerleri
+**Helvalar ve Benzerleri**
 
-A – Tahin helvası:
+**A – Tahin helvası:**
 
 **Madde 398 –** (Değişik: 18/4/1972 - 7/4322 K.)
 
@@ -2802,7 +2802,7 @@ Tahinde asidite derecesi en fazla % 8 olacak ve acılık (Kreiss) menfi bulunaca
 
 Asidite derecesi doğrudan doğruya maddenin kendisi üzerinden tayin edilir.
 
-B – Koz, susam ve kağıt helvaları:
+**B – Koz, susam ve kağıt helvaları:**
 
 **Madde 401 –** (Değişik: 18/4/1972 - 7/4322 K.)
 
@@ -2816,7 +2816,7 @@ Kağıt helvaları; nişasta hamurunun hususi şekilde tabaka halinde pişirilme
 
 Koz, susam ve kağıt helvalarına, glikoz ve sakkaroz şekerlerinden başka herhangi tadlandırıcı bir maddenin katılması, boyanması sağlığa zararsız da olsa bu Tüzükte belirtilenlerin dışında herhangi bir maddenin katılması yasaktır.
 
-C – İrmik ve un helvaları, un kurabiyeleri, pandispanya ve çay bisküvileri (Kuru pasta) ve benzerleri:
+**C – İrmik ve un helvaları, un kurabiyeleri, pandispanya ve çay bisküvileri (Kuru pasta) ve benzerleri:**
 
 **Madde 403 –** (Değişik: 18/4/1972 - 7/4322 K.)
 
@@ -2856,7 +2856,7 @@ Bozaya hariçten un, sair nışai maddeleri, glikoz katılması yasaktır.
 
 ### KISIM: XI
 
-Şeker, Şekercilik Mamulatı ve Şekerle Yapılan Yenilecek ve
+**Şeker, Şekercilik Mamulatı ve Şekerle Yapılan Yenilecek ve**
 
 #### İçilecekler Hakkında Müşterek Hükümler
 
@@ -2864,11 +2864,11 @@ Bozaya hariçten un, sair nışai maddeleri, glikoz katılması yasaktır.
 
 ### KISIM: XII
 
-Bozulmuş, Taklit veya Tağşiş Edilmiş, Şeker, Meyva Şekeri, Glikoz, Şekerle
+**Bozulmuş, Taklit veya Tağşiş Edilmiş, Şeker, Meyva Şekeri, Glikoz, Şekerle**
 
-Yapılan Yenilecek ve İçilecek Maddeler, Pektin, Jelatin, Hamur Tatlıları ,
+**Yapılan Yenilecek ve İçilecek Maddeler, Pektin, Jelatin, Hamur Tatlıları ,**
 
-Şekerli ve Şekersiz Börekler ve Benzerleri, Mahallebi ve Benzerleri, Aşure
+**Şekerli ve Şekersiz Börekler ve Benzerleri, Mahallebi ve Benzerleri, Aşure**
 
 #### ve Benzerleri, Helvalar ve Benzerleri, Pekmez ve Bulama, Boza
 
@@ -2888,21 +2888,21 @@ f) Usaresi alınmış meyvalar veya posalariyle yapılmış her nevi reçel, mar
 
 g) Çok esmer renkte ve 388 inci maddede tarif edildiği tarzda şekerli su ile ağıza alındığı vakit gayritabii tadda olan veya ihtiva etiği toz pektin miktarı % 5 ten aşağı nispette olan mayi pektinlerle kül miktarı % 12 den ve kuru maddede protein miktarı % 2 den fazla olan pektinler,
 
-h) (Değişik: 18/4/1972 - 7/4322 K.) İmallerinde süt yağı kullanılmadığı halde (Süt yağı ile yapılmıştır) diye satılan veya hangi nevi yağ ile yapıldığı bildirilmiyen her nevi pasta, şekercilik çeşitleri, pandispanya, çay bisküvileri, hamur tatlıları, börek ve benzerleri yiyecek maddeler,
+h) **(Değişik: 18/4/1972 - 7/4322 K.)** İmallerinde süt yağı kullanılmadığı halde (Süt yağı ile yapılmıştır) diye satılan veya hangi nevi yağ ile yapıldığı bildirilmiyen her nevi pasta, şekercilik çeşitleri, pandispanya, çay bisküvileri, hamur tatlıları, börek ve benzerleri yiyecek maddeler,
 
 i) Yumurta ile yapıldığı ve içlerine yumurta konulduğu zehabını vermek üzere zararsız da olsa herhangi bir boya ile boyanmış olan pasta, pandispanya, çay bisküvitleri, hamur tatlıları, börek ve benzerleri gibi yiyecek maddeleri ile, safran yerine zararsız da olsa başka bir boya ile boyanmış olan zerdeler.
 
 j) Glikozla veya glikozla karışık şekerle yapılmış olduğu halde safi şekerle yapılmıştır diye satılan veya etiketinde bu husus bildirilmiyen tahin helvaları ile diğer helvalar ve içine hariçten şeker, glikoz ile zararsız da olsa her nevi muhafaza maddeleri yabancı ve ağırlaştırıcı maddeler katılmış olan pekmez ve bulamalar.
 
-k) (Değişik: 18/4/1972 - 7/4322 K.) Su miktarı % 30 dan fazla, şeker miktarı % 20 den az ve yumurtalı olduğu etiketinde belirtildiği halde yumurta miktarı kuru madde üzerinden 100 gr. dan aşağı olan pandispanyalar,
+k) **(Değişik: 18/4/1972 - 7/4322 K.)** Su miktarı % 30 dan fazla, şeker miktarı % 20 den az ve yumurtalı olduğu etiketinde belirtildiği halde yumurta miktarı kuru madde üzerinden 100 gr. dan aşağı olan pandispanyalar,
 
 l) Sakkaroz miktarı % 99 dan az olan kelle, küp, kristalize, pudra şekerleriyle terkibindeki su miktarı % 35 ten fazla olduğu halde, bu husus etiketinde bildirilmemiş olan meyva şekerleri veya glikoz miktarı; toz olan çeşitlerinde % 95ten çok katı kitle halinde olanlarında % 60 dan ve şurup halinde olanlarında % 30 dan aşağı olan glikozlar,
 
-m) (Değişik: 10/12/1959 - 4/12500 K.) Sakkaroz miktarı % 98 den aşağı olan akide şekeri ve benzerleri; lokum kitlesinde su miktarı % 10 dan fazla, mürci şeker miktarı % 90 dan az, kuru meyveli çeşitlerinde kuru meyve miktarı % 15 den az olan lokumlar; badem nispeti % 45 den az ve şeker tabakası nispeti % 55 den fazla ve şeker miktarı % 43 den az olan badem şekerleri; badem nispeti % 30dan az, şeker tabakası nispeti % 66 dan fazla olan vanilyalı badem şekerleri; su miktarları % 10 dan, şeker miktarı % 70 den fazla olan badem ezmesi ve benzerleri; şeker miktarı % 60 dan fazla ve mecmu protein miktarı % 12 den az olan acı badem kurabiyeleri; içindeki meyve miktarı 3 kısımda bir kısımdan az, su miktarı % 40 dan fazla, mecmu şeker miktarı sakkaroz hesabiyle % 60 dan az olan reçeller; su miktarı % 40 dan, mecmu şeker miktarı % 50 den fazla olan marmelatlar; su miktarı % 40 dan fazla, mecmu şeker miktarı sakkaroz hesabiyle % 60 dan az olan şuruplar; mecmu şeker miktarı % 50 den az olan pelteler.
+m) **(Değişik: 10/12/1959 - 4/12500 K.)** Sakkaroz miktarı % 98 den aşağı olan akide şekeri ve benzerleri; lokum kitlesinde su miktarı % 10 dan fazla, mürci şeker miktarı % 90 dan az, kuru meyveli çeşitlerinde kuru meyve miktarı % 15 den az olan lokumlar; badem nispeti % 45 den az ve şeker tabakası nispeti % 55 den fazla ve şeker miktarı % 43 den az olan badem şekerleri; badem nispeti % 30dan az, şeker tabakası nispeti % 66 dan fazla olan vanilyalı badem şekerleri; su miktarları % 10 dan, şeker miktarı % 70 den fazla olan badem ezmesi ve benzerleri; şeker miktarı % 60 dan fazla ve mecmu protein miktarı % 12 den az olan acı badem kurabiyeleri; içindeki meyve miktarı 3 kısımda bir kısımdan az, su miktarı % 40 dan fazla, mecmu şeker miktarı sakkaroz hesabiyle % 60 dan az olan reçeller; su miktarı % 40 dan, mecmu şeker miktarı % 50 den fazla olan marmelatlar; su miktarı % 40 dan fazla, mecmu şeker miktarı sakkaroz hesabiyle % 60 dan az olan şuruplar; mecmu şeker miktarı % 50 den az olan pelteler.
 
 n) Şeker miktarı % 18 den, süt miktarı % 45 ten az mahallebi ve benzerleriyle şeker miktarı % 18 den az olan aşure ve zerdeler,
 
-o) (Değişik: 18/4/1972 - 7/4322 K.) Şeker miktarı % 45 den, kül miktarı % 2den fazla tahin helvalarıyla kesafeti 1,30 dan, mecmuu şeker miktarı glikoz hesabiyle % 60 dan az ve kül miktarı % 3,5 dan, asidite derecesi % 8 dereceden fazla olan pekmezler, mecmuu şeker miktarı glikoz hesabiyle % 70 az den kül miktarı % 3,5 dan fazla bulamalar,
+o) **(Değişik: 18/4/1972 - 7/4322 K.)** Şeker miktarı % 45 den, kül miktarı % 2den fazla tahin helvalarıyla kesafeti 1,30 dan, mecmuu şeker miktarı glikoz hesabiyle % 60 dan az ve kül miktarı % 3,5 dan, asidite derecesi % 8 dereceden fazla olan pekmezler, mecmuu şeker miktarı glikoz hesabiyle % 70 az den kül miktarı % 3,5 dan fazla bulamalar,
 
 p) Şeker miktarı sakkaroz hesabiyle % 15 den az, asidite derecesi % 4 den fazla olan bozalar.
 
@@ -2924,7 +2924,7 @@ e) İçilmeye elverişli olmıyan su ile yapılmış bozalar.
 
 ### ONYEDİNCİ BÖLÜM[6]
 
-Sular ve Buzlar
+**Sular ve Buzlar**
 
 ### KISIM: I
 
@@ -2994,9 +2994,9 @@ Kaynak sularının doldurma yerine kadar akacağı veya doldurma yerinde konulac
 
 Kaynak sularının kaptajında, isalesinde, depolanmasında, doldurulmasında ve satışında uyulması gerekli zorunluluklar ve bunlara uyulmaması halinde alınması gereken tedbirlerle bu suların satışında kullanılacak kapların şekli ve üzerinde bulunması gereken yazı ve işaretler Yönetmelikte gösterilir.
 
-(Değişik: 6/11/1983 - 83/7366 K.) Kaynak ve maden suları, nitelikleri Yönetmeliğinde belirtilen, camdan ya da bu Tüzük’ün 680 - 685 inci maddelerinde kullanılmasına izin verilen diğer malzemeden yapılmış kaplar içinde satılırlar.
+**(Değişik: 6/11/1983 - 83/7366 K.)** Kaynak ve maden suları, nitelikleri Yönetmeliğinde belirtilen, camdan ya da bu Tüzük’ün 680 - 685 inci maddelerinde kullanılmasına izin verilen diğer malzemeden yapılmış kaplar içinde satılırlar.
 
-(Değişik: 6/11/1983 - 83/7366 K.) Sişe, damacana ve galonların yıkanma, doldurulma ve kapsüllenmelerinin tam otomatik cihazla ve el değmeden yapılması, bunların alüminyumdan ya da bu Tüzükte kullanılmasına izin verilen bir maddeden yapılmış kapakla kapatılması, kapakların üzerine suyun sertlik derecesinin ve adının kabartma olarak yazılması zorunludur. Kapaklar, bir kez kullanılır.
+**(Değişik: 6/11/1983 - 83/7366 K.)** Sişe, damacana ve galonların yıkanma, doldurulma ve kapsüllenmelerinin tam otomatik cihazla ve el değmeden yapılması, bunların alüminyumdan ya da bu Tüzükte kullanılmasına izin verilen bir maddeden yapılmış kapakla kapatılması, kapakların üzerine suyun sertlik derecesinin ve adının kabartma olarak yazılması zorunludur. Kapaklar, bir kez kullanılır.
 
 #### Damacanların yıkanması, temizlenmesi ve doldurulması yönetmelikte gösterilen esaslara göre yapılır.[8]
 
@@ -3004,7 +3004,7 @@ Kaynak sularının kaptajında, isalesinde, depolanmasında, doldurulmasında ve
 
 Kaynak sularının herhangi bir usulle niteliğini etkileyecek bir işleme tabi tutulması, diğer suların sun'i vasıtalarla niteliklerini ıslah ederek kaynak suyu adı altında satılması veya kaynak sularına katılması yasaktır.
 
-B – İçme ve Kullanma Suları:
+**B – İçme ve Kullanma Suları:**
 
 **Madde 424 –** (Değişik: 25/7/1970 - 7/1127 K.)
 
@@ -3122,7 +3122,7 @@ Numune alınır.
 
 ### ONSEKİZİNCİ BÖLÜM
 
-Alkolsüz İçkiler
+**Alkolsüz İçkiler**
 
 ### KISIM: I
 
@@ -3160,13 +3160,13 @@ c) Kurşun, bakır, çinko gibi zararlı maddeler mürekkebatını ihtiva edenle
 
 ### KISIM II
 
-Suni Gazlı Sular (Gazoz, Soda)
+**Suni Gazlı Sular (Gazoz, Soda)**
 
-A – Gazoz:
+**A – Gazoz:**
 
 **Madde 443 –** İçerisinde belli miktarda sitrik asit veya tartarik asit, şeker ve saf karbonik asidi ihtiva eden içilmeğe elverişli sularla yapılan içkiye (gazoz) denir.
 
-B – Soda:
+**B – Soda:**
 
 **Madde 444 –** İçilmeğe elverişli sularla yapılan ve içerisinde saf karbonik asidi ihtiva eden içkiye (soda) denir.
 
@@ -3240,7 +3240,7 @@ d) Diğer surette tagayyür etmiş bulunanlar.
 
 **Madde 464 –** Dondurmaların yapılmasında kullanılan her türlü gıdai maddelerin vasıfları bu Tüzükte yazılı şartlara uygun olacaktır.
 
-(Ek: 6/11/1983 - 83/7366 K.) Dondurmalar, niteliklerini bozmayacak, su geçirmez karton kağıt ya da plastik ambalajlarda satışa çıkarılır. Külahla satılacak dondurmaların paslanmaz çelik saçtan yapılmış kaplarda bulundurulması zorunludur.
+**(Ek: 6/11/1983 - 83/7366 K.)** Dondurmalar, niteliklerini bozmayacak, su geçirmez karton kağıt ya da plastik ambalajlarda satışa çıkarılır. Külahla satılacak dondurmaların paslanmaz çelik saçtan yapılmış kaplarda bulundurulması zorunludur.
 
 **Madde 465 –** Dondurmalar aşağıda yazılı hallerde taklit veya tağşiş edilmiş sayılırlar:
 
@@ -3262,11 +3262,11 @@ b) Zararlı madeni veya uzvi cisimleri, hastalık yapan mikropları veya toksinl
 
 ### YİRMİNCİ BÖLÜM
 
-Meyva Suları, Şira, Pestil, Üzüm Şirası ile Yapılan
+**Meyva Suları, Şira, Pestil, Üzüm Şirası ile Yapılan**
 
-Cevizli Sucuk ve Benzerleri
+**Cevizli Sucuk ve Benzerleri**
 
-A – Meyva suları:
+**A – Meyva suları:**
 
 **Madde 469 –** Taze meyvaların sıkılmasıyla elde edilen ve tahammür etmemiş olan maddeye meyva usaresi veya meyva suyu ve suyundan kısmen tecrit edilmiş olan meyva usarelerine de teksif edilmiş meyva usaresi denir. (Elma suyu, koruksuyu, portakal suyu, nar suyu, üzüm suyu gibi) Meyva usareleri, çıkarıldıkları meyvadan başka bir adla satılamazlar.
 
@@ -3274,9 +3274,9 @@ A – Meyva suları:
 
 Ancak sıkıldıkları vakit kolayca usare vermiyen veya usaresi fazla ekşi olan meyvaların usarelerinin kıvam ve tatlarının tashih ve ıslahı için içlerine su ve bir miktar şeker ve bazı çeşitlerine az miktarda asit sitrik konması caizdir.
 
-(Ek: 6/11/1983 - 83/7366 K.) Meyve suları, içeceğin özelliğini bozmayan ve içecekten etkilenmeyen cam, metal, karton, plastik ya da standardında belirtilen kaplarda satılırlar.
+**(Ek: 6/11/1983 - 83/7366 K.)** Meyve suları, içeceğin özelliğini bozmayan ve içecekten etkilenmeyen cam, metal, karton, plastik ya da standardında belirtilen kaplarda satılırlar.
 
-B – Şıra:
+**B – Şıra:**
 
 **Madde 471 –** Üzüm suyunun hafif fermantasyonu ile elde edilen mamule şira denir. Kuru üzümden yapılmış şiranın (kuru üzüm şirası) adı ile satılması mecburidir. Kuru üzümden şira yapılırken taze üzümde bulunan su miktarını geçmemek üzere içine içilmeye elverişli su ve tatlılığını artırmak üzere şeker ilavesi caiz olduğu gibi içinde hafif fermantasyondan mütevellit az miktarda alkol de bulunabilir.
 
@@ -3284,7 +3284,7 @@ B – Şıra:
 
 **Madde 473 –** Yaş ve kuru üzüm şırasında bulunabilecek mecmu şeker miktarı, sakkaroz hesabiyle % 12,5 gramdan az ve şıranın hafifçe tahammüründen husule gelen alkol miktarı da hacmen % 4 den ve asidite derecesi de % 5 dereceden fazla olmamalıdır.
 
-C – Pestil:
+**C – Pestil:**
 
 **Madde 474 –** Pestil; erik, kayısı, dut ve sair tatlı veya ekşimtrak meyvalarının ezmelerinin kabuk, çekirdek ve posalarının ayrılmasıyle elde edilen kesif usarelerinin güneşte veya sair surette koyulaştırılarak kurutulup levha haline getirilmesiyle elde edilen maddeye denir. Pestil hangi meyvadan yapılmışise o meyvanın adı ile satılır.
 
@@ -3292,7 +3292,7 @@ C – Pestil:
 
 Pestillere suni tat verici maddelerle sair yabancı maddelerin katılması ve özel yönetmeliğinde kullanılmasına müsaade edilen muhafaza maddelerinden başka muhafaza maddesi kullanılması yasaktır.
 
-D – Cevizli sucuk ve benzerleri:
+**D – Cevizli sucuk ve benzerleri:**
 
 **Madde 476 –** Cevizli sucuk veya benzerleri; taze üzüm şırasının veya şekerle karışık üzüm şırasının nışasta ile usulüne göre kaynatılıp hazırlanan peltesine ipliklere dizilmiş iç ceviz, badem, fındık veya fıstık gibi kuru yemişlerin mükerrer defalar batırılıp kurutulmasıyle hazırlanan müstahzarlara denir.
 
@@ -3604,7 +3604,7 @@ b) İçki imalinde kullanılan saf ispirto: Ham ispirtonun taktir ile tasfiyesin
 
 **Madde 524 –** Aşağıdaki tariflere uygun bulunan ve kendisine karakteristik koku ve lezzetini veren unsurları yeter miktarda ihtiva eden içkilerden belli başlıları şunlardır:
 
-A – Rakı:
+<i>A – Rakı:</i>
 
 Rakı: Sumanın anason tohumu ile veya anason tahumundan istihsal edilen saf anason esansı ile taktirinden elde edilen mamuldür. Rakı imalinde anetol kullanılamaz.
 
@@ -3614,19 +3614,19 @@ Rakı: Sumanın anason tohumu ile veya anason tahumundan istihsal edilen saf ana
 
 3 – Rakılarda metil alkol hiç bulunmıyacaktır.
 
-B – Kanyak
+<i>B – Kanyak</i>
 
 Kanyak: Kanyaklık şarapların müteamil usullerle kısmi taktirinden elde edilen mahsullerin hususi kanyaklık fıçılarda dinlendirildikten sonra alkol derecesi hacmen % 40 - 44 dereceye düşürülen içkidir. Kanyakların meşe fıçılarında alacakları tabii renkler tercih edilir.
 
-C – Rom:
+<i>C – Rom:</i>
 
 (Rom); şeker kamışı usaresinin fermantasyon ve distilasyonu ile elde edilen içkidir.
 
-D – Viski:
+<i>D – Viski:</i>
 
 Viski; hububatın şekerleştirilmiş ve fermante olmuş mahsulünün distilasyonu ile elde edilen içkidir.
 
-E – Cin:
+<i>E – Cin:</i>
 
 Cin (Gin); hububat ispirtolarına ardıç ve diğer aromatik bitkiler katılarak distile edilmesiyle elde edilen içkidir.
 
@@ -3680,7 +3680,7 @@ c) Ambalaj ve satış kapları üzerindeki etiketlerde içkinin nev'i adı, alko
 
 (a) 483, 484, 486, 487, 488, 489, 490, 491, 496, 497, 500, 501, 502, 504 ve 505 inci maddelerle 493 üncü maddenin a, b, c, d, e, f, g, h, i, j fıkraları ile 499 uncu maddenin a, b, c, d, e, f, h, i fıkraları hükümlerine aykırı vasıf, terkip ve şekillerde satılan şaraplar.
 
-b) (Mülga: 21/3/1956 - 4/6999 K.)
+b) **(Mülga: 21/3/1956 - 4/6999 K.)**
 
 c) Tali mahsuller, aldehit, fürfürol, füzel, ester, metil alkol, asidite, kurşun, bakır, çinko ve emsali toksik maddelere ait hükümler müstesna olmak üzere 523, 524 ve 525 inci maddelerde ve bu maddelerin fıkralarında 526 ve 530 uncu maddelerde konmuş olan hükümlere aykırı vasıf, terkip ve şekillerde satılan alkollü içkiler,
 
@@ -3694,9 +3694,9 @@ g) Suni tad verici maddeler katılmış olan bütün alkollü içkiler.
 
 **Madde 539 –** Alkollü içkiler aşağıda yazılı hallerde sağlığa az veya çok zarar verecek derecede bozulmuş sayılırlar.
 
-a) (Değişik: 21/3/1956-4/6999 K.) 498, 499, 495, 494 ve 506. maddelerle 493 üncü maddenin k, l, m, n fıkraları ile 499 uncu maddenin g fıkrası hükümlerine aykırı vasıf terkip ve şekillerde satılan şaraplar,
+a) **(Değişik: 21/3/1956-4/6999 K.)** 498, 499, 495, 494 ve 506. maddelerle 493 üncü maddenin k, l, m, n fıkraları ile 499 uncu maddenin g fıkrası hükümlerine aykırı vasıf terkip ve şekillerde satılan şaraplar,
 
-b) (Değişik: 21/3/1956 - 4/6999 K.) 506 ncı madde hükümlerine aykırı terkip ve vasıflardaki kablar, kapaklar, aletler ve vasıtalarla imal muhafaza, nakil veya satılan bütün alkollü içkiler,
+b) **(Değişik: 21/3/1956 - 4/6999 K.)** 506 ncı madde hükümlerine aykırı terkip ve vasıflardaki kablar, kapaklar, aletler ve vasıtalarla imal muhafaza, nakil veya satılan bütün alkollü içkiler,
 
 c) 516, 518, 519, 520, 522 nci madde hükümlerine aykırı vasıf, terkip ve şekillerde satılan biralar,
 
@@ -3718,9 +3718,9 @@ Vermut yağı (thujon) un distile ve diğer alkollü içkilerin imalinde kullan�
 
 ### YİRMİ İKİNCİ BÖLÜM
 
-Kahveler
+**Kahveler**
 
-A – Çiğ kahve:
+**A – Çiğ kahve:**
 
 **Madde 543 –** Kahve meyvasının, kabuğundan kamilen ve zarından hemen hemen ayrılmış çekirdeklerine çiğ kahve veya yeşil kahve denir.
 
@@ -3734,7 +3734,7 @@ A – Çiğ kahve:
 
 **Madde 547 –** Kahvenin herhangi bir kimyevi madde ile muamelesi ve boyanması yasaktır.
 
-B – Kavrulmuş kahve:
+**B – Kavrulmuş kahve:**
 
 **Madde 548 –** Kavrulmuş kahve, yukarda vasıfları yazılmış olan çiğ kahvenin usulüne göre kavrularak hazırlanmış şekline denir.
 
@@ -3744,7 +3744,7 @@ Kavrulmuş kahvede kafein % 1,2 den az, rutubet % 8 den fazla, kül % 5,5 den fa
 
 544 üncü madde gereğince çiğ kahve için tesbit edilecek fiziksel nitelikler kavrulmuş kahvede de aranır.
 
-C – Çekilmiş kahve:
+**C – Çekilmiş kahve:**
 
 **Madde 550 –** Kavrulmuş kahvenin çekilmesinden veya dövülmesinden hasıl olan toza çekilmiş veya dövülmüş kahve denir.
 
@@ -3752,7 +3752,7 @@ C – Çekilmiş kahve:
 
 **Madde 552 –** Kahvenin terkibinde bulunan (kafein) ve diğer unsurları almak ve zararsız da olsa herhangi yabancı bir madde ilave etmek yasaktır.
 
-D – Kafeinsiz kahve:
+**D – Kafeinsiz kahve:**
 
 **Madde 553 –** Kafeinsiz veya kafeini az kahve: Terkibindeki kafeinin usulüne göre azaltılmasiyle elde edilen ve kafein miktarı % 0,2 yi geçmemesi şart olan kahveye denir. Bunların kafeini alınmış veya kafeinsiz kahve ismi altında satılmaları mecburidir.
 
@@ -3818,21 +3818,21 @@ b) Sağlığa zararlı ambalajlar içine konanlar.
 
 ### YİRMİ DÖRDÜNCÜ BÖLÜM
 
-Kakaolar
+**Kakaolar**
 
-A – Çekirdek kakao:
+**A – Çekirdek kakao:**
 
 **Madde 570 –** Kakao ağacı meyvasının kurutularak kavrulmuş veya kavrulmamış olan çekirdeklerine (çekirdek kakao) denir.
 
-B – Kakao kitlesi:
+**B – Kakao kitlesi:**
 
 **Madde 571 –** Kurutulmuş, temizlenmiş ve kavrularak mümkün olduğu kadar kabuk ve tohumlarından ayıklanmış kakao çekirdeklerinin ezilmesinden hasıl olan müstahzara (kakao kitlesi = pat dö kakao) denir.
 
-C – Kakao tozu:
+**C – Kakao tozu:**
 
 **Madde 572 –** Kakao kitlesinin, olduğu gibi veya kısmen yağı alındıktan sonra öğütülmesiyle elde edilen toza (kakao tozu) denir.
 
-D – Münhal kakao:
+**D – Münhal kakao:**
 
 **Madde 573 –** Kalevi karbonatlar ve kalevi hidroksitler ile muamele edilmiş olan kakao tozuna (münhal kakao) denir.
 
@@ -3868,13 +3868,13 @@ b) Kakaolarda bulunan kakao yağının asidite derecesi 578 inci maddede yazıl�
 
 ### YİRMİBEŞİNCİ BÖLÜM
 
-Çikolatalar
+**Çikolatalar**
 
-A – Sade ve sütlü çikolatalar:
+**A – Sade ve sütlü çikolatalar:**
 
 **Madde 584 –** İçine kakao yağı ilave edilerek mütat usullerle ihzar edilen kakao tozu ve şeker mahlütundan mürekkep müstahzara sade çikolata veya sade çikolata tozu ve bu unsurlarla süt ve süt tozu ilavesiyle hazırlanmış nevilerine de sütlü çikolata veya sütlü çikolata tozu denir.
 
-B – Meyvalı çikolata:
+**B – Meyvalı çikolata:**
 
 **Madde 585 –** İçine fındık, badem, fıstık, meyva, bal vesaire karıştırılan çikolataların etiketlerinde bu maddelerin isimleri gösterilmesi mecburi olup bu maddelerin miktarı % 5 ten az ve % 20 den fazla olmamalıdır. Çikolatalara vanilin veya vanilya tozu da ilave edilebilir.
 
@@ -3886,21 +3886,21 @@ B – Meyvalı çikolata:
 
 **Madde 589 –** Sütlü çikolatalarda bulunan kakao kitlesi (kakao yağı + kakaotozu) en az % 25 olacaktır. Bunların imalinde nebati lesitin kullanıldığı takdirde nebati lesitin miktarı müstahzarın % 0,3 ünü geçmemelidir.
 
-C – Kaymaklı çikolata:
+**C – Kaymaklı çikolata:**
 
 **Madde 590 –** En az % 6,75 süt yağını ve % 1,15 kuru süt maddesini havi olan müstahzara (kaymaklı) veya (kremalı) çikolata denir.
 
-D – İki kat kaymaklı çikolata:
+**D – İki kat kaymaklı çikolata:**
 
 **Madde 591 –** En az % 9,75 süt yağını ve % 1,65 yağsız kuru süt maddesini havi olan müstahzara (iki kat kaymaklı) veya (iki kat kremalı) çikolata denir. Burada kullanılan kremanın en az % 35 süt yağını havi olması şarttır.
 
-E – Kaplama çikolata:
+**E – Kaplama çikolata:**
 
 **Madde 592 –** İçinde fondan ve badem gibi maddeler bulunan ve dışı kuvertür denilen çikolata tabakası ile tamamen kaplı olan müstahzara (kaplama çikolata) denir. Bu nevi çikolatalarda, hariçteki çikolata tabakasıyla içindeki madde ayrı ayrı olarak bulunur.
 
 **Madde 593 –** Çikolata kaplı müstahzarlarda çikolata kısmı müstahzarın en az % 30 unu teşkil etmeli ve içindeki maddelerin cinsi etiketinde yazılı olmalıdır.
 
-F – Alkollü çikolata:
+**F – Alkollü çikolata:**
 
 **Madde 594 –** Alkol ve alkollü maddeleri ihtiva eden çikolataların etiketinde bunların cinsi yazılmalı ve ihtiva ettikleri alkol nispeti (mutlak alkol hesabiyle) müstahzarın % 6 sını geçmemeli ve sağlık bakımından zararsız ve pek cüzi dahi olsa, yabancı bir madde kokusundan ari olmalıdır.
 
@@ -3944,55 +3944,55 @@ b) Dışı yaldız ve kalayla sarılan çikolatalardaki kurşun miktarı bu Tüz
 
 **Madde 601 –** Baharat, elde edildiği nebat ve aksamı haliyle veya öğütülerek toz şeklinde satılırlar. Toz şeklinde bir cins olarak satıldığı gibi birkaç cins ve neviden ibaret olmak üzere mahlüt olarak da satılabilirler. Bunların ambalajlarının üzerinde hangi cins baharın tozunu ihtiva ettiklerinin yazılı bulunması lazımdır.
 
-A – Hardal:
+**A – Hardal:**
 
 **Madde 602 –** Hardal; (brassica nigra, brassica junessea) nebatlarının olmuş ve kurutulmuş taneleri veya unu olup rutubet miktarı azami % 9,5, kül azami% 5,6, külün asit kloridrikte erimiyen kısmı azami % 1,5, etere geçen sabitekstra % 12,6 (asgari), hardal ruhu (allil izotio siyanat) halinde % asgari 0,6 olmalıdır.
 
-B – Kimyon:
+**B – Kimyon:**
 
 **Madde 603 –** Kimyon; (Cuminum Cyminum) denilen nebatın olmuş ve kurutulmuş taneleri veya unu olup rutubet azami % 10, kül azami % 8, külün asitte erimiyen kısmı azami % 1,5 ve tayyar yağları asgari % 5 olmalıdır.
 
-C – Karanfil:
+**C – Karanfil:**
 
 **Madde 604 –** Karanfil; (Karyophyllus aromatieus) denilen nebatın kurutulmuş çiçekleri (tüveyçleri) olup tane veya toz halinde kullanılır. Rutubet azami % 9, kül azami % 7, külün asitte erimiyen kısmı azami % 0,5 ve tayyar yağları asgari% 15 olmalıdır.
 
-D – Tarçın:
+**D – Tarçın:**
 
 **Madde 605 –** Tarçın; (cinnamonuum zylanicum) adlı nebatın kurutulmuş kabukları veya bu kabukların tozudur. Rutubet azami % 10, kül azami % 5, külün asitte erimiyen kısmı % 2 ve tayyar yağları % 1 den az olmamalıdır.
 
-E – Zencefil:
+**E – Zencefil:**
 
 **Madde 606 –** Zencefil; (Zengibet oficinale) denilen nebatın kurutulmuş rizomalarıdır. Olduğu gibi veya toz halinde kullanılır. Rutubet azami % 11,7, kül azami % 7, külün asitte erimiyen kısmı azami % 2, nişasta azami % 6, selüloz azami % 8, suya geçen münhal haddeler mecmuu azami % 12, eter ekstresi azami % 3, alkol ekstresi asgari % 3,7 olmalıdır.
 
-F – Karabiber:
+**F – Karabiber:**
 
 **Madde 607 –** Karabiber; (Pipernigron) denilen nebatın kurutulmuş meyvalarıdır. Bu meyvalar kemale gelmeden toplanıp olduğu gibi veya toz halinde kullanılır. Rutubet azami % 12, kül azami % 7, külün asitte erimiyen kısmı azami % 1,5, eter ile sabit ekstre asgari % 6,75 ve tayyar zeyti asgari % 1 olmalıdır.
 
-G – Beyazbiber:
+**G – Beyazbiber:**
 
 **Madde 608 –** Beyazbiber; (Pipernigron) denilen nebatın kemale geldikten sonra kurutulmuş meyvalarıdır. Olduğu gibi veya toz halinde kullanılır. Rutubet azami% 14, kül azami % 3,5, külün asitte erimiyen kısmı azami % 0,3, eterle sabit ekstra asgari % 7, tayyar zeyti % 0,5 olmalıdır.
 
-H – Kırmızıbiber:
+**H – Kırmızıbiber:**
 
 **Madde 609 –** Kırmızıbiber; (Capsicumannum) denilen nebatın kemale gelip kurutulmuş meyvalarının öğütülmesiyle elde edilir ve toz halinde kullanılır. Rutubet azami % 13, kül azami % 8, külün asitte erimiyen kısmı azami % 1,25, eter ile sabit ekstre asgari % 15, tayyar zeyti asgari % 1,35 olacaktır.
 
-İ – Yenibahar:
+**İ – Yenibahar:**
 
 **Madde 610 –** Yenibahar (Pimenta officinalis) denilen nebatın meyvalarının olmuş, kurutulmuş ve toz edilmiş şeklidir. Rutubet azami % 10, kül azami % 6, külün asitte erimiyen kısmı azami % 0,4, eter ile sabit ekstre asgari % 4,4, tayyar zeyti asgari % 3 olmalıdır.
 
-J – Safran:
+**J – Safran:**
 
 **Madde 611 –** Safran; (Crrocus satiyus) denilen nebatın çiçeklerinin kurutulmuş istigmatlarıdır. Rutubet azami % 12, kül azami % 7,5, külün asitte erimiyen kısmı azami % 1 olan ve diğer evsaf bakımından Türk Kodeksine uygun bulunmalıdır.
 
-K – Anason :
+**K – Anason :**
 
 **Madde 612 –** Anason; (Pinpinella Anisun) denilen nebatın kurutulmuş meyvaları olup tane halinde kullanılır. Rutubet azami % 8,5, kül azami % 9, külün asitte erimiyen kısmı azami % 2, tayyar zeyti asgari % 1,5 olmalıdır.
 
-L – Vanilya:
+**L – Vanilya:**
 
 **Madde 613 –** Vanilya; (Vanilla planifolia) denilen nebatın ham meyvalarının kurutulmasiyle elde edilir. Kül azami % 4,7, mürci şeker azami % 9 vanilin miktarı asgari % 0,70 olmalıdır.
 
-M – Kekik:
+**M – Kekik:**
 
 **Madde 614 –** Kekik; (Thymus vulgaris) nebatının kurutulmuş çiçekleri ve yapraklarının uçlarıdır. Kül azami % 14, külün asitte erimiyen kısmı azami % 4, tayyar zeyti asgari % 2 olmalıdır.
 
@@ -4142,7 +4142,7 @@ Sirke ve turşular aşağıda yazılı hallerde taklit veya tağşiş edilmiş s
 
 a) Asetik asit (sirke ruhu) ile yapılmış olanlar veya içine bu madde katılmış bulunanlar,
 
-b) (Değişik: 10/12/1959 - 4/12500 K.) Terkibindeki mecmu asit miktarı, asetik asit hesabiyle % 4 den, kül miktarı % 1 den ve kuru hülasa miktarı litrede 10 gramdan az olanlar,
+b) **(Değişik: 10/12/1959 - 4/12500 K.)** Terkibindeki mecmu asit miktarı, asetik asit hesabiyle % 4 den, kül miktarı % 1 den ve kuru hülasa miktarı litrede 10 gramdan az olanlar,
 
 c) Asetik asit ile yapıldıkları halde ambalaj üzerindeki etiketinde bu cihet tasrih edilmemiş açık ve kapalı satılan alafranga turşular,
 
@@ -4226,15 +4226,15 @@ Sabunlardan muayene ve tahlil edilmek için laboratuvara gönderilmek üzere al�
 
 ### OTUZUNCU BÖLÜM
 
-Mumlar, Çamaşır Suları Diğer Temizlik Eşyası
+**Mumlar, Çamaşır Suları Diğer Temizlik Eşyası**
 
-A – Mumlar:
+**A – Mumlar:**
 
 **Madde 648 –** Mum; balmumu, içyağı, parafin, stearin gibi maddelerden hususi şekillerde yapılan ve yakarak aydınlatma işlerinde kullanılan maddelerdir.
 
 **Madde 649 –** Mumların antimuan, arsenik, civa veya kurşunu havi maddelerle boyanması yasaktır.
 
-B – Çamaşır suları:
+**B – Çamaşır suları:**
 
 **Madde 650 –** Çamaşır suları ana solisyonu; nebati maddelerden yapılmış çamaşırları temizlemek ve beyazlatmak için kullanılan ve alkali hipoklorit halinde aktif klorü, bazan da sodyum perboratı ihtiva eden solisyonlardır.
 
@@ -4248,11 +4248,11 @@ B – Çamaşır suları:
 
 Çamaşır suları ana solüsyonu yalnız orijinal ambalajlı kapalı kaplarda satılabilir. Orijinal ambalajlı kapalı kapların üzerinde yer alması gereken etiket yazılarının, ilgili bakanlıkların olumlu görüşü üzerine Sağlık Bakanlığınca yürürlüğe konulan tebliğe uygun olması zorunludur.
 
-C – Diğer temizlik eşyası:
+**C – Diğer temizlik eşyası:**
 
 **Madde 655 –** (Değişik: 13/10/1980 - 8/1770 K.)
 
-a) (Değişik: 28/10/2004 - 2004/8061 K.) Deterjan; genel temizlik, çamaşır ve bulaşık yıkama ve sair temizleme işlerinde kullanılan ve içerisinde yüzey aktif maddeler, yoğunlaştırıcılar, dolgu malzemeleri ve diğer yardımcı maddeler bulunan sıvı, toz, krem, bar, granül, tablet ve benzeri şekillerde olan evlerde, sanayide ve işyerlerinde kullanılan madde veya karışımlardır.
+a) **(Değişik: 28/10/2004 - 2004/8061 K.)** Deterjan; genel temizlik, çamaşır ve bulaşık yıkama ve sair temizleme işlerinde kullanılan ve içerisinde yüzey aktif maddeler, yoğunlaştırıcılar, dolgu malzemeleri ve diğer yardımcı maddeler bulunan sıvı, toz, krem, bar, granül, tablet ve benzeri şekillerde olan evlerde, sanayide ve işyerlerinde kullanılan madde veya karışımlardır.
 
 Deterjanlarda, kullanımına Sağlık Bakanlığınca müsaade edilmeyen maddeler hariç olmak üzere, temizleme gücünü artıran ve yıkama suyunun sertliğini gideren çeşitli fosfat, zeolit, bentonit, karbonat, silikat bileşikleri, boraks ve perborat tuzları ile gelişen teknolojiye uygun olarak diğer katkı maddeleri kullanılabilir. Deterjanların nitelikleri, ambalajları, etiketleri ile diğer hususlarının, ilgili bakanlıkların olumlu görüşü üzerine Sağlık Bakanlığınca yürürlüğe konulan tebliğlere uygun olması zorunludur.
 
@@ -4294,21 +4294,21 @@ c) Bileşiminde Abel Cihazı ile 30 C nin altında parlayan eritici maddeler, kl
 
 d) 656 ncı maddeye karşı olarak imal edilip tüketime verilen ayakkabı kremi, boyası, cilası vb. maddelerle 657 nci maddeye uygun olmayan havayı aromatize edici maddeler,
 
-e) (Değişik: 28/10/2004 - 2004/8061 K.) 655 inci madde hükmü uyarınca, Sağlık Bakanlığınca yürürlüğe konulan tebliğde belirlenen orandan daha çok fosfat içeren ve aktif maddesinin biyolojik parçalanabilirliği tebliğde belirlenen orandan daha düşük olan ve sağlığa zararlı maddeler katılmış deterjanlar, sağlığa zararlı maddeler katılmış ve/veya boyanmış mekanik temizleme tozları,
+e) **(Değişik: 28/10/2004 - 2004/8061 K.)** 655 inci madde hükmü uyarınca, Sağlık Bakanlığınca yürürlüğe konulan tebliğde belirlenen orandan daha çok fosfat içeren ve aktif maddesinin biyolojik parçalanabilirliği tebliğde belirlenen orandan daha düşük olan ve sağlığa zararlı maddeler katılmış deterjanlar, sağlığa zararlı maddeler katılmış ve/veya boyanmış mekanik temizleme tozları,
 
 f) pH derecesi 655 inci maddeye uymayan mekanik temizleme tozları.
 
 **Madde 660 –** Muayene ve tahlil için laboratuvara gönderilmek üzere alınacak numune miktarı mumlardan 100 Gr., çamaşır suları ana solisyonundan yarım litreden aşağı olmamak üzere, bir kapalı orijinal ambalaj, muşamba cilası ve benzerlerinden, ayakkabı boyası, cilası ve benzerlerinden ve havayı aromatize etmeğe mahsus maddelerden 100 er gram veya bu miktardan aşağı olmamak üzere, bir veya bir kaç orjinal kapalı ambalajdan ibarettir.
 
-(Ek: 13/10/1980 - 8/1770 K.) Deterjanlar ve mekanik temizleme tozlarından alınacak numune miktarı, 0,5 Kg. dan az olmayacaktır.
+**(Ek: 13/10/1980 - 8/1770 K.)** Deterjanlar ve mekanik temizleme tozlarından alınacak numune miktarı, 0,5 Kg. dan az olmayacaktır.
 
 ### OTUZBİRİNCİ BÖLÜM
 
-Giyilecek Eşyanın İmalinde Kullanılan Her Nevi Maddeler, Her Nevi
+**Giyilecek Eşyanın İmalinde Kullanılan Her Nevi Maddeler, Her Nevi**
 
-Çamaşır İmaline Yarayan Örgüler ve Benzerleri ile Elbiselik Kumaşlar,
+**Çamaşır İmaline Yarayan Örgüler ve Benzerleri ile Elbiselik Kumaşlar,**
 
-Bu Mevaddın Boyanmasında Kullanılan Boyalar ve Bu Eşyanın
+**Bu Mevaddın Boyanmasında Kullanılan Boyalar ve Bu Eşyanın**
 
 #### Temizlenmesinde Kullanılacak Müstahzarat
 
@@ -4448,9 +4448,9 @@ Muayene ve tahlil için alınacak numune miktarı, ambalaj kağıdı, parşömen
 
 Her türlü yenilecek ve içilecek maddelerin yapılmasında, hazırlanmasında, saklanma veya taşınmasında ve yenilip içilmesinde doğrudan doğruya kullanılan bütün madeni kap ve malzemenin ve bu kap ve malzemenin gıda maddeleriyle temas eden satıhlarının kaplanması, cilalanması, boyanması, sıralanması için kullanılan maddelerin terkibinde % 0,02 den fazla arsenik ve % 0,5 den fazla kurşun bulunması yasaktır. Antimuan ve kadmiyum gibi maddeler hiç bulunmayacaktır.
 
-(Ek: 19/6/1979 - 7/17866 K.) Kaplama amacıyla kullanılacak kalayın T.S. 491 kalay standardında belirtilen KK2 kalay özelliğinde olması zorunludur.
+**(Ek: 19/6/1979 - 7/17866 K.)** Kaplama amacıyla kullanılacak kalayın T.S. 491 kalay standardında belirtilen KK2 kalay özelliğinde olması zorunludur.
 
-(Ek: 19/6/1979 - 7/17866 K.) Kağıt, karton ve plastik gibi maddelerin gıda maddeleriyle temas eden yüzünü kaplamada kullanılan her türlü reçinesel kaplamalar, 681 inci madde hükümlerine uygun olacaktır.
+**(Ek: 19/6/1979 - 7/17866 K.)** Kağıt, karton ve plastik gibi maddelerin gıda maddeleriyle temas eden yüzünü kaplamada kullanılan her türlü reçinesel kaplamalar, 681 inci madde hükümlerine uygun olacaktır.
 
 **Madde 689 –** (Değişik: 21/4/1971 - 7/2235 K.)
 
@@ -4478,7 +4478,7 @@ Satışa çıkarılan her nevi kap üzerine, silinemez ve okunaklı şekilde ima
 
 Kahve, biber vesair yenilecek maddelerin öğütülmesine mahsus küçük ve büyük cesametteki değirmenlerin öğüten kısımları, kurşun veya kurşunu havi halitalardan yapılmış yahut bunlarla kaplanmış olmayacaktır.
 
-(Değişik ikinci fıkra: 28/10/2004 - 2004/8061K.) Çocuk emzikleri, süt çekme aletleri, biberon gibi ürünlerde sağlığa zararlı herhangi bir madde bulunamaz. Söz konusu ürünlerin yapılarında bulunabilecek ağır metal miktarı ve N-Nitrozamin miktarı ile diğer hususlarının, ilgili bakanlıkların olumlu görüşü üzerine Sağlık Bakanlığınca yürürlüğe konulan tebliğe uygun olması zorunludur.
+**(Değişik ikinci fıkra: 28/10/2004 - 2004/8061K.)** Çocuk emzikleri, süt çekme aletleri, biberon gibi ürünlerde sağlığa zararlı herhangi bir madde bulunamaz. Söz konusu ürünlerin yapılarında bulunabilecek ağır metal miktarı ve N-Nitrozamin miktarı ile diğer hususlarının, ilgili bakanlıkların olumlu görüşü üzerine Sağlık Bakanlığınca yürürlüğe konulan tebliğe uygun olması zorunludur.
 
 Bazı içilecek maddelere mahsus şişelerin ve konserve kavanozları kapaklarının ağızlarına konulan lastik halkaların ve lastik kapakların ve içerisinden şarap, bira, gazoz, soda veya sirke gibi içilen mayiler geçen lastik boruların lastikleri, kurşundan ari olacaktır. Lastik yerine kullanılan plastik maddeler, 681 inci maddedeki vasıf ve şartlara uygun olacaktır.
 
@@ -4528,7 +4528,7 @@ Laboratuvarlar, muayene ettikleri numunelerin artan kısımlarını, işin sonun
 
 Bunlardan, laboratuvarda muayene edilmesine lüzum ve zaruret görülenler, bu kayıttan hariç olup bu gibiler usulü dairesinde laboratuvara gönderilir.
 
-(Ek fıkra:28/10/2004 – 2004/8061 K.) Tüzüğün 702 ila 706 ncı maddeleri, deterjanlar, mekanik temizleme tozları, çamaşır suları ve çocuk emzikleri hakkında uygulanmaz. Piyasa gözetim ve denetiminde bu ürünlerden numune alınması ve laboratuvarlara iletilmesi ile ilgili hususlar Sağlık Bakanlığınca yürürlüğe konulan tebliğ ile belirlenir.
+**(Ek fıkra:28/10/2004 – 2004/8061 K.)** Tüzüğün 702 ila 706 ncı maddeleri, deterjanlar, mekanik temizleme tozları, çamaşır suları ve çocuk emzikleri hakkında uygulanmaz. Piyasa gözetim ve denetiminde bu ürünlerden numune alınması ve laboratuvarlara iletilmesi ile ilgili hususlar Sağlık Bakanlığınca yürürlüğe konulan tebliğ ile belirlenir.
 
 ### OTUZYEDİNCİ BÖLÜM
 
@@ -4582,15 +4582,15 @@ Ruhsat almış olanlardan işlerini bırakanlar, durumu ilgililere yazılı olar
 
 **Ek Madde 6 –** (Ek: 21/4/1971 - 7/2235 K.) Muayene ve tahlil için alınacak numune en az 5 adet veya 250 gramdır.
 
-Muvakkat Madde – (Ek: 10/12/1959 - 4/12500 K.) Bu Nizamnamenin mer'iyete girdiği tarihten önce % 5 - 10 nispetinde teşhis vasıflarını haiz susam yağı ilave olunmak suretiyle imal edilmiş bulunan her türlü margarinler, Nizamnamenin mer'iyeti tarihinden itibaren bir sene zarfında tasfiye edilir.
+**Muvakkat Madde – (Ek: 10/12/1959 - 4/12500 K.)** Bu Nizamnamenin mer'iyete girdiği tarihten önce % 5 - 10 nispetinde teşhis vasıflarını haiz susam yağı ilave olunmak suretiyle imal edilmiş bulunan her türlü margarinler, Nizamnamenin mer'iyeti tarihinden itibaren bir sene zarfında tasfiye edilir.
 
-Geçici Madde – (Ek: 21/4/1971 - 7/2235 K.) İnsektisit, rodentisit ve mollusisitlerin imalcileri, Tüzüğün yürürlüğe girdiği tarihten itibaren 2 ay içinde gerekli ruhsatı almak için Sağlık ve Sosyal Yardım Bakanlığına müracaat etmeğe, ruhsat aldıkları tarihten itibaren Tüzük uyarınca imalata başlamağa ve piyasadaki mamullerini, bu Tüzüğün yürürlüğünden itibaren 6 ay zarfında tasfiye etmeğe mecburdurlar.
+**Geçici Madde – (Ek: 21/4/1971 - 7/2235 K.)** İnsektisit, rodentisit ve mollusisitlerin imalcileri, Tüzüğün yürürlüğe girdiği tarihten itibaren 2 ay içinde gerekli ruhsatı almak için Sağlık ve Sosyal Yardım Bakanlığına müracaat etmeğe, ruhsat aldıkları tarihten itibaren Tüzük uyarınca imalata başlamağa ve piyasadaki mamullerini, bu Tüzüğün yürürlüğünden itibaren 6 ay zarfında tasfiye etmeğe mecburdurlar.
 
 **Geçici Madde 2 –** (Ek: 9/6/1979 - 7/17779 K.) Bu Tüzüğün yayımından önce satılmakta olan kozmetiklerin yapımcıları, yaptıkları kozmetiklerin içerdikleri maddeleri, oranlarını ve yapım yerlerini bu Tüzüğün yayımını izleyen 3 ay içerisinde Sağlık Bakanlığına bildirirler.
 
 **Geçici Madde 3 –** (Ek: 19/6/1979 - 7/17866 K.) Bu Tüzüğün yayımından önce gıda maddeleriyle temasta bulunan plastik maddeleri üretenler, plastiklerin içerdikleri maddeleri, oranlarını ve yapım yerlerini, bu Tüzüğün yayımını izleyen 3 ay içerisinde Sağlık Bakanlığına bildirirler.
 
-Geçici Madde – (Ek: 13/10/1980 - 8/1770 K.) Bu Tüzüğün yayımından önce satılmakta olan deterjanların yapımcıları, deterjanların içerdikleri maddeleri, oranlarını ve yapım yerlerini, bu Tüzüğün yayımını izleyen 3 ay içersinde Sağlık Bakanlığına bildirirler.
+**Geçici Madde – (Ek: 13/10/1980 - 8/1770 K.)** Bu Tüzüğün yayımından önce satılmakta olan deterjanların yapımcıları, deterjanların içerdikleri maddeleri, oranlarını ve yapım yerlerini, bu Tüzüğün yayımını izleyen 3 ay içersinde Sağlık Bakanlığına bildirirler.
 
 **Geçici Madde 4 –** (Ek: 21/12/1981 - 8/4086 K.) 4/8/1952 günlü ve 3/15481 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Gıda Maddelerinin ve Umumi Sağlığı İlgilendiren Eşya ve Levazımın Hususi Vasıflarını Gösteren Tüzük'ün 13/10/1980 günlü ve 8/1770 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Tüzükle değiştirilen 655 inci maddesinin a bendinde yer alan, "toplam aktif madde miktarının en az % 50 si parçalanabilir cinsten olacaktır" hükmü ile aynı Tüzüğün yukarıda söz konusu edilen Tüzükle değiştirilen 659 uncu maddesinin e bendinde yer alan ve toplam aktif maddenin % 50 sinden çoğu parçalanmayan cinsten aktif madde içeren deterjanların sağlığa az veya çok zarar verecek derecede bozulmuş sayılacaklarına ilişkin hükmünün uygulanması 4 yıl süre ile ertelenmiştir.
 
@@ -4604,7 +4604,7 @@ Geçici Madde – (Ek: 13/10/1980 - 8/1770 K.) Bu Tüzüğün yayımından önce
 
 ### YÜRÜRLÜĞE KONULAN TÜZÜĞE İŞLENEMEYEN HÜKÜMLER
 
-1) 28/10/2004 tarihli ve 2004/8061 sayılı Bakanlar Kurulu Kararının Eki Tüzüğün geçici maddesi:
+**1) 28/10/2004 tarihli ve 2004/8061 sayılı Bakanlar Kurulu Kararının Eki Tüzüğün geçici maddesi:**
 
 **Geçici Madde 1 –** Bu Tüzükte öngörülen düzenlemeler yürürlüğe girinceye kadar, bu Tüzükle değiştirilen hükümlerin uygulanmasına devam olunur.
 
@@ -4613,30 +4613,30 @@ Geçici Madde – (Ek: 13/10/1980 - 8/1770 K.) Bu Tüzüğün yayımından önce
 | Tarihi | Numarası | Farklı Tarihte Yürürlüğe Giren Maddeler | Yürürlüğe Giriş Tarihi |
 | 16.5.1953 21.3.1956 10.12.1959 10.12.1963 13.12.1966 27.1.1968 30.4.1968 25.7.1970 21.4.1971 21.4.1971 18.4.1972 18.4.1972 18.4.1972 27.10.1972 4.5.1973 28.6.1973 4.6.1974 17.8.1974 22.10.1976 23.9.1977 9.6.1979 19.6.1979 6.3.1980 13.10.1980 21.12.1981 6.11.1983 28.10.2004 | 4/808 4/6999 4/12500 6/2482 6/7445 6/9470 6/9942 7/1127 7/2234 7/2235 7/4322 7/4323 7/4324 7/5274 7/6337 7/6734 7/8369 7/8803 7/12798 7/14228 7/17779 7/17866 8/525 8/1770 8/4086 83/7366 2004/8061 | - - - - - - - - - - - - - - - - - - - - - - - - - - 654, 655, 658, 659, 671, 672, 673, 674, 675, 676, 677, 678, 679, 695, 707, İşlenemeyen Hüküm | 4.7.1953 28.4.1956 22.1.1960 28.12.1963 29.3.1967 27.3.1968 21.5.1968 28.8.1970 6.5.1971 14.5.1971 9.5.1972 9.5.1972 9.5.1972 29.11.1972 16.5.1973 4.8.1973 16.6.1974 9.3.1975 9.12.1976 2.12.1977 8.8.1979 22.10.1979 6.6.1980 10.2.1981 25.1.1982 3.12.1983 13.11.2004 |
 
-<small>[1] Bu Tüzüğün, İspirtolu İçkilerin Vasıflarıyla Bira Fabrika ve İmalathanelerin Kontrol ve Muayeneleri Hakkındaki 10 Mart 1956 tarih ve 4/6891 sayılı tüzüğe uygun olmayan hükümleri anılan tüzüğün 31 inci maddesi gereğince yürürlükten kaldırılmıştır.</small>
+<small>[1] <i>Bu Tüzüğün, İspirtolu İçkilerin Vasıflarıyla Bira Fabrika ve İmalathanelerin Kontrol ve Muayeneleri Hakkındaki 10 Mart 1956 tarih ve 4/6891 sayılı tüzüğe uygun olmayan hükümleri anılan tüzüğün 31 inci maddesi gereğince yürürlükten kaldırılmıştır.</i></small>
 
-<small>[2] 28/10/2004 tarihli ve 2004/8061 sayılı Bakanlar Kurulu Kararının Eki Tüzüğün 9 uncu maddesi ile bu Tüzükte geçen "Sağlık ve Sosyal Yardım Bakanlığı” ibareleri, “Sağlık Bakanlığı”; "sentetik deterjan” ibaresi, “deterjan” olarak değiştirilmiş ve metne işlenmiştir.</small>
+<small>[2] <i>28/10/2004 tarihli ve 2004/8061 sayılı Bakanlar Kurulu Kararının Eki Tüzüğün 9 uncu maddesi ile bu Tüzükte geçen "Sağlık ve Sosyal Yardım Bakanlığı” ibareleri, “Sağlık Bakanlığı”; "sentetik deterjan” ibaresi, “deterjan” olarak değiştirilmiş ve metne işlenmiştir.</i></small>
 
-<small>[3] Bu başlık 16/5/1953 tarih ve 4/808 sayılı Bakanlar Kurulu Kararı ile değiştirilmiş şeklidir.</small>
+<small>[3] <i>Bu başlık 16/5/1953 tarih ve 4/808 sayılı Bakanlar Kurulu Kararı ile değiştirilmiş şeklidir.</i></small>
 
-<small>[4] Bu başlık 16/5/1953 tarih ve 4/808 sayılı Bakanlar Kurulu Kararıyla değiştirilmiş şeklidir.</small>
+<small>[4] <i>Bu başlık 16/5/1953 tarih ve 4/808 sayılı Bakanlar Kurulu Kararıyla değiştirilmiş şeklidir.</i></small>
 
-<small>[5] Bu başlık 17/8/1974 tarih ve 7/8803 sayılı Bakanlar Kurulu Kararı ile değiştirilmiş şeklidir.</small>
+<small>[5] <i>Bu başlık 17/8/1974 tarih ve 7/8803 sayılı Bakanlar Kurulu Kararı ile değiştirilmiş şeklidir.</i></small>
 
-<small>[6] Tüzüğün orjinal metninde onaltıcı bölüm iken 4/6/1974 tarih ve 7/8369 sayılı Bakanlar Kurulu Kararı ile onyedinci bölüm olarak değiştirilmiştir.</small>
+<small>[6] <i>Tüzüğün orjinal metninde onaltıcı bölüm iken 4/6/1974 tarih ve 7/8369 sayılı Bakanlar Kurulu Kararı ile onyedinci bölüm olarak değiştirilmiştir.</i></small>
 
-<small>[7] Bu madde ile ilgili yönetmelik 17/6/1974 tarih ve 14918 sayılı Resmi Gazete'de yayımlanmıştır.</small>
+<small>[7] <i>Bu madde ile ilgili yönetmelik 17/6/1974 tarih ve 14918 sayılı Resmi Gazete'de yayımlanmıştır.</i></small>
 
-<small>[8] Bu madde ile ilgili yönetmelik 17/6/1974 tarih ve 14918 sayılı Resmi Gazete'de yayımlanmıştır.</small>
+<small>[8] <i>Bu madde ile ilgili yönetmelik 17/6/1974 tarih ve 14918 sayılı Resmi Gazete'de yayımlanmıştır.</i></small>
 
-<small>[9] Tüzüğün orjinal metninde yirmi altıncı bölüm iken 4/6/1974 tarih ve 7/8369 sayılı Bakanlar Kurulu Kararı ile yirmi yedinci bölüm olarak değiştirilmiştir.</small>
+<small>[9] <i>Tüzüğün orjinal metninde yirmi altıncı bölüm iken 4/6/1974 tarih ve 7/8369 sayılı Bakanlar Kurulu Kararı ile yirmi yedinci bölüm olarak değiştirilmiştir.</i></small>
 
-<small>[10] Bu başlık 16/5/1953 tarih ve 4/808 sayılı 4/808 sayılı Bakanlar Kurulu Kararı ile değiştirilmiştir şeklidir.</small>
+<small>[10] <i>Bu başlık 16/5/1953 tarih ve 4/808 sayılı 4/808 sayılı Bakanlar Kurulu Kararı ile değiştirilmiştir şeklidir.</i></small>
 
-<small>[11] Tüzüğün orjinal metninde yirmi sekizinci bölüm iken 4/6/1974 tarih ve7/8369 sayılı Bakanlar Kurulu Kararı ile yirmi dokuzuncu bölüm olarak değiştirilmiştir.</small>
+<small>[11] <i>Tüzüğün orjinal metninde yirmi sekizinci bölüm iken 4/6/1974 tarih ve7/8369 sayılı Bakanlar Kurulu Kararı ile yirmi dokuzuncu bölüm olarak değiştirilmiştir.</i></small>
 
-<small>[12] Bu bölümün başlığı "Oyuncaklar ve Kullanılacak Eşya” iken, 28/10/2004 tarihli ve 2004/8061 sayılı Bakanlar Kurulu Kararının Eki Tüzüğün 9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[12] <i>Bu bölümün başlığı "Oyuncaklar ve Kullanılacak Eşya” iken, 28/10/2004 tarihli ve 2004/8061 sayılı Bakanlar Kurulu Kararının Eki Tüzüğün 9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[13] Bu arada yer alan “oyuncak maskeler” ibaresi, 28/10/2004 tarihli ve 2004/8061 sayılı Bakanlar Kurulu Kararının Eki Tüzüğün 9 uncu maddesiyle madde metninden çıkarılmıştır.</small>
+<small>[13] <i>Bu arada yer alan “oyuncak maskeler” ibaresi, 28/10/2004 tarihli ve 2004/8061 sayılı Bakanlar Kurulu Kararının Eki Tüzüğün 9 uncu maddesiyle madde metninden çıkarılmıştır.</i></small>
 
-<small>[14] Bu bölüm 21/4/1971 - 7/2235 sayılı Bakanlar Kurulu Kararı ile eklenmiştir.</small>
+<small>[14] <i>Bu bölüm 21/4/1971 - 7/2235 sayılı Bakanlar Kurulu Kararı ile eklenmiştir.</i></small>

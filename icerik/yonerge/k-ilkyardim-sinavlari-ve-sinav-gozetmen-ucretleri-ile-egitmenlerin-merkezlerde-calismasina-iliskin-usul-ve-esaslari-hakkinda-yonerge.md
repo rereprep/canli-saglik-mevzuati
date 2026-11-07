@@ -172,7 +172,7 @@ a) Eğitim süresince eğitim merkezinde bulunmak zorundadır.
 
 b)Başka bir iş kolunda ve tam zamanlı çalışamaz.
 
-c)Denetimlerde merkezde bulunmak ve Denetim Ekibine yardımcı olmakla mükelleftir.
+c)Denetimlerde merkezde bulunmak ve **Denetim** Ekibine yardımcı olmakla mükelleftir.
 
 (2)Kamu personeli olarak çalışan eğitmenler mesul müdürlük yapamaz.
 
@@ -192,7 +192,7 @@ b)Tutanak altına alınan eksikliklerin ve uygunsuzlukların giderilmesi için m
 
 ## ALTINCI BÖLÜM
 
-Eğitim veSınav Ücretleri
+**Eğitim veSınav Ücretleri**
 
 #### Eğitim ücretlerinin belirlenmesi ve sınavda gözetmen olanlara ücret ödenmesi
 
@@ -222,6 +222,6 @@ katsayısı) X %....... ) formülüne göre hesaplar.
 
 #### Yürürlük
 
-**MADDE 17 –** (1)Bu Yönerge Onay tarihinden itibarenyürürlüğe girer. Yürütme
+**MADDE 17 –** (1)Bu Yönerge Onay tarihinden itibarenyürürlüğe girer. **Yürütme**
 
 **MADDE 18 –** (1)Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

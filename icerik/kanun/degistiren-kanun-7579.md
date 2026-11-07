@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/05/20260522-1.htm"
 durum: "yürürlükte"
 ---
 
-22 Mayıs 2026 CUMA KANUN TAPU KANUNU İLE BAZI KANUNLARDA VE 375 SAYILI KANUN
-HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+22 Mayıs 2026 CUMA **KANUN TAPU KANUNU İLE BAZI KANUNLARDA VE 375 SAYILI KANUN**
+**HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7579 Kabul Tarihi: 7/5/2026
 
 MADDE 1- 22/12/1934 tarihli ve 2644 sayılı Tapu Kanununa aşağıdaki ek madde eklenmiştir.

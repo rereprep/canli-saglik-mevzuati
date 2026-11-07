@@ -9,15 +9,15 @@ durum: "yürürlükte"
 
 ## Sözleşmeli Sağlık Personeli Atama ve Nakil Yönetmeliği
 
-R.G. Tarihi:02.09.2003 R.G. Sayısı:25217
+**R.G. Tarihi:02.09.2003 R.G. Sayısı:25217**
 
 ## BİRİNCİ BÖLÜM Genel Hükümler
 
 #### AmaçveKapsam
 
-**Madde 1 –** Bu Yönetmelik Sağlık Bakanlığı ve bağlı kuruluşlarında 10/7/2003 tarihli ve 4924 sayılı Kanuna göre istihdam edilecek sözleşmeli sağlık personelinin atama ve nakline ilişkin usul ve esasları belirlemek amacıyla düzenlenmiştir. HukukiDayanak
+**Madde 1 –** Bu Yönetmelik Sağlık Bakanlığı ve bağlı kuruluşlarında 10/7/2003 tarihli ve 4924 sayılı Kanuna göre istihdam edilecek sözleşmeli sağlık personelinin atama ve nakline ilişkin usul ve esasları belirlemek amacıyla düzenlenmiştir. **HukukiDayanak**
 
-**Madde 2 –** Bu Yönetmelik, 10/7/2003 tarihli ve 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması İle Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 4 üncü maddesine dayanılarak ve Devlet Personel Başkanlığının uygun görüşü alınmak suretiyle hazırlanmıştır. Tanımlar
+**Madde 2 –** Bu Yönetmelik, 10/7/2003 tarihli ve 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması İle Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 4 üncü maddesine dayanılarak ve Devlet Personel Başkanlığının uygun görüşü alınmak suretiyle hazırlanmıştır. **Tanımlar**
 
 **Madde 3 –** Bu Yönetmelikte geçen;
 
@@ -51,7 +51,7 @@ c) Kuraların yaptırılması, kura sonucu yerleştirmeler ve kuraya yapılacak 
 
 #### d) Sınav ve kuraya ilişkin Bakanlıkça verilecek diğer görevleri yapmak. İl Sınav ve Kura Komisyonu
 
-**Madde 6 –** Sözleşmeli personel pozisyonlarına atama yapılacak illerde vali veya görevlendireceği bir vali yardımcısının başkanlığında, toplam beş üyeden oluşan İl Sınav ve Kura Komisyonu kurulur. Ancak, Bakanlık en az iki üye ile İl Sınav ve Kura Komisyonunda temsil edilir. Bakanlık bağlı kuruluşlarına sözleşmeli personel yerleştirilecek illerde İl Sınav ve Kura Komisyonunda Bakanlık ve bağlı kuruluş en az birer üye ile temsil edilir. İl Sınav ve Kura Komisyonu kararları oy çokluğuyla alınır. İl Sınav ve Kura Komisyonunun sekreterya işlemleri il sağlık müdürlüklerince yürütülür. İl Sınav ve Kura Komisyonunun Görevleri
+**Madde 6 –** Sözleşmeli personel pozisyonlarına atama yapılacak illerde vali veya görevlendireceği bir vali yardımcısının başkanlığında, toplam beş üyeden oluşan İl Sınav ve Kura Komisyonu kurulur. Ancak, Bakanlık en az iki üye ile İl Sınav ve Kura Komisyonunda temsil edilir. Bakanlık bağlı kuruluşlarına sözleşmeli personel yerleştirilecek illerde İl Sınav ve Kura Komisyonunda Bakanlık ve bağlı kuruluş en az birer üye ile temsil edilir. İl Sınav ve Kura Komisyonu kararları oy çokluğuyla alınır. İl Sınav ve Kura Komisyonunun sekreterya işlemleri il sağlık müdürlüklerince yürütülür. **İl Sınav ve Kura Komisyonunun Görevleri**
 
 **Madde 7 –** İl Sınav ve Kura Komisyonunun görevleri şunlardır:
 
@@ -87,9 +87,9 @@ h) Norm pozisyon sayısında değişiklik olması, sözleşmeli personel pozisyo
 
 ı) Herhangi bir sosyal güvenlik kurumundan emeklilik veya yaşlılık aylığı alanlar sözleşmeli personel olarak istihdam edilemezler.
 
-i) Atamalar hususunda tereddüt hasıl olan konularda Merkez Sınav ve Kura Komisyonunun görüşü doğrultusunda işlem yapılır. Atama Şartları
+i) Atamalar hususunda tereddüt hasıl olan konularda Merkez Sınav ve Kura Komisyonunun görüşü doğrultusunda işlem yapılır. **Atama Şartları**
 
-**Madde 9 –** Sözleşmeli personel olarak atanacakların; İl Sınav ve Kura Komisyonuna sınav ve kura sonucu atanmak için başvurdukları tarih itibariyle, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartlar ile 4924 sayılı Kanuna ekli (1) sayılı cetvelde belirtilen niteliklere sahip olmaları şarttır. Bunun yanında Bakanlık, sözleşmeli personel olarak atanacaklar için, istihdam edilecek unvan ve hizmet biriminin gerektirdiği özel koşulları ve istenecek ilave belgeleri ayrıca belirleyebilir. Atanacaklardan İstenecek Belgeler
+**Madde 9 –** Sözleşmeli personel olarak atanacakların; İl Sınav ve Kura Komisyonuna sınav ve kura sonucu atanmak için başvurdukları tarih itibariyle, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartlar ile 4924 sayılı Kanuna ekli (1) sayılı cetvelde belirtilen niteliklere sahip olmaları şarttır. Bunun yanında Bakanlık, sözleşmeli personel olarak atanacaklar için, istihdam edilecek unvan ve hizmet biriminin gerektirdiği özel koşulları ve istenecek ilave belgeleri ayrıca belirleyebilir. **Atanacaklardan İstenecek Belgeler**
 
 **Madde 10 –** Bakanlık tarafından istenebilecek ilave bilgi ve belgeler dışında, sözleşmeli personel pozisyonlarına atanacaklardan aşağıdaki belgeler istenir;
 
@@ -117,29 +117,29 @@ i) İkametgah belgesi.
 
 #### Sınava İlişkin Usul ve Esaslar
 
-**Madde 11 –** Sınavın içeriği, yapılacağı tarih, yapılacak yer ve zaman, duyurulması, sınavda yer alacak konular, testler ve bunların ağırlıklı puan türleri ve hesaplama yöntemi, başvuru yapacakların öğrenim düzeyleri, adayların nereye ve nasıl başvuracakları, sınav sonuçlarının adaylara bildirilmesine ilişkin esaslar ile yerleştirme ve sınava ilişkin diğer usul ve esaslar Bakanlık ile Bakanlığın sınav yaptıracağı kurum tarafından müştereken belirlenerek, Bakanlığın sınavı yaptıracağı kurum tarafından sınav kılavuzuyla ilan edilir. Sınav ihtiyaca göre yılda bir kez yapılabilir. Sınava halen ve daha önce Devlet memuru veya sözleşmeli personel olarak çalışanlarla, diğer personel kanunlarına tabi olarak çalışanlar da katılabilir. Sınav Duyurusu
+**Madde 11 –** Sınavın içeriği, yapılacağı tarih, yapılacak yer ve zaman, duyurulması, sınavda yer alacak konular, testler ve bunların ağırlıklı puan türleri ve hesaplama yöntemi, başvuru yapacakların öğrenim düzeyleri, adayların nereye ve nasıl başvuracakları, sınav sonuçlarının adaylara bildirilmesine ilişkin esaslar ile yerleştirme ve sınava ilişkin diğer usul ve esaslar Bakanlık ile Bakanlığın sınav yaptıracağı kurum tarafından müştereken belirlenerek, Bakanlığın sınavı yaptıracağı kurum tarafından sınav kılavuzuyla ilan edilir. Sınav ihtiyaca göre yılda bir kez yapılabilir. Sınava halen ve daha önce Devlet memuru veya sözleşmeli personel olarak çalışanlarla, diğer personel kanunlarına tabi olarak çalışanlar da katılabilir. **Sınav Duyurusu**
 
-**Madde 12 –** Sınav yapacak kurum; sınava başvuru tarihi ve başvurunun ne şekilde ve nereye yapılacağı ile diğer hususları Resmi Gazetede ve ülke genelinde günlük olarak yayınlanan en az üç gazetede ilan vermek suretiyle duyurur. Sınav Kılavuzu
+**Madde 12 –** Sınav yapacak kurum; sınava başvuru tarihi ve başvurunun ne şekilde ve nereye yapılacağı ile diğer hususları Resmi Gazetede ve ülke genelinde günlük olarak yayınlanan en az üç gazetede ilan vermek suretiyle duyurur. **Sınav Kılavuzu**
 
-**Madde 13 –** Sınav kılavuzunda; sınav başvurusu, sınav değerlendirme işlemlerine ilişkin gerekli bilgi ve kurallar ile, personel atanması planlanan hizmet birimlerine ve unvanlara göre dağılımı yapılmış sözleşmeli personel pozisyonları ve bu pozisyonlara atanacaklarda bulunması gereken nitelikler ve adayların sınav öncesi bilmesinde yararlı olabilecek diğer bilgiler yer alır. Sınavın Yapılması
+**Madde 13 –** Sınav kılavuzunda; sınav başvurusu, sınav değerlendirme işlemlerine ilişkin gerekli bilgi ve kurallar ile, personel atanması planlanan hizmet birimlerine ve unvanlara göre dağılımı yapılmış sözleşmeli personel pozisyonları ve bu pozisyonlara atanacaklarda bulunması gereken nitelikler ve adayların sınav öncesi bilmesinde yararlı olabilecek diğer bilgiler yer alır. **Sınavın Yapılması**
 
-**Madde 14 –** Sınav, Bakanlığın uygun göreceği kurum tarafından yapılır. Sınav başvurularının alınması, sınavın uygulanması ve değerlendirilmesi ile sınav sonucu yerleştirme işlemleri, bu kurum tarafından gerçekleştirilir. Sınavın Geçerlilik Süresi
+**Madde 14 –** Sınav, Bakanlığın uygun göreceği kurum tarafından yapılır. Sınav başvurularının alınması, sınavın uygulanması ve değerlendirilmesi ile sınav sonucu yerleştirme işlemleri, bu kurum tarafından gerçekleştirilir. **Sınavın Geçerlilik Süresi**
 
-**Madde 15 –** Sınav sonuçları; bir sözleşmeli personel pozisyonundan diğer bir sözleşmeli personel pozisyonuna naklen atanacaklar ile sözleşmeli personel pozisyonlarına yeniden atanacaklar için sınav sonuçlarının ilan tarihinden itibaren beş yıl süre ile, sözleşmeli personel pozisyonlarına ilk defa atanacaklar için iki yıl süre ile geçerlidir. Bu süre içinde, öğrenim durumları değişenler veya sözleşmeli personel olarak çalışmaktayken sınavla atanması öngörülen farklı bir sözleşmeli personel pozisyonu unvanına atanmak isteyenler, yeniden sınava girmek zorundadırlar. Sınavın geçerlilik süresi içinde, aynı öğrenim durumuyla yeniden sınava girilmesi halinde, yüksek puan alınmış sınav sonucu ve bu sınavın geçerlilik süresi dikkate alınır. Kuraya İlişkin Usul ve Esaslar (30.10.2003 Tarih ve 25274 Sayılı Resmi Gazete ile ilave ve ek Paragraf eklenmiştir.) Madde 16 — Hizmet birimleri ve unvanlar itibariyle dağılımı yapılmış sözleşmeli personel pozisyonları ile kura için başvuru yapılacak yer ve zaman Bakanlık tarafından ilan edilir. Kuraya halen ve daha önce Devlet memuru ve sözleşmeli personel olarak çalışanlar ile diğer personel kanunlarına tabi olarak çalışanlar da katılabilir. Kuraya başvuracaklar, Bakanlığın ilan ettiği hizmet birimleri ve unvanlar itibariyle dağılımı yapılmış sözleşmeli personel pozisyonları arasından "en çok üç " tercihte bulunabileceklerdir. Tercih edilen pozisyonlara birden fazla istekli olması halinde bu kişiler arasında Merkez Sınav ve Kura Komisyonunun huzurunda kura çekilir. Bu şekilde belirtilen tercihler, ilgililer açısından kazanılmış bir hak doğurmaz. Tercihlerine yerleştirilemeyen adaylar, istekleri halinde tercih edilmeyen boş pozisyonlara genel kurayla yerleştirilir. Uzman tabiplere her bir uzmanlık dalı için, diğerlerinde ise her bir unvan için ayrı kura işlemleri yapılır. Her kura işlemi için iki torba hazırlanır. Torbalardan birine, hizmet birimlerinin ayrı ayrı yer aldığı pusulalar konur. Diğer torbaya da, atanacakların adları, adresleri, mezun oldukları fakülteler ile mezuniyet tarih ve derecelerinin ayrı ayrı yer aldığı pusulalar konur. Torbaların ihtiva ettikleri pusula sayısı tutanakla tespit edilerek kura çekimine başlanır. Önce görev alacakların torbasından kura çekilerek, çıkan isim ve bu isme ait pusuladaki bilgiler listeye yazılır ve sonra hizmet birimlerini gösteren torbadan kura çekilerek çıkan hizmet birimi bu ismin hizasına yazılır. Adaylar, istedikleri takdirde, kuralarını bizzat çekebilirler. Kura çekimi tamamlandıktan sonra, isimlerin ve hizmet birimlerinin eşleştirildiği liste ayrı bir tutanak ile Merkez Sınav ve Kura Komisyonu üyelerine imzalatılır. Kura sonuçları, kuranın sonuçlanmasından itibaren en geç 3 gün içinde Bakanlık tarafından ilan edilecektir. “Bakanlık isterse kuraları bilgisayar ortamında gerçekleştirebilir. Kuraların bilgisayar ortamında yapılması halinde, kura işlemleri ve sonuçları kurayı yapan birim tarafından onaylanarak bir tutanakla Merkez Sınav ve Kura Komisyonuna teslim edilir.”
+**Madde 15 –** Sınav sonuçları; bir sözleşmeli personel pozisyonundan diğer bir sözleşmeli personel pozisyonuna naklen atanacaklar ile sözleşmeli personel pozisyonlarına yeniden atanacaklar için sınav sonuçlarının ilan tarihinden itibaren beş yıl süre ile, sözleşmeli personel pozisyonlarına ilk defa atanacaklar için iki yıl süre ile geçerlidir. Bu süre içinde, öğrenim durumları değişenler veya sözleşmeli personel olarak çalışmaktayken sınavla atanması öngörülen farklı bir sözleşmeli personel pozisyonu unvanına atanmak isteyenler, yeniden sınava girmek zorundadırlar. Sınavın geçerlilik süresi içinde, aynı öğrenim durumuyla yeniden sınava girilmesi halinde, yüksek puan alınmış sınav sonucu ve bu sınavın geçerlilik süresi dikkate alınır. **Kuraya İlişkin Usul ve Esaslar (30.10.2003 Tarih ve 25274 Sayılı Resmi Gazete ile ilave ve ek Paragraf eklenmiştir.) Madde 16** — Hizmet birimleri ve unvanlar itibariyle dağılımı yapılmış sözleşmeli personel pozisyonları ile kura için başvuru yapılacak yer ve zaman Bakanlık tarafından ilan edilir. Kuraya halen ve daha önce Devlet memuru ve sözleşmeli personel olarak çalışanlar ile diğer personel kanunlarına tabi olarak çalışanlar da katılabilir. Kuraya başvuracaklar, Bakanlığın ilan ettiği hizmet birimleri ve unvanlar itibariyle dağılımı yapılmış sözleşmeli personel pozisyonları arasından **"en çok üç "** tercihte bulunabileceklerdir. Tercih edilen pozisyonlara birden fazla istekli olması halinde bu kişiler arasında Merkez Sınav ve Kura Komisyonunun huzurunda kura çekilir. Bu şekilde belirtilen tercihler, ilgililer açısından kazanılmış bir hak doğurmaz. Tercihlerine yerleştirilemeyen adaylar, istekleri halinde tercih edilmeyen boş pozisyonlara genel kurayla yerleştirilir. Uzman tabiplere her bir uzmanlık dalı için, diğerlerinde ise her bir unvan için ayrı kura işlemleri yapılır. Her kura işlemi için iki torba hazırlanır. Torbalardan birine, hizmet birimlerinin ayrı ayrı yer aldığı pusulalar konur. Diğer torbaya da, atanacakların adları, adresleri, mezun oldukları fakülteler ile mezuniyet tarih ve derecelerinin ayrı ayrı yer aldığı pusulalar konur. Torbaların ihtiva ettikleri pusula sayısı tutanakla tespit edilerek kura çekimine başlanır. Önce görev alacakların torbasından kura çekilerek, çıkan isim ve bu isme ait pusuladaki bilgiler listeye yazılır ve sonra hizmet birimlerini gösteren torbadan kura çekilerek çıkan hizmet birimi bu ismin hizasına yazılır. Adaylar, istedikleri takdirde, kuralarını bizzat çekebilirler. Kura çekimi tamamlandıktan sonra, isimlerin ve hizmet birimlerinin eşleştirildiği liste ayrı bir tutanak ile Merkez Sınav ve Kura Komisyonu üyelerine imzalatılır. Kura sonuçları, kuranın sonuçlanmasından itibaren en geç 3 gün içinde Bakanlık tarafından ilan edilecektir. **“Bakanlık isterse kuraları bilgisayar ortamında gerçekleştirebilir. Kuraların bilgisayar ortamında yapılması halinde, kura işlemleri ve sonuçları kurayı yapan birim tarafından onaylanarak bir tutanakla Merkez Sınav ve Kura Komisyonuna teslim edilir.”**
 
 ## BEŞİNCİ BÖLÜM Yerleştirme ve Atama
 
 #### Yerleştirme Usul ve Esasları
 
-**Madde 17 –** Sınav ve kura sonucu; bir sözleşmeli personel pozisyonundan diğer bir sözleşmeli personel pozisyonuna naklen veya unvan değişikliği suretiyle atanmak üzere yerleştirmeler yılda bir kez, ilk defa ve yeniden atanmak üzere sözleşmeli personel pozisyonlarına yerleştirmeler yılda en fazla üç kez yapılabilir. Naklen atamalara ilişkin yerleştirme işlemleri; ilk defa, yeniden ve unvan değişikliği suretiyle atamalara ilişkin yerleştirme işlemlerinden önce gerçekleştirilir. Naklen atamalara ilişkin yerleştirme işlemleri tamamlandıktan sonra, yerleştirme yapılamayan boş pozisyonlar, daha sonra yapılacak yerleştirmelerde ilan edilir. Sınav sonuçlarına göre yapılacak yerleştirme işlemleri için; hizmet birimleri ve unvanlara göre dağılımı yapılmış sözleşmeli personel pozisyonlarına ilişkin tercih formu, sınavı yapan kurum tarafından hazırlanarak, sınava başvuru esnasında veya sınav sonuçlarının açıklanmasından sonra adaylara ulaştırılır. Sınava girmiş adaylar; istihdam edilmek istedikleri pozisyonları tercih formuna yazarak kodlarlar ve sınav kılavuzunda belirtilen şekilde teslim ederler. Sınava giren adaylar, sınav puanları ve tercihleri göz önünde bulundurulmak suretiyle yerleştirilir. Yerleştirme işlemlerinde, diğer koşullar saklı kalmak kaydıyla, yerleştirmenin yapıldığı tarihte aynı adaya ait geçerlilik süresi bitmeyen sınavlardan alınan en yüksek puan dikkate alınır. Aynı puanı alan birden fazla aday varsa bunlardan diploma tarihi itibariyle önce mezun olmuş olana, bunun da aynı olması halinde yaşı büyük olana öncelik tanınır. Sınav sonucunda yerleştirilenlerin, atanmak için teslim etmeleri gereken belgeler ile teslim edecekleri yerler, sınavı yapan kurum tarafından adaylara duyurulur. Yerleştirme başvurularında adayların beyanları esas alınır. Adaylardan başvuru esnasında, pozisyonların koşullarına ilişkin herhangi bir belge istenmez. Yerleştirilenlerin Başvurması ve Atanması
+**Madde 17 –** Sınav ve kura sonucu; bir sözleşmeli personel pozisyonundan diğer bir sözleşmeli personel pozisyonuna naklen veya unvan değişikliği suretiyle atanmak üzere yerleştirmeler yılda bir kez, ilk defa ve yeniden atanmak üzere sözleşmeli personel pozisyonlarına yerleştirmeler yılda en fazla üç kez yapılabilir. Naklen atamalara ilişkin yerleştirme işlemleri; ilk defa, yeniden ve unvan değişikliği suretiyle atamalara ilişkin yerleştirme işlemlerinden önce gerçekleştirilir. Naklen atamalara ilişkin yerleştirme işlemleri tamamlandıktan sonra, yerleştirme yapılamayan boş pozisyonlar, daha sonra yapılacak yerleştirmelerde ilan edilir. Sınav sonuçlarına göre yapılacak yerleştirme işlemleri için; hizmet birimleri ve unvanlara göre dağılımı yapılmış sözleşmeli personel pozisyonlarına ilişkin tercih formu, sınavı yapan kurum tarafından hazırlanarak, sınava başvuru esnasında veya sınav sonuçlarının açıklanmasından sonra adaylara ulaştırılır. Sınava girmiş adaylar; istihdam edilmek istedikleri pozisyonları tercih formuna yazarak kodlarlar ve sınav kılavuzunda belirtilen şekilde teslim ederler. Sınava giren adaylar, sınav puanları ve tercihleri göz önünde bulundurulmak suretiyle yerleştirilir. Yerleştirme işlemlerinde, diğer koşullar saklı kalmak kaydıyla, yerleştirmenin yapıldığı tarihte aynı adaya ait geçerlilik süresi bitmeyen sınavlardan alınan en yüksek puan dikkate alınır. Aynı puanı alan birden fazla aday varsa bunlardan diploma tarihi itibariyle önce mezun olmuş olana, bunun da aynı olması halinde yaşı büyük olana öncelik tanınır. Sınav sonucunda yerleştirilenlerin, atanmak için teslim etmeleri gereken belgeler ile teslim edecekleri yerler, sınavı yapan kurum tarafından adaylara duyurulur. Yerleştirme başvurularında adayların beyanları esas alınır. Adaylardan başvuru esnasında, pozisyonların koşullarına ilişkin herhangi bir belge istenmez. **Yerleştirilenlerin Başvurması ve Atanması**
 
-**Madde 18 –** Sınav ve kura sonucu yerleştirmesi yapılanlar, yerleştirildiklerine dair sonuç belgesinde veya sonuçlara ilişkin ilanda belirtilen belgelerle birlikte, belirtilen süre içinde, atanmak üzere ilgili İl Sınav ve Kura Komisyonuna başvururlar. İl Sınav ve Kura Komisyonu, yerleştirilen adaylara ait belgeleri inceleyerek şartları tutan adayların atamalarının yapılmasını sağlar. Atamayı, Bakan veya Bakanın ilde yetkili kıldığı amir yapar. Bakanlık bağlı kuruluşlarına alınacak sözleşmeli personelin atamasını, ilgili bağlı kuruluşun Genel Müdürü yapar. Ancak, atama için öngörülen koşullara uymayan veya gerekli belgeleri süresi içinde teslim etmeyen adayların atamaları yapılmaz. Bu durumda olanlar ile yerleştirme sonucunda atamaları yapıldığı halde belirtilen süre içinde göreve başlamayanlar, göreve başlamaları gereken tarihten itibaren bir yıl boyunca sözleşmeli personel olarak atanamazlar. Hak İddia Edilemeyecek Durumlar
+**Madde 18 –** Sınav ve kura sonucu yerleştirmesi yapılanlar, yerleştirildiklerine dair sonuç belgesinde veya sonuçlara ilişkin ilanda belirtilen belgelerle birlikte, belirtilen süre içinde, atanmak üzere ilgili İl Sınav ve Kura Komisyonuna başvururlar. İl Sınav ve Kura Komisyonu, yerleştirilen adaylara ait belgeleri inceleyerek şartları tutan adayların atamalarının yapılmasını sağlar. Atamayı, Bakan veya Bakanın ilde yetkili kıldığı amir yapar. Bakanlık bağlı kuruluşlarına alınacak sözleşmeli personelin atamasını, ilgili bağlı kuruluşun Genel Müdürü yapar. Ancak, atama için öngörülen koşullara uymayan veya gerekli belgeleri süresi içinde teslim etmeyen adayların atamaları yapılmaz. Bu durumda olanlar ile yerleştirme sonucunda atamaları yapıldığı halde belirtilen süre içinde göreve başlamayanlar, göreve başlamaları gereken tarihten itibaren bir yıl boyunca sözleşmeli personel olarak atanamazlar. **Hak İddia Edilemeyecek Durumlar**
 
 **Madde 19 –** Sınavda yüksek puan almış olmak, sözleşmeli personel olarak atanmak için tek başına bir hak teşkil etmez. Yanlış, yanıltıcı veya yalan beyanda bulunanlar ile başvuruda ve tercih formunda kodlanmayan, yanlış kodlanan veya tutarsızlık bulunan bilgiler yüzünden yerleştirmesi yapılmayan veya daha alt tercihlere yerleştirilen adaylar, bu durumdan dolayı bir hak iddia edemezler. Sözleşmeli personel olarak atanabilmek için öngörülen şartlardan herhangi birini taşımadığı anlaşılan adaylar, atanmış olsalar bile sözleşmeleri feshedilerek yerleştirmeden doğan tüm haklarını kaybederler.
 
-**Geçici Madde 1 –** 657 sayılı Devlet Memurları Kanununa tabi olarak Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri sınıfındaki kadrolarda çalışmakta olan personelden 4924 sayılı Kanunun Geçici 1 inci maddesi çerçevesinde Bakanlığın belirleyeceği şekilde başvuruda bulunanlar, bu Yönetmelik hükümlerine göre sınavsız ve kura ile sözleşmeli personel pozisyonlarında istihdam edilebilirler. Yürürlük
+**Geçici Madde 1 –** 657 sayılı Devlet Memurları Kanununa tabi olarak Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri sınıfındaki kadrolarda çalışmakta olan personelden 4924 sayılı Kanunun Geçici 1 inci maddesi çerçevesinde Bakanlığın belirleyeceği şekilde başvuruda bulunanlar, bu Yönetmelik hükümlerine göre sınavsız ve kura ile sözleşmeli personel pozisyonlarında istihdam edilebilirler. **Yürürlük**
 
-**Madde 20 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme
+**Madde 20 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer. **Yürütme**
 
 **Madde 21 –** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
@@ -155,13 +155,13 @@ i) İkametgah belgesi.
 
 **MADDE 2 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-Sözleşmeli Sağlık Personeli Disiplin ile Disiplin Kurulları Hakkında
+**Sözleşmeli Sağlık Personeli Disiplin ile Disiplin Kurulları Hakkında**
 
 ### Yönetmelik
 
-Resmi Gazete Tarih: 27 Nisan 2004 Sayı:25445
+**Resmi Gazete Tarih: 27 Nisan 2004 Sayı:25445**
 
 #### Amaç
 
@@ -229,19 +229,19 @@ Yüksek Disiplin Kurulu, sözleşmenin feshini gerektiren fiil ve hallerin işle
 
 ### Sözleşmeli Sağlık Personeli Ücretlerine İlişkin Esaslar (31.10.2003 tarih ve 22774 sayılı Bakan Oluru)
 
-Amaç Madde –1 Bu Esasların amacı, 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanuna tabi sözleşmeli sağlık personelinin ücretlerine ilişkin esasları düzenlemektedir. Kapsam
+**Amaç Madde –1** Bu Esasların amacı, 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanuna tabi sözleşmeli sağlık personelinin ücretlerine ilişkin esasları düzenlemektedir. **Kapsam**
 
-**Madde 2 –** Bu Esaslar, Sağlık Bakanlığı ve bağlı kuruluşlarında 4924 sayılı Kanun hükümleri çerçevesinde istihdam edilecek sözleşmeli sağlık personeli hakkında uygulanır. Dayanak
+**Madde 2 –** Bu Esaslar, Sağlık Bakanlığı ve bağlı kuruluşlarında 4924 sayılı Kanun hükümleri çerçevesinde istihdam edilecek sözleşmeli sağlık personeli hakkında uygulanır. **Dayanak**
 
-**Madde 3 –** Bu Esaslar, 4924 sayılı Kanunun 6 ncı maddesine dayanılarak hazırlanmıştır. Tanım
+**Madde 3 –** Bu Esaslar, 4924 sayılı Kanunun 6 ncı maddesine dayanılarak hazırlanmıştır. **Tanım**
 
-**Madde 4 –** Bu Esaslarda geçen sözleşmeli personel; 4924 sayılı Kanuna ekli (I) sayılı cetvelde belirtilen pozisyon unvanlarından birinde görev yapan personeli ifade etmektedir. Ücretlere ilişkin esaslar
+**Madde 4 –** Bu Esaslarda geçen sözleşmeli personel; 4924 sayılı Kanuna ekli (I) sayılı cetvelde belirtilen pozisyon unvanlarından birinde görev yapan personeli ifade etmektedir. **Ücretlere ilişkin esaslar**
 
-**Madde 5 –** a) Sözleşmeli personel ücretleri; Devlet Planlama Teşkilatı Müsteşarlığı tarafından hazırlanan “İlçelerin Sosyo-Ekonomik Gelişmişlik Sıralaması” ( İllere Göre Sıralanmış Liste | İlçelere Göre Sıralanmış Liste ) adlı çalışmada yer alan gruplar ile 4924 sayılı Kanunun eki (2) sayılı cetvelde belirtilen unvanlar ve öğrenim durumlarına göre tespit edilmiş taban ve tavan ücret esas alınarak, ekte yer alan “ Sözleşmeli Personel Ücret Oran Tablosu I ” ve “ Sözleşmeli Personel Ücret Oran Tablosu II ” deki oranlar itibariyle belirlenmiştir.
+**Madde 5 –** a) Sözleşmeli personel ücretleri; Devlet Planlama Teşkilatı Müsteşarlığı tarafından hazırlanan “**İlçelerin Sosyo-Ekonomik Gelişmişlik Sıralaması” (** İllere Göre Sıralanmış Liste | İlçelere Göre Sıralanmış Liste ) adlı çalışmada yer alan gruplar ile 4924 sayılı Kanunun eki (2) sayılı cetvelde belirtilen unvanlar ve öğrenim durumlarına göre tespit edilmiş taban ve tavan ücret esas alınarak, ekte yer alan “ **Sözleşmeli Personel Ücret Oran Tablosu I ”** ve “ **Sözleşmeli Personel Ücret Oran Tablosu II ”** deki oranlar itibariyle belirlenmiştir.
 
-b) “ Sözleşmeli Personel Ücret Oran Tablosu I ” ve “ Sözleşmeli Personel Ücret Oran Tablosu II ” de belirlenmiş sözleşmeli personel ücret oranları üzerinden hesaplanmak üzere, her grupta; bu oranların , beş yıla kadar (beş yıl dahil) hizmeti olanlara %96'sı, beş ile on beş yıl kadar (on beş yıl dahil) hizmeti olanlara %98'i ve 15 yıldan fazla hizmeti olanlara ise %100'ü ücret olarak ödenir.
+**b) “ Sözleşmeli Personel Ücret Oran Tablosu I ”** ve “ **Sözleşmeli Personel Ücret Oran Tablosu** II ” de belirlenmiş sözleşmeli personel ücret oranları üzerinden hesaplanmak üzere, her grupta; bu oranların , beş yıla kadar (beş yıl dahil) hizmeti olanlara %96'sı, beş ile on beş yıl kadar (on beş yıl dahil) hizmeti olanlara %98'i ve 15 yıldan fazla hizmeti olanlara ise %100'ü ücret olarak ödenir.
 
-c) Devlet Planlama Teşkilatı Müsteşarlığı tarafından hazırlanan “İlçelerin Sosyo-Ekonomik Gelişmişlik Sıralaması” adlı çalışmada yer almayan ilçelerde bulunan hizmet birimlerinde istihdam edilen sözleşmeli personelin ücretleri; bu ilçeler söz konusu çalışmada yer alınana kadar, önceden yer alınan grubun ücreti esas alınarak tespit edilecektir.
+c) Devlet Planlama Teşkilatı Müsteşarlığı tarafından hazırlanan “**İlçelerin Sosyo-Ekonomik Gelişmişlik Sıralaması”** adlı çalışmada yer almayan ilçelerde bulunan hizmet birimlerinde istihdam edilen sözleşmeli personelin ücretleri; bu ilçeler söz konusu çalışmada yer alınana kadar, önceden yer alınan grubun ücreti esas alınarak tespit edilecektir.
 
 d) Sözleşmeli personele, yapılacak ödemeler, çalışmayı takip eden ay sonunda yapılacaktır.
 
@@ -249,9 +249,9 @@ e) Sözleşmeli personele, aylık sözleşme ücreti dışında görev yaptıkla
 
 f) Sözleşmeli personele, Devlet memurlarına ödenen aile, doğum, ölüm yardımları ödeneği verilir ve bu personel 657 sayılı Kanunun 209, 210, 211 ve 212 nci maddelerindeki yardım ve haklardan yararlandırılır.
 
-g) En az (B) sınıfı ehliyeti olup da sözleşmeleri gereği asli görevinin yanında sürekli ambulans şoförlüğü de yapan Sağlık Teknikeri (Acil Tıp Teknikeri) ve Sağlık Memuru (Acil Tıp Teknisyeni) unvanlı sözleşmeli personele almakta bulundukları sözleşme ücretlerinin %10'u her ay sözleşme ücretlerine ilave olarak ödenir. Yürürlük
+g) En az (B) sınıfı ehliyeti olup da sözleşmeleri gereği asli görevinin yanında sürekli ambulans şoförlüğü de yapan Sağlık Teknikeri (Acil Tıp Teknikeri) ve Sağlık Memuru (Acil Tıp Teknisyeni) unvanlı sözleşmeli personele almakta bulundukları sözleşme ücretlerinin %10'u her ay sözleşme ücretlerine ilave olarak ödenir. **Yürürlük**
 
-**Madde 6 –** Bu Esaslar Sağlık Bakanının onayını müteakiben yürürlüğe girer. Yürütme
+**Madde 6 –** Bu Esaslar Sağlık Bakanının onayını müteakiben yürürlüğe girer. **Yürütme**
 
 **Madde 7 –** Bu Esasları Sağlık Bakanı yürütür.
 
@@ -259,4 +259,4 @@ g) En az (B) sınıfı ehliyeti olup da sözleşmeleri gereği asli görevinin y
 
 **Dipnotlar**
 
-<small>MADDE 3 —Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.</small>
+<small>**MADDE 3 —**Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.</small>

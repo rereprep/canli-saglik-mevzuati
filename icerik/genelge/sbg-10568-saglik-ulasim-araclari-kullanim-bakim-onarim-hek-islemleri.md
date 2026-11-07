@@ -8,13 +8,13 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10568/saglik-ulasim-araclari-kullanim-
 durum: "yürürlükte"
 ---
 
-T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Dairesi Başkanlığı
+**T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Dairesi Başkanlığı**
 
-SAYI : B100İMİ0000007/824-99/2437 KONU : Genelge.
+**SAYI :** B100İMİ0000007/824-99/2437 **KONU :** Genelge.
 
 ### GENELGE
 
-2003–47
+**2003–47**
 
 Bakanlığımız Sağlık Kurum ve Kuruluşları bünyesinde yürütülen sağlık hizmetlerinin kaliteli ve süratli bir şekilde sevk ve organizasyonunun sağlanması, bütçe kaynaklarının verimli kullanılması ve dengeli dağıtılması, envanter kayıtlarının doğru tutulması ile mümkün olacaktır.
 

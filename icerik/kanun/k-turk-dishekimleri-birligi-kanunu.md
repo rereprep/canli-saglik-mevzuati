@@ -16,17 +16,17 @@ durum: "yürürlükte"
 
 ### TÜRK DİŞ HEKİMLERİ BİRLİĞİ KANUNU
 
-Kanun Numarası : 3224
+**Kanun Numarası : 3224**
 
-Kabul Tarihi : 7/6/1985
+**Kabul Tarihi : 7/6/1985**
 
-Yayımlandığı Resmî Gazete : Tarih : 25/6/1985 Sayı : 18792
+**Yayımlandığı Resmî Gazete : Tarih : 25/6/1985 Sayı : 18792**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 24 Sayfa : 491
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 24 Sayfa : 491**
 
 ### BİRİNCİ KISIM
 
-Genel Hükümler
+**Genel Hükümler**
 
 #### Amaç ve kapsam
 
@@ -46,13 +46,13 @@ c) " Bakanlık" Sağlık ve Sosyal Yardım Bakanlığını,
 
 ### İKİNCİ KISIM
 
-Odalar
+**Odalar**
 
 #### Odaların kuruluş amaçları, nitelikleri ve faaliyet sınırı
 
 **Madde 3 –** Odalar, bu Kanunda yazılı esaslar uyarınca diş hekimliği mesleğine mensup olanların müşterek ihtiyaçlarını karşılamak, mesleki faaliyetlerini kolaylaştırmak, bu mesleğin genel menfaatlere uygun olarak gelişmesini sağlamak, meslek mensuplarının birbirleri ve hastaları ile olan ilişkilerinde dürüstlüğü ve güveni hakim kılmak üzere meslek disiplini ve ahlakını korumak maksadı ile kurulan tüzelkişiliğe sahip kamu kurumu niteliğinde meslek kuruluşlardır.
 
-(Değişik : 18/6/1997 - 4276/14 md.) Odalar, kuruluş amaçları dışında faaliyette bulunamazlar.
+**(Değişik : 18/6/1997 - 4276/14 md.)** Odalar, kuruluş amaçları dışında faaliyette bulunamazlar.
 
 #### Odaların kuruluşu
 
@@ -100,7 +100,7 @@ e) Gündemindeki diğer konuları görüşüp karara bağlamak,
 
 f) Kanunlarla verilen diğer görevleri yerine getirmek.
 
-(İptal ikinci fıkra: Anayasa Mahkemesi’nin 27/10/2011 tarihli ve E.: 2011/55, K.: 2011/146 sayılı Kararı ile.)
+**(İptal ikinci fıkra: Anayasa Mahkemesi’nin 27/10/2011 tarihli ve E.: 2011/55, K.: 2011/146 sayılı Kararı ile.)**
 
 #### Oda Genel Kurulunun toplantıları
 
@@ -150,7 +150,7 @@ d) Diş Hekimliği ile ilgili mevzuatın ve meslek kurallarının gereği gibi u
 
 e) Diş Hekimlerinin, hastalarla diş hekimleri arasında aracılık yapmayı meslek edinenlerle işbirliği yapmasını, Merkez Yönetim Kurulunca şekli belirlenmiş örneğe uymayan tabelaların kullanılmasını ve her türlü araçla veya kişiyle reklam yapılmasını; meslektaşlar arasında gayrimeşru menfaat sağlanmasını önlemek,
 
-f ) (İptal ikinci fıkra: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile.; Değişik: 12/7/2013-6495/73 md.) Faaliyet alanı içindeki muayene ve tedavi ücretlerine ilişkin rehber tarife teklifi hazırlayarak Birlik Merkez Yönetim Kuruluna göndermek,
+f **) (İptal ikinci fıkra: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile.; Değişik: 12/7/2013-6495/73 md.)** Faaliyet alanı içindeki muayene ve tedavi ücretlerine ilişkin rehber tarife teklifi hazırlayarak Birlik Merkez Yönetim Kuruluna göndermek,
 
 g) Meslek mensuplarının birbirleriyle hastalarla veya hasta sahipleri arasında çıkacak ihtilafları uzlaştırmaya veya hakem usulüne başvurarak çözüme kavuşturmaya çalışmak,
 
@@ -256,7 +256,7 @@ Odaya kayıt ücreti ile üye aidatının yıllık miktarı ve ödeneceği tarih
 
 ### ÜÇÜNCÜ KISIM
 
-Türk Diş Hekimleri Birliği
+**Türk Diş Hekimleri Birliği**
 
 #### Birliğin kuruluşu, amaçları ve nitelikleri
 
@@ -266,9 +266,9 @@ Birliğin merkezi Ankara'dır.
 
 Birlik bu Kanunda yazılı esaslar uyarınca diş hekimliği mesleğine mensup olanların müşterek ihtiyaçlarını karşılamak, mesleki faaliyetlerini kolaylaştırmak, bu mesleğin genel menfaatlere uygun olarak gelişmesini sağlamak, meslek mensuplarının birbirleri ve hastaları ile olan ilişkilerinde dürüstlüğü ve güveni hakim kılmak üzere meslek disiplini ve ahlakını korumak maksadı ile kurulan tüzelkişiliğe sahip kamu kurumu niteliğinde meslek kuruluşudur.
 
-(Değişik:18/6/1997 - 4276/15 md.) Birlik, kuruluş amaçları dışında faaliyette bulunamazlar.
+**(Değişik:18/6/1997 - 4276/15 md.)** Birlik, kuruluş amaçları dışında faaliyette bulunamazlar.
 
-Birliğin organları:
+**Birliğin organları:**
 
 **Madde 20 –** Birliğin organları şunlardır:
 
@@ -348,7 +348,7 @@ c) Birlik Genel Kurul kararlarını uygulamak,
 
 d) Kanuna ve diğer mevzuata uymayan Odaları uyarmak, gerekirse sorumluları Yüksek Disiplin Kuruluna sevk etmek,
 
-e) (İptal ikinci fıkra: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile.; Değişik: 12/7/2013-6495/73 md.) Odaların faaliyet alanı içindeki muayene ve tedavi ücretlerine ilişkin rehber tarife tekliflerini tasdik etmek,
+e) **(İptal ikinci fıkra: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile.; Değişik: 12/7/2013-6495/73 md.)** Odaların faaliyet alanı içindeki muayene ve tedavi ücretlerine ilişkin rehber tarife tekliflerini tasdik etmek,
 
 f) Diş hekimlerinin kullanacakları tabela örneğini tespit etmek, bu örneğe uymayan tabelaların kullanımını ve ilgili mevzuata aykırı ilan ve reklam yapılmasını önlemek,
 
@@ -420,7 +420,7 @@ Geliri giderini karşılamayan Odalara Birlikçe yardım yapılır. Bu yardımı
 
 ### DÖRDÜNCÜ KISIM
 
-Ortak Hükümler
+**Ortak Hükümler**
 
 #### Oda ve Birlik organlarına seçilme yeterliği
 
@@ -430,11 +430,11 @@ a) Türkiye'de diş hekimliği yapmaya hak kazanıp da en az beş yıl mesleğin
 
 b) Oda ve Birlik Disiplin Kurullarınca geçici olarak meslek uygulamasından alıkonma cezası almış olanlar,
 
-c) (Mülga: 23/1/2008-5728/578 md.)
+c) **(Mülga: 23/1/2008-5728/578 md.)**
 
-d) (Mülga: 23/1/2008-5728/578 md.)
+d) **(Mülga: 23/1/2008-5728/578 md.)**
 
-e) (Değişik: 23/1/2008 5728/440 md.) Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle ya da devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, (…) [2] zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi kaçakçılığı veya haksız mal edinme suçlarından hapis cezasına mahkûm olanlar,
+e) **(Değişik: 23/1/2008 5728/440 md.)** Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle ya da devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, (…) [2] zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi kaçakçılığı veya haksız mal edinme suçlarından hapis cezasına mahkûm olanlar,
 
 Seçildikten sonra bu maddede yazılı suçların herhangi birinden mahküm olanların kurul üyelikleri, kendiliğinden sona erer.
 
@@ -480,7 +480,7 @@ Seçimlerin düzen içerisinde ve sağlıklı biçimde yürütülmesi amacıyla 
 
 **Madde 35 –** Bakanlık, Odalar ve Birliğin organları üzerinde idari ve mali yönden gözetim ve denetim hakkına sahiptir.
 
-(Değişik : 18/6/1997 - 4276/16 md.) Amaçları dışında faaliyet gösteren odalar ve Birliğin sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Sağlık Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
+**(Değişik : 18/6/1997 - 4276/16 md.)** Amaçları dışında faaliyet gösteren odalar ve Birliğin sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Sağlık Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
 
 Mahkemece ikinci fıkrada yazılı organların görevlerine son verilmesi halinde kararda ayrıca, görevlerine son verilen organları bu Kanunda yazılı usullere göre seçecek organları toplamak üzere, Oda Yönetim Kurulu için Oda Genel Kurulu üyeleri arasından; Birlik Merkez Yönetim Kurulu için Birlik Genel Kurulu delegeleri arasından beş kişiyi de görevlendirir. Seçim görevlendirilen bu beş kişi tarafından bir ay içinde sonuçlandırılır. Görevlendirilen bu beş kişi bu fıkrada yazılı süre içinde görevlerine son verilen organlar gibi görevli ve yetkili olup aynı şekilde sorumludurlar. Bu fıkra hükmüne göre seçilecek yeni organlar eski organların görev sürelerini tamamlarlar.
 
@@ -488,7 +488,7 @@ Bakanlığın bu Kanun uyarınca Oda veya Birlik organlarının karar ve işleml
 
 Görevlerine son verilen organ üyelerinin Kanunda yazılı ceza sorumlulukları saklıdır. Bu organların yukarıdaki fıkra gereğince görevlerine son verilmesine neden olan tasarrufları hükümsüzdür.
 
-(Değişik : 18/6/1997 - 4276/16 md.) Ancak, milli güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, odalar ile Birlik, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde açıklar, aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.[3]
+**(Değişik : 18/6/1997 - 4276/16 md.)** Ancak, milli güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, odalar ile Birlik, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde açıklar, aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.[3]
 
 #### Odalar ve Birliğin yurt dışında temsili
 
@@ -500,9 +500,9 @@ Görevlerine son verilen organ üyelerinin Kanunda yazılı ceza sorumlulukları
 
 ### BEŞİNCİ KISIM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
-Onur üyeliği:
+**Onur üyeliği:**
 
 **Madde 38 –** Genel sağlık, diş hekimliği mesleği üzerinde yaptığı çalışmalar ve yayımladığı eserler dolayısıyla ülke ve dünya çapında üne kavuşmuş veya diş hekimliği mesleğine, Odalar veya Birliğe maddi ve manevi yardımda bulunmuş kimselere; Birlik Merkez Yönetim Kurulunun, Oda Yönetim Kurullarının teklifine dayanarak veya doğrudan doğruya isteği uyarınca, Birlik Genel Kurulunun kararı ile onur üyeliği payesi verilebilir.
 
@@ -510,7 +510,7 @@ Onur üyeliği payesi verilebilmek için diş hekimi olmak şart değildir.
 
 Onur üyeleri oy hakkı olmaksızın Oda veya Birlik Genel Kurul toplantılarına katılabilirler.
 
-Seçimle ilgili toplantılara katılma ve oy kullanma zorunluluğu:
+**Seçimle ilgili toplantılara katılma ve oy kullanma zorunluluğu:**
 
 **Madde 39 –** Oda veya Birlik Genel Kurullarının seçimle ilgili toplantılarına üye veya Birlik Genel Kurulu delegelerinin katılmaları ve oy kullanmaları zorunlu olup geçerli bir mazereti olmaksızın bu toplantılara katılmayan, katılsa bile oy kullanmayanlara Oda Başkanları tarafından o yıl uygulanan en yüksek muayene ücreti kadar idarî para cezası verilir. Birlik Genel Kurulu delegeleri de iki dönem geçmedikçe Birlik Genel Kurulu delegeliklerine seçilemezler.[4]
 
@@ -530,11 +530,11 @@ Birlik Merkez Yönetim Kurulu, rehber tarife tekliflerini aynen veya gerekli gö
 
 **Madde 42 –** 
 
-(Mülga fıkra:15/11/2018-7151/18 md.)
+**(Mülga fıkra:15/11/2018-7151/18 md.)**
 
-(Mülga fıkra:15/11/2018-7151/18 md.)
+**(Mülga fıkra:15/11/2018-7151/18 md.)**
 
-(Mülga fıkra:15/11/2018-7151/18 md.)
+**(Mülga fıkra:15/11/2018-7151/18 md.)**
 
 Gerek diş hekimleri ve gerekse bunları istihdam eden bütün özel kurum ve işyerleri tayin, nakil, işten ayrılma ve benzeri değişiklikleri en geç bir ay içinde bulundukları yerin Odalarına bildirmeye mecburdurlar.
 
@@ -552,7 +552,7 @@ Türkiye'deki diş hekimliği fakülteleri diploma verdikleri diş hekimlerinin 
 
 **Madde 44 –** (İptal: Anayasa Mahkemesinin 6/11/2025 tarihli ve E.: 2025/232; K.: 2025/216 sayılı Kararı ile.)
 
-Ceza Hükümleri
+**Ceza Hükümleri**
 
 #### Aracı kullanmak, aracılık yapmak ve yetkisiz meslek icrası
 
@@ -623,16 +623,16 @@ Odalar, bu Kanunun yürürlüğe girmesinden sonraki üç ay içinde Oda Genel K
 | 7151 | 42, 46 | 5/12/2018 |
 | Anayasa Mahkemesinin 6/11/2025 tarihli ve E.: 2025/232; K.: 2025/216 sayılı Kararı | 44 | yayımlanmasından başlayarak dokuz ay sonra (14/10/2026) |
 
-<small>[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 100 üncü maddesiyle, bu fıkranın (d) bendinde yer alan “, tüzük ve yönetmeliklere” ibaresi “ve diğer mevzuata” şeklinde, (f) bendinde yer alan “Tıbbi Deontoloji Tüzüğüne” ibaresi “ilgili mevzuata” şeklinde değiştirilmiş ve (h) bendinde yer alan “tüzük ve” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[1] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 100 üncü maddesiyle, bu fıkranın (d) bendinde yer alan “, tüzük ve yönetmeliklere” ibaresi “ve diğer mevzuata” şeklinde, (f) bendinde yer alan “Tıbbi Deontoloji Tüzüğüne” ibaresi “ilgili mevzuata” şeklinde değiştirilmiş ve (h) bendinde yer alan “tüzük ve” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[2] Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile bu bentte yer alan “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, … ” ibaresi iptal edilmiştir.</small>
+<small>[2] <i>Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile bu bentte yer alan “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, … ” ibaresi iptal edilmiştir.</i></small>
 
-<small>[3] Bu fıkra 18/6/1997 tarih ve 4276 sayılı Kanunun 16 ncı maddesiyle altıncı ve yedinci fıkraların birleştirilmesiyle altıncı fıkra olarak düzenlenmiştir.</small>
+<small>[3] <i>Bu fıkra 18/6/1997 tarih ve 4276 sayılı Kanunun 16 ncı maddesiyle altıncı ve yedinci fıkraların birleştirilmesiyle altıncı fıkra olarak düzenlenmiştir.</i></small>
 
-<small>[4] 23/1/2008 tarihli ve 5728 sayılı Kanunun 441 inci maddesiyle ; bu maddede yer alan “kullanmayanlar” ibaresi “kullanmayanlara” ve “para cezası ile cezalandırılırlar.” ibaresi “idarî para cezası verilir.” şeklinde değiştirilmiştir.</small>
+<small>[4] <i>23/1/2008 tarihli ve 5728 sayılı Kanunun 441 inci maddesiyle ; bu maddede yer alan “kullanmayanlar” ibaresi “kullanmayanlara” ve “para cezası ile cezalandırılırlar.” ibaresi “idarî para cezası verilir.” şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] Bu madde başlığı “ Asgari muayene ve tedavi ücretinin tespiti iken” 11/10/2011 tarihli ve 663 sayılı KHK’nin 58 inci maddesiyle “Rehber tarife belirlenmesi “ şeklinde değiştirilmiş, daha sonra bu başlık Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile iptal edilmiş olup, 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle de metne işlendiği şekilde düzenlenmiştir.</small>
+<small>[5] <i>Bu madde başlığı “ Asgari muayene ve tedavi ücretinin tespiti iken” 11/10/2011 tarihli ve 663 sayılı KHK’nin 58 inci maddesiyle “Rehber tarife belirlenmesi “ şeklinde değiştirilmiş, daha sonra bu başlık Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile iptal edilmiş olup, 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle de metne işlendiği şekilde düzenlenmiştir.</i></small>
 
-<small>[6] 15/11/2018 tarihli ve 7151 sayılı Kanunun 18 inci maddesiyle bu madde başlığı “İkinci görev yasağı ve bildirim zorunluluğu” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[6] <i>15/11/2018 tarihli ve 7151 sayılı Kanunun 18 inci maddesiyle bu madde başlığı “İkinci görev yasağı ve bildirim zorunluluğu” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[7] 15/11/2018 tarihli ve 7151 sayılı Kanunun 19 uncu maddesiyle bu maddede yer alan “42 nci maddesinin birinci ve dördüncü fıkralarındaki hükümlere” ibaresi “42 nci maddesine” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>15/11/2018 tarihli ve 7151 sayılı Kanunun 19 uncu maddesiyle bu maddede yer alan “42 nci maddesinin birinci ve dördüncü fıkralarındaki hükümlere” ibaresi “42 nci maddesine” şeklinde değiştirilmiştir.</i></small>

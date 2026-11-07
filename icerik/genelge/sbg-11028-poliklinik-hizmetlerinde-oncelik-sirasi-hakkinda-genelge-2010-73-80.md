@@ -68,6 +68,6 @@ Gereği:
 
 Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğü Mithatpaşa Cad. No:3 (B) Blok Sıhhiye/ANKARA
 
-Şube Tel: 0.312.324 38.07 – Santral: 324.47 99--324 63 89- Dahili: 146-147-148
+Şube Tel: 0.312.324 38.07 – **Santral:** 324.47 99--324 63 89- Dahili: 146-147-148
 
-İnternet sayfası http://sbu.saglik.gov.tr/extras/hastahaklari/giris.html e-posta: hastahaklari@saglik.gov.tr
+İnternet sayfası http://sbu.**saglik.gov.tr**/extras/hastahaklari/giris.html e-posta: hastahaklari@saglik.gov.tr

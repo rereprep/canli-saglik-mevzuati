@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/05/20250530-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-BAZI KANUNLAR İLE 375 SAYILI KANUN HÜKMÜNDE
-KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN**
+**BAZI KANUNLAR İLE 375 SAYILI KANUN HÜKMÜNDE**
+**KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7548 Kabul Tarihi: 21/5/2025
 
 MADDE 1- 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun ek 40 ıncı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.

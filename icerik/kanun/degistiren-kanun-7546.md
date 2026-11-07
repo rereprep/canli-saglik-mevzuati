@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/03/20250330-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN GENÇLİK VE SPOR HİZMETLERİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN GENÇLİK VE SPOR HİZMETLERİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7546 Kabul Tarihi: 27/3/2025
 
 MADDE 1- 21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Hizmetleri Kanununun ek 15 inci maddesi aşağıdaki şekilde değiştirilmiştir.

@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## T.C. SAĞLIK BAKANLIĞI PERSONEL GENEL MÜDÜRLÜĞÜ
 
-16.06.2004-96398 Sayı : B100PER0140000 Konu : Dönem Tayini İşlemleri
+**16.06.2004-96398 Sayı :** B100PER0140000 **Konu :** Dönem Tayini İşlemleri
 
 ### ………………VALİLİĞİNE (Sağlık Müdürlüğü) Genelge No ( 84 )
 
@@ -80,4 +80,4 @@ Gereğini rica ederim.
 
 Prof .Dr. Necdet ÜNÜVAR
 
-Bakan a. DAĞTIM: Müsteşar 81 İL Valiliğine
+Bakan a. **DAĞTIM:** Müsteşar **81 İL Valiliğine**

@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -172,7 +172,7 @@ kk) Tabaklama: Bitkisel tabaklama ajanları, krom tuzları, alüminyum tuzları,
 
 ll) Tavşanımsılar: Tavşanları, yaban tavşanlarını ve kemirgenleri,
 
-mm) (Değişik:RG-17/1/2014-28885) (1) Taze balıkçılık ürünleri: Muhafazasını sağlamak üzere soğutmadan başka herhangi bir işleme tabi tutulmayarak, vakumla veya modifiye atmosferde paketlenmiş ürünler de dahil olmak üzere, bütün veya hazırlanmış ve işlemeye tabi tutulmamış balıkçılık ürünlerini,
+mm) **(Değişik:RG-17/1/2014-28885) (1)** Taze balıkçılık ürünleri: Muhafazasını sağlamak üzere soğutmadan başka herhangi bir işleme tabi tutulmayarak, vakumla veya modifiye atmosferde paketlenmiş ürünler de dahil olmak üzere, bütün veya hazırlanmış ve işlemeye tabi tutulmamış balıkçılık ürünlerini,
 
 nn) Toplayıcı: Hasat edilmiş canlı çift kabuklu yumuşakçaları bir hasat alanından herhangi bir araçla, işleme yeri ve piyasaya arz etme amacıyla toplayan gerçek veya tüzel kişiyi,
 
@@ -188,7 +188,7 @@ ss) Yatırma: Canlı çift kabuklu yumuşakçaların iyi gelişmesi veya semirti
 
 şş) Yatırma alanı: Sınırlarının şamandıralar, kazıklar ve diğer sabit araçlarla kesin olarak işaretlendiği ve canlı çift kabuklu yumuşakçaların yalnızca doğal arıtılmasının yapıldığı herhangi bir deniz veya nehrin açıldığı koy veya lagün alanını,
 
-tt) (Değişik:RG-17/1/2014-28885) (1) Yerel, marjinal ve sınırlı faaliyet: Coğrafi olarak sınırlandırılmış alan içerisinde, günlük, haftalık veya yıllık olarak belirlenmiş miktarları aşmayacak şekilde, belirlenmiş tipteki perakendeci tarafından belirlenmiş hayvansal gıdanın belirlenmiş işletme tipine arzını,
+tt) **(Değişik:RG-17/1/2014-28885) (1)** Yerel, marjinal ve sınırlı faaliyet: Coğrafi olarak sınırlandırılmış alan içerisinde, günlük, haftalık veya yıllık olarak belirlenmiş miktarları aşmayacak şekilde, belirlenmiş tipteki perakendeci tarafından belirlenmiş hayvansal gıdanın belirlenmiş işletme tipine arzını,
 
 uu) Yumurta: Kırık, kuluçkalık veya pişmiş yumurtalar hariç olmak üzere çiftlik kuşları tarafından üretilen ve direkt olarak insan tüketimine veya yumurta ürünlerinin hazırlanmasına uygun kabuklu yumurtayı,
 
@@ -200,7 +200,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Gıda İşletmecisinin Sorumlulukları, Kayıt ve Onay
+**Gıda İşletmecisinin Sorumlulukları, Kayıt ve Onay**
 
 #### Gıda işletmecisinin sorumlulukları
 
@@ -208,7 +208,7 @@ Gıda İşletmecisinin Sorumlulukları, Kayıt ve Onay
 
 (2) Gıda işletmecisi, hayvansal gıdanın yüzeyindeki bulaşmayı ortadan kaldırmak için, içilebilir su veya Gıda Hijyeni Yönetmeliği veya bu Yönetmelikte kullanımına izin verilen temiz su dışında başka bir madde kullanamaz. Ancak bu amaç için, ruhsatlandırılmış veya izin verilmiş maddeler kullanılabilir. Bu maddelerin kullanımı, bu Yönetmeliğin gerekliliklerini yerine getirme konusunda gıda işletmecisinin sorumluluğunu ortadan kaldırmaz.
 
-(3) (Ek:RG-17/1/2014-28885) (1) Gıda işletmecisi, hayvansal dondurulmuş gıdalar söz konusu olduğunda aşağıdaki gerekliliklere uyar.
+(3) **(Ek:RG-17/1/2014-28885) (1)** Gıda işletmecisi, hayvansal dondurulmuş gıdalar söz konusu olduğunda aşağıdaki gerekliliklere uyar.
 
 a)Gıdanın üretim tarihi olarak;
 
@@ -266,7 +266,7 @@ b) Domuzların deri/post/kemiklerinden jelatin ve kolajen üretimi, diğer tür 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Sağlık ve Tanımlama İşareti
+**Sağlık ve Tanımlama İşareti**
 
 #### Sağlık ve tanımlama işareti
 
@@ -278,7 +278,7 @@ Sağlık ve Tanımlama İşareti
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Bazı Hayvansal Gıdalara İlişkin Gereklilikler
+**Bazı Hayvansal Gıdalara İlişkin Gereklilikler**
 
 #### Tanımlama işareti
 
@@ -290,7 +290,7 @@ a) Tanımlama işaretinin uygulanması aşağıdaki şekildedir:
 
 2) Gıda, paketinden ve/veya ambalajından çıkarıldığında veya başka bir tesiste daha ileri düzeyde işlendiğinde gıdaya yeni bir işaret uygulanır. Yeni işarette, bu tür işlemlerin gerçekleştirildiği tesisin onay numarası belirtilir.
 
-3) (Mülga:RG-17/1/2014-28885) (1)
+3) **(Mülga:RG-17/1/2014-28885) (1)**
 
 4) Gıda işletmecisi, 5996 sayılı Kanunun 29 uncu maddesinin birinci fıkrasına uygun olarak hayvansal gıdanın alındığı gıda işletmecisini veya dağıtıcısını tanımlayacak sisteme ve prosedüre sahip olması gerekir.
 
@@ -386,7 +386,7 @@ b) Kesimhane işletmecisi; üreticinin bu maddenin 4 üncü fıkrasının (a), (
 
 ### BEŞİNCİ BÖLÜM
 
-Evcil Tırnaklı Hayvanların Etleri İçin Özel Gereklilikler
+**Evcil Tırnaklı Hayvanların Etleri İçin Özel Gereklilikler**
 
 #### Canlı hayvanların kesimhaneye nakli
 
@@ -430,7 +430,7 @@ d) Şüphelenilerek alıkonulan etlerin soğutularak depolanması ile insan tük
 
 e) Canlı hayvanların nakliyesinde kullanılan araçların temizlenmesi, yıkanması ve dezenfeksiyonu için yeterli imkânlara sahip ayrı bir yer bulunmalıdır. Ancak, Bakanlıkça uygun görülmesi halinde kesimhane yakınında resmi izine sahip olan yerler bu amaç için kullanılabilir. Bu durumda kesimhanenin bu tür yer ve imkânlara sahip olmasına gerek yoktur.
 
-f) (Değişik:RG-17/1/2014-28885) (1) Kesimhaneler, hasta ve şüpheli hayvanların kesimi için ayrılmış, kilitlenebilir imkânlara sahip olmalıdır. Hasta ve şüpheli hayvanların kesimi Bakanlık tarafından bu amaç için izin verilmiş diğer işletmelerde veya normal kesim sürecinin sonunda gerçekleştiriliyorsa bu gereklilik aranmaz.
+f) **(Değişik:RG-17/1/2014-28885) (1)** Kesimhaneler, hasta ve şüpheli hayvanların kesimi için ayrılmış, kilitlenebilir imkânlara sahip olmalıdır. Hasta ve şüpheli hayvanların kesimi Bakanlık tarafından bu amaç için izin verilmiş diğer işletmelerde veya normal kesim sürecinin sonunda gerçekleştiriliyorsa bu gereklilik aranmaz.
 
 g) Gübre veya sindirim kanalı içeriği işletmede depolanacak ise bu amaç için ayrılmış özel bir alan veya yer olmalıdır.
 
@@ -440,9 +440,9 @@ g) Gübre veya sindirim kanalı içeriği işletmede depolanacak ise bu amaç i�
 
 **MADDE 13 –** (1) Gıda işletmecisi, evcil tırnaklı hayvan etlerinin muamele edildiği parçalama tesisinde aşağıdaki gerekliliklere uyar:
 
-a) Etlerin bulaşmasını önlemek üzere özellikle; işlemlerin sürekli ilerlemesine izin verecek veya farklı üretim (Değişik ibare:RG-17/1/2014-28885) (1) partileri arasındaki ayırımı sağlayacak şekilde tesisin inşasını gerçekleştirmelidir.
+a) Etlerin bulaşmasını önlemek üzere özellikle; işlemlerin sürekli ilerlemesine izin verecek veya farklı üretim **(Değişik ibare:RG-17/1/2014-28885) (1)** partileri arasındaki ayırımı sağlayacak şekilde tesisin inşasını gerçekleştirmelidir.
 
-b) (Değişik:RG-17/1/2014-28885) (1) Açık etler ve paketlenmiş etlerin depolanması için ayrı ayrı imkânlar bulunmalıdır. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz.
+b) **(Değişik:RG-17/1/2014-28885) (1)** Açık etler ve paketlenmiş etlerin depolanması için ayrı ayrı imkânlar bulunmalıdır. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz.
 
 c) Bu Yönetmeliğin 15 inci maddesinde belirtilmiş olan gerekliliklere uygunluğu sağlayacak şekilde donatılmış parçalama odalarına sahip olmalıdır.
 
@@ -526,7 +526,7 @@ o) Mide, bağırsak, baş ve ayakların ileri muamelesi yapılacak ise aşağıd
 
 ö) 6 ncı maddenin beşinci fıkrasında yer alan hususlar da dikkate alınarak; farklı hayvan türlerinin kesimi veya çiftlik av hayvanı veya yaban av hayvanların karkaslarının muamelesi için onaylanmış işletmelerde, farklı türler üzerinde yürütülen faaliyetlerin yerini ya da zamanını ayırmak suretiyle çapraz bulaşmayı önlemek için tedbirler alınmalıdır. Yaban av hayvanları ile çiftlikte kesilen derisi yüzülmemiş çiftlik av hayvanlarının karkasının depolanması ve kabulü için ayrı imkânlar sağlanır.
 
-p) (Değişik:RG-17/1/2014-28885) (1) Kesimhanenin hasta ve şüpheli hayvanların kesimi için ayrılmış kilitlenebilir imkanlara sahip olmaması halinde hasta ve şüpheli hayvanların kesimi için kullanılan imkanlar, kesimin tamamlanmasından hemen sonra resmi gözetim altında temizlenir, yıkanır ve dezenfekte edilir.
+p) **(Değişik:RG-17/1/2014-28885) (1)** Kesimhanenin hasta ve şüpheli hayvanların kesimi için ayrılmış kilitlenebilir imkanlara sahip olmaması halinde hasta ve şüpheli hayvanların kesimi için kullanılan imkanlar, kesimin tamamlanmasından hemen sonra resmi gözetim altında temizlenir, yıkanır ve dezenfekte edilir.
 
 #### Parçalama ve kemiklerin ayrılması süresince hijyen
 
@@ -590,11 +590,11 @@ c) Et, nakliyeden önce bu maddenin birinci fıkrasının (a) bendinde açıklan
 
 ç) Dondurulacak etler stabilizasyon periyodunu gerektiren durumlar da dikkate alınarak fazla geciktirilmeden dondurulur.
 
-d) (Değişik:RG-17/1/2014-28885) (1) Açık etler ve paketlenmiş etler ayrı ayrı depolanır ve nakledilir. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz. Bu uygulama nakliye işlemleri için de geçerlidir.
+d) **(Değişik:RG-17/1/2014-28885) (1)** Açık etler ve paketlenmiş etler ayrı ayrı depolanır ve nakledilir. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz. Bu uygulama nakliye işlemleri için de geçerlidir.
 
 ### ALTINCI BÖLÜM
 
-Kanatlı ve Tavşanımsıların Etleri İçin Özel Gereklilikler
+**Kanatlı ve Tavşanımsıların Etleri İçin Özel Gereklilikler**
 
 #### Canlı hayvanların kesimhaneye nakli
 
@@ -638,9 +638,9 @@ f) Veteriner hizmetlerinin kullanımına ayrılmış, yeterli donanıma sahip, k
 
 **MADDE 20 –** (1) Gıda işletmecisi, kanatlı veya tavşanımsıların etlerinin muamele edildiği parçalama tesisinde aşağıdaki gerekliliklere uyar:
 
-a) Etlerin bulaşmasını önlemek üzere özellikle; işlemlerin sürekli ilerlemesine izin verecek veya farklı üretim (Değişik ibare:RG-17/1/2014-28885) (1) partileri arasındaki ayırımı sağlayacak şekilde tesisin inşasını gerçekleştirir.
+a) Etlerin bulaşmasını önlemek üzere özellikle; işlemlerin sürekli ilerlemesine izin verecek veya farklı üretim **(Değişik ibare:RG-17/1/2014-28885) (1)** partileri arasındaki ayırımı sağlayacak şekilde tesisin inşasını gerçekleştirir.
 
-b) (Değişik:RG-17/1/2014-28885) (1) Açık etler ve paketlenmiş etlerin depolanması için ayrı ayrı imkânlar bulunmalıdır. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz.
+b) **(Değişik:RG-17/1/2014-28885) (1)** Açık etler ve paketlenmiş etlerin depolanması için ayrı ayrı imkânlar bulunmalıdır. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz.
 
 c) Bu Yönetmeliğin 22 nci maddesinde belirtilmiş olan gerekliliklere uygunluğu sağlayacak şekilde donatılmış parçalama odalarına sahip olmalıdır.
 
@@ -720,7 +720,7 @@ c) Et mümkün olduğu kadar kısa süre içerisinde parçalanmalı, uygun oldu�
 
 d) Dondurulması amaçlanan kanatlı hayvan ve tavşanımsılardan elde edilen et gecikmeksizin dondurulur.
 
-e) (Değişik:RG-17/1/2014-28885) (1) Açık etler ve paketlenmiş etler ayrı ayrı depolanır ve nakledilir. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz. Bu uygulama nakliye işlemleri için de geçerlidir.
+e) **(Değişik:RG-17/1/2014-28885) (1)** Açık etler ve paketlenmiş etler ayrı ayrı depolanır ve nakledilir. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz. Bu uygulama nakliye işlemleri için de geçerlidir.
 
 #### Çiftlikte kesim
 
@@ -750,7 +750,7 @@ g) Kaz veya ördek karaciğeri üretimi için yetiştirilen kanatlılarda; iç o
 
 ### YEDİNCİ BÖLÜM
 
-Çiftlik Av Hayvanlarının Eti İçin Özel Gereklilikler
+**Çiftlik Av Hayvanlarının Eti İçin Özel Gereklilikler**
 
 #### Çiftlik av hayvanlarının eti
 
@@ -790,7 +790,7 @@ b) Gıda işletmecisinin, hayvanların önlenebilir ağrı, stres veya acıya ne
 
 ### SEKİZİNCİ BÖLÜM
 
-Yaban Av Hayvanı Eti İçin Özel Gereklilikler
+**Yaban Av Hayvanı Eti İçin Özel Gereklilikler**
 
 #### Sağlık ve hijyen hususunda avcıların eğitimi
 
@@ -822,7 +822,7 @@ c) Yaban av hayvanlarının öldürüldükten sonra muamelesi, nakli, iç organl
 
 (4) Büyük yaban av hayvanlarının muamelesi aşağıdaki gerekliliklere uygun olarak yapılır:
 
-a) (Değişik:RG-17/1/2014-28885) (1) Bu maddenin ikinci fıkrasında belirtilen inceleme süresince hayvanda anormal bulgulara rastlanmazsa, öldürülmeden önce anormal davranış gözlenmezse ve şüpheli çevresel bulaşma mevcut değilse, eğitilmiş kişi bu hususları belirten numaralı bir bildirimi hayvanın vücuduna iliştirir. Bu bildirimde ayrıca hayvanın öldürüldüğü gün, zaman ve yer belirtilir. Bildirim, her bir hayvan gövdesini uygun bir şekilde tanımlaması ve her bir hayvan gövdesine karşılık gelen öldürülme günü, zamanı ve yerini kapsayan tanımlama numarasını taşıması halinde birden fazla hayvan gövdesini kapsayabilir. Bu durumda bildirimin hayvanın gövdesine iliştirilmesine gerek yoktur. Tek bir bildirimin kapsadığı tüm hayvan gövdeleri sadece tek bir av hayvanı işleme tesisine gönderilebilir. Bu bentte belirtilen durumlarda baş ve iç organların gövdeye eşlik etmesine gerek yoktur. Ancak domuz türü hayvanlar, tırnaklı hayvanlar ve diğer trichinosis’e duyarlı hayvanlarda uzun azı dişleri hariç baş ve diyafram gövdeye eşlik eder. Avcılar bununla birlikte, belirli kalıntı ve maddelerin izlenmesine imkân vermek üzere mevcut olan diğer ilave kurallara uyarlar.
+a) **(Değişik:RG-17/1/2014-28885) (1)** Bu maddenin ikinci fıkrasında belirtilen inceleme süresince hayvanda anormal bulgulara rastlanmazsa, öldürülmeden önce anormal davranış gözlenmezse ve şüpheli çevresel bulaşma mevcut değilse, eğitilmiş kişi bu hususları belirten numaralı bir bildirimi hayvanın vücuduna iliştirir. Bu bildirimde ayrıca hayvanın öldürüldüğü gün, zaman ve yer belirtilir. Bildirim, her bir hayvan gövdesini uygun bir şekilde tanımlaması ve her bir hayvan gövdesine karşılık gelen öldürülme günü, zamanı ve yerini kapsayan tanımlama numarasını taşıması halinde birden fazla hayvan gövdesini kapsayabilir. Bu durumda bildirimin hayvanın gövdesine iliştirilmesine gerek yoktur. Tek bir bildirimin kapsadığı tüm hayvan gövdeleri sadece tek bir av hayvanı işleme tesisine gönderilebilir. Bu bentte belirtilen durumlarda baş ve iç organların gövdeye eşlik etmesine gerek yoktur. Ancak domuz türü hayvanlar, tırnaklı hayvanlar ve diğer trichinosis’e duyarlı hayvanlarda uzun azı dişleri hariç baş ve diyafram gövdeye eşlik eder. Avcılar bununla birlikte, belirli kalıntı ve maddelerin izlenmesine imkân vermek üzere mevcut olan diğer ilave kurallara uyarlar.
 
 b) Bu fıkranın (a) bendindeki durumlar dışında, uzun azı dişleri ve boynuzlar hariç baş ile mide ve bağırsaklar dışında bütün iç organlar gövdeye eşlik eder. İncelemeyi yapan eğitilmiş kişi, bu fıkranın (a) bendinde belirtilen bildirimi yapmasına engel olan anormal bulgular, anormal davranış veya çevreden bulaşma kuşkusu ile ilgili bilgileri Bakanlığa iletir.
 
@@ -832,7 +832,7 @@ c) Bu maddenin ikinci fıkrasında belirtilen incelemeyi yapacak eğitilmiş ki�
 
 (6) Yaban av hayvanlarının av hayvanı işleme tesisine nakliyesinde, hayvanların üst üste yığılmasından kaçınılır.
 
-(7) (Değişik:RG-17/1/2014-28885) (1) Av hayvanı işleme tesisine getirilen büyük yaban av hayvanları, muayene için resmi veya yetkilendirilmiş veteriner hekime sunulur.
+(7) **(Değişik:RG-17/1/2014-28885) (1)** Av hayvanı işleme tesisine getirilen büyük yaban av hayvanları, muayene için resmi veya yetkilendirilmiş veteriner hekime sunulur.
 
 (8) Buna ilave olarak, derisi yüzülmemiş büyük yaban av hayvanları, sadece aşağıda belirtilen gerekliliklere uyulması şartıyla yüzülür ve piyasaya sunulur:
 
@@ -860,9 +860,9 @@ b) Derisi yüzüldükten sonra Hayvansal Gıdaların Resmi Kontrollerine İlişk
 
 ### DOKUZUNCU BÖLÜM
 
-Kıyma, Hazırlanmış Et Karışımları ve Mekanik Olarak Ayrılmış
+**Kıyma, Hazırlanmış Et Karışımları ve Mekanik Olarak Ayrılmış**
 
-Et İçin Özel Gereklilikler
+**Et İçin Özel Gereklilikler**
 
 #### Üretim tesisleri için gereklilikler
 
@@ -870,7 +870,7 @@ Et İçin Özel Gereklilikler
 
 a) Et ve ürünlerin bulaşmasını önlemek üzere tesisin inşasını, özellikle; işlemlerin sürekli ilerlemesine izin verecek veya farklı ürünlerin üretimi arasındaki ayırımı sağlayacak şekilde gerçekleştirir.
 
-b) (Değişik:RG-17/1/2014-28885) (1) Açık etler, paketlenmiş etler ve ürünlerin depolanması için ayrı ayrı imkânlar bulunmalıdır. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et ve ürünler için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz.
+b) **(Değişik:RG-17/1/2014-28885) (1)** Açık etler, paketlenmiş etler ve ürünlerin depolanması için ayrı ayrı imkânlar bulunmalıdır. Ancak depolamanın, farklı zamanlarda veya paketleme materyali ve depolama şeklinin, et ve ürünler için bulaşma kaynağı olmayacak şekilde yapılması durumunda bu gereklilik aranmaz.
 
 c) Bu Yönetmeliğin 31 inci maddesinde belirtilmiş olan sıcaklıkla ilgili gerekliliklere uygunluğu sağlayacak şekilde donatılmış odalara sahip olmalıdır.
 
@@ -902,7 +902,7 @@ c) MAE üretiminde kullanılan hammadde aşağıdaki gereklilikleri sağlar:
 
 2) Kanatlı hayvanlarda ayaklar, boyun derisi ve baş; kanatlı hayvanlar dışındaki hayvanlarda baş kemikleri, ayaklar, kuyruk, femur, tibia, fibula, humerus, radius ve ulna kemikleri MAE üretiminde hammadde olarak kullanılamaz.
 
-(2) (Mülga:RG-5/12/2012-28488)
+(2) **(Mülga:RG-5/12/2012-28488)**
 
 #### Üretim sırasında ve sonrasında hijyen
 
@@ -930,7 +930,7 @@ c) Kemiklerin yapısında değişikliğe yol açmayan bir teknikle üretilen ve 
 
 3) MAE elde edildikten hemen sonra kullanılmayacak ise, ambalajlanır veya paketlenir ve 2 °C’den yüksek olmayan bir iç sıcaklığa soğutulur veya iç sıcaklıkları –18 °C veya daha düşük sıcaklıklara dondurulur. Bu sıcaklık koşulları depolama ve nakliye boyunca sürdürülür.
 
-4) (Değişik:RG-5/12/2012-28488) MAE, bu Yönetmeliğe göre onaylanan işletmelerde üretilir.
+4) **(Değişik:RG-5/12/2012-28488)** MAE, bu Yönetmeliğe göre onaylanan işletmelerde üretilir.
 
 5) MAE’de kalsiyum içeriği en fazla % 0,1 (100 mg/100gr veya 1000 ppm) oranında olmalıdır.
 
@@ -948,7 +948,7 @@ c) Kemiklerin yapısında değişikliğe yol açmayan bir teknikle üretilen ve 
 
 6) Dondurulmuş MAE ambalajlı veya paketli olarak depolanır ve taşınır. MAE 3 aydan fazla depolanamaz ve taşıma ile depolama süresince –18 ºC veya daha düşük sıcaklıklarda olması sağlanır.
 
-7) (Değişik:RG-5/12/2012-28488) MAE, bu Yönetmeliğe göre onaylanan işletmelerde üretilir.
+7) **(Değişik:RG-5/12/2012-28488)** MAE, bu Yönetmeliğe göre onaylanan işletmelerde üretilir.
 
 8) MAE’de kalsiyum içeriği en fazla % 0,5 (500 mg/100gr veya 5000 ppm) oranında olmalıdır.
 
@@ -964,7 +964,7 @@ e) Kıyma, hazırlanmış et karışımları ve MAE çözündürüldükten sonra
 
 ### ONUNCU BÖLÜM
 
-Et Ürünleri İçin Özel Gereklilikler
+**Et Ürünleri İçin Özel Gereklilikler**
 
 #### Et ürünlerinde hammadde kullanımı
 
@@ -988,7 +988,7 @@ f) Kanatlı hayvanlarda; ibik ve kulaklar, gerdan ve ibik benzeri sarkık et, ba
 
 ### ONBİRİNCİ BÖLÜM
 
-Canlı Çift Kabuklu Yumuşakçalar İçin Özel Gereklilikler
+**Canlı Çift Kabuklu Yumuşakçalar İçin Özel Gereklilikler**
 
 #### Canlı çift kabuklu yumuşakçalar
 
@@ -1172,7 +1172,7 @@ b) Tüm vücutta veya yenilebilen kısımda toplam hesaplanan deniz biyotoksinle
 
 3) Okadaik asit, dinophysis ve pecteno toksinleri toplamı için, okadaik asit eşdeğeri olarak 160 µg /kg.
 
-4) (Değişik:RG-17/1/2014-28885) (1) Yesso toksinler için, yesso toksinin eşdeğeri olarak 3,75 mg/kg.
+4) **(Değişik:RG-17/1/2014-28885) (1)** Yesso toksinler için, yesso toksinin eşdeğeri olarak 3,75 mg/kg.
 
 5) Azaspir asitler için, azaspir asit eşdeğeri olarak 160 µg /kg.
 
@@ -1212,7 +1212,7 @@ c) Gıda kodeksi etiketleme mevzuat hükümleri kapsamında yer alan tavsiye edi
 
 (2) Canlı çift kabuklu yumuşakçalar, perakende satış için paketlendikten veya sevkiyat merkezinden ayrıldıktan sonra, tekrar suya batırılmaz veya üzerlerine su püskürtülmez.
 
-Sınıflandırılmış üretim alanları dışından toplanan pectinidae ve suyu süzerek beslenmeyen deniz karındanbacaklıları için özel gereklilikler
+**Sınıflandırılmış üretim alanları dışından toplanan pectinidae ve suyu süzerek beslenmeyen deniz karındanbacaklıları için özel gereklilikler**
 
 **MADDE 43 –** (1) Sınıflandırılmış üretim alanları dışında Pectinidae ve/veya suyu süzerek beslenmeyen deniz karındanbacaklılarını toplayan veya bunları muamele eden gıda işletmecisi, aşağıdaki gerekliliklere uyar:
 
@@ -1230,7 +1230,7 @@ c) Pectinidae ve suyu süzerek beslenmeyen deniz karındanbacaklıları; balık 
 
 ### ONİKİNCİ BÖLÜM
 
-Balıkçılık Ürünleri İçin Özel Gereklilikler
+**Balıkçılık Ürünleri İçin Özel Gereklilikler**
 
 #### Genel hükümler
 
@@ -1516,9 +1516,9 @@ c) Buz altında muhafaza edilen taze balıkçılık ürünlerinde buzun erimesi 
 
 ### ONÜÇÜNCÜ BÖLÜM
 
-Çiğ Süt, Kolostrum, Süt Ürünleri ve
+**Çiğ Süt, Kolostrum, Süt Ürünleri ve**
 
-Kolostrum Bazlı Ürünler
+**Kolostrum Bazlı Ürünler**
 
 #### Çiğ süt ve kolostrumun birincil üretimine ilişkin gereklilikler
 
@@ -1542,7 +1542,7 @@ d) İzinli veteriner tıbbi ürünleri kullanıldığında, bu ürünler için t
 
 a) Bruselloz açısından çiğ süt ve kolostrum;
 
-1) (Değişik:RG-17/1/2014-28885) (1) Kanun ve 3/4/2009 tarihli ve 27189 sayılı Resmî Gazete’de yayımlanan Bruselloz ile Mücadele Yönetmeliğine göre brusellozdan ari veya resmi olarak ari olan bir sürüye ait inek, manda, koyun, keçilerden elde edilir.
+1) **(Değişik:RG-17/1/2014-28885) (1)** Kanun ve 3/4/2009 tarihli ve 27189 sayılı Resmî Gazete’de yayımlanan Bruselloz ile Mücadele Yönetmeliğine göre brusellozdan ari veya resmi olarak ari olan bir sürüye ait inek, manda, koyun, keçilerden elde edilir.
 
 2) Bruselloz şüpheli diğer tür hayvanlar için, hastalığın düzenli olarak kontrol edildiği sürülere ait hayvanlardan elde edilir.
 
@@ -1718,11 +1718,11 @@ c) Kolostrumun etiketinde “kolostrum” ibaresi,
 
 ### ONDÖRDÜNCÜ BÖLÜM
 
-Yumurta ve Yumurta Ürünleri İçin Özel Gereklilikler
+**Yumurta ve Yumurta Ürünleri İçin Özel Gereklilikler**
 
 #### Yumurta
 
-**MADDE 61 –** (1) (Değişik:RG-17/1/2014-28885) (1)
+**MADDE 61 –** (1) **(Değişik:RG-17/1/2014-28885) (1)**
 
 Yumurtalar, üreticinin tesislerinde ve son tüketiciye arzına kadar, temiz, kuru, dışarıdan gelen kokulardan ari, darbelerden etkin bir biçimde korunacak ve direk güneş ışığına maruz kalmayacak şekilde muhafaza edilir. Yumurtalar, yumurtlama tarihinden itibaren en fazla 21 gün içinde tüketiciye ulaştırılır.
 
@@ -1796,7 +1796,7 @@ b) Sıvı yumurta etiketinde, bu fıkranın (a) bendinde belirtilenlere ilave ol
 
 ### ONBEŞİNCİ BÖLÜM
 
-Kurbağa Bacağı ve Salyangoz İçin Özel Gereklilikler
+**Kurbağa Bacağı ve Salyangoz İçin Özel Gereklilikler**
 
 #### Kurbağa bacağı ve salyangoz
 
@@ -1816,9 +1816,9 @@ e) Öldürmeden sonra, salyangozun hepatopankreası bir tehlike oluşturuyor ise
 
 ### ONALTINCI BÖLÜM
 
-Eritilmiş Hayvan Yağları ve Don Yağı
+**Eritilmiş Hayvan Yağları ve Don Yağı**
 
-Tortusu İçin Özel Gereklilikler
+**Tortusu İçin Özel Gereklilikler**
 
 #### Hammaddeleri toplayan veya işleyen işletmeler için gereklilikler
 
@@ -1872,9 +1872,9 @@ c) 70 °C’den daha yüksek bir sıcaklıkta eritilerek elde edilen ve kütlece
 
 ### ONYEDİNCİ BÖLÜM
 
-İşlenmiş Mide, İdrar Kesesi ve Bağırsaklar
+**İşlenmiş Mide, İdrar Kesesi ve Bağırsaklar**
 
-İçin Özel Hijyen Gereklilikleri
+**İçin Özel Hijyen Gereklilikleri**
 
 #### İşlenmiş mide, idrar kesesi ve bağırsaklar
 
@@ -1892,7 +1892,7 @@ b) Ortam sıcaklığında muhafaza edilemeyen işlem görmüş mideler, idrar ke
 
 ### ONSEKİZİNCİ BÖLÜM
 
-Jelatin İçin Özel Gereklilikler
+**Jelatin İçin Özel Gereklilikler**
 
 #### Jelatin
 
@@ -1966,7 +1966,7 @@ c) Bu fıkranın (a) bendinde belirtilenlerin dışındaki hammaddeler bir veya 
 
 ### ONDOKUZUNCU BÖLÜM
 
-Kollajen İçin Özel Gereklilikler
+**Kollajen İçin Özel Gereklilikler**
 
 #### Kollajen
 
@@ -2032,7 +2032,7 @@ b) Bu fıkranın (a) bendinde belirtilenlerin dışındaki hammaddeler, yıkama,
 
 ### YİRMİNCİ BÖLÜM
 
-Hayvansal Gıdaların İthalatı
+**Hayvansal Gıdaların İthalatı**
 
 #### Hayvansal gıdaların ithalatı
 
@@ -2066,7 +2066,7 @@ c) İthalattan sonra yapılan kontrol; 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
 
 ### YİRMİBİRİNCİ BÖLÜM
 
-Belgeler
+**Belgeler**
 
 #### Belgeler
 
@@ -2076,7 +2076,7 @@ Belgeler
 
 ### YİRMİİKİNCİ BÖLÜM
 
-İstisnai Uygulamalar
+**İstisnai Uygulamalar**
 
 #### İstisnai uygulamalar
 
@@ -2092,7 +2092,7 @@ Belgeler
 
 ### YİRMİÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 
@@ -2100,7 +2100,7 @@ Belgeler
 
 #### Geçiş hükümleri
 
-**GEÇİCİ MADDE 1 –** (1) (Değişik:RG-17/1/2014-28885) (1) 17/12/2011 tarihinden önce çalışma izin belgesi, çalışma izni ve gıda sicili belgesi veya bu belgelere eşdeğer belge alarak faaliyet gösteren gıda işletmecileri, işletmelerini 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda İşletmelerinin Kayıt ve Onay İşlemlerine Dair Yönetmeliğin geçici 1 inci maddesinin birinci fıkrasındaki süre içerisinde bu Yönetmeliğin gerekliliklerine uygun hale getirmek zorundadır.
+**GEÇİCİ MADDE 1 –** (1) **(Değişik:RG-17/1/2014-28885) (1)** 17/12/2011 tarihinden önce çalışma izin belgesi, çalışma izni ve gıda sicili belgesi veya bu belgelere eşdeğer belge alarak faaliyet gösteren gıda işletmecileri, işletmelerini 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda İşletmelerinin Kayıt ve Onay İşlemlerine Dair Yönetmeliğin geçici 1 inci maddesinin birinci fıkrasındaki süre içerisinde bu Yönetmeliğin gerekliliklerine uygun hale getirmek zorundadır.
 
 (2) Halen faaliyette olan gıda işletmeleri bu Yönetmeliğin yayım tarihinden itibaren onay alınıncaya kadar; 27/8/2004 tarihli ve 25566 sayılı Resmî Gazete’de yayımlanan Gıda ve Gıda ile Temas Eden Madde ve Malzemeleri Üreten İşyerlerinin Çalışma İzni ve Gıda Sicili ve Üretim İzni İşlemleri ile Sorumlu Yönetici İstihdamı Hakkında Yönetmeliğin, 5/1/2005 tarihli ve 25691 sayılı Resmî Gazete’de yayımlanan Kırmızı Et ve Et Ürünleri Üretim Çalışma ve Denetleme Usul ve Esaslarına Dair Yönetmeliğin ve 8/1/2005 tarihli ve 25694 sayılı Resmî Gazete’de yayımlanan Kanatlı Hayvan Eti ve Et Ürünleri Üretim Tesislerinin Çalışma ve Denetleme Usul ve Esaslarına Dair Yönetmeliğin bu Yönetmeliğin işletme gerekliliklerine ilişkin hükümlerine aykırı olmayan hükümlerinin uygulanmasına devam edilir.
 
@@ -2110,7 +2110,7 @@ Belgeler
 
 **MADDE 87 –** (1) Bu Yönetmeliğin;
 
-a) (Değişik:RG-31/12/2017-30287) (2) 10 uncu maddesi 31/12/2015 tarihinde, 56 ncı maddesinin birinci fıkrasının (c) bendi, 57 nci maddesinin üçüncü fıkrası ve 85 inci maddesinin dördüncü fıkrası (Değişik ibare:RG-31/12/2023-32416) 31/12/2028 tarihinde,
+a) **(Değişik:RG-31/12/2017-30287) (2)** 10 uncu maddesi 31/12/2015 tarihinde, 56 ncı maddesinin birinci fıkrasının (c) bendi, 57 nci maddesinin üçüncü fıkrası ve 85 inci maddesinin dördüncü fıkrası **(Değişik ibare:RG-31/12/2023-32416)** 31/12/2028 tarihinde,
 
 b) Diğer hükümleri yayımı tarihinde,
 
@@ -2124,13 +2124,13 @@ yürürlüğe girer.
 
 ___________
 
-(1) Bu değişiklik 1/1/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+<i>(1) Bu değişiklik 1/1/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</i>
 
-(2) Bu değişiklik 1/1/2018 tarihinde yürürlüğe girer.
+<i>(2) Bu değişiklik 1/1/2018 tarihinde yürürlüğe girer.</i>
 
-(3) Bu değişiklik 1/1/2020 tarihinde yürürlüğe girer.
+<i>(3) Bu değişiklik 1/1/2020 tarihinde yürürlüğe girer.</i>
 
-(4) Bu değişiklik 1/1/2022 tarihinde yürürlüğe girer.
+<i>(4) Bu değişiklik 1/1/2022 tarihinde yürürlüğe girer.</i>
 
 Yönetmeliğin eklerini görmek için tıklayınız
 

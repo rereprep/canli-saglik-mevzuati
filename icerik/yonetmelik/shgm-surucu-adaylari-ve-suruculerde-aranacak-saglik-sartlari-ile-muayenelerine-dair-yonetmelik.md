@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Dayanak
+**Amaç, Kapsam ve Dayanak**
 
 #### Amaç
 
@@ -28,21 +28,21 @@ Amaç, Kapsam ve Dayanak
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 41 inci maddesinin (Değişik ibare:RG-29/12/2015-29577) ikinci fıkrasına dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 41 inci maddesinin **(Değişik ibare:RG-29/12/2015-29577)** ikinci fıkrasına dayanılarak hazırlanmıştır.
 
 ### İKİNCİ BÖLÜM
 
-Sağlık Muayenesinde Sürücü Adaylarının ve Sürücülerin Sahip Olacakları Sağlık
+**Sağlık Muayenesinde Sürücü Adaylarının ve Sürücülerin Sahip Olacakları Sağlık**
 
-Şartları ile Göz, İç Hastalıkları, Kulak-Burun-Boğaz, Ortopedi, Ruh ve Sinir
+**Şartları ile Göz, İç Hastalıkları, Kulak-Burun-Boğaz, Ortopedi, Ruh ve Sinir**
 
-Hastalıkları Muayenelerine İlişkin Esaslar
+**Hastalıkları Muayenelerine İlişkin Esaslar**
 
-Sürücü adaylarının ve sürücülerin sahip olmaları gereken sağlık şartlarına ve muayenelerine ilişkin genel esaslar
+**Sürücü adaylarının ve sürücülerin sahip olmaları gereken sağlık şartlarına ve muayenelerine ilişkin genel esaslar**
 
 **MADDE 4 –** (Değişik:RG-29/12/2015-29577)
 
-(1) Sürücü ve sürücü adaylarının muayeneleri; Sağlık Bakanlığına ve üniversitelere bağlı sağlık tesisleri, aile sağlığı merkezleri ve Sağlık Bakanlığınca ruhsatlandırılan (Ek ibare:RG-13/6/2020-31154) muayenehane hariç özel sağlık kuruluşlarında görevli tabip veya uzman tabip tarafından bu Yönetmelik hükümlerine göre yapılır ve sağlık raporu düzenlenir. (Ek ibare:RG-13/6/2020-31154) Türk Silahlı Kuvvetleri Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığınca verilen eğitim sonrasında sürücü belgesi alacak personelin sağlık raporları kendi kurum tabipliklerince de verilebilir. Tabiplerce verilen sağlık raporlarında tabibin kaşe ve imzasının bulunması gerekir. Tabiplerce verilen raporların gerçeğe uygun olmadığının tespiti halinde bu raporlar geçersiz sayılır ve sorumlular hakkında Cumhuriyet Başsavcılığına suç duyurusunda bulunulur. Bu tabipler bir daha sürücü adayları ve sürücüler için sağlık raporu veremez. Bu husus Emniyet Genel Müdürlüğüne bildirilir.
+(1) Sürücü ve sürücü adaylarının muayeneleri; Sağlık Bakanlığına ve üniversitelere bağlı sağlık tesisleri, aile sağlığı merkezleri ve Sağlık Bakanlığınca ruhsatlandırılan **(Ek ibare:RG-13/6/2020-31154)** muayenehane hariç özel sağlık kuruluşlarında görevli tabip veya uzman tabip tarafından bu Yönetmelik hükümlerine göre yapılır ve sağlık raporu düzenlenir. **(Ek ibare:RG-13/6/2020-31154)** Türk Silahlı Kuvvetleri Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığınca verilen eğitim sonrasında sürücü belgesi alacak personelin sağlık raporları kendi kurum tabipliklerince de verilebilir. Tabiplerce verilen sağlık raporlarında tabibin kaşe ve imzasının bulunması gerekir. Tabiplerce verilen raporların gerçeğe uygun olmadığının tespiti halinde bu raporlar geçersiz sayılır ve sorumlular hakkında Cumhuriyet Başsavcılığına suç duyurusunda bulunulur. Bu tabipler bir daha sürücü adayları ve sürücüler için sağlık raporu veremez. Bu husus Emniyet Genel Müdürlüğüne bildirilir.
 
 (2) Tabip tarafından, sürücü veya sürücü adayının yapılan genel muayenesinde;
 
@@ -100,11 +100,11 @@ u) Blefarospazm, katarakt, afaki, progresif göz hastalığı,
 
 olup olmadığı yönünde değerlendirme yapılır.
 
-(3) (Değişik:RG-13/6/2020-31154) Tabip tarafından, sürücü/sürücü adayının genel sağlık durumuna ilişkin yazılı beyanı alınarak ikinci fıkrada tanımlanan durumlarının olup olmadığı yönünde ilk muayenesi yapılır. Bu Yönetmeliğe göre sürücülüğe engel hali olmayanlara muayeneyi yapan tabip tarafından uygun rapor verilir. Yapılan muayene sonucunda, sürücülüğe engel hali tespit edilen veya ikinci fıkrada tanımlanan durumlardan bir veya birkaçının olması veya hakkında karar verilemeyen sürücü/sürücü adayının muayene bulguları ve sevke neden olan uzmanlık muayenesi hariç sürücü belgesi alabileceği sağlık raporunda belirtilir ve ilgili uzman tabip/tabiplere gönderilir. İlgili uzman tabip/tabipler tarafından sürücü/sürücü adayının muayenesi yapılarak sağlık raporu verilir. Bu durumda, ilk muayene sonucunu gösteren sağlık raporu ve uzman tabip/tabipler tarafından düzenlenecek sağlık raporu birlikte geçerlidir. Ancak kişinin özel tertibatlı araç kullanması gerektiği durumlarda ilgili uzman tabip/tabipler tarafından sekizinci fıkraya göre işlem yapılır.
+(3) **(Değişik:RG-13/6/2020-31154)** Tabip tarafından, sürücü/sürücü adayının genel sağlık durumuna ilişkin yazılı beyanı alınarak ikinci fıkrada tanımlanan durumlarının olup olmadığı yönünde ilk muayenesi yapılır. Bu Yönetmeliğe göre sürücülüğe engel hali olmayanlara muayeneyi yapan tabip tarafından uygun rapor verilir. Yapılan muayene sonucunda, sürücülüğe engel hali tespit edilen veya ikinci fıkrada tanımlanan durumlardan bir veya birkaçının olması veya hakkında karar verilemeyen sürücü/sürücü adayının muayene bulguları ve sevke neden olan uzmanlık muayenesi hariç sürücü belgesi alabileceği sağlık raporunda belirtilir ve ilgili uzman tabip/tabiplere gönderilir. İlgili uzman tabip/tabipler tarafından sürücü/sürücü adayının muayenesi yapılarak sağlık raporu verilir. Bu durumda, ilk muayene sonucunu gösteren sağlık raporu ve uzman tabip/tabipler tarafından düzenlenecek sağlık raporu birlikte geçerlidir. Ancak kişinin özel tertibatlı araç kullanması gerektiği durumlarda ilgili uzman tabip/tabipler tarafından sekizinci fıkraya göre işlem yapılır.
 
 (4) 2918 sayılı Kanunun 45 inci maddesi kapsamında il sağlık müdürlüğüne sevk edilen sürücüler il sağlık müdürlüğü tarafından; sürücünün bedensel değişikliğinin ortopedik olması halinde; ortopedi ve travmatoloji uzmanı, diğer durumların tespiti halinde ise ilgili branşta uzmanın bulunduğu hastaneye sevk edilir. İlgili uzman tabip/tabipler tarafından yapılan muayene sonucunda sağlık raporu düzenlenir. Bu sağlık raporu, gerek görülmesi halinde ilgili diğer uzman tabip/tabiplerle birlikte muayene ve değerlendirme yapılarak düzenlenir.
 
-(5) (Değişik:RG-13/6/2020-31154) Kişinin, adına düzenlenen rapora itiraz hakkı vardır. Raporlara itiraz usulleri Sağlık Bakanlığınca belirlenir.
+(5) **(Değişik:RG-13/6/2020-31154)** Kişinin, adına düzenlenen rapora itiraz hakkı vardır. Raporlara itiraz usulleri Sağlık Bakanlığınca belirlenir.
 
 (6) Bütün branşlarda yapılacak muayene açısından sürücü belgesi sınıfları aşağıda belirtildiği şekilde iki gruba ayrılır:
 
@@ -114,7 +114,7 @@ b) İkinci grup: C1, C1E, C, CE, D1, D1E, D, DE ve G sınıfları.
 
 (7) Sürücü adayı veya sürücünün sağlık şartları nedeniyle araç kullanması belirli şartlara bağlanmış ise bu şart kod numarası ile birlikte sağlık raporuna yazılır.
 
-(8) (Değişik:RG-13/6/2020-31154) Özel tertibatlı motorlu araç kullanılması gereken durumlarda düzenlenen sağlık raporuna; tanı, sürücü belgesi alabileceği ve özel tertibatlı araç kullanabileceği belirtilerek kod ve sürücü belgesi sınıfı yazılmadan il sağlık müdürlüğü bünyesinde oluşturulacak komisyona sevk edilir. Komisyon valilik tarafından görevlendirilecek il sağlık müdürlüğü görevlisinin başkanlığında kişinin sağlık raporunda belirtilen tanı ile ilgili branş uzmanı/uzmanları, ortopedi ve travmatoloji, fiziksel tıp ve rehabilitasyon, nöroloji uzmanları ve valilikçe kamu kurum/kuruluşlarından veya ilgili meslek odalarından görevlendirilecek bir makine mühendisinden oluşur. İl sağlık müdürlüğü tarafından ihtiyaç duyulması halinde bu Komisyona iç hastalıkları, ruh sağlığı hastalıkları, kulak burun boğaz uzman hekimleri ve elektrik mühendisi dâhil edilebilir. Komisyon valilik tarafından uygun görülen ilçelerde de oluşturulabilir. Komisyon uygun göreceği özel tertibat kod numaralarını, hangi sınıf sürücü belgesi alınabileceğini veya sürücü olunup olunamayacağını sağlık raporunun ilgili bölümünde belirtir. Komisyon tarafından, aracın tadil edilmesini müteakip sürücünün aracı kullanıp kullanamadığı kontrol edilebilir. Komisyon başvuru olması halinde en az ayda bir kere toplanır. Komisyon kararları oy çokluğu ile alınır. Oy eşitliği halinde komisyon başkanının kullandığı oy yönünde çoğunluk sağlanır.
+(8) **(Değişik:RG-13/6/2020-31154)** Özel tertibatlı motorlu araç kullanılması gereken durumlarda düzenlenen sağlık raporuna; tanı, sürücü belgesi alabileceği ve özel tertibatlı araç kullanabileceği belirtilerek kod ve sürücü belgesi sınıfı yazılmadan il sağlık müdürlüğü bünyesinde oluşturulacak komisyona sevk edilir. Komisyon valilik tarafından görevlendirilecek il sağlık müdürlüğü görevlisinin başkanlığında kişinin sağlık raporunda belirtilen tanı ile ilgili branş uzmanı/uzmanları, ortopedi ve travmatoloji, fiziksel tıp ve rehabilitasyon, nöroloji uzmanları ve valilikçe kamu kurum/kuruluşlarından veya ilgili meslek odalarından görevlendirilecek bir makine mühendisinden oluşur. İl sağlık müdürlüğü tarafından ihtiyaç duyulması halinde bu Komisyona iç hastalıkları, ruh sağlığı hastalıkları, kulak burun boğaz uzman hekimleri ve elektrik mühendisi dâhil edilebilir. Komisyon valilik tarafından uygun görülen ilçelerde de oluşturulabilir. Komisyon uygun göreceği özel tertibat kod numaralarını, hangi sınıf sürücü belgesi alınabileceğini veya sürücü olunup olunamayacağını sağlık raporunun ilgili bölümünde belirtir. Komisyon tarafından, aracın tadil edilmesini müteakip sürücünün aracı kullanıp kullanamadığı kontrol edilebilir. Komisyon başvuru olması halinde en az ayda bir kere toplanır. Komisyon kararları oy çokluğu ile alınır. Oy eşitliği halinde komisyon başkanının kullandığı oy yönünde çoğunluk sağlanır.
 
 (9) Sürücü ve araçlara ilişkin kod tablosu İçişleri Bakanlığı, Sağlık Bakanlığı ve Bilim, Sanayi ve Teknoloji Bakanlığınca belirlenerek bu kurumların internet sitesinde yayımlanır. Sürücü adayları ve sürücüler için düzenlenecek Sağlık Raporunun şekli ve içeriği Sağlık Bakanlığı ve İçişleri Bakanlığınca (Emniyet Genel Müdürlüğü) belirlenir.
 
@@ -122,7 +122,7 @@ b) İkinci grup: C1, C1E, C, CE, D1, D1E, D, DE ve G sınıfları.
 
 (11) Bu Yönetmelik kapsamında Sağlık Bakanlığınca Emniyet Genel Müdürlüğüne yapılacak bildirimler alt yapının uygun olması halinde elektronik sistem üzerinden yapılır. Bu durumda ayrıca yazılı olarak bildirimde bulunulmaz. Elektronik sistem üzerinden bildirimin mümkün olmadığı durumlarda bildirimler yazılı olarak sağlık kuruluşları tarafından en yakın trafik tescil kuruluşuna yapılır.
 
-(12) (Ek:RG-13/6/2020-31154) Dış temsilciliklerimiz tarafından alınacak sürücü belgesi başvuru işlemlerinde, başvuru sahibinin ikamet ettiği ülkeden aldığı sürücü olmasında engel durum bulunmadığına dair sağlık raporu geçerli kabul edilir.
+(12) **(Ek:RG-13/6/2020-31154)** Dış temsilciliklerimiz tarafından alınacak sürücü belgesi başvuru işlemlerinde, başvuru sahibinin ikamet ettiği ülkeden aldığı sürücü olmasında engel durum bulunmadığına dair sağlık raporu geçerli kabul edilir.
 
 #### Göz muayenesine ilişkin esaslar
 
@@ -368,15 +368,15 @@ b) Periferik sinir sisteminin etkilenmesi sonucu ortaya çıkan uzuvlarda parezi
 
 c) Epilepsi hastalarına aşağıda sayılan hallerde sadece birinci grup sürücü belgesi sınıfları verilebilir. Bu sürücüler ambulans, resmi veya ticari araç kullanamazlar.
 
-1) (Değişik:RG-30/9/2021-31614) Şuur kaybının olduğu, şuur kaybının olmadığı, uyarılmış veya uyarılmamış epilepsi nöbeti geçiren hastalar, altı aylık periyodlarla nöroloji muayenesi yaptırdıklarını, üç yıl boyunca, ilaçsız veya en fazla iki antiepileptik ilaç kullanır halde iken nöbet geçirmediklerini belgelemeleri hâlinde durumları nöroloji sağlık kurulunda değerlendirilir.
+1) **(Değişik:RG-30/9/2021-31614)** Şuur kaybının olduğu, şuur kaybının olmadığı, uyarılmış veya uyarılmamış epilepsi nöbeti geçiren hastalar, altı aylık periyodlarla nöroloji muayenesi yaptırdıklarını, üç yıl boyunca, ilaçsız veya en fazla iki antiepileptik ilaç kullanır halde iken nöbet geçirmediklerini belgelemeleri hâlinde durumları nöroloji sağlık kurulunda değerlendirilir.
 
-2) (Mülga:RG-30/9/2021-31614)
+2) **(Mülga:RG-30/9/2021-31614)**
 
-3) (Değişik:RG-30/9/2021-31614) İlk veya tek uyarılmamış epilepsi nöbeti geçiren kişilerin altı aylık periyodlarla nöroloji muayenesi yaptırdıklarını, iki yıl boyunca nöbet geçirmediklerini ve antiepileptik ilaçları kullanmadıklarını belgelemeleri hâlinde durumları nöroloji sağlık kurulunda değerlendirilebilir.
+3) **(Değişik:RG-30/9/2021-31614)** İlk veya tek uyarılmamış epilepsi nöbeti geçiren kişilerin altı aylık periyodlarla nöroloji muayenesi yaptırdıklarını, iki yıl boyunca nöbet geçirmediklerini ve antiepileptik ilaçları kullanmadıklarını belgelemeleri hâlinde durumları nöroloji sağlık kurulunda değerlendirilebilir.
 
-4) (Mülga:RG-30/9/2021-31614)
+4) **(Mülga:RG-30/9/2021-31614)**
 
-5) (Mülga:RG-30/9/2021-31614)
+5) **(Mülga:RG-30/9/2021-31614)**
 
 6) Tedavi edici epilepsi cerrahisi uygulanan kişiler (1) numaralı alt bende göre değerlendirilir.
 
@@ -392,7 +392,7 @@ c) Epilepsi hastalarına aşağıda sayılan hallerde sadece birinci grup sürü
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Araçlarda bulundurulması gereken ilk yardım malzemeleri
 
@@ -417,7 +417,7 @@ c) Epilepsi hastalarına aşağıda sayılan hallerde sadece birinci grup sürü
 
 **MADDE 11 –** (1) Bu Yönetmelikte belirtilen hükümlere uymayan sürücüler, 2918 sayılı Karayolları Trafik Kanununun ilgili hükümlerine göre cezalandırılır.
 
-(2)(1) Ayrıca, bu Yönetmelikte belirtilen kural, yasak, zorunluluk ve yükümlüklere uymayan sürücüler araç kullanmaktan men edilir.
+<i>(2)(1) Ayrıca, bu Yönetmelikte belirtilen kural, yasak, zorunluluk ve yükümlüklere uymayan sürücüler araç kullanmaktan men edilir.</i>
 
 #### Düzenleme yetkisi
 
@@ -433,7 +433,7 @@ c) Epilepsi hastalarına aşağıda sayılan hallerde sadece birinci grup sürü
 
 ___________
 
-(1) Danıştay Sekizinci Dairesinin 14/6/2008 tarihli ve 2006/6384 Esas – 2008/3514 Karar sayılı kararı ile bu Yönetmeliğin 5 inci maddesinin onbeşinci fıkrasının (ç) bendinde yer alan (7) ve (8) numaralı düzenlemeler ile 11 inci maddesinin (2) numaralı kısmı iptal edilmiştir. Daha sonra Danıştay İdari Dava Daireleri Kurulunun 4/11/2014 tarihli ve E:2013/2371, K:2014/3445 sayılı Kararı ile; söz konusu Yönetmeliğin 11 inci maddesinin (2) numaralı bendi yönünden reddedilmiş olup, yine aynı Yönetmeliğin 5 inci maddesinin onbeşinci fıkrasının (ç) bendinde yer alan (7) ve (8) numaralı alt bentleri yönünden ise karar düzeltme istemi kabul edilerek Danıştay Sekizinci Dairesinin 14/5/2008 tarihli ve E:2006/6384, K:2008/3514 sayılı Kararı bu kısım yönünden onanmıştır.
+<i>(1) Danıştay Sekizinci Dairesinin 14/6/2008 tarihli ve 2006/6384 Esas – 2008/3514 Karar sayılı kararı ile bu Yönetmeliğin 5 inci maddesinin onbeşinci fıkrasının (ç) bendinde yer alan (7) ve (8) numaralı düzenlemeler ile 11 inci maddesinin (2) numaralı kısmı iptal edilmiştir. Daha sonra Danıştay İdari Dava Daireleri Kurulunun 4/11/2014 tarihli ve E:2013/2371, K:2014/3445 sayılı Kararı ile; söz konusu Yönetmeliğin 11 inci maddesinin (2) numaralı bendi yönünden reddedilmiş olup, yine aynı Yönetmeliğin 5 inci maddesinin onbeşinci fıkrasının (ç) bendinde yer alan (7) ve (8) numaralı alt bentleri yönünden ise karar düzeltme istemi kabul edilerek Danıştay Sekizinci Dairesinin 14/5/2008 tarihli ve E:2006/6384, K:2008/3514 sayılı Kararı bu kısım yönünden onanmıştır.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -443,4 +443,4 @@ ___________
 | 1. | 30/9/2021 | 31614 |
 | 2. |  |  |
 
-(Mülga:RG-29/12/2015-29577) EK-1
+**(Mülga:RG-29/12/2015-29577) EK-1**

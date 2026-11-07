@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/06/20100619-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN BAZI KANUNLARDA VE 190 SAYILI KANUN HÜKMÜNDE
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN** BAZI KANUNLARDA VE 190 SAYILI KANUN HÜKMÜNDE
 KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No: 5997 Kabul Tarihi: 16/6/2010
+Kanun No: 5997 **Kabul Tarihi: 16/6/2010**
 
 MADDE 1 – 30/4/1992 tarihli ve 3797 sayılı Milli Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 "GEÇİCİ

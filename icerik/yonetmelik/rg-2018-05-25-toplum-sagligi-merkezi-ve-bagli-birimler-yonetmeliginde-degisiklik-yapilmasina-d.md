@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-TOPLUM SAĞLIĞI MERKEZİ VE BAĞLI BİRİMLER YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TOPLUM SAĞLIĞI MERKEZİ VE BAĞLI BİRİMLER YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 5/2/2015 tarihli ve 29258 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Toplum Sağlığı Merkezi ve Bağlı Birimler Yönetmeliğinin 1 inci maddesinde yer alan “Türkiye Halk Sağlığı Kurumu” ibaresi “Sağlık Bakanlığı” olarak değiştirilmiştir.
 

@@ -23,7 +23,7 @@ Birimlerinden (VSD) formlarla ve bireysel bazlı olarak toplanmakta, analiz edil
 
 Temel Sağlık İstatistikleri Modülü (TSİM) 01.07.2025 tarihi itibariyle kullanıma kapatıldığından VSD’ler tarafından kullanılan “VSD-17 Aylık Çalışma ve İkmal Raporu”nun Ulusal Tüberküloz Sistemi (UTS)’nde yer alması planlanmıştır. Sisteme girişi yapılan hasta kayıtlarından uygun başlıklara veri gelmesi ile aylık çalışma formunun UTS’de otomatik olarak oluşturulması sağlanacaktır.
 
-Ancak; UTS’de gerekli düzenleme yapılıncaya kadar aylık çalışma formu “Hızlı Veri Toplama Sistemi (HVTS)” üzerinde oluşturulan anket formu ile toplanacaktır. Formun doldurulma mantığında değişiklik yapılmamış olup öncelikle form aynı şekilde hazırlanmalı, formdaki başlıklar anketteki yerlerine girilmelidir (Formdaki başlıkların HVTS’de hangi sorulara karşılık geldiği ekte verilmiştir) TSİM’deki gibi devreden sayılar otomatik geçmediğinden bu sistemde devreden sayıların bir sonraki ayda doğru gösterilmesine dikkat edilmesi gerekmektedir.
+Ancak; UTS’de gerekli düzenleme yapılıncaya kadar aylık çalışma formu “Hızlı Veri Toplama Sistemi (HVTS)” üzerinde oluşturulan anket formu ile toplanacaktır. Formun doldurulma mantığında değişiklik yapılmamış olup öncelikle form aynı şekilde hazırlanmalı, formdaki başlıklar anketteki yerlerine girilmelidir <i>(Formdaki başlıkların HVTS’de hangi sorulara karşılık geldiği ekte verilmiştir)</i> TSİM’deki gibi devreden sayılar otomatik geçmediğinden bu sistemde devreden sayıların bir sonraki ayda doğru gösterilmesine dikkat edilmesi gerekmektedir.
 
 Daire Başkanlığımızca HVTS üzerinde oluşturulan anket formuna (Anket No: 2025-6-592)
 
@@ -31,11 +31,11 @@ hsys.saglik.gov.tr adresinden ulaşılacaktır. Bu kapsamda;
 
 -İlinizde bulunan HSYS il admini tarafından HVTS kullanıcısı tanımlanması,
 
--Dispanserin bölgesine göre İLÇE SM HVTS veya TSM HVTS Kullanıcı Rol Grubu olması,
+-<i>Dispanserin bölgesine göre İLÇE SM HVTS veya TSM HVTS Kullanıcı Rol Grubu olması,</i>
 
--Birden fazla VSD’si olan illerde 1 kullanıcıya ilçe adına göre birden fazla yetki verilebilecektir. Tercihen
+-<i>Birden fazla VSD’si olan illerde 1 kullanıcıya ilçe adına göre birden fazla yetki verilebilecektir. Tercihen</i>
 
-TSİM girişini yapan kullanıcının seçilmesi,
+<i>TSİM girişini yapan kullanıcının seçilmesi,</i>
 
 -Hazırlanan VSD-17 aylık çalışma formun bir örneğinin İl Sağlık Müdürlüğünde muhafaza edilmesi,
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 4.2.1.C-1 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin birinci fıkrasının (a) bendinde yer alan “Romatoid artritli erişkin hastalarda;” ibaresinden sonra gelmek üzere “anti-TNF ilaçlar,” ibaresi ile aşağıdaki alt bent eklenmiştir.

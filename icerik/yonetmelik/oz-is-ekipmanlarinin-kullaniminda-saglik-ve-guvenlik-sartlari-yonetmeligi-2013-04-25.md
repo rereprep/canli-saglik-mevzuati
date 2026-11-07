@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -24,7 +24,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 **MADDE 2 –** (1) Bu Yönetmelik, 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamına giren tüm işyerlerini kapsar.
 
-(2) (Ek:RG-18/2/2022-31754) Bu Yönetmelik;
+(2) **(Ek:RG-18/2/2022-31754)** Bu Yönetmelik;
 
 a) Tehlikeli Malların Karayolu ile Uluslararası Taşımacılığına İlişkin Avrupa Anlaşması (ADR), Tehlikeli Eşyanın Demiryolu ile Uluslararası Taşınmasına İlişkin Yönetmelik (RID), Deniz Yoluyla Taşınan Tehlikeli Yüklere İlişkin Uluslararası Sözleşme (IMDG) ve usulüne göre yürürlüğe konulan benzer sözleşmeler kapsamında bulunan taşınabilir gaz tüpleri, manifoldlu tüp demetleri ve LPG tüplerine,
 
@@ -50,7 +50,7 @@ uygulanmaz.
 
 (1) Bu Yönetmelikte geçen;
 
-a) (Değişik:RG-23/12/2025-33116) Ekipman muayene kuruluşu: İşin yapılmasında kullanılan her türlü makine, alet, ekipman, tesis, teçhizat, cihaz ve koruyucu sistemlerin iş sağlığı ve güvenliği yönünden; mevzuat, ilgili standart ve kontrol kriterlerine uygun kullanımının sağlanması ve sürdürülmesi adına bakım veya muayene, test ve kontrol yapmak üzere Bakanlıkça yetkilendirilen kuruluşları,
+a) **(Değişik:RG-23/12/2025-33116)** Ekipman muayene kuruluşu: İşin yapılmasında kullanılan her türlü makine, alet, ekipman, tesis, teçhizat, cihaz ve koruyucu sistemlerin iş sağlığı ve güvenliği yönünden; mevzuat, ilgili standart ve kontrol kriterlerine uygun kullanımının sağlanması ve sürdürülmesi adına bakım veya muayene, test ve kontrol yapmak üzere Bakanlıkça yetkilendirilen kuruluşları,
 
 b) Azami basınç: Basınçlı kap ve tesisatın üreticisinin belirlediği ve ekipmanın etiketinde yer verdiği en yüksek çalışma basınç değerini,
 
@@ -58,7 +58,7 @@ c) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,
 
 ç) Bakım: İş ekipmanında ve bileşenlerinde yapılan her türlü revizyon, tamir, değişim, ayar, arıza giderme, temizlik ve kalibrasyon işlemlerinden herhangi birisinin veya birkaçının birlikte uygulandığı işlemi,
 
-d) (Değişik:RG-23/12/2025-33116) EKİPNET: Periyodik kontroller ile ilgili tüm iş ve işlemlerin Genel Müdürlükçe kayıt, takip ve izlenmesi amacıyla kullanılan, İSG-KATİP’te yer alan modülü,
+d) **(Değişik:RG-23/12/2025-33116)** EKİPNET: Periyodik kontroller ile ilgili tüm iş ve işlemlerin Genel Müdürlükçe kayıt, takip ve izlenmesi amacıyla kullanılan, İSG-KATİP’te yer alan modülü,
 
 e) Gözle muayene: İş ekipmanının herhangi bir alet veya cihaz kullanılmadan basit yöntemlerle gözle görülebilir kusurlarının belirlenmesini,
 
@@ -88,15 +88,15 @@ o) Tehlikeli bölge: İş ekipmanının bünyesinde veya çevresinde yer alan ve
 
 ö) Test: İş ekipmanlarının yapısal bütünlüğünün, sağlamlığının ve güvenliğinin doğrulanması amacıyla bu Yönetmeliğin, ürünün ilgili standardının ve/veya imalatçının belirlediği teknik kriterlere göre uygulanan deney ve yöntemleri,
 
-p) (Ek:RG-4/2/2024-32450) Genel Müdürlük: İş Sağlığı ve Güvenliği Genel Müdürlüğünü,
+p) **(Ek:RG-4/2/2024-32450)** Genel Müdürlük: İş Sağlığı ve Güvenliği Genel Müdürlüğünü,
 
-r) (Ek:RG-4/2/2024-32450) İSG-KATİP: İş sağlığı ve güvenliği hizmetleri ile ilgili iş ve işlemlerin Genel Müdürlükçe kayıt, takip ve izlenmesi amacıyla kullanılan iş sağlığı ve güvenliği kayıt, takip ve izleme programını,
+r) **(Ek:RG-4/2/2024-32450)** İSG-KATİP: İş sağlığı ve güvenliği hizmetleri ile ilgili iş ve işlemlerin Genel Müdürlükçe kayıt, takip ve izlenmesi amacıyla kullanılan iş sağlığı ve güvenliği kayıt, takip ve izleme programını,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-İşverenlerin Yükümlülükleri
+**İşverenlerin Yükümlülükleri**
 
 #### Genel yükümlülükler
 
@@ -108,7 +108,7 @@ a) İş ekipmanını seçerken işyerindeki özel çalışma şartlarını, sağ
 
 b) İş ekipmanının, çalışanların sağlık ve güvenliği yönünden tamamen tehlikesiz olmasını sağlayamıyorsa, kabul edilebilir risk seviyesine indirecek uygun önlemleri alır.
 
-(3) (Ek:RG-18/2/2022-31754) İ ş ekipmanın geçici süreyle kullanılacak olması, kiralanması veya benzeri durumlar işverenin genel yükümlülüklerini etkilemez.
+(3) **(Ek:RG-18/2/2022-31754) İ** ş ekipmanın geçici süreyle kullanılacak olması, kiralanması veya benzeri durumlar işverenin genel yükümlülüklerini etkilemez.
 
 #### İş ekipmanı ile ilgili kurallar
 
@@ -116,7 +116,7 @@ b) İş ekipmanının, çalışanların sağlık ve güvenliği yönünden tamam
 
 a) 5 inci madde hükmü saklı kalmak kaydıyla, işveren; iş ekipmanının bu Yönetmeliğin EK-I’inde belirlenen asgari gereklere uygun olmasını sağlar.
 
-b) İşveren, iş ekipmanının kullanımı süresince, (Değişik ibare:RG-18/2/2022-31754) gerekli bakımını ve periyodik kontrollerini yaptırarak bu maddenin (a) bendinde belirtilen hususlara uygun durumda olması için gerekli önlemleri alır.
+b) İşveren, iş ekipmanının kullanımı süresince, **(Değişik ibare:RG-18/2/2022-31754)** gerekli bakımını ve periyodik kontrollerini yaptırarak bu maddenin (a) bendinde belirtilen hususlara uygun durumda olması için gerekli önlemleri alır.
 
 (2) İşveren, işyerinde kullanılan iş ekipmanının, EK-II’de belirtilen hususlara uygun güvenlik düzeyinde olmasını sağlar.
 
@@ -128,7 +128,7 @@ b) İşveren, iş ekipmanının kullanımı süresince, (Değişik ibare:RG-18/2
 
 a) Kaldırma iletme ekipmanlarında ve iş makinalarında konstrüksiyon, yük kolu ve benzeri kısımlarda, basınçlı ekipmanlarda ise gövde, kapak ve benzeri kısımlarda; kaynak, kesme, taşlama ve benzeri onarım işlemleri ile halat, zincir ve benzeri askı tertibatı dışında değişim faaliyetleri.
 
-b) Elektrik iç tesisleri ve kuvvetli akım tesislerinde bina bölümlerinde yapılacak ana kolon ve/veya kolon kesitinin değişmesi ve benzeri tesis değişiklikleri ya da esasa ilişkin değişiklikler veya her halükarda (Ek ibare:RG-4/2/2024-32450) en az %20 güç değişikliği yapılması.
+b) Elektrik iç tesisleri ve kuvvetli akım tesislerinde bina bölümlerinde yapılacak ana kolon ve/veya kolon kesitinin değişmesi ve benzeri tesis değişiklikleri ya da esasa ilişkin değişiklikler veya her halükarda **(Ek ibare:RG-4/2/2024-32450)** en az %20 güç değişikliği yapılması.
 
 c) Diğer tüm tesisatlarda her türlü proje değişikliği gerektiren tadilatlar.
 
@@ -140,9 +140,9 @@ c) Diğer tüm tesisatlarda her türlü proje değişikliği gerektiren tadilatl
 
 **MADDE 7 –** (Başlığı ile Birlikte Değişik:RG-18/2/2022-31754)
 
-(1) (Değişik:RG-23/12/2025-33116) EK-III’te bulunan tablolarda yer alan ekipman veya ekipman grupları periyodik kontrole tabidir. Bu iş ekipmanlarının periyodik kontrolleri periyodik kontrolleri yapmaya yetkili kişiler tarafından yapılır. Periyodik kontrollerin gerçekleştirilmesine ilişkin şartlar ile periyodik kontrol sonucunda düzenlenecek belgelerle ilgili usul ve esaslar EK-III’te belirtilmiştir. Ekipman grubunun kapsadığı ve ilgili tabloda standart karşılığı olmayan ekipmanların periyodik kontrolleri EK-III’ün 1.1 inci ve 1.4 üncü maddelerinde yer alan hiyerarşiye göre yapılır.
+(1) **(Değişik:RG-23/12/2025-33116)** EK-III’te bulunan tablolarda yer alan ekipman veya ekipman grupları periyodik kontrole tabidir. Bu iş ekipmanlarının periyodik kontrolleri periyodik kontrolleri yapmaya yetkili kişiler tarafından yapılır. Periyodik kontrollerin gerçekleştirilmesine ilişkin şartlar ile periyodik kontrol sonucunda düzenlenecek belgelerle ilgili usul ve esaslar EK-III’te belirtilmiştir. Ekipman grubunun kapsadığı ve ilgili tabloda standart karşılığı olmayan ekipmanların periyodik kontrolleri EK-III’ün 1.1 inci ve 1.4 üncü maddelerinde yer alan hiyerarşiye göre yapılır.
 
-(2) (Değişik:RG-23/12/2025-33116) İşyerinde kullanılan iş ekipmanının periyodik kontrolü ile ilgili aşağıdaki hususlara uyulur:
+(2) **(Değişik:RG-23/12/2025-33116)** İşyerinde kullanılan iş ekipmanının periyodik kontrolü ile ilgili aşağıdaki hususlara uyulur:
 
 a) İş ekipmanının periyodik kontrolleri;
 
@@ -166,13 +166,13 @@ sağlanır.
 
 c) İşverence, periyodik kontrol sonuçları ıslak imzalı şekilde kayıt altına alınır ve yetkililer her istediğinde gösterilmek üzere uygun şekilde saklanır. 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanununa uygun olarak güvenli elektronik imza ile imzalanmış ve elektronik ortamda saklanan kayıtlar da geçerlidir.
 
-(3) (Değişik:RG-23/12/2025-33116) Kurulum ve montaj şartlarına tabi olmayan seyyar iş ekipmanları işletme dışında kullanıldığında, yapılan son periyodik kontrol ile ilgili rapor da ekipmanla birlikte bulundurulur.
+(3) **(Değişik:RG-23/12/2025-33116)** Kurulum ve montaj şartlarına tabi olmayan seyyar iş ekipmanları işletme dışında kullanıldığında, yapılan son periyodik kontrol ile ilgili rapor da ekipmanla birlikte bulundurulur.
 
 (4) İşveren; periyodik kontrolü yapmaya yetkili kişiler tarafından belirtilen, iş ekipmanının periyodik kontrolleri ile ilgili ön hazırlıkları yapar veya yaptırır. Periyodik kontrol yapmaya yetkili kişi tarafından talep edilmesi halinde, ekipmanın yetkili servisinin periyodik kontrol faaliyetlerine nezaret etmesini sağlar.
 
 (5) Periyodik kontrol raporlarında periyodik kontrolü gerçekleştiren kişiye ait EKİPNET kayıt numarasının bulunması gerekir.
 
-(6) (Ek:RG-4/2/2024-32450) İşveren ile periyodik kontrol yapmaya yetkili kişi arasında periyodik kontrol hizmeti gerçekleştirilmeden en geç 1 gün önce İSG-KATİP sistemindeki örneğine uygun sözleşme düzenlenir ve karşılıklı olarak (Değişik ibare:RG-23/12/2025-33116) onaylanır . (Ek cümle:RG-23/12/2025-33116) EK-III’te yer almaması nedeniyle periyodik kontrol yapılması zorunlu olmayan iş ekipmanlarına yönelik periyodik kontrol yapılması halinde düzenlenen raporlarda şekil ve sözleşme şartı aranmaz.
+(6) **(Ek:RG-4/2/2024-32450)** İşveren ile periyodik kontrol yapmaya yetkili kişi arasında periyodik kontrol hizmeti gerçekleştirilmeden en geç 1 gün önce İSG-KATİP sistemindeki örneğine uygun sözleşme düzenlenir ve karşılıklı olarak **(Değişik ibare:RG-23/12/2025-33116)** onaylanır . **(Ek cümle:RG-23/12/2025-33116)** EK-III’te yer almaması nedeniyle periyodik kontrol yapılması zorunlu olmayan iş ekipmanlarına yönelik periyodik kontrol yapılması halinde düzenlenen raporlarda şekil ve sözleşme şartı aranmaz.
 
 #### Patlayıcı ortamda kullanılan iş ekipmanları
 
@@ -194,11 +194,11 @@ b) Bu ekipmanların tamiri, tadili, kontrolü, bakımı ve hizmete alınması bu
 
 **MADDE 10 –** (1) İşveren, iş ekipmanları ve bunların kullanımına ilişkin olarak çalışanların bilgilendirilmesinde aşağıda belirtilen hususlara uymakla yükümlüdür.
 
-a) Çalışanlara, kullandıkları iş ekipmanına ve bu iş ekipmanın kullanımına ilişkin yeterli bilgi ve uygun olması halinde yazılı talimat verilir. Bu talimat, imalatçı tarafından iş ekipmanıyla birlikte verilen (Ek ibare:RG-18/2/2022-31754) Türkçe kullanım kılavuzu dikkate alınarak hazırlanır. Talimatlar iş ekipmanıyla beraber bulundurulur. Bu bilgiler ve yazılı talimatlar en az aşağıdaki bilgileri içerecek şekilde hazırlanır.
+a) Çalışanlara, kullandıkları iş ekipmanına ve bu iş ekipmanın kullanımına ilişkin yeterli bilgi ve uygun olması halinde yazılı talimat verilir. Bu talimat, imalatçı tarafından iş ekipmanıyla birlikte verilen **(Ek ibare:RG-18/2/2022-31754)** Türkçe kullanım kılavuzu dikkate alınarak hazırlanır. Talimatlar iş ekipmanıyla beraber bulundurulur. Bu bilgiler ve yazılı talimatlar en az aşağıdaki bilgileri içerecek şekilde hazırlanır.
 
 1) İş ekipmanının kullanım koşulları.
 
-2) İş ekipmanında öngörülen anormal durumlar (Ek ibare:RG-18/2/2022-31754) ve önlemler .
+2) İş ekipmanında öngörülen anormal durumlar **(Ek ibare:RG-18/2/2022-31754)** ve önlemler .
 
 3) Bulunması halinde iş ekipmanının önceki kullanım deneyiminden elde edilen sonuçlar.
 
@@ -218,7 +218,7 @@ a) Çalışanlara, kullandıkları iş ekipmanına ve bu iş ekipmanın kullanı
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Periyodik Kontrollere İlişkin Hususlar (3)
+**Periyodik Kontrollere İlişkin Hususlar (3)**
 
 #### Periyodik kontrolleri yapmaya yetkili kişilerin bildirimi
 
@@ -252,13 +252,13 @@ Periyodik Kontrollere İlişkin Hususlar (3)
 
 **MADDE 14/A –** (Ek:RG-18/2/2022-31754)
 
-(1) Periyodik kontrol yapmaya yetkili kişiler ile (Değişik ibare:RG-23/12/2025-33116) ekipman muayene kuruluşları;
+(1) Periyodik kontrol yapmaya yetkili kişiler ile **(Değişik ibare:RG-23/12/2025-33116)** ekipman muayene kuruluşları;
 
-a) (Değişik:RG-23/12/2025-33116) Bakanlık tarafından yayımlanmış iş ekipmanına özgü periyodik kontrol rapor ve kriterleri dokümanlarında belirtilen kriterlere ve bu Yönetmelikte belirtilen usullere uygun gerçekleştirir.
+a) **(Değişik:RG-23/12/2025-33116)** Bakanlık tarafından yayımlanmış iş ekipmanına özgü periyodik kontrol rapor ve kriterleri dokümanlarında belirtilen kriterlere ve bu Yönetmelikte belirtilen usullere uygun gerçekleştirir.
 
 b) Periyodik kontrol raporunu gerçeğe uygun düzenler.
 
-c) (Değişik:RG-23/12/2025-33116) Bakanlık tarafından periyodik kontrol rapor ve kriterleri dokümanı yayımlanmamış iş ekipmanlarının periyodik kontrollerini Yönetmelik EK-III’te belirtilen kriterlere ve bu Yönetmelikte belirtilen usullere uygun gerçekleştirir.
+c) **(Değişik:RG-23/12/2025-33116)** Bakanlık tarafından periyodik kontrol rapor ve kriterleri dokümanı yayımlanmamış iş ekipmanlarının periyodik kontrollerini Yönetmelik EK-III’te belirtilen kriterlere ve bu Yönetmelikte belirtilen usullere uygun gerçekleştirir.
 
 ç) İş ekipmanına uygulanması gereken muayene ve/veya test işlemlerini fiilen gerçekleştirdiğini kayıt altına alarak raporu tanzim eder.
 
@@ -266,21 +266,21 @@ d) Periyodik kontrol esnasında yapılan muayene ve/veya testte tespit edilen he
 
 (2) İş ekipmanının bakımını yapan kişiler, bakımını yaptığı ekipmanın periyodik kontrolünü gerçekleştiremez.
 
-(3) (Değişik:RG-4/2/2024-32450) 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği kapsamında yetkilendirilmiş olan ortak sağlık ve güvenlik birimleri ile bu birimlerde çalışan kişiler periyodik kontrol hizmeti veremez.
+(3) **(Değişik:RG-4/2/2024-32450)** 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği kapsamında yetkilendirilmiş olan ortak sağlık ve güvenlik birimleri ile bu birimlerde çalışan kişiler periyodik kontrol hizmeti veremez.
 
-(4) Birinci, (Değişik ibare:RG-23/12/2025-33116) ikinci veya üçüncü fıkra kapsamında yer alan hükümlere aykırı hareket eden kişilerin yetkisi (Değişik ibare:RG-4/2/2024-32450) bir yıl süreyle askıya alınır. Yetkisi askıya alınan kişiler Bakanlığın internet sitesinde ilân edilir. Askı süresinin sonunda ilgili mevzuat hükümlerine göre yeniden başvuru yapılır. (Mülga cümle:RG-23/12/2025-33116)
+(4) Birinci, **(Değişik ibare:RG-23/12/2025-33116)** ikinci veya üçüncü fıkra kapsamında yer alan hükümlere aykırı hareket eden kişilerin yetkisi **(Değişik ibare:RG-4/2/2024-32450)** bir yıl süreyle askıya alınır. Yetkisi askıya alınan kişiler Bakanlığın internet sitesinde ilân edilir. Askı süresinin sonunda ilgili mevzuat hükümlerine göre yeniden başvuru yapılır. **(Mülga cümle:RG-23/12/2025-33116)**
 
 (5) Yetkili olmayan kişilerce yapılmış periyodik kontroller geçersizdir. Bu kişiler Bakanlığın internet sitesinde ilân edilir. Bu kişilerin yetki başvuruları on yıl süreyle askıya alınır. Bu kişiler hakkında adli makamlara suç duyurusunda bulunulur.
 
 (6) Bu maddede yer alan şartlar 6331 sayılı Kanunun 24 üncü maddesinin birinci veya ikinci fıkrası kapsamında tespit edilir, uygunsuzluklar delilleriyle birlikte İş Sağlığı ve Güvenliği Genel Müdürlüğüne bildirilir. Kamu kurum ve kuruluşları veya kamu kurumu niteliğindeki meslek kuruluşları tarafından tespit edilen periyodik kontrollere ilişkin uygunsuzluklar da delilleriyle birlikte İş Sağlığı ve Güvenliği Genel Müdürlüğüne bildirilir. İş Sağlığı ve Güvenliği Genel Müdürlüğü uygunsuzluklara ilişkin bu madde kapsamında idari yaptırım uygular.
 
-(7) (Ek:RG-4/2/2024-32450) (Değişik ibare:RG-23/12/2025-33116) Ekipman muayene kuruluşları Genel Müdürlük tarafından istenen bilgi ve belgeleri (Mülga ibare:RG-23/12/2025-33116) göndermekle yükümlüdür.
+(7) **(Ek:RG-4/2/2024-32450) (Değişik ibare:RG-23/12/2025-33116)** Ekipman muayene kuruluşları Genel Müdürlük tarafından istenen bilgi ve belgeleri **(Mülga ibare:RG-23/12/2025-33116)** göndermekle yükümlüdür.
 
-(8) (Ek:RG-4/2/2024-32450) (Değişik:RG-23/12/2025-33116) 7 nci maddenin altıncı fıkrasında yer alan hükümler saklı kalmak kaydıyla İSG-KATİP üzerinden sözleşme olmaksızın periyodik kontrol raporu düzenlenemez. Sözleşme olmaksızın düzenlenen periyodik kontrol raporları geçersizdir. Bu hükme aykırı davranan periyodik kontrol yapmaya yetkili kişinin yetkisi bir ay süreyle askıya alınır.
+(8) **(Ek:RG-4/2/2024-32450) (Değişik:RG-23/12/2025-33116)** 7 nci maddenin altıncı fıkrasında yer alan hükümler saklı kalmak kaydıyla İSG-KATİP üzerinden sözleşme olmaksızın periyodik kontrol raporu düzenlenemez. Sözleşme olmaksızın düzenlenen periyodik kontrol raporları geçersizdir. Bu hükme aykırı davranan periyodik kontrol yapmaya yetkili kişinin yetkisi bir ay süreyle askıya alınır.
 
-(9) (Ek:RG-4/2/2024-32450) Genel Müdürlük tarafından gerçekleştirilen kontrol ve denetimler, Genel Müdürlükte görevli çalışma uzmanı ve çalışma uzman yardımcıları, mühendis, fizikçi, kimyager, biyolog ve tabipler tarafından yerine getirilir.
+(9) **(Ek:RG-4/2/2024-32450)** Genel Müdürlük tarafından gerçekleştirilen kontrol ve denetimler, Genel Müdürlükte görevli çalışma uzmanı ve çalışma uzman yardımcıları, mühendis, fizikçi, kimyager, biyolog ve tabipler tarafından yerine getirilir.
 
-(10) (Ek:RG-23/12/2025-33116) Bu madde kapsamındaki idari yaptırımlar periyodik kontrol yapmaya yetkili kişi için denetim başına uygulanır.
+(10) **(Ek:RG-23/12/2025-33116)** Bu madde kapsamındaki idari yaptırımlar periyodik kontrol yapmaya yetkili kişi için denetim başına uygulanır.
 
 #### Periyodik kontrol rapor ve kriterlerini belirleme yetkisi
 
@@ -294,7 +294,7 @@ d) Periyodik kontrol esnasında yapılan muayene ve/veya testte tespit edilen he
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 
@@ -306,7 +306,7 @@ d) Periyodik kontrol esnasında yapılan muayene ve/veya testte tespit edilen he
 
 (1) Bakanlık; iş ekipmanlarının güvenli kullanımı, bakım ve/veya periyodik kontrollerine yönelik olarak akreditasyon zorunluluğu, periyodik kontrol yapmaya yetkili kişilerin eğitimleri ve benzeri konularda çalışmalar yapmak üzere teknik komiteler veya alt komiteler kurmaya ve komiteye ilişkin usul ve esasları belirlemeye yetkilidir.
 
-(2) Teknik komite ve alt komiteler; iş ekipmanları ile ilgili kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, sivil toplum kuruluşları, üniversiteler ve (Değişik ibare:RG-23/12/2025-33116) ekipman muayene kuruluşlarının Bakanlıkça belirlenecek temsilcilerinden oluşur.
+(2) Teknik komite ve alt komiteler; iş ekipmanları ile ilgili kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, sivil toplum kuruluşları, üniversiteler ve **(Değişik ibare:RG-23/12/2025-33116)** ekipman muayene kuruluşlarının Bakanlıkça belirlenecek temsilcilerinden oluşur.
 
 (3) Teknik komitelerin aldığı kararlar tavsiye niteliğindedir.
 
@@ -314,7 +314,7 @@ d) Periyodik kontrol esnasında yapılan muayene ve/veya testte tespit edilen he
 
 **EK MADDE 2 –** (Ek:RG-18/2/2022-31754) (5)
 
-(1) Aşağıda belirtilen iş ekipmanlarının periyodik kontrolleri, ilgili ekipman veya ekipman grubu için (Değişik ibare:RG-23/12/2025-33116) ekipman muayene kuruluşlarında çalışan periyodik kontrol yapmaya yetkili kişiler tarafından yapılır:
+(1) Aşağıda belirtilen iş ekipmanlarının periyodik kontrolleri, ilgili ekipman veya ekipman grubu için **(Değişik ibare:RG-23/12/2025-33116)** ekipman muayene kuruluşlarında çalışan periyodik kontrol yapmaya yetkili kişiler tarafından yapılır:
 
 a) Kule krenler.
 
@@ -324,13 +324,13 @@ c) Yürüyen merdivenler.
 
 ç) Asılı erişim donanımları.
 
-d) (Ek:RG-23/12/2025-33116) Hareket engelliler için güç tahrikli kaldırma platformu.
+d) **(Ek:RG-23/12/2025-33116)** Hareket engelliler için güç tahrikli kaldırma platformu.
 
-e) (Ek:RG-23/12/2025-33116) Buhar kazanları.
+e) **(Ek:RG-23/12/2025-33116)** Buhar kazanları.
 
-f) (Ek:RG-23/12/2025-33116) Kablolu taşıma tesisatları.
+f) **(Ek:RG-23/12/2025-33116)** Kablolu taşıma tesisatları.
 
-g) (Ek:RG-23/12/2025-33116) Sütunlu çalışma platformları.
+g) **(Ek:RG-23/12/2025-33116)** Sütunlu çalışma platformları.
 
 #### Doğal afet veya olağanüstü haller
 
@@ -352,7 +352,7 @@ c) İş ekipmanlarının periyodik kontrollerine yönelik akreditasyon zorunlulu
 
 **GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce düzenlenmiş olan periyodik kontrol raporları süresince geçerlidir.
 
-(2) (Değişik:RG-23/7/2016-29779) (2) 25/4/2017 tarihine kadar periyodik kontrol raporunda kayıt numarası aranmaz.
+(2) **(Değişik:RG-23/7/2016-29779) (2)** 25/4/2017 tarihine kadar periyodik kontrol raporunda kayıt numarası aranmaz.
 
 #### Geçici kayıt numarası
 
@@ -398,7 +398,7 @@ c) İş ekipmanlarının periyodik kontrollerine yönelik akreditasyon zorunlulu
 
 **MADDE 16 –** (1) Bu Yönetmeliğin;
 
-a) (Değişik:RG-23/7/2016-29779) (2) 13 üncü maddesi 25/4/2017 tarihinde,
+a) **(Değişik:RG-23/7/2016-29779) (2)** 13 üncü maddesi 25/4/2017 tarihinde,
 
 b) Diğer hükümleri yayımı tarihinde,
 
@@ -410,17 +410,17 @@ yürürlüğe girer.
 
 ____________
 
-(1) Bu değişiklik 25/4/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+<i>(1) Bu değişiklik 25/4/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</i>
 
-(2) Bu değişiklik 25/4/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+<i>(2) Bu değişiklik 25/4/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</i>
 
-(3) 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bölüm başlığı “Diğer Hususlar” iken metne işlendiği şekilde değiştirilmiştir.
+<i>(3) 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bölüm başlığı “Diğer Hususlar” iken metne işlendiği şekilde değiştirilmiştir.</i>
 
-(4) Bu değişiklik 31/12/2022 tarihinde yürürlüğe girer.
+<i>(4) Bu değişiklik 31/12/2022 tarihinde yürürlüğe girer.</i>
 
-(5) Bu değişiklik 31/12/2023 tarihinde yürürlüğe girer.
+<i>(5) Bu değişiklik 31/12/2023 tarihinde yürürlüğe girer.</i>
 
-(6) 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan değişiklik ile değiştirilen EK-III’ün 1.13, 2.3.5, 2.3.6 ve 2.3.7 nci maddeleri 31/12/2023 tarihinde yürürlüğe girer.
+<i>(6) 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan değişiklik ile değiştirilen EK-III’ün 1.13, 2.3.5, 2.3.6 ve 2.3.7 nci maddeleri 31/12/2023 tarihinde yürürlüğe girer.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -438,13 +438,13 @@ ____________
 
 ### İŞ EKİPMANLARINDA BULUNACAK ASGARİ GEREKLER
 
-1. Genel hususlar
+**1. Genel hususlar**
 
 1.1. Bu ekte belirtilen hususlar, bu Yönetmelik hükümleri dikkate alınarak ve söz konusu iş ekipmanında bunlara karşılık gelen riskin bulunduğu durumlarda uygulanır.
 
 1.2. Bu ekte belirtilen asgari gerekler, iş ekipmanlarında aranacak temel gereklerdir.
 
-2. İş ekipmanlarında bulunacak asgari genel gerekler
+**2. İş ekipmanlarında bulunacak asgari genel gerekler**
 
 2.1. İş ekipmanında bulunan ve güvenliği etkileyen kumanda cihazları için asgari gerekler;
 
@@ -478,7 +478,7 @@ uygulanır.
 
 2.5.1. Gaz, buhar, sıvı veya toz çıkarma tehlikesi olan iş ekipmanları, bunları kaynağında tutacak veya çekecek uygun sistemlerle donatılır.
 
-2.6. (Değişik ibare:RG-18/2/2022-31754) İş sağlığı ve güvenliği açısından (Değişik ibare:RG-18/2/2022-31754) gerekli hallerde , iş ekipmanı ve parçaları uygun yöntemlerle sabitlenir.
+2.6. **(Değişik ibare:RG-18/2/2022-31754)** İş sağlığı ve güvenliği açısından **(Değişik ibare:RG-18/2/2022-31754)** gerekli hallerde , iş ekipmanı ve parçaları uygun yöntemlerle sabitlenir.
 
 2.7. Çalışanların sağlık ve güvenliği açısından önemli bir tehlike oluşturabilecek, iş ekipmanının parçalarının kırılması, kopması veya dağılması riskine karşı uygun koruma önlemleri alınır.
 
@@ -506,7 +506,7 @@ e) Sadece işlem yapılan alana erişimi kısıtlar ve bunların çıkarılması
 
 2.12. İş ekipmanı sadece tasarım ve imalat amacına uygun işlerde ve şartlarda kullanılır.
 
-2.13. İş ekipmanının bakım işleri, ancak iş ekipmanı kapalı (Ek ibare:RG-18/2/2022-31754) , enerji bağlantısı kesik, tüm hareketleri durmuş vaziyette ve çalışmıyor iken yapılabilir. Bunun mümkün olmadığı hallerde, bakım işleri yürütülürken gerekli önlemler alınır veya bu işlerin tehlike bölgesi dışında yapılması sağlanır.
+2.13. İş ekipmanının bakım işleri, ancak iş ekipmanı kapalı **(Ek ibare:RG-18/2/2022-31754)** , enerji bağlantısı kesik, tüm hareketleri durmuş vaziyette ve çalışmıyor iken yapılabilir. Bunun mümkün olmadığı hallerde, bakım işleri yürütülürken gerekli önlemler alınır veya bu işlerin tehlike bölgesi dışında yapılması sağlanır.
 
 2.13.1. Bakım defteri bulunan makinelerde bakımla ilgili işlemler günü gününe bu deftere işlenir. 5070 sayılı Elektronik İmza Kanununa uygun olarak güvenli elektronik imza ile imzalanmış ve elektronik ortamda saklanan kayıtlar da bakım defteri olarak kabul edilir.
 
@@ -522,9 +522,9 @@ e) Sadece işlem yapılan alana erişimi kısıtlar ve bunların çıkarılması
 
 2.19. Bütün iş ekipmanları, çalışanların doğrudan veya dolaylı olarak elektrikle temas riskinden korunmasına uygun olur.
 
-3. Özel tipteki iş ekipmanında bulunacak asgari ek gerekler
+**3. Özel tipteki iş ekipmanında bulunacak asgari ek gerekler**
 
-3.1. Kendinden hareketli veya bir başka araç vasıtasıyla hareket edebilen iş ekipmanları için asgari gerekler;
+**3.1. Kendinden hareketli veya bir başka araç vasıtasıyla hareket edebilen iş ekipmanları için asgari gerekler;**
 
 3.1.1. Üzerinde çalışan bulunan iş ekipmanı, ekipmanın bir yerden bir yere götürülmesi sırasında tekerleklere veya paletlere takılma veya temas etme riski de dahil çalışanlar için oluşabilecek bütün riskleri azaltabilecek uygun sistemlerle donatılır.
 
@@ -576,9 +576,9 @@ f) Uzaktan kumandalı iş ekipmanının, kontrol sınırlarının dışına çı
 
 g) Uzaktan kumandalı iş ekipmanı, normal şartlarda çarpma ve ezilme tehlikelerine karşı korunaklı olur, bunun sağlanamadığı hallerde diğer uygun araçlarla çarpma riski kontrol altına alınır.
 
-3.1.7. (Ek:RG-18/2/2022-31754) İş ekipmanı hareket halindeyken ekipmanın kör noktalarına herhangi bir kişinin yaklaşması engellenir. Bunun sağlanamadığı durumlarda nesne algılayıcı sistemler veya uyarı sistemleri kullanılır. Bu da sağlanamıyorsa işaretçi kullanılır, etrafta bulunan kişilerle koordinasyon sağlanır veya çalışma alanına kimsenin girmesine müsaade edilmez.
+3.1.7. **(Ek:RG-18/2/2022-31754)** İş ekipmanı hareket halindeyken ekipmanın kör noktalarına herhangi bir kişinin yaklaşması engellenir. Bunun sağlanamadığı durumlarda nesne algılayıcı sistemler veya uyarı sistemleri kullanılır. Bu da sağlanamıyorsa işaretçi kullanılır, etrafta bulunan kişilerle koordinasyon sağlanır veya çalışma alanına kimsenin girmesine müsaade edilmez.
 
-3.2. Yüklerin kaldırılmasında kullanılan iş ekipmanları için asgari gerekler;
+**3.2. Yüklerin kaldırılmasında kullanılan iş ekipmanları için asgari gerekler;**
 
 3.2.1. Yük kaldırma ekipmanı kalıcı olarak kurulduğunda, özellikle kaldırılan yük ve montaj veya bağlantı noktalarındaki gerilmeler dikkate alınarak ekipmanın mukavemet ve kararlılığı sağlanır.
 
@@ -616,7 +616,7 @@ c) Özellikle cisimlerle istenmeyen temas sonucu, kullanıcının çarpma, sık�
 
 Bu ekte belirtilen hususlar, bu Yönetmelik hükümleri dikkate alınarak ve söz konusu ekipmanda bunlara karşılık gelen riskin bulunduğu durumlarda uygulanır.
 
-1. Tüm iş ekipmanları için genel hükümler
+**1. Tüm iş ekipmanları için genel hükümler**
 
 1.1. İş ekipmanları, bunları kullananlara ve diğer çalışanlara en az risk oluşturacak şekilde yerleştirilir, kurulur ve kullanılır. Bu amaçla, iş ekipmanının hareketli kısımları ile çevresinde bulunan sabit veya hareketli kısımlar arasında yeterli mesafe bulundurulur. Ayrıca iş ekipmanında kullanılan ya da üretilen enerjinin veya maddelerin güvenli bir şekilde temini ve uzaklaştırılması sağlanır.
 
@@ -624,7 +624,7 @@ Bu ekte belirtilen hususlar, bu Yönetmelik hükümleri dikkate alınarak ve sö
 
 1.3. Kullanımı sırasında yıldırım düşmesi ihtimali bulunan iş ekipmanı yıldırımın etkilerine karşı uygun araçlarla korunur.
 
-2. Kendinden hareketli veya bir başka araç vasıtasıyla hareket edebilen iş ekipmanlarının kullanımı ile ilgili hükümler
+**2. Kendinden hareketli veya bir başka araç vasıtasıyla hareket edebilen iş ekipmanlarının kullanımı ile ilgili hükümler**
 
 2.1. Kendinden hareketli iş ekipmanları, bu ekipmanların güvenli kullanımı ile ilgili uygun eğitim almış çalışanlar tarafından kullanılır.
 
@@ -634,19 +634,19 @@ Bu ekte belirtilen hususlar, bu Yönetmelik hükümleri dikkate alınarak ve sö
 
 2.3.2. İşin gereği olarak bu alanda çalışan bulunması zorunlu ise, bu çalışanların iş ekipmanı nedeniyle zarar görmesini önleyecek uygun tedbirler alınır.
 
-2.4. (Değişik:RG-18/2/2022-31754) Mekanik olarak hareket ettirilen seyyar iş ekipmanlarında, iş ekipmanının üretim standardında veya kullanım kılavuzunda insan kaldırılabileceği açıkça belirtilmedikçe ve güvenliğin tam olarak sağlanamadığı durumlarda bu iş ekipmanıyla insan taşınmasına izin verilmez. Taşıma sırasında iş yapılması gerekiyorsa ekipmanın hızı gerektiği gibi ayarlanır.
+2.4. **(Değişik:RG-18/2/2022-31754)** Mekanik olarak hareket ettirilen seyyar iş ekipmanlarında, iş ekipmanının üretim standardında veya kullanım kılavuzunda insan kaldırılabileceği açıkça belirtilmedikçe ve güvenliğin tam olarak sağlanamadığı durumlarda bu iş ekipmanıyla insan taşınmasına izin verilmez. Taşıma sırasında iş yapılması gerekiyorsa ekipmanın hızı gerektiği gibi ayarlanır.
 
 2.5. Çalışma yerlerinde, çalışanlar için güvenlik ve sağlık riski yaratmayacak yeterli hava sağlanması şartıyla içten yanmalı motorlu seyyar iş ekipmanı kullanılabilir.
 
-3. Yük kaldırmada kullanılan iş ekipmanı ile ilgili hükümler
+**3. Yük kaldırmada kullanılan iş ekipmanı ile ilgili hükümler**
 
-3.1. Genel hususlar
+**3.1. Genel hususlar**
 
 3.1.1. Yük kaldırmak için tasarlanmış seyyar veya sökülüp-takılabilir iş ekipmanlarının zemin özellikleri de dikkate alınarak öngörülen bütün kullanım şartlarında sağlam ve kararlı bir şekilde kullanılması sağlanır.
 
 3.1.2. İnsanların kaldırılmasında sadece bu amaç için sağlanan iş ekipmanı ve aksesuarları kullanılır.
 
-3.1.2.1. (Değişik:RG-18/2/2022-31754) İnsan kaldırmak amacıyla üretilmemiş iş ekipmanı, sadece olağanüstü veya acil istisnai durumlarda, gerekli önlemleri almak ve gözetim altında olmak şartıyla insanların kaldırılmasında kullanılabilir.
+3.1.2.1. **(Değişik:RG-18/2/2022-31754)** İnsan kaldırmak amacıyla üretilmemiş iş ekipmanı, sadece olağanüstü veya acil istisnai durumlarda, gerekli önlemleri almak ve gözetim altında olmak şartıyla insanların kaldırılmasında kullanılabilir.
 
 3.1.2.2. Çalışanlar yük kaldırmak için tasarlanmış iş ekipmanı üzerindeyken, ekipmanın kumandası için her zaman görevli bir kişi bulunur. Kaldırma ekipmanındaki kişilerin güvenilir haberleşme imkânlarıyla herhangi bir tehlike halinde tahliye için güvenilir araçları bulunur.
 
@@ -656,7 +656,7 @@ Bu ekte belirtilen hususlar, bu Yönetmelik hükümleri dikkate alınarak ve sö
 
 3.1.5. Kaldırma aksesuarları bozulmayacak veya hasar görmeyecek şekilde muhafaza edilir.
 
-3.2. Kılavuzsuz (askıda iken serbest olan) yükleri kaldırmakta kullanılan iş ekipmanı
+**3.2. Kılavuzsuz (askıda iken serbest olan) yükleri kaldırmakta kullanılan iş ekipmanı**
 
 3.2.1. Çalışma alanları kesişen iki veya daha fazla kaldırma aracı ile kılavuzsuz yüklerin kaldırıldığı bir alanda, yüklerin ve kaldırma araçlarının elemanlarının çarpışmaması için gerekli önlemler alınır.
 
@@ -672,9 +672,9 @@ Bu ekte belirtilen hususlar, bu Yönetmelik hükümleri dikkate alınarak ve sö
 
 3.2.7. Hava şartlarının, güvenli kullanımı engelleyecek ve çalışanları tehlikeye maruz bırakacak şekilde bozulması halinde, kılavuzsuz yüklerin kaldırılması için tasarlanmış iş ekipmanlarının açık havada kullanılması durdurulur. Çalışanları riske atmamak için özellikle iş ekipmanının devrilmesini önleyecek tedbirler alınır.
 
-4. Yüksekte yapılan geçici işlerde, iş ekipmanının kullanımı ile ilgili hükümler
+**4. Yüksekte yapılan geçici işlerde, iş ekipmanının kullanımı ile ilgili hükümler**
 
-4.1. Genel hususlar
+**4.1. Genel hususlar**
 
 4.1.1. Bu Yönetmeliğin 5 inci maddesine uygun olarak, yüksekte yapılan geçici işler uygun bir platformda, güvenlik içinde ve uygun ergonomik koşullarda yapılamıyorsa, güvenli çalışma koşullarını sağlayacak ve devam ettirecek en uygun iş ekipmanı seçilir. Toplu koruma önlemlerine kişisel koruma önlemlerine göre öncelik verilir. İş ekipmanının boyutları, yapılacak işin doğasına ve öngörülen yüke uygun, geçişlerin tehlikesiz şekilde yapılmasını sağlayacak şekilde olması gerekir.
 
@@ -690,9 +690,9 @@ Bu ekte belirtilen hususlar, bu Yönetmelik hükümleri dikkate alınarak ve sö
 
 4.1.5. Düşmeleri önleyen toplu korumaya yönelik koruyucuların, özel bir işin yapılması için geçici olarak kaldırılması gerektiği durumlarda, aynı korumayı sağlayacak diğer güvenlik önlemleri alınır. Bu önlemler alınıncaya kadar çalışma yapılmaz. Bu özel iş geçici veya kesin olarak tamamlandıktan sonra koruyucular tekrar yerine konulur.
 
-4.1.6. Yüksekte yapılan geçici işler, çalışanların sağlık ve güvenliklerini tehlikeye atmayacak uygun hava koşullarında sürdürülür. (Ek cümle:RG-18/2/2022-31754) Uygun hava koşulları değerlendirilirken öncelikle ekipmanın kullanım kılavuzu ve üretim standardı dikkate alınır.
+4.1.6. Yüksekte yapılan geçici işler, çalışanların sağlık ve güvenliklerini tehlikeye atmayacak uygun hava koşullarında sürdürülür. **(Ek cümle:RG-18/2/2022-31754)** Uygun hava koşulları değerlendirilirken öncelikle ekipmanın kullanım kılavuzu ve üretim standardı dikkate alınır.
 
-4.2. El merdivenlerinin kullanımı ile ilgili özel hükümler
+**4.2. El merdivenlerinin kullanımı ile ilgili özel hükümler**
 
 4.2.1. El merdivenleri, kullanımı sırasında sağlam bir şekilde yerleştirilir. Portatif el merdivenleri, basamakları yatay konumda olacak şekilde düzgün, sağlam, ölçüsü uygun, sabit pabuçlar üzerinde durmalıdır. Asılı duran el merdivenleri güvenli bir şekilde tutturulur, ip merdivenler hariç, yerlerinden çıkarılması ve sallanması önlenir.
 
@@ -700,19 +700,19 @@ Bu ekte belirtilen hususlar, bu Yönetmelik hükümleri dikkate alınarak ve sö
 
 4.2.3. El merdivenlerinde her zaman çalışanların elleriyle tutunabilecekleri uygun yer ve sağlam destek bulunur. Özellikle, bir el merdiveni üzerinde elle yük taşınıyorsa bu durum elle tutacak yer bulunması zorunluluğunu ortadan kaldırmaz.
 
-4.3. İskelelerin kullanımı ile ilgili özel hükümler
+**4.3. İskelelerin kullanımı ile ilgili özel hükümler**
 
 4.3.1. Seçilen iskelenin sağlamlık ve dayanıklılık hesabı mevcut değilse veya var olan hesaplar seçilen iskele tipinde tasarlanan yapısal değişikliklere uygun değilse veya iskelenin genel olarak alışılmış standart konfigürasyonlara uygun yapıda imal edilmemiş olduğu durumlarda bunların sağlamlık ve dayanıklılık hesapları yapılır. Bu hesaplar yapılmadan iskeleler kullanılamaz.
 
-4.3.2. (Değişik:RG-18/2/2022-31754) Seçilen iskelenin karmaşıklığına bağlı olarak kurma, kullanma ve sökme planı; yapı işlerinde inşaat mühendisi tarafından yapılır. Gemi inşası ve sökümü işlerinde ise gemi inşaatı ve gemi makineleri mühendisi, makine mühendisi veya inşaat mühendisi tarafından yapılır. Bu plan, iskele ile ilgili detay bilgileri içeren standart form şeklinde olabilir.
+4.3.2. **(Değişik:RG-18/2/2022-31754)** Seçilen iskelenin karmaşıklığına bağlı olarak kurma, kullanma ve sökme planı; yapı işlerinde inşaat mühendisi tarafından yapılır. Gemi inşası ve sökümü işlerinde ise gemi inşaatı ve gemi makineleri mühendisi, makine mühendisi veya inşaat mühendisi tarafından yapılır. Bu plan, iskele ile ilgili detay bilgileri içeren standart form şeklinde olabilir.
 
 4.3.3. İskelenin taşıyıcı elemanlarının kayması; yeterli sağlamlıktaki taşıyıcı zemine sabitlenerek, kaymaz araçlar kullanarak veya aynı etkiye sahip diğer yöntemlerle önlenir. İskelenin sağlam ve dengeli olması sağlanır. Yüksekte çalışma sırasında tekerlekli iskelelerin kazara hareket etmesini önleyecek uygun araçlar kullanılır.
 
 4.3.4. İskele platformlarının boyutu, şekli ve yerleştirilmesi yapılan işin özelliklerine ve taşınan yüke uygun ve güvenli çalışma ve geçişlere izin verecek şekilde olması gerekir. İskele platformları normal kullanımda, elemanları hareket etmeyecek şekilde kurulur. Platform elemanları ve dikey korkulukların arasında düşmelere neden olabilecek tehlikeli boşluklar bulunmaması gerekir.
 
-4.3.5. (Değişik:RG-18/2/2022-31754) Kurma, sökme veya değişiklik yapılması sırasında iskelenin kullanıma hazır olmayan kısımları, 11/9/2013 tarihli ve 28762 sayılı Resmî Gazete’de yayımlanan Sağlık ve Güvenlik İşaretleri Yönetmeliğine uygun şekilde genel uyarı işaretleri ile işaretlenir ve tehlikeli bölgeye girişler fiziki olarak engellenir.
+4.3.5. **(Değişik:RG-18/2/2022-31754)** Kurma, sökme veya değişiklik yapılması sırasında iskelenin kullanıma hazır olmayan kısımları, 11/9/2013 tarihli ve 28762 sayılı Resmî Gazete’de yayımlanan Sağlık ve Güvenlik İşaretleri Yönetmeliğine uygun şekilde genel uyarı işaretleri ile işaretlenir ve tehlikeli bölgeye girişler fiziki olarak engellenir.
 
-4.3.6. (Değişik:RG-18/2/2022-31754) İskelelerin kurulması, sökülmesi veya üzerinde önemli değişiklik yapılması, görevli inşaat mühendisi gözetimi altında yapılır. Tersanelerde ise gemi inşaatı ve gemi makineleri mühendisi, makine mühendisi veya inşaat mühendisi gözetimi altında yapılır. Bu maddede sayılan işler, bu Yönetmeliğin 11 inci maddesi uyarınca, özel riskleri ve ayrıca aşağıda belirtilen hususları kapsayan konularda yapacakları işle ilgili yeterli eğitim almış çalışanlar tarafından yapılır.
+4.3.6. **(Değişik:RG-18/2/2022-31754)** İskelelerin kurulması, sökülmesi veya üzerinde önemli değişiklik yapılması, görevli inşaat mühendisi gözetimi altında yapılır. Tersanelerde ise gemi inşaatı ve gemi makineleri mühendisi, makine mühendisi veya inşaat mühendisi gözetimi altında yapılır. Bu maddede sayılan işler, bu Yönetmeliğin 11 inci maddesi uyarınca, özel riskleri ve ayrıca aşağıda belirtilen hususları kapsayan konularda yapacakları işle ilgili yeterli eğitim almış çalışanlar tarafından yapılır.
 
 a) İskelelerin kurulması, sökülmesi veya değişiklik yapılması ile ilgili planların anlaşılması,
 
@@ -728,9 +728,9 @@ e) İskelelerin kurulması, sökülmesi veya değişiklik yapılması işlemleri
 
 4.3.6.1. Gözetim yapan kişi ve ilgili çalışanlara gerekli talimatları da içeren EK-II madde 4.3.2.’de belirtilen kurma ve sökme planları verilir.
 
-4.4. (Değişik:RG-18/2/2022-31754) İple erişim donanımı kullanılarak yapılan çalışmalarla ilgili özel hükümler
+**4.4. (Değişik:RG-18/2/2022-31754) İple erişim donanımı kullanılarak yapılan çalışmalarla ilgili özel hükümler**
 
-4.4.1 (Değişik:RG-18/2/2022-31754) İple erişim donanımı kullanılarak yapılan çalışmalarda aşağıdaki şartlara uyulur.
+4.4.1 **(Değişik:RG-18/2/2022-31754)** İple erişim donanımı kullanılarak yapılan çalışmalarda aşağıdaki şartlara uyulur.
 
 a) Sistemde biri, inip çıkmada veya destek olarak kullanılan çalışma ipi, diğeri ise güvenlik ipi olacak şekilde ayrı kancalı en az iki ip bulunur.
 
@@ -744,13 +744,13 @@ d) Acil bir durumda çalışanın derhal kurtarılabilmesi için iş uygun şeki
 
 e) Bu Yönetmeliğin 11 inci maddesi doğrultusunda, çalışanlara yapacakları işe uygun ve özellikle kurtarma konusunda yeterli eğitim verilir.
 
-4.4.2 (Değişik:RG-18/2/2022-31754) Risk değerlendirmesi göz önünde bulundurularak ikinci bir ip kullanılmasının işin yapılmasını daha tehlikeli hale getirdiği istisnai durumlarda, güvenliği sağlayacak yeterli önlemler alınmak şartıyla tek bir iple çalışma yapılabilir.
+4.4.2 **(Değişik:RG-18/2/2022-31754)** Risk değerlendirmesi göz önünde bulundurularak ikinci bir ip kullanılmasının işin yapılmasını daha tehlikeli hale getirdiği istisnai durumlarda, güvenliği sağlayacak yeterli önlemler alınmak şartıyla tek bir iple çalışma yapılabilir.
 
-EK-III (Değişik:RG-23/12/2025-33116)
+**EK-III (Değişik:RG-23/12/2025-33116)**
 
 ### BAKIM, ONARIM VE PERİYODİK KONTROLLER İLE İLGİLİ HUSUSLAR
 
-1. Genel hususlar
+**1. Genel hususlar**
 
 1.1. İş ekipmanlarının bakım, onarım ve periyodik kontrolleri, ilgili ulusal ve uluslararası standartlarda belirlenen aralıklarda ve kriterlerde, imalatçı verileri ile fen ve tekniğin gereklilikleri dikkate alınarak yapılır.
 
@@ -812,9 +812,9 @@ EK-III (Değişik:RG-23/12/2025-33116)
 
 1.12. İş ekipmanına yapılacak tahribatsız muayeneler; TS EN ISO 9712 standardına uygun olarak en az seviye 2 personel belgelendirmesine sahip kişiler tarafından uygulanır. Tahribatsız muayenelerin periyodik kontrol raporuna ek olarak verildiği durumlarda tahribatsız muayene yapan kişinin EKİPNET kayıt numarasına sahip olma zorunluluğu bulunmaz.
 
-2. Periyodik kontrole tabi iş ekipmanları
+**2. Periyodik kontrole tabi iş ekipmanları**
 
-2.1. Basınçlı kap ve tesisatlar
+**2.1. Basınçlı kap ve tesisatlar**
 
 2.1.1. Basınçlı kap ve tesisatların periyodik kontrolleri Tablo-1’e göre yapılır. Standartlarda aksi belirtilmedikçe her periyodik kontrolde muayene gerçekleştirilir ve testler ise aşağıdaki koşullara göre uygulanır:
 
@@ -834,7 +834,7 @@ b) Azami üç yılda bir kere veya her önemli bakım ve onarım faaliyetinden s
 
 2.1.6. Basınçlı kap ve tesisatların periyodik kontrolleri yetkili olan; makine mühendisleri, metalürji ve malzeme mühendisleri, mekatronik mühendisleri, kimya mühendisleri, imalat mühendisleri, uçak mühendisleri, makine veya metal eğitimi bölümü mezunu teknik öğretmenler ya da makine tekniker veya yüksek teknikerleri tarafından yapılır.
 
-Tablo-1: Basınçlı kap ve tesisatların periyodik kontrol süreleri ile kontrol kriterleri
+**Tablo-1: Basınçlı kap ve tesisatların periyodik kontrol süreleri ile kontrol kriterleri**
 
 | EKİPMAN ADI | PERİYODİK KONTROL DÖNEMİ (Azami Süre) (İlgili standardın öngördüğü süreler saklı kalmak koşulu ile) | PERİYODİK KONTROL KRİTERLERİ (İlgili standartlar aşağıda belirtilmiştir.) |  |
 | Buhar ve kızgın su kazanları | Standartlarda süre belirtilmemişse 1 Yıl | TS EN 12952 serisi, TS EN 12953 ve TS 497 serisi standartlarında belirtilen kriterlere uygun olarak yapılır. |  |
@@ -852,7 +852,7 @@ Tablo-1: Basınçlı kap ve tesisatların periyodik kontrol süreleri ile kontro
 | Atmosferik, dik, silindirik, yer üstü, çelik kaynaklı birleştirmeli, açık ya da kapalı tavanlı tehlikeli sıvı depolama tankları (3) | Standartlarda süre belirtilmemişse 10 Yıl | API 620, API 650, API 653 ve API 2610 standartlarında belirtilen kriterlere uygun olarak yapılır. |  |
 | (1) LPG tankları, buhar kazanları, kızgın su kazanları, kriyojenik tanklar gibi standartlarında emniyet valf testleri bulunan ekipmanlar için emniyet valfleri, standartlarda belirtilen azami süreler içerisinde teste tabi tutulur. (2) Seyyar veya sabit kompresör hava tankları ile basınçlı hava ihtiva eden her türlü kap ve bunların sabit donanımı. (3) Tehlikeli sıvılar: aşındırıcı veya sağlığa zararlı sıvılardır. (4) Yazılı plan, işveren tarafından periyodik kontrollere yönelik ilgili standartlara göre hazırlanan dokümandır. |  |
 
-2.2. Kaldırma ve iletme ekipmanları
+**2.2. Kaldırma ve iletme ekipmanları**
 
 2.2.1. Kaldırma ve iletme ekipmanları ile kaldırma aksesuarlarının periyodik kontrolleri Tablo-2’ye göre yapılır. Standartlarda aksi belirtilmedikçe, her periyodik kontrolde muayene gerçekleştirilir ve testler aşağıdaki koşullara göre uygulanır:
 
@@ -872,7 +872,7 @@ b) Azami üç yılda bir kere veya her önemli bakım ve onarım faaliyetinden s
 
 2.2.5. Üretici etiketinde belirtilen kaldırma kapasitesinin altında kullanılacak kaldırma araçlarında işletme kapasitesi görünecek şekilde işaretlenir. İşletme kapasitesinin üstünde bir ağırlığın kaldırılmasının söz konusu olduğu durumlarda kaldırma aracı, kaldırılacak yükün miktarı esas alınarak yukarıda belirtilen kriterler çerçevesinde teste tabi tutulmadan kullanılamaz.
 
-Tablo-2: Kaldırma ve iletme ekipmanlarının periyodik kontrol süreleri ve kontrol kriterleri
+**Tablo-2: Kaldırma ve iletme ekipmanlarının periyodik kontrol süreleri ve kontrol kriterleri**
 
 | EKİPMAN ADI | PERİYODİK KONTROL DÖNEMİ (Azami Süre) (İlgili standardın öngördüğü süreler saklı kalmak koşulu ile) | PERİYODİK KONTROL KRİTERLERİ (İlgili standartlar aşağıda belirtilmiştir.) |
 | Kablolu taşıma tesisatları | Standartlarda süre belirtilmemişse 1 Yıl | TS EN 1709 standardında belirtilen kriterlere uygun olarak yapılır. |
@@ -900,7 +900,7 @@ Tablo-2: Kaldırma ve iletme ekipmanlarının periyodik kontrol süreleri ve kon
 | Kaldırma aksesuarları ve taşıyıcılar (sapanlar, kıskaçlar, vakum kaldırıcı, manyetik kaldırıcı ve benzeri) | Standartlarda süre belirtilmemişse 1 Yıl | TS EN 14502-1, TS EN 13414-2+A2, TS EN 1492 serisi, TS EN 818-6+A1, TS EN 13155 standartlarında belirtilen kriterlere uygun olarak yapılır. |
 | (1) Yükleme amaçlı erişilebilen, taşıyıcı (kabin veya platform) içinde insan seyri bulunmayan, sadece yüklerin taşındığı asansörlerdir. (2) Kapsamı, sadece donanımların kaldırma iletme ekipmanları ve aksesuarlarıdır. (3) İskeleler, taşıyabilecekleri azami yük görünecek şekilde işaretlenir. (4) TS EN 81-44 standardının yürürlüğe giriş tarihinden önce üretilmiş kaldırma donanımları için periyodik kontrol kriteri olarak imalatçının belirleyeceği şartlar kullanılır. |
 
-2.3. Tesisatlar
+**2.3. Tesisatlar**
 
 2.3.1. İlgili standartlarda aksi belirtilmediği sürece, tesisatların periyodik kontrolleri yılda bir yapılır.
 
@@ -916,7 +916,7 @@ Tablo-2: Kaldırma ve iletme ekipmanlarının periyodik kontrol süreleri ve kon
 
 2.3.7. Elektrik, topraklama ve yıldırımdan korunma tesisatları için periyodik kontrolde tesisat projesi aranır. İşveren, projesi olmayan tesisatların 3/12/2003 tarihli ve 25305 sayılı Resmî Gazete’de yayımlanan Elektrik İç Tesisleri Proje Hazırlama Yönetmeliği, diğer ilgili yönetmelikler ve ilgili standartlara uygun olarak projelendirilmesini yaptırmak zorundadır. Elektrik, topraklama ve yıldırımdan korunma tesisatlarının periyodik kontrollerinde tesisatın projesine uygunluğu değerlendirilir.
 
-Tablo-3: Tesisatların periyodik kontrol süreleri ile kontrol kriterleri
+**Tablo-3: Tesisatların periyodik kontrol süreleri ile kontrol kriterleri**
 
 | EKİPMAN ADI | PERİYODİK KONTROL DÖNEMİ (Azami Süre) (İlgili standardın öngördüğü süreler saklı kalmak koşulu ile) | PERİYODİK KONTROL KRİTERLERİ (İlgili standartlar aşağıda belirtilmiştir.) |
 | Elektrik tesisatı ve topraklama tesisatı | Standartlarda süre belirtilmemişse 1 Yıl | 21/8/2001 tarihli ve 24500 sayılı Resmî Gazete’de yayımlanan Elektrik Tesislerinde Topraklamalar Yönetmeliği, 30/11/2000 tarihli ve 24246 sayılı Resmî Gazete‘de yayımlanan Elektrik Kuvvetli Akım Tesisleri Yönetmeliği ve 4/11/1984 tarihli ve 18565 sayılı Resmî Gazete’de yayımlanan Elektrik İç Tesisleri Yönetmeliği ile TS EN 60079 serisi, TS HD 60364-4 serisi, TS HD 60364-5 Serisi, TS HD 60364-6 standartlarında belirtilen hususlara göre yapılır. |
@@ -931,11 +931,11 @@ Tablo-3: Tesisatların periyodik kontrol süreleri ile kontrol kriterleri
 | Yangın algılama ve uyarı sistemleri | Standartlarda süre belirtilmemişse 1 Yıl | Projede belirtilen kriterlere ve TSE CEN/TS 54-14 standartında belirtilen kriterlere uygun olarak yapılır. |
 | Havalandırma ve klima tesisatı | 1 Yıl | Projede belirtilen kriterlere uygun olup olmadığının belirlenmesine yönelik olarak yapılır. |
 
-2.4. Tezgâhlar
+**2.4. Tezgâhlar**
 
 2.4.1. Tezgâhların periyodik kontrolleri yetkili olan; makine mühendisleri, mekatronik mühendisleri, metalürji ve malzeme mühendisleri, imalat mühendisleri, makine veya metal eğitimi bölümü mezunu teknik öğretmenler, makine tekniker veya yüksek teknikerleri tarafından yapılır. Bir kısım tezgâhların periyodik kontrol kriterleri ve kontrol süreleri Tablo-4’te belirtilmiştir.
 
-Tablo-4: Tezgâhların periyodik kontrol süreleri ile kontrol kriterleri
+**Tablo-4: Tezgâhların periyodik kontrol süreleri ile kontrol kriterleri**
 
 | EKİPMAN ADI | PERİYODİK KONTROL DÖNEMİ (Azami Süre) (İlgili standardın öngördüğü süreler saklı kalmak koşulu ile) | PERİYODİK KONTROL KRİTERLERİ (İlgili standartlar aşağıda belirtilmiştir.) |
 | Mekanik presler | Standartlarda süre belirtilmemişse 1 Yıl | TS EN ISO 16092-1 standardında belirtilen kriterlere uygun olarak yapılır. |
@@ -954,7 +954,7 @@ Tablo-4: Tezgâhların periyodik kontrol süreleri ile kontrol kriterleri
 | Giyotin makaslar | Standartlarda süre belirtilmemişse 1 Yıl | TS EN 13985+A1 standardında belirtilen kriterlere uygun olarak yapılır. |
 | Transfer tipi ve özel amaçlı tezgâhlar | Standartlarda süre belirtilmemişse 1 Yıl | TS EN 16090-1 standardında belirtilen kriterlere uygun olarak yapılır. |
 
-2.5. Endüstriyel raf ve kapılar
+**2.5. Endüstriyel raf ve kapılar**
 
 2.5.1. Endüstriyel raf ve kapıların periyodik kontrolleri yetkili olan; makine mühendisleri, mekatronik mühendisleri, metalürji ve malzeme mühendisleri, imalat mühendisleri, inşaat mühendisleri, inşaat, makine ve metal eğitimi bölümü mezunu teknik öğretmenler, inşaat veya makine tekniker veya yüksek teknikerleri tarafından yapılır.
 
@@ -962,13 +962,13 @@ Tablo-4: Tezgâhların periyodik kontrol süreleri ile kontrol kriterleri
 
 2.5.3. Endüstriyel raf ve kapıların periyodik kontrol kriterleri ve kontrol süreleri Tablo-5’te belirtilmiştir.
 
-Tablo-5: Endüstriyel raf ve kapıların periyodik kontrol süreleri ile kontrol kriterleri
+**Tablo-5: Endüstriyel raf ve kapıların periyodik kontrol süreleri ile kontrol kriterleri**
 
 | EKİPMAN ADI | PERİYODİK KONTROL DÖNEMİ (Azami Süre) (İlgili standardın öngördüğü süreler saklı kalmak koşulu ile) | PERİYODİK KONTROL KRİTERLERİ (İlgili standartlar aşağıda belirtilmiştir.) |
 | Endüstriyel raflar | Standartlarda süre belirtilmemişse 1 Yıl | TS EN 15635 standardında belirtilen kriterlere uygun olarak yapılır. |
 | Endüstriyel kapılar | Standartlarda süre belirtilmemişse 1 Yıl | TS EN 13241+A2, TS EN 12453, TS EN 12604+A1 standartlarında belirtilen kriterlere uygun olarak yapılır. |
 
-2.6. İş makineleri
+**2.6. İş makineleri**
 
 2.6.1. İş makinelerinin periyodik kontrolleri yetkili olan; makine mühendisleri, mekatronik mühendisleri, metalürji ve malzeme mühendisleri, imalat mühendisleri, makine ve metal eğitimi bölümü mezunu teknik öğretmenler, makine tekniker veya yüksek teknikerleri tarafından yapılır.
 
@@ -976,7 +976,7 @@ Tablo-5: Endüstriyel raf ve kapıların periyodik kontrol süreleri ile kontrol
 
 2.6.3. Bir kısım iş makinelerinin periyodik kontrol kriterleri ve kontrol süreleri Tablo-6’da belirtilmiştir.
 
-Tablo-6: İş makinelerinin periyodik kontrol süreleri ile kontrol kriterleri
+**Tablo-6: İş makinelerinin periyodik kontrol süreleri ile kontrol kriterleri**
 
 | EKİPMAN ADI | PERİYODİK KONTROL DÖNEMİ (Azami Süre) (İlgili standardın öngördüğü süreler saklı kalmak koşulu ile) | PERİYODİK KONTROL KRİTERLERİ (İlgili standartlar aşağıda belirtilmiştir.) |
 | Sondaj makinaları | Standartlarda süre belirtilmemişse 1 Yıl | TS EN 16228 serisi standartlarında belirtilen kriterlere uygun olarak yapılır. |

@@ -98,7 +98,7 @@ kanıtlayıcı belge olarak bağlanır.
 
 Elektronik ortamda oluşturulan ortak bir veri tabanından yararlanmak suretiyle yapılacak harcamalarda, veri giriş işlemleri gerçekleştirme görevi sayıldığından, ödeme belgesine ayrıca bu verileri kanıtlayıcı belge bağlanmaz .
 
-(Ek fıkra:RG-5/11/2016-29879) Bakanlık, bu Yönetmelik kapsamındaki işlemlere ilişkin belgelerin elektronik ortamda oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve ibrazına ilişkin usul ve esasları, şekil hükümlerinden bağımsız olmak üzere belirlemeye yetkilidir.
+**(Ek fıkra:RG-5/11/2016-29879)** Bakanlık, bu Yönetmelik kapsamındaki işlemlere ilişkin belgelerin elektronik ortamda oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve ibrazına ilişkin usul ve esasları, şekil hükümlerinden bağımsız olmak üzere belirlemeye yetkilidir.
 
 Üçüncü ve dördüncü fıkraların uygulanmasına ilişkin usul ve esaslar Bakanlıkça belirlenir.
 
@@ -106,7 +106,7 @@ Elektronik ortamda oluşturulan ortak bir veri tabanından yararlanmak suretiyle
 
 **Madde 6 –** İhale veya doğrudan temin usulüyle yapılacak her türlü mal ve hizmet alımları ile yapım işlerine ilişkin ödemelerde; onay belgesi, ihale komisyonu kararı, 4734 sayılı Kamu İhale Kanununun 22 nci maddesine göre doğrudan temin usulüyle ihale komisyonu kurulmadan yapılan alımlarda piyasa fiyat araştırması tutanağı (Örnek:2) veya söz konusu maddenin a, b ve c bentleri kapsamında tek kaynaktan yapılan alımlara ilişkin olarak ihale mevzuatında belirlenen standart form, sözleşme yapılması halinde sözleşme ve Bakanlıkça gerekli görülen diğer belgeleri kapsayan taahhüt dosyası, ödemeden önce veya ilk hakedişle birlikte biri asıl diğeri onaylı suret olmak üzere iki nüsha (taahhüt olunan işin bedeli bir defada tahakkuk ettirildiği takdirde bir nüsha) olarak muhasebe yetkilisine verilir.
 
-Taahhüt dosyasının asıl nüshası, ödeme belgesinin (Değişik ibare:RG-5/11/2016-29879) birinci nüshasına bağlanır. Ancak, mal ve hizmet alımları ile yapım işi bedellerinin bir defadan fazla tahakkuk ettirilmesi halinde, diğer ödemelerde Yönetmeliğin ilgili maddesinde sayılan belgelerden taahhüt dosyası dışındaki belgeler bağlanır. taahhüt dosyasının onaylı sureti ise, bir defadan fazla tahakkuk ettirilen hakediş ödemelerinin kontrolü için muhasebe biriminde saklanır.
+Taahhüt dosyasının asıl nüshası, ödeme belgesinin **(Değişik ibare:RG-5/11/2016-29879)** birinci nüshasına bağlanır. Ancak, mal ve hizmet alımları ile yapım işi bedellerinin bir defadan fazla tahakkuk ettirilmesi halinde, diğer ödemelerde Yönetmeliğin ilgili maddesinde sayılan belgelerden taahhüt dosyası dışındaki belgeler bağlanır. taahhüt dosyasının onaylı sureti ise, bir defadan fazla tahakkuk ettirilen hakediş ödemelerinin kontrolü için muhasebe biriminde saklanır.
 
 #### Hakediş raporu
 
@@ -128,13 +128,13 @@ b) Hizmet İşleri Hakediş Raporu (Örnek: 4) : Bu rapor, hizmet işlerinde yü
 
 a)Vekillere yapılacak ödemelerde, vekilin alacaklı adına tahsile yetkili olduğuna ilişkin noterce düzenlenmiş vekaletname aslı veya bunun noterce onaylanmış örneği.
 
-b) Velilere yapılacak ödemelerde, veli ve çocukların (Değişik ibare:RG-3/4/2012-28253) T.C. kimlik numaraları; mahkemece tayin edilmiş velilere yapılacak ödemelerde mahkeme ilamı.
+b) Velilere yapılacak ödemelerde, veli ve çocukların **(Değişik ibare:RG-3/4/2012-28253)** T.C. kimlik numaraları; mahkemece tayin edilmiş velilere yapılacak ödemelerde mahkeme ilamı.
 
 c) Vasilere yapılacak ödemelerde, vasi tayinine ilişkin mahkeme ilamı.
 
 d) Varislere yapılacak ödemelerde, veraset ilamı.
 
-e) Tüzel kişilerin alacaklarının kanuni temsilcilerine ödenmesinde, (Mülga ibare:RG-29/7/2021-31552) ilgilinin tahsile yetkili olduğunu gösteren belge; bunların tayin ettikleri vekillere yapılacak ödemelerde ise, sadece noterce düzenlenmiş vekaletname.
+e) Tüzel kişilerin alacaklarının kanuni temsilcilerine ödenmesinde, **(Mülga ibare:RG-29/7/2021-31552)** ilgilinin tahsile yetkili olduğunu gösteren belge; bunların tayin ettikleri vekillere yapılacak ödemelerde ise, sadece noterce düzenlenmiş vekaletname.
 
 f) Kayyımlara yapılacak ödemelerde, kayyım tayinine ilişkin mahkeme ilamı.
 
@@ -150,7 +150,7 @@ k) Kimliğinin saklı kalmasını isteyen muhbirlere mutemetleri aracılığıyl
 
 l) Alacakların hak sahiplerinin banka hesaplarına aktarılması suretiyle ödenmesinde, alacaklının harcama birimince onaylanmış yazılı talebi (Hak sahipleri tarafından düzenlenen fatura üzerinde alacaklının banka hesap numarasının yer alması halinde ayrıca yazılı talepleri aranmaz).
 
-Yukarıda sayılan belgelerden, (a), (b), (c), (d), (e), ve (f) bentlerinde belirtilenler Vekaletname/İlam Kayıt Defterine (Örnek :7) kaydedilerek muhasebe biriminde açılacak dosyada saklanır. İlgilinin durumu, her ödemeden önce kontrol edildikten sonra ödeme yapılır. Resmi kurum ve kuruluşların alacaklarının tahsili için görevlendirilenlere dairesince verilmiş yetki belgesi dışında, ödeme yapılacak kişileri belirleyen diğer belgeler ödeme belgesinin (Değişik ibare:RG-5/11/2016-29879) birinci nüshasına eklenir.
+Yukarıda sayılan belgelerden, (a), (b), (c), (d), (e), ve (f) bentlerinde belirtilenler Vekaletname/İlam Kayıt Defterine (Örnek :7) kaydedilerek muhasebe biriminde açılacak dosyada saklanır. İlgilinin durumu, her ödemeden önce kontrol edildikten sonra ödeme yapılır. Resmi kurum ve kuruluşların alacaklarının tahsili için görevlendirilenlere dairesince verilmiş yetki belgesi dışında, ödeme yapılacak kişileri belirleyen diğer belgeler ödeme belgesinin **(Değişik ibare:RG-5/11/2016-29879)** birinci nüshasına eklenir.
 
 Bünyesinde tedavi kurumu bulunan kamu idarelerinin muhasebe birimlerince, tedavi bedeli karşılığı tahsil edilen paralardan iadesi gereken tutarların çeşitli nedenlerle hastaya ödenememesi halinde ödeme, tedavi bedelinin tahsili sırasında düzenlenen alındıda hasta dışında kimliği belirtilen diğer kişilere yapılır. Bu durumda ayrıca vekaletname aranmaz. Ödeme yapılan kişilerin onaylı kimlik örnekleri ödeme belgesine bağlanır.
 
@@ -192,7 +192,7 @@ h) İkinci görev ödemelerinde, ikinci görev onayı ve işe başlama yazısı.
 
 Malî yılın ilk ayına ait ödemelerde, personelin kıdem aylığına esas hizmet sürelerini gösteren insan kaynakları birimince onaylı listenin ödeme belgesine bağlanması gerekir. Diğer aylarda ise durumunda değişiklik olanların listesi ödeme belgesine bağlanır.
 
-(Değişik fıkra:RG-11/10/2017-30207) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının muhtelif okullarından mezun olanların atama onayları, ikinci aya ait ödeme belgesine bağlanır.
+**(Değişik fıkra:RG-11/10/2017-30207)** Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının muhtelif okullarından mezun olanların atama onayları, ikinci aya ait ödeme belgesine bağlanır.
 
 #### Zam, tazminat ve benzeri ödemeler
 
@@ -226,9 +226,9 @@ Aylıklarla birlikte ödenen tazminatlar Aylık Bordrosunda; aylıklarla ödenme
 
 **Madde 12 –** Kamu personeline yapılacak sosyal yardım ödemelerinde, ödemenin çeşidine göre aşağıda belirtilen belgeler aranır.
 
-a) (Değişik:RG-3/4/2012-28253) Evlenme yardımı: Aile yardımı bildirimi (Örnek No: 14) ödeme belgesine bağlanır.
+a) **(Değişik:RG-3/4/2012-28253)** Evlenme yardımı: Aile yardımı bildirimi (Örnek No: 14) ödeme belgesine bağlanır.
 
-b) Aile yardımı : Aylıklarla birlikte ödenen bu yardım, personelin ilk işe girişinde alınacak Aile Yardımı Bildirimine (Örnek : 14 ) dayanılarak ödenir. Bu bildirim, personelin aile yardımından yararlanan eş veya çocuk durumunda meydana gelen değişiklikler ile yer değiştirme suretiyle atama halinde yenilenir. Bildirimler, ödeme belgesinin (Değişik ibare:RG-5/11/2016-29879) birinci nüshasına eklenir.
+b) Aile yardımı : Aylıklarla birlikte ödenen bu yardım, personelin ilk işe girişinde alınacak Aile Yardımı Bildirimine (Örnek : 14 ) dayanılarak ödenir. Bu bildirim, personelin aile yardımından yararlanan eş veya çocuk durumunda meydana gelen değişiklikler ile yer değiştirme suretiyle atama halinde yenilenir. Bildirimler, ödeme belgesinin **(Değişik ibare:RG-5/11/2016-29879)** birinci nüshasına eklenir.
 
 c) Doğum yardımı : Doğum olayının meydana geldiği yeri ve tarihi belirten ilgilinin dilekçesi ödeme belgesine bağlanır.
 
@@ -486,7 +486,7 @@ e) İhbar tazminatı ödemelerinde;
 
 ödeme belgesine bağlanır.
 
-Sendikalarla yapılan toplu sözleşmenin onaylı iki nüshası, yapılacak ödemelere esas olmak üzere dönem başında muhasebe birimine verilir. (Değişik cümle:RG-5/11/2016-29879) Toplu sözleşmenin bir nüshası ödeme emri belgesinin birinci nüshasına eklenir.
+Sendikalarla yapılan toplu sözleşmenin onaylı iki nüshası, yapılacak ödemelere esas olmak üzere dönem başında muhasebe birimine verilir. **(Değişik cümle:RG-5/11/2016-29879)** Toplu sözleşmenin bir nüshası ödeme emri belgesinin birinci nüshasına eklenir.
 
 #### Geçici personel giderleri
 
@@ -522,9 +522,9 @@ c) 5/6/1986 tarihli ve 3308 sayılı Çıraklık ve Meslek Eğitimi Kanunu uyar�
 
 **Madde 18 –** Er ve erbaş harçlıkları ve tayın bedellerinin ödenmesinde aşağıdaki belgeler aranır.
 
-a) Er ve erbaş (Mülga ibare:RG-5/11/2016-29879) (...) harçlıklarının ödenmesinde, Er ve Erbaş Harçlıkları Özet Bordrosu (Örnek: 21),
+a) Er ve erbaş **(Mülga ibare:RG-5/11/2016-29879)** (...) harçlıklarının ödenmesinde, Er ve Erbaş Harçlıkları Özet Bordrosu (Örnek: 21),
 
-b) Jandarma er ve erbaşlarının harçlıkları ve tayın bedellerinin avans olarak (Değişik ibare:RG-5/11/2016-29879) ödenmesi halinde, er ve erbaşların sayısı ile harçlık ve tayın bedeli tutarını gösteren yazı,
+b) Jandarma er ve erbaşlarının harçlıkları ve tayın bedellerinin avans olarak **(Değişik ibare:RG-5/11/2016-29879)** ödenmesi halinde, er ve erbaşların sayısı ile harçlık ve tayın bedeli tutarını gösteren yazı,
 
 c) Söz konusu avansların mahsubunda ve kazandan iaşesi mümkün olmayan diğer er ve erbaşların harçlık ve tayın bedelleri ile ordu hemşire, ebe ve hastabakıcılarının tayın bedellerinin ödenmesinde;
 
@@ -848,7 +848,7 @@ d) Hazineyi temsile yetkili görevlilere yapılacak yol tazminatı ödemelerinde
 
 - Yurtiçi/Yurtdışı Geçici Görev Yolluğu Bildirimi (Örnek : 27),
 
-- (Ek:RG-11/10/2017-30207) Keşif işlemlerinde keşif zaptı, haciz işlemlerinde haciz tutanağı,
+- **(Ek:RG-11/10/2017-30207)** Keşif işlemlerinde keşif zaptı, haciz işlemlerinde haciz tutanağı,
 
 ödeme belgesine bağlanır.
 
@@ -1458,7 +1458,7 @@ a) Hazine Müsteşarlığınca;
 
 ödeme belgesine bağlanır.
 
-b) (Değişik:RG-26/10/2024-32704) Sosyal güvenlik kurumlarına kendi mevzuatları ile verilen görevler dışında bir görev verilmesi durumunda verilen bu görevin ifası sonucu oluşan bedelin Hazinece karşılanması için yapılacak ödemelerde;
+b) **(Değişik:RG-26/10/2024-32704)** Sosyal güvenlik kurumlarına kendi mevzuatları ile verilen görevler dışında bir görev verilmesi durumunda verilen bu görevin ifası sonucu oluşan bedelin Hazinece karşılanması için yapılacak ödemelerde;
 
 - Harcama talimatı,
 
@@ -1594,7 +1594,7 @@ e) Devlet Malzeme Ofisinden ve idarelerin kendilerine bağlı döner sermayelerd
 
 Mal ve malzeme alım bedellerinin bir defadan fazla tahakkuk ettirilmesi halinde, onay belgesi ilk ödemeye ait ödeme belgesine bağlanır.
 
-f) (Ek:RG-11/10/2017-30207) Kamu İhale Kanununun ek 10 uncu maddesine göre, Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi kapsamında yapılacak mal ve hizmet alımlarına ilişkin giderlerin ödenmesinde;
+f) **(Ek:RG-11/10/2017-30207)** Kamu İhale Kanununun ek 10 uncu maddesine göre, Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi kapsamında yapılacak mal ve hizmet alımlarına ilişkin giderlerin ödenmesinde;
 
 - Onay Belgesi,
 
@@ -1778,9 +1778,9 @@ Bu maddenin yürürlüğe girdiği tarihten önce Yönetmeliğin 54 üncü madde
 
 **Madde 70 –** Bu Yönetmelik hükümlerini Maliye Bakanı yürütür.
 
-_______________
+<i>_______________</i>
 
-(1) Bu değişiklik 1/7/2009 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+<i>(1) Bu değişiklik 1/7/2009 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -1795,4 +1795,4 @@ _______________
 | 6. | 29/7/2021 | 31552 |
 | 7. | 26/10/2024 | 32704 |
 
-Yönetmeliğin eklerini görmek için tıklayınız.
+**Yönetmeliğin eklerini görmek için tıklayınız.**

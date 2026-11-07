@@ -14,11 +14,11 @@ durum: "yürürlükte"
 
 ### SULAR HAKKINDA KANUN [1]
 
-Kanun Numarası : 831
+**Kanun Numarası : 831**
 
-Kabul Tarihi : 28/4/1926
+**Kabul Tarihi : 28/4/1926**
 
-Yayımlandığı Resmî Gazete : Tarihi: 10/5/1926 Sayı: 368
+**Yayımlandığı Resmî Gazete : Tarihi: 10/5/1926 Sayı: 368**
 
 #### Yayımlandığı Düstur : Tertip: 3 Cilt: 7 Sayfa: 887
 
@@ -104,8 +104,8 @@ Masrafa iştirak paylarını vermiyenler hakkında Tahsili Emval Kanunu hüküml
 | 2659 | – | 1/1/1935 |
 | 6830 | – | 8/10/1956 |
 
-<small>[1] Bu kanun ile ek ve değişikliklerindeki hükümler gereğince Belediyelere devredilmiş olan ve bir kısmının işletilmesi 27/5/1933 tarih ve 2226 sayılı Kanunla İstanbul Belediyesine bağlı Sular İdaresine verilmiş olan Vakıf Sularla bunların hertürlü hak, yükümlülük ve tesislerinin 20/11/1981 tarih ve 2560 sayılı Kanunla kurulan İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğüne (İSKİ) devredilmesi mezkür kanunun geçici 1. maddesinin (a) bendi ile sağlanmıştır.</small>
+<small>[1] <i>Bu kanun ile ek ve değişikliklerindeki hükümler gereğince Belediyelere devredilmiş olan ve bir kısmının işletilmesi 27/5/1933 tarih ve 2226 sayılı Kanunla İstanbul Belediyesine bağlı Sular İdaresine verilmiş olan Vakıf Sularla bunların hertürlü hak, yükümlülük ve tesislerinin 20/11/1981 tarih ve 2560 sayılı Kanunla kurulan İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğüne (İSKİ) devredilmesi mezkür kanunun geçici 1. maddesinin (a) bendi ile sağlanmıştır.</i></small>
 
-<small>[2] Bu hükmün uygulanmasında ek 1., 2., 6. ve 9 ncu maddelere bakınız.</small>
+<small>[2] <i>Bu hükmün uygulanmasında ek 1., 2., 6. ve 9 ncu maddelere bakınız.</i></small>
 
-<small>[3] Bu maddede sözü edilen yedinci maddenin numarası teselsülü sağlamak için "Ek Madde 7" olarak değiştirilmiştir.</small>
+<small>[3] <i>Bu maddede sözü edilen yedinci maddenin numarası teselsülü sağlamak için "Ek Madde 7" olarak değiştirilmiştir.</i></small>

@@ -35,31 +35,31 @@ Devlet hizmeti yükümlülüğü kapsamında yapılacak atamalar açıktan atama
 Devlet memuru veya sözleşmeli sağlık personeli olarak Devlet hizmeti yükümlülüğünü tamamlayanlar, talepleri halinde sürelerle ilgili sınırlamalara tâbi olmaksızın ilgili mevzuata göre kurum içi veya kurumlar arası naklen veya açıktan atamaya hak kazanırlar.
 Devlet hizmeti yükümlüsü personel, bu Kanun hükümleri dışında genel hükümlere ve ilgili Kurum mevzuatına tâbidir.
 
-MADDE 2. — Sağlık Hizmetleri Temel Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 2. —** Sağlık Hizmetleri Temel Kanununa aşağıdaki geçici madde eklenmiştir.
 
 GEÇİCİ MADDE 6. — Bu Kanunun yürürlüğe girdiği tarihte tıp fakültelerinde öğrenim görenler ile tıpta uzmanlık ve yan dal uzmanlık eğitimi yapmakta olanlar bu Kanunun ek 3 üncü maddesi hükümlerine göre Devlet hizmeti yapmakla yükümlüdürler.
 
-MADDE 3. — 31.12.1980 tarihli ve 2368 sayılı Sağlık Personelinin Tazminat ve Çalışma Esaslarına Dair Kanunun 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 3. —** 31.12.1980 tarihli ve 2368 sayılı Sağlık Personelinin Tazminat ve Çalışma Esaslarına Dair Kanunun 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 4. — 1 inci madde kapsamına giren personelden; il sağlık müdürlüğü ve başhekimlik görevini yürütenler hariç olmak üzere özel kanunlarına göre meslek ve sanatlarını serbest olarak icra etme hak ve yetkisine sahip olanlar istedikleri takdirde, 1 inci maddede öngörülen tazminat hakkından yararlanmamak şartı ile serbest olarak çalışabilirler. Bunlara iş güçlüğü, iş riski ve teminindeki güçlük zamları veya bu mahiyetteki zamlar ödenmez.
 
-MADDE 4. — Sağlık Personelinin Tazminat ve Çalışma Esaslarına Dair Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 4. —** Sağlık Personelinin Tazminat ve Çalışma Esaslarına Dair Kanuna aşağıdaki geçici madde eklenmiştir.
 
 GEÇİCİ MADDE 1. — Bu Kanunun yürürlüğe girdiği tarihte il sağlık müdürlüğü ve başhekimlik görevini yürütenlerden mesleklerini serbest olarak icra etmekte olanlar, bu Kanunun yayımı tarihinden itibaren üç ay içinde serbest meslek faaliyetlerine son vermek veya bulundukları görevlerden ayrılmak zorundadırlar.
 
-MADDE 5. — 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 86 ncı maddesinin üçüncü fıkrasına "eczacılık" ibaresinden sonra gelmek üzere "köy ve beldelerdeki ebelik ve hemşirelik," ibaresi eklenmiştir.
+**MADDE 5. —** 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 86 ncı maddesinin üçüncü fıkrasına "eczacılık" ibaresinden sonra gelmek üzere "köy ve beldelerdeki ebelik ve hemşirelik," ibaresi eklenmiştir.
 
-MADDE 6. — 657 sayılı Devlet Memurları Kanununun ek 33 üncü maddesine aşağıdaki fıkralar eklenmiştir.
+**MADDE 6. —** 657 sayılı Devlet Memurları Kanununun ek 33 üncü maddesine aşağıdaki fıkralar eklenmiştir.
 İcap nöbeti tutan ve bu nöbet karşılığında kurumunca izin kullanmasına müsaade edilmeyen sağlık ve yardımcı sağlık hizmetleri sınıfı personeline, her bir izin suretiyle karşılanamayan icap nöbeti saati için (her bir icap nöbeti süresi kesintisiz oniki saatten az olmamak üzere), yukarıda nöbet ücreti için belirlenen ücretin %30'u tutarında icap nöbet ücreti ödenir. Bu şekilde ücretlendirilebilecek icap nöbeti toplam süresi, aylık yüzyirmi saati geçemez.
 Bu madde uyarınca yapılacak ödemeler, Sağlık Bakanlığına bağlı sağlık kurumlarında döner sermaye bütçesinden ödenir.
 
-MADDE 7. — 11.4.1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunun 3 üncü maddesinin birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 7. —** 11.4.1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunun 3 üncü maddesinin birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 Acil tıbbi yardım ve bakım ile sınırlı kalmak ve Sağlık Bakanlığınca çıkarılacak yönetmeliğinde belirtilmek kaydıyla acil tıp teknikerleri ile acil tıp teknisyenleri hastaya müdahale edebilir, bu hususta lazım gelen iş ve işlemleri yapabilirler. Hastane öncesi acil tıbbi yardım veren personel özel tip kıyafet giyer.
 
-MADDE 8. — 13.12.1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye aşağıdaki geçici madde eklenmiştir.
+**MADDE 8. —** 13.12.1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye aşağıdaki geçici madde eklenmiştir.
 
 GEÇİCİ MADDE 10. — Bakanlıklar ile bağlı ve ilgili kuruluşlarında müfettiş ve Maliye Bakanlığında muhasebat kontrolörü veya bütçe kontrolörü unvanını ihraz edenler Sağlık Bakanlığı müfettişliği kadrolarına, aynı kurumlarda başmüfettiş ve muhasebat baş kontrolörü veya bütçe baş kontrolörü unvanını ihraz edenler ise Sağlık Bakanlığı başmüfettişliği kadrolarına, 18.7.1990 tarihli ve 90/671 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Sağlık Bakanlığı Teftiş Kurulu Tüzüğünde belirlenen öğrenim şartını taşımaları kaydıyla bir yıl içinde naklen atanabilirler.
 
-MADDE 9. — Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 9. —** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 10. — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 10. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2017/08/20170805M1-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-BÖLGE ADLİYE VE BÖLGE İDARE MAHKEMELERİNİN İŞLEYİŞİNDE ORTAYA ÇIKAN SORUNLARIN GİDERİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7035 Kabul Tarihi: 20/7/2017
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**BÖLGE ADLİYE VE BÖLGE İDARE MAHKEMELERİNİN İŞLEYİŞİNDE ORTAYA ÇIKAN SORUNLARIN GİDERİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7035 **Kabul Tarihi: 20/7/2017**
 
 MADDE 1 – 6/1/1982 tarihli ve 2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanunun 3/B maddesinin başlığı “Bölge idare mahkemesi başkanı, daire başkanları ve üyelerinin görevleri:” şeklinde değiştirilmiş, birinci fıkrasının başına “1.” ibaresi, aynı fıkranın (f) bendine “denetlemek” ibaresinden sonra gelmek üzere “veya denetletmek, personelden kendisine doğrudan bağlı olanlar hakkında ilgili kanunda belirtilen disiplin cezalarını uygulamak” ibaresi ile aynı fıkraya (g) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş, mevcut (h) bendi (ı) bendi olarak teselsül ettirilmiş ve maddeye aşağıdaki fıkralar eklenmiştir.
 “h) Hukuki veya fiili nedenlerle bir dairenin kendi üyeleri ile toplanamadığı hâllerde ilgisine göre diğer dairelerden kıdem ve sıraya göre üye görevlendirmek.”

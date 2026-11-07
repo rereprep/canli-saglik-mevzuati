@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2003/07/20030729.htm#1"
 durum: "yürürlükte"
 ---
 
-Kanunlar Su Ürünleri Kanununda Değişiklik Yapılmasına Dair Kanun Kanun No. 4950 Kabul Tarihi : 22.7.2003
+**Kanunlar Su Ürünleri Kanununda Değişiklik Yapılmasına Dair Kanun Kanun No. 4950 Kabul Tarihi : 22.7.2003**
 
 
 MADDE 1 – 22.3.1971 tarihli ve 1380 sayılı Su Ürünleri Kanununun 13 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
@@ -96,10 +96,10 @@ Suç konusu fiillerin tekrarı, suçun tespit edildiği tarihten itibaren iki y�
 MADDE 8 – 1380 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 EK
 
-MADDE 3. — Bu Kanunun 36 ncı maddesinde yer alan idarî para cezaları mahallin en büyük mülkî amiri ile denizlerde Sahil Güvenlik Komutanlığı bot komutanları tarafından kesilir ve mahallin en büyük mal memurluğuna yatırılır.
+**MADDE 3. —** Bu Kanunun 36 ncı maddesinde yer alan idarî para cezaları mahallin en büyük mülkî amiri ile denizlerde Sahil Güvenlik Komutanlığı bot komutanları tarafından kesilir ve mahallin en büyük mal memurluğuna yatırılır.
 Mülkî amirler ceza kesme yetkilerini 33 üncü maddede belirtilen görevlilere önceden ilân etmek şartıyla devredebilirler.
 Cezaların kesilme usulleri, makbuzların şekli, dağıtımı ve kontrolü hususundaki usul ve esaslar yönetmelikle düzenlenir.
-Cezalar 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir.
+Cezalar 6183 sayılı Amme Alacaklarının Tahsil Usulü **Hakkında Kanun** hükümlerine göre tahsil edilir.
 İdarî para cezalarına karşı cezanın tebliğ tarihinden itibaren en geç yedi gün içinde yetkili idare mahkemesine itiraz edilebilir. İtiraz, idare tarafından verilen cezanın yerine getirilmesini durdurmaz. İtiraz, zaruret görülmeyen hallerde evrak üzerinden inceleme yapılarak karara bağlanır. İtiraz üzerine verilen karar kesindir.
 
 

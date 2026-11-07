@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-BİYOSİDAL ÜRÜNLER YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**BİYOSİDAL ÜRÜNLER YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 31/12/2009 tarihli ve 27449 dördüncü mükerrer sayılı Resmî Gazete’de yayımlanan Biyosidal Ürünler Yönetmeliğinin 11 inci maddesinin birinci fıkrasının üçüncü cümlesinde geçen “noter” ibaresinden sonra gelmek üzere “veya yeminli tercüman tarafından” ibaresi eklenmiştir.
 

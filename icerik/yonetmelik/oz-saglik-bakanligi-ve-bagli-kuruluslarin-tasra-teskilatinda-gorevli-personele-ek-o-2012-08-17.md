@@ -26,7 +26,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -108,9 +108,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Halk Sağlığı Müdürlüğü, Halk Sağlığı Müdürlüğüne Bağlı Birimler ile Merkez
+**Halk Sağlığı Müdürlüğü, Halk Sağlığı Müdürlüğüne Bağlı Birimler ile Merkez**
 
-Laboratuvarlarında Görevli Personel İçin Ek Ödeme Hesaplaması
+**Laboratuvarlarında Görevli Personel İçin Ek Ödeme Hesaplaması**
 
 #### Temel esaslar
 
@@ -284,9 +284,9 @@ d) Merkez laboratuvarlarının birim performans kriterleri ve puanları Türkiye
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İl Sağlık Müdürlüğü ile İl Sağlık Müdürlüğüne Bağlı Birimlerde
+**İl Sağlık Müdürlüğü ile İl Sağlık Müdürlüğüne Bağlı Birimlerde**
 
-Görevli Personel İçin Ek Ödeme Hesaplaması
+**Görevli Personel İçin Ek Ödeme Hesaplaması**
 
 #### Temel esaslar
 
@@ -416,7 +416,7 @@ f) Performans kriteri belirlenecek birimler ile birim performans kriterleri ve p
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Ek ödeme zamanı
 
@@ -450,4 +450,4 @@ f) Performans kriteri belirlenecek birimler ile birim performans kriterleri ve p
 
 **MADDE 23 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

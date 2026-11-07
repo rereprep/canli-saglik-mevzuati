@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -62,63 +62,63 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Standartların Uygulanması ve Değerlendirme
+**Standartların Uygulanması ve Değerlendirme**
 
 #### Sağlıkta kalite standartlarının uygulanması
 
-**MADDE 5 –** (1) (Değişik:RG-26/5/2023-32202) Sağlık kurum ve kuruluşları Türkiye Sağlıkta Kalite Sistemi kapsamında sağlıkta kalite standartlarına uygun çerçevede düzenlemeler yapar. SKS doğrultusunda öz değerlendirme gerçekleştirir. Öz değerlendirme sonuçlarını ve sorumluluk alanındaki sağlıkta kalite göstergelerine yönelik verileri, ilan edilen takvime göre Bakanlıkça oluşturulan elektronik sisteme kaydeder. Değerlendirme sonuçlarına göre gerekli görülen iyileştirme faaliyetlerini gerçekleştirir.
+**MADDE 5 –** (1) **(Değişik:RG-26/5/2023-32202)** Sağlık kurum ve kuruluşları Türkiye Sağlıkta Kalite Sistemi kapsamında sağlıkta kalite standartlarına uygun çerçevede düzenlemeler yapar. SKS doğrultusunda öz değerlendirme gerçekleştirir. Öz değerlendirme sonuçlarını ve sorumluluk alanındaki sağlıkta kalite göstergelerine yönelik verileri, ilan edilen takvime göre Bakanlıkça oluşturulan elektronik sisteme kaydeder. Değerlendirme sonuçlarına göre gerekli görülen iyileştirme faaliyetlerini gerçekleştirir.
 
-(2) (Değişik:RG-26/5/2023-32202) Sağlık kurum ve kuruluşlarının uygulaması gereken sağlıkta kalite standartları ve bunlara ilişkin rehberler Genel Müdürlükçe hazırlanarak Bakanlık veya Genel Müdürlük internet sitesinde yayımlanır.
+(2) **(Değişik:RG-26/5/2023-32202)** Sağlık kurum ve kuruluşlarının uygulaması gereken sağlıkta kalite standartları ve bunlara ilişkin rehberler Genel Müdürlükçe hazırlanarak Bakanlık veya Genel Müdürlük internet sitesinde yayımlanır.
 
 (3) Sağlık kurum ve kuruluşları, sağlıkta kalite standartları ve rehberlerinin yayımlandığı tarihten itibaren altı ay sonra sorumlu tutulurlar.
 
-(4) (Değişik:RG-26/5/2023-32202) Genel Müdürlük, SKS setleri, sağlıkta kalite göstergeleri ve klinik kalite göstergelerinin etkinliğini artırmak amacıyla uygulamaya yönelik uzaktan ya da yüz yüze eğitim faaliyetleri düzenler veya düzenlenmesini sağlar.
+(4) **(Değişik:RG-26/5/2023-32202)** Genel Müdürlük, SKS setleri, sağlıkta kalite göstergeleri ve klinik kalite göstergelerinin etkinliğini artırmak amacıyla uygulamaya yönelik uzaktan ya da yüz yüze eğitim faaliyetleri düzenler veya düzenlenmesini sağlar.
 
-(5) (Ek:RG-26/5/2023-32202) İl genelindeki sağlık kurum ve kuruluşlarında gerçekleştirilen kalite çalışmalarını koordine etmek, izlemek, değerlendirmek ve raporlamak amacıyla doğrudan il sağlık müdürüne bağlı olacak şekilde il kalite koordinatörlüğü kurulur. İl Sağlık Müdürlüğünün teklifi ve Genel Müdürlüğün onayı ile bir değerlendirici il kalite koordinatörü olarak görevlendirilir. Koordinatörün hekim olması tercih edilir. İlde çeşitli sebepler ile bir değerlendiricinin kalite koordinatörü olarak görevlendirilememesi durumunda, İl Sağlık Müdürlüğünün teklifi ve Genel Müdürlüğün onayı ile belirlenen bir sağlık çalışanı, Genel Müdürlükçe gerekli görülen eğitimleri aldıktan sonra il kalite koordinatörü olarak görevlendirilir.
+(5) **(Ek:RG-26/5/2023-32202)** İl genelindeki sağlık kurum ve kuruluşlarında gerçekleştirilen kalite çalışmalarını koordine etmek, izlemek, değerlendirmek ve raporlamak amacıyla doğrudan il sağlık müdürüne bağlı olacak şekilde il kalite koordinatörlüğü kurulur. İl Sağlık Müdürlüğünün teklifi ve Genel Müdürlüğün onayı ile bir değerlendirici il kalite koordinatörü olarak görevlendirilir. Koordinatörün hekim olması tercih edilir. İlde çeşitli sebepler ile bir değerlendiricinin kalite koordinatörü olarak görevlendirilememesi durumunda, İl Sağlık Müdürlüğünün teklifi ve Genel Müdürlüğün onayı ile belirlenen bir sağlık çalışanı, Genel Müdürlükçe gerekli görülen eğitimleri aldıktan sonra il kalite koordinatörü olarak görevlendirilir.
 
-(6) (Ek:RG-26/5/2023-32202) Sağlık kurum ve kuruluşlarında, SKS kapsamında gerçekleştirilen kalite çalışmalarını izlemek, değerlendirmek ve koordine etmek üzere kalite yönetim birimi kurulur. Sağlık kurum ve kuruluşunda tam zamanlı olarak görev yapan ve tercihen yönetici olan bir personel, kalite yönetim sorumlusu olarak görevlendirilir. Söz konusu personel, kapsamı ve içeriği Genel Müdürlükçe belirlenen sağlıkta kalite eğitimlerini tamamlar. Kalite yönetim sorumlusu, görevi itibarıyla doğrudan sağlık kurum ve kuruluşunun üst yöneticisine veya üst yöneticinin görevi devrettiği yardımcısına bağlı olarak çalışır. Hastaneler için kalite yönetiminden sorumlu birimlerin yapılanması ve görevlendirilecek personel sayısı aşağıdaki esaslar doğrultusunda tanımlanır:
+(6) **(Ek:RG-26/5/2023-32202)** Sağlık kurum ve kuruluşlarında, SKS kapsamında gerçekleştirilen kalite çalışmalarını izlemek, değerlendirmek ve koordine etmek üzere kalite yönetim birimi kurulur. Sağlık kurum ve kuruluşunda tam zamanlı olarak görev yapan ve tercihen yönetici olan bir personel, kalite yönetim sorumlusu olarak görevlendirilir. Söz konusu personel, kapsamı ve içeriği Genel Müdürlükçe belirlenen sağlıkta kalite eğitimlerini tamamlar. Kalite yönetim sorumlusu, görevi itibarıyla doğrudan sağlık kurum ve kuruluşunun üst yöneticisine veya üst yöneticinin görevi devrettiği yardımcısına bağlı olarak çalışır. Hastaneler için kalite yönetiminden sorumlu birimlerin yapılanması ve görevlendirilecek personel sayısı aşağıdaki esaslar doğrultusunda tanımlanır:
 
 a) Kalite yönetim birimlerinde hastane yatak sayısına göre; 150 yatağa kadar en az 2 personel, 150-299 yatak arası en az 3 personel, 300-599 yatak arası en az 5 personel, 600-999 yatak arası en az 6 personel, 1000-1499 yatak arası en az 7 personel, 1500 yatak ve üzeri için en az 8 personel görevlendirilir.
 
 b) Koordinatör başhekimliklerin bulunduğu şehir hastanelerinde, her bir başhekimliğe bağlı kalite yönetim birimlerini koordine etmek amacı ile koordinatör başhekimlik bünyesinde kalite yönetim direktörlüğü kurulur. Ayrıca, bağlı her bir hastanede yatak sayısına göre personel görevlendirilerek kalite yönetim birimi oluşturulur ve her bir kalite yönetim birimi için kalite yönetim sorumlusu tanımlanır.
 
-(7) (Ek:RG-26/5/2023-32202) İl kalite koordinatörlüğü ve kalite yönetim birimlerinin görevlerini yürütebilmesi için ilin veya sağlık kurum ve kuruluşunun büyüklüğü ve ihtiyaçları göz önünde bulundurularak uygun fiziki mekân, araç-gereç, teknik donanım ile yeterli sayıda ve nitelikte personel sağlanır.
+(7) **(Ek:RG-26/5/2023-32202)** İl kalite koordinatörlüğü ve kalite yönetim birimlerinin görevlerini yürütebilmesi için ilin veya sağlık kurum ve kuruluşunun büyüklüğü ve ihtiyaçları göz önünde bulundurularak uygun fiziki mekân, araç-gereç, teknik donanım ile yeterli sayıda ve nitelikte personel sağlanır.
 
-(8) (Ek:RG-26/5/2023-32202) Genel Müdürlük, ülke öncelikleri ve Bakanlık politikalarını dikkate alarak klinik kalite kapsamında izlenmesi gereken sağlık olgularını belirler. Belirlenen sağlık olgularında, tanı ve tedavi süreçlerinin ulusal ve uluslararası kabul görmüş bilimsel ilkeler doğrultusunda gerçekleştirilme durumunu izlemek amacı ile standart, gösterge ve ölçme-değerlendirme rehberlerini geliştirir. Standart ve göstergelerin sağlık kuruluşlarında uygulanma düzeyini izlemek ve geliştirmek üzere gerekli faaliyetleri gerçekleştirir.
+(8) **(Ek:RG-26/5/2023-32202)** Genel Müdürlük, ülke öncelikleri ve Bakanlık politikalarını dikkate alarak klinik kalite kapsamında izlenmesi gereken sağlık olgularını belirler. Belirlenen sağlık olgularında, tanı ve tedavi süreçlerinin ulusal ve uluslararası kabul görmüş bilimsel ilkeler doğrultusunda gerçekleştirilme durumunu izlemek amacı ile standart, gösterge ve ölçme-değerlendirme rehberlerini geliştirir. Standart ve göstergelerin sağlık kuruluşlarında uygulanma düzeyini izlemek ve geliştirmek üzere gerekli faaliyetleri gerçekleştirir.
 
-(9) (Ek:RG-26/5/2023-32202) Genel Müdürlük, klinik kalite sağlık olguları ve gerektiğinde kalite çalışmaları kapsamında, standart, gösterge ve rehber çalışmalarına yönelik bilimsel komisyonlar oluşturabilir.
+(9) **(Ek:RG-26/5/2023-32202)** Genel Müdürlük, klinik kalite sağlık olguları ve gerektiğinde kalite çalışmaları kapsamında, standart, gösterge ve rehber çalışmalarına yönelik bilimsel komisyonlar oluşturabilir.
 
 #### Değerlendirme
 
-**MADDE 6 –** (1) (Değişik:RG-26/5/2023-32202) Bakanlık, sağlıkta kalite standartları doğrultusunda sağlık kurum ve kuruluşlarında ölçme ve değerlendirme faaliyetini gerçekleştirir. Ölçme ve değerlendirme süreci Bakanlıkça oluşturulan elektronik sistem aracılığı ile yönetilir.
+**MADDE 6 –** (1) **(Değişik:RG-26/5/2023-32202)** Bakanlık, sağlıkta kalite standartları doğrultusunda sağlık kurum ve kuruluşlarında ölçme ve değerlendirme faaliyetini gerçekleştirir. Ölçme ve değerlendirme süreci Bakanlıkça oluşturulan elektronik sistem aracılığı ile yönetilir.
 
 (2) Sağlıkta kalite standartlarının hazırlanması, değerlendirme süreci ve değerlendiricilerin belirlenmesine ilişkin tüm iş ve işlemler Genel Müdürlükçe yürütülür.
 
-(3) (Değişik:RG-26/5/2023-32202) Değerlendirmeler Genel Müdürlükçe belirlenen tarihlerde yapılır. Genel Müdürlük belirlenen sağlık kurum ve kuruluşlarına yönelik ölçme ve değerlendirme faaliyetini gerçekleştirmek üzere İl Sağlık Müdürlüğüne yetki verebilir. Gerekli hallerde, sağlık kuruluşuna haber vermeden değerlendirme gerçekleştirebilir. Faaliyete yeni başlayan kurumlar, yeni bir setin yayınlanması, afet ve acil durumlar gibi hallerde sağlık kuruluşlarına yönelik değerlendirme muafiyeti veya erteleme kararı verebilir.
+(3) **(Değişik:RG-26/5/2023-32202)** Değerlendirmeler Genel Müdürlükçe belirlenen tarihlerde yapılır. Genel Müdürlük belirlenen sağlık kurum ve kuruluşlarına yönelik ölçme ve değerlendirme faaliyetini gerçekleştirmek üzere İl Sağlık Müdürlüğüne yetki verebilir. Gerekli hallerde, sağlık kuruluşuna haber vermeden değerlendirme gerçekleştirebilir. Faaliyete yeni başlayan kurumlar, yeni bir setin yayınlanması, afet ve acil durumlar gibi hallerde sağlık kuruluşlarına yönelik değerlendirme muafiyeti veya erteleme kararı verebilir.
 
-(4) (Değişik:RG-26/5/2023-32202) Sağlık kurum ve kuruluşları, sağlıkta kalite değerlendirmesi sırasında değerlendirici tarafından talep edilen SKS’ye esas bilgi ve belgeleri sunar, değerlendirmeye ilişkin faaliyetlerin gerçekleştirilmesi için gerekli çalışmayı yapar.
+(4) **(Değişik:RG-26/5/2023-32202)** Sağlık kurum ve kuruluşları, sağlıkta kalite değerlendirmesi sırasında değerlendirici tarafından talep edilen SKS’ye esas bilgi ve belgeleri sunar, değerlendirmeye ilişkin faaliyetlerin gerçekleştirilmesi için gerekli çalışmayı yapar.
 
-(5) (Değişik:RG-26/5/2023-32202) Sağlıkta kalite standartlarının tümü veya Genel Müdürlükçe belirlenecek bir kısmı ve/veya bölümler üzerinden değerlendirme yapılabilir. Kalite değerlendirmeleri, Genel Müdürlükçe yayımlanan Sağlıkta Kalite Standartları Ölçme, Değerlendirme ve Puanlandırma Sistematiğine uygun olarak gerçekleştirilir. Sağlık kurum ve kuruluşlarına ilişkin kalite puanı ile kurumsal hizmetler ve hasta, çalışan güvenliği puanı, puanlandırma sistematiğine göre hesaplanır. Ölçme ve değerlendirme sonuçları, faaliyetin tamamlanmasını takiben en geç on gün içinde Bakanlıkça oluşturulan elektronik sistem üzerinden sağlık kurum ve kuruluşlarına iletilir.
+(5) **(Değişik:RG-26/5/2023-32202)** Sağlıkta kalite standartlarının tümü veya Genel Müdürlükçe belirlenecek bir kısmı ve/veya bölümler üzerinden değerlendirme yapılabilir. Kalite değerlendirmeleri, Genel Müdürlükçe yayımlanan Sağlıkta Kalite Standartları Ölçme, Değerlendirme ve Puanlandırma Sistematiğine uygun olarak gerçekleştirilir. Sağlık kurum ve kuruluşlarına ilişkin kalite puanı ile kurumsal hizmetler ve hasta, çalışan güvenliği puanı, puanlandırma sistematiğine göre hesaplanır. Ölçme ve değerlendirme sonuçları, faaliyetin tamamlanmasını takiben en geç on gün içinde Bakanlıkça oluşturulan elektronik sistem üzerinden sağlık kurum ve kuruluşlarına iletilir.
 
-(6) (Değişik:RG-26/5/2023-32202) Sağlık kurum ve kuruluşları değerlendirme sonucunun tebliğinden itibaren en geç üç iş günü içinde değerlendirme sonucu hakkında Genel Müdürlüğe itiraz başvurusunda bulunabilir. Kalite puanı ile kurumsal hizmetler ve hasta, çalışan güvenliği puanına ilişkin itiraz başvuruları Bakanlıkça oluşturulan elektronik sistem üzerinden Genel Müdürlüğe iletilir. İtiraz başvurularını değerlendirmek üzere, Genel Müdürlük personelinden oluşan beş kişilik itiraz değerlendirme komisyonu kurulur. Komisyona itiraz başvuruları ile ilgili görüşlerini sunmak üzere, sertifikalı SKS değerlendiricileri arasından belirlenen kişilerin yer aldığı teknik inceleme heyeti oluşturulur. Teknik inceleme heyeti üyeleri itirazlara ilişkin başvuruları inceler ve elektronik sistem üzerinden görüşlerini bildirir. İtiraz değerlendirme komisyonu tarafından, teknik inceleme heyeti üyelerinin görüşleri dikkate alınarak itiraz değerlendirilir ve başvuru tarihinden itibaren en geç otuz iş günü içerisinde sonuçlandırılır. Kararlar toplantıya katılanların salt çoğunluğu ile alınır ve komisyon toplantı yeter sayısı üç kişidir. İtiraz başvuru sonuçları elektronik sistem üzerinden sağlık kurum ve kuruluşuna bildirilir.
+(6) **(Değişik:RG-26/5/2023-32202)** Sağlık kurum ve kuruluşları değerlendirme sonucunun tebliğinden itibaren en geç üç iş günü içinde değerlendirme sonucu hakkında Genel Müdürlüğe itiraz başvurusunda bulunabilir. Kalite puanı ile kurumsal hizmetler ve hasta, çalışan güvenliği puanına ilişkin itiraz başvuruları Bakanlıkça oluşturulan elektronik sistem üzerinden Genel Müdürlüğe iletilir. İtiraz başvurularını değerlendirmek üzere, Genel Müdürlük personelinden oluşan beş kişilik itiraz değerlendirme komisyonu kurulur. Komisyona itiraz başvuruları ile ilgili görüşlerini sunmak üzere, sertifikalı SKS değerlendiricileri arasından belirlenen kişilerin yer aldığı teknik inceleme heyeti oluşturulur. Teknik inceleme heyeti üyeleri itirazlara ilişkin başvuruları inceler ve elektronik sistem üzerinden görüşlerini bildirir. İtiraz değerlendirme komisyonu tarafından, teknik inceleme heyeti üyelerinin görüşleri dikkate alınarak itiraz değerlendirilir ve başvuru tarihinden itibaren en geç otuz iş günü içerisinde sonuçlandırılır. Kararlar toplantıya katılanların salt çoğunluğu ile alınır ve komisyon toplantı yeter sayısı üç kişidir. İtiraz başvuru sonuçları elektronik sistem üzerinden sağlık kurum ve kuruluşuna bildirilir.
 
-(7) (Değişik:RG-26/5/2023-32202) Sağlık kurum ve kuruluşları, değerlendirmeler sonucunda “kısmen karşılanıyor” ve “karşılanmıyor” olarak tespit edilen standart ve göstergelere yönelik kalite iyileştirme eylem planlarını hazırlar. Eylem planlarının değerlendirilmesine ilişkin usul ve esaslar Genel Müdürlükçe belirlenir.
+(7) **(Değişik:RG-26/5/2023-32202)** Sağlık kurum ve kuruluşları, değerlendirmeler sonucunda “kısmen karşılanıyor” ve “karşılanmıyor” olarak tespit edilen standart ve göstergelere yönelik kalite iyileştirme eylem planlarını hazırlar. Eylem planlarının değerlendirilmesine ilişkin usul ve esaslar Genel Müdürlükçe belirlenir.
 
-(8) (Değişik:RG-26/5/2023-32202) Sağlık kurum ve kuruluşlarının ilgili yılda aldıkları kalite puanları takip eden değerlendirme tarihine kadar geçerlidir.
+(8) **(Değişik:RG-26/5/2023-32202)** Sağlık kurum ve kuruluşlarının ilgili yılda aldıkları kalite puanları takip eden değerlendirme tarihine kadar geçerlidir.
 
-(9) (Değişik:RG-26/5/2023-32202) Sağlıkta kalite değerlendirmesi sonucunda doksan beş ve üstü kalite puanı alan sağlık kurum ve kuruluşları, Bakanlık veya Genel Müdürlük internet sitesinden ilan edilir. Ayrıca bu sağlık kurum ve kuruluşlarına, Bakanlıkça SKS logo kullanım hakkı ve ilgili mevzuatı çerçevesinde plaket ve/veya başarı belgesi verilir.
+(9) **(Değişik:RG-26/5/2023-32202)** Sağlıkta kalite değerlendirmesi sonucunda doksan beş ve üstü kalite puanı alan sağlık kurum ve kuruluşları, Bakanlık veya Genel Müdürlük internet sitesinden ilan edilir. Ayrıca bu sağlık kurum ve kuruluşlarına, Bakanlıkça SKS logo kullanım hakkı ve ilgili mevzuatı çerçevesinde plaket ve/veya başarı belgesi verilir.
 
-(10) (Ek:RG-26/5/2023-32202) Bakanlık veya ilgili/bağlı kuruluşlarınca hazırlanarak uluslararası akreditasyonu gerçekleştirilen standartlar çerçevesinde akreditasyon belgesi alan sağlık kurum ve kuruluşları belgenin geçerli olduğu süre boyunca, sağlıkta kalite değerlendirmelerinden muaf tutulur. Bu durumda, sağlık kuruluşunun kalite puanı ile kurumsal hizmetler ve hasta, çalışan güvenliği puanı, yüz puan olarak kabul edilir.
+(10) **(Ek:RG-26/5/2023-32202)** Bakanlık veya ilgili/bağlı kuruluşlarınca hazırlanarak uluslararası akreditasyonu gerçekleştirilen standartlar çerçevesinde akreditasyon belgesi alan sağlık kurum ve kuruluşları belgenin geçerli olduğu süre boyunca, sağlıkta kalite değerlendirmelerinden muaf tutulur. Bu durumda, sağlık kuruluşunun kalite puanı ile kurumsal hizmetler ve hasta, çalışan güvenliği puanı, yüz puan olarak kabul edilir.
 
-(11) (Ek:RG-26/5/2023-32202) Sağlıkta kalite değerlendirmelerinde görev alacak sağlıkta kalite değerlendiricilerine yönelik eğitimler, 4/2/2014 tarihli ve 28903 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği kapsamında yürütülür.
+(11) **(Ek:RG-26/5/2023-32202)** Sağlıkta kalite değerlendirmelerinde görev alacak sağlıkta kalite değerlendiricilerine yönelik eğitimler, 4/2/2014 tarihli ve 28903 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği kapsamında yürütülür.
 
-(12) (Ek:RG-26/5/2023-32202) Değerlendirici, mücbir sebepler ve yasal mazeretler dışında, Bakanlık tarafından yapılan sağlıkta kalite değerlendirme görevine belirlenen tarihlerde iştirak eder. Kişinin belirlenen tarihte görevine başlaması amacı ile değerlendiricinin bağlı bulunduğu amir tarafından gerekli işlemler tesis edilir.
+(12) **(Ek:RG-26/5/2023-32202)** Değerlendirici, mücbir sebepler ve yasal mazeretler dışında, Bakanlık tarafından yapılan sağlıkta kalite değerlendirme görevine belirlenen tarihlerde iştirak eder. Kişinin belirlenen tarihte görevine başlaması amacı ile değerlendiricinin bağlı bulunduğu amir tarafından gerekli işlemler tesis edilir.
 
-(13) (Ek:RG-26/5/2023-32202) Genel Müdürlük, değerlendirici kapasitesinin nitelik ve nicelik olarak geliştirilmesi için gerekli hizmet içi eğitim faaliyetleri ile değerlendirme dönemi öncesi ve sonrası bilgilendirme toplantılarını düzenler.
+(13) **(Ek:RG-26/5/2023-32202)** Genel Müdürlük, değerlendirici kapasitesinin nitelik ve nicelik olarak geliştirilmesi için gerekli hizmet içi eğitim faaliyetleri ile değerlendirme dönemi öncesi ve sonrası bilgilendirme toplantılarını düzenler.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 

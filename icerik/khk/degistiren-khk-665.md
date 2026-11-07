@@ -12,47 +12,47 @@ kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=665&MevzuatTur=4&Mevzu
 durum: "yürürlükte"
 ---
 
-ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME
+**ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME**
 
-Kanun Hükmünde Kararnamenin Tarihi: 11/10/2011 No: 665
+**Kanun Hükmünde Kararnamenin Tarihi: 11/10/2011 No: 665**
 
-Yetki Kanununun Tarihi : 6/4/2011 No: 6223
+**Yetki Kanununun Tarihi : 6/4/2011 No: 6223**
 
-Yayımlandığı R.G. Tarihi : 2/11/2011 No: 28103 Mükerrer
+**Yayımlandığı R.G. Tarihi : 2/11/2011 No: 28103 Mükerrer**
 
-Yayımlandığı Düstur : Tertip: 5 Cilt: 51
+**Yayımlandığı Düstur : Tertip: 5 Cilt: 51**
 
-MADDE 1 ilâ 8 – (9/1/1985 tarihli ve 3146 sayılı Çalışma ve Sosyal Güvenlik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
+**MADDE 1 ilâ 8 – (9/1/1985 tarihli ve 3146 sayılı Çalışma ve Sosyal Güvenlik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)**
 
-MADDE 9 ilâ 15 – (16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumu Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 9 ilâ 15 – (16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumu Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-MADDE 16 ilâ 26 – (25/6/2003 tarihli ve 4904 sayılı Türkiye İş Kurumu Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 16 ilâ 26 – (25/6/2003 tarihli ve 4904 sayılı Türkiye İş Kurumu Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-MADDE 27 ‒ (14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 27 ‒ (14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-MADDE 28 ‒ (22/5/2003 tarihli ve 4857 sayılı İş Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 28 ‒ (22/5/2003 tarihli ve 4857 sayılı İş Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-MADDE 29 ‒ 30 - (31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 29 ‒ 30 - (31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-MADDE 31 ilâ 45 - (21/9/2006 tarihli ve 5544 sayılı Meslekî Yeterlilik Kurumu Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 31 ilâ 45 - (21/9/2006 tarihli ve 5544 sayılı Meslekî Yeterlilik Kurumu Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-MADDE 46 ‒ Bu Kanun Hükmünde Kararnameye ekli (2) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çalışma ve Sosyal Güvenlik Bakanlığına ait bölümünden çıkarılmış, ekli (3) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çalışma ve Sosyal Güvenlik Bakanlığına ait bölümüne eklenmiştir.
+**MADDE 46 ‒** Bu Kanun Hükmünde Kararnameye ekli (2) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çalışma ve Sosyal Güvenlik Bakanlığına ait bölümünden çıkarılmış, ekli (3) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çalışma ve Sosyal Güvenlik Bakanlığına ait bölümüne eklenmiştir.
 
 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Türkiye İş Kurumu Genel Müdürlüğüne ait bölümündeki kadrolar iptal edilmiş ve ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Türkiye İş Kurumu Genel Müdürlüğü bölümüne eklenmiştir.
 
 Ekli (5) sayılı listede yer alan kadro iptal edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Sosyal Güvenlik Kurumuna ait bölümünden çıkarılmış, ekli (6) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Sosyal Güvenlik Kurumuna ait bölümüne eklenmiştir.[1]
 
-Hak ve alacakların devri
+**Hak ve alacakların devri**
 
-GEÇİCİ MADDE 1 ‒ (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinde; Çalışma ve Sosyal Güvenlik Bakanlığı Teftiş Kurulu Başkanlığı ve Türkiye İş Kurumu Teftiş Kurulu Başkanlığı tarafından kullanılan taşınır, taşıt, araç, gereç, malzeme, yazılı ve elektronik ortamdaki kayıtlar ve diğer dokümanlar hiçbir işleme gerek kalmaksızın İş Teftiş Kurulu Başkanlığına devredilmiş sayılır.
+**GEÇİCİ MADDE 1 ‒** (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinde; Çalışma ve Sosyal Güvenlik Bakanlığı Teftiş Kurulu Başkanlığı ve Türkiye İş Kurumu Teftiş Kurulu Başkanlığı tarafından kullanılan taşınır, taşıt, araç, gereç, malzeme, yazılı ve elektronik ortamdaki kayıtlar ve diğer dokümanlar hiçbir işleme gerek kalmaksızın İş Teftiş Kurulu Başkanlığına devredilmiş sayılır.
 
 (2) Çalışma ve Sosyal Güvenlik Bakanlığının kapatılan Bölge Müdürlükleri ve Şube Müdürlüğüne ait her türlü taşınır, taşıt, araç, gereç ve malzeme, borç ve alacaklar, hak ve yükümlülükler, yazılı ve elektronik ortamdaki her türlü kayıt ve dokümanlar, bu Kanun Hükmünde Kararnamenin yayımı tarihinde hiçbir işleme gerek kalmaksızın Türkiye İş Kurumuna devredilmiş sayılır. Mülkiyeti Hazineye ait veya Devletin hüküm ve tasarrufu altındaki taşınmazlardan Bölge Müdürlükleri ile Şube Müdürlüğüne tahsis edilmiş olanlar hiçbir işleme gerek kalmaksızın tahsis amacında kullanılmak üzere Türkiye İş Kurumuna tahsis edilmiş sayılır.
 
 (3) Çalışma ve Sosyal Güvenlik Bakanlığının kapatılan Bölge Müdürlükleri ile Şube Müdürlüğünün Türkiye İş Kurumuna devri, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren altı ay içinde tamamlanır. Devir işlemleri tamamlanıncaya kadar, bu Kanun Hükmünde Kararname ile kapatılan Çalışma ve Sosyal Güvenlik Bakanlığı Bölge Müdürlükleri ve Şube Müdürlüğüne ait görevlerin mevcut personel tarafından ilgili mevzuatına göre yürütülmesine devam olunur.
 
-Personele dair geçiş hükümleri
+**Personele dair geçiş hükümleri**
 
-GEÇİCİ MADDE 2 ‒ (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinde;
+**GEÇİCİ MADDE 2 ‒** (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinde;
 
 a) Çalışma ve Sosyal Güvenlik Bakanlığı Teftiş Kurulu Başkanı, İş Teftiş Kurulu Başkanı ve Türkiye İş Kurumu Teftiş Kurulu Başkanı,
 
@@ -82,20 +82,20 @@ kadrolarında bulunanların görevi hiçbir işleme gerek kalmaksızın sona ere
 
 (10) Bu Kanun Hükmünde Kararnameye göre yeniden düzenleme ve atamalar yapılıncaya kadar değişen veya yeniden kurulan birimlere verilen görevler, daha önce bu görevleri yapmakta olan birimler ve personel tarafından yapılmaya devam edilir.
 
-Sorunların giderilmesi
+**Sorunların giderilmesi**
 
-GEÇİCİ MADDE 3 ‒ (1) Bu Kanun Hükmünde Kararname ile gerçekleştirilen kapatma, devir, personel geçişi ve nakli, diğer geçiş işlemleri ile kadro, demirbaş devri ve benzeri hususlara ilişkin ortaya çıkacak tereddütleri gidermeye Çalışma ve Sosyal Güvenlik Bakanı yetkilidir.
+**GEÇİCİ MADDE 3 ‒** (1) Bu Kanun Hükmünde Kararname ile gerçekleştirilen kapatma, devir, personel geçişi ve nakli, diğer geçiş işlemleri ile kadro, demirbaş devri ve benzeri hususlara ilişkin ortaya çıkacak tereddütleri gidermeye Çalışma ve Sosyal Güvenlik Bakanı yetkilidir.
 
-Kadro değişiklikleri
+**Kadro değişiklikleri**
 
-GEÇİCİ MADDE 4 ‒ (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren bir yıl süreyle 190 sayılı Kanun Hükmünde Kararnamenin 9 uncu maddesinin son fıkrasında yer alan sınırlama ile bağlı olmaksızın boş kadrolarda sınıf, unvan ve derece, dolu kadrolarda derece değişikliği yapmaya Bakanlar Kurulu yetkilidir.
+**GEÇİCİ MADDE 4 ‒** (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren bir yıl süreyle 190 sayılı Kanun Hükmünde Kararnamenin 9 uncu maddesinin son fıkrasında yer alan sınırlama ile bağlı olmaksızın boş kadrolarda sınıf, unvan ve derece, dolu kadrolarda derece değişikliği yapmaya Bakanlar Kurulu yetkilidir.
 
-Düzenleyici işlemler
+**Düzenleyici işlemler**
 
-GEÇİCİ MADDE 5 ‒ (1) Bu Kanun Hükmünde Kararnamede öngörülen düzenlemeler, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren bir yıl içinde yürürlüğe konulur. Anılan düzenlemeler yürürlüğe girinceye kadar mevcut düzenlemelerin bu Kanun Hükmünde Kararnameye aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+**GEÇİCİ MADDE 5 ‒** (1) Bu Kanun Hükmünde Kararnamede öngörülen düzenlemeler, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren bir yıl içinde yürürlüğe konulur. Anılan düzenlemeler yürürlüğe girinceye kadar mevcut düzenlemelerin bu Kanun Hükmünde Kararnameye aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 
-MADDE 47 ‒ Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.
+**MADDE 47 ‒** Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.
 
-MADDE 48 ‒ Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 48 ‒** Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.
 
-<small>[1] Bu maddede yer alan kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 (Mükerrer) sayılı Resmî Gazete’ye bakınız.</small>
+<small>[1] <i>Bu maddede yer alan kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 (Mükerrer) sayılı Resmî Gazete’ye bakınız.</i></small>

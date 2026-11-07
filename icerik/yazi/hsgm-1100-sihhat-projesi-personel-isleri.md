@@ -33,15 +33,15 @@ Sigortalar ve Genel Sağlık Sigortası Kanunu’nun 4/1-a bendine tabi olarak 4
 
 Akdedilen belirli süreli iş sözleşmesinin Günlük ve Haftalık Çalışma Süresi başlıklı 4.cü maddesinde;
 
-“Haftalık çalışma süresi 4857 sayılı iş kanunun 63.maddesi doğrultusunda en fazla 45 saattir. 3153 Sayılı
+<i>“Haftalık çalışma süresi 4857 sayılı iş kanunun 63.maddesi doğrultusunda en fazla 45 saattir. 3153 Sayılı</i>
 
-Radyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanun Ek 1’inci maddesi hükümlerine uygun olmak kaydıyla Radyoloji Teknisyenlerinin Haftalık Çalışma Süresi 35 saattir.” hükümleri yer almaktadır.
+<i>Radyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanun Ek 1’inci maddesi</i> <i>hükümlerine uygun olmak kaydıyla Radyoloji Teknisyenlerinin Haftalık Çalışma Süresi 35 saattir.”</i> hükümleri yer almaktadır.
 
 İstihdam edilen personelin yıllık izinlerine ilişkin hususlar, 4857 Sayılı İş Kanunu’nun 53 ve sair maddeleri ile 03.03.2004 tarih ve 25391 sayılı Resmî Gazete’de yayımlanan Yıllık Ücretli İzin Yönetmeliği çerçevesinde değerlendirilmekte ve ilgili kanun maddeleri ve yönetmelik uyarınca yayımlanan “SIHHAT Projesi
 
 İzin Prosedürü” doğrultusunda uygulanmaktadır. Personelin yıllık ücretli izin hakkedişleri, 4857 Sayılı İş Kanunu
 
-Madde 53’te belirtildiği gibi “İşyerinde işe başladığı günden itibaren, deneme süresi de içinde olmak üzere, en az bir yıl çalışmış olan işçilere yıllık ücretli izin verilir.” İbaresi gereğince sözleşme başlangıç tarihi esas alınarak hesaplanmaktadır.
+Madde 53’te belirtildiği gibi “<i>İşyerinde işe başladığı günden itibaren, deneme süresi de içinde olmak üzere, en</i> <i>az bir yıl çalışmış olan işçilere yıllık ücretli izin verilir.”</i> İbaresi gereğince sözleşme başlangıç tarihi esas alınarak hesaplanmaktadır.
 
 Projenin mevcut ilerleme süreci ve bütçe gerçekleşmeleri ile 17 Mayıs 2024 tarih ve 32549 sayılı Resmi
 

@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -84,7 +84,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-İşverenin Yükümlülükleri ve Risk Değerlendirmesi
+**İşverenin Yükümlülükleri ve Risk Değerlendirmesi**
 
 #### İşverenin yükümlülükleri
 
@@ -130,7 +130,7 @@ f) Varsa daha önce yapılmış olan sağlık gözetimlerinin sonuçları.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Tozla Mücadele Komisyonu, Toz Ölçümleri ve Maruziyet Sınır Değerleri
+**Tozla Mücadele Komisyonu, Toz Ölçümleri ve Maruziyet Sınır Değerleri**
 
 #### Tozla mücadele komisyonu
 
@@ -160,9 +160,9 @@ c) Ölçüm sonuçlarının, Ek-1’de belirtilen mesleki maruziyet sınır değ
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Sağlık Gözetimi, Pnömokonyozdan Korunma ve Pnömokonyoz
+**Sağlık Gözetimi, Pnömokonyozdan Korunma ve Pnömokonyoz**
 
-Tanısı ile İlgili İşlemler
+**Tanısı ile İlgili İşlemler**
 
 #### Sağlık gözetimi
 
@@ -214,7 +214,7 @@ b) Kategori 1 ve üzeri olarak değerlendirilenlerin; SGK tarafından yetkilendi
 
 ### BEŞİNCİ BÖLÜM
 
-Eğitim
+**Eğitim**
 
 #### Çalışanların eğitimi ve bilgilendirilmesi
 
@@ -234,7 +234,7 @@ c) Çalışanların kendilerini ve diğer çalışanları tehlikelerden korumas�
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Tozla mücadele birimleri
 

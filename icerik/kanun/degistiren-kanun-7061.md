@@ -12,15 +12,15 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2017/12/20171205-12.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-BAZI VERGİ KANUNLARI İLE DİĞER BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7061 Kabul Tarihi: 28/11/2017
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**BAZI VERGİ KANUNLARI İLE DİĞER BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7061 Kabul Tarihi: 28/11/2017**
 
 
 MADDE 1 – 4/2/1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanununun ek 37 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 “EK
 
-MADDE 37- Kurum tarafından sayısı sınırlandırılarak ulusal çapta, kamuya açık mobil elektronik haberleşme hizmeti sunmak üzere;
+**MADDE 37-** Kurum tarafından sayısı sınırlandırılarak ulusal çapta, kamuya açık mobil elektronik haberleşme hizmeti sunmak üzere;
 a) İmtiyaz sözleşmeleri ve/veya yetkilendirme belgelerine istinaden yetkilendirilen işletmeciler aylık brüt satışlarının yüzde 15’ini Hazine payı olarak öderler.
 b) Yetkilendirilen işletmecilerin şebekeleri üzerinden elektronik haberleşme hizmeti sunmak üzere yetkilendirilen diğer işletmeciler, bu yetkilendirme kapsamında doğan aylık brüt satışlarının yüzde 15’ini Hazine payı olarak öderler.
 c) İmtiyaz sözleşmeleri kapsamında yetkilendirilen işletmeciler, yıllık net satışlarının on binde 35’ini Kurum masraflarına katkı payı olarak öderler.
@@ -44,7 +44,7 @@ Bu maddenin uygulamasına ilişkin usul ve esaslar Maliye Bakanlığının ve Ha
 MADDE 2 – 406 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 13- (1) Bu maddenin kapsamına ve maddede geçen terimlere aşağıda yer verilmiştir.
+**MADDE 13-** (1) Bu maddenin kapsamına ve maddede geçen terimlere aşağıda yer verilmiştir.
 a) Bu madde hükümleri; bu maddenin yürürlüğe girdiği tarihten önceki dönemlere (bu maddenin yürürlüğe girdiği ay dâhil) ilişkin olarak Kurum tarafından imtiyaz sözleşmeleri veya sayısı sınırlandırılmış kullanım hakkı ile yetkilendirilmiş olan işletmeciler hakkında, Kurum, Hazine Müsteşarlığı ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığı tarafından, imtiyaz sözleşmeleri veya sayısı sınırlandırılmış kullanım hakkı yetki belgeleri veya ilgili mevzuat uyarınca yapılan inceleme ve denetimler sonucunda eksik ödendiği tespit edilen; Hazine payı, 5369 sayılı Kanunun 6 ncı maddesinin birinci fıkrasının (c) bendi kapsamında ödenen evrensel hizmet katkı payı, Kurum masraflarına katkı payı, idari ücret, telsiz ücretleri ve bu kapsamda taraflar arasında imzalanmış olan sözleşme ve protokoller uyarınca tahakkuk ettirilen cezai şart ve gecikme zammı ya da gecikme faizi alacakları ile yargılama giderlerine ve bu maddenin yürürlüğe girdiği tarihten önce ilgili idarece henüz incelenmeyen veya incelenmesi tamamlanmayan dönemlere ilişkin alacaklara ve fer’ilerine uygulanır.
 b) Bu maddede geçen ihtilaflı alacaklar tabiri; bu maddenin yürürlüğe girdiği tarihe kadar işletmeciye ilgili idarenin bildirimi üzerine belirlenen Hazine payı, evrensel hizmet katkı payı, Kurum masraflarına katkı payı, idari ücret, telsiz ücretleri, cezai şart tutarları ve fer’ileri ile yargılama giderlerine ilişkin adli, idari veya uluslararası tahkim mercileri nezdinde dava açılmış veya kesinleşmiş olup olmamasına bakılmaksızın hüküm verilmiş veya dava açma süresi henüz geçmemiş veya vadesinde ödenmemiş ya da ödeme süresi geçmemiş olan bu fıkranın (a) bendi kapsamındaki alacakları ifade eder.
 c) Bu maddede geçen Yİ-ÜFE aylık değişim oranları tabiri; Türkiye İstatistik Kurumunun her ay için belirlediği 31/12/2004 tarihine kadar toptan eşya fiyatları endeksi (TEFE) aylık değişim oranlarını, 1/1/2005 tarihinden itibaren üretici fiyatları endeksi (ÜFE) aylık değişim oranlarını, 1/1/2014 tarihinden itibaren yurt içi üretici fiyat endeksi (Yİ-ÜFE) aylık değişim oranlarını (Bu madde hükümlerine göre ödenecek alacaklara bu maddenin yürürlüğe girdiği ay için uygulanması gereken Yİ-ÜFE aylık değişim oranı olarak, bu maddenin yürürlüğe girdiği aydan bir önceki ay için belirlenen Yİ-ÜFE aylık değişim oranı esas alınır.) ifade eder.
@@ -86,11 +86,11 @@ MADDE 3 – 406 sayılı Kanunun ek 36 ncı maddesi yürürlükten kaldırılmı
 MADDE 4 – 18/3/1924 tarihli ve 442 sayılı Köy Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 5- Bu Kanunun ek 13 üncü maddesine göre satışı yapılan taşınmazlara ilişkin olarak anılan maddede belirlenen süre içerisinde binalarını yapmayan ya da taksitlerini ödemeyen hak sahipleri ile 31/12/2020 tarihinden önce süreleri dolacak olan hak sahiplerine binalarını yapmaları veya taksitlerini ödemeleri amacıyla 31/12/2020 tarihine kadar ek süre verilir. Ancak bu süre içerisinde de hak sahiplerince bina yapılmaması veya taksitlerin ödenmemesi durumunda, bu taşınmazlar köy tüzel kişiliği adına, tüzel kişiliğini kaybeden köylerde ise ilgili belediye adına resen tapuda tescil edilir.”
+**MADDE 5-** Bu Kanunun ek 13 üncü maddesine göre satışı yapılan taşınmazlara ilişkin olarak anılan maddede belirlenen süre içerisinde binalarını yapmayan ya da taksitlerini ödemeyen hak sahipleri ile 31/12/2020 tarihinden önce süreleri dolacak olan hak sahiplerine binalarını yapmaları veya taksitlerini ödemeleri amacıyla 31/12/2020 tarihine kadar ek süre verilir. Ancak bu süre içerisinde de hak sahiplerince bina yapılmaması veya taksitlerin ödenmemesi durumunda, bu taşınmazlar köy tüzel kişiliği adına, tüzel kişiliğini kaybeden köylerde ise ilgili belediye adına resen tapuda tescil edilir.”
 
 
 MADDE 5 – 14/4/1341 tarihli ve 618 sayılı Limanlar Kanununun 7 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 7- Liman başkanlığı idari sorumluluk sahasında can, mal ve çevresel risk taşıyan veya seyir ve seferin selametine engel olabilecek suret ve vaziyette karaya oturmuş, yarı batık veya batık halde yahut terk edilmiş veya atıl halde bulunan gemileri ve eşyasını, geminin donatanı veya kaptanı, liman başkanı tarafından tayin edilecek bir süre içerisinde çıkarmaya veya bulunduğu yerden kaldırmaya mecburdur. Bu süre kırk beş günden fazla olamaz. Belirlenen müddet, gemi yabancı bayraklı ise geminin sicile kayıtlı olduğu devletin ilgili makamlarına, donatana ve kaptana bildirilir, bu kişilerin adresleri bilinmiyorsa herhangi bir uluslararası denizcilik bülteninde ilan edilir. Gemi Türk bayraklı ise donatan veya kaptana bildirilir. Bu kişilerin adresleri bilinmiyorsa yurt düzeyinde dağıtımı yapılan ve tirajı yüz binin üzerinde olan bir gazetede ilan edilir. Ayrıca gemi veya gemi vasfını kaybetmiş eşya hacizli ise durum haciz işlemini gerçekleştiren icra dairesine de bildirilir. Teknik veya meteorolojik zorunluluk nedeni ile ilgililer tarafından yapılacak itirazlar üzerine bu süreler, liman başkanı tarafından kırk beş günü aşmamak üzere uzatılabilir.
+“**MADDE 7-** Liman başkanlığı idari sorumluluk sahasında can, mal ve çevresel risk taşıyan veya seyir ve seferin selametine engel olabilecek suret ve vaziyette karaya oturmuş, yarı batık veya batık halde yahut terk edilmiş veya atıl halde bulunan gemileri ve eşyasını, geminin donatanı veya kaptanı, liman başkanı tarafından tayin edilecek bir süre içerisinde çıkarmaya veya bulunduğu yerden kaldırmaya mecburdur. Bu süre kırk beş günden fazla olamaz. Belirlenen müddet, gemi yabancı bayraklı ise geminin sicile kayıtlı olduğu devletin ilgili makamlarına, donatana ve kaptana bildirilir, bu kişilerin adresleri bilinmiyorsa herhangi bir uluslararası denizcilik bülteninde ilan edilir. Gemi Türk bayraklı ise donatan veya kaptana bildirilir. Bu kişilerin adresleri bilinmiyorsa yurt düzeyinde dağıtımı yapılan ve tirajı yüz binin üzerinde olan bir gazetede ilan edilir. Ayrıca gemi veya gemi vasfını kaybetmiş eşya hacizli ise durum haciz işlemini gerçekleştiren icra dairesine de bildirilir. Teknik veya meteorolojik zorunluluk nedeni ile ilgililer tarafından yapılacak itirazlar üzerine bu süreler, liman başkanı tarafından kırk beş günü aşmamak üzere uzatılabilir.
 Tayin edilen süre içinde birinci fıkra uyarınca bildirimde bulunulanlara ulaşılamaması veya ulaşılsa dahi ilgililer tarafından geminin çıkarılmasından ya da bulunduğu yerden kaldırılmasından imtina edilmesi halinde; gemi ve eşyasını, liman başkanı çıkarmaya, çıkarttırmaya, bulunduğu yerden kaldırmaya, kaldırtmaya, imha ettirmeye, satmaya ve sattırmaya yetkilidir. Satış işlemi, liman başkanlıkları tarafından yerine getirilir ve satış aşamasına kadar yapılan masraflar Ulaştırma, Denizcilik ve Haberleşme Bakanlığı Döner Sermaye İşletmesinden karşılanır. Yapılan masraflara karşılık gelen tutar, Bakanlık Döner Sermaye İşletmesine gelir kaydedildikten sonra artan tutar, gemi ve eşyası üzerinde haciz var ise ilk haczi koyan dosyaya gönderilir ve mevzuata göre sıra cetveli yapılarak alacaklılara dağıtılır. Bu işlemler sonucu artan bir tutarın bulunması halinde, söz konusu tutar beş yıl içinde müracaat edilmesi halinde hak sahibine ödenmek üzere Bakanlık Döner Sermaye İşletmesi nezdinde emanet hesabına kaydedilir. Satış sürecinde adli veya idari makamlara yapılacak itirazlar ya da başvurular satışı durdurmaz. Satılan mal takyidattan âri olarak alıcıya teslim edilir.
 Yukarıda belirtilen durumlar dışında, liman başkanlığı idari sorumluluk sahasında bulunan gemilerin; seyir, can, mal, çevre güvenliği ve emniyet bakımından ciddi tehlike oluşturabileceği durumlarda, gemi veya deniz aracı hakkında herhangi bir mahkeme kararı, adli veya idari tedbir olsa dahi, liman başkanı, birinci fıkradaki sürelere bağlı kalmaksızın geminin emniyetli bir yere nakli de dâhil olmak üzere her türlü tedbiri almaya yetkilidir. Bu durumlarda alınan tedbirlerin masrafı gemi donatanı tarafından karşılanır.
 Gemi donatanının bu masrafları otuz gün içerisinde ödememesi halinde;
@@ -139,15 +139,15 @@ MADDE 14 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 74 ünc�
 
 
 MADDE 15 – 193 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 87- 2017 yılı Eylül, Ekim, Kasım ve Aralık aylarına ilişkin net ücretleri bu Kanunun 103 üncü maddesinde yazılı tarife nedeniyle 32 nci maddedeki esaslara göre sadece kendisi için asgari geçim indirimi hesaplanan asgari ücretlilere 2017 yılı Ocak ayına ilişkin ödenen net ücretin altında kalanlara, bu tutar ile 2017 yılı Eylül, Ekim, Kasım ve Aralık aylarına ilişkin olarak aylık hesaplanan net ücreti arasındaki fark tutar, ücretlinin asgari geçim indirimine ayrıca ilave edilir. Bu fıkrada geçen net ücret, yasal kesintiler sonrası ücret tutarına asgari geçim indiriminin ilavesi sonucu oluşan ücreti ifade eder.
+“GEÇİCİ **MADDE 87-** 2017 yılı Eylül, Ekim, Kasım ve Aralık aylarına ilişkin net ücretleri bu Kanunun 103 üncü maddesinde yazılı tarife nedeniyle 32 nci maddedeki esaslara göre sadece kendisi için asgari geçim indirimi hesaplanan asgari ücretlilere 2017 yılı Ocak ayına ilişkin ödenen net ücretin altında kalanlara, bu tutar ile 2017 yılı Eylül, Ekim, Kasım ve Aralık aylarına ilişkin olarak aylık hesaplanan net ücreti arasındaki fark tutar, ücretlinin asgari geçim indirimine ayrıca ilave edilir. Bu fıkrada geçen net ücret, yasal kesintiler sonrası ücret tutarına asgari geçim indiriminin ilavesi sonucu oluşan ücreti ifade eder.
 Bu Kanunun bu maddeye aykırı olan hükümleri 2017 yılı Eylül, Ekim, Kasım ve Aralık ayları için uygulanmaz.
 Bu maddenin yayımlandığı tarih itibarıyla birinci fıkrada yer alan dönemlere ilişkin olarak verilmiş olan muhtasar beyannamelerde beyan edilen ve birinci fıkra hükmü kapsamında ilave asgari geçim indirimi uygulanamaması nedeniyle çalışanlarca fazla ödenen vergiler, bunlara iade edilmek üzere, vergi sorumlularınca bu maddenin yayımı tarihinden sonra verilecek muhtasar beyannameler üzerinde hesaplanan vergiden mahsup edilmek suretiyle reddolunur.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar ile mahsup şeklini ve dönemini belirlemeye Maliye Bakanlığı yetkilidir.”
 
 
 MADDE 16 – 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 101 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-101- Bu Kanuna göre bilinen adresler şunlardır:
+“**MADDE**
+**101-** Bu Kanuna göre bilinen adresler şunlardır:
 1.
 Mükellef tarafından işe başlamada veya adres değişikliğinde bildirilen işyeri adresleri, 2.
 Yoklama fişinde veya ilgilinin imzası bulunmak şartıyla yetkili memurlar tarafından bir tutanakla tespit edilen işyeri adresleri,
@@ -158,8 +158,8 @@ Birinci fıkranın (1) ve (2) numaralı bentlerinde yazılı bilinen adreslerden
 
 
 MADDE 17 – 213 sayılı Kanunun 102 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-102- Tebliğ olunacak evrakı içeren zarf posta idaresince muhatabına verilir ve bu durum muhatap ile posta memuru tarafından tebliğ alındısına tarih ve imza konulmak suretiyle tespit olunur.
+“**MADDE**
+**102-** Tebliğ olunacak evrakı içeren zarf posta idaresince muhatabına verilir ve bu durum muhatap ile posta memuru tarafından tebliğ alındısına tarih ve imza konulmak suretiyle tespit olunur.
 Muhatap imza edecek kadar yazı bilmez veya herhangi bir sebeple imza edemeyecek durumda bulunursa sol elinin başparmağı bastırılmak suretiyle tebliğ edilir.
 Muhatap tebellüğden imtina ederse, tebliğ evrakının gönderildiği idareden alınabileceği şerhini içeren bir pusula kapıya yapıştırılır. Posta memuru, durumu tebliğ alındısı üzerine şerh ve imza ederek, tebliğ olunacak evrakı tebliği yaptıran idareye teslim eder. Bu durumda tebliğ, pusulanın kapıya yapıştırıldığı tarihte yapılmış sayılır.
 Bu Kanunun 101 inci maddesinin birinci fıkrasının
@@ -169,8 +169,8 @@ Maliye Bakanlığı, bu maddenin uygulanmasına ilişkin usul ve esasları belir
 
 
 MADDE 18 – 213 sayılı Kanunun 103 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-103- Aşağıda yazılı hallerde tebliğ ilan yoluyla yapılır:
+“**MADDE**
+**103-** Aşağıda yazılı hallerde tebliğ ilan yoluyla yapılır:
 1.
 Muhatabın bu Kanunun 101 inci maddesi kapsamında bilinen adresi yoksa,
 2. Bu Kanunun 101 inci maddesinin birinci fıkrasının (1) ve (2) numaralı bentlerinde sayılan bilinen adreste tebliğ yapılamaması hâlinde, muhatabın adres kayıt sisteminde kayıtlı bir adresi bulunmazsa, 3.
@@ -208,7 +208,7 @@ MADDE 25 – 197 sayılı Kanunun 10 uncu maddesinin ikinci fıkrasında yer ala
 MADDE 26 – 197 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 8- 31/12/2017 tarihinden (bu tarih dahil) önce kayıt ve tescil edilen otomobil, kaptıkaçtı, arazi taşıtları ve benzerleri aşağıdaki (I/A) sayılı tarifeye göre vergilendirilir.
+**MADDE 8-** 31/12/2017 tarihinden (bu tarih dahil) önce kayıt ve tescil edilen otomobil, kaptıkaçtı, arazi taşıtları ve benzerleri aşağıdaki (I/A) sayılı tarifeye göre vergilendirilir.
 (I/A) SAYILI
 TARİFE
 Motor Silindir Hacmi (cm³) Taşıtların Yaşları ile Ödenecek Yıllık Vergi Tutarı (TL) 1-3 yaş 4-6 yaş 7-11 yaş 12-15 yaş 16 ve yukarı yaş Otomobil, kaptıkaçtı, arazi taşıtları ve benzerleri 1300 cm³ ve aşağısı 1301 - 1600 cm³ e kadar 1.294 1601 - 1800 cm³ e kadar 2.284 1.785 1.051 1801 - 2000 cm³ e kadar 3.598 2.771 1.629 2001 - 2500 cm³ e kadar 5.396 3.918 2.448 1.463 2501 - 3000 cm³ e kadar 7.524 6.545 4.089 2.200 3001 - 3500 cm³ e kadar 11.458 10.309 6.210 3.100 1.138 3501 - 4000 cm³ e kadar 18.014 15.555 9.161 4.089 1.629 4001 cm³ ve yukarısı 29.483 22.109 13.094 5.885 2.284 Yukarıdaki tarifede yer alan taşıtlara ait vergi tutarlarının Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından her yılın ocak ayında ilan edilen kasko sigortası değerlerinin %5’ini aşması halinde taşıtlara ait vergi tutarları, bir önceki satırdaki aynı yaş grubunda bulunan taşıtlara isabet eden vergi tutarı olarak esas alınır.
@@ -288,7 +288,7 @@ Silahlı güvenlik görevlisinin görev, yetki ve sorumlulukları İçişleri Ba
 MADDE 40 – 2920 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 1- Havaalanlarında altı aydan fazla süreyle bekleyen ve sahipleri tarafından alınmayan Türk siciline kayıtlı hava araçlarının maliklerine ve/veya işleticilerine, Sivil Havacılık Genel Müdürlüğü tarafından 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümleri çerçevesinde veya bu şekilde tebligat yapılamaması durumunda Türkiye genelinde yayımlanan ve tirajı yüzbinin üzerinde olan bir gazetede ilanen; otuz gün içinde konma-konaklama ücretleri ile vergi borçlarının ödenmesi ve hava aracının bulunduğu havaalanından kaldırılması konusu tebliğ olunur.
+**MADDE 1-** Havaalanlarında altı aydan fazla süreyle bekleyen ve sahipleri tarafından alınmayan Türk siciline kayıtlı hava araçlarının maliklerine ve/veya işleticilerine, Sivil Havacılık Genel Müdürlüğü tarafından 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümleri çerçevesinde veya bu şekilde tebligat yapılamaması durumunda Türkiye genelinde yayımlanan ve tirajı yüzbinin üzerinde olan bir gazetede ilanen; otuz gün içinde konma-konaklama ücretleri ile vergi borçlarının ödenmesi ve hava aracının bulunduğu havaalanından kaldırılması konusu tebliğ olunur.
 Birinci fıkrada belirtilen hava araçları ile aynı durumda olan yabancı bir ülkenin siciline kayıtlı hava araçlarında ise Sivil Havacılık Genel Müdürlüğü tarafından hava aracının siciline kayıtlı olduğu ülke sivil havacılık otoritesine, doksan gün içinde ilgili hava aracının sahipleri tarafından kaldırılması, kaldırılmadığı takdirde tasfiye edileceği hususu bildirilir.
 Ayrıca, müteakiben tescil sahibi ülke genelinde ulusal yayın yapan gazetede iki gün süre ile hava aracının bulunduğu havaalanından kaldırılması ilan edilir.
 Türk tesciline kayıtlı hava aracı malikinin ve/veya işleticisinin tebligat veya ilan tarihinden itibaren otuz gün içinde gerekli iş ve işlemleri yapmaması halinde; kaza durumlarında Ulaştırma, Denizcilik ve Haberleşme Bakanlığı Kaza Araştırma ve İnceleme Kurulu, diğer durumlarda ise Sivil Havacılık Genel Müdürlüğü ve ihtiyaç duyulacak ilgili uzmanlardan oluşan ekip tarafından hava aracının itibari ya da fiilî harabiyete uğradığına dair rapor verilmesi halinde, ilgili hava aracı üzerindeki her türlü vergi borcu ve gümrük mevzuatından doğan yükümlülükler ile diğer takyidatlara bakılmaksızın sicilden terkini yapılarak hurdaya ayrılır.
@@ -300,16 +300,16 @@ Bu madde çerçevesinde yapılacak ilan, terkin, hurdaya ayırma, tasfiye ve öd
 MADDE 41 – 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 9 uncu maddesinin (1) numaralı fıkrasına aşağıdaki cümleler eklenmiştir.
 “Şu kadar ki Türkiye’de ikametgâhı, işyeri, kanuni merkezi ve iş merkezi bulunmayanlar tarafından katma değer vergisi mükellefi olmayan gerçek kişilere elektronik ortamda sunulan hizmetlere ilişkin katma değer vergisi, bu hizmeti sunanlar tarafından beyan edilip ödenir. Maliye Bakanlığı elektronik ortamda sunulan hizmetlerin kapsamı ile uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.”
 
-MADDE 42- 3065 sayılı Kanunun 17 nci maddesinin (4) numaralı fıkrasına (c) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve aynı fıkranın (r) bendinin birinci paragrafında yer alan “bankalara” ibareleri “bankalara, finansal kiralama ve finansman şirketlerine” şeklinde değiştirilmiş, “devir ve teslimleri” ibaresinden sonra gelmek üzere “ile bu taşınmaz ve iştirak hisselerinin finansal kiralama ve finansman şirketlerince devir ve teslimi” ibaresi eklenmiştir.
+**MADDE 42-** 3065 sayılı Kanunun 17 nci maddesinin (4) numaralı fıkrasına (c) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve aynı fıkranın (r) bendinin birinci paragrafında yer alan “bankalara” ibareleri “bankalara, finansal kiralama ve finansman şirketlerine” şeklinde değiştirilmiş, “devir ve teslimleri” ibaresinden sonra gelmek üzere “ile bu taşınmaz ve iştirak hisselerinin finansal kiralama ve finansman şirketlerince devir ve teslimi” ibaresi eklenmiştir.
 “ç) Uluslararası roaming anlaşmaları çerçevesinde yurt dışından alınan roaming hizmetleri ile bu hizmetlerin Türkiye’deki müşterilere yansıtılması,”
 
-MADDE 43- 3065 sayılı Kanunun geçici 37 nci maddesinin birinci fıkrasının (a) bendinde yer alan “2017 yılında” ibaresi “2017 ve 2018 yıllarında”, “2017 yılının” ibaresi “2017 ve 2018 yıllarının” şeklinde ve aynı fıkranın (b) bendinde yer alan “2017 yılında” ibaresi “2017 ve 2018 yıllarında”, “2017 yılı” ibaresi “2017 ve 2018 yılı” şeklinde değiştirilmiştir.
+**MADDE 43-** 3065 sayılı Kanunun geçici 37 nci maddesinin birinci fıkrasının (a) bendinde yer alan “2017 yılında” ibaresi “2017 ve 2018 yıllarında”, “2017 yılının” ibaresi “2017 ve 2018 yıllarının” şeklinde ve aynı fıkranın (b) bendinde yer alan “2017 yılında” ibaresi “2017 ve 2018 yıllarında”, “2017 yılı” ibaresi “2017 ve 2018 yılı” şeklinde değiştirilmiştir.
 
 
 MADDE 44 – 3065 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 38- Bu maddenin yürürlüğe girdiği tarihten itibaren düzenlenen sözleşmelere istinaden Millî Eğitim Bakanlığı tarafından Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi kapsamında yapılan mal ve hizmet alımlarında uygulanmak üzere;
+**MADDE 38-** Bu maddenin yürürlüğe girdiği tarihten itibaren düzenlenen sözleşmelere istinaden Millî Eğitim Bakanlığı tarafından Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi kapsamında yapılan mal ve hizmet alımlarında uygulanmak üzere;
 a) Proje bileşenlerine ilişkin olarak; Millî Eğitim Bakanlığınca yapılan ithalatlar ile bu Bakanlığa yapılan mal teslimleri ve hizmet ifaları katma değer vergisinden müstesnadır (Bu kapsamda yapılan mal teslimleri ve hizmet ifaları nedeniyle yüklenilen vergiler, vergiye tabi işlemler üzerinden hesaplanan vergiden indirilir. İndirim yoluyla telafi edilemeyen vergiler bu Kanunun 32 nci maddesi hükmü uyarınca istisna kapsamında işlem yapan mükellefin talebi üzerine iade edilir. Maliye Bakanlığı istisna ve iadeye ilişkin usul ve esasları belirlemeye yetkilidir.).
 b) Proje bileşenleri için belirlenen internet kullanımlarına mahsus olan mobil telefon aboneliğinin ilk tesisi ile Proje bileşenlerine ilişkin verilen elektronik haberleşme hizmetleri, 6802 sayılı Kanunun 39 uncu maddesine göre alınan özel iletişim vergisinden müstesnadır (Bu kapsamda verilen elektronik haberleşme hizmetleri nedeniyle yüklenilen vergiler, vergiye tabi işlemler üzerinden hesaplanan vergiden indirilir. İndirim yoluyla telafi edilemeyen vergiler istisna kapsamında işlem yapan mükellefin talebi üzerine iade edilir. Maliye Bakanlığı istisna ve iadeye ilişkin usul ve esasları belirlemeye yetkilidir.).
 c) Proje bileşenlerine ilişkin mal ve hizmet alımları ile ilgili olarak düzenlenen idare ve/veya proje yüklenicilerinin taraf olduğu kâğıtlar, 1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununa göre alınan damga vergisinden müstesnadır.
@@ -358,7 +358,7 @@ MADDE 51 – 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun ek 
 
 
 MADDE 52 – 3713 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 18- Bu Kanunun ek 1 inci maddesinin üçüncü fıkrasının (a), (b), (c) ve (ç) bentlerinde sayılan maluller ile 670 sayılı Kanun Hükmünde Kararnamenin 9 uncu maddesine göre tazminat hakkından yararlandırılanlardan bizzat istihdam hakkından yararlanarak bu maddenin yayımı tarihinden önce hizmetli unvanlı kadro ve pozisyonlara atanan ve halen bu unvanda görev yapanların bu maddenin yayımını takip eden ayın 14’ü itibarıyla kadro ve pozisyon unvanları başka bir işleme gerek kalmaksızın memur olarak değiştirilmiş sayılır.”
+“GEÇİCİ **MADDE 18-** Bu Kanunun ek 1 inci maddesinin üçüncü fıkrasının (a), (b), (c) ve (ç) bentlerinde sayılan maluller ile 670 sayılı Kanun Hükmünde Kararnamenin 9 uncu maddesine göre tazminat hakkından yararlandırılanlardan bizzat istihdam hakkından yararlanarak bu maddenin yayımı tarihinden önce hizmetli unvanlı kadro ve pozisyonlara atanan ve halen bu unvanda görev yapanların bu maddenin yayımını takip eden ayın 14’ü itibarıyla kadro ve pozisyon unvanları başka bir işleme gerek kalmaksızın memur olarak değiştirilmiş sayılır.”
 
 
 MADDE 53 – 25/2/1998 tarihli ve 4342 sayılı Mera Kanununun 14 üncü maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
@@ -406,7 +406,7 @@ Sözleşme bedelinin belirlenmesi, ödeme şekli ve süresi, yatırımcının ve
 MADDE 61 – 4706 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 24- 4325 sayılı Kanunun mülga 8 inci maddesi ve 5084 sayılı Kanunun mülga 5 inci maddesine göre, gerçek veya tüzel kişilere bedelsiz olarak devredilen veya süresiz kullanma izni verilen taşınmazlar için verilen süre içerisinde taahhüt edilen yatırımı gerçekleştiremeyen yatırımcılar, 31/12/2017 tarihine kadar müracaat etmeleri ve müracaat tarihinden itibaren iki yıl içerisinde bu Kanunun geçici 14 üncü maddesinde belirtilen şartları yerine getirmeleri halinde anılan madde hükmünden yararlandırılırlar.”
+**MADDE 24-** 4325 sayılı Kanunun mülga 8 inci maddesi ve 5084 sayılı Kanunun mülga 5 inci maddesine göre, gerçek veya tüzel kişilere bedelsiz olarak devredilen veya süresiz kullanma izni verilen taşınmazlar için verilen süre içerisinde taahhüt edilen yatırımı gerçekleştiremeyen yatırımcılar, 31/12/2017 tarihine kadar müracaat etmeleri ve müracaat tarihinden itibaren iki yıl içerisinde bu Kanunun geçici 14 üncü maddesinde belirtilen şartları yerine getirmeleri halinde anılan madde hükmünden yararlandırılırlar.”
 
 
 MADDE 62 – 3/1/2002 tarihli ve 4733 sayılı Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve Görevleri Hakkında Kanunun 6 ncı maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiş ve aynı maddeye dokuzuncu fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
@@ -414,7 +414,7 @@ MADDE 62 – 3/1/2002 tarihli ve 4733 sayılı Tütün ve Alkol Piyasası Düzen
 “Ticari amaçla; makaron veya yaprak sigara kâğıdı içine kıyılmış tütün, parçalanmış tütün, tütün harici herhangi bir madde doldurmak, bu şekilde üretilen ürünleri satışa arz etmek, satmak, bulundurmak veya nakletmek yasaktır.
 Tek başına kıyılıp içilebilme vasfına sahip tütün çeşitlerinin üretildiği Kurumca belirlenen merkezlerdeki tütün üreticilerinin bir araya gelerek kurduğu kooperatiflere, müracaatları halinde Kurum tarafından tütün ticareti yetki belgesi ve sarmalık kıyılmış tütün tesisi kurulması için yetki verilir. Bu kooperatifler ihtiyaç duydukları tütünü sözleşmeli olarak temin edebilecekleri gibi sözleşme dışı üretilmiş tütünleri de Kuruma bildirmek kaydı ile satın alabilirler. Kurumun izni ile tütün iç ve dış ticareti ve sarmalık kıyılmış tütün üretim ve ticaretini yapabilirler.”
 
-MADDE 63- 4733 sayılı Kanunun 8 inci maddesinin; birinci fıkrasının birinci cümlesine “ürünleri kullanarak” ibaresinden sonra gelmek üzere “şahsi tüketimi için” ibaresi eklenmiş, beşinci fıkrasına “içkiler piyasasında” ibaresinden sonra gelmek üzere “Kurumdan gerekli izinleri alarak veya almadan” ibaresi eklenmiş, aynı fıkranın (h) bendi yürürlükten kaldırılmış ve dokuzuncu fıkrasında yer alan “(f), (g), (h), (ı) ve (j) ile (o)” ibaresi “(f), (g), (ı), (j) ve (o)” şeklinde değiştirilmiştir.
+**MADDE 63-** 4733 sayılı Kanunun 8 inci maddesinin; birinci fıkrasının birinci cümlesine “ürünleri kullanarak” ibaresinden sonra gelmek üzere “şahsi tüketimi için” ibaresi eklenmiş, beşinci fıkrasına “içkiler piyasasında” ibaresinden sonra gelmek üzere “Kurumdan gerekli izinleri alarak veya almadan” ibaresi eklenmiş, aynı fıkranın (h) bendi yürürlükten kaldırılmış ve dokuzuncu fıkrasında yer alan “(f), (g), (h), (ı) ve (j) ile (o)” ibaresi “(f), (g), (ı), (j) ve (o)” şeklinde değiştirilmiştir.
 
 
 MADDE 64 – 4733 sayılı Kanunun 9 uncu maddesinin birinci fıkrasının (B) bendinde yer alan “sigara fabrikalarının” ibaresi “tütün mamulleri, makaron ve yaprak sigara kâğıdı üretim tesislerinin” şeklinde değiştirilmiştir.
@@ -435,7 +435,7 @@ MADDE 67 – 4734 sayılı Kanunun ek 8 inci maddesinin birinci fıkrasına aşa
 MADDE 68 – 4734 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 19- Millî Eğitim Bakanlığına bağlı resmi ve özel okullarda öğrenim gören öğrencilere ücretsiz olarak dağıtılacak ders kitabı, öğrenci çalışma kitabı ve ilgili öğretmenlere ücretsiz olarak dağıtılacak kılavuz kitaplara ilişkin 31/12/2019 tarihine kadar yapılacak mal ve hizmet alımları, ceza ve ihalelerden yasaklama hükümleri hariç bu Kanunun diğer hükümlerine tabi olmaksızın 20 nci maddenin birinci ve beşinci fıkraları uygulanmak suretiyle yapılabilir.
+**MADDE 19-** Millî Eğitim Bakanlığına bağlı resmi ve özel okullarda öğrenim gören öğrencilere ücretsiz olarak dağıtılacak ders kitabı, öğrenci çalışma kitabı ve ilgili öğretmenlere ücretsiz olarak dağıtılacak kılavuz kitaplara ilişkin 31/12/2019 tarihine kadar yapılacak mal ve hizmet alımları, ceza ve ihalelerden yasaklama hükümleri hariç bu Kanunun diğer hükümlerine tabi olmaksızın 20 nci maddenin birinci ve beşinci fıkraları uygulanmak suretiyle yapılabilir.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar, Maliye Bakanlığı ve Kurumun görüşü alınarak Millî Eğitim Bakanlığı tarafından belirlenir.”
 
 
@@ -455,14 +455,14 @@ Bu maddenin uygulanmasına ilişkin olarak ortaya çıkabilecek tereddütleri gi
 MADDE 71 – 4749 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 29- 5 inci maddede düzenlenen net borç kullanımı tutarı 2017 yılı için, 1/1/2017 tarihinden geçerli olmak üzere, Bakan ve Bakanlar Kurulu tarafından artırılan net borç kullanım tutarına otuz yedi milyar Türk lirası ilave edilerek uygulanır.”
+**MADDE 29-** 5 inci maddede düzenlenen net borç kullanımı tutarı 2017 yılı için, 1/1/2017 tarihinden geçerli olmak üzere, Bakan ve Bakanlar Kurulu tarafından artırılan net borç kullanım tutarına otuz yedi milyar Türk lirası ilave edilerek uygulanır.”
 
 
 MADDE 72 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun 7 nci maddesinin birinci fıkrasının; (2) numaralı bendinin (a) ve (c) alt bentlerinin parantez içi hükümlerinde yer alan “motor silindir hacmi 1.600 cm³’ü aşanlar” ibaresi “hesaplanması gereken özel tüketim vergisi ve diğer her türlü vergiler dahil bedeli 200.000 TL’yi aşanlar” şeklinde, (6) numaralı bendinin köşeli parantez içi hükmünde yer alan “ile (7) numaralı fıkrası” ibaresi “ve (7) numaralı fıkrası kapsamında ithal edilen eşya ile
 (12) numaralı fıkrasının (a) bendi kapsamında ithal edilen bu Kanuna ekli (II) sayılı listenin 87.03 G.T.İ.P numarasında “-Diğerleri” satırı altında yer alan mallardan özel tüketim vergisi ve katma değer vergisi dahil gümrük vergilerine ilişkin istisna uygulanmaması durumunda belirlenecek gümrüklenmiş değeri 200.000 TL’yi aşanlar” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “Birinci fıkranın; (2) numaralı bendinin (a) ve (c) alt bentleri ile (6) numaralı bendinde yer alan tutarlar, her yıl bir önceki yıla ilişkin olarak 213 sayılı Vergi Usul Kanunu hükümlerine göre belirlenen yeniden değerleme oranında artırılmak suretiyle uygulanır. Hesaplanan tutarın 100 lirayı aşmayan kesirleri dikkate alınmaz. Bakanlar Kurulu, bu şekilde tespit edilen tutarı %50’sine kadar artırmaya yetkilidir.”
 
-MADDE 73- 4760 sayılı Kanunun 11 inci maddesinin (2) numaralı fıkrasının (b) bendinde yer alan “perakende satışa sunulan sigaraların birim ambalajı içinde yer alan her bir sigara,” ibaresi “perakende satışa sunulan sigaraların ve makaronların birim ambalajı içinde yer alan her bir sigara veya her bir makaron,” şeklinde ve “20 adet sigaradan” ibaresi “20 adet sigaradan, 50 adet makarondan” şeklinde değiştirilmiştir.
+**MADDE 73-** 4760 sayılı Kanunun 11 inci maddesinin (2) numaralı fıkrasının (b) bendinde yer alan “perakende satışa sunulan sigaraların birim ambalajı içinde yer alan her bir sigara,” ibaresi “perakende satışa sunulan sigaraların ve makaronların birim ambalajı içinde yer alan her bir sigara veya her bir makaron,” şeklinde ve “20 adet sigaradan” ibaresi “20 adet sigaradan, 50 adet makarondan” şeklinde değiştirilmiştir.
 
 
 MADDE 74 – 4760 sayılı Kanunun 12 nci maddesinin (2) numaralı fıkrasının (b) bendinde yer alan “her bir sigara adedi” ibaresi “her bir sigara veya makaron adedi” şeklinde değiştirilmiştir.
@@ -495,7 +495,7 @@ MADDE 77 – 6/11/2003 tarihli ve 5000 sayılı Türk Patent ve Marka Kurumu Kur
 MADDE 78 – 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 4- Bu Kanun kapsamında yer alan tüm iş ve işlemler elektronik ortamda gerçekleştirilebilir.
+**MADDE 4-** Bu Kanun kapsamında yer alan tüm iş ve işlemler elektronik ortamda gerçekleştirilebilir.
 Bu maddenin uygulanması ile ilgili olarak Maliye Bakanlığı;
 a) Defter, kayıt, belge ve benzeri içeriklerin elektronik ortamda oluşturulması, kaydedilmesi, iletilmesi, muhafaza ve ibrazına ilişkin usul ve esasları belirlemeye,
 b) Elektronik ortamda gerçekleştirilen işlemlerin kaynağı, bütünlüğü, gizliliği ve güvenliğinin sağlanmasına yönelik sertifika altyapısı oluşturmaya veya mevcut olan altyapıları kullanmaya,
@@ -538,7 +538,7 @@ MADDE 85 – 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 15 inci maddes
 MADDE 86 – 5393 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 2- Kamu kurum ve kuruluşlarına uygulanan su ve atık su tarife ücreti tüketim miktarına bakılmaksızın sabit tarife ücreti olarak belirlenir ve konutlar için belirlenen en düşük su ve atık su tarife ücretinin yüzde 50 fazlasını geçemez. Belediyeler temiz şebeke suyu hizmeti vermediği yerleşim yerlerindeki kamu kurumlarından herhangi bir ad altında ücret talep edemez.
+**MADDE 2-** Kamu kurum ve kuruluşlarına uygulanan su ve atık su tarife ücreti tüketim miktarına bakılmaksızın sabit tarife ücreti olarak belirlenir ve konutlar için belirlenen en düşük su ve atık su tarife ücretinin yüzde 50 fazlasını geçemez. Belediyeler temiz şebeke suyu hizmeti vermediği yerleşim yerlerindeki kamu kurumlarından herhangi bir ad altında ücret talep edemez.
 Kamuya ait eğitim kurumları, yurtlar, okul pansiyonları ve hastanelerden abonelik, açma kapama, bağlantı, teminat, güvence bedeli, katılma payı ve benzeri ad altında herhangi bir ücret talep edilemez.”
 
 
@@ -564,14 +564,14 @@ MADDE 90 – 5520 sayılı Kanunun geçici 9 uncu maddesinin birinci fıkrasınd
 MADDE 91 – 5520 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 10- (1) Bu Kanunun 32 nci maddesinin birinci fıkrasında yer alan %20 oranı, kurumların 2018, 2019 ve 2020 yılı vergilendirme dönemlerine (özel hesap dönemi tayin edilen kurumlar için ilgili yıl içinde başlayan hesap dönemlerine) ait kurum kazançları için %22 olarak uygulanır.
+**MADDE 10-** (1) Bu Kanunun 32 nci maddesinin birinci fıkrasında yer alan %20 oranı, kurumların 2018, 2019 ve 2020 yılı vergilendirme dönemlerine (özel hesap dönemi tayin edilen kurumlar için ilgili yıl içinde başlayan hesap dönemlerine) ait kurum kazançları için %22 olarak uygulanır.
 (2) Bakanlar Kurulu, birinci fıkrada yazılı %22 oranını %20 oranına kadar indirmeye yetkilidir.”
 
 
 MADDE 92 – 11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 3- (1) Bu maddenin yürürlüğe girdiği tarih itibarıyla mesleğe özel yarışma sınavı ile girmiş ve yeterlik sınavıyla bulundukları kadrolara atanmış olmaları kaydıyla, 14/7/1965 tarihli ve 657 sayılı Kanunun 152 nci maddesinin “II- Tazminatlar” kısmının “A- Özel Hizmet Tazminatı” bölümünün (e), (f), (g) ve (ğ) bentlerinde sayılan kadro unvanlarında bulunanlar ile Bankalar Yeminli Murakıpları, Bankacılık Düzenleme ve Denetleme Kurumu ve Sermaye Piyasası Kurulu Uzmanlarından başvuranlar arasından yapılacak yazılı ve/veya sözlü sınavda başarılı olanlar, 31/12/2018 tarihine kadar merkezi yönetim bütçe kanununda yer alan sınırlamalara tabi olmaksızın naklen Maliye Uzmanı olarak atanır. Bunlar Mali Suçları Araştırma Kurulu Başkanlığında görevlendirilir. Bu şekilde atananların söz konusu kadrolarda geçen hizmet süreleri Maliye Uzmanı, yardımcılık veya stajyerliklerde geçen hizmet süreleri ise Maliye Uzman Yardımcısı kadrolarında geçmiş sayılır. Bunlardan 657 sayılı Kanuna tabi olmayanların anılan kadrolar ile bunların yardımcılık veya stajyerliklerinde geçen hizmet süreleri her yıl için bir kademe ilerlemesi ve her üç yıl için bir derece yükselmesi verilmek suretiyle değerlendirilir. Bu madde uyarınca Maliye Uzmanı olarak atanacakların sayısı 250’yi geçemez. Başvuru ve sınava ilişkin usul ve esaslar ile bu fıkranın uygulanmasına yönelik diğer hususlar Bakanlıkça belirlenir.”
+**MADDE 3-** (1) Bu maddenin yürürlüğe girdiği tarih itibarıyla mesleğe özel yarışma sınavı ile girmiş ve yeterlik sınavıyla bulundukları kadrolara atanmış olmaları kaydıyla, 14/7/1965 tarihli ve 657 sayılı Kanunun 152 nci maddesinin “II- Tazminatlar” kısmının “A- Özel Hizmet Tazminatı” bölümünün (e), (f), (g) ve (ğ) bentlerinde sayılan kadro unvanlarında bulunanlar ile Bankalar Yeminli Murakıpları, Bankacılık Düzenleme ve Denetleme Kurumu ve Sermaye Piyasası Kurulu Uzmanlarından başvuranlar arasından yapılacak yazılı ve/veya sözlü sınavda başarılı olanlar, 31/12/2018 tarihine kadar merkezi yönetim bütçe kanununda yer alan sınırlamalara tabi olmaksızın naklen Maliye Uzmanı olarak atanır. Bunlar Mali Suçları Araştırma Kurulu Başkanlığında görevlendirilir. Bu şekilde atananların söz konusu kadrolarda geçen hizmet süreleri Maliye Uzmanı, yardımcılık veya stajyerliklerde geçen hizmet süreleri ise Maliye Uzman Yardımcısı kadrolarında geçmiş sayılır. Bunlardan 657 sayılı Kanuna tabi olmayanların anılan kadrolar ile bunların yardımcılık veya stajyerliklerinde geçen hizmet süreleri her yıl için bir kademe ilerlemesi ve her üç yıl için bir derece yükselmesi verilmek suretiyle değerlendirilir. Bu madde uyarınca Maliye Uzmanı olarak atanacakların sayısı 250’yi geçemez. Başvuru ve sınava ilişkin usul ve esaslar ile bu fıkranın uygulanmasına yönelik diğer hususlar Bakanlıkça belirlenir.”
 
 
 MADDE 93 – 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanununun 3 üncü maddesinin mülga yirminci fıkrası aşağıdaki şekilde yeniden düzenlenmiştir.
@@ -589,7 +589,7 @@ MADDE 95 – 5737 sayılı Kanunun 52 nci maddesinin birinci fıkrasına (f) ben
 MADDE 96 – 21/2/2008 tarihli ve 5738 sayılı Spor Müsabakalarına Dayalı Sabit İhtimalli ve Müşterek Bahis Oyunlarının Özel Hukuk Tüzel Kişilerine Yaptırılması Hakkında Kanunun 26 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Pazarlıkla temin usulünün uygulanabileceği haller
 
-MADDE 26- (1) Bu Kanun kapsamında yapılacak ihalenin herhangi bir sebeple gerçekleştirilememesi, sözleşmenin imzalanamaması, yüklenicinin imzalanmış son sözleşmenin bitim tarihi itibarıyla işe başlayamayacağının anlaşılması veya yapılmış olan ihaleye ilişkin sözleşmenin feshedilmesi veya iptali hâllerinde, 3 üncü madde kapsamında yapılan iş ve hizmetler İdare tarafından pazarlıkla temin usulüyle, özel hukuk tüzel kişilerine süresi bir yılı geçmeyen sözleşmeyle yaptırılabilir.”
+**MADDE 26-** (1) Bu Kanun kapsamında yapılacak ihalenin herhangi bir sebeple gerçekleştirilememesi, sözleşmenin imzalanamaması, yüklenicinin imzalanmış son sözleşmenin bitim tarihi itibarıyla işe başlayamayacağının anlaşılması veya yapılmış olan ihaleye ilişkin sözleşmenin feshedilmesi veya iptali hâllerinde, 3 üncü madde kapsamında yapılan iş ve hizmetler İdare tarafından pazarlıkla temin usulüyle, özel hukuk tüzel kişilerine süresi bir yılı geçmeyen sözleşmeyle yaptırılabilir.”
 
 
 MADDE 97 – 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 11 inci maddesinin ikinci fıkrasına birinci cümlesinden sonra gelmek üzere aşağıdaki cümleler ilave edilmiştir.
@@ -617,7 +617,7 @@ MADDE 101 – 13/10/2010 tarihli ve 6015 sayılı Devlet Desteklerinin İzlenmes
 MADDE 102 – 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 6- (1) Bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihten önce 6292 sayılı Kanunun 4 üncü maddesinin ikinci fıkrasında belirtilen sebeplerle bulundukları yerleşim yerlerinden kaldırılan, yerleri istimlak edilen ve kendilerine yeni yerleşim yeri gösterilmeyen İstanbul ili Şile ilçesi Esenceli ve Darlık Mahallesi halkının iskanlarının temini için 6292 sayılı Kanunun 4 üncü maddesinin ikinci fıkrasında belirtilen hükümler uygulanır.
+**MADDE 6-** (1) Bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihten önce 6292 sayılı Kanunun 4 üncü maddesinin ikinci fıkrasında belirtilen sebeplerle bulundukları yerleşim yerlerinden kaldırılan, yerleri istimlak edilen ve kendilerine yeni yerleşim yeri gösterilmeyen İstanbul ili Şile ilçesi Esenceli ve Darlık Mahallesi halkının iskanlarının temini için 6292 sayılı Kanunun 4 üncü maddesinin ikinci fıkrasında belirtilen hükümler uygulanır.
 Kamulaştırma bedeli ödenenler de ödenen bedeli iade etmeleri halinde aynı haktan faydalanırlar.”
 
 
@@ -667,7 +667,7 @@ MADDE 111 – 6362 sayılı Kanunun 99 uncu maddesinin dördüncü fıkrası aş
 “(4) Kuruldan izin alınmaksızın kitle fonlama platformları aracılığıyla halktan para toplandığına veya Türkiye’de yerleşik kişilere yönelik olarak internet aracılığıyla yurt dışında kaldıraçlı işlem ve kaldıraçlı işlemlerle aynı hükümlere tabi olduğu belirlenen türev araç işlemleri yaptırıldığına ilişkin bilgi edinilmesi halinde, Kurulun başvurusu üzerine Bilgi Teknolojileri ve İletişim Kurumu, ilgili internet sitesine erişimi engeller.”
 
 
-MADDE 112 – 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun 16 ncı maddesinin yedinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve mevcut sekizinci fıkrası buna göre teselsül ettirilmiştir.
+**MADDE 112 –** 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun 16 ncı maddesinin yedinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve mevcut sekizinci fıkrası buna göre teselsül ettirilmiştir.
 “(8) Elektrik dağıtım şirketlerinin denetimleri haricinde de genel aydınlatma kapsamında tespit edilen yanmayan, yerinde olmayan armatür ve/veya direklere ilişkin eksiklerin giderilmesine ilişkin süre verilir. Belirlenen sürelerde eksikliklerin giderilmemesi durumunun tespiti ile belirlenen her bir direk veya armatür için Bakanlığın Kurula bildirmesini müteakip Kurul tarafından beş yüz Türk lirası idari para cezası verilir. Tespit edilen eksikliklerin giderilmesine ilişkin verilecek süreler ve eksikliklerin tespit esasları yönetmelikle belirlenir. Bu Kanuna göre verilen idari para cezaları tebliğinden itibaren bir ay içinde ödenir.”
 
 
@@ -710,7 +710,7 @@ MADDE 120 – 6698 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 
 
 MADDE 121 – 23/2/2017 tarihli ve 6824 sayılı Bazı Alacakların Yeniden Yapılandırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanuna aşağıdaki geçici madde ilave edilmiştir.
-“GEÇİCİ MADDE 1- (1) Belediyeler ve bağlı kuruluşları ile sermayesinin yüzde ellisinden fazlası belediyelere ait şirketler ve il özel idarelerinin ödemekle yükümlü olduğu ve özelleştirme işlemleri sırasında TEDAŞ’a devredilmiş olan elektrik tüketiminden kaynaklanan, yapılandırılmamış olan alacaklar ile bu Kanunun 2 nci maddesinin birinci fıkrasının (a) bendi kapsamında yapılandırıldığı halde bu maddenin yürürlüğe girdiği tarih itibarıyla ihlal edilmiş olan alacakların asılları ile bu alacaklara bağlı fer’i alacaklar yerine bu maddenin yürürlüğe girdiği tarihe kadar (bu tarih dâhil) Yİ-ÜFE aylık değişim oranları esas alınmak suretiyle hesaplanacak tutarın ilk taksiti 2018 yılının Ocak ayından başlamak üzere yirmi dört ayda yirmi dört eşit taksitte ödenir. Bu süre içerisinde ödenen taksitlere herhangi bir zam ve faiz hesaplanmaz.
+“**GEÇİCİ MADDE 1-** (1) Belediyeler ve bağlı kuruluşları ile sermayesinin yüzde ellisinden fazlası belediyelere ait şirketler ve il özel idarelerinin ödemekle yükümlü olduğu ve özelleştirme işlemleri sırasında TEDAŞ’a devredilmiş olan elektrik tüketiminden kaynaklanan, yapılandırılmamış olan alacaklar ile bu Kanunun 2 nci maddesinin birinci fıkrasının (a) bendi kapsamında yapılandırıldığı halde bu maddenin yürürlüğe girdiği tarih itibarıyla ihlal edilmiş olan alacakların asılları ile bu alacaklara bağlı fer’i alacaklar yerine bu maddenin yürürlüğe girdiği tarihe kadar (bu tarih dâhil) Yİ-ÜFE aylık değişim oranları esas alınmak suretiyle hesaplanacak tutarın ilk taksiti 2018 yılının Ocak ayından başlamak üzere yirmi dört ayda yirmi dört eşit taksitte ödenir. Bu süre içerisinde ödenen taksitlere herhangi bir zam ve faiz hesaplanmaz.
 (2) Birinci fıkra hükümlerine göre hesaplanan tutarların taksit ödeme sürelerinde ödenmemesi hâlinde, bu tutarlara ödemede gecikilen her ay ve kesri için 6183 sayılı Kanunun 51 inci maddesine göre belirlenen gecikme zammı oranında geç ödeme zammı uygulanır. Taksitlerin son taksit ödeme süresi sonuna kadar ödenmemesi hâlinde bakiye alacak tutarı (Belediyelerin bağlı kuruluşları ile sermayesinin yüzde ellisinden fazlası belediyelere ait şirketlerin birinci fıkra kapsamındaki borçları dâhil), son taksit ödeme süresi sonuna kadar hesaplanacak geç ödeme zammı ile birlikte 2020 yılının Şubat ayından itibaren bu kuruluşlara 2/7/2008 tarihli ve 5779 sayılı İl Özel İdarelerine ve Belediyelere Genel Bütçe Vergi Gelirlerinden Pay Verilmesi Hakkında Kanun hükümlerine göre verilen paylardan ilgisine göre Maliye Bakanlığı ve İller Bankası A.Ş. tarafından, anılan Kanunun 7 nci maddesi hükmü dikkate alınmaksızın, ayrıca aylık %1 oranında kesinti yapılmak suretiyle tahsil edilir. Bu oranı %5’e kadar artırmaya Bakanlar Kurulu yetkilidir.
 (3) Birinci fıkra kapsamındaki borçlulardan bu Kanunun 2 nci maddesinin birinci fıkrasının (a) bendi kapsamında yapılandırılan ve bu maddenin yürürlüğe girdiği tarihten sonra yapılandırması ihlal olan borçlar hakkında da bu madde hükümleri uygulanır. Bu takdirde, Kanunun 2 nci maddesi kapsamında ödenen taksitler için yapılandırma hükümleri geçerli sayılır ve ödenmemiş alacaklar (katsayı tutarı terkin edilmek suretiyle) ödemede gecikilen her ay ve kesri için 2019 yılının Aralık ayı sonuna kadar geç ödeme zammı hesaplanmak ve birinci fıkraya göre kalan sürede ödenmek üzere taksitlendirilir, ihlalin birinci fıkrada belirlenen son taksit ödeme süresinden sonra gerçekleşmesi hâlinde, ihlali izleyen aydan itibaren bu maddenin ikinci fıkrası hükümleri uygulanır.
 (4) Bu Kanunun 2 nci maddesinin birinci fıkrasının (b) bendi kapsamına giren alacaklardan yapılandırılmamış olanlar için 2020 yılının Ocak ayı sonuna kadar TEDAŞ’a iletilmek üzere dağıtım/perakende satış şirketlerine veya TEDAŞ’a yazılı başvuruda bulunulması halinde bu alacaklar da anılan bent kapsamında yapılandırılır. Bu fıkra kapsamında yapılandırılan alacakların ilk taksiti 2020 yılının Ekim ayının son gününe kadar ödenmek üzere ve her yıl ilk taksitin tekabül ettiği ayda toplam beş eşit taksitte ödenir.
@@ -725,9 +725,9 @@ MADDE 122 – 6824 sayılı Kanunun 25 inci maddesinin birinci fıkrasının (c)
 GEÇİCİ
 
 MADDE 1- (1) Bu Kanunun yayımlandığı tarihe kadar 2/7/1964 tarihli ve 492 sayılı Harçlar Kanunu veya özel kanunlarda yer alan hükümler nedeniyle yargı harçlarından muaf olan ya da yaptıkları işlemler istisna olan kamu idareleri adına hükmedilmiş olan yargı harçları tahsil edilmez, tahsil edilmiş bulunan yargı harçları red ve iade edilmez.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 2- (1) Maliye Bakanlığına bağlı Kefalet Sandığının 31/12/2017 tarihi itibarıyla bankadaki hesabının dört yüz seksen milyon Türk liralık tutarı, Maliye Bakanlığının belirleyeceği usul ve esaslar çerçevesinde 2018 yılı içerisinde Maliye Bakanlığı merkez muhasebe birimi hesabına aktarılır.
+**MADDE 2-** (1) Maliye Bakanlığına bağlı Kefalet Sandığının 31/12/2017 tarihi itibarıyla bankadaki hesabının dört yüz seksen milyon Türk liralık tutarı, Maliye Bakanlığının belirleyeceği usul ve esaslar çerçevesinde 2018 yılı içerisinde Maliye Bakanlığı merkez muhasebe birimi hesabına aktarılır.
 Aktarılan bu tutarlar genel bütçenin (B) işaretli cetveline gelir kaydedilir.
 (2) Türk Patent ve Marka Kurumunun 31/12/2017 tarihi itibarıyla bankadaki hesabının yüz elli milyon Türk liralık tutarı, 31/1/2018 tarihine kadar Maliye Bakanlığı merkez muhasebe birimi hesabına aktarılır. Aktarılan bu tutar genel bütçenin (B) işaretli cetveline gelir kaydedilir.
 

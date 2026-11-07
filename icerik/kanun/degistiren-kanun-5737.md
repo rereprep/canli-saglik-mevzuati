@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/02/20080227-2.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-VAKIFLAR KANUNU
-Kanun No. 5737 Kabul Tarihi: 20/2/2008
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**VAKIFLAR KANUNU**
+**Kanun No. 5737 Kabul Tarihi: 20/2/2008**
 BİRİNCİ KISIM
 Amaç, Kapsam ve Tanımlar Amaç
 

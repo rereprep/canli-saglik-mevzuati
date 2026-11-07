@@ -12,10 +12,10 @@ durum: "yürürlükte"
 ---
 
 T. C .
-R e s m î G a z e t e Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğünce Yayımlanır PAZARTESİ Mükerrer
-YÜRÜTME VE İDARE BÖLÜMÜ KANUN HÜKMÜNDE KARARNAME
+**R e s m î G a z e t e Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğünce Yayımlanır** PAZARTESİ **Mükerrer**
+**YÜRÜTME VE İDARE BÖLÜMÜ KANUN HÜKMÜNDE KARARNAME**
 Kuruluşu : 7 Ekim 1920 İçindekiler 18. Sayfadadır.
-http://www.basbakanlik.gov.tr e-posta: resmigazete@basbakanlik.gov.tr Sayfa : 2 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 (Mükerrer) Sayfa : 4 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 (Mükerrer) Sayfa : 8 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 (Mükerrer) Sayfa : 10 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 (Mükerrer) Sayfa : 12 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 (Mükerrer) Sayfa : 14 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 (Mükerrer) Recep Tayyip ERDOĞAN
+**http://www.basbakanlik.gov.tr e-posta: resmigazete@basbakanlik.gov.tr** Sayfa : 2 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 **(Mükerrer)** Sayfa : 4 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 **(Mükerrer)** Sayfa : 8 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 **(Mükerrer)** Sayfa : 10 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 **(Mükerrer)** Sayfa : 12 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 **(Mükerrer)** Sayfa : 14 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 **(Mükerrer) Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI
 Binali YILDIRIM Başbakan
 B. BOZDAĞ M. ŞİMŞEK F. IŞIK R. AKDAĞ
@@ -31,4 +31,4 @@ Gümrük ve Ticaret Bakanı İçişleri Bakanı Kalkınma Bakanı Kültür ve Tu
 N. AĞBAL İ. YILMAZ N. CANİKLİ
 Maliye Bakanı Millî Eğitim Bakanı Millî Savunma Bakanı
 V. EROĞLU A. DEMİRCAN A. ARSLAN
-Orman ve Su İşleri Bakanı Sağlık Bakanı Ulaştırma, Denizcilik ve Haberleşme Bakanı Sayfa : 16 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 (Mükerrer)
+Orman ve Su İşleri Bakanı Sağlık Bakanı Ulaştırma, Denizcilik ve Haberleşme Bakanı Sayfa : 16 RESMÎ GAZETE 9 Temmuz 2018 – Sayı : 30473 **(Mükerrer)**

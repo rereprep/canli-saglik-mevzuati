@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203-11.htm"
 durum: "yürürlükte"
 ---
 
-KANUN TEKNOLOJİ GELİŞTİRME BÖLGELERİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7263 Kabul Tarihi: 28/1/2021
+**KANUN TEKNOLOJİ GELİŞTİRME BÖLGELERİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7263 Kabul Tarihi: 28/1/2021**
 
 MADDE 1 – 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanununun 1 inci maddesinin birinci fıkrasında yer alan “Bilim ve Teknoloji Yüksek Kurulunun kararları da dikkate alınarak” ibaresi madde metninden çıkarılmıştır.
 

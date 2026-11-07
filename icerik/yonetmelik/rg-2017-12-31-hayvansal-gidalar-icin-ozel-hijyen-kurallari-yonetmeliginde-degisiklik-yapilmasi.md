@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Gıda, Tarım ve Hayvancılık Bakanlığından:
-HAYVANSAL GIDALAR İÇİN ÖZEL HİJYEN KURALLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASI HAKKINDA YÖNETMELİK
+**HAYVANSAL GIDALAR İÇİN ÖZEL HİJYEN KURALLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASI HAKKINDA YÖNETMELİK**
 
 MADDE 1 – 27/12/2011 tarihli ve 28155 sayılı Resmî Gazete’de yayımlanan Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinin 87 nci maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
 “a) 10 uncu maddesi 31/12/2015 tarihinde, 56 ncı maddesinin birinci fıkrasının (c) bendi, 57 nci maddesinin üçüncü fıkrası ve 85 inci maddesinin dördüncü fıkrası 31/12/2019 tarihinde,”

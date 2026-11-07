@@ -12,12 +12,12 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/12/20191207-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-DİJİTAL HİZMET VERGİSİ İLE BAZI KANUNLARDA VE 375
-SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 7194 Kabul Tarihi: 5/12/2019
-BİRİNCİ BÖLÜM
-Verginin Konusu, Tanımlar, Mükellef ve Vergi Sorumlusu, Muafiyet ve İstisnalar Verginin konusu
+**KANUN**
+**DİJİTAL HİZMET VERGİSİ İLE BAZI KANUNLARDA VE 375**
+**SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+Kanun No. 7194 **Kabul Tarihi: 5/12/2019**
+**BİRİNCİ BÖLÜM**
+**Verginin Konusu, Tanımlar, Mükellef ve Vergi Sorumlusu, Muafiyet ve İstisnalar** Verginin konusu
 
 MADDE 1 – (1) Türkiye’de sunulan aşağıdaki hizmetlerden elde edilen hasılat, dijital hizmet vergisine tabidir:
 a) Dijital ortamda sunulan her türlü reklam hizmetleri (reklam kontrol ve performans ölçüm hizmetleri, kullanıcılarla ilgili veri iletimi ve yönetimi gibi hizmetler ile reklamın sunulmasına ilişkin teknik hizmetler dâhil)
@@ -50,16 +50,16 @@ c) 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 4 üncü maddesi k
 ç) 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanunun 2 nci maddesinde tanımlanan Ar-Ge merkezlerinde Ar-Ge faaliyetleri neticesinde oluşturulan ürünlerin satışı ile münhasıran bu ürünler üzerinden sunulan hizmetler
 d) 20/6/2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanunun 12 nci maddesi kapsamında yer alan ödeme hizmetleri
 (7) Dijital hizmet vergisine ilişkin istisna ve muafiyetler, ancak bu Kanuna hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir. Diğer kanunlarda yer alan istisna veya muafiyet hükümleri bu vergi bakımından geçersizdir.
-İKİNCİ BÖLÜM
-Verginin Matrahı, Oranı ve Hesabı Verginin matrahı, oranı ve hesabı
+**İKİNCİ BÖLÜM**
+**Verginin Matrahı, Oranı ve Hesabı** Verginin matrahı, oranı ve hesabı
 
 MADDE 5 – (1) Dijital hizmet vergisinin matrahı, ilgili vergilendirme döneminde verginin konusuna giren hizmetler nedeniyle elde edilen hasılattır. Hasılatın döviz ile hesaplanması hâlinde döviz, hasılatın elde edildiği tarihte geçerli olan Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden Türk parasına çevrilir.
 (2) Verginin matrahından gider, maliyet ve vergi adı altında indirim yapılmaz. Dijital hizmet vergisi, fatura ve fatura yerine geçen belgelerde ayrıca gösterilmez.
 (3) Dijital hizmet vergisi oranı %7,5’tir.
 (4) Dijital hizmet vergisi, matraha oranın uygulanması suretiyle hesaplanır. Bu şekilde hesaplanan vergiden herhangi bir indirim yapılmaz.
 (5) Cumhurbaşkanı, üçüncü fıkrada belirtilen oranı, hizmet türleri itibarıyla ayrı ayrı veya birlikte %1’e kadar indirmeye, iki katına kadar artırmaya yetkilidir.
-ÜÇÜNCÜ BÖLÜM
-Vergilendirme Dönemi, Verginin Beyanı, Tarhı ve Ödenmesi ile Vergi Güvenliği Vergilendirme dönemi, verginin beyanı, tarhı ve ödenmesi
+**ÜÇÜNCÜ BÖLÜM**
+**Vergilendirme Dönemi, Verginin Beyanı, Tarhı ve Ödenmesi ile Vergi Güvenliği** Vergilendirme dönemi, verginin beyanı, tarhı ve ödenmesi
 
 MADDE 6 – (1) Dijital hizmet vergisinde vergilendirme dönemi, takvim yılının birer aylık dönemleridir. Ancak Hazine ve Maliye Bakanlığı, hizmet türlerine ve mükelleflerin faaliyet hacimlerine göre birer aylık vergilendirme dönemi yerine üçer aylık vergilendirme dönemi tespit etmeye yetkilidir.
 (2) Dijital hizmet vergisi, mükellefin beyanı üzerine tarh olunur. 3 üncü maddenin ikinci fıkrasının uygulandığı durumlarda, bu beyan vergi kesintisi yapmakla sorumlu tutulanlar tarafından yapılır.
@@ -74,10 +74,10 @@ Vergi güvenliği
 MADDE 7 – (1) 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu kapsamına giren vergilere ilişkin beyanname verme ve ödeme yükümlülüklerini süresinde yerine getirmeyen bu Kanun kapsamındaki dijital hizmet sağlayıcılarına veya Türkiye’deki yetkili temsilcisine, bu yükümlülüklerin yerine getirilmesi için dijital hizmet vergisini tarha yetkili vergi dairesi tarafından internet sayfalarındaki iletişim araçları, alan adı, IP adresi ve benzeri kaynaklarla elde edilen bilgiler kullanılarak 213 sayılı Kanunda sayılan tebligat yöntemleri, elektronik posta veya diğer tüm iletişim araçları ile ihtarda bulunulabilir ve bu durum Gelir İdaresi Başkanlığının internet sitesinde ilan edilir.
 (2) İlandan itibaren otuz gün içinde bu yükümlülüklerin yerine getirilmemesi hâlinde, dijital hizmet sağlayıcılarının sunmuş oldukları hizmetlere erişimin, bu yükümlülükler yerine getirilinceye kadar engellenmesine Hazine ve Maliye Bakanlığınca karar verilir ve bu karar erişim sağlayıcılarına bildirilmek üzere Bilgi Teknolojileri ve İletişim Kurumuna gönderilir. Engelleme kararlarının gereği bildirimden itibaren yirmi dört saat içinde erişim sağlayıcıları tarafından yerine getirilir.
 (3) Bu maddenin uygulanmasına ilişkin usul ve esaslar, Ulaştırma ve Altyapı Bakanlığının görüşü alınarak Hazine ve Maliye Bakanlığınca belirlenir.
-DÖRDÜNCÜ BÖLÜM
-Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına İlişkin Düzenlemeler
+**DÖRDÜNCÜ BÖLÜM**
+**Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına İlişkin Düzenlemeler**
 
-MADDE 8 – 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 33 üncü maddesinin birinci fıkrasında yer alan “binde biridir” ibaresi “binde ikisidir” şeklinde ve ikinci fıkrasında yer alan “yukarıdaki oranları aşmayacak şekilde yeniden tespit etmeye yetkilidir” ibaresi “kambiyo muamelelerinde on katına, vergiye tabi diğer muamelelerde ise kanuni seviyesine kadar artırmaya yetkilidir” şeklinde değiştirilmiştir.
+**MADDE 8 –** 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 33 üncü maddesinin birinci fıkrasında yer alan “binde biridir” ibaresi “binde ikisidir” şeklinde ve ikinci fıkrasında yer alan “yukarıdaki oranları aşmayacak şekilde yeniden tespit etmeye yetkilidir” ibaresi “kambiyo muamelelerinde on katına, vergiye tabi diğer muamelelerde ise kanuni seviyesine kadar artırmaya yetkilidir” şeklinde değiştirilmiştir.
 
 MADDE 9 – 6802 sayılı Kanunun İkinci Kısmının İkinci Bölümünün mülga başlığı “Konaklama Vergisi” şeklinde ve mülga 34 üncü maddesi başlığı ile birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Konaklama vergisi

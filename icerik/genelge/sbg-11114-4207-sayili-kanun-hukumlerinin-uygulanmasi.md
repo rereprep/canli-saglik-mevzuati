@@ -8,13 +8,13 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11114/4207-sayili-kanun-hukumlerinin-u
 durum: "yürürlükte"
 ---
 
-16 Mayıs 2008 CUMA Resmî Gazete Sayı : 26878
+16 Mayıs 2008 CUMA **Resmî Gazete** Sayı : 26878
 
 ### GENELGE
 
 Başbakanlıktan:
 
-Konu: 4207 Sayılı Kanun Hükümlerinin
+**Konu:** 4207 Sayılı Kanun Hükümlerinin
 
 Uygulanması.
 
@@ -62,6 +62,6 @@ Ayrıca, bahsi geçen konularla ilgili olarak www.havanikoru.org.tr ve www.duman
 
 Bilgilerini, 19 Mayıs 2008 tarihinden itibaren yukarıda belirtilen hususlara hassasiyetle uyulması ve aksine hareket edenlere Kanun hükümlerine göre müeyyide uygulanması hususlarında gereğini rica ederim.
 
-Recep Tayyip ERDOĞAN
+<i>Recep Tayyip ERDOĞAN</i>
 
-Başbakan
+<i>Başbakan</i>

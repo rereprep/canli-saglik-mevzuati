@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/03/20080301-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5739 Kabul Tarihi: 26/2/2008
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5739 Kabul Tarihi: 26/2/2008**
 
 MADDE 1 – 22/5/1930 tarihli ve 1632 sayılı Askeri Ceza Kanununa aşağıdaki ek 10 uncu madde eklenmiştir.
 "EK

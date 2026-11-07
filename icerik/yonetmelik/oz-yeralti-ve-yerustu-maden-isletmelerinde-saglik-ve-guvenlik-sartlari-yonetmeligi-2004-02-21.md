@@ -17,69 +17,69 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2004/02/20040221.htm#4"
 
 ### YASAMA BÖLÜMÜ
 
-Kanun
+**Kanun**
 
 5092 İcra ve İflâs Kanununda Değişiklik Yapılmasına Dair Kanun
 
 ### YÜRÜTME VE İDARE BÖLÜMÜ
 
-Atama Kararları
+**Atama Kararları**
 
 204/6871 Enerji Piyasası Düzenleme Kurulu Üyeliklerine Hüseyin KARATAŞ ve Mustafa YILMAZ’ın Atanmaları Hakkında Karar
 
 — Devlet Baka nı ve Başbakan Yardımcılığı, Devlet, Maliye, Milli Eğitim, Bayındırlık ve İskan, Kültür ve Turizm, Çevre ve Orman Bakanlıklarına Ait Atama Kararları
 
-Yönetmelikler
+**Yönetmelikler**
 
 — Yeraltı ve Yerüstü Maden İşletmelerinde Sağlık ve Güvenlik Şartları Yönetmeliği — Tütün Mamulleri ile İlgili Fabrikaların Kurulmasına, Bu Mamullerin Üretimine, İç ve Dış Ticareti ve Denetlenmesine İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
 
-Hâkimler ve Savcılar Yüksek Kurulu İlke Kararı
+**Hâkimler ve Savcılar Yüksek Kurulu İlke Kararı**
 
 — Hâkimler ve Savcılar Yüksek Kurulunun 9 Sayılı İlke Kararı
 
-Tebliğler
+**Tebliğler**
 
 — 25.000 Liralık Madeni Paraların Tedavülden Kaldırılması ile İlgili Tebliğ (Sıra No: 2004/3)
 
 — Uluslararası Gözetim Şirketleri Statüsüne İlişkin Karar (Dış Ticarette Standardizasyon: 2004/2)
 
-20/2/2004 tarihli ve 25379 Mükerrer sayılı Resmî Gazete’de; Genel Bütçeye Dahil Daireler ve
+**20/2/2004 tarihli ve 25379 Mükerrer sayılı Resmî Gazete’de; Genel Bütçeye Dahil Daireler ve**
 
-Katma Bütçeli İdareler Muhasebe Yönetmeliği ile 19 Adet Muhasebat Genel Müdürlüğü
+**Katma Bütçeli İdareler Muhasebe Yönetmeliği ile 19 Adet Muhasebat Genel Müdürlüğü**
 
-Genel Tebliği yayımlanmıştır.
+**Genel Tebliği yayımlanmıştır.**
 
 ### YASAMA BÖLÜMÜ
 
-Kanun
+**Kanun**
 
-İcra ve İflâs Kanununda Değişiklik
+**İcra ve İflâs Kanununda Değişiklik**
 
-Yapılmasına Dair Kanun
+**Yapılmasına Dair Kanun**
 
-Kanun No. 5092 Kabul Tarihi : 12.2.2004
+**Kanun No. 5092 Kabul Tarihi : 12.2.2004**
 
-MADDE 1. — 2004 sayılı Kanunun 114 üncü maddesinin ikinci fıkrasının ikinci cümlesinde yer alan "yurt düzeyinde tirajı en yüksek beş gazeteden" ibaresi "tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden" şeklinde değiştirilmiştir.
+**MADDE 1. —** 2004 sayılı Kanunun 114 üncü maddesinin ikinci fıkrasının ikinci cümlesinde yer alan "yurt düzeyinde tirajı en yüksek beş gazeteden" ibaresi "tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden" şeklinde değiştirilmiştir.
 
-MADDE 2. — 2004 sayılı Kanunun 128/a maddesinin ikinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 2. —** 2004 sayılı Kanunun 128/a maddesinin ikinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 
 Kesinleşen kıymet takdirinin yapıldığı tarihten itibaren iki yıl geçmedikçe yeniden kıymet takdiri istenemez.
 
-MADDE 3. — 2004 sayılı Kanunun 166 ncı maddesinin ikinci fıkrasının ikinci cümlesinde yer alan "yurt düzeyinde tirajı en yüksek beş gazeteden" ibaresi "tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden" şeklinde ve üçüncü cümlesinde yer alan "en yüksek" ibaresi "ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan" şeklinde değiştirilmiştir.
+**MADDE 3. —** 2004 sayılı Kanunun 166 ncı maddesinin ikinci fıkrasının ikinci cümlesinde yer alan "yurt düzeyinde tirajı en yüksek beş gazeteden" ibaresi "tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden" şeklinde ve üçüncü cümlesinde yer alan "en yüksek" ibaresi "ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan" şeklinde değiştirilmiştir.
 
-MADDE 4. — 2004 sayılı Kanunun 179/b maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 4. —** 2004 sayılı Kanunun 179/b maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 
 Erteleme süresi azami bir yıldır. Bu süre kayyımın verdiği raporlar dikkate alınarak mahkemece uygun görülecek süreler ile uzatılabilir; ancak uzatma süreleri toplamı dört yılı geçemez. Kayyım, mahkemenin belirleyeceği sürelerde iflâsı ertelenenin faaliyetleri ve işletmenin durumu konusunda düzenli olarak mahkemeye rapor verir.
 
-MADDE 5. — 2004 sayılı Kanunun 288 inci maddesinin birinci cümlesinde yer alan "yurt düzeyinde tirajı en yüksek beş gazeteden" ibaresi "tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden" şeklinde değiştirilmiştir.
+**MADDE 5. —** 2004 sayılı Kanunun 288 inci maddesinin birinci cümlesinde yer alan "yurt düzeyinde tirajı en yüksek beş gazeteden" ibaresi "tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden" şeklinde değiştirilmiştir.
 
-MADDE 6. — 2004 sayılı Kanunun 302 nci maddesinin ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 6. —** 2004 sayılı Kanunun 302 nci maddesinin ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 
 Bu müddet içerisinde dava açmayanların teminattan yararlanma ve konkordatoyu feshettirme hakları düşer.
 
-MADDE 7. — 2004 sayılı Kanunun 309/b maddesinin birinci fıkrasının (4) numaralı bendinde yer alan "yurt düzeyinde yayınlanan tirajı en yüksek beş gazeteden" ibaresi "tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden" şeklinde değiştirilmiştir.
+**MADDE 7. —** 2004 sayılı Kanunun 309/b maddesinin birinci fıkrasının (4) numaralı bendinde yer alan "yurt düzeyinde yayınlanan tirajı en yüksek beş gazeteden" ibaresi "tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden" şeklinde değiştirilmiştir.
 
-MADDE 8. — 2004 sayılı Kanunun Onikinci Babının başlığı "KONKORDATO İLE SERMAYE ŞİRKETLERİ VE KOOPERATİFLERİN UZLAŞMA YOLUYLA YENİDEN YAPILANDIRILMASI" olarak değiştirilmiş ve 309/l maddesinden sonra gelmek üzere "IV. SERMAYE ŞİRKETLERİ VE KOOPERATİFLERİN UZLAŞMA YOLUYLA YENİDEN YAPILANDIRILMASI" üst başlığı altında 309/m ilâ 309/ü maddeleri eklenmiştir.
+**MADDE 8. —** 2004 sayılı Kanunun Onikinci Babının başlığı "KONKORDATO İLE SERMAYE ŞİRKETLERİ VE KOOPERATİFLERİN UZLAŞMA YOLUYLA YENİDEN YAPILANDIRILMASI" olarak değiştirilmiş ve 309/l maddesinden sonra gelmek üzere "IV. SERMAYE ŞİRKETLERİ VE KOOPERATİFLERİN UZLAŞMA YOLUYLA YENİDEN YAPILANDIRILMASI" üst başlığı altında 309/m ilâ 309/ü maddeleri eklenmiştir.
 
 ### IV. SE RMAYE ŞİRKETLERİ VE KOOPERATİFLERİN UZLAŞMA YOLUYLA YENİDEN YAPILANDIRILMASI
 
@@ -209,23 +209,23 @@ Yönetmelik:
 
 MADDE 309/ü — Bu Kanunun yayımı tarihinden itibaren iki ay içinde Adalet Bakanlığınca sermaye şirketleri ve kooperatiflerin uzlaşma yoluyla yeniden yapılandırılmasının uygulanmasına ilişkin yönetmelik yürürlüğe konulur.
 
-MADDE 9. — 2004 sayılı Kanunun 334 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 9. —** 2004 sayılı Kanunun 334 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 
 Konkordatoda veya sermaye şirketleri ile kooperatiflerin uzlaşma yoluyla yeniden yapılandırılmasında yetkili kimseleri hataya düşüren ya da konkordato veya uzlaşma yoluyla yeniden yapılandırma koşullarına uymayan borçlunun cezası:
 
 Madde 334. — Konkordato mühleti elde etmek veya konkordato veya sermaye şirketleri ile kooperatiflerin uzlaşma yoluyla yeniden yapılandırma projesini tasdik ettirmek için gerçeğe aykırı hesap veya bilanço göstererek malî durumu hakkında alacaklıları, komiseri, ara dönem denetçisini veya yetkili memuru hataya düşürmek veya konkordato projesine ya da sermaye şirketleri ve kooperatiflerin uzlaşma yoluyla yeniden y apılandırılması projesine uymamak yoluyla kasten zarara sebebiyet veren borçlu, ilgilinin icra mahkemesine yapacağı şikâyet üzerine altı aydan bir yıla kadar hafif hapis cezası ile cezalandırılır.
 
-MADDE 10. — 2004 sayılı Kanunun geçici 5 inci maddesinin (13) numaralı bendi aşağıdaki şekilde değiştirilmiş, (16) numaralı bendinde yer alan "sözleşmelerde" ibaresinden sonra "de" ibaresi ve (38) numaralı bendinde yer alan "davalarında" ibaresinden sonra "da" ibaresi eklenmiştir.
+**MADDE 10. —** 2004 sayılı Kanunun geçici 5 inci maddesinin (13) numaralı bendi aşağıdaki şekilde değiştirilmiş, (16) numaralı bendinde yer alan "sözleşmelerde" ibaresinden sonra "de" ibaresi ve (38) numaralı bendinde yer alan "davalarında" ibaresinden sonra "da" ibaresi eklenmiştir.
 
 13- 68/b maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden sonra gönderilen hesap özetleri ve ihtarnamelerde,
 
-MADDE 11. — 2004 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 11. —** 2004 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 
 GEÇİCİ MADDE 6. — Bu Kanunda yer alan "icra tetkik mercii", "tetkik mercii" ve "mercii" ibareleri "icra mahkemesi"; "icra mercii hâkimi" ve "mercii hâkimi" ibareleri "icra hâkimi" olarak değiştirilmiştir. Çeşitli mevzuatta icra tetkik mercii ve hâkimine yapılmış bulunan atıflar icra mahkemesi ve hâkimine yapılmış sayılır.
 
-MADDE 12. — Bu Kanun yay ımı tarihinde yürürlüğe girer.
+**MADDE 12. —** Bu Kanun yay ımı tarihinde yürürlüğe girer.
 
-MADDE 13. — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 13. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 20/2/2004
 
@@ -233,13 +233,13 @@ Sayfa Başı
 
 ### YÜRÜTME VE İDARE BÖLÜMÜ
 
-Atama Kararları
+**Atama Kararları**
 
-Karar Sayısı : 2004/6871
+**Karar Sayısı : 2004/6871**
 
 Enerji Piyasası Düzenleme Kurulu üyeliklerine ekli listede adları yazılı kişilerin atanması; 20/2/2001 tarihli ve 4628 sayılı Kanunun değişik 5 inci ve geçici 2 nci maddelerine göre, Bakanlar Kurulu’nca 6/2/2004 tarihinde kararlaştırılmıştır.
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -258,9 +258,9 @@ Ahmet Necdet SEZER
 | M.H.GÜLER | E. MUMCU | O. PEPE |  |
 | Enerji ve Tabii Kaynaklar Bakanı | Kültür ve Turizm Bakanı | Çevre ve Orman Bakanı |  |
 
-6/2/2004 Tarihli ve 2004/6871 Sayılı Kararnamenin Eki
+**6/2/2004 Tarihli ve 2004/6871 Sayılı Kararnamenin Eki**
 
-Liste
+**Liste**
 
 |  | ADI VE SOYADI | GÖREVİ |
 |  | 1 — Hüseyin Karataş | Üye |
@@ -270,7 +270,7 @@ Liste
 
 Devlet Bakanı ve Başbakan Yardımcılığından:
 
-Karar Sayısı : 2004/5562
+**Karar Sayısı : 2004/5562**
 
 1 — Devlet Planlama Teşkilatı Müsteşarlığında açık bulunan 1 inci derece kadrolu ve + 3600 ek göstergeli Daire Başkanlığına Mustafa Sahir ÖZDEMİR’in atanması, 657 sayılı Kanunun 68/B ve 76 ncı maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun g ö rülmüştür.
 
@@ -278,11 +278,11 @@ Karar Sayısı : 2004/5562
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip ERDOĞAN Doç. Dr. A. ŞENER
+<i>Recep Tayyip ERDOĞAN Doç. Dr. A. ŞENER</i>
 
 Başbakan Devlet Bakanı ve Başbakan Yardımcısı
 
@@ -290,7 +290,7 @@ Başbakan Devlet Bakanı ve Başbakan Yardımcısı
 
 Devlet Bakanı ve Başbakan Yardımcılığından:
 
-Karar Sayısı : 2004/5563
+**Karar Sayısı : 2004/5563**
 
 1 — Devlet Planlama Teşkilatı Müsteşarlığında açık bulunan 1 inci derece kadrolu ve + 3600 ek göstergeli Daire Başkanlığına Hülya TOKGÖZ’üh atanması, 657 sayılı Kanunun 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -298,11 +298,11 @@ Karar Sayısı : 2004/5563
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip ERDOĞAN Doç. Dr. A. ŞENER
+<i>Recep Tayyip ERDOĞAN Doç. Dr. A. ŞENER</i>
 
 Başbakan Devlet Bakanı ve Başbakan Yardımcısı
 
@@ -310,7 +310,7 @@ Başbakan Devlet Bakanı ve Başbakan Yardımcısı
 
 Devlet Bakanı ve Başbakan Yardımcılığından:
 
-Karar Sayısı : 2004/5564
+**Karar Sayısı : 2004/5564**
 
 1 — Devlet Planlama Teşkilatı Müsteşarlığında açık bulunan 1 inci derece kadrolu ve + 3600 ek göstergeli Daire Başkanlığına Abdülaziz BABACAN’ın atanması, 657 sayılı Kanunun 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -318,11 +318,11 @@ Karar Sayısı : 2004/5564
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip ERDOĞAN Doç. Dr. A. ŞENER
+<i>Recep Tayyip ERDOĞAN Doç. Dr. A. ŞENER</i>
 
 Başbakan Devlet Bakanı ve Başbakan Yardımcısı
 
@@ -330,7 +330,7 @@ Başbakan Devlet Bakanı ve Başbakan Yardımcısı
 
 De vlet Bakanı ve Başbakan Yardımcılığından:
 
-Karar Sayısı : 2004/5565
+**Karar Sayısı : 2004/5565**
 
 I — Devlet Planlama Teşkilatı Müsteşarlığında açık bulunan;
 
@@ -344,11 +344,11 @@ II — Bu Kararı Devlet Bakanı ve Başbakan Yardımcısı yürütür.
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip ERDOĞAN Doç. Dr. A. ŞENİR
+<i>Recep Tayyip ERDOĞAN Doç. Dr. A. ŞENİR</i>
 
 Başbakan Devlet Bakanı ve Başbakan Yardımcısı
 
@@ -356,7 +356,7 @@ Başbakan Devlet Bakanı ve Başbakan Yardımcısı
 
 Devlet Bakanlığından:
 
-Karar Sayısı : 2004/5566
+**Karar Sayısı : 2004/5566**
 
 1 — Makina ve Kimya Endüstrisi Kurumu Genel Müdürlüğü Yönetim Kurulu Üyesi (Hazine) Berrin BİNGÖL’ün, görev süresini tamamlaması nedeniyle Yönetim Kurulu Üyeliğine yeniden atanması, 233 sayılı Kanun Hükmünde Kararnamenin 6. ve 8. maddeleri gereğince uygun görülmüştür.
 
@@ -364,11 +364,11 @@ Karar Sayısı : 2004/5566
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip ERDOĞAN A. BABACAN
+<i>Recep Tayyip ERDOĞAN A. BABACAN</i>
 
 Başbakan Devlet Bakanı
 
@@ -376,7 +376,7 @@ Başbakan Devlet Bakanı
 
 Maliye Bakanlığından:
 
-Karar Sayısı : 2004/5567
+**Karar Sayısı : 2004/5567**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3600 ek göstergeli;
 
@@ -392,11 +392,11 @@ atanmaları;
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURB AŞKANI
 
-Recep Tayyip ERDOĞAN K. UNAKITAN
+<i>Recep Tayyip ERDOĞAN K. UNAKITAN</i>
 
 Başbakan Maliye Bakanı
 
@@ -404,7 +404,7 @@ Başbakan Maliye Bakanı
 
 Milli Eğitim Bakanlığından:
 
-Karar Sayısı : 2004/5569
+**Karar Sayısı : 2004/5569**
 
 1 — Açık bulunan 1 inci derece kadrolu + 3000 ek göstergeli Çorum Milli Eğitim Müdürlüğüne, Abdürrahim KÖKSAL’ın atanması, 657 sayılı Kanunun 71 ve 76 ncı maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -412,11 +412,11 @@ Karar Sayısı : 2004/5569
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip ERDOĞAN Doç. Dr. H. ÇELİK
+<i>Recep Tayyip ERDOĞAN Doç. Dr. H. ÇELİK</i>
 
 Başbakan Milli Eğitim Bakanı
 
@@ -424,7 +424,7 @@ Başbakan Milli Eğitim Bakanı
 
 Bayındırlık ve İskan Bakanlığından:
 
-Karar Sayısı : 2004/5570
+**Karar Sayısı : 2004/5570**
 
 1 — Düzce Bayındırlık ve İskan Müdürü Mustafa RAMAZAN’ın başka bir göreve atanmak üzere görevinden alınması, 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüşt ür.
 
@@ -432,11 +432,11 @@ Karar Sayısı : 2004/5570
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip ERDOĞAN Z.ERGEZEN
+<i>Recep Tayyip ERDOĞAN Z.ERGEZEN</i>
 
 Başbakan Bayındırlık ve İskan Bakanı
 
@@ -444,7 +444,7 @@ Başbakan Bayındırlık ve İskan Bakanı
 
 Kültür ve Turizm Bakanlığından:
 
-Karar Sayısı : 2004/5573
+**Karar Sayısı : 2004/5573**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 6400 ek göstergeli Kütüphaneler ve Yayımlar Genel Müdürlüğüne, Doç. Dr. Aytekin YILMAZ’ın atanması; 657 sayılı Kanunun değişik 74 üncü maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -452,11 +452,11 @@ Karar Sayısı : 2004/5573
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip ERDOĞAN E. MUMCU
+<i>Recep Tayyip ERDOĞAN E. MUMCU</i>
 
 Başbakan Kültür ve Turizm Bakanı
 
@@ -464,7 +464,7 @@ Başbakan Kültür ve Turizm Bakanı
 
 Kültür ve Turizm Bakanlığından:
 
-Karar Sayısı : 2004/5574
+**Karar Sayısı : 2004/5574**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 6400 ek göstergeli Teftiş Kurulu Başkanlığına, Başmüfettiş Ramazan YAĞIZ’ın atanması, 657 sayılı Kanunun değişik 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -472,11 +472,11 @@ Karar Sayısı : 2004/5574
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip ERDOĞAN E. MUMCU
+<i>Recep Tayyip ERDOĞAN E. MUMCU</i>
 
 Başbakan Kültür ve Turizm Bakanı
 
@@ -484,7 +484,7 @@ Başbakan Kültür ve Turizm Bakanı
 
 Çevre ve Orman Bakanlığından:
 
-Karar Sayısı : 2004/5575
+**Karar Sayısı : 2004/5575**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Van İl Çevre ve Orman Müdürlüğüne, Hüseyin AVCİL’in atanması, 657 sayılı Kanunun 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -492,27 +492,27 @@ Karar Sayısı : 2004/5575
 
 20 Şubat 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
-Recep Tayyip E RDOĞAN O. PEPE
+<i>Recep Tayyip E RDOĞAN O. PEPE</i>
 
 Başbakan Çevre ve Orman Bakanı
 
 Sayfa Başı
 
-Yönetmelikler
+**Yönetmelikler**
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
 
-Yeraltı ve Yerüstü Maden İşletmelerinde Sağlık v e Güvenlik
+**Yeraltı ve Yerüstü Maden İşletmelerinde Sağlık v e Güvenlik**
 
-Şartları Yönetmeliği
+**Şartları Yönetmeliği**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç**, **Kapsam**, **Dayanak** ve **Tanımlar**
 
 #### Amaç
 
@@ -628,7 +628,7 @@ c) Yürürlüğe girdiği tarihten sonra işyerinde yapılacak değişiklik ve e
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İlgili Avrupa Birliği Mevzuatı, Yürürlük ve Yürütme
+**İlgili Avrupa Birliği Mevzuatı**, Yürürlük ve Yürütme
 
 #### İlgili Avrupa Birliği Mevzuatı
 
@@ -1220,11 +1220,11 @@ Kurtarma teşkilatında, yeraltında maden arama veya çıkarma işlerinin yür�
 
 Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Ku rumundan:
 
-Tütün Mamulleri ile İlgili Fabrikaların Kurulmasına, Bu Mamullerin
+**Tütün Mamulleri ile İlgili Fabrikaların Kurulmasına, Bu Mamullerin**
 
-Üretimine, İç ve Dış Ticareti ve Denetlenmesine İlişkin
+**Üretimine, İç ve Dış Ticareti ve Denetlenmesine İlişkin**
 
-Usul ve Esaslar Hakkında Yönetmelikte Değişiklik
+**Usul ve Esaslar Hakkında Yönetmelikte Değişiklik**
 
 #### Yapılmasına Dair Yönetmelik
 
@@ -1246,13 +1246,13 @@ Usul ve Esaslar Hakkında Yönetmelikte Değişiklik
 
 Sayfa Başı
 
-Hâkimler ve Savcılar Yüksek Kurulu İlke Kararı
+**Hâkimler ve Savcılar Yüksek Kurulu İlke Kararı**
 
 Hâkimler ve Savcılar Yüksek Kurulu Başkanlığından:
 
-K. Tarihi : 26.1.2004
+**K. Tarihi :** 26.1.2004
 
-K. No : 9
+**K. No :** 9
 
 Adlî Y argı Hâkim ve Cumhuriyet Savcıları ile İdari Yargı Hâkim ve Savcıları Hakkında 2802 sayılı Hâkimler ve Savcılar Kanununun 31 inci Maddesine Göre Tespit Edilen Lisans Üstü Öğrenim Esaslarına İlişkin Hâkimler ve Savcılar Yüksek Kurulunun 22.1.1990 tarih ve 1 3 sayılı İlke Kararının 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
@@ -1270,13 +1270,13 @@ d) Hâkimler ve Savcılar Yüksek Kurulu’ndan izin almaları,
 
 Sayfa Başı
 
-Tebliğler
+**Tebliğler**
 
 Hazine Müsteşarlığından:
 
-25.000 Liralık Madeni Paraların Tedavülden
+**25.000 Liralık Madeni Paraların Tedavülden**
 
-Kaldırılması ile İlgili Tebliğ
+**Kaldırılması ile İlgili Tebliğ**
 
 #### (Sıra No: 2004/3)
 
@@ -1300,7 +1300,7 @@ Aşağıda özellikleri belirtilen 25.000 Liralık madeni paralar 24/2/2004 tari
 
 Dış Ticaret Müsteşarlığından:
 
-Uluslararası Gözetim Şirketleri Statüsüne İlişkin Karar
+**Uluslararası Gözetim Şirketleri Statüsüne İlişkin Karar**
 
 #### (Dış Ticarette Standardizasyon: 2004/)
 

@@ -30,7 +30,7 @@ Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -84,7 +84,7 @@ yapılan değişiklikleri ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Varyasyonların Türleri ve Prosedürleri
+**Varyasyonların Türleri ve Prosedürleri**
 
 #### Varyasyonların sınıflandırılması
 
@@ -180,7 +180,7 @@ c) Uygulanabilir olduğu durumlarda, ruhsatname ya da ruhsat sertifikası onayla
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Özel Prosedürler
+**Özel Prosedürler**
 
 #### Çeşitleme
 
@@ -204,7 +204,7 @@ c) Uygulanabilir olduğu durumlarda, ruhsatname ya da ruhsat sertifikası onayla
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Varyasyonların Uygulamaya Geçilmesi
+**Varyasyonların Uygulamaya Geçilmesi**
 
 #### Varyasyonların uygulamaya geçilmesi
 
@@ -220,7 +220,7 @@ Varyasyonların Uygulamaya Geçilmesi
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Kılavuz
 

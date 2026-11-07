@@ -15,7 +15,7 @@ durum: "yürürlükte"
 
 **Madde 3 –** ( Değişik 7075-7.2.1958 ) Birinci maddeye göre monopol altına alınan ilaç ve filimlerden Sıhhat ve İçtimai Muvanet Vekaletince tayin olunacak miktarları Kızılay Cemiyeti yurt içinde devamlı surette bulundurur.Malların toptan satış fiyatları Sıhhat ve İçtimai Muvanet Vekaleti ile Kızılay Cemiyeti arasında tesbit edilir.2490 sayılı kanunun 69 ncu maddesine göre resmi dairelere yapılacak satışlar bu fiyatlar üzerinden yapılır.
 
-Muvakkat Madde- (7075-7.2.1958) Bu kanunun neşir tarihinden evvel döviz tahsisleri yapılmış ve siparişleri verilmiş olan ilaç ve röntgen filmlerinin sahipleri tarafından yurda ithaline müseeda edilir.
+**Muvakkat Madde-** (7075-7.2.1958) Bu kanunun neşir tarihinden evvel döviz tahsisleri yapılmış ve siparişleri verilmiş olan ilaç ve röntgen filmlerinin sahipleri tarafından yurda ithaline müseeda edilir.
 
 **Madde 4 –** Bu kanunun hükümleri 1 Eylül 1953 den yürür.
 

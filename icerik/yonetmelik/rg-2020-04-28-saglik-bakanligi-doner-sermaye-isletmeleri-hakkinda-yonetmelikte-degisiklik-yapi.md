@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 15/5/2017 tarihli ve 30067 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Döner Sermaye İşletmeleri Hakkında Yönetmeliğin 3 üncü maddesinin birinci fıkrasının (ç) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 15/5/2017 tarihli ve 30067 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Döner Sermaye İşletmeleri Hakkında Yönetmeliğin 3 üncü maddesinin birinci fıkrasının (ç) bendi aşağıdaki şekilde değiştirilmiştir.
 “ç) İşletme birimi: Sağlık Bakanlığı merkez birimleri, İl Sağlık Müdürlüğü merkezi için kurulan birim (Sağlık Müdürlüğü İşletme Birimi olarak adlandırılacaktır) ile İl Sağlık Müdürlüklerine bağlı sağlık tesislerinde (Ağız ve Diş Sağlığı Merkezleri dahil) kurulan birim ve lüzumu halinde Bakan tarafından uygun görülerek kurulan birimi,”
 
 MADDE 2 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.

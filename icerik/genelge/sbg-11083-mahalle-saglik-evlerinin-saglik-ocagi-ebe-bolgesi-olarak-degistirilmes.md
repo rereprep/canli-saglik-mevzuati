@@ -9,9 +9,9 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11083/mahalle-saglik-evlerinin-saglik-
 durum: "yürürlükte"
 ---
 
-T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı : B.10.0.TSH.0.13.00.01 Konu: Sağlık Evleri
+**Sayı :** B.10.0.TSH.0.13.00.01 **Konu:** Sağlık Evleri
 
 …………… VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE 2004/127 19.10.2004-016043
 

@@ -82,7 +82,7 @@ g) Etiket örneği,
 
 h) Mesul müdür sözleşmesi ve diploma,
 
-Başvurunun müdürlüğe intikali üzerine sağlık müdürü veya görevlendireceği müdür yardımcısı başkanlığında gıda ve çevre kontrol şube müdürü, 1 tabip, 2 çevre sağlığı teknisyeni veya çevre sağlığı teknisyeninin bulunmaması durumunda diğer yardımcı sağlık personelinden oluşan İnceleme Kurulu tarafından üretim yerinden kimyasal ve mikrobiyolojik numuneler alınır, teknik ve hijyenik açıdan incelenerek değerlendirme raporu düzenlenir. (Mülga cümle:RG-31/1/2009-27127) (1) … (Değişik ibare:RG-31/1/2009-27127) (1) Valilikçe yapılacak inceleme sonucunda bu Tebliğde belirtilen şartları taşıyan işletmelere üretim izni verilir.
+Başvurunun müdürlüğe intikali üzerine sağlık müdürü veya görevlendireceği müdür yardımcısı başkanlığında gıda ve çevre kontrol şube müdürü, 1 tabip, 2 çevre sağlığı teknisyeni veya çevre sağlığı teknisyeninin bulunmaması durumunda diğer yardımcı sağlık personelinden oluşan İnceleme Kurulu tarafından üretim yerinden kimyasal ve mikrobiyolojik numuneler alınır, teknik ve hijyenik açıdan incelenerek değerlendirme raporu düzenlenir. **(Mülga cümle:RG-31/1/2009-27127) (1) … (Değişik ibare:RG-31/1/2009-27127) (1)** Valilikçe yapılacak inceleme sonucunda bu Tebliğde belirtilen şartları taşıyan işletmelere üretim izni verilir.
 
 #### Üretim tesisinin nitelikleri
 
@@ -176,7 +176,7 @@ Kaynağın değişmemesi sadece üretim tesisinin veya tesiste yapılan işin de
 
 #### Yasaklar ve müeyyideler
 
-**Madde 15 –** (Değişik ibare:RG-31/1/2009-27127) (1) Valilikten üretim izni alınmadan peloid üretilemez ve piyasaya arz edilemez.
+**Madde 15 – (Değişik ibare:RG-31/1/2009-27127) (1)** Valilikten üretim izni alınmadan peloid üretilemez ve piyasaya arz edilemez.
 
 (Değişik ibare:RG-31/1/2009-27127) (1) Valilikçe üretim izni verilen peloidlerin etiketlerinde, 10 uncu maddede belirtilen etiket bilgileri ile uyarı ve önlemler dışında bilgilere yer verilemez.
 
@@ -204,8 +204,8 @@ Bu süre zarfında uygun hale getirilmeyen üretim yerlerinin faaliyeti durdurul
 
 **Madde 18 –** Bu Tebliğ hükümlerini Sağlık Bakanı yürütür.
 
-(1) : İŞLENEMEYEN HÜKÜM : 31/1/2009 tarihli ve 27127 sayılı Resmi Gazete’de yayımlanan Peloidlerin Üretimi ve Satışı Hakkındaki Tebliğde Değişiklik Yapılmasına Dair Tebliğin Geçici 1 inci maddesi aşağıdaki gibidir:
+**(1) : İŞLENEMEYEN HÜKÜM :** 31/1/2009 tarihli ve 27127 sayılı Resmi Gazete’de yayımlanan Peloidlerin Üretimi ve Satışı Hakkındaki Tebliğde Değişiklik Yapılmasına Dair Tebliğin Geçici 1 inci maddesi aşağıdaki gibidir:
 
-“GEÇİCİ MADDE 1 – Bu Tebliğin yürürlüğe girdiği tarihten önce peloid üretim tesislerine Bakanlıkça verilen üretim izinleri geçerlidir.
+**<i>“GEÇİCİ MADDE 1 –</i>** <i>Bu Tebliğin yürürlüğe girdiği tarihten önce peloid üretim tesislerine Bakanlıkça verilen üretim izinleri geçerlidir.</i>
 
-Bakanlıkça verilen üretim izinleri bir defaya mahsus olmak üzere 1 yıl içinde ücretsiz olarak Valiliklere müracaat edilerek değiştirilir.”
+<i>Bakanlıkça verilen üretim izinleri bir defaya mahsus olmak üzere 1 yıl içinde ücretsiz olarak Valiliklere müracaat edilerek değiştirilir.”</i>

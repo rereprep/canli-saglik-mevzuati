@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/07/20120705-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-YARGI HİZMETLERİNİN ETKİNLEŞTİRİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI VE BASIN YAYIN YOLUYLA İŞLENEN SUÇLARA İLİŞKİN DAVA VE CEZALARIN ERTELENMESİ HAKKINDA KANUN
-Kanun No. 6352 Kabul Tarihi: 2/7/2012
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**YARGI HİZMETLERİNİN ETKİNLEŞTİRİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI VE BASIN YAYIN YOLUYLA İŞLENEN SUÇLARA İLİŞKİN DAVA VE CEZALARIN ERTELENMESİ HAKKINDA KANUN**
+**Kanun No. 6352** Kabul Tarihi: 2/7/2012
 
 MADDE 1 – 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 1 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “İcra daireleri:
@@ -114,7 +114,7 @@ Birinci fıkra gereğince haczin kalkmasına sebebiyet veren alacaklı o mala y�
 
 MADDE 23 – 2004 sayılı Kanunun 112 nci maddesinin birinci fıkrasında yer alan “bir ay” ibaresi “iki ay” şeklinde değiştirilmiştir.
 
-MADDE 24 – 2004 sayılı Kanunun 114 üncü maddesinin üçüncü fıkrasına aşağıdaki cümle ve maddeye aşağıdaki fıkralar eklenmiştir.
+**MADDE 24 –** 2004 sayılı Kanunun 114 üncü maddesinin üçüncü fıkrasına aşağıdaki cümle ve maddeye aşağıdaki fıkralar eklenmiştir.
 “Satış ilanı elektronik ortamda da yapılır.”
 “Açık artırmaya elektronik ortamda teklif verme yoluyla başlanır. Elektronik ortamda teklif verme, birinci ihale tarihinden on gün önce başlar, ihalenin tamamlanacağı günden önceki gün sonunda sona erer; ikinci ihalede ise elektronik ortamda teklif verme birinci ihaleden sonraki beşinci gün başlar, en az on gün sonrası için belirlenecek ikinci ihalenin tamamlanacağı günden önceki gün sonunda sona erer. Elektronik ortamda verilecek teklifler haczedilen malın tahmin edilen kıymetinin yüzde ellisinden az olamaz; teklif vermeden önce, haczedilen malın tahmin edilen kıymetinin yüzde yirmisi nispetinde teminat gösterilmesi zorunludur.
 Satışa çıkarılan taşınır üzerinde hakkı olan alacaklının alacağı yukarıdaki fıkrada yazılı oranda ise artırmaya iştiraki halinde ayrıca pey akçesi ve teminat aranmaz.”

@@ -8,19 +8,19 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11043/bilgilendirme-ve-tanitim-faliyet
 durum: "yürürlükte"
 ---
 
-Sayı : B.10.0.THG.0.86.01.00-090.99/* 45208 11/11/2011
+**Sayı :** B.10.0.THG.0.86.01.00-090.99/* **45208 11/11/2011**
 
-Konu: Bilgilendirme ve Tanıtım Faaliyetleri
+**Konu:** Bilgilendirme ve Tanıtım Faaliyetleri
 
 ### ………………………………… VALİLİĞİNE
 
-(İl Sağlık Müdürlüğü)
+**(İl Sağlık Müdürlüğü)**
 
 ### GENELGE
 
-2011 / 59
+**2011 / 59**
 
-Bilindiği üzere, 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun'un 24 üncü maddesinde, "İcrayı sanat eden tabipler hasta kabul ettikleri mahal ile muayene saatlerini ve ihtisaslarını bildiren ilanlar tertibine mezun olup, diğer suretlerle ilan, reklâm ve saire yapmaları memnudur."; Tıbbi Deontoloji Nizamnamesi'nin 9 uncu maddesinde, "Tabip ve diş tabibi, gazete ve sair neşir vasıtaları ile yapacağı ilanlarda ve reçete kâğıtlarında ancak ad ve soyadı ile adresini, Tababet İhtisas Nizamnamesine göre kabul edilmiş olan ihtisas şubesini, akademik unvanını ve muayene gün ve saatlerini yazabilir.” ve 39 uncu maddesinde de, "Tabip ve diş tabibi, meslektaşlarının hastalarını elde etmeğe matuf hareket ve teşebbüslerde bulunamaz." hükümleri sevk olunmuştur. Yine, özel sağlık kuruluşlarına ilişkin Yönetmeliklerde de, mezkûr mevzuat hükümlerine paralel olarak; sağlık kuruluşları tarafından, tıbbi deontoloji ve meslek etiği kurallarına aykırı, insanları yanıltan, yanlış yönlendiren, talep oluşturmaya yönelik, doğruluğu bilimsel olarak kanıtlanmamış veya yerleşik tıbbi metot haline gelmemiş uygulamalara dayalı tanıtım yapılamayacağı, yalnızca ruhsatında kayıtlı hizmet alanlarına ilişkin bilgilendirme yapılabileceği, bunun dışında her türlü basılı ve görsel yayınlarda reklam yapılamayacağına ilişkin düzenlemelere yer verilmiştir.
+Bilindiği üzere, 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun'un 24 üncü maddesinde, <i>"İcrayı sanat eden tabipler hasta kabul ettikleri mahal ile muayene saatlerini ve ihtisaslarını bildiren ilanlar tertibine mezun olup, diğer suretlerle ilan, reklâm ve saire yapmaları memnudur.";</i> Tıbbi Deontoloji Nizamnamesi'nin 9 uncu maddesinde, <i>"Tabip ve diş tabibi, gazete ve sair neşir vasıtaları ile yapacağı ilanlarda ve reçete kâğıtlarında ancak ad ve soyadı ile adresini, Tababet İhtisas Nizamnamesine göre kabul edilmiş olan ihtisas şubesini, akademik unvanını ve muayene gün ve saatlerini yazabilir.”</i> ve 39 uncu maddesinde de, <i>"Tabip ve diş tabibi, meslektaşlarının hastalarını elde etmeğe matuf hareket ve teşebbüslerde bulunamaz."</i> hükümleri sevk olunmuştur. Yine, özel sağlık kuruluşlarına ilişkin Yönetmeliklerde de, mezkûr mevzuat hükümlerine paralel olarak; sağlık kuruluşları tarafından, tıbbi deontoloji ve meslek etiği kurallarına aykırı, insanları yanıltan, yanlış yönlendiren, talep oluşturmaya yönelik, doğruluğu bilimsel olarak kanıtlanmamış veya yerleşik tıbbi metot haline gelmemiş uygulamalara dayalı tanıtım yapılamayacağı, yalnızca ruhsatında kayıtlı hizmet alanlarına ilişkin bilgilendirme yapılabileceği, bunun dışında her türlü basılı ve görsel yayınlarda reklam yapılamayacağına ilişkin düzenlemelere yer verilmiştir.
 
 Bu hukuki düzenlemelerden maksat, i nsan sağlığının, ticari unsur haline dönüştürülmesinin engellenmesi ve temel bir kamu hizmeti niteliği taşıyan sağlık hizmetinin görülmesi sırasında kamu yararının korunmasıdır. Bu bakımdan, özel sağlık kuruluşlarına, mevzuatta izin verilen bilgilendirme ve tanıtım kapsamı dışında faaliyette bulunmaları halinde kanun ve ilgili yönetmeliklerdeki yaptırımlar uygulanmaktadır. Ancak, son zamanlarda özel sağlık kuruluşları tarafından yapılan ilan ve tanıtımlarda maksadını aşan ifadelere yer verildiği ve bilgilendirme ve tanıtımının reklam boyutuna taşındığı görülmüştür. Bu bağlamda bilgilendirme ve tanıtım faaliyetlerinin ilgili mevzuata uygun olarak yürütülmesi ve uygulamada birliğin sağlanması amacıyla aşağıdaki hususlara açıklık getirilmesi gerekli görülmüştür.
 
@@ -28,7 +28,7 @@ Bu hukuki düzenlemelerden maksat, i nsan sağlığının, ticari unsur haline d
 
 a) Hasta kabul ve tedavi ettiği uzmanlık dalları, adres ve iletişim bilgileri konularında toplumu bilgilendirmek amacıyla, faaliyete başladığı tarihten itibaren en fazla bir ay süre ile ilan verilmesi,
 
-b) İlanlarda, tıbbî deontoloji ve meslekî etik kurallarına aykırı şekilde, faaliyet izin belgesinde yazılı uzmanlık dallarından başka hastaları kabul ve tedavi ettiği intibaını uyandıran ifadelere; insanların güvenini, bilgi ve tecrübe eksikliğini istismar eden “ilk” , “tek”, “deneyimli”, “ üstün teknolojik yatırım”, “farklı bir anlayışla”, “güçlü ve uzman kadro”, “ sağlıkta kalite ”, “ daha az komplikasyon, daha çok hasta konforu, daha erken taburcu olma imkanı”, “ fark edilen güzelliğin fark yaratan adresi”, “bu hastalıkta uygulanması gereken en uygun metod”, “ herkes en az bir defa yaptırmalı” , “çok kısa sürede ağrısız acısız bir şekilde kurtulabilirsiniz”, “Bembeyaz bir gülümseme için 24’e kadar açığız”,“ Bıçaksız lazer teknolojisi ile gözlerde HD kalitesi ”,“….. dönemde bu tetkik yapılmazsa ….hastalık engellenemez”, “önceden tedbirinizi alın”, “bu cihazla hiç bir şey saklanmaz”, “el bileğinden kalbe giden yol Radial anjiyografi yöntemi ”,“ en son teknolojik cihaz” gibi hizmet veya kuruluşun diğer hizmet veya kuruluşlardan farklı olduğunu ifade eden, talep oluşturan ve verilen sağlık hizmetine ticari yön veren ifadelere yer verilmemesi,
+b) İlanlarda, tıbbî deontoloji ve meslekî etik kurallarına aykırı şekilde, faaliyet izin belgesinde yazılı uzmanlık dallarından başka hastaları kabul ve tedavi ettiği intibaını uyandıran ifadelere; insanların güvenini, bilgi ve tecrübe eksikliğini istismar eden **“ilk” , “tek”, “deneyimli”, “ üstün teknolojik yatırım”, “farklı bir anlayışla”, “güçlü ve uzman kadro”, “ sağlıkta kalite ”, “ daha az komplikasyon, daha çok hasta konforu, daha erken taburcu olma imkanı”, “ fark edilen güzelliğin fark yaratan adresi”, “bu hastalıkta uygulanması gereken en uygun metod”, “ herkes en az bir defa yaptırmalı” , “çok kısa sürede ağrısız acısız bir şekilde kurtulabilirsiniz”, “Bembeyaz bir gülümseme için 24’e kadar açığız”,“ Bıçaksız lazer teknolojisi ile gözlerde HD kalitesi ”,“….. dönemde bu tetkik yapılmazsa ….hastalık engellenemez”, “önceden tedbirinizi alın”, “bu cihazla hiç bir şey saklanmaz”, “el bileğinden kalbe giden yol Radial anjiyografi yöntemi ”,“ en son teknolojik cihaz”** gibi hizmet veya kuruluşun diğer hizmet veya kuruluşlardan farklı olduğunu ifade eden, talep oluşturan ve verilen sağlık hizmetine ticari yön veren ifadelere yer verilmemesi,
 
 c) Oluşturulan web sayfalarında sadece hasta kabul ve tedavi ettikleri uzmanlık dalları, faaliyet izin belgelerinde yer alan ünite ve cihazlar (belgede ifade edildikleri şekilde), çalışma saatleri, iletişim ve adres bilgileri ile tedavi edici sağlık hizmetine yönelik olmaması ve alanı ile ilgili bilgi ve tecrübeye sahip sağlık meslek mensupları tarafından verilmesi kaydıyla sağlık bilgilerine yer verilmesi; ancak, verilen bilgilerde yukarıdaki (b) bendinde belirtildiği gibi ifadelere yer verilmemesi, bu web sayfaları aracılığıyla hiçbir şekilde reklam yapılmaması, verilen bilginin, son güncelleme tarihinin açıkça belirtilmesi ve web sayfası editörüne ulaşılabilecek iletişim bilgilerinin de mutlaka sayfada bulundurulması,
 
@@ -38,9 +38,9 @@ d) Kişilerin bilgi ve rızaları olmaksızın şahsi telefonlarının rastgele 
 
 mecburidir.
 
-2) Özel sağlık kuruluşlarının, “ hasta taşıma hizmeti alımı ” konulu 2011/ 20 sayılı Bakanlığımız Genelgesi kapsamında (kas sistemi, nörolojik, ruh sağlığı ve benzeri kronik hastalığı bulunan hastalar, kanser hastalarının kemoterapi ve radyoterapi tedavileri, ayaktan fizik tedavi ve rehabilitasyon uygulanan hastalar, organ ve doku nakli yapılmış veya yapılacak olan hastalar ile doğum yapmış olup da hastaneden taburcu edilen anne ve bebekler gibi sosyal ve tıbbi endikasyonlarına bağlı olarak hastaneye gidiş- dönüş ulaşımında sorun bulunan hastalar) ücretsiz servis hizmeti sunabilmeleri mümkün olmakla beraber, sundukları servis hizmetleri ile ilgili olarak reklam yapmamaları, ilan vermemeleri ve talep yaratmaya yönelik faaliyetlerde bulunmamaları gerekmektedir.
+2) Özel sağlık kuruluşlarının, “ **hasta taşıma hizmeti alımı ”** konulu 2011/ 20 sayılı Bakanlığımız Genelgesi kapsamında <i>(kas sistemi, nörolojik, ruh sağlığı ve benzeri kronik hastalığı bulunan hastalar, kanser hastalarının kemoterapi ve radyoterapi tedavileri, ayaktan fizik tedavi ve rehabilitasyon uygulanan hastalar, organ ve doku nakli yapılmış veya yapılacak olan hastalar ile doğum yapmış olup da hastaneden taburcu edilen anne ve bebekler gibi sosyal ve tıbbi endikasyonlarına bağlı olarak hastaneye gidiş- dönüş ulaşımında sorun bulunan hastalar)</i> ücretsiz servis hizmeti sunabilmeleri mümkün olmakla beraber, sundukları servis hizmetleri ile ilgili olarak reklam yapmamaları, ilan vermemeleri ve talep yaratmaya yönelik faaliyetlerde bulunmamaları gerekmektedir.
 
-3) 1219 sayılı Kanun'un 8 inci maddesinde “ Türkiye'de icrayı tababet için bu kanunda gösterilen vasıfları haiz olanlar umumi surette hastalıkları tedavi hakkını haizdirler” ve 25 inci maddesinde “ Diploması olmadığı hâlde, menfaat temin etmek amacına yönelik olmasa bile, hasta tedavi eden veya tabip unvanını takınan şahıs iki yıldan beş yıla kadar hapis ve bin güne kadar adlî para cezası ile cezalandırılır.” hükümleri sevk olunmuştur. Anılan hükümler ile Türkiye dâhilinde hastalıkları tedavi etme hakkına haiz olanların kapsamı belirlenmiş bulunmaktadır. Ancak, hekim dahi olsa hiçbir kimsenin, doğruluğu bilimsel olarak kanıtlanmamış ve rutin tedavi yöntemi haline gelmemiş herhangi bir metodu, hastalar üzerinde uygulama yetkisi bulunmamaktadır. Aynı Kanuna 6225 sayılı Kanunun 9 uncu maddesi ile eklenen Ek 13 üncü maddede, insan sağlığına yönelik geleneksel/tamamlayıcı tedavi yöntemlerinin hekimlerce veya hekimlerin yönlendirmesiyle ilgili sağlık meslek mensubu tarafından uygulanabileceği öngörülmüştür.
+3) 1219 sayılı Kanun'un 8 inci maddesinde “ <i>Türkiye'de icrayı tababet için bu kanunda gösterilen vasıfları haiz olanlar umumi surette hastalıkları tedavi hakkını haizdirler”</i> ve 25 inci maddesinde “ <i>Diploması olmadığı hâlde, menfaat temin etmek amacına yönelik olmasa bile, hasta tedavi eden veya tabip unvanını takınan şahıs iki yıldan beş yıla kadar hapis ve bin güne kadar adlî para cezası ile cezalandırılır.”</i> hükümleri sevk olunmuştur. Anılan hükümler ile Türkiye dâhilinde hastalıkları tedavi etme hakkına haiz olanların kapsamı belirlenmiş bulunmaktadır. Ancak, hekim dahi olsa hiçbir kimsenin, doğruluğu bilimsel olarak kanıtlanmamış ve rutin tedavi yöntemi haline gelmemiş herhangi bir metodu, hastalar üzerinde uygulama yetkisi bulunmamaktadır. Aynı Kanuna 6225 sayılı Kanunun 9 uncu maddesi ile eklenen Ek 13 üncü maddede, insan sağlığına yönelik geleneksel/tamamlayıcı tedavi yöntemlerinin hekimlerce veya hekimlerin yönlendirmesiyle ilgili sağlık meslek mensubu tarafından uygulanabileceği öngörülmüştür.
 
 Ancak, bazı hekimlerin ve kimselerin tıbbi faydaları klinik çalışmalarla kanıtlanmamış metodlarla hastalıkları tedavi ettiği veya tedaviye yardımcı olduğu, her türlü görsel, işitsel ve internet medyasında bu yönde birçok tanıtım ve reklam yapıldığı müşahede edilmektedir. Bu tür faaliyetlerin 1219 sayılı Kanuna aykırılık oluşturması hasebiyle, bu nevi faaliyetlerin tespit edilmesi durumunda Kanunda öngörülen idari müeyyidelerin derhal uygulanması, adli müeyyideler açısından adli makamlara bildirimde bulunulması gerekmektedir.
 
@@ -48,11 +48,11 @@ Bu itibarla, keyfiyetin iliniz dâhilindeki tüm özel sağlık kuruluşları me
 
 Bilgilerinizi ve gereğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 
-Bakan a.
+**Bakan a.**
 
-Müsteşar
+**Müsteşar**
 
 ### DAĞITIM:
 

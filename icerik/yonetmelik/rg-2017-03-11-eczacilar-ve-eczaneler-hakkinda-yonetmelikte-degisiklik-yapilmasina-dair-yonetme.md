@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-ECZACILAR VE ECZANELER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ECZACILAR VE ECZANELER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 12/4/2014 tarihli ve 28970 sayılı Resmî Gazete’de yayımlanan Eczacılar ve Eczaneler Hakkında Yönetmeliğin geçici 4 üncü maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
 “(1) 20 nci maddenin yedinci fıkrasında yer alan, “kritik durumlarda uyarı verecek erken uyarı sisteminin ve geriye dönük hafıza kaydı bulunan termometrenin bulunması” yükümlülüğü bu hükmün yürürlüğe girdiği tarihten sonra açılan ve nakil olan eczaneler tarafından en geç 31/12/2017 tarihine kadar, diğer eczaneler tarafından en geç 31/12/2018 tarihine kadar yerine getirilir.

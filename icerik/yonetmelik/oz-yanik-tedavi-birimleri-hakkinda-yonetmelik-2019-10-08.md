@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -62,7 +62,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Yanık Tedavi Birimleri ve Bu Birimlerin Standartları
+**Yanık Tedavi Birimleri ve Bu Birimlerin Standartları**
 
 #### Yanık tedavi birim türleri
 
@@ -184,7 +184,7 @@ g) Sorumlu tabip tarafından iş akış planında belirlenen diğer görevleri y
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Eğitim Merkezleri ve Eğitim Faaliyetleri
+**Eğitim Merkezleri ve Eğitim Faaliyetleri**
 
 #### Eğitim merkezlerinin belirlenmesi
 
@@ -200,7 +200,7 @@ Eğitim Merkezleri ve Eğitim Faaliyetleri
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Komisyon ve Yanık Tedavi Birimlerinin Kurulması ile Faaliyet İzni
+**Komisyon ve Yanık Tedavi Birimlerinin Kurulması ile Faaliyet İzni**
 
 #### Komisyonun kurulması
 
@@ -246,7 +246,7 @@ d) Araç-gereç, tıbbi cihaz ve donanım listesi.
 
 ### BEŞİNCİ BÖLÜM
 
-Nöbet, Sevk, Verimlilik, Denetim ve Yaptırımlara Dair Hükümler
+**Nöbet, Sevk, Verimlilik, Denetim ve Yaptırımlara Dair Hükümler**
 
 #### Nöbet hizmetleri
 
@@ -292,7 +292,7 @@ Nöbet, Sevk, Verimlilik, Denetim ve Yaptırımlara Dair Hükümler
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Hüküm bulunmayan haller
 
@@ -312,4 +312,4 @@ Nöbet, Sevk, Verimlilik, Denetim ve Yaptırımlara Dair Hükümler
 
 **MADDE 24 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

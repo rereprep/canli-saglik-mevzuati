@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -63,7 +63,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Temel İlkeler, İş ve Görev Tanımları
+**Temel İlkeler, İş ve Görev Tanımları**
 
 #### Temel ilkeler
 
@@ -285,7 +285,7 @@ d) Bakanlık tarafından düzenlenen rahim içi araç (RIA) yetki belgesine sahi
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Sorumlu Ebe, Uzman Ebe ve Yetki Belgesine Sahip Ebeler
+**Sorumlu Ebe, Uzman Ebe ve Yetki Belgesine Sahip Ebeler**
 
 #### Sorumlu ebe
 
@@ -353,7 +353,7 @@ c) Ebelik hizmetlerini planlar, uygular, yönetir ve ebelik hizmetlerinin geliş
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Tereddütlerin giderilmesi
 

@@ -10,11 +10,11 @@ not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
 ---
 
-SAĞLIK HİZMETİ SUNAN 4734 SAYILI KAMU İHALE KANUNU KAPSAMINDAKİ İDARELERİN TEŞHİS VE TEDAVİYE YÖNELİK OLARAK BİRBİRLERİNDEN YAPACAKLARI MAL VE HİZMET ALIMLARINA İLİŞKİN YÖNETMELİK
+**SAĞLIK HİZMETİ SUNAN 4734 SAYILI KAMU İHALE KANUNU KAPSAMINDAKİ İDARELERİN TEŞHİS VE TEDAVİYE YÖNELİK OLARAK BİRBİRLERİNDEN YAPACAKLARI MAL VE HİZMET ALIMLARINA İLİŞKİN YÖNETMELİK**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -50,7 +50,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Hizmet Alımları
+**Hizmet Alımları**
 
 #### Hizmet alınması
 
@@ -72,7 +72,7 @@ Hizmet Alımları
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Mal Alımları
+**Mal Alımları**
 
 #### Mal alınması
 
@@ -92,7 +92,7 @@ Mal Alımları
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Ortak Hükümler
+**Ortak Hükümler**
 
 #### Protokol düzenlenmesi
 
@@ -108,7 +108,7 @@ Ortak Hükümler
 
 ### BEŞİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 

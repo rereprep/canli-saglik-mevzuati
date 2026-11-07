@@ -16,17 +16,17 @@ durum: "yürürlükte"
 
 ### HAKKINDA KANUN HÜKMÜNDE KARARNAME[1][2]
 
-Kanun Hükminde Kararnamenin Tarihi : 3/6/2011 No : 633
+**Kanun Hükminde Kararnamenin Tarihi : 3/6/2011 No : 633**
 
-Yetki Kanununun Tarihi : 6/4/2011 No : 6223
+**Yetki Kanununun Tarihi : 6/4/2011 No : 6223**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 8/6/2011 No : 27958 (Mükerrer)
+**Yayımlandığı Resmî Gazetenin Tarihi : 8/6/2011 No : 27958 (Mükerrer)**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 50
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 50**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Görevler
+**Amaç, Kapsam ve Görevler**
 
 #### Amaç ve kapsam
 
@@ -38,7 +38,7 @@ Amaç, Kapsam ve Görevler
 
 ### İKİNCİ BÖLÜM
 
-Bakanlık Teşkilatı
+**Bakanlık Teşkilatı**
 
 #### Teşkilat
 
@@ -54,7 +54,7 @@ Bakanlık Teşkilatı
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Hizmet Birimleri
+**Hizmet Birimleri**
 
 #### Hizmet birimleri
 
@@ -62,7 +62,7 @@ Hizmet Birimleri
 
 #### Aile ve Toplum Hizmetleri Genel Müdürlüğü
 
-**MADDE 7 –** (Mülga: 2/7/2018-KHK-703/3 md.)
+**MADDE 7 – (Mülga: 2/7/2018-KHK-703/3 md.)**
 
 #### Çocuk Hizmetleri Genel Müdürlüğü
 
@@ -134,7 +134,7 @@ Hizmet Birimleri
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Taşra ve Yurt Dışı Teşkilatı, Kurullar ve Çalışma Grupları[3]
+**Taşra ve Yurt Dışı Teşkilatı, Kurullar ve Çalışma Grupları**[3]
 
 #### Taşra teşkilatı
 
@@ -150,7 +150,7 @@ Taşra ve Yurt Dışı Teşkilatı, Kurullar ve Çalışma Grupları[3]
 
 ### BEŞİNCİ BÖLÜM
 
-Sorumluluk ve Yetkiler
+**Sorumluluk ve Yetkiler**
 
 #### Yöneticilerin sorumlulukları
 
@@ -170,7 +170,7 @@ Sorumluluk ve Yetkiler
 
 ### ALTINCI BÖLÜM
 
-Personele İlişkin Hükümler
+**Personele İlişkin Hükümler**
 
 #### Atama
 
@@ -190,7 +190,7 @@ Personele İlişkin Hükümler
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Sosyal Yardımlar Bilgi Sistemi Veri Tabanı
 
@@ -208,9 +208,9 @@ kişiye verilemez. Bakanlık Veri Tabanındaki bilgiler, elektronik ortamda, yed
 
 #### Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu Kurulu
 
-**MADDE 34 –** (1) (Mülga: 2/7/2018-KHK-703/3 md.)
+**MADDE 34 –** (1) (**Mülga: 2/7/2018-KHK-703/3 md.)**
 
-(2) (Mülga: 2/7/2018-KHK-703/3 md.)
+(2) (**Mülga: 2/7/2018-KHK-703/3 md.)**
 
 (3) Fon Kurulunun görevleri şunlardır:
 
@@ -224,7 +224,7 @@ c) İl ve ilçe sosyal yardımlaşma ve dayanışma vakıflarında çalıştır�
 
 d) Toplumda dayanışma ve paylaşma bilincini geliştirmek ve desteklemek üzere bilimsel, sosyal ve kültürel programlar ve projeler önermek, hazırlanan projelere destek sağlamak.
 
-(4) (Mülga: 2/7/2018-KHK-703/3 md.)
+(4) (**Mülga: 2/7/2018-KHK-703/3 md.)**
 
 #### Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler
 
@@ -250,7 +250,7 @@ d) Toplumda dayanışma ve paylaşma bilincini geliştirmek ve desteklemek üzer
 
 **EK MADDE 3 –** (Ek: 27/3/2015-6637/15 md.; Değişik: 21/3/2018 -7103/91 md.)
 
-(1) (Değişik cümle: 17/1/2019-7161/66 md.) Türk vatandaşlarının yurt içinde konut edinimlerine destek olmak amacıyla açılacak konut hesaplarına Devlet katkısı ödenebilir; ödenecek Devlet katkısı sadece bir konut edinimi ile sınırlı olup, katılımcı bazında bu hesaplarda biriken toplam tutarın yüzde 25’ini geçemez. Devlet katkısı ödemesi katılımcı bazında azami 25.000 Türk lirasını geçemez. Azami tutar her yıl yeniden değerleme oranı kadar artırılır. Azami tutarı dört katına kadar artırmaya Cumhurbaşkanı yetkilidir. Bu madde hükümleri, 5901 sayılı Kanunun 28 inci maddesi kapsamına girenlere uygulanmaz. Cumhurbaşkanı, bu fıkra kapsamındaki konut edinimlerinde, 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa bağlı (4) sayılı Tarifenin “I-Tapu işlemleri” başlıklı bölümünün (20) numaralı fıkrasının (a) bendi uyarınca, devralan veya iktisap eden hak sahibi alıcılardan alınması gereken tapu harcı nispetini sıfıra kadar indirmeye yetkilidir.11[12]
+(1) **(Değişik cümle: 17/1/2019-7161/66 md.)** Türk vatandaşlarının yurt içinde konut edinimlerine destek olmak amacıyla açılacak konut hesaplarına Devlet katkısı ödenebilir; ödenecek Devlet katkısı sadece bir konut edinimi ile sınırlı olup, katılımcı bazında bu hesaplarda biriken toplam tutarın yüzde 25’ini geçemez. Devlet katkısı ödemesi katılımcı bazında azami 25.000 Türk lirasını geçemez. Azami tutar her yıl yeniden değerleme oranı kadar artırılır. Azami tutarı dört katına kadar artırmaya Cumhurbaşkanı yetkilidir. Bu madde hükümleri, 5901 sayılı Kanunun 28 inci maddesi kapsamına girenlere uygulanmaz. Cumhurbaşkanı, bu fıkra kapsamındaki konut edinimlerinde, 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa bağlı (4) sayılı Tarifenin “I-Tapu işlemleri” başlıklı bölümünün (20) numaralı fıkrasının (a) bendi uyarınca, devralan veya iktisap eden hak sahibi alıcılardan alınması gereken tapu harcı nispetini sıfıra kadar indirmeye yetkilidir.11[12]
 
 (2) Konut hesaplarına yapılacak Devlet katkısına ilişkin hak ediş sürelerinin belirlenmesi, Devlet katkısının, edinilecek konutun niteliği ve sayısı, tasarruf süresi, katılımcı ve ödeme planlarına göre farklılaştırılması, Devlet katkısı sağlanacak hesapların niteliği ve işleyişi, bankalar ve katılımcılar arasında tasarruf tutarı ve konut kredisi kullanılmasına ilişkin düzenlenecek sözleşmeler hakkındaki esaslar ile hesapların denetimi ve diğer hususlara ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.11
 
@@ -378,11 +378,11 @@ muaftır.
 
 ### (I) SAYILI CETVEL
 
-(Mülga: 2/7/2018-KHK-703/3 md.)
+**(Mülga: 2/7/2018-KHK-703/3 md.)**
 
 ### (II) SAYILI CETVEL
 
-(Mülga: 11/10/2011-KHK-666/1 md.)
+**(Mülga: 11/10/2011-KHK-666/1 md.)**
 
 ### 633 SAYILI KHK’YE EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA
 
@@ -407,30 +407,30 @@ muaftır.
 | 7161 | Ek Madde 3 | Yayımı tarihi olan 18/1/2019 tarihinde |
 | 7546 | Ek Madde 4, Geçici Madde 12 | 30/3/2025 |
 
-<small>[1] 27/9/1984 tarihli ve 3046 sayılı Kanuna 3/6/2011 tarihli ve 643 sayılı KHK’nın 6 ncı Maddesi ile eklenen Geçici 6 ncı Maddesi ile bu KHK’nın 12/6/2011 tarihinde yapılacak milletvekili genel seçiminden sonra kurulacak ilk Bakanlar Kurulu üyelerinin atandığı tarihten itibaren uygulanacağı hüküm altına alınmıştır.</small>
+<small>[1] <i>27/9/1984 tarihli ve 3046 sayılı Kanuna 3/6/2011 tarihli ve 643 sayılı KHK’nın 6 ncı Maddesi ile eklenen Geçici 6 ncı Maddesi ile bu KHK’nın 12/6/2011 tarihinde yapılacak milletvekili genel seçiminden sonra kurulacak ilk Bakanlar Kurulu üyelerinin atandığı tarihten itibaren uygulanacağı hüküm altına alınmıştır.</i></small>
 
-<small>[2] Bu KHK’nin Adı “Aile ve Sosyal Politikalar Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname” iken, 2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[2] <i>Bu KHK’nin Adı “Aile ve Sosyal Politikalar Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname” iken, 2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[3] Bu bölümün başlığı “Taşra Teşkilatı ve Çalışma Grupları” iken 11/10/2011 tarihli ve 662 sayılı KHK’nin 5 inci maddesiyle “Taşra Teşkilatı, Kurullar ve Çalışma Grupları” şeklinde değiştirilmiş, daha sonra bu bölümün başlığı 6/2/2014 tarihli ve 6518 sayılı Kanunun 118 inci maddesiyle de metne işlendiği şekilde değiştirilerek en son halini almıştır.</small>
+<small>[3] <i>Bu bölümün başlığı “Taşra Teşkilatı ve Çalışma Grupları” iken 11/10/2011 tarihli ve 662 sayılı KHK’nin 5 inci maddesiyle “Taşra Teşkilatı, Kurullar ve Çalışma Grupları” şeklinde değiştirilmiş, daha sonra bu bölümün başlığı 6/2/2014 tarihli ve 6518 sayılı Kanunun 118 inci maddesiyle de metne işlendiği şekilde değiştirilerek en son halini almıştır.</i></small>
 
-<small>[4] Bu maddenin başlığı “Çalışma Grupları” iken 11/10/2011 tarihli ve 662 sayılı KHK’nin 5 inci maddesiyle metne eklendiği şekilde değiştirilmiştir.</small>
+<small>[4] <i>Bu maddenin başlığı “Çalışma Grupları” iken 11/10/2011 tarihli ve 662 sayılı KHK’nin 5 inci maddesiyle metne eklendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[5] Bu madde başlığı “Uzman ve Denetçi istihdamı” iken, 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[5] <i>Bu madde başlığı “Uzman ve Denetçi istihdamı” iken, 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, bu fıkrada yer alan “Bakanlık” ibaresi “Çalışma, Sosyal Hizmetler ve Aile Bakanlığı” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, bu fıkrada yer alan “Bakanlık” ibaresi “Çalışma, Sosyal Hizmetler ve Aile Bakanlığı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] 6/2/2014 tarihli ve 6518 sayılı Kanunun 119 uncu maddesiyle bu fıkrada yer alan “kuruluşlarına açar” ibaresi “kuruluşları ile mahalli idareler ve Türkiye Kızılay Derneğine açabilir” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 119 uncu maddesiyle bu fıkrada yer alan “kuruluşlarına açar” ibaresi “kuruluşları ile mahalli idareler ve Türkiye Kızılay Derneğine açabilir” şeklinde değiştirilmiştir.</i></small>
 
-<small>[8] 21/3/2018 tarihli ve 7103 sayılı Kanunun 90 ıncı maddesiyle, bu fıkrada yer alan “yüzde 20’sini” ibaresi “yüzde 25’ini” ve “5.000” ibaresi “7.500” olarak değiştirilmiştir.</small>
+<small>[8] <i>21/3/2018 tarihli ve 7103 sayılı Kanunun 90 ıncı maddesiyle, bu fıkrada yer alan “yüzde 20’sini” ibaresi “yüzde 25’ini” ve “5.000” ibaresi “7.500” olarak değiştirilmiştir.</i></small>
 
-<small>[9] 2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[9] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[10] 2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, Ek Madde 2’nin dördüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, üçüncü fıkrasında yer alan “Bakanlığın görüşü alınarak Hazine Müsteşarlığının bağlı bulunduğu Bakanın teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, Ek Madde 2’nin dördüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, üçüncü fıkrasında yer alan “Bakanlığın görüşü alınarak Hazine Müsteşarlığının bağlı bulunduğu Bakanın teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[11] 2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde ve ikinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[11] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde ve ikinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[12] 17/1/2019 tarihli ve 7161 sayılı Kanunun 66 ncı maddesiyle, bu fıkrada yer alan “20.000” ibaresi “25.000” şeklinde, “üç” ibaresi “dört” şeklinde değiştirilmiştir.</small>
+<small>[12] <i>17/1/2019 tarihli ve 7161 sayılı Kanunun 66 ncı maddesiyle, bu fıkrada yer alan “20.000” ibaresi “25.000” şeklinde, “üç” ibaresi “dört” şeklinde değiştirilmiştir.</i></small>
 
-<small>[13] 17/1/2019 tarihli ve 7161 sayılı Kanunun 66 ncı maddesiyle, bu fıkrada yer alan “Bakanlık” ibareleri “Hazine ve Maliye Bakanlığı” şeklinde değiştirilmiş ve yine bu fıkrada yer alan “defaten” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[13] <i>17/1/2019 tarihli ve 7161 sayılı Kanunun 66 ncı maddesiyle, bu fıkrada yer alan “Bakanlık” ibareleri “Hazine ve Maliye Bakanlığı” şeklinde değiştirilmiş ve yine bu fıkrada yer alan “defaten” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[14] 2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[14] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 3 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>

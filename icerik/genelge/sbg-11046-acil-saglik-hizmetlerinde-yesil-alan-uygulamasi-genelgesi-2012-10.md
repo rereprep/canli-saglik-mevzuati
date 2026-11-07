@@ -11,7 +11,7 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-Sayı :B.10.0.THG.0.83.00.03- 211.99- 01.01/3931 27.01.2012 Konu: Acil Sağlık Hizmetlerinde Yeşil Alan Uygulaması
+**Sayı :**B.10.0.THG.0.83.00.03- 211.99- 01.01/3931 27.01.2012 **Konu:** Acil Sağlık Hizmetlerinde Yeşil Alan Uygulaması
 
 ### ..............................VALİLİĞİNE GENELGE 2012/10
 
@@ -19,7 +19,7 @@ Sayı :B.10.0.THG.0.83.00.03- 211.99- 01.01/3931 27.01.2012 Konu: Acil Sağlık 
 
 16.10.2009 tarih ve 27378 sayılı Resmi Gazete yayımlanarak yürürlüğe giren Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğde; “Ayaktan başvuran, genel durumu itibariyle stabil olan ve ayaktan tedavisi sağlanabilecek basit sağlık sorunları bulunan hastalar (Yüksek risk taşımayan ve hafif derecedeki her türlü ağrı, aktif yakınması olmayan düşük riskli hastalık öyküsü, genel durumu ve hayati bulguları stabil olan hastada her türlü basit belirti, basit yaralar-küçük sıyrıklar, dikiş gerektirmeyen basit kesiler, kronik belirtileri olan ve genel durumu iyi olan davranışsal ve psikolojik bozukluklar)” şeklinde tanımlanmıştır.
 
-Bu itibarla, “520.021 Kodu ile tanımlanan; Yeşil alan muayenesi “ ibaresinden;
+Bu itibarla, “520.021 Kodu ile tanımlanan; <i>Yeşil alan muayenesi “</i> ibaresinden;
 
 1) Her ne boyutta olursa olsun travma vakaları,
 
@@ -45,7 +45,7 @@ Müsteşar
 
 ### DAĞITIM:
 
-Gereği: 81 İl Valiliğine (İl Sağlık Müdürlüğü)
+**Gereği:** 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
 ---
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığı (Türkiye Halk Sağlığı Kurumu)’ndan:
-İNSANİ TÜKETİM AMAÇLI SULAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İNSANİ TÜKETİM AMAÇLI SULAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmeliğin 46 ncı maddesinin üçüncü fıkrasının ikinci cümlesinde yer alan “İşyeri Açma ve Çalışma İzin Belgesi bulunmayan yerler ile” ibaresi yürürlükten kaldırılmıştır.
 

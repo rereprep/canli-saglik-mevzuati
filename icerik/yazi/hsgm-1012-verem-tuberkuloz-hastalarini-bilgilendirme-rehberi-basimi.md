@@ -45,15 +45,15 @@ Dağıtım:
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
-“VEREM (TÜBERKÜLOZ) HASTALARINI BİLGİLENDİRME REHBERİ”
+**“VEREM (TÜBERKÜLOZ) HASTALARINI BİLGİLENDİRME REHBERİ”**
 
-TEKNİK ŞARTNAMESİ
+**TEKNİK ŞARTNAMESİ**
 
-Madde 1) Genel Kurallar: Rehberin pdf formatı Halk Sağlığı Genel Müdürlüğü, Tüberküloz
+**Madde 1) Genel Kurallar:** Rehberin pdf formatı Halk Sağlığı Genel Müdürlüğü, Tüberküloz
 
 Dairesi Başkanlığının internet sayfasından alınacaktır.
 
-Madde 2) Teknik özellikler aşağıda verilmiştir.
+**Madde 2)** Teknik özellikler aşağıda verilmiştir.
 
 a) Kitap 42 sayfa olup renkli baskı yapılacaktır.
 
@@ -65,51 +65,51 @@ d) İç kâğıdı 115 gr mat kuşe olacaktır.
 
 e) Kitapların kapağı tel dikişli olacaktır.
 
-Madde 3) Rehberin tasarımı ve dizgisi Sağlık Bakanlığı tarafından yapılmıştır.
+**Madde 3)** Rehberin tasarımı ve dizgisi Sağlık Bakanlığı tarafından yapılmıştır.
 
 İş bu şartname 3 maddeden oluşmaktadır. …../…../2025
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 ANKARA
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 ANKARA, 2025
 
 ANKARA
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-IISSBBNN:: 978-975-590-978-3
+**IISSBBNN::** 978-975-590-978-3
 
 SSaağğllııkk BBaakkaannllıığğıı YYaayyıınn NNoo:: 1309
 
-BBaasskkıı:: Sağlığın Geliştirilmesi Genel Müdürlüğü Dijital Baskı Merkezi
+**BBaasskkıı::** Sağlığın Geliştirilmesi Genel Müdürlüğü Dijital Baskı Merkezi
 
-Tasarım: İletişim Dairesi Başkanlığı
+**Tasarım:** İletişim Dairesi Başkanlığı
 
 Ankara, 2025
 
@@ -149,9 +149,9 @@ Uzm. Dr. Özge US
 
 Meryem SAYGI
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 EDİTÖRLER
 
@@ -165,9 +165,9 @@ Dr. Edibe Nurzen NAMLI BOZKURT HSGM Tüberküloz Dairesi Başkanı
 
 Uzm. Dr. Senem YAZİCİ HSGM Tüberküloz Dairesi Başkanlığı
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 YAYINA HAZIRLAYANLAR
 
@@ -213,9 +213,9 @@ Funda BAYKAL HSGM Tüberküloz Dairesi Başkanlığı
 
 Şükran GÖNÜLLER HSGM Tüberküloz Dairesi Başkanlığı
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 ŞEKİLLER DİZİNİ
 
@@ -233,9 +233,9 @@ Görselleri.....................................................................
 
 Şekil 6. Tüberkülin Deri Testi Uygulanması ve Okunuşu....................................22
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 KISALTMALAR
 
@@ -271,9 +271,9 @@ VGT: Video Gözetimli Tedavi
 
 VSD: Verem Savaşı Dispanseri
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 ÖN SÖZ
 
@@ -297,13 +297,13 @@ Prof. Dr. Kemal MEMİŞOĞLU
 
 Sağlık Bakanı
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 İÇİNDEKİLER
 
@@ -311,9 +311,9 @@ BİLGİLENDİRME REHBERİ
 
 Hangileridir?...................................................................................................................................27 24.Verem Tanı ve Tedavisi İle İlgili Kurumlar ve Kuruluşlar Hangileridir?......................................28 25.Verem Konusunda Mutlaka Yapılması Gerekenler Nelerdir?.....................................................29 26.Verem Hastalarının Hak ve Sorumlulukları.......................................................................................31
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 A. Hasta Hakları.............................................................................................................................................31 1. Bakım ve Tedavi.........................................................................................................................................31 2. İnsani Değerlere Saygı Gösterilmesi ve Ziyaret Hakkı.................................................................31 3. Bilgi Edinme Hakkı...................................................................................................................................32 4. Seçim Hakkı................................................................................................................................................32 5. Gizlilik Hakkı...............................................................................................................................................32
 
@@ -331,15 +331,15 @@ Verem (Tüberküloz) Hastaları İle Hasta Yakınlarını Bilgilendirme ve Rıza
 
 Sağlık Kurumu Kopyası)..............................................................................................................................37
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 1. VEREM NASIL BİR HASTALIKTIR?
 
 Verem (Tüberküloz), bulaşıcı bir hastalıktır. Vereme neden olan etken;
 
-Mycobacterium tuberculosis adlı bakteridir. Vereme neden olan bu bakteri çubuk şeklinde olduğundan tüberküloz basili (verem basili) de denir.
+<i>Mycobacterium tuberculosis</i> adlı bakteridir. Vereme neden olan bu bakteri çubuk şeklinde olduğundan tüberküloz basili (verem basili) de denir.
 
 Verem basili sıklıkla hava yoluyla yani solunum ile bulaşır. En çok akciğerlerde olmak üzere bütün organlarda hastalık yapabilir.
 
@@ -351,13 +351,13 @@ Verem hastalığının tedavisi mümkündür. Ülkemizde tanısı, tedavisi, ila
 
 Verem basili hasta kişiden sağlıklı kişiye hava yoluyla yani solunum yolu ile bulaşır.
 
-Akciğer ve gırtlak (larinks) veremi olan hastalar bulaştırıcıdır. Hasta kişinin öksürmesi, hapşırması, konuşması ya da şarkı söylemesi ile basil içeren damlacıklar solunum yolu ile havaya saçılır. Havaya saçılan damlacıklar, kuruyarak küçülür ve her biri 1-3 adet basil içeren damlacık çekirdeğine dönüşürler. Damlacık çekirdekleri, havada asılı durabilir ve hava hareketleri ile yer değiştirebilirler. Sağlıklı kişiler de bunları solunum yoluyla alırlar.
+Akciğer ve gırtlak (larinks) veremi olan hastalar bulaştırıcıdır. Hasta kişinin öksürmesi, hapşırması, konuşması ya da şarkı söylemesi ile basil içeren damlacıklar solunum yolu ile havaya saçılır. Havaya saçılan damlacıklar, kuruyarak küçülür ve her biri 1-3 adet basil içeren **damlacık çekirdeğine** dönüşürler. Damlacık çekirdekleri, havada asılı durabilir ve hava hareketleri ile yer değiştirebilirler. Sağlıklı kişiler de bunları solunum yoluyla alırlar.
 
 Damlacık çekirdeği çok küçük boyutlu olduğu için akciğerin en uç noktaları olan hava keselerine (alveollere) kadar giderler (Şekil 1).
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Şekil 1. Verem basilinin insandan insana hava yoluyla bulaşması
 
@@ -381,13 +381,13 @@ olmaması ya da yetersiz olması,
 
 Bulaştırıcı verem hastası ile uzun süre aynı ortamda bulunma (özellikle aynı ev, işyeri, yurt, kahvehane, kapalı eğlence mekânları gibi).
 
-Bulaştırıcı dönemdeki verem hastası ile aynı ortamı paylaşarak verem basilini alan, hasta olmayan kişilere temaslı denilir. Temaslı kişilerde verem hastalığı gelişmesini önlemek amacıyla verilen tedaviye de koruyucu tedavi denir. Verem basilini alan kişilerin tümü hasta olmaz, hasta olmayanlar verem basilini alsa bile bulaştırıcı değildir. Koruyucu tedavi alanlar da hasta değildir, basili bulaştırmazlar.
+Bulaştırıcı dönemdeki verem hastası ile aynı ortamı paylaşarak verem basilini alan, hasta olmayan kişilere **temaslı** denilir. Temaslı kişilerde verem hastalığı gelişmesini önlemek amacıyla verilen tedaviye de **koruyucu tedavi** denir. Verem basilini alan kişilerin tümü hasta olmaz, hasta olmayanlar verem basilini alsa bile bulaştırıcı değildir. Koruyucu tedavi alanlar da hasta değildir, basili bulaştırmazlar.
 
 Hastanın kullandığı çatal, bıçak, kaşık, bardak, tabak ve diğer kişisel eşyaları ile bulaşma olmaz; bu eşyalar için normal temizlik işlemleri yeterlidir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Sığır tüberkülozu da Mycobacterium bovis adlı bakterinin neden olduğu, hayvanlarda görülen verem hastalığıdır. Hasta hayvanlardan insanlara solunum yoluyla ve pastörize edilmemiş sütle bulaşabilir ve insanda hastalığa neden olabilir. Baktığı hayvanlarda verem saptanan kişiler ya da işletmeler ilgili kuruluşlarla iş birliği yapmalı ve verem savaş dispanserine başvurmalıdırlar.
 
@@ -405,11 +405,11 @@ Verem hastasının ev koşulları uygun ise güneş alan ayrı bir odada kalmas�
 
 Şekil 2. Verem hastalarının kullanması önerilen cerrahi maskeler.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-Toplumda öksüren, hapşıran her kişinin öksürürken ve hapşırırken mutlaka tek kullanımlık peçete veya mendille ağzını ve burnunu kapatması gereklidir (öksürük adabı). Kullanılan peçete veya mendil çöp kutusuna atılmalıdır.
+Toplumda öksüren, hapşıran her kişinin öksürürken ve hapşırırken mutlaka tek kullanımlık peçete veya mendille ağzını ve burnunu kapatması gereklidir **(öksürük adabı).** Kullanılan peçete veya mendil çöp kutusuna atılmalıdır.
 
 Öksüren, hapşıran kişinin o an yanında peçete veya mendil yoksa ön kolu ile ağzını kapatmalıdır. Özellikle öksürme veya hapşırma sonrası, tuvalet sonrası, yemek öncesi ve sonrası eller su ve sabunla en az 20 saniye sık sık yıkanmalıdır (Şekil 3). Alınacak bu basit önlemler verem de dâhil olmak üzere tüm solunum ile bulaşan hastalıklarda bulaşı azaltmayı sağlar.
 
@@ -421,13 +421,13 @@ SAĞLIKLI KİŞİLERDEKİ SONUÇLARI NELERDİR?
 
 Bazı kişilerde bulaştırıcı hasta ile karşılaştığı halde hiçbir etki olmaz.
 
-Bazı kişilerde bağışıklık sistemi verem basilini tanır, alınan basiller hapseder ve etkisiz hale getirir. Böylece alınan basiller uyur hale geçerek kişiyi hastalandırmaksızın vücutta saklı kalır. Buna tüberküloz enfeksiyonu denilir. Tüberküloz enfeksiyonu bir hastalık değildir sadece kişinin daha önce verem mikrobu ile karşılaştığını gösterir. Bu kişiler başkalarına hastalık bulaştırmazlar, çalışmalarında, okula gitmelerinde sakınca yoktur, maske takmaları gerekmez. Bu durum bazı testlerle anlaşılabilir: PPD ile yapılan tüberkülin deri testi (TDT) ya da kan testi gibi.
+Bazı kişilerde bağışıklık sistemi verem basilini tanır, alınan basiller hapseder ve etkisiz hale getirir. Böylece alınan basiller uyur hale geçerek kişiyi hastalandırmaksızın vücutta saklı kalır. Buna **tüberküloz enfeksiyonu** denilir. Tüberküloz enfeksiyonu bir hastalık değildir sadece kişinin daha önce **verem** mikrobu ile karşılaştığını gösterir. Bu kişiler başkalarına hastalık bulaştırmazlar, çalışmalarında, okula gitmelerinde sakınca yoktur, maske takmaları gerekmez. Bu durum bazı testlerle anlaşılabilir: PPD ile yapılan tüberkülin deri testi (TDT) ya da kan testi gibi.
 
-Bazı kişilerde ise vücuda basil girdikten kısa ya da uzun süre sonra verem (tüberküloz) hastalığı ortaya çıkabilir. Burada hastalık belirti ve bulguları vardır.
+Bazı kişilerde ise vücuda basil girdikten kısa ya da uzun süre sonra verem **(tüberküloz) hastalığı** ortaya çıkabilir. Burada hastalık belirti ve bulguları vardır.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 5. VEREM HASTALIĞININ GELİŞMESİNE SEBEP OLAN
 
@@ -459,9 +459,9 @@ Hastalığın tuttuğu organlarda iltihap oluşur. Tedavide gecikme olursa bu il
 
 Tutulan organla ilişkili belirtiler ortaya çıkar.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 7. VEREM HASTALIĞININ BELİRTİLERİ NELERDİR?
 
@@ -483,9 +483,9 @@ Hastanın yakınmaları ve akciğer filmi bulgularıyla veremden şüphelenilir.
 
 Kesin tanı, balgam örneği incelenerek konulur. Akciğer dışı bir organı tuttuğundan şüphe edilirse de o organ ile ilgili örnekler alınarak tahlil yapılır. Ancak en sık tuttuğu organ akciğerler olduğundan, tanı için hastadan en sık alınan örnek balgamdır. Balgam incelemesi için balgam kabı hastane ya da dispanserden alınır ve üç gün üst üste sabah aç karnına balgam çıkarılarak teslim edilir. Tedavi sırasında her ay tahlil için balgam verilmesi hastalığın takibi için önemlidir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Veremin tanısı, balgamda mikroskopik inceleme yapılarak verem basilinin gösterilmesi ile konulur. Mikroskopla inceleme kısa sürede yapılır. Aynı balgamda kültür incelemesi de yapılır ve sonucu 2-8 haftada alınır.
 
@@ -499,7 +499,7 @@ Akciğer dışındaki bir organda tüberkülozdan şüphelenildiğinde ise o org
 
 Verem hastalığı, antibiyotik türü özel ilaçlarla tedavi edilir. İlaç dışında tedavisi yoktur. Günümüzde verem basilini öldüren çok güçlü ilaçlar vardır.
 
-Basilleri etkili bir şekilde öldürmek ve ilaçlara direnç gelişimini önlemek için tedavide en az dört farklı ilaç birlikte kullanılmaktadır. Tedavide kullanılabilecek temel (birinci seçenek) ilaçlar; izoniyazid, rifampisin, etambutol ve pirazinamiddir. Günde alınacak ilaç miktarı hastanın kilosuna göre belirlenir. Tedavi süresi en az altı aydır. Tedavinin ilk iki ayından sonra ilaç sayısı azaltılır ancak bazı özel durumlarda bu süre uzatılabilir.
+Basilleri etkili bir şekilde öldürmek ve ilaçlara direnç gelişimini önlemek için tedavide **en az dört farklı ilaç birlikte** kullanılmaktadır. Tedavide kullanılabilecek temel (birinci seçenek) ilaçlar; **izoniyazid, rifampisin, etambutol** ve **pirazinamiddir.** Günde alınacak ilaç miktarı hastanın kilosuna göre belirlenir. **Tedavi süresi en az altı aydır.** Tedavinin ilk iki ayından sonra ilaç sayısı azaltılır ancak bazı özel durumlarda bu süre uzatılabilir.
 
 Verem tedavisi sırasında ilaçların çok sayıda ve uzun süre kullanılmasının temel nedeni, ilaç direnci gelişmesini önlemek içindir ve verem basilinin çok yavaş ölmesindendir. Birkaç haftalık tedavi sonrasında şikâyetler azalabilir hatta tamamen geçebilir. Ancak vücuttaki basillerin tamamı ölmemiştir. Bu nedenle, tüm basiller tamamen yok olana kadar tedavi süresine uyulması hayati önem taşır.
 
@@ -513,9 +513,9 @@ tamamlanana kadar hastalar her ay verem savaşı dispanserlerine (VSD)
 
 çağırılarak kontrol muayeneleri yapılır.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Her verem hastasının hastaneye yatırılması gerekmez. Genel durumu bozuk, yaygın hastalığı olan, aşırı kan tükürmesi olan, ek sağlık sorunları olan, ilaç yan etkisi gelişen ve tedaviye uyum sorunları yaşayan hastalar hastaneye yatırılarak tedavi edilebilir. Hastanede yatmadan tedavi başlanan akciğer tüberküloz hastalarının özellikle ilk 2-3 hafta kalabalık ortamlara girmemesi, evinde mümkünse ayrı bir odada istirahat etmesi, aile fertleri ile görüşürken maske takması gereklidir.
 
@@ -533,15 +533,15 @@ Verem tedavisini tamamlayanların veya tedavisi devam edenlerin askerlik durumla
 
 GÖZETİMLİ TEDAVİ (VGT) NEDİR?
 
-Verem tedavisinin süresi uzundur. Hastanın günde 8-10 tablet ilaç içmesi gerekir, bazı durumlarda tablet ilaçlara ilave olarak enjeksiyon şeklinde ilaçlar da gerekebilir. Çok sayıda ilaç ve uzun süren tedavi nedeni ile hastalar ilaçlarını aksatabilmektedir. Hastanın ilaçlarını düzenli içmesi ve bu durumun takibi için bir gözetmene ihtiyaç vardır. Hastanın, her doz ilacını bu konuda eğitim almış bir kişinin gözetiminde içmesine Doğrudan Gözetimli Tedavi (DGT) denilir. Hastanın ilaçları içtiğini bu gözetmen izler ve kaydeder. İlaç içilen yer ve gözetmen, hastanın onayı ile verem savaş dispanser hekimi tarafından belirlenir.
+Verem tedavisinin süresi uzundur. Hastanın günde 8-10 tablet ilaç içmesi gerekir, bazı durumlarda tablet ilaçlara ilave olarak enjeksiyon şeklinde ilaçlar da gerekebilir. Çok sayıda ilaç ve uzun süren tedavi nedeni ile hastalar ilaçlarını aksatabilmektedir. Hastanın ilaçlarını düzenli içmesi ve bu durumun takibi için bir gözetmene ihtiyaç vardır. Hastanın, her doz ilacını bu konuda eğitim almış bir kişinin gözetiminde içmesine **Doğrudan Gözetimli Tedavi (DGT)** denilir. Hastanın ilaçları içtiğini bu gözetmen izler ve kaydeder. İlaç içilen yer ve gözetmen, hastanın onayı ile verem savaş dispanser hekimi tarafından belirlenir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 DGT, yüz yüze yapıldığı gibi video görüntülü olarak da uygulanabilir.
 
-DGT’nin video özellikli bir cihaz (akıllı telefon, tablet, bilgisayar gibi) aracılığı ile yapılmasına Video Gözetimli Tedavi (VGT) denilir. Hasta, sağlık çalışanına video özellikli cihaz (akıllı telefon, bilgisayar gibi) aracılığı ile görüntülü olarak bağlanır (uzaktan canlı) ve her bir doz ilacını içerken gözetmenine gösterir veya ilaç içmesini kaydedip gözetmenine videosunu gönderir. VGT, sürekli ev ziyareti gerektirmeyen, hasta ve gözetmen arasında iletişimi kolaylaştıran, yol masraflarını ortadan kaldıran yüz yüze yapılan DGT’ye alternatif teknolojik bir yöntemdir.
+DGT’nin video özellikli bir cihaz (akıllı telefon, tablet, bilgisayar gibi) aracılığı ile yapılmasına **Video Gözetimli Tedavi (VGT)** denilir. Hasta, sağlık çalışanına video özellikli cihaz (akıllı telefon, bilgisayar gibi) aracılığı ile görüntülü olarak bağlanır (uzaktan canlı) ve her bir doz ilacını içerken gözetmenine gösterir veya ilaç içmesini kaydedip gözetmenine videosunu gönderir. VGT, sürekli ev ziyareti gerektirmeyen, hasta ve gözetmen arasında iletişimi kolaylaştıran, yol masraflarını ortadan kaldıran yüz yüze yapılan DGT’ye alternatif teknolojik bir yöntemdir.
 
 Şekil 4. Doğrudan Gözetimli Tedavi (DGT) ve
 
@@ -553,9 +553,9 @@ Günlük alınması gereken ilaç dozu dispanser tarafından hastanın kilosuna 
 
 ve tek seferde içilmesi idealdir. Ancak hasta ilaçları tek seferde içerken sıkıntı yaşarsa doktoru bu ilaçları günde iki seferde içilecek şekilde ayarlayabilir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Doğrudan gözetimli tedavi (DGT) ya da VGT uygulamasının, sağlık kuruluşu tarafından belirlenen tarih ve saatlerde düzenli olarak yapılması önemlidir.
 
@@ -567,7 +567,7 @@ YAPILIR?
 
 12. İLACA DİRENÇLİ VEREM NEDİR?
 
-Verem basilini öldürmesi beklenen bir ilacın etki etmemesi, ilaç direnci olarak tanımlanır. İlaç direnci basilde oluşan bir genetik değişiklikle olur. İlaç direnci laboratuvar testi ile anlaşılır.
+Verem basilini öldürmesi beklenen bir ilacın etki etmemesi, **ilaç direnci** olarak tanımlanır. İlaç direnci basilde oluşan bir genetik değişiklikle olur. İlaç direnci laboratuvar testi ile anlaşılır.
 
 İlaca direnç iki yolla gelişir;
 
@@ -577,11 +577,11 @@ Tedavide kullanılan ilaçların eksik alınması ya da düzenli alınmaması so
 
 1. Solda ilaç direnci olmayan hastanın bir günlük ilaç poşeti, sağda ilaç direnci olan hastanın bir günlük ilaç poşetleri görülmektedir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-Dirençli tüberküloz içinde “çok ilaca dirençli tüberküloz” (ÇİD TB) özel bir önem taşır. Verem tedavisinde en önemli iki ilaç olan izoniyazid ve rifampisine karşı direnç olması durumunda hastalık çok ilaca dirençli tüberküloz (ÇİD TB) olarak adlandırılır.
+Dirençli tüberküloz içinde “çok ilaca dirençli tüberküloz” (ÇİD TB) özel bir önem taşır. Verem tedavisinde en önemli iki ilaç olan **izoniyazid** ve **rifampisine** karşı direnç olması durumunda hastalık **çok ilaca dirençli tüberküloz (ÇİD TB)** olarak adlandırılır.
 
 Çok ilaca dirençli tüberküloz hastasının tedavi algoritması farklıdır; 4-8 farklı ilaçtan oluşabilir, 2 yıla kadar tedavi süresi uzayabilir. Yan etkileri fazladır. Bakanlık tarafından ücretsiz verilen, dirençli verem tedavisinde kullanılan bu ilaçların maliyeti çok daha yüksektir.
 
@@ -591,7 +591,7 @@ Dirençli tüberküloz içinde “çok ilaca dirençli tüberküloz” (ÇİD TB
 
 NASIL YAPILIR?
 
-Verem hastası ile belirli bir süre aynı havayı soluyan ve verem basiline maruz kalan kişilere temaslı denilir. Bunlar aile fertleri, akrabalar, okul ya da iş arkadaşı gibi sık görüşülen kişilerdir. Temaslılarda verem hastalığı görülme oranı yüksektir.
+Verem hastası ile belirli bir süre aynı havayı soluyan ve verem basiline maruz kalan kişilere **temaslı** denilir. Bunlar aile fertleri, akrabalar, okul ya da iş arkadaşı gibi sık görüşülen kişilerdir. Temaslılarda verem hastalığı görülme oranı yüksektir.
 
 Bu nedenle verem tanısı alan bütün hastaların temaslıları VSD’lerde taranır. Tarama yapılmasının amacı;
 
@@ -613,13 +613,13 @@ Hasta olmayan yakın temaslılara koruyucu tedavi verilir. Yaşı 35 ve üzerind
 
 Eğer çok kişiye basil bulaştırmışsa, daha geniş temaslı grubu taranır.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Tüm temaslılar 2 yıl süreyle belli aralıklarla kontrole çağrılır. Yakınması olanların hemen VSD’ye başvurması gereklidir. Temaslı taraması için dispansere gelmeyen ya da geldiği halde verilen koruyucu tedaviyi düzenli kullanmayan kişilerde verem hastalığı gelişme riski yüksektir.
 
-Tüberkülin Deri Testi (TDT): TDT pozitifliği, kişide tüberküloz enfeksiyonu olduğunu gösterir. Hasta kişi ile temas edenlerin taraması için kullanılır. TDT bazen tüberküloz tanısında yardımcı olabilir.
+**Tüberkülin Deri Testi (TDT):** TDT pozitifliği, kişide tüberküloz enfeksiyonu olduğunu gösterir. Hasta kişi ile temas edenlerin taraması için kullanılır. TDT bazen tüberküloz tanısında yardımcı olabilir.
 
 TDT için sol ön kola, deri içine PPD solüsyonu uygulanır ve 48-72 saat sonra okunur. Test uygulanan yerde oluşan kızarıklık dikkate alınmaz, derideki kabartının çapı ölçülür. Test yapılan kişide bazen, test yerinde sulu kabarcıklar görülebilir. Bunlar ek tedavi gerektirmez, birkaç haftada kendiliğinden geçer.
 
@@ -645,9 +645,9 @@ almamışlardır.
 
 2. Kaynak: Self-Study Modules on Tuberculosis, CDC, 2010
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Koruyucu tedavi öncesi kişinin verem hastası olmadığı belirlenir.
 
@@ -677,9 +677,9 @@ BCG aşısı (verem aşısı) ülkemizde doğumdan sonra 2 ayını dolduran bebe
 
 Test sonucu negatif ise BCG aşısı uygulanır. Altı yaşından sonra; BCG aşısı gerekli değildir, yapılmaz.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 BCG aşısı, çocuklarda verem hastalığının ciddi şekilleri olan, hayati tehlike oluşturan; tüberküloz menenjiti (beyin zarı tutulumu) ve miliyer tüberküloza (yaygın verem) karşı koruyucu amaçla yapılır.
 
@@ -701,9 +701,9 @@ ETKİLEŞİMİ VAR MIDIR?
 
 Rifampisin doğum kontrol haplarının etkinliğini azaltır. Bu nedenle kadın hastalıkları ve doğum hekiminin önerisine başvurulmalıdır.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 20. VEREM VE HIV/AIDS’İN ETKİLEŞİMİ VAR MIDIR?
 
@@ -737,9 +737,9 @@ Kulakta çınlama ve işitme kaybı,
 
 Karaciğere toksik (zararlı) etki.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Daha nadir görülen yan etkiler; kanamaya eğilim, sarılık ve böbrek yetmezliğidir.
 
@@ -779,9 +779,9 @@ Dayanışma Vakfı” tarafından tespit edilen tüberküloz hastalarına, ilaç
 
 DGT ile düzenli bir şekilde alması koşuluyla tedavi süresince nakdi yardım verilmektedir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Yardım alabilmek için şartlar:
 
@@ -827,9 +827,9 @@ Kaymakamlık bünyesindeki Sosyal Yardımlaşma ve Dayanışma Vakıfları,
 
 Verem Savaşı Dernekleri.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 24. VEREM TANI VE TEDAVİSİ İLE İLGİLİ KURUM VE
 
@@ -863,9 +863,9 @@ Ankara Ankara Atatürk Sanatoryum EAH
 
 İzmir İzmir Dr. Suat Seren Göğüs Hastalıkları ve Göğüs Cerrahisi EAH 28
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Çocuk Tüberküloz Referans Hastaneleri;
 
@@ -895,9 +895,9 @@ Verem hastalarının bulaştırıcı olduğu dönemde cerrahi maske kullanması 
 
 Evde tedavisine devam eden verem hastasının güneş alan bir odada bulunmasına özen gösterilmeli ve oda sık sık havalandırılmalıdır. Odanın havalandırması; oda kapısı kapatılıp sadece pencereler açılarak yapılmalıdır.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Öksürürken ve hapşırırken kişinin mutlaka tek kullanımlık peçete veya mendil ile ağzını kapatması gerekir. Kullanılan peçete veya mendil çöp kutusuna atılmalıdır.
 
@@ -927,9 +927,9 @@ Bulaştırıcı oldukları dönemde; evde mümkünse ayrı bir odada istirahat e
 
 VGT yetkilisiyle irtibat kurulmalıdır.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Sağlık hizmetlerinden yararlanması esnasında (112 acil hizmetler hattının aranması, hastane başvurusu, vb.), tedavinizin olumsuz etkilenmemesi ve diğer insanlara hastalık bulaşmaması için önceden tedbir alınabilmesi amacıyla hastalığınızın durumu (tedavinizde kullanılan ilaçlar, tedaviye başlama zamanınız, hastalığınızın bulaştırıcı döneminde olup olmadığı, vb.) hakkında sağlık ekibine bilgi verilmelidir.
 
@@ -957,9 +957,9 @@ c. Sağlık hizmetlerinin her safhasında, hastalara, onların bedeni ve ruhi du
 
 ç. Her hasta kendisi ve ailesinin aşağılanmadığı bir ortamda, ailesi, arkadaşları ve toplumdan manevi destek de alarak nitelikli bakım alma hakkına sahiptir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 3. BİLGİ EDİNME HAKKI
 
@@ -991,9 +991,9 @@ a. Her hasta özel hayatının mahremiyetine, şeref, dinsel inanç ve kültür�
 
 b. Her hasta kanun ile müsaade edilen haller dışında, tıbbi durumuyla ilgili bilgilerin gizli tutulmasını isteme hakkına sahiptir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 c. Araştırma ve eğitim amacı ile yapılan faaliyetlerde hastanın kimlik bilgileri, rızası olmaksızın açıklanamaz.
 
@@ -1029,9 +1029,9 @@ b. Hasta temaslılarının belirlenmesi ve ilgili sağlık kuruluşlarına yönl
 
 c. Hasta sağlık görevlileri ve diğer hastaların haklarına saygı göstermekle sorumludur. Personele sözlü ve fiziki saldırıya yönelik davranışlarda bulunamaz.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 4. HUKUKİ SORUMLULUKLAR
 
@@ -1059,9 +1059,9 @@ Yabancı ülke doğumlu TB şüphelisi, temaslısı veya hastası; Türkiye
 
 Cumhuriyeti’nin Sağlık Bakanlığı ve ilgili kamu kurum ve kuruluşlarının TB tanı, tedavi, takip ve gerekli diğer işlemleri ilgili mevzuat çerçevesinde alınan bütün tedbir ve talimatlara eksiksiz uymak zorundadır.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 VEREM (TÜBERKÜLOZ) HASTALARI İLE HASTA YAKINLARINI
 
@@ -1089,9 +1089,9 @@ Görme keskinliğinde azalma, bulanık görme,
 
 Bulantı, kusma, mide asidinin yemek borusuna kaçağı (reflü),
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Kulak çınlaması, baş dönmesi, işitme ve denge kaybı,
 
@@ -1133,9 +1133,9 @@ NOT: Hasta imzalayamayacak durumda ise bir yakınının, velisinin veya vasisini
 
 Bu form 2 kopya hazırlanır. Birisi hasta dosyasına konulur, birisi hasta ya da kanuni temsilcisine verilir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 VEREM (TÜBERKÜLOZ) HASTALARI İLE HASTA YAKINLARINI
 
@@ -1163,9 +1163,9 @@ Görme keskinliğinde azalma, bulanık görme,
 
 Bulantı, kusma, mide asidinin yemek borusuna kaçağı (reflü),
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Kulak çınlaması, baş dönmesi, işitme ve denge kaybı,
 
@@ -1207,17 +1207,17 @@ NOT: Hasta imzalayamayacak durumda ise bir yakınının, velisinin veya vasisini
 
 Bu form 2 kopya hazırlanır. Birisi hasta dosyasına konulur, birisi hasta ya da kanuni temsilcisine verilir.
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
-VEREM (TÜBERKÜLOZ) HASTALARINI
+**VEREM (TÜBERKÜLOZ) HASTALARINI**
 
-BİLGİLENDİRME REHBERİ
+**BİLGİLENDİRME REHBERİ**
 
 Tüberküloz Dairesi Başkanlığı
 

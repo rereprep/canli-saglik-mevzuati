@@ -14,11 +14,11 @@ Tarihi:07.05.2004 Sayısı:7456 Genelge No:2004/66
 
 ### T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü SAYI : B100THG0100004/5190
 
-KONU : Transfüzyon Komitesi 07.05.2004 /7456
+**KONU :** Transfüzyon Komitesi **07.05.2004 /7456**
 
 ### ......................................VALİLİĞİNE Genelge 2004/66
 
-İLGİ: 07.09.1996 tarih ve 17728 sayılı genelgemiz.
+**İLGİ:** 07.09.1996 tarih ve 17728 sayılı genelgemiz.
 
 13 Ocak 1983 tarih ve 17987 sayılı Resmi Gazetede yayımlanan Yataklı Tedavi Kurumları İşletme Yönetmeliği'ne göre, yöneticilerin çalışmalarını kolaylaştırmak ve koordinasyonu sağlamak amacıyla tüm hastanelerde "Hastane Konseyi" ve eğitim hastanelerinde de "Eğitim Planlama Koordinasyon Kurulu" kurulması önerilmektedir.
 
@@ -28,15 +28,15 @@ Kan transfüzyonundaki sorunların çözülmesi ve güvenli kan bağışının s
 
 Halk sağlığı yönünden yukarıda belirtilen hususların tatbik ve takibinden İl Sağlık Müdürleri ve Başhekimler sorumludur.
 
-Gereğini rica ederim. Prof.Dr. Necdet ÜNÜVAR Bakan a. Müsteşar
+Gereğini rica ederim. **Prof.Dr. Necdet ÜNÜVAR Bakan a. Müsteşar**
 
 ### EKLER:
 
-EK 1: 1 Transfüzyon Komitesi Kuruluş Amaçları EK 2: 1 Çalışma Esasları ve Görevleri Dağıtım Gereği için: 81 İl Valiliğine Üniversite Rektörlüklerine Sosyal Sigortalar Kurumu Başkanlığına
+**EK 1:** 1 Transfüzyon Komitesi Kuruluş Amaçları **EK 2:** 1 Çalışma Esasları ve Görevleri **Dağıtım Gereği için:** 81 İl Valiliğine Üniversite Rektörlüklerine Sosyal Sigortalar Kurumu Başkanlığına
 
 -----------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------- (EK-1)
+------------------------------------------------------- **(EK-1)**
 
 ### TRANSFÜZYON KOMİTESİ KURULUŞ AMACI
 
@@ -48,7 +48,7 @@ Hastane yönetimi, kan merkezi ve kan ürünleri kullanılan tüm bölümler ve 
 
 -----------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------- (EK-2)
+------------------------------------------------------- **(EK-2)**
 
 ### ÇALIŞMA ESASLARI VE GÖREVLERİ
 

@@ -36,11 +36,11 @@ durum: "yürürlükte"
 
 **MADDE 6 –** (1) Bu Tebliğ hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.
 
-____________
+<i>____________</i>
 
-(1) Danıştay Onuncu Dairesinin 21/3/2019 tarihli ve Esas No: 2013/903 sayılı kararı ile Tebliğin ekinde yer alan 23.32.01 kodu ile tanımlanan ve çok tehlikeli olarak gösterilen “Fırınlanmış, ateşe dayanıklı olmayan kil ve topraktan baca künkleri ve başlıkları, şömine ve baca boruları, oluklar ve bağlantı parçaları ile tuğla, kiremit, karo vb. inşaat malzemeleri imalatı (seramikten oluklar, borular ve bağlantı parçaları dahil)” ibaresindeki “tuğla” ve “kiremit” ibarelerinin iptaline karar verilmiştir.
+<i>(1) Danıştay Onuncu Dairesinin 21/3/2019 tarihli ve Esas No: 2013/903 sayılı kararı ile Tebliğin ekinde yer alan 23.32.01 kodu ile tanımlanan ve çok tehlikeli olarak gösterilen “Fırınlanmış, ateşe dayanıklı olmayan kil ve topraktan baca künkleri ve başlıkları, şömine ve baca boruları, oluklar ve bağlantı parçaları ile tuğla, kiremit, karo vb. inşaat malzemeleri imalatı (seramikten oluklar, borular ve bağlantı parçaları dahil)” ibaresindeki “tuğla” ve “kiremit” ibarelerinin iptaline karar verilmiştir.</i>
 
-EK-1 İşyeri Tehlike Sınıfları Listesi
+**EK-1 İşyeri Tehlike Sınıfları Listesi**
 
 |  | Tebliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

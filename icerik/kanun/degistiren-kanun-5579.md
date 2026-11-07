@@ -12,12 +12,12 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/02/20070210-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
+T.C. Resmî Gazete Resmî Gazete **KANUN**
 SOSYAL HİZMETLER VE ÇOCUK ESİRGEME KURUMU KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 5579 Kabul Tarihi : 1/2/2007
+**Kanun No. 5579 Kabul Tarihi : 1/2/2007**
 
 
-MADDE 1 – 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununun 3 üncü maddesinin (f) bendine 11 inci alt bendinden sonra gelmek üzere aşağıdaki alt bentler eklenmiştir.
+**MADDE 1 –** 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununun 3 üncü maddesinin (f) bendine 11 inci alt bendinden sonra gelmek üzere aşağıdaki alt bentler eklenmiştir.
 "12. "Yaşlı Hizmet Merkezi"; Yaşlı bireylerin yaşam kalitesinin artırılması amacıyla gündüzlü bakım ve evde bakım hizmeti sunmak üzere açılan ve faaliyet gösteren yaşlı hizmet merkezini,
 13. "Koruma Bakım ve Rehabilitasyon Merkezi"; Suça yöneldikleri tespit edilen çocukların davranış bozukluklarını gidermek amacıyla rehabilitasyon süreci tamamlanıncaya kadar geçici süre bakım ve korunmalarının sağlandığı bu süre içerisinde aile, yakın çevre ve toplum ile ilişkilerinin düzenlenmesine yönelik çalışmaların yürütüldüğü, 7-18 yaş kız ve erkek çocuklara yönelik ayrı ayrı yapılandırılan yatılı sosyal hizmet kuruluşlarını,
 14. "Bakım ve Sosyal Rehabilitasyon Merkezi"; Duygusal, cinsel ve/veya fiziksel istismara uğramış çocukların olumsuz yaşam deneyimlerinden kaynaklanan travma ve/veya davranış bozukluklarını giderme amacıyla rehabilitasyon süreci tamamlanıncaya kadar geçici süre bakım ve korunmalarının sağlandığı bu süre içerisinde aile, yakın çevre ve toplum ile ilişkilerinin düzenlenmesine yönelik çalışmaların yürütüldüğü kız ve erkek çocuklara yönelik ayrı ayrı yapılandırılacak yatılı sosyal hizmet kuruluşlarını,"

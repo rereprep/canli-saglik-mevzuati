@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 ve Sosyal Güvenlik Bakanlığından:
-İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinin 10 uncu maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 1 –** 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinin 10 uncu maddesine aşağıdaki fıkra eklenmiştir.
 “(4) Sağlık Bakanlığından ruhsatlı sağlık hizmeti sunucusu olan işyerlerinde kurulacak İSGB’lerde ilk yardım ve acil müdahale odası şartı ve EK-1’de belirtilen araç ve gereçler ile ulaşım amaçlı araç bulundurulması zorunluluğu aranmaz.”
 
 MADDE 2 – Aynı Yönetmeliğin 12 nci maddesinin beşinci fıkrasının birinci ve ikinci cümleleri aşağıdaki şekilde değiştirilmiş ve dokuzuncu fıkrasının birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.

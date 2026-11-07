@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/03/20240301-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-SAĞLIKLA İLGİLİ BAZI KANUNLARDA VE 663 SAYILI KANUN
-HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN**
+**SAĞLIKLA İLGİLİ BAZI KANUNLARDA VE 663 SAYILI KANUN**
+**HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7496 Kabul Tarihi: 21/2/2024
 
 MADDE 1- 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun 43 üncü maddesinin birinci fıkrasında yer alan “tabibi veya dişçinin” ibaresi “tabibinin” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkralar eklenmiştir.

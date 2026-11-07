@@ -12,7 +12,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -76,7 +76,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel Hükümler
+**Genel Hükümler**
 
 #### Ürünlerin içeriği
 
@@ -148,7 +148,7 @@ ifadelerinin yer alması zorunludur. Bununla birlikte, ürünün niteliğine gö
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetim
 
@@ -172,4 +172,4 @@ ifadelerinin yer alması zorunludur. Bununla birlikte, ürünün niteliğine gö
 
 **MADDE 17 –** (1) Bu Tebliğ hükümlerini Sağlık Bakanı yürütür.
 
-Tebliğin eklerini görmek için tıklayınız
+**Tebliğin eklerini görmek için tıklayınız**

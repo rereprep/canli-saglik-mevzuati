@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -54,7 +54,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel İlkeler
+**Genel İlkeler**
 
 #### İşyerlerinde alınacak tedbirler
 
@@ -126,7 +126,7 @@ d) Çalışanlara uygun ve yeterli yıkanma yeri, tuvalet ve temizlik malzemesi 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 
@@ -136,4 +136,4 @@ Son Hükümler
 
 **MADDE 13 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Yönetmeliğin eklerini görmek için tıklayınız
+**Yönetmeliğin eklerini görmek için tıklayınız**

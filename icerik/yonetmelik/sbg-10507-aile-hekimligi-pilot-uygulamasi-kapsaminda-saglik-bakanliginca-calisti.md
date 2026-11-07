@@ -8,13 +8,13 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10507/aile-hekimligi-pilot-uygulamasi-
 durum: "yürürlükte"
 ---
 
-Aile Hekimliği Pilot Uygulaması Kapsamında Sağlık Bakanlığınca Çalıştırılan Personele Yapılacak Ödemeler Ve Sözleşme Şartları Hakkında Yönetmelik
+**Aile Hekimliği Pilot Uygulaması Kapsamında Sağlık Bakanlığınca Çalıştırılan Personele Yapılacak Ödemeler Ve Sözleşme Şartları Hakkında Yönetmelik**
 
-Resmi Gazete Yayın Tarihi: 12 Ağustos 2005 Sayı: 25904
+**Resmi Gazete Yayın Tarihi: 12 Ağustos 2005 Sayı: 25904**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -32,27 +32,27 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 **Madde 4 –** Bu Yönetmelikte geçen;
 
-Bakanlık: Sağlık Bakanlığını,
+**Bakanlık:** Sağlık Bakanlığını,
 
-Kanun: 5258 sayılı Aile Hekimliği Pilot Uygulaması Hakkında Kanunu,
+**Kanun:** 5258 sayılı Aile Hekimliği Pilot Uygulaması Hakkında Kanunu,
 
-Aile hekimi: Kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetlerini, yaş, cinsiyet ve hastalık ayrımı yapmaksızın, her kişiye kapsamlı ve devamlı olarak belli bir mekanda vermekle yükümlü, gerektiği ölçüde gezici sağlık hizmeti veren ve tam gün esasına göre çalışan aile hekimliği uzmanı veya Bakanlığın öngördüğü eğitimleri alan uzman tabip veya tabipleri,
+**Aile hekimi:** Kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetlerini, yaş, cinsiyet ve hastalık ayrımı yapmaksızın, her kişiye kapsamlı ve devamlı olarak belli bir mekanda vermekle yükümlü, gerektiği ölçüde gezici sağlık hizmeti veren ve tam gün esasına göre çalışan aile hekimliği uzmanı veya Bakanlığın öngördüğü eğitimleri alan uzman tabip veya tabipleri,
 
-Aile sağlığı elemanı : Aile hekimi ile birlikte hizmet veren hemşire, ebe, sağlık memuru gibi sözleşmeyle çalıştırılan veya Bakanlıkça görevlendirilen personeli,
+**Aile sağlığı elemanı :** Aile hekimi ile birlikte hizmet veren hemşire, ebe, sağlık memuru gibi sözleşmeyle çalıştırılan veya Bakanlıkça görevlendirilen personeli,
 
-Geçici aile hekimi: Aile hekimi yıllık izin veya hastalık izninde iken yerine bakan aile hekimini,
+**Geçici aile hekimi:** Aile hekimi yıllık izin veya hastalık izninde iken yerine bakan aile hekimini,
 
-Geçici aile sağlığı elemanı: Aile sağlığı elemanı yıllık izin veya hastalık izninde iken yerine bakan aile sağlığı elemanını,
+**Geçici aile sağlığı elemanı:** Aile sağlığı elemanı yıllık izin veya hastalık izninde iken yerine bakan aile sağlığı elemanını,
 
-Aile sağlığı merkezi: Aile hekiminin hizmet verdiği birimi,
+**Aile sağlığı merkezi:** Aile hekiminin hizmet verdiği birimi,
 
-Yerel sağlık idaresi: Toplum sağlığına ve çevreye yönelik sağlık hizmetleri ve idari görevler ile eğitim, izleme, değerlendirme, denetim ve koordinasyon faaliyetlerini yürüten, illerde il sağlık müdürlüğünü ve ilçelerde sağlık grup başkanlığını,
+**Yerel sağlık idaresi:** Toplum sağlığına ve çevreye yönelik sağlık hizmetleri ve idari görevler ile eğitim, izleme, değerlendirme, denetim ve koordinasyon faaliyetlerini yürüten, illerde il sağlık müdürlüğünü ve ilçelerde sağlık grup başkanlığını,
 
-Tavan ücret: Sözleşmeyle çalıştırılan aile hekimleri ve aile sağlığı elemanları ile görevlendirilen aile hekimi ve aile sağlığı elemanlarına yapılacak ödemelerin hesaplanmasında kullanılan; 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) bendine göre istihdam edilen sözleşmeli personel için öngörülen brüt tavan ücreti, ifade eder.
+**Tavan ücret:** Sözleşmeyle çalıştırılan aile hekimleri ve aile sağlığı elemanları ile görevlendirilen aile hekimi ve aile sağlığı elemanlarına yapılacak ödemelerin hesaplanmasında kullanılan; 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) bendine göre istihdam edilen sözleşmeli personel için öngörülen brüt tavan ücreti, ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel Hükümler
+**Genel Hükümler**
 
 #### Sözleşmeyle çalıştırılan aile hekimi ve aile sağlığı elemanlarında aranacak genel şartlar
 
@@ -102,7 +102,7 @@ Askerlik nedeni ile sözleşmesini usulünce sona erdirenler terhis tarihinden i
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Sözleşmenin Sona Ermesi veya Erdirilmesi
+**Sözleşmenin Sona Ermesi veya Erdirilmesi**
 
 #### Sözleşmenin kendiliğinden sona ermesi
 
@@ -162,13 +162,13 @@ Bu şekilde sözleşmesi sona erdirilen aile sağlığı elemanı başka bir ail
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Ödemelerde Uygulanacak Esas ve Usuller
+**Ödemelerde Uygulanacak Esas ve Usuller**
 
 #### Aile hekimine yapılacak ödemenin unsurları
 
 **Madde 17 –** Aile hekimliği uygulamasında sözleşmeyle çalıştırılan veya aile hekimliği uygulamaları için görevlendirilen aile hekimine her ay yapılacak ödemeler aşağıdaki unsurlardan oluşur:
 
-A) Kayıtlı kişiler için ödenecek ücret:
+**A) Kayıtlı kişiler için ödenecek ücret:**
 
 Sözleşmeyle çalıştırılan aile hekimine yapılacak ödemelerin hesaplanmasında, nöbet, acil yardım hizmetleri, olağanüstü durumlarda yapacakları hizmetler, toplum sağlığı ve benzeri hizmetleri için;
 
@@ -186,7 +186,7 @@ Aile hekimliği uygulamaları için Bakanlıkça görevlendirilen uzman tabip ve
 
 Eğer kayıtlı kişi sayısı 4000’den fazla ise fazla olan kısım için aile hekimlerine herhangi bir ödeme yapılmaz.
 
-B) Sosyo-ekonomik gelişmişlik düzeyi ücreti: Sözleşmeyle çalıştırılan aile hekimine çalıştığı bölgeye göre sosyo-ekonomik gelişmişlik düzeyi ücreti ödenir. Bu ödemede 657 sayılı Kanunun 152 nci maddesi uyarınca çıkarılan Bakanlar Kurulu Kararının ekinde yer alan Kalkınmada Öncelikli Yöreler Cetveli esas alınır. Buna göre sözleşmeyle çalıştırılan aile hekimlerine yapılacak ödemede;
+**B) Sosyo-ekonomik gelişmişlik düzeyi ücreti:** Sözleşmeyle çalıştırılan aile hekimine çalıştığı bölgeye göre sosyo-ekonomik gelişmişlik düzeyi ücreti ödenir. Bu ödemede 657 sayılı Kanunun 152 nci maddesi uyarınca çıkarılan Bakanlar Kurulu Kararının ekinde yer alan Kalkınmada Öncelikli Yöreler Cetveli esas alınır. Buna göre sözleşmeyle çalıştırılan aile hekimlerine yapılacak ödemede;
 
 1) 1, 2 ve 3 üncü bölgelerde görev yapanlar için tavan ücretin ’u,
 
@@ -200,9 +200,9 @@ B) Sosyo-ekonomik gelişmişlik düzeyi ücreti: Sözleşmeyle çalıştırılan
 
 esas alınır.
 
-C) Aile sağlığı merkezi giderleri: Sözleşmeyle çalıştırılan aile hekimine hizmet verdiği merkezin kira, elektrik, su, yakıt, telefon, internet, bilgi-işlem, temizlik, büro malzemeleri, küçük onarım ve tıbbi sarf malzemeleri gibi giderleri için her ay tavan ücretin 0’ü ödenir.
+**C) Aile sağlığı merkezi giderleri:** Sözleşmeyle çalıştırılan aile hekimine hizmet verdiği merkezin kira, elektrik, su, yakıt, telefon, internet, bilgi-işlem, temizlik, büro malzemeleri, küçük onarım ve tıbbi sarf malzemeleri gibi giderleri için her ay tavan ücretin 0’ü ödenir.
 
-D) Gezici sağlık hizmetleri giderleri: Sözleşmeyle çalıştırılan aile hekimine kırsalda verdiği gezici sağlık hizmeti giderleri için yapılacak ödemelerde gezici sağlık hizmeti kapsamındaki nüfus;
+**D) Gezici sağlık hizmetleri giderleri:** Sözleşmeyle çalıştırılan aile hekimine kırsalda verdiği gezici sağlık hizmeti giderleri için yapılacak ödemelerde gezici sağlık hizmeti kapsamındaki nüfus;
 
 1) 500 den az ise tavan ücretin % 0’ı, 2) 500 ila1000 kişi ise tavan ücretin ’u, 3) 1001 ila 1500 kişi ise tavan ücretin ’si, 4) 1501 ila 2000 kişi ise tavan ücretin 0’u, 5) 2001 kişiden fazla ise tavan ücretin @’ı,
 
@@ -210,7 +210,7 @@ esas alınır.
 
 Görevlendirme suretiyle çalıştırılan aile hekimlerinin, Bakanlıkça taşıt ve taşıta ilişkin zorunlu giderleri temin edilmediği takdirde, bu bentte öngörülen gezici sağlık hizmetleri giderleri aynı şekilde karşılanır.
 
-E) Tetkik ve sarf malzemeleri giderleri: Sözleşmeyle çalıştırılan aile hekimine ihtiyaç duyduğu tetkikleri yerel sağlık idarelerinin gösterdiği laboratuvarlarda yaptırtmak ve bu tetkikler için gerekli sarf malzemelerini temin etmek amacıyla yapılacak giderler karşılığı ödeme yapılır. Yerel sağlık idarelerinin gösterdiği laboratuvarlarda yaptırılan tetkikler için belge karşılığında ödeme yapılır; belgelendirilemeyen kısım için herhangi bir ödeme yapılamaz. Ancak tetkik ve sarf malzemeleri giderleri karşılığı yapılacak toplam ödeme tutarı tavan ücretin % 100’ünü geçemez.
+**E) Tetkik ve sarf malzemeleri giderleri:** Sözleşmeyle çalıştırılan aile hekimine ihtiyaç duyduğu tetkikleri yerel sağlık idarelerinin gösterdiği laboratuvarlarda yaptırtmak ve bu tetkikler için gerekli sarf malzemelerini temin etmek amacıyla yapılacak giderler karşılığı ödeme yapılır. Yerel sağlık idarelerinin gösterdiği laboratuvarlarda yaptırılan tetkikler için belge karşılığında ödeme yapılır; belgelendirilemeyen kısım için herhangi bir ödeme yapılamaz. Ancak tetkik ve sarf malzemeleri giderleri karşılığı yapılacak toplam ödeme tutarı tavan ücretin % 100’ünü geçemez.
 
 Aile hekimliği uygulamaları için Bakanlıkça görevlendirilen uzman tabip ve tabiplerin tetkik ve sarf malzemeleri giderleri Bakanlıkça karşılanmadığı takdirde, bu bentte öngörülen tetkik ve sarf malzemeleri giderleri aynı şekilde karşılanır.
 
@@ -280,7 +280,7 @@ Bu madde uyarınca aile hekiminden yapılacak kesintilerin toplamı, 17 nci madd
 
 **Madde 19 –** Aile sağlığı elemanlarına her ay yapılacak ödemeler aşağıdaki unsurlardan oluşur:
 
-A) Kayıtlı kişiler için ödenecek ücret:
+**A) Kayıtlı kişiler için ödenecek ücret:**
 
 Sözleşmeyle çalıştırılan aile sağlığı elemanlarına yapılacak ödemelerin hesaplanmasında nöbet, acil yardım hizmetleri, olağanüstü durumlarda yapacakları hizmetler, toplum sağlığı ve benzeri hizmetleri için ilk 1000 kişiye kadar 800 YTL ve ayrıca 1000 kişinin üzerindeki her kayıtlı kişi başına 0,40 YTL esas alınır.
 
@@ -288,7 +288,7 @@ Aile hekimliği uygulamaları için Bakanlıkça görevlendirilen aile sağlığ
 
 Eğer kayıtlı kişi sayısı 4000’den fazla ise fazla olan kısım için aile sağlığı elemanlarına herhangi bir ödeme yapılmaz.
 
-B) Sosyo-ekonomik gelişmişlik düzeyi ücreti: Sözleşmeyle çalıştırılan aile sağlığı elemanlarına çalıştığı bölgeye göre sosyo-ekonomik gelişmişlik düzeyi ücreti ödenir. Bu ödemede 17 nci maddenin (B) bendinde belirtilen cetvel esas alınır. Buna göre sözleşmeli aile sağlığı elemanlarına yapılacak ödemede;
+**B) Sosyo-ekonomik gelişmişlik düzeyi ücreti:** Sözleşmeyle çalıştırılan aile sağlığı elemanlarına çalıştığı bölgeye göre sosyo-ekonomik gelişmişlik düzeyi ücreti ödenir. Bu ödemede 17 nci maddenin (B) bendinde belirtilen cetvel esas alınır. Buna göre sözleşmeli aile sağlığı elemanlarına yapılacak ödemede;
 
 1) 1, 2 ve 3 üncü bölgelerde görev yapanlar için tavan ücretin %5’i,
 
@@ -328,7 +328,7 @@ Bu madde uyarınca aile sağlığı elemanından yapılacak kesintilerin toplam�
 
 ### BEŞİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 

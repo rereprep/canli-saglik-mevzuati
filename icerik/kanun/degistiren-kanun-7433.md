@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/01/20230126-2.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-DEVLET MEMURLARI KANUNU VE BAZI KANUNLAR İLE 663
-SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7433 Kabul Tarihi: 19/1/2023
+**KANUN**
+**DEVLET MEMURLARI KANUNU VE BAZI KANUNLAR İLE 663**
+**SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7433 Kabul Tarihi: 19/1/2023**
 
 MADDE 1- 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 20- 28/11/2022 tarihi itibarıyla Diyanet İşleri Başkanlığı taşra teşkilatında 657 sayılı Kanunun 86 ncı maddesi kapsamında açıktan vekil imam-hatip ve vekil müezzin-kayyım olarak görev yapmakta olanlardan bu maddenin yürürlüğe girdiği tarihten itibaren otuz gün içinde müracaat edenler, geçerliliği devam eden kamu personeli seçme sınavından Başkanlıkça belirlenecek yeterli puanı almış olmaları ve Başkanlıkça belirlenecek usul ve esaslara göre yapılacak sözlü ve/veya uygulamalı sınavda başarılı olmaları şartıyla, Başkanlıkça ilan edilecek yerlerde görevlendirilmek üzere imam-hatip ve müezzin-kayyım unvanlı memur kadrolarına atanırlar. Bu madde uyarınca memur kadrolarına atananların dört yıl süreyle başka kamu kurum ve kuruluşlarına nakli yapılamaz.

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-RADYOLOJİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**RADYOLOJİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 26/4/2022 tarihli ve 31821 sayılı Resmî Gazete’de yayımlanan Radyoloji Hizmetleri Yönetmeliğinin 9 uncu maddesinin ikinci fıkrasına birinci cümlesinden önce gelmek üzere aşağıdaki cümle eklenmiş ve dördüncü fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Mesleğini serbest olarak icra etme yetkisine sahip radyoloji uzmanı tarafından açılan merkezler, Bakanlıkça belirlenen planlama kriterlerine uygun olmak kaydıyla yalnızca bulunduğu il içinde taşınabilir.”

@@ -12,9 +12,9 @@ Tarihi:08.03.2004 Sayısı:932(1671) Genelge No:2004/31
 
 ### T.C. SAĞLIK BAKANLIĞI
 
-Hukuk Müşavirliği
+**Hukuk Müşavirliği**
 
-Sayı : B.10.0.HKM.0.00.00.00- 9221 / 932(1671) 08 Mart 2004 Konu: Döner Sermaye İşletmelerinin bağış kabul etmesi
+**Sayı :** B.10.0.HKM.0.00.00.00- **9221** / 932(1671) 08 Mart 2004 **Konu:** Döner Sermaye İşletmelerinin bağış kabul etmesi
 
 ### GENELGE 2004/ 31
 
@@ -22,7 +22,7 @@ Sayı : B.10.0.HKM.0.00.00.00- 9221 / 932(1671) 08 Mart 2004 Konu: Döner Sermay
 
 5072 sayılı “Dernek ve Vakıfların Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanun”un yürürlüğe girmesinden sonra, sağlık kuruluşlarına bağış ve yardımda bulunmak isteyen vatandaşlarımızın bu isteklerinin nasıl karşılanacağı ve döner sermaye işletmelerine yapılacak aynî ya da nakdî bağışların kabul edilip edilemeyeceği hususunda bazı tereddüdlerin oluştuğu müşâhade edilmektedir.
 
-Bilindiği üzere döner sermaye işletmeleri; Bakanlığımıza bağlı sağlık kurum ve kuruluşları tarafından üretilen mal ve hizmetleri kıymetlendirmek ve temel ve sürekli görevlere bağlı olarak ortaya çıkan üretim ve hizmet faaliyetlerini sürdürebilmek maksadıyla Kanun ile kurulmuş müesseseler olup; 209 sayılı Sağlık ve Sosyal Yardım Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun’un 2 nci maddesi ile de, “döner sermayenin, kurum kârları ile Devlet yardımları ve bağışlardan ” teşekkül edeceği hükme bağlanmıştır.
+Bilindiği üzere döner sermaye işletmeleri; Bakanlığımıza bağlı sağlık kurum ve kuruluşları tarafından üretilen mal ve hizmetleri kıymetlendirmek ve temel ve sürekli görevlere bağlı olarak ortaya çıkan üretim ve hizmet faaliyetlerini sürdürebilmek maksadıyla Kanun ile kurulmuş müesseseler olup; 209 sayılı Sağlık ve Sosyal Yardım Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun’un 2 nci maddesi ile de, “döner sermayenin, kurum kârları ile Devlet yardımları ve **bağışlardan** ” teşekkül edeceği hükme bağlanmıştır.
 
 Dolayısıyla;
 

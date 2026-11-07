@@ -20,7 +20,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -72,7 +72,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Görev ve Sorumluluklar, Bildirimler ve Karar Süreci
+**Görev ve Sorumluluklar, Bildirimler ve Karar Süreci**
 
 #### Kurum tarafından yapılacak işlemler
 
@@ -174,7 +174,7 @@ g) Değerlendirme sonucunda ürünün geri çekilmesine karar verilmesi hâlinde
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Geri Çekmenin Sınıflandırılması, Seviyeleri ve Geri Çekme Nedenleri
+**Geri Çekmenin Sınıflandırılması, Seviyeleri ve Geri Çekme Nedenleri**
 
 #### Geri çekmenin sınıflandırılması
 
@@ -210,7 +210,7 @@ c) C seviyesi, ecza ticarethanelerini kapsar.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Geri Çekmenin Duyurulması, Yürütülmesi ve Tamamlanması
+**Geri Çekmenin Duyurulması, Yürütülmesi ve Tamamlanması**
 
 #### Geri çekmenin duyurulması
 
@@ -254,7 +254,7 @@ Geri Çekmenin Duyurulması, Yürütülmesi ve Tamamlanması
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yaptırımlar
 
@@ -278,4 +278,4 @@ Geri Çekmenin Duyurulması, Yürütülmesi ve Tamamlanması
 
 **MADDE 22 –** (1) Bu Yönetmelik hükümlerini Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

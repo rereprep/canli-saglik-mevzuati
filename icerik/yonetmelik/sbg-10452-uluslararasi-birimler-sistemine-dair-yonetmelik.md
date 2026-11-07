@@ -15,7 +15,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Hukuki Dayanak ve Tanımlar
+**Amaç, Kapsam, Hukuki Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -45,7 +45,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel Hükümler
+**Genel Hükümler**
 
 #### Genel Hükümler
 
@@ -55,7 +55,7 @@ Bu Yönetmelik; bu Yönetmelik tarafından zorunlu hale getirilen birimler hari�
 
 **Madde 6 –** Bu Yönetmeliğin amacı doğrultusunda ‘İlave İşaretleme’, bu bölümde yer alan bir birim cinsinden ifade edilen miktar gösterilişi ile birlikte bulunan Ek Bölüm I kapsamında olmayan ölçü birimleri cinsinden ifade edilen miktarların bir veya birden fazla gösterilişlerini ifade eder.
 
-(Değişik ikinci fıkra:R.G-17/1/2010-27465) İlave işaretler kullanılabilir.
+**(Değişik ikinci fıkra:R.G-17/1/2010-27465)** İlave işaretler kullanılabilir.
 
 Bununla birlikte, Bakanlık, ölçü aletlerinin tekli yasal ölçü biriminde miktar göstergelerinin bulunmasını isteyebilir.
 
@@ -85,7 +85,7 @@ Bakanlık, bu Yönetmelik yayımlandıktan sonra yönetmelik metnini Komisyona b
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Yürürlük ve Yürütme
+**Yürürlük ve Yürütme**
 
 #### Yürürlük
 
@@ -97,7 +97,7 @@ Yürürlük ve Yürütme
 
 Bu Yönetmelik hükümlerini Sanayi ve Teknoloji Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

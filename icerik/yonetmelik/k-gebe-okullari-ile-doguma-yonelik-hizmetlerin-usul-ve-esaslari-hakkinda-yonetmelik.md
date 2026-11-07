@@ -19,7 +19,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -61,7 +61,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Temel Esaslar, Gebe Okullarının Açılması ve Tescil İşlemleri ile Asgari Standartlar
+**Temel Esaslar, Gebe Okullarının Açılması ve Tescil İşlemleri ile Asgari Standartlar**
 
 #### Temel esaslar
 
@@ -143,7 +143,7 @@ Temel Esaslar, Gebe Okullarının Açılması ve Tescil İşlemleri ile Asgari S
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Görev, Yetki ve Sorumluluklar
+**Görev, Yetki ve Sorumluluklar**
 
 #### Sorumlu hekim
 
@@ -229,7 +229,7 @@ s) Gebe ve çalışan güvenliği açısından gerekli tedbirleri almak, meydana
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Eğitim ve Denetim
+**Eğitim ve Denetim**
 
 #### Eğitim
 
@@ -255,7 +255,7 @@ c) Gebe adaylarına verilecek gebeliğe hazırlık eğitimleri ile babalara yön
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Hüküm bulunmayan haller
 
@@ -275,4 +275,4 @@ c) Gebe adaylarına verilecek gebeliğe hazırlık eğitimleri ile babalara yön
 
 **MADDE 16 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

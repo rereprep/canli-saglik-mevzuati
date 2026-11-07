@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/07/20210714-9.htm"
 durum: "yürürlükte"
 ---
 
-KANUN HAYVANLARI KORUMA KANUNU İLE TÜRK CEZA KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7332 Kabul Tarihi: 9/7/2021
+**KANUN HAYVANLARI KORUMA KANUNU İLE TÜRK CEZA KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7332 **Kabul Tarihi: 9/7/2021**
 
 MADDE 1 – 24/6/2004 tarihli ve 5199 sayılı Hayvanları Koruma Kanununun 3 üncü maddesinin birinci fıkrasının (ı) ve (k) bentleri aşağıdaki şekilde, (o) bendinde yer alan “Çevre” ibaresi “Tarım” şeklinde değiştirilmiş, fıkraya aşağıdaki (p) bendi eklenmiş ve (j) bendinde yer alan “ve süs” ibaresi madde metninden çıkarılmıştır.
 “ı) Ev hayvanı: Gerçek veya tüzel kişiler tarafından özellikle evde, iş yerlerinde ya da arazisinde özel ilgi ve refakat amacıyla muhafaza edilen, bakımı ve sorumluluğu sahiplerince üstlenilen her türlü hayvanı,” “k) Hayvan bakımevi: Bakanlıktan izin alınmak suretiyle kurulan ve hayvanların rehabilite edileceği bir tesisi,” “p) Rehabilitasyon: Sahipsiz hayvanların tedavi ve parazit mücadelesinin yapılmasını, aşılanmasını, kısırlaştırılmasını ve dijital kimliklendirme yöntemleriyle işaretlenmesini,”

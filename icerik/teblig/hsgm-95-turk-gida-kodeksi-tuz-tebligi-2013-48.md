@@ -188,4 +188,4 @@ h) Bu Tebliğ kapsamında piyasaya arz edilen ürünlerin etiketlerinde tuzun ka
 
 **MADDE 18 –** (1) Bu Tebliğ hükümlerini Gıda, Tarım ve Hayvancılık Bakanı yürütür.
 
-Tebliğin eklerini görmek için tıklayınız
+**Tebliğin eklerini görmek için tıklayınız**

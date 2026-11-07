@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -58,7 +58,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Risk Düzeyi ve Risklerin Belirlenmesi
+**Risk Düzeyi ve Risklerin Belirlenmesi**
 
 #### Risk düzeyi
 
@@ -94,7 +94,7 @@ d) Yaptıkları işle doğrudan bağlantılı olarak çalışanların yakalandı
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İşverenlerin Yükümlülükleri
+**İşverenlerin Yükümlülükleri**
 
 #### İkâme
 
@@ -270,7 +270,7 @@ içerir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Özel Hükümler
+**Özel Hükümler**
 
 #### Tanı laboratuvarları dışında kalan insan sağlığı ve veterinerlikle ilgili hizmetler
 
@@ -318,7 +318,7 @@ b) Grup 2, grup 3 veya grup 4’te yer alan biyolojik etkenlerin kullanılması 
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 
@@ -332,4 +332,4 @@ b) Grup 2, grup 3 veya grup 4’te yer alan biyolojik etkenlerin kullanılması 
 
 **MADDE 21 –** (1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.
 
-Yönetmeliğin eklerini görmek için tıklayınız
+**Yönetmeliğin eklerini görmek için tıklayınız**

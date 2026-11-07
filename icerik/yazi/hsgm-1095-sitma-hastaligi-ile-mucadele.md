@@ -22,9 +22,9 @@ Konu : Sıtma Hastalığı ile Mücadele
 
 DAĞITIM YERLERİNE
 
-Ülkemizde yürütülen başarılı çalışmalar neticesinde yerli sıtma bulaşı sona ermiş olmakla birlikte yurtdışı kaynaklı sıtma vaka bildirimleri devam etmektedir. Sıtma, özellikle etkeni Plasmodium falciparum olan olgularda, tanı ve tedavide aciliyet gerektiren bir enfeksiyon hastalığıdır. Bakanlığımız verilerine göre her yıl ortalama 200-300 civarında yurtdışı kaynaklı sıtma vakası bildirilmekte olup bu vakaların yaklaşık %75’ini P.
+Ülkemizde yürütülen başarılı çalışmalar neticesinde yerli sıtma bulaşı sona ermiş olmakla birlikte yurtdışı kaynaklı sıtma vaka bildirimleri devam etmektedir. Sıtma, özellikle etkeni <i>Plasmodium falciparum</i> olan olgularda, tanı ve tedavide aciliyet gerektiren bir enfeksiyon hastalığıdır. Bakanlığımız verilerine göre her yıl ortalama 200-300 civarında yurtdışı kaynaklı sıtma vakası bildirilmekte olup bu vakaların yaklaşık %75’ini P.
 
-falciparum sıtması oluşturmaktadır. Söz konusu vakaların büyük bölümü hastalığın endemik olduğu Afrika ülkelerinden ülkemize gelen veya bu bölgelere seyahat etmiş kişilerde tespit edilmektedir. Bu sebeple, bu olgularda sıtma tanısının erken konulması ve doğru şekilde tedavi edilmesi hayati önem taşımaktadır.
+<i>falciparum</i> sıtması oluşturmaktadır. Söz konusu vakaların büyük bölümü hastalığın endemik olduğu Afrika ülkelerinden ülkemize gelen veya bu bölgelere seyahat etmiş kişilerde tespit edilmektedir. Bu sebeple, bu olgularda sıtma tanısının erken konulması ve doğru şekilde tedavi edilmesi hayati önem taşımaktadır.
 
 Bakanlığımızca 2016 yılında “Sıtma Hastalığı ile Mücadele Hizmetlerinin Yürütülmesi hakkında 2016/2 sayılı Genelge” ve 2019 yılında sıtma tedavisi ve vaka yönetiminde sağlık çalışanlarına katkı sağlaması amacıyla “Sıtma Vaka Yönetim Rehberi” yayınlanmıştır. Tüm sıtma vakalarının yönetimi ve sürveyansının bu dokümanlarda belirtilen prensipler çerçevesinde gerçekleştirilmesi gerekmektedir.
 

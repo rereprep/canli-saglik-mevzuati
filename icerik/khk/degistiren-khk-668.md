@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2016/07/20160727M2..htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü Mükerrer) KANUN
-HÜKMÜNDE KARARNAME OLAĞANÜSTÜ HAL KAPSAMINDA ALINMASI GEREKEN TEDBİRLER İLE BAZI KURUM VE KURULUŞLARA DAİR DÜZENLEME YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü Mükerrer) **KANUN**
+**HÜKMÜNDE KARARNAME OLAĞANÜSTÜ HAL KAPSAMINDA ALINMASI GEREKEN TEDBİRLER İLE BAZI KURUM** VE KURULUŞLARA DAİR DÜZENLEME YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
 Karar Sayısı: KHK/668 Olağanüstü hal kapsamında bazı tedbirler alınması ile bazı kurum ve kuruluşlara dair düzenleme yapılması; Anayasanın 121 inci maddesi ile 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununun 4 üncü maddesine göre, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu’nca 25/7/2016 tarihinde kararlaştırılmıştır.
 BİRİNCİ BÖLÜM
 Amaç ve Kapsam Amaç ve kapsam
@@ -124,11 +124,11 @@ MADDE 6- 2803 sayılı Kanunun 4 üncü maddesi aşağıdaki şekilde değiştir
 MADDE 7- 2803 sayılı Kanunun 5 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Kuruluş ve Teşkilat:
 
-MADDE 5- Jandarma Genel Komutanlığının kuruluş ve kadrolarıyla konuş yerleri, İçişleri Bakanlığınca düzenlenir. Ancak sıkıyönetim, seferberlik ve savaşta Kuvvet Komutanlıkları emrine girecek birliklerin kuruluş ve kadrolarıyla konuş yerlerinin düzenlenmesinde Genelkurmay Başkanlığının görüşü alınır.
+MADDE 5- <i>Jandarma Genel Komutanlığının kuruluş ve kadrolarıyla konuş yerleri, İçişleri Bakanlığınca düzenlenir. Ancak sıkıyönetim, seferberlik ve savaşta Kuvvet Komutanlıkları emrine girecek birliklerin kuruluş ve kadrolarıyla konuş yerlerinin düzenlenmesinde Genelkurmay Başkanlığının görüşü alınır.</i>
 Jandarma birliklerinin kuruluş ve konuşlarının düzenlenmesinde mülki taksimat esas alınır. Ancak geçici olarak birden çok ili içine alan bölge teşkilatı da kurulabilir.
 Bölge komutanı, bölge teşkilatının konuşlu bulunduğu ilin valisine karşı sorumlu olarak görev yapar.”
 
-MADDE 8- 2803 sayılı Kanunun 6 ncı maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 8-** 2803 sayılı Kanunun 6 ncı maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Jandarma Genel Komutanı:
 
 MADDE 6- Jandarma Genel Komutanı tüm Jandarma Teşkilatının komutanıdır. Jandarma Genel Komutanı general rütbesini haiz olanlar arasından atanır.

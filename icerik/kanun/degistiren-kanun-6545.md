@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2014/06/20140628-9.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-TÜRK CEZA KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**TÜRK CEZA KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6545 Kabul Tarihi: 18/6/2014
 
 MADDE 1 – 12/6/1933 tarihli ve 2313 sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanunun 23 üncü maddesinin beşinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş ve fıkraya birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
@@ -184,7 +184,7 @@ l) 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununu
 m) Düzenleyici ve denetleyici kurullar tarafından görevli oldukları piyasa veya sektörle ilgili olarak alınan kararlara karşı açılan davalar.”
 
 
-MADDE 21 – 2577 sayılı Kanunun 48 inci maddesinin ikinci fıkrasında yer alan “mahkemece” ibareleri “bölge idare mahkemesince” şeklinde; üçüncü fıkrasında yer alan “mahkemeye” ibaresi “bölge idare mahkemesine”, “mahkeme” ibaresi “bölge idare mahkemesi” şeklinde; dördüncü fıkrada yer alan “mahkeme” ibaresi “bölge idare mahkemesi” şeklinde; beşinci fıkrada yer alan “mahkemece” ibaresi “bölge idare mahkemesince” şeklinde; altıncı fıkrasının birinci cümlesinde yer alan “mahkeme veya Danıştay daire başkanı” ibaresi “merci” ve “onbeş” ibaresi “yedi” şeklinde; ikinci cümlesinde yer alan “mahkeme, ilk derece mahkemesi olarak davaya bakan Danıştay dairesi” ibaresi “ilgili merci” şeklinde;
+**MADDE 21 –** 2577 sayılı Kanunun 48 inci maddesinin ikinci fıkrasında yer alan “mahkemece” ibareleri “bölge idare mahkemesince” şeklinde; üçüncü fıkrasında yer alan “mahkemeye” ibaresi “bölge idare mahkemesine”, “mahkeme” ibaresi “bölge idare mahkemesi” şeklinde; dördüncü fıkrada yer alan “mahkeme” ibaresi “bölge idare mahkemesi” şeklinde; beşinci fıkrada yer alan “mahkemece” ibaresi “bölge idare mahkemesince” şeklinde; altıncı fıkrasının birinci cümlesinde yer alan “mahkeme veya Danıştay daire başkanı” ibaresi “merci” ve “onbeş” ibaresi “yedi” şeklinde; ikinci cümlesinde yer alan “mahkeme, ilk derece mahkemesi olarak davaya bakan Danıştay dairesi” ibaresi “ilgili merci” şeklinde;
 üçüncü cümlesinde yer alan “mahkeme, ilk derece mahkemesi olarak davaya bakan Danıştay dairesi” ibaresi “merci” şeklinde; dördüncü cümlesinde yer alan “Mahkemenin veya Danıştay dairesinin” ibaresi “İlgili merciin” şeklinde değiştirilmiş; altıncı fıkrasının üçüncü cümlesinde yer alan “yapılması” ibaresinden sonra gelmek üzere “veya kesin bir karar hakkında olması” ibaresi eklenmiş ve 7 numaralı fıkrası aşağıdaki şekilde değiştirilmiştir.
 “7. Temyiz dilekçesi verilirken gerekli harç ve giderlerin ödenmemiş olduğu, dilekçenin 3 üncü madde esaslarına göre düzenlenmediği, temyizin kanuni süre içinde yapılmadığı veya kesin bir karar hakkında olduğunun anlaşıldığı hâllerde, 2 ve 6 ncı fıkralarda sözü edilen kararlar, dosyanın gönderildiği Danıştayın ilgili dairesi ve kurulunca, kesin olarak verilir.”
 
@@ -210,13 +210,13 @@ MADDE 23 – 2577 sayılı Kanunun 50 nci maddesi aşağıdaki şekilde değişt
 5. Bölge idare mahkemesi, bozmaya uymayarak kararında ısrar ederse, ısrar kararının temyizi hâlinde, talep, konusuna göre Danıştay İdari veya Vergi Dava Daireleri Kurulunca incelenir ve karara bağlanır. Danıştay İdari ve Vergi Dava Daireleri Kurulları kararlarına uyulması zorunludur.”
 
 
-MADDE 24 – 2577 sayılı Kanunun 51 inci maddesinin başlığı “Kanun yararına temyiz:”
+**MADDE 24 –** 2577 sayılı Kanunun 51 inci maddesinin başlığı “Kanun yararına temyiz:”
 şeklinde; birinci fıkrasında yer alan “Bölge idare mahkemesi kararları ile idare ve vergi mahkemelerince ve Danıştayca ilk derece mahkemesi olarak verilip” ibaresi “İdare ve vergi mahkemeleri ile bölge idare mahkemelerinin kesin olarak verdiği kararlar ile istinaf veya” şeklinde ve ikinci fıkrasında yer alan “mahkeme veya Danıştay” ibaresi “merci” şeklinde değiştirilmiştir.
 
 MADDE 25 – 2577 sayılı Kanunun 52 nci maddesinin başlığında yer alan “itiraz” ibaresi “istinaf” şeklinde; birinci fıkrasında yer alan “itiraz yoluna” ibaresi “istinaf yoluna” şeklinde; “itirazı” ibaresi “istinaf başvurusunu” şeklinde ve son cümlesinde yer alan “kararların temyizi” ibaresi “kararlara karşı temyiz ya da istinaf yoluna başvurulması” şeklinde değiştirilmiştir.
 
 
-MADDE 26 – 2577 sayılı Kanunun 55 inci maddesinin başlığı “Yargılamanın yenilenmesi usulü:” şeklinde, beşinci fıkrasında yer alan “53, 54 ve bu” ibaresi “Bu madde ile 53 üncü” şeklinde değiştirilmiş; üçüncü ve dördüncü fıkralarında yer alan “ve kararın düzeltilmesi” ibareleri ile beşinci fıkrasında yer alan “ve kararın düzeltilmesinde” ibaresi madde metninden çıkarılmıştır.
+**MADDE 26 –** 2577 sayılı Kanunun 55 inci maddesinin başlığı “Yargılamanın yenilenmesi usulü:” şeklinde, beşinci fıkrasında yer alan “53, 54 ve bu” ibaresi “Bu madde ile 53 üncü” şeklinde değiştirilmiş; üçüncü ve dördüncü fıkralarında yer alan “ve kararın düzeltilmesi” ibareleri ile beşinci fıkrasında yer alan “ve kararın düzeltilmesinde” ibaresi madde metninden çıkarılmıştır.
 
 MADDE 27 – 2577 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 8- 1. Bu Kanunla idari yargıda kanun yollarına ilişkin getirilen hükümler, 2576 sayılı Kanunun, bu Kanunla değişik 3 üncü maddesine göre kurulan bölge idare mahkemelerinin tüm yurtta göreve başlayacakları tarihten sonra verilen kararlar hakkında uygulanır.
@@ -230,7 +230,7 @@ MADDE 29 – 4/2/1983 tarihli ve 2797 sayılı Yargıtay Kanununun 5 inci maddes
 MADDE 30 – 2797 sayılı Kanunun 10 uncu maddesinde yer alan “dördü” ibareleri “altısı”, “sekiz” ibaresi “on iki”, “ikisi” ibareleri “dördü” ve “dört” ibaresi “sekiz” şeklinde değiştirilmiştir.
 
 
-MADDE 31 – 2797 sayılı Kanunun 14 üncü maddesinin birinci fıkrasının başına aşağıdaki cümle eklenmiş; birinci fıkrasında yer alan “arasındaki” ibaresi “hukuk veya ceza dairesi olarak belirlenmesi ile aralarındaki” şeklinde ve “üçte” ibaresi “onda” şeklinde değiştirilmiş;
+**MADDE 31 –** 2797 sayılı Kanunun 14 üncü maddesinin birinci fıkrasının başına aşağıdaki cümle eklenmiş; birinci fıkrasında yer alan “arasındaki” ibaresi “hukuk veya ceza dairesi olarak belirlenmesi ile aralarındaki” şeklinde ve “üçte” ibaresi “onda” şeklinde değiştirilmiş;
 mevcut birinci fıkrasının üçüncü ve dördüncü cümlelerinde yer alan “işbölümü” ibareleri madde metninden çıkarılmış, ikinci fıkrasının (a) bendi ile üçüncü fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
 “Daireler, hukuk veya ceza dairesi olarak Yargıtay Büyük Genel Kurulu tarafından belirlenir.”
 “a) Daireler arasındaki iş bölümünün belirlenmesinde mahkeme kararındaki nitelendirme de gözetilerek, temyizin kapsamı esas alınır.”
@@ -346,7 +346,7 @@ MADDE 56 – 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 12 nci madd
 “(5) Birinci fıkra kapsamına giren hâllerde rüşvet ve nüfuz ticareti suçlarından dolayı yargılama yapılması Adalet Bakanının istemine bağlı değildir.”
 
 
-MADDE 57 – 5237 sayılı Kanunun 18 inci maddesinin birinci fıkrasına “ceza” ibaresinden sonra gelmek üzere “soruşturması ya da”, “talep üzerine,” ibaresinden sonra gelmek üzere “soruşturma ya da” ibaresi; üçüncü fıkrasına “nedeniyle” ibaresinden sonra gelmek üzere “soruşturulacağına ya da” ibaresi eklenmiş ve yedinci fıkrasında yer alan “Ceza Muhakemeleri Usulü Kanunu” ibaresi “Ceza Muhakemesi Kanunu” şeklinde değiştirilmiştir.
+**MADDE 57 –** 5237 sayılı Kanunun 18 inci maddesinin birinci fıkrasına “ceza” ibaresinden sonra gelmek üzere “soruşturması ya da”, “talep üzerine,” ibaresinden sonra gelmek üzere “soruşturma ya da” ibaresi; üçüncü fıkrasına “nedeniyle” ibaresinden sonra gelmek üzere “soruşturulacağına ya da” ibaresi eklenmiş ve yedinci fıkrasında yer alan “Ceza Muhakemeleri Usulü Kanunu” ibaresi “Ceza Muhakemesi Kanunu” şeklinde değiştirilmiştir.
 
 MADDE 58 – 5237 sayılı Kanunun 102 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 102- (1) Cinsel davranışlarla bir kimsenin vücut dokunulmazlığını ihlâl eden kişi, mağdurun şikâyeti üzerine, beş yıldan on yıla kadar hapis cezası ile cezalandırılır. Cinsel davranışın sarkıntılık düzeyinde kalması hâlinde iki yıldan beş yıla kadar hapis cezası verilir.
@@ -388,7 +388,7 @@ d) Posta veya elektronik haberleşme araçlarının sağladığı kolaylıktan f
 e) Teşhir suretiyle, işlenmesi hâlinde yukarıdaki fıkraya göre verilecek ceza yarı oranında artırılır. Bu fiil nedeniyle mağdur; işi bırakmak, okuldan veya ailesinden ayrılmak zorunda kalmış ise verilecek ceza bir yıldan az olamaz.”
 
 
-MADDE 62 – 5237 sayılı Kanunun 142 nci maddesinin birinci fıkrasının (b) bendi yürürlükten kaldırılmış, aynı fıkrada yer alan “iki yıldan beş” ibaresi “üç yıldan yedi” şeklinde değiştirilmiş, ikinci fıkrasının (d) bendine “kilit açmak” ibaresinden sonra gelmek üzere “veya kilitlenmesini engellemek” ibaresi eklenmiş, (g) bendinde yer alan “Barınak yerlerinde, sürüde veya açık yerlerde bulunan” ibaresi madde metninden çıkarılmış, aynı fıkraya aşağıdaki bent eklenmiş, fıkrada yer alan “üç yıldan yedi” ibaresi “beş yıldan on” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 62 –** 5237 sayılı Kanunun 142 nci maddesinin birinci fıkrasının (b) bendi yürürlükten kaldırılmış, aynı fıkrada yer alan “iki yıldan beş” ibaresi “üç yıldan yedi” şeklinde değiştirilmiş, ikinci fıkrasının (d) bendine “kilit açmak” ibaresinden sonra gelmek üzere “veya kilitlenmesini engellemek” ibaresi eklenmiş, (g) bendinde yer alan “Barınak yerlerinde, sürüde veya açık yerlerde bulunan” ibaresi madde metninden çıkarılmış, aynı fıkraya aşağıdaki bent eklenmiş, fıkrada yer alan “üç yıldan yedi” ibaresi “beş yıldan on” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “h) Herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle ya da bina veya eklentileri içinde muhafaza altına alınmış olan eşya hakkında,” “(5) Hırsızlık suçunun işlenmesi sonucunda haberleşme, enerji ya da demiryolu veya havayolu ulaşımı alanında kamu hizmetinin geçici de olsa aksaması hâlinde, yukarıdaki fıkralar hükümlerine göre verilecek ceza yarısından iki katına kadar artırılır.”
 
 MADDE 63 – 5237 sayılı Kanunun 143 üncü maddesinde yer alan “üçte birine kadar” ibaresi “yarı oranında” şeklinde değiştirilmiştir.
@@ -400,7 +400,7 @@ MADDE 65 – 5237 sayılı Kanunun 152 nci maddesinin birinci fıkrasında yer a
 “(3) Mala zarar verme suçunun işlenmesi sonucunda haberleşme, enerji ya da demiryolu veya havayolu ulaşımı alanında kamu hizmetinin geçici de olsa aksaması hâlinde, yukarıdaki fıkralar hükümlerine göre verilecek ceza yarısından iki katına kadar artırılır.”
 
 
-MADDE 66 – 5237 sayılı Kanunun 188 inci maddesinin birinci fıkrasında yer alan “on yıldan az olmamak üzere” ibaresi “yirmi yıldan otuz yıla kadar” şeklinde değiştirilmiş, üçüncü fıkrasında yer alan “beş yıldan onbeş yıla kadar” ibaresi “on yıldan az olmamak üzere” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki cümle eklenmiş, beşinci fıkrası aşağıdaki şekilde değiştirilmiş ve yedinci fıkrasında yer alan “dört” ibaresi “sekiz” şeklinde değiştirilmiştir.
+**MADDE 66 –** 5237 sayılı Kanunun 188 inci maddesinin birinci fıkrasında yer alan “on yıldan az olmamak üzere” ibaresi “yirmi yıldan otuz yıla kadar” şeklinde değiştirilmiş, üçüncü fıkrasında yer alan “beş yıldan onbeş yıla kadar” ibaresi “on yıldan az olmamak üzere” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki cümle eklenmiş, beşinci fıkrası aşağıdaki şekilde değiştirilmiş ve yedinci fıkrasında yer alan “dört” ibaresi “sekiz” şeklinde değiştirilmiştir.
 “Ancak, uyuşturucu veya uyarıcı madde verilen veya satılan kişinin çocuk olması hâlinde, veren veya satan kişiye verilecek hapis cezası on beş yıldan az olamaz.”
 “(5) Yukarıdaki fıkralarda gösterilen suçların, üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde verilecek ceza yarı oranında, suç işlemek için teşkil edilmiş bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde, verilecek ceza bir kat artırılır.”
 
@@ -432,7 +432,7 @@ MADDE 70 – 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 141 in
 (4) Devlet, ödediği tazminattan dolayı görevinin gereklerine aykırı hareket etmek suretiyle görevini kötüye kullanan hâkimler ve Cumhuriyet savcılarına bir yıl içinde rücu eder.”
 
 
-MADDE 71 – 5271 sayılı Kanunun 173 üncü maddesinin birinci fıkrasında yer alan “ağır ceza mahkemesine en yakın ağır ceza mahkemesine” ibaresi “ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine” şeklinde; üçüncü fıkrası aşağıdaki şekilde; dördüncü fıkrasında yer alan “Mahkeme” ibaresi “Sulh ceza hâkimliği” şeklinde ve altıncı fıkrasında yer alan “ağır ceza mahkemesinin” ibaresi “sulh ceza hâkimliğinin” şeklinde değiştirilmiştir.
+**MADDE 71 –** 5271 sayılı Kanunun 173 üncü maddesinin birinci fıkrasında yer alan “ağır ceza mahkemesine en yakın ağır ceza mahkemesine” ibaresi “ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine” şeklinde; üçüncü fıkrası aşağıdaki şekilde; dördüncü fıkrasında yer alan “Mahkeme” ibaresi “Sulh ceza hâkimliği” şeklinde ve altıncı fıkrasında yer alan “ağır ceza mahkemesinin” ibaresi “sulh ceza hâkimliğinin” şeklinde değiştirilmiştir.
 “(3) Sulh ceza hâkimliği, kararını vermek için soruşturmanın genişletilmesine gerek görür ise bu hususu açıkça belirtmek suretiyle, o yer Cumhuriyet başsavcılığından talepte bulunabilir; kamu davasının açılması için yeterli nedenler bulunmazsa, istemi gerekçeli olarak reddeder; itiraz edeni giderlere mahkûm eder ve dosyayı Cumhuriyet savcısına gönderir. Cumhuriyet savcısı, kararı itiraz edene ve şüpheliye bildirir.”
 
 MADDE 72 – 5271 sayılı Kanunun 231 inci maddesinin sekizinci fıkrasına birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
@@ -454,7 +454,7 @@ MADDE 76 – 5271 sayılı Kanunun 279 uncu maddesinin birinci fıkrasına aşa�
 “Bu kararlar itiraza tabidir.”
 
 
-MADDE 77 – 5271 sayılı Kanunun 280 inci maddesinin birinci fıkrasının (a) bendine “303 üncü maddenin birinci fıkrasının (c), (e), (f), (g) ve (h) bentlerinde yer alan ihlallerin varlığı hâlinde hukuka aykırılığın düzeltilerek istinaf başvurusunun esastan reddine,” ibaresi eklenmiş; (c) bendinde yer alan “ilk derece mahkemesinin kararını kaldırarak” ibaresi madde metninden çıkarılmış ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 77 –** 5271 sayılı Kanunun 280 inci maddesinin birinci fıkrasının (a) bendine “303 üncü maddenin birinci fıkrasının (c), (e), (f), (g) ve (h) bentlerinde yer alan ihlallerin varlığı hâlinde hukuka aykırılığın düzeltilerek istinaf başvurusunun esastan reddine,” ibaresi eklenmiş; (c) bendinde yer alan “ilk derece mahkemesinin kararını kaldırarak” ibaresi madde metninden çıkarılmış ve maddeye aşağıdaki fıkra eklenmiştir.
 “(2) Duruşma sonunda bölge adliye mahkemesi istinaf başvurusunu esastan reddeder veya ilk derece mahkemesi hükmünü kaldırarak yeniden hüküm kurar.”
 
 MADDE 78 – 5271 sayılı Kanunun 286 ncı maddesinin ikinci fıkrasının (d) bendinde yer alan “suç niteliğini değiştirmeyen” ibaresi “her türlü” şeklinde değiştirilmiş; (f) bendinde yer alan “bölge adliye mahkemesince verilen beraat kararları ile” ibaresi madde metninden çıkarılmış ve aynı fıkranın (c), (e) ve (g) bentleri aşağıdaki şekilde değiştirilmiştir.

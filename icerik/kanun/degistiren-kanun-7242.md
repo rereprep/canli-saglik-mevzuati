@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2020/04/20200415-16.htm"
 durum: "yürürlükte"
 ---
 
-KANUN CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7242 Kabul Tarihi: 14/4/2020
+**KANUN CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7242 **Kabul Tarihi: 14/4/2020**
 
 MADDE 1 – 16/5/2001 tarihli ve 4675 sayılı İnfaz Hâkimliği Kanununun 1 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Bu Kanun, ceza infaz kurumları ve tutukevlerinde bulunan hükümlü ve tutuklular hakkında yapılan işlemlere veya bunlarla ilgili faaliyetlere ya da Cumhuriyet savcısının ceza ve güvenlik tedbirlerinin infazına ilişkin verdiği kararlara yönelik şikâyetleri incelemek ve karara bağlamak, ceza ve güvenlik tedbirlerinin infazına ilişkin hâkim veya mahkeme tarafından verilmesi gerekli kararları almak, işleri yapmak ve kanunlarla verilen diğer görevleri yerine getirmek üzere kurulan infaz hâkimliklerine ilişkin hükümleri kapsar.”

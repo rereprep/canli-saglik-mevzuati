@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 İçişleri Bakanlığından:
-EMNİYET TEŞKİLATI SAĞLIK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**EMNİYET TEŞKİLATI SAĞLIK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 3/1/2018 tarihli ve 30290 sayılı Resmî Gazete’de yayımlanan Emniyet Teşkilatı Sağlık Şartları Yönetmeliğinin eki Ek-3’te yer alan “1- DAHİLİYE (ENDOKRİNOLOJİ – HEMATOLOJİ – NEFROLOJİ – GASTROENTEROLOJİ – ENFEKSİYON HASTALIKLARI)” başlıklı kısmında aşağıdaki düzenlemeler yapılmıştır.
 a) A diliminin “Gastroenteroloji” başlıklı bölümünün 5/a bendi aşağıdaki şekilde değiştirilmiştir.

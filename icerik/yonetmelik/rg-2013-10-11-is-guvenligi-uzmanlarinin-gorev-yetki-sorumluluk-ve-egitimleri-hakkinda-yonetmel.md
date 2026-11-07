@@ -12,11 +12,11 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Bakanlığından:
-İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR **YÖNETMELİK**
 
 MADDE 1 – 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 3 üncü maddesinde geçen “30 uncu” ibaresi “3 üncü ve 30 uncu” olarak değiştirilmiştir.
 
-MADDE 2 – Aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (f) bendi aşağıdaki şekilde değiştirilmiş, aynı bentten sonra gelmek üzere aşağıdaki (g) ve (ğ) bentleri eklenmiş, diğer bentler buna göre teselsül ettirilmiş ve mevcut (ğ) bendinde geçen “üniversitelerin fen veya fen-edebiyat fakültelerinin fizik veya kimya bölümleri mezunları” ibaresi “fizikçi, kimyager veya biyolog unvanına sahip olanlar” olarak değiştirilmiştir.
+**MADDE 2 –** Aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (f) bendi aşağıdaki şekilde değiştirilmiş, aynı bentten sonra gelmek üzere aşağıdaki (g) ve (ğ) bentleri eklenmiş, diğer bentler buna göre teselsül ettirilmiş ve mevcut (ğ) bendinde geçen “üniversitelerin fen veya fen-edebiyat fakültelerinin fizik veya kimya bölümleri mezunları” ibaresi “fizikçi, kimyager veya biyolog unvanına sahip olanlar” olarak değiştirilmiştir.
 “f) İş güvenliği uzmanı: İş sağlığı ve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş, iş güvenliği uzmanlığı belgesine sahip, Bakanlık ve ilgili kuruluşlarında çalışma hayatını denetleyen müfettişler ile mühendislik veya mimarlık eğitimi veren fakültelerin mezunları ile teknik elemanı,” “g) Kanun: 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanununu,
 ğ) Komisyon: Bakan veya Bakanlık Müsteşarı tarafından belirlenecek bir yetkilinin başkanlığında İş Sağlığı ve Güvenliği Genel Müdürlüğü ve İş Teftiş Kurulu Başkanlığından seçilecek üyeler ile gerek görüldüğünde üniversitelerin tıp, hukuk, eğitim, mühendislik ve iletişim fakültelerinden seçilecek öğretim üyelerinden oluşan Komisyonu,”
 
@@ -55,7 +55,7 @@ MADDE 8 – Aynı Yönetmeliğin 16 ncı maddesinin birinci fıkrasının (c) be
 “Derslik pencerelerinin; doğal havalandırmaya müsaade edecek şekilde binanın dış cephesinde olması, pencere alanının bulunduğu bölümün taban alanının %10’undan az olmaması ve yerden yüksekliğinin 90 santimetreden fazla olmaması gerekir.”
 
 MADDE 9 – Aynı Yönetmeliğin 18 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 18 – (1) Eğitim kurumları,
+“**MADDE 18 –** (1) Eğitim kurumları,
 a) İş güvenliği uzmanlığı ve diğer sağlık personeli eğitimi için bu Yönetmelikte belirtilen eğitici belgesine sahip olan en az dört eğiticiyle tam süreli iş sözleşmesi yapar. Bu eğiticilerden en az biri mühendis olmak zorunda olup en fazla ikisi aynı meslek dalından olabilir.
 b) İşyeri hekimliği, iş güvenliği uzmanlığı ve diğer sağlık personeli eğitimi için bu Yönetmelikte belirtilen eğitici belgesine sahip olan biri işyeri hekimi olmak üzere ikisi hekim, ikisi mühendis ve kalan ikisi farklı meslek dalından olmak üzere en az altı eğiticiyle tam süreli iş sözleşmesi yapar.
 (2) Bakanlık ve Sağlık Bakanlığı ile bağlı ve ilgili kuruluşları;
@@ -170,4 +170,4 @@ Yapılacak denetimlere engel olunması, yapılacak denetim ve kontrollerde isten
 
 MADDE 27 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-MADDE 28 – Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.
+**MADDE 28 –** Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/01/20230113-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE
-BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE
-KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE**
+**BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE**
+**KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7431 Kabul Tarihi: 12/1/2023
 
 MADDE 1- 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun geçici 40 ıncı maddesinin birinci fıkrasında yer alan “2019 UEFA Süper Kupa Finali ve 2021 UEFA Şampiyonlar Ligi Finali müsabakalarına” ibaresi “2023 UEFA Şampiyonlar Ligi Finali müsabakasına” şeklinde değiştirilmiştir.

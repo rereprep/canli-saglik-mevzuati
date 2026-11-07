@@ -121,7 +121,7 @@ a) Eğitim programına katılma isteğini belirten dilekçe,
 
 b) Trafik zabıtası tarafından düzenlenen sürücü belgesi geri alma tutanağı örneği,
 
-c) ( Değişik:RG -3/4/2012-28253) T.C. Kimlik numarası beyanı,
+c) ( **Değişik:RG -3/4/2012-28253)** T.C. Kimlik numarası beyanı,
 
 d) 4 adet fotoğraf.
 

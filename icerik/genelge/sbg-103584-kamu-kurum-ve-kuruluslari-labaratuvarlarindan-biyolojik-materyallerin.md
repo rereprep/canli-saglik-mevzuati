@@ -11,7 +11,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-2.3.57. Kamu Kurum ve Kuruluşları Labaratuvarlarından Biyolojik Materyallerin Temini Protokolü Hakkındaki Usul ve Esasları Belirten Genelge (2013/19)
+2.3.57. **Kamu Kurum ve Kuruluşları Labaratuvarlarından Biyolojik Materyallerin Temini Protokolü Hakkındaki Usul ve Esasları Belirten Genelge (2013/19)**
 
 ### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü
 

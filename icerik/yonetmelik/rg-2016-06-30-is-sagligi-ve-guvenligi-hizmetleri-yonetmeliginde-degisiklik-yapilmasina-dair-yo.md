@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
-İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinin 5 inci maddesinin üçüncü fıkrasına aşağıdaki cümle eklenmiştir.
 “Birden fazla iş güvenliği uzmanı görevlendirilen kamu, maden, inşaat, metal, tekstil, sağlık, ulaşım, taşımacılık, ticaret, imalat, bakım, onarım, kurulum, enerji, kimya, tarım, ziraat, hayvancılık, mobilya, ormancılık, gıda, matbaa, atık yönetimi, su temini, temizlik, ilaçlama sektörlerine ait işyerlerinde, tam süreli iş güvenliği uzmanlarından sadece birisinde uygun belge sınıfı aranır.”

@@ -12,50 +12,50 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-9.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN KAMU
-GÖREVLİLERİ SENDİKALARI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN KAMU**
+**GÖREVLİLERİ SENDİKALARI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6289 Kabul Tarihi: 4/4/2012
 
-MADDE 1 – 25/6/2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikaları Kanununun adı “Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu” şeklinde değiştirilmiştir.
+**MADDE 1 –** 25/6/2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikaları Kanununun adı “Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu” şeklinde değiştirilmiştir.
 
-MADDE 2 – 4688 sayılı Kanunun 1 inci maddesinin birinci fıkrasında yer alan “her hizmet kolunda yetkili kamu görevlileri sendikaları ve bunların bağlı bulundukları konfederasyonlar ile Kamu İşveren Kurulu arasında yürütülecek toplu görüşmelere ilişkin esasları düzenlemektir” ibaresi “toplu sözleşme yapılmasına ilişkin usul ve esasları düzenlemektir” şeklinde değiştirilmiştir.
+**MADDE 2 –** 4688 sayılı Kanunun 1 inci maddesinin birinci fıkrasında yer alan “her hizmet kolunda yetkili kamu görevlileri sendikaları ve bunların bağlı bulundukları konfederasyonlar ile Kamu İşveren Kurulu arasında yürütülecek toplu görüşmelere ilişkin esasları düzenlemektir” ibaresi “toplu sözleşme yapılmasına ilişkin usul ve esasları düzenlemektir” şeklinde değiştirilmiştir.
 
-MADDE 3 – 4688 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (a), (h), (ı), (j) ve (k) bentleri aşağıdaki şekilde değiştirilmiştir.
+**MADDE 3 –** 4688 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (a), (h), (ı), (j) ve (k) bentleri aşağıdaki şekilde değiştirilmiştir.
 “a) Kamu görevlisi: Bu Kanun kapsamında yer alan kurum ve kuruluşların kadro veya pozisyonlarında istihdam edilenlerden işçi statüsü dışında çalışan kamu görevlilerini,” “h) Toplu sözleşme: Bu Kanunda belirtilen esaslar çerçevesinde kamu görevlilerinin mali ve sosyal haklarını belirlemek üzere yürütülen toplu sözleşme görüşmeleri sonucunda mutabık kalınması durumunda taraflarca imzalanan sözleşmeyi,
 ı) Toplantı tutanağı: Toplu sözleşme görüşmeleri sonucunda toplu sözleşme imzalanamaması halinde, tarafların uzlaştığı ve uzlaşamadığı konuların yer aldığı tutanağı,
 j) İşyeri sendika temsilcisi: Bir işyerinde en çok üye kaydetmiş sendikaca o işyerinden seçilen kamu görevlisini,
 k) Sendika işyeri temsilcisi: Bir işyerinde en çok üye kaydetmiş sendika dışındaki her bir sendika tarafından o işyerinden seçilen kamu görevlisini,”
 
-MADDE 4 – 4688 sayılı Kanunun 6 ncı maddesinin ikinci fıkrasında yer alan “en az iki yıldan beri” ibaresi madde metninden çıkarılmış, üçüncü, dördüncü ve altıncı fıkraları aşağıdaki şekilde değiştirilmiş ve yedinci fıkrasına “durdurulması için” ibaresinden sonra gelmek üzere “ilgili valilik bir ay içinde” ibaresi eklenmiştir.
+**MADDE 4 –** 4688 sayılı Kanunun 6 ncı maddesinin ikinci fıkrasında yer alan “en az iki yıldan beri” ibaresi madde metninden çıkarılmış, üçüncü, dördüncü ve altıncı fıkraları aşağıdaki şekilde değiştirilmiş ve yedinci fıkrasına “durdurulması için” ibaresinden sonra gelmek üzere “ilgili valilik bir ay içinde” ibaresi eklenmiştir.
 “Sendikanın kurucuları; sendika tüzüğü ve kamu görevlisi olduklarını gösterir belge ile sendikayı ilk genel kurula kadar sevk ve idare edeceklerin isimlerini kuruluş dilekçelerinin ekinde sendika merkezinin bulunacağı ilin valiliğine vermek zorundadırlar.
 Konfederasyon kurucuları, konfederasyon tüzüğü ile sendikaların konfederasyon kurulmasına ilişkin kurucular kurulu kararını ve konfederasyonu ilk genel kurula kadar sevk ve idare edeceklerin isimlerini konfederasyon merkezinin bulunacağı ilin valiliğine vermek zorundadırlar.
 Konfederasyonu ilk genel kurula kadar sevk ve idare edecekler, üyesi oldukları sendikaların zorunlu organlarına seçilmemişlerse, kamu görevlisi olduklarını gösterir belgeyi eklemekle yükümlüdürler.”
 “Valilik, tüzük ve belgelerin birer örneğini, onbeş işgünü içinde Çalışma ve Sosyal Güvenlik Bakanlığına gönderir.”
 
-MADDE 5 – 4688 sayılı Kanunun 7 nci maddesinin birinci fıkrasının (g), (k) ve (n) bentleri aşağıdaki şekilde değiştirilmiştir.
+**MADDE 5 –** 4688 sayılı Kanunun 7 nci maddesinin birinci fıkrasının (g), (k) ve (n) bentleri aşağıdaki şekilde değiştirilmiştir.
 “g) Genel kurulun görev ve yetkileri, oy kullanma ve karar alma usul ve yeter sayıları ile yönetim, denetleme ve disiplin kurullarının oluşumu, bu kurulların görevleri ve toplantı usulü.”
 “k) Üyelik ödentisinin oranı.”
 “n) Tüzüğün değiştirilmesi usulü, yapılacak ilk genel kurula sunulması ve geçmişe etkili olmaması kaydıyla ilgili makamlarca veya mahkemelerce kanuna aykırı görülerek düzeltilmesi istenen tüzük hükümlerinin değiştirilmesi için yönetim kuruluna yetki verilebilmesi.”
 
-MADDE 6 – 4688 sayılı Kanunun 8 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrasında yer alan “, Devlet Personel Başkanlığına” ibaresi madde metninden çıkarılmıştır.
+**MADDE 6 –** 4688 sayılı Kanunun 8 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrasında yer alan “, Devlet Personel Başkanlığına” ibaresi madde metninden çıkarılmıştır.
 “Sendika ve konfederasyonlar, birinci fıkrada belirtilen organların dışında da organlar kurabilir. Tüzüklerinde belirtilmesi kaydıyla genel kurul dışındaki organlar, görev, yetki ve sorumluluklarını kurulacak bu organlara devredebilir.”
 
-MADDE 7 – 4688 sayılı Kanunun 9 uncu maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 7 –** 4688 sayılı Kanunun 9 uncu maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Sendika şubesi genel kurulları ve üye sayısı bini aşan sendikaların genel kurulları delegelerle yapılabilir.”
 
-MADDE 8 – 4688 sayılı Kanunun 10 uncu maddesinin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiş ve sekizinci fıkrasına “tüzük hükümleri gereğince” ibaresinden sonra gelmek üzere “altmış günü geçmemek kaydıyla” ibaresi eklenmiştir.
+**MADDE 8 –** 4688 sayılı Kanunun 10 uncu maddesinin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiş ve sekizinci fıkrasına “tüzük hükümleri gereğince” ibaresinden sonra gelmek üzere “altmış günü geçmemek kaydıyla” ibaresi eklenmiştir.
 “Olağan genel kurul toplantıları dört yılı aşmamak üzere tüzüklerde belirtilen sürede yapılır.
 İki genel kurul toplantısı arasındaki döneme ilişkin faaliyet ve hesap raporu, denetleme kurulu veya denetçi raporu ile gelecek döneme ilişkin bütçe önerisi, genel kurula katılacaklara toplantı tarihinden en az onbeş gün önce yazılı veya elektronik ortamda gönderilir ve internet sitesinde ilan edilir.”
 
-MADDE 9 – 4688 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (h) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 9 –** 4688 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (h) bendi aşağıdaki şekilde değiştirilmiştir.
 “h) Sendika şubesi açma, şubeleri birleştirme veya kapatma; sendika şubesi açma ve başlangıçtaki kuruluş şartlarını kaybeden şubeleri kapatma konularında yönetim kuruluna yetki verme.”
 
-MADDE 10 – 4688 sayılı Kanunun 13 üncü maddesinin ikinci fıkrasının birinci cümlesine “denetçiden oluşur” ibaresinden önce gelmek üzere “, en çok beş” ibaresi eklenmiştir.
+**MADDE 10 –** 4688 sayılı Kanunun 13 üncü maddesinin ikinci fıkrasının birinci cümlesine “denetçiden oluşur” ibaresinden önce gelmek üzere “, en çok beş” ibaresi eklenmiştir.
 
-MADDE 11 – 4688 sayılı Kanunun 16 ncı maddesinin beşinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11 –** 4688 sayılı Kanunun 16 ncı maddesinin beşinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Çekilme, göreve son verilmesi veya sair nedenlerle kamu görevinden ayrılanların üyelikleri, sendika şubesi, sendika veya konfederasyon organlarındaki görevleri, farklı bir hizmet koluna giren kuruma atananlardan sendika üyesi olanların ise üyelikleri, varsa sendika şubesi ve sendika organlarındaki görevleri sona erer, ancak varsa konfederasyon organlarındaki görevleri devam eder.”
 
-MADDE 12 – 4688 sayılı Kanunun 17 nci maddesinin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+**MADDE 12 –** 4688 sayılı Kanunun 17 nci maddesinin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
 “Sendika veya konfederasyonlar, tüzüklerinde gösterilen amaçlarını gerçekleştirmek üzere uluslararası kuruluş kurabilir, amaçlarına uyan uluslararası kuruluşlara üye olabilir ve üyelikten çekilebilirler.
 Sendika ve konfederasyonlar ikinci fıkra kapsamına giren üyelik işlemlerini ve faaliyetlerini gerçekleşme tarihinden itibaren onbeş gün içinde Çalışma ve Sosyal Güvenlik Bakanlığına bildirir. Bildirime ilgili kuruluş tüzüğünün bir örneği de eklenir.”
 
@@ -68,7 +68,7 @@ MADDE 14 – 4688 sayılı Kanunun Dördüncü Kısım başlığında yer alan �
 “a) Genel olarak kamu personelinin hak ve ödevleri, çalışma koşulları, yükümlülükleri, iş güvenlikleri ile sağlık koşullarının geliştirilmesi konularında görüş bildirmek ve toplu sözleşmenin uygulanmasını izlemek üzere yapılacak çalışmalara temsilciler göndermek.”
 “h) Yangın, su baskını, deprem gibi tabii afetlerin vukuunda, gerektiğinde üyelik şartı aranmaksızın nakit mevcudunun yüzde onunu aşmamak kaydıyla afete uğrayan bölgelerde konut, sağlık ve eğitim tesisleri yapılması amacıyla kamu yararına çalışan dernekler ve Bakanlar Kurulunca vergi muafiyeti tanınan vakıflar ile kamu kurum ve kuruluşlarına aynî ve nakdî yardımda bulunmak, afete uğrayan bölgelerde konut ve sağlık tesisleri yapmak.”
 
-MADDE 15 – 4688 sayılı Kanunun Dördüncü Kısım İkinci Bölüm başlığı “Yönetime Katılma” şeklinde ve 21 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 15 –** 4688 sayılı Kanunun Dördüncü Kısım İkinci Bölüm başlığı “Yönetime Katılma” şeklinde ve 21 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Kamu Personeli Danışma Kurulu
 
 MADDE 21 – Kamu Personeli Danışma Kurulu, kamu görevlileri sendikaları ve konfederasyonları ile kamu idareleri arasında sosyal diyaloğun geliştirilmesi, kamu personel mevzuatının ve kamu yönetimi uygulamalarının değerlendirilmesi, yönetimin daha iyi işleyen bir yapıya kavuşturulması için ortak çalışmalar yürütülmesi, kamu görevlilerinin yönetime katılımının sağlanması ve kamu yönetiminin karşılaştığı sorunlara çözümler geliştirilmesi amacıyla; Devlet Personel Başkanlığının bağlı olduğu Bakanın başkanlığında, en çok üyeye sahip üç konfederasyonun genel başkanı ile her bir hizmet kolunda en çok üyeye sahip kamu görevlileri sendikasının başkanı ve Devlet Personel Başkanından oluşur. Kurula gündemde yer alan konulara göre diğer kamu kurum ve kuruluşlarının yetkilileri de davet edilebilir.
@@ -76,7 +76,7 @@ MADDE 21 – Kamu Personeli Danışma Kurulu, kamu görevlileri sendikaları ve 
 Kurul, her yıl mart ve kasım aylarında toplanır.
 Kurulun sekretarya hizmetleri Devlet Personel Başkanlığınca yürütülür.”
 
-MADDE 16 – 4688 sayılı Kanunun 23 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 16 –** 4688 sayılı Kanunun 23 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “İşyeri sendika temsilcileri ve sendika işyeri temsilcileri
 
 MADDE 23 – İşyerlerinde 30 uncu madde uyarınca yapılan tespite göre kamu görevlilerinden en çok üye kaydetmiş sendika, işyeri sendika temsilcisi seçmeye yetkilidir.
@@ -86,9 +86,9 @@ Bu temsilcilerden biri ilgili sendika tarafından baştemsilci olarak görevlend
 Bir işyerinde en çok üye kaydetmiş sendikanın dışında faaliyette bulunan sendikalar da, bu Kanun kapsamına giren sendikal faaliyetlerin yürütülmesi açısından koordinasyon görevini yürütmek üzere o işyerinden sendika işyeri temsilcisi belirleyebilirler.
 Kamu işvereni, yönetim ve hizmetin işleyişini engellemeyecek biçimde sendika temsilcilerine çalışma saatleri içinde ve dışında görevlerini yapabilmeleri için imkânlar ölçüsünde kolaylıklar sağlar.”
 
-MADDE 17 – 4688 sayılı Kanunun 25 inci maddesinin birinci fıkrasına “işyerinde herkesin görebileceği yerde” ibaresinden sonra gelmek üzere “ve kurumsal düzeyde duyurulabilecek diğer araçlarla” ibaresi eklenmiştir.
+**MADDE 17 –** 4688 sayılı Kanunun 25 inci maddesinin birinci fıkrasına “işyerinde herkesin görebileceği yerde” ibaresinden sonra gelmek üzere “ve kurumsal düzeyde duyurulabilecek diğer araçlarla” ibaresi eklenmiştir.
 
-MADDE 18 – 4688 sayılı Kanunun Altıncı Kısım başlığı “Toplu Sözleşme” şeklinde ve 28 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 18 –** 4688 sayılı Kanunun Altıncı Kısım başlığı “Toplu Sözleşme” şeklinde ve 28 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Toplu sözleşmenin kapsamı
 
 MADDE 28 – Toplu sözleşme; kamu görevlilerinin mali ve sosyal haklarını düzenleyen mevcut mevzuat hükümleri dikkate alınarak kamu görevlilerine uygulanacak katsayı ve göstergeler, aylık ve ücretler, her türlü zam ve tazminatlar, ek ödeme, toplu sözleşme ikramiyesi, fazla çalışma ücreti, harcırah, ikramiye, doğum, ölüm ve aile yardımı ödenekleri, cenaze giderleri, yiyecek ve giyecek yardımları ve diğer mali ve sosyal hakları kapsar.
@@ -96,7 +96,7 @@ Toplu sözleşme ikramiyesi hariç olmak üzere toplu sözleşme hükümlerinin 
 Toplu sözleşme hükümleri, sözleşmenin yapıldığı tarihi takip eden iki mali yıl için geçerlidir.
 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa göre aylık ödenmekte olanların aylıklarının hesabında da toplu sözleşme hükümlerine göre belirlenen aylık ve taban aylık katsayıları esas alınır. 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalılık hali esas alınarak bağlanan yaşlılık, malullük veya ölüm aylıklarında yapılacak artışlar hakkında 5510 sayılı Kanunun 55 inci maddesinin ikinci fıkrası uygulanmaz ve bu aylıklar toplu sözleşme hükümlerine göre belirlenen aylık ve taban aylık katsayılarındaki artış dikkate alınarak artırılır.”
 
-MADDE 19 – 4688 sayılı Kanunun 29 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 19 –** 4688 sayılı Kanunun 29 uncu maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Toplu sözleşmenin tarafları ve imza yetkisi
 
 MADDE 29 – Toplu sözleşme görüşmelerine kamu idaresi adına Kamu İşveren Heyeti, kamu görevlileri adına Kamu Görevlileri Sendikaları Heyeti katılır.
@@ -108,7 +108,7 @@ Bu madde hükümlerine göre toplu sözleşmenin imzalanan bölümlerine ilişki
 MADDE 20 – 4688 sayılı Kanunun Altıncı Kısım İkinci Bölüm başlığı “Üye Sayılarının Tespiti ve Toplu Sözleşme Görüşmeleri”, 30 uncu maddesinin başlığı “Üye sayılarının tespiti” şeklinde değiştirilmiş, aynı maddenin birinci fıkrası yürürlükten kaldırılmış, ikinci fıkrasında yer alan “Yetkili sendika ve konfederasyonların” ibaresi “Sendika ve konfederasyonların üye sayılarının” şeklinde değiştirilmiş, aynı fıkranın son paragrafında yer alan “her hizmet kolundaki yetkili” ibaresi madde metninden çıkarılmış ve maddeye aşağıdaki fıkra eklenmiştir.
 “Sonuçların yayımı tarihinden itibaren beş işgünü içinde kamu görevlileri sendikaları ile konfederasyonlarının üye sayılarının yanlışlığı iddiasıyla sendika ve konfederasyonlarca Ankara İş Mahkemesine itiraz edilebilir. Mahkeme itirazı onbeş gün içinde karara bağlar.”
 
-MADDE 21 – 4688 sayılı Kanunun 31 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 21 –** 4688 sayılı Kanunun 31 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Toplu sözleşme görüşmeleri
 
 MADDE 31 – Toplu sözleşme görüşmeleri son rakamı tek olan yıllarda yapılır.
@@ -119,14 +119,14 @@ Toplu sözleşme görüşme süreci sonunda, kamu görevlilerinin geneline yöne
 İmzalanan toplu sözleşme metinleri Resmî Gazetede yayımlanır.
 Toplu sözleşme görüşmelerine katılmaya yetkili hiçbir konfederasyon temsilcisinin toplu sözleşme görüşmelerine katılmaması veya toplu sözleşme görüşmelerinin uzlaşmazlıkla sonuçlanmasına rağmen tarafların Kamu Görevlileri Hakem Kuruluna başvurmaması halinde, kamu görevlilerine sonraki iki mali yıl boyunca uygulanacak mali ve sosyal haklar genel hükümlere göre belirlenir.”
 
-MADDE 22 – 4688 sayılı Kanunun 32 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 22 –** 4688 sayılı Kanunun 32 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Mahalli idarelerde sözleşme imzalanması
 
 MADDE 32 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi hükümleri çerçevesinde sosyal denge tazminatının ödenmesine belediyelerde belediye başkanının teklifi üzerine belediye meclisince, il özel idaresinde valinin teklifi üzerine il genel meclisince karar verilmesi halinde, sözleşme döneminde verilecek sosyal denge tazminatı tutarını belirlemek üzere ilgili mahalli idarede en çok üyeye sahip sendikanın genel başkanı veya sendika yönetim kurulu tarafından yetkilendirilecek bir temsilcisi ile belediyelerde belediye başkanı, il özel idaresinde vali arasında toplu sözleşme sürecinin tamamlanmasını izleyen üç ay içerisinde sözleşme yapılabilir. Bu sözleşme bu Kanunun uygulanması bakımından toplu sözleşme sayılmaz ve bu kapsamda Kamu Görevlileri Hakem Kuruluna başvurulamaz.
 Yapılacak sözleşme, toplu sözleşme dönemi ile sınırlı olarak uygulanır ve sözleşme süresi hiçbir şekilde izleyen mahalli idareler genel seçimi tarihini geçemez. Mahalli idareler genel seçim tarihini izleyen üç ay içerisinde de toplu sözleşme dönemiyle sınırlı olmak üzere sözleşme yapılabilir. Bu sözleşmeye dayanılarak yapılan ödemeler kazanılmış hak sayılmaz.
 İlgili mahalli idarenin; vadesi geçmiş vergi, sosyal güvenlik primi ile Hazine Müsteşarlığına olan borç toplamının gerçekleşen en son yıl bütçe gelirlerinin yüzde onunu aşması, ödeme süresi geçtiği halde ödenmemiş aylık ve ücret borcu bulunması veya gerçekleşen en son yıla ilişkin toplam personel giderinin, gerçekleşen en son yıl bütçe gelirlerinin belediyelerde yüzde otuzunu, il özel idaresinde yüzde yirmibeşini aşması hallerinde bu madde kapsamında sözleşme yapılamaz. Sözleşmenin yapılmasından sonra bu koşulların oluşması durumunda mevcut sözleşme kendiliğinden hükümsüz kalır.”
 
-MADDE 23 – 4688 sayılı Kanunun 32 nci maddesinden sonra gelmek üzere aşağıdaki bölüm ve başlığı eklenmiş, 33 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiş ve Altıncı Kısım Üçüncü Bölüm başlığı yürürlükten kaldırılmıştır.
+**MADDE 23 –** 4688 sayılı Kanunun 32 nci maddesinden sonra gelmek üzere aşağıdaki bölüm ve başlığı eklenmiş, 33 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiş ve Altıncı Kısım Üçüncü Bölüm başlığı yürürlükten kaldırılmıştır.
 “ÜÇÜNCÜ BÖLÜM Uyuşmazlıkların Çözüm Usulleri Uyuşmazlık hali
 
 MADDE 33 – Toplu sözleşme görüşme süreci sonunda toplu sözleşme imzalanamaması halinde, üzerinde uzlaşılan ve uzlaşılamayan konuları içeren toplantı tutanağı, tutanağın kamu görevlilerinin geneline yönelik bölümü Kamu Görevlileri Sendikaları Heyeti Başkanı ve hizmet kollarına yönelik bölümleri ilgili sendika temsilcisi ile Kamu İşveren Heyeti Başkanı tarafından imzalanır.
@@ -134,7 +134,7 @@ Toplu sözleşme görüşmelerinin uzlaşmazlıkla sonuçlanması ve toplantı t
 Toplantı tutanağı imzalanmasından veya görüşmelerin uzlaşmazlıkla sonuçlandığının tespit tutanağı ile belirlenmesinden itibaren üç işgünü içerisinde sözleşmenin ilgili bölümlerini imzalamaya yetkili olanlar tarafından imzalamaya yetkili oldukları bölümler için Kamu Görevlileri Hakem Kuruluna başvurulabilir.
 Toplu sözleşme kapsamına girmeyen konulara ilişkin olarak Kamu Görevlileri Hakem Kuruluna başvurulamaz.”
 
-MADDE 24 – 4688 sayılı Kanunun 34 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 24 –** 4688 sayılı Kanunun 34 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Kamu Görevlileri Hakem Kurulu
 
 MADDE 34 – Kamu Görevlileri Hakem Kurulu her toplu sözleşme dönemi için;
@@ -152,34 +152,34 @@ Kurul kararları taraflara üç gün içerisinde yazılı olarak bildirilir ve R
 Her toplantı günü için toplantıya katılan Kamu Görevlileri Hakem Kurulu Başkanına (5000), üyelere (4500) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak miktarda toplantı ücreti ödenir.
 Kamu Görevlileri Hakem Kurulunun sekretarya hizmetleri Devlet Personel Başkanlığınca yürütülür. Toplu sözleşme görüşmeleri ile Kamu Görevlileri Hakem Kurulu çalışmalarına katılacak olanların ağırlama, konaklama, yolluk ve gündelikleri ile diğer her türlü giderleri Devlet Personel Başkanlığı bütçesine konulacak ödenekten karşılanır.”
 
-MADDE 25 – 4688 sayılı Kanunun 41 inci maddesinin birinci fıkrasının (c) ve (d) bentleri aşağıdaki şekilde değiştirilmiş ve (f) bendi yürürlükten kaldırılmıştır.
+**MADDE 25 –** 4688 sayılı Kanunun 41 inci maddesinin birinci fıkrasının (c) ve (d) bentleri aşağıdaki şekilde değiştirilmiş ve (f) bendi yürürlükten kaldırılmıştır.
 “c) Kamu Personeli Danışma Kurulu ve Kamu Görevlileri Hakem Kurulunun çalışma usul ve esasları, toplu sözleşme görüşmelerinin yapılma usul ve esasları ile bu Kanunun uygulanmasını göstermek üzere ihtiyaç duyulacak diğer hususlar,
 d) Sendika üye sayıları ve bunların bağlı bulundukları konfederasyonların belirlenmesine ilişkin usul ve esaslar,”
 
-MADDE 26 – 4688 sayılı Kanunun 42 nci maddesinin ikinci fıkrasında yer alan “Yüksek İdarî Kurula” ibaresi “Kamu Personeli Danışma Kuruluna” şeklinde değiştirilmiştir.
+**MADDE 26 –** 4688 sayılı Kanunun 42 nci maddesinin ikinci fıkrasında yer alan “Yüksek İdarî Kurula” ibaresi “Kamu Personeli Danışma Kuruluna” şeklinde değiştirilmiştir.
 
-MADDE 27 – 4688 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 27 –** 4688 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 11 – 2012 ve 2013 yıllarına ilişkin mali ve sosyal hakları belirlemek üzere yapılacak toplu sözleşme görüşmelerine, bu maddenin yürürlüğe girdiği tarihten itibaren bir ay içerisinde başlanır. Kamu Görevlileri Sendikaları Heyet üyelerinin bildirimi, toplu sözleşme tekliflerinin verilmesi ve görüşmelerin başlama tarihinin bildirimi ile Kamu Görevlileri Hakem Kurulu üyelerinin belirlenmesine ilişkin 29, 31 ve 34 üncü maddelerde öngörülen süreler dikkate alınmaz. Bu toplu sözleşme görüşmelerine katılacak sendika ve konfederasyonların belirlenmesinde 7/7/2011 tarihli ve 27987 sayılı Resmî Gazetede yayımlanan 4688 sayılı Kamu Görevlileri Sendikaları Kanunu Gereğince Kamu Görevlileri Sendikaları ile Konfederasyonların Üye Sayılarına İlişkin 2011 Temmuz İstatistikleri Hakkında Tebliğ hükümleri esas alınır.”
 
-MADDE 28 – 4688 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 28 –** 4688 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 12 – 30 uncu maddenin ikinci fıkrasının (a) bendinde öngörülen tespit 2012 yılı için 15 Haziran 2012 tarihi esas alınarak gerçekleştirilir ve en geç 29 Haziran 2012 tarihine kadar Çalışma ve Sosyal Güvenlik Bakanlığına gönderilir. Aynı fıkranın (b) bendi uyarınca yapılacak tespit ise 15 Haziran 2012 tarihi esas alınarak yapılır ve 10 Ağustos 2012 tarihine kadar Resmî Gazetede yayımlanır.”
 
-MADDE 29 – 4688 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 29 –** 4688 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 13 – 41 inci maddenin birinci fıkrasının (c) bendinde belirtilen yönetmelik bir ay içinde yürürlüğe konulur.”
 
-MADDE 30 – 4688 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 30 –** 4688 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 14 – 15/3/2012 tarihinden önce 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi kapsamındaki idareler ile ilgili sendikalar arasında toplu iş sözleşmesi, toplu sözleşme, sosyal denge sözleşmesi ve benzeri adlar altında imzalanan sözleşmelerin uygulanmasına, söz konusu sözleşmelerde öngörülen sürelerin sonuna kadar devam edilebilir. Anılan sözleşmelerin uygulanmasına devam edildiği dönem için 32 nci madde hükümleri çerçevesinde ayrıca sözleşme yapılamaz. Söz konusu sözleşmeleri 31/12/2015 tarihinden önce sona eren veya mevcut sözleşmeleri bu maddenin yürürlüğe girdiği tarihten sonra karşılıklı olarak feshedilen kapsama dahil idareler, sözleşmelerinin sona eriş veya fesih tarihini izleyen bir ay içinde sözleşmelerin sona erdiği veya feshedildiği tarih ile bu Kanunda öngörülen toplu sözleşme dönemi sonuna kadarki dönemle sınırlı olmak üzere üçüncü fıkra hükümleri dikkate alınmaksızın 32 nci madde hükümleri çerçevesinde sözleşme yapabilir. Ancak 32 nci madde uyarınca toplu sözleşmede belirlenen tavan tutarın, unvanlar itibarıyla ilgili personele söz konusu sözleşmeler uyarınca yapılmakta olan ortalama aylık ödemenin altında kalması halinde; üçüncü fıkra hükümleri dikkate alınmaksızın 32 nci madde hükümleri esas alınarak 31/12/2015 tarihine kadar uygulanabilecek sözleşmelerde bu maddenin yürürlüğe girdiği tarihte uygulanan sözleşme uyarınca unvanlar itibarıyla ilgili personele ödenen ortalama aylık tutar tavan olarak esas alınabilir. Bu şekilde yapılacak ödemeler kazanılmış hak sayılmaz.
 Konusu suç teşkil etmemek ve kesinleşmiş bir yargı kararına müstenit olmamak kaydıyla, 15/3/2012 tarihine kadar, memur temsilcileri ile toplu iş sözleşmesi akdederek veya başka bir tasarrufta bulunarak 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi kapsamındaki idarelerde çalışan kamu personeline her ne ad altında olursa olsun ek ödemede bulunmaları nedeniyle kamu görevlileri hakkında idari veya mali takibat ve yargılama yapılamaz, başlatılanlar işlemden kaldırılır.”
 
-MADDE 31 – 4688 sayılı Kanunun;
+**MADDE 31 –** 4688 sayılı Kanunun;
 a) 5 inci maddesinin ikinci fıkrası ile 35 inci maddesi yürürlükten kaldırılmış,
 b) 15 inci maddesinin birinci fıkrasının (c) bendinde yer alan “100 ve daha fazla kamu görevlisinin çalıştığı işyerlerinin en üst amirleri ile yardımcıları,” ile (j) bendinde yer alan “ile kamu kurum ve kuruluşlarının özel güvenlik personeli” ibareleri madde metninden çıkarılmıştır.
 
-MADDE 32 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 4 üncü maddesinin birinci fıkrasında yer alan “toplu sözleşme primi” ibaresi “toplu sözleşme ikramiyesi” şeklinde değiştirilmiş ve ek 10 uncu maddesinin ikinci fıkrasına “28 inci” ibaresinden sonra gelmek üzere “, ek 1 inci, ek 4 üncü” ibaresi eklenmiştir.
+**MADDE 32 –** 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 4 üncü maddesinin birinci fıkrasında yer alan “toplu sözleşme primi” ibaresi “toplu sözleşme ikramiyesi” şeklinde değiştirilmiş ve ek 10 uncu maddesinin ikinci fıkrasına “28 inci” ibaresinden sonra gelmek üzere “, ek 1 inci, ek 4 üncü” ibaresi eklenmiştir.
 
-MADDE 33 – 375 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
+**MADDE 33 –** 375 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
 “EK MADDE 15 – Belediyeler ve bağlı kuruluşları ile il özel idarelerinin kadro ve pozisyonlarında istihdam edilen kamu görevlilerine sosyal denge tazminatı ödenebilir. Sosyal denge tazminatının ödenebilecek aylık tutarı, 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanununa göre yapılan toplu sözleşmede belirlenen tavan tutarı geçmemek üzere ilgili belediye ve il özel idaresi ile ilgili belediye ve il özel idaresinde en çok üyeye sahip kamu görevlileri sendikası arasında anılan Kanunda öngörülen hükümler çerçevesinde yapılabilecek sözleşmeyle belirlenir.”
 
-MADDE 34 – Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 34 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 35 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 35 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

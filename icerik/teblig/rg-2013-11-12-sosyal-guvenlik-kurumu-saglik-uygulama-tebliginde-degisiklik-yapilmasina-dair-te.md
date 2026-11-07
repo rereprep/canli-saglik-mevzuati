@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
-MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.9.3 numaralı maddesinin birinci fıkrasının ilk cümlesi aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki bent eklenmiştir.
+**MADDE 1 –** 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.9.3 numaralı maddesinin birinci fıkrasının ilk cümlesi aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki bent eklenmiştir.
 “Aşağıda belirtilen sağlık hizmetleri için hiçbir ilave ücret alınamaz. Ancak; yükseköğretim kurumlarına ait sağlık hizmeti sunucularında (vakıf üniversiteleri hariç) öğretim üyesi tarafından verilen SUT’un 2.1.1 numaralı maddesi kapsamındaki sağlık hizmetleri, kardiyovasküler cerrahi işlemler ve 18 yaşını doldurmamış çocuklar hariç olmak üzere SUT eki EK-2/B ve EK-2/C Listesindeki 618200-P618200 kodlu “Koklear implant yerleştirilmesi işlemi için ilave ücret alınabilir.”
 “h) SUT eki EK-2/B ve EK-2/C Listesindeki 618200-P618200 kodlu “Koklear implant yerleştirilmesi” işlemi.”
 

@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ KISIM
 
-Amaç, Kapsam, Dayanak, Tanımlar, Muafiyet
+**Amaç, Kapsam, Dayanak, Tanımlar, Muafiyet**
 
 #### Amaç
 
@@ -46,61 +46,61 @@ Bu Yönetmelik nükleer tesisler, nükleer yakıtlar, nükleer tesislerden çık
 
 ### İKİNCİ KISIM
 
-(Değişik ibare:RG-3/6/2010-27600) Radyasyondan Korunma da Temel Güvenlik Standartları
+**(Değişik ibare:RG-3/6/2010-27600) Radyasyondan Korunma da Temel Güvenlik Standartları**
 
 ### BİRİNCİ BÖLÜM
 
-(Değişik ibare:RG-3/6/2010-27600) Radyasyondan Korunma Sistemi
+**(Değişik ibare:RG-3/6/2010-27600) Radyasyondan Korunma Sistemi**
 
 #### Doz sınırlama sisteminin temel ilkeleri
 
 **Madde 7 –** (Değişik ibare:RG-3/6/2010-27600) Radyasyondan korunma da kullanılan, doz sınırlama sisteminin üç temel ilkesi aşağıda verilmiştir:
 
-a) Uygulamaların Gerekliliği: Işınlanmanın zararlı sonuçları gözönünde bulundurularak, net bir fayda sağlamayan hiçbir radyasyon uygulamasına izin verilemez.
+**a) Uygulamaların Gerekliliği:** Işınlanmanın zararlı sonuçları gözönünde bulundurularak, net bir fayda sağlamayan hiçbir radyasyon uygulamasına izin verilemez.
 
-b) (Değişik:RG-3/6/2010-27600) Optimizasyon: Radyasyona maruz kalmaya sebep olan uygulamalarda, olası tüm ışınlanmalar için bireysel dozların büyüklüğü, ışınlanacak kişilerin sayısı, ekonomik ve sosyal faktörler göz önünde bulundurularak mümkün olan en düşük dozun alınması sağlanır.
+**b) (Değişik:RG-3/6/2010-27600) Optimizasyon:** Radyasyona maruz kalmaya sebep olan uygulamalarda, olası tüm ışınlanmalar için bireysel dozların büyüklüğü, ışınlanacak kişilerin sayısı, ekonomik ve sosyal faktörler göz önünde bulundurularak mümkün olan en düşük dozun alınması sağlanır.
 
-c) (Değişik:RG-3/6/2010-27600) Doz Sınırlaması: Tıbbi ışınlamalar hariç, izin verilen tüm ışınlamaların neden olduğu ilgili organ veya dokudaki eşdeğer doz ve etkin doz, bu Yönetmeliğin 10 uncu maddesinde belirtilen yıllık doz sınırlarını aşamaz.
+**c) (Değişik:RG-3/6/2010-27600) Doz Sınırlaması:** Tıbbi ışınlamalar hariç, izin verilen tüm ışınlamaların neden olduğu ilgili organ veya dokudaki eşdeğer doz ve etkin doz, bu Yönetmeliğin 10 uncu maddesinde belirtilen yıllık doz sınırlarını aşamaz.
 
 ### İKİNCİ BÖLÜM
 
-Doz Sınırları
+**Doz Sınırları**
 
 #### Doz sınırları ile ilgili kavramlar
 
 **Madde 8 –** (Değişik ibare:RG-3/6/2010-27600) Radyasyondan korunma da kullanılan doz sınırlarına ilişkin kavramlar aşağıda belirtilmiştir:
 
-• Birincil Sınırlar: Radyasyon görevlilerinin veya toplum bireylerinin alabileceği yıllık "eşdeğer doz", "etkin doz", "yüklenmiş eşdeğer doz", "yüklenmiş etkin doz" veya belirlenen bireyler topluluğunun "toplum etkin dozu" sınırlarıdır.
+• **Birincil Sınırlar:** Radyasyon görevlilerinin veya toplum bireylerinin alabileceği yıllık "eşdeğer doz", "etkin doz", "yüklenmiş eşdeğer doz", "yüklenmiş etkin doz" veya belirlenen bireyler topluluğunun "toplum etkin dozu" sınırlarıdır.
 
-b) İkincil Sınırlar : Birincil doz sınırlarının doğrudan uygulanamadığı durumlarda kullanılan doz sınırlarıdır. İkincil sınırlar, dış ışınlanma durumunda "eşdeğer doz indeksi" ile iç ışınlanma durumunda ise, "yıllık vücuda alınma sınırları" (ALI) cinsinden ifade edilir.
+**b) İkincil Sınırlar :** Birincil doz sınırlarının doğrudan uygulanamadığı durumlarda kullanılan doz sınırlarıdır. İkincil sınırlar, dış ışınlanma durumunda "eşdeğer doz indeksi" ile iç ışınlanma durumunda ise, "yıllık vücuda alınma sınırları" (ALI) cinsinden ifade edilir.
 
-c) Türetilmiş Sınırlar: Belirli bir modele göre birincil sınırlardan türetilmiş sınırlar olup, bunlara uyulduğu takdirde, birincil sınırlara da uyulduğu kabul edilir.
+**c) Türetilmiş Sınırlar:** Belirli bir modele göre birincil sınırlardan türetilmiş sınırlar olup, bunlara uyulduğu takdirde, birincil sınırlara da uyulduğu kabul edilir.
 
-d) İzin Verilen Sınırlar: Kurum tarafından saptanan ve genellikle birincil ve ikincil sınırlardan daha düşük olan sınırlardır.
+**d) İzin Verilen Sınırlar:** Kurum tarafından saptanan ve genellikle birincil ve ikincil sınırlardan daha düşük olan sınırlardır.
 
-e) İşletme Sınırları: Hangi türden olursa olsun, bütün radyasyon kaynakları için Kurum tarafından saptanan birincil ve ikincil sınırları aşmamak koşulu ile Lisans Sahibi tarafından belirlenen sınırlardır.
+**e) İşletme Sınırları:** Hangi türden olursa olsun, bütün radyasyon kaynakları için Kurum tarafından saptanan birincil ve ikincil sınırları aşmamak koşulu ile Lisans Sahibi tarafından belirlenen sınırlardır.
 
 #### Referans düzeyleri
 
 **Madde 9 –** (Değişik ibare:RG-3/6/2010-27600) Radyasyondan korunma programlarında kullanılan herhangi bir büyüklük için özel bir uygulamanın başlatılması amacıyla belirlenen düzeylerdir. Kurum tarafından tespit edilen referans düzeyleri aşağıda verilmiştir.
 
-a) Kayıt Düzeyi: (Değişik ibare:RG-3/6/2010-27600) Radyasyondan korunmay ı sağlamak amacı ile, eşdeğer doz, etkin doz veya vücuda alınma miktarlarının kayıtlarının tutulması ve saklanması gerekmektedir. Bu Yönetmeliğin 10uncu maddesinde verilen yıllık doz sınırlarının aylık dönemlerde radyasyon görevlileri için 0.2 mSv, halk için ise 0.01 mSv'i aşması durumlarında kayıtlar tutulmaya başlanır.
+**a) Kayıt Düzeyi: (Değişik ibare:RG-3/6/2010-27600)** Radyasyondan korunmay ı sağlamak amacı ile, eşdeğer doz, etkin doz veya vücuda alınma miktarlarının kayıtlarının tutulması ve saklanması gerekmektedir. Bu Yönetmeliğin 10uncu maddesinde verilen yıllık doz sınırlarının aylık dönemlerde radyasyon görevlileri için 0.2 mSv, halk için ise 0.01 mSv'i aşması durumlarında kayıtlar tutulmaya başlanır.
 
-b) İnceleme Düzeyi: Üzerinde daha fazla inceleme yapılmasını gerektiren eşdeğer doz, etkin doz veya vücuda alınma miktarlarıdır. Bu düzey, bir ay için bu Yönetmeliğin 10uncu maddesinde verilen yıllık eşdeğer doz sınırının 1/10'udur.
+**b) İnceleme Düzeyi:** Üzerinde daha fazla inceleme yapılmasını gerektiren eşdeğer doz, etkin doz veya vücuda alınma miktarlarıdır. Bu düzey, bir ay için bu Yönetmeliğin 10uncu maddesinde verilen yıllık eşdeğer doz sınırının 1/10'udur.
 
-c) (Değişik:RG-3/6/2010-27600) Müdahale Düzeyi: Kurum tarafından önceden belirlenen ve aşılması durumunda müdahaleyi gerektiren eşdeğer doz, etkin doz veya vücuda alınma miktarlarını gösteren değerler olup bu Yönetmeliğin 10 uncu maddesinde verilen yıllık eşdeğer doz sınırının bir defada alınması ve aynı yıl içinde bu değerin aşılması durumudur. Müdahale düzeylerinden;
+**c) (Değişik:RG-3/6/2010-27600) Müdahale Düzeyi:** Kurum tarafından önceden belirlenen ve aşılması durumunda müdahaleyi gerektiren eşdeğer doz, etkin doz veya vücuda alınma miktarlarını gösteren değerler olup bu Yönetmeliğin 10 uncu maddesinde verilen yıllık eşdeğer doz sınırının bir defada alınması ve aynı yıl içinde bu değerin aşılması durumudur. Müdahale düzeylerinden;
 
-1) Eylem düzeyi; sürekli ışınlanmalar veya tehlike durumunda, iyileştirici veya koruyucu eylemler gerektiren, eşdeğer doz hızı veya radyoaktivite konsantrasyon düzeyidir. Eylem düzeyi, ani ışınlamalar için bu Yönetmeliğin 48 inci maddesinde, sürekli ışınlamalar içinse 49 uncu maddesinde verilmektedir.
+**1) Eylem düzeyi;** sürekli ışınlanmalar veya tehlike durumunda, iyileştirici veya koruyucu eylemler gerektiren, eşdeğer doz hızı veya radyoaktivite konsantrasyon düzeyidir. Eylem düzeyi, ani ışınlamalar için bu Yönetmeliğin 48 inci maddesinde, sürekli ışınlamalar içinse 49 uncu maddesinde verilmektedir.
 
-2) Rehber düzey; aşılması durumunda önlem alınmasını gerektirebilen doz düzeyi olup, kronik ışınlanmalarda öngörülen rehber düzeyler bu Yönetmeliğin 37 nci maddesinde, tıbbi uygulamalarda öngörülen rehber düzeyler ise bu Yönetmeliğin 28 inci maddesinde belirtilmektedir.
+**2) Rehber düzey;** aşılması durumunda önlem alınmasını gerektirebilen doz düzeyi olup, kronik ışınlanmalarda öngörülen rehber düzeyler bu Yönetmeliğin 37 nci maddesinde, tıbbi uygulamalarda öngörülen rehber düzeyler ise bu Yönetmeliğin 28 inci maddesinde belirtilmektedir.
 
 #### Yıllık doz sınırları
 
 **Madde 10 –** Yıllık doz sınırları sağlığa zarar vermeyecek şekilde uluslararası standartlara uygun olarak, Kurum tarafından radyasyon görevlileri ve toplum üyesi kişiler için ayrı ayrı belirlenmiştir. Yıllık toplam doz aynı yıl içindeki dış ışınlama ile iç ışınlamadan alınan dozların toplamıdır. Kişilerin, denetim altındaki kaynaklar ve uygulamalardan dolayı bu sınırların üzerinde radyasyon dozuna maruz kalmalarına izin verilemez ve bu sınırlara tıbbi ışınlamalar ve doğal radyasyon nedeniyle maruz kalınacak dozlar dahil edilemez.
 
-a) (Değişik:RG-29/9/2004-25598) Radyasyon görevlileri için etkin doz ardışık beş yılın ortalaması 20 mSv'i, herhangi bir yılda ise 50 mSv'i geçemez. El ve ayak veya cilt için yıllık eşdeğer doz sınırı 500 mSv, göz merceği için 150 mSv'dir. Cilt için en yüksek radyasyon dozuna maruz kalan 1 cm2'lik alanın eşdeğer dozu, diğer alanların aldığı doza bakılmaksızın ortalama cilt eşdeğer dozu olarak kabul edilir.
+**a) (Değişik:RG-29/9/2004-25598)** Radyasyon görevlileri için etkin doz ardışık beş yılın ortalaması 20 mSv'i, herhangi bir yılda ise 50 mSv'i geçemez. El ve ayak veya cilt için yıllık eşdeğer doz sınırı 500 mSv, göz merceği için 150 mSv'dir. Cilt için en yüksek radyasyon dozuna maruz kalan 1 cm2'lik alanın eşdeğer dozu, diğer alanların aldığı doza bakılmaksızın ortalama cilt eşdeğer dozu olarak kabul edilir.
 
-b) (Değişik:RG-29/9/2004-25598) Toplum üyesi kişiler için etkin doz yılda 1 mSv'i geçemez. Özel durumlarda; ardışık beş yılın ortalaması 1 mSv olmak üzere yılda 5 mSv'e kadar izin verilir. Cilt için yıllık eşdeğer doz sınırı 50 mSv, göz merceği için 15 mSv'dir
+**b) (Değişik:RG-29/9/2004-25598)** Toplum üyesi kişiler için etkin doz yılda 1 mSv'i geçemez. Özel durumlarda; ardışık beş yılın ortalaması 1 mSv olmak üzere yılda 5 mSv'e kadar izin verilir. Cilt için yıllık eşdeğer doz sınırı 50 mSv, göz merceği için 15 mSv'dir
 
 c) 18 yaşından küçükler Tüzüğün 6ncı maddesine göre radyasyon uygulaması işinde çalıştırılamazlar. Bu Yönetmeliğin 15inci maddesinin (b) bendinde belirtilen alanlarda, eğitim amaçlı olmak koşuluyla, eğitimleri radyasyon kaynaklarının kullanılmasını gerektiren 16-18 yaş arasındaki stajyerler ve öğrenciler için etkin doz, herhangi bir yılda 6 mSv'i geçemez. Ancak el, ayak veya deri için yıllık eşdeğer doz sınırı 150 mSv, göz merceği için 50 mSv'dir.
 
@@ -128,13 +128,13 @@ Emzirme dönemindeki kadın çalışanlar, radyoaktif kontaminasyon riski taşı
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Radyasyon Alanları
+**Radyasyon Alanları**
 
 #### Radyasyon alanlarının sınıflandırılması
 
 **Madde 15 –** Maruz kalınacak yıllık dozun 1 mSv değerini geçme olasılığı bulunan alanlar radyasyon alanı olarak nitelendirilir ve radyasyon alanları radyasyon düzeylerine göre aşağıdaki şekilde sınıflandırılır:
 
-a) Denetimli Alanlar: Radyasyon görevlilerinin giriş ve çıkışlarının özel denetime, çalışmalarının (Değişik ibare:RG-3/6/2010-27600) radyasyondan korunma bakımından özel kurallara bağlı olduğu ve görevi gereği radyasyon ile çalışan kişilerin ardışık beş yılın ortalama yıllık doz sınırlarının 3/10'undan fazla radyasyon dozuna maruz kalabilecekleri alanlardır.
+**a) Denetimli Alanlar:** Radyasyon görevlilerinin giriş ve çıkışlarının özel denetime, çalışmalarının **(Değişik ibare:RG-3/6/2010-27600)** radyasyondan korunma bakımından özel kurallara bağlı olduğu ve görevi gereği radyasyon ile çalışan kişilerin ardışık beş yılın ortalama yıllık doz sınırlarının 3/10'undan fazla radyasyon dozuna maruz kalabilecekleri alanlardır.
 
 Denetimli alanların girişlerinde ve bu alanlarda aşağıda belirtilen radyasyon uyarı levhaları bulunması zorunludur:
 
@@ -144,7 +144,7 @@ Denetimli alanların girişlerinde ve bu alanlarda aşağıda belirtilen radyasy
 
 3) Denetimli alanlar içinde radyasyon ve bulaşma tehlikesi bulunan bölgelerde geçirilecek sürenin sınırlandırılması ile koruyucu giysi ve araçlar kullanılması gerekliliğini gösteren uyarı işaretleri.
 
-b) Gözetimli Alanlar: Radyasyon görevlileri için yıllık doz sınırlarının 1/20'sinin aşılma olasılığı olup, 3/10'unun aşılması beklenmeyen, kişisel doz ölçümünü gerektirmeyen fakat çevresel radyasyonun izlenmesini gerektiren alanlardır.
+**b) Gözetimli Alanlar:** Radyasyon görevlileri için yıllık doz sınırlarının 1/20'sinin aşılma olasılığı olup, 3/10'unun aşılması beklenmeyen, kişisel doz ölçümünü gerektirmeyen fakat çevresel radyasyonun izlenmesini gerektiren alanlardır.
 
 #### Radyasyon alanlarının izlenmesi
 
@@ -156,15 +156,15 @@ b) Gözetimli Alanlar: Radyasyon görevlileri için yıllık doz sınırlarını
 
 #### Ziyaretçiler
 
-**Madde 18 –** Ziyaretçiler denetimli alanlara kesinlikle, gözetimli alanlara ise (Değişik ibare:RG-3/6/2010-27600) radyasyondan korunma sorumlusundan izin almadan giremezler. İzin verilen ziyaretçilerin giriş ve çıkış saatlerinin kayıtlarının tutulması (Değişik ibare:RG-3/6/2010-27600) radyasyondan korunma sorumlusu tarafından sağlanır.
+**Madde 18 –** Ziyaretçiler denetimli alanlara kesinlikle, gözetimli alanlara ise **(Değişik ibare:RG-3/6/2010-27600)** radyasyondan korunma sorumlusundan izin almadan giremezler. İzin verilen ziyaretçilerin giriş ve çıkış saatlerinin kayıtlarının tutulması **(Değişik ibare:RG-3/6/2010-27600)** radyasyondan korunma sorumlusu tarafından sağlanır.
 
 ### ÜÇÜNCÜ KISIM
 
-Işınlanmalar
+**Işınlanmalar**
 
 ### BİRİNCİ BÖLÜM
 
-Görev Gereği Işınlanmalar
+**Görev Gereği Işınlanmalar**
 
 #### Görev gereği ışınlanmalar
 
@@ -174,9 +174,9 @@ Görev Gereği Işınlanmalar
 
 **Madde 20 –** Görevleri gereği radyasyona maruz kalan kişilerin çalışma koşulları aşağıdaki şekilde sınıflandırılır:
 
-Çalışma Koşulu A: Yılda 6 mSv'den daha fazla etkin doza veya göz merceği, cilt, el ve ayaklar için yıllık eşdeğer doz sınırlarının 3/10'undan daha fazla doza maruz kalma olasılığı bulunan çalışma koşuludur.
+**Çalışma Koşulu A:** Yılda 6 mSv'den daha fazla etkin doza veya göz merceği, cilt, el ve ayaklar için yıllık eşdeğer doz sınırlarının 3/10'undan daha fazla doza maruz kalma olasılığı bulunan çalışma koşuludur.
 
-Çalışma Koşulu B: Çalışma Koşulu A'da verilen değerleri aşmayacak şekilde radyasyon dozuna maruz kalma olasılığı bulunan çalışma koşuludur.
+**Çalışma Koşulu B:** Çalışma Koşulu A'da verilen değerleri aşmayacak şekilde radyasyon dozuna maruz kalma olasılığı bulunan çalışma koşuludur.
 
 #### Kişisel dozimetre zorunluluğu
 
@@ -200,7 +200,7 @@ Dozimetri hizmeti verecek kuruluşların uygunluk ölçütleri ile çalışma us
 
 ### İKİNCİ BÖLÜM
 
-Tıbbi Işınlanmalar
+**Tıbbi Işınlanmalar**
 
 #### Hastanın radyasyondan korunması
 
@@ -262,7 +262,7 @@ b) 800 MBq'e kadar I - 131 radyoaktif maddesi verilen hastaların vücuttaki rad
 
 c) 600 MBq'e kadar aktivite verilen hastalar (e) bendi koşulları sağlanmak suretiyle taburcu edilir.
 
-d) Hastaya verilecek yukarda belirtilen talimatlar hastada kalan radyoaktivite miktarı ve hastanın fiziksel, sosyoekonomik ve yaşam koşulları göz önüne alınarak her hasta için özel olarak belirlenir. Hastanın özel koşulları değerlendirildikten sonra Ek-V'de verilen I-131 ile tedavi gören hastaların taburcu edilme koşullarına uymak ve hastaya, diğer kişilerle temasları ve (Değişik ibare:RG-3/6/2010-27600) radyasyondan korunma ile ilgili alınacak önlemler Ek-VI'da verilen format doğrultusunda sözlü ve yazılı talimatlar şeklinde imza karşılığı verilmek şartıyla taburcu edilir.
+d) Hastaya verilecek yukarda belirtilen talimatlar hastada kalan radyoaktivite miktarı ve hastanın fiziksel, sosyoekonomik ve yaşam koşulları göz önüne alınarak her hasta için özel olarak belirlenir. Hastanın özel koşulları değerlendirildikten sonra Ek-V'de verilen I-131 ile tedavi gören hastaların taburcu edilme koşullarına uymak ve hastaya, diğer kişilerle temasları ve **(Değişik ibare:RG-3/6/2010-27600)** radyasyondan korunma ile ilgili alınacak önlemler Ek-VI'da verilen format doğrultusunda sözlü ve yazılı talimatlar şeklinde imza karşılığı verilmek şartıyla taburcu edilir.
 
 e) Hasta bilgilerinin, hastalara verilen aktivite miktarının, taburcu edilen hastada kalan aktivite miktarının ve hastadan 1 m mesafedeki doz hızının saati ve tarihi belirtilecek şekilde kayıtları tutulur.
 
@@ -274,7 +274,7 @@ Tanı ve tedavi uygulamalarında hastanın planlanandan farklı radyasyon dozu a
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Toplumun Işınlanması
+**Toplumun Işınlanması**
 
 #### Toplumun ışınlanması
 
@@ -292,7 +292,7 @@ c) Çevreye verilecek radyoaktif maddelerin kritik gruplara erişme yolları,
 
 d) Radyasyon güvenliği konusunda alınacak önlemler.
 
-Raporda yer alan hususlar radyasyon güvenliği ve çevre sağlığı bakımından uygun görüldüğü takdirde, belirli tür ve miktarlarda radyoaktif maddelerin çevreye verilmelerine Kurum tarafından izin verilir. (Değişik son cümle:RG-3/6/2010-27600) Kurum tarafından raporda eksiklikler bulunması durumunda, bu eksikliklerin tamamlanması istenir ve eksiklikler tamamlanıncaya kadar çevreye radyoaktif madde verilmesine izin verilmez.
+Raporda yer alan hususlar radyasyon güvenliği ve çevre sağlığı bakımından uygun görüldüğü takdirde, belirli tür ve miktarlarda radyoaktif maddelerin çevreye verilmelerine Kurum tarafından izin verilir. **(Değişik son cümle:RG-3/6/2010-27600)** Kurum tarafından raporda eksiklikler bulunması durumunda, bu eksikliklerin tamamlanması istenir ve eksiklikler tamamlanıncaya kadar çevreye radyoaktif madde verilmesine izin verilmez.
 
 #### Çevreye verilen radyoaktif maddelerin denetimi ve izlenmesi
 
@@ -310,7 +310,7 @@ Kullanımından vazgeçilen ve bir daha kullanılması düşünülmeyen kapalı 
 
 **Madde 37 –** (Değişik:RG-29/9/2004-25598)
 
-Doğal ortamlardaki radyasyon seviyeleri gerektiğinde Kurum tarafından izlenir, gerekli görülen hallerde ilgili bakanlık, kurum ve kuruluşlarla işbirliği yapılır. Doğal radyasyon kaynaklarından maruz kalınan ışınlanmalara doz sınırlaması uygulanmaz. Ancak, ilk durumu değiştirilmiş olan doğal radyasyon kaynaklarından meydana gelen ışınlanmalara, bu Yönetmeliğin 7 nci maddesindeki (Değişik ibare:RG-3/6/2010-27600) radyasyondan korunma sistemi uygulanır.
+Doğal ortamlardaki radyasyon seviyeleri gerektiğinde Kurum tarafından izlenir, gerekli görülen hallerde ilgili bakanlık, kurum ve kuruluşlarla işbirliği yapılır. Doğal radyasyon kaynaklarından maruz kalınan ışınlanmalara doz sınırlaması uygulanmaz. Ancak, ilk durumu değiştirilmiş olan doğal radyasyon kaynaklarından meydana gelen ışınlanmalara, bu Yönetmeliğin 7 nci maddesindeki **(Değişik ibare:RG-3/6/2010-27600)** radyasyondan korunma sistemi uygulanır.
 
 Bu kaynaklardan radon için izin verilen konsantrasyon seviyeleri yıllık ortalama olarak evlerde 400 Bq/m3, işyerlerinde 1000 Bq/m3 değerlerini aşamaz.
 
@@ -334,7 +334,7 @@ Bu madde kapsamındaki faaliyetlerde çalışanlar, görevleri gereği aldıklar
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Kaza veya Tehlike Durumunda Işınlanma
+**Kaza veya Tehlike Durumunda Işınlanma**
 
 #### Tehlike durumu planı
 
@@ -376,7 +376,7 @@ Kaza veya Tehlike Durumunda Işınlanma
 
 **Madde 48 –** Ani ışınlanmalar için 2 günden daha az sürede organ veya dokuda soğurulması beklenen dozlar için müdahaleye ilişkin eylem düzeyleri Çizelge-1'de verilmiştir.
 
-Çizelge 1 - Ani Işınlamalar İçin Eylem Düzeyleri
+**Çizelge 1 - Ani Işınlamalar İçin Eylem Düzeyleri**
 
 | Organ veya doku | Doz, (Gy) |
 | Tüm vücut (kemik iliği) | 1 |
@@ -390,7 +390,7 @@ Kaza veya Tehlike Durumunda Işınlanma
 
 **Madde 49 –** Sürekli ışınlanmanın mevcut olduğu durumlarda Çizelge-2'de verilen eylem düzeyleri uygulanır.
 
-Çizelge 2 - Sürekli Işınlanmalar İçin Eylem Düzeyleri
+**Çizelge 2 - Sürekli Işınlanmalar İçin Eylem Düzeyleri**
 
 | Organ veya doku | Eşdeğer doz hızı, (Gy/yıl) |
 | Gonadlar | 0.2 |
@@ -399,11 +399,11 @@ Kaza veya Tehlike Durumunda Işınlanma
 
 ### DÖRDÜNCÜ KISIM
 
-Lisans, İzin, Denetim, Kayıtlar
+**Lisans, İzin, Denetim, Kayıtlar**
 
 ### BİRİNCİ BÖLÜM
 
-Lisans
+**Lisans**
 
 #### Lisans yükümlülüğü
 
@@ -451,7 +451,7 @@ Lisans
 
 ### İKİNCİ BÖLÜM
 
-İzin
+**İzin**
 
 #### İthal - ihraç izni
 
@@ -479,7 +479,7 @@ Lisans
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Denetim
+**Denetim**
 
 #### Denetimin genel esasları
 
@@ -491,7 +491,7 @@ Denetim
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Kayıtlar
+**Kayıtlar**
 
 #### Kayıt tutma ve saklama yükümlülüğü
 
@@ -503,7 +503,7 @@ Kayıtlar
 
 ### BEŞİNCİ BÖLÜM
 
-Görev ve Sorumluluklar
+**Görev ve Sorumluluklar**
 
 #### Lisans sahibinin sorumlulukları
 
@@ -523,7 +523,7 @@ Görev ve Sorumluluklar
 
 ### BEŞİNCİ KISIM
 
-Aykırı Davranışlar, Sigorta ve Son Hükümler
+**Aykırı Davranışlar, Sigorta ve Son Hükümler**
 
 #### Aykırı davranışlar
 
@@ -549,9 +549,9 @@ Bu Yönetmelik hükümlerini Nükleer Düzenleme Kurumu Başkanı yürütür.
 
 ____________
 
-(1) Bu değişiklik yayımından bir yıl sonra yürürlüğe girer.
+<i>(1) Bu değişiklik yayımından bir yıl sonra yürürlüğe girer.</i>
 
-Yönetmeliğin eklerini görmek için tıklayınız
+**Yönetmeliğin eklerini görmek için tıklayınız**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

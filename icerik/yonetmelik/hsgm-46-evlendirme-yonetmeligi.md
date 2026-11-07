@@ -10,23 +10,23 @@ durum: "yürürlükte"
 
 ### EVLENDİRME YÖNETMELİĞİ[1]
 
-Bakanlar Kurulu Kararının Tarihi : 10/7/1985 No : 85/9747
+**Bakanlar Kurulu Kararının Tarihi : 10/7/1985 No : 85/9747**
 
-Dayandığı Kanunların Tarihi : 17/2/1926 No : 743
+**Dayandığı Kanunların Tarihi : 17/2/1926 No : 743**
 
-5/7/1939 No : 3686
+**5/7/1939 No : 3686**
 
-5/5/1972 No : 1587
+**5/5/1972 No : 1587**
 
-15/11/1984 No : 3080
+**15/11/1984 No : 3080**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 7/11/1985 No : 18921
+**Yayımlandığı Resmî Gazetenin Tarihi : 7/11/1985 No : 18921**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 25 Sayfa : 1039
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 25 Sayfa : 1039**
 
 ### BİRİNCİ BÖLÜM
 
-Genel Hükümler
+**Genel Hükümler**
 
 #### Amaç ve Kapsam
 
@@ -44,17 +44,17 @@ b) Altsoy: Bir kimsenin çocuklarını ve torunlarını,
 
 c) Bakanlık: İçişleri Bakanlığını,
 
-ç) (Değişik: 29/12/2014-2014/7126 K.) Beyanname: Bu Yönetmelik hükümlerine göre evlenmek isteğini belirten, aksi ispat edilinceye kadar doğruluğu kabul edilen evlenme beyannamesi ve evlenme izin belgesini,
+ç) **(Değişik: 29/12/2014-2014/7126 K.)** Beyanname: Bu Yönetmelik hükümlerine göre evlenmek isteğini belirten, aksi ispat edilinceye kadar doğruluğu kabul edilen evlenme beyannamesi ve evlenme izin belgesini,
 
 d) Dış temsilcilik: Diplomatik temsilciliklerle konsoloslukları,
 
 e) Ergin: Onsekiz yaşını tamamlamış kişiyi,
 
-f) (Değişik: 29/12/2014-2014/7126 K.) Evlenme: Bir kadın ve bir erkeğin usulüne göre yetki verilmiş bir memur önünde bir aile kurmak amacı ile yapmış oldukları medenî hukuk sözleşmesini,
+f) **(Değişik: 29/12/2014-2014/7126 K.)** Evlenme: Bir kadın ve bir erkeğin usulüne göre yetki verilmiş bir memur önünde bir aile kurmak amacı ile yapmış oldukları medenî hukuk sözleşmesini,
 
 g) Evlenme engeli: Mevcut olduğu takdirde evlenmenin yapılmasını önleyen hukuki engeli,
 
-ğ) (Ek: 29/12/2014-2014/7126 K.) Evlenme ehliyet belgesi: Kişinin evlenme anındaki millî hukukuna göre evlenme ehliyeti ve şartlarının yer aldığı ve evlenmeye sakınca bulunmadığını gösterir belgeyi,
+ğ) **(Ek: 29/12/2014-2014/7126 K.)** Evlenme ehliyet belgesi: Kişinin evlenme anındaki millî hukukuna göre evlenme ehliyeti ve şartlarının yer aldığı ve evlenmeye sakınca bulunmadığını gösterir belgeyi,
 
 h) Genel Müdür: Nüfus ve Vatandaşlık İşleri Genel Müdürünü,[3]
 
@@ -74,7 +74,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Temel İlkeler
+**Temel İlkeler**
 
 #### Genel Müdürlüğün Görev ve Yetkileri
 
@@ -106,7 +106,7 @@ Evlendirme memurları bu görevlerinden dolayı nüfus müdürlerine karşı sor
 
 **Madde 7 –** (Değişik: 16/11/2006-2006/11269 K.)
 
-Evlendirme memuru, belediye bulunan yerlerde belediye başkanı veya bu işle görevlendireceği memur, köylerde muhtardır. (Değişik ikinci cümle: 28/11/2017-2017/11079 K.) Bakanlık; il nüfus ve vatandaşlık müdürlüklerine, nüfus müdürlüklerine, il ve ilçe müftülüklerine ve ilgili dış temsilciliklere evlendirme memurluğu görev ve yetkisi verebilir.
+Evlendirme memuru, belediye bulunan yerlerde belediye başkanı veya bu işle görevlendireceği memur, köylerde muhtardır. **(Değişik ikinci cümle: 28/11/2017-2017/11079 K.)** Bakanlık; il nüfus ve vatandaşlık müdürlüklerine, nüfus müdürlüklerine, il ve ilçe müftülüklerine ve ilgili dış temsilciliklere evlendirme memurluğu görev ve yetkisi verebilir.
 
 Eşlerden birinin yabancı olması halinde evlendirmeye (…)[5] belediye evlendirme memurlukları ile nüfus müdürleri yetkilidir.5
 
@@ -120,7 +120,7 @@ Evlendirme memurluğu yetki ve görevi, tebliği tarihinden itibaren yeni görev
 
 Evlendirme memurluğu görev ve yetkisi belediye başkanınca bizzat kullanılabileceği gibi görevlendireceği üst düzey personel tarafından da kullanılabilir.
 
-(Ek fıkra: 28/11/2017-2017/11079 K.) İl ve ilçe müftülüklerinde evlendirme memurluğu yetkisi verilecek personel Bakanlıkça belirlenir.
+**(Ek fıkra: 28/11/2017-2017/11079 K.)** İl ve ilçe müftülüklerinde evlendirme memurluğu yetkisi verilecek personel Bakanlıkça belirlenir.
 
 Bakanlık gerektiğinde bu Yönetmeliğin 7 nci maddesinde belirtilen yetkilerini kısmen veya tamamen il valiliğine de devredebilir.
 
@@ -140,7 +140,7 @@ Fahri konsolos ve fahri başkonsolosların evlendirme yetkisi yoktur.
 
 **Madde 11 –** Yurtdışında Türk vatandaşı kadın ve erkek veya bir Türk vatandaşı ile bir yabancı, bulundukları ülkenin evlendirmeye yetkili makamları huzurunda evlenebilirler. Böyle bir evlenme, Türk mevzuatına aykırı olmaması şartıyla Türkiye'de de geçerlidir.
 
-(Değişik ikinci fıkra: 16/11/2006-2006/11269 K.) Evlendirme bildiriminin, eşlerin ikisi de Türk vatandaşı ise erkek tarafından, eşlerden sadece birisi Türk vatandaşı ise Türk vatandaşı olan eş tarafından, yabancı yetkili makamdan alınacak belgenin evlendirme tarihinden itibaren en geç otuz gün içerisinde en yakın konsolosluğumuza verilmesi veya gönderilmesi suretiyle yapılması zorunludur.
+**(Değişik ikinci fıkra: 16/11/2006-2006/11269 K.)** Evlendirme bildiriminin, eşlerin ikisi de Türk vatandaşı ise erkek tarafından, eşlerden sadece birisi Türk vatandaşı ise Türk vatandaşı olan eş tarafından, yabancı yetkili makamdan alınacak belgenin evlendirme tarihinden itibaren en geç otuz gün içerisinde en yakın konsolosluğumuza verilmesi veya gönderilmesi suretiyle yapılması zorunludur.
 
 Eğer evlenmenin yapıldığı yerde ve yakınında Türk Konsolosluğu yoksa, bu takdirde bildirim, yabancı yetkili makamdan alınan resmi belgenin yurtiçinde Türkçe'ye çevrilip Dışişleri Bakanlığı'nca onandıktan sonra Genel Müdürlüğe veya ilgili nüfus idaresine verilmesi suretiyle yapılır.
 
@@ -172,7 +172,7 @@ Bunların evlenme manilerinin bulunup bulunmadığı il göç idaresi müdürlü
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Evlenme Ehliyeti ve Engelleri
+**Evlenme Ehliyeti ve Engelleri**
 
 #### Evlenme Ehliyeti ve Şartları
 
@@ -226,17 +226,17 @@ Akıl hastaları, evlenmelerinde tıbbi sakınca bulunmadığı resmi sağlık k
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Evlenmede Usul ve Evlenmenin Yapılması[11]
+**Evlenmede Usul ve Evlenmenin Yapılması[11]**
 
 #### Müracaat
 
 **Madde 16 –** (Değişik birinci fıkra: 28/7/2003 – 2003/5996 K.) Birbirleriyle evlenecek kadın ve erkeğin, içlerinden birinin oturduğu yer evlendirme memurluğuna birlikte müracaat etmeleri esastır.
 
-(Mülga ikinci fıkra: 29/12/2014-2014/7126 K.)
+**(Mülga ikinci fıkra: 29/12/2014-2014/7126 K.)**
 
-(Ek fıkra: 16/11/2006-2006/11269 K.) Yerleşim yeri köy (…)[12] olan ve yabancı uyruklu kişilerle evlenecek Türk vatandaşları, yerleşim yerlerinin (…)12 belediye evlendirme memurluklarına ya da o yerin (…)12 nüfus müdürlüğüne müracaat edebilirler.12
+**(Ek fıkra: 16/11/2006-2006/11269 K.)** Yerleşim yeri köy (…)[12] olan ve yabancı uyruklu kişilerle evlenecek Türk vatandaşları, yerleşim yerlerinin (…)12 belediye evlendirme memurluklarına ya da o yerin (…)12 nüfus müdürlüğüne müracaat edebilirler.12
 
-(Mülga dördüncü fıkra: 29/12/2014-2014/7126 K.)
+**(Mülga dördüncü fıkra: 29/12/2014-2014/7126 K.)**
 
 #### Vekil Eliyle Müracaat
 
@@ -250,9 +250,9 @@ Vekaletnamenin bir örneği evlenme dosyasına konulur.
 
 **Madde 18 –** Müracaat, kadın ve erkek veya onların vekillerince örneğine uygun olarak düzenlenmiş ve imza edilmiş olan "beyanname" ile yapılır.11
 
-(Mülga ikinci fıkra: 29/12/2014-2014/7126 K.)
+**(Mülga ikinci fıkra: 29/12/2014-2014/7126 K.)**
 
-(Mülga üçüncü fıkra: 29/12/2014-2014/7126 K.)
+**(Mülga üçüncü fıkra: 29/12/2014-2014/7126 K.)**
 
 Müracaat sırasında taraflar fotoğraflı nüfus cüzdanlarını göstermek zorundadırlar. Fotoğraflı nüfus cüzdanı gösterilmediği takdirde evlendirme memuru müracaatı kabul etmez.
 
@@ -274,9 +274,9 @@ Sağır ve dilsizlerin evlenmeye dair isteklerini özel işaretlerle belirlemele
 
 Evlenme dosyasına aşağıdaki belgeler konulur:
 
-a) (Değişik: 29/12/2014-2014/7126 K.) Beyanname (İzin belgesi talebinde evlenme izin belgesi iki örnek olarak düzenlenir.).
+a) **(Değişik: 29/12/2014-2014/7126 K.)** Beyanname (İzin belgesi talebinde evlenme izin belgesi iki örnek olarak düzenlenir.).
 
-b) (Mülga: 29/12/2014-2014/7126 K.)
+b) **(Mülga: 29/12/2014-2014/7126 K.)**
 
 c) Resmî veya özel sağlık kurum ve kuruluşlarından alınacak sağlık raporu/resmi sağlık kurulu raporu.
 
@@ -290,9 +290,9 @@ Sağlık raporu alınmaması durumunda evlenme yapılamaz. Sağlık raporuyla il
 
 Akıl hastalarının evlenmelerinde tıbbi sakınca bulunmadığı resmi sağlık kurulu raporuyla belgelendirilir.
 
-(Değişik dördüncü fıkra: 29/12/2014-2014/7126 K.) Yaşlarının küçüklüğü veya kısıtlama sebebiyle evlenmeleri ana, baba veya vasinin rızası ya da hakimin iznine bağlı olanlar, müracaat sırasında beyannameye bunların rızalarını gösterir belgeyi ya da hakimin izin belgesini eklemek zorundadır. Rıza belgeleri ana, baba veya vasi tarafından bizzat evlendirme memurunun huzurunda imzalanarak imza tasdiki evlendirme memuru tarafından yapılabileceği gibi, rıza gösteren şahısların imzalarının yetkili merciler tarafından tasdik edilmiş olması şartı ile rıza belgeleri imzalı olarak da sunulabilir. Ana ve babadan birinin ölmüş olması halinde sağ olan veya boşanma halinde velayet verilmiş olan tarafın imzası yeterlidir. Rıza belgesi vasi tarafından imza edildiği takdirde vasi tayinine dair mahkeme kararı istenir ve dosyaya eklenir.
+**(Değişik dördüncü fıkra: 29/12/2014-2014/7126 K.)** Yaşlarının küçüklüğü veya kısıtlama sebebiyle evlenmeleri ana, baba veya vasinin rızası ya da hakimin iznine bağlı olanlar, müracaat sırasında beyannameye bunların rızalarını gösterir belgeyi ya da hakimin izin belgesini eklemek zorundadır. Rıza belgeleri ana, baba veya vasi tarafından bizzat evlendirme memurunun huzurunda imzalanarak imza tasdiki evlendirme memuru tarafından yapılabileceği gibi, rıza gösteren şahısların imzalarının yetkili merciler tarafından tasdik edilmiş olması şartı ile rıza belgeleri imzalı olarak da sunulabilir. Ana ve babadan birinin ölmüş olması halinde sağ olan veya boşanma halinde velayet verilmiş olan tarafın imzası yeterlidir. Rıza belgesi vasi tarafından imza edildiği takdirde vasi tayinine dair mahkeme kararı istenir ve dosyaya eklenir.
 
-(Değişik beşinci fıkra: 29/12/2014-2014/7126 K.) Fotoğrafın, renkli ve ön cepheden baş açık, sivil giysilerle çekilmiş olması ve kişinin son halini göstermesi bakımından son altı ay içerisinde çekilmiş olması gerekir. Kadınların alın, çene ve yüzleri açık olmak şartıyla başörtülü fotoğrafları da kabul edilir.
+**(Değişik beşinci fıkra: 29/12/2014-2014/7126 K.)** Fotoğrafın, renkli ve ön cepheden baş açık, sivil giysilerle çekilmiş olması ve kişinin son halini göstermesi bakımından son altı ay içerisinde çekilmiş olması gerekir. Kadınların alın, çene ve yüzleri açık olmak şartıyla başörtülü fotoğrafları da kabul edilir.
 
 Nüfus idarelerince aile kütük kayıtlarına dayanılarak düzenlenen ve kişinin tam künyesi ile nüfus açısından evlenmesine engel bir halinin bulunup bulunmadığını gösteren nüfus kayıt örnekleri evlenme ehliyet belgesi olarak kabul edilir. Evlendirme memuru, müracaat eden her Türk vatandaşından nüfus kayıt örneğini veya evlenme ehliyet belgesini ister ve dosyaya ekler; Kimlik Paylaşımı Sistemini kullanan evlendirme memurlukları nüfus kayıt örneğini veya evlenme ehliyet belgesini sistem üzerinden temin eder. Sadece nüfus cüzdanına göre evlenme yapılamaz.[14]
 
@@ -300,11 +300,11 @@ Yabancılar için, yetkili merkezi makamlarca veya o devletin yerel temsilcilikl
 
 Evlendirme memurluğunca belgelerin doğruluğundan şüphe edilmesi halinde, Bakanlık aracılığı ve Dışişleri Bakanlığı kanalı ile ilgili devletin temsilciğine gönderilmek suretiyle doğruluğu tevsik ettirilebilir.
 
-(Değişik dokuzuncu fıkra: 28/11/2017-2017/11079 K.) Bu Yönetmeliğin 13 üncü maddesi kapsamında düzenlenen evlenme ehliyet belgelerinin, yabancının kimlik bilgilerini içerir ve kayıttaki bilgi ve belgelere göre evlenmesine engel bir halinin olup olmadığını belirtir şekilde düzenlenmiş olması gerekir.
+**(Değişik dokuzuncu fıkra: 28/11/2017-2017/11079 K.)** Bu Yönetmeliğin 13 üncü maddesi kapsamında düzenlenen evlenme ehliyet belgelerinin, yabancının kimlik bilgilerini içerir ve kayıttaki bilgi ve belgelere göre evlenmesine engel bir halinin olup olmadığını belirtir şekilde düzenlenmiş olması gerekir.
 
 Evlenme ehliyet belgelerinin asılları evlenme dosyasında saklanır.
 
-(Değişik onbirinci fıkra: 29/12/2014-2014/7126 K.) Yabancıların, beyannamede beyan ettikleri adres esas alınır. Adrese ilişkin başka bir belge istenmez.
+**(Değişik onbirinci fıkra: 29/12/2014-2014/7126 K.)** Yabancıların, beyannamede beyan ettikleri adres esas alınır. Adrese ilişkin başka bir belge istenmez.
 
 Fahri konsolosluklarca düzenlenen belgelere dayanılarak işlem tesis edilmez.
 
@@ -324,11 +324,11 @@ Böyle bir belgeyi alan çiftler, yurt içinde ve yurt dışında evlendirmeye y
 
 Belge, verildiği tarihten itibaren 6 ay süre ile geçerli olup, bu husus belgede de gösterilir.
 
-(Değişik dördüncü fıkra: 29/12/2014-2014/7126 K.) Bu belgeye dayanarak evlendirmeyi yapan yetkili makam, izin belgesini veren evlendirme memurluğuna, bu durumu 15 gün içinde bildirmekle görevlidir.
+**(Değişik dördüncü fıkra: 29/12/2014-2014/7126 K.)** Bu belgeye dayanarak evlendirmeyi yapan yetkili makam, izin belgesini veren evlendirme memurluğuna, bu durumu 15 gün içinde bildirmekle görevlidir.
 
 ### BEŞİNCİ BÖLÜM
 
-Evlenmenin Reddi ve Evlenmeye İtiraz
+**Evlenmenin Reddi ve Evlenmeye İtiraz**
 
 #### Evlenmenin Reddi
 
@@ -362,7 +362,7 @@ Evlenme manilerinin bulunduğu yolunda cumhuriyet savcılığına yapılan ihbar
 
 ### ALTlNCI BÖLÜM
 
-Evlenme Töreni
+**Evlenme Töreni**
 
 #### Tören Yerleri
 
@@ -392,7 +392,7 @@ Evlendirme memuru önceden tesbit edilen yer ve zamanda tarafların ve şahitler
 
 sorar. Her birinin müsbet cevap vermesi ve bu cevapların iki şahit tarafından da duyulduğunun doğrulanması üzerine, evlenmenin kanuna uygun olarak yapılmış olduğunu yüksek sesle açıkladıktan sonra evlenme kütüğünü taraflara ve şahitlere imza ettirir ve kendisi de tarih ve saat koyarak imzalar.
 
-(Değişik beşinci fıkra: 16/11/2006-2006/11269 K.) Sağır ve dilsizler işaretle cevap verebilirler. Evlendirme memuru lüzum görürse, işaretlerden anlayan bir kişinin aracılığını daha önceden isteyebilir. Bu durumda taraflar aracı bulundurmak zorundadırlar. Sağır ve dilsizler okuma yazma biliyorlarsa, beyanları yazılı olarak kabul edilir.
+**(Değişik beşinci fıkra: 16/11/2006-2006/11269 K.)** Sağır ve dilsizler işaretle cevap verebilirler. Evlendirme memuru lüzum görürse, işaretlerden anlayan bir kişinin aracılığını daha önceden isteyebilir. Bu durumda taraflar aracı bulundurmak zorundadırlar. Sağır ve dilsizler okuma yazma biliyorlarsa, beyanları yazılı olarak kabul edilir.
 
 Yabancılar Türkçe bilmedikleri takdirde, evlendirme memuru, Türk devletince tanınmış devletlerin birinci resmi dili olması kaydıyla bu dili bilen tercüman kullanabilir. Taraflarca bu tercüman daha önceden tören yerinde bulundurulur.
 
@@ -448,11 +448,11 @@ Bu yabancılar, Uluslararası Kişisel Hal Komisyonu Üyesi bir devletin vatanda
 
 Evlenenlerden birinin yabancı olması halinde de yukardaki fıkraya göre işlem yapılır.
 
-(Mülga dördüncü fıkra: 28/11/2017-2017/11079 K.)
+**(Mülga dördüncü fıkra: 28/11/2017-2017/11079 K.)**
 
 ### YEDİNCİ BÖLÜM
 
-Evlenme Kütükleri ve Evlenmeye Dair Yazışma Usulleri
+**Evlenme Kütükleri ve Evlenmeye Dair Yazışma Usulleri**
 
 #### Evlenmenin Evlenme Kütüğüne Geçirilişi ve Kütüğün Hukuki Mahiyeti[19]
 
@@ -464,15 +464,15 @@ Evlenme kütüğünde silinti ve kazıntı yapılamaz. Yanlış yazılan bilgile
 
 Evlenme kütük kayıtları nüfus idaresince düzenlenip gönderilen evlenme ehliyet belgelerine uygun olarak tutulur.
 
-(Ek fıkra: 28/7/2003-2003/5996 K.) Bir evlendirme memurluğu, iş hacmi göz önüne alınarak birden fazla evlenme kütüğü kullanabilir.
+**(Ek fıkra: 28/7/2003-2003/5996 K.)** Bir evlendirme memurluğu, iş hacmi göz önüne alınarak birden fazla evlenme kütüğü kullanabilir.
 
 #### Evlenme Kütüklerinin Tasdiki ve Arşivlenmesi
 
 **Madde 36 –** Evlenme kütüklerinin sahife birleşimleri nüfus idarelerine ait mühürle mühürlenip, sonuna kaç sahifeden ibaret olduğu yazılıp tasdik edildikten ve cilt numarası verildikten sonra kullanılır.
 
-(Değişik birinci cümle: 28/11/2017-2017/11079 K.) Köy, belediye, ilçe müftülükleri veya ilçe evlendirme memurlarına ait kütük defterleri ilçe nüfus müdürlüğü tarafından, il müftülükleri ile il merkez belediye evlendirme memurluklarına ait kütük defterleri de il nüfus ve vatandaşlık müdürlüğü tarafından tasdik edilir. Evlendirme nüfus memurluğunca yapıldığı takdirde defterlerin tasdiki mülki idare amirlerine aittir.
+**(Değişik birinci cümle: 28/11/2017-2017/11079 K.)** Köy, belediye, ilçe müftülükleri veya ilçe evlendirme memurlarına ait kütük defterleri ilçe nüfus müdürlüğü tarafından, il müftülükleri ile il merkez belediye evlendirme memurluklarına ait kütük defterleri de il nüfus ve vatandaşlık müdürlüğü tarafından tasdik edilir. Evlendirme nüfus memurluğunca yapıldığı takdirde defterlerin tasdiki mülki idare amirlerine aittir.
 
-Köylerde dolan ciltler nüfus idarelerine zimmetle teslim edilir ve bu idarelerce arşivlenir. (Değişik ikinci cümle: 28/11/2017-2017/11079 K.) İl ve ilçe müftülükleri ile belediyeler ise kendilerine ait evlenme kütük defterlerini kendi arşivlerinde saklarlar.
+Köylerde dolan ciltler nüfus idarelerine zimmetle teslim edilir ve bu idarelerce arşivlenir. **(Değişik ikinci cümle: 28/11/2017-2017/11079 K.)** İl ve ilçe müftülükleri ile belediyeler ise kendilerine ait evlenme kütük defterlerini kendi arşivlerinde saklarlar.
 
 #### Yazışma
 
@@ -480,7 +480,7 @@ Köylerde dolan ciltler nüfus idarelerine zimmetle teslim edilir ve bu idareler
 
 Türk konsoloslukları da yurtdışında yapılacak evlenmeler için ilgili nüfus idareleri ile doğrudan yazışma yaparlar.
 
-(Mülga üçüncü fıkra: 29/12/2014-2014/7126 K.)
+**(Mülga üçüncü fıkra: 29/12/2014-2014/7126 K.)**
 
 #### Kullanılacak Belgeler
 
@@ -504,7 +504,7 @@ Bu defterin ilgili bölümlerinin doldurulmuş ve alt kısmının amirce tasdik 
 
 **Madde 40 –** Evlendirme işlerinde kullanılacak olan defter, form ve basılı kağıtlar, Genel Müdürlükçe örneğe ve standarda uygun olarak hazırlanır.
 
-(Değişik ikinci fıkra: 28/7/2003-2003/5996 K.) Bu Yönetmelik hükümleri uyarınca düzenlenmesi gereken beyanname ve diğer belgeler Bakanlıktan izin almak şartı ile bilgisayar ortamında düzenlenebilir.[20]
+**(Değişik ikinci fıkra: 28/7/2003-2003/5996 K.)** Bu Yönetmelik hükümleri uyarınca düzenlenmesi gereken beyanname ve diğer belgeler Bakanlıktan izin almak şartı ile bilgisayar ortamında düzenlenebilir.[20]
 
 Bu form ve belgeler damga resminden ve her türlü harçtan muaftır.
 
@@ -516,7 +516,7 @@ Ancak, evlenme kütükleri ve evlenmenin nüfus kütüklerine tesciline dair bil
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Dosyaların Geçerlilik Süresi
 
@@ -608,7 +608,7 @@ Tespit edilir ve bu hususlar tutanağında açıkça belirtilir.
 
 **Madde 53 –** (Değişik birinci fıkra: 28/11/2017-2017/11079 K.) Bakanlıkça görevlendirilecek yetkililer ve mülkiye müfettişleri bütün evlendirme daire ve memurlarını; valiler, kaymakamlar, il ve ilçe nüfus müdürleri, belediye başkanları ile il ve ilçe müftüleri ilgili evlendirme daire ve memurlarını denetlemeye yetkilidirler.
 
-(Değişik ikinci fıkra: 28/7/2003-2003/5996 K.) Denetim, yetkili olanlarca her zaman yapılabilir. Ancak her evlendirme memurluğunun üç yılda bir denetlenmesi gereklidir. Denetim sırasında tespit edilen tenkit ve tavsiyeyi gerektiren hususlar bir rapora bağlanarak örnekleri ilgili memura, il nüfus ve vatandaşlık müdürlükleri ile ilçe nüfus müdürlüklerine gönderilir.
+**(Değişik ikinci fıkra: 28/7/2003-2003/5996 K.)** Denetim, yetkili olanlarca her zaman yapılabilir. Ancak her evlendirme memurluğunun üç yılda bir denetlenmesi gereklidir. Denetim sırasında tespit edilen tenkit ve tavsiyeyi gerektiren hususlar bir rapora bağlanarak örnekleri ilgili memura, il nüfus ve vatandaşlık müdürlükleri ile ilçe nüfus müdürlüklerine gönderilir.
 
 #### Aile Cüzdanlarının Mal Sandıklarından Alınması
 
@@ -672,11 +672,11 @@ Evlendirme memurları için gerekli cübbeler belediyeler veya köy idarelerince
 
 **Madde 60 –** Bu Yönetmelik hükümlerini Bakanlar Kurulu yürütür.
 
-28/7/2003 tarihli 2003/5996 sayılı Kararname ile yürürlüğe konan
+<i>28/7/2003 tarihli 2003/5996 sayılı Kararname ile yürürlüğe konan</i>
 
-“Evlendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik”in 13 üncü madesinde yeralan “Yönetmeliğin ekleri yürürlükten kaldırılmıştır” hükmü gereğince
+<i>“Evlendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik”in 13 üncü madesinde yeralan “Yönetmeliğin ekleri yürürlükten kaldırılmıştır” hükmü gereğince</i>
 
-Yönetmelik ekleri metinden çıkarılmıştır.
+<i>Yönetmelik ekleri metinden çıkarılmıştır.</i>
 
 | 10/7/1985 TARİHLİ VE 85/9747 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE |
 | Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Kararnamenin | 85/9747 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin Değişen Maddeleri | Yürürlüğe Giriş Tarihi |
@@ -686,48 +686,48 @@ Yönetmelik ekleri metinden çıkarılmıştır.
 | 29/12/2014 | 2014/7126 | 1, 2, 6, 7, 8, 12, 15, 16, 18, 20, 21, 22, 23, 25, 28, 35, 37, 40, 41, 42, 55, 56, Dördüncü Bölüm Başlığı, Geçici Madde 5 | 10/2/2015 |
 | 28/11/2017 | 2017/11079 | 7, 8, 9, 13, 20, 34, 36, 49, 53, 56 | 2/12/2017 |
 
-<small>[1] 3/12/2001 tarihli ve 4722 sayılı “Türk Medeni Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun”un 22 nci maddesi ile; 4721 sayılı Türk Medeni Kanununda öngörülen tüzük ve yönetmeliklerin 1/1/2001 tarihinden itibaren bir yıl içinde çıkarılacağı ya da yürürlükteki tüzük ve yönetmeliklerde gerekli değişiklikler yapılacağı, bu düzenlemeler yapılıncaya kadar yürürlükteki tüzük ve yönetmeliklerin Türk Medeni Kanununa aykırı olmayan hükümlerinin uygulanmasına devam edileceği hükme bağlanmıştır.</small>
+<small>[1] <i>3/12/2001 tarihli ve 4722 sayılı “Türk Medeni Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun”un 22 nci maddesi ile; 4721 sayılı Türk Medeni Kanununda öngörülen tüzük ve yönetmeliklerin 1/1/2001 tarihinden itibaren bir yıl içinde çıkarılacağı ya da yürürlükteki tüzük ve yönetmeliklerde gerekli değişiklikler yapılacağı, bu düzenlemeler yapılıncaya kadar yürürlükteki tüzük ve yönetmeliklerin Türk Medeni Kanununa aykırı olmayan hükümlerinin uygulanmasına devam edileceği hükme bağlanmıştır.</i></small>
 
-<small>[2] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdinin yapılmasına” ibaresi “evlenmenin yapılmasına” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdinin yapılmasına” ibaresi “evlenmenin yapılmasına” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle bu maddenin (g) bendinden sonra gelmek üzere (ğ) bendi eklenmiş ve sonraki bentler buna göre teselsül ettirilmiştir.</small>
+<small>[3] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle bu maddenin (g) bendinden sonra gelmek üzere (ğ) bendi eklenmiş ve sonraki bentler buna göre teselsül ettirilmiştir.</i></small>
 
-<small>[4] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdini yapmak” ibaresi “evlenmeyi yapmak” şeklinde değiştirilmiştir.</small>
+<small>[4] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdini yapmak” ibaresi “evlenmeyi yapmak” şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 8 inci maddesiyle bu fıkrada yer alan “il ve ilçe” ibaresi yürürlükten kaldırılmıştır.</small>
+<small>[5] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 8 inci maddesiyle bu fıkrada yer alan “il ve ilçe” ibaresi yürürlükten kaldırılmıştır.</i></small>
 
-<small>[6] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 8 inci maddesiyle bu fıkrada yer alan “il ve ilçe” ibaresi yürürlükten kaldırılmıştır.</small>
+<small>[7] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 8 inci maddesiyle bu fıkrada yer alan “il ve ilçe” ibaresi yürürlükten kaldırılmıştır.</i></small>
 
-<small>[8] Bu madde başlığı “Vatansız veya Vatandaşlık Durumu Muntazam Olmayanların Evlenmesi” iken, 28/11/2017 tarihli ve 2017/11079 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[8] <i>Bu madde başlığı “Vatansız veya Vatandaşlık Durumu Muntazam Olmayanların Evlenmesi” iken, 28/11/2017 tarihli ve 2017/11079 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[9] 16/11/2006 tarihli ve 2006/11269 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 16 ncı maddesiyle 14 üncü maddede yer alan "reşit" ibaresi "ergin” olarak, 15 inci maddede yer alan "usul ve füru'u" ibareleri "üstsoy ve altsoy" olarak değiştirilmiştir.</small>
+<small>[9] <i>16/11/2006 tarihli ve 2006/11269 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 16 ncı maddesiyle 14 üncü maddede yer alan "reşit" ibaresi "ergin” olarak, 15 inci maddede yer alan "usul ve füru'u" ibareleri "üstsoy ve altsoy" olarak değiştirilmiştir.</i></small>
 
-<small>[10] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</i></small>
 
-<small>[11] Bu bölümün başlığı “Evlenme Akdinde Usul ve Akdin Yapılması” iken, 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[11] <i>Bu bölümün başlığı “Evlenme Akdinde Usul ve Akdin Yapılması” iken, 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[12] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 8 inci maddesiyle bu fıkrada yer alan “ya da belde”, “bağlı bulunduğu il veya ilçe” ve “ilçe” ibareleri yürürlükten kaldırılmıştır.</small>
+<small>[12] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 8 inci maddesiyle bu fıkrada yer alan “ya da belde”, “bağlı bulunduğu il veya ilçe” ve “ilçe” ibareleri yürürlükten kaldırılmıştır.</i></small>
 
-<small>[13] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme beyannamesine” ibaresi “beyannameye” şeklinde değiştirilmiştir.</small>
+<small>[13] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme beyannamesine” ibaresi “beyannameye” şeklinde değiştirilmiştir.</i></small>
 
-<small>[14] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle bu fıkrada yer alan “nüfus kayıt örneği ister ve dosyaya ekler” ibaresi “nüfus kayıt örneğini veya evlenme ehliyet belgesini ister ve dosyaya ekler; Kimlik Paylaşımı Sistemini kullanan evlendirme memurlukları nüfus kayıt örneğini veya evlenme ehliyet belgesini sistem üzerinden temin eder” şeklinde değiştirilmiştir.</small>
+<small>[14] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle bu fıkrada yer alan “nüfus kayıt örneği ister ve dosyaya ekler” ibaresi “nüfus kayıt örneğini veya evlenme ehliyet belgesini ister ve dosyaya ekler; Kimlik Paylaşımı Sistemini kullanan evlendirme memurlukları nüfus kayıt örneğini veya evlenme ehliyet belgesini sistem üzerinden temin eder” şeklinde değiştirilmiştir.</i></small>
 
-<small>[15] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</small>
+<small>[15] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</i></small>
 
-<small>[16] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</small>
+<small>[16] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</i></small>
 
-<small>[17] 16/11/2006 tarihli ve 2006/11269 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 16 ncı maddesiyle bu maddede yer alan "reşit" ibaresi "ergin” olarak değiştirilmiş ve metne işlenmiştir.</small>
+<small>[17] <i>16/11/2006 tarihli ve 2006/11269 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 16 ncı maddesiyle bu maddede yer alan "reşit" ibaresi "ergin” olarak değiştirilmiş ve metne işlenmiştir.</i></small>
 
-<small>[18] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “akdin” ibaresi “evlenmenin” şeklinde değiştirilmiştir.</small>
+<small>[18] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “akdin” ibaresi “evlenmenin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[19] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu madde başlığında yer alan “Evlenme Akdinin” ibaresi “Evlenmenin” şeklinde değiştirilmiştir.</small>
+<small>[19] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu madde başlığında yer alan “Evlenme Akdinin” ibaresi “Evlenmenin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[20] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme beyannamesi” ibaresi “beyanname” şeklinde değiştirilmiştir.</small>
+<small>[20] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme beyannamesi” ibaresi “beyanname” şeklinde değiştirilmiştir.</i></small>
 
-<small>[21] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</small>
+<small>[21] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan “evlenme akdi” ibaresi “evlenme” şeklinde değiştirilmiştir.</i></small>
 
-<small>[22] Bu maddenin başlığı, “Aile Cüzdanlarının Doldurulması ve Kaydı” iken 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[22] <i>Bu maddenin başlığı, “Aile Cüzdanlarının Doldurulması ve Kaydı” iken 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[23] 29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan ““akid” ibaresi “evlendirme” şeklinde değiştirilmiştir.</small>
+<small>[23] <i>29/12/2014 tarihli ve 2014/7126 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle bu fıkrada yer alan ““akid” ibaresi “evlendirme” şeklinde değiştirilmiştir.</i></small>

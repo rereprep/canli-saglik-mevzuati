@@ -12,13 +12,13 @@ durum: "yürürlükte"
 
 ## 3659 KAMU PERSONELİ VE BUNLARIN EMEKLİLERİNİN YURT DIŞINDA TEDAVİLERİNE İLİŞKİN YÖNETMELİK
 
-Bakanlar Kurulu Kararının Tarihi : 9/7/1999 No : 99/13144
+**Bakanlar Kurulu Kararının Tarihi : 9/7/1999 No : 99/13144**
 
-Dayandığı Kanunun Tarihi : 29/7/1998 No : 4375
+**Dayandığı Kanunun Tarihi : 29/7/1998 No : 4375**
 
-Yayımlandığı R.Gazetenin Tarihi : 11/8/1999 No : 23783
+**Yayımlandığı R.Gazetenin Tarihi : 11/8/1999 No : 23783**
 
-Yayımlandığı Düsturun Tertibi : 5 Cild : S :
+**Yayımlandığı Düsturun Tertibi : 5 Cild : S :**
 
 #### Amaç
 

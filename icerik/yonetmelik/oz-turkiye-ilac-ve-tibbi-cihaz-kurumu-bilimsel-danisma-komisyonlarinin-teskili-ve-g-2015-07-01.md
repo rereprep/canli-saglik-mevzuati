@@ -28,7 +28,7 @@ Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -58,7 +58,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Komisyonların Teşkili ve Görevleri ile Çalışma Usul ve Esasları
+**Komisyonların Teşkili ve Görevleri ile Çalışma Usul ve Esasları**
 
 #### Komisyonlarda görev alacak kişiler
 
@@ -98,7 +98,7 @@ Komisyonların Teşkili ve Görevleri ile Çalışma Usul ve Esasları
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yasaklar ve gizlilik
 

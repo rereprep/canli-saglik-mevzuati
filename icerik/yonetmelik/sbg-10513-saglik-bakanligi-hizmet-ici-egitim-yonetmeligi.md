@@ -9,13 +9,13 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI HİZMET İÇİ EĞİTİM YÖNETMELİĞİ
 
-(11/12/2009 tarih ve B.10.0.SEG.0.72.00.03-010.03/15296 sayılı
+**(11/12/2009 tarih ve B.10.0.SEG.0.72.00.03-010.03/15296 sayılı**
 
-Bakanlık Makam Onayı ile yürürlüğe girmiştir.)
+**Bakanlık Makam Onayı ile yürürlüğe girmiştir.)**
 
 ## BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -77,7 +77,7 @@ ifade eder.
 
 ## İKİNCİ BÖLÜM
 
-Eğitimin Esasları
+**Eğitimin Esasları**
 
 #### Hizmet içi eğitimin hedefleri
 
@@ -125,7 +125,7 @@ h) Eğitimden beklenen sonuçlara ulaşılıp ulaşılamadığının belirlenmes
 
 ## ÜÇÜNCÜ BÖLÜM
 
-Eğitim Teşkilatı ve Görevleri
+**Eğitim Teşkilatı ve Görevleri**
 
 #### Eğitim teşkilatı
 
@@ -237,7 +237,7 @@ f) Gerçekleştirilen eğitimlerle ilgili sonuçları rapor hâlinde ilgili biri
 
 ## DÖRDÜNCÜ BÖLÜM
 
-Program Yöneticisi ve Eğitim Görevlileri
+**Program Yöneticisi ve Eğitim Görevlileri**
 
 #### Program yöneticisi
 
@@ -305,7 +305,7 @@ d) Zorunlu sebeplerle görevlerine devam edememeleri hâlinde durumu program yö
 
 ## BEŞİNCİ BÖLÜM
 
-Hizmet İçi Eğitimin Planlanması ve Uygulanması
+**Hizmet İçi Eğitimin Planlanması ve Uygulanması**
 
 #### Hizmet içi eğitim
 
@@ -383,7 +383,7 @@ b) Programların süreleri, varılmak istenen amaca uygun olarak; programın yer
 
 ## ALTINCI BÖLÜM
 
-Eğitime Katılma, Sınavlar, Değerlendirme, İzinler ve Disiplin
+**Eğitime Katılma, Sınavlar, Değerlendirme, İzinler ve Disiplin**
 
 #### Eğitime katılma
 
@@ -523,7 +523,7 @@ d) Eğitim programının genel değerlendirmesine yardımcı olmak üzere, eğit
 
 ## YEDİNCİ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Hizmet alımı
 

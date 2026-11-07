@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -50,7 +50,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-İşverenin ve Çalışanın Yükümlülükleri
+**İşverenin ve Çalışanın Yükümlülükleri**
 
 #### İşverenin yükümlülükleri
 
@@ -92,7 +92,7 @@ d) Eğitimlerde edindiği bilgileri yaptığı iş ve işlemlerde uygulamak ve b
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İşe Başlama Eğitimleri
+**İşe Başlama Eğitimleri**
 
 #### İşe başlama eğitimleri
 
@@ -110,7 +110,7 @@ d) Eğitimlerde edindiği bilgileri yaptığı iş ve işlemlerde uygulamak ve b
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Temel Eğitimler ve Diğer Eğitimler
+**Temel Eğitimler ve Diğer Eğitimler**
 
 #### Temel eğitimler
 
@@ -264,7 +264,7 @@ c) Eğitimde kullanılmak üzere günün teknolojisine uygun araç ve gereçler.
 
 **MADDE 21 –** (1) Çırak ve stajyerlerin eğitim ve bilgilendirilmelerinden uygulamalı eğitim alınan işyerinin işvereni sorumludur. Ancak işverenin kabul etmesi halinde çırak ve stajyerlerin eğitimini devam ettirdiği eğitim ve öğretim kurumunda tamamladığı iş sağlığı ve güvenliği dersleri veya kursları temel eğitim yerine geçer.
 
-Asıl işveren ve alt işveren ilişkisinin bulunduğu işyerlerinde çalışanların iş sağlığı ve güvenliği eğitimleri
+**Asıl işveren ve alt işveren ilişkisinin bulunduğu işyerlerinde çalışanların iş sağlığı ve güvenliği eğitimleri**
 
 **MADDE 22 –** (1) 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 2 nci maddesinin yedinci fıkrasında belirtilen asıl işveren alt işveren ilişkisi kurulan işyerlerinde, her işveren kendi çalışanlarının iş sağlığı ve güvenliği eğitimlerinin verilmesinden sorumludur. Bu işyerlerinde alt işverenin çalışanlarının eğitimleri ile ilgili asıl işveren alt işverence bilgilendirilir. Asıl işveren, alt işverenin çalışanlarının iş sağlığı ve güvenliği eğitimlerine dair belgeleri kontrol etmekle yükümlüdür. Ayrıca asıl işveren, alt işverenin çalışanlarına işe başlamadan önce işyerine özgü risklere ilişkin bilgi verir.
 
@@ -284,7 +284,7 @@ Asıl işveren ve alt işveren ilişkisinin bulunduğu işyerlerinde çalışanl
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Elektronik imza ve arşiv
 
@@ -310,4 +310,4 @@ Asıl işveren ve alt işveren ilişkisinin bulunduğu işyerlerinde çalışanl
 
 **MADDE 29 –** (1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

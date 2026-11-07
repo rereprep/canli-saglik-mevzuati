@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -57,7 +57,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Bilim Komisyonunun Teşkili, Komisyonun Çalışma Şekli ve Görevleri
+**Bilim Komisyonunun Teşkili, Komisyonun Çalışma Şekli ve Görevleri**
 
 #### Bilim komisyonunun teşkili
 
@@ -103,9 +103,9 @@ c) Bakanlık tarafından ihtiyaç duyulan bilimsel ve teknik konularda gerekli �
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Merkezlerin Planlanması, Merkez Kadroları, Merkez Açmaya Yetkili
+**Merkezlerin Planlanması, Merkez Kadroları, Merkez Açmaya Yetkili**
 
-Kurumlar, Merkez Açma Başvurusu ve Ruhsatlandırma
+**Kurumlar, Merkez Açma Başvurusu ve Ruhsatlandırma**
 
 #### Merkezlerin planlanması
 
@@ -159,7 +159,7 @@ c) Müdürlük/çevre ve şehircilik il müdürlüğü temsilcisi bir mimardan o
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Merkezin Fiziksel Standartları ve Karşılaması Gereken Hususlar
+**Merkezin Fiziksel Standartları ve Karşılaması Gereken Hususlar**
 
 #### Bina durumu
 
@@ -301,7 +301,7 @@ b) Mesul müdürün görev, yetki ve sorumlulukları şunlardır:
 
 12) Müstakil merkezlerde, ortaklarda meydana gelen değişiklikleri on beş iş günü içinde Müdürlüğe bildirmek.
 
-c) Mesul müdür, tabiplik mesleğini sadece mesul müdürlük yaptığı merkezde icra edebilir; muayenehane de dâhil olmak üzere, başka bir sağlık kuruluşunda mesleğini serbest icra etmesi yasaktır. (1)
+c) <i>Mesul müdür, tabiplik mesleğini sadece mesul müdürlük yaptığı merkezde icra edebilir; muayenehane de dâhil olmak üzere, başka bir sağlık kuruluşunda mesleğini serbest icra etmesi yasaktır.</i> (1)
 
 ç) Mesul müdür, merkezin faaliyeti ve denetimi ile ilgili her türlü işlemde Müdürlüğün ve Bakanlığın birinci derecede muhatabıdır. Mesul müdür idari işlerden bizzat, tıbbi işlemlerden ise diğer tabipler ile birlikte sorumludur. Merkezlerde mesul müdürün idari işlerinden, merkezin faaliyetinden ve sunulan sağlık hizmetinin gerektirdiği alt yapı imkânlarının sağlanmasından, işleten sorumludur.
 
@@ -313,7 +313,7 @@ f) İlgili mevzuata göre meslekten geçici men edilenler, bu yasakları süresi
 
 (3) ÜYTE ünite sorumlusu: Üremeye yardımcı tedavi konusunda Bakanlıkça onaylı sertifika sahibi kadın hastalıkları ve doğum uzmanı ÜYTE ünite sorumlusu olarak görevlendirilir. ÜYTE ünite sorumlusu tam zamanlı/kadrolu çalışır. Merkezde yapılan bütün tıbbi işlemlerden diğer tabiplerle birlikte sorumludur.
 
-(4) (Değişik:RG-27/5/2023-32203) ÜYTE laboratuvarı sorumlusu: Uzmanlık eğitimi döneminde ÜYTE uygulamaları konusunda eğitim almış histoloji ve embriyoloji uzmanı veya ÜYTE uygulamaları konusunda Bakanlıkça düzenlenmiş sertifikalı eğitim programına katılmış ve sertifika almaya hak kazanmış histoloji ve embriyoloji uzmanı; merkezde histoloji ve embriyoloji uzmanı yoksa Bakanlıkça onaylı ve geçerli ÜYTE laboratuvar uygulamaları eğitimi sertifikasına sahip olan kişi, ÜYTE laboratuvarı sorumlusu olarak görevlendirilir. ÜYTE laboratuvarı sorumlusu tam zamanlı çalışır.
+(4) **(Değişik:RG-27/5/2023-32203)** ÜYTE laboratuvarı sorumlusu: Uzmanlık eğitimi döneminde ÜYTE uygulamaları konusunda eğitim almış histoloji ve embriyoloji uzmanı veya ÜYTE uygulamaları konusunda Bakanlıkça düzenlenmiş sertifikalı eğitim programına katılmış ve sertifika almaya hak kazanmış histoloji ve embriyoloji uzmanı; merkezde histoloji ve embriyoloji uzmanı yoksa Bakanlıkça onaylı ve geçerli ÜYTE laboratuvar uygulamaları eğitimi sertifikasına sahip olan kişi, ÜYTE laboratuvarı sorumlusu olarak görevlendirilir. ÜYTE laboratuvarı sorumlusu tam zamanlı çalışır.
 
 (5) Üroloji uzmanı: İlgili mevzuatı uyarınca kadro dışı geçici olarak çalışır.
 
@@ -339,7 +339,7 @@ c) Bu fıkranın (a) ve (b) bentlerinde tanımlanan merkezin faaliyetinin durdur
 
 ### BEŞİNCİ BÖLÜM
 
-Hizmet Sunumuna İlişkin Diğer Esaslar
+**Hizmet Sunumuna İlişkin Diğer Esaslar**
 
 #### Kayıt sistemi
 
@@ -419,7 +419,7 @@ halinde yurtiçindeki başka bir merkeze transfer edilebilir.
 
 **MADDE 22 –** (1) Bu Yönetmelikte belirtilen üremeye yardımcı tedavi yöntemleri konusunda yapılacak sertifikalı eğitimler, Bakanlığın sertifikalı eğitim mevzuatı kapsamında Bakanlıkça eğitim vermek üzere yetkilendirilmiş merkezler tarafından verilir.
 
-(2) (Ek:RG-14/4/2018-30391) ÜYTE klinik uygulamaları sertifikalı eğitim programına kadın hastalıkları ve doğum uzmanı tabipler, ÜYTE laboratuvar uygulamaları sertifikalı eğitim programına ise tabip ve histoloji ve embriyoloji uzmanı tabipler ile tıp fakültelerinin histoloji ve embriyoloji anabilim dalında doktora programını tamamlamış olan, 22/5/2014 tarihli ve 29007 sayılı Resmî Gazete’de yayımlanan Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelikte belirtilen sağlık meslek mensupları, veteriner hekim ve biyologlar başvurabilir.
+(2) **(Ek:RG-14/4/2018-30391)** ÜYTE klinik uygulamaları sertifikalı eğitim programına kadın hastalıkları ve doğum uzmanı tabipler, ÜYTE laboratuvar uygulamaları sertifikalı eğitim programına ise tabip ve histoloji ve embriyoloji uzmanı tabipler ile tıp fakültelerinin histoloji ve embriyoloji anabilim dalında doktora programını tamamlamış olan, 22/5/2014 tarihli ve 29007 sayılı Resmî Gazete’de yayımlanan Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelikte belirtilen sağlık meslek mensupları, veteriner hekim ve biyologlar başvurabilir.
 
 #### Fatura düzenlenmesi
 
@@ -439,15 +439,15 @@ halinde yurtiçindeki başka bir merkeze transfer edilebilir.
 
 ### ALTINCI BÖLÜM
 
-Merkezin Taşınması, Birleşme ve Sahiplik Değişikliği, Merkezin
+**Merkezin Taşınması, Birleşme ve Sahiplik Değişikliği, Merkezin**
 
-Sorumlulukları ve Uyması Gerekli Diğer Hususlar ve Denetim
+**Sorumlulukları ve Uyması Gerekli Diğer Hususlar ve Denetim**
 
 #### Merkezin taşınması, birleşme ve sahiplik değişikliği
 
 **MADDE 25 –** (1) Müstakil merkezler bulunduğu il sınırları içerisinde bu Yönetmelikte tanımlanan fiziki standartlara haiz başka bir binaya taşınabilir.
 
-(2) (Değişik:RG-25/8/2016-29812) Birleşme talep tarihi itibariyle aktif olarak faaliyet gösteren müstakil merkezler, aynı il sınırları içinde özel hastane bünyesinde birleşebilir. İl içerisindeki birleşme talepleri Müdürlükçe sonuçlandırılır ve Bakanlığa bilgi verilir. İl dışındaki özel hastane ile birleşme talebi veya il dışına taşınma talebi için Bakanlığa başvurulur. Başvuru, Türkiye’de Özellikli Planlama Gerektiren Sağlık Hizmetleri Rehberinde belirlenen ilkeler çerçevesinde, hizmet sunumu için öngörülen asgari nüfus ve/veya ilde verilmesi hedeflenen sağlık hizmetleri ile uzman ve tabip dağılımı yönünden daha az yoğunluklu bölgeler öncelikle dikkate alınarak değerlendirilir. Başvuru uygun görülür ise Bakanlıkça birleşmeye veya taşınmaya izin verilir. Birleşme veya taşınma işlemi iki yıl içerisinde tamamlanır. Bu süre içerisinde müstakil merkez, faaliyetine mevcut kapasitesi ile devam edebilir veya faaliyetini durdurabilir. Bu durumda Müdürlüğe tebligat adresi bildirerek kuruluş binasını boşaltabilir. Birleşme işlemi tamamlanan müstakil merkez tekrar ayrılma talebinde bulunamaz.
+(2) **(Değişik:RG-25/8/2016-29812)** Birleşme talep tarihi itibariyle aktif olarak faaliyet gösteren müstakil merkezler, aynı il sınırları içinde özel hastane bünyesinde birleşebilir. İl içerisindeki birleşme talepleri Müdürlükçe sonuçlandırılır ve Bakanlığa bilgi verilir. İl dışındaki özel hastane ile birleşme talebi veya il dışına taşınma talebi için Bakanlığa başvurulur. Başvuru, Türkiye’de Özellikli Planlama Gerektiren Sağlık Hizmetleri Rehberinde belirlenen ilkeler çerçevesinde, hizmet sunumu için öngörülen asgari nüfus ve/veya ilde verilmesi hedeflenen sağlık hizmetleri ile uzman ve tabip dağılımı yönünden daha az yoğunluklu bölgeler öncelikle dikkate alınarak değerlendirilir. Başvuru uygun görülür ise Bakanlıkça birleşmeye veya taşınmaya izin verilir. Birleşme veya taşınma işlemi iki yıl içerisinde tamamlanır. Bu süre içerisinde müstakil merkez, faaliyetine mevcut kapasitesi ile devam edebilir veya faaliyetini durdurabilir. Bu durumda Müdürlüğe tebligat adresi bildirerek kuruluş binasını boşaltabilir. Birleşme işlemi tamamlanan müstakil merkez tekrar ayrılma talebinde bulunamaz.
 
 (3) Faaliyetin durdurulması durumunda merkezde saklanan numuneler ile ilgili 26 ncı maddenin beşinci fıkrası kapsamında işlem yapılır.
 
@@ -523,7 +523,7 @@ b) Müdürlükçe görevlendirilen, il bünyesinde kamuda görev yapan, ÜYTE ü
 
 **MADDE 30 –** (1) Müstakil merkezlerde çalışmaya ilişkin olarak aşağıdaki hükümler uygulanır:
 
-a) Müstakil merkezlerde kadrolu çalışan ve sorumlu olmayan (1)(2) tabip ve uzman tabipler, 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla bulunduğu ilde planlama kapsamındaki diğer özel sağlık kuruluşlarında/merkezlerde kadro dışı geçici olarak çalışabilir. Planlama kapsamındaki özel sağlık kuruluşlarında çalışan ve (2) bu Yönetmelikte aranan şartlara sahip tabip ve uzman tabipler, 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla bulunduğu ildeki merkezlerde kadro dışı geçici olarak çalışabilir. Tabip ve uzman tabiplerin kadrolu olarak (2) çalıştığı kuruluştan ayrılmaları halinde, tabip planlamasının bozulmaması amacıyla azami üç ay daha kadro dışı geçici olarak çalışmaya devam edebilir. Bu sürenin sonunda planlama kapsamındaki herhangi bir özel sağlık kuruluşu/merkezde kadrolu olarak çalışmaya başlayamaması halinde kadro dışı geçici çalışma belgesi iptal edilir.
+a) Müstakil merkezlerde <i>kadrolu çalışan ve sorumlu olmayan</i> (1)(2) tabip ve uzman tabipler, 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla bulunduğu ilde planlama kapsamındaki diğer özel sağlık kuruluşlarında/merkezlerde kadro dışı geçici olarak çalışabilir. <i>Planlama kapsamındaki özel sağlık kuruluşlarında çalışan ve (2)</i> bu Yönetmelikte aranan şartlara sahip tabip ve uzman tabipler, 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla bulunduğu ildeki merkezlerde kadro dışı geçici olarak çalışabilir. Tabip ve uzman tabiplerin <i>kadrolu olarak (2)</i> çalıştığı kuruluştan ayrılmaları halinde, tabip planlamasının bozulmaması amacıyla azami üç ay daha kadro dışı geçici olarak çalışmaya devam edebilir. Bu sürenin sonunda planlama kapsamındaki herhangi bir özel sağlık kuruluşu/merkezde kadrolu olarak çalışmaya başlayamaması halinde kadro dışı geçici çalışma belgesi iptal edilir.
 
 b) Yaş haddinden/kadrosuzluk nedeniyle emekli olan veya emekliye ayrıldıktan sonra yaş haddine ulaşmış olan tabip ve uzman tabipler ile kamu kurum ve kuruluşlarından 60 yaşını doldurduktan sonra emekli olan ve 65 yaşını doldurmamış tabip ve uzman tabiplerden bu Yönetmelikte aranan şartlara sahip olanlar bu fıkranın (a) bendinde sayılan kadrolu tabip ve uzman tabiplerin çalışma şekline uygun olarak kadro dışı geçici olarak çalışabilir.
 
@@ -537,7 +537,7 @@ c) Bu Yönetmelik kapsamındaki kadro dışı geçici çalışma hükümleri tab
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Hüküm bulunmayan haller
 
@@ -579,13 +579,13 @@ c) Bu Yönetmelik kapsamındaki kadro dışı geçici çalışma hükümleri tab
 
 ________________________
 
-(1) Danıştay On Beşinci Dairesinin 26/04/2017 tarihli ve Esas No: 2014/9572 ; Karar No: 2017/2051 sayılı kararı ile Yönetmeliğin 17 nci maddesinin ikinci fıkrasının (c) bendinin ve 30 uncu maddesinin birinci fıkrasının (a) bendinde yer alan ‘’ sorumlu olmayan’’ ibaresinin iptaline karar verilmiştir.
+<i>(1) Danıştay On Beşinci Dairesinin 26/04/2017 tarihli ve Esas No: 2014/9572 ; Karar No: 2017/2051 sayılı kararı ile Yönetmeliğin 17 nci maddesinin ikinci fıkrasının (c) bendinin ve 30 uncu maddesinin birinci fıkrasının (a) bendinde yer alan ‘’ sorumlu olmayan’’ ibaresinin iptaline karar verilmiştir.</i>
 
-(2) Danıştay Onbeşinci Dairesinin 10/10/2018 tarihli ve Esas No:2016/9134; Karar No:2018/6847 sayılı kararı ile Yönetmeliğin 30 uncu maddesinin birinci fıkrasının (a) bendinin birinci cümlesinde yer alan “kadrolu çalışan ve sorumlu olmayan” ibaresinin, ikinci cümlesinde yer alan “Planlama kapsamındaki özel sağlık kuruluşlarında çalışan ve” ibaresinin ve üçüncü cümlesinde yer alan “kadrolu olarak” ibaresinin iptaline karar verilmiştir.
+<i>(2) Danıştay Onbeşinci Dairesinin 10/10/2018 tarihli ve Esas No:2016/9134; Karar No:2018/6847 sayılı kararı ile Yönetmeliğin 30 uncu maddesinin birinci fıkrasının (a) bendinin birinci cümlesinde yer alan “kadrolu çalışan ve sorumlu olmayan” ibaresinin, ikinci cümlesinde yer alan “Planlama kapsamındaki özel sağlık kuruluşlarında çalışan ve” ibaresinin ve üçüncü cümlesinde yer alan “kadrolu olarak” ibaresinin iptaline karar verilmiştir.</i>
 
-(3) Danıştay Onuncu Dairesinin 17/4/2025 tarihli ve E.:2022/1700; K.:2025/2087 sayılı kararı ile bu fıkranın ikinci cümlesinin ve üçüncü cümlesinde yer alan “eşlerden birinin ölümü” ibaresinin eksik düzenleme sebebiyle iptaline karar verilmiştir.
+<i>(3) Danıştay Onuncu Dairesinin 17/4/2025 tarihli ve E.:2022/1700; K.:2025/2087 sayılı kararı ile bu fıkranın ikinci cümlesinin ve üçüncü cümlesinde yer alan “eşlerden birinin ölümü” ibaresinin eksik düzenleme sebebiyle iptaline karar verilmiştir.</i>
 
-Yönetmeliğin Ekleri
+**Yönetmeliğin Ekleri**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

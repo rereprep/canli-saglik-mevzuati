@@ -12,59 +12,59 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-11.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6486 Kabul Tarihi: 21/5/2013
 
-MADDE 1 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 60 ıncı maddesinin;
+**MADDE 1 –** 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 60 ıncı maddesinin;
 birinci fıkrasının (c) bendinin (1) numaralı alt bendine “üçte birinden az olan vatandaşlar” ibaresinden sonra gelmek üzere “ile gelir tespiti yapılmaksızın genel sağlık sigortalılığı ya da bakmakla yükümlü olduğu kişi bulunmayan Türk vatandaşlarından 18 yaşını doldurmamış çocuklar” ibaresi, aynı bendin (7) numaralı alt bendine “ücretsiz faydalanan kişiler” ibaresinden sonra gelmek üzere “ile ana ve babası olmayan Türk vatandaşlarından 18 yaşını doldurmamış çocuklar” ibaresi eklenmiş, yedinci fıkrası aşağıdaki şekilde değiştirilmiş ve maddenin sonuna aşağıdaki fıkra eklenmiştir.
 “Ülkemizde öğrenim gören yabancı uyruklu öğrenciler birinci fıkranın (d) bendindeki ve 52 nci maddenin ikinci fıkrasının ikinci cümlesindeki şartlar aranmaksızın ilk kayıt tarihinden itibaren üç ay içinde talepte bulunmaları hâlinde genel sağlık sigortalısı olurlar. Bu sürede talepte bulunmayanlar hakkında öğrenimleri süresince genel sağlık sigortası hükümleri uygulanmaz.
 Kendilerince 82 nci maddeye göre belirlenen prime esas günlük kazanç alt sınırının üçte birinin 30 günlük tutarı üzerinden genel sağlık sigortası primi ödenir.”
 “8/3/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun hükümlerine göre hakkında koruyucu tedbir kararı verilen kişilerden genel sağlık sigortalısı olmayan ve genel sağlık sigortalısının bakmakla yükümlü olduğu kişi kapsamına da girmeyen veya genel sağlık sigortası kapsamında olup sağlık yardımlarından yararlanamayanlar, bu hâllerin devamı süresince gelir tespiti yapılmaksızın birinci fıkranın (c) bendinin (1) numaralı alt bendi kapsamında genel sağlık sigortalısı sayılır.”
 
-MADDE 2 – 5510 sayılı Kanunun 61 inci maddesinin birinci fıkrasının (c) bendi ve altıncı fıkrası aşağıdaki şekilde değiştirilmiş, ikinci fıkrasının ikinci cümlesi yürürlükten kaldırılmıştır.
+**MADDE 2 –** 5510 sayılı Kanunun 61 inci maddesinin birinci fıkrasının (c) bendi ve altıncı fıkrası aşağıdaki şekilde değiştirilmiş, ikinci fıkrasının ikinci cümlesi yürürlükten kaldırılmıştır.
 “c) (d) bendinde sayılanlar Türkiye’deki yerleşim süresinin bir yılı geçtiği tarihten sonra talepte bulunmaları hâlinde talep tarihini takip eden günden itibaren genel sağlık sigortalısı sayılır. Bu kişilerin genel sağlık sigortalılığı bu Kanunda belirtilen nedenlerle sona erer.”
 “60 ıncı maddenin yedinci fıkrası kapsamında sayılanlardan dilekçeyle Kuruma müracaat edenlerin, talep tarihini takip eden günden itibaren genel sağlık sigortalılığı başlatılır ve öğrenimleri süresince genel sağlık sigortalılıkları devam eder. Bunların genel sağlık sigortalılıkları bu Kanunda belirtilen nedenlerle sona erer.”
 
-MADDE 3 – 5510 sayılı Kanunun 72 nci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 3 –** 5510 sayılı Kanunun 72 nci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Komisyon; Bakanlık, Maliye, Sağlık ve Kalkınma bakanlıkları, Hazine Müsteşarlığı, üniversite sağlık hizmeti sunucuları ile özel sağlık hizmeti sunucularını temsilen Bakanlıkça belirlenecek birer üye ve Kurumu temsilen iki üye olmak üzere toplam dokuz üyeden oluşur. Komisyon kararlarını salt çoğunluk ile alır. Komisyon kararları Resmî Gazete’de yayımlanır. Komisyonca gerekli görülen hâllerde sağlık hizmetlerinin türlerine göre birden fazla alt komisyon kurulabilir. Komisyonun sekretarya işlemleri Kurumca yerine getirilir.”
 
-MADDE 4 – 5510 sayılı Kanunun 73 üncü maddesinin ikinci fıkrasının birinci cümlesinde geçen “bir” ibaresi “iki” şeklinde değiştirilmiş ve üçüncü fıkrasına aşağıdaki cümleler eklenmiştir.
+**MADDE 4 –** 5510 sayılı Kanunun 73 üncü maddesinin ikinci fıkrasının birinci cümlesinde geçen “bir” ibaresi “iki” şeklinde değiştirilmiş ve üçüncü fıkrasına aşağıdaki cümleler eklenmiştir.
 “Ancak yükseköğretim kurumlarına ait sağlık hizmeti sunucularında öğretim üyeleri tarafından mesai saatleri dışında bizzat verilen sağlık hizmetleri için Kurumca belirlenmiş sağlık hizmetleri bedelinin, poliklinik muayenelerinde bir katını, diğer hizmetlerde yüzde ellisini geçmemek üzere, üniversite yönetim kurulu kararıyla öğretim üyelerinin unvanları itibarıyla belirlenen miktarda ilave ücret alınabilir. Ancak alınacak ilave ücret bir defada asgari ücretin iki katını geçemez. Bu oranları bir katına kadar artırmaya Bakanlar Kurulu yetkilidir. Kurum bu fıkra kapsamında ilave ücret alınamayacak sağlık hizmetlerini belirlemeye yetkilidir.”
 
-MADDE 5 – 5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının (ı) bendinin yedinci cümlesi ile son cümlesi yürürlükten kaldırılmış, aynı fıkraya aşağıdaki bent, aynı maddeye birinci fıkradan sonra gelmek üzere aşağıdaki fıkra ve maddenin sonuna aşağıdaki fıkralar eklenmiştir.
+**MADDE 5 –** 5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının (ı) bendinin yedinci cümlesi ile son cümlesi yürürlükten kaldırılmış, aynı fıkraya aşağıdaki bent, aynı maddeye birinci fıkradan sonra gelmek üzere aşağıdaki fıkra ve maddenin sonuna aşağıdaki fıkralar eklenmiştir.
 “i) Özel sektör işverenlerinin yurt dışındaki işyerlerinde çalıştırılmak üzere 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında sigortalı olarak yurt içinden götürülen sigortalılar için, bu maddenin (f) bendine göre prime esas kazanç üzerinden ödenecek primin işveren hissesinin beş puanlık kısmına isabet eden tutar Hazinece karşılanır. Bu bent hükümlerinden faydalanabilmek için;
 çalıştırdıkları sigortalılarla ilgili olarak işverenler tarafından bu Kanun uyarınca verilmesi gereken aylık prim ve hizmet belgelerinin yasal süresi içinde Kuruma verilmesi, bu sigortalılara ilişkin olarak yatırılması gereken sigorta primi tutarlarının Hazinece karşılanmayan kısmının yasal süresi içinde işverenlerce ödenmiş olması ve bu işverenlerin Kuruma prim, idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borcunun bulunmaması şarttır. Ancak Kuruma olan prim, idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borçlarını 6183 sayılı Kanunun 48 inci maddesine göre tecil ettiren ve taksitlendiren işverenler ile taksitlendirme ve yapılandırma kanunlarına göre taksitlendiren ve yapılandıran işverenler bu tecil, taksitlendirme ve yapılandırmaları devam ettiği sürece bu bent hükmünden yararlandırılır. 5335 sayılı Kanunun 30 uncu maddesinin ikinci fıkrası kapsamına giren kurum ve kuruluşlara ait işyerleri; 2886 sayılı Kanun ve 4734 sayılı Kanun hükümlerine istinaden yapılan alım ve yapım işleri, 4734 sayılı Kanundan istisna olan alım ve yapım işlerine ilişkin işyerleri; ek 2 nci madde kapsamında uygulanan teşvikten yararlanan işyerleri ile sosyal güvenlik destek primine tabi tutulmak suretiyle çalışanlar hakkında bu bent hükümleri uygulanmaz. Hazineden karşılanan prim tutarları, işverenler bakımından gelir ve kurumlar vergisi matrahının tespitinde gider veya maliyet unsuru olarak dikkate alınmaz.”
 “On ve üzerinde sigortalı çalıştıran işyerlerine uygulanmak üzere, birinci fıkranın (ı) bendinde belirtilen ve Hazinece karşılanan puana, prime esas kazanç alt sınırı üzerinden altı puana kadar ilave puan eklemeye, sosyo-ekonomik gelişmişlik endeksini dikkate almak suretiyle ilave puan uygulanacak illeri ve uygulama süresini belirlemeye Bakanlar Kurulu yetkilidir.”
 “Yapılan kontrol ve denetimlerde, çalıştırdığı kişileri sigortalı olarak bildirmediği veya bildirilen sigortalının fiilen çalışmadığının tespit edilmesi hâlinde, işverenler bir yıl süreyle bu maddeyle sağlanan destek unsurlarından yararlanamaz. Bu madde kapsamındaki teşvikten yersiz olarak faydalanıldığının tespiti hâlinde, yararlanılan teşvik tutarı işverenden gecikme cezası ve gecikme zammı ile birlikte tahsil edilir.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlık, Maliye Bakanlığı ve Hazine Müsteşarlığı tarafından müştereken belirlenir.”
 
-MADDE 6 – 5510 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 6 –** 5510 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 49 – 97 nci maddenin yedinci fıkrası gereğince, sağlık hizmet sunucularının sunmuş oldukları hizmetlere ilişkin olarak 16/1/2012 tarihinden önce Kuruma teslim ettikleri fatura ve eki belgelerden, teslim tarihinden itibaren üç ay içinde incelenemediği için avansı kapatılamayan fatura ve eki belgelerin, bu süreden sonraki dönemde yapılan incelemesi sonucunda sağlık hizmet sunucusuna yersiz ödeme yapıldığının tespit edilmesi hâlinde, tespit edilen yersiz ödeme tutarı için kanuni faiz tahakkuk ettirilmez.
 Bu maddenin yürürlük tarihinden önce, sağlık hizmet sunucuları tarafından 16/1/2012 tarihinden önce Kuruma teslim edilen fatura ve eki belgelerden dolayı Kurumca tahakkuk ettirilen faizle ilgili dava konusu edilen faiz tutarları, davacının davasından feragat etmesi hâlinde terkin edilir.
 Bu madde kapsamına giren fiiller için bu maddenin yürürlüğe girdiği tarihten önce uygulanmış faize ilişkin tahsil edilen tutarlar iade ve mahsup edilmez.”
 
-MADDE 7 – 5510 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 7 –** 5510 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 50 – Bu maddenin yayımı tarihinde ilk kaydını yaptırmış olup öğrenimlerine devam eden yabancı uyruklu öğrencilerden, bu maddenin yayımı tarihinden itibaren altı ay içinde başvuru yapanlar genel sağlık sigortası kapsamına alınırlar.”
 
-MADDE 8 – 16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumu Kanununun 5 inci maddesinin üçüncü fıkrasının ikinci cümlesinde yer alan “bir ay” ibaresi “iki ay” şeklinde değiştirilmiştir.
+**MADDE 8 –** 16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumu Kanununun 5 inci maddesinin üçüncü fıkrasının ikinci cümlesinde yer alan “bir ay” ibaresi “iki ay” şeklinde değiştirilmiştir.
 
-MADDE 9 – 19/9/2006 tarihli ve 5543 sayılı İskân Kanununun geçici 4 üncü maddesinin ikinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+**MADDE 9 –** 19/9/2006 tarihli ve 5543 sayılı İskân Kanununun geçici 4 üncü maddesinin ikinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
 “(2) Mülkiyeti Tarım İşletmeleri Genel Müdürlüğüne ait olan ve Şanlıurfa İli, Ceylanpınar İlçesi, Merkez ve Gümüşsu mevkiilerinde bulunan, ada ve parsel numaraları ile yüzölçümleri ekli (1) sayılı listede belirtilen toplam 141.793.751 metrekare yüzölçümlü taşınmazlardan hak sahipliği Şanlıurfa Valiliğince geçici 4 üncü maddenin birinci fıkrasına göre 2007 yılında tespit edilmiş göçer ailelerinin iskânı için gerekli olan kısımları ayrılarak bedelsiz olarak tapuda Hazine adına tescil edilir ve bu taşınmazlar bu madde kapsamında değerlendirilmek üzere Maliye Bakanlığınca, Bakanlığa tahsis edilir. Tescil işlemleri ve bunlara bağlı tamamlayıcı nitelikteki tüm işlemler her türlü vergi, resim ve harçtan müstesnadır. Hak sahiplerinin iskânı için belirlenen arazide 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu ile getirilen sınırlamalara uymak şartıyla tüm ifraz, tevhid ve bunlara bağlı gerekli her türlü işlemler Tapu ve Kadastro Genel Müdürlüğünce yerine getirilir. Ekli (1) sayılı listede ada ve parselleri belirtilen taşınmazlardan, arazi sınırını belirleyen DSİ Mardin Sulama Kanalının böldüğü parsellere ilişkin ada ve parsel numaraları ile alanlar, ifraz işleminden sonra kesinleşir.”
 “(4) Hak sahibi ailelere iskânen verilecek taşınmazların teslimini takiben üç ay içinde, göçer ailelerin bulundukları eski arazilerin üzerinde bulunan ev, baraka, ahır ve benzeri yapı ve müştemilatı valilikçe yıktırılarak bu araziler Ceylanpınar Tarım İşletmeleri Müdürlüğü yetkililerine teslim edilir.”
 
-MADDE 10 – 19/11/1992 tarihli ve 3843 sayılı Yükseköğretim Kurumlarında İkili Öğretim Yapılması, 2547 Sayılı Yükseköğretim Kanununun Bazı
+**MADDE 10 –** 19/11/1992 tarihli ve 3843 sayılı Yükseköğretim Kurumlarında İkili Öğretim Yapılması, 2547 Sayılı Yükseköğretim Kanununun Bazı
 Maddelerinin Değiştirilmesi ve Bu Kanuna Bir Ek Madde Eklenmesi Hakkında Kanunun 12 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 12 – Yükseköğretim kurumlarının ikinci öğretim yapan birimlerinde görevli öğretim elemanları ile idari personele yasal çalışma saati bitiminden sonra fiilen yaptıkları fazla çalışma süreleri için saat ücreti ödenir. Yapılacak fazla çalışmanın aylık saati ile ödenecek ücretin miktarı, Yükseköğretim Kurulunun görüşü, Millî Eğitim Bakanlığının teklifi üzerine her yıl bütçe kanunu ile belirlenen saat başı fazla çalışma ücretinin üç katını aşmayacak şekilde Bakanlar Kurulu tarafından belirlenir.
 Ancak, öğretim elemanlarına aynı süre için ek ders ücreti ile birlikte fazla çalışma ücreti ödenmez.
 Öğretim elemanlarına ödenecek ek ders ve sınav ücretleri ile personele ödenecek fazla çalışma ücretlerinin toplamı, toplanan ikinci öğretim ücretlerinin %70’ini aşamaz.”
 
-MADDE 11 – 20/12/2012 tarihli ve 6363 sayılı 2013 Yılı Merkezi Yönetim Bütçe Kanununa bağlı “K” işaretli cetvelin “III. FAZLA ÇALIŞMA ÜCRETİ” başlıklı bölümünün “(A) Saat Başı Fazla Çalışma Ücreti” kısmının 1 inci maddesinde yer alan “hariç olmak üzere” ibaresi “dâhil olmak üzere” şeklinde değiştirilmiştir.
+**MADDE 11 –** 20/12/2012 tarihli ve 6363 sayılı 2013 Yılı Merkezi Yönetim Bütçe Kanununa bağlı “K” işaretli cetvelin “III. FAZLA ÇALIŞMA ÜCRETİ” başlıklı bölümünün “(A) Saat Başı Fazla Çalışma Ücreti” kısmının 1 inci maddesinde yer alan “hariç olmak üzere” ibaresi “dâhil olmak üzere” şeklinde değiştirilmiştir.
 
-MADDE 12 – 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 12 –** 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 3 – 23/6/1997 tarihinden önce kamu yatırım programına alınmış olup, bu maddenin yürürlüğe girdiği tarih itibarıyla planlama aşaması geçmiş ve ihale süreci başlamış olan veya üretim veya işletmeye başlamış olan projeler ile bunların gerçekleştirilmesi için zorunlu olan yapı ve tesisler Çevresel Etki Değerlendirmesi kapsamı dışındadır.”
 
-MADDE 13 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 13 –** 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 85 – Gerçek veya tüzel kişilerce, 15/4/2013 tarihi itibarıyla sahip olunan ve yurt dışında bulunan; para, altın, döviz, menkul kıymet ve diğer sermaye piyasası araçları ile varlığı kanaat verici bir belgeyle ispat edilen taşınmazlar, 31/7/2013 tarihine kadar Türk Lirası cinsinden rayiç bedelle, 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanunu uyarınca faaliyette bulunan bankalara veya 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanunu uyarınca faaliyette bulunan aracı kurumlara bildirilir ya da vergi dairelerine beyan edilir.
 Birinci fıkrada sayılan kıymetler, 213 sayılı Vergi Usul Kanunu uyarınca defter tutan mükellefler tarafından beyan tarihini takip eden ay sonuna kadar kanuni defterlere kaydedilir. Bilanço esasına göre defter tutan mükellefler, bu madde hükümleri uyarınca kanuni defterlerine kaydettikleri kıymetler için pasifte özel fon hesabı açarlar.
 Bu fon hesabı, sermayenin cüz’ü addolunur, sermayeye ilave dışında başka bir amaçla kullanılamaz, işletmenin tasfiye edilmesi hâlinde ise vergilendirilmez.
@@ -89,9 +89,9 @@ Bu maddenin uygulamasında kanaat verici belge:
 Devlet tarafından veya Devlet güvencesinde tutulan kayıt ve sicilleri;
 banka, banker, aracı kurumlar ve benzeri mali kurumlar ile posta idaresi, noter gibi kurum ve kuruluşların kayıt ve belgelerini, 213 sayılı Kanunun İkinci Kitabının Üçüncü Kısmında yer alan belgeler ve muadili belgeler ile bilgi değişiminde bulunulan yabancı ülkelerde yetkili makamlardan alınarak mahallindeki Türk elçilik ya da konsoloslukları, yoksa ilgili ülkenin Türk menfaatini koruyan aynı nitelikteki temsilcileri tarafından tasdik olunan belgeleri ifade eder.”
 
-MADDE 14 – Bu Kanunun;
+**MADDE 14 –** Bu Kanunun;
 a) 5 inci maddesi ile 5510 sayılı Kanunun 81 inci maddesine eklenen (i) bendi yayımını takip eden ayın başında,
 b) 5 inci maddesinin diğer hükümleri ile 11 inci maddesi 1/1/2013 tarihinden geçerli olmak üzere yayımı tarihinde,
 c) Diğer hükümleri yayımı tarihinde, yürürlüğe girer.
 
-MADDE 15 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 15 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

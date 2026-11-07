@@ -114,7 +114,7 @@ Yasal uyarı yazılarının alt kısmındaki “Bilgi:…..” sütununa tütün
 
 Kanunda istisna olarak sayılan tütün ürünlerinin tüketilmesine tahsis edilen alanlarda, tütün ürünleri kullanımının tehlikelerini anlatan sağlık uyarıları, bu alanların herkes tarafından görülebilecek yerlerine asılır.
 
-Tütün ürünlerinin satışının serbest olduğu yerlerde TAPDK tarafından belirlenen usullere uygun olarak yazılmış “Yasal Uyarı: 18 yaşını doldurmayanlara sigara ve diğer tütün ürünleri satılamaz; satanlar hakkında yasal işlem yapılır.” ibaresi rahatlıkla görülebilecek ve okunabilecek şekilde asılır.
+Tütün ürünlerinin satışının serbest olduğu yerlerde TAPDK tarafından belirlenen usullere uygun olarak yazılmış “Yasal **Uyarı**: 18 yaşını doldurmayanlara sigara ve diğer tütün ürünleri satılamaz; satanlar hakkında yasal işlem yapılır.” ibaresi rahatlıkla görülebilecek ve okunabilecek şekilde asılır.
 
 Yasal uyarı yazısı örnekleri ve bunların asılmasına ilişkin daha fazla bilgi www.tapdk.gov.tr veya www.havanikoru.gov.tr adreslerindeki web sitelerinden takip edilebilecektir.
 

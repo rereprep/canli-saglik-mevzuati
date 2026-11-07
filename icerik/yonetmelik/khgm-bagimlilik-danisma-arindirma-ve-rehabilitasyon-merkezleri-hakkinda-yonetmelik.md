@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -80,7 +80,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Bağımlılık Bilim Komisyonu
+**Bağımlılık Bilim Komisyonu**
 
 #### Komisyonun teşkili
 
@@ -124,7 +124,7 @@ e) Bakanlıkça belirlenecek bağımlılıkla ilgili diğer konularda görüş b
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Merkezlerde Bulunacak Genel Özellikler
+**Merkezlerde Bulunacak Genel Özellikler**
 
 #### Bina durumu
 
@@ -194,9 +194,9 @@ c) Yangına karşı güvenlik tedbirlerinin alındığını gösteren ve yetkili
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Merkezlerin Planlanması, Ön İzin, İl Değerlendirme Komisyonu,
+**Merkezlerin Planlanması, Ön İzin, İl Değerlendirme Komisyonu,**
 
-Ruhsat ya da Faaliyet İzin Belgesi
+**Ruhsat ya da Faaliyet İzin Belgesi**
 
 #### Planlama
 
@@ -206,7 +206,7 @@ Ruhsat ya da Faaliyet İzin Belgesi
 
 **MADDE 13 –** (1) Merkez açmak isteyen kurum ya da kuruluşlar Bakanlıktan ön izin alır. Bunun için Ek-2’de yer alan dilekçe ile müdürlüğe başvurur.
 
-(2) İl değerlendirme komisyonu raporu ve müdürlüğün görüşü ile başvuru Bakanlığa iletilir. Bakanlık, merkez açma talebi bulunan iller için, ülke genelinde yapılan planlama ve ilgili il değerlendirme komisyonu raporuna göre değerlendirme yaparak o ilde merkez açılıp açılmayacağına karar verir. Uygun görülen başvurular için Bakanlıkça ön izin verilir.
+(2) **İl değerlendirme komisyonu** raporu ve müdürlüğün görüşü ile başvuru Bakanlığa iletilir. Bakanlık, merkez açma talebi bulunan iller için, ülke genelinde yapılan planlama ve ilgili il değerlendirme komisyonu raporuna göre değerlendirme yaparak o ilde merkez açılıp açılmayacağına karar verir. Uygun görülen başvurular için Bakanlıkça ön izin verilir.
 
 #### İl değerlendirme komisyonu
 
@@ -228,7 +228,7 @@ Ruhsat ya da Faaliyet İzin Belgesi
 
 ### BEŞİNCİ BÖLÜM
 
-Merkez Çalışanları
+**Merkez Çalışanları**
 
 #### Mesul müdür
 
@@ -278,9 +278,9 @@ h) Veri hazırlama ve kontrol işletmeni; Bakanlıkça istenilen verileri toplam
 
 ### ALTINCI BÖLÜM
 
-Merkezlerin Kurulması, Ruhsat ya da Faaliyet İznine Esas Personel Durumu ve
+**Merkezlerin Kurulması, Ruhsat ya da Faaliyet İznine Esas Personel Durumu ve**
 
-Merkezlerle İlgili Ortak Hükümler
+**Merkezlerle İlgili Ortak Hükümler**
 
 #### Danışma merkezinin kurulması, ruhsat ya da faaliyet iznine esas personel
 
@@ -358,7 +358,7 @@ Merkezlerle İlgili Ortak Hükümler
 
 ### YEDİNCİ BÖLÜM
 
-Eğitim, Merkezlerin Uyması Gereken Diğer Hususlar, Kayıt ve Bildirim
+**Eğitim, Merkezlerin Uyması Gereken Diğer Hususlar, Kayıt ve Bildirim**
 
 #### Eğitim
 
@@ -394,7 +394,7 @@ Eğitim, Merkezlerin Uyması Gereken Diğer Hususlar, Kayıt ve Bildirim
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Sosyal Uyum Merkezleri
 
@@ -432,4 +432,4 @@ Eğitim, Merkezlerin Uyması Gereken Diğer Hususlar, Kayıt ve Bildirim
 
 **MADDE 34 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

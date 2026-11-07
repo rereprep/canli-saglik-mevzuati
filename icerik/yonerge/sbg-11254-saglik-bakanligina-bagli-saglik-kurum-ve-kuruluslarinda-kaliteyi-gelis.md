@@ -13,7 +13,7 @@ durum: "yürürlükte"
 
 **MADDE 1 –** 23/ 03/ 2007 tarih ve 2542 sayılı Makam Onayı ile yürürlüğe konulan “Sağlık Bakanlığına Bağlı Sağlık Kurum ve Kuruluşlarında Kaliteyi Geliştirme ve Performans Değerlendirme Yönergesi”nin 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
-“Madde 4- (1) Bu Yönergede geçen;
+**“Madde 4-** (1) Bu Yönergede geçen;
 
 a) Bakanlık: Sağlık Bakanlığını,
 

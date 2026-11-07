@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2020/03/20200326M1-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7226 Kabul Tarihi: 25/3/2020
+**KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7226 Kabul Tarihi: 25/3/2020**
 
 MADDE 1 – 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanununa aşağıdaki ek madde eklenmiştir.
 “EK

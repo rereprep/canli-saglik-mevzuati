@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/06/20120629-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6327 Kabul Tarihi: 13/6/2012
 
 MADDE 1 – 4/2/1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanununun ek 37 nci maddesinin; birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş, diğer fıkralar buna göre teselsül ettirilmiş, mevcut üçüncü fıkrasının ikinci ve üçüncü cümleleri yürürlükten kaldırılmış, mevcut beşinci fıkrasında yer alan “lisans” ibaresi “yetkilendirme” şeklinde ve mevcut altıncı fıkrası aşağıdaki şekilde değiştirilmiştir.

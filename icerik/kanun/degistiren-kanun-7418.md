@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/10/20221018-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BASIN KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7418 Kabul Tarihi: 13/10/2022
+**KANUN BASIN KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7418 Kabul Tarihi: 13/10/2022**
 
 MADDE 1- 9/6/2004 tarihli ve 5187 sayılı Basın Kanununun 1 inci maddesinin birinci fıkrası aşağıdaki şekilde, ikinci fıkrasında yer alan “yayımını” ibaresi “yayımı ile internet haber sitelerini” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “Bu Kanunun amacı, basın özgürlüğü ve bu özgürlüğün kullanımı ile basın kartına ilişkin usul ve esasları belirlemektir.”

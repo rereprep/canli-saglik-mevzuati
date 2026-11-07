@@ -10,17 +10,17 @@ durum: "yürürlükte"
 
 Tarihi:04.11.2003 Sayısı:145974
 
-T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIĞI** Personel Genel Müdürlüğü
 
-Sayı : B.100.PER-00-000 Konu : Sözleşmeli Personel
+**Sayı :** B.100.PER-00-000 **Konu :** Sözleşmeli Personel
 
 ### ....................................VALİLİĞİNE
 
-(Sağlık Müdürlüğü)
+**(Sağlık Müdürlüğü)**
 
-Eleman temininde güçlük çekilen yerlerde sözleşmeli sağlık personeli çalıştırılmasına imkan sağlayan 4924 sayılı Kanun 24.07.2003 tarih ve 25178 sayılı Resmi Gazete’de, bu Kanuna dayanılarak hazırlanan “Sözleşmeli Sağlık Personeli Atama ve Nakil Yönetmeliği” de 02.09.2003 tarih ve 25217 sayılı, bu Yönetmelikte değişiklik yapan düzenleme ise 30.10.2003 tarih ve 25275 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiştir.
+Eleman temininde güçlük çekilen yerlerde sözleşmeli sağlık personeli çalıştırılmasına imkan sağlayan **4924 sayılı Kanun** 24.07.2003 tarih ve 25178 sayılı Resmi Gazete’de, bu Kanuna dayanılarak hazırlanan **“Sözleşmeli Sağlık Personeli Atama ve Nakil Yönetmeliği”** de 02.09.2003 tarih ve 25217 sayılı, bu Yönetmelikte değişiklik yapan düzenleme ise 30.10.2003 tarih ve 25275 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiştir.
 
-İl Sağlık Müdürlüklerinin de görüşü alınmak suretiyle ilgili mevzuat gereğince; Başbakanlık Doğu ve Güneydoğu Eylem Planı, Devlet Planlama Teşkilatı tarafından yayınlanmış en son ilçe bazındaki sosyo-ekonomik gelişmişlik kriterleri, ilçelerin sağlık göstergeleri ile coğrafi konumları dikkate alınarak Bakanlığımızca hazırlanan sözleşmeli sağlık personeli istihdam edilecek hizmet birimleri ve sözleşmeli sağlık personeli dağılımına ait Bakanlar Kurulu Kararı 24.09.2003 tarih ve 25239 sayılı Resmi Gazete’de yayımlanmış ve bu karar doğrultusunda hizmet birimleri ve pozisyon unvanları itibariyle Maliye Bakanlığınca vize işlemleri tamamlanmış ve vizelenmiş pozisyon cetvelleri Bakanlığımız Personel Genel Müdürlüğünün 23.10.2003 tarih ve 141173 sayılı yazısı ekinde ilinize gönderilmiştir.
+İl Sağlık Müdürlüklerinin de görüşü alınmak suretiyle ilgili mevzuat gereğince; Başbakanlık Doğu ve Güneydoğu Eylem Planı, Devlet Planlama Teşkilatı tarafından yayınlanmış en son ilçe bazındaki sosyo-ekonomik gelişmişlik kriterleri, ilçelerin sağlık göstergeleri ile coğrafi konumları dikkate alınarak Bakanlığımızca hazırlanan sözleşmeli sağlık personeli istihdam edilecek hizmet birimleri ve sözleşmeli sağlık personeli dağılımına ait Bakanlar Kurulu Kararı 24.09.2003 tarih ve 25239 sayılı Resmi Gazete’de yayımlanmış ve bu karar doğrultusunda hizmet birimleri ve pozisyon unvanları itibariyle Maliye Bakanlığınca vize işlemleri tamamlanmış ve **vizelenmiş pozisyon cetvelleri** Bakanlığımız Personel Genel Müdürlüğünün 23.10.2003 tarih ve 141173 sayılı yazısı ekinde ilinize gönderilmiştir.
 
 Sözkonusu kanun ve yönetmelik hükümleri gereğince sözleşmeli personel olarak; uzman tabip, tabip, diş tabibi ve eczacı pozisyonlarına her türlü atamalar kura ile, diğer sözleşmeli sağlık personeli pozisyonlarına ise merkezi sınavla yapılacaktır.
 
@@ -32,15 +32,15 @@ Sınav sonuçları 29.12.2003 tarihinde, adayların ikâmet ettikleri İl Milli 
 
 Sınav sonucu yerleştirilen adaylara ait listeler, yerleştirildikleri il bazında sınavı yapan kurum tarafından İl Sınav ve Kura Komisyonlarının atama ve yerleştirme işlemlerine esas olmak üzere İl Sağlık Müdürlüklerine ayrıca gönderilecektir.
 
-Ayrıca, 940 uzman tabip, 2545 pratisyen tabip, 160 diş tabibi ve 100 eczacı unvanlı sözleşmeli sağlık personeli pozisyonları için kura işlemi Bakanlığımız Bilgi İşlem Dairesi Başkanlığı tarafından 10.12.2003 tarihinde adayların katılımına açık olarak bilgisayar ortamında yapılacaktır. Bu unvanlara atanmak için başvurular ekte örneği gönderilen başvuru formuna (Ek-1) uygun olarak 10-19 Kasım 2003 tarihleri arasında, İl Sağlık Müdürlüklerinde oluşturulan İl Sınav ve Kura Komisyonlarına yapılacaktır.
+Ayrıca, 940 uzman tabip, 2545 pratisyen tabip, 160 diş tabibi ve 100 eczacı unvanlı sözleşmeli sağlık personeli pozisyonları için kura işlemi Bakanlığımız Bilgi İşlem Dairesi Başkanlığı tarafından 10.12.2003 tarihinde adayların katılımına açık olarak bilgisayar ortamında yapılacaktır. Bu unvanlara atanmak için başvurular ekte örneği gönderilen başvuru formuna **(Ek-1)** uygun olarak 10-19 Kasım 2003 tarihleri arasında, İl Sağlık Müdürlüklerinde oluşturulan İl Sınav ve Kura Komisyonlarına yapılacaktır.
 
 Başvuru formları İl Sağlık Müdürlüklerinde evrak giriş kaydı yapılarak adaylardan teslim alınacaktır.
 
-Adayların, başvuru formunu doldurmadan önce sözleşmeli sağlık personeli istihdamına ilişkin bilgilendirilmeleri amacıyla hazırlanan bilgi notu ( Ek-2) ile bu unvanlara ilişkin tercih edilecek sözleşmeli sağlık personeli pozisyonları ( Ek-3) ilişikte gönderilmiş olup, İl Sağlık Müdürlüklerinde tüm adaylar tarafından görülebilecek uygun bir yere asılmaları gerekmektedir.
+Adayların, başvuru formunu doldurmadan önce sözleşmeli sağlık personeli istihdamına ilişkin bilgilendirilmeleri amacıyla hazırlanan bilgi notu ( **Ek-2)** ile bu unvanlara ilişkin tercih edilecek sözleşmeli sağlık personeli pozisyonları ( **Ek-3)** ilişikte gönderilmiş olup, İl Sağlık Müdürlüklerinde tüm adaylar tarafından görülebilecek uygun bir yere asılmaları gerekmektedir.
 
 İl Sınav ve Kura Komisyonları ise kura için yapılacak başvurulara ilişkin bilgilerin öncelikle günlük olarak bilgisayar ortamında (ÇKYS projesi kapsamında İKYS-İnsan Kaynakları Yönetim Sistemi modülünün ilgili bölümünde) girilmesini ve kontrolünü sağlayacaklar ve bilahare tüm başvuru formlarını Valilik üst yazısı ekinde bu formlara ilişkin tanzim edilecek bir listeyle birlikte en geç 21 Kasım 2003 günü mesai bitimine kadar İl Sağlık Müdürlüklerince görevlendirilecek bir kurye ile Bakanlık Bilgi İşlem Daire Başkanlığına elden teslim edeceklerdir.
 
-Çekilecek kura sonucunda yerleştirilenlere ilişkin listeler en geç 12.12.2003 tarihinde İl Sağlık Müdürlüklerinde asılmak suretiyle ilanen duyurulacak ve bu duyuru tebligat yerine geçecektir. Ayrıca, kura sonuçları Bakanlığımız internet sitesinde de ( www.saglik.gov.tr ) yine en geç 12.12.2003 tarihinde ilan edilecektir.
+Çekilecek kura sonucunda yerleştirilenlere ilişkin listeler en geç 12.12.2003 tarihinde İl Sağlık Müdürlüklerinde asılmak suretiyle ilanen duyurulacak ve bu duyuru tebligat yerine geçecektir. Ayrıca, kura sonuçları Bakanlığımız internet sitesinde de ( www.**saglik.gov.tr** ) yine en geç 12.12.2003 tarihinde ilan edilecektir.
 
 10.12.2003 tarihinde çekilecek kura sonucu yerleştirilen adaylar 12-22/12/2003 tarihleri arasında, 13.12.2003 tarihinde yapılacak sınav sonucu yerleştirilen adaylar ise, 29.12.2003-09.01.2004 tarihleri arasında yerleştirildikleri hizmet biriminin bulunduğu İl Sınav ve Kura Komisyonuna atanmak için istenen belgelerle birlikte müracaat edeceklerdir.
 
@@ -74,11 +74,11 @@ Bu eksikliklerin mevcut ve yerel imkanlarla giderilememesi halinde ise Bakanlı�
 
 2- Sağlık hizmetinin sunumunda aksaklıklara neden olmamak ve atanacak personelin mağdur edilmemesi amacıyla, sözleşmeli sağlık personelinin görev yapacağı yerlerde Bakanlığımız personeli dışındaki personele tahsis edilmiş olan lojmanların ilgili mevzuat çerçevesinde boşaltılarak ataması yapılacak personele tahsis edilmek üzere hazır hale getirilmesi sağlanacaktır.
 
-3- Sözleşmeli personele ödenecek ücretleri belirleyen “Sözleşmeli Sağlık Personeli Ücretlerine İlişkin Esaslar” ve eki ücret oran tabloları (Ek-4) genelge ekinde gönderilmektedir.
+3- Sözleşmeli personele ödenecek ücretleri belirleyen **“Sözleşmeli Sağlık Personeli Ücretlerine İlişkin Esaslar”** ve eki ücret oran tabloları **(Ek-4)** genelge ekinde gönderilmektedir.
 
-4-Sözleşmeli personel hakkında uygulanacak disiplin cezaları ile sicil hususunda “Sözleşmeli Personel Disiplin Cezalarının Uygulanması ile Sicil Verilmesine İlişkin Usul ve Esaslar” ,
+4-Sözleşmeli personel hakkında uygulanacak disiplin cezaları ile sicil hususunda **“Sözleşmeli Personel Disiplin Cezalarının Uygulanması ile Sicil Verilmesine İlişkin Usul ve Esaslar” ,**
 
-Sözleşmeli personelin, görev yeri, görevi dahilinde yapacağı işlerin tanımları, uyacakları mesleki ve etik kurallar, ödev, yetki ve sorumlulukları ile diğer hususları belirleyen “Tip Sözleşme Örnekleri” ,
+Sözleşmeli personelin, görev yeri, görevi dahilinde yapacağı işlerin tanımları, uyacakları mesleki ve etik kurallar, ödev, yetki ve sorumlulukları ile diğer hususları belirleyen **“Tip Sözleşme Örnekleri” ,**
 
 Sözleşmeli personelin ödüllendirilmesine ilişkin “Başarı Değerlendirmesi Usul ve Esasları”
 

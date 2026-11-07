@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/06/20070607-5.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-KAMU İHALE KANUNU VE KAMU İHALE SÖZLEŞMELERİ KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5680 Kabul Tarihi : 1/6/2007
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**KAMU İHALE KANUNU VE KAMU İHALE SÖZLEŞMELERİ KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5680 Kabul Tarihi : 1/6/2007**
 
 MADDE 1 – 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 2 nci maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
 "a) Genel bütçe kapsamındaki kamu idareleri ile özel bütçeli idareler, il özel idareleri ve belediyeler ile bunlara bağlı; döner sermayeli kuruluşlar, birlikler (meslekî kuruluş şeklinde faaliyet gösterenler ile bunların üst kuruluşları hariç), tüzel kişiler."

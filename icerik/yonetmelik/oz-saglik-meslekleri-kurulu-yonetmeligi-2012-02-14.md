@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -50,7 +50,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Sağlık Meslekleri Kurulu
+**Sağlık Meslekleri Kurulu**
 
 #### Kurulun oluşumu
 
@@ -134,7 +134,7 @@ g) Uzman hekim ve uzman diş hekimi dışındaki sağlık meslek mensuplarının
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Müeyyideler
+**Müeyyideler**
 
 #### Mesleki yeterlilik eğitimi
 
@@ -148,7 +148,7 @@ Müeyyideler
 
 (5) Yeterlilik eğitimine tâbi tutulanlar; sonuç açıklandığı tarihten itibaren en geç 7 iş günü içinde eğitime tabi oldukları birim sorumlusuna yazılı başvuru yaparak sınav sonuçlarına itirazda bulunabilir. Birim sorumlusu sınav sonucu itiraz dilekçesine en geç 10 iş günü içinde cevap verir ve gerekli görüldüğünde yeniden sınav düzenlenir. Eğitim ve sınav sürecinde çözümlenemeyen itirazlar Kurula sunulur.
 
-(6) Sınav sonucu, ilgili birim sorumlusu tarafından Bakanlığa iletilir. Bu sınavda başarılı olanlar mesleğini icraya devam eder. Başarısız olanlar meslek icrasından men edilir. Meslekten men edilenler, durumlarına göre Kurulca belirlenen eğitime devam ettirilir veya eğitime tabi tutulmadan müteakip sınavlara alınır. Müteakip sınavlar üçüncü fıkrada belirtilen şekilde aynı veya farklı bir sınav komisyonu tarafından gerçekleştirilir. Sınavlarda başarı gösteren sağlık meslek mensubu, meslek icra etme hakkını yeniden kazanır.
+(6) Sınav sonucu, ilgili birim sorumlusu tarafından Bakanlığa iletilir. Bu sınavda başarılı olanlar mesleğini icraya devam eder. Başarısız olanlar meslek icrasından men edilir. **Meslekten men** edilenler, durumlarına göre Kurulca belirlenen eğitime devam ettirilir veya eğitime tabi tutulmadan müteakip sınavlara alınır. Müteakip sınavlar üçüncü fıkrada belirtilen şekilde aynı veya farklı bir sınav komisyonu tarafından gerçekleştirilir. Sınavlarda başarı gösteren sağlık meslek mensubu, meslek icra etme hakkını yeniden kazanır.
 
 (7) Mesleki uygulamalardaki yetersizliğinden dolayı bir uzmanlık dalında mesleğini icra edemeyeceğine karar verilen sağlık meslek mensuplarının yetersizliğinin niteliğine göre uzmanlık öncesi sahip olduğu sağlık mesleğini icra edebilmelerine karar verilebilir.
 
@@ -180,7 +180,7 @@ Müeyyideler
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 

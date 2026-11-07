@@ -12,12 +12,12 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/07/20250709-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN İKLİM KANUNU
+**KANUN İKLİM KANUNU**
 Kanun No. 7552 Kabul Tarihi: 2/7/2025
-BİRİNCİ KISIM
-Genel Hükümler
-BİRİNCİ BÖLÜM
-Başlangıç Hükümleri Amaç ve kapsam
+**BİRİNCİ KISIM**
+**Genel Hükümler**
+**BİRİNCİ BÖLÜM**
+**Başlangıç Hükümleri** Amaç ve kapsam
 
 MADDE 1- (1) Bu Kanunun amacı; yeşil büyüme vizyonu ve net sıfır emisyon hedefi doğrultusunda iklim değişikliğiyle mücadele etmektir.
 (2) Bu Kanun; iklim değişikliği ile mücadelede esas olan sera gazı emisyonlarının azaltılması ve iklim değişikliğine uyum faaliyetleri ile planlama ve uygulama araçlarını, gelirleri, izin ve denetimi ve bunlara ilişkin yasal ve kurumsal çerçevenin usul ve esaslarını kapsar.
@@ -68,8 +68,8 @@ ff) Uluslararası karbon piyasaları: Ülkemizin taraf olduğu uluslararası anl
 gg) Uygulama araçları: İklim değişikliği ile mücadeleye yönelik finansman, teknoloji geliştirme ve transferi ile kapasite geliştirme faaliyetlerini,
 ğğ) Yeşil iş: Çevrenin ve doğal kaynakların korunmasına ve çevre kalitesinin geliştirilmesine katkıda bulunarak sürdürülebilir kalkınmayı ve yeşil büyümeyi destekleyen işleri,
 hh) Yutak alan: Ormanlar ve diğer ekosistemler vasıtasıyla karbonu emerek atmosferden uzaklaştıran, karbondioksit emisyonlarını dengeleyen süreci, aktiviteyi ve mekanizmayı, ifade eder.
-İKİNCİ BÖLÜM
-Genel İlkeler ve Esaslar İlkeler
+**İKİNCİ BÖLÜM**
+**Genel İlkeler ve Esaslar** İlkeler
 
 MADDE 3- (1) İklim değişikliği ile mücadelede genel ilkeler şunlardır:
 a) İklim değişikliği ile mücadelede, ülkemizin ortak fakat farklılaştırılmış sorumluluklar ve göreceli kabiliyetler ilkesi dikkate alınarak, eşitlik, iklim adaleti, ihtiyatlılık, katılım, entegrasyon, sürdürülebilirlik, şeffaflık, adil geçiş ve ilerleme yaklaşımları esas alınır.
@@ -82,10 +82,10 @@ MADDE 4- (1) Sera gazı emisyonlarının azaltımı ve iklim değişikliğine uy
 (3) Kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler; kendi yetki ve sorumlulukları çerçevesinde plan ve projeler yapar, yaptırır, uygular, destekler ve iş birliği yapar.
 (4) 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu hükümleri saklı kalmak kaydıyla, Başkanlık; bu Kanunun uygulanmasına yönelik olarak gerekli gördüğü bilgi, belge ve veriyi; kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerden doğrudan istemeye yetkilidir. Kendilerinden bilgi ve belge talebinde bulunulanlar; bunları istenilen sürede bedelsiz olarak Başkanlıkla paylaşmakla yükümlüdür. Başkanlık; kendi iş ve işlemleri için ihtiyaç duyduğu verileri de öncelikli olarak Ulusal Coğrafi Bilgi Platformundan temin eder. Temin ettiği veriler ile kendi ürettiği verileri de kamu kurum ve kuruluşları ile paylaşılmak üzere Ulusal Coğrafi Bilgi Platformuna aktarır. Başkanlık, Ulusal Coğrafi Bilgi Platformunda bulunmayan verileri ilgili kamu kurum ve kuruluşları ile protokol yaparak temin edebilir. Millî savunma ve millî güvenliğe ilişkin bilgi ve belgelerin paylaşılmasına dair usul ve esaslar Bakanlık ve ilgili bakanlık tarafından müşterek olarak belirlenir.
 (5) Bu Kanunda Bakanlığa verilen yetkiler bakımından Bakanlık, sınırlarını açıkça belirlemek ve yazılı olmak kaydıyla gerektiğinde yetkilerini Başkanlığa devredebilir.
-İKİNCİ KISIM
-İklim Değişikliği ile Mücadele
-BİRİNCİ BÖLÜM
-İklim Değişikliği ile Mücadele Faaliyetleri Sera gazı emisyonlarının azaltım faaliyetleri
+**İKİNCİ KISIM**
+**İklim Değişikliği ile Mücadele**
+**BİRİNCİ BÖLÜM**
+**İklim Değişikliği ile Mücadele Faaliyetleri** Sera gazı emisyonlarının azaltım faaliyetleri
 
 MADDE 5- (1) Sera gazı emisyonları; Ulusal Katkı Beyanı, net sıfır emisyon hedefi ve Başkanlık tarafından yayımlanan veya güncellenen strateji ve eylem planları doğrultusunda azaltılır.
 (2) Ulusal Katkı Beyanında sektörel bazda belirtilen sera gazı emisyonlarının azaltım faaliyetleri, ilgili kurum ve kuruluşlara mevzuatla verilen görev ve sorumluluklar dâhilinde gerçekleştirilir. Ulusal Katkı Beyanında yer alan sektörel politikaların uygulanması ve hedeflere ulaşılması amacıyla ortaya çıkan ihtiyaçlar doğrultusunda bu maddedeki esaslar da dikkate alınarak ilgili kurum ve kuruluşların mevcut görev ve sorumlulukları gözden geçirilir. Bu kapsamda Bakanlığın ve ilgili kurumların görüşü alınarak Ulusal Katkı Beyanı ve net sıfır emisyon hedefi çerçevesinde ilgili kamu kurum ve kuruluşlarınca düzenleme yapılabilir.
@@ -101,8 +101,8 @@ MADDE 6- (1) Ulusal Katkı Beyanı, net sıfır emisyon hedefi ve Başkanlık ta
 (5) İlgili kamu kurum ve kuruluşları tarafından iklim değişikliğinin ekosistemlere ve biyolojik çeşitliliğe etkilerinin azaltılması ve sürdürülebilir ekosistem yönetimi için tedbirler alınır, denizel ve karasal korunan alanların muhafazası sağlanarak korunan alanların niteliği ve oranı yükseltilir ve iklim değişikliğinden etkilenen veya etkilenmesi muhtemel alanlarda arazi tahribatının dengelenmesi sağlanır. Çölleşme ve erozyonla mücadele ile ağaçlandırma ve toprak muhafaza kapsamında orman dışı alanlarda oluşturulan yutak alanların net sıfır emisyon hedefi doğrultusunda sürdürülebilir yönetimi sağlanır.
 (6) İlgili kamu kurum ve kuruluşları tarafından; tarım sektörünün sürdürülebilirliğini teminen iklim değişikliğine dirençli ürün deseni ile gıda güvenliğinin sağlanması hedefleri doğrultusunda; doğal kaynakların, ekosistemlerin ve biyolojik çeşitliliğin koruma kullanma dengesinin gözetilmesi ile ihtiyaç duyulan tekniklerin ve teknolojilerin yaygınlaştırılması suretiyle, tarım sektöründe ekosistem temelli uyum yaklaşımını, doğa temelli çözümleri ve su bütçesini dikkate alan planlama araçları geliştirilir ve buna uygun iklim değişikliğine dirençli uygulamalar yaygınlaştırılır.
 (7) İklim değişikliğine bağlı afetlerin neden olduğu kayıp ve zararların azaltılması amacıyla risk değerlendirme, izleme, bilgilendirme ve erken uyarı sistemleri; bütünleşik afet yönetimi esas alınarak geliştirilir.
-İKİNCİ BÖLÜM
-Planlama ve Uygulama Araçları Planlama araçları
+**İKİNCİ BÖLÜM**
+**Planlama ve Uygulama Araçları** Planlama araçları
 
 MADDE 7- (1) Kurum ve kuruluşlarca hazırlanan plan, program, strateji, eylem planı ve sair politika belgelerinde; yeşil büyüme vizyonu ve net sıfır emisyon hedefi kapsamında iklim değişikliği ile mücadeleye yönelik Başkanlık tarafından yayımlanan strateji ve eylem planları ile bu Kanunda belirlenen esaslar dikkate alınır.
 (2) İklim değişikliği strateji ve eylem planları;
@@ -125,8 +125,8 @@ c) Başkanlığa bağlı ilgili kurumlarla koordineli olarak enstitüler ile ara
 a) Kurum ve kuruluşlarca; kamuoyu farkındalığının artırılması ve toplumun iklim değişikliğinin etkileri konusunda duyarlı hâle getirilmesi için eğitim, bilinçlendirme ve kapasite geliştirme faaliyetleri gerçekleştirilir.
 b) Tüm eğitim düzeylerinde müfredat ve öğretim programlarının güncellenmesi ve yeşil iş gücünün yetiştirilmesi için gerekli çalışmalar ilgili bakanlıklarla koordineli olarak Millî Eğitim Bakanlığı ve Yükseköğretim Kurulunca yapılır.
 (4) Bu maddede belirtilen uygulamaların usul ve esasları, Bakanlık görüşü alınarak Ulusal Katkı Beyanı, uzun dönemli iklim değişikliği politika belgeleri ve belirlenen net sıfır emisyon hedefi doğrultusunda sorumlulukları dâhilinde ilgili kamu kurum ve kuruluşları tarafından belirlenir.
-ÜÇÜNCÜ BÖLÜM
-Karbon Fiyatlandırma Emisyon Ticaret Sisteminin kurulması ve tahsisatların esasları
+**ÜÇÜNCÜ BÖLÜM**
+**Karbon Fiyatlandırma** Emisyon Ticaret Sisteminin kurulması ve tahsisatların esasları
 
 MADDE 9- (1) Başkanlık tarafından ETS kurulur, ulusal tahsisat planlaması hazırlanır ve tahsisatların dağıtımı yapılır. Bu kapsamda esneklik mekanizmaları ile piyasa istikrar mekanizmaları da geliştirilebilir.
 (2) Piyasa işletmecisi ETS piyasasını işletir.
@@ -165,10 +165,10 @@ MADDE 11-
 (4) Bu maddenin ikinci fıkrası kapsamında karbon kredilerinin kullanılması, üretimi ile ulusal karbon kredilendirme sisteminin kurulması ve uygulanmasına ilişkin esaslar Başkanlıkça belirlenir. Bu kapsamda ulusal standart ve metodolojilerin geliştirilmesi için ilgili kuruluşlarla iş birliği yapılır.
 (5) Yurt içinde herhangi bir gönüllü karbon piyasasında ulusal veya uluslararası standartlarla karbon kredisi üretimine başlamış veya başlayacak olan yurt içinde gerçekleşen projelerin sahipleri;
 projelerini, Başkanlıkça belirlenen sürede karbon kredisi kayıt sistemine kayıt ettirmekle yükümlüdür. Başkanlık, bu madde kapsamında uluslararası standartları geliştiren kuruluşlarla iş birliği yapabilir.
-ÜÇÜNCÜ KISIM
-Gelirler, Yaptırımlar ve Çeşitli Hükümler
-BİRİNCİ BÖLÜM
-Gelirler ve Desteklerin Kullanımı Gelirler ve döner sermaye
+**ÜÇÜNCÜ KISIM**
+**Gelirler, Yaptırımlar ve Çeşitli Hükümler**
+**BİRİNCİ BÖLÜM**
+**Gelirler ve Desteklerin Kullanımı** Gelirler ve döner sermaye
 
 MADDE 12-
 (1) Bu Kanunda belirlenen amaçlarda kullanılmak üzere aşağıda sayılan gelirler genel bütçenin (B) işaretli cetvelinde özel gelir olarak kaydedilir:
@@ -191,8 +191,8 @@ ETS kapsamındaki sektörler başta olmak üzere bu Kanunda yer alan uygulamalar
 (3) Kurum ve kuruluşların kendi mevzuatları çerçevesindeki gelirleri; iklim yatırımlarını yapmak, yaptırmak veya teşvik etmek ile iklim yatırımlarının risk algısını ve borçlanma maliyetlerini azaltmaya yönelik olarak sigortacılık araçlarının geliştirilmesini desteklemek, yeşil ve sürdürülebilir sermaye piyasası aracı ihraçlarını teşvik etmek, garanti temini ile hibe ve finansman maliyeti desteği de verebilecek şekilde finansal araçların geliştirilmesi ve bunların uygulanmasını desteklemek amacıyla ilgili kurum ve kuruluşların görevleri dâhilinde kullanılır.
 (4) Yeşil dönüşüm ve iklim değişikliği ile mücadele desteklerinin kullanımında yıllara sari taahhütlerin stok tutarı; her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılmak suretiyle hesaplanan kesinleşmiş son dört yıl özel gelir gerçekleşme toplamının iki katını geçemez.
 (5) Bu maddenin uygulanmasına ilişkin usul ve esaslar; Hazine ve Maliye Bakanlığı ve Strateji ve Bütçe Başkanlığı ile ilgili kamu kurum ve kuruluşların görüşü alınarak Bakanlık tarafından belirlenir.
-İKİNCİ BÖLÜM
-Cezai Hükümler İdari nitelikteki yaptırımlar
+**İKİNCİ BÖLÜM**
+**Cezai Hükümler** İdari nitelikteki yaptırımlar
 
 MADDE 14-
 (1) Sera gazı emisyonlarının takibine ilişkin yasaklara veya sınırlamalara aykırı olarak;
@@ -236,8 +236,8 @@ Başkanlık, tutanağı değerlendirerek gerekli idari yaptırım kararını ver
 İdari yaptırım kararı, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre Başkanlık tarafından ilgiliye tebliğ edilir.
 (2) İdari yaptırım kararları hakkında idari yargıda Başkanlığa karşı dava açılabilir. Dava açılması idarece verilen cezanın tahsilini durdurmaz.
 (3) İdari para cezalarının tahsil usulü hakkında 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu hükümleri uygulanır.
-ÜÇÜNCÜ BÖLÜM
-Çeşitli ve Son Hükümler Düzenleyici işlemler ve çeşitli hükümler
+**ÜÇÜNCÜ BÖLÜM**
+**Çeşitli ve Son Hükümler** Düzenleyici işlemler ve çeşitli hükümler
 
 MADDE 17-
 (1) Kanunda aksine hüküm bulunmadıkça, bu Kanunun uygulanmasına ilişkin usul ve esaslar Başkanlıkça belirlenir.

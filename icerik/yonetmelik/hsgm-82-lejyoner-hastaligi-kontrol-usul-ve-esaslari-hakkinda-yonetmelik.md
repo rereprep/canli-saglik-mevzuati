@@ -12,7 +12,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+**Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar**
 
 #### Amaç
 
@@ -68,7 +68,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Rutin Koruyucu Önlemler
+**Rutin Koruyucu Önlemler**
 
 #### Rutin koruyucu önlemlerin uygulanacağı mekân ve alanlar
 
@@ -150,7 +150,7 @@ e) Soğutma kuleleri tümü ile boşaltılıp, bütün tortu ve kirlilik uzakla�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Su Sistemlerinin Temizlenmesi ve Dekontaminasyonu
+**Su Sistemlerinin Temizlenmesi ve Dekontaminasyonu**
 
 #### Fiziksel yöntemler
 
@@ -184,7 +184,7 @@ c) Radyasyon ile eradikasyon yöntemleri:
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Sürveyans Çalışmaları
+**Sürveyans Çalışmaları**
 
 #### Vaka sürveyansı
 
@@ -244,7 +244,7 @@ c) İkinci su numunesinin analiz sonuçları geldikten sonra ilgili formlar dold
 
 ### BEŞİNCİ BÖLÜM
 
-Laboratuvarlar
+**Laboratuvarlar**
 
 #### Legionella bölge laboratuvarları ve görevleri
 
@@ -318,7 +318,7 @@ e) Lejyoner hastalığı kontrol programı kapsamında klinik numune çalışan 
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Numune alma yetkisi
 

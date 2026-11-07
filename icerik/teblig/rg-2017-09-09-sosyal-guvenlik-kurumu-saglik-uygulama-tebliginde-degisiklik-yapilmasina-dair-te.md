@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’ de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.5.1 numaralı maddesinin birinci fıkrasının ilk cümlesinde yer alan “(1), (3) ve (9)” ibaresi “(1) ve (3)” şeklinde ve ikinci cümlesinde yer alan “60/c-1, 60/c-3 veya 60/c-9” ibaresi “60/c-1 veya 60/c-3” şeklinde değiştirilmiştir.
 
@@ -200,10 +200,10 @@ c) Listeye “804410” SUT kodlu işlemden sonra gelmek üzere aşağıdaki iş
 “ 804411 MR T2 * karaciğer 804412 MR enteroklizis 804413 MR, fetal 804414 MR sisternografi 804415 MR, difüzyon tensör görüntüleme, traktografi 804416 MR 3-boyutlu Görüntüleme ”
 
 MADDE 39 – Aynı Tebliğ eki Hizmet Başı İşlem Puan Listesi (EK-2/B)’ nde aşağıdaki düzenlemeler yapılmıştır.
-a) Listede yer alan “610820” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+a) Listede yer alan “610820**” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 1519 610820 ESWT Ekstrakorporal şok dalgası, tek seans.
 (En fazla 5 seans ödenir.) 42,16 ”
-b) Listede yer alan “701580” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+b) Listede yer alan “701580” SUT kodlu **işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2973 701580 Adale testi Ortopedi ve travmatoloji, nöroloji, spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 8,09 ”
 c) Listede yer alan “701600” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
@@ -215,105 +215,105 @@ c) Listede yer alan “701600” SUT kodlu işlem satırı aşağıdaki şekilde
 d) Listede yer alan “701620” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
 “ 2977 701620 Duyu-algı-motor değerlendirmesi Nöroloji, beyin cerrahi, spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 22,61 ”
-e) Listede yer alan “701630” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**e) Listede yer alan “**701630” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
 “ 2978 701630 Eklem hareket açıklığı ölçümü Ortopedi ve travmatoloji, romatoloji, spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 15,01 ”
-f) Listede yer alan “701640” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**f) Listede yer alan “**701640” SUT kodlu **işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2979 701640 El beceri testleri Nöroloji uzman hekimlerince de uygulandığında faturalandırılır.
 22,61 ”
-g) Listede yer alan “701650” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**g) Listede yer alan “**701650” SUT kodlu **işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2980 701650 Elektrodiagnostik testler Nöroloji uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-ğ) Listede yer alan “701660” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ğ) Listede yer alan “**701660” SUT kodlu **işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2981 701660 Günlük yaşam aktiviteleri testi Nöroloji, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-h) Listede yer alan “ 701670” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**h) Listede yer alan “** 701670” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
 “ 2982 701670 Kas gücünün dinamometre ile ölçümü (tek ekstremite) Ortopedi ve travmatoloji, spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-ı) Listede yer alan “701690” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ı) Listede yer alan “**701690**” SUT** kodlu **işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2984 701690 Nörofizyolojik değerlendirme Nöroloji uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-i)Listede yer alan “701700” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**i)Listede yer alan “**701700” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2985 701700 Postur analizi Ortopedi ve travmatoloji, beyin cerrahi, romatoloji, spor hekimliği, nöroloji, tıbbi ekoloji hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 22,61 ”
-j) Listede yer alan “701710” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**j) Listede yer alan “**701710” **SUT** kodlu **işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2986 701710 Skolyoz değerlendirmesi Ortopedi ve travmatoloji, tıbbi ekoloji ve hidroklimatoloji, beyin cerrahi uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-k) Listede yer alan “701720” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**k) Listede yer alan “**701720” **SUT** kodlu **işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2987 701720 Yürüme analizi Spor hekimliği, nöroloji ve tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-l) Listede yer alan “701730” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**l) Listede yer alan “**701730” **SUT** kodlu **işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2988 701730 Yürüme analizi (bilgisayar sistemli kinetik-kinematik analiz) Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 30,02 ”
-m) Listede yer alan “701740” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**m) Listede yer alan “**701740**” SUT** kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
 “ 2990 701740 Coldpack Spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 4,05 ”
-n) Listede yer alan “701780” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
-“ 2995 701780 Fango, lokal Tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
-5,06 ”
-o) Listede yer alan “701830” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**n) Listede yer alan “**701780” **SUT** kodlu **işlem satırı aşağıdaki şekilde değiştirilmiştir.**
+“ **2995 701780 Fango, lokal** Tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
+**5,06** ”
+**o) Listede yer alan “**701830**” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3000 701830 Hotpack Spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 4,05 ”
-ö) Listede yer alan “701890” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ö) Listede yer alan “**701890” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3006 701890 Klasik masaj, bölgesel Spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır 6,07 ”
-p) Listede yer alan “701900” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**p) Listede yer alan “**701900” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3007 701900 Klasik masaj, tüm vücut Spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-r) Listede yer alan “701930” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**r) Listede yer alan “**701930” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3010 701930 Paleidoterapi (çamur tedavisi) Tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 5,06 ”
-s) Listede yer alan “701940” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**s) Listede yer alan “**701940” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3011 701940 Parafin Tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 4,05 ”
-ş) Listede yer alan “701950” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ş) Listede yer alan “**701950” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3012 701950 TENS Spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 4,05 ”
-t) Listede yer alan “701960” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**t) Listede yer alan “**701960” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3013 701960 Terapötik elektrik stimülasyon Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 5,06 ”
-u) Listede yer alan işlem başlığı aşağıdaki şekilde değiştirilmiştir.
-“ 3019 Hidroterapi - Balneoterapi Bu başlık altındaki işlemler aksi belirtilmedikçe tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
+**u) Listede yer alan işlem başlığı aşağıdaki şekilde değiştirilmiştir.**
+“ **3019 Hidroterapi - Balneoterapi** Bu başlık altındaki işlemler aksi belirtilmedikçe tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında **faturalandırılır.**
 ”
-ü) Listede yer alan “702030” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ü) Listede yer alan “**702030” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3021 702030 Girdap banyosu Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 15,01 ”
-v) Listede yer alan “702040” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**v) Listede yer alan “**702040” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3022 702040 Kontrast banyo Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 3,04 ”
-y) Listede yer alan “702080” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**y) Listede yer alan “**702080” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3026 702080 Su içi egzersiz Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-z) Listede yer alan “702130” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**z) Listede yer alan “**702130” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3032 702130 Denge/koordinasyon eğitimi Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-aa) Listede yer alan “702160” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**aa) Listede yer alan “**702160” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3035 702160 Eklem enjeksiyonları Spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 15,01 ”
-bb) Listede yer alan “702170” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**bb) Listede yer alan “**702170” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3036 702170 Eklem hareket açıklığı egzersizi Spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulandığında faturalandırılır.
 7,08 ”
-cc) Listede yer alan “702230” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**cc) Listede yer alan “**702230” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3042 702230 Germe egzersizi Spor hekimliği, tıbbi ekoloji ve hidroklimatoloji uzman hekimlerince de uygulanması halinde faturalandırılır.
 8,09 ”
-çç) Listede yer alan “702270” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**çç) Listede yer alan “**702270” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3046 702270 İzokinetik egzersizler Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-dd) Listede yer alan “702310” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**dd) Listede yer alan “**702310” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3050 702310 Mekanik egzersiz istasyonu Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 20,07 ”
-ee) Listede yer alan “702400” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ee) Listede yer alan “**702400” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3059 702400 Progresif dirençli egzersiz Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 6,07 ”
-ff) Listede yer alan “702410” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ff) Listede yer alan “**702410” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3060 702410 Propioseptif eğitim Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 9,11 ”
-gg) Listede yer alan “702490” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**gg) Listede yer alan “**702490” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3068 702490 Spor sakatlıkları rehabilitasyonu Bununla birlikte diğer rehabilitasyonlar faturalandırılmaz. Spor hekimliği uzman hekimlerince de uygulandığında faturalandırılır.
 25,13 ”
-ğğ) Listede yer alan “702500” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ğğ) Listede yer alan “**702500” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3069 702500 Yutkunma rehabilitasyonu Yutma anatomik bölgelerine cerrahi uygulanmış hastalarda KBB uzman hekimlerince de uygulandığında faturalandırılır.
 17,03 ”
-hh) Listede yer alan “702760” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**hh) Listede yer alan “**702760” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3100 702760 Nöropsikolojik test bataryası 702770 ile birlikte faturalandırılmaz. Nöroloji uzman hekimlerince de yapılması halinde faturalandırılır.
 59,02 ”
 ıı) Listeye “700991” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı eklenmiştir.
@@ -332,7 +332,7 @@ DEZARTİKÜLASYON PROTEZİ SİLİKON LİNER DEĞİŞİMİ
 734,40 ”
 
 MADDE 42 – Aynı Tebliğin Diğer Protez Ortezler Listesi (EK-3/C-3)’ nde yer alan aşağıda SUT kodu ve alan tanımı belirtilen tıbbi malzemelerin fiyatları aşağıdaki şekilde değiştirilmiştir.
-“ SUT Kodu SUT Alan Tanımı SUT Fiyatı DO1025
+“ **SUT Kodu SUT Alan Tanımı SUT Fiyatı** DO1025
 ELDİVEN
 (PARMAK UCU AÇIK/KAPALI) 375,00 DO1026
 OMUZDAN DESTEKLİ KOLLUK BİLEĞE KADAR
@@ -360,23 +360,23 @@ BELDEN DESTEKLİ TEK BACAK ÇORAP
 
 MADDE 43 – Aynı Tebliğ eki Kardiyoloji Branşına Ait Tıbbi Malzemeler Listesi (EK-3/H)’ nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “EMBOLİZAN, SIVI, NONADHEZİV, DMSO İÇEREN” başlığından sonra gelmek üzere aşağıdaki satır eklenmiştir.
-“ Sadece nörovasküler (anevrizma, AVM ve AVF gibi) olgularda faturalandırılması halinde bedeli Kurumca karşılanır.
+“ **Sadece nörovasküler (anevrizma, AVM ve AVF gibi) olgularda faturalandırılması halinde bedeli Kurumca karşılanır.**
 ”
 b) Listede yer alan “KR1151” SUT kodlu tıbbi malzemenin fiyatı aşağıdaki şekilde yeniden belirlenmiştir.
 “ KR1151
-STENT, KORONER, BALONA MONTE EDİLMİŞ İLAÇ SALINIMLI
-650,00 ”
+**STENT, KORONER, BALONA MONTE EDİLMİŞ İLAÇ SALINIMLI**
+**650,00** ”
 
 MADDE 44 – Aynı Tebliğ eki Kalp Damar Cerrahisi Branşına Ait Tıbbi Malzemeler Listesi (EK-3/I)’ nde yer alan “EMBOLİZAN, SIVI, NONADHEZİV, DMSO İÇEREN” başlığından sonra gelmek üzere aşağıdaki satır eklenmiştir.
-“ Sadece nörovasküler (anevrizma, AVM ve AVF gibi) olgularda faturalandırılması halinde bedeli Kurumca karşılanır.
+“ **Sadece nörovasküler (anevrizma, AVM ve AVF gibi) olgularda faturalandırılması halinde bedeli Kurumca karşılanır.**
 ”
 
 MADDE 45 – Aynı Tebliğ eki Üroloji Branşına Ait Tıbbi Malzemeler Listesi (EK-3/L)’nde “UR1088” SUT kodlu tıbbi malzemeden sonra gelmek üzere aşağıda yer alan başlıklar ve tıbbi malzeme satırı ödeme kriterleri ve fiyatı ile birlikte eklenmiştir.
 “
-İNTRAKAVİTER HİPERTERMİ CİHAZLARI RADYOFREKANS YÖNTEMİ
+İNTRAKAVİTER HİPERTERMİ CİHAZLARI **RADYOFREKANS YÖNTEMİ**
 UR2007
 İNTRAKAVİTER HİPERTERMİ RF PROBU İLE BİRLİKTE İNTRAKAVİTER KEMOTERAPİ SETİ
-2.484,00
+**2.484,00**
 (1) Aşağıda belirtilen kriterlerin tamamının birlikte varlığı halinde ve en fazla 12 seans bedelleri Kurumca karşılanır.
 1. Üçüncü basamak hastanelerde, 3 (üç) üroloji uzmanının bulunduğu sağlık kurulu raporuyla,
 2. BCG’ye refrakter veya BCG'yi tolere edemeyen veya BCG kullanımının kontrendike olduğu,
@@ -385,11 +385,11 @@ UR2007
 ”
 
 MADDE 46 – Aynı Tebliğin eki Radyoloji Branşı ve Endovasküler/Nonvasküler Girişimsel İşlemlere Ait Tıbbi Malzemeler Listesi (EK-3/M)’ nde yer alan “EMBOLİZAN, SIVI, NONADHEZİV, DMSO İÇEREN” başlığından sonra gelmek üzere aşağıdaki satır eklenmiştir.
-“ Sadece nörovasküler (anevrizma, AVM ve AVF gibi) olgularda faturalandırılması halinde bedeli Kurumca karşılanır.
+“ **Sadece nörovasküler (anevrizma, AVM ve AVF gibi) olgularda faturalandırılması halinde bedeli Kurumca karşılanır.**
 ”
 
 MADDE 47 – Aynı Tebliğ eki Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi (EK-4/E)’ nde yer alan 11- ANTİVİRAL İLAÇLAR A) HIV/AIDS Tedavisinde Kullanılan Spesifik İlaçlar başlıklı maddesine aşağıdaki satır eklenmiştir.
-“ Tenofovir alafenamit+ emtrisitabin+kobisistat+ elvitegravir Enfeksiyon hastalıkları uzmanlarınca düzenlenecek sağlık raporuna istinaden enfeksiyon hastalıkları uzmanlarınca, bunların bulunmadığı yerlerde reçetenin açıklama bölümünde bu durumun belirtilmesi koşuluyla iç hastalıkları ve çocuk hastalıkları uzman hekimlerince reçetelenir.
+“ Tenofovir **alafenamit+ emtrisitabin+kobisistat+ elvitegravir Enfeksiyon hastalıkları uzmanlarınca düzenlenecek sağlık raporuna istinaden enfeksiyon hastalıkları uzmanlarınca, bunların bulunmadığı yerlerde reçetenin açıklama bölümünde bu durumun belirtilmesi koşuluyla iç hastalıkları ve çocuk hastalıkları uzman hekimlerince reçetelenir.**
 ”
 
 MADDE 48 – Aynı Tebliğ eki Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) ile Verilebilecek İlaçlar Listesi (EK-4/F)’ nde aşağıdaki düzenlemeler yapılmıştır.

@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 #### Tarihi:30.12.1940 Sayısı:3959
 
-**Madde 1 –** Sıhhat ve İçtimai Muavenet Vekâletine bağlı, Hıfzıssıhha Enstitüsü ve Hıfzıssahha Mektebinden ibaret olmak üzere teşkil edilen (Türkiye Cumhuriyeti Merkez Hıfzıssıhha Müessesesi) bu kanunda yazılı işleri yapmakla mükelleftir. (*) Memleketin muhtelif mıntakalarının sıhhi ihtiyaçlarına göre Sıhhat ve İçtimai Muavenet Vekâletinin göreceği lüzum üzerine aynı işleri yapmakla mükellef enstitü şubeleri açılabilir.
+**Madde 1 –** Sıhhat ve İçtimai Muavenet Vekâletine bağlı, **Hıfzıssıhha Enstitüsü** ve Hıfzıssahha Mektebinden ibaret olmak üzere teşkil edilen (Türkiye Cumhuriyeti Merkez Hıfzıssıhha Müessesesi) bu kanunda yazılı işleri yapmakla mükelleftir. (*) Memleketin muhtelif mıntakalarının sıhhi ihtiyaçlarına göre Sıhhat ve İçtimai Muavenet Vekâletinin göreceği lüzum üzerine aynı işleri yapmakla mükellef enstitü şubeleri açılabilir.
 
 #### Hıfzıssıhha Enstitüsü
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 
 Sagler Hizmetleri
 
-Gerıel MOdurloğe Sayı : B.10. 0.SHG.0.19.00.00 / e ı Konu : ISBT Numaralandırma Sistemi
+Gerıel MOdurloğe Sayı : B.10. 0.SHG.0.19.00.00 / e ı **Konu :** ISBT Numaralandırma Sistemi
 
 ### GENELGE 2012/ (-1
 

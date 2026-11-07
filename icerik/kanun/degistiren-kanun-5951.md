@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/02/20100205-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5951 Kabul Tarihi: 28/1/2010
+Kanun No. 5951 **Kabul Tarihi: 28/1/2010**
 
 MADDE 1 – 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 58 inci maddesinin üçüncü fıkrası yürürlükten kaldırılmıştır.
 
@@ -80,7 +80,7 @@ MADDE 13 – 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunun
 
 GEÇİCİ MADDE 1 – Türkiye İş Kurumu tarafından, 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanunu uyarınca sigortalı işsizlere 1/10/2008 ila 1/9/2009 tarihleri arasında yapılan işsizlik ödeneği ödemeleri üzerinden damga vergisi hesaplanmaz; vergi cezası, gecikme faizi ve gecikme zammı aranmaz; tahsil edilmiş tutarlar iade edilmez.
 
-GEÇİCİ MADDE 2 – Bu Kanunun 3 üncü maddesi ile 492 sayılı Harçlar Kanununa ekli (8) sayılı tarifenin “XI- Finansal faaliyet harçları” bölümünün (1) numaralı bendinde yapılan değişiklik 2010 yılında tahakkuk ettirilmiş harçlar için de uygulanır ve aradaki farka isabet eden harç tutarı bu Kanunun yayımı tarihi itibarıyla tahakkuk ettirilmiş sayılarak bir ay içinde ödenir. Kanunun yayımı tarihi itibarıyla faaliyette bulunan tüm bankaların serbest bölgeler dışındaki şubelerine ait belgelere ilişkin yıllık harçlar 2010 yılı için bu Kanunun yayımı tarihi itibarıyla tahakkuk ettirilmiş sayılarak bir ay içinde ödenir.
+**GEÇİCİ MADDE 2 –** Bu Kanunun 3 üncü maddesi ile 492 sayılı Harçlar Kanununa ekli (8) sayılı tarifenin “XI- Finansal faaliyet harçları” bölümünün (1) numaralı bendinde yapılan değişiklik 2010 yılında tahakkuk ettirilmiş harçlar için de uygulanır ve aradaki farka isabet eden harç tutarı bu Kanunun yayımı tarihi itibarıyla tahakkuk ettirilmiş sayılarak bir ay içinde ödenir. Kanunun yayımı tarihi itibarıyla faaliyette bulunan tüm bankaların serbest bölgeler dışındaki şubelerine ait belgelere ilişkin yıllık harçlar 2010 yılı için bu Kanunun yayımı tarihi itibarıyla tahakkuk ettirilmiş sayılarak bir ay içinde ödenir.
 
 MADDE 14 – Bu Kanunun;
 a) 2 nci maddesi 31/12/2009 tarihinden geçerli olmak üzere yayımı tarihinde,

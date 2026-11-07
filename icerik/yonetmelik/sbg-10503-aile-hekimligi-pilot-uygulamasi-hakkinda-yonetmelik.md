@@ -7,7 +7,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10503/aile-hekimligi-pilot-uygulamasi-
 durum: "yürürlükte"
 ---
 
-Resmi Gazete Tarihi: 06.07.2005 Resmi Gazete Sayısı: 25867
+**<i>Resmi Gazete Tarihi: 06.07.2005 Resmi Gazete Sayısı: 25867</i>**
 
 ### AİLE HEKİMLİĞİ PİLOT UYGULAMASI HAKKINDA YÖNETMELİK BİRİNCİ KISIM Genel Hükümler BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
@@ -407,7 +407,7 @@ Bu Yönetmeliğin yürürlüğe girmesinden önce tamamlanmış birinci aşama u
 
 **Madde 32 –** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-(EK–1)
+**(EK–1)**
 
 ### Aile Hekimliği Uygulamasında Atama ve Nakille İlgili Usul ve Esaslar
 
@@ -485,7 +485,7 @@ b) Diğer iller kamu kurum ve kuruluş kadro veya pozisyonlarında görev yapan 
 
 Yukarıdaki (b) alt bendine göre istihdam edilen sözleşmeli aile sağlığı elemanlarına, bu maddenin (A) fıkrasının (I) numaralı bendinin (c) alt bendinin ikinci paragrafındaki hükümler uygulanır.
 
-C) Görevlendirme:
+**C) Görevlendirme:**
 
 Pilot ilde boş aile hekimi ve aile sağlığı elemanı pozisyonları görevlendirme suretiyle doldurulur. Farklı ilçeden görevlendirme yapılması halinde, görevlendirme süresi, personelin rızası olmadıkça altı ayı geçemez.
 
@@ -501,7 +501,7 @@ Naklen atanma talebinde bulunan aile hekimleri ile yeniden veya ilk defa işe ba
 
 3) (Değişik: RG-05/12/2006-26967) Kamu kurum ve kuruluşlarında çalışan tabip/diğer uzman tabipler.
 
-4) (Ek: RG-05/12/2006-26967) Diğer tabip ve uzman tabipler.
+4) **(Ek: RG-05/12/2006-26967)** Diğer tabip ve uzman tabipler.
 
 Boşalan veya yeni açılan aile hekimliği pozisyonuna, 1 inci alt grubun hizmet puanı en yüksek olan personelden başlamak üzere kabul eden uzman tabip veya tabibin naklen, yeniden veya ilk defa atanması gerçekleştirilir. Açıktan atama yapılabilmesi için bütçe imkânlarının uygun olması, Bakanlığın önerisi ve Maliye Bakanlığının uygun görüşü şarttır.
 
@@ -523,11 +523,11 @@ Boşalan pozisyona müracaatı kabul edilen aile hekimi veya aile sağlığı el
 
 **Madde 4 –** Aile hekimi veya aile sağlığı elemanın bu Yönetmelik’te düzenlenen sistem dışında özür durumu gibi farklı nedenlerle naklen ataması yapılamaz. Bu konumdaki personel memur olarak görev yaparken sözleşmeli statüye geçmiş ise, bu statüye tekrar dönerek tayin talebinde bulunabilir veya bu Yönetmelik’teki düzenlemeye göre sıralamaya girebilir.
 
-(Mülga ikinci fıkra: RG-05/12/2006-26367)
+**(Mülga ikinci fıkra: RG-05/12/2006-26367)**
 
 Aile hekimliği uygulamasına geçilen illerde bu bölümdeki özel düzenlemeler dışında 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Atama ve Nakil Yönetmeliği hükümlerinin uygulanmasına devam edilir.
 
-EK-2 (Ek: RG-05/12/2006-26367)
+**EK-2 (Ek: RG-05/12/2006-26367)**
 
 ### EĞİTİM PUANLAMA TABLOSU EĞİTİM SAYISI EĞİTİM PUANI EĞİTİM PUANI (İL İÇİ) (İL DIġI) 1 300 400 2 400 500 3 500 600 4 600 800 5 800 1000 6 800 1000 7 800 1000 8 600 800 9 500 600 10 400 500 11 300 400 12 200 300
 

@@ -35,7 +35,7 @@ Sistemin kurulum ve işletilmesi için yapılmakta olan çalışmalar neticesind
 
 a. Merkezi Hastane Randevu Sistemi gereklerine uygun bir Hastane Bilgi Sistemi sahibi olmalarını sağlamak üzere mevcut uygulama yazılımı içerisinde Hekim Çalışma Cetvellerinin elektronik ortama kaydedilmesine dair değişikliklerin yaptırılması,
 
-b. Mevcut Hastane Bilgi Sistemi yazılımının Bakanlık Merkezinde kurulmuş bulunan merkezi Hastane Randevu sistemine web servisleri aracılığıyla veri gönderebilmeleri için gerekli entegrasyonun www.sagliknet.saglik.gov.tr adresindeki DÖKÜMANLAR linki altında yayımlanmakta olan Entegrasyon Kılavuzunda belirtilen gereklere göre yaptırılarak hazır halde tutulması,
+b. Mevcut Hastane Bilgi Sistemi yazılımının Bakanlık Merkezinde kurulmuş bulunan merkezi Hastane Randevu sistemine web servisleri aracılığıyla veri gönderebilmeleri için gerekli entegrasyonun www.sagliknet.**saglik.gov.tr** adresindeki DÖKÜMANLAR linki altında yayımlanmakta olan Entegrasyon Kılavuzunda belirtilen gereklere göre yaptırılarak hazır halde tutulması,
 
 c. Bu hastanelerimizin hastaneye özel sadece o hastanede çalışan bir randevu sistemi için yeni yatırım yapmaması,
 

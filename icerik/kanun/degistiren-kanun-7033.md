@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2017/07/20170701-21.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-SANAYİNİN GELİŞTİRİLMESİ VE ÜRETİMİN DESTEKLENMESİ AMACIYLA BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7033 Kabul Tarihi: 18/6/2017
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**SANAYİNİN GELİŞTİRİLMESİ VE ÜRETİMİN DESTEKLENMESİ AMACIYLA BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7033 **Kabul Tarihi: 18/6/2017**
 
 MADDE 1 – 2/1/1924 tarihli ve 394 sayılı Hafta Tatili Hakkında Kanun yürürlükten kaldırılmıştır.
 

@@ -16,11 +16,11 @@ durum: "uygulama olanağı kalmamış"
 
 ### HAKKINDA YÖNETMELİK
 
-Bakanlar Kurulu Kararının Tarihi : 17.8.1964 No : 6/3470
+**Bakanlar Kurulu Kararının Tarihi : 17.8.1964 No : 6/3470**
 
-Dayandığı Kanunun Tarihi : 5.1.1961 No : 224
+**Dayandığı Kanunun Tarihi : 5.1.1961 No : 224**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 9.9.1964 No : 11802
+**Yayımlandığı Resmî Gazetenin Tarihi : 9.9.1964 No : 11802**
 
 #### Yayımlandığı Düsturun Tertibi : 5 Cilt : 3 Sayfa : 3130
 
@@ -212,7 +212,7 @@ Teknik hususlarda yazışma zinciri aşağıdaki şekildedir. Ancak ilçe ve buc
 
 e. Sicil:
 
-(Mülga: 27.8.1973 - 14638 Sayılı Resmi Gazete'de yayımlanan Bakanlık Yönetmeliği md: 2)[1]
+**(Mülga: 27.8.1973 - 14638 Sayılı Resmi Gazete'de yayımlanan Bakanlık Yönetmeliği md: 2)[1]**
 
 f. Çalışma programlarının hazırlanması:
 
@@ -238,7 +238,7 @@ g. Sağlık kuruluşu ile diğer genel idare kuruluşunun işbirliği
 
 (5) İlçelerde çeşitli mevzuata göre teşkil edilmiş olan komisyonlara katılacak sağlık ocağı hekimi sağlık ve sosyal yardım müdürünün teklifi ile vali tarafından görevlendirilir.
 
-h. (Değişik: 18/5/1994 - 94/5626 K.) Mali İşler:
+h. **(Değişik: 18/5/1994 - 94/5626 K.)** Mali İşler:
 
 (1) Personel kadroları ve ödenekler il ve ilçe saymanlık teşkilatına gönderilir.
 
@@ -293,4 +293,4 @@ b. Bu yönetmelik hükümlerini Bakanlar Kurulu yürütür.
 | Tarihi | Numarası | Farklı Tarihte Yürürlüğe Giren Maddeleri | Yürürlüğe Giriş Tarihi |
 | 18/5/1994 | 94/5626 | - | 3.6.1994 |
 
-<small>[1] Hernekadar hukuki normlar hiyarşisine göre Bakanlar Kurulu Kararı ile kabul edilmiş bir yönetmeliğin değiştirilmesi yine aynı düzeyde bir mevzuat hükmü ile mümkün olabilir ise de Sağlık ve Sosyal Yardım Bakanlığı tarafından çıkarılmış olup 27.8.1973 tarih ve 14638 sayılı Resmi Gazete'de yayımlanan yönetmeliğin 2 nci maddesi ile bu bend hükmü yürürlükten kaldırılmıştır.</small>
+<small>[1] <i>Hernekadar hukuki normlar hiyarşisine göre Bakanlar Kurulu Kararı ile kabul edilmiş bir yönetmeliğin değiştirilmesi yine aynı düzeyde bir mevzuat hükmü ile mümkün olabilir ise de Sağlık ve Sosyal Yardım Bakanlığı tarafından çıkarılmış olup 27.8.1973 tarih ve 14638 sayılı Resmi Gazete'de yayımlanan yönetmeliğin 2 nci maddesi ile bu bend hükmü yürürlükten kaldırılmıştır.</i></small>

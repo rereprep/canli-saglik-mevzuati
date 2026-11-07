@@ -10,17 +10,17 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-Halk Sağlığı Genel Müdürlüğü
+**Halk Sağlığı Genel Müdürlüğü**
 
 Sayı : 19831278/045.03
 
 Konu : Aile Hekimliği Uygulaması Performans İtiraz Formu Değişikliği 14.05.2025
 
-…………….VALİLİĞİNE
+**…………….VALİLİĞİNE**
 
-(İl Sağlık Müdürlüğü)
+**(İl Sağlık Müdürlüğü)**
 
 İlgi : 06.12.2024 tarihli ve E-19831278-045.03-261722308 sayılı yazımız.
 

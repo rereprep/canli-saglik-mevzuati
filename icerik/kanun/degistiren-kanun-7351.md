@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/01/20220122-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU İLE
-BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE
-KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU İLE**
+**BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE**
+**KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7351 Kabul Tarihi: 19/1/2022
 
 MADDE 1 – 14/1/1970 tarihli ve 1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanununun 40 ıncı maddesinin (III) numaralı fıkrasına aşağıdaki bent eklenmiştir.

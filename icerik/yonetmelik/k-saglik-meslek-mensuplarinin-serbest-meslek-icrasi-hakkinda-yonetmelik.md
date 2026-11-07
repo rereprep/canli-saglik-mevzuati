@@ -19,7 +19,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -49,7 +49,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Ruhsat İşlemleri
+**Ruhsat İşlemleri**
 
 #### Sağlık meslek hizmet birimi açabilecek kişiler
 
@@ -97,7 +97,7 @@ Ruhsat İşlemleri
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Fiziki Standartlar
+**Fiziki Standartlar**
 
 #### Bina durumu
 
@@ -133,7 +133,7 @@ d) Bekleme salonuyla bağlantılı bir konumda, el yıkama bölümü olan ve ger
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Personel Standartları
+**Personel Standartları**
 
 #### Sağlık meslek mensubunun görev ve sorumlulukları
 
@@ -181,7 +181,7 @@ h) Sağlık meslek hizmet biriminin çalışma gün ve saatlerini planlayarak m�
 
 ### BEŞİNCİ BÖLÜM
 
-Hizmet Standartları
+**Hizmet Standartları**
 
 #### Çalışma esasları
 
@@ -193,7 +193,7 @@ a) İlgili hekim tarafından tanısı konulmuş, tedavi planı veya reçetesi d�
 
 b) Hasta, sağlık meslek hizmet birimine başvurduğunda, hasta kimliği doğrulandıktan sonra sisteme kayıt işlemleri yapılır. Hasta bilgileri yalnızca giriş yapılan sağlık meslek hizmet biriminde görüntülenebilir, başka bir birime veya sisteme aktarım yapılamaz.
 
-c) (Danıştay Onuncu Dairesinin 1/10/2025 tarihli ve E.:2025/2603 sayılı kararı ile yürütmesi durdurulan bent: Uygulamayı yapacak sağlık meslek mensubu reçete veya tedavi planının kontrolünü yapar, tedavi planının hizmetten faydalanana zarar vereceğini öngördüğü durumlarda uygulama yapmaz. )
+c) **(Danıştay Onuncu Dairesinin 1/10/2025 tarihli ve E.:2025/2603 sayılı kararı ile yürütmesi durdurulan bent:** <i>Uygulamayı yapacak sağlık meslek mensubu reçete veya tedavi planının kontrolünü yapar, tedavi planının hizmetten faydalanana zarar vereceğini öngördüğü durumlarda uygulama yapmaz. )</i>
 
 ç) Sağlık meslek mensubu, hastayı ve gerekmesi durumunda kanuni temsilcisini yapacağı işlem içeriği hakkında bilgilendirir.
 
@@ -269,7 +269,7 @@ e) Sağlık meslek mensubunun, yetki ve donanımı dışında olan her türlü t
 
 ### ALTINCI BÖLÜM
 
-Yasaklar ve Denetim
+**Yasaklar ve Denetim**
 
 #### Yasaklar
 
@@ -305,7 +305,7 @@ Yasaklar ve Denetim
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Hüküm bulunmayan haller
 
@@ -317,7 +317,7 @@ Yasaklar ve Denetim
 
 (2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce açılan sağlık kabinlerinin sahiplik ve ortaklık durumları korunur.
 
-(3) (Değişik:RG-15/8/2025-32987) Bu Yönetmeliğin yayımı tarihinden önce sağlık meslek mensuplarının muhtelif adlar altında faaliyet gösterdiği iş yerlerinin en geç 31/12/2025 tarihine kadar bu Yönetmelik hükümlerine uygun hale getirilerek ruhsatlandırılması zorunludur.
+(3) **(Değişik:RG-15/8/2025-32987)** Bu Yönetmeliğin yayımı tarihinden önce sağlık meslek mensuplarının muhtelif adlar altında faaliyet gösterdiği iş yerlerinin en geç 31/12/2025 tarihine kadar bu Yönetmelik hükümlerine uygun hale getirilerek ruhsatlandırılması zorunludur.
 
 #### Yürürlük
 
@@ -327,7 +327,7 @@ Yasaklar ve Denetim
 
 **MADDE 25 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/03/20240312-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN CEZA MUHAKEMESİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7499 Kabul Tarihi: 2/3/2024
+**KANUN CEZA MUHAKEMESİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7499 Kabul Tarihi: 2/3/2024**
 
 MADDE 1- 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 19 uncu maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Müddet, hafta olarak belirlenmiş ise başladığı güne son hafta içindeki karşılık gelen günde biter.”

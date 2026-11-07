@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/06/20260620-2.htm"
 durum: "yürürlükte"
 ---
 
-KANUN TOPRAK KORUMA VE ARAZİ KULLANIMI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN TOPRAK KORUMA VE ARAZİ KULLANIMI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7584 Kabul Tarihi: 11/6/2026
 
 MADDE 1- 11/6/1936 tarihli ve 3039 sayılı Çeltik Ekimi Kanununun 19 uncu maddesi aşağıdaki şekilde değiştirilmiştir.

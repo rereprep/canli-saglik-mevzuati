@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2006/07/20060708-3.htm"
 durum: "yürürlükte"
 ---
 
-Resmî Gazete KANUN
+Resmî Gazete **KANUN**
 BAZI KAMU ALACAKLARININ TAHSİL VE TERKİNİNE İLİŞKİN KANUN
-Kanun No. 5535 Kabul Tarihi : 29/6/2006
+**Kanun No. 5535 Kabul Tarihi : 29/6/2006**
 
 MADDE 1 – 8/4/1929 tarihli ve 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanuna aşağıdaki geçici maddeler eklenmiştir.
 "GEÇİCİ

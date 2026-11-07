@@ -29,15 +29,15 @@ DAĞITIM YERLERİNE
 
 Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği’nin 18 inci ve 21 inci maddelerinin ikinci fıkrasının (a)
 
-bendinin birinci alt bendinde “Ancak son on iki ayda birime müracaat etmeyen nüfus grupları için belirtilen katsayının yarısı esas alınır. Bu süre, daha sık hizmet sunumu gereken sağlık programları kapsamındaki nüfus grupları için on iki aydan fazla olmamak üzere Bakanlıkça belirlenir.” hükmü yer almaktadır.
+bendinin birinci alt bendinde “<i>Ancak son on iki ayda birime müracaat etmeyen nüfus grupları için belirtilen</i> <i>katsayının yarısı esas alınır. Bu süre, daha sık hizmet sunumu gereken sağlık programları kapsamındaki nüfus</i> <i>grupları için on iki aydan fazla olmamak üzere Bakanlıkça belirlenir.”</i> hükmü yer almaktadır.
 
 Bu kapsamda Bakanlık Makamının 21/07/2025 tarihli ve E-99858683-020-282666627 sayılı Onayı ile daha sık hizmet sunumu gereken sağlık programları kapsamındaki nüfus grupları için katsayıya esas müracaat süresi belirlenmiş, ilgi yazımız ile bildirim yapılmıştı.
 
 Bakanlık Makamının 4/8/2025 tarihli ve E-99858683-020-284154031 sayılı Onayı ile mezkur Makam
 
-Oluru’nun ikinci paragrafının “Bu kapsamda birime başvurmayan nüfus gruplarının puan hesaplamasında;
+Oluru’nun ikinci paragrafının “<i>Bu kapsamda birime başvurmayan nüfus gruplarının puan hesaplamasında;</i>
 
-Hastalık Yönetim Platformu Tarama ve Takip Kılavuzu çerçevesinde yılda birden daha sık başvuru gerektiren hizmet periyotlarının, altı aydan az olmamak kaydıyla esas alınmasını;” şeklinde değiştirilmesi uygun görülmüştür.
+<i>Hastalık Yönetim Platformu Tarama ve Takip Kılavuzu çerçevesinde yılda birden daha sık başvuru gerektiren</i> <i>hizmet periyotlarının, altı aydan az olmamak kaydıyla esas alınmasını;”</i> şeklinde değiştirilmesi uygun görülmüştür.
 
 Mezkûr düzenlemelerin aile hekimliği çalışanlarına duyurulması ve konuya ilişkin iş ve işlemlerin söz konusu düzenlemelere uygun şekilde yürütülmesi konusunda gerekli hassasiyetin gösterilmesi hususunda;
 

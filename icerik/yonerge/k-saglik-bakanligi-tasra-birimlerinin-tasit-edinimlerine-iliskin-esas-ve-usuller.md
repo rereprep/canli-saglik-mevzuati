@@ -48,7 +48,7 @@ c) İl sağlık müdürlüğü taşıt değerlendirme komisyonu: İlin taşıt e
 
 (3) Hizmet alımı yöntemi ile taşıt edinimleri şoförlü veya şoförsüz yapılabilecektir. Şoför kadrosunda yeterli personelin bulunması halinde şoförlü taşıt edinilmeyecektir. Kadrosu şoför olan personel, şoförlük hizmeti dışında başka bir görevde görevlendirilmeyecek, ihtiyaç duyulması halinde mevcut kadrolu personelden şoför olarak görevlendirme yapılacaktır. Ancak şoför kadrosunda yeterli personelin bulunmaması halinde, şoförlü taşıt edinim yöntemine başvurulabilecektir.
 
-(4) (Değişik:22.06.2023/218607755-Makam Onayı) Hizmet alımı yöntemi ile taşıt edinimlerinde şoförlü hizmet alımı yapılması halinde şoför gideri dahil taşıt kiralamalarında aylık kiralama bedeli hesabında yemek, yol, resmi tatil ücreti ve benzeri giderler de dahil yürürlükte bulunan brüt asgari ücretin yüzde elli artırımlı tutarı esas alınacak; işveren maliyeti kapsamında yer alan sosyal sigorta ve genel sağlık sigortası işveren payı (%20,5) ve işsizlik sigortası işveren payı (%2) ile işçilik maliyeti üzerinden hesaplanan sözleşme giderleri ve genel giderler (%4) ise idarelerce ayrıca ödenecektir.
+(4) **(Değişik:22.06.2023/218607755-Makam Onayı)** Hizmet alımı yöntemi ile taşıt edinimlerinde şoförlü hizmet alımı yapılması halinde şoför gideri dahil taşıt kiralamalarında aylık kiralama bedeli hesabında yemek, yol, resmi tatil ücreti ve benzeri giderler de dahil yürürlükte bulunan brüt asgari ücretin yüzde elli artırımlı tutarı esas alınacak; işveren maliyeti kapsamında yer alan sosyal sigorta ve genel sağlık sigortası işveren payı (%20,5) ve işsizlik sigortası işveren payı (%2) ile işçilik maliyeti üzerinden hesaplanan sözleşme giderleri ve genel giderler (%4) ise idarelerce ayrıca ödenecektir.
 
 (5) Yerli muhteva oranı %50’nin altında kalan yabancı menşeili taşıtlardan hizmet alımı yöntemi ile edinim gerçekleştirilmeyecektir.
 
@@ -156,4 +156,4 @@ talepleri, ildeki taşıt değerlendirme komisyonu raporu doğrultusunda, Strate
 
 ### (5/5)
 
-Taşıt Cinslerine İlişkin (I) Sayılı Cetvel Sıra Taşıtın Cinsi No T-02 Binek otomobil T-03 Station-Wagon T-04 Arazi binek (En az 4, en fazla 8 kişilik) T-05 Minibüs (Sürücü dahil en fazla 17 kişilik) T-06 Kaptıkaçtı (Arazi hizmetleri için) T-07 Pick-up (Kamyonet, sürücü dâhil 3 veya 6 kişilik) T-08 Pick-up (Kamyonet, arazi hizmetleri için sürücü dâhil 3 veya 6 kişilik) T-09 Panel T-10 Midibüs (Sürücü dahil en fazla 26 kişilik)
+**Taşıt Cinslerine İlişkin (I) Sayılı Cetvel Sıra Taşıtın Cinsi** No T-02 Binek otomobil T-03 Station-Wagon T-04 Arazi binek (En az 4, en fazla 8 kişilik) T-05 Minibüs (Sürücü dahil en fazla 17 kişilik) T-06 Kaptıkaçtı (Arazi hizmetleri için) T-07 Pick-up (Kamyonet, sürücü dâhil 3 veya 6 kişilik) T-08 Pick-up (Kamyonet, arazi hizmetleri için sürücü dâhil 3 veya 6 kişilik) T-09 Panel T-10 Midibüs (Sürücü dahil en fazla 26 kişilik)

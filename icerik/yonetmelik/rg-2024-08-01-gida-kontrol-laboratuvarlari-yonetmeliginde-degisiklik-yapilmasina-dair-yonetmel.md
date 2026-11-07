@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Tarım ve Orman Bakanlığından:
-GIDA KONTROL LABORATUVARLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**GIDA KONTROL LABORATUVARLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan Gıda Kontrol Laboratuvarları Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (b) bendi aşağıdaki şekilde değiştirilmiş, aynı fıkranın (o) bendinde yer alan “ve/veya” ibaresi “veya” şeklinde değiştirilmiş ve aynı fıkranın (p) bendinde yer alan “laboratuvar personeline” ibaresi yürürlükten kaldırılmıştır.
 “b) Askıya alma: Laboratuvarın kendi isteği ile veya Tarım ve Orman Bakanlığınca analiz, analiz metodu ve/veya ürün/ürün grubu için numune kabulünün geçici süre ile durdurulmasını,”

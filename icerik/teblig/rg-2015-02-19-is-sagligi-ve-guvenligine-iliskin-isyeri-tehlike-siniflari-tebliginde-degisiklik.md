@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
-İŞ SAĞLIĞI VE GÜVENLİĞİNE İLİŞKİN İŞYERİ TEHLİKE SINIFLARI TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**İŞ SAĞLIĞI VE GÜVENLİĞİNE İLİŞKİN İŞYERİ TEHLİKE SINIFLARI TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1 – 26/12/2012 tarihli ve 28509 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinin İşyeri Tehlike Sınıfları Listesinin yer aldığı Ek-1 listesinde yer alan 10.51.03, 10.51.04, 52.21.06, 59.11.03, 90.01.18 ve 90.02.11 kodlarının tehlike sınıfı aşağıdaki şekilde değiştirilmiştir.
 “ NACE Rev.2_Altılı Kod NACE Rev.2_Altılı Tanım Tehlike Sınıfı 10.51.03 Süt tozu, peynir özü (kazein), süt şekeri (laktoz) ve peynir altı suyu (kesilmiş sütün suyu) imalatı (katı veya toz halde süt, krema dahil) Tehlikeli 10.51.04 Süt temelli hafif içeceklerin imalatı (kefir, salep vb.) Tehlikeli 52.21.06 Kara taşımacılığına yönelik emanet büroları işletmeciliği (demir yollarında yapılanlar dahil) Az Tehlikeli 59.11.03 Sinema filmi, video ve televizyon programları yapım faaliyetleri (belgesel yapımcılığı dahil) Tehlikeli 90.01.18 Bağımsız aktör, aktrist ve dublörlerin faaliyetleri Tehlikeli 90.02.11 Gösteri sanatlarına yönelik yönetmenlerin ve yapımcıların faaliyetleri Tehlikeli ”

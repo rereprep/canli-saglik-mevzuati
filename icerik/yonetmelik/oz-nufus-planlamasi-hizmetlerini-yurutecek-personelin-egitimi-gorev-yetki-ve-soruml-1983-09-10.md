@@ -20,29 +20,29 @@ durum: "yürürlükte"
 
 Genel Hükümler
 
-Amaç:
+**Amaç:**
 
-MADDE 1.- Bu yönetmeliğin amacı, nüfus planlaması hizmetlerini yürütecek personelin eğitim ve görevlendirme esas ve usulleri ile uygulamadaki yetkilerini belirlemek, bu hizmetin yürütülmesi sırasında kullanılacak ilaç ve araçların niteliğini saptayacak olan Bilimsel Komisyonun kuruluş ve işleyiş esaslarını tespit etmektir.
+**MADDE 1.-** Bu yönetmeliğin amacı, nüfus planlaması hizmetlerini yürütecek personelin eğitim ve görevlendirme esas ve usulleri ile uygulamadaki yetkilerini belirlemek, bu hizmetin yürütülmesi sırasında kullanılacak ilaç ve araçların niteliğini saptayacak olan Bilimsel Komisyonun kuruluş ve işleyiş esaslarını tespit etmektir.
 
-Kapsam:
+**Kapsam:**
 
-MADDE 2. - Tüm kurum ve kuruluşlarla nüfus planlaması hizmetini yürüten sağlık ve yardımcı sağlık personeli ile Bilimsel Komisyonu kapsar.
+**MADDE 2.** - Tüm kurum ve kuruluşlarla nüfus planlaması hizmetini yürüten sağlık ve yardımcı sağlık personeli ile Bilimsel Komisyonu kapsar.
 
-Tanımlar:
+**Tanımlar:**
 
-MADDE 3.- Bu yönetmelikte geçen deyimlerden, "Bakanlık" Sağlık Bakanlığını , "Bakan" Sağlık Bakanını, "Komisyon" Bilimsel Komisyonu, "Yeterlik Belgesi" eğitime alınan personelden bilgi ve beceri kazananlara verilen sertifikayı, "Eğitim Merkezi" Nüfus Planlaması Eğitim Merkezini ,ifade eder.
+**MADDE 3.-** Bu yönetmelikte geçen deyimlerden, "Bakanlık" Sağlık Bakanlığını , "Bakan" Sağlık Bakanını, "Komisyon" Bilimsel Komisyonu, "Yeterlik Belgesi" eğitime alınan personelden bilgi ve beceri kazananlara verilen sertifikayı, "Eğitim Merkezi" Nüfus Planlaması Eğitim Merkezini ,ifade eder.
 
-Hukuki Dayanak:
+**Hukuki Dayanak:**
 
-MADDE 4.- Bu yönetmelik 2827 sayılı Nüfus Planlaması Hakkında Kanunun 3. maddesinin 4 ve 5. fıkralarına dayalı olarak hazırlanmıştır.
+**MADDE 4.-** Bu yönetmelik 2827 sayılı Nüfus Planlaması Hakkında Kanunun 3. maddesinin 4 ve 5. fıkralarına dayalı olarak hazırlanmıştır.
 
 ### İKİNCİ BÖLÜM
 
 Bilimsel Komisyon
 
-Kuruluşu:
+**Kuruluşu:**
 
-MADDE 5.- Nüfus planlamasında kullanılacak ilaç ve araçların niteliğini tesbit etmek amacı ile Bakanlıkta bir "Bilimsel Komisyon" kurulur.
+**MADDE 5.-** Nüfus planlamasında kullanılacak ilaç ve araçların niteliğini tesbit etmek amacı ile Bakanlıkta bir "Bilimsel Komisyon" kurulur.
 
 1) Bu Komisyon aşağıda belirtilen üyelerden oluşur.
 
@@ -62,9 +62,9 @@ E- Bakanlık Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürü, Tedavi 
 
 4) Komisyondan ayrılan üyenin yerine Bakan tarafından 30 gün içinde yenisi seçilir.
 
-Komisyonun Çalışma Şekli ve Görevleri:
+**Komisyonun Çalışma Şekli ve Görevleri:**
 
-MADDE 6.- Komisyon her 4 ayda bir Bakanlığın çağrısı üzerine toplanır. Bakanlık gerektiğinde Komisyonu olağanüstü toplantıya çağırabilir.
+**MADDE 6.-** Komisyon her 4 ayda bir Bakanlığın çağrısı üzerine toplanır. Bakanlık gerektiğinde Komisyonu olağanüstü toplantıya çağırabilir.
 
 1) Komisyonun gündemi, Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü tarafından tespit edilerek toplantı çağrısı ile birlikte 15 gün önce üyelere bildirilir. 2) Komisyon ilk toplantısında kendi içinden bir başkan seçer.
 
@@ -84,9 +84,9 @@ MADDE 6.- Komisyon her 4 ayda bir Bakanlığın çağrısı üzerine toplanır. 
 
 Nüfus Planlaması Eğitim Merkezleri
 
-Eğitim Merkezlerinin Kurulması:
+**Eğitim Merkezlerinin Kurulması:**
 
-MADDE 7.- Eğitim Merkezleri aşağıda belirtilen yerlerde kurulur.
+**MADDE 7.-** Eğitim Merkezleri aşağıda belirtilen yerlerde kurulur.
 
 1) Bakanlıkça uygun görülen devlet hastanelerinin kadın hastalıkları ve doğum bölümlerinde,
 
@@ -96,13 +96,13 @@ MADDE 7.- Eğitim Merkezleri aşağıda belirtilen yerlerde kurulur.
 
 4) İl merkezlerindeki sağlık ocakları ile Ana Çocuk Sağlığı ve Aile Planlaması Dispanserlerinde.
 
-Eğitim Merkezlerinin Fizik Koşulları:
+**Eğitim Merkezlerinin Fizik Koşulları:**
 
-MADDE 8.- 7. maddede belirtilen eğitim merkezlerinde aşağıda belirtilen koşulların bulunması gereklidir. 1) Muayene ve uygulama için 2-4 adet oda, 2) Eğitim için toplantı odası ya da salonu, 3) Eğitim ve uygulamalar için ekte belirtilen araç-gereçler.
+**MADDE 8.-** 7. maddede belirtilen eğitim merkezlerinde aşağıda belirtilen koşulların bulunması gereklidir. 1) Muayene ve uygulama için 2-4 adet oda, 2) Eğitim için toplantı odası ya da salonu, 3) Eğitim ve uygulamalar için ekte belirtilen araç-gereçler.
 
-Eğitim Merkezlerinin Yönetimi ve Personel Koşulu:
+**Eğitim Merkezlerinin Yönetimi ve Personel Koşulu:**
 
-MADDE 9 .- 7. maddenin l, 2, 3. bendlerinde sözü edilen (tıp fakülteleri dışındaki) eğitim merkezlerini bir uzman hekim, 4. bendinde sözü edilen eğitim merkezlerinde uzman hekim olmadığı takdirde, eğitim görmüş ve yeterlik belgesi almış pratisyen hekim yönetir.
+**MADDE 9** .- 7. maddenin l, 2, 3. bendlerinde sözü edilen (tıp fakülteleri dışındaki) eğitim merkezlerini bir uzman hekim, 4. bendinde sözü edilen eğitim merkezlerinde uzman hekim olmadığı takdirde, eğitim görmüş ve yeterlik belgesi almış pratisyen hekim yönetir.
 
 Kurulacak olan eğitim merkezlerinin yöneticisi, Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğünün teklifi üzerine Bakanlıkça tayin edilir.
 
@@ -118,9 +118,9 @@ E- Bir hizmetli.
 
 2) Nüfusu 500 bini aşan yerlerde açılacak eğitim merkezlerinin personel durumu 9. maddenin l. bendine göre tespit edilir.
 
-Eğitim Merkezlerinin Çalışması:
+**Eğitim Merkezlerinin Çalışması:**
 
-MADDE l0.- Eğitim merkezlerinde uygulanacak olan eğitimin şeklinden, hangi eğitim merkezinde hangi personelin eğitileceğinden, Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü yetkili ve sorumludur. Eğitim merkezleri, eğitim programlarının uygulanmasından ve eğitimin değerlendirilmesinden sorumludur.
+**MADDE l0.-** Eğitim merkezlerinde uygulanacak olan eğitimin şeklinden, hangi eğitim merkezinde hangi personelin eğitileceğinden, Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü yetkili ve sorumludur. Eğitim merkezleri, eğitim programlarının uygulanmasından ve eğitimin değerlendirilmesinden sorumludur.
 
 1) Eğitim merkezlerinin eğitecekleri personel, Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü tarafından tespit edilir ve eğitim merkezlerine bildirilir.
 
@@ -130,7 +130,7 @@ MADDE l0.- Eğitim merkezlerinde uygulanacak olan eğitimin şeklinden, hangi e�
 
 Personel Eğitimi
 
-Personel Eğitimi:
+**Personel Eğitimi:**
 
 **MADDE 11 –** Gebeliği önleyici ve sonlandırıcı yöntemler ile sterilizasyon konularında uzman hekim, pratisyen hekim ve hekim dışı sağlık personeline hizmet öncesi ve hizmet içi teorik ve uygulamalı eğitim, Bakanlıkça açılacak veya gösterilecek eğitim merkezlerinde verilir.
 
@@ -142,7 +142,7 @@ Personel Eğitimi:
 
 4) Uzman hekimler asistanlıkları sırasında Nüfus Planlaması konularıyla ilgili bilgi ve beceri kazandıklarını belgeledikleri takdirde kendilerine yeterlik belgesi verilir.
 
-(Ek: RG 23/8/2002-24855) Pratisyen hekimler ile ebe ve hemşirelere de, mezuniyetlerini takiben en geç iki yıl içinde müracaat etmek kaydıyla, okul döneminde Yönetmeliğin 13 üncü ve 14 üncü maddelerinde belirtilen aile planlaması konularıyla ilgili bilgi ve beceri kazandıklarını belgelemeleri ve bu belgelere göre, iştirak etmiş oldukları kurs veya eğitim programının Yönetmelikte düzenlenen eğitime denkliğine karar verilmesi halinde Yeterlik Belgesi verilebilir. Bunlar ile ilgili diğer usul ve esaslar Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğünce çıkarılacak bir Genelge ile düzenlenir.
+**(Ek: RG 23/8/2002-24855)** Pratisyen hekimler ile ebe ve hemşirelere de, mezuniyetlerini takiben en geç iki yıl içinde müracaat etmek kaydıyla, okul döneminde Yönetmeliğin 13 üncü ve 14 üncü maddelerinde belirtilen aile planlaması konularıyla ilgili bilgi ve beceri kazandıklarını belgelemeleri ve bu belgelere göre, iştirak etmiş oldukları kurs veya eğitim programının Yönetmelikte düzenlenen eğitime denkliğine karar verilmesi halinde Yeterlik Belgesi verilebilir. Bunlar ile ilgili diğer usul ve esaslar Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğünce çıkarılacak bir Genelge ile düzenlenir.
 
 5) Eğitime alınacak uzman, pratisyen hekim ve yardımcı sağlık personeline uygulanacak eğitimin konusu ve süresi Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü tarafından tespit edilir.
 
@@ -150,13 +150,13 @@ Personel Eğitimi:
 
 7) Yeterlik belgesi almış olan yardımcı sağlık personeli 5 yıl sonunda Bakanlığın göstereceği eğitim merkezlerinde değerlendirmeye tabi tutulur. Bu değerlendirme sonunda başarısız olanlar iki hafta süre ile eğitime alınırlar. Bu süre sonunda başarısız olanların yeterlik belgeleri Bakanlıkça iptal edilir.
 
-Uzman Hekimlerin Eğitimi:
+**Uzman Hekimlerin Eğitimi:**
 
-MADDE 12.- Nüfus Planlaması Kanununun öngördüğü hizmetlerin yürütülmesiyle ilgili konularda uzman hekimlere 11. madde hükümlerine göre eğitim programı hazırlanır ve uygulanır.
+**MADDE 12.-** Nüfus Planlaması Kanununun öngördüğü hizmetlerin yürütülmesiyle ilgili konularda uzman hekimlere 11. madde hükümlerine göre eğitim programı hazırlanır ve uygulanır.
 
-Pratisyen Hekimlerin Eğitimi:
+**Pratisyen Hekimlerin Eğitimi:**
 
-MADDE 13.- Nüfus Planlaması Kanununun öngördüğü hizmetlerin yürütülmesiyle ilgili pratisyen hekimlere 11. madde hükümlerine göre eğitim programı hazırlanır ve uygulanır.
+**MADDE 13.-** Nüfus Planlaması Kanununun öngördüğü hizmetlerin yürütülmesiyle ilgili pratisyen hekimlere 11. madde hükümlerine göre eğitim programı hazırlanır ve uygulanır.
 
 Bu eğitim en az aşağıdaki konulan içerir.
 
@@ -180,9 +180,9 @@ Bu eğitim en az aşağıdaki konulan içerir.
 
 10) Erkeklerde sterilizasyon ameliyatı.
 
-Yardımcı Sağlık Personelinin Eğitimi:
+**Yardımcı Sağlık Personelinin Eğitimi:**
 
-MADDE 14.- Nüfus Planlaması eğitimini yürüten ve yürütecek olan ebe, ebe-hemşire ve hemşirelere 11. madde esaslarına göre görev, yetki ve sorumlulukları dikkate alınarak eğitim programı hazırlanır ve uygulanır.
+**MADDE 14.-** Nüfus Planlaması eğitimini yürüten ve yürütecek olan ebe, ebe-hemşire ve hemşirelere 11. madde esaslarına göre görev, yetki ve sorumlulukları dikkate alınarak eğitim programı hazırlanır ve uygulanır.
 
 Bu eğitim en az aşağıdaki konuları içerir.
 
@@ -204,9 +204,9 @@ Bu eğitim en az aşağıdaki konuları içerir.
 
 Eğitilmiş Personelin Görevlendirilmesi
 
-Görevlendirme:
+**Görevlendirme:**
 
-MADDE l5.- Nüfus Planlaması eğitimi görmüş ve yeterlik belgesi verilmiş hekim ve yardımcı sağlık personeli öncelikle nüfus planlaması uygulaması yapılan yerlere atanır.
+**MADDE l5.-** Nüfus Planlaması eğitimi görmüş ve yeterlik belgesi verilmiş hekim ve yardımcı sağlık personeli öncelikle nüfus planlaması uygulaması yapılan yerlere atanır.
 
 I) Nüfus Planlaması eğitimi görmüş ve yeterlik belgesi verilmiş personel, yer değiştirmelerde, Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğünün de görüşü alınarak öncelikle nüfus planlaması uygulaması yapılan yerlerde görevlendirilirler.
 
@@ -218,13 +218,13 @@ I) Nüfus Planlaması eğitimi görmüş ve yeterlik belgesi verilmiş personel,
 
 Personelin Görev, Yetki ve Sorumlulukları
 
-Genel Hükümler:
+**Genel Hükümler:**
 
-MADDE 16.- Nüfus planlaması hizmetleri ile tüm sağlık ve yardımcı sağlık personeli görevlidir.
+**MADDE 16.-** Nüfus planlaması hizmetleri ile tüm sağlık ve yardımcı sağlık personeli görevlidir.
 
-Uzman Hekimlerin Görev, Yetki ve Sorumlulukları:
+**Uzman Hekimlerin Görev, Yetki ve Sorumlulukları:**
 
-MADDE 17.- Uzman hekimler nüfus planlaması hizmetlerinin uygulanmasından, görevli bulundukları yerlerdeki pratisyen hekimlerle yardımcı sağlık personelinin nüfus planlaması konusunda eğitimlerinden, uygulamanın denetlenip değerlendirilmesinden ve bu hizmetlerin geliştirilmesinden sorumludurlar. Uzman hekimlerin nüfus planlaması hizmetleriyle ilgili görev, yetki ve sorumlulukları aşağıda belirtilmiştir.
+**MADDE 17.-** Uzman hekimler nüfus planlaması hizmetlerinin uygulanmasından, görevli bulundukları yerlerdeki pratisyen hekimlerle yardımcı sağlık personelinin nüfus planlaması konusunda eğitimlerinden, uygulamanın denetlenip değerlendirilmesinden ve bu hizmetlerin geliştirilmesinden sorumludurlar. Uzman hekimlerin nüfus planlaması hizmetleriyle ilgili görev, yetki ve sorumlulukları aşağıda belirtilmiştir.
 
 1) Kadın hastalıkları ve doğum uzmanları
 
@@ -262,9 +262,9 @@ D- Bu hizmeti yürüten ve yeterlik belgesi almış pratisyen hekim tarafından 
 
 Kadında ve erkekte sterilizasyon ameliyatlarını yapmak.
 
-Kurs Görmüş Ve Bakanlıkça Yeterlik Belgesi Verilmiş Pratisyen Hekimlerin Görev, Yetki Ve Sorumlulukları:
+**Kurs Görmüş Ve Bakanlıkça Yeterlik Belgesi Verilmiş Pratisyen Hekimlerin Görev, Yetki Ve Sorumlulukları:**
 
-MADDE I8.- Pratisyen hekimlerin görev, yetki ve sorumlulukları aşağıda belirtilmiştir.
+**MADDE I8.-** Pratisyen hekimlerin görev, yetki ve sorumlulukları aşağıda belirtilmiştir.
 
 I) Gebeliği önleyici hapları yeni uygulanacaklar için bağlatmak ve buna uygun vak’alan seçmek ve kullananları izlemek,
 
@@ -288,9 +288,9 @@ I) Gebeliği önleyici hapları yeni uygulanacaklar için bağlatmak ve buna uyg
 
 11) Bu hizmet için gerekli araç-gereç, ilaç ve tıbbi malzemeyi hizmete hazır bulundurmak.
 
-Yardımcı Sağlık Personelinin Görev, Yetki ve Sorumlulukları:
+**Yardımcı Sağlık Personelinin Görev, Yetki ve Sorumlulukları:**
 
-MADDE 19.- Bakanlıkça eğitilen ve yeterlik belgesi verilen hemşire, ebe-hemşire ve ebeler gebeliği önleyici yöntem uygulama çalışmalarını yetkili hekimin denetim ve gözetimi altında resmi kurum ve kuruluşlarda yürütürler. Bu personelin görev, yetki ve sorumlulukları aşağıda belirtilmiştir.
+**MADDE 19.-** Bakanlıkça eğitilen ve yeterlik belgesi verilen hemşire, ebe-hemşire ve ebeler gebeliği önleyici yöntem uygulama çalışmalarını yetkili hekimin denetim ve gözetimi altında resmi kurum ve kuruluşlarda yürütürler. Bu personelin görev, yetki ve sorumlulukları aşağıda belirtilmiştir.
 
 1) Hap kullanacaklarda uygun vak’ayı seçme, kullananları yan etki açısından izlemek,
 
@@ -312,27 +312,27 @@ MADDE 19.- Bakanlıkça eğitilen ve yeterlik belgesi verilen hemşire, ebe-hem�
 
 Çeşitli Hükümler
 
-Yeterlik Belgelerinin İptali:
+**Yeterlik Belgelerinin İptali:**
 
-MADDE 20.- İl Sağlık Müdürü bu yönetmelikte belirlenen görevleri yerine getirmeyen veya getiremeyenlerin yeterlik belgelerini geçici süre ile alır ve durumu Bakanlığa bildirir.
+**MADDE 20.-** İl Sağlık Müdürü bu yönetmelikte belirlenen görevleri yerine getirmeyen veya getiremeyenlerin yeterlik belgelerini geçici süre ile alır ve durumu Bakanlığa bildirir.
 
-Yürürlükten Kaldırma:
+**Yürürlükten Kaldırma:**
 
-MADDE 21.- 7 Nisan 1980 tarih ve 16953 sayılı Resmi Gazete’de yayınlanan 406 sayılı yönetmelik yürürlükten kaldırılmıştır.
+**MADDE 21.-** 7 Nisan 1980 tarih ve 16953 sayılı Resmi Gazete’de yayınlanan 406 sayılı yönetmelik yürürlükten kaldırılmıştır.
 
-Geçici Madde l – (Ek: RG 23/8/2002-24855)
+**Geçici Madde l – (Ek: RG 23/8/2002-24855)**
 
 Yönetmeliğin 11 inci maddesinin (4) numaralı bendinin ikinci
 
 paragrafı kapsamına giren ve bu Yönetmeliğin yürürlük tarihinden önceki eğitimlerine istinaden yeterlik belgesi talep edenlerin, bu Yönetmeliğin yürürlük tarihinden itibaren en geç 6 ay içinde Bakanlığa müracaat etmeleri şarttır. Bu süre geçtikten sonra yapılan müracaatlar değerlendirmeye alınmaz.
 
-Yürürlük:
+**Yürürlük:**
 
-MADDE 22.- Bu yönetmelik yayımı tarihinde yürürlüğe girer.
+**MADDE 22.-** Bu yönetmelik yayımı tarihinde yürürlüğe girer.
 
-Yürütme:
+**Yürütme:**
 
-MADDE 23.- Bu yönetmelik hükümlerini Sağlık Bakanlığı yürütür.
+**MADDE 23.-** Bu yönetmelik hükümlerini Sağlık Bakanlığı yürütür.
 
 ### EK: EĞİTİM MERKEZLERİNDE BULUNMASI GEREKEN ARAÇ - GEREÇ VE
 

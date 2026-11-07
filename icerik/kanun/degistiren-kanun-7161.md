@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/01/20190118-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN VERGİ KANUNLARI İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7161 Kabul Tarihi: 17/1/2019
+**KANUN VERGİ KANUNLARI İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7161 Kabul Tarihi: 17/1/2019**
 
 
 MADDE 1 – 22/12/1934 tarihli ve 2644 sayılı Tapu Kanununun 21 inci maddesine aşağıdaki fıkra eklenmiştir.
@@ -45,7 +45,7 @@ MADDE 7 – 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 36 nc�
 MADDE 8 – 657 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 46- Bu maddenin yürürlüğe girdiği tarihten önce Millî Güvenlik Kurulu Genel Sekreterliğinde görev yapan, mesleğe özel yarışma sınavına tabi tutulmak suretiyle alınan ve yeterlik sınavında başarı göstererek uzmanlığa atananlar 36 ncı maddenin “Ortak Hükümler” bölümünün (A) fıkrasının (11) numaralı bendi hükmünden aynı usul ve esaslar çerçevesinde yararlanırlar.”
+**MADDE 46-** Bu maddenin yürürlüğe girdiği tarihten önce Millî Güvenlik Kurulu Genel Sekreterliğinde görev yapan, mesleğe özel yarışma sınavına tabi tutulmak suretiyle alınan ve yeterlik sınavında başarı göstererek uzmanlığa atananlar 36 ncı maddenin “Ortak Hükümler” bölümünün (A) fıkrasının (11) numaralı bendi hükmünden aynı usul ve esaslar çerçevesinde yararlanırlar.”
 
 
 MADDE 9 – 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 124 üncü maddesinin birinci fıkrasında yer alan “ve Genelkurmay Başkanlığı” ibareleri madde metninden çıkarılmış ve maddeye aşağıdaki fıkralar eklenmiştir.
@@ -112,7 +112,7 @@ MADDE 20 – 3065 sayılı Kanunun geçici 37 nci maddesinin birinci fıkrasınd
 MADDE 21 – 9/12/1994 tarihli ve 4059 sayılı Fiyat İstikrarı ile Bazı Düzenlemeler Hakkında Kanunun adı “Finansal İstikrar ile Bazı Düzenlemeler Hakkında Kanun” şeklinde değiştirilmiş ve mülga 1 inci maddesi madde başlığı ile birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Finansal İstikrar ve Kalkınma Komitesi
 
-MADDE 1- (1) Finansal İstikrar ve Kalkınma Komitesi, finansal sistemin ekonomik büyümeyi sağlıklı bir şekilde desteklemesi ve piyasalarda güvenin korunması için sistemik risklerin yönetilmesi, finansal düzenlemelerde ve uygulamalarda uyumun sağlanması ve reel sektör ile koordinasyonun artırılması yönünde iş birliğinin tesis edilmesi ve bu kapsamda ihtiyaç duyulan verilerin merkezî şekilde toplanması için gerekli faaliyetlerin yürütülmesi amacıyla kurulmuştur.
+**MADDE 1-** (1) Finansal İstikrar ve Kalkınma Komitesi, finansal sistemin ekonomik büyümeyi sağlıklı bir şekilde desteklemesi ve piyasalarda güvenin korunması için sistemik risklerin yönetilmesi, finansal düzenlemelerde ve uygulamalarda uyumun sağlanması ve reel sektör ile koordinasyonun artırılması yönünde iş birliğinin tesis edilmesi ve bu kapsamda ihtiyaç duyulan verilerin merkezî şekilde toplanması için gerekli faaliyetlerin yürütülmesi amacıyla kurulmuştur.
 (2) Finansal İstikrar ve Kalkınma Komitesine üye kurum ve kuruluşlar ile Komitenin çalışma usul ve esasları Hazine ve Maliye Bakanlığı tarafından yönetmelikle belirlenir.
 (3) Finansal İstikrar ve Kalkınma Komitesi, aşağıda sayılan hususlarda kurum ve kuruluşlar arasında iş birliğini tesis ederek düzenlemelerin ve uygulamaların koordinasyonunu sağlar:
 a) Finansal istikrar ve güvenliği tehdit edebilecek sistemik risklerin belirlenmesi, etkin bir şekilde izlenmesi ve yönetilmesi için alınabilecek tedbirlerin tespit edilmesi.
@@ -142,7 +142,7 @@ MADDE 26 – 27/10/1999 tarihli ve 4457 sayılı Türk Akreditasyon Kurumuna İl
 MADDE 27 – 15/11/2000 tarihli ve 4603 sayılı Türkiye Cumhuriyeti Ziraat Bankası, Türkiye Halk Bankası Anonim Şirketi ve Türkiye Emlak Bankası Anonim Şirketi Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 2- Bu Kanunda ve diğer mevzuatta Türkiye Emlak Bankası Anonim Şirketine ve Tasfiye Halinde Türkiye Emlak Bankası Anonim Şirketine yapılan atıflar, Türkiye Emlak Katılım Bankası Anonim Şirketine yapılmış sayılır.”
+**MADDE 2-** Bu Kanunda ve diğer mevzuatta Türkiye Emlak Bankası Anonim Şirketine ve Tasfiye Halinde Türkiye Emlak Bankası Anonim Şirketine yapılan atıflar, Türkiye Emlak Katılım Bankası Anonim Şirketine yapılmış sayılır.”
 
 
 MADDE 28 – 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanununun 20/A maddesinin birinci fıkrasının birinci cümlesinde yer alan “alt yapı oluşturulmasına,” ibaresinden sonra gelmek üzere “portföy yönetim şirketlerinin emeklilik yatırım fonlarına ilişkin faaliyetlerinin Kurulca gözetimine yönelik altyapı oluşturularak raporlama yapılmasına,” ibaresi eklenmiştir.
@@ -151,7 +151,7 @@ MADDE 28 – 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Y
 MADDE 29 – 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin birinci fıkrasının (e) bendine “et ve et ürünleri için Et ve Balık Kurumu Genel Müdürlüğünden,” ibaresinden sonra gelmek üzere “çay ve çay ürünleri için Çay İşletmeleri Genel Müdürlüğünden, faaliyet alanındaki mal ve hizmetler için Uluslararası Sağlık Hizmetleri Anonim Şirketinden,” ibaresi ve fıkraya (y) bendinden sonra gelmek üzere aşağıdaki bent eklenmiştir.
 “z) Türkiye Cumhuriyeti tarafından tertiplenecek uluslararası organizasyonlar ve toplantılardan Cumhurbaşkanı tarafından belirlenenler için bu organizasyonların ve toplantıların yürütülmesine yönelik olarak sorumlu idare tarafından yapılacak mal ve hizmet alımları,”
 
-MADDE 30- 4734 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (a) bendinin (3) numaralı alt bendinde yer alan “veya ihale konusu iş ile ilgili taahhüdü altındaki ve bitirdiği iş miktarını gösteren belgeler” ibaresi “veya ihale konusu iş ile ilgili cirosunu gösteren belgeler” şeklinde, üçüncü fıkrasının üçüncü cümlesi aşağıdaki şekilde değiştirilmiş ve fıkraya aşağıdaki cümleler eklenmiştir.
+**MADDE 30-** 4734 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (a) bendinin (3) numaralı alt bendinde yer alan “veya ihale konusu iş ile ilgili taahhüdü altındaki ve bitirdiği iş miktarını gösteren belgeler” ibaresi “veya ihale konusu iş ile ilgili cirosunu gösteren belgeler” şeklinde, üçüncü fıkrasının üçüncü cümlesi aşağıdaki şekilde değiştirilmiş ve fıkraya aşağıdaki cümleler eklenmiştir.
 “Bu belge sahiplerinin kuracakları veya ortak olacakları tüzel kişilerin ihaleye girebilmesinde en az bir yıldır tüzel kişiliğin yarısından fazla hissesine sahip olması ve bu sürede bu Kanuna göre yapılacak ihalelere ilişkin sözleşmelerin yürütülmesi konusunda temsile ve yönetime yetkili olması, bu şartların her ihalede aranması ve teminat süresi sonuna kadar muhafaza edilmesi zorunludur.”
 “Bir sözleşme kapsamında gerçekleştirilen iş dolayısıyla düzenlenecek iş deneyim belgelerinin toplam tutarına ve belge verilecek kişilere yönelik sınırlamalar getirmeye Kurum yetkilidir. Kanun kapsamındaki idarelere gerçekleştirilen işler için düzenlenen belgeler hariç yurt dışında gerçekleştirilen işler için düzenlenen belgelerden sadece iş bitirme belgeleri, belge sahipleri tarafından ve bunların bünyesinde bulundukları şirketler topluluğu veya benzeri ortaklık ilişkisi içerisinde kullanılabilir. Bu belgelerin, şirketler topluluğu veya benzeri ortaklık ilişkisi içerisinde kullanılmasına ilişkin usul ve esasları belirlemeye Kurum yetkilidir. Ortak girişim olarak ihaleye teklif verilmesi hâlinde yurt dışında gerçekleştirilen işlerden alınan iş bitirme belgesini kullanan belge sahibinin ortak girişimdeki hissesi oranında geçici ve kesin teminat vermesi zorunludur.”
 
@@ -187,7 +187,7 @@ MADDE 37 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa e
 MADDE 38 – 4760 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 8- Bu maddenin yürürlüğe girdiği tarihten önce ithal veya teslim edilen şalgam suları ile Türk Gıda Kodeksine göre çeşnili ve aromalı/aromalandırılmış içme sütleri, bebek ve devam sütü sayılan içeceklerle ilgili olarak, özel tüketim vergisi ve bu vergiye isabet eden katma değer vergisi bakımından vergi tarhiyatı yapılmaz, vergi cezası kesilmez, daha önce yapılmış olan tarhiyatlardan ve kesilmiş cezalardan varsa açılmış davalardan feragat edilmesi kaydıyla vazgeçilir, tahakkuk eden tutarlar terkin edilir, tahsil edilen tutarlar red ve iade edilmez.”
+**MADDE 8-** Bu maddenin yürürlüğe girdiği tarihten önce ithal veya teslim edilen şalgam suları ile Türk Gıda Kodeksine göre çeşnili ve aromalı/aromalandırılmış içme sütleri, bebek ve devam sütü sayılan içeceklerle ilgili olarak, özel tüketim vergisi ve bu vergiye isabet eden katma değer vergisi bakımından vergi tarhiyatı yapılmaz, vergi cezası kesilmez, daha önce yapılmış olan tarhiyatlardan ve kesilmiş cezalardan varsa açılmış davalardan feragat edilmesi kaydıyla vazgeçilir, tahakkuk eden tutarlar terkin edilir, tahsil edilen tutarlar red ve iade edilmez.”
 
 
 MADDE 39 – 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (II) sayılı Cetvelin “A) Yükseköğretim Kurulu, Üniversiteler ve Yüksek Teknoloji Enstitüleri” bölümünün 116 ncı sırası aşağıdaki şekilde değiştirilmiştir.
@@ -203,7 +203,7 @@ MADDE 41 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağl
 MADDE 42 – 5510 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 19- Bu Kanun veya bu Kanunla yürürlükten kaldırılan ilgili kanun hükümlerine göre malullük ve yaşlılık sigortasından ödenen aylıklar ve aylıklar ile birlikte her ay itibarıyla yapılan ödemeler toplamı dosya bazında, 8/2/2006 tarihli ve 5454 sayılı Kanunun 1 inci maddesi uyarınca yapılacak ek ödeme dâhil 1.000 Türk lirasından az olamaz.
+**MADDE 19-** Bu Kanun veya bu Kanunla yürürlükten kaldırılan ilgili kanun hükümlerine göre malullük ve yaşlılık sigortasından ödenen aylıklar ve aylıklar ile birlikte her ay itibarıyla yapılan ödemeler toplamı dosya bazında, 8/2/2006 tarihli ve 5454 sayılı Kanunun 1 inci maddesi uyarınca yapılacak ek ödeme dâhil 1.000 Türk lirasından az olamaz.
 Ölüm sigortasından yapılan ödemeler toplamı ise bu tutarın hak sahiplerinin hisseleri oranı esas alınarak tespit olunacak tutarından az olamaz.
 Bu Kanun kapsamında hesaplanan aylıklar, bu madde ile belirlenen tutardan düşükse aradaki fark Hazineden tahsil edilir.
 Uluslararası sosyal güvenlik sözleşmeleri gereğince bağlanan kısmi aylıklar için bu madde hükümleri uygulanmaz.”
@@ -258,7 +258,7 @@ MADDE 11 – (1) Dışişleri Bakanlığı mali hizmetler uzmanları ile merkez 
 
 MADDE 51 – 6004 sayılı Kanunun 15 inci maddesinin üçüncü fıkrasında yer alan “Meslek memurlarına” ibaresi “Meslek memurları ile konsolosluk ve ihtisas memurlarına” şeklinde değiştirilmiştir.
 
-MADDE 52- 6004 sayılı Kanunun 16 ncı maddesinin birinci fıkrasına aşağıdaki cümleler eklenmiş, ikinci fıkrasının (a) bendine “belgelendirilmesi” ibaresinden sonra gelmek üzere “ve Bakan oluru alınması” ibaresi eklenmiş, ikinci cümlesi yürürlükten kaldırılmış, aynı fıkranın (b) bendinde yer alan “% 25’i” ibaresi “%30’u” şeklinde değiştirilmiş, (c) bendinde yer alan “% 10’unu” ibaresi “%15’ini” şeklinde, “% 5’ini” ibaresi “%10’unu” şeklinde değiştirilmiş ve “ilkokul, ortaokul ve lise öğrenimi görenler için” ibaresi madde metninden çıkarılmıştır.
+**MADDE 52-** 6004 sayılı Kanunun 16 ncı maddesinin birinci fıkrasına aşağıdaki cümleler eklenmiş, ikinci fıkrasının (a) bendine “belgelendirilmesi” ibaresinden sonra gelmek üzere “ve Bakan oluru alınması” ibaresi eklenmiş, ikinci cümlesi yürürlükten kaldırılmış, aynı fıkranın (b) bendinde yer alan “% 25’i” ibaresi “%30’u” şeklinde değiştirilmiş, (c) bendinde yer alan “% 10’unu” ibaresi “%15’ini” şeklinde, “% 5’ini” ibaresi “%10’unu” şeklinde değiştirilmiş ve “ilkokul, ortaokul ve lise öğrenimi görenler için” ibaresi madde metninden çıkarılmıştır.
 “Bakanlığın yurt dışı teşkilatı ile ihtisas birimlerinde istihdam edilen Türk uyruklu sözleşmeli personel de bu haktan aynı oranda yararlanır. Bu ödeneğin hesaplanmasında, görev yapılan ülke için belirlenen yurt dışı sözleşmeli sekreter pozisyonu tavan ücreti esas alınır.”
 
 
@@ -304,7 +304,7 @@ MADDE 62 – 24/4/2013 tarihli ve 6461 sayılı Türkiye Demiryolu Ulaştırmas�
 
 
 MADDE 63 – 1/11/2017 tarihli ve 7060 sayılı Helal Akreditasyon Kurumu ile İlgili Bazı Düzenlemeler Hakkında Kanunun mülga 3 üncü maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
-“MADDE 3- (1) Helal Akreditasyon Kurumu, Türkiye’de helal uygunluk değerlendirme kuruluşlarını akredite etmek üzere yetkili tek kurum olup, başka hiçbir tüzel ya da gerçek kişi Helal Akreditasyon Kurumunun görev alanına giren hususlarda faaliyette bulunamaz, helal uygunluk değerlendirme kuruluşlarını akredite edemez, helal akreditasyonla ilgili doğrudan veya dolaylı olarak hizmet sunumuna yönelik beyanda bulunamaz.”
+“**MADDE 3-** (1) Helal Akreditasyon Kurumu, Türkiye’de helal uygunluk değerlendirme kuruluşlarını akredite etmek üzere yetkili tek kurum olup, başka hiçbir tüzel ya da gerçek kişi Helal Akreditasyon Kurumunun görev alanına giren hususlarda faaliyette bulunamaz, helal uygunluk değerlendirme kuruluşlarını akredite edemez, helal akreditasyonla ilgili doğrudan veya dolaylı olarak hizmet sunumuna yönelik beyanda bulunamaz.”
 
 
 MADDE 64 – 31/1/2018 tarihli ve 7068 sayılı Genel Kolluk Disiplin Hükümleri Hakkında Kanun Hükmünde Kararnamenin Kabul Edilmesine Dair Kanunun 8 inci maddesinin yedinci fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -332,7 +332,7 @@ MADDE 68 – 655 sayılı Kanun Hükmünde Kararnameye aşağıdaki geçici madd
 “Bakiye tutarların tahsili
 GEÇİCİ
 
-MADDE 10- (1) Bu maddeyi ihdas eden Kanunla değiştirilen 15 inci maddenin ikinci fıkrası, bu maddenin yayımı tarihi itibarıyla hâlihazırda işletmesi devredilmiş olan projelerin bu maddenin yayımı tarihinden önce hesaplanan yönteme göre ödenmeyen bakiye tutarlarını da kapsar. Bu maddenin yayımı tarihinden önce bu projeler kapsamında kısmen veya tamamen ödenmeyen tutarlar bu maddenin yayımı tarihinden itibaren 180 gün içinde Hazine ve Maliye Bakanlığının Türkiye Cumhuriyet Merkez Bankasındaki ilgili hesabına defaten aktarılır.”
+**MADDE 10-** (1) Bu maddeyi ihdas eden Kanunla değiştirilen 15 inci maddenin ikinci fıkrası, bu maddenin yayımı tarihi itibarıyla hâlihazırda işletmesi devredilmiş olan projelerin bu maddenin yayımı tarihinden önce hesaplanan yönteme göre ödenmeyen bakiye tutarlarını da kapsar. Bu maddenin yayımı tarihinden önce bu projeler kapsamında kısmen veya tamamen ödenmeyen tutarlar bu maddenin yayımı tarihinden itibaren 180 gün içinde Hazine ve Maliye Bakanlığının Türkiye Cumhuriyet Merkez Bankasındaki ilgili hesabına defaten aktarılır.”
 
 
 MADDE 69 – Bu Kanunun;

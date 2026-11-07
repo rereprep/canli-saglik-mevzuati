@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Kurumu)’ndan:
-AİLE HEKİMLİĞİ UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**AİLE HEKİMLİĞİ UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 25/1/2013 tarihli ve 28539 sayılı Resmî Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliğinin 3 üncü maddesinin (g), (ğ), (h), (m) ve (p) bentleri aşağıdaki şekilde değiştirilmiştir.
 “g) Eğitici: Eğitim aile sağlığı merkezinde veya biriminde, tıpta uzmanlık mevzuatında belirlenen sorumluluğu çerçevesinde, asistanlarca sunulan aile hekimliği hizmetlerini ve bu personelin eğitimlerini koordine eden, öğretim üyesi, eğitim görevlisi ve başasistan gibi tıpta uzmanlık mevzuatına göre eğitim vermeye yetkili kişileri,

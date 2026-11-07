@@ -16,11 +16,11 @@ durum: "yürürlükte"
 
 ### BİRİNCİ KISIM
 
-Genel Hükümler
+**Genel Hükümler**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -38,39 +38,39 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 **Madde 4 –** Bu Yönetmelikte geçen;
 
-a) Kanun : 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunu,
+**a) Kanun :** 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunu,
 
-b) Bakanlık : Sağlık Bakanlığını,
+**b) Bakanlık :** Sağlık Bakanlığını,
 
-c) (Değişik:RG-06/11/2007-26692) Genel Müdürlük: Tedavi Hizmetleri Genel Müdürlüğünü,
+**c) (Değişik:RG-06/11/2007-26692) Genel Müdürlük:** Tedavi Hizmetleri Genel Müdürlüğünü,
 
-d) Müdürlük : İl Sağlık Müdürlüğünü,
+**d) Müdürlük :** İl Sağlık Müdürlüğünü,
 
-e) Hiperbarik oksijen tedavisi : Basınç kabini içinde 1 atmosferden yüksek basınç altına alınan hastaya %100 oksijen solutarak uygulanan bilimsel ve modern tedavi yöntemini,
+**e) Hiperbarik oksijen tedavisi :** Basınç kabini içinde 1 atmosferden yüksek basınç altına alınan hastaya %100 oksijen solutarak uygulanan bilimsel ve modern tedavi yöntemini,
 
-f) Sağlık kuruluşu : Hiperbarik oksijen tedavi yönteminin uygulandığı özel sağlık kuruluşlarını,
+**f) Sağlık kuruluşu :** Hiperbarik oksijen tedavi yönteminin uygulandığı özel sağlık kuruluşlarını,
 
-g) Hekim : Kanuna göre mesleğini serbest olarak icra etmek yetkisine sahip tabipleri,
+**g) Hekim :** Kanuna göre mesleğini serbest olarak icra etmek yetkisine sahip tabipleri,
 
-h) Uzman hekim : Kanuna göre mesleğini serbest olarak icra etmek yetkisine sahip serbest çalışan ve Tababet Uzmanlık Tüzüğüne göre deniz ve sualtı hekimliği ile hava ve uzay hekimliği dalında uzmanlık eğitimini tamamlamış tabipleri,
+**h) Uzman hekim :** Kanuna göre mesleğini serbest olarak icra etmek yetkisine sahip serbest çalışan ve Tababet Uzmanlık Tüzüğüne göre deniz ve sualtı hekimliği ile hava ve uzay hekimliği dalında uzmanlık eğitimini tamamlamış tabipleri,
 
-i) Sertifikalı hekim: Sağlık Bakanlığı tarafından açılan kursu başarı ile tamamlayan hekimler ile Kurtarma ve Sualtı Komutanlığında açılan (asgari 3 aylık ve uygulamalı) Dalgıç Tabip Subay kursunu başarı ile tamamlayan hekimler veya yurtdışında hiperbarik oksijen konusunda asgari 3 aylık eğitim aldığını yapılan sınavda bu eğitimi başarı ile tamamladığını belgeleyen ve başvurmaları sonucu Sağlık Bakanlığınca yapılacak değerlendirmede yeterli görülen hekimleri,
+**i) Sertifikalı hekim:** Sağlık Bakanlığı tarafından açılan kursu başarı ile tamamlayan hekimler ile Kurtarma ve Sualtı Komutanlığında açılan (asgari 3 aylık ve uygulamalı) Dalgıç Tabip Subay kursunu başarı ile tamamlayan hekimler veya yurtdışında hiperbarik oksijen konusunda asgari 3 aylık eğitim aldığını yapılan sınavda bu eğitimi başarı ile tamamladığını belgeleyen ve başvurmaları sonucu Sağlık Bakanlığınca yapılacak değerlendirmede yeterli görülen hekimleri,
 
-j) Basınç kabini : Tedavi edilecek hastaların bulunduğu basınçla doldurulan tek veya çok kişilik odayı,
+**j) Basınç kabini :** Tedavi edilecek hastaların bulunduğu basınçla doldurulan tek veya çok kişilik odayı,
 
-k) Ana kabin : Tedavi amaçlı kullanılan kabin kısmını,
+**k) Ana kabin :** Tedavi amaçlı kullanılan kabin kısmını,
 
-l) Ön kabin : Hasta ve personelin ana kabine giriş ve çıkışını sağlayan kısmını,
+**l) Ön kabin :** Hasta ve personelin ana kabine giriş ve çıkışını sağlayan kısmını,
 
-m) İnceleme komisyonu : İl sağlık müdürü veya görevlendireceği müdür yardımcısı başkanlığında, açılacak sağlık kuruluşunun bağlı bulunduğu sağlık ocağından bir hekim, olmak üzere toplam üç kişiden oluşan komisyonu,
+**m) İnceleme komisyonu :** İl sağlık müdürü veya görevlendireceği müdür yardımcısı başkanlığında, açılacak sağlık kuruluşunun bağlı bulunduğu sağlık ocağından bir hekim, olmak üzere toplam üç kişiden oluşan komisyonu,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Sağlık Kuruluşlarının
+**Sağlık Kuruluşlarının**
 
-Kurulması ve Açmaya Yetkili Kişiler
+**Kurulması ve Açmaya Yetkili Kişiler**
 
 #### Kurulma
 
@@ -82,7 +82,7 @@ Kurulması ve Açmaya Yetkili Kişiler
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Başvuru ve Açılma İzin İşlemleri
+**Başvuru ve Açılma İzin İşlemleri**
 
 #### Başvuru İçin İstenen Belgeler
 
@@ -94,17 +94,17 @@ b) Sağlık kuruluşunun, yerleşim planını gösterir 1/100 ölçekli mimar ta
 
 c) Yangına karşı gereken tedbirlerin alındığına dair ilgili mevzuatına göre yetkili mercilerden alınan belge örneği,
 
-d) (Değişik:R.G.31/7/2009-27305) Sağlık kuruluşu bir ticaret şirketi tarafından açılacak ise, şirket ortaklarını gösterir ticaret sicili gazetesinin örneği ile ortakların tamamının tabip olduklarını belgelemek üzere diplomalarının, var ise uzmanlık belgelerinin birer örneği ,
+**d) (Değişik:R.G.31/7/2009-27305)** Sağlık kuruluşu bir ticaret şirketi tarafından açılacak ise, şirket ortaklarını gösterir ticaret sicili gazetesinin örneği ile ortakların tamamının tabip olduklarını belgelemek üzere diplomalarının, var ise uzmanlık belgelerinin birer örneği ,
 
 e) Sağlık kuruluşunda kullanılacak cihazları gösterir bir liste,
 
-f) (Değişik:R.G.31/7/2009-27305) Sağlık kuruluşunda hasta nakli için bulundurulacak olan, 7/12/2006 tarihli ve 26369 sayılı Resmi Gazete'de yayımlanan Ambulanslar ve Acil Sağlık Araçları ile Ambulans Hizmetleri Yönetmeliğine uygun ambulans sağlık kuruluşuna ait ise ruhsatının; değil ise, ruhsatlı özel ambulans servisinden hizmet satın alınacağına dair hizmet sözleşmesinin aslına uygunluğu müdürlükçe onaylı örneği ,
+**f) (Değişik:R.G.31/7/2009-27305)** Sağlık kuruluşunda hasta nakli için bulundurulacak olan, 7/12/2006 tarihli ve 26369 sayılı Resmi Gazete'de yayımlanan Ambulanslar ve Acil Sağlık Araçları ile Ambulans Hizmetleri Yönetmeliğine uygun ambulans sağlık kuruluşuna ait ise ruhsatının; değil ise, ruhsatlı özel ambulans servisinden hizmet satın alınacağına dair hizmet sözleşmesinin aslına uygunluğu müdürlükçe onaylı örneği ,
 
-g) (Değişik:RG-17/10/2008-27027) Açılacak sağlık kuruluşunda mes'ul müdür olarak çalışacak kişi ile yapılacak sözleşme örneği, mes'ul müdüre ait T.C. Kimlik Numarası, iki adet vesikalık fotoğraf ve uzmanlık diplomasının veya sertifikanın örneği,
+**g) (Değişik:RG-17/10/2008-27027)** Açılacak sağlık kuruluşunda mes'ul müdür olarak çalışacak kişi ile yapılacak sözleşme örneği, mes'ul müdüre ait T.C. Kimlik Numarası, iki adet vesikalık fotoğraf ve uzmanlık diplomasının veya sertifikanın örneği,
 
 h) Sağlık kuruluşunda çalışacak bütün hekimler için bağlı oldukları meslek kuruluşu tarafından düzenlenmiş, meslek kuruluşuna kayıtlı olduklarını bildirir belgenin veya meslek odası kimlik kartının mes'ul müdür tarafından onaylı bir örneği,
 
-i) (Değişik:R.G.31/7/2009-27305) Sağlık kuruluşunda çalışacak bütün personelin diplomalarının aslına uygunluğu müdürlükçe onaylı birer örneği ,
+**i) (Değişik:R.G.31/7/2009-27305)** Sağlık kuruluşunda çalışacak bütün personelin diplomalarının aslına uygunluğu müdürlükçe onaylı birer örneği ,
 
 j) Müstakil binada değil ise kat maliklerinden alınacak muvafakat belgesi,
 
@@ -122,7 +122,7 @@ Bu belgeler iki nüsha olarak eklenerek bir dosya halinde hazırlanır.
 
 **Madde 8 –** Bu Yönetmeliğin 7 inci maddesine uygun olarak düzenlenen dosya üzerine, inceleme komisyonu tarafından sağlık kuruluşu yerinde incelenerek rapor hazırlanır. İnceleme neticesinde açılması istenen sağlık kuruluşunun eksikleri varsa tamamlattırılmasından sonra yeniden değerlendirilip Valilik görüşleri ile birlikte ilgili belgeler ve dosyası eksiksiz olarak Bakanlığa gönderilir.
 
-Başvuru dosyası, Genel Müdürlük tarafından incelenir. Dosya içeriği Yönetmeliğe uygun bulunursa, (Değişik ibare : RG-06/11/2007-26692) Tedavi Hizmetleri Genel Müdürünün başkanlığında Müsteşarlık makamından alınan onayla kurulan, Tedavi Hizmetleri Genel Müdürlüğü temsilcisi, uzman veya sertifikalı hekim, anestezi ve reanimasyon uzmanı hekim ve basınç odası konusunda bilgili mühendisten oluşan 5 kişilik teknik komisyona gönderilir. Teknik komisyon tarafından en geç bir ay içerisinde dosya üzerinde ve sağlık kuruluşu yerinde inceleme yapıldıktan sonra durum tespit raporu hazırlanarak Genel Müdürlüğe verilir. Genel Müdürlükçe uygun görüldüğü takdirde Bakanlıkça EK-1 de gösterilen Uygunluk Belgesi, mes’ul müdür adına EK-2 de gösterilen Mes’ul Müdürlük Belgesi düzenlenir ve daha sonra Müdürlük tarafından diğer çalışanlarının her birine EK-3 de gösterilen Personel Çalışma Belgesi düzenlenir.
+Başvuru dosyası, Genel Müdürlük tarafından incelenir. Dosya içeriği Yönetmeliğe uygun bulunursa, **(Değişik ibare : RG-06/11/2007-26692)** Tedavi Hizmetleri Genel Müdürünün başkanlığında Müsteşarlık makamından alınan onayla kurulan, Tedavi Hizmetleri Genel Müdürlüğü temsilcisi, uzman veya sertifikalı hekim, anestezi ve reanimasyon uzmanı hekim ve basınç odası konusunda bilgili mühendisten oluşan 5 kişilik teknik komisyona gönderilir. Teknik komisyon tarafından en geç bir ay içerisinde dosya üzerinde ve sağlık kuruluşu yerinde inceleme yapıldıktan sonra durum tespit raporu hazırlanarak Genel Müdürlüğe verilir. Genel Müdürlükçe uygun görüldüğü takdirde Bakanlıkça EK-1 de gösterilen Uygunluk Belgesi, mes’ul müdür adına EK-2 de gösterilen Mes’ul Müdürlük Belgesi düzenlenir ve daha sonra Müdürlük tarafından diğer çalışanlarının her birine EK-3 de gösterilen Personel Çalışma Belgesi düzenlenir.
 
 Düzenlenen Uygunluk Belgesi, Mes’ul Müdürlük Belgesi ve Personel Çalışma Belgesinin asıllarının birer örnekleri sağlık kuruluşunun mes’ul müdürüne imza karşılığı verilir.
 
@@ -130,11 +130,11 @@ Bu Yönetmelik kapsamındaki mevcut bir özel sağlık kuruluşunu açmış ve i
 
 ### İKİNCİ KISIM
 
-Kuruluş Altyapı Standartları
+**Kuruluş Altyapı Standartları**
 
 ### BİRİNCİ BÖLÜM
 
-Personel Altyapı Standartları
+**Personel Altyapı Standartları**
 
 #### Mes’ul Müdür
 
@@ -206,7 +206,7 @@ Hastaların tedavi öncesi ve sonrasında muayenelerini yaparak, tedavi sırası
 
 ### İKİNCİ BÖLÜM
 
-Bina ve Basınç Kabinleri Altyapı Standartları
+**Bina ve Basınç Kabinleri Altyapı Standartları**
 
 #### Bina
 
@@ -410,7 +410,7 @@ l) Oksijen donanım bölümü.
 
 **Madde 24 –** Sağlık kuruluşunun bekleme salonunda; sağlık kuruluşuna ait Uygunluk Belgesinin aslı, Mes’ul Müdürlük Belgesinin aslı, çalışan uzman hekim dahil tüm sağlık personelin isimlerinin bulunduğu bir tabela, EK-6 da gösterilen basınç kabinine girecek olan hastaların ve sağlık personelinin uyması gereken kuralları gösteren tabela, muayene, tetkik ve tedavi ücretlerini gösteren bir fiyat listesi, sağlık kuruluşu ile ilgili şikayetlerin yapılabileceği Müdürlük ve meslek odasının belirlenmiş telefonlarının bulunduğu liste hasta ve yakınları tarafından kolayca okunabilecek uygun bir yere asılır.
 
-Hasta muayene odalarının kapısında hizmet verilen dalın adı, duvarında hastaların görebilecekleri bir yerde o muayene odasında görev yapan hekimin veya birden çok aynı dalda hekim görev yapıyor ise bütün hekimlerin diploma ve var ise uzmanlık belgeleri veya sertifikalarının aslı veya (Değişik ibare:RG-3/4/2012-28253) Müdürlükçe tasdikli bir örneği ve personel çalışma belgelerinin aslı asılı olarak bulunur.
+Hasta muayene odalarının kapısında hizmet verilen dalın adı, duvarında hastaların görebilecekleri bir yerde o muayene odasında görev yapan hekimin veya birden çok aynı dalda hekim görev yapıyor ise bütün hekimlerin diploma ve var ise uzmanlık belgeleri veya sertifikalarının aslı veya **(Değişik ibare:RG-3/4/2012-28253)** Müdürlükçe tasdikli bir örneği ve personel çalışma belgelerinin aslı asılı olarak bulunur.
 
 #### Tabela
 
@@ -422,11 +422,11 @@ Tabelalarda ve diğer basılı materyalde kullanılan, Özel ibaresi de dahil ol
 
 ### ÜÇÜNCÜ KISIM
 
-Kuruluşun İşleyişi
+**Kuruluşun İşleyişi**
 
 ### BİRİNCİ BÖLÜM
 
-Kuruluşun Çalışma Usul ve Esasları
+**Kuruluşun Çalışma Usul ve Esasları**
 
 #### Çalışma Esasları
 
@@ -448,7 +448,7 @@ Tek kişilik ve çok kişilik basınç kabinlerinde tedaviye giren hastalar ve s
 
 ### İKİNCİ BÖLÜM
 
-Kayıt ve Arşiv
+**Kayıt ve Arşiv**
 
 #### Protokol Defteri
 
@@ -468,7 +468,7 @@ Kayıt ve Arşiv
 
 ### DÖRDÜNCÜ KISIM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetim
 
@@ -540,7 +540,7 @@ Ancak, sadece özel sağlık kuruluşuna başvuran hastaların kullanımına yö
 
 **Madde 39 –** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Sayfa 1
+**Sayfa 1**
 
 ### EK - 1
 
@@ -548,7 +548,7 @@ Sayfa 1
 
 ### SAĞLIK BAKANLIĞI
 
-Temel Sağlık Hizmetleri Genel Müdürlüğü
+**Temel Sağlık Hizmetleri Genel Müdürlüğü**
 
 Belge No:
 
@@ -570,9 +570,9 @@ ADI ve SOYADI :
 
 Yukarıda adı ve adresi belirtilen özel sağlık kuruluşunun Mes’ul Müdür ...................................................... sorumluluğunda faaliyet göstermesi Bakanlığımızca uygun görülmüştür.
 
-Genel Müdür/Yardımcısı
+**Genel Müdür/Yardımcısı**
 
-Sayfa 2
+**Sayfa 2**
 
 ### EK - 2
 
@@ -618,7 +618,7 @@ Yukarıda açık kimliği yazılı olan hekimin ................................
 
 Sağlık Müdürü
 
-Sayfa 3
+**Sayfa 3**
 
 ### EK - 3
 
@@ -666,7 +666,7 @@ Yukarıda açık kimliği yazılı olan sağlık personelinin ..................
 
 Sağlık Müdürü/Yardımcısı
 
-Sayfa 4
+**Sayfa 4**
 
 ### EK - 4
 
@@ -718,7 +718,7 @@ a) İdrar torbası, foley katater, nazogastrik tüp, orofarengeal hava yolu, tur
 
 b) Rheomakrodeks solüsyonları, Laktatlı ringer solüsyonları, isotonik solüsyonlar, %5, %10, %20 lik Dekstroz solüsyonları, %1 lik lidokain, diazepam ampul, adrenalin, deksametazon, dopamine, isoproteronol, aminofilin, aspirin, digital, furasemid, sodyum bikarbonat, isoptin, nidilat, lasix.
 
-Sayfa 5
+**Sayfa 5**
 
 ### EK-5
 
@@ -758,7 +758,7 @@ Hiperbarik Oksijen Tedavisi Endikasyonları;
 
 17.Kafa kemikleri, sternum ve vertebraların akut osteomyelitleri.
 
-Sayfa 6
+**Sayfa 6**
 
 ### EK-6
 
@@ -786,7 +786,7 @@ Basınç Kabinine Girecek Olan Hasta ve Personelin Uyması Gereken Kurallar:
 
 11. Her hasta tedavi sırasında kendi maske ve devresini kullanmalıdır.
 
-Sayfa 7
+**Sayfa 7**
 
 ### EK - 7
 
@@ -836,7 +836,7 @@ e)Bu bilgileri onaylanan yetkilinin adı, soyadı, imzası, onay tarihi ve kurum
 
 Protokol Kayıt Defteri, sağlık kuruluşunda gerçekleştirilen tüm muayene işlemleri için ortak olarak kullanılamaz. Sağlık kuruluşunda bulunan her bir tıp dalı, özel hizmet birimi ve acil ünitesi veya benzeri diğer muayene hizmeti sunulan birimler için ayrı Protokol Kayıt Defterleri kullanılır. Örneğin, aynı uzmanlık ya da tıp dalında aynı muayene odasını paylaşan hekimler ortak Protokol Kayıt Defteri kullanabilirler. Ancak, aynı hekimin sağlık kuruluşunun farklı birimlerinde (örneğin, iç hastalıkları kliniğinde ve acil ünitesinde) hizmet sunması durumunda ayrı Protokol Kayıt Defterleri kullanılır.
 
-Sayfa 8
+**Sayfa 8**
 
 ### EK - 8
 
@@ -890,7 +890,7 @@ Her bir denetim işlemine ait olmak üzere Teftiş ve Denetim Defterine sırası
 
 ### DENETLEME FORMU
 
-Denetlenen Kuruluşun Tarih : / /
+**Denetlenen Kuruluşun** Tarih : / /
 
 Adı : Saat :
 
@@ -928,14 +928,14 @@ Adresi :
 | 27. | Tıbbi atıkların kontrolü hizmetleri düzenlemesine uyuluyor mu? | Evet | Hayır | 7 gün | 7 gün |
 | 28. | Hijyenik koşulları sağlık hizmeti sunulmasına uygun mu? | Evet | Hayır | 3 gün | 15 gün |
 
-Genel Değerlendirme:
+**Genel Değerlendirme:**
 
-Denetim Ekip Başkanı Denetçi Denetçi Mes’ul Müdür
+**Denetim Ekip Başkanı Denetçi Denetçi Mes’ul Müdür**
 
 ad, soyad, ad, soyad, ad, soyad, kaşe, imza görev, imza görev, imza görev, imza
 
 * İşaretli düzenlemede eksiklik saptandığında giderilmesi için süre verilmez, sağlık kuruluşu eksikliğin derhal giderilmesi için uyarılır. Takip eden üç (3) denetimin herhangi birinde aynı eksiklik saptandığında doğrudan ilgili faaliyeti durdurma süresi ceza olarak verilir.
 
-Not: Denetlenen özel sağlık kuruluşu türüne uygun olmayan soruları cevaplandırmayınız.
+**Not:** Denetlenen özel sağlık kuruluşu türüne uygun olmayan soruları cevaplandırmayınız.
 
 Bu Formda saptanan eksiklikleri Denetim ve Teftiş Defterine kaydediniz.

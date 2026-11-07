@@ -12,18 +12,18 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2006/07/20060712-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-BÜTÇE KANUNLARINDA YER ALAN BAZI HÜKÜMLERİN İLGİLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERE EKLENMESİ VE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5538 Kabul Tarihi : 1/7/2006
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+BÜTÇE KANUNLARINDA YER ALAN BAZI HÜKÜMLERİN İLGİLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERE EKLENMESİ VE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK **YAPILMASINA DAİR KANUN**
+**Kanun No. 5538 Kabul Tarihi : 1/7/2006**
 
-MADDE 1 – 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun ek 81 inci maddesinin birinci fıkrasına "emekli aylığı" ibaresinden sonra gelmek üzere "veya ek 77 nci madde kapsamına girenler hariç olmak üzere vazife malûllüğü veya adi malûllük aylığı" ibaresi eklenmiş; aynı maddenin üçüncü fıkrası aşağıdaki şekilde değiştirilmiş ve anılan maddeye dördüncü fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 1 –** 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun ek 81 inci maddesinin birinci fıkrasına "emekli aylığı" ibaresinden sonra gelmek üzere "veya ek 77 nci madde kapsamına girenler hariç olmak üzere vazife malûllüğü veya adi malûllük aylığı" ibaresi eklenmiş; aynı maddenin üçüncü fıkrası aşağıdaki şekilde değiştirilmiş ve anılan maddeye dördüncü fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 "Hizmet sınıfı veya kadro unvanı itibariyle birinci fıkra kapsamına girenlerin 67 nci maddede belirtilen aylığa müstahak dul ve yetimlerinden ek 77 nci madde kapsamına girmeyenler; ikinci fıkradaki şartlar dikkate alınarak, 68 inci maddedeki oranlar üzerinden bu ödemeden yararlandırılır." "Bu madde uyarınca yapılacak ödeme, 8/2/2006 tarihli ve 5454 sayılı Kanunun 1 inci maddesi uyarınca yapılacak ek ödemenin matrahına dahil edilmez."
 
-MADDE 2 – a) 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 10 uncu maddesinin birinci fıkrasının (1) numaralı bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 2 –** a) 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 10 uncu maddesinin birinci fıkrasının (1) numaralı bendi aşağıdaki şekilde değiştirilmiştir.
 "1. Yurt içinde veya yurt dışında görev yapmakta iken yurt içinde veya yurt dışındaki sürekli bir göreve naklen atanan ya da yabancı ülkelerdeki memuriyet merkezi değiştirilen memur ve hizmetlilere yeni görev yerlerine kadar;"
 b) 6245 sayılı Harcırah Kanununun 46 ncı maddesinin ikinci fıkrası yürürlükten kaldırılmış ve aynı maddenin son fıkrasında yer alan "kısmı," ibaresinden sonra gelmek üzere "aynı şehirde ikamet eden" ibaresi eklenmiştir.
 
-MADDE 3 – 6245 sayılı Harcırah Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 3 –** 6245 sayılı Harcırah Kanununa aşağıdaki geçici madde eklenmiştir.
 "Geçmişe yönelik harcırah ödenmesi
 
 GEÇİCİ MADDE 5 – Bu Kanun kapsamında bulunan kurum ve kuruluşlar ile özel hükümler gereğince bu Kanun kapsamı dışında kalan tüm kamu kurum ve kuruluşlarında;
@@ -34,20 +34,20 @@ c) 31/7/2003 tarihli ve 4969 sayılı Kanunun 1 inci maddesinin (a) bendi ve 4/7
 ç) 21/4/2005 tarihli ve 5335 sayılı Kanunun 4 üncü maddesinin (a) bendi uyarınca, kendi yazılı talepleri üzerine naklen ataması yapılanlardan, harcırah ödenmemiş olanlara, bu maddenin yürürlüğe girdiği tarihten itibaren 31/12/2006 tarihine kadar, en son görev yaptıkları yerdeki idareye kendilerinin veya ölümleri hâlinde kanunî mirasçılarının başvurmaları durumunda, başvuru tarihinden itibaren üç ay içinde bu Kanunun ilgili hükümleri uyarınca naklen atandıkları tarihte müstahak oldukları harcırah, ödendiği yılda yürürlükte olan kanunî faiz oranı uygulanmak suretiyle ödenir.
 Türk Standartları Enstitüsü personeline 4/7/2001 tarihli ve 631 sayılı Kanun Hükmünde Kararnamenin 14/A maddesinin (d) bendindeki hükümlere göre harcırah ödenir."
 
-MADDE 4 – 25/1/1965 tarihli ve 527 sayılı Gelecek Yıllara Geçici Yüklenmelere Dair Kanun yürürlükten kaldırılmıştır.
+**MADDE 4 –** 25/1/1965 tarihli ve 527 sayılı Gelecek Yıllara Geçici Yüklenmelere Dair Kanun yürürlükten kaldırılmıştır.
 
-MADDE 5 – a) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 108 inci maddesinin dördüncü fıkrasındaki "dört" ibaresi "sekiz" olarak değiştirilmiştir.
+**MADDE 5 –** a) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 108 inci maddesinin dördüncü fıkrasındaki "dört" ibaresi "sekiz" olarak değiştirilmiştir.
 b) 657 sayılı Devlet Memurları Kanununun 152 nci maddesinin "II-Tazminatlar" kısmının "E) Mülki İdare Amirliği Özel Hizmet Tazminatı" bölümünün (b) bendine "Olağanüstü Hal Bölge Valisi," ibaresinden sonra gelmek üzere "İl Valileri ve" ibaresi eklenmiş, (c) bendinde yer alan "ve İl Valileri" ibaresi madde metninden çıkarılmış ve aynı bentte yer alan "% 325’ine" ibaresi "% 330’una" şeklinde değiştirilmiştir.
 c) 657 sayılı Devlet Memurları Kanununa ekli (IV) sayılı Makam Tazminatı Cetvelinin 10 uncu sırasının (a) bendinde yer alan "5, 6, 7 ve 8 inci sıralarda" ibaresi "5, 6 ve 7 nci sıralar ile 8 inci sıranın (a), (b) ve (c) bentlerinde" şeklinde, (b) bendinde yer alan "9 uncu sırada" ibaresi ise "8 inci sıranın (d) bendi ile 9 uncu sırada" olarak değiştirilmiştir.
 d) 657 sayılı Devlet Memurları Kanununa ekli (I) sayılı Ek Gösterge Cetvelinin "I - Genel İdare Hizmetleri Sınıfı" bölümünün (d) bendine "Sosyal Güvenlik Kurumu Başkan Yardımcısı" ibaresinden önce gelmek üzere "Gelir İdaresi Başkan Yardımcısı," ibaresi eklenmiş, (e) bendinde yer alan "Gelir İdaresi Başkan Yardımcıları," ibaresi cetvelden çıkartılmıştır.
 
-MADDE 6 – 657 sayılı Devlet Memurları Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 6 –** 657 sayılı Devlet Memurları Kanununa aşağıdaki geçici madde eklenmiştir.
 "Avukatlık vekâlet ücreti
 
 GEÇİCİ MADDE 35 – Devlet Su İşleri Genel Müdürlüğü, Karayolları Genel Müdürlüğü, Tarım Reformu Genel Müdürlüğü, Petrol İşleri Genel Müdürlüğü ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünde hukuk müşaviri olarak görev yapanlar ile 178 sayılı Kanun Hükmünde Kararnamenin ek 27 nci maddesiyle anılan genel müdürlükler adına ihdas edilen hukuk müşaviri kadrolarına atanan personele, mahkemelerce takdir edilip ilgili idarelerin hesaplarında avukatlık vekâlet ücreti olarak yer alan tutarlardan karşılanmak üzere 146 ncı maddede belirtilen limit çerçevesinde 2006, 2007 ve 2008 yıllarında da avukatlık vekâlet ücreti ödenir. İlgili genel müdürlüklerin muhasebe hizmetlerinin yürütüldüğü taşra muhasebe birimlerinin hesaplarında bulunan avukatlık vekâlet ücretlerinin tamamı bu maddenin yürürlüğe girdiği tarihi takip eden ayın sonunda, merkez muhasebe birimlerinin hesaplarında 31/12/2008 tarihi itibarıyla kalan avukatlık vekâlet ücretlerinin tamamı ise anılan tarihte gelir kaydedilir.
 Bu maddenin yürürlüğe girdiği tarihten önce Petrol İşleri Genel Müdürlüğü ile Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünün merkez ve taşra teşkilâtı kadrolarında hukuk müşaviri ve avukat olarak görev yapanlara, mahkemelerce takdir edilip ilgili idarelerin hesaplarında avukatlık vekâlet ücreti olarak yer alan tutarlardan karşılanmak üzere 2003, 2004, 2005 ve 2006 yıllarına ilişkin olarak, bu yıllarda avukatlık vekâlet ücretinden yararlanmamış olmaları kaydıyla 146 ncı maddede belirtilen limit çerçevesinde 2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekalet Hakkında Kanun hükümleri kıyas yolu ile uygulanmak suretiyle avukatlık vekâlet ücreti ödenir."
 
-MADDE 7 – 29/7/1970 tarihli ve 1319 sayılı Emlak Vergisi Kanununa aşağıdaki geçici 22 nci madde eklenmiştir.
+**MADDE 7 –** 29/7/1970 tarihli ve 1319 sayılı Emlak Vergisi Kanununa aşağıdaki geçici 22 nci madde eklenmiştir.
 "GEÇİCİ MADDE 22 – Takdir Komisyonlarınca 2005 yılında yapılan arsa ve arazilere ait asgarî ölçüde birim değer tespitlerine ilişkin takdir kararları, anılan komisyonlarca bu maddenin yürürlüğe girdiği tarihten itibaren otuz gün içinde incelenerek, arsa ve arazilerin takdir işleminin yapıldığı tarihteki asgarî ölçüde birim değerlerinde düzeltmeye gerek görülenler yeniden takdir edilmek suretiyle karara bağlanır. Bu kararlar hakkında, büyükşehir belediyesi bulunan illerde 213 sayılı Vergi Usul Kanununun mükerrer 49 uncu maddesinin (b) fıkrasının ikinci bendi hükmü uygulanır.
 Takdir kararlarından; arsalara ait olanlar, takdirin ilgili bulunduğu il ve ilçe merkezlerindeki ticaret odalarına, ziraat odalarına ve ilgili mahalle ve köy muhtarlıkları ile belediyelere, araziye ait olanlar ise il merkezlerindeki ticaret ve ziraat odaları ile belediyelere imza karşılığında verilir. Kendilerine karar tebliğ edilmiş bulunan daire, kurum, teşekkül ve ilgili mahalle ve köy muhtarlıkları ilgili vergi mahkemesi nezdinde dava açabilirler.
 Vergi mahkemeleri nezdinde dava açılmasında ve bu dava üzerine verilen kararlar aleyhine Danıştaya başvurulmasında 213 sayılı Vergi Usul Kanununun mükerrer 49 uncu maddesinin (b) ve (c) fıkraları hükümleri uygulanır.
@@ -92,19 +92,19 @@ MADDE 14 – 25/6/2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikaları K
 kamu görevlisinin kadro ya da pozisyonuna bağlı ve her ay mutat olarak ödenmekte olan damga vergisine tâbi aylık brüt gelirleri toplamına, sendika tüzüğünde belirtilen oran uygulanmak suretiyle hesaplanır.
 Ödenti tutarı, 15 inci derecenin birinci kademesinden aylık alan Devlet memurunun damga vergisine tâbi brüt gelirleri toplamının binde dördünden az, otuzda birinden fazla olamaz."
 
-MADDE 15 – 4688 sayılı Kamu Görevlileri Sendikaları Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 15 –** 4688 sayılı Kamu Görevlileri Sendikaları Kanununa aşağıdaki geçici madde eklenmiştir.
 "Tüzük değişikliği
 
 GEÇİCİ MADDE 10 – İlgili sendika tüzüklerinde bu maddenin yayımından önce farklı yöntemlerle belirlenmiş olan ödenti tutarları, ilk genel kurulda tüzük değişikliği yapılmak kaydıyla, sendika yönetim kurulu tarafından bu maddenin yayımı tarihinden itibaren en geç bir ay içinde bu Kanuna uygun olarak yeniden düzenlenir ve Maliye Bakanlığına bildirilir; bildirim tarihini takip eden aybaşından itibaren üyelik ödentilerinin hesaplanmasında uygulanır."
 
-MADDE 16 – 3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 16 –** 3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanuna aşağıdaki ek madde eklenmiştir.
 "EK MADDE 1 – Bu Kanun kapsamındaki satış belgeleri, Kurum tarafından çıkarılacak yönetmelik çerçevesinde il özel idarelerince verilir. Satış belge bedellerinden il özel idarelerine ayrılacak hizmet payları ile bu idarelerce yapılacak denetim, belgelerin iptali ve iptale ilişkin itirazlar ile diğer idari yaptırımlara ilişkin usûl ve esaslar bu yönetmelikle düzenlenir. Bu maddede öngörülen yönetmelik yürürlüğe konuluncaya kadar, mevcut düzenlemelerin uygulanmasına ve satış belgelerinin Tekel Genel Müdürlüğünce verilmesine devam olunur.
 Bu Kanunun yürürlüğe girdiği tarihten önce verilen izinler sürelerinin sonuna kadar geçerlidir."
 
-MADDE 17 – 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 17 –** 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 "GEÇİCİ MADDE 10 – Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünün ilgili yıllar yatırım programında yer alan ve Müsteşarlık tarafından dış finansman sağlanmasına izin verilmiş, ancak henüz finansman temin çalışmaları sonuçlandırılmamış olan projeleri ile 2006 Yılı Yatırım Programında yer alan projelerinin finansmanı için herhangi bir dış finansman kaynağından Türkiye Cumhuriyetinin borçlu sıfatıyla sağlayacağı kredileri, anılan Genel Müdürlüğe bütçe gelir ve gider kalemleri ile ilişkilendirilmeksizin karşılıksız tahsis etmeye Bakanın teklifi üzerine Bakanlar Kurulu yetkilidir. Bu maddeye istinaden sağlanacak krediler hakkında, 14 üncü maddenin beşinci ve altıncı fıkralarının 10/12/2003 tarihli ve 5018 sayılı Kanunun eki (I) sayılı cetvelde yer alan kamu idarelerine ilişkin hükümleri uygulanmaz."
 
-MADDE 18 – a) 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 2 nci maddesinin sonuna aşağıdaki fıkralar eklenmiştir.
+**MADDE 18 –** a) 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 2 nci maddesinin sonuna aşağıdaki fıkralar eklenmiştir.
 "Kanuna veya kanunun verdiği yetkiye dayanılarak kurulan kamu kurum ve kuruluşları ile bunların doğrudan veya dolaylı olarak sermayesinin en az yüzde ellisine sahip oldukları ortaklıklarda, 4734 sayılı Kamu İhale Kanunu veya diğer kanun hükümleri çerçevesinde, hizmet alımı amacıyla yapılan sözleşmeler gereğince, yüklenici aracılığıyla çalıştırılanlar, bu şekilde çalışmış olmalarına dayanarak;
 a) Bu kurum, kuruluş ve ortaklıklara ait kadro veya pozisyonlara atanmaya,
 b) Bu kurum, kuruluş ve ortaklıklara ait işyerlerinin kadro veya pozisyonlarında çalışanlar için toplu iş sözleşmesi, personel kanunları veya ilgili diğer mevzuat hükümlerine göre belirlenen her türlü malî haklar ile sosyal yardımlardan yararlanmaya, hak kazanamazlar.
@@ -128,20 +128,20 @@ Maliye Bakanı ile Hazine Müsteşarlığının bağlı olduğu Bakanın birlikt
 Aktarılan tutar, kendisine aktarma yapılan fonun gelir hesabı üzerinden müşterek fon hesabına, buradan da tamamı gider hesabına aktarılır.
 Bütçe kapsamı dışındaki fonlardan kendi mevzuatına göre yapılan kesinti ile fonlar arası aktarmalardan sonra kalan tutar, Türkiye Cumhuriyet Merkez Bankası tarafından ilgili fonun gider hesabına aktarılır."
 
-MADDE 21 – 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 21 –** 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa aşağıdaki geçici madde eklenmiştir.
 "Gelir ve ödenek kaydetme yetkisi
 
 GEÇİCİ MADDE 15 – 2006 yılında, ilgili mevzuatı gereğince özel gelir kaydedilmek üzere tahsil edilen tutarlar ile 40 ıncı maddeye göre tahsil edilen bağış ve yardımları, idare bütçelerinde söz konusu mevzuatta belirtilen amaçlar için tertiplenen ödenekten kullandırmak üzere genel bütçenin (B) işaretli cetveline gelir kaydetmeye ve bütçelenen ödenekten gelir gerçekleşmesine göre ilgili tertiplere aktarma yapmaya, yılı içinde harcanmayan ödenekleri (2005 yılından devredenler de dahil) ertesi yıl bütçesine devren gelir ve ödenek kaydetmeye, bu hükümler çerçevesinde yapılacak işlemlere ilişkin esas ve usûlleri belirlemeye Maliye Bakanı yetkilidir."
 
-MADDE 22 – 29/1/2004 tarihli ve 5084 sayılı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun 5 inci maddesinin ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 22 –** 29/1/2004 tarihli ve 5084 sayılı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun 5 inci maddesinin ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 "Bedelsiz tahsis edilen arsa ve araziler üzerinde, tahsisin yapılmasından itibaren bir yıl içinde yatırıma başlanılmaması halinde, bu arsa ve araziler üzerindeki tahsis, Maliye Bakanlığınca re'sen kaldırılır. Mücbir sebeplerin bulunması halinde bu bir yıllık süre altı aya kadar uzatılır."
 
-MADDE 23 – 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 7 nci maddesinin son fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 23 –** 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 7 nci maddesinin son fıkrası aşağıdaki şekilde değiştirilmiştir.
 "4562 sayılı Organize Sanayi Bölgeleri Kanunuyla Sanayi ve Ticaret Bakanlığına ve organize sanayi bölgelerine tanınan yetki ve sorumluluklar ile sivil hava ulaşımına açık havaalanları ve bu havaalanları bünyesinde yer alan tüm tesisler bu Kanunun kapsamı dışındadır."
 
-MADDE 24 – 14/7/2004 tarihli ve 5217 sayılı Kanunun geçici 4 üncü maddesinin birinci fıkrası ile ikinci fıkrasının son iki cümlesi yürürlükten kaldırılmış, ikinci fıkrasında yer alan "Bu şekilde kaydedilen ödeneklerden;" ibaresi "Yeni bir düzenleme yapılıncaya kadar 10/7/2003 tarihli ve 4924 sayılı Kanun uyarınca sözleşmeli olarak istihdam edilenler hariç olmak üzere," şeklinde değiştirilmiştir.
+**MADDE 24 –** 14/7/2004 tarihli ve 5217 sayılı Kanunun geçici 4 üncü maddesinin birinci fıkrası ile ikinci fıkrasının son iki cümlesi yürürlükten kaldırılmış, ikinci fıkrasında yer alan "Bu şekilde kaydedilen ödeneklerden;" ibaresi "Yeni bir düzenleme yapılıncaya kadar 10/7/2003 tarihli ve 4924 sayılı Kanun uyarınca sözleşmeli olarak istihdam edilenler hariç olmak üzere," şeklinde değiştirilmiştir.
 
-MADDE 25 – 17/9/2004 tarihli ve 5234 sayılı Kanunun geçici 1 inci maddesinin birinci fıkrasında yer alan "(ilaç ve tıbbî sarf malzemesi hasılatının % 5'i)" ibaresi "(ilaç, kan ve kan bileşenleri ile tıbbî sarf malzemesi hasılatının yüzde 5'i)" şeklinde değiştirilmiştir.
+**MADDE 25 –** 17/9/2004 tarihli ve 5234 sayılı Kanunun geçici 1 inci maddesinin birinci fıkrasında yer alan "(ilaç ve tıbbî sarf malzemesi hasılatının % 5'i)" ibaresi "(ilaç, kan ve kan bileşenleri ile tıbbî sarf malzemesi hasılatının yüzde 5'i)" şeklinde değiştirilmiştir.
 
 MADDE 26 – 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun;
 a) 6 ncı maddesine;
@@ -168,7 +168,7 @@ GEÇİCİ
 
 MADDE 5 – Doğal Afet Sigortaları Kurumu ve 587 sayılı Zorunlu Deprem Sigortasına Dair Kanun Hükmünde Kararname kapsamında gerçekleştirilen iş ve işlemler, 31/12/2010 tarihine kadar 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununa tâbi değildir."
 
-MADDE 31 – a) 27/12/2005 tarihli ve 5437 sayılı 2006 Yılı Merkezî Yönetim Bütçe Kanununun 9 uncu maddesinin (a) fıkrasının parantez içi hükmü aşağıdaki şekilde değiştirilmiştir.
+**MADDE 31 –** a) 27/12/2005 tarihli ve 5437 sayılı 2006 Yılı Merkezî Yönetim Bütçe Kanununun 9 uncu maddesinin (a) fıkrasının parantez içi hükmü aşağıdaki şekilde değiştirilmiştir.
 "(proje kredisi ile sağlanacak olan projelerden kurulu gücü 500 MW üzerinde olan baraj ve hidroelektrik santral projeleri ile Gebze-Haydarpaşa, Sirkeci-Halkalı Banliyö Hattının İyileştirilmesi ve Demiryolu Boğaz Tüp Geçişi inşaatı projesi kapsamındaki Demiryolu Aracı İmali işi hariç)"
 b) 5437 sayılı 2006 Yılı Merkezî Yönetim Bütçe Kanununa ekli 5018 Sayılı Kanuna Ekli (I) ve (II) Sayılı Cetvellerde Yer Alan İdarelerce Taşıt Kanununa Göre 2006 Yılında Edinebilecekleri Taşıtları Gösterir Cetvelin; genel bütçe kapsamındaki kamu idarelerine ilişkin bölümüne, Devlet Su İşleri Genel Müdürlüğüne ait sıradan sonra gelmek üzere Karayolları Genel Müdürlüğüne ait aşağıdaki sıra, özel bütçeli idarelere ilişkin bölümüne, Süleyman Demirel Üniversitesine ait sıradan sonra gelmek üzere Yıldız Teknik ve Orta Doğu Teknik üniversitelerine ait aşağıdaki sıralar eklenmiştir.
 KARAYOLLARI GENEL MÜDÜRLÜĞÜ
@@ -184,25 +184,25 @@ c) 5437 sayılı 2006 Yılı Merkezi Yönetim Bütçe Kanununun;
 3) 23 üncü maddesinin (a) fıkrasının birinci, ikinci, üçüncü, dördüncü ve beşinci paragrafları ile (b) fıkrası,
 4) 32 nci maddesinin (a) fıkrasının (6) numaralı bendi ile (f) fıkrası, yürürlükten kaldırılmıştır.
 
-MADDE 32 – 26/1/2006 tarihli ve 5450 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 32 –** 26/1/2006 tarihli ve 5450 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 "Ek ödemeden yararlanma
 
 GEÇİCİ MADDE 1 – Sağlık Bakanlığına bağlı iken 5 inci maddeye göre Bakanlığa devredilen sağlık meslek liselerinde görev yapan memurlar, devir tarihinden önceki sürelerde de 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesi hükümlerinden yararlandırılır."
 
-MADDE 33 – a) 16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumu Kanununun geçici 1 inci maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 33 –** a) 16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumu Kanununun geçici 1 inci maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 "Sosyal Güvenlik Kurumu Başkanlığı, Türkiye Cumhuriyeti Emekli Sandığı, Sosyal Sigortalar Kurumu ile Esnaf ve Sanatkarlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumunun 2006 yılı bütçelerinin mevcut esas ve usûller çerçevesinde uygulanmasına 2006 yılı sonuna kadar devam edilir. Bu Kanun gereğince Kurumun yeni teşkilâtlanma nedeniyle ihtiyaç duyacağı her türlü gider Bakan onayı ile devredilen kurum bütçelerinden karşılanabilir."
 b) 5502 sayılı Sosyal Güvenlik Kurumu Kanununun geçici 2 nci maddesine onaltıncı fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 "Bu Kanun ile Kuruma devredilen T.C. Emekli Sandığı Genel Müdürlüğü bünyesinde daha önce 5434 sayılı T.C. Emekli Sandığı Kanununun mülga hükümlerine göre görev yapmış olan "Sağlık Kurulu", Kurum Yüksek Sağlık Kurulu oluşturuluncaya kadar görevlerini yapmaya devam eder."
 
-MADDE 34 – 2/9/1983 tarihli ve 78 sayılı Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararnamenin 5 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 34 –** 2/9/1983 tarihli ve 78 sayılı Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararnamenin 5 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 "MADDE 5 – Öğretim üyeleri hariç, bu Kanun Hükmünde Kararnameye ekli (1) sayılı cetvelde yer alan boş öğretim elemanı kadrolarına yapılabilecek açıktan atama sayıları ve diğer kamu idare, kurum ve kuruluşlarından yapılabilecek nakil sayıları toplamı, her yıl merkezî yönetim bütçe kanununda gösterilir. Merkezî yönetim bütçe kanununda belirtilen sayının yükseköğretim kurumları itibarıyla dağılımı ve kullanımı ile diğer hususlar Devlet Personel Başkanlığı ve Maliye Bakanlığının görüşü üzerine Yükseköğretim Kurulunca belirlenir. Öğretim elemanı kadrolarına Yükseköğretim Kurulunun izni olmadıkça atama yapılamaz."
 
-MADDE 35 – 78 sayılı Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
+**MADDE 35 –** 78 sayılı Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
 "Merkezî sınav
 
 EK MADDE 8 – Ekli cetvelde yer alan öğretim görevlisi, okutman, araştırma görevlisi, uzman, çevirici ve eğitim-öğretim planlamacısı kadrolarına; açıktan veya öğretim elemanı dışındaki kadrolardan naklen atanabilmek için Öğrenci Seçme ve Yerleştirme Merkezi tarafından yapılacak merkezî sınavda 100 puan üzerinden en az 70 puan almak ve bu sınavı müteakip yükseköğretim kurumlarınca yapılacak giriş sınavında başarılı olmak şarttır. Ancak, doktorasını tamamlamış bulunanlar için merkezi sınava, Tıpta Uzmanlık Tüzüğü hükümlerine göre uzmanlık eğitimine alınanlar için merkezi sınav ve giriş sınavlarına katılma şartı aranmaz. Merkezî sınav ile giriş sınavlarının yapılması, sınavlara katılabilecekler ve diğer hususlara ilişkin esas ve usûller Yükseköğretim Kurulunca çıkarılacak yönetmelikle belirlenir."
 
-MADDE 36 – 13/12/1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye aşağıdaki ek maddeler eklenmiştir.
+**MADDE 36 –** 13/12/1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye aşağıdaki ek maddeler eklenmiştir.
 "Kadro iptal ve ihdası
 
 EK MADDE 27 – Ekli (1) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Devlet Su İşleri Genel Müdürlüğü, Karayolları Genel Müdürlüğü, Tarım Reformu Genel Müdürlüğü, Petrol İşleri Genel Müdürlüğü ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğüne ait bölümlerinden çıkarılmıştır.
@@ -215,7 +215,7 @@ Bu madde hükmüne göre atananların, atandıkları kadroların aylık, ek gös
 Birinci fıkrada belirtilen genel müdürlüklerde, bu madde ile hazine avukatı olarak atananlara öncelik verilmek suretiyle, Başhukuk Müşavirliği ve Muhakemat Genel Müdürlüğünce yeterli sayıda hazine avukatı görevlendirilebilir. Görevlendirilecek avukatların çalışma usûl ve esasları Bakanlık ve anılan genel müdürlüklerce müştereken belirlenir.
 Birinci fıkrada belirtilen genel müdürlüklerin taraf olduğu derdest dava ve icra dosyaları bu maddenin yayımlanmasını izleyen üç ay içerisinde, davanın görüldüğü ve icra takibinin yapıldığı illerdeki muhakemat müdürlüklerine devredilir. Bu şekilde devredilen dava ve icra takipleriyle ilgili olarak yapılmış her türlü işlem 1/1/2006 tarihinden itibaren geçerli olmak üzere Hazine adına yapılmış sayılır."
 
-MADDE 37 – a) 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin 2 nci ve 4 üncü maddelerinin (a) bentlerinde geçen "Genel ve katma bütçeli kuruluşlarla" ibareleri "Genel bütçe kapsamındaki kamu idareleri, 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (II) sayılı cetvelde yer alan özel bütçeli idareler ve (IV) sayılı cetvelde yer alan sosyal güvenlik kurumları ile", 2 nci maddesinin (c) bendinde yer alan "genel veya katma bütçelerin" ibaresi "genel bütçenin" şeklinde değiştirilmiş; 11 inci maddesine aşağıdaki bent eklenmiştir.
+**MADDE 37 –** a) 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin 2 nci ve 4 üncü maddelerinin (a) bentlerinde geçen "Genel ve katma bütçeli kuruluşlarla" ibareleri "Genel bütçe kapsamındaki kamu idareleri, 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (II) sayılı cetvelde yer alan özel bütçeli idareler ve (IV) sayılı cetvelde yer alan sosyal güvenlik kurumları ile", 2 nci maddesinin (c) bendinde yer alan "genel veya katma bütçelerin" ibaresi "genel bütçenin" şeklinde değiştirilmiş; 11 inci maddesine aşağıdaki bent eklenmiştir.
 "d) Vize edilmiş sürekli işçi kadrolarından boş olanların açıktan atama amacıyla kullanılması, Devlet Personel Başkanlığının görüşü üzerine Maliye Bakanlığının iznine tâbidir. Bu kadroların boş olanlarından Maliye Bakanlığı ve Devlet Personel Başkanlığınca uygun görülenler Başbakan onayı ile iptal edilir."
 b) 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı Cetvelin, Gelir İdaresi Başkanlığı Bölümünün, Merkez Teşkilâtında yer alan "Gelir İdaresi Başkanı Yardımcısı" unvanının serbest kadro adedi ile toplam kadro adedi "5" olarak değiştirilmiştir.
 
@@ -266,4 +266,4 @@ f) 36 ncı maddesi ile 178 sayılı Kanun Hükmünde Kararnameye eklenen ek 27 n
 g) 24 üncü ve 40 ıncı maddeleri 1/1/2007 tarihinde,
 h) Diğer hükümleri yayımı tarihinde, yürürlüğe girer.
 
-MADDE 45 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 45 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

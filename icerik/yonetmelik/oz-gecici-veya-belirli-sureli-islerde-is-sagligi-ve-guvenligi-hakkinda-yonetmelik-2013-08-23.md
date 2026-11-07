@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -48,7 +48,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel Hükümler
+**Genel Hükümler**
 
 #### Eşit davranma
 
@@ -80,7 +80,7 @@ b) Yukarıda (a) bendinde belirtilen özel sağlık gözetimi, işten kaynaklana
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Özel Hükümler
+**Özel Hükümler**
 
 #### Geçici iş ilişkisinde bilgilendirme
 
@@ -98,7 +98,7 @@ b) Çalışanlarını geçici olarak devredecek işveren de aldığı bu bilgile
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Hüküm bulunmayan haller
 

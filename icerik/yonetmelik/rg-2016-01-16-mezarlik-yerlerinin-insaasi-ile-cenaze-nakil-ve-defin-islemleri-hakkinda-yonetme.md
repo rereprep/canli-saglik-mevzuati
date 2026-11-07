@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 İçişleri Bakanlığı ve Sağlık Bakanlığından:
-MEZARLIK YERLERİNİN İNŞAASI İLE CENAZE NAKİL VE DEFİN İŞLEMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MEZARLIK YERLERİNİN İNŞAASI İLE CENAZE NAKİL VE DEFİN İŞLEMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 19/1/2010 tarihli ve 27467 sayılı Resmî Gazete’de yayımlanan Mezarlık Yerlerinin İnşaası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmeliğin 13 üncü maddesinin dördüncü fıkrasına “önlenmesi” ibaresinden sonra gelmek üzere “mülki idare amirleri,” ibaresi eklenmiştir.
 

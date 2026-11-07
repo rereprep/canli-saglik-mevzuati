@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAÇ EKİMİ BİRİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAÇ EKİMİ BİRİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 6/5/2023 tarihli ve 32182 sayılı Resmî Gazete’de yayımlanan Saç Ekimi Birimleri Hakkında Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (ç) bendinde yer alan “tabip dışı” ibaresi yürürlükten kaldırılmış, (e) ve (f) bentleri aşağıdaki şekilde değiştirilmiştir.
 “e) Sağlık meslek mensubu: Hemşire, sağlık memuru (toplum sağlığı), toplum sağlığı teknisyeni, acil tıp teknisyeni veya teknikeri, anestezi teknisyeni veya teknikerini,

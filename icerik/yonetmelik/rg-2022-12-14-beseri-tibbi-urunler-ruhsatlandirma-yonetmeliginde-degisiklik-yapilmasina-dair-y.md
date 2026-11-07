@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-BEŞERİ TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**BEŞERİ TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 11/12/2021 tarihli ve 31686 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin 22 nci maddesinin birinci fıkrasında yer alan “durumlarından en az birine ilişkin uygunsuzluğun tespit edilerek sübut bulunması halinde veya ruhsat sahibi tarafından ürünün ruhsatının iptalinin talep edilmesi halinde beşeri tıbbi ürüne ait ruhsat Kurum tarafından askıya alınır” ibaresi “durumlarından en az birine ilişkin uygunsuzluğun tespit edilerek sübut bulunması halinde ilgili uygunsuzluğa ilişkin Kurumca yapılan güvenliliği de içerecek değerlendirme neticesine göre veya ruhsat sahibi tarafından ürünün ruhsatının iptalinin talep edilmesi halinde beşeri tıbbi ürüne ait ruhsat Kurum tarafından askıya alınır” şeklinde değiştirilmiştir.
 

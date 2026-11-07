@@ -35,7 +35,7 @@ Mali konulardaki uygulamalarda ve ödenek taleplerinde birlikteliğin sağlanmas
 
 Analitik Bütçe Sistemindeki detaylardan kaynaklanan bazı problemlerin ortadan kaldırılması amacıyla ilgi genelgemizde ifade edilen; Yolluklar Talep Formu (EK-1), Yolluklar Talep Formu İcmali (EK-2) ile Tutuklu Hükümlüler ve Adli Vakaların Tedavi Giderlerine ait Formların (EK-3) güncellenmesi gerekmiştir.
 
-Söz konusu formlara ait yeni format Genel Müdürlüğümüzün www.saglik.gov.tr (→ Birimler → Tedavi Hizmetleri Genel Müdürlüğü → Hizmetler → Bütçe Şubesi Uygulamaları/Açıklamalar/Mevzuat) adresindeki internet sayfasında yayınlanmış olup, 2009 yılında yolluklara ait ödenek taleplerinin il sağlık müdürlükleri kanalıyla 15 günde bir, tutuklu hükümlü ve adli vakaların tedavi giderlerine ait ödenek taleplerinin ise iki aylık dönemler halinde yeni düzenlenen formlara işlenerek yapılması gerekmektedir.
+Söz konusu formlara ait yeni format Genel Müdürlüğümüzün www.**saglik.gov.tr** (→ Birimler → Tedavi Hizmetleri Genel Müdürlüğü → Hizmetler → Bütçe Şubesi Uygulamaları/Açıklamalar/Mevzuat) adresindeki internet sayfasında yayınlanmış olup, 2009 yılında yolluklara ait ödenek taleplerinin il sağlık müdürlükleri kanalıyla 15 günde bir, tutuklu hükümlü ve adli vakaların tedavi giderlerine ait ödenek taleplerinin ise iki aylık dönemler halinde yeni düzenlenen formlara işlenerek yapılması gerekmektedir.
 
 Bilgilerinizi ve gereğini rica ederim.
 

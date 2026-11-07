@@ -75,19 +75,19 @@ SAĞLIK BAKANLIĞI
 
 Fürkiye Halk Sağlığı Kurumu Başkanlığı
 
-T.C. SAdlltı. 0ANANıtöl
+**T.C. SAdlltı. 0ANANıtöl**
 
-THSk KALK saduğ: LASORALTUVARI.ARL
+**THSk KALK saduğ: LASORALTUVARI.ARL**
 
-DA1RE 8Aşıtı•NL141- T14511 HALK
+**DA1RE 8Aşıtı•NL141- T14511 HALK**
 
-Sayı: B.10.1.11SK.0.27.00.00 sAĞLICT LOSORATUVARIAFtlaıdat
+Sayı: B.10.1.11SK.0.27.00.00 **sAĞLICT LOSORATUVARIAFtlaıdat**
 
-ZASKAtillel EVRAN atRimi
+**ZASKAtillel EVRAN atRimi**
 
-Konu: Toplantı Kararları ınt.2012 - 10: 03: 47 •
+Konu: Toplantı Kararları **ınt.2012 - 10: 03: 47 •**
 
-11.10.1.H5K 0.27.00.00/050/39113
+**11.10.1.H5K** 0.27.00.00/050/39113
 
 VALILIĞINE
 
@@ -113,9 +113,9 @@ DAĞIT1M:
 
 81 ll Valiliğine
 
-Ilılk tiatIŞ tülıtımeiarları Mke Başkanlıtı
+**Ilılk tiatIŞ tülıtımeiarları Mke Başkanlıtı**
 
-Sağlık Mak %dna Sıı, tın Oıd. ‘u: 55 06100 (ıınkıı, ıı•Ankaıra
+**Sağlık Mak %dna Sıı, tın Oıd. ‘u: 55 06100 (ıınkıı, ıı•Ankaıra**
 
 İri: (02 I 2> 4511 23 92
 

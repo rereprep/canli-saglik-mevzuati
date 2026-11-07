@@ -14,17 +14,17 @@ durum: "yürürlükte"
 
 ## — 223 —
 
-Cenazelerin Nakli Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun
+**Cenazelerin Nakli Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun**
 
 ### (İtesmî Gazete ile yayımı : 4 . 5 . 1975 - Sayı : 15226)
 
-No. Kabul tarihi 1887 17 . 4 . 1975
+**No. Kabul tarihi 1887 17 . 4 . 1975**
 
-MADDE 1. — 26 Ekim 1973 tarihinde Strazburg'da imzalanan «Cenazelerin nakli Anlaşması» nın onay­ lanması uygun bulunmuştur.
+**MADDE 1. — 26 Ekim 1973 tarihinde Strazburg'da imzalanan «Cenazelerin nakli Anlaşması» nın onay­ lanması uygun bulunmuştur.**
 
-MADDE 2. — Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 2. — Bu Kanun yayımı tarihinde yürürlüğe girer.**
 
-MADDE 3. — Bu Kanunu Bakanlar Kurulu yürütür. 1887 — 223 — 4 . 5. 1975
+**MADDE 3. — Bu Kanunu Bakanlar Kurulu yürütür. 1887 — 223 — 4 . 5. 1975**
 
 ### CENAZELERİN NAKLİ ANI/AŞMASI
 
@@ -68,7 +68,7 @@ Gidilecek ülke ve transit ülkeleri, cenazelerin nakli konusunda mevcut ya da a
 
 a) Cenazelerin nakli ile gerektiğnıde defin ve mezardan çıkarma hakkında «hareket ülkesi» nde yürürlükte bulunan bütün tıbbî, sıhhî, idarî ve hukukî formalitelerin yerine getirildiği,
 
-b) Naaşın, bu anlaşmanın 6 nci ve 7 nci maddelerinde belirtilen evsafı haiz bir tabuta konul­ duğu, 1887 — 224 — 4 . 5. 1975
+b) Naaşın, bu anlaşmanın 6 nci ve 7 nci maddelerinde belirtilen evsafı haiz bir tabuta konul­ duğu, **1887 — 224 — 4 . 5. 1975**
 
 c) Tabutun sadece geçiş izninde adı kayıtlı kişinin naaşı ve naaşla birlikte gömülecek ya da yakılacak kişisel nesneleri ihtiva ettiği,
 
@@ -114,7 +114,7 @@ ib)j Onay ya da kabul kaydı ile imjzalayıp daha sonra onaylamak ya da kabul et
 
 1. Bu anlaşma, üç üye devletin 10 ncu madde uyarınca anlaşmaya taraf oldukları tarihten bir ay sonra yürürlüğe girecektir.
 
-2. Daha sonra onay ya da kabul kaydı koymaksızın imzalayan ya da onaylayan veya kabul eden üye devletler bakımından Anlaşma, imza ya da onay veya kabul belgelerini tevdi ettikleri ta­ rihten bir ay sonra yürürlüğe girecektir. 1887 — 225 — 4. 5. 1975
+2. Daha sonra onay ya da kabul kaydı koymaksızın imzalayan ya da onaylayan veya kabul eden üye devletler bakımından Anlaşma, imza ya da onay veya kabul belgelerini tevdi ettikleri ta­ rihten bir ay sonra yürürlüğe girecektir. **1887 —** 225 — **4. 5. 1975**
 
 ### MADDE — 12
 

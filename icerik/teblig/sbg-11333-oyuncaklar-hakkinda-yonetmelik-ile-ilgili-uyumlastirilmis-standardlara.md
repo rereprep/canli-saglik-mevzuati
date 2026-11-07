@@ -26,7 +26,7 @@ TS EN 71-4, Oyuncak Güvenliği Bölüm 4: Kimya ve İlgili Faaliyetler İçin D
 
 TS EN 71-5, Oyuncak Güvenliği Bölüm 5: Deney Setleri Dışındaki Kimyasal Oyuncaklar (Setler),
 
-TS EN 71-6, Oyuncak Güvenliği Bölüm 6: Yaş Uyarı Etiketlemesi İçin Grafik Sembol,
+TS EN 71-6, Oyuncak Güvenliği Bölüm 6: Yaş **Uyarı** Etiketlemesi İçin Grafik Sembol,
 
 TS EN 50088, Oyuncaklar- Elektrikli- Güvenlik Kuralları,
 

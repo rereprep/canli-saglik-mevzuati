@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 3.3.34 numaralı maddesinin birinci fıkrasında yer alan “tutar” ibaresinden sonra gelmek üzere “nakden” ibaresi eklenmiştir.
 

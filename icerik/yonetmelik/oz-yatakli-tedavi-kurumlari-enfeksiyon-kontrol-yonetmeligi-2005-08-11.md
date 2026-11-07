@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -78,7 +78,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Enfeksiyon Kontrol Komitesi
+**Enfeksiyon Kontrol Komitesi**
 
 #### Enfeksiyon kontrol komitesinin teşkili
 
@@ -194,7 +194,7 @@ p) Hastane havalandırma sistemi, hastane temizliği, su sistemleri, çamaşırh
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Enfeksiyon Kontrol Ekibi
+**Enfeksiyon Kontrol Ekibi**
 
 #### Enfeksiyon kontrol ekibi
 
@@ -284,7 +284,7 @@ h) Yataklı tedavi kurumu personeline sağlık hizmeti ile ilişkili enfeksiyonl
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Eğitim ve sertifikasyon
 

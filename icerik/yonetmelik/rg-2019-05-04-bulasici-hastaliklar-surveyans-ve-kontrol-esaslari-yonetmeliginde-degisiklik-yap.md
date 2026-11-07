@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-BULAŞICI HASTALIKLAR SÜRVEYANS VE KONTROL ESASLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**BULAŞICI HASTALIKLAR SÜRVEYANS VE KONTROL ESASLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 30/5/2007 tarihli ve 26537 sayılı Resmî Gazete’de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliğinin 17 nci maddesinin ikinci fıkrası, 19 uncu maddesinin birinci fıkrası ile 29 uncu maddesinin birinci fıkrasında yer alan “erken uyarı ve yanıt” ibareleri “erken uyarı ve cevap” olarak; Dördüncü Bölüm başlığında yer alan “Erken Uyarı ve Yanıt” ibaresi “Erken Uyarı ve Cevap” olarak; 19 uncu maddesinin başlığında yer alan “Erken uyarı ve yanıt” ibaresi “Erken uyarı ve cevap” olarak değiştirilmiştir.
+**MADDE 1 –** 30/5/2007 tarihli ve 26537 sayılı Resmî Gazete’de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliğinin 17 nci maddesinin ikinci fıkrası, 19 uncu maddesinin birinci fıkrası ile 29 uncu maddesinin birinci fıkrasında yer alan “erken uyarı ve yanıt” ibareleri “erken uyarı ve cevap” olarak; Dördüncü Bölüm başlığında yer alan “Erken Uyarı ve Yanıt” ibaresi “Erken Uyarı ve Cevap” olarak; 19 uncu maddesinin başlığında yer alan “Erken uyarı ve yanıt” ibaresi “Erken uyarı ve cevap” olarak değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 1 inci maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiştir.
 “c) Bulaşıcı hastalık açısından erken uyarı ve cevap sisteminde yer alan olaylar ile uyarı düzeylerinin tanımlanması,”
@@ -52,7 +52,7 @@ insandan insana bulaş, hayvandan insana bulaş, ortak bir kaynağa maruziyetle 
 t) Yerel sağlık birimi: Bakanlığın taşra teşkilatını, ifade eder.”
 
 MADDE 5 – Aynı Yönetmeliğin İkinci Bölüm başlığı aşağıdaki şekilde değiştirilmiştir.
-“Bulaşıcı Hastalıkların Sürveyansı ve Kontrolünün Genel Esasları, İl Bulaşıcı Hastalık Danışma Komisyonu ve Ulusal Odak Noktası”
+**“Bulaşıcı Hastalıkların Sürveyansı ve Kontrolünün Genel Esasları, İl Bulaşıcı Hastalık Danışma Komisyonu ve Ulusal Odak Noktası”**
 
 MADDE 6 – Aynı Yönetmeliğin 5 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Bulaşıcı hastalıkların sürveyansı ve kontrolünün genel esasları

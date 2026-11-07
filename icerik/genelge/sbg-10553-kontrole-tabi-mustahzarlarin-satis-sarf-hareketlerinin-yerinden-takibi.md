@@ -10,9 +10,9 @@ durum: "yürürlükte"
 
 Tarihi:19.11.2003 Sayısı:48192 Genelge No: 2003/137
 
-SAYI : B100IEG0120013 ANKARA 19/11//2003 48192 KONU: Kontrole tabi müstahzarların satış/sarf hareketlerinin yerinden takibi
+**SAYI :** B100IEG0120013 ANKARA **19/11//2003 48192 KONU:** Kontrole tabi müstahzarların satış/sarf hareketlerinin yerinden takibi
 
-.................................... VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE 2003 / 137
+**.................................... VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE 2003 / 137**
 
 Kontrole tabi ilaçların tüketiminde suistimallerin önlenmesine yönelik olarak, ecza depolarınca Bakanlığımıza gönderilen dağıtım kayıtlarının takip ve kontrolleri bu güne kadar Genel Müdürlüğümüzce yapılmakta idi.
 

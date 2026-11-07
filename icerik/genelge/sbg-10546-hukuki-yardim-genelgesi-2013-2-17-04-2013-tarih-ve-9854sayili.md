@@ -28,7 +28,7 @@ Konu : Hukukî yardım ve Beyaz Kod uygulaması
 
 Bakanlığımıza yapılan başvurulardan “beyaz kod” bildirimi ve hukukî yardım konusunda bir takım tereddütlerin yaşandığı anlaşıldığından, söz konusu tereddütleri gidermek ve uygulamaya açıklık kazandırmak suretiyle çalışanlarımızın bu hizmete erişimini kolaylaştırma amacıyla aşağıdaki açıklamaların yapılmasına lüzum görülmüştür.
 
-1) Sağlık hizmeti sunumu sırasında veya bu görevlerden dolayı personele karşı işlenen suçlar sebebiyle yapılacak vaka bildirimlerinde yer bakımından hiçbir ayrıma gidilmeyecek ve kamu veya özel bütün sağlık kuruluşlarında gerçekleşen vakaların tamamı, “http://www.beyazkod.saglik.gov.tr” adresine veya “113” numaralı telefona bildirilecektir.
+1) Sağlık hizmeti sunumu sırasında veya bu görevlerden dolayı personele karşı işlenen suçlar sebebiyle yapılacak vaka bildirimlerinde yer bakımından hiçbir ayrıma gidilmeyecek ve kamu veya özel bütün sağlık kuruluşlarında gerçekleşen vakaların tamamı, “http://www.beyazkod.**saglik.gov.tr**” adresine veya “113” numaralı telefona bildirilecektir.
 
 2) Sağlık Bakanlığı ve bağlı kuruluşlarında hizmet sunan;
 

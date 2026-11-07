@@ -14,11 +14,11 @@ durum: "yürürlükte"
 
 ## — 1Ö5Ö-
 
-Sıcak ve soğuk maden sularının istismarı ile kaplıcalar tesisatı hakkında
+**Sıcak ve soğuk maden sularının istismarı ile kaplıcalar tesisatı hakkında**
 
 ### kanun (Resmî ^Ceride ile neşir ve ilânı : fiO/VI/1926 - Sayı : 408)
 
-No. 927
+No. **927**
 
 BÎRİNCÎ MADDE — Elyevm mekşuf sıcak ve soğuk maden sularının istismarı imtiyazı, maadin idaresi heyeti fenniyesin tahdit edilecek hudut dahilinde olmak üzere 12 nisan 1341 talihli kanun mucibince maadini mekşufe misillu ihale olunur.
 
@@ -40,4 +40,4 @@ YEDİNCİ MADDE — İşbu kanunun ahkâmını icraya Adliye, Maliye ve Tica­ r
 
 **Dipnotlar**
 
-<small>Cumhuriyet Riyasetine tebliği 10 - VI-1926 tarih ve 1/982 No. lı tezkere ile Berayi neşir ve ilân kanunun Başvekâlete tebliğ edildiğini müşir Cumhuriyet Riyasetinden mevrut tezkerenin tarih, ve numarası ît -VI- 1936 ve 4/546 Müzakeratı ihtiva eden zabit ceridelerinin cilt ve Cüt Sayıfa sayıfası 26 298,318:323,324,343:347,349,352, 356,358 îşbu kanunun alâkadar oldvğu diğer kanunların numaraları ; 608,755 ' ~</small>
+<small><i>Cumhuriyet Riyasetine tebliği 10</i> - <i>VI-1926 tarih ve 1/982 No. lı tezkere ile</i> <i>Berayi neşir ve ilân kanunun Başvekâlete tebliğ</i> <i>edildiğini müşir Cumhuriyet Riyasetinden mevrut</i> <i>tezkerenin tarih, ve numarası</i> <i>ît -VI- 1936 ve 4/546</i> <i>Müzakeratı ihtiva eden zabit ceridelerinin cilt ve</i> <i>Cüt</i> **<i>Sayıfa</i>** <i>sayıfası</i> <i>26 298,318:323,324,343:347,349,352,</i> <i>356,358</i> <i>îşbu kanunun alâkadar oldvğu diğer kanunların</i> <i>numaraları ;</i> <i>608,755 ' ~</i></small>

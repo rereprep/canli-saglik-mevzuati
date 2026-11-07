@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -59,9 +59,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Özel Hastanelerin Temel Özellikleri, Hizmet Birimleri ve Nitelikleri,
+**Özel Hastanelerin Temel Özellikleri, Hizmet Birimleri ve Nitelikleri,**
 
-Özel Hastane Açmaya ve İşletmeye Yetkili Kişiler
+**Özel Hastane Açmaya ve İşletmeye Yetkili Kişiler**
 
 #### Özel hastanelerin temel özellikleri
 
@@ -79,13 +79,13 @@ ifade eder.
 
 (7) Hastane binası içinde hiçbir surette başka amaca yönelik işyeri bulunamaz ve hastane içindeki bir bölüm, altıncı fıkrada sayılan işletmeler dışındaki bir amaçla faaliyet göstermek üzere üçüncü kişilere kiralanamaz veya herhangi bir şekilde devredilemez.
 
-(8) (Değişik:RG-29/8/2026-33355) Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsü (TÜSKA) akreditasyon belgesi alan özel hastanelerden, 31/12/2016 tarihli ve 29935 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsünün Yapılanması ve Faaliyetlerinin Yürütülmesine Dair Yönetmeliğe dayanılarak TÜSKA tarafından belirlenen usul ve esaslar uyarınca platin veya altın kategorisine göre belgelendirilenler 3 yıl, gümüş kategorisine göre belgelendirilenler 2 yıl, bronz kategorisine göre belgelendirilenler ise 1 yıl boyunca olağan denetimlerden muaf tutulur.
+(8) **(Değişik:RG-29/8/2026-33355)** Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsü (TÜSKA) akreditasyon belgesi alan özel hastanelerden, 31/12/2016 tarihli ve 29935 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsünün Yapılanması ve Faaliyetlerinin Yürütülmesine Dair Yönetmeliğe dayanılarak TÜSKA tarafından belirlenen usul ve esaslar uyarınca platin veya altın kategorisine göre belgelendirilenler 3 yıl, gümüş kategorisine göre belgelendirilenler 2 yıl, bronz kategorisine göre belgelendirilenler ise 1 yıl boyunca olağan denetimlerden muaf tutulur.
 
 #### Özel hastanelerin hizmet birimleri ve nitelikleri
 
 **MADDE 6 –** (1) Özel hastanelerde bulunan tüm birimler Ek-5’te belirtilen asgari fiziki kriterleri sağlamak zorundadır.
 
-(2) Bu Yönetmelikte belirlenmiş asgari fiziki standartlara ilişkin ölçülerde (Değişik ibare:RG-29/8/2026-33355) %5’e kadar sapmalara izin verilir.
+(2) Bu Yönetmelikte belirlenmiş asgari fiziki standartlara ilişkin ölçülerde **(Değişik ibare:RG-29/8/2026-33355)** %5’e kadar sapmalara izin verilir.
 
 (3) Özel hastanelerde bulunan gözlem yatak sayısı, hastane toplam yatak sayısının %25’ini geçemez. Bir gözlem ünitesinde en fazla yirmi yatak bulunabilir.
 
@@ -99,9 +99,9 @@ ifade eder.
 
 (8) Özel hastane bünyesinde yürütülen tıbbi laboratuvar, radyoloji, radyasyon onkolojisi, genetik hastalıklar tanı ve nükleer tıp hizmetleri ilgili yönetmelikler kapsamında yürütülür. Bu birimler için ilgili mevzuata göre hastane adına faaliyet izin belgesi düzenlenir.
 
-(9) (Değişik:RG-29/8/2026-33355) Özel hastanelerde, bir adet seyyar röntgen cihazı bulunması veya en az 500 mA gücünde röntgen cihazı bulunması zorunludur. Röntgen cihazının, yerinde hizmet alımı yoluyla özel hastanede bulundurulması halinde bu zorunluluk yerine getirilmiş sayılır.
+(9) **(Değişik:RG-29/8/2026-33355)** Özel hastanelerde, bir adet seyyar röntgen cihazı bulunması veya en az 500 mA gücünde röntgen cihazı bulunması zorunludur. Röntgen cihazının, yerinde hizmet alımı yoluyla özel hastanede bulundurulması halinde bu zorunluluk yerine getirilmiş sayılır.
 
-(10) (Değişik:RG-29/8/2026-33355) Özel hastanelerde hasta kabul ve tedavi ettiği uzmanlık dallarının gerektirdiği tıbbi biyokimya ve/veya tıbbi mikrobiyoloji laboratuvarı bulunması zorunludur. Belirli bir alanda sağlık hizmeti sunan özel hastaneler, bu zorunluluğu yerinde hizmet alımı yoluyla da yerine getirebilir. Özel hastanenin açmak istediği tıbbi biyokimya ve/veya tıbbi mikrobiyoloji laboratuvarı için uzman tabip kadrosunun bulunmaması durumunda, talep etmesi halinde bu uzmanlık dalında Bakanlıkça kadro verilir.
+(10) **(Değişik:RG-29/8/2026-33355)** Özel hastanelerde hasta kabul ve tedavi ettiği uzmanlık dallarının gerektirdiği tıbbi biyokimya ve/veya tıbbi mikrobiyoloji laboratuvarı bulunması zorunludur. Belirli bir alanda sağlık hizmeti sunan özel hastaneler, bu zorunluluğu yerinde hizmet alımı yoluyla da yerine getirebilir. Özel hastanenin açmak istediği tıbbi biyokimya ve/veya tıbbi mikrobiyoloji laboratuvarı için uzman tabip kadrosunun bulunmaması durumunda, talep etmesi halinde bu uzmanlık dalında Bakanlıkça kadro verilir.
 
 (11) Özel hastanelerin bünyesinde yapılmayan, radyoloji ve tıbbi laboratuvar tetkikleri için hizmet alımı yapılabilir. Özel hastaneler bu hizmet alımlarını ruhsat/faaliyet izin belgesi bulunan diğer sağlık kuruluşlarından veya tıbbi cihaz satış yetki belgesine sahip yüklenici firmalardan yerinde hizmet alımı şeklinde yapabilir. Bu durumda hizmet satın alınmasına ait belgeler faaliyet iznine esas belgeler ile birlikte Müdürlüğe sunulur.
 
@@ -127,7 +127,7 @@ ifade eder.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi
+**Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi**
 
 #### Planlama
 
@@ -229,7 +229,7 @@ c) Ruhsatlandırılmış hastane binasına 8 inci maddedeki planlamaya uygun olm
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Personel Standartları
+**Personel Standartları**
 
 #### Asgari personel standardı
 
@@ -257,7 +257,7 @@ Personel Standartları
 
 (4) Özel hastanelerde çalışan tabip dışı sağlık personeli, en fazla bir özel sağlık kuruluşunda daha çalışabilir.
 
-(5) (Değişik ibare:RG-29/8/2026-33355) Bakanlıkça onaylanmış uzmanlık eğitim programı bulunan özel hastaneler, tabip ve diş tabibi kadro sayıları için ayrı ayrı hesaplanmak şartıyla ve bu kadro sayılarının yüzde yirmisini geçmemek üzere belirlenen sayıda profesör ve doçenti, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 36 ncı maddesinin yedinci fıkrası kapsamında Devlet üniversitelerince yapılacak değerlendirmede uygun bulunması halinde yapacakları kurumsal sözleşme çerçevesinde mesai dışında hastanenin boş uzman tabip kadrosunda çalıştırabilir.
+(5) **(Değişik ibare:RG-29/8/2026-33355)** Bakanlıkça onaylanmış uzmanlık eğitim programı bulunan özel hastaneler, tabip ve diş tabibi kadro sayıları için ayrı ayrı hesaplanmak şartıyla ve bu kadro sayılarının yüzde yirmisini geçmemek üzere belirlenen sayıda profesör ve doçenti, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 36 ncı maddesinin yedinci fıkrası kapsamında Devlet üniversitelerince yapılacak değerlendirmede uygun bulunması halinde yapacakları kurumsal sözleşme çerçevesinde mesai dışında hastanenin boş uzman tabip kadrosunda çalıştırabilir.
 
 (6) Diyaliz merkezleri ve üremeye yardımcı tedavi merkezlerinde ilgili mevzuatı uyarınca kadrolu çalışan uzman tabipler, üçüncü fıkraya uygun olmak kaydıyla özel hastanede çalışabilir.
 
@@ -273,7 +273,7 @@ Personel Standartları
 
 (3) Ücretli veya ücretsiz izinli sayılarak yurtdışına gönderilen kamu görevlisi tabipler ile ilgili mevzuattan kaynaklanan yükümlülükleri bulunan tabipler hariç olmak üzere, yurtdışında en az iki yıl süreyle mesleğini icra eden tabipler, yurtdışından döndükten sonra altı ay içinde başvurması halinde Türkiye’de çalışmak üzere tercih edecekleri özel hastanede bir kereye mahsus olmak üzere kadro dışı geçici çalışabilir.
 
-(4) Sağlık durumu aciliyet arz eden ve/veya başka kuruma sevki tıbben riskli olan hastalar için, tedavisini üstlenen tabibin talebi üzerine tıbbi görüş, destekleyici ve tamamlayıcı hizmet veya yardım alınması için konsültasyon hizmetine ihtiyaç duyulan uzmanlık dalında o ildeki (Değişik ibare:RG-29/8/2026-33355) tercihen özel sağlık kuruluşlarındaki kadrolu tabiplerden olmak üzere konsültan tabip davet edilebilir. Konsültan tabip hizmet bedeli hastane tarafından hizmet sunan kuruma ödenir. Bu şekilde hastaneye davet edilen konsültan tabiplerin isimleri ve uzmanlık dalları hakkında mesul müdür tarafından en geç beş iş günü içinde Müdürlüğe bilgi verilir.
+(4) Sağlık durumu aciliyet arz eden ve/veya başka kuruma sevki tıbben riskli olan hastalar için, tedavisini üstlenen tabibin talebi üzerine tıbbi görüş, destekleyici ve tamamlayıcı hizmet veya yardım alınması için konsültasyon hizmetine ihtiyaç duyulan uzmanlık dalında o ildeki **(Değişik ibare:RG-29/8/2026-33355)** tercihen özel sağlık kuruluşlarındaki kadrolu tabiplerden olmak üzere konsültan tabip davet edilebilir. Konsültan tabip hizmet bedeli hastane tarafından hizmet sunan kuruma ödenir. Bu şekilde hastaneye davet edilen konsültan tabiplerin isimleri ve uzmanlık dalları hakkında mesul müdür tarafından en geç beş iş günü içinde Müdürlüğe bilgi verilir.
 
 (5) Özel hastane, Bakanlıkça izin verilmesi kaydıyla yabancı tabip ve tabip dışı sağlık meslek mensubu çalıştırabilir. Ancak bu şekilde verilecek izin, hastaneye planlama kapsamında cihaz ve ünite ekleme hakkı vermez. Bu fıkra doğrultusunda yapılacak başvurular 22/2/2012 tarihli ve 28212 sayılı Resmî Gazete’de yayımlanan Yabancı Sağlık Meslek Mensuplarının Türkiye'de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmelik çerçevesinde yürütülür.
 
@@ -359,7 +359,7 @@ b) Reçete onayı, istirahat raporu onayı gibi poliklinik hastaları ile ilgili
 
 ### BEŞİNCİ BÖLÜM
 
-Özel Hastanelerin Hizmet ve Çalışma Esasları
+**Özel Hastanelerin Hizmet ve Çalışma Esasları**
 
 #### Poliklinik hizmetleri
 
@@ -405,7 +405,7 @@ b) Reçete onayı, istirahat raporu onayı gibi poliklinik hastaları ile ilgili
 
 (3) Muayenehanenin bulunduğu ilde ilgili uzmanlık dalında sözleşme yapılabilecek uygun özel sağlık kuruluşu bulunmadığı hallerde talep edilmesi halinde Bakanlığın uygun görüşüyle yakın bir ildeki özel hastane ile sözleşme yapılabilir.
 
-(4) (Değişik:RG-29/8/2026-33355) Sözleşme imzalanan hastanede muayenehaneden gelen hastaya öngörülen müdahalenin yapılamadığı durumlarda tabibin istediği başka bir hastanede bu işlemin yapılması için ilgili il sağlık müdürlüğü tarafından vaka bazlı özel izin verilebilir. Bu fıkra kapsamındaki iznin istenmesi, izin talebinin değerlendirme kriterleri ve değerlendirme süreci ile iznin acil hallerde, mesai saatleri dışında ve tatil günlerinde uygulanmasına ilişkin usul ve esaslar Bakanlıkça belirlenir.
+(4) **(Değişik:RG-29/8/2026-33355)** Sözleşme imzalanan hastanede muayenehaneden gelen hastaya öngörülen müdahalenin yapılamadığı durumlarda tabibin istediği başka bir hastanede bu işlemin yapılması için ilgili il sağlık müdürlüğü tarafından vaka bazlı özel izin verilebilir. Bu fıkra kapsamındaki iznin istenmesi, izin talebinin değerlendirme kriterleri ve değerlendirme süreci ile iznin acil hallerde, mesai saatleri dışında ve tatil günlerinde uygulanmasına ilişkin usul ve esaslar Bakanlıkça belirlenir.
 
 (5) Muayenehane tabibiyle yapılan sözleşmenin taraflarca imzalanmış nüshası imzalandığı tarihten itibaren en geç 5 iş günü içinde özel hastane tarafından EKİP sistemine yüklenerek Müdürlüğe gönderilir. Sözleşmenin sona erdiği hallerde bu durum sözleşme bitiş tarihinden itibaren en geç 5 iş günü içinde Müdürlüğe bildirilir.
 
@@ -433,7 +433,7 @@ b) Reçete onayı, istirahat raporu onayı gibi poliklinik hastaları ile ilgili
 
 ### ALTINCI BÖLÜM
 
-Tıbbi Donanım ve Bulundurulması Zorunlu İlaçlar
+**Tıbbi Donanım ve Bulundurulması Zorunlu İlaçlar**
 
 #### Tıbbi donanım
 
@@ -447,7 +447,7 @@ Tıbbi Donanım ve Bulundurulması Zorunlu İlaçlar
 
 ### YEDİNCİ BÖLÜM
 
-Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler
+**Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler**
 
 #### Tıbbi kayıt ve arşiv
 
@@ -487,9 +487,9 @@ c) Dışarıdan satın alınan ilaç ve malzemenin reçeteleri.
 
 ### SEKİZİNCİ BÖLÜM
 
-Yatak Sınıfları, Gündelik Yatak Ücretleri, Kıyafet ve Kimlik Kartı,
+**Yatak Sınıfları, Gündelik Yatak Ücretleri, Kıyafet ve Kimlik Kartı,**
 
-Reklam ve Tanıtım
+**Reklam ve Tanıtım**
 
 #### Yatak sınıfları
 
@@ -541,7 +541,7 @@ Reklam ve Tanıtım
 
 ### DOKUZUNCU BÖLÜM
 
-Hasta Hakları, Denetim, Yasaklar, Faaliyetin Durdurulması, Müeyyideler
+**Hasta Hakları, Denetim, Yasaklar, Faaliyetin Durdurulması, Müeyyideler**
 
 #### Hasta hakları
 
@@ -711,7 +711,7 @@ d) Klinik konukevlerinin yatak ücretleri Bakanlıkça onaylanır.
 
 ### ONUNCU BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 
@@ -719,7 +719,7 @@ d) Klinik konukevlerinin yatak ücretleri Bakanlıkça onaylanır.
 
 #### Akreditasyon belgesi
 
-**GEÇİCİ MADDE 1 –** (Danıştay Onuncu Dairesinin 18/9/2025 tarihli ve E.:2025/1597 sayılı kararı ile yürütmesi durdurulan madde: (1) Bu Yönetmeliğin yayımlandığı tarihten önce ruhsatlandırılmış ve faaliyette olan özel hastaneler en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır. )
+**GEÇİCİ MADDE 1 –** (Danıştay Onuncu Dairesinin 18/9/2025 tarihli ve E.:2025/1597 sayılı kararı ile yürütmesi durdurulan madde: <i>(1) Bu Yönetmeliğin yayımlandığı tarihten önce ruhsatlandırılmış ve faaliyette olan özel hastaneler en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır. )</i>
 
 #### Yer seçimi ve bina durumuna uyum
 
@@ -743,7 +743,7 @@ d) Klinik konukevlerinin yatak ücretleri Bakanlıkça onaylanır.
 
 #### Muayenehanesi olan tabiplerin kadro sınırlaması muafiyeti
 
-**GEÇİCİ MADDE 7 –** (1) (Danıştay Onuncu Dairesinin 31/12/2025 tarihli ve E.:2025/1585 sayılı kararı ile yürütmesi durdurulan ibare; 7/1/2023 tarihinden önce ) muayenehanesi bulunan hekimler, (Danıştay Onuncu Dairesinin 31/12/2025 tarihli ve E.:2025/1585 sayılı kararı ile yürütmesi durdurulan ibare; sözleşme yapacakları özel hastaneden en fazla ikisinde ) bu Yönetmeliğin 24 üncü maddesinde yer alan kadro sınırlamasından muaf tutulur. Bu hekimlerin muayenehanelerini kapatmaları halinde üç ay içinde aynı ya da farklı ilde tekrar muayenehane açmaları durumunda muafiyetleri devam eder.
+**GEÇİCİ MADDE 7 –** (1) **(Danıştay Onuncu Dairesinin 31/12/2025 tarihli ve E.:2025/1585 sayılı kararı ile yürütmesi durdurulan ibare;** <i>7/1/2023 tarihinden önce )</i> muayenehanesi bulunan hekimler, **(Danıştay Onuncu Dairesinin 31/12/2025 tarihli ve E.:2025/1585 sayılı kararı ile yürütmesi durdurulan ibare;** <i>sözleşme yapacakları özel hastaneden en fazla ikisinde )</i> bu Yönetmeliğin 24 üncü maddesinde yer alan kadro sınırlamasından muaf tutulur. Bu hekimlerin muayenehanelerini kapatmaları halinde üç ay içinde aynı ya da farklı ilde tekrar muayenehane açmaları durumunda muafiyetleri devam eder.
 
 #### Ruhsatlandırma işlemleri için süre
 
@@ -751,7 +751,7 @@ d) Klinik konukevlerinin yatak ücretleri Bakanlıkça onaylanır.
 
 #### Muayenehanesini kapatan tabiplerin durumu
 
-**GEÇİCİ MADDE 9 –** (1) 1/1/2025 tarihi itibarıyla faal muayenehanesi (Değişik ibare:RG-29/8/2026-33355) olan tabiplerin muayenehanelerini kapatması halinde (Değişik ibare:RG-29/8/2026-33355) muayenehanesini kapattığı ildeki en fazla iki özel hastanede kadro dışı geçici olarak çalışmasına izin verilir. Bu tabiplerin yeniden muayenehane açmaları halinde bu madde kapsamında verilen kadro dışı geçici çalışma hakkı sona erer.
+**GEÇİCİ MADDE 9 –** (1) 1/1/2025 tarihi itibarıyla faal muayenehanesi **(Değişik ibare:RG-29/8/2026-33355)** olan tabiplerin muayenehanelerini kapatması halinde **(Değişik ibare:RG-29/8/2026-33355)** muayenehanesini kapattığı ildeki en fazla iki özel hastanede kadro dışı geçici olarak çalışmasına izin verilir. Bu tabiplerin yeniden muayenehane açmaları halinde bu madde kapsamında verilen kadro dışı geçici çalışma hakkı sona erer.
 
 #### Tabip kadrolarının devri
 
@@ -795,6 +795,6 @@ yürürlüğe girer.
 
 **MADDE 54 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**
 
-<small>[1] Bu değişiklik 30/1/2025 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</small>
+<small>[1] <i>Bu değişiklik 30/1/2025 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</i></small>

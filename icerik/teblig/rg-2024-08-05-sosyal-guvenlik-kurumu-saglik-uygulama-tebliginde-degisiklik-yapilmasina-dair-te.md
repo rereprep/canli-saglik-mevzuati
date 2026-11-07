@@ -11,32 +11,32 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/08/20240805M1-2.pdf"
 durum: "yürürlükte"
 ---
 
-Yönetmelik Adı – 1 Sayfa : 130 RESMÎ GAZETE 5 Ağustos 2024 – Sayı : 32623 (Mükerrer) Ağustos 2024 – Sayı :
-32623 (Mükerrer) RESMÎ
+**Yönetmelik** Adı – 1 Sayfa : 130 RESMÎ GAZETE 5 Ağustos 2024 – Sayı : 32623 **(Mükerrer)** Ağustos 2024 – Sayı :
+32623 **(Mükerrer)** RESMÎ
 GAZETE
 Sayfa :
 Sayfa :
 RESMÎ
 GAZETE
 Ağustos 2024 – Sayı :
-32623 (Mükerrer) Ağustos 2024 – Sayı :
-32623 (Mükerrer) RESMÎ
+32623 **(Mükerrer)** Ağustos 2024 – Sayı :
+32623 **(Mükerrer)** RESMÎ
 GAZETE
 Sayfa :
 Sayfa :
 RESMÎ
 GAZETE
 Ağustos 2024 – Sayı :
-32623 (Mükerrer) Ağustos 2024 – Sayı :
-32623 (Mükerrer) RESMÎ
+32623 **(Mükerrer)** Ağustos 2024 – Sayı :
+32623 **(Mükerrer)** RESMÎ
 GAZETE
 Sayfa :
 Sayfa :
 RESMÎ
 GAZETE
 Ağustos 2024 – Sayı :
-32623 (Mükerrer) Ağustos 2024 – Sayı :
-32623 (Mükerrer) RESMÎ
+32623 **(Mükerrer)** Ağustos 2024 – Sayı :
+32623 **(Mükerrer)** RESMÎ
 GAZETE
 Sayfa :
 Sayfa :

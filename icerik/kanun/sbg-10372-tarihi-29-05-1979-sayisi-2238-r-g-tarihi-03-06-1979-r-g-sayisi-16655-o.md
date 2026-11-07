@@ -10,21 +10,21 @@ durum: "yürürlükte"
 
 ## ORGAN VE DOKU ALINMASI, SAKLANMASI, AŞILANMASI VE NAKLİ HAKKINDA KANUN
 
-Kanun Numarası : 2238
+**Kanun Numarası : 2238**
 
-Kabul Tarihi : 29/5/1979
+**Kabul Tarihi : 29/5/1979**
 
-Yayımlandığı Resmî Gazete : Tarih : 3/6/1979 Sayı : 16655
+**Yayımlandığı Resmî Gazete : Tarih : 3/6/1979 Sayı : 16655**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 18 Sayfa : 150
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 18 Sayfa : 150**
 
 ### I. BÖLÜM Genel Hükümler
 
-Amaç:
+**Amaç:**
 
 **Madde 1 –** Tedavi, teşhis ve bilimsel amaçlarla organ ve doku alınması, saklanması, aşılanması ve nakli bu kanun hükümlerine tabidir.
 
-Kapsam:
+**Kapsam:**
 
 **Madde 2 –** Bu Kanunda sözü edilen organ ve doku deyiminden, insan organizmasını oluşturan her türlü organ ve doku ile bunların parçaları anlaşılır.
 
@@ -36,15 +36,15 @@ Oto - grefler, saç ve deri alınması, aşılanması ve nakli ile kan transfüz
 
 ### II. BÖLÜM Yaşayan Kişilerden Organ ve Doku Alınması
 
-Yaş ve nitelik:
+**Yaş ve nitelik:**
 
 **Madde 5 –** Onsekiz yaşını doldurmamış ve mümeyyiz olmayan kişilerden organ ve doku alınması yasaktır.
 
-Muvafakat:
+**Muvafakat:**
 
 **Madde 6 –** Onsekiz yaşını doldurmuş ve mümeyyiz olan bir kişiden organ ve doku alınabilmesi için vericinin en az iki tanık huzurunda açık, bilinçli ve tesirden uzak olarak önceden verilmiş yazılı ve imzalı veya en az iki tanık önünde sözlü olarak beyan edip imzaladığı tutanağın bir hekim tarafından onaylanması zorunludur.
 
-Bilgi verme ve araştırma yükümlülüğü:
+**Bilgi verme ve araştırma yükümlülüğü:**
 
 **Madde 7 –** Organ ve doku alacak hekimler:
 
@@ -62,15 +62,15 @@ f) Kan veya sıhri hısımlık veya yakın kişisel ilişkilerin mevcut olduğu 
 
 Zorundadırlar.
 
-Alınamayacak organ ve dokular:
+**Alınamayacak organ ve dokular:**
 
 **Madde 8 –** Vericinin yaşamını mutlak surette sona erdirecek veya tehlikeye sokacak olan organ ve dokuların alınması, yasaktır.
 
-Tahlil ve inceleme yapma zorunluluğu:
+**Tahlil ve inceleme yapma zorunluluğu:**
 
 **Madde 9 –** Organ ve doku alınması, aşılanması ve naklinden önce verici ve alıcının yaşamı ve sağlığı için söz konusu olabilecek tehlikeleri azaltmak amacıyla gerekli tıbbi inceleme ve tahlillerin yapılması ve sonucunun bir olurluluk raporu ile saptanması zorunludur.
 
-Organ ve doku almaya, saklamaya, aşılamaya ve nakline yetkili sağlık kurumları:
+**Organ ve doku almaya, saklamaya, aşılamaya ve nakline yetkili sağlık kurumları:**
 
 **Madde 10 –** (Değişik: 2/1/2014-6514/40 md.)
 
@@ -78,45 +78,45 @@ Organ ve doku alınması, taşınması, saklanması, aşılanması ve nakli ile 
 
 ### III. BÖLÜM Ölüden Organ ve Doku Alınması
 
-Ölüm halinin saptanması:
+**Ölüm halinin saptanması:**
 
 **Madde 11 –** (Değişik: 2/1/2014-6514/41 md.)
 
 Bu Kanunun uygulanması ile ilgili olarak tıbbi ölümün gerçekleştiğine, biri nörolog veya nöroşirürjiyen, biri de anesteziyolji ve reanimasyon veya yoğun bakım uzmanından oluşan iki hekim tarafından kanıta dayalı tıp kurallarına uygun olarak oy birliği ile karar verilir.
 
-Hekimlere ilişkin yasak işlemler:
+**Hekimlere ilişkin yasak işlemler:**
 
 **Madde 12 –** Alıcının müdavi hekimi ile organ ve doku alınması, saklanması, aşılanması ve naklini gerçekleştirecek olan hekimlerin, ölüm halini saptayacak olan hekimler kurulunda yer almaları yasaktır.
 
-Tutanak düzenleme:
+**Tutanak düzenleme:**
 
 **Madde 13 –** 11 inci maddeye göre ölüm halini saptayan hekimlerin ölüm tarihini, saatini ve ölüm halinin nasıl saptandığını gösteren ve imzalarını taşıyan bir tutanak düzenleyip, organ ve dokunun alındığı sağlık kurumuna vermek zorundadırlar. Bu tutanak ve ekleri ilgili sağlık kurumunda on yıl süre ile saklanır.
 
-Ölüden organ ve doku alma koşulu ve cesetlerin bilimsel araştırma için muhafazası:
+**Ölüden organ ve doku alma koşulu ve cesetlerin bilimsel araştırma için muhafazası:**
 
 **Madde 14 –** (Değişik fıkra: 21/7/2025 - 7557/13 md.) Bir kimse sağlığında vücudunun tamamını veya organ ve dokularını, tedavi, teşhis ve bilimsel amaçlar için bıraktığını güvenli kimlik doğrulama araçlarını kullanarak e-Devlet Kapısı veya Sağlık Bakanlığınca kurulan bilişim sistemleri üzerinden beyan etmiş ya da resmi veya yazılı bir vasiyetle belirtmiş veya bu konudaki isteğini iki tanık huzurunda açıklamış ise ölüden organ veya doku alınır. Bağışçının sağlığında açıkladığı iradesinin yakınlarının hilafına olması halinde bağışçının iradesi esas alınır.
 
-(Ek fıkra: 21/7/2025 - 7557/13 md.) Birinci fıkrada belirtilen hallerin bulunmaması durumunda, sırasıyla ölüm anında yanında bulunan eşi, reşit çocukları, ana veya babası veya kardeşlerinden birisinin, bunlar yoksa yanında bulunan herhangi bir yakınının muvafakatiyle ölüden organ veya doku alınır.
+**(Ek fıkra: 21/7/2025 - 7557/13 md.)** Birinci fıkrada belirtilen hallerin bulunmaması durumunda, sırasıyla ölüm anında yanında bulunan eşi, reşit çocukları, ana veya babası veya kardeşlerinden birisinin, bunlar yoksa yanında bulunan herhangi bir yakınının muvafakatiyle ölüden organ veya doku alınır.
 
-(Ek fıkra: 21/7/2025 - 7557/13 md.) Organları başkasına nakledilen bağışçıların eş ve birinci derece yakınlarına, organ nakline ihtiyaçları olması halinde acil hastalardan sonra gelmek üzere öncelik verilir.
+**(Ek fıkra: 21/7/2025 - 7557/13 md.)** Organları başkasına nakledilen bağışçıların eş ve birinci derece yakınlarına, organ nakline ihtiyaçları olması halinde acil hastalardan sonra gelmek üzere öncelik verilir.
 
-(Ek fıkra: 21/7/2025 - 7557/13 md.) Birinci fıkrada belirtilen usullerle yapılan organ bağışı beyanları, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununa uygun olarak Sağlık Bakanlığı merkezî kayıt sistemine kaydedilir.
+**(Ek fıkra: 21/7/2025 - 7557/13 md.)** Birinci fıkrada belirtilen usullerle yapılan organ bağışı beyanları, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununa uygun olarak Sağlık Bakanlığı merkezî kayıt sistemine kaydedilir.
 
-(Ek fıkra: 21/7/2025 - 7557/13 md.) Organ bağışı beyanları, beyan esnasında bağışçı tarafından belirlenen kişilere bildirilir ve bu kişiler haricindekilere beyin ölümü tespitinden önce açıklanmaz.
+**(Ek fıkra: 21/7/2025 - 7557/13 md.)** Organ bağışı beyanları, beyan esnasında bağışçı tarafından belirlenen kişilere bildirilir ve bu kişiler haricindekilere beyin ölümü tespitinden önce açıklanmaz.
 
 Aksine bir vasiyet ibraz edilmedikçe yoksa, kornea gibi ceset üzerinde bir değişiklik yapmayan dokular alınabilir.
 
 Ölü, sağlığında kendisinden ölümünden sonra organ veya doku alınmasına karşı olduğunu belirtmişse organ ve doku alınamaz.
 
-(Değişik: 21/1/1982 - 2594/1 md.) Kaza veya doğal afetler sonucu vücudunun uğradığı ağır harabiyet nedeniyle yaşamı sona ermiş olan bir kişinin yanında yukarıda sayılan kimseleri yoksa, sağlam doku ve organları, tıbbi ölüm halinin alınacak organlara bağlı olmadığı 11 inci maddede belirlenen hekimler kurulunun raporuyla belgelenmek kaydıyla, yaşamı organ ve doku nakline bağlı olan kişilere ve naklinde ivedilik ve tıbbi zorunluluk bulunan durumlarda vasiyet ve rıza aranmaksızın organ ve doku nakli yapılabilir. Bu hallerde, adli otopsi, bu işlemler tamamlandıktan sonra yapılır ve hekimler kurulunun raporu adli muayene ve otopsi tutanağına geçirilir ve evrakına eklenir.
+**(Değişik: 21/1/1982 - 2594/1 md.)** Kaza veya doğal afetler sonucu vücudunun uğradığı ağır harabiyet nedeniyle yaşamı sona ermiş olan bir kişinin yanında yukarıda sayılan kimseleri yoksa, sağlam doku ve organları, tıbbi ölüm halinin alınacak organlara bağlı olmadığı 11 inci maddede belirlenen hekimler kurulunun raporuyla belgelenmek kaydıyla, yaşamı organ ve doku nakline bağlı olan kişilere ve naklinde ivedilik ve tıbbi zorunluluk bulunan durumlarda vasiyet ve rıza aranmaksızın organ ve doku nakli yapılabilir. Bu hallerde, adli otopsi, bu işlemler tamamlandıktan sonra yapılır ve hekimler kurulunun raporu adli muayene ve otopsi tutanağına geçirilir ve evrakına eklenir.
 
-(Ek: 21/1/1982 - 2594/1 md.) Ayrıca vücudunu ölümden sonra inceleme ve araştırma faaliyetlerinde faydalanılmak üzere vasiyet edenlerle yataklı tedavi kurumlarında ölen veya bunların morglarına getirilen ve kimsenin sahip çıkmadığı ölü muayenesi veya otopsi işlemi tamamlanmış cesetler aksine bir vesiyet olmadığı takdirde 6 aya kadar muhafaza edilmek ve bilimsel araştırma için kullanılmak üzere ilgili yüksek öğretim kurumlarına verilebilirler. Bu cesetlerin defin hususu dahil tabi olacakları işlemler Adalet, İçişleri, Sağlık ve Sosyal Yardım Bakanlıklarınca bu Kanunun yayımı tarihinden itibaren 3 ay içinde çıkarılacak yönetmelikle belirlenir.
+**(Ek: 21/1/1982 - 2594/1 md.)** Ayrıca vücudunu ölümden sonra inceleme ve araştırma faaliyetlerinde faydalanılmak üzere vasiyet edenlerle yataklı tedavi kurumlarında ölen veya bunların morglarına getirilen ve kimsenin sahip çıkmadığı ölü muayenesi veya otopsi işlemi tamamlanmış cesetler aksine bir vesiyet olmadığı takdirde 6 aya kadar muhafaza edilmek ve bilimsel araştırma için kullanılmak üzere ilgili yüksek öğretim kurumlarına verilebilirler. Bu cesetlerin defin hususu dahil tabi olacakları işlemler Adalet, İçişleri, Sağlık ve Sosyal Yardım Bakanlıklarınca bu Kanunun yayımı tarihinden itibaren 3 ay içinde çıkarılacak yönetmelikle belirlenir.
 
-(Ek fıkra: 2/1/2014-6514/42 md.) Tıp eğitimi için gerekli olan kadavranın yurt içinden yeteri kadar temin edilememesi hâlinde, kadavra veya kadavra parçası, soykırım ve insanlığa karşı işlenmiş suçlar yoluyla ölmüş kimselerden temin edilmemiş olması kaydı ile yurt dışından temin edilebilir. Kadavra veya kadavra parçası temini ile yurt dışından kadavra temin edecek kişi veya kuruluşların yetkilendirilmesine dair usul ve esaslar Sağlık Bakanlığınca belirlenir.
+**(Ek fıkra: 2/1/2014-6514/42 md.)** Tıp eğitimi için gerekli olan kadavranın yurt içinden yeteri kadar temin edilememesi hâlinde, kadavra veya kadavra parçası, soykırım ve insanlığa karşı işlenmiş suçlar yoluyla ölmüş kimselerden temin edilmemiş olması kaydı ile yurt dışından temin edilebilir. Kadavra veya kadavra parçası temini ile yurt dışından kadavra temin edecek kişi veya kuruluşların yetkilendirilmesine dair usul ve esaslar Sağlık Bakanlığınca belirlenir.
 
 ### IV. BÖLÜM Ceza Hükümleri
 
-Cezai ve idari müeyyideler:
+**Cezai ve idari müeyyideler:**
 
 **Madde 15 –** (Başlığı İle Birlikte Değişik: 15/11/2018-7151/15 md.)
 
@@ -130,7 +130,7 @@ Bakanlıktan izin alınmaksızın organ nakli ve üremeye yardımcı tedavi merk
 
 Bu Kanuna ve Bakanlıkça belirlenen usul ve esaslara aykırı şekilde faaliyet gösteren sağlık kurum ve kuruluşları hakkında fiilin niteliği ve tekerrür durumuna göre Bakanlıkça faaliyet durdurma veya faaliyet izni iptali müeyyidesi uygulanır.
 
-Üremeye yardımcı tedavi uygulamaları:
+**Üremeye yardımcı tedavi uygulamaları:**
 
 **Ek Madde 1 –** (Ek: 15/11/2018-7151/16 md.)
 
@@ -140,7 +140,7 @@ Eşlerden biri veya her ikisinden alınan üreme hücreleri ve bu hücrelerden e
 
 Başkasına ait üreme hücresi ve/veya embriyonun kullanılması suretiyle donasyon işlemi yapılması ve bu amaçla üreme hücresi ve/veya embriyo bağışlanması, satılması, bulundurulması, kullanılması, saklanması, taşınması, ithalatı, ihracatı ve bu işlemlere aracılık edilmesi yasaktır.
 
-Canlıdan organ alınması ve etik komisyonları:
+**Canlıdan organ alınması ve etik komisyonları:**
 
 **Ek Madde 2 –** (Ek: 15/11/2018-7151/16 md.)
 
@@ -160,9 +160,9 @@ Organ Nakli Değerlendirme Etik Komisyonları ve Ulusal Organ Nakli Etik Kurulun
 
 ### 2238 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 
-Değiştiren Kanunun/ KHK’nin/İptal Eden 2238 Sayılı Kanunun Değişen veya
+**Değiştiren Kanunun/ KHK’nin/İptal Eden 2238 Sayılı Kanunun Değişen veya**
 
-Yürürlüğe Giriş Tarihi Anayasa Mahkemesi İptal Edilen Maddeleri Kararının Numarası
+**Yürürlüğe Giriş Tarihi Anayasa Mahkemesi İptal Edilen Maddeleri Kararının Numarası**
 
 ### 2594 14 27/1/1982 6514 10, 11, 14 18/1/2014
 
@@ -186,4 +186,4 @@ göreve başladığı tarihte
 
 **Dipnotlar**
 
-<small>2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 33 üncü maddesi ile bu fıkrada yer alan “tüzükleri,” ibaresi madde metninden çıkarılmıştır. 21/1/1982 tarih ve 2594 sayılı Kanunun 1 inci maddesiyle değiştirilen madde başlığı metindeki yerine işlenmiştir. 2/1/2014 tarihli ve 6514 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “veya beyan” ibaresi “ibraz edilmedikçe” şeklinde değiştirilmiştir. 2/1/2014 tarihli ve 6514 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “ve adli kovuşturma ile ilgisi olmayan” ibaresi “ölü muayenesi veya otopsi işlemi tamamlanmış” şeklinde değiştirilmiştir.</small>
+<small>2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 33 üncü maddesi ile bu fıkrada yer alan <i>“tüzükleri,” ibaresi madde metninden çıkarılmıştır.</i> 21/1/1982 tarih ve 2594 sayılı Kanunun 1 inci maddesiyle değiştirilen madde başlığı metindeki yerine <i>işlenmiştir.</i> 2/1/2014 tarihli ve 6514 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “veya beyan” ibaresi “ibraz <i>edilmedikçe” şeklinde değiştirilmiştir.</i> 2/1/2014 tarihli ve 6514 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “ve adli kovuşturma ile ilgisi <i>olmayan” ibaresi “ölü muayenesi veya otopsi işlemi tamamlanmış” şeklinde değiştirilmiştir.</i></small>

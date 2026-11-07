@@ -20,13 +20,13 @@ durum: "yürürlükte"
 
 ### DAİR KANUN [1]
 
-Kanun Numarası : 6343
+**Kanun Numarası : 6343**
 
-Kabul Tarihi : 9/3/1954
+**Kabul Tarihi : 9/3/1954**
 
-Yayımlandığı Resmî Gazete: Tarih: 18/3/1954 Sayı: 8661
+**Yayımlandığı Resmî Gazete: Tarih: 18/3/1954 Sayı: 8661**
 
-Yayımlandığı Düstur : Tertip: 3 Cilt: 35 Sayfa: 1461
+**Yayımlandığı Düstur : Tertip: 3 Cilt: 35 Sayfa: 1461**
 
 ### BÖLÜM: I
 
@@ -104,9 +104,9 @@ Türkiye sınırları içerisinde meslek ve sanatlarını icra eden bütün vete
 
 Bu birlik veteriner hekim odaları, birlik merkez konseyi, yüksek haysiyet divanı ve büyük kongre gibi organlardan terekkübeder.
 
-(Değişik: (18/6/1997 - 4276/1 md.) Türk Veteriner Hekimleri Birliği ve veteriner hekim odaları, kuruluş amaçları dışında faaliyette bulunamazlar.
+**(Değişik: (18/6/1997 - 4276/1 md.)** Türk Veteriner Hekimleri Birliği ve veteriner hekim odaları, kuruluş amaçları dışında faaliyette bulunamazlar.
 
-(Ek: 3/4/1984 - 2993/1 md.) Birlik ve odalar protokol kurallarına göre resmi törenlere katılır, amacına uygun işlerde kullanılmak üzere taşınır ve taşınmaz mal edinebilir. Lokal, misafirhane ve benzeri sosyal amaçlı tesisler açabilir.[3]
+**(Ek: 3/4/1984 - 2993/1 md.)** Birlik ve odalar protokol kurallarına göre resmi törenlere katılır, amacına uygun işlerde kullanılmak üzere taşınır ve taşınmaz mal edinebilir. Lokal, misafirhane ve benzeri sosyal amaçlı tesisler açabilir.[3]
 
 **Madde 15 –** Birlik, aşağıda yazılı mesleki hizmetleri yapmakla mükelleftir:
 
@@ -130,7 +130,7 @@ h) Veteriner fakültelerinde okuyan gençlere (Memlekete ve mesleke yararlı gen
 
 **Madde 16 –** Hudutları içinde en az 30 veteriner hekim bulunan her vilayet merkezinde veya mücavir vilayetler birleştirilmek suretiyle en az 30 veteriner hekim bulunan mıntakalarda merkez konseyi karariyle veteriner hekim odaları kurulur.
 
-(Ek: 3/4/1984 - 2993/2 md.) Veteriner hekim odaları tüzelkişiliğe sahip kamu kurumu niteliğinde meslek kuruluşlarıdır.
+**(Ek: 3/4/1984 - 2993/2 md.)** Veteriner hekim odaları tüzelkişiliğe sahip kamu kurumu niteliğinde meslek kuruluşlarıdır.
 
 **Madde 17 –** (Değişik: 3/4/1984 - 2993/3 md.)
 
@@ -154,7 +154,7 @@ IV - Oda haysiyet divanları karariyle hükmedilip tahsil edilen para cezaları;
 
 V - Merkez konseyi yardımları;
 
-(Değişik: 3/4/1984 - 2993/4 md.) Giriş ve yıllık aidat miktarları beşyüz liradan az beşbin liradan fazla olmamak şartıyla Büyük Kongre tarafından tespit edilir.
+**(Değişik: 3/4/1984 - 2993/4 md.)** Giriş ve yıllık aidat miktarları beşyüz liradan az beşbin liradan fazla olmamak şartıyla Büyük Kongre tarafından tespit edilir.
 
 **Madde 20 –** İdare heyeti, aidat vermiyecek durumda olan azadan geçici veya sürekli olarak aidat alınmamasına karar verebilir.
 
@@ -168,7 +168,7 @@ Bu had, oda yıllık gelirlerinin % 30 undan fazla olamaz.
 
 **Madde 22 –** Veteriner hekim odaları; umumi heyet, idare heyeti, hesap murakıpları ve haysiyet divanından terekkübeder.
 
-Oda umumi heyeti:
+**Oda umumi heyeti:**
 
 **Madde 23 –** (Değişik: 3/4/1984 - 2993/5 md.)
 
@@ -204,11 +204,11 @@ Kararların alınmasında ekseriyetin reyi şarttır.
 
 6. Yeni idare heyeti seçimini yapmak;
 
-7. (Değişik: 11/6/2010-5996/46 md.) Büyük Kongreye iştirak etmek üzere, oda başkanları tabii delege kabul edilerek ilgili oda azalarından; üye sayısı (150)’ye kadar olanlardan (4), üye sayısı (151 – 300) arasında olanlardan (5), üye sayısı (301 – 600) arasında olanlardan (6), üye sayısı (601 – 1000) arasında olanlardan (8), ayrıca (1000)’den fazla üyesi olan odalardan (8) delegeye ek olarak her (500) üye için (1) delege ve aynı sayıda yedek seçmek.
+7. **(Değişik: 11/6/2010-5996/46 md.)** Büyük Kongreye iştirak etmek üzere, oda başkanları tabii delege kabul edilerek ilgili oda azalarından; üye sayısı (150)’ye kadar olanlardan (4), üye sayısı (151 – 300) arasında olanlardan (5), üye sayısı (301 – 600) arasında olanlardan (6), üye sayısı (601 – 1000) arasında olanlardan (8), ayrıca (1000)’den fazla üyesi olan odalardan (8) delegeye ek olarak her (500) üye için (1) delege ve aynı sayıda yedek seçmek.
 
 8. İki hesap murakıbı seçmek.
 
-9. (Değişik: 3/4/1984 - 2993/7 md.) Beş asıl ve iki yedek haysiyet divanı üyelerini seçmek.
+9. **(Değişik: 3/4/1984 - 2993/7 md.)** Beş asıl ve iki yedek haysiyet divanı üyelerini seçmek.
 
 **Madde 28 –** (Değişik: 3/4/1984 - 2993/8 md.)
 
@@ -504,7 +504,7 @@ Merkez Konseyinin daveti üzerine Yüksek Haysiyet Divanı olağanüstü toplant
 
 Bu cezaya çarptırılanlar memur iseler memuriyet vazifelerine halel gelmez.
 
-(Değişik: 3/4/1984 - 2993/16 md.) Yüksek Haysiyet Divanının verdiği kararlar, ilgili oda haysiyet divanına bildirilir ve keyfiyet, hakkında disiplin işlemi yapılan kimseye tebliğ edilir. Kesinleşen kararlar, Merkez Konseyi tarafından Tarım Orman ve Köyişleri Bakanlığı ile ilgilinin bağlı olduğu odanın bulunduğu yerdeki Cumhuriyet savcısına bildirilir. Bu bildirimle birlikte Merkez Konseyi, kararı münasip yollarla ilan eder ve tatbik imkanlarını sağlar.
+**(Değişik: 3/4/1984 - 2993/16 md.)** Yüksek Haysiyet Divanının verdiği kararlar, ilgili oda haysiyet divanına bildirilir ve keyfiyet, hakkında disiplin işlemi yapılan kimseye tebliğ edilir. Kesinleşen kararlar, Merkez Konseyi tarafından Tarım Orman ve Köyişleri Bakanlığı ile ilgilinin bağlı olduğu odanın bulunduğu yerdeki Cumhuriyet savcısına bildirilir. Bu bildirimle birlikte Merkez Konseyi, kararı münasip yollarla ilan eder ve tatbik imkanlarını sağlar.
 
 **Madde 55 –** Oda haysiyet divanlarınca haklarında meslek icrasından men kararı verilen veteriner hekimler, bu kararın yüksek haysiyet divanınca tasdik edilmiş bulunmasına rağmen mesleklerini icra ederlerse haklarında oda haysiyet divanlarınca disiplin cezası gerektiren fiil ve hallerin süresine göre 120.000 Türk lirasından 600.000 Türk lirasına kadar disiplin para cezası verilir.[5]
 
@@ -532,7 +532,7 @@ Büyük Kongreyi idare etmek için bir reis, bir reisvekili ve lüzumu kadar kat
 
 Kongre kararları mevcudun ekseriyeti ile verilir.
 
-(Ek: 3/4/1984 - 2993/18 md.) Büyük Kongrenin seçimle ilgili toplantılarına üyelerin katılmaları ve oylarını kullanmaları zorunlu olup geçerli bir mazereti olmaksızın katılmayanlar ile oy kullanmayanlar Yüksek Haysiyet Divanınca cezalandırılırlar.
+**(Ek: 3/4/1984 - 2993/18 md.)** Büyük Kongrenin seçimle ilgili toplantılarına üyelerin katılmaları ve oylarını kullanmaları zorunlu olup geçerli bir mazereti olmaksızın katılmayanlar ile oy kullanmayanlar Yüksek Haysiyet Divanınca cezalandırılırlar.
 
 **Madde 61 –** Merkez konseyi lüzum görür veya veteriner hekim odalarının % 20 si yazılı olarak Büyük Kongrenin toplanmasını talebederse Büyük Kongre; merkez konseyinin daveti üzerine fevkalade olarak da toplanabilir.
 
@@ -588,7 +588,7 @@ Bu Kanunda yazılı olan idarî para cezaları mahallî mülkî amir tarafından
 
 Tarım Orman ve Köyişleri Bakanlığı, Türk Veteriner Hekimleri Birliği ile Birliğin mahalli organları olan odalar üzerinde teftiş hakkına sahiptir. Birlik ve odaların görevlerini kanun hükümlerine uygun olarak yapıp yapmadıklarını Bakanlık idari ve mali yönlerden denetler.
 
-(Değişik: 18/6/1997 - 4276/2 md.) Amaçları dışında faaliyet gösteren veteriner hekim odaları ile Türk Veteriner Hekimleri Birliğinin sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Tarım ve Köyişleri Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
+**(Değişik: 18/6/1997 - 4276/2 md.)** Amaçları dışında faaliyet gösteren veteriner hekim odaları ile Türk Veteriner Hekimleri Birliğinin sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Tarım ve Köyişleri Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
 
 Görevlerine son verilen organların yerine en geç bir ay içerisinde yetkili organlarınca yenileri seçilir. Yeni seçilenler eskilerin süresini tamamlar.
 
@@ -596,7 +596,7 @@ Tarım Orman ve Köyişleri Bakanlığının bu Kanun uyarınca Birlik organlar�
 
 Görevlerine son verilen organ üyelerinin Kanunda yazılı ceza sorumlulukları saklıdır. Bu organların yukarıdaki fıkra gereğince görevlerine son verilmesine neden olan tasarrufları hükümsüzdür.
 
-(Değişik: 18/6/1997 - 4276/2 md.) Ancak, milli güvenliğin, kamu düzeninin suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, Birlik ile odalar, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde açıklar, aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.[9]
+**(Değişik: 18/6/1997 - 4276/2 md.)** Ancak, milli güvenliğin, kamu düzeninin suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, Birlik ile odalar, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde açıklar, aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.[9]
 
 Göreve son verme ve görevden uzaklaştırma hükümleri oda umumi heyeti ve Büyük Kongre hakkında uygulanmaz.
 
@@ -697,24 +697,24 @@ Birinci fıkraya göre yapılan seçimler 1984 yılının kanunda öngörülen a
 | Anayasa Mahkemesinin 22/3/2023 Tarihli ve E: 2023/18, K: 2023/57 Sayılı Kararı | 41 | 4/5/2023 tarihinden başlayarak dokuz ay sonra (4/2/2024) |
 | 7584 | 41, 55 | 20/6/2026 |
 
-<small>[1] a - Bu Kanunun başlığı "Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile Odaların Teşekkül Tarzına ve Göreceği İşlere Dair Kanun" olarak ve maddelerde geçen "Veteriner Hekimleri Birliği"ibaresi "Türk Veteriner Hekimleri Birliği" şeklinde 3/4/1984 tarih ve 2993 Sayılı Kanunun 19 uncu maddesi ile 9/3/1954 tarih ve 6343 Sayılı Kanuna ek olarak getirilen ek 5 inci madde hükmüyle değiştirilmiştir.</small>
+<small>[1] <i>a - Bu Kanunun başlığı "Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile Odaların Teşekkül Tarzına ve Göreceği İşlere Dair Kanun" olarak ve maddelerde geçen "Veteriner Hekimleri Birliği"ibaresi "Türk Veteriner Hekimleri Birliği" şeklinde 3/4/1984 tarih ve 2993 Sayılı Kanunun 19 uncu maddesi ile 9/3/1954 tarih ve 6343 Sayılı Kanuna ek olarak getirilen ek 5 inci madde hükmüyle değiştirilmiştir.</i></small>
 
-b - Bu Kanunun bazı maddelerinde bulunan "Ziraat Vekaleti" ibaresi 3/4/1984 tarih ve 2993 sayılı Kanunun 19 uncu maddesi ile 9/3/1954 tarih ve 6343 Sayılı Kanuna ek olarak getirilen ek 4 üncü madde hükmüne göre "Tarım Orman ve Köyişleri Bakanlığı" olarak değiştirilmiştir.
+<i>b - Bu Kanunun bazı maddelerinde bulunan "Ziraat Vekaleti" ibaresi 3/4/1984 tarih ve 2993 sayılı Kanunun 19 uncu maddesi ile 9/3/1954 tarih ve 6343 Sayılı Kanuna ek olarak getirilen ek 4 üncü madde hükmüne göre "Tarım Orman ve Köyişleri Bakanlığı" olarak değiştirilmiştir.</i>
 
-<small>[2] Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile bu bentte yer alan “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, kamunun sağlığına karşı suçlar, …” bölümü iptal edilmiştir.</small>
+<small>[2] <i>Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile bu bentte yer alan “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, kamunun sağlığına karşı suçlar, …” bölümü iptal edilmiştir.</i></small>
 
-<small>[3] Bu maddenin uygulanmasında Ek 1 inci maddeye bakınız.</small>
+<small>[3] <i>Bu maddenin uygulanmasında Ek 1 inci maddeye bakınız.</i></small>
 
-<small>[4] Bu hükmün uygulanmasında Ek 2 nci maddeye bakınız.</small>
+<small>[4] <i>Bu hükmün uygulanmasında Ek 2 nci maddeye bakınız.</i></small>
 
-<small>[5] 11/6/2026 tarihli ve 7584 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “100 liradan 500 liraya kadar inzibati” ibaresi “disiplin cezası gerektiren fiil ve hallerin süresine göre 120.000 Türk lirasından 600.000 Türk lirasına kadar disiplin” şeklinde değiştirilmiştir.</small>
+<small>[5] <i>11/6/2026 tarihli ve 7584 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “100 liradan 500 liraya kadar inzibati” ibaresi “disiplin cezası gerektiren fiil ve hallerin süresine göre 120.000 Türk lirasından 600.000 Türk lirasına kadar disiplin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[6] 24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle, 65 inci maddede yer alan "hekimler hakkında işledikleri suçun mahiyet ve ehemmiyetine göre 10 liradan 100 liraya kadar ağır para cezası hüküm olunur." ibaresi, "hekimlere üçyüzkırkyedimilyon lira idarî para cezası verilir." olarak 6/5/2003 tarihinden geçerli olmak üzere değiştirilmiş ve metne işlenmiştir. Daha sonra 23/1/2008 tarihli ve 5728 sayılı Kanunun 182 nci maddesiyle; bu maddede yer alan “üçyüzkırkyedimilyon lira” ibaresi “bin Türk Lirası” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle, 65 inci maddede yer alan "hekimler hakkında işledikleri suçun mahiyet ve ehemmiyetine göre 10 liradan 100 liraya kadar ağır para cezası hüküm olunur." ibaresi, "hekimlere üçyüzkırkyedimilyon lira idarî para cezası verilir." olarak 6/5/2003 tarihinden geçerli olmak üzere değiştirilmiş ve metne işlenmiştir. Daha sonra 23/1/2008 tarihli ve 5728 sayılı Kanunun 182 nci maddesiyle; bu maddede yer alan “üçyüzkırkyedimilyon lira” ibaresi “bin Türk Lirası” şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] 24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle, 67 nci maddede yer alan "mensupları hakkında işledikleri suçun mahiyet ve ehemmiyetine göre 10 liradan 100 liraya kadar para cezası hüküm olunur." ibaresi, " mensuplarına üçyüzkırkyedimilyon lira idarî para cezası verilir."; 70 inci maddede yer alan "etmiyenler hakkında 5 liradan 25 liraya kadar hafif para cezası hüküm olunur." ibaresi "etmeyenlere seksenyedimilyon lira idarî para cezası verilir." olarak 6/5/2003 tarihinden geçerli olmak üzere değiştirilmiştir.</small>
+<small>[7] <i>24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle, 67 nci maddede yer alan "mensupları hakkında işledikleri suçun mahiyet ve ehemmiyetine göre 10 liradan 100 liraya kadar para cezası hüküm olunur." ibaresi, " mensuplarına üçyüzkırkyedimilyon lira idarî para cezası verilir."; 70 inci maddede yer alan "etmiyenler hakkında 5 liradan 25 liraya kadar hafif para cezası hüküm olunur." ibaresi "etmeyenlere seksenyedimilyon lira idarî para cezası verilir." olarak 6/5/2003 tarihinden geçerli olmak üzere değiştirilmiştir.</i></small>
 
-<small>[8] 23/1/2008 tarihli ve 5728 sayılı Kanunun 184 üncü maddesiyle; 67 nci maddesinde yer alan “üçyüzkırkyedimilyon lira” ibaresi “bin Türk Lirası”olarak, 186 ncı maddesiyle; 70 inci maddesinde yer alan “seksenyedimilyon lira” ibaresi “ikiyüz Türk Lirası”olarak değiştirilmiş ve aynı Kanunun 187 nci maddesiyle; 71 inci maddesinde yer alan “bir aydan” ibaresi madde metninden çıkartılmıştır.</small>
+<small>[8] <i>23/1/2008 tarihli ve 5728 sayılı Kanunun 184 üncü maddesiyle; 67 nci maddesinde yer alan “üçyüzkırkyedimilyon lira” ibaresi “bin Türk Lirası”olarak, 186 ncı maddesiyle; 70 inci maddesinde yer alan “seksenyedimilyon lira” ibaresi “ikiyüz Türk Lirası”olarak değiştirilmiş ve aynı Kanunun 187 nci maddesiyle; 71 inci maddesinde yer alan “bir aydan” ibaresi madde metninden çıkartılmıştır.</i></small>
 
-<small>[9] 18/6/1997 tarih ve 4276 sayılı Kanunun 2 nci maddesiyle bu fıkra altıncı ve yedinci fıkraların birleştirilmesiyle altıncı fıkra olarak düzenlenmiştir.</small>
+<small>[9] <i>18/6/1997 tarih ve 4276 sayılı Kanunun 2 nci maddesiyle bu fıkra altıncı ve yedinci fıkraların birleştirilmesiyle altıncı fıkra olarak düzenlenmiştir.</i></small>
 
-<small>[10] 23/1/2008 tarihli ve 5728 sayılı Kanunun 189 uncu maddesiyle; bu fıkrada yer alan “Devlet memurlarına” ibaresi “kamu görevlilerine” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>23/1/2008 tarihli ve 5728 sayılı Kanunun 189 uncu maddesiyle; bu fıkrada yer alan “Devlet memurlarına” ibaresi “kamu görevlilerine” şeklinde değiştirilmiştir.</i></small>

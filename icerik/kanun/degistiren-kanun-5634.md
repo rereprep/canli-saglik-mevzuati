@@ -12,15 +12,15 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/05/20070502-3.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-HEMŞİRELİK KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5634 Kabul Tarihi : 25/4/2007
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**HEMŞİRELİK KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5634 Kabul Tarihi : 25/4/2007**
 
-MADDE 1 – 25/2/1954 tarihli ve 6283 sayılı Hemşirelik Kanununun 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 25/2/1954 tarihli ve 6283 sayılı Hemşirelik Kanununun 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 "MADDE 1 – Türkiye’de üniversitelerin hemşirelik ile ilgili lisans eğitimi veren fakülte ve yüksek okullarından mezun olan ve diplomaları Sağlık Bakanlığınca tescil edilenler ile öğrenimlerini yurt dışında hemşirelik ile ilgili, Devlet tarafından tanınan bir okulda tamamlayarak denklikleri onaylanan ve diplomaları Sağlık Bakanlığınca tescil edilenlere Hemşire unvanı verilir."
 
 MADDE 2 – Hemşirelik Kanununun 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
-"MADDE 3 – Türkiye’de hemşirelik mesleğini bu Kanun hükümleri dahilinde hemşire unvanı kazanmış Türk vatandaşı hemşirelerden başka kimse yapamaz."
+"**MADDE 3 –** Türkiye’de hemşirelik mesleğini bu Kanun hükümleri dahilinde hemşire unvanı kazanmış Türk vatandaşı hemşirelerden başka kimse yapamaz."
 
 MADDE 3 – Hemşirelik Kanununun 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 "MADDE 4 – Hemşireler;

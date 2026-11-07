@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2020/10/20201016M1-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-KAMU MALÎ
-YÖNETİMİ VE KONTROL KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 7254 Kabul Tarihi: 16/10/2020
+**KANUN**
+**KAMU MALÎ**
+**YÖNETİMİ VE KONTROL KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+**Kanun No. 7254** Kabul Tarihi: 16/10/2020
 
 MADDE 1 – 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 9 uncu maddesinin başlığı “Stratejik planlama ve performans esaslı program bütçe” şeklinde, dördüncü fıkrası ile beşinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş ve maddeye son fıkrasından önce gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Kamu idareleri, program bütçeye uygun olarak yürütecekleri faaliyetler ile bunların kaynak ihtiyacını, amaç, hedef ve performans göstergelerini içeren performans programı hazırlar.”

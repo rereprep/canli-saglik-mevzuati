@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-ÜREMEYE YARDIMCI TEDAVİ UYGULAMALARI VE ÜREMEYE YARDIMCI TEDAVİ MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ÜREMEYE YARDIMCI TEDAVİ UYGULAMALARI VE ÜREMEYE YARDIMCI TEDAVİ MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 30/9/2014 tarihli ve 29135 sayılı Resmî Gazete’de yayımlanan Üremeye Yardımcı Tedavi Uygulamaları ve Üremeye Yardımcı Tedavi Merkezleri Hakkında Yönetmeliğin 22 nci maddesine aşağıdaki fıkra eklenmiştir.
 “(2) ÜYTE klinik uygulamaları sertifikalı eğitim programına kadın hastalıkları ve doğum uzmanı tabipler, ÜYTE laboratuvar uygulamaları sertifikalı eğitim programına ise tabip ve histoloji ve embriyoloji uzmanı tabipler ile tıp fakültelerinin histoloji ve embriyoloji anabilim dalında doktora programını tamamlamış olan, 22/5/2014 tarihli ve 29007 sayılı Resmî Gazete’de yayımlanan Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelikte belirtilen sağlık meslek mensupları, veteriner hekim ve biyologlar başvurabilir.”

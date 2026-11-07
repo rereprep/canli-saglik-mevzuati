@@ -10,40 +10,40 @@ tarih: "2026-02-18"
 kontrol_edildi: true
 ---
 
-BİLGİ NOTU
+**BİLGİ NOTU**
 
 BİRİM: Kanser Daire Başkanlığı
 
-KONU: 15 EYLÜL PROSTAT KANSERİ FARKINDALIK GÜNÜ
+**KONU: 15 EYLÜL PROSTAT KANSERİ FARKINDALIK GÜNÜ**
 
 Prostat kanseri, dünya genelinde olduğu gibi ülkemizde de erkekler için önemli bir sağlık sorunudur. Erkeklerde en sık görülen kanserler arasında 2. sırada yer almaktadır. Toplumun bilinç düzeyini artırmak, önleyici tedbirleri hatırlatmak ve erken tanının önemini vurgulamak amacıyla her yıl 15 Eylül, tüm dünyada Prostat Kanseri Farkındalık Günü olarak anılmaktadır.
 
 Bu özel günde amaç; erkeklerde sık görülen prostat kanseri konusunda farkındalığın artırılması, düzenli kontrollerin yapılmasının teşvik edilmesi ve sağlıklı yaşam alışkanlıklarının öneminin hatırlatılmasıdır.
 
-Prostat Nedir?
+**Prostat Nedir?**
 
 Prostat, erkek üreme sisteminde bulunan, mesanenin (idrar torbasının) hemen altında ve rektumun önünde yer alan bir salgı bezidir. Yaklaşık bir ceviz büyüklüğünde olan prostat, içerisinden idrar kanalının (üretra) geçtiği bir yapıya sahiptir. Görevi, meninin sıvı kısmının üretimini sağlamaktır.
 
 Erkekler yaşlandıkça prostat bezi büyüyebilir. Bu büyüme idrar yapmayı zorlaştırabilir ve cinsel işlevle ilgili sorunlara yol açabilir. Ancak bu durum her zaman kanser anlamına gelmez. Kanser hücresi içermeyen prostat büyümesi iyi huylu prostat büyümesi (Benign Prostat Hiperplazisi - BPH) olarak adlandırılır.
 
-Prostat Kanseri Nedir ve Ne Sıklıkta Görülür?
+**Prostat Kanseri Nedir ve Ne Sıklıkta Görülür?**
 
 Prostat kanseri, prostat bezindeki hücrelerin kontrolsüz çoğalmasıyla oluşur. Başlangıçta genellikle herhangi bir belirti vermez ve bu nedenle erken teşhis hayati önem taşır.
 
 Ülkemizde prostat kanseri, erkeklerde yüz binde 30,3 oranında görülmektedir. Her yıl yaklaşık 15 bin erkek bu tanıyı almaktadır. Ayrıca her 25 erkekten 1’i, yaşamı boyunca prostat kanserine yakalanma riski taşır.
 
-Prostat Kanseri İçin Risk Faktörleri Nelerdir?
+**Prostat Kanseri İçin Risk Faktörleri Nelerdir?**
 
-- İleri yaş: 50 yaşından sonra risk artar.
-- Aile öyküsü: Baba veya erkek kardeş gibi birinci derece akrabasında prostat kanseri bulunanlarda risk 2 kat fazladır.
-- Genetik faktörler
-- Beslenme alışkanlıkları: Aşırı kırmızı et, hayvansal yağ tüketimi, sebze ve meyve tüketiminin az olması riski artırabilir.
-- Obezite ve hareketsiz yaşam
-- Sigara ve alkol kullanımı
+- **İleri yaş:** 50 yaşından sonra risk artar.
+- **Aile öyküsü:** Baba veya erkek kardeş gibi birinci derece akrabasında prostat kanseri bulunanlarda risk 2 kat fazladır.
+- **Genetik faktörler**
+- **Beslenme alışkanlıkları:** Aşırı kırmızı et, hayvansal yağ tüketimi, sebze ve meyve tüketiminin az olması riski artırabilir.
+- **Obezite ve hareketsiz yaşam**
+- **Sigara ve alkol kullanımı**
 
-Bazı faktörler değiştirilemez (yaş, genetik), ancak sağlıklı yaşam tarzı değişiklikleriyle risk azaltılabilir.
+**Bazı faktörler değiştirilemez (yaş, genetik), ancak sağlıklı yaşam tarzı değişiklikleriyle risk azaltılabilir.**
 
-Prostat Kanserinin Belirtileri Nelerdir?
+**Prostat Kanserinin Belirtileri Nelerdir?**
 
 Erken evrede genellikle belirti vermeyen prostat kanseri, ilerleyen dönemlerde şu şikâyetlere yol açabilir:
 
@@ -54,30 +54,30 @@ Erken evrede genellikle belirti vermeyen prostat kanseri, ilerleyen dönemlerde 
 - Ereksiyon (sertleşme) sorunları
 - Kanser ileri evrelerde kemiklere yayıldığında kalça, sırt veya göğüs ağrısı, bacaklarda güçsüzlük veya uyuşma
 
-Bu şikâyetler başka hastalıklarda da görülebilir, ancak bu tür belirtiler varsa mutlaka bir üroloji uzmanına başvurulmalıdır.
+**Bu şikâyetler başka hastalıklarda da görülebilir, ancak bu tür belirtiler varsa mutlaka bir üroloji uzmanına başvurulmalıdır.**
 
-Erken Tanı Hayat Kurtarır
+**Erken Tanı Hayat Kurtarır**
 
 Prostat kanseri, erken evrede tespit edildiğinde başarıyla tedavi edilebilir. Bu nedenle:
 
 - 50 yaşından itibaren tüm erkekler,
 - Ailesinde prostat kanseri öyküsü bulunanlar ise 40 yaşından itibaren, yılda en az bir kez Aile Hekimi’ne başvurarak Prostat Kanseri açısından muayenesini yaptırmalıdır.
 
-Tedavi:
+**Tedavi:**
 
 Prostat kanserinin tedavisi, hastalığın evresine göre değişir.
 
-Erken evrede:
+**Erken evrede:**
 - Prostatın cerrahi olarak çıkarılması
 - Işın tedavisi (radyoterapi)
 - Düzenli izlem (aktif izlem) uygulanabilir.
 
-İleri evrede:
+**İleri evrede:**
 - Hormon tedavisi
 - Kemoterapi
 - İmmünoterapi
 
-Prostat Kanserinden Korunmak Mümkün mü?
+**Prostat Kanserinden Korunmak Mümkün mü?**
 
 Prostat kanserini tamamen önlemenin kesin bir yolu yoktur, ancak riski azaltmak için şu önlemler alınabilir:
 
@@ -88,19 +88,19 @@ Prostat kanserini tamamen önlemenin kesin bir yolu yoktur, ancak riski azaltmak
 - Stres Yönetimi ve Uyku Düzenine dikkat edin
 - Rutin kontrollerinizi aksatmayın
 
-“Kanserde Erken Teşhis Hayat Kurtarır”
+**“Kanserde Erken Teşhis Hayat Kurtarır”**
 
-“Farkında Ol, Erken Yakala!”
+**“Farkında Ol, Erken Yakala!”**
 
-“Unutma! 50 yaşından Sonra Her Yıl Kontrol!”
+**“Unutma! 50 yaşından Sonra Her Yıl Kontrol!”**
 
-“Şimdi Kontrol Zamanı!”
+**“Şimdi Kontrol Zamanı!”**
 
 Ek 2
 
-KANSER DAİRESİ BAŞKANLIĞI
+**KANSER DAİRESİ BAŞKANLIĞI**
 
-15 EYLÜL PROSTAT KANSERİ FARKINDALIK GÜNÜ İL FAALİYETLERİ DEĞERLENDİRME FORMU
+**15 EYLÜL PROSTAT KANSERİ FARKINDALIK GÜNÜ İL FAALİYETLERİ DEĞERLENDİRME FORMU**
 
 İLİN ADI:
 
@@ -125,9 +125,9 @@ E- Posta:
 | FARKINDALIK YÜRÜYÜŞÜ | SAYISI |
 | DİĞER | |
 
-ONAYLAYAN
+**ONAYLAYAN**
 
-…/…/2025
+**…/…/2025**
 
 Adı Soyadı
 

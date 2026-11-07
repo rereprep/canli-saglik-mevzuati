@@ -12,26 +12,26 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2009/02/20090228M1-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN BAZI
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN** BAZI
 KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
 Kanun No. 5838 Kabul Tarihi: 18/2/2009
 
-MADDE 1 – 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 1 –** 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 8 – 2008 ve 2009 yıllarında kısa çalışma için yapılan başvurulara münhasır olmak üzere, ek 2 nci maddenin ikinci fıkrasında kısa çalışma için öngörülen azami üç aylık süre, altı ay olarak uygulanır;
 üçüncü fıkrasında öngörülen kısa çalışma ödeneği miktarı % 50 oranında artırılarak ödenir ve kısa çalışma ödeneği olarak yapılan ödemeler, başlangıçta belirlenen işsizlik ödeneği süresinden düşülmez. Bu maddenin yayımı tarihinden önce uygunluk tespiti yapılan kısa çalışma başvurularında süre, işverenin talebi halinde aynı şartlarla ve bu maddede öngörülen süreyi aşmamak kaydıyla uzatılır.
 Bu maddede öngörülen ödenek miktarı aynı kalmak kaydıyla, kısa çalışma süresini altı ay daha uzatmaya Bakanlar Kurulu yetkilidir. Ancak, bu dönemde kısa çalışma ödeneği olarak yapılan ödemeler, başlangıçta belirlenen işsizlik ödeneği süresinden düşülür.”
 
-MADDE 2 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 97 nci maddesinin yedinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 2 –** 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 97 nci maddesinin yedinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Sağlık hizmeti sunucuları, sunmuş oldukları hizmetlere ilişkin bir ay içinde düzenledikleri fatura ve eki belgeleri izleyen ayın onbeşine kadar Kuruma teslim ederler. Fatura teslim tarihi; süresi içinde teslim edilen faturalar için teslim edildiği ayın onbeşinci günü, süresi içinde teslim edilmeyen faturalar için ise teslim edildiği ayı takip eden ayın onbeşinci günü olarak kabul edilir. Fatura bedelinin tamamı, fatura teslim tarihinden itibaren, altmış gün içinde, sağlık hizmet sunucularına avans olarak ödenir. Fatura ve eki belgeler, fatura teslim tarihinden itibaren üç ay içinde incelenerek avans hesabı kapatılır.
 İnceleme süresinin takip eden mali yıla sirayet etmesi durumunda, avans artıkları hakkında 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 35 inci maddesindeki akreditiflere ilişkin hükümler uygulanır.”
 
-MADDE 3 – 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 100 üncü maddesinin dördüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 3 –** 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 100 üncü maddesinin dördüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Üçüncü fıkra hükümleri çerçevesinde yetkilendirilen kamu idaresi, yetkilendirildiği hususlarla sınırlı olarak kendi mevzuatında yer alan yetkileri kullanabilir.”
 
-MADDE 4 – 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 102 nci maddesinin birinci fıkrasına aşağıdaki bent eklenmiş, ikinci fıkrasında yer alan “(a) ve (b) bentlerinde” ibaresi “(b) bendinde” olarak değiştirilmiş ve üçüncü fıkrasında geçen “8 inci,” ibaresinden sonra gelmek üzere “9 uncu,” ibaresi eklenmiştir.
+**MADDE 4 –** 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 102 nci maddesinin birinci fıkrasına aşağıdaki bent eklenmiş, ikinci fıkrasında yer alan “(a) ve (b) bentlerinde” ibaresi “(b) bendinde” olarak değiştirilmiş ve üçüncü fıkrasında geçen “8 inci,” ibaresinden sonra gelmek üzere “9 uncu,” ibaresi eklenmiştir.
 “j) 9 uncu maddesinin birinci fıkrasının (a) bendine göre sigortalılığı sona erenlere ilişkin bildirim ile 506 sayılı Kanunun geçici 20 nci maddesinde yer alan sandıklara, sandık iştirakçiliğinin başlama veya sona ermesine ilişkin bildirimi, süresi içinde ya da Kurumca belirlenen şekle ve usule uygun olarak yapmayanlar veya Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu halde anılan ortamda göndermeyenler hakkında, her bir sigortalı veya sandık iştirakçisi için asgari ücret tutarında idari para cezası uygulanır.”
 
-MADDE 5 – 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa aşağıdaki ek madde eklenmiştir.
+**MADDE 5 –** 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa aşağıdaki ek madde eklenmiştir.
 “Kuruma yapılan bazı bildirimlerin yeterli sayılması
 
 EK MADDE 1 – İşverenler tarafından 8 inci, 9 uncu ve 11 inci maddelere göre Kuruma yapılan sigortalı ve işyerlerine ilişkin bildirimler; 5953 sayılı Basın Mesleğinde Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında Kanunun 3 üncü maddesi, 2821 sayılı Sendikalar Kanununun 62 nci maddesi, 4447 sayılı İşsizlik Sigortası Kanununun 48 inci maddesi ve 4857 sayılı İş Kanununun 3 üncü maddesi hükümleri uyarınca Bakanlık ile ilgili bölge müdürlüklerine ve Türkiye İş Kurumuna yapılması gereken bildirimlerin yerine geçer.
@@ -46,11 +46,11 @@ yetkili sendikanın belirlenmesinde ve istatistiklerin düzenlenmesinde, kendisi
 MADDE 7 – 4/11/2004 tarihli ve 5253 sayılı Dernekler Kanununun 10 uncu maddesinin ikinci fıkrasının sonuna aşağıdaki cümle eklenmiştir.
 “4857 sayılı İş Kanununun 30 uncu maddesi çerçevesinde özürlülerin ve eski hükümlülerin mesleki eğitim ve mesleki rehabilitasyonu, kendi işlerini kurmaları, özürlülerin iş bulmasını sağlayacak destek teknolojilerine ilişkin projeler ile benzeri projelerde bu oran aranmaz.”
 
-MADDE 8 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun; 119 uncu maddesine aşağıdaki fıkra, geçici 74 üncü maddesinden sonra gelmek üzere aşağıdaki geçici madde eklenmiştir.
+**MADDE 8 –** 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun; 119 uncu maddesine aşağıdaki fıkra, geçici 74 üncü maddesinden sonra gelmek üzere aşağıdaki geçici madde eklenmiştir.
 “Maliye Bakanlığı, 94 üncü maddeye göre tevkifat yapacaklardan on ve daha az hizmet erbabı çalıştıranlar ile hizmet erbabı çalıştırmayanlara ilişkin olarak beyanname verme süresinden itibaren üç ayı geçmeyecek şekilde, ödeme zamanı belirlemeye yetkilidir.”
 “GEÇİCİ MADDE 75 – 31/12/2013 tarihine kadar, 28/2/2008 tarihli ve 5746 sayılı Araştırma ve Geliştirme Faaliyetlerinin Desteklenmesi Hakkında Kanunun 3 üncü maddesinin ikinci fıkrasında belirtilen Ar-Ge ve destek personelinin, bu çalışmaları karşılığında elde ettikleri ücretleri üzerinden asgari geçim indirimi uygulandıktan sonra hesaplanan gelir vergisinin; doktoralı olanlar için yüzde 90’ı, diğerleri için yüzde 80’i verilecek muhtasar beyanname üzerinden tahakkuk eden vergiden indirilmek suretiyle terkin edilir. Bu süre içerisinde, anılan maddenin bu maddeye aykırı olan hükmü uygulanmaz.”
 
-MADDE 9 – 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 32 nci maddesinden sonra gelmek üzere aşağıdaki 32/A maddesi eklenmiştir.
+**MADDE 9 –** 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 32 nci maddesinden sonra gelmek üzere aşağıdaki 32/A maddesi eklenmiştir.
 “İndirimli kurumlar vergisi
 
 MADDE 32/A – (1) Finans ve sigortacılık sektörlerinde faaliyet gösteren kurumlar, iş ortaklıkları, taahhüt işleri, 16/7/1997 tarihli ve 4283 sayılı Kanun ile 8/6/1994 tarihli ve 3996 sayılı Kanun kapsamında yapılan yatırımlar ile rödovans sözleşmelerine bağlı olarak yapılan yatırımlar hariç olmak üzere, bu maddenin ikinci fıkrasında belirtilen ve Hazine Müsteşarlığı tarafından teşvik belgesine bağlanan yatırımlardan elde edilen kazançlar, yatırımın kısmen veya tamamen işletilmesine başlanılan hesap döneminden itibaren yatırıma katkı tutarına ulaşıncaya kadar indirimli oranlar üzerinden kurumlar vergisine tabi tutulur.
@@ -67,56 +67,56 @@ Kazancın ayrı bir şekilde tespit edilememesi halinde ise indirimli oran uygul
 (8) Bu madde gelir vergisi mükellefleri hakkında da uygulanır.
 (9) Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.”
 
-MADDE 10 – 5520 sayılı Kurumlar Vergisi Kanununa aşağıdaki geçici maddeler eklenmiştir.
+**MADDE 10 –** 5520 sayılı Kurumlar Vergisi Kanununa aşağıdaki geçici maddeler eklenmiştir.
 “GEÇİCİ MADDE 3 – (1) Bu Kanunun 2 nci maddesinin birinci fıkrasında belirtilen fonlardan, katılımcıları ya da kurucuları tam mükellef gerçek kişi veya kurum olmayanların portföylerini yöneten ve Sermaye Piyasası Kurulunun izniyle kurulan portföy yönetim şirketleri, geçici 1 inci maddenin üçüncü fıkrasının uygulanması yönünden bu fonların iş merkezi olarak değerlendirilmez, daimi temsilcileri sayılır.
 
 GEÇİCİ MADDE 4 – (1) Münhasıran tekstil, konfeksiyon ve hazır giyim, deri ve deri mamulleri sektörlerinde faaliyette bulunanlardan üretim tesislerini Bakanlar Kurulunca belirlenen illere 31/12/2010 tarihine kadar nakleden ve asgari 50 kişilik istihdam sağlayan mükelleflerin, bu illerdeki işletmelerinden sağladıkları kazançlar için nakil tarihini izleyen hesap döneminden itibaren beş yıl süreyle kurumlar vergisi oranını % 75'i geçmemek üzere indirimli uygulatmaya Bakanlar Kurulu yetkilidir. Bu madde hükmünden gelir vergisi mükellefleri de yararlanır. Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.”
 
-MADDE 11 – 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 12 nci maddesinin (1) numaralı fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11 –** 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 12 nci maddesinin (1) numaralı fıkrası aşağıdaki şekilde değiştirilmiştir.
 “1. Bir teslimin ihracat teslimi sayılabilmesi için aşağıdaki şartlar yerine getirilmiş olmalıdır:
 a) Teslim yurt dışındaki bir müşteriye veya bir serbest bölgedeki alıcıya ya da yetkili gümrük antreposu işleticisine yapılmalı veya mallar yetkili gümrük antreposu işleticisine tevdi edilmelidir.
 b) Teslim konusu mal Türkiye Cumhuriyeti gümrük bölgesinden çıkarak bir dış ülkeye veya bir serbest bölgeye vasıl olmalı ya da yetkili gümrük antreposuna konulmalıdır. Teslim konusu malın ihraç edilmeden önce yurt dışındaki alıcı adına hareket eden yurt içindeki firmalar veya bizzat alıcı tarafından işlenmesi veya herhangi bir şekilde değerlendirilmesi durumu değiştirmez.
 Yetkili gümrük antrepoları ile buralarda düzenlenmesi zorunlu belgeleri belirlemeye, konulacak malın cinsi ve miktarı ile bunların antrepoda bekleme sürelerine ilişkin olarak sınırlama getirmeye, Gümrük Müsteşarlığının görüşü alınmak suretiyle Maliye Bakanlığı yetkilidir.
 Yetkili gümrük antrepolarının işleyişine ilişkin olarak bu fıkra uyarınca belirlenen esaslara uyulmaması halinde ziyaa uğratılan vergi, buna ilişkin olarak kesilecek ceza ve hesaplanacak gecikme faizinin ödenmesinden katma değer vergisi iadesi alanla birlikte antrepo işleticisi de müteselsilen sorumludur.”
 
-MADDE 12 – 3065 sayılı Katma Değer Vergisi Kanununun 29 uncu maddesinin (2) numaralı fıkrasının sonunda yer alan “Yılı içinde mahsuben iade edilemeyen vergi nakden iade edilir. Bakanlar Kurulu, vergi nispeti indirilen mal ve hizmet grupları ile sektörler itibarıyla, amortismana tabi iktisadi kıymetler dolayısıyla yüklenilen katma değer vergisinin iade hakkını kaldırmaya; Maliye Bakanlığı, bu fıkranın uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.”
+**MADDE 12 –** 3065 sayılı Katma Değer Vergisi Kanununun 29 uncu maddesinin (2) numaralı fıkrasının sonunda yer alan “Yılı içinde mahsuben iade edilemeyen vergi nakden iade edilir. Bakanlar Kurulu, vergi nispeti indirilen mal ve hizmet grupları ile sektörler itibarıyla, amortismana tabi iktisadi kıymetler dolayısıyla yüklenilen katma değer vergisinin iade hakkını kaldırmaya; Maliye Bakanlığı, bu fıkranın uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.”
 ibaresi “Yılı içinde mahsuben iade edilemeyen vergi izleyen yıl içinde talep edilmesi şartıyla nakden veya mükellefin yukarıda sayılan borçlarına mahsuben iade edilir. Bakanlar Kurulu, vergi nispeti indirilen mal ve hizmet grupları ile sektörler itibarıyla, iade hakkını kısmen veya tamamen ya da amortismana tabi iktisadi kıymetler dolayısıyla yüklenilen katma değer vergisi ile sınırlı olmak üzere kaldırmaya; Maliye Bakanlığı, bu fıkranın uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.” şeklinde değiştirilmiştir.
 
-MADDE 13 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı Listenin (B) cetvelinde yer alan bazı mallara ilişkin özel tüketim vergisi, bu Kanuna ekli (1) sayılı cetvelde karşılarında gösterildiği tutarlarda tespit edilmiş, aynı (I) sayılı Listenin (B) cetveline, bu Kanuna ekli (2) sayılı cetvelde yer alan G.T.İ.P. numaralı mallar, vergi tutarları ile birlikte eklenmiştir.
+**MADDE 13 –** 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı Listenin (B) cetvelinde yer alan bazı mallara ilişkin özel tüketim vergisi, bu Kanuna ekli (1) sayılı cetvelde karşılarında gösterildiği tutarlarda tespit edilmiş, aynı (I) sayılı Listenin (B) cetveline, bu Kanuna ekli (2) sayılı cetvelde yer alan G.T.İ.P. numaralı mallar, vergi tutarları ile birlikte eklenmiştir.
 
-MADDE 14 – 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 39 uncu maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiş, aynı fıkraya aşağıdaki bent eklenmiş ve maddenin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 14 –** 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 39 uncu maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiş, aynı fıkraya aşağıdaki bent eklenmiş ve maddenin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “c) Kablolu, kablosuz ve mobil internet servis sağlayıcılığı hizmeti % 5,
 d) (a), (b) ve (c) bentleri kapsamına girmeyen diğer telekomünikasyon hizmetleri %15,” “Birinci fıkranın (a), (b), (c) ve (d) bentlerinde yer alan hizmetlerin birlikte veya birbiriyle bağlantılı olarak verilmesi halinde, her hizmet tabi olduğu oran üzerinden vergilendirilir. Bakanlar Kurulu, % 25 ve % 15 oranlarını ayrı ayrı veya birlikte % 5’e, % 5 oranını ise sıfıra kadar indirmeye ve bu oranları kanuni oranlarına kadar artırmaya yetkilidir.”
 
-MADDE 15 – 1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununa ekli (1) sayılı tablonun “IV- Makbuzlar ve diğer kağıtlar” başlıklı bölümünün ikinci fıkrasının sonuna aşağıdaki bent eklenmiştir.
+**MADDE 15 –** 1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununa ekli (1) sayılı tablonun “IV- Makbuzlar ve diğer kağıtlar” başlıklı bölümünün ikinci fıkrasının sonuna aşağıdaki bent eklenmiştir.
 “f) Elektronik ortamda birlikte verilen muhtasar beyanname ve sigorta prim bildirgesinden sadece muhtasar beyanname için 20 TL”
 
-MADDE 16 – 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 63 üncü maddesinin ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 16 –** 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 63 üncü maddesinin ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Kat irtifaklı gayrimenkul devir ve iktisaplarında harç, devir ve iktisap bedelinin tamamı üzerinden hesaplanır.”
 
-MADDE 17 – 492 sayılı Harçlar Kanununun (4) sayılı tarifesinin “I-Tapu işlemleri” başlıklı bölümünün 12 numaralı fıkrası, 13 numaralı fıkrasının (a) ve (c) bentleri ile 20 numaralı fıkrasının (e) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 17 –** 492 sayılı Harçlar Kanununun (4) sayılı tarifesinin “I-Tapu işlemleri” başlıklı bölümünün 12 numaralı fıkrası, 13 numaralı fıkrasının (a) ve (c) bentleri ile 20 numaralı fıkrasının (e) bendi aşağıdaki şekilde değiştirilmiştir.
 “12.
 Satış vaadi sözleşmeleri ile irtifak hakkı tesisi vaadi sözleşmelerinin tapu siciline şerhinde, sözleşmede yazılı bedel üzerinden (Bu bedel, sözleşmeye konu gayrimenkulün emlak vergisi değerinden az, emlak vergisi değerinin iki katından çok olamaz) bedelsiz olanlarında emlak vergisi değeri üzerinden (Binde 5,4)” “a) Arsa ve arazi üzerine inşa olunacak bina vesair tesislerin tescilinde (Her bir bağımsız bölüm vesair tesis için) 100 TL Bayındırlık ve İskan Bakanlığının görüşü alınarak Maliye Bakanlığınca tespit ve ilan edilmiş bulunan sosyal mesken, işçi evleri ve bunlardan daha düşük nitelikteki meskenlerin tescilinde (Her bir bağımsız bölüm için) 50 TL Tapu siciline tescil yapılmaması halinde de bu harcın tahsili aynı esaslar dahilinde yürütülür.”
 “c) (a) fıkrası dışında kalan her nevi cins ve kayıt tashihinde (her bir işlem için) 50 TL” “e) Gayrimenkul üzerine irtifak hakkı tesis ve devrinde (634 sayılı Kat Mülkiyeti Kanununa göre yapılan kat irtifakları hariç olmak üzere) tesis ve devir için ödenen bedel (Bu bedel, üzerinde hak tesis edilen gayrimenkulün emlak vergisi değerinin iki katından çok olamaz) üzerinden devir alan için (Binde 15)”
 
-MADDE 18 – 19/3/1985 tarihli ve 3167 sayılı Çekle Ödemelerin Düzenlenmesi ve Çek Hamillerinin Korunması Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 18 –** 19/3/1985 tarihli ve 3167 sayılı Çekle Ödemelerin Düzenlenmesi ve Çek Hamillerinin Korunması Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 2 – 31/12/2009 tarihine kadar, üzerinde yazılı keşide tarihinden önce çekin ödenmek için muhatap bankaya ibrazı geçersizdir.”
 
-MADDE 19 – 2/7/1992 tarihli ve 3835 sayılı Ahıska Türklerinin Türkiye’ye Kabulü ve İskanına Dair Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 19 –** 2/7/1992 tarihli ve 3835 sayılı Ahıska Türklerinin Türkiye’ye Kabulü ve İskanına Dair Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 1 – 1/1/2009 tarihinden önce ikamet tezkeresi almak suretiyle Türkiye'de ikamet eden Ahıska Türklerine bu maddenin yürürlüğünden itibaren 3 ay içinde müracaat etmeleri halinde;
 milli güvenlik açısından sakıncası olmamak şartıyla, 11/2/1964 tarihli ve 403 sayılı Türk Vatandaşlığı Kanunu ve diğer ilgili mevzuatta öngörülen şartlar aranmaksızın, başvuru tarihinden itibaren 6 ay içinde Türk vatandaşlığına alınarak çifte vatandaşlık statüsü sağlanır. Çifte vatandaşlık statüsü sağlananlar, Bakanlar Kurulunca belirlenen yerlerde iskân edilirler.”
 
-MADDE 20 – 5/5/2005 tarihli ve 5345 sayılı Gelir İdaresi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 11 inci maddesinin birinci fıkrasının (j) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut (k) bendi (l) bendi olarak teselsül ettirilmiştir.
+**MADDE 20 –** 5/5/2005 tarihli ve 5345 sayılı Gelir İdaresi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 11 inci maddesinin birinci fıkrasının (j) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut (k) bendi (l) bendi olarak teselsül ettirilmiştir.
 “k) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu kapsamındaki kamu idarelerine verilmesi gereken her türlü beyanname, bildirge ve benzeri belgeleri, bu idarelerin mevzuatı gereğince elektronik ortamda bunlar adına almak.”
 
-MADDE 21 – 5345 sayılı Gelir İdaresi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 29 uncu maddesinin üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
+**MADDE 21 –** 5345 sayılı Gelir İdaresi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 29 uncu maddesinin üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
 “Gelir İdaresi grup müdürü, vergi dairesi müdürü, müdür, vergi dairesi müdür yardımcısı ve müdür yardımcısı kadrolarına atanacakların, yapılacak yazılı ve sözlü sınavlardan ayrı ayrı yüz tam puan üzerinden en az yetmiş puan almaları şarttır. Şu kadar ki, Devlet gelir uzmanlığına atandıktan sonra bu unvanda en az beş yıl hizmeti bulunanlar sınava tabi tutulmadan müdür olarak atanabilirler. Bu sınavlara katılacak personelin belirlenmesi ile sınavlara ilişkin usul ve esaslar yönetmelikle düzenlenir.
 Vergi dairesi müdürleri, müdürler ve bunların yardımcıları ile vergi denetmenleri yer değiştirme suretiyle atamaya tabi olup, buna ilişkin usul ve esaslar yönetmelikle düzenlenir.”
 
-MADDE 22 – 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununun geçici 7 nci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 22 –** 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununun geçici 7 nci maddesine aşağıdaki fıkra eklenmiştir.
 “1/1/2005 tarihinden önce kesinleşen imar planlarında küçük sanayi sitesi olarak ayrılan veya aynı tarihten önce, Bakanlık tarafından onaylanan ve yatırım programına alınan OSB’lerin bulunduğu alanlardaki mera vasıflı taşınmazlar hakkında; ilgili kamu idarelerince daha önce yapılan kamulaştırma ve diğer işlemler, tezyidi bedel dahil kamulaştırma, faiz ve diğer bedellerin ödenmesi kaydıyla geçerli kabul edilir, bu işlemlere dayanılarak ilgili gerçek ve tüzel kişiler adına tapuda yapılan tesciller korunur, mülkiyete yönelik Hazinece dava açılmaz, açılmış davalardan vazgeçilir, açılan davalar sonucunda bu taşınmazların mera olarak sınırlandırılmasına ve özel sicile yazılmasına dair verilen ve kesinleşen mahkeme kararları uygulanmaz ve bu kararlar uyarınca tapu kütüklerine konulan şerhler terkin edilir.”
 
-MADDE 23 – 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 23 –** 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “EK MADDE 3 – 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 32/A maddesi kapsamındaki yatırımlarla ilgili olarak talep edilen taşınmazın bulunduğu ilçenin mülki sınırları içindeki organize sanayi veya endüstri bölgelerinde bu yatırımlar için tahsis edilebilecek boş parsel bulunmaması, gerçekleştirilecek yatırımın toplam tutarının, talep edilen taşınmazların maliki idarelerce takdir edilecek rayiç değerinin tarım ve hayvancılık yatırımları için bir, turizm yatırımları için iki, diğer yatırımlar için üç katından az olmaması kaydıyla; Hazineye, özel bütçeli idarelere, il özel idarelerine veya belediyelere ait arazi veya arsaların üzerinde kırkdokuz yıl süreli bağımsız ve sürekli nitelikli irtifak hakkı tesis edilebilir. 31/8/1956 tarihli ve 6831 sayılı Orman Kanununa tabi alanlar hariç olmak üzere, Devletin hüküm ve tasarrufu altında bulunması nedeniyle irtifak hakkı tesis edilemeyen taşınmazlar üzerinde ise aynı şartlarla kırkdokuz yıl süreli kullanma izni verilebilir.
 Yatırımcılar lehine tesis edilecek irtifak hakkı veya kullanma izinlerinde ilk yıl bedeli, yatırım konusu taşınmazın emlak vergi değerinin yüzde üçüdür.
 İrtifak hakkı veya kullanma izni verilenlerden ayrıca hasılat payı alınmaz.
@@ -128,16 +128,16 @@ Yatırımcının bu madde kapsamında belirlenen şartlara uymadığının veya 
 Hazineye ait taşınmazlar; tarım ve hayvancılık yatırımları hariç olmak üzere, birinci fıkra kapsamında en az ellimilyon ABD Doları karşılığı Türk Lirası tutarında, en az yüz kişiye istihdam sağlayacak şekilde ve taşınmazın rayiç değerinin en az üç katı tutarında yatırım yapacaklara, 492 sayılı Harçlar Kanununun 63 üncü maddesinde yer alan harca esas değer üzerinden doğrudan satılabilir. Bu yerlerin amacı dışında kullanılmayacağına dair tapu kütüğüne şerh konulur.
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye ve ikinci fıkrada belirtilen bedeli Bakanlar Kurulunca belirlenecek bölgeler itibarıyla farklılaştırmaya ve sıfıra kadar indirmeye Maliye Bakanlığı yetkilidir.”
 
-MADDE 24 – 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 24 –** 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 11 – 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu uyarınca sit alanı ilan edilmesi nedeniyle kesin inşaat yasağı getirilen alanlarda kalan taşınmazlar için bu maddenin yayımı tarihinden önce düzenlenmiş olup 31/12/2011 tarihine kadar kullanılmayan veya kısmen kullanılan belgeler iptal edilir ve yenisi düzenlenmez.”
 
-MADDE 25 – 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 25 –** 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 19 – Toprak Mahsulleri Ofisi Genel Müdürlüğünün 2009 yılı finansman açığının karşılanmasını teminen Hazineden olan görev zararı alacaklarına ve ödenmemiş sermayesine mahsuben Müsteşarlıkça Toprak Mahsulleri Ofisi Genel Müdürlüğüne Özel Tertip Devlet İç Borçlanma Senedi ihraç edilebilir. Bu kapsamda ihraç edilecek Özel Tertip Devlet İç Borçlanma senetleri için, Müsteşarlık Bütçesinin ilgili tertiplerine 1 milyar Türk Lirasına kadar ödenek eklemeye Maliye Bakanı yetkilidir.”
 
-MADDE 26 – 29/5/1986 tarihli ve 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanununun 4 üncü maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 26 –** 29/5/1986 tarihli ve 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanununun 4 üncü maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Bu maddenin (d) bendinde yer alan gelirler hakkında 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 17 nci maddesinin üçüncü fıkrasının birinci cümlesi hükmü uygulanmaz. Bu gelirler tahsilatın yapıldığı ayı takip eden ayın sonuna kadar vergi daireleri ve muhasebe birimleri tarafından Maliye Bakanlığınca belirlenen esaslara göre, Türkiye Cumhuriyet Merkez Bankası nezdindeki Fon hesabına aktarılır.”
 
-MADDE 27 – 10/10/1984 tarihli ve 3056 sayılı Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 27 –** 10/10/1984 tarihli ve 3056 sayılı Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “Ekonomi Koordinasyon Kurulu:
 
 EK MADDE 9 – Ekonomi Koordinasyon Kurulu, Başbakanın belirleyeceği bakanlardan oluşur. Kurul üyesi Başbakan Yardımcısı, Kurula başkanlık eder.
@@ -153,21 +153,21 @@ f) Kurul kararlarının uygulama süreçlerini izlemek, değerlendirmek; sonuçl
 Ekonomi Koordinasyon Kurulunun çalışma usul ve esasları, Kurulda temsil edilecek kamu ve özel sektör kurum ve kuruluşları ile sekreterya hizmetlerine ilişkin hususlar yönetmelikle belirlenir.
 Kurul, görev alanına giren konularla ilgili her türlü bilgi ve veriyi, bakanlıklar ve kamu kurum ve kuruluşlarından isteme yetkisine sahiptir.”
 
-MADDE 28 – 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 65 inci maddesi, başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 28 –** 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 65 inci maddesi, başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Baro keseneği:
 
 MADDE 65 – Baro keseneğinin yıllık miktarı, genel kurulca belirlenir ve her yılın ocak ve temmuz aylarında iki eşit taksitte ödenir. Vadesinde ödenmeyen keseneğe T.C.
 Merkez Bankası reeskont işlemlerinde uygulanan faiz oranında yıllık temerrüt faizi uygulanır.
 Avukatlık Kanununun 72 ve 73 üncü madde hükümleri saklıdır.”
 
-MADDE 29 – 1136 sayılı Avukatlık Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 29 –** 1136 sayılı Avukatlık Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 22 – Bu maddenin yürürlüğe girdiği tarih itibarıyla ödenmemiş baro keseneği borcunun tamamının, bu maddenin yürürlük tarihinden itibaren altı ay içinde ödenmesi halinde, işlemiş faiz borcu silinir. Baro keseneğinin ödenmemesine bağlı olarak yürütülen levhadan ve sicilden silme işlemleri, altı ay süreyle durdurulur.”
 
-MADDE 30 – 29/1/2004 tarihli ve 5084 sayılı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 30 –** 29/1/2004 tarihli ve 5084 sayılı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 3 – Bu maddenin yürürlüğe girdiği tarihte bedelsiz irtifak hakkı tesis edilmek veya kullanma izni verilmek amacıyla ilana çıkılmış ancak, işlemleri tamamlanmamış taşınmazlar hakkında, mülga 5 inci madde hükümleri uygulanır.
 Mülga 5 inci madde kapsamında bedelsiz irtifak hakkı tesis edilen veya kullanma izni verilen taşınmazlar hakkında söz konusu hükümlerin uygulanmasına devam edilir.”
 
-MADDE 31 – 18/5/2004 tarihli ve 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 31 –** 18/5/2004 tarihli ve 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 16 – Üyelerin oda ve borsalara, oda ve borsaların da Birliğe ödenmiş aidat borçlarına ait gecikme zamlarının tamamı ile bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde üyelerin oda ve borsalara, oda ve borsaların Birliğe olan aidat borçlarının tamamının ödenmesi halinde, bu borçlara ait gecikme zamları silinir.”
 
 MADDE 32 – (1) 4447 sayılı İşsizlik Sigortası Kanununun geçici 7 nci maddesinin birinci fıkrasındaki “bu maddenin yürürlük tarihinden önceki altı aylık dönemde” ibaresi “bu maddenin yürürlük tarihinden önceki altı aya veya 2008 yılı Aralık ve 2009 yılı Ocak aylarına ilişkin Sosyal Güvenlik Kurumuna verilen” şeklinde ve “bir yıl” ibaresi “iki yıl” olarak değiştirilmiştir.
@@ -205,9 +205,9 @@ b) 6 ncı maddesi yürürlükten kaldırılmıştır.
 (18) 492 sayılı Harçlar Kanununun (4) sayılı tarifesinin sonunda yer alan “Bu tarifenin 13 numaralı bendinin (a) ve (c) fıkralarında belirtilen işlemlerden emlâk vergisi bildirimi verilmesini gerektirenlerin 1319 sayılı Emlâk Vergisi Kanununda yazılı bildirim verme süresi sonuna kadar tapuda gösterilmemesi halinde harç % 50 fazlasıyla alınır.” hükmü yürürlükten kaldırılmıştır.
 (19) 29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanununun 711 inci maddesinin üçüncü fıkrası yürürlükten kaldırılmıştır.
 
-GEÇİCİ MADDE 1 – Menkul kıymet yatırım fonlarının sermaye piyasalarında yaptıkları işlemlerle ilgili olarak, bu maddenin yürürlüğe girdiği tarihten önceki dönemler için banka ve sigorta muameleleri vergisi tarhiyatı yapılmaz, daha önce yapılan tarhiyatlardan vazgeçilir, tahakkuk eden tutarlar terkin edilir. Tahsil edilmiş tutarlar red ve iade edilmez.
+**GEÇİCİ MADDE 1 –** Menkul kıymet yatırım fonlarının sermaye piyasalarında yaptıkları işlemlerle ilgili olarak, bu maddenin yürürlüğe girdiği tarihten önceki dönemler için banka ve sigorta muameleleri vergisi tarhiyatı yapılmaz, daha önce yapılan tarhiyatlardan vazgeçilir, tahakkuk eden tutarlar terkin edilir. Tahsil edilmiş tutarlar red ve iade edilmez.
 
-GEÇİCİ MADDE 2 – İlgili trafik sicilinde adlarına kayıt ve tescilli bulunan, model yılı 1979 veya daha eski olan motorlu taşıtlarını;
+**GEÇİCİ MADDE 2 –** İlgili trafik sicilinde adlarına kayıt ve tescilli bulunan, model yılı 1979 veya daha eski olan motorlu taşıtlarını;
 bu maddenin yürürlüğe girdiği tarihten itibaren 30/6/2010 tarihine kadar ilgili yönetmelik hükümleri gereğince kayıt ve tescillerinin silinmesi ve hurdaya çıkarılması suretiyle il özel idarelerine bedelsiz olarak teslim edenler adına veya 10/7/2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanununun 33 üncü maddesinin beşinci fıkrasında düzenlenen uygulama çerçevesinde Makina ve Kimya Endüstrisi Kurumu (MKEK) Hurda İşletmesi Müdürlüğüne ait hurda müdürlüklerinden herhangi birine teslim eden gerçek ve tüzel kişilerden, yük ve yolcu taşımacılığı dışında bilanço esasına göre defter tutmayı gerektiren başkaca ticari veya mesleki faaliyetten dolayı mükellefiyeti bulunmayanlar adına, hurdaya çıkarılan taşıta ilişkin olarak 31/12/2009 tarihine kadar tahakkuk etmiş ve ödenmemiş olan motorlu taşıtlar vergisi ile bu vergiye ilişkin gecikme zammı, gecikme faizi, vergi cezaları ve 31/12/2008 tarihine kadar tescil plakasına kesilen idari para cezaları terkin edilir.
 Motorlu taşıtlarını noter satış senediyle veya kamu kurum ve kuruluşlarından satın alıp ilgili trafik tescil kuruluşunda adlarına kayıt ve tescil ettirmemiş olan ve bu maddenin yürürlüğe girdiği tarih itibarıyla yük ve yolcu taşımacılığı dışında bilanço esasına göre defter tutmayı gerektiren başkaca ticari veya mesleki faaliyetten dolayı mükellefiyeti bulunmayan gerçek ve tüzel kişiler, bu maddenin yürürlüğe girdiği tarihten itibaren 31/12/2009 tarihine kadar kayıt ve tescil işlemlerini tamamlayarak bu maddenin öngördüğü diğer şartları da yerine getirmeleri halinde bu madde hükmünden yararlanabilirler.
 Bu madde kapsamında trafik tescil kayıtları silinen motorlu taşıtların, adlarına tescil kaydı bulunanlar tarafından ilgili kurumlara teslimi ile il özel idarelerinin bu kapsamda teslim aldıkları hurda taşıtların satışından elde ettikleri kazançlar ve bu faaliyetlerle ilgili olarak yapılan işlemler ve düzenlenen kağıtlar her türlü vergi, resim ve harçtan müstesnadır, bu madde kapsamında yapılan motorlu taşıt teslimlerine ilişkin olarak 3065 sayılı Katma Değer Vergisi Kanununun 30 uncu maddesinin (a) bendi hükmü uygulanmaz.
@@ -219,16 +219,16 @@ Bu madde hükmünden gerçeğe aykırı bildirimde bulunmak suretiyle yararlanan
 Bu madde kapsamında tescil kayıtları silinen motorlu taşıtlara ait daha önce ödenmiş olan motorlu taşıtlar vergisi ile buna ilişkin gecikme zammı, gecikme faizi, vergi cezaları ve idari para cezaları red ve iade edilmez. Tescil kayıtları silinen bu taşıtlar üzerine 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tatbik edilmiş olan hacizler kaldırılır.
 Dördüncü fıkra gereğince trafik tescil kayıtları silinecek taşıtların, motorlu taşıt vasfını kaybettikleri haller ile mevcut olmadıklarının kabul edileceği durumları tespite ve bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye, İçişleri ve Maliye bakanlıkları müştereken yetkilidir.
 
-GEÇİCİ MADDE 3 – 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (II) sayılı listede yer alan ve 1/8/2002 - 21/7/2005 tarihleri arasında 87.03 G.T.İ.P. numarasından özel tüketim vergisi beyan edilmesi gerekirken 87.04 G.T.İ.P. numarasından özel tüketim vergisi beyan edilen araçlarla ilgili olarak, bu maddenin yürürlüğe girdiği tarihten önceki dönemler için özel tüketim vergisi tarhiyatı yapılmaz, daha önce yapılan tarhiyatlardan vazgeçilir, tahakkuk eden tutarlar terkin edilir. Tahsil edilmiş tutarlar red ve iade edilmez.
+**GEÇİCİ MADDE 3 –** 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (II) sayılı listede yer alan ve 1/8/2002 - 21/7/2005 tarihleri arasında 87.03 G.T.İ.P. numarasından özel tüketim vergisi beyan edilmesi gerekirken 87.04 G.T.İ.P. numarasından özel tüketim vergisi beyan edilen araçlarla ilgili olarak, bu maddenin yürürlüğe girdiği tarihten önceki dönemler için özel tüketim vergisi tarhiyatı yapılmaz, daha önce yapılan tarhiyatlardan vazgeçilir, tahakkuk eden tutarlar terkin edilir. Tahsil edilmiş tutarlar red ve iade edilmez.
 
 GEÇİCİ MADDE 4 – Bu Kanunun yayımlandığı tarihten önce yeterlik sınavına giren vergi denetmen yardımcılarından, yapılan bu sınavlarda başarılı olamayan ve halen Gelir İdaresi Başkanlığı kadrolarında görev yapanlar, bu Kanunun yayımlandığı tarihten itibaren altı aydan az olmamak üzere Gelir İdaresi Başkanlığı tarafından belirlenecek tarihte bir defaya mahsus olmak üzere düzenlenecek yeterlik sınavına çağrılırlar. Yapılan yeterlik sınavına girenlerden başarılı olanlar vergi denetmenliğine, başarılı olamayanlar ise derecelerine uygun memur kadrosuna atanırlar.
 Bu Kanunun yayımlandığı tarihten önce yapılan gelir uzmanlığı özel sınavlarının birinde aldığı not daha sonra yapılan sınavda geçerli sayılarak gelir uzmanlığı kadrolarına atanmış olanların bu atamaları kazanılmış hak olarak kabul edilir ve bu gerekçe ile atamalarının iptaline yönelik işlem yapılmaz.
 
-GEÇİCİ MADDE 5 – 7/6/2005 tarihli ve 5362 sayılı Esnaf ve Sanatkarlar Meslek Kuruluşları Kanunu kapsamındaki üyelerin odalara, odaların Birliğe olan ödenmemiş aidat borçlarına ait gecikme zammının tamamı ile bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde üyelerin odalara, odaların Birliğe olan aidat borçlarının tamamının ödenmesi halinde bu borçlara ait gecikme zamları silinir.
+**GEÇİCİ MADDE 5 –** 7/6/2005 tarihli ve 5362 sayılı Esnaf ve Sanatkarlar Meslek Kuruluşları Kanunu kapsamındaki üyelerin odalara, odaların Birliğe olan ödenmemiş aidat borçlarına ait gecikme zammının tamamı ile bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde üyelerin odalara, odaların Birliğe olan aidat borçlarının tamamının ödenmesi halinde bu borçlara ait gecikme zamları silinir.
 
-GEÇİCİ MADDE 6 – Bu Kanunla 492 sayılı Harçlar Kanununun (4) sayılı tarifesinin “I-Tapu İşlemleri” başlıklı bölümünün (13) numaralı fıkrasının (a) ve (c) bentlerinde yapılan değişiklik ile aynı tarifenin sonunda yer alan hükmün kaldırılmasına yönelik düzenleme, bu Kanunun yayımlandığı tarihten önce; cins tashihi yapılmamış arsa ve arazi üzerine inşa olunan bina vesair tesislerin tescili ile Bayındırlık ve İskan Bakanlığının görüşü alınarak Maliye Bakanlığınca tespit ve ilan edilmiş bulunan sosyal mesken, işçi evleri ve bunlardan daha düşük nitelikteki meskenlerin tescilinde ve bunların dışında kalan her nevi cins ve kayıt tashihinde de uygulanır ve ayrıca vergi cezası ve gecikme faizi aranmaz. Ancak, bu Kanunun yayımı tarihinden önce tahsil edilmiş tutarlar iade edilmez, tarh ve tahakkuk ettirilmiş olan harçların takip ve tahsiline devam edilir.
+**GEÇİCİ MADDE 6 –** Bu Kanunla 492 sayılı Harçlar Kanununun (4) sayılı tarifesinin “I-Tapu İşlemleri” başlıklı bölümünün (13) numaralı fıkrasının (a) ve (c) bentlerinde yapılan değişiklik ile aynı tarifenin sonunda yer alan hükmün kaldırılmasına yönelik düzenleme, bu Kanunun yayımlandığı tarihten önce; cins tashihi yapılmamış arsa ve arazi üzerine inşa olunan bina vesair tesislerin tescili ile Bayındırlık ve İskan Bakanlığının görüşü alınarak Maliye Bakanlığınca tespit ve ilan edilmiş bulunan sosyal mesken, işçi evleri ve bunlardan daha düşük nitelikteki meskenlerin tescilinde ve bunların dışında kalan her nevi cins ve kayıt tashihinde de uygulanır ve ayrıca vergi cezası ve gecikme faizi aranmaz. Ancak, bu Kanunun yayımı tarihinden önce tahsil edilmiş tutarlar iade edilmez, tarh ve tahakkuk ettirilmiş olan harçların takip ve tahsiline devam edilir.
 
-MADDE 33 – Bu Kanunun;
+**MADDE 33 –** Bu Kanunun;
 a) 8 inci maddesi, 14 üncü maddesi, 32 nci maddesinin (1) ve (8) numaralı fıkraları ile geçici 1 inci maddesi yayımını izleyen aybaşında,
 b) 32 nci maddesinin (6) , (7) ve (13) numaralı fıkraları 1/1/2009 tarihinden geçerli olmak üzere yayımı tarihinde,
 c) 32 nci maddesinin (2) numaralı fıkrasının (a) ve (c) bentleri 1/10/2008 tarihinden geçerli olmak üzere yayımı tarihinde,
@@ -236,4 +236,4 @@ c) 32 nci maddesinin (2) numaralı fıkrasının (a) ve (c) bentleri 1/10/2008 t
 d) 26 ncı maddesi 1/1/2010 tarihinde,
 e) Diğer hükümleri yayımı tarihinde, yürürlüğe girer.
 
-MADDE 34 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 34 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

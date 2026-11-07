@@ -10,11 +10,11 @@ durum: "yürürlükte"
 
 ## T.C. SAĞLIK BAKANLIĞI
 
-Sayı : B100PER0140000 Konu : İKYS Genelgesi
+**Sayı :** B100PER0140000 **Konu :** İKYS Genelgesi
 
 ### ……………………….VALİLİĞİNE (Sağlık Müdürlüğüne) (Genelge No 82)
 
-İlgi : 08.06.2004 tarih ve 25486 sayılı Resmi Gazetede yayınlanan Atama ve Nakil Yönetmeliğinin 34. Maddesine göre.
+**İlgi :** 08.06.2004 tarih ve 25486 sayılı Resmi Gazetede yayınlanan Atama ve Nakil Yönetmeliğinin 34. Maddesine göre.
 
 İkinci Sağlık Projesi kapsamında Yönetim Destek Hizmetleri ( MSA ) Analaşması çerçevesinde Birleşmiş Milletler Destek Ofisi ( UNDP ) aracılığı ile Bakanlığımız Sağlık Projesi Koordinatörlüğü ve Bilgi İşlem Daire Başkanlığının sorumluluğunda geliştirilmekte olan Çekirdek Kaynak Yönetimi Sistemi ( ÇKYS ) Personel Genel Müdürlüğümüzün İnsan Kaynakları Yönetim Sistemi ( İKYS ) 21 Temmuz 2003 tarihinde fiilen uygulamaya konulmuştur.Genel Müdürlüğümüz bünyesindeki tüm birimler tarafından, İKYS modülleri etkin ve verimli bir şekilde kullanılmaya başlanmıştır. Ancak, İL Sağlık Müdürlüklerinde İKYS modüllerinin kullanımın yeterli seviyede olmadığı anlaşılmaktadır.
 

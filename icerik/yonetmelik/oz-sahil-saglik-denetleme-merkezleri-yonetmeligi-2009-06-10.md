@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -38,7 +38,7 @@ a) Bakan: Sağlık Bakanını,
 
 b) Bakanlık: Sağlık Bakanlığını,
 
-c) (Değişik ibare:RG-13/4/2019-30744) Bölge Baştabipliği: Hizmetlerin hızlı, ekonomik ve verimli bir şekilde yürütülmesi ve denetimi için Genel Müdürlük tarafından Türkiye’nin coğrafi durumu ve hizmetin gerekliliği dikkate alınarak belli bir bölgede kurulmuş olan, bu bölgedeki sağlık denetleme merkezlerinin bağlı olduğu birimlerden her birini,
+c) **(Değişik ibare:RG-13/4/2019-30744)** Bölge Baştabipliği: Hizmetlerin hızlı, ekonomik ve verimli bir şekilde yürütülmesi ve denetimi için Genel Müdürlük tarafından Türkiye’nin coğrafi durumu ve hizmetin gerekliliği dikkate alınarak belli bir bölgede kurulmuş olan, bu bölgedeki sağlık denetleme merkezlerinin bağlı olduğu birimlerden her birini,
 
 ç) Bulaşık kişi: Halk sağlığı riski oluşturabilecek bir bulaşıcı hastalığa yakalanmış olan ya da böyle bir hastalığın kuluçka dönemi içinde olduğu sonradan anlaşılan kişiyi,
 
@@ -54,9 +54,9 @@ g) Etkilenmiş bölge: Dünya Sağlık Örgütü tarafından, Tüzük kapsamınd
 
 ğ) Gemiadamı: Geminin kaptanını, zabitlerini, yardımcı zabitlerini, stajyerlerini, tayfalarını ve yardımcı hizmet personelini,
 
-h) Genel Müdür: (Değişik ibare:RG-13/4/2019-30744) Türkiye Hudut ve Sahiller Sağlık Genel Müdürünü ,
+h) Genel Müdür: **(Değişik ibare:RG-13/4/2019-30744)** Türkiye Hudut ve Sahiller Sağlık Genel Müdürünü ,
 
-ı) Genel Müdürlük: (Değişik ibare:RG-13/4/2019-30744) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü ,
+ı) Genel Müdürlük: **(Değişik ibare:RG-13/4/2019-30744)** Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü ,
 
 i) Halk sağlığı riski: Uluslararası düzeyde yayılabilecek veya ciddi ve doğrudan bir tehlike gösterebilecek olay başta olmak üzere, insan nüfusunun sağlığını olumsuz yönde etkileyebilecek bir olay ihtimalini,
 
@@ -78,7 +78,7 @@ p) Patenta: Geminin mevcut mürettebatının, taşıdığı yolcuların ve harek
 
 r) Sağlık Kontrol Kartı: Türk limanlarından yabancı limanlara giden ya da yabancı limandan gelerek Türk limanları arasında seyreden her gemiye merkezin yetkili memurları tarafından liman ve çevresinin sağlık durumunun kontrol edilip denetlendiğini; geminin mürettebat, yolcu ve yük bakımından limanda kaldığı süre içerisinde sağlık durumlarının iyi ve geminin sağlık yönünden sefere uygun olduğunu belirtmek amacıyla düzenlenen patentayı,
 
-s) Sahil Sağlık Denetleme Merkezi: (Değişik ibare:RG-13/4/2019-30744) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün limandaki sağlık birimidir. Bu Yönetmelikte merkez diye anılacaktır.
+s) Sahil Sağlık Denetleme Merkezi: **(Değişik ibare:RG-13/4/2019-30744)** Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün limandaki sağlık birimidir. Bu Yönetmelikte merkez diye anılacaktır.
 
 ş) Serbest pratika: Genel olarak, gemideki sağlık durumunun incelenmesi suretiyle, geminin Türk kıyı ve limanlarıyla ihtilatında sıhhi bir sakınca olmadığını tespit edip belgelemeyi,
 
@@ -104,7 +104,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Görev ve Sorumluluklar
+**Görev ve Sorumluluklar**
 
 #### Sağlık denetimlerinin önceliği
 
@@ -116,7 +116,7 @@ Görev ve Sorumluluklar
 
 (2) Türkiye limanlarında yapılacak sağlık denetimi ile halk sağlığına yönelik önlemlerin alınma şekli ve yetkilendirilmesi Genel Müdürlükçe belirlenir. Merkezlerin bu Yönetmelikte belirtilen iş ve işlemleri yürütmesi için gereken ve hizmetin durumuna elverişli olacak yerler, Genel Müdürlük talebi üzerine liman işletmecisi tarafından tahsis edilir.
 
-(3) Merkezler işlerini bağımsız olarak yürütürler. Yazışmalarını doğrudan (Değişik ibare:RG-13/4/2019-30744) Bölge Baştabiplikleri ve Genel Müdürlük ile yaparlar. Merkez bulunmayan limanlarda bu Yönetmelikte belirtilen iş ve işlemler Genel Müdürlükçe görevlendirilen merkez tarafından yapılır. Genel Müdürlük görevin gereği, işlem hacmi, personel durumu gibi nedenlerle merkezlerin işlemlerini birleştirerek yetkili merkez adına görev yapan mobilize merkezler oluşturabilir.
+(3) Merkezler işlerini bağımsız olarak yürütürler. Yazışmalarını doğrudan **(Değişik ibare:RG-13/4/2019-30744)** Bölge Baştabiplikleri ve Genel Müdürlük ile yaparlar. Merkez bulunmayan limanlarda bu Yönetmelikte belirtilen iş ve işlemler Genel Müdürlükçe görevlendirilen merkez tarafından yapılır. Genel Müdürlük görevin gereği, işlem hacmi, personel durumu gibi nedenlerle merkezlerin işlemlerini birleştirerek yetkili merkez adına görev yapan mobilize merkezler oluşturabilir.
 
 #### Bölge baştabiplerinin görev ve sorumlulukları
 
@@ -186,11 +186,11 @@ p) Uluslararası Cenazelerin Nakil Anlaşması hükümlerinden kaynaklanan göre
 
 r) Umumi Hıfzıssıhha Kanununda ve 6/11/1981 tarihli ve 2548 sayılı Gemi Sağlık Resmi Kanununda belirtilen görevleri yerine getirmeyen ve/veya yasaklayan fiil ve hareketleri yapan gemilere kanunda öngörülen cezai müeyyideyi uygulamak,
 
-s) Genel Müdürlük ve (Değişik ibare:RG-13/4/2019-30744) Bölge Baştabibince verilen diğer görevleri yapmaktır.
+s) Genel Müdürlük ve **(Değişik ibare:RG-13/4/2019-30744)** Bölge Baştabibince verilen diğer görevleri yapmaktır.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Gemilerin Sağlık Denetimleri
+**Gemilerin Sağlık Denetimleri**
 
 #### Gemilere ilişkin sağlık işlemleri ve yürütülmesi
 
@@ -246,11 +246,11 @@ b) Bütün gemiler; gemide bulaşıcı hastalık bulunması, bu hastalığa yaka
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Merkezler Tarafından Verilecek Sağlık Belgeleri
+**Merkezler Tarafından Verilecek Sağlık Belgeleri**
 
 #### Sağlık belgeleri
 
-**MADDE 18 –** (1) Merkezler tarafından düzenlenen sağlık belgeleri; Gemi Sağlık Kontrol Sertifikası ve Gemi Sağlık Kontrolünden Muafiyet Sertifikası, İlaç ve Tıbbi Donanım Sertifikası, Uluslararası Aşı Sertifikası, Sağlık Kontrol Kartı, Yıllık Gemi Sağlık Belgesi, Yıllık Gemi Sağlık Cüzdanı, Gemiadamı Sağlık Yoklama Belgesi, (Mülga ibare:RG-17/9/2011-28057) (1) (…) Hasta Nakil Belgesi, Personel Değişimi Belgesi ve Genel Müdürlükçe belirlenecek diğer belgelerdir.
+**MADDE 18 –** (1) Merkezler tarafından düzenlenen sağlık belgeleri; Gemi Sağlık Kontrol Sertifikası ve Gemi Sağlık Kontrolünden Muafiyet Sertifikası, İlaç ve Tıbbi Donanım Sertifikası, Uluslararası Aşı Sertifikası, Sağlık Kontrol Kartı, Yıllık Gemi Sağlık Belgesi, Yıllık Gemi Sağlık Cüzdanı, Gemiadamı Sağlık Yoklama Belgesi, **(Mülga ibare:RG-17/9/2011-28057) (1) (…)** Hasta Nakil Belgesi, Personel Değişimi Belgesi ve Genel Müdürlükçe belirlenecek diğer belgelerdir.
 
 (2) Bu Yönetmeliğin uygulanmasında kullanılacak belgeler Genel Müdürlükçe belirlenip basımı ve dağıtımı yapılır.
 
@@ -278,7 +278,7 @@ Merkezler Tarafından Verilecek Sağlık Belgeleri
 
 ### BEŞİNCİ BÖLÜM
 
-Patenta İşlemleri
+**Patenta İşlemleri**
 
 #### Patenta çeşitleri
 
@@ -324,7 +324,7 @@ a) Bulaşık limanlardan gelen gemilerin limanlarımızda tabi tutuldukları sa�
 
 b) Herhangi bir gemi, merkez tarafından tatbik edilecek sağlık tedbirini kabul etmezse, bu patentasına yazılır ve serbest pratika verilmez.
 
-c) Yabancı limanlardan gelen gemilerin sağlık bildirimlerinde ve patentalarında görülecek bulaşıcı hastalık açıklamaları derhal (Değişik ibare:RG-13/4/2019-30744) Bölge Baştabibine ve Genel Müdürlüğe bildirilir.
+c) Yabancı limanlardan gelen gemilerin sağlık bildirimlerinde ve patentalarında görülecek bulaşıcı hastalık açıklamaları derhal **(Değişik ibare:RG-13/4/2019-30744)** Bölge Baştabibine ve Genel Müdürlüğe bildirilir.
 
 #### Sağlık işlemlerinden istisna gemiler
 
@@ -346,7 +346,7 @@ e) Liman sınırları içinde çalışıp başka bir limana uğramadan geri dön
 
 ### ALTINCI BÖLÜM
 
-Türk Boğazlarını Transit Geçmek İsteyen Gemilere Yapılacak İşlemler
+**Türk Boğazlarını Transit Geçmek İsteyen Gemilere Yapılacak İşlemler**
 
 #### Mecburi transit işlemine tabi gemiler
 
@@ -366,11 +366,11 @@ b) Sağlık şartları uygun olmayan yolcuları bulunup sağlık bakımından T�
 
 #### İsteğe bağlı transit işlemine tabi gemilerin ihtilatı
 
-**MADDE 33 –** (1) Transit olarak geçmek üzere Çanakkale veya Büyükdere Merkezlerinde transit sağlık pratikası alan gemiler; Türk boğazlarında bir limana gelir veya yabancı bir limana gitmeksizin Türk boğazları dışında bir Türk limanına veya zorunlu ihtiyaçlarını karşılamak üzere İstanbul veya Çanakkale liman sahası içinde demirleyip (Değişik ibare:RG-13/4/2019-30744) 168 saatten fazla süre kalır, yük ve yolcu indirip bindirdiği takdirde, o limanda bulunan merkeze müracaat ederek serbest pratika almak zorundadır.
+**MADDE 33 –** (1) Transit olarak geçmek üzere Çanakkale veya Büyükdere Merkezlerinde transit sağlık pratikası alan gemiler; Türk boğazlarında bir limana gelir veya yabancı bir limana gitmeksizin Türk boğazları dışında bir Türk limanına veya zorunlu ihtiyaçlarını karşılamak üzere İstanbul veya Çanakkale liman sahası içinde demirleyip **(Değişik ibare:RG-13/4/2019-30744)** 168 saatten fazla süre kalır, yük ve yolcu indirip bindirdiği takdirde, o limanda bulunan merkeze müracaat ederek serbest pratika almak zorundadır.
 
 #### İsteğe bağlı transit işlemine tabi gemilerden karaya çıkacak veya gemiye girecek kimseler
 
-**MADDE 34 –** (1) Türk boğazlarında isteğe bağlı transit işlemine tabi gemilerin, demirleme sahasında (Değişik ibare:RG-13/4/2019-30744) 168 saatlik süre içerisinde merkezden izin alınması kaydıyla;
+**MADDE 34 –** (1) Türk boğazlarında isteğe bağlı transit işlemine tabi gemilerin, demirleme sahasında **(Değişik ibare:RG-13/4/2019-30744)** 168 saatlik süre içerisinde merkezden izin alınması kaydıyla;
 
 a) Meydana gelen bir arızanın incelenmesini ve onarılmasını temin etmek için uzman veya tamirci getirilmesi,
 
@@ -386,7 +386,7 @@ hallerinde transit niteliği devam eder ve bu süreyi geçiren geminin serbest p
 
 ### YEDİNCİ BÖLÜM
 
-Ceza Hükümlerinin Uygulaması ve Yasak Olan Davranışlar
+**Ceza Hükümlerinin Uygulaması ve Yasak Olan Davranışlar**
 
 #### Sağlık mevzuatına uyma zorunlulukları
 
@@ -420,7 +420,7 @@ h) Gerekli durumlarda gündüzleri geminin ön direğinde sarı karantina bayra�
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Gizlilik
 
@@ -440,7 +440,7 @@ h) Gerekli durumlarda gündüzleri geminin ön direğinde sarı karantina bayra�
 
 ______________
 
-(1) Bu değişiklik 1/1/2012 tarihinde yürürlüğe girer.
+(1) <i>Bu değişiklik 1/1/2012 tarihinde yürürlüğe girer.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

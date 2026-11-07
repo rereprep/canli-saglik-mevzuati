@@ -13,7 +13,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -69,9 +69,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Sağlık Kuruluşunun Temel Özellikleri, Tıbbi Hizmet Birimleri ve Nitelikleri,
+**Sağlık Kuruluşunun Temel Özellikleri, Tıbbi Hizmet Birimleri ve Nitelikleri,**
 
-Sağlık Kuruluşu Açmaya ve İşletmeye Yetkili Kişiler
+**Sağlık Kuruluşu Açmaya ve İşletmeye Yetkili Kişiler**
 
 #### Sağlık kuruluşunun temel özellikleri
 
@@ -85,11 +85,11 @@ c) Müessesede, yalnızca fizik tedavi ve rehabilitasyon uzmanlık dalında asga
 
 (2) Tıp merkezi personeline, hastalara ve hasta yakınlarına hizmet vermek ve işletilmek üzere kafeterya, kantin gibi kısımlar kurulabilir veya bunların işletilmesi için hizmet satın alınabilir veya bu hizmetler başkalarına gördürülebilir. Bu kısımlar, tıbbi hizmet birimlerinin bulunduğu yerler ile hasta tedavi ve istirahatini engelleyecek yerlerde kurulamaz.
 
-(3) Sağlık kuruluşu (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/4140 sayılı kararı ile yürütmesi durdurulan ibare: binası ) içinde hiçbir surette başka amaca yönelik işyeri bulunamaz ve içerisindeki bir bölüm, ikinci fıkrada yer alan işletmeler dışındaki bir amaçla faaliyet göstermek üzere üçüncü kişilere kiralanamaz veya herhangi bir şekilde devredilemez.
+(3) Sağlık kuruluşu **(Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/4140 sayılı kararı ile yürütmesi durdurulan ibare:** <i>binası )</i> içinde hiçbir surette başka amaca yönelik işyeri bulunamaz ve içerisindeki bir bölüm, ikinci fıkrada yer alan işletmeler dışındaki bir amaçla faaliyet göstermek üzere üçüncü kişilere kiralanamaz veya herhangi bir şekilde devredilemez.
 
 (4) Tıp merkezi, poliklinik ve müessese binalarının ilgili mevzuatı kapsamında deprem ve itfaiye raporunun bulunması zorunludur.
 
-(5) (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2965 sayılı kararı ile yürütmesi durdurulan fıkra: Tıp merkezi ruhsatlandırıldığı tarihten itibaren en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır. Akreditasyon belgesi alamayan tıp merkezine, hastaların görebileceği şekilde “Bu tıp merkezinin TÜSKA akreditasyon belgesi yoktur” ibareli Ek-16’da belirlenen standartlara uygun bilgilendirme tabelasının asılması zorunludur. Bakanlık tarafından TÜSKA akreditasyon belgesi olmayan tıp merkezi, her yıl ocak ayında Sosyal Güvenlik Kurumuna bildirilir. )
+(5) **(Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2965 sayılı kararı ile yürütmesi durdurulan fıkra:** <i>Tıp merkezi ruhsatlandırıldığı tarihten itibaren en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır. Akreditasyon belgesi alamayan tıp merkezine, hastaların görebileceği şekilde “Bu tıp merkezinin TÜSKA akreditasyon belgesi yoktur” ibareli Ek-16’da belirlenen standartlara uygun bilgilendirme tabelasının asılması zorunludur. Bakanlık tarafından TÜSKA akreditasyon belgesi olmayan tıp merkezi, her yıl ocak ayında Sosyal Güvenlik Kurumuna bildirilir. )</i>
 
 #### Sağlık kuruluşunun tıbbi hizmet birimleri ve nitelikleri
 
@@ -133,7 +133,7 @@ c) Müessesede, yalnızca fizik tedavi ve rehabilitasyon uzmanlık dalında asga
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Planlama, Ön İzin ve Ruhsat
+**Planlama, Ön İzin ve Ruhsat**
 
 #### Planlama
 
@@ -217,7 +217,7 @@ a) Tıp merkezi taşınmalarında iki yıl içinde ön izin belgesi almak ve ön
 
 b) Poliklinik ve müessese taşınmalarında bir yıl içinde ön izin belgesi almak ve ön izin tarihinden itibaren iki yıl içinde ruhsatlandırılmak suretiyle toplam üç yıl içinde taşınma işlemlerinin tamamlanması zorunludur. Bu süre içinde sağlık kuruluşu, faaliyetine mevcut kapasitesi ile devam edebilir veya faaliyetini askıya alabilir ve Müdürlüğe tebligat adresi bildirerek kuruluş binasını boşaltabilir.
 
-(3) Farklı isimlerle ruhsatlandırılmış poliklinikler, taşınma talebinde bulunur ise bu Yönetmelikte aranan şartların sağlanması koşuluyla (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/4199 sayılı kararı ile yürütmesi durdurulan ibare: aynı il içinde ) taşınmaya izin verilir.
+(3) Farklı isimlerle ruhsatlandırılmış poliklinikler, taşınma talebinde bulunur ise bu Yönetmelikte aranan şartların sağlanması koşuluyla **(Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/4199 sayılı kararı ile yürütmesi durdurulan ibare:** <i>aynı il içinde )</i> taşınmaya izin verilir.
 
 (4) Tıp merkezi, poliklinik ve müessese ile ilgili mevzuatı kapsamında ruhsatlı müstakil radyoloji merkezi ve tıbbi laboratuvarlar, Bakanlık izniyle yalnızca bulunduğu il içinde tıp merkezi bünyesinde birleşebilir. Birleşen kuruluşların ruhsatlarında kayıtlı tabip kadroları, planlama kapsamındaki cihazlar, ünite ve merkezler birleştiği kuruluşun ruhsatına işlenir. Birleşme işlemi iki yıl içinde tamamlanır. Ancak tıp merkezinde birleşerek taşınma söz konusu ise birleşme işlemi ikinci fıkrada yer alan süre içinde tamamlanır. Bu süre içinde sağlık kuruluşu, faaliyetine mevcut kapasitesi ile devam edebilir veya faaliyetini askıya alabilir ve Müdürlüğe tebligat adresi bildirerek kuruluş binasını boşaltabilir.
 
@@ -237,7 +237,7 @@ b) Poliklinik ve müessese taşınmalarında bir yıl içinde ön izin belgesi a
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Sağlık Kuruluşunun Çalışanları ve Personel Standartları
+**Sağlık Kuruluşunun Çalışanları ve Personel Standartları**
 
 #### Mesul müdür
 
@@ -339,13 +339,13 @@ g) Sağlık kuruluşunda çalışan tabip dışı sağlık personeli, aynı il i
 
 #### Muayenehane tabiplerinin tıp merkezinde hasta tedavisi
 
-**MADDE 16 –** (1) Muayenehanesi bulunan tabipler, 1219 sayılı Kanunun 12 nci maddesinin üçüncü fıkrası gereğince hizmet bedeli hasta tarafından karşılanmak ve Sosyal Güvenlik Kurumundan talep edilmemek kaydıyla, muayenehanesine müracaat eden hastalarının tedavisini sözleşme yapmak suretiyle ilgili branşta kadrosu bulunan (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2328 sayılı kararı ile yürütmesi durdurulan ibare: ve en az 3000 m2 kapalı alan ile 10 uzman tabip kadrosunu haiz ) tıp merkezinde yapabilir.
+**MADDE 16 –** (1) Muayenehanesi bulunan tabipler, 1219 sayılı Kanunun 12 nci maddesinin üçüncü fıkrası gereğince hizmet bedeli hasta tarafından karşılanmak ve Sosyal Güvenlik Kurumundan talep edilmemek kaydıyla, muayenehanesine müracaat eden hastalarının tedavisini sözleşme yapmak suretiyle ilgili branşta kadrosu bulunan **(Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2328 sayılı kararı ile yürütmesi durdurulan ibare:** <i>ve en az 3000 m2 kapalı alan ile 10 uzman tabip kadrosunu haiz )</i> tıp merkezinde yapabilir.
 
-(2) (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2328 sayılı kararı ile yürütmesi durdurulan fıkra: Birinci fıkra kapsamındaki tıp merkezi, ilgili uzmanlık dalındaki toplam kadro sayısının üçte birini aşmayacak şekilde tabiple sözleşme yapabilir. Muayenehanesi bulunan 60 yaş üstü tabipler ile engellilik oranı en az %60 olan tabipler, sözleşme yaptığı tıp merkezinin birinde bu kadro sınırlamasına tabi tutulmaz. )
+(2) **(Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2328 sayılı kararı ile yürütmesi durdurulan fıkra:** <i>Birinci fıkra kapsamındaki tıp merkezi, ilgili uzmanlık dalındaki toplam kadro sayısının üçte birini aşmayacak şekilde tabiple sözleşme yapabilir. Muayenehanesi bulunan 60 yaş üstü tabipler ile engellilik oranı en az %60 olan tabipler, sözleşme yaptığı tıp merkezinin birinde bu kadro sınırlamasına tabi tutulmaz. )</i>
 
 (3) Muayenehanenin bulunduğu ilde ilgili uzmanlık dalında sözleşme yapılabilecek uygun tıp merkezi bulunmadığı hallerde talep edilmesi halinde Bakanlığın uygun görüşüyle yakın bir ildeki tıp merkezi ile sözleşme yapılabilir.
 
-(4) (Danıştay Onuncu Dairesinin 4/5/2026 tarihli ve E.:2025/3036 sayılı kararı ile yürütmesi durdurulan fıkra : Sözleşme imzalanan tıp merkezinde muayenehaneden gelen hastaya öngörülen müdahalenin yapılamadığı durumlarda tabibin istediği başka bir tıp merkezinde bu işlemin yapılması için ilgili müdürlük tarafından vaka bazlı özel izin verilebilir. )
+(4) **(Danıştay Onuncu Dairesinin 4/5/2026 tarihli ve E.:2025/3036 sayılı kararı ile yürütmesi durdurulan fıkra :** <i>Sözleşme imzalanan tıp merkezinde muayenehaneden gelen hastaya öngörülen müdahalenin yapılamadığı durumlarda tabibin istediği başka bir tıp merkezinde bu işlemin yapılması için ilgili müdürlük tarafından vaka bazlı özel izin verilebilir. )</i>
 
 (5) Muayenehane tabibiyle yapılan sözleşmenin taraflarca imzalanmış nüshası imzalandığı tarihten itibaren 5 iş günü içinde tıp merkezi tarafından EKİP sistemine yüklenerek Müdürlüğe gönderilir. Sözleşme, Müdürlüğün onayı halinde geçerli olur. Sözleşmenin sona erdiği hallerde bu durum sözleşme bitiş tarihinden itibaren en geç 5 iş günü içinde Müdürlüğe bildirilir.
 
@@ -367,7 +367,7 @@ g) Sağlık kuruluşunda çalışan tabip dışı sağlık personeli, aynı il i
 
 ### BEŞİNCİ BÖLÜM
 
-Sağlık Kuruluşunun Çalışma Usul ve Esasları
+**Sağlık Kuruluşunun Çalışma Usul ve Esasları**
 
 #### Tıp merkezi
 
@@ -465,9 +465,9 @@ c) (a) veya (b) bentlerinde tanımlanan ambulansların yetersiz olması halinde 
 
 ### ALTINCI BÖLÜM
 
-Sağlık Kuruluşunun Kayıtları, Bilgilendirme ve Tanıtım
+**Sağlık Kuruluşunun Kayıtları, Bilgilendirme ve Tanıtım**
 
-ile Sağlık Kuruluşu İsimleri
+**ile Sağlık Kuruluşu İsimleri**
 
 #### Kayıt ve arşiv
 
@@ -509,7 +509,7 @@ ile Sağlık Kuruluşu İsimleri
 
 ### YEDİNCİ BÖLÜM
 
-Denetim ve Ruhsatın Askıya Alınması ve İptali
+**Denetim ve Ruhsatın Askıya Alınması ve İptali**
 
 #### Uyulması gereken hususlar
 
@@ -613,7 +613,7 @@ c) Tabip/uzman tabip sayısı asgari sayının altına düşen polikliniklerin �
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Kamu kurumlarına ait sağlık kuruluşları
 
@@ -745,7 +745,7 @@ d) Sağlık birimleri denetim yönünden bu Yönetmelik hükümlerine tabidir.
 
 **GEÇİCİ MADDE 4 –** (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce muayenehane tabipleri ile mevzuata uygun olarak sözleşme imzalamış olan tıp merkezi, sözleşme süresi sonuna kadar 16 ncı maddenin birinci fıkrası hükümlerinden muaftır.
 
-(2) (Danıştay Onuncu Dairesinin 4/5/2026 tarihli ve E.:2025/3036 sayılı kararı ile yürütmesi durdurulan ibare: 7/1/2023 tarihinden önce ) muayenehanesi bulunan tabipler, (Danıştay Onuncu Dairesinin 4/5/2026 tarihli ve E.:2025/3036 sayılı kararı ile yürütmesi durdurulan ibare: sözleşme yapacakları tıp merkezi veya özel hastaneden en fazla ikisinde ) 16 ncı maddenin ikinci fıkrasında yer alan kadro sınırlamasından muaf tutulur. Bu tabiplerin muayenehanelerini kapatmaları halinde üç ay içinde aynı ya da farklı ilde tekrar açmaları şartıyla muafiyetleri devam eder.
+(2) **(Danıştay Onuncu Dairesinin 4/5/2026 tarihli ve E.:2025/3036 sayılı kararı ile yürütmesi durdurulan ibare:** <i>7/1/2023 tarihinden önce )</i> muayenehanesi bulunan tabipler, **(Danıştay Onuncu Dairesinin 4/5/2026 tarihli ve E.:2025/3036 sayılı kararı ile yürütmesi durdurulan ibare:** <i>sözleşme yapacakları tıp merkezi veya özel hastaneden en fazla ikisinde )</i> 16 ncı maddenin ikinci fıkrasında yer alan kadro sınırlamasından muaf tutulur. Bu tabiplerin muayenehanelerini kapatmaları halinde üç ay içinde aynı ya da farklı ilde tekrar açmaları şartıyla muafiyetleri devam eder.
 
 (3) 1/1/2025 tarihi itibarıyla faal muayenehanesi olup, sağlık hizmeti sunan herhangi bir kuruluşta çalışmayan tabiplere, muayenehanelerini kapatması halinde aynı ildeki planlama kapsamında en fazla iki sağlık kuruluşunda kadro dışı geçici olarak çalışmasına izin verilir. Bu tabiplerin yeniden muayenehane açmaları halinde bu madde kapsamında verilen kadro dışı geçici çalışma hakkı sona erer.
 
@@ -767,7 +767,7 @@ d) Sağlık birimleri denetim yönünden bu Yönetmelik hükümlerine tabidir.
 
 #### Akreditasyon belgesi
 
-**GEÇİCİ MADDE 8 –** (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/3055 sayılı kararı ile yürütmesi durdurulan madde: (1) Bu Yönetmeliğin yayımlandığı tarihten önce ruhsatlandırılmış ve faaliyette olan tıp merkezi, en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır. )
+**GEÇİCİ MADDE 8 –** (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/3055 sayılı kararı ile yürütmesi durdurulan madde: <i>(1) Bu Yönetmeliğin yayımlandığı tarihten önce ruhsatlandırılmış ve faaliyette olan tıp merkezi, en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır. )</i>
 
 #### Mevcut sağlık kuruluşlarının sahiplik durumu
 
@@ -797,4 +797,4 @@ yürürlüğe girer.
 
 **MADDE 40 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

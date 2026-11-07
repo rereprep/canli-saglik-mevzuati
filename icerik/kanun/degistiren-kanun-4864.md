@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2003/06/20030606.htm#2"
 durum: "yürürlükte"
 ---
 
-—— • —— Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Kanun No. 4864 Kabul Tarihi : 29.5.2003
+—— • —— **Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Kanun No. 4864 Kabul Tarihi : 29.5.2003**
 
 
 MADDE 1 – 15.5.1959 tarihli ve 7269 sayılı Umumî Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunun 13 üncü maddesinin (a) bendinin sonuna aşağıdaki fıkra eklenmiştir.
@@ -42,7 +42,7 @@ Tabiî afet nedeniyle ödenen veya ödenecek sigorta tazminatları, Devletçe ö
 MADDE 7 – 4123 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 GEÇİCİ
 
-MADDE 1. — 27.1.2003 tarihinde Tunceli-Pülümür ve çevresinde, 10.4.2003 tarihinde İzmir-Urla, Seferihisar ve çevresinde ve 1.5.2003 tarihinde Bingöl ve çevresinde meydana gelen depremler sonucunda Bayındırlık ve İskân Bakanlığı fen heyetleri tarafından belediye sınırları ile mücavir alanlarında belirlenen ağır hasarlı veya yıkık konut sahibi afetzedelere veya afetzedelerin kuracakları kooperatiflere, kendi arsaları veya tespit edilecek arsalar üzerinde yapılacak konutlar için Toplu Konut İdaresi Başkanlığı aracılığı ile kredi verilebilir. Bu alanlarda Bayındırlık ve İskân Bakanlığı tarafından afetzedeler için konut, her türlü alt yapı ve sosyal donatılar ile ağır hasarlı veya yıkık işyeri sahibi afetzedelere toplu işyeri yapılabilir veya yaptırılabilir. Orta hasarlı olduğu belirlenen konut veya işyeri sahibi afetzedelere ise, Bayındırlık ve İskân Bakanlığı tarafından güçlendirme projesi ve onarım işleri için kredi verilebilir. Söz konusu kredilerin kullandırılması, geri dönüşü ve yapılacak konut ve işyerlerinin afetzedelere tahsisine ilişkin usul ve esaslar, Bayındırlık ve İskân Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.
+**MADDE 1. —** 27.1.2003 tarihinde Tunceli-Pülümür ve çevresinde, 10.4.2003 tarihinde İzmir-Urla, Seferihisar ve çevresinde ve 1.5.2003 tarihinde Bingöl ve çevresinde meydana gelen depremler sonucunda Bayındırlık ve İskân Bakanlığı fen heyetleri tarafından belediye sınırları ile mücavir alanlarında belirlenen ağır hasarlı veya yıkık konut sahibi afetzedelere veya afetzedelerin kuracakları kooperatiflere, kendi arsaları veya tespit edilecek arsalar üzerinde yapılacak konutlar için Toplu Konut İdaresi Başkanlığı aracılığı ile kredi verilebilir. Bu alanlarda Bayındırlık ve İskân Bakanlığı tarafından afetzedeler için konut, her türlü alt yapı ve sosyal donatılar ile ağır hasarlı veya yıkık işyeri sahibi afetzedelere toplu işyeri yapılabilir veya yaptırılabilir. Orta hasarlı olduğu belirlenen konut veya işyeri sahibi afetzedelere ise, Bayındırlık ve İskân Bakanlığı tarafından güçlendirme projesi ve onarım işleri için kredi verilebilir. Söz konusu kredilerin kullandırılması, geri dönüşü ve yapılacak konut ve işyerlerinin afetzedelere tahsisine ilişkin usul ve esaslar, Bayındırlık ve İskân Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.
 Yukarıdaki fıkranın uygulanması için gerekli malî kaynak; Bütçeden aktarılacak ödenekler, 7269 sayılı Kanunun 20.6.2001 tarihli ve 4684 sayılı Kanunla değişik 33 üncü maddesinde belirlenen esaslar çerçevesinde toplanan nakdî bağış ve yardımlar ile yurt dışından sağlanan her türlü dış kredi ve hibelerden sağlanır.
 Afetzedeler için konut yapımına yönelik aynî bağışlar, yardımlar ve yurt dışından sağlanan her türlü dış kredi ve hibeler ile ilgili iş ve işlemler Bayındırlık ve İskân Bakanlığının koordinasyonunda Toplu Konut İdaresi Başkanlığınca yürütülür ve sonuçlandırılır.
 Afetzedelere konut ve işyeri yapımı amacıyla tespit edilen alanlarda arsa ve arazi temininde 15.5.1959 tarihli ve 7269 sayılı Kanunun 21, ek 9 ve ek 10 uncu maddelerindeki hükümler uygulanır. Bu şekilde temin ve tahsis edilen arsa ve araziler Toplu Konut İdaresi Başkanlığına bedelsiz olarak devredilmiş sayılır.
@@ -54,7 +54,7 @@ Bu madde kapsamında gerçekleştirilecek işler, 4734 sayılı Kamu İhale Kanu
 MADDE 8 – 2.3.1984 tarihli ve 2985 sayılı Toplu Konut Kanununa aşağıdaki ek madde eklenmiştir.
 EK
 
-MADDE 5. — Toplu Konut İdaresi Başkanlığınca uygulama yapılacak yerlerde ihtiyaç olması halinde Başkanlıkça gerekli birimler kurulabilir. Bu birimlerde Başkanlık personeli görevlendirilebilir. Gerektiğinde valilik, belediye ve diğer kamu kurumları personelinden ihtiyaç duyulanlar Başkanlığın talebi üzerine kurumları tarafından bu birimlerde geçici olarak görevlendirilirler.
+**MADDE 5. —** Toplu Konut İdaresi Başkanlığınca uygulama yapılacak yerlerde ihtiyaç olması halinde Başkanlıkça gerekli birimler kurulabilir. Bu birimlerde Başkanlık personeli görevlendirilebilir. Gerektiğinde valilik, belediye ve diğer kamu kurumları personelinden ihtiyaç duyulanlar Başkanlığın talebi üzerine kurumları tarafından bu birimlerde geçici olarak görevlendirilirler.
 Uygulamanın tamamlanmasını müteakip bu birimler kaldırılır ve personeli kurumlarına iade edilir.
 
 
@@ -74,13 +74,13 @@ Bu madde uyarınca yeniden inşa edilecek veya onarılacak yapılarla ilgili iha
 MADDE 10 – 2985 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 GEÇİCİ
 
-MADDE 4. — 28.3.2001 tarihli ve 2001/2202 sayılı Bakanlar Kurulu Kararı gereğince, Tasfiye Halinde Türkiye Emlak Bankası Anonim Şirketi tarafından Toplu Konut İdaresi Başkanlığına devredilen varlıklarla ilgili iş ve işlemlere ilişkin hak ve yükümlülükler; 14.12.2001 tarihinden önceki dönem için Bankaya, bu tarihten sonraki dönem için Başkanlığa aittir.
+**MADDE 4. —** 28.3.2001 tarihli ve 2001/2202 sayılı Bakanlar Kurulu Kararı gereğince, Tasfiye Halinde Türkiye Emlak Bankası Anonim Şirketi tarafından Toplu Konut İdaresi Başkanlığına devredilen varlıklarla ilgili iş ve işlemlere ilişkin hak ve yükümlülükler; 14.12.2001 tarihinden önceki dönem için Bankaya, bu tarihten sonraki dönem için Başkanlığa aittir.
 
 
 MADDE 11 – 1.5.2003 tarihli ve 4856 sayılı Çevre ve Orman Bakanlığı Teşkilât ve Görevleri Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 GEÇİCİ
 
-MADDE 6. — 2 nci maddenin (h) bendinde ve 10 uncu maddenin (c) bendinde belirtilen, kalkınma, bölge ve metropoliten imar planlarına uygun olarak yapılan 1/25.000 ölçekli çevre düzeni planları ve bunlara ait değişikliklerle ilgili olarak, 8.5.2003 tarihinden önce onaylanmak üzere Bayındırlık ve İskân Bakanlığına intikal ettirilmiş bulunan planlarla ilgili iş ve işlemler, Bayındırlık ve İskân Bakanlığınca tamamlanarak onaylanır.
+**MADDE 6. —** 2 nci maddenin (h) bendinde ve 10 uncu maddenin (c) bendinde belirtilen, kalkınma, bölge ve metropoliten imar planlarına uygun olarak yapılan 1/25.000 ölçekli çevre düzeni planları ve bunlara ait değişikliklerle ilgili olarak, 8.5.2003 tarihinden önce onaylanmak üzere Bayındırlık ve İskân Bakanlığına intikal ettirilmiş bulunan planlarla ilgili iş ve işlemler, Bayındırlık ve İskân Bakanlığınca tamamlanarak onaylanır.
 
 
 MADDE 12 – 3.4.2003 tarihli ve 4837 sayılı Ekonomik İstikrarı Sağlamak İçin Ek Vergiler Alınması Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.

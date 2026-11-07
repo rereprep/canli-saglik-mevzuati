@@ -19,9 +19,9 @@ MADDE 1 – 1/12/2004 tarihli ve 25657 sayılı Resmî Gazete’de yayımlanan D
 
 
 MADDE 2 – Aynı Yönetmeliğin 6 ncı maddesinin (b) bendinde yer alan “Sülfit SO3” ibaresi “Sülfür S” olarak değiştirilmiştir.
-Yürürlük
+**Yürürlük**
 
-MADDE 3 — Bu Yönetmelik 1/12/2004 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
-Yürütme
+**MADDE 3 —** Bu Yönetmelik 1/12/2004 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+**Yürütme**
 
-MADDE 4 — Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+**MADDE 4 —** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.

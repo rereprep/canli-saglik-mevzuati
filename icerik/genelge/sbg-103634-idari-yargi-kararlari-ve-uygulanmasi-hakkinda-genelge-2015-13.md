@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-9.3.11. İdari Yargı Kararları ve Uygulanması Hakkında Genelge (2015/13)
+**9.3.11. İdari Yargı Kararları ve Uygulanması Hakkında Genelge (2015/13)**
 
 T.C.
 SAĞLIK BAKANLIĞI

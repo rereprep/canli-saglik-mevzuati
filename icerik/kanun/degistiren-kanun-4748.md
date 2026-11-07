@@ -11,22 +11,22 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2002/04/20020409.htm#1"
 durum: "yürürlükte"
 ---
 
-Çeşitli Kanunlarda Değişiklik Yapılmasına İlişkin Kanun Kanun No. 4748 Kabul Tarihi : 26.3.2002
+**Çeşitli Kanunlarda Değişiklik Yapılmasına İlişkin Kanun Kanun No. 4748 Kabul Tarihi : 26.3.2002**
 
-MADDE 1. — 10.6.1949 tarihli ve 5442 sayılı İl İdaresi Kanununun 29 uncu maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 1. —** 10.6.1949 tarihli ve 5442 sayılı İl İdaresi Kanununun 29 uncu maddesine aşağıdaki fıkra eklenmiştir.
 Kaymakamlığa sadece mülkî idare amirliği hizmetleri sınıfından olanlar vekâlet edebilir.
 
-MADDE 2. — A) 15.7.1950 tarihli ve 5680 sayılı Basın Kanununun Ek 1 inci maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrası yürürlükten kaldırılmıştır.
+**MADDE 2. —** A) 15.7.1950 tarihli ve 5680 sayılı Basın Kanununun Ek 1 inci maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrası yürürlükten kaldırılmıştır.
 Devletin ülkesi ve milletiyle bölünmez bütünlüğünün, millî güvenliğin, kamu düzeninin ve genel ahlâkın korunması, suç işlenmesinin önlenmesi ile Atatürk Aleyhine İşlenen Suçlar Hakkında Kanun ve Anayasanın 174 üncü maddesi kapsamında yer alan inkılâp kanunları aleyhine işlenen suçlar için, tedbir yoluyla soruşturma safhasında Cumhuriyet savcılığının talebi üzerine sulh ceza hakimince, kovuşturma safhasında görevli mahkemece her türlü basılmış eserin dağıtımının önlenmesine veya toplatılmasına karar verilebilir. Gecikmesinde sakınca bulunan hallerde bu eserlerin dağıtımının önlenmesine veya toplatılmasına, doğrudan doğruya Cumhuriyet savcılığınca yazılı olarak karar verilebilir. Bu halde Cumhuriyet savcısı kararını en geç yirmi dört saat içinde yetkili sulh ceza hâkiminin onayına sunar. Sulh ceza hâkimi kırksekiz saat içinde kararını açıklar; aksi halde Cumhuriyet savcılığının kararı kendiliğinden hükümsüz sayılır.
 Devletin ülkesi ve milletiyle bölünmez bütünlüğü, Cumhuriyetin temel ilkeleri ve millî güvenlik aleyhinde işlenmiş bir suçtan mahkûmiyet halinde, faillerden bir veya birkaçına ait olmaları şartıyla suçu ihtiva eden mevkute veya mevkute sayılmayan basılmış eserlerin basımında kullanılan makineler ile diğer basım aletlerinin müsaderesine de karar verilir.
 B) Basın Kanununun Ek 2 nci maddesinin birinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
 Basın yoluyla işlenen ve Ek 1 inci maddede yazılı suçlardan mahkûmiyet hallerinde, suç teşkil eden yazının yayımlandığı mevkutenin bir günden onbeş güne kadar kapatılmasına da mahkemece karar verilebilir.
 Birinci fıkraya göre kapatılmasına karar verilen mevkutenin yayınına kapatılma süresinde devam edenler veya o mevkutenin açıkça devamı niteliğini taşıyan yeni mevkute çıkaranlar bir aydan üç aya kadar hapis cezası ile cezalandırılırlar.
 
-MADDE 3. — 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 13 üncü maddesine birinci fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 3. —** 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 13 üncü maddesine birinci fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 İşkence ya da zalimane, gayri insanî veya haysiyet kırıcı muamele suçları nedeniyle Avrupa İnsan Hakları Mahkemesince verilen kararlar sonucunda Devletçe ödenen tazminatlardan dolayı sorumlu personele rücu edilmesi hakkında da yukarıdaki fıkra hükmü uygulanır.
 
-MADDE 4. — A) 22.4.1983 tarihli ve 2820 sayılı Siyasî Partiler Kanununun 101 inci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 4. —** A) 22.4.1983 tarihli ve 2820 sayılı Siyasî Partiler Kanununun 101 inci maddesine aşağıdaki fıkra eklenmiştir.
 Anayasa Mahkemesi, yukarıdaki fıkranın (a) ve (b) bentlerinde sayılan hallerde temelli kapatma yerine, dava konusu fiillerin ağırlığına göre ilgili siyasî partinin almakta olduğu son yıllık Devlet yardımı miktarının yarısından az olmamak kaydıyla, bu yardımdan kısmen veya tamamen yoksun bırakılmasına, yardımın tamamı ödenmişse aynı miktarın Hazineye iadesine karar verebilir.
 B) Siyasî Partiler Kanununun 102 nci maddesinin birinci ve üçüncü fıkraları aşağıdaki şekilde; ikinci fıkrasında geçen "Cumhuriyet Başsavcılığı" ibareleri, "Yargıtay Cumhuriyet Başsavcılığı" olarak değiştirilmiştir.
 Siyasî partilerin faaliyetlerinin izlenmesi amacıyla Yargıtay Cumhuriyet Başsavcılığının istediği bilgi ve belgeleri bildirilen süre içinde vermeyen siyasî partiye Yargıtay Cumhuriyet Başsavcılığı tarafından ikinci bir yazı tebliğ olunur. Bu yazıda, bildirilen süre içinde cevap verilmediği ve istek yerine getirilmediği takdirde o siyasî partinin kapatılması ya da Devlet yardımından kısmen veya tamamen yoksun bırakılması için dava açılabileceği de belirtilir. Bu tebliğde bildirilecek süre içinde yine istek yerine getirilmez veya cevap verilmezse Yargıtay Cumhuriyet Başsavcılığı o siyasî partinin kapatılması ya da Devlet yardımından kısmen veya tamamen yoksun bırakılması için Anayasa Mahkemesinde re’sen dava açabilir.
@@ -34,7 +34,7 @@ Siyasî parti, tebliğ tarihinden itibaren otuz gün içinde istem yazısında b
 C) Siyasî Partiler Kanununun 103 üncü maddesine aşağıdaki fıkra eklenmiştir.
 Bir siyasî parti, bu nitelikteki fiiller o partinin üyelerince yoğun bir şekilde işlendiği ve bu durum o partinin büyük kongre veya genel başkan veya merkez karar veya yönetim organları veya Türkiye Büyük Millet Meclisindeki grup genel kurulu veya grup yönetim kurulunca zımnen veya açıkça benimsendiği yahut bu fiiller doğrudan doğruya anılan parti organlarınca kararlılık içinde işlendiği takdirde, söz konusu fiillerin odağı haline gelmiş sayılır.
 
-MADDE 5. — A) 6.10.1983 tarihli ve 2908 sayılı Dernekler Kanununun 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 5. —** A) 6.10.1983 tarihli ve 2908 sayılı Dernekler Kanununun 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 4. — Fiil ehliyetine sahip ve onsekiz yaşını doldurmuş olan herkes, önceden izin almaksızın dernek kurma hakkına sahiptir.
 Ancak;
@@ -62,7 +62,7 @@ F) Dernekler Kanununun 43 üncü maddesi aşağıdaki şekilde değiştirilmişt
 
 Madde 43. — Dernekler, en az yedi gün önceden merkezlerinin bulunduğu ve faaliyetin düzenleneceği illerin valiliklerine bildirimde bulunmak şartıyla yabancı ülkelerdeki dernek veya kuruluşların üyelerini Türkiye’ye davet edebilir ya da yabancı dernek veya kuruluşların davetlerine uyarak üyelerini veya dernek üyesi olma hakkına sahip üçüncü kişileri yurt dışına gönderebilirler. Bildirimde, davetin amacı, tarihi, yeri, ilgili dernek veya kuruluşun adı ve adresi ile katılacak üyelere veya temsilcilere ait bilgiler bulunur.
 
-MADDE 6. — A) 6.10.1983 tarihli ve 2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanununun 9 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 6. —** A) 6.10.1983 tarihli ve 2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanununun 9 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 9. — Bu Kanuna göre yapılacak toplantılar, fiil ehliyetine sahip ve onsekiz yaşını doldurmuş, en az yedi kişiden oluşan bir düzenleme kurulu tarafından düzenlenir. Bu kurul, kendi aralarından birini başkan seçer. Diplomatik dokunulmazlıkları bulunan kişiler, düzenleme kurulu başkan veya üyesi olamazlar.
 Tüzel kişilerin toplantı ve gösteri yürüyüşü düzenlemeleri, yetkili organlarının kararına bağlıdır.
@@ -72,9 +72,9 @@ Madde 17. — Bölge valisi, vali veya kaymakam, millî güvenlik, kamu düzeni,
 C) Toplantı ve Gösteri Yürüyüşleri Kanununun 19 uncu maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 Bölge valisi, millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlığın ve genel ahlâkın veya başkalarının hak ve özgürlüklerinin korunması amacıyla bölgeye dahil illerin birinde veya birkaçında ya da bir ilin bir veya birkaç ilçesinde bütün toplantıları üç ayı geçmemek üzere erteleyebilir.
 
-MADDE 7. — Aşağıdaki kanun hükümleri yürürlükten kaldırılmıştır:
+**MADDE 7. —** Aşağıdaki kanun hükümleri yürürlükten kaldırılmıştır:
 A) Basın Kanununun 16 ncı maddesinin beşinci fıkrası, B) 10.3.1983 tarihli ve 2803 sayılı Jandarma Teşkilât, Görev ve Yetkileri Kanununun 9 uncu maddesinin birinci fıkrasının ikinci cümlesi, C) 16.6.1983 tarihli ve 2845 sayılı Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanunun 16 ncı maddesinin son fıkrası, D) Dernekler Kanununun 7, 11 ve 12 nci maddeleri, E) Toplantı ve Gösteri Yürüyüşleri Kanununun 21 inci maddesi.
 
-MADDE 8. — Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 8. —** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 9. — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 9. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

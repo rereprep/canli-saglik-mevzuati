@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığı (Türkiye Halk Sağlığı Kurumu)’ndan:
-BİYOSİDAL ÜRÜNLER YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+BİYOSİDAL ÜRÜNLER YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR **YÖNETMELİK**
 
 MADDE 1 – 31/12/2009 tarihli ve 27449 4 üncü mükerrer sayılı Resmî Gazete’de yayımlanan Biyosidal Ürünler Yönetmeliğinin 2 nci maddesinin ikinci fıkrasına aşağıdaki bent eklenmiştir.
 “ı) Kozmetik ürünleri,”
@@ -131,7 +131,7 @@ MADDE 23 – Aynı Yönetmeliğin ek-X ve ek-XI’i ekteki şekilde değiştiril
 MADDE 24 – Aynı Yönetmeliğin ekinde yer alan ek-A, ek-1, ek-1A ve ek-1B yürürlükten kaldırılmıştır.
 
 
-MADDE 25 – Aynı Yönetmelikte yer alan “Bakanlık” ibareleri “Kurum” olarak, “Bakanlıkça” ibareleri “Kurumca” olarak, “Bakanlıktan” ibareleri “Kurumdan” olarak, “Bakanlığa” ibareleri “Kuruma” olarak, “Bakanlığı” ibaresi “Kurumu” olarak, “Bakanlıkta” ibaresi “Kurumda” olarak, “Bakanlığın” ibareleri “Kurumun” olarak, “Genel Müdürlüğün” ibaresi “Kurumun” olarak, “Genel Müdürlük” ibaresi “Kurum” olarak, “Ek-A” ibareleri “Liste-A” olarak, “Ek-I” ibareleri “Liste-I” olarak, “Ek-IA” ibareleri “Liste-IA” olarak, “Ek-IB” ibareleri “Liste-IB” olarak değiştirilmiştir.
+**MADDE 25 –** Aynı Yönetmelikte yer alan “Bakanlık” ibareleri “Kurum” olarak, “Bakanlıkça” ibareleri “Kurumca” olarak, “Bakanlıktan” ibareleri “Kurumdan” olarak, “Bakanlığa” ibareleri “Kuruma” olarak, “Bakanlığı” ibaresi “Kurumu” olarak, “Bakanlıkta” ibaresi “Kurumda” olarak, “Bakanlığın” ibareleri “Kurumun” olarak, “Genel Müdürlüğün” ibaresi “Kurumun” olarak, “Genel Müdürlük” ibaresi “Kurum” olarak, “Ek-A” ibareleri “Liste-A” olarak, “Ek-I” ibareleri “Liste-I” olarak, “Ek-IA” ibareleri “Liste-IA” olarak, “Ek-IB” ibareleri “Liste-IB” olarak değiştirilmiştir.
 
 MADDE 26 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 

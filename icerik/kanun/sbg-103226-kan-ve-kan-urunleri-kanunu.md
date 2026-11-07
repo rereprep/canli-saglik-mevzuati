@@ -13,7 +13,7 @@ Kanun Numarası : 5624
 
 Kabul Tarihi : 11/4/2007
 
-Yayımlandığı Resmî Gazete : Tarih : 2/5/2007 Sayı : 26510
+**Yayımlandığı Resmî Gazete : Tarih : 2/5/2007 Sayı : 26510**
 
 Yayımlandığı Düstur : Tertip : 5 Cilt : 46
 
@@ -121,7 +121,7 @@ açıp, işletebilir.
 
 (5) Ruhsat şartlarını faaliyetleri sırasında yitirmiş olanların ruhsatları Bakanlıkça geri alınır.
 
-(6) (Değişik:15/11/2018-7151/30 md.) Ruhsat almadan faaliyet gösterenler valilikçe faaliyetten menedilir ve on bin Türk lirası idarî para cezası ile cezalandırılır. 3 üncü maddenin birinci fıkrasının (c) bendinde saklanması zorunlu tutulan belge ve örnekleri saklamadığı tespit edilenler ile mevcut ruhsatı kapsamı dışında faaliyet gösterenlere on bin Türk lirası idarî para cezası uygulanır; bu ihlallerin iki yıl içinde tekrarı hâlinde idarî para cezası bir kat artırılarak uygulanır; üçüncü tekrarında artırımlı idarî para cezası uygulanır ve on güne kadar faaliyeti durdurulur; dördüncü tekrarında ise faaliyetten menedilir.
+(6) **(Değişik:15/11/2018-7151/30 md.)** Ruhsat almadan faaliyet gösterenler valilikçe faaliyetten menedilir ve on bin Türk lirası idarî para cezası ile cezalandırılır. 3 üncü maddenin birinci fıkrasının (c) bendinde saklanması zorunlu tutulan belge ve örnekleri saklamadığı tespit edilenler ile mevcut ruhsatı kapsamı dışında faaliyet gösterenlere on bin Türk lirası idarî para cezası uygulanır; bu ihlallerin iki yıl içinde tekrarı hâlinde idarî para cezası bir kat artırılarak uygulanır; üçüncü tekrarında artırımlı idarî para cezası uygulanır ve on güne kadar faaliyeti durdurulur; dördüncü tekrarında ise faaliyetten menedilir.
 
 (7) Yapılan denetimlerde;
 

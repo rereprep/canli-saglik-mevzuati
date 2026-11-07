@@ -12,11 +12,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/04/20080415-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-TÜTÜN, TÜTÜN MAMULLERİ, TUZ VE ALKOL İŞLETMELERİ GENEL MÜDÜRLÜĞÜNÜN YENİDEN YAPILANDIRILMASI İLE TÜTÜN VE TÜTÜN MAMULLERİNİN ÜRETİMİNE, İÇ VE DIŞ ALIM
-VE SATIMINA, 4046 SAYILI KANUNDA VE 233 SAYILI
-KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 5752 Kabul Tarihi: 3/4/2008
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**TÜTÜN, TÜTÜN MAMULLERİ, TUZ VE ALKOL İŞLETMELERİ GENEL MÜDÜRLÜĞÜNÜN YENİDEN YAPILANDIRILMASI İLE TÜTÜN VE TÜTÜN MAMULLERİNİN ÜRETİMİNE, İÇ VE DIŞ ALIM**
+**VE SATIMINA, 4046 SAYILI KANUNDA VE 233 SAYILI**
+**KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+Kanun No. 5752 **Kabul Tarihi: 3/4/2008**
 
 
 MADDE 1 – 3/1/2002 tarihli ve 4733 sayılı Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanunun 4 üncü maddesinin başlığı "Kurum personelinin atanma usulü, statüsü ve özlük hakları", birinci fıkrasının ikinci cümlesi "Başkan yardımcıları ve Daire Başkanları Başkanın önerisi ile Kurul tarafından, diğer personelin ataması ise Başkan tarafından yapılır." olarak ve üçüncü fıkrası aşağıdaki şekilde değiştirilmiş, aynı maddeye aşağıdaki fıkralar eklenmiştir.

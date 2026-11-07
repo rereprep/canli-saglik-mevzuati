@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -64,7 +64,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Uluslararası Sağlık Hizmetlerinde İş Birliği ve İş Birliği Protokolü
+**Uluslararası Sağlık Hizmetlerinde İş Birliği ve İş Birliği Protokolü**
 
 #### Uluslararası sağlık hizmetlerinde iş birliği
 
@@ -106,7 +106,7 @@ g) Protokol hükümlerinin değiştirilmesi ve protokolün feshine ilişkin hük
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çalışma Esasları
+**Çalışma Esasları**
 
 #### Hizmet sunan personelin çalıştırılması
 
@@ -138,9 +138,9 @@ g) Protokol hükümlerinin değiştirilmesi ve protokolün feshine ilişkin hük
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Uluslararası Sağlık Hizmetlerine Başvuru,
+**Uluslararası Sağlık Hizmetlerine Başvuru,**
 
-Sağlık Hizmet Sunumunda Yetki ve Sorumluluk ve Denetim
+**Sağlık Hizmet Sunumunda Yetki ve Sorumluluk ve Denetim**
 
 #### Uluslararası sağlık hizmetlerine başvuru
 
@@ -168,7 +168,7 @@ Sağlık Hizmet Sunumunda Yetki ve Sorumluluk ve Denetim
 
 ### BEŞİNCİ BÖLÜM
 
-Mali Esaslar
+**Mali Esaslar**
 
 #### Ücretlendirme
 
@@ -202,7 +202,7 @@ Mali Esaslar
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Veri bildirimi
 

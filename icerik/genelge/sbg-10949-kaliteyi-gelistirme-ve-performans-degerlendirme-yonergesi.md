@@ -46,7 +46,7 @@ Mezkûr Yönergenin uygulanması ile ilgili olarak karşılaşılabilecek teredd
 
 7. Hasta ve hasta yakınları memnuniyet anket katsayısı, anket uygulama ilkeleri çerçevesinde tespit edilecektir. Hasta ve hasta yakınları memnuniyet anketleri ilgili dönem içinde uygulanarak dönemin son haftasının ilk günü sonuçlandırılıp, katsayı hesaplanacaktır.
 
-8. Kurum verimlilik katsayısı, Tedavi Hizmetleri Genel Müdürlüğü’nce “http://www.saglik.gov.tr/kurum” adresinde (5) sayılı çizelge yayınlanır. Çizelgede her dönem kurum verimlilik katsayısı hesaplamasında kullanılacak kriter, kabul edilebilir değer ve uygulama esasları belirlenir.
+8. Kurum verimlilik katsayısı, Tedavi Hizmetleri Genel Müdürlüğü’nce “http://www.**saglik.gov.tr**/kurum” adresinde (5) sayılı çizelge yayınlanır. Çizelgede her dönem kurum verimlilik katsayısı hesaplamasında kullanılacak kriter, kabul edilebilir değer ve uygulama esasları belirlenir.
 
 9. İl sağlık müdürlükleri, her dönem sonunda bu yönergeye ekli (7) sayılı toplu sonuç formunu elektronik ortamda doldurarak ekodeme@saglik.gov.tr mail adresine göndereceklerdir.
 

@@ -16,13 +16,13 @@ durum: "yürürlükte"
 
 ### İYONLAŞTIRICI RADYASYON VE RADYONÜKLİT KULLANILARAK SUNULAN SAĞLIK HİZMETLERİ HAKKINDA YÖNETMELİK
 
-Cumhurbaşkanı Kararının Tarihi : 12/4/2023 Sayısı : 7077
+**Cumhurbaşkanı Kararının Tarihi : 12/4/2023 Sayısı : 7077**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 13/4/2023 Sayısı : 32162
+**Yayımlandığı Resmî Gazetenin Tarihi : 13/4/2023 Sayısı : 32162**
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -90,7 +90,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Bina Durumu, Fiziki Şartlar ve Güvenlik
+**Bina Durumu, Fiziki Şartlar ve Güvenlik**
 
 #### Bina durumu ve fiziki şartlar
 
@@ -230,7 +230,7 @@ g) Hamilelik şüphesi olan, hamile veya emziren personelin çalışma koşullar
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İyonlaştırıcı Radyasyon Kaynakları ve Radyonüklit ile Çalışanların Çalışma Esasları ve Sağlık İzni
+**İyonlaştırıcı Radyasyon Kaynakları ve Radyonüklit ile Çalışanların Çalışma Esasları ve Sağlık İzni**
 
 #### İyonlaştırıcı radyasyon kaynakları ve radyonüklit ile çalışanların çalışma esasları
 
@@ -254,7 +254,7 @@ g) Hamilelik şüphesi olan, hamile veya emziren personelin çalışma koşullar
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetim ve yaptırım
 
@@ -347,7 +347,7 @@ g) Hamilelik şüphesi olan, hamile veya emziren personelin çalışma koşullar
 
 ### EK-2
 
-Sağlık İzni Tablosu
+**Sağlık İzni Tablosu**
 
 | Sıra No | Çalışma Süresi | Sağlık İzni Süresi |
 | 1 | 0-50 Saat | 1 Gün |

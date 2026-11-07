@@ -27,7 +27,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -111,7 +111,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Komisyonun Teşkili, Görevleri, Çalışma Usul ve Esasları
+**Komisyonun Teşkili, Görevleri, Çalışma Usul ve Esasları**
 
 #### Komisyonun teşkili
 
@@ -147,7 +147,7 @@ c) Tıbbi laboratuvarlar tarafından kullanılan yöntemlere ilişkin görüş b
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Tıbbi Laboratuvarlar ve Çalışma Esasları
+**Tıbbi Laboratuvarlar ve Çalışma Esasları**
 
 #### Tıbbi laboratuvarların sınıflandırılması
 
@@ -403,7 +403,7 @@ g) Kanser tanılı patoloji raporlarında, prognoz ve tedaviye yönelik klinik o
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Personel Durumu
+**Personel Durumu**
 
 #### Genel esaslar
 
@@ -551,7 +551,7 @@ d) Birim sorumlusu veya tıbbi laboratuvar uzmanı tarafından verilen diğer g�
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetim ve yaptırım
 

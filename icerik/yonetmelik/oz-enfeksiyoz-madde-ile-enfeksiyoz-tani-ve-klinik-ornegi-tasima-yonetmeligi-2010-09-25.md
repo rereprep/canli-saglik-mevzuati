@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -112,7 +112,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Paketleme ve Taşıma Faaliyetlerine İlişkin Kurallar
+**Paketleme ve Taşıma Faaliyetlerine İlişkin Kurallar**
 
 #### Paketleme işlemine ait genel kurallar
 
@@ -204,7 +204,7 @@ kullanılır.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Yükümlülükler, Muafiyetler ve Özel İzinler
+**Yükümlülükler, Muafiyetler ve Özel İzinler**
 
 #### Paketleyenin ve gönderenin yükümlülükleri
 
@@ -320,7 +320,7 @@ daha üst güvenlik ve emniyet tedbirlerinin alınma şartı ile bireysel veya g
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetime ilişkin kurallar
 
@@ -338,4 +338,4 @@ daha üst güvenlik ve emniyet tedbirlerinin alınma şartı ile bireysel veya g
 
 **MADDE 18 –** (1) Bu Yönetmelik hükümlerini Refik Saydam Hıfzıssıhha Merkez Başkanlığının bağlı olduğu Bakan yürütür.
 
-Ekler için tıklayınız
+**Ekler için tıklayınız**

@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
-İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 7 nci maddesinin üçüncü fıkrasında yer alan “sadece tam süreli olarak görevlendirilen iş güvenliği uzmanının” ibaresi “tam süreli olarak görevlendirilen iş güvenliği uzmanlarından sadece birinin” olarak değiştirilmiştir.
+**MADDE 1 –** 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 7 nci maddesinin üçüncü fıkrasında yer alan “sadece tam süreli olarak görevlendirilen iş güvenliği uzmanının” ibaresi “tam süreli olarak görevlendirilen iş güvenliği uzmanlarından sadece birinin” olarak değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 20 nci maddesine aşağıdaki fıkra eklenmiştir.
 “(7) Bu Yönetmelik kapsamında yapılan sınavlarda başarılı olarak belgelendirilen kişilerden, vize tarihinden önce Bakanlığa başvuru yapmayanların yetki belgeleri vize işlemleri tamamlanıncaya kadar askıya alınır. Vize işlemleri için Bakanlığa başvuruda bulunan kişilerin, vize tarihinden itibaren 60 gün içerisinde vize işlemlerini tamamlaması gerekir.”
@@ -35,7 +35,7 @@ MADDE 5 – Aynı Yönetmeliğin ekinde yer alan “EK 8 İş Güvenliği Uzmanl
 MADDE 6 – Aynı Yönetmeliğin ekinde yer alan “EK-9 İş Güvenliği Uzmanlığı Eğitim Kurumları İçin İhtar Tablosu” başlıklı tablonun 3 ve 15 numaralı satırları aşağıdaki şekilde değiştirilmiştir.
 “ 3.
 21 inci maddenin on altıncı fıkrasındaki hususlar hariç olmak üzere eğitim kurumlarının görev ve sorumlulukları olarak belirtilen hususlara aykırılık durumunda her bir aykırılık başına Hafif ” “ 15.
-Eğitimin olduğu saatlerde kurumun kapalı olması, denetime engel olunması, denetimde istenen bilgi ve belgelerin verilmemesi hallerinden herhangi birinin olması durumunda Ağır ”
+Eğitimin olduğu saatlerde kurumun kapalı olması, denetime engel olunması, denetimde istenen bilgi ve belgelerin verilmemesi hallerinden herhangi birinin olması durumunda **Ağır** ”
 
 MADDE 7 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 

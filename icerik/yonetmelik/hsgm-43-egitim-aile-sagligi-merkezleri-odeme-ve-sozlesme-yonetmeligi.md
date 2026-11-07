@@ -206,4 +206,4 @@ esas alınmak suretiyle hesaplanacak miktarlar, aşılama, gebe, bebek-çocuk ta
 
 **MADDE 11 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/01/20120113M1-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN 375 SAYILI
-KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN 375 SAYILI**
+**KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUNLARDA** DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
 Kanun No. 6266 Kabul Tarihi: 12/1/2012
 
 MADDE 1 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin;

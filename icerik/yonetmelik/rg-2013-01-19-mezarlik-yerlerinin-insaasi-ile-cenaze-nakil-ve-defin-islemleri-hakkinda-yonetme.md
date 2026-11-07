@@ -12,22 +12,22 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-MEZARLIK YERLERİNİN İNŞAASI İLE CENAZE NAKİL VE DEFİN İŞLEMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MEZARLIK YERLERİNİN İNŞAASI İLE CENAZE NAKİL VE DEFİN İŞLEMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 19/1/2010 tarihli ve 27467 sayılı Resmî Gazete’de yayımlanan Mezarlık Yerlerinin İnşaası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmeliğin 2 nci maddesinin birinci fıkrasında yer alan “gömme izin belgesi” ibaresi “ölüm belgesi” olarak değiştirilmiştir.
+**MADDE 1 –** 19/1/2010 tarihli ve 27467 sayılı Resmî Gazete’de yayımlanan Mezarlık Yerlerinin İnşaası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmeliğin 2 nci maddesinin birinci fıkrasında yer alan “gömme izin belgesi” ibaresi “ölüm belgesi” olarak değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 3 üncü maddesinin birinci fıkrasında yer alan “181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesinin birinci fıkrasının (g) bendi ile 9 uncu maddesinin birinci fıkrasının (e) bendi” ibaresi “11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 ıncı maddesi, 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununun 31 inci maddesi” olarak değiştirilmiştir.
 
-MADDE 3 – Aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (d) bendinde yer alan “ölüm sebebi” ibaresi “ölüm şekli” olarak, “Sağlık Bakanlığı Hudut ve Sahiller Sağlık Genel Müdürlüğü teşkilatı, il sağlık müdürlükleri veya sağlık grup başkanlıklarınca” ibaresi “Sağlık Bakanlığı Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü teşkilatı, halk sağlığı müdürlüğü veya toplum sağlığı merkezlerince” olarak değiştirilmiş ve (g), (ğ), (h) ve (j) bentleri aşağıdaki şekilde değiştirilmiştir.
+**MADDE 3 –** Aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (d) bendinde yer alan “ölüm sebebi” ibaresi “ölüm şekli” olarak, “Sağlık Bakanlığı Hudut ve Sahiller Sağlık Genel Müdürlüğü teşkilatı, il sağlık müdürlükleri veya sağlık grup başkanlıklarınca” ibaresi “Sağlık Bakanlığı Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü teşkilatı, halk sağlığı müdürlüğü veya toplum sağlığı merkezlerince” olarak değiştirilmiş ve (g), (ğ), (h) ve (j) bentleri aşağıdaki şekilde değiştirilmiştir.
 “g) Ölüm belgesi: Tabip veya ölüm belgesi düzenleme yetkilisi tarafından verilen, cenazenin defninin yapılmasının uygun olduğunu gösteren Ek-2’deki belgeyi,
 ğ) Ölüm belgesi düzenleme yetkilisi:
 Ölüm belgesi vermeye yetkili tabip bulunmaması halinde bahse konu belgeyi düzenlemekle yetkilendirilmiş görevliyi,
 h) Hükümet tabibi: Toplum sağlığı merkezi hekimini veya aile hekimini,” “j) Yol izin belgesi: Bulunduğu mahal dışına nakledilecek cenazeler için tabip veya ölüm belgesi düzenleme yetkilisi veya ilgili belediyenin görevlisi tarafından verilecek ve belediyece veya köy muhtarınca onaylanacak, tabutun sızdırmazlığının sağlandığını da gösteren Ek-3’teki belgeyi,”
 
-MADDE 4 – Aynı Yönetmeliğin 6 ncı maddesinin üçüncü fıkrasında yer alan “il sağlık müdürlüğü, il çevre ve orman müdürlüğü” ibaresi “halk sağlığı müdürlüğü, il çevre ve şehircilik müdürlüğü” olarak, “il tarım müdürlüğü” ibaresi “il gıda, tarım ve hayvancılık müdürlüğü” olarak, dördüncü fıkrasında yer alan “sağlık grup başkanlığı, ilçe tarım müdürlüğü” ibaresi “toplum sağlığı merkezi, ilçe gıda, tarım ve hayvancılık müdürlüğü” olarak, “il çevre ve orman müdürlüğünce” ibaresi “il çevre ve şehircilik müdürlüğünce” olarak değiştirilmiştir.
+**MADDE 4 –** Aynı Yönetmeliğin 6 ncı maddesinin üçüncü fıkrasında yer alan “il sağlık müdürlüğü, il çevre ve orman müdürlüğü” ibaresi “halk sağlığı müdürlüğü, il çevre ve şehircilik müdürlüğü” olarak, “il tarım müdürlüğü” ibaresi “il gıda, tarım ve hayvancılık müdürlüğü” olarak, dördüncü fıkrasında yer alan “sağlık grup başkanlığı, ilçe tarım müdürlüğü” ibaresi “toplum sağlığı merkezi, ilçe gıda, tarım ve hayvancılık müdürlüğü” olarak, “il çevre ve orman müdürlüğünce” ibaresi “il çevre ve şehircilik müdürlüğünce” olarak değiştirilmiştir.
 
 MADDE 5 – Aynı Yönetmeliğin 15 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 15 – (1) Her mezarlıkta oraya gömülen cenazelerin adı soyadı, Türkiye Cumhuriyeti kimlik numarası, baba adı, doğum tarihi, ölüm tarihi, adresi, ölüm şekli, cenaze ölüm belgesi numarası ve hangi numaralı mezara gömüldüklerini gösteren Ek-5’teki mezarlık defteri tutulur. Bu defter gerekli güvenlik tedbirlerinin alınması şartıyla elektronik ortamda da tutulabilir.”
+“**MADDE 15 –** (1) Her mezarlıkta oraya gömülen cenazelerin adı soyadı, Türkiye Cumhuriyeti kimlik numarası, baba adı, doğum tarihi, ölüm tarihi, adresi, ölüm şekli, cenaze ölüm belgesi numarası ve hangi numaralı mezara gömüldüklerini gösteren Ek-5’teki mezarlık defteri tutulur. Bu defter gerekli güvenlik tedbirlerinin alınması şartıyla elektronik ortamda da tutulabilir.”
 
 MADDE 6 – Aynı Yönetmeliğin Dördüncü Bölümünün başlığı “Ölüm Belgesi Düzenleme Yetkilisi ve Ölüm Belgesi Düzenlenmesi” olarak değiştirilmiştir.
 
@@ -63,10 +63,10 @@ MADDE 11 – Aynı Yönetmeliğin 20 nci maddesi başlığı ile birlikte aşağ
 MADDE 20 – (1) Ölüm belgesi düzenleme yetkililerinin görevlerinden ayrılmaları durumunda yeni görevliler zaman geçirilmeksizin belirlenir. Görevinden ayrılanlarca ölü muayenesi yapılamaz ve ölüm belgesi verilemez.”
 
 MADDE 12 – Aynı Yönetmeliğin 21 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 21 – (1) Ölüyü muayene edenler veya ölüm belgesi vermeye yetkili olanlar vefat sebebinin doğal olmayan yollardan olduğuna dair şüphe veya kanaat taşıdıkları takdirde adli makamları, bulaşıcı hastalıktan olduğuna dair şüphe taşıdıklarında ise, cenazenin bulunduğu mahaldeki toplum sağlığı merkezini haberdar etmeden ölüm belgesi veremezler. Tabip olmayan yerlerde bulaşıcı hastalık şüphesiyle vefat edenler için, ölüm belgesi düzenleme yetkililerince, haberdar edilen sağlık biriminin talimatlarına göre ölü muayenesi yapılır, ölüm belgesi verilir ve defnin talimatlara uygun olarak yerine getirilmesi sağlanır.”
+“**MADDE 21 –** (1) Ölüyü muayene edenler veya ölüm belgesi vermeye yetkili olanlar vefat sebebinin doğal olmayan yollardan olduğuna dair şüphe veya kanaat taşıdıkları takdirde adli makamları, bulaşıcı hastalıktan olduğuna dair şüphe taşıdıklarında ise, cenazenin bulunduğu mahaldeki toplum sağlığı merkezini haberdar etmeden ölüm belgesi veremezler. Tabip olmayan yerlerde bulaşıcı hastalık şüphesiyle vefat edenler için, ölüm belgesi düzenleme yetkililerince, haberdar edilen sağlık biriminin talimatlarına göre ölü muayenesi yapılır, ölüm belgesi verilir ve defnin talimatlara uygun olarak yerine getirilmesi sağlanır.”
 
 MADDE 13 – Aynı Yönetmeliğin 22 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 22 – (1) Ölümler, ölüm olayının meydana geldiği tarihten itibaren 10 gün içinde halk sağlığı müdürlüğü tarafından elektronik ortamda nüfus müdürlüğüne bildirilir. Ölüm olayları nüfus müdürlüğüne bildirilirken ölen kişinin nüfus cüzdanı aslı da nüfus müdürlüğüne gönderilir. Ölen kişinin nüfus cüzdanının bulunamaması durumunda ölen kişinin yakınlarından ölen kişinin adı, soyadı ve T.C. kimlik numarasının yazılı beyanı istenir. Ölen kişinin yakınlarından ölen kişinin T.C. kimlik numarasının yazılı beyanı dışında nüfus kayıt örneği veya kimliğe ilişkin başkaca bir belge istenmez.”
+“**MADDE 22 –** (1) Ölümler, ölüm olayının meydana geldiği tarihten itibaren 10 gün içinde halk sağlığı müdürlüğü tarafından elektronik ortamda nüfus müdürlüğüne bildirilir. Ölüm olayları nüfus müdürlüğüne bildirilirken ölen kişinin nüfus cüzdanı aslı da nüfus müdürlüğüne gönderilir. Ölen kişinin nüfus cüzdanının bulunamaması durumunda ölen kişinin yakınlarından ölen kişinin adı, soyadı ve T.C. kimlik numarasının yazılı beyanı istenir. Ölen kişinin yakınlarından ölen kişinin T.C. kimlik numarasının yazılı beyanı dışında nüfus kayıt örneği veya kimliğe ilişkin başkaca bir belge istenmez.”
 
 MADDE 14 – Aynı Yönetmeliğin 24 üncü maddesinin birinci fıkrasının (ç) bendi aşağıdaki şekilde değiştirilmiştir.
 “ç) Bulaşıcı hastalık nedeni ile ölenler için ölüm belgesi veren hekimin veya ölüm belgesi düzenleme yetkilisinin bildirim yaptığı sağlık kuruluşunun talimatlarına göre ek önlemler alınır,”
@@ -85,4 +85,4 @@ MADDE 20 – Aynı Yönetmeliğin ekinde yer alan Ek-1, Ek-2, Ek-3, Ek-5 ve Ek-6
 
 MADDE 21 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-MADDE 22 – Bu Yönetmelik hükümlerini İçişleri Bakanı ve Sağlık Bakanı birlikte yürütür.
+**MADDE 22 –** Bu Yönetmelik hükümlerini İçişleri Bakanı ve Sağlık Bakanı birlikte yürütür.

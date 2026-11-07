@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.04/ 10.06/ 25/10/2010 - 11646 Konu: 2011–2012–2013 Yılları Döner Sermaye Bütçe Çağrısı
+Sayı : B.10.0.SGB.0.81.00.04/ 10.06/ **25/10/2010 - 11646** Konu: 2011–2012–2013 Yılları Döner Sermaye Bütçe Çağrısı
 
 ### …VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE 2010-76 Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliğinin 4 üncü maddesi ve 106 sayılı
 
@@ -24,25 +24,25 @@ gerektiğinde kurumla görüşülerek gerekli düzeltmeler yapıldıktan sonra o
 
 ### Bilindiği üzere; Devlet Planlama Teşkilatı Müsteşarlığınca 10.10.2010 tarih ve 27725 sayılı Resmi
 
-Gazetede yayımlanan Orta Vadeli Program (2011-2013) da sağlık hizmet sunumuyla ilgili olarak “Sağlık
+Gazetede yayımlanan Orta Vadeli Program (2011-2013) da sağlık hizmet sunumuyla ilgili olarak **<i>“Sağlık</i>**
 
-politikasının temel amacı, vatandaşların ekonomik ve sosyal hayata sağlıklı bireyler olarak katılımını
+**<i>politikasının temel amacı, vatandaşların ekonomik ve sosyal hayata sağlıklı bireyler olarak katılımını</i>**
 
-sağlamak ve yaşam kalitesini yükseltmektir. Bu çerçevede;
+**<i>sağlamak ve yaşam kalitesini yükseltmektir. Bu çerçevede;</i>**
 
-I.Sağlık hizmetlerinin erişilebilirliği, kalitesi ve etkinliği artırılacaktır.
+**<i>I.Sağlık hizmetlerinin erişilebilirliği, kalitesi ve etkinliği artırılacaktır.</i>**
 
-II.Koruyucu sağlık hizmetleri güçlendirilerek yaygınlaştırılacaktır.
+**<i>II.Koruyucu sağlık hizmetleri güçlendirilerek yaygınlaştırılacaktır.</i>**
 
-III.Akılcı ilaç kullanımı ve teşhise dayalı fiyatlandırma gibi uygulamalarla başta ilaç olmak üzere, sağlık
+**<i>III.Akılcı ilaç kullanımı ve teşhise dayalı fiyatlandırma gibi uygulamalarla başta ilaç olmak üzere, sağlık</i>**
 
-harcamalarında etkinliğin artırılması sağlanacaktır.”
+**<i>harcamalarında etkinliğin artırılması sağlanacaktır.”</i>**
 
 İfadesine yer verilmiştir. Bakanlığımıza bağlı kurum ve kuruluşların bütçelerini bu doğrultuda hazırlamaları
 
 gerekmektedir.
 
-Bütçenin Hazırlanmasında ve Uygulanmasında aşağıdaki hususlara dikkat edilmelidir;
+**Bütçenin Hazırlanmasında ve Uygulanmasında aşağıdaki hususlara dikkat edilmelidir;**
 
 ### 1-Döner Sermayeli İşletmelerin bütçeleri, www.saglik.gov.tr sitesinde, web uygulamaları altında Döner
 
@@ -108,7 +108,7 @@ programında yayımlanacak “2010 yılı Eylül ayı sonu borçluluk oranı” 
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.04/ 10.06/ 25/10/2010 - 11646 Konu: 2011–2012–2013 Yılları Döner Sermaye Bütçe Çağrısı
+Sayı : B.10.0.SGB.0.81.00.04/ 10.06/ **25/10/2010 - 11646** Konu: 2011–2012–2013 Yılları Döner Sermaye Bütçe Çağrısı
 
 ### 10-2010 döneminde uygulandığı gibi 2011 döneminde de bütçenin Gider kısmında 659-99 (Tenkis
 
@@ -122,9 +122,9 @@ bütçesinin en az % 10’u, Hastaneler ve Hıfzıssıhha Merkezleri % 12’si v
 
 sarf malzemesi, ilaç, serum, aşı ortez, protez gibi teşhis ve tedaviye yönelik mal ihtiyaçlarını tedarikçi kurumdan
 
-temin edeceğinden, tedarikçi kurumlarımız 740-03 kaleminde (Tıbbi ve Laboratuar Sarf Malzemeleri Grubu)
+temin edeceğinden, **tedarikçi kurumlarımız** 740-03 kaleminde (Tıbbi ve Laboratuar Sarf Malzemeleri Grubu)
 
-bağlı kurumların ihtiyaçları kadar ödenek bulundurulacak ve bütçe taslağı metin kısmında bu durum yazılı
+**bağlı kurumların** ihtiyaçları kadar ödenek bulundurulacak ve bütçe taslağı metin kısmında bu durum yazılı
 
 olarak bildirilecektir.
 
@@ -140,11 +140,11 @@ Prim Ödenekleri) kalemlerden 106 sayılı yönetmeliğin 36’ncı maddesi hük
 
 ### 13-Yukarıdaki kalemler dışında kalan harcama kalemlerinde aktarma yapılacak kalemin %20 sini
 
-aşmamak kaydı ile bölümler arası aktarma işlemi (bölüm içi aktarma işlemi tesis eder gibi) harcama
+**aşmamak kaydı ile bölümler arası aktarma işlemi** (bölüm içi aktarma işlemi tesis eder gibi) harcama
 
 yetkilisince onaylanarak yapılabilecektir. Bu şekilde bölümler arası yapılacak aktarma işleminin toplamı,
 
-onaylanan yılı bütçesi toplamının % 5 ini geçemeyecektir.
+**onaylanan yılı bütçesi toplamının % 5 ini** geçemeyecektir.
 
 ### 14-2010/59 nolu kaynak aktarımına ilişkin Genelge ile “Bakanlığımıza bağlı Ağız ve Diş Merkezleri ve
 
@@ -172,7 +172,7 @@ hastanelerin 659-99 (Tenkis Edilecek Ödenek) kalemi onaylanan yılı bütçeler
 
 Araştırma ve Geliştirme Giderleri kalemi 2010 yılında uygulandığı gibi 2011 bütçe döneminde de uygulanmaya
 
-devam edecektir. Bu kaleme onaylanan yılı bütçesinin binde 5’ini geçmemek üzere araştırma ve geliştirme
+devam edecektir. Bu kaleme onaylanan yılı bütçesinin **binde 5’**ini geçmemek üzere araştırma ve geliştirme
 
 giderleri için düşünülen miktarda ödenek konulacaktır.
 
@@ -216,7 +216,7 @@ Hizmetler ve Çocuk Esirgeme Kurumu payı, % 1 hazine payı düşüldükten sonr
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.04/ 10.06/ 25/10/2010 - 11646 Konu: 2011–2012–2013 Yılları Döner Sermaye Bütçe Çağrısı
+Sayı : B.10.0.SGB.0.81.00.04/ 10.06/ **25/10/2010 - 11646** Konu: 2011–2012–2013 Yılları Döner Sermaye Bütçe Çağrısı
 
 kurumsal performans katsayısı ile çarpımı sonucu bulunan miktarı geçmeyecek şekilde belirleyecektir. Birinci
 
@@ -322,7 +322,7 @@ birlikte gönderecektir.
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.04/ 10.06/ 25/10/2010 - 11646 Konu: 2011–2012–2013 Yılları Döner Sermaye Bütçe Çağrısı
+Sayı : B.10.0.SGB.0.81.00.04/ 10.06/ **25/10/2010 - 11646** Konu: 2011–2012–2013 Yılları Döner Sermaye Bütçe Çağrısı
 
 ### 33-Yılı içinde yapılacak olan ek bütçe ve bölümler arası aktarmalar Bakanlığımızca onaylanmaya devam
 

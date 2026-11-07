@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-İN VİTRO TANI AMAÇLI TIBBİ CİHAZ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İN VİTRO TANI AMAÇLI TIBBİ CİHAZ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliğinin 3 üncü maddesinin birinci fıkrasının (ff) bendinde yer alan “Birliği” ibaresi yürürlükten kaldırılmıştır.
 

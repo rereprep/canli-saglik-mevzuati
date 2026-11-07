@@ -12,11 +12,11 @@ durum: "yürürlükte"
 ---
 
 Güvenlik Kurumundan:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
-MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.9.3 numaralı maddesinin birinci fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.9.3 numaralı maddesinin birinci fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Ancak;
-Yükseköğretim kurumlarına ait sağlık hizmeti sunucularında (vakıf üniversiteleri hariç) öğretim üyesi tarafından verilen 18 yaşını doldurmamış çocuklar hariç olmak üzere; SUT eki EK-2/B ve EK-2/C Listesindeki 618200-P618200 kodlu “Koklear implant yerleştirilmesi” işlemi için ilave ücret alınabilir. Ayrıca Yükseköğretim kurumlarına ait sağlık hizmeti sunucularında (vakıf üniversiteleri hariç) öğretim üyesi tarafından verilen SUT’un 2.1.1 numaralı maddesi kapsamındaki sağlık hizmetleri ve kardiyovasküler cerrahi branşında yapılan cerrahi işlemler için de ilave ücret alınabilir.”
+Yükseköğretim kurumlarına ait sağlık hizmeti sunucularında (vakıf üniversiteleri hariç) öğretim üyesi tarafından verilen 18 yaşını doldurmamış çocuklar hariç olmak üzere; **SUT** eki EK-2/B ve EK-2/C Listesindeki 618200-P618200 kodlu “Koklear implant yerleştirilmesi” işlemi için ilave ücret alınabilir. Ayrıca Yükseköğretim kurumlarına ait sağlık hizmeti sunucularında (vakıf üniversiteleri hariç) öğretim üyesi tarafından verilen SUT’un 2.1.1 numaralı maddesi kapsamındaki sağlık hizmetleri ve kardiyovasküler cerrahi branşında yapılan cerrahi işlemler için de ilave ücret alınabilir.”
 
 MADDE 2 – Aynı Tebliğin 2.5.1 alt maddesine aşağıdaki fıkra eklenmiştir.
 “(6) Kuzey Kıbrıs Türk Cumhuriyetinde Kurumla sözleşmeli sağlık hizmeti sunucusu bulunması halinde, geçici ya da sürekli görevle bu ülkede bulunanlar ile bakmakla yükümlü olduğu kişilerin acil haller hariç sözleşmesiz sağlık hizmeti sunucularından alınan sağlık hizmeti bedelleri Kurumca karşılanmaz.”
@@ -195,15 +195,15 @@ b) Listeden “P611120” SUT kodlu “Pilon kırığı cerrahi tedavisi” işl
 MADDE 25 – Aynı Tebliğ eki “İntraoperatif Nöromonitorizasyon” İşleminin Ayrıca Faturalanabileceği İşlemler Listesi EK-2/D-4 listesinde yer alan “P615970/615970” SUT kodlu “Torakal disk eksizyonu” işleminin adı “Torakal disk eksizyonu/interbody füzyon ameliyatı (ekstrem lateral, direkt lateral)” şeklinde değiştirilmiştir.
 
 MADDE 26 – Aynı Tebliğin “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler (EK-3/A) Listesi”nde fiyatları belirlenen SUT kodları aşağıdaki tabloda belirtilmiştir.
-SUT KODU MALZEME ALAN TANIMI SUT FİYAT
-400.011 HEMOSTATİK ETKEN İÇEREN TAMPON (100 cm2'den küçük) ( 5cc ) 75,00 400.012 HEMOSTATİK ETKEN İÇEREN TAMPON (100 cm2'den küçük) ( 3 cc ) 45,00
+SUT **KODU MALZEME ALAN TANIMI SUT FİYAT**
+**400.011** HEMOSTATİK ETKEN İÇEREN TAMPON (100 cm2'den küçük) ( 5cc ) 75,00 **400.012** HEMOSTATİK ETKEN İÇEREN TAMPON (100 cm2'den küçük) ( 3 cc ) 45,00
 
 MADDE 27 – Aynı Tebliğ eki “Eksternal Alt ve Üst Ekstremite Gövde Protez Ortezler” adlı EK-3/C-2 listesine “OP1301” SUT kodlu tıbbi malzemeden sonra gelmek üzere aşağıdaki tıbbi malzeme eklenmiştir.
 EKSTERNAL ALT
 VE ÜST EKSTREMİTE GÖVDE PROTEZ ORTEZLER EK-3/C-2 SUT KODU
 TIBBİ MALZEME ALAN TANIMI YENİLENME SÜRESİ ÖZEL KOŞULLAR AKTİVİTE SKORU FİYAT
-(TL) OP1341
-GÖRME ENGELLİLER İÇİN TELESKOPİK VEYA KATLANABİLİR BASTON
+(TL) **OP1341**
+**GÖRME ENGELLİLER İÇİN TELESKOPİK VEYA KATLANABİLİR BASTON**
 C* H 1 YIL 22,00
 
 MADDE 28 – Aynı Tebliğin “Omurga Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler (EK-3/E-1) Listesi”nde aşağıdaki düzenlemeler yapılmıştır.

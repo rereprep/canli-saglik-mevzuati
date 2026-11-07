@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-KARAYOLLARI TRAFİK YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+KARAYOLLARI TRAFİK YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR **YÖNETMELİK**
 
 MADDE 1 – 18/7/1997 tarihli ve 23053 mükerrer sayılı Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinin 6 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 "MADDE 6 – Trafik kuruluşlarının çalışma şekil ve şartları, görevlendirilecek personelin nitelikleri, seçimi, çalışma usulleri, görev, yetki ve sorumluluklarına ilişkin hususlar ilgili mevzuatta gösterilmiştir."

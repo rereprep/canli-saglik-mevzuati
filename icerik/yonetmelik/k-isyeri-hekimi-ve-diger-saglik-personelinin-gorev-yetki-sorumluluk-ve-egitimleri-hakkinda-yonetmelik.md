@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -29,7 +29,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik; 6331 sayılı İş Sağlığı ve Güvenliği Kanununun ( Değişik ibare:RG-18/12/2014-29209) 3 üncü, 24 üncü, 27 nci, 30 uncu ve 31 inci maddeleri ile , 9/1/1985 tarihli ve 3146 sayılı Çalışma ve Sosyal Güvenlik Bakanlığının Teşkilat ve Görevleri Hakkında Kanunun 2 ve 12 nci maddelerine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik; 6331 sayılı İş Sağlığı ve Güvenliği Kanununun ( **Değişik ibare:RG-18/12/2014-29209)** 3 üncü, 24 üncü, 27 nci, 30 uncu ve 31 inci maddeleri ile , 9/1/1985 tarihli ve 3146 sayılı Çalışma ve Sosyal Güvenlik Bakanlığının Teşkilat ve Görevleri Hakkında Kanunun 2 ve 12 nci maddelerine dayanılarak hazırlanmıştır.
 
 #### Tanımlar
 
@@ -41,9 +41,9 @@ b) Diğer sağlık personeli: İş sağlığı ve güvenliği hizmetlerinde gör
 
 c) Eğiticilerin eğitimi belgesi: En az 40 saatlik eğitim sonunda kamu kurum ve kuruluşları, üniversiteler veya 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununa göre yetkilendirilen kurumlar tarafından tek bir program sonucunda verilen eğiticilerin eğitimi belgesini,
 
-ç) Eğitim kurumu: ( Değişik ibare:RG-18/12/2014-29209) İş güvenliği uzmanı, işyeri hekimi ve diğer sağlık personeli eğitimlerini vermek üzere Bakanlıkça yetkilendirilen kamu kurum ve kuruluşları, üniversiteler ve 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununa göre faaliyet gösteren şirketler tarafından kurulan müesseseleri,
+ç) Eğitim kurumu: ( **Değişik ibare:RG-18/12/2014-29209)** İş güvenliği uzmanı, işyeri hekimi ve diğer sağlık personeli eğitimlerini vermek üzere Bakanlıkça yetkilendirilen kamu kurum ve kuruluşları, üniversiteler ve 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununa göre faaliyet gösteren şirketler tarafından kurulan müesseseleri,
 
-d) ( Değişik:RG-18/12/2014-29209) Eğitim programı: Uzaktan, yüz yüze ve uygulamalı eğitimlerin tarih ve saatleri, eğiticileri, katılımcıları ile eğitim verilen adres gibi unsurlardan ve bu unsurlara ilişkin her türlü bilgi ve belgeden oluşan programı,
+d) ( **Değişik:RG-18/12/2014-29209)** Eğitim programı: Uzaktan, yüz yüze ve uygulamalı eğitimlerin tarih ve saatleri, eğiticileri, katılımcıları ile eğitim verilen adres gibi unsurlardan ve bu unsurlara ilişkin her türlü bilgi ve belgeden oluşan programı,
 
 e) Genel Müdürlük: İş Sağlığı ve Güvenliği Genel Müdürlüğünü,
 
@@ -53,15 +53,15 @@ g) İşyeri hekimi: İş sağlığı ve güvenliği alanında görev yapmak üze
 
 ğ) Sorumlu müdür: İşyeri hekimliği ve iş güvenliği uzmanlığı eğitici belgesine sahip olan, tam süreli istihdam edilen ve eğitim kurumlarının iş ve işlemlerinden Bakanlığa karşı sorumlu olan kişiyi,
 
-h) ( Ek:RG-18/12/2014-29209) (Değişik:RG-28/2/2020-31053) İtiraz komisyonu: Bu Yönetmelik kapsamında hizmet veren kişi veya kurumların belgelerinin askıya alınma veya iptali ile ilgili itirazlarını değerlendirmek ve sonuçlandırmak üzere; İş Sağlığı ve Güvenliği Genel Müdürü başkanlığında, ilgili Genel Müdür Yardımcısı, ilgili Daire Başkanı ile Genel Müdürlükte görevli ve değerlendirmeye konu denetim sürecinde yer almamış dört personel olmak üzere toplam yedi üyeden oluşan komisyonu,
+h) ( **Ek:RG-18/12/2014-29209) (Değişik:RG-28/2/2020-31053)** İtiraz komisyonu: Bu Yönetmelik kapsamında hizmet veren kişi veya kurumların belgelerinin askıya alınma veya iptali ile ilgili itirazlarını değerlendirmek ve sonuçlandırmak üzere; İş Sağlığı ve Güvenliği Genel Müdürü başkanlığında, ilgili Genel Müdür Yardımcısı, ilgili Daire Başkanı ile Genel Müdürlükte görevli ve değerlendirmeye konu denetim sürecinde yer almamış dört personel olmak üzere toplam yedi üyeden oluşan komisyonu,
 
-ı) ( Ek:RG-18/12/2014-29209) Komisyon: İş Sağlığı ve Güvenliği Genel Müdürü veya Yardımcısının başkanlığında Genel Müdürlükten üç üye ve İş Teftiş Kurulu Başkanlığından seçilecek bir üye ile gerek görüldüğünde üniversitelerin tıp, hukuk, eğitim, mühendislik ve iletişim fakültelerinden seçilecek öğretim üyelerinden oluşan Komisyonu,
+ı) ( **Ek:RG-18/12/2014-29209)** Komisyon: İş Sağlığı ve Güvenliği Genel Müdürü veya Yardımcısının başkanlığında Genel Müdürlükten üç üye ve İş Teftiş Kurulu Başkanlığından seçilecek bir üye ile gerek görüldüğünde üniversitelerin tıp, hukuk, eğitim, mühendislik ve iletişim fakültelerinden seçilecek öğretim üyelerinden oluşan Komisyonu,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-İşverenin Yükümlülükleri
+**İşverenin Yükümlülükleri**
 
 #### İşyeri hekimi ve diğer sağlık personeli görevlendirme yükümlülüğü
 
@@ -73,9 +73,9 @@ ifade eder.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İşyeri Hekiminin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile
+**İşyeri Hekiminin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile**
 
-Çalışma Usûl ve Esasları
+**Çalışma Usûl ve Esasları**
 
 #### İşyeri hekimlerinin nitelikleri ve görevlendirilmeleri
 
@@ -95,7 +95,7 @@ b) İş sağlığı veya iş sağlığı ve güvenliği bilim uzmanı unvanına 
 
 c) Hekimlik diplomasına sahip iş sağlığı, iş sağlığı ve güvenliği bilim doktorlarına, iş sağlığı ve güvenliği alanında yardımcılık süresi dahil en az sekiz yıl teftiş yapmış olan hekim iş müfettişlerine, Genel Müdürlük ve bağlı birimlerinde iş sağlığı ve güvenliği alanında en az sekiz yıl fiilen çalışmış hekimlere istekleri halinde,
 
-ç) ( Ek:RG-18/12/2014-29209) İş ve meslek hastalıkları yan dal uzmanlığını alan hekimlere istekleri halinde,
+ç) ( **Ek:RG-18/12/2014-29209)** İş ve meslek hastalıkları yan dal uzmanlığını alan hekimlere istekleri halinde,
 
 EK-1’deki örneğine uygun olarak Genel Müdürlükçe verilir.
 
@@ -135,7 +135,7 @@ c) Sağlık gözetimi;
 
 2) Gece postaları da dâhil olmak üzere çalışanların sağlık gözetimini yapmak.
 
-3) ( Değişik:RG-18/12/2014-29209) Çalışanın kişisel özellikleri, işyerinin tehlike sınıfı ve işin niteliği öncelikli olarak göz önünde bulundurularak uluslararası standartlar ile işyerinde yapılan risk değerlendirmesi sonuçları doğrultusunda; az tehlikeli sınıftaki işlerde en geç beş yılda bir, tehlikeli sınıftaki işlerde en geç üç yılda bir, çok tehlikeli sınıftaki işlerde en geç yılda bir, özel politika gerektiren grupta yer alanlardan çocuk, genç ve gebe çalışanlar için en geç altı ayda bir defa olmak üzere periyodik muayene tekrarlanır. Ancak işyeri hekiminin gerek görmesi halinde bu süreler kısaltılır.
+3) ( **Değişik:RG-18/12/2014-29209)** Çalışanın kişisel özellikleri, işyerinin tehlike sınıfı ve işin niteliği öncelikli olarak göz önünde bulundurularak uluslararası standartlar ile işyerinde yapılan risk değerlendirmesi sonuçları doğrultusunda; az tehlikeli sınıftaki işlerde en geç beş yılda bir, tehlikeli sınıftaki işlerde en geç üç yılda bir, çok tehlikeli sınıftaki işlerde en geç yılda bir, özel politika gerektiren grupta yer alanlardan çocuk, genç ve gebe çalışanlar için en geç altı ayda bir defa olmak üzere periyodik muayene tekrarlanır. Ancak işyeri hekiminin gerek görmesi halinde bu süreler kısaltılır.
 
 4) Çalışanların yapacakları işe uygun olduklarını belirten işe giriş ve periyodik sağlık muayenesi ile gerekli tetkiklerin sonuçlarını EK-2’de verilen örneğe uygun olarak düzenlemek ve işyerinde muhafaza etmek.
 
@@ -149,7 +149,7 @@ c) Sağlık gözetimi;
 
 9) İşyerindeki sağlık gözetimi ile ilgili çalışmaları kaydetmek, iş güvenliği uzmanı ile işbirliği yaparak iş kazaları ve meslek hastalıkları ile ilgili değerlendirme yapmak, tehlikeli olayın tekrarlanmaması için inceleme ve araştırma yaparak gerekli önleyici faaliyet planlarını hazırlamak ve bu konuları da içerecek şekilde yıllık çalışma planını hazırlayarak işverenin onayına sunmak, uygulamaların takibini yapmak ve EK-3’te belirtilen örneğine uygun yıllık değerlendirme raporunu hazırlamak.
 
-10) ( Ek:RG-18/12/2014-29209) Bir başka işverenden iş görmek için işyerine geçici olarak gönderilen çalışanlar ile alt işveren çalışanlarının yapacakları işe uygun olduğunu gösteren sağlık raporlarının süresinin dolup dolmadığını kontrol etmek.
+10) ( **Ek:RG-18/12/2014-29209)** Bir başka işverenden iş görmek için işyerine geçici olarak gönderilen çalışanlar ile alt işveren çalışanlarının yapacakları işe uygun olduğunu gösteren sağlık raporlarının süresinin dolup dolmadığını kontrol etmek.
 
 ç) Eğitim, bilgilendirme ve kayıt;
 
@@ -163,7 +163,7 @@ c) Sağlık gözetimi;
 
 5) İş sağlığı ve güvenliği çalışmaları ve sağlık gözetimi sonuçlarının kaydedildiği yıllık değerlendirme raporunu iş güvenliği uzmanı ile işbirliği halinde EK-3’teki örneğine uygun olarak hazırlamak.
 
-6) ( Ek:RG-18/12/2014-29209) Bakanlıkça belirlenecek iş sağlığı ve güvenliğini ilgilendiren konularla ilgili bilgileri İSG KATİP sistemi üzerinden Genel Müdürlüğe bildirmek.
+6) ( **Ek:RG-18/12/2014-29209)** Bakanlıkça belirlenecek iş sağlığı ve güvenliğini ilgilendiren konularla ilgili bilgileri İSG KATİP sistemi üzerinden Genel Müdürlüğe bildirmek.
 
 d) İlgili birimlerle işbirliği;
 
@@ -189,7 +189,7 @@ d) İlgili birimlerle işbirliği;
 
 **MADDE 10 –** (1) İşyeri hekiminin yetkileri aşağıda belirtilmiştir:
 
-a) ( Mülga:RG-18/12/2014-29209)
+a) ( **Mülga:RG-18/12/2014-29209)**
 
 b) İşyerinde belirlediği hayati tehlikenin ciddi ve önlenemez olması ve bu hususun acil müdahale gerektirmesi halinde işin durdurulması için işverene başvurmak.
 
@@ -205,7 +205,7 @@ c) Görevi gereği işyerinin bütün bölümlerinde iş sağlığı ve güvenli
 
 (2) İşyeri hekimleri, iş sağlığı ve güvenliği hizmetlerinin yürütülmesindeki ihmallerinden dolayı, hizmet sundukları işverene karşı sorumludur.
 
-(3) ( Değişik:RG-18/12/2014-29209) İşyeri hekimleri, işverene yazılı olarak bildirdikleri iş sağlığı ve güvenliğiyle ilgili alınması gereken tedbirlerden acil durdurma gerektiren haller ile yangın, patlama, göçme, kimyasal sızıntı gibi hayati tehlike arz edenleri, belirlenecek makul bir süre içinde işveren tarafından yerine getirilmemesi hâlinde, işyerinin bağlı bulunduğu çalışma ve iş kurumu il müdürlüğüne yazılı olarak bildirmekle yükümlüdürler.
+(3) ( **Değişik:RG-18/12/2014-29209)** İşyeri hekimleri, işverene yazılı olarak bildirdikleri iş sağlığı ve güvenliğiyle ilgili alınması gereken tedbirlerden acil durdurma gerektiren haller ile yangın, patlama, göçme, kimyasal sızıntı gibi hayati tehlike arz edenleri, belirlenecek makul bir süre içinde işveren tarafından yerine getirilmemesi hâlinde, işyerinin bağlı bulunduğu çalışma ve iş kurumu il müdürlüğüne yazılı olarak bildirmekle yükümlüdürler.
 
 (4) İşyeri hekimi, görevlendirildiği işyerinde yapılan çalışmalara ilişkin tespit ve tavsiyeleri ile işyeri hekiminin görevleri başlıklı dokuzuncu maddede belirtilen hususlara ait çalışmalarını, iş güvenliği uzmanı ile birlikte yapılan çalışmaları ve gerekli gördüğü diğer hususları onaylı deftere yazar.
 
@@ -213,7 +213,7 @@ c) Görevi gereği işyerinin bütün bölümlerinde iş sağlığı ve güvenli
 
 #### İşyeri hekimlerinin çalışma süreleri
 
-**MADDE 12 –** (1) ( Değişik:RG-18/12/2014-29209) İşyeri hekimleri, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:
+**MADDE 12 –** (1) ( **Değişik:RG-18/12/2014-29209)** İşyeri hekimleri, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:
 
 a) Az tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 5 dakika.
 
@@ -223,13 +223,13 @@ c) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 15 dak
 
 (2) Az tehlikeli sınıfta yer alan 2000 ve daha fazla çalışanı olan işyerlerinde her 2000 çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının 2000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir.
 
-(3) Tehlikeli sınıfta yer alan ( Değişik ibare:RG-18/12/2014-29209) 1000 ve daha fazla çalışanı olan işyerlerinde her ( Değişik ibare:RG-18/12/2014-29209) 1000 çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının ( Değişik ibare:RG-18/12/2014-29209) 1000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir.
+(3) Tehlikeli sınıfta yer alan ( **Değişik ibare:RG-18/12/2014-29209)** 1000 ve daha fazla çalışanı olan işyerlerinde her ( **Değişik ibare:RG-18/12/2014-29209)** 1000 çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının ( **Değişik ibare:RG-18/12/2014-29209)** 1000 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir.
 
-(4) Çok tehlikeli sınıfta yer alan ( Değişik ibare:RG-18/12/2014-29209) 750 ve daha fazla çalışanı olan işyerlerinde her ( Değişik ibare:RG-18/12/2014-29209) 750 çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının ( Değişik ibare:RG-18/12/2014-29209) 750 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir.
+(4) Çok tehlikeli sınıfta yer alan ( **Değişik ibare:RG-18/12/2014-29209)** 750 ve daha fazla çalışanı olan işyerlerinde her ( **Değişik ibare:RG-18/12/2014-29209)** 750 çalışan için tam gün çalışacak en az bir işyeri hekimi görevlendirilir. Çalışan sayısının ( **Değişik ibare:RG-18/12/2014-29209)** 750 sayısının tam katlarından fazla olması durumunda geriye kalan çalışan sayısı göz önünde bulundurularak birinci fıkrada belirtilen kriterlere uygun yeteri kadar işyeri hekimi ek olarak görevlendirilir.
 
 (5) İşyeri hekiminin görevlendirilmesinde sözleşmede belirtilen süre kadar işyerinde hizmet sunulur. Birden fazla işyeri ile kısmi süreli iş sözleşmesi yapıldığı takdirde bu işyerleri arasında yolda geçen süreler haftalık kanuni çalışma süresinden sayılmaz.
 
-(6) ( Ek:RG-18/12/2014-29209) Kamu kurum ve kuruluşlarında çalışan ve yöneticilik görevi bulunmayan tabipler ile aile hekimleri hariç diğer işyerlerinde çalışan işyeri hekimleri tam gün çalıştığı işyeri dışında fazla çalışma yapamaz.
+(6) ( **Ek:RG-18/12/2014-29209)** Kamu kurum ve kuruluşlarında çalışan ve yöneticilik görevi bulunmayan tabipler ile aile hekimleri hariç diğer işyerlerinde çalışan işyeri hekimleri tam gün çalıştığı işyeri dışında fazla çalışma yapamaz.
 
 #### İşyeri hekimlerinin belgelendirilmesi
 
@@ -237,9 +237,9 @@ c) Çok tehlikeli sınıfta yer alanlarda, çalışan başına ayda en az 15 dak
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Diğer Sağlık Personelinin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile
+**Diğer Sağlık Personelinin Nitelikleri, Görev, Yetki ve Yükümlülükleri ile**
 
-Çalışma Usûl ve Esasları
+**Çalışma Usûl ve Esasları**
 
 #### Diğer sağlık personelinin nitelikleri ve görevlendirilmeleri
 
@@ -307,11 +307,11 @@ b) Görevinin gerektirdiği konularda işveren ve işyeri hekiminin bilgisi dâh
 
 **MADDE 19 –** (1) Diğer sağlık personeli, bu Yönetmelikte belirtilen görevlerini yerine getirmek için aşağıda belirtilen sürelerde görev yaparlar:
 
-a) ( Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 10 ila 49 çalışanı olan işyerlerinde çalışan başına ayda en az 10 dakika.
+a) ( **Değişik:RG-18/12/2014-29209)** Çok tehlikeli sınıfta yer alan 10 ila 49 çalışanı olan işyerlerinde çalışan başına ayda en az 10 dakika.
 
-b) ( Değişik:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 50 ila 249 çalışanı olan işyerlerinde çalışan başına ayda en az 15 dakika.
+b) ( **Değişik:RG-18/12/2014-29209)** Çok tehlikeli sınıfta yer alan 50 ila 249 çalışanı olan işyerlerinde çalışan başına ayda en az 15 dakika.
 
-c) ( Ek:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 250 ve üzeri çalışanı olan işyerlerinde çalışan başına ayda en az 20 dakika.
+c) ( **Ek:RG-18/12/2014-29209)** Çok tehlikeli sınıfta yer alan 250 ve üzeri çalışanı olan işyerlerinde çalışan başına ayda en az 20 dakika.
 
 (2) Tam süreli işyeri hekiminin görevlendirildiği işyerlerinde, diğer sağlık personeli görevlendirilmesi şartı aranmaz. Ancak, iş sağlığı ve güvenliği hizmetlerinin daha etkin sunulması amacıyla bu işyerlerinde, işyeri hekiminin talebi ve işverenin uygun görmesi halinde diğer sağlık personeli görevlendirilebilir.
 
@@ -323,15 +323,15 @@ c) ( Ek:RG-18/12/2014-29209) Çok tehlikeli sınıfta yer alan 250 ve üzeri ça
 
 ### BEŞİNCİ BÖLÜM
 
-Eğitim Kurumlarına İlişkin Hükümler
+**Eğitim Kurumlarına İlişkin Hükümler**
 
 #### Eğitim kurumu başvuru işlemleri
 
-**MADDE 21 –** (1) ( Değişik cümleler:RG-18/12/2014-29209) Eğitim kurumu yetki belgesi almak amacıyla, e-devlet sistemi üzerinden başvuru yapar. e-devlet sisteminin iki günden fazla çalışmadığı durumlarda doğrudan veya posta yoluyla başvuru yapılabilir. Başvuru dosyasında aşağıda belirtilen ekler bulunur:
+**MADDE 21 –** (1) ( **Değişik cümleler:RG-18/12/2014-29209)** Eğitim kurumu yetki belgesi almak amacıyla, e-devlet sistemi üzerinden başvuru yapar. e-devlet sisteminin iki günden fazla çalışmadığı durumlarda doğrudan veya posta yoluyla başvuru yapılabilir. Başvuru dosyasında aşağıda belirtilen ekler bulunur:
 
 a) Ticari şirketler için tescil edildiğini gösteren Ticaret Sicil Gazetesi.
 
-b) (Mülga:RG-6/7/2021-31533)
+b) **(Mülga:RG-6/7/2021-31533)**
 
 c) Eğitim kurumunun sorumlu müdürünün eğitici belgesi ile;
 
@@ -345,27 +345,27 @@ c) Eğitim kurumunun sorumlu müdürünün eğitici belgesi ile;
 
 d) Faaliyet gösterilecek yere ait yapı kullanma izni belgesi.
 
-e) ( Değişik:RG-18/12/2014-29209) Faaliyet gösterilecek yere ait tapu senedi ile birlikte kira sözleşmesi veya intifa hakkı belgesi.
+e) ( **Değişik:RG-18/12/2014-29209)** Faaliyet gösterilecek yere ait tapu senedi ile birlikte kira sözleşmesi veya intifa hakkı belgesi.
 
-f) ( Değişik:RG-18/12/2014-29209) Faaliyet gösterilecek yere ait olan ve yetkili makamlarca verilen ada, pafta, parsel bilgilerinin yer aldığı numarataj veya adres tespit belgesi.
+f) ( **Değişik:RG-18/12/2014-29209)** Faaliyet gösterilecek yere ait olan ve yetkili makamlarca verilen ada, pafta, parsel bilgilerinin yer aldığı numarataj veya adres tespit belgesi.
 
-g) ( Değişik:RG-18/12/2014-29209) Faaliyet gösterilecek yere ait olan ve bu Yönetmelikte belirtilen bütün bölümlerin yer aldığı inşaat teknikeri, mimar veya inşaat mühendisi tarafından onaylanmış 1/100 ölçekli plan.
+g) ( **Değişik:RG-18/12/2014-29209)** Faaliyet gösterilecek yere ait olan ve bu Yönetmelikte belirtilen bütün bölümlerin yer aldığı inşaat teknikeri, mimar veya inşaat mühendisi tarafından onaylanmış 1/100 ölçekli plan.
 
 ğ) Tapu kütüğünde mesken olarak kayıtlı bir ana gayrimenkulün bağımsız bölümlerinde eğitim kurumunun faaliyet gösterebileceğine dair kat malikleri kurulunun oybirliğiyle aldığı karar örneği.
 
-h) ( Mülga ibare:RG-18/12/2014-29209) (…) göre faaliyet gösterilecek yerde yangına karşı gerekli tedbirlerin alındığına ve bu yerde eğitim kurumu açılmasında sakınca olmadığına dair yetkili merciler tarafından verilen belge.
+h) ( **Mülga ibare:RG-18/12/2014-29209) (…)** göre faaliyet gösterilecek yerde yangına karşı gerekli tedbirlerin alındığına ve bu yerde eğitim kurumu açılmasında sakınca olmadığına dair yetkili merciler tarafından verilen belge.
 
-(2) Kamu kurum ve kuruluşları için, yalnızca birinci fıkranın (c) bendinin (2) numaralı alt bendiyle ( Değişik ibare:RG-18/12/2014-29209) (ç), (g) ve (h) bentlerinde belirtilen belgeler istenir. Ancak eğitim verilecek mekân kamu kurumuna ait değilse (a) ve (b) bentleri hariç diğer bentlerde belirtilen belgeler istenir.
+(2) Kamu kurum ve kuruluşları için, yalnızca birinci fıkranın (c) bendinin (2) numaralı alt bendiyle ( **Değişik ibare:RG-18/12/2014-29209)** (ç), (g) ve (h) bentlerinde belirtilen belgeler istenir. Ancak eğitim verilecek mekân kamu kurumuna ait değilse (a) ve (b) bentleri hariç diğer bentlerde belirtilen belgeler istenir.
 
 (3) Üniversitelerin eğitim kurumu olarak yetkilendirilme taleplerinde başvuru rektörlükçe yapılır.
 
-(4) ( Mülga:RG-18/12/2014-29209)
+(4) ( **Mülga:RG-18/12/2014-29209)**
 
 #### Eğitim kurumu yeri ve yerleşim planında aranacak şartlar
 
 **MADDE 22 –** (1) Eğitim kurumunun yer alacağı binada; meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerler bulunamaz.
 
-(2 ) (Değişik:RG-18/12/2014-29209) Eğitim kurumlarının;
+(2 **) (Değişik:RG-18/12/2014-29209)** Eğitim kurumlarının;
 
 a) Faaliyet gösterecekleri mekânda bulunan derslik ve diğer tüm bölümlerinin arasındaki geçişlerin kurum içerisinden olması ve eğitim kurumunun bir bütünlük arz edecek şekilde düzenlenmesi,
 
@@ -387,9 +387,9 @@ a) Dersliklerde 25’ten fazla kursiyer bulunamaz.
 
 b) Dersliklerde kursiyer başına en az 10 metreküp hava hacmi bulunur ve derslikler ile diğer bölümlerin tavan yükseklikleri 2,40 metreden az olamaz. Dört metre üzerinde olan yükseklikler hacim hesabında dikkate alınmaz.
 
-c) Derslik ve diğer bölümlerde bulunan pencerelerde; doğal havalandırmaya müsaade edecek şekilde binanın dış cephesinde olması, pencere alanının bulunduğu bölümün taban alanının %10 undan az olmaması ve dersliklerde pencerenin yerden yüksekliğinin 90 santimetreden fazla olmaması şartları aranır. ( Mülga cümle:RG-18/12/2014-29209) (…)
+c) Derslik ve diğer bölümlerde bulunan pencerelerde; doğal havalandırmaya müsaade edecek şekilde binanın dış cephesinde olması, pencere alanının bulunduğu bölümün taban alanının %10 undan az olmaması ve dersliklerde pencerenin yerden yüksekliğinin 90 santimetreden fazla olmaması şartları aranır. ( **Mülga cümle:RG-18/12/2014-29209) (…)**
 
-ç) Derslik kapılarının genişliği 80 santimetreden az olamaz ve kapı kasasının içten içe ölçülmesiyle belirlenir. ( Ek cümle:RG-18/12/2014-29209) Derslik kapıları, sadece koridor veya dinlenme yerine açılacak şekilde düzenlenir ve derslikler diğer bölümlere geçiş için kullanılamaz. Derslik kapıları dışa doğru açılmalı ve çift taraflı derslik bulunan koridorlarda karşılıklı açılmamalıdır.
+ç) Derslik kapılarının genişliği 80 santimetreden az olamaz ve kapı kasasının içten içe ölçülmesiyle belirlenir. ( **Ek cümle:RG-18/12/2014-29209)** Derslik kapıları, sadece koridor veya dinlenme yerine açılacak şekilde düzenlenir ve derslikler diğer bölümlere geçiş için kullanılamaz. Derslik kapıları dışa doğru açılmalı ve çift taraflı derslik bulunan koridorlarda karşılıklı açılmamalıdır.
 
 (2) Diğer bölümlerde bulunması gereken şartlar aşağıda belirtilmiştir:
 
@@ -443,7 +443,7 @@ b) Özel kuruluşlar tarafından, kamu kurum ve kuruluşlarına ait olan isimler
 
 #### Vize işlemleri ve belgelendirme (Değişik başlık:RG-19/11/2015-29537)
 
-**MADDE 27 –** (1) ( Değişik:RG-18/12/2014-29209) (Değişik cümle:RG-19/11/2015-29537) Bu Yönetmelik kapsamında yetkilendirilen kişi ve kurumlara ait yetki belgelerinin beş yılda bir vize ettirilmesi zorunludur. Belge almak veya vize işlemlerini yaptırmak isteyen (Ek ibare:RG-19/11/2015-29537) kişi ve kurumların;
+**MADDE 27 –** (1) ( **Değişik:RG-18/12/2014-29209) (Değişik cümle:RG-19/11/2015-29537)** Bu Yönetmelik kapsamında yetkilendirilen kişi ve kurumlara ait yetki belgelerinin beş yılda bir vize ettirilmesi zorunludur. Belge almak veya vize işlemlerini yaptırmak isteyen **(Ek ibare:RG-19/11/2015-29537)** kişi ve kurumların;
 
 a) Bu Yönetmeliğin ilgili hükümlerine uygunluk sağlamaları,
 
@@ -451,21 +451,21 @@ b) Bakanlıkça belirlenen belge veya vize bedelini ödemeleri,
 
 gereklidir.
 
-(2) ( Değişik:RG-18/12/2014-29209) Yetkilendirilen kurumlar beş yılın tamamlanmasına en fazla 60 gün kala vize işlemleri için Genel Müdürlüğe müracaat eder. Yukarıda belirtilen süre içinde müracaat etmeyen kurumların eğitim programları, vize işlemleri tamamlanıncaya kadar onaylanmaz. Vize süresinin bitiminden itibaren üç ay içinde vize işleminin tamamlanmaması durumunda yetki belgesi Genel Müdürlükçe doğrudan iptal edilir.
+(2) ( **Değişik:RG-18/12/2014-29209)** Yetkilendirilen kurumlar beş yılın tamamlanmasına en fazla 60 gün kala vize işlemleri için Genel Müdürlüğe müracaat eder. Yukarıda belirtilen süre içinde müracaat etmeyen kurumların eğitim programları, vize işlemleri tamamlanıncaya kadar onaylanmaz. Vize süresinin bitiminden itibaren üç ay içinde vize işleminin tamamlanmaması durumunda yetki belgesi Genel Müdürlükçe doğrudan iptal edilir.
 
 (3) Eğitim kurumları, herhangi bir sebeple faaliyetlerini bırakmaları halinde 30 gün içinde yetki belgelerinin asıllarını Genel Müdürlüğe iade eder.
 
 (4) Belgelendirme ve vize aşamasında gerçeğe aykırı belge ibraz ettiği veya beyanda bulunduğu sonradan tespit edilenlere ait belgeler Genel Müdürlükçe iptal edilir ve yetkili yargı mercilerine suç duyurusunda bulunulur.
 
-(5) ( Ek:RG-18/12/2014-29209) Eğitim kurumlarında adres değişikliği yapmadan önce e-devlet sistemi kullanılarak Genel Müdürlüğe başvurulur. Yeni adresin Genel Müdürlükçe onaylanmasına müteakip işlemler ilk başvuru hükümlerine tabi olarak yürütülür. Adres değişikliği işlemi tamamlanıncaya kadar hizmet vermek isteyen eğitim kurumları yetki aldığı mevcut adreste faaliyetine devam eder.
+(5) ( **Ek:RG-18/12/2014-29209)** Eğitim kurumlarında adres değişikliği yapmadan önce e-devlet sistemi kullanılarak Genel Müdürlüğe başvurulur. Yeni adresin Genel Müdürlükçe onaylanmasına müteakip işlemler ilk başvuru hükümlerine tabi olarak yürütülür. Adres değişikliği işlemi tamamlanıncaya kadar hizmet vermek isteyen eğitim kurumları yetki aldığı mevcut adreste faaliyetine devam eder.
 
-(6) ( Ek:RG-18/12/2014-29209) Eğitim kurumlarında unvan değişikliği yapılması halinde 30 gün içinde yetki belgesinin yenilenmesi talebiyle e-devlet sistemi kullanılarak başvurulur. Unvan değişikliği yapılması halinde yetki belgesinin yenilenmesi için Bakanlıkça belirlenen belge bedelinin ödenmesi gereklidir.
+(6) ( **Ek:RG-18/12/2014-29209)** Eğitim kurumlarında unvan değişikliği yapılması halinde 30 gün içinde yetki belgesinin yenilenmesi talebiyle e-devlet sistemi kullanılarak başvurulur. Unvan değişikliği yapılması halinde yetki belgesinin yenilenmesi için Bakanlıkça belirlenen belge bedelinin ödenmesi gereklidir.
 
-(7) (Ek:RG-7/3/2016-29646) Bu Yönetmelik kapsamında yapılan sınavlarda başarılı olarak belgelendirilen kişilerden, vize tarihinden önce Bakanlığa başvuru yapmayanların yetki belgeleri vize işlemleri tamamlanıncaya kadar askıya alınır. Vize işlemleri için Bakanlığa başvuruda bulunan kişilerin, vize tarihinden itibaren 60 gün içerisinde vize işlemlerini tamamlaması gerekir.
+(7) **(Ek:RG-7/3/2016-29646)** Bu Yönetmelik kapsamında yapılan sınavlarda başarılı olarak belgelendirilen kişilerden, vize tarihinden önce Bakanlığa başvuru yapmayanların yetki belgeleri vize işlemleri tamamlanıncaya kadar askıya alınır. Vize işlemleri için Bakanlığa başvuruda bulunan kişilerin, vize tarihinden itibaren 60 gün içerisinde vize işlemlerini tamamlaması gerekir.
 
-(8) (Ek:RG-28/2/2020-31053) Eğitim kurumları yetkilendirildikleri adrese ilişkin resmi makamlarca tahliye veya yıkım kararı alınması ya da yıkık veya hasarlı raporu verilmesi durumlarında, yeni adrese taşındıktan sonra otuz gün içerisinde İSG-KÂTİP üzerinden Genel Müdürlüğe başvuru yapılır. Yapılan başvuru doksan gün içinde tamamlanır. Başvuru sürecine ilişkin diğer hususlar mevcut adres değişikliği hükümlerine tabi olarak yürütülür.
+(8) **(Ek:RG-28/2/2020-31053)** Eğitim kurumları yetkilendirildikleri adrese ilişkin resmi makamlarca tahliye veya yıkım kararı alınması ya da yıkık veya hasarlı raporu verilmesi durumlarında, yeni adrese taşındıktan sonra otuz gün içerisinde İSG-KÂTİP üzerinden Genel Müdürlüğe başvuru yapılır. Yapılan başvuru doksan gün içinde tamamlanır. Başvuru sürecine ilişkin diğer hususlar mevcut adres değişikliği hükümlerine tabi olarak yürütülür.
 
-(9) (Ek:RG-28/2/2020-31053) Sekizinci fıkraya tabi olarak yapılan adres değişikliğinde adres değişikliği bedeli ödenmez.
+(9) **(Ek:RG-28/2/2020-31053)** Sekizinci fıkraya tabi olarak yapılan adres değişikliğinde adres değişikliği bedeli ödenmez.
 
 #### Eğitim kurumlarının görev, yetki ve sorumlulukları
 
@@ -473,13 +473,13 @@ gereklidir.
 
 a) Eğitim hizmetlerinin bir kısmını veya tamamını başka bir kişi veya kuruma devredemezler.
 
-b) ( Değişik:RG-18/12/2014-29209) Çalışanların iş sağlığı ve güvenliği eğitimleri ile katılımcılar için verilen tekrar ve hazırlık eğitimleri hariç yetki belgesini veriliş amacı dışında kullanamazlar.
+b) ( **Değişik:RG-18/12/2014-29209)** Çalışanların iş sağlığı ve güvenliği eğitimleri ile katılımcılar için verilen tekrar ve hazırlık eğitimleri hariç yetki belgesini veriliş amacı dışında kullanamazlar.
 
 (2) Eğitim kurumlarında tam veya kısmi süreli iş sözleşmesi ile görevlendirilen eğiticilerle ilgili sosyal güvenlik mevzuatından doğan bildirim ve prim ödeme gibi yükümlülüklerin yerine getirilmesi eğitim kurumlarınca sağlanır.
 
-(3) ( Değişik:RG-18/12/2014-29209) Şirket ortaklarında değişiklik olması halinde, durum 30 gün içerisinde Genel Müdürlüğe bildirilir. Yeni şirket ortaklarının ilgili mevzuat hükümlerinde belirtilen şartlara uygun olmaması halinde durumun düzeltilmesi amacıyla Genel Müdürlükçe şirkete 30 gün süre verilir.
+(3) ( **Değişik:RG-18/12/2014-29209)** Şirket ortaklarında değişiklik olması halinde, durum 30 gün içerisinde Genel Müdürlüğe bildirilir. Yeni şirket ortaklarının ilgili mevzuat hükümlerinde belirtilen şartlara uygun olmaması halinde durumun düzeltilmesi amacıyla Genel Müdürlükçe şirkete 30 gün süre verilir.
 
-(4) ( Değişik:RG-18/12/2014-29209) Eğitim kurumları, işyeri hekimi veya diğer sağlık personeli olma şartlarını taşımayan kişileri eğitim programlarına kayıt edemezler.
+(4) ( **Değişik:RG-18/12/2014-29209)** Eğitim kurumları, işyeri hekimi veya diğer sağlık personeli olma şartlarını taşımayan kişileri eğitim programlarına kayıt edemezler.
 
 (5) Eğitim kurumları, başvuru esnasında adaylardan katılacakları programın gerektirdiği şartları karşıladığını gösteren belgeleri istemek ve bu belgelerin sorumlu müdür tarafından onaylanmış bir örneğini beş yıl süreyle her bir aday için açılan dosyada saklamak zorundadır.
 
@@ -487,7 +487,7 @@ b) ( Değişik:RG-18/12/2014-29209) Çalışanların iş sağlığı ve güvenli
 
 (7) Eğitim programı süresince sorumlu müdür kurumda hazır bulunur. Sorumlu müdürün bu süre boyunca kurumda bulunmadığı durumlarda, tam süreli iş sözleşmesiyle görevlendirilen eğiticilerden birisinin sorumlu müdüre vekâlet amacıyla kurumda bulunması sağlanır. Vekâlet eden eğitici, sorumlu müdür tarafından yapılması gereken her türlü iş ve işlemin yapılmasını sağlar ve görevi süresince Genel Müdürlükçe sorumlu müdür olarak kabul edilir. Sorumlu müdür veya vekilinin mevzuat hükümlerine aykırı davranışlarından ve görev ve sorumluluklarını yerine getirmesinden eğitim kurumu tüzel kişiliği sorumludur.
 
-(8) Eğitim kurumunda sorumlu müdür olarak görevlendirilen kişinin değişmesi veya bu kişinin görevinden ayrılması durumunda, 30 iş günü içerisinde yeni sorumlu müdür atanır ve durum Genel Müdürlüğe yazıyla ( Ek ibare:RG-18/12/2014-29209) veya e-devlet sistemi üzerinden bildirilir.
+(8) Eğitim kurumunda sorumlu müdür olarak görevlendirilen kişinin değişmesi veya bu kişinin görevinden ayrılması durumunda, 30 iş günü içerisinde yeni sorumlu müdür atanır ve durum Genel Müdürlüğe yazıyla ( **Ek ibare:RG-18/12/2014-29209)** veya e-devlet sistemi üzerinden bildirilir.
 
 (9) Eğitim kurumlarında görev yapan eğiticilerin işten ayrılması halinde üç işgünü içinde durum İSG-KATİP üzerinden eğitim kurumu tarafından bildirilir. 30 gün içerisinde tam süreli görevlendirilme zorunluluğu bulunan eğiticilerin yerine aranan niteliklere sahip personel görevlendirilmesi ve İSG-KATİP üzerinden Genel Müdürlüğe bildirilmesi zorunludur.
 
@@ -495,7 +495,7 @@ b) ( Değişik:RG-18/12/2014-29209) Çalışanların iş sağlığı ve güvenli
 
 (11) Eğiticiler, görev aldıkları kurumların eğitim programlarında, söz konusu kurumla düzenleyerek Genel Müdürlüğe bildirilmiş olan sözleşmede belirtilen toplam görev süresinden fazla görevlendirilemez. Bu hükmün uygulanması eğiticiler tarafından, takibi ise kurumun sorumlu müdürü tarafından yürütülür.
 
-(12) Eğitim kurumlarınca, adayların yüz yüze derslere devam durumunu gösteren çizelge EK-7’deki örneğine uygun şekilde günlük olarak düzenlenir ve ders başlangıcında derslikte hazır bulundurulur. ( Mülga cümle:RG-18/12/2014-29209) (…) ( Mülga cümle:RG-18/12/2014-29209) (…) Devam çizelgeleri eğitim kurumlarınca beş yıl süreyle saklanır ve istenmesi halinde kontrol ve denetime yetkili memurlara ibraz edilir.
+(12) Eğitim kurumlarınca, adayların yüz yüze derslere devam durumunu gösteren çizelge EK-7’deki örneğine uygun şekilde günlük olarak düzenlenir ve ders başlangıcında derslikte hazır bulundurulur. ( **Mülga cümle:RG-18/12/2014-29209) (…) ( Mülga cümle:RG-18/12/2014-29209) (…)** Devam çizelgeleri eğitim kurumlarınca beş yıl süreyle saklanır ve istenmesi halinde kontrol ve denetime yetkili memurlara ibraz edilir.
 
 (13) Eğitimi tamamlayan adaylara eğitim kurumları tarafından, EK-8’deki örneğine uygun eğitim katılım belgesi düzenlenir.
 
@@ -503,7 +503,7 @@ b) ( Değişik:RG-18/12/2014-29209) Çalışanların iş sağlığı ve güvenli
 
 (15) Bu Yönetmelikte belirtilen tabela hariç olmak üzere, eğitim kurumunun hiçbir evrak ve dokümanında Bakanlık logosu veya unvanı kullanılamaz.
 
-(16) (Ek:RG-7/3/2016-29646) Onaylanmış programın yüz yüze eğitimleri devam ederken eğitim saatleri içerisinde eğitim kurumunun kapalı olması durumunda; denetimin yapıldığı gün eğitim verilmediği, eğitim programına kayıtlı olan katılımcıların tam gün devamsızlık yaptığı kabul edilir ve ayrıca ilgili eğitim kurumuna ihtar puanı uygulanır.
+(16) **(Ek:RG-7/3/2016-29646)** Onaylanmış programın yüz yüze eğitimleri devam ederken eğitim saatleri içerisinde eğitim kurumunun kapalı olması durumunda; denetimin yapıldığı gün eğitim verilmediği, eğitim programına kayıtlı olan katılımcıların tam gün devamsızlık yaptığı kabul edilir ve ayrıca ilgili eğitim kurumuna ihtar puanı uygulanır.
 
 #### Sorumlu müdürün görev ve sorumlulukları
 
@@ -511,13 +511,13 @@ b) ( Değişik:RG-18/12/2014-29209) Çalışanların iş sağlığı ve güvenli
 
 a) Bakanlığa elektronik ortam, e-posta, yazı veya faks gibi araçlar vasıtasıyla gönderilmesi gereken her türlü bilgi ve belgeyi hazırlamak ve göndermek.
 
-b) Eğitim programlarının onaylanmış şekliyle uygulanmasını ( Değişik ibare:RG-18/12/2014-29209) takip etmek .
+b) Eğitim programlarının onaylanmış şekliyle uygulanmasını ( **Değişik ibare:RG-18/12/2014-29209)** takip etmek .
 
 c) Devam çizelgeleri ile eğitim katılım belgesinin usulüne uygun şekilde düzenlenmesini sağlamak.
 
-ç) ( Ek:RG-18/12/2014-29209) Günlük olarak, programa ait derslerin tamamının bitiminde katılımcı devam çizelgelerinin kontrolünü sağlamak ve imza altına almak.
+ç) ( **Ek:RG-18/12/2014-29209)** Günlük olarak, programa ait derslerin tamamının bitiminde katılımcı devam çizelgelerinin kontrolünü sağlamak ve imza altına almak.
 
-d) ( Ek:RG-18/12/2014-29209) Bu Yönetmelikte belirtilen diğer görevleri yapmak.
+d) ( **Ek:RG-18/12/2014-29209)** Bu Yönetmelikte belirtilen diğer görevleri yapmak.
 
 (2) Eğitim kurumlarınca talep edilen veya bildirilen her türlü bilgi ve belgeye ilişkin iş ve işlemlerde Genel Müdürlük tarafından sadece sorumlu müdür muhatap kabul edilir.
 
@@ -547,9 +547,9 @@ a) Başvuru yapılan eğitim kurumuna hitaben yazılan, adayın hangi eğitim pr
 
 b) Adayın katılacağı eğitim programına uygun alanda eğitime sahip olduğunu gösteren diploma veya geçici mezuniyet belgesi.
 
-c) ( Mülga:RG-18/12/2014-29209)
+c) ( **Mülga:RG-18/12/2014-29209)**
 
-ç) ( Mülga:RG-18/12/2014-29209)
+ç) ( **Mülga:RG-18/12/2014-29209)**
 
 (2) Adayların eğitim programlarına katılabilmesi için, ilgili eğitim programının başlangıç tarihinden önce eğitimini tamamlamış ve bu eğitime ilişkin mezuniyet diploması alabilecek yeterliliğe sahip olmaları gerekmektedir. Bu duruma ilişkin gerekli inceleme, başvuru yapılan eğitim kurumu tarafından yapılır.
 
@@ -559,23 +559,23 @@ c) ( Mülga:RG-18/12/2014-29209)
 
 ### ALTINCI BÖLÜM
 
-(Değişik bölüm başlığı:RG-18/12/2014-29209)
+**(Değişik bölüm başlığı:RG-18/12/2014-29209)**
 
-İşyeri Hekimlerinin ve Diğer Sağlık Personelinin Eğitimleri, Sınavları ve Belgelendirilmeleri
+**İşyeri Hekimlerinin ve Diğer Sağlık Personelinin Eğitimleri, Sınavları ve Belgelendirilmeleri**
 
 #### İşyeri hekimlerinin eğitimleri
 
 **MADDE 32 –** (1) İşyeri hekimlerinin eğitim programları teorik ve uygulamalı olmak üzere iki bölümden oluşur ve programın içeriği ile programda görevli eğiticilerin nitelikleri Genel Müdürlükçe belirlenir. Eğitim programının süresi, teorik kısmı 180 saatten, uygulama kısmı 40 saatten ve toplamda 220 saatten az olamaz ve bu kısımlar ancak tek bir program dâhilinde uygulanabilir. Teorik eğitimin en fazla yarısı uzaktan eğitim ile verilebilir. Uygulamalı eğitimler, işyeri hekimleri için en az bir işyeri hekiminin görevlendirilmiş olduğu işyerlerinde yapılır.
 
-(2) (Ek:RG-16/4/2020-31101) Salgın hastalık ve doğal afet gibi mücbir sebepler nedeniyle işyeri hekimliği eğitim programının teorik kısmının tamamının uzaktan eğitim ile verilmesine karar vermeye Bakanlık yetkilidir. Bu karar İSG-KATİP üzerinden ilân edilir.
+(2) **(Ek:RG-16/4/2020-31101)** Salgın hastalık ve doğal afet gibi mücbir sebepler nedeniyle işyeri hekimliği eğitim programının teorik kısmının tamamının uzaktan eğitim ile verilmesine karar vermeye Bakanlık yetkilidir. Bu karar İSG-KATİP üzerinden ilân edilir.
 
 #### Diğer sağlık personelinin eğitimleri
 
-**MADDE 33 –** (1) Diğer sağlık personelinin eğitim programları uzaktan ve yüz yüze eğitim şeklinde uygulanır ve programın içeriği ile programda görevli eğiticilerin nitelikleri (Değişik ibare:RG-18/12/2014-29209) Komisyonca belirlenir. Eğitim programının süresi 90 saatten az olamaz. Teorik eğitimin en fazla yarısı uzaktan eğitim ile verilebilir.
+**MADDE 33 –** (1) Diğer sağlık personelinin eğitim programları uzaktan ve yüz yüze eğitim şeklinde uygulanır ve programın içeriği ile programda görevli eğiticilerin nitelikleri **(Değişik ibare:RG-18/12/2014-29209)** Komisyonca belirlenir. Eğitim programının süresi 90 saatten az olamaz. Teorik eğitimin en fazla yarısı uzaktan eğitim ile verilebilir.
 
-(2) (Ek:RG-18/12/2014-29209) Diğer sağlık personeli eğitimlerini verebilecek kamu kurumlarının kendi kanunlarından doğan hakları saklıdır.
+(2) **(Ek:RG-18/12/2014-29209)** Diğer sağlık personeli eğitimlerini verebilecek kamu kurumlarının kendi kanunlarından doğan hakları saklıdır.
 
-(3) (Ek:RG-16/4/2020-31101) Salgın hastalık ve doğal afet gibi mücbir sebepler nedeniyle diğer sağlık personeli eğitim programının teorik kısmının tamamının uzaktan eğitim ile verilmesine karar vermeye Bakanlık yetkilidir. Bu karar İSG-KATİP üzerinden ilân edilir.
+(3) **(Ek:RG-16/4/2020-31101)** Salgın hastalık ve doğal afet gibi mücbir sebepler nedeniyle diğer sağlık personeli eğitim programının teorik kısmının tamamının uzaktan eğitim ile verilmesine karar vermeye Bakanlık yetkilidir. Bu karar İSG-KATİP üzerinden ilân edilir.
 
 #### Yenileme eğitimleri
 
@@ -583,13 +583,13 @@ c) ( Mülga:RG-18/12/2014-29209)
 
 #### Sınavlar
 
-**MADDE 35 –** (1) (Değişik:RG-18/12/2014-29209) Eğitim programlarını tamamlayan adayların sınavları Bakanlıkça yapılır veya yaptırılır.
+**MADDE 35 –** (1) **(Değişik:RG-18/12/2014-29209)** Eğitim programlarını tamamlayan adayların sınavları Bakanlıkça yapılır veya yaptırılır.
 
-(2) (Değişik:RG-18/12/2014-29209) Adaylardan 8 inci madde gereğince eğitim ve sınav şartı arananlar ancak eğitim programını tamamladıktan sonra düzenlenecek sınavlara katılabilirler.
+(2) **(Değişik:RG-18/12/2014-29209)** Adaylardan 8 inci madde gereğince eğitim ve sınav şartı arananlar ancak eğitim programını tamamladıktan sonra düzenlenecek sınavlara katılabilirler.
 
-(3) (Değişik:RG-18/12/2014-29209) Doğrudan sınava girme hakkı tanınan adayların, sınavlara katılabilmeleri için Genel Müdürlüğe yapılacak son başvuru tarihinden önce mezun olmaları gereklidir.
+(3) **(Değişik:RG-18/12/2014-29209)** Doğrudan sınava girme hakkı tanınan adayların, sınavlara katılabilmeleri için Genel Müdürlüğe yapılacak son başvuru tarihinden önce mezun olmaları gereklidir.
 
-(4) Sınavlarda 100 puan üzerinden (Değişik ibare:RG-7/3/2016-29646) işyeri hekimliği için en az 70, diğer sağlık personeli için en az 60 puan alan adaylar başarılı sayılır, sınav sonuçlarına itirazlar sınavı düzenleyen kurum tarafından sonuçlandırılır.
+(4) Sınavlarda 100 puan üzerinden **(Değişik ibare:RG-7/3/2016-29646)** işyeri hekimliği için en az 70, diğer sağlık personeli için en az 60 puan alan adaylar başarılı sayılır, sınav sonuçlarına itirazlar sınavı düzenleyen kurum tarafından sonuçlandırılır.
 
 #### İşyeri hekimlerinin belgelendirilmesi
 
@@ -613,7 +613,7 @@ c) ( Mülga:RG-18/12/2014-29209)
 
 ### YEDİNCİ BÖLÜM
 
-Eğiticiler ve Belgelendirme
+**Eğiticiler ve Belgelendirme**
 
 #### İşyeri hekimliği ve iş güvenliği uzmanlığı eğitici belgesi ile diğer sağlık personeli eğitici belgesi
 
@@ -629,7 +629,7 @@ a) Pedagojik formasyona veya eğiticilerin eğitimi belgesine sahip olan;
 
 4) İş ve meslek hastalıkları ya da işyeri hekimliği yan dal uzmanlarına veya meslek hastalıkları hastanelerinde üç yıl çalışmış olan hekimlere,
 
-b) (Değişik:RG-18/12/2014-29209) Komisyonca belirlenen eğitim müfredatına göre üniversitelerde en az dört yarıyıl ders verdiğini belgeleyen ve bu belgeleri uygun görülen öğretim üyelerinden; hukuk fakültesi mezunları ile hekim, mühendis, mimar, fizikçi, kimyager, biyolog, teknik öğretmenlere,
+b) **(Değişik:RG-18/12/2014-29209)** Komisyonca belirlenen eğitim müfredatına göre üniversitelerde en az dört yarıyıl ders verdiğini belgeleyen ve bu belgeleri uygun görülen öğretim üyelerinden; hukuk fakültesi mezunları ile hekim, mühendis, mimar, fizikçi, kimyager, biyolog, teknik öğretmenlere,
 
 başvurmaları halinde, EK-9’daki örneğine uygun olarak düzenlenir.
 
@@ -647,7 +647,7 @@ b) Üniversitelerde Genel Müdürlükçe ilan edilen diğer sağlık personeli e
 
 başvurmaları halinde, EK-10’daki örneğine uygun diğer sağlık personeli eğitici belgesi düzenlenir.
 
-(3) (Değişik:RG-18/12/2014-29209) Bu Yönetmelik kapsamında işyeri hekimliği ve iş güvenliği uzmanlığı eğitici belgesi sahiplerinden, müfredatta belirtilen niteliklere uygun olanlar işyeri hekimliği, iş güvenliği uzmanlığı ve diğer sağlık personeli eğitim programlarında görev alabilir. Diğer sağlık personeli eğitici belgesi sahiplerinden, müfredatta belirtilen niteliklere uygun olanlar sadece diğer sağlık personeli eğitim programlarında görev alabilir.
+(3) **(Değişik:RG-18/12/2014-29209)** Bu Yönetmelik kapsamında işyeri hekimliği ve iş güvenliği uzmanlığı eğitici belgesi sahiplerinden, müfredatta belirtilen niteliklere uygun olanlar işyeri hekimliği, iş güvenliği uzmanlığı ve diğer sağlık personeli eğitim programlarında görev alabilir. Diğer sağlık personeli eğitici belgesi sahiplerinden, müfredatta belirtilen niteliklere uygun olanlar sadece diğer sağlık personeli eğitim programlarında görev alabilir.
 
 #### Eğiticilerin görev ve sorumlulukları
 
@@ -657,11 +657,11 @@ başvurmaları halinde, EK-10’daki örneğine uygun diğer sağlık personeli 
 
 (3) Eğitim kurumunda tam süreli olarak görevlendirilen eğiticiler, işyerlerinde iş güvenliği uzmanı, işyeri hekimi veya diğer sağlık personeli unvanıyla veya başka bir eğitim kurumunda eğitici unvanıyla görev alamaz.
 
-(4) (Ek:RG-18/12/2014-29209) Her dersin tamamlanmasının ardından, imza çizelgelerinin devamsızlık nedeniyle boş kalan kısımları dersin eğiticisi tarafından anlaşılır şekilde doldurulur ve imza altına alınır.
+(4) **(Ek:RG-18/12/2014-29209)** Her dersin tamamlanmasının ardından, imza çizelgelerinin devamsızlık nedeniyle boş kalan kısımları dersin eğiticisi tarafından anlaşılır şekilde doldurulur ve imza altına alınır.
 
 #### Eğiticilerin belgelendirilmesi
 
-**MADDE 38 –** (1) İşyeri hekimliği ve iş güvenliği uzmanlığı eğitici belgesi veya diğer sağlık personeli eğitici belgesi alma niteliklerine sahip olup, bu belgeyi almak isteyenlerin başvurularının değerlendirilebilmesi amacıyla; pedagojik formasyon veya eğiticilerin eğitimi belgesi ile (Değişik ibare:RG-18/12/2014-29209) 36 ncı maddede belirtilen nitelikleri haiz olduklarını gösteren belgeleri, Genel Müdürlüğe hitaben yazılmış dilekçe ekinde şahsen veya posta yoluyla Genel Müdürlüğe teslim etmesi gerekmektedir.
+**MADDE 38 –** (1) İşyeri hekimliği ve iş güvenliği uzmanlığı eğitici belgesi veya diğer sağlık personeli eğitici belgesi alma niteliklerine sahip olup, bu belgeyi almak isteyenlerin başvurularının değerlendirilebilmesi amacıyla; pedagojik formasyon veya eğiticilerin eğitimi belgesi ile **(Değişik ibare:RG-18/12/2014-29209)** 36 ncı maddede belirtilen nitelikleri haiz olduklarını gösteren belgeleri, Genel Müdürlüğe hitaben yazılmış dilekçe ekinde şahsen veya posta yoluyla Genel Müdürlüğe teslim etmesi gerekmektedir.
 
 (2) Üniversitelerde Genel Müdürlükçe ilan edilen eğitim programlarına uygun alanlarda ders verenlerin bu durumlarını gösteren belgelerinde, rektör onayı şartı aranır.
 
@@ -669,11 +669,11 @@ başvurmaları halinde, EK-10’daki örneğine uygun diğer sağlık personeli 
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Genel Müdürlüğün görev, yetki ve sorumlulukları ile denetim (Değişik başlık:RG-4/2/2024-32450)
 
-**MADDE 39 –** (1) (Değişik:RG-4/2/2024-32450) Genel Müdürlük; eğitimlerin etkin ve verimli bir şekilde verilip verilmediğinin izlenmesi amacıyla kendi görev ve yetki alanına giren konularda eğitim kurumlarını, eğiticileri ve sorumlu müdürleri, yetki alınan mekânı, yerinde veya dijital altyapı vasıtasıyla uzaktan erişim yoluyla kontrol eder ve denetler. Bu kontrol ve denetimler, Genel Müdürlükte görevli çalışma uzmanı ve çalışma uzman yardımcıları, mühendis, fizikçi, kimyager, biyolog ve tabipler tarafından yerine getirilir. Denetimlerde tespit edilen ihlallere göre bu Yönetmelikte yer alan idari yaptırımların uygulanması hususunda denetim personeli tutanak tutar ve rapor hazırlar. Tutanak ve raporlar, denetim personelince Genel Müdürlüğe teslim edilir.
+**MADDE 39 –** (1) **(Değişik:RG-4/2/2024-32450)** Genel Müdürlük; eğitimlerin etkin ve verimli bir şekilde verilip verilmediğinin izlenmesi amacıyla kendi görev ve yetki alanına giren konularda eğitim kurumlarını, eğiticileri ve sorumlu müdürleri, yetki alınan mekânı, yerinde veya dijital altyapı vasıtasıyla uzaktan erişim yoluyla kontrol eder ve denetler. Bu kontrol ve denetimler, Genel Müdürlükte görevli çalışma uzmanı ve çalışma uzman yardımcıları, mühendis, fizikçi, kimyager, biyolog ve tabipler tarafından yerine getirilir. Denetimlerde tespit edilen ihlallere göre bu Yönetmelikte yer alan idari yaptırımların uygulanması hususunda denetim personeli tutanak tutar ve rapor hazırlar. Tutanak ve raporlar, denetim personelince Genel Müdürlüğe teslim edilir.
 
 (2) Yetkilendirme ve belgelendirme aşamalarında gerçeğe aykırı belge ibraz edildiği veya beyanda bulunulduğunun bu aşamalarda veya daha sonradan tespiti halinde düzenlenen belgeler Genel Müdürlükçe doğrudan iptal edilir.
 
@@ -681,19 +681,19 @@ başvurmaları halinde, EK-10’daki örneğine uygun diğer sağlık personeli 
 
 (4) Belgesinin geçerliliği askıya alınanlar ve doğrudan iptal edilenlere Genel Müdürlükçe yazılı bildirim yapılır ve Genel Müdürlük internet sayfasında ilan edilir. Belgesinin geçerliliği askıya alınan kişi ve kurumların belgelerini tekrar kullanabilmeleri için Genel Müdürlük onayının alınması zorunludur.
 
-(5) ( Mülga:RG-18/12/2014-29209)
+(5) ( **Mülga:RG-18/12/2014-29209)**
 
-(6) ( Mülga:RG-18/12/2014-29209)
+(6) ( **Mülga:RG-18/12/2014-29209)**
 
 #### İhlaller ve ihtar puanı uygulanması
 
-**MADDE 40 –** (1) (Değişik ibare:RG-18/12/2014-29209) 41 inci maddede yer alan yetki belgesinin geçerliliğinin doğrudan iptalini gerektiren durumların dışındaki ihlallerde, EK-11 ve EK-12’de belirtilen ihtar puanları uygulanır.
+**MADDE 40 –** (1) **(Değişik ibare:RG-18/12/2014-29209)** 41 inci maddede yer alan yetki belgesinin geçerliliğinin doğrudan iptalini gerektiren durumların dışındaki ihlallerde, EK-11 ve EK-12’de belirtilen ihtar puanları uygulanır.
 
 (2) Bir takvim yılı içinde hafif ihlallerin ihtar puanlarının toplamının 30’a, orta ihlallerin ihtar puanlarının toplamının 60’a ulaşması durumunda kişi ve kurumların o yıl içinde işleyecekleri diğer hafif ve orta ihlaller bir üst derecenin tavan puanı esas alınarak uygulanır.
 
 (3) Beş yıllık sürenin sonunda vize işlemini tamamlayan kişi ve kurumların; uygulanmasının üzerinden en az bir yıl geçmiş olan tüm ihtar puanları silinir.
 
-(4) (Ek:RG-18/12/2014-29209) Bu Yönetmelik uyarınca kişi ve kurumlara uygulanan ihtar puanlarına ilişkin itirazlar, işlemin tebliğ tarihinden itibaren en geç 10 iş günü içinde Genel Müdürlüğe yapılır. Bu süreden sonra yapılacak itirazlar dikkate alınmaz.
+(4) **(Ek:RG-18/12/2014-29209)** Bu Yönetmelik uyarınca kişi ve kurumlara uygulanan ihtar puanlarına ilişkin itirazlar, işlemin tebliğ tarihinden itibaren en geç 10 iş günü içinde Genel Müdürlüğe yapılır. Bu süreden sonra yapılacak itirazlar dikkate alınmaz.
 
 #### Yetkilerin askıya alınması, iptali ve itiraz
 
@@ -741,7 +741,7 @@ halinde doğrudan iptal edilir.
 
 (1) İtiraz Komisyonu, bu Yönetmelik uyarınca yetkilendirilen kişi veya kurumların belgelerinin askıya alınması veya iptali ile ilgili itirazları değerlendirerek karara bağlar. Komisyonun kararı, oy çokluğuyla alınır. Oyların eşitliği halinde Başkanın oyu belirleyicidir. Komisyon kararı, Genel Müdürlükçe uygulanır.
 
-(2) (Ek:RG-28/2/2020-31053) İtiraz Komisyonunu oluşturan unvan adlarının iptal olması veya değişmesi halinde yerine atanacak üyeler Bakanlık oluru ile belirlenir.
+(2) **(Ek:RG-28/2/2020-31053)** İtiraz Komisyonunu oluşturan unvan adlarının iptal olması veya değişmesi halinde yerine atanacak üyeler Bakanlık oluru ile belirlenir.
 
 #### Mesleki bağımsızlık ve etik ilkeler
 
@@ -793,13 +793,13 @@ c) Kurum ve kuruluşlarda personel istihdamı zorunluluğu.
 
 **GEÇİCİ MADDE 1 –** (1) Mevcut eğitim kurumlarının onaylanmış yerleşim planında değişiklik olması halinde, fiziki şartların bu Yönetmelik hükümlerine uygun olması şartı aranır.
 
-(2) ( Mülga:RG-18/12/2014-29209)
+(2) ( **Mülga:RG-18/12/2014-29209)**
 
 #### Diğer sağlık personelinin durumu
 
 **GEÇİCİ MADDE 2 –** (1) Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (b) bendinde sayılan unvanlara sahip olan ve diğer sağlık personeli olarak görevlendirilecek kişilerde;
 
-a) (Değişik fıkra:RG-7/3/2016-29646) (3) Diğer sağlık personeli belgesine sahip olmayanlardan;
+a) **(Değişik fıkra:RG-7/3/2016-29646) (3)** Diğer sağlık personeli belgesine sahip olmayanlardan;
 
 1) Diğer sağlık personeli eğitimini tamamlayanlar, 1/7/2017 tarihine kadar,
 
@@ -807,7 +807,7 @@ a) (Değişik fıkra:RG-7/3/2016-29646) (3) Diğer sağlık personeli belgesine 
 
 görevlendirilebilirler.
 
-b) (Mülga fıkra:RG-7/3/2016-29646) (3)
+b) **(Mülga fıkra:RG-7/3/2016-29646) (3)**
 
 #### İşe giriş ve periyodik sağlık muayeneleri
 
@@ -861,11 +861,11 @@ b) (Mülga fıkra:RG-7/3/2016-29646) (3)
 
 _____________________
 
-(1) Bu değişiklik ile 42/A maddesinin ikinci ve üçüncü fıkraları yayımlandığı tarihten üç ay sonra yürürlüğe girer.
+<i>(1) Bu değişiklik ile 42/A maddesinin ikinci ve üçüncü fıkraları yayımlandığı tarihten üç ay sonra yürürlüğe girer.</i>
 
-(2) 18/12/2014 tarihli ve 29209 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan, İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmeliğin 25 inci maddesinde sehven yazılan “iş güvenliği uzmanı” ibaresi, “işyeri hekimleri” olarak düzeltilerek yerine işlenmiştir.
+<i>(2) 18/12/2014 tarihli ve 29209 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan, İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmeliğin 25 inci maddesinde sehven yazılan “iş güvenliği uzmanı” ibaresi, “işyeri hekimleri” olarak düzeltilerek yerine işlenmiştir.</i>
 
-(3) Bu değişiklik 1/1/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+<i>(3) Bu değişiklik 1/1/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -880,4 +880,4 @@ _____________________
 | 6. | 6/7/2021 | 31533 |
 | 7. | 4/2/2024 | 32450 |
 
-Yönetmeliğin eklerini görmek için tıklayınız
+**Yönetmeliğin eklerini görmek için tıklayınız**

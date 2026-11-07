@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2015/04/20150423-3.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 İŞ SAĞLIĞI VE GÜVENLİĞİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 6645 Kabul Tarihi: 4/4/2015
+Kanun No. 6645 **Kabul Tarihi: 4/4/2015**
 
 MADDE 1 – 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 8 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiş ve maddenin beşinci fıkrasına aşağıdaki cümle eklenmiştir.
 “(2) İşverene iş sağlığı ve güvenliği ile ilgili konularda rehberlik ve danışmanlık yapmak üzere görevlendirilen işyeri hekimi ve iş güvenliği uzmanı, görev aldığı işyerinde göreviyle ilgili mevzuat ve teknik gelişmeleri göz önünde bulundurarak iş sağlığı ve güvenliği ile ilgili eksiklik ve aksaklıkları, tedbir ve tavsiyeleri belirler ve işverene yazılı olarak bildirir. Eksiklik ve aksaklıkların düzeltilmesinden, tedbir ve tavsiyelerin yerine getirilmesinden işveren sorumludur. Bildirilen eksiklik ve aksaklıkların acil durdurmayı gerektirmesi veya yangın, patlama, göçme, kimyasal sızıntı ve benzeri acil ve hayati tehlike arz etmesi, meslek hastalığına sebep olabilecek ortamların bulunmasına rağmen işveren tarafından gerekli tedbirlerin alınmaması hâlinde, bu durum işyeri hekimi veya iş güvenliği uzmanınca, Bakanlığın yetkili birimine, varsa yetkili sendika temsilcisine, yoksa çalışan temsilcisine bildirilir. Bildirim yapmadığı tespit edilen işyeri hekimi ve iş güvenliği uzmanının belgesi üç ay, tekrarında ise altı ay süreyle askıya alınır. Bu bildirimden dolayı işvereni tarafından işyeri hekimi veya iş güvenliği uzmanının iş sözleşmesine son verilemez ve bu kişiler hiçbir şekilde hak kaybına uğratılamaz. Aksi takdirde işveren hakkında bir yıllık sözleşme ücreti tutarından az olmamak üzere tazminata hükmedilir. İşyeri hekimi veya iş güvenliği uzmanının iş kanunları ve diğer kanunlara göre sahip olduğu hakları saklıdır. Açılan davada, kötü niyetle gerçek dışı bildirimde bulunduğu mahkeme kararıyla tespit edilen kişinin belgesi altı ay süreyle askıya alınır.”

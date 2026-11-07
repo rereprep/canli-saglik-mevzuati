@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI EK ÖDEME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI EK ÖDEME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 6/8/2024 tarihli ve 32624 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Ek Ödeme Yönetmeliğinin 5 inci maddesine aşağıdaki fıkra eklenmiştir.
 “(12) Sözleşmeli aile hekimliği uzmanlık eğitimi alanların, eğitim kurumlarında geçirdikleri rotasyon süreleri için (döner sermaye ek ödemelerinden motivasyonunun artırılması amacıyla yapılan ödeme hariç olmak üzere) eğitim aldıkları aile hekimliği ana bilim dalları veya kliniklerindeki diğer asistanlar ile aynı teşvik ek ödeme hesaplamaları yapılır. İlgili personelin tavan ek ödeme tutarı, birinci fıkranın (h) bendi kapsamında belirlenir.”

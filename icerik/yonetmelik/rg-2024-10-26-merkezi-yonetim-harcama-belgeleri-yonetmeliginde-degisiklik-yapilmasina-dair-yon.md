@@ -12,8 +12,8 @@ durum: "yürürlükte"
 ---
 
 Hazine ve Maliye Bakanlığından:
-MERKEZÎ YÖNETİM
-HARCAMA BELGELERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MERKEZÎ YÖNETİM**
+**HARCAMA BELGELERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliğinin 56 ncı maddesinin birinci fıkrasının (b) bendi aşağıdaki şekilde değiştirilmiştir.
 “b) Sosyal güvenlik kurumlarına kendi mevzuatları ile verilen görevler dışında bir görev verilmesi durumunda verilen bu görevin ifası sonucu oluşan bedelin Hazinece karşılanması için yapılacak ödemelerde;

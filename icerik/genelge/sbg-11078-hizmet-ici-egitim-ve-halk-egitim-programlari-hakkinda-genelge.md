@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Sayısı:3800
 
-SAYI: B100KSD0000071/3800 KONU: HİE ve Halk Eğitim Programları
+**SAYI:** B100KSD0000071/3800 **KONU:** HİE ve Halk Eğitim Programları
 
 ................................ VALİLİĞİ (İl Sağlık Müdürlüğü’ne)
 
@@ -18,7 +18,7 @@ Kanser dünyada olduğu gibi ülkemizde de önemli bir sağlık sorunu olup, öl
 
 Aralık 2001’de Bakanlıkça "HERKESE SAĞLIK Türkiye’nin Hedef ve Stratejileri" kitabı yayınlanmış olup, Başkanlığımız belirlenen hedef ve stratejiler doğrultusunda çalışmalarına başlamıştır. Bu hedef ve Stratejiler:
 
-HEDEF 2: 2020 yılına kadar, toplum sağlığı açısından önemli bulaşıcı olmayan hastalıkların sıklığını ve bunlara bağlı erken ölüm, sakatlık ve işgörememezliği azaltarak yaşam kalitesini yükseltmek. 2.3. 2020 yılına kadar, 65 yaş altı nüfusta tün vücut kanserlerini %10, 2030 yılına kadar akciğer kanserini %25, tün vücut kanserlerini %15 azaltmak, STRATEJİLER: 2.b. Özel Stratejiler: 2.b1 Ulusal tanı, tedavi ve izlem standartları geliştirerek, kronik hastalıklar sürveyans sisteminin iyileştirilmesi. 2.b.2.Kanser kayıt ve bildirim sisteminin aşamalı olarak ülke geneline yaygınlaştırılması. 2.b.3. Kansere neden olan sigara, beslenme ve endüstriyel faktörler başta olmak üzere, birincil korunma yönünde topluma yönelik eğitim ve denetimleri yapılması. 2.b.4.Kanser tedavisi yapan birimlerin arttırılması ve tedavi olanaklarının iyileştirilmesi. 2.b.5. Erken teşhisi mümkün olan seçilmiş kanserler için (meme, serviks, cilt vb.) birinci basamak sağlık kuruluşları ile "Kanser Erken Teşhis ve Tarama Merkezleri"nin ülke genelinde yaygınlaştırılması.
+**HEDEF 2:** 2020 yılına kadar, toplum sağlığı açısından önemli bulaşıcı olmayan hastalıkların sıklığını ve bunlara bağlı erken ölüm, sakatlık ve işgörememezliği azaltarak yaşam kalitesini yükseltmek. 2.3. 2020 yılına kadar, 65 yaş altı nüfusta tün vücut kanserlerini %10, 2030 yılına kadar akciğer kanserini %25, tün vücut kanserlerini %15 azaltmak, **STRATEJİLER:** 2.b. Özel Stratejiler: 2.b1 Ulusal tanı, tedavi ve izlem standartları geliştirerek, kronik hastalıklar sürveyans sisteminin iyileştirilmesi. 2.b.2.Kanser kayıt ve bildirim sisteminin aşamalı olarak ülke geneline yaygınlaştırılması. 2.b.3. Kansere neden olan sigara, beslenme ve endüstriyel faktörler başta olmak üzere, birincil korunma yönünde topluma yönelik eğitim ve denetimleri yapılması. 2.b.4.Kanser tedavisi yapan birimlerin arttırılması ve tedavi olanaklarının iyileştirilmesi. 2.b.5. Erken teşhisi mümkün olan seçilmiş kanserler için (meme, serviks, cilt vb.) birinci basamak sağlık kuruluşları ile "Kanser Erken Teşhis ve Tarama Merkezleri"nin ülke genelinde yaygınlaştırılması.
 
 Kanser konusunda sağlık personeline yönelik hizmet içi eğitim, halka yönelik de halk eğitim programlarının planlanması, uygulanması, uygulatılması, izlenmesi ve denetlenmesi Başkanlığın görevleri arasındadır. Ayrıca, Başkanlık eğitim materyali (afiş, poster, broşür, kitap, video ve radyo programı vs.) üretimi, çoğaltımı ve dağıtımını sağlayarak, Sağlık Müdürlüklerini materyal yönünden desteklemektedir. Başkanlık bu programları yalnızca 1-7 Nisan Haftasına özgü değil, yıl boyunca sürdürmektedir.
 

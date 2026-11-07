@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç ve kapsam
 
@@ -43,7 +43,7 @@ c) Donanım: Programın yatak sayısı, eğitim araç ve gereçleri, tıbbi ciha
 
 d) Eğitici: Uzmanlık eğitimi verme yetkisine sahip kişileri,
 
-e) (Değişik:RG-7/10/2023-32332) Birim eğitim sorumlusu: İlgili programdaki eğitimin koordinasyonunda yetkili ve sorumlu olan eğiticiyi,
+e) **(Değişik:RG-7/10/2023-32332)** Birim eğitim sorumlusu: İlgili programdaki eğitimin koordinasyonunda yetkili ve sorumlu olan eğiticiyi,
 
 f) Fakülte: Tıp veya diş hekimliği fakültelerini,
 
@@ -87,7 +87,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Tıpta Uzmanlık Kurulu
+**Tıpta Uzmanlık Kurulu**
 
 #### Kurulun oluşumu ve çalışma esasları
 
@@ -169,7 +169,7 @@ m) Aynı kurum içinde veya birden fazla kurum arasında yapılacak protokol ile
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Programlar, Eğiticiler ve Uzmanlık Öğrencileri
+**Programlar, Eğiticiler ve Uzmanlık Öğrencileri**
 
 #### Uzmanlık eğitimi kurulları
 
@@ -209,7 +209,7 @@ olur.
 
 (3) Programlardaki eğitim, Kurul tarafından ilan edilen ve eğitim standartlarını da içeren çekirdek müfredatı karşılayacak şekilde olmak zorundadır.
 
-(4) (Değişik:RG-7/10/2023-32332) Birim eğitim sorumlusu;
+(4) **(Değişik:RG-7/10/2023-32332)** Birim eğitim sorumlusu;
 
 a) Üniversitelere bağlı uzmanlık ana dallarındaki programlarda anabilim dalı başkanı, uzmanlık yan dallarındaki programlarda bilim dalı başkanı,
 
@@ -219,9 +219,9 @@ c) Adli Tıp Kurumunda kurum başkanı veya görevlendireceği eğitici,
 
 olur . Birim eğitim sorumlusu ilgili dalda eğitici olmak zorundadır; ilgili dalda uzmanlık eğiticisi niteliğini haiz değilse, o dalda başka bir eğitici birim eğitim sorumlusu olarak belirlenir. Ancak birden fazla yan dalı olan ana dallarda, bu ana dalın birim eğitim sorumlusu yoksa bağlı yan dallardaki eğiticilerden her biri kurum eğitim sorumlusu tarafından altı ay süreyle ana dalda birim eğitim sorumlusu olarak belirlenir.
 
-(5) (Değişik:RG-7/10/2023-32332) Birden fazla kurumun katılımıyla oluşan programlarda birim eğitim sorumlusu kurumlar arasında yapılan protokol ile belirlenir.
+(5) **(Değişik:RG-7/10/2023-32332)** Birden fazla kurumun katılımıyla oluşan programlarda birim eğitim sorumlusu kurumlar arasında yapılan protokol ile belirlenir.
 
-(6) (Değişik:RG-7/10/2023-32332) Kurum tarafından ilgili uzmanlık eğitimine giriş sınavı öncesinde uzmanlık öğrencisi talep edilirken her bir program için; mevcut eğitici ve uzmanlık öğrencisi sayısı, kabul edilen ve yürürlükte olan müfredat ile Bakanlıkça talep edilecek donanım, portföy ve birim eğitim sorumlusu bilgileri Genel Müdürlüğe bildirilir.
+(6) **(Değişik:RG-7/10/2023-32332)** Kurum tarafından ilgili uzmanlık eğitimine giriş sınavı öncesinde uzmanlık öğrencisi talep edilirken her bir program için; mevcut eğitici ve uzmanlık öğrencisi sayısı, kabul edilen ve yürürlükte olan müfredat ile Bakanlıkça talep edilecek donanım, portföy ve birim eğitim sorumlusu bilgileri Genel Müdürlüğe bildirilir.
 
 (7) Ana dallarda veya birden fazla ana dalı olan yan dallarda eğitim vermek amacıyla oluşturulacak protokollü programlar için program oluşturma ve uzmanlık öğrencisi talep etme usul ve esasları Kurulca alınan karar çerçevesinde belirlenir.
 
@@ -239,7 +239,7 @@ olur . Birim eğitim sorumlusu ilgili dalda eğitici olmak zorundadır; ilgili d
 
 **MADDE 10 –** (1) Adli Tıp Kurumu dışındaki kurumlarda uzmanlık eğitimi, ilgili dalda uzman olup profesör, doçent, doktor öğretim üyesi unvanına sahip olanlar ile eğitim görevlisi veya başasistanlar tarafından verilir. Doktor öğretim üyesi ve başasistanların uzmanlık eğitimi verebilmeleri için uzmanı oldukları alanda fiilen en az bir yıl çalışmış olmaları şarttır.
 
-(2) Eğitici olmayan uzmanlar ile ilgili alanda uzman olmayan öğretim üyeleri ve öğretim görevlileri, asgari eğitici standartları içerisinde sayılmamakla birlikte yetkilendirilmiş programlarda (Ek ibare:RG-7/10/2023-32332) birim eğitim sorumlusunun onayıyla eğiticiler nezaretinde eğitimde görev alabilir.
+(2) Eğitici olmayan uzmanlar ile ilgili alanda uzman olmayan öğretim üyeleri ve öğretim görevlileri, asgari eğitici standartları içerisinde sayılmamakla birlikte yetkilendirilmiş programlarda **(Ek ibare:RG-7/10/2023-32332)** birim eğitim sorumlusunun onayıyla eğiticiler nezaretinde eğitimde görev alabilir.
 
 (3) Adli Tıp Kurumunda uzmanlık eğitimi, 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde belirtilen ihtisas kurulu başkanları ile en az üç yıl süreyle ihtisas kurullarında üyelik yapmış adlî tıp uzmanları tarafından verilir.
 
@@ -251,11 +251,11 @@ olur . Birim eğitim sorumlusu ilgili dalda eğitici olmak zorundadır; ilgili d
 
 (3) Uzmanlık öğrencisi muayenehane açamaz, uzmanlık eğitiminin gerektirdiği durumlar dışında aylıklı veya aylıksız hiçbir işte çalışamaz, bu şekilde çalıştığı tespit edilen uzmanlık öğrencisi kurumunca yazılı olarak uyarılır, durumun devamı ya da tekrarı halinde ilgili eğitim kurumunca ilişiği kesilir.
 
-(4) (Değişik:RG-7/10/2023-32332) Uzmanlık öğrencileri, uzmanlık eğitimi uygulamasından sayılmayan işlerde görevlendirilemez. Ancak deprem, sel baskını, salgın hastalık gibi olağandışı ve hizmetin normal olarak sürdürülemediği hallerde yabancı uyruklu uzmanlık öğrencileri hariç olmak üzere uzmanlık öğrencileri, hekimlik görevlerini yürütmek üzere eğitim gördüğü kurumda veya aynı il içerisindeki sağlık tesislerine tek seferde en fazla üç aylık süreler halinde eğitim süresi boyunca toplamda altı ayı geçmemek üzere görevlendirilebilir. Ancak yukarıda sayılan haller nedeni ile tezini yetiştiremeyen ve çekirdek müfredattaki yetkinliklerini kazanamayan uzmanlık öğrencilerine birim eğitim sorumlusunun önerisi üzerine eğitim kurumunun uzmanlık eğitimi kurulu kararı ile altı aya kadar süre uzatımı verilebilir.
+(4) **(Değişik:RG-7/10/2023-32332)** Uzmanlık öğrencileri, uzmanlık eğitimi uygulamasından sayılmayan işlerde görevlendirilemez. Ancak deprem, sel baskını, salgın hastalık gibi olağandışı ve hizmetin normal olarak sürdürülemediği hallerde yabancı uyruklu uzmanlık öğrencileri hariç olmak üzere uzmanlık öğrencileri, hekimlik görevlerini yürütmek üzere eğitim gördüğü kurumda veya aynı il içerisindeki sağlık tesislerine tek seferde en fazla üç aylık süreler halinde eğitim süresi boyunca toplamda altı ayı geçmemek üzere görevlendirilebilir. Ancak yukarıda sayılan haller nedeni ile tezini yetiştiremeyen ve çekirdek müfredattaki yetkinliklerini kazanamayan uzmanlık öğrencilerine birim eğitim sorumlusunun önerisi üzerine eğitim kurumunun uzmanlık eğitimi kurulu kararı ile altı aya kadar süre uzatımı verilebilir.
 
 (5) Uzmanlık öğrencilerinin nöbet uygulaması üç günde birden daha sık olmamak kaydıyla ayda en fazla sekiz nöbet olacak şekilde düzenlenir. Gece nöbeti tutan uzmanlık öğrencileri nöbetin ertesi günü sağlık hizmeti sunumunda görev almaz. Bu hükmün uygulanmadığının tespit edilmesi halinde eğitim programları Kurulca değerlendirmeye alınır. İhlâlin mahiyetine ve durumun gereklerine göre kurumun uyarılmasından, programın eğitim yetkisinin kaldırılmasına kadar hangi yaptırımın uygulanacağına Kurulca karar verilir.
 
-(6) (Değişik:RG-7/10/2023-32332) Uzmanlık öğrencisinin programlarda, Kurul tarafından belirlenmiş müfredat ve standartlar çerçevesinde eğitim verilmesinin sağlanmasını uzmanlık eğitimi kurulundan isteme hakkı vardır. Uzmanlık eğitimi kurulunca talebin karşılanamaması ya da uzmanlık eğitimi kurulunun verdiği karara uzmanlık öğrencisinin itiraz etmesi halinde bu durum eğitim kurumunca on beş iş günü içinde Bakanlığa bildirilir. Nöbet, çalışma ve eğitim odaları gibi eğitsel ve sosyal gereksinimleri karşılayan altyapı ve diğer standartlar kurumca sağlanır.
+(6) **(Değişik:RG-7/10/2023-32332)** Uzmanlık öğrencisinin programlarda, Kurul tarafından belirlenmiş müfredat ve standartlar çerçevesinde eğitim verilmesinin sağlanmasını uzmanlık eğitimi kurulundan isteme hakkı vardır. Uzmanlık eğitimi kurulunca talebin karşılanamaması ya da uzmanlık eğitimi kurulunun verdiği karara uzmanlık öğrencisinin itiraz etmesi halinde bu durum eğitim kurumunca on beş iş günü içinde Bakanlığa bildirilir. Nöbet, çalışma ve eğitim odaları gibi eğitsel ve sosyal gereksinimleri karşılayan altyapı ve diğer standartlar kurumca sağlanır.
 
 (7) Uzmanlık öğrencisi, programda bulunan bütün eğiticilerin gözetim ve denetiminde araştırma ve eğitim çalışmaları ile sağlık hizmeti sunumunda görev alır, deontolojik ve etik kurallara uyar.
 
@@ -263,7 +263,7 @@ olur . Birim eğitim sorumlusu ilgili dalda eğitici olmak zorundadır; ilgili d
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Uzmanlık Eğitimi
+**Uzmanlık Eğitimi**
 
 #### Uzmanlık eğitimine giriş sınavları
 
@@ -283,11 +283,11 @@ Uzmanlık Eğitimi
 
 #### Uzmanlık eğitimine giriş sınavlarının sonuçları, yerleştirme, uzmanlık eğitimine başlama ve dal değiştirme
 
-**MADDE 13 –** (1) Tıpta uzmanlık eğitimi yapabilmek için tabip ya da tıp dışı meslek mensubu olarak eczacı, kimyager veya . (Danıştay Sekizinci Dairesinin 12/11/2025 tarihli ve E.:2022/6720; K.:2025/8541 sayılı kararı ile iptal ibare : veteriner ) olmak; diş hekimliğinde uzmanlık eğitimi yapabilmek için diş tabibi olmak; yan dal uzmanlık eğitimi yapabilmek için yan dalın bağlı olduğu ana dalda uzman olmak ve yabancı dil yeterliliği hariç 12 nci maddede belirtilen diğer nitelikleri taşımak şarttır. Uzmanlık öğrencisi adayı çizelgelerde belirtilen uzmanlık dallarında eğitim veren programlara ÖSYM tarafından yerleştirilir.
+**MADDE 13 –** (1) Tıpta uzmanlık eğitimi yapabilmek için tabip ya da tıp dışı meslek mensubu olarak eczacı, kimyager veya . **(Danıştay Sekizinci Dairesinin 12/11/2025 tarihli ve E.:2022/6720; K.:2025/8541 sayılı kararı ile iptal ibare :** <i>veteriner )</i> olmak; diş hekimliğinde uzmanlık eğitimi yapabilmek için diş tabibi olmak; yan dal uzmanlık eğitimi yapabilmek için yan dalın bağlı olduğu ana dalda uzman olmak ve yabancı dil yeterliliği hariç 12 nci maddede belirtilen diğer nitelikleri taşımak şarttır. Uzmanlık öğrencisi adayı çizelgelerde belirtilen uzmanlık dallarında eğitim veren programlara ÖSYM tarafından yerleştirilir.
 
-(2) Eczacı, kimyager ve (Danıştay Sekizinci Dairesinin 12/11/2025 tarihli ve E.:2022/6720; K.:2025/8541 sayılı kararı ile iptal ibare : veterinerler ) sadece tıbbi biyokimya veya tıbbi mikrobiyoloji ana dallarında uzmanlık eğitimi veren programlara kendileri için kontenjan açıldığı takdirde yerleştirilebilirler.
+(2) Eczacı, kimyager ve **(Danıştay Sekizinci Dairesinin 12/11/2025 tarihli ve E.:2022/6720; K.:2025/8541 sayılı kararı ile iptal ibare :** <i>veterinerler )</i> sadece tıbbi biyokimya veya tıbbi mikrobiyoloji ana dallarında uzmanlık eğitimi veren programlara kendileri için kontenjan açıldığı takdirde yerleştirilebilirler.
 
-(3) Aşağıdaki hallerde yerleştirmeye esas mesleki bilgi puanı (Değişik ibare:RG-16/5/2024-32548) % 5 oranında düşürülür:
+(3) Aşağıdaki hallerde yerleştirmeye esas mesleki bilgi puanı **(Değişik ibare:RG-16/5/2024-32548)** % 5 oranında düşürülür:
 
 a) Uzmanlık eğitimine devam etmekte iken sınava girildiğinde.
 
@@ -303,7 +303,7 @@ c) Bir uzmanlık programına yerleştirildiği halde eğitime başlamayanların 
 
 (7) Adayların tercih etmemesi, adayların yerleştirilmesine rağmen durumlarının atanmaya uygun olmaması veya yerleştirilmesi yapılan adayların başvuru süresi içinde başvurmaması nedeniyle boş kalan kontenjanlar, ilgili kurumlar tarafından başvuru süresinin sona ermesinden itibaren on iş günü içinde ÖSYM’ye bildirilir. ÖSYM tarafından ilgili sınav döneminde bir defaya mahsus olmak üzere otuz gün içinde ek yerleştirme yapılır.
 
-(8) ÖSYM tarafından programlara yerleştirilenlerin ataması kurumların kendi mevzuatınca (Ek ibare:RG-7/10/2023-32332) birim eğitim sorumlusunun bulunduğu birime göre yapılır.
+(8) ÖSYM tarafından programlara yerleştirilenlerin ataması kurumların kendi mevzuatınca **(Ek ibare:RG-7/10/2023-32332)** birim eğitim sorumlusunun bulunduğu birime göre yapılır.
 
 (9) Yerleştirildikleri kurumun atama şartlarını taşımaksızın sınava girip bir programa yerleştirilmiş olanlar uzmanlık eğitimine başlatılmazlar. Şartlardan herhangi birini taşımadığı sonradan anlaşılanlar ile uzmanlık eğitimi sırasında bu şartlardan herhangi birini kaybedenlerin uzmanlık eğitimine son verilir.
 
@@ -353,9 +353,9 @@ kaydıyla uzmanlık eğitimine kabul edilir.
 
 (3) Uzmanlık eğitimine devam ederken yeniden girdikleri uzmanlık eğitimine giriş sınavında başarılı olanlar ile uzmanlık eğitimini bitirmeden ayrıldıktan sonra en geç bir yıl içinde yeniden sınava girerek başarılı olan uzmanlık öğrencilerinden;
 
-a) Uzmanlık eğitim dalı değişenlerin önceki uzmanlık eğitiminde geçen eğitim süreleri, yeni başlayacakları uzmanlık eğitimi süresinden sayılmaz. Ancak dalları değişen uzmanlık öğrencilerinin, önceki uzmanlık eğitimine ait süreleri, rotasyonları ve rotasyonların süreleri, yeni uzmanlık eğitimi dalındaki eğitim müfredatında da benzer rotasyon hedefleriyle yer alıyor ise (Değişik ibare:RG-7/10/2023-32332) uzmanlık eğitimi kurulu kararıyla uzmanlık eğitiminin süresinden, rotasyonundan ve rotasyonun süresinden sayılır.
+a) Uzmanlık eğitim dalı değişenlerin önceki uzmanlık eğitiminde geçen eğitim süreleri, yeni başlayacakları uzmanlık eğitimi süresinden sayılmaz. Ancak dalları değişen uzmanlık öğrencilerinin, önceki uzmanlık eğitimine ait süreleri, rotasyonları ve rotasyonların süreleri, yeni uzmanlık eğitimi dalındaki eğitim müfredatında da benzer rotasyon hedefleriyle yer alıyor ise **(Değişik ibare:RG-7/10/2023-32332)** uzmanlık eğitimi kurulu kararıyla uzmanlık eğitiminin süresinden, rotasyonundan ve rotasyonun süresinden sayılır.
 
-b) Uzmanlık eğitim dalını değiştirmeksizin program değiştirenlerin önceki uzmanlık eğitiminde geçen süreleri, önceki eğitim süresinin yarısından az olmamak üzere (Değişik ibare:RG-7/10/2023-32332) uzmanlık eğitimi kurulunca kabul edildiği şekilde uzmanlık eğitiminin süre ve rotasyonlarından sayılır.
+b) Uzmanlık eğitim dalını değiştirmeksizin program değiştirenlerin önceki uzmanlık eğitiminde geçen süreleri, önceki eğitim süresinin yarısından az olmamak üzere **(Değişik ibare:RG-7/10/2023-32332)** uzmanlık eğitimi kurulunca kabul edildiği şekilde uzmanlık eğitiminin süre ve rotasyonlarından sayılır.
 
 (4) Uzmanlık öğrencilerinin uzmanlık eğitimlerini yerleştirildikleri programda tamamlamaları esastır. Ancak;
 
@@ -387,7 +387,7 @@ c) Üst üste iki kez olumsuz kanaat notu alan uzmanlık öğrencisinin program�
 
 #### Uzmanlık eğitiminin takibi ve değerlendirilmesi
 
-**MADDE 17 –** (1) Eğitim kurumları, (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusu koordinasyonunda yeni başlayan uzmanlık öğrencisine, kuruma adaptasyon için kurumu tanıtıcı bilgiler verir, kanuni sorumlulukları, mesleki gelişimi, iletişim ve deontoloji ile ilgili uyum programları düzenler.
+**MADDE 17 –** (1) Eğitim kurumları, **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusu koordinasyonunda yeni başlayan uzmanlık öğrencisine, kuruma adaptasyon için kurumu tanıtıcı bilgiler verir, kanuni sorumlulukları, mesleki gelişimi, iletişim ve deontoloji ile ilgili uyum programları düzenler.
 
 (2) Uzmanlık eğitiminin takibi ve değerlendirilmesi Bakanlık tarafından elektronik ağ ortamı kullanılarak kurulan UETS çerçevesinde yapılır. UETS içerisinde temel olarak aşağıdaki unsurlar bulunur:
 
@@ -395,13 +395,13 @@ a) Uzmanlık eğitimi çekirdek müfredatı: Uzmanlık eğitimi ihtiyaçlarını
 
 b) Uzmanlık eğitimi genişletilmiş müfredatı: Programlar tarafından çekirdek müfredatı da kapsayacak şekilde hazırlanır, Kurulun onayı ve ilanı ile yürürlüğe girer, yıllık olarak güncellenir ve Kurula bildirilir.
 
-c) Uzmanlık eğitimi karnesi: (Değişik ibare:RG-7/10/2023-32332) Birim eğitim sorumlusu , eğitime başlayan her uzmanlık öğrencisi için eğitim müfredatına uygun bir karne oluşturur. Karne içeriğindeki eğitim ve uygulamaların çekirdek müfredata ait olan kısmının uzmanlık eğitimi süresi içerisinde tamamlanması zorunludur. Bu karneye uzmanlık öğrencisinin eğitim sürecinde ulaştığı yetkinlik düzeyleri eğiticiler tarafından işlenir. Eğitim karnesi (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusu tarafından altı ayda bir kontrol edilir varsa eksiklikler süresi içinde tamamlattırılır. Uzmanlık eğitimini tamamlayanlara kurum tarafından eğitim karnesinin onaylı bir örneği verilir.
+c) Uzmanlık eğitimi karnesi: **(Değişik ibare:RG-7/10/2023-32332)** Birim eğitim sorumlusu , eğitime başlayan her uzmanlık öğrencisi için eğitim müfredatına uygun bir karne oluşturur. Karne içeriğindeki eğitim ve uygulamaların çekirdek müfredata ait olan kısmının uzmanlık eğitimi süresi içerisinde tamamlanması zorunludur. Bu karneye uzmanlık öğrencisinin eğitim sürecinde ulaştığı yetkinlik düzeyleri eğiticiler tarafından işlenir. Eğitim karnesi **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusu tarafından altı ayda bir kontrol edilir varsa eksiklikler süresi içinde tamamlattırılır. Uzmanlık eğitimini tamamlayanlara kurum tarafından eğitim karnesinin onaylı bir örneği verilir.
 
-Ç) (Değişik:RG-7/10/2023-32332) Birim eğitim sorumlusu kanaati: Birim eğitim sorumlusu altı aylık dönemler halinde uzmanlık öğrencisinin göreve bağlılık, çalışma, araştırma ve yönetme yeteneği ile meslek ahlakı hakkındaki görüş ve kanaatini belgesi ve gerekçesiyle birlikte yazılı olarak oluşturur ve bu değerlendirme, kurum eğitim sorumlusu tarafından onaylanır. Uzmanlık eğitiminin altı aylık değerlendirme döneminin birden fazla birim eğitim sorumlusu yanında geçmesi halinde, bu kaydı yanında en fazla süre geçirilen birim eğitim sorumlusu yapar. Bu değerlendirme sonucunda olumsuz görüş ve kanaat notu alanlar kurum eğitim sorumlusu tarafından on beş iş günü içinde yazılı olarak uyarılır. Üst üste iki kez olumsuz kanaat notu alan uzmanlık öğrencisinin bu durumu on beş iş günü içinde uzmanlık öğrencisine tebliğ edilip Kurula sunulmak üzere Genel Müdürlüğe bildirilir. Altı aylık dönemlerin hesaplanmasında uzmanlık eğitimine başlanılan tarih esas alınır.
+Ç) **(Değişik:RG-7/10/2023-32332)** Birim eğitim sorumlusu kanaati: Birim eğitim sorumlusu altı aylık dönemler halinde uzmanlık öğrencisinin göreve bağlılık, çalışma, araştırma ve yönetme yeteneği ile meslek ahlakı hakkındaki görüş ve kanaatini belgesi ve gerekçesiyle birlikte yazılı olarak oluşturur ve bu değerlendirme, kurum eğitim sorumlusu tarafından onaylanır. Uzmanlık eğitiminin altı aylık değerlendirme döneminin birden fazla birim eğitim sorumlusu yanında geçmesi halinde, bu kaydı yanında en fazla süre geçirilen birim eğitim sorumlusu yapar. Bu değerlendirme sonucunda olumsuz görüş ve kanaat notu alanlar kurum eğitim sorumlusu tarafından on beş iş günü içinde yazılı olarak uyarılır. Üst üste iki kez olumsuz kanaat notu alan uzmanlık öğrencisinin bu durumu on beş iş günü içinde uzmanlık öğrencisine tebliğ edilip Kurula sunulmak üzere Genel Müdürlüğe bildirilir. Altı aylık dönemlerin hesaplanmasında uzmanlık eğitimine başlanılan tarih esas alınır.
 
 d) Tez çalışmasının takibi: Tez çalışması, tez danışmanı tarafından üç ayda bir değerlendirilir.
 
-e) Uzmanlık öğrencisi kanaati: Uzmanlık öğrencileri verilen eğitimi ve eğiticileri yıllık olarak nitelik ve nicelik açısından değerlendirir. Bu değerlendirme, eğitimin niteliğini ve eğiticilerin bilgi, beceri ve davranışlarını kapsar. Kurum eğitim sorumlusu, bu değerlendirmelerin (Değişik ibare:RG-7/10/2023-32332) uzmanlık eğitimi kurulunda görüşülmesini sağlar.
+e) Uzmanlık öğrencisi kanaati: Uzmanlık öğrencileri verilen eğitimi ve eğiticileri yıllık olarak nitelik ve nicelik açısından değerlendirir. Bu değerlendirme, eğitimin niteliğini ve eğiticilerin bilgi, beceri ve davranışlarını kapsar. Kurum eğitim sorumlusu, bu değerlendirmelerin **(Değişik ibare:RG-7/10/2023-32332)** uzmanlık eğitimi kurulunda görüşülmesini sağlar.
 
 f) Uzmanlık eğitimi süre takibi: Uzmanlık eğitiminden sayılmayan sürelerin takip edilebilmesi amacıyla kurum eğitim sorumlusu uzmanlık öğrencisinin bu sürelerinin UETS’deki ilgili alana işlenmesini sağlar.
 
@@ -417,9 +417,9 @@ g) Denetim formu: Kurum ve programların denetiminde kullanılan formlar Kurul t
 
 (2) Senelik izin ve bilimsel içerikli toplantılar için verilen izin süreleri hariç olmak üzere, uzmanlık eğitiminde fiilen geçmeyen süreler uzmanlık eğitimi süresinden sayılmaz.
 
-(3) Eğitim süreleri ve rotasyonların uzmanlık öğrencisinin yerleştirildiği programın bulunduğu kurumda tamamlattırılması esastır. Eğitime kabul belgesi sağlayan uzmanlık öğrencisine kendi eğitim kurumundaki (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusunun ve yetkili kılınan (Değişik ibare:RG-7/10/2023-32332) uzmanlık eğitimi kurulunun uygun görüşü alınarak yurt içinde uzmanlık eğitimi verme yetkisi bulunan veya yurt dışında başka kurumlarda uzmanlık eğitimi alması için tabi oldukları mevzuata göre Bakanlıkça uygun görülmesi kaydıyla bir yıla kadar izin verilebilir. Kurum içerisinde yapılamayan rotasyonlar bu süreden sayılmaz. Eğitimin yurt dışında yapılması sebebiyle müfredatın ve rotasyonların tamamlanamadığı durumlarda (Değişik ibare:RG-7/10/2023-32332) uzmanlık eğitimi kurullarınca yurt dışında geçen süreyi aşmamak üzere uygun görülen süre uzmanlık eğitimi süresine eklenir.
+(3) Eğitim süreleri ve rotasyonların uzmanlık öğrencisinin yerleştirildiği programın bulunduğu kurumda tamamlattırılması esastır. Eğitime kabul belgesi sağlayan uzmanlık öğrencisine kendi eğitim kurumundaki **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusunun ve yetkili kılınan **(Değişik ibare:RG-7/10/2023-32332)** uzmanlık eğitimi kurulunun uygun görüşü alınarak yurt içinde uzmanlık eğitimi verme yetkisi bulunan veya yurt dışında başka kurumlarda uzmanlık eğitimi alması için tabi oldukları mevzuata göre Bakanlıkça uygun görülmesi kaydıyla bir yıla kadar izin verilebilir. Kurum içerisinde yapılamayan rotasyonlar bu süreden sayılmaz. Eğitimin yurt dışında yapılması sebebiyle müfredatın ve rotasyonların tamamlanamadığı durumlarda **(Değişik ibare:RG-7/10/2023-32332)** uzmanlık eğitimi kurullarınca yurt dışında geçen süreyi aşmamak üzere uygun görülen süre uzmanlık eğitimi süresine eklenir.
 
-(4) Yurt dışında uzmanlık eğitimi vermeye yetkili olan bir sağlık kurumunda uzmanlık eğitimi görmekte iken, Türkiye’deki eğitim almak istediği kurumun eğitim sorumlusunun ve (Değişik ibare:RG-7/10/2023-32332) uzmanlık eğitimi kurulunun uygun görüşünü alarak eğitime kabul belgesi sağlayan uzmanlık öğrencisine, uzmanlık dalıyla ilgili eğitim alabilmesi için Bakanlıkça en fazla bir yıla kadar izin verilebilir. Ayrıca bu kişilerin Türkiye’de tıp ve diş hekimliği diplomalarının denklik ve tescil işlemlerinin yapılmış olması şarttır.
+(4) Yurt dışında uzmanlık eğitimi vermeye yetkili olan bir sağlık kurumunda uzmanlık eğitimi görmekte iken, Türkiye’deki eğitim almak istediği kurumun eğitim sorumlusunun ve **(Değişik ibare:RG-7/10/2023-32332)** uzmanlık eğitimi kurulunun uygun görüşünü alarak eğitime kabul belgesi sağlayan uzmanlık öğrencisine, uzmanlık dalıyla ilgili eğitim alabilmesi için Bakanlıkça en fazla bir yıla kadar izin verilebilir. Ayrıca bu kişilerin Türkiye’de tıp ve diş hekimliği diplomalarının denklik ve tescil işlemlerinin yapılmış olması şarttır.
 
 (5) Kurul tarafından belirlenip ilan edilen tamamlanması zorunlu rotasyon eğitimleri, eğitim süreleri tamamlandığında o rotasyon ile ulaşılması istenilen hedeflere ulaşılıp ulaşılmadığı yönünden rotasyon eğitimini veren eğiticiler tarafından değerlendirilir. İstenilen hedeflere ulaşıldığı hallerde rotasyon eğitiminde yeterlilik elde edilmiş olur; aksi durumda yetersizlik nedeniyle rotasyon eğitimi tekrarlanır ve bu süre uzmanlık eğitimi süresine eklenir. Tekrarlanan rotasyon eğitiminde de yetersizlik durumunda başka bir kurumda rotasyon eğitimi son kez tekrarlanır ve süresi uzmanlık eğitimi süresine eklenir. Bunda da yetersizlik alan uzmanlık öğrencisinin uzmanlık öğrenciliği ile ilişiği kesilir. Bunlardan tekrar uzmanlık eğitimine giriş sınavına girip uzmanlık eğitimine başlayanlar hakkında 16 ncı madde hükümlerine göre işlem yapılır.
 
@@ -429,13 +429,13 @@ g) Denetim formu: Kurum ve programların denetiminde kullanılan formlar Kurul t
 
 **MADDE 19 –** (1) Uzmanlık öğrencisinin ana dalda uzmanlık eğitimini bitirme sınavına girebilmesi için tez hazırlaması zorunludur.
 
-(2) Uzmanlık eğitimi süresinin ilk yarısı içinde (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusu tarafından uzmanlık öğrencisine eğitim alınan dalın müfredatı çerçevesinde özgün bir tez konusu ile kurum bünyesinde görev yapan ve ilgili uzmanlık dalında eğitici niteliğini haiz olan tez danışmanı belirlenir. Tez konusunun niteliğine bağlı olarak gerekli görülürse (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusunun ve eğitici niteliğini haiz tez danışmanının onayıyla birden fazla tez danışmanı belirlenebilir. Bu durumda ilgili alanda tebarüz eden diğer tez danışmanlarının eğitici olması şartı aranmaz. Bir tez danışmanı, birden fazla tez için danışmanlık yapabilir.
+(2) Uzmanlık eğitimi süresinin ilk yarısı içinde **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusu tarafından uzmanlık öğrencisine eğitim alınan dalın müfredatı çerçevesinde özgün bir tez konusu ile kurum bünyesinde görev yapan ve ilgili uzmanlık dalında eğitici niteliğini haiz olan tez danışmanı belirlenir. Tez konusunun niteliğine bağlı olarak gerekli görülürse **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusunun ve eğitici niteliğini haiz tez danışmanının onayıyla birden fazla tez danışmanı belirlenebilir. Bu durumda ilgili alanda tebarüz eden diğer tez danışmanlarının eğitici olması şartı aranmaz. Bir tez danışmanı, birden fazla tez için danışmanlık yapabilir.
 
-(3) Belirlenen tez danışmanı ya da danışmanlarının eğitim kurumundan istifa, emeklilik ya da tayin sebebiyle ayrılması durumunda, danışmanın talebi ve (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusunun uygun görmesi kaydıyla mevcut tez danışmanlığı görevi o tez ile sınırlı olmak üzere devam edebilir. Mevcut danışmanın herhangi bir sebeple tez danışmanlığına devam etmek istememesi durumunda (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusu tarafından yukarıda belirtilen şartları haiz yeni bir tez danışmanı belirlenir.
+(3) Belirlenen tez danışmanı ya da danışmanlarının eğitim kurumundan istifa, emeklilik ya da tayin sebebiyle ayrılması durumunda, danışmanın talebi ve **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusunun uygun görmesi kaydıyla mevcut tez danışmanlığı görevi o tez ile sınırlı olmak üzere devam edebilir. Mevcut danışmanın herhangi bir sebeple tez danışmanlığına devam etmek istememesi durumunda **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusu tarafından yukarıda belirtilen şartları haiz yeni bir tez danışmanı belirlenir.
 
-(4) Tez, en geç uzmanlık eğitimi süresinin bitiminden üç ay öncesinde, kurum içinden ya da dışından belirlenen ve en az üç asıl iki yedek üyeden oluşan jüriye sunulmak üzere (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusuna teslim edilir. Tezin bu süre içerisinde teslim edilmemesi durumunda tez danışmanı ile uzmanlık öğrencisi yazılı olarak uyarılır.
+(4) Tez, en geç uzmanlık eğitimi süresinin bitiminden üç ay öncesinde, kurum içinden ya da dışından belirlenen ve en az üç asıl iki yedek üyeden oluşan jüriye sunulmak üzere **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusuna teslim edilir. Tezin bu süre içerisinde teslim edilmemesi durumunda tez danışmanı ile uzmanlık öğrencisi yazılı olarak uyarılır.
 
-(5) Jüri en geç bir ay içerisinde tezi inceler, uzmanlık öğrencisinin tez savunmasını sözlü olarak yaptırır ve sonucunu yazılı ve gerekçeli olarak uzmanlık öğrencisi ile (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusuna bildirir.
+(5) Jüri en geç bir ay içerisinde tezi inceler, uzmanlık öğrencisinin tez savunmasını sözlü olarak yaptırır ve sonucunu yazılı ve gerekçeli olarak uzmanlık öğrencisi ile **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusuna bildirir.
 
 (6) Jüri tez çalışmasını yeterli bulmazsa, eksikliklerin tamamlanması ve gerekli düzeltmelerin yapılması için uzmanlık öğrencisine altı aylık ek bir süre verir. Bu sürenin uzmanlık eğitimini aşan kısmı uzmanlık eğitimi süresine eklenir. Verilen ek süre içerisinde eksikliklerin tamamlanması ve gerekli düzeltmelerin yapılması halinde tez, ek sürenin bitimi beklenmeden teslim edilebilir.
 
@@ -447,7 +447,7 @@ g) Denetim formu: Kurum ve programların denetiminde kullanılan formlar Kurul t
 
 #### Uzmanlık eğitimini bitirme sınavı
 
-**MADDE 20 –** (1) Tezi kabul edilen, uzmanlık eğitimi süresini ve rotasyonlarını başarıyla tamamlayan, uzmanlık eğitimi karnesinin çekirdek müfredatı belirleyen kısmının tamamlandığı ilgili (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusu tarafından onaylanan uzmanlık öğrencisi, uzmanlık eğitimini bitirme sınavına girmeye hak kazanır. On beş iş günü içerisinde sınav jüri üyeleri kurum eğitim sorumlusu tarafından belirlenir. Uzmanlık eğitimini bitirme sınavı, jürinin belirlenmesinden itibaren en geç otuz iş günü içerisinde yapılır. Kurum eğitim sorumlusu uzmanlık öğrencisine; sınav jürisini, tarihini ve yerini yazılı olarak bildirir. Uzmanlık eğitimini bitirme sınavının süresi içerisinde tamamlanmaması halinde, Kurul tarafından 4 üncü maddenin sekizinci fıkrası uyarınca karar verilebilir.
+**MADDE 20 –** (1) Tezi kabul edilen, uzmanlık eğitimi süresini ve rotasyonlarını başarıyla tamamlayan, uzmanlık eğitimi karnesinin çekirdek müfredatı belirleyen kısmının tamamlandığı ilgili **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusu tarafından onaylanan uzmanlık öğrencisi, uzmanlık eğitimini bitirme sınavına girmeye hak kazanır. On beş iş günü içerisinde sınav jüri üyeleri kurum eğitim sorumlusu tarafından belirlenir. Uzmanlık eğitimini bitirme sınavı, jürinin belirlenmesinden itibaren en geç otuz iş günü içerisinde yapılır. Kurum eğitim sorumlusu uzmanlık öğrencisine; sınav jürisini, tarihini ve yerini yazılı olarak bildirir. Uzmanlık eğitimini bitirme sınavının süresi içerisinde tamamlanmaması halinde, Kurul tarafından 4 üncü maddenin sekizinci fıkrası uyarınca karar verilebilir.
 
 (2) Jüriler, en az üç üyesi sınav yapılan daldan olmak üzere, uzmanlık dalının rotasyon alanlarının veya Kurulun uygun gördüğü dalların eğiticilerinden oluşmak üzere beş kişiden oluşur. Jürinin tamamı sınav yapılan dalın eğiticilerinden oluşturulabilir. Ayrıca sınav yapılan daldan olmak üzere iki kişi yedek üye olarak seçilir. Jüri üyeleri kendi aralarından bir başkan ve kâtip üye seçer. Kurulca lüzum görülen uzmanlık dallarının jürilerinin oluşturulma usulü, bu hükümden farklı olarak belirlenebilir.
 
@@ -471,7 +471,7 @@ a) Ana dal uzmanlık öğrencileri için tezin kabul edilmiş olması,
 
 b) Uzmanlık dalı ile ilgili uzmanlık eğitimi süresinin ve rotasyonların tamamlanmış bulunması,
 
-c) Uzmanlık eğitimi karnesinin çekirdek müfredatı belirleyen kısmının ilgili (Değişik ibare:RG-7/10/2023-32332) birim eğitim sorumlusu tarafından onaylanmış bulunması,
+c) Uzmanlık eğitimi karnesinin çekirdek müfredatı belirleyen kısmının ilgili **(Değişik ibare:RG-7/10/2023-32332)** birim eğitim sorumlusu tarafından onaylanmış bulunması,
 
 ç) Uzmanlık eğitimini bitirme sınavında başarılı olunması,
 
@@ -489,7 +489,7 @@ c) Uzmanlık eğitimi karnesinin çekirdek müfredatı belirleyen kısmının il
 
 ### BEŞİNCİ BÖLÜM
 
-Yurt Dışında Yapılan Uzmanlık Eğitiminin Denklik İşlemleri
+**Yurt Dışında Yapılan Uzmanlık Eğitiminin Denklik İşlemleri**
 
 #### Uzmanlık eğitiminin ve belgelerin incelenmesi
 
@@ -501,7 +501,7 @@ Yurt Dışında Yapılan Uzmanlık Eğitiminin Denklik İşlemleri
 
 #### Uzmanlık belgesi almamış olanlar hakkında yapılacak işlemler
 
-**MADDE 24 –** (1) Yabancı ülkelerden uzmanlık belgesi almamış olanların uzmanlık eğitiminde geçen süreleri, Kurulca eğitim süresi artırılan dallar dahil olmak üzere çizelgelerde öngörülen süreden az ise bu kişiler TUS, DUS veya YDUS’a girerler. Sınavda başarılı olanlar, yurt dışında geçirdikleri eğitim sürelerinin uzmanlık eğitimi süresinden sayılmasını isterlerse, eğitim aldıkları dilden 12 nci maddenin dördüncü fıkrasında yer alan sınavlardan birinde veya bu dilden sınav yapılmıyorsa o ülkenin dili için yapılan başka bir sınavda başarılı olanların, eğitim gördükleri ülkeden aldıkları belgeler değerlendirilerek, ilgili kurumun (Değişik ibare:RG-7/10/2023-32332) uzmanlık eğitimi kurulu tarafından uygun görülen süreler Türkiye’de yapacakları uzmanlık eğitimi süresinden düşülür. Ancak yurt dışında geçen uzmanlık eğitimi sürelerinin geçerli sayılabilmesi için, yukarıda belirtilen şartlar yanında ilgililerin uzmanlık eğitiminden ayrıldıktan sonra en geç bir yıl içinde müracaatları ve açılacak ilk iki uzmanlık eğitimi giriş sınavından birinde başarılı olmaları şarttır.
+**MADDE 24 –** (1) Yabancı ülkelerden uzmanlık belgesi almamış olanların uzmanlık eğitiminde geçen süreleri, Kurulca eğitim süresi artırılan dallar dahil olmak üzere çizelgelerde öngörülen süreden az ise bu kişiler TUS, DUS veya YDUS’a girerler. Sınavda başarılı olanlar, yurt dışında geçirdikleri eğitim sürelerinin uzmanlık eğitimi süresinden sayılmasını isterlerse, eğitim aldıkları dilden 12 nci maddenin dördüncü fıkrasında yer alan sınavlardan birinde veya bu dilden sınav yapılmıyorsa o ülkenin dili için yapılan başka bir sınavda başarılı olanların, eğitim gördükleri ülkeden aldıkları belgeler değerlendirilerek, ilgili kurumun **(Değişik ibare:RG-7/10/2023-32332)** uzmanlık eğitimi kurulu tarafından uygun görülen süreler Türkiye’de yapacakları uzmanlık eğitimi süresinden düşülür. Ancak yurt dışında geçen uzmanlık eğitimi sürelerinin geçerli sayılabilmesi için, yukarıda belirtilen şartlar yanında ilgililerin uzmanlık eğitiminden ayrıldıktan sonra en geç bir yıl içinde müracaatları ve açılacak ilk iki uzmanlık eğitimi giriş sınavından birinde başarılı olmaları şarttır.
 
 (2) Yabancı ülkelerde uzmanlık eğitiminde geçirdikleri eğitim süresi çizelgelerde belirtilen sürelere uygun bulunanlar Kurul tarafından belirlenen fakülte veya eğitim hastanesinde üçüncü fıkra hükümlerine göre denklik sınavına alınırlar.
 
@@ -527,7 +527,7 @@ c) Bilimsel yeterlik sınavında başarılı olanların uzmanlık belgeleri Baka
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Uzmanlık yetkisinin kullanılması
 
@@ -553,7 +553,7 @@ c) Bilimsel yeterlik sınavında başarılı olanların uzmanlık belgeleri Baka
 
 **MADDE 30 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

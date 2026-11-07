@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/07/20260731-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN YARGININ ETKİN VE VERİMLİ İŞLEMESİNE YÖNELİK BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7589 Kabul Tarihi: 16/7/2026
+**KANUN YARGININ ETKİN VE VERİMLİ İŞLEMESİNE YÖNELİK BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7589** Kabul Tarihi: 16/7/2026
 
 MADDE 1- 9/6/1932 tarihli ve 2004 sayılı İcra ve İflâs Kanununun 114 üncü maddesinin ikinci fıkrasına aşağıdaki cümleler eklenmiş ve yedinci fıkrasının (6), (8) ve (9) numaralı bentleri aşağıdaki şekilde değiştirilmiştir.
 “Tüm maliklerin miras yoluyla edindikleri ve mirasçılar dışında üçüncü kişilerin mülkiyet hakkının bulunmadığı taşınmazlar bakımından ortaklığın satış suretiyle giderilmesine karar verilmesi hâlinde yapılacak açık artırmalarda birinci artırma sadece malik olan mirasçılar arasında yapılır. Sadece malik olan mirasçılar arasında yapılacak bu artırma usulü bir defaya mahsus olmak üzere uygulanır.”

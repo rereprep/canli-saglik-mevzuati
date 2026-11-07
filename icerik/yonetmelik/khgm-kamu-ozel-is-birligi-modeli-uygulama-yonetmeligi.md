@@ -14,17 +14,17 @@ durum: "yürürlükte"
 
 ### SAĞLIK BAKANLIĞINCA KAMU ÖZEL İŞ BİRLİĞİ MODELİ İLE TESİS YAPTIRILMASI, YENİLENMESİ VE HİZMET ALINMASINA DAİR UYGULAMA YÖNETMELİĞİ
 
-Bakanlar Kurulu Kararının Tarihi : 21/3/2014 No : 2014/6282
+**Bakanlar Kurulu Kararının Tarihi : 21/3/2014 No : 2014/6282**
 
-Dayandığı Kanunun Tarihi : 21/2/2013 No : 6428
+**Dayandığı Kanunun Tarihi : 21/2/2013 No : 6428**
 
-Yayımlandığı R.Gazetenin Tarihi : 9/5/2014 No : 28995
+**Yayımlandığı R.Gazetenin Tarihi : 9/5/2014 No : 28995**
 
-Yayımlandığı Düsturun Tertibi : 5 Cilt : 54
+**Yayımlandığı Düsturun Tertibi : 5 Cilt : 54**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -130,21 +130,21 @@ hh) Yenileme ve yapım işleri: Mevcut tesislerin yenilenme zarureti ortaya çı
 
 ii) Yüklenici: Üzerine ihale yapılan ve sözleşme imzalanan istekli ile özel amaçlı şirketi,
 
-jj) (Ek:RG-25/1/2020-31019-CK-2049/1 md.) Finansman anlaşmaları: Yüklenicinin sözleşme kapsamındaki işlerin finansmanına ilişkin olarak imzaladığı tüm anlaşma ve belgeleri,
+jj) **(Ek:RG-25/1/2020-31019-CK-2049/1 md.)** Finansman anlaşmaları: Yüklenicinin sözleşme kapsamındaki işlerin finansmanına ilişkin olarak imzaladığı tüm anlaşma ve belgeleri,
 
-kk) (Ek:RG-25/1/2020-31019-CK-2049/1 md.) Hesaplama dönemi: Herhangi bir takvim yılına ilişkin olarak; söz konusu yıldaki Ocak ayı başından Mart ayı sonuna, Nisan ayı başından Haziran ayı sonuna, Temmuz ayı başından Eylül ayı sonuna ve Ekim ayı başından Aralık ayı sonuna kadar olan her bir üçer aylık dönemini,
+kk) **(Ek:RG-25/1/2020-31019-CK-2049/1 md.)** Hesaplama dönemi: Herhangi bir takvim yılına ilişkin olarak; söz konusu yıldaki Ocak ayı başından Mart ayı sonuna, Nisan ayı başından Haziran ayı sonuna, Temmuz ayı başından Eylül ayı sonuna ve Ekim ayı başından Aralık ayı sonuna kadar olan her bir üçer aylık dönemini,
 
-ll) (Ek:RG-25/1/2020-31019-CK-2049/1 md.) Hesaplama tarihi: İlgili hesaplama dönemi için bir önceki hesaplama döneminin son ayına ait Türkiye İstatistik Kurumu tarafından Tüketici Fiyatları Endeksi’nin (TÜFE) ve Yurt İçi Üretici Fiyatları Endeksi’nin (Yİ-ÜFE) açıklanmasından bir iş günü sonrasını,
+ll) **(Ek:RG-25/1/2020-31019-CK-2049/1 md.)** Hesaplama tarihi: İlgili hesaplama dönemi için bir önceki hesaplama döneminin son ayına ait Türkiye İstatistik Kurumu tarafından Tüketici Fiyatları Endeksi’nin (TÜFE) ve Yurt İçi Üretici Fiyatları Endeksi’nin (Yİ-ÜFE) açıklanmasından bir iş günü sonrasını,
 
-mm) (Ek:RG-25/1/2020-31019-CK-2049/1 md.) Net bugünkü değer (NBD): Ek-3’te yer alan usul çerçevesinde hesaplanan değeri,
+mm) **(Ek:RG-25/1/2020-31019-CK-2049/1 md.)** Net bugünkü değer (NBD): Ek-3’te yer alan usul çerçevesinde hesaplanan değeri,
 
-nn) (Ek:RG-25/1/2020-31019-CK-2049/1 md.) Sözleşme bedeli: Ek-3’te yer alan usul çerçevesinde hesaplanan ve sözleşme kapsamında işletme dönemi boyunca yükleniciye ödenecek kullanım bedeli ile mecburi hizmet bedelinin hesaplama dönemi itibarıyla net bugünkü değerleri üzerinden elde edilen toplamını,
+nn) **(Ek:RG-25/1/2020-31019-CK-2049/1 md.)** Sözleşme bedeli: Ek-3’te yer alan usul çerçevesinde hesaplanan ve sözleşme kapsamında işletme dönemi boyunca yükleniciye ödenecek kullanım bedeli ile mecburi hizmet bedelinin hesaplama dönemi itibarıyla net bugünkü değerleri üzerinden elde edilen toplamını,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Temel Esaslar ve İhale Hazırlıkları
+**Temel Esaslar ve İhale Hazırlıkları**
 
 #### Temel esaslar
 
@@ -204,7 +204,7 @@ d) Yapım ihalelerinde ihtiyari hizmetler de yükleniciye verilebilir ve bu husu
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İhaleye Katılım Kuralları
+**İhaleye Katılım Kuralları**
 
 #### İhaleye katılımda yeterlik kuralları
 
@@ -356,17 +356,17 @@ d) 10 uncu maddeye göre ihaleye katılamayacağı belirtildiği halde ihaleye k
 
 ### DÖRDÜNCÜ BÖLÜM
 
-İhale Usul ve Esasları ile Ön Yeterlik ve İhale Dokümanları
+**İhale Usul ve Esasları ile Ön Yeterlik ve İhale Dokümanları**
 
 #### İhale usulleri
 
 **MADDE 16 –** (1) Bu Yönetmelik kapsamındaki işlerin yaptırılmasında aşağıdaki ihale usullerinden biri uygulanır:
 
-a) Açık ihale usulü.
+a) **Açık ihale usulü**.
 
-b) Belli istekliler arasında ihale usulü.
+b) **Belli istekliler arasında ihale** usulü.
 
-c) Pazarlık usulü.
+c) **Pazarlık usulü**.
 
 (2) Birinci fıkrada belirtilen usullerden hangisinin uygulanacağı idarece belirlenir.
 
@@ -496,7 +496,7 @@ ee) Sözleşmelerin noterlikçe onaylanıp onaylanmayacağına dair hususlar.
 
 ### BEŞİNCİ BÖLÜM
 
-İhale İzni Alınması, Komisyon ve İhale İşlem Dosyası
+**İhale İzni Alınması, Komisyon ve İhale İşlem Dosyası**
 
 #### İhale izni alınması
 
@@ -530,7 +530,7 @@ ee) Sözleşmelerin noterlikçe onaylanıp onaylanmayacağına dair hususlar.
 
 ### ALTINCI BÖLÜM
 
-İhalenin ve Ön Yeterliğin İlanı ve İhale Dokümanının Verilmesi
+**İhalenin ve Ön Yeterliğin İlanı ve İhale Dokümanının Verilmesi**
 
 #### İhale ilanı
 
@@ -684,7 +684,7 @@ b) Türk Akreditasyon Kurumundan bir teyit yazısı alınmadan sunulabilen ve ya
 
 ### YEDİNCİ BÖLÜM
 
-Ön Yeterlik Başvurularının ve Tekliflerin Sunulması
+**Ön Yeterlik Başvurularının ve Tekliflerin Sunulması**
 
 #### Başvuru ve teklif mektuplarının şekli
 
@@ -750,7 +750,7 @@ e) Ad ve soyadı veya ticaret unvanı yazılmak suretiyle yetkili kişilerce imz
 
 **MADDE 37 –** (1) Bu Yönetmelik çerçevesinde yapılan yapım işleri ihalelerinde toplam sabit yatırım tutarının, diğer işlerde ise teklif edilen bedelin %3’ünden az olmamak üzere istekli tarafından verilecek tutarda geçici teminat alınır.
 
-(2) Üzerine ihale kararı verilen isteklilerden sözleşme imzalanmadan önce yapım işlerinde toplam sabit yatırım tutarının %3’ü oranında kesin teminat alınır. Sabit yatırımın tamamlanmasından sonra işletme dönemi için tutulacak kesin teminat oranı %1,5’e düşürülür. Diğer işlerde ise ihale bedelinin %3’ü oranında kesin teminat alınır. (Ek cümle:RG-25/1/2020-31019-CK-2049/2 md.) İşletme dönemindeki teminat miktarı her yıl, Türkiye İstatistik Kurumu tarafından belirlenen Yurt İçi Üretici Fiyat Endeksi’ndeki (Yİ-ÜFE) artış oranında artırılır.
+(2) Üzerine ihale kararı verilen isteklilerden sözleşme imzalanmadan önce yapım işlerinde toplam sabit yatırım tutarının %3’ü oranında kesin teminat alınır. Sabit yatırımın tamamlanmasından sonra işletme dönemi için tutulacak kesin teminat oranı %1,5’e düşürülür. Diğer işlerde ise ihale bedelinin %3’ü oranında kesin teminat alınır. **(Ek cümle:RG-25/1/2020-31019-CK-2049/2 md.)** İşletme dönemindeki teminat miktarı her yıl, Türkiye İstatistik Kurumu tarafından belirlenen Yurt İçi Üretici Fiyat Endeksi’ndeki (Yİ-ÜFE) artış oranında artırılır.
 
 (3) Teminat mektupları dışındaki teminatlar ihale komisyonlarınca teslim alınamaz. Bunların saymanlık ya da muhasebe müdürlüklerine yatırılması zorunludur. Teminatlar, teminat olarak kabul edilen diğer değerlerle değiştirilebilir.
 
@@ -786,7 +786,7 @@ c) Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetleri ve 
 
 ### SEKİZİNCİ BÖLÜM
 
-Tekliflerin Açılması ve Değerlendirilmesi
+**Tekliflerin Açılması ve Değerlendirilmesi**
 
 #### Tekliflerin açılması
 
@@ -894,7 +894,7 @@ hususlarında belgelendirilmek suretiyle yapılan yazılı açıklamaları dikka
 
 ### DOKUZUNCU BÖLÜM
 
-Sözleşmelerin Düzenlenmesi ve Sözleşmelerde Yer Alacak Hususlar
+**Sözleşmelerin Düzenlenmesi ve Sözleşmelerde Yer Alacak Hususlar**
 
 #### Sözleşmenin dili
 
@@ -1126,7 +1126,7 @@ zorunludur.
 
 #### Sözleşme tadili
 
-**MADDE 61 –** (1) (Değişik:RG-25/1/2020-31019-CK-2049/3 md.) Mücbir sebepler, olağanüstü haller veya sözleşme ve eklerinin uygulanmasını etkileyen bir durumun ortaya çıkması veya sözleşme ve eklerindeki hükümlerin ihtilaf içermesi hallerinde, sözleşmenin anlaşılabilirliğini ve uygulanabilirliğini sağlamak amacıyla, sözleşme bedelini artırmamak kaydıyla Bakan onayı ile sözleşme ve eklerinde taraflarca değişiklik yapılabilir. Sözleşme bedeli Ek-3’te yer alan formül kullanılarak net bugünkü değer üzerinden Bakanlık tarafından hesaplanır. Sözleşme değişikliğinden önce söz konusu hesaplamaların Yönetmeliğe uygunluğuna ilişkin Hazine ve Maliye Bakanlığının görüşü alınır.
+**MADDE 61 –** (1) **(Değişik:RG-25/1/2020-31019-CK-2049/3 md.)** Mücbir sebepler, olağanüstü haller veya sözleşme ve eklerinin uygulanmasını etkileyen bir durumun ortaya çıkması veya sözleşme ve eklerindeki hükümlerin ihtilaf içermesi hallerinde, sözleşmenin anlaşılabilirliğini ve uygulanabilirliğini sağlamak amacıyla, sözleşme bedelini artırmamak kaydıyla Bakan onayı ile sözleşme ve eklerinde taraflarca değişiklik yapılabilir. Sözleşme bedeli Ek-3’te yer alan formül kullanılarak net bugünkü değer üzerinden Bakanlık tarafından hesaplanır. Sözleşme değişikliğinden önce söz konusu hesaplamaların Yönetmeliğe uygunluğuna ilişkin Hazine ve Maliye Bakanlığının görüşü alınır.
 
 (2) Yapım işlerinde mücbir sebepler, olağanüstü haller veya yüklenicinin kusurundan kaynaklanmayan sebeplerle, sözleşmede öngörülen şartlarda işin tamamlanamayacağının anlaşılması halinde bedel, ihalede nihai teklifin verildiği tarih esas alınarak güncellenir ve buna bağlı olarak Bakan onayı ile sözleşmede gerekli düzenlemeler yapılır.
 
@@ -1136,7 +1136,7 @@ zorunludur.
 
 ### ONUNCU BÖLÜM
 
-Sözleşmenin Sona Ermesi
+**Sözleşmenin Sona Ermesi**
 
 #### Sözleşmenin feshi
 
@@ -1182,7 +1182,7 @@ ihtarla keyfiyet açıkça belirtilerek yükleniciye gereğinin yapılması içi
 
 ### ONBİRİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### İmar planlarının yapılması ve onaylanması
 
@@ -1244,7 +1244,7 @@ ile yükümlüdür.
 
 ____________
 
-(1) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2049 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle, bu fıkranın ikinci cümlesinde yer alan “ve davanın Türkiye’de görülmesi” ibaresi yürürlükten kaldırılmıştır.
+<i>(1) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2049 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle, bu fıkranın ikinci cümlesinde yer alan “ve davanın Türkiye’de görülmesi” ibaresi yürürlükten kaldırılmıştır.</i>
 
 6166-1/6166-2
 
@@ -1255,37 +1255,37 @@ ____________
 
 6167
 
-Ek-1(1)
+**Ek-1(1)**
 
 ### KULLANIM BEDELİNİN HESAPLANMASI
 
-Kullanım Bedeli Formülü
+**Kullanım Bedeli Formülü**
 
-KBD = İlgili döneme ait ödemeye konu kullanım bedeli.
+**KBD** = İlgili döneme ait ödemeye konu kullanım bedeli.
 
-KB0 = Sözleşme veya eklerinde kararlaştırılan kullanım bedeli.
+**KB0** = Sözleşme veya eklerinde kararlaştırılan kullanım bedeli.
 
-TÜFE(D-1) = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Tüketici Fiyatları Endeksi (TÜFE).
+**TÜFE(D-1)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Tüketici Fiyatları Endeksi (TÜFE).
 
-TÜFE (0) = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Tüketici Fiyatları Endeksi (TÜFE).
+**TÜFE (0) =** Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Tüketici Fiyatları Endeksi (TÜFE).
 
-Yİ-ÜFE (D-1) = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
+**Yİ-ÜFE (D-1)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
 
-Yİ-ÜFE (0) = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
+**Yİ-ÜFE (0)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
 
 g = İlgili üç aylık dönemdeki işletme gün sayısı.
 
 %a = Aşama tamamlamada teslim alınan kısmın yatırım bedelinin, toplam yatırım bedeli içerisindeki yüzdesi.
 
-%Kesintiler = Sağlık tesisinin tamamında veya herhangi bir bölümünde meydana gelen ve ilgili bölüm veya bölümlerin kullanılmasını engelleyen, sözleşmede yer alan formüle ve benzer uluslararası işlerde kullanılan esaslara, katsayılara ve temel veriler gibi parametrelere göre hesaplanacak olan kullanım hatasından dolayı kesilecek orandır. Sözleşmeyle düzenlenen kullanım ve/veya hizmet hatalarının, sözleşmede aksi belirtilmedikçe belirtilen sürelere uygun olarak giderilmesi halinde ceza uygulanmaz. Kullanım hatası ve hizmet hatasının bir arada gerçekleşmiş olması halinde büyük olan ceza uygulanır ve ilgili dönemdeki ilgili hizmet bedelinin %20’sini aşmamak üzere hizmet bedelinden kesilir. Hesaplanan cezanın hizmet bedelinin %20’sinden büyük olması durumunda eksik kalan tutar kullanım bedelinin %10’una kadar kullanım bedelinden kesilir.
+**%Kesintiler** = Sağlık tesisinin tamamında veya herhangi bir bölümünde meydana gelen ve ilgili bölüm veya bölümlerin kullanılmasını engelleyen, sözleşmede yer alan formüle ve benzer uluslararası işlerde kullanılan esaslara, katsayılara ve temel veriler gibi parametrelere göre hesaplanacak olan kullanım hatasından dolayı kesilecek orandır. Sözleşmeyle düzenlenen kullanım ve/veya hizmet hatalarının, sözleşmede aksi belirtilmedikçe belirtilen sürelere uygun olarak giderilmesi halinde ceza uygulanmaz. Kullanım hatası ve hizmet hatasının bir arada gerçekleşmiş olması halinde büyük olan ceza uygulanır ve ilgili dönemdeki ilgili hizmet bedelinin %20’sini aşmamak üzere hizmet bedelinden kesilir. Hesaplanan cezanın hizmet bedelinin %20’sinden büyük olması durumunda eksik kalan tutar kullanım bedelinin %10’una kadar kullanım bedelinden kesilir.
 
 ______________
 
-(1) Eklerle ilgili düzeltme, 10/5/2014 tarihli ve 28996 sayılı Resmi Gazetede yayımlanmıştır.
+<i>(1) Eklerle ilgili düzeltme, 10/5/2014 tarihli ve 28996 sayılı Resmi Gazetede yayımlanmıştır.</i>
 
 6168
 
-Düzeltme Katsayısı
+**Düzeltme Katsayısı**
 
 (…)(1)
 
@@ -1295,59 +1295,59 @@ D = Döviz kurundaki değişim.
 
 E = Enflasyon endeksindeki değişim.
 
-TÜFE(D-1) = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Tüketici Fiyatları Endeksi (TÜFE).
+**TÜFE(D-1)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Tüketici Fiyatları Endeksi (TÜFE).
 
-TÜFE (0) = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Tüketici Fiyatları Endeksi (TÜFE).
+**TÜFE (0) =** Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Tüketici Fiyatları Endeksi (TÜFE).
 
-Yİ-ÜFE (D-1) = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
+**Yİ-ÜFE (D-1)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
 
-Yİ-ÜFE (0) = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
+**Yİ-ÜFE (0)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
 
-DKR0 = Nihai teklif tarihinden önceki üç aylık TCMB döviz alış kurlarının ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
+**DKR0** = Nihai teklif tarihinden önceki üç aylık TCMB döviz alış kurlarının ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
 
-DKR (D-1) = (Değişik:RG-25/1/2020-31019-CK-2049/6 md.) Hesaplama tarihinden bir önceki hesaplama döneminin son on iş gününe ait TCMB döviz alış kurları ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
+**DKR (D-1) = (Değişik:RG-25/1/2020-31019-CK-2049/6 md.)** Hesaplama tarihinden bir önceki hesaplama döneminin son on iş gününe ait TCMB döviz alış kurları ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
 
 YP = Yabancı para birimi ile borçlanma oranını ifade eder ve yabancı para birimi ile borçlanmanın nihai teklif tarihi itibarıyla TCMB döviz alış kuru üzerinden hesaplanan Türk Lirası karşılığının, toplam sabit yatırım tutarının aynı tarihteki Türk Lirası karşılığına oranı.
 
-(Ek:RG-25/1/2020-31019-CK-2049/6 md.) Ek-4’te yer alan usul ve esaslar çerçevesinde hesaplanan kullanım bedeli ödemelerine, Türk Lirası veya döviz cinsinden alt ve üst limitler tanımlanabilir. Döviz cinsinden alt ve üst limitlerin belirlenmesinde finansman anlaşmalarında geçerli olan döviz cinsi ve borçlanma ağırlıkları dikkate alınır.
+**(Ek:RG-25/1/2020-31019-CK-2049/6 md.)** Ek-4’te yer alan usul ve esaslar çerçevesinde hesaplanan kullanım bedeli ödemelerine, Türk Lirası veya döviz cinsinden alt ve üst limitler tanımlanabilir. Döviz cinsinden alt ve üst limitlerin belirlenmesinde finansman anlaşmalarında geçerli olan döviz cinsi ve borçlanma ağırlıkları dikkate alınır.
 
 ____________
 
-(1) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2049 sayılı Cumhurbaşkanı Kararının 6 ncı maddesiyle Ek-1 KULLANIM BEDELİNİN HESAPLANMASI”nda yer alan “Düzeltme Katsayısı” kısmındaki “eğer DK = 0 ise DK = 1 alınır.” ibaresi çıkarılmıştır.
+<i>(1) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2049 sayılı Cumhurbaşkanı Kararının 6 ncı maddesiyle Ek-1 KULLANIM BEDELİNİN HESAPLANMASI”nda yer alan “Düzeltme Katsayısı” kısmındaki “eğer DK = 0 ise DK = 1 alınır.” ibaresi çıkarılmıştır.</i>
 
 6169
 
-Ek-2(1)
+**Ek-2(1)**
 
 ### KULLANIM BEDELİNİN HESAPLANMASI
 
-Kullanım Bedeli Formülü
+**Kullanım Bedeli Formülü**
 
-KBD = İlgili döneme ait ödemeye konu kullanım bedeli.
+**KBD** = İlgili döneme ait ödemeye konu kullanım bedeli.
 
-KB0 = Sözleşme veya eklerinde kararlaştırılan kullanım bedeli.
+**KB0** = Sözleşme veya eklerinde kararlaştırılan kullanım bedeli.
 
-TÜFE(D-1) = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Tüketici Fiyatları Endeksi (TÜFE).
+**TÜFE(D-1)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Tüketici Fiyatları Endeksi (TÜFE).
 
-TÜFE (0) = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Tüketici Fiyatları Endeksi (TÜFE).
+**TÜFE (0) =** Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Tüketici Fiyatları Endeksi (TÜFE).
 
-Yİ-ÜFE (D-1) = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
+**Yİ-ÜFE (D-1)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
 
-Yİ-ÜFE (0) = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
+**Yİ-ÜFE (0)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
 
 g = İlgili üç aylık dönemdeki işletme gün sayısı.
 
 %a = Aşama tamamlamada teslim alınan kısmın yatırım bedelinin, toplam yatırım bedeli içerisindeki yüzdesi.
 
-%Kesintiler = Sağlık tesisinin tamamında veya herhangi bir bölümünde meydana gelen ve ilgili bölüm veya bölümlerin kullanılmasını engelleyen, sözleşmede yer alan formüle ve benzer uluslararası işlerde kullanılan esaslara, katsayılara ve temel veriler gibi parametrelere göre hesaplanacak olan kullanım hatasından dolayı kesilecek orandır. Sözleşmeyle düzenlenen kullanım ve/veya hizmet hatalarının, sözleşmede aksi belirtilmedikçe belirtilen sürelere uygun olarak giderilmesi halinde ceza uygulanmaz. Kullanım hatası ve hizmet hatasının bir arada gerçekleşmiş olması halinde büyük olan ceza uygulanır ve ilgili dönemdeki ilgili hizmet bedelinin %20’sini aşmamak üzere hizmet bedelinden kesilir. Hesaplanan cezanın hizmet bedelinin %20’sinden büyük olması durumunda eksik kalan tutar kullanım bedelinin %10’una kadar kullanım bedelinden kesilir.
+**%Kesintiler** = Sağlık tesisinin tamamında veya herhangi bir bölümünde meydana gelen ve ilgili bölüm veya bölümlerin kullanılmasını engelleyen, sözleşmede yer alan formüle ve benzer uluslararası işlerde kullanılan esaslara, katsayılara ve temel veriler gibi parametrelere göre hesaplanacak olan kullanım hatasından dolayı kesilecek orandır. Sözleşmeyle düzenlenen kullanım ve/veya hizmet hatalarının, sözleşmede aksi belirtilmedikçe belirtilen sürelere uygun olarak giderilmesi halinde ceza uygulanmaz. Kullanım hatası ve hizmet hatasının bir arada gerçekleşmiş olması halinde büyük olan ceza uygulanır ve ilgili dönemdeki ilgili hizmet bedelinin %20’sini aşmamak üzere hizmet bedelinden kesilir. Hesaplanan cezanın hizmet bedelinin %20’sinden büyük olması durumunda eksik kalan tutar kullanım bedelinin %10’una kadar kullanım bedelinden kesilir.
 
 ______________
 
-(1) Eklerle ilgili düzeltme 10/5/2014 tarihli ve 28996 sayılı Resmi Gazetede yayımlanmıştır.
+<i>(1) Eklerle ilgili düzeltme 10/5/2014 tarihli ve 28996 sayılı Resmi Gazetede yayımlanmıştır.</i>
 
 6170
 
-Düzeltme Katsayısı
+**Düzeltme Katsayısı**
 
 0<
 
@@ -1361,31 +1361,31 @@ D = Döviz kurundaki değişim.
 
 E = Enflasyon endeksindeki değişim.
 
-TÜFE(D-1) = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Tüketici Fiyatları Endeksi (TÜFE).
+**TÜFE(D-1)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Tüketici Fiyatları Endeksi (TÜFE).
 
-TÜFE (0) = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Tüketici Fiyatları Endeksi (TÜFE).
+**TÜFE (0) =** Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Tüketici Fiyatları Endeksi (TÜFE).
 
-Yİ-ÜFE (D-1) = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
+**Yİ-ÜFE (D-1)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve hesaplama tarihinden bir önceki üç aylık dönemin son ayına ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
 
-Yİ-ÜFE (0) = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
+**Yİ-ÜFE (0)** = Türkiye İstatistik Kurumu tarafından yayımlanan ve nihai teklif tarihinin gerçekleştiği aydan bir önceki aya ait Yurt İçi Üretici Fiyatları Endeksi (Yİ-ÜFE).
 
-DKR0 = Nihai teklif tarihinden önceki üç aylık TCMB döviz alış kurlarının ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
+**DKR0** = Nihai teklif tarihinden önceki üç aylık TCMB döviz alış kurlarının ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
 
-DKR (D) = Hesaplama tarihinden önceki üç aylık TCMB döviz alış kurlarının ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
+**DKR (D)** = Hesaplama tarihinden önceki üç aylık TCMB döviz alış kurlarının ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
 
-DKR (D-1) = (Değişik:RG-25/1/2020-31019-CK-2049/7 md.) Hesaplama tarihinden bir önceki hesaplama döneminin son on iş gününe ait TCMB döviz alış kurlarının ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
+**DKR (D-1) = (Değişik:RG-25/1/2020-31019-CK-2049/7 md.)** Hesaplama tarihinden bir önceki hesaplama döneminin son on iş gününe ait TCMB döviz alış kurlarının ortalaması üzerinden finansman anlaşmalarında geçerli olan döviz cinsine ve borçlanma ağırlıklarına göre hesaplanan değer.
 
-(Ek:RG-25/1/2020-31019-CK-2049/7 md.) Ek-4’te yer alan usul ve esaslar çerçevesinde hesaplanan kullanım bedeli ödemelerine, Türk Lirası veya döviz cinsinden alt ve üst limitler tanımlanabilir. Döviz cinsinden alt ve üst limitlerin belirlenmesinde finansman anlaşmalarında geçerli olan döviz cinsi ve borçlanma ağırlıkları dikkate alınır.
+**(Ek:RG-25/1/2020-31019-CK-2049/7 md.)** Ek-4’te yer alan usul ve esaslar çerçevesinde hesaplanan kullanım bedeli ödemelerine, Türk Lirası veya döviz cinsinden alt ve üst limitler tanımlanabilir. Döviz cinsinden alt ve üst limitlerin belirlenmesinde finansman anlaşmalarında geçerli olan döviz cinsi ve borçlanma ağırlıkları dikkate alınır.
 
 _______________
 
-(1) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2049 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle Ek-2 KULLANIM BEDELİNİN HESAPLANMASI”nda yer alan “Düzeltme Katsayısı” kısmındaki “D - E ≤ 0 ise DK = 1” ibaresi ile “ve her halükarda (KBD/ DKR D ≥ KB(D-1) / DKR (D-1)) olmalıdır.” ibaresi çıkarılmıştır.
+(1) <i>25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2049 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle Ek-2 KULLANIM BEDELİNİN HESAPLANMASI”nda yer alan “Düzeltme Katsayısı” kısmındaki “D - E ≤ 0 ise DK = 1” ibaresi ile “ve her halükarda (KBD/ DKR D ≥ KB(D-1) / DKR (D-1)) olmalıdır.” ibaresi çıkarılmıştır.</i>
 
 6170-1
 
-(Ek:RG-25/1/2020-31019-CK-2049/8 md.)
+**(Ek:RG-25/1/2020-31019-CK-2049/8 md.)**
 
-Ek-3
+**Ek-3**
 
 ### NET BUGÜNKÜ DEĞERİN HESAPLANMASI
 
@@ -1393,7 +1393,7 @@ Net Bugünkü Değer aşağıda yer alan formül ile hesaplanır:
 
 Yukarıdaki formülde yer alan;
 
-NBD: Hesaplama tarihi itibarıyla ilgili hesaplama döneminden sonraki dönemlerde yapılacak ve sözleşmelerde yer aldığı şekilde hesaplanan tüm kullanım bedeli ve mecburi hizmet bedeli ödemelerinin bugüne indirgenmesi sonucunda elde edilecek toplam tutarını,
+**NBD:** Hesaplama tarihi itibarıyla ilgili hesaplama döneminden sonraki dönemlerde yapılacak ve sözleşmelerde yer aldığı şekilde hesaplanan tüm kullanım bedeli ve mecburi hizmet bedeli ödemelerinin bugüne indirgenmesi sonucunda elde edilecek toplam tutarını,
 
 : Hesaplama dönemi n=y olmak üzere ilgili hesaplama döneminden sonraki takip eden her bir hesaplama döneminde, Yönetmeliğin Ek-1 veya Ek-2’sinde yer alan formüle uygun olarak ve aşağıda tanımlanan projeksiyon yönteminden elde edilen değerler esas alınarak formüldeki “TÜFED-1” ve “Yİ-ÜFED-1” değerlerinin ortalaması yerine “ ” ; “DKRD-1” değeri yerine “ kullanılarak hesaplanan kullanım bedelinin finansman anlaşmalarında geçerli olan döviz cinsi karşılığını,
 
@@ -1505,13 +1505,13 @@ ifade eder.
 
 6170-4
 
-(Ek:RG-25/1/2020-31019-CK-2049/8 md.)
+**(Ek:RG-25/1/2020-31019-CK-2049/8 md.)**
 
-Ek-4
+**Ek-4**
 
 ### KULLANIM BEDELİ TABAN VE TAVANININ BELİRLENMESİ
 
-Kullanım Bedeli Tabanı:
+**Kullanım Bedeli Tabanı:**
 
 Yüklenici, sağladığı finansmana dair finansman anlaşmalarını ve finansman geri ödeme planını Bakanlığa sunmakla yükümlüdür. Şirketin sözleşme kapsamında kusuru olmamak kaydıyla Bakanlığın dönemsel olarak yapacağı kullanım bedeli ödemeleri finansman geri ödeme yükümlülüklerine halel getirmeyecek şekilde yapılacaktır. Şöyle ki; ilgili ödeme döneminde ödenecek kullanım bedeli her halükarda, yüklenicinin sunduğu geri ödeme planında yer alan borç servisinin finansman anlaşmalarında belirtilen minimum borç servis karşılama oranıyla çarpımından az olmayacaktır. Borç servisinin üç aylık dönemlerde yapılmaması durumunda, borç servisi borç vadesine oranlanarak üç aylık borç servisi hesaplanır.
 
@@ -1543,7 +1543,7 @@ ifade eder.
 
 Kullanım bedeli taban tutarlarının artırılmasına ve indirilmesine Bakanlık yetkilidir. Ancak kullanım bedeli tabanının Bakanlık tarafından indirilmesi durumunda, Bakanlık tarafından belirlenen taban ödemesi tutarlarının net bugünkü değerlerinin toplamı, kullanım bedelinin nihai teklif tarihi itibarıyla dönemsel olarak hesaplanan döviz karşılığının net bugünkü değerlerinin toplamının altında olamaz.
 
-Kullanım Bedeli Tavanı:
+**Kullanım Bedeli Tavanı:**
 
 Kullanım bedeli tavanı, şirkete Türk Lirası cinsinden yapılan son kullanım bedeli ödemesinin bir önceki hesaplama döneminin son on iş gününe ait TCMB tarafından ilan edilen döviz alış kuru ortalaması ile hesaplanacak döviz karşılığının aşağıda yer alan esaslara göre Ekonomik Kalkınma ve İşbirliği Örgütü (OECD) veri tabanındaki veri baz alınarak hesaplanacak yabancı para enflasyon oranı ile güncellenmesi ile belirlenir.
 

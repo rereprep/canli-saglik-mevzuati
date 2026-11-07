@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/03/20260319-25.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-MİLLİ PARKLAR KANUNU VE BAZI KANUNLAR İLE 375
-SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN**
+**MİLLİ PARKLAR KANUNU VE BAZI KANUNLAR İLE 375**
+**SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7576 Kabul Tarihi: 11/3/2026
 
 MADDE 1- 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 12 nci maddesinin birinci fıkrasının birinci cümlesinde yer alan “denetleme yetkisi” ibaresinden sonra gelmek üzere “9 uncu maddenin birinci fıkrasının (a), (e) ve (f) bentleri bakımından Doğa Koruma ve Milli Parklar Genel Müdürlüğüne, diğer hükümler bakımından” ibaresi eklenmiştir.

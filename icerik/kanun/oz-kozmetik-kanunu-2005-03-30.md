@@ -13,13 +13,13 @@ durum: "yürürlükte"
 
 ### KOZMETİK KANUNU
 
-Kanun Numarası : 5324
+**Kanun Numarası : 5324**
 
-Kabul Tarihi : 24/3/2005
+**Kabul Tarihi : 24/3/2005**
 
-Yayımlandığı Resmî Gazete : Tarih : 30/3/2005 Sayı : 25771
+**Yayımlandığı Resmî Gazete : Tarih : 30/3/2005 Sayı : 25771**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 44
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 44**
 
 #### Amaç
 

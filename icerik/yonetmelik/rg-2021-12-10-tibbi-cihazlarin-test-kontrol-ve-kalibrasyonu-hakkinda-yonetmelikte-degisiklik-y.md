@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-TIBBİ CİHAZLARIN TEST, KONTROL VE KALİBRASYONU HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TIBBİ CİHAZLARIN TEST, KONTROL VE KALİBRASYONU HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 25/6/2015 tarihli ve 29397 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkında Yönetmeliğin 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 2 – (1) Bu Yönetmelik, test, kontrol ve kalibrasyon gerektiren tıbbi cihazların kullanımları süresince test, kontrol ve kalibrasyonlarını gerçekleştirecek kuruluşların; başvurusu, yetkilendirilmesi, izlenmesi, denetlenmesi ve bu kuruluşlarda bulunacak personel ve bunların nitelikleri ile eğitimlerine ilişkin usul ve esasları kapsar.

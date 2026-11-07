@@ -13,13 +13,13 @@ kontrol_edildi: true
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
 Tedavi Hizmetleri Genel Müdürlüğü
 
-Sayı : B.10.0.THG.0.10.00.02.010-07-39846 29.09.2011
+Sayı : **B.10.0.THG.0.10.00.02.010-07-**39846 29.09.2011
 
-Konu : Sağlık Bakanlığına Bağlı İlçe Devlet
+**Konu :** Sağlık Bakanlığına Bağlı İlçe Devlet
 
 Hastanelerinde Entegre Sağlık Hizmeti
 
@@ -41,13 +41,13 @@ Hastanelerinde Entegre Sağlık Hizmeti Sunulmasına İlişkin Usul Ve Esaslar H
 
 SYA
 
-Prof. Dr. Ġrfan ġENCAN
+**Prof. Dr. Ġrfan ġENCAN**
 
-Bakan a.
+**Bakan a.**
 
-Genel Müdür V.
+**Genel Müdür V.**
 
-Eki : 1 Onay
+**Eki :** 1 Onay
 
 1 Yönerge
 
@@ -57,9 +57,9 @@ Eki : 1 Onay
 
 ilcehastane@googlegroups.com
 
-DAĞITIM :
+**DAĞITIM :**
 
-Gereği :
+**Gereği :**
 
 -81 İl Valiliğine (İl Sağlık Müdürlüğü)
 
@@ -77,19 +77,19 @@ Gereği :
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-Tedavi Hizmetleri Genel Müdürlüğü
+**Tedavi Hizmetleri Genel Müdürlüğü**
 
-Sayı : B.10.0.THG.0.10.00.02-020/ 39617 28/09/2011
+**Sayı : B.10.0.THG.0.10.00.02-020/ 39617 28/09/2011**
 
-Konu : Sağlık Bakanlığına Bağlı Ġlçe Devlet Hastanelerinde
+**Konu : Sağlık Bakanlığına Bağlı Ġlçe Devlet Hastanelerinde**
 
 Entegre Sağlık Hizmeti Sunulmasına ĠliG kin
 
-Usul Ve Esaslar Hakkında Yönerge
+**Usul Ve Esaslar Hakkında Yönerge**
 
-BAKANLIK MAKAMINA
+**BAKANLIK MAKAMINA**
 
 Sağlık hizmetlerinde verimliliğin artırılması, kaynak tasarrufunun sağlanması ve hizmet sunumunun güçlendirilerek, yetkili merkezden sunulması için, ulaşım imkânları, nüfus, coğrafi ve sosyo-ekonomik şartlar ve bölge merkezli sağlık planlaması kriterleri gözetilmek suretiyle kişiye yönelik koruyucu sağlık hizmetleri, birinci basamak ve gezici sağlık hizmetleri ile yataklı tedavi hizmetlerinin ilçe devlet hastaneleri bünyesinde aile hekimleriyle birlikte entegre sağlık hizmet sunum modeli ile verilmesi amacıyla “Sağlık
 
@@ -107,25 +107,25 @@ Sağlık Hizmetleri Genel Müdürlüğü’nce yürütülmesi hususunu,
 
 Tensiplerinize arz ederim.
 
-Prof. Dr. Ġrfan ġENCAN
+**Prof. Dr. Ġrfan ġENCAN**
 
-Genel Müdür V.
+**Genel Müdür V.**
 
 Uygun görüG le arz ederim.
 
-.../ .../ 2011
+**.../ .../ 2011**
 
-Prof. Dr. Nihat TOSUN
+**Prof. Dr. Nihat TOSUN**
 
 MüsteG ar
 
-OLUR
+**OLUR**
 
-... /... / 2011
+**... /... / 2011**
 
-Prof. Dr. Recep AKDAĞ
+**Prof. Dr. Recep AKDAĞ**
 
-Bakan
+**Bakan**
 
 EKLER:
 
@@ -133,27 +133,27 @@ EKLER:
 
 2- Liste
 
-SAĞLIK BAKANLIĞINA BAĞLI ĠLÇE DEVLET HASTANELERĠNDE ENTEGRE
+**SAĞLIK BAKANLIĞINA BAĞLI ĠLÇE DEVLET HASTANELERĠNDE ENTEGRE**
 
-SAĞLIK HĠZMETĠ SUNULMASINA ĠLĠġKĠN USUL VE ESASLAR HAKKINDA
+**SAĞLIK HĠZMETĠ SUNULMASINA ĠLĠġKĠN USUL VE ESASLAR HAKKINDA**
 
-YÖNERGE
+**YÖNERGE**
 
-BĠRĠNCĠ BÖLÜM
+**BĠRĠNCĠ BÖLÜM**
 
-Amaç, Kapsam, Hukuki Dayanak ve Tanımlar
+**Amaç, Kapsam, Hukuki Dayanak ve Tanımlar**
 
-Amaç
+**Amaç**
 
-Madde 1- (1) Bu Yönergenin amacı; ulaşım imkânları, nüfus, coğrafi ve sosyo- ekonomik şartlar ve bölge merkezli sağlık planlaması kriterleri gözetilerek kişiye yönelik koruyucu sağlık hizmetleri, birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetleri ve gezici sağlık hizmetleri ile yataklı tedavi hizmetlerinin ilçe devlet hastaneleri bünyesinde aile hekimleri ile birlikte entegre sağlık hizmet sunum modeli ile verilmesini, verilecek hizmetin kapsamını, çalışma usul ve esaslarını, personelin sorumluluklarını, idari ve mali hususlar ile işleyişe dair diğer hususların temel esaslarını belirlemektir.
+**Madde 1-** (1) Bu Yönergenin amacı; ulaşım imkânları, nüfus, coğrafi ve sosyo- ekonomik şartlar ve bölge merkezli sağlık planlaması kriterleri gözetilerek kişiye yönelik koruyucu sağlık hizmetleri, birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetleri ve gezici sağlık hizmetleri ile yataklı tedavi hizmetlerinin ilçe devlet hastaneleri bünyesinde aile hekimleri ile birlikte entegre sağlık hizmet sunum modeli ile verilmesini, verilecek hizmetin kapsamını, çalışma usul ve esaslarını, personelin sorumluluklarını, idari ve mali hususlar ile işleyişe dair diğer hususların temel esaslarını belirlemektir.
 
-Kapsam
+**Kapsam**
 
-Madde 2- (1) Bu Yönerge, Sağlık Bakanlığına bağlı olarak, entegre sağlık hizmeti sunmak üzere faaliyet gösteren ilçe devlet hastanelerini ve bu hastanelerin bulunduğu yerleşim yerindeki aile sağlığı merkezlerini, toplum sağlığı merkezlerini ve Bakanlığa ait diğer sağlık birimleri ile buralarda görev yapan personeli kapsar.
+**Madde 2-** (1) Bu Yönerge, Sağlık Bakanlığına bağlı olarak, entegre sağlık hizmeti sunmak üzere faaliyet gösteren ilçe devlet hastanelerini ve bu hastanelerin bulunduğu yerleşim yerindeki aile sağlığı merkezlerini, toplum sağlığı merkezlerini ve Bakanlığa ait diğer sağlık birimleri ile buralarda görev yapan personeli kapsar.
 
-Hukuki dayanak
+**Hukuki dayanak**
 
-Madde 3- (1) Bu Yönerge; 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 ncü maddesi ve 9 uncu maddesinin (c) bendi, 181 sayılı Sağlık Bakanlığı Teşkilat ve Görevleri
+**Madde 3-** (1) Bu Yönerge; 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 ncü maddesi ve 9 uncu maddesinin (c) bendi, 181 sayılı Sağlık Bakanlığı Teşkilat ve Görevleri
 
 Hakkındaki Kanun Hükmünde Kararname’nin 43 üncü maddesi, 10.09.1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yataklı Tedavi Kurumları İşletme
 
@@ -165,9 +165,9 @@ Hekimliği Uygulaması Kapsamında Sağlık Bakanlığınca Çalıştırılan Pe
 
 Ödemeler ile Sözleşme Usul ve Esasları Hakkında Yönetmeliğe, istinaden hazırlanmıştır.
 
-Tanımlar
+**Tanımlar**
 
-Madde 4- (1) Bu Yönergede geçen;
+**Madde 4-** (1) Bu Yönergede geçen;
 
 a) Aile hekimi: Kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetlerini, yaş, cinsiyet ve hastalık ayrımı yapmaksızın, her kişiye kapsamlı ve devamlı olarak belli bir mekânda vermekle yükümlü, gerektiği ölçüde gezici sağlık hizmeti veren ve tam gün esasına göre çalışan aile hekimliği uzmanı veya
 
@@ -187,13 +187,13 @@ n) Müdürlük: İl sağlık müdürlüğünü,
 
 o)Toplum sağlığı merkezi: Bölgesinde yaşayan toplumun sağlığını geliştirmeyi ve korumayı ön plana alarak sağlıkla ilgili risk ve sorunları belirleyen, bu sorunları gidermek için planlama yapan ve bu planları uygulayan, uygulatan; birinci basamak koruyucu, iyileştirici ve rehabilite edici sağlık hizmetlerini müdürlüğün sevk ve idaresinde organize eden, bu hizmetlerin verimli şekilde sunulmasını izleyen, değerlendiren ve destekleyen, bölgesinde bulunan sağlık kuruluşları ile diğer kurum ve kuruluşlar arasındaki koordinasyonu sağlayan sağlık kuruluşunu, ifade eder.
 
-ĠKĠNCĠ BÖLÜM
+**ĠKĠNCĠ BÖLÜM**
 
-Ġlçe Devlet Hastanesi Statüsü Verilmesi, Genel Esaslar ve Personel Durumu
+**Ġlçe Devlet Hastanesi Statüsü Verilmesi, Genel Esaslar ve Personel Durumu**
 
-Ġlçe devlet hastanesi statüsü verilmesi
+**Ġlçe devlet hastanesi statüsü verilmesi**
 
-Madde 5- (1) Entegre sağlık hizmet modeli ile hizmet verecek hastaneler, coğrafi durum, ulaşım, nüfus, bölge merkezli sağlık planlamaları ve aile hekimliği uygulamaları ile kriterlerdeki ilgili hususlar çerçevesinde valiliğin teklifi üzerine Genel Müdürlüğün uygun görüşü alınarak İlgili Genel Müdürlükçe belirlenir. Bakanlık onayı ile ilçe devlet hastanesi statüsü verilir. Bunlardan E-II ve E-III grubu olanlar yataklı kurum fonksiyonu korunarak
+**Madde 5-** (1) Entegre sağlık hizmet modeli ile hizmet verecek hastaneler, coğrafi durum, ulaşım, nüfus, bölge merkezli sağlık planlamaları ve aile hekimliği uygulamaları ile kriterlerdeki ilgili hususlar çerçevesinde valiliğin teklifi üzerine Genel Müdürlüğün uygun görüşü alınarak İlgili Genel Müdürlükçe belirlenir. Bakanlık onayı ile ilçe devlet hastanesi statüsü verilir. Bunlardan E-II ve E-III grubu olanlar yataklı kurum fonksiyonu korunarak
 
 Genel Müdürlüğe devredilir. İlçe devlet hastanesinin statüsü gerektiğinde aynı usulle değiştirilebilir.
 
@@ -201,9 +201,9 @@ Genel Müdürlüğe devredilir. İlçe devlet hastanesinin statüsü gerektiğin
 
 (3) Fiziki şartların uygun olması kaydıyla toplum sağlığı merkezi ilçe devlet hastanesi bünyesinde hizmet verir.
 
-Genel esaslar
+**Genel esaslar**
 
-Madde 6- (1) Entegre sağlık hizmet modeli ile hizmet verecek hastanelerin çalışma usul ve esasları aşağıdaki şekilde belirlenmiştir.
+**Madde 6-** (1) Entegre sağlık hizmet modeli ile hizmet verecek hastanelerin çalışma usul ve esasları aşağıdaki şekilde belirlenmiştir.
 
 a) İlçe devlet hastaneleri bünyesinde aile hekimleri tarafından sunulan sağlık hizmetlerine ait giderler aile hekimliği mevzuatı çerçevesinde aile hekimlerince, diğer tüm giderler ise müdürlük tarafından karşılanır.
 
@@ -219,21 +219,21 @@ e) Birinci basamağa devredilen ilçe devlet hastanelerinde hizmetler ücretsiz 
 
 f) Kişilerin aile hekimini seçme hakkı ilgili mevzuatına göre uygulanır.
 
-Personel durumu
+**Personel durumu**
 
-Madde 7- (1) Entegre sağlık hizmeti sunulan ilçelerde, aile hekimi olmayan görevli tabiplerden birisi ilgili mevzuatına göre Bakanlıkça baştabip olarak atanır. Baştabip aynı zamanda, baştabip, grup başkanlığı ve toplum sağlığı merkezi sorumlu tabipliği görevini de yürütür. Hizmetin entegre hizmet sunum modeli ile aksatılmadan, aile hekimliği uygulamaları ile birlikte ve tüm hizmet basamakları arasında etkin bir koordinasyon içerisinde yürütülmesinden sorumlu ve yetkilidir.
+**Madde 7-** (1) Entegre sağlık hizmeti sunulan ilçelerde, aile hekimi olmayan görevli tabiplerden birisi ilgili mevzuatına göre Bakanlıkça baştabip olarak atanır. Baştabip aynı zamanda, baştabip, grup başkanlığı ve toplum sağlığı merkezi sorumlu tabipliği görevini de yürütür. Hizmetin entegre hizmet sunum modeli ile aksatılmadan, aile hekimliği uygulamaları ile birlikte ve tüm hizmet basamakları arasında etkin bir koordinasyon içerisinde yürütülmesinden sorumlu ve yetkilidir.
 
 (2) E-I Grubu ilçe devlet hastanelerinin bulunduğu ilçe merkezlerindeki Bakanlığa ait mevcut sağlık birimlerinde görevli personel ilçe devlet hastanesine devredilir. İlçe merkezinde hizmet veren sağlık kuruluşlarındaki tüm personel ilgili mevzuatında belirlenmiş olan görev, yetki ve sorumlulukları çerçevesinde baştabipliğe bağlı olarak hizmet verir.
 
 (3) Entegre sağlık hizmet modeli uygulanan ilçelerde Bakanlıkça belirlenen nüfus kriterlerine uygun olarak ilave aile hekimliği pozisyonları açılır veya kapatılır.
 
-ÜÇÜNCÜ BÖLÜM
+**ÜÇÜNCÜ BÖLÜM**
 
 Acil Sağlık Hizmetleri ve Nöbet Esasları ile Ağız ve DiG Sağlığı Hizmetleri
 
-Acil sağlık hizmetleri ve nöbet esasları
+**Acil sağlık hizmetleri ve nöbet esasları**
 
-Madde 8- (1) İlçe devlet hastanelerinde 24 saat kesintisiz acil sağlık hizmeti verilmesi esastır. Hastane bünyesinde acil sağlık hizmetlerinin sunulabileceği en az bir acil muayene ve müdahale odasından oluşan acil poliklinik veya ünite bulunması zorunludur.
+**Madde 8-** (1) İlçe devlet hastanelerinde 24 saat kesintisiz acil sağlık hizmeti verilmesi esastır. Hastane bünyesinde acil sağlık hizmetlerinin sunulabileceği en az bir acil muayene ve müdahale odasından oluşan acil poliklinik veya ünite bulunması zorunludur.
 
 Nöbet hizmetleri 24 saat hizmet esasına ve E-I grubu ilçe devlet hastaneleri hariç olmak üzere ihtiyaçlara göre esnek mesai uygulaması kapsamında aile hekimleri tarafından hastane personeli ile birlikte yürütülür. Gerektiğinde müşahede amaçlı hasta yatırılarak takip ve tedavisi sağlanır.
 
@@ -253,27 +253,27 @@ Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebl
 
 Ağız ve diG sağlığı hizmetleri
 
-Madde 9- (1) Entegre sağlık hizmeti sunulan ilçe devlet hastanelerinde ağız ve diş sağlığı hizmetleri verilebilir.
+**Madde 9-** (1) Entegre sağlık hizmeti sunulan ilçe devlet hastanelerinde ağız ve diş sağlığı hizmetleri verilebilir.
 
 (2) Birinci basmağa devredilen ilçe devlet hastaneleri bünyesindeki ağız ve diş sağlığı birimleri müdürlükçe uygun görülen en yakın ağız ve diş sağlığı merkezine bağlanır ve bağlı diş polikliniği statüsü verilir. Bu birimlerdeki diş tabipleri bağlandıkları ağız ve diş sağlığı merkezlerine geçici olarak görevlendirilir ve hizmet üretmek için gerekli olan tüm giderler bağlandıkları ağız ve diş sağlığı merkezi tarafından karşılanır. Ürettikleri hizmetler bağlandıkları ağız ve diş sağlığı merkezinin otomasyon sistemine entegre edilir. Sosyal
 
 Güvenlik Kurumu bilgi işlem sistemine (MEDULA) bildirim ve fatura tahakkuku bu duruma uygun olarak yapılır. Bu diş tabiplerinin performansa dayalı ek ödemeleri, ilgili ağız ve diş sağlığı merkezi döner sermaye gelirlerinden karşılanır.
 
-DÖRDÜNCÜ BÖLÜM
+**DÖRDÜNCÜ BÖLÜM**
 
 Mali Hususlar ve Döner sermaye iG lemleri
 
-Mali hususlar
+**Mali hususlar**
 
-Madde 10- (1) E-II ve E-III grubu ilçe devlet hastanelerinde, koruyucu hizmetler ve ağız ve diş sağlığı hizmetleri için fatura tahakkuku yapılmaz. Aile hekimliği mevzuatında belirtilen giderler hariç olmak üzere her türlü mal ve hizmet alımları ve yapım işlerine ait giderler müdürlükçe karşılanır.
+**Madde 10-** (1) E-II ve E-III grubu ilçe devlet hastanelerinde, koruyucu hizmetler ve ağız ve diş sağlığı hizmetleri için fatura tahakkuku yapılmaz. Aile hekimliği mevzuatında belirtilen giderler hariç olmak üzere her türlü mal ve hizmet alımları ve yapım işlerine ait giderler müdürlükçe karşılanır.
 
 (2) Sınırlarının açıkça belirtilmesi, yazılı olması ve muhasebe yetkilisine bildirilmesi şartıyla harcama yetkilisince gerek görüldüğünde; E-II ve E-III grubu ilçe devlet hastanesi baştabibine yapılacak harcamalar için harcama yetkiliği devredilebilir. Ayrıca E-II ve E-III grubu ilçe devlet hastanesinde harcama yetkilisince gerçekleştirme görevlisi de görevlendirilebilir.
 
 (3) E-II ve E-III grubu ilçe devlet hastaneleri bünyesinde; aile hekimliği birimlerince kullanılan alanların kira bedelleri ilgili mevzuat doğrultusunda aile hekimlerinden tahsil edilerek ilgili müdürlüğün döner sermaye bütçesine gelir kaydedilir. Elektrik, su, yakıt (doğalgaz, fueloil, kömür v.b), internet iletişim, temizlik hizmetleri gibi hastane ile ortak kullanılan ve ayrılamayan giderler için aile hekimlerinin hizmet verdiği saatler ile kullanım metrekareleri gibi parametreler esas alınarak her aile hekimliği birimi için ayrı hesaplanır ve bulunacak tutar ilgili aile hekimince her ay müdürlüğün döner sermaye hesabına yatırılır.
 
-Ek ödeme
+**Ek ödeme**
 
-Madde 11- (1) E-II ve E-III grubu ilçe devlet hastanelerinde görev yapan personele,
+**Madde 11-** (1) E-II ve E-III grubu ilçe devlet hastanelerinde görev yapan personele,
 
 Ek Ödeme Yönetmeliği usul ve esasları çerçevesinde bağlı bulundukları il sağlık müdürlüğü döner sermayesinden; il performans puan ortalaması ve Ek Ödeme Yönetmeliğinin Ek-7 sayılı tablosunda yer alan unvanlar için Ek-7 sayılı tabloda belirlenmiş olan hizmet alanı kadro unvan katsayıları, Ek-7 sayılı tabloda yer almayan unvanlar için ise Ek-4 sayılı tabloda yer alan hizmet alanı kadro unvan katsayıları esas alınmak sureti ile ek ödeme yapılır.
 
@@ -281,23 +281,23 @@ Ek Ödeme Yönetmeliği usul ve esasları çerçevesinde bağlı bulundukları i
 
 Ek Ödeme Yönetmeliğinin ikinci basamak sağlık kurumları için belirlenmiş olan usul ve esaslar uygulanmaya devam edilir.
 
-Denetim ve Sorumluluk
+**Denetim ve Sorumluluk**
 
-MADDE 12- (1) Entegre sağlık hizmeti sunulan ilçe devlet hastanelerinde verilen sağlık hizmetlerinin koordinasyonundan ve hizmetlerin bu Yönerge hükümlerine uygun olarak etkin bir şekilde eksiksiz olarak yürütülmesinden baştabip, denetiminden ise müdürlük sorumludur.
+**MADDE 12-** (1) Entegre sağlık hizmeti sunulan ilçe devlet hastanelerinde verilen sağlık hizmetlerinin koordinasyonundan ve hizmetlerin bu Yönerge hükümlerine uygun olarak etkin bir şekilde eksiksiz olarak yürütülmesinden baştabip, denetiminden ise müdürlük sorumludur.
 
-Hüküm bulunmayan haller
+**Hüküm bulunmayan haller**
 
-Madde 13- (1) Bu Yönergede düzenleme bulunmayan hususlarda, sağlık hizmetlerinin yürütülmesinde diğer ilgili mevzuat hükümleri uygulanır.
+**Madde 13-** (1) Bu Yönergede düzenleme bulunmayan hususlarda, sağlık hizmetlerinin yürütülmesinde diğer ilgili mevzuat hükümleri uygulanır.
 
-Yürürlükten kaldırılan hükümler
+**Yürürlükten kaldırılan hükümler**
 
-Madde 14- (1) 14.11.2006 tarih ve 8857 sayılı Bakan onayı ile yayımlanan “Entegre İlçe Hastanesinin Açılması, Kapanması ve Buralarda Verilecek Sağlık
+**Madde 14-** (1) 14.11.2006 tarih ve 8857 sayılı Bakan onayı ile yayımlanan “Entegre İlçe Hastanesinin Açılması, Kapanması ve Buralarda Verilecek Sağlık
 
 Hizmetleri Hakkında Yönerge” yürürlükten kaldırılmıştır.
 
 Devir iG lemleri
 
-GEÇĠCĠ MADDE 1- (1) Bu yönergenin yürürlüğe girdiği tarihte entegre sağlık hizmeti sunulmakta olan E-II ve E-III grubu ilçe devlet hastaneleri, en geç bu Yönergenin yürürlüğe girdiği tarihi takip eden ay içerisinde Genel Müdürlüğe devir edilir.
+**GEÇĠCĠ MADDE 1-** (1) Bu yönergenin yürürlüğe girdiği tarihte entegre sağlık hizmeti sunulmakta olan E-II ve E-III grubu ilçe devlet hastaneleri, en geç bu Yönergenin yürürlüğe girdiği tarihi takip eden ay içerisinde Genel Müdürlüğe devir edilir.
 
 (2) Birinci fıkra hükmüne göre Genel Müdürlüğe devredilen ilçe devlet hastanelerinin döner sermaye hesapları aktif ve pasifleriyle ilgili müdürlüğe devrolunur.
 
@@ -305,23 +305,23 @@ GEÇĠCĠ MADDE 1- (1) Bu yönergenin yürürlüğe girdiği tarihte entegre sa�
 
 (4) Birinci fıkra hükmüne göre Genel Müdürlüğe devredilen ilçe devlet hastanelerinin tüm taşınırları (Genel Bütçe ve Döner Sermaye) ilgili müdürlüğe devredilir.
 
-Yürürlük
+**Yürürlük**
 
-Madde 15- (1) Bu Yönerge Bakan onayı ile yürürlüğe girer.
+**Madde 15-** (1) Bu Yönerge Bakan onayı ile yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-Madde 16- (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
+**Madde 16-** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
 (28/09/2011 tarihli ve 39617 sayılı Makam Onayı ile yürürlüğe girmiştir.)
 
-TEMEL SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE DEVREDİLEN EII - EIII GRUBU İLÇE DEVLET HASTANELERİ
+**TEMEL SAĞLIK HİZMETLERİ GENEL MÜDÜRLÜĞÜNE DEVREDİLEN EII - EIII GRUBU İLÇE DEVLET HASTANELERİ**
 
-KURUM Nihai Yatak
+**KURUM Nihai Yatak**
 
-SN İL KURUM ADI
+**SN İL KURUM ADI**
 
-KODU Rolü Sayısı
+**KODU Rolü Sayısı**
 
 1 711797 ADIYAMAN ADIYAMAN SAMSAT İLÇE DEVLET HASTANESİ EIII 5 2 196626 ADIYAMAN ADIYAMAN TUT İLÇE DEVLET HASTANESİ EII 15
 
@@ -465,13 +465,13 @@ HASTANESİ
 
 135 219678 YALOVA YALOVA ARMUTLU İLÇE DEVLET HASTANESİ EIII 16 136 305270 YOZGAT YOZGAT AYDINCIK İLÇE DEVLET HASTANESİ EIII 5 137 220489 YOZGAT YOZGAT ÇANDIR İLÇE DEVLET HASTANESİ EII 5 138 305271 YOZGAT YOZGAT KADIŞEHRİ İLÇE DEVLET HASTANESİ EII 8 139 188239 YOZGAT YOZGAT YENİFAKILI İLÇE DEVLET HASTANESİ EIII 5 12
 
-TEDAVİ HİZMETLERİ GENEL MÜDÜRLÜĞÜNDE KALAN EI GRUBU İLÇE DEVLET HASTANELERİ
+**TEDAVİ HİZMETLERİ GENEL MÜDÜRLÜĞÜNDE KALAN EI GRUBU İLÇE DEVLET HASTANELERİ**
 
-KURUM Nihai Yatak
+**KURUM Nihai Yatak**
 
-SN İL KURUM ADI
+**SN İL KURUM ADI**
 
-KODU Rolü Sayısı
+**KODU Rolü Sayısı**
 
 1 12789 ADIYAMAN ADIYAMAN ÇELİKHAN İLÇE DEVLET HASTANESİ EI 25 2 716414 ADIYAMAN ADIYAMAN KAHTA GÖÇERİ İLÇE DEVLET HASTANESİ EI 10 3 711798 ADIYAMAN ADIYAMAN SİNCİK İLÇE DEVLET HASTANESİ EI 5
 

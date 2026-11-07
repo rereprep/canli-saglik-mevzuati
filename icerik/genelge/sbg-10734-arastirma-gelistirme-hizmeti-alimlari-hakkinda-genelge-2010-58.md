@@ -11,13 +11,13 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.74.00.06.10/8442 12/08/2010 Konu : Araştırma Geliştirme Hizmeti
+Sayı : B.10.0.SGB.0.74.00.06.10/**8442 12/08/2010** Konu : Araştırma Geliştirme Hizmeti
 
 Alımları
 
 ### GENELGE
 
-(2010/ 58 )
+**(2010/ 58 )**
 
 Bilindiği üzere 4734 Sayılı Kamu İhale Kanununun 3’üncü maddesinin (f) bendinde; finansmanının tamamı Kanun kapsamındaki bir idare tarafından karşılanarak elde edilen sonuçların bu idare tarafından sadece kendi faaliyetlerinin yürütülmesinde faydalanıldığı haller hariç, her türlü araştırma ve geliştirme hizmeti alımları bu Kanundan istisna tutulurken, geçici 4’üncü maddesinin (c) bendinde ise bu Kanunun 3’üncü maddesinin (f) bendi gereğince yapılacak mal ve hizmet alımlarına ilişkin esasların Kamu İhale Kurumunun uygun görüşü üzerine kurumlar tarafından hazırlanarak Bakanlar Kurulu Kararı ile yürürlüğe konulacağı hüküm altına alınmıştır.
 
@@ -27,11 +27,11 @@ Bu esaslara göre; 1- Bakanlığımız merkez ve taşra teşkilatı ile bağlı 
 
 kendileri tarafından karşılanacak olan (elde edilen sonuçların sadece kendi faaliyetlerinin
 
-yürütülmesinde faydalanıldığı haller hariç) her türlü araştırma ve geliştirme hizmet alımları; “ihale
+yürütülmesinde faydalanıldığı haller hariç) her türlü araştırma ve geliştirme hizmet alımları; “**ihale**
 
-yöntemi ile alım (pazarlık usulü ve doğrudan temin)” veya “kamu hizmet sunucularından
+**yöntemi ile alım** (pazarlık usulü ve doğrudan temin)” veya “**kamu hizmet sunucularından**
 
-protokol ile alım” usullerinden birisiyle yapılabilecektir. 2- Tutarı her yıl Kamu İhale Kurumunca 4734 sayılı Kanunun 22’nci maddesinin (d) bendinde
+**protokol ile alım”** usullerinden birisiyle yapılabilecektir. 2- Tutarı her yıl Kamu İhale Kurumunca 4734 sayılı Kanunun 22’nci maddesinin (d) bendinde
 
 büyükşehir belediyesi sınırları dâhilinde bulunan idareler için öngörülen parasal sınırın on katına
 

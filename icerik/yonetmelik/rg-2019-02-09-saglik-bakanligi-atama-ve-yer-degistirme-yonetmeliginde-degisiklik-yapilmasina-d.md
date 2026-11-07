@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 26/3/2013 tarihli ve 28599 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinin 7 nci maddesinin birinci fıkrasında yer alan “Kalkınma Bakanlığınca hazırlanan” ibaresi yürürlükten kaldırılmıştır.
 

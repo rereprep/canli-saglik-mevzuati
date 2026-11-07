@@ -13,11 +13,11 @@ durum: "yürürlükte"
 
 ### KALITSAL HASTALIKLARLA MÜCADELE KANUNU
 
-Kanun Numarası : 3960
+**Kanun Numarası : 3960**
 
-Kabul Tarihi : 28/12/1993
+**Kabul Tarihi : 28/12/1993**
 
-Yayımlandığı Resmî Gazete : Tarih : 30/12/1993 Sayı : 21804
+**Yayımlandığı Resmî Gazete : Tarih : 30/12/1993 Sayı : 21804**
 
 #### Yayımlandığı Düstur : Tertip : 5 Cilt : 33
 
@@ -39,4 +39,4 @@ Kalıtsal kan hastalıklarıyla ve özürlülüğe yol açan diğer kalıtsal ha
 | 5378 | 1 | 7/7/2005 |
 | 6462 | 1 | 3/5/2013 |
 
-<small>[1] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülüğe” ibareleri “engelliliğe” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülüğe” ibareleri “engelliliğe” şeklinde değiştirilmiştir.</i></small>

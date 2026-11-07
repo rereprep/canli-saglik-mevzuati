@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK MESLEK MENSUPLARI İLE SAĞLIK HİZMETLERİNDE ÇALIŞAN DİĞER MESLEK MENSUPLARININ İŞ VE GÖREV TANIMLARINA DAİR YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK MESLEK MENSUPLARI İLE SAĞLIK HİZMETLERİNDE ÇALIŞAN DİĞER MESLEK MENSUPLARININ İŞ VE GÖREV TANIMLARINA DAİR YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 22/5/2014 tarihli ve 29007 sayılı Resmî Gazete’de yayımlanan Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmeliğin Ek-1/B’sinde yer alan “Anestezi teknisyeni/teknikeri” başlıklı bölümüne aşağıdaki bentler eklenmiştir.
 “h) Anesteziyoloji ve reanimasyon uzmanı sorumluluğunda ameliyata girecek hastayı entübe eder. Acil durumlarda da tabip sorumluluğunda hastayı entübe edebilir.

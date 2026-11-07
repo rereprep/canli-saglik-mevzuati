@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -40,7 +40,7 @@ b) Döner sermaye işletme yöneticisi: Bakanlık merkez işletmesinde Müsteşa
 
 c) İşletme: Sağlık Bakanlığı merkez ve İl Sağlık Müdürlükleri döner sermaye işletmesini,
 
-ç) (Değişik:RG-28/4/2020-31112) İşletme birimi: Sağlık Bakanlığı merkez birimleri, İl Sağlık Müdürlüğü merkezi için kurulan birim (Sağlık Müdürlüğü İşletme Birimi olarak adlandırılacaktır) ile İl Sağlık Müdürlüklerine bağlı sağlık tesislerinde (Ağız ve Diş Sağlığı Merkezleri dahil) kurulan birim ve lüzumu halinde Bakan tarafından uygun görülerek kurulan birimi,
+ç) **(Değişik:RG-28/4/2020-31112)** İşletme birimi: Sağlık Bakanlığı merkez birimleri, İl Sağlık Müdürlüğü merkezi için kurulan birim (Sağlık Müdürlüğü İşletme Birimi olarak adlandırılacaktır) ile İl Sağlık Müdürlüklerine bağlı sağlık tesislerinde (Ağız ve Diş Sağlığı Merkezleri dahil) kurulan birim ve lüzumu halinde Bakan tarafından uygun görülerek kurulan birimi,
 
 d) İşletme birimi bütçesi: İşletme birimlerinin gelir ve gider tahminlerini gösteren ve usulüne uygun olarak yürürlüğe konulan belgeyi,
 
@@ -50,27 +50,27 @@ f) İşletme bütçesi: İşletme birimlerinin bütçelerinin konsolide edilerek
 
 g) Kanun: 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunu,
 
-ğ) (Ek:RG-2/5/2019-30762) Koordinatör başhekim: Aynı yerleşke içinde birden fazla hastanenin müşterek yönetimini yapan başhekimi,
+ğ) **(Ek:RG-2/5/2019-30762)** Koordinatör başhekim: Aynı yerleşke içinde birden fazla hastanenin müşterek yönetimini yapan başhekimi,
 
-(Ek ibare:RG-2/5/2019-30762) ifade eder.
+**(Ek ibare:RG-2/5/2019-30762)** ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-İşletmenin İdaresi ve Harcama Yetkililiği, Kadro Planı, Muhasebe Yetkilisi ve Muhasebe
+**İşletmenin İdaresi ve Harcama Yetkililiği, Kadro Planı, Muhasebe Yetkilisi ve Muhasebe**
 
-Yetkilisi Yardımcısı(2)
+**Yetkilisi Yardımcısı(2)**
 
 #### İşletmenin idaresi ve harcama yetkililiği(2)
 
-**MADDE 4 –** (1) Her (Değişik ibare:RG-2/5/2018-30409) işletme idaresi, işletmenin Döner sermaye yöneticisine tevdi olunur.
+**MADDE 4 –** (1) Her **(Değişik ibare:RG-2/5/2018-30409)** işletme idaresi, işletmenin Döner sermaye yöneticisine tevdi olunur.
 
-(2) (Değişik ibare:RG-2/5/2018-30409) Döner sermaye işletme yöneticisi; işletmeyi, mevzuatı çerçevesinde ve Bakanlık emir ve talimatına uygun olarak işletme menfaatlerini koruyacak şekilde idare eder.
+(2) **(Değişik ibare:RG-2/5/2018-30409)** Döner sermaye işletme yöneticisi; işletmeyi, mevzuatı çerçevesinde ve Bakanlık emir ve talimatına uygun olarak işletme menfaatlerini koruyacak şekilde idare eder.
 
-(3) (Ek:RG-2/5/2018-30409) Bakanlık merkez birimlerinde işletme birim yöneticileri harcama yetkilisidir.
+(3) **(Ek:RG-2/5/2018-30409)** Bakanlık merkez birimlerinde işletme birim yöneticileri harcama yetkilisidir.
 
-(4) (Ek:RG-2/5/2018-30409) Taşra teşkilatında İl Sağlık Müdürü harcama yetkilisidir.
+(4) **(Ek:RG-2/5/2018-30409)** Taşra teşkilatında İl Sağlık Müdürü harcama yetkilisidir.
 
-(5) (Ek:RG-2/5/2018-30409) Bakanlık merkez birimlerinde işletme birim yöneticileri, işletme biriminde hiyerarşik olarak en yakın yöneticilere; İl Sağlık Müdürü, Sağlık Müdürlüğü İşletme Birimlerinde hiyerarşik olarak en yakın yöneticilere, işletme birimi kurulan Sağlık Tesislerinde ise işletme birimi yöneticisine harcama yetkisini devredebilir. (Ek cümle:RG-2/5/2019-30762) Ayrıca, İl Sağlık Müdürü aynı yerleşke içinde birden fazla hastane bulunması durumunda bu hastanelerin müşterek yönetimi için görevlendirilen koordinatör başhekimin teklifi üzerine koordinatör başhekim yardımcılarına ve/veya İdari ve Mali Hizmetler Müdürüne, 21/2/2013 tarihli ve 6428 sayılı Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 2 nci maddesinin dördüncü fıkrasında belirtilen limitler dikkate alınmak suretiyle harcama yetkisini devredebilir.
+(5) **(Ek:RG-2/5/2018-30409)** Bakanlık merkez birimlerinde işletme birim yöneticileri, işletme biriminde hiyerarşik olarak en yakın yöneticilere; İl Sağlık Müdürü, Sağlık Müdürlüğü İşletme Birimlerinde hiyerarşik olarak en yakın yöneticilere, işletme birimi kurulan Sağlık Tesislerinde ise işletme birimi yöneticisine harcama yetkisini devredebilir. **(Ek cümle:RG-2/5/2019-30762)** Ayrıca, İl Sağlık Müdürü aynı yerleşke içinde birden fazla hastane bulunması durumunda bu hastanelerin müşterek yönetimi için görevlendirilen koordinatör başhekimin teklifi üzerine koordinatör başhekim yardımcılarına ve/veya İdari ve Mali Hizmetler Müdürüne, 21/2/2013 tarihli ve 6428 sayılı Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 2 nci maddesinin dördüncü fıkrasında belirtilen limitler dikkate alınmak suretiyle harcama yetkisini devredebilir.
 
 #### Kadro planı
 
@@ -86,7 +86,7 @@ Yetkilisi Yardımcısı(2)
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İşletmenin Sermayesi, Gelir ve Giderleri İle Bütçe İşlemleri
+**İşletmenin Sermayesi, Gelir ve Giderleri İle Bütçe İşlemleri**
 
 #### Sermaye
 
@@ -266,13 +266,13 @@ h) İşletme hizmetleri, bütçelere konulacak ödeneklerle, mevzuatla belirlenm
 
 **MADDE 15 –** (1) Defter ve belgelerin muhasebe yetkililerince düzenlemesinde ve bunların Sayıştaya ve ilgili kamu idarelerine gönderilmesinde, 1/5/2007 tarihli ve 26509 sayılı Resmî Gazete’de yayımlanan Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliğinde yer alan düzenlemeler ile Sayıştay tarafından belirlenen usul ve esaslara uyulur.
 
-(2) (Değişik:RG-2/5/2018-30409) İl Sağlık Müdürlüğü koordinesinde sağlık müdürlüğü işletme birimi ve bağlı sağlık tesisleri işletme birimi bilançoları konsolide edilerek İl Sağlık Müdürlüğü Döner Sermaye İşletmesi bilançosu Sağlık Bakanlığı merkez döner sermaye saymanlığına gönderilir.
+(2) **(Değişik:RG-2/5/2018-30409)** İl Sağlık Müdürlüğü koordinesinde sağlık müdürlüğü işletme birimi ve bağlı sağlık tesisleri işletme birimi bilançoları konsolide edilerek İl Sağlık Müdürlüğü Döner Sermaye İşletmesi bilançosu Sağlık Bakanlığı merkez döner sermaye saymanlığına gönderilir.
 
-(3) (Ek:RG-2/5/2018-30409) Sağlık Bakanlığı merkez döner sermaye saymanlığı, Sağlık Bakanlığı merkez ve İl Sağlık Müdürlükleri döner sermaye işletmelerinin bilançolarını Şubat ayı sonuna kadar konsolide ederek elektronik veya kağıt ortamında istenilecek şekilde ilgili yerlere verirler.
+(3) **(Ek:RG-2/5/2018-30409)** Sağlık Bakanlığı merkez döner sermaye saymanlığı, Sağlık Bakanlığı merkez ve İl Sağlık Müdürlükleri döner sermaye işletmelerinin bilançolarını Şubat ayı sonuna kadar konsolide ederek elektronik veya kağıt ortamında istenilecek şekilde ilgili yerlere verirler.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-İşletme Faaliyetleri
+**İşletme Faaliyetleri**
 
 #### Kiraya verme işlemleri ile üretilen mal ve hizmetlerin sipariş ve satışları
 
@@ -302,9 +302,9 @@ h) İşletme hizmetleri, bütçelere konulacak ödeneklerle, mevzuatla belirlenm
 
 #### Dava ve icra işleri
 
-**MADDE 19 –** (1) İşletmelere müteallik dava ve icra işleri ile diğer muhakemat hizmetleri; 26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname ve ilgili diğer mevzuat hükümlerine göre, (Değişik ibare:RG-2/5/2018-30409) Bakanlık ve merkez hukuk birimlerinde istihdam edilen hukuk müşavirleri ve avukatlar ile taşra hukuk birimlerinde istihdam edilen avukatlar, ihtiyaç duyulması halinde de Maliye Bakanlığından talep etmek suretiyle yürütülür.
+**MADDE 19 –** (1) İşletmelere müteallik dava ve icra işleri ile diğer muhakemat hizmetleri; 26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname ve ilgili diğer mevzuat hükümlerine göre, **(Değişik ibare:RG-2/5/2018-30409)** Bakanlık ve merkez hukuk birimlerinde istihdam edilen hukuk müşavirleri ve avukatlar ile taşra hukuk birimlerinde istihdam edilen avukatlar, ihtiyaç duyulması halinde de Maliye Bakanlığından talep etmek suretiyle yürütülür.
 
-(2) İşletmelerce, birinci fıkraya göre muhakemat hizmetlerinin temin edilememesi veya özel uzmanlık gerektirdiği Bakan onayı ile belirlenen hallerde, muhakemat hizmetlerini yürütmek üzere Bakanlar Kurulu Kararıyla belirlenen usul ve esaslar çerçevesinde, 4/1/2002 tarihli ve (Değişik ibare:RG-2/5/2018-30409) 4734 sayılı Kamu İhale Kanununun 22 nci maddesinin (g) bendi gereğince doğrudan temin usulüyle serbest avukatlardan veya avukatlık ortaklıklarından hizmet satın alınabilir.
+(2) İşletmelerce, birinci fıkraya göre muhakemat hizmetlerinin temin edilememesi veya özel uzmanlık gerektirdiği Bakan onayı ile belirlenen hallerde, muhakemat hizmetlerini yürütmek üzere Bakanlar Kurulu Kararıyla belirlenen usul ve esaslar çerçevesinde, 4/1/2002 tarihli ve **(Değişik ibare:RG-2/5/2018-30409)** 4734 sayılı Kamu İhale Kanununun 22 nci maddesinin (g) bendi gereğince doğrudan temin usulüyle serbest avukatlardan veya avukatlık ortaklıklarından hizmet satın alınabilir.
 
 #### Sigorta
 
@@ -320,7 +320,7 @@ h) İşletme hizmetleri, bütçelere konulacak ödeneklerle, mevzuatla belirlenm
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Hüküm bulunmayan haller
 
@@ -340,9 +340,9 @@ h) İşletme hizmetleri, bütçelere konulacak ödeneklerle, mevzuatla belirlenm
 
 _________________
 
-(1) 2/5/2018 tarihli ve 30409 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin başlığındaki “İLE BAĞLI KURULUŞLARININ” ibaresi yürürlükten kaldırılmıştır.
+<i>(1) 2/5/2018 tarihli ve 30409 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin başlığındaki “İLE BAĞLI KURULUŞLARININ” ibaresi yürürlükten kaldırılmıştır.</i>
 
-(2) 2/5/2018 tarihli ve 30409 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin ikinci bölüm başlığında yer alan “İdaresi,” ibaresi ile; ‘’İşletmenin idaresi’’ olan 4 üncü madde başlığı metne işlendiği şekilde değiştirilmiştir.
+<i>(2) 2/5/2018 tarihli ve 30409 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin ikinci bölüm başlığında yer alan “İdaresi,” ibaresi ile; ‘’İşletmenin idaresi’’ olan 4 üncü madde başlığı metne işlendiği şekilde değiştirilmiştir.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

@@ -11,10 +11,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/12/20231229M1-1.pdf"
 durum: "yürürlükte"
 ---
 
-SOSYAL GÜVENLİK
-Ekleri Film 137– 2
-SOSYAL GÜVENLİK
-Ekleri Film 137– 3 137–4 Ekleri Film
+**SOSYAL GÜVENLİK**
+**Ekleri Film** 137– 2
+**SOSYAL GÜVENLİK**
+**Ekleri Film** 137– 3 137–4 Ekleri Film
 SOSYAL GÜVENLİK
 137–5 Ekleri Film
 SOSYAL GÜVENLİK

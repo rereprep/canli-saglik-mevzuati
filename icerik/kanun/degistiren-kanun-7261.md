@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2020/12/20201230-10.htm"
 durum: "yürürlükte"
 ---
 
-KANUN TÜRKİYE ÇEVRE AJANSININ KURULMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7261 Kabul Tarihi: 24/12/2020
-BİRİNCİ BÖLÜM
-Amaç, Kapsam ve Tanımlar Amaç ve kapsam
+**KANUN TÜRKİYE ÇEVRE AJANSININ KURULMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7261** Kabul Tarihi: 24/12/2020
+**BİRİNCİ BÖLÜM**
+**Amaç, Kapsam ve Tanımlar** Amaç ve kapsam
 
 MADDE 1 – (1) Bu Kanunun amacı; çevre kirliliğini önlemek ve yeşil alanların korunmasına, iyileştirilmesine ve geliştirilmesine katkı sağlamak, döngüsel ekonomi ve sıfır atık yaklaşımı doğrultusunda kaynak verimliliğini artırmak ile ulusal ölçekte depozito yönetim sistemi kurulmasına, işletilmesine, izlenmesine ve denetimine yönelik faaliyetlerde bulunmak üzere Türkiye Çevre Ajansının kurulmasıdır.
 (2) Bu Kanun; Türkiye Çevre Ajansının kuruluşu, yönetimi, denetimi, faaliyet konuları ve gelirlerine ilişkin usul ve esasları kapsar.
@@ -26,8 +26,8 @@ a) Ajans: Türkiye Çevre Ajansını,
 b) Bakan: Çevre ve Şehircilik Bakanını,
 c) Bakanlık: Çevre ve Şehircilik Bakanlığını,
 ç) Depozito yönetim sistemi: Bakanlıkça belirlenen ve belirli bir depozito bedeli alınarak piyasaya sürülen ürünlerin tüketilmesi/kullanılması sonrasında iade alınması ve depozito bedelinin geri ödenmesine dayalı sistemi, ifade eder.
-İKİNCİ BÖLÜM
-Kuruluş, Faaliyet Alanı, Organlar ve Personel Kuruluş
+**İKİNCİ BÖLÜM**
+**Kuruluş, Faaliyet Alanı, Organlar ve Personel** Kuruluş
 
 MADDE 3 – (1) Bu Kanunla verilen görevleri yerine getirmek üzere Bakanlıkla ilgili, tüzel kişiliği haiz, bu Kanunda belirtilen hususlar dışında özel hukuk hükümlerine tabi Türkiye Çevre Ajansı kurulmuştur.
 Ajansın faaliyetleri
@@ -57,8 +57,8 @@ Mali haklar
 
 MADDE 7 – (1) Ajans Başkanına, yardımcılarına ve personeline mali ve sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı; 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 11 inci maddesi uyarınca belirlenen emsali personele mali ve sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçmemek üzere Cumhurbaşkanı veya yetkilendireceği makamca belirlenir.
 (2) Ajans Yönetim Kurulu başkan ve üyelerine, bu görevleri nedeniyle ayrıca 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 Sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararnamenin 34 üncü maddesine göre kamu iktisadi teşebbüsleri yönetim kurulu başkan ve üyelerine ödenen tutarda ödeme yapılır.
-ÜÇÜNCÜ BÖLÜM
-Ajansın Gelirleri, Bütçesi ve Muafiyetler Ajansın gelirleri ve bütçesi
+**ÜÇÜNCÜ BÖLÜM**
+**Ajansın Gelirleri, Bütçesi ve Muafiyetler** Ajansın gelirleri ve bütçesi
 
 MADDE 8 – (1) Ajansın gelirleri;
 a) Genel bütçeden aktarılan tutarlardan,
@@ -79,8 +79,8 @@ c) Tapu ve kadastro işlemleri bakımından, döner sermaye hizmet bedelinden,
 Yönetmelik
 
 MADDE 10 – (1) Bu Kanunun uygulanmasıyla ilgili usul ve esaslar Bakanlık tarafından çıkarılan yönetmelikle belirlenir. 4 üncü maddenin birinci fıkrasının (g) bendi ile 6 ncı ve 7 nci maddelerin uygulanmasına ilişkin çıkarılan yönetmeliklerde Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığının görüşü alınır.
-DÖRDÜNCÜ BÖLÜM
-Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler
+**DÖRDÜNCÜ BÖLÜM**
+**Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler**
 
 MADDE 11 – 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun 56 ncı maddesine aşağıdaki fıkra eklenmiştir.
 “Kullanıcılara kısa süreli elektrikli skuter kiralama imkânı veren paylaşımlı elektrikli skuter işgallerinde harç tutarı, her üç skuterin bir metrekare alan işgal ettiği kabulü ile beher metrekare için Tarifenin (1) numaralı bendindeki en az tarife üzerinden hesaplanır.”
@@ -192,8 +192,8 @@ Durma süresinin başladığı tarih itibarıyla, bitimine on beş gün ve daha 
 
 MADDE 37 – 16/4/2020 tarihli ve 7244 sayılı Yeni Koronavirüs (Covid-19) Salgınının Ekonomik ve Sosyal Hayata Etkilerinin Azaltılması Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 1 inci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “j) Mülkiyeti Vakıflar Genel Müdürlüğüne ve mazbut vakıflara ait taşınmazlardan; yapım, onarım veya restorasyon karşılığı uzun süreli kiralananlar dışında kalanların kira dönemi kısmen veya tamamen 2021 yılını kapsayan kira sözleşmelerinde, bu kira dönemi için kira artışı yapılmaz.”
-BEŞİNCİ BÖLÜM
-Geçici ve Son Hükümler Geçici görevlendirme
+**BEŞİNCİ BÖLÜM**
+**Geçici ve Son Hükümler** Geçici görevlendirme
 GEÇİCİ
 
 MADDE 1 – (1) Ajansın faaliyetlerine başladığı tarihten itibaren 5 yıl süreyle, 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 25 inci maddesi uyarınca kamu kurum ve kuruluşlarının personeli Ajansta görevlendirilebilir.

@@ -42,7 +42,7 @@ Ek-5:7 sayfa Müsteşar V.
 
 Mithat Paşa Caddesi, No: 3 06434 Sıhhiye – ANKARA Tel: (312) 585 13 62, 585 1322 Faks: (312) 434 44 49
 
-E-Posta: tsimyetki@saglik.gov.tr Elektronik Ağ: www.saglik.gov.tr
+E-Posta: tsimyetki@**saglik.gov.tr** Elektronik Ağ: www.saglik.gov.tr
 
 Ek:1
 

@@ -19,7 +19,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -53,7 +53,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Uzaktan Sağlık Bilgi Sistemi ve Uzaktan Sağlık Hizmeti Faaliyet İzni
+**Uzaktan Sağlık Bilgi Sistemi ve Uzaktan Sağlık Hizmeti Faaliyet İzni**
 
 #### Uzaktan sağlık bilgi sistemi
 
@@ -109,7 +109,7 @@ g) Hekim tarafından değerlendirilen kişiye, hekimince e-reçete ve e-rapor ta
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Uzaktan Sağlık Hizmeti Sunulması
+**Uzaktan Sağlık Hizmeti Sunulması**
 
 #### Hastanın bilgilendirilmesi
 
@@ -181,7 +181,7 @@ konularında bilgilendirilir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yasaklar ve sınırlamalar
 
@@ -229,7 +229,7 @@ h) Uzaktan sağlık hizmeti sunumu esnasında elde edilen kişisel veriler, ilgi
 
 #### Sağlık tesislerinin uyumu
 
-**GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yayımı tarihi itibarıyla uzaktan sağlık hizmeti sunmakta olan sağlık tesisleri, (Danıştay Onuncu Dairesinin 25/11/2025 tarihli ve E.:2022/5276; K.:2025/5535 sayılı kararı ile iptal ibare: en geç altı ay içerisinde ) uzaktan sağlık hizmeti faaliyet izin belgesi almak zorundadır.
+**GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yayımı tarihi itibarıyla uzaktan sağlık hizmeti sunmakta olan sağlık tesisleri, **(Danıştay Onuncu Dairesinin 25/11/2025 tarihli ve E.:2022/5276; K.:2025/5535 sayılı kararı ile iptal ibare:** <i>en geç altı ay içerisinde )</i> uzaktan sağlık hizmeti faaliyet izin belgesi almak zorundadır.
 
 #### Yürürlük
 
@@ -239,4 +239,4 @@ h) Uzaktan sağlık hizmeti sunumu esnasında elde edilen kişisel veriler, ilgi
 
 **MADDE 20 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

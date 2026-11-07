@@ -11,11 +11,11 @@ Tarihi:14.12.1983 Sayısı:18351
 
 ### AMAÇ
 
-Madde 1. -Bu Kanun Hükmünde Kararnamenin amacı, kamu hizmetlerinin düzenli, süratli, etkili, verimli ve ekonomik bir şekilde yürütülebilmesi için bakanlıkların kurulmasına, teşkilat, görev ve yetkilerine ilişkin esas ve usulleri düzenlemektir.
+**Madde 1.** -Bu Kanun Hükmünde Kararnamenin amacı, kamu hizmetlerinin düzenli, süratli, etkili, verimli ve ekonomik bir şekilde yürütülebilmesi için bakanlıkların kurulmasına, teşkilat, görev ve yetkilerine ilişkin esas ve usulleri düzenlemektir.
 
-Kanserle Savaş Daire Başkanlığı
+**Kanserle Savaş Daire Başkanlığı**
 
-Madde 16. -Kanserle Savaş Dairesi Başkanlığının görevleri şunlardır:
+**Madde 16.** -Kanserle Savaş Dairesi Başkanlığının görevleri şunlardır:
 
 a)Tespit edilen politika ve hedeflere uygun olarak kanserle savaş hizmetlerini planlamak, uygulamak ve bu hizmetlerin organizasyonunu sağlamak,
 

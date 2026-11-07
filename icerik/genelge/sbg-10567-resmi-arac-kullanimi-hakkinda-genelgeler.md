@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Tarih/Sayı:09.05.2001/2793-30.06.2000/5014-18.11.1996/6299
 
-T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Daire Başkanlığı
+**T.C. SAĞLIK BAKANLIĞI** İdari ve Mali İşler Daire Başkanlığı
 
 Sayı : B100İMİ0000013/2793
 
@@ -24,7 +24,7 @@ Gereğini bilgilerinize rica ederim.
 
 D a ğ ı t ı m : B Planı
 
-T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Daire Başkanlığı
+T.C. **SAĞLIK BAKANLIĞI İdari ve Mali İşler Daire Başkanlığı**
 
 Sayı : B100İMİ0000013/ 5014
 
@@ -54,7 +54,7 @@ Doç.Dr. Haluk TOKUÇOĞLU Müsteşar
 
 D a ğ ı t ı m : B Planı
 
-T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Daire Başkanlığı
+T.C. **SAĞLIK BAKANLIĞI İdari ve Mali İşler Daire Başkanlığı**
 
 Sayı : B100İMİ0000013/6299
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 İçişleri Bakanlığından:
-KARAYOLLARI TRAFİK YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**KARAYOLLARI TRAFİK YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 18/7/1997 tarihli ve 23053 sayılı mükerrer Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinin 46 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 46 – "A" Geçici Trafik Belgesi Düzenleme Yetki Belgesi (Ek:10-B); prototip veya yol testi yapılacak araçlar için imalatçı veya ithalatçı firmalar, otomotiv konusunda araştırma yapan araştırma kurum veya kuruluşları veya teknik hizmetler kuruluşlarına; fabrika, depo, gümrük satış yeri, teşhir yeri, bayi ve benzeri gibi yerler arasında sürülecek araçlar ile gösterisi yapılacak araçlar için imalatçı veya ithalatçı firmalar, bu firmaların yetki verdiği araç satıcılığı yapan bayiler ile taşıma işleri organizatörlüğü yapanlara; yurt dışından satın alınan veya yurt dışına satılan araçların karayollarında sürülerek götürülmesi veya getirilmesi için Ulaştırma, Denizcilik ve Haberleşme Bakanlığından uluslararası ve yurtiçi taşıma işleri organizatörlüğü yetki belgesi almış olan gerçek ve tüzel kişilere bir yıl süre ile verilen belgedir.

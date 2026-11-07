@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/04/20260417-21.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7577 Kabul Tarihi: 2/4/2026
 
 MADDE 1- 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 41 inci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.

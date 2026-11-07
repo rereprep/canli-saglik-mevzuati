@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/06/20210609-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN
-Kanun No. 7326 Kabul Tarihi: 3/6/2021 Kapsam ve tanımlar
+**KANUN BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN**
+**Kanun No. 7326 Kabul Tarihi: 3/6/2021** Kapsam ve tanımlar
 
 MADDE 1 – (1) Bu Kanun hükümleri;
 a) 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu kapsamına giren;

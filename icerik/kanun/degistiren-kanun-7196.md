@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE
-KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7196 Kabul Tarihi: 6/12/2019
+**KANUN**
+**BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE**
+**KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7196** Kabul Tarihi: 6/12/2019
 
 MADDE 1 – 4/6/1937 tarihli ve 3201 sayılı Emniyet Teşkilat Kanununun 13 üncü maddesinin birinci fıkrasında yer alan tabloda Birinci Sınıf Emniyet Müdürü rütbesi 1 inci Meslek Derecesi karşılığı görev unvanları arasında yer alan “Özel Güvenlik Denetleme Başkanı, Polis Akademisi Başkanı, Özel Harekat Başkanı,” ibaresi “Polis Akademisi Başkanı, Başkan,” şeklinde değiştirilmiş, Birinci Sınıf Emniyet Müdürü rütbesi 2 nci Meslek Derecesi karşılığı görev unvanları arasında yer alan “Özel Harekat Başkan Yardımcısı,” ibaresi “Başkan Yardımcısı,” şeklinde değiştirilmiş, İkinci Sınıf Emniyet Müdürü rütbesi karşılığı görev unvanlarına “Özel Harekat Müdürü,” ibaresinden sonra gelmek üzere “Başkanlıklarda Şube Müdürü,” ibaresi eklenmiş, Üçüncü Sınıf Emniyet Müdürü rütbesi karşılığı görev unvanlarına “İlçe Emniyet Müdürü,” ibaresinden sonra gelmek üzere “İlçe Emniyet Müdür Yardımcısı,” ibaresi eklenmiş ve ikinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Bu ilçelerde Üçüncü Sınıf Emniyet Müdürleri, ilçe emniyet müdür yardımcısı olarak görevlendirilebilirler.”
@@ -286,7 +286,7 @@ Jandarma teşkilatının motorlu araç sürücüsü ihtiyacını karşılamak ü
 
 MADDE 42 – 2918 sayılı Kanunun 71 inci maddesinin birinci fıkrasının (f) bendi aşağıdaki şekilde değiştirilmiş, fıkraya aşağıdaki bent, maddeye aşağıdaki fıkra ve Kanuna aşağıdaki (1) sayılı liste eklenmiştir.
 “f) Devletin yasama, yürütme ve yargı organlarının üst makamlarına ait ekli (1) sayılı listede gösterilen araçlar,” “g) Görev ve hizmet gerekleri veya güvenlik nedenleriyle geçiş üstünlüğüne sahip olduğu yönetmelikte belirlenen araçlar,” “Bu maddenin uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığınca çıkarılan yönetmelikte belirlenir.”
-“(1) Sayılı Liste • TBMM Başkanı • Cumhurbaşkanı yardımcıları • TBMM’de en çok üyeye sahip birinci siyasi parti grup başkanı • TBMM’de en çok üyeye sahip ikinci siyasi parti grup başkanı • Eski Cumhurbaşkanları • Anayasa Mahkemesi Başkanı • Yargıtay Birinci Başkanı • Danıştay Başkanı • Sayıştay Başkanı • Bakanlar • TBMM Başkanvekilleri • TBMM’de grubu bulunan siyasi partilerin genel başkanları • TBMM üyeleri (TBMM Kurumsal Protokol Listesi esas alınır.) • Yükseköğretim Kurulu Başkanı • Genelkurmay Başkanı • Diyanet İşleri Başkanı • Cumhurbaşkanlığı İdari İşler Başkanı • Uyuşmazlık Mahkemesi Başkanı • TBMM Genel Sekreteri • Cumhurbaşkanlığına bağlı kurum ve kuruluş yöneticileri (Milli İstihbarat Teşkilatı Başkanı, Savunma Sanayii Başkanı, Devlet Denetleme Kurulu Başkanı, Milli Güvenlik Kurulu Genel Sekreteri, Strateji ve Bütçe Başkanı, İletişim Başkanı, Cumhurbaşkanı Özel Kalem Müdürü, Devlet Arşivleri Başkanı, Milli Saraylar İdaresi Başkanı) • Yargıtay Cumhuriyet Başsavcısı • Danıştay Başsavcısı • Yüksek Seçim Kurulu Başkanı • Anayasa Mahkemesi üyeleri • Bakan yardımcıları • İl Valileri • Kuvvet Komutanları • Jandarma Genel Komutanı, Emniyet Genel Müdürü, Sahil Güvenlik Komutanı • Hâkimler ve Savcılar Kurulu Başkanvekili”
+**“(1) Sayılı Liste** • TBMM Başkanı • Cumhurbaşkanı yardımcıları • TBMM’de en çok üyeye sahip birinci siyasi parti grup başkanı • TBMM’de en çok üyeye sahip ikinci siyasi parti grup başkanı • Eski Cumhurbaşkanları • Anayasa Mahkemesi Başkanı • Yargıtay Birinci Başkanı • Danıştay Başkanı • Sayıştay Başkanı • Bakanlar • TBMM Başkanvekilleri • TBMM’de grubu bulunan siyasi partilerin genel başkanları • TBMM üyeleri (TBMM Kurumsal Protokol Listesi esas alınır.) • Yükseköğretim Kurulu Başkanı • Genelkurmay Başkanı • Diyanet İşleri Başkanı • Cumhurbaşkanlığı İdari İşler Başkanı • Uyuşmazlık Mahkemesi Başkanı • TBMM Genel Sekreteri • Cumhurbaşkanlığına bağlı kurum ve kuruluş yöneticileri (Milli İstihbarat Teşkilatı Başkanı, Savunma Sanayii Başkanı, Devlet Denetleme Kurulu Başkanı, Milli Güvenlik Kurulu Genel Sekreteri, Strateji ve Bütçe Başkanı, İletişim Başkanı, Cumhurbaşkanı Özel Kalem Müdürü, Devlet Arşivleri Başkanı, Milli Saraylar İdaresi Başkanı) • Yargıtay Cumhuriyet Başsavcısı • Danıştay Başsavcısı • Yüksek Seçim Kurulu Başkanı • Anayasa Mahkemesi üyeleri • Bakan yardımcıları • İl Valileri • Kuvvet Komutanları • Jandarma Genel Komutanı, Emniyet Genel Müdürü, Sahil Güvenlik Komutanı • Hâkimler ve Savcılar Kurulu Başkanvekili”
 
 MADDE 43 – 2918 sayılı Kanunun 5/A maddesi yürürlükten kaldırılmıştır.
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-OPTİSYENLİK MÜESSESELERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**OPTİSYENLİK MÜESSESELERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 18/1/2014 tarihli ve 28886 sayılı Resmî Gazete’de yayımlanan Optisyenlik Müesseseleri Hakkında Yönetmeliğin 25 inci maddesinin başlığı aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
 “Yasaklar ve istisnai hükümler” “(2) Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Bakanlıkça kabul edilen pandemi, biyolojik tehdit ile deprem, sel, yangın gibi doğal afet durumlarında veya toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ciddi halk sağlığı sorunlarında optisyenlik müesseselerine ve bu müesseselerin reklam veya tanıtım faaliyetlerine ilişkin olarak Kurum tarafından geçici olarak istisnalar getirilebilir.”

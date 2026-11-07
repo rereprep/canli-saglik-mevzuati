@@ -117,11 +117,11 @@ Görevlendirmede öncelik sırasına göre yukarıdaki sıralamaya uyulur. Göre
 
 **Madde 8 –** (1) Bölgesinde sağlık hizmetlerini yürütür. Sağlık hizmetini bir bütün olarak değerlendirir. Sağlık kuruluşları ile koordinasyonu sağlamak, gerektiğinde diğer kuruluşlarla işbirliği yapmak suretiyle toplumun ve bireylerin sağlığını korumak ve sağlık düzeylerini yükseltmekten sorumludur. Bunun için aşağıda sayılan hizmetleri sunar veya sunulmasını sağlar.
 
-a) İdari ve mali işler
+a) **İdari ve mali işler**
 
-b) Kayıt ve istatistik
+b) **Kayıt ve istatistik**
 
-c) Plan ve program yapma
+c) **Plan ve program yapma**
 
 ç) Üniversitelerle işbirliği
 
@@ -333,7 +333,7 @@ b) Halk sağlığı ve epidemiyoloji araştırma görevlileri başta olmak üzer
 
 ## DÖRDÜNCÜ BÖLÜM
 
-Toplum Sağlığı Merkezinde Çalışanların Görev Tanımları ve Sorumlulukları
+**Toplum Sağlığı Merkezinde Çalışanların Görev Tanımları ve Sorumlulukları**
 
 #### Sağlık grup başkanlığı ve sağlık grup başkanının görevleri
 

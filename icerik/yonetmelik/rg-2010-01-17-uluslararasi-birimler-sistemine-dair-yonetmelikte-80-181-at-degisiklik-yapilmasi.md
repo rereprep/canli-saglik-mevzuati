@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-ULUSLARARASI BİRİMLER SİSTEMİNE DAİR YÖNETMELİKTE
-(80/181/AT)
-DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ULUSLARARASI BİRİMLER SİSTEMİNE DAİR YÖNETMELİKTE**
+**(80/181/AT)**
+**DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 21/6/2002 tarihli ve 24792 sayılı Resmî Gazete’de yayımlanan Uluslararası Birimler Sistemine Dair Yönetmeliğin 5 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Bu Yönetmelik kapsamında yer alan yükümlülükler, kullanılan ölçü aletleri, yapılan ölçümler ve ölçüm birimleri ile ifade edilen miktar göstergeleri ile ilgilidir.”

@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Güvenlik Kurumundan:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
-MADDE 1 – 24/03/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.7.1 numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 24/03/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.7.1 numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(1) Kurum bilgi işlem sisteminde müstahaklık sorgulamasının yapılması sağlanıncaya kadar; yabancı ülkelerle yapılan sosyal güvenlik sözleşmeleri kapsamında Kurum sağlık yardımlarından yararlandırılan kişilerin sağlık hizmetleri, Kurumca düzenlenmiş ve onaylanmış “Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesi”ne istinaden sağlanacaktır.”
 
 MADDE 2 – Aynı Tebliğin 1.9.1 numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.

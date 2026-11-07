@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/04/20210422-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7316 Kabul Tarihi: 15/4/2021
+**KANUN AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7316 Kabul Tarihi: 15/4/2021**
 
 MADDE 1 – 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 85 inci maddesinin birinci fıkrasının birinci cümlesinde yer alan “Menkul mallar,” ibaresinden sonra gelmek üzere “elektronik ortamda veya” ibaresi, dördüncü cümlesinde yer alan “değer düşüklüğüne uğrayacağı anlaşılan mallar” ibaresinden sonra gelmek üzere “ile muhafazası tehlikeli veya masraflı olan mallar” ibaresi ve maddeye birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Artırmaya iştirak edeceklerden menkul mala biçilen değerin %5’i nispetinde para teminat olarak alınır. Alacaklı amme idareleri, menkul malın türü veya değeri ile satış şeklini esas alarak teminat alınmayacak halleri belirlemeye, para yerine teminat mektubu alınmasına karar vermeye yetkilidir.”

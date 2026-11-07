@@ -24,11 +24,11 @@ Konu : İş Sağlığı ve Güvenliği Birimlerinde Aşılama Hizmetleri
 
 DAĞITIM YERLERİNE
 
-Ülkemizde iş sağlığı ve güvenliği hizmetleri 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında sunulmaktadır.
+Ülkemizde iş sağlığı ve güvenliği hizmetleri 6331 sayılı <i>İş Sağlığı ve Güvenliği Kanunu</i> kapsamında sunulmaktadır.
 
-20.07.2013 tarihli ve 28713 sayılı Resmî Gazete’de yayımlanan İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik’in “İşyeri hekimlerinin görevleri” başlıklı 9’uncu maddesinin ikinci fıkrasının (c) bendinin (8)’inci alt bendinde “Bulaşıcı hastalıkların kontrolü için yayılmayı önleme ve bağışıklama çalışmalarının yanı sıra gerekli hijyen eğitimlerini vermek, gerekli muayene ve tetkiklerinin yapılmasını sağlamak.” ifadesi ile çalışanlara yönelik yapılması gereken aşılara ilişkin hizmetlerin iş yeri hekimlerince verilmesinin amir hükme bağlandığı görülmektedir.
+20.07.2013 tarihli ve 28713 sayılı Resmî Gazete’de yayımlanan <i>İşyeri Hekimi ve Diğer Sağlık</i> <i>Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik’</i>in “İşyeri hekimlerinin görevleri” başlıklı 9’uncu maddesinin ikinci fıkrasının (c) bendinin (8)’inci alt bendinde “Bulaşıcı hastalıkların kontrolü için yayılmayı önleme ve bağışıklama çalışmalarının yanı sıra gerekli hijyen eğitimlerini vermek, gerekli muayene ve tetkiklerinin yapılmasını sağlamak.” ifadesi ile çalışanlara yönelik yapılması gereken aşılara ilişkin hizmetlerin iş yeri hekimlerince verilmesinin amir hükme bağlandığı görülmektedir.
 
-Bu sebeple, çalışanların sağlık gözetimleri kapsamında işin niteliğine uygun olarak belirlenen aşılar, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu’nun “Sağlık gözetimi” başlıklı 15’inci maddesinin dördüncü fıkrasındaki “Sağlık gözetiminden doğan maliyet ve bu gözetimden kaynaklı her türlü ek maliyet işverence karşılanır, çalışana yansıtılamaz.” amir hükmüne uygun biçimde iş yeri hekimlerince yapılan bu aşılara ilişkin bilgiler aylık olarak Ek’te yer alan çizelgeye işlendikten sonra takip eden ayın ilk haftasının son iş gününde aşının yapıldığı vilayetin il sağlık müdürlüğüne gönderilmelidir.
+Bu sebeple, çalışanların sağlık gözetimleri kapsamında işin niteliğine uygun olarak belirlenen aşılar, 6331 sayılı <i>İş Sağlığı ve Güvenliği Kanunu’</i>nun “Sağlık gözetimi” başlıklı 15’inci maddesinin dördüncü fıkrasındaki “Sağlık gözetiminden doğan maliyet ve bu gözetimden kaynaklı her türlü ek maliyet işverence karşılanır, çalışana yansıtılamaz.” amir hükmüne uygun biçimde iş yeri hekimlerince yapılan bu aşılara ilişkin bilgiler aylık olarak Ek’te yer alan çizelgeye işlendikten sonra takip eden ayın ilk haftasının son iş gününde aşının yapıldığı vilayetin il sağlık müdürlüğüne gönderilmelidir.
 
 Bilgilerinizi ve gereğini rica ederim.
 

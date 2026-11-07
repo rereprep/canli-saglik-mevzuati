@@ -31,11 +31,11 @@ Bakanlığı İhtiyaç Tespit, Planlama ve Stok Yönetimi Yönergesi'nin yayıml
 
 Tüberküloz hasta ve temaslılarının tedavilerinde kullanılmak üzere ücretsiz gönderilen anti-tüberküloz ilaçların talep, stok yönetimi ve lojistiğine ilişkin usul ve esaslar mezkûr yönerge dikkate alınarak güncellenmiştir.
 
-Bu kapsamda Daire Başkanlığımızca incelenmek üzere; ilgi tarih ve sayılı yazımız Ek' inde gönderilen 2024 ve 2025 yıllarında müdürlüğünüzce düzenlenmiş; VSD- Hastanelere Gönderilen Birinci Seçenek Anti-
+Bu kapsamda Daire Başkanlığımızca incelenmek üzere; ilgi tarih ve sayılı yazımız Ek' inde gönderilen 2024 ve 2025 yıllarında müdürlüğünüzce düzenlenmiş; <i>VSD- Hastanelere Gönderilen Birinci Seçenek Anti-</i>
 
-Tüberküloz İlaçların Listesi, İkinci Seçenek Anti-Tüberküloz İlaç Verilen Hastaların Listesi, Referans
+<i>Tüberküloz İlaçların Listesi, İkinci Seçenek Anti-Tüberküloz İlaç Verilen Hastaların Listesi, Referans</i>
 
-Hastanelere Gönderilen İkinci Seçenek Anti-Tüberküloz İlaçların Listesi eklerini incelenmesi amacıyla dijital (Excel/ Word) olarak Doküman Yönetim Sistemi ile Bakanlığımıza 20.01.2026 tarihi mesai bitimine kadar gönderilmesi sağlanmalıdır.
+<i>Hastanelere Gönderilen İkinci Seçenek Anti-Tüberküloz İlaçların Listesi</i> eklerini incelenmesi amacıyla dijital (Excel/ Word) olarak Doküman Yönetim Sistemi ile Bakanlığımıza 20.01.2026 tarihi mesai bitimine kadar gönderilmesi sağlanmalıdır.
 
 Müdürlüğünüzce anti-tüberküloz ilaçlarla ilgili yapılan yeni düzenlemelerin kesintisiz yürütülmesi amacıyla gerekli tedbirlerin alınması ve 2026 yılı itibari ile Ek'te gönderilen güncel formların kullanılması hususunda;
 

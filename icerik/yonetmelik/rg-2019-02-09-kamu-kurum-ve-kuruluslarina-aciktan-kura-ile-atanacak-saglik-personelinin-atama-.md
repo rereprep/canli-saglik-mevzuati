@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-KAMU KURUM VE KURULUŞLARINA AÇIKTAN KURA İLE ATANACAK
-SAĞLIK PERSONELİNİN ATAMA USÛL VE ESASLARINA
-İLİŞKİN YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**KAMU KURUM VE KURULUŞLARINA AÇIKTAN KURA İLE ATANACAK**
+**SAĞLIK PERSONELİNİN ATAMA USÛL VE ESASLARINA**
+**İLİŞKİN YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 10/7/2015 tarihli ve 29412 sayılı Resmî Gazete’de yayımlanan Kamu Kurum ve Kuruluşlarına Açıktan Kura ile Atanacak Sağlık Personelinin Atama Usûl ve Esaslarına İlişkin Yönetmeliğin 5 inci maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde; ikinci fıkrasında yer alan “Çalışma ve Sosyal Güvenlik Bakanlığı” ibaresi “Aile, Çalışma ve Sosyal Hizmetler Bakanlığı” şeklinde değiştirilmiştir.
 “Bakanlıkta kura işlemlerini yürütmek üzere, Yönetim Hizmetleri Genel Müdürlüğünün bağlı bulunduğu Bakan Yardımcısının veya görevlendireceği kişinin başkanlığında, Yönetim Hizmetleri Genel Müdürlüğü, Kamu Hastaneleri Genel Müdürlüğü, Sağlık Hizmetleri Genel Müdürlüğü ve Hukuk Hizmetleri Genel Müdürlüğünden birer kişi olmak üzere toplam beş kişiden oluşan Kura Komisyonu oluşturulur.”

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2017/12/20171220-15.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN BAZI
-KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7063 Kabul Tarihi: 6/12/2017
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN BAZI**
+**KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7063 Kabul Tarihi: 6/12/2017**
 
 
 MADDE 1 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun geçici 72 nci maddesinin birinci fıkrasında yer alan “31/12/2017” ibaresi “31/12/2019” şeklinde değiştirilmiştir.
@@ -57,7 +57,7 @@ MADDE 6 – 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol 
 MADDE 7 – 22/6/2004 tarihli ve 5193 sayılı Optisyenlik Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 4- Bu maddenin yürürlüğe girdiği tarihten önce optisyenlik mesleği ile ilgili olarak faaliyette bulunan dernekler, bu maddenin yürürlüğe girdiği tarihten itibaren iki ay içinde genel kurullarını toplayarak Türk Optisyen-Gözlükçüler Birliğinin ilk genel kurulu için meslek mensubu beşer mümessil seçerler.
+**MADDE 4-** Bu maddenin yürürlüğe girdiği tarihten önce optisyenlik mesleği ile ilgili olarak faaliyette bulunan dernekler, bu maddenin yürürlüğe girdiği tarihten itibaren iki ay içinde genel kurullarını toplayarak Türk Optisyen-Gözlükçüler Birliğinin ilk genel kurulu için meslek mensubu beşer mümessil seçerler.
 Birliğin ilk genel kurulu, bu maddenin yürürlüğe girdiği tarihten itibaren dört ay içinde Sağlık Bakanlığının daveti üzerine Ankara’da toplanır ve dokuz üyeli Birlik Merkez Yönetim Kurulunun, beş üyeli Yüksek Disiplin Kurulunun ve üç üyeli Denetleme Kurulunun asıl ve yedek üyelerini seçer.
 Birlik Merkez Yönetim Kurulu, seçimden itibaren bir ay içinde toplanarak odalar ile Birliğin yurt içindeki ve yurt dışındaki faaliyetleri, organları, görevleri, toplantıları, karar alış usulleri, gelirleri, giderleri, organlar için seçim, seçilme yeterliliği, seçimlerin yapılış usulü, mesleki sicil, hizmet bedellerinin ve aidatın tespiti, disiplin cezaları ile infaz ediliş usulü, odalar ve Birlik ile ilgili diğer iş ve işlemlerle ilgili yönetmelikleri hazırlar. Bu yönetmelikler Sağlık Bakanlığının uygun görüşüyle seçimden itibaren iki ay içinde Resmî Gazete’de yayımlanarak yürürlüğe konulur. 25/1/1956 tarihli ve 6643 sayılı Türk Eczacıları Birliği Kanununun mali ve idari hükümleri ile disipline ilişkin hükümleri kıyasen uygulanır. Ancak, 6643 sayılı Kanunun 5 inci maddesindeki “yüz elli” sayısı “yüz”, 14 üncü maddesindeki “iki yüz elli” sayıları “yüz”, 51 inci maddesinin ikinci fıkrasının (a) bendindeki “iki yüz” sayısı “yüz”, (b) bendindeki “beşyüz” sayısı “iki yüz elli”, “ikiyüz” sayısı “yüz”, “yüzelli” sayısı “yetmiş beş” ve (c) bendindeki “beşyüz” sayıları “iki yüz elli” olarak uygulanır. 4 üncü maddesinin birinci fıkrasının (e), (h) ve (i) bentleri, 20 nci maddesinin birinci fıkrasının (b), (d), (n) ve (o) bentleri ile 47 nci maddesi uygulanmaz. 20 nci maddesinin birinci fıkrasının (m) bendi “Deontoloji Tüzüğü hükümlerinin ve oda ve Birlik tarafından alınmış mesleki kararların gerektiği şekilde uygulanıp uygulanmadığını belirlemek için, optisyenlerin çalışmalarını denetlemek.” şeklinde uygulanır. 40 ıncı maddedeki meslekten men kararları uygulanmak üzere Sağlık Bakanlığına gönderilir.
 Birlik Merkez Yönetim Kurulu en az yüz meslek mensubunun faaliyette bulunduğu yerlerde kurulacak olan optisyen-gözlükçüler odalarının faaliyette bulunacağı iller ile yüzden az meslek mensubunun faaliyette bulunduğu illerin oda bölgelerini tespit ederek odaların kuruluşunu karara bağlar.
@@ -75,15 +75,15 @@ b) Yönetim Kurulu: Yönetim Kurulu, Vakfın icra organıdır. Yunus Emre Enstit
 MADDE 9 – 5653 sayılı Kanuna Dördüncü Bölüm başlığı altında aşağıdaki ek madde eklenmiştir.
 “Yurt dışında görevlendirilen Vakıf personeli
 
-EK MADDE
-1- (1) Vakıf tarafından yurt dışında görevlendirilen Vakıf personeli, Yunus Emre Enstitüsü Başkanlığının görevlendirme yazısını pasaport vermeye yetkili idareye ibraz etmek suretiyle 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 14 üncü maddesi kapsamındaki Hükümetçe, hususi idarelerce veya belediyelerce resmî vazife ile dış memleketlere gönderilenlere ya da dış memleketlerde vazifeye alınanlara tanınan haklardan faydalanır.”
+EK **MADDE**
+**1-** (1) Vakıf tarafından yurt dışında görevlendirilen Vakıf personeli, Yunus Emre Enstitüsü Başkanlığının görevlendirme yazısını pasaport vermeye yetkili idareye ibraz etmek suretiyle 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 14 üncü maddesi kapsamındaki Hükümetçe, hususi idarelerce veya belediyelerce resmî vazife ile dış memleketlere gönderilenlere ya da dış memleketlerde vazifeye alınanlara tanınan haklardan faydalanır.”
 
 
 MADDE 10 – 5653 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “Görevi sona eren üyeler
 GEÇİCİ
 
-MADDE 3- (1) Bu maddenin yürürlüğe girdiği tarihte görev yapmakta olan Mütevelli Heyetin ve Yönetim Kurulunun seçimle görevlendirilen üyelerinin görevleri başka bir işleme gerek kalmaksızın sona erer.”
+**MADDE 3-** (1) Bu maddenin yürürlüğe girdiği tarihte görev yapmakta olan Mütevelli Heyetin ve Yönetim Kurulunun seçimle görevlendirilen üyelerinin görevleri başka bir işleme gerek kalmaksızın sona erer.”
 
 
 MADDE 11 – 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 68 inci maddesinin birinci fıkrasında yer alan “Değeri” ibaresi “Tarafların İcra ve İflas Kanunundaki hakları saklı olmak kaydıyla; değeri” şeklinde, “iki bin” ibareleri “dört bin” ve “üç bin” ibareleri “altı bin” şeklinde değiştirilmiştir.

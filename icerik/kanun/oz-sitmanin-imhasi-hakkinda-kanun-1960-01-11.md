@@ -13,11 +13,11 @@ durum: "yürürlükte"
 
 ### SITMANIN İMHASI HAKKINDA KANUN
 
-Kanun Numarası : 7402
+**Kanun Numarası : 7402**
 
-Kabul Tarihi : 4/1/1960
+**Kabul Tarihi : 4/1/1960**
 
-Yayımlandığı Resmî Gazete: Tarih: 11/1/1960 Sayı: 10402
+**Yayımlandığı Resmî Gazete: Tarih: 11/1/1960 Sayı: 10402**
 
 #### Yayımlandığı Düstur : Tertip: 3 Cilt: 41 Sayfa: 104
 
@@ -145,8 +145,8 @@ Ancak, mahallen teşkil olunacak satınalma komisyonlarında maliye teşkilatın
 | 5728 | 14, 15, 16, 17, 18, 19, 20, 21 | 8/2/2008 |
 | KHK/698 | 1 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte |
 
-<small>[1] 2/7/2018 tarihli ve 698 sayılı KHK’nin 25 inci maddesi ile bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 25 inci maddesi ile bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[2] 23/1/2008 tarihli ve 5728 sayılı Kanunun 259 uncu maddesiyle; bu maddede yer alan “şahıslar üçyüzkırkyedimilyon lira idarî para cezasıyla cezalandırılırlar.” ibaresi “şahıslara dörtyüz Türk Lirası idarî para cezası verilir.” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>23/1/2008 tarihli ve 5728 sayılı Kanunun 259 uncu maddesiyle; bu maddede yer alan “şahıslar üçyüzkırkyedimilyon lira idarî para cezasıyla cezalandırılırlar.” ibaresi “şahıslara dörtyüz Türk Lirası idarî para cezası verilir.” şeklinde değiştirilmiştir.</i></small>
 
 <small>[3] Bu madde ile yeniden ihdas edilen kadrolar 1322 sayılı Genel Kadro Kanunun 9 uncu maddesi ile kaldırılmış olduğundan, kanuna ekli kadro cetvelleri alınmamıştır.</small>

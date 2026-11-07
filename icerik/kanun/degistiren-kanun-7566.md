@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/12/20251219-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN VERGİ KANUNLARI İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7566 Kabul Tarihi: 4/12/2025
+**KANUN VERGİ KANUNLARI İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7566 Kabul Tarihi: 4/12/2025**
 
 MADDE 1- 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 74 üncü maddesinin birinci fıkrasının (4) numaralı bendinde yer alan “Kiraya verilen mal ve haklar” ibaresi “Konutlar hariç olmak üzere kiraya verilen mal ve haklar” şeklinde değiştirilmiştir.
 

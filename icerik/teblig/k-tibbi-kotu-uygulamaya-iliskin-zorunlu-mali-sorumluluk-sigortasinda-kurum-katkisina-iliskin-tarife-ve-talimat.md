@@ -212,7 +212,7 @@ Prim Ödeme Yeri ve Zamanı:
 
 ### A. SİGORTANIN KAPSAMI
 
-A.1. Sigortanın Konusu
+**A.1. Sigortanın Konusu**
 
 Bu sigorta sözleşmesi ile 1219 sayılı Kanunun Ek 12 nci maddesi çerçevesinde, serbest ya da kamu veya özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların; poliçede belirtilen mesleki faaliyeti ifa ederken;
 
@@ -224,11 +224,11 @@ c) Bu zarar veya taleple bağlantılı yargılama giderlerine
 
 karşı belirlenen sigorta limitlerine kadar teminat verilir.
 
-A.2. Sigortanın Coğrafi Sınırı
+**A.2. Sigortanın Coğrafi Sınırı**
 
 Bu sigorta, sigortalının Türkiye Cumhuriyeti sınırları içinde ifa ettiği mesleki faaliyetler için geçerlidir.
 
-A.3. Teminat Dışında Kalan Haller
+**A.3. Teminat Dışında Kalan Haller**
 
 Aşağıdaki hâller teminat kapsamı dışındadır:
 
@@ -240,13 +240,13 @@ c) Sigortalı veya çalıştırdığı kişilerin, poliçede belirtilen mesleki 
 
 ç) İdarî ve adlî para cezaları dahil her tür ceza ve cezai şartlar;
 
-A.4. Sigortanın Başlangıcı ve Sonu
+**A.4. Sigortanın Başlangıcı ve Sonu**
 
 Sigorta, poliçede başlama ve sona erme tarihleri olarak yazılan günlerde, aksi kararlaştırılmadıkça, Türkiye saati ile öğlen saat 12.00’de başlar ve öğlen saat 12.00’de sona erer.
 
 ### B. ZARAR VE TAZMİNAT
 
-B.1. Rizikonun Gerçekleşmesi
+**B.1. Rizikonun Gerçekleşmesi**
 
 Sözleşmenin;
 
@@ -262,7 +262,7 @@ c) Zararın gerçekleştiğinin ve bu zararın sigortalının sorumluluğundan k
 
 riziko gerçekleşmiş olur.
 
-B.2. Rizikoya İlişkin Olarak Sigorta Ettirenin ve Sigortalının Yükümlülükleri
+**B.2. Rizikoya İlişkin Olarak Sigorta Ettirenin ve Sigortalının Yükümlülükleri**
 
 Sigortalı ve sigorta ettiren, aşağıdaki hususları yerine getirmekle yükümlüdür:
 
@@ -278,23 +278,23 @@ d) Zarardan dolayı, dava yolu ile veya başka yollarla bir tazminat talebi kar�
 
 e) Sigorta konusu ile ilgili başka sigorta sözleşmesi varsa bunları sigortacıya bildirmek.
 
-B.3. Tazminat ve Ödenmesi
+**B.3. Tazminat ve Ödenmesi**
 
 Rizikonun gerçekleşmesi hâlinde, özel durumlar hariç olmak üzere, hangi belgelerin istenileceği poliçe ekinde açık ve anlaşılır şekilde yer almak zorundadır. Sigortacı, talep edilen tazminat ve giderleri, hak sahibinin tazminata konu olay ve zarara ilişkin tespit tutanağını veya bilirkişi raporunu ve poliçe ekinde de yer alan diğer gerekli belgeleri eksiksiz olarak şirketin merkez veya kuruluşlarına ilettiği tarihten itibaren on beş iş günü içinde gerekli incelemeleri tamamlayıp sözleşmeye aykırı olmayan zararlara ilişkin tazminatı öder.
 
-B.4. Halefiyet
+**B.4. Halefiyet**
 
 Sigortacı, ödediği tazminat tutarınca, hukuken sigortalının yerine geçer.
 
 ### C. ÇEŞİTLİ HÜKÜMLER
 
-C.1. Sigorta Priminin Ödenmesi ve Sigortacının Sorumluluğunun Başlaması
+**C.1. Sigorta Priminin Ödenmesi ve Sigortacının Sorumluluğunun Başlaması**
 
 Sigortacının sorumluluğu, primin ödenmesi ile başlar. Aksi kararlaştırılmadıkça, primin ödenmemesi hâlinde, poliçe teslim edilmiş olsa dahi sigortacının sorumluluğu başlamaz ve bu şart poliçeye yazılır.
 
 Prim ödemede temerrüde düşülmesi hâlinde Borçlar Kanunu hükümleri uygulanır.
 
-C.2. Sigortalı ve Sigorta Ettirenin Sözleşme Yapıldığı Sırada Beyan Yükümlülüğü
+**C.2. Sigortalı ve Sigorta Ettirenin Sözleşme Yapıldığı Sırada Beyan Yükümlülüğü**
 
 Sigortacı sigorta sözleşmesini, sigorta ettirenin veya bilgisinin olması durumunda sigortalının beyanı ve varsa teklifname ve eklerinde yazılı sorulara verdiği cevaplara dayanarak yapar.
 
@@ -304,7 +304,7 @@ Sigorta ettiren, talep edilen prim farkını kabul ettiğini sekiz gün içinde 
 
 Sigortalı ve sigorta ettirenin kasıtlı davrandığının anlaşılması hâlinde sigortacı, sözleşmeden cayabilir ve gün esasına dayanarak hesap edilen prime hak kazanır.
 
-C.3. Sözleşmenin Devamı Sırasındaki Beyan Yükümlülüğü
+**C.3. Sözleşmenin Devamı Sırasındaki Beyan Yükümlülüğü**
 
 Sözleşmenin devamı sırasında sigortacının izni olmadan rizikoya etki edici nitelikte değişiklik yapılması hâlinde sigorta ettiren veya sigortalı durumu sekiz gün içinde sigortacıya bildirmekle yükümlüdür.
 
@@ -326,7 +326,7 @@ b) Sigortacının fesih ihbarında bulunabileceği süre içinde,
 
 c) Fesih ihbarının hüküm ifade etmesi için geçecek süre içinde, riziko gerçekleşirse, sigortacı, tazminatı tahakkuk ettirilen prim ile tahakkuk ettirilmesi gereken prim arasındaki orana göre öder.
 
-C.4. Sigorta Ettirenin ve Sigortalının Durumu
+**C.4. Sigorta Ettirenin ve Sigortalının Durumu**
 
 Bu genel şartlarda düzenlenen sigorta ettirenin borç ve yükümlülüklerinin sigortalı tarafından veya sigortalıya yüklenen yükümlülüklerin sigorta ettiren tarafından yerine getirilmesi hâllerinde, borç ve yükümlülükler, ifa edilmiş sayılır. Ancak sigortacının sırf bu nedenle durumunun ağırlaştığını ileri sürerek itiraz etme hakkı saklıdır.
 
@@ -340,22 +340,22 @@ Taraflara imza karşılığı elden verilen mektup veya telgrafla yapılan bildi
 
 Güvenli elektronik imza kullanılarak elektronik ortamda yapılan ve sigortacıya, sigortalıya ve sigorta ettirene ulaştığı kanıtlanabilen bildirimler de geçerli sayılır.
 
-C.6. Mesleki Faaliyete Son Verilmesi
+**C.6. Mesleki Faaliyete Son Verilmesi**
 
 Poliçede tanımlanan mesleki faaliyete son verilmesi hâlinde sigorta sözleşmesi sona erer ve işlemeyen günlere ait prim sigorta ettirene iade edilir.
 
-C.7. Ticari ve Mesleki Sırların Saklı Tutulması
+**C.7. Ticari ve Mesleki Sırların Saklı Tutulması**
 
 Sigortacı ve sigortacı adına hareket edenler bu sözleşmenin yapılması dolayısıyla sigortalıya ve sigorta ettirene ilişkin öğreneceği sırların saklı tutulmamasından doğacak zararlardan sorumludur.
 
-C.8. Yetkili Mahkeme
+**C.8. Yetkili Mahkeme**
 
 Sigorta sözleşmesinden doğan anlaşmazlıklar nedeniyle sigortacı aleyhine açılacak davalarda yetkili mahkeme, sigorta şirketinin merkezinin veya sigorta sözleşmesine aracılık yapan acentenin ikametgahının bulunduğu yerdeki, sigortalı veya sigorta ettiren aleyhine açılacak davalarda ise davalının ikametgahının bulunduğu yerdeki mahkemedir.
 
-C.9. Zaman aşımı
+**C.9. Zaman aşımı**
 
 Sigorta sözleşmesinden doğan bütün talepler iki yılda zaman aşımına uğrar.
 
-C.10. Özel Şartlar
+**C.10. Özel Şartlar**
 
 Taraflar, sigorta ettiren ve sigortalının aleyhine olmamak üzere özel şartlar kararlaştırabilir.

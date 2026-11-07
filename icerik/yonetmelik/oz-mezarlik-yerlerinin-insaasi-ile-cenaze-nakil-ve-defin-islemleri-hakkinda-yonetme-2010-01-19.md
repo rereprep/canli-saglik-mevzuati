@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -22,11 +22,11 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönetmelik sıhhi açıdan mezarlık yer seçimi kriterlerinin tespiti, mezarlık ile mezarların tesis ve inşası, (Değişik ibare:RG-19/1/2013-28533) ölüm belgesi verilmesi, cenazelerin yıkattırılması, kefenlenmesi, tabutlanması, nakli, defni ve icabı halinde mezarlıktan tekrar çıkartılması ile sağlık açısından mahsuru bulunan cenazelerin ne suretle defnolunacağı, ölü küllerinin nakli ve muhafazası ile ilgili usul ve esasları kapsar.
+**MADDE 2 –** (1) Bu Yönetmelik sıhhi açıdan mezarlık yer seçimi kriterlerinin tespiti, mezarlık ile mezarların tesis ve inşası, **(Değişik ibare:RG-19/1/2013-28533)** ölüm belgesi verilmesi, cenazelerin yıkattırılması, kefenlenmesi, tabutlanması, nakli, defni ve icabı halinde mezarlıktan tekrar çıkartılması ile sağlık açısından mahsuru bulunan cenazelerin ne suretle defnolunacağı, ölü küllerinin nakli ve muhafazası ile ilgili usul ve esasları kapsar.
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 211 ilâ 234 üncü maddeleri, (Değişik ibare:RG-19/1/2013-28533) 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 ıncı maddesi, 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununun 31 inci maddesi, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu, 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunu, 9/6/1994 tarihli ve 3998 sayılı Mezarlıkların Korunması Hakkında Kanun, 26/1/1939 tarihli ve 3584 sayılı Cenaze Nakline Mahsus Beynelmilel İtilafnameye İltihakımız Hakkında Kanun, 17/4/1975 tarihli ve 1887 sayılı Cenazelerin Nakli Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun ve 4/7/1931 tarihli ve 11410 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Mezarlıklar Hakkındaki Nizamnameye dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 211 ilâ 234 üncü maddeleri, **(Değişik ibare:RG-19/1/2013-28533)** 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 ıncı maddesi, 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununun 31 inci maddesi, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu, 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunu, 9/6/1994 tarihli ve 3998 sayılı Mezarlıkların Korunması Hakkında Kanun, 26/1/1939 tarihli ve 3584 sayılı Cenaze Nakline Mahsus Beynelmilel İtilafnameye İltihakımız Hakkında Kanun, 17/4/1975 tarihli ve 1887 sayılı Cenazelerin Nakli Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun ve 4/7/1931 tarihli ve 11410 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Mezarlıklar Hakkındaki Nizamnameye dayanılarak hazırlanmıştır.
 
 #### Tanımlar
 
@@ -40,29 +40,29 @@ c) Bulaşıcı hastalık: Etkenin bulaşma yoluna göre gerekli koruyucu önleml
 
 ç) Cenaze (Ölü): Tıbben beyin ve kalp ölümü gerçekleşen kişiyi,
 
-d) Cenazeler için geçiş izin belgesi: Cenazelerin yurt dışı nakillerinde hareket edilen ülke yetkili makamları tarafından düzenlenmiş, ölünün kimlik bilgileri, ölüm tarihi ve yeri, (Değişik ibare:RG-19/1/2013-28533) ölüm şekli , nakil aracı, hareket ülkesi, yol güzergahı ve gidilecek ülke bilgilerinin yer aldığı, çok kullanılan bir yabancı dilde de yazılmış, (Değişik ibare:RG-19/1/2013-28533) Sağlık Bakanlığı Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü teşkilatı, halk sağlığı müdürlüğü veya toplum sağlığı merkezlerince doldurulan, bu Yönetmeliğin ekinde yer alan Ek-1’deki belgeyi,
+d) Cenazeler için geçiş izin belgesi: Cenazelerin yurt dışı nakillerinde hareket edilen ülke yetkili makamları tarafından düzenlenmiş, ölünün kimlik bilgileri, ölüm tarihi ve yeri, **(Değişik ibare:RG-19/1/2013-28533)** ölüm şekli , nakil aracı, hareket ülkesi, yol güzergahı ve gidilecek ülke bilgilerinin yer aldığı, çok kullanılan bir yabancı dilde de yazılmış, **(Değişik ibare:RG-19/1/2013-28533)** Sağlık Bakanlığı Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü teşkilatı, halk sağlığı müdürlüğü veya toplum sağlığı merkezlerince doldurulan, bu Yönetmeliğin ekinde yer alan Ek-1’deki belgeyi,
 
 e) Defin: Cenazelerin şartlarına uygun olarak gömülmesini,
 
 f) Gassal: Cenazeyi yıkamakla görevli kişiyi,
 
-g) (Değişik:RG-19/1/2013-28533) Ölüm belgesi: Tabip veya ölüm belgesi düzenleme yetkilisi tarafından verilen, cenazenin defninin yapılmasının uygun olduğunu gösteren Ek-2’deki belgeyi,
+g) **(Değişik:RG-19/1/2013-28533)** Ölüm belgesi: Tabip veya ölüm belgesi düzenleme yetkilisi tarafından verilen, cenazenin defninin yapılmasının uygun olduğunu gösteren Ek-2’deki belgeyi,
 
-ğ) (Değişik:RG-19/1/2013-28533) Ölüm belgesi düzenleme yetkilisi: Ölüm belgesi vermeye yetkili tabip bulunmaması halinde bahse konu belgeyi düzenlemekle yetkilendirilmiş görevliyi,
+ğ) **(Değişik:RG-19/1/2013-28533)** Ölüm belgesi düzenleme yetkilisi: Ölüm belgesi vermeye yetkili tabip bulunmaması halinde bahse konu belgeyi düzenlemekle yetkilendirilmiş görevliyi,
 
-h) (Değişik:RG-19/1/2013-28533) Hükümet tabibi: Toplum sağlığı merkezi hekimini veya aile hekimini,
+h) **(Değişik:RG-19/1/2013-28533)** Hükümet tabibi: Toplum sağlığı merkezi hekimini veya aile hekimini,
 
 ı) Kefenleme: Cenazelerin şartlarına uygun olarak kefenlenmesini,
 
 i) Nakil tabutu: Başka bir yerleşim yerine cenaze nakillerinde cenazenin dış ortamla irtibatını keserek mayi ve koku çıkışını önleyen, uygun muhafaza malzemesi kullanılmış tabutu,
 
-j) (Değişik:RG-19/1/2013-28533) Yol izin belgesi: Bulunduğu mahal dışına nakledilecek cenazeler için tabip veya ölüm belgesi düzenleme yetkilisi veya ilgili belediyenin görevlisi tarafından verilecek ve belediyece veya köy muhtarınca onaylanacak, tabutun sızdırmazlığının sağlandığını da gösteren Ek-3’teki belgeyi,
+j) **(Değişik:RG-19/1/2013-28533)** Yol izin belgesi: Bulunduğu mahal dışına nakledilecek cenazeler için tabip veya ölüm belgesi düzenleme yetkilisi veya ilgili belediyenin görevlisi tarafından verilecek ve belediyece veya köy muhtarınca onaylanacak, tabutun sızdırmazlığının sağlandığını da gösteren Ek-3’teki belgeyi,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Mezarlık Yeri Seçimi ve Komisyonu
+**Mezarlık Yeri Seçimi ve Komisyonu**
 
 #### Mezarlık yerinin seçimi
 
@@ -76,9 +76,9 @@ Mezarlık Yeri Seçimi ve Komisyonu
 
 (2) Mezarlık yeri seçimi için, il merkezindeki belediye ve köyler valiliğe, ilçeye bağlı belediye ve köyler ise bağlı oldukları kaymakamlığa müracaat ederler.
 
-(3) İlde oluşturulacak komisyon; ilgili vali yardımcısının başkanlığında (Değişik ibare:RG-19/1/2013-28533) halk sağlığı müdürlüğü, il çevre ve şehircilik müdürlüğü, il müftülüğü, il bayındırlık ve iskân müdürlüğü, il kadastro müdürlüğü, (Değişik ibare:RG-19/1/2013-28533) il gıda, tarım ve hayvancılık müdürlüğü ve mezarlık talebinde bulunan belediye veya köy tüzel kişiliği temsilcisinin katılımıyla oluşturulur.
+(3) İlde oluşturulacak komisyon; ilgili vali yardımcısının başkanlığında **(Değişik ibare:RG-19/1/2013-28533)** halk sağlığı müdürlüğü, il çevre ve şehircilik müdürlüğü, il müftülüğü, il bayındırlık ve iskân müdürlüğü, il kadastro müdürlüğü, **(Değişik ibare:RG-19/1/2013-28533)** il gıda, tarım ve hayvancılık müdürlüğü ve mezarlık talebinde bulunan belediye veya köy tüzel kişiliği temsilcisinin katılımıyla oluşturulur.
 
-(4) İlçede oluşturulacak komisyon; kaymakamın başkanlığında; (Değişik ibare:RG-19/1/2013-28533) toplum sağlığı merkezi, ilçe gıda, tarım ve hayvancılık müdürlüğü , ilçe müftülüğü, ilçe kadastro müdürlüğü temsilcileri ile (Değişik ibare:RG-19/1/2013-28533) il çevre ve şehircilik müdürlüğünce görevlendirilecek personel ve mezarlık talebinde bulunan belediye veya köy tüzel kişiliği temsilcisinin katılımıyla oluşturulur.
+(4) İlçede oluşturulacak komisyon; kaymakamın başkanlığında; **(Değişik ibare:RG-19/1/2013-28533)** toplum sağlığı merkezi, ilçe gıda, tarım ve hayvancılık müdürlüğü , ilçe müftülüğü, ilçe kadastro müdürlüğü temsilcileri ile **(Değişik ibare:RG-19/1/2013-28533)** il çevre ve şehircilik müdürlüğünce görevlendirilecek personel ve mezarlık talebinde bulunan belediye veya köy tüzel kişiliği temsilcisinin katılımıyla oluşturulur.
 
 (5) Mezarlık olarak seçilecek alanın özelliklerine göre mülki amirce uygun görülecek diğer kurum temsilcileri veya teknik elemanlar da mezarlık yer seçimi komisyonuna dahil edilebilir. Komisyon, ihtiyaç duyarsa diğer kurumlardan da ek bilgi ve belge isteyebilir.
 
@@ -94,7 +94,7 @@ b) Mezarlıklar içinde kullanılacak içme ve kullanma suları mezarlık sını
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Mezarlıkların ve Mezarların Mülkiyeti, Tesisi ve İnşası
+**Mezarlıkların ve Mezarların Mülkiyeti, Tesisi ve İnşası**
 
 #### Mezarlıkların mülkiyeti
 
@@ -102,7 +102,7 @@ Mezarlıkların ve Mezarların Mülkiyeti, Tesisi ve İnşası
 
 (2) Mezarlıklar ve şehitlikler ile mezarlar bozulamaz, tahrip edilemez ve kirletilemez. Bu yerler imar mevzuatı ile veya başka herhangi bir şekilde park, bahçe, meydan, otopark, çocuk parkı, yeşil alan gibi sahalar olarak ayrılamaz ve asli gayesi dışında hiçbir amaç için kullanılamaz. Yol geçme zorunluluğu bulunduğu İçişleri Bakanlığınca kabul edilen mezarlıklar veya bölümleri bu hükmün dışındadır. Mezarlık vasfı taşımayan mevcut mezarlıklar da mezarlık dışında başka hiç bir amaç için kullanılamaz.
 
-(3) (Değişik:RG-3/4/2012-28253) Belediye tarafından mezar sahiplerine; bedel karşılığı alınan mezarların kullanım hakkının satın alan kişiye ait olduğunu, kullanım tahsisini varislerine devredilebileceğini ve bu mezar yerine yapılacak mükerrer defnin ancak varislerinin uygun göreceği kişilere ait olabileceğini belirtir, bu Yönetmeliğin ekinde yer alan Ek-4’teki belge verilir. Mezar Yeri Kullanım Tahsis Belgesi verilirken başvuru sahiplerinin beyanı esas alınır ve işlemlerin tamamlanması sürecinde başvuru sahiplerinden nüfus kayıt örneği, nüfus cüzdanı sureti veya kimlik bilgilerine ilişkin başkaca bir belge talep edilmez. Belediyeler vermiş oldukları mezar yeri kullanım tahsis belgeleriyle ilgili bilgileri elektronik ortamda kayıt altında tutmakla yükümlüdürler. Cenazenin defin işlemleri sırasında daha önce mezar yeri kullanım tahsis belgesi almış olan cenaze yakınlarından bu belgeyi belediyeye yeniden ibraz etmeleri istenmez. Bu durumda cenaze yakınlarının mezar yeri kullanım tahsisi belgesinde belirtilen T.C. kimlik numarasını beyan etmeleri yeterlidir. Mezar sahipleri sahip oldukları arazi sınırları haricinde merdiven, basamak veya bunlara benzer şeyler yapamazlar. Belediye tarafından uygun görülmesi halinde mezarlıkta çeşme veya hayrat yaptırmak isteyen kişiler taleplerini, T.C. kimlik numaraları ve iletişim bilgilerini beyan ettikleri bir dilekçe ile ilgili belediyeye bildirebilirler. Bu başvuru dilekçesi dışında başvuru sahiplerinden kimlik bilgilerine ilişkin ayrıca bir belge istenmez.
+(3) **(Değişik:RG-3/4/2012-28253)** Belediye tarafından mezar sahiplerine; bedel karşılığı alınan mezarların kullanım hakkının satın alan kişiye ait olduğunu, kullanım tahsisini varislerine devredilebileceğini ve bu mezar yerine yapılacak mükerrer defnin ancak varislerinin uygun göreceği kişilere ait olabileceğini belirtir, bu Yönetmeliğin ekinde yer alan Ek-4’teki belge verilir. Mezar Yeri Kullanım Tahsis Belgesi verilirken başvuru sahiplerinin beyanı esas alınır ve işlemlerin tamamlanması sürecinde başvuru sahiplerinden nüfus kayıt örneği, nüfus cüzdanı sureti veya kimlik bilgilerine ilişkin başkaca bir belge talep edilmez. Belediyeler vermiş oldukları mezar yeri kullanım tahsis belgeleriyle ilgili bilgileri elektronik ortamda kayıt altında tutmakla yükümlüdürler. Cenazenin defin işlemleri sırasında daha önce mezar yeri kullanım tahsis belgesi almış olan cenaze yakınlarından bu belgeyi belediyeye yeniden ibraz etmeleri istenmez. Bu durumda cenaze yakınlarının mezar yeri kullanım tahsisi belgesinde belirtilen T.C. kimlik numarasını beyan etmeleri yeterlidir. Mezar sahipleri sahip oldukları arazi sınırları haricinde merdiven, basamak veya bunlara benzer şeyler yapamazlar. Belediye tarafından uygun görülmesi halinde mezarlıkta çeşme veya hayrat yaptırmak isteyen kişiler taleplerini, T.C. kimlik numaraları ve iletişim bilgilerini beyan ettikleri bir dilekçe ile ilgili belediyeye bildirebilirler. Bu başvuru dilekçesi dışında başvuru sahiplerinden kimlik bilgilerine ilişkin ayrıca bir belge istenmez.
 
 (4) Talep edilmesi durumunda mezarlığın uygun bir yerinde diğer din mensupları için, mezar adası tahsis edilebilir.
 
@@ -172,7 +172,7 @@ d) Yıkamayla oluşacak suyun araç içinde toplanarak uygun şekilde bertarafı
 
 e) Defne hazır cenazenin beklemesi gerektiği durumlarda bozulmaması için soğutma tertibatı bulunur.
 
-(4) Belediyeler ve köyler ile camiler, külliyeler ve diğer yapıların bünyesindeki cenaze hazırlama yerlerinin birinci fıkraya uygunluğu ile sağlık sakıncaları bulunup bulunmadığının tetkiki, sağlık sakıncaları görülenlerin ilgililerince ıslahının sağlanması ve ıslah edilemeyenlerin kullanılmasının önlenmesi (Ek ibare:RG-16/1/2016-29595) mülki idare amirleri, belediyeler ve köy ihtiyar heyetlerince temin edilir.
+(4) Belediyeler ve köyler ile camiler, külliyeler ve diğer yapıların bünyesindeki cenaze hazırlama yerlerinin birinci fıkraya uygunluğu ile sağlık sakıncaları bulunup bulunmadığının tetkiki, sağlık sakıncaları görülenlerin ilgililerince ıslahının sağlanması ve ıslah edilemeyenlerin kullanılmasının önlenmesi **(Ek ibare:RG-16/1/2016-29595)** mülki idare amirleri, belediyeler ve köy ihtiyar heyetlerince temin edilir.
 
 #### Mezarların ebatları
 
@@ -198,7 +198,7 @@ gerekir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Ölüm Belgesi Düzenleme Yetkilisi ve Ölüm Belgesi Düzenlenmesi (Değişik bölüm başlığı:RG-19/1/2013-28533)
+**Ölüm Belgesi Düzenleme Yetkilisi ve Ölüm Belgesi Düzenlenmesi (Değişik bölüm başlığı:RG-19/1/2013-28533)**
 
 #### Ölüm belgesi verilmesi
 
@@ -244,7 +244,7 @@ gerekir.
 
 ### BEŞİNCİ BÖLÜM
 
-Ölüm Olaylarının Bildirilmesi
+**Ölüm Olaylarının Bildirilmesi**
 
 #### Şüpheli ölümler
 
@@ -264,7 +264,7 @@ gerekir.
 
 ### ALTINCI BÖLÜM
 
-Cenazelerin Yıkanması, Kefenlenmesi, Tabutlanması
+**Cenazelerin Yıkanması, Kefenlenmesi, Tabutlanması**
 
 #### Cenazelerin yıkanması esnasında dikkat edilmesi gereken hususlar
 
@@ -276,17 +276,17 @@ b) Ölünün kan ve kanla kirlenmiş vücut sıvılarına, ağız, göz ve büt�
 
 c) Solunum yoluyla bulaşan hastalıklardan ölenlerin yıkanması sırasında koruyucu maske takılır,
 
-ç) (Değişik:RG-19/1/2013-28533) Bulaşıcı hastalık nedeni ile ölenler için ölüm belgesi veren hekimin veya ölüm belgesi düzenleme yetkilisinin bildirim yaptığı sağlık kuruluşunun talimatlarına göre ek önlemler alınır,
+ç) **(Değişik:RG-19/1/2013-28533)** Bulaşıcı hastalık nedeni ile ölenler için ölüm belgesi veren hekimin veya ölüm belgesi düzenleme yetkilisinin bildirim yaptığı sağlık kuruluşunun talimatlarına göre ek önlemler alınır,
 
 d) Gereken önlemler alınmasına rağmen gözle görülebilir şekilde ceset kaynaklı kan veya vücut sıvısıyla kirlenmiş cenaze yıkama yeri, tabut ve cenaze nakil aracı % 10’luk çamaşır suyu çözeltisiyle yıkanır veya bu mümkün olmadığı takdirde silinir.
 
 #### Fakir ve kimsesizlerin cenaze işlemleri
 
-**MADDE 25 –** (1) Fakir veya kimsesiz cenazeler; belediyece veya köy muhtarlıklarınca herhangi bir ücret alınmadan kaldırılır, yıkattırılır, kefenlenir ve gömülür. (Ek cümle:RG-3/4/2012-28253) Fakir veya kimsesizlerin cenaze işlemlerinde fakirliğin tespiti ile ilgili olarak cenaze yakınlarının sözlü veya yazılı beyanları esas alınır. (Ek cümle:RG-3/4/2012-28253) Bu kişilerden cenaze işlemlerinin tamamlanması için beyanlarını belgeleyici fakirlik ve muhtaçlık belgesi veya fakirlik ve muhtaçlık durumuna ilişkin başkaca bir belge talep edilmez.
+**MADDE 25 –** (1) Fakir veya kimsesiz cenazeler; belediyece veya köy muhtarlıklarınca herhangi bir ücret alınmadan kaldırılır, yıkattırılır, kefenlenir ve gömülür. **(Ek cümle:RG-3/4/2012-28253)** Fakir veya kimsesizlerin cenaze işlemlerinde fakirliğin tespiti ile ilgili olarak cenaze yakınlarının sözlü veya yazılı beyanları esas alınır. **(Ek cümle:RG-3/4/2012-28253)** Bu kişilerden cenaze işlemlerinin tamamlanması için beyanlarını belgeleyici fakirlik ve muhtaçlık belgesi veya fakirlik ve muhtaçlık durumuna ilişkin başkaca bir belge talep edilmez.
 
 #### Cenazelerin yıkanması
 
-**MADDE 26 –** (1) Ölüm resmi hastanede gerçekleşmiş ise, (Değişik ibare:RG-19/1/2013-28533) ölüm belgesi alındıktan sonra cenaze, yakınlarının talebi halinde hastanenin görevli gassalları veya hastanece dışarıdan temin edilecek gassallar tarafından hastanenin gasilhanesinde yıkanır, kefenlenir ve tabutlanır.
+**MADDE 26 –** (1) Ölüm resmi hastanede gerçekleşmiş ise, **(Değişik ibare:RG-19/1/2013-28533)** ölüm belgesi alındıktan sonra cenaze, yakınlarının talebi halinde hastanenin görevli gassalları veya hastanece dışarıdan temin edilecek gassallar tarafından hastanenin gasilhanesinde yıkanır, kefenlenir ve tabutlanır.
 
 (2) Ölüm hastane dışında gerçekleşmiş ise cenaze yakınlarının talebi halinde, cenaze nakil aracı ile belediyenin gasilhanesine getirilerek görevli gassallar tarafından yıkanır, kefenlenir, tabutlanır.
 
@@ -306,7 +306,7 @@ d) Gereken önlemler alınmasına rağmen gözle görülebilir şekilde ceset ka
 
 ### YEDİNCİ BÖLÜM
 
-Cenazelerin Nakli
+**Cenazelerin Nakli**
 
 #### Cenaze nakil araçlarının temini
 
@@ -330,11 +330,11 @@ Cenazelerin Nakli
 
 #### Fakir cenazelerin nakli
 
-**MADDE 33 –** (1) Fakir cenazelerin şehir dışı nakilleri, mahallî imkânlar ölçüsünde mülki amirce sağlanır. (Ek cümle:RG-3/4/2012-28253) Fakir cenazelerinin nakli işlemlerinde fakirliğin tespiti ile ilgili olarak cenaze yakınlarının sözlü veya yazılı beyanları esas alınır. (Ek cümle:RG-3/4/2012-28253) Bu kişilerden cenaze nakil işlemlerinin tamamlanması için beyanlarını belgeleyici fakirlik ve muhtaçlık belgesi veya fakir ve muhtaçlık durumuna ilişkin başkaca bir belge talep edilmez.
+**MADDE 33 –** (1) Fakir cenazelerin şehir dışı nakilleri, mahallî imkânlar ölçüsünde mülki amirce sağlanır. **(Ek cümle:RG-3/4/2012-28253)** Fakir cenazelerinin nakli işlemlerinde fakirliğin tespiti ile ilgili olarak cenaze yakınlarının sözlü veya yazılı beyanları esas alınır. **(Ek cümle:RG-3/4/2012-28253)** Bu kişilerden cenaze nakil işlemlerinin tamamlanması için beyanlarını belgeleyici fakirlik ve muhtaçlık belgesi veya fakir ve muhtaçlık durumuna ilişkin başkaca bir belge talep edilmez.
 
 #### Cenazelerin yurtdışına nakli
 
-**MADDE 34 –** (1) Deniz, hava ve demiryollarıyla yurtdışına yapılacak cenaze nakillerinde, belediye sağlık işleri birimlerince cenaze yol izin belgesi düzenlendikten ve ilgili sağlık biriminden cenaze geçiş izin belgesi alındıktan sonra; naklin yapılacağı yerdeki (Ek ibare:RG-19/1/2013-28533) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün sağlık işleri görevlilerine, belgeler teslim edilerek nakil gerçekleştirilir.
+**MADDE 34 –** (1) Deniz, hava ve demiryollarıyla yurtdışına yapılacak cenaze nakillerinde, belediye sağlık işleri birimlerince cenaze yol izin belgesi düzenlendikten ve ilgili sağlık biriminden cenaze geçiş izin belgesi alındıktan sonra; naklin yapılacağı yerdeki **(Ek ibare:RG-19/1/2013-28533)** Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün sağlık işleri görevlilerine, belgeler teslim edilerek nakil gerçekleştirilir.
 
 #### Anlaşmalı ülkelere cenaze nakli
 
@@ -352,7 +352,7 @@ Cenazelerin Nakli
 
 #### Yurtdışından gelen cenazeler
 
-**MADDE 37 –** (1) Yabancı ülkelerden getirilen cenazelerin nakline müsaade edildiğini ve naklinde sağlık yönünden sakınca bulunmadığını gösteren cenazenin geleceği yerin yetkili makamından verilmiş cenaze nakil belgesi ibraz edilmesi zorunludur. Cenaze nakil belgesinde cenazenin kimlik numarasının, ad ve soyadının, baba adının, ölümün vuku bulduğu yerin, tarihin, (Değişik ibare:RG-19/1/2013-28533) ölüm şeklinin , nakline izin verildiğinin, naklinin sağlık sakıncası doğurmayacağı hususunun ve ilgili diğer hususların açıklıkla kaydedilmesi zorunludur.
+**MADDE 37 –** (1) Yabancı ülkelerden getirilen cenazelerin nakline müsaade edildiğini ve naklinde sağlık yönünden sakınca bulunmadığını gösteren cenazenin geleceği yerin yetkili makamından verilmiş cenaze nakil belgesi ibraz edilmesi zorunludur. Cenaze nakil belgesinde cenazenin kimlik numarasının, ad ve soyadının, baba adının, ölümün vuku bulduğu yerin, tarihin, **(Değişik ibare:RG-19/1/2013-28533)** ölüm şeklinin , nakline izin verildiğinin, naklinin sağlık sakıncası doğurmayacağı hususunun ve ilgili diğer hususların açıklıkla kaydedilmesi zorunludur.
 
 #### Ölü küllerinin nakli
 
@@ -360,27 +360,27 @@ Cenazelerin Nakli
 
 ### SEKİZİNCİ BÖLÜM
 
-Cenazenin Defni
+**Cenazenin Defni**
 
 #### Cenazenin defni
 
-**MADDE 39 –** (1) Mezarlık olarak seçilmiş yerlerden başka yerlere cenaze defni, 1593 sayılı Umumi Hıfzıssıhha Kanununun 211 inci maddesinde belirtilen istisna haricinde yasaktır. (Değişik ibare:RG-19/1/2013-28533) ölüm belgesi alınmadıkça hiçbir cenaze gömülemez.
+**MADDE 39 –** (1) Mezarlık olarak seçilmiş yerlerden başka yerlere cenaze defni, 1593 sayılı Umumi Hıfzıssıhha Kanununun 211 inci maddesinde belirtilen istisna haricinde yasaktır. **(Değişik ibare:RG-19/1/2013-28533)** ölüm belgesi alınmadıkça hiçbir cenaze gömülemez.
 
 (2) Mezarlıklara, sabah saat sekizden akşam gün batıncaya kadar cenaze gömülebilir. Bu saatler dışında, zorunlu sebepler haricinde cenaze gömülemez. Zorunlu sebebin tayini belediye başkanı veya köy muhtarına aittir.
 
-(3) Adli tıptan ve diğer resmi dairelerden gelen kimliği belirsiz cenazeler dahil olmak üzere yetkili ve görevli makamlardan (Değişik ibare:RG-19/1/2013-28533) ölüm belgesi alınmayan cenazeler mezarlığa kabul ve defin edilemez.
+(3) Adli tıptan ve diğer resmi dairelerden gelen kimliği belirsiz cenazeler dahil olmak üzere yetkili ve görevli makamlardan **(Değişik ibare:RG-19/1/2013-28533)** ölüm belgesi alınmayan cenazeler mezarlığa kabul ve defin edilemez.
 
 (4) Bir mezar yerine mükerrer defnin ne kadar zaman sonra yapılabileceği, mezarlık yer seçimi komisyonu tarafından, toprağın cenazeyi tam olarak tahrip edebilme kabiliyetine bakılarak mezarlık yerinin tespiti esnasında 5 seneden az olmamak üzere belirlenir.
 
-(5) (Ek fıkra:RG-16/1/2016-29595) 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete’de yayımlanan Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinin 10 uncu maddesinin üçüncü fıkrasının (c) bendi uyarınca gömülmek üzere ailesine veya yakınlarına ya da belediyeye teslim edilen cenazeler, yirmi dört saat içinde defnedilir. Zorunlu hallerde mülki idare amiri tarafından bu süre uzatılabilir. Süresi içinde defin işlemi yapılmayan cenazeler, mülki idare amirinin kararıyla bulunduğu yerden alınarak gömülür.
+(5) **(Ek fıkra:RG-16/1/2016-29595)** 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete’de yayımlanan Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinin 10 uncu maddesinin üçüncü fıkrasının (c) bendi uyarınca gömülmek üzere ailesine veya yakınlarına ya da belediyeye teslim edilen cenazeler, yirmi dört saat içinde defnedilir. Zorunlu hallerde mülki idare amiri tarafından bu süre uzatılabilir. Süresi içinde defin işlemi yapılmayan cenazeler, mülki idare amirinin kararıyla bulunduğu yerden alınarak gömülür.
 
-(6) (Ek fıkra:RG-16/1/2016-29595) Mevzuatta defin görevinin mülki idare amirlerine verildiği durumlarda, defin işleminin yerine getirilmesi amacıyla mülki idare amirleri tarafından kamu kurum ve kuruluşlarına görev verilir.
+(6) **(Ek fıkra:RG-16/1/2016-29595)** Mevzuatta defin görevinin mülki idare amirlerine verildiği durumlarda, defin işleminin yerine getirilmesi amacıyla mülki idare amirleri tarafından kamu kurum ve kuruluşlarına görev verilir.
 
 #### Bulaşıcı hastalıktan ölenlerin defni
 
 **MADDE 40 –** (1) Bulaşıcı veya salgın bir hastalıktan öldüğünden şüphelenilen cenazelerden tabip tarafından gerekli görülmesi durumunda örnek alınabilir, bu cenazelere otopsi yapılabilir.
 
-(2) Bulaşıcı ve salgın hastalığın mevcut olduğu veya tehdit ettiği mahallerde, (Değişik ibare:RG-19/1/2013-28533) Halk Sağlığı Müdürlüğünce bütün cenazelerin gömülmeden önce bir tabip tarafından muayenesi zorunlu tutulabilir.
+(2) Bulaşıcı ve salgın hastalığın mevcut olduğu veya tehdit ettiği mahallerde, **(Değişik ibare:RG-19/1/2013-28533)** Halk Sağlığı Müdürlüğünce bütün cenazelerin gömülmeden önce bir tabip tarafından muayenesi zorunlu tutulabilir.
 
 (3) Özel tedbirlere tabi olarak defni gereken cenazeler ilgili memurların gözetimi altında tabutlanıp defnolunur.
 
@@ -400,7 +400,7 @@ Cenazenin Defni
 
 ### DOKUZUNCU BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Mülki idare amiri tarafından alınacak tedbirler
 
@@ -426,7 +426,7 @@ Cenazenin Defni
 
 #### Yürütme
 
-**MADDE 45 –** (1) Bu Yönetmelik hükümlerini (Değişik ibare:RG-23/5/2019-30782) Çevre ve Şehircilik Bakanı ve Sağlık Bakanı birlikte yürütür.
+**MADDE 45 –** (1) Bu Yönetmelik hükümlerini **(Değişik ibare:RG-23/5/2019-30782)** Çevre ve Şehircilik Bakanı ve Sağlık Bakanı birlikte yürütür.
 
 | E K L E R |
 | Ek-1 | Ek-2 | Ek-3 | Ek-4 | Ek-5 | Ek-6 |

@@ -9,23 +9,23 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-Tenni mux sAĞLIĞIKURL'All: İ-asaHALK
+Tenni mux sAĞLIĞIKURL'All: **İ-asaHALK**
 
 SAĞLITA LABORATUVAR/ AR DAIRE
 
-a, asıckvılöı
+**a, asıckvılöı**
 
-21e4- ı sos '3 45055 943 0_0 'UV
+**21e4- ı sos** '3 45055 943 0_0 'UV
 
 IIUIIII
 
 Ü' ) T.C.
 
-- C Snk.±.4 •, , 51 00ş
+<i>- C Snk.±.4 •, , 51</i> 00ş
 
-TormalihatIbgıg. SAĞLIK BAKANLIĞI
+**TormalihatIbgıg.** SAĞLIK BAKANLIĞI
 
-«mem
+**«mem**
 
 Türkiye Halk Sağlığı Kurumu
 

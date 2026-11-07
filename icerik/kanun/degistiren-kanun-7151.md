@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/12/20181205-8.htm"
 durum: "yürürlükte"
 ---
 
-KANUN SAĞLIKLA İLGİLİ BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7151 Kabul Tarihi: 15/11/2018
+**KANUN SAĞLIKLA İLGİLİ BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7151 Kabul Tarihi: 15/11/2018**
 
 
 MADDE 1 – 2/3/1927 tarihli ve 984 sayılı Ecza Ticarethaneleriyle Sanat ve Ziraat İşlerinde Kullanılan Zehirli ve Müessir Kimyevi Maddelerin Satıldığı Dükkanlara Mahsus Kanunun 11 inci maddesine aşağıdaki fıkra eklenmiştir.
@@ -21,13 +21,13 @@ MADDE 1 – 2/3/1927 tarihli ve 984 sayılı Ecza Ticarethaneleriyle Sanat ve Zi
 
 
 MADDE 2 – 984 sayılı Kanunun 21 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 21- Bu Kanunda tasrih edilen kaidelere riayet etmeyen veya memnuiyetlere muhalif hareket eden ecza ticarethaneleri sahip veya müdiri mesulleri ile sanat ve ziraat işlerinde kullanılan zehirli ve müessir maddeler satıcılığı yapanlara, Türkiye İlaç ve Tıbbi Cihaz Kurumu veya mahallî mülki amir tarafından fiilin mahiyeti ve sonuçları dikkate alınarak iki bin Türk lirasından yirmi bin Türk lirasına kadar idari para cezası verilir. Fiilin bir yıl içerisinde tekrarı hâlinde ceza bir kat artırılarak uygulanır. Bu maddelerin satışı kamu sağlığı bakımından tehlikeli bir durum oluşturuyorsa, tehlike giderilinceye kadar geçici olarak işletme faaliyetten menedilir. Türkiye İlaç ve Tıbbi Cihaz Kurumu tarafından idari para cezası veya idari yaptırım kararı verildiğinde keyfiyet ilgili mülki amire bildirilir.”
+“**MADDE 21-** Bu Kanunda tasrih edilen kaidelere riayet etmeyen veya memnuiyetlere muhalif hareket eden ecza ticarethaneleri sahip veya müdiri mesulleri ile sanat ve ziraat işlerinde kullanılan zehirli ve müessir maddeler satıcılığı yapanlara, Türkiye İlaç ve Tıbbi Cihaz Kurumu veya mahallî mülki amir tarafından fiilin mahiyeti ve sonuçları dikkate alınarak iki bin Türk lirasından yirmi bin Türk lirasına kadar idari para cezası verilir. Fiilin bir yıl içerisinde tekrarı hâlinde ceza bir kat artırılarak uygulanır. Bu maddelerin satışı kamu sağlığı bakımından tehlikeli bir durum oluşturuyorsa, tehlike giderilinceye kadar geçici olarak işletme faaliyetten menedilir. Türkiye İlaç ve Tıbbi Cihaz Kurumu tarafından idari para cezası veya idari yaptırım kararı verildiğinde keyfiyet ilgili mülki amire bildirilir.”
 
 
 MADDE 3 – 984 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 1- Bu maddenin yürürlüğe girdiği tarihten önce 11 inci maddenin ikinci fıkrasına göre yurt dışından temin edilmiş ilaçlar için ruhsat başvurusunda bulunmamış olanların başvuru süresi bu maddenin yürürlüğe girdiği tarihte başlar. Daha önceden ruhsat başvurusu yapılmış ilaçlar için iki yıllık ruhsat alma süresi bu maddenin yürürlüğe girdiği tarihten itibaren başlar.”
+**MADDE 1-** Bu maddenin yürürlüğe girdiği tarihten önce 11 inci maddenin ikinci fıkrasına göre yurt dışından temin edilmiş ilaçlar için ruhsat başvurusunda bulunmamış olanların başvuru süresi bu maddenin yürürlüğe girdiği tarihte başlar. Daha önceden ruhsat başvurusu yapılmış ilaçlar için iki yıllık ruhsat alma süresi bu maddenin yürürlüğe girdiği tarihten itibaren başlar.”
 
 
 MADDE 4 – 984 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının üçüncü cümlesi yürürlükten kaldırılmıştır.
@@ -36,13 +36,13 @@ MADDE 4 – 984 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının üç�
 MADDE 5 – 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 15- Terör örgütlerine veya Millî Güvenlik Kurulunca Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti veya iltisakı yahut bunlarla irtibatı olduğu değerlendirilerek ilgili mevzuat çerçevesinde kamu görevinden çıkarılan veya güvenlik soruşturması sonucuna göre kamu görevine alınmayan tabiplerden Devlet hizmeti yükümlüsü olanlar, çıkarılma veya göreve alınmama kararının verildiği tarihten itibaren, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun ek 3 üncü maddesinin birinci fıkrasında üçüncü grup ilçe merkezlerine bağlı yerleşim yerleri ile dördüncü grup ilçe merkezleri için belirlenen Devlet hizmeti süresinin sonunda mesleklerini icra edebilirler. Devlet hizmeti yükümlülüğünü yerine getirirken kamu görevinden çıkarılanların hizmet süreleri bu süreden düşülür.”
+**MADDE 15-** Terör örgütlerine veya Millî Güvenlik Kurulunca Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti veya iltisakı yahut bunlarla irtibatı olduğu değerlendirilerek ilgili mevzuat çerçevesinde kamu görevinden çıkarılan veya güvenlik soruşturması sonucuna göre kamu görevine alınmayan tabiplerden Devlet hizmeti yükümlüsü olanlar, çıkarılma veya göreve alınmama kararının verildiği tarihten itibaren, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun ek 3 üncü maddesinin birinci fıkrasında üçüncü grup ilçe merkezlerine bağlı yerleşim yerleri ile dördüncü grup ilçe merkezleri için belirlenen Devlet hizmeti süresinin sonunda mesleklerini icra edebilirler. Devlet hizmeti yükümlülüğünü yerine getirirken kamu görevinden çıkarılanların hizmet süreleri bu süreden düşülür.”
 
 
 MADDE 6 – 1219 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 13- Bu maddenin yürürlüğe girdiği tarihten önce oral patoloji alanında doktora eğitimi yapmış olan veya doktora eğitimine başlamış olanlardan eğitimlerini başarı ile bitiren diş hekimlerine oral patoloji dalında uzmanlık belgesi verilir. Diş hekimlerinden, bu maddenin yürürlüğe girdiği tarihten önce tıbbi patoloji ve tümör patolojisi alanlarında doktora eğitimi yapmış olup yurt içinde veya yurt dışında en az iki yılı eğitim kurumlarında olmak üzere üç yıl süreyle oral patoloji alanında araştırma, uygulama ve inceleme yapmış bulunanlar, yaptıkları araştırma, uygulama ve incelemeler ile aldıkları eğitimlere ait belgelerini ve bu alanda yurt içi ve yurt dışında yayımlanmış bilimsel yayınlarını ibraz ederek bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içerisinde uzmanlık belgesi almak için Sağlık Bakanlığına başvurabilir. Tıpta Uzmanlık Kurulu, başvuru süresinin bitiminden itibaren altı ay içerisinde başvuruları değerlendirir. Çalışmaları yeterli görülenlere oral patoloji dalında uzmanlık belgesi verilir.”
+**MADDE 13-** Bu maddenin yürürlüğe girdiği tarihten önce oral patoloji alanında doktora eğitimi yapmış olan veya doktora eğitimine başlamış olanlardan eğitimlerini başarı ile bitiren diş hekimlerine oral patoloji dalında uzmanlık belgesi verilir. Diş hekimlerinden, bu maddenin yürürlüğe girdiği tarihten önce tıbbi patoloji ve tümör patolojisi alanlarında doktora eğitimi yapmış olup yurt içinde veya yurt dışında en az iki yılı eğitim kurumlarında olmak üzere üç yıl süreyle oral patoloji alanında araştırma, uygulama ve inceleme yapmış bulunanlar, yaptıkları araştırma, uygulama ve incelemeler ile aldıkları eğitimlere ait belgelerini ve bu alanda yurt içi ve yurt dışında yayımlanmış bilimsel yayınlarını ibraz ederek bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içerisinde uzmanlık belgesi almak için Sağlık Bakanlığına başvurabilir. Tıpta Uzmanlık Kurulu, başvuru süresinin bitiminden itibaren altı ay içerisinde başvuruları değerlendirir. Çalışmaları yeterli görülenlere oral patoloji dalında uzmanlık belgesi verilir.”
 
 
 MADDE 7 – 1219 sayılı Kanuna ekli 2 sayılı “Diş Hekimliğinde Uzmanlık Ana Dalları ve Eğitim Sürelerine Dair Çizelge”ye aşağıdaki satır eklenmiştir.
@@ -70,7 +70,7 @@ MADDE 12 – 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sa
 MADDE 13 – 209 sayılı Kanunun ek 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 “EK
 
-MADDE 2- Sağlık Bakanlığına bağlı döner sermaye işletmelerinin muhasebe hizmetleri Bakanlıkça yürütülür. Ancak, Bakanlık tarafından teklif edilen ve Hazine ve Maliye Bakanlığınca uygun görülen döner sermaye işletmelerinin muhasebe hizmetleri Hazine ve Maliye Bakanlığı tarafından yürütülebilir.”
+**MADDE 2-** Sağlık Bakanlığına bağlı döner sermaye işletmelerinin muhasebe hizmetleri Bakanlıkça yürütülür. Ancak, Bakanlık tarafından teklif edilen ve Hazine ve Maliye Bakanlığınca uygun görülen döner sermaye işletmelerinin muhasebe hizmetleri Hazine ve Maliye Bakanlığı tarafından yürütülebilir.”
 
 
 MADDE 14 – 209 sayılı Kanunun ek 3 üncü maddesinin birinci fıkrasının ikinci cümlesinde yer alan “Kamu hastane birliklerinde” ibaresi “İl sağlık müdürlüğünün” şeklinde ve ikinci fıkrasında yer alan “Sağlık Bakanlığı ve Bağlı Kuruluşların Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 33 üncü” ibareleri “11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 42 nci” şeklinde değiştirilmiştir.
@@ -131,7 +131,7 @@ Cumhuriyet savcısı adli işlemleri tekemmül ettirir. Bu suçların soruşturm
 MADDE 22 – 3359 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 12- Bu maddenin yürürlüğe girdiği tarihten önce ek 9 uncu madde çerçevesinde birlikte kullanım protokolü yapılmış sağlık tesislerinde çalışacak üniversite personeli ile bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde ek 9 uncu maddenin üçüncü fıkrası kapsamında sözleşme yapılır.”
+**MADDE 12-** Bu maddenin yürürlüğe girdiği tarihten önce ek 9 uncu madde çerçevesinde birlikte kullanım protokolü yapılmış sağlık tesislerinde çalışacak üniversite personeli ile bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde ek 9 uncu maddenin üçüncü fıkrası kapsamında sözleşme yapılır.”
 
 
 MADDE 23 – 7/11/1996 tarihli ve 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanunun 3 üncü maddesinin altıncı ve yedinci fıkraları aşağıdaki şekilde değiştirilmiştir.
@@ -147,7 +147,7 @@ MADDE 24 – 4207 sayılı Kanunun 4 üncü maddesinin üçüncü fıkrasının 
 MADDE 25 – 4207 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 5- (1) Bu maddenin yürürlüğe girdiği tarihten önce Türkiye’de üretilen veya ithal edilen tütün ürünleri, yedi ay içinde 4 üncü maddenin üçüncü fıkrasına uygun hâle getirilir. Bu süre Tarım ve Orman Bakanlığı tarafından altı aya kadar uzatılabilir.
+**MADDE 5-** (1) Bu maddenin yürürlüğe girdiği tarihten önce Türkiye’de üretilen veya ithal edilen tütün ürünleri, yedi ay içinde 4 üncü maddenin üçüncü fıkrasına uygun hâle getirilir. Bu süre Tarım ve Orman Bakanlığı tarafından altı aya kadar uzatılabilir.
 (2) 4 üncü maddenin beşinci fıkrasında öngörülen yönetmelik bu maddenin yürürlüğe girdiği tarihten itibaren bir ay içinde çıkarılır.”
 
 

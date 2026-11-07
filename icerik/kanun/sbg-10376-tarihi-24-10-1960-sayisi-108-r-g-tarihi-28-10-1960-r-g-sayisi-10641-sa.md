@@ -8,7 +8,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10376/tarihi24101960--sayisi108--rg-ta
 durum: "yürürlükte"
 ---
 
-SAVUNMA SEKRETERLİKLERİ KURULMASINA DAİR KANUN Kanun Numarası : 108 Kabul Tarihi : 24/10/1960 Yayımlandığı R.Gazete : Tarih : 28/10/1960 Sayı : 10641 Yayımlandığı Düstur : Tertip : 4 Cilt : 1 Sayfa : 393
+**SAVUNMA SEKRETERLİKLERİ KURULMASINA DAİR KANUN Kanun Numarası : 108 Kabul Tarihi : 24/10/1960 Yayımlandığı R.Gazete : Tarih : 28/10/1960 Sayı : 10641 Yayımlandığı Düstur : Tertip : 4 Cilt : 1 Sayfa : 393**
 
 **Madde 1 –** Topyekün Savunma ve Milli Seferberlik hizmetlerini Milli Güvenlik amaçlarına uygun bir şekilde planlamak ve yürütmek üzere genel bütçeye dahil dairelerle, katma bütçeli idareler ve Devlet Ekonomi Kurumları ve bunlara bağlı kurumlarda savunma sekreterlikleri kurulmuştur.
 

@@ -28,7 +28,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -62,7 +62,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Atama ve Yerleştirme İşlemlerine İlişkin Usul ve Esaslar
+**Atama ve Yerleştirme İşlemlerine İlişkin Usul ve Esaslar**
 
 #### Atanma şartları
 
@@ -110,7 +110,7 @@ n) Maliye Bakanlığı tarafından birimler itibarıyla vize edilmiş pozisyonla
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Kısıtlayıcı hükümler
 

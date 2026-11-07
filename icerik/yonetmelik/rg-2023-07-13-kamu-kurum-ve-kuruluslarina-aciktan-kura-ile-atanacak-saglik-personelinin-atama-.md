@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-KAMU KURUM VE KURULUŞLARINA AÇIKTAN KURA İLE ATANACAK
-SAĞLIK PERSONELİNİN ATAMA USÛL VE ESASLARINA
-İLİŞKİN YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**KAMU KURUM VE KURULUŞLARINA AÇIKTAN KURA İLE ATANACAK**
+**SAĞLIK PERSONELİNİN ATAMA USÛL VE ESASLARINA**
+**İLİŞKİN YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 10/7/2015 tarihli ve 29412 sayılı Resmî Gazete’de yayımlanan Kamu Kurum ve Kuruluşlarına Açıktan Kura ile Atanacak Sağlık Personelinin Atama Usûl ve Esaslarına İlişkin Yönetmeliğin 2 nci maddesinin birinci fıkrasında yer alan “uzman diş tabibi,” ibaresinden sonra gelmek üzere “uzman eczacı,” ibaresi eklenmiştir.
 

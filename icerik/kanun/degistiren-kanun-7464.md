@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/11/20231102-16.htm"
 durum: "yürürlükte"
 ---
 
-KANUN KONUTLARIN TURİZM AMAÇLI KİRALANMASINA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN KONUTLARIN TURİZM AMAÇLI KİRALANMASINA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7464 Kabul Tarihi: 25/10/2023
-BİRİNCİ BÖLÜM
-Amaç, Kapsam ve Tanımlar Amaç ve kapsam
+**BİRİNCİ BÖLÜM**
+**Amaç, Kapsam ve Tanımlar** Amaç ve kapsam
 
 MADDE 1- (1) Bu Kanunun amacı; konutların gerçek ve tüzel kişilere, turizm amaçlı kiralanmasına ilişkin usul ve esasları belirlemektir.
 (2) Bu Kanun; konutların turizm amaçlı kiralanmasına ilişkin genel esaslara, izin belgesi düzenlenmesine, idari yaptırımlara ve turizm amaçlı kiralanan konutların tabi olacağı mevzuata ilişkin hükümleri kapsar.
@@ -36,8 +36,8 @@ f) Kullanıcı: Kiraya verenle turizm amaçlı kiralama sözleşmesi yapan gerç
 g) Turizm amaçlı kiralama: Konutların kullanıcılara en fazla yüz gün süreyle her türlü amaçla kiralanmasını,
 ğ) Valilik:
 Turizm amaçlı kiralanan konutun bulunduğu ilin valiliğini, ifade eder.
-İKİNCİ BÖLÜM
-İzin Belgesinin Niteliği ve Uygulanacak İdari Yaptırımlar İzin belgesinin niteliği
+**İKİNCİ BÖLÜM**
+**İzin Belgesinin Niteliği ve Uygulanacak İdari Yaptırımlar** İzin belgesinin niteliği
 
 MADDE 3- (1) Konutların turizm amaçlı kiralanabilmesi için, turizm amaçlı kiralama sözleşmesi yapılmadan önce izin belgesi alınması zorunludur. Ayrıca, Bakanlıkça nitelikleri belirlenen plaket, turizm amaçlı kiralama yapılan konutun girişine asılır.
 (2) İzin belgesi vermeye Bakanlık yetkilidir. Bakanlık bu yetkisini valilik vasıtasıyla da kullanabilir. İzin belgesi ve plaket ücretleri Bakanlıkça belirlenir.
@@ -83,8 +83,8 @@ c) 4 üncü maddenin ikinci fıkrasının (b) bendinin uygulanmasını takiben v
 ç) Turizm amaçlı kiralama yapılan konutun, kamu düzeni, kamu güvenliği ve genel ahlaka aykırı olarak kullanıldığının yetkili kamu kurum ve kuruluşları tarafından bildirilmesi.
 d) 4 üncü maddenin ikinci fıkrasının (ğ) bendinin uygulanmasına rağmen aykırılıkların giderilmediğinin tespit edilmesi.
 (2) İzin belgesi iptal edilen konutların kullanıcılarının hakları sözleşme süresi sonuna kadar devam eder.
-ÜÇÜNCÜ BÖLÜM
-Çeşitli Hükümler Denetim ve düzenleme yetkisi
+**ÜÇÜNCÜ BÖLÜM**
+**Çeşitli Hükümler** Denetim ve düzenleme yetkisi
 
 MADDE 6- (1) Bakanlık turizm amaçlı kiralamalarda denetim yapma yetkisini haiz olup, gerek görülmesi durumunda, denetim yetkisini valilik vasıtasıyla da kullanabilir.
 (2) Bu Kanunun uygulanması sırasında doğacak tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye, uygulama birliğini sağlayacak gerekli düzenlemeleri yapmaya, bu Kanunun uygulanmasına ilişkin usul ve esasları belirlemeye Bakanlık yetkilidir.
@@ -92,8 +92,8 @@ Daha önce yapılan turizm amaçlı kiralamalar
 
 GEÇİCİ MADDE 1- (1) Bu maddenin yürürlüğe girdiği tarihte turizm amaçlı kiralama faaliyetinde bulunanlar tarafından, bu maddenin yürürlüğe girdiği tarihten itibaren bir ay içinde izin belgesi almak üzere Bakanlığa başvurulması zorunludur. Bu yükümlülüğe uymayanlar hakkında, 4 üncü madde hükümleri uygulanır.
 İzin belgesi düzenlenmesi işlemleri, başvuru tarihinden itibaren üç ay içinde sonuçlandırılır. Başvurusu kabul edilmeyenler faaliyette bulunamaz, ancak bu konutların kullanıcılarının hakları sözleşme süresi sonuna kadar devam eder.
-DÖRDÜNCÜ BÖLÜM
-Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler
+**DÖRDÜNCÜ BÖLÜM**
+**Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler**
 
 MADDE 7- 14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununun 34 üncü maddesinin birinci fıkrasının (A) bendinin üçüncü paragrafının (e) alt bendinde yer alan “üyeleri ile 11/7/2019 tarihli ve 7183 sayılı Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun ile kurulan Türkiye Turizm Tanıtım ve Geliştirme Ajansı Yönetim Kurulunun asıl ve yedek” ibaresi madde metninden çıkarılmıştır.
 
@@ -117,7 +117,7 @@ MADDE 14- 2634 sayılı Kanunun 8 inci maddesinin (A) fıkrasının (4) numaral�
 “Personel lojman alanları; tahsise ilişkin diğer hususların sağlanması şartı ile Bakanlık tarafından aynı bölgede adına turizm işletmesi belgesi veya turizm yatırımı belgesi düzenlenen yatırımcılara, ilgili Bakanlıklardan tahsisli tesisler için ana tahsisin süresiyle eş süreli olacak şekilde, diğer tesisler için ise kırk dokuz yıla kadar süreyle ilanlı olarak sosyal ve teknik altyapı hizmetlerine katılım payı alınması şartıyla tahsis edilebilir.”
 “Herhangi bir sebeple tahsisi sona eren personel lojman alanları üzerindeki irtifak hakkı Bakanlığın talebi üzerine re’sen tapudan terkin edilir.”
 
-MADDE 15- 2634 sayılı Kanunun ek 5 inci maddesinin birinci fıkrasının birinci cümlesinde yer alan “fıkrası uyarınca” ibaresinden sonra gelmek üzere “turizm maksatlı izin verilen alanlarda” ibaresi eklenmiş, “olanlar ile kültür ve turizm koruma ve gelişim bölgeleri ile turizm merkezleri içinde ve bu bölge ile merkezlerin dışında olmakla birlikte denize kıyısı olan ilçelerde, içerisinde” ibaresi “olan yerler ile” şeklinde, “konaklama tesisi bulunan” ibaresi “konaklama tesisi içeren” şeklinde değiştirilmiş, cümleye “ait olmak üzere” ibaresinden sonra gelmek üzere “sadece” ibaresi eklenmiş, fıkraya birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiş ve fıkranın son cümlesi yürürlükten kaldırılmıştır.
+**MADDE 15-** 2634 sayılı Kanunun ek 5 inci maddesinin birinci fıkrasının birinci cümlesinde yer alan “fıkrası uyarınca” ibaresinden sonra gelmek üzere “turizm maksatlı izin verilen alanlarda” ibaresi eklenmiş, “olanlar ile kültür ve turizm koruma ve gelişim bölgeleri ile turizm merkezleri içinde ve bu bölge ile merkezlerin dışında olmakla birlikte denize kıyısı olan ilçelerde, içerisinde” ibaresi “olan yerler ile” şeklinde, “konaklama tesisi bulunan” ibaresi “konaklama tesisi içeren” şeklinde değiştirilmiş, cümleye “ait olmak üzere” ibaresinden sonra gelmek üzere “sadece” ibaresi eklenmiş, fıkraya birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiş ve fıkranın son cümlesi yürürlükten kaldırılmıştır.
 “Orman sayılan alanlarda sadece çadır ve karavan içeren kamp alanları yapılması ve işletilmesi amacıyla ilgili mevzuatı uyarınca Orman Genel Müdürlüğü tarafından kiralama yapılabilir, bu şekilde kiralanan taşınmazların tahsis amacı ve kullanım şekli değiştirilemez.”
 
 MADDE 16- 2634 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.

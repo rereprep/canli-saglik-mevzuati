@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/06/20120603-6.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 ASKERLİK KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
 Kanun No. 6318 Kabul Tarihi: 22/5/2012
 
@@ -110,7 +110,7 @@ MADDE 21 – 1111 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 MADDE 50 – Temel askerlik eğitimlerini tamamladıktan sonra herhangi bir nedenle bedelli veya dövizli askerlik hizmeti kapsamından çıkarılan yükümlüler, istekleri halinde diğer şartları yerine getirmek kaydıyla geçici 46 ncı maddeden istifade ettirilirler.
 Ancak, geçici 46 ncı maddede düzenlenen altı aylık süre bu kişiler için on iki ay olarak uygulanır.”
 
-MADDE 22 – 1111 sayılı Kanunun 25 inci maddesinin birinci fıkrasında ve 89 uncu maddesinin dördüncü fıkrasının (a) bendinde yer alan ilk “son” ibaresi madde metninden çıkarılmış ve aynı Kanunun 11 inci, 17 nci, 20 nci, 21 inci, 22 nci, 23 üncü, 24 üncü, 27 nci, 29 uncu, 31 inci, 32 nci, 40 ıncı, 48 inci, 49 uncu, 54 üncü, 55 inci, 66 ncı, 75 inci, 82 nci, 83 üncü, 84 üncü, 85 inci, 87 nci, 88 inci, 91 inci, 92 nci, 94 üncü, 95 inci ve 101 inci maddeleri yürürlükten kaldırılmıştır.
+**MADDE 22 –** 1111 sayılı Kanunun 25 inci maddesinin birinci fıkrasında ve 89 uncu maddesinin dördüncü fıkrasının (a) bendinde yer alan ilk “son” ibaresi madde metninden çıkarılmış ve aynı Kanunun 11 inci, 17 nci, 20 nci, 21 inci, 22 nci, 23 üncü, 24 üncü, 27 nci, 29 uncu, 31 inci, 32 nci, 40 ıncı, 48 inci, 49 uncu, 54 üncü, 55 inci, 66 ncı, 75 inci, 82 nci, 83 üncü, 84 üncü, 85 inci, 87 nci, 88 inci, 91 inci, 92 nci, 94 üncü, 95 inci ve 101 inci maddeleri yürürlükten kaldırılmıştır.
 
 MADDE 23 – 16/6/1927 tarihli ve 1076 sayılı Yedek Subaylar ve Yedek Askeri Memurlar Kanununun 3 üncü maddesinin birinci fıkrasının (ı) bendi aşağıdaki şekilde değiştirilmiştir.
 “ı) En az dört yıl süreli fakülte veya yüksekokulları kendi nam ve hesabına bitirip temel askerlik eğitimini tamamlamadan ayrılanların veya muvazzaf subaylığa nasbedilenlerden deneme süresinin bitimine kadar ayrılanların temel askerlik eğitiminde, yedek subay okulunda, yedek subaylık hizmetinde ve muvazzaf subaylık hizmetinde geçen süreleri askerlik hizmetinden sayılır. Sayılan askerlik hizmet süresi, tabi olduğu hizmet süresini karşılamayanlardan;
@@ -339,28 +339,28 @@ Bu madde uyarınca, aylıksız izinli olanlar hariç, sözleşmeli olarak çalı
 MADDE 57 – 926 sayılı Kanuna ekli EK-VI, EK-VII, EK-VIII, EK-VIII/A, EK-VIII/B ve EK-VIII/C sayılı cetvellerin 1 inci derece satırları ile EK-IX sayılı cetvel aşağıdaki şekilde değiştirilmiştir.
 EK-VI SAYILI CETVEL
 SUBAYLAR İÇİN AYLIK GÖSTERGE TABLOSU
-Dereceler Rütbeler Alb.-Kd.Alb.
+**Dereceler Rütbeler** Alb.-Kd.Alb.
 General-Amiral 1500 - - - - - - - - Yarbay 1320 1380 1440 1500 - - - - - EK-VII SAYILI CETVEL B-109 UNCU MADDEYE GÖRE ASTSUBAYLIKTAN SUBAYLIĞA
 GEÇENLER İÇIN AYLIK GÖSTERGE TABLOSU
-Dereceler 1320 1380 1440 1500 - - - - - EK-VIII SAYILI CETVEL ASTSUBAYLAR (ÜSTÇAVUŞ VE KIDEMLİ ÜSTÇAVUŞLUKTA ÜÇER YILLIK RÜTBE BEKLEME SÜRESİNE TABİ OLANLAR) İÇİN AYLIK GÖSTERGE
+**Dereceler** 1320 1380 1440 1500 - - - - - EK-VIII SAYILI CETVEL ASTSUBAYLAR (ÜSTÇAVUŞ VE KIDEMLİ ÜSTÇAVUŞLUKTA ÜÇER YILLIK RÜTBE BEKLEME SÜRESİNE TABİ OLANLAR) İÇİN AYLIK GÖSTERGE
 TABLOSU
-Dereceler Rütbeler II.Kad.Kd.
+**Dereceler Rütbeler** II.Kad.Kd.
 Bçvş.
 1320 1380 1440 1500 - - - - - EK-VIII/A SAYILI CETVEL
 ASTSUBAY MESLEK YÜKSEK OKULU MEZUNU VE FAKÜLTE, YÜKSEK OKUL VEYA MESLEK YÜKSEK OKULUNU BİTİREREK TEMEL ASKERLİK EĞİTİMİNDE
 BAŞARILI OLUP ASTSUBAY ÇAVUŞLUĞA NASBEDİLEN ASTSUBAYLAR (ÜSTÇAVUŞ VE KIDEMLİ ÜSTÇAVUŞLUKTA ÜÇER YILLIK RÜTBE BEKLEME SÜRESİNE TABİ OLANLAR) İÇİN
 AYLIK GÖSTERGE TABLOSU
-Dereceler Rütbeler II.Kad.Kd.
+**Dereceler Rütbeler** II.Kad.Kd.
 Bçvş.
 1320 1380 1440 1500 - - - - - EK-VIII/B SAYILI CETVEL
 ASTSUBAYLAR İÇİN AYLIK GÖSTERGE TABLOSU
-(ÜSTÇAVUŞ VE KIDEMLİ ÜSTÇAVUŞLUKTA ALTIŞAR YILLIK RÜTBE BEKLEME SÜRESİNE TABİ OLANLAR) Dereceler Rütbeler Kad.Kd.Bçvş.- II.Kad.Kd.Bçvş.
+(ÜSTÇAVUŞ VE KIDEMLİ ÜSTÇAVUŞLUKTA ALTIŞAR YILLIK RÜTBE BEKLEME SÜRESİNE TABİ OLANLAR) **Dereceler Rütbeler** Kad.Kd.Bçvş.- II.Kad.Kd.Bçvş.
 1320 1380 1440 1500 - - - - - EK-VIII/C SAYILI CETVEL
 ASTSUBAY MESLEK YÜKSEK OKULU MEZUNU VE FAKÜLTE, YÜKSEK OKUL VEYA MESLEK YÜKSEK OKULUNU BİTİREREK TEMEL ASKERLİK EĞİTİMİNDE BAŞARILI OLUP ASTSUBAY ÇAVUŞLUĞA NASBEDİLEN ASTSUBAYLAR İÇİN AYLIK GÖSTERGE TABLOSU
-(ÜSTÇAVUŞ VE KIDEMLİ ÜSTÇAVUŞLUKTA ALTIŞAR YILLIK RÜTBE BEKLEME SÜRESİNE TABİ OLANLAR) Dereceler Rütbeler Kd.Bçvş.-Kad.Kd.Bçvş.- II.Kad.Kd.Bçvş.
+(ÜSTÇAVUŞ VE KIDEMLİ ÜSTÇAVUŞLUKTA ALTIŞAR YILLIK RÜTBE BEKLEME SÜRESİNE TABİ OLANLAR) **Dereceler Rütbeler** Kd.Bçvş.-Kad.Kd.Bçvş.- II.Kad.Kd.Bçvş.
 1320 1380 1440 1500 - - - - - EK-IX SAYILI CETVEL
 UZMAN JANDARMA ÇAVUŞLAR İÇİN AYLIK GÖSTERGE TABLOSU KADEMELER
-Dereceler Rütbeler VIII.Kad.Çvş.
+**Dereceler Rütbeler** VIII.Kad.Çvş.
 1320 1380 1440 1500 - - - - - VIII.Kad.Çvş.
 1155 1210 1265 1320 1380 1440 - - - VII.Kad.Çvş.
 1020 1065 1110 1155 1210 1265 1320 1380 - VI.Kad.Çvş.

@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-8.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-İLKÖĞRETİM VE EĞİTİM KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**İLKÖĞRETİM VE EĞİTİM KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6287 Kabul Tarihi: 30/3/2012
 
 MADDE 1 – 5/1/1961 tarihli ve 222 sayılı İlköğretim ve Eğitim Kanununun 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.

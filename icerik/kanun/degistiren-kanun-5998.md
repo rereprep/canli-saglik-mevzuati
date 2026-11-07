@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/06/20100624-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 BELEDİYE KANUNUNDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN
 Kanun No. 5998 Kabul Tarihi: 17/6/2010
 
@@ -34,8 +34,8 @@ Kentsel dönüşüm ve gelişim projelerinin uygulanması sırasında, tapu kay�
 Kentsel dönüşüm ve gelişim projesi kapsamındaki işler, kamu idareleriyle 75 inci madde çerçevesinde ortak hizmet projeleri aracılığıyla gerçekleştirilebilir.
 Bu Kanunun konusu ile ilgili hususlarda Başbakanlık Toplu Konut İdaresine 2985 sayılı Kanun ve diğer kanunlarla verilen yetkiler saklıdır."
 
-GEÇİCİ MADDE 1 – Bu Kanunun yürürlüğe girmesinden önce yargı mercilerinde açılmış ve henüz kesin hükme bağlanmamış davalarda bu Kanun hükümleri uygulanır. Ancak bu Kanunla getirilen değişik hükümlerin uygulanması nedeniyle haksız çıkan tarafa harç, yargılama gideri ve avukatlık ücreti yükletilemez.
+**GEÇİCİ MADDE 1 –** Bu Kanunun yürürlüğe girmesinden önce yargı mercilerinde açılmış ve henüz kesin hükme bağlanmamış davalarda bu Kanun hükümleri uygulanır. Ancak bu Kanunla getirilen değişik hükümlerin uygulanması nedeniyle haksız çıkan tarafa harç, yargılama gideri ve avukatlık ücreti yükletilemez.
 
-MADDE 2 – Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 2 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 3 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 3 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

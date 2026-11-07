@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU İLAÇ GERİ ÖDEME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SOSYAL GÜVENLİK KURUMU İLAÇ GERİ ÖDEME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 25/8/2022 tarihli ve 31934 mükerrer sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu İlaç Geri Ödeme Yönetmeliğinin 3 üncü maddesinin birinci fıkrasının (a), (i) ve (p) bentleri aşağıdaki şekilde değiştirilmiştir.
 “a) Ödenebilecek birim bedel aralığı: Kamu kurum iskontoları ile hesaplanan kamu fiyatı üzerinden iç referans grup/eşdeğer gruptaki ilaçların ortak en küçük birimi başına düşen “indirimli birim bedeller” karşılaştırılarak bulunan en ucuz birim bedele Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından tespit edilen oranın ilave edilmesiyle belirlenen ödenebilecek aralığı,” “i) İç referans grubu: Akılcı ilaç kullanımı çerçevesinde Sağlık Bakanlığının da yer aldığı bu Yönetmelik kapsamında oluşturulan komisyonlar tarafından belirlenen eşdeğer grupları da kapsayan grubu,” “p) İlaç pazar oranı: Hastalar ve eczaneler tarafından ilaca ulaşılabilirliği artırmak amacıyla Kurum tarafından ödemesi yapılan ilaçlardan; her bir ilacın kutu sayısının, içinde bulunduğu iç referans grup/eşdeğer gruptaki ilaçların toplam kutu sayısına oranını,”

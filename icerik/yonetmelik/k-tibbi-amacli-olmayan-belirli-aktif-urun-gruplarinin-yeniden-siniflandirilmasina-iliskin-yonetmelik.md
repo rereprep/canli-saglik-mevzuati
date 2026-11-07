@@ -19,7 +19,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç ve kapsam
 
@@ -37,7 +37,7 @@ Başlangıç Hükümleri
 
 ### İKİNCİ BÖLÜM
 
-Yeniden Sınıflandırma
+**Yeniden Sınıflandırma**
 
 #### Yeniden sınıflandırma
 
@@ -53,7 +53,7 @@ c) Tıbbi Cihaz Yönetmeliğinin Ek XVI’sının 6 ncı maddesinde atıfta bulu
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Avrupa Birliği mevzuatına uyum
 

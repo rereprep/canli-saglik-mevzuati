@@ -9,7 +9,7 @@ not: "Başlık kaynak listede kısaltılmış."
 durum: "yürürlükte"
 ---
 
-KAMU KURUM VE KURULUŞLARINA AİT YER, ARAÇ, BİNA VE TESİSLERDE TÜTÜN ÜRÜNÜ TÜKETENLERE VERİLECEK İDARİ YAPTIRIM KARARLARININ UYGULAMA USUL VE ESASLARI HAKKINDA TEBLİĞ
+**KAMU KURUM VE KURULUŞLARINA AİT YER, ARAÇ, BİNA VE TESİSLERDE TÜTÜN ÜRÜNÜ TÜKETENLERE VERİLECEK İDARİ YAPTIRIM KARARLARININ UYGULAMA USUL VE ESASLARI HAKKINDA TEBLİĞ**
 
 #### Amaç ve kapsam
 
@@ -128,7 +128,7 @@ e) Peşin ödemenin kişinin bu karara karşı kanun yoluna başvurma hakkını 
 | 3 - Kişinin imzadan kaçınması halinde bu durum tutanağın II.7 nolu bölümünde belirtilir. |
 | 4 - İdari para cezasının kesinleşmesini takiben ödenmemiş tutar 6183 sayılı Kanun uyarınca takip edilecektir. |
 
-Ek 2
+**Ek 2**
 
 | İDARİ YAPTIRIM KARAR DEFTERİ |
 | SIRA NUMARASI | KABAHATİN | KABAHATİ İŞLEYENİN | İDARİ YAPTIRIM KARARININ TEBLİĞİ/ TEFHİM TARİHİ | UYGULANAN İDARİ YAPTIRIM (İDARİ PARA CEZASI ) |

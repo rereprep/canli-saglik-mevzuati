@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-2.3.30. UKS ve Organ Nakli Merkezleri Yönergesi'nde Yer Alan Takip Formları Hakkında Genelge (2012/25)
+2.3.30. UKS ve Organ Nakli Merkezleri Yönergesi'nde Yer Alan **Takip Formları Hakkında Genelge (2012/25)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü

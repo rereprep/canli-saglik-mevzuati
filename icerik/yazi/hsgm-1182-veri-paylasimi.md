@@ -21,7 +21,7 @@ Sayı : E-19020089-115.01.99-310755411 08.04.2026 Konu : Veri Paylaşımı
 
 DAĞITIM YERLERİNE
 
-Tarım ve Orman Bakanlığı tarafından 02.08.2024 tarihli ve 32640 sayılı Resmî Gazete’de yayımlanan “Su Kurullarının Görevleri ile Çalışma Usul ve Esasları Hakkında Yönetmelik” kapsamında oluşturulan “İl Su Kurulları” toplantıları çerçevesinde il düzeyinde yürütülen çalışmaların değerlendirilmesi amacıyla İl Sağlık Müdürlüklerinden veri talebinde bulunulduğu bilgisi Bakanlığımıza iletilmiştir.
+Tarım ve Orman Bakanlığı tarafından 02.08.2024 tarihli ve 32640 sayılı Resmî Gazete’de yayımlanan <i>“Su Kurullarının Görevleri ile Çalışma Usul ve Esasları Hakkında Yönetmelik”</i> kapsamında oluşturulan “İl Su Kurulları” toplantıları çerçevesinde il düzeyinde yürütülen çalışmaların değerlendirilmesi amacıyla İl Sağlık Müdürlüklerinden veri talebinde bulunulduğu bilgisi Bakanlığımıza iletilmiştir.
 
 Bilindiği üzere, Bakanlığımızca sulara ilişkin yürütülen tüm iş ve işlemler Çevre Sağlığı Bilgi Sistemi (ÇSBS) üzerinden takip edilmekte olup, bu sistemde yer alan veriler; Bakanlığımız ile Tarım ve Orman Bakanlığı arasında 2019 yılında imzalanan ve 2020 yılında kapsamı genişletilerek güncellenen “Veri Paylaşımı ve İşbirliği Protokolü” kapsamında paylaşılmaktadır.
 

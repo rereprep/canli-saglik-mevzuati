@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 ve Sosyal Güvenlik Bakanlığından:
-İŞYERİ HEKİMİ VE DİĞER SAĞLIK PERSONELİNİN GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞYERİ HEKİMİ VE DİĞER SAĞLIK PERSONELİNİN GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 20/7/2013 tarihli ve 28713 sayılı Resmî Gazete’de yayımlanan İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 3 üncü maddesinde yer alan “30 uncu,” ibaresi “3 üncü, 24 üncü, 27 nci, 30 uncu ve 31 inci maddeleri ile” olarak değiştirilmiştir.
+**MADDE 1 –** 20/7/2013 tarihli ve 28713 sayılı Resmî Gazete’de yayımlanan İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 3 üncü maddesinde yer alan “30 uncu,” ibaresi “3 üncü, 24 üncü, 27 nci, 30 uncu ve 31 inci maddeleri ile” olarak değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (ç) bendinde yer alan “İşyeri hekimliği” ibaresi “İş güvenliği uzmanı, işyeri hekimi” olarak değiştirilmiş, (d) bendi aşağıdaki şekilde değiştirilmiş ve aynı fıkraya aşağıdaki bentler eklenmiştir.
 “d) Eğitim programı: Uzaktan, yüz yüze ve uygulamalı eğitimlerin tarih ve saatleri, eğiticileri, katılımcıları ile eğitim verilen adres gibi unsurlardan ve bu unsurlara ilişkin her türlü bilgi ve belgeden oluşan programı,” “h) İtiraz komisyonu: Bu Yönetmelik kapsamında hizmet veren kişi veya kurumların belgelerinin askıya alınma veya iptali ile ilgili itirazları değerlendirmek ve sonuçlandırmak üzere; İş Sağlığı ve Güvenliği Genel Müdürlüğünün bağlı bulunduğu Müsteşar Yardımcısının başkanlığında, İş Sağlığı ve Güvenliği Genel Müdürü ve ilgili Genel Müdür Yardımcısı, ilgili Daire Başkanları ile iş sağlığı ve güvenliği uzmanlarından üç üyeden oluşan komisyonu,
@@ -44,7 +44,7 @@ b) Çok tehlikeli sınıfta yer alan 50 ila 249 çalışanı olan işyerlerinde 
 c) Çok tehlikeli sınıfta yer alan 250 ve üzeri çalışanı olan işyerlerinde çalışan başına ayda en az 20 dakika.”
 
 
-MADDE 8 – Aynı Yönetmeliğin 21 inci maddesinin; birinci fıkrasının birinci cümlesiyle (e), (f) ve (g) bentleri aşağıdaki şekilde ve ikinci fıkrasında yer alan “(ç) ve (g)” ibaresi “(ç), (g) ve (h)” olarak değiştirilmiş, birinci fıkrasının (h) bendinde yer alan “İlgili mevzuata göre” ibaresi ve aynı maddenin dördüncü fıkrası yürürlükten kaldırılmıştır.
+**MADDE 8 –** Aynı Yönetmeliğin 21 inci maddesinin; birinci fıkrasının birinci cümlesiyle (e), (f) ve (g) bentleri aşağıdaki şekilde ve ikinci fıkrasında yer alan “(ç) ve (g)” ibaresi “(ç), (g) ve (h)” olarak değiştirilmiş, birinci fıkrasının (h) bendinde yer alan “İlgili mevzuata göre” ibaresi ve aynı maddenin dördüncü fıkrası yürürlükten kaldırılmıştır.
 “Eğitim kurumu yetki belgesi almak amacıyla, e-devlet sistemi üzerinden başvuru yapar. e-devlet sisteminin iki günden fazla çalışmadığı durumlarda doğrudan veya posta yoluyla başvuru yapılabilir.
 Başvuru dosyasında aşağıda belirtilen ekler bulunur:”
 “e) Faaliyet gösterilecek yere ait tapu senedi ile birlikte kira sözleşmesi veya intifa hakkı belgesi.

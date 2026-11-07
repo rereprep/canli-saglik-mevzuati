@@ -16,17 +16,17 @@ durum: "yürürlükte"
 
 ### İSPENÇİYARİ VE TIBBİ MÜSTAHZARLAR KANUNU[1]
 
-Kanun Numarası : 1262
+**Kanun Numarası : 1262**
 
-Kabul Tarihi : 14/5/1928
+**Kabul Tarihi : 14/5/1928**
 
-Yayımlandığı Resmî Gazete : Tarih: 26/5/1928 Sayı: 898
+**Yayımlandığı Resmî Gazete : Tarih: 26/5/1928 Sayı: 898**
 
 #### Yayımlandığı Düstur : Tertip: 3 Cilt: 9 Sayfa: 544
 
 **Madde 1 –** Kodekste muharrer şekil ve formül haricinde ve fenni kaidelere muvafık muayyen ve sabit bir şekilde yapılacak amilinin ismiyle veya hususi bir nam altında ticarete çıkarılan tababette müstamel her nevi basit ve mürekkep devai tertiplere ispençiyari ve tıbbi müstahzarlar ismi verilir.[2]
 
-Tabip reçetesiyle verilmesi meşrut olanlar ancak reçete mukabilinde ve diğerleri reçetesiz olarak münhasıran eczanelerle ecza ticarethanelerinde kanunu mahsusuna tevfikan satılır. (Son cümle mülga: 23/2/1994- 3977/4 md.)
+Tabip reçetesiyle verilmesi meşrut olanlar ancak reçete mukabilinde ve diğerleri reçetesiz olarak münhasıran eczanelerle ecza ticarethanelerinde kanunu mahsusuna tevfikan satılır. **(Son cümle mülga: 23/2/1994- 3977/4 md.)**
 
 **Madde 2 –** (Değişik: 4/1/1943- 4348/1 md.)
 
@@ -52,9 +52,9 @@ Aynı bendin III sayılı fıkrasında yazılı maddelerin Eczacılar ve Eczanel
 
 **Madde 5 –** (Değişik: 8/2/1954- 6243/1 md.)
 
-Türkiye'de ispençiyari ve tıbbi mevat ve müstahzarat imaline ve bu maksatla laboratuvar veya fabrika küşadına Türk tabip, eczacı ve kimyager ve ihtisaslarına taallük eden maddeler için de veteriner ve diş tabibi bir mesul müdürün mesuliyeti altında hakiki ve hükmi şahıslar salahiyettardır. (Ek cümle:21/2/2024-7496/5 md.) Salahiyete sahip hükmi şahıslarda aranacak vasıf ve şartlar Sağlık Bakanlığınca belirlenir.
+Türkiye'de ispençiyari ve tıbbi mevat ve müstahzarat imaline ve bu maksatla laboratuvar veya fabrika küşadına Türk tabip, eczacı ve kimyager ve ihtisaslarına taallük eden maddeler için de veteriner ve diş tabibi bir mesul müdürün mesuliyeti altında hakiki ve hükmi şahıslar salahiyettardır. **(Ek cümle:21/2/2024-7496/5 md.)** Salahiyete sahip hükmi şahıslarda aranacak vasıf ve şartlar Sağlık Bakanlığınca belirlenir.
 
-(Değişik fıkra:15/11/2018-7151/8 md.) İspençiyari ve tıbbi mevat ve müstahzaratın her türlü fenni ve İyi İmalat Uygulamaları şartlarını haiz, kâfi tesisatı muhtevi bir laboratuvar veya fabrikada ruhsatına veya iznine uygun olarak imali mecburidir.[4]
+**(Değişik fıkra:15/11/2018-7151/8 md.)** İspençiyari ve tıbbi mevat ve müstahzaratın her türlü fenni ve İyi İmalat Uygulamaları şartlarını haiz, kâfi tesisatı muhtevi bir laboratuvar veya fabrikada ruhsatına veya iznine uygun olarak imali mecburidir.[4]
 
 İspençiyari ve tıbbi mevat va müstahzarat laboratuvar ve fabrikaları Sağlık Bakanlığının teftiş ve murakabesine tabidir.[5]
 
@@ -78,7 +78,7 @@ E) Formülüne uygun ve bildirilen tedavi vasıflarını haiz olması; 8
 
 F) Fiyatının muvafık ve isminin uygun bulunması.
 
-Müstahzarın tabip reçetesiyle veya reçeteye lüzum olmadan serbestçe satılması hususu vekaletçe tayin ve ruhsatnamede zikredilir. Bu kanun mucibince yapılmasına izin verilen müstahzarların isimleri Resmi Gazete ile ilan edilir. (Mülga cümle:21/2/2024-7496/7 md.) [9]
+Müstahzarın tabip reçetesiyle veya reçeteye lüzum olmadan serbestçe satılması hususu vekaletçe tayin ve ruhsatnamede zikredilir. Bu kanun mucibince yapılmasına izin verilen müstahzarların isimleri Resmi Gazete ile ilan edilir. **(Mülga cümle:21/2/2024-7496/7 md.)** [9]
 
 #### Sağlık Bakanlığı piyasa icaplarına göre müstahzar fiyatlarının tadilini istiyebilir. 8
 
@@ -86,7 +86,7 @@ Müstahzarın tabip reçetesiyle veya reçeteye lüzum olmadan serbestçe satıl
 
 Ecnebi memleketlerden getirilen müstahzarlar için müsaade talebi ancak Türkiye dahilinde sanat icrasına mezun eczane ve ecza ticarethaneleri sahipleri veya işbu müstahzarları imal eden fabrika va laboratuvarların Türkiye'de oturan vekilleri tarafından vakı olduğu takdirde kabul olunur.Bu gibi müstahzarlar için dahili müstahzarlar gibi müsaade istihsali zımnında istida ile Sıhhat ve İçtimai Muavenet Vekaletine müracaat edilir.[10]
 
-Verilen istida ile beraber müstahzarın imal mahalli, Türkiye konsolosluklarınca tasdikli formülleri, tarifnameleri ve mahreci olan memlekette serbest veya reçete ile satılmasına dair müsaade mevcutsa bu müsaadenin tasdikli bir sureti (…)[11] vekalete tevdi edilir. (Mülga cümle:21/2/2024-7496/8 md.) İşbu istida 7 nci maddede yazıldığı şekilde muamele görerek müsaade edileceklerin gümrüklerce ithali temin edilir ve Resmi Gazete ile isimleri ilan olunur.[12]
+Verilen istida ile beraber müstahzarın imal mahalli, Türkiye konsolosluklarınca tasdikli formülleri, tarifnameleri ve mahreci olan memlekette serbest veya reçete ile satılmasına dair müsaade mevcutsa bu müsaadenin tasdikli bir sureti (…)[11] vekalete tevdi edilir. **(Mülga cümle:21/2/2024-7496/8 md.)** İşbu istida 7 nci maddede yazıldığı şekilde muamele görerek müsaade edileceklerin gümrüklerce ithali temin edilir ve Resmi Gazete ile isimleri ilan olunur.[12]
 
 Müstahzar fabrikaları ve laboratuvarlarının vekilleri eczacı veya hususi kanuna göre müsaadesi alınmış bir ecza ticarethanesine sahip olmadıkları takdirde iş gördükleri yerlerde vekaletini haiz oldukları fabrika ve laboratuvar müstahzarlarından nümune olarak gösterilecek veya dağıtılacak miktardan fazla bulunduramazlar.Fazla miktarda bulundurmak istedikleri takdirde ecza ticarethaneleri hakkındaki 984 sayılı kanun hükümleri dairesinde eczacı bir mesul müdür istihdamına mecburdurlar.
 
@@ -130,7 +130,7 @@ Fiillerin tekrarı hâlinde verilecek idari para cezası, daha önce verilen cez
 
 **Madde 19 –** (Değişik: 23/1/2008-5728/43 md.)
 
-(Değişik birinci fıkra: 2/1/2014-6514/32 md.) Ruhsatsız olarak müstahzar imal edenler veya bu şekilde imal edilen müstahzarları bilerek satan, satışa arz eden veya sattıranlar, bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. Bu müstahzarların kendilerine atfedilen tedavi vasıflarını haiz olmadığı veya bu vasıfları azaltacak veya kaybedecek şekilde veya saf olmayan maddelerden imal edildiği anlaşıldığı takdirde ceza üçte bir oranında artırılır. Müstahzar olmamakla beraber hastalıkları teşhis veya tedavi ettiği beyanı ile herhangi bir ürünün satışını, pazarlamasını veya reklamını yapanlar bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. Ayrıca bunların tanıtım veya satışlarının internet veya başkaca herhangi bir elektronik ortam üzerinden yapılması hâlinde 18 inci maddenin üçüncü fıkrası uygulanır.[16]
+**(Değişik birinci fıkra: 2/1/2014-6514/32 md.)** Ruhsatsız olarak müstahzar imal edenler veya bu şekilde imal edilen müstahzarları bilerek satan, satışa arz eden veya sattıranlar, bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. Bu müstahzarların kendilerine atfedilen tedavi vasıflarını haiz olmadığı veya bu vasıfları azaltacak veya kaybedecek şekilde veya saf olmayan maddelerden imal edildiği anlaşıldığı takdirde ceza üçte bir oranında artırılır. Müstahzar olmamakla beraber hastalıkları teşhis veya tedavi ettiği beyanı ile herhangi bir ürünün satışını, pazarlamasını veya reklamını yapanlar bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. Ayrıca bunların tanıtım veya satışlarının internet veya başkaca herhangi bir elektronik ortam üzerinden yapılması hâlinde 18 inci maddenin üçüncü fıkrası uygulanır.[16]
 
 Memleket dışında yapılmış müstahzarları ruhsatsız olarak ticaret amacıyla ithal etmek veya bunların özelliklerini bilerek satmak veya satışa arz etmek veya sattırmak kaçakçılıktır. Bu fıkrada yazılı suçları işleyenler hakkında Kaçakçılıkla Mücadele Kanunu hükümleri tatbik olunur.
 
@@ -144,7 +144,7 @@ Bu Kanunda yazılı olan idarî para cezalarına ve diğer idarî yaptırımlara
 
 **Ek Madde 1 –** (6/2/1930- 1557/1 md. ile gelen numarasız md. hükmü olup, teselsül için numaralandırılmıştır.)
 
-Yerli müstahzarların amilleri veya mes'ul müdürleri ve ecnebi memleketlerden giren müstahzarları yapan fabrika veya laboratuvarın Türkiye'de mütemekkin vekilleri vefat ettikleri takdirde verilmiş olan ruhsatnamelerin hükmü kalmaz. Yerli müstahzar amil veya mes'ul müdürlerinin mirasçıları müstahzar yapmağa salahiyetli iseler doğrudan doğruya kendi namlarına ve salahiyet sahibi olmadıkları takdirde bunları yapabilecek salahiyetli bir mes'ul müdür göstererek yeniden ruhsatname alırlar. Ecnebi fabrika ve laboratuvarların gösterecekleri yeni vekilleri de ayni mecburiyete tabidirler. (Mülga cümle:21/2/2024-7496/13 md.)
+Yerli müstahzarların amilleri veya mes'ul müdürleri ve ecnebi memleketlerden giren müstahzarları yapan fabrika veya laboratuvarın Türkiye'de mütemekkin vekilleri vefat ettikleri takdirde verilmiş olan ruhsatnamelerin hükmü kalmaz. Yerli müstahzar amil veya mes'ul müdürlerinin mirasçıları müstahzar yapmağa salahiyetli iseler doğrudan doğruya kendi namlarına ve salahiyet sahibi olmadıkları takdirde bunları yapabilecek salahiyetli bir mes'ul müdür göstererek yeniden ruhsatname alırlar. Ecnebi fabrika ve laboratuvarların gösterecekleri yeni vekilleri de ayni mecburiyete tabidirler. **(Mülga cümle:21/2/2024-7496/13 md.)**
 
 **Ek Madde 2 –** (16/12/1940- 3940 sayılı Kanunun 1 inci maddesi hükmü olup, ek madde olarak numarası teselsül ettirilmiştir.; Mülga: 11/6/2010-5996/47 md.)
 
@@ -201,38 +201,38 @@ Bu maddenin yürürlüğe girdiği tarihten önce beşerî ilaçların fiyatland
 | 7496 | 5, 6, 7, 8, 9, 10, 12, 15, Ek Madde 1 | 1/3/2024 |
 | 7557 | Ek Madde 8 | 24/7/2025 |
 
-<small>[1] Bu Kanunun harçlara dair hükümleri, 25/2/1952 tarih ve 5887 sayılı Kanunun 126 ncı maddesi ile yürürlükten kaldırılmıştır.</small>
+<small>[1] <i>Bu Kanunun harçlara dair hükümleri, 25/2/1952 tarih ve 5887 sayılı Kanunun 126 ncı maddesi ile yürürlükten kaldırılmıştır.</i></small>
 
-<small>[2] Bu Kanunun kapsamının genişletilmesiyle ilgili olarak Ek 2 nci maddeye bakınız.</small>
+<small>[2] <i>Bu Kanunun kapsamının genişletilmesiyle ilgili olarak Ek 2 nci maddeye bakınız.</i></small>
 
-<small>[3] 23/2/1994 tarih ve 3977 sayılı Kanunun 4 üncü maddesi ile parantez içindeki "Saç suları ve boyaları,diş tozları,suları ve macunlarından maada "ibaresi yürürlükten kaldırılmıştır.</small>
+<small>[3] <i>23/2/1994 tarih ve 3977 sayılı Kanunun 4 üncü maddesi ile parantez içindeki "Saç suları ve boyaları,diş tozları,suları ve macunlarından maada "ibaresi yürürlükten kaldırılmıştır.</i></small>
 
-<small>[4] 21/2/2024 tarihli ve 7496 sayılı Kanunun 5 inci maddesiyle bu fıkraya “fabrikada” ibaresinden sonra gelmek üzere “ruhsatına veya iznine uygun olarak” ibaresi eklenmiştir.</small>
+<small>[4] <i>21/2/2024 tarihli ve 7496 sayılı Kanunun 5 inci maddesiyle bu fıkraya “fabrikada” ibaresinden sonra gelmek üzere “ruhsatına veya iznine uygun olarak” ibaresi eklenmiştir.</i></small>
 
-<small>[5] 21/2/2024 tarihli ve 7496 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “Sağlık ve Sosyal Yardım Vekaletinin” ibaresi “Sağlık Bakanlığının” şeklinde değiştirilmiştir.</small>
+<small>[5] <i>21/2/2024 tarihli ve 7496 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “Sağlık ve Sosyal Yardım Vekaletinin” ibaresi “Sağlık Bakanlığının” şeklinde değiştirilmiştir.</i></small>
 
-<small>[6] 21/2/2024 tarihli ve 7496 sayılı Kanunun 6 ncı maddesiyle bu maddenin birinci cümlesinde yer alan “Sıhhat ve İçtimai Muavenet Vekaletine” ibaresi “Sağlık Bakanlığına” şeklinde değiştirilmiş ve ikinci cümlesinde yer alan “müstahzarlardan beş numune ve”, “numune” ve “ve müstahzarın toptan ve perakende satış fiyatları da bildirilir” ibareleri madde metninden çıkarılmıştır.</small>
+<small>[6] <i>21/2/2024 tarihli ve 7496 sayılı Kanunun 6 ncı maddesiyle bu maddenin birinci cümlesinde yer alan “Sıhhat ve İçtimai Muavenet Vekaletine” ibaresi “Sağlık Bakanlığına” şeklinde değiştirilmiş ve ikinci cümlesinde yer alan “müstahzarlardan beş numune ve”, “numune” ve “ve müstahzarın toptan ve perakende satış fiyatları da bildirilir” ibareleri madde metninden çıkarılmıştır.</i></small>
 
-<small>[7] 15/11/2018 tarihli ve 7151 sayılı Kanunun 9 uncu maddesiyle bu fıkrada yer alan “nümuneler Sıhhat ve İçtimai Muavenet Vekaletince” ibaresi “numuneler Sağlık Bakanlığınca veya Sağlık Bakanlığınca yetkilendirilen laboratuvarlarda” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>15/11/2018 tarihli ve 7151 sayılı Kanunun 9 uncu maddesiyle bu fıkrada yer alan “nümuneler Sıhhat ve İçtimai Muavenet Vekaletince” ibaresi “numuneler Sağlık Bakanlığınca veya Sağlık Bakanlığınca yetkilendirilen laboratuvarlarda” şeklinde değiştirilmiştir.</i></small>
 
-<small>[8] 21/2/2024 tarihli ve 7496 sayılı Kanunun 7 nci maddesiyle bu maddenin birinci fıkrasında yer alan “ve numuneler Sağlık Bakanlığınca veya Sağlık Bakanlığınca yetkilendirilen laboratuvarlarda tetkik ve tahlil” ibaresi “tetkik” şeklinde, (E) bendinde yer alan “Tahlil ve tetkik neticesinde formülüne” ibaresi “Formülüne” şeklinde ve üçüncü fıkrasında yer alan “Sıhhat ve İçtimai Muavenet Vekaleti” ibaresi “Sağlık Bakanlığı” şeklinde değiştirilmiştir.</small>
+<small>[8] <i>21/2/2024 tarihli ve 7496 sayılı Kanunun 7 nci maddesiyle bu maddenin birinci fıkrasında yer alan “ve numuneler Sağlık Bakanlığınca veya Sağlık Bakanlığınca yetkilendirilen laboratuvarlarda tetkik ve tahlil” ibaresi “tetkik” şeklinde, (E) bendinde yer alan “Tahlil ve tetkik neticesinde formülüne” ibaresi “Formülüne” şeklinde ve üçüncü fıkrasında yer alan “Sıhhat ve İçtimai Muavenet Vekaleti” ibaresi “Sağlık Bakanlığı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[9] Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.</small>
+<small>[9] <i>Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.</i></small>
 
-<small>[10] Bu hükmün uygulanmasında ek 7 inci maddeye bakınız.</small>
+<small>[10] <i>Bu hükmün uygulanmasında ek 7 inci maddeye bakınız.</i></small>
 
-<small>[11] 21/2/2024 tarihli ve 7496 sayılı Kanunun 8 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “ve beş numune” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[11] <i>21/2/2024 tarihli ve 7496 sayılı Kanunun 8 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “ve beş numune” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[12] Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.</small>
+<small>[12] <i>Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.</i></small>
 
-<small>[13] 21/2/2024 tarihli ve 7496 sayılı Kanunun 9 uncu maddesiyle bu fıkrada yer alan “Sıhhat ve İçtimai Muavenet Vekaletine” ibaresi “Sağlık Bakanlığına” şeklinde, “nihayet iki ay zarfında” ibaresi “mevzuatına uygun olarak” şeklinde, “cevap verilir” ibaresi “ruhsatname düzenlenir” şeklinde değiştirilmiştir.</small>
+<small>[13] <i>21/2/2024 tarihli ve 7496 sayılı Kanunun 9 uncu maddesiyle bu fıkrada yer alan “Sıhhat ve İçtimai Muavenet Vekaletine” ibaresi “Sağlık Bakanlığına” şeklinde, “nihayet iki ay zarfında” ibaresi “mevzuatına uygun olarak” şeklinde, “cevap verilir” ibaresi “ruhsatname düzenlenir” şeklinde değiştirilmiştir.</i></small>
 
-<small>[14] 21/2/2024 tarihli ve 7496 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “ve bedeli tesviye olunmak üzere laalettayin alınacak numunelerin tahlili suretiyle Sıhhiye ve Muaveneti İçtimaiye Vekaleti” ibaresi “rastgele alınacak numunelerin, numune ve tahlil masrafları ruhsat sahibi tarafından karşılanmak üzere tahlili suretiyle Sağlık Bakanlığı” şeklinde değiştirilmiştir.</small>
+<small>[14] <i>21/2/2024 tarihli ve 7496 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “ve bedeli tesviye olunmak üzere laalettayin alınacak numunelerin tahlili suretiyle Sıhhiye ve Muaveneti İçtimaiye Vekaleti” ibaresi “rastgele alınacak numunelerin, numune ve tahlil masrafları ruhsat sahibi tarafından karşılanmak üzere tahlili suretiyle Sağlık Bakanlığı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[15] 21/2/2024 tarihli ve 7496 sayılı Kanunun 11 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “ve fiyatı” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[15] <i>21/2/2024 tarihli ve 7496 sayılı Kanunun 11 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “ve fiyatı” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[16] 15/11/2018 tarihli ve 7151 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “ve” ibaresi “veya” şeklinde değiştirilmiştir.</small>
+<small>[16] <i>15/11/2018 tarihli ve 7151 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “ve” ibaresi “veya” şeklinde değiştirilmiştir.</i></small>
 
-<small>[17] 2/7/2018 tarihli ve 698 sayılı KHK’nin 3 üncü maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</small>
+<small>[17] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 3 üncü maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[18] Bu maddede atıfta bulunulan ek 1 inci maddenin numarası teselsül nedeniyle ek madde 4 olmuştur.</small>
+<small>[18] <i>Bu maddede atıfta bulunulan ek 1 inci maddenin numarası teselsül nedeniyle ek madde 4 olmuştur.</i></small>

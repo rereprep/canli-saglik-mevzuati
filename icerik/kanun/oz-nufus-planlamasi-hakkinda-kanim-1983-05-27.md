@@ -13,19 +13,19 @@ durum: "yürürlükte"
 
 ### NÜFUS PLANLAMASI HAKKINDA KANUN
 
-Kanun Numarası : 2827
+**Kanun Numarası : 2827**
 
-Kabul Tarihi : 24/5/1983
+**Kabul Tarihi : 24/5/1983**
 
-Yayımlandığı Resmî Gazete : Tarih: 27/5/1983 Sayı: 18059
+**Yayımlandığı Resmî Gazete : Tarih: 27/5/1983 Sayı: 18059**
 
-Yayımlandığı Düstur : Tertip: 5 Cilt: 22 Sayfa: 352
+**Yayımlandığı Düstur : Tertip: 5 Cilt: 22 Sayfa: 352**
 
-Amaç:
+**Amaç:**
 
 **Madde 1 –** Bu Kanunun amacı, nüfus planlaması esaslarını, gebeliğin sona erdirilmesi ve sterilizasyon ameliyelerini, acil müdahale halleri ile gebeliği önleyici ilaç ve araçların temin, imal ve saptanmasına ilişkin hususları düzenlemektir.
 
-Nüfus planlaması:
+**Nüfus planlaması:**
 
 **Madde 2 –** Nüfus planlaması, fertlerin istedikleri sayıda ve istedikleri zaman çocuk sahibi olmaları demektir.
 
@@ -35,7 +35,7 @@ Gebeliğin sona erdirilmesi ve sterilizasyon, Devletin gözetim ve denetimi alt�
 
 Bu Kanunun öngördüğü haller dışında gebelik sona erdirilemez ve sterilizasyon veya kastrasyon ameliyesi yapılamaz.
 
-Nüfus planlamasıyla ilgili eğitim, öğretim ve uygulama hizmetleri:
+**Nüfus planlamasıyla ilgili eğitim, öğretim ve uygulama hizmetleri:**
 
 **Madde 3 –** Nüfus planlaması zaruretinin halka duyurulması ve bu hususlarla ilgili eğitim, öğretim ve uygulama hizmetleri Cumhurbaşkanınca yürürlüğe konulacak yönetmelik esaslarına göre, Sağlık ve Sosyal Yardım Bakanlığınca; üniversiteler, Türkiye Radyo - Televizyon Kurumu ile sosyal güvenlik kurumları, tüm kamu kurum ve kuruluşları, kamu kurumu niteliğindeki ilgili meslek kuruluşları ve gönüllü kuruluşlarla işbirliği yapılarak yerine getirilir.[1]
 
@@ -47,7 +47,7 @@ Komisyonun kuruluş ve işleyişi, gebeliğin önlenmesine ilişkin yöntemler v
 
 Hekim, hemşire ve ebeler özel kanunlardaki şartlara bağlı olmaksızın bu yönetmelikle belirtilen şartlara uygun olarak gebeliği önleyici yöntemleri uygularlar.
 
-Sterilizasyon ve kastrasyon:
+**Sterilizasyon ve kastrasyon:**
 
 **Madde 4 –** Sterilizasyon, bir erkek veya kadının çocuk yapma kabiliyetinin cinsi ihtiyaçlarını tatmine mani olmadan izalesi için yapılan müdahale demektir.
 
@@ -55,7 +55,7 @@ Sterilizasyon ameliyatı, tıbbi sakınca olmadığı takdirde reşit kişinin i
 
 Bir ameliyatın seyri sırasında tıbbi zaruret nedeniyle bir hastalığın tedavisi için kastrasyonu gerektiren hallerde, kişinin rızasına bakılmaksızın kastrasyon ameliyesi yapılabilir.
 
-Gebeliğin sona erdirilmesi:
+**Gebeliğin sona erdirilmesi:**
 
 **Madde 5 –** Gebeliğin onuncu haftası doluncaya kadar annenin sağlığı açısından tıbbi sakınca olmadığı takdirde istek üzerine rahim tahliye edilir.
 
@@ -65,7 +65,7 @@ Derhal müdahale edilmediği takdirde hayatı veya hayati organlardan birisini t
 
 Acil müdahale hallerinin nelerden ibaret olduğu ve yapılacak ihbarın şekil ve mahiyeti ile sterilizasyon ve rahim tahliyesini kabul edenlerden istenilecek izin belgesinin şekli ve doldurulma esasları, bunların yapılacağı yerler, bu yerlerde bulunması gereken sağlık ve diğer koşullar ve bu yerlerin denetimi ve gözetimi ile ilgili hususlar çıkarılacak yönetmelikte belirtilir.[2]
 
-Gebeliğin sona erdirilmesinde izin:
+**Gebeliğin sona erdirilmesinde izin:**
 
 **Madde 6 –** 5 inci maddede belirtilen müdahale, gebe kadının iznine, küçüklerde küçüğün rızası ile velinin iznine, vesayet altında bulunup da reşit veya mümeyyiz olmayan kişilerde reşit olmayan kişinin ve vasinin rızası ile birlikte sulh hakiminin izin vermesine bağlıdır. Ancak akıl maluliyeti nedeni ile şuur serbestisine sahip olmayan gebe kadın hakkında rahim tahliyesi için kendi rızası aranmaz.
 
@@ -73,7 +73,7 @@ Gebeliğin sona erdirilmesinde izin:
 
 Veli veya sulh mahkemesinden izin alma zamana ihtiyaç gösterdiği ve derhal müdahale edilmediği takdirde hayatı veya hayati organlardan birisini tehdit eden acil hallerde izin şart değildir.
 
-İlaç ve araçların imal, reklam ve propagandasıyla ilgili hükümlere aykırı eylemler:
+**İlaç ve araçların imal, reklam ve propagandasıyla ilgili hükümlere aykırı eylemler:**
 
 **Madde 7 –** (Değişik: 23/1/2008/-5728/400 md.)
 
@@ -81,7 +81,7 @@ Sağlık ve Sosyal Yardım Bakanlığınca bu Kanunun 3 üncü maddesine göre g
 
 Sağlık ve Sosyal Yardım Bakanlığınca bu Kanunun 3 üncü maddesine göre gebeliği önleyici nitelikte oldukları kabul edilen ilaç ve araçların reklam ve propagandası 14/5/1928 tarihli ve 1262 sayılı Kanunun 13 üncü maddesine göre yapılır. Buna aykırı hareket edenler bir yıla kadar hapis ve adlî para cezası ile cezalandırılır.
 
-Saptanmamış ilaç ve araçların kullanılması:
+**Saptanmamış ilaç ve araçların kullanılması:**
 
 **Madde 8 –** (Değişik: 23/1/2008/-5728/401 md.)
 
@@ -89,11 +89,11 @@ Bu Kanunun 3 üncü maddesinin üçüncü fıkrasına aykırı hareket eden kiş
 
 Bu Kanunun 3 üncü maddesinin beşinci fıkrası hükümlerine aykırı hareket edenlere, filleri suç oluşturmadığı takdirde mahallî mülkî amir tarafından ikiyüz Türk Lirası idarî para cezası verilir.
 
-Değiştirilen kanun hükümleri:
+**Değiştirilen kanun hükümleri:**
 
 **Madde 9 –** 12 – (Bu maddeler 1/3/1926 tarih ve 765 sayılı Türk Ceza Kanununun ikinci kitabının dokuzuncu babının dördüncü faslının başlığı ile 468, 470 ve 471 inci maddeleri ile 469 uncu maddesinin birinci fıkrasının değiştirilmesi ile ilgili olup mezkür kanundaki yerlerine işlenmişlerdir.)
 
-Yürürlükten kaldırılan kanun ve hükümler:
+**Yürürlükten kaldırılan kanun ve hükümler:**
 
 **Madde 13 –** 1/4/1965 tarih ve 557 sayılı Nüfus Planlaması Hakkında Kanun ile 1/3/1926 tarih ve 765 sayılı Türk Ceza Kanununun 472 nci maddesinin ikinci fıkrası yürürlükten kaldırılmıştır.
 
@@ -101,11 +101,11 @@ Yürürlükten kaldırılan kanun ve hükümler:
 
 Bu Kanunun yayımı tarihinden itibaren en geç üç ay içinde düzenlenerek yürürlüğe konulacak olan tüzük ile yönetmelikler yürürlüğe girinceye kadar, 557 sayılı Nüfus Planlaması Hakkında Kanun hükümleri uyarınca yürürlüğe konulmuş bulunan Tıbbi Zaruret Halinde Gebeliğin Sona Erdirilmesi ve Sterilizasyon Yapılması Hakkında Tüzük ile Nüfus Planlaması Yönetmeliği ve Nüfus Planlaması Genel Müdürlüğü Hizmetiçi Eğitim Faaliyetleri Yönetmeliğinin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 
-Yürürlük:
+**Yürürlük:**
 
 **Madde 14 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-Yürütme:
+**Yürütme:**
 
 **Madde 15 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
@@ -119,6 +119,6 @@ Yürütme:
 | 5728 | 7, 8 | 8/2/2008 |
 | KHK/700 | 3, 5 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 
-<small>[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 73 üncü maddesiyle, bu fıkrada yer alan “Sağlık ve Sosyal Yardım Bakanlığının koordinatörlüğünde, Milli Savunma, Milli Eğitim ve Sosyal Güvenlik Bakanlıklarınca birlikte hazırlanarak Bakanlar Kurulu kararı ile” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 73 üncü maddesiyle, bu fıkrada yer alan “Sağlık ve Sosyal Yardım Bakanlığının koordinatörlüğünde, Milli Savunma, Milli Eğitim ve Sosyal Güvenlik Bakanlıklarınca birlikte hazırlanarak Bakanlar Kurulu kararı ile” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 73 üncü maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 73 üncü maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</i></small>

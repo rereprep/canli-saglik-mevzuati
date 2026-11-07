@@ -9,41 +9,41 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI
 
-Tedavi Hizmetleri Genel Müdürlüğü 11.04.1928 Tarih ve 1219 sayılı Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanunun 41 inci Maddesinin değiştirilmesi ve bu Kanuna 7 Ek ve 3 Geçici Madde Eklenmesi hakkındaki Kanun... Kanun No: 3575 Kabul Tarihi: 14.06.1989 
+Tedavi Hizmetleri Genel Müdürlüğü 11.04.1928 Tarih ve 1219 sayılı Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanunun 41 inci Maddesinin değiştirilmesi ve bu Kanuna 7 Ek ve 3 Geçici Madde Eklenmesi hakkındaki Kanun... **Kanun No: 3575 Kabul Tarihi: 14.06.1989** 
 
-MADDE 1. – 11.04.1928 tarih ve 1219 sayılı Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanunun 41 inci maddesi aşağıdaki şekilde değiştirilmiştir. 
+**MADDE 1. –** 11.04.1928 tarih ve 1219 sayılı Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanunun 41 inci maddesi aşağıdaki şekilde değiştirilmiştir. 
 
-MADDE 41. – Kişisel çıkar amacı olmasa bile diplomasiz olarak diş hekimliği mesleğine ilişkin herhangi bir muayene veya müdahale yapan, diş hekimliği klinik hizmetleri ile ilgili iş yeri açan, diş hekimliği veya diş protez teknisyenliği ile ilgili ağız ve çene yüz protezleri ile ortodontik tedavi aygıtlarını imal eden veya imal ederek satan kimselerin, meslek icrası durdurulur, iş yerlerinde bulundurdukları diş hekimliği ile ilgili araç ve gereçleri müsadere olunur ve bir yıldan üç yıla kadar hapis cezasına hükmolunur. Bu suretle meslek icrası sonunda Türk Ceza Kanunu itibarı ile daha ağır cezayı müstelzim bir fiil işlenmiş olduğu takdirde, o fiile mahsus ceza verilir. 
+**MADDE 41. –** Kişisel çıkar amacı olmasa bile diplomasiz olarak diş hekimliği mesleğine ilişkin herhangi bir muayene veya müdahale yapan, diş hekimliği klinik hizmetleri ile ilgili iş yeri açan, diş hekimliği veya diş protez teknisyenliği ile ilgili ağız ve çene yüz protezleri ile ortodontik tedavi aygıtlarını imal eden veya imal ederek satan kimselerin, meslek icrası durdurulur, iş yerlerinde bulundurdukları diş hekimliği ile ilgili araç ve gereçleri müsadere olunur ve bir yıldan üç yıla kadar hapis cezasına hükmolunur. Bu suretle meslek icrası sonunda Türk Ceza Kanunu itibarı ile daha ağır cezayı müstelzim bir fiil işlenmiş olduğu takdirde, o fiile mahsus ceza verilir. 
 
-MADDE 2. – 11.04.1928 tarih ve 1219 sayılı Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanuna aşağıdaki maddeler eklenmiştir. 
+**MADDE 2. –** 11.04.1928 tarih ve 1219 sayılı Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanuna aşağıdaki maddeler eklenmiştir. 
 
-EK 
+**EK** 
 
-MADDE 4. – Diş protez teknisyenliği, diş hekimi eliyle hastadan elde edilen ölçü model ve kayıtlar üzerinde meslek bilgisinin gerektirdiği kurallara bağlı kalarak ve diş hekiminin vereceği bilgilerle istekler dikkate alınarak, ağız protezleri, çene yüz protezleri, ortodontik aygıtlar yapmak ve gerektiğinde yapılmış protezlerle aygıtlari onarmak işlemleri ile sınırlıdır. 
+**MADDE 4. –** Diş protez teknisyenliği, diş hekimi eliyle hastadan elde edilen ölçü model ve kayıtlar üzerinde meslek bilgisinin gerektirdiği kurallara bağlı kalarak ve diş hekiminin vereceği bilgilerle istekler dikkate alınarak, ağız protezleri, çene yüz protezleri, ortodontik aygıtlar yapmak ve gerektiğinde yapılmış protezlerle aygıtlari onarmak işlemleri ile sınırlıdır. 
 
-EK 
+**EK** 
 
-MADDE 5. – Türkiye Cumhuriyeti dahilinde diş protez teknisyenliği unvanını taşımak ve mesleğini icra edebilmek için, Sağlık Bakanlığı bünyesinde veya denetiminde açılan sağlık meslek liseleri diş protez teknisyenliği bölümünü bitirmek ve diploma almak ya da hareketli protezler, sabit protezler, çene yüz protezleri, ortodonti aygıtları veya diş protez maddeleri üretimi dallarında yüksek eğitim ve öğretim veren, Sağlık Bakanlığının sağlık meslek liseleri diş protez teknisyenliği bölümü mezunlarını öğrenci olarak kabul eden üniversitelerin, en az iki yıllık diş protez teknisyenliği ile ilgili meslek yüksekokullarında eğitim görmek ve mezuniyet diploması almak gerekir. 
+**MADDE 5. –** Türkiye Cumhuriyeti dahilinde diş protez teknisyenliği unvanını taşımak ve mesleğini icra edebilmek için, Sağlık Bakanlığı bünyesinde veya denetiminde açılan sağlık meslek liseleri diş protez teknisyenliği bölümünü bitirmek ve diploma almak ya da hareketli protezler, sabit protezler, çene yüz protezleri, ortodonti aygıtları veya diş protez maddeleri üretimi dallarında yüksek eğitim ve öğretim veren, Sağlık Bakanlığının sağlık meslek liseleri diş protez teknisyenliği bölümü mezunlarını öğrenci olarak kabul eden üniversitelerin, en az iki yıllık diş protez teknisyenliği ile ilgili meslek yüksekokullarında eğitim görmek ve mezuniyet diploması almak gerekir. 
 
-EK 
+**EK** 
 
-MADDE 6. – Öğrenimlerini yurt dışında diş protez teknisyenliği ile ilgili devletçe tanınan bir okulda tamamlayarak Türkiye’ye dönüş yapanlar, denklikleri Sağlık Bakanlığınca onaylandığı takdirde, eksikleri varsa Türkiye’deki diş protez teknisyenliği okullarında eksik kısım ve süreleri başarı ile tamamladıktan sonra onaylanmak suretiyle mesleklerini icra edebilirler ve diş protez teknisyeni unvanını kullanabilirler. 
+**MADDE 6. –** Öğrenimlerini yurt dışında diş protez teknisyenliği ile ilgili devletçe tanınan bir okulda tamamlayarak Türkiye’ye dönüş yapanlar, denklikleri Sağlık Bakanlığınca onaylandığı takdirde, eksikleri varsa Türkiye’deki diş protez teknisyenliği okullarında eksik kısım ve süreleri başarı ile tamamladıktan sonra onaylanmak suretiyle mesleklerini icra edebilirler ve diş protez teknisyeni unvanını kullanabilirler. 
 
-EK 
+**EK** 
 
-MADDE 7. – Diş protez teknisyenleri; sahip oldukları diploma veya belgelerin hak kazandırdığı unvanlardan başkalarını kullanamazlar, hastalarla doğrudan doğruya mesleki ilişkiye giremezler, laboratuvarlarında münhasıran dis kliniklerinde kullanılması gereken araç ve gereçleri bulunduramazlar, Ek 4 üncü maddenin belirlediği sınırlar disinda herhangi bir çalışma yapamazlar tavsiyede bulunamazlar.
+**MADDE 7. –** Diş protez teknisyenleri; sahip oldukları diploma veya belgelerin hak kazandırdığı unvanlardan başkalarını kullanamazlar, hastalarla doğrudan doğruya mesleki ilişkiye giremezler, laboratuvarlarında münhasıran dis kliniklerinde kullanılması gereken araç ve gereçleri bulunduramazlar, Ek 4 üncü maddenin belirlediği sınırlar disinda herhangi bir çalışma yapamazlar tavsiyede bulunamazlar.
 
-EK 
+**EK** 
 
-MADDE 8. – Diploması veya meslek belgesi olmaksızın diş protez teknisyenliği mesleğini icra edenlerle, Ek 7 nci madde hükümlerine aykırı davranışta bulunan diş protez teknisyenleri hakkında, bir yıldan üç yıla kadar hapis cezasına hükmolunur. Ayrıca iş yerlerinde meslekleri ile ilgili olmadığı tespit edilen araç ve gereçler müsadere edilir. 
+**MADDE 8. –** Diploması veya meslek belgesi olmaksızın diş protez teknisyenliği mesleğini icra edenlerle, Ek 7 nci madde hükümlerine aykırı davranışta bulunan diş protez teknisyenleri hakkında, bir yıldan üç yıla kadar hapis cezasına hükmolunur. Ayrıca iş yerlerinde meslekleri ile ilgili olmadığı tespit edilen araç ve gereçler müsadere edilir. 
 
-EK 
+**EK** 
 
-MADDE 9. – Diş hekimleri, kendi klinik hastalarının protezlerini yapabilmek için diş protez laboratuvarı açabilirler. Ancak bu laboratuvarlarda başka hekimlerin her türlü protez yapımı isteklerini karşılama durumunda laboratuvar sorumlusu olarak en az bir diş protez teknisyeni istihdam etmek zorundadırlar. Diş protez teknisyeni çalıştırmaksızın kendi klinikleri dışından protez başvurularını bizzat çalışarak karşılamak istedikleri takdirde özel iş yerinde mesleklerinin klinik hizmetlerini yürütemezler. Bu yasağa aykırı şekilde mesleklerinin klinik hizmetlerini yürütenler hakkında 3224 sayılı Türk Diş Hekimleri Birliği Kanununun disiplin cezaları ile 44 üncü maddesinin (c) bendindeki para cezası tekrarı, halinde (d) bendindeki oda bölgesinde bir aydan altı aya kadar serbest meslek uygulamasından alıkonma cezasi uygulanır. 
+**MADDE 9. –** Diş hekimleri, kendi klinik hastalarının protezlerini yapabilmek için diş protez laboratuvarı açabilirler. Ancak bu laboratuvarlarda başka hekimlerin her türlü protez yapımı isteklerini karşılama durumunda laboratuvar sorumlusu olarak en az bir diş protez teknisyeni istihdam etmek zorundadırlar. Diş protez teknisyeni çalıştırmaksızın kendi klinikleri dışından protez başvurularını bizzat çalışarak karşılamak istedikleri takdirde özel iş yerinde mesleklerinin klinik hizmetlerini yürütemezler. Bu yasağa aykırı şekilde mesleklerinin klinik hizmetlerini yürütenler hakkında 3224 sayılı Türk Diş Hekimleri Birliği Kanununun disiplin cezaları ile 44 üncü maddesinin (c) bendindeki para cezası tekrarı, halinde (d) bendindeki oda bölgesinde bir aydan altı aya kadar serbest meslek uygulamasından alıkonma cezasi uygulanır. 
 
-EK 
+**EK** 
 
-MADDE 10. – Diş protez teknisyenleri veya dis hekimleri, diş protez laboratuvarı açmak istedikleri takdirde, mahallin en büyük mülki amirine başvurmak ve bu makamın belirteceği şartlara uymak zorundadırlar. Diş protez laboratuvarlarının sahip olmaları gereken şartlar ile bulundurmaları gereken asgari araç ve gereçlerin sayıları ve nitelikleri, Sağlık Bakanlığınca yayımlanacak bir yönetmelikle belirtilir. Laboratuvarların yönetmelik ve kanuna uygun çalışıp çalışmadiklari, il sağlık müdürlüklerince denetlenir. 
+**MADDE 10. –** Diş protez teknisyenleri veya dis hekimleri, diş protez laboratuvarı açmak istedikleri takdirde, mahallin en büyük mülki amirine başvurmak ve bu makamın belirteceği şartlara uymak zorundadırlar. Diş protez laboratuvarlarının sahip olmaları gereken şartlar ile bulundurmaları gereken asgari araç ve gereçlerin sayıları ve nitelikleri, Sağlık Bakanlığınca yayımlanacak bir yönetmelikle belirtilir. Laboratuvarların yönetmelik ve kanuna uygun çalışıp çalışmadiklari, il sağlık müdürlüklerince denetlenir. 
 
 MADDE 3. – 11.04.1928 tarih ve 1219 sayılı Tababet Şuabatı Sanatlarının Tarzı İcrasına Dair Kanuna aşağıdaki geçici maddeler eklenmiştir.
 
@@ -61,8 +61,8 @@ Yukarıda belirtilen sınavlara katılacak ilgililer sınavların gerektirdiği 
 
 İki yıl içinde girecekleri en çok 4 sınavda başarılı olamayanlar ile sınav için başvuramayanlar, iki yıllık sürenin bitiminden sonra mesleklerini icra edemezler. 
 
-MADDE 4. – Bu Kanun yayımı tarihinde yürürlüğe girer. 
+**MADDE 4. –** Bu Kanun yayımı tarihinde yürürlüğe girer. 
 
-MADDE 5. – Bu Kanunu Bakanlar Kurulu yürütür.
+**MADDE 5. –** Bu Kanunu Bakanlar Kurulu yürütür.
 
-19/6/1989
+**19/6/1989**

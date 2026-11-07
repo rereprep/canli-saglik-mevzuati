@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/06/20220615-8.htm"
 durum: "yürürlükte"
 ---
 
-KANUN ÇEVRE KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7410 Kabul Tarihi: 10/6/2022
+**KANUN ÇEVRE KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7410 **Kabul Tarihi: 10/6/2022**
 
 MADDE 1- 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Genel Müdürlüğünce Yürütülen Hizmetler Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “EK MADDE 15- Devlet Su İşleri Genel Müdürlüğü tarafından inşa edilen baraj, gölet ve diğer depolama tesislerinin maksat oranları Cumhurbaşkanı tarafından belirlenir, değiştirilebilir veya kaldırılabilir.”

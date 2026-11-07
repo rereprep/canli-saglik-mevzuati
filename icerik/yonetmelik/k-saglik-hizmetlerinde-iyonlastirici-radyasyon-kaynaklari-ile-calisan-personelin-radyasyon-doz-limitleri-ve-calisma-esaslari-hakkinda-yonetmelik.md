@@ -29,7 +29,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -79,7 +79,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Radyasyon Kaynakları ile Çalışma Esasları ve Radyasyon Güvenliği Komitesi
+**Radyasyon Kaynakları ile Çalışma Esasları ve Radyasyon Güvenliği Komitesi**
 
 #### Radyasyon kaynakları ile çalışma esasları
 
@@ -103,7 +103,7 @@ Radyasyon Kaynakları ile Çalışma Esasları ve Radyasyon Güvenliği Komitesi
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Radyasyon Doz Limitleri, Personel Çalışma Esasları ve Tedbirler ile Son Hükümler
+**Radyasyon Doz Limitleri, Personel Çalışma Esasları ve Tedbirler ile Son Hükümler**
 
 #### Radyasyon doz limitleri
 
@@ -165,4 +165,4 @@ geçmesi halinde bu seviyeler, inceleme düzeyi doz seviyeleri olarak değerlend
 
 **MADDE 11 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Yönetmeliğin eklerini görmek için tıklayınız
+**Yönetmeliğin eklerini görmek için tıklayınız**

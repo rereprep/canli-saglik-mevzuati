@@ -13,7 +13,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -57,7 +57,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Eğitim Personelinin Nitelikleri
+**Eğitim Personelinin Nitelikleri**
 
 #### Başasistan Olabilmek İçin Gereken Nitelikler
 
@@ -155,7 +155,7 @@ Ancak sınavsız olarak atananların sayısı, şef kadrolarının %35’ini ge�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Eğitim Sorumluları Sınavlarına İlişkin Esaslar
+**Eğitim Sorumluları Sınavlarına İlişkin Esaslar**
 
 #### Yabancı Dil Seviyesi
 
@@ -213,7 +213,7 @@ Sınav sonucunda başarılı olan adayların sayısı, ilan edilen kadrodan fazl
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Eğitim Sorumlularının Atama ve Nakilleri
+**Eğitim Sorumlularının Atama ve Nakilleri**
 
 #### Şef ve Şef Yardımcılarının Atama ve Nakilleri
 
@@ -247,7 +247,7 @@ Başasistanlık süresini tamamlamış olanların ve sürelerinin uzatılması u
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Tekrar Atama
 

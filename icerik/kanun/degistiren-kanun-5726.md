@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/01/20080105-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-TANIK KORUMA KANUNU
-Kanun No. 5726 Kabul Tarihi: 27/12/2007
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**TANIK KORUMA KANUNU**
+**Kanun No. 5726 Kabul Tarihi: 27/12/2007**
 BİRİNCİ BÖLÜM
 Amaç, Kapsam ve Tanımlar Amaç ve kapsam
 

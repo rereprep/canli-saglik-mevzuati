@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-ECZACILAR VE ECZANELER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ECZACILAR VE ECZANELER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 12/4/2014 tarihli ve 28970 sayılı Resmî Gazete’de yayımlanan Eczacılar ve Eczaneler Hakkında Yönetmeliğin 9 uncu maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(3) Kurum tarafından başvuruların bitiminden itibaren en geç on iş günü içinde yerleştirme puanları hesaplandıktan sonra eczacının yerleştirme puanı ve tercih sıralaması göz önüne alınarak yerleştirme işlemi yapılır. Başvuru yapan eczacılardan yerleştirme puanı en yüksek olanlar eczane açma hakkı kazanır. İlan edilen yerler için başvuru yapan eczacıların yerleştirme puanlarının eşit olması hâlinde Kurum tarafından, noter huzurunda kura çekilir ve kura sonucuna göre yerleştirme yapılır. Yerleştirme listesi il sağlık müdürlüğüne bildirilir. Kurumun resmî internet sitesinde de ilân edilir.”

@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+**Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar**
 
 #### Amaç
 
@@ -100,9 +100,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Deney Hayvanının Kullanılma Amaçları, Etik Kurulların Kuruluş,
+**Deney Hayvanının Kullanılma Amaçları, Etik Kurulların Kuruluş,**
 
-Görev Süresi, Çalışma Yöntemi, Görev ve Yetkileri
+**Görev Süresi, Çalışma Yöntemi, Görev ve Yetkileri**
 
 #### Deney hayvanının kullanılma amaçları
 
@@ -398,7 +398,7 @@ r) Onay verilen projelerde, içerikte ve çalışmaya katılacak kişilerde yap�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Deney Hayvanı ve Araştırmalara İlişkin Uygulamalar
+**Deney Hayvanı ve Araştırmalara İlişkin Uygulamalar**
 
 #### Deney hayvanları
 
@@ -530,7 +530,7 @@ c) 3R prensibinin uygulanmasına katkıda bulunabilecek unsurlar.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Eğitim
+**Eğitim**
 
 #### Deney hayvanı ile uğraşacak personelin eğitimi
 
@@ -570,7 +570,7 @@ m) Lisans veya yüksek lisans düzeyinde deney hayvanı kullanımı ile ilgili a
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Kayıt ve deney hayvanlarının kimliklendirilmesi
 

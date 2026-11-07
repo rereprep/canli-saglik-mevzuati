@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI Müsteşarlık
 
-Sayı : B.10.MUS.0.00.00.00/819/71 06/06/2012 Konu: Ek Ödeme ve Mali Haklar
+**Sayı :** B.10.MUS.0.00.00.00/819/**71 06/06/2012 Konu:** Ek Ödeme ve Mali Haklar
 
 ### GENELGE 2012/24
 
@@ -18,9 +18,9 @@ Sayı : B.10.MUS.0.00.00.00/819/71 06/06/2012 Konu: Ek Ödeme ve Mali Haklar
 
 Bilindiği gibi 25/02/2011 tarihli ve 6111 sayılı Kanun ile 209 sayılı Kanunun 5 inci maddesinin dördüncü fıkrasına eklenen hükmün uygulamasına ilişkin Bakanlığımızca ilgide kayıtlı Genelge yayımlanmış ve personele yapılacak performansa dayalı ek ödemenin 375 sayılı KHK uyarınca belirlenmiş olan ek ödeme tutarından az olamayacağı hususunda gerekli açıklamalar yapılmıştır.
 
-Diğer taraftan 20/05/2012 tarihli ve 28298 sayılı Resmi Gazete’de yayımlanarak 01/06/2012 tarihinden geçerli olmak üzere yürürlüğe giren “Sağlık Bakanlığına Bağlı Sağlık Kurum ve Kuruluşlarında Görevli Personele Döner Sermaye Gelirlerinden Ek Ödeme Yapılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik” ile mezkur Yönetmeliğin 5 inci maddesine “209 sayılı Kanunun 5 inci maddesinin ikinci fıkrası uyarınca personele her ay yapılacak ek ödeme net tutarı, 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca kadro ve görev unvanı veya pozisyon unvanı itibariyle belirlenmiş olan ek ödeme net tutarından az olamaz. Bu kapsamda yapılacak ödemeler, tabip dışı personele her hangi bir katkıya bağlı olmaksızın aylıklara ilişkin hükümler uygulanmak suretiyle her ay aylıklarla birlikte ödenir. Bu şekilde yapılan ek ödeme tutarı, bu Yönetmelik kapsamında aynı aya ilişkin yapılacak ek ödeme tutarından mahsup edilir.” hükmü eklenmiş olup bu hüküm uyarınca tabip dışı personele, her ay aylıklarla birlikte 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca kadro ve görev unvanı veya pozisyon unvanı itibariyle belirlenmiş olan ek ödeme net tutarında ek ödeme (tabip dışı personel sabit ödemesi) yapılacaktır.
+Diğer taraftan 20/05/2012 tarihli ve 28298 sayılı Resmi Gazete’de yayımlanarak 01/06/2012 tarihinden geçerli olmak üzere yürürlüğe giren “Sağlık Bakanlığına Bağlı Sağlık Kurum ve Kuruluşlarında Görevli Personele Döner Sermaye Gelirlerinden Ek Ödeme Yapılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik” ile mezkur Yönetmeliğin 5 inci maddesine **“209 sayılı Kanunun 5 inci maddesinin ikinci fıkrası uyarınca personele her ay yapılacak ek ödeme net tutarı, 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca kadro ve görev unvanı veya pozisyon unvanı itibariyle belirlenmiş olan ek ödeme net tutarından az olamaz. Bu kapsamda yapılacak ödemeler, tabip dışı personele her hangi bir katkıya bağlı olmaksızın aylıklara ilişkin hükümler uygulanmak suretiyle her ay aylıklarla birlikte ödenir. Bu şekilde yapılan ek ödeme tutarı, bu Yönetmelik kapsamında aynı aya ilişkin yapılacak ek ödeme tutarından mahsup edilir.”** hükmü eklenmiş olup bu hüküm uyarınca tabip dışı personele, her ay aylıklarla birlikte 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca kadro ve görev unvanı veya pozisyon unvanı itibariyle belirlenmiş olan ek ödeme net tutarında ek ödeme (tabip dışı personel sabit ödemesi) yapılacaktır.
 
-Buna göre 01/06/2012 tarihinden itibaren Bakanlık, Türkiye Halk Sağlığı Kurumu ve Türkiye Kamu Hastaneleri Kurumu taşra birimlerinin kadro veya pozisyonlarında görev yapan tabip dışı personele sabit ödeme aşağıdaki açıklamalara göre yapılacaktır:
+**Buna göre 01/06/2012 tarihinden itibaren Bakanlık, Türkiye Halk Sağlığı Kurumu ve Türkiye Kamu Hastaneleri Kurumu taşra birimlerinin kadro veya pozisyonlarında görev yapan tabip dışı personele sabit ödeme aşağıdaki açıklamalara göre yapılacaktır:**
 
 1- Sabit ödeme, işletmelerin döner sermaye bütçesinden ve herhangi bir katkıya bağlı olmaksızın maaş ödemesi ile birlikte ödenecektir.
 
@@ -130,7 +130,7 @@ Müsteşar
 
 ### DAĞITIM:
 
-Gereği: 81 İl Valiliği (İl Sağ. Müd.)
+**Gereği:** 81 İl Valiliği (İl Sağ. Müd.)
 
 ---
 

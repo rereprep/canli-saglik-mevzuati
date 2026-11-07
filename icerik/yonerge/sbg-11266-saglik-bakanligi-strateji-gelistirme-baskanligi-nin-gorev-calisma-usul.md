@@ -14,11 +14,11 @@ durum: "yürürlükte"
 
 #### Amaç
 
-**MADDE 1 –** Bu Yönerge’nin amacı; Sağlık Bakanlığı Strateji Geliştirme Başkanlığının çalışma usul ve esaslarını düzenlemektir. Kapsam
+**MADDE 1 –** Bu Yönerge’nin amacı; Sağlık Bakanlığı Strateji Geliştirme Başkanlığının çalışma usul ve esaslarını düzenlemektir. **Kapsam**
 
-**MADDE 2 –** Bu Yönerge, Sağlık Bakanlığı Strateji Geliştirme Başkanlığı’nın tüm alt birimlerini kapsar. Hukuki Dayanak
+**MADDE 2 –** Bu Yönerge, Sağlık Bakanlığı Strateji Geliştirme Başkanlığı’nın tüm alt birimlerini kapsar. **Hukuki Dayanak**
 
-**MADDE 3 –** Bu Yönerge, 181 sayılı KHK’ye dayanılarak hazırlanmıştır. Tanımlar
+**MADDE 3 –** Bu Yönerge, 181 sayılı KHK’ye dayanılarak hazırlanmıştır. **Tanımlar**
 
 **MADDE 4 –** Bu Yönergede geçen;
 
@@ -34,7 +34,7 @@ d) Başkan: Bakanlık Strateji Geliştirme Başkanını, İfade eder.
 
 #### Kuruluş
 
-**MADDE 5 –** Strateji Geliştirme Başkanlığı, görevlendirilecek Başkan Yardımcıları ile;
+**MADDE 5 –** Strateji Geliştirme Başkanlığı, görevlendirilecek **Başkan Yardımcıları** ile;
 
 ### I- STRATEJİK YÖNETİM VE PLANLAMA DAİRE BAŞKANLIĞI
 
@@ -178,7 +178,7 @@ t) Bakan ve üst yönetici tarafından verilecek diğer görevleri yapmak.
 
 ## ÜÇÜNCÜ BÖLÜM Birimlerin Görevleri STRATEJİK YÖNETİM VE PLANLAMA DAİRE BAŞKANLIĞI MADDE 7-
 
-a) Stratejik Planlama Şube Müdürlüğü
+**a) Stratejik Planlama Şube Müdürlüğü**
 
 1. Ulusal kalkınma strateji ve politikaları, yıllık program ve hükümet programı çerçevesinde
 
@@ -198,7 +198,7 @@ vermek veya verilmesini sağlamak ve stratejik planlama çalışmalarını koord
 
 6. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-b) Faaliyet Raporları ve Eğitim Şube Müdürlüğü
+**b) Faaliyet Raporları ve Eğitim Şube Müdürlüğü**
 
 1. Harcama birimleri tarafından hazırlanan birim faaliyet raporlarını da esas alarak idarenin
 
@@ -222,7 +222,7 @@ gerçekleştirilmesini koordine etmek,
 
 5. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-c) Yönetim Bilgi Sistemleri Şube Müdürlüğü
+**c) Yönetim Bilgi Sistemleri Şube Müdürlüğü**
 
 1. Başkanlığın yönetim bilgi sistemlerine ilişkin hizmetleri yerine getirmek,
 
@@ -242,7 +242,7 @@ yürütmek,
 
 ### BÜTÇE VE KESİN HESAP DAİRE BAŞKANLIĞI MADDE 8-
 
-a) Bütçe ve Kesin Hesap Şube Müdürlüğü
+**a) Bütçe ve Kesin Hesap Şube Müdürlüğü**
 
 1. İzleyen iki yılın bütçe tahminlerini de içeren idare bütçesini ve yıllık performans programını,
 
@@ -288,7 +288,7 @@ hedefler ile faaliyetlerini kapsayan mali durumu temmuz ayı içinde kamuoyuna a
 
 12. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-b) Mali Mevzuat Şube Müdürlüğü
+**b) Mali Mevzuat Şube Müdürlüğü**
 
 1. Malî mevzuatın uygulanması konusunda üst yöneticiye ve harcama yetkililerine gerekli
 
@@ -304,7 +304,7 @@ işlemleri yapmak,
 
 4. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-c) Sağlık Harcamaları ve Mali Yük Şube Müdürlüğü
+**c) Sağlık Harcamaları ve Mali Yük Şube Müdürlüğü**
 
 1. Sağlık harcamalarına ilişkin verileri raporlamak,
 
@@ -324,7 +324,7 @@ ve birimlerin yapmış oldukları çalışmaları raporlamak ve ilgili birimlere
 
 ### DÖNER SERMAYE BÜTÇE VE MUHASEBE DAİRE BAŞKANLIĞI MADDE 9-
 
-a) Döner Sermaye Bütçe Şube Müdürlüğü
+**a) Döner Sermaye Bütçe Şube Müdürlüğü**
 
 1. Döner sermayeli kurum bütçelerini işlemlerini yürütmek,
 
@@ -340,7 +340,7 @@ uyarınca kurumlarımızdan gelen izin taleplerini değerlendirmek ve gerekli i�
 
 5. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-b) Ödenek Planlama ve Tahsisler Şube Müdürlüğü
+**b) Ödenek Planlama ve Tahsisler Şube Müdürlüğü**
 
 1. Bakanlığa bağlı kurumların merkeze aktardıkları merkez pay tutarlarından oluşan ödeneğin
 
@@ -362,7 +362,7 @@ borç veya karşılıksız kaynak aktarımı işlemlerini yürütmek,
 
 5. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-c) Muhasebe Sistemi Şube Müdürlüğü
+**c) Muhasebe Sistemi Şube Müdürlüğü**
 
 1. Bakanlığa bağlı döner sermayeli kurum ve kuruluşlarımızın muhasebe hesap kayıtlarının
 
@@ -386,7 +386,7 @@ hazırlamak, uygulamada birlik sağlanması amacıyla düzenlemeler yapmak,
 
 ### DÖNER SERMAYELİ İŞLETMELER DÜZENLEME DAİRE BAŞKANLIĞI MADDE 10-
 
-a) Döner Sermaye Düzenleme Şube Müdürlüğü
+**a) Döner Sermaye Düzenleme Şube Müdürlüğü**
 
 1. Döner sermaye kaynaklarının etkili ve verimli kullanılmasını sağlamak için, döner sermaye
 
@@ -416,7 +416,7 @@ düzenlemelerle ilgili gerekli olan verileri toplamak, kontrolünü yapmak ve de
 
 5. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-b) Döner Sermaye Mevzuatı Şube Müdürlüğü
+**b) Döner Sermaye Mevzuatı Şube Müdürlüğü**
 
 1. Döner sermaye mevzuatının Başkanlığımız görev alanına giren kısmı ile ilgili gerekli
 
@@ -432,7 +432,7 @@ kısmı ile ilgili olarak görüş taleplerini cevaplandırmak,
 
 4. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-c) Döner Sermaye Değerlendirme Şube Müdürlüğü
+**c) Döner Sermaye Değerlendirme Şube Müdürlüğü**
 
 1. Döner sermayeli işletmelerin döner sermaye kaynaklarından gerçekleştirdiği ihalelere ilişkin
 
@@ -454,7 +454,7 @@ değerlendirmek,
 
 ### MADDE 11-
 
-a) Ön Mali Kontrol Şube Müdürlüğü
+**a) Ön Mali Kontrol Şube Müdürlüğü**
 
 1. Bakanlığın gelir, gider, varlık ve yükümlülüklerine ilişkin malî karar ve işlemlerinin;
 
@@ -468,7 +468,7 @@ yapmak.
 
 2. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-b) İç Kontrol Şube Müdürlüğü
+**b) İç Kontrol Şube Müdürlüğü**
 
 1. Bakanlığın ve Başkanlığın görev alanına giren konularda iç kontrol standartları oluşturmak, iç
 
@@ -482,7 +482,7 @@ koordineli çalışmalar yapmak,
 
 3. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-c) İç Kontrol İzleme ve Değerlendirme Şube Müdürlüğü
+**c) İç Kontrol İzleme ve Değerlendirme Şube Müdürlüğü**
 
 1. İç ve dış denetim sonucu düzenlenen raporlara istinaden iç kontrol sisteminin işleyişini izlemek
 
@@ -500,7 +500,7 @@ performans göstergeleri oluşturma çalışmalarını yürütmek, kontrol nokta
 
 ### MAL YÖNETİMİ VE MALİ ANALİZ DAİRE BAŞKANLIĞI MADDE 12-
 
-a) Mali Analiz ve Değerlendirme Şube Müdürlüğü
+**a) Mali Analiz ve Değerlendirme Şube Müdürlüğü**
 
 1. Döner sermayeli işletmelerin mali durumlarını incelemek, analiz etmek,
 
@@ -512,7 +512,7 @@ a) Mali Analiz ve Değerlendirme Şube Müdürlüğü
 
 4. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-b) Stok Yönetimi ve Analiz Şube Müdürlüğü
+**b) Stok Yönetimi ve Analiz Şube Müdürlüğü**
 
 1. Döner sermayeli işletmelerin stoklarını incelemek ve takip etmek,
 
@@ -522,7 +522,7 @@ b) Stok Yönetimi ve Analiz Şube Müdürlüğü
 
 4. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-c) Mal Yönetimi Şube Müdürlüğü
+**c) Mal Yönetimi Şube Müdürlüğü**
 
 1. Bakanlığımıza ait taşınır ve taşınmazların terkin ve devir işlemlerine ilişkin onayları üst
 
@@ -540,7 +540,7 @@ cetvellerini düzenlemek,
 
 ### İDARİ İŞLER DAİRE BAŞKANLIĞI MADDE 13-
 
-a) Personel, İç Hizmetler ve Koordinasyon Şube Müdürlüğü
+**a) Personel, İç Hizmetler ve Koordinasyon Şube Müdürlüğü**
 
 1. Personelin ayrılış, başlayış, izin, rapor ve soruşturma işlemleri ile özlük haklarına ilişkin diğer
 
@@ -568,7 +568,7 @@ raporlarını konsolide ederek Başbakanlığa bildirmek,
 
 8. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-b) Evrak ve Arşiv Şube Müdürlüğü
+**b) Evrak ve Arşiv Şube Müdürlüğü**
 
 1. Başkanlığın gelen ve giden evraklarının kayıt işlemlerinin yürütülmesini sağlamak, evrakların
 
@@ -590,7 +590,7 @@ kontrolünü yapmak ve eğitimlerini vermek,
 
 6. Amirleri tarafından verilecek diğer görevleri yapmak,
 
-c) Mali İşler Şube Müdürlüğü
+**c) Mali İşler Şube Müdürlüğü**
 
 1. Başkanlığın bütçesi ile ilgili harcamaları ve takipleri yapmak ve her türlü tahakkuk işlemlerini
 
@@ -612,8 +612,8 @@ dosyalarını oluşturmak, takip etmek,
 
 #### Son Hükümler Yürürlükten Kaldırılan Hükümler
 
-**MADDE 14 –** 13/11/2009 tarihli ve 11319 sayılı Onay ile yürürlüğe giren Sağlık Bakanlığı Strateji Geliştirme Başkanlığının Görev Çalışma Usul ve Esasları Hakkında Yönerge yürürlükten kaldırılmıştır. Yürürlük
+**MADDE 14 –** 13/11/2009 tarihli ve 11319 sayılı Onay ile yürürlüğe giren Sağlık Bakanlığı Strateji Geliştirme Başkanlığının Görev Çalışma Usul ve Esasları Hakkında Yönerge yürürlükten kaldırılmıştır. **Yürürlük**
 
-**MADDE 15 –** Bu Yönerge Bakan Onayı ile yürürlüğe girer. Yürütme
+**MADDE 15 –** Bu Yönerge Bakan Onayı ile yürürlüğe girer. **Yürütme**
 
 **MADDE 16 –** Bu Yönerge hükümlerini Başkan yürütür.

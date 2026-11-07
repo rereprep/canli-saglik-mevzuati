@@ -7,7 +7,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10464/tani-ve-tedavi-protokolleri-etik
 durum: "yürürlükte"
 ---
 
-30.07.2000/24125 Sağlık Bakanlığından :
+**30.07.2000/24125** Sağlık Bakanlığından :
 
 ### Tanı ve Tedavi Protokolleri Etik Kurulu Hakkında Yönetmelik
 
@@ -89,13 +89,13 @@ h) Türk Eczacılar Birliği Merkez Konseyince seçilecek 1 temsilci,
 
 i) Bağ-Kur Genel Müdürlüğünce seçilecek 1 temsilci,
 
-j) Emekli Sandığı Genel Müdürlüğünce seçilecek 1 temsilci. Kurula seçilecek üyelerde; Bakan tarafından seçilecek üyeler için, uzmanlık dallarında en az 10 yıllık deneyim; kurumlarınca seçilecek olanlar için, o kurumda en az 10 yıl çalışmış olmak şartı aranır. Seçilen üyenin görev süresi iki yıldır. Süresi biten üyenin yerine yenisi seçilir. Toplanma ve Karar Alma
+j) Emekli Sandığı Genel Müdürlüğünce seçilecek 1 temsilci. Kurula seçilecek üyelerde; Bakan tarafından seçilecek üyeler için, uzmanlık dallarında en az 10 yıllık deneyim; kurumlarınca seçilecek olanlar için, o kurumda en az 10 yıl çalışmış olmak şartı aranır. Seçilen üyenin görev süresi iki yıldır. Süresi biten üyenin yerine yenisi seçilir. **Toplanma ve Karar Alma**
 
-**Madde 6 –** Kurul, üye tam sayısının üçte ikisinin katılımı ile toplanır ve Kurul kararı, üye tam sayısının salt çoğunluğu ile alınır. Oylarda eşitlik halinde, Başkanın oyunun olduğu taraf lehine karar verilir. Üyeliğin Sona Ermesi
+**Madde 6 –** Kurul, üye tam sayısının üçte ikisinin katılımı ile toplanır ve Kurul kararı, üye tam sayısının salt çoğunluğu ile alınır. Oylarda eşitlik halinde, Başkanın oyunun olduğu taraf lehine karar verilir. **Üyeliğin Sona Ermesi**
 
-**Madde 7 –** Bir takvim yılı içinde, toplam üç toplantıya katılmayan üyenin üyeliği düşer. Kurul üyeliğinden çekilme ve düşme Bakan onayı ile yürürlüğe girer. Üyeliğin düşmesi, emeklilik ya da ölüm gibi hallerde de Kurula aynı nitelikte yeni üye seçilir. Yeni seçilen üye, yerine seçildiği üyenin süresini tamamlar. Çalışma Yönergesi
+**Madde 7 –** Bir takvim yılı içinde, toplam üç toplantıya katılmayan üyenin üyeliği düşer. Kurul üyeliğinden çekilme ve düşme Bakan onayı ile yürürlüğe girer. Üyeliğin düşmesi, emeklilik ya da ölüm gibi hallerde de Kurula aynı nitelikte yeni üye seçilir. Yeni seçilen üye, yerine seçildiği üyenin süresini tamamlar. **Çalışma Yönergesi**
 
-**Madde 8 –** Kurulun, Alt Komisyonların ve Kurul Sekreteryasının çalışma usûl ve esaslarını belirleyen Çalışma Yönergesi, Kurulun oluşumundan itibaren en geç üçüncü oturumda düzenlenir. Kurulun Görev ve Yetkileri
+**Madde 8 –** Kurulun, Alt Komisyonların ve Kurul Sekreteryasının çalışma usûl ve esaslarını belirleyen Çalışma Yönergesi, Kurulun oluşumundan itibaren en geç üçüncü oturumda düzenlenir. **Kurulun Görev ve Yetkileri**
 
 **Madde 9 –** Kurulun görev ve yetkileri şunlardır:
 
@@ -107,9 +107,9 @@ c) Yapılacak çalışmanın özelliğine göre uzmanlık gerektiren konularda A
 
 d) Alt Komisyonun hazırladığı raporu değerlendirerek son şeklini vermek,
 
-e) Kuruluşu ile ilgili konularda, yapılacak başvuruları bilimsel ve etik açıdan değerlendirmek ve görüşünü en çok 60 gün içerisinde yazılı olarak bildirmek. Alt Komisyonların Oluşumu
+e) Kuruluşu ile ilgili konularda, yapılacak başvuruları bilimsel ve etik açıdan değerlendirmek ve görüşünü en çok 60 gün içerisinde yazılı olarak bildirmek. **Alt Komisyonların Oluşumu**
 
-**Madde 10 –** Alt Komisyonlar bilimsel ve teknik komisyonlar olup; teknik danışmanlık amacı ile Kurulca oluşturulur. Alt Komisyonlara seçilebilmek için ilgili uzmanlık dallarında en az 10 ve yan dallarda 5 yıllık deneyim aranır. Alt Komisyonlar, Sağlık Bakanlığı Eğitim Hastaneleri klinik şef ya da şef yardımcıları ve Tıp Fakülteleri öğretim üyelerinden olmak üzere en az 3 kişiden oluşur. Alt Komisyonların Görev ve Sorumlulukları
+**Madde 10 –** Alt Komisyonlar bilimsel ve teknik komisyonlar olup; teknik danışmanlık amacı ile Kurulca oluşturulur. Alt Komisyonlara seçilebilmek için ilgili uzmanlık dallarında en az 10 ve yan dallarda 5 yıllık deneyim aranır. Alt Komisyonlar, Sağlık Bakanlığı Eğitim Hastaneleri klinik şef ya da şef yardımcıları ve Tıp Fakülteleri öğretim üyelerinden olmak üzere en az 3 kişiden oluşur. **Alt Komisyonların Görev ve Sorumlulukları**
 
 **Madde 11 –** Alt Komisyonların görev ve sorumlulukları şunlardır:
 
@@ -123,6 +123,6 @@ c) Davet edildiğinde oturumda hazır bulunmak.
 
 #### Son Hükümler Yürürlük
 
-**Madde 12 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme
+**Madde 12 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer. **Yürütme**
 
 **Madde 13 –** Bu Yönetmelik hükümlerini Sağlık Bakan yürütür.

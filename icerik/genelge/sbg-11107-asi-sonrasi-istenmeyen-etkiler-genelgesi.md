@@ -66,17 +66,17 @@ Aşılar yıllardır bulaşıcı hastalıkları önlemek için kullanılmakta ve
 
 Tablo 1. Sık Görülen, Hafif Yan Etkiler ve yaklaşım önerileri Aşı Lokal reaksiyon 38 C’yi geçen ateş Huzursuzluk, kırgınlık ve
 
-(ağrı, şişlik, kızarıklık) sistemik belirtiler BCG % 90- 95
+(ağrı, şişlik, kızarıklık) sistemik belirtiler **BCG %** 90- 95
 
 -
 
-- DaBT-IPA-Hib % 20-40 % 3-5 % 20-40 Td /DT/TT ~ %10* ~ %10 ~ %25 OPA - <%1 < %1** Hepatit-B erişkinde %15, - %1-6
+- **DaBT-IPA-Hib %** 20-40 % 3-5 % 20-40 **Td /DT/TT ~** %10* ~ %10 ~ %25 **OPA -** <%1 < %1** Hepatit-B erişkinde %15, - %1-6
 
 çocukta % 5 KKK*** %10 %5-15 %5 döküntü, <%1 artralji,
 
 <%1 lenfadenopati, <%1-%5
 
-parotit Hib % 5-15 %2-10 -
+parotit **Hib %** 5-15 %2-10 -
 
 DaBT: Difteri, Aselüler boğmaca, Tetanoz OPA: Oral Polio aşısı
 
@@ -86,15 +86,15 @@ DT: Çocuk Tipi Difteri-Tetanoz KKK: Kızamık, Kızamıkçık, Kabakulak
 
 Hib: Hemofilus influenza tip b a Aşı yerine soğuk uygulama, parasetamol b Ekstra sıvı verme, ılık pansuman uygulama, parasetamol c Ekstra sıvı verme, parasetamol *Lokal reaksiyonlar rapel dozlarda %50-85’e kadar çıkabilir. ** Sistemik belirtiler ishal, başağrısı ve/veya kas ağrısı, uyku hali,iştahsızlık şeklinde olabilir. *** Kızamıkçık aşılamasını takiben en sık görülen ASĐE ler ateş, lenfadenopati, döküntü, boğaz ve baş ağrısı şeklinde hafif kızamıkçık tablosu ve artraljidir. Artrit ve artralji yalnızca duyarlı kişilerde daha yaygın olarak yetişkinlerde özellikle kadınlarda gözlenir. Artralji çocuklarda <% 1 görülürken adolesan ve yetişkin kadınlarda %25 sıklıkta görülmektedir. Kullanılan Kabakulak suşuna bağlı değişen sıklıklarda parotit görülebilir.
 
-Tablo 2. Nadir Görülen, Ciddi Yan Etkiler Aşı Reaksiyon Ortaya çıkış süresi 1 milyon dozda görülme
+**Tablo 2. Nadir Görülen, Ciddi Yan Etkiler** Aşı Reaksiyon Ortaya çıkış **süresi 1 milyon dozda görülme**
 
-sıklığı BCG - Lenfadenit - 2 hafta -6 ay - 100 - 1000
+sıklığı **BCG -** Lenfadenit - 2 hafta -6 ay - 100 - 1000
 
 - BCG Osteiti - 1-12 ay - 1 - 700
 
 ### - Yaygın BCG enfeksiyonu - 1-12 ay - 2
 
-DaBT-IPA-Hib - 3 saatten fazla süren - 0-24 saat - 0 - 4800
+**DaBT-IPA-Hib -** 3 saatten fazla süren - 0-24 saat - 0 - 4800
 
 çığlık tarzında
 
@@ -108,27 +108,27 @@ atak
 
 ### - Anaflaksi - 0-1 saat - 0 - 1 - Ensefalopati - 0-7 gün - 0 - 1
 
-- Apne - Bradikardi - 0- 24 saat DaBT,Td/DT/ TT - Brakial nevrit - 2-28 gün - 5-10 (Tetanoz - Anaflaksi - 0-1 saat - 1-6 bileşenine bağlı) - Steril apse - 1-6 hafta - 6-10
+- Apne - Bradikardi - 0- 24 saat **DaBT,Td/DT/ TT** - Brakial nevrit - 2-28 gün - 5-10 **(Tetanoz** - Anaflaksi - 0-1 saat - 1-6 bileşenine bağlı) - Steril apse - 1-6 hafta - 6-10
 
-- Ciddi lokal reaksiyon - 0-2 gün - 0-10 000 OPA - Aşıya bağlı paralitik - 4-30 gün - 0.70 (ilk doz)
+- Ciddi lokal reaksiyon - 0-2 gün - 0-10 000 **OPA -** Aşıya bağlı paralitik - 4-30 gün - 0.70 (<i>ilk doz)</i>
 
-poliomyelit (temaslılarda 4-75 - 0.11-0.16(sonraki
+poliomyelit (temaslılarda 4-75 - 0.11-0.16(<i>sonraki</i>
 
-( risk ilk dozda, erişkinlerde gün) dozlarda)
+( risk ilk dozda, erişkinlerde gün) <i>dozlarda)</i>
 
-ve immün yetmezliği - 0.13 (temaslılarda)
+ve immün yetmezliği - 0.13 (<i>temaslılarda)</i>
 
-olanlarda daha yüksektir) Hepatit-B - Anaflaksi - 0-1 saat - 1-2 KKK - Febril konvülsiyon - 5-12 gün - 333 ( Kızamık, - Trombositopeni - 1-6 hafta - 33 Kabakulak ve - Anaflaksi - 0-1 saat - 0-1 Kızamıkçık - Ensefalopati/Ensefalit - 5-15 gün - 0-1 bileşenine bağlı) - Aseptik menenjit - 15-21 gün - 1-1000
+<i>olanlarda daha yüksektir)</i> **Hepatit-B -** Anaflaksi - 0-1 saat - 1-2 **KKK** - Febril konvülsiyon - 5-12 gün - 333 ( Kızamık, - Trombositopeni - 1-6 hafta - 33 Kabakulak ve - Anaflaksi - 0-1 saat - 0-1 Kızamıkçık - Ensefalopati/Ensefalit - 5-15 gün - 0-1 bileşenine bağlı) - Aseptik menenjit - 15-21 gün - 1-1000
 
 - Artrit - 1-3 hafta - Çocuklarda nadir ancak
 
 adolesan ve kadınlarda
 
-100 000 Hib Bildirimi yok - - Ağırlıklı olarak DaBT komponentine bağlıdır. Prematüre bebeklerde görülebilir. Özellikle çok sayıda pekiştirme dozu alanlarda bildirilmiştir. Kullanılan aşı suşuna bağlı olarak görülme sıklığı değişmektedir. KKK aşısı antijenlerine ve reaksiyonlara verilmiş olan üst numaralar antijene özel aşı yan etkisini göstermektedir.
+100 000 **Hib** Bildirimi yok - - Ağırlıklı olarak DaBT komponentine bağlıdır. Prematüre bebeklerde görülebilir. Özellikle çok sayıda pekiştirme dozu alanlarda bildirilmiştir. Kullanılan aşı suşuna bağlı olarak görülme sıklığı değişmektedir. KKK aşısı antijenlerine ve reaksiyonlara verilmiş olan üst numaralar antijene özel aşı yan etkisini göstermektedir.
 
 1.2 Program Uygulama Hataları (Aşının Üretim, Dağıtım Ve Uygulanması Sırasında
 
-Ortaya Çıkabilecek Hatalar)
+**Ortaya Çıkabilecek Hatalar)**
 
 Aşıların üretimi, dağıtımı ya da uygulanması sırasında yapılan hatalara bağlı olarak ortaya çıkan istenmeyen etkiler bu grupta toplanmaktadır. Bu gruptaki etkiler gerçek yan etkilerden biraz daha sık görülmeleri ve önlenebilir olmaları açısından önem taşımaktadır.
 
@@ -138,7 +138,7 @@ En sık görülen uygulama hatası steril olmayan enjeksiyonun neden olduğu enf
 
 Enfeksiyon lokal olarak (örn: süpürasyon, apse) ortaya çıkabileceği gibi, sistemik hastalığa (örn: sepsis, toksik şok sendromu) da neden olabilir. Bazı program hatalarına bağlı istenmeyen etkiler Tablo 3’te özetlenmiştir.
 
-Tablo 3. Sık Görülen Hatalar ve Neden oldukları ASĐE’ler Program hatası ASĐE Steril olmayan enjeksiyon: Enfeksiyon
+Tablo 3. Sık Görülen Hatalar ve Neden oldukları ASĐE’ler **Program hatası** ASĐE Steril olmayan enjeksiyon: Enfeksiyon
 
 • Steril olmayan enjektör ya da (örn: enjeksiyon yerinde lokal
 
@@ -220,13 +220,13 @@ flakonları buzdolabından uzaklaştırılmalıdır.
 
 epidemiyolojik araştırma yapılmalı ve hata düzeltilmelidir.
 
-1.3 Enjeksiyon Reaksiyonu
+**1.3 Enjeksiyon Reaksiyonu**
 
 Kişiler ya da gruplar aşı ya da içeriği ile ilgisiz olarak sadece enjeksiyona karşı reaksiyon gösterebilirler. Bayılma, beş yaş üzeri grupta sık görülebilir. Bayılan kişiyi sırtüstü yatırıp ayaklarını yukarı kaldırmak yeterlidir ve genellikle bunun dışında bir tedavi gerektirmez. Enjeksiyon nedenli anksiyeteye bağlı hiperventilasyon; baş dönmesi, kulak çınlaması, ağız çevresinde ya da ellerde titreme gibi spesifik semptomlar ortaya çıkabilir. Çok nadir olarak konvülsiyon da görülebilir. Üst ve alt solunum yolunda obstrüksiyon bulgularının ve cilt bulgularının olmaması enjeksiyon reaksiyonu lehinedir.
 
 Tüm bu etkiler aşıya değil enjeksiyona bağlıdır. Bazı durumlarda (özellikle okul aşılamalarında) bayılan bir kişinin görüntüsü “toplu simülasyona” (toplu korku ve bayılma) neden olabilir. Aşılama hakkında açık ve anlaşılır bir bilgilendirme, sakin ve güvenli bir uygulama anksiyeteyi, dolayısıyla da bu tip olayların görülme ihtimalini azaltacaktır.
 
-1.4 Rastlantısal
+**1.4 Rastlantısal**
 
 Genelde aşı sonrası ortaya çıkan tüm istenmeyen tıbbi olayların aşı ya da program hatasına bağlı olduğu düşünülse de bu olayların bir kısmı tamamen rastlantısal olabilir.
 
@@ -236,11 +236,11 @@ Rastlantısal olayların ne kadar görüleceği aşılanacak kişi sayısı, ya�
 
 Bu tip durumlar ile karşılaşıldığında aile ile mutlaka görüşülmeli ve sözü edilen durumun aşı uygulanması ile bir ilgisi olmadığı anlatılmalıdır. Bu şekilde bir vaka ile karşılaşıldığında, vakanın tedavisi başlatılır ve gerekli ise sevk edilir.
 
-1.5 Bilinmeyen
+**1.5 Bilinmeyen**
 
 Aşı uygulanmasından sonra ortaya çıkan, aile ya da hekim tarafından aşıya bağlı olabileceği düşünülen, aşı dışında başka bir nedenin gösterilemediği, bilinen aşı yan etkisi ya da program hatası olmayan ciddi hastalanma, ölüm ya da kümelenme gösteren durumlardır.
 
-Kümelenme; Görülme zamanı, aşı uygulanan birim/uygulayan kişi veya ikamet yeri açısından ortak özellikler gösteren veya aynı aşının uygulandığı kişilerde beklenenden fazla sayıda aynı ASĐE’nin ortaya çıkmasıdır.
+**Kümelenme;** Görülme zamanı, aşı uygulanan birim/uygulayan kişi veya ikamet yeri açısından ortak özellikler gösteren veya aynı aşının uygulandığı kişilerde beklenenden fazla sayıda aynı ASĐE’nin ortaya çıkmasıdır.
 
 Bu gibi durumlar ASĐE Danışma Kurulu’nda incelendikten sonra nedene göre sınıflandırılır.
 
@@ -262,15 +262,15 @@ Tüm sağlık çalışanları ASĐE’leri tanıyabilecek şekilde vaka tanımla
 
 Aşı yapan personel, aileler ve toplumun diğer üyelerini aşılama sonrası ne tür reaksiyonlar görülebileceği ve hangi durumlarda bir sağlık kuruluşuna başvurmaları gerektiği konularında bilgilendirir. Bu bilgiler kişilerin huzursuzluğunu azaltacak ve daha ciddi problemlerin tanınmasına yardımcı olacaktır.
 
-2.1. ASIE Đzleme Sistemi Kapsamında Bildirilmesi Gereken Đstenmeyen Etkiler
+**2.1. ASIE** Đzleme Sistemi Kapsamında Bildirilmesi Gereken Đstenmeyen Etkiler
 
 ASĐE Đzleme Sistemi’ne dahil olup bildirimi yapılacak olan ASĐE’ler Tablo 4’te gösterilmiştir.
 
-Tablo 4. Đzleme Sistemine Dahil Olan ASĐE’ler
+**Tablo 4.** Đzleme Sistemine Dahil Olan ASĐE’ler
 
-1. Lokal reaksiyonlar Aşıdan sonra 48 saat içinde ortaya çıkan Ciddi Lokal Reaksiyon Aşıdan sonra 2-7 gün içinde ortaya çıkan Enjeksiyon yerinde abse(Bakteriyel /steril) Aşıdan sonra 2 hafta – 6 ay içinde ortaya çıkan Lenfadenit
+**1. Lokal reaksiyonlar** Aşıdan sonra 48 saat içinde ortaya çıkan Ciddi Lokal Reaksiyon Aşıdan sonra 2-7 gün içinde ortaya çıkan Enjeksiyon yerinde abse(Bakteriyel /steril) Aşıdan sonra 2 hafta – 6 ay içinde ortaya çıkan Lenfadenit
 
-2. Sinir Sistemi ile Đlgili Đstenmeyen Etkiler OPA’dan sonra 4-30 gün (temaslılarda 4 -75 gün) Paralitik poliomiyelit içinde ortaya çıkan Kızamık bileşenli aşıları takiben 5-12 gün, DaBT- Konvülsiyon IPA-Hib aşısını takiben 72 saat içinde ortaya çıkan Kızamık bileşenli aşıları takiben 5-15 gün içinde Ensefalopati/Ensefalit ortaya çıkan DaBT-IPA-Hib aşısını takiben 7 gün içinde ortaya Ensefalopati çıkan Tetanoz bileşenli aşılardan sonra 2-28 gün içinde Brakial Nevrit ortaya çıkan Aşıdan sonra 0-6 hafta içinde ortaya çıkan Diğer paraliziler Kabakulak bileşenli aşıları takiben 15-21 gün Aseptik menenjit içinde ortaya çıkan
+**2. Sinir Sistemi ile** Đlgili Đstenmeyen Etkiler OPA’dan sonra 4-30 gün (<i>temaslılarda 4 -75</i> <i>gün</i>) Paralitik poliomiyelit içinde ortaya çıkan Kızamık bileşenli aşıları takiben 5-12 gün, DaBT- Konvülsiyon IPA-Hib aşısını takiben 72 saat içinde ortaya çıkan Kızamık bileşenli aşıları takiben 5-15 gün içinde Ensefalopati/Ensefalit ortaya çıkan DaBT-IPA-Hib aşısını takiben 7 gün içinde ortaya Ensefalopati çıkan Tetanoz bileşenli aşılardan sonra 2-28 gün içinde Brakial Nevrit ortaya çıkan Aşıdan sonra 0-6 hafta içinde ortaya çıkan Diğer paraliziler Kabakulak bileşenli aşıları takiben 15-21 gün Aseptik menenjit içinde ortaya çıkan
 
 3. Diğer Đstenmeyen Etkiler Aşıdan sonra 1 saat içinde ortaya çıkan Anaflaksi Aşıdan sonra birkaç saat içinde ortaya çıkan Toksik Şok Sendromu Aşıdan sonra 4 saat içinde ortaya çıkan (deri Akut allerjik reaksiyonlar bulguları daha geç görülebilir) DaBT-IPA-Hib aşısından sonra 24 saat içinde Hipotonik-hiporesponsif atak ortaya çıkan Aşıdan sonra 1 hafta içinde ortaya çıkan Sepsis Kızamıkçık bileşenli aşılarlardan sonra 1-3 hafta Artrit içinde ortaya çıkan Kızamık bileşenli aşılardan sonra 1-6 hafta içinde Trombositopeni ortaya çıkan DaBT-IPA-Hib aşısından sonra 24 saat içinde Apne - Bradikardi ortaya çıkan BCG aşısından sonra 1 – 12 ay içinde ortaya çıkan Yaygın BCG enfeksiyonu BCG aşısından sonra 1-12 ay içinde ortaya çıkan BCG Osteiti Zaman sınırı olmaksızın Yukarıda sunulan hastalıklar haricinde sağlık
 
@@ -290,13 +290,13 @@ kapsamında incelenmelidir. *Ciddi ASĐE: Ölüm, sakatlık, konjenital anomali 
 
 Bu kapsamdaki tüm istenmeyen etkiler Ek 2’de sunulan vaka tanımlarına uygunluğu değerlendirilerek bildirilmelidir.
 
-2.2. ASIE Đzleme Sistemi Kapsamında Bildirimi Gerekmeyen Đstenmeyen Etkiler:
+**2.2. ASIE** Đzleme Sistemi Kapsamında Bildirimi Gerekmeyen Đstenmeyen Etkiler:
 
-a. Hafif Đstenmeyen etkiler: Sağlık personeli döküntü, hafif ateş, enjeksiyon yerinde hafif kızarıklık, ağrı, parotit gibi ASĐE’lerle karşılaştığında aileyi bilgilendirir, semptomatik tedavi önerilerinde (enjeksiyon yerine soğuk uygulama, hafif ateş ve/veya ağrı varlığında parasetamol türevi ağrı kesici-ateş düşürücü vb.) bulunur.
+**a. Hafif** Đstenmeyen etkiler: Sağlık personeli döküntü, hafif ateş, enjeksiyon yerinde hafif kızarıklık, ağrı, parotit gibi ASĐE’lerle karşılaştığında aileyi bilgilendirir, semptomatik tedavi önerilerinde (enjeksiyon yerine soğuk uygulama, hafif ateş ve/veya ağrı varlığında parasetamol türevi ağrı kesici-ateş düşürücü vb.) bulunur.
 
-b. Enjeksiyon Reaksiyonu
+**b. Enjeksiyon Reaksiyonu**
 
-Bu gibi durumların bildirimi yapılmayacaktır.
+Bu gibi durumların **bildirimi yapılmayacaktır.**
 
 2.3 ASĐE Đle Karşılaşan Sağlık Personelinin Yapacakları
 
@@ -320,7 +320,7 @@ c. Ciddi, kümelenme ya da toplumda ciddi kaygı ya da olumsuz propaganda nedeni
 
 d. ASĐE vakası bildirildiğinde vakit kaybetmeden araştırma başlatır. Đl ASĐE Danışma Kurulu ile birlikte değerlendirmesini yapar. Vaka araştırması sonucunda saptanan ASĐE vakasının nedenini Đl ASĐE Danışma Kurulu ile birlikte belirler, sınıflamasını yapar ve rapor hazırlar (Ek 5,6). ASĐE vakasının sınıflamasını, Tablo 5’e göre yapar.
 
-Tablo 5. Vaka Sınıflaması
+**Tablo 5. Vaka Sınıflaması**
 
 ### Vaka Sınıflaması
 
@@ -428,7 +428,7 @@ Merkez ASĐE Danışma Kurulu; çocuk sağlığı ve hastalıkları uzmanları, 
 
 Merkez Danışma Kurulu yılda en az iki kez ve toplanmalarını gerektirecek acil durumların varlığında toplanır. Vaka inceleme formları, araştırma raporları, hastane kayıtları (hasta dosyası), epikriz, mevcut laboratuar verilerini değerlendirerek son sınıflamayı yapar. Kurulun gerekli gördüğü durumlarda ilden ileri araştırma ve yardımcı testlerin yapılması istenebilir.
 
-Ekler
+**Ekler**
 
 1. ASĐE Bildirim Sistemi Şeması
 

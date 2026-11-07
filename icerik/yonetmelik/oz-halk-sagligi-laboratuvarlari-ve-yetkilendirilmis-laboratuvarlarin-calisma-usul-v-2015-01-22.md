@@ -28,7 +28,7 @@ Sağlık Bakanlığı (Türkiye Halk Sağlığı Kurumu)’ndan:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -80,7 +80,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Halk Sağlığı Laboratuvarlarının Kuruluşu, Sınıflandırılması, Birimleri ve Görevleri
+**Halk Sağlığı Laboratuvarlarının Kuruluşu, Sınıflandırılması, Birimleri ve Görevleri**
 
 #### Kuruluşu
 
@@ -134,7 +134,7 @@ g) Yerel ve bölgesel ihtiyaçlar doğrultusunda tespit edilen analizleri yapmak
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Halk Sağlığı Laboratuvarının Açılması, Hizmet Tipi Değişikliği, Kapsam Genişletme, Laboratuvar Binası, Yerleşim Planı, Fiziki Şartları ve Laboratuvar Güvenliği
+**Halk Sağlığı Laboratuvarının Açılması, Hizmet Tipi Değişikliği, Kapsam Genişletme, Laboratuvar Binası, Yerleşim Planı, Fiziki Şartları ve Laboratuvar Güvenliği**
 
 #### Açılması
 
@@ -258,7 +258,7 @@ k) Fiziki şartlar engelli personel ve hasta ihtiyaçlarına göre düzenlenir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Laboratuvar Personelinin Nitelikleri, Görevlendirilmesi ve Görevleri
+**Laboratuvar Personelinin Nitelikleri, Görevlendirilmesi ve Görevleri**
 
 #### Laboratuvar sorumlusunun nitelikleri ve görevleri
 
@@ -400,9 +400,9 @@ c) Laboratuvara gelen numuneleri almak, analize hazırlamak ve muhafaza etmek, g
 
 ### BEŞİNCİ BÖLÜM
 
-Analiz Metotları ve Özellikleri, Analiz Raporları, Analiz Ücretleri,
+**Analiz Metotları ve Özellikleri, Analiz Raporları, Analiz Ücretleri,**
 
-Kayıtların Tutulması ve Numunelerin Muhafazası
+**Kayıtların Tutulması ve Numunelerin Muhafazası**
 
 #### Analiz metotları ve özellikleri
 
@@ -464,9 +464,9 @@ j) Su analiz sonuçlarının Kurumun Su Kalitesi Kontrol Sistemine girilmesi zor
 
 ### ALTINCI BÖLÜM
 
-Yetkilendirme Başvurusu, Analiz Yetki Belgesi Verilmesi,
+**Yetkilendirme Başvurusu, Analiz Yetki Belgesi Verilmesi,**
 
-Analiz Yetki Belgesinin Yenilenmesi
+**Analiz Yetki Belgesinin Yenilenmesi**
 
 #### Yetkilendirme başvurusu
 
@@ -542,7 +542,7 @@ s) Metotlara ait validasyon raporları.
 
 ### YEDİNCİ BÖLÜM
 
-Denetim, Bildirimler ve Yaptırımlar
+**Denetim, Bildirimler ve Yaptırımlar**
 
 #### Denetim
 
@@ -574,7 +574,7 @@ Denetim, Bildirimler ve Yaptırımlar
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Bilimsel danışma komisyonu
 
@@ -596,4 +596,4 @@ Denetim, Bildirimler ve Yaptırımlar
 
 **MADDE 33 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekler için tıklayınız
+**Ekler için tıklayınız**

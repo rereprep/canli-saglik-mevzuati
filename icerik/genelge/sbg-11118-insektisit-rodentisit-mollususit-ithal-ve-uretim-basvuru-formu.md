@@ -16,7 +16,7 @@ T.C.
 
 ### SAĞLIK BAKANLIĞI
 
-Temel Sağlık Hizmetleri Genel Müdürlüğü
+**Temel Sağlık Hizmetleri Genel Müdürlüğü**
 
 ### ANKARA
 
@@ -78,7 +78,7 @@ Firmanın yetkili imzaları
 
 ### a)EMÜLSiYON TIPi PREPARATLARIN SPESIFIKASYONU
 
-I-GÖRÜNÜġ Renk ve homojenite durumu bidirilecektir.
+**I-GÖRÜNÜġ** Renk ve homojenite durumu bidirilecektir.
 
 ### 2-SOĞUK TEST:
 
@@ -100,11 +100,11 @@ Dünya Sağlık Örgütünün "Spesifications for Pesticides Used in Public Heal
 
 50 ml.numune,ağzı çok iyi kapanabilen bir cam kab içerisine konup,50
 
-oC+/-1o C sıcaklığında,3 gün bekletildikten sonra oda sıcaklığına kadar soğutulup,aktif madde yüzdesi,soğuk test,alev alma derecesi ve emülsiyon stabilitesi testleri uygulanır.Bulunan değerler "sıcaklığa dayanıklılık" testi uygulanmamış olan numunenin verilerine eşit olmalıdır. 6-pH Değeri (Alkalinite veya Asidite)
+oC+/-1o C sıcaklığında,3 gün bekletildikten sonra oda sıcaklığına kadar soğutulup,aktif madde yüzdesi,soğuk test,alev alma derecesi ve emülsiyon stabilitesi testleri uygulanır.Bulunan değerler "sıcaklığa dayanıklılık" testi uygulanmamış olan numunenin verilerine eşit olmalıdır. **6-pH Değeri (Alkalinite veya Asidite)**
 
 ### KULLANIMA HAZIR SOLÜSYON TİPİ PREPARATLARIN SPESİFİKASYONU
 
-1-GÖRÜNÜġ Renk ve homojenite durumu bildirilecektir.
+**1-GÖRÜNÜġ** Renk ve homojenite durumu bildirilecektir.
 
 ### 2-SOĞUK TEST
 
@@ -114,21 +114,21 @@ oC+/-1o C sıcaklığında,3 gün bekletildikten sonra oda sıcaklığına kadar
 
 Dünya Sağlık Örgütünün "Spesifications for Pesticides Used in Public Health" adlı yayındaki WHO/M/10 kod numaralı 'TAG Closed Tester Method for Determination of Flashpoint" veya WHO/M/11 kod numaralı "Cleveland Open Tester Method for Determination of Flashpoint" metodlarından birisi uygulanacaktır.Alev alma derecesi 22,8 o C den daha düşük olan preparatlar kabul edilmezler.
 
-4) pH değeri
+**4) pH değeri**
 
 ### C)TOZ(DUST) TİPi PREPARATLARIN SPESİFiKASYONU
 
-1)GÖRÜNÜġ Renk ve homojenite durumu bildirilecektir. 2)iNCELİK Dünya Sağlık Örgütünün "Spesifcations for Pesticides Used in Public Health" adlı yayınındaki WHO/M/4 kod numaralı "sieving test after accelera ted storage treatment" metodunun "dusting powders" bölümü uygulanacaktır.
+**1)GÖRÜNÜġ** Renk ve homojenite durumu bildirilecektir. 2)iNCELİK Dünya Sağlık Örgütünün "Spesifcations for Pesticides Used in Public Health" adlı yayınındaki WHO/M/4 kod numaralı "sieving test after accelera ted storage treatment" metodunun "dusting powders" bölümü uygulanacaktır.
 
 ### 3)ATILIġ KABİLİYETİ
 
 Preparata hızlandırılmış depolama şartları uygulanıp,oda sıcaklığına gelmesi için 4 saat ışıksız bekletilir.Böylece denemeye hazırlanan preparat,Dünya Sağlık Örgütünün "Equipment for Vector Control" adlı yayınıda WHO/EQP/4.r olarak kodlandırılmış ve bütün özellikleri belirtilmiş olan "Hand activated puluger type duster,Handcarried"adlı tozlayıcının 3/4 üne kadar doldurulup atma denemesi yapılır. A-Tozun aletten çıkışı kesik kesik olmayacaktır. B-Toz alette tıkanma,cidara yapışma yaratmayacaktır. C-Tozun atımı güç olmayacaktır. D-Atışı esnasında topaklaşma meydana gelmeyecektir.
 
-4) pH değeri(asidite,alkalinite değeri) SUDA ISLANABiLiR TOZ PREPARATLARIN (Wettable Powder) SUDA ÇÖZÜNEBİLEN TOZ PREPARATLARIN (Soluble Powder) SUDA DAĞILABiLEN TOZ PREPARATLARIN (Water Dispersible Powder)W.P
+4) pH değeri(asidite,alkalinite değeri) **SUDA ISLANABiLiR TOZ PREPARATLARIN (Wettable Powder)** SUDA ÇÖZÜNEBİLEN TOZ PREPARATLARIN (Soluble Powder) **SUDA DAĞILABiLEN TOZ PREPARATLARIN (Water Dispersible Powder)W.P**
 
 ### SPESİFİKASYONU
 
-1)GÖRÜNÜġ Renk ve homojenite durumu bildirilecektir. 2)iNCELiK Dünya Sağlık Örgütünün "Spesifcations for Pesticides Used in Public Health" adlı yayınındaki WHO/M/4 kod numaralı "sieving test after accelera ted storage treatment' metodunun "Water dispersible powder" bölümü uygulanacaktır.
+**1)GÖRÜNÜġ** Renk ve homojenite durumu bildirilecektir. **2)iNCELiK** Dünya Sağlık Örgütünün "Spesifcations for Pesticides Used in Public Health" adlı yayınındaki WHO/M/4 kod numaralı "sieving test after accelera ted storage treatment' metodunun "Water dispersible powder" bölümü uygulanacaktır.
 
 ### 3)SÜSPANSIYON YETENEĞI
 
@@ -138,9 +138,9 @@ Dünya Sağlık Örgütünün "Spesifcations for pesticides used in public healt
 
 50 ml. numune ağzı çok iyi kapanabilen bir kab içerisine konup 50
 
-oC+/-1oC sıcaklığında,üç gün bekletildikten sonra oda sıcaklığına kadar soğutulup aktif madde yüzdesi,soğuk test ve alev alma derecesi testleri uygulanır. Bulunan değerler "sıcağa dayanıklılık" testi uygulanmamış olan numunenin verilerine eşit olmalıdır. 5)pH değeri (Asidite,Alkalite) LARVA ÖLDÜRÜCÜ YAĞLARIN (Larvicial Oil) SPESİFİKASYONU
+oC+/-1oC sıcaklığında,üç gün bekletildikten sonra oda sıcaklığına kadar soğutulup aktif madde yüzdesi,soğuk test ve alev alma derecesi testleri uygulanır. Bulunan değerler "sıcağa dayanıklılık" testi uygulanmamış olan numunenin verilerine eşit olmalıdır. **5)pH değeri (Asidite,Alkalite)** LARVA ÖLDÜRÜCÜ YAĞLARIN (Larvicial Oil) SPESİFİKASYONU
 
-1) GÖRÜNÜġ Renk ve homojenite durumu bildirilecektir.
+**1) GÖRÜNÜġ** Renk ve homojenite durumu bildirilecektir.
 
 ### 2)ÖZGÜL AĞIRLIK
 
@@ -206,7 +206,7 @@ Tarih ve imza
 
 ### TASDİK EDİLİR .....NO'LU NOTER
 
-Tarih. İmza ve Mühür a-Uzun süreli stabilite testleri:
+Tarih. İmza ve Mühür **a-Uzun süreli stabilite testleri:**
 
 Uzun süreli stabilite testleri pestisit formül yapısına ve preparat tipine bağlı olarak 4+/-1oC de 2 sene,21+/-1o C de % 55 bağıl nemde 2 sene, 31+/-1 C de % 70 bağıl nemde 4 ay için preparatın son kullanma süresi tesbit edilir.
 
@@ -218,7 +218,7 @@ Testin başlangıcında o şarjdan alınmış 10 ayrı örnekte tek tek miktar t
 
 Hızlandırılmış stabilite testleri 40oC ile 80oC sıcaklıklar arsında en az 4 ayrı sıcaklıkta uygulanır. Bu stabilite araştırmaları en fazla 3 ay süre ile veya aktif maddenin yüzde onundan fazla miktarının parçalandığı ana kadar sürdürülür.
 
-Hızlandırılmıs stabilite testlerinde elde edilen veriler kinetik ve istatistiksel analizlere tabi tutularak aktif maddenin 21 C de son kullanma süresi hesaplanacak şekilde bütün tablo,grafik ve verilerle birlikte verilir.Stabilite araştırmalarının azami 3 aylık süre içinde eşit aralıklarla en az 4 ayrı zaman diliminde ölçüm yapılır.Ve her ölçümde 10 ayrı örnek kullanılır.Bu 10 ayrı örnekte yapılan tek tek miktar tayinleri ile istatistiksel sapma sınırları tesbit edilir. c- Stabilite Testlerinin Yapılmasında Uyulması Gereken Kurallar 1-Stabilite testlerinde uygulanan yöntemlerin bozulma ürünlerini etkilememesi gerekir. 2-Stabilite araştırmalarında kullanılan yöntemin ve uygulamanın ne şekilde yapıldığının açık ve detaylı olarak tanımı verilir. 3-Stabilite araştırmaları sırasında aktif maddenin parçalanması sonucunda oluşan zararlı ve toksik ürünlere ait bilgi verilmesi ve bu ürünlerin azami tolerans sınırlarına hangi süre içinde eriştiği belirtilmelidir. 4-Pestisit içeren preparatların son kulanma süresi imal edildiği tarihten başlamak üzere içlerindeki aktif maddelerden herhangi birinin aktivitesinden % 10 kayba uğradığı ana kadardır. 5- Her türlü stabilite testlerinde kullanılacak örnekler satışa sunulacak şekilde hazırlanmış orijinal ambalaj ünitelerinde yapılır. 6-Uzun süreli stabilite testlerinde preparat şekline ilişkin incelenecek kriterler. a-Itici gaz içeren aerosol tipi preparatlar.
+Hızlandırılmıs stabilite testlerinde elde edilen veriler kinetik ve istatistiksel analizlere tabi tutularak aktif maddenin 21 C de son kullanma süresi hesaplanacak şekilde bütün tablo,grafik ve verilerle birlikte verilir.Stabilite araştırmalarının azami 3 aylık süre içinde eşit aralıklarla en az 4 ayrı zaman diliminde ölçüm yapılır.Ve her ölçümde 10 ayrı örnek kullanılır.Bu 10 ayrı örnekte yapılan tek tek miktar tayinleri ile istatistiksel sapma sınırları tesbit edilir. **c- Stabilite Testlerinin Yapılmasında Uyulması Gereken Kurallar** 1-Stabilite testlerinde uygulanan yöntemlerin bozulma ürünlerini etkilememesi gerekir. 2-Stabilite araştırmalarında kullanılan yöntemin ve uygulamanın ne şekilde yapıldığının açık ve detaylı olarak tanımı verilir. 3-Stabilite araştırmaları sırasında aktif maddenin parçalanması sonucunda oluşan zararlı ve toksik ürünlere ait bilgi verilmesi ve bu ürünlerin azami tolerans sınırlarına hangi süre içinde eriştiği belirtilmelidir. 4-Pestisit içeren preparatların son kulanma süresi imal edildiği tarihten başlamak üzere içlerindeki aktif maddelerden herhangi birinin aktivitesinden % 10 kayba uğradığı ana kadardır. 5- Her türlü stabilite testlerinde kullanılacak örnekler satışa sunulacak şekilde hazırlanmış orijinal ambalaj ünitelerinde yapılır. 6-Uzun süreli stabilite testlerinde preparat şekline ilişkin incelenecek kriterler. <i>a-Itici gaz içeren aerosol tipi preparatlar.</i>
 
 -Ventil çalışma durumu ve püskürtülen danecik büyüklüğü
 
@@ -240,7 +240,7 @@ Hızlandırılmıs stabilite testlerinde elde edilen veriler kinetik ve istatist
 
 -Etken made içeriği
 
--Doz başına etken madde muhtevası b)İtici Gaz İçermeyen Aerosol Tipi Preparatlar(Nebülizatörler)
+-Doz başına etken madde muhtevası <i>b)İtici</i> Gaz <i>İçermeyen</i> Aerosol <i>Tipi Preparatlar(Nebülizatörler)</i>
 
 -Ventil çalışma durumu
 
@@ -252,7 +252,7 @@ Hızlandırılmıs stabilite testlerinde elde edilen veriler kinetik ve istatist
 
 -Etken maddenin parçalanma durumu
 
--Etken madde içeriği c-Krem, Emülsiyon, Merhem, Jel Tipindeki Preparatlar.
+-Etken madde içeriği <i>c-Krem,</i> Emülsiyon, Merhem, Jel <i>Tipindeki</i> Preparatlar.
 
 -Dış görünüşü
 
@@ -268,7 +268,7 @@ Hızlandırılmıs stabilite testlerinde elde edilen veriler kinetik ve istatist
 
 -Etken madde parçalanma durumu
 
--Etken madde içeriği d-Çözelti(Solüsyon) Şeklindeki Preparatlar.
+-Etken madde içeriği <i>d-Çözelti(Solüsyon) Şeklindeki</i> Preparatlar.
 
 -Renk değişiminin bildirilmesi
 
@@ -278,7 +278,7 @@ Hızlandırılmıs stabilite testlerinde elde edilen veriler kinetik ve istatist
 
 -Etken madde parçalanma durumu
 
--Etken madde içeriği e-Toz şeklindeki preparatlar.
+-Etken madde içeriği <i>e-Toz şeklindeki preparatlar.</i>
 
 -Dış görünüşü
 
@@ -290,7 +290,7 @@ Hızlandırılmıs stabilite testlerinde elde edilen veriler kinetik ve istatist
 
 -Etken madde parçalanma durumu
 
--Etken madde muhtevası f- Süspansiyon tipindeki preparatlar.
+-Etken madde muhtevası <i>f- Süspansiyon tipindeki preparatlar.</i>
 
 -Dış görünüşü
 
@@ -302,21 +302,21 @@ Hızlandırılmıs stabilite testlerinde elde edilen veriler kinetik ve istatist
 
 -Etken madde parçalanma durumu
 
--Etken madde içeriği g-Tablet(Pellet) Tipindeki Preparatlar 7-Hızlandırılmış Stabilite Testlerinde Preparat ġekline İlişkin İncelenecek Kriterler: a-ltici gaz içeren aerosol tipi preparatlar. Ağırlık kaybı 12 hafta boyunca dik tutularak ve yatırılarak 50
+-Etken madde içeriği <i>g-Tablet(Pellet) Tipindeki Preparatlar</i> 7-Hızlandırılmış Stabilite Testlerinde Preparat ġekline İlişkin İncelenecek **Kriterler:** <i>a-ltici</i> gaz içeren aerosol <i>tipi preparatlar.</i> **Ağırlık kaybı** 12 hafta boyunca dik tutularak ve yatırılarak 50
 
-derecede ağırlık kaybı incelenir Soğuğa dayanıklılık 4 hafta boyunca -10oC de tutulur ve dış görünüşü
+derecede ağırlık kaybı incelenir **Soğuğa dayanıklılık** 4 hafta boyunca -10oC de tutulur ve dış görünüşü
 
 çalkalama ile karışma durumu, süspansiyon şeklinde ise
 
-danecik büyüklüğü değişimi kontrol edilir. Sıcaklık değişiminden Örnekler 4 hafta boyunca her 24 saat periyotla 4 oC ve etkilenme 40oC lerde tutulur.Muayene:Dış görünüşü çalkalama
+danecik büyüklüğü değişimi kontrol edilir. Sıcaklık değişiminden Örnekler 4 hafta boyunca her 24 saat periyotla 4 oC ve **etkilenme** 40oC lerde tutulur.Muayene:Dış görünüşü çalkalama
 
 ### ile karışma durumu gözlenir.
 
-Parçalanma Örnekler 40,50,60 C de 12 hafta tutulur.Ventil çalışma reaksiyonunun durumu,dış görünüşü,çalkalama ile karışma durumu,pH incelenmesi değeri,etken madde stabilitesi incelenir b)İtici Gaz İçermeyen Aerosol Tipi Preparatlar:(Nebülizatör veya Atomizerler) Işığa hassasiyet ölçülür 24 saat boyunca bir cam şişede ve orijinal ambalajı
+**Parçalanma** Örnekler 40,50,60 C de 12 hafta tutulur.Ventil çalışma **reaksiyonunun** durumu,dış görünüşü,çalkalama ile karışma durumu,pH **incelenmesi** değeri,etken madde stabilitesi incelenir <i>b)İtici Gaz İçermeyen Aerosol Tipi Preparatlar:(Nebülizatör veya Atomizerler)</i> Işığa hassasiyet **ölçülür** 24 saat boyunca bir cam şişede ve orijinal ambalajı
 
 içinde xenon lambası altında tutulur.
 
-Muayene:Dış görünüşü ve etken madde kontrolüdür Soğuğa dayanıklılık Çözelti 4 hafta boyunca
+<i>Muayene:</i>Dış görünüşü ve etken madde kontrolüdür **Soğuğa dayanıklılık** Çözelti 4 hafta boyunca
 
 -10o
 
@@ -326,45 +326,45 @@ sıcaklığına getirilerek geri dönüşü olmayan
 
 değişikliklerin olup olmadığı gözlenir.
 
-Muayene:Dış görünüş ve berraklık gözlenir. Parçalanma kinetiği Çözelti 81 C,71 C,61 C,51 C ,41 C lerde 12 hafta
+<i>Muayene:</i>Dış görünüş ve berraklık gözlenir. **Parçalanma kinetiği** Çözelti 81 C,71 C,61 C,51 C ,41 C lerde 12 hafta
 
-balon jojede tutulur. Muayene:Dış
+balon jojede tutulur. <i>Muayene:</i>Dış
 
 görünüşü,berraklık,etken madde parçalanması ve
 
 ### muhtevası kontrol edilir
 
-c)Krem,Emülsiyon,Merhem,Jel Tipindeki Preparatlar Soğuğa dayanıklılık -10 C de 4 hafta depolanır.Oda sıcaklığına getirilip
+<i>c)Krem,Emülsiyon,Merhem,Jel Tipindeki Preparatlar</i> **Soğuğa dayanıklılık -**10 C de 4 hafta depolanır.Oda sıcaklığına getirilip
 
 geri dönüşü olmayan değişme olup olmadığı gözlenir.
 
-Muayene:Dış görünüş,homojenite,viskozite
+<i>Muayene:</i>Dış görünüş,homojenite,viskozite
 
-değişimi,parçacık büyüklüğü analizi yapılır. Değişik sıcaklıklarda Örnekler 4 hafta boyunca her 24 saat peryotla 4oC ve inceleme 41 oC lerde tutulur.
+değişimi,parçacık büyüklüğü analizi yapılır. Değişik sıcaklıklarda Örnekler 4 hafta boyunca her 24 saat peryotla 4oC ve **inceleme** 41 oC lerde tutulur.
 
-Muayene:Dışgörünüş,homojenite,viskozitedeğişimi,da
+<i>Muayene:</i>Dışgörünüş,homojenite,viskozitedeğişimi,da
 
 necik büyüklüğü analizi yapılır.
 
-Parçalanma kinetiği 61 C,51 C ,41 C lerde 12 hafta depolanır. Balon
+**Parçalanma kinetiği** 61 C,51 C ,41 C lerde 12 hafta depolanır. Balon
 
-jojelerde saklanır. Muayene:Dış görünüş,pH
+jojelerde saklanır. <i>Muayene:</i>Dış görünüş,pH
 
 değeri,etken madde parçalanma durumu ve etken
 
-madde muhtevası incelenir. d)Toz tipindeki preparatlar Işığa hassasiyet Örnekler 24 boyunca xenon ışığında tutulur.
+madde muhtevası incelenir. <i>d)Toz tipindeki preparatlar</i> Işığa hassasiyet Örnekler 24 boyunca xenon ışığında tutulur.
 
-Muayene:Dış görünüş etken madde parçalanma
+<i>Muayene:</i>Dış görünüş etken madde parçalanma
 
 ### durumu incelenir.
 
-Bağıl nem deneyi Örnekler 21 C de % 55 ı bağıl nem,31 C de % 70
+**Bağıl nem deneyi** Örnekler 21 C de % 55 ı bağıl nem,31 C de % 70
 
 bağıl nemde sabit ağırlığa gelene tutulur.
 
-Muayene:Dış görünüş,ağırlık kaybı,parçalanma
+<i>Muayene:</i>Dış görünüş,ağırlık kaybı,parçalanma
 
-zamanı,serpiştirme durumu verilir. Parçalanma kinetiği Örnekler 2 farklı nemde 81 oC,71 oC,61 oC,51 oC ,41
+zamanı,serpiştirme durumu verilir. **Parçalanma kinetiği** Örnekler 2 farklı nemde 81 oC,71 oC,61 oC,51 oC ,41
 
 o
 
@@ -382,31 +382,31 @@ C de % 70 bağıl nemde sabit ağırlığa gelene
 
 kadar tutulur.
 
-Muayene:Dış görünüş,ağırlık kaybı,etken madde
+<i>Muayene:</i>Dış görünüş,ağırlık kaybı,etken madde
 
 parçalanma durumu ve etken madde
 
-muhtevası,serpiştirme durumu incelenir. e)Çözelti şeklindeki preparatlar Işığa hassasiyet Renksiz cam şişelerde ve orijinal ambalajlarında örnekler 24
+muhtevası,serpiştirme durumu incelenir. <i>e)Çözelti şeklindeki preparatlar</i> Işığa hassasiyet Renksiz cam şişelerde ve orijinal ambalajlarında örnekler 24
 
 ### saat xenon lambası ile ışınlanır.
 
-Muayene:Dış görünüş ve etken madde parçalanması
+<i>Muayene:</i>Dış görünüş ve etken madde parçalanması
 
-incelenir. Soğuğa Itici gaz içermeyen aerosol tipi preparatlarda olduğu gibi dayanıklılık yapılır. Parçalanma Itici gaz içermeyen aerosol tipi preparatlarda olduğu gibi kinetiği yapılır. f)Süspansiyon tipindeki preparatlar Işığa hassasiyet Çözelti şeklindeki preparatlarda olduğu gibi yapılır. Soğuğa Çözelti şeklindeki preparatlarda olduğu gibi yapılır. dayanıklılık Muayene:Dış görünüş,çalkalama durumu ve parçacık
+incelenir. **Soğuğa** Itici gaz içermeyen aerosol tipi preparatlarda olduğu gibi **dayanıklılık** yapılır. **Parçalanma** Itici gaz içermeyen aerosol tipi preparatlarda olduğu gibi **kinetiği** yapılır. <i>f)Süspansiyon tipindeki preparatlar</i> Işığa hassasiyet Çözelti şeklindeki preparatlarda olduğu gibi yapılır. **Soğuğa** Çözelti şeklindeki preparatlarda olduğu gibi yapılır. **dayanıklılık** <i>Muayene:</i>Dış görünüş,çalkalama durumu ve parçacık
 
 ### büyüklüğü değişimi incelenir.
 
-Değişik Emülsiyon tipi preparatlarda olduğu gibi yapılır. sıcaklıklarda Muayene:Dış görünüş,çalkalama durumu ile karışma inceleme durumu,pH değeri ve parçacık büyüklüğü değişimi incelenir. Parçalanma Örnekler balon jojelerde 71 C,61 C,51 C ,41 C lerde 12 hafta kinetiği depolanır.
+Değişik Emülsiyon tipi preparatlarda olduğu gibi yapılır. **sıcaklıklarda** Muayene:Dış görünüş,çalkalama durumu ile karışma **inceleme** durumu,pH değeri ve parçacık büyüklüğü değişimi incelenir. Parçalanma Örnekler balon jojelerde 71 C,61 C,51 C ,41 C lerde 12 hafta kinetiği depolanır.
 
-Muayene: Dış görünüş,çalkalama durumu ile karışma
+<i>Muayene:</i> Dış görünüş,çalkalama durumu ile karışma
 
 durumu,pH değeri,etken madde parçalanma durumu, etken
 
-madde muhtevası verilir. g)Tablet(Pellet) tipindeki preparatlar Işığa hassasiyet Toz tipindeki preparatlarda olduğu gibi yapılır. Bağıl nem Toz tipindeki preparatlarda olduğu gibi yapılır. kontrolu Parçalanma Toz tipindeki preparatlarda olduğu gibi yapılır. kinetiği NOT: Konu ile ilgili literatürlerin gönderilmesi(Varsa orjinallerinin fotokopileri)
+madde muhtevası verilir. <i>g)Tablet(Pellet) tipindeki preparatlar</i> Işığa hassasiyet Toz tipindeki preparatlarda olduğu gibi yapılır. **Bağıl nem** Toz tipindeki preparatlarda olduğu gibi yapılır. **kontrolu Parçalanma** Toz tipindeki preparatlarda olduğu gibi yapılır. **kinetiği NOT:** Konu ile ilgili literatürlerin gönderilmesi(Varsa orjinallerinin fotokopileri)
 
 ### TOKSİKOLOJİK BİLGİLER
 
-Toksisite deneylerinin 3 ayrı hayvanda yapılması gerekir. A-Akut toksisitesi 1-Omurgalılara toksisitesi: a)Memeliler
+Toksisite deneylerinin 3 ayrı hayvanda yapılması gerekir. **A-Akut toksisitesi** 1-Omurgalılara toksisitesi: a)Memeliler
 
 -Ağızdan
 
@@ -416,13 +416,13 @@ Toksisite deneylerinin 3 ayrı hayvanda yapılması gerekir. A-Akut toksisitesi 
 
 -Deri altı (varsa)
 
--Damar içi(Varsa) b-Balık,kuş ve diğer türlere Not:Akut toksisite çalışmalarında kullanılan test hayvanlarının çeşitleri,yaşları cinsleri ve uygulanan metod hakkında bilgi verilecektir. B-Kronik Toksisitesi:(Tekrarlanan dozun toksisitesi) a)Oral,dermal,kümülasyon (bileşiğin) b)Diyet çalışmaları,hayvanlarda kısa süreli (90 gün),uzun süreli (2 yıl) diyetine katılarak yapılır. c)Patolojik etkileri(dokularda) d)Çoğalma,büyüme fonksiyonları,embriyonlar üzerindeki etkisi e)Metabolizmaya etkisi f)Kanser yapıp yapmadığı g)Metabolitlerin toksisitesih)Neuro toksisitesiNOT:Test hayvanlarının cinsleri,yaşları, sayısı ve deneme süresi bildirilecektir. C-İnsanlara Toksisitesi: a)Absorbsiyon yolu b)Tehlikeli dozlar c)Semptomlar d)Laboratuvar bulguları e)Deneme hayvanlarında saptanan toksikolojik değerleri ve insanlar için günlük alınabilir asgari emin miktarlar f)Gönüllüler üzerinde yapılan denemeler(varsa) g)İlaca uzun süre maruz kalanlarda yapılan inceleme ve gözlemler(varsa) h)Çocuklar için saptanmış akut ve kronik toksisite değerlerinin belirtilmesi k)Daha önce karşılaşılan vakalar I)Zehirlenme halinde yapılacak testler (Lab.da) m)Referanslar(Metot) D-a) Çevreye toksik etkisi (Belediye ve Resmi Kuruluşlarca kullanılmak üzere ruhsatlandırılmış preparatlar için) b)Çevrede kalıcılığı ve toksik etkileri c)Boş amlabajların,artık ve kullanılma süresi dolmuş ilaçların imha yöntemleri d)Kapalı yerlerde bulunabilecek azami mg/m
+-Damar içi(Varsa) b-Balık,kuş ve diğer türlere Not:Akut toksisite çalışmalarında kullanılan test hayvanlarının çeşitleri,yaşları cinsleri ve uygulanan metod hakkında bilgi verilecektir. **B-Kronik Toksisitesi:(Tekrarlanan dozun toksisitesi)** a)Oral,dermal,kümülasyon (bileşiğin) b)Diyet çalışmaları,hayvanlarda kısa süreli (90 gün),uzun süreli (2 yıl) diyetine katılarak yapılır. c)Patolojik etkileri(dokularda) d)Çoğalma,büyüme fonksiyonları,embriyonlar üzerindeki etkisi e)Metabolizmaya etkisi f)Kanser yapıp yapmadığı g)Metabolitlerin toksisitesih)Neuro toksisitesiNOT:Test hayvanlarının cinsleri,yaşları, sayısı ve deneme süresi bildirilecektir. C-İnsanlara Toksisitesi: a)Absorbsiyon yolu b)Tehlikeli dozlar c)Semptomlar d)Laboratuvar bulguları e)Deneme hayvanlarında saptanan toksikolojik değerleri ve insanlar için günlük alınabilir asgari emin miktarlar f)Gönüllüler üzerinde yapılan denemeler(varsa) g)İlaca uzun süre maruz kalanlarda yapılan inceleme ve gözlemler(varsa) h)Çocuklar için saptanmış akut ve kronik toksisite değerlerinin belirtilmesi k)Daha önce karşılaşılan vakalar I)Zehirlenme halinde yapılacak testler (Lab.da) m)Referanslar(Metot) D-a) Çevreye toksik etkisi (Belediye ve Resmi Kuruluşlarca kullanılmak üzere ruhsatlandırılmış preparatlar için) b)Çevrede kalıcılığı ve toksik etkileri c)Boş amlabajların,artık ve kullanılma süresi dolmuş ilaçların imha yöntemleri d)Kapalı yerlerde bulunabilecek azami mg/m
 
 3
 
 cinsinden miktarı
 
-E-Zehirlenmede tedavi ve uygulamada alınacak tedbirler:
+**E-Zehirlenmede tedavi ve uygulamada alınacak tedbirler:**
 
 a)Zehirlenme belirtisi
 
@@ -530,7 +530,7 @@ Bu bölümde; a)Etkiyi azaltan veya çoğaltan sıcaklık,ışık,rutubet vb. d�
 
 Bu bölümde Dünya Sağlık Örgütü standartlarına uygun metodlar kullanılarak yurt içinde yapılmış biyolojik deneme raporlarının neticeleri özetlenerek belirtilir,metod izah edilir ve deneme raporları ekte gönderilir.Yurt dışında yapılmış denemeler varsa ayrıca gönderebilir.
 
-NOT:Denemeler resmi bir kurumda yapılmışsa resmi mühürlü ve imzalı raporları,serbest uzmanlarca yapılmışsa uzmanın noterden onaylı diploma veya uzmanlık belgesi sureti eklenir. Biyolojik deneme raporları:
+NOT:Denemeler resmi bir kurumda yapılmışsa resmi mühürlü ve imzalı raporları,serbest uzmanlarca yapılmışsa uzmanın noterden onaylı diploma veya uzmanlık belgesi sureti eklenir. **Biyolojik deneme raporları:**
 
 -Denemeyi yapan,
 

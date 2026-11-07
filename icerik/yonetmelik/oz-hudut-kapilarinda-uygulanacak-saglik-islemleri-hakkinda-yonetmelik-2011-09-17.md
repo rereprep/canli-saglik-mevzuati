@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -44,9 +44,9 @@ d) Düzensiz göç: Yabancıların yasadışı yollarla Türkiye’ye girişini,
 
 e) Gemi sağlık denetim görevlisi: Türk limanlarına gelen gemilerde sağlık denetimi yapmaya ve uluslararası sağlık belgelerini denetleme ve düzenlemeye yetkili olarak, Genel Müdürlük tarafından eğitimden geçirilerek sertifikalandırılmış sağlık personelini,
 
-f) Genel Müdür: (Değişik ibare:RG-17/8/2019-30861) Türkiye Hudut ve Sahiller Sağlık Genel Müdürünü,
+f) Genel Müdür: **(Değişik ibare:RG-17/8/2019-30861)** Türkiye Hudut ve Sahiller Sağlık Genel Müdürünü,
 
-g) Genel Müdürlük: (Değişik ibare:RG-17/8/2019-30861) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü,
+g) Genel Müdürlük: **(Değişik ibare:RG-17/8/2019-30861)** Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü,
 
 ğ) Halk sağlığı riski: Uluslararası düzeyde yayılabilecek veya ciddi ve doğrudan bir tehlike gösterebilecek durumlar başta olmak üzere, insan sağlığını olumsuz yönde etkileyebilecek kimyasal, biyolojik, radyolojik ve nükleer bir olay ihtimalini,
 
@@ -78,7 +78,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Görev, Yetki ve Sorumluluklar
+**Görev, Yetki ve Sorumluluklar**
 
 #### Hudut kapılarında sağlık denetimleri
 
@@ -120,7 +120,7 @@ Görev, Yetki ve Sorumluluklar
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Enfekte bölgeler ve uygulanacak sağlık önlemlerinin duyurulması
 

@@ -11,7 +11,7 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-06.10.2011/40848 Sayı : B.10.0.THG.0.79.00.02/ Konu: Muayenehane bina standartları
+**06.10.2011/40848** Sayı : B.10.0.THG.0.79.00.02/ Konu: Muayenehane bina standartları
 
 ### ………………VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE (2011/55)
 
@@ -29,9 +29,9 @@ Bu kapsamda; muayenehane açılışı esnasında Müdürlüklerce muayenehane ba
 
 ### SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-Sayı : B.10.0.THG.0.79.00.02/ Konu: Muayenehane bina standartları 3-03/08/2010 tarihinden önce ilgili mevzuat kapsamında açılmış muayenehaneler; 03/08/2015 tarihine kadar depreme dayanıklılık raporu hariç, diğer belgelerle 12/D maddesine uyum sağlayarak uygunluk belgesi almak zorundadır. 4-3/8/2010 tarihine kadar açılmış olan muayenehanelerin, bu Yönetmeliğe uyum süresi içerisinde 03.08.2011 tarihinden sonra başka bir adrese taşınması veya müşterek muayenehaneye dönüştürülmek istenmesi halinde; taşınılacak mekanın veya müşterek muayenehanenin 12/D maddesi ile bu Yönetmeliğin ekinde yer alan Ek-1/d Muayenehane Açma Başvurusunda İstenecek Belgelere uygunluğu aranır. 5-12/D maddesinin 1 inci fıkrasının (f) bendinde “Muayenehanelerde yer alan giriş, kapı, asansör, merdiven, tuvalet ve lavabo gibi fiziki alanlar 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun Ek 1 inci maddesi ve ilgili diğer mevzuat hükümlerine uygun olarak düzenlenir.” hükmü,
+Sayı : B.10.0.THG.0.79.00.02/ Konu: Muayenehane bina standartları 3-03/08/2010 tarihinden önce ilgili mevzuat kapsamında açılmış muayenehaneler; 03/08/2015 tarihine kadar depreme dayanıklılık raporu hariç, diğer belgelerle 12/D maddesine uyum sağlayarak uygunluk belgesi almak zorundadır. 4-3/8/2010 tarihine kadar açılmış olan muayenehanelerin, bu Yönetmeliğe uyum süresi içerisinde 03.08.2011 tarihinden sonra başka bir adrese taşınması veya müşterek muayenehaneye dönüştürülmek istenmesi halinde; taşınılacak mekanın veya müşterek muayenehanenin 12/D maddesi ile bu Yönetmeliğin ekinde yer alan Ek-1/d Muayenehane Açma Başvurusunda İstenecek Belgelere uygunluğu aranır. 5-12/D maddesinin 1 inci fıkrasının (f) bendinde <i>“Muayenehanelerde yer alan giriş, kapı,</i> <i>asansör, merdiven, tuvalet ve lavabo gibi fiziki alanlar 3/5/1985 tarihli ve 3194 sayılı İmar</i> <i>Kanununun Ek 1 inci maddesi ve ilgili diğer mevzuat hükümlerine uygun olarak düzenlenir.”</i> hükmü,
 
-Mezkûr Kanun’un Ek 1 inci maddesinde (Ek:30/5/1997 - KHK - 572/1 md.); “Fiziksel çevrenin özürlüler için ulaşılabilir ve yaşanılabilir kılınması için, imar planları ile kentsel, sosyal, teknik altyapı alanlarında ve yapılarda, Türk Standartları Enstitüsünün ilgili standardına uyulması zorunludur.” hükmü mevcuttur.
+Mezkûr Kanun’un Ek 1 inci maddesinde (Ek:30/5/1997 - KHK - 572/1 md.); “<i>Fiziksel</i> <i>çevrenin özürlüler için ulaşılabilir ve yaşanılabilir kılınması için, imar planları ile kentsel,</i> <i>sosyal, teknik altyapı alanlarında ve yapılarda, Türk Standartları Enstitüsünün ilgili</i> <i>standardına uyulması zorunludur.”</i> hükmü mevcuttur.
 
 Yukarıda yer alan mevzuat kapsamında asansör, kapı, merdiven, tuvalet ve lavabo gibi fiziki mekânların değerlendirilmesinde bakılacak asgari kriterler yazımız ekinde yer alan Ek- 1’de tanımlanmıştır. 6-Bakanlığa intikal eden başvuru dosyalarında; muayenehanenin açılacağı mekânda yangına karşı gerekli tedbirlerin alındığını gösteren belgede binanın yangın açısından uygunluğuna dair hususlar yer almamaktadır. Yapı ruhsatı ve yapı kullanma izin belgesi başvurusu, 19/8/2008 tarihinden önce olanlarda, yangına karşı gerekli tedbirlerin alındığını gösteren belgede binaya dair bilgilerin de yer alması gerekmekte olup, başvurusu bu tarihten sonra olan binalarda sadece muayenehanenin içindeki alınan tedbirlerin yer alması yeterli olacaktır. 7-Depreme dayanıklılık raporu;
 
@@ -135,7 +135,7 @@ Müsteşar
 
 ### SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-EK-1
+**EK-1**
 
 ### MUAYENEHANENİN AÇILACAĞI BİNAYA AİT KRİTERLER
 
@@ -163,7 +163,7 @@ f) Hidrolik kapı kapatıcılar kapanma müddetini geciktirici türden olmalıd�
 
 g) Kamu binalarıyla ticarî bina girişlerinde özürlülerin kullanacağı giriş ve çıkışlar uygun
 
-işaret veya sembolle belirtilmelidir Rampa ve Sahanlıklar;
+işaret veya sembolle belirtilmelidir **Rampa ve Sahanlıklar;**
 
 Farklı seviyelerdeki yerler birbirine rampa ile bağlanmalıdır. Kamu, ticarî bina girişlerinin merdivenli olması halinde özürlülerin kullanabileceği eğimde rampa yapılmalıdır. Rampaların başında ve sonunda ayrı dokuda sahanlık bulunmalıdır. Rampa ve sahanlıklarla ilgili ölçü ve eğimler TS 9111’de belirtilmiştir. Buna göre;
 
@@ -233,13 +233,13 @@ yerden yüksekliği 106,5 cm olmalı, asansör kapısının kalınlığı 30 cm
 
 olmalıdır.Asansörle ilgili şekiller aşağıda gösterilmiştir.
 
-d) Kabin içerisinde tehlike alarmı olmalı, mümkünse telefon bulunmalıdır. ġekil 1. Asansörlere ait ölçüler. Ölçüler cm’dir. (TS 9111 ġekil 6a değiştirilerek)
+d) Kabin içerisinde tehlike alarmı olmalı, mümkünse telefon bulunmalıdır. **ġekil 1.** Asansörlere ait ölçüler. Ölçüler cm’dir. (TS 9111 ġekil 6a değiştirilerek)
 
 2/5
 
 ### SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-ġekil 2 (devam) Asansörlere ait ölçüler. Ölçüler cm’dir. (TS 9111 ġekil 6b değiştirilerek) ġekil 3 Kabin içi ölçüler. Ölçüler cm’dir. (TS 9111 ġekil 7 değiştirilerek)
+**ġekil 2** (devam) Asansörlere ait ölçüler. Ölçüler cm’dir. (TS 9111 ġekil 6b değiştirilerek) **ġekil 3** Kabin içi ölçüler. Ölçüler cm’dir. (TS 9111 ġekil 7 değiştirilerek)
 
 ### 3-MERDİVEN
 
@@ -255,7 +255,7 @@ b) Ortak merdiven ve sahanlık genişlikleri konut yapılarında (1,2) m den, di
 
 ### SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü
 
-Basamaklar;
+**Basamaklar;**
 
 a) Basamak genişliği yaklaşık 30 cm, rıhtlar 15 cm’den daha yüksek olmamalıdır.
 
@@ -271,11 +271,11 @@ c) Görme bozukluğu olan kişiler için, bir kat merdiven basamaklarının alt 
 
 basamaklarında veya sahanlıklar arasında veya her basamağın ön kenarında farklı
 
-renkler kullanılmalıdır. Sahanlıklar;
+renkler kullanılmalıdır. **Sahanlıklar;**
 
 a) Uzun ve dik merdivenler 8-10 basamakta bir, sahanlıkla kesilmelidir, sahanlık
 
-genişliği yukarıda belirtilen şekilde olmalıdır. Tırabzanlar;
+genişliği yukarıda belirtilen şekilde olmalıdır. **Tırabzanlar;**
 
 Merdivenin her iki yanında tırabzan olmalıdır.
 
@@ -295,7 +295,7 @@ e) Duvar ile tırabzanın arası 38 mm olmalıdır.
 
 f) Görme özürlüler tarafından kolayca fark edilebilmesi amacıyla tırabzan rengi yan
 
-duvar rengi ile farklılık göstermelidir. ġekil 4 Basamaklar ile ilgili özellikler. Ölçüler cm’dir. (TS 9111 ġekil 10, ġekil 11 değiştirilerek)
+duvar rengi ile farklılık göstermelidir. **ġekil 4** Basamaklar ile ilgili özellikler. Ölçüler cm’dir. (TS 9111 ġekil 10, ġekil 11 değiştirilerek)
 
 4/5
 
@@ -335,7 +335,7 @@ g) Aynanın alt kenarı yerden en fazla 101, 5 veya aynanın üst kenarı yerden
 
 cm olmalıdır. Tekerlekli sandalye kullananlar için ayarlı aynalara veya sabit
 
-olduğunda 10°-15 ° eğik olmalıdır. ġekil 5-Tuvalet ve lavabo bölümlerinin aynı hacimde olması (TS 12576 ġekil 46)
+olduğunda 10°-15 ° eğik olmalıdır. **ġekil 5-**Tuvalet ve lavabo bölümlerinin aynı hacimde olması (TS 12576 ġekil 46)
 
 5/5
 

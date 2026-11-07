@@ -14,11 +14,11 @@ durum: "yürürlükte"
 
 ### HAKKINDA NİZAMNAME
 
-Bakanlar Kurulu Kararının Tarihi : 15.8.1957 No : 4/9326
+**Bakanlar Kurulu Kararının Tarihi : 15.8.1957 No : 4/9326**
 
-Dayandığı Kanunun Tarihi : 19.4.1937 No : 3153
+**Dayandığı Kanunun Tarihi : 19.4.1937 No : 3153**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 12.10.1957 No : 9730
+**Yayımlandığı Resmî Gazetenin Tarihi : 12.10.1957 No : 9730**
 
 #### Yayımlandığı Düsturun Tertibi : 3 Cildi : 38 Sayfa : 1823
 
@@ -26,7 +26,7 @@ Yayımlandığı Resmî Gazetenin Tarihi : 12.10.1957 No : 9730
 
 ### BİRİNCİ BÖLÜM
 
-Fizik tedavi müesseseleri:
+**Fizik tedavi müesseseleri:**
 
 **Madde 2 –** Fizik tedavi müesseseleri asgari; elektroterapi, ışık tedavisi, masaj ve hareket tedavileri kısımları ile muayene ve istirahat odalarını ihtiva edecek ve bu bölümler kafi genişlikte bulunacaktır.
 
@@ -46,7 +46,7 @@ Ultrason cihazı asgari 3 Wat/Cm2 ultrason verebilecek vasıfta olacaktır.
 
 ### İKİNCİ BÖLÜM
 
-Kaplıcalar ve içmeler:
+**Kaplıcalar ve içmeler:**
 
 **Madde 7 –** Sıhhat ve İçtimai Muavenet Vekaletince bir tedavi müessesesi olduğu kabul ve tasdik edilerek işletme ruhsatnamesi verilecek kaplıcalar, asgari şu tesisleri ihtiva edecektir:
 
@@ -84,7 +84,7 @@ Kaplıcalarda olduğu gibi bütün bu tesisatı ihtiva edecek bina veya binalar 
 
 Bu müessesede tedaviler, müessese tabibinin nezaret ve mesuliyeti altında yapılır.
 
-Muvakkat madde – Bu Nizamnamenin neşri tarihinde işletme ruhsatnamesini haiz olup 7, 8, 9 ve 10 uncu maddelerde belirtilen hususları tamamen ihtiva etmeyen kaplıca ve içmeler, bu Nizamnamenin mer'iyete girdiği tarihten itibaren üç sene zarfında noksanlarını ikmal etmeğe mecburdurlar.
+**Muvakkat madde –** Bu Nizamnamenin neşri tarihinde işletme ruhsatnamesini haiz olup 7, 8, 9 ve 10 uncu maddelerde belirtilen hususları tamamen ihtiva etmeyen kaplıca ve içmeler, bu Nizamnamenin mer'iyete girdiği tarihten itibaren üç sene zarfında noksanlarını ikmal etmeğe mecburdurlar.
 
 **Madde 11 –** 3153 sayılı kanunun 4 üncü maddesi mucibince tanzim ve Şürayı Devletçe tetkik edilmiş olan bu Nizamname hükümleri Resmi Gazetede neşri tarihinde mer'iyete girer.
 

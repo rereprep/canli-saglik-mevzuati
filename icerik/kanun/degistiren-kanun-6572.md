@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212M1-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN HÂKİMLER VE SAVCILAR KANUNU İLE BAZI KANUN VE KANUN
-HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 6572 Kabul Tarihi: 2/12/2014
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN HÂKİMLER VE SAVCILAR KANUNU İLE BAZI KANUN VE KANUN**
+**HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 6572 **Kabul Tarihi: 2/12/2014**
 
 MADDE 1 – 18/1/1972 tarihli ve 1512 sayılı Noterlik Kanununun 22 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Boşalan, açılan veya dördüncü sınıftan üçüncü sınıfa geçirilen noterlikler Resmî Gazete’de ilan olunur.”
@@ -120,7 +120,7 @@ Yeni iş bölümüyle dairesi değiştirilen dava dosyaları, beşinci fıkra uy
 MADDE 28 – 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununun 8 inci maddesinin birinci fıkrasının Anayasa Mahkemesi tarafından iptal edilen (b) bendi aşağıdaki şekilde yeniden düzenlenmiş; (k) bendinde yer alan “beş” ibaresi “üç” ve “tarih” ibaresi “yılın ocak ayının birinci günü” şeklinde değiştirilmiştir.
 “b) Giriş sınavının yapıldığı yılın ocak ayının birinci günü itibarıyla otuzbeş yaşını doldurmamış olmak.”
 
-MADDE 29 – 2802 sayılı Kanunun 106 ncı maddesinin dördüncü fıkrasına “Adalet Müfettişlerine,” ibaresinden sonra gelmek üzere “Hâkimler ve Savcılar Yüksek Kurulu Müfettişlerine ve Bakanlık İç Denetçilerine” ibaresi, beşinci fıkrasına “ödeme yapılanlara;” ibaresinden sonra gelmek üzere “yabancı dil tazminatı hariç,” ibaresi ve maddeye beşinci fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiş; mevcut altıncı fıkrada yer alan “vergiye” ibaresi “vergi ve kesintiye” şeklinde değiştirilmiştir.
+**MADDE 29 –** 2802 sayılı Kanunun 106 ncı maddesinin dördüncü fıkrasına “Adalet Müfettişlerine,” ibaresinden sonra gelmek üzere “Hâkimler ve Savcılar Yüksek Kurulu Müfettişlerine ve Bakanlık İç Denetçilerine” ibaresi, beşinci fıkrasına “ödeme yapılanlara;” ibaresinden sonra gelmek üzere “yabancı dil tazminatı hariç,” ibaresi ve maddeye beşinci fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiş; mevcut altıncı fıkrada yer alan “vergiye” ibaresi “vergi ve kesintiye” şeklinde değiştirilmiştir.
 “Yargıtay Birinci Başkanı, Danıştay Başkanı, Yargıtay Cumhuriyet Başsavcısı, Danıştay Başsavcısı, Yargıtay Birinci başkanvekilleri, Danıştay başkanvekilleri, Yargıtay Cumhuriyet Başsavcıvekili, Yargıtay ve Danıştay daire başkanları, Adalet Bakanlığı Müsteşarı, Yargıtay ve Danıştay üyeleri, birinci sınıf hâkim ve savcılar, birinci sınıfa ayrılmış hâkim ve savcılar ve diğer hâkim ve savcılara (15.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak miktarda aylık ek tazminat ödenir. Bu Kanuna tabi olan hâkim ve savcılardan Anayasa Mahkemesinde görev yapanlara ödenen aylık ek ödenek ve Uyuşmazlık Mahkemesinde görev yapanlara ödenen ödenek ile bu fıkrada belirlenen ek tazminattan yalnızca biri ve yüksek olanı ödenir.”
 
 MADDE 30 – 2802 sayılı Kanuna 112 nci maddesinden sonra gelmek üzere aşağıdaki 112/A maddesi eklenmiştir.
@@ -173,7 +173,7 @@ MADDE 40 – 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 116 nc
 MADDE 41 – 5271 sayılı Kanunun 128 inci maddesinin ikinci fıkrasının (a) bendinin (17) numaralı alt bendi aşağıdaki şekilde değiştirilmiştir.
 “17. Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (madde 309, 311, 312, 313, 314, 315, 316),”
 
-MADDE 42 – 5271 sayılı Kanunun 135 inci maddesinin birinci fıkrasında yer alan “tespit edilebilir,” ibaresi madde metninden çıkarılmış, beşinci fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiş, mevcut yedinci fıkrasının (a) bendinin (14) numaralı alt bendi aşağıdaki şekilde değiştirilmiş, bu alt bentten sonra gelmek üzere aşağıdaki alt bent eklenmiş ve diğer alt bent buna göre teselsül ettirilmiştir.
+**MADDE 42 –** 5271 sayılı Kanunun 135 inci maddesinin birinci fıkrasında yer alan “tespit edilebilir,” ibaresi madde metninden çıkarılmış, beşinci fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiş, mevcut yedinci fıkrasının (a) bendinin (14) numaralı alt bendi aşağıdaki şekilde değiştirilmiş, bu alt bentten sonra gelmek üzere aşağıdaki alt bent eklenmiş ve diğer alt bent buna göre teselsül ettirilmiştir.
 “(6) Şüpheli ve sanığın telekomünikasyon yoluyla iletişiminin tespiti, soruşturma aşamasında hâkim, kovuşturma aşamasında mahkeme kararına istinaden yapılır. Kararda, yüklenen suçun türü, hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının türü, telefon numarası veya iletişim bağlantısını tespite imkân veren kodu ve tedbirin süresi belirtilir.”
 “14. Devletin birliğini ve ülke bütünlüğünü bozmak (madde 302),” “15. Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (madde 309, 311, 312, 313, 314, 315, 316),”
 

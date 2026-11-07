@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -70,7 +70,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel Hükümler
+**Genel Hükümler**
 
 #### Kullanım yasağı
 
@@ -304,7 +304,7 @@ c) İşyerinin çalışanlarıyla devri halinde kayıtlar devredilen işletmeye 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Uygulama esasları
 
@@ -326,7 +326,7 @@ Son Hükümler
 
 **MADDE 22 –** (1) Bu Yönetmeliğin;
 
-a ) (Değişik:RG-16/1/2014-28884) 9 uncu maddesinin dördüncü fıkrası ile 10 uncu maddesi 20/8/2015 tarihinde,
+a **) (Değişik:RG-16/1/2014-28884)** 9 uncu maddesinin dördüncü fıkrası ile 10 uncu maddesi 20/8/2015 tarihinde,
 
 b) 19 uncu maddesi yayımı tarihinden 6 ay sonra,
 

@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -26,7 +26,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik; İş Sağlığı ve Güvenliği Kanununun 6 ncı, (Değişik ibare:RG-18/12/2014-29209) 8 inci, 24 üncü, 27 nci, 30 uncu ve 31 inci maddeleri ile 9/1/1985 tarihli ve 3146 sayılı Çalışma ve Sosyal Güvenlik Bakanlığının Teşkilat ve Görevleri Hakkında Kanunun 2 nci ve 12 nci maddelerine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik; İş Sağlığı ve Güvenliği Kanununun 6 ncı, **(Değişik ibare:RG-18/12/2014-29209)** 8 inci, 24 üncü, 27 nci, 30 uncu ve 31 inci maddeleri ile 9/1/1985 tarihli ve 3146 sayılı Çalışma ve Sosyal Güvenlik Bakanlığının Teşkilat ve Görevleri Hakkında Kanunun 2 nci ve 12 nci maddelerine dayanılarak hazırlanmıştır.
 
 #### Tanımlar ve kısaltmalar
 
@@ -48,23 +48,23 @@ f) Ortak sağlık ve güvenlik birimi (OSGB): Kamu kurum ve kuruluşları, organ
 
 g) Sorumlu müdür: İşyeri hekimliği veya iş güvenliği uzmanlığı belgesine sahip, OSGB’lerde tam süreli istihdam edilen ve bu birimlerin iş ve işlemlerinden Bakanlığa karşı sorumlu olan kişiyi,
 
-ğ) (Ek:RG-18/12/2014-29209) (Değişik:RG-28/2/2020-31053) İtiraz komisyonu: Bu Yönetmelik kapsamında hizmet veren kişi veya kurumların belgelerinin askıya alınma veya iptali ile ilgili itirazlarını değerlendirmek ve sonuçlandırmak üzere; İş Sağlığı ve Güvenliği Genel Müdürü başkanlığında, ilgili Genel Müdür Yardımcısı, ilgili Daire Başkanı ile Genel Müdürlükte görevli ve değerlendirmeye konu denetim sürecinde yer almamış dört personel olmak üzere toplam yedi üyeden oluşan komisyonu,
+ğ) **(Ek:RG-18/12/2014-29209) (Değişik:RG-28/2/2020-31053)** İtiraz komisyonu: Bu Yönetmelik kapsamında hizmet veren kişi veya kurumların belgelerinin askıya alınma veya iptali ile ilgili itirazlarını değerlendirmek ve sonuçlandırmak üzere; İş Sağlığı ve Güvenliği Genel Müdürü başkanlığında, ilgili Genel Müdür Yardımcısı, ilgili Daire Başkanı ile Genel Müdürlükte görevli ve değerlendirmeye konu denetim sürecinde yer almamış dört personel olmak üzere toplam yedi üyeden oluşan komisyonu,
 
-h) (Ek:RG-18/12/2014-29209) (Değişik:RG-4/2/2024-32450) Çalışan sağlığı merkezi (ÇASMER): Sağlık Bakanlığına bağlı, işyerlerine iş sağlığı ve güvenliği hizmetleri sunmak üzere 6331 sayılı Kanun kapsamında yetkilendirilen, gerekli donanım ve personele sahip birimi,
+h) **(Ek:RG-18/12/2014-29209) (Değişik:RG-4/2/2024-32450)** Çalışan sağlığı merkezi (ÇASMER): Sağlık Bakanlığına bağlı, işyerlerine iş sağlığı ve güvenliği hizmetleri sunmak üzere 6331 sayılı Kanun kapsamında yetkilendirilen, gerekli donanım ve personele sahip birimi,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Hak ve Yükümlülükler
+**Hak ve Yükümlülükler**
 
 #### İşverenin iş sağlığı ve güvenliği hizmetleri ile ilgili yükümlülükleri
 
-**MADDE 5 –** (1) (Değişik:RG-18/12/2014-29209) İşveren, işyerlerinde alınması gereken iş sağlığı ve güvenliği tedbirlerinin belirlenmesi ve uygulanmasının izlenmesi, iş kazası ve meslek hastalıklarının önlenmesi, çalışanların ilk yardım ve acil tedavi ile koruyucu sağlık ve güvenlik hizmetlerinin yürütülmesi amacıyla; çalışanları arasından ilgili yönetmeliklerde belirtilen nitelikleri haiz bir veya birden fazla işyeri hekimi, iş güvenliği uzmanı görevlendirir. On ve daha fazla çalışanı olan çok tehlikeli sınıfta yer alan işyeri işverenleri ayrıca diğer sağlık personeli görevlendirir. Gerekli nitelikleri haiz olması halinde tehlike sınıfı ve çalışan sayısını dikkate alarak bu hizmetin yerine getirilmesini kendisi üstlenebilir.
+**MADDE 5 –** (1) **(Değişik:RG-18/12/2014-29209)** İşveren, işyerlerinde alınması gereken iş sağlığı ve güvenliği tedbirlerinin belirlenmesi ve uygulanmasının izlenmesi, iş kazası ve meslek hastalıklarının önlenmesi, çalışanların ilk yardım ve acil tedavi ile koruyucu sağlık ve güvenlik hizmetlerinin yürütülmesi amacıyla; çalışanları arasından ilgili yönetmeliklerde belirtilen nitelikleri haiz bir veya birden fazla işyeri hekimi, iş güvenliği uzmanı görevlendirir. On ve daha fazla çalışanı olan çok tehlikeli sınıfta yer alan işyeri işverenleri ayrıca diğer sağlık personeli görevlendirir. Gerekli nitelikleri haiz olması halinde tehlike sınıfı ve çalışan sayısını dikkate alarak bu hizmetin yerine getirilmesini kendisi üstlenebilir.
 
-(2) İşveren, işyerinde gerekli niteliklere sahip personel bulunmaması halinde birinci fıkrada sayılan yükümlülüklerinin tamamını veya bir kısmını, (Değişik ibare:RG-4/2/2024-32450) OSGB ya da ÇASMER’lerden hizmet alarak yerine getirebilir.
+(2) İşveren, işyerinde gerekli niteliklere sahip personel bulunmaması halinde birinci fıkrada sayılan yükümlülüklerinin tamamını veya bir kısmını, **(Değişik ibare:RG-4/2/2024-32450)** OSGB ya da ÇASMER’lerden hizmet alarak yerine getirebilir.
 
-(3) İşveren, işyeri hekimi ve iş güvenliği uzmanının tam süreli görevlendirilmesi gereken durumlarda İSGB kurar. Tam süreli işyeri hekimi görevlendirilen işyerlerinde, diğer sağlık personeli görevlendirilmesi zorunlu değildir. (Ek cümle:RG-30/6/2016-29758) Birden fazla iş güvenliği uzmanı görevlendirilen kamu, maden, inşaat, metal, tekstil, sağlık, ulaşım, taşımacılık, ticaret, imalat, bakım, onarım, kurulum, enerji, kimya, tarım, ziraat, hayvancılık, mobilya, ormancılık, gıda, matbaa, atık yönetimi, su temini, temizlik, ilaçlama sektörlerine ait işyerlerinde, tam süreli iş güvenliği uzmanlarından sadece birisinde uygun belge sınıfı aranır.
+(3) İşveren, işyeri hekimi ve iş güvenliği uzmanının tam süreli görevlendirilmesi gereken durumlarda İSGB kurar. Tam süreli işyeri hekimi görevlendirilen işyerlerinde, diğer sağlık personeli görevlendirilmesi zorunlu değildir. **(Ek cümle:RG-30/6/2016-29758)** Birden fazla iş güvenliği uzmanı görevlendirilen kamu, maden, inşaat, metal, tekstil, sağlık, ulaşım, taşımacılık, ticaret, imalat, bakım, onarım, kurulum, enerji, kimya, tarım, ziraat, hayvancılık, mobilya, ormancılık, gıda, matbaa, atık yönetimi, su temini, temizlik, ilaçlama sektörlerine ait işyerlerinde, tam süreli iş güvenliği uzmanlarından sadece birisinde uygun belge sınıfı aranır.
 
 (4) Üçüncü fıkrada belirtilen sürenin hesaplanmasında, çalışanların tabi olduğu kanun hükümleri saklı kalmak kaydıyla, 22/5/2003 tarihli ve 4857 sayılı İş Kanununa göre belirlenen haftalık çalışma süresi dikkate alınır.
 
@@ -80,9 +80,9 @@ c) İşyerinde sağlık ve güvenlik hizmetini yürütenler arasında işbirliğ
 
 d) İşyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin görevlerini yerine getirebilmeleri için, Bakanlıkça belirlenen sürelerden az olmamak kaydı ile yeterli çalışma süresini sağlamakla,
 
-e) (Ek:RG-18/12/2014-29209) Çalışanın ölümü veya maluliyetiyle sonuçlanacak şekilde vücut bütünlüğünün bozulmasına neden olan iş kazası veya meslek hastalığının meydana gelmesinde ihmali yargı kararı ile kesinleşen işyeri hekimi veya iş güvenliği uzmanını Genel Müdürlüğe bildirmekle,
+e) **(Ek:RG-18/12/2014-29209)** Çalışanın ölümü veya maluliyetiyle sonuçlanacak şekilde vücut bütünlüğünün bozulmasına neden olan iş kazası veya meslek hastalığının meydana gelmesinde ihmali yargı kararı ile kesinleşen işyeri hekimi veya iş güvenliği uzmanını Genel Müdürlüğe bildirmekle,
 
-f) (Ek:RG-18/12/2014-29209) Bakanlıkça belirlenecek iş sağlığı ve güvenliğini ilgilendiren konularla ilgili bilgileri, İSG KATİP sistemi üzerinden Genel Müdürlüğe bilgi vermekle,
+f) **(Ek:RG-18/12/2014-29209)** Bakanlıkça belirlenecek iş sağlığı ve güvenliğini ilgilendiren konularla ilgili bilgileri, İSG KATİP sistemi üzerinden Genel Müdürlüğe bilgi vermekle,
 
 yükümlüdür.
 
@@ -90,11 +90,11 @@ yükümlüdür.
 
 (7) İşveren işyerinde görev yapan işyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personeli ile hizmet alınan OSGB’lerin İş Sağlığı ve Güvenliği Kanununa göre geçerli yetki belgesi ile görevlendirilmesinden sorumludur.
 
-(8) (Ek:RG-18/12/2014-29209) Belirlenen niteliklere ve gerekli belgeye sahip olmayan ancak (Değişik ibare:RG-6/7/2021-31533) 50’den az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyeri işverenleri veya işveren vekili tarafından Bakanlıkça ilan edilen eğitimleri tamamlamak şartıyla işe giriş ve periyodik muayeneler ve tetkikler hariç iş sağlığı ve güvenliği hizmetlerini yürütebilirler. Bu fıkraya ilişkin eğitim programları, eğitimin süresi ve eğiticilerin nitelikleri ile görevlendirmeye ilişkin hususlar Bakanlıkça belirlenir.
+(8) **(Ek:RG-18/12/2014-29209)** Belirlenen niteliklere ve gerekli belgeye sahip olmayan ancak **(Değişik ibare:RG-6/7/2021-31533)** 50’den az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyeri işverenleri veya işveren vekili tarafından Bakanlıkça ilan edilen eğitimleri tamamlamak şartıyla işe giriş ve periyodik muayeneler ve tetkikler hariç iş sağlığı ve güvenliği hizmetlerini yürütebilirler. Bu fıkraya ilişkin eğitim programları, eğitimin süresi ve eğiticilerin nitelikleri ile görevlendirmeye ilişkin hususlar Bakanlıkça belirlenir.
 
-(9) (Ek:RG-18/12/2014-29209) İşyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin görevlendirilmesine ilişkin zorunlu çalışma sürelerinin hesabında; 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanunu ile 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu kapsamındaki öğrenci statüsünde olan çırak ve stajyerler, toplam çalışan sayısına dâhil edilmez.
+(9) **(Ek:RG-18/12/2014-29209)** İşyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin görevlendirilmesine ilişkin zorunlu çalışma sürelerinin hesabında; 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanunu ile 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu kapsamındaki öğrenci statüsünde olan çırak ve stajyerler, toplam çalışan sayısına dâhil edilmez.
 
-(10) (Ek:RG-18/12/2014-29209) İşveren, sektörel düzenleme çerçevesinde maden ve yapı ile diğer sektörlerde öncelikli olarak hangi mesleki unvana sahip iş güvenliği uzmanlarının ve bunların yanında görev yapacak diğer mesleklere sahip iş güvenliği uzmanlarının belirlenmesine dair usul ve esaslar Bakanlıkça düzenlendikten sonra sektörel iş güvenliği uzmanlığı belgesine sahip olan iş güvenliği uzmanı görevlendirmek zorundadır.
+(10) **(Ek:RG-18/12/2014-29209)** İşveren, sektörel düzenleme çerçevesinde maden ve yapı ile diğer sektörlerde öncelikli olarak hangi mesleki unvana sahip iş güvenliği uzmanlarının ve bunların yanında görev yapacak diğer mesleklere sahip iş güvenliği uzmanlarının belirlenmesine dair usul ve esaslar Bakanlıkça düzenlendikten sonra sektörel iş güvenliği uzmanlığı belgesine sahip olan iş güvenliği uzmanı görevlendirmek zorundadır.
 
 #### İşverenin katılım sağlama ve bilgilendirme yükümlülüğü
 
@@ -122,7 +122,7 @@ saklar.
 
 (2) Çalışanın işyerinden ayrılarak başka bir işyerinde çalışmaya başlaması halinde, yeni işveren çalışanın kişisel sağlık dosyasını yazılı olarak talep eder, önceki işveren dosyanın bir örneğini onaylayarak bir ay içerisinde gönderir.
 
-(3) Onaylı defter işyerinin bağlı bulunduğu Çalışma ve İş Kurumu İl Müdürlükleri (Mülga ibare:RG-18/12/2014-29209) (…)veya noterce her sayfası mühürlenmek suretiyle onaylanır.
+(3) Onaylı defter işyerinin bağlı bulunduğu Çalışma ve İş Kurumu İl Müdürlükleri **(Mülga ibare:RG-18/12/2014-29209)** (…)veya noterce her sayfası mühürlenmek suretiyle onaylanır.
 
 (4) Onaylı defter yapılan tespitlere göre iş güvenliği uzmanı, işyeri hekimi ile işveren tarafından birlikte veya ayrı ayrı imzalanır. Onaylı deftere yazılan tespit ve öneriler işverene tebliğ edilmiş sayılır.
 
@@ -154,7 +154,7 @@ e) İşyerindeki makine, cihaz, araç, gereç, tesis ve binalarda sağlık ve g�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İşyeri Sağlık ve Güvenlik Birimi, Ortak Sağlık ve Güvenlik Birimi ve Çalışan Sağlığı Merkezi ile İş Sağlığı ve Güvenliği Hizmetlerinin Yürütülmesi İçin Sağlanacak Şartlar (Değişik bölüm başlığı:RG-4/2/2024-32450)
+**İşyeri Sağlık ve Güvenlik Birimi, Ortak Sağlık ve Güvenlik Birimi ve Çalışan Sağlığı Merkezi ile İş Sağlığı ve Güvenliği Hizmetlerinin Yürütülmesi İçin Sağlanacak Şartlar (Değişik bölüm başlığı:RG-4/2/2024-32450)**
 
 #### İşyeri sağlık ve güvenlik birimi
 
@@ -170,7 +170,7 @@ c) İSGB’ler Ek-1’de belirtilen araç ve gereçler ile donatılır ve işyer
 
 (3) İSGB’nin bölümleri aynı alanda bulunur ve bu alan çalışanlar tarafından kolaylıkla görülebilecek şekilde işaretlenir.
 
-(4) (Değişik:RG-31/1/2013-28545) Sağlık Bakanlığından ruhsatlı sağlık hizmeti sunucusu olan işyerlerinde kurulacak İSGB’lerde ilk yardım ve acil müdahale odası şartı ve EK-1’de belirtilen araç ve gereçler ile ulaşım amaçlı araç bulundurulması zorunluluğu aranmaz.
+(4) **(Değişik:RG-31/1/2013-28545)** Sağlık Bakanlığından ruhsatlı sağlık hizmeti sunucusu olan işyerlerinde kurulacak İSGB’lerde ilk yardım ve acil müdahale odası şartı ve EK-1’de belirtilen araç ve gereçler ile ulaşım amaçlı araç bulundurulması zorunluluğu aranmaz.
 
 #### İş sağlığı ve güvenliği hizmetlerinin yürütülmesi amacıyla sağlanacak şartlar
 
@@ -190,7 +190,7 @@ b) İşyerinde ayrıca acil durumlarda çalışanların en yakın sağlık birim
 
 (6) Tam süreli işyeri hekimi ve iş güvenliği uzmanı görevlendirilmesi zorunlu olmayan hallerde, işyerinde bu maddeye göre oluşturulan ve belirtilen şartları karşılayan birim, düzenlenen sağlık raporları bakımından İSGB olarak kabul edilir.
 
-(7) (Ek:RG-30/6/2016-29758) 50’den az çalışanı olan ve az tehlikeli sınıfta yer alan işyerlerinde; işveren ve hizmet sunanlar arasında mutabık kalınarak aynı sözleşme yılı içerisinde, aylık hizmet süreleri birleştirilebilir veya hizmet sunum aralıkları belirlenebilir.
+(7) **(Ek:RG-30/6/2016-29758)** 50’den az çalışanı olan ve az tehlikeli sınıfta yer alan işyerlerinde; işveren ve hizmet sunanlar arasında mutabık kalınarak aynı sözleşme yılı içerisinde, aylık hizmet süreleri birleştirilebilir veya hizmet sunum aralıkları belirlenebilir.
 
 #### Ortak sağlık ve güvenlik birimi ile çalışan sağlığı merkezi (Değişik başlık:RG-4/2/2024-32450)
 
@@ -204,13 +204,13 @@ c) Diğer sağlık personeli,
 
 istihdamı zorunludur.
 
-(2) OSGB’lerde tam süreli görevlendirilenler, başka bir OSGB’de veya işyerinde (Mülga ibare:RG-4/2/2024-32450) görev alamaz.
+(2) OSGB’lerde tam süreli görevlendirilenler, başka bir OSGB’de veya işyerinde **(Mülga ibare:RG-4/2/2024-32450)** görev alamaz.
 
 (3) OSGB’ler, iş sağlığı ve güvenliği hizmetlerinin yürütülmesine ve personel sayısına yetecek asgari büyüklükte; işyeri hekimi tarafından kullanılmak üzere en az 10 metrekarelik bir muayene odası, 15 metrekarelik ilkyardım ve acil müdahale, 10 metrekarelik iş güvenliği uzmanı odaları ile 12 metrekarelik bekleme yeri, uygun büyüklükte arşiv odası ve en az bir tuvalet ve lavabodan oluşur.
 
 (4) OSGB’ler, sözleşme yaptıkları işyerlerine sunulacak iş sağlığı ve güvenliği hizmetlerini, işyerinin tehlike sınıfı ve çalışan sayısına göre belirlenen sürelerden az olmamak kaydı ile yürütür.
 
-(5) (Değişik cümle:RG-31/1/2013-28545) OSGB’ler kuruldukları il ve sınır komşusu illerde hizmet sunmaya yetkilidir. (Değişik cümle:RG-31/1/2013-28545) Sınır illerin dışında hizmet verilebilmesi için, bu Yönetmelikte belirtilen şartları sağlayarak o illerde şube açılması zorunludur. Ancak niteliği gereği birden fazla ilde yürütülmesi gereken raylı sistem, yol ve nakil hattı inşası veya bakımı ve onarımı gibi işlerde hizmet alınan OSGB’nin işin yapıldığı illerden herhangi birisinde yetkilendirilmiş olması yeterlidir.
+(5) **(Değişik cümle:RG-31/1/2013-28545)** OSGB’ler kuruldukları il ve sınır komşusu illerde hizmet sunmaya yetkilidir. **(Değişik cümle:RG-31/1/2013-28545)** Sınır illerin dışında hizmet verilebilmesi için, bu Yönetmelikte belirtilen şartları sağlayarak o illerde şube açılması zorunludur. Ancak niteliği gereği birden fazla ilde yürütülmesi gereken raylı sistem, yol ve nakil hattı inşası veya bakımı ve onarımı gibi işlerde hizmet alınan OSGB’nin işin yapıldığı illerden herhangi birisinde yetkilendirilmiş olması yeterlidir.
 
 (6) OSGB’ler yetkilendirildikleri il sınırı içerisinde izinsiz şube açamayacağı gibi herhangi bir şekilde irtibat bürosu da açamazlar. Şube açmak istediklerinde bu Yönetmelikte belirtilen şartları sağlarlar.
 
@@ -218,19 +218,19 @@ istihdamı zorunludur.
 
 (8) OSGB, 10/2/2004 tarihli ve 25369 sayılı Resmî Gazete’de yayımlanan İşyeri Bina ve Eklentilerinde Alınacak Sağlık ve Güvenlik Önlemlerine İlişkin Yönetmelikte belirtilen niteliklere uygun şekilde oluşturulur ve Ek-1’de belirtilen araç ve gereçlerle donatılır. OSGB’lerin iş merkezi, iş hanı ve alışveriş merkezleri gibi binalarda kuruluyor ise binaların, İşyeri Bina ve Eklentilerinde Alınacak Sağlık ve Güvenlik Önlemlerine İlişkin Yönetmeliğin acil çıkış düzenlemesine ilişkin hükümlerine uygunluğu yeterli kabul edilir.
 
-(9) (Değişik:RG-18/12/2014-29209) OSGB’lerin zemin katta veya müstakil binalarda kurulması esastır. Ancak tuvalet ve arşiv bölümleri hariç OSGB’lerde bulunması gereken diğer bölümler, yol seviyesinden girişi olmayan katlarda kurulamaz. Tuvalet ve arşiv bölümleri ise OSGB’ye ait olmak kaydıyla bodrum katta bulunabilir. Kat niteliklerinin tespitinde tapu kayıtları esas alınır.
+(9) **(Değişik:RG-18/12/2014-29209)** OSGB’lerin zemin katta veya müstakil binalarda kurulması esastır. Ancak tuvalet ve arşiv bölümleri hariç OSGB’lerde bulunması gereken diğer bölümler, yol seviyesinden girişi olmayan katlarda kurulamaz. Tuvalet ve arşiv bölümleri ise OSGB’ye ait olmak kaydıyla bodrum katta bulunabilir. Kat niteliklerinin tespitinde tapu kayıtları esas alınır.
 
-(10) (Değişik:RG-18/12/2014-29209) OSGB’lerde adres değişikliğinden önce veya unvan değişikliği sonrasında, e-devlet sistemi kullanılarak Genel Müdürlüğe başvurulur. Yeni adresin Genel Müdürlükçe onaylanmasına müteakip işlemler ilk başvuru hükümlerine tabi olarak yürütülür. Adres değişikliği işlemi tamamlanıncaya kadar hizmet vermek isteyen OSGB’ler, yetki aldığı mevcut adreste faaliyetine devam eder. Unvan değişikliğinde yetki belgesi yenileme başvuru süresi 30 gündür.
+(10) **(Değişik:RG-18/12/2014-29209)** OSGB’lerde adres değişikliğinden önce veya unvan değişikliği sonrasında, e-devlet sistemi kullanılarak Genel Müdürlüğe başvurulur. Yeni adresin Genel Müdürlükçe onaylanmasına müteakip işlemler ilk başvuru hükümlerine tabi olarak yürütülür. Adres değişikliği işlemi tamamlanıncaya kadar hizmet vermek isteyen OSGB’ler, yetki aldığı mevcut adreste faaliyetine devam eder. Unvan değişikliğinde yetki belgesi yenileme başvuru süresi 30 gündür.
 
 (11) Şirket ortaklarında değişiklik olması halinde, durum 30 gün içerisinde Genel Müdürlüğe bildirilir. Yeni şirket ortaklarının ilgili mevzuat hükümlerinde belirtilen şartlara uygun olmaması halinde durumun düzeltilmesi amacıyla Genel Müdürlükçe şirkete 30 gün süre verilir.
 
-(12) (Ek:RG-28/2/2020-31053) OSGB ve (Değişik ibare:RG-4/2/2024-32450) ÇASMER’lerin yetkilendirildikleri adrese ilişkin resmi makamlarca (Mülga ibare:RG-4/2/2024-32450) yıkım kararı alınması ya da yıkık veya hasarlı raporu verilmesi durumlarında, yeni adrese taşındıktan sonra otuz gün içerisinde İSG-KÂTİP üzerinden Genel Müdürlüğe başvuru yapılır. Yapılan başvuru doksan gün içinde tamamlanır. Başvuru sürecine ilişkin diğer hususlar mevcut adres değişikliği hükümlerine tabi olarak yürütülür.
+(12) **(Ek:RG-28/2/2020-31053)** OSGB ve **(Değişik ibare:RG-4/2/2024-32450)** ÇASMER’lerin yetkilendirildikleri adrese ilişkin resmi makamlarca **(Mülga ibare:RG-4/2/2024-32450)** yıkım kararı alınması ya da yıkık veya hasarlı raporu verilmesi durumlarında, yeni adrese taşındıktan sonra otuz gün içerisinde İSG-KÂTİP üzerinden Genel Müdürlüğe başvuru yapılır. Yapılan başvuru doksan gün içinde tamamlanır. Başvuru sürecine ilişkin diğer hususlar mevcut adres değişikliği hükümlerine tabi olarak yürütülür.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-İşyeri Sağlık ve Güvenlik Birimi ile Ortak Sağlık ve Güvenlik Biriminin
+**İşyeri Sağlık ve Güvenlik Birimi ile Ortak Sağlık ve Güvenlik Biriminin**
 
-Çalışma Usul ve Esasları
+**Çalışma Usul ve Esasları**
 
 #### İSGB ve OSGB’lerin görev, yetki ve sorumlulukları
 
@@ -248,11 +248,11 @@ d) Yıllık çalışma planı, yıllık değerlendirme raporu, çalışma ortam�
 
 e) Çalışanların yürüttüğü işler, işyerinde yapılan risk değerlendirmesi sonuçları ve maruziyet bilgileri ile işe giriş ve periyodik sağlık muayenesi sonuçları, iş kazaları ile meslek hastalıkları kayıtlarının, işyerindeki kişisel sağlık dosyalarında gizlilik ilkesine uyularak saklanmasından,
 
-f) (Değişik:RG-4/2/2024-32450) 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik ile 20/7/2013 tarihli ve 28713 sayılı Resmî Gazete’de yayımlanan İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik kapsamında hizmet verdikleri alanlarda belirtilen görevlerin yerine getirilip getirilmediğinin izlenmesinden,
+f) **(Değişik:RG-4/2/2024-32450)** 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik ile 20/7/2013 tarihli ve 28713 sayılı Resmî Gazete’de yayımlanan İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik kapsamında hizmet verdikleri alanlarda belirtilen görevlerin yerine getirilip getirilmediğinin izlenmesinden,
 
 sorumludurlar.
 
-(2) İşyerlerinde iş sağlığı ve güvenliği hizmeti sunmak üzere OSGB’lerce görevlendirilen işyeri hekimi ve iş güvenliği uzmanı tarafından saklanması gereken onaylı defter suretleri, (Ek ibare:RG-18/12/2014-29209) yıllık çalışma planı ve yıllık değerlendirme raporu suretleri ile çalışanlara verilen iş sağlığı ve güvenliği eğitimlerine dair kayıtlar OSGB arşivinde tutulur ve istenmesi halinde denetime yetkili memurlara gösterilir. Kendilerinden talep edilmese dahi, sözleşme süresi sonunda bütün kayıt ve dosyalar OSGB’lerce işverene teslim edilir.
+(2) İşyerlerinde iş sağlığı ve güvenliği hizmeti sunmak üzere OSGB’lerce görevlendirilen işyeri hekimi ve iş güvenliği uzmanı tarafından saklanması gereken onaylı defter suretleri, **(Ek ibare:RG-18/12/2014-29209)** yıllık çalışma planı ve yıllık değerlendirme raporu suretleri ile çalışanlara verilen iş sağlığı ve güvenliği eğitimlerine dair kayıtlar OSGB arşivinde tutulur ve istenmesi halinde denetime yetkili memurlara gösterilir. Kendilerinden talep edilmese dahi, sözleşme süresi sonunda bütün kayıt ve dosyalar OSGB’lerce işverene teslim edilir.
 
 (3) İSGB ve OSGB’ler iş sağlığı ve güvenliği hizmetlerinin sunulması sırasında işin normal akışını aksatmamaya özen gösterirler.
 
@@ -262,7 +262,7 @@ sorumludurlar.
 
 (6) OSGB’ler herhangi bir sebeple faaliyetlerini bırakmaları veya belgelerinin Genel Müdürlükçe iptal edilmesi halinde 30 gün içinde yetki belgelerinin asıllarını Genel Müdürlüğe iade ederler.
 
-(7) (Ek:RG-18/12/2014-29209) OSGB’de sorumlu müdür olarak görevlendirilen kişinin değişmesi veya bu kişinin görevinden ayrılması durumunda, OSGB’ce en geç 30 gün içerisinde yeni sorumlu müdürün İSG-KATİP üzerinden atanması zorunludur.
+(7) **(Ek:RG-18/12/2014-29209)** OSGB’de sorumlu müdür olarak görevlendirilen kişinin değişmesi veya bu kişinin görevinden ayrılması durumunda, OSGB’ce en geç 30 gün içerisinde yeni sorumlu müdürün İSG-KATİP üzerinden atanması zorunludur.
 
 #### Görevlendirme belgesi ve sözleşme
 
@@ -278,13 +278,13 @@ a) OSGB ile işveren arasında İSG-KATİP sistemindeki örneğine uygun sözle�
 
 b) İşyerinde çalışanlar arasından görevlendirme yapılması durumunda, işyeri hekimi, iş güvenliği uzmanı, diğer sağlık personeli ile İSG-KATİP sistemindeki örneğine uygun sözleşme veya görevlendirme belgesi düzenlenir ve karşılıklı olarak en geç beş gün içerisinde sistem üzerinden onaylanır. İSG-KATİP sistemi üzerinden onaylanan sözleşmenin bir nüshası işveren tarafından, biri sözleşme veya görevlendirme yapılan kişiler tarafından saklanır.
 
-c) (Değişik:RG-30/6/2016-29758) Kamu kurum ve kuruluşlarına ait işyerlerinde çalışanlar arasından görevlendirme yapılması durumunda en geç beş gün içerisinde İSG-KATİP’teki örneğine uygun görevlendirme belgesi düzenlenir ve sistem üzerinden ilgili kişiler tarafından onaylanır. Görevlendirmenin farklı bir kamu kurum ve kuruluşuna ait işyerlerine yapılması halinde düzenlenen görevlendirme belgesinin görevlendirilen kişiler tarafından da sistem üzerinden onaylanması gerekmektedir. İSG-KATİP üzerinden onaylanan görevlendirme belgesinin bir nüshası kurum tarafından, bir nüshası da görevlendirme yapılan kişiler tarafından saklanır.
+c) **(Değişik:RG-30/6/2016-29758)** Kamu kurum ve kuruluşlarına ait işyerlerinde çalışanlar arasından görevlendirme yapılması durumunda en geç beş gün içerisinde İSG-KATİP’teki örneğine uygun görevlendirme belgesi düzenlenir ve sistem üzerinden ilgili kişiler tarafından onaylanır. Görevlendirmenin farklı bir kamu kurum ve kuruluşuna ait işyerlerine yapılması halinde düzenlenen görevlendirme belgesinin görevlendirilen kişiler tarafından da sistem üzerinden onaylanması gerekmektedir. İSG-KATİP üzerinden onaylanan görevlendirme belgesinin bir nüshası kurum tarafından, bir nüshası da görevlendirme yapılan kişiler tarafından saklanır.
 
-(4) (Değişik:RG-30/6/2016-29758)(2) İş güvenliği uzmanı, işyeri hekimi veya diğer sağlık personeli belgesi olan işverenin; işyerindeki işyeri hekimliği, iş güvenliği uzmanlığı veya diğer sağlık personeli görevini kendisinin üstlenmesi durumunda, İSG-KATİP’teki örneğine uygun taahhütname işveren tarafından en geç beş gün içinde düzenlenerek onaylanır.
+(4) **(Değişik:RG-30/6/2016-29758)(2)** İş güvenliği uzmanı, işyeri hekimi veya diğer sağlık personeli belgesi olan işverenin; işyerindeki işyeri hekimliği, iş güvenliği uzmanlığı veya diğer sağlık personeli görevini kendisinin üstlenmesi durumunda, İSG-KATİP’teki örneğine uygun taahhütname işveren tarafından en geç beş gün içinde düzenlenerek onaylanır.
 
-(5) (Ek:RG-30/6/2016-29758) Kamu kurum ve kuruluşlarına ait işyerlerinde OSGB’lerden hizmet alınması halinde; İSG-KATİP’teki örneğine uygun sözleşme düzenlenir ve karşılıklı olarak en geç beş gün içerisinde sistem üzerinden onaylanır. İSG-KATİP üzerinden onaylanan sözleşme nüshalarından biri kurum tarafından, biri OSGB’ler tarafından saklanır. OSGB’den hizmet alınması durumunda görevlendirilecek işyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personeli bu konuda ayrıca bilgilendirilir.
+(5) **(Ek:RG-30/6/2016-29758)** Kamu kurum ve kuruluşlarına ait işyerlerinde OSGB’lerden hizmet alınması halinde; İSG-KATİP’teki örneğine uygun sözleşme düzenlenir ve karşılıklı olarak en geç beş gün içerisinde sistem üzerinden onaylanır. İSG-KATİP üzerinden onaylanan sözleşme nüshalarından biri kurum tarafından, biri OSGB’ler tarafından saklanır. OSGB’den hizmet alınması durumunda görevlendirilecek işyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personeli bu konuda ayrıca bilgilendirilir.
 
-(6) (Ek:RG-30/6/2016-29758) Bu Yönetmeliğin 5 inci maddesinin sekizinci fıkrası kapsamında eğitim alan kişilerin (Değişik ibare:RG-6/7/2021-31533) 50’den az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyerlerinde iş sağlığı ve güvenliği hizmetlerini üstlenebilmesi için İSG-KATİP’teki örneğine uygun taahhütnamenin ilgili kişilerce en geç beş gün içinde onaylanması gereklidir. Bu görevin üstlenilmesinde Sosyal Güvenlik Kurumu kayıtları esas alınır. Buna göre işyeri işvereni veya işyerinde tam süreli hizmet akdi ile çalışan işveren vekili, tüzel kişiliğe sahip işletmelere ait işyerlerinde temsile yetkili işin ve işyerinin yönetiminde görev alan ve tam süreli hizmet akdi ile çalışan işveren vekili, kamu kurum ve kuruluşlarında ise işyerinin yönetiminde görev alan ve işyerinde düzenli bulunan yönetici veya yardımcısı olunması şarttır.
+(6) **(Ek:RG-30/6/2016-29758)** Bu Yönetmeliğin 5 inci maddesinin sekizinci fıkrası kapsamında eğitim alan kişilerin **(Değişik ibare:RG-6/7/2021-31533)** 50’den az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyerlerinde iş sağlığı ve güvenliği hizmetlerini üstlenebilmesi için İSG-KATİP’teki örneğine uygun taahhütnamenin ilgili kişilerce en geç beş gün içinde onaylanması gereklidir. Bu görevin üstlenilmesinde Sosyal Güvenlik Kurumu kayıtları esas alınır. Buna göre işyeri işvereni veya işyerinde tam süreli hizmet akdi ile çalışan işveren vekili, tüzel kişiliğe sahip işletmelere ait işyerlerinde temsile yetkili işin ve işyerinin yönetiminde görev alan ve tam süreli hizmet akdi ile çalışan işveren vekili, kamu kurum ve kuruluşlarında ise işyerinin yönetiminde görev alan ve işyerinde düzenli bulunan yönetici veya yardımcısı olunması şarttır.
 
 (7) Sözleşme veya görevlendirilmeleri Genel Müdürlükçe onaylanmayan işyeri hekimi, iş güvenliği uzmanı ve diğer sağlık personeli İş Sağlığı ve Güvenliği Kanunu kapsamındaki görevlerine başlatılamaz ve yetkilerini kullanamazlar.
 
@@ -306,13 +306,13 @@ c) (Değişik:RG-30/6/2016-29758) Kamu kurum ve kuruluşlarına ait işyerlerind
 
 ### BEŞİNCİ BÖLÜM
 
-Ortak Sağlık ve Güvenlik Birimlerinin ve Çalışan Sağlığı Merkezlerinin Başvuruları, Yetkilendirilmesi ve Denetimi (Değişik bölüm başlığı:RG-4/2/2024-32450)
+**Ortak Sağlık ve Güvenlik Birimlerinin ve Çalışan Sağlığı Merkezlerinin Başvuruları, Yetkilendirilmesi ve Denetimi (Değişik bölüm başlığı:RG-4/2/2024-32450)**
 
 #### Ortak sağlık ve güvenlik birimlerinin başvuru işlemleri
 
-**MADDE 16 –** (1) (Değişik cümleler:RG-18/12/2014-29209) OSGB’ler yetki belgesi almak amacıyla e-devlet sistemi üzerinden başvuru yapar. E-devlet sisteminin iki günden fazla çalışmadığı durumlarda doğrudan veya posta yoluyla başvuru yapılabilir. Başvuru dosyasında aşağıda belirtilen ekler bulunur:
+**MADDE 16 –** (1) **(Değişik cümleler:RG-18/12/2014-29209)** OSGB’ler yetki belgesi almak amacıyla e-devlet sistemi üzerinden başvuru yapar. E-devlet sisteminin iki günden fazla çalışmadığı durumlarda doğrudan veya posta yoluyla başvuru yapılabilir. Başvuru dosyasında aşağıda belirtilen ekler bulunur:
 
-a) (Mülga:RG-6/7/2021-31533)
+a) **(Mülga:RG-6/7/2021-31533)**
 
 b) Tam süreli görevlendirilen kişilerin iş sözleşmeleri veya görevlendirme belgeleri ile bu kişilere ait işyeri hekimliği, iş güvenliği uzmanlığı, diğer sağlık personeli belgeleri bu kişiler OSGB sahibi veya ortağı ise tam süreli çalışacaklarına dair taahhütname.
 
@@ -320,43 +320,43 @@ c) OSGB’nin sorumlu müdürünün kabul şerhli görevlendirme yazısı, bu ki
 
 ç) Faaliyet gösterilecek yere ait olan yapı kullanma izin belgesi.
 
-d) (Değişik:RG-18/12/2014-29209) Faaliyet gösterilecek yere ait olan ve yetkili makamlarca verilen ada, pafta, parsel bilgilerini gösteren numarataj veya adres tespit belgesi.
+d) **(Değişik:RG-18/12/2014-29209)** Faaliyet gösterilecek yere ait olan ve yetkili makamlarca verilen ada, pafta, parsel bilgilerini gösteren numarataj veya adres tespit belgesi.
 
-e) (Değişik:RG-18/12/2014-29209) Faaliyet gösterilecek yere ait tapu senedi ile birlikte kira sözleşmesi veya intifa hakkı belgesi.
+e) **(Değişik:RG-18/12/2014-29209)** Faaliyet gösterilecek yere ait tapu senedi ile birlikte kira sözleşmesi veya intifa hakkı belgesi.
 
-f) (Değişik:RG-18/12/2014-29209) Faaliyet gösterilecek yere ait olan ve bu Yönetmelikte belirtilen bütün bölümlerin yer aldığı inşaat teknikeri, mimar veya inşaat mühendisi tarafından onaylanmış 1/100 ölçekli plan.
+f) **(Değişik:RG-18/12/2014-29209)** Faaliyet gösterilecek yere ait olan ve bu Yönetmelikte belirtilen bütün bölümlerin yer aldığı inşaat teknikeri, mimar veya inşaat mühendisi tarafından onaylanmış 1/100 ölçekli plan.
 
 g) İlgili mevzuata göre faaliyet gösterilecek yerde yangına karşı gerekli tedbirlerin alındığına ve bu yerde OSGB açılmasında sakınca olmadığına dair yetkili merciler tarafından verilen belge.
 
-ğ) (Ek:RG-18/12/2014-29209) Tapu kütüğünde mesken olarak kayıtlı bir gayrimenkulde OSGB’nin faaliyet gösterebileceğine dair kat malikleri kurulunun oybirliğiyle aldığı karar örneği.
+ğ) **(Ek:RG-18/12/2014-29209)** Tapu kütüğünde mesken olarak kayıtlı bir gayrimenkulde OSGB’nin faaliyet gösterebileceğine dair kat malikleri kurulunun oybirliğiyle aldığı karar örneği.
 
 (2) Kamu kurum ve kuruluşları için, yalnızca birinci fıkranın (b), (c), (f) ve (g) bentlerinde belirtilen belgeler istenir. Ancak mekân kamu kurumuna ait değilse (a) bendi hariç diğer bentlerde belirtilen belgeler istenir.
 
 (3) Organize sanayi bölgelerince kurulacak OSGB’ler için, Bilim, Sanayi ve Teknoloji Bakanlığının ilgili biriminden alınmış organize sanayi bölgesine sicil numarası verildiğine dair yazı, müteşebbis heyeti veya genel kurulunca alınmış; ilgili adreste OSGB kurulmasına dair karar ile birinci fıkranın (a) ve (d) bentleri hariç diğer bentlerde belirtilen belgeler istenir.
 
-(4) (Mülga:RG-18/12/2014-29209)
+(4) **(Mülga:RG-18/12/2014-29209)**
 
 #### Ortak sağlık ve güvenlik birimlerinin yetkilendirilmesi
 
-**MADDE 17 –** (1) (Değişik:RG-18/12/2014-29209) OSGB tarafından yetki belgesi almak amacıyla yapılan başvuru Genel Müdürlükçe en geç on iş günü içinde incelenir. 19/1/2013 tarihli ve 28533 sayılı Resmî Gazete’de yayımlanan Elektronik Tebligat Yönetmeliği çerçevesinde kayıtlı elektronik posta sistemi üzerinden yazılı olarak bildirilen eksiklikler en geç kırk beş gün içinde tamamlanır. Herhangi bir eksikliği bulunmayan başvurular için en geç yirmi iş günü içinde yerinde inceleme yapılır. Yerinde inceleme işlemlerinde tespit edilen eksikliklerin giderilmesi için en fazla kırk beş gün süre verilir. Belirlenen sürelerde eksiklikler giderilmez ise dosya iade edilir ve iadeden itibaren bir yıl boyunca yapılan başvurular, bir yılın tamamlanmasına kadar askıya alınır.
+**MADDE 17 –** (1) **(Değişik:RG-18/12/2014-29209)** OSGB tarafından yetki belgesi almak amacıyla yapılan başvuru Genel Müdürlükçe en geç on iş günü içinde incelenir. 19/1/2013 tarihli ve 28533 sayılı Resmî Gazete’de yayımlanan Elektronik Tebligat Yönetmeliği çerçevesinde kayıtlı elektronik posta sistemi üzerinden yazılı olarak bildirilen eksiklikler en geç kırk beş gün içinde tamamlanır. Herhangi bir eksikliği bulunmayan başvurular için en geç yirmi iş günü içinde yerinde inceleme yapılır. Yerinde inceleme işlemlerinde tespit edilen eksikliklerin giderilmesi için en fazla kırk beş gün süre verilir. Belirlenen sürelerde eksiklikler giderilmez ise dosya iade edilir ve iadeden itibaren bir yıl boyunca yapılan başvurular, bir yılın tamamlanmasına kadar askıya alınır.
 
 (2) OSGB’nin bu Yönetmelikte belirtilen şartları taşıması halinde, başvuru dosyasında bildirilen tam süreli çalışanlara ait Sosyal Güvenlik Kurumu işe giriş bildirgesinin Genel Müdürlüğe gönderilmesini takiben başvuru dosyasında belirtilen adres ve unvana münhasıran, en geç on iş günü içerisinde Genel Müdürlükçe Ek-2’deki örneğine uygun yetki belgesi düzenlenir. Başka bir adreste şube açılması istendiği takdirde, aynı usul ve esaslar dâhilinde işlem yapılır.
 
-(3) (Mülga:RG-18/12/2014-29209)
+(3) **(Mülga:RG-18/12/2014-29209)**
 
 (4) OSGB’ler yetki belgesi almadan veya süresi içerisinde vize işlemini tamamlamadan bu Yönetmelik kapsamında belirtilen faaliyetleri yapamazlar.
 
 (5) OSGB’ler, aşağıda belirtilen hususlara uymak zorundadır.
 
-a) (Değişik:RG-18/12/2014-29209) Tabela ve basılı evrak, broşür, afiş ve diğer elektronik ortamlarda herhangi bir amaçla kullanılan her türlü yazılı ve görsel dokümanda sadece yetki belgesinde belirtilen isim ve unvan kullanılır.
+a) **(Değişik:RG-18/12/2014-29209)** Tabela ve basılı evrak, broşür, afiş ve diğer elektronik ortamlarda herhangi bir amaçla kullanılan her türlü yazılı ve görsel dokümanda sadece yetki belgesinde belirtilen isim ve unvan kullanılır.
 
-b) OSGB’ler tarafından, EK-8’deki örneğine uygun, kurum unvanına göre hazırlanan ve (Değişik ibare:RG-18/12/2014-29209) boy/en oranı 2/3 olan tabela, OSGB’nin bulunduğu binanın uygun bir kısmına veya girişine asılır. Aynı binada, Genel Müdürlükçe yetkilendirilen birden fazla kurum bulunması durumunda, kullanılacak tabela için Genel Müdürlük onayı alınması şartıyla, tüm unvanları gösteren tek bir tabela kullanılabilir. Bakanlık logosu, bu tabela haricinde hiçbir yazılı veya görsel doküman veya ortamda kullanılamaz.
+b) OSGB’ler tarafından, EK-8’deki örneğine uygun, kurum unvanına göre hazırlanan ve **(Değişik ibare:RG-18/12/2014-29209)** boy/en oranı 2/3 olan tabela, OSGB’nin bulunduğu binanın uygun bir kısmına veya girişine asılır. Aynı binada, Genel Müdürlükçe yetkilendirilen birden fazla kurum bulunması durumunda, kullanılacak tabela için Genel Müdürlük onayı alınması şartıyla, tüm unvanları gösteren tek bir tabela kullanılabilir. Bakanlık logosu, bu tabela haricinde hiçbir yazılı veya görsel doküman veya ortamda kullanılamaz.
 
 c) Özel kuruluşlar tarafından, kamu kurum ve kuruluşlarına ait olan isimler ticari isim veya unvan olarak kullanılamaz.
 
 (6) OSGB tarafından başvuru dosyasında beyan edilen yerleşim planı, bina ve donanımda Genel Müdürlük onayı alınmadan hiçbir şekilde değişiklik yapılamaz.
 
-(7) (Ek:RG-31/1/2013-28545) Bakanlıkça yetkilendirilen (Değişik ibare:RG-4/2/2024-32450) ÇASMER’ler işyeri hekimliği ve diğer sağlık personeli hizmetlerini 12 nci maddenin üçüncü fıkrasında belirtilen şartları iş güvenliği uzmanı odası hariç yerine getirmeleri durumunda sunabilirler. İş sağlığı ve güvenliği hizmetlerini vermek istedikleri takdirde 12 nci ve 16 ncı maddelerde belirtilen şartları yerine getirirler. (Değişik ibare:RG-4/2/2024-32450) ÇASMER’lerin yetkilendirilme ve denetimine ilişkin usul ve esaslar Sağlık Bakanlığı ve Bakanlığın birlikte hazırlayacakları genelge ile belirlenir.
+(7) **(Ek:RG-31/1/2013-28545)** Bakanlıkça yetkilendirilen **(Değişik ibare:RG-4/2/2024-32450)** ÇASMER’ler işyeri hekimliği ve diğer sağlık personeli hizmetlerini 12 nci maddenin üçüncü fıkrasında belirtilen şartları iş güvenliği uzmanı odası hariç yerine getirmeleri durumunda sunabilirler. İş sağlığı ve güvenliği hizmetlerini vermek istedikleri takdirde 12 nci ve 16 ncı maddelerde belirtilen şartları yerine getirirler. **(Değişik ibare:RG-4/2/2024-32450)** ÇASMER’lerin yetkilendirilme ve denetimine ilişkin usul ve esaslar Sağlık Bakanlığı ve Bakanlığın birlikte hazırlayacakları genelge ile belirlenir.
 
 #### Ortak sağlık ve güvenlik birimleri ile çalışan sağlığı merkezlerinin denetimi
 
@@ -372,7 +372,7 @@ c) Özel kuruluşlar tarafından, kamu kurum ve kuruluşlarına ait olan isimler
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Sorumlu müdürün görev, yetki ve sorumlulukları
 
@@ -392,7 +392,7 @@ sorumludur.
 
 (3) OSGB’lerce talep edilen veya bildirilen her türlü bilgi ve belgeye ilişkin iş ve işlemlerde, Genel Müdürlük tarafından sadece sorumlu müdür muhatap kabul edilir.
 
-(4) (Mülga:RG-18/12/2014-29209)
+(4) **(Mülga:RG-18/12/2014-29209)**
 
 #### OSGB’lerin faaliyet alanları
 
@@ -404,7 +404,7 @@ sorumludur.
 
 **MADDE 20 –** (Başlığı ile birlikte değişik:RG-18/12/2014-29209)
 
-(1) Yetki belgelerinin, OSGB ve (Değişik ibare:RG-4/2/2024-32450) ÇASMER tarafından beş yılda bir vize ettirilmesi zorunludur. Belge almak veya vize işlemlerini yaptırmak isteyen kurumların;
+(1) Yetki belgelerinin, OSGB ve **(Değişik ibare:RG-4/2/2024-32450)** ÇASMER tarafından beş yılda bir vize ettirilmesi zorunludur. Belge almak veya vize işlemlerini yaptırmak isteyen kurumların;
 
 a) Bu Yönetmeliğin ilgili hükümlerine uygunluk sağlamaları,
 
@@ -416,7 +416,7 @@ gereklidir.
 
 (3) OSGB’lerde unvan değişikliği yapılması halinde yetki belgesinin yenilenmesi için Bakanlıkça belirlenen belge bedelinin ödenmesi gereklidir.
 
-(4) (Ek:RG-28/2/2020-31053) 12 nci maddenin on ikinci fıkrasına tabi olarak yapılan adres değişikliğinde adres değişikliği bedeli ödenmez.
+(4) **(Ek:RG-28/2/2020-31053)** 12 nci maddenin on ikinci fıkrasına tabi olarak yapılan adres değişikliğinde adres değişikliği bedeli ödenmez.
 
 #### İhtarlar
 
@@ -426,7 +426,7 @@ gereklidir.
 
 (3) Beş yıllık sürenin sonunda vize işlemini tamamlayan kişi ve kurumların; uygulanmasının üzerinden en az bir yıl geçmiş olan tüm ihtar puanları silinir.
 
-(4) (Ek:RG-18/12/2014-29209) Bu Yönetmelik uyarınca OSGB’lere uygulanan ihtar puanlarına ilişkin itirazlar, işlemin tebliğ tarihinden itibaren en geç 10 iş günü içinde Genel Müdürlüğe yapılır. Bu süreden sonra yapılacak itirazlar dikkate alınmaz.
+(4) **(Ek:RG-18/12/2014-29209)** Bu Yönetmelik uyarınca OSGB’lere uygulanan ihtar puanlarına ilişkin itirazlar, işlemin tebliğ tarihinden itibaren en geç 10 iş günü içinde Genel Müdürlüğe yapılır. Bu süreden sonra yapılacak itirazlar dikkate alınmaz.
 
 #### Yetkilerin askıya alınması, iptali ve itiraz
 
@@ -476,7 +476,7 @@ doğrudan iptal edilir.
 
 (1) İtiraz Komisyonu, bu Yönetmelik uyarınca yetkilendirilen veya belgelendirilen kişi veya kurumların belgelerinin askıya alınması veya iptali ile ilgili itirazları değerlendirerek karara bağlar. Komisyonun kararı, oy çokluğuyla alınır. Oyların eşitliği halinde Başkanın oyu belirleyicidir. Komisyon kararı, Genel Müdürlükçe uygulanır.
 
-(2) (Ek:RG-28/2/2020-31053) İtiraz Komisyonunu oluşturan unvan adlarının iptal olması veya değişmesi halinde yerine atanacak üyeler Bakanlık oluru ile belirlenir.
+(2) **(Ek:RG-28/2/2020-31053)** İtiraz Komisyonunu oluşturan unvan adlarının iptal olması veya değişmesi halinde yerine atanacak üyeler Bakanlık oluru ile belirlenir.
 
 #### Yürürlükten kaldırılan yönetmelik
 
@@ -512,7 +512,7 @@ c) Kurum ve kuruluşlarda personel istihdamı zorunluluğu.
 
 (1) Mevcut OSGB’lerin onaylanmış yerleşim planında değişiklik olması halinde, fiziki şartların bu Yönetmelik hükümlerine uygun olması şartı aranır.
 
-(2) (Mülga:RG-18/12/2014-29209)
+(2) **(Mülga:RG-18/12/2014-29209)**
 
 #### 50’den fazla çalışanı bulunan kamu kurumları
 
@@ -528,7 +528,7 @@ c) Kurum ve kuruluşlarda personel istihdamı zorunluluğu.
 
 (3) 12 nci maddenin onuncu fıkrası kapsamındaki adres ve unvan değişikliği başvuruları ile 13 üncü maddenin yedinci fıkrasına göre sorumlu müdür değişikliği ile ilgili bildirimler, İSG-KATİP sistemindeki gerekli düzenlemeler tamamlanıp ilân edilinceye kadar Genel Müdürlüğe yazılı olarak yapılmaya devam edilir.
 
-(4) (Ek:RG-30/6/2016-29758) İşyeri hekimi, iş güvenliği uzmanı veya diğer sağlık personeli görevlendirilmeleri ile (Değişik ibare:RG-6/7/2021-31533) 50’den az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyerlerindeki iş sağlığı ve güvenliği hizmetlerinin üstlenilmesinde İSG-KATİP’teki gerekli düzenlemeler tamamlanıp Genel Müdürlük internet sayfasında ilan edilinceye kadar;
+(4) **(Ek:RG-30/6/2016-29758)** İşyeri hekimi, iş güvenliği uzmanı veya diğer sağlık personeli görevlendirilmeleri ile **(Değişik ibare:RG-6/7/2021-31533)** 50’den az çalışanı bulunan ve az tehlikeli sınıfta yer alan işyerlerindeki iş sağlığı ve güvenliği hizmetlerinin üstlenilmesinde İSG-KATİP’teki gerekli düzenlemeler tamamlanıp Genel Müdürlük internet sayfasında ilan edilinceye kadar;
 
 a) Kamu kurum ve kuruluşları ile Sosyal Güvenlik Kurumu tescil sisteminde henüz işyeri ve çalışan kaydı bulunmayan 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki işyerlerinden kamu kurumu niteliğinde olanlar tarafından; 14 üncü maddenin üçüncü fıkrasının (c) bendi kapsamındaki görevlendirmelerde Ek-5a, Ek-5b ve Ek-5c’de, aynı maddenin dördüncü fıkrası kapsamındaki taahhütnamelerde Ek-6’da, aynı maddenin beşinci fıkrası kapsamındaki sözleşmelerde Ek-3’te, aynı maddenin altıncı fıkrası kapsamındaki taahhütnamelerde ise Ek-4’te yer alan örneklerine uygun belgeler,
 
@@ -536,7 +536,7 @@ b) (a) bendi kapsamında yer almayan işyeri işverenleri veya işveren vekiller
 
 düzenlenerek 5 (beş) iş günü içerisinde ilgili kişilerce imzalanıp gerektiğinde denetime yetkili memurlara gösterilmek ve istendiğinde Bakanlığa iletilmek üzere işyerlerinde muhafaza edilir.
 
-Mevcut sözleşmeler
+**Mevcut sözleşmeler**
 
 ### GEÇİÇİ MADDE 4 – (Ek:RG-30/6/2016-29758)
 
@@ -550,13 +550,13 @@ Mevcut sözleşmeler
 
 **MADDE 25 –** (1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.
 
-Yönetmeliğin ekleri için tıklayınız
+**Yönetmeliğin ekleri için tıklayınız**
 
 ____________
 
-(1) 18/12/2014 tarihli ve 29209 sayılı Resmi Gazete’de Yayımlanan Yönetmelik değişikliği ile eklenen Ek 1 inci maddesi yayımı tarihinden itibaren üç ay sonra yürürlüğe girer.
+(1) <i>18/12/2014 tarihli ve 29209 sayılı Resmi Gazete’de Yayımlanan Yönetmelik değişikliği ile eklenen Ek 1 inci maddesi yayımı tarihinden itibaren üç ay sonra yürürlüğe girer.</i>
 
-(2) 30/6/2016 tarihli ve 29758 sayılı Resmi Gazete’de Yayımlanan Yönetmelik değişikliği ile Yönetmeliğin 14 üncü maddesine dördüncü fıkrasından sonra gelmek üzere beşinci ve altıncı fıkralar eklenmiş ve mevcut fıkralar buna göre teselsül ettirilmiştir.
+<i>(2) 30/6/2016 tarihli ve 29758 sayılı Resmi Gazete’de Yayımlanan Yönetmelik değişikliği ile Yönetmeliğin 14 üncü maddesine dördüncü fıkrasından sonra gelmek üzere beşinci ve altıncı fıkralar eklenmiş ve mevcut fıkralar buna göre teselsül ettirilmiştir.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

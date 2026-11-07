@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
-İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğe aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 9- (1) (B) sınıfı iş güvenliği uzmanlığı belgesiyle, çok tehlikeli sınıftaki işyerlerinde 31/12/2024 tarihi itibarıyla en az üç yıl fiilen görev yaptığını iş güvenliği uzmanlığı sözleşmesi ile belgeleyenlerden son vize döneminde ihtar puanı veya askıya alma işlemi uygulanmamış olanlara, 31/3/2025 tarihine kadar başvurmaları halinde (A) sınıfı iş güvenliği uzmanlığı belgesi EK-1’deki örneğine uygun olarak Genel Müdürlükçe verilir.

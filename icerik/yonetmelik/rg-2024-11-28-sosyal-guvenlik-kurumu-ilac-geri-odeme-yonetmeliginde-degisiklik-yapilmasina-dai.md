@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU İLAÇ GERİ ÖDEME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SOSYAL GÜVENLİK KURUMU İLAÇ GERİ ÖDEME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 25/8/2022 tarihli ve 31934 mükerrer sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu İlaç Geri Ödeme Yönetmeliğinin 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 3- (1) Bu Yönetmelikte geçen;

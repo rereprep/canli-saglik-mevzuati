@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -74,7 +74,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Ürünlerin Tanıtım Faaliyetlerinin Kapsamı ve Esasları
+**Ürünlerin Tanıtım Faaliyetlerinin Kapsamı ve Esasları**
 
 #### Tanıtımın kapsamı
 
@@ -210,7 +210,7 @@ g) Tanıtım numuneleri klinik araştırmalarda araştırma ürünü olarak kull
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Ürün Tanıtım Temsilcileri
+**Ürün Tanıtım Temsilcileri**
 
 #### Ürün tanıtım temsilcileri
 
@@ -238,7 +238,7 @@ b) Ürün tanıtım temsilcileri ziyaretin başında hangi ruhsat/izin sahibini 
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Ruhsat/İzin Sahiplerinin Sorumluluğu
+**Ruhsat/İzin Sahiplerinin Sorumluluğu**
 
 #### Ruhsat/izin sahiplerinin sorumluluğu
 
@@ -288,7 +288,7 @@ b) Bu kapsamda yapılacak değer aktarımında, değer aktarımının kabulü ve
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetim
 

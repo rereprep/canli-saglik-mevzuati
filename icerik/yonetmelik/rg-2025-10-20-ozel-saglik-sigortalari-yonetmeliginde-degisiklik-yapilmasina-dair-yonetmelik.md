@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Denetleme Kurumundan:
-ÖZEL SAĞLIK SİGORTALARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ÖZEL SAĞLIK SİGORTALARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 23/10/2013 tarihli ve 28800 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Sigortaları Yönetmeliğinin 2 nci maddesinin birinci fıkrasının son cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Seyahat sağlık sigortası ile hastalık sigortaları bu Yönetmeliğin kapsamı dışındadır.”

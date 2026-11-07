@@ -47,7 +47,7 @@ ASM binalarına kurumsal kimlik uygulanmayacaktır. Ancak, deprem performans ana
 
 7) Kurumsal kimliğe uygun hale getirilen aile sağlığı merkezleri listesi ve kurumsal kimliği en güzel şekilde yansıtacak şekilde içten ve dıştan çekilmiş en az ikişer adet fotoğraf (kurumsal kimlik öncesi ve sonrası)
 
-ile birlikte bir sonraki ayın beşine (5) kadar ekteki tabloya (excell formatında) uygun olarak hsgm.yatirim@saglik.gov.tr elektronik posta adresine ve resmi yazı ile Bakanlığımıza bildirilecektir.
+ile birlikte **bir sonraki ayın beşine (5) kadar** ekteki tabloya (excell formatında) uygun olarak hsgm.yatirim@saglik.gov.tr elektronik posta adresine ve resmi yazı ile Bakanlığımıza bildirilecektir.
 
 Yukarıda yer verilen kurallar doğrultusunda aile sağlığı merkezlerinde kurumsal kimlik uygulamasının ivedilikle sağlanması hususunda;
 

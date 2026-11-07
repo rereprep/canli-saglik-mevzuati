@@ -14,13 +14,13 @@ durum: "yürürlükte"
 
 ### UYUŞTURUCU MADDELERLE İLGİLİ KANUN
 
-Kanun Numarası : 3298
+**Kanun Numarası : 3298**
 
-Kabul Tarihi : 3/6/1986
+**Kabul Tarihi : 3/6/1986**
 
-Yayımlandığı Resmî Gazete : Tarih: 19/6/1986 Sayı: 19139
+**Yayımlandığı Resmî Gazete : Tarih: 19/6/1986 Sayı: 19139**
 
-Yayımlandığı Düstur : Tertip: 5 Cilt: 26
+**Yayımlandığı Düstur : Tertip: 5 Cilt: 26**
 
 #### Afyon ve uyuşturucu maddelerle ilgili genel esaslar [1]
 
@@ -84,6 +84,6 @@ Bu maddede tanımlanan suçların ekim bölgesi içinde işlenmesi halinde, 21/3
 | 5728 | 4 | 8/2/2008 |
 | KHK/700 | 1, 2 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 
-<small>[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 105 inci maddesiyle 1 inci maddesinin birinci fıkrasında yer alan “Bakanlar Kurulunun” ibaresi “Cumhurbaşkanının” şeklinde ve üçüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, 2 nci maddesinin birinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve “kararname” ibaresi “karar” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 105 inci maddesiyle 1 inci maddesinin birinci fıkrasında yer alan “Bakanlar Kurulunun” ibaresi “Cumhurbaşkanının” şeklinde ve üçüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, 2 nci maddesinin birinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve “kararname” ibaresi “karar” şeklinde değiştirilmiştir.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 105 inci maddesiyle bu fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve “kararname” ibaresi “karar” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 105 inci maddesiyle bu fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve “kararname” ibaresi “karar” şeklinde değiştirilmiştir.</i></small>

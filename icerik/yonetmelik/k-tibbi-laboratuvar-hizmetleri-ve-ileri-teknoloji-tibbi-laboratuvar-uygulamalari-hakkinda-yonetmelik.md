@@ -20,7 +20,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -112,9 +112,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Planlama, Ön İzin, Açmaya Yetkili Kişiler, Ruhsat, Faaliyet İzin Belgesi ve
+**Planlama, Ön İzin, Açmaya Yetkili Kişiler, Ruhsat, Faaliyet İzin Belgesi ve**
 
-İzin Belgesi Düzenleme ve Yenileme
+**İzin Belgesi Düzenleme ve Yenileme**
 
 #### Planlama ve ön izin
 
@@ -184,7 +184,7 @@ Planlama, Ön İzin, Açmaya Yetkili Kişiler, Ruhsat, Faaliyet İzin Belgesi ve
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Sınıflandırma, Fiziki Kriterler ve Çalışma Esasları
+**Sınıflandırma, Fiziki Kriterler ve Çalışma Esasları**
 
 #### Sınıflandırma
 
@@ -408,7 +408,7 @@ g) Kanser tanılı patoloji raporlarında, prognoz ve tedaviye yönelik klinik o
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Personel
+**Personel**
 
 #### Personel standartları
 
@@ -566,7 +566,7 @@ d) Tıbbi laboratuvar birim/merkez sorumlusu veya tıbbi laboratuvar uzmanı tar
 
 ### BEŞİNCİ BÖLÜM
 
-Tedavi ve Araştırma-Geliştirme Laboratuvarları
+**Tedavi ve Araştırma-Geliştirme Laboratuvarları**
 
 #### Tedavi laboratuvarları
 
@@ -636,7 +636,7 @@ d) Farmasötik ve toksikoloji Ar-Ge laboratuvarları.
 
 ### ALTINCI BÖLÜM
 
-Komisyonun Teşkili, Görevleri, Çalışma Usul ve Esasları
+**Komisyonun Teşkili, Görevleri, Çalışma Usul ve Esasları**
 
 #### Komisyonun teşkili
 
@@ -688,7 +688,7 @@ e) Bakanlıkça talep edilen diğer konularda bilimsel görüş ve öneriler gel
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetim ve yaptırım
 
@@ -944,4 +944,4 @@ e) Hizmet alımı yapılan sağlık tesisi kalite kontrol süreçlerinin takibi 
 
 **MADDE 32 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

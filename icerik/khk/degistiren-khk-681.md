@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2017/01/20170106M1-3.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-HÜKMÜNDE KARARNAME OLAĞANÜSTÜ HAL KAPSAMINDA MİLLİ SAVUNMA İLE İLGİLİ BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
-Karar Sayısı: KHK/681 Olağanüstü hal kapsamında milli savunma ile ilgili bazı düzenlemeler yapılması; Anayasanın 121 inci maddesi ile 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununun 4 üncü maddesine göre, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu’nca 2/1/2017 tarihinde kararlaştırılmıştır.
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**HÜKMÜNDE KARARNAME** OLAĞANÜSTÜ HAL KAPSAMINDA MİLLİ SAVUNMA İLE İLGİLİ BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
+**Karar Sayısı: KHK/681** Olağanüstü hal kapsamında milli savunma ile ilgili bazı düzenlemeler yapılması; Anayasanın 121 inci maddesi ile 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununun 4 üncü maddesine göre, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu’nca 2/1/2017 tarihinde kararlaştırılmıştır.
 
 MADDE 1- 4/1/1961 tarihli ve 211 sayılı Türk Silahlı Kuvvetleri İç Hizmet Kanununun 1 inci maddesinde yer alan “(Jandarma dahil)” ve “(Sahil Güvenlik dahil)” ibareleri yürürlükten kaldırılmıştır.
 
@@ -22,7 +22,7 @@ MADDE 2- 211 sayılı Kanunun 12 nci maddesinin (c) fıkrası aşağıdaki şeki
 “c) Askeri kurum: Kıta ve karargah anlamı dışında kalan okul, ordu evi, dikim evi, fabrika, tersane, askerlik şubesi, ikmal merkezi ve depo gibi askeri tesis ve teşkillerdir.”
 
 MADDE 3- 211 sayılı Kanunun 19 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 19- Astlar, üniformalı veya üniformasız asker amirleri ile sivil amirlerinin verdiği emirleri yerine getirmek zorundadır.”
+**“MADDE 19- Astlar, üniformalı veya üniformasız asker amirleri ile sivil amirlerinin verdiği emirleri yerine getirmek zorundadır.”**
 
 MADDE 4- 211 sayılı Kanunun 62 nci maddesinin beşinci fıkrasında yer alan “askerî hastanelere” ibaresi “Sağlık Bakanlığı veya üniversite hastanelerine” şeklinde değiştirilmiştir.
 
@@ -42,10 +42,10 @@ MADDE 10- 23/2/1961 tarihli ve 257 sayılı Er ve Erbaş Harçlıkları Kanununu
 MADDE 11- 257 sayılı Kanunun 6 ncı maddesinin (a) fıkrası aşağıdaki şekilde değiştirilmiştir.
 “a) Genelkurmay Başkanlığı, Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı kadrolarına dahil ücretli sivil şoförler ve operatörler yerinde kullanılacak şoför ve iş makineleri operatörü er ve erbaşlarına ayda 90 lirayı geçmemek üzere;”
 
-MADDE 12- 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 3 üncü maddesinin birinci fıkrasının (s) bendinde yer alan “Kuvvet Harp Akademileri” ibaresi “Milli Savunma Üniversitesi Enstitüleri” şeklinde değiştirilmiştir.
+MADDE 12- **27/7/1967** tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 3 üncü maddesinin birinci fıkrasının (s) bendinde yer alan “Kuvvet Harp Akademileri” ibaresi “Milli Savunma Üniversitesi Enstitüleri” şeklinde değiştirilmiştir.
 
 MADDE 13- 926 sayılı Kanunun mülga 13 üncü maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
-“MADDE 13- Milli Savunma Bakanlığı nam ve hesabına eğitim göreceklerin lisans ve lisansüstü eğitime gönderilmeleri ile askeri eğitimleri ve bu eğitimleri sırasında yapılacaklara ilişkin usul ve esaslar yönetmelikle belirlenir.”
+“MADDE 13- Milli Savunma Bakanlığı **nam ve hesabına eğitim göreceklerin lisans ve lisansüstü eğitime gönderilmeleri** ile askeri eğitimleri ve bu eğitimleri sırasında yapılacaklara ilişkin usul ve esaslar yönetmelikle belirlenir.”
 
 MADDE 14- 926 sayılı Kanunun 14 üncü maddesinin birinci fıkrasında yer alan “Genelkurmay Başkanlığınca gösterilecek lüzuma göre Türk Silahlı Kuvvetleri tarafından” ibaresi yürürlükten kaldırılmıştır.
 
@@ -65,7 +65,7 @@ MADDE 18- 926 sayılı Kanunun 37 nci maddesinin birinci fıkrasının (d) bendi
 
 MADDE 19- 926 sayılı Kanunun 38 inci maddesinin ikinci fıkrasının (b) bendinde yer alan “Kuvvet Komutanlıkları Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca” ibaresi “Kuvvet Komutanlıklarınca” şeklinde değiştirilmiştir.
 
-MADDE 20- 926 sayılı Kanunun 41 inci maddesinin birinci fıkrasının (a) bendinde yer alan “Kara, Deniz ve Hava Kuvvetleri Komutanlıkları ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının” ibaresi “Kuvvet Komutanlıklarının” şeklinde değiştirilmiş ve aynı maddenin ikinci fıkrasında yer alan “, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı” ibaresi yürürlükten kaldırılmıştır.
+MADDE 20- 926 sayılı Kanunun 41 inci maddesinin birinci fıkrasının (a) bendinde yer alan “**Kara, Deniz ve Hava Kuvvetleri** Komutanlıkları ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının” ibaresi “Kuvvet Komutanlıklarının” şeklinde değiştirilmiş ve aynı maddenin ikinci fıkrasında yer alan “, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı” ibaresi yürürlükten kaldırılmıştır.
 
 MADDE 21- 926 sayılı Kanunun 49 uncu maddesinin birinci fıkrasının (a), (c), (d), (i) ve (j) bentleri aşağıdaki şekilde değiştirilmiştir.
 “a) Türk Silahlı Kuvvetlerinde general-amiral kadroları (b) bendinde gösterilen rütbe miktarlarına ait kontenjanları aşmamak, görev ve hizmet ile kadro ve teşkilat ihtiyaçları da dikkate alınmak suretiyle Genelkurmay Başkanlığının görüşü alınarak Milli Savunma Bakanlığınca belirlenir.”
@@ -86,7 +86,7 @@ Kuvvet Komutanlığı esnasında rütbe bekleme süresi dolan orgeneral-oramiral
 Bu süre içinde rütbeye mahsus yaş haddini geçemeyecekleri gibi gerektiğinde rütbe bekleme süresinin uzatılması usulüne uygun bir işlemle emekliye sevk edilebilirler.
 Bu şekilde hizmete devam ettirilen orgeneral-oramiraller (b) bendinde gösterilen miktarlar dışına çıkarılır.”
 
-MADDE 22- 926 sayılı Kanunun 54 üncü maddesinin birinci fıkrasında yer alan “, Jandarma Genel Komutanlığından ve Sahil Güvenlik Komutanlığından” ibaresi ile aynı maddenin dördüncü fıkrası yürürlükten kaldırılmıştır.
+**MADDE 22-** 926 sayılı Kanunun 54 üncü maddesinin birinci fıkrasında yer alan “, Jandarma Genel Komutanlığından ve Sahil Güvenlik Komutanlığından” ibaresi ile aynı maddenin dördüncü fıkrası yürürlükten kaldırılmıştır.
 
 MADDE 23- 926 sayılı Kanunun 67 nci maddesinin birinci fıkrasının (b) bendi aşağıdaki şekilde değiştirilmiş ve aynı fıkraya aşağıdaki (c) bendi eklenmiştir.
 “b) Fakülte, yüksek okul veya meslek yüksek okulları,
@@ -102,7 +102,7 @@ MADDE 26- 926 sayılı Kanunun 82 nci maddesinin birinci ve ikinci fıkraları a
 Rütbe terfileri, ilgisine göre İçişleri Bakanının veya Milli Savunma Bakanının onayı ile yapılır.”
 
 MADDE 27- 926 sayılı Kanunun 89 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 89- Kara, Deniz ve Hava Kuvvetleri Komutanlıklarına ait astsubay kadroları, her yıl 30 Ağustos tarihine kadar sınıfı (varsa branşı) belirtilerek kuvvet komutanlıklarının teklifi üzerine Genelkurmay Başkanlığınca tespit edilir.”
+**“MADDE 89-** Kara, Deniz ve Hava Kuvvetleri Komutanlıklarına ait astsubay kadroları, her yıl 30 Ağustos tarihine kadar sınıfı (varsa branşı) belirtilerek kuvvet komutanlıklarının teklifi üzerine Genelkurmay Başkanlığınca tespit edilir.”
 
 MADDE 28- 926 sayılı Kanunun 109 uncu maddesinin beşinci fıkrasında yer alan “, Genelkurmay Başkanlığınca geçerli mazeret olarak değerlendirilen” ibaresi yürürlükten kaldırılmıştır.
 
@@ -146,7 +146,7 @@ MADDE 41- 926 sayılı Kanunun 150 nci maddesinin üçüncü fıkrasının ikinc
 MADDE 42- 926 sayılı Kanunun 202 nci maddesinin birinci fıkrasında yer alan “(Jandarma ve Sahil Güvenlik Komutanlığı dahil)” ibaresi yürürlükten kaldırılmıştır.
 
 MADDE 43- 926 sayılı Kanunun ek 4 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
-“Milli Savunma Üniversitesi ile sınıf okullarında ders görevi verilenlerin ücreti:
+**“Milli Savunma Üniversitesi ile sınıf okullarında ders görevi verilenlerin ücreti:**
 
 EK MADDE 4- Milli Savunma Üniversitesi ile sınıf okullarında ders görevi verilen üniversite öğretim üyeleri, öğretim görevlileri veya profesör, doçent, yardımcı doçent unvanını kazanmış asker ve sivil kişiler ile öğretim görevliliği niteliği üniversite senatosunca kabul edilen asker ve sivil kişilere ders saati başına ödenecek ücret her yıl bütçe kanunlarında gösterilir.”
 
@@ -162,7 +162,7 @@ Rütbe Yaş Haddi Teğmen, üsteğmen 49 Yüzbaşı 55 Binbaşı 56 Yarbay 57 Al
 
 GEÇİCİ MADDE 43- 2020-2021 eğitim ve öğretim yılı sonuna kadar olmak kaydıyla, bu Kanunun 150 nci ve ek 4 üncü maddesi kapsamında Milli Savunma Bakanlığına bağlı yükseköğretim kurumlarında ders vermek üzere görevlendirilen emekli subay ve astsubaylar ile emekli öğretim elemanlarına (varsa akademik unvanları da gözönünde bulundurularak) 2914 sayılı Kanuna göre belirlenen tutarın üç katını geçmemek üzere ek ders ücreti ödenir. Bu kapsamda ödenecek ek ders ücreti haftada 10 saati geçemez. Bu maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığı ve Milli Savunma Bakanlığınca müştereken belirlenir.
 
-GEÇİCİ MADDE 44- Bu Kanunun geçici 38 inci maddesinin 109 uncu madde hükümlerine göre subay nasbedilmiş olanlar hakkındaki hükümleri, 3/7/2003 tarihli ve 4917 sayılı Kanunun yürürlüğe girdiği tarihten önce bu Kanunun 14 üncü maddesi hükümlerine göre astsubaylıktan subaylığa geçenler ile bunlardan bu maddenin yürürlüğe girdiği tarihten önce bu görevleri üzerinden emekli, adi malullük veya vazife malullüğü aylığı ile dul ve yetim aylığı alanlar hakkında da aynı usul ve esaslar çerçevesinde uygulanır.”
+GEÇİCİ MADDE 44- Bu Kanunun geçici 38 inci maddesinin 109 uncu madde hükümlerine göre subay nasbedilmiş olanlar hakkındaki hükümleri, **3/7/2003 tarihli ve 4917 sayılı Kanunun yürürlüğe girdiği tarihten önce bu Kanunun 14 üncü maddesi hükümlerine göre astsubaylıktan subaylığa geçenler ile bunlardan bu maddenin yürürlüğe girdiği tarihten önce bu görevleri üzerinden emekli, adi malullük veya vazife malullüğü aylığı ile dul ve yetim aylığı alanlar hakkında da aynı usul ve esaslar çerçevesinde uygulanır.”**
 
 MADDE 47- 926 sayılı Kanunun ek geçici 36 ncı maddesinin dördüncü fıkrası yürürlükten kaldırılmıştır.
 
@@ -175,10 +175,10 @@ Rütbeler Normal Bekleme Süreleri Teğmen 3 yıl Üsteğmen 6 yıl Yüzbaşı 6
 MADDE 50- 926 sayılı Kanunun ek geçici 91 inci maddesi yürürlükten kaldırılmıştır.
 
 MADDE 51- 926 sayılı Kanuna aşağıdaki ek geçici maddeler eklenmiştir.
-“EK GEÇİCİ MADDE 95- Mülga ek 26 ncı madde kapsamında Milli Savunma Bakanlığı, Genelkurmay Başkanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına ait kadrolarda görevlendirilmiş olan öğretim üyesi, uzman tabip, uzman diş tabibi, tabip ve diş tabiplerine 31/7/2016 tarihinden bu maddenin yürürlüğe girdiği tarihe kadar ödenmeyen sağlık hizmetleri tazminatı ödenir.
-EK GEÇİCİ MADDE 96- Gerekli düzenlemeler yapılıncaya kadar Türk Silahlı Kuvvetleri özel bakım merkezleri, mülga 17/11/1983 tarihli ve 2957 sayılı Bazı Askerî Hastanelere Döner Sermaye Tahsisine Dair Kanun ve bu Kanun uyarınca çıkarılan yönetmelik hükümlerine göre faaliyetlerine devam ederler.”
+<i>“EK GEÇİCİ MADDE 95- Mülga ek 26 ncı madde kapsamında</i> Milli Savunma Bakanlığı, Genelkurmay Başkanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına ait kadrolarda görevlendirilmiş olan öğretim üyesi, uzman tabip, uzman diş tabibi, tabip ve diş tabiplerine 31/7/2016 tarihinden bu maddenin yürürlüğe girdiği tarihe kadar ödenmeyen sağlık hizmetleri tazminatı ödenir.
+<i>EK GEÇİCİ MADDE 96- Gerekli düzenlemeler yapılıncaya kadar Türk Silahlı Kuvvetleri özel bakım merkezleri, mülga 17/11/1983 tarihli ve 2957 sayılı Bazı Askerî Hastanelere Döner Sermaye Tahsisine Dair Kanun ve bu Kanun uyarınca çıkarılan yönetmelik hükümlerine göre faaliyetlerine devam ederler.”</i>
 
-MADDE 52- 31/7/1970 tarihli ve 1325 sayılı Milli Savunma Bakanlığı Görev ve Teşkilatı Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 52- 31/7/1970 tarihli ve 1325 sayılı Milli Savunma Bakanlığı Görev ve Teşkilatı Hakkında** Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 9- 31/12/2020 tarihini geçmemek kaydıyla, personel ve askeri öğrenci temin faaliyetleri için oluşturulan komisyonlarda diğer kamu kurum ve kuruluşları ile üniversitelerden ve Milli Savunma Bakanlığı veya Genelkurmay Başkanlığından Milli Savunma Bakanı onayı ile görevlendirilenlere, görev yaptıkları her gün için (1.000) gösterge ve ayda (15.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçmemek üzere ücret ödenir.
 Ödenecek ücret, damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaz.”
 

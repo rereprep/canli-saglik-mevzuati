@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2020/04/20200417-2.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-YENİ KORONAVİRÜS (COVID-19) SALGINININ EKONOMİK VE
-SOSYAL HAYATA ETKİLERİNİN AZALTILMASI HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7244 Kabul Tarihi: 16/4/2020 Bazı alacakların ertelenmesi, alınmaması veya yapılandırılması
+**KANUN**
+**YENİ KORONAVİRÜS (COVID-19) SALGINININ EKONOMİK VE**
+**SOSYAL HAYATA ETKİLERİNİN AZALTILMASI HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7244** Kabul Tarihi: 16/4/2020 Bazı alacakların ertelenmesi, alınmaması veya yapılandırılması
 
 MADDE 1 –
 (1) Yeni koronavirüs (Covid-19) salgını kaynaklı zorlayıcı sebep gerekçesiyle;

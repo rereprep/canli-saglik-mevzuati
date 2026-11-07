@@ -11,29 +11,29 @@ durum: "yürürlükte"
 
 ## 2005 MALÎ YILI BÜTÇE KANUNU
 
-Kanun No. 5277 Kabul Tarihi :28.12.2004
+**Kanun No. 5277 Kabul Tarihi :28.12.2004**
 
 ## BİRİNCİ KISIM Genel Hükümler
 
 ## BİRİNCİ BÖLÜM Gider, Gelir ve Denge
 
-Gider bütçesi
+**Gider bütçesi**
 
-MADDE 1.- Genel bütçeye dahil dairelerin harcamaları için bağlı (A) işaretli cetvelde gösterildiği üzere 153.928.792.910 Yeni Türk Lirası ödenek verilmiştir.
+**MADDE 1.-** Genel bütçeye dahil dairelerin harcamaları için bağlı (A) işaretli cetvelde gösterildiği üzere 153.928.792.910 Yeni Türk Lirası ödenek verilmiştir.
 
-Gelir bütçesi
+**Gelir bütçesi**
 
-MADDE 2. - Genel bütçenin gelirleri bağlı (B) işaretli cetvelde gösterildiği üzere 124.330.000.000 Yeni Türk Lirası olarak tahmin edilmiştir.
+**MADDE 2. -** Genel bütçenin gelirleri bağlı (B) işaretli cetvelde gösterildiği üzere 124.330.000.000 Yeni Türk Lirası olarak tahmin edilmiştir.
 
-Denge
+**Denge**
 
-MADDE 3. - Bu Kanunun 1 inci maddesinde belirtilen ödenekler toplamı ile 2 nci maddesinde belirtilen tahmin edilen gelirler toplamı arasındaki fark, net borçlanma hasılatı ile karşılanacaktır.
+**MADDE 3. -** Bu Kanunun 1 inci maddesinde belirtilen ödenekler toplamı ile 2 nci maddesinde belirtilen tahmin edilen gelirler toplamı arasındaki fark, net borçlanma hasılatı ile karşılanacaktır.
 
 ## İKİNCİ BÖLÜM Bütçe Düzenine İlişkin Hükümler
 
-Bölüm düzeni ve deyimler
+**Bölüm düzeni ve deyimler**
 
-MADDE 4. - Gider cetvelinin bölümleri, Analitik Bütçe Sınıflandırmasında fonksiyonlar şeklinde düzenlenir. Fonksiyonlar; birinci, ikinci, üçüncü ve dördüncü düzeyde alt fonksiyonlara ayrılır.
+**MADDE 4. -** Gider cetvelinin bölümleri, Analitik Bütçe Sınıflandırmasında fonksiyonlar şeklinde düzenlenir. Fonksiyonlar; birinci, ikinci, üçüncü ve dördüncü düzeyde alt fonksiyonlara ayrılır.
 
 26.5.1927 tarihli ve 1050 sayılı Kanun ile diğer kanunlarda ve bu Kanunda yer alan;
 
@@ -53,9 +53,9 @@ Tahakkuk ettirilecek giderler Devlet muhasebesi kayıtlarında ekonomik sınıfl
 
 1050 sayılı Kanun ve diğer mevzuat hükümleriyle analitik bütçe sınıflandırması arasında gerekli uyumu sağlamaya ve ortaya çıkabilecek sorunları gidermeye yönelik düzenlemeler yapmaya Maliye Bakanı yetkilidir.
 
-Bağlı cetveller
+**Bağlı cetveller**
 
-MADDE 5. - a) Bu Kanunun 1 inci maddesi ile verilen ödeneğin dağılımı (A),
+**MADDE 5. -** a) Bu Kanunun 1 inci maddesi ile verilen ödeneğin dağılımı (A),
 
 b) Özel hükümlerine göre 2005 yılında tahsiline devam olunacak Devlet gelirleri (B),
 
@@ -85,15 +85,15 @@ l) Kurumların 2005 yılında 5.1.1961 tarihli ve 237 sayılı Kanun uyarınca e
 
 İşaretli cetvelde gösterilmiştir.
 
-Yeni tertip, harcama ve gelir kalemleri açılması
+**Yeni tertip, harcama ve gelir kalemleri açılması**
 
-MADDE 6. - İlgili mevzuatına göre, yılı içinde hizmetin gerektirdiği hallerde bütçenin ekli (A) işaretli cetvellerinde yeni tertipler, (B) işaretli cetvellerinde yeni gelir kodları açmaya Maliye Bakanı yetkilidir.
+**MADDE 6. -** İlgili mevzuatına göre, yılı içinde hizmetin gerektirdiği hallerde bütçenin ekli (A) işaretli cetvellerinde yeni tertipler, (B) işaretli cetvellerinde yeni gelir kodları açmaya Maliye Bakanı yetkilidir.
 
 ## ÜÇÜNCÜ BÖLÜM Malî Politikaya İlişkin Hükümler
 
-Bütçe politikası ve malî kontrol
+**Bütçe politikası ve malî kontrol**
 
-MADDE 7.- Maliye Bakanı tutarlı, dengeli ve etkili bir bütçe politikası yürütmek, belirlenen makro ekonomik hedefler çerçevesinde istikrarı temin etmek ve malî kontrol sağlamak amacıyla;
+**MADDE 7.-** Maliye Bakanı tutarlı, dengeli ve etkili bir bütçe politikası yürütmek, belirlenen makro ekonomik hedefler çerçevesinde istikrarı temin etmek ve malî kontrol sağlamak amacıyla;
 
 a) Kamu istihdam politikasının belirlenmesine ve uygulanmasına yön vermeye,
 
@@ -109,9 +109,9 @@ Yetkilidir.
 
 Kamu kurum ve kuruluşlarına üstlendikleri görevleri yerine getirmede katkı sağlayan dernek ve vakıflar, mevcut mevzuat çerçevesinde tâbi oldukları denetimin yanı sıra hizmet niteliği itibarıyla ilgili kurum ve kuruluşlar ile gerekli görülmesi halinde ayrıca Maliye Bakanlığınca da denetlenir.
 
-Ayrıntılı harcama programları ve ödeneklerin kullanımı
+**Ayrıntılı harcama programları ve ödeneklerin kullanımı**
 
-MADDE 8.- a) Bütçe kanunlarına ekli (A) işaretli cetvellerdeki ödenekler, Maliye Bakanlığınca belirlenecek ilkeler ve serbest bırakma oranları dahilinde kullanılır.
+**MADDE 8.-** a) Bütçe kanunlarına ekli (A) işaretli cetvellerdeki ödenekler, Maliye Bakanlığınca belirlenecek ilkeler ve serbest bırakma oranları dahilinde kullanılır.
 
 Kamu kurum ve kuruluşlarının yıl içinde gerçekleştirecekleri hizmet ve faaliyetler için bütçelerinde yer alan ödeneklerin kullanımının önceden plânlanabilmesi amacıyla ödenek kullanımının ayrıntılı bir harcama programına bağlanması Maliye Bakanlığı tarafından istenebilir.
 
@@ -139,9 +139,9 @@ Bu işlemler sonucu doğacak Hazine yardımı fazlalarını iptal etmeye Maliye 
 
 Bu fıkra hükümleri gereğince yapılan iptaller sonucunda ilgili tertiplerde kalan ödeneklerin Yeni Kuruş tutarları dikkate alınmaz. Bu konuda çıkacak tereddütleri gidermeye ve gerekli düzenlemeleri yapmaya Maliye Bakanı yetkilidir.
 
-Gelir ve giderlerin izlenmesi, analitik bütçe sınıflandırması ve performans esaslı bütçe uygulaması
+**Gelir ve giderlerin izlenmesi, analitik bütçe sınıflandırması ve performans esaslı bütçe uygulaması**
 
-MADDE 9. - a) Devletin tüm gelir ve giderleri ile borç ve malî imkânlarının tespiti, takibi ve denetiminin yapılabilmesi amacıyla genel bütçeye dahil dairelerle katma bütçeli idareler, döner sermayeler, fonlar ve fonlara tasarruf eden kuruluşlar, belediyeler, belediyelere bağlı kuruluşlar, il özel idareleri, bütçeden yardım alan kuruluşlar, kamu iktisadî teşebbüsleri ile diğer kamu kurum ve kuruluşları; gelir ve gider tahminlerini, malî tablolarını, birbirleriyle olan borç ve alacak durumlarını, personele ilişkin her türlü bilgi ve belgeleri Maliye Bakanlığınca belirlenecek esas ve süreler dahilinde vermekle yükümlüdürler.
+**MADDE 9. -** a) Devletin tüm gelir ve giderleri ile borç ve malî imkânlarının tespiti, takibi ve denetiminin yapılabilmesi amacıyla genel bütçeye dahil dairelerle katma bütçeli idareler, döner sermayeler, fonlar ve fonlara tasarruf eden kuruluşlar, belediyeler, belediyelere bağlı kuruluşlar, il özel idareleri, bütçeden yardım alan kuruluşlar, kamu iktisadî teşebbüsleri ile diğer kamu kurum ve kuruluşları; gelir ve gider tahminlerini, malî tablolarını, birbirleriyle olan borç ve alacak durumlarını, personele ilişkin her türlü bilgi ve belgeleri Maliye Bakanlığınca belirlenecek esas ve süreler dahilinde vermekle yükümlüdürler.
 
 Maliye Bakanı, bu fıkra kapsamına giren kurum ve kuruluşlardan her türlü malî işlemleri ile ilgili bilgi, belge ve hesap durumlarını almaya, bu belge ve hesap durumları ile borçlanma ve borç ödeme imkânları üzerinde inceleme yaptırmaya, programlarına uygun harcama yapmayan ya da bilgi, belge ve hesap durumlarını ibraz etmeyen idare, kurum ve kuruluşların bütçe ödenekleri ile ilgili gerekli önlemleri almaya, bu maksatla gerektiğinde ilgili kurum ve kuruluşlardan alınan önlemlerin uygulanmasını istemeye yetkilidir.
 
@@ -149,9 +149,9 @@ b) Döner sermayeler, bütçe içi ve dışı fonlar, belediyeler, il özel idar
 
 c) Performans esaslı bütçe uygulamasının gerçekleştirilebilmesi bakımından, kamu kurum ve kuruluşlarında pilot uygulamalar yapmaya, bu amaçla tahsis edilen ödeneklerin kullanımında yeni esas ve usuller tespit etmeye ve ilgili malî mevzuatın uygulanması konusunda düzenlemeler yapmaya Maliye Bakanı yetkilidir.
 
-Gerektiğinde kullanılabilecek ödenekler
+**Gerektiğinde kullanılabilecek ödenekler**
 
-MADDE 10. - a) Personel Giderlerini Karşılama Ödeneği:
+**MADDE 10. -** a) Personel Giderlerini Karşılama Ödeneği:
 
 Genel bütçeye dahil dairelerle katma bütçeli idarelerin bütçelerine konulan ödeneklerin yetmeyeceği anlaşıldığı takdirde, ilgili mevzuatının gerektirdiği harcamalar için "Personel Giderleri" ve "Sosyal Güvenlik Kurumlarına Devlet Primi Giderleri" ile ilgili mevcut veya yeniden açılacak tertiplere, Maliye Bakanlığı bütçesinin 12.01.31.00-01.1.2.00-1-09.1 tertibinde yer alan ödenekten aktarma yapmaya,
 
@@ -189,9 +189,9 @@ Maliye Bakanlığı bütçesinin 12.01.31.00-01.1.2.76-1-05.2 tertibinde yer ala
 
 Maliye Bakanı yetkilidir.
 
-Yatırım harcamaları
+**Yatırım harcamaları**
 
-MADDE 11. - a) 2005 Yılı Yatırım Programına ek yatırım cetvellerinde yer alan projeler dışında herhangi bir projeye harcama yapılamaz. Bu cetvellerde yer alan projeler ile ödeneği toplu olarak verilmiş projeler kapsamındaki yıllara sarî işlere (finansmanı ikili işbirliği çerçevesinde dış proje kredisi ile sağlanacak olan projelerden kurulu gücü 500 MW üzerinde olan baraj ve hidroelektrik santral projeleri hariç) 2005 yılında başlanabilmesi için proje veya işin 2005 yılı yatırım ödeneği, proje maliyetinin % 10'undan az olamaz. Bu oranın altında kalan proje ve işler için gerektiğinde projeler "2005 Yılı Programının Uygulanması, Koordinasyonu ve İzlenmesine Dair Karar" hükümlerine uyulmak ve öncelikle kurumların yatırım ödenekleri içinde kalmak suretiyle revize edilebilir.
+**MADDE 11. -** a) 2005 Yılı Yatırım Programına ek yatırım cetvellerinde yer alan projeler dışında herhangi bir projeye harcama yapılamaz. Bu cetvellerde yer alan projeler ile ödeneği toplu olarak verilmiş projeler kapsamındaki yıllara sarî işlere (finansmanı ikili işbirliği çerçevesinde dış proje kredisi ile sağlanacak olan projelerden kurulu gücü 500 MW üzerinde olan baraj ve hidroelektrik santral projeleri hariç) 2005 yılında başlanabilmesi için proje veya işin 2005 yılı yatırım ödeneği, proje maliyetinin % 10'undan az olamaz. Bu oranın altında kalan proje ve işler için gerektiğinde projeler "2005 Yılı Programının Uygulanması, Koordinasyonu ve İzlenmesine Dair Karar" hükümlerine uyulmak ve öncelikle kurumların yatırım ödenekleri içinde kalmak suretiyle revize edilebilir.
 
 Silahlı Kuvvetler bütçesinin programlarında (03) ekonomik sınıflandırma kodunda yer alan savunma sektörü, altyapı, inşa, iskân ve tesisleriyle NATO altyapı yatırımlarının gerektirdiği inşa ve tesisler ve bunlara ilişkin kamulaştırmalar ile stratejik hedef plânı içinde yer alan alım ve hizmetler Devlet Planlama Teşkilâtı Müsteşarlığının vizesine bağlı olmayıp, 2005 Yılı Yatırım Programına ek yatırım çizelgelerinde yer almaz.
 
@@ -203,15 +203,15 @@ Bu şekilde yürütülecek projelerin etüt, keşif ve kontrollük hizmetleri, i
 
 d) 2005 Yılı Yatırım Programına ek yatırım cetvellerinde yıl içinde yapılması zorunlu değişiklikler için "2005 Yılı Programının Uygulanması, Koordinasyonu ve İzlenmesine Dair Karar" da yer alan usullere uyulur.
 
-Katma bütçeli idarelere Hazine yardımı
+**Katma bütçeli idarelere Hazine yardımı**
 
-MADDE 12.- Katma bütçeli idarelerin bütçelerini denkleştirmek amacıyla Maliye Bakanlığı bütçesinin Hazine yardımı tertiplerine ödenek ve karşılığı ilgili katma bütçenin (B) işaretli cetveline gelir yazılan miktarlardan, bu amaca göre fazla olduğu tespit edilen kısımlar, yıl sonunda Hazine Müsteşarlığı ile mutabakat sağlanmak suretiyle ilgili idarelere ödenmeyerek Maliye Bakanınca iptal edilir.
+**MADDE 12.-** Katma bütçeli idarelerin bütçelerini denkleştirmek amacıyla Maliye Bakanlığı bütçesinin Hazine yardımı tertiplerine ödenek ve karşılığı ilgili katma bütçenin (B) işaretli cetveline gelir yazılan miktarlardan, bu amaca göre fazla olduğu tespit edilen kısımlar, yıl sonunda Hazine Müsteşarlığı ile mutabakat sağlanmak suretiyle ilgili idarelere ödenmeyerek Maliye Bakanınca iptal edilir.
 
 Ayrıca, Vakıflar Genel Müdürlüğü ile Hudut ve Sahiller Sağlık Genel Müdürlüğü dışındaki katma bütçeli idarelerin yıl sonuna göre Maliye Bakanlığınca tespit olunacak bütçe fazlaları genel bütçeye gelir yazılır.
 
-Resmî taşıtlar, demirbaş eşya ve levazım
+**Resmî taşıtlar, demirbaş eşya ve levazım**
 
-MADDE 13. - a) 1. Bu Kanuna bağlı (T) işaretli cetvelde yer alan taşıtlar ancak çok acil ve zorunlu hallere münhasır olmak kaydıyla ilgili kurumun talebi ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu kararı ile edinilebilir.
+**MADDE 13. -** a) 1. Bu Kanuna bağlı (T) işaretli cetvelde yer alan taşıtlar ancak çok acil ve zorunlu hallere münhasır olmak kaydıyla ilgili kurumun talebi ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu kararı ile edinilebilir.
 
 2. 5.1.1961 tarihli ve 237 sayılı Kanun kapsamında bulunan kurumlar ile özel kanunla kurulmuş diğer kamu kurum, kurul, üst kurul ve kuruluşları, binek veya station-wagon cinsi taşıt ihtiyaçlarını yabancı menşeli taşıt kullanılmamak kaydıyla hizmet alımı suretiyle de karşılayabilirler. Bu durumda, söz konusu kurumların mülkiyetlerinde bulunduracakları ile hizmet alımı yoluyla temin edecekleri binek veya station-wagon cinsi taşıtların toplamı, 31.12.2004 tarihi itibarıyla mülkiyetlerinde bulundurdukları ile hizmet alımı yoluyla kullandıkları binek veya station-wagon cinsi taşıtların toplam sayısını hiçbir surette aşamaz. Ancak, hizmet genişlemesi veya zorunluluk arz eden hallerde, bu sayıyı aşan taşıtların hizmet alımı yoluyla temin edinilebilmesi için Maliye Bakanlığının uygun görüşü alınır.
 
@@ -227,17 +227,17 @@ Kurumlar, 237 sayılı Kanunun 13 üncü maddesi uyarınca ekonomik ömrünü do
 
 b) Genel bütçeye dahil daireler, katma bütçeli idareler, döner sermayeler, fonlar, belediyeler, il özel idareleri, sosyal güvenlik kurumları, bütçeden yardım alan kuruluşlar ile özel kanunla kurulmuş diğer kamu kurum, kurul, üst kurul ve kuruluşları, kamu iktisadi teşebbüsleri, bağlı ortaklıkları ile müessese ve işletmelerindeki ihtiyaç fazlası eşya ve levazımın tespiti ile bunların kuruluşlar arasında bedelsiz olarak devredilmesine veya tasfiye edilmesine ilişkin esas ve usûller Maliye Bakanlığınca düzenlenir. 3.7.2003 tarihli ve 4916 sayılı Kanunun 37 nci maddesi hükmü saklıdır. Diğer kanunların bu fıkraya aykırı hükümleri uygulanmaz.
 
-Sağlık ödemelerinin tetkiki
+**Sağlık ödemelerinin tetkiki**
 
-MADDE 14. - Tedavi kurum veya kuruluşlarına yapılacak ödemelerin tetkiki amacıyla saymanlara yardımcı olmak üzere Maliye Bakanlığınca belirlenecek saymanlıklarda Sağlık Bakanlığının merkez ve taşra teşkilâtında tabip ve eczacı kadrolarında çalışan personel, bu personelin bulunmadığı durumlarda diğer kamu kurum ve kuruluşlarında bu unvanlarda çalışan personel, asli görevlerinin yanında talep üzerine Sağlık Bakanlığının ya da ilgili kurum veya kuruluşun izni ile Maliye Bakanlığınca görevlendirilebilirler.
+**MADDE 14. -** Tedavi kurum veya kuruluşlarına yapılacak ödemelerin tetkiki amacıyla saymanlara yardımcı olmak üzere Maliye Bakanlığınca belirlenecek saymanlıklarda Sağlık Bakanlığının merkez ve taşra teşkilâtında tabip ve eczacı kadrolarında çalışan personel, bu personelin bulunmadığı durumlarda diğer kamu kurum ve kuruluşlarında bu unvanlarda çalışan personel, asli görevlerinin yanında talep üzerine Sağlık Bakanlığının ya da ilgili kurum veya kuruluşun izni ile Maliye Bakanlığınca görevlendirilebilirler.
 
 Söz konusu tetkikin yapılacağı saymanlıklar, görevlendirilecek personelin sayıları ile bunların çalışma esas ve usûlleri Maliye Bakanlığı ve Sağlık Bakanlığınca müştereken belirlenir.
 
 ## DÖRDÜNCÜ BÖLÜM Bütçe Uygulamasına İlişkin Hükümler
 
-Aktarma
+**Aktarma**
 
-MADDE 15.- a) Maliye Bakanı;
+**MADDE 15.-** a) Maliye Bakanı;
 
 1. Aynı kuruluş bütçesi içinde "Personel giderleri" ile "Sosyal güvenlik kurumlarına Devlet primi giderleri" tertipleri arasında fonksiyonel ve ekonomik sınıflandırma ayırımına bakılmaksızın aktarma yapmaya,
 
@@ -267,13 +267,13 @@ c) Hazine Müsteşarlığı bütçesinin (07.82.36.00-01.1.2.00-1-08.2), (07.82.
 
 d) Kültür ve Turizm Bakanlığı 2004 Malî Yılı Bütçesinin 21.01.33.00 kurumsal kod, 08.2.0.00 fonksiyonel kod ve (6) finansman koduna ilişkin tertiplere kaydedilen ödeneklerden harcanmayan tutarlara kadar, 2005 Malî Yılı Bütçesinin 21.01.33.00 kurumsal kod, 08.2.0.00 fonksiyonel kod ve (1) finansman kodunda yer alan (05) ekonomik koda ilişkin tertiplerine ödenek eklemeye Maliye Bakanı yetkilidir.
 
-Geçen yıllar borçları
+**Geçen yıllar borçları**
 
-MADDE 16. - Yılın sonuna kadar ödenemediği gibi emanet hesabına da alınamayan ve 1050 sayılı Kanunun 93 üncü maddesine göre zamanaşımına uğramamış bulunan geçen yıllar borçlarına ait ödemeler, borç konusu hizmetlerin yürütüldüğü ilgili tertiplerden yapılır.
+**MADDE 16. -** Yılın sonuna kadar ödenemediği gibi emanet hesabına da alınamayan ve 1050 sayılı Kanunun 93 üncü maddesine göre zamanaşımına uğramamış bulunan geçen yıllar borçlarına ait ödemeler, borç konusu hizmetlerin yürütüldüğü ilgili tertiplerden yapılır.
 
-Ödenek devir ve iptal işlemleri
+**Ödenek devir ve iptal işlemleri**
 
-MADDE 17. - a) 16.8.1997 tarihli ve 4306 sayılı Kanunun geçici 1 inci maddesi uyarınca tahsil edilen miktarları bu amaçla Millî Eğitim Bakanlığı bütçesine konulan ödeneklerden kullandırmak üzere bütçenin (B) işaretli cetveline gelir kaydetmeye, ödeneğini aşan gelir tahsilatı karşılığında ilgili tertibe ödenek eklemeye, yılı içinde harcanmayan ödenekleri ertesi yıl bütçesine devren gelir ve ödenek kaydetmeye, bu hükümler çerçevesinde yapılacak işlemlere ilişkin esas ve usûlleri belirlemeye,
+**MADDE 17. -** a) 16.8.1997 tarihli ve 4306 sayılı Kanunun geçici 1 inci maddesi uyarınca tahsil edilen miktarları bu amaçla Millî Eğitim Bakanlığı bütçesine konulan ödeneklerden kullandırmak üzere bütçenin (B) işaretli cetveline gelir kaydetmeye, ödeneğini aşan gelir tahsilatı karşılığında ilgili tertibe ödenek eklemeye, yılı içinde harcanmayan ödenekleri ertesi yıl bütçesine devren gelir ve ödenek kaydetmeye, bu hükümler çerçevesinde yapılacak işlemlere ilişkin esas ve usûlleri belirlemeye,
 
 b) Türk Silahlı Kuvvetleri Stratejik Hedef Plânının yıllık programlarının gerektirdiği ödeneklerden yılı içinde harcanmayan ödenekleri, hizmetin devamlılığını sağlamak maksadıyla ödeneklerinin %30'unu aşmamak üzere ertesi yıl bütçesine devren ödenek kaydetmeye,
 
@@ -309,17 +309,17 @@ f) Şartlı bağış ve yardımlar da dahil olmak üzere özel ödenek ve özel 
 
 İptal ederek bütçeye gelir kaydetmeye Maliye Bakanı yetkilidir.
 
-Savunma Sanayii Destekleme Fonu
+**Savunma Sanayii Destekleme Fonu**
 
-MADDE 18. - a) Türk Silahlı Kuvvetlerine stratejik hedef plânı uyarınca temini gerekli modern silah, araç ve gereçler ile gerçekleştirilecek savunma ve NATO altyapı yatırımları için yıl içinde yapılacak harcamalar, 7.11.1985 tarihli ve 3238 sayılı Kanunla kurulan Savunma Sanayii Destekleme Fonunun kaynakları, bu amaçla bütçeye konulan ödenekler ve diğer aynî ve nakdî imkânlar birlikte değerlendirilmek suretiyle Savunma Sanayii İcra Komitesince tespit edilecek esaslar çerçevesinde karşılanır.
+**MADDE 18. -** a) Türk Silahlı Kuvvetlerine stratejik hedef plânı uyarınca temini gerekli modern silah, araç ve gereçler ile gerçekleştirilecek savunma ve NATO altyapı yatırımları için yıl içinde yapılacak harcamalar, 7.11.1985 tarihli ve 3238 sayılı Kanunla kurulan Savunma Sanayii Destekleme Fonunun kaynakları, bu amaçla bütçeye konulan ödenekler ve diğer aynî ve nakdî imkânlar birlikte değerlendirilmek suretiyle Savunma Sanayii İcra Komitesince tespit edilecek esaslar çerçevesinde karşılanır.
 
 b) Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına bütçe ile tahsis edilen mevcut ödeneklerden (a) fıkrası gereğince tespit edilecek miktarları, Gümrük Müsteşarlığına (Gümrükler Muhafaza Genel Müdürlüğü) bütçe ile tahsis edilen mevcut ödeneklerden motorbot alımına yönelik miktarları, Hudut ve Sahiller Sağlık Genel Müdürlüğüne bütçe ile tahsis edilen mevcut ödenekler ile bu Genel Müdürlük bütçesine kaydedilen ödeneklerden motorbot alımına yönelik miktarları Savunma Sanayii Destekleme Fonuna ödemeye Millî Savunma, İçişleri ve Sağlık Bakanları ile Gümrük Müsteşarlığının bağlı olduğu Bakan yetkilidir.
 
 c) Savunma Sanayii Destekleme Fonundan Hazineye yatırılacak paraları bir yandan bütçeye gelir, diğer yandan Millî Savunma Bakanlığı bütçesinin ilgili tertiplerine ödenek kaydetmeye ve geçen yıllar ödenek bakiyelerini devretmeye Maliye Bakanı yetkilidir.
 
-Yabancı ülkelere yapılacak hizmet karşılıkları
+**Yabancı ülkelere yapılacak hizmet karşılıkları**
 
-MADDE 19.- Maliye Bakanı;
+**MADDE 19.-** Maliye Bakanı;
 
 a) Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca yabancı ülkelere ve uluslararası kuruluşlara kiraya verilen veya bir hizmetin yerine getirilmesinde kullanılan kara, deniz ve hava taşıtlarından alınan kira veya ücret tutarlarını,
 
@@ -329,9 +329,9 @@ c) NATO makamlarınca yapılan anlaşma gereğince yedek havaalanlarının bakı
 
 Aynı amaçla kullanılmak üzere bir yandan bütçeye gelir, diğer yandan yukarıda yazılı kuruluş bütçelerinde açılacak özel tertiplere ödenek kaydetmeye ve bu suretle ödenek kaydedilen miktarlardan yılı içinde harcanmayan kısımları ertesi yıla devretmeye yetkilidir.
 
-Bağış, hibe ve yardımlar
+**Bağış, hibe ve yardımlar**
 
-MADDE 20. - a) Yurt içi ve yurt dışı kaynaklardan hibe olarak yıl içinde elde edilecek imkânların Yeni Türk Lirası karşılıklarını Hazine Müsteşarlığının teklifi üzerine gereğine göre bütçeye gelir veya gelir-ödenek-gider kaydetmeye,
+**MADDE 20. -** a) Yurt içi ve yurt dışı kaynaklardan hibe olarak yıl içinde elde edilecek imkânların Yeni Türk Lirası karşılıklarını Hazine Müsteşarlığının teklifi üzerine gereğine göre bütçeye gelir veya gelir-ödenek-gider kaydetmeye,
 
 b) Dış kaynaklardan veya uluslararası antlaşmalarla bağış ve kredi yolu ile gelecek her çeşit malzemenin navlun ve dışalımla ilgili vergi ve resimlerinin ödenmesi amacı ile bunların karşılığını, ilgili bütçelerinde mevcut veya yeniden açılacak tertiplere ödenek kaydetmeye ve gereken işlemleri yapmaya,
 
@@ -341,9 +341,9 @@ Maliye Bakanı yetkilidir.
 
 d) Türkiye-Avrupa Birliği Malî İşbirliği kapsamında sağlanacak malî imkânların karşılığı olarak ilgili kurum bütçelerinde (05), (06) ve (07) ekonomik sınıflandırma kodunda yer alan ödeneklerin Ulusal Fona ödenmesine ilgili bakanlar yetkilidir. Bu ödenekler başka bir hizmet veya faaliyete tahsis edilemez. Ulusal Fona ödeme işlemi Hazine Müsteşarlığının bağlı olduğu Devlet Bakanının talebi üzerine ve projelerin finansman plânlamasına uygun olarak en geç otuz gün içinde gerçekleştirilir. Malî işbirliği kapsamındaki projelerin yürütülmesi esnasında kur farkları ve benzeri türden doğabilecek ilave ödenek ihtiyacı Maliye Bakanlığı bütçesinde yer alan 12.01.31.00-01.1.2.00-1-09.6 tertibinden aktarma yapılmak suretiyle karşılanabilir. Ulusal Fona ödenen bu tutarlar, 30.1.2003 tarihli ve 4802 sayılı Kanun kapsamında onaylanan Mutabakat Zabıtlarında yer alan hükümler çerçevesinde kullanılır.
 
-Fonlara ilişkin hükümler
+**Fonlara ilişkin hükümler**
 
-MADDE 21. - a) Çeşitli mevzuatla kurulmuş fonların her türlü gelirleri T.C. Merkez Bankası nezdinde Hazine Müsteşarlığı adına açılan müşterek fon hesabına yatırılır. Bu hesaba yatırılan gelirlerden ilgili mevzuatında öngörülen fonlar arası pay ve kesintiler T.C. Merkez Bankası tarafından yapılır.
+**MADDE 21. -** a) Çeşitli mevzuatla kurulmuş fonların her türlü gelirleri T.C. Merkez Bankası nezdinde Hazine Müsteşarlığı adına açılan müşterek fon hesabına yatırılır. Bu hesaba yatırılan gelirlerden ilgili mevzuatında öngörülen fonlar arası pay ve kesintiler T.C. Merkez Bankası tarafından yapılır.
 
 Destekleme ve Fiyat İstikrar Fonunun gelirleri, yapılan kesintilerden sonra kalan tutarlar üzerinden genel bütçenin (B) işaretli cetveline gelir yazılır. Bu Fon, hizmetlerini bütçenin (A) işaretli cetveline konulan ödeneklerle yerine getirir.
 
@@ -355,9 +355,9 @@ c) Tasfiye edilen fonların her türlü gelirleri, tasfiye edilmelerine ilişkin
 
 ## İKİNCİ KISIM Devlet Borçları ve Kamu İktisadi Teşebbüslerine İlişkin Hükümler
 
-Hazine garanti limiti, dış proje kredileri ve borçlanmaya ilişkin hükümler
+**Hazine garanti limiti, dış proje kredileri ve borçlanmaya ilişkin hükümler**
 
-MADDE 22.- a) 2005 yılı içinde, 28.3.2002 tarihli ve 4749 sayılı Kanuna göre sağlanacak;
+**MADDE 22.-** a) 2005 yılı içinde, 28.3.2002 tarihli ve 4749 sayılı Kanuna göre sağlanacak;
 
 1. Garantili imkân limiti 2 milyar ABD Dolarını,
 
@@ -369,17 +369,17 @@ b) Dış borçlanma imkânları ile satın alınacak malzeme ve hizmetlere ait t
 
 c) Bu Kanunun 1 inci maddesi ile belirlenen başlangıç ödeneklerinin %1'ine kadar ikrazen Özel Tertip Devlet İç Borçlanma Senedi ihraç edilebilir.
 
-Görev zararları
+**Görev zararları**
 
-MADDE 23.- Kamu iktisadî teşebbüslerinin, 233 sayılı Kanun Hükmünde Kararnamenin 35 inci maddesi uyarınca, doğmuş ve doğacak görev zararı alacakları ile 12.12.2001 tarihli ve 2001/3372 sayılı Bakanlar Kurulu Kararı ile önceki yıllar kararları kapsamında üretilen şekerin, Türkiye Şeker Fabrikaları A.Ş.'nin özelleştirme programına alındığı tarih itibarıyla sözleşmesi ve bağlantısı yapılmış olan, dahilde işleme rejimi kapsamındaki satışları ile ihracatından doğan ve/veya doğacak görev zararları ve Toprak Mahsulleri Ofisi Genel Müdürlüğünün (TMO) ilgili mevzuatında belirtilen esas ve usûller kapsamında doğmuş ve doğacak görev zararı alacakları avans olarak (TMO'nun 2004-2005 kampanya döneminde dahilde işleme rejimi kapsamında doğan/doğacak görev zararları avans olarak ödenmez.) Hazine Müsteşarlığı bütçesinde bu amaçla öngörülen ödeneklerden karşılanır.
+**MADDE 23.-** Kamu iktisadî teşebbüslerinin, 233 sayılı Kanun Hükmünde Kararnamenin 35 inci maddesi uyarınca, doğmuş ve doğacak görev zararı alacakları ile 12.12.2001 tarihli ve 2001/3372 sayılı Bakanlar Kurulu Kararı ile önceki yıllar kararları kapsamında üretilen şekerin, Türkiye Şeker Fabrikaları A.Ş.'nin özelleştirme programına alındığı tarih itibarıyla sözleşmesi ve bağlantısı yapılmış olan, dahilde işleme rejimi kapsamındaki satışları ile ihracatından doğan ve/veya doğacak görev zararları ve Toprak Mahsulleri Ofisi Genel Müdürlüğünün (TMO) ilgili mevzuatında belirtilen esas ve usûller kapsamında doğmuş ve doğacak görev zararı alacakları avans olarak (TMO'nun 2004-2005 kampanya döneminde dahilde işleme rejimi kapsamında doğan/doğacak görev zararları avans olarak ödenmez.) Hazine Müsteşarlığı bütçesinde bu amaçla öngörülen ödeneklerden karşılanır.
 
 ### . ÜÇÜNCÜ KISIM Kamu Personeline İlişkin Hükümler
 
 ## BİRİNCİ BÖLÜM Özlük Hakları
 
-Katsayılar, yurt dışı aylıklar, ücret ve sözleşme ücreti
+**Katsayılar, yurt dışı aylıklar, ücret ve sözleşme ücreti**
 
-MADDE 24. - a) 14.7.1965 tarihli ve 657 sayılı Kanunun 154 üncü maddesi uyarınca, 1.1.2005-30.6.2005 döneminde aylık gösterge tablosunda yer alan rakamlar ile ek gösterge rakamlarının aylık tutarlara çevrilmesinde uygulanacak aylık katsayısı (0,0401), memuriyet taban aylığı göstergesine uygulanacak taban aylığı katsayısı (0,486), yan ödeme katsayısı (0,0126) olarak, 1.7.2005-31.12.2005 döneminde ise aylık katsayısı (0,0416), memuriyet taban aylığı göstergesine uygulanacak taban aylığı katsayısı (0,52075), yan ödeme katsayısı (0,0132) olarak uygulanır.
+**MADDE 24. -** a) 14.7.1965 tarihli ve 657 sayılı Kanunun 154 üncü maddesi uyarınca, 1.1.2005-30.6.2005 döneminde aylık gösterge tablosunda yer alan rakamlar ile ek gösterge rakamlarının aylık tutarlara çevrilmesinde uygulanacak aylık katsayısı (0,0401), memuriyet taban aylığı göstergesine uygulanacak taban aylığı katsayısı (0,486), yan ödeme katsayısı (0,0126) olarak, 1.7.2005-31.12.2005 döneminde ise aylık katsayısı (0,0416), memuriyet taban aylığı göstergesine uygulanacak taban aylığı katsayısı (0,52075), yan ödeme katsayısı (0,0132) olarak uygulanır.
 
 399 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesinin (c) bendi uyarınca çalıştırılan sözleşmeli personelin ücret tavanı 1.1.2005-30.6.2005 döneminde 1.982 Yeni Türk Lirası olarak, 1.7.2005 - 31.12.2005 döneminde ise 2.088 Yeni Türk Lirası olarak uygulanır.
 
@@ -395,9 +395,9 @@ d) Kurumların yurt dışı kuruluşlarına dahil kadrolarında görev yapan Dev
 
 ## İKİNCİ BÖLÜM İstihdam Esasları
 
-Kadroların kullanımı
+**Kadroların kullanımı**
 
-MADDE 25.- a) Genel bütçeye dahil dairelerle katma bütçeli idarelerin boş memur kadrolarına yapacakları açıktan atama sayıları ile konsolide bütçe dışındaki diğer kamu kurum ve kuruluşlarından yapacakları memur nakilleri toplamı 48.000 adedi geçemez. Ancak, hâkimlik ve savcılık meslekleri ile bu meslekten sayılan görevlere, yükseköğretim kurumları öğretim üyeliklerine ve araştırma görevlisi kadrolarına yapılacak atamalar, Tıpta Uzmanlık Tüzüğü uyarınca asistan kadrolarına yapılacak atamalar, 27.7.1967 tarihli ve 926 sayılı Kanun kapsamında veya diğer ilgili mevzuata göre yapılacak askerî personel atamaları, 24.5.1983 tarihli ve 2828 sayılı Kanunun ek 1 inci maddesi uyarınca yapılacak atamalar ile 24.11.1994 tarihli ve 4046 sayılı Kanunun 22 nci maddesi uyarınca yapılacak personel nakilleri bu sayıya dahil edilmez. Söz konusu toplam sayının kurum ve kuruluşlar itibarıyla dağılımı, gerekli görülmesi halinde bu toplam sayının belirli bir oranda tutulması ve kullanımı ile diğer hususlar ve yükseköğretim kurumları araştırma görevlisi kadrolarına yapılacak açıktan atamalara ilişkin esaslar Devlet Personel Başkanlığının bağlı olduğu Bakan ile Maliye Bakanının müşterek önerisi üzerine Başbakan tarafından belirlenir.
+**MADDE 25.-** a) Genel bütçeye dahil dairelerle katma bütçeli idarelerin boş memur kadrolarına yapacakları açıktan atama sayıları ile konsolide bütçe dışındaki diğer kamu kurum ve kuruluşlarından yapacakları memur nakilleri toplamı 48.000 adedi geçemez. Ancak, hâkimlik ve savcılık meslekleri ile bu meslekten sayılan görevlere, yükseköğretim kurumları öğretim üyeliklerine ve araştırma görevlisi kadrolarına yapılacak atamalar, Tıpta Uzmanlık Tüzüğü uyarınca asistan kadrolarına yapılacak atamalar, 27.7.1967 tarihli ve 926 sayılı Kanun kapsamında veya diğer ilgili mevzuata göre yapılacak askerî personel atamaları, 24.5.1983 tarihli ve 2828 sayılı Kanunun ek 1 inci maddesi uyarınca yapılacak atamalar ile 24.11.1994 tarihli ve 4046 sayılı Kanunun 22 nci maddesi uyarınca yapılacak personel nakilleri bu sayıya dahil edilmez. Söz konusu toplam sayının kurum ve kuruluşlar itibarıyla dağılımı, gerekli görülmesi halinde bu toplam sayının belirli bir oranda tutulması ve kullanımı ile diğer hususlar ve yükseköğretim kurumları araştırma görevlisi kadrolarına yapılacak açıktan atamalara ilişkin esaslar Devlet Personel Başkanlığının bağlı olduğu Bakan ile Maliye Bakanının müşterek önerisi üzerine Başbakan tarafından belirlenir.
 
 Döner sermayelerin, kefalet sandıklarının, sosyal güvenlik kurumlarının ve bütçeden yardım alan kuruluşların serbest memur kadrolarına yapacakları açıktan atama sayıları ile aşağıdaki paragraf kapsamı dışındaki kamu kurum ve kuruluşlarından yapacakları memur nakilleri (24.11.1994 tarihli ve 4046 sayılı Kanunun 22 nci maddesi uyarınca yapılacak personel nakilleri hariç) toplamı ile bunların kullanımı ve diğer hususları belirlemeye Maliye Bakanlığı yetkilidir.
 
@@ -441,9 +441,9 @@ Bu fıkranın ikinci ve üçüncü paragraf hükümleri;
 
 Hakkında uygulanmaz.
 
-Sözleşmeli personel
+**Sözleşmeli personel**
 
-MADDE 26. - Genel bütçeye dahil daireler, katma bütçeli idareler, döner sermayeler, belediyeler, il özel idareleri, sosyal güvenlik kurumları, bütçeden yardım alan kuruluşlar ile 8.6.1984 tarihli ve 233 sayılı Kanun Hükmünde Kararname kapsamı dışında kalan kuruluşlarda sözleşme ile çalıştırılacak personel hakkında 6.6.1978 tarihli ve 7/15754 sayılı Bakanlar Kurulu Kararı ile ek ve değişikliklerinin uygulanmasına devam olunur.
+**MADDE 26. -** Genel bütçeye dahil daireler, katma bütçeli idareler, döner sermayeler, belediyeler, il özel idareleri, sosyal güvenlik kurumları, bütçeden yardım alan kuruluşlar ile 8.6.1984 tarihli ve 233 sayılı Kanun Hükmünde Kararname kapsamı dışında kalan kuruluşlarda sözleşme ile çalıştırılacak personel hakkında 6.6.1978 tarihli ve 7/15754 sayılı Bakanlar Kurulu Kararı ile ek ve değişikliklerinin uygulanmasına devam olunur.
 
 Belediyeler hariç olmak üzere, birinci fıkrada sayılan kurum ve kuruluşlar, 657 sayılı Kanun dışında diğer kanun hükümlerine göre çalıştırdıkları sözleşmeli personelin unvan, sayı ve ücretlerini gösterir cetvelleri ve tip sözleşme örneklerini, 2005 yılı Mart ayı sonuna kadar Maliye Bakanlığına vize edilmek üzere göndermek zorundadırlar. Özel kanunlar uyarınca kadro karşılık gösterilmek suretiyle çalıştırılan sözleşmeli personelin unvan, sayı ve ücretleri vizeye tâbi değildir. Ancak kuruluşlar bunlara ait tip sözleşme örneklerini 2005 yılı Mart ayı sonuna kadar Maliye Bakanlığına vize edilmek üzere göndermek ve bu şekilde çalıştırdıkları sözleşmeli personelin unvan, kadro derecesi, sayısı ve sözleşme ücretlerini gösterir cetvelleri de Şubat, Ağustos ve Aralık ayları itibarıyla düzenleyerek ilgili ayları izleyen ayın yirmisine kadar Maliye Bakanlığına bilgi için göndermek zorundadırlar.
 
@@ -455,9 +455,9 @@ Yukarıdaki fıkralara göre vize işlemleri tamamlanmadan sözleşme yapılamaz
 
 İlgili mevzuatı uyarınca kadro karşılıksız veya 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrası (il özel idareleri ile il özel idarelerinin kurdukları birlik, müessese ve işletmelerde teknik, sağlık ve avukatlık hizmetlerine ilişkin pozisyonlar hariç) ile ek geçici 16 ncı maddesi çerçevesinde; kanun, uluslararası anlaşma, Bakanlar Kurulu kararı veya yılı programıyla kurulması veya genişletilmesi öngörülen birimler ile hizmetin gerektirdiği zorunlu haller için ve yılı ödeneğini aşmamak kaydıyla yapılacak yeni vizeler dışında, 2004 yılında vize edilmiş olan sözleşmeli personel pozisyon sayıları hiçbir şekilde aşılamaz.
 
-İşçilik ödenekleri ve geçici iş pozisyonları
+**İşçilik ödenekleri ve geçici iş pozisyonları**
 
-MADDE 27. - a) Genel bütçeye dahil dairelerle katma bütçeli idareler, sürekli işçileri ile otuz iş gününden fazla süreyle çalıştıracakları geçici işçileri, bütçelerinin (01-3) ile (02-3) ekonomik kodunda yer alan ödenekleri aşmayacak sayıda ve süreyle istihdam edebilirler.
+**MADDE 27. -** a) Genel bütçeye dahil dairelerle katma bütçeli idareler, sürekli işçileri ile otuz iş gününden fazla süreyle çalıştıracakları geçici işçileri, bütçelerinin (01-3) ile (02-3) ekonomik kodunda yer alan ödenekleri aşmayacak sayıda ve süreyle istihdam edebilirler.
 
 Toplu iş sözleşmelerinden doğacak yükümlülükler, ihbar ve kıdem tazminatı ödemeleri, asgarî ücret ve sigorta prim artışı nedeniyle meydana gelecek ödenek eksiklikleri Maliye Bakanlığı bütçesinin "Personel Giderlerini Karşılama Ödeneği" ile "Yedek Ödenek" tertiplerinde yer alan ödeneklerden aktarma yapılmak suretiyle karşılanabilir. Birinci fıkrada belirtilen ekonomik kodlara bu durumlar dışında (söz konusu ekonomik kodlar arasındaki aktarmalar ile bu kodlar için birimler arası aktarmalar hariç) hiçbir şekilde ödenek aktarması yapılamayacağı gibi bütçenin başka tertiplerinden işçi ücreti ve fazla süreli çalışma ve/veya fazla çalışma ücreti de ödenemez.
 
@@ -477,15 +477,15 @@ e) Norm kadro çalışmaları sonuçlandırılmış olan belediyeler hariç olma
 
 f) Genel bütçeye dahil dairelerle katma bütçeli idarelerin kamu işverenleri sendikalarına ödemeleri gereken 2005 yılına ait üyelik aidatları, Maliye Bakanlığı bütçesinde yer alan tertipten ödenir. Yapılacak ödemeler, tertibinde yer alan ödenek tutarıyla sınırlı olup, bu tertibe bütçenin diğer tertiplerinden hiçbir şekilde aktarma yapılamaz.
 
-Geçici görevlendirme
+**Geçici görevlendirme**
 
-MADDE 28. - 657 sayılı Kanunun ek 8 ve ek 9 uncu, 13.11.1996 tarihli ve 4208 sayılı Kanunun 3 üncü, 4.11.1981 tarihli ve 2547 sayılı Kanunun 38, 40 ve 41 inci maddelerine ve 13.10.1983 tarihli ve 2919 sayılı Kanuna göre görevlendirilenler, 29.7.2003 tarihli ve 4958 sayılı Kanunun 17 nci maddesi uyarınca Sosyal Sigortalar Kurumunda uzman tabip, tabip, eczacı, anestezi ve röntgen teknisyeni olarak görevlendirilenler ile güvenlik görevlileri ve Sağlık Bakanlığı merkez teşkilâtında bağımsız daire başkanı veya daha üst unvanlarda görevlendirilenler hariç, ilgili mevzuatı uyarınca diğer kurumlarda vekâleten veya geçici olarak görevlendirilen ve kadro aylıklarını kendi kurum veya kuruluşlarından alan memurlar veya kamu görevlileri, geçici olarak görev yaptıkları kurum personelinin yararlandığı ve ilgili mevzuatında söz konusu personele de ödenebileceği belirtilen her türlü tazminat, fazla mesai ve diğer ödemelerden yararlanamazlar.
+**MADDE 28. -** 657 sayılı Kanunun ek 8 ve ek 9 uncu, 13.11.1996 tarihli ve 4208 sayılı Kanunun 3 üncü, 4.11.1981 tarihli ve 2547 sayılı Kanunun 38, 40 ve 41 inci maddelerine ve 13.10.1983 tarihli ve 2919 sayılı Kanuna göre görevlendirilenler, 29.7.2003 tarihli ve 4958 sayılı Kanunun 17 nci maddesi uyarınca Sosyal Sigortalar Kurumunda uzman tabip, tabip, eczacı, anestezi ve röntgen teknisyeni olarak görevlendirilenler ile güvenlik görevlileri ve Sağlık Bakanlığı merkez teşkilâtında bağımsız daire başkanı veya daha üst unvanlarda görevlendirilenler hariç, ilgili mevzuatı uyarınca diğer kurumlarda vekâleten veya geçici olarak görevlendirilen ve kadro aylıklarını kendi kurum veya kuruluşlarından alan memurlar veya kamu görevlileri, geçici olarak görev yaptıkları kurum personelinin yararlandığı ve ilgili mevzuatında söz konusu personele de ödenebileceği belirtilen her türlü tazminat, fazla mesai ve diğer ödemelerden yararlanamazlar.
 
 ## DÖRDÜNCÜ KISIM Çeşitli Hükümler
 
-Muhtelif gelirler
+**Muhtelif gelirler**
 
-MADDE 29. - a) Aylık gayrisafi hasılat tahakkuk tutarını (katma değer vergisi ve özel tüketim vergisi hariç) kapsamak kaydıyla;
+**MADDE 29. -** a) Aylık gayrisafi hasılat tahakkuk tutarını (katma değer vergisi ve özel tüketim vergisi hariç) kapsamak kaydıyla;
 
 1. Türkiye Petrolleri Anonim Ortaklığı Genel Müdürlüğünün mal ve hizmet satışları (Devlet hissesi karşılığı olup yurt içinde ürettiği ve/veya alıp sattığı ham petrol ile doğalgaza ait hasılat hariç) gayrisafi hasılatının % 10’u,
 
@@ -505,15 +505,15 @@ c) 5.4.1973 tarihli ve 1702 sayılı Kanuna göre petrolden alınacak Devlet hak
 
 d) 4.12.1984 tarihli ve 3096 sayılı Kanun kapsamındaki tabiî kaynakların ve tesislerin işletme haklarının devirlerinden elde edilen gelirlerin tamamı genel bütçeye gelir kaydedilir.
 
-Ödeme aracı ve teminat olarak kabul edilecek değerler
+**Ödeme aracı ve teminat olarak kabul edilecek değerler**
 
-MADDE 30. - a) Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetleri ve bu senetler yerine düzenlenen belgeler, Hazinece satılacak millî emlak bedellerinin ödenmesinde nominal değerleri üzerinden ödeme aracı olarak kabul edilir. Söz konusu senet ve belgelerin nominal bedele faiz dahil edilerek ihraç edilmiş olması halinde, bu işlemlerde anaparaya tekabül eden satış değerleri esas alınır.
+**MADDE 30. -** a) Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetleri ve bu senetler yerine düzenlenen belgeler, Hazinece satılacak millî emlak bedellerinin ödenmesinde nominal değerleri üzerinden ödeme aracı olarak kabul edilir. Söz konusu senet ve belgelerin nominal bedele faiz dahil edilerek ihraç edilmiş olması halinde, bu işlemlerde anaparaya tekabül eden satış değerleri esas alınır.
 
 b) Dışarıda yerleşik kişiler ile geçimini yurt dışında temin eden Türk vatandaşlarından, Hazinece yapılan taşınmaz mal satış ihalelerinde T.C. Merkez Bankasınca belirlenen konvertibl döviz teminat olarak alınabilir.
 
-Kişi borçları
+**Kişi borçları**
 
-MADDE 31. - a) Saymanlık hesaplarında kayıtlı olup, zarurî veya mücbir sebeplerle takip ve tahsil imkânı kalmayan, 1050 sayılı Kanunun 133 üncü maddesi uyarınca silinmesi Malî Danışma Kurulu tarafından uygun görülen kişi borçlarından tutarı 12.000 Yeni Türk Lirasına kadar olanların kayıtlardan çıkarılmasına Maliye Bakanı yetkilidir. Bu miktarı aşan kişi borçlarının terkini Kesinhesap Kanunu Tasarısı ile Türkiye Büyük Millet Meclisine arz edilir.
+**MADDE 31. -** a) Saymanlık hesaplarında kayıtlı olup, zarurî veya mücbir sebeplerle takip ve tahsil imkânı kalmayan, 1050 sayılı Kanunun 133 üncü maddesi uyarınca silinmesi Malî Danışma Kurulu tarafından uygun görülen kişi borçlarından tutarı 12.000 Yeni Türk Lirasına kadar olanların kayıtlardan çıkarılmasına Maliye Bakanı yetkilidir. Bu miktarı aşan kişi borçlarının terkini Kesinhesap Kanunu Tasarısı ile Türkiye Büyük Millet Meclisine arz edilir.
 
 b) 13.12.1983 tarihli ve 178 sayılı Kanun Hükmünde Kararnamenin ek 7 nci maddesi uyarınca, mal ve nakit saymanları ile gelir ve gider memurlarının zimmetlerinin silinmesi konusundaki talepler, Malî Danışma Kurulunca incelenerek karara bağlanır ve Maliye Bakanına sunulur. Maliye Bakanının onayı ile terkin edilen zimmetlerden 12.000 Yeni Türk Lirasını aşanların terkin listesi Kesinhesap Kanunu Tasarısı ile birlikte Türkiye Büyük Millet Meclisinin bilgisine arz edilir.
 
@@ -521,25 +521,25 @@ c) 2.6.1934 tarihli ve 2489 sayılı Kanunun 6 ncı maddesi uyarınca, Kefalet S
 
 d) 6183 sayılı Kanun kapsamında izlenen alacakların dışında kalan ve saymanlık kayıtlarında bulunan Devlet alacaklarından tutarı 25 Yeni Türk Lirasına kadar olanların tahsili için yapılacak takibat giderlerinin asıl alacak tutarından fazla olacağının anlaşılması halinde, bu tutarların saymanlık kayıtlarından çıkarılmasına Maliye Bakanı yetkilidir.
 
-Saymanlık görev ve sorumluluklarının devri
+**Saymanlık görev ve sorumluluklarının devri**
 
-MADDE 32. - 1050 sayılı Kanun ve diğer mevzuatla saymanlara verilen görev ve yetkilerin bir kısmını gerekli görülen hallerde yardımcılarına devrettirmeye, devirle ilgili esasları belirlemeye Maliye Bakanı yetkilidir. Saymanlar hakkındaki sorumluluk, devredilen işlerle ilgili olarak görev ve yetki verilenler hakkında da uygulanır.
+**MADDE 32. -** 1050 sayılı Kanun ve diğer mevzuatla saymanlara verilen görev ve yetkilerin bir kısmını gerekli görülen hallerde yardımcılarına devrettirmeye, devirle ilgili esasları belirlemeye Maliye Bakanı yetkilidir. Saymanlar hakkındaki sorumluluk, devredilen işlerle ilgili olarak görev ve yetki verilenler hakkında da uygulanır.
 
-Uluslararası kuruluşlara üyelik
+**Uluslararası kuruluşlara üyelik**
 
-MADDE 33. - a) Genel bütçeye dahil daireler, katma bütçeli idareler ve mahalli idarelerin, uluslararası kuruluşlara üye olabilmesi ve kanun, kararname ve uluslararası anlaşmalar gereği halen üyesi bulunulan uluslararası kuruluşlar dışındaki kuruluşlara katılma paylarını ödeyebilmeleri için mevzuatın gerektirdiği diğer işlemlerin yanı sıra bağlı veya ilgili bulunulan bakanlığın teklifi ve Maliye Bakanlığının görüşü üzerine Dışişleri Bakanlığından önceden izin almaları zorunludur. Mahallî idareler için Maliye Bakanlığının görüşü aranmaz.
+**MADDE 33. -** a) Genel bütçeye dahil daireler, katma bütçeli idareler ve mahalli idarelerin, uluslararası kuruluşlara üye olabilmesi ve kanun, kararname ve uluslararası anlaşmalar gereği halen üyesi bulunulan uluslararası kuruluşlar dışındaki kuruluşlara katılma paylarını ödeyebilmeleri için mevzuatın gerektirdiği diğer işlemlerin yanı sıra bağlı veya ilgili bulunulan bakanlığın teklifi ve Maliye Bakanlığının görüşü üzerine Dışişleri Bakanlığından önceden izin almaları zorunludur. Mahallî idareler için Maliye Bakanlığının görüşü aranmaz.
 
 b) Hazine ve Dış Ticaret müsteşarlıklarının uluslararası anlaşmalar, kanun ve kararnamelerle Türkiye Cumhuriyeti adına üye olduğu uluslararası kuruluşlara ilişkin işlemlerine (katılma payı ödemeleri dahil) bu madde hükmü uygulanmaz.
 
-Kamu kuruluşlarınca işletilen sosyal tesisler
+**Kamu kuruluşlarınca işletilen sosyal tesisler**
 
-MADDE 34. - Kamu kurum ve kuruluşlarınca işletilen eğitim ve dinlenme tesisi, misafirhane, kreş, spor tesisi ve benzeri sosyal tesislerin giderlerine bütçeden katkıda bulunulmaz.
+**MADDE 34. -** Kamu kurum ve kuruluşlarınca işletilen eğitim ve dinlenme tesisi, misafirhane, kreş, spor tesisi ve benzeri sosyal tesislerin giderlerine bütçeden katkıda bulunulmaz.
 
 Bu tür yerlerde, genel ve katma bütçeden, döner sermaye ve fonlardan ücret ödenmek üzere 2005 yılında ilk defa istihdam edilecek yeni personel görevlendirilmez.
 
-Geçici hizmet karşılığı yapılacak ödemeler
+**Geçici hizmet karşılığı yapılacak ödemeler**
 
-MADDE 35. - Kurumlar;
+**MADDE 35. -** Kurumlar;
 
 a) Arızî nitelikteki işleriyle sınırlı kalmak koşuluyla yıl içinde bir ayı aşmayan sürelerle hizmet alımı yoluyla çalıştırılan kişilere yapılacak ödemeleri,
 
@@ -553,13 +553,13 @@ Bütçelerinin (01-4) ekonomik sınıflandırma kodunda yer alan ödenekleri aş
 
 Yukarıdaki hükümlere aykırı uygulamalardan ita amirleri, tahakkuk memurları ve saymanlar ile bu kişileri çalıştıranlar sorumludur.
 
-Vergi, fon ve payların zamanında yatırılması
+**Vergi, fon ve payların zamanında yatırılması**
 
-MADDE 36. - 8.6.1984 tarihli ve 233 sayılı Kanun Hükmünde Kararname kapsamında bulunan iktisadî devlet teşekkülleri, kamu iktisadî kuruluşları, bunların müesseseleri, bağlı ortaklıkları ve iştirakleri ile özelleştirme kapsamındaki kuruluşların ve döner sermayelerin yöneticileri ve malî işlerinden sorumluları, bu Kanunun 29 uncu maddesi uyarınca ödenecek paylar da dahil olmak üzere bu kuruluşların mükellef veya sorumlu sıfatıyla üçüncü kişilerden tahsil ettikleri vergi, fon ve diğer payların tahsil dairelerine zamanında ve tam olarak ödenmesini sağlamak zorundadırlar. Aksine davrananlar bu tutarların ödenmesinden şahsen ve müteselsilen sorumlu tutulurlar.
+**MADDE 36. -** 8.6.1984 tarihli ve 233 sayılı Kanun Hükmünde Kararname kapsamında bulunan iktisadî devlet teşekkülleri, kamu iktisadî kuruluşları, bunların müesseseleri, bağlı ortaklıkları ve iştirakleri ile özelleştirme kapsamındaki kuruluşların ve döner sermayelerin yöneticileri ve malî işlerinden sorumluları, bu Kanunun 29 uncu maddesi uyarınca ödenecek paylar da dahil olmak üzere bu kuruluşların mükellef veya sorumlu sıfatıyla üçüncü kişilerden tahsil ettikleri vergi, fon ve diğer payların tahsil dairelerine zamanında ve tam olarak ödenmesini sağlamak zorundadırlar. Aksine davrananlar bu tutarların ödenmesinden şahsen ve müteselsilen sorumlu tutulurlar.
 
-Kısmen veya tamamen uygulanmayacak hükümler
+**Kısmen veya tamamen uygulanmayacak hükümler**
 
-MADDE 37.- a) 1. 26.5.1927 tarihli ve 1050 sayılı Kanunun 48, 53 ve 63 üncü maddeleri ile 59 uncu maddesinin ikinci fıkrası,
+**MADDE 37.-** a) 1. 26.5.1927 tarihli ve 1050 sayılı Kanunun 48, 53 ve 63 üncü maddeleri ile 59 uncu maddesinin ikinci fıkrası,
 
 2. 12.3.1982 tarihli ve 2634 sayılı Kanunun 21 inci maddesinin ikinci fıkrası,
 
@@ -617,13 +617,13 @@ j) 1. 10.12.2003 tarihli ve 5018 sayılı Kanunun bütçe uygulamasına ilişkin
 
 Bu fıkranın uygulanması ile ilgili olarak çıkabilecek tereddütleri gidermeye, gerekli tedbirleri almaya ve düzenlemeler yapmaya Maliye Bakanı yetkilidir.
 
-Yürürlük
+**Yürürlük**
 
-MADDE 38. - Bu Kanun 1.1.2005 tarihinde yürürlüğe girer.
+**MADDE 38. -** Bu Kanun 1.1.2005 tarihinde yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 39. - Bu Kanunun;
+**MADDE 39. -** Bu Kanunun;
 
 a) Türkiye Büyük Millet Meclisi ile ilgili hükümlerini Türkiye Büyük Millet Meclisi Başkanı,
 

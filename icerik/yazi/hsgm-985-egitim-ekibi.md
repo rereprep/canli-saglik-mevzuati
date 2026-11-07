@@ -10,13 +10,13 @@ kontrol_edildi: true
 ---
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-Türkiye Halk Sağlığı Kurumu
+**Türkiye Halk Sağlığı Kurumu**
 
-Sayı : 57536863/232
+**Sayı :** 57536863/232
 
-Konu : Eğitim Ekibi
+**Konu :** Eğitim Ekibi
 
 DAĞITIM YERLERİNE
 

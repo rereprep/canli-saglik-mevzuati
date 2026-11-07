@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/04/20070426-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN BAZI
+T.C. Resmî Gazete Resmî Gazete **KANUN** BAZI
 KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 5625 Kabul Tarihi : 18/4/2007
+**Kanun No. 5625 Kabul Tarihi : 18/4/2007**
 
 MADDE 1 – 16/7/1997 tarihli ve 4283 sayılı Yap-İşlet Modeli ile Elektrik Enerjisi Üretim Tesislerinin Kurulması ve İşletilmesi ile Enerji Satışının Düzenlenmesi Hakkında Kanunun geçici 3 üncü maddesinin (B) fıkrasının sonuna aşağıdaki bent eklenmiştir.
 "Elektrik piyasası mevzuatı çerçevesinde, aynı kaynak için yapılmış çoklu başvurulardan Enerji Piyasası Düzenleme Kurumu tarafından teklif verme toplantısı gerçekleştirilmiş ve lisans almış olanların, bu maddenin yürürlük tarihini takip eden üç ay içinde başvurmaları halinde eskinin yerine kaim olmak üzere lisansları yenilenir. Bu durumda daha önce verilmiş lisans ile bağlantılı olarak yapılmış tüm iş ve işlemler herhangi bir işleme gerek kalmaksızın içerdiği hüküm ve şartlarla yenilenmiş ve geçerli sayılır."

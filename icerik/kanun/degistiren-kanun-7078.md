@@ -12,11 +12,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308M1-11.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN
-Kanun No. 7078 Kabul Tarihi: 1/2/2018
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN**
+**Kanun No. 7078 Kabul Tarihi: 1/2/2018**
 
-MADDE 1- 18/3/1924 tarihli ve 442 sayılı Köy Kanununun 74 üncü maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 1-** 18/3/1924 tarihli ve 442 sayılı Köy Kanununun 74 üncü maddesine aşağıdaki fıkra eklenmiştir.
 “Teröristle mücadelede görev alan güvenlik korucuları ile gönüllü güvenlik korucularının, bu görevlerin ifasından doğduğu iddia edilen suçlardan dolayı yapılan soruşturma ve kovuşturmalarda müdafi olarak belirlediği en fazla üç avukatın ücreti İçişleri Bakanlığı bütçesine konulacak ödenekten valilikler tarafından karşılanır. Güvenlik korucuları ile gönüllü güvenlik korucularının avukatlık ücretinin ödeme usul ve esasları yönetmelikle düzenlenir.”
 
 
@@ -64,8 +64,8 @@ MADDE 10 – 12/6/1933 tarihli ve 2313 sayılı Uyuşturucu Maddelerin Murakabes
 MADDE 11 – 2313 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “Uyuşturucu veya uyarıcı madde imal ve ticareti suçunda kullanılan araca elkoyma
 
-EK MADDE
-2- Uyuşturucu veya uyarıcı madde imal ve ticareti suçunun işlenmesinde kullanılan araçlara, 5271 sayılı Kanunun 128 inci maddesinin dördüncü fıkrası hükmüne göre elkonulur.
+EK **MADDE**
+**2-** Uyuşturucu veya uyarıcı madde imal ve ticareti suçunun işlenmesinde kullanılan araçlara, 5271 sayılı Kanunun 128 inci maddesinin dördüncü fıkrası hükmüne göre elkonulur.
 Bu maddenin birinci fıkrasına göre elkonulan aracın;
 a) Soruşturma ve kovuşturma devam ederken aynı suçun işlenmesinde tekrar kullanılması,
 b) Türkiye’de sicile kayıtlı olmaması,
@@ -93,7 +93,7 @@ MADDE 15 – 3201 sayılı Kanunun ek 31 inci maddesinin ikinci fıkrasına “�
 MADDE 16 – 3201 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 36- Ekli (1) ve (2) sayılı listelerde yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Emniyet Genel Müdürlüğüne ait bölümüne eklenmiştir.”
+**MADDE 36-** Ekli (1) ve (2) sayılı listelerde yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Emniyet Genel Müdürlüğüne ait bölümüne eklenmiştir.”
 
 
 MADDE 17 – 29/6/1938 tarihli ve 3533 sayılı Umumi Mülhak ve Hususi Bütçelerle İdare Edilen Daireler ve Belediyelerle Sermayesinin Tamamı Devlete veya Belediye veya Hususi İdarelere Aid Daire ve Müesseseler Arasındaki İhtilafların Tahkim Yolile Halli Hakkında Kanunun 6 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
@@ -164,8 +164,8 @@ MADDE 26 – 657 sayılı Kanunun 80 inci maddesinin üçüncü fıkrasında yer
 
 
 MADDE 27 – 657 sayılı Kanunun 96 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-96- Olağanüstü hal, seferberlik ve savaş hallerinde veya genel hayata müessir afetlere uğrayan yerlerdeki Devlet memurları, çekilme istekleri kabul edilmedikçe veya yerine atanacaklar gelip işe başlamadıkça görevlerini bırakamazlar.”
+“**MADDE**
+**96-** Olağanüstü hal, seferberlik ve savaş hallerinde veya genel hayata müessir afetlere uğrayan yerlerdeki Devlet memurları, çekilme istekleri kabul edilmedikçe veya yerine atanacaklar gelip işe başlamadıkça görevlerini bırakamazlar.”
 
 
 MADDE 28 – 657 sayılı Kanunun 152 nci maddesinin “III- Ortak Hükümler” kısmının ikinci fıkrasında yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
@@ -211,7 +211,7 @@ MADDE 33 – 926 sayılı Kanunun 143 üncü maddesinin ikinci fıkrasının bir
 MADDE 34 – 926 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 45- 27/4/2017 tarihinden itibaren dört ay içinde; Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesinin askeri hâkim sınıfından Başkan, Başsavcı, İkinci Başkan, Daire Başkanı ve üyeleri ile diğer askeri hâkimler (yedek subaylar hariç) hakkında tercihleri ve müktesepleri dikkate alınarak aşağıdaki hükümler uygulanır:
+**MADDE 45-** 27/4/2017 tarihinden itibaren dört ay içinde; Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesinin askeri hâkim sınıfından Başkan, Başsavcı, İkinci Başkan, Daire Başkanı ve üyeleri ile diğer askeri hâkimler (yedek subaylar hariç) hakkında tercihleri ve müktesepleri dikkate alınarak aşağıdaki hükümler uygulanır:
 a) Hâkimler ve Savcılar Kurulunca bölge adliye ve bölge idare mahkemeleri ile diğer adli ve idari yargı mercilerine hâkim veya savcı olarak atanabilirler. Bu kişilerin askeri yargı mercilerinde geçirdikleri süreler adli ve idari yargıda geçirilmiş sayılır. Talepleri halinde Ordu Yardımlaşma Kurumu üyelikleri; 3/1/1961 tarihli ve 205 sayılı Ordu Yardımlaşma Kurumu Kanununun 18 inci maddesi uyarınca hesaplanacak kesintileri kendilerince ödenmek kaydıyla 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununa göre aylık aldıkları sürece geçiş tarihindeki hükümler esas alınmak suretiyle devam eder. Bu bent kapsamındakiler ile bunların emeklileri, Türk Silahlı Kuvvetlerine bağlı sosyal tesislerden geçiş tarihindeki emsali rütbe personeli gibi yararlanabilirler.
 b) Adli ve idari yargıyı tercih etmeyenler ile Hâkimler ve Savcılar Kurulunca ataması yapılmayanlardan istekli olanlar, Milli Savunma Bakanlığınca, mevcut sınıfları korunarak Milli Savunma Bakanlığı veya Genelkurmay Başkanlığının hukuk hizmetleri kadrolarına atanırlar. Bu kadrolarda geçen hizmet süreleri hâkimlik hizmetinden sayılır. Bunlar hakkında; aylık, ek gösterge, ödenek, yargı ödeneği, ek ödeme, zam, mali, sosyal hak ve yardımlar ile diğer hakları yönünden emsali adli veya idari yargıya mensup hâkim ve savcılar hakkındaki; diğer hak ve yükümlülükler yönünden ise mülga 26/10/1963 tarihli ve 357 sayılı Askeri Hâkimler Kanununun 12 nci, 14 üncü, 15 inci, 18 inci, 19 uncu, 20 nci, 21 inci, 23 üncü, 24 üncü, 27 nci, 28 inci, 29 uncu, 31 inci, 37 nci, ek 10 uncu (Milli Savunma Bakanlığı üst yöneticisi veya birinci hukuk müşaviri tarafından temsil yetkisi verilmesi halinde adli ve idari davalar ile icra takiplerini Milli Savunma Bakanlığı adına yürütme yetkisi dahil), ek 11 inci, ek 12 nci maddeleri ve 25 inci maddesinin birinci ve sonuncu fıkraları (maddelerde geçen Askeri Adalet İşleri Başkanlığı ibareleri Askeri Adalet İşleri ve Kanunlar Genel Müdürlüğü olarak uygulanmak suretiyle) ile bu Kanun ve ilgili diğer mevzuat hükümleri uygulanmaya devam olunur. Ayrıca, bu bent kapsamındakilerin disiplin soruşturmalarında 2802 sayılı Kanunun 70 inci ve 72 nci maddeleri uygulanır. Disiplin komisyonu kararının incelenmesi, tebliğ tarihinden itibaren on gün içinde Milli Savunma Bakanı veya ilgililerce bir defa daha istenebilir. Bu halde mülga 357 sayılı Kanunun 29 uncu maddesi uyarınca teşkil edilen Komisyonca gerekli inceleme yapılarak karar verilir. İtiraz üzerine verilen karar kesindir. Hakkında meslekten çıkarma cezası istenilenler, Komisyonda sözlü veya yazılı olarak kendisi veya vekili vasıtasıyla savunma hakkına sahiptir. Bunların görevlerinden dolayı ve görevleri sırasında işledikleri suçlar nedeniyle Milli Savunma Bakanı tarafından soruşturma yapılmasına izin verilmesi durumunda, soruşturma ve kovuşturma, 2802 sayılı Kanunun 89 ila 92 nci maddeleri uyarınca yürütülür.
 Hâkimler ve Savcılar Kurulunca adli veya idari yargıda hâkim veya savcı olarak atananlar hariç olmak üzere, kaldırılan Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesinin askeri hâkim sınıfından Başkan, Başsavcı, İkinci Başkan, Daire Başkanı ve üyeleri ile diğer askeri hâkimlerden (yedek subaylar hariç) 31/12/2018 tarihine kadar bulundukları rütbeye esas yaş haddinden önce emeklilik hakkını elde etmek kaydıyla bu görevlerinden kendi istekleriyle emekliye ayrılma talebinde bulunanların emekli ikramiyelerinin, bulundukları rütbeye esas yaş haddinden emekliliğine;
@@ -236,10 +236,10 @@ Kaldırılan askeri yargı mercilerince hüküm verilmekle birlikte henüz gerek
 MADDE 35- 926 sayılı Kanuna aşağıdaki ek geçici maddeler eklenmiştir.
 “EK
 
-GEÇİCİ MADDE 97- Bu maddenin yürürlüğe girdiği tarihte dördüncü hizmet yılını tamamlamış ve onuncu hizmet yılını bitirmemiş olan astsubaylara, 109 uncu maddedeki diğer şartları taşımaları kaydıyla yapılacak ilk astsubaylıktan subaylığa geçiş sınavına müracaat hakkı verilir.
+GEÇİCİ **MADDE 97-** Bu maddenin yürürlüğe girdiği tarihte dördüncü hizmet yılını tamamlamış ve onuncu hizmet yılını bitirmemiş olan astsubaylara, 109 uncu maddedeki diğer şartları taşımaları kaydıyla yapılacak ilk astsubaylıktan subaylığa geçiş sınavına müracaat hakkı verilir.
 EK
 
-GEÇİCİ MADDE 98- 22/5/2012 tarihli ve 6318 sayılı Askerlik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun ile 112 nci maddenin birinci fıkrası ve 113 üncü maddenin birinci fıkrasının (d) bendinde yapılan değişiklikten sonra Türk Silahlı Kuvvetlerinden ayrılan pilot subaylar, uçuş için gerekli şartları sağlamaları ve haklarında yaptırılacak güvenlik soruşturmalarının olumlu olması kaydıyla ihtiyaç duyulan hava aracı tiplerinde ilgili Kuvvet Komutanının teklifi ve Millî Savunma Bakanının onayı ile 18 yıllık yükümlülük süresini tamamlamaları için yeniden subay nasbedilirler. Bunların emsallerinin bulunduğu rütbelere terfi işlemleri, 38 inci maddede belirtilen rütbe terfi şartları ve esasları aranmaksızın derhal yapılarak nasıpları emsalleri tarihine götürülür. Atanan pilot subayların dışarıda geçirdikleri süreler rütbe bekleme süresinden, uçuş süreleri ise uçuş hizmet süresinden sayılır.
+GEÇİCİ **MADDE 98-** 22/5/2012 tarihli ve 6318 sayılı Askerlik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun ile 112 nci maddenin birinci fıkrası ve 113 üncü maddenin birinci fıkrasının (d) bendinde yapılan değişiklikten sonra Türk Silahlı Kuvvetlerinden ayrılan pilot subaylar, uçuş için gerekli şartları sağlamaları ve haklarında yaptırılacak güvenlik soruşturmalarının olumlu olması kaydıyla ihtiyaç duyulan hava aracı tiplerinde ilgili Kuvvet Komutanının teklifi ve Millî Savunma Bakanının onayı ile 18 yıllık yükümlülük süresini tamamlamaları için yeniden subay nasbedilirler. Bunların emsallerinin bulunduğu rütbelere terfi işlemleri, 38 inci maddede belirtilen rütbe terfi şartları ve esasları aranmaksızın derhal yapılarak nasıpları emsalleri tarihine götürülür. Atanan pilot subayların dışarıda geçirdikleri süreler rütbe bekleme süresinden, uçuş süreleri ise uçuş hizmet süresinden sayılır.
 Pilot subaylara 2629 sayılı Kanun uyarınca ödenecek uçuş tazminatı, uçuş sürelerine bakılmaksızın 23 uçuş hizmet yılı esas alınarak belirlenir. 2629 sayılı Kanunun 7 nci maddesinin (h) bendi uyarınca yapılacak toptan ödemede, hizmet yılı döneminin başlangıç tarihi olarak bu madde kapsamında göreve başlanılan tarih esas alınır. Bunlara, en az 120 saat uçuş yaptıkları her görev yılı için, 2629 sayılı Kanunun 7 nci maddesinin (h) bendi uyarınca 80 saat üzerinden hesaplanacak toptan ödeme tutarında ilave tazminat, damga vergisi hariç herhangi bir vergiye tabi tutulmaksızın her görev yılı sonunda ayrıca ödenir. Bu madde kapsamında yeniden subay nasbedilen pilotlara göreve başladıkları yıldan itibaren her hizmet yılının sonunda ödenecek toptan ödeme ve ilave tazminattan mahsup edilmek üzere her ay damga vergisi hariç herhangi bir vergiye tabi tutulmaksızın 10.000 Türk Lirası tazminat ödenir. Bu tazminat ödemeleri, toptan ödeme ve ilave tazminatın yetersiz olması durumunda personelden tahsil edilir. Her bir yıllık görev süresini tamamlamayanlara, ilgili hizmet yılı için bu fıkra uyarınca toptan ödeme ve ilave tazminat ödenmez.
 Atanan pilot subaylardan ilgili yönetmeliğe göre sağlık yeteneklerini sonradan kaybedenlerin yükümlülükleri sona erer. Görevlendirildikleri hava aracı tipinde sağlık dışındaki nedenlerle uçuculuk niteliğini kaybedenler ile Türk Silahlı Kuvvetlerinden ayırma cezasını gerektiren disiplinsizlik suçu işleyenlerin Türk Silahlı Kuvvetleri ile ilişiği kesilir ve sivil pilot sertifikaları ilişik kesme tarihinden itibaren kalan yükümlülük süresi kadar iptal edilir. Bunlara, ilişiklerinin kesildiği tarihte ikinci fıkra uyarınca toptan ödeme yapılır.
 Malullük ve ölüm hali hariç olmak üzere yükümlülük süresini tamamlamadan Türk Silahlı Kuvvetlerinden ayrılanlar, nasbedildikleri yeni rütbelerinin emeklilik de dahil olmak üzere hiçbir hakkından yararlanamazlar. Emeklilik veya yaşlılık aylığı almakta iken bu madde kapsamında görevlendirilenlerin bu aylıkları kesilir. Aylıkları kesilenlerden hesaplanan yükümlülük süresince görev yapma şartını yerine getirmemiş olanların bu hizmet süreleri hizmet birleştirmesine konu edilmez ve başkaca bir şart aranmaksızın haklarında toptan ödeme hükümleri uygulanır. Aylıkları kesilenlerin sigortalılıklarının sona erdiği tarih yazılı istek tarihi kabul edilerek ilgili sosyal güvenlik mevzuatına göre aylıkları yeniden bağlanır. Bu maddenin uygulanması nedeniyle geçmişe yönelik olarak herhangi bir ödeme yapılmaz.
@@ -253,7 +253,7 @@ Subay nasbedilen pilotların çalıştıkları firmalarla yaptıkları iş sözl
 MADDE 36 – 31/7/1970 tarihli ve 1325 sayılı Milli Savunma Bakanlığı Görev ve Teşkilatı Hakkında Kanunun 1 inci maddesinin ikinci fıkrasında yer alan “Askeri Adalet Teftiş Kurulu Dairesi Başkanlığı” ibaresi “Milli Mayın Faaliyet Merkezi Dairesi Başkanlığı” şeklinde değiştirilmiş, aynı maddenin dokuzuncu fıkrasına “Milli Savunma Üniversitesi Rektörü” ibaresinden sonra gelmek üzere “ve müsteşar yardımcıları” ibaresi eklenmiş, aynı fıkrada yer alan “müsteşar yardımcıları, Teftiş Kurulu Başkanı ve genel müdürler” ibaresi “Teftiş Kurulu Başkanı ve genel müdürler ile Milli Savunma Üniversitesi rektör yardımcıları” şeklinde, “daire başkanları için ise albaydır” ibaresi “daire başkanları ile Milli Savunma Üniversitesi enstitü müdürleri için ise albaydır” şeklinde değiştirilmiştir.
 
 
-MADDE 37 – 1325 sayılı Kanuna 2/A maddesinden sonra gelmek üzere aşağıdaki 2/B maddesi eklenmiştir.
+**MADDE 37** – 1325 sayılı Kanuna 2/A maddesinden sonra gelmek üzere aşağıdaki 2/B maddesi eklenmiştir.
 “Teftiş Kurulu Başkanlığı
 
 
@@ -273,19 +273,19 @@ MADDE 11- Bakanlık merkez ve taşra teşkilatı ile bağlı, ilgili ve ilişkil
 MADDE 40 – 11/9/1981 tarihli ve 2521 sayılı Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve Av Bıçaklarının Yapımı, Alımı, Satımı ve Bulundurulmasına Dair Kanunun 13 üncü maddesinin birinci fıkrasının birinci cümlesinde yer alan “yivsiz av tüfeği bulunduran kişiye” ibaresi “yivsiz tüfek bulunduran, satışına aracılık eden, taşıyan veya nakleden gerçek veya tüzel kişilere” şeklinde ve aynı maddenin ikinci fıkrasında yer alan “yivsiz av tüfeğini” ibaresi “yivsiz tüfeğini” şeklinde değiştirilmiştir.
 
 
-MADDE 41 – 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 2 nci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 41** – 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 2 nci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Milli Savunma Bakanlığı ve İçişleri Bakanlığına bağlı yükseköğretim kurumlarıyla ilgili özel kanun hükümleri saklıdır.”
 
 
 MADDE 42 – 2547 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 39- Türkiye’deki Devlet üniversiteleri, Türkiye Maarif Vakfının önerisi, Yükseköğretim Kurulunun olumlu görüşü ve Bakanlar Kurulu kararıyla yurtdışında akademik birimler ve bu kapsamda ihtiyaç duyulan sosyal tesisler kurabilir. Bu maddenin uygulanmasıyla ilgili usul ve esaslar Dışişleri Bakanlığı, Maliye Bakanlığı ve Türkiye Maarif Vakfının görüşleri alınarak Yükseköğretim Kurulu tarafından çıkarılan yönetmelikle belirlenir.”
+**MADDE 39-** Türkiye’deki Devlet üniversiteleri, Türkiye Maarif Vakfının önerisi, Yükseköğretim Kurulunun olumlu görüşü ve Bakanlar Kurulu kararıyla yurtdışında akademik birimler ve bu kapsamda ihtiyaç duyulan sosyal tesisler kurabilir. Bu maddenin uygulanmasıyla ilgili usul ve esaslar Dışişleri Bakanlığı, Maliye Bakanlığı ve Türkiye Maarif Vakfının görüşleri alınarak Yükseköğretim Kurulu tarafından çıkarılan yönetmelikle belirlenir.”
 
-MADDE 43- 18/12/1981 tarihli ve 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanununun 21 inci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
+**MADDE 43-** 18/12/1981 tarihli ve 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanununun 21 inci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “f) Güvenlik bölgelerinin dış sınırlarından itibaren ikiyüz metreye kadar olan bölgelerde hangi tür zirai ürünün yetiştirileceğine mahalli mülki amirler tarafından karar verilebilir.”
 
-MADDE 44- 2565 sayılı Kanunun 33 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 44**- 2565 sayılı Kanunun 33 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Bu Yönetmelik; Genelkurmay Başkanlığı ve ilgili bakanlıkların görüşleri de alınmak suretiyle İçişleri Bakanlığı ve Milli Savunma Bakanlığınca müştereken hazırlanarak Bakanlar Kurulu kararı ile yürürlüğe konulur.”
 
 
@@ -306,10 +306,10 @@ Bu maddenin uygulanmasına ilişkin esaslar Adalet Bakanlığınca çıkarılan 
 MADDE 48 – 2802 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 21- Bu maddenin yürürlüğe girdiği tarihten itibaren üç yıl süreyle adalet müfettişliğine yapılacak atamalarda, 37 nci maddede öngörülen beş yıllık hizmet süresi üç yıl olarak uygulanır.”
+**MADDE 21-** Bu maddenin yürürlüğe girdiği tarihten itibaren üç yıl süreyle adalet müfettişliğine yapılacak atamalarda, 37 nci maddede öngörülen beş yıllık hizmet süresi üç yıl olarak uygulanır.”
 
 
-MADDE 49 – 10/3/1983 tarihli ve 2803 sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanununun 10 uncu maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 49** – 10/3/1983 tarihli ve 2803 sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanununun 10 uncu maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “İl ve ilçelerdeki jandarma ve polis sorumluluk alanlarının sınırları, ilçelerde kaymakam, illerde vali veya görevlendireceği vali yardımcısı başkanlığında jandarma ve emniyet temsilcilerinin katılacağı bir komisyon tarafından belirlenir. Komisyon, vali veya kaymakamın çağrısı üzerine toplanır.
 Büyükşehir, il veya ilçe belediyesi kurulması, kaldırılması ya da kentleşme veya diğer sebeplerle sınırlarda değişiklik olması halinde, değişikliğin yürürlüğe girdiği tarihten itibaren en geç üç ay içerisinde sorumluluk alanları yeniden düzenlenir. Komisyon tarafından alınan kararlar İçişleri Bakanının onayıyla yürürlüğe girer. Belirlenen sorumluluk alanlarının sınırları karara eklenen bir harita veya kroki üzerinde gösterilir.”
 
@@ -318,7 +318,7 @@ MADDE 50 – 2803 sayılı Kanunun 13 üncü maddesinin ikinci fıkrasına üç�
 “İlgili personel, personel kaynağı planlaması, iç güvenlik politikaları ve gelişen güvenlik ihtiyaçlarına göre albay ve üstü rütbelerde bekleme süreleri dolmadan kadrosuzluk tazminatı ödenmek suretiyle müşterek kararname ile emekliye sevk edilebilir.”
 
 
-MADDE 51 – 2803 sayılı Kanunun 13/A maddesinin beşinci fıkrasına aşağıdaki cümleler eklenmiş ve altıncı fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 51** – 2803 sayılı Kanunun 13/A maddesinin beşinci fıkrasına aşağıdaki cümleler eklenmiş ve altıncı fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Akademi bünyesindeki fakültelerin dekanları, Akademideki lisans eğitim ve öğretiminin yürütülmesinden Akademi Başkanına karşı sorumludur. Dekanların ataması, İçişleri Bakanınca yapılır.”
 “Akademide istihdam edilen jandarma hizmetleri sınıfı ve sahil güvenlik hizmetleri sınıfı dışından olan öğretim elemanlarının görev süreleri, her türlü özlük hakları, izinleri, akademik unvanlarının yükselmesi ve korunması konusunda 2547 sayılı Kanun ve 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanunu hükümleri uygulanır. Jandarma hizmetleri sınıfı ve sahil güvenlik hizmetleri sınıfı dışından olan öğretim elemanları için disiplin ve cezai hükümler açısından Jandarma Genel Komutanlığında görevli jandarma hizmetleri sınıfı dışındaki diğer devlet memurlarına uygulanan mevzuat hükümleri geçerlidir.”
 
@@ -358,7 +358,7 @@ MADDE 58 – 2937 sayılı Kanunun 5 inci maddesinin üçüncü ve altıncı fı
 “Bakanlıklar ile diğer kamu kurum ve kuruluşlarının yukarıda belirtilen görev ve yükümlülüklerinin yerine getirilmesiyle ilgili koordinasyonu sağlamak ve istihbarat çalışmalarının yöneltilmesinde temel görüşleri oluşturmak ve uygulamayı belirlemek üzere, Cumhurbaşkanının başkanlığında Milli İstihbarat Koordinasyon Kurulu (MİKK) kurulmuştur. Kurulun sekretarya hizmetleri MİT Müsteşarlığı tarafından yürütülür.”
 “Milli İstihbarat Koordinasyon Kurulunun üyeleri, ayrıntılı görev ve yetkileri ile çalışma usul ve esasları yönetmelikle düzenlenir.”
 
-MADDE 59- 2937 sayılı Kanunun 6 ncı maddesinin sekizinci fıkrasında yer alan “, Başbakanlık teftiş elemanları” ibaresi “ve Devlet Denetleme Kurulu” şeklinde değiştirilmiştir.
+**MADDE 59-** 2937 sayılı Kanunun 6 ncı maddesinin sekizinci fıkrasında yer alan “, Başbakanlık teftiş elemanları” ibaresi “ve Devlet Denetleme Kurulu” şeklinde değiştirilmiştir.
 
 
 MADDE 60 – 2937 sayılı Kanunun 7 nci maddesinin birinci fıkrasında yer alan “Başbakana” ibaresi “Cumhurbaşkanına” şeklinde ve “Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.
@@ -377,7 +377,7 @@ MADDE 11- Milli İstihbarat Teşkilatı Müsteşarlığında görevlendirilecek 
 Milli İstihbarat Teşkilatı Müsteşarlığında görevlendirileceklere ilişkin olarak 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu ve diğer mevzuatta öngörülen izin, onay ve benzeri şartlar aranmaz.
 Milli İstihbarat Teşkilatı Müsteşarlığında görevlendirilen personelin her türlü istihkakları ilgili mevzuat hükümlerine göre bağlı bulundukları kurum bütçesinden ödenir. Ancak, emsali MİT personeline (kadro karşılık gösterilmek suretiyle sözleşmeli çalışanlar dahil) net ödenen tüm istihkaklar toplamının, bunların tabi oldukları kanunlar gereğince aldıkları bütün ödemelerin net tutarından fazla olması halinde aradaki fark bu personele MİT bütçesinden tazminat olarak ve net ödenir. Bunların MİT’teki emsal kadro ve görev unvanlarını belirlemeye MİT Müsteşarı yetkilidir.”
 
-MADDE 64- 2937 sayılı Kanunun 12 nci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 64-** 2937 sayılı Kanunun 12 nci maddesine aşağıdaki fıkra eklenmiştir.
 “MİT personelinin kimliğinin gizlenmesi esastır. Bu personele ilişkin özlük ve sosyal güvenlik haklarının tespitinde MİT Müsteşarlığı kayıtları esas alınır. Buna ilişkin usul ve esaslar Sosyal Güvenlik Kurumu ile MİT Müsteşarlığı tarafından müştereken hazırlanan ve Cumhurbaşkanı tarafından onaylanan yönetmelikle belirlenir.”
 
 
@@ -423,10 +423,10 @@ a) 32 nci madde, 657 sayılı Kanunun 80 inci maddesi, 3238 sayılı Kanunun 10 
 b) Başbakan tarafından 657 sayılı Kanunun 43 üncü maddesi uyarınca belirlenen ek gösterge rakamları, 152 nci maddesi uyarınca belirlenen zam ve tazminatlar ve ek 29 uncu maddesi uyarınca belirlenen kadro karşılığı sözleşmeli personel çalıştırılmasına ilişkin usul ve esasların, yeni bir düzenleme yapılıncaya kadar uygulanmasına devam olunur.
 Diğer mevzuatta Milli İstihbarat Teşkilatı Müsteşarlığı ile ilgili olarak Başbakana yapılmış olan atıflar Cumhurbaşkanına yapılmış sayılır.”
 
-MADDE 75- 29/3/1984 tarihli ve 2992 sayılı Adalet Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanunun 8 inci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
+**MADDE 75-** 29/3/1984 tarihli ve 2992 sayılı Adalet Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanunun 8 inci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “h) İnsan Hakları Dairesi Başkanlığı.”
 
-MADDE 76- 2992 sayılı Kanuna 13/B maddesinden sonra gelmek üzere aşağıdaki 13/C maddesi eklenmiştir.
+**MADDE 76-** 2992 sayılı Kanuna 13/B maddesinden sonra gelmek üzere aşağıdaki 13/C maddesi eklenmiştir.
 “İnsan Hakları Dairesi Başkanlığı
 
 
@@ -450,7 +450,7 @@ MADDE 77 – 2992 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 
 MADDE 5- Ekli (3) ve (4) sayılı listelerde yazılı kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) ve (II) sayılı cetvellerin Adalet Bakanlığına ait bölümlerine eklenmiş, 190 sayılı Kanun Hükmünde Kararnamenin eki (I) ve (II) sayılı cetvellerde yer alan “Hâkimler ve Savcılar Yüksek Kurulu” bölümleri “Hâkimler ve Savcılar Kurulu” şeklinde değiştirilmiş ve ekli (5) sayılı listede yer alan kadrolar ihdas edilerek anılan Kanun Hükmünde Kararnamenin eki (II) sayılı cetvelin Hâkimler ve Savcılar Kuruluna ait bölümüne eklenmiştir.
 
-MADDE 78- 2992 sayılı Kanuna ekli Bakanlık merkez teşkilatına ilişkin Ek-1 sayılı cetvelin “Anahizmet Birimleri” başlıklı sütununa “8. İnsan Hakları Dairesi Başkanlığı” sırası eklenmiştir.
+**MADDE 78-** 2992 sayılı Kanuna ekli Bakanlık merkez teşkilatına ilişkin Ek-1 sayılı cetvelin “Anahizmet Birimleri” başlıklı sütununa “8. İnsan Hakları Dairesi Başkanlığı” sırası eklenmiştir.
 
 
 MADDE 79 – 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 13 üncü maddesinin birinci fıkrasının (f) bendine “Milli Savunma Bakanlığı,” ibaresinden sonra gelmek üzere “Adalet Bakanlığı,” ibaresi eklenmiştir.
@@ -462,7 +462,7 @@ MADDE 80 – 7/11/1985 tarihli ve 3238 sayılı Savunma Sanayii Müsteşarlığ�
 MADDE 81 – 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 17- Sağlık Bakanlığı ve bağlı kuruluşlarına ait sağlık kurum ve kuruluşlarında görev yapan tabip ve uzman tabipler ile 24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Kanunu hükümlerine göre istihdam edilen aile hekimleri, her yıl Bakanlıkça uygun görülmek şartıyla yetmişiki yaşına kadar çalışabilir.”
+**MADDE 17-** Sağlık Bakanlığı ve bağlı kuruluşlarına ait sağlık kurum ve kuruluşlarında görev yapan tabip ve uzman tabipler ile 24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Kanunu hükümlerine göre istihdam edilen aile hekimleri, her yıl Bakanlıkça uygun görülmek şartıyla yetmişiki yaşına kadar çalışabilir.”
 
 
 MADDE 82 – 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun 21 inci maddesinin birinci fıkrasının (b) bendinin birinci ve ikinci cümleleri aşağıdaki şekilde değiştirilmiştir.
@@ -538,8 +538,8 @@ Okul komutanı ile dekan arasında astlık-üstlük ilişkisi yoktur. Dekan, Tü
 
 
 MADDE 92 – 4566 sayılı Kanunun 12 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-12- Dekan yardımcıları en fazla iki olup, dekana çalışmalarında yardımcı olmakla sorumlu kişilerdir. Görevi başında olmadığı zaman yardımcılarından birisi dekana vekâlet eder.
+“**MADDE**
+**12-** Dekan yardımcıları en fazla iki olup, dekana çalışmalarında yardımcı olmakla sorumlu kişilerdir. Görevi başında olmadığı zaman yardımcılarından birisi dekana vekâlet eder.
 Dekan yardımcıları Bakan tarafından üç yıllığına atanır. Süresi biten dekan yardımcısı yeniden atanabilir.”
 
 
@@ -548,22 +548,22 @@ MADDE 93 – 4566 sayılı Kanunun 17 nci maddesinin birinci fıkrasının (a) b
 
 
 MADDE 94 – 4566 sayılı Kanunun 18 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-18- Harp okullarındaki boş yardımcı doçent kadroları Rektörlük tarafından ilan edilir. Kadroya talip adaylar başvuru dosyalarını dekanlığa teslim eder. Yeterli şartları taşıdığı dekanlıkça tespit edilenler, harp okulu yönetim kurulu tarafından seçilecek üç öğretim üyesi tarafından ilgili bilim dalında yazılı yabancı dil sınavına alınır. Yabancı dil sınavında başarılı olan adayların dosyaları, incelenmek ve haklarında yazılı bilimsel değerlendirme alınmak üzere en az biri Milli Savunma Üniversitesi dışındaki üniversitelerden olmak üzere kadronun ait olduğu alandan üç öğretim üyesine gönderilir. Raporlar harp okulu yönetim kurulunda değerlendirildikten sonra dekan kendi görüşünü de ekleyerek adayları Rektörlüğe bildirir. Akademik yönden uygun görülen aday, Rektörün teklifi üzerine Bakan onayı ile atanır. Kadro için uygun görülen aday, asker kişi ise 926 sayılı Kanuna göre boş kadroya atanır.
+“**MADDE**
+**18-** Harp okullarındaki boş yardımcı doçent kadroları Rektörlük tarafından ilan edilir. Kadroya talip adaylar başvuru dosyalarını dekanlığa teslim eder. Yeterli şartları taşıdığı dekanlıkça tespit edilenler, harp okulu yönetim kurulu tarafından seçilecek üç öğretim üyesi tarafından ilgili bilim dalında yazılı yabancı dil sınavına alınır. Yabancı dil sınavında başarılı olan adayların dosyaları, incelenmek ve haklarında yazılı bilimsel değerlendirme alınmak üzere en az biri Milli Savunma Üniversitesi dışındaki üniversitelerden olmak üzere kadronun ait olduğu alandan üç öğretim üyesine gönderilir. Raporlar harp okulu yönetim kurulunda değerlendirildikten sonra dekan kendi görüşünü de ekleyerek adayları Rektörlüğe bildirir. Akademik yönden uygun görülen aday, Rektörün teklifi üzerine Bakan onayı ile atanır. Kadro için uygun görülen aday, asker kişi ise 926 sayılı Kanuna göre boş kadroya atanır.
 Harp okulları kadrosuna ilk kez atanan yardımcı doçentler, iki yıl görev yaparlar. Bu sürenin sonunda, dekanlığın olumlu görüşü ve Rektörün teklifi üzerine Bakan onayı ile aynı kadroda görev süresi iki senelik sürelerle uzatılabilir.”
 
 
 MADDE 95 – 4566 sayılı Kanunun 19 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-19- Doçentliğe atanmak için; 2547 sayılı Kanunda düzenlenen doçentliğe yükseltilme şartlarını yerine getirmek ve Türk Silahlı Kuvvetleri kadrolarında görevli personel için hakkında müspet nitelik belgesi doldurulmuş olmak gereklidir.
+“**MADDE**
+**19-** Doçentliğe atanmak için; 2547 sayılı Kanunda düzenlenen doçentliğe yükseltilme şartlarını yerine getirmek ve Türk Silahlı Kuvvetleri kadrolarında görevli personel için hakkında müspet nitelik belgesi doldurulmuş olmak gereklidir.
 Harp okulu dekanlıklarınca ihtiyaç görülen doçent kadroları, Rektörlüğe bildirilir. Rektörlük uygun gördüğü boş doçentlik kadrolarını ilan eder.
 Kadroya talip adaylar başvuru dosyalarını Rektörlüğe teslim ederler. Uygun şartları taşıdığı Rektörlükçe tespit edilenlerin dosyaları, incelenmek ve haklarında bilimsel yazılı değerlendirme alınmak üzere en az biri Milli Savunma Üniversitesi dışındaki üniversitelerden olmak üzere kadronun ait olduğu alandan üç profesör öğretim üyesine gönderilir. Gelen değerlendirmeler Üniversite Yönetim Kurulu tarafından incelendikten sonra uygun görülen aday Rektörlüğe bildirilir.
 Akademik yönden uygun görülen aday, Rektörün teklifi üzerine Bakan onayı ile atanır. Kadro için uygun görülen aday, asker kişi ise 926 sayılı Kanuna göre boş kadroya atanır.”
 
 
 MADDE 96 – 4566 sayılı Kanunun 20 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-20- Profesörlüğe yükselebilmek için; 2547 sayılı Yükseköğretim Kanununda düzenlenen profesörlüğe yükseltilme şartlarını yerine getirmek ve Türk Silahlı Kuvvetleri kadrolarında görevli personel için hakkında müspet nitelik belgesi doldurulmuş olmak gereklidir.
+“**MADDE**
+**20-** Profesörlüğe yükselebilmek için; 2547 sayılı Yükseköğretim Kanununda düzenlenen profesörlüğe yükseltilme şartlarını yerine getirmek ve Türk Silahlı Kuvvetleri kadrolarında görevli personel için hakkında müspet nitelik belgesi doldurulmuş olmak gereklidir.
 Harp okulu dekanlıklarınca ihtiyaç görülen profesör kadroları, Rektörlüğe bildirilir. Rektörlük, uygun gördüğü boş profesörlük kadrolarını ilan eder.
 Kadroya talip adaylar başvuru dosyalarını Rektörlüğe teslim ederler.
 Yeterli şartları taşıdığı Rektörlükçe tespit edilenlerin dosyaları, incelenmek ve haklarında bilimsel yazılı değerlendirme alınmak üzere en az ikisi Milli Savunma Üniversitesi dışındaki üniversitelerden olmak üzere kadronun ait olduğu alandan beş profesör öğretim üyesine gönderilir. Gelen değerlendirmeler Üniversite Yönetim Kurulu tarafından değerlendirildikten sonra uygun görülen aday Rektörlüğe bildirilir. Akademik yönden uygun görülen aday, Rektörün teklifi üzerine Bakan onayı ile atanır. Kadro için uygun görülen aday, asker kişi ise 926 sayılı Kanuna göre boş kadroya atanır.”
@@ -574,14 +574,14 @@ MADDE 97 – 4566 sayılı Kanunun 24 üncü maddesinin birinci fıkrası aşağ
 
 
 MADDE 98 – 4566 sayılı Kanunun 28 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-28- Harp okullarında görevlendirilecek yabancı uyruklu öğretim elemanları;
+“**MADDE**
+**28-** Harp okullarında görevlendirilecek yabancı uyruklu öğretim elemanları;
 harp okulu dekanlığının talebi ve Rektörlüğün ihtiyaç göstermesi üzerine, Bakan onayı ile sözleşmeli olarak çalıştırılırlar. Sözleşmeli olarak çalıştırılacak yabancı öğretim elemanlarına ödenecek ücret, 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanununun 16 ncı maddesi uyarınca Bakanlar Kurulunca belirlenen esaslar dâhilinde Bakanlıkça tespit edilir.”
 
 
 MADDE 99 – 4566 sayılı Kanunun 29 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-29- Harp okullarının ihtiyacı olan öğretim elemanları, ilgili kuvvet komutanlığının görüşü alınarak Rektörlük tarafından hazırlanan ve Bakanlık tarafından onaylanan öğretim üyesi temin ve yetiştirme plan ve programları çerçevesinde yurtiçinde ve yurtdışında yetiştirilir.”
+“**MADDE**
+**29-** Harp okullarının ihtiyacı olan öğretim elemanları, ilgili kuvvet komutanlığının görüşü alınarak Rektörlük tarafından hazırlanan ve Bakanlık tarafından onaylanan öğretim üyesi temin ve yetiştirme plan ve programları çerçevesinde yurtiçinde ve yurtdışında yetiştirilir.”
 
 
 MADDE 100 – 4566 sayılı Kanunun 30 uncu maddesinin ikinci fıkrasının birinci cümlesine “üyelerinin” ibaresinden sonra gelmek üzere “maaş karşılığı” ibaresi ile aynı fıkraya birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiş ve aynı fıkranın son cümlesinde yer alan “enstitü müdürü ile” ibaresi yürürlükten kaldırılmıştır.
@@ -604,8 +604,8 @@ Harp okulları, ihtiyacı olan öğretim elemanlarını Rektörlük aracılığ�
 
 
 MADDE 104 – 4566 sayılı Kanunun 35 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-35- Öğretim faaliyetlerinin bilimsel yönden denetlenmesi, Rektörlük tarafından yapılır.
+“**MADDE**
+**35-** Öğretim faaliyetlerinin bilimsel yönden denetlenmesi, Rektörlük tarafından yapılır.
 Bilimsel denetleme; öğretim elemanlarının bilimsel yönden denetlenmesi ile bunların eğitim, öğretim, bilimsel araştırma, yayın, seminer ve uygulama faaliyetlerini de kapsar. Bilimsel denetleme heyeti, Rektörlük tarafından görevlendirilebileceği gibi eğitim, öğretim ve diğer faaliyetlerin bu Kanunda belirtilen amaç ve ilkelere uygunluğunu denetlemek amacıyla Bakan tarafından da görevlendirilebilir.”
 
 
@@ -673,8 +673,8 @@ Müdür yardımcıları Bakan tarafından üç yıllığına atanır. Süresi bi
 
 
 MADDE 114 – 4752 sayılı Kanunun 15 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-15- Astsubay meslek yüksek okulu müdürlüklerince ihtiyaç duyulan yardımcı doçent kadroları, Rektörlüğe bildirilir. Rektörlük uygun gördüğü boş yardımcı doçent kadrolarını ilan eder. Kadroya talip adaylar başvuru dosyalarını meslek yüksek okulu müdürlüğüne teslim eder. Yeterli şartları taşıdığı meslek yüksek okulu müdürlüğünce tespit edilenler, meslek yüksek okulu yönetim kurulu tarafından seçilecek üç öğretim üyesi tarafından ilgili bilim dalında yazılı yabancı dil sınavına alınırlar. Yabancı dil sınavında başarılı olan adayların dosyaları, incelenmek ve haklarında yazılı bilimsel değerlendirme alınmak üzere en az biri Milli Savunma Üniversitesi dışındaki üniversitelerden olmak üzere kadronun ait olduğu alandan üç öğretim üyesine gönderilir. Raporlar yönetim kurulunda değerlendirildikten sonra yüksek okul müdürü kendi görüşünü de ekleyerek adayları Rektörlüğe bildirir. Akademik yönden uygun görülen aday, Rektörün teklifi üzerine Bakan onayı ile atanır. Kadro için uygun görülen aday, asker kişi ise 926 sayılı Kanuna göre boş kadroya atanır.
+“**MADDE**
+**15-** Astsubay meslek yüksek okulu müdürlüklerince ihtiyaç duyulan yardımcı doçent kadroları, Rektörlüğe bildirilir. Rektörlük uygun gördüğü boş yardımcı doçent kadrolarını ilan eder. Kadroya talip adaylar başvuru dosyalarını meslek yüksek okulu müdürlüğüne teslim eder. Yeterli şartları taşıdığı meslek yüksek okulu müdürlüğünce tespit edilenler, meslek yüksek okulu yönetim kurulu tarafından seçilecek üç öğretim üyesi tarafından ilgili bilim dalında yazılı yabancı dil sınavına alınırlar. Yabancı dil sınavında başarılı olan adayların dosyaları, incelenmek ve haklarında yazılı bilimsel değerlendirme alınmak üzere en az biri Milli Savunma Üniversitesi dışındaki üniversitelerden olmak üzere kadronun ait olduğu alandan üç öğretim üyesine gönderilir. Raporlar yönetim kurulunda değerlendirildikten sonra yüksek okul müdürü kendi görüşünü de ekleyerek adayları Rektörlüğe bildirir. Akademik yönden uygun görülen aday, Rektörün teklifi üzerine Bakan onayı ile atanır. Kadro için uygun görülen aday, asker kişi ise 926 sayılı Kanuna göre boş kadroya atanır.
 Meslek yüksek okulu kadrosuna ilk kez atanan yardımcı doçentler, iki yıl görev yaparlar. Bu sürenin sonunda, okul müdürlüğünün olumlu görüşü ve Rektörün teklifi üzerine Bakan onayı ile aynı kadroda görev süreleri iki yıllık sürelerle uzatılabilir.”
 
 
@@ -721,10 +721,10 @@ MADDE 123 – 4752 sayılı Kanunun 28 inci maddesinin ikinci fıkrası aşağı
 “Astsubay meslek yüksek okullarının öğretim faaliyetlerinin bilimsel yönden denetlenmesi; yönetmelikte gösterilen esaslara göre, Rektörlük tarafından oluşturulan bilimsel denetleme heyeti tarafından yapılır.”
 “Eğitim, öğretim ve diğer faaliyetlerin bu Kanunda belirtilen amaç ve ilkelere uygunluğunu denetlemek amacıyla, Bakan tarafından da denetleme heyeti görevlendirilebilir.”
 
-MADDE 124- 4752 sayılı Kanunun 32 nci maddesinin dördüncü fıkrasına birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
+**MADDE 124-** 4752 sayılı Kanunun 32 nci maddesinin dördüncü fıkrasına birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
 “Ayrıca 657 sayılı Devlet Memurları Kanununda sayılan ve disiplin cezası verilmesini gerektiren fiil ve hallere ilave olarak; bunlara, 2547 sayılı Kanunda yer alan diğer disiplinsizlikleri işleyen sözleşmeli veya atamalı öğretim elemanlarına yükseköğretim mevzuatı uyarınca verilen aynı neviden disiplin cezaları uygulanır.”
 
-MADDE 125- 4752 sayılı Kanunun 34 üncü maddesinin birinci fıkrasının (c) bendinde yer alan “kurulunun” ibaresi “heyetinin” şeklinde değiştirilmiştir.
+**MADDE 125-** 4752 sayılı Kanunun 34 üncü maddesinin birinci fıkrasının (c) bendinde yer alan “kurulunun” ibaresi “heyetinin” şeklinde değiştirilmiştir.
 
 
 MADDE 126 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun 7 nci maddesinin birinci fıkrasının
@@ -745,7 +745,7 @@ MADDE 130 – 29/6/2004 tarihli ve 5202 sayılı Savunma Sanayii Güvenliği Kan
 “Bu tesisler Makam tarafından oluşturulan heyetler tarafından denetlenir.”
 
 
-MADDE 131 – 26/9/2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanuna aşağıdaki madde eklenmiştir.
+**MADDE 131** – 26/9/2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanuna aşağıdaki madde eklenmiştir.
 “Yargı çevresinin değişmesi
 
 EK MADDE
@@ -759,7 +759,7 @@ MADDE 132 – 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 188 inci m
 MADDE 133 – 5237 sayılı Kanunun 190 ıncı maddesinin birinci ve ikinci fıkralarına “on yıla kadar hapis” ibarelerinden sonra gelmek üzere “ve bin günden onbin güne kadar adlî para” ibareleri eklenmiştir.
 
 
-MADDE 134 – 5237 sayılı Kanunun 228 inci maddesine ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
+**MADDE 134** – 5237 sayılı Kanunun 228 inci maddesine ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 “(3) Suçun bilişim sistemlerinin kullanılması suretiyle işlenmesi halinde üç yıldan beş yıla kadar hapis ve bin günden onbin güne kadar adlî para cezasına hükmolunur.
 (4) Suçun bir örgütün faaliyeti çerçevesinde işlenmesi halinde, verilecek ceza yarı oranında artırılır.”
 
@@ -786,17 +786,17 @@ MADDE 139 – 5271 sayılı Kanunun 142 nci maddesine aşağıdaki fıkralar ekl
 MADDE 140 – 5271 sayılı Kanunun 158 inci maddesine beşinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
 “(6) İhbar ve şikâyet konusu fiilin suç oluşturmadığının herhangi bir araştırma yapılmasını gerektirmeksizin açıkça anlaşılması veya ihbar ve şikâyetin soyut ve genel nitelikte olması durumunda soruşturma yapılmasına yer olmadığına karar verilir. Bu durumda şikâyet edilen kişiye şüpheli sıfatı verilemez. Soruşturma yapılmasına yer olmadığına dair karar, varsa ihbarda bulunana veya şikâyetçiye bildirilir ve bu karara karşı 173 üncü maddedeki usule göre itiraz edilebilir. İtirazın kabulü hâlinde Cumhuriyet başsavcılığı soruşturma işlemlerini başlatır. Bu fıkra uyarınca yapılan işlemler ve verilen kararlar, bunlara mahsus bir sisteme kaydedilir. Bu kayıtlar, ancak Cumhuriyet savcısı, hâkim veya mahkeme tarafından görülebilir.”
 
-MADDE 141- 5271 sayılı Kanunun 161 inci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 141-** 5271 sayılı Kanunun 161 inci maddesine aşağıdaki fıkra eklenmiştir.
 “(9) Seçimden önce veya sonra bir suç işlediği ileri sürülen milletvekili hakkında soruşturma ve kovuşturma yapma yetkisi, Ankara Cumhuriyet Başsavcılığı ve bu yer ağır ceza mahkemesine aittir. Soruşturmayı Cumhuriyet Başsavcısı veya görevlendireceği vekili bizzat yapar. Başsavcı veya vekili, suçun işlendiği yer Cumhuriyet savcısından soruşturmanın kısmen veya tamamen yapılmasını isteyebilir. Gecikmesinde sakınca bulunan hâllerde suçun işlendiği yer Cumhuriyet savcısı zorunlu olan delilleri toplar ve gerekmesi hâlinde alınacak kararlar bakımından bulunduğu yer sulh ceza hâkimliğinden talepte bulunur.”
 
-MADDE 142- 5271 sayılı Kanunun 196 ncı maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 142-** 5271 sayılı Kanunun 196 ncı maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(4) Hâkim veya mahkemenin zorunlu gördüğü durumlarda, aynı anda görüntülü ve sesli iletişim tekniğinin kullanılması suretiyle yurt içinde bulunan sanığın sorgusu yapılabilir veya duruşmalara katılmasına karar verilebilir.”
 
-MADDE 143- 5271 sayılı Kanunun 216 ncı maddesinin üçüncü fıkrasına aşağıdaki cümle eklenmiştir.
+**MADDE 143-** 5271 sayılı Kanunun 216 ncı maddesinin üçüncü fıkrasına aşağıdaki cümle eklenmiştir.
 “Bu aşamada zorunlu müdafiin hazır bulunmaması hükmün açıklanmasına engel teşkil etmez.”
 
-MADDE 144- 5271 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 3- Bu maddenin yürürlüğe girdiği tarihe kadar milletvekilleri hakkında açılmış olan davalarda, bu maddeyi ihdas eden Kanun Hükmünde Kararname ile bu Kanunun 161 inci maddesine eklenen dokuzuncu fıkra hükmü uyarınca yetkisizlik ve görevsizlik kararı verilemez; bu davalara kesin hükümle sonuçlandırılıncaya kadar bu mahkemelerce bakılmaya devam olunur. Bu maddenin yürürlüğe girdiği tarihe kadar milletvekilleri hakkında başlatılmış soruşturmalarda da bu maddeyi ihdas eden Kanun Hükmünde Kararname ile bu Kanunun 161 inci maddesine eklenen dokuzuncu fıkra hükmü uyarınca yetkisizlik kararı verilemez.”
+**MADDE 144-** 5271 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+“GEÇİCİ **MADDE 3-** Bu maddenin yürürlüğe girdiği tarihe kadar milletvekilleri hakkında açılmış olan davalarda, bu maddeyi ihdas eden Kanun Hükmünde Kararname ile bu Kanunun 161 inci maddesine eklenen dokuzuncu fıkra hükmü uyarınca yetkisizlik ve görevsizlik kararı verilemez; bu davalara kesin hükümle sonuçlandırılıncaya kadar bu mahkemelerce bakılmaya devam olunur. Bu maddenin yürürlüğe girdiği tarihe kadar milletvekilleri hakkında başlatılmış soruşturmalarda da bu maddeyi ihdas eden Kanun Hükmünde Kararname ile bu Kanunun 161 inci maddesine eklenen dokuzuncu fıkra hükmü uyarınca yetkisizlik kararı verilemez.”
 
 
 MADDE 145 – 5275 sayılı Kanunun geçici 7 nci maddesinin birinci fıkrasında yer alan “itibaren bir yıl içinde” ibaresi “31/12/2020 tarihine kadar” şeklinde değiştirilmiştir.
@@ -815,7 +815,7 @@ MADDE 147 – 23/3/2005 tarihli ve 5320 sayılı Ceza Muhakemesi Kanununun Yür�
 MADDE 148 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 40 ıncı maddesinin ikinci fıkrasında yer alan tabloya aşağıdaki sıra eklenmiştir.
 “19) Ceza infaz kurumlarında Ceza infaz kurumu müdürü, idare memuru, infaz ve koruma başmemuru, infaz ve koruma memuru unvanlı kadrolarda bulunanlar ile Adalet Bakanlığı taşra teşkilatına tahsisli kadro veya pozisyonlarda bulunup ceza infaz kurumlarında görev yapan ve ceza infaz kurumlarında hükümlü ve tutuklularla bilfiil irtibat içinde olan diğer görevliler, 90”
 
-MADDE 149- 5510 sayılı Kanunun 67 nci maddesinin birinci fıkrasına “bildirimi zorunlu bulaşıcı hastalıklar,” ibaresinden sonra gelmek üzere “madde bağımlılığı tedavisine yönelik sağlık hizmetleri,” ibaresi eklenmiştir.
+**MADDE 149-** 5510 sayılı Kanunun 67 nci maddesinin birinci fıkrasına “bildirimi zorunlu bulaşıcı hastalıklar,” ibaresinden sonra gelmek üzere “madde bağımlılığı tedavisine yönelik sağlık hizmetleri,” ibaresi eklenmiştir.
 
 
 MADDE 150 – 24/5/2007 tarihli ve 5668 sayılı Türk Silahlı Kuvvetleri Besleme Kanununun başlığı “Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Besleme Kanunu” şeklinde ve 1 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -835,13 +835,13 @@ MADDE 152 – 5668 sayılı Kanunun 4 üncü maddesinin dördüncü fıkrasına 
 MADDE 153 – 5668 sayılı Kanunun 6 ncı maddesinin başlığı “Kazandan beslenen askerî personel ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personeline tayın bedeli verilmesi” şeklinde ve aynı maddenin birinci fıkrasında yer alan “askerî personelin,” ibaresi “askerî personel ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personelinin” şeklinde değiştirilmiştir.
 
 
-MADDE 154 – 5668 sayılı Kanunun 11 inci maddesinin üçüncü fıkrasında yer alan “erbaş, er ve askerî öğrencilerin” ibaresi “askerî personel ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personelinin” şeklinde değiştirilmiştir.
+**MADDE 154** – 5668 sayılı Kanunun 11 inci maddesinin üçüncü fıkrasında yer alan “erbaş, er ve askerî öğrencilerin” ibaresi “askerî personel ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personelinin” şeklinde değiştirilmiştir.
 
 
 MADDE 155 – 11/12/2010 tarihli ve 6087 sayılı Hâkimler ve Savcılar Yüksek Kurulu Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 7- (1) Bu maddenin yürürlüğe girdiği tarihten itibaren üç yıl süreyle Kurul müfettişliğine yapılacak atamalarda, 15 inci maddede öngörülen beş yıllık hizmet süresi üç yıl olarak uygulanır.”
+**MADDE 7-** (1) Bu maddenin yürürlüğe girdiği tarihten itibaren üç yıl süreyle Kurul müfettişliğine yapılacak atamalarda, 15 inci maddede öngörülen beş yıllık hizmet süresi üç yıl olarak uygulanır.”
 
 
 MADDE 156 – 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununun 268 inci maddesinin ikinci fıkrasında yer alan “(ç), (d) ve (e)” ibaresi “(d), (e) ve (f)” şeklinde değiştirilmiştir.
@@ -902,9 +902,9 @@ MADDE 167 – 22/1/2015 tarihli ve 6586 sayılı Millî Mayın Faaliyet Merkezi 
 
 MADDE 168 – 6586 sayılı Kanunun 5 inci maddesinin ikinci ve üçüncü fıkralarında yer alan “Genel Plan ve Prensipler Genel Müdürü” ibareleri “Millî Mayın Faaliyet Merkezi Dairesi Başkanı” şeklinde değiştirilmiştir.
 
-MADDE 169- 3/11/2016 tarihli ve 6754 sayılı Bilirkişilik Kanununun 6 ncı maddesinin ikinci fıkrasının (j) bendinde yer alan “(e)” ibaresi “(f)” şeklinde değiştirilmiştir.
+**MADDE 169-** 3/11/2016 tarihli ve 6754 sayılı Bilirkişilik Kanununun 6 ncı maddesinin ikinci fıkrasının (j) bendinde yer alan “(e)” ibaresi “(f)” şeklinde değiştirilmiştir.
 
-MADDE 170- 6754 sayılı Kanunun 12 nci maddesinin altıncı fıkrasında yer alan “(ç), (d) ve (e)” ibaresi “(d), (e) ve (f)” şeklinde değiştirilmiştir.
+**MADDE 170-** 6754 sayılı Kanunun 12 nci maddesinin altıncı fıkrasında yer alan “(ç), (d) ve (e)” ibaresi “(d), (e) ve (f)” şeklinde değiştirilmiştir.
 
 
 MADDE 171 – 9/11/2016 tarihli ve 6756 sayılı Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması ve Milli Savunma Üniversitesi Kurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesi Hakkında Kanunun 8 inci maddesinin birinci fıkrasına aşağıdaki cümleler eklenmiştir.
@@ -933,12 +933,12 @@ MADDE 174 – 10/11/2016 tarihli ve 6758 sayılı Olağanüstü Hal Kapsamında 
 MADDE 175 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnameye aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 22- Bu Kanun Hükmünde Kararnamenin 28 inci maddesinin (C) fıkrası uyarınca yapılacak ödemelerde 24/8/2016 (dahil) tarihinden itibaren gerçekleştirilen görevlendirmeler esas alınır.
+**MADDE 22-** Bu Kanun Hükmünde Kararnamenin 28 inci maddesinin (C) fıkrası uyarınca yapılacak ödemelerde 24/8/2016 (dahil) tarihinden itibaren gerçekleştirilen görevlendirmeler esas alınır.
 28 inci maddenin (Ç) fıkrasında yapılan değişiklik hükümleri 6/1/2017 tarihinden geçerli olmak üzere uygulanır.”
 
-MADDE 176- 25/8/2011 tarihli ve 652 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesinin üçüncü fıkrasının birinci cümlesinde yer alan “1/9/2017” ibaresi “1/9/2018” şeklinde değiştirilmiştir.
+**MADDE 176-** 25/8/2011 tarihli ve 652 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesinin üçüncü fıkrasının birinci cümlesinde yer alan “1/9/2017” ibaresi “1/9/2018” şeklinde değiştirilmiştir.
 
-MADDE 177- 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 7 nci maddesinin birinci fıkrasına (f) bendinden sonra gelmek üzere aşağıdaki bentler eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.
+**MADDE 177-** 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 7 nci maddesinin birinci fıkrasına (f) bendinden sonra gelmek üzere aşağıdaki bentler eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.
 “g) Halk Sağlığı Genel Müdürlüğü.
 ğ) Kamu Hastaneleri Genel Müdürlüğü.”
 
@@ -973,8 +973,8 @@ MADDE 179 – 663 sayılı Kanun Hükmünde Kararnamenin 23 üncü maddesinin ik
 
 
 MADDE 180 – 663 sayılı Kanun Hükmünde Kararnamenin 25 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-25- (1) Bakanlık ve bağlı kuruluşları, ilgili mevzuatına uygun olarak taşra teşkilatı kurmaya ve kaldırmaya yetkilidir.
+“**MADDE**
+**25-** (1) Bakanlık ve bağlı kuruluşları, ilgili mevzuatına uygun olarak taşra teşkilatı kurmaya ve kaldırmaya yetkilidir.
 (2) Bakanlığın il ve ihtiyaca göre kurulacak ilçe yönetim birimleri il ve ilçe sağlık müdürlükleridir. İl sağlık müdürlüğü bünyesinde ihtiyaca göre halk sağlığı, kamu hastaneleri, ilaç ve tıbbi cihaz, sağlık ve acil sağlık hizmetleri ile personel ve destek hizmetlerini yürütmek üzere başkanlıklar kurulabilir.
 (3) İl sağlık müdürleri Bakanlığın il düzeyindeki hizmetlerinin etkili ve verimli bir şekilde yürütülmesinden sorumludur; Bakanlığın düzenlemeleri çerçevesinde il düzeyinde personelin adil ve dengeli dağılımını yapar ve bu amaçla il içinde personel nakil ve görevlendirme işlemlerini doğrudan gerçekleştirir.
 (4) İl sağlık müdürü, acil sağlık hizmetlerinin yürütülmesi için kamu ve özel hukuk tüzel kişileri ile gerçek kişilere ait tüm sağlık kurum ve kuruluşlarının sevk ve idaresinden sorumlu ve bu konuda yetkilidir.
@@ -1112,4 +1112,4 @@ h) 13/12/2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı 
 
 MADDE 190 – Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 191- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 191-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

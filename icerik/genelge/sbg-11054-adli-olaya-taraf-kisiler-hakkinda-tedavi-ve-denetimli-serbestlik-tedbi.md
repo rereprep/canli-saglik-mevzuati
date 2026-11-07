@@ -117,4 +117,4 @@ Sosyal Güvenlik Kurumu Başkanlığına
 
 **Dipnotlar**
 
-<small>Sosyal Güvenlik Uygulamaları Dairesi Başkanlığı Ayrıntılı bilgi için irtibat: Ş.ÇETİN Rüzgarlı Caddesi Plevne Sokak no:7 Ulus!Ankara Tel: 0(312) 3246389/164 Faks: O(312) 324 55 15 Sosyal Güvenlik Uygulamaları Dairesi Başkanlığı Ayrıntılı bilgi için irtibat: Ş.ÇETİN Rüzgarlı Caddesi Plevne Sokak no:7 Ulus!Ankara Tel: O(312) 3246389 /123 Faks: O(312) 324 55 ı5 Sosyal Güvenlik Uygulamaları Dairesi Başkanlığı Ayrıntılı bilgi için irtiba!: Ş.ÇETİN Rüzgarlı Caddesi Plevne Sokak no:? Ulus/Ankara Tel: O(312) 3246389/123 Faks: O(312) 324 SS IS</small>
+<small>Sosyal Güvenlik Uygulamaları Dairesi Başkanlığı Ayrıntılı bilgi için irtibat: Ş.ÇETİN Rüzgarlı Caddesi Plevne Sokak no:7 Ulus!Ankara Tel: 0(312) 3246389/164 Faks: O(312) 324 55 15 Sosyal Güvenlik Uygulamaları Dairesi Başkanlığı Ayrıntılı bilgi için irtibat: Ş.ÇETİN Rüzgarlı Caddesi Plevne Sokak no:7 Ulus!Ankara Tel: O(312) 3246389 /123 Faks: O(312) 324 55 ı5 Sosyal Güvenlik Uygulamaları Dairesi Başkanlığı Ayrıntılı bilgi için irtiba!: Ş.ÇETİN Rüzgarlı Caddesi Plevne Sokak no:? Ulus/Ankara Tel: O(312) 3246389/123 Faks: O(312) 324 <i>SS IS</i></small>

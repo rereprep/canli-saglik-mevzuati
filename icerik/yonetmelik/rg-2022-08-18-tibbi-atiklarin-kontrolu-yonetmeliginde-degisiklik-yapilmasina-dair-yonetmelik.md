@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-TIBBİ ATIKLARIN KONTROLÜ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TIBBİ ATIKLARIN KONTROLÜ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 25/1/2017 tarihli ve 29959 sayılı Resmî Gazete'de yayımlanan Tıbbi Atıkların Kontrolü Yönetmeliğinin 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 3- (1) Bu Yönetmelik; 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 3 üncü, 8 inci, 11 inci, 12 nci ve 13 üncü maddeleri ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 97 nci ve 103 üncü maddelerine dayanılarak hazırlanmıştır.”

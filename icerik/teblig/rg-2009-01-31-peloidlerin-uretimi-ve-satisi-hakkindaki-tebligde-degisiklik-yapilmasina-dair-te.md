@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-PELOİDLERİN ÜRETİMİ VE SATIŞI HAKKINDAKİ TEBLİĞDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+PELOİDLERİN ÜRETİMİ VE SATIŞI HAKKINDAKİ TEBLİĞDE DEĞİŞİKLİK YAPILMASINA DAİR **TEBLİĞ**
 
 MADDE 1 – 21/4/2005 tarihli ve 25793 sayılı Resmî Gazete’de yayımlanan Peloidlerin Üretimi ve Satışı Hakkındaki Tebliğin 6 ncı maddesinin son fıkrasında yer alan “Söz konusu rapor dosyası ile birlikte Bakanlığa gönderilir.” ibaresi kaldırılmış ve “Bakanlıkça” ibaresi “Valilikçe” olarak değiştirilmiştir.
 

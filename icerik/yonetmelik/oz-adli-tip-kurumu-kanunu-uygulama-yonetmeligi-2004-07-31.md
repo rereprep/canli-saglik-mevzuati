@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Dayanak
+**Amaç, Kapsam ve Dayanak**
 
 #### Amaç ve Kapsam
 
@@ -26,7 +26,7 @@ Amaç, Kapsam ve Dayanak
 
 ### İKİNCİ BÖLÜM
 
-Adlî Tıp Kurumu Başkanlığı
+**Adlî Tıp Kurumu Başkanlığı**
 
 #### Kuruluş
 
@@ -48,7 +48,7 @@ g) Bilgi İşlem Şubesi Müdürlüğü.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Adlî Tıp Kurumu Başkanlığına Bağlı Birim ve Müdürlüklerin Görevleri
+**Adlî Tıp Kurumu Başkanlığına Bağlı Birim ve Müdürlüklerin Görevleri**
 
 #### Hukuk Müşavirliği
 
@@ -148,7 +148,7 @@ g) Görev alanına giren benzeri hizmetleri yerine getirmek.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-İhtisas Daireleri ve Şubeleri
+**İhtisas Daireleri ve Şubeleri**
 
 #### Morg İhtisas Dairesi
 
@@ -172,7 +172,7 @@ a) Cesetler ve kısımları üzerinde otopsi ve bilimsel inceleme yaparak ölüm
 
 b) Otopsiler, daire başkanı veya onun görevlendireceği bir uzman nezaretinde, asistanlar ve teknik elemanlarla müştereken, Ceza Muhakemeleri Usulü Kanunundaki hükümlere uygun olarak ve cesedin morga gelmesinden itibaren en geç kırk sekiz saat içerisinde yapılıp, raporu diğer ilgili ihtisas dairelerindeki işlem ve gerekli tüm incelemeler, istenilen belgeler tamamlandıktan sonra on beş gün içinde rapor tanzim edilerek mahalline gönderilmek üzere Adlî Tıp Kurumunun ilgili birimine teslim edilir.
 
-c) (Değişik:RG-30/10/2011-28100) Otopsinin sonuçlanması veya hüviyetin tespitinden sonra morg ihtisas dairesiyle ilgisi kalmayan ceset veya beraberindeki materyal, tahkikatı idare eden hakim veya Cumhuriyet savcısı veya hüviyet tespiti için gönderilen makam tarafından gömülmesinde sakınca olmadığını bildiren yazılı belge üzerine ailesine veya yakınlarına veya kimsesiz ise onbeş gün içinde (Değişik ibare:RG-7/1/2016-29586) belediyeye veya mülki idare amirliğine teslim edilir. Kimliği tespit edilmiş olmasına rağmen ailesi veya yakınları tarafından (Değişik ibare:RG-20/4/2016-29690) beş gün içinde teslim alınmayan cesetler de belediyeye veya mülki idare amirliğine gömülmek üzere teslim edilir . (Ek cümle:RG-16/1/2016-29595) Cesedin teslim veya gömülme işlemleri sırasında kamu düzeninin bozulabileceği veya toplumsal olayların meydana gelebileceği ya da suç işlenebileceği mülki idare amirince değerlendirildiği takdirde cesetler, gömülmek üzere doğrudan mülki idare amirliğine teslim edilir. Ancak; yabancı uyruklu kişiye ait olduğu tespit edilen ceset, ailesi, yakınları veya vatandaşı bulunduğu ülkenin diplomatik ya da konsolosluk temsilciliklerince tesliminin istenilmesi halinde, ülkelerine nakledilmek kaydıyla kendilerine ya da yetkili temsilcilerine teslim edilir. Ailesi veya yakınlarınca Ülkemizde defnedilmek istenilen, vatandaşı bulunduğu devlet tarafından ülkesine kabul edilmeyen, yabancı ölüm bildirimine diplomatik ya da konsolosluk temsilciliklerince onbeş gün içinde cevap verilmeyen (Ek ibare:RG-7/1/2016-29586) veya cevap verilmesine rağmen ailesi, yakınları veya yetkili temsilciliklerce (Değişik ibare:RG-20/4/2016-29690) beş gün içinde teslim alınmayan veya kimsesi bulunmayan yabancı uyruklu ceset ise o yer mülki idare amirliğinin belirleyeceği yerde gömülür. (Ek cümle:RG-17/12/2011-28145) Gerektiği hallerde İçişleri Bakanlığının belirleyeceği yerde ve şartlarda başka bir ilde de gömülebilir. Morg İhtisas Dairesi, kimlik belirlenmesi için gerekli görülen örnekleri alır ve beş yıl süreyle saklar. Morg ihtisas dairesine getirilen ve otopsinin sonuçlanması ile hüviyetinin tespitinden sonra morg ihtisas dairesi ile ilgisi kalmayan ve yakınlarınca alınmayan veya araştırmalar sonucu kimsesiz olduğu anlaşılan ceset veya kısımları adlî tahkikatla ilgisi kalmamış olması ve aksine vasiyeti bulunmaması şartıyla, en az altı ay süreyle muhafaza edilmek ve bilimsel araştırma için kullanılmak üzere yüksek öğretim kurumlarına verilebilir. Ceset üzerinde tekrar bir inceleme yapılması ihtimali düşünülerek cesedin gömüldüğü yer veya mezara, morg defterindeki numarayı taşıyan bir işaretin konulacağı, cesedi alanlar tarafından yazılı olarak taahhüt edilir ve cesedi teslim alanların da adresleri ile imzaları alınır. Kanun ve yönetmelikler çerçevesinde organ ya da organ parçaları adlî mercilerden gerekli izinler alındıktan sonra, Adlî Tıp Kurumu Eğitim ve Bilimsel Araştırma Komisyonu ve Adlî Tıp Kurumu Etik Kurulunun da onayı ile transplantasyon için alınabilir.
+c) **(Değişik:RG-30/10/2011-28100)** Otopsinin sonuçlanması veya hüviyetin tespitinden sonra morg ihtisas dairesiyle ilgisi kalmayan ceset veya beraberindeki materyal, tahkikatı idare eden hakim veya Cumhuriyet savcısı veya hüviyet tespiti için gönderilen makam tarafından gömülmesinde sakınca olmadığını bildiren yazılı belge üzerine ailesine veya yakınlarına veya kimsesiz ise onbeş gün içinde **(Değişik ibare:RG-7/1/2016-29586)** belediyeye veya mülki idare amirliğine teslim edilir. Kimliği tespit edilmiş olmasına rağmen ailesi veya yakınları tarafından **(Değişik ibare:RG-20/4/2016-29690) beş** gün içinde teslim alınmayan cesetler de belediyeye veya mülki idare amirliğine gömülmek üzere teslim edilir . **(Ek cümle:RG-16/1/2016-29595)** Cesedin teslim veya gömülme işlemleri sırasında kamu düzeninin bozulabileceği veya toplumsal olayların meydana gelebileceği ya da suç işlenebileceği mülki idare amirince değerlendirildiği takdirde cesetler, gömülmek üzere doğrudan mülki idare amirliğine teslim edilir. Ancak; yabancı uyruklu kişiye ait olduğu tespit edilen ceset, ailesi, yakınları veya vatandaşı bulunduğu ülkenin diplomatik ya da konsolosluk temsilciliklerince tesliminin istenilmesi halinde, ülkelerine nakledilmek kaydıyla kendilerine ya da yetkili temsilcilerine teslim edilir. Ailesi veya yakınlarınca Ülkemizde defnedilmek istenilen, vatandaşı bulunduğu devlet tarafından ülkesine kabul edilmeyen, yabancı ölüm bildirimine diplomatik ya da konsolosluk temsilciliklerince onbeş gün içinde cevap verilmeyen **(Ek ibare:RG-7/1/2016-29586)** veya cevap verilmesine rağmen ailesi, yakınları veya yetkili temsilciliklerce **(Değişik ibare:RG-20/4/2016-29690) beş** gün içinde teslim alınmayan veya kimsesi bulunmayan yabancı uyruklu ceset ise o yer mülki idare amirliğinin belirleyeceği yerde gömülür. **(Ek cümle:RG-17/12/2011-28145)** Gerektiği hallerde İçişleri Bakanlığının belirleyeceği yerde ve şartlarda başka bir ilde de gömülebilir. Morg İhtisas Dairesi, kimlik belirlenmesi için gerekli görülen örnekleri alır ve beş yıl süreyle saklar. Morg ihtisas dairesine getirilen ve otopsinin sonuçlanması ile hüviyetinin tespitinden sonra morg ihtisas dairesi ile ilgisi kalmayan ve yakınlarınca alınmayan veya araştırmalar sonucu kimsesiz olduğu anlaşılan ceset veya kısımları adlî tahkikatla ilgisi kalmamış olması ve aksine vasiyeti bulunmaması şartıyla, en az altı ay süreyle muhafaza edilmek ve bilimsel araştırma için kullanılmak üzere yüksek öğretim kurumlarına verilebilir. Ceset üzerinde tekrar bir inceleme yapılması ihtimali düşünülerek cesedin gömüldüğü yer veya mezara, morg defterindeki numarayı taşıyan bir işaretin konulacağı, cesedi alanlar tarafından yazılı olarak taahhüt edilir ve cesedi teslim alanların da adresleri ile imzaları alınır. Kanun ve yönetmelikler çerçevesinde organ ya da organ parçaları adlî mercilerden gerekli izinler alındıktan sonra, Adlî Tıp Kurumu Eğitim ve Bilimsel Araştırma Komisyonu ve Adlî Tıp Kurumu Etik Kurulunun da onayı ile transplantasyon için alınabilir.
 
 d) Otopsi yapılmak veya hüviyet tespit edilmek üzere ilgili makamlarca, morg ihtisas dairesine gönderilen cesetlerin soyularak gönderilmesi gerekmektedir. Çıplak olarak gelen cesedin kimliği belli ise etiket takılıp tutanakla teslim alınır ve buzdolabına konulur.
 
@@ -276,7 +276,7 @@ b) Kimya ihtisas dairesine gönderilen ve zamanla bozulması mümkün olan gıda
 
 c) Kimya ihtisas dairesine gelen materyali içeren ambalajların mühürlerinin ve kapatılış şekillerinin ve ağızlarının bağlanış biçimlerinin bu Yönetmeliğin 19 uncu maddesinin 41 inci bendinde belirtildiği gibi olması gereklidir. Mühürleri bozuk, okunmaz durumda ve açılabilir vaziyette olan koli ve diğer ambalajlar (zarf, çuval, sandık gibi) ilgili uzman tarafından alınmaz, bu durumda teslim alınmayış nedeni teslim almayan uzman tarafından bir tutanakla belirtilir ve altı imzalanır.
 
-d) (Değişik:RG-27/6/2009-27271) Adlî Tıp Kurumuna Tahlil ve Tetkik için gönderilecek materyallere ilişkin kolilerin yazısı, önceden Adlî Tıp Kurumuna gönderilir. Yazısı gelmeyen ve usulüne uygun gönderilmeyen koliler teslim alınmaz.
+d) **(Değişik:RG-27/6/2009-27271)** Adlî Tıp Kurumuna Tahlil ve Tetkik için gönderilecek materyallere ilişkin kolilerin yazısı, önceden Adlî Tıp Kurumuna gönderilir. Yazısı gelmeyen ve usulüne uygun gönderilmeyen koliler teslim alınmaz.
 
 e) Dairelere evrakı ile birlikte verilen koli veya zarflar (Koli veya zarfların mühürleri, kapatılış şekilleri ve ağızlarının bağlanış biçimleri bu Yönetmeliğin 19 uncu maddesinde belirtildiği gibi olması gereklidir.) şube müdürü veya ilgili uzman ile şubede bulunan laborant veya teknisyen ve varsa memur önünde açılır ve bir tutanak tutularak yukarıda adı geçenler tarafından imzalanır.
 
@@ -376,9 +376,9 @@ b) Balistik şubesi,
 
 c) Adlî astronomi şubesi,
 
-d) (Mülga:RG-25/11/2016-29899)
+d) **(Mülga:RG-25/11/2016-29899)**
 
-e) (MülgaRG-25/11/2016-29899)
+e) **(MülgaRG-25/11/2016-29899)**
 
 f) İz incelemeleri şubesi.
 
@@ -480,7 +480,7 @@ f) Trafik kazalarının önlenmesine yönelik bilimsel çalışmalar yapılır.
 
 ### BEŞİNCİ BÖLÜM
 
-Adlî Tıp Kurumu Grup Başkanlıkları, Görevleri, Çalışma, Usul ve Esasları
+**Adlî Tıp Kurumu Grup Başkanlıkları, Görevleri, Çalışma, Usul ve Esasları**
 
 #### Kuruluş, Görev, Çalışma, Usul ve Esasları
 
@@ -492,7 +492,7 @@ Grup başkanlıkları ve başkanlığa dahil ihtisas daire ve şubeleri, bu Yön
 
 ### ALTINCI BÖLÜM
 
-Adlî Tıp Şube Müdürlükleri
+**Adlî Tıp Şube Müdürlükleri**
 
 #### Kuruluş
 
@@ -526,7 +526,7 @@ k) Yükseköğretim Kurumlarında muayene edilen kişilere hazırlanan raporlar 
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Adlî Tıp Kurumuna Ait Müşterek Hükümler
 
@@ -624,7 +624,7 @@ Kolinin üzerine gideceği yer adresi ile gönderen Cumhuriyet savcılığı ve 
 
 Biyoloji ihtisas dairesine incelenmek üzere gönderilecek biyolojik materyaller aşağıdaki koşullarda toplanmalı ve gönderilmelidir :
 
-a) (Değişik:RG-19/1/2012-28178) Mahkeme ve Cumhuriyet savcılıkları tarafından nesep tayini için gönderilen şahısların, son altı ay içinde çekilmiş ve mahkeme veya Cumhuriyet savcılıklarınca onaylanıp usulüne uygun zarflanmış ikişer adet vesikalık fotoğraflarını getirerek nüfus cüzdanlarıyla birlikte mesai gün ve saatlerinde başvurmaları,
+a) **(Değişik:RG-19/1/2012-28178)** Mahkeme ve Cumhuriyet savcılıkları tarafından nesep tayini için gönderilen şahısların, son altı ay içinde çekilmiş ve mahkeme veya Cumhuriyet savcılıklarınca onaylanıp usulüne uygun zarflanmış ikişer adet vesikalık fotoğraflarını getirerek nüfus cüzdanlarıyla birlikte mesai gün ve saatlerinde başvurmaları,
 
 b) Nesep tayini için ilgili şahısların bizzat gönderilememesi halinde; en az 5 ml olacak şekilde kapaklı, antikoagülan içeren (EDTA lı) tüplere kan örneklerinin alınması ve tüpün alt üst edilerek karıştırılması (pıhtılaşmayı önlemek için), dik pozisyonda naklini sağlamak için sabitleyici içine yerleştirilerek en kısa zamanda, kurye ile birlikte soğuk taşıma zincirine uyularak (plastik buz paketi içeren termos içinde) Biyoloji İhtisas Dairesine gönderilmesi, bu koşulların yerine getirilememesi halinde; emici vasıfta pamuklu beyaz bez üzerine 8-10 damla kan damlatılarak oluşturulan lekenin oda ısısında, güneş ışınlarından uzak, tozsuz, temiz bir ortamda doğal seyriyle kurutularak beyaz kağıda sarılmasını müteakiben zarflanıp etiket bilgileri yazılarak biyoloji ihtisas dairesine gönderilmesi,
 
@@ -672,7 +672,7 @@ Alındığı anda numunenin sıcaklık derecesi yazılmalıdır.
 
 a) Trafik Kazası olayının meydana gelme saatinden itibaren derhal ve en kısa sürede Adlî Tıp Kurumuna veya grup başkanlığına solunum havasında alkol veya vücutlarında narkotik madde incelemesi için kimlikli olarak Cumhuriyet savcılıklarınca yada Cumhuriyet savcısı yerine mahalli karakollarca bir yazı ile gönderilir.
 
-b) (Değişik:RG-19/1/2012-28178) Trafik kazaları dışındaki sebebi anlaşılamayan her türlü olgularda kişilerin solunum havalarında alkol veya vücudundaki herhangi bir narkotik madde tespiti için kan veya idrar örnekleri alınmak üzere kimlikleri ile, kimlikleri yoksa bu durum resmi yazıda belirtilerek kimlik tespitine ilişkin düzenlenecek belge ve güvenlik görevlisiyle birlikte olayın meydana gelme saatinden itibaren derhal ve en kısa süre içinde savcılıklarca veya savcı yerine mahalli karakollarca gönderilir.
+b) **(Değişik:RG-19/1/2012-28178)** Trafik kazaları dışındaki sebebi anlaşılamayan her türlü olgularda kişilerin solunum havalarında alkol veya vücudundaki herhangi bir narkotik madde tespiti için kan veya idrar örnekleri alınmak üzere kimlikleri ile, kimlikleri yoksa bu durum resmi yazıda belirtilerek kimlik tespitine ilişkin düzenlenecek belge ve güvenlik görevlisiyle birlikte olayın meydana gelme saatinden itibaren derhal ve en kısa süre içinde savcılıklarca veya savcı yerine mahalli karakollarca gönderilir.
 
 c) Adlî Tıp Kurumuna veya grup başkanlıklarına alkol muayenesine gönderilemeyecek durumda olanlar ile hastanelerde tedavi altında olan şahısların alkol durumlarını veya vücutlarındaki narkotik maddeleri tespit için, olayın oluş saatinden itibaren derhal ve en kısa süre içinde usulüne uygun şekilde kan alınır ve kanı alan sağlık kuruluşu tarafından Kan Alma Tutanağı düzenlenir. Bu tutanakta sağlık kuruluşunun adı, kanı alınan şahsın adı, soyadı, olayın oluş şekli, olayın tarihi ve saati, kanın şahıstan alındığı tarih, saat, kan miktarı, kanı alan sağlık görevlisinin adı-soyadı, imzası ile sağlık kuruluşunun yetkilisinin adı-soyadı, imzası bulunur ve sağlık kuruluşunun mührü ile mühürlenir. Alınan kan uygun tüplere alınır ve güvenlik görevlisi ile bir yazı ekinde sağlık kuruluşunun düzenlediği kan alma tutanağı ile birlikte kan tüpü güvenlik bantlı veya mühürlü olarak Adlî Tıp Kurumuna veya grup başkanlıklarına 24 saat içinde savcılıklarca veya savcı yerine mahalli karakollarca gönderilir ve tutanakla teslim edilir.
 
@@ -710,7 +710,7 @@ Atama işleminin kendilerine tebliğ tarihinden itibaren ilgili mevzuatta öngö
 
 b) Adlî tıp asistanlarının yetiştirilmesi
 
-1) (Değişik: RG-08/06/2007-26546) Adli tıp asistanlarının eğitim programları ve rotasyon sürelerinin saptanması, Adlî Tıp Kurumu’nda bilimsel araştırma ve tez çalışmalarını yürütmek için yapılacak başvurularının değerlendirilmesi ve bu çalışmalara gerekli iznin verilmesi konularından sorumlu olması amacıyla Adlî Tıp Kurumu Eğitim ve Bilimsel Araştırma Komisyonu kurulur. Ayrıca, Adlî Tıp Kurumunda gerçekleştirilecek bilimsel araştırmaları ve uzmanlık tez çalışmalarının tıbbi etik açısından yeterliliğini sağlamak amacıyla Adlî Tıp Etik Kurulu kurulur.
+1) **(Değişik: RG-08/06/2007-26546)** Adli tıp asistanlarının eğitim programları ve rotasyon sürelerinin saptanması, Adlî Tıp Kurumu’nda bilimsel araştırma ve tez çalışmalarını yürütmek için yapılacak başvurularının değerlendirilmesi ve bu çalışmalara gerekli iznin verilmesi konularından sorumlu olması amacıyla Adlî Tıp Kurumu Eğitim ve Bilimsel Araştırma Komisyonu kurulur. Ayrıca, Adlî Tıp Kurumunda gerçekleştirilecek bilimsel araştırmaları ve uzmanlık tez çalışmalarının tıbbi etik açısından yeterliliğini sağlamak amacıyla Adlî Tıp Etik Kurulu kurulur.
 
 Adlî Tıp Kurumu Eğitim ve Bilimsel Araştırma Komisyonu ve Adlî Tıp Kurumu Etik Kurulu, Adlî Tıp Kurumu Başkanlar Kurulunun, Adlî Tıp Kurumunda veya üniversitelerde görev yapan akademik unvanlı personel arasından seçeceği en az sekiz üye ile Adli Tıp Kurumu Başkanından oluşur. Adlî Tıp Kurumu Başkanı, Adlî Tıp Kurumu Eğitim ve Bilimsel Araştırma Komisyonu ve Adlî Tıp Kurumu Etik Kuruluna başkanlık eder.
 
@@ -726,7 +726,7 @@ Adlî Tıp Kurumu Eğitim ve Bilimsel Araştırma Komisyonu ve Adlî Tıp Kurumu
 
 Asistanlıkla ilişkisi kesilenlerin aynı zamanda Kurum ile de ilişkileri kesilir.
 
-5) (Değişik: RG-08/06/2007-26546) Asistanlık süresi bitiminde uzmanlık sınavı yapılır. Uzmanlık sınavına girebilmek için 14/5/2002 tarihli ve 2002/4198 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Tıpta Uzmanlık Tüzüğü’nde belirtilen şartlar aranır.
+5) **(Değişik: RG-08/06/2007-26546)** Asistanlık süresi bitiminde uzmanlık sınavı yapılır. Uzmanlık sınavına girebilmek için 14/5/2002 tarihli ve 2002/4198 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Tıpta Uzmanlık Tüzüğü’nde belirtilen şartlar aranır.
 
 Uzmanlık sınavında iki kez başarısız olanların asistanlıkla ilişkileri kesilir.
 
@@ -738,7 +738,7 @@ Uzmanlık sınavında iki kez başarısız olanların asistanlıkla ilişkileri 
 
 9) Adli Tıp Kurumu, adli tıp uzmanı olan kişilere, Tıpta Uzmanlık Tüzüğüne ekli çizelgede belirtilen yan dallarda, yan dal uzmanlık eğitimi verebilir.
 
-c) (Mülga: RG-08/06/2007-26546)
+c) **(Mülga: RG-08/06/2007-26546)**
 
 #### Adlî Tıp Genel Kurulunun Çalışma Usulüne Ait Genel Hükümler
 
@@ -802,7 +802,7 @@ h) Adlî Tıp Kurumuna tetkik ve tahlil için elden gönderilen koliler mühürs
 
 ı) Adlî Tıp Kurumuna tahlil ve tetkik için gönderilen dökülecek, akacak, batıcı, patlayıcı, kesici materyaller zarar görmeyecek bir şekilde gönderilmelidir.
 
-j) (Değişik:RG-27/6/2009-27271) Adlî Tıp Kurumuna tahlil ve tetkik için gönderilecek materyallere ilişkin kolilerin yazısı, önceden Adlî Tıp Kurumuna gönderilir. Moleküler Genetik İnceleme yapılması istenilen materyallere ilişkin kolilerin yazısı ise, hakim kararı ile birlikte gönderilir. Yazısı gelmeyen ve usulüne uygun gönderilmeyen koliler teslim alınmaz.
+j) **(Değişik:RG-27/6/2009-27271)** Adlî Tıp Kurumuna tahlil ve tetkik için gönderilecek materyallere ilişkin kolilerin yazısı, önceden Adlî Tıp Kurumuna gönderilir. Moleküler Genetik İnceleme yapılması istenilen materyallere ilişkin kolilerin yazısı ise, hakim kararı ile birlikte gönderilir. Yazısı gelmeyen ve usulüne uygun gönderilmeyen koliler teslim alınmaz.
 
 k) Tetkik ve tahlil için usulüne uygun gönderilen materyal evrakı ile birlikte emanet memuru tarafından teslim alınır.
 

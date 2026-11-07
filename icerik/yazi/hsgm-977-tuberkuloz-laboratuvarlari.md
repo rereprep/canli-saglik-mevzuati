@@ -29,7 +29,7 @@ b) Bulaşıcı Hastalıklar Kontrol Programları Başkan Yardımcılığının 1
 
 Bu kapsamda, HSL bünyesinde yapılanması gereken Bölge Tüberküloz Tanı Laboratuvarlarının personel ve ekipmanları ile birlikte HSL'ye devrinin yapılıp yapılmadığı konusunda ekte gönderilen Ek 1'in doldurularak 07.03.2016 tarihine kadar gönderilmesi hususunda gereğini rica ederim.
 
-EKLER:
+**EKLER:**
 
 1- Tüberküloz Laboratuvarları Ek 1
 

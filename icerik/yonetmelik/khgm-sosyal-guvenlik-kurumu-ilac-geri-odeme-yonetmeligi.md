@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç ve kapsam
 
@@ -32,7 +32,7 @@ Başlangıç Hükümleri
 
 (1) Bu Yönetmelikte geçen;
 
-a) (Değişik:RG-3/10/2026-33389) Ödenebilecek birim bedel aralığı: Kamu kurum iskontoları ile hesaplanan kamu fiyatı üzerinden iç referans grup/eşdeğer gruptaki ilaçların ortak en küçük birimi başına düşen “indirimli birim bedeller” karşılaştırılarak bulunan en ucuz birim bedele Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından tespit edilen oranın ilave edilmesiyle belirlenen ödenebilecek aralığı,
+a) **(Değişik:RG-3/10/2026-33389)** Ödenebilecek birim bedel aralığı: Kamu kurum iskontoları ile hesaplanan kamu fiyatı üzerinden iç referans grup/eşdeğer gruptaki ilaçların ortak en küçük birimi başına düşen “indirimli birim bedeller” karşılaştırılarak bulunan en ucuz birim bedele Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından tespit edilen oranın ilave edilmesiyle belirlenen ödenebilecek aralığı,
 
 b) Birim fiyat: Bir ilacın kamu fiyatının ambalaj miktarına bölünmesiyle oluşan fiyatı,
 
@@ -54,7 +54,7 @@ h) Gizlilik ve Etik Kurallar Belgesi: Komisyonlara katılacak asıl, yedek ve g�
 
 ı) Gözlemci üye: Tıbbi ve Ekonomik Değerlendirme Komisyonuna katılan, oy kullanma hakkına sahip olmayan ilaç sektörü temsilcilerini,
 
-i) (Değişik:RG-3/10/2026-33389) İç referans grubu: Akılcı ilaç kullanımı çerçevesinde Sağlık Bakanlığının da yer aldığı bu Yönetmelik kapsamında oluşturulan komisyonlar tarafından belirlenen eşdeğer grupları da kapsayan grubu,
+i) **(Değişik:RG-3/10/2026-33389)** İç referans grubu: Akılcı ilaç kullanımı çerçevesinde Sağlık Bakanlığının da yer aldığı bu Yönetmelik kapsamında oluşturulan komisyonlar tarafından belirlenen eşdeğer grupları da kapsayan grubu,
 
 j) İlaç: İnsanlardaki hastalığı tedavi edici veya önleyici özelliklere sahip olarak sunulan veya farmakolojik, immünolojik veya metabolik etki göstererek fizyolojik fonksiyonları düzeltmek, iyileştirmek, değiştirmek veya tıbbi teşhis amacıyla insanlarda kullanılan veya insana uygulanan madde veya maddeler kombinasyonunu,
 
@@ -70,7 +70,7 @@ o) Kurum Başkanı: Sosyal Güvenlik Kurumu Başkanını,
 
 ö) Liste: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği ekinde ve/veya Kurum resmî internet sitesinde yayımlanan ilaç ile ilgili listeleri,
 
-p) (Değişik:RG-3/10/2026-33389) İlaç pazar oranı: Hastalar ve eczaneler tarafından ilaca ulaşılabilirliği artırmak amacıyla Kurum tarafından ödemesi yapılan ilaçlardan; her bir ilacın kutu sayısının, içinde bulunduğu iç referans grup/eşdeğer gruptaki ilaçların toplam kutu sayısına oranını,
+p) **(Değişik:RG-3/10/2026-33389)** İlaç pazar oranı: Hastalar ve eczaneler tarafından ilaca ulaşılabilirliği artırmak amacıyla Kurum tarafından ödemesi yapılan ilaçlardan; her bir ilacın kutu sayısının, içinde bulunduğu iç referans grup/eşdeğer gruptaki ilaçların toplam kutu sayısına oranını,
 
 r) Referans tıbbi ürün: Bilimsel olarak kabul edilebilir etkililik, kalite ve güvenliliğe sahip olduğu kanıtlanmış, etkin madde/maddeler açısından dünyada piyasaya ilk defa sunulmak üzere ruhsatlandırılmış veya izin verilmiş beşeri tıbbi ürünü,
 
@@ -90,13 +90,13 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-İlaç Geri Ödeme Komisyonu
+**İlaç Geri Ödeme Komisyonu**
 
 #### İlaç Geri Ödeme Komisyonunun oluşumu
 
 **MADDE 4 –** (1) İlaç Geri Ödeme Komisyonu aşağıda belirtilen şekilde teşekkül eder:
 
-a) İlaç Geri Ödeme Komisyonu; Kurum Genel Sağlık Sigortası Genel Müdürü başkanlığında, Kurum Başkanının görevlendireceği Genel Sağlık Sigortası Genel Müdürlüğü bünyesinde görevli biri İlaç Daire Başkanı olmak üzere 3 daire başkanı, (Değişik ibare:RG-28/11/2024-32736) Hazine ve Maliye Bakanlığının görevlendireceği en az daire başkanı düzeyinde 3 temsilci, Sağlık Bakanlığının görevlendireceği en az daire başkanı düzeyinde 2 temsilci ile Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığının görevlendireceği en az daire başkanı düzeyinde 1 temsilcinin katılımıyla (Değişik ibare:RG-28/11/2024-32736) 10 asıl üyeden oluşur.
+a) İlaç Geri Ödeme Komisyonu; Kurum Genel Sağlık Sigortası Genel Müdürü başkanlığında, Kurum Başkanının görevlendireceği Genel Sağlık Sigortası Genel Müdürlüğü bünyesinde görevli biri İlaç Daire Başkanı olmak üzere 3 daire başkanı, **(Değişik ibare:RG-28/11/2024-32736)** Hazine ve Maliye Bakanlığının görevlendireceği en az daire başkanı düzeyinde 3 temsilci, Sağlık Bakanlığının görevlendireceği en az daire başkanı düzeyinde 2 temsilci ile Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığının görevlendireceği en az daire başkanı düzeyinde 1 temsilcinin katılımıyla **(Değişik ibare:RG-28/11/2024-32736)** 10 asıl üyeden oluşur.
 
 b) İlaç Geri Ödeme Komisyonu Başkanının katılamayacağı toplantılara başkanlık etmek üzere Kurum Genel Sağlık Sigortası genel müdür yardımcılarından biri İlaç Geri Ödeme Komisyonu Başkanı tarafından görevlendirilir. İlaç Geri Ödeme Komisyonu Başkanının katılamayacağı toplantılara görevlendirilmiş olan genel müdür yardımcısı aynı yetkilerle başkanlık eder.
 
@@ -116,9 +116,9 @@ c) Temininde güçlük yaşanan ve hayati önem arz eden ya da halk sağlığın
 
 ç) Kurumca finansmanı sağlanan ilaçlar ile finansmanının sağlanılması talebinde bulunulan ilaçların katılım payından muafiyeti konusunu değerlendirerek karara bağlamak.
 
-d) Kurumca finansmanı sağlanan ilaçların bütçe üzerindeki etkilerini, (Değişik ibare:RG-3/10/2026-33389) Medula verilerini, klinik ve teknik veriler ile ekonomik ve mali değerlendirmelerini dikkate alarak ödeme listesinden çıkarılmasına, mevcut ödeme koşullarının yeniden düzenlenmesine yönelik karar almak.
+d) Kurumca finansmanı sağlanan ilaçların bütçe üzerindeki etkilerini, **(Değişik ibare:RG-3/10/2026-33389)** Medula verilerini, klinik ve teknik veriler ile ekonomik ve mali değerlendirmelerini dikkate alarak ödeme listesinden çıkarılmasına, mevcut ödeme koşullarının yeniden düzenlenmesine yönelik karar almak.
 
-e) (Değişik:RG-3/10/2026-33389) Kurumca finansmanı sağlanan ilaçlar ile finansmanının sağlanılması talebinde bulunulan ilaçların akılcı ilaç kullanımı çerçevesinde iç referans grup/eşdeğer grup oluşturulması yönünde karar almak.
+e) **(Değişik:RG-3/10/2026-33389)** Kurumca finansmanı sağlanan ilaçlar ile finansmanının sağlanılması talebinde bulunulan ilaçların akılcı ilaç kullanımı çerçevesinde iç referans grup/eşdeğer grup oluşturulması yönünde karar almak.
 
 f) İlaç Geri Ödeme Komisyonu Başkanı tarafından bu Yönetmelik hükümlerine göre önceliklendirilmesi uygun görülen ilaçları ve konuları aynı dönemdeki diğer başvuruların sonuçlandırılması beklenilmeden gerektiğinde olağan/olağanüstü toplantıda değerlendirerek karara bağlamak.
 
@@ -136,7 +136,7 @@ b) Tıbbi ve Ekonomik Değerlendirme Komisyonunda Kurumu temsil eden üyeler ile
 
 c) Temininde güçlük yaşanan ve hayati önem arz eden ilaçlar, halk sağlığını yakından ilgilendiren ve acil tedbir alınmasını gerektiren konular, Kurumca yayımlanan Yurt Dışı İlaç Fiyat Listesinde yer alan ilaçlardan ruhsatlandırılarak listeye ilave talebinde bulunulan ilaçlar ve bu ilaçlarla aynı etkin maddeyi aynı miktarda içeren aynı veya benzer farmasötik şekildeki ilaçlar hakkında ve TEDK Başkanının gerekçeli önerilerini içeren diğer konuları İlaç Geri Ödeme Komisyonunun olağan/olağanüstü toplantısında kararlaştırılması yönünde oluşturulan görüşleri değerlendirerek önceliklendirilmesini onaylamak.
 
-ç) (Değişik ibare:RG-28/11/2024-32736) Listede (Ek ibare:RG-3/10/2026-33389) iç referans grup/eşdeğer (Değişik ibare:RG-28/11/2024-32736) grubu bulunmayan referans tıbbi ürünün Listeye ilave talebinde bulunulan ilk biyobenzer tıbbi ürün için İlaç Geri Ödeme Komisyonunun olağan/olağanüstü toplantısında kararlaştırılması yönünde oluşturulan görüşleri değerlendirerek önceliklendirilmesini onaylamak.
+ç) **(Değişik ibare:RG-28/11/2024-32736)** Listede **(Ek ibare:RG-3/10/2026-33389)** iç referans grup/eşdeğer **(Değişik ibare:RG-28/11/2024-32736)** grubu bulunmayan referans tıbbi ürünün Listeye ilave talebinde bulunulan ilk biyobenzer tıbbi ürün için İlaç Geri Ödeme Komisyonunun olağan/olağanüstü toplantısında kararlaştırılması yönünde oluşturulan görüşleri değerlendirerek önceliklendirilmesini onaylamak.
 
 d) TEDK tarafından karara bağlanarak Kurum resmî internet sitesinde duyurulacak başvurularla ilgili kararları onaylamak.
 
@@ -148,7 +148,7 @@ f) İlaç Geri Ödeme Komisyonu tarafından alınan nihai kararları Kurum Başk
 
 **MADDE 7 –** (1) İlaç Geri Ödeme Komisyonunun çalışma esasları aşağıda belirtilmiştir:
 
-a) (Değişik:RG-28/11/2024-32736) Yılda en az 3 defa olağan, İlaç Geri Ödeme Komisyonu Başkanının daveti üzerine ise olağanüstü toplanır. Komisyon çalışma dönemlerine ait son başvuru tarihleri, her yılın Mart, Temmuz ve Kasım aylarının son iş günüdür.
+a) **(Değişik:RG-28/11/2024-32736)** Yılda en az 3 defa olağan, İlaç Geri Ödeme Komisyonu Başkanının daveti üzerine ise olağanüstü toplanır. Komisyon çalışma dönemlerine ait son başvuru tarihleri, her yılın Mart, Temmuz ve Kasım aylarının son iş günüdür.
 
 b) Firma başvuruları dışında, kurum ve kuruluşlar ile şahıslar tarafından yapılacak başvurular çalışma dönemine göre gündeme alınır.
 
@@ -172,7 +172,7 @@ h) İlaç Geri Ödeme Komisyonu, ihtiyaç duyulan ilaç/ilaç grupları ile ilgi
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Tıbbi ve Ekonomik Değerlendirme Komisyonu
+**Tıbbi ve Ekonomik Değerlendirme Komisyonu**
 
 #### Tıbbi ve Ekonomik Değerlendirme Komisyonu (TEDK)’nun oluşumu
 
@@ -190,9 +190,9 @@ a) Kurum İlaç Daire Başkanı başkanlığında;
 
 5) İlaç Geri Ödeme Komisyonu Başkanınca belirlenecek biri tabip, diğeri halk sağlığı veya farmakoloji veya sağlık ekonomisi alanında görev yapan bir akademisyen olmak üzere 2 üye,
 
-6) İlaç Endüstrisi İşverenleri Sendikası, Türkiye İlaç Sanayi Derneği, Araştırmacı İlaç Firmaları Derneği (Ek ibare:RG-3/10/2026-33389) , İlaç, Eczacılık, Sağlık Bilim ve Teknolojileri Vakfı ve Gelişimci İlaç Firmaları Derneğini temsilen ilgili kuruluşlar tarafından belirlenmiş birer gözlemci üye,
+6) İlaç Endüstrisi İşverenleri Sendikası, Türkiye İlaç Sanayi Derneği, Araştırmacı İlaç Firmaları Derneği **(Ek ibare:RG-3/10/2026-33389)** , İlaç, Eczacılık, Sağlık Bilim ve Teknolojileri Vakfı ve Gelişimci İlaç Firmaları Derneğini temsilen ilgili kuruluşlar tarafından belirlenmiş birer gözlemci üye,
 
-olmak üzere 13 asıl ve (Değişik ibare:RG-3/10/2026-33389) 5 gözlemci üyeden oluşur.
+olmak üzere 13 asıl ve **(Değişik ibare:RG-3/10/2026-33389)** 5 gözlemci üyeden oluşur.
 
 b) TEDK Başkanı hariç olmak üzere üye sayısı kadar da yedek üye belirlenir.
 
@@ -218,21 +218,21 @@ c) Listede yer alan veya listeye alınma talebi bulunan ilaçlar ile ilgili klin
 
 ç) İlaç Geri Ödeme Komisyonu Başkanı tarafından bu Yönetmelik hükümlerine göre önceliklendirilmesi uygun görülen ve TEDK Başkanı tarafından sunulan ilaçları ve konuları değerlendirerek görüş oluşturmak.
 
-d) Kurumca finansmanı sağlanan ilaçların (Değişik ibare:RG-3/10/2026-33389) Medula verileri ile bütçe üzerindeki etkileri hakkında hazırlanan raporları, klinik ve teknik veriler ile ekonomik ve mali değerlendirmeleri ve gerektiğinde Sağlık Hizmetleri Bilimsel ve Akademik Danışmanlık Komisyonunun görüşlerini de dikkate alarak görüş oluşturmak.
+d) Kurumca finansmanı sağlanan ilaçların **(Değişik ibare:RG-3/10/2026-33389)** Medula verileri ile bütçe üzerindeki etkileri hakkında hazırlanan raporları, klinik ve teknik veriler ile ekonomik ve mali değerlendirmeleri ve gerektiğinde Sağlık Hizmetleri Bilimsel ve Akademik Danışmanlık Komisyonunun görüşlerini de dikkate alarak görüş oluşturmak.
 
 e) İlgili kurum ve kuruluşların veya şahısların başvuruları ile ilgili yapılacak düzenlemelere ilişkin önerileri değerlendirerek görüş oluşturmak.
 
 f) Ruhsat iptali/ruhsat arkası şerhi veya ithal/imal izin onay belgesi iptaline istinaden yapılanlar hariç olmak üzere firmaların listeden çıkarılma başvurularını, Kurum tespitlerini, Sağlık Bakanlığının veya ilgili kurum ve kuruluşların başvurularını değerlendirerek görüş oluşturmak.
 
-g) (Değişik:RG-3/10/2026-33389) Kurumca finansmanı sağlanan ilaçlar ile finansmanının sağlanılması talebinde bulunulan ilaçların, akılcı ilaç kullanımı çerçevesinde iç referans grup/eşdeğer grup oluşturulması hakkında görüş oluşturmak.
+g) **(Değişik:RG-3/10/2026-33389)** Kurumca finansmanı sağlanan ilaçlar ile finansmanının sağlanılması talebinde bulunulan ilaçların, akılcı ilaç kullanımı çerçevesinde iç referans grup/eşdeğer grup oluşturulması hakkında görüş oluşturmak.
 
 ğ) İlaçların reçetelenmesine ve ödenmesine ilişkin kuralların belirlenmesi ve ilaçların katılım payından muafiyeti konusunda görüş oluşturmak.
 
 h) Listede mevcut ürünlerin kısa ürün bilgisi-kullanma talimatı (KÜB-KT) ve/veya kullanım değişikliklerine ilişkin başvuruları değerlendirerek görüş oluşturmak.
 
-ı) (Değişik:RG-28/11/2024-32736) İlacın, aynı (Ek ibare:RG-3/10/2026-33389) iç referans grup/eşdeğer grupta yer alan ilaçlarla ambalaj miktarının aynı veya daha düşük olması ve birim fiyatının da (Değişik ibare:RG-3/10/2026-33389) ödenebilecek birim bedel aralığında olması halinde, bu ilaç başvurularını değerlendirmeye alarak karara bağlamak ve alınan kararları İlaç Geri Ödeme Komisyonu Başkanının onayı ile Kurum resmî internet sitesinde yayımlamak. Bu değerlendirme, değerlendirme tarihindeki ilaç fiyatları esas alınarak yapılır, firmanın başvuru dosyasındaki kamu fiyatını güncelleme hakkı saklıdır. Güncelleme işlemi ilacın perakende satış fiyatı üzerinden yapılabileceği gibi kamu kurum iskontosunun yeniden düzenlenmesi suretiyle de yapılabilir.
+ı) **(Değişik:RG-28/11/2024-32736)** İlacın, aynı **(Ek ibare:RG-3/10/2026-33389)** iç referans grup/eşdeğer grupta yer alan ilaçlarla ambalaj miktarının aynı veya daha düşük olması ve birim fiyatının da **(Değişik ibare:RG-3/10/2026-33389)** ödenebilecek birim bedel aralığında olması halinde, bu ilaç başvurularını değerlendirmeye alarak karara bağlamak ve alınan kararları İlaç Geri Ödeme Komisyonu Başkanının onayı ile Kurum resmî internet sitesinde yayımlamak. Bu değerlendirme, değerlendirme tarihindeki ilaç fiyatları esas alınarak yapılır, firmanın başvuru dosyasındaki kamu fiyatını güncelleme hakkı saklıdır. Güncelleme işlemi ilacın perakende satış fiyatı üzerinden yapılabileceği gibi kamu kurum iskontosunun yeniden düzenlenmesi suretiyle de yapılabilir.
 
-i) (Değişik:RG-28/11/2024-32736) Aynı veya daha düşük ambalaj miktarında olmak kaydıyla; listede eşdeğer grubu bulunmayan ilaç ile aynı etkin maddeyi aynı miktarda içeren ve birim fiyatı listede mevcut ilaç ile oluşacak (Değişik ibare:RG-3/10/2026-33389) ödenebilecek birim bedel aralığında olan imal statüsündeki ilaç başvurularını değerlendirmeye alarak karara bağlamak, alınan kararları İlaç Geri Ödeme Komisyonu Başkanının onayı ile Kurum resmî internet sitesinde yayımlamak. Bu değerlendirme, değerlendirme tarihindeki ilaç fiyatları esas alınarak yapılır, firmanın başvuru dosyasındaki kamu fiyatını güncelleme hakkı saklıdır. Güncelleme işlemi ilacın perakende satış fiyatı üzerinden yapılabileceği gibi kamu kurum iskontosunun yeniden düzenlenmesi suretiyle de yapılabilir.
+i) **(Değişik:RG-28/11/2024-32736)** Aynı veya daha düşük ambalaj miktarında olmak kaydıyla; listede eşdeğer grubu bulunmayan ilaç ile aynı etkin maddeyi aynı miktarda içeren ve birim fiyatı listede mevcut ilaç ile oluşacak **(Değişik ibare:RG-3/10/2026-33389)** ödenebilecek birim bedel aralığında olan imal statüsündeki ilaç başvurularını değerlendirmeye alarak karara bağlamak, alınan kararları İlaç Geri Ödeme Komisyonu Başkanının onayı ile Kurum resmî internet sitesinde yayımlamak. Bu değerlendirme, değerlendirme tarihindeki ilaç fiyatları esas alınarak yapılır, firmanın başvuru dosyasındaki kamu fiyatını güncelleme hakkı saklıdır. Güncelleme işlemi ilacın perakende satış fiyatı üzerinden yapılabileceği gibi kamu kurum iskontosunun yeniden düzenlenmesi suretiyle de yapılabilir.
 
 j) Başvuru sırasında istenilecek bilgi ve belgelerin standartlarının belirlenmesi, bunlara ilişkin formların geliştirilmesi ve yenilenmesi konularında görüş oluşturmak.
 
@@ -248,7 +248,7 @@ c) TEDK tarafından oluşturulan görüşlerin İlaç Geri Ödeme Komisyonuna il
 
 ç) Temininde güçlük yaşanan ve hayati önem arz eden ilaçlar, halk sağlığını yakından ilgilendiren ve acil tedbir alınmasını gerektiren konular ile Kurumca yayımlanan Yurt Dışı İlaç Fiyat Listesinde yer alan ilaçlardan ruhsatlandırılarak listeye ilave talebinde bulunulan ilaçlar ve bu ilaçlarla aynı etkin maddeyi aynı miktarda içeren aynı veya benzer farmasötik formdaki ilaçlar ile gerekçeli önerileri içeren diğer konuları İlaç Geri Ödeme Komisyonunun olağan/olağanüstü toplantısında kararlaştırılması amacıyla İlaç Geri Ödeme Komisyonu Başkanına sunmak.
 
-d) (Değişik:RG-28/11/2024-32736) Listede (Ek ibare:RG-3/10/2026-33389) iç referans grup/eşdeğer grubu bulunmayan referans tıbbi ürünün Listeye ilave talebinde bulunulan ilk biyobenzer tıbbi ürünü için İlaç Geri Ödeme Komisyonunun olağan/olağanüstü toplantısında kararlaştırılması amacıyla İlaç Geri Ödeme Komisyonu Başkanına sunmak.
+d) **(Değişik:RG-28/11/2024-32736)** Listede **(Ek ibare:RG-3/10/2026-33389)** iç referans grup/eşdeğer grubu bulunmayan referans tıbbi ürünün Listeye ilave talebinde bulunulan ilk biyobenzer tıbbi ürünü için İlaç Geri Ödeme Komisyonunun olağan/olağanüstü toplantısında kararlaştırılması amacıyla İlaç Geri Ödeme Komisyonu Başkanına sunmak.
 
 e) Sekretarya tarafından yapılan iş ve işlemlerin yürütümünü sağlamak.
 
@@ -284,39 +284,39 @@ değerlendirilir. Bu değerlendirmeler sonucu yapılan düzenlemeler her hafta �
 
 (2) Karşılaştırılacak ilaç/ilaçlarla aynı veya daha düşük ambalaj miktarında olmak kaydıyla;
 
-a) Dahil olacağı (Ek ibare:RG-3/10/2026-33389) iç referans grup/eşdeğer (Değişik ibare:RG-28/11/2024-32736) grupta bulunan birim fiyatı değerlendirme tarihinde en ucuz olan ilacın en az %5 altında birim fiyata sahip ilaçların,
+a) Dahil olacağı **(Ek ibare:RG-3/10/2026-33389)** iç referans grup/eşdeğer **(Değişik ibare:RG-28/11/2024-32736)** grupta bulunan birim fiyatı değerlendirme tarihinde en ucuz olan ilacın en az %5 altında birim fiyata sahip ilaçların,
 
 b) Aynı etkin maddeyi aynı miktarda içeren ve eşdeğer grubu bulunmayan listedeki ilaç ile eşdeğer grup oluşturacak nitelikte ve değerlendirme tarihindeki birim fiyatı, listede mevcut ilacın birim fiyatının en az %5 altında birim fiyata sahip ilaçların,
 
 c) Aynı etkin maddeyi aynı miktarda içeren ve eşdeğer grubu bulunmayan, listedeki referans tıbbi ürünün değerlendirme tarihinde birim fiyatını aşmayan ilk eşdeğer tıbbi ürünün,
 
-ç) Dahil olacağı (Ek ibare:RG-3/10/2026-33389) iç referans grup/eşdeğer (Değişik ibare:RG-28/11/2024-32736) grupta bulunan değerlendirme tarihindeki en ucuz birim fiyata sahip ilacın, birim fiyatına eşit veya daha düşük birim fiyatla bedeli ödenecek ilaçlar listesine girecek ilk imal ilaçların,
+ç) Dahil olacağı **(Ek ibare:RG-3/10/2026-33389)** iç referans grup/eşdeğer **(Değişik ibare:RG-28/11/2024-32736)** grupta bulunan değerlendirme tarihindeki en ucuz birim fiyata sahip ilacın, birim fiyatına eşit veya daha düşük birim fiyatla bedeli ödenecek ilaçlar listesine girecek ilk imal ilaçların,
 
 d) Aynı etkin maddeyi aynı miktarda içeren ve eşdeğer grubu bulunmayan listedeki ilaç ile eşdeğer grup oluşturacak nitelikte ve değerlendirme tarihindeki birim fiyatı, listede mevcut ilacın birim fiyatını aşmayan imal statüsündeki ilaçların,
 
-başvuruları Sekretarya tarafından değerlendirilir. (Değişik ikinci cümle:RG-3/10/2026-33389) Bu maddeler kapsamında yapılan ilaç başvuruları sırasında dağıtım belgesinin Kuruma ibraz edilmesi gerekir. Yapılan değerlendirmeler sonucunda listeye ilavesine karar verilen ilaçlar her hafta çarşamba günü Kurum resmî internet sitesinde yayımlanır. Çarşamba gününün resmî tatil olması halinde bir sonraki iş günü yayımlanır. Yayımlanan liste yayımı tarihini takip eden ikinci gün yürürlüğe girer.
+başvuruları Sekretarya tarafından değerlendirilir. **(Değişik ikinci cümle:RG-3/10/2026-33389)** Bu maddeler kapsamında yapılan ilaç başvuruları sırasında dağıtım belgesinin Kuruma ibraz edilmesi gerekir. Yapılan değerlendirmeler sonucunda listeye ilavesine karar verilen ilaçlar her hafta çarşamba günü Kurum resmî internet sitesinde yayımlanır. Çarşamba gününün resmî tatil olması halinde bir sonraki iş günü yayımlanır. Yayımlanan liste yayımı tarihini takip eden ikinci gün yürürlüğe girer.
 
-(3) (Değişik:RG-3/10/2026-33389) Listeye yeni alınan ve iç referans grup/eşdeğer grubun en ucuz birim fiyatına sahip olan ilaç, listeye alındığı tarihten itibaren %1 ilaç pazar oranına ulaşana kadar ödenebilecek birim bedel aralığı hesabına dahil edilmez. Bu ilaçların pazar oranları aylık takip edilir. %1 ilaç pazar oranına ulaşan ilaçlar ödenebilecek birim bedel aralığı hesabına dahil edilir.
+(3) **(Değişik:RG-3/10/2026-33389)** Listeye yeni alınan ve iç referans grup/eşdeğer grubun en ucuz birim fiyatına sahip olan ilaç, listeye alındığı tarihten itibaren %1 ilaç pazar oranına ulaşana kadar ödenebilecek birim bedel aralığı hesabına dahil edilmez. Bu ilaçların pazar oranları aylık takip edilir. %1 ilaç pazar oranına ulaşan ilaçlar ödenebilecek birim bedel aralığı hesabına dahil edilir.
 
-(4) (Değişik:RG-3/10/2026-33389) Listedeki iç referans grup/eşdeğer gruplarda yer alan en ucuz birim fiyata sahip olan ilaçların pazar oranları takip edilir. Son 5 aylık süre verilerinin hiçbirinde %1 ilaç pazar oranına ulaşamamış ilaçlar ödenebilecek birim bedel aralığı hesabından çıkarılır. Söz konusu ilaçların aylık takibi yapılarak %1 ilaç pazar oranına ulaştığının tespiti halinde tekrar ödenebilecek birim bedel aralığı hesabına dahil edilir.
+(4) **(Değişik:RG-3/10/2026-33389)** Listedeki iç referans grup/eşdeğer gruplarda yer alan en ucuz birim fiyata sahip olan ilaçların pazar oranları takip edilir. Son 5 aylık süre verilerinin hiçbirinde %1 ilaç pazar oranına ulaşamamış ilaçlar ödenebilecek birim bedel aralığı hesabından çıkarılır. Söz konusu ilaçların aylık takibi yapılarak %1 ilaç pazar oranına ulaştığının tespiti halinde tekrar ödenebilecek birim bedel aralığı hesabına dahil edilir.
 
 (5) Türkiye İlaç ve Tıbbi Cihaz Kurumunca ruhsatının iptal edildiği belirlenen ilaç listeden çıkarılır.
 
-(6) Listede aynı eşdeğer grupta yer alan ilaçlardan biri için yeni endikasyon ilave talebinde bulunulması durumunda, söz konusu endikasyonun bu (Ek ibare:RG-3/10/2026-33389) eşdeğer grupta yer alan diğer ilaç/ilaçlar için daha önce Ödeme Komisyonu tarafından ödeme kapsamına alınmış olması ve ilacın (Ek ibare:RG-28/11/2024-32736) yeni endikasyonuna ait eşdeğer grubun en ucuz birim fiyatının %5 altında fiyat ile başvurması halinde, başvuru Sekretarya tarafından değerlendirilir ve eşdeğer grup düzenlemesi yapılabilir. Bu ilaçların başvurusu yapılan endikasyonunun Sağlık Bakanlığınca yayımlanmış olması zorunludur. Yapılan değerlendirmeler sonucunda uygun görülen talebe ait düzenlemeler her hafta çarşamba günü Kurum resmî internet sitesinde yayımlanır. Çarşamba gününün resmî tatil olması halinde bir sonraki iş günü yayımlanır. Yayımlanan liste yayımı tarihini takip eden ikinci gün yürürlüğe girer.
+(6) Listede aynı eşdeğer grupta yer alan ilaçlardan biri için yeni endikasyon ilave talebinde bulunulması durumunda, söz konusu endikasyonun bu **(Ek ibare:RG-3/10/2026-33389)** eşdeğer grupta yer alan diğer ilaç/ilaçlar için daha önce Ödeme Komisyonu tarafından ödeme kapsamına alınmış olması ve ilacın **(Ek ibare:RG-28/11/2024-32736)** yeni endikasyonuna ait eşdeğer grubun en ucuz birim fiyatının %5 altında fiyat ile başvurması halinde, başvuru Sekretarya tarafından değerlendirilir ve eşdeğer grup düzenlemesi yapılabilir. Bu ilaçların başvurusu yapılan endikasyonunun Sağlık Bakanlığınca yayımlanmış olması zorunludur. Yapılan değerlendirmeler sonucunda uygun görülen talebe ait düzenlemeler her hafta çarşamba günü Kurum resmî internet sitesinde yayımlanır. Çarşamba gününün resmî tatil olması halinde bir sonraki iş günü yayımlanır. Yayımlanan liste yayımı tarihini takip eden ikinci gün yürürlüğe girer.
 
 (7) Dağıtım belgesi ile ilgili diğer durumlar şunlardır:
 
 a) Başvuru dosyasında Tahmini Bütçe Etkisi Tablosu hazırlamakla yükümlü olunan ilaçlar için, sunulan dağıtım belgesindeki sayının tabloda yer alan; ilacı kullanması muhtemel hasta sayısına ait birinci yıl için belirtilen kutu sayısının en az %3 oranına denk gelen sayı kadar olması koşulu aranır.
 
-b) Daha önce şahsi tedavi için yurt dışından temin edilen ve Türkiye’de ruhsatlandırılan ilaçlar hariç olmak üzere, listeye yeni alınan ilaçlar (Mülga ibare:RG-28/11/2024-32736) için, listeye alındığı tarihten itibaren 5 aylık süre içerisinde dağıtım belgesi Kuruma ibraz edilmek zorundadır. Beşinci ayın sonunda dağıtım belgesi Kuruma ibraz edilemeyen ilaçlar, İlaç Geri Ödeme Komisyonu Başkanının onayı ile provizyon sisteminde pasif hale getirilir. Provizyon sisteminde pasif hale getirilmiş ilaçların dağıtım belgesinin Kuruma ibraz edilmesi halinde, kamu fiyatları pasiflendikleri tarihteki kamu fiyatını aşmamak kaydıyla Komisyon Başkanının onayı ile aktif hale getirilir. Sağlık Bakanlığınca ilaç fiyatlarına yansıtılan kur değişiklikleri/düzenlemeleri (Ek ibare:RG-28/11/2024-32736) , eczacı/depocu kar oranları, KDV değişiklikleri oranında kamu fiyatını etkileyen durumlar ile human albüminler ve immunglobulinler gibi Sağlık Bakanlığınca belirlenen güncel kura göre ithalatı yapılan kan ürünlerinde zorunlu fiyat artışı gerçekleşmesi halinde fiyat kriteri aranmaz. Ancak, onuncu ayın sonunda halen dağıtım belgesi ibraz edilemeyen ilaçlar Komisyon Başkanının onayı ile listeden çıkarılır.
+b) Daha önce şahsi tedavi için yurt dışından temin edilen ve Türkiye’de ruhsatlandırılan ilaçlar hariç olmak üzere, listeye yeni alınan ilaçlar **(Mülga ibare:RG-28/11/2024-32736)** için, listeye alındığı tarihten itibaren 5 aylık süre içerisinde dağıtım belgesi Kuruma ibraz edilmek zorundadır. Beşinci ayın sonunda dağıtım belgesi Kuruma ibraz edilemeyen ilaçlar, İlaç Geri Ödeme Komisyonu Başkanının onayı ile provizyon sisteminde pasif hale getirilir. Provizyon sisteminde pasif hale getirilmiş ilaçların dağıtım belgesinin Kuruma ibraz edilmesi halinde, kamu fiyatları pasiflendikleri tarihteki kamu fiyatını aşmamak kaydıyla Komisyon Başkanının onayı ile aktif hale getirilir. Sağlık Bakanlığınca ilaç fiyatlarına yansıtılan kur değişiklikleri/düzenlemeleri **(Ek ibare:RG-28/11/2024-32736)** , eczacı/depocu kar oranları, KDV değişiklikleri oranında kamu fiyatını etkileyen durumlar ile human albüminler ve immunglobulinler gibi Sağlık Bakanlığınca belirlenen güncel kura göre ithalatı yapılan kan ürünlerinde zorunlu fiyat artışı gerçekleşmesi halinde fiyat kriteri aranmaz. Ancak, onuncu ayın sonunda halen dağıtım belgesi ibraz edilemeyen ilaçlar Komisyon Başkanının onayı ile listeden çıkarılır.
 
-c) Yurt Dışı İlaç Fiyat Listesinde yer alıp daha önce şahsi tedavi için yurt dışından temin edilen ve Türkiye’de ruhsatlandırılarak listeye alınan (Değişik ibare:RG-28/11/2024-32736) ilaçların piyasaya arzından firmalar sorumludur. Dağıtım belgesinin, başvuru esnasında ya da listeye dâhil edildikleri tarihten itibaren en geç 1 aylık süre içerisinde Kuruma ibraz edilmesi gerekir. Bu husus firma yetkilisinin imzaladığı taahhütnamede belirtilir. Bu taahhütname başvuru dosyasına ait dilekçe ekinde yer alır. Listeye alınan ilaçlar için; dağıtım belgesinin en son getirileceği tarihin 1 aylık süreyi aşması halinde ilaç/ilaçların şahsi olarak ya da Sağlık Bakanlığınca yetkilendirilmiş taraflarca temin edilmesi ve Kurum tarafından ödenmesi durumunda, ilaç/ilaçların temin fiyatları ile ilacın Kamu fiyatı arasında oluşacak farkın mali yükümlülüğü firmaya ait olup Kurum, ilgili mevzuat hükümleri doğrultusunda firmadan tahsil ve tazmin eder.
+c) Yurt Dışı İlaç Fiyat Listesinde yer alıp daha önce şahsi tedavi için yurt dışından temin edilen ve Türkiye’de ruhsatlandırılarak listeye alınan **(Değişik ibare:RG-28/11/2024-32736)** ilaçların piyasaya arzından firmalar sorumludur. Dağıtım belgesinin, başvuru esnasında ya da listeye dâhil edildikleri tarihten itibaren en geç 1 aylık süre içerisinde Kuruma ibraz edilmesi gerekir. Bu husus firma yetkilisinin imzaladığı taahhütnamede belirtilir. Bu taahhütname başvuru dosyasına ait dilekçe ekinde yer alır. Listeye alınan ilaçlar için; dağıtım belgesinin en son getirileceği tarihin 1 aylık süreyi aşması halinde ilaç/ilaçların şahsi olarak ya da Sağlık Bakanlığınca yetkilendirilmiş taraflarca temin edilmesi ve Kurum tarafından ödenmesi durumunda, ilaç/ilaçların temin fiyatları ile ilacın Kamu fiyatı arasında oluşacak farkın mali yükümlülüğü firmaya ait olup Kurum, ilgili mevzuat hükümleri doğrultusunda firmadan tahsil ve tazmin eder.
 
-(8) (Değişik:RG-28/11/2024-32736) Listede yer alan ilaçlar, sarfiyatının olup olmadığının tespiti için yıllık periyotlarla (1 Ocak-31 Aralık) izlenir. Perakende satış fiyatı bulunmayıp KDV dâhil depocu satış fiyatı/KDV dâhil eczacı satış fiyatı olan ilaçlar ile alternatif geri ödeme komisyonu tarafından özel dağıtım modeli kapsamında olan ilaçlar bu kapsam dışında tutulur. Biten yıl içinde Kurum verilerine göre sarfiyatının bir kutudan az olduğu ya da hiç verisinin olmadığı belirlenen ilaçlar Kurum resmî internet sayfasında duyuru ile yayımlanır. Duyuru tarihinden itibaren bir ay içinde ilacın piyasaya verildiğine dair yeni tarihli dağıtım belgesi sunulan ilaçlar pasiflenmez. Dağıtım belgesi sunulmayan ilaçlar İlaç Geri Ödeme Komisyonu Başkanının onayı ile Sekretarya tarafından pasif hale getirilir. İncelenen yıllık periyot içerisinde listeye ilave edilen ilaçlar için Kurum verilerine göre sarfiyatının olup olmadığı durumuna bakılmaz. Pasif hale getirilmiş ilaçlar için firması tarafından aktiflenme talebi ile Kuruma başvurulması halinde kamu fiyatları pasiflendikleri tarihteki kamu fiyatını aşmaması ve dağıtım belgesinin (Risk Yönetim Planına istinaden depo ve eczanelerde bulundurulması uygun bulunmayan ilaçlar ile Fiyat Listesinde “(Değişik ibare:RG-3/10/2026-33389) Güncel Piyasa Durumu- Bildirim Zorunluluğu Olmayan Ürün” olarak (Değişik ibare:RG-3/10/2026-33389) belirtilen ilaçlar için fatura örneği) Kuruma ibrazı kaydıyla, İlaç Geri Ödeme Komisyonu Başkanının onayı ile aktif hale getirilir. Sağlık Bakanlığınca ilaç fiyatlarına yansıtılan kur değişiklikleri/düzenlemeleri, eczacı/depocu kar oranları, KDV değişiklikleri oranında kamu fiyatını etkileyen durumlar ile human albüminler ve immunglobulinler gibi Sağlık Bakanlığınca belirlenen güncel kura göre ithalatı yapılan kan ürünlerinde zorunlu fiyat artışı gerçekleşmesi halinde fiyat kriteri aranmaz. Bunun dışındaki aktiflenme talepleri için İlaç Başvurularına İlişkin Usul ve Esaslar kapsamında başvurulması gerekir. Pasiflendikleri tarihten itibaren onuncu ayın sonunda halen aktiflenme talebi olmayan ilaçlar ise İlaç Geri Ödeme Komisyonu Başkanının onayı ile listeden çıkarılır. Listeye yeniden girmek için yapılacak başvuru, İlaç Başvurularına İlişkin Usul ve Esaslar doğrultusunda yapılır ve çalışma dönemine göre gündeme alınır.
+(8) **(Değişik:RG-28/11/2024-32736)** Listede yer alan ilaçlar, sarfiyatının olup olmadığının tespiti için yıllık periyotlarla (1 Ocak-31 Aralık) izlenir. Perakende satış fiyatı bulunmayıp KDV dâhil depocu satış fiyatı/KDV dâhil eczacı satış fiyatı olan ilaçlar ile alternatif geri ödeme komisyonu tarafından özel dağıtım modeli kapsamında olan ilaçlar bu kapsam dışında tutulur. Biten yıl içinde Kurum verilerine göre sarfiyatının bir kutudan az olduğu ya da hiç verisinin olmadığı belirlenen ilaçlar Kurum resmî internet sayfasında duyuru ile yayımlanır. Duyuru tarihinden itibaren bir ay içinde ilacın piyasaya verildiğine dair yeni tarihli dağıtım belgesi sunulan ilaçlar pasiflenmez. Dağıtım belgesi sunulmayan ilaçlar İlaç Geri Ödeme Komisyonu Başkanının onayı ile Sekretarya tarafından pasif hale getirilir. İncelenen yıllık periyot içerisinde listeye ilave edilen ilaçlar için Kurum verilerine göre sarfiyatının olup olmadığı durumuna bakılmaz. Pasif hale getirilmiş ilaçlar için firması tarafından aktiflenme talebi ile Kuruma başvurulması halinde kamu fiyatları pasiflendikleri tarihteki kamu fiyatını aşmaması ve dağıtım belgesinin (Risk Yönetim Planına istinaden depo ve eczanelerde bulundurulması uygun bulunmayan ilaçlar ile Fiyat Listesinde “**(Değişik ibare:RG-3/10/2026-33389)** Güncel Piyasa Durumu- Bildirim Zorunluluğu Olmayan Ürün” olarak **(Değişik ibare:RG-3/10/2026-33389)** belirtilen ilaçlar için fatura örneği) Kuruma ibrazı kaydıyla, İlaç Geri Ödeme Komisyonu Başkanının onayı ile aktif hale getirilir. Sağlık Bakanlığınca ilaç fiyatlarına yansıtılan kur değişiklikleri/düzenlemeleri, eczacı/depocu kar oranları, KDV değişiklikleri oranında kamu fiyatını etkileyen durumlar ile human albüminler ve immunglobulinler gibi Sağlık Bakanlığınca belirlenen güncel kura göre ithalatı yapılan kan ürünlerinde zorunlu fiyat artışı gerçekleşmesi halinde fiyat kriteri aranmaz. Bunun dışındaki aktiflenme talepleri için İlaç Başvurularına İlişkin Usul ve Esaslar kapsamında başvurulması gerekir. Pasiflendikleri tarihten itibaren onuncu ayın sonunda halen aktiflenme talebi olmayan ilaçlar ise İlaç Geri Ödeme Komisyonu Başkanının onayı ile listeden çıkarılır. Listeye yeniden girmek için yapılacak başvuru, İlaç Başvurularına İlişkin Usul ve Esaslar doğrultusunda yapılır ve çalışma dönemine göre gündeme alınır.
 
-(9) (Değişik:RG-28/11/2024-32736) Listede yer alan ilaçlardan; Fiyat Listesinde pasiflendiği, geri ödemesiz fiyat aldığı tespit edilen ilaçlar İlaç Geri Ödeme Komisyonu Başkanının onayı ile pasif hale getirilir. Pasif hale getirilmiş ilaçların Fiyat Listesinde isim ve fiyatlarının yeniden aktif listede yer alması, geri ödemesiz fiyat alan ilacın ise geri ödemeli olarak yer alması durumunda firması tarafından aktiflenmesi için Kuruma başvurulması halinde; kamu fiyatları pasiflendikleri tarihteki kamu fiyatını aşmamak kaydıyla, İlaç Geri Ödeme Komisyonu Başkanının onayı ile aktif hale getirilir. Sağlık Bakanlığınca ilaç fiyatlarına yansıtılan kur değişiklikleri/düzenlemeleri, eczacı/depocu kar oranları, KDV değişiklikleri oranında kamu fiyatını etkileyen durumlar ile human albüminler ve immunglobulinler gibi Sağlık Bakanlığınca belirlenen güncel kura göre ithalatı yapılan kan ürünlerinde zorunlu fiyat artışı gerçekleşmesi halinde fiyat kriteri aranmaz. Bu durumların dışında kalan başvuruların İlaç Başvurularına İlişkin Usul ve Esaslar kapsamında yapılması gerekir. Pasiflendikleri tarihten itibaren onuncu ayın sonunda firması tarafından halen aktiflenme başvurusu olmayan ilaçlar ise İlaç Geri Ödeme Komisyonu Başkanının onayı ile listeden çıkarılır. Ödeme listesinde yer alıp, TİTCK tarafından yayımlanan 23/10/2024 tarihli ve 32701 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler ve Özel Tıbbi Amaçlı Gıdaların Geri Çekilmesi Hakkında Yönetmeliğine göre 1 inci sınıf A seviye geri çekme işlemi yapılan ilaçlara ait işlemler anılan Bakanlıkça yürütüldüğünden ödeme listelerinde herhangi bir işlem yapılmaz.
+(9) **(Değişik:RG-28/11/2024-32736)** Listede yer alan ilaçlardan; Fiyat Listesinde pasiflendiği, geri ödemesiz fiyat aldığı tespit edilen ilaçlar İlaç Geri Ödeme Komisyonu Başkanının onayı ile pasif hale getirilir. Pasif hale getirilmiş ilaçların Fiyat Listesinde isim ve fiyatlarının yeniden aktif listede yer alması, geri ödemesiz fiyat alan ilacın ise geri ödemeli olarak yer alması durumunda firması tarafından aktiflenmesi için Kuruma başvurulması halinde; kamu fiyatları pasiflendikleri tarihteki kamu fiyatını aşmamak kaydıyla, İlaç Geri Ödeme Komisyonu Başkanının onayı ile aktif hale getirilir. Sağlık Bakanlığınca ilaç fiyatlarına yansıtılan kur değişiklikleri/düzenlemeleri, eczacı/depocu kar oranları, KDV değişiklikleri oranında kamu fiyatını etkileyen durumlar ile human albüminler ve immunglobulinler gibi Sağlık Bakanlığınca belirlenen güncel kura göre ithalatı yapılan kan ürünlerinde zorunlu fiyat artışı gerçekleşmesi halinde fiyat kriteri aranmaz. Bu durumların dışında kalan başvuruların İlaç Başvurularına İlişkin Usul ve Esaslar kapsamında yapılması gerekir. Pasiflendikleri tarihten itibaren onuncu ayın sonunda firması tarafından halen aktiflenme başvurusu olmayan ilaçlar ise İlaç Geri Ödeme Komisyonu Başkanının onayı ile listeden çıkarılır. Ödeme listesinde yer alıp, TİTCK tarafından yayımlanan 23/10/2024 tarihli ve 32701 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler ve Özel Tıbbi Amaçlı Gıdaların Geri Çekilmesi Hakkında Yönetmeliğine göre 1 inci sınıf A seviye geri çekme işlemi yapılan ilaçlara ait işlemler anılan Bakanlıkça yürütüldüğünden ödeme listelerinde herhangi bir işlem yapılmaz.
 
-(10) Perakende satış fiyatı bulunmayıp KDV dâhil depocu satış fiyatı/KDV dâhil eczacı satış fiyatı bulunan ilaçlar, Sağlık Bakanlığınca belirlenen Risk Yönetim Planına istinaden depo ve eczanelerde bulundurulması uygun bulunmayan ilaçlar, Fiyat Listesi’nde “(Değişik ibare:RG-3/10/2026-33389) Güncel Piyasa Durumu- Bildirim Zorunluluğu Olmayan Ürün” olarak (Değişik ibare:RG-3/10/2026-33389) belirtilen ilaçlar ile 9 uncu maddenin birinci fıkrasının (ı) ve (i) bentleri kapsamında başvurusu olan ilaçlar için dağıtım belgesi aranmaz.
+(10) Perakende satış fiyatı bulunmayıp KDV dâhil depocu satış fiyatı/KDV dâhil eczacı satış fiyatı bulunan ilaçlar, Sağlık Bakanlığınca belirlenen Risk Yönetim Planına istinaden depo ve eczanelerde bulundurulması uygun bulunmayan ilaçlar, Fiyat Listesi’nde “**(Değişik ibare:RG-3/10/2026-33389)** Güncel Piyasa Durumu- Bildirim Zorunluluğu Olmayan Ürün” olarak **(Değişik ibare:RG-3/10/2026-33389)** belirtilen ilaçlar ile 9 uncu maddenin birinci fıkrasının (ı) ve (i) bentleri kapsamında başvurusu olan ilaçlar için dağıtım belgesi aranmaz.
 
 (11) Bu madde kapsamında yapılan tüm başvuru dosyaları haftanın son iş gününe kadar kabul edilir. Başvurusu uygun görülen talep, takip eden çarşamba günü yayımlanır. Çarşamba gününün resmî tatil olması halinde bir sonraki iş günü yayımlanır. Yayımlanan liste yayımı tarihini takip eden ikinci gün yürürlüğe girer. Eksik olduğu tespit edilen başvuru dosyası işleme alınmaz. Eksik bilgi ve belgelerin tamamlandığı tarih, başvuru tarihi olarak esas alınır.
 
@@ -364,7 +364,7 @@ b) Komisyon çalışmaları sürerken veya sonuçlandığında alınan kararlar,
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 

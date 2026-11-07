@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/08/20260818-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN ÇOCUK KORUMA KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7593 Kabul Tarihi: 8/8/2026
+**KANUN ÇOCUK KORUMA KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7593** Kabul Tarihi: 8/8/2026
 
 MADDE 1- 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanuna 13 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “MADDE 13/A- Ateşli silahın dikkat ve özen yükümlülüğüne aykırı şekilde muhafaza edilmesi suretiyle çocuk tarafından ele geçirilmesine neden olan kişi, fiil daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.”

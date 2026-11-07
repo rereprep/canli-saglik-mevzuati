@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/01/20100130-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-ÜNİVERSİTE VE SAĞLIK PERSONELİNİN TAM GÜN ÇALIŞMASINA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+ÜNİVERSİTE VE SAĞLIK PERSONELİNİN TAM GÜN ÇALIŞMASINA VE BAZI KANUNLARDA DEĞİŞİKLİK **YAPILMASINA DAİR KANUN**
 Kanun No. 5947 Kabul Tarihi: 21/1/2010
 
 MADDE 1 – 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesinin üçüncü fıkrasında yer alan "serbest çalışıp çalışmaması" ibaresi "tetkik, eğitim-öğretim ve araştırma faaliyetleri" şeklinde, dördüncü ve yedinci fıkraları aşağıdaki şekilde değiştirilmiştir.
@@ -117,10 +117,10 @@ MADDE 9 – Sağlık Bakanlığına bağlı sağlık kurum ve kuruluşları ile 
 
 MADDE 12 – 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun ek 17 nci maddesinin (C) fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 "Ç) Türk Silahlı Kuvvetleri kadrolarında bulunan ve aşağıda rütbeleri belirtilen personelden öğretim üyesi tabip, öğretim üyesi diş tabibi, uzman tabip, uzman diş tabibi, tabip, diş tabibi ve tıpta uzmanlık mevzuatında belirtilen dallarda bu mevzuat hükümlerine göre uzman olanlara hizalarında gösterilen oranları geçmemek üzere orgeneral aylığının (ek gösterge dahil) brüt tutarı ile çarpımı sonucu bulunan miktarda sağlık hizmetleri tazminatı ayrıca ödenir.
-RÜTBELER
-TAZMİNAT ORANLARI(%) Öğretim Üyesi Tabip-Diş Tabibi/Uzman Tabip Tabip/Tıpta uzmanlık mevzuatına göre uzman olanlar Uzman Diş Tabibi Diş Tabibi General/Amiral Kıdemli Albay Albay Yarbay Kıdemli Binbaşı Binbaşı Kıdemli Yüzbaşı Yüzbaşı Kıdemli Üsteğmen Üsteğmen Teğmen Asteğmen Türk Silahlı Kuvvetleri kadrolarında görevli sivil öğretim üyesi tabiplere ve 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapan uzman tabip, uzman diş tabibi, tabip ve diş tabiplerine aşağıda belirtilen oranları geçmemek üzere en yüksek devlet memuru aylığının (ek gösterge dahil) brüt tutarı ile çarpımı sonucu bulunan miktarda sağlık hizmetleri tazminatı ayrıca ödenir.
-DERECE
-TAZMİNAT ORANLARI (%) Öğretim Üyesi Tabip/Uzman Tabip Tabip/Tıpta uzmanlık mevzuatına göre uzman olanlar Uzman Diş Tabibi Diş Tabibi 2-3 4-5 6-7 8-9 Sağlık hizmetleri tazminatının oranları ile usul ve esasları, personelin rütbesi, unvanı, görevi, çalışma şartları ve süresi, görev yeri ve özellikleri, eğitim-öğretim ve araştırma faaliyetleri ve mesleki uygulamaları ve özellik arz eden riskli bölümlerde çalışma gibi hizmete katkı unsurları esas alınarak Maliye Bakanlığının görüşü, Genelkurmay Başkanlığının uygun görüşü üzerine Milli Savunma Bakanlığınca belirlenir.
+**RÜTBELER**
+**TAZMİNAT ORANLARI(%)** Öğretim Üyesi Tabip-Diş Tabibi/Uzman Tabip Tabip/Tıpta uzmanlık mevzuatına göre uzman olanlar Uzman Diş Tabibi Diş Tabibi General/Amiral Kıdemli Albay Albay Yarbay Kıdemli Binbaşı Binbaşı Kıdemli Yüzbaşı Yüzbaşı Kıdemli Üsteğmen Üsteğmen Teğmen Asteğmen Türk Silahlı Kuvvetleri kadrolarında görevli sivil öğretim üyesi tabiplere ve 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapan uzman tabip, uzman diş tabibi, tabip ve diş tabiplerine aşağıda belirtilen oranları geçmemek üzere en yüksek devlet memuru aylığının (ek gösterge dahil) brüt tutarı ile çarpımı sonucu bulunan miktarda sağlık hizmetleri tazminatı ayrıca ödenir.
+**DERECE**
+**TAZMİNAT ORANLARI (%)** Öğretim Üyesi Tabip/Uzman Tabip Tabip/Tıpta uzmanlık mevzuatına göre uzman olanlar Uzman Diş Tabibi Diş Tabibi 2-3 4-5 6-7 8-9 Sağlık hizmetleri tazminatının oranları ile usul ve esasları, personelin rütbesi, unvanı, görevi, çalışma şartları ve süresi, görev yeri ve özellikleri, eğitim-öğretim ve araştırma faaliyetleri ve mesleki uygulamaları ve özellik arz eden riskli bölümlerde çalışma gibi hizmete katkı unsurları esas alınarak Maliye Bakanlığının görüşü, Genelkurmay Başkanlığının uygun görüşü üzerine Milli Savunma Bakanlığınca belirlenir.
 Sağlık hizmetleri tazminatından yararlanan personele, bu maddenin (C) fıkrası ile 17/11/1983 tarihli ve 2957 sayılı Kanunun 6 ncı maddesi, 10/6/1985 tarihli ve 3225 sayılı Kanunun 14 üncü maddesi ve 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesi hükümlerine göre ödeme yapılmaz."
 
 MADDE 13 – 926 sayılı Kanuna aşağıdaki ek madde eklenmiştir.

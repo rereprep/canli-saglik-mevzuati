@@ -351,7 +351,43 @@ def satir_ici(s):
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
     s = s.replace("&lt;small&gt;", "<small>").replace("&lt;/small&gt;", "</small>")
     s = re.sub(r"&lt;sup&gt;(\[\d+\])&lt;/sup&gt;", r"<sup>\1</sup>", s)
+    s = re.sub(r"&lt;i&gt;(.+?)&lt;/i&gt;", r"<em>\1</em>", s)
+    s = s.replace("&lt;i&gt;", "").replace("&lt;/i&gt;", "")
     return s
+
+
+def bicim_parcala(s):
+    """'**koyu**' ve '<i>italik</i>' işaretli metni (metin, koyu, italik) parçalarına ayırır."""
+    parcalar, koyu, italik = [], False, False
+    for t in re.split(r"(\*\*|</?i>)", s):
+        if t == "**":
+            koyu = not koyu
+        elif t == "<i>":
+            italik = True
+        elif t == "</i>":
+            italik = False
+        elif t:
+            parcalar.append((t, koyu, italik))
+    return parcalar
+
+
+def word_ekle(p, s, koyu_hep=False):
+    for t, k, i in bicim_parcala(s):
+        r = p.add_run(t)
+        r.bold = k or koyu_hep
+        r.italic = i
+
+
+def pdf_bicim(s):
+    out = []
+    for t, k, i in bicim_parcala(s):
+        t = html.escape(t, quote=False)
+        if i:
+            t = f"<i>{t}</i>"
+        if k:
+            t = f"<b>{t}</b>"
+        out.append(t)
+    return "".join(out)
 
 
 # ---------------------------------------------------------------- hizalama kuralı
@@ -366,7 +402,7 @@ _UNVAN = re.compile(r"^((Prof\.|Doç\.|Dr\.|Uzm\.|Op\.|Av\.|Ecz\.).{0,50}|Bakan(
 
 
 def _duz(s):
-    return " ".join(re.sub(r"\*\*|</?small>|</?sup>", "", s).split())
+    return " ".join(re.sub(r"\*\*|</?small>|</?sup>|</?i>", "", s).split())
 
 
 def _buyuk(s):
@@ -762,8 +798,8 @@ def word_uret(b, hedef):
         elif tip == "madde":
             p = d.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-            p.add_run(metin[0] + " ").bold = True
-            p.add_run(metin[1])
+            word_ekle(p, metin[0] + " ", koyu_hep=True)
+            word_ekle(p, metin[1])
             p.paragraph_format.first_line_indent = Pt(28)
         elif tip == "dipnot":
             p = d.add_paragraph()
@@ -780,7 +816,8 @@ def word_uret(b, hedef):
             p.alignment = {"p-orta": WD_ALIGN_PARAGRAPH.CENTER, "p-sag": WD_ALIGN_PARAGRAPH.RIGHT, "p-imza": WD_ALIGN_PARAGRAPH.RIGHT}.get(tip, WD_ALIGN_PARAGRAPH.LEFT)
             p.paragraph_format.space_after = Pt(0) if tip in ("p-sol", "p-imza", "p-orta") else p.paragraph_format.space_after
         else:
-            p = d.add_paragraph(metin)
+            p = d.add_paragraph()
+            word_ekle(p, metin)
             p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
             p.paragraph_format.first_line_indent = Pt(28)
     p = d.add_paragraph()
@@ -800,24 +837,29 @@ def font_kaydet():
         return _FONT
     from reportlab.pdfbase import pdfmetrics
     from reportlab.pdfbase.ttfonts import TTFont
+    from reportlab.lib.fonts import addMapping
+    L = "/usr/share/fonts/truetype/liberation/LiberationSerif-"
+    T = "/System/Library/Fonts/Supplemental/Times New Roman"
+    J = "/usr/share/fonts/truetype/dejavu/DejaVuSerif"
     adaylar = [
-        ("/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"),
-        ("/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf", "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf"),
-        ("/System/Library/Fonts/Supplemental/Times New Roman.ttf", "/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf"),
-        ("/Library/Fonts/Arial Unicode.ttf", "/Library/Fonts/Arial Unicode.ttf"),
+        (L + "Regular.ttf", L + "Bold.ttf", L + "Italic.ttf", L + "BoldItalic.ttf"),
+        (T + ".ttf", T + " Bold.ttf", T + " Italic.ttf", T + " Bold Italic.ttf"),
+        (J + ".ttf", J + "-Bold.ttf", J + "-Italic.ttf", J + "-BoldItalic.ttf"),
+        (J + ".ttf", J + "-Bold.ttf", J + ".ttf", J + "-Bold.ttf"),
     ]
-    for normal, kalin in adaylar:
-        if Path(normal).exists() and Path(kalin).exists():
+    for normal, kalin, italik, kalin_italik in adaylar:
+        if all(Path(x).exists() for x in (normal, kalin, italik, kalin_italik)):
             pdfmetrics.registerFont(TTFont("Govde", normal))
             pdfmetrics.registerFont(TTFont("Govde-Kalin", kalin))
-            from reportlab.lib.fonts import addMapping
+            pdfmetrics.registerFont(TTFont("Govde-Italik", italik))
+            pdfmetrics.registerFont(TTFont("Govde-KalinItalik", kalin_italik))
             addMapping("Govde", 0, 0, "Govde")
             addMapping("Govde", 1, 0, "Govde-Kalin")
-            addMapping("Govde", 0, 1, "Govde")
-            addMapping("Govde", 1, 1, "Govde-Kalin")
+            addMapping("Govde", 0, 1, "Govde-Italik")
+            addMapping("Govde", 1, 1, "Govde-KalinItalik")
             _FONT = "Govde"
             return _FONT
-    raise SystemExit("Türkçe karakter destekli bir TTF yazı tipi bulunamadı (DejaVu veya Liberation kurun).")
+    raise SystemExit("Türkçe karakter destekli bir TTF yazı tipi bulunamadı (Liberation veya DejaVu kurun).")
 
 
 def pdf_uret(b, hedef):
@@ -862,7 +904,7 @@ def pdf_uret(b, hedef):
         elif tip == "h4":
             akis.append(Paragraph(x(metin), alt))
         elif tip == "madde":
-            akis.append(Paragraph(f"<b>{x(metin[0])}</b> {x(metin[1])}", govde))
+            akis.append(Paragraph(f"<b>{pdf_bicim(metin[0])}</b> {pdf_bicim(metin[1])}", govde))
         elif tip == "dipnot":
             akis.append(Paragraph(x(metin), dip))
         elif tip == "p-sayi":
@@ -872,7 +914,7 @@ def pdf_uret(b, hedef):
         elif tip.startswith("p-"):
             akis.append(Paragraph(x(metin), {"p-orta": ortast, "p-sag": sagst, "p-imza": imzast}.get(tip, solst)))
         else:
-            akis.append(Paragraph(x(metin), govde))
+            akis.append(Paragraph(pdf_bicim(metin), govde))
 
     def altbilgi(c, d):
         c.saveState()
@@ -923,7 +965,7 @@ def main():
                       "r": b.get("rg_tarih", ""), "rs": b.get("rg_sayi", ""), "k": b.get("konu", ""),
                       "e": b.get("etiketler", []), "m": 1 if b["tam_metin"] else 0})
         if b["tam_metin"]:
-            duz = re.sub(r"[*#<>/]|small", " ", b["govde"])
+            duz = re.sub(r"[*#<>/]|small", " ", re.sub(r"</?i>", "", b["govde"]))
             metin_dizin.append({"i": b["id"], "x": re.sub(r"\s+", " ", duz)})
         if (i + 1) % 50 == 0:
             print(f"  {i + 1} belge işlendi", flush=True)

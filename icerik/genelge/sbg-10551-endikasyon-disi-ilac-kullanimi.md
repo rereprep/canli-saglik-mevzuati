@@ -16,13 +16,13 @@ Tarihi:14.11.2006 Sayısı:2006/115
 
 İlaç ve Eczacılık Genel Müdürlüğü
 
-Sayı : B.10.0.IEG.0.06.00.01-057308 Tarih: 14 Kasım 2006
+**Sayı :** B.10.0.IEG.0.06.00.01-057308 **Tarih:** 14 Kasım 2006
 
-Konu : Endikasyon Dışı İlaç Kullanımı
+**Konu :** Endikasyon Dışı İlaç Kullanımı
 
 ### GENELGE
 
-2006/115
+**2006/115**
 
 Herhangi bir hastalığın tedavisinde, sadece ilgili endikasyonda etkinliği ve güvenilirliği bilimsel olarak yeterli klinik çalışmalar ile kanıtlanmış ve bu endikasyonda standart doz belirlenerek ruhsatlandırılmış ilaçlar kullanılabilir.
 
@@ -80,7 +80,7 @@ Prof.Dr .Necdet ÜNÜVAR
 
 Bakan a.
 
-Müsteşar
+**Müsteşar**
 
 ### EKLER :
 
@@ -92,7 +92,7 @@ Ek-3: Yurtdışınan Bireysel Reçete Bazında İlaç Talep Formu
 
 ### DAĞITIM :
 
-Gereği için : Bilgi için:
+**Gereği için : Bilgi için:**
 
 81 İl Valiliği (Sağlık Müdürlüğü) Türk Eczacıları Birliği
 
@@ -130,7 +130,7 @@ Kısa Laboratuar Özeti:
 
 Hastanın Mevcut Klinik Durumu:
 
-(Hastanın Epikrizi bu forma eklenmelidir)
+<i>(Hastanın Epikrizi bu forma eklenmelidir)</i>
 
 ### “ENDİKASYON-DIŞI” KULLANIMI İSTENEN İLACIN
 
@@ -144,7 +144,7 @@ Hastanın Mevcut Klinik Durumu:
 
 ### İLACIN HASTADA “ENDİKASYON-DIŞI” KULLANIMINI ENDİKE KILAN KLİNİK DURUM
 
-(Hastanın izlendiği klinikten alınacak heyet raporu bu forma eklenmelidir)
+<i>(Hastanın izlendiği klinikten alınacak heyet raporu bu forma eklenmelidir)</i>
 
 ### “ENDİKASYON-DIŞI” İLAÇ KULLANIMI İLE İLGİLİ OLARAK AŞAĞIDAKİ SORULARIN YANITLANMASI GEREKMEKTEDİR;
 
@@ -158,17 +158,17 @@ Hastanın Mevcut Klinik Durumu:
 
 3- ‘ Endikasyon -dışı’ ilacın ülkemizde bulunan KLİNİK VEYA TERAPÖTİK EŞDEĞERİ hastada uygulanmış ise hangi tarihlerde verilmiş, kaç kür uygulama olmuş, ve hangi yanıtlar alınmıştır?
 
-4- ‘ Endikasyon -dışı’ ilaç, ilgili endikasyonda FDA veya EMEA onayına sahip ve ruhsatlı mıdır?
+4- ‘ Endikasyon -dışı’ ilaç, **ilgili endikasyonda** FDA veya EMEA onayına sahip ve ruhsatlı mıdır?
 
 ### EVET HAYIR
 
-5- ‘ Endikasyon -dışı’ ilaç ile ilgili olarak, sözkonusu endikasyonda yapılmış Faz III Klinik çalışmalar mevcut mudur?
+5- ‘ Endikasyon -dışı’ ilaç ile ilgili olarak, **sözkonusu endikasyonda** yapılmış Faz III Klinik çalışmalar mevcut mudur?
 
 ### EVET HAYIR
 
-( Sözkonusu Faz III çalışmaların fotokopileri, bu forma eklenmelidir)
+<i>( Sözkonusu Faz III çalışmaların fotokopileri, bu forma eklenmelidir)</i>
 
-6- ‘ Endikasyon -dışı’ ilaç ile ilgili olarak, Faz III Klinik çalışmalarda söz konusu endikasyonda ilacın etkinliği (kontrol gruplarına göre yanıt oranı) nedir?
+6- ‘ Endikasyon -dışı’ ilaç ile ilgili olarak, Faz III Klinik çalışmalarda **söz konusu endikasyonda** ilacın etkinliği (kontrol gruplarına göre yanıt oranı) nedir?
 
 7- ‘ Endikasyon -dışı’ ilacın hastaya hangi dozda, ne kadar süreyle, kaç kür uygulama ile verilmesi planlanmakta, ve hangi klinik ve/veya laboratuar yanıtların elde edilmesi amaçlanmaktadır?
 
@@ -220,7 +220,7 @@ Kısa Laboratuvar Özeti:
 
 Hastanın mevcut klinik durumu:
 
-(Hastanın epikrizi bu forma eklenmelidir)
+<i>(Hastanın epikrizi bu forma eklenmelidir)</i>
 
 ### YURTDIŞINDAN GETİRİLMESİ İSTENEN İLACIN
 
@@ -234,7 +234,7 @@ Hastanın mevcut klinik durumu:
 
 ### YURTDIŞINDAN GETİRİLMESİ İSTENEN İLACIN HASTA İÇİN KULLANIMINI ENDİKE KILAN KLİNİK DURUM
 
-(Hastanın izlendiği klinikten alınacak heyet raporu bu forma eklenmelidir)
+<i>(Hastanın izlendiği klinikten alınacak heyet raporu bu forma eklenmelidir)</i>
 
 ### YURTDIŞINDAN GELECEK İLACIN HASTADA KULLANIMI İLE İLGİLİ OLARAK AŞAĞIDAKİ SORULARIN YANITLANMASI GEREKMEKTEDİR;
 
@@ -248,17 +248,17 @@ Hastanın mevcut klinik durumu:
 
 3- Yurtdışından getirilmek istenen ilacın ülkemizde bulunan KLİNİK VEYA TERAPÖTİK EŞDEĞERİ hastada uygulanmış ise hangi tarihlerde verilmiş, kaç kür uygulama olmuş, ve hangi yanıtlar alınmıştır?
 
-4- Yurtdışından getirilmek istenen ilaç, ilgili endikasyonda FDA veya EMEA onayına sahip ve ruhsatlı mıdır?
+4- Yurtdışından getirilmek istenen ilaç, **ilgili endikasyonda** FDA veya EMEA onayına sahip ve ruhsatlı mıdır?
 
 ### EVET HAYIR
 
-5- Yurtdışından getirilmek istenen ilaç ile ilgili olarak, sözkonusu endikasyonda yapılmış Faz III Klinik çalışmalar mevcut mudur?
+5- Yurtdışından getirilmek istenen ilaç ile ilgili olarak, **sözkonusu endikasyonda** yapılmış Faz III Klinik çalışmalar mevcut mudur?
 
 ### EVET HAYIR
 
-( Sözkonusu Faz III çalışmaların fotokopileri, bu forma eklenmelidir)
+<i>( Sözkonusu Faz III çalışmaların fotokopileri, bu forma eklenmelidir)</i>
 
-6- Yurtdışından getirilmek istenen ilaç ile ilgili olarak, Faz III Klinik çalışmalar’da sözkonusu endikasyonda ilacın etkinliği (kontrol gruplarına göre yanıt oranı) nedir?
+6- Yurtdışından getirilmek istenen ilaç ile ilgili olarak, Faz III Klinik çalışmalar’da **sözkonusu endikasyonda** ilacın etkinliği (kontrol gruplarına göre yanıt oranı) nedir?
 
 7- Yurtdışından getirilmek istenen ilacın hastaya hangi dozda, ne kadar süreyle, kaç kür uygulama ile verilmesi planlanmakta, ve hangi klinik ve/veya laboratuar yanıtların elde edilmesi amaçlanmaktadır?
 

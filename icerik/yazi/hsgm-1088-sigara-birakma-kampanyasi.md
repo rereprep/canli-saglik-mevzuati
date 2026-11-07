@@ -17,7 +17,7 @@ Sayı : E-86696344-281.02-272206037 26.03.2025
 Konu : Sigara Bırakma Kampanyası
 DAĞITIM YERLERİNE
 
-10.09.2024 tarihli Bağımlılıkla Mücadele Yüksek Kurulu Kararlarının 7 nolu kararı “01.11.2024 tarihinden itibaren her ay 1 kurumun merkez ve taşra teşkilatına yönelik sigara bırakma kampanyası düzenlenerek sigarayı bırakanların 09.02.2025 tarihinde kamuoyu önünde başarı belgesi ile ödüllendirilmesi’ şeklindedir. Aynı zamanda 2024- 2028 Tütün Kontrolü Strateji Belgesi ve Eylem Planı “A2. Sigarayı Bırakma” başlığı altında “3.4.Kamu kurumlarında sigara bırakma kampanyasının düzenlenmesi” faaliyeti yer almaktadır.
+10.09.2024 tarihli Bağımlılıkla Mücadele Yüksek Kurulu Kararlarının 7 nolu kararı “<i>01.11.2024 tarihinden</i> <i>itibaren her ay 1 kurumun merkez ve taşra teşkilatına yönelik sigara bırakma kampanyası düzenlenerek sigarayı</i> <i>bırakanların 09.02.2025 tarihinde kamuoyu önünde başarı belgesi ile ödüllendirilmesi’</i> şeklindedir. Aynı zamanda 2024- 2028 Tütün Kontrolü Strateji Belgesi ve Eylem Planı “A2. Sigarayı Bırakma” başlığı altında “<i>3.4.Kamu kurumlarında</i> <i>sigara bırakma kampanyasının düzenlenmesi”</i> faaliyeti yer almaktadır.
 
 Alınan bu karar ve eylem planı faaliyeti doğrultusunda, toplumda tütün kullanım durumunu azaltmak amacıyla sigara bırakma kampanyası hayata geçirilecektir. Sigara bırakma kampanyası çalışmaları kapsamında;
 

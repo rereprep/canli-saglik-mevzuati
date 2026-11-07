@@ -9,27 +9,27 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-UÇUCU MADDELERİN ZARARLARINDAN İNSAN SAĞLIĞININ KORUNMASINA
+**UÇUCU MADDELERİN ZARARLARINDAN İNSAN SAĞLIĞININ KORUNMASINA**
 
-DAİR KANUN
+**DAİR KANUN**
 
-Kanun Numarası : 5898
+**Kanun Numarası : 5898**
 
-Kabul Tarihi : 7/5/2009
+**Kabul Tarihi : 7/5/2009**
 
-Yayımlandığı R.Gazete : Tarih: 16/5/2009 Sayı : 27230
+**Yayımlandığı R.Gazete : Tarih: 16/5/2009 Sayı : 27230**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 48
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 48**
 
-Amaç ve kapsam
+**Amaç ve kapsam**
 
-MADDE 1 – (1) Bu Kanunun amacı; solumak, koklamak yoluyla veya başka bir şekilde kişilerde bağımlılık yapabilen ürünlerin kontrolünü sağlamak, özellikle çocukların erişimini ve kullanımını önleyerek onları bu maddelerin zararlı etkilerinden korumaktır.
+**MADDE 1 –** (1) Bu Kanunun amacı; solumak, koklamak yoluyla veya başka bir şekilde kişilerde bağımlılık yapabilen ürünlerin kontrolünü sağlamak, özellikle çocukların erişimini ve kullanımını önleyerek onları bu maddelerin zararlı etkilerinden korumaktır.
 
 (2) Bu Kanun; kırtasiye malzemesi, boya incelticisi gibi maddeler ile yapıştırıcı olarak kullanılan ve uçucu madde ihtiva eden ürünleri kapsar.
 
-Kontrol
+**Kontrol**
 
-MADDE 2 – (1) Bu Kanun kapsamına giren ürünler, hangi amaçla olursa olsun, çocuklara satılamaz, verilemez.
+**MADDE 2 –** (1) Bu Kanun kapsamına giren ürünler, hangi amaçla olursa olsun, çocuklara satılamaz, verilemez.
 
 Çocuklar tarafından kullanılabilme ihtimalinin varlığı halinde, bu ürünler yetişkinlere de satılamaz, verilemez.
 
@@ -49,9 +49,9 @@ Sağlık Bakanlığı, ilgili diğer merkezi ve mahalli kurum ve kuruluşlar tar
 
 (8) Bu Kanun kapsamına giren ürünlerin su bazlı olmaları veya bu ürünlere hoş olmayan koku katılması için teşvik edici tedbirler alınır.
 
-Ceza hükümleri
+**Ceza hükümleri**
 
-MADDE 3 – (1) 2 nci maddenin birinci ve üçüncü fıkralarındaki yükümlülüklere aykırı hareket eden kişiler, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun “Sağlık için tehlikeli madde temini” başlıklı 194 üncü maddesi hükmüne göre cezalandırılır.
+**MADDE 3 –** (1) 2 nci maddenin birinci ve üçüncü fıkralarındaki yükümlülüklere aykırı hareket eden kişiler, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun “Sağlık için tehlikeli madde temini” başlıklı 194 üncü maddesi hükmüne göre cezalandırılır.
 
 (2) 2 nci maddenin dördüncü fıkrasına aykırı olarak bu Kanun kapsamına giren ürünleri ihtiva eden yapıştırıcı kırtasiye malzemelerinin eğitim ve öğretim faaliyetinde kullanılmasına izin verenlere, beşyüz Türk Lirası idari para cezası verilir ve bu kırtasiye malzemelerinin eğitim ve öğretim kurumunda kullanılması men edilir.
 
@@ -61,9 +61,9 @@ MADDE 3 – (1) 2 nci maddenin birinci ve üçüncü fıkralarındaki yükümlü
 
 (5) Bu madde hükümlerine göre idari para cezasına ve diğer tedbirlere karar vermeye, mahalli mülki amir yetkilidir.
 
-Yönetmelik
+**Yönetmelik**
 
-MADDE 4 – (1) Bu Kanunun;
+**MADDE 4 –** (1) Bu Kanunun;
 
 a) 2 nci maddesinin sekizinci fıkrasındaki teşvik edici tedbirler Hazine Müsteşarlığının görüşü alınarak Maliye
 
@@ -73,12 +73,12 @@ b) Diğer hükümlerinin uygulanmasına ilişkin esas ve usuller ilgili Devlet b
 
 Çalışma ve Sosyal Güvenlik ve Sanayi ve Ticaret bakanlıklarının görüşleri alınarak, Sağlık Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
 
-Yürürlük
+**Yürürlük**
 
-MADDE 5 – (1) Bu Kanunun;
+**MADDE 5 –** (1) Bu Kanunun;
 
 a) 2 nci maddesinin dördüncü, beşinci ve yedinci fıkraları yayımı tarihinden itibaren bir yıl sonra, b) Diğer hükümleri yayımı tarihinde, yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 6 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 6 –** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

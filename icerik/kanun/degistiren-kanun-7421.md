@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/11/20221126-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN VERGİ USUL KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7421 Kabul Tarihi: 16/11/2022
+**KANUN VERGİ USUL KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7421 Kabul Tarihi: 16/11/2022**
 
 MADDE 1- 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 257 nci maddesinin birinci fıkrasına (9) numaralı bendinden sonra gelmek üzere aşağıdaki bent eklenmiştir.
 “10. 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununda tanımlı bulunan motorlu araç ticareti yapan mükelleflerden; doğacak vergilerin tahsil güvenliğini sağlamak amacıyla, 30 milyon Türk lirasına kadar, 6183 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (1), (2) ve (3) numaralı bentlerinde yer alan türden teminat almaya, mükelleflerin; faaliyet alanı, hukuki statüsü, mükellefiyet süresi, aktif veya öz sermaye büyüklüğü, çalışan sayısı, hakkında sahte veya muhteviyatı itibarıyla yanıltıcı belge düzenleme veya kullanma yönünde olumsuz rapor ya da tespit bulunup bulunmadığı, iş veya üretim hacmi ile ürün ve mükellef gruplarını ayrı ayrı veya birlikte dikkate alarak, teminatın; türünü, tutarını, verilmesi gereken zamanı, iadesi ile tamamlanmasına ilişkin hususları belirlemeye, bentte yer alan tutarı sıfıra kadar indirmeye ve iki katına kadar artırmaya, hangi hâllerde teminat aranılmayacağını ve uygulamaya ilişkin diğer usul ve esasları belirlemeye,”

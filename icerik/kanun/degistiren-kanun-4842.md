@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2003/04/20030424.htm#17"
 durum: "yürürlükte"
 ---
 
-Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Kanun No. 4842 Kabul Tarihi : 9.4.2003
+**Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Kanun No. 4842 Kabul Tarihi : 9.4.2003**
 
 
 MADDE 1 – 31.12.1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun yürürlükten kaldırılmış olan 19 uncu maddesi başlığıyla birlikte aşağıdaki şekilde düzenlenmiştir.
@@ -380,15 +380,15 @@ Savunma Sanayii Destekleme Fonu % 3,5 Sosyal Yardımlaşmayı ve Dayanışmayı 
 Maliye Bakanlığı fon payı uygulaması ile ilgili usul ve esasları belirlemeye yetkilidir.
 GEÇİCİ
 
-MADDE 1. — Gelir Vergisi Kanununun 94 üncü ve Kurumlar Vergisi Kanununun 24 üncü maddesi gereğince vergi tevkifatı yapmak zorunda olanlar, Aralık 2003 dönemi ile ilgili olarak hesapladıkları fon payını, bu Kanunun 37 nci maddesinin (3) numaralı fıkrası ile kaldırılan hükümler çerçevesinde öderler.
+**MADDE 1. —** Gelir Vergisi Kanununun 94 üncü ve Kurumlar Vergisi Kanununun 24 üncü maddesi gereğince vergi tevkifatı yapmak zorunda olanlar, Aralık 2003 dönemi ile ilgili olarak hesapladıkları fon payını, bu Kanunun 37 nci maddesinin (3) numaralı fıkrası ile kaldırılan hükümler çerçevesinde öderler.
 2003 yılı vergilendirme dönemlerine ilişkin olarak 1.1.2004 tarihinden sonra verilmesi gereken yıllık gelir ve kurumlar vergisi beyannameleri üzerinden hesaplanan gelir ve kurumlar vergisi tutarlarından ayrıca fon payı hesaplanmaz, bu kazanç ve iratlara ilişkin olarak vergilendirme dönemi içinde ödenen fon payları mahsup ve iadeye konu olmaz.
 2004 yılı Ocak ayı gelir ve kurumlar vergisi tahsilatından bu Kanunun 38 inci maddesi hükümleri çerçevesinde pay verilmez.
 GEÇİCİ
 
-MADDE 2. — Bu Kanunun yayımı tarihinden önce yapılan finansal kiralama sözleşmeleri ile ilgili olarak, 10.6.1985 tarihli ve 3226 sayılı Finansal Kiralama Kanununun bu Kanun ile değiştirilmeden önceki 28 inci maddesi hükümleri uygulanır.
+**MADDE 2. —** Bu Kanunun yayımı tarihinden önce yapılan finansal kiralama sözleşmeleri ile ilgili olarak, 10.6.1985 tarihli ve 3226 sayılı Finansal Kiralama Kanununun bu Kanun ile değiştirilmeden önceki 28 inci maddesi hükümleri uygulanır.
 GEÇİCİ
 
-MADDE 3. — 15.11.2000 tarihli ve 4603 sayılı Kanun kapsamında olan bankalarca yeniden yapılandırma süreci içinde, açılmış veya açılacak dava ve takipler sonuçlandırılıncaya kadar 492 sayılı Harçlar Kanununun 2 nci, 23 üncü, 29 uncu maddeleri ve 2548 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanunun 1 inci maddesi hükümleri uygulanmayacağı gibi her türlü ihtiyatî tedbir ve ihtiyatî haciz taleplerinde teminat şartı aranmaz. Ayrıca bankaların mahkeme ilâmını alması ve tebliğe çıkartması işlemlerinde karşı tarafa yükletilmiş olan harcın ödenmiş olması şartı da aranmaz.
+**MADDE 3. —** 15.11.2000 tarihli ve 4603 sayılı Kanun kapsamında olan bankalarca yeniden yapılandırma süreci içinde, açılmış veya açılacak dava ve takipler sonuçlandırılıncaya kadar 492 sayılı Harçlar Kanununun 2 nci, 23 üncü, 29 uncu maddeleri ve 2548 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanunun 1 inci maddesi hükümleri uygulanmayacağı gibi her türlü ihtiyatî tedbir ve ihtiyatî haciz taleplerinde teminat şartı aranmaz. Ayrıca bankaların mahkeme ilâmını alması ve tebliğe çıkartması işlemlerinde karşı tarafa yükletilmiş olan harcın ödenmiş olması şartı da aranmaz.
 
 
 MADDE 39 – Bu Kanunun;

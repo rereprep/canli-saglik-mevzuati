@@ -11,11 +11,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2005/07/20050713-6.htm"
 durum: "yürürlükte"
 ---
 
-Kanun Kanun Belediye Kanunu Kanun No. 5393 Kabul Tarihi: 3.7.2005
+Kanun Kanun **Belediye Kanunu Kanun No. 5393 Kabul Tarihi: 3.7.2005**
 BİRİNCİ KISIM
 Genel Hükümler
 BİRİNCİ BÖLÜM
-Amaç, Kapsam ve Tanımlar Amaç
+**Amaç**, Kapsam ve Tanımlar Amaç
 
 
 MADDE 1 – Bu Kanunun amacı, belediyenin kuruluşunu, organlarını, yönetimini, görev, yetki ve sorumlulukları ile çalışma usûl ve esaslarını düzenlemektir.
@@ -32,7 +32,7 @@ b) Belediyenin organları: Belediye meclisini, belediye encümenini ve belediye 
 c) Belde: Belediyesi bulunan yerleşim yerini,
 d) Mahalle: Belediye sınırları içinde, ihtiyaç ve öncelikleri benzer özellikler gösteren ve sakinleri arasında komşuluk ilişkisi bulunan idarî birimi, İfade eder.
 İKİNCİ BÖLÜM
-Belediyenin Kuruluşu ve Sınırları Kuruluş
+Belediyenin Kuruluşu ve Sınırları **Kuruluş**
 
 
 MADDE 4 – Nüfusu 5.000 ve üzerinde olan yerleşim birimlerinde belediye kurulabilir. İl ve ilçe merkezlerinde belediye kurulması zorunludur.
@@ -41,7 +41,7 @@ Köylerin veya muhtelif köy kısımlarının birleşerek belediye kurabilmeleri
 Bir veya birden fazla köyün köy ihtiyar meclisinin kararı veya seçmenlerinin en az yarısından bir fazlasının mahallin en büyük mülkî idare amirine yazılı başvurusu ya da valinin kendiliğinden buna gerek görmesi durumunda, valinin bildirimi üzerine, mahallî seçim kurulları, onbeş gün içinde köyde veya köy kısımlarında kayıtlı seçmenlerin oylarını alır ve sonucu bir tutanakla valiliğe bildirir.
 İşlem dosyası valinin görüşüyle birlikte İçişleri Bakanlığına gönderilir. Danıştayın görüşü alınarak müşterek kararname ile o yerde belediye kurulur.
 Yeni iskân nedeniyle oluşturulan ve nüfusu 5.000 ve üzerinde olan herhangi bir yerleşim yerinde, İçişleri Bakanlığının önerisi üzerine müşterek kararnameyle belediye kurulabilir.
-Sınırların tespiti
+**Sınırların tespiti**
 
 
 MADDE 5 – Yeni kurulan bir belediyenin sınırları, kuruluşu izleyen altı ay içinde aşağıdaki şekilde tespit edilir:
@@ -50,18 +50,18 @@ b) Belediye sınırlarını dere, tepe, yol gibi belirli ve sabit noktalardan ge
 c) Belediyenin sınırları içinde kalan ve eskiden beri komşu belde veya köy halkı tarafından yararlanılan yayla, çayır, mera, koru, kaynak ve mesirelik gibi yerlerden geleneksel yararlanma hakları devam eder.
 Bu haklar için sınır kâğıdına şerh konulur.
 d) Çizilen sınırların geçtiği yerlerin bilinen adları sınır kâğıdına yazılır. Ayrıca yetkili fen elemanı tarafından düzenlenen kroki sınır tespit tutanağına eklenir.
-Sınırların kesinleşmesi
+**Sınırların kesinleşmesi**
 
 
 MADDE 6 – Belediye sınırları, belediye meclisinin kararı ve kaymakamın görüşü üzerine valinin onayı ile kesinleşir.
 Kesinleşen sınırlar, valilikçe yerinde uygulanmak suretiyle taraflara gösterilir ve durum bir tutanakla belirlenir. Kesinleşen sınır kararları ile dayanağı olan belgelerin birer örneği; belediyesine, mahallî tapu dairesine, il özel idaresine ve o yerin mülkî idare amirine gönderilir.
 Kesinleşen sınırlar zorunlu nedenler olmadıkça beş yıl süre ile değiştirilemez.
-Sınır uyuşmazlıklarının çözümü
+**Sınır uyuşmazlıklarının çözümü**
 
 
 MADDE 7 – Bir il dâhilindeki beldeler veya köyler arasında sınır uyuşmazlığı çıkması hâlinde ilgili belediye meclisi ve köy ihtiyar meclisi ile kaymakamın görüşleri otuz gün süre verilerek istenir. Vali, bu görüşleri değerlendirerek sınır uyuşmazlığını karara bağlar. Büyükşehir belediyesi sınırları içinde kalan ilçe ve ilk kademe belediyelerinin sınır değişikliklerinde büyükşehir belediye meclisinin de görüşü alınır.
 İl ve ilçe sınırlarının değiştirilmesini gerektirecek sınır uyuşmazlıklarında 5442 sayılı İl İdaresi Kanunu hükümleri uygulanır.
-Birleşme ve katılma
+**Birleşme ve katılma**
 
 
 MADDE 8 – Belde, köy veya bunların bazı kısımlarının bir başka beldeye katılabilmesi için bu yerlerin meskûn sahalarının katılınacak beldenin meskûn sahasına uzaklığı 5.000 metreden fazla olamaz.
@@ -71,30 +71,30 @@ Bir beldenin bazı kısımlarının komşu bir beldeye katılmasında veya yeni 
 Büyükşehir belediyesi bulunan yerlerde ayrılma yoluyla yeni bir belde kurulması için belde nüfusunun 100.000'den aşağı düşmemesi ve yeni kurulacak beldenin nüfusunun 50.000'den az olmaması şarttır.
 Bu madde uyarınca gerçekleşen katılmalarda, katılınan belde ile bazı kısımları veya tümü katılan köy veya belde arasında; taşınır ve taşınmaz mal, hak, alacak ve borçların devri ve paylaşımı, aralarında düzenlenecek protokolle belirlenir.
 Birleşme ve katılma işlemlerinde bu maddede düzenlenmeyen hususlarda 4 üncü madde hükmüne göre işlem yapılır.
-Mahalle ve yönetimi
+**Mahalle ve yönetimi**
 
 
 MADDE 9 – Mahalle, muhtar ve ihtiyar heyeti tarafından yönetilir.
 Belediye sınırları içinde mahalle kurulması, kaldırılması, birleştirilmesi, bölünmesi, adlarıyla sınırlarının tespiti ve değiştirilmesi, belediye meclisinin kararı ve kaymakamın görüşü üzerine valinin onayı ile olur.
 Muhtar, mahalle sakinlerinin gönüllü katılımıyla ortak ihtiyaçları belirlemek, mahallenin yaşam kalitesini geliştirmek, belediye ve diğer kamu kurum ve kuruluşlarıyla ilişkilerini yürütmek, mahalle ile ilgili konularda görüş bildirmek, diğer kurumlarla iş birliği yapmak ve kanunlarla verilen diğer görevleri yapmakla yükümlüdür.
 Belediye, mahallenin ve muhtarlığın ihtiyaçlarının karşılanması ve sorunlarının çözümü için bütçe imkânları ölçüsünde gerekli ayni yardım ve desteği sağlar; kararlarında mahallelinin ortak isteklerini göz önünde bulundurur ve hizmetlerin mahallenin ihtiyaçlarına uygun biçimde yürütülmesini sağlamaya çalışır.
-Belde adının değiştirilmesi
+**Belde adının değiştirilmesi**
 
 
 MADDE 10 – Bir beldenin adı, belediye meclisi üye tam sayısının en az dörtte üç çoğunluğunun kararı ve valinin görüşü üzerine İçişleri Bakanlığının onayı ile değiştirilir. Bu karar Resmî Gazetede yayımlanır.
 Beldenin adının değişmesi ile belediyenin adı da değişmiş sayılır.
-Tüzel kişiliğin sona erdirilmesi
+**Tüzel kişiliğin sona erdirilmesi**
 
 
 MADDE 11 – Meskûn sahası, bağlı olduğu il veya ilçe belediyesi ile nüfusu 50.000 ve üzerinde olan bir belediyenin sınırına, 5.000 metreden daha yakın duruma gelen belediye ve köylerin tüzel kişiliği; genel imar düzeni veya temel alt yapı hizmetlerinin gerekli kılması durumunda, Danıştayın görüşü alınarak, İçişleri Bakanlığının teklifi üzerine müşterek kararname ile kaldırılarak bu belediyeye katılır. Tüzel kişiliği kaldırılan belediyenin mahalleleri, katıldıkları belediyenin mahalleleri hâline gelir. Tüzel kişiliği kaldırılan belediye ile köylerin taşınır ve taşınmaz mal, hak, alacak ve borçları katıldıkları belediyeye intikal eder.
 Nüfusu 2.000'in altına düşen belediyeler, Danıştayın görüşü alınarak, İçişleri Bakanlığının önerisi üzerine müşterek kararname ile köye dönüştürülür. Tüzel kişiliği kaldırılan belediyenin tasfiyesi il özel idaresi tarafından yapılır. Bu belediyenin taşınır ve taşınmaz malları ile hak, alacak ve borçları ilgili köy tüzel kişiliğine intikal eder. İntikal eden borçların karşılanamayan kısımları il özel idaresi tarafından üstlenilir ve vali tarafından İller Bankasına bildirilir. İller Bankası bu miktarı, takip eden ayın genel bütçe vergi gelirleri tahsilat toplamının belediyelere ayrılan kısmından keserek ilgili il özel idaresi hesabına aktarır.
-Kararlarının uygulanması ve nüfus
+**Kararlarının uygulanması ve nüfus**
 
 
 MADDE 12 – 4, 6, 7, 8 ve 9 uncu maddelerde belirtilen kararlar kesinleşme tarihini takip eden yılın ocak ayının birinci gününden itibaren yürürlüğe girer. 4 üncü maddeye göre belediye kurulan yerlerde 2972 sayılı Mahallî İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanunun 29 uncu maddesine göre seçim yapılır.
 8 inci maddede geçen birleşme ve katılmalara, 9 uncu maddede geçen mahalle kaldırılmasına, 11 inci maddede geçen belediye ve köy tüzel kişiliğinin kaldırılmasına veya bir beldenin köye dönüştürülmesine dair kararlar ilk mahallî idareler seçimlerinde uygulanır ve seçimler bu yerlerin yeni durumlarına göre yapılır.
 Bu Kanunda öngörülen nüfus büyüklüğü için Devlet İstatistik Enstitüsü Başkanlığınca bildirilen nüfus esas alınır.
-Hemşehri hukuku
+**Hemşehri hukuku**
 
 
 MADDE 13 – Herkes ikamet ettiği beldenin hemşehrisidir.
@@ -102,7 +102,7 @@ Hemşehrilerin, belediye karar ve hizmetlerine katılma, belediye faaliyetleri h
 Belediye, hemşehriler arasında sosyal ve kültürel ilişkilerin geliştirilmesi ve kültürel değerlerin korunması konusunda gerekli çalışmaları yapar. Bu çalışmalarda üniversitelerin, kamu kurumu niteliğindeki meslek kuruluşlarının, sendikaların, sivil toplum kuruluşları ve uzman kişilerin katılımını sağlayacak önlemler alınır.
 Belediye sınırları içinde oturan, bulunan veya ilişiği olan her şahıs, belediyenin kanunlara dayanan kararlarına, emirlerine ve duyurularına uymakla ve belediye vergi, resim, harç, katkı ve katılma paylarını ödemekle yükümlüdür.
 ÜÇÜNCÜ BÖLÜM
-Belediyenin Görev, Yetki ve Sorumlulukları Belediyenin görev ve sorumlulukları
+Belediyenin Görev, Yetki ve Sorumlulukları **Belediyenin görev ve sorumlulukları**
 
 
 MADDE 14 – Belediye, mahallî müşterek nitelikte olmak şartıyla;
@@ -116,7 +116,7 @@ Belediye hizmetleri, vatandaşlara en yakın yerlerde ve en uygun yöntemlerle s
 Belediyenin görev, sorumluluk ve yetki alanı belediye sınırlarını kapsar.
 Belediye meclisinin kararı ile mücavir alanlara da belediye hizmetleri götürülebilir.
 4562 sayılı Organize Sanayi Bölgeleri Kanunu hükümleri saklıdır.
-Belediyenin yetkileri ve imtiyazları
+**Belediyenin yetkileri ve imtiyazları**
 
 
 MADDE 15 – Belediyenin yetkileri ve imtiyazları şunlardır:
@@ -145,18 +145,18 @@ Belediye, (e), (f) ve (g) bentlerinde belirtilen hizmetleri Danıştayın görü
 Belediye, belde sakinlerinin belediye hizmetleriyle ilgili görüş ve düşüncelerini tespit etmek amacıyla kamuoyu yoklaması ve araştırması yapabilir.
 Belediye mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş sayılır. 2886 sayılı Devlet İhale Kanununun 75 inci maddesi hükümleri belediye taşınmazları hakkında da uygulanır.
 Belediyenin proje karşılığı borçlanma yoluyla elde ettiği gelirleri, şartlı bağışlar ve kamu hizmetlerinde fiilen kullanılan malları ile belediye tarafından tahsil edilen vergi, resim ve harç gelirleri haczedilemez.
-Belediyeye tanınan muafiyet
+**Belediyeye tanınan muafiyet**
 
 
 MADDE 16 – Belediyenin kamu hizmetine ayrılan veya kamunun yararlanmasına açık, gelir getirmeyen taşınmazları ile bunların inşa ve kullanımları her türlü vergi, resim, harç, katılma ve katkı paylarından muaftır.
 İKİNCİ KISIM
 Belediyenin Organları
 BİRİNCİ BÖLÜM
-Belediye Meclisi Belediye meclisi
+Belediye Meclisi **Belediye meclisi**
 
 
 MADDE 17 – Belediye meclisi, belediyenin karar organıdır ve ilgili kanunda gösterilen esas ve usûllere göre seçilmiş üyelerden oluşur.
-Meclisin görev ve yetkileri
+**Meclisin görev ve yetkileri**
 
 
 MADDE 18 – Belediye meclisinin görev ve yetkileri şunlardır:
@@ -181,7 +181,7 @@ r) Fahrî hemşehrilik payesi ve beratı vermek.
 s) Belediye başkanıyla encümen arasındaki anlaşmazlıkları karara bağlamak.
 t) Mücavir alanlara belediye hizmetlerinin götürülmesine karar vermek.
 u) İmar plânlarına uygun şekilde hazırlanmış belediye imar programlarını görüşerek kabul etmek.
-Başkanlık divanı
+**Başkanlık divanı**
 
 
 MADDE 19 – Belediye meclisi, seçim sonuçlarının ilânını takip eden beşinci gün belediye başkanının başkanlığında kendiliğinden toplanır.
@@ -191,7 +191,7 @@ Meclise belediye başkanı, katılamaması durumunda meclis birinci başkan veki
 Başkanlık divanında boşalma olması durumunda kalan süreyi tamamlamak üzere yenisi seçilir.
 Meclis başkanı, meclis çalışmalarında düzeni sağlamakla yükümlüdür.
 Meclisin çalışması ve katılıma ilişkin esas ve usûller İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.
-Meclis toplantısı
+**Meclis toplantısı**
 
 
 MADDE 20 – Belediye meclisi, her ayın ilk haftası, önceden kararlaştırdığı günde toplânır.
@@ -200,13 +200,13 @@ Bütçe görüşmesine rastlayan toplantı süresi en çok yirmi gün, diğer to
 Mutat toplantı yeri dışında toplanılmasının zorunlu olduğu durumda üyelere önceden bilgi vermek kaydıyla meclis başkanının belediye sınırları içerisinde belirlediği yerde toplantı yapılır. Ayrıca, toplantının yeri ve zamanı mutat usûllerle belde halkına duyurulur.
 Meclis toplantıları açıktır. Meclis başkanının veya üyelerden herhangi birinin gerekçeli önerisi üzerine, toplantıya katılanların salt çoğunluğuyla kapalı oturum yapılmasına karar verilebilir.
 Meclis görüşmeleri görevlilerce tutanağa geçirilir, başkan ve kâtip üyeler tarafından imzalanır. Toplantılar, meclisin kararıyla sesli ve görüntülü cihazlarla da kaydedilebilir.
-Gündem
+**Gündem**
 
 
 MADDE 21 – Her ayın ilk günündeki belediye meclis gündemi belediye başkanı tarafından belirlenerek en az üç gün önceden üyelere bildirilir ve çeşitli yöntemlerle halka duyurulur.
 Her ayın ilk toplantısında belediye başkanı ve meclis üyeleri belediyeye ait işlerle ilgili konuların gündeme alınmasını önerebilir. Öneri, toplantıya katılanların salt çoğunluğuyla kabul edildiği takdirde gündeme alınır.
 İmar konuları ile yıllık bütçe dışında kalan gündemdeki diğer konular ile üyelerin teklifleri; toplantıya katılanların salt çoğunluğunun kabulü hâlinde komisyonlara havale edilmeksizin belediye meclisince görüşülerek karara bağlanabilir.
-Toplantı ve karar yeter sayısı
+**Toplantı ve karar yeter sayısı**
 
 
 MADDE 22 – Belediye meclisi, üye tam sayısının salt çoğunluğuyla toplanır ve katılanların salt çoğunluğuyla karar verir. Ancak, karar yeter sayısı, üye tam sayısının dörtte birinden az olamaz. Oylamada eşitlik çıkması durumunda meclis başkanının bulunduğu taraf çoğunluk sayılır. Gizli oylamalarda eşitlik çıkması durumunda oylama tekrarlanır, eşitliğin bozulmaması durumunda meclis başkanı tarafından kur’a çekilir.
@@ -215,7 +215,7 @@ Görüşmeler sırasında başkan veya üyelerden birinin talebi üzerine yapıl
 Üyeler oylarını bizzat kullanır. Gizli oy kullanmaya fizikî bakımdan engelli üyeler, tayin edecekleri kişi eliyle oy kullanabilirler.
 Oylama gizli, işaretle veya ad okunarak yapılır. Oy verme kabul, ret veya çekimser şeklinde olur.
 Kararlar, meclis başkanı ve kâtip üyeler tarafından imzalanır ve bir sonraki toplantıda üyelere dağıtılır.
-Meclis kararlarının kesinleşmesi
+**Meclis kararlarının kesinleşmesi**
 
 
 MADDE 23 – Belediye başkanı, hukuka aykırı gördüğü meclis kararlarını, gerekçesini de belirterek yeniden görüşülmek üzere beş gün içinde meclise iade edebilir.
@@ -224,7 +224,7 @@ Belediye başkanı, meclisin ısrarı ile kesinleşen kararlar aleyhine on gün 
 Kararlar kesinleştiği tarihten itibaren en geç yedi gün içinde mahallin en büyük mülkî idare amirine gönderilir. Mülkî idare amirine gönderilmeyen kararlar yürürlüğe girmez.
 Mülkî idare amiri hukuka aykırı gördüğü kararlar aleyhine idarî yargıya başvurabilir.
 Kesinleşen meclis kararlarının özetleri yedi gün içinde uygun araçlarla halka duyurulur.
-İhtisas komisyonları
+**İhtisas komisyonları**
 
 
 MADDE 24 – Belediye meclisi, üyeleri arasından en az üç en fazla beş kişiden oluşan ihtisas komisyonları kurabilir. Komisyonların bir yılı geçmemek üzere ne kadar süre için kurulacağı aynı meclis kararında belirtilir.
@@ -234,7 +234,7 @@ Meclis toplantısını müteakip imar komisyonu en fazla on iş günü, diğer k
 Mahalle muhtarları ve ildeki kamu kuruluşlarının amirleri ile ildeki kamu kurumu niteliğindeki meslek kuruluşları, üniversiteler, sendikalar ve gündemdeki konularla ilgili sivil toplum örgütlerinin temsilcileri, oy hakkı olmaksızın kendi görev ve faaliyet alanlarına giren konuların görüşüldüğü ihtisas komisyonu toplantılarına katılabilir ve görüş bildirebilir.
 Komisyon çalışmalarında uzman kişilerden yararlanılabilir.
 Komisyon raporları alenîdir, çeşitli yollarla halka duyurulur ve isteyenlere meclis tarafından maliyetlerini aşmamak üzere belirlenecek bedel karşılığında verilir.
-Denetim komisyonu
+**Denetim komisyonu**
 
 
 MADDE 25 – İl ve ilçe belediyeleri ile nüfusu 10.000'in üzerindeki belediyelerde, belediye meclisi, her ocak ayı toplantısında belediyenin bir önceki yıl gelir ve giderleri ile bunlara ilişkin hesap kayıt ve işlemlerinin denetimi için kendi üyeleri arasından gizli oyla ve üye sayısı üçten az beşten çok olmamak üzere bir denetim komisyonu oluşturur.
@@ -244,7 +244,7 @@ Denetim komisyonu toplantılarına, belediye ve bağlı kuruluşları dışında
 Komisyon belediye birimleri ve bağlı kuruluşlarından her türlü bilgi ve belgeyi isteyebilir. Bu istekler gecikmeksizin yerine getirilir.
 Komisyon, çalışmasını kırkbeş işgünü içinde tamamlar ve buna ilişkin raporunu mart ayının sonuna kadar meclis başkanlığına sunar.
 Konusu suç teşkil eden hususlarla ilgili olarak meclis başkanlığı tarafından yetkili mercilere suç duyurusunda bulunulur.
-Meclisin bilgi edinme ve denetim yolları
+**Meclisin bilgi edinme ve denetim yolları**
 
 
 MADDE 26 – Belediye meclisi, bilgi edinme ve denetim yetkisini faaliyet raporunu değerlendirme, denetim komisyonu, soru, genel görüşme ve gensoru yoluyla kullanır.
@@ -256,21 +256,21 @@ Yetersizlik kararı, Danıştayca uygun görüldüğü takdirde belediye başkan
 Meclis üye tam sayısının en az üçte biri oranındaki üyenin imzasıyla belediye başkanı hakkında gensoru önergesi verilebilir.
 Gensoru önergesi, meclis üye tam sayısının salt çoğunluğunun oyu ile gündeme alınır ve üç tam gün geçmedikçe görüşülemez.
 Gensoru önergesinin karara bağlanmasında dördüncü fıkraya göre işlem yapılır.
-Başkan ve meclis üyelerinin görüşmelere katılamayacağı durumlar
+**Başkan ve meclis üyelerinin görüşmelere katılamayacağı durumlar**
 
 
 MADDE 27 – Belediye başkanı ve meclis üyeleri, münhasıran kendileri, ikinci derece dâhil kan ve kayın hısımları ve evlatlıkları ile ilgili işlerin görüşüldüğü meclis toplantılarına katılamazlar.
-Başkan ve meclis üyelerinin yükümlülükleri
+**Başkan ve meclis üyelerinin yükümlülükleri**
 
 
 MADDE 28 – Belediye başkanı görevi süresince ve görevinin sona ermesinden itibaren iki yıl süreyle, meclis üyeleri ise görevleri süresince ve görevlerinin sona ermesinden itibaren bir yıl süreyle, belediye ve bağlı kuruluşlarına karşı doğrudan doğruya veya dolaylı olarak taahhüde giremez, komisyonculuk ve temsilcilik yapamaz.
-Meclis üyeliğinin sona ermesi
+**Meclis üyeliğinin sona ermesi**
 
 
 MADDE 29 – Meclis üyeliği, ölüm ve istifa durumunda kendiliğinden sona erer. Meclis üyeliğinden istifa dilekçesi belediye başkanlığına verilir ve başkan tarafından meclisin bilgisine sunulur.
 Özürsüz veya izinsiz olarak arka arkaya üç birleşim günü veya bir yıl içinde yapılan toplantıların yarısına katılmayan üyenin üyeliğinin düşmesine, savunması alındıktan sonra üye tam sayısının salt çoğunluğuyla karar verilir.
 Belediye meclisi üyeliğine seçilme yeterliğinin kaybedilmesi durumunda, valinin bildirmesi üzerine Danıştay tarafından üyeliğin düşmesine karar verilir.
-Meclisin feshi
+**Meclisin feshi**
 
 
 MADDE 30 – Belediye meclisi;
@@ -278,7 +278,7 @@ a) Kendisine kanunla verilen görevleri süresi içinde yapmayı ihmal eder ve b
 b) Belediyeye verilen görevlerle ilgisi olmayan siyasî konularda karar alırsa, İçişleri Bakanlığının bildirimi üzerine Danıştayın kararı ile feshedilir.
 İçişleri Bakanlığı gerekli gördüğü takdirde meclisin feshine dair bildirim ile birlikte, karar verilinceye kadar meclis toplantılarının ertelenmesini de ister. Danıştay, bu hususu en geç bir ay içinde karara bağlar.
 Bu şekilde feshedilen meclisin yerine seçilen meclis, kalan süreyi tamamlar.
-Boşalan meclisin görevinin yerine getirilmesi
+**Boşalan meclisin görevinin yerine getirilmesi**
 
 
 MADDE 31 – Belediye meclisinin;
@@ -286,13 +286,13 @@ a) Danıştay tarafından feshi veya meclis toplantılarının ertelenmesi,
 b) Meclis üye tam sayısının yarıdan fazlasının tutuklanması,
 c) Yedek üyelerin getirilmesinden sonra da meclis üye tam sayısının yarısından aşağı düşmesi,
 d) Geçici olarak görevden uzaklaştırılması, Hâllerinde, meclis çalışabilir duruma gelinceye veya yeni meclis seçimi yapılıncaya kadar meclis görevi, belediye encümeninin memur üyeleri tarafından yürütülür.
-Huzur ve izin hakkı
+**Huzur ve izin hakkı**
 
 
 MADDE 32 – Meclis başkan ve üyelerine, meclis ve komisyon toplantılarına katıldıkları her gün için, 39 uncu madde uyarınca belediye başkanına ödenmekte olan aylık brüt ödeneğin günlük tutarının üçte birini geçmemek üzere meclis tarafından belirlenecek miktarda huzur hakkı ödenir. Huzur hakkı ödenecek gün sayısı, 20, 24 ve 25 inci maddelerde belirtilen toplantı günü sayısından fazla olamaz ve meclis üyelerine aynı gün için birden fazla huzur hakkı ödenemez.
 Meclis üyeleri hastalıkları süresince izinli sayılır. Ayrıca mazeretleri durumunda, bir yıl içindeki toplantı süresinin yarısını aşmamak şartıyla istekleri üzerine meclis tarafından izin verilebilir.
 İKİNCİ BÖLÜM
-Belediye Encümeni Belediye encümeni
+Belediye Encümeni **Belediye encümeni**
 
 
 MADDE 33 – Belediye encümeni, belediye başkanının başkanlığında;
@@ -300,7 +300,7 @@ a) İl belediyelerinde ve nüfusu 100.000'in üzerindeki belediyelerde, belediye
 b) Diğer belediyelerde, belediye meclisinin her yıl kendi üyeleri arasından bir yıl için gizli oyla seçeceği iki üye, malî hizmetler birim amiri ve belediye başkanının birim amirleri arasından bir yıl için seçeceği bir üye olmak üzere beş kişiden, Oluşur.
 Belediye başkanının katılamadığı toplantılarda, belediye başkanının görevlendireceği başkan yardımcısı veya encümen üyesi, encümene başkanlık eder.
 Encümen toplantılarına gündemdeki konularla ilgili olarak ilgili birim amirleri, belediye başkanı tarafından oy hakkı olmaksızın görüşleri alınmak üzere çağrılabilir.
-Encümenin görev ve yetkileri
+**Encümenin görev ve yetkileri**
 
 
 MADDE 34 – Belediye encümeninin görev ve yetkileri şunlardır:
@@ -313,7 +313,7 @@ f) Vergi, resim ve harçlar dışında kalan dava konusu olan belediye uyuşmazl
 g) Taşınmaz mal satımına, trampasına ve tahsisine ilişkin meclis kararlarını uygulamak; süresi üç yılı geçmemek üzere kiralanmasına karar vermek.
 h) Umuma açık yerlerin açılış ve kapanış saatlerini belirlemek.
 i) Diğer kanunlarda belediye encümenine verilen görevleri yerine getirmek.
-Encümen toplantısı
+**Encümen toplantısı**
 
 
 MADDE 35 – Belediye encümeni, haftada birden az olmamak üzere önceden belirlenen gün ve saatte toplanır. Belediye başkanı acil durumlarda encümeni toplantıya çağırabilir.
@@ -322,17 +322,17 @@ Encümen gündemi belediye başkanı tarafından hazırlanır. Encümen üyeleri
 Encümene havale edilen konular bir hafta içinde görüşülerek karara bağlanır.
 Alınan kararlar başkan ve toplantıya katılan üyeler tarafından imzalanır. Karara muhalif kalanlar gerekçelerini de açıklar.
 Encümen başkan ve üyeleri, münhasıran kendileri, ikinci derece dâhil kan ve kayın hısımları ve evlatlıkları ile ilgili işlerin görüşüldüğü encümen toplantılarına katılamazlar.
-Encümen üyelerine verilecek ödenek
+**Encümen üyelerine verilecek ödenek**
 
 
 MADDE 36 – Belediye encümeni başkan ve üyelerine, nüfusu 10.000'e kadar olan belediyelerde (3.500), nüfusu 10.001-50.000'e kadar olan belediyelerde (4.500), 50.001-200.000'e kadar olan belediyelerde (6.000) ve 200.001'in üzerinde olan belediyelerde ise (7.500) gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu bulunacak tutarda aylık brüt ödenek verilir. Encümenin memur üyelerine bu tutarların yarısı ödenir.
 ÜÇÜNCÜ BÖLÜM
-Belediye Başkanı Belediye başkanı
+Belediye Başkanı **Belediye başkanı**
 
 
 MADDE 37 – Belediye başkanı, belediye idaresinin başı ve belediye tüzel kişiliğinin temsilcisidir. Belediye başkanı, ilgili kanunda gösterilen esas ve usûllere göre seçilir.
 Belediye başkanı, görevinin devamı süresince siyasî partilerin yönetim ve denetim organlarında görev alamaz; profesyonel spor kulüplerinin başkanlığını yapamaz ve yönetiminde bulunamaz.
-Belediye başkanının görev ve yetkileri
+**Belediye başkanının görev ve yetkileri**
 
 
 MADDE 38 – Belediye başkanının görev ve yetkileri şunlardır:
@@ -352,7 +352,7 @@ m) Belde halkının huzur, esenlik, sağlık ve mutluluğu için gereken önleml
 n) Bütçede yoksul ve muhtaçlar için ayrılan ödeneği kullanmak, özürlülere yönelik hizmetleri yürütmek ve özürlüler merkezini oluşturmak.
 o) Temsil ve ağırlama giderleri için ayrılan ödeneği kullanmak.
 p) Kanunlarla belediyeye verilen ve belediye meclisi veya belediye encümeni kararını gerektirmeyen görevleri yapmak ve yetkileri kullanmak.
-Belediye başkanının özlük hakları
+**Belediye başkanının özlük hakları**
 
 
 MADDE 39 – Belediye başkanına nüfusu;
@@ -368,28 +368,28 @@ Nüfusu 50.001'den az olan il merkezi beldelerde bu ödeneğin hesaplanmasında 
 Belediye başkanının görevli, izinli ve hasta bulunduğu sürelerde ödeneği kesilmez.
 Belediye başkanlığı yapmış olanların, personel kanunlarına tâbi bir kadroya atanmaları hâlinde belediye başkanlığında geçen süreleri memuriyette geçmiş sayılır.
 657 sayılı Devlet Memurları Kanunu uyarınca Devlet memurları ile bakmakla yükümlü bulundukları için uygulanan sosyal hak ve yardımlar, aynı esas ve usûllere göre belediye başkanları ile bakmakla yükümlü bulundukları için de uygulanır.
-Başkan vekili
+**Başkan vekili**
 
 
 MADDE 40 – Belediye başkanı izin, hastalık veya başka bir sebeple görev başında bulunmadığı hâllerde, bu süre içinde kendisine vekâlet etmek üzere, belediye meclisi üyeleri arasından birini başkan vekili olarak görevlendirir.
 Başkan vekili, başkanın yetkilerine sahiptir.
 Başkan vekiline, görev süresince başkana ödenen aylık brüt ödeneğin gün hesabı üzerinden ödenek verilir.
-Stratejik plân ve performans programı
+**Stratejik plân ve performans programı**
 
 
 MADDE 41 – Belediye başkanı, mahallî idareler genel seçimlerinden itibaren altı ay içinde; kalkınma plânı ve programı ile varsa bölge plânına uygun olarak stratejik plân ve ilgili olduğu yıl başından önce de yıllık performans programı hazırlayıp belediye meclisine sunar.
 Stratejik plân, varsa üniversiteler ve meslek odaları ile konuyla ilgili sivil toplum örgütlerinin görüşleri alınarak hazırlanır ve belediye meclisi tarafından kabul edildikten sonra yürürlüğe girer.
 Nüfusu 50.000'in altında olan belediyelerde stratejik plân yapılması zorunlu değildir.
 Stratejik plân ve performans programı bütçenin hazırlanmasına esas teşkil eder ve belediye meclisinde bütçeden önce görüşülerek kabul edilir.
-Yetki devri
+**Yetki devri**
 
 
 MADDE 42 – Belediye başkanı, görev ve yetkilerinden bir kısmını uygun gördüğü takdirde, yöneticilik sıfatı bulunan belediye görevlilerine devredebilir.
-İhtilâf hâli
+**İhtilâf hâli**
 
 
 MADDE 43 – Belediye başkanının kendisinin, birinci ve ikinci derecedeki kan ve kayın hısımlarının ve evlatlıklarının, belediye ile ihtilâflı olduğu durumlarda dava açılması ve bu davada belediyenin temsili, meclis birinci başkan vekili, bulunmadığı takdirde ikinci başkan vekili veya bunların yetkilendireceği kişiler tarafından yerine getirilir.
-Belediye başkanlığının sona ermesi
+**Belediye başkanlığının sona ermesi**
 
 
 MADDE 44 – Belediye başkanlığı, ölüm ve istifa hâllerinde kendiliğinden sona erer.
@@ -398,7 +398,7 @@ a) Mazeretsiz ve kesintisiz olarak yirmi günden fazla görevini terk etmesi ve 
 b) Seçilme yeterliğini kaybetmesi,
 c) Görevini sürdürmesine engel bir hastalık veya sakatlık durumunun yetkili sağlık kuruluşu raporuyla belgelenmesi,
 d) Meclisin feshine neden olan eylem ve işlemlere katılması, Hâllerinden birinin meydana gelmesi durumunda İçişleri Bakanlığının başvurusu üzerine Danıştay kararıyla başkanlık sıfatı sona erer.
-Belediye başkanlığının boşalması hâlinde yapılacak işlemler
+**Belediye başkanlığının boşalması hâlinde yapılacak işlemler**
 
 
 MADDE 45 – Belediye başkanlığının herhangi bir nedenle boşalması durumunda, vali tarafından belediye meclisinin on gün içinde toplanması sağlanır. Meclis, birinci başkan vekilinin, onun bulunmaması durumunda ikinci başkan vekilinin, onun da bulunmaması durumunda en yaşlı üyenin başkanlığında toplanarak;
@@ -409,12 +409,12 @@ Birinci fıkranın (b) bendi uyarınca başkan vekili seçildikten sonra belediy
 Yeni seçilen belediye başkanının görev süresi, yerine seçildiği başkanın görev süresi ile sınırlıdır. Başkan vekili, yeni başkan seçilinceye veya görevden uzaklaştırılmış ya da tutuklanmış olan başkan göreve dönünceye kadar görev yapar.
 Belediye başkanı veya başkan vekili seçilinceye kadar belediye başkanlığı görevi, meclis birinci başkan vekili, bulunmaması durumunda ikinci başkan vekili, onun da bulunmaması durumunda vali tarafından görevlendirilecek bir kamu görevlisi tarafından yürütülür.
 Belediye başkanı veya başkan vekili seçimi en geç onbeş gün içinde tamamlanmadığı takdirde belediye meclisinin feshine ilişkin hükümler uygulanır.
-Belediye başkanı görevlendirilmesi
+**Belediye başkanı görevlendirilmesi**
 
 
 MADDE 46 – Belediye başkanlığının herhangi bir nedenle boşalması ve yeni belediye başkanı veya başkan vekili seçiminin yapılamaması durumunda, seçim yapılıncaya kadar belediye başkanlığına büyükşehir ve il belediyelerinde İçişleri Bakanı, diğer belediyelerde vali tarafından görevlendirme yapılır. Görevlendirilecek kişinin belediye başkanı seçilme yeterliğine sahip olması şarttır.
 DÖRDÜNCÜ BÖLÜM
-Organlara İlişkin Ortak Hükümler Görevden uzaklaştırma
+Organlara İlişkin Ortak Hükümler **Görevden uzaklaştırma**
 
 
 MADDE 47 – Görevleriyle ilgili bir suç nedeniyle haklarında soruşturma veya kovuşturma açılan belediye organları veya bu organların üyeleri, kesin hükme kadar İçişleri Bakanı tarafından görevden uzaklaştırılabilir.
@@ -424,12 +424,12 @@ Görevden uzaklaştırılan belediye başkanına, görevden uzak kaldığı sür
 ÜÇÜNCÜ KISIM
 Belediye Teşkilâtı
 BİRİNCİ BÖLÜM
-Belediye Teşkilâtı ve Personeli Belediye teşkilâtı
+Belediye Teşkilâtı ve Personeli **Belediye teşkilâtı**
 
 
 MADDE 48 – Belediye teşkilâtı, norm kadroya uygun olarak yazı işleri, malî hizmetler, fen işleri ve zabıta birimlerinden oluşur.
 Beldenin nüfusu, fizikî ve coğrafî yapısı, ekonomik, sosyal ve kültürel özellikleri ile gelişme potansiyeli dikkate alınarak, norm kadro ilke ve standartlarına uygun olarak gerektiğinde sağlık, itfaiye, imar, insan kaynakları, hukuk işleri ve ihtiyaca göre diğer birimler oluşturulabilir. Bu birimlerin kurulması, kaldırılması veya birleştirilmesi belediye meclisinin kararıyla olur.
-Norm kadro ve personel istihdamı
+**Norm kadro ve personel istihdamı**
 
 
 MADDE 49 – Norm kadro ilke ve standartları İçişleri Bakanlığı ve Devlet Personel Başkanlığı tarafından müştereken belirlenir. Belediyenin ve bağlı kuruluşlarının norm kadroları, bu ilke ve standartlar çerçevesinde belediye meclisi kararıyla belirlenir.
@@ -443,14 +443,14 @@ Kamu kurum ve kuruluşlarında istihdam edilen memurlar, belediye başkanının 
 Norm kadrosunda belediye başkan yardımcısı bulunan belediyelerde norm kadro sayısına bağlı kalınmaksızın; belediye başkanı, zorunlu gördüğü takdirde, nüfusu 50.000'e kadar olan belediyelerde bir, nüfusu 50.001-200.000 arasında olan belediyelerde iki, nüfusu 200.001-500.000 arasında olan belediyelerde üç, nüfusu 500.000 ve fazla olan belediyelerde dört belediye meclis üyesini belediye başkan yardımcısı olarak görevlendirebilir. Bu şekilde görevlendirilen meclis üyelerine belediye başkanına verilen ödeneğin 2/3'ünü aşmamak üzere belediye meclisi tarafından belirlenecek aylık ödenek verilir ve taleplerine göre bir sosyal güvenlik kurumu ile ilişkilendirilir. Bu şekilde görevlendirme, memuriyete geçiş, sözleşmeli veya işçi statüsünde çalışma dâhil ilgililer açısından herhangi bir hak teşkil etmez ve belediye meclisinin görev süresini aşamaz. Sosyal güvenlik prim ve benzeri giderlerden kurum karşılıkları belediye bütçesinden karşılanır.
 Belediyenin yıllık toplam personel giderleri, gerçekleşen en son yıl bütçe gelirlerinin 213 sayılı Vergi Usul Kanununa göre belirlenecek yeniden değerleme katsayısı ile çarpımı sonucu bulunacak miktarın yüzde otuzunu aşamaz. Nüfusu 10.000'in altında olan belediyelerde bu oran yüzde kırk olarak uygulanır. Yıl içerisinde aylık ve ücretlerde beklenmedik bir artışın meydana gelmesi sonucunda personel giderlerinin söz konusu oranları aşması durumunda, cari yıl ve izleyen yıllarda personel giderleri bu oranların altına ininceye kadar yeni personel alımı yapılamaz. Yeni personel alımı nedeniyle bu oranın aşılması sebebiyle oluşacak kamu zararı, zararın oluştuğu tarihten itibaren hesaplanacak kanunî faiziyle birlikte belediye başkanından tahsil edilir. Personelin her türlü alacakları zamanında ve öncelikle ödenir.
 Sözleşmeli ve işçi statüsünde çalışanlar hariç belediye memurlarına, başarı durumlarına göre toplam memur sayısının yüzde onunu ve Devlet memurlarına uygulanan aylık katsayının (20.000) gösterge rakamı ile çarpımı sonucu bulunacak miktarı geçmemek üzere, hastalık ve yıllık izinleri dâhil olmak üzere, çalıştıkları sürelerle orantılı olarak encümen kararıyla yılda en fazla iki kez ikramiye ödenebilir.
-Personel devri
+**Personel devri**
 
 
 MADDE 50 – Bu Kanunun 8 ve 11 inci maddeleri uyarınca tüzel kişiliği kaldırılan belediyelerin kadroları ve personeli; katılma hâlinde katıldıkları belediyeye, köye dönüştürülme hâlinde ilgili il özel idaresine devredilir. Devredilen personelden kadro ve görev unvanları değişmeyenler, aynı unvanlı kadrolara atanmış sayılırlar. Devredilen personelden durumlarına uygun boş kadro olmayanların veya mevcut kadro unvanı ile atamaları yapılamayanların kadro unvanları üç ay içerisinde ilgili belediye meclisi veya il genel meclisince aynı sınıf içerisinde kalmak kaydıyla değiştirilir.
 Bu değişiklikten itibaren bir ay içerisinde ilgililerin durumlarına uygun kadrolara atamaları yapılır. Söz konusu personel, atama işlemleri yapılıncaya kadar devredildikleri belediye veya il özel idaresince ihtiyaç duyulan işlerde görevlendirilebilirler. Bunlar yeni bir kadroya atanıncaya kadar eski kadrolarına ait aylık, ücret, ek gösterge, her türlü zam ve tazminatları ile diğer malî haklarını devredildikleri belediye veya il özel idaresinden almaya devam ederler. Devredilen personelden memur statüsünde görev yapanların, atandıkları yeni kadrolarının aylık, ekgösterge, her türlü zam ve tazminatları ile diğer malî hakları toplamının net tutarının, eski kadrolarına bağlı olarak en son ayda almakta oldukları aylık, ek gösterge, her türlü zam ve tazminatları ile diğer malî hakları toplamı net tutarından az olması hâlinde aradaki fark giderilinceye kadar atandıkları kadrolarda kaldıkları sürece herhangi bir kesintiye tâbi olmaksızın tazminat olarak ödenir.
 Tüzel kişiliği kaldırılan belediyelerde 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrasına göre istihdam edilen sözleşmeli personelin pozisyonları, avukat unvanlı pozisyonlar hariç olmak üzere, başka bir işleme gerek kalmaksızın devredildikleri belediye veya il özel idaresi adına vize edilmiş sayılır.
 İKİNCİ BÖLÜM
-Belediye Zabıtası, İtfaiye ve Acil Durum Plânlaması Zabıtanın görev ve yetkileri
+Belediye Zabıtası, İtfaiye ve Acil Durum Plânlaması **Zabıtanın görev ve yetkileri**
 
 
 MADDE 51 – Belediye zabıtası, beldede esenlik, huzur, sağlık ve düzenin sağlanmasıyla görevli olup bu amaçla, belediye meclisi tarafından alınan ve belediye zabıtası tarafından yerine getirilmesi gereken emir ve yasaklarla bunlara uymayanlar hakkında mevzuatta öngörülen ceza ve diğer yaptırımları uygular.
@@ -459,14 +459,14 @@ Belediye zabıta teşkilâtının çalışma usûl ve esasları, çalışanları
 Belediye, bu yönetmeliğe aykırı olmamak üzere ek düzenlemeler yapabilir.
 Zabıta hizmetleri kesintisiz olarak yürütülür.
 Zabıta personelinin çalışma süresi ve saatleri 657 sayılı Devlet Memurları Kanununda belirtilen çalışma süre ve saatlerine bağlı olmaksızın, hizmetin aksatılmadan yürütülmesini sağlayacak şekilde düzenlenir. Belediye zabıta ve özel güvenlik hizmetlerinde fiilen çalışanlara, fazla mesai ücreti olarak yılı bütçe kanununda belirlenen üst sınırı aşmamak kaydıyla belediye meclisi kararı ile tespit edilen maktu tutar ödenir.
-İtfaiye
+**İtfaiye**
 
 
 MADDE 52 – İtfaiye teşkilâtının çalışma usûl ve esasları, çalışanların görev ve yetkileri, memurluğa alınması için taşımaları gereken nitelikler, alacakları meslek içi eğitim, görevde yükselme, meslekten çıkarılma, giyecekleri kıyafet ve savunma amaçlı olarak kullanacakları aletler ile itfaiye teşkilâtında hizmet gereklerine göre oluşturulacak birimler, İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.
 Belediye bu yönetmeliğe aykırı olmamak üzere ek düzenlemeler yapabilir.
 İtfaiye hizmetleri kesintisiz olarak yürütülür.
 İtfaiye personelinin çalışma süresi ve saatleri 657 sayılı Devlet Memurları Kanununda belirtilen çalışma süre ve saatlerine bağlı olmaksızın, hizmetin aksatılmadan yürütülmesini sağlayacak şekilde düzenlenir. Belediye itfaiye teşkilâtında fiilen çalışanlara fazla mesai ücreti olarak yılı bütçe kanununda belirlenen üst sınırı aşmamak kaydıyla belediye meclisi kararı ile tespit edilen maktu tutar ödenir.
-Acil durum plânlaması
+**Acil durum plânlaması**
 
 
 MADDE 53 – Belediye; yangın, sanayi kazaları, deprem ve diğer doğal afetlerden korunmak veya bunların zararlarını azaltmak amacıyla beldenin özelliklerini de dikkate alarak gerekli afet ve acil durum plânlarını yapar, ekip ve donanımı hazırlar.
@@ -474,11 +474,11 @@ Acil durum plânlarının hazırlanmasında varsa il ölçeğindeki diğer acil 
 Plânlar doğrultusunda halkın eğitimi için gerekli önlemler alınarak ikinci fıkrada sayılan idareler, kurumlar ve örgütlerle ortak programlar yapılabilir.
 Belediye, belediye sınırları dışında yangın ve doğal afetler meydana gelmesi durumunda, bu bölgelere gerekli yardım ve destek sağlayabilir.
 DÖRDÜNCÜ KISIM
-Belediyelerin Denetimi Denetimin amacı
+Belediyelerin Denetimi **Denetimin amacı**
 
 
 MADDE 54 – Belediyelerin denetimi; faaliyet ve işlemlerde hataların önlenmesine yardımcı olmak, çalışanların ve belediye teşkilâtının gelişmesine, yönetim ve kontrol sistemlerinin geçerli, güvenilir ve tutarlı duruma gelmesine rehberlik etmek amacıyla; hizmetlerin süreç ve sonuçlarını mevzuata, önceden belirlenmiş amaç ve hedeflere, performans ölçütlerine ve kalite standartlarına göre tarafsız olarak analiz etmek, karşılaştırmak ve ölçmek; kanıtlara dayalı olarak değerlendirmek, elde edilen sonuçları rapor hâline getirerek ilgililere duyurmaktır.
-Denetimin kapsamı ve türleri
+**Denetimin kapsamı ve türleri**
 
 
 MADDE 55 – Belediyelerde iç ve dış denetim yapılır. Denetim, iş ve işlemlerin hukuka uygunluk, malî ve performans denetimini kapsar.
@@ -486,26 +486,26 @@ MADDE 55 – Belediyelerde iç ve dış denetim yapılır. Denetim, iş ve işle
 Ayrıca, belediyenin malî işlemler dışında kalan diğer idarî işlemleri, hukuka uygunluk ve idarenin bütünlüğü açısından İçişleri Bakanlığı tarafından da denetlenir.
 Belediyelere bağlı kuruluş ve işletmeler de yukarıdaki esaslara göre denetlenir.
 Denetime ilişkin sonuçlar kamuoyuna açıklanır ve meclisin bilgisine sunulur.
-Faaliyet raporu
+**Faaliyet raporu**
 
 
 MADDE 56 – Belediye başkanı, 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 41 inci maddesinin dördüncü fıkrasında belirtilen biçimde;
 stratejik plân ve performans programına göre yürütülen faaliyetleri, belirlenmiş performans ölçütlerine göre hedef ve gerçekleşme durumu ile meydana gelen sapmaların nedenlerini ve belediye borçlarının durumunu açıklayan faaliyet raporunu hazırlar. Faaliyet raporunda, bağlı kuruluş ve işletmeler ile belediye ortaklıklarına ilişkin söz konusu bilgi ve değerlendirmelere de yer verilir.
 Faaliyet raporu nisan ayı toplantısında belediye başkanı tarafından meclise sunulur. Raporun bir örneği İçişleri Bakanlığına gönderilir ve kamuoyuna da açıklanır.
-Hizmetlerde aksama
+**Hizmetlerde aksama**
 
 
 MADDE 57 – Belediye hizmetlerinin ciddi bir biçimde aksatıldığının ve bu durumun halkın sağlık, huzur ve esenliğini hayati derecede olumsuz etkilediğinin İçişleri Bakanlığının talebi üzerine yetkili sulh hukuk hâkimi tarafından belirlenmesi durumunda İçişleri Bakanı, hizmetlerde meydana gelecek aksamanın giderilmesini, hizmetin özelliğine göre makul bir süre vererek belediye başkanından ister.
 Aksama giderilemezse, söz konusu hizmetin yerine getirilmesini o ilin valisinden ister. Bu durumda vali, aksaklığı öncelikle belediyenin araç, gereç, personel ve diğer kaynaklarıyla giderir. Mümkün olmadığı takdirde diğer kamu kurum ve kuruluşlarının imkânlarını da kullanabilir. Ortaya çıkacak maliyet vali tarafından İller Bankasına bildirilir ve İller Bankasınca o belediyenin müteakip ay genel bütçe vergi gelirleri tahsilâtı toplamı üzerinden belediyeye ayrılan paydan valilik emrine gönderilir.
 İçişleri Bakanlığının talebi üzerine sulh hukuk hâkimi tarafından alınan karara karşı ilgili belediyece asliye hukuk mahkemesine itiraz edilebilir.
-Denetimle ilgili diğer hükümler
+**Denetimle ilgili diğer hükümler**
 
 
 MADDE 58 – Denetimin yapılması ve faaliyet raporunun hazırlanması hususunda bu Kanunda hüküm bulunmayan durumlarda 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile diğer kanunların ilgili hükümleri uygulanır.
 BEŞİNCİ KISIM
 Malî Hükümler
 BİRİNCİ BÖLÜM
-Belediyenin Gelir ve Giderleri Belediyenin gelirleri
+Belediyenin Gelir ve Giderleri **Belediyenin gelirleri**
 
 
 MADDE 59 – Belediyenin gelirleri şunlardır:
@@ -519,7 +519,7 @@ g) Bağışlar.
 h) Her türlü girişim, iştirak ve faaliyetler karşılığı sağlanacak gelirler.
 i) Diğer gelirler.
 Büyükşehir belediyelerinde büyükşehir sınırları ve mücavir alanları içinde belediyelerince tahsil edilen emlak vergisi tutarının tamamı ilgili ilçe ve ilk kademe belediyeleri tarafından alınır. Bunlardan büyükşehir belediyesine veya özel idareye ayrıca pay kesilmez.
-Belediyenin giderleri
+**Belediyenin giderleri**
 
 
 MADDE 60 – Belediyenin giderleri şunlardır:
@@ -543,7 +543,7 @@ r) Şartlı bağışlarla ilgili yapılacak harcamalar.
 s) İmar düzenleme giderleri.
 t) Her türlü proje giderleri.
 İKİNCİ BÖLÜM
-Belediye Bütçesi Belediye bütçesi
+Belediye Bütçesi **Belediye bütçesi**
 
 
 MADDE 61 – Belediyenin stratejik plânına ve performans programına uygun olarak hazırlanan bütçe, belediyenin malî yıl ve izleyen iki yıl içindeki gelir ve gider tahminlerini gösterir, gelirlerin toplanmasına ve harcamaların yapılmasına izin verir.
@@ -551,35 +551,35 @@ Bütçeye ayrıntılı harcama programları ile finansman programları eklenir.
 Bütçe yılı Devlet malî yılı ile aynıdır.
 Bütçe dışı harcama yapılamaz.
 Belediye başkanı ve harcama yetkisi verilen diğer görevliler, bütçe ödeneklerinin verimli, tutumlu ve yerinde harcanmasından sorumludur.
-Bütçenin hazırlanması ve kabulü
+**Bütçenin hazırlanması ve kabulü**
 
 
 MADDE 62 – Belediye başkanı tarafından hazırlanan bütçe tasarısı eylül ayının birinci gününden önce encümene sunulur ve İçişleri Bakanlığına gönderilir. İçişleri Bakanlığı belediye bütçe tahminlerini konsolide eder ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu uyarınca merkezi yönetim bütçe tasarısına eklenmek üzere eylül ayı sonuna kadar Maliye Bakanlığına bildirir. Encümen, bütçeyi inceleyerek görüşüyle birlikte kasım ayının birinci gününden önce belediye meclisine sunar.
 Meclis bütçe tasarısını yılbaşından önce, aynen veya değiştirerek kabul eder. Ancak, meclis bütçe denkliğini bozacak biçimde gider artırıcı ve gelir azaltıcı değişiklikler yapamaz. Kabul edilen bütçe, malî yılbaşından itibaren yürürlüğe girer.
-Harcama yetkilisi
+**Harcama yetkilisi**
 
 
 MADDE 63 – Belediye bütçesiyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi harcama yetkilisidir.
-Kesinhesap
+**Kesinhesap**
 
 
 MADDE 64 – Her yıl bütçesinin kesinhesabı, belediye başkanı tarafından hesap döneminin bitiminden sonra nisan ayı içinde encümene sunulur. Kesinhesap, belediye meclisinin mayıs ayı toplantısında görüşülerek karara bağlanır.
 Kesinhesabın görüşülmesi ve kesinleşmesinde, bütçeye ilişkin hükümler uygulanır.
-Bütçe sistemi
+**Bütçe sistemi**
 
 
 MADDE 65 – Belediye bütçesi ile muhasebe işlemlerine ilişkin esas ve usûller Maliye Bakanlığının görüşü alınarak İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.
-Geçmiş yıl bütçesinin devamı
+**Geçmiş yıl bütçesinin devamı**
 
 
 MADDE 66 – Herhangi bir nedenle yeni yıl bütçesi kesinleşmemiş ise yeni bütçenin kesinleşmesine kadar geçen yıl bütçesi uygulanır.
 Bütçenin kabulüne kadar yapılan işlemler yeni yıl bütçesine göre yapılmış sayılır.
-Gelecek yıllara yaygın hizmet yüklenmeleri
+**Gelecek yıllara yaygın hizmet yüklenmeleri**
 
 
 MADDE 67 – Belediyede belediye meclisinin, belediyeye bağlı kuruluşlarda yetkili organın kararı ile park, bahçe, sera, refüj, kaldırım ve havuz bakımı ve tamiri; araç kiralama, kontrollük, temizlik, güvenlik ve yemek hizmetleri; makine-teçhizat bakım ve onarım işleri; bilgisayar sistem ve santralleri ile elektronik bilgi erişim hizmetleri; sağlıkla ilgili destek hizmetleri; fuar, panayır ve sergi hizmetleri; baraj, arıtma ve katı atık tesislerine ilişkin hizmetler; kanal bakım ve temizleme, alt yapı ve asfalt yapım ve onarımı, trafik sinyalizasyon ve aydınlatma bakımı, sayaç okuma ve sayaç sökme-takma işleri ile ilgili hizmetler; toplu ulaşım ve taşıma hizmetleri; sosyal tesislerin işletilmesi ile ilgili işler, süresi ilk mahallî idareler genel seçimlerini izleyen altıncı ayın sonunu geçmemek üzere ihale yoluyla üçüncü şahıslara gördürülebilir.
 ÜÇÜNCÜ BÖLÜM
-Borçlanma ve İktisadî Girişimler Borçlanma
+**Borçlanma** ve İktisadî Girişimler Borçlanma
 
 
 MADDE 68 – Belediye, görev ve hizmetlerinin gerektirdiği giderleri karşılamak amacıyla aşağıda belirtilen usûl ve esaslara göre borçlanma yapabilir ve tahvil ihraç edebilir:
@@ -591,21 +591,21 @@ e) Belediye ve bağlı kuruluşları ile bunların sermayesinin yüzde ellisinde
 f) Belediyelerin ileri teknoloji ve büyük tutarda maddî kaynak gerektiren alt yapı yatırımlarında Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca kabul edilen projeleri için yapılacak borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz. Dış kaynak gerektiren projelerde Hazine Müsteşarlığının görüşü alınır.
 Yukarıda belirtilen usûl ve esaslara aykırı olarak borçlanan belediye yetkilileri hakkında, fiilleri daha ağır bir cezayı gerektirmeyen durumlarda 5237 sayılı Türk Ceza Kanununun görevi kötüye kullanmaya ilişkin hükümleri uygulanır.
 Belediye, varlık ve yükümlülüklerinin ayrıntılı bir şekilde yer aldığı malî tablolarını üçer aylık dönemler hâlinde İçişleri Bakanlığına, Maliye Bakanlığına, Devlet Plânlama Teşkilatı Müsteşarlığına ve Hazine Müsteşarlığına gönderir.
-Arsa ve konut üretimi
+**Arsa ve konut üretimi**
 
 
 MADDE 69 – Belediye; düzenli kentleşmeyi sağlamak, beldenin konut, sanayi ve ticaret alanı ihtiyacını karşılamak amacıyla belediye ve mücavir alan sınırları içinde, özel kanunlarına göre korunması gerekli yerler ile tarım arazileri hariç imarlı ve alt yapılı arsalar üretmek; konut, toplu konut yapmak, satmak, kiralamak ve bu amaçlarla arazi satın almak, kamulaştırma yapmak, bu arsaları trampa etmek, bu konuda ilgili diğer kamu kurum ve kuruluşları ve bankalarla iş birliği yapmak ve gerektiğinde onlarla ortak projeler gerçekleştirmek yetkisine sahiptir.
 Belediye, bu amaçla bütçesinden gerekli parayı ayırmak suretiyle işletme tesis edebilir.
 Arsalar hariç üretilen konut ve işyerlerinin satışı 2886 sayılı Devlet İhale Kanunu hükümlerine tâbi değildir. O belediye ve mücavir alan sınırları içinde kendisine, eşine veya onsekiz yaşından küçük çocuklarına ait konutu olmayan dar gelirli kişiler ile afete maruz kalanlara, sanayi bölgelerinden nakledileceklere ve üyelerinin tamamı bu durumda olan kooperatiflere, bedeli 2942 sayılı Kamulaştırma Kanunu hükümlerine göre oluşturulan takdir komisyonu tarafından belirlenecek tutardan aşağı olmamak üzere arsa tahsisi yapılabilir. Durumları 775 sayılı Gecekondu Kanununun 25 inci maddesine uyan kimselere de bu maddeye göre arsa ve konut sağlanabilir. Bu fıkranın uygulama esasları, İçişleri Bakanlığı ile Bayındırlık ve İskân Bakanlığı tarafından müştereken hazırlanacak çerçeve yönetmeliğe uygun olarak belediye meclisleri tarafından çıkarılacak bir yönetmelikle düzenlenir.
-Şirket kurulması
+**Şirket kurulması**
 
 
 MADDE 70 – Belediye kendisine verilen görev ve hizmet alanlarında, ilgili mevzuatta belirtilen usûllere göre şirket kurabilir.
-İşletme tesisi
+**İşletme tesisi**
 
 
 MADDE 71 – Belediye, özel gelir ve gideri bulunan hizmetlerini İçişleri Bakanlığının izniyle bütçe içinde işletme kurarak yapabilir.
-Borç ve alacakların takas ve mahsubu
+**Borç ve alacakların takas ve mahsubu**
 
 
 MADDE 72 – 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun kapsamındaki Hazine alacakları hariç olmak üzere belediyenin genel bütçeli kuruluşlardan, sosyal güvenlik kuruluşlarından, mahallî idarelerden ve diğer kamu kurum ve kuruluşlarından olan özel hukuk ve kamu hukukuna tâbi alacak ve borçları takas ve mahsup edilir. Bu amaçla kurum ve kuruluşların bütçelerine yeterli ve gerekli ödenek konur.
@@ -613,7 +613,7 @@ Bu madde gereğince yapılacak takas ve mahsup işlemlerine ilişkin esas ve us�
 ALTINCI KISIM
 Çeşitli ve Son Hükümler
 BİRİNCİ BÖLÜM
-Çeşitli Hükümler Kentsel dönüşüm ve gelişim alanı
+Çeşitli Hükümler **Kentsel dönüşüm ve gelişim alanı**
 
 
 MADDE 73 – Belediye, kentin gelişimine uygun olarak eskiyen kent kısımlarını yeniden inşa ve restore etmek; konut alanları, sanayi ve ticaret alanları, teknoloji parkları ve sosyal donatılar oluşturmak, deprem riskine karşı tedbirler almak veya kentin tarihî ve kültürel dokusunu korumak amacıyla kentsel dönüşüm ve gelişim projeleri uygulayabilir.
@@ -621,13 +621,13 @@ Kentsel dönüşüm ve gelişim projelerine konu olacak alanlar, meclis üye tam
 Kentsel dönüşüm ve gelişim proje alanlarında yıkılarak yeniden yapılacak münferit yapılarda ilgili resim ve harçların dörtte biri alınır.
 Bir yerin kentsel dönüşüm ve gelişim proje alanı olarak ilân edilebilmesi için; o yerin belediye veya mücavir alan sınırları içerisinde bulunması ve en az ellibin metrekare olması şarttır.
 Kentsel dönüşüm ve gelişim proje alanlarında bulunan yapıların boşaltılması, yıkımı ve kamulaştırılmasında anlaşma yolu esastır. Kentsel dönüşüm ve gelişim projesi kapsamında bulunan mülk sahipleri tarafından açılacak davalar, mahkemelerde öncelikle görüşülür ve karara bağlanır.
-Yurt dışı ilişkileri
+**Yurt dışı ilişkileri**
 
 
 MADDE 74 – Belediye, belediye meclisinin kararına bağlı olarak görev alanıyla ilgili konularda faaliyet gösteren uluslararası teşekkül ve organizasyonlara, kurucu üye veya üye olabilir.
 Belediye bu teşekkül, organizasyon ve yabancı mahallî idarelerle ortak faaliyet ve hizmet projeleri gerçekleştirebilir veya kardeş kent ilişkisi kurabilir.
 Birinci ve ikinci fıkra gereğince yapılacak faaliyetlerin, dış politikaya ve uluslararası anlaşmalara uygun olarak yürütülmesi ve önceden İçişleri Bakanlığının izninin alınması zorunludur.
-Diğer kuruluşlarla ilişkiler
+**Diğer kuruluşlarla ilişkiler**
 
 
 MADDE 75 – Belediye, belediye meclisinin kararı üzerine yapacağı anlaşmaya uygun olarak görev ve sorumluluk alanlarına giren konularda;
@@ -636,44 +636,44 @@ b) Mahallî idareler ile merkezî idareye ait aslî görev ve hizmetlerin yerine
 c) Kamu kurumu niteliğindeki meslek kuruluşları, kamu yararına çalışan dernekler, özürlü dernek ve vakıfları, Bakanlar Kurulunca vergi muafiyeti tanınmış vakıflar ve 507 sayılı Esnaf ve Küçük Sanatkârlar Kanunu kapsamına giren meslek odaları ile ortak hizmet projeleri gerçekleştirebilir.
 d) Kendilerine ait taşınmazları, aslî görev ve hizmetlerinde kullanılmak üzere bedelli veya bedelsiz olarak mahallî idareler ile diğer kamu kurum ve kuruluşlarına devredebilir veya süresi yirmibeş yılı geçmemek üzere tahsis edebilir. Bu taşınmazlar aynı kuruluşlara kiraya da verilebilir. Bu taşınmazların, tahsis amacı dışında kullanılması hâlinde, tahsis işlemi iptal edilir. Tahsis süresi sonunda, aynı esaslara göre yeniden tahsis mümkündür.
 Kamu kurum ve kuruluşlarına belediyeler, bağlı kuruluşları ve belediye şirketlerince devir veya tahsis edilen taşınmazlar, kamu konutu ve sosyal tesis olarak kullanılamaz.
-Kent konseyi
+**Kent konseyi**
 
 
 MADDE 76 – Kent konseyi, kent yaşamında; kent vizyonunun ve hemşehrilik bilincinin geliştirilmesi, kentin hak ve hukukunun korunması, sürdürülebilir kalkınma, çevreye duyarlılık, sosyal yardımlaşma ve dayanışma, saydamlık, hesap sorma ve hesap verme, katılım ve yerinden yönetim ilkelerini hayata geçirmeye çalışır.
 Belediyeler kamu kurumu niteliğindeki meslek kuruluşlarının, sendikaların, noterlerin, varsa üniversitelerin, ilgili sivil toplum örgütlerinin, siyasî partilerin, kamu kurum ve kuruluşlarının ve mahalle muhtarlarının temsilcileri ile diğer ilgililerin katılımıyla oluşan kent konseyinin faaliyetlerinin etkili ve verimli yürütülmesi konusunda yardım ve destek sağlar.
 Kent konseyinde oluşturulan görüşler belediye meclisinin ilk toplantısında gündeme alınarak değerlendirilir. Kent konseyinin çalışma usûl ve esasları İçişleri Bakanlığınca hazırlanacak yönetmelikle belirlenir.
-Belediye hizmetlerine gönüllü katılım
+**Belediye hizmetlerine gönüllü katılım**
 
 
 MADDE 77 – Belediye; sağlık, eğitim, spor, çevre, sosyal hizmet ve yardım, kütüphane, park, trafik ve kültür hizmetleriyle yaşlılara, kadın ve çocuklara, özürlülere, yoksul ve düşkünlere yönelik hizmetlerin yapılmasında beldede dayanışma ve katılımı sağlamak, hizmetlerde etkinlik, tasarruf ve verimliliği artırmak amacıyla gönüllü kişilerin katılımına yönelik programlar uygular.
 Gönüllülerin nitelikleri ve çalıştırılmalarına ilişkin usûl ve esaslar İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.
-Yazışma
+**Yazışma**
 
 
 MADDE 78 – Belediye, kamu kurum ve kuruluşlarıyla doğrudan yazışabilir.
-Belediye tasarrufundaki yerler
+**Belediye tasarrufundaki yerler**
 
 
 MADDE 79 – Diğer kanunlarla getirilen hükümler saklı kalmak üzere, mezarlıklar ile belediye sınırları içinde bulunan ve sahipsiz arazi niteliğinde olan seyrangâh, harman yeri, koruluk, dinlenme yerleri, meydanlar, bataklık, çöp döküm sahaları, yıkılmış kale ve kulelerin arsaları ve enkazı ve benzeri yerler belediyenin tasarrufundadır.
 Belediye tarafından deniz, akarsu ve gölden doldurma suretiyle kazanılan alanlar, Kıyı Kanunu ve ilgili mevzuata uygun olarak kullanılmak şartıyla Maliye Bakanlığı tarafından belediyelerin, büyükşehirlerde büyükşehir belediyelerinin tasarrufuna bırakılır.
-Şehirlerarası özel otobüs terminali işletmesi ve akaryakıt istasyonları
+**Şehirlerarası özel otobüs terminali işletmesi ve akaryakıt istasyonları**
 
 
 MADDE 80 – Belediye sınırları ve mücavir alanları içinde, kara yolu ile yolcu taşıma hakkına sahip gerçek ve tüzel kişilerin şehirlerarası otobüs terminali kurmalarına ve işletmeleri ile her türlü akaryakıt ile sıvılaştırılmış petrol gazı (LPG) ve sıvılaştırılmış doğal gaz (LNG) istasyonlarına nazım imar ve uygulama imar plânına uygun olmak kaydıyla belediye tarafından izin verilebilir. Akaryakıt istasyonlarına izin verilmesi için nazım imar plânında akaryakıt istasyonu olarak gösterilmesi şarttır. Bu istasyonlara çalışma ruhsatı büyükşehirlerde büyükşehir belediyesi tarafından verilir.
-Ad verme, tanıtıcı amblem ve flama kullanımı
+**Ad verme, tanıtıcı amblem ve flama kullanımı**
 
 
 MADDE 81 – Cadde, sokak, meydan, park, tesis ve benzerlerine ad verilmesi ve beldeyi tanıtıcı amblem, flama ve benzerlerinin tespitine ilişkin kararlarda; belediye meclisinin üye tam sayısının salt çoğunluğu, bunların değiştirilmesine ilişkin kararlarda ise meclis üye tam sayısının üçte iki çoğunluğunun kararı aranır. Bu kararlar mülkî idare amirinin onayı ile yürürlüğe girer.
-Avukatlık ücretinin dağıtımı
+**Avukatlık ücretinin dağıtımı**
 
 
 MADDE 82 – Belediye lehine sonuçlanan dava ve icra takipleri nedeniyle hükme bağlanarak karşı taraftan tahsil olunan vekâlet ücretlerinin;
 avukatlara (49 uncu maddeye göre çalıştırılanlar dâhil) ve hukuk servisinde fiilen görev yapan memurlara dağıtımı hakkında 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekâlet Hakkında Kanun hükümleri kıyas yolu ile uygulanır.
-Yeniden değerleme oranının uygulanması
+**Yeniden değerleme oranının uygulanması**
 
 
 MADDE 83 – Bu Kanunun 15, 18 ve 34 üncü maddelerinde belirtilen parasal miktarlar, her yıl 213 sayılı Vergi Usul Kanununa göre belirlenecek yeniden değerleme oranına göre artırılır.
-Uygulanmayacak hükümler
+**Uygulanmayacak hükümler**
 
 
 MADDE 84 – Bu Kanunla, belediyenin sorumlu ve yetkili kılındığı görev ve hizmetlerle sınırlı olarak; 24.4.1930 tarihli ve 1593 sayılı Umumî Hıfzıssıhha Kanunu, 4.7.1934 tarihli ve 2559 sayılı Polis Vazife ve Selâhiyet Kanunu, 10.6.1949 tarihli ve 5442 sayılı İl İdaresi Kanunu, 12.9.1960 tarihli ve 80 sayılı 1580 sayılı Belediye Kanununun 15 inci Maddesinin 58 inci Bendine Tevfikan Belediyelerce Kurulan Toptancı Hal'lerinin Sureti İdaresi Hakkında Kanun, 2.7.1964 tarihli ve 492 sayılı Harçlar Kanunu, 13.10.1983 tarihli ve 2918 sayılı Karayolları Trafik Kanunu, 3.5.1985 tarihli ve 3194 sayılı İmar Kanunu, 14.6.1989 tarihli ve 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, 27.5.2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun, 10.7.2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanunu, 1.5.2003 tarihli ve 4856 sayılı Çevre ve Orman Bakanlığı Teşkilat ve Görevleri Hakkında Kanun ile 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununda bu Kanun hükümlerine aykırılık bulunması durumunda bu Kanun hükümleri uygulanır.
@@ -696,34 +696,34 @@ h) 12.4.2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununun 4 ün
 Yürürlüğe giren mevzii imar plânına göre arazi kullanımı, yapı ve tesislerinin projelendirilmesi, inşası ve kullanımıyla ilgili ruhsat ve izinler ile işyeri açma ve çalışma ruhsatları OSB tarafından verilir ve denetlenir. İşyeri açma ve çalışma ruhsatının verilmesi sırasında işyeri açma ve çalışma ruhsatına ilişkin harçlar, OSB tarafından tahsil edilerek ilgili belediye veya il özel idaresi hesabına yatırılır.
 ÜÇÜNCÜ BÖLÜM
 Geçici ve Son Hükümler
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 1. — Bu Kanunun yayımı tarihinde personel giderlerine ilişkin olarak 49 uncu maddede belirtilen oranları aşmış olan belediyelerde bu oranların altına inilinceye kadar, boş kadro ve pozisyon bulunması ve bütçe imkânlarının yeterli olması kaydıyla 1.1.2005 tarihinde mevcut memur ve sözleşmeli personel sayısının yüzde onunu geçmemek üzere İçişleri Bakanlığınca zorunlu hâllere münhasır olacak şekilde verilecek izin dışında ilâve personel istihdam edilemez. Geçici iş pozisyonları için önceki yıldan fazla olacak şekilde vize yapılamaz.
-GEÇİCİ
+**MADDE 1. —** Bu Kanunun yayımı tarihinde personel giderlerine ilişkin olarak 49 uncu maddede belirtilen oranları aşmış olan belediyelerde bu oranların altına inilinceye kadar, boş kadro ve pozisyon bulunması ve bütçe imkânlarının yeterli olması kaydıyla 1.1.2005 tarihinde mevcut memur ve sözleşmeli personel sayısının yüzde onunu geçmemek üzere İçişleri Bakanlığınca zorunlu hâllere münhasır olacak şekilde verilecek izin dışında ilâve personel istihdam edilemez. Geçici iş pozisyonları için önceki yıldan fazla olacak şekilde vize yapılamaz.
+**GEÇİCİ**
 
-MADDE 2. — Norm kadro uygulamasına geçilinceye kadar belediyenin, bağlı kuruluşlarının ve mahallî idare birliklerinin memur kadrolarının ihdas ve iptalleri ile boş kadro değişiklikleri, İçişleri Bakanlığının teklifi, Maliye Bakanlığı ve Devlet Personel Başkanlığının uygun görüşü üzerine Bakanlar Kurulu kararı ile yapılır. Norm kadro uygulamasına geçilinceye kadar, Bakanlar Kurulu tarafından ihdas edilmiş mevcut kadrolar 49 uncu maddenin üçüncü fıkrasının uygulanması açısından norm kadro kabul edilir.
+**MADDE 2. —** Norm kadro uygulamasına geçilinceye kadar belediyenin, bağlı kuruluşlarının ve mahallî idare birliklerinin memur kadrolarının ihdas ve iptalleri ile boş kadro değişiklikleri, İçişleri Bakanlığının teklifi, Maliye Bakanlığı ve Devlet Personel Başkanlığının uygun görüşü üzerine Bakanlar Kurulu kararı ile yapılır. Norm kadro uygulamasına geçilinceye kadar, Bakanlar Kurulu tarafından ihdas edilmiş mevcut kadrolar 49 uncu maddenin üçüncü fıkrasının uygulanması açısından norm kadro kabul edilir.
 Sürekli işçi kadroları ile iş pozisyonları ise norm kadro uygulamasına geçilinceye kadar İçişleri Bakanlığının vizesine tâbidir. İçişleri Bakanlığı vize yetkisini valiliklere devredebilir.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 3. — Bu Kanunun yayımlandığı tarihte 2000 yılı genel nüfus sayımına göre nüfusu 2.000'in altına düşen belediyelerin tüzel kişiliklerinin kaldırılarak köye dönüştürme işlemi, bu Kanunun 8 inci maddesi uygulamasından faydalanmak isteyen belediyeler için 31.12.2006 tarihine kadar uygulanmaz.
+**MADDE 3. —** Bu Kanunun yayımlandığı tarihte 2000 yılı genel nüfus sayımına göre nüfusu 2.000'in altına düşen belediyelerin tüzel kişiliklerinin kaldırılarak köye dönüştürme işlemi, bu Kanunun 8 inci maddesi uygulamasından faydalanmak isteyen belediyeler için 31.12.2006 tarihine kadar uygulanmaz.
 Tüzel kişiliğin kaldırılmasında, birleşme veya katılma sonrasında 2000 yılı genel nüfus sayımı sonucuna göre oluşan toplam nüfus esas alınır.
 5272 sayılı Belediye Kanununun geçici 4 üncü maddesine göre yapılan işlemler bu maddeye göre yapılmış sayılır.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 4. — 41 inci maddede öngörülen stratejik plân, Kanunun yürürlüğe girmesinden itibaren bir yıl içinde hazırlanır.
-GEÇİCİ
+**MADDE 4. —** 41 inci maddede öngörülen stratejik plân, Kanunun yürürlüğe girmesinden itibaren bir yıl içinde hazırlanır.
+**GEÇİCİ**
 
-MADDE 5. — Belediyeler ve bağlı kuruluşları ile sermayesinin yüzde ellisinden fazlası belediyelere ait şirketlerin, 31.12.2004 tarihi itibariyle kamu kurum ve kuruluşlarından olan kamu ve özel hukuka tâbi alacakları, bunların diğer kamu kurum ve kuruluşlarına olan borçlarına karşılık olmak üzere 31.12.2005 tarihine kadar takas ve mahsup edilir.
+**MADDE 5. —** Belediyeler ve bağlı kuruluşları ile sermayesinin yüzde ellisinden fazlası belediyelere ait şirketlerin, 31.12.2004 tarihi itibariyle kamu kurum ve kuruluşlarından olan kamu ve özel hukuka tâbi alacakları, bunların diğer kamu kurum ve kuruluşlarına olan borçlarına karşılık olmak üzere 31.12.2005 tarihine kadar takas ve mahsup edilir.
 Bakanlar Kurulu bu süreyi altı aya kadar uzatmaya yetkilidir. Bu madde kapsamındaki alacak ve borç ifadesi bu alacak ve borçlara ilişkin fer'ileri ve cezaları da kapsar.
 Yukarıdaki fıkra kapsamında yer alan kuruluşların takas ve mahsup işlemine konu olan veya olmayan borçları, genel bütçe vergi gelirlerinden her ay ayrılacak paylarının yüzde kırkını geçmemek üzere kesinti yapılarak tahsil edilir.
 Bu maddeye göre yapılacak takas, mahsup ve kesinti işlemleri yılı bütçe kanunları ile ilişkilendirilmeksizin ilgili kuruluş ile uzlaşma komisyonu tarafından belirlenir; Hazine Müsteşarlığının bağlı olduğu Bakanın önerisi üzerine Bakanlar Kurulu tarafından karara bağlanır. Bakanlar Kurulu, ilgili kuruluşların borç ödeme kapasitelerini de dikkate alarak ödenecek tutarları taksitlendirmeye, taksitlendirilen kısma Kanunun yayımını izleyen günden itibaren zam ve faiz uygulatmamaya, bu borçların fer'i ve cezalarını geçmemek üzere indirim yapmaya yetkilidir.
 İlgili kuruluşun uzlaşma ve hacizlerin kaldırılmasına dair başvurusunun uzlaşma komisyonunca kabul edilmesini müteakip 31.12.2004 tarihinden önceki borçlar için tatbik edilen hacizler kaldırılır.
 Uzlaşma komisyonu Hazine Müsteşarlığının bağlı olduğu Bakan tarafından görevlendirilecek bir başkan ile İçişleri Bakanlığı, Maliye Bakanlığı, Devlet Plânlama Teşkilatı Müsteşarlığı, Hazine Müsteşarlığı, Sayıştay Başkanlığı, Sosyal Sigortalar Kurumu Başkanlığı ve İller Bankası Genel Müdürlüğünden birer temsilciden oluşur.
-Yürürlük
+**Yürürlük**
 
 
 MADDE 86 – Bu Kanun yayımı tarihinde yürürlüğe girer.
-Yürütme
+**Yürütme**
 
 
 MADDE 87 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

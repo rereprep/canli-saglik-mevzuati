@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Tarım ve Hayvancılık Bakanlığından:
-HAYVANSAL GIDALAR İÇİN ÖZEL HİJYEN KURALLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**HAYVANSAL GIDALAR İÇİN ÖZEL HİJYEN KURALLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 27/12/2011 tarihli ve 28155 sayılı Resmî Gazete’de yayımlanan Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinin 12 nci maddesinin birinci fıkrasının (b) bendinin (3) numaralı alt bendinde yer alan “işlenmesi” ibaresi “muamelesi” olarak değiştirilmiştir.
+**MADDE 1 –** 27/12/2011 tarihli ve 28155 sayılı Resmî Gazete’de yayımlanan Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinin 12 nci maddesinin birinci fıkrasının (b) bendinin (3) numaralı alt bendinde yer alan “işlenmesi” ibaresi “muamelesi” olarak değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 30 uncu maddesinin ikinci fıkrası yürürlükten kaldırılmıştır.
 

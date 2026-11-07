@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Tarım ve Orman Bakanlığından:
-GIDA KONTROL LABORATUVARLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**GIDA KONTROL LABORATUVARLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan Gıda Kontrol Laboratuvarları Yönetmeliğinin 26 ncı maddesinin birinci fıkrasının üçüncü cümlesi yürürlükten kaldırılmıştır.
 

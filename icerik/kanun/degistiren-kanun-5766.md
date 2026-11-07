@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/06/20080606M1-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUNDA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 5766 Kabul Tarihi: 4/6/2008
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUNDA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+**Kanun No. 5766 Kabul Tarihi: 4/6/2008**
 
 MADDE 1 – 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 3 üncü maddesinde yer alan "Amme, tazminat, inzıbati mahiyette olsun olmasın bütün para cezalarını" ibaresi "Adli ve idari para cezalarını" şeklinde değiştirilmiş ve maddeye "Takibat giderleri terimi:" ibaresinden önce gelmek üzere aşağıdaki terimler eklenmiştir.
 "Tahsil edilemeyen amme alacağı terimi:

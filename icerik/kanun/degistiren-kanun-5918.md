@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2009/07/20090709-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-TÜRK CEZA KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5918 Kabul Tarihi: 26/6/2009
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**TÜRK CEZA KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5918** Kabul Tarihi: 26/6/2009
 
 MADDE 1 – 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 13 üncü maddesinin birinci fıkrasının (h) bendi yürürlükten kaldırılmıştır.
 

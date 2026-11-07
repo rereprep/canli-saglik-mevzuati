@@ -20,7 +20,7 @@ Sayı : B100ACS0140000-9216/1853 Konu :Sosyal Riski Azaltma Projesi kapsamında 
 
 ŞNT uygulamasının temel hedefi, ekonomik koşulları nedeni ile düzenli sağlık kontrollerinden yararlanamayan nüfusun en yoksul % 6 lık bölümünü oluşturan ailelerdir. Bu ailelerde, 0-6 yaş çocukların koruyucu sağlık hizmetlerinden (aşılama, büyümenin gözlemlenmesi ve yetersiz beslenme bozukluklarını giderme) yararlanmaları, anne adaylarının güvenli annelik yaklaşımı ile doğum öncesi dönemde düzenli ve periyodik olarak izlenmesi, gebelik risklerinin önlenmesi, aşılarının yapılması ve doğumun sağlık kuruluşunda güvenli koşullarda yapması sağlanacaktır.
 
-Sosyal Riski Azaltma Projesi ŞNT uygulamasının sağlıkla ilgili bölümünün etkili bir şekilde hayata geçirilmesi için, SYDTF ile T.C. Sağlık Bakanlığı arasında işbirliği protokolü imzalanarak tarafların görev ve sorumlulukları belirlenmiştir.
+Sosyal Riski Azaltma Projesi ŞNT uygulamasının sağlıkla ilgili bölümünün etkili bir şekilde hayata geçirilmesi için, SYDTF ile **T.C. Sağlık Bakanlığı** arasında işbirliği protokolü imzalanarak tarafların görev ve sorumlulukları belirlenmiştir.
 
 İmzalanan bu protokol doğrultusunda, İl Sağlık Müdürlükleri ve Sağlık Grup Başkanlıkları, sağlık ocakları ve ana çocuk sağlığı ve aile planlaması merkezleri, sağlık hizmeti sunumu yanı sıra, ildeki Sosyal Yardımlaşma ve Dayanışma Vakfı (SYDV) Başkanlıkları ile işbirliği içinde çalışacak ve bu kapsamda yürütülecek hizmetler aşağıda tanımlanan çerçevede yürütülecektir;
 

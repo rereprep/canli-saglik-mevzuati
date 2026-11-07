@@ -16,11 +16,11 @@ durum: "yürürlükte"
 
 ### TÜRK TABİPLERİ BİRLİĞİ KANUNU
 
-Kanun Numarası : 6023
+**Kanun Numarası : 6023**
 
-Kabul Tarihi : 23/1/1953
+**Kabul Tarihi : 23/1/1953**
 
-Yayımlandığı Resmî Gazete: Tarih: 31/1/1953 Sayı: 8323
+**Yayımlandığı Resmî Gazete: Tarih: 31/1/1953 Sayı: 8323**
 
 #### Yayımlandığı Düstur : Tertip: 3 Cilt: 34 Sayfa: 374
 
@@ -32,7 +32,7 @@ Türkiye sınırları içerisinde meslek ve sanatlarını icraya yetkili olup da
 
 **Madde 3 –** (Değişik: 8/1/1985 - 3144/2 md.)
 
-(Değişik birinci fıkra: 18/6/1997 - 4276/9 md.) Türk Tabipler Birliği ve tabip odaları, kuruluş amaçları dışında faaliyette bulunamazlar.
+**(Değişik birinci fıkra: 18/6/1997 - 4276/9 md.)** Türk Tabipler Birliği ve tabip odaları, kuruluş amaçları dışında faaliyette bulunamazlar.
 
 Birlik ve odalar protokol kurallarına göre resmi törenlere katılır, amacına uygun işlerde kullanılmak üzere taşınır ve taşınmaz mal edinebilir, lokal, misafirhane ve benzeri sosyal amaçlı tesisler açabilir.
 
@@ -50,25 +50,25 @@ e) Halk sağlığını ve tıp mesleğini ilgilendiren işlerde resmi makamlarda
 
 **Madde 5 –** (Değişik: 11/12/1957 - 6909/1 md.):
 
-(Mülga fıkra:15/11/2018-7151/11 md.)
+**(Mülga fıkra:15/11/2018-7151/11 md.)**
 
-(Mülga fıkra:15/11/2018-7151/11 md.)
+**(Mülga fıkra:15/11/2018-7151/11 md.)**
 
-(Mülga fıkra:15/11/2018-7151/11 md.)
+**(Mülga fıkra:15/11/2018-7151/11 md.)**
 
-(Değişik: 7/6/1985 - 3224/49 md.) Gerek tabipler ve gerekse bunları istihdam eden bilumum daire, müessese ve işyerleri, tayin, nakil, işten ayrılma ve sair suretlerle hasıl olan değişiklikleri en geç 15 gün zarfında mahalli tabip odalarına bildirmeye mecburdurlar.
+**(Değişik: 7/6/1985 - 3224/49 md.)** Gerek tabipler ve gerekse bunları istihdam eden bilumum daire, müessese ve işyerleri, tayin, nakil, işten ayrılma ve sair suretlerle hasıl olan değişiklikleri en geç 15 gün zarfında mahalli tabip odalarına bildirmeye mecburdurlar.
 
 **Madde 6 –** (Değişik: 8/1/1985 - 3144/4 md.):
 
-(Değişik birinci fıkra: 23/3/2006 – 5477/1 md.) Hudutları içinde tabip odalarına kayıtlı en az yüz tabip bulunan her ilde tabip odası kurulur.
+**(Değişik birinci fıkra: 23/3/2006 – 5477/1 md.)** Hudutları içinde tabip odalarına kayıtlı en az yüz tabip bulunan her ilde tabip odası kurulur.
 
-( Değişik ikinci fıkra: 7/6/1985 - 3224/50 md.) Hudutları içinde oda kurmak için yeter sayıda tabip bulunmayan illerdeki tabiplerin hangi illerdeki tabiplerle birleştirilerek yeni bir oda kurulacağı ve merkezinin hangi il olacağı veya bu gibi illerdeki tabiplerin hangi il tabip odalarına bağlanacağı; memleketin coğrafi ve ulaşım durumları ile tabiplerin toplu olarak bulundukları iller gözönüne alınarak Türk Tabipleri Birliği Merkez Konseyinin önerisi üzerine Büyük Kongrece kararlaştırılır.
+( **Değişik ikinci fıkra: 7/6/1985 - 3224/50 md.)** Hudutları içinde oda kurmak için yeter sayıda tabip bulunmayan illerdeki tabiplerin hangi illerdeki tabiplerle birleştirilerek yeni bir oda kurulacağı ve merkezinin hangi il olacağı veya bu gibi illerdeki tabiplerin hangi il tabip odalarına bağlanacağı; memleketin coğrafi ve ulaşım durumları ile tabiplerin toplu olarak bulundukları iller gözönüne alınarak Türk Tabipleri Birliği Merkez Konseyinin önerisi üzerine Büyük Kongrece kararlaştırılır.
 
 Odalar, kuruluşlarını Türk Tabipleri Birliği Merkez Konseyi aracılığı ile Sağlık ve Sosyal Yardım Bakanlığına bildirmekle tüzelkişilik kazanırlar. Yeni kurulan odalar en geç üç ay içinde organ seçimini yaparlar. Bu seçim, odanın kurulduğu yılın bu Kanunda yazılı ayında yapılmış sayılır ve kanuni süreler buna göre hesaplanır.[3]
 
 **Madde 7 –** (Değişik: 8/1/1985 - 3144/5 md.)
 
-(Değişik: 7/6/1985 - 3224/51 md.) Bir tabip odası sınırları içinde sanatını serbest olarak icra eden tabipler bir ay içinde o il veya bölge tabip odasına üye olmak ve üyelik görevlerini yerine getirmekle yükümlüdürler.
+**(Değişik: 7/6/1985 - 3224/51 md.)** Bir tabip odası sınırları içinde sanatını serbest olarak icra eden tabipler bir ay içinde o il veya bölge tabip odasına üye olmak ve üyelik görevlerini yerine getirmekle yükümlüdürler.
 
 Mesleklerini serbest olarak icra etmeksizin kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde asli ve sürekli görevlerde çalışanlar ile herhangi bir sebeple mesleğini icra etmeyenler tabip odalarına üye olabilirler.
 
@@ -110,7 +110,7 @@ Oda gelirleri tahsilatının % 10'u, Türk Tabipleri Birliğine harcanmak üzere
 
 #### Tabip Odaları organları
 
-**Madde 11 –** Tabip odaları; Umumi Heyet, İdare Heyeti ve Haysiyet Divanından teşekkül eder.
+**Madde 11 –** Tabip odaları; **Umumi Heyet**, İdare Heyeti ve Haysiyet Divanından teşekkül eder.
 
 #### Umumi Heyet
 
@@ -138,7 +138,7 @@ III – Bütçeyi tasdik etmek,
 
 IV – İdare Heyetince teklif edilen mevzuları müzakere etmek,
 
-V – İdare Heyeti azalarını seçmek,
+V – **İdare Heyeti** azalarını seçmek,
 
 VI – Büyük kongreye gidecek asıl ve yedek temsilcileri seçmek,
 
@@ -150,7 +150,7 @@ VIII – Haysiyet Divanı azalarını seçmek.
 
 **Madde 18 –** (Değişik: 11/2/1957 - 6909/1 md.)
 
-(Değişik: 7/6/1985 - 3224/52 md.) Tabip odaları idare heyeti azası, odalara kayıtlı bulunan tabipler arasından umumi heyetçe gizli reyle seçilir.[4]
+**(Değişik: 7/6/1985 - 3224/52 md.)** Tabip odaları idare heyeti azası, odalara kayıtlı bulunan tabipler arasından umumi heyetçe gizli reyle seçilir.[4]
 
 İdare heyeti seçiminde, asıl ve yedek azalık için yalnız bir namzet listesi kullanılır.
 
@@ -196,9 +196,9 @@ c) Meslek adabına uymıyan ve tıp mesleklerinin icrasına dair kanunun kabul e
 
 d) Sinema, radyo, müstahdemler veya sair yazılı ve sözlü vasıtalarla reklam yapılmasını,
 
-Önlemek
+**Önlemek**
 
-II – (Değişik birinci paragraf: 23/3/2006 – 5477/4 md.) Tabip odalarının veya birlik teşekküllerinden herhangi birisinin göstereceği lüzum üzerine, muayene, ameliyat ve girişimsel işlem ücretlerinin miktarlarını gösteren rehber tarifeler düzenlemek. Bu tarifeler Merkez Konseyince tasdik edildikten sonra Sağlık Bakanlığına bildirilir.
+II – **(Değişik birinci paragraf: 23/3/2006 – 5477/4 md.)** Tabip odalarının veya birlik teşekküllerinden herhangi birisinin göstereceği lüzum üzerine, muayene, ameliyat ve girişimsel işlem ücretlerinin miktarlarını gösteren rehber tarifeler düzenlemek. Bu tarifeler Merkez Konseyince tasdik edildikten sonra Sağlık Bakanlığına bildirilir.
 
 III – Oda azaları arasında, oda azaları ile iş verenler arasında, oda azaları ile hastalar ve hasta sahipleri arasında çıkabilecek ihtilafları uzlaştırmak veya icabında hakem usulüne müracaat etmek. Bu maksatla:
 
@@ -250,7 +250,7 @@ Azaların mazereti halinde heyet yukardaki müddetle mukayyet olmamak üzere ça
 
 **Madde 36 –** Haysiyet Divanı azaları bitaraflıklarını şüpheye düşürecek bir vaziyetin mevcudiyeti halinde reddolunabilir. Ret talebinde bulunan kimse iddiasını delilleri ile birlikte bildirmeye mecburdur. Bu takdirde reddolunan asıl azanın yerleri yedeklerle ikmal edilmek ve reis ile vekilinin birlikte reddi halinde gizli reyle geçici bir reis seçilmek suretiyle evvelemirde ret talebi incelenir.
 
-(Değişik ikinci fıkra: 23/3/2006 – 5477/5 md.) Ret kabule şayan görülürse esas mesele bu heyet tarafından tetkik edilerek karara bağlanır. Reddin asılsızlığı anlaşıldığı veya ret talebi kabule şayan görülmediği takdirde talebin reddine karar verilmekle beraber ayrıca o yılki en yüksek üye aidatının üç katından az, beş katından fazla olmamak üzere para cezası ödenmesine de karar verilebilir.
+**(Değişik ikinci fıkra: 23/3/2006 – 5477/5 md.)** Ret kabule şayan görülürse esas mesele bu heyet tarafından tetkik edilerek karara bağlanır. Reddin asılsızlığı anlaşıldığı veya ret talebi kabule şayan görülmediği takdirde talebin reddine karar verilmekle beraber ayrıca o yılki en yüksek üye aidatının üç katından az, beş katından fazla olmamak üzere para cezası ödenmesine de karar verilebilir.
 
 Reddedilenlerin çokluğu dolayısiyle Haysiyet Divanının yedeklerle dahi teşkiline imkan görülemezse ret talebi en yakın Tabip Odası Haysiyet Divanında incelenir ve yukardaki hükümler bu takdirde dahi aynen tatbik olunur.
 
@@ -282,13 +282,13 @@ Cezalandırma halinde karar aleyhinde itiraz vakı olmasa dahi geçici olarak sa
 
 #### Türk Tabipleri Birliğinin merkez teşkilatı
 
-**Madde 41 –** Türk Tabipleri Birliğinin merkez teşkilatı; Yüksek Haysiyet Divanı, Tabip Odaları, Merkez Konseyi ve Büyük Kongreden teşekkül eder.
+**Madde 41 –** Türk Tabipleri Birliğinin merkez teşkilatı; **Yüksek Haysiyet Divanı**, Tabip Odaları, Merkez Konseyi ve Büyük Kongreden teşekkül eder.
 
 #### Yüksek Haysiyet Divanı
 
 **Madde 42 –** (Değişik: 8/1/1985 - 3144/9 md.)
 
-(Değişik: 7/6/1985 - 3224/56 md.) Yüksek Haysiyet Divanı Büyük Kongrede seçilen dokuz asıl ve dokuz yedek üyeden oluşur. Yüksek Haysiyet Divanına seçilebilmek için Türkiye'de en az onbeş yıl tabiplik yapmış olmak ve bu Kanunun 39 uncu maddesinde yazılı cezalardan herhangi birini almamış olmak gerekir.[7]
+**(Değişik: 7/6/1985 - 3224/56 md.)** Yüksek Haysiyet Divanı Büyük Kongrede seçilen dokuz asıl ve dokuz yedek üyeden oluşur. Yüksek Haysiyet Divanına seçilebilmek için Türkiye'de en az onbeş yıl tabiplik yapmış olmak ve bu Kanunun 39 uncu maddesinde yazılı cezalardan herhangi birini almamış olmak gerekir.[7]
 
 Sağlık ve Sosyal Yardım Bakanlığının Müsteşar veya yardımcısı, Teftiş Kurulu Başkanı veya yardımcısı ile Birinci Hukuk Müşaviri müşahit olarak Yüksek Haysiyet Divanı toplantılarına katılabilirler fakat oy kullanamazlar.
 
@@ -342,9 +342,9 @@ Her türlü oda aidatı ile para cezalarını tebliğ tarihinden itibaren 30 gü
 
 **Madde 55 –** (Değişik: 11/2/1957 - 6909/1 md.)
 
-(Değişik: 8/1/1985 - 3144/10 md.) Türk Tabipleri Birliği Merkez Konseyinin çalışma yeri Ankara'dır.
+**(Değişik: 8/1/1985 - 3144/10 md.)** Türk Tabipleri Birliği Merkez Konseyinin çalışma yeri Ankara'dır.
 
-(Değişik ikinci fıkra: 23/3/2006 – 5477/8 md.) Merkez Konseyi 18 inci madde hükümlerine göre Büyük Kongrenin gizli oyla seçeceği 11 asıl 11 yedek üyeden teşekkül eder. Merkez Konseyinin görev süresi iki yıldır. İki devre üst üste seçilen azalar, aradan bir devre geçmedikçe yeniden seçilemezler.
+**(Değişik ikinci fıkra: 23/3/2006 – 5477/8 md.)** Merkez Konseyi 18 inci madde hükümlerine göre Büyük Kongrenin gizli oyla seçeceği 11 asıl 11 yedek üyeden teşekkül eder. Merkez Konseyinin görev süresi iki yıldır. İki devre üst üste seçilen azalar, aradan bir devre geçmedikçe yeniden seçilemezler.
 
 Büyük Kongre 18 inci madde hükümlerine göre gizli reyle ayrıca 3 asıl ve yedek denetçi seçer.
 
@@ -426,7 +426,7 @@ Bu suretle hareket edenler memur iseler ceza yarısına kadar artırılır.
 
 **Ek Madde 2 –** (Ek: 24/5/1983 - KHK/65; Değiştirilerek kabul: 8/1/1985 - 3144/13 md.) Sağlık ve Sosyal Yardım Bakanlığı, Türk Tabipleri Birliği ile Birliğin mahalli organları olan odalar üzerinde idari ve mali yönden denetim ve gözetim hakkına sahiptir.
 
-(Değişik: 18/6/1997 - 4276/10 md.) Amaçları dışında faaliyet gösteren Türk Tabipleri Birliğinin merkez ve tabip odalarındaki sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Sağlık Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
+**(Değişik: 18/6/1997 - 4276/10 md.)** Amaçları dışında faaliyet gösteren Türk Tabipleri Birliğinin merkez ve tabip odalarındaki sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Sağlık Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
 
 Mahkemece ikinci fıkrada yazılı organların görevlerine son verilmesi halinde kararda ayrıca, görevlerine son verilen organları bu Kanunda yazılı usullere göre seçecek organları toplamak üzere Merkez Konseyi için Büyük Kongre temsilcileri arasından, oda idare heyeti için umumi heyet azaları arasından beş kişiyi de görevlendirir. Seçim, görevlendirilen bu beş kişi tarafından bir ay içinde sonuçlandırılır ve görevlendirilen bu üyeler bu fıkrada yazılı süre içinde görevlerine son verilen organlar gibi görevli ve yetkili olup aynı şekilde sorumludurlar. Bu fıkra hükmüne göre seçilecek yeni organlar eski organların sürelerini tamamlarlar.
 
@@ -434,7 +434,7 @@ Sağlık ve Sosyal Yardım Bakanlığının bu Kanun uyarınca Birlik organları
 
 Görevlerine son verilen organ üyelerinin Kanunda yazılı ceza sorumlulukları saklıdır. Bu organların yukarıdaki fıkra gereğince görevlerine son verilmesine neden olan tasarrufları hükümsüzdür.
 
-(Değişik: 18/6/1997 - 4276/10 md.) Ancak, milli güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, Türk Tabipler Birliği ile tabip odaları, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde açıklar; aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.[9]
+**(Değişik: 18/6/1997 - 4276/10 md.)** Ancak, milli güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, Türk Tabipler Birliği ile tabip odaları, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde açıklar; aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.[9]
 
 **Ek Madde 3 –** (Ek: 24/5/1983 - KHK/65; Değiştirilerek kabul: 8/1/1985 - 3144/13 md.) Türk Tabipleri Birliğinin merkez organları ile tabip odaları organlarının bu Kanunda belirtilen seçimleri gizli oyla yapılır ve seçimlere ilişkin işlemler aşağıdaki esaslara göre yargı gözetimi altında gerçekleştirilir.
 
@@ -526,11 +526,11 @@ Bu mecburiyetlere riayet etmiyenler hakkında 500 liradan 1000 liraya kadar ağ�
 | 7151 | 5, Ek Madde 1 | 5/12/2018 |
 | Anayasa Mahkemesinin 11/2/2025 tarihli ve E.: 2024/177; K.: 2025/40 sayılı Kararı | 39 | Yayımlanmasından başlayarak dokuz ay sonra (29/1/2026) |
 
-<small>[1] 11/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesiyle, bu maddede geçen “tabipliğin kamu ve kişi yararına uygulanıp geliştirilmesini sağlamak” ibaresi yürürlükten kaldırılmış olup daha sonra Anayasa Mahkemesinin 14/2/2013 tarihli ve E.:2011/150; K.:2013/30 sayılı kararı ile 663 sayılı KHK’nın 58 inci maddesinin ondördüncü fıkrasının (ğ) bendi iptal edilmiştir.</small>
+<small>[1] <i>11/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesiyle, bu maddede geçen “tabipliğin kamu ve kişi yararına uygulanıp geliştirilmesini sağlamak” ibaresi yürürlükten kaldırılmış olup daha sonra Anayasa Mahkemesinin 14/2/2013 tarihli ve E.:2011/150; K.:2013/30 sayılı kararı ile 663 sayılı KHK’nın 58 inci maddesinin ondördüncü fıkrasının (ğ) bendi iptal edilmiştir.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 25 inci maddesiyle, bu bentte yer alan “bunlara bağlı nizamname ve talimatname” ibaresi “ilgili diğer mevzuat” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 25 inci maddesiyle, bu bentte yer alan “bunlara bağlı nizamname ve talimatname” ibaresi “ilgili diğer mevzuat” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.</small>
+<small>[3] <i>Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.</i></small>
 
 <small>[4] Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.</small>
 
@@ -540,6 +540,6 @@ Bu mecburiyetlere riayet etmiyenler hakkında 500 liradan 1000 liraya kadar ağ�
 
 <small>[7] Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.</small>
 
-<small>[8] 2/7/2018 tarihli ve 700 sayılı KHK’nin 25 inci maddesiyle, bu bentte yer alan “nizamnameleri” ibaresi “yönetmelikleri” şeklinde değiştirilmiştir.</small>
+<small>[8] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 25 inci maddesiyle, bu bentte yer alan “nizamnameleri” ibaresi “yönetmelikleri” şeklinde değiştirilmiştir.</i></small>
 
 <small>[9] 18/6/1997 tarih ve 4276 sayılı Kanunun 10 uncu maddesiyle bu fıkra altıncı ve yedinci fıkraların birleştirilmesi suretiyle altıncı fıkra olarak düzenlenmiştir.</small>

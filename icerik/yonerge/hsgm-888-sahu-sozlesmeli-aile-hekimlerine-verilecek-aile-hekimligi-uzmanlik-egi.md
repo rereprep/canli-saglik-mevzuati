@@ -9,9 +9,9 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-SÖZLEŞMELİ AİLE HEKİMLERİNE VERİLECEK AİLE HEKİMLİĞİ UZMANLIK
+**SÖZLEŞMELİ AİLE HEKİMLERİNE VERİLECEK AİLE HEKİMLİĞİ UZMANLIK**
 
-EĞİTİMİ USUL VE ESASLARI
+**EĞİTİMİ USUL VE ESASLARI**
 
 1. Sözleşmeli aile hekimlerine verilecek aile hekimliği uzmanlık eğitimi (SAHU)
 

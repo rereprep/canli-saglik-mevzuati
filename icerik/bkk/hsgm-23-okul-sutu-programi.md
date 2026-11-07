@@ -9,17 +9,17 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü 30.01.2015 03:15 10 Ekim 2012 ÇARŞAMBA Resmî&Gazete Sayı : 28437
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü 30.01.2015 03:15 10 Ekim 2012 ÇARŞAMBA **Resmî&Gazete** Sayı : 28437
 
-BAKANLAR KURULU KARARI
+**BAKANLAR KURULU KARARI**
 
-Karar Sayısı : 2012/3741
+**Karar Sayısı : 2012/3741**
 
 Ekli “Okul Sütü Programı Uygulama Esasları Hakkında Karar”ın yürürlüğe konulması; Gıda, Tarım ve
 
 Hayvancılık Bakanlığının 21/9/2012 tarihli ve 14897 sayılı yazısı üzerine, 5488 sayılı Tarım Kanununun 19 uncu maddesine göre, Bakanlar Kurulu’nca 24/9/2012 tarihinde kararlaştırılmıştır.
 
-Abdullah GÜL
+**Abdullah GÜL**
 
 CUMHURBAŞKANI
 
@@ -57,17 +57,17 @@ Sağlık Bakanı Ulaştırma, Denizcilik ve Haberleşme Bakanı
 
 OKUL SÜTÜ PROGRAMI UYGULAMA ESASLARI HAKKINDA KARAR
 
-Amaç ve kapsam
+**Amaç ve kapsam**
 
-MADDE 1 – (1) Bu Kararın amacı; Gıda, Tarım ve Hayvancılık Bakanlığı, Milli Eğitim Bakanlığı ve Sağlık
+**MADDE 1 –** (1) Bu Kararın amacı; Gıda, Tarım ve Hayvancılık Bakanlığı, Milli Eğitim Bakanlığı ve Sağlık
 
 Bakanlığınca ortaklaşa hazırlanan ve 2012-2013 eğitim öğretim yılının ikinci döneminde yürütülecek olan Okul Sütü
 
 Programı (Program) kapsamında, ana sınıfı dahil olmak üzere ilkokul öğrencilerine, süt içme alışkanlığını kazandırmak ve dengeli beslenme suretiyle gelişme oranlarını artırmak amacıyla UHT içme sütü ambalajlı, UHT içme sütü dağıtılmasına ilişkin esasların belirlenmesidir.
 
-Miktar, takvim, üretim ve sevkiyat
+**Miktar, takvim, üretim ve sevkiyat**
 
-MADDE 2 – (1) Milli Eğitim Bakanlığınca belirlenecek olan okullarda her öğrenciye, bu maddede belirtilen esaslar çerçevesinde haftada 3 gün, 200 ml sade UHT içme sütü dağıtılır.
+**MADDE 2 –** (1) Milli Eğitim Bakanlığınca belirlenecek olan okullarda her öğrenciye, bu maddede belirtilen esaslar çerçevesinde haftada 3 gün, 200 ml sade UHT içme sütü dağıtılır.
 
 (2) Program doğrultusunda dağıtılacak sütün temini ve dağıtım takvimi Gıda, Tarım ve Hayvancılık Bakanlığı tarafından belirlenir.
 
@@ -77,9 +77,9 @@ MADDE 2 – (1) Milli Eğitim Bakanlığınca belirlenecek olan okullarda her ö
 
 Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü 30.01.2015 03:15 (5) UHT içme sütü; 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda İşletmelerinin Kayıt ve Onay İşlemlerine Dair Yönetmelik kapsamında, ülke içinde UHT içme sütü üretimi yapan gıda işletmelerinden, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu çerçevesinde temin edilir.
 
-Görev, sorumluluk ve organizasyon
+**Görev, sorumluluk ve organizasyon**
 
-MADDE 3 – (1) Bu Karar kapsamında; Programın koordinasyonu ile okul sütünün tedariki ve illere dağıtımından Gıda, Tarım ve Hayvancılık Bakanlığı; Okul Sütü Komisyonu tarafından kabul edilen sütün muhafaza edilmesi ve/veya ettirilmesi, okullara ulaştırılması, dağıtılması ve uygun şartlarda tüketimlerinin sağlanmasından Milli
+**MADDE 3 –** (1) Bu Karar kapsamında; Programın koordinasyonu ile okul sütünün tedariki ve illere dağıtımından Gıda, Tarım ve Hayvancılık Bakanlığı; Okul Sütü Komisyonu tarafından kabul edilen sütün muhafaza edilmesi ve/veya ettirilmesi, okullara ulaştırılması, dağıtılması ve uygun şartlarda tüketimlerinin sağlanmasından Milli
 
 Eğitim Bakanlığı; Program uygulama döneminde öğrencilerin gelişme oranlarının ve süt tüketimi alışkanlıklarındaki değişikliklerin tespitine ilişkin çalışmalardan Sağlık Bakanlığı sorumludur.
 
@@ -91,15 +91,15 @@ Eğitim Bakanlığı; Program uygulama döneminde öğrencilerin gelişme oranla
 
 Komisyonu kurulur. Okul Sütü Komisyonu, mal muayene ve kabul komisyonu olarak görev yapar.
 
-Eğitim ve tanıtım
+**Eğitim ve tanıtım**
 
-MADDE 4 – (1) Programın tanıtımı ve Programda yer alan kişi ve kuruluşların eğitimleri Gıda, Tarım ve
+**MADDE 4 –** (1) Programın tanıtımı ve Programda yer alan kişi ve kuruluşların eğitimleri Gıda, Tarım ve
 
 Hayvancılık Bakanlığı, Milli Eğitim Bakanlığı ve Sağlık Bakanlığının katılımıyla Ulusal Süt Konseyi tarafından yapılır.
 
-Finansman ve ödemeler
+**Finansman ve ödemeler**
 
-MADDE 5 – (1) Bu Karar uyarınca yapılacak ödemeler için gerekli kaynak Gıda, Tarım ve Hayvancılık
+**MADDE 5 –** (1) Bu Karar uyarınca yapılacak ödemeler için gerekli kaynak Gıda, Tarım ve Hayvancılık
 
 Bakanlığına genel bütçeden tahsis edilen ödenekten karşılanır.
 
@@ -107,20 +107,20 @@ Bakanlığına genel bütçeden tahsis edilen ödenekten karşılanır.
 
 Tarım ve Hayvancılık Bakanlığına gönderilir. Ödemeler, söz konusu tebliğde belirtilecek esaslar çerçevesinde, muayene ve kabul tutanaklarına istinaden Gıda, Tarım ve Hayvancılık Bakanlığınca hazırlanacak icmallere göre yapılır.
 
-Denetim ve cezai hükümler
+**Denetim ve cezai hükümler**
 
-MADDE 6 – (1) Programla ilgili ödemeler ve diğer hususlarda denetimi sağlayacak tedbirleri, Programdaki sorumluluklarına göre Gıda, Tarım ve Hayvancılık Bakanlığı, Milli Eğitim Bakanlığı ve Sağlık Bakanlığı alır.
+**MADDE 6 –** (1) Programla ilgili ödemeler ve diğer hususlarda denetimi sağlayacak tedbirleri, Programdaki sorumluluklarına göre Gıda, Tarım ve Hayvancılık Bakanlığı, Milli Eğitim Bakanlığı ve Sağlık Bakanlığı alır.
 
 (2) Haksız ödemelerin yapılmasında ödemeyi sağlayan belge veya belgeleri düzenleyen gerçek ve tüzel kişiler geri alınacak tutarların tahsilinde müştereken sorumlu tutulur.
 
-Uygulamaya ilişkin usul ve esaslar
+**Uygulamaya ilişkin usul ve esaslar**
 
-MADDE 7 – (1) Bu Kararın uygulanmasına ilişkin usul ve esaslar Gıda, Tarım ve Hayvancılık Bakanlığınca bu Kararın yayımı tarihinden itibaren en geç otuz gün içinde çıkarılacak tebliğ ile belirlenir.
+**MADDE 7 –** (1) Bu Kararın uygulanmasına ilişkin usul ve esaslar Gıda, Tarım ve Hayvancılık Bakanlığınca bu Kararın yayımı tarihinden itibaren en geç otuz gün içinde çıkarılacak tebliğ ile belirlenir.
 
-Yürürlük
+**Yürürlük**
 
-MADDE 8 – (1) Bu Karar yayımı tarihinde yürürlüğe girer.
+**MADDE 8 –** (1) Bu Karar yayımı tarihinde yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 9 – (1) Bu Karar hükümlerini Gıda, Tarım ve Hayvancılık Bakanı yürütür.
+**MADDE 9 –** (1) Bu Karar hükümlerini Gıda, Tarım ve Hayvancılık Bakanı yürütür.

@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -80,7 +80,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Gereksinim Değerlendirmesi ve ÇÖZGER Sağlık Kurulunun Teşkili, Çalışma Usulü ve Yetkilendirilmesi
+**Gereksinim Değerlendirmesi ve ÇÖZGER Sağlık Kurulunun Teşkili, Çalışma Usulü ve Yetkilendirilmesi**
 
 #### Gereksinim değerlendirmesi
 
@@ -134,7 +134,7 @@ g) Ortopedi ve travmatoloji uzmanı.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-ÇÖZGER ve Çocuklar İçin Terör, Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu Raporunun Düzenlenme Usul ve Esasları
+**ÇÖZGER ve Çocuklar İçin Terör, Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu Raporunun Düzenlenme Usul ve Esasları**
 
 #### ÇÖZGER düzenlenme usulü
 
@@ -176,7 +176,7 @@ k) Rapor başvuru tarihinden itibaren en geç otuz gün içinde tamamlanır.
 
 (3) Bu raporlar Ek-2’ye göre düzenlenir. Raporda, var olan kronik hastalıklara ilişkin fonksiyon kayıpları belirtilmez. Çocuklar İçin Terör, Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu Raporlarında tıbbi tedavi ve rehabilitasyon süreci esnasında süreli, tamamlandıktan sonra sürekli/süreli rapor verilmek üzere fonksiyon kayıplarının değerlendirilmesi yapılır.
 
-ÇÖZGER ve Çocuklar İçin Terör, Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu Raporunun düzenleme esasları
+**ÇÖZGER ve Çocuklar İçin Terör, Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu Raporunun düzenleme esasları**
 
 **MADDE 10 –** (1) Çocukların elde edeceği sosyal haklar, hizmetler veya kazanımlar raporlar dikkate alınarak ilgili kurumlarca ayrıca belirlenir. Raporlar, tek başına hakların verilmesi için dayanak teşkil etmez. İlgili mevzuata göre diğer şartların da ayrıca sağlanması zorunludur.
 
@@ -188,7 +188,7 @@ k) Rapor başvuru tarihinden itibaren en geç otuz gün içinde tamamlanır.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Raporların Geçerlilik Süresi ve İtiraz
+**Raporların Geçerlilik Süresi ve İtiraz**
 
 #### Raporların geçerlilik süresi
 
@@ -222,7 +222,7 @@ Raporların Geçerlilik Süresi ve İtiraz
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Vergi indirimine esas raporlar
 
@@ -276,7 +276,7 @@ bu Yönetmelik hükümlerine göre sonuçlandırılır.
 
 **MADDE 19 –** (1) Bu Yönetmelik hükümlerini Aile, Çalışma ve Sosyal Hizmetler Bakanı ve Sağlık Bakanı müştereken yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

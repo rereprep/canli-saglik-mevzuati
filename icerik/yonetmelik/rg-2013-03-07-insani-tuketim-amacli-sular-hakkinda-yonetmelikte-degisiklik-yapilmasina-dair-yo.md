@@ -12,21 +12,21 @@ durum: "yürürlükte"
 ---
 
 Bakanlığı (Türkiye Halk Sağlığı Kurumu)’ndan:
-İNSANİ TÜKETİM AMAÇLI SULAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İNSANİ TÜKETİM AMAÇLI SULAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmeliğin 3 üncü maddesinin birinci fıkrasının (a) bendinde yer alan “Yetkili mercilerce” ibaresi “Kurumca” şeklinde değiştirilmiştir.
+**MADDE 1 –** 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmeliğin 3 üncü maddesinin birinci fıkrasının (a) bendinde yer alan “Yetkili mercilerce” ibaresi “Kurumca” şeklinde değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 “Madde 4 – Bu Yönetmelik, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 235 ve 242 nci maddeleri, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 27 nci maddesi ile 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 ıncı maddesine dayanılarak, Bu Yönetmelik İnsani Kullanım Amaçlı Suların Kalitesine Dair 98/83/EC sayılı Konsey Direktifi ile Doğal Mineralli Sular İçin Konsantrasyon Limitleri ve Etiketleme Bilgileri Hakkında Liste Oluşturulması ve Doğal Mineralli Suların ve Kaynak Sularının Ozonla Zenginleştirilmiş Hava ile İşleme Tabi Tutulmasının Şartlarını Belirleyen 16/5/2003 tarihli ve 2003/40/EC sayılı Konsey Direktifine ve Doğal Mineralli Sulardan ve Kaynak Sularından Florürün Uzaklaştırılması İçin Aktif Alüminyum Kullanımının Şartları Hakkında 115/2010 sayılı AB Komisyonu Tüzüğüne paralel olarak, hazırlanmıştır.”
 
 
-MADDE 3 – Aynı Yönetmeliğin 5 inci maddesinin birinci fıkrasının (c) bendi yürürlükten kaldırılmış, (d) bendinde yer alan “İl Sağlık Müdürlüğünü” ibaresi “Halk Sağlığı Müdürlüğünü” şeklinde, (g) bendinde yer alan “Bakanlıkça” ibaresi “Kurumca” şeklinde, (i) bendinde yer alan “ilgili ulusal yasa uyarınca su tedarikçisinin” ibaresi “mahalli idarenin” şeklinde, (j) bendinde yer alan “Sağlık Müdürünün” ibaresi “Müdürlüğün” şeklinde, (l) bendinde yer alan “İşletme izni” ibaresi “Üretim izni”, “işletme belgesini” ibaresi “belgeyi” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki bentler eklenmiştir.
+**MADDE 3 –** Aynı Yönetmeliğin 5 inci maddesinin birinci fıkrasının (c) bendi yürürlükten kaldırılmış, (d) bendinde yer alan “İl Sağlık Müdürlüğünü” ibaresi “Halk Sağlığı Müdürlüğünü” şeklinde, (g) bendinde yer alan “Bakanlıkça” ibaresi “Kurumca” şeklinde, (i) bendinde yer alan “ilgili ulusal yasa uyarınca su tedarikçisinin” ibaresi “mahalli idarenin” şeklinde, (j) bendinde yer alan “Sağlık Müdürünün” ibaresi “Müdürlüğün” şeklinde, (l) bendinde yer alan “İşletme izni” ibaresi “Üretim izni”, “işletme belgesini” ibaresi “belgeyi” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki bentler eklenmiştir.
 “t) Kurum: Türkiye Halk Sağlığı Kurumunu,” “u) Mahalli idare: İçme-kullanma suyu temin edilmesinden sorumlu belediye veya il özel idaresini,” “ü) Zorlayıcı tedbir: Bina iç şebeke sisteminde bulunan içme-kullanma suyunda insan sağlığına zarar verecek parametrelerin tespiti halinde suyun kesilmesi de dâhil olmak üzere uygulanacak idari yaptırımları,” “v) Parti no: Aynı şartlarda üretilen, imal edilen veya ambalajlanan bir suyun satış birimleri topluluğu için kullanılan sayısal değeri,” “y) Seri no: Aynı şartlarda belirli zaman diliminde üretilen veya ambalajlanan bir suda kullanılan sayısal değeri,”
 
 MADDE 4 – Aynı Yönetmeliğin 7 nci maddesinin üçüncü fıkrasının birinci cümlesindeki “gerektirdiği hallerde” ibaresinden sonra gelmek üzere “Kurumca” ibaresi eklenmiştir.
 
 
-MADDE 5 – Aynı Yönetmeliğin 8 inci maddesinin birinci fıkrasının (c) bendinde yer alan “ya da ambalajlara doldurulduğu” ibaresinden sonra gelmek üzere “ve satıldığı” ibaresi eklenmiş, aynı maddenin ikinci fıkrası aşağıdaki şekilde değiştirilmiş, üçüncü fıkrasının birinci cümlesinde yer alan “yetkili merciler” ibaresi “Müdürlük ve mahalli idareler” şeklinde, ikinci cümlesinde yer alan “yetkili mercilerce” ibaresi “mahalli idarece” şeklinde değiştirilmiş ve üçüncü fıkrasından sonra gelmek üzere aşağıdaki dördüncü fıkra eklenmiştir.
+**MADDE 5 –** Aynı Yönetmeliğin 8 inci maddesinin birinci fıkrasının (c) bendinde yer alan “ya da ambalajlara doldurulduğu” ibaresinden sonra gelmek üzere “ve satıldığı” ibaresi eklenmiş, aynı maddenin ikinci fıkrası aşağıdaki şekilde değiştirilmiş, üçüncü fıkrasının birinci cümlesinde yer alan “yetkili merciler” ibaresi “Müdürlük ve mahalli idareler” şeklinde, ikinci cümlesinde yer alan “yetkili mercilerce” ibaresi “mahalli idarece” şeklinde değiştirilmiş ve üçüncü fıkrasından sonra gelmek üzere aşağıdaki dördüncü fıkra eklenmiştir.
 “Suyun, sadece belirli bir mesken, kurum, kuruluş, işletme ve benzeri mekân veya alanlarda uygunsuzluğunun tespit edilmesi ve bu uygunsuzluğun bahse konu yerlere ait iç şebeke sisteminden veya bakım ya da onarımından kaynaklanması durumunda Yönetmelik hükümlerine uyulmuş kabul edilir.”
 “Numune alma noktaları, dış şebeke de dâhil olmak üzere bütün şebeke sistemini ve yaşayan nüfusu temsil edecek şekilde belirlenir.
 Belirlenen numune alma noktalarına mahalli idarece numune alma musluğu bağlanır.”
@@ -34,12 +34,12 @@ Belirlenen numune alma noktalarına mahalli idarece numune alma musluğu bağlan
 MADDE 6 – Aynı Yönetmeliğin 9 uncu maddesi yürürlükten kaldırılmıştır.
 
 
-MADDE 7 – Aynı Yönetmeliğin 10 uncu maddesinin birici fıkrasının ikinci cümlesinin başına “Müdürlükçe” ibaresi eklenmiş, üçüncü cümlesinde yer alan “yetkili mercilerce” ibaresi “Müdürlük ve mahalli idarece” şeklinde, ikinci fıkrasında yer alan “Bakanlık” ibaresi “Müdürlük” şeklinde değiştirilmiş, dördüncü fıkranın son cümlesine “bütün tedbirler” ibaresinden sonra gelmek üzere “mahalli idare tarafından” ibaresi eklenmiş, beşinci fıkrası aşağıdaki şekilde değiştirilmiş ve sekizinci fıkrasında yer alan “Bakanlığın” ibaresi “Kurumun” şeklinde değiştirilmiş ve onbirinci fıkrası aşağıdaki gibi değiştirilmiştir.
+**MADDE 7 –** Aynı Yönetmeliğin 10 uncu maddesinin birici fıkrasının ikinci cümlesinin başına “Müdürlükçe” ibaresi eklenmiş, üçüncü cümlesinde yer alan “yetkili mercilerce” ibaresi “Müdürlük ve mahalli idarece” şeklinde, ikinci fıkrasında yer alan “Bakanlık” ibaresi “Müdürlük” şeklinde değiştirilmiş, dördüncü fıkranın son cümlesine “bütün tedbirler” ibaresinden sonra gelmek üzere “mahalli idare tarafından” ibaresi eklenmiş, beşinci fıkrası aşağıdaki şekilde değiştirilmiş ve sekizinci fıkrasında yer alan “Bakanlığın” ibaresi “Kurumun” şeklinde değiştirilmiş ve onbirinci fıkrası aşağıdaki gibi değiştirilmiştir.
 “İçme-kullanma sularının dezenfeksiyonunda klor kullanılması halinde, uç noktada yapılacak ölçümlerde serbest klor düzeyinin 0.2-0.5 mg/L olması sağlanır. Klorlamada bu düzeyin sağlanamaması durumunda mahalli idare tarafından ara klorlama ünitesi yaptırılır. Deprem ve sel gibi olağanüstü durumlar ile kaynak, depo ve şebeke sistemi gibi su yapılarında oluşan arızalanmalara bağlı olarak yapılan su kesintilerinde şebekenin en uç noktasında serbest klor düzeyi en fazla 1.0 mg/L olacak şekilde klorlama yapılabilir. İçme-kullanma suyunda dezenfeksiyon etkinliğinin denetlenmesi amacıyla, serbest klor ölçümleri suyun mahallinde her gün yapılır.”
 “Tüketime verilen içme-kullanma suyu denetim ve analiz işlemleri suyun kalitesinin denetimi niteliğindedir. Bu maddenin birinci fıkrası kapsamında mevzuata uygunluk denetimi amacıyla alınacak su numuneleri Müdürlükçe alınır. Su numunesi alım noktalarının tanımlanması ve numune alım takviminin oluşturulması için mahalli idare ile Müdürlük arasında bir protokol imzalanır ve protokolde değişiklik teklif edilmediği sürece her yıl yenilenmiş sayılır. Protokol çerçevesinde alınan su numunelerinin analizleri Kurumca yetki verilen laboratuvarda yaptırılır ve mali yükümlülüğü mahalli idareye aittir.”
 
 
-MADDE 8 – Aynı Yönetmeliğin 11 inci maddesinin üçüncü fıkrasının ikinci cümlesinde yer alan “dikkate alınarak” ibaresinden sonra gelmek üzere “Müdürlükçe” ibaresi, üçüncü cümlesinde yer alan “tüketiciler” ibaresinden sonra gelmek üzere “yazılı ve görsel medya veya internet aracılığıyla” ibaresi eklenmiş ve son cümlesinde yer alan “Yetkili mercilerce” ibaresi “Müdürlük ve mahalli idarece” şeklinde değiştirilmiştir.
+**MADDE 8 –** Aynı Yönetmeliğin 11 inci maddesinin üçüncü fıkrasının ikinci cümlesinde yer alan “dikkate alınarak” ibaresinden sonra gelmek üzere “Müdürlükçe” ibaresi, üçüncü cümlesinde yer alan “tüketiciler” ibaresinden sonra gelmek üzere “yazılı ve görsel medya veya internet aracılığıyla” ibaresi eklenmiş ve son cümlesinde yer alan “Yetkili mercilerce” ibaresi “Müdürlük ve mahalli idarece” şeklinde değiştirilmiştir.
 
 MADDE 9 – Aynı Yönetmeliğin 12 nci maddesinin birinci fıkrasında yer alan “yetkili mercice” ibaresi “Kurumca” şeklinde değiştirilmiştir.
 
@@ -57,7 +57,7 @@ MADDE 15 – Aynı Yönetmeliğin 18 inci maddesinin üçüncü fıkrasında yer
 “Tesis izni ve üretim izni için yaptırılan analizlerin ücretleri ile hizmet bedeli ödenmesinden su işletmecisi sorumludur.”
 
 
-MADDE 16 – Aynı Yönetmeliğin 19 uncu maddesinin birinci fıkrasında yer alan “İl sağlık müdürünün” ibaresi “Halk Sağlığı Müdürünün” şeklinde, aynı fıkranın (a) bendi aşağıdaki şekilde değiştirilmiş, (b) bendinde “biyolog” ibaresinden sonra gelmek üzere “veya çevre mühendisi” ibaresi, (c) bendinde “hidro-jeoloji mühendisi” ibaresinden sonra gelmek üzere “veya jeofizik mühendisi” ibaresi eklenmiş ve üçüncü fıkrasında yer alan “işletme izni” ibaresi “üretim izni” şeklinde değiştirilmiştir.
+**MADDE 16 –** Aynı Yönetmeliğin 19 uncu maddesinin birinci fıkrasında yer alan “İl sağlık müdürünün” ibaresi “Halk Sağlığı Müdürünün” şeklinde, aynı fıkranın (a) bendi aşağıdaki şekilde değiştirilmiş, (b) bendinde “biyolog” ibaresinden sonra gelmek üzere “veya çevre mühendisi” ibaresi, (c) bendinde “hidro-jeoloji mühendisi” ibaresinden sonra gelmek üzere “veya jeofizik mühendisi” ibaresi eklenmiş ve üçüncü fıkrasında yer alan “işletme izni” ibaresi “üretim izni” şeklinde değiştirilmiştir.
 “a) Bulaşıcı Hastalıklar, Çevre ve Çalışan Sağlığı Şube Müdürü/Çevre ve Çalışan Sağlığı Şube Müdürü/Çevre Sağlığı Şube Müdürü,”
 
 MADDE 17 – Aynı Yönetmeliğin 20 nci maddesinin (a), (b), (c), (d), (e), (f) ve (h) bentleri aşağıdaki şekilde değiştirilmiştir.
@@ -66,7 +66,7 @@ MADDE 17 – Aynı Yönetmeliğin 20 nci maddesinin (a), (b), (c), (d), (e), (f)
 MADDE 18 – Aynı Yönetmeliğin 21 inci maddesinin birinci fıkrasının birinci cümlesinde yer alan “üç” ibaresi “iki” şeklinde değiştirilmiş, (j) bendi ile (m) bendi yürürlükten kaldırılmış ve üçüncü fıkrasında yer alan “Bakanlığa” ibaresi “Kuruma” şeklinde değiştirilmiştir.
 
 
-MADDE 19 – Aynı Yönetmeliğin 23 üncü maddesinin başlığı “Tesis ve üretim izni” şeklinde değiştirilmiş, üçüncü fıkrasında yer alan “İşletme İznine” ibaresi “Üretim İznine” şeklinde, “Bakanlığa” ibaresi “Kuruma” şeklinde, üçüncü ve dördüncü fıkrasında yer alan “işletme izni” ibareleri “üretim izni” şeklinde, dördüncü fıkrasında yer alan “İl Sağlık Müdürlüklerince” ibaresi “Müdürlükçe” şeklinde değiştirilmiştir.
+**MADDE 19 –** Aynı Yönetmeliğin 23 üncü maddesinin başlığı “Tesis ve üretim izni” şeklinde değiştirilmiş, üçüncü fıkrasında yer alan “İşletme İznine” ibaresi “Üretim İznine” şeklinde, “Bakanlığa” ibaresi “Kuruma” şeklinde, üçüncü ve dördüncü fıkrasında yer alan “işletme izni” ibareleri “üretim izni” şeklinde, dördüncü fıkrasında yer alan “İl Sağlık Müdürlüklerince” ibaresi “Müdürlükçe” şeklinde değiştirilmiştir.
 
 MADDE 20 – Aynı Yönetmeliğin 25 inci maddesinin üçüncü fıkrasının son cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Bu özellikler, toplama odası ile benzeri yapılarda da göz önünde bulundurulur ve bu gibi ünitelerin tahliye uçlarına haşere ve kemirgen girişini önlemek için uygun tertibat konulur.”
@@ -87,7 +87,7 @@ Otomatik yıkama ünitelerinde yıkama işlemi, uygun teknoloji ve malzeme ile y
 “Kapların yıkanmasında ve durulanmasında dolum yapılan su veya kaynak suyu niteliğini haiz su kullanılabilir. Kapların yıkanmasında ve durulanmasında dolum yapılan sudan başka su kullanılması durumunda bu su, her yıl en az bir denetleme ve dört kontrol izlemesine tabi tutulur. Analiz sonuçları denetimlerde ibraz edilir. Yıkamada kullanılan su en geç 24 saatte bir, durulamada kullanılan su ise her seferinde değiştirilir.”
 
 
-MADDE 25 – Aynı Yönetmeliğin 34 üncü maddesinin başlığı “Etiket bilgileri ve reklam” şeklinde değiştirilmiş, birinci fıkrasının sonuna gelmek üzere aşağıdaki cümle eklenmiş, üçüncü, beşinci ve yedinci fıkraları aşağıdaki şekilde değiştirilmiş, dördüncü fıkrasının (b) bendinde yer alan “alt ve üst” ibaresi “alt veya üst” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki (c) bendi eklenmiştir.
+**MADDE 25 –** Aynı Yönetmeliğin 34 üncü maddesinin başlığı “Etiket bilgileri ve reklam” şeklinde değiştirilmiş, birinci fıkrasının sonuna gelmek üzere aşağıdaki cümle eklenmiş, üçüncü, beşinci ve yedinci fıkraları aşağıdaki şekilde değiştirilmiş, dördüncü fıkrasının (b) bendinde yer alan “alt ve üst” ibaresi “alt veya üst” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki (c) bendi eklenmiştir.
 “Ayrıca, etiket üzerinde suyun adını ve suya ait bilgileri baskılamayacak şekilde Müdürlüğün izni ile resim ve figürlere yer verilebilir.”
 “Kap, kapak ve etiketler ile tanıtım amaçlı hazırlanan afiş ve broşürlerde ya da reklam ve ilanlarında tüketiciyi aldatıcı ve yanıltıcı, bu Yönetmelikte belirlenen niteliklere aykırı, hastaları, yaşlıları, çocukları ve engellileri istismar edici bilgi ve sembollere yer verilemez. Tüketicinin yanıltılması ve aldatılmasını önlemek, ürün güvenliğini sağlamak üzere; işleticilerce polikarbonat damacana gibi kaplarda, kap ve kapak üzerine gelecek şekilde shrink uygulanır. Shrink üzerine okunacak şekilde suyun adı ve cinsi yazılır.”
 “Etiket üzerinde, gösterge parametrelerinden kimyasal parametreler okunabilecek şekilde yer alır. İşletmecinin talebi halinde, Müdürlük tarafından alınmış numunenin analizleri yaptırılmış olmak kaydıyla suya ait fiziksel, ilave kimyasal ve fiziko-kimyasal özellikler de etikette yer alabilir.”
@@ -111,12 +111,12 @@ Mesul müdürün iş yerindeki görevinden ayrılması veya görevine son verilm
 Tesislerde su dolumu yapılan genel çalışma saatleri dışındaki zamanda ve kabul edilebilir mazeret hallerinde mesul müdürün yerine, mesul müdürün yazılı yetki devri yaptığı eşdeğer diplomayı haiz başka bir çalışanın bulunması zorunludur.”
 
 
-MADDE 27 – Aynı Yönetmeliğin 36 ncı maddesinin birinci fıkrasının ikinci cümlesinde yer alan “arseniğin ayrıştırılması” ibaresinden sonra gelmek üzere “, aktif alüminyum kullanılarak florürün ayrıştırılması” ibaresi eklenmiş ve aynı fıkranın son cümlesinde yer alan “Valiliğin” ibaresi “Kurumun” şeklinde değiştirilmiş, ikinci fıkrasına “havanın” ibaresinden sonra gelmek üzere “ve aktif alüminyumun” ibaresi eklenmiş, (c) bendinde yer alan “mg/L” ve “ug/L” ibareleri “μg/L” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki (ç) bendi eklenmiştir.
+**MADDE 27 –** Aynı Yönetmeliğin 36 ncı maddesinin birinci fıkrasının ikinci cümlesinde yer alan “arseniğin ayrıştırılması” ibaresinden sonra gelmek üzere “, aktif alüminyum kullanılarak florürün ayrıştırılması” ibaresi eklenmiş ve aynı fıkranın son cümlesinde yer alan “Valiliğin” ibaresi “Kurumun” şeklinde değiştirilmiş, ikinci fıkrasına “havanın” ibaresinden sonra gelmek üzere “ve aktif alüminyumun” ibaresi eklenmiş, (c) bendinde yer alan “mg/L” ve “ug/L” ibareleri “μg/L” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki (ç) bendi eklenmiştir.
 “ç) Kaynak ve içme sularında bu Yönetmelikte belirtilen sınır değerinin üzerinde bulunması sebebiyle ayrıştırma işlemine tabi tutulan parametre için her seriden numune alınarak analiz yapılır veya yaptırılır. Bu konudaki sorumluluk işletme sahibi ile mesul müdüre aittir.
 Analiz sonuçlarının uygun olması durumunda suyun piyasaya sunulması mümkündür. Ayrıştırma işlemi yapılan sular, ayrıştırılan parametre yönünden Müdürlükçe haftalık izlemeye alınır. Analiz sonuçlarının uygun olması durumunda su piyasaya verilir. Ayrıştırma işlemi yapılan sular, ayrıştırma işlemine tabi tutulan parametre yönünden Müdürlükçe haftalık izlemeye alınır.”
 
 
-MADDE 28 – Aynı Yönetmeliğin 39 uncu maddesinin birinci fıkrasında yer alan “işletme izni” ibaresi “üretim izni” şeklinde, aynı fıkrada yer alan “sağlık müdürlüğünce” ibaresi “Müdürlükçe” şeklinde, “işçilere ait sağlık karneleri ve portör muayenesi raporları” ibaresi “1593 sayılı Umumi Hıfzıssıhha Kanununun 126 ncı ve 127 nci maddeleri mucibince yerine getirilmesi gereken iş ve işlemlere ait bilgi ve belgeleri” şeklinde değiştirilmiştir.
+**MADDE 28 –** Aynı Yönetmeliğin 39 uncu maddesinin birinci fıkrasında yer alan “işletme izni” ibaresi “üretim izni” şeklinde, aynı fıkrada yer alan “sağlık müdürlüğünce” ibaresi “Müdürlükçe” şeklinde, “işçilere ait sağlık karneleri ve portör muayenesi raporları” ibaresi “1593 sayılı Umumi Hıfzıssıhha Kanununun 126 ncı ve 127 nci maddeleri mucibince yerine getirilmesi gereken iş ve işlemlere ait bilgi ve belgeleri” şeklinde değiştirilmiştir.
 
 MADDE 29 – Aynı Yönetmeliğin 40 ıncı maddesinin birinci fıkrasında yer alan “işletme izni” ibaresi “üretim izni” şeklinde değiştirilmiştir.
 
@@ -177,9 +177,9 @@ GEÇİCİ
 
 MADDE 5 – Daha önce izin verilen kaynak ve içme suyu işletmeleri, üretim izinlerini, analiz sertifikalarını ve etiketlerini 31/12/2013 tarihine kadar uyumlaştırmak zorundadır. Bu tarihe kadar uyumlaştırma işlemlerini tamamlamayan işletmelerin faaliyeti durdurulur. Bu nedenle faaliyeti durdurulan işletmelerin 31/12/2014 tarihine kadar uyumlaştırma işlemlerini tamamlayamamaları halinde üretim izinleri iptal edilir.”
 “Takip sistemlerinin uygulanması
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 6 – Daha önce izin verilen kaynak ve içme suyu işletmeleri kapların yıkanmasında kullanılan yıkama suyu sıcaklığını ölçmek için oluşturacakları elektronik takip sistemi, elektronik takip sisteminin usul ve esaslarının belirlenmesini müteakip bir yıl içinde; damacana takip sistemini ise damacana takip sisteminin usul esaslarının belirlenmesini müteakip üç yıl içinde hayata geçirir.”
+**MADDE 6 –** Daha önce izin verilen kaynak ve içme suyu işletmeleri kapların yıkanmasında kullanılan yıkama suyu sıcaklığını ölçmek için oluşturacakları elektronik takip sistemi, elektronik takip sisteminin usul ve esaslarının belirlenmesini müteakip bir yıl içinde; damacana takip sistemini ise damacana takip sisteminin usul esaslarının belirlenmesini müteakip üç yıl içinde hayata geçirir.”
 
 MADDE 39 – Aynı Yönetmeliğin Ek-1, Ek-2, Ek-3, Ek-4, Ek-5 ve Ek-6’sı ekteki şekilde değiştirilmiştir.
 

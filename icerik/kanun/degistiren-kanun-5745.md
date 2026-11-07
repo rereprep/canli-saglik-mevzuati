@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/03/20080307-2.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE
-DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+T.C. Resmî Gazete Resmî Gazete **KANUN 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE**
+**DEĞİŞİKLİK** YAPILMASINA DAİR KANUN
 Kanun No. 5745 Kabul Tarihi: 27/2/2008
 
 

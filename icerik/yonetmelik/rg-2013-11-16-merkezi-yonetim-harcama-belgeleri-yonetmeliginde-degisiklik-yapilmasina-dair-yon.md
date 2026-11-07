@@ -12,10 +12,10 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-MERKEZÎ
-YÖNETİM HARCAMA BELGELERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MERKEZÎ**
+**YÖNETİM HARCAMA BELGELERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 31/12/2005 tarihli ve 26040 (3. Mükerrer) sayılı Resmî Gazete’de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliğinin 54 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 31/12/2005 tarihli ve 26040 (3. Mükerrer) sayılı Resmî Gazete’de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliğinin 54 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 “Madde 54 – Yapı, tesis ve onarım giderlerinin ödenmesinde;
 - Taahhüt dosyası, - Fatura, - Yapım İşleri Hakediş Raporu (Örnek: 3) ödeme belgesine bağlanır.
 Ancak, mevzuatı uyarınca Toplu Konut İdaresi Başkanlığına veya inşaat işleriyle ilgili araştırma, proje, taahhüt, finansman ve yapım işlemleri konusunda görevli ve yetkili kamu tüzel kişiliğine sahip diğer kurum ve kuruluşlara, düzenlenecek protokol esasları çerçevesinde doğrudan yaptırılan işlerde;

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 19/12/2012 tarihli ve 28502 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinin ekinde yer alan Ek-1 sayılı cetvelin “I. BÖLÜM” başlıklı tablosu ekteki şekilde, aynı cetvelin “II. BÖLÜM” başlıklı tablosunun A/1 sırasında yer alan “Müsteşar” ibaresi “Bakan Yardımcısı” şeklinde değiştirilmiş; Ek-1 sayılı cetvelin sonuna aşağıdaki dip not eklenmiştir.
 “**** Aynı yerleşke içinde birden fazla hastane için koordinatör başhekim görevlendirilmesi durumunda; Koordinatör Başhekimin disiplin amiri İl Sağlık Müdürü, üst disiplin amiri Vali; bağlı hastane Başhekimlerinin ve koordinatör başhekime bağlı personelin disiplin amiri Koordinatör Başhekim, üst disiplin amiri İl Sağlık Müdürü; bağlı hastanelerdeki Başhekim Yardımcısı, Eğitim Görevlisi, Müdür, Sivil Savunma Uzmanı ve Avukatların disiplin amiri Başhekim, üst disiplin amiri Koordinatör Başhekimdir.”

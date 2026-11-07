@@ -10,9 +10,9 @@ durum: "yürürlükte"
 
 ## T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü
 
-Sayı : B100PER0110009 Konu : Bakaya Tabiplerin Sevk İşlemleri 18.06.2002
+**Sayı :** B100PER0110009 **Konu :** Bakaya Tabiplerin Sevk İşlemleri **18.06.2002**
 
-98786
+**98786**
 
 ### GENELGE 2002/ 61
 

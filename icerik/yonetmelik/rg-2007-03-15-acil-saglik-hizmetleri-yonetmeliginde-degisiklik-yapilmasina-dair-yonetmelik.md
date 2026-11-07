@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-ACİL SAĞLIK HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+ACİL SAĞLIK HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR **YÖNETMELİK**
 
 MADDE 1 – 11/5/2000 tarihli ve 24046 sayılı Resmî Gazete’de yayımlanan Acil Sağlık Hizmetleri Yönetmeliğinin 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 "MADDE 3 – Bu Yönetmelik, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin (i) bendi ile 9 uncu maddesinin (c) bendine, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun 3 üncü maddesinin 2 nci fıkrasına, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 8 inci maddesinin birinci fıkrasının (b) bendi ile 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 41 inci ve 43 üncü maddesi hükümlerine dayanılarak hazırlanmıştır."

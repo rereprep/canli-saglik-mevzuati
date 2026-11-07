@@ -30,13 +30,13 @@ Sürveyans faaliyetleri, 01.04.2010 tarihli ve 18617-2010/20 sayılı “Kızam�
 
 Ancak, Kızamık ve Kızamıkçığın Eliminasyonu ile Konjenital Kızamıkçık Sendromu’nun Önlenmesi
 
-Programı’nın veri ve raporlama ihtiyaçları mevcut diğer sistemlerle tam olarak karşılanamadığından; bu ihtiyacı geçici olarak karşılamak üzere, İl Sağlık Müdürlüklerinin Kızamık/Kızamıkçık Vaka Cetveli bildirimlerini elektronik ortamda kesintisiz olarak sürdürebilmelerini sağlamak amacıyla Sağlık Bilgi Sistemleri Genel Müdürlüğü ile görüşülmüş ve 14.10.2025 tarihli ve E-41841288-703-291305830 sayılı resmi yazıları ile Çekirdek Kaynak Yönetim Sistemi (ÇKYS) içerisinde yeni bir alt modül oluşturulması uygun bulunmuştur.
+Programı’nın veri ve raporlama ihtiyaçları mevcut diğer sistemlerle tam olarak karşılanamadığından; bu ihtiyacı geçici olarak karşılamak üzere, İl Sağlık Müdürlüklerinin Kızamık/Kızamıkçık Vaka Cetveli bildirimlerini elektronik ortamda kesintisiz olarak sürdürebilmelerini sağlamak amacıyla Sağlık Bilgi Sistemleri Genel Müdürlüğü ile görüşülmüş ve 14.10.2025 tarihli ve E-41841288-703-291305830 sayılı resmi yazıları ile **Çekirdek Kaynak Yönetim Sistemi (ÇKYS)** içerisinde yeni bir alt modül oluşturulması uygun bulunmuştur.
 
 Geçmiş dönemlere ait veriler ilgili modüle aktarılmış olup sistem kullanıma açılmıştır.
 
 Bu kapsamda İl Sağlık Müdürlükleri ve sadece İstanbul için İlçe Sağlık Müdürlüklerinin ekte yer alan algoritma ve yetki tanımları çerçevesinde, her ayın 20’sine kadar Sağlık Bakanlığına gönderdikleri
 
-Kızamık/Kızamıkçık Vaka Cetveli bildirimlerini, Kasım 2025 ayında Ekim 2025 dönemine ait verilerden başlamak üzere ÇKYS sistemi üzerinden yapmaları gerekmektedir.
+Kızamık/Kızamıkçık Vaka Cetveli bildirimlerini, **Kasım 2025 ayında Ekim 2025 dönemine ait verilerden başlamak üzere ÇKYS sistemi üzerinden yapmaları gerekmektedir.**
 
 Ek-1’de detaylandırılan talimatlara göre, kullanıcı ve yetki tiplerine uygun olarak ilinizde görev yapan personele ÇKYS yetkisinin İl Sistem Yöneticisi (İl Admini) tarafından tanımlanması gerekmektedir.
 

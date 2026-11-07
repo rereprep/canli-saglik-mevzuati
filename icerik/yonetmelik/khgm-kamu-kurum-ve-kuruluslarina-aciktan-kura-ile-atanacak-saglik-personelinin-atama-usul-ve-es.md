@@ -18,7 +18,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -26,7 +26,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönetmelik, kamu kurum ve kuruluşlarının tıpta uzmanlık mevzuatına göre uzman olanlar ile uzman tabip, uzman diş tabibi, (Ek ibare:RG-13/7/2023-32247) uzman eczacı, tabip, diş tabibi ve eczacı kadro ve pozisyonlarına ilk defa veya yeniden açıktan kura ile yapılacak yerleştirme ve atamaları kapsar.
+**MADDE 2 –** (1) Bu Yönetmelik, kamu kurum ve kuruluşlarının tıpta uzmanlık mevzuatına göre uzman olanlar ile uzman tabip, uzman diş tabibi, **(Ek ibare:RG-13/7/2023-32247)** uzman eczacı, tabip, diş tabibi ve eczacı kadro ve pozisyonlarına ilk defa veya yeniden açıktan kura ile yapılacak yerleştirme ve atamaları kapsar.
 
 (2) 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu kapsamındaki öğretim elemanı unvanları bu Yönetmelik kapsamı dışındadır.
 
@@ -40,7 +40,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 **MADDE 4 –** (1) Bu Yönetmelikte geçen;
 
-a) Bağlı kuruluşlar: (Mülga ibare:RG-25/2/2018-30343) (...) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü ile Türkiye İlaç ve Tıbbi Cihaz Kurumunu,
+a) Bağlı kuruluşlar: **(Mülga ibare:RG-25/2/2018-30343)** (...) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü ile Türkiye İlaç ve Tıbbi Cihaz Kurumunu,
 
 b) Bakan: Sağlık Bakanını,
 
@@ -50,7 +50,7 @@ c) Bakanlık: Sağlık Bakanlığını,
 
 d) Kamu kurum ve kuruluşları: 8/6/1984 tarihli ve 217 sayılı Devlet Personel Başkanlığı Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesinde sayılan kamu kurum ve kuruluşlarını,
 
-e) Kura: Tıpta uzmanlık mevzuatına göre uzman olanlar ile uzman tabip, uzman diş tabibi, (Ek ibare:RG-13/7/2023-32247) uzman eczacı, tabip, diş tabibi ve eczacı kadro ve pozisyonlarına ilk defa veya yeniden yapılacak atamalar için ilgililerin katılımına açık olarak yapılan yerleştirme yöntemini,
+e) Kura: Tıpta uzmanlık mevzuatına göre uzman olanlar ile uzman tabip, uzman diş tabibi, **(Ek ibare:RG-13/7/2023-32247)** uzman eczacı, tabip, diş tabibi ve eczacı kadro ve pozisyonlarına ilk defa veya yeniden yapılacak atamalar için ilgililerin katılımına açık olarak yapılan yerleştirme yöntemini,
 
 f) Pozisyon: Bu Yönetmelik kapsamındaki kamu kurum ve kuruluşlarında sözleşmeli personel istihdam edilen her türlü pozisyonu,
 
@@ -60,19 +60,19 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Kura Komisyonunun Teşkili ve Görevleri
+**Kura Komisyonunun Teşkili ve Görevleri**
 
 #### Kura komisyonunun teşkili
 
-**MADDE 5 –** (1) (Değişik cümle:RG-9/2/2019-30681) Bakanlıkta kura işlemlerini yürütmek üzere, Yönetim Hizmetleri Genel Müdürlüğünün bağlı bulunduğu Bakan Yardımcısının veya görevlendireceği kişinin başkanlığında, Yönetim Hizmetleri Genel Müdürlüğü, Kamu Hastaneleri Genel Müdürlüğü, Sağlık Hizmetleri Genel Müdürlüğü ve Hukuk Hizmetleri Genel Müdürlüğünden birer kişi olmak üzere toplam beş kişiden oluşan Kura Komisyonu oluşturulur. Komisyona katılacak üyeler en az daire başkanı veya hukuk müşaviri düzeyinde olmalıdır.
+**MADDE 5 –** (1) **(Değişik cümle:RG-9/2/2019-30681)** Bakanlıkta kura işlemlerini yürütmek üzere, Yönetim Hizmetleri Genel Müdürlüğünün bağlı bulunduğu Bakan Yardımcısının veya görevlendireceği kişinin başkanlığında, Yönetim Hizmetleri Genel Müdürlüğü, Kamu Hastaneleri Genel Müdürlüğü, Sağlık Hizmetleri Genel Müdürlüğü ve Hukuk Hizmetleri Genel Müdürlüğünden birer kişi olmak üzere toplam beş kişiden oluşan Kura Komisyonu oluşturulur. Komisyona katılacak üyeler en az daire başkanı veya hukuk müşaviri düzeyinde olmalıdır.
 
-(2) (Değişik:RG-13/7/2023-32247) Kurum ve kuruluşların kadro ve pozisyonlarına da yerleştirme yapılacak olması halinde komisyonda; Adalet Bakanlığı, Aile ve Sosyal Hizmetler Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, İçişleri Bakanlığı, Millî Eğitim Bakanlığı ile Millî Savunma Bakanlığı birer üye ile temsil edilebilir. Söz konusu kurumlar, bu komisyona gönderecekleri temsilcileri ve yedeklerini her yıl ocak ayı içerisinde Bakanlığa bildirirler. Bu Komisyonda kadro ve pozisyonlarına yerleştirme yapılacak diğer kamu kurum ve kuruluşları da gözlemci bulundurabilir.
+(2) **(Değişik:RG-13/7/2023-32247)** Kurum ve kuruluşların kadro ve pozisyonlarına da yerleştirme yapılacak olması halinde komisyonda; Adalet Bakanlığı, Aile ve Sosyal Hizmetler Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, İçişleri Bakanlığı, Millî Eğitim Bakanlığı ile Millî Savunma Bakanlığı birer üye ile temsil edilebilir. Söz konusu kurumlar, bu komisyona gönderecekleri temsilcileri ve yedeklerini her yıl ocak ayı içerisinde Bakanlığa bildirirler. Bu Komisyonda kadro ve pozisyonlarına yerleştirme yapılacak diğer kamu kurum ve kuruluşları da gözlemci bulundurabilir.
 
 (3) Komisyonun kararları oy çokluğu ile alınır. Çekimser oy kullanılamaz. Oyların eşitliği halinde başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
 
 (4) Komisyonun sekretarya işlemleri, Yönetim Hizmetleri Genel Müdürlüğü tarafından yürütülür.
 
-(5) (Ek:RG-13/7/2023-32247) Kura duyurularının hazırlanması, yayımlanması, başvuruların alınması, değerlendirilmesi, kura çekilişinin yapılması, kura sonuçlarının yayımlanması, kura sonuçlarına yapılacak itirazların değerlendirilmesi, kura neticesinde Bakanlık dışındaki kamu kurum ve kuruluşlarına yerleşenlerin atanmalarına esas bilgi ve belgelerin ilgili kurum ve kuruluşlara gönderilmesi ve Bakanlık bünyesine yerleşenlerin atama işlemleri Yönetim Hizmetleri Genel Müdürlüğü tarafından yapılır.
+(5) **(Ek:RG-13/7/2023-32247)** Kura duyurularının hazırlanması, yayımlanması, başvuruların alınması, değerlendirilmesi, kura çekilişinin yapılması, kura sonuçlarının yayımlanması, kura sonuçlarına yapılacak itirazların değerlendirilmesi, kura neticesinde Bakanlık dışındaki kamu kurum ve kuruluşlarına yerleşenlerin atanmalarına esas bilgi ve belgelerin ilgili kurum ve kuruluşlara gönderilmesi ve Bakanlık bünyesine yerleşenlerin atama işlemleri Yönetim Hizmetleri Genel Müdürlüğü tarafından yapılır.
 
 #### Kura komisyonunun toplanma zamanı ve görevleri
 
@@ -84,45 +84,45 @@ Kura Komisyonunun Teşkili ve Görevleri
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Kura ve Atamaya İlişkin Usul ve Esaslar
+**Kura ve Atamaya İlişkin Usul ve Esaslar**
 
 #### Kuraya ilişkin usul ve esaslar
 
 **MADDE 7 –** (1) Kuraya ilişkin usul ve esaslar şunlardır:
 
-a) Tıpta uzmanlık mevzuatına göre uzman olanlar ile uzman tabip, uzman diş tabibi, (Ek ibare:RG-13/7/2023-32247) uzman eczacı, tabip, diş tabibi ve eczacı kadro ve pozisyonlarına ilk defa veya yeniden yapılacak atamalara ilişkin kura işlemleri Bakanlığın koordinatörlüğünde yürütülür.
+a) Tıpta uzmanlık mevzuatına göre uzman olanlar ile uzman tabip, uzman diş tabibi, **(Ek ibare:RG-13/7/2023-32247)** uzman eczacı, tabip, diş tabibi ve eczacı kadro ve pozisyonlarına ilk defa veya yeniden yapılacak atamalara ilişkin kura işlemleri Bakanlığın koordinatörlüğünde yürütülür.
 
 b) Kura için ilan edilecek kadro ve pozisyonlar kurum ve kuruluşların o kura dönemdeki ihtiyaç durumuna ve hizmet gereklerine göre tespit edilir.
 
 c) Bağlı kuruluşlar ile Kamu kurum ve kuruluşları, münhal kadro, pozisyon, unvan ve görev yerlerini açıklayan listeleri, her kura döneminde Bakanlığa gönderirler.
 
-ç) İlan edilecek kadro ve pozisyon sayısı, kuraya başvuru, kura zamanı ve yapılış şekli ile gerekli görülen diğer hususlar, kura tarihinden en az (Değişik ibare:RG-25/2/2018-30343) beş gün önce, ülke genelinde günlük olarak yayımlanan en az bir gazetede ve Yönetim Hizmetleri Genel Müdürlüğünün resmi internet sitesinde ilan verilmek suretiyle duyurulur.
+ç) İlan edilecek kadro ve pozisyon sayısı, kuraya başvuru, kura zamanı ve yapılış şekli ile gerekli görülen diğer hususlar, kura tarihinden en az **(Değişik ibare:RG-25/2/2018-30343)** beş gün önce, ülke genelinde günlük olarak yayımlanan en az bir gazetede ve Yönetim Hizmetleri Genel Müdürlüğünün resmi internet sitesinde ilan verilmek suretiyle duyurulur.
 
 d) Kuraya, ilan edilen kadro ve pozisyonlara ilk defa veya yeniden atanmak isteyen adaylar müracaat edebilir.
 
 e) Adayların kura tarihinde, atama için ilgili mevzuatında belirtilen genel ve özel şartları taşımaları gerekir.
 
-f) (Değişik:RG-13/7/2023-32247) Adaylar, ilanda belirtilen sayıyı geçmemek üzere yer tercihinde bulunabilirler.
+f) **(Değişik:RG-13/7/2023-32247)** Adaylar, ilanda belirtilen sayıyı geçmemek üzere yer tercihinde bulunabilirler.
 
 1) Tıpta uzmanlık mevzuatına göre uzman olanlar ile uzman tabip ve tabip kadro ve pozisyonlarına kura ile yapılacak olan yerleştirmelerde tercih sıralaması dikkate alınır.
 
 2) Uzman diş tabibi, uzman eczacı, diş tabibi ve eczacı kadro ve pozisyonlarına yapılacak olan yerleştirmelerde, her bir adaya evvelce başvurusunun kabul edildiği fakat yerleşemediği her bir kura dönemi için bir (1) puan verilmek suretiyle hesaplanan toplam kura puanına göre yerleştirmenin yapıldığı puanlı kura sistemi uygulanır. Bu yerleştirmede adayların isimleri, hesaplanan toplam kura puanları sayısınca tekrarlanarak kuraya dahil edilir. Adaylar münhal yerlere tercih sıralarına bakılmak suretiyle kura ile yerleştirilir. Kurada yerleşen aday, kura listesinden çıkarılır ve kuraya kalan adaylar ile devam edilir. Tercihlerine yerleştirilemeyen adayların istekleri halinde boş kalan münhal yerlere yerleştirilmelerinde puanları dikkate alınarak genel kura ile yerleştirmeleri yapılır. Kura sonucunda yerleşen adayların yeniden başvuru yapması halinde puanı son yerleştiği kuradan itibaren hesaplanmaya başlanır, son yerleştiği kurada ve öncesinde almış olduğu puanlar dikkate alınmaz.
 
-g) (Değişik:RG-13/7/2023-32247) Tercihte bulunmayan ve tercihlerine yerleştirilemeyen Devlet hizmeti yükümlüleri resen, diğer adaylar istekleri halinde münhal kalan yerlere genel kura ile yerleştirilir.
+g) **(Değişik:RG-13/7/2023-32247)** Tercihte bulunmayan ve tercihlerine yerleştirilemeyen Devlet hizmeti yükümlüleri resen, diğer adaylar istekleri halinde münhal kalan yerlere genel kura ile yerleştirilir.
 
-ğ) (Değişik:RG-13/7/2023-32247) Kura işlemleri, tıpta uzmanlık mevzuatına göre uzman olanlar ile uzman tabip, uzman diş tabibi ve uzman eczacı kadro ve pozisyonlarında her branş için, diğerlerinde ise her unvan için ayrı ayrı yapılır.
+ğ) **(Değişik:RG-13/7/2023-32247)** Kura işlemleri, tıpta uzmanlık mevzuatına göre uzman olanlar ile uzman tabip, uzman diş tabibi ve uzman eczacı kadro ve pozisyonlarında her branş için, diğerlerinde ise her unvan için ayrı ayrı yapılır.
 
-h) (Değişik cümle:RG-25/2/2018-30343) Kura sonuçları, kura işlemlerinin tamamlanmasını müteakiben Bakanlık internet sayfasında duyurulur. Devlet hizmet yükümlüleri için bu duyuru, tebligat yerine geçer.
+h) **(Değişik cümle:RG-25/2/2018-30343)** Kura sonuçları, kura işlemlerinin tamamlanmasını müteakiben Bakanlık internet sayfasında duyurulur. Devlet hizmet yükümlüleri için bu duyuru, tebligat yerine geçer.
 
-(2) (Değişik:RG-13/7/2023-32247) Kura çekimi bilgisayar ortamında yapılır. Bunun mümkün olmaması halinde torba kurası da yapılabilir. Kura işlemleri her iki durumda noter huzurunda yapılarak sonuçlarına ilişkin belgeler Yönetim Hizmetleri Genel Müdürlüğü tarafından bağlı kuruluşlara ve ilgili kamu kurum ve kuruluşlarına gönderilir.
+(2) **(Değişik:RG-13/7/2023-32247)** Kura çekimi bilgisayar ortamında yapılır. Bunun mümkün olmaması halinde torba kurası da yapılabilir. Kura işlemleri her iki durumda noter huzurunda yapılarak sonuçlarına ilişkin belgeler Yönetim Hizmetleri Genel Müdürlüğü tarafından bağlı kuruluşlara ve ilgili kamu kurum ve kuruluşlarına gönderilir.
 
-(3) (Değişik:RG-13/7/2023-32247) Kura sonucu herhangi bir kadro ve pozisyonlarına yerleşenlerden ataması yapılmayanlar, atanmak istemeyenler ile ataması yapıldığı halde göreve başlamayanlar kura sonuçlarının ilanından itibaren bir yıl süreyle tekrar kuraya başvuramazlar.
+(3) **(Değişik:RG-13/7/2023-32247)** Kura sonucu herhangi bir kadro ve pozisyonlarına yerleşenlerden ataması yapılmayanlar, atanmak istemeyenler ile ataması yapıldığı halde göreve başlamayanlar kura sonuçlarının ilanından itibaren bir yıl süreyle tekrar kuraya başvuramazlar.
 
 #### Atamaya ilişkin usul ve esaslar
 
-**MADDE 8 –** (1) Adaylar atamaya esas evraklarını, kura sonucu yerleştikleri bağlı kuruluş/kamu kurum ve kuruluşuna teslim ederler. Atamalar ilgili bağlı kuruluş/kamu kurum ve kuruluşlarınca yapılır. Çekilen kura sonucunda, görev yerleri belirlenen adayların atama işlemlerine derhal başlanır. (Değişik cümle:RG-13/7/2023-32247) Kamu kurum ve kuruluşların kadro ve pozisyonlarına yerleştirilenlerin kura sonuçları Bakanlık tarafından sonuçların ilanından itibaren en geç on gün içinde ilgili kurum ve kuruluşa gönderilir.
+**MADDE 8 –** (1) Adaylar atamaya esas evraklarını, kura sonucu yerleştikleri bağlı kuruluş/kamu kurum ve kuruluşuna teslim ederler. Atamalar ilgili bağlı kuruluş/kamu kurum ve kuruluşlarınca yapılır. Çekilen kura sonucunda, görev yerleri belirlenen adayların atama işlemlerine derhal başlanır. **(Değişik cümle:RG-13/7/2023-32247)** Kamu kurum ve kuruluşların kadro ve pozisyonlarına yerleştirilenlerin kura sonuçları Bakanlık tarafından sonuçların ilanından itibaren en geç on gün içinde ilgili kurum ve kuruluşa gönderilir.
 
-(2) (Mülga:RG-25/2/2018-30343)
+(2) **(Mülga:RG-25/2/2018-30343)**
 
 (3) Kura tarihi itibariyle atama şartlarını taşımadıkları anlaşılanların atamaları yapılmaz. Kura sonucu ataması yapılanların belgelerinin gerçek dışı olduğu veya atama şartlarını taşımadığı sonradan anlaşılanların atama onayları iptal edilir.
 
@@ -134,7 +134,7 @@ h) (Değişik cümle:RG-25/2/2018-30343) Kura sonuçları, kura işlemlerinin ta
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 

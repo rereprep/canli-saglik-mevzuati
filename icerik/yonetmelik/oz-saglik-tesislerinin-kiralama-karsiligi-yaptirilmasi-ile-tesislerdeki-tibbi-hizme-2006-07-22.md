@@ -123,7 +123,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Temel İlkeler, Yapım ve Yenileme, Ön Hazırlıklar
+**Temel İlkeler, Yapım ve Yenileme, Ön Hazırlıklar**
 
 #### Temel ilkeler
 
@@ -171,7 +171,7 @@ c) İhaleler, merkeze aktarılan paylar da dâhil olmak üzere döner sermaye i�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İhale Usul ve Esasları
+**İhale Usul ve Esasları**
 
 #### İhale ilanı
 
@@ -471,7 +471,7 @@ c) Öngörülen maliyeti beş milyon YTL’nin altında kalan yenileme veya onar
 
 Sözleşmelerin Düzenlenmesi ve Sözleşmelerde
 
-Yer alacak Hususlar
+**Yer alacak Hususlar**
 
 #### Sözleşmenin imzalanması
 
@@ -659,7 +659,7 @@ c) Genel salgın hastalık.
 
 ### BEŞİNCİ BÖLÜM
 
-Sözleşmenin Sona Ermesi
+**Sözleşmenin Sona Ermesi**
 
 #### Sözleşmenin feshi
 
@@ -705,7 +705,7 @@ Sözleşmenin Sona Ermesi
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Sorumluluk ve tazminat
 

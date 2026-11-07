@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/02/20190228-6.htm"
 durum: "yürürlükte"
 ---
 
-KANUN MADEN KANUNU İLE BAZI KANUNLARDA VE KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7164 Kabul Tarihi: 14/2/2019
+**KANUN MADEN KANUNU İLE BAZI KANUNLARDA VE KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7164 **Kabul Tarihi: 14/2/2019**
 
 MADDE 1 – 14/6/1935 tarihli ve 2804 sayılı Maden Tetkik ve Arama Genel Müdürlüğü Kanununun ek 1 inci maddesinin birinci fıkrasında yer alan “arama ve araştırma” ibaresi “arama, araştırma ve işletme” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkralar eklenmiştir.
 “Bu madde kapsamında kurulan şirketler özel hukuk hükümlerine tabi olup 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu, 5/1/1961 tarihli ve 237 sayılı Taşıt Kanunu, 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu, 8/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname, 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi Ve 233 Sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararname, 18/5/1994 tarihli ve 527 sayılı Memurlar ve Diğer Kamu Görevlileri ile İlgili Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 4/7/2001 tarihli ve 631 sayılı Memurlar ve Diğer Kamu Görevlilerinin Mali ve Sosyal Haklarında Düzenlemeler ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname ile bunların ek ve değişikliklerine ilişkin hükümler ile kamu kurum ve kuruluşlarına personel alınmasına dair ilgili mevzuat hükümleri, şirketler veya ortak olduğu şirketler ile bunların iş ve işlemleri hakkında uygulanmaz. Şirketlerin faaliyetleri iş mevzuatı hükümlerine göre istihdam edilen personel eliyle yürütülür.

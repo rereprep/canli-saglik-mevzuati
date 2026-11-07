@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-AMBULANS VE ACİL BAKIM TEKNİKERLERİ İLE ACİL TIP TEKNİSYENLERİNİN ÇALIŞMA USUL VE ESASLARINA DAİR TEBLİĞDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN TEBLİĞ
+**AMBULANS VE ACİL BAKIM TEKNİKERLERİ İLE ACİL TIP TEKNİSYENLERİNİN ÇALIŞMA USUL VE ESASLARINA DAİR TEBLİĞDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN TEBLİĞ**
 
 MADDE 1- 26/3/2009 tarihli ve 27181 sayılı Resmî Gazete’de yayımlanan Ambulans ve Acil Bakım Teknikerleri ile Acil Tıp Teknisyenlerinin Çalışma Usul ve Esaslarına Dair Tebliğin Ek-2’si ekteki şekilde değiştirilmiştir.
 

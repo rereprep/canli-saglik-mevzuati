@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-BEŞERİ TIBBİ ÜRÜNLERİN KLİNİK ARAŞTIRMALARI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**BEŞERİ TIBBİ ÜRÜNLERİN KLİNİK ARAŞTIRMALARI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 27/5/2023 tarihli ve 32203 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünlerin Klinik Araştırmaları Hakkında Yönetmeliğin 8 inci maddesine aşağıdaki fıkra eklenmiştir.
 “(12) Başvuru sahipleri Kuruma sunduğu tüm belgelerin asıllarını saklamakla ve talep edildiğinde Kuruma sunmakla sorumludur.”

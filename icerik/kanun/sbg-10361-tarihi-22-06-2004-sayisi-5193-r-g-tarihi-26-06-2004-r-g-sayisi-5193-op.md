@@ -9,17 +9,17 @@ durum: "yürürlükte"
 
 ## OPTİSYENLİK HAKKINDA KANUN
 
-Kanun Numarası : 5193
+**Kanun Numarası : 5193**
 
-Kabul Tarihi : 22/6/2004
+**Kabul Tarihi : 22/6/2004**
 
-Yayımlandığı Resmî Gazete : Tarih : 26/6/2004 Sayı : 25504
+**Yayımlandığı Resmî Gazete : Tarih : 26/6/2004 Sayı : 25504**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 43
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 43**
 
 ## BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Tanımlar
+**Amaç, Kapsam ve Tanımlar**
 
 #### Amaç
 
@@ -47,7 +47,7 @@ ifade eder.
 
 ## İKİNCİ BÖLÜM
 
-Optisyenlik Mesleğinin İcra Edilmesi
+**Optisyenlik Mesleğinin İcra Edilmesi**
 
 #### Optisyenlik mesleğini haiz kişiler
 
@@ -139,7 +139,7 @@ Optisyen unvanını haiz olmadığı hâlde optisyenlik yapanlar veya optisyen o
 
 11 inci maddede belirtilen yasaklara uymayanlara yirmibin Türk Lirası idarî para cezası verilir.
 
-(Değişik fıkra: 21/7/2025–7557/21 md.) 6 ncı maddeye aykırı hareket edenlere, yüz bin Türk lirasından bir milyon Türk lirasına kadar idari para cezası verilir.
+**(Değişik fıkra: 21/7/2025–7557/21 md.)** 6 ncı maddeye aykırı hareket edenlere, yüz bin Türk lirasından bir milyon Türk lirasına kadar idari para cezası verilir.
 
 Bu Kanunun 7 nci maddesinin ikinci fıkrası ile 9 uncu maddesinin birinci fıkrasında yazılı şarta üst üste iki denetimde de uymadığı belirlenen optisyenler ile 9 uncu maddenin ikinci fıkrası ile 8, 10, 12 ve 13 üncü madde hükümlerine uymayanlara altıbin Türk Lirası idarî para cezası verilir.
 
@@ -155,7 +155,7 @@ Bu Kanunda yazılı olan idarî yaptırım kararları mahallî mülkî amir tara
 
 **Ek Madde 1 –** (Ek: 28/11/2017-7061/80 md.)
 
-Bu Kanuna tâbi meslek mensupları; mesleki faaliyetlerini geliştirip kolaylaştırmak, meslektaşlar arasında yardımlaşma ve iş birliğini temin etmek ve mesleki ahlâk ve disiplini tesis edip korumak üzere, kamu kurumu niteliğindeki optisyen-gözlükçüler odaları ve Türk Optisyen-Gözlükçüler Birliğini teşkil ederler. (Ek cümleler: 21/7/2025-7557/22 md.) Kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde asli ve sürekli kadrolarda çalışanlar ile geçici 2 nci madde kapsamında faaliyet yürüten eczacılar hariç olmak üzere odalara üye olmayan optisyen-gözlükçüler, mesleki faaliyette bulunamazlar. Optisyenlik müessesesi açıp işletmek isteyen gerçek kişiler ile özel hukuk tüzel kişileri müesseselerini otuz gün içinde bağlı bulundukları ticaret veya esnaf siciline tescil ettirmekle ve sicil gazetesinde ilan ettirmekle yükümlüdürler.
+Bu Kanuna tâbi meslek mensupları; mesleki faaliyetlerini geliştirip kolaylaştırmak, meslektaşlar arasında yardımlaşma ve iş birliğini temin etmek ve mesleki ahlâk ve disiplini tesis edip korumak üzere, kamu kurumu niteliğindeki optisyen-gözlükçüler odaları ve Türk Optisyen-Gözlükçüler Birliğini teşkil ederler. **(Ek cümleler: 21/7/2025-7557/22 md.)** Kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde asli ve sürekli kadrolarda çalışanlar ile geçici 2 nci madde kapsamında faaliyet yürüten eczacılar hariç olmak üzere odalara üye olmayan optisyen-gözlükçüler, mesleki faaliyette bulunamazlar. Optisyenlik müessesesi açıp işletmek isteyen gerçek kişiler ile özel hukuk tüzel kişileri müesseselerini otuz gün içinde bağlı bulundukları ticaret veya esnaf siciline tescil ettirmekle ve sicil gazetesinde ilan ettirmekle yükümlüdürler.
 
 (Ek fıkra: 21/7/2025-7557/22 md.) Sınırları içinde odaya kayıtlı en az yüz elli meslek mensubu bulunan her ilde bir oda kurulur. Odalar, kuruluşlarını Birlik Merkez Yönetim Kurulu aracılığı ile Sağlık Bakanlığına bildirmekle tüzel kişilik kazanırlar.
 
@@ -289,7 +289,7 @@ e) Kanunlarla verilen diğer görevleri yapmak.
 
 (Ek fıkra: 21/7/2025-7557/22 md.) Birlik ve odaların genel kurullarında seçilen organların üyelerinin görev süreleri üç yıldır. Yeni üyelerin tamamının seçilmelerine kadar eski üyeler görevlerine devam eder.
 
-(İptal fıkra: Anayasa Mahkemesinin 29/4/2021 tarihli ve E.: 2020/80, K.:2021/34 sayılı Kararı ile) (Yeniden düzenleme: 21/7/2025-7557/22 md.) Odalar ile Birliğin teşkili, faaliyetleri, organların görev ve yetkileri, toplantıları, seçimi, seçilme yeterlilikleri, seçimlerin yapılış usulü, mesleki yardımlaşma sandığının kuruluşu, mesleki sicil, idari ve mali denetime ilişkin bu Kanunda yer almayan hususlarda 25/1/1956 tarihli ve 6643 sayılı Türk Eczacıları Birliği Kanununun ilgili hükümleri kıyasen uygulanır. Ancak giriş ve yıllık üye aidatı tutarları yürürlükteki brüt asgari ücretin yüzde onunu geçmemek üzere Birlik Büyük Genel Kurulu tarafından tespit edilir. Odaların topladığı aidatlar toplamının yüzde otuzu Birlik merkezi payı olarak oda yönetim kurullarınca Birlik hesabına gönderilir. Oda aidatlarının ve Birlik merkezi payının tahsilat usulleri yönetmelikle belirlenir.
+**(İptal fıkra: Anayasa Mahkemesinin 29/4/2021 tarihli ve E.: 2020/80, K.:2021/34 sayılı Kararı ile) (Yeniden düzenleme: 21/7/2025-7557/22 md.)** Odalar ile Birliğin teşkili, faaliyetleri, organların görev ve yetkileri, toplantıları, seçimi, seçilme yeterlilikleri, seçimlerin yapılış usulü, mesleki yardımlaşma sandığının kuruluşu, mesleki sicil, idari ve mali denetime ilişkin bu Kanunda yer almayan hususlarda 25/1/1956 tarihli ve 6643 sayılı Türk Eczacıları Birliği Kanununun ilgili hükümleri kıyasen uygulanır. Ancak giriş ve yıllık üye aidatı tutarları yürürlükteki brüt asgari ücretin yüzde onunu geçmemek üzere Birlik Büyük Genel Kurulu tarafından tespit edilir. Odaların topladığı aidatlar toplamının yüzde otuzu Birlik merkezi payı olarak oda yönetim kurullarınca Birlik hesabına gönderilir. Oda aidatlarının ve Birlik merkezi payının tahsilat usulleri yönetmelikle belirlenir.
 
 **Ek Madde 2 –** (Ek fıkra: 21/7/2025-7557/23 md.)
 
@@ -339,11 +339,11 @@ Bu maddenin yürürlüğe girdiği tarihten önce optisyenlik mesleği ile ilgil
 
 Birliğin ilk genel kurulu, bu maddenin yürürlüğe girdiği tarihten itibaren dört ay içinde Sağlık Bakanlığının daveti üzerine Ankara’da toplanır (…) .
 
-(Mülga fıkra: 21/7/2025-7557/24 md.)
+**(Mülga fıkra: 21/7/2025-7557/24 md.)**
 
-(Mülga fıkra: 21/7/2025-7557/24 md.)
+**(Mülga fıkra: 21/7/2025-7557/24 md.)**
 
-Oda kurulan illerde ve bölgelerde faaliyette bulunmakta olan meslek mensupları, odaların kuruluşundan itibaren üç ay içinde odaya kayıt olmak zorundadır. (Mülga ikinci cümle: 21/7/2025-7557/24 md.)
+Oda kurulan illerde ve bölgelerde faaliyette bulunmakta olan meslek mensupları, odaların kuruluşundan itibaren üç ay içinde odaya kayıt olmak zorundadır. **(Mülga ikinci cümle: 21/7/2025-7557/24 md.)**
 
 Yürürlüğe konulacak yönetmelik uyarınca yapılacak ilk Birlik Genel Kurulunda bütün seçimler yenilenir.
 
@@ -353,13 +353,13 @@ Yürürlüğe konulacak yönetmelik uyarınca yapılacak ilk Birlik Genel Kurulu
 
 ### 5193 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE
 
-Değiştiren Kanunun/
+**Değiştiren Kanunun/**
 
-İptal Eden Anayasa 5193 Sayılı Kanunun Değişen
+**İptal Eden Anayasa 5193 Sayılı Kanunun Değişen**
 
-Yürürlüğe Giriş Tarihi Mahkemesi Kararının veya İptal Edilen Maddeleri
+**Yürürlüğe Giriş Tarihi Mahkemesi Kararının veya İptal Edilen Maddeleri**
 
-Numarası
+**Numarası**
 
 ### 5728 14, 15 8/2/2008 7061 Ek Madde 1 5/12/2017 7063 Geçici Madde 4 20/12/2017
 
@@ -383,6 +383,6 @@ dokuz ay sonra
 
 **Dipnotlar**
 
-<small>21/7/2025 tarihli ve 7557 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “yasakların” ibaresinden sonra gelmek üzere “beş yıl içinde” ibaresi eklenmiş ve “uygulanır.” ibaresi “uygulanır ve bu süre içinde</small>
+<small><i>21/7/2025 tarihli ve 7557 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “yasakların” ibaresinden</i> <i>sonra gelmek üzere “beş yıl içinde” ibaresi eklenmiş ve “uygulanır.” ibaresi “uygulanır ve bu süre içinde</i></small>
 
-<small>6 ncı maddeye üçüncü defa aykırı davranan optisyen, ayrıca bir yıl süre ile meslekten men edilir.” şeklinde değiştirilmiştir. 21/7/2025 tarihli ve 7557sayılı Kanunun 24 üncü maddesiyle bu fıkrada yer alan “ve dokuz üyeli Birlik Merkez Yönetim Kurulunun, beş üyeli Yüksek Disiplin Kurulunun ve üç üyeli Denetleme Kurulunun asıl ve yedek üyelerini seçer” ibaresi madde metninden çıkarılmıştır.</small>
+<small><i>6 ncı maddeye üçüncü defa aykırı davranan optisyen, ayrıca bir yıl süre ile meslekten men edilir.” şeklinde</i> <i>değiştirilmiştir.</i> <i>21/7/2025 tarihli ve 7557sayılı Kanunun 24 üncü maddesiyle bu fıkrada yer alan “ve dokuz üyeli Birlik Merkez</i> <i>Yönetim Kurulunun, beş üyeli Yüksek Disiplin Kurulunun ve üç üyeli Denetleme Kurulunun asıl ve yedek</i> <i>üyelerini seçer” ibaresi madde metninden çıkarılmıştır.</i></small>

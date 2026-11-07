@@ -37,7 +37,7 @@ c) Genel Müdür: Sağlık Hizmetleri Genel Müdürünü,
 
 d) Komisyon: Terapötik Aferez Bilimsel Danışma Komisyonunu,
 
-e) (Değişik:RG-2/4/2026-33212) Periferik kan kök hücre toplama: Hasta veya bağışçıdan mobilizasyon sonrası periferik kanda dolaşıma çıkan hematopoetik kök hücrelerinin aferez yöntemi ile toplanması işlemini,
+e) **(Değişik:RG-2/4/2026-33212)** Periferik kan kök hücre toplama: Hasta veya bağışçıdan mobilizasyon sonrası periferik kanda dolaşıma çıkan hematopoetik kök hücrelerinin aferez yöntemi ile toplanması işlemini,
 
 f) Merkez: Bu Yönetmelikte tanımlanan terapötik aferez işlemlerini gerçekleştirebilecek personel ve donanıma sahip Bakanlıkça ruhsatlandırılmış tedavi merkezini,
 
@@ -89,7 +89,7 @@ c) Terapötik aferez işlemlerinin güvenlik ve kalitesinin artırılması, bili
 
 **MADDE 7 –** (1) Terapötik aferez merkezi ve ünitesi, kamu kurum ve kuruluşları ile gerçek kişiler ve özel hukuk tüzel kişilerine ait hastanelerde kurulabilir.
 
-(2) (Değişik cümle:RG-2/4/2026-33212) Terapötik aferez merkezi; sitaferez, kan bileşeni değişimi, immunoterapi ve plazma modülasyonu, bağışçı granülosit aferezi, hasta veya bağışçıda periferik kan kök hücresi toplama, toplanan periferik kan kök hücresinin hücre işleme ünitesine gönderilinceye kadar güvenli koşullarda geçici muhafazası faaliyetlerinin yapılabildiği merkezdir. Bu faaliyetler Ek 5-A’da tanımlanan işlemleri kapsamaktadır.
+(2) **(Değişik cümle:RG-2/4/2026-33212)** Terapötik aferez merkezi; sitaferez, kan bileşeni değişimi, immunoterapi ve plazma modülasyonu, bağışçı granülosit aferezi, hasta veya bağışçıda periferik kan kök hücresi toplama, toplanan periferik kan kök hücresinin hücre işleme ünitesine gönderilinceye kadar güvenli koşullarda geçici muhafazası faaliyetlerinin yapılabildiği merkezdir. Bu faaliyetler Ek 5-A’da tanımlanan işlemleri kapsamaktadır.
 
 (3) Terapötik aferez ünitesi; kan bileşeni değişimi, immunoterapi ve plazma modülasyonu faaliyetlerinin yapılabildiği merkezdir. Bu faaliyetler Ek 5-B’de tanımlanan işlemleri kapsamaktadır.
 
@@ -101,7 +101,7 @@ c) Terapötik aferez işlemlerinin güvenlik ve kalitesinin artırılması, bili
 
 **MADDE 8 –** (1) Merkez asgari olarak aşağıdaki standartları taşır:
 
-a) Terapötik aferez merkezi cihaz başına en az 7 metrekare alan düşecek şekilde, asepsi ve antisepsi kurallarına uygun, tek bir girişi bulunan, kolaylıkla temizlenebilir özelliklere sahip duvarlar, (Değişik ibare:RG-2/4/2026-33212) zemin ve tavana sahip, tamamen merkez faaliyetleri için ayrılmış alanda yer alır. (Değişik cümle:RG-2/4/2026-33212) Terapötik aferez merkezleri tıbbi hizmet birimlerinin bulunmadığı, sadece destek hizmetleri için ayrılmış alanlarda açılamaz. Bu merkezde:
+a) Terapötik aferez merkezi cihaz başına en az 7 metrekare alan düşecek şekilde, asepsi ve antisepsi kurallarına uygun, tek bir girişi bulunan, kolaylıkla temizlenebilir özelliklere sahip duvarlar, **(Değişik ibare:RG-2/4/2026-33212)** zemin ve tavana sahip, tamamen merkez faaliyetleri için ayrılmış alanda yer alır. **(Değişik cümle:RG-2/4/2026-33212)** Terapötik aferez merkezleri tıbbi hizmet birimlerinin bulunmadığı, sadece destek hizmetleri için ayrılmış alanlarda açılamaz. Bu merkezde:
 
 1) Terapötik aferez merkezleri için ilgili mevzuata ve alınacağı tarihteki standartlara uygun üretilmiş, imalatçı ülkede üretimi ve kullanımı devam eden ve üretici veya yetkili temsilci firma tarafından performans yeterliliği kanıtlanmış olan, en az iki adet aferez cihazı,
 
@@ -135,9 +135,9 @@ b) Ünitede, merkezde bulunması gereken asgari tıbbi ve teknik donanım şartl
 
 **MADDE 9 –** (1) Terapötik aferez merkezleri ve ünitelerinde bulunması gereken personel aşağıda belirtilmiştir:
 
-a) Terapötik aferez merkezlerinde erişkin hematoloji uzmanları veya sertifikalı çocuk hematoloji uzmanları arasından bir kişi sorumlu uzman olarak görevlendirilir. Terapötik aferez ünitelerinde hematoloji, nefroloji, yoğun bakım uzmanları arasından bir kişi veya belirtilen uzmanlık alanlarından uzman hekim bulunmaması halinde, terapötik aferez sertifikası almış iç hastalıkları ile çocuk sağlığı ve hastalıkları uzmanları arasından bir kişi sorumlu uzman olarak görevlendirilir. (Ek cümle:RG-2/4/2026-33212) Sorumlu uzman tam zamanlı çalışır, birden fazla özel sağlık tesisinde sorumlu uzman veya teknik sorumlu olarak çalışamaz.
+a) Terapötik aferez merkezlerinde erişkin hematoloji uzmanları veya sertifikalı çocuk hematoloji uzmanları arasından bir kişi sorumlu uzman olarak görevlendirilir. Terapötik aferez ünitelerinde hematoloji, nefroloji, yoğun bakım uzmanları arasından bir kişi veya belirtilen uzmanlık alanlarından uzman hekim bulunmaması halinde, terapötik aferez sertifikası almış iç hastalıkları ile çocuk sağlığı ve hastalıkları uzmanları arasından bir kişi sorumlu uzman olarak görevlendirilir. **(Ek cümle:RG-2/4/2026-33212)** Sorumlu uzman tam zamanlı çalışır, birden fazla özel sağlık tesisinde sorumlu uzman veya teknik sorumlu olarak çalışamaz.
 
-b) Terapötik aferez merkez/ünitelerde aşağıda yer alan personeller arasından bir kişi teknik sorumlu olarak görevlendirilir. (Ek cümleler:RG-2/4/2026-33212) Teknik sorumlu tam zamanlı çalışır. Hekim olan teknik sorumlular, birden fazla özel sağlık tesisinde sorumlu uzman veya teknik sorumlu hekim olarak çalışamaz. Aferez ünitelerinde teknik sorumlu olacak nefroloji veya yoğun bakım uzmanı hekimlerinde sertifika şartı aranmaz:
+b) Terapötik aferez merkez/ünitelerde aşağıda yer alan personeller arasından bir kişi teknik sorumlu olarak görevlendirilir. **(Ek cümleler:RG-2/4/2026-33212)** Teknik sorumlu tam zamanlı çalışır. Hekim olan teknik sorumlular, birden fazla özel sağlık tesisinde sorumlu uzman veya teknik sorumlu hekim olarak çalışamaz. Aferez ünitelerinde teknik sorumlu olacak nefroloji veya yoğun bakım uzmanı hekimlerinde sertifika şartı aranmaz:
 
 1) Hematoloji uzmanı veya terapötik aferez sertifikası almış hekimler.
 
@@ -291,9 +291,9 @@ b) En az bir yıl süre ile görev yaptığını belgeleyen çocuk hematoloji do
 
 Bakanlıkça Terapötik Aferez Sorumlu Hekim Sertifikası verilir.
 
-(2) (Danıştay Onuncu Dairesinin 18/10/2022 tarihli ve E.:2019/10861; K.:2022/4541 sayılı kararı ile iptal fıkra; Danıştay İDDK’nın 30/12/2024 tarihli E.:2023/915, K.:2024/3573 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.) (Yeniden düzenleme:RG-2/4/2026-
+(2) **(Danıştay Onuncu Dairesinin 18/10/2022 tarihli ve E.:2019/10861; K.:2022/4541 sayılı kararı ile iptal fıkra; Danıştay İDDK’nın 30/12/2024 tarihli E.:2023/915, K.:2024/3573 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.) (Yeniden düzenleme:RG-2/4/2026-**
 
-33212) 18 inci madde ile yürürlükten kaldırılan Terapötik Aferez Merkezleri Hakkında Yönetmeliğe göre terapötik aferez sertifikasını haiz olanların çalışmaya dair hakları saklıdır.
+**33212)** 18 inci madde ile yürürlükten kaldırılan Terapötik Aferez Merkezleri Hakkında Yönetmeliğe göre terapötik aferez sertifikasını haiz olanların çalışmaya dair hakları saklıdır.
 
 #### Mevcut terapötik aferez merkezlerinin uyumu
 
@@ -311,16 +311,16 @@ Bakanlıkça Terapötik Aferez Sorumlu Hekim Sertifikası verilir.
 
 **MADDE 20 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**
 
-Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+**Yönetmeliğin Yayımlandığı Resmî Gazete’nin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**
 
 31/7/2019 30848
 
-Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin
+**Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**
 
 1. 2/4/2026 33212

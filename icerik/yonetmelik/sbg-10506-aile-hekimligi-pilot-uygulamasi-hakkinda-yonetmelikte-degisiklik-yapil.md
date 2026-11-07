@@ -7,13 +7,13 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10506/aile-hekimligi-pilot-uygulamasi-
 durum: "yürürlükte"
 ---
 
-Aile Hekimliği Pilot Uygulaması Hakkında Yönetmelikte
+**Aile Hekimliği Pilot Uygulaması Hakkında Yönetmelikte**
 
 #### Değişiklik Yapılmasına Dair Yönetmelik
 
 **MADDE 1 –** 6.7.2005 tarihli ve 25867 sayılı Resmî Gazete’de yayımlanan Aile Hekimliği Pilot Uygulaması Hakkında Yönetmeliğin Ek–1 inde yer alan 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 
-"MADDE 2 – Aile hekimliği uygulamasına geçilen illerde aşağıdaki ilkelere göre öncelik sıralaması yapılır:
+**"MADDE 2 –** Aile hekimliği uygulamasına geçilen illerde aşağıdaki ilkelere göre öncelik sıralaması yapılır:
 
 A) Sözleşme ile çalıştırılacak aile hekimleri: Kadrosu veya pozisyonu pilot ilde olmak şartı ile:
 
@@ -75,7 +75,7 @@ C) Pilot ilde aile hekimi ve aile sağlığı elemanı pozisyonları bu suretle 
 
 **MADDE 5 –** Aynı Yönetmeliğe aşağıdaki Geçici Madde eklenmiştir.
 
-"GEÇİCİ MADDE 1 – Bu Yönetmeliğin yürürlüğe girmesinden önce tamamlanmış birinci aşama uyum eğitimleri için eğiticilere il içi eğitimler için 1000, il dışı eğitimler için 1500 puan verilir."
+**"GEÇİCİ MADDE 1 –** Bu Yönetmeliğin yürürlüğe girmesinden önce tamamlanmış birinci aşama uyum eğitimleri için eğiticilere il içi eğitimler için 1000, il dışı eğitimler için 1500 puan verilir."
 
 **MADDE 6 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 

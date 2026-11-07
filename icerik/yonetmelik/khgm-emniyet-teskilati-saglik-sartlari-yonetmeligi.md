@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -32,9 +32,9 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 **MADDE 4 –** (1) Bu Yönetmeliğin uygulanmasında;
 
-a) Daire Başkanı: Emniyet Genel Müdürlüğü (Değişik ibare:RG-18/3/2021-31427) Sosyal Hizmetler ve Sağlık Daire Başkanını,
+a) Daire Başkanı: Emniyet Genel Müdürlüğü **(Değişik ibare:RG-18/3/2021-31427)** Sosyal Hizmetler ve Sağlık Daire Başkanını,
 
-b) Daire Başkanlığı: Emniyet Genel Müdürlüğü (Değişik ibare:RG-18/3/2021-31427) Sosyal Hizmetler ve Sağlık Daire Başkanlığını,
+b) Daire Başkanlığı: Emniyet Genel Müdürlüğü **(Değişik ibare:RG-18/3/2021-31427)** Sosyal Hizmetler ve Sağlık Daire Başkanlığını,
 
 c) Genel Müdür: Emniyet Genel Müdürünü,
 
@@ -68,13 +68,13 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Öğrenci Adaylarında Aranacak Sağlık Şartları ile Öğrenci
+**Öğrenci Adaylarında Aranacak Sağlık Şartları ile Öğrenci**
 
-Raporlarının ve Sağlık Durumlarının Değerlendirilmesi
+**Raporlarının ve Sağlık Durumlarının Değerlendirilmesi**
 
 #### Okullara alınacak öğrenci adaylarında aranacak sağlık şartları
 
-**MADDE 5 –** (1) (Değişik cümle:RG-29/9/2019-30903) Okullara alınacak öğrenci adayları için giriş raporu aldırılır ve öğrenci adayları A dilimi sağlık şartlarına uygun olmak zorundadırlar. Bu Yönetmelikte bire bir karşılığı olmayan durumlarda, bu Yönetmeliğin 21 inci maddesi gereği, öğrenci adayının muayenesini yapan hastane sağlık kurulu doktorları, kişinin hastalığının uygun olabileceği dilim hakkında karar verir. B-C-D-E dilimlerinde geçen hastalığı olanlar veya 21 inci madde gereği değerlendirildiğinde hastalıklarının B-C-D-E dilimlerine uyduğuna, A dilimine uymadığına karar verilenler öğrenci olamazlar.
+**MADDE 5 –** (1) **(Değişik cümle:RG-29/9/2019-30903)** Okullara alınacak öğrenci adayları için giriş raporu aldırılır ve öğrenci adayları A dilimi sağlık şartlarına uygun olmak zorundadırlar. Bu Yönetmelikte bire bir karşılığı olmayan durumlarda, bu Yönetmeliğin 21 inci maddesi gereği, öğrenci adayının muayenesini yapan hastane sağlık kurulu doktorları, kişinin hastalığının uygun olabileceği dilim hakkında karar verir. B-C-D-E dilimlerinde geçen hastalığı olanlar veya 21 inci madde gereği değerlendirildiğinde hastalıklarının B-C-D-E dilimlerine uyduğuna, A dilimine uymadığına karar verilenler öğrenci olamazlar.
 
 #### Yabancı uyruklu öğrencilerde aranacak sağlık şartları
 
@@ -98,11 +98,11 @@ c) Asıl kişilerin muayene olduğunun denetlenmesi ve kimlik tespiti amacıyla 
 
 d) EK-1’de belirtilmiş olan laboratuvar testlerinin, görüntüleme yöntemlerinin, organ ve sistem fonksiyonlarının tespitinde kullanılan fonksiyon tespit yöntemlerinin sonuçları ve tüm branşlar için ilgili uzman doktorun ihtiyaç duyduğu ek test ve yöntemlerin sonuçları ile muayene sonuçları rapor üzerinde ilgili bölümlere yazılır.
 
-e) (Değişik:RG-18/3/2021-31427) Teşhis ve karar haneleri boş bırakılamaz. Teşhis hanesine; tespit edilen tüm hastalıklar ve sağlık sorunları yazılır, hastalığı veya sağlık sorunu olmayanlar için teşhis hanesine “Sağlam” yazılır.
+e) **(Değişik:RG-18/3/2021-31427)** Teşhis ve karar haneleri boş bırakılamaz. Teşhis hanesine; tespit edilen tüm hastalıklar ve sağlık sorunları yazılır, hastalığı veya sağlık sorunu olmayanlar için teşhis hanesine “Sağlam” yazılır.
 
-f) (Değişik:RG-18/3/2021-31427) Karar hanesine; hastalığı veya sağlık sorunu olmayanlar için “Sağlam” yazılır, bir hastalık veya sağlık sorunu tespit edilmesi halinde, hastalığın veya sağlık sorununun hangi dilimde olduğu yazılır. Laboratuvar ve diğer test yöntemlerinin sonuçları, muayene bulgu ve sonuçları ile teşhis, dilim ve karar arasında çelişki olamaz.
+f) **(Değişik:RG-18/3/2021-31427)** Karar hanesine; hastalığı veya sağlık sorunu olmayanlar için “Sağlam” yazılır, bir hastalık veya sağlık sorunu tespit edilmesi halinde, hastalığın veya sağlık sorununun hangi dilimde olduğu yazılır. Laboratuvar ve diğer test yöntemlerinin sonuçları, muayene bulgu ve sonuçları ile teşhis, dilim ve karar arasında çelişki olamaz.
 
-g) (Ek:RG-29/9/2019-30903) Giriş raporunda bulunan Hastane Sağlık Kurulu onay kısmında hangi branş hekimlerinin onayının bulunacağı Hastane Sağlık Kurulu veya Hastane Yönetimi tarafından belirlenir, kişide tespit edilen hastalıklar veya sakatlıklar, bu uzmanlık dallarının dışında ise ilgili branşların uzman hekimlerinin de giriş raporunun onay kısmında onaylarının bulunması şarttır. Sağlık Kurulunda bulunan hekimler birbirlerinin yerine karar veremezler.
+g) **(Ek:RG-29/9/2019-30903)** Giriş raporunda bulunan Hastane Sağlık Kurulu onay kısmında hangi branş hekimlerinin onayının bulunacağı Hastane Sağlık Kurulu veya Hastane Yönetimi tarafından belirlenir, kişide tespit edilen hastalıklar veya sakatlıklar, bu uzmanlık dallarının dışında ise ilgili branşların uzman hekimlerinin de giriş raporunun onay kısmında onaylarının bulunması şarttır. Sağlık Kurulunda bulunan hekimler birbirlerinin yerine karar veremezler.
 
 #### Öğrenci adaylarının giriş raporlarının okullarca incelenmesi
 
@@ -138,7 +138,7 @@ g) (Ek:RG-29/9/2019-30903) Giriş raporunda bulunan Hastane Sağlık Kurulu onay
 
 (4) Okullarda her eğitim-öğretim yılı başında, o yıl kayıt olan öğrenciler hariç diğer öğrencilerin sağlık durumlarının anamnez ve fizik muayene ile genel değerlendirmesi kurum tabipliklerince yapılır. Kurum tabipliği bulunmayan birimlerde il sağlık müdürlüğünden hekim talep edilir.
 
-(5) Öğrencilerin hastalık, kaza, yaralanma ve diğer nedenlerden dolayı aldıkları raporlar, okul kurum tabipliklerine veya İl Emniyet Müdürlüğü kurum tabipliklerine incelettirilir. Bu birimlerde hekim yoksa ilgili raporlar il sağlık müdürlüğüne incelettirilir. Tüm branşlar için C-D-E dilimi sağlık şartlarını, psikiyatrik hastalıklar için B-C-D-E dilimi sağlık şartlarını taşıdığı kanaati oluşan öğrencilere bu Yönetmelik hükümlerine uygun şekilde son durum ve dilim belirtir sağlık kurulu raporu aldırılır. (Ek cümle:RG-18/3/2021-31427) Öğrenci hakkında düzenlenmiş herhangi bir rapor bulunmasa dahi, sağlık komisyonunun veya idarenin lüzum görmesi halinde, öğrenci tam teşekküllü hastanelere sevk edilerek, bu Yönetmelik hükümlerine uygun şekilde son durum ve dilim belirtir sağlık kurulu raporu aldırılır.
+(5) Öğrencilerin hastalık, kaza, yaralanma ve diğer nedenlerden dolayı aldıkları raporlar, okul kurum tabipliklerine veya İl Emniyet Müdürlüğü kurum tabipliklerine incelettirilir. Bu birimlerde hekim yoksa ilgili raporlar il sağlık müdürlüğüne incelettirilir. Tüm branşlar için C-D-E dilimi sağlık şartlarını, psikiyatrik hastalıklar için B-C-D-E dilimi sağlık şartlarını taşıdığı kanaati oluşan öğrencilere bu Yönetmelik hükümlerine uygun şekilde son durum ve dilim belirtir sağlık kurulu raporu aldırılır. **(Ek cümle:RG-18/3/2021-31427)** Öğrenci hakkında düzenlenmiş herhangi bir rapor bulunmasa dahi, sağlık komisyonunun veya idarenin lüzum görmesi halinde, öğrenci tam teşekküllü hastanelere sevk edilerek, bu Yönetmelik hükümlerine uygun şekilde son durum ve dilim belirtir sağlık kurulu raporu aldırılır.
 
 (6) Aldırılan bu raporlardan; tüm branşlar için C-D-E dilimi, psikiyatrik hastalıklar için B-C-D-E dilimi sağlık şartlarını taşıyanların raporları sağlık dosyasına ilave edilerek Daire Başkanlığına gönderilir. Sağlık komisyonunda, öğrencilerin son durum ve dilim belirtir sağlık kurulu raporları ve sağlık dosyaları incelenir. A-B-C dilimi sağlık şartlarını taşıyanlara, “öğrenciliğe devam eder”, D-E dilimi sağlık şartlarını taşıyanlara ise “öğrenciliğe devam edemez” kararı verilir.
 
@@ -148,27 +148,27 @@ g) (Ek:RG-29/9/2019-30903) Giriş raporunda bulunan Hastane Sağlık Kurulu onay
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Devlet Memurluğuna Geçişte Aranacak Sağlık Şartları ile Memur
+**Devlet Memurluğuna Geçişte Aranacak Sağlık Şartları ile Memur**
 
-Raporlarının ve Sağlık Durumlarının Değerlendirilmesi
+**Raporlarının ve Sağlık Durumlarının Değerlendirilmesi**
 
 #### Devlet memurluğuna ilk giriş ve naklen atamalarda giriş raporu aldırma
 
-**MADDE 12 –** (1) (Değişik:RG-18/3/2021-31427) Çarşı ve mahalle bekçisi adaylarının Devlet memurluğuna ilk girişlerinde, Emniyet Hizmetleri Sınıfı dışında kalan diğer hizmet sınıflarına açıktan yapılan atamalarda ve naklen atamalarda, 657 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (B) bendine göre sözleşmeli personel alımında, her ne sebeple olursa olsun öğrencilikten veya Devlet memurluğundan altı aydan uzun süreli ayrıldıktan sonra tekrar dönüşlerde, giriş raporu aldırılır ve Daire Başkanlığına gönderilir. Bu raporlar, tam teşekküllü hastaneler tarafından, 7 nci maddenin ikinci fıkrası hükümlerine göre düzenlenir.
+**MADDE 12 –** (1) **(Değişik:RG-18/3/2021-31427)** Çarşı ve mahalle bekçisi adaylarının Devlet memurluğuna ilk girişlerinde, Emniyet Hizmetleri Sınıfı dışında kalan diğer hizmet sınıflarına açıktan yapılan atamalarda ve naklen atamalarda, 657 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (B) bendine göre sözleşmeli personel alımında, her ne sebeple olursa olsun öğrencilikten veya Devlet memurluğundan altı aydan uzun süreli ayrıldıktan sonra tekrar dönüşlerde, giriş raporu aldırılır ve Daire Başkanlığına gönderilir. Bu raporlar, tam teşekküllü hastaneler tarafından, 7 nci maddenin ikinci fıkrası hükümlerine göre düzenlenir.
 
 (2) Öğrencilikten altı aydan uzun süreli ayrıldıktan sonra tekrar dönüşlerde aldırılan giriş raporlarına, 11 inci madde hükümlerine göre işlem yapılır. Devlet memurluğundan altı aydan uzun süreli ayrıldıktan sonra geri dönüşlerde veya Devlet memurluğuna ilk girişlerde aldırılan giriş raporları hakkında 13 üncü madde hükümlerine göre işlem yapılır.
 
-(3) (Değişik:RG-18/3/2021-31427) Okullarda; öğrenciliğe girişte aldırılan giriş raporları eğitim-öğretim süresince öğrencilerin sağlık durumlarında öğrenciliğe devam etmeye ve memuriyete girişe engel bir değişiklik oluşmaması halinde, memuriyete giriş raporu olarak kabul edilir. Mezuniyete kadar ilgililerin sağlık durumlarında değişiklik olması halinde, 11 inci madde hükümlerine göre işlem yapılır.
+(3) **(Değişik:RG-18/3/2021-31427)** Okullarda; öğrenciliğe girişte aldırılan giriş raporları eğitim-öğretim süresince öğrencilerin sağlık durumlarında öğrenciliğe devam etmeye ve memuriyete girişe engel bir değişiklik oluşmaması halinde, memuriyete giriş raporu olarak kabul edilir. Mezuniyete kadar ilgililerin sağlık durumlarında değişiklik olması halinde, 11 inci madde hükümlerine göre işlem yapılır.
 
-Devlet memurluğuna ilk giriş ve naklen atamalarda aranacak sağlık şartları ve aldırılan giriş raporlarının değerlendirilmesi
+**Devlet memurluğuna ilk giriş ve naklen atamalarda aranacak sağlık şartları ve aldırılan giriş raporlarının değerlendirilmesi**
 
-**MADDE 13 –** (1) 12 nci madde gereğince aldırılan giriş raporları, raporu aldıran birim tarafından usule uygunluğu yönünden incelenir. Bu incelemede, 7 nci maddede belirtilen esaslar aranır. (Mülga üçüncü cümle:RG-18/3/2021-31427) Adayı hastaneye sevk eden birim tarafından incelenen ve eksiklikleri giderilen raporlar Daire Başkanlığına gönderilir.
+**MADDE 13 –** (1) 12 nci madde gereğince aldırılan giriş raporları, raporu aldıran birim tarafından usule uygunluğu yönünden incelenir. Bu incelemede, 7 nci maddede belirtilen esaslar aranır. **(Mülga üçüncü cümle:RG-18/3/2021-31427)** Adayı hastaneye sevk eden birim tarafından incelenen ve eksiklikleri giderilen raporlar Daire Başkanlığına gönderilir.
 
 (2) Eksiklikleri giderilmemiş, adayı sevk eden birim tarafından "usulen incelenmiştir" onayı yapılmamış olan raporlar, sağlık komisyonunda incelemeye tabi tutulmaz.
 
 (3) Sağlık komisyonunda, giriş raporları incelenip karara bağlanır ve yapılacak işlemlere esas olmak üzere ilgili birimlere gönderilir.
 
-(4) (Değişik:RG-18/3/2021-31427) Okullardan mezun olarak Devlet memurluğuna ilk girişlerde;
+(4) **(Değişik:RG-18/3/2021-31427)** Okullardan mezun olarak Devlet memurluğuna ilk girişlerde;
 
 a) Öğrencilik sürecinde sağlık sorunu olmayanlar Emniyet Hizmetleri Sınıfına atanmaya hak kazanırlar.
 
@@ -178,9 +178,9 @@ c) Öğrencilik sürecinde sağlık sorunu olup da 11 inci madde hükümlerine g
 
 (5) Emniyet Hizmetleri Sınıfı dışında kalan diğer hizmet sınıflarına açıktan yapılan atamalarda ve naklen atamalarda, A-B-C dilimi sağlık şartlarını taşıyanlar Devlet memuru olarak atanmaya hak kazanırlar. Psikiyatrik hastalıklar açısından C dilimi sağlık şartlarını taşıyanlar ile tüm branşlar için D ve E dilimi sağlık şartlarını taşıyanlar Emniyet Teşkilatında devlet memurluğuna atanamazlar.
 
-(6) (Ek:RG-29/9/2019-30903) Emniyet Hizmetleri Sınıfından ayrıldıktan sonra geri dönüşlerde, A-B-C dilimi sağlık şartlarını taşıyanlar, Emniyet Hizmetleri Sınıfına atanmaya hak kazanırlar. D dilimi sağlık şartlarını taşıyanlar Emniyet Hizmetleri Sınıfına atanamazlar, istekleri halinde Emniyet Hizmetleri Sınıfı dışında başka bir hizmet sınıfına atanmaya hak kazanırlar. Tüm branşlar için E dilimi sağlık şartlarını taşıyanlar, Emniyet Teşkilatında devlet memurluğuna atanamazlar.
+(6) **(Ek:RG-29/9/2019-30903)** Emniyet Hizmetleri Sınıfından ayrıldıktan sonra geri dönüşlerde, A-B-C dilimi sağlık şartlarını taşıyanlar, Emniyet Hizmetleri Sınıfına atanmaya hak kazanırlar. D dilimi sağlık şartlarını taşıyanlar Emniyet Hizmetleri Sınıfına atanamazlar, istekleri halinde Emniyet Hizmetleri Sınıfı dışında başka bir hizmet sınıfına atanmaya hak kazanırlar. Tüm branşlar için E dilimi sağlık şartlarını taşıyanlar, Emniyet Teşkilatında devlet memurluğuna atanamazlar.
 
-(7) (Ek:RG-29/9/2019-30903) Engelli personel olarak Emniyet Teşkilatına ataması yapılacak olanlarda, psikiyatrik hastalıklar açısından engel oranı bulunanlar Emniyet Teşkilatında devlet memurluğuna atanamazlar.
+(7) **(Ek:RG-29/9/2019-30903)** Engelli personel olarak Emniyet Teşkilatına ataması yapılacak olanlarda, psikiyatrik hastalıklar açısından engel oranı bulunanlar Emniyet Teşkilatında devlet memurluğuna atanamazlar.
 
 #### Emniyet Teşkilatına geri dönme ve Emniyet Hizmetleri Sınıfına yeniden geçiş
 
@@ -194,7 +194,7 @@ c) Öğrencilik sürecinde sağlık sorunu olup da 11 inci madde hükümlerine g
 
 **MADDE 15 –** (1) Emniyet Hizmetleri Sınıfı dışında kalan diğer hizmet sınıflarına atananlar için atandıkları birim tarafından sağlık dosyası oluşturulur. Emniyet Hizmetleri Sınıfına atananlar için okullarda oluşturulan sağlık dosyası kullanılır. Personel için oluşturulan bu sağlık dosyasında; giriş raporları, kişinin sağlık geçmişini tanımlayan tüm evraklar, sağlık durumları ile ilgili taleplerini belirten dilekçeler veya birim amirinin, kişinin sağlık durumu ile ilgili değerlendirmelerini içeren belgeler ve bu konularla ilgili Daire Başkanlığından gelen cevabi yazılar da muhafaza edilir. Sağlık durumu takip edilecek personelin sağlık dosyası atandığı birime gönderilir.
 
-(2) (Değişik cümle:RG-29/9/2019-30903) Personelin almış olduğu sağlık kurulu raporu şeklinde düzenlenmiş istirahat raporları Emniyet Teşkilatında görevli hekimlerce incelenir. Bu birimlerde hekim yoksa ilgili raporlar il sağlık müdürlüğüne incelettirilir. Hekim tarafından yapılan incelemede;
+(2) **(Değişik cümle:RG-29/9/2019-30903)** Personelin almış olduğu sağlık kurulu raporu şeklinde düzenlenmiş istirahat raporları Emniyet Teşkilatında görevli hekimlerce incelenir. Bu birimlerde hekim yoksa ilgili raporlar il sağlık müdürlüğüne incelettirilir. Hekim tarafından yapılan incelemede;
 
 a) Rapordaki tanı için verilen istirahat süresinin uygunluğu değerlendirilir.
 
@@ -216,7 +216,7 @@ c) Sağlık komisyonu, sağlık dosyasının tamamına göre karar verir. Çeli�
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Sağlık Şartlarına Göre Çalışma ve Vazife Malullüğü
+**Sağlık Şartlarına Göre Çalışma ve Vazife Malullüğü**
 
 #### Emniyet Teşkilatında Devlet memurluğuna atandıktan sonra sağlık şartlarına göre çalışma
 
@@ -230,7 +230,7 @@ b) D dilimi sağlık şartlarını taşıdıkları tespit edilenler Emniyet Hizm
 
 a) Sağlık kurulu raporuna göre, A-B-C dilimi sağlık şartlarını taşıdıkları tespit edilenler aynı hizmet sınıfında çalışmaya devam ederler.
 
-b) (Değişik:RG-29/9/2019-30903) Psikiyatrik hastalıklar hariç, D dilimi sağlık şartlarını taşıdıkları tespit edilen polis amiri personel hakkında sağlık komisyonunca karar verilir, gerek duyulması halinde birim amirlerinden kişinin görevini yapıp yapamadığına dair rapor istenir.
+b) **(Değişik:RG-29/9/2019-30903)** Psikiyatrik hastalıklar hariç, D dilimi sağlık şartlarını taşıdıkları tespit edilen polis amiri personel hakkında sağlık komisyonunca karar verilir, gerek duyulması halinde birim amirlerinden kişinin görevini yapıp yapamadığına dair rapor istenir.
 
 c) Psikiyatrik hastalıklar hariç, D dilimi sağlık şartlarını taşıdıkları tespit edilen polis amiri personelin, talep etmeleri durumunda sağlık kurulu raporları ve sağlık dosyaları, sağlık komisyonunun görüşü ile birlikte maluliyet veya hizmet sınıfı değişikliği yönünden gerekli işlemler yapılmak üzere Sosyal Güvenlik Kurumuna gönderilir.
 
@@ -242,7 +242,7 @@ a) Sağlık kurulu raporuna göre, A-B-C-D dilimi sağlık şartlarını taşıd
 
 b) D dilimi sağlık şartlarını taşıyanlardan, talep edenlerin veya birim amirleri tarafından “kişinin görevini yapamadığına dair” bir değerlendirme bulunanların sağlık kurulu raporları ve sağlık dosyaları sağlık komisyonunca incelenir. Sağlık komisyonu tarafından, bulunduğu görevde çalışamayacağına karar verilenler Emniyet Teşkilatında çalışmaya devam edemezler. Bu durumda olanların sağlık kurulu raporları ve sağlık dosyaları, maluliyet yönünden gerekli işlemler yapılmak üzere Sosyal Güvenlik Kurumuna gönderilir.
 
-c) (Değişik:RG-29/9/2019-30903) Psikiyatrik hastalıkları nedeniyle D dilimi sağlık şartlarını taşıyanlardan, zaman içerisinde hastalığı nedeniyle görevlerini sürdüremeyen, hizmetlerinden yararlanılamayan, iş güvenliğini bozan veya etrafına tehlike arz edenlerin durumu hakkında sağlık komisyonunca karar verilir, gerek duyulması halinde birim amirlerinden kişinin görevini yapıp yapamadığına, etrafına tehlike arz edecek şekilde iş güvenliğini bozup bozmadığına dair rapor istenir. Sağlık dosyası sağlık komisyonunca değerlendirilir. Sağlık komisyonu tarafından bulunduğu görevde çalışabileceklerine karar verilenler, aynı hizmet sınıfında çalışmaya devam ederler. Bulunduğu görevde çalışamayacağına karar verilenler, Emniyet Teşkilatında çalışmaya devam edemezler. Bu durumda olanların sağlık kurulu raporları ve sağlık dosyaları maluliyet yönünden gerekli işlemler yapılmak üzere Sosyal Güvenlik Kurumuna gönderilir.
+c) **(Değişik:RG-29/9/2019-30903)** Psikiyatrik hastalıkları nedeniyle D dilimi sağlık şartlarını taşıyanlardan, zaman içerisinde hastalığı nedeniyle görevlerini sürdüremeyen, hizmetlerinden yararlanılamayan, iş güvenliğini bozan veya etrafına tehlike arz edenlerin durumu hakkında sağlık komisyonunca karar verilir, gerek duyulması halinde birim amirlerinden kişinin görevini yapıp yapamadığına, etrafına tehlike arz edecek şekilde iş güvenliğini bozup bozmadığına dair rapor istenir. Sağlık dosyası sağlık komisyonunca değerlendirilir. Sağlık komisyonu tarafından bulunduğu görevde çalışabileceklerine karar verilenler, aynı hizmet sınıfında çalışmaya devam ederler. Bulunduğu görevde çalışamayacağına karar verilenler, Emniyet Teşkilatında çalışmaya devam edemezler. Bu durumda olanların sağlık kurulu raporları ve sağlık dosyaları maluliyet yönünden gerekli işlemler yapılmak üzere Sosyal Güvenlik Kurumuna gönderilir.
 
 (4) Emniyet Teşkilatında, bütün hizmet sınıflarında görev yapan personelden; sağlık kurulu raporuna göre, E dilimi sağlık şartlarını taşıdıkları tespit edilenler hiçbir hizmet sınıfında çalışamazlar. Bu durumda olanların sağlık kurulu raporları ve sağlık dosyaları, sağlık komisyonunun görüşü ile birlikte, maluliyet yönünden gerekli işlemler yapılmak üzere Sosyal Güvenlik Kurumuna gönderilir.
 
@@ -268,7 +268,7 @@ b) Bu kapsamdaki personelin vazife malullüğü talebi olması durumunda; bu Yö
 
 ### BEŞİNCİ BÖLÜM
 
-Hastaneler ve Danışman Hastane
+**Hastaneler ve Danışman Hastane**
 
 #### Tam teşekküllü hastanelerde yapılacak işlemler
 
@@ -286,7 +286,7 @@ c) Laboratuvar ve diğer test yöntemlerinin sonuçları, muayene bulgu ve sonu�
 
 ç) Resmi yazı ile istenen sağlık kurulu raporlarının sonuçları, talepte bulunan birime tam teşekküllü hastane tarafından gönderilir.
 
-d) (Ek:RG-29/9/2019-30903) Son durum ve dilim belirtir sağlık kurulu raporunun onay kısmında hangi branş hekimlerinin onayının bulunacağı Hastane Sağlık Kurulu veya Hastane Yönetimi tarafından belirlenir, kişi hakkında son durum ve dilim belirtir sağlık kurulu raporu düzenlenmesi istenilen hastalıklar veya sakatlıklar ile Hastane Sağlık Kurulu tarafından kişide tespit edilecek olan diğer hastalıklar veya sakatlıklar, bu uzmanlık dallarının dışında ise ilgili branşların uzman hekimlerinin de son durum ve dilim belirtir sağlık kurulu raporunun onay kısmında onaylarının bulunması şarttır. Son durum ve dilim belirtir sağlık kurulu raporu düzenlenmesi istenilen hastalıklar veya sakatlıklar ile hastalık veya sakatlık olmasa da durum tespiti yapılması istenilen branşlar yönünden kişinin sağlam olarak değerlendirilmesi durumunda, ilgili branşların uzman hekimlerinin de son durum ve dilim belirtir sağlık kurulu raporunun onay kısmında onaylarının bulunması şarttır. Sağlık Kurulunda bulunan hekimler birbirlerinin yerine karar veremezler.
+d) **(Ek:RG-29/9/2019-30903)** Son durum ve dilim belirtir sağlık kurulu raporunun onay kısmında hangi branş hekimlerinin onayının bulunacağı Hastane Sağlık Kurulu veya Hastane Yönetimi tarafından belirlenir, kişi hakkında son durum ve dilim belirtir sağlık kurulu raporu düzenlenmesi istenilen hastalıklar veya sakatlıklar ile Hastane Sağlık Kurulu tarafından kişide tespit edilecek olan diğer hastalıklar veya sakatlıklar, bu uzmanlık dallarının dışında ise ilgili branşların uzman hekimlerinin de son durum ve dilim belirtir sağlık kurulu raporunun onay kısmında onaylarının bulunması şarttır. Son durum ve dilim belirtir sağlık kurulu raporu düzenlenmesi istenilen hastalıklar veya sakatlıklar ile hastalık veya sakatlık olmasa da durum tespiti yapılması istenilen branşlar yönünden kişinin sağlam olarak değerlendirilmesi durumunda, ilgili branşların uzman hekimlerinin de son durum ve dilim belirtir sağlık kurulu raporunun onay kısmında onaylarının bulunması şarttır. Sağlık Kurulunda bulunan hekimler birbirlerinin yerine karar veremezler.
 
 #### Danışman hastane
 
@@ -296,7 +296,7 @@ d) (Ek:RG-29/9/2019-30903) Son durum ve dilim belirtir sağlık kurulu raporunun
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Hastaneye sevki yapılanların işlemlerinin tamamlattırılması
 
@@ -392,7 +392,7 @@ yetkili ve görevlidir.
 
 #### Emniyet Teşkilatında görevlendirilen pilotların ve işçilerin sağlık durumlarının değerlendirilmesi
 
-**MADDE 27 –** (1) (Değişik:RG-29/9/2019-30903) Emniyet Teşkilatında çalışacak bütün hizmet sınıflarına ait personelin göreve başlayabilmeleri için bu Yönetmelik hükümleri gereği aldırılan giriş raporu, Emniyet Teşkilatında görevlendirilecek olan uçuş personeline aldırılmaz. Uçuş personelinin kendileri için tanımlanmış olan mevzuata uygun şekilde düzenlenen güncel sağlık sertifikasına sahip olmaları yeterlidir. İlgili mevzuatında tanımlanan sıklıkta sağlık sertifikasının güncellenmesi şartıyla görevlerinde çalışırlar. Maluliyet gerektirecek sakatlıklara veya yaralanmalara maruz kalmaları durumunda, 16 ncı ve 17 nci maddelerde tanımlanan kendi hizmet sınıflarına ilişkin hükümlere tabidirler.
+**MADDE 27 –** (1) **(Değişik:RG-29/9/2019-30903)** Emniyet Teşkilatında çalışacak bütün hizmet sınıflarına ait personelin göreve başlayabilmeleri için bu Yönetmelik hükümleri gereği aldırılan giriş raporu, Emniyet Teşkilatında görevlendirilecek olan uçuş personeline aldırılmaz. Uçuş personelinin kendileri için tanımlanmış olan mevzuata uygun şekilde düzenlenen güncel sağlık sertifikasına sahip olmaları yeterlidir. İlgili mevzuatında tanımlanan sıklıkta sağlık sertifikasının güncellenmesi şartıyla görevlerinde çalışırlar. Maluliyet gerektirecek sakatlıklara veya yaralanmalara maruz kalmaları durumunda, 16 ncı ve 17 nci maddelerde tanımlanan kendi hizmet sınıflarına ilişkin hükümlere tabidirler.
 
 (2) Emniyet Teşkilatında çalışacak bütün hizmet sınıflarına ait personelin göreve başlayabilmeleri için, bu Yönetmelik hükümleri gereği aldırılan “giriş raporu” , Emniyet Teşkilatında görevlendirilecek olan işçilere aldırılmaz. İşçilerin işe giriş muayeneleri, çalışma hayatındaki sağlık kontrolleri, sağlık nedenli maluliyetleri, iş sağlığı ve güvenliği kapsamında görevlendirilmiş olan iş yeri hekimi tarafından güncel mevzuata uygun şekilde yapılır.
 
@@ -412,7 +412,7 @@ yetkili ve görevlidir.
 
 **MADDE 30 –** (1) Bu Yönetmelik hükümlerini İçişleri Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

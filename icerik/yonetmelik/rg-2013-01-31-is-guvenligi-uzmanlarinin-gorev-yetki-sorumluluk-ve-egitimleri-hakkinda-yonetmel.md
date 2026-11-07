@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 ve Sosyal Güvenlik Bakanlığından:
-İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 34 üncü maddesinin üçüncü fıkrasının son cümlesinde geçen “belgesi” ifadesi “belgesinin geçerliliği askıya alınan veya” ifadesi şeklinde değiştirilmiştir.
+**MADDE 1 –** 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 34 üncü maddesinin üçüncü fıkrasının son cümlesinde geçen “belgesi” ifadesi “belgesinin geçerliliği askıya alınan veya” ifadesi şeklinde değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğe aşağıdaki geçici madde eklenmiştir.
 “Belirli süre hizmeti olanların çalışma yetkisi

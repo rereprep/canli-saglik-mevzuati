@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİ İLE İŞİTME CİHAZI MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİ İLE İŞİTME CİHAZI MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 24/9/2011 tarihli ve 28064 sayılı Resmî Gazete’de yayımlanan Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmeliğin 3 üncü maddesinin birinci fıkrasında yer alan “13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesine” ibaresi “15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 508 inci ve 796 ncı maddelerine” şeklinde değiştirilmiştir.
 

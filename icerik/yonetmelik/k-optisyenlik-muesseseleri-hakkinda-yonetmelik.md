@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -59,9 +59,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Optisyenlik Mesleğini İcra Yetkisi ve Optisyenlik
+**Optisyenlik Mesleğini İcra Yetkisi ve Optisyenlik**
 
-Müessesesi Ruhsatnamesi
+**Müessesesi Ruhsatnamesi**
 
 #### Optisyenlik mesleğini icra etmeye yetkili olanlar
 
@@ -93,7 +93,7 @@ yetkilidir.
 
 a) Bakanlığımızca tescili yapılmış optisyenlik diplomasının örneği; gözlükçü ruhsatnamesini haiz olan birisi tarafından açılacak ise gözlükçülük ruhsatnamesinin Çekirdek Kaynak Yönetim Sisteminden doğrulaması yapılmış ve aslına uygunluğu il müdürlüğünce onaylı örneği; göz hastalıkları uzmanı tarafından açılacak ise uzmanlık belgesinin örneği ile kayıtlı bulunduğu il tabip odasından alınmış, tabiplik mesleğini icra etmediğine dair belge,
 
-b) (Değişik:RG-3/6/2021-31500) Müessese sahibi, optisyenlik mesleğini icra etme hak ve yetkisini haiz gerçek kişi ise sahibinin ve mesul müdürün T.C. kimlik numarası veya yabancı kimlik numarası,
+b) **(Değişik:RG-3/6/2021-31500)** Müessese sahibi, optisyenlik mesleğini icra etme hak ve yetkisini haiz gerçek kişi ise sahibinin ve mesul müdürün T.C. kimlik numarası veya yabancı kimlik numarası,
 
 c) Optisyenlik müessesesi bir ticaret şirketi tarafından açılacak ise ticaret unvanı, kayıtlı olunan ticaret sicil memurluğunun adı ve ticaret sicil numarası beyanı, (şirket ana sözleşmesi Türkiye Ticaret Sicili Gazetesinde 1/10/2003 tarihinden önce yayınlanmışsa Türkiye Ticaret Sicili Gazetesinin aslı veya Kurumca onaylı örneği),
 
@@ -113,7 +113,7 @@ h) Optisyenlik müessesesinde mesul müdür haricinde optisyenlik mesleğini icr
 
 ı) Mesul müdürün 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesine göre hak yoksunluğunun bulunmadığına dair beyanı.
 
-i) (Ek:RG-3/6/2021-31500) Mesul müdürün ilgili optisyen-gözlükçüler odasına üye kayıt belgesi.
+i) **(Ek:RG-3/6/2021-31500)** Mesul müdürün ilgili optisyen-gözlükçüler odasına üye kayıt belgesi.
 
 (3) Bu Yönetmelik kapsamında bir optisyenlik müessesesi açanlar ve işletenlerce şube niteliğinde ikinci bir optisyenlik müessesesi açılmak istenmesi durumunda birinci fıkraya göre başvuru yapılması ve ikinci fıkrada sayılan belgelerin sunulması gerekir.
 
@@ -125,11 +125,11 @@ i) (Ek:RG-3/6/2021-31500) Mesul müdürün ilgili optisyen-gözlükçüler odas�
 
 (3) Yerinde yapılan ilk incelemeye ait raporun düzenlenme tarihini müteakip kırk beş gün içerisinde ruhsat almak için yeniden başvurmayanlar ile il müdürlüğü tarafından ikinci defa yapılan değerlendirme sonucu faaliyete başlaması uygun görülmeyenlerin başvuruları reddedilerek durum hakkında sahipliğe bilgi verilir.
 
-(4) (Değişik:RG-3/6/2021-31500) İnceleme sonucunda uygun başvurusu bulunanlara, il müdürlüğü tarafından ek-2’de örneği yer alan optisyenlik müessesesi ruhsatnamesi ile mesul müdür adına ek-7’de örneği yer alan tanıtıcı kimlik kartı düzenlenir.
+(4) **(Değişik:RG-3/6/2021-31500)** İnceleme sonucunda uygun başvurusu bulunanlara, il müdürlüğü tarafından ek-2’de örneği yer alan optisyenlik müessesesi ruhsatnamesi ile mesul müdür adına ek-7’de örneği yer alan tanıtıcı kimlik kartı düzenlenir.
 
-(5) (Değişik:RG-3/6/2021-31500) Müessesede mesul müdür haricinde personel çalışacak ise bu personel için ek-3’te yer alan personel çalışma belgesi ile personel adına ek-7’de örneği yer alan tanıtıcı kimlik kartı düzenlenir.
+(5) **(Değişik:RG-3/6/2021-31500)** Müessesede mesul müdür haricinde personel çalışacak ise bu personel için ek-3’te yer alan personel çalışma belgesi ile personel adına ek-7’de örneği yer alan tanıtıcı kimlik kartı düzenlenir.
 
-(6) İl sağlık müdürlüğünden optisyenlik müessesesi ruhsatnamesini almış müesseseler, ilgili belediyeden ayrıca işyeri açma ve çalıştırma ruhsatı almak zorunda değildir. (1)
+<i>(6) İl sağlık müdürlüğünden optisyenlik müessesesi ruhsatnamesini almış müesseseler, ilgili belediyeden ayrıca işyeri açma ve çalıştırma ruhsatı almak zorunda değildir. (1)</i>
 
 (7) Müessese ruhsatnamesi ve personel çalışma belgeleri, imza karşılığında mesul müdüre teslim edilir.
 
@@ -141,9 +141,9 @@ i) (Ek:RG-3/6/2021-31500) Mesul müdürün ilgili optisyen-gözlükçüler odas�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Optisyenlik Müessesesinin Fizik ve Diğer Şartları ile
+**Optisyenlik Müessesesinin Fizik ve Diğer Şartları ile**
 
-Müessese Açılamayacak Yerler ve Tabela
+**Müessese Açılamayacak Yerler ve Tabela**
 
 #### Müessesenin fiziki ve diğer şartları
 
@@ -179,7 +179,7 @@ gerekir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Mesul Müdür ve Diğer Personel
+**Mesul Müdür ve Diğer Personel**
 
 #### Mesul müdür
 
@@ -237,7 +237,7 @@ sahip ve mesul müdür olan kimsenin vefatı halinde, kanunî mirasçılar, vefa
 
 ### BEŞİNCİ BÖLÜM
 
-Kayıt Sistemi ve Defterler
+**Kayıt Sistemi ve Defterler**
 
 #### Kayıt sistemi
 
@@ -273,7 +273,7 @@ Kayıt Sistemi ve Defterler
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### İl müdürlüğünün sorumlulukları
 
@@ -299,7 +299,7 @@ f) Kanunda, bu Yönetmelikte ve diğer düzenleyici işlemlerde öngörülen di�
 
 (2) Optisyenlik müesseseleri tabelaları, vitrinleri ile basılı ve elektronik ortam materyallerinde, ruhsatnamesinde kayıtlı optisyenlik müessesesi ismi dışında başka bir isim kullanamaz. Müessese vitrininde faaliyeti ile ilgili bilgileri, satışını yaptığı optik ürünler ile bu ürünlerin fiyatları ve anlaşma yapılan kurumların isimleri belirtilebilir.
 
-(3) (Ek:RG-3/6/2021-31500) Optisyenlik müesseseleri tarafından piyasaya arz edilen veya piyasada bulundurulan tıbbi cihazların uzaktan iletişim aracı vasıtasıyla ticareti, reklamı, bilgilendirme, klinik destek ve tanıtım faaliyetleri ile Kurumca belirlenen kayıt ve bilgi yönetim sistemlerine yönelik kayıt işlemleri 15/5/2014 tarihli ve 29001 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğine uygun olarak yapılır.
+(3) **(Ek:RG-3/6/2021-31500)** Optisyenlik müesseseleri tarafından piyasaya arz edilen veya piyasada bulundurulan tıbbi cihazların uzaktan iletişim aracı vasıtasıyla ticareti, reklamı, bilgilendirme, klinik destek ve tanıtım faaliyetleri ile Kurumca belirlenen kayıt ve bilgi yönetim sistemlerine yönelik kayıt işlemleri 15/5/2014 tarihli ve 29001 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğine uygun olarak yapılır.
 
 #### Yasaklar ve istisnai hükümler (Değişik başlık:RG-18/8/2023-32283)
 
@@ -329,11 +329,11 @@ h) Optisyenlik müessesesi bir şirket tarafından açılmış ise şirketin faa
 
 i) 24 üncü maddeye aykırı tanıtım ve reklam yapılması.
 
-j) (Değişik:RG-3/6/2021-31500) Optisyenlik müesseseleri, Kurumun kayıt ve bilgi yönetim sistemine kayıtlı olmayan tıbbi cihazların satışını yapamaz.
+j) **(Değişik:RG-3/6/2021-31500)** Optisyenlik müesseseleri, Kurumun kayıt ve bilgi yönetim sistemine kayıtlı olmayan tıbbi cihazların satışını yapamaz.
 
 k) Optisyenlik müesseselerinde; bu Yönetmelik hükümlerine aykırı olarak mesul müdürün müessesede bulunmadığı zamanlarda reçeteli optik ürünlerin satışının yapılması.
 
-(2) (Ek:RG-18/8/2023-32283) Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Bakanlıkça kabul edilen pandemi , biyolojik tehdit ile deprem, sel, yangın gibi doğal afet durumlarında veya toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ciddi halk sağlığı sorunlarında optisyenlik müesseselerine ve bu müesseselerin reklam veya tanıtım faaliyetlerine ilişkin olarak Kurum tarafından geçici olarak istisnalar getirilebilir.
+(2) **(Ek:RG-18/8/2023-32283)** Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Bakanlıkça kabul edilen pandemi , biyolojik tehdit ile deprem, sel, yangın gibi doğal afet durumlarında veya toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ciddi halk sağlığı sorunlarında optisyenlik müesseselerine ve bu müesseselerin reklam veya tanıtım faaliyetlerine ilişkin olarak Kurum tarafından geçici olarak istisnalar getirilebilir.
 
 #### Denetim
 
@@ -353,7 +353,7 @@ k) Optisyenlik müesseselerinde; bu Yönetmelik hükümlerine aykırı olarak me
 
 (3) Optisyen unvanını ve gözlükçülük ruhsatnamesini haiz olmadığı halde, optisyenlik mesleğini icra edenler veya kendilerinin optisyenlik mesleğini icraya yetkili olduklarını ilân edenler hakkında, Kanunun 14 üncü maddesi hükmü uygulanır.
 
-(4) (Ek:RG-3/6/2021-31500) Optisyenlik müesseseleri tarafından piyasaya arz edilen veya piyasada bulundurulan tıbbi cihazların uzaktan iletişim aracı vasıtasıyla ticareti, reklamı, bilgilendirme, klinik destek ve tanıtım faaliyetleri ile Kurumca belirlenen kayıt ve bilgi yönetim sistemlerine yönelik kayıt işlemlerine yönelik aykırılıklarda, Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinde belirtilen müeyyideler, optisyenlik müessesesi ile müessesenin mesul müdürleri için de aynı şekilde uygulanır.
+(4) **(Ek:RG-3/6/2021-31500)** Optisyenlik müesseseleri tarafından piyasaya arz edilen veya piyasada bulundurulan tıbbi cihazların uzaktan iletişim aracı vasıtasıyla ticareti, reklamı, bilgilendirme, klinik destek ve tanıtım faaliyetleri ile Kurumca belirlenen kayıt ve bilgi yönetim sistemlerine yönelik kayıt işlemlerine yönelik aykırılıklarda, Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinde belirtilen müeyyideler, optisyenlik müessesesi ile müessesenin mesul müdürleri için de aynı şekilde uygulanır.
 
 #### Yürürlükten kaldırılan yönetmelik
 
@@ -375,7 +375,7 @@ k) Optisyenlik müesseselerinde; bu Yönetmelik hükümlerine aykırı olarak me
 
 _____________________
 
-(1) Danıştay Onbeşinci Dairesinin 4/3/2016 tarihli ve Esas No: 2014/607; Karar No:2016/1370 sayılı kararı ile Yönetmeliğin 8 inci maddesinin altıncı fıkrasının iptaline karar verilmiştir.
+<i>(1) Danıştay Onbeşinci Dairesinin 4/3/2016 tarihli ve Esas No: 2014/607; Karar No:2016/1370 sayılı kararı ile Yönetmeliğin 8 inci maddesinin altıncı fıkrasının iptaline karar verilmiştir.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -385,4 +385,4 @@ _____________________
 | 1. | 3/6/2021 | 31500 |
 | 2. | 18/8/2023 | 32283 |
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

@@ -16,21 +16,21 @@ durum: "yürürlükte"
 
 ### İŞLETİLMESİ HAKKINDA KANUN [1][2]
 
-Kanun Numarası : 3653
+**Kanun Numarası : 3653**
 
-Kabul Tarihi : 26/6/1939
+**Kabul Tarihi : 26/6/1939**
 
-Yayımlandığı Resmî Gazete : Tarih : 4/7/1939 Sayı : 4249
+**Yayımlandığı Resmî Gazete : Tarih : 4/7/1939 Sayı : 4249**
 
 #### Yayımlandığı Düstur : Tertip : 3 Cilt : 20 Sayfa : 652
 
 **Madde 1 –** (Değişik birinci fıkra: 3/6/2004-5185/2 md.) Yalova İli dahilinde olup Bakanlar Kurulunca onaylanmış haritasında gösterilen sınır içindeki Devlete ait sıcak ve soğuk su kaynakları ile kaplıcaların ve bunlara ait binaların, kaplıcalar tesisatının ve arazinin değerlendirilmesi, intifa ve idaresi Sağlık Bakanlığına devredilmiştir. Yalova Termal kaplıcaları, Bakanlıkça teşekkül ettirilecek İşletme İdaresi marifetiyle veya usul ve esasları Maliye ve Sağlık bakanlıklarınca müştereken çıkarılacak olan yönetmelikle belirlenmek kaydıyla gerçek kişilere veya özel hukuk tüzel kişilerine kiralanmak ya da restore et-işlet-devret usulü ile devredilmek suretiyle işletilebilir.
 
-(Ek fıkra: 3/6/2004-5185/2 md.) İşletme İdaresinin çalışma usul ve esasları ile işletmeye dair her türlü mali ve idari muamelelerin yürütülme şekline ve muhasebe usullerine ait esaslar Maliye Bakanlığının uygun görüşü üzerine Sağlık Bakanlığınca üç ay içinde çıkarılacak bir yönetmelik ile tespit olunur.
+**(Ek fıkra: 3/6/2004-5185/2 md.)** İşletme İdaresinin çalışma usul ve esasları ile işletmeye dair her türlü mali ve idari muamelelerin yürütülme şekline ve muhasebe usullerine ait esaslar Maliye Bakanlığının uygun görüşü üzerine Sağlık Bakanlığınca üç ay içinde çıkarılacak bir yönetmelik ile tespit olunur.
 
-(Ek fıkra: 3/6/2004-5185/2 md.) Yalova Termal kaplıcalarının kira veya işletme gelirleri, Sağlık Bakanlığı Merkez Saymanlık Müdürlüğünün hesabına aktarılır. Oranları işletme idaresince belirlenen miktarda Termal Belediyesi ve Yalova İl Özel İdaresine pay aktarılır ve geri kalanı bütçeye gelir kaydedilir.
+**(Ek fıkra: 3/6/2004-5185/2 md.)** Yalova Termal kaplıcalarının kira veya işletme gelirleri, Sağlık Bakanlığı Merkez Saymanlık Müdürlüğünün hesabına aktarılır. Oranları işletme idaresince belirlenen miktarda Termal Belediyesi ve Yalova İl Özel İdaresine pay aktarılır ve geri kalanı bütçeye gelir kaydedilir.
 
-(Ek fıkra: 3/6/2004-5185/2 md.) Yalova Termal kaplıcalarının kiraya verilmesi durumunda Kanunun 8, 9, 10, 11 ve 12 nci maddeleri uygulanmaz.
+**(Ek fıkra: 3/6/2004-5185/2 md.)** Yalova Termal kaplıcalarının kiraya verilmesi durumunda Kanunun 8, 9, 10, 11 ve 12 nci maddeleri uygulanmaz.
 
 İcabında harita haricinde kalan ve Devlete ait bulunan araziden lüzum görülecek kısımlar dahi Cumhurbaşkanı kararile buna ilave edilebilir.[3]
 
@@ -78,9 +78,9 @@ Denizbank memurlarından bu hizmetlerinde müstahdem iken yeni teşkilat kadrola
 
 **Madde 16 –** Kaplıcalar tarifesi, İşletme Müdürünün iştirakile Sağlık Bakanlığı tarafından teşkil edilecek bir heyet marifetile tesbit ve adı geçen vekaletçe tasdikten sonra tatbik olunur.
 
-(Ek fıkra: 3/6/2004-5185/3 md.) İşletmenin kiralanması veya restore et-işlet-devret usulü ile devredilmesi halinde ise, kaplıcalar tarifesi, kiracının veya devralanın teklifi üzerine Sağlık Bakanlığınca aynen veya değiştirilerek onaylanmak suretiyle belirlenir.
+**(Ek fıkra: 3/6/2004-5185/3 md.)** İşletmenin kiralanması veya restore et-işlet-devret usulü ile devredilmesi halinde ise, kaplıcalar tarifesi, kiracının veya devralanın teklifi üzerine Sağlık Bakanlığınca aynen veya değiştirilerek onaylanmak suretiyle belirlenir.
 
-(Ek fıkra: 3/6/2004-5185/3 md.) Kaplıcalar tarifesi; işletmenin alt yapısının yenilenmesi, Yalova Termal kaplıcaları ile bunlara ait bina, müştemilat ve diğer tesisatın restore edilmesi ve geliştirilmesi için harcamada bulunulmasına imkân verecek şekilde, maliyet ve işletmecilik esaslarına göre belirlenir.
+**(Ek fıkra: 3/6/2004-5185/3 md.)** Kaplıcalar tarifesi; işletmenin alt yapısının yenilenmesi, Yalova Termal kaplıcaları ile bunlara ait bina, müştemilat ve diğer tesisatın restore edilmesi ve geliştirilmesi için harcamada bulunulmasına imkân verecek şekilde, maliyet ve işletmecilik esaslarına göre belirlenir.
 
 **Madde 17 –** Yalova, Denizyolları idaresinin sefer ve tarifeleri bakımından (Mütecavir sahiller) meyanındadır.
 
@@ -107,16 +107,16 @@ Devir muameleleri yine mezkür kanunun muvakkat ikinci maddesi ahkamına göre y
 | 5185 | Kanunun adı, 1, 16 | 9/6/2004 |
 | KHK/700 | 1, 3, 15 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 
-<small>[1] Bu Kanunun adı “Yalova Kaplıcalarının İşletilmesi ve Kaplıcaların İnkişafı İşlerinin Sıhhat ve İçtimaî Muavenet Vekaletine Bağlı Hükmî Şahsiyeti Haiz Bir Teşekküle Devri Hakkında Kanun” iken, metne işlendiği şekilde ve Kanunun maddelerinde geçen “Sıhhat ve İçtimaî Muavenet” ibareleri “Sağlık Bakanlığı”; “Yalova Kaymakamlığı” ibareleri, “Yalova Valiliği” olarak, 3/6/2004 tarihli ve 5185 sayılı Kanunun 1 inci maddesiyle değiştirilmiştir.</small>
+<small>[1] <i>Bu Kanunun adı “Yalova Kaplıcalarının İşletilmesi ve Kaplıcaların İnkişafı İşlerinin Sıhhat ve İçtimaî Muavenet Vekaletine Bağlı Hükmî Şahsiyeti Haiz Bir Teşekküle Devri Hakkında Kanun” iken, metne işlendiği şekilde ve Kanunun maddelerinde geçen “Sıhhat ve İçtimaî Muavenet” ibareleri “Sağlık Bakanlığı”; “Yalova Kaymakamlığı” ibareleri, “Yalova Valiliği” olarak, 3/6/2004 tarihli ve 5185 sayılı Kanunun 1 inci maddesiyle değiştirilmiştir.</i></small>
 
-<small>[2] 3/6/2004 tarihli ve 5185 sayılı Kanunun 1 inci maddesiyle “Sıhhat ve İçtimaî Muavenet” ibareleri “Sağlık Bakanlığı” olarak değiştirilmiş ancak, “Sıhhat ve İçtimaî Muavenet” ibarelerinin devamında yer alan “Vekalet” ibarelerinin de kullanılma imkanı kalmadığından Kanun metninden çıkarılmıştır.</small>
+<small>[2] <i>3/6/2004 tarihli ve 5185 sayılı Kanunun 1 inci maddesiyle “Sıhhat ve İçtimaî Muavenet” ibareleri “Sağlık Bakanlığı” olarak değiştirilmiş ancak, “Sıhhat ve İçtimaî Muavenet” ibarelerinin devamında yer alan “Vekalet” ibarelerinin de kullanılma imkanı kalmadığından Kanun metninden çıkarılmıştır.</i></small>
 
-<small>[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 16 ncı maddesiyle, bu fıkrada yer alan “İcra Vekilleri Heyeti” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 16 ncı maddesiyle, bu fıkrada yer alan “İcra Vekilleri Heyeti” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 16 ncı maddesiyle, bu maddede yer alan “İcra Vekilleri Heyeti” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[4] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 16 ncı maddesiyle, bu maddede yer alan “İcra Vekilleri Heyeti” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] Bu hükmün emekliliğe ait kısmı 8/6/1949 tarih ve 5434 sayılı Kanunun 135. maddesi ile yürürlükten kaldırılmıştır.</small>
+<small>[5] <i>Bu hükmün emekliliğe ait kısmı 8/6/1949 tarih ve 5434 sayılı Kanunun 135. maddesi ile yürürlükten kaldırılmıştır.</i></small>
 
-<small>[6] 3633 sayılı Kanun 5842 sayılı Denizcilik Bankası A. 0. Kanunu ile; 5842 sayılı kanun da 117 sayılı KHK'nin 23. maddesi ile yürürlükten kaldırılmıştır.</small>
+<small>[6] <i>3633 sayılı Kanun 5842 sayılı Denizcilik Bankası A. 0. Kanunu ile; 5842 sayılı kanun da 117 sayılı KHK'nin 23. maddesi ile yürürlükten kaldırılmıştır.</i></small>
 
-<small>[7] 2/7/2018 tarihli ve 700 sayılı KHK’nin 16 ncı maddesiyle, bu maddede yer alan ““Maliye ve Sağlık bakanlarınca tesbit ve İcra Vekilleri Heyetince” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 16 ncı maddesiyle, bu maddede yer alan ““Maliye ve Sağlık bakanlarınca tesbit ve İcra Vekilleri Heyetince” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>

@@ -12,14 +12,14 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/06/20130611-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN BAZI KANUNLAR İLE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE
-DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 6487 Kabul Tarihi: 24/5/2013
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN BAZI KANUNLAR İLE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE**
+**DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+**Kanun No. 6487** Kabul Tarihi: 24/5/2013
 
-MADDE 1 – 2/6/1934 tarihli ve 2489 sayılı Kefalet Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 1 –** 2/6/1934 tarihli ve 2489 sayılı Kefalet Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 4 – Kefalet Sandığı yönetim kurulu başkan ve üyelerine, 25/6/2009 tarihli ve 5917 sayılı Kanunla bu Kanunun 1 inci maddesinde yapılan değişiklikten önceki düzenlemelere göre yapılan ödemeler nedeniyle bu kişiler ve sorumlular hakkında borç çıkarılmaz ve çıkarılmış olan borç tutarlarının tahsilinden vazgeçilerek borç takibi işlemine son verilir.”
 
-MADDE 2 – 8/6/1942 tarihli ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanununun mülga 6 ncı maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 2 –** 8/6/1942 tarihli ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanununun mülga 6 ncı maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
 “MADDE 6 – Alkollü içkilerin her ne surette olursa olsun reklamı ve tüketicilere yönelik tanıtımı yapılamaz. Bu ürünlerin kullanılmasını ve satışını özendiren veya teşvik eden kampanya, promosyon ve etkinlik yapılamaz. Ancak, münhasıran alkollü içkilerin uluslararası düzeyde tanıtımına yönelik ihtisas fuarları ile bilimsel yayın ve faaliyetler düzenlenebilir. Alkollü içkileri üreten, ithal eden ve pazarlayanlar, her ne surette olursa olsun hiçbir etkinliğe ürünlerinin marka, amblem ya da işaretlerini kullanarak destek olamazlar.
 Açık alkollü içki satışı yapmaya ilişkin izin belgesi olan işletmelerde servis amaçlı materyallerde marka, amblem ve logo kullanılabilir. Televizyonlarda yayınlanan dizi, film ve müzik kliplerinde alkollü içkileri özendirici görüntülere yer verilemez.
 Alkollü içkileri üretenler, ithal edenler ve pazarlayanlar her ne amaçla olursa olsun, teşvik, hediye, eşantiyon, promosyon veya bedelsiz olarak alkollü içki dağıtamazlar.
@@ -33,7 +33,7 @@ Alkollü içkilerin marka, tanıtıcı ve ayırt edici hiçbir işareti, alkols�
 İhraç amaçlı üretilenler hariç olmak üzere, alkollü içki kategorisindeki ürünlerin işlenmesi sonucunda, elde edilen alkolsüz içkilerde; içeriğinde alkol kalmış içeceklerin ambalajları üzerine içerdiği alkol miktarı, alkol tamamen alınmış ise alkolün tamamen alındığı hususu tüketiciler tarafından kolaylıkla okunabilecek şekilde yazılır.
 Meskun mahaller ve konaklama yerleri hariç olmak üzere, otoyollardaki ve devlet karayollarındaki yapı ve tesislerde alkollü içki satışına ve tüketimine izin verilmez. Öğrenci yurtları, sağlık hizmeti verilen yerler, spor müsabakası yapılan stadyum ve kapalı spor salonları, her türlü eğitim ve öğretim kurumları, kahvehane, kıraathane, pastane, bezik ve briç salonları ile akaryakıt istasyonlarının mağaza ve lokantalarında alkollü içkilerin satışı yapılamaz.”
 
-MADDE 3 – 4250 sayılı Kanunun mülga 7 nci maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 3 –** 4250 sayılı Kanunun mülga 7 nci maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
 “Cezalar
 
 MADDE 7 – Bu Kanunun 6 ncı maddesinin;
@@ -47,14 +47,14 @@ e) Beşinci fıkrasındaki yasaklara aykırı hareket edenlere, 3/1/2002 tarihli
 Bu maddenin (a), (ç) ve (e) bentlerinde belirtilen idari para cezalarını vermeye Tütün ve Alkol Piyasası Düzenleme Kurumu, televizyon ve radyolara uygulanacak idari para cezalarını vermeye Radyo ve Televizyon Üst Kurulu, diğer bentlerde yer alan idari para cezalarını vermeye mahalli mülki amir yetkilidir.
 Birinci fıkranın (ç) bendinde tanımlanan kabahatin konusunu oluşturan ürünlerin ayrıca mülkiyetinin kamuya geçirilmesine karar verilir. Bu kararı vermeye Tütün ve Alkol Piyasası Düzenleme Kurumu yetkilidir.”
 
-MADDE 4 – 4250 sayılı Kanunun mülga 9 uncu maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 4 –** 4250 sayılı Kanunun mülga 9 uncu maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
 “MADDE 9 – Tütün ve Alkol Piyasası Düzenleme Kurumundan satış belgesi almak isteyenlerin, öncelikle belediye veya il özel idaresinden iş yeri açma ruhsatı ya da Kültür ve Turizm Bakanlığından turizm belgesi almaları zorunludur. Tütün mamulü, etil alkol, metil alkol ve alkollü içki satmak isteyenlerin, Tütün ve Alkol Piyasası Düzenleme Kurumundan satış belgesi almaları zorunludur. Belediye veya il özel idaresi, ruhsat vermeden önce, yetkili kolluk kuvvetinin görüşünü alır.
 Kolluk kuvveti görüşünü yedi gün içinde verir.
 Bu Kanun kapsamına giren ürünlerin perakende veya açık olarak satışının yapıldığı yerler ile örgün eğitim kurumları ve dershaneler, öğrenci yurtları ve ibadethaneler arasında kapıdan kapıya en az yüz metre mesafenin bulunması zorunludur. Bu fıkradaki mesafe şartı turizm belgeli işletmeler için uygulanmaz.
 Mesafe şartı, satış belgesinin verildiği tarih itibarıyla aranır.
 İkinci fıkradaki mesafe sınırları içerisindeki taşınmaz kültür varlığı olarak tescilli yapılarda düzenlenecek süreli etkinlikler için Tütün ve Alkol Piyasası Düzenleme Kurumunca açık alkollü içki sunum izni verilebilir.”
 
-MADDE 5 – 4250 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 5 –** 4250 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 1 – Perakende ya da açık alkollü içki satışı yapılan iş yerlerinin tabelaları bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl içinde 6 ncı maddenin birinci fıkrasına uygun hâle getirilir.
 6 ncı maddenin sekiz, dokuz ve onuncu fıkraları ile ilgili ikincil düzenlemeler bu maddenin yürürlüğe girdiği tarihten itibaren iki ay içinde Sağlık Bakanlığının uygun görüşü alınarak Tütün ve Alkol Piyasası Düzenleme Kurumu tarafından yapılır.
 6 ncı maddenin sekiz, dokuz ve onuncu fıkraları kapsamına giren ürünler, Tütün ve Alkol Piyasası Düzenleme Kurumu tarafından çıkarılacak ikincil düzenlemelerin Resmî Gazete’de yayımından itibaren on ay içinde anılan fıkralardaki hükümlere uygun hâle getirilir. Uygun olmayan ürünler, bu tarihten itibaren piyasaya arz edilemez.
@@ -62,38 +62,38 @@ MADDE 5 – 4250 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 Bu maddenin yayımı tarihinde alkollü içkilerin üretiminde, pazarlanmasında, satışında ve açık sunumunda on sekiz yaşını doldurmamış kişileri çalıştırmakta olanlar, bu maddenin yayımı tarihinden itibaren bir yıl süreyle bu kişileri çalıştırmaya devam edebilirler.
 Perakende alkollü içki satışı yapılan iş yerlerindeki alkollü içkilerin konulduğu ve üzerlerinde alkollü içkilerin marka, amblem ve logosu bulunan mevcut soğutucular, iş yerlerinin kapalı bölümlerinde bulunması kaydıyla, bu maddenin yayımı tarihinden itibaren üç yıl süreyle kullanılabilir.”
 
-MADDE 6 – 4250 sayılı Kanunun 19 uncu ve 28 inci maddeleri yürürlükten kaldırılmış, 3/1/2002 tarihli ve 4733 sayılı Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve Görevleri Hakkında Kanunun 8 inci maddesinin beşinci fıkrasının (m) bendinde geçen “veya alkollü içkilerin” ibaresi ile aynı fıkranın (n) bendinde geçen “veya alkollü içkileri” ibaresi madde metninden çıkarılmıştır.
+**MADDE 6 –** 4250 sayılı Kanunun 19 uncu ve 28 inci maddeleri yürürlükten kaldırılmış, 3/1/2002 tarihli ve 4733 sayılı Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve Görevleri Hakkında Kanunun 8 inci maddesinin beşinci fıkrasının (m) bendinde geçen “veya alkollü içkilerin” ibaresi ile aynı fıkranın (n) bendinde geçen “veya alkollü içkileri” ibaresi madde metninden çıkarılmıştır.
 
-MADDE 7 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun geçici 75 inci maddesinde yer alan “31/12/2013” ibaresi “31/12/2023” şeklinde değiştirilmiştir.
+**MADDE 7 –** 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun geçici 75 inci maddesinde yer alan “31/12/2013” ibaresi “31/12/2023” şeklinde değiştirilmiştir.
 
-MADDE 8 – 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 151 inci maddesinin birinci fıkrasının (3) numaralı bendinde yer alan “giderlerine” ibaresinden sonra gelmek üzere “ayrıca avukatlık veya dava vekilliği sıfatı dışındaki sıfatları dolayısıyla muttali oldukları ahval ve hususlara” ibaresi eklenmiştir.
+**MADDE 8 –** 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 151 inci maddesinin birinci fıkrasının (3) numaralı bendinde yer alan “giderlerine” ibaresinden sonra gelmek üzere “ayrıca avukatlık veya dava vekilliği sıfatı dışındaki sıfatları dolayısıyla muttali oldukları ahval ve hususlara” ibaresi eklenmiştir.
 
-MADDE 9 – 213 sayılı Kanunun 152 nci maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 9 –** 213 sayılı Kanunun 152 nci maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Uluslararası anlaşmalar gereğince bilgi değişimi
 
 MADDE 152/A – Maliye Bakanlığı Gelir İdaresi Başkanlığı veya vergi incelemesi yapmaya yetkili olanlar, usulüne uygun olarak yürürlüğe girmiş uluslararası anlaşmalarda yer alan bilgi değişimi hükümleri çerçevesinde, Maliye Bakanlığınca tespit edilecek usullere göre bu Kanunun 1 inci maddesinde belirlenen şümulle sınırlı olmaksızın bilgi toplayabilir.”
 
-MADDE 10 – 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 28 inci maddesinin birinci fıkrasının (a) bendinin birinci cümlesinde yer alan “kararın verilmesinden itibaren iki ay” ibaresi “kararın tebliğinden itibaren bir ay” şeklinde değiştirilmiştir.
+**MADDE 10 –** 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 28 inci maddesinin birinci fıkrasının (a) bendinin birinci cümlesinde yer alan “kararın verilmesinden itibaren iki ay” ibaresi “kararın tebliğinden itibaren bir ay” şeklinde değiştirilmiştir.
 
 MADDE 11 – 492 sayılı Kanunun (8) sayılı tarifesinin “XI – Finansal faaliyet harçları” başlıklı bölümünün birinci fıkrasının (c) bendinde yer alan “(her şube ve her yıl için)” ibaresi “(her şube ve her yıl için, şube açılışında şubenin açıldığı ay kesri tam ay sayılmak suretiyle takvim yılının kalan ay süresine isabet eden harç tahsil edilir.)” şeklinde değiştirilmiştir.
 
-MADDE 12 – 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 7 nci maddesinin birinci fıkrasının (b) bendinin (2) numaralı alt bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 12 –** 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 7 nci maddesinin birinci fıkrasının (b) bendinin (2) numaralı alt bendi aşağıdaki şekilde değiştirilmiştir.
 “2) Bu kurslarda okuyan öğrenciler için yurt ve pansiyonlar açmak ve yönetmek; Kur’an kursu, yurt ve pansiyonların iaşe ve ibate ihtiyaçları ile diğer harcamalarına ilişkin bütçelerini, mali yıl itibarıyla düzenlemek; yurt ve pansiyonların her türlü alım-satım işlemlerini yürütmek.”
 
-MADDE 13 – 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa ekli (II) sayılı Cetvelin; “4. BAŞBAKANLIK VE BAKANLIKLARDA” bölümünde yer alan “Genel Müdürlük ve Başkanlık Daire Başkanı, Millî Eğitim Bakanlığı Grup Başkanı,” ibareleri ile “5. YARGI KURULUŞLARI, BAĞLI VE İLGİLİ KURULUŞLAR İLE YÜKSEK ÖĞRETİM KURULUŞLARINDA” bölümünde yer alan “Daire Başkanı, Gelir İdaresi Grup Başkanı,” ve “Grup Başkanı ve” ibareleri metinden çıkarılmış, aynı Cetvelin “1.
+**MADDE 13 –** 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa ekli (II) sayılı Cetvelin; “4. BAŞBAKANLIK VE BAKANLIKLARDA” bölümünde yer alan “Genel Müdürlük ve Başkanlık Daire Başkanı, Millî Eğitim Bakanlığı Grup Başkanı,” ibareleri ile “5. YARGI KURULUŞLARI, BAĞLI VE İLGİLİ KURULUŞLAR İLE YÜKSEK ÖĞRETİM KURULUŞLARINDA” bölümünde yer alan “Daire Başkanı, Gelir İdaresi Grup Başkanı,” ve “Grup Başkanı ve” ibareleri metinden çıkarılmış, aynı Cetvelin “1.
 BAŞBAKANLIK VE BAKANLIKLARDA” bölümüne “Serbest Bölge Müdürü,” ibaresinden sonra gelmek üzere “Genel Müdürlük ve Başkanlık Daire Başkanı, Millî Eğitim Bakanlığı Grup Başkanı,” ibaresi, “2. YARGI KURULUŞLARI, BAĞLI VE İLGİLİ KURULUŞLAR İLE YÜKSEK ÖĞRETİM KURULUŞLARINDA” bölümüne “Türkiye İstatistik Kurumu Bölge Müdürü,” ibaresinden sonra gelmek üzere “Daire Başkanı, Gelir İdaresi Grup Başkanı, Milli Güvenlik Kurulu Genel Sekreterliği Grup Başkanı,” ibaresi eklenmiştir.
 
-MADDE 14 – 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun 20 nci maddesinin (3) numaralı fıkrasında yer alan “Belediye Meclislerince takdir edilecek miktardır.”
+**MADDE 14 –** 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun 20 nci maddesinin (3) numaralı fıkrasında yer alan “Belediye Meclislerince takdir edilecek miktardır.”
 ibaresi, “bu Kanunun 96 ncı maddesine göre tespit edilen miktardır.” şeklinde değiştirilmiştir.
 
-MADDE 15 – 2464 sayılı Kanunun 60 ıncı maddesinde yer alan “20 YTL’den az; 800 YTL’den çok olmamak üzere belediye meclislerince tespit edilir.” ibaresi “20 TL’den az, 800 TL’den çok olmamak üzere bu Kanunun 96 ncı maddesine göre tespit edilir.” şeklinde değiştirilmiştir.
+**MADDE 15 –** 2464 sayılı Kanunun 60 ıncı maddesinde yer alan “20 YTL’den az; 800 YTL’den çok olmamak üzere belediye meclislerince tespit edilir.” ibaresi “20 TL’den az, 800 TL’den çok olmamak üzere bu Kanunun 96 ncı maddesine göre tespit edilir.” şeklinde değiştirilmiştir.
 
-MADDE 16 – 2464 sayılı Kanunun 96 ncı maddesinin (A) fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 16 –** 2464 sayılı Kanunun 96 ncı maddesinin (A) fıkrası aşağıdaki şekilde değiştirilmiştir.
 “A) Bakanlar Kurulu, bu Kanunda en az ve en çok miktarları gösterilen vergi ve harçların tarifelerini belediye grupları itibarıyla tayin ve tespit eder.”
 
-MADDE 17 – 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 39 uncu maddesinin son fıkrasına “Uluslararası andlaşmalarla kurulan üniversitelerde bu süre beş yıla kadar uzatılabilir.” cümlesi eklenmiştir.
+**MADDE 17 –** 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 39 uncu maddesinin son fıkrasına “Uluslararası andlaşmalarla kurulan üniversitelerde bu süre beş yıla kadar uzatılabilir.” cümlesi eklenmiştir.
 
-MADDE 18 – 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 36 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 18 –** 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 36 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 36 – Motorlu araçların, sürücü belgesi sahibi olmayan kişiler tarafından karayollarında sürülmesi ve sürülmesine izin verilmesi yasaktır.
 Araçlar, Yönetmelikte sınıfları belirtilen sürücü belgelerine sahip sürücüler ile çok taraflı anlaşmalara göre sürücü belgesi bulunan veya geçerli uluslararası sürücü belgesi olan kişilerce sürülebilir.
 Buna göre;
@@ -101,7 +101,7 @@ a) Sürücü belgesi olmayanların,
 b) Mahkemelerce veya Cumhuriyet savcılıklarınca ya da bu Kanunda belirtilen yetkililerce sürücü belgesi geçici olarak ya da tedbiren geri alınanların,
 c) Sürücü belgesi iptal edilenlerin, araç kullanarak trafiğe çıktıklarının tespiti hâlinde, bu kişilere 1.407 Türk Lirası idari para cezası verilir. Ayrıca, aracın sürücü belgesiz kişilerce sürülmesine izin veren araç sahibine de tescil plakası üzerinden aynı miktarda idari para cezası verilir.”
 
-MADDE 19 – 2918 sayılı Kanunun 48 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 19 –** 2918 sayılı Kanunun 48 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Alkol, uyuşturucu veya uyarıcı maddelerin etkisi altında araç sürme yasağı
 
 MADDE 48 – Uyuşturucu veya uyarıcı maddeleri almış olan sürücüler ile alkollü olan sürücülerin karayolunda araç sürmeleri yasaktır.
@@ -119,9 +119,9 @@ Sürücü belgelerinin geçici geri alma işlemleri bu Kanunun 6 ncı maddesinde
 Bu madde hükümlerine göre geri alınan sürücü belgesinin iade edilebilmesi için; ilgili kişi hakkında trafik kurallarına aykırılık dolayısıyla bu Kanun hükümlerine göre verilmiş olan idari para cezalarının tamamının tahsil edilmiş olması; uyuşturucu veya uyarıcı madde alması nedeniyle sürücü belgesi geri alınanların ayrıca sürücü olmasında sakınca bulunmadığına dair resmi sağlık kurumlarından alınmış sağlık kurulu raporunun ibraz edilmesi şarttır.
 Alkol, uyuşturucu veya uyarıcı maddelerin tespiti için kullanılacak teknik cihazların sahip olacağı asgari koşullar ile diğer usul ve esaslar yönetmelikte gösterilir.”
 
-MADDE 20 – 2918 sayılı Kanunun ek 13 üncü maddesinin birinci fıkrasında yer alan “48 inci maddede gösterilen “alkollü araç kullanmak” suçunu birinci ve ikinci defasında işlemek,” ibaresi madde metninden çıkarılmıştır.
+**MADDE 20 –** 2918 sayılı Kanunun ek 13 üncü maddesinin birinci fıkrasında yer alan “48 inci maddede gösterilen “alkollü araç kullanmak” suçunu birinci ve ikinci defasında işlemek,” ibaresi madde metninden çıkarılmıştır.
 
-MADDE 21 – 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun geçici 6 ncı maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 21 –** 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun geçici 6 ncı maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Kamulaştırılmaksızın kamu hizmetine ayrılan taşınmazların bedel tespiti
 
 GEÇİCİ MADDE 6 – Kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış olmasına rağmen 9/10/1956 tarihi ile 4/11/1983 tarihi arasında fiilen kamu hizmetine ayrılan veya kamu yararına ilişkin bir ihtiyaca tahsis edilerek üzerinde tesis yapılan taşınmazlara veya kaynaklara kısmen veya tamamen veyahut irtifak hakkı tesis etmek suretiyle malikin rızası olmaksızın fiili olarak el konulması sebebiyle, mülkiyet hakkından doğan talepler, bedel talep edilmesi hâlinde bedel tespiti ve diğer işlemler bu madde hükümlerine göre yapılır. Bu maddeye göre yapılacak işlemlerde öncelikle uzlaşma usulünün uygulanması dava şartıdır.
@@ -140,15 +140,15 @@ Bu madde uyarınca ödenecek olan bedelin tahsili sebebiyle idarelerin mal, hak 
 24/2/1984 tarihli ve 2981 sayılı Kanun hükümlerine göre yapılan imar uygulamalarından doğan ve ipotekle teminat altına alınanlar da dâhil olmak üzere her türlü alacak ve bedeller, borçlu idarelerce, ipotek veya uygulama tarihinden itibaren 3095 sayılı Kanunda belirtilen kanuni faiz oranı uygulanmak suretiyle güncellenerek ilgililerine ödenir. Bu hüküm devam eden davalarda da uygulanır. Bu fıkra uyarınca yapılacak ödemeler hakkında da bu madde hükümleri uygulanır.
 4/11/1983 tarihinden bu fıkranın yürürlüğe girdiği tarihe kadar kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış olmasına rağmen fiilen kamu hizmetine ayrılan veya kamu yararına ilişkin bir ihtiyaca tahsis edilerek üzerinde tesis yapılan taşınmazların idare tarafından kamulaştırılması hâlinde kamulaştırma bedeli ve mahkemelerce malikleri lehine hükmedilen tazminat ile bu davalara ilişkin mahkeme ve icra vekalet ücretleri de, idarelerce bu maddenin sekizinci fıkrasına göre bütçelerden ayrılacak paydan ve aynı fıkrada belirtilen usule göre ödenir ve işlem yapılır. Bu alacaklar için de bu maddenin on birinci fıkrası, bu fıkra kapsamında kalan taşınmazlar hakkında açılan her türlü davalarda ise yedinci fıkra hükümleri uygulanır. Bu fıkra hükmü, bu fıkra kapsamında kalan taşınmazlar hakkında açılan ve kesinleşmeyen davalarda da uygulanır.”
 
-MADDE 22 – 2942 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 22 –** 2942 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 7 – Mülga 31/8/1956 tarihli ve 6830 sayılı İstimlak Kanununun 16 ve 17 nci maddeleri ile 2942 sayılı Kanunun mülga 16 ve 17 nci maddeleri uyarınca mahkemelerce idare adına tescil kararı verilen kamulaştırmalarda tebligatlar ve diğer kamulaştırma işlemleri tamamlanmış sayılır. Bu kamulaştırma işlemleri sebebiyle hiçbir hak ve alacak talebinde bulunulamaz; kamulaştırmaya veya bedeline karşı itiraz davaları açılamaz;
 açılmış ve devam eden davalar bu madde hükmü uygulanarak sonuçlandırılır.”
 
-MADDE 23 – 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 23 –** 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 32 – Şehir içi raylı ulaşım sistemleri, metro, tramvay, teleferik, telesiyej ve füniküler ile bunların hatları, istasyonları, yolcu terminalleri ve durakları ve bu iş ve işlemlerle ilgili tesisler ile eklenti veya bütünleyici parçalarının Ulaştırma, Denizcilik ve Haberleşme Bakanlığı, belediyeler ve bunların bağlı kuruluşları arasında yapılacak devir ve teslimleri 31/12/2023 tarihine kadar katma değer vergisinden müstesnadır.
 Bu kapsamda yapılan teslim ve hizmet ifaları için yüklenilen vergiler, vergiye tabi işlemler nedeniyle hesaplanan vergiden indirilir. İndirimle giderilemeyen vergiler iade edilmez. Maliye Bakanlığı, istisnaya ilişkin usul ve esasları belirlemeye yetkilidir.”
 
-MADDE 24 – 22/11/1984 tarihli ve 3083 sayılı Sulama Alanlarında Arazi Düzenlenmesine Dair Tarım Reformu Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 24 –** 22/11/1984 tarihli ve 3083 sayılı Sulama Alanlarında Arazi Düzenlenmesine Dair Tarım Reformu Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 5 – Mülga 1757 sayılı Toprak ve Tarım Reformu Kanunu hükümlerine göre yapılan uygulamalar nedeniyle kendilerinden kamulaştırılan ancak kamulaştırma bedelleri maliklerine ödenmeyen arazilerden uygulayıcı kuruluş tarafından dağıtılmayan, tahsis edilmeyen, satılmayan veya bu Kanun amaçlarında kullanılmak üzere ihtiyaç duyulmayanlar; eski malikleri veya kanuni mirasçıları tarafından fiilen kullanılması, bu kişiler tarafından bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl içinde varsa bu araziler hakkında açmış oldukları tüm davalardan yargılama giderleri üstlenilmek suretiyle kayıtsız ve şartsız feragat edilerek uygulayıcı kuruluşa başvurulması ve başkaca hiçbir hak ve talepte bulunulmayacağının kabul ve taahhüt edilmesi koşullarıyla;
 uygulayıcı kuruluş ile Maliye Bakanlığınca yapılacak incelemeler sonucunda iadeye engel başkaca bir durumunun bulunmaması ve iadesinin uygun olduğunun tespit edilmesi durumunda, bu Kanunun 5 inci maddesinde belirtilen norm kısıtlamalarına tabi olmaksızın uygulayıcı kuruluşun teklifi üzerine Maliye Bakanlığınca da uygun görülmesi hâlinde, bu Bakanlığın talebi üzerine yetkili tapu müdürlüğünce ilgilileri adına tescil edilir. Ancak, iade edilecek arazilerden kamulaştırma nedeniyle kendilerine ödeme yapılanlara, ödenen bedele kamulaştırma tarihi itibarıyla tekabül eden arazi miktarı uygulayıcı kuruluş tarafından belirlenir ve bu araziler iade edilmez.
 Mülkiyeti ihtilaflı iken kamulaştırılarak tapuda Hazine adına tescil edilen arazilerden birinci fıkra kapsamında kalanlar, aynı fıkradaki esaslar çerçevesinde, mülkiyet ihtilafına ilişkin davada mahkemece verilen kararda hak sahibi olarak belirlenen kişilere iade edilir.
@@ -156,42 +156,42 @@ Uygulayıcı kuruluş tarafından dağıtılması, tahsis edilmesi, satılması 
 Bu madde kapsamında kalan arazilerden daha önce ilgililerince bedelinin tazmini için açılan davalar sonucunda mahkemelerce verilen ve kesinleşen kararlara göre kendilerine tazminat ödenenler hakkında bu madde hükümleri uygulanmaz.
 Kamulaştırma işlemine başlanılarak tapu kütüklerine şerh veya belirtme konulan ancak kamulaştırma işlemi tamamlanmayan arazilerin tapu kütüklerindeki şerh ve belirtmeler, uygulayıcı kuruluşun teklifi ve Maliye Bakanlığınca da uygun görülmesi hâlinde, bu Bakanlığın talebi üzerine ilgili tapu müdürlüğünce terkin edilir.”
 
-MADDE 25 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
+**MADDE 25 –** 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
 “EK MADDE 16 – 5018 sayılı Kanuna ekli (III) sayılı cetvelde sayılan düzenleyici ve denetleyici kurumlar ile Tasarruf Mevduatı Sigorta Fonu Kurul Başkan ve üyelerine, kendi mevzuatında yer alan kısıtlamalara bağlı olmaksızın kurumun görev alanıyla ilgili olmamak kaydıyla kamu kurum ve kuruluşları ile sermayesinin yarıdan fazlası devlete ait kurum ve kuruluşlarının yönetim kurulu, denetim kurulu ve danışma kurulu üyeliği görevleri ile komisyon, heyet, komite ile benzeri organlarda görev verilebilir ve bu görevlerinden dolayı 4/7/2001 tarihli ve 631 sayılı Kanun Hükmünde Kararnamenin 12 nci maddesi hükümleri esas alınmak suretiyle ilgili mevzuatında öngörülen tutarda ayrıca ödeme yapılır. Ancak, 6/12/2012 tarihli ve 6362 sayılı Kanunun 83 üncü maddesi uyarınca Yatırımcı Tazmin Merkezinin idare ve temsilinde görevli Kurul başkan ve üyelerine, 399 sayılı Kanun Hükmünde Kararnamenin 34 üncü maddesine göre kamu iktisadi teşebbüsleri ve bağlı ortaklıklarının yönetim kurulu başkan ve üyeleri için belirlenen tutarda yapılacak net ödeme, Kurumun görev alanı ile ilgili olmamak şartı bakımından aykırılık oluşturmaz.”
 
-MADDE 26 – 7/11/1996 tarihli ve 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiş ve altıncı fıkrasına aşağıdaki cümle eklenmiştir.
+**MADDE 26 –** 7/11/1996 tarihli ve 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiş ve altıncı fıkrasına aşağıdaki cümle eklenmiştir.
 “c) Hususi araçların sürücü koltukları ile taksi hizmeti verenler dâhil olmak üzere karayolu, demiryolu, denizyolu ve havayolu toplu taşıma araçlarında, ” “Tütün içermeyen ancak tütün mamulünü taklit eder tarzda kullanılan her türlü nargile ve sigara, tütün ürünü kabul edilir.”
 
-MADDE 27 – 4207 sayılı Kanunun 5 inci maddesinin on altıncı fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 27 –** 4207 sayılı Kanunun 5 inci maddesinin on altıncı fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(16) Bu maddedeki cezaları gerektiren fiillerin bir yıllık dönemde tekerrürü hâlinde idari para cezası bir kat; ikinci tekerrürü hâlinde iki kat artırılarak verilir. Aynı dönemdeki üçüncü tekerrürde de iş yeri on günden bir aya kadar kapatılır.”
 
-MADDE 28 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun 12 nci maddesinin (1) numaralı fıkrasının ikinci paragrafı aşağıdaki şekilde değiştirilmiştir.
+**MADDE 28 –** 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun 12 nci maddesinin (1) numaralı fıkrasının ikinci paragrafı aşağıdaki şekilde değiştirilmiştir.
 “(II) sayılı listedeki mallardan alınacak vergi, mükellefin bu malı alış bedeli ile her hâlükârda bu malların imalatçısının satış bedeli veya ithalatta hesaplanan katma değer vergisi matrahı üzerinden malın tabi olduğu orana göre hesaplanan vergi tutarından az olamaz. Verginin, mükellefin alış bedeli üzerinden hesaplandığı durumlarda, malı teslim tarihine kadar bu malı mükellefe teslim eden tarafından yüzde 10’a kadar yapılan indirimler alış bedelinden de indirilebilir. Ancak bu indirimler sonrası kalan tutar, malın imalatçısının satış bedelinden veya ithalatta hesaplanan katma değer vergisi matrahından düşük olamaz. Maliye Bakanlığı, bu hükmün uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.”
 
-MADDE 29 – 4760 sayılı Kanunun geçici 6 ncı maddesinde yer alan “31/12/2013” ibaresi “31/12/2023” şeklinde değiştirilmiştir.
+**MADDE 29 –** 4760 sayılı Kanunun geçici 6 ncı maddesinde yer alan “31/12/2013” ibaresi “31/12/2023” şeklinde değiştirilmiştir.
 
-MADDE 30 – 4760 sayılı Kanuna ekli (I) sayılı listenin (B) cetveli, ekli (1) sayılı cetvelde gösterildiği şekilde değiştirilmiştir.
+**MADDE 30 –** 4760 sayılı Kanuna ekli (I) sayılı listenin (B) cetveli, ekli (1) sayılı cetvelde gösterildiği şekilde değiştirilmiştir.
 
-MADDE 31 – 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 31 –** 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 31 – Bankacılık mevzuatının uygulanmasıyla ilgili olarak, Avrupa İnsan Hakları Mahkemesine yapılmış başvuru veya Avrupa İnsan Hakları Mahkemesinin kararı kapsamında karşılıklı olarak dostane çözüme ulaşılması hâlinde, ilgili kamu otoritesinin şikayet ya da yazılı başvurudan vazgeçme veya müdahillikten çekilme beyanının ilgili Cumhuriyet savcılığı veya mahkemeye ulaşması üzerine, dostane çözüm kapsamına giren fiiller nedeniyle yapılmakta olan soruşturma veya kovuşturmada şüpheli veya sanıklar hakkında kovuşturmaya yer olmadığı veya düşme kararı verilir.
 Yukarıdaki fıkra hükmü, bu maddenin yürürlüğe girdiği tarih itibarıyla derdest olan soruşturma veya kovuşturmalarla ilgili olarak uygulanır.”
 
-MADDE 32 – 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 5 inci maddesinin birinci fıkrasının (e) bendinin birinci paragrafındaki parantez içi hükmün sonuna aşağıdaki cümle eklenmiştir.
+**MADDE 32 –** 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 5 inci maddesinin birinci fıkrasının (e) bendinin birinci paragrafındaki parantez içi hükmün sonuna aşağıdaki cümle eklenmiştir.
 “Ancak, varlık kiralama şirketinden devralınan veya kaynak kuruluşça kira sözleşmesinden kaynaklanan yükümlülüklerin yerine getirilememesi hâli hariç olmak üzere, varlık kiralama şirketi tarafından söz konusu taşınmazların üçüncü kişi veya kurumlara satılması durumunda, bu varlıkların kaynak kuruluşta varlık kiralama şirketine devirden önceki kayıtlı değeri ile anılan kurumlarda ayrılan toplam amortisman tutarı dikkate alınarak satışı gerçekleştiren kurum nezdinde vergilendirme yapılır.”
 
-MADDE 33 – (1) Türkiye Yeşilay Cemiyeti tarafından bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde Türkiye Yeşilay Cemiyeti ile aynı amaçları gerçekleştirmek üzere merkezi İstanbul’da olan “Türkiye Yeşilay Vakfı” adında Vakıf kurulur.
+**MADDE 33 –** (1) Türkiye Yeşilay Cemiyeti tarafından bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde Türkiye Yeşilay Cemiyeti ile aynı amaçları gerçekleştirmek üzere merkezi İstanbul’da olan “Türkiye Yeşilay Vakfı” adında Vakıf kurulur.
 (2) Vakıf;
 a) Kurumlar vergisinden (iktisadi işletmeleri hariç),
 b) Yapılacak bağış ve yardımlar sebebiyle veraset ve intikal vergisinden,
 c) Her türlü muameleler dolayısıyla düzenlenen kağıtlar damga vergisinden, yapılan işlemler harçtan, müstesnadır.
 (3) Vakfa yapılacak nakdi bağış ve yardımların tamamı gelir ve kurumlar vergisi mükellefleri tarafından beyannameleri üzerinde bildirilen gelir veya kazançtan indirilebilir. Vakıf, Bakanlar Kurulunca vergi muafiyeti tanınan vakıflara diğer kanunlarla tanınan vergi, harç ve diğer istisna ve imkânlardan aynen yararlanır.
 (4) Vakfa, amaçlarını gerçekleştirmek üzere, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 29 uncu maddesi hükmüne tabi olmaksızın yardım yapılmak üzere, Sağlık Bakanlığı bütçesinde gerekli ödenek öngörülür.
-Yürürlük
+**Yürürlük**
 
-MADDE 34 – Bu Kanunun;
+**MADDE 34 –** Bu Kanunun;
 a) 2 nci maddesiyle düzenlenen 4250 sayılı Kanunun 6 ncı maddesinin beşinci ve yedinci fıkrası, bu maddenin yayımlandığı tarihten itibaren doksan gün sonra,
 b) 14, 15 ve 16 ncı maddeleri, 19/5/2013 tarihinden itibaren geçerli olmak üzere yayımı tarihinde,
 c) 32 nci maddesi, bu Kanunun yayımı tarihinden itibaren kaynak kuruluşlarca devredilen taşınmazlara uygulanmak üzere yayımı tarihinde,
 ç) Diğer hükümleri yayımı tarihinde, yürürlüğe girer.
 
-MADDE 35 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 35 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
-İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (h) bendi aşağıdaki şekilde değiştirilmiştir.
 “h) Çalışan sağlığı merkezi (ÇASMER): Sağlık Bakanlığına bağlı, işyerlerine iş sağlığı ve güvenliği hizmetleri sunmak üzere 6331 sayılı Kanun kapsamında yetkilendirilen, gerekli donanım ve personele sahip birimi,”

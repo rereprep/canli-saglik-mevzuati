@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-BULAŞICI HASTALIKLAR SÜRVEYANS VE KONTROL ESASLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**BULAŞICI HASTALIKLAR SÜRVEYANS VE KONTROL ESASLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 30/5/2007 tarihli ve 26537 sayılı Resmî Gazete’de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliğinin “Bildirime Esas Bulaşıcı Hastalıklar Listesi” başlıklı EK-1’ine aşağıdaki madde eklenmiştir.
+**MADDE 1 –** 30/5/2007 tarihli ve 26537 sayılı Resmî Gazete’de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliğinin “Bildirime Esas Bulaşıcı Hastalıklar Listesi” başlıklı EK-1’ine aşağıdaki madde eklenmiştir.
 “81. Covid-19 (yeni coronavirüs hastalığı)”
 
 MADDE 2 – Bu Yönetmelik 1/3/2020 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.

@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
-MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 4.1.4 numaralı maddesinin beşinci fıkrasının beşinci cümlesinde yer alan “diyaliz solüsyonları” ibaresinden sonra gelmek üzere “, eritropoietinler ve darbopoetinler” ibaresi eklenmiştir.
+**MADDE 1 –** 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 4.1.4 numaralı maddesinin beşinci fıkrasının beşinci cümlesinde yer alan “diyaliz solüsyonları” ibaresinden sonra gelmek üzere “, eritropoietinler ve darbopoetinler” ibaresi eklenmiştir.
 
 MADDE 2 – Aynı Tebliğin 4.2.35.B numaralı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “4.2.35.B-Kronik kas iskelet ağrısı ve fibromiyaljide ilaç kullanım ilkeleri

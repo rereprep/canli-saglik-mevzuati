@@ -29,11 +29,11 @@ DAĞITIM YERLERİNE
 
 Enfeksiyonun tanı sürecinde yaşanan gecikmeler HIV ile yaşayan bireylerin erken tedaviden tam olarak faydalanabilmesine engel olmaktadır. Benzer bulaş yolları ya da HIV enfeksiyonu ile ilişkili edinsel immun yetmezlik nedeniyle ortaya çıkmaları kolaylaştığı için bazı indikatör hastalıklar HIV ile yaşayan bireylerde daha sık görülmektedir. Belirli indikatör hastalığı olduğu saptanan bireylerde HIV tanı testi uygulanması ile kişinin erken tanı alması sağlanarak toplumda enfeksiyonun yayılma hızının azaltılabileceği bilinmektedir.
 
-Bu bağlamda HIV/AIDS enfeksiyonunun yayılımının önlenmesi ve HIV ile yaşayan kişilerde morbidite ve mortaliteyi azaltmak amacı ile ‘İndikatör hastalık varlığında HIV tanı testi uygulaması’ ülkemizdeki tüm sağlık kurum ve kuruluşlarında aşağıda yer aldığı şekilde uygulanacaktır:
+Bu bağlamda HIV/AIDS enfeksiyonunun yayılımının önlenmesi ve HIV ile yaşayan kişilerde morbidite ve mortaliteyi azaltmak amacı ile ‘**İndikatör hastalık varlığında HIV tanı testi uygulaması**’ ülkemizdeki tüm sağlık kurum ve kuruluşlarında aşağıda yer aldığı şekilde uygulanacaktır:
 
 İndikatör hastalık varlığında HIV tanı testi uygulaması
 
-1) Tüm sağlık kurum ve kuruluşlarında Ek-1’de yer alan “İndikatör Hastalık Listesi”nden en az birinin varlığında ilgili hekim tarafından Ek-2’de yer alan “Hekimlere Yönelik Bilgilendirme Notu”nda anlatıldığı şekilde, Ek-3’te yer alan ‘HIV Testi Bilgilendirme Formu’ doğrultusunda bilgilendirerek
+1) Tüm sağlık kurum ve kuruluşlarında **Ek-1’de** yer alan **“İndikatör Hastalık Listesi”nden** en az birinin varlığında ilgili hekim tarafından **Ek-2’de** yer alan **“Hekimlere Yönelik Bilgilendirme Notu”**nda anlatıldığı şekilde, **Ek-3’te** yer alan ‘**HIV Testi Bilgilendirme Formu’** doğrultusunda bilgilendirerek
 
 HIV tanı testi (Anti-HIV 1/2±p24 antijen ELISA testi) uygulanacaktır.
 
@@ -41,13 +41,13 @@ HIV tanı testi (Anti-HIV 1/2±p24 antijen ELISA testi) uygulanacaktır.
 
 HIV testi istenecektir.
 
-3) HIV tanı testi uygulamaları, Ek-4’de yer alan “HIV Tanı Testi Algoritmaları” doğrultusunda her yeni tanı alan hasta için yapılacaktır.
+3) HIV tanı testi uygulamaları, **Ek-4’de** yer alan “**HIV Tanı Testi Algoritmaları”** doğrultusunda her yeni tanı alan hasta için yapılacaktır.
 
 4) HIV/AIDS enfeksiyonuna yönelik tetkiklerin çalışılması ve sonucun bildirimi hususunda; 30/05/2007 tarihli ve 26537 sayılı Resmî Gazete’de yayımlanan Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları
 
 Yönetmeliği’nde yer alan usul ve esaslara göre uygulama sağlanacak, tetkikler hastanın etik ve kanuni haklarına, hastanın mahremiyetine yüksek düzeyde özen gösterilerek, gizlilik ilkelerine uygun olacak şekilde çalışılacaktır.
 
-5) Ülke genelinde yürütülen HIV doğrulama testi uygulaması sürecinde herhangi bir değişiklik olmamakla birlikte sağlık kuruluşlarında uygulanan HIV tanı testi sonucu Ek-4’te yer alan algoritmaya göre değerlendirilmelidir.
+5) Ülke genelinde yürütülen HIV doğrulama testi uygulaması sürecinde herhangi bir değişiklik olmamakla birlikte sağlık kuruluşlarında uygulanan HIV tanı testi sonucu **Ek-4’te** yer alan algoritmaya göre değerlendirilmelidir.
 
 6) Tekrarlayan test reaktivitesi saptanması durumunda tanının kesinleştirilmesini sağlamak üzere kan örneği
 

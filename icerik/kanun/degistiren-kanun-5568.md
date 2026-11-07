@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2006/12/20061230-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN KAMU
+T.C. Resmî Gazete Resmî Gazete **KANUN** KAMU
 FİNANSMANI VE BORÇ YÖNETİMİNİN DÜZENLENMESİ HAKKINDA KANUN, ÇALIŞANLARIN TASARRUFLARINI TEŞVİK HESABININ TASFİYESİ VE BU HESAPTAN YAPILACAK ÖDEMELERE DAİR KANUN, YATIRIMLARIN VE İSTİHDAMIN TEŞVİKİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN, BÜYÜKŞEHİR BELEDİYESİ KANUNU İLE BELEDİYE KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 5568 Kabul Tarihi : 26/12/2006
+**Kanun No. 5568 Kabul Tarihi : 26/12/2006**
 
 MADDE 1 – 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunun 4 üncü maddesinin beşinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 "Yıllık yatırım programında yer alan projelere dış finansman temini izni verilmesi için Devlet Planlama Teşkilatı Müsteşarlığının uygun görüşü aranır. Kuruluş, ihale mevzuatı dahil olmak üzere projelerle ilgili olarak tâbi olduğu mevzuata uymakla yükümlü olup, dış finansman temini izni verilmiş olması kuruluşun bu husustaki sorumluluğunu ortadan kaldırmaz. Teknik ve ekonomik açıdan yapılabilirliği de dahil olmak üzere proje ile ilgili her türlü sorumluluk tamamen ilgili kuruluşa aittir. Müsteşarlığın yetki ve sorumluluğu, talep edilen dış finansmanın sağlanması ve sonuçlandırılması ile sınırlıdır."

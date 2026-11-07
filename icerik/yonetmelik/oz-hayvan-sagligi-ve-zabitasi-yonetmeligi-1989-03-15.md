@@ -14,21 +14,21 @@ durum: "yürürlükte"
 
 ### YÖNETMELİĞİ
 
-Bakanlar Kurulu Kararının Tarihi : 22.2.1989 No : 89/13838
+**Bakanlar Kurulu Kararının Tarihi : 22.2.1989 No : 89/13838**
 
-Dayandığı Kanunun Tarihi : 8.5.1986 No : 3285
+**Dayandığı Kanunun Tarihi : 8.5.1986 No : 3285**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 15.3.1989 No : 20109
+**Yayımlandığı Resmî Gazetenin Tarihi : 15.3.1989 No : 20109**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 28 Sayfa : 1673
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 28 Sayfa : 1673**
 
 ### BİRİNCİ KISIM
 
-Genel Hükümler
+**Genel Hükümler**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Tanımlar
+**Amaç, Kapsam, Tanımlar**
 
 #### Amaç
 
@@ -78,7 +78,7 @@ Resmi Gazete'de yayımlanan ihbarı mecburi hastalıklardan biri veya bir kaçı
 
 ### İKİNCİ BÖLÜM
 
-Sınırlarda Sağlık Zabıtası
+**Sınırlarda Sağlık Zabıtası**
 
 #### Hayvan ve Hayvan Maddelerinin İthal ve İhraç Yeri
 
@@ -204,7 +204,7 @@ Bulaşık hayvan hastalığı dolayısıyle kapatılmış hudut kapılarından y
 
 **Madde 22 –** Ülkemizden yabancı memleketlere ihraç edilecek hayvanların ve hayvan maddelerinin sahipleri bu hayvanların ve hayvan maddelerinin menşelerinde salgın ve bulaşıcı hayvan hastalığı olmadığına dair belediyeden, belediye olmayan yerde köy muhtarlıklarından menşe şahadetnamesi alır ve veteriner sağlık raporu almak üzere hükümet veteriner hekimine müracaat eder.
 
-Hayvan ve hayvan maddesi ihraç edeceklerin hükümet veteriner hekimine müracaatları üzerine hükümet veteriner hekimi hayvan ve hayvan maddelerini muayene yerlerinde muayene eder. Belediye veya köy muhtarlığından alınmış olan menşe şahadetnamesine göre gerekli kontrolü yaptıktan sonra, ihraç edilecek hayvanlar sağlam ise yurtiçi veteriner sağlık raporunu düzenleyerek imza karşılığı hayvan sahibine verir. (Ek cümle: 12/7/2006-2006/10934 K.) Ancak, işletmede sorumlu veteriner hekimin bulunması halinde ithal edildikten sonra yeniden ihraç edilecek hayvan maddelerinde, sorumlu veteriner hekimin düzenleyeceği rapora istinaden menşe şahadetnamesi aranmaksızın veteriner sağlık raporu düzenlenir.
+Hayvan ve hayvan maddesi ihraç edeceklerin hükümet veteriner hekimine müracaatları üzerine hükümet veteriner hekimi hayvan ve hayvan maddelerini muayene yerlerinde muayene eder. Belediye veya köy muhtarlığından alınmış olan menşe şahadetnamesine göre gerekli kontrolü yaptıktan sonra, ihraç edilecek hayvanlar sağlam ise yurtiçi veteriner sağlık raporunu düzenleyerek imza karşılığı hayvan sahibine verir. **(Ek cümle: 12/7/2006-2006/10934 K.)** Ancak, işletmede sorumlu veteriner hekimin bulunması halinde ithal edildikten sonra yeniden ihraç edilecek hayvan maddelerinde, sorumlu veteriner hekimin düzenleyeceği rapora istinaden menşe şahadetnamesi aranmaksızın veteriner sağlık raporu düzenlenir.
 
 Yurtiçi veteriner sağlık raporu ile hudut kapısına, ihraç istasyonu veya iskelesine getirilen hayvanlar veya hayvan maddeleri hükümet veteriner hekimi tarafından muayene ve kontrol edilir. Yurtiçi veteriner sağlık raporunda belirtilen hususlara uygun bulunması halinde ihracata ait veteriner sağlık raporu tanzim edilerek ihracına izin verilir.
 
@@ -220,7 +220,7 @@ Veteriner sağlık raporunda belirtilen hususlara, genelge veya talimatlarda bel
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Hastalıkların Çıkışında Haberleşme, Hastalık İhbarı
+**Hastalıkların Çıkışında Haberleşme, Hastalık İhbarı**
 
 #### Köylerde Hastalık İhbarı
 
@@ -276,7 +276,7 @@ Silahlı Kuvvetlere ait hayvanlarda çıkan hastalığın söndürülmesi için 
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Hastalık Çıkışında Alınacak Genel Tedbirler
+**Hastalık Çıkışında Alınacak Genel Tedbirler**
 
 #### Veteriner Hekim Gelinceye Kadar Yapılacak İşlemler
 
@@ -312,7 +312,7 @@ Kordon ve karantinanın mahalli zabıta kuvvetleri ile korunması mümkün olmay
 
 **Madde 42 –** Kordon ve tecrit mahallerinde giriş-çıkış yasağı olan haller şunlardır:
 
-a) (Değişik: 10/12/2007-2007/12984 K.) Kordon altından veya tecrit yerlerinden hastalıklı, hastalıktan veya bulaşmadan şüpheli hayvanlar ile bunların maddelerinin ve bulaşmaya vasıta olabilecek eşya ve yemlerin çıkarılmasına müsaade olunmaz. Kordon altında bulunan yerleşim yerinde yetiştirilen kuduz şüpheli hayvanlar dışındaki hayvanlardan elde edilen sütler pastörizasyon veya sterilizasyon işlemlerinden birine tabi tutularak pastörize süt veya sterilize süt olarak tüketime sunulur.
+a) **(Değişik: 10/12/2007-2007/12984 K.)** Kordon altından veya tecrit yerlerinden hastalıklı, hastalıktan veya bulaşmadan şüpheli hayvanlar ile bunların maddelerinin ve bulaşmaya vasıta olabilecek eşya ve yemlerin çıkarılmasına müsaade olunmaz. Kordon altında bulunan yerleşim yerinde yetiştirilen kuduz şüpheli hayvanlar dışındaki hayvanlardan elde edilen sütler pastörizasyon veya sterilizasyon işlemlerinden birine tabi tutularak pastörize süt veya sterilize süt olarak tüketime sunulur.
 
 b) Kordon altındaki yer ile tecrit mahallerine, çıkan hastalığa hassas hayvanların girişine izin verilmez.
 
@@ -328,7 +328,7 @@ Hayvanların naklinde kullanılan vasıtalar hükümet veteriner hekimi nezareti
 
 Kordon altından veya tecrit yerinden kesilmek üzere mezbahaya veyahut diğer kesim yerlerine nakledilecek hayvanlar şap hastalığına yakalanmış ise nakil vasıtalarının kapalı ve hastaların akıntılarını sızdırmayacak yapılışta olması zorunludur. Kesilen hastalıklı hayvanların başları, memeleri ve ayakları derhal imha edilir. Derileri dezenfeksiyona tabi tutulur.
 
-(Ek: 5/6/1995 - 95/6966 K.) Diğer işlemler, bu Yönetmeliğin ikinci kısmının ikinci bölümünde yer alan hükümlere göre yapılır.
+**(Ek: 5/6/1995 - 95/6966 K.)** Diğer işlemler, bu Yönetmeliğin ikinci kısmının ikinci bölümünde yer alan hükümlere göre yapılır.
 
 #### Biyolojik Madde Uygulamaları
 
@@ -418,9 +418,9 @@ Kordon bölgesinden hastalığa tutulabilecek hayvanlara ait maddelerin dışın
 
 ### BEŞİNCİ BÖLÜM
 
-Koruma ve Tedavi Tedbirleri, Yurtiçinde Hayvan ve Hayvan
+**Koruma ve Tedavi Tedbirleri, Yurtiçinde Hayvan ve Hayvan**
 
-Maddelerinin Nakil ve Ticareti
+**Maddelerinin Nakil ve Ticareti**
 
 #### Koruyucu ve Tedavi Edici Maddelerin İmali ve Kontrolu
 
@@ -456,7 +456,7 @@ Hükümet veteriner hekimi nakledilecek etleri vasıtalara yüklemeden önce mua
 
 Özel mezbaha, kombina ve kesim yerlerinden il veya ilçelere nakledilecek etler sorumlu veteriner hekim tarafından Bakanlıkça verilmiş numarayı taşıyan damga ile mühürlenir. Müessesenin sorumlu veteriner hekimi tarafından tanzim edilen ve etlerin sağlıklı hayvanlardan istihsal edildiğini belgeleyen rapor, o yerdeki il veya ilçe hükümet veteriner hekimi tarafından gerekli kontrollar yapıldıktan sonra veterinir sağlık raporuna çevrilir. Etlerin nakledildikleri ve satıldıkları yerlerdeki kontrolu belediyece yapılır. Bakanlıkça verilmiş numarayı taşıyan damga ile mühürlenmiş etler nakledildikleri yerin mezbahasında ikinci defa mühürlenmez. Buralarda işlenmiş et ve ürünlerinin naklinde menşe şahadetnamesi ve veteriner sağlık raporu istenmez. Salgın ve bulaşıcı hayvan hastalığı çıktığında hayvan sağlık zabıtası komisyonunca alınacak kararlar uygulanır.
 
-(Ek fıkra: 12/7/2006-2006/10934 K.) Kırmızı ve beyaz et mezbaha veya kombinalarından, veteriner sağlık raporu ile başka il veya ilçedeki ruhsatlı soğuk hava deposuna nakledilen etlerin, buradan tekrar başka il veya ilçeye sevklerinde, soğuk hava deposunda sorumlu yönetici veteriner hekim ise düzenleyeceği rapora istinaden gerekli muayene ve kontroller yapıldıktan sonra veteriner sağlık raporu düzenlenir. Menşe şahadetnamesi istenmez.
+**(Ek fıkra: 12/7/2006-2006/10934 K.)** Kırmızı ve beyaz et mezbaha veya kombinalarından, veteriner sağlık raporu ile başka il veya ilçedeki ruhsatlı soğuk hava deposuna nakledilen etlerin, buradan tekrar başka il veya ilçeye sevklerinde, soğuk hava deposunda sorumlu yönetici veteriner hekim ise düzenleyeceği rapora istinaden gerekli muayene ve kontroller yapıldıktan sonra veteriner sağlık raporu düzenlenir. Menşe şahadetnamesi istenmez.
 
 #### Hayvan Maddelerinin Nakli
 
@@ -464,15 +464,15 @@ Hükümet veteriner hekimi nakledilecek etleri vasıtalara yüklemeden önce mua
 
 Deri, yün, yapağı ve tiftik nakli muhtarlık veya belediyeden alınan menşe şahadetnamesinin Bakanlık il veya ilçe müdürlüğünde görevli hükümet veteriner hekimince veteriner sağlık raporuna çevrilmesiyle yapılır.
 
-(Ek fıkra: 12/7/2006-2006/10934 K.) Ancak, kırmızı ve beyaz et mezbaha veya kombinalarından başka il veya ilçelere nakledilecek hayvan maddeleri için müessesenin sorumlu veteriner hekimi tarafından tanzim edilen ve hayvan maddelerinin sağlıklı hayvanlardan istihsal edildiğini belgeleyen rapor, il veya ilçe hükümet veteriner hekimi tarafından gerekli muayene ve kontroller yapıldıktan sonra veteriner sağlık raporuna dönüştürülür. Menşe şahadetnamesi istenmez.
+**(Ek fıkra: 12/7/2006-2006/10934 K.)** Ancak, kırmızı ve beyaz et mezbaha veya kombinalarından başka il veya ilçelere nakledilecek hayvan maddeleri için müessesenin sorumlu veteriner hekimi tarafından tanzim edilen ve hayvan maddelerinin sağlıklı hayvanlardan istihsal edildiğini belgeleyen rapor, il veya ilçe hükümet veteriner hekimi tarafından gerekli muayene ve kontroller yapıldıktan sonra veteriner sağlık raporuna dönüştürülür. Menşe şahadetnamesi istenmez.
 
 #### Yurt İçinde Hayvanların Nakli
 
 **Madde 68 –** İl veya ilçelerden başka il veya ilçelere hayvan naklinde sahiplerince belediyeden veya köy muhtarlığından menşe şahadetnamesi alınır. Tespit edilmiş muayene yerinde hayvanlar hükümet veteriner hekimince muayene ve kontrol edilir. Muayene yeri dışındaki hayvanların muayenesi sahiplerince temin olunacak vasıta ile mahalline gidilerek yapılır. Sağlıklı bulunanlar Bakanlıkça verilen talimata göre işaretlenir. Belediyece verilen menşe şahadetnamesi hükümet veteriner hekimi tarafından veteriner sağlık raporuna çevrilir.
 
-(Ek fıkra: 12/7/2006-2006/10934 K.) Ancak, Bakanlık veri tabanına kayıtlı, işletme tescil belgesi bulunan gezginci arıcılar, her yılın ilk hareketinde arılarını başka il veya ilçelere sevk ederken, menşe şahadetnamesi alarak veteriner sağlık raporu düzenlenmesi için il veya ilçe müdürlüklerine başvurur. Aynı yıl içinde 31 Aralık tarihine kadar yapacakları hareketler için, bir önceki sağlık raporunu ibraz ederek, gerekli sağlık muayene ve kontrollerin yapılmasından sonra yeni veteriner sağlık raporu düzenlenir. Menşe şahadetnamesi istenmez.
+**(Ek fıkra: 12/7/2006-2006/10934 K.)** Ancak, Bakanlık veri tabanına kayıtlı, işletme tescil belgesi bulunan gezginci arıcılar, her yılın ilk hareketinde arılarını başka il veya ilçelere sevk ederken, menşe şahadetnamesi alarak veteriner sağlık raporu düzenlenmesi için il veya ilçe müdürlüklerine başvurur. Aynı yıl içinde 31 Aralık tarihine kadar yapacakları hareketler için, bir önceki sağlık raporunu ibraz ederek, gerekli sağlık muayene ve kontrollerin yapılmasından sonra yeni veteriner sağlık raporu düzenlenir. Menşe şahadetnamesi istenmez.
 
-( Ek fıkra: 12/7/2006-2006/10934 K.) Bakanlık veri tabanına kayıtlı, işletme tescil belgesi bulunan pedigri/pasaportlu yarış atlarının hareketlerinde menşe şahadetnamesi aranmaz. Ancak, pedigri/pasaportun bulundurulması zorunludur. İl veya ilçeler arası sevklerinde pedigri/pasaport kontrol edildikten sonra veteriner sağlık raporu düzenlenir.
+( **Ek fıkra: 12/7/2006-2006/10934 K.)** Bakanlık veri tabanına kayıtlı, işletme tescil belgesi bulunan pedigri/pasaportlu yarış atlarının hareketlerinde menşe şahadetnamesi aranmaz. Ancak, pedigri/pasaportun bulundurulması zorunludur. İl veya ilçeler arası sevklerinde pedigri/pasaport kontrol edildikten sonra veteriner sağlık raporu düzenlenir.
 
 #### Nakillerde Sağlık Raporu Mecburiyeti
 
@@ -504,7 +504,7 @@ Menşe şahadetnamesiz ve veteriner sağlık raporsuz sevk edildikleri görevlil
 
 Veteriner sağlık raporları biri dairesinde bırakılan dip koçan, diğeri sahibine/ihracatçıya verilen rapor olarak düzenlenir. Her ikisinde de hayvan ve hayvan maddesinin sahibi veya nakliyecinin adı soyadı, adresi, nakledilen hayvan veya maddenin nev'i, cinsi, miktarı (kiloadet), çıktığı yer, varış yeri, menşe şahadetnamesinin alındığı yer ve tarihi, aşı ve biyolojik madde tatbik edildiyse seri numarası ve tarihi yazılır. Düzenleyen veteriner hekimi adını, soyadını, Bakanlık sicil numarasını, tarihini yazar ve imzalar; resmi mühürle mühürler. Gerekli durumlarda nakledenin hüviyeti tespit edilerek dip koçana yazılır. Rapor imza karşılığı nakledene verilir.
 
-(Son fıkra Mülga: 5/6/1995 - 95/6966 K.)
+**(Son fıkra Mülga: 5/6/1995 - 95/6966 K.)**
 
 #### Nakillerde Menşe Şahadetnamesi ve Veteriner Sağlık Raporu Aranması
 
@@ -576,7 +576,7 @@ Sürü sahipleri mera ve yaylalara hareket etmeden 20 gün önce koruyucu olarak
 
 ### ALTINCI BÖLÜM
 
-Hastalıklarla Mücadele ve Denetim
+**Hastalıklarla Mücadele ve Denetim**
 
 #### Mahalli İdarelerin Yükümlülüğü
 
@@ -616,7 +616,7 @@ e) Hayvan sağlık zabıtası komisyonu mahallince yapılması mümkün olmayan 
 
 ### YEDİNCİ BÖLÜM
 
-Kesilecek Hayvanlar ile Etlerin ve Hayvan Maddelerinin Muayeneleri
+**Kesilecek Hayvanlar ile Etlerin ve Hayvan Maddelerinin Muayeneleri**
 
 #### Hayvan Kesimi
 
@@ -798,11 +798,11 @@ Kaçak kesimde hayvana ait iç organlar beraberinde ise, etler zabıtaca el konu
 
 ### İKİNCİ KISIM
 
-Özel Hükümler
+**Özel Hükümler**
 
 ### BİRİNCİ BÖLÜM
 
-Sınırlarda Sağlık Zabıtası ve Karantina Tedbirleri
+**Sınırlarda Sağlık Zabıtası ve Karantina Tedbirleri**
 
 #### Önemli Hastalıklarda Alınacak Tedbirler
 
@@ -864,7 +864,7 @@ k) Durin hastalığına yakalanmış veya hastalıktan şüpheli aygır ve kısr
 
 ### İKİNCİ BÖLÜM
 
-Yurt İçinde Sağlık Zabıtası ve Karantina Tedbirleri
+**Yurt İçinde Sağlık Zabıtası ve Karantina Tedbirleri**
 
 #### Sığır Vebası Hastalığı
 
@@ -930,9 +930,9 @@ j) Şap hastalığını takiple görevlendirilen hükümet veteriner hekimi hast
 
 k) Şap hastalığı sebebi ile konulan karantina son hastanın iyileşmesinden veya ölümünden 15 gün sonra hükümet veteriner hekiminin kontrolunda yapılan dezenfeksiyonla kaldırılır.
 
-l) (Değişik: 5/6/1995 - 95/6966 K.) Bakanlıkça her yıl tespit ve ilan edilen mücadele bölgelerinde hastalığın varlığı ve tipi tesbit edilen hayvanlar tazminatlı olarak öldürülür veya kestirilir. Hastalıktan ölen veya öldürülen hayvanlar iki metre derinliğindeki çukurlara üzerlerine sönmemiş kireç dökülerek gömülür. Mümkün olmadığı hallerde tamamen yakılarak imha edilir.
+l) **(Değişik: 5/6/1995 - 95/6966 K.)** Bakanlıkça her yıl tespit ve ilan edilen mücadele bölgelerinde hastalığın varlığı ve tipi tesbit edilen hayvanlar tazminatlı olarak öldürülür veya kestirilir. Hastalıktan ölen veya öldürülen hayvanlar iki metre derinliğindeki çukurlara üzerlerine sönmemiş kireç dökülerek gömülür. Mümkün olmadığı hallerde tamamen yakılarak imha edilir.
 
-m) (Ek: 5/6/1995 - 95/6966 K.) Şap hastalığı ile mücadele için alınacak diğer karar ve tedbirler ile Bakanlıkça her yıl tesbit ve ilan edilen mücadele bölgelerindeki uygulama esasları Bakanlıkça belirlenir.
+m) **(Ek: 5/6/1995 - 95/6966 K.)** Şap hastalığı ile mücadele için alınacak diğer karar ve tedbirler ile Bakanlıkça her yıl tesbit ve ilan edilen mücadele bölgelerindeki uygulama esasları Bakanlıkça belirlenir.
 
 #### Şarbon Hastalığı
 
@@ -1144,7 +1144,7 @@ f) Kuduz hastalığına yakalanmış veya hastalıktan şüpheli bir köpek mü�
 
 g) Sahipli kedi ve köpeklerin kuduz hastalığına karşı aşılanması mecburidir. Şehirlerde belediyelerce, köylerde muhtarlıklarca sahipli köpek ve kedilerin kaydı tutulur. Bu kayıtlar hükümet veteriner hekimince denetlenir. Köpekler üç aylık kediler altı aylık olduklarında ilk defa aşılanırlar. Her yıl aşı tekrarlanır. Aşılanan hayvanlar için aşı belgesi düzenlenir. Belgesizler öldürülür ve imha edilir.
 
-h) (Değişik: 10/12/2007-2007/12984 K.) Kuduz hastalığından veya bulaşmadan şüphe edilen hayvanların bulundukları yerin dışına çıkarılmasına izin verilmez. Bu hayvanların kesilmesi ve etlerinin tüketilmesi yasaktır, sütleri imha edilir. Kuduz hastalığı çıkan işletme dışındaki hayvanlardan elde edilen sütler, pastörizasyon veya sterilizasyon işlemlerinden birine tabi tutularak pastörize süt veya sterilize süt olarak tüketime sunulur.
+h) **(Değişik: 10/12/2007-2007/12984 K.)** Kuduz hastalığından veya bulaşmadan şüphe edilen hayvanların bulundukları yerin dışına çıkarılmasına izin verilmez. Bu hayvanların kesilmesi ve etlerinin tüketilmesi yasaktır, sütleri imha edilir. Kuduz hastalığı çıkan işletme dışındaki hayvanlardan elde edilen sütler, pastörizasyon veya sterilizasyon işlemlerinden birine tabi tutularak pastörize süt veya sterilize süt olarak tüketime sunulur.
 
 i) Belediyeler ve köy muhtarlıkları kuduz hastalığından veya bulaşmadan şüpheli hayvanların müşahedeye alınabilecekleri yeri temin etmek zorundadır.
 
@@ -1384,11 +1384,11 @@ f) Karantina, yetiştiricilik yapılan işletmelerde tüm balıklar elde çıkar
 
 ### ÜÇÜNCÜ KISIM
 
-Müşterek Hükümler
+**Müşterek Hükümler**
 
 ### BİRİNCİ BÖLÜM
 
-Tazminat
+**Tazminat**
 
 #### Tazminat Verilecek Hastalıklar
 
@@ -1406,7 +1406,7 @@ e) Serolojik veya bakteriyolojik muayene sonucunda sığır bruselloz hastalığ
 
 f) Sığır vebası ve at vebası hastalıklarına yakalandıkları hükümet veteriner hekimince tesbit edilen sığır ve atların takdir edilecek kıymetlerinin tamamı,
 
-g) (Ek: 5/6/1995 - 95/6966 K.) Şap hastalığında, Bakanlıkça her yıl tesbit ve ilan edilen mücadele bölgelerinde hastalığın açık belirtisini gösteren ve laboratuvarlarca hastalığın varlığı ve tipi tespit edildikten sonra öldürülen veya kestirilen hayvanların takdir edilecek kıymetlerinin tamamı, hastalığın açık belirtisini göstermeyen ancak laboratuvarda hastalığın varlığı tesbit edildikten sonra kestirilen hayvanların ise takdir edilecek kıymetlerinin dörtte üçü,
+g) **(Ek: 5/6/1995 - 95/6966 K.)** Şap hastalığında, Bakanlıkça her yıl tesbit ve ilan edilen mücadele bölgelerinde hastalığın açık belirtisini gösteren ve laboratuvarlarca hastalığın varlığı ve tipi tespit edildikten sonra öldürülen veya kestirilen hayvanların takdir edilecek kıymetlerinin tamamı, hastalığın açık belirtisini göstermeyen ancak laboratuvarda hastalığın varlığı tesbit edildikten sonra kestirilen hayvanların ise takdir edilecek kıymetlerinin dörtte üçü,
 
 h) İhbarı zorunlu olan hastalıklardan birine karşı koruma maksadı ile hükümet veteriner hekimi veya hükümet veteriner hekiminin sorumluluğunda veteriner sağlık teknisyeni tarafından yapılan aşı, serum ve ilaç uygulamaları yüzünden öldükleri mutlak surette otopsi ve laboratuvar muayeneleri ile tesbit edilen hayvanların takdir edilecek kıymetlerinin tamamı,[5]
 
@@ -1420,7 +1420,7 @@ Tazminat; hasta, hastalıktan ve bulaşmadan şüpheli hayvanların hükümet ve
 
 **Madde 135 –** Resmi kuruluşlarla belediyelere ait ve tazminatlı bir hastalığa yakalandıkları anlaşılan veya test uygulaması yahut laboratuvar muayenesi sonucunda hastalıklı oldukları tesbit edilen hayvanlar için tazminat ödenmez.
 
-Tazminatlı hastalığa yakalanan ve sahipleri tarafından hastalığı haber verilmemiş hayvanlar veya hastalıklı oldukları bilinerek satın alınmış olanlar ile menşe şehadetnamesi veya veteriner sağlık raporu olmadan sevk olunan yahut hükümet veteriner hekimine muayene ettirilmeden ölen hayvanlar için tazminat verilmez. (Ek cümle: 5/6/1995 - 95/6966 K.) Şap hastalığında, Bakanlıkça her yıl tespit ve ilan edilen diğer mücadele bölgelerinde, 108 inci maddede belirtilen hükme göre çıkarılacak olan Bakanlık talimatında yer alan usul ve esaslara uymayanlara tazminat ödenmez.
+Tazminatlı hastalığa yakalanan ve sahipleri tarafından hastalığı haber verilmemiş hayvanlar veya hastalıklı oldukları bilinerek satın alınmış olanlar ile menşe şehadetnamesi veya veteriner sağlık raporu olmadan sevk olunan yahut hükümet veteriner hekimine muayene ettirilmeden ölen hayvanlar için tazminat verilmez. **(Ek cümle: 5/6/1995 - 95/6966 K.)** Şap hastalığında, Bakanlıkça her yıl tespit ve ilan edilen diğer mücadele bölgelerinde, 108 inci maddede belirtilen hükme göre çıkarılacak olan Bakanlık talimatında yer alan usul ve esaslara uymayanlara tazminat ödenmez.
 
 İhbarı zorunlu hastalıklardan birisinin çıktığı hayvan sağlık zabıtası komisyonunun hastalık çıkış kararında belirtildiği ve aşılama veya ilaçlama yahut test uygulanmasına karar verildiği halde, hastalıklarda bunları uygulatmayan hayvan sahiplerine de tazminat ödenmez.
 
@@ -1447,12 +1447,12 @@ Tazminatlı hastalığa yakalanan ve sahipleri tarafından hastalığı haber ve
 | Tarihi | Numarası | Değiştirilen Maddeler | Yürürlüğe Giriş Tarihi |
 | 5/6/1995 8/7/1998 5/8/1999 4/10/2000 31/1/2001 15/2/2002 25/3/2003 2/5/2003 5/12/2003 16/2/2004 12/7/2006 10/12/2007 21/3/2008 12/1/2009 2/3/2009 | 95/6966 98/11429 99/13213 2000/1418 2001/2012 2002/3743 2003/5407 2003/5575 2003/6562 2004/6886 2006/10934 2007/12984 2008/13436 2009/14595 2009/14756 | - - - - - - - - - 92/A 15, 22, 66, 67 ve 68 42, 119 116 117 110, 114, 115 | 10/7/1995 3/8/1998 11/9/1999 8/11/2000 27/2/2001 25/3/2002 11/4/2003 15/5/2003 2/1/2004 2/3/2004 5/10/2006 4/1/2008 10/4/2008 4/2/2009 14/3/2009 |
 
-<small>[1] Bu madde başlığı “Newcastle Hastalığı” iken, 5/12/2003 tarihli ve 2003/6562 sayılı Bakanlar Kurulu Kararı eki Yönetmeliğin 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[1] <i>Bu madde başlığı “Newcastle Hastalığı” iken, 5/12/2003 tarihli ve 2003/6562 sayılı Bakanlar Kurulu Kararı eki Yönetmeliğin 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[2] Bu madde başlığı "Uyuz Hastalığı" iken, 5/8/1999 tarih ve 99/13213 sayılı Bakanlar Kurulu Kararının 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[2] <i>Bu madde başlığı "Uyuz Hastalığı" iken, 5/8/1999 tarih ve 99/13213 sayılı Bakanlar Kurulu Kararının 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[3] Bu Yönetmeliğe, 5/8/1999 tarih ve 99/13213 sayılı Bakanlar Kurulu Kararı ile 122 nci maddeden sonra 123 ila 131 inci maddeler eklenmiş ve 131 inci maddeden sonra gelen önceki madde numaraları aynı yönetmelikle 132 nci maddeden başlayarak teselsül ettirilmiştir.</small>
+<small>[3] <i>Bu Yönetmeliğe, 5/8/1999 tarih ve 99/13213 sayılı Bakanlar Kurulu Kararı ile 122 nci maddeden sonra 123 ila 131 inci maddeler eklenmiş ve 131 inci maddeden sonra gelen önceki madde numaraları aynı yönetmelikle 132 nci maddeden başlayarak teselsül ettirilmiştir.</i></small>
 
-<small>[4] Bu maddenin birinci fıkrasının ilk cümlesinin başına, 5/6/1995 tarihli ve 95/6966 sayılı Bakanlar Kurulu Kararıyla "Şap" sözcüğü eklenmiş ve metne işlenmiştir.</small>
+<small>[4] <i>Bu maddenin birinci fıkrasının ilk cümlesinin başına, 5/6/1995 tarihli ve 95/6966 sayılı Bakanlar Kurulu Kararıyla "Şap" sözcüğü eklenmiş ve metne işlenmiştir.</i></small>
 
-<small>[5] Ana Yönetmelikte (g) bendi olan bu bent, 5/6/1995 tarih ve 95/6966 sayılı Bakanlar Kurulu Kararıyla (h) bendi olarak değiştirilmiştir.</small>
+<small>[5] <i>Ana Yönetmelikte (g) bendi olan bu bent, 5/6/1995 tarih ve 95/6966 sayılı Bakanlar Kurulu Kararıyla (h) bendi olarak değiştirilmiştir.</i></small>

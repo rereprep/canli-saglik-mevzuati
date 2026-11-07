@@ -12,11 +12,11 @@ durum: "yürürlükte"
 ---
 
 Tarım ve Orman Bakanlığından:
-TÜRK GIDA KODEKSİ BEBEK FORMÜLLERİ VE DEVAM FORMÜLLERİ TEBLİĞİ
-(TEBLİĞ NO: 2019/14)’NDE DEĞİŞİKLİK YAPILMASINA
-DAİR TEBLİĞ
-(TEBLİĞ NO:
-2022/15)
+**TÜRK GIDA KODEKSİ BEBEK FORMÜLLERİ VE DEVAM FORMÜLLERİ TEBLİĞİ**
+**(TEBLİĞ NO: 2019/14)’NDE DEĞİŞİKLİK YAPILMASINA**
+**DAİR TEBLİĞ**
+**(TEBLİĞ NO:**
+**2022/15)**
 
 MADDE 1- 2/7/2019 tarihli ve 30819 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Bebek Formülleri ve Devam Formülleri Tebliği (Tebliğ No: 2019/14)’nin Ek-1’indeki “2.PROTEİN” başlığı altında yer alan 2.3 numaralı madde aşağıdaki şekilde değiştirilmiştir.
 “2.3.

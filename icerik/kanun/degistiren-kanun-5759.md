@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/05/20080508-5.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-TÜRK CEZA KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5759 Kabul Tarihi: 30/4/2008
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**TÜRK CEZA KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5759 Kabul Tarihi: 30/4/2008**
 
 MADDE 1 – 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 301 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "Türk Milletini, Türkiye Cumhuriyeti Devletini, Devletin kurum ve organlarını aşağılama

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705-5.htm"
 durum: "yürürlükte"
 ---
 
-Resmî Gazete KANUN
+Resmî Gazete **KANUN**
 DAHİLİYE MEMURLARI KANUNU, İL İDARESİ KANUNU, İÇİŞLERİ BAKANLIĞI TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN VE DEVLET MEMURLARI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5540 Kabul Tarihi : 1/7/2006
+**Kanun No. 5540 Kabul Tarihi : 1/7/2006**
 
 MADDE 1 – 9/6/1930 tarihli ve 1700 sayılı Dahiliye Memurları Kanununa aşağıdaki ek maddeler eklenmiştir.
 "Birinci sınıfa ayrılma şartları EK

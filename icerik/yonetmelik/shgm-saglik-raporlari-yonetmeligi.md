@@ -12,13 +12,13 @@ durum: "yürürlükte"
 
 ### SAĞLIK RAPORLARI YÖNETMELİĞİ
 
-Cumhurbaşkanı Kararının Tarihi: 18/5/2026 Sayısı:11361
+**Cumhurbaşkanı Kararının Tarihi: 18/5/2026 Sayısı:11361**
 
-Yayımlandığı Resmî Gazetenin Tarihi: 19/5/2026 Sayısı: 33258
+**Yayımlandığı Resmî Gazetenin Tarihi: 19/5/2026 Sayısı: 33258**
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -76,7 +76,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Başvuru, Muayene Esasları ve Sağlık Kurullarının Teşkili
+**Başvuru, Muayene Esasları ve Sağlık Kurullarının Teşkili**
 
 #### Sağlık durum belgesi
 
@@ -194,7 +194,7 @@ branş hekimlerinden oluşur. Sağlık kurulu başkanının zorunlu branşlardan
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İstirahat Raporları
+**İstirahat Raporları**
 
 #### İstirahat raporlarının düzenlenmesi ve tasdiki
 
@@ -214,7 +214,7 @@ branş hekimlerinden oluşur. Sağlık kurulu başkanının zorunlu branşlardan
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Engelli Sağlık Kurulu Raporları
+**Engelli Sağlık Kurulu Raporları**
 
 #### Engelli sağlık kurulu raporlarının düzenlenmesi
 
@@ -238,9 +238,9 @@ d) Engelli sağlık kurulu raporlarına sürücü belgesi sınıfı, özel terti
 
 ### BEŞİNCİ BÖLÜM
 
-Emniyet Teşkilatına Alınacak Öğrenciler ve Memurlar Hakkında Düzenlenecek Sağlık Kurulu Raporu
+**Emniyet Teşkilatına Alınacak Öğrenciler ve Memurlar Hakkında Düzenlenecek Sağlık Kurulu Raporu**
 
-Emniyet teşkilatına alınacak öğrenciler ve memurlar hakkında düzenlenecek sağlık kurulu raporlarının düzenlenmesi
+**Emniyet teşkilatına alınacak öğrenciler ve memurlar hakkında düzenlenecek sağlık kurulu raporlarının düzenlenmesi**
 
 **MADDE 14 –** (1) Polis eğitim ve öğretim kurumları öğrenci adayları, öğrencileri ve emniyet teşkilatına ataması yapılacak olan Devlet memuru ve sözleşmeli personel adayları ile emniyet teşkilatında çalışmakta olan bütün hizmet sınıflarına ait personel için tam teşekküllü sağlık kurulu raporu düzenlenir.
 
@@ -258,7 +258,7 @@ Emniyet teşkilatına alınacak öğrenciler ve memurlar hakkında düzenlenecek
 
 ### ALTINCI BÖLÜM
 
-Silah Bulundurma veya Taşıma Ruhsatı Alacak Kişilere Verilecek Sağlık Raporu
+**Silah Bulundurma veya Taşıma Ruhsatı Alacak Kişilere Verilecek Sağlık Raporu**
 
 #### Yivli silah ruhsatı almak isteyenlerin muayenelerine ilişkin genel esaslar
 
@@ -362,7 +362,7 @@ olanlara olumlu sağlık raporu verilmez.
 
 ### YEDİNCİ BÖLÜM
 
-Diğer Raporlar
+**Diğer Raporlar**
 
 #### Özel güvenlik görevlisi adayları için verilecek sağlık kurulu raporu
 
@@ -420,23 +420,23 @@ c) Göz hastalıkları açısından görme şartları, düzeltmeli veya düzeltm
 
 #### Evlilik öncesi durum bildirir sağlık raporu
 
-**MADDE 27 –** (1) Evlilik öncesi sağlık raporu, kişilerin evlenmeye engel bir hastalığının bulunmadığını gösteren sağlık raporudur. Evlilik öncesi sağlık raporunun, eş adaylarından birinin kayıtlı olduğu aile hekimi veya başka bir hekim tarafından eş adaylarının birlikte başvurmaları suretiyle düzenlenmesi esastır.
+**MADDE 27 –** (1) **Evlilik öncesi sağlık raporu, kişilerin evlenmeye engel bir hastalığının bulunmadığını gösteren sağlık raporudur. Evlilik** öncesi sağlık raporunun, eş adaylarından birinin kayıtlı olduğu aile hekimi veya başka bir hekim tarafından eş adaylarının birlikte başvurmaları suretiyle düzenlenmesi esastır.
 
-(2) Başvuru için her iki eş adayının, Bakanlığın elektronik sağlık sistemleri üzerinden evlilik öncesi sağlık raporu başvuru ve aydınlatılmış onam formu ile evlilik öncesi muayene bilgi formunu doldurmaları gerekir.
+**(2) Başvuru için her iki eş adayının, Bakanlığın elektronik sağlık sistemleri üzerinden evlilik öncesi sağlık raporu başvuru ve aydınlatılmış onam formu ile evlilik öncesi muayene bilgi formunu doldurmaları gerekir.**
 
-(3) Eş adaylarının anamnez işlemleri ve fizik muayeneleri ayrı ayrı yapılır, ancak evlilik öncesi danışmanlık hizmetlerinin eş adaylarına birlikte verilmesi esastır.
+**(3) Eş adaylarının anamnez işlemleri ve fizik muayeneleri ayrı ayrı yapılır, ancak evlilik öncesi danışmanlık hizmetlerinin eş adaylarına birlikte verilmesi esastır.**
 
-(4) Süreç boyunca kişisel verilerin korunması ile ilgili mevzuat hükümlerine göre eş adaylarının özel yaşamının gizliliği ve mahremiyeti ile hasta haklarına özen gösterilir.
+**(4) Süreç boyunca kişisel verilerin korunması ile ilgili mevzuat hükümlerine göre eş adaylarının özel yaşamının gizliliği ve mahremiyeti ile hasta haklarına özen gösterilir.**
 
-(5) Muayene ve laboratuvar tetkikleri ile gerekli durumlarda görüntüleme tetkikleri yapılır.
+**(5) Muayene ve laboratuvar tetkikleri ile gerekli durumlarda görüntüleme tetkikleri yapılır.**
 
-(6) Eş adaylarına, Bakanlıkça yayımlanan evlilik öncesi danışmanlık rehberine göre danışmanlık hizmeti verilir.
+**(6) Eş adaylarına, Bakanlıkça yayımlanan evlilik öncesi danışmanlık rehberine göre danışmanlık hizmeti verilir.**
 
-(7) Test sonuçlarında herhangi bir sorun saptanmaması durumunda; hekim tarafından kişilerin tekrar fiziki olarak başvurmasına gerek kalmaksızın Bakanlıkça belirlenen formatta evlilik öncesi sağlık raporu düzenlenerek elektronik ortamda onaylanır ve kişilerin Bakanlığın elektronik sağlık sistemleri üzerinden rapora erişimi sağlanır.
+**(7) Test sonuçlarında herhangi bir sorun saptanmaması durumunda; hekim tarafından kişilerin tekrar fiziki olarak başvurmasına gerek kalmaksızın Bakanlıkça belirlenen formatta evlilik öncesi sağlık raporu düzenlenerek elektronik ortamda onaylanır ve kişilerin Bakanlığın elektronik sağlık sistemleri üzerinden rapora erişimi sağlanır.**
 
-(8) Evlilik öncesi sağlık raporu formatında belirlenen hususlar dışında, raporda laboratuvar sonuçları, hastalık tanıları gibi ilave bilgilere yer verilemez ve belge eklenemez.
+**(8) Evlilik öncesi sağlık raporu formatında belirlenen hususlar dışında, raporda laboratuvar sonuçları, hastalık tanıları gibi ilave bilgilere yer verilemez ve belge eklenemez.**
 
-(9) Evlilik öncesi danışmanlık, muayene ve sağlık raporu verilmesine ilişkin süreçler, Bakanlıkça yayımlanan evlilik öncesi sağlık raporu usul ve esaslarına uygun olarak yürütülür.
+**(9) Evlilik öncesi danışmanlık, muayene ve sağlık raporu verilmesine ilişkin süreçler, Bakanlıkça yayımlanan evlilik öncesi sağlık** raporu usul ve esaslarına uygun olarak yürütülür.
 
 #### Maluliyet tespit işlemleri
 
@@ -500,7 +500,7 @@ c) Göz hastalıkları açısından görme şartları, düzeltmeli veya düzeltm
 
 (4) Öğrenciye sağlık mazereti sebebiyle öğrenim yeri değişikliği sağlık raporu verilebilmesi için hastalık tanısının Bakanlıkça yayımlanmış tanılar arasında olması gerekir.
 
-Yaşlı bakım merkezleri, huzurevleri, kadın konukevleri, yurt gibi toplu yaşam alanlarında kalmak amaçlı sağlık raporu
+**Yaşlı bakım merkezleri, huzurevleri, kadın konukevleri, yurt gibi toplu yaşam alanlarında kalmak amaçlı sağlık raporu**
 
 **MADDE 33 –** (1) Toplu yaşam merkezlerinde kalmak amacıyla düzenlenecek raporlar, Bakanlıkça belirlenen durum bildirir tek hekim sağlık raporu formatında düzenlenir.
 
@@ -520,7 +520,7 @@ Yaşlı bakım merkezleri, huzurevleri, kadın konukevleri, yurt gibi toplu yaş
 
 **MADDE 35 –** (1) Sürücü sağlık raporu, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 41 inci maddesinin ikinci fıkrasına dayanılarak çıkarılan yönetmelik ve bu Yönetmeliğe göre e-Rapor sistemi üzerinden düzenlenir.
 
-Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı aday, öğrenci ve personel sağlık raporları
+**Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı aday, öğrenci ve personel sağlık raporları**
 
 **MADDE 36 –** (1) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personeli, öğrencileri ve bunların adayları ile askerlik yükümlülerinin görevlerine uyarlık bakımından sağlık yeteneklerini tespit etmek amacıyla yapılacak muayene ve düzenlenecek sağlık raporları, 31/10/2016 tarihli ve 2016/9431 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliği ve bu Yönetmelik hükümlerine göre düzenlenir.
 
@@ -536,7 +536,7 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 ### SEKİZİNCİ BÖLÜM
 
-Adli Hekimlik Hizmetleri
+**Adli Hekimlik Hizmetleri**
 
 #### Adli raporların düzenlenmesi ve formatı
 
@@ -696,7 +696,7 @@ c) Ölüm olayının adli yönü olduğu veya bir bulaşıcı hastalık sonucu m
 
 ### DOKUZUNCU BÖLÜM
 
-Raporların Formatı ve Düzenlenmesi
+**Raporların Formatı ve Düzenlenmesi**
 
 #### Raporların formatı ve düzenlenmesi
 
@@ -708,7 +708,7 @@ Raporların Formatı ve Düzenlenmesi
 
 ### ONUNCU BÖLÜM
 
-Özel Sağlık Hizmeti Sunucularında Sağlık Raporu Düzenlenmesi
+**Özel Sağlık Hizmeti Sunucularında Sağlık Raporu Düzenlenmesi**
 
 #### Özel sağlık hizmeti sunucularında sağlık raporu düzenlenmesi
 
@@ -724,7 +724,7 @@ Raporların Formatı ve Düzenlenmesi
 
 ### ON BİRİNCİ BÖLÜM
 
-Raporlara İtiraz
+**Raporlara İtiraz**
 
 #### Sağlık kurulu raporlarına itiraz işlemleri
 
@@ -770,7 +770,7 @@ Raporlara İtiraz
 
 (9) Hakem tayin edilen il sağlık müdürlükleri bünyesinde oluşturulan komisyonun ilk başvuru yapılan komisyon olması ve bu komisyon kararına itiraz edilmesi hâlinde, kişi öncelikle en yakın il sağlık müdürlüğüne sevk edilir. Sevk edilen il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararı ile ilk komisyon kararı aynı yönde ise karar kesinleşir. Kararlar arası çelişki olması hâlinde kişi diğer bölgedeki hakem olarak belirlenmiş il sağlık müdürlüğüne gönderilir. Bölge hakem tayin edilen il sağlık müdürlüğü bünyesinde oluşturulan komisyon kararları kesindir, itiraz edilemez.
 
-Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı personeli ve adaylarının sağlık raporlarına itiraz
+**Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı personeli ve adaylarının sağlık raporlarına itiraz**
 
 **MADDE 58 –** (1) Bu raporlara; raporu alan kişi, raporu alan kişinin velisi veya vasisi ya da raporu isteyen kurum tarafından itiraz edilebilir. İlgililer, itiraz dilekçesi veya itirazın kurumca yapılması durumunda resmi yazı ile itiraza konu sağlık kurulu raporunu tanzim eden sağlık hizmeti sunucusunun bulunduğu ya da adına rapor düzenlenen kişinin ikametgâhının bulunduğu ilin il sağlık müdürlüğüne başvurur. İl sağlık müdürlüğü gerektiğinde il dışı hakem hastane görevlendirmesini doğrudan yapabilir. Bu durumda görevlendirme yapılan hakem hastanenin bağlı bulunduğu il sağlık müdürlüğüne bilgi verilir.
 
@@ -858,7 +858,7 @@ c) Belirlenen sürelerin dolması veya kişinin itirazından vazgeçmesi hâlind
 
 ### ON İKİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Ortak hükümler
 

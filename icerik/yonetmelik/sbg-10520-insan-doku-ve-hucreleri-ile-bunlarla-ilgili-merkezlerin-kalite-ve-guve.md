@@ -23,7 +23,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -121,7 +121,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Bilimsel Komisyonlar, Merkezlerin Kurulması ve Faaliyet Esasları
+**Bilimsel Komisyonlar, Merkezlerin Kurulması ve Faaliyet Esasları**
 
 #### Bilimsel komisyonlar
 
@@ -293,7 +293,7 @@ konularında gerekli bilgi ve belgeleri içerir.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Doku ve Hücrelerin Bağışlanma ve Tedarik Edilme Esasları
+**Doku ve Hücrelerin Bağışlanma ve Tedarik Edilme Esasları**
 
 #### Doku ve hücre bağışı ile ilgili faaliyetler
 
@@ -383,9 +383,9 @@ içerir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Doku ve Hücrelerin İşlenmesi, Depolanması, Etiketlenmesi, Dokümantasyonu,
+**Doku ve Hücrelerin İşlenmesi, Depolanması, Etiketlenmesi, Dokümantasyonu,**
 
-Paketlenmesi ve Dağıtımına İlişkin Esaslar
+**Paketlenmesi ve Dağıtımına İlişkin Esaslar**
 
 #### Doku ve hücrelerin işlenmesi
 
@@ -457,7 +457,7 @@ h) Merkezler kendilerine gelen doku ve hücrelerle ilgili taleplere göre işlem
 
 ### BEŞİNCİ BÖLÜM
 
-Denetim, İzlenebilirlik, Merkezlerin Kayıt ve Rapor Zorunluluğu
+**Denetim, İzlenebilirlik, Merkezlerin Kayıt ve Rapor Zorunluluğu**
 
 #### Denetim ve kontrol ölçümleri
 
@@ -509,7 +509,7 @@ kapsar.
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Merkezler ile üçüncü taraflar arasındaki ilişkiler
 
@@ -631,7 +631,7 @@ c) Ölü vericiler ve gerektiğinde canlı vericilerle ilgili olarak, verici olm
 
 (4) Konusunda uzman bir sağlık personeli, vericiye ait tüm kayıtları gözden geçirir, vericinin uygunluğunu değerlendirir ve hazırlanan raporu imzalar.
 
-B) Doku/hücrelerin tedarik usulleri
+**B) Doku/hücrelerin tedarik usulleri**
 
 (1) Tedarik etme usulleri, vericinin ve bağışlanan doku veya hücrelerin türüne uygun olarak düzenlenir.
 
@@ -657,7 +657,7 @@ B) Doku/hücrelerin tedarik usulleri
 
 (12) Mümkün olduğunca yalnızca (CE) işaretli tıbbi cihazlar kullanılmalı ve bütün ilgili personel bu cihazların kullanımı ile ilgili uygun bir eğitim almış olmalıdır.
 
-C) Verici dokümantasyonu
+**C) Verici dokümantasyonu**
 
 (1) Her bir verici için aşağıdaki bilgileri içeren kayıtlar tutulur.
 
@@ -699,7 +699,7 @@ g) Rapor (mümkünse ölüm tarihi ve zamanını da içerir).
 
 (4) Tam bir izlenebilirlik gerektiren verici kayıtları ürünün klinik kullanımından en az 30 yıl sonrasına kadar ya da son kullanma tarihine kadar Bakanlığın onayladığı uygun bir arşivde saklanır.
 
-Ç) Paketleme
+**Ç) Paketleme**
 
 (1) Tedarikten sonra, alınan bütün dokular ve hücreler bulaşmayı en aza indirgeyecek şekilde paketlenir ve hücrelerin ve dokuların istenen özelliklerini ve biyolojik fonksiyonlarını koruyacak ısıda saklanır. Paketleme aynı zamanda doku ve hücrelerin paketlenmesinden ve taşınmasından sorumlu olan kişilere bulaşmanın önlenmesini de sağlar.
 
@@ -707,7 +707,7 @@ g) Rapor (mümkünse ölüm tarihi ve zamanını da içerir).
 
 (3) Test amaçlı alınan bütün doku ve kan örneklerinin etiketleri; hiçbir karışıklığa yer vermeyecek şekilde verici bilgilerini, numunelerin alındığı yer ve zamana ait kaydı da içerir.
 
-D) Tedarik edilen doku ve hücrelerin etiketlenmesi
+**D) Tedarik edilen doku ve hücrelerin etiketlenmesi**
 
 (1) Tedarik sırasında dokuları veya hücreleri içeren her paket etiketlenir. (Örneğin içerisine konduğu kap üzerinde verici bilgileri veya doku veya hücrelerin tipi ve kodu bulunmalıdır.) Etiket aşağıdaki bilgileri de içerir:
 
@@ -805,7 +805,7 @@ c) İnsan hipofizinden sağlanan hormonların (büyüme hormonları gibi) alıc�
 
 (14) İnsan dışı diğer türlerden alınmış organ doku ve hücre nakli yapılma hikâyesi.
 
-B) Ölü çocuk vericiler yönünden verici olmaya engel durumlar
+**B) Ölü çocuk vericiler yönünden verici olmaya engel durumlar**
 
 (1) HIV enfeksiyonlu annelerden doğan ya da yukarıda sayılan nedenlerden herhangi birine uyan bütün çocuklar, enfeksiyon geçirme riski kesin olarak bertaraf edilene kadar verici olmaktan hariç tutulur.
 
@@ -813,13 +813,13 @@ a) 18 aydan küçük ve HIV, Hepatit B, Hepatit C ya da HTLV enfeksiyonu olan ya
 
 b) Annesinde HIV, hepatit B, hepatit C ya da HTLV enfeksiyonu olan ancak annesi tarafından son 12 ay boyunca emzirilmemiş olan ve analitik testlerin, fiziksel muayenelerin ve tıbbi kayıtların incelenmesi sonucunda HIV, hepatit B, hepatit C ya da HTLV enfeksiyonu kanıtı bulunmayan çocuklar verici olarak kabul edilebilir.
 
-C) Canlı vericiler
+**C) Canlı vericiler**
 
 Canlı Otolog verici
 
 (1) Tedarik edilen doku veya hücreler depolanacak veya kültüre edilecekse bir allojenik verici için tanımlanan asgari testler uygulanmalıdır. Saklama koşulları; Saklanan diğer doku ve hücreleri kontamine etmeyecek veya diğer greftlere çapraz bulaşma riski oluşturmayacak veya fırsatçı ajanlarla bulaşma veya diğer doku ve hücrelerle karışma riskini ortadan kaldıracak şekilde sağlanmış ise infeksiyon test belirteçlerinin pozitif olması hücre/dokuların veya bunlardan elde edilen ürünlerin işlenmesine, depolanmasına ve tekrar aynı kişiye nakledilmesine engel değildir.
 
-Canlı allojenik vericiler
+**Canlı allojenik vericiler**
 
 (1) Canlı allojenik vericiler, vasıflı ve eğitimli sağlık personeli tarafından yapılan bir anket veya mülakat aracığı ile elde edilen tıbbi geçmişlerine dayalı olarak seçilir. Bu anket veya mülakat, başkalarına sağlık riski oluşturabilecek vericilerin taranması ve belirlenmesine yardımcı olacak uygun öğeler içerir. Canlı allojenik vericiden doku veya hücrelerin alınması vericinin bakımını engellememeli ve sağlığını tehlikeye atmamalıdır. Kordon kanı ve amniyon zarı vericiliği durumunda bu hem anne hem de bebek için geçerlidir.
 
@@ -1049,7 +1049,7 @@ f) Dağıtım/imha tarihi.
 
 ### A) CİDDİ İSTENMEYEN ETKİLERİN BİLDİRİMİ
 
-Şüpheli Ciddi İstenmeyen Etkiler İçin Acil Bildirim (Form 1)
+**Şüpheli Ciddi İstenmeyen Etkiler İçin Acil Bildirim (Form 1)**
 
 Doku kuruluşu
 

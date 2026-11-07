@@ -42,15 +42,15 @@ b) Kurumlarca yapılacak idari iş ve işlemlere esas teşkil etmek üzere rapor
 
 **Madde 4 –** Bu Tebliğde geçen;
 
-a) Bakanlık: Sağlık Bakanlığını,
+a) **Bakanlık:** Sağlık Bakanlığını,
 
-b) Kanun: 5283 sayılı Bazı Kamu Kurum ve Kuruluşlarına Ait Sağlık Birimlerinin Sağlık Bakanlığına Devredilmesine Dair Kanunu,
+b) **Kanun:** 5283 sayılı Bazı Kamu Kurum ve Kuruluşlarına Ait Sağlık Birimlerinin Sağlık Bakanlığına Devredilmesine Dair Kanunu,
 
-c) Müdürlük: İl Sağlık Müdürlüğünü,
+c) **Müdürlük:** İl Sağlık Müdürlüğünü,
 
-d) Kamu Kurum ve Kuruluşu: Bu Tebliğ kapsamına giren kurum ve kuruluşlarını,
+d) **Kamu Kurum ve Kuruluşu:** Bu Tebliğ kapsamına giren kurum ve kuruluşlarını,
 
-e) Kurum Tabipliği: Kamu kurum ve kuruluşlarında kurum personeline yönelik koruyucu sağlık hizmetleri ile birinci basamak ayaktan teşhis, tedavi ve rehabilite edici sağlık hizmetlerinin verildiği, hizmet kapasitesi bu Tebliğ ile belirlenen birimleri,
+e) **Kurum Tabipliği:** Kamu kurum ve kuruluşlarında kurum personeline yönelik koruyucu sağlık hizmetleri ile birinci basamak ayaktan teşhis, tedavi ve rehabilite edici sağlık hizmetlerinin verildiği, hizmet kapasitesi bu Tebliğ ile belirlenen birimleri,
 
 ifade eder.
 
@@ -72,7 +72,7 @@ Kurum Tabipliklerinin Standartları
 
 #### Personel standardı
 
-**Madde 6 –** (Değişik:RG-19/02/2005-25732) Kurum tabipliklerinde, hangi statüde olursa olsun aynı yerleşim yerinde;
+**Madde 6 – (Değişik:RG-19/02/2005-25732)** Kurum tabipliklerinde, hangi statüde olursa olsun aynı yerleşim yerinde;
 
 a) Hizmetten yararlanacak personel sayısı:
 
@@ -138,7 +138,7 @@ r) İlaç ve malzeme dolabı
 
 Kurum Tabipliklerinin Çalışma Usül ve Esasla rı
 
-Bildirim;
+**Bildirim;**
 
 **Madde 9 –** Bu Tebliğin uygulanmasında; Başbakanlık ve bakanlıkların merkez teşkilatlarında faaliyet gösteren kurum tabiplikleri için Bakanlığa, bunun dışındaki kamu kurum ve kuruluşları Müdürlüğe bildirimde bulunulur. Kurum tabipliklerindeki her türlü personel değişiklikleri Bakanlık/ Müdürlüğe bildirilir.
 
@@ -229,6 +229,6 @@ Kurum tabipliklerinde halen görev yapan uzman tabiplere, talepleri halinde, bu 
 
 Sorumlu Kurum Tabibi
 
-Kaşe-İmza
+**Kaşe-İmza**
 
 ### EK-2

@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2009/07/20090710-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 BÜTÇE KANUNLARINDA YER ALAN BAZI HÜKÜMLERİN İLGİLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERE EKLENMESİ İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN
 Kanun No. 5917 Kabul Tarihi: 25/6/2009
 
@@ -71,7 +71,7 @@ MADDE 7 – 2489 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 MADDE 3 – 1/1/2009 tarihinden önce Sandıkla ilişkileri kesilmiş olanların aidatlarının geri verilmesinde, 5 inci maddenin değiştirilmeden önceki hükümleri uygulanır.
 Bu Kanun, Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri A.Ş. Genel Müdürlüğü ve bağlı ortaklıklarında, bu maddenin yürürlük tarihi itibarıyla mevcut statüleri devam ettiği sürece uygulanır.”
 
-MADDE 8 – 4/6/1937 tarihli ve 3201 sayılı Emniyet Teşkilatı Kanununun 13 üncü maddesinde belirtilen görev unvanlarına; 2 ve 3 üncü meslek derecelerine “Uçuş Kıymetlendirme Kurulu Üyesi”, 3 üncü meslek derecesine “Havacılık Müdürü” ile 2, 3, 4, 5, 6, 7, 8 ve 9 uncu meslek derecelerine “Pilot” unvanları eklenmiş ve anılan Kanuna aşağıdaki ek madde eklenmiştir.
+MADDE 8 – 4/6/1937 tarihli ve 3201 sayılı Emniyet Teşkilatı Kanununun 13 üncü maddesinde belirtilen görev unvanlarına; 2 ve 3 üncü meslek derecelerine “Uçuş Kıymetlendirme Kurulu Üyesi”, 3 üncü meslek derecesine “Havacılık Müdürü” ile 2, 3, 4, 5, 6, 7, 8 ve 9 uncu meslek derecelerine “**Pilot**” unvanları eklenmiş ve anılan Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
 MADDE 27 – Ekli (I) sayılı listede gösterilen kadrolar, 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Emniyet Genel Müdürlüğüne ait bölümüne eklenmiş, ekli (II) sayılı listede gösterilen kadrolar iptal edilerek anılan cetvelin Emniyet Genel Müdürlüğüne ait bölümünden çıkarılmıştır.”
@@ -340,7 +340,7 @@ c) 6 ncı maddesine aşağıdaki fıkra eklenmiştir.
 “Bu Kanuna ekli (I) sayılı cetvelde yer alan kamu idarelerinin muhasebe hizmetlerini yürüten muhasebe birimlerince gerçekleştirilen tahsilât ve ödeme işlemleri, güvenli elektronik imza kullanılarak veya Türkiye Cumhuriyet Merkez Bankasınca belirlenecek güvenlik kriterlerine uygun olarak elektronik ortamda verilecek talimatlar çerçevesinde bu Banka aracılığıyla gerçekleştirilebilir. Genel yönetim kapsamındaki diğer kamu idarelerini uygulama kapsamına almaya ve uygulamaya ilişkin usul ve esasları belirlemeye Hazine Müsteşarlığı ve Türkiye Cumhuriyet Merkez Bankasının görüşünü almak suretiyle Maliye Bakanlığı yetkilidir.”
 (16) 28/3/2007 tarihli ve 5615 sayılı Gelir Vergisi Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 22 nci maddesinde yer alan “10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 23 üncü maddesinin (b) bendi gereğince” ibaresi “2/7/2008 tarihli ve 5779 sayılı İl Özel İdarelerine ve Belediyelere Genel Bütçe Vergi Gelirlerinden Pay Verilmesi Hakkında Kanunun 2 nci maddesinin üçüncü fıkrası gereğince” şeklinde değiştirilmiştir.
 (17) 22/5/2007 tarihli ve 5664 sayılı Konut Edindirme Yardımı Hak Sahiplerine Ödeme Yapılmasına Dair Kanunun 5 inci maddesinin ikinci fıkrasında yer alan “2 aylık süre” ibaresi “8 aylık süre” olarak değiştirilmiştir.
-(18) 20/2/2008 tarihli ve 5737 sayılı Vakıflar Kanununa ekli Vakıflar Genel Müdürlüğü Sözleşmeli Personeline İlişkin Aylık Ücret Sınırlarını (BRÜT TL) gösteren (III) sayılı cetvel, ekli (III) sayılı listedeki gibi değiştirilmiştir.
+(18) 20/2/2008 tarihli ve 5737 sayılı Vakıflar Kanununa ekli Vakıflar Genel Müdürlüğü Sözleşmeli Personeline İlişkin Aylık Ücret Sınırlarını **(BRÜT TL)** gösteren (III) sayılı cetvel, ekli (III) sayılı listedeki gibi değiştirilmiştir.
 
 GEÇİCİ MADDE 1 – Bu maddenin yürürlüğe girdiği tarihten itibaren 10 yıl süreyle Başbakanlık merkez teşkilatı tarafından ithal edilen motorlu taşıtlar, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununun 167 nci maddesi kapsamında gümrük vergisinden muaf ve müstesnadır.
 

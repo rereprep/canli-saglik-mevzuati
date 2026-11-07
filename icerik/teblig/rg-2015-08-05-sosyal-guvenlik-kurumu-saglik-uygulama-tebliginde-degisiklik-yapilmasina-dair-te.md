@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumundan:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.8.3 numaralı maddesinin birinci fıkrasının (b) bendinde yer alan “404.390,” ibaresinden sonra gelmek üzere “404.395,” ibaresi eklenmiştir.
 
@@ -233,16 +233,16 @@ MADDE 26 – Aynı Tebliğin 5.3.4 numaralı maddesine aşağıdaki fıkra eklen
 Bu fıkra kapsamında yapılacak ödemelerde bu maddenin diğer fıkralarında yer alan hususlar aranmaz.”
 
 MADDE 27 – Aynı Tebliğ eki “Ayakta Tedavide Hekim ve Diş Hekimi Muayenesi Katılım Payı Alınmayacak Kronik Hastalıklar” (EK-1/A) Listesine eklenen tanı kodları aşağıda belirtilmiştir.
-TANI KODU HASTALIK ADI
+**TANI KODU HASTALIK ADI**
 N04 Nefrotik Sendrom Q05 Spina Bifida Q78 Osteogenezis İmperfekta
 
-MADDE 28 – Aynı Tebliğ eki “Hizmet Başı İşlem Puan Listesi” nde (EK-2/B) aşağıdaki düzenlemeler yapılmıştır.
+MADDE 28 – Aynı Tebliğ eki “Hizmet Başı İşlem Puan Listesi” nde (**EK-2/B**) aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “700145” SUT kodlu “Radyofrekans/plazma uygulaması ile konka küçültülmesi” işleminin kodu “601331” olarak değiştirilmiştir.
 b) Listede yer alan “704371” SUT kodlu “İntrakaviter kemo veya immünoterapi ile birlikte intrakaviter hipertermi” işlemi yürürlükten kaldırılmıştır.
 c) Listede yer alan “804320” SUT kodlu “MR, vertebra, lomber” işleminin adı “MR, vertebra, lomber (baskılı, baskısız)” olarak değiştirilmiştir.
 ç) Listede açıklama değişikliği yapılan işlemler bu Tebliğ eki (1) numaralı listede belirtilmiştir.
 
-MADDE 29 – Aynı Tebliğ eki “Tanıya Dayalı İşlem Puan Listesi”nde (EK-2/C) aşağıdaki düzenlemeler yapılmıştır.
+MADDE 29 – Aynı Tebliğ eki “Tanıya Dayalı İşlem Puan Listesi”nde (**EK-2/C**) aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “P700145” SUT kodlu “Radyofrekans/plazma uygulaması ile konka küçültülmesi” işleminin kodu “P601331” olarak değiştirilmiştir.
 b) Listede açıklama değişikliği yapılan işlemler bu Tebliğ eki (2) numaralı listede belirtilmiştir.
 c) Listede fiyatı değişen işlemler bu Tebliğ eki
@@ -252,7 +252,7 @@ MADDE 30 – Aynı Tebliğ eki “Diş Tedavileri Puan Listesi”nde (EK-2/Ç) y
 
 MADDE 31 – Aynı Tebliğ eki “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi”nde (EK-3/A) aşağıdaki düzenlemeler yapılmıştır.
 a) “OR4500” SUT kodlu tıbbi malzemeden sonra gelmek üzere ödeme kriteri ve/veya kuralı ile beraber aşağıdaki tıbbi malzeme fiyatı ile birlikte eklenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI AÇIKLAMA FİYAT
+**SUT KODU TIBBİ MALZEME ALAN TANIMI AÇIKLAMA FİYAT**
 OR4505
 HEMOSTATİK ÜRÜN,
 TOZ, ANTİADEZİV (TÜM APARATLAR DAHİL) 650,00
@@ -267,15 +267,15 @@ Bu listede yer alan tıbbi malzeme bedelleri; 2918 sayılı Karayolları Trafik 
 (E) ile işaretli protez-ortezler için fiziksel tıp ve rehabilitasyon, ortopedi ve travmatoloji, geriatri, nöroloji veya nöroşirürji uzman hekimlerden birinin yer aldığı sağlık kurulu raporu gerekmektedir.
 Aktif-pasif-düşük distal vakum soket sistemli protezler ile birlikte bir çift poliüretan, jel veya membranlı liner verilmesi gerekmektedir.
 b) Listede yer alan “OP1105”, “OP1106”, “OP1107”, “OP1108” ve “OP1300” SUT kodlu tıbbi malzemeler aşağıdaki şekilde değiştirilmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI YENİLENME SÜRESİ ÖZEL KOŞULLAR AKTİVİTE SKORU
-FİYAT (TL) OP1105 WALKER (ALÜMİNYUM)(HAREKETLİ-SABİT-TERS) E I 1 yıl 50,00 OP1106
+**SUT KODU TIBBİ MALZEME ALAN TANIMI YENİLENME SÜRESİ ÖZEL KOŞULLAR AKTİVİTE SKORU**
+**FİYAT (TL)** OP1105 WALKER (ALÜMİNYUM)(HAREKETLİ-SABİT-TERS) E I 1 yıl 50,00 OP1106
 WALKER
 (ALÜMİNYUM)(HAREKETLİ-SABİT-TERS) E H 1 yıl 39,00 OP1107 WALKER (MODİFİYE; AKSİLLA DESTEKLİ, ÖNKOL DESTEKLİ, VS) E I 1 yıl 179,00 OP1108 WALKER (MODİFİYE; AKSİLLA DESTEKLİ, ÖNKOL DESTEKLİ, VS) E H 1 yıl 138,00 OP1300
 HAVALI YATAK E H
 52,00
 c) Listede yer alan “OP1343” ve “OP1344” SUT kodlu tıbbi malzemeler ödeme kural ve/veya kriterleri ile beraber aşağıdaki şekilde değiştirilmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI YENİLENME SÜRESİ ÖZEL KOŞULLAR AKTİVİTE SKORU
-FİYAT (TL) OP1343
+**SUT KODU TIBBİ MALZEME ALAN TANIMI YENİLENME SÜRESİ ÖZEL KOŞULLAR AKTİVİTE SKORU**
+**FİYAT (TL)** OP1343
 HAFİF MANUEL TEKERLEKLİ SANDALYE H
 5 yıl 1200,00 Ayakta durmak ve/veya yürümek için alt ekstremitelerini kullanamayacak hastalığı veya engellilik durumu olduğunun, ayrıca engellilik durumu nedeniyle hafif manuel tekerlekli sandalyeye gereksiniminin bulunduğu ve engellilik durumunun sürekli olduğunun, tekerlekli sandalyeyi hastanın kendisinin kullanabileceğinin, ortopedi ve travmatoloji veya beyin cerrahisi veya fiziksel tıp ve rehabilitasyon veya nöroloji uzman hekimlerinden herhangi üç uzman hekimin (Aynı branştan üçünün veya farklı branştan birer kişinin veya bir branştan iki, diğer branştan bir olmak üzere toplam üç uzman hekimin) yer aldığı üçüncü basamak sağlık kurumlarınca düzenlenecek sağlık kurulu raporunda belgelendirilmesi ve bu hekimlerce reçete edilmesi halinde Kurumca bedeli karşılanır.
 OP1344
@@ -284,8 +284,8 @@ PEDİATRİK TEKERLEKLİ SANDALYE H
 
 MADDE 33 – Aynı Tebliğ eki “Tıbbi Sarf Malzemeler Listesi”nde (Ek-3/C-4) aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “A10013”, “A10016”, “A10017”, “A10018”, “A10019” SUT kodlu tıbbi malzemelerin belirlenen fiyatları aşağıdaki tabloda belirtilmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI
-FİYATI (TL) A10013
+**<i>SUT KODU</i> <i>TIBBİ MALZEME ALAN TANIMI</i>**
+**<i>FİYATI (TL)</i>** A10013
 SONDA, FOLEY İKİ YOLLU SİLİKON
 3,00 A10016
 SONDA, FOLEY ÜÇ YOLLU SİLİKOLATEX
@@ -296,25 +296,25 @@ SONDA, FOLEY ÜÇ YOLLU POLİVİNİLKLORÜR
 20,00 A10019
 SONDA, FOLEY ÜÇ YOLLU LATEX
 2,50
-b) Listede yer alan “A10049” SUT kodlu tıbbi malzemenin alan tanımı ve ödeme kural ve/veya kriterleri aşağıdaki şekilde değiştirilmiştir.
+b) Listede yer alan “**<i>A10049</i>**” SUT kodlu tıbbi malzemenin alan tanımı ve ödeme kural ve/veya kriterleri aşağıdaki şekilde değiştirilmiştir.
 SUT KODU TIBBİ MALZEME ALAN TANIMI
-FİYATI (TL) A10049 HASTA ALT BEZİ/KÜLOTLU HASTA ALT BEZİ 0,60
-(1) Uzman hekim raporu ile mesane veya rektum kontrolü olmaması (raporda idrar veya gaita inkontinansına neden olan primer tanının belirtilmesi kaydı ile) nedeni ile (çocuklar için en az 2 (iki) yaşını tamamlamış olmak kaydı ile) hasta alt bezi/ külotlu hasta alt bezi veya çocuk alt bezi kullanması gerekli görülen hastalar için günde 4 (dört) adedi geçmemek üzere en fazla 2 (iki) aylık miktarlarda, rapora istinaden tüm hekimlerce reçetelendirilmesi durumunda Kurumca bedelleri karşılanır.
-(2) Hasta alt bezi/külotlu hasta alt bezi ve çocuk alt bezi bedellerinin karşılanmasında, Kurum TİTUBB kayıt/bildirim işlemi tamamlanmış olma şartı aranmaz. Çocuk alt bezi bedelleri “hasta alt bezi/ külotlu hasta alt bezi” için belirtilen fiyat üzerinden Kurumca bedeli karşılanır.
-(3) İdrar inkontinansı ve gaita inkontinansı olan hastalara hasta alt bezi/ külotlu hasta alt bezi ve hidrofilik kendinden kayganlaştırıcılı sonda fatura edilmesi halinde Kurumca bedeli karşılanır.
-(4) Sadece idrar inkontinansı olan hasta alt bezi/ külotlu hasta alt bezi kullanan hastalara hidrofilik kendinden kayganlaştırıcılı sonda fatura edilmesi halinde, hidrofilik kendinden kayganlaştırıcılı sonda Kurumca bedeli karşılanmaz.
-(5) Sağlık raporunda; kolostomili hastalarda idrar inkontinansı, ürostomili hastalarda gaita inkontinansı olduğunun belirtilmesi halinde hasta alt bezinin/ külotlu hasta alt bezinin Kurumca bedeli karşılanır.
+FİYATI (TL) A10049 **<i>HASTA ALT BEZİ/KÜLOTLU HASTA ALT BEZİ</i> 0,60**
+(1) Uzman hekim raporu ile mesane veya rektum kontrolü olmaması (raporda idrar veya gaita inkontinansına neden olan primer tanının belirtilmesi kaydı ile) nedeni ile (çocuklar için en az 2 (iki) yaşını tamamlamış olmak kaydı ile) hasta alt bezi/ **<i>külotlu hasta alt bezi</i>** veya çocuk alt bezi kullanması gerekli görülen hastalar için günde 4 (dört) adedi geçmemek üzere en fazla 2 (iki) aylık miktarlarda, rapora istinaden tüm hekimlerce reçetelendirilmesi durumunda Kurumca bedelleri karşılanır.
+(2) Hasta alt bezi/**külotlu hasta alt bezi** ve çocuk alt bezi bedellerinin karşılanmasında, Kurum TİTUBB kayıt/bildirim işlemi tamamlanmış olma şartı aranmaz. Çocuk alt bezi bedelleri “hasta alt bezi/ **<i>külotlu hasta alt bezi</i>**” için belirtilen fiyat üzerinden Kurumca bedeli karşılanır.
+(3) İdrar inkontinansı ve gaita inkontinansı olan hastalara hasta alt bezi/ **<i>külotlu hasta alt bezi</i>** ve hidrofilik kendinden kayganlaştırıcılı sonda fatura edilmesi halinde Kurumca bedeli karşılanır.
+(4) Sadece idrar inkontinansı olan hasta alt bezi/ <i>külotlu hasta alt bezi</i> kullanan hastalara hidrofilik kendinden kayganlaştırıcılı sonda fatura edilmesi halinde, hidrofilik kendinden kayganlaştırıcılı sonda Kurumca bedeli karşılanmaz.
+(5) Sağlık raporunda; kolostomili hastalarda idrar inkontinansı, ürostomili hastalarda gaita inkontinansı olduğunun belirtilmesi halinde hasta alt bezinin/ **külotlu hasta alt bezinin** Kurumca bedeli karşılanır.
 
 MADDE 34 – Aynı Tebliğ eki “Omurga Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler Listesi”nde (EK-3/E-1) aşağıda belirtilen tıbbi malzemelerin fiyatları yeniden belirlenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI
-FİYATI (TL) 103096 İNTRAOPERATİF NÖROMONİTÖRİZASYON MEP (EMG DAHİL)
-SETİ, KONVANSİYONEL
-1.000,00 103097 İNTRAOPERATİF NÖROMONİTÖRİZASYON MEP (EMG DAHİL)
-SETİ, CERRAH GÜDÜMLÜ
-1.000,00 103101 İNTRAOPERATİF NÖROMONİTÖRİZASYON MEP VE SEP (EMG DAHİL) SETİ, KONVANSİYONEL 1.500,00 103102 İNTRAOPERATİF NÖROMONİTÖRİZASYON MEP VE SEP (EMG DAHİL) SETİ, CERRAH GÜDÜMLÜ 1.500,00
+**<i>SUT KODU</i> <i>TIBBİ MALZEME ALAN TANIMI</i>**
+**<i>FİYATI (TL)</i> <i>103096</i> İNTRAOPERATİF NÖROMONİTÖRİZASYON MEP (EMG DAHİL)**
+**SETİ, KONVANSİYONEL**
+**<i>1.000,00</i> <i>103097</i> İNTRAOPERATİF NÖROMONİTÖRİZASYON MEP (EMG DAHİL)**
+**SETİ, CERRAH GÜDÜMLÜ**
+**<i>1.000,00</i> <i>103101</i> İNTRAOPERATİF NÖROMONİTÖRİZASYON MEP VE SEP (EMG DAHİL) SETİ, KONVANSİYONEL <i>1.500,00</i> <i>103102</i> İNTRAOPERATİF NÖROMONİTÖRİZASYON MEP VE SEP (EMG DAHİL) SETİ, CERRAH GÜDÜMLÜ <i>1.500,00</i>**
 
 MADDE 35 – Aynı Tebliğ eki “Beyin Cerrahisi Branşı Kranial Alan Grubuna Ait Tıbbi Malzemeler Listesi”nde (EK-3/E-2) aşağıda belirtilen tıbbi malzemelerin fiyatları yeniden belirlenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI FİYATI
+**<i>SUT KODU</i> <i>TIBBİ MALZEME ALAN TANIMI</i> <i>FİYATI</i>**
 (TL) KN1200
 İNTRAOPERATİF
 NÖROMONİTÖRİZASYON MEP (EMG DAHİL) SETİ, KONVANSİYONEL 1.000,00 KN1210
@@ -338,18 +338,18 @@ GÜDÜMLÜ
 MADDE 36 – Aynı Tebliğ eki “Ortopedi ve Travmatoloji Branşı Artroplasti Alan Grubuna Ait Tıbbi Malzemeler Listesi”nde (EK-3/F-1) aşağıdaki düzenlemeler yapılmıştır.
 a) Aşağıdaki tabloda yer alan tıbbi malzemelerin fiyatları yeniden belirlenmiştir.
 SUT KODU TIBBİ MALZEME ALAN TANIMI FİYATI
-(TL) AP1350 PARMAK, PRİMER, MTP – BAŞ, TÜM BOYLAR 872,10 AP1360 PARMAK, PRİMER, MTP - FALANGEAL KOMPONENT, TÜM
-BOYLAR
-577,15 AP1370 PARMAK, PRİMER, MTP – İNSERT, TÜM BOYLAR 633,25 AP1380 PARMAK, PRİMER, MTP - METATARSAL KOMPONENT, TÜM
-BOYLAR
-648,55
-b) Listeye “AP1530” SUT kodlu tıbbi malzemeden sonra gelmek üzere aşağıdaki tıbbi malzeme fiyatı ile birlikte eklenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI
-FİYATI(TL) AP1535 KALÇA
-PRİMER ASETABULAR CUP
-MONOBLOK ASETABULAR KOMPONENT (ÇİMENTOSUZ)
-E VİTAMİNİ İLE GÜÇLENDİRİLMİŞ YÜKSEK ÇAPRAZ BAĞLI POLİETİLEN KAPLAMALI
-1.800,00
+(TL) **<i>AP1350</i> PARMAK, PRİMER, MTP – BAŞ, TÜM BOYLAR <i>872,10</i> <i>AP1360</i> PARMAK, PRİMER, MTP - FALANGEAL KOMPONENT, TÜM**
+**BOYLAR**
+**<i>577,15</i> <i>AP1370</i> PARMAK, PRİMER, MTP – İNSERT, TÜM BOYLAR <i>633,25</i> <i>AP1380</i> PARMAK, PRİMER, MTP - METATARSAL KOMPONENT, TÜM**
+**BOYLAR**
+**<i>648,55</i>**
+b) Listeye “AP1530” **<i>SUT</i>** kodlu tıbbi malzemeden sonra gelmek üzere aşağıdaki tıbbi malzeme fiyatı ile birlikte eklenmiştir.
+SUT **<i>KODU</i> <i>TIBBİ MALZEME ALAN TANIMI</i>**
+**<i>FİYATI(TL)</i> AP1535 <i>KALÇA</i>**
+**<i>PRİMER</i> <i>ASETABULAR CUP</i>**
+**<i>MONOBLOK ASETABULAR KOMPONENT (ÇİMENTOSUZ)</i>**
+**<i>E VİTAMİNİ İLE GÜÇLENDİRİLMİŞ YÜKSEK ÇAPRAZ BAĞLI POLİETİLEN</i> <i>KAPLAMALI</i>**
+**<i>1.800,00</i>**
 c) Listenin “Genel Hükümler” başlığına aşağıdaki fıkralar eklenmiştir.
 “(19) Bu listede yer alan AP1535 SUT kodlu “MONOBLOK ASETABULAR KOMPONENT (ÇİMENTOSUZ)” isimli malzeme ile birlikte “ASETABULAR LİNER” ve “ASETABULAR CUP” fatura edilmesi halinde liner ve cup’ların bedelleri Kurumca karşılanmaz.
 (20) Bu listede yer alan AP2170 SUT kodlu “Femoral Stem/Modüler Proksimal Parça” isimli malzeme ile diğer femoral stemler birlikte fatura edilemez, fatura edilmesi halinde diğer femoral stemlerin bedelleri Kurumca karşılanmaz.”
@@ -357,8 +357,8 @@ c) Listenin “Genel Hükümler” başlığına aşağıdaki fıkralar eklenmi�
 MADDE 37 – Aynı Tebliğ eki “Üroloji Branşına Ait Tıbbi Malzemeler Listesi”nde (EK-3/L) yer alan “İNTRAKAVİTER HİPERTERMİ CİHAZLARI” ve “RADYOFREKANS YÖNTEMİ” başlıkları ile “UR2007” SUT kodlu tıbbi malzeme ödeme kriterleri ve/veya kuralları ile birlikte listeden çıkarılmıştır.
 
 MADDE 38 – Aynı Tebliğ eki “Göğüs Hastalıkları ve Göğüs Cerrahisi Branşlarına Ait Tıbbi Malzemeler Listesi”nde (EK-3/S) aşağıda belirtilen tıbbi malzemenin fiyatı yeniden belirlenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI
-FİYAT (TL) GHC1110 STERNAL KABLO İMPLANTI (TİTANYUM) 150,00
+**SUT KODU TIBBİ MALZEME ALAN TANIMI**
+**FİYAT (TL)** GHC1110 STERNAL KABLO İMPLANTI (TİTANYUM) 150,00
 
 MADDE 39 – Aynı Tebliğ eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi”nde (Ek-4/E) listesinde aşağıdaki düzenlemeler yapılmıştır.
 a) “11-ANTİVİRAL İLAÇLAR” başlıklı kısmının “A) HIV/AIDS Tedavisinde Kullanılan Spesifik İlaçlar” adlı bölümün 14 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.

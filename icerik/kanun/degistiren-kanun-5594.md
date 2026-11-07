@@ -12,11 +12,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/03/20070310-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
+T.C. Resmî Gazete Resmî Gazete **KANUN**
 BÜYÜKŞEHİR BELEDİYESİ KANUNU, BELEDİYE KANUNU, İL ÖZEL İDARESİ
 KANUNU VE MAHALLÎ İDARE BİRLİKLERİ KANUNUNDA
 DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 5594 Kabul Tarihi : 6/3/2007
+**Kanun No. 5594 Kabul Tarihi : 6/3/2007**
 
 MADDE 1 – 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununa Ek Madde 1’den sonra gelmek üzere aşağıdaki Ek Madde 2 eklenmiştir.
 "EK

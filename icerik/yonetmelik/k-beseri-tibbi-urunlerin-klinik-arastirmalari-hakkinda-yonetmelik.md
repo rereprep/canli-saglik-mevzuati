@@ -20,7 +20,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -174,7 +174,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Klinik Araştırmanın ve Bilimsel Çalışmanın Genel İlke ve Esasları
+**Klinik Araştırmanın ve Bilimsel Çalışmanın Genel İlke ve Esasları**
 
 #### Genel ilke
 
@@ -220,7 +220,7 @@ h) Elde edilecek faydaların araştırmadan doğması muhtemel risklerden daha f
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Klinik Araştırma ve Bilimsel Çalışma Başvurularına İlişkin Genel Esaslar
+**Klinik Araştırma ve Bilimsel Çalışma Başvurularına İlişkin Genel Esaslar**
 
 #### Başvuruyu değerlendiren kişiler
 
@@ -264,7 +264,7 @@ a) Genetik olarak modifiye edilmiş organizma taşıyan ürünler ile hücresel 
 
 b) Bu Yönetmelik kapsamındaki araştırmalar ile 8/7/2022 tarihli ve 31890 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Klinik Araştırmaları Yönetmeliği kapsamındaki araştırmaların aynı araştırmanın konusu olacak şekilde birlikte yürütüldüğü araştırmalar.
 
-(12) (Ek:RG-29/12/2023-32414) Başvuru sahipleri Kuruma sunduğu tüm belgelerin asıllarını saklamakla ve talep edildiğinde Kuruma sunmakla sorumludur.
+(12) **(Ek:RG-29/12/2023-32414)** Başvuru sahipleri Kuruma sunduğu tüm belgelerin asıllarını saklamakla ve talep edildiğinde Kuruma sunmakla sorumludur.
 
 #### Karar ve rapor kullanımı ile görüş alınması
 
@@ -286,7 +286,7 @@ b) Bu Yönetmelik kapsamındaki araştırmalar ile 8/7/2022 tarihli ve 31890 say
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Klinik Araştırma ve Bilimsel Çalışma İzin Prosedürü
+**Klinik Araştırma ve Bilimsel Çalışma İzin Prosedürü**
 
 #### Genel ilke
 
@@ -318,7 +318,7 @@ Klinik Araştırma ve Bilimsel Çalışma İzin Prosedürü
 
 ### BEŞİNCİ BÖLÜM
 
-İstisnai Durumdaki Klinik Araştırmalar
+**İstisnai Durumdaki Klinik Araştırmalar**
 
 #### Başvuru ve izin
 
@@ -340,7 +340,7 @@ b) Dünya Sağlık Örgütü veya ülkemiz tarafından halk sağlığını ciddi
 
 ### ALTINCI BÖLÜM
 
-Klinik Araştırma ve Bilimsel Çalışmanın Yürütülmesi
+**Klinik Araştırma ve Bilimsel Çalışmanın Yürütülmesi**
 
 #### Başvuru ve izin
 
@@ -362,7 +362,7 @@ b) Onay ve izin gerektiren değişikliklerde etik kurul onayı olmayan değişik
 
 ### YEDİNCİ BÖLÜM
 
-Klinik Araştırma ve Bilimsel Çalışma Başvuru Dosyası
+**Klinik Araştırma ve Bilimsel Çalışma Başvuru Dosyası**
 
 #### Başvuru dosyasında sunulan veriler
 
@@ -380,7 +380,7 @@ Klinik Araştırma ve Bilimsel Çalışma Başvuru Dosyası
 
 ### SEKİZİNCİ BÖLÜM
 
-Gönüllülerin Korunması ve Gönüllü Oluru Alınması
+**Gönüllülerin Korunması ve Gönüllü Oluru Alınması**
 
 #### Genel kurallar
 
@@ -486,9 +486,9 @@ b) Kardiyak arrest, kafa travması, santral sinir sistemi enfeksiyonları, beyin
 
 ### DOKUZUNCU BÖLÜM
 
-Klinik Araştırma ve Bilimsel Çalışmanın Başlaması, Tamamlanması, Geçici
+**Klinik Araştırma ve Bilimsel Çalışmanın Başlaması, Tamamlanması, Geçici**
 
-Olarak Durdurulması ve Erken Sonlandırılması
+**Olarak Durdurulması ve Erken Sonlandırılması**
 
 #### Araştırmanın başlamasının, gönüllü alımının sona erdirilmesinin bildirilmesi
 
@@ -516,7 +516,7 @@ Olarak Durdurulması ve Erken Sonlandırılması
 
 ### ONUNCU BÖLÜM
 
-Advers Olayların ve Ciddi Advers Reaksiyonların Bildirimi, Diğer Bildirimler
+**Advers Olayların ve Ciddi Advers Reaksiyonların Bildirimi, Diğer Bildirimler**
 
 #### Güvenlilik bildirimi için veri tabanı
 
@@ -580,7 +580,7 @@ c) İlk bildirim sırasında ölümcül veya yaşamı tehdit eder nitelikte olma
 
 ### ON BİRİNCİ BÖLÜM
 
-Araştırma Merkezlerinin ve Araştırma Ekibinin Uygunluğu
+**Araştırma Merkezlerinin ve Araştırma Ekibinin Uygunluğu**
 
 #### Protokole ve iyi klinik uygulamalara uyum
 
@@ -604,13 +604,13 @@ Araştırma Merkezlerinin ve Araştırma Ekibinin Uygunluğu
 
 (3) Faz I klinik araştırmaları ile biyoyararlanım ve biyoeşdeğerlik çalışmalarında araştırma ekibinde uzmanlığını veya doktorasını yapmış tıp doktoru bir farmakolog bulunması zorunludur.
 
-(4) (Değişik:RG-5/6/2025-32921) Araştırma ekibinde görevlendirilmelerinden önce; araştırmacılara ait bilgiler etik kurul ve Kuruma, yardımcı klinik araştırma personeline ait bilgiler ise etik kurula bildirilir. Yardımcı klinik araştırma personeline ait bilgiler Kurum tarafından talep edilmesi durumunda ayrıca Kuruma da sunulur.
+(4) **(Değişik:RG-5/6/2025-32921)** Araştırma ekibinde görevlendirilmelerinden önce; araştırmacılara ait bilgiler etik kurul ve Kuruma, yardımcı klinik araştırma personeline ait bilgiler ise etik kurula bildirilir. Yardımcı klinik araştırma personeline ait bilgiler Kurum tarafından talep edilmesi durumunda ayrıca Kuruma da sunulur.
 
 #### Araştırma merkezlerinin uygunluğu
 
-**MADDE 36 –** (1) (Değişik:RG-5/6/2025-32921) Klinik araştırmalar, araştırma gönüllülerinin güvenliğini sağlamaya ve araştırmanın sağlıklı bir şekilde yürütülebilmesine ve takibine uygun asgari olarak üçüncü fıkrada yer alan nitelikleri haiz Kurumca belirlenen standartlara sahip sağlık kurum ve kuruluşları ile araştırma ve geliştirme merkezlerinde yapılabilir.
+**MADDE 36 –** (1) **(Değişik:RG-5/6/2025-32921)** Klinik araştırmalar, araştırma gönüllülerinin güvenliğini sağlamaya ve araştırmanın sağlıklı bir şekilde yürütülebilmesine ve takibine uygun asgari olarak üçüncü fıkrada yer alan nitelikleri haiz Kurumca belirlenen standartlara sahip sağlık kurum ve kuruluşları ile araştırma ve geliştirme merkezlerinde yapılabilir.
 
-(2) Faz I klinik araştırmaları ve biyoyararlanım ve biyoeşdeğerlik çalışmaları, Kurumun onayladığı, acil tıbbi tedavi yapılabilmesine elverişli imkânlara ve her biri için ayrı belirlenmiş standartlara sahip, (Mülga ibare:RG-5/6/2025-32921) sağlık kurum ve kuruluşları ve araştırma-geliştirme merkezlerinde yapılır. Bu merkezlerde Kurum tarafından gerçekleştirilen denetimler ve yapılacak değerlendirmeler neticesinde, ilgili mevzuat hükümlerinin karşılandığının anlaşılması halinde, Faaliyet İzin Belgesi düzenlenir. Sadece hasta gönüllülerin dahil edilmesinin öngörüldüğü faz I klinik araştırmaların yürütüleceği merkezler için ilgili uluslararası güncel uygulamalar doğrultusunda istisnalar oluşturulabilir.
+(2) Faz I klinik araştırmaları ve biyoyararlanım ve biyoeşdeğerlik çalışmaları, Kurumun onayladığı, acil tıbbi tedavi yapılabilmesine elverişli imkânlara ve her biri için ayrı belirlenmiş standartlara sahip, **(Mülga ibare:RG-5/6/2025-32921)** sağlık kurum ve kuruluşları ve araştırma-geliştirme merkezlerinde yapılır. Bu merkezlerde Kurum tarafından gerçekleştirilen denetimler ve yapılacak değerlendirmeler neticesinde, ilgili mevzuat hükümlerinin karşılandığının anlaşılması halinde, Faaliyet İzin Belgesi düzenlenir. Sadece hasta gönüllülerin dahil edilmesinin öngörüldüğü faz I klinik araştırmaların yürütüleceği merkezler için ilgili uluslararası güncel uygulamalar doğrultusunda istisnalar oluşturulabilir.
 
 (3) İyi Klinik Uygulamaları Kılavuzu esas alınarak klinik araştırma yapılacak yerler asgari olarak;
 
@@ -690,7 +690,7 @@ sahip olmak zorundadır.
 
 ### ON İKİNCİ BÖLÜM
 
-Araştırma Ürünlerinin ve Yardımcı Beşeri Tıbbi Ürünlerin İthalatı
+**Araştırma Ürünlerinin ve Yardımcı Beşeri Tıbbi Ürünlerin İthalatı**
 
 #### Araştırma ürünlerinin ithalatı
 
@@ -720,7 +720,7 @@ b) Araştırma yapmak amacıyla imal veya ithal edilen ürünlerin her serisine 
 
 ### ON ÜÇÜNCÜ BÖLÜM
 
-Destekleyici, Destekleyicinin Yasal Temsilcisi ve Sorumlu Araştırmacı
+**Destekleyici, Destekleyicinin Yasal Temsilcisi ve Sorumlu Araştırmacı**
 
 #### Destekleyici
 
@@ -770,7 +770,7 @@ yetkili ve sorumludur.
 
 #### Sorumluluk
 
-**MADDE 53 –** (1) Bu Yönetmelik kapsamındaki araştırmaların her türlü mâli sorumluluğu destekleyici ve mevcutsa yasal (Değişik ibare:RG-5/6/2025-32921) temsilcisi ile görev devri yapılan diğer taraflara aittir.
+**MADDE 53 –** (1) Bu Yönetmelik kapsamındaki araştırmaların her türlü mâli sorumluluğu destekleyici ve mevcutsa yasal **(Değişik ibare:RG-5/6/2025-32921)** temsilcisi ile görev devri yapılan diğer taraflara aittir.
 
 (2) Araştırmada kullanılan her türlü araştırma ürününün, ürünlerinin kullanılmasına mahsus her türlü malzemeler ile muayene, tetkik, tahlil ve tedavilerin bedeli için gönüllüden herhangi bir ücret talep edilemez.
 
@@ -778,7 +778,7 @@ yetkili ve sorumludur.
 
 ### ON DÖRDÜNCÜ BÖLÜM
 
-Zararların Tazmini
+**Zararların Tazmini**
 
 #### Zararların tazmini
 
@@ -788,7 +788,7 @@ Zararların Tazmini
 
 ### ON BEŞİNCİ BÖLÜM
 
-Kurumun Yetkileri ve Denetim
+**Kurumun Yetkileri ve Denetim**
 
 #### Kurumun yetkileri ve denetim
 
@@ -830,7 +830,7 @@ d) Başvuru ve bildirim gerekliliklerinin yerine getirilmemesi.
 
 ### ON ALTINCI BÖLÜM
 
-Veri Tabanı, Portal ve Dijitalizasyon
+**Veri Tabanı, Portal ve Dijitalizasyon**
 
 #### Klinik araştırmalar veri tabanı
 
@@ -862,7 +862,7 @@ Veri Tabanı, Portal ve Dijitalizasyon
 
 ### ON YEDİNCİ BÖLÜM
 
-Ücretlendirme
+**Ücretlendirme**
 
 #### Kurum tarafından alınacak ücretler
 
@@ -878,7 +878,7 @@ Veri Tabanı, Portal ve Dijitalizasyon
 
 ### ON SEKİZİNCİ BÖLÜM
 
-Etik Kurulların Yapısı, Çalışma Usul ve Esasları ile Görevleri
+**Etik Kurulların Yapısı, Çalışma Usul ve Esasları ile Görevleri**
 
 #### Etik kurulların yapısı
 
@@ -916,7 +916,7 @@ Etik Kurulların Yapısı, Çalışma Usul ve Esasları ile Görevleri
 
 (17) Klinik araştırmalar etik kurulunda asgari olarak aşağıda belirtilen nitelikteki üyeler bulunur:
 
-a) (Değişik:RG-5/6/2025-32921) İyi klinik uygulamaları kurallarına göre düzenlenmiş en az bir uluslararası veya en az üç ulusal klinik araştırmaya sorumlu araştırmacı veya araştırmacı olarak katılmış olan tıbbın dahili ve cerrahi bilimlerinden uzmanlığını almış veya doktorasını yapmış birer kişi.
+a) **(Değişik:RG-5/6/2025-32921)** İyi klinik uygulamaları kurallarına göre düzenlenmiş en az bir uluslararası veya en az üç ulusal klinik araştırmaya sorumlu araştırmacı veya araştırmacı olarak katılmış olan tıbbın dahili ve cerrahi bilimlerinden uzmanlığını almış veya doktorasını yapmış birer kişi.
 
 b) Farmakoloji alanında doktora yapmış tıp doktoru veya eczacı veya bu alanda tıpta uzmanlık eğitimi almış tıp doktoru.
 
@@ -924,7 +924,7 @@ c) Hukukçu.
 
 ç) Sağlık mesleği mensubu olmayan, sağlıkla ilgili bir kurum veya kuruluşta çalışmayan ve klinik araştırmalarla ilgisi bulunmayan kişi.
 
-d) (Ek:RG-5/6/2025-32921) Tıbbın temel bilimlerinden uzmanlığını almış veya doktorasını yapmış bir kişi.
+d) **(Ek:RG-5/6/2025-32921)** Tıbbın temel bilimlerinden uzmanlığını almış veya doktorasını yapmış bir kişi.
 
 (18) Biyoyararlanım ve biyoeşdeğerlik etik kurulunda asgari olarak aşağıda belirtilen nitelikteki üyeler bulunur:
 
@@ -1020,7 +1020,7 @@ değerlendirir.
 
 ### ON DOKUZUNCU BÖLÜM
 
-Klinik Araştırmalar Danışma Kurulu
+**Klinik Araştırmalar Danışma Kurulu**
 
 #### Klinik araştırmalar danışma kurulunun yapısı
 
@@ -1056,7 +1056,7 @@ f) Klinik araştırmalar danışma kurulunun sekretaryası Kurum tarafından yü
 
 ### YİRMİNCİ BÖLÜM
 
-Klinik Araştırmalar Eğitimi
+**Klinik Araştırmalar Eğitimi**
 
 #### Eğitim
 
@@ -1066,7 +1066,7 @@ Klinik Araştırmalar Eğitimi
 
 ### YİRMİ BİRİNCİ BÖLÜM
 
-Yaptırımlar
+**Yaptırımlar**
 
 #### İdarî yaptırımlar
 
@@ -1094,7 +1094,7 @@ Yaptırımlar
 
 ### YİRMİ İKİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Kılavuz
 

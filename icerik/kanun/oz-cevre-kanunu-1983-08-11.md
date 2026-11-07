@@ -14,25 +14,25 @@ durum: "yürürlükte"
 
 ### ÇEVRE KANUNU [1][2]
 
-Kanun Numarası : 2872
+**Kanun Numarası : 2872**
 
-Kabul Tarihi : 9/8/1983
+**Kabul Tarihi : 9/8/1983**
 
-Yayımlandığı Resmî Gazete : Tarih: 11/8/1983 Sayı: 18132
+**Yayımlandığı Resmî Gazete : Tarih: 11/8/1983 Sayı: 18132**
 
-Yayımlandığı Düstur : Tertip: 5 Cilt: 22 Sayfa: 499
+**Yayımlandığı Düstur : Tertip: 5 Cilt: 22 Sayfa: 499**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Tanımlar ve İlkeler
+**Amaç, Tanımlar ve İlkeler**
 
-Amaç:
+**Amaç:**
 
 **Madde 1 –** (Değişik: 26/4/2006-5491/1 md.)
 
 Bu Kanunun amacı, bütün canlıların ortak varlığı olan çevrenin, sürdürülebilir çevre ve sürdürülebilir kalkınma ilkeleri doğrultusunda korunmasını sağlamaktır.
 
-Tanımlar:
+**Tanımlar:**
 
 **Madde 2 –** (Değişik: 26/4/2006-5491/2 md.)
 
@@ -90,15 +90,15 @@ Stratejik çevresel değerlendirme: Onaya tâbi plân ya da programın onayında
 
 Çevre yönetimi: İdarî, teknik, hukukî, politik, ekonomik, sosyal ve kültürel araçları kullanarak doğal ve yapay çevre unsurlarının sürdürülebilir kullanımını ve gelişmesini sağlamak üzere yerel, bölgesel, ulusal ve küresel düzeyde belirlenen politika ve stratejilerin uygulanmasını,
 
-(Değişik tanım:10/6/2022-7410/4 md.) Çevre yönetimi hizmeti: Bu Kanun ve Kanuna göre yürürlüğe konulan düzenlemeler uyarınca tesis ve işletmelerin mevzuata uygunluğunun, alınan tedbirlerin etkili olarak uygulanıp uygulanmadığının değerlendirildiği ve çevre mühendisleri, çevre yönetim birimleri, çevre danışmanlık firmaları veya yetkilendirilmiş kişiler (…)[3] tarafından verilen hizmeti,[4]
+**(Değişik tanım:10/6/2022-7410/4 md.)** Çevre yönetimi hizmeti: Bu Kanun ve Kanuna göre yürürlüğe konulan düzenlemeler uyarınca tesis ve işletmelerin mevzuata uygunluğunun, alınan tedbirlerin etkili olarak uygulanıp uygulanmadığının değerlendirildiği ve çevre mühendisleri, çevre yönetim birimleri, çevre danışmanlık firmaları veya yetkilendirilmiş kişiler (…)[3] tarafından verilen hizmeti,[4]
 
-(Ek tanım: 10/6/2022-7410/4 md.) Çevre yönetim birimi: Çevre yönetimi hizmeti vermek üzere tesis veya işletmelerin bünyesinde kurulan birimi,
+**(Ek tanım: 10/6/2022-7410/4 md.)** Çevre yönetim birimi: Çevre yönetimi hizmeti vermek üzere tesis veya işletmelerin bünyesinde kurulan birimi,
 
-(Ek tanım: 10/6/2022-7410/4 md.) (İptal tanım: Anayasa Mahkemesinin 27/6/2024 Tarihli ve E: 2022/101, K: 2024/124 Sayılı Kararı ile) (Yeniden Düzenleme:7/5/2026-7579/7 md.) Çevre danışmanlık firması: Çevre yönetimi hizmeti kapsamında usul ve esasları ilgili yönetmelikle belirlenen başvuruları yapan, her türlü rapor ve teknik belgeyi hazırlamaya yetkili ve bunlardan sorumlu olan, aylık faaliyet raporunda aykırılıkları tespit ederek Bakanlığa bildirmekle yükümlü olan, hizmet verdiği tesis ve işletme çalışanlarına ve sorumlularına çevresel konularda eğitim veren, nitelik ve nicelikleri ilgili yönetmelikle belirlenen mühendislik ve fen fakültesi mezunlarından çevre yönetimi hizmeti yeterlik belgesine sahip olan kişileri bünyesinde çalıştıran, ortaklık payı bakımından ortaklarının yüzde ellisinden fazlası çevre yönetim hizmeti yeterlik belgesine sahip ve Bakanlık tarafından yetkilendirilen tüzel kişiliği,
+**(Ek tanım: 10/6/2022-7410/4 md.) (İptal tanım: Anayasa Mahkemesinin 27/6/2024 Tarihli ve E: 2022/101, K: 2024/124 Sayılı Kararı ile) (Yeniden Düzenleme:7/5/2026-7579/7 md.)** Çevre danışmanlık firması: Çevre yönetimi hizmeti kapsamında usul ve esasları ilgili yönetmelikle belirlenen başvuruları yapan, her türlü rapor ve teknik belgeyi hazırlamaya yetkili ve bunlardan sorumlu olan, aylık faaliyet raporunda aykırılıkları tespit ederek Bakanlığa bildirmekle yükümlü olan, hizmet verdiği tesis ve işletme çalışanlarına ve sorumlularına çevresel konularda eğitim veren, nitelik ve nicelikleri ilgili yönetmelikle belirlenen mühendislik ve fen fakültesi mezunlarından çevre yönetimi hizmeti yeterlik belgesine sahip olan kişileri bünyesinde çalıştıran, ortaklık payı bakımından ortaklarının yüzde ellisinden fazlası çevre yönetim hizmeti yeterlik belgesine sahip ve Bakanlık tarafından yetkilendirilen tüzel kişiliği,
 
-(Ek tanım:7/5/2026-7579/7 md.) Yetkilendirilmiş kişi: Çevre yönetimi hizmeti vermek üzere Bakanlık tarafından yetkilendirilen, üniversitelerin mühendislik veya fen fakültelerinin ilgili yönetmelikte belirlenen bölümlerinden mezun olan kişileri,
+**(Ek tanım:7/5/2026-7579/7 md.)** Yetkilendirilmiş kişi: Çevre yönetimi hizmeti vermek üzere Bakanlık tarafından yetkilendirilen, üniversitelerin mühendislik veya fen fakültelerinin ilgili yönetmelikte belirlenen bölümlerinden mezun olan kişileri,
 
-(Ek tanım: 10/6/2022-7410/4 md.) İleri atıksu arıtımı: Fiziksel, biyolojik veya kimyasal arıtma gibi klasik yöntemlerle ilgili yönetmeliklerle belirlenen düzeyde arıtılamayan ya da arıtımı mümkün olmayan kirletici maddelerin giderilmesinde kullanılan arıtma işlemini,
+**(Ek tanım: 10/6/2022-7410/4 md.)** İleri atıksu arıtımı: Fiziksel, biyolojik veya kimyasal arıtma gibi klasik yöntemlerle ilgili yönetmeliklerle belirlenen düzeyde arıtılamayan ya da arıtımı mümkün olmayan kirletici maddelerin giderilmesinde kullanılan arıtma işlemini,
 
 Çevre gönüllüsü: Bakanlıkça, uygun niteliklere sahip kişiler arasından seçilen ve bu Kanun ve Kanuna göre yürürlüğe konulan düzenlemelere aykırı faaliyetleri Bakanlığa iletmekle görevli ve yetkili kişiyi,
 
@@ -122,7 +122,7 @@ Bakanlık: Çevre ve Şehircilik Bakanlığını,
 
 ifade eder.
 
-İlkeler:
+**İlkeler:**
 
 **Madde 3 –** (Değişik: 26/4/2006-5491/3 md.)
 
@@ -142,7 +142,7 @@ f) Her türlü faaliyet sırasında doğal kaynakların ve enerjinin verimli bir
 
 g) Kirlenme ve bozulmanın önlenmesi, sınırlandırılması, giderilmesi ve çevrenin iyileştirilmesi için yapılan harcamalar kirleten veya bozulmaya neden olan tarafından karşılanır. Kirletenin kirlenmeyi veya bozulmayı durdurmak, gidermek veya azaltmak için gerekli önlemleri almaması veya bu önlemlerin yetkili makamlarca doğrudan alınması nedeniyle kamu kurum ve kuruluşlarınca yapılan gerekli harcamalar 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre kirletenden tahsil edilir.
 
-h) (Değişik:29/11/2018-7153/1 md.) Çevrenin korunması, çevre kirliliğinin önlenmesi ve giderilmesi , sıfır atığın yaygınlaştırılması, döngüsel ekonomi ilkelerinin uygulanması ve iklim değişikliği ile mücadele edilmesi için uyulması zorunlu standartlar ile vergi, harç, katılma payı, yenilenebilir enerji kaynaklarının ve temiz teknolojilerin teşviki, motorsuz veya elektrikli araçların teşviki, atıkların geri kazanımı ile arıtılmış atıksuların yeniden kullanımının teşviki, geri kazanım katılım payı, plastik içerikli poşet veya ambalaj ve tek kullanımlık materyallerin kullanımının azaltılması, depozito uygulaması, emisyon ücreti, kirletme bedeli ve kirliliğin önlenmesine yönelik teminat alınması ve sera gazı emisyonlarının takibine yönelik karbon ticareti gibi piyasaya dayalı mekanizmalar ile ekonomik araçlar ve teşvikler kullanılır. (Değişik cümle:24/12/2020-7261/12 md.) Bu bentteki uygulamalara ilişkin usul ve esaslar Bakanlıkça belirlenir .[5]
+h) **(Değişik:29/11/2018-7153/1 md.)** Çevrenin korunması, çevre kirliliğinin önlenmesi ve giderilmesi , sıfır atığın yaygınlaştırılması, döngüsel ekonomi ilkelerinin uygulanması ve iklim değişikliği ile mücadele edilmesi için uyulması zorunlu standartlar ile vergi, harç, katılma payı, yenilenebilir enerji kaynaklarının ve temiz teknolojilerin teşviki, motorsuz veya elektrikli araçların teşviki, atıkların geri kazanımı ile arıtılmış atıksuların yeniden kullanımının teşviki, geri kazanım katılım payı, plastik içerikli poşet veya ambalaj ve tek kullanımlık materyallerin kullanımının azaltılması, depozito uygulaması, emisyon ücreti, kirletme bedeli ve kirliliğin önlenmesine yönelik teminat alınması ve sera gazı emisyonlarının takibine yönelik karbon ticareti gibi piyasaya dayalı mekanizmalar ile ekonomik araçlar ve teşvikler kullanılır. **(Değişik cümle:24/12/2020-7261/12 md.)** Bu bentteki uygulamalara ilişkin usul ve esaslar Bakanlıkça belirlenir .[5]
 
 ı) Bölgesel ve küresel çevre sorunlarının çözümüne yönelik olarak taraf olduğumuz uluslararası anlaşmalar sonucu ortaya çıkan ulusal hak ve yükümlülüklerin yerine getirilmesi için gerekli teknik, idarî, malî ve hukukî düzenlemeler Bakanlığın koordinasyonunda yapılır.
 
@@ -152,7 +152,7 @@ j) Çevrenin korunması, çevre kirliliğinin önlenmesi ve çevre sorunlarını
 
 ### İKİNCİ BÖLÜM
 
-Yüksek Çevre Kurulu ve Görevleri [6]
+**Yüksek Çevre Kurulu ve Görevleri [6]**
 
 #### Yüksek Çevre Kurulu: 6
 
@@ -174,9 +174,9 @@ c) Birden fazla bakanlık ve kuruluşu ilgilendiren çevre konularına ilişkin 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çevre Korunmasına İlişkin Önlemler ve Yasaklar
+**Çevre Korunmasına İlişkin Önlemler ve Yasaklar**
 
-Kirletme yasağı:
+**Kirletme yasağı:**
 
 **Madde 8 –** Her türlü atık ve artığı, çevreye zarar verecek şekilde, ilgili yönetmeliklerde belirlenen standartlara ve yöntemlere aykırı olarak doğrudan ve dolaylı biçimde alıcı ortama vermek, depolamak, taşımak, uzaklaştırmak ve benzeri faaliyetlerde bulunmak yasaktır.
 
@@ -218,15 +218,15 @@ Yaygın eğitime yönelik olarak, radyo ve televizyon programlarında da çevren
 
 j) Çevre ile ilgili olarak toplanan her türlü kaynak ve gelir, tahsisi mahiyette olup, öncelikle çevrenin korunması, geliştirilmesi, ıslahı ve kirliliğin önlenmesi için kullanılır.
 
-Çevresel etki değerlendirilmesi :
+**Çevresel etki değerlendirilmesi :**
 
 **Madde 10 –** (Değişik: 26/4/2006-5491/7 md.)
 
 Gerçekleştirmeyi plânladıkları faaliyetleri sonucu çevre sorunlarına yol açabilecek kurum, kuruluş ve işletmeler, Çevresel Etki Değerlendirmesi Raporu veya proje tanıtım dosyası hazırlamakla yükümlüdürler.
 
-Çevresel Etki Değerlendirmesi Olumlu Kararı (…)[12] alınmadıkça bu projelerle ilgili onay, izin, teşvik, yapı ve kullanım ruhsatı verilemez; proje için yatırıma başlanamaz ve ihale edilemez. (Ek cümle:19/7/2025-7554/1 md.) Ancak, bu durum söz konusu teşvik, onay, izin ve ruhsat süreçlerine başvurulmasına engel teşkil etmez.
+Çevresel Etki Değerlendirmesi Olumlu Kararı (…)[12] alınmadıkça bu projelerle ilgili onay, izin, teşvik, yapı ve kullanım ruhsatı verilemez; proje için yatırıma başlanamaz ve ihale edilemez. **(Ek cümle:19/7/2025-7554/1 md.)** Ancak, bu durum söz konusu teşvik, onay, izin ve ruhsat süreçlerine başvurulmasına engel teşkil etmez.
 
-(İptal üçüncü fıkra: Anayasa Mahkemesi’nin 15/1/2009 tarihli ve E.:2006/99, K.:2009/9 sayılı Kararı ile.)
+**(İptal üçüncü fıkra: Anayasa Mahkemesi’nin 15/1/2009 tarihli ve E.:2006/99, K.:2009/9 sayılı Kararı ile.)**
 
 Çevresel Etki Değerlendirmesine tâbi projeler ve Stratejik Çevresel Değerlendirmeye tâbi plân ve programlar ve konuya ilişkin usûl ve esaslar Bakanlıkça çıkarılacak yönetmeliklerle belirlenir.
 
@@ -254,11 +254,11 @@ Atıksu altyapı sistemlerini kullanan ve/veya kullanacaklar, bağlantı sisteml
 
 Atıksu toplama havzasının birden fazla belediye veya kurumun yetki sahasında olması halinde; atıksu arıtma tesisini işleten kurum, atıksu ile ilgili yatırım ve harcama giderlerini kirletenlerden kirlilik yükü ve atıksu miktarı nispetinde tahsil eder.
 
-Atık üreticileri uygun metot ve teknolojiler ile atıklarını en az düzeye düşürecek tedbirleri almak zorundadırlar. (Ek cümleler:24/12/2020-7261/13 md.) Atık üreticileri, atıklarının yönetimini atık yönetim sorumlusu olarak yetki verilmiş firmalar aracılığıyla da yerine getirebilirler. Ancak, Bakanlıkça nitelikleri belirlenen atık üreticilerinin atıklarının yönetimini atık yönetim sorumlusu firmalar aracılığıyla yerine getirmeleri zorunludur. Atık üreticilerinin sorumlulukları ile atık yönetim sorumlusu firmaların yetkilendirilmesine ve yükümlülüklerine ilişkin usul ve esaslar Bakanlıkça çıkarılan yönetmelikle düzenlenir.
+Atık üreticileri uygun metot ve teknolojiler ile atıklarını en az düzeye düşürecek tedbirleri almak zorundadırlar. **(Ek cümleler:24/12/2020-7261/13 md.)** Atık üreticileri, atıklarının yönetimini atık yönetim sorumlusu olarak yetki verilmiş firmalar aracılığıyla da yerine getirebilirler. Ancak, Bakanlıkça nitelikleri belirlenen atık üreticilerinin atıklarının yönetimini atık yönetim sorumlusu firmalar aracılığıyla yerine getirmeleri zorunludur. Atık üreticilerinin sorumlulukları ile atık yönetim sorumlusu firmaların yetkilendirilmesine ve yükümlülüklerine ilişkin usul ve esaslar Bakanlıkça çıkarılan yönetmelikle düzenlenir.
 
-(Değişik fıkra:24/12/2020-7261/13 md.) Atıkların üretiminin ve zararlarının önlenmesi veya azaltılması ile atıkların geri kazanılması ve geri kazanılabilen atıkların kaynağında ayrı toplanması esastır. Sıfır atık yönetim sistemini kurarak belge alanlar, türlerine göre kaynağında ayrı biriktirdikleri atıklarını, Bakanlıktan çevre lisansı almış atık işleme tesislerine geri kazanımı sağlanmak üzere verebilirler. Atık yönetim plânlarının hazırlanmasına ve sıfır atık yönetim sistemine ilişkin usul ve esaslar Bakanlıkça çıkarılan yönetmelikle belirlenir ve bu çerçevede sıfır atık yönetim sisteminin kurulması ve işletilmesi zorunludur.
+**(Değişik fıkra:24/12/2020-7261/13 md.)** Atıkların üretiminin ve zararlarının önlenmesi veya azaltılması ile atıkların geri kazanılması ve geri kazanılabilen atıkların kaynağında ayrı toplanması esastır. Sıfır atık yönetim sistemini kurarak belge alanlar, türlerine göre kaynağında ayrı biriktirdikleri atıklarını, Bakanlıktan çevre lisansı almış atık işleme tesislerine geri kazanımı sağlanmak üzere verebilirler. Atık yönetim plânlarının hazırlanmasına ve sıfır atık yönetim sistemine ilişkin usul ve esaslar Bakanlıkça çıkarılan yönetmelikle belirlenir ve bu çerçevede sıfır atık yönetim sisteminin kurulması ve işletilmesi zorunludur.
 
-(Ek fıkra:24/12/2020-7261/13 md.) Atıkların, doğal kaynak ve hammadde kullanımının azaltılması ve geri kazanımın artırılması amacıyla kullanılması esastır. Atıkların veya atıklardan elde edilen geri dönüştürülmüş malzemelerin kullanımına yönelik düzenlemeler ile zorunlu kullanıma ilişkin esaslar Bakanlıkça çıkarılan yönetmelikle belirlenir. Geri kazanım imkânı olmayan atıklar, yönetmeliklerle belirlenen uygun yöntemlerle bertaraf edilir.
+**(Ek fıkra:24/12/2020-7261/13 md.)** Atıkların, doğal kaynak ve hammadde kullanımının azaltılması ve geri kazanımın artırılması amacıyla kullanılması esastır. Atıkların veya atıklardan elde edilen geri dönüştürülmüş malzemelerin kullanımına yönelik düzenlemeler ile zorunlu kullanıma ilişkin esaslar Bakanlıkça çıkarılan yönetmelikle belirlenir. Geri kazanım imkânı olmayan atıklar, yönetmeliklerle belirlenen uygun yöntemlerle bertaraf edilir.
 
 Geri kazanım imkânı olmayan atıklar, yönetmeliklerle belirlenen uygun yöntemlerle bertaraf edilir.
 
@@ -268,7 +268,7 @@ Büyükşehir belediyeleri ve belediyeler evsel katı atık bertaraf tesislerini
 
 Tehlikeli atık üreticileri, yönetmelikle belirlenecek esaslara göre atıklarını bertaraf etmek veya ettirmekle yükümlüdürler.
 
-Atık geri kazanım, geri dönüşüm ve bertaraf tesislerini kurmak ve işletmek isteyen gerçek ve/veya tüzel kişiler, yönetmelikle belirlenen esaslar doğrultusunda, ürün standardı, ürünlerinin satışa uygunluğu ve piyasadaki denetimi ile ilgili izni, ilgili kurumlardan almak kaydı ile Bakanlıktan lisans almakla yükümlüdür. (Ek cümleler:24/12/2020-7261/13 md.) Lisans almakla yükümlü gerçek ve/veya tüzel kişiler ile atık yönetim sorumlusu firmalardan alınacak teminatlar için yönetiminden sorumlu oldukları atıkların türü, miktarı ve bertaraf maliyeti temel alınır ve bu teminatlara ilişkin esaslar Bakanlıkça çıkarılan yönetmelikle belirlenir.
+Atık geri kazanım, geri dönüşüm ve bertaraf tesislerini kurmak ve işletmek isteyen gerçek ve/veya tüzel kişiler, yönetmelikle belirlenen esaslar doğrultusunda, ürün standardı, ürünlerinin satışa uygunluğu ve piyasadaki denetimi ile ilgili izni, ilgili kurumlardan almak kaydı ile Bakanlıktan lisans almakla yükümlüdür. **(Ek cümleler:24/12/2020-7261/13 md.)** Lisans almakla yükümlü gerçek ve/veya tüzel kişiler ile atık yönetim sorumlusu firmalardan alınacak teminatlar için yönetiminden sorumlu oldukları atıkların türü, miktarı ve bertaraf maliyeti temel alınır ve bu teminatlara ilişkin esaslar Bakanlıkça çıkarılan yönetmelikle belirlenir.
 
 Evsel atıklar hariç olmak üzere, atık taşıma ve/veya toplama işlerini yapan kurum veya kuruluşlar Bakanlıktan lisans almak zorundadır. Evsel atıkların taşıma ve toplama işlerini yapan kurum ve kuruluşlar Bakanlıkça kayıt altına alınır.
 
@@ -316,11 +316,11 @@ Tehlikeli kimyasalların üretimi, satışı, depolanması, kullanılması ve ta
 
 Bu maddede öngörülen zorunlu malî sorumluluk sigortası, malî yeterliliklerine göre, Hazine Müsteşarlığınca belirlenen sigorta şirketleri tarafından ya da bağlı olduğu Bakanın onayı ile Hazine Müsteşarlığınca çıkarılacak bir yönetmelikle oluşturulacak bir havuz tarafından temin edilir. Havuzun yönetim ve işleyişi ile ilgili usûl ve esaslar da aynı yönetmelikle belirlenir. Havuz, sigorta ve/veya reasürans havuzu şeklinde oluşturulur. Kamu adına havuzda belirli bir payın korunmasına karar verilmesi hususunda Hazine Müsteşarlığının bağlı bulunduğu Bakan yetkilidir. Havuzun başlangıç giderleri için geri ödenmek üzere Hazine Müsteşarlığı bütçesinden avans kullandırılabilir. Havuzun yükümlülükleri; prim gelirleri ve bunların getirileri, piyasalardan sağlayacağı reasürans ve benzeri korumalar ve ödeme gücüyle sınırlıdır.
 
-(Mülga fıkra:29/11/2018-7153/3 md.)
+**(Mülga fıkra:29/11/2018-7153/3 md.)**
 
 Her bir sorumlu tarafından yaptırılacak malî sorumluluk sigortasına ilişkin sigorta genel şartları Hazine Müsteşarlığınca onaylanır. Malî sorumluluk sigortası tarife ve talimatları Hazine Müsteşarlığının bağlı olduğu Bakan tarafından tespit edilir. Hazine Müsteşarlığının bağlı olduğu Bakan tarifeyi serbest bırakmaya yetkilidir.
 
-Gürültü:
+**Gürültü:**
 
 **Madde 14 –** (Değişik: 26/4/2006-5491/11 md.)
 
@@ -328,7 +328,7 @@ Kişilerin huzur ve sükununu, beden ve ruh sağlığını bozacak şekilde ilgi
 
 Ulaşım araçları, şantiye, fabrika, atölye, işyeri, eğlence yeri, hizmet binaları ve konutlardan kaynaklanan gürültü ve titreşimin yönetmeliklerle belirlenen standartlara indirilmesi için faaliyet sahipleri tarafından gerekli tedbirler alınır.
 
-Faaliyetlerin durdurulması:
+**Faaliyetlerin durdurulması:**
 
 **Madde 15 –** (Değişik: 26/4/2006-5491/12 md.)
 
@@ -340,15 +340,15 @@ Faaliyet; süre verilmemesi halinde derhal, süre verilmesi durumunda, bu süre 
 
 Süre verilmesi ve faaliyetin durdurulması, bu Kanunda öngörülen cezaların uygulanmasına engel teşkil etmez.
 
-Tehlikeli hallerde faaliyetin durdurulması:
+**Tehlikeli hallerde faaliyetin durdurulması:**
 
 **Madde 16 –** (Mülga: 26/4/2006-5491/24 md.)
 
 ### DÖRDÜNCÜ BÖLÜM
 
-(Mülga Bölüm Başlığı: 21/2/2001 - 4629/6 md.)
+**(Mülga Bölüm Başlığı: 21/2/2001 - 4629/6 md.)**
 
-Fonun kurulması ve fondan yararlanma:
+**Fonun kurulması ve fondan yararlanma:**
 
 **Madde 17 –** (Mülga: 21/2/2001 - 4629/6 md.)
 
@@ -364,7 +364,7 @@ b) Büyükşehir belediyeleri su ve kanalizasyon idarelerince tahsil edilen su v
 
 çevre katkı payı olarak tahsil edilir. Tahsil edilen bu tutarlar, ilgililerce en geç ertesi ayın onbeşine kadar ilgili mal saymanlıkları hesaplarına aktarılır ve bütçeye gelir kaydedilir.
 
-(Değişik fıkra:29/11/2018-7153/4 md.) Ayrıca ek 11 inci ve ek 13 üncü maddeler kapsamında elde edilen gelirler, yurt içi ve yurt dışından temin edilecek her türlü hibe, yardım ve bağışlar ile kredi anapara geri dönüşleri ve kredi faizleri de tahsil edilerek, Çevre ve Şehircilik Bakanlığı Merkez Saymanlık Müdürlüğü hesabına yatırılır ve bütçeye gelir kaydedilir.
+**(Değişik fıkra:29/11/2018-7153/4 md.)** Ayrıca ek 11 inci ve ek 13 üncü maddeler kapsamında elde edilen gelirler, yurt içi ve yurt dışından temin edilecek her türlü hibe, yardım ve bağışlar ile kredi anapara geri dönüşleri ve kredi faizleri de tahsil edilerek, Çevre ve Şehircilik Bakanlığı Merkez Saymanlık Müdürlüğü hesabına yatırılır ve bütçeye gelir kaydedilir.
 
 Bu maddede sayılan gelirlerin tahsilatında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
 
@@ -374,13 +374,13 @@ Atıksu arıtımı, atık bertarafı ve katı atık geri kazanım tesislerinin g
 
 Yukarıda sayılan gelirlerin tahsili ve bütçede öngörülen ödeneklerin kullanımı ile ilgili usûl ve esaslar, Hazine ve Maliye Bakanlığının uygun görüşü üzerine Bakanlıkça çıkarılacak yönetmelikle belirlenir.[27]
 
-Fonun kullanılması:
+**Fonun kullanılması:**
 
 **Madde 19 –** (Mülga: 21/2/2001 - 4629/6 md.)
 
 ### BEŞİNCİ BÖLÜM
 
-Cezai hükümler
+**Cezai hükümler**
 
 #### İdari nitelikteki cezalar: [28]
 
@@ -388,61 +388,61 @@ Cezai hükümler
 
 İdarî nitelikteki cezalar şunlardır:
 
-a) (Değişik:29/11/2018-7153/5 md.)
+a) **(Değişik:29/11/2018-7153/5 md.)**
 
-1) Ek 4 üncü madde uyarınca, egzoz gazı emisyon ölçümü yaptırmayan motorlu taşıt sahiplerine 1.250 Türk lirası (17.957 TL) , ancak aynı aracın yönetmeliklerle belirlenen standartlara aykırı emisyona sebep olması durumunda motorlu taşıt sahibine 2.500 Türk lirası (35.936 TL),
+1) Ek 4 üncü madde uyarınca, egzoz gazı emisyon ölçümü yaptırmayan motorlu taşıt sahiplerine 1.250 Türk lirası **(17.957 TL)** , ancak aynı aracın yönetmeliklerle belirlenen standartlara aykırı emisyona sebep olması durumunda motorlu taşıt sahibine 2.500 Türk lirası **(35.936 TL),**
 
-2) Taşıtın imalatında bulunan egzoz gazı emisyon kontrol sistemi olan katalitik konvertör/katalizör/dizel partikül filtresi olmadan kullanılan motorlu taşıt sahibine 1.250 Türk lirası (17.957 TL),
+2) Taşıtın imalatında bulunan egzoz gazı emisyon kontrol sistemi olan katalitik konvertör/katalizör/dizel partikül filtresi olmadan kullanılan motorlu taşıt sahibine 1.250 Türk lirası **(17.957 TL),**
 
-3) Egzoz Gazı Emisyon Yetki Belgesi bulunan ancak yetkilendirme sonrasında ilgili yönetmelikle düzenlenen şartları kaybettiği tespit edildiği halde ölçüme devam eden ve/veya tekniğine ve belirlenen kurallara aykırı ölçümler yapanlara 5.000 Türk lirası (71.879 TL),
+3) Egzoz Gazı Emisyon Yetki Belgesi bulunan ancak yetkilendirme sonrasında ilgili yönetmelikle düzenlenen şartları kaybettiği tespit edildiği halde ölçüme devam eden ve/veya tekniğine ve belirlenen kurallara aykırı ölçümler yapanlara 5.000 Türk lirası **(71.879 TL),**
 
-4) Bu Kanun kapsamında yapılan düzenlemelerle öngörülen belge olmadan emisyon ölçümü yapanlara ve/veya belgelerde tahrifat yapanlara ve/veya sahte belge düzenleyenlere diğer kanunlarda yazılı yaptırımlar saklı kalmak üzere 10.000 Türk lirası (143.791 TL),
+4) Bu Kanun kapsamında yapılan düzenlemelerle öngörülen belge olmadan emisyon ölçümü yapanlara ve/veya belgelerde tahrifat yapanlara ve/veya sahte belge düzenleyenlere diğer kanunlarda yazılı yaptırımlar saklı kalmak üzere 10.000 Türk lirası **(143.791 TL),**
 
 idari para cezası verilir.
 
-b) Hava kirliliği yönünden önemli etkileri nedeniyle kurulması ve işletilmesi yönetmelikle izne tâbi tutulan tesisleri, yetkili makamlardan izin almadan kuran ve işleten veya iznin iptal edilmesine rağmen kurmaya ve işletmeye devam eden veya bu tesislerde izin almaksızın sonradan değişiklik yapan veya yetkili makamların gerekli gördükleri değişiklikleri tanınan sürede yapmayanlara 24.000 Türk Lirası (839.122 TL) idarî para cezası verilir. Bu tesislerde emisyon miktarları yönetmelikle belirlenen sınırları aşıyorsa 48.000 Türk Lirası (1.678.359 TL) idarî para cezası verilir.
+b) Hava kirliliği yönünden önemli etkileri nedeniyle kurulması ve işletilmesi yönetmelikle izne tâbi tutulan tesisleri, yetkili makamlardan izin almadan kuran ve işleten veya iznin iptal edilmesine rağmen kurmaya ve işletmeye devam eden veya bu tesislerde izin almaksızın sonradan değişiklik yapan veya yetkili makamların gerekli gördükleri değişiklikleri tanınan sürede yapmayanlara 24.000 Türk Lirası **(839.122 TL)** idarî para cezası verilir. Bu tesislerde emisyon miktarları yönetmelikle belirlenen sınırları aşıyorsa 48.000 Türk Lirası **(1.678.359 TL)** idarî para cezası verilir.
 
-İzne tâbi tesisleri, aldıkları izin belgesinde veya yönetmeliklerde öngörülen önlemleri almadan veya yönetmeliklerde belirlenen emisyon standartlarına ve sınırlamalarına aykırı olarak işletenlere 24.000 Türk Lirası (839.122 TL) idarî para cezası verilir.
+İzne tâbi tesisleri, aldıkları izin belgesinde veya yönetmeliklerde öngörülen önlemleri almadan veya yönetmeliklerde belirlenen emisyon standartlarına ve sınırlamalarına aykırı olarak işletenlere 24.000 Türk Lirası **(839.122 TL)** idarî para cezası verilir.
 
-c) Hava kirliliği yönünden kurulması ve işletilmesi izne tâbi olmayan tesislerin işletilmesi sırasında yönetmelikle belirlenen standartlara aykırı emisyona neden olanlara 6.000 Türk Lirası (209.624 TL) idarî para cezası verilir.
+c) Hava kirliliği yönünden kurulması ve işletilmesi izne tâbi olmayan tesislerin işletilmesi sırasında yönetmelikle belirlenen standartlara aykırı emisyona neden olanlara 6.000 Türk Lirası **(209.624 TL)** idarî para cezası verilir.
 
-Bu Kanunun ek 9 uncu maddesine aykırı davrananlara 2.000 Türk Lirası (69.772 TL) idarî para cezası verilir.
+Bu Kanunun ek 9 uncu maddesine aykırı davrananlara 2.000 Türk Lirası **(69.772 TL)** idarî para cezası verilir.
 
-Bu bendin birinci paragrafında öngörülen fiilin konutlarla ilgili olarak işlenmesi halinde verilecek ceza toplu veya ferdî ısıtılan konutlarda her bağımsız bölüm için 300 Türk Lirasıdır (10.354 TL). Bu cezai sorumluluk toplu ısıtılan konutlarda yöneticiye, ferdî ısıtılan konutlarda ise konutu kullanana aittir.
+Bu bendin birinci paragrafında öngörülen fiilin konutlarla ilgili olarak işlenmesi halinde verilecek ceza toplu veya ferdî ısıtılan konutlarda her bağımsız bölüm için 300 Türk Lirasıdır **(10.354 TL).** Bu cezai sorumluluk toplu ısıtılan konutlarda yöneticiye, ferdî ısıtılan konutlarda ise konutu kullanana aittir.
 
-(Ek paragraf:24/12/2020-7261/17 md.) Benzin ve naftanın depolanması, dolumu ve tankerlerle nakliyesine ilişkin terminaller, dolum adaları veya akaryakıt istasyonlarında kullanılan her türlü düzenek, tesis ile tankerlerden salınan uçucu organik bileşiklerin kontrolüne ilişkin Bakanlıkça belirlenen esas ve kriterlere uymayan; terminaller veya dolum adaları için 60.000 Türk lirası (521.404 TL) , akaryakıt istasyonları için 30.000 Türk lirası (260.701 TL), tankerler için 3.000 Türk lirası (26.065 TL) idari para cezası verilir.
+**(Ek paragraf:24/12/2020-7261/17 md.)** Benzin ve naftanın depolanması, dolumu ve tankerlerle nakliyesine ilişkin terminaller, dolum adaları veya akaryakıt istasyonlarında kullanılan her türlü düzenek, tesis ile tankerlerden salınan uçucu organik bileşiklerin kontrolüne ilişkin Bakanlıkça belirlenen esas ve kriterlere uymayan; terminaller veya dolum adaları için 60.000 Türk lirası **(521.404 TL)** , akaryakıt istasyonları için 30.000 Türk lirası **(260.701 TL),** tankerler için 3.000 Türk lirası **(26.065 TL)** idari para cezası verilir.
 
 d) Hava kirliliği yönünden özel önem taşıyan bölgelerde veya kirliliğin ciddi boyutlara ulaştığı zamanlarda ve yerlerde veya kritik meteorolojik şartlarda yönetmeliklerle öngörülen önlemleri almayan, yasaklara aykırı davranan ya da mahallî çevre kurullarınca bu konuda alınan kararlara uymayanlara bu maddenin (b) ve (c) bentlerinde öngörülen cezalar bir kat artırılarak verilir.
 
-(Değişik paragraf:29/11/2018-7153/5 md.) Katı yakıtlar için bu Kanun kapsamında yapılan düzenlemelerle öngörülen;
+**(Değişik paragraf:29/11/2018-7153/5 md.)** Katı yakıtlar için bu Kanun kapsamında yapılan düzenlemelerle öngörülen;
 
-1) Katı yakıt özelliklerini sağlamayan yakıtları ithal eden veya satanlara; katı yakıtların depolanması, taşınması, yüklenmesi, boşaltılması veya torbalanmasına ilişkin düzenlemelere uymayanlara 10.000 Türk lirası (143.791 TL),
+1) Katı yakıt özelliklerini sağlamayan yakıtları ithal eden veya satanlara; katı yakıtların depolanması, taşınması, yüklenmesi, boşaltılması veya torbalanmasına ilişkin düzenlemelere uymayanlara 10.000 Türk lirası **(143.791 TL),**
 
-2) Belgelerin veya izinlerin alınmaması durumunda 15.000 Türk lirası (215.693 TL) ,
+2) Belgelerin veya izinlerin alınmaması durumunda 15.000 Türk lirası **(215.693 TL) ,**
 
 idari para cezası verilir.
 
 e) Çevresel Etki Değerlendirmesi süreci tamamlamadan inşaata başlayan ya da faaliyete geçenlere proje bedelinin yüzde ikisi oranında idarî para cezası verilir. Cezaya konu olan durumlarda yatırımcı faaliyet alanını eski hale getirmekle yükümlüdür. [29]
 
-Çevresel Etki Değerlendirmesi sürecinde verdikleri taahhütnameye aykırı davrananlara, her bir ihlal için 10.000 Türk Lirası (349.534 TL) idarî para cezası verilir.
+Çevresel Etki Değerlendirmesi sürecinde verdikleri taahhütnameye aykırı davrananlara, her bir ihlal için 10.000 Türk Lirası **(349.534 TL)** idarî para cezası verilir.
 
-f) 11 inci maddeye göre kurulması zorunlu olan atık alım, ön arıtma, arıtma veya bertaraf tesislerini kurmayanlar ile kurup da çalıştırmayanlara 60.000 Türk Lirası (2.097.997 TL) idarî para cezası verilir. (Ek cümle:10/6/2022-7410/5 md.) Boğazlar ve Susurluk Havzası dâhil Marmara Denizi Hidrolojik Havzası’nda ve bu Havza’da yer alan illerden İstanbul, Bursa ve Kocaeli illerinin tamamında bu bentteki ceza iki kat olarak uygulanır.
+f) 11 inci maddeye göre kurulması zorunlu olan atık alım, ön arıtma, arıtma veya bertaraf tesislerini kurmayanlar ile kurup da çalıştırmayanlara 60.000 Türk Lirası **(2.097.997 TL)** idarî para cezası verilir. **(Ek cümle:10/6/2022-7410/5 md.)** Boğazlar ve Susurluk Havzası dâhil Marmara Denizi Hidrolojik Havzası’nda ve bu Havza’da yer alan illerden İstanbul, Bursa ve Kocaeli illerinin tamamında bu bentteki ceza iki kat olarak uygulanır.
 
-g) 12 nci maddede öngörülen bildirim ve bilgi verme yükümlülüğünü yerine getirmeyenlere 6.000 Türk Lirası (209.624 TL) idarî para cezası verilir.
+g) 12 nci maddede öngörülen bildirim ve bilgi verme yükümlülüğünü yerine getirmeyenlere 6.000 Türk Lirası **(209.624 TL)** idarî para cezası verilir.
 
-h) Bu Kanunun 14 üncü maddesine göre çıkarılan yönetmelikle belirlenen önlemleri veya gerekli izinleri almayan veya standartlara aykırı şekilde gürültü ve titreşime neden olanlara, konutlar için 400 Türk Lirası (13.847 TL) , ulaşım araçları için 1.200 Türk Lirası (41.820 TL) , işyerleri ve atölyeler için 4.000 Türk Lirası (139.746 TL) , fabrika, şantiye ve eğlence gürültüsü için 12.000 Türk Lirası (419.509 TL) idarî para cezası verilir. 29
+h) Bu Kanunun 14 üncü maddesine göre çıkarılan yönetmelikle belirlenen önlemleri veya gerekli izinleri almayan veya standartlara aykırı şekilde gürültü ve titreşime neden olanlara, konutlar için 400 Türk Lirası **(13.847 TL)** , ulaşım araçları için 1.200 Türk Lirası **(41.820 TL)** , işyerleri ve atölyeler için 4.000 Türk Lirası **(139.746 TL)** , fabrika, şantiye ve eğlence gürültüsü için 12.000 Türk Lirası **(419.509 TL)** idarî para cezası verilir. 29
 
 ı) Bu Kanunda öngörülen yasaklara ve sınırlamalara aykırı olarak ülkenin egemenlik alanlarındaki denizlerde ve yargılama yetkisine tâbi olan deniz yetki alanlarında ve bunlarla bağlantılı sularda, tabiî veya sunî göller ve baraj gölleri ile akarsularda;
 
-1) (Değişik:29/11/2018-7153/5 md.) Petrol ve petrol türevleri (ham petrol, akaryakıt, sintine, slaç, slop, rafine ürün, yağlı atık vb.) tahliyesi veya deşarjı yapan tankerlerden, bin (dahil) grostona kadar olanlar için groston başına 400 Türk lirası (5.752,34 TL) , bin ilâ beşbin (dahil) groston arasında olanlara, bu miktar ve ilave her groston başına 100 Türk lirası (1.438,13 TL) , beşbin grostondan fazla olanlara ise, yukarıdaki miktarlar ve ilave her groston başına 10 Türk lirası (143,75 TL) ,
+1) **(Değişik:29/11/2018-7153/5 md.)** Petrol ve petrol türevleri (ham petrol, akaryakıt, sintine, slaç, slop, rafine ürün, yağlı atık vb.) tahliyesi veya deşarjı yapan tankerlerden, bin (dahil) grostona kadar olanlar için groston başına 400 Türk lirası **(5.752,34 TL)** , bin ilâ beşbin (dahil) groston arasında olanlara, bu miktar ve ilave her groston başına 100 Türk lirası **(1.438,13 TL)** , beşbin grostondan fazla olanlara ise, yukarıdaki miktarlar ve ilave her groston başına 10 Türk lirası **(143,75 TL) ,**
 
-2) Kirli balast tahliyesi yapan tankerlerden bin (dahil) gros tona kadar olanlar için gros ton başına 30 Türk Lirası (1.048,03 TL) , bin ilâ beşbin (dahil) gros ton arasında olanlara bu miktar ve ilave her gros ton başına 6 Türk Lirası (209,08 TL) , beşbin gros tondan fazla olanlara ise, yukarıdaki miktarlar ve ilave her gros ton başına 100 Kuruş (33,18 TL) ,
+2) Kirli balast tahliyesi yapan tankerlerden bin (dahil) gros tona kadar olanlar için gros ton başına 30 Türk Lirası **(1.048,03 TL)** , bin ilâ beşbin (dahil) gros ton arasında olanlara bu miktar ve ilave her gros ton başına 6 Türk Lirası **(209,08 TL)** , beşbin gros tondan fazla olanlara ise, yukarıdaki miktarlar ve ilave her gros ton başına 100 Kuruş **(33,18 TL) ,**
 
-3) (Değişik:29/11/2018-7153/5 md.) Petrol türevleri (sintine, slaç, slop, akaryakıt, yağlı atık vb.) veya kirli balast tahliyesi yapan gemi ve diğer deniz vasıtalarından bin grostona kadar olanlar için groston başına 200 Türk lirası (2.876,16 TL) , bin ilâ beşbin (dahil) groston arasında olanlara bu miktar ve ilave her groston başına 40 Türk lirası (575,25 TL) , beşbin grostondan fazla olanlara ise, yukarıdaki miktarlar ve ilave her groston başına 10 Türk lirası (143,75 TL) ,
+3) **(Değişik:29/11/2018-7153/5 md.)** Petrol türevleri (sintine, slaç, slop, akaryakıt, yağlı atık vb.) veya kirli balast tahliyesi yapan gemi ve diğer deniz vasıtalarından bin grostona kadar olanlar için groston başına 200 Türk lirası **(2.876,16 TL)** , bin ilâ beşbin (dahil) groston arasında olanlara bu miktar ve ilave her groston başına 40 Türk lirası **(575,25 TL)** , beşbin grostondan fazla olanlara ise, yukarıdaki miktarlar ve ilave her groston başına 10 Türk lirası **(143,75 TL) ,**
 
-4) (Değişik:29/11/2018-7153/5 md.) (Ek cümle:10/6/2022-7410/5 md.) On sekiz (dâhil) grostona kadar olan tanker, gemi ve diğer deniz araçlarından kaynaklı evsel atıksuların, deterjanlı su, köpük, egzoz gazı yıkama sistemi suları vb. yıkama sularının veya katı atıkların denize boşaltılması durumunda 5.000 Türk lirası (31.898 TL) , on sekiz ilâ elli (dâhil) groston arasında olanlara 10.000 Türk lirası (63.802 TL) , elli ilâ yüz (dâhil) groston arasında olanlara 20.000 Türk lirası (127.605 TL) , yüz ilâ yüz elli (dâhil) groston arasında olanlara 30.000 Türk lirası (191.411 TL) idari para cezası uygulanır. Yüz elli groston ilâ bin (dahil) grostona kadar olanlar için groston başına 100 Türk lirası (1.438,13 TL) , bin ilâ beşbin (dahil) groston arasında olanlara bu miktar ve ilave her groston başına 20 Türk lirası (287,64 TL) , beşbin grostondan fazla olanlara ise yukarıdaki miktarlar ve ilave her groston başına 11,59 Türk lirası (33,18 TL) , 29 [30][31]
+4) **(Değişik:29/11/2018-7153/5 md.) (Ek cümle:10/6/2022-7410/5 md.)** On sekiz (dâhil) grostona kadar olan tanker, gemi ve diğer deniz araçlarından kaynaklı evsel atıksuların, deterjanlı su, köpük, egzoz gazı yıkama sistemi suları vb. yıkama sularının veya katı atıkların denize boşaltılması durumunda 5.000 Türk lirası **(31.898 TL)** , on sekiz ilâ elli (dâhil) groston arasında olanlara 10.000 Türk lirası **(63.802 TL)** , elli ilâ yüz (dâhil) groston arasında olanlara 20.000 Türk lirası **(127.605 TL)** , yüz ilâ yüz elli (dâhil) groston arasında olanlara 30.000 Türk lirası **(191.411 TL)** idari para cezası uygulanır. Yüz elli groston ilâ bin (dahil) grostona kadar olanlar için groston başına 100 Türk lirası **(1.438,13 TL)** , bin ilâ beşbin (dahil) groston arasında olanlara bu miktar ve ilave her groston başına 20 Türk lirası **(287,64 TL)** , beşbin grostondan fazla olanlara ise yukarıdaki miktarlar ve ilave her groston başına 11,59 Türk lirası **(33,18 TL) ,** 29 [30][31]
 
-idarî para cezası verilir. (Ek cümle:30/3/2023-7446/2 md.) Ancak yüzbin grostondan büyük tanker, gemi ve diğer deniz araçları için yüzbin groston esas alınarak idarî para cezası verilir.
+idarî para cezası verilir. **(Ek cümle:30/3/2023-7446/2 md.)** Ancak yüzbin grostondan büyük tanker, gemi ve diğer deniz araçları için yüzbin groston esas alınarak idarî para cezası verilir.
 
 Tehlikeli madde ve atıkların deşarjı durumunda uygulanacak idarî para cezaları, petrol ve türevleri kategorisi esas alınarak on katı verilir.
 
@@ -452,111 +452,111 @@ Cezanın derhal ve defaten ödenmemesi veya bu hususta yeterli teminat gösteril
 
 Yabancı devlet egemenliği altındaki sularda bu devletlerin mevzuatının Türk bayraklı gemiler tarafından ihlali durumunda, ilgili devletin ceza uygulamaması ve Türkiye'nin cezalandırmasını talep etmesi durumunda bu Kanun hükümleri uygulanır.
 
-Bu bendin birinci paragrafı dışında, bu Kanun ve bu Kanun uyarınca çıkarılan yönetmeliklere aykırı olarak ülkenin egemenlik alanındaki denizlere ve yargılama yetkisine tâbi olan deniz yetki alanlarına, içme ve kullanma suyu sağlama amacına yönelik olmayan sulara atık boşaltanlara, su kirliliği nedeni ile kurulması veya işletilmesi yönetmelikle izne tâbi tutulan tesisleri, yetkili makamlardan izin almadan kuran, işleten veya izni iptal edilmesine rağmen kurmaya veya işletmeye devam eden veya bu tesislerde izin almaksızın sonradan değişiklik yapan veya yetkili makamların gerekli gördükleri değişiklikleri tanınan sürede yapmayanlara 24.000 Türk Lirası (839.122 TL) idarî para cezası verilir. Yukarıda öngörülen fiilin konutlarla ilgili olarak işlenmesi halinde her konut ve bağımsız bölüm için 600 Türk Lirası (20.842 TL) idarî para cezası verilir. Bu cezai sorumluluk, müstakil konutlarda konutu kullanana, diğer konutlarda ise yöneticiye aittir.[32]
+Bu bendin birinci paragrafı dışında, bu Kanun ve bu Kanun uyarınca çıkarılan yönetmeliklere aykırı olarak ülkenin egemenlik alanındaki denizlere ve yargılama yetkisine tâbi olan deniz yetki alanlarına, içme ve kullanma suyu sağlama amacına yönelik olmayan sulara atık boşaltanlara, su kirliliği nedeni ile kurulması veya işletilmesi yönetmelikle izne tâbi tutulan tesisleri, yetkili makamlardan izin almadan kuran, işleten veya izni iptal edilmesine rağmen kurmaya veya işletmeye devam eden veya bu tesislerde izin almaksızın sonradan değişiklik yapan veya yetkili makamların gerekli gördükleri değişiklikleri tanınan sürede yapmayanlara 24.000 Türk Lirası **(839.122 TL)** idarî para cezası verilir. Yukarıda öngörülen fiilin konutlarla ilgili olarak işlenmesi halinde her konut ve bağımsız bölüm için 600 Türk Lirası **(20.842 TL)** idarî para cezası verilir. Bu cezai sorumluluk, müstakil konutlarda konutu kullanana, diğer konutlarda ise yöneticiye aittir.[32]
 
-(Ek paragraf:24/12/2020-7261/17 md.) Su ürünleri yetiştiriciliği faaliyetleri ile ilgili olarak bu Kanunun 9 uncu maddesinin birinci fıkrasının (h) bendine aykırı davrananlara 100.000 Türk lirası (869.009 TL) idari para cezası verilir.
+**(Ek paragraf:24/12/2020-7261/17 md.)** Su ürünleri yetiştiriciliği faaliyetleri ile ilgili olarak bu Kanunun 9 uncu maddesinin birinci fıkrasının (h) bendine aykırı davrananlara 100.000 Türk lirası **(869.009 TL)** idari para cezası verilir.
 
-i) Bu Kanunun ek 8 inci maddesi uyarınca yürürlüğe konulan yönetmelik hükümlerine aykırı davrananlara 1.000 Türk Lirası (34.814 TL) idarî para cezası verilir.
+i) Bu Kanunun ek 8 inci maddesi uyarınca yürürlüğe konulan yönetmelik hükümlerine aykırı davrananlara 1.000 Türk Lirası **(34.814 TL)** idarî para cezası verilir.
 
-j) Kanunda ve yönetmelikte öngörülen yasaklara veya standartlara aykırı olarak veya önlemleri almadan atıkları toprağa verenlere 24.000 Türk Lirası (839.122 TL) idarî para cezası verilir.
+j) Kanunda ve yönetmelikte öngörülen yasaklara veya standartlara aykırı olarak veya önlemleri almadan atıkları toprağa verenlere 24.000 Türk Lirası **(839.122 TL)** idarî para cezası verilir.
 
-Bu fiilin konutlarla ilgili olarak işlenmesi halinde her konut ve bağımsız bölüm için 600 Türk Lirası (20.842 TL) idarî para cezası verilir. Bu cezai sorumluluk, müstakil konutlarda konutu kullanana, diğer konutlarda ise yöneticiye aittir.
+Bu fiilin konutlarla ilgili olarak işlenmesi halinde her konut ve bağımsız bölüm için 600 Türk Lirası **(20.842 TL)** idarî para cezası verilir. Bu cezai sorumluluk, müstakil konutlarda konutu kullanana, diğer konutlarda ise yöneticiye aittir.
 
-k) Bu Kanunun 9 uncu maddesinin (a) bendinde belirtilen hususlara aykırı olarak biyolojik çeşitliliği tahrip edenlere, (d) bendi uyarınca ilan edilen Özel Çevre Koruma Bölgeleri için tespit edilen koruma ve kullanma esaslarına aykırı davrananlara ve (e) bendinin ikinci paragrafı uyarınca sulak alanlar için yönetmelikle belirlenen koruma ve kullanım usûl ve esaslarına aykırı davrananlar ile (f) bendinde belirlenen esaslara ve yasaklamalara aykırı davrananlara 20.000 Türk Lirası (699.245 TL) , (e) bendinin birinci paragrafına aykırı davrananlara 100.000 Türk Lirası (3.496.767 TL) idarî para cezası verilir.[33]
+k) Bu Kanunun 9 uncu maddesinin (a) bendinde belirtilen hususlara aykırı olarak biyolojik çeşitliliği tahrip edenlere, (d) bendi uyarınca ilan edilen Özel Çevre Koruma Bölgeleri için tespit edilen koruma ve kullanma esaslarına aykırı davrananlara ve (e) bendinin ikinci paragrafı uyarınca sulak alanlar için yönetmelikle belirlenen koruma ve kullanım usûl ve esaslarına aykırı davrananlar ile (f) bendinde belirlenen esaslara ve yasaklamalara aykırı davrananlara 20.000 Türk Lirası **(699.245 TL)** , (e) bendinin birinci paragrafına aykırı davrananlara 100.000 Türk Lirası **(3.496.767 TL)** idarî para cezası verilir.[33]
 
-l) Bu Kanunun ek 1 inci maddesinin (c) bendine aykırı olarak anız yakanlara her dekar için 20 Türk Lirası (698,62 TL) idarî para cezası verilir. Anız yakma fiilinin orman ve sulak alanlara bitişik yerler ile meskûn mahallerde işlenmesi durumunda ceza beş kat artırılır.
+l) Bu Kanunun ek 1 inci maddesinin (c) bendine aykırı olarak anız yakanlara her dekar için 20 Türk Lirası **(698,62 TL)** idarî para cezası verilir. Anız yakma fiilinin orman ve sulak alanlara bitişik yerler ile meskûn mahallerde işlenmesi durumunda ceza beş kat artırılır.
 
-(Değişik paragraf:24/12/2020-7261/17 md.) Ek 1 inci maddenin (d) bendi uyarınca çıkarılan yönetmelik esaslarına aykırı olarak faaliyet gösterenlere 100.000 Türk lirasından (869.009 TL) 300.000 Türk lirasına (2.607.030 TL) kadar, bu faaliyetlerin sanat yapılarına zarar vermesi veya akarsuyun akış rejimini bozması halinde 300.000 Türk lirası (2.607.030 TL) , kum, çakıl ve benzeri maddeleri alanlara ise metreküp başına 450 Türk lirası (3.910,56 TL) idari para cezası verilir.
+**(Değişik paragraf:24/12/2020-7261/17 md.)** Ek 1 inci maddenin (d) bendi uyarınca çıkarılan yönetmelik esaslarına aykırı olarak faaliyet gösterenlere 100.000 Türk lirasından **(869.009 TL)** 300.000 Türk lirasına **(2.607.030 TL)** kadar, bu faaliyetlerin sanat yapılarına zarar vermesi veya akarsuyun akış rejimini bozması halinde 300.000 Türk lirası **(2.607.030 TL)** , kum, çakıl ve benzeri maddeleri alanlara ise metreküp başına 450 Türk lirası **(3.910,56 TL)** idari para cezası verilir.
 
-m) Bu Kanunun ek 2 nci maddesinde öngörülen çevre yönetimi hizmeti almayanlardan; çevre yönetim birimini kurmayanlara ya da çevre danışmanlık firmalarından hizmet almayanlara (…) [34] 6.000 Türk Lirası (209.624 TL) , çevre mühendisi veya Bakanlıkça yetkilendirilen kişiyi (…) 34 bulundurmayanlara 4.000 Türk Lirası (139.746 TL) idarî para cezası verilir.[35][36]
+m) Bu Kanunun ek 2 nci maddesinde öngörülen çevre yönetimi hizmeti almayanlardan; çevre yönetim birimini kurmayanlara ya da çevre danışmanlık firmalarından hizmet almayanlara (…) [34] 6.000 Türk Lirası **(209.624 TL)** , çevre mühendisi veya Bakanlıkça yetkilendirilen kişiyi (…) 34 bulundurmayanlara 4.000 Türk Lirası **(139.746 TL)** idarî para cezası verilir.[35][36]
 
-(Ek paragraf:7/5/2026-7579/8 md.) Ek 2 nci maddenin birinci fıkrasındaki bildirim yükümlülüğünü yerine getirmeyen ve/veya tespit edilen aykırılıkları aylık faaliyet raporunda belirtmeyen çevre danışmanlık firmalarına 75.000 Türk lirası idari para cezası verilir.
+**(Ek paragraf:7/5/2026-7579/8 md.)** Ek 2 nci maddenin birinci fıkrasındaki bildirim yükümlülüğünü yerine getirmeyen ve/veya tespit edilen aykırılıkları aylık faaliyet raporunda belirtmeyen çevre danışmanlık firmalarına 75.000 Türk lirası idari para cezası verilir.
 
-(Ek paragraf:7/5/2026-7579/8 md.) Ayrıca çevre yönetimi hizmeti verenlere, esasları ilgili yönetmelikte belirlenen yükümlülükleri yerine getirmedikleri takdirde ceza puanı uygulanır, uygulanan ceza puanının dört yıl içerisinde 100 puana ulaşması durumunda yeterlik belgesi yüzseksen gün süre ile askıya alınır. Uygulanan ceza puanının dört yıl içinde 200 puana ulaşması durumunda yeterlik belgesi iki yıl süreyle iptal edilir.
+**(Ek paragraf:7/5/2026-7579/8 md.)** Ayrıca çevre yönetimi hizmeti verenlere, esasları ilgili yönetmelikte belirlenen yükümlülükleri yerine getirmedikleri takdirde ceza puanı uygulanır, uygulanan ceza puanının dört yıl içerisinde 100 puana ulaşması durumunda yeterlik belgesi yüzseksen gün süre ile askıya alınır. Uygulanan ceza puanının dört yıl içinde 200 puana ulaşması durumunda yeterlik belgesi iki yıl süreyle iptal edilir.
 
-n) Bu Kanunun 9 uncu maddesi uyarınca belirlenen koruma esaslarına aykırı olarak içme ve kullanma suyu koruma alanlarına, kaynağın kendisine ve bu kaynağı besleyen yerüstü ve yeraltı sularına, sulama ve drenaj kanallarına atık boşaltanlara 48.000 Türk Lirası (1.678.359 TL) idarî para cezası verilir.
+n) Bu Kanunun 9 uncu maddesi uyarınca belirlenen koruma esaslarına aykırı olarak içme ve kullanma suyu koruma alanlarına, kaynağın kendisine ve bu kaynağı besleyen yerüstü ve yeraltı sularına, sulama ve drenaj kanallarına atık boşaltanlara 48.000 Türk Lirası **(1.678.359 TL)** idarî para cezası verilir.
 
-Bu fiilin konutlarla ilgili olarak işlenmesi halinde her konut ve bağımsız bölüm için 1.200 Türk Lirası (41.820 TL) idarî para cezası verilir. Bu cezai sorumluluk, müstakil konutlarda konutu kullanana, diğer konutlarda ise yöneticiye aittir.
+Bu fiilin konutlarla ilgili olarak işlenmesi halinde her konut ve bağımsız bölüm için 1.200 Türk Lirası **(41.820 TL)** idarî para cezası verilir. Bu cezai sorumluluk, müstakil konutlarda konutu kullanana, diğer konutlarda ise yöneticiye aittir.
 
 Bu alanlarda Kanuna ve yönetmeliklere aykırı olarak yapılan yapılar 3194 sayılı İmar Kanununda belirlenen esaslara göre yıktırılır.
 
-o) Bu Kanunun 11 inci maddesinde öngörülen acil durum plânlarını yönetmelikle belirlenen usûl ve esaslara uygun olarak hazırlamayan ve bu plânların uygulanması için gerekli tedbirleri almayan, ekip ve ekipmanları bulundurmayanlar ile yerel, bölgesel ve ulusal acil durum plânlarına uymayanlara 12.000 Türk Lirası (419.509 TL) idarî para cezası verilir.
+o) Bu Kanunun 11 inci maddesinde öngörülen acil durum plânlarını yönetmelikle belirlenen usûl ve esaslara uygun olarak hazırlamayan ve bu plânların uygulanması için gerekli tedbirleri almayan, ekip ve ekipmanları bulundurmayanlar ile yerel, bölgesel ve ulusal acil durum plânlarına uymayanlara 12.000 Türk Lirası **(419.509 TL)** idarî para cezası verilir.
 
-p) Bu Kanunun 13 üncü maddesinde öngörülen malî sorumluluk sigortasını yaptırmayanlara 24.000 (839.122 TL) Türk Lirası idarî para cezası verilir.
+p) Bu Kanunun 13 üncü maddesinde öngörülen malî sorumluluk sigortasını yaptırmayanlara 24.000 **(839.122 TL)** Türk Lirası idarî para cezası verilir.
 
-r) Bu Kanunda ve yönetmeliklerde öngörülen usûl ve esaslara, yasaklara veya sınırlamalara aykırı olarak atık toplayan, taşıyan, geçici ve ara depolama yapan, geri kazanan, geri dönüşüm sağlayan, tekrar kullanan veya bertaraf edenlere 90.000 Türk lirasından (782.106 TL) 360.000 Türk lirasına kadar (3.128.439 TL) , ithal edenlere 300.000 Türk lirası (2.607.030 TL) idarî para cezası verilir. [37]
+r) Bu Kanunda ve yönetmeliklerde öngörülen usûl ve esaslara, yasaklara veya sınırlamalara aykırı olarak atık toplayan, taşıyan, geçici ve ara depolama yapan, geri kazanan, geri dönüşüm sağlayan, tekrar kullanan veya bertaraf edenlere 90.000 Türk lirasından **(782.106 TL)** 360.000 Türk lirasına kadar **(3.128.439 TL)** , ithal edenlere 300.000 Türk lirası **(2.607.030 TL)** idarî para cezası verilir. [37]
 
-s) Umuma açık yerlerde her ne şekilde olursa olsun çevreyi kirletenlere 1.000 Türk lirası (8.687 TL) idarî para cezası verilir. 37
+s) Umuma açık yerlerde her ne şekilde olursa olsun çevreyi kirletenlere 1.000 Türk lirası **(8.687 TL)** idarî para cezası verilir. 37
 
-t) Tehlikeli atıkların her ne şekilde olursa olsun ülkeye girişini sağlayanlara ayrı ayrı 2.000.000 Türk Lirası (69.937.946 TL) idarî para cezası verilir.
+t) Tehlikeli atıkların her ne şekilde olursa olsun ülkeye girişini sağlayanlara ayrı ayrı 2.000.000 Türk Lirası **(69.937.946 TL)** idarî para cezası verilir.
 
-u) Tehlikeli atıkları ilgili mercilere ön bildirimde bulunmadan ihraç eden veya transit geçişini yapanlara 2.000.000 Türk Lirası (69.937.946 TL) idarî para cezası verilir.
+u) Tehlikeli atıkları ilgili mercilere ön bildirimde bulunmadan ihraç eden veya transit geçişini yapanlara 2.000.000 Türk Lirası **(69.937.946 TL)** idarî para cezası verilir.
 
-v) Bu Kanunda ve ilgili yönetmeliklerde öngörülen yasaklara veya sınırlamalara aykırı olarak tehlikeli atıkları toplayan, ayıran, geçici ve ara depolama yapan, geri kazanan, yeniden kullanan, taşıyan, ambalajlayan, etiketleyen, bertaraf eden ve ömrü dolan tehlikeli atık bertaraf tesislerini kurallara uygun olarak kapatmayanlara 100.000 Türk Lirasından (3.496.767 TL) 1.000.000 Türk Lirasına (34.968.882 TL) kadar idarî para cezası verilir.
+v) Bu Kanunda ve ilgili yönetmeliklerde öngörülen yasaklara veya sınırlamalara aykırı olarak tehlikeli atıkları toplayan, ayıran, geçici ve ara depolama yapan, geri kazanan, yeniden kullanan, taşıyan, ambalajlayan, etiketleyen, bertaraf eden ve ömrü dolan tehlikeli atık bertaraf tesislerini kurallara uygun olarak kapatmayanlara 100.000 Türk Lirasından **(3.496.767 TL)** 1.000.000 Türk Lirasına **(34.968.882 TL)** kadar idarî para cezası verilir.
 
-y) Tehlikeli kimyasallar ve bu kimyasalları içeren eşyayı bu Kanunda ve ilgili yönetmeliklerde belirtilen usûl ve esaslara, yasak ve sınırlamalara aykırı olarak üreten, işleyen, ithal ve ihraç eden, taşıyan, depolayan, kullanan, ambalajlayan, etiketleyen, satan ve satışa sunanlara, 100.000 Türk Lirasından (3.496.767 TL) 1.000.000 Türk Lirasına (34.968.882 TL) kadar idarî para cezası verilir.
+y) Tehlikeli kimyasallar ve bu kimyasalları içeren eşyayı bu Kanunda ve ilgili yönetmeliklerde belirtilen usûl ve esaslara, yasak ve sınırlamalara aykırı olarak üreten, işleyen, ithal ve ihraç eden, taşıyan, depolayan, kullanan, ambalajlayan, etiketleyen, satan ve satışa sunanlara, 100.000 Türk Lirasından **(3.496.767 TL)** 1.000.000 Türk Lirasına **(34.968.882 TL)** kadar idarî para cezası verilir.
 
-z) (Ek:29/11/2018-7153/5 md.) Bu Kanunun ek 11 inci maddesine aykırı olarak geri kazanım katılım payını ödemediği tespit edilenlere katılım payı tutarının %20’ si kadar idari para cezası olarak verilir. 37
+z) **(Ek:29/11/2018-7153/5 md.)** Bu Kanunun ek 11 inci maddesine aykırı olarak geri kazanım katılım payını ödemediği tespit edilenlere katılım payı tutarının %20’ si kadar idari para cezası olarak verilir. 37
 
-aa) (Ek:29/11/2018-7153/5 md.) Bu Kanunun ek 12 nci maddesine aykırı olarak depozito uygulanmadan yıllık piyasaya sürülen ambalaj için piyasaya sürenlere ton başına 100 Türk lirası (1.438,13 TL) idari para cezası verilir.
+aa) **(Ek:29/11/2018-7153/5 md.)** Bu Kanunun ek 12 nci maddesine aykırı olarak depozito uygulanmadan yıllık piyasaya sürülen ambalaj için piyasaya sürenlere ton başına 100 Türk lirası **(1.438,13 TL)** idari para cezası verilir.
 
-bb) (Ek:29/11/2018-7153/5 md.) (Değişik:24/12/2020-7261/17 md.) Bu Kanunda geri kazanım katılım payına tabi olan ek (1) sayılı listede yer alan ürünlere yönelik olarak;
+bb) **(Ek:29/11/2018-7153/5 md.) (Değişik:24/12/2020-7261/17 md.)** Bu Kanunda geri kazanım katılım payına tabi olan ek (1) sayılı listede yer alan ürünlere yönelik olarak;
 
-1) Plastik poşetleri ek 13 üncü maddeye aykırı olarak ücretsiz verdiği veya Bakanlıkça belirlenen usul ve esaslara aykırı olarak plastik poşet verdiği tespit edilen satış noktalarına depo alanı hariç kapalı satış alanının her metrekaresi için 15,16 Türk lirası (143,75 TL) , elektronik ortamda satış yapanlara ise 3.000 Türk lirasından (26.065 TL) 30.000 Türk lirasına (260.701 TL) kadar,
+1) Plastik poşetleri ek 13 üncü maddeye aykırı olarak ücretsiz verdiği veya Bakanlıkça belirlenen usul ve esaslara aykırı olarak plastik poşet verdiği tespit edilen satış noktalarına depo alanı hariç kapalı satış alanının her metrekaresi için 15,16 Türk lirası **(143,75 TL) ,** elektronik ortamda satış yapanlara ise 3.000 Türk lirasından **(26.065 TL)** 30.000 Türk lirasına **(260.701 TL)** kadar,
 
-2) Bakanlıkça belirlenen usul ve esaslara aykırı olarak plastik poşetleri üretene, tedarik edene; üreticinin Türkiye dışında olması halinde, üretici tarafından yetkilendirilen temsilciye ve/veya ithalatçıya 15.000 Türk lirası (130.348 TL) ,
+2) Bakanlıkça belirlenen usul ve esaslara aykırı olarak plastik poşetleri üretene, tedarik edene; üreticinin Türkiye dışında olması halinde, üretici tarafından yetkilendirilen temsilciye ve/veya ithalatçıya 15.000 Türk lirası **(130.348 TL) ,**
 
-3) Geri kazanım katılım payına ilişkin belirlenen esaslara uymayanlara 1.500 Türk lirası (13.032 TL) ,
-
-idari para cezası verilir.
-
-cc) (Ek:24/12/2020-7261/17 md.) 11 inci maddede belirlenen sıfır atık yönetim sistemini kurmayanlara ve/veya kurduğunu belgeleyemeyenlere 20.000 Türk lirası (173.801 TL) idari para cezası verilir.
-
-çç) (Ek:24/12/2020-7261/17 md.) (Mülga:2/7/2025-7552/18 md.)
-
-dd) (Ek:24/12/2020-7261/17 md.) Ek 15 inci madde uyarınca yetki belgesi bulunmaksızın motor yağı değişimi yapan işletmelere altmış gün içinde yetki belgesi alınması için yazılı ihtarda bulunulur. Yazılı ihtara rağmen yetki belgesi bulunmaksızın motor yağı değişimi yapan işletmelere 10.000 Türk lirası (86.900 TL) idari para cezası verilir.
-
-ee) (Ek:24/12/2020-7261/17 md.) Ek 11 inci ve ek 12 nci maddelerde tanımlı depozito uygulamalarına yönelik Bakanlıkça belirlenen usul ve esaslara aykırı olarak;
-
-1) Depozitoya tabi ürünleri piyasaya sürenlere 20.000 Türk lirası (173.801 TL) , satış noktaları dâhil depozitolu ürünleri kullanıcılara/tüketicilere sunanlara ise faaliyet alanının her metrekaresi için 15,16 Türk lirası (131,76 TL) ,
-
-2) Depozito uygulaması toplama sistemine katılım sağlama yükümlülüğünü ve şartlarını yerine getirmeyen satış noktalarına satış alanının her metrekaresi için 100 Türk lirası (869,01 TL) ,
+3) Geri kazanım katılım payına ilişkin belirlenen esaslara uymayanlara 1.500 Türk lirası **(13.032 TL) ,**
 
 idari para cezası verilir.
 
-ff) (Ek:24/12/2020-7261/17 md.) 11 inci madde uyarınca yükümlülük getirilen üreticiler, ithalatçılar ve piyasaya sürenlerden bu yükümlülüklere uymayanlara 10.000 Türk lirası (86.900 TL) , bu yükümlülüğe konu ürünlerin satışına ve dağıtımına ilişkin düzenlemelere aykırı hareket edenlere ise 5.000 Türk lirası (43.447 TL) idari para cezası verilir.
+cc) **(Ek:24/12/2020-7261/17 md.)** 11 inci maddede belirlenen sıfır atık yönetim sistemini kurmayanlara ve/veya kurduğunu belgeleyemeyenlere 20.000 Türk lirası **(173.801 TL)** idari para cezası verilir.
 
-gg) (Ek:24/12/2020-7261/17 md.) Ek 14 üncü maddenin ikinci fıkrasına aykırı faaliyette bulunanlara 300.000 Türk lirası (2.607.030 TL) idari para cezası verilir.
+çç) **(Ek:24/12/2020-7261/17 md.) (Mülga:2/7/2025-7552/18 md.)**
 
-ğğ) (Ek:10/6/2022-7410/5 md.) Liman, tersane, gemi bakım-onarım, gemi söküm, yat limanı gibi kıyı tesisi yönetimlerinin; bu Kanun ve bu Kanun uyarınca çıkarılan yönetmeliklere aykırı olarak, kendi yönetim sahaları içerisinde meydana gelen kirliliği yetkili mercilere bildirmemesi halinde kıyı tesis yönetimlerine 25.000 Türk lirası (159.506 TL) ; deniz çöpleri, atıklar ve atıksuların toplanması ve yönetimine ilişkin gerekli tedbirleri almaması halinde bu yönetimlere 25.000 Türk lirasından (159.506 TL) 100.000 Türk lirasına (638.038 TL) kadar idari para cezası uygulanır. Bu bentte yer alan idari para cezaları, balıkçı barınaklarına üçte bir oranında uygulanır.
+dd) **(Ek:24/12/2020-7261/17 md.)** Ek 15 inci madde uyarınca yetki belgesi bulunmaksızın motor yağı değişimi yapan işletmelere altmış gün içinde yetki belgesi alınması için yazılı ihtarda bulunulur. Yazılı ihtara rağmen yetki belgesi bulunmaksızın motor yağı değişimi yapan işletmelere 10.000 Türk lirası **(86.900 TL)** idari para cezası verilir.
 
-hh) (Ek:10/6/2022-7410/5 md.) Taraf olunan uluslararası sözleşmelerde ve ilgili yönetmeliklerde belirlenen kükürt oranından daha fazla kükürt içeren akaryakıtı denizcilik yakıtı olarak kullanan gemi ve diğer deniz vasıtalarından bin (dâhil) grostona kadar olanlar için groston başına 200 Türk lirası (1.276,08 TL) , bin ilâ beşbin (dâhil) groston arasında olanlara bu miktar ve ilave her groston başına 25 Türk lirası (159,50 TL) , beşbin grostondan fazla olanlara ise, yukarıdaki miktarlar ve ilave her groston başına 5 Türk lirası (31,91 TL) idari para cezası verilir.
+ee) **(Ek:24/12/2020-7261/17 md.)** Ek 11 inci ve ek 12 nci maddelerde tanımlı depozito uygulamalarına yönelik Bakanlıkça belirlenen usul ve esaslara aykırı olarak;
 
-ıı) (Ek:10/6/2022-7410/5 md.) Günlük 1 kilogram veya daha az tıbbi atık üreten sağlık kuruluşlarından, tıbbi atıklarını bu Kanunda ve ilgili yönetmeliklerde öngörülen yasaklara veya sınırlamalara aykırı olarak biriktiren, sınıflandıran, depolayan, taşıyan, ambalajlayan ve bertaraf edenlere 10.000 Türk lirasına (63.802 TL) kadar idari para cezası verilir.
+1) Depozitoya tabi ürünleri piyasaya sürenlere 20.000 Türk lirası **(173.801 TL)** , satış noktaları dâhil depozitolu ürünleri kullanıcılara/tüketicilere sunanlara ise faaliyet alanının her metrekaresi için 15,16 Türk lirası **(131,76 TL) ,**
+
+2) Depozito uygulaması toplama sistemine katılım sağlama yükümlülüğünü ve şartlarını yerine getirmeyen satış noktalarına satış alanının her metrekaresi için 100 Türk lirası **(869,01 TL) ,**
+
+idari para cezası verilir.
+
+ff) **(Ek:24/12/2020-7261/17 md.)** 11 inci madde uyarınca yükümlülük getirilen üreticiler, ithalatçılar ve piyasaya sürenlerden bu yükümlülüklere uymayanlara 10.000 Türk lirası **(86.900 TL)** , bu yükümlülüğe konu ürünlerin satışına ve dağıtımına ilişkin düzenlemelere aykırı hareket edenlere ise 5.000 Türk lirası **(43.447 TL)** idari para cezası verilir.
+
+gg) **(Ek:24/12/2020-7261/17 md.)** Ek 14 üncü maddenin ikinci fıkrasına aykırı faaliyette bulunanlara 300.000 Türk lirası **(2.607.030 TL)** idari para cezası verilir.
+
+ğğ) **(Ek:10/6/2022-7410/5 md.)** Liman, tersane, gemi bakım-onarım, gemi söküm, yat limanı gibi kıyı tesisi yönetimlerinin; bu Kanun ve bu Kanun uyarınca çıkarılan yönetmeliklere aykırı olarak, kendi yönetim sahaları içerisinde meydana gelen kirliliği yetkili mercilere bildirmemesi halinde kıyı tesis yönetimlerine 25.000 Türk lirası **(159.506 TL)** ; deniz çöpleri, atıklar ve atıksuların toplanması ve yönetimine ilişkin gerekli tedbirleri almaması halinde bu yönetimlere 25.000 Türk lirasından **(159.506 TL)** 100.000 Türk lirasına **(638.038 TL)** kadar idari para cezası uygulanır. Bu bentte yer alan idari para cezaları, balıkçı barınaklarına üçte bir oranında uygulanır.
+
+hh) **(Ek:10/6/2022-7410/5 md.)** Taraf olunan uluslararası sözleşmelerde ve ilgili yönetmeliklerde belirlenen kükürt oranından daha fazla kükürt içeren akaryakıtı denizcilik yakıtı olarak kullanan gemi ve diğer deniz vasıtalarından bin (dâhil) grostona kadar olanlar için groston başına 200 Türk lirası **(1.276,08 TL)** , bin ilâ beşbin (dâhil) groston arasında olanlara bu miktar ve ilave her groston başına 25 Türk lirası **(159,50 TL)** , beşbin grostondan fazla olanlara ise, yukarıdaki miktarlar ve ilave her groston başına 5 Türk lirası **(31,91 TL)** idari para cezası verilir.
+
+ıı) **(Ek:10/6/2022-7410/5 md.)** Günlük 1 kilogram veya daha az tıbbi atık üreten sağlık kuruluşlarından, tıbbi atıklarını bu Kanunda ve ilgili yönetmeliklerde öngörülen yasaklara veya sınırlamalara aykırı olarak biriktiren, sınıflandıran, depolayan, taşıyan, ambalajlayan ve bertaraf edenlere 10.000 Türk lirasına **(63.802 TL)** kadar idari para cezası verilir.
 
 Bu maddenin (ı) bendinin (1), (2), (3) ve (4) numaralı alt bentleri ile (k), (l), (r), (s), (t), (u), (v) ve (y) bentlerinde öngörülen idarî para cezaları kurum, kuruluş ve işletmelere üç katı olarak verilir.[38]
 
-(Ek fıkra:10/6/2022-7410/5 md.) Bu maddede öngörülen cezalar Özel Çevre Koruma Bölgelerinde iki kat olarak uygulanır.
+**(Ek fıkra:10/6/2022-7410/5 md.)** Bu maddede öngörülen cezalar Özel Çevre Koruma Bölgelerinde iki kat olarak uygulanır.
 
 Bu maddede öngörülen ceza miktarlarını on katına kadar artırmaya Cumhurbaşkanı yetkilidir.[39]
 
 Bu maddenin uygulamasında Türk Ceza Kanunu ile diğer kanunların, fiilin suç oluşturması haline ilişkin hükümleri saklıdır.
 
-Kuruluş ve işletmelere verilecek idari nitelikte cezalar:
+**Kuruluş ve işletmelere verilecek idari nitelikte cezalar:**
 
 **Madde 21 –** (Mülga: 26/4/2006-5491/24 md.)
 
-Gemiler için verilecek cezalar:
+**Gemiler için verilecek cezalar:**
 
 **Madde 22 –** (Mülga: 26/4/2006-5491/24 md.)
 
-Fiillerin tekrarı:
+**Fiillerin tekrarı:**
 
 **Madde 23 –** (Değişik : 26/4/2006-5491/15 md.)
 
 Bu Kanunda belirtilen idarî para cezaları, bu cezaların verilmesini gerektiren fiillerin işlenmesinden itibaren üç yıl içinde birinci tekrarında bir kat, ikinci ve müteakip tekrarında iki kat artırılarak verilir.
 
-İdari cezalarda yetki:
+**İdari cezalarda yetki:**
 
 **Madde 24 –** (Değişik: 26/4/2006-5491/16 md.)
 
@@ -570,9 +570,9 @@ Bu Kanunun 12 nci maddesinin birinci fıkrası uyarınca denetim yetkisi verilen
 
 Bu Kanun uyarınca yapılacak denetimlerle ilgili harcamaları karşılamak ve diğer çevre hizmetlerinde kullanılmak üzere, Bakanlık bütçesine, genel bütçeye gelir kaydedilecek idarî para cezaları karşılığı gerekli ödenek öngörülür.
 
-(Ek fıkra:29/11/2018-7153/6 md.) Bu Kanun uyarınca uygulanacak idari para cezalarına karşı açılacak olan davalar Bakanlığa karşı açılır.
+**(Ek fıkra:29/11/2018-7153/6 md.)** Bu Kanun uyarınca uygulanacak idari para cezalarına karşı açılacak olan davalar Bakanlığa karşı açılır.
 
-(Ek fıkra:29/11/2018-7153/6 md.) (Değişik yedinci fıkra:11/3/2026-7576/2 md.) 20 nci maddenin birinci fıkrasının (k) bendi uyarınca 9 uncu maddenin birinci fıkrasının (a) bendine aykırı olarak biyolojik çeşitliliği tahrip edenler ile (e) bendi uyarınca sulak alanlar için yönetmelikle belirlenen koruma ve kullanım usul ile esaslarına ve (f) bendinde belirlenen esaslara ve yasaklamalara aykırı davrananlara Doğa Koruma ve Milli Parklar Genel Müdürlüğü tarafından belirlenen usul ve esaslar dahilinde, Doğa Koruma ve Milli Parklar Genel Müdürlüğü taşra teşkilatı birimleri tarafından idari yaptırım uygulanır ve yapılacak denetimlerle ilgili harcamalarda kullanılmak üzere Doğa Koruma ve Milli Parklar Genel Müdürlüğü bütçesine gereken ödenek konulur. Bu fıkra hükmü uyarınca uygulanacak idari yaptırımlara karşı açılacak davalar Doğa Koruma ve Milli Parklar Genel Müdürlüğüne karşı açılır.
+**(Ek fıkra:29/11/2018-7153/6 md.) (Değişik yedinci fıkra:11/3/2026-7576/2 md.)** 20 nci maddenin birinci fıkrasının (k) bendi uyarınca 9 uncu maddenin birinci fıkrasının (a) bendine aykırı olarak biyolojik çeşitliliği tahrip edenler ile (e) bendi uyarınca sulak alanlar için yönetmelikle belirlenen koruma ve kullanım usul ile esaslarına ve (f) bendinde belirlenen esaslara ve yasaklamalara aykırı davrananlara Doğa Koruma ve Milli Parklar Genel Müdürlüğü tarafından belirlenen usul ve esaslar dahilinde, Doğa Koruma ve Milli Parklar Genel Müdürlüğü taşra teşkilatı birimleri tarafından idari yaptırım uygulanır ve yapılacak denetimlerle ilgili harcamalarda kullanılmak üzere Doğa Koruma ve Milli Parklar Genel Müdürlüğü bütçesine gereken ödenek konulur. Bu fıkra hükmü uyarınca uygulanacak idari yaptırımlara karşı açılacak davalar Doğa Koruma ve Milli Parklar Genel Müdürlüğüne karşı açılır.
 
 #### İdarî yaptırımların uygulanması, tahsil usûlü ve itiraz: [41]
 
@@ -598,15 +598,15 @@ Bu Kanunun uygulanmasında yanlış ve yanıltıcı belge düzenleyenler ve kull
 
 Bu maddeye göre yargıya intikal eden çevresel etki değerlendirmesine ilişkin ihtilaflarda çevresel etki değerlendirmesi süreci yargılama sonuna kadar durur.
 
-Diğer kanunlarda yazılı cezalar:
+**Diğer kanunlarda yazılı cezalar:**
 
 **Madde 27 –** Bu Kanunda yazılı fiiller hakkında verilecek idari nitelikteki cezalar, bu fiiller için diğer kanunlarda yazılı cezaların uygulanmasına engel olmaz.
 
 ### ALTINCI BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
-Kirletenin sorumluluğu:
+**Kirletenin sorumluluğu:**
 
 **Madde 28 –** (Değişik: 3/3/1988 – 3416/8.md.)
 
@@ -614,15 +614,15 @@ Kirletenin sorumluluğu:
 
 Kirletenin, meydana gelen zararlardan ötürü genel hükümlere göre de tazminat sorumluluğu saklıdır.
 
-(Ek fıkra: 26/4/2006-5491/19 md.) Çevreye verilen zararların tazminine ilişkin talepler zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten itibaren beş yıl sonra zamanaşımına uğrar.
+**(Ek fıkra: 26/4/2006-5491/19 md.)** Çevreye verilen zararların tazminine ilişkin talepler zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten itibaren beş yıl sonra zamanaşımına uğrar.
 
-Teşvik:
+**Teşvik:**
 
 **Madde 29 –** (Değişik birinci fıkra: 26/4/2006-5491/20 md.) Çevre kirliliğinin önlenmesi ve giderilmesine ilişkin faaliyetler teşvik tedbirlerinden yararlandırılır. Bu amaçla her yılın başında belirlenen teşvik sistemine Bakanlığın görüşü alınmak sureti ile Hazine ve Maliye Bakanlığınca yeni esaslar getirilebilir.[43]
 
-(Ek fıkra: 29/11/2018-7153/7 md.) Atıkların kaynağında ayrı biriktirilmesi ve toplanması amacıyla sıfır atık yönetim sistemini kuran ve uygulayan belediyelere, il özel idarelerine, kurum, kuruluş ve işletmelere Bakanlıkça teşvik uygulaması yapılır. Bu hükmün uygulanmasına ilişkin usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
+**(Ek fıkra: 29/11/2018-7153/7 md.)** Atıkların kaynağında ayrı biriktirilmesi ve toplanması amacıyla sıfır atık yönetim sistemini kuran ve uygulayan belediyelere, il özel idarelerine, kurum, kuruluş ve işletmelere Bakanlıkça teşvik uygulaması yapılır. Bu hükmün uygulanmasına ilişkin usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-(Ek fıkra: 26/4/2006-5491/20 md.) Arıtma tesisi kuran, işleten ve yönetmeliklerde belirtilen yükümlülükleri yerine getiren kuruluşların arıtma tesislerinde kullandıkları elektrik enerjisi tarifesinin, sanayi tesislerinde kullanılan enerji tarifesinin yüzde ellisine kadar indirim uygulamaya ve ileri arıtma teknikleri ile arıtılmış atıksuyu yeniden kullanan kuruluşlara, yeniden kullanım oranına göre bu oranı yüzde yüze kadar artırmaya Cumhurbaşkanı yetkilidir.[44][45]
+**(Ek fıkra: 26/4/2006-5491/20 md.)** Arıtma tesisi kuran, işleten ve yönetmeliklerde belirtilen yükümlülükleri yerine getiren kuruluşların arıtma tesislerinde kullandıkları elektrik enerjisi tarifesinin, sanayi tesislerinde kullanılan enerji tarifesinin yüzde ellisine kadar indirim uygulamaya ve ileri arıtma teknikleri ile arıtılmış atıksuyu yeniden kullanan kuruluşlara, yeniden kullanım oranına göre bu oranı yüzde yüze kadar artırmaya Cumhurbaşkanı yetkilidir.[44][45]
 
 Teşvik tedbirleri ile ilgili esaslar yönetmelikle belirlenir. Bu Kanunda belirlenen cezalara neden olan fiilleri işleyen gerçek ve tüzelkişiler, verilen süre içinde söz konusu yükümlülüklerini yerine getirmedikleri takdirde bu maddede yazılı teşvik tedbirlerinden yararlanamazlar ve daha önce kendileri ile ilgili olarak uygulanmakta olan teşvik tedbirleri durdurulur.
 
@@ -634,13 +634,13 @@ Teşvik tedbirleri ile ilgili esaslar yönetmelikle belirlenir. Bu Kanunda belir
 
 Herkes, 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanunu kapsamında çevreye ilişkin bilgilere ulaşma hakkına sahiptir. Ancak, açıklanması halinde üreme alanları, nadir türler gibi çevresel değerlere zarar verecek bilgilere ilişkin talepler de bu Kanun kapsamında reddedilebilir.
 
-Yönetmelikler:
+**Yönetmelikler:**
 
 **Madde 31 –** (Değişik: 3/3/1988 – 3416/9 md.)
 
 Bu Kanunun uygulanmasıyla ilgili olarak çıkarılacak yönetmelikler, ilgili Bakanlıkların görüşü alınarak Bakanlıkça hazırlanır. Kanunun yürürlüğe girmesinden başlayarak en geç beş ay içinde Resmi Gazede yayımlanarak yürürlüğe konulur.[47]
 
-Uygulanmayacak Hükümler:
+**Uygulanmayacak Hükümler:**
 
 **Madde 32 –** (Değişik: 3/3/1988 – 3416/10 md.)
 
@@ -662,9 +662,9 @@ d) Ülkenin egemenlik alanlarındaki denizlerden, akar ve kuru dere yataklarınd
 
 **Ek Madde 2 –** (Ek: 26/4/2006-5491/23 md.)
 
-(Değişik birinci fıkra:7/5/2026-7579/9 md.) Faaliyetleri sonucu çevre kirliliğine neden olacak veya çevreye zarar verecek kurum, kuruluş ve işletmeler çevre yönetimi hizmeti almakla, çevre danışmanlık firmaları ise çevre yönetimi hizmeti verdikleri kurum, kuruluş ve işletmelerin çevre mevzuatına aykırı fiillerini Bakanlığa bildirmekle yükümlüdür. Çevre danışmanlık firmasının asgari hizmet bedel tarifesi ile bu maddeye ilişkin usul ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.
+**(Değişik birinci fıkra:7/5/2026-7579/9 md.)** Faaliyetleri sonucu çevre kirliliğine neden olacak veya çevreye zarar verecek kurum, kuruluş ve işletmeler çevre yönetimi hizmeti almakla, çevre danışmanlık firmaları ise çevre yönetimi hizmeti verdikleri kurum, kuruluş ve işletmelerin çevre mevzuatına aykırı fiillerini Bakanlığa bildirmekle yükümlüdür. Çevre danışmanlık firmasının asgari hizmet bedel tarifesi ile bu maddeye ilişkin usul ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.
 
-(Ek fıkra:7/5/2026-7579/9 md.) Bu fıkranın yürürlük tarihinden önce kurulmuş olan çevre danışmanlık firmalarının kuruluş şartlarına ilişkin müktesep hakları saklıdır.
+**(Ek fıkra:7/5/2026-7579/9 md.)** Bu fıkranın yürürlük tarihinden önce kurulmuş olan çevre danışmanlık firmalarının kuruluş şartlarına ilişkin müktesep hakları saklıdır.
 
 **Ek Madde 3 –** (Ek: 26/4/2006-5491/23 md.)
 
@@ -708,23 +708,23 @@ Kokuya sebep olan emisyonların, yönetmelikle belirlenen sınır değerlerin ü
 
 Mevzuatta Yüksek Çevre Kuruluna yapılmış olan atıflar, Cumhurbaşkanınca belirlenen kurul veya mercie yapılmış sayılır.
 
-Geri kazanım katılım payı:
+**Geri kazanım katılım payı:**
 
 **Ek Madde 11 –** (Ek:29/11/2018-7153/8 md.)
 
 Yurt içinde piyasaya arz edilen bu Kanuna ekli (1) sayılı listede yer alan ürünlerden poşetler için satış noktalarından, diğer ürünler için piyasaya sürenlerden/ithalatçılardan bu listede belirtilen tutarda geri kazanım katılım payı tahsil edilir. Bu listedeki ürünlerden herhangi birinin piyasaya arzının, farklı bir ürünün, malzemenin veya eşyanın ithalatı ile birlikte gerçekleşmesi halinde geri kazanım katılım payı ithalatçıdan tahsil edilir. Bu listede yer alan tutarlar takvim yılı başından geçerli olmak üzere her yıl bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılarak uygulanır. Bu şekilde hesaplanan tutarların %5’ini aşmayan kesirler dikkate alınmaz. Cumhurbaşkanı, bu listede yer alan veya bu fıkra uyarınca yeniden değerleme oranı uygulanmak suretiyle belirlenen tutarları iki katına kadar artırmaya veya yarısına kadar indirmeye yetkilidir.[48]
 
-(Değişik fıkra:21/2/2019-7166/3 md.) Geri kazanım katılım payları ürünün piyasaya sürüldüğü/ithal edildiği tarihi takip eden ayın yirmi dördüncü günü sonuna kadar ilgililerin gelir veya kurumlar vergisi yönünden bağlı olduğu vergi dairesine, gelir veya kurumlar vergisi mükellefiyeti bulunmayanlar tarafından ise Gelir İdaresi Başkanlığı tarafından belirlenecek vergi dairesine beyan edilerek aynı ayın sonuna kadar ödenir. Katılım payının süresinde beyan edilmediğinin veya eksik beyan edildiğinin tespiti halinde beyan edilmeyen veya eksik beyan edilen katılım payının bir ay içinde ödenmesi gerektiği ilgiliye tebliğ edilir. Süresinde beyan edilmeyen veya eksik beyan edilen katılım payının beyan edilmesi gereken son günden ödendiği tarihe kadar geçen süre için 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre hesaplanacak gecikme zammı oranında faiz uygulanarak aynı Kanuna göre tahsil edilir. Bu madde kapsamında tahsil edilen tutarlar genel bütçeye gelir kaydedilir.
+**(Değişik fıkra:21/2/2019-7166/3 md.)** Geri kazanım katılım payları ürünün piyasaya sürüldüğü/ithal edildiği tarihi takip eden ayın yirmi dördüncü günü sonuna kadar ilgililerin gelir veya kurumlar vergisi yönünden bağlı olduğu vergi dairesine, gelir veya kurumlar vergisi mükellefiyeti bulunmayanlar tarafından ise Gelir İdaresi Başkanlığı tarafından belirlenecek vergi dairesine beyan edilerek aynı ayın sonuna kadar ödenir. Katılım payının süresinde beyan edilmediğinin veya eksik beyan edildiğinin tespiti halinde beyan edilmeyen veya eksik beyan edilen katılım payının bir ay içinde ödenmesi gerektiği ilgiliye tebliğ edilir. Süresinde beyan edilmeyen veya eksik beyan edilen katılım payının beyan edilmesi gereken son günden ödendiği tarihe kadar geçen süre için 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre hesaplanacak gecikme zammı oranında faiz uygulanarak aynı Kanuna göre tahsil edilir. Bu madde kapsamında tahsil edilen tutarlar genel bütçeye gelir kaydedilir.
 
-(Ek fıkra: 21/2/2019-7166/3 md.) Hazine ve Maliye Bakanlığı, geri kazanım katılım payının beyan ve ödeme sürelerini kanuni süresinden itibaren bir ayı geçmeyecek şekilde yeniden belirlemeye yetkilidir.
+**(Ek fıkra: 21/2/2019-7166/3 md.)** Hazine ve Maliye Bakanlığı, geri kazanım katılım payının beyan ve ödeme sürelerini kanuni süresinden itibaren bir ayı geçmeyecek şekilde yeniden belirlemeye yetkilidir.
 
-(Ek fıkra: 21/2/2019-7166/3 md.) Geri kazanım katılım payı beyannamelerinin verilme sürelerini; kapsama girenlerin sektörleri, gayrisafi iş hasılatları, istihdam edilen işçi sayıları dikkate alınarak il ve ilçe sınırları itibarıyla ayrı ayrı veya birlikte aylık, üç aylık veya altı aylık dönemler halinde tespit etmeye; beyannamelerin şekil, içerik ve eklerini belirlemeye, beyannamelerin elektronik ortamda gönderilmesine zorunluluk getirmeye, bu beyannamelerin yetki verilmiş gerçek veya tüzel kişiler aracı kılınarak gönderilmesi hususunda izin vermeye, bu kişileri aracı kılmaya veya zorunlu tutmaya ve uygulamaya ilişkin usul ve esasları belirlemeye, Bakanlığın görüşünü alarak, Hazine ve Maliye Bakanlığı yetkilidir.
+**(Ek fıkra: 21/2/2019-7166/3 md.)** Geri kazanım katılım payı beyannamelerinin verilme sürelerini; kapsama girenlerin sektörleri, gayrisafi iş hasılatları, istihdam edilen işçi sayıları dikkate alınarak il ve ilçe sınırları itibarıyla ayrı ayrı veya birlikte aylık, üç aylık veya altı aylık dönemler halinde tespit etmeye; beyannamelerin şekil, içerik ve eklerini belirlemeye, beyannamelerin elektronik ortamda gönderilmesine zorunluluk getirmeye, bu beyannamelerin yetki verilmiş gerçek veya tüzel kişiler aracı kılınarak gönderilmesi hususunda izin vermeye, bu kişileri aracı kılmaya veya zorunlu tutmaya ve uygulamaya ilişkin usul ve esasları belirlemeye, Bakanlığın görüşünü alarak, Hazine ve Maliye Bakanlığı yetkilidir.
 
-Ülkenin tamamında Bakanlıkça belirlenen esaslar doğrultusunda depozito sistemi uygulayan, piyasaya süren/ithalatçı, depozitolu olarak piyasaya sürdükleri ürünler için bu maddenin birinci fıkrasından muaf tutulur. Muafiyet uygulamasında depozito uygulanan miktar esas alınır. (Mülga cümle:24/12/2020-7261/18 md.)
+Ülkenin tamamında Bakanlıkça belirlenen esaslar doğrultusunda depozito sistemi uygulayan, piyasaya süren/ithalatçı, depozitolu olarak piyasaya sürdükleri ürünler için bu maddenin birinci fıkrasından muaf tutulur. Muafiyet uygulamasında depozito uygulanan miktar esas alınır. **(Mülga cümle:24/12/2020-7261/18 md.)**
 
-(Ek fıkra:24/12/2020-7261/18 md.) Bu maddeye ilişkin idari, mali ve istem usul ve esaslar Hazine ve Maliye Bakanlığının görüşü alınarak Bakanlıkça çıkarılan yönetmelikle belirlenir.
+**(Ek fıkra:24/12/2020-7261/18 md.)** Bu maddeye ilişkin idari, mali ve istem usul ve esaslar Hazine ve Maliye Bakanlığının görüşü alınarak Bakanlıkça çıkarılan yönetmelikle belirlenir.
 
-Depozito:
+**Depozito:**
 
 **Ek Madde 12 –** (Ek:29/11/2018-7153/8 md.)
 
@@ -732,9 +732,9 @@ Depozito:
 
 Depozito sisteminin uygulanmasına yönelik usul ve esaslar ile sisteme ilişkin teminatlar ve ücretler Bakanlıkça çıkarılacak yönetmelikle belirlenir. 49
 
-(Ek fıkra:24/12/2020-7261/19 md.) Zorunlu depozito uygulamasına tabi tutulan ürünlerin üreticileri, ithalatçıları ve piyasaya sürenleri ile depozito kapsamındaki ürünleri tüketicilere/kullanıcılara sunan toptan ya da perakende satış birimleri; depozito sisteminin kurulması, işletilmesi ve izlenmesine yönelik idari, mali ve teknik yükümlülüklerini yerine getirmek zorundadırlar.
+**(Ek fıkra:24/12/2020-7261/19 md.)** Zorunlu depozito uygulamasına tabi tutulan ürünlerin üreticileri, ithalatçıları ve piyasaya sürenleri ile depozito kapsamındaki ürünleri tüketicilere/kullanıcılara sunan toptan ya da perakende satış birimleri; depozito sisteminin kurulması, işletilmesi ve izlenmesine yönelik idari, mali ve teknik yükümlülüklerini yerine getirmek zorundadırlar.
 
-Poşet ücreti:
+**Poşet ücreti:**
 
 **Ek Madde 13 –** (Ek:29/11/2018-7153/8 md.)
 
@@ -742,7 +742,7 @@ Kaynakların verimli yönetimi ve plastik poşetlerden kaynaklanan çevre kirlil
 
 Bu maddedeki düzenlemelere ilişkin usul ve esaslar Bakanlıkça belirlenir.
 
-Çevre etiketi:
+**Çevre etiketi:**
 
 **Ek Madde 14 –** (Ek:24/12/2020-7261/20 md.)
 
@@ -750,7 +750,7 @@ Sürdürülebilir çevre hedefleri doğrultusunda, ürün veya hizmetlerin doğa
 
 Bakanlık haricinde çevre etiketi adı altında herhangi bir faaliyet yürütülemez.
 
-Motor yağları:
+**Motor yağları:**
 
 **Ek Madde 15 –** (Ek:24/12/2020-7261/21 md.)
 
@@ -790,11 +790,11 @@ b) İklim Değişikliği Başkanlığı veya bu Başkanlıkça konferansın orga
 
 c) İklim Değişikliği Başkanlığı veya bu Başkanlıkça konferansın organizasyonu için yetkilendirilen yükleniciler tarafından iş yeri, kanuni ve iş merkezi Türkiye’de bulunmayan tüzel kişilerden münhasıran konferans kapsamında alınan hizmetlere ilişkin ödemelerden kurumlar vergisi kesintisi yapılmaz.
 
-Yürürlük:
+**Yürürlük:**
 
 **Madde 33 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-Yürütme:
+**Yürütme:**
 
 **Madde 34 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
@@ -802,11 +802,11 @@ Yürütme:
 
 ### GEÇİCİ MADDELER
 
-1 – 3/3/1988 tarih ve 3416 sayılı Kanunun Geçici Maddesi:
+**1 – 3/3/1988 tarih ve 3416 sayılı Kanunun Geçici Maddesi:**
 
 **Geçici Madde 1 –** Bu Kanunun 6 ncı maddesiyle değiştirilen 2872 sayılı Çevre Kanununun 18 inci maddesinin (b) bendi gereğince Fona ödenmesi gereken meblağ, 1986 yılı için on lira üzerinden alınır.
 
-2 – 26/4/2006 tarihli ve 5491 sayılı Kanunun Geçici Maddeleri:
+**2 – 26/4/2006 tarihli ve 5491 sayılı Kanunun Geçici Maddeleri:**
 
 **Geçici Madde 1 –** Bu Kanun uyarınca ilgili bakanlıkların görüşü alınmak suretiyle Bakanlıkça çıkarılacak yönetmelikler bu Kanunun yürürlüğe girmesinden itibaren en geç bir yıl; Hazine Müsteşarlığı tarafından tespit edilecek sigorta genel şartları ile Hazine Müsteşarlığının bağlı bulunduğu Bakan tarafından onaylanacak tarife ve talimatlar bu Kanunun yürürlüğe girmesinden itibaren en geç bir yıl içinde yayımlanır.
 
@@ -828,7 +828,7 @@ Halen inşaatı devam eden atıksu arıtma ve katı atık bertaraf tesisleri iç
 
 Belediyeler, organize sanayi bölgeleri, diğer sanayi kuruluşları ile yerleşim yerleri bu hükümden yararlanmak için bu Kanunun yayımı tarihinden itibaren üç ay içinde Bakanlığa başvurmak zorundadır.
 
-Bu Kanunun 8 inci maddesi ile atıksu altyapı sistemlerinin ve katı atık bertaraf tesisleri kurma yükümlülüğü verilen kurum ve kuruluşların, bu yükümlülüklerini, bu maddede belirtilen süre içinde yerine getirmemeleri halinde; belediyelerde nüfusu 100.000’den fazla olanlara 50.000 Türk Lirası (201.183 TL) , 100.000 ilâ 50.000 arasında olanlara 30.000 Türk Lirası (120.707 TL) , 50.000 ilâ 10.000 arasında olanlara 20.000 Türk Lirası (80.465 TL) , 10.000 ilâ 2.000 arasında olanlara 10.000 Türk Lirası (40.223 TL) , organize sanayi bölgelerinde 100.000 Türk Lirası (402.385 TL) , bunların dışında kalan endüstri tesislerine ve atıksu üreten her türlü tesise 60.000 Türk Lirası (241.424 TL) idarî para cezası verilir.[51]
+Bu Kanunun 8 inci maddesi ile atıksu altyapı sistemlerinin ve katı atık bertaraf tesisleri kurma yükümlülüğü verilen kurum ve kuruluşların, bu yükümlülüklerini, bu maddede belirtilen süre içinde yerine getirmemeleri halinde; belediyelerde nüfusu 100.000’den fazla olanlara 50.000 Türk Lirası **(201.183 TL)** , 100.000 ilâ 50.000 arasında olanlara 30.000 Türk Lirası **(120.707 TL)** , 50.000 ilâ 10.000 arasında olanlara 20.000 Türk Lirası **(80.465 TL)** , 10.000 ilâ 2.000 arasında olanlara 10.000 Türk Lirası **(40.223 TL)** , organize sanayi bölgelerinde 100.000 Türk Lirası **(402.385 TL)** , bunların dışında kalan endüstri tesislerine ve atıksu üreten her türlü tesise 60.000 Türk Lirası **(241.424 TL)** idarî para cezası verilir.[51]
 
 **Geçici Madde 5 –** Bu Kanuna ekli (1) sayılı listede gösterilen kadrolar iptal edilerek, 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çevre ve Orman Bakanlığına ilişkin bölümünden çıkartılmış, ekli (2) sayılı listede gösterilen kadrolar ise ihdas edilerek, 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çevre ve Orman Bakanlığına ilişkin bölümüne eklenmiştir.
 
@@ -927,108 +927,108 @@ Bu Kanunun 8 inci maddesi ile atıksu altyapı sistemlerinin ve katı atık bert
 | 7576 | 9, 12, 24 | 19/3/2026 |
 | 7579 | 2, 20, Ek Madde 2, Geçici Madde 5 | 22/5/2026 |
 
-<small>[1] 19/10/1989 tarih ve 383 sayılı KHK'nin 25 inci maddesi; bu Kanun ile Çevre Müsteşarlığına verilen yetkilerin, Özel Çevre Koruma Kurumu Başkanlığına geçeceğini hüküm altına almıştır.</small>
+<small>[1] <i>19/10/1989 tarih ve 383 sayılı KHK'nin 25 inci maddesi; bu Kanun ile Çevre Müsteşarlığına verilen yetkilerin, Özel Çevre Koruma Kurumu Başkanlığına geçeceğini hüküm altına almıştır.</i></small>
 
-<small>[2] 9/8/1991 tarih ve 443 sayılı KHK'nin geçici 1 inci maddesi ile çeşitli mevzuatta geçen "Çevre Müsteşarlığı" ve "Çevreden Sorumlu Devlet Bakanlığı" ibareleri "Çevre Bakanlığı", "Çevreden Sorumlu Devlet Bakanı" ve "Çevre Müsteşarı" ibareleri "Çevre Bakanı" olarak değiştirilmiştir.</small>
+<small>[2] <i>9/8/1991 tarih ve 443 sayılı KHK'nin geçici 1 inci maddesi ile çeşitli mevzuatta geçen "Çevre Müsteşarlığı" ve "Çevreden Sorumlu Devlet Bakanlığı" ibareleri "Çevre Bakanlığı", "Çevreden Sorumlu Devlet Bakanı" ve "Çevre Müsteşarı" ibareleri "Çevre Bakanı" olarak değiştirilmiştir.</i></small>
 
-<small>[3] Anayasa Mahkemesinin 27/6/2024 Tarihli ve E: 2022/101, K: 2024/124 Sayılı Kararı ile bu tanımda yer alan “…çevre danışmanlık firmaları…” ve “…veya Bakanlığın ilgili yönetmelikle belirlediği kişiler…” ibareleri iptal edilmiştir.</small>
+<small>[3] <i>Anayasa Mahkemesinin 27/6/2024 Tarihli ve E: 2022/101, K: 2024/124 Sayılı Kararı ile bu tanımda yer alan “…çevre danışmanlık firmaları…” ve “…veya Bakanlığın ilgili yönetmelikle belirlediği kişiler…” ibareleri iptal edilmiştir.</i></small>
 
-<small>[4] 7/5/2026 tarihli ve 7579 sayılı Kanunun 7 nci maddesiyle bu tanıma “çevre yönetim birimleri,” ibaresinden sonra gelmek üzere “ çevre danışmanlık firmaları veya yetkilendirilmiş kişiler ” ibaresi eklenmiştir.</small>
+<small>[4] <i>7/5/2026 tarihli ve 7579 sayılı Kanunun 7 nci maddesiyle bu tanıma “çevre yönetim birimleri,” ibaresinden sonra gelmek üzere “ çevre danışmanlık firmaları veya yetkilendirilmiş kişiler ” ibaresi eklenmiştir.</i></small>
 
-<small>[5] 24/12/2020 tarihli ve 7261 sayılı Kanunun 12 nci maddesiyle, bu bende “önlenmesi ve giderilmesi” ibaresinden sonra gelmek üzere “, sıfır atığın yaygınlaştırılması, döngüsel ekonomi ilkelerinin uygulanması ve iklim değişikliği ile mücadele edilmesi” ibaresi, “temiz teknolojilerin teşviki,” ibaresinden sonra gelmek üzere “motorsuz veya elektrikli araçların teşviki, atıkların geri kazanımı ile arıtılmış atıksuların yeniden kullanımının teşviki,” ibaresi, “teminat alınması ve” ibaresinden sonra gelmek üzere “sera gazı emisyonlarının takibine yönelik” ibaresi eklenmiş, bentte yer alan “plastik poşet ve plastik ambalaj” ibaresi “plastik içerikli poşet veya ambalaj ve tek kullanımlık materyallerin” şeklinde değiştirilmiştir.</small>
+<small>[5] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 12 nci maddesiyle, bu bende “önlenmesi ve giderilmesi” ibaresinden sonra gelmek üzere “, sıfır atığın yaygınlaştırılması, döngüsel ekonomi ilkelerinin uygulanması ve iklim değişikliği ile mücadele edilmesi” ibaresi, “temiz teknolojilerin teşviki,” ibaresinden sonra gelmek üzere “motorsuz veya elektrikli araçların teşviki, atıkların geri kazanımı ile arıtılmış atıksuların yeniden kullanımının teşviki,” ibaresi, “teminat alınması ve” ibaresinden sonra gelmek üzere “sera gazı emisyonlarının takibine yönelik” ibaresi eklenmiş, bentte yer alan “plastik poşet ve plastik ambalaj” ibaresi “plastik içerikli poşet veya ambalaj ve tek kullanımlık materyallerin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[6] 26/4/2006 tarihli ve 5491 sayılı Kanunun 4 üncü maddesiyle ikinci bölüm başlığı “Merkezi ve Mahalli İdari Bölümleri ve Görevleri”, 4 üncü madde başlığı “Merkez Çevre Kurulu” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[6] <i>26/4/2006 tarihli ve 5491 sayılı Kanunun 4 üncü maddesiyle ikinci bölüm başlığı “Merkezi ve Mahalli İdari Bölümleri ve Görevleri”, 4 üncü madde başlığı “Merkez Çevre Kurulu” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[7] Bu madde başlığı "İl Çevre Kurulu" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 5 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[7] <i>Bu madde başlığı "İl Çevre Kurulu" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 5 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[8] Bu madde başlığı “Çevre Korunması” iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[8] <i>Bu madde başlığı “Çevre Korunması” iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[9] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 187 nci maddesiyle bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[9] <i>2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 187 nci maddesiyle bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[10] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu paragrafta yer alan “Bakanlıkça” ibaresi “Tarım ve Orman Bakanlığınca” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu paragrafta yer alan “Bakanlıkça” ibaresi “Tarım ve Orman Bakanlığınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[11] 11/3/2026 tarihli ve 7576 sayılı Kanunun 28 inci maddesiyle bu bentte yer alan Tarım ve Orman Bakanlığınca” ibaresi “Doğa Koruma ve Milli Parklar Genel Müdürlüğünce” şeklinde değiştirilmiştir.</small>
+<small>[11] <i>11/3/2026 tarihli ve 7576 sayılı Kanunun 28 inci maddesiyle bu bentte yer alan Tarım ve Orman Bakanlığınca” ibaresi “Doğa Koruma ve Milli Parklar Genel Müdürlüğünce” şeklinde değiştirilmiştir.</i></small>
 
-<small>[12] 19/7/2025 tarihli ve 7554 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “veya Çevresel Etki Değerlendirmesi Gerekli Değildir Kararı” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[12] <i>19/7/2025 tarihli ve 7554 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “veya Çevresel Etki Değerlendirmesi Gerekli Değildir Kararı” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[13] Bu madde başlığı "İşletme izni ve haber verme yükümlülüğü:” iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 8 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[13] <i>Bu madde başlığı "İşletme izni ve haber verme yükümlülüğü:” iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 8 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[14] 29/11/2018 tarihli ve 7153 sayılı Kanunun 2 nci maddesiyle bu fıkranın (1) numaralı bendinde yer alan “İnşaat” ibaresi “Yapı” şeklinde, “inşaat” ibaresi “yapı” şeklinde, (2) numaralı bendinde yer alan “yapı kullanma ruhsatı” ibaresi “yapı kullanma izin belgesi” şeklinde, (3) numaralı bendinde yer alan “İnşaat” ibaresi “Yapı” şeklinde, “yapı kullanma veya” ibaresi “yapı kullanma izni veya” şeklinde değiştirilmiştir.</small>
+<small>[14] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 2 nci maddesiyle bu fıkranın (1) numaralı bendinde yer alan “İnşaat” ibaresi “Yapı” şeklinde, “inşaat” ibaresi “yapı” şeklinde, (2) numaralı bendinde yer alan “yapı kullanma ruhsatı” ibaresi “yapı kullanma izin belgesi” şeklinde, (3) numaralı bendinde yer alan “İnşaat” ibaresi “Yapı” şeklinde, “yapı kullanma veya” ibaresi “yapı kullanma izni veya” şeklinde değiştirilmiştir.</i></small>
 
-<small>[15] 24/12/2020 tarihli ve 7261 sayılı Kanunun 13 üncü maddesiyle, bu fıkraya “başkanlıkları,” ibaresinden sonra gelmek üzere “atıksu altyapı yönetimlerince kurulan kooperatiflerde kooperatif yönetimleri,” ibaresi eklenmiştir.</small>
+<small>[15] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 13 üncü maddesiyle, bu fıkraya “başkanlıkları,” ibaresinden sonra gelmek üzere “atıksu altyapı yönetimlerince kurulan kooperatiflerde kooperatif yönetimleri,” ibaresi eklenmiştir.</i></small>
 
-<small>[16] Bu madde başlığı "Denetim" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[16] <i>Bu madde başlığı "Denetim" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[17] Bu fıkrada yer alan “veya Bakanlıkça uygun görülen diğer kurum ve kuruluşlara” ibaresi; Anayasa Mahkemesi’nin 15/1/2009 tarihli ve E.:2006/99, K.:2009/9 sayılı Kararıyla iptal edilmiştir.</small>
+<small>[17] <i>Bu fıkrada yer alan “veya Bakanlıkça uygun görülen diğer kurum ve kuruluşlara” ibaresi; Anayasa Mahkemesi’nin 15/1/2009 tarihli ve E.:2006/99, K.:2009/9 sayılı Kararıyla iptal edilmiştir.</i></small>
 
-<small>[18] 24/12/2020 tarihli ve 7261 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “Sahil Güvenlik Komutanlığına, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununa göre belirlenen denetleme görevlilerine” ibaresi “Türkiye Çevre Ajansına, Emniyet Genel Müdürlüğüne, Jandarma Genel Komutanlığına ve Sahil Güvenlik Komutanlığına” şeklinde değiştirilmiştir.</small>
+<small>[18] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “Sahil Güvenlik Komutanlığına, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununa göre belirlenen denetleme görevlilerine” ibaresi “Türkiye Çevre Ajansına, Emniyet Genel Müdürlüğüne, Jandarma Genel Komutanlığına ve Sahil Güvenlik Komutanlığına” şeklinde değiştirilmiştir.</i></small>
 
-<small>[19] 2/7/2025 tarihli ve 7552 sayılı Kanunun 18 inci maddesiyle bu fıkraya “Bakanlıkça;” ibaresinden sonra gelmek üzere “İklim Değişikliği Başkanlığına,” ibaresi eklenmiştir.</small>
+<small>[19] <i>2/7/2025 tarihli ve 7552 sayılı Kanunun 18 inci maddesiyle bu fıkraya “Bakanlıkça;” ibaresinden sonra gelmek üzere “İklim Değişikliği Başkanlığına,” ibaresi eklenmiştir.</i></small>
 
-<small>[20] 11/3/2026 tarihli ve 7576 sayılı Kanunun 1 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “denetleme yetkisi” ibaresinden sonra gelmek üzere “9 uncu maddenin birinci fıkrasının (a), (e) ve (f) bentleri bakımından Doğa Koruma ve Milli Parklar Genel Müdürlüğüne, diğer hükümler bakımından” ibaresi eklenmiştir.</small>
+<small>[20] <i>11/3/2026 tarihli ve 7576 sayılı Kanunun 1 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “denetleme yetkisi” ibaresinden sonra gelmek üzere “9 uncu maddenin birinci fıkrasının (a), (e) ve (f) bentleri bakımından Doğa Koruma ve Milli Parklar Genel Müdürlüğüne, diğer hükümler bakımından” ibaresi eklenmiştir.</i></small>
 
-<small>[21] Bu madde başlığı ”Zararlı kimyasal maddeler:” iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 10 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[21] <i>Bu madde başlığı ”Zararlı kimyasal maddeler:” iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 10 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[22] 29/11/2018 tarihli ve 7153 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “Başbakanlık Dış Ticaret Müsteşarlığı” ibaresi “Ticaret Bakanlığı” şeklinde değiştirilmiştir.</small>
+<small>[22] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “Başbakanlık Dış Ticaret Müsteşarlığı” ibaresi “Ticaret Bakanlığı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[23] 24/12/2020 tarihli ve 7261 sayılı Kanunun 15 inci maddesiyle, bu fıkranın birinci cümlesinde yer alan “tehlikeli” ibaresi madde metninden çıkarılmış ve cümleye “bulunanlar” ibaresinden sonra gelmek üzere “ile atık yönetim sorumlusu firmalar” ibaresi eklenmiştir.</small>
+<small>[23] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 15 inci maddesiyle, bu fıkranın birinci cümlesinde yer alan “tehlikeli” ibaresi madde metninden çıkarılmış ve cümleye “bulunanlar” ibaresinden sonra gelmek üzere “ile atık yönetim sorumlusu firmalar” ibaresi eklenmiştir.</i></small>
 
-<small>[24] 24/12/2020 tarihli ve 7261 sayılı Kanunun 16 ncı maddesiyle, bu fıkraya “faaliyetler” ibaresinden sonra gelmek üzere “ile çevre izni veya çevre izin ve lisansı olmayan faaliyetler” ibaresi eklenmiştir.</small>
+<small>[24] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 16 ncı maddesiyle, bu fıkraya “faaliyetler” ibaresinden sonra gelmek üzere “ile çevre izni veya çevre izin ve lisansı olmayan faaliyetler” ibaresi eklenmiştir.</i></small>
 
-<small>[25] Bu madde başlığı "Fonun gelirleri" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[25] <i>Bu madde başlığı "Fonun gelirleri" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[26] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 187 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[26] <i>2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 187 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[27] 29/11/2018 tarihli ve 7153 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Maliye” ibaresi “Hazine ve Maliye” şeklinde değiştirilmiştir.</small>
+<small>[27] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Maliye” ibaresi “Hazine ve Maliye” şeklinde değiştirilmiştir.</i></small>
 
-<small>[28] 30/12/2025 tarihli ve 33123 sayılı Resmî Gazete’de yayımlanan Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 2026/1 sayılı Tebliği ile bu bentteki 1/1/2026 tarihinden itibaren uygulanacak idari para cezaları metne parantez içinde siyah puntolarla işlenmiştir.</small>
+<small>[28] <i>30/12/2025 tarihli ve 33123 sayılı Resmî Gazete’de yayımlanan Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 2026/1 sayılı Tebliği ile bu bentteki 1/1/2026 tarihinden itibaren uygulanacak idari para cezaları metne parantez içinde siyah puntolarla işlenmiştir.</i></small>
 
-<small>[29] 24/12/2020 tarihli ve 7261 sayılı Kanunun 17 nci maddesiyle, (e) bendinde yer alan “sürecine başlamadan veya bu süreci tamamlamadan inşaata başlayan ya da faaliyete geçenlere yapılan” ibaresi “süreci tamamlamadan inşaata başlayan ya da faaliyete geçenlere” şeklinde değiştirilmiş, (h) bendine “belirlenen önlemleri” ibaresinden sonra gelmek üzere “veya gerekli izinleri” ibaresi, (ı) bendinin (4) numaralı alt bendine “deşarjı yapan” ibaresinden sonra gelmek üzere “tanker, gemi ve” ibaresi eklenmiştir.</small>
+<small>[29] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 17 nci maddesiyle, (e) bendinde yer alan “sürecine başlamadan veya bu süreci tamamlamadan inşaata başlayan ya da faaliyete geçenlere yapılan” ibaresi “süreci tamamlamadan inşaata başlayan ya da faaliyete geçenlere” şeklinde değiştirilmiş, (h) bendine “belirlenen önlemleri” ibaresinden sonra gelmek üzere “veya gerekli izinleri” ibaresi, (ı) bendinin (4) numaralı alt bendine “deşarjı yapan” ibaresinden sonra gelmek üzere “tanker, gemi ve” ibaresi eklenmiştir.</i></small>
 
-<small>[30] 10/6/2022 tarihli ve 7410 sayılı Kanunun 5 inci maddesiyle bu bentte yer alan “Katı atık bırakan veya evsel atıksu deşarjı yapan tanker, gemi ve diğer deniz araçlarından” ibaresi “Yüz elli groston ilâ” şeklinde değiştirilmiştir.</small>
+<small>[30] <i>10/6/2022 tarihli ve 7410 sayılı Kanunun 5 inci maddesiyle bu bentte yer alan “Katı atık bırakan veya evsel atıksu deşarjı yapan tanker, gemi ve diğer deniz araçlarından” ibaresi “Yüz elli groston ilâ” şeklinde değiştirilmiştir.</i></small>
 
-<small>[31] 30/3/2023 tarihli ve 7446 sayılı Kanunun 2 nci maddesiyle bu bentte yer alan 10 Türk lirası” ibaresi “11,59 Türk lirası” şeklinde değiştirilmiştir.</small>
+<small>[31] <i>30/3/2023 tarihli ve 7446 sayılı Kanunun 2 nci maddesiyle bu bentte yer alan 10 Türk lirası” ibaresi “11,59 Türk lirası” şeklinde değiştirilmiştir.</i></small>
 
-<small>[32] 24/12/2020 tarihli ve 7261 sayılı Kanunun 17 nci maddesiyle, bu bende “boşaltanlara” ibaresinden sonra gelmek üzere “, su kirliliği nedeni ile kurulması veya işletilmesi yönetmelikle izne tâbi tutulan tesisleri, yetkili makamlardan izin almadan kuran, işleten veya izni iptal edilmesine rağmen kurmaya veya işletmeye devam eden veya bu tesislerde izin almaksızın sonradan değişiklik yapan veya yetkili makamların gerekli gördükleri değişiklikleri tanınan sürede yapmayanlara” ibaresi eklenmiştir.</small>
+<small>[32] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 17 nci maddesiyle, bu bende “boşaltanlara” ibaresinden sonra gelmek üzere “, su kirliliği nedeni ile kurulması veya işletilmesi yönetmelikle izne tâbi tutulan tesisleri, yetkili makamlardan izin almadan kuran, işleten veya izni iptal edilmesine rağmen kurmaya veya işletmeye devam eden veya bu tesislerde izin almaksızın sonradan değişiklik yapan veya yetkili makamların gerekli gördükleri değişiklikleri tanınan sürede yapmayanlara” ibaresi eklenmiştir.</i></small>
 
-<small>[33] 27/12/2025 tarihli ve 33120 sayılı Resmî Gazete’de yayımlanan Tarım ve Orman Bakanlığının 2025/41 sayılı Tebliği ile bu bentteki 1/1/2026 tarihinden itibaren uygulanacak idari para cezaları metne parantez içinde siyah puntolarla işlenmiştir.</small>
+<small>[33] <i>27/12/2025 tarihli ve 33120 sayılı Resmî Gazete’de yayımlanan Tarım ve Orman Bakanlığının 2025/41 sayılı Tebliği ile bu bentteki 1/1/2026 tarihinden itibaren uygulanacak idari para cezaları metne parantez içinde siyah puntolarla işlenmiştir.</i></small>
 
-<small>[34] Anayasa Mahkemesinin 27/6/2024 Tarihli ve E: 2022/101, K: 2024/124 Sayılı Kararı ile bu bentte yer alan “…ya da çevre danışmanlık firmalarından hizmet almayanlara…” ve “…veya Bakanlıkça yetkilendirilen kişiyi…” ibareleri iptal edilmiştir.</small>
+<small>[34] <i>Anayasa Mahkemesinin 27/6/2024 Tarihli ve E: 2022/101, K: 2024/124 Sayılı Kararı ile bu bentte yer alan “…ya da çevre danışmanlık firmalarından hizmet almayanlara…” ve “…veya Bakanlıkça yetkilendirilen kişiyi…” ibareleri iptal edilmiştir.</i></small>
 
-<small>[35] 10/6/2022 tarihli ve 7410 sayılı Kanunun 5 inci maddesiyle bu bentte yer alan “çevre yönetim birimini kurmayanlara” ibaresi “çevre yönetimi hizmeti almayanlardan; çevre yönetim birimini kurmayanlara ya da çevre danışmanlık firmalarından hizmet almayanlara” şeklinde, “çevre görevlisi bulundurmayanlara ya da Bakanlıkça yetkilendirilmiş firmalardan hizmet almayanlara” ibaresi “çevre mühendisi veya Bakanlıkça yetkilendirilen kişiyi bulundurmayanlara” şeklinde değiştirilmiştir.</small>
+<small>[35] <i>10/6/2022 tarihli ve 7410 sayılı Kanunun 5 inci maddesiyle bu bentte yer alan “çevre yönetim birimini kurmayanlara” ibaresi “çevre yönetimi hizmeti almayanlardan; çevre yönetim birimini kurmayanlara ya da çevre danışmanlık firmalarından hizmet almayanlara” şeklinde, “çevre görevlisi bulundurmayanlara ya da Bakanlıkça yetkilendirilmiş firmalardan hizmet almayanlara” ibaresi “çevre mühendisi veya Bakanlıkça yetkilendirilen kişiyi bulundurmayanlara” şeklinde değiştirilmiştir.</i></small>
 
-<small>[36] 7/5/2026 tarihli ve 7579 sayılı Kanunun 8 inci maddesiyle bu ben de “kurmayanlara” ibaresinden sonra gelmek üzere “ ya da çevre danışmanlık firmalarından hizmet almayanlara ” ibaresi, “çevre mühendisi” ibaresinden sonra gelmek üzere “veya Bakanlıkça yetkilendirilen kişiyi” ibaresi eklenmiştir.</small>
+<small>[36] <i>7/5/2026 tarihli ve 7579 sayılı Kanunun 8 inci maddesiyle bu ben de “kurmayanlara” ibaresinden sonra gelmek üzere “ ya da çevre danışmanlık firmalarından hizmet almayanlara ” ibaresi, “çevre mühendisi” ibaresinden sonra gelmek üzere “veya Bakanlıkça yetkilendirilen kişiyi” ibaresi eklenmiştir.</i></small>
 
-<small>[37] 24/12/2020 tarihli ve 7261 sayılı Kanunun 17 nci maddesiyle, (r) bendinde yer alan “24.000 Türk Lirası” ibaresi “90.000 Türk lirasından 360.000 Türk lirasına kadar” şeklinde, “60.000 Türk Lirası” ibaresi “300.000 Türk lirası” şeklinde, (s) bendinde yer alan “100 Türk Lirası” ibaresi “1.000 Türk lirası” şeklinde, (z) bendinde yer alan “%20 fazlası” ibaresi “%20’si kadar” şeklinde değiştirilmiştir.</small>
+<small>[37] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 17 nci maddesiyle, (r) bendinde yer alan “24.000 Türk Lirası” ibaresi “90.000 Türk lirasından 360.000 Türk lirasına kadar” şeklinde, “60.000 Türk Lirası” ibaresi “300.000 Türk lirası” şeklinde, (s) bendinde yer alan “100 Türk Lirası” ibaresi “1.000 Türk lirası” şeklinde, (z) bendinde yer alan “%20 fazlası” ibaresi “%20’si kadar” şeklinde değiştirilmiştir.</i></small>
 
-<small>[38] 29/11/2018 tarihli ve 30621 sayılı Resmi Gazete’de yayımlanan 7153 sayılı Kanunun 5 inci maddesiyle bu fıkraya “Bu maddenin” ibaresinden sonra gelmek üzere “(ı) bendinin (1), (2), (3) ve (4) numaralı alt bentleri ile” ibaresi eklenmiştir.</small>
+<small>[38] <i>29/11/2018 tarihli ve 30621 sayılı Resmi Gazete’de yayımlanan 7153 sayılı Kanunun 5 inci maddesiyle bu fıkraya “Bu maddenin” ibaresinden sonra gelmek üzere “(ı) bendinin (1), (2), (3) ve (4) numaralı alt bentleri ile” ibaresi eklenmiştir.</i></small>
 
-<small>[39] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 187 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[39] <i>2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 187 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[40] 29/11/2018 tarihli ve 7153 sayılı Resmi Gazete’de yayımlanan Kanunun 6 ncı maddesiyle bu fıkrada yer alan “il çevre ve orman müdürlerince” ibaresi “çevre ve şehircilik il müdürlerince” şeklinde değiştirilmiştir.</small>
+<small>[40] <i>29/11/2018 tarihli ve 7153 sayılı Resmi Gazete’de yayımlanan Kanunun 6 ncı maddesiyle bu fıkrada yer alan “il çevre ve orman müdürlerince” ibaresi “çevre ve şehircilik il müdürlerince” şeklinde değiştirilmiştir.</i></small>
 
-<small>[41] Bu madde başlığı "İdari cezalara itiraz:" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 17 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[41] <i>Bu madde başlığı "İdari cezalara itiraz:" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 17 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[42] Bu madde başlığı "Mahkemece verilecek cezalar:" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[42] <i>Bu madde başlığı "Mahkemece verilecek cezalar:" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[43] 29/11/2018 tarihli ve 7153 sayılı Kanunun 7 nci maddesiyle bu fıkrada yer alan “Hazine Müsteşarlığınca” ibaresi “Hazine ve Maliye Bakanlığınca” şeklinde değiştirilmiştir.</small>
+<small>[43] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 7 nci maddesiyle bu fıkrada yer alan “Hazine Müsteşarlığınca” ibaresi “Hazine ve Maliye Bakanlığınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[44] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 187 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[44] <i>2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 187 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[45] 10/6/2022 tarihli ve 7410 sayılı Kanunun 6 ncı maddesiyle bu fıkraya “indirim uygulamaya” ibaresinden sonra gelmek üzere “ve ileri arıtma teknikleri ile arıtılmış atıksuyu yeniden kullanan kuruluşlara, yeniden kullanım oranına göre bu oranı yüzde yüze kadar artırmaya” ibaresi eklenmiştir.</small>
+<small>[45] <i>10/6/2022 tarihli ve 7410 sayılı Kanunun 6 ncı maddesiyle bu fıkraya “indirim uygulamaya” ibaresinden sonra gelmek üzere “ve ileri arıtma teknikleri ile arıtılmış atıksuyu yeniden kullanan kuruluşlara, yeniden kullanım oranına göre bu oranı yüzde yüze kadar artırmaya” ibaresi eklenmiştir.</i></small>
 
-<small>[46] Bu madde başlığı "İdari makamlara başvurma:" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[46] <i>Bu madde başlığı "İdari makamlara başvurma:" iken, 26/4/2006 tarihli ve 5491 sayılı Kanunun 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[47] 26/4/2006 tarihli ve 5491 sayılı Kanunun 22 nci maddesiyle bu maddede yeralan “Çevre Genel Müdürlüğünce” ibaresi “Bakanlıkça” olarak değiştirilmiştir.</small>
+<small>[47] <i>26/4/2006 tarihli ve 5491 sayılı Kanunun 22 nci maddesiyle bu maddede yeralan “Çevre Genel Müdürlüğünce” ibaresi “Bakanlıkça” olarak değiştirilmiştir.</i></small>
 
-<small>[48] 14/7/2023 tarihli ve 7456 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “bu suretle tespit edilen tutarları yarısına kadar artırmaya veya” ibaresi “bu listede yer alan veya bu fıkra uyarınca yeniden değerleme oranı uygulanmak suretiyle belirlenen tutarları iki katına kadar artırmaya veya yarısına kadar” şeklinde değiştirilmiştir.</small>
+<small>[48] <i>14/7/2023 tarihli ve 7456 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “bu suretle tespit edilen tutarları yarısına kadar artırmaya veya” ibaresi “bu listede yer alan veya bu fıkra uyarınca yeniden değerleme oranı uygulanmak suretiyle belirlenen tutarları iki katına kadar artırmaya veya yarısına kadar” şeklinde değiştirilmiştir.</i></small>
 
-<small>[49] 24/12/2020 tarihli ve 7261 sayılı Kanunun 19 uncu maddesiyle, birinci fıkranın birinci cümlesinde yer alan “ambalajlar için depozito uygulamasını 1/1/2021” ibaresi “ambalajlar ve ürünler için depozito uygulamasını 1/1/2022” şeklinde değiştirilmiş, fıkranın ikinci cümlesinde yer alan “ambalajlı” ibaresi madde metninden çıkarılmış, ikinci fıkraya “esaslar” ibaresinden sonra gelmek üzere “ile sisteme ilişkin teminatlar ve ücretler” ibaresi eklenmiştir.</small>
+<small>[49] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 19 uncu maddesiyle, birinci fıkranın birinci cümlesinde yer alan “ambalajlar için depozito uygulamasını 1/1/2021” ibaresi “ambalajlar ve ürünler için depozito uygulamasını 1/1/2022” şeklinde değiştirilmiş, fıkranın ikinci cümlesinde yer alan “ambalajlı” ibaresi madde metninden çıkarılmış, ikinci fıkraya “esaslar” ibaresinden sonra gelmek üzere “ile sisteme ilişkin teminatlar ve ücretler” ibaresi eklenmiştir.</i></small>
 
-<small>[50] Anayasa Mahkemesi’nin 3/7/2014 tarihli ve E.: 2013/89, K.: 2014/116 sayılı Kararı ile, bu maddede yer alan “…planlama aşaması geçmiş ve ihale süreci başlamış olan veya …” ibaresi iptal edilmiştir.</small>
+<small>[50] <i>Anayasa Mahkemesi’nin 3/7/2014 tarihli ve E.: 2013/89, K.: 2014/116 sayılı Kararı ile, bu maddede yer alan “…planlama aşaması geçmiş ve ihale süreci başlamış olan veya …” ibaresi iptal edilmiştir.</i></small>
 
-<small>[51] 13/1/2021 tarihli ve 31363 sayılı Resmî Gazete’de yayımlanan Çevre ve Şehircilik Bakanlığının 2021/2 sayılı Tebliği ile bu maddedeki 1/1/2021 -31/12/2021 tarihleri arasında uygulanacak idari para cezaları metne parantez içinde siyah puntolarla işlenmiştir.</small>
+<small>[51] <i>13/1/2021 tarihli ve 31363 sayılı Resmî Gazete’de yayımlanan Çevre ve Şehircilik Bakanlığının 2021/2 sayılı Tebliği ile bu maddedeki 1/1/2021 -31/12/2021 tarihleri arasında uygulanacak idari para cezaları metne parantez içinde siyah puntolarla işlenmiştir.</i></small>
 
-<small>[52] 29/11/2018 tarihli ve 7153 sayılı Kanunun 8 inci maddesinde “bu Kanuna ekli (1) sayılı liste” ibaresinin yer alması nedeniyle buraya işlenmiştir.</small>
+<small>[52] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 8 inci maddesinde “bu Kanuna ekli (1) sayılı liste” ibaresinin yer alması nedeniyle buraya işlenmiştir.</i></small>
 
-<small>[53] Bu tabloda Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 30/12/2025 tarihli ve 33123 sayılı Resmî Gazete'de yayımlanan Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 2872 Sayılı Çevre Kanunu Uyarınca Alınacak Geri Kazanım Katılım Payı Tutarlarına İlişkin Tebliğ (2026/1) ile 1/1/2026 tarihinden itibaren uygulanacak geri kazanım katılım payı tutarları metne parantez içinde siyah puntolarla işlenmiştir.</small>
+<small>[53] <i>Bu tabloda Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 30/12/2025 tarihli ve 33123 sayılı Resmî Gazete'de yayımlanan Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 2872 Sayılı Çevre Kanunu Uyarınca Alınacak Geri Kazanım Katılım Payı Tutarlarına İlişkin Tebliğ (2026/1) ile 1/1/2026 tarihinden itibaren uygulanacak geri kazanım katılım payı tutarları metne parantez içinde siyah puntolarla işlenmiştir.</i></small>

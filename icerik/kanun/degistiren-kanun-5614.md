@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5614 Kabul Tarihi : 28/3/2007
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5614 Kabul Tarihi : 28/3/2007**
 
 MADDE 1 – 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun ek 5 inci maddesine aşağıdaki fıkra eklenmiştir.
 "Devlet hizmeti yükümlülüğünü yapmakta olan personel, bulundukları ilde sözleşmeli aile hekimi olarak çalışabilirler veya ihtiyaç halinde aile hekimliği uygulamaları için görevlendirilebilirler. Bu personelin aile hekimliğinde geçen süreleri Devlet hizmeti yükümlülüğünden sayılır. Aile hekimliği uygulamasına geçilen yerlerde bu uygulamadan kaynaklanan nedenlerle birinci basamak sağlık kuruluşlarında görev yapan Devlet hizmeti yükümlüsü personelin il içinde görev yeri değiştirilebilir."

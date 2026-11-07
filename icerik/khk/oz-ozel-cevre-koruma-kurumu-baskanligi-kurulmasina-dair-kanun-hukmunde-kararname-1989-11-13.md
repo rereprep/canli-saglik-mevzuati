@@ -18,21 +18,21 @@ durum: "yürürlükte"
 
 ### KARARNAME [1][2]
 
-Kanun Hükmünde Kararnamenin Tarihi : 19/10/1989, No: 383
+**Kanun Hükmünde Kararnamenin Tarihi : 19/10/1989, No: 383**
 
-Yetki Kanununun Tarihi : 12/3/1986, No: 3268
+**Yetki Kanununun Tarihi : 12/3/1986, No: 3268**
 
-9/4/1987, No: 3347
+**9/4/1987, No: 3347**
 
-12/10/1988, No: 3479
+**12/10/1988, No: 3479**
 
-1/6/1989, No: 3569
+**1/6/1989, No: 3569**
 
-Yayımlandığı Resmî Gazete Tarihi : 13/11/1989, No: 20341
+**Yayımlandığı Resmî Gazete Tarihi : 13/11/1989, No: 20341**
 
 ### I. BÖLÜM
 
-Amaç, Kapsam, Tanımlar
+**Amaç, Kapsam, Tanımlar**
 
 #### Amaç
 
@@ -54,7 +54,7 @@ Bölgede yapılan tahsisler, verilmiş ön izinler ile mevcut her ölçekteki pl
 
 **Madde 3 –** Bu Kanun Hükmünde Kararnamede geçen deyimlerden;
 
-a) (Değişik: 9/8/1991 - KHK - 444/2 md.) Kurul; Çevre Bakanlığı Yüksek Çevre Kurulunu,
+a) **(Değişik: 9/8/1991 - KHK - 444/2 md.)** Kurul; Çevre Bakanlığı Yüksek Çevre Kurulunu,
 
 b) Kurum; Özel Çevre Koruma Kurumunu,
 
@@ -70,7 +70,7 @@ ifade eder.
 
 ### II.BÖLÜM
 
-Teşkilat
+**Teşkilat**
 
 #### Merkez Teşkilatı
 
@@ -84,7 +84,7 @@ Kurumun merkez teşkilatı ekli cetvelde gösterilmiştir.
 
 ### III.BÖLÜM
 
-Özel Çevre Koruma Kurulu [5]
+**Özel Çevre Koruma Kurulu** [5]
 
 #### Kurul
 
@@ -96,7 +96,7 @@ Kurumun merkez teşkilatı ekli cetvelde gösterilmiştir.
 
 ### IV. BÖLÜM
 
-Başkanlık
+**Başkanlık**
 
 #### Başkan
 
@@ -120,7 +120,7 @@ c) Kurulca belirlenen esaslar doğrultusunda hangi çeşit tesislerin nerelerde 
 
 d) Kurulun kararlarına ve yürürlükteki mevzuata uygun olarak taşınmaz malların kamulaştırılması için gerekli işlemleri yapar.
 
-e) (Değişik: 21/4/2005 – 5335/26 md.) Özel Çevre Koruma Bölgesi olarak ilan edilen alanlardaki Hazinenin özel mülkiyetindeki taşınmazlar ile Devletin hüküm ve tasarrufu altındaki yerler, Başkanlığın talebi üzerine Maliye Bakanlığınca bu Kanun Hükmünde Kararname amaçlarında kullanılmak üzere Başkanlığa tahsis edilir. Bölgelerde Devletin hüküm ve tasarrufu altındaki yerlerin kiralanması ve bu yerler için gerekli görülen hallerde kullanma izni verilmesi, işletilmesi, işlettirilmesi ve diğer tasarruf hakları Başkanlığa aittir.
+e) **(Değişik: 21/4/2005 – 5335/26 md.)** Özel Çevre Koruma Bölgesi olarak ilan edilen alanlardaki Hazinenin özel mülkiyetindeki taşınmazlar ile Devletin hüküm ve tasarrufu altındaki yerler, Başkanlığın talebi üzerine Maliye Bakanlığınca bu Kanun Hükmünde Kararname amaçlarında kullanılmak üzere Başkanlığa tahsis edilir. Bölgelerde Devletin hüküm ve tasarrufu altındaki yerlerin kiralanması ve bu yerler için gerekli görülen hallerde kullanma izni verilmesi, işletilmesi, işlettirilmesi ve diğer tasarruf hakları Başkanlığa aittir.
 
 ### V. BÖLÜM
 
@@ -128,7 +128,7 @@ e) (Değişik: 21/4/2005 – 5335/26 md.) Özel Çevre Koruma Bölgesi olarak il
 
 **Madde 11 –** Başkanlığın ana hizmet birimleri şunlardır:
 
-a) Etüt Plan Proje Uygulama Dairesi Başkanlığı
+a) **Etüt Plan Proje Uygulama Dairesi Başkanlığı**
 
 b) Çevre Koruma Araştırma ve İnceleme Dairesi Başkanlığı
 
@@ -176,7 +176,7 @@ j) Başkanlıkça verilecek diğer görevleri yapar.
 
 ### VI. BÖLÜM
 
-Danışma Birimi
+**Danışma Birimi**
 
 #### Danışma Birimi
 
@@ -196,13 +196,13 @@ e) Başbakanlık, Bakanlıklar ve Bakanlık Kuruluşları tarafından hazırlana
 
 ### VII. BÖLÜM
 
-Yardımcı Birimler
+**Yardımcı Birimler**
 
 #### Yardımcı Birimler
 
 **Madde 16 –** Başkanlığın yardımcı birimleri şunlardır:
 
-a) İdari ve Mali İşler Dairesi Başkanlığı
+a) **İdari ve Mali İşler Dairesi Başkanlığı**
 
 b) Personel Dairesi Başkanlığı
 
@@ -246,7 +246,7 @@ d) Başkanlıkça verilen benzeri işleri yapar.
 
 ### VIII. BÖLÜM
 
-Koruma ve Yapılaşma Esasları
+**Koruma ve Yapılaşma Esasları**
 
 #### Genel Esaslar
 
@@ -270,13 +270,13 @@ g) Kamu kuruluşlarınca bu alanlarda yapılacak her türlü yapı ve tesis içi
 
 h) Bölgede 6831 Sayılı Orman Kanununun 2/B maddesi gereğince bilim ve fen bakımından orman niteliğini tam olarak kaybettiğinden orman sınırları dışına çıkartılan alanlar hakkında Başkanlığa bilgi verilir.
 
-(Değişik: 9/8/1991-KHK-444/4 md.) Başkanlık aynı kanunun 3. maddesine göre orman rejimine alınması gerekli görülen alanları Bakanlar Kuruluna teklif edilmek üzere Çevre Bakanlığı'na sunar.
+**(Değişik: 9/8/1991-KHK-444/4 md.)** Başkanlık aynı kanunun 3. maddesine göre orman rejimine alınması gerekli görülen alanları Bakanlar Kuruluna teklif edilmek üzere Çevre Bakanlığı'na sunar.
 
 ı) Koruma ve yapılaşma esaslarına dair diğer hususlar yönetmelikle düzenlenir.
 
 ### IX. BÖLÜM
 
-Personele İlişkin Hükümler
+**Personele İlişkin Hükümler**
 
 #### Kadrolar
 
@@ -314,13 +314,13 @@ Kurumun bütçe, gelir ve harcama usul ve esasları Maliye Bakanlığının uygu
 
 **Madde 23 –** (Değişik: 20/6/2001- 4684/14 md.)
 
-(Değişik: 9/8/1991 -KHK- 444/6 md.) Kurum harcamaları 1050 sayılı Muhasebei Umumiye Kanunu ve 2886 sayılı Devlet İhale Kanunu hükümlerine tabi değildir.[10]
+**(Değişik: 9/8/1991 -KHK- 444/6 md.)** Kurum harcamaları 1050 sayılı Muhasebei Umumiye Kanunu ve 2886 sayılı Devlet İhale Kanunu hükümlerine tabi değildir.[10]
 
-(Mülga üç ila beşinci fıkralar: 20/6/2001 – 4684/14 md.)
+**(Mülga üç ila beşinci fıkralar: 20/6/2001 – 4684/14 md.)**
 
 ### XI. BÖLÜM
 
-Diğer Hükümler
+**Diğer Hükümler**
 
 #### Yönetmelikler
 
@@ -431,24 +431,24 @@ Kadro karşılığı sözleşmeli olarak çalışanların sözleşmeleri 31/12/1
 | 4684 | Onuncu Bölüm, 22, 23 | 1/1/2002 |
 | 5335 | 10 | 27/4/2005 |
 
-<small>[1] Bu KHK'nin adı 9/8/1991 tarih ve 444 sayılı KHK'nin 1. maddesi ile Özel Çevre Koruma Kurumu Başkanlığı Kurulmasına Dair Kanun Hükmünde Kararname olarak değiştirilmiştir.</small>
+<small>[1] <i>Bu KHK'nin adı 9/8/1991 tarih ve 444 sayılı KHK'nin 1. maddesi ile Özel Çevre Koruma Kurumu Başkanlığı Kurulmasına Dair Kanun Hükmünde Kararname olarak değiştirilmiştir.</i></small>
 
-<small>[2] 8/8/2011 tarihli ve 648 sayılı KHK’nın 15 inci maddesi ile 29/6/2011 tarihli ve 644 sayılı KHK’nın Ek 1 inci maddesinde yapılan değişiklikle bu KHK ile kurulan Özel Çevre Koruma Kurumu Başkanlığı kapatılmış ve bu KHK’da belirtilen iş ve işlemlerin Bakan tarafından uygun görülen Çevre ve Şehircilik Bakanlığının birimlerince yürütüleceği hüküm altına alınmıştır.</small>
+<small>[2] <i>8/8/2011 tarihli ve 648 sayılı KHK’nın 15 inci maddesi ile 29/6/2011 tarihli ve 644 sayılı KHK’nın Ek 1 inci maddesinde yapılan değişiklikle bu KHK ile kurulan Özel Çevre Koruma Kurumu Başkanlığı kapatılmış ve bu KHK’da belirtilen iş ve işlemlerin Bakan tarafından uygun görülen Çevre ve Şehircilik Bakanlığının birimlerince yürütüleceği hüküm altına alınmıştır.</i></small>
 
-<small>[3] Bu fıkrada geçen "Başbakanlığa bağlı" ibaresi 9/8/1991 tarih ve 444 sayılı KHK'nin 7 nci maddesi ile "Çevre Bakanlığına bağlı" olarak değiştirilmiştir.</small>
+<small>[3] <i>Bu fıkrada geçen "Başbakanlığa bağlı" ibaresi 9/8/1991 tarih ve 444 sayılı KHK'nin 7 nci maddesi ile "Çevre Bakanlığına bağlı" olarak değiştirilmiştir.</i></small>
 
-<small>[4] Bu fıkrada geçen "Özel Çevre Koruma Kurulu" ibaresi 9/8/1991 tarih ve 444 sayılı KHK'nin 7 nci maddesi ile "Kurul" olarak değiştirilmiştir.</small>
+<small>[4] <i>Bu fıkrada geçen "Özel Çevre Koruma Kurulu" ibaresi 9/8/1991 tarih ve 444 sayılı KHK'nin 7 nci maddesi ile "Kurul" olarak değiştirilmiştir.</i></small>
 
-<small>[5] Bu KHK'nin Özel Çevre Koruma Kurulu başlıklı, III numaralı bölümü 9/8/1991 tarih ve 444 sayılı KHK'nin 7 nci maddesi ile yürürlükten kaldırılmıştır.</small>
+<small>[5] <i>Bu KHK'nin Özel Çevre Koruma Kurulu başlıklı, III numaralı bölümü 9/8/1991 tarih ve 444 sayılı KHK'nin 7 nci maddesi ile yürürlükten kaldırılmıştır.</i></small>
 
-<small>[6] 21/4/2005 tarihli ve 5335 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “bu konuda ilgililere taşınmaz mal tahsisine” ibaresi, yürürlükten kaldırılmıştır.</small>
+<small>[6] <i>21/4/2005 tarihli ve 5335 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “bu konuda ilgililere taşınmaz mal tahsisine” ibaresi, yürürlükten kaldırılmıştır.</i></small>
 
-<small>[7] 20/6/2001 tarihli ve 4684 sayılı Kanunla bu bölümün başlığı “Özel Çevre Koruma Fonu” iken, madde metninden çıkarılmıştır.</small>
+<small>[7] <i>20/6/2001 tarihli ve 4684 sayılı Kanunla bu bölümün başlığı “Özel Çevre Koruma Fonu” iken, madde metninden çıkarılmıştır.</i></small>
 
-<small>[8] 20/6/2001 tarihli ve 4684 sayılı Kanunla bu madde başlığı; “Özel Çevre Koruma Fonu” iken, metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[8] <i>20/6/2001 tarihli ve 4684 sayılı Kanunla bu madde başlığı; “Özel Çevre Koruma Fonu” iken, metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[9] Bu maddelerin uygulanması ile ilgili olarak, 10/12/2003 tarihli ve 5018 sayılı Kanunun ilgili hükümlerine ve 28/12/2004 tarihli ve 5277 sayılı 2005 Mali Yılı Bütçe Kanununun 37 nci maddesine bakınız.</small>
+<small>[9] <i>Bu maddelerin uygulanması ile ilgili olarak, 10/12/2003 tarihli ve 5018 sayılı Kanunun ilgili hükümlerine ve 28/12/2004 tarihli ve 5277 sayılı 2005 Mali Yılı Bütçe Kanununun 37 nci maddesine bakınız.</i></small>
 
-<small>[10] 20/6/2001 tarihli ve 4684 sayılı Kanunla bu fıkrada yer alan “Bu fon’un kullanılması” ibaresi, “Kurum harcamaları” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>20/6/2001 tarihli ve 4684 sayılı Kanunla bu fıkrada yer alan “Bu fon’un kullanılması” ibaresi, “Kurum harcamaları” şeklinde değiştirilmiştir.</i></small>
 
-<small>[11] 9/8/1991 tarih ve 444 sayılı KHK'nin 7 nci maddesi ile bu fıkrada yer alan "Başbakanlıkça" ibaresi, "Çevre Bakanlığınca" olarak değiştirilmiştir.</small>
+<small>[11] <i>9/8/1991 tarih ve 444 sayılı KHK'nin 7 nci maddesi ile bu fıkrada yer alan "Başbakanlıkça" ibaresi, "Çevre Bakanlığınca" olarak değiştirilmiştir.</i></small>

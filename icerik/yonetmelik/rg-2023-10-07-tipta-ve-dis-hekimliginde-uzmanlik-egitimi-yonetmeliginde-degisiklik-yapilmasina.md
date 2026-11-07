@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-TIPTA VE DİŞ HEKİMLİĞİNDE UZMANLIK EĞİTİMİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TIPTA VE DİŞ HEKİMLİĞİNDE UZMANLIK EĞİTİMİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 3/9/2022 tarihli ve 31942 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğinin 3 üncü maddesinin birinci fıkrasının (e) bendi aşağıdaki şekilde değiştirilmiştir.
 “e) Birim eğitim sorumlusu: İlgili programdaki eğitimin koordinasyonunda yetkili ve sorumlu olan eğiticiyi,”

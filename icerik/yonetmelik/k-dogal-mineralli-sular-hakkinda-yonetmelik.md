@@ -17,15 +17,15 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
-**Madde 1 –** Bu Yönetmeliğin amacı, Türkiye Cumhuriyeti topraklarında çıkan ve tüketime sunulan doğal mineralli suların teknik ve hijyenik şartlara uygun şekilde istihsali, ambalajlanması, etiketlenmesi, satışı, denetlenmesi ve onaylanması, üçüncü ülkelerin topraklarından çıkartılan ve ülkemize ithaline (Değişik ibare:RG-7/3/2013-28580) Kurum tarafından izin verilen doğal mineralli suların onaylanması, satışı, denetlenmesi ve etiketlenmesi ile Avrupa Birliğine üye devletlerin yetkili kuruluşları tarafından doğal mineralli su olarak onaylanan suların ülkemizde satışı, denetlenmesi ve etiketlenmesi ile ilgili usul ve esasları düzenlemektir.
+**Madde 1 –** Bu Yönetmeliğin amacı, Türkiye Cumhuriyeti topraklarında çıkan ve tüketime sunulan doğal mineralli suların teknik ve hijyenik şartlara uygun şekilde istihsali, ambalajlanması, etiketlenmesi, satışı, denetlenmesi ve onaylanması, üçüncü ülkelerin topraklarından çıkartılan ve ülkemize ithaline **(Değişik ibare:RG-7/3/2013-28580)** Kurum tarafından izin verilen doğal mineralli suların onaylanması, satışı, denetlenmesi ve etiketlenmesi ile Avrupa Birliğine üye devletlerin yetkili kuruluşları tarafından doğal mineralli su olarak onaylanan suların ülkemizde satışı, denetlenmesi ve etiketlenmesi ile ilgili usul ve esasları düzenlemektir.
 
 #### Kapsam
 
-**Madde 2 –** Bu Yönetmelik, Türkiye Cumhuriyeti topraklarından çıkartılan doğal mineralli suların niteliklerini, hidrojeolojik, fiziksel, kimyasal, fiziko-kimyasal, mikrobiyolojik ve tıbbi özelliklerini, kaptaj, isale, depo, dolum yeri gibi ünitelerinin haiz olacağı teknik ve hijyenik şartlar ile onaylama, ruhsatlandırma, ambalajlama, etiketleme, satış ve denetimini, üçüncü ülkelerin topraklarından çıkartılan (Değişik ibare:RG-7/3/2013-28580) Kurum tarafından onaylanarak ülkemize ithaline izin verilen doğal mineralli sular ile Avrupa Birliğine üye devletlerin yetkili kuruluşları tarafından doğal mineralli su olarak onaylanan suların ülkemizde satışı, denetlenmesi ve etiketlenmesini kapsar.
+**Madde 2 –** Bu Yönetmelik, Türkiye Cumhuriyeti topraklarından çıkartılan doğal mineralli suların niteliklerini, hidrojeolojik, fiziksel, kimyasal, fiziko-kimyasal, mikrobiyolojik ve tıbbi özelliklerini, kaptaj, isale, depo, dolum yeri gibi ünitelerinin haiz olacağı teknik ve hijyenik şartlar ile onaylama, ruhsatlandırma, ambalajlama, etiketleme, satış ve denetimini, üçüncü ülkelerin topraklarından çıkartılan **(Değişik ibare:RG-7/3/2013-28580)** Kurum tarafından onaylanarak ülkemize ithaline izin verilen doğal mineralli sular ile Avrupa Birliğine üye devletlerin yetkili kuruluşları tarafından doğal mineralli su olarak onaylanan suların ülkemizde satışı, denetlenmesi ve etiketlenmesini kapsar.
 
 Termal ve hidromineral tesislerde tedavi edici amaçlar için kaynağında kullanılan mineralli ve tıbbi ürün niteliği taşıyan sulara bu Yönetmelik hükümleri uygulanmaz.
 
@@ -41,27 +41,27 @@ Bu Yönetmelik, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununu
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) (Mülga:RG-7/3/2013-28580)
+b) **(Mülga:RG-7/3/2013-28580)**
 
-c) Müdürlük: (Değişik ibare:RG-7/3/2013-28580) Halk Sağlığı Müdürlüğünü ,
+c) Müdürlük: **(Değişik ibare:RG-7/3/2013-28580)** Halk Sağlığı Müdürlüğünü ,
 
-d) Bilimsel Değerlendirme Komisyonu: Doğal mineralli suların kimyasal, fiziko kimyasal, mikrobiyolojik, farmakolojik, fizyolojik ve klinik değerlendirilmesi ve onaylanması için (Değişik ibare:RG-7/3/2013-28580) Kurumca oluşturulan komisyonu,
+d) Bilimsel Değerlendirme Komisyonu: Doğal mineralli suların kimyasal, fiziko kimyasal, mikrobiyolojik, farmakolojik, fizyolojik ve klinik değerlendirilmesi ve onaylanması için **(Değişik ibare:RG-7/3/2013-28580)** Kurumca oluşturulan komisyonu,
 
-e) (Değişik:RG-29/11/2010-27770) Doğal mineralli su: Yerkabuğunun çeşitli derinliklerinde uygun jeolojik şartlarda doğal olarak oluşan, bir veya daha fazla kaynaktan yeryüzüne kendiliğinden çıkan veya teknik usullerle çıkartılan, mineral içeriği, kalıntı elementleri ve diğer bileşenleri ile tanımlanan, her türlü kirlenme riskine karşı korunmuş, mikrobiyolojik yönden uygun ve bu Yönetmeliğin 5 inci, 6 ncı ve 7 nci maddelerinde belirtilen özellikleri haiz olup 8 inci maddeye göre onaylanan suları,
+e) **(Değişik:RG-29/11/2010-27770)** Doğal mineralli su: Yerkabuğunun çeşitli derinliklerinde uygun jeolojik şartlarda doğal olarak oluşan, bir veya daha fazla kaynaktan yeryüzüne kendiliğinden çıkan veya teknik usullerle çıkartılan, mineral içeriği, kalıntı elementleri ve diğer bileşenleri ile tanımlanan, her türlü kirlenme riskine karşı korunmuş, mikrobiyolojik yönden uygun ve bu Yönetmeliğin 5 inci, 6 ncı ve 7 nci maddelerinde belirtilen özellikleri haiz olup 8 inci maddeye göre onaylanan suları,
 
-f) Kurul: Doğal mineralli suları incelemek üzere her ilde (Değişik ibare:RG-7/3/2013-28580) Halk Sağlığı Müdürünün teklifi ve Valiliğin onayı ile oluşturulan inceleme kurulunu,
+f) Kurul: Doğal mineralli suları incelemek üzere her ilde **(Değişik ibare:RG-7/3/2013-28580)** Halk Sağlığı Müdürünün teklifi ve Valiliğin onayı ile oluşturulan inceleme kurulunu,
 
 g) Tesis izni: Doğal mineralli su işletmelerinin inşası için bu Yönetmelik uyarınca verilen izni,
 
-h) (Değişik ibare:RG-7/3/2013-28580) Üretim izni : Doğal mineralli su işletmelerine bu Yönetmelik uyarınca verilen (Değişik:RG-7/3/2013-28580) izin belgesini,
+h) **(Değişik ibare:RG-7/3/2013-28580)** Üretim izni : Doğal mineralli su işletmelerine bu Yönetmelik uyarınca verilen **(Değişik:RG-7/3/2013-28580)** izin belgesini,
 
 ı) Otomatik makine: İmlahanede yer alan ve yıkama, doldurma ve kapaklama işlemlerini el değmeden otomatik olarak yapan makineyi,
 
 j) Otomatik sistem: İşletmede üretimi yapılan ambalajın temizlenmesi, dolum ve kapaklanma işlemlerini el değmeden otomatik olarak uyum içinde yapan sistemi,
 
-k) (Değişik:RG-17/4/2014-28975) Geri dönüşlü kap: Doğal mineralli su dolumunda bir defadan fazla kullanılan ve su ile etkileşim yapmayan cam, metal, krom-nikel, polikarbonat ve benzeri kapları,
+k) **(Değişik:RG-17/4/2014-28975)** Geri dönüşlü kap: Doğal mineralli su dolumunda bir defadan fazla kullanılan ve su ile etkileşim yapmayan cam, metal, krom-nikel, polikarbonat ve benzeri kapları,
 
-l) (Değişik:RG-17/4/2014-28975) Geri dönüşsüz kap: Doğal mineralli su dolumunda bir defadan fazla kullanılmayacak pet, cam, metal, krom-nikel ve benzeri kapları,
+l) **(Değişik:RG-17/4/2014-28975)** Geri dönüşsüz kap: Doğal mineralli su dolumunda bir defadan fazla kullanılmayacak pet, cam, metal, krom-nikel ve benzeri kapları,
 
 m) Kurul ön raporu: Yönetmelikte belirtilen usul ve esaslar doğrultusunda doğal mineralli su kaynağı ve tesis yeri ile ilgili olarak Kurulca hazırlanan ilk raporu,
 
@@ -73,23 +73,23 @@ p) Üye ülke: Avrupa Birliği üyesi olan ülkeleri,
 
 r) Üçüncü ülkeler: Avrupa Birliği üyesi olmayan ülkeleri,
 
-s) (Ek:RG-29/11/2010-27770) Koruma alanı: Kaynak ve bunların bağlı olduğu jeotermal sistemin; bozulmasına, kirlenmesine ve sürdürülebilir özelliğinin yitirilmesine neden olacak dış etkenlerden korumak amacıyla sahanın jeolojik, hidrojeolojik yapısı, iklim koşulları, zemin cinsi ve tipleri, drenaj sahası sınırı, kaynak ve kuyu çevresindeki yerleşim birimleri, endüstri tesisleri, çevrenin topografik yapısı gibi unsurlara bağlı olarak belirlenmiş, önlemler alınması gereken, içerisinde yapılan faaliyetlerin kontrol ve denetime tâbi olduğu ve gerektiğinde yapılaşma ve arazi kullanım faaliyetleri kısıtlanabilir alanları,
+s) **(Ek:RG-29/11/2010-27770)** Koruma alanı: Kaynak ve bunların bağlı olduğu jeotermal sistemin; bozulmasına, kirlenmesine ve sürdürülebilir özelliğinin yitirilmesine neden olacak dış etkenlerden korumak amacıyla sahanın jeolojik, hidrojeolojik yapısı, iklim koşulları, zemin cinsi ve tipleri, drenaj sahası sınırı, kaynak ve kuyu çevresindeki yerleşim birimleri, endüstri tesisleri, çevrenin topografik yapısı gibi unsurlara bağlı olarak belirlenmiş, önlemler alınması gereken, içerisinde yapılan faaliyetlerin kontrol ve denetime tâbi olduğu ve gerektiğinde yapılaşma ve arazi kullanım faaliyetleri kısıtlanabilir alanları,
 
-ş) (Ek:RG-7/3/2013-28580) Kurum: Türkiye Halk Sağlığı Kurumunu,
+ş) **(Ek:RG-7/3/2013-28580)** Kurum: Türkiye Halk Sağlığı Kurumunu,
 
-t) (Ek:RG-7/3/2013-28580) Parti no: Aynı şartlarda üretilen, imal edilen veya ambalajlanan bir suyun satış birimleri topluluğu için kullanılan sayısal değeri,
+t) **(Ek:RG-7/3/2013-28580)** Parti no: Aynı şartlarda üretilen, imal edilen veya ambalajlanan bir suyun satış birimleri topluluğu için kullanılan sayısal değeri,
 
-u) (Ek:RG-7/3/2013-28580) (Değişik:RG-17/4/2014-28975) Seri no: Aynı şartlarda belirli zaman diliminde üretilen, imal edilen veya ambalajlanan suyu ayırt etmek için kullanılan sayısal değeri,
+u) **(Ek:RG-7/3/2013-28580) (Değişik:RG-17/4/2014-28975)** Seri no: Aynı şartlarda belirli zaman diliminde üretilen, imal edilen veya ambalajlanan suyu ayırt etmek için kullanılan sayısal değeri,
 
-ü) (Ek:RG-17/4/2014-28975) Kontrol izlemesi: Yönetmeliğin 7 nci maddesi ile Ek-3’te yer alan parametreleri kapsayacak şekilde yaptırılan analizleri,
+ü) **(Ek:RG-17/4/2014-28975)** Kontrol izlemesi: Yönetmeliğin 7 nci maddesi ile Ek-3’te yer alan parametreleri kapsayacak şekilde yaptırılan analizleri,
 
-v) (Ek:RG-17/4/2014-28975) Denetim izlemesi: Yönetmeliğin 6 ve 7 nci maddeleri ile Ek-3’te yer alan parametreleri kapsayacak şekilde yaptırılan analizleri,
+v) **(Ek:RG-17/4/2014-28975)** Denetim izlemesi: Yönetmeliğin 6 ve 7 nci maddeleri ile Ek-3’te yer alan parametreleri kapsayacak şekilde yaptırılan analizleri,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Doğal Mineralli Suların Özellikleri
+**Doğal Mineralli Suların Özellikleri**
 
 #### Genel Özellikler
 
@@ -97,7 +97,7 @@ Doğal Mineralli Suların Özellikleri
 
 a) Doğal mineralli suların muhteviyatına ilişkin parametre değerleri, 6 ncı maddede belirtilen sınırları aşmamalıdır.
 
-b) (Değişik ibare: RG-24/07/2005-25885) Şişelenecek doğal mineralli suyun mineral içeriği, sıcaklığı, elektrik iletkenliği ve karakteristik özellikleri, doğal dalgalanmalar dahilinde suyun kaynak yerindeki yapısı ile aynı olmalıdır.
+b) **(Değişik ibare: RG-24/07/2005-25885)** Şişelenecek doğal mineralli suyun mineral içeriği, sıcaklığı, elektrik iletkenliği ve karakteristik özellikleri, doğal dalgalanmalar dahilinde suyun kaynak yerindeki yapısı ile aynı olmalıdır.
 
 c) Doğal mineralli suya karbondioksit dışında kimyasal maddeler ilave edilmez. İlave edilen karbondioksit, suyun doğal yapısını bozmamalıdır.
 
@@ -121,7 +121,7 @@ g) Doğal mineralli sulardan diğer su ve sulu içeceklerin üretimi de yapılab
 
 **Madde 6 –** Doğal mineralli suların ihtiva edebilecekleri maddelerin üst sınır değerleri aşağıda gösterilen miktarları aşamaz. Bu maddede sayılan parametrelerden Ek-2 de yer alanların analizi için Ek-2’deki tabloda belirtilen performans karakteristiklerine uyulur.
 
-a) (Değişik ibare:RG-29/11/2010-27770) Doğal Mineralli Sularda Kendiliğinden Bulunan Bileşenler ve Aşıldığı Takdirde Halk Sağlığı Açısından Risk Oluşturabilecek Maksimum Limitler :
+a) **(Değişik ibare:RG-29/11/2010-27770)** Doğal Mineralli Sularda Kendiliğinden Bulunan Bileşenler ve Aşıldığı Takdirde Halk Sağlığı Açısından Risk Oluşturabilecek Maksimum Limitler :
 
 | Parametre | Sembol | Bulunabilecek maksimum miktar mg/L |
 | Antimon | (Sb) | 0.005 |
@@ -183,11 +183,11 @@ Beta yayıcılar litrede en çok: 54 picocurie (2.0 Bq/Lt)
 
 Doğal mineralli sular mikrobiyolojik özellikleri bakımından aşağıdaki nitelikleri haiz olmalıdır:
 
-a) Kaynaktan alınan numunede toplam koloni sayısı 20-22 o C’de 72 saatte agar-agar veya agar-jelatin karışımında mililitrede 20’yi ve 37 o C’de 24 saatte agar-agar karışımında mililitrede 5’i geçmemelidir. (Ek cümle:RG-7/3/2013-28580) Bu değerler izin verilen maksimum sınır değerler olmayıp, rehber değerlerdir.
+a) Kaynaktan alınan numunede toplam koloni sayısı 20-22 o C’de 72 saatte agar-agar veya agar-jelatin karışımında mililitrede 20’yi ve 37 o C’de 24 saatte agar-agar karışımında mililitrede 5’i geçmemelidir. **(Ek cümle:RG-7/3/2013-28580)** Bu değerler izin verilen maksimum sınır değerler olmayıp, rehber değerlerdir.
 
-b) (Değişik ibare:RG-7/3/2013-28580) Şişelenme sonrasında imlahaneden alınan numunede toplam koloni sayısı, 20-22 o C’de 72 saatte agar-agar veya agar-jelatin karışımında mililitrede 100’ü ve 37 o C’de 24 saatte agar-agarda mililitrede 20’yi geçmemelidir. Toplam koloni sayımı; şişelenmeyi takiben ısısı 4 o C ± 1 o C olan ortamda muhafaza edilen numunede 12 saat içerisinde yapılmalıdır.
+b) **(Değişik ibare:RG-7/3/2013-28580)** Şişelenme sonrasında imlahaneden alınan numunede toplam koloni sayısı, 20-22 o C’de 72 saatte agar-agar veya agar-jelatin karışımında mililitrede 100’ü ve 37 o C’de 24 saatte agar-agarda mililitrede 20’yi geçmemelidir. Toplam koloni sayımı; şişelenmeyi takiben ısısı 4 o C ± 1 o C olan ortamda muhafaza edilen numunede 12 saat içerisinde yapılmalıdır.
 
-c) Pazarlama sürecinde doğal mineralli suyun yeniden canlanabilir toplam koloni sayısı, sadece kaynağında bulunan bakteri sayısındaki normal artıştan kaynaklanan miktar kadar olabilir. (Değişik cümle:RG-20/10/2016-29863) Bu toplam koloni sayısı EK-1’de 1.3.3’te belirtilen koşullar altında belirlenir ve bu değerler rehber değerdir.
+c) Pazarlama sürecinde doğal mineralli suyun yeniden canlanabilir toplam koloni sayısı, sadece kaynağında bulunan bakteri sayısındaki normal artıştan kaynaklanan miktar kadar olabilir. **(Değişik cümle:RG-20/10/2016-29863)** Bu toplam koloni sayısı EK-1’de 1.3.3’te belirtilen koşullar altında belirlenir ve bu değerler rehber değerdir.
 
 ç) Kaynakta ve satış süresince doğal mineralli su, aşağıdakileri içermemelidir.
 
@@ -199,51 +199,51 @@ c) Pazarlama sürecinde doğal mineralli suyun yeniden canlanabilir toplam kolon
 
 4) 250 ml’lik numunede pseudomonas aeruginosa.
 
-(Ek fıkra:RG-7/3/2013-28580) Doğal mineralli su, organoleptik olarak kusursuz olmalıdır.
+**(Ek fıkra:RG-7/3/2013-28580)** Doğal mineralli su, organoleptik olarak kusursuz olmalıdır.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Doğal Mineralli Suların Onaylanması, İlk Başvuru, İşletilmesi ve Yapılacak İşlemler
+**Doğal Mineralli Suların Onaylanması, İlk Başvuru, İşletilmesi ve Yapılacak İşlemler**
 
 #### Onaylanması
 
-**Madde 8 –** (Değişik fıkra:RG-29/11/2010-27770) Doğal mineralli sular jeolojik ve hidrojeolojik, fiziksel, kimyasal, fiziko-kimyasal ve mikrobiyolojik yönden Ek-1’de belirtilen değerlendirme kriterlerine göre (Değişik ibare:RG-7/3/2013-28580) Kurumca oluşturulacak bilimsel değerlendirme komisyonunca incelenir ve komisyonun görüşü dikkate alınarak (Değişik ibare:RG-7/3/2013-28580) Kurumca onaylanır. Doğal mineralli suya ait fiziksel, kimyasal, fiziko-kimyasal ve mikrobiyolojik analiz sonuçları, başvuru tarihi itibarıyla bir yıldan daha eski tarihli olamaz. Doğal mineralli su hem kaynakta hem de şişelendikten sonra özellikle 1000 mg/L veya üzeri katı madde ya da 250 mg/L veya üzeri karbondioksit içeriyorsa veya etikette suyun niteliklerine ilişkin 25 inci maddede zorunlu kılınanların dışındaki bilgilere yer verilmek isteniyorsa, üreticinin talebi üzerine ya da (Değişik ibare:RG-7/3/2013-28580) Kurumca gerekli görüldüğü takdirde farmakolojik, fizyolojik ve klinik yönden de incelenir.
+**Madde 8 –** (Değişik fıkra:RG-29/11/2010-27770) Doğal mineralli sular jeolojik ve hidrojeolojik, fiziksel, kimyasal, fiziko-kimyasal ve mikrobiyolojik yönden Ek-1’de belirtilen değerlendirme kriterlerine göre **(Değişik ibare:RG-7/3/2013-28580)** Kurumca oluşturulacak bilimsel değerlendirme komisyonunca incelenir ve komisyonun görüşü dikkate alınarak **(Değişik ibare:RG-7/3/2013-28580)** Kurumca onaylanır. Doğal mineralli suya ait fiziksel, kimyasal, fiziko-kimyasal ve mikrobiyolojik analiz sonuçları, başvuru tarihi itibarıyla bir yıldan daha eski tarihli olamaz. Doğal mineralli su hem kaynakta hem de şişelendikten sonra özellikle 1000 mg/L veya üzeri katı madde ya da 250 mg/L veya üzeri karbondioksit içeriyorsa veya etikette suyun niteliklerine ilişkin 25 inci maddede zorunlu kılınanların dışındaki bilgilere yer verilmek isteniyorsa, üreticinin talebi üzerine ya da **(Değişik ibare:RG-7/3/2013-28580)** Kurumca gerekli görüldüğü takdirde farmakolojik, fizyolojik ve klinik yönden de incelenir.
 
-Üye ülkelerden ithal edilen doğal mineralli suların herhangi bir üye ülkenin yetkili mercii tarafından onaylandığına dair belgenin (Değişik ibare:RG-7/3/2013-28580) Kuruma ibrazı gerekir.
+Üye ülkelerden ithal edilen doğal mineralli suların herhangi bir üye ülkenin yetkili mercii tarafından onaylandığına dair belgenin **(Değişik ibare:RG-7/3/2013-28580)** Kuruma ibrazı gerekir.
 
-Üçüncü bir ülkede yer altından çıkarılan doğal mineralli suyun bu maddeye istinaden onaylanmasını isteyen gerçek veya tüzel kişi 5 inci, 6 ncı ve 7 nci maddede belirtilen nitelikleri kapsayacak şekilde doğal mineralli suya ait analiz raporları ile birlikte (Değişik ibare:RG-7/3/2013-28580) Kuruma yazılı müracaatta bulunur. (Değişik ibare:RG-7/3/2013-28580) Kurumca oluşturulacak bilimsel değerlendirme komisyonunun görüşü dikkate alınarak uygun görülmesi halinde (Değişik ibare:RG-7/3/2013-28580) Kurumca onaylanır. Bu nitelikteki doğal mineralli sularda da 25 inci madde hükümleri doğrultusunda etiketleme gereklilikleri aranır.
+Üçüncü bir ülkede yer altından çıkarılan doğal mineralli suyun bu maddeye istinaden onaylanmasını isteyen gerçek veya tüzel kişi 5 inci, 6 ncı ve 7 nci maddede belirtilen nitelikleri kapsayacak şekilde doğal mineralli suya ait analiz raporları ile birlikte **(Değişik ibare:RG-7/3/2013-28580)** Kuruma yazılı müracaatta bulunur. **(Değişik ibare:RG-7/3/2013-28580)** Kurumca oluşturulacak bilimsel değerlendirme komisyonunun görüşü dikkate alınarak uygun görülmesi halinde **(Değişik ibare:RG-7/3/2013-28580)** Kurumca onaylanır. Bu nitelikteki doğal mineralli sularda da 25 inci madde hükümleri doğrultusunda etiketleme gereklilikleri aranır.
 
-Üçüncü ülkelerin topraklarından çıkartılan ve (Değişik ibare:RG-7/3/2013-28580) Kurumca verilen onay üzerine ülkemize ithal edilen doğal mineralli sulara verilen onay (Değişik ibare:RG-20/10/2016-29863) beş yıl için geçerlidir. Bu sürenin bitiminden önce onay belgesi yenilenir.
+Üçüncü ülkelerin topraklarından çıkartılan ve **(Değişik ibare:RG-7/3/2013-28580)** Kurumca verilen onay üzerine ülkemize ithal edilen doğal mineralli sulara verilen onay **(Değişik ibare:RG-20/10/2016-29863)** beş yıl için geçerlidir. Bu sürenin bitiminden önce onay belgesi yenilenir.
 
-Bu madde gereği doğal mineralli su olarak onaylanan suyun, doğal mineralli su niteliğini kesin ve sürekli olarak kaybettiği tespit edilirse ve bu durum 10 uncu maddede sayılan laboratuarların raporları ile tevsik edilirse, (Değişik ibare:RG-7/3/2013-28580) Kurumca oluşturulacak bilimsel değerlendirme komisyonunun görüşü dikkate alınarak söz konusu suyun doğal mineralli su onayı ve bu onaya bağlı olarak tanzim edilmiş herhangi bir izin var ise, bu izin iptal edilir.
+Bu madde gereği doğal mineralli su olarak onaylanan suyun, doğal mineralli su niteliğini kesin ve sürekli olarak kaybettiği tespit edilirse ve bu durum 10 uncu maddede sayılan laboratuarların raporları ile tevsik edilirse, **(Değişik ibare:RG-7/3/2013-28580)** Kurumca oluşturulacak bilimsel değerlendirme komisyonunun görüşü dikkate alınarak söz konusu suyun doğal mineralli su onayı ve bu onaya bağlı olarak tanzim edilmiş herhangi bir izin var ise, bu izin iptal edilir.
 
-Bu madde gereğince onaylanan doğal mineralli sular (Değişik ibare:RG-7/3/2013-28580) Kurumca ilan edilir. (Değişik ibare:RG-7/3/2013-28580) Kurumca onaylanan ve onayı iptal edilen doğal mineralli suların listesi (Değişik ibare:RG-7/3/2013-28580) Kurumca (Değişik ibare:RG-7/3/2013-28580) Ekonomi Bakanlığına bildirilir. (Değişik ibare:RG-7/3/2013-28580) Ekonomi Bakanlığı tarafından talep edilmesi halinde onaylama veya iptal gerekçeleri de bildirilir.
+Bu madde gereğince onaylanan doğal mineralli sular **(Değişik ibare:RG-7/3/2013-28580)** Kurumca ilan edilir. **(Değişik ibare:RG-7/3/2013-28580)** Kurumca onaylanan ve onayı iptal edilen doğal mineralli suların listesi **(Değişik ibare:RG-7/3/2013-28580)** Kurumca **(Değişik ibare:RG-7/3/2013-28580)** Ekonomi Bakanlığına bildirilir. **(Değişik ibare:RG-7/3/2013-28580)** Ekonomi Bakanlığı tarafından talep edilmesi halinde onaylama veya iptal gerekçeleri de bildirilir.
 
 #### İzin Alma Mecburiyeti
 
-**Madde 9 –** Bu Yönetmelikte belirtilen esaslara göre onaylanmış doğal mineralli suları işletmek isteyenler (Değişik ibare:RG-31/7/2009-27305) Valilikten önce tesis izni, sonra da işletme izni almak zorundadır. Bu Yönetmelik hükümlerini karşılamayan, Yönetmelik gereği istenilen şartları taşımayan ve (Değişik ibare:RG-31/7/2009-27305) Valilikçe izin verilmeyen doğal mineralli suların pazara arzı, satışı ve tüketime sunulması yasaktır.
+**Madde 9 –** Bu Yönetmelikte belirtilen esaslara göre onaylanmış doğal mineralli suları işletmek isteyenler **(Değişik ibare:RG-31/7/2009-27305)** Valilikten önce tesis izni, sonra da işletme izni almak zorundadır. Bu Yönetmelik hükümlerini karşılamayan, Yönetmelik gereği istenilen şartları taşımayan ve **(Değişik ibare:RG-31/7/2009-27305)** Valilikçe izin verilmeyen doğal mineralli suların pazara arzı, satışı ve tüketime sunulması yasaktır.
 
 Bu Yönetmeliğe göre verilen izin, yürürlükteki mevzuatı uyarınca diğer kuruluşlardan izin alma zorunluluğunu ortadan kaldırmaz.
 
 #### İlk Başvuru, İnceleme ve Analiz
 
-**Madde 10 –** Bu Yönetmelikte belirtilen şartlara uyan ve 8 inci madde hükümleri doğrultusunda onaylanan doğal mineralli suları işletmek isteyen gerçek veya tüzel kişiler önce tesis izni, sonra (Değişik ibare:RG-7/3/2013-28580) üretim izni almak zorundadır. İşletmeciler kaynakta hiçbir işlem yapmadan, kaynağın yerini ve tesisin inşa edileceği araziyi tereddütlere meydan vermeyecek şekilde belirleyen plan veya kroki ile birlikte (Değişik ibare:RG-7/3/2013-28580) Müdürlüğe müracaat ederler.
+**Madde 10 –** Bu Yönetmelikte belirtilen şartlara uyan ve 8 inci madde hükümleri doğrultusunda onaylanan doğal mineralli suları işletmek isteyen gerçek veya tüzel kişiler önce tesis izni, sonra **(Değişik ibare:RG-7/3/2013-28580)** üretim izni almak zorundadır. İşletmeciler kaynakta hiçbir işlem yapmadan, kaynağın yerini ve tesisin inşa edileceği araziyi tereddütlere meydan vermeyecek şekilde belirleyen plan veya kroki ile birlikte **(Değişik ibare:RG-7/3/2013-28580)** Müdürlüğe müracaat ederler.
 
-(Değişik fıkra:RG-29/11/2010-27770) Başvurunun müdürlüğe intikali üzerine; doğal mineralli suyun kaynağı, müdürlük elemanları kontrolünde numune alınacak şekle getirtilir. İnceleme Kurulu, kaynağı ve tesis yerini mahallinde tetkik eder. Yapılan tetkikler sonucunda, kaynağın tanımına uygunluğunun tespit edilmesi halinde müdürlük, tekniğine uygun olarak kaynaktan gerekli numuneleri alır; debi ve sıcaklık gibi mahallinde yapılması gereken ölçümleri yapar; kaptaj ve kaynağın yeri ile 11/12/2007 tarihli ve 26727 sayılı Resmî Gazete’de yayımlanan Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanunu Uygulama Yönetmeliği kapsamında hazırlanmış kaynağın etrafında bırakılacak koruma alanı mesafesi ve tesisin inşa edileceği arazinin yeri ve gerekli olan diğer hususlara da yer verilerek ön raporu detaylı şekilde hazırlar.
+**(Değişik fıkra:RG-29/11/2010-27770)** Başvurunun müdürlüğe intikali üzerine; doğal mineralli suyun kaynağı, müdürlük elemanları kontrolünde numune alınacak şekle getirtilir. İnceleme Kurulu, kaynağı ve tesis yerini mahallinde tetkik eder. Yapılan tetkikler sonucunda, kaynağın tanımına uygunluğunun tespit edilmesi halinde müdürlük, tekniğine uygun olarak kaynaktan gerekli numuneleri alır; debi ve sıcaklık gibi mahallinde yapılması gereken ölçümleri yapar; kaptaj ve kaynağın yeri ile 11/12/2007 tarihli ve 26727 sayılı Resmî Gazete’de yayımlanan Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanunu Uygulama Yönetmeliği kapsamında hazırlanmış kaynağın etrafında bırakılacak koruma alanı mesafesi ve tesisin inşa edileceği arazinin yeri ve gerekli olan diğer hususlara da yer verilerek ön raporu detaylı şekilde hazırlar.
 
-Alınan numuneler (Değişik:RG-7/3/2013-28580) Kurumca , tercihen akredite olmuş laboratuarlar arasından yeterli ve uygun görülerek yetki verilen laboratuarlarda analiz ettirilir.
+Alınan numuneler **(Değişik:RG-7/3/2013-28580)** Kurumca , tercihen akredite olmuş laboratuarlar arasından yeterli ve uygun görülerek yetki verilen laboratuarlarda analiz ettirilir.
 
-(Değişik fıkra:RG-7/3/2013-28580) Tesis ve üretim izni için yaptırılan analizlerin ücreti işletmeci tarafından ödenir.
+**(Değişik fıkra:RG-7/3/2013-28580)** Tesis ve üretim izni için yaptırılan analizlerin ücreti işletmeci tarafından ödenir.
 
 #### Kurul
 
-**Madde 11 –** Kurul; (Değişik ibare:RG-7/3/2013-28580) Halk Sağlığı Müdürünün veya görevlendireceği müdür yardımcısının başkanlığında aşağıdaki üyelerden teşkil edilir:
+**Madde 11 –** Kurul; **(Değişik ibare:RG-7/3/2013-28580)** Halk Sağlığı Müdürünün veya görevlendireceği müdür yardımcısının başkanlığında aşağıdaki üyelerden teşkil edilir:
 
-a) (Değişik:RG-7/3/2013-28580) Çevre sağlığı şube müdürü,
+a) **(Değişik:RG-7/3/2013-28580)** Çevre sağlığı şube müdürü,
 
-b) Kimya mühendisi veya kimyager veya gıda mühendisi veya biyolog (Ek ibare:RG-29/11/2010-27770) veya çevre mühendisi,
+b) Kimya mühendisi veya kimyager veya gıda mühendisi veya biyolog **(Ek ibare:RG-29/11/2010-27770)** veya çevre mühendisi,
 
-c) Jeoloji mühendisi (Ek ibare:RG-7/3/2013-28580) , jeofizik mühendisi veya hidro-jeoloji mühendisi,
+c) Jeoloji mühendisi **(Ek ibare:RG-7/3/2013-28580)** , jeofizik mühendisi veya hidro-jeoloji mühendisi,
 
 d) Makine mühendisi,
 
@@ -255,11 +255,11 @@ g) İlgili imar müdürlüğünü temsilen bir yetkili.
 
 Tesis izni aşamasında Kurul, bu maddenin birinci fıkrasının (a, c, e, f ve g) bentlerinde sayılan gruplara dahil üyelerden her bir gruptan en az bir üyenin katılımı ile mahallinde toplanır.
 
-(Değişik:RG-7/3/2013-28580) Üretim izni aşamasında ise, bu maddenin birinci fıkrasının (a, b, d, e ve f) bentlerinde sayılan gruplara dahil üyelerden her bir gruptan en az bir üyenin katılımı ile mahallinde toplanır.
+**(Değişik:RG-7/3/2013-28580)** Üretim izni aşamasında ise, bu maddenin birinci fıkrasının (a, b, d, e ve f) bentlerinde sayılan gruplara dahil üyelerden her bir gruptan en az bir üyenin katılımı ile mahallinde toplanır.
 
 Gerekli görülür ise, diğer ilgili teknik elemanlar da kurula dahil edilir. Ayrıca, Kurula konusunda uzman ilgili sivil toplum örgütü temsilcisi gözlemci olarak katılabilir. Söz konusu temsilcinin Kurula katılımı zorunlu değildir.
 
-Kurul üyelerinin görüşleri arasında ihtilaf doğması halinde (Değişik ibare:RG-7/3/2013-28580) Müdürlük , konu ile ilgili uzmanın görüşünü dikkate alabilir veya yeniden Kurul oluşturabilir.
+Kurul üyelerinin görüşleri arasında ihtilaf doğması halinde **(Değişik ibare:RG-7/3/2013-28580)** Müdürlük , konu ile ilgili uzmanın görüşünü dikkate alabilir veya yeniden Kurul oluşturabilir.
 
 #### Projelerin Hazırlanması
 
@@ -267,21 +267,21 @@ Kurul üyelerinin görüşleri arasında ihtilaf doğması halinde (Değişik ib
 
 a) 1/500 ölçekli koruma bölgesini gösterecek biçimde kaynak yeri plan koteleri,
 
-b) (Değişik:RG-7/3/2013-28580) 1/50 ölçekli kaptaj projesi,
+b) **(Değişik:RG-7/3/2013-28580)** 1/50 ölçekli kaptaj projesi,
 
-c) (Değişik:RG-7/3/2013-28580) Kaynağın bağlantılarını, toplama odasını ve maslak gibi üniteleri de gösteren 1/2000 ölçekli isale plan ve profili,
+c) **(Değişik:RG-7/3/2013-28580)** Kaynağın bağlantılarını, toplama odasını ve maslak gibi üniteleri de gösteren 1/2000 ölçekli isale plan ve profili,
 
-d) (Değişik:RG-7/3/2013-28580) Kanalizasyon bulunmayan yerlerde 1/50 ölçekli fosseptik projesi ve açıklama raporu,
+d) **(Değişik:RG-7/3/2013-28580)** Kanalizasyon bulunmayan yerlerde 1/50 ölçekli fosseptik projesi ve açıklama raporu,
 
-e) (Değişik:RG-7/3/2013-28580) Depo kullanılacak ise 1/100 ölçekli depo projesi,
+e) **(Değişik:RG-7/3/2013-28580)** Depo kullanılacak ise 1/100 ölçekli depo projesi,
 
-f) (Değişik:RG-7/3/2013-28580) 1/500 ölçekli imlahane projesi (Uygulanacak prosese bağlı olarak işletmede imal edilmesi gereken geri dönüşsüz ambalajlar için imal yeri ile kirli ve dolu kap bekletme yeri, yıkama, doldurma ve kapaklama yeri ve diğer ilgili üniteleri birlikte gösterir şekilde olacaktır),
+f) **(Değişik:RG-7/3/2013-28580)** 1/500 ölçekli imlahane projesi (Uygulanacak prosese bağlı olarak işletmede imal edilmesi gereken geri dönüşsüz ambalajlar için imal yeri ile kirli ve dolu kap bekletme yeri, yıkama, doldurma ve kapaklama yeri ve diğer ilgili üniteleri birlikte gösterir şekilde olacaktır),
 
 g) Makine yerleşimi ile iş akımını gösterir şema ve açıklama raporu,
 
-h) (Değişik:RG-7/3/2013-28580) Sosyal tesis ile diğer yardımcı üniteleri gösterir 1/500 ölçekli proje,
+h) **(Değişik:RG-7/3/2013-28580)** Sosyal tesis ile diğer yardımcı üniteleri gösterir 1/500 ölçekli proje,
 
-ı) (Değişik:RG-29/11/2010-27770) Bütün üniteler ile Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanunu Uygulama Yönetmeliği hükümlerine göre hazırlanmış kaynak koruma alanını da gösterecek şekilde hazırlanmış genel vaziyet planı.
+ı) **(Değişik:RG-29/11/2010-27770)** Bütün üniteler ile Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanunu Uygulama Yönetmeliği hükümlerine göre hazırlanmış kaynak koruma alanını da gösterecek şekilde hazırlanmış genel vaziyet planı.
 
 #### (Değişik başlık:RG-29/11/2010-27770) Dosya tanzimi ve tesis izni
 
@@ -289,7 +289,7 @@ h) (Değişik:RG-7/3/2013-28580) Sosyal tesis ile diğer yardımcı üniteleri g
 
 a) Dilekçe,
 
-b) Suyun 8 inci madde hükümleri doğrultusunda ve Ek–1’de belirtilen değerlendirme kriterlerine göre doğal mineralli su olarak kabul edilebileceğine dair Bilimsel Değerlendirme Komisyonu Raporu ve (Değişik ibare:RG-7/3/2013-28580) Kurum onayı,
+b) Suyun 8 inci madde hükümleri doğrultusunda ve Ek–1’de belirtilen değerlendirme kriterlerine göre doğal mineralli su olarak kabul edilebileceğine dair Bilimsel Değerlendirme Komisyonu Raporu ve **(Değişik ibare:RG-7/3/2013-28580)** Kurum onayı,
 
 c) Madde 12’de belirtilen projeler,
 
@@ -297,31 +297,31 @@ d) Madde 6 ve 7’ de yer alan parametrelere ait analiz raporları,
 
 e) Su ile ilgili Kurul ön raporu,
 
-f) (Mülga:RG-29/11/2010-27770)
+f) **(Mülga:RG-29/11/2010-27770)**
 
-g) (Mülga:RG-31/7/2009-27305)
+g) **(Mülga:RG-31/7/2009-27305)**
 
 h) Suyun imla şekli ile ilgili açıklama raporu,
 
 ı) Hidrojeolojik katmanın stratigrafisini de içeren hidrojeolojik inceleme raporu,
 
-i) (Değişik:RG-29/11/2010-27770) Doğal mineralli suyun bulunduğu arazinin, koruma alanının birinci zon sınırını kapsayacak şekilde mülkiyet izni, yer başka gerçek veya tüzel kişiye ait ise noter onaylı anlaşma örneği, hisseli tapularda diğer hissedarların noter onaylı muvafakati veya ilgili mahkemeden alınacak karar,
+i) **(Değişik:RG-29/11/2010-27770)** Doğal mineralli suyun bulunduğu arazinin, koruma alanının birinci zon sınırını kapsayacak şekilde mülkiyet izni, yer başka gerçek veya tüzel kişiye ait ise noter onaylı anlaşma örneği, hisseli tapularda diğer hissedarların noter onaylı muvafakati veya ilgili mahkemeden alınacak karar,
 
 j) Suya uygulanacak üretim proseslerine ilişkin bilgi ve belgeler,
 
-k) (Değişik:RG-17/4/2014-28975) İlgili mevzuatına göre yetkili kurum veya kuruluştan alınmış işletme ruhsatının ya da suyun tahsisine ilişkin yapılan kira sözleşmesinin yetkili kurum veya kuruluşça onaylanmış örneği,
+k) **(Değişik:RG-17/4/2014-28975)** İlgili mevzuatına göre yetkili kurum veya kuruluştan alınmış işletme ruhsatının ya da suyun tahsisine ilişkin yapılan kira sözleşmesinin yetkili kurum veya kuruluşça onaylanmış örneği,
 
 l) İsale hattı için kullanılacak malzemelere ait bilgi ve belgeler,
 
-m) (Mülga:RG-7/3/2013-28580)
+m) **(Mülga:RG-7/3/2013-28580)**
 
-(Mülga ikinci fıkra:RG-31/7/2009-27305)
+**(Mülga ikinci fıkra:RG-31/7/2009-27305)**
 
-(Ek fıkra:RG-31/7/2009-27305) Hazırlanan dosyalar müdürlükçe incelenir, uygun görülmesi halinde onaylanır ve tesis izni verilir. (Değişik ibare:RG-7/3/2013-28580) Kuruma ve işletmeciye tesis izni verildiği bir yazı ile bildirilir.
+**(Ek fıkra:RG-31/7/2009-27305)** Hazırlanan dosyalar müdürlükçe incelenir, uygun görülmesi halinde onaylanır ve tesis izni verilir. **(Değişik ibare:RG-7/3/2013-28580)** Kuruma ve işletmeciye tesis izni verildiği bir yazı ile bildirilir.
 
-(Ek fıkra:RG-31/7/2009-27305) Doğal mineralli su sahipleri veya işletmecileri, Valilikten tesis izni almadan inşa ettikleri yapı ve tesislerden dolayı hak talep edemezler.
+**(Ek fıkra:RG-31/7/2009-27305)** Doğal mineralli su sahipleri veya işletmecileri, Valilikten tesis izni almadan inşa ettikleri yapı ve tesislerden dolayı hak talep edemezler.
 
-(Ek fıkra:RG-31/7/2009-27305) Verilen tesis izni üç yıl için geçerlidir. Tesisin bu süre içinde inşa edilememesi ve işletme sahibinin üç yıllık sürenin bitiminden evvel Valilikten ek süre talebinde bulunması halinde, bu süre en fazla iki yıl uzatılabilir.
+**(Ek fıkra:RG-31/7/2009-27305)** Verilen tesis izni üç yıl için geçerlidir. Tesisin bu süre içinde inşa edilememesi ve işletme sahibinin üç yıllık sürenin bitiminden evvel Valilikten ek süre talebinde bulunması halinde, bu süre en fazla iki yıl uzatılabilir.
 
 #### Tesis İzni
 
@@ -329,31 +329,31 @@ m) (Mülga:RG-7/3/2013-28580)
 
 #### Üretim İzni (Değişik madde başlığı:RG-7/3/2013-28580)
 
-**Madde 15 –** Tesis izni alanlar, uygun görülen projeleri ve Yönetmelikte istenilen hususları tam olarak yerine getirmek suretiyle bütün tesisleri inşa ederek tamamladıktan sonra, bir dilekçe ile Valiliğe başvurarak (Değişik ibare:RG-7/3/2013-28580) üretim izni talebinde bulunurlar.
+**Madde 15 –** Tesis izni alanlar, uygun görülen projeleri ve Yönetmelikte istenilen hususları tam olarak yerine getirmek suretiyle bütün tesisleri inşa ederek tamamladıktan sonra, bir dilekçe ile Valiliğe başvurarak **(Değişik ibare:RG-7/3/2013-28580)** üretim izni talebinde bulunurlar.
 
 Kurulca, tesislerin mahallinde incelenmesi sonucu, Yönetmelik hükümlerine ve projelerine uygunluğunun anlaşılması halinde, ruhsata esas olmak üzere suyun tüketime sunulacağı en son nokta olan nihai dolum yerinden mineralli su örnekleri alınarak madde 6 ve 7’de yer alan parametrelerin analizleri yaptırılır. Doğal mineralli suların etiket bilgisinde de bu analiz sonuçları esas alınır.
 
-(Mülga fıkra:RG-31/7/2009-27305)
+**(Mülga fıkra:RG-31/7/2009-27305)**
 
-(Mülga fıkra:RG-31/7/2009-27305)
+**(Mülga fıkra:RG-31/7/2009-27305)**
 
-(Mülga fıkra:RG-31/7/2009-27305)
+**(Mülga fıkra:RG-31/7/2009-27305)**
 
-(Mülga fıkra:RG-31/7/2009-27305)
+**(Mülga fıkra:RG-31/7/2009-27305)**
 
-(Ek fıkra:RG-31/7/2009-27305) Kurul son raporu, suyun tam analiz raporları, üç adet firma kaşe ve imzasını taşıyan etiket örneği uygun ise Valilikçe (Değişik ibare:RG-7/3/2013-28580) üretim izni verilir ve (Değişik ibare:RG-7/3/2013-28580) Kuruma bildirilir.
+**(Ek fıkra:RG-31/7/2009-27305)** Kurul son raporu, suyun tam analiz raporları, üç adet firma kaşe ve imzasını taşıyan etiket örneği uygun ise Valilikçe **(Değişik ibare:RG-7/3/2013-28580)** üretim izni verilir ve **(Değişik ibare:RG-7/3/2013-28580)** Kuruma bildirilir.
 
-(Ek fıkra:RG-31/7/2009-27305) Tesis izni alınmadan inşa edilmiş tesislerin projelerine uygun olması halinde; Müdürlükçe bir değerlendirmede bulunulur ve herhangi bir eksiklik yok ise Valilikçe tesis izni ile (Değişik ibare:RG-7/3/2013-28580) üretim izni aynı anda verilebilir.
+**(Ek fıkra:RG-31/7/2009-27305)** Tesis izni alınmadan inşa edilmiş tesislerin projelerine uygun olması halinde; Müdürlükçe bir değerlendirmede bulunulur ve herhangi bir eksiklik yok ise Valilikçe tesis izni ile **(Değişik ibare:RG-7/3/2013-28580)** üretim izni aynı anda verilebilir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Tesislere Ait Hükümler
+**Tesislere Ait Hükümler**
 
 #### Kaynak Koruma Alanı
 
 **Madde 16 –** (Mülga fıkra:RG-29/11/2010-27770)
 
-(Değişik fıkra:RG-29/11/2010-27770) Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanunu Uygulama Yönetmeliği hükümlerine göre hazırlanmış kaynak koruma alanı ile ilgili hususlar projesinde gösterilir ve gerekçesi ayrıntılı olarak Kurul ön raporunda belirtilir.
+**(Değişik fıkra:RG-29/11/2010-27770)** Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanunu Uygulama Yönetmeliği hükümlerine göre hazırlanmış kaynak koruma alanı ile ilgili hususlar projesinde gösterilir ve gerekçesi ayrıntılı olarak Kurul ön raporunda belirtilir.
 
 Koruma alanına insan, hayvan, sel ve diğer suların girmesi önlenerek her türlü kirlenmeye karşı tedbirler alınır. Bu bölgede doğal mineralli suyun niteliğini etkileyecek faaliyetlere izin verilmez.
 
@@ -363,7 +363,7 @@ Koruma alanına insan, hayvan, sel ve diğer suların girmesi önlenerek her tü
 
 Kaptaj, camdan veya doğal mineralli suyun niteliğini bozmayacak malzemeden yapılmış açılır kapanır şekilde ayrılmış, biri suların toplandığı oda ve diğeri manevra odası olmak üzere iki bölümden oluşur.
 
-Kaptajın manevra odasında, doğal mineralli suyun isalesi, doğal mineralli su kaynağını tamamen ortaya çıkaracak şekilde tahliyesi, numune alınması, debisinin ölçülmesi, manevra odasına dökülecek doğal mineralli suların boşaltılması için gerekli tertibat yer alır. Ayrıca, her iki bölümün birlikte veya ayrı ayrı havalandırılması için, doğal mineralli suyun dışarıdan kirlenmesini önleyecek şekilde gerekli tertibat yapılır. Bu özellikler, toplama odası ile benzeri yapılarda da göz önünde bulundurulur ve bu gibi ünitelerin tahliye uçlarına (Ek ibare:RG-7/3/2013-28580) haşere ve kemirgen girişini önlemek için uygun tertibat konur.
+Kaptajın manevra odasında, doğal mineralli suyun isalesi, doğal mineralli su kaynağını tamamen ortaya çıkaracak şekilde tahliyesi, numune alınması, debisinin ölçülmesi, manevra odasına dökülecek doğal mineralli suların boşaltılması için gerekli tertibat yer alır. Ayrıca, her iki bölümün birlikte veya ayrı ayrı havalandırılması için, doğal mineralli suyun dışarıdan kirlenmesini önleyecek şekilde gerekli tertibat yapılır. Bu özellikler, toplama odası ile benzeri yapılarda da göz önünde bulundurulur ve bu gibi ünitelerin tahliye uçlarına **(Ek ibare:RG-7/3/2013-28580)** haşere ve kemirgen girişini önlemek için uygun tertibat konur.
 
 Her kaynak için ayrı bir kaptaj yapılması zorunludur. Birbirinden ayrı kaynaklardan çıkan doğal mineralli suların her ne surette olursa olsun aynı kaptajda toplanması yasaktır.
 
@@ -411,13 +411,13 @@ Yapılacak septik çukurlar, hela çukurlarından ayrı olup, suların kirlenmes
 
 İmlahane içinde bulundurulan her türlü araç ve gereçler kolay temizlenebilir malzemeden yapılır. Temizlik için kullanılan çöp kabı ve diğer temizlik malzemesi doğal mineralli suyu kirletmeyecek bir yerde bulundurulur. Genel temizlik, çalışma saatleri dışında yapılır. Çalışmanın devamlı olduğu hallerde ise çalışma durdurularak yapılır.
 
-İmlahaneye her türlü haşarat ve kemiricilerin girmesini önleyecek sıhhi ve fenni tedbirler alınır. Tesiste, gerektiğinde tekniğine ve usulüne uygun olarak (Değişik ibare:RG-7/3/2013-28580) 27/1/2005 tarihli ve 25709 sayılı Resmî Gazete’de yayımlanan Biyosidal Ürünlerin Kullanım Usul ve Esasları Hakkında Yönetmelik kapsamında faaliyet gösteren işyerleri tarafından ilaçlı mücadele yapılır. İlaçlamada (Değişik ibare:RG-7/3/2013-28580) 31/12/2009 tarihli ve 27449 sayılı Resmî Gazete’de yayımlanan Biyosidal Ürünler Yönetmeliği kapsamında izne bağlanmış ürünler kullanılır ve bunlar imlahanede bulundurulamaz.
+İmlahaneye her türlü haşarat ve kemiricilerin girmesini önleyecek sıhhi ve fenni tedbirler alınır. Tesiste, gerektiğinde tekniğine ve usulüne uygun olarak **(Değişik ibare:RG-7/3/2013-28580)** 27/1/2005 tarihli ve 25709 sayılı Resmî Gazete’de yayımlanan Biyosidal Ürünlerin Kullanım Usul ve Esasları Hakkında Yönetmelik kapsamında faaliyet gösteren işyerleri tarafından ilaçlı mücadele yapılır. İlaçlamada **(Değişik ibare:RG-7/3/2013-28580)** 31/12/2009 tarihli ve 27449 sayılı Resmî Gazete’de yayımlanan Biyosidal Ürünler Yönetmeliği kapsamında izne bağlanmış ürünler kullanılır ve bunlar imlahanede bulundurulamaz.
 
 İmlahanede, personelin şahsi temizliğini yapması, kap, kapak ve benzeri malzemelerin özel bölümleri dışında depolanması, kedi, köpek ve kümes hayvanları ile benzerlerinin beslenmesi ve bulundurulması yasaktır.
 
 Sosyal tesislere ait kapılar, doğrudan imlahaneye açılamaz.
 
-Doğal mineralli su tesislerinde aynı makine ve dolum hattının kullanılması suretiyle diğer su ve sulu içeceklerin dolumu da yapılabilir. (Ek cümle:RG-7/3/2013-28580) Ancak, asıl ürün dâhil beş çeşitten fazla su ve sulu içecek dolumu yapılamaz.
+Doğal mineralli su tesislerinde aynı makine ve dolum hattının kullanılması suretiyle diğer su ve sulu içeceklerin dolumu da yapılabilir. **(Ek cümle:RG-7/3/2013-28580)** Ancak, asıl ürün dâhil beş çeşitten fazla su ve sulu içecek dolumu yapılamaz.
 
 #### Sosyal Tesisler
 
@@ -429,7 +429,7 @@ Doğal mineralli su tesislerinde aynı makine ve dolum hattının kullanılması
 
 ### BEŞİNCİ BÖLÜM
 
-Kaplar, Kapaklar ve Etiketler
+**Kaplar, Kapaklar ve Etiketler**
 
 #### Kaplar
 
@@ -437,11 +437,11 @@ Kaplar, Kapaklar ve Etiketler
 
 Doğal mineralli su dolumunda kullanılan kaplar, geri dönüşlü ve geri dönüşsüz olmak üzere iki ayrı grupta değerlendirilir:
 
-a) Geri dönüşlü kaplar: En az 55-70 oC sıcaklıktaki su ve uygun temizlik maddesi ile tam otomatik olarak el değmeden yıkanabilecek ve ayrıca kullanımı ve yıkama sonucu herhangi bir deformasyona uğramayacak nitelikte olur. Bu kapların dedektör ve benzeri sistemle niteliğinin değişmediğinin kontrol edilmesi gerekir. Geri dönüşlü kapların tutma yerleri kabın iç hacmine dahil olmamalıdır. (Ek cümle:RG-7/3/2013-28580) Bu kaplar üretim tarihinden itibaren en fazla (Değişik ibare:RG-20/10/2016-29863) beş yıl veya 75 kez kullanılır ve bu kapların kaç defa doldurulduğunun tespit edilmesine yarayan elektronik takip sistemi işletmeci tarafından oluşturulur, bu sistemin usul ve esasları Kurumca belirlenir.
+a) Geri dönüşlü kaplar: En az 55-70 oC sıcaklıktaki su ve uygun temizlik maddesi ile tam otomatik olarak el değmeden yıkanabilecek ve ayrıca kullanımı ve yıkama sonucu herhangi bir deformasyona uğramayacak nitelikte olur. Bu kapların dedektör ve benzeri sistemle niteliğinin değişmediğinin kontrol edilmesi gerekir. Geri dönüşlü kapların tutma yerleri kabın iç hacmine dahil olmamalıdır. **(Ek cümle:RG-7/3/2013-28580)** Bu kaplar üretim tarihinden itibaren en fazla **(Değişik ibare:RG-20/10/2016-29863)** beş yıl veya 75 kez kullanılır ve bu kapların kaç defa doldurulduğunun tespit edilmesine yarayan elektronik takip sistemi işletmeci tarafından oluşturulur, bu sistemin usul ve esasları Kurumca belirlenir.
 
-b) Geri dönüşsüz kaplar: Doğal mineralli su dolumunda, cam, metal, krom-nikel dışında malzemeden yapılmış kapların kullanılması halinde, bu kaplar imlahanenin ilgili bölümlerinde otomatik olarak hammaddeden ve preformdan hareketle imal edilir. Kaplar dolumdan önce basınçlı (Değişik ibare:RG-7/3/2013-28580) su veya hava ile temizlenir, el değmeden otomatik sistemle doluma alınır. Geri dönüşsüz kaplar tekrar doğal mineralli su dolumunda kullanılamaz.
+b) Geri dönüşsüz kaplar: Doğal mineralli su dolumunda, cam, metal, krom-nikel dışında malzemeden yapılmış kapların kullanılması halinde, bu kaplar imlahanenin ilgili bölümlerinde otomatik olarak hammaddeden ve preformdan hareketle imal edilir. Kaplar dolumdan önce basınçlı **(Değişik ibare:RG-7/3/2013-28580)** su veya hava ile temizlenir, el değmeden otomatik sistemle doluma alınır. Geri dönüşsüz kaplar tekrar doğal mineralli su dolumunda kullanılamaz.
 
-(Ek fıkra:RG-29/11/2010-27770) (Değişik fıkra:RG-7/3/2013-28580) Geri dönüşlü polikarbonat kaplarda suyun adı ve kabın üretim tarihi boyun veya gövdesine kabartma şeklinde yazılır. Ayrıca, şirket ismi, tescilli amblemi veya logosu da yazılabilir. Bu kaplara farklı su dolumu yapılamaz. Bu kaplar ile satışa sunulan suların raf ömrü üç aydan fazla olamaz.
+**(Ek fıkra:RG-29/11/2010-27770) (Değişik fıkra:RG-7/3/2013-28580)** Geri dönüşlü polikarbonat kaplarda suyun adı ve kabın üretim tarihi boyun veya gövdesine kabartma şeklinde yazılır. Ayrıca, şirket ismi, tescilli amblemi veya logosu da yazılabilir. Bu kaplara farklı su dolumu yapılamaz. Bu kaplar ile satışa sunulan suların raf ömrü üç aydan fazla olamaz.
 
 #### Kapaklar
 
@@ -513,17 +513,17 @@ Doğal mineralli sularda polikarbonat damacana kullanılması halinde tüketicin
 
 ### ALTINCI BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Mesul Müdür
 
-**Madde 26 –** Doğal mineralli su tesislerinde, mesul müdür bulundurulması zorunludur ve mesul müdüre ait bilgi ve belgeler (Değişik ibare:RG-17/4/2014-28975) Müdürlüğe yazılı olarak bildirilir. Müdürlükçe uygun görülürse mesul müdür belgesi düzenlenir.
+**Madde 26 –** Doğal mineralli su tesislerinde, mesul müdür bulundurulması zorunludur ve mesul müdüre ait bilgi ve belgeler **(Değişik ibare:RG-17/4/2014-28975)** Müdürlüğe yazılı olarak bildirilir. Müdürlükçe uygun görülürse mesul müdür belgesi düzenlenir.
 
-Mesul müdür, konuyla ilgili sağlık, gıda, biyoloji, kimya veya çevre alanında eğitim almış lisans ve ön lisans mezunlarından olur. (Ek cümle:RG-7/3/2013-28580) İşletme sahibi belirtilen mesleklerden birine ait diplomayı haiz ise kendisi de mesul müdürlük yapabilir.
+Mesul müdür, konuyla ilgili sağlık, gıda, biyoloji, kimya veya çevre alanında eğitim almış lisans ve ön lisans mezunlarından olur. **(Ek cümle:RG-7/3/2013-28580)** İşletme sahibi belirtilen mesleklerden birine ait diplomayı haiz ise kendisi de mesul müdürlük yapabilir.
 
 Mesul müdür görevlendirilmesi, işletmecinin sorumluluğunu ortadan kaldırmaz.
 
-(Ek fıkra:RG-7/3/2013-28580) Mesul müdür;
+**(Ek fıkra:RG-7/3/2013-28580)** Mesul müdür;
 
 a) İşletmede kalite standartlarının korunmasından,
 
@@ -537,27 +537,27 @@ d) 1593 sayılı Umumi Hıfzıssıhha Kanununun 126 ve 127 nci maddeleri mucibin
 
 e) Müdürlük ve Kurum elemanlarınca yapılacak denetim sırasında gerekli bilgi ve belgelerin verilmesinden ve denetime yardımcı olunmasından,
 
-(Değişik paragraf:RG-20/10/2016-29863) sorumlu olup yalnızca damacana dolumu yapılan tesisler hariç tesiste görevi dışında başka bir iş yapamaz.
+**(Değişik paragraf:RG-20/10/2016-29863)** sorumlu olup yalnızca damacana dolumu yapılan tesisler hariç tesiste görevi dışında başka bir iş yapamaz.
 
-(Ek fıkra:RG-7/3/2013-28580) Mesul müdürün iş yerindeki görevinden ayrılması veya görevine son verilmesi durumlarında işletme sahibi tarafından en geç 24 saat içinde Müdürlüğe bilgi verilir ve ayrılış tarihinden itibaren en geç bir hafta içinde yeni mesul müdüre ait müracaat Müdürlüğe yapılır. Bir hafta içinde yeni mesul müdür tayin edilmemesi halinde tesis Müdürlük tarafından uyarılarak onbeş günü geçmemek üzere ek süre verilir. Ancak, bu süreler içinde mesul müdür diplomasına eş değer diplomaya haiz ve tesiste çalışan başka bir personel geçici olarak görevlendirilir. Belirtilen süre içinde de mesul müdür atanmaması halinde işletmenin faaliyeti durdurulur.
+**(Ek fıkra:RG-7/3/2013-28580)** Mesul müdürün iş yerindeki görevinden ayrılması veya görevine son verilmesi durumlarında işletme sahibi tarafından en geç 24 saat içinde Müdürlüğe bilgi verilir ve ayrılış tarihinden itibaren en geç bir hafta içinde yeni mesul müdüre ait müracaat Müdürlüğe yapılır. Bir hafta içinde yeni mesul müdür tayin edilmemesi halinde tesis Müdürlük tarafından uyarılarak onbeş günü geçmemek üzere ek süre verilir. Ancak, bu süreler içinde mesul müdür diplomasına eş değer diplomaya haiz ve tesiste çalışan başka bir personel geçici olarak görevlendirilir. Belirtilen süre içinde de mesul müdür atanmaması halinde işletmenin faaliyeti durdurulur.
 
-(Ek fıkra:RG-7/3/2013-28580) Tesislerde su dolumu yapılan genel çalışma saatleri dışındaki zamanda ve kabul edilebilir mazeret hallerinde mesul müdürün yerine, mesul müdürün yazılı yetki devri yaptığı eşdeğer diplomayı haiz başka bir çalışanın bulunması zorunludur.
+**(Ek fıkra:RG-7/3/2013-28580)** Tesislerde su dolumu yapılan genel çalışma saatleri dışındaki zamanda ve kabul edilebilir mazeret hallerinde mesul müdürün yerine, mesul müdürün yazılı yetki devri yaptığı eşdeğer diplomayı haiz başka bir çalışanın bulunması zorunludur.
 
 #### Ayrıştırma ve Filtrasyon
 
-**Madde 27 –** Doğal mineralli sulara, kendisine karakteristik özellik veren önemli elementlere ilişkin suyun kaynağındaki niteliğini değiştirmemek kaydıyla uygulanan muhtemelen oksijenlemeyi takiben demir ve kükürt gibi kalıcı olmayan elementlerin filtrasyon ve boşaltma yoluyla ayrıştırılması, ozonla zenginleştirilmiş hava kullanılarak demir, mangan, kükürt ve arseniğin ayrıştırılması (Ek ibare:RG-7/3/2013-28580) aktif alüminyum kullanılarak florürün ayrıştırılması ve tamamen fiziksel yollarla serbest karbondioksidin kısmen veya tamamen ayrıştırılması işlemleri dışında herhangi bir işlem uygulanmaması esastır. Ancak savaş, deprem ve sel gibi doğal afetlerde (Değişik ibare:RG-7/3/2013-28580) Kurumun özel izni ile diğer işlemler uygulanabilir.
+**Madde 27 –** Doğal mineralli sulara, kendisine karakteristik özellik veren önemli elementlere ilişkin suyun kaynağındaki niteliğini değiştirmemek kaydıyla uygulanan muhtemelen oksijenlemeyi takiben demir ve kükürt gibi kalıcı olmayan elementlerin filtrasyon ve boşaltma yoluyla ayrıştırılması, ozonla zenginleştirilmiş hava kullanılarak demir, mangan, kükürt ve arseniğin ayrıştırılması **(Ek ibare:RG-7/3/2013-28580)** aktif alüminyum kullanılarak florürün ayrıştırılması ve tamamen fiziksel yollarla serbest karbondioksidin kısmen veya tamamen ayrıştırılması işlemleri dışında herhangi bir işlem uygulanmaması esastır. Ancak savaş, deprem ve sel gibi doğal afetlerde **(Değişik ibare:RG-7/3/2013-28580)** Kurumun özel izni ile diğer işlemler uygulanabilir.
 
-Ayırma işleminde ozonla zenginleştirilmiş havanın (Ek ibare:RG-7/3/2013-28580) ve alüminyumun kullanılması halinde;
+Ayırma işleminde ozonla zenginleştirilmiş havanın **(Ek ibare:RG-7/3/2013-28580)** ve alüminyumun kullanılması halinde;
 
-a) (Değişik ibare:RG-31/7/2009-27305) Valilik önceden bilgilendirilir.
+a) **(Değişik ibare:RG-31/7/2009-27305)** Valilik önceden bilgilendirilir.
 
 b) Ayırma işleminde ayırım işleminin etkinliğinin sağlanması, zararlı etkilerinin önlenmesi ve suyun fiziksel ve kimyasal bileşimlerinin değişmemesi esas alınır.
 
-c) Ayırma işleminden önce doğal mineralli su, Yönetmeliğin 7 nci maddesinde belirtilen mikrobiyolojik kriterleri sağlamalıdır. Ozonla zenginleştirilmiş hava kullanımı ile işleme tabi tutulmuş doğal mineralli suların kontrol izlemesine ozon, bromat ve bromoform da dahil edilir ve maksimum limit değeri ozon için 50 (Değişik ibare:RG-29/11/2010-27770) µg/L , bromat için 3.0 (Değişik ibare:RG-29/11/2010-27770) µg/L ve bromoform için ise 1.0 (Değişik ibare:RG-29/11/2010-27770) µg/L olarak belirlenir. Bu maddelerin maksimum limitlerini aşması veya maksimum limitlerin altındaki miktarlarının halk sağlığı için risk teşkil edecek çökelti oluşumuna neden olması durumunda (Değişik ibare:RG-31/7/2009-27305) Valilik 40 ıncı madde hükümleri uyarınca gerekli tedbirleri alır.
+c) Ayırma işleminden önce doğal mineralli su, Yönetmeliğin 7 nci maddesinde belirtilen mikrobiyolojik kriterleri sağlamalıdır. Ozonla zenginleştirilmiş hava kullanımı ile işleme tabi tutulmuş doğal mineralli suların kontrol izlemesine ozon, bromat ve bromoform da dahil edilir ve maksimum limit değeri ozon için 50 **(Değişik ibare:RG-29/11/2010-27770)** µg/L , bromat için 3.0 **(Değişik ibare:RG-29/11/2010-27770)** µg/L ve bromoform için ise 1.0 **(Değişik ibare:RG-29/11/2010-27770)** µg/L olarak belirlenir. Bu maddelerin maksimum limitlerini aşması veya maksimum limitlerin altındaki miktarlarının halk sağlığı için risk teşkil edecek çökelti oluşumuna neden olması durumunda **(Değişik ibare:RG-31/7/2009-27305)** Valilik 40 ıncı madde hükümleri uyarınca gerekli tedbirleri alır.
 
-ç) (Ek:RG-7/3/2013-28580) Doğal mineralli sularda Yönetmelikte belirlenen sınır değerin üzerinde bulunması sebebiyle ayrıştırma işlemine tabi tutulan parametre için her seriden numune alınarak analizi yapılır veya yaptırılır. Analiz sonuçlarının uygun olması durumunda su piyasaya sunulur. Ayrıştırma işlemi yapılan doğal mineralli sular, ayrıştırılan parametre yönünden Müdürlükçe haftalık izlemeye alınır. Analiz sonuçlarının uygun olması durumunda su piyasaya verilir.
+ç) **(Ek:RG-7/3/2013-28580)** Doğal mineralli sularda Yönetmelikte belirlenen sınır değerin üzerinde bulunması sebebiyle ayrıştırma işlemine tabi tutulan parametre için her seriden numune alınarak analizi yapılır veya yaptırılır. Analiz sonuçlarının uygun olması durumunda su piyasaya sunulur. Ayrıştırma işlemi yapılan doğal mineralli sular, ayrıştırılan parametre yönünden Müdürlükçe haftalık izlemeye alınır. Analiz sonuçlarının uygun olması durumunda su piyasaya verilir.
 
-d) (Ek:RG-7/3/2013-28580) Suyun kaynağındaki niteliğini değiştirmemek kaydıyla Müdürlükten izin alınarak sudaki florür aktif alüminyum ile ayrıştırılabilir. Bu durumda alüminyum düzeyi 200 µg/L’yi aşamaz.
+d) **(Ek:RG-7/3/2013-28580)** Suyun kaynağındaki niteliğini değiştirmemek kaydıyla Müdürlükten izin alınarak sudaki florür aktif alüminyum ile ayrıştırılabilir. Bu durumda alüminyum düzeyi 200 µg/L’yi aşamaz.
 
 #### Kapların Yıkanması, Doldurulması ve Kapaklanması
 
@@ -565,17 +565,17 @@ d) (Ek:RG-7/3/2013-28580) Suyun kaynağındaki niteliğini değiştirmemek kayd�
 
 Yıkama suyunda kullanılan ürünün aktivitesinin devamlılığı sağlanır.
 
-Temizlikte (Değişik ibare:RG-7/3/2013-28580) Kurumdan izinli ürünler kullanılır. İşlem dosyasında temizleyici ile ilgili bilgiler yer alır.
+Temizlikte **(Değişik ibare:RG-7/3/2013-28580)** Kurumdan izinli ürünler kullanılır. İşlem dosyasında temizleyici ile ilgili bilgiler yer alır.
 
-(Değişik dördüncü fıkra:RG-7/3/2013-28580) Geri dönüşlü kaplar dolumdan önce her seferinde 55-70 o C sıcaklıktaki su ile yıkanır ve akabinde durulanır. Bu sıcaklık yıkama yapıldığı sürece otomatik olarak kayıt edilir ve denetimlerde ibraz edilir. Kapların yıkanmasında ve durulanmasında dolum yapılan su veya dolumu yapılan suyun niteliğinde olan su kullanılabilir. Kapların yıkanmasında ve durulanmasında dolum yapılan sudan başka su kullanılması durumunda bu su, her yıl en az bir denetleme ve dört kontrol izlemesine tabi tutulur. Analiz sonuçları denetimlerde ibraz edilir. Yıkamada kullanılan su en geç 24 saate bir, durulamada kullanılan su ise her seferinde değiştirilir.
+**(Değişik dördüncü fıkra:RG-7/3/2013-28580)** Geri dönüşlü kaplar dolumdan önce her seferinde 55-70 o C sıcaklıktaki su ile yıkanır ve akabinde durulanır. Bu sıcaklık yıkama yapıldığı sürece otomatik olarak kayıt edilir ve denetimlerde ibraz edilir. Kapların yıkanmasında ve durulanmasında dolum yapılan su veya dolumu yapılan suyun niteliğinde olan su kullanılabilir. Kapların yıkanmasında ve durulanmasında dolum yapılan sudan başka su kullanılması durumunda bu su, her yıl en az bir denetleme ve dört kontrol izlemesine tabi tutulur. Analiz sonuçları denetimlerde ibraz edilir. Yıkamada kullanılan su en geç 24 saate bir, durulamada kullanılan su ise her seferinde değiştirilir.
 
-(Mülga beşinci fıkra:RG-7/3/2013-28580)
+**(Mülga beşinci fıkra:RG-7/3/2013-28580)**
 
 #### Personele Ait Kıyafet ve Sağlık Kontrolleri
 
 **Madde 29 –** İmlahanede çalışan personel, uygun iş elbisesi ve başlık giymek, dolum makinelerinin başında duranlar ağız ve burunlarına maske takmak zorundadırlar.
 
-İşyerinde çalışan personelin temizliğine dikkat edilir. (Değişik cümle:RG-17/4/2014-28975) 1593 sayılı Umumi Hıfzıssıhha Kanununun 126 ncı maddesi gereğince hijyen eğitimi almamış personel çalıştırılmaz. Bu işlemden işveren ve mesul müdür sorumludur.
+İşyerinde çalışan personelin temizliğine dikkat edilir. **(Değişik cümle:RG-17/4/2014-28975)** 1593 sayılı Umumi Hıfzıssıhha Kanununun 126 ncı maddesi gereğince hijyen eğitimi almamış personel çalıştırılmaz. Bu işlemden işveren ve mesul müdür sorumludur.
 
 #### İşletmeci Tarafından Yaptırılacak Analizler
 
@@ -604,9 +604,9 @@ Birden fazla ticari isim ile aynı kaynaktan doğal mineralli su dolumuna izin v
 
 İzin belgesinde belirtilen hususlar esas olup; bu hususlardan herhangi birinin değişmesi veya işletme izni belgesinin kaybolması, okunamayacak ve yanlış anlamalara sebep olacak şekilde bozulması halinde, su sahibi veya işletmecisince bir dilekçe ile Valiliğe müracaat edilir. Dilekçeye değişiklik ile ilgili belge ve bilgiler veya kayıp ilanı verilmiş gazete veya bozulan izin belgesinin aslı ilave edilir.
 
-(Değişik dördüncü fıkra:RG-31/7/2009-27305) Müracaat üzerine müdürlük elemanlarınca gerekli inceleme yapılır ve tesiste iznin verildiği şartlarda bir değişiklik olmadığının tespit edilmesi halinde, gerekli düzeltme yapılır veya eski tarih ve sayı ile yeniden izin belgesi tanzim edilir ve gerekli açıklama yapılarak onaylanır.
+**(Değişik dördüncü fıkra:RG-31/7/2009-27305)** Müracaat üzerine müdürlük elemanlarınca gerekli inceleme yapılır ve tesiste iznin verildiği şartlarda bir değişiklik olmadığının tespit edilmesi halinde, gerekli düzeltme yapılır veya eski tarih ve sayı ile yeniden izin belgesi tanzim edilir ve gerekli açıklama yapılarak onaylanır.
 
-(Değişik fıkra:RG-17/4/2014-28975) Doğal mineralli sulara verilen üretim izinleri;
+**(Değişik fıkra:RG-17/4/2014-28975)** Doğal mineralli sulara verilen üretim izinleri;
 
 a) Üretim izni verildiği sıradaki şartları kaybetmesi,
 
@@ -624,15 +624,15 @@ durumunda iptal edilir. İzinleri (ç), (d) ve (e) bentlerine istinaden iptal ed
 
 #### Tesiste Yapılacak İlave veya Değişiklik
 
-**Madde 33 –** Yeni kaynak ilave edilmek veya tesiste fiziki yapıyı değiştirecek şekilde tadilat veya ilave yapılmak istenmesi halinde Yönetmeliğin (Değişik ibare:RG-29/11/2010-27770) 13 ve 15 inci maddeleri doğrultusunda (Değişik ibare:RG-31/7/2009-27305) Valilikten izin alınması şarttır.
+**Madde 33 –** Yeni kaynak ilave edilmek veya tesiste fiziki yapıyı değiştirecek şekilde tadilat veya ilave yapılmak istenmesi halinde Yönetmeliğin **(Değişik ibare:RG-29/11/2010-27770)** 13 ve 15 inci maddeleri doğrultusunda **(Değişik ibare:RG-31/7/2009-27305)** Valilikten izin alınması şarttır.
 
 Yeni kaynak ilave edilmesi suretiyle doğal mineralli suyun izninde belirtilen niteliğinin değişmesi halinde, mevcut izin iptal edilerek yeni tarih ve sayı ile izin belgesi tanzim edilir.
 
 #### İthal ve İhraç İzni
 
-**Madde 34 –** Bu Yönetmelikte belirtilen hüküm ve şartlara uygun olan doğal mineralli suların ithalinde ve ihracında bu konulardaki düzenlemelere göre hareket edilir. Ancak, bu Yönetmelik hükümlerine uymayan doğal mineralli suların ithaline, yurt içinde satışına ve tüketime sunulmasına izin verilmez. (Ek cümle:RG-7/3/2013-28580) İhraç edilen sularda 23 üncü maddede belirtilen raf ömrü şartı aranmaz.
+**Madde 34 –** Bu Yönetmelikte belirtilen hüküm ve şartlara uygun olan doğal mineralli suların ithalinde ve ihracında bu konulardaki düzenlemelere göre hareket edilir. Ancak, bu Yönetmelik hükümlerine uymayan doğal mineralli suların ithaline, yurt içinde satışına ve tüketime sunulmasına izin verilmez. **(Ek cümle:RG-7/3/2013-28580)** İhraç edilen sularda 23 üncü maddede belirtilen raf ömrü şartı aranmaz.
 
-Yönetmeliğin 32 nci maddesi gereği birden fazla ticari isim ile aynı kaynaktan doğal mineralli su dolumu yapılmaması esastır. Ancak, (Değişik ibare:RG-31/7/2009-27305) Valiliğin özel izni ile doğal mineralli sulardan üçüncü ülkelere ihracat amacı ile kendi adına veya başka firma adına farklı bir ticari isim ile dolum yapılabilir. Bu madde uyarınca dolum yapacak üreticilerin Ek 6 da yer alan form doğrultusunda (Değişik ibare:RG-31/7/2009-27305) Valiliğe bildirimde bulunarak izin alması zorunludur.
+Yönetmeliğin 32 nci maddesi gereği birden fazla ticari isim ile aynı kaynaktan doğal mineralli su dolumu yapılmaması esastır. Ancak, **(Değişik ibare:RG-31/7/2009-27305)** Valiliğin özel izni ile doğal mineralli sulardan üçüncü ülkelere ihracat amacı ile kendi adına veya başka firma adına farklı bir ticari isim ile dolum yapılabilir. Bu madde uyarınca dolum yapacak üreticilerin Ek 6 da yer alan form doğrultusunda **(Değişik ibare:RG-31/7/2009-27305)** Valiliğe bildirimde bulunarak izin alması zorunludur.
 
 #### İsim Karışıklığının Önlenmesi
 
@@ -678,7 +678,7 @@ Kurum, denetim sonuçlarını ve doğal mineralli suya ait bilgileri herhangi bi
 
 #### Laboratuvar
 
-**Madde 39 –** Doğal mineralli su tesislerinde dolumu yapılan doğal mineralli suyun günlük analizini yapmak amacıyla laboratuvar teknisyeni veya laboratuvar konusunda eğitim almış ön lisans veya lisans düzeyinde bir personelin sorumluluğunda koliform, (Mülga ibare:RG-7/3/2013-28580) (…) , total jerm, E. coli, nitrat, nitrit parametreleri yönünden analizleri yapılacak bir laboratuvar bulunur. İşletmeciler doğal mineralli suya ait analiz raporlarını her parti için dosyalarda saklamakla mükelleftir. (Değişik son cümle:RG-7/3/2013-28580) Üretilen parti miktarı işletmeciler tarafından kayıt altına alınır ve bu sular, tesise ait laboratuvardaki analizleri sonuçlanmadan tüketicilere satılamaz.
+**Madde 39 –** Doğal mineralli su tesislerinde dolumu yapılan doğal mineralli suyun günlük analizini yapmak amacıyla laboratuvar teknisyeni veya laboratuvar konusunda eğitim almış ön lisans veya lisans düzeyinde bir personelin sorumluluğunda koliform, **(Mülga ibare:RG-7/3/2013-28580) (…)** , total jerm, E. coli, nitrat, nitrit parametreleri yönünden analizleri yapılacak bir laboratuvar bulunur. İşletmeciler doğal mineralli suya ait analiz raporlarını her parti için dosyalarda saklamakla mükelleftir. **(Değişik son cümle:RG-7/3/2013-28580)** Üretilen parti miktarı işletmeciler tarafından kayıt altına alınır ve bu sular, tesise ait laboratuvardaki analizleri sonuçlanmadan tüketicilere satılamaz.
 
 Bu laboratuvarda günlük analizleri kaydetmek üzere müdürlükçe mühürlenmiş ve onaylanmış bir defter bulundurulur.
 
@@ -688,33 +688,33 @@ Yapılan denetimlerde bu defter incelenir ve ruhsata esas analiz sonuçları ile
 
 **Madde 40 –** (Değişik birinci fıkra:RG-7/3/2013-28580) Doğal mineralli suların 10 uncu maddede zikredilen laboratuvarlarda yapılan analizlerinde analiz sonuçlarının bu Yönetmelikte öngörülen parametrelerdeki sınırların dışına çıkıldığının görülmesi halinde, yedi günden fazla olmamak üzere yeterli süre verilerek düzeltici önlemleri alması hususunda işletme uyarılır. Bu süre içerisinde tesiste doğal mineralli su dolumu yapılamaz ve piyasaya arz edilemez. Ancak, test seviyesinde üretim yapılır ve numune alınarak analizleri yaptırılır. Alınan tedbirler sonrasında tekrar alınan numunenin bu Yönetmeliğe uygun olması halinde üretime izin verilir ve bir ay süre ile haftalık izlemeye alınır. Uygunsuz parametre veya parametreler yönünden dört defa yapılan denetim ve analiz sonuçlarının Yönetmeliğe uygun olması halinde, normal izleme periyoduna dönülür.
 
-(Değişik ikinci fıkra:RG-7/3/2013-28580) Piyasa denetimlerinde alınan numunelerin sonuçlarında herhangi bir uygunsuzluk tespit edilmesi halinde, tesis sahipleri aynı parti veya seri nolu suları toplatıp Müdürlüğün denetiminde imha etmekle yükümlüdür. Uygunsuz ürün, denetimi yapan Müdürlüğün görev ve sorumluluk alanında üretilmiş ise tesiste gerekli inceleme yapılır. Uygunsuz ürün başka ilde üretilmiş ise durum derhal o ilin Müdürlüğüne ve üretici firmaya bildirilir. Mikrobiyolojik parametrelerin analizlerinde analiz sonuçlarına itiraz edilemez.
+**(Değişik ikinci fıkra:RG-7/3/2013-28580)** Piyasa denetimlerinde alınan numunelerin sonuçlarında herhangi bir uygunsuzluk tespit edilmesi halinde, tesis sahipleri aynı parti veya seri nolu suları toplatıp Müdürlüğün denetiminde imha etmekle yükümlüdür. Uygunsuz ürün, denetimi yapan Müdürlüğün görev ve sorumluluk alanında üretilmiş ise tesiste gerekli inceleme yapılır. Uygunsuz ürün başka ilde üretilmiş ise durum derhal o ilin Müdürlüğüne ve üretici firmaya bildirilir. Mikrobiyolojik parametrelerin analizlerinde analiz sonuçlarına itiraz edilemez.
 
-Doğal mineralli suların bu Yönetmelikte belirtilen hükümleri taşımadığının veya bir veya daha fazla üye ülkelerde serbestçe tüketime sunulsa dahi, halkın sağlığını tehdit ettiğinin tespit edilmesi halinde, (Değişik ibare:RG-7/3/2013-28580) Kurum bu doğal mineralli suyun satışını ve tüketimini geçici olarak durdurur ve bu konuda Komisyon ile diğer üye ülkeleri gerekçeleri ile birlikte (Değişik ibare:RG-7/3/2013-28580) Ekonomi Bakanlığı aracılığı ile bilgilendirir.
+Doğal mineralli suların bu Yönetmelikte belirtilen hükümleri taşımadığının veya bir veya daha fazla üye ülkelerde serbestçe tüketime sunulsa dahi, halkın sağlığını tehdit ettiğinin tespit edilmesi halinde, **(Değişik ibare:RG-7/3/2013-28580)** Kurum bu doğal mineralli suyun satışını ve tüketimini geçici olarak durdurur ve bu konuda Komisyon ile diğer üye ülkeleri gerekçeleri ile birlikte **(Değişik ibare:RG-7/3/2013-28580)** Ekonomi Bakanlığı aracılığı ile bilgilendirir.
 
 ### YEDİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Düzenleme yetkisi
 
 **MADDE 41 –** (Başlığıyla birlikte değişik madde: RG-15/09/2006-26290)
 
-(Değişik ibare:RG-7/3/2013-28580) Kurum bu Yönetmeliğin uygulanmasını sağlamak üzere her türlü alt düzenlemeyi yapmaya yetkilidir.
+**(Değişik ibare:RG-7/3/2013-28580)** Kurum bu Yönetmeliğin uygulanmasını sağlamak üzere her türlü alt düzenlemeyi yapmaya yetkilidir.
 
-Bu Yönetmelikte (Değişik ibare:RG-7/3/2013-28580) Kurumca yapılması öngörülen iş ve işlemlerle ilgili yetkiler Müdürlüklere devredilebilir.
+Bu Yönetmelikte **(Değişik ibare:RG-7/3/2013-28580)** Kurumca yapılması öngörülen iş ve işlemlerle ilgili yetkiler Müdürlüklere devredilebilir.
 
 #### Müeyyideler
 
 **Madde 42 –** (Değişik madde:RG-7/3/2013-28580)
 
-Yönetmelik hükümlerine göre yapılan piyasa denetimleri ile ilgili hususlarda 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunda, diğer hususlara aykırı hareket edenler hakkında 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununda öngörülen idari yaptırımlar uygulanır. (Ek cümle:RG-17/4/2014-28975) 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununda öngörülen idari yaptırımlar Müdürlükçe uygulanır.
+Yönetmelik hükümlerine göre yapılan piyasa denetimleri ile ilgili hususlarda 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunda, diğer hususlara aykırı hareket edenler hakkında 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununda öngörülen idari yaptırımlar uygulanır. **(Ek cümle:RG-17/4/2014-28975)** 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununda öngörülen idari yaptırımlar Müdürlükçe uygulanır.
 
 #### Uyumlaştırma
 
 **Madde 43 –** (Değişik birinci fıkra:RG-7/3/2013-28580) Bu Yönetmelik Doğal Mineralli Suların Çıkartılması ve Pazarlanması Hakkındaki 18/6/2009 tarihli ve 2009/54/AT sayılı Konsey Direktifi ile Doğal Mineralli Sular İçin Konsantrasyon Limitleri ve Etiketleme Bilgileri Hakkında Liste Oluşturulması ve Doğal Mineralli Suların ve Kaynak Sularının Ozonla Zenginleştirilmiş Hava ile İşleme Tabi Tutulmasının Şartlarını Belirleyen 16/5/2003 tarihli ve 2003/40/EC sayılı Konsey Direktifine ve Doğal Mineralli Sulardan ve Kaynak Sularından Florürün Uzaklaştırılması İçin Aktif Alüminyum Kullanımının Şartları Hakkında 115/2010 sayılı AB Komisyonu Tüzüğüne paralel olarak hazırlanmıştır.
 
-Ayrıca, (Değişik ibare:RG-7/3/2013-28580) Kurum bu Yönetmelikte belirtilen tanımlara ve kurallara uyan doğal mineralli suların pazarlanmasını, niteliklerini, bileşimini, işletim şartlarını, ambalajlanmasını ve etiketlenmesini düzenleyen hükümler ile uyumluluğun sağlanmasına yönelik uygulamaların geciktirilmemesini temin etmek için gerekli önlemleri alır.
+Ayrıca, **(Değişik ibare:RG-7/3/2013-28580)** Kurum bu Yönetmelikte belirtilen tanımlara ve kurallara uyan doğal mineralli suların pazarlanmasını, niteliklerini, bileşimini, işletim şartlarını, ambalajlanmasını ve etiketlenmesini düzenleyen hükümler ile uyumluluğun sağlanmasına yönelik uygulamaların geciktirilmemesini temin etmek için gerekli önlemleri alır.
 
 #### Yürürlükten Kaldırılan Hükümler
 
@@ -770,7 +770,7 @@ Daha önce izin verilen doğal mineralli su işletmeleri kapların yıkanmasınd
 
 1.1.3. Hidrojeolojik katmanın stratigrafisi
 
-1.1.4. (Değişik:RG-29/11/2010-27770) Kirlenmeye karşı kaynağın Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanunu Uygulama Yönetmeliği kapsamında hazırlanmış koruma alanı ve alınan tedbirler
+1.1.4. **(Değişik:RG-29/11/2010-27770)** Kirlenmeye karşı kaynağın Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanunu Uygulama Yönetmeliği kapsamında hazırlanmış koruma alanı ve alınan tedbirler
 
 1.1.5 Havza işleminin tanımı
 
@@ -848,11 +848,11 @@ Kullanılan analiz metodunun hassasiyeti ne olursa olsun sonuç en azından Yön
 | Mangan | 10 | 10 | 10 |  |
 | Civa | 20 | 10 |  |  |
 
-(Değişik:RG-17/4/2014-28975)
+**(Değişik:RG-17/4/2014-28975)**
 
 ### EK-3
 
-Yönetmeliğin 6 ve 7 nci maddelerine eklenecek parametreler:
+**Yönetmeliğin 6 ve 7 nci maddelerine eklenecek parametreler:**
 
 Doğal Mineralli Sulardan Yönetmeliğin 30 uncu ve 38 inci maddesi gereği alınacak numunelerin analizlerine gerektiğinde aşağıdaki parametreler de dâhil edilir.
 
@@ -868,15 +868,15 @@ Doğal Mineralli Sulardan Yönetmeliğin 30 uncu ve 38 inci maddesi gereği alı
 
 ### EK-4
 
-(Mülga:RG-29/11/2010-27770)
+**(Mülga:RG-29/11/2010-27770)**
 
 ### EK-5
 
-(Mülga:RG-29/11/2010-27770)
+**(Mülga:RG-29/11/2010-27770)**
 
 ### EK-6
 
-(Değişik:RG-7/3/2013-28580)
+**(Değişik:RG-7/3/2013-28580)**
 
 ### DOĞAL MİNERALLİ SULARIN ÜÇÜNCÜ ÜLKELERE İHRACAT AMACI İLE KENDİ ADINA VEYA BAŞKA FİRMA ADINA FARKLI BİR TİCARİ İSİM İLE DOLUM BİLDİRİM FORMU
 

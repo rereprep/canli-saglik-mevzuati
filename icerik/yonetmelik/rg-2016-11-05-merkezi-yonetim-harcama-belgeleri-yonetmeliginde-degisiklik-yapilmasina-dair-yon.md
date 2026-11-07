@@ -12,10 +12,10 @@ durum: "yürürlükte"
 ---
 
 Maliye Bakanlığından:
-MERKEZÎ YÖNETİM
-HARCAMA BELGELERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MERKEZÎ YÖNETİM**
+**HARCAMA BELGELERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliğinin 5 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş, dördüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 1 –** 31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliğinin 5 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş, dördüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Ödeme belgesi iki nüsha olarak Yönetmelikte belirtilen kanıtlayıcı belgelerle birlikte muhasebe birimine verilir. Kanıtlayıcı belgeler ödeme belgesinin birinci nüshasına bağlanır, ödeme belgesinin ikinci nüshası ise muhasebe biriminde saklanır.”
 “Bakanlık, bu Yönetmelik kapsamındaki işlemlere ilişkin belgelerin elektronik ortamda oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve ibrazına ilişkin usul ve esasları, şekil hükümlerinden bağımsız olmak üzere belirlemeye yetkilidir.”
 

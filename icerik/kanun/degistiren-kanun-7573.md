@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/01/20260129-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE
-KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN**
+**BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE**
+**KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7573 Kabul Tarihi: 23/1/2026
 
 MADDE 1- 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 56 ncı maddesi aşağıdaki şekilde değiştirilmiştir.

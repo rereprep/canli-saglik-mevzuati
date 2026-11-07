@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-AMBULANSLAR VE ACİL SAĞLIK ARAÇLARI İLE AMBULANS HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**AMBULANSLAR VE ACİL SAĞLIK ARAÇLARI İLE AMBULANS HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 8/1/2025 tarihli ve 32776 sayılı Resmî Gazete’de yayımlanan Ambulanslar ve Acil Sağlık Araçları ile Ambulans Hizmetleri Yönetmeliğinin 2 nci maddesinin birinci fıkrasında yer alan “Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı” ibaresi “Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğü” şeklinde değiştirilmiştir.
 

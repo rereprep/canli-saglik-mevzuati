@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-TIBBİ CİHAZ SATIŞ, REKLAM VE TANITIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TIBBİ CİHAZ SATIŞ, REKLAM VE TANITIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 15/5/2014 tarihli ve 29001 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinin 2 nci maddesinin ikinci fıkrasına “işitme cihazı merkezleri” ibaresinden sonra gelmek üzere “ve 7/12/2005 tarihli ve 26016 sayılı Resmî Gazete’de yayımlanan Diş Protez Laboratuvarları Yönetmeliği kapsamına giren diş protez laboratuvarları” ibaresi eklenmiştir.
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-ÇEVRESEL ETKİ DEĞERLENDİRMESİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ÇEVRESEL ETKİ DEĞERLENDİRMESİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 29/7/2022 tarihli ve 31907 sayılı Resmî Gazete’de yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (b) bendi aşağıdaki şekilde değiştirilmiş ve (ı) bendi aşağıdaki şekilde yeniden düzenlenmiştir.
 “b) Askıda ilan: Gerçekleştirilmesi planlanan projenin ÇED süreci hakkında, projeden etkilenecek veya etkilenmesi muhtemel halkın yaşadığı yer/yerlerde, il müdürlüğü, kaymakamlık ve muhtarlıkta bulunan askı ilan yerlerinde yapılan yazılı duyuruyu,” “ı) Çevresel etki değerlendirmesi proje alanı:

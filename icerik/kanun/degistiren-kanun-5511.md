@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 KANUN KANUN UMUMİ HAYATA MÜESSİR AFETLER DOLAYISİYLE ALINACAK TEDBİRLERLE YAPILACAK YARDIMLARA DAİR KANUNDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN
-Kanun No. 5511 Kabul Tarihi : 31/5/2006
+**Kanun No. 5511 Kabul Tarihi : 31/5/2006**
 
 
 MADDE 1 – 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunun 40 ıncı maddesinin yedinci fıkrası aşağıdaki şekilde değiştirilmiş ve maddeye yedinci fıkradan sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.

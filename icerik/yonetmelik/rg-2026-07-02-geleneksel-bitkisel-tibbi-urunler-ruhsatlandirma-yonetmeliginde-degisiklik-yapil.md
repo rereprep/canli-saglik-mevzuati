@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-GELENEKSEL BİTKİSEL TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**GELENEKSEL BİTKİSEL TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 3/2/2023 tarihli ve 32093 sayılı Resmî Gazete’de yayımlanan Geleneksel Bitkisel Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin 2 nci maddesinin ikinci fıkrasında yer alan “ile bitkisel kaynaklı, geleneksel kullanıma uyumlu tıbbi bitki çayları ve aromaterapide kullanılan beşeri tıbbi ürünler” ibaresi yürürlükten kaldırılmış ve aynı maddenin üçüncü fıkrasının (ç) bendinde yer alan “homeopatik tıbbi ürünleri” ibaresi “homeopatik tıbbi ürünleri, tıbbi bitki çaylarını, aromaterapötik ürünleri” şeklinde değiştirilmiştir.
 

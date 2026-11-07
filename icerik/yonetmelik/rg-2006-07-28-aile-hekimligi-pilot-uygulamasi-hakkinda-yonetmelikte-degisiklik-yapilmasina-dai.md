@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-AİLE HEKİMLİĞİ PİLOT UYGULAMASI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+AİLE HEKİMLİĞİ PİLOT UYGULAMASI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR **YÖNETMELİK**
 
 MADDE 1 – 6/7/2005 tarihli ve 25867 sayılı Resmî Gazete’de yayımlanan Aile Hekimliği Pilot Uygulaması Hakkında Yönetmeliğin 26 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 "Yetkilendirilmiş aile hekimleri

@@ -26,7 +26,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -90,7 +90,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Görev, Yetki ve Sorumluluklar
+**Görev, Yetki ve Sorumluluklar**
 
 #### Hastane afet ve acil durum planları
 
@@ -342,7 +342,7 @@ d) Belediye hastanelerinde;
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Hastane Afet ve Acil Durum Planlarının Güncellenmesi ve Tatbikatlar
+**Hastane Afet ve Acil Durum Planlarının Güncellenmesi ve Tatbikatlar**
 
 #### Hastane afet ve acil durum planlarının güncellenmesi
 
@@ -372,7 +372,7 @@ yetkilidir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-HAP Eğitimleri
+**HAP Eğitimleri**
 
 #### Hastane afet ve acil durum plan eğitimleri
 
@@ -394,7 +394,7 @@ c) Üniversite, belediye ve EII ve EIII grubu ilçe devlet hastaneleri için: Bi
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Kayıtların tutulması
 

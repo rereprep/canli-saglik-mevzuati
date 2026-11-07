@@ -12,11 +12,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308M1-3.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN
-Kanun No. 7070 Kabul Tarihi: 1/2/2018
-BİRİNCİ BÖLÜM
-Yargı ile İlgili Düzenlemeler
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN**
+**Kanun No. 7070 Kabul Tarihi: 1/2/2018**
+**BİRİNCİ BÖLÜM**
+**Yargı ile İlgili Düzenlemeler**
 
 
 MADDE 1 – 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 149 uncu maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiştir.
@@ -57,28 +57,28 @@ MADDE 7 – 29/3/1984 tarihli ve 2992 sayılı Adalet Bakanlığının Teşkilat
 
 MADDE 10- 18/3/1986 tarihli ve 3269 sayılı Uzman Erbaş Kanununa tabi olarak en az iki yıl süreyle uzman erbaş statüsünde çalıştıktan sonra 20/10/2016 tarihine kadar kendi istekleriyle sözleşmelerini feshetmiş olup, sözlü sınavın son başvuru tarihi itibarıyla otuz beş yaşını doldurmamış olanlardan, yaş ve merkezi sınav şartı hariç İnfaz ve Koruma Memuru olarak istihdam edilebilmek için öngörülen şartları taşıyanlar, 30/6/2017 tarihine kadar Bakanlıkça ya da Bakanlıkça belirlenecek adli yargı ilk derece mahkemesi adalet komisyonlarınca yapılacak sözlü sınav sonuçlarına göre 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası uyarınca İnfaz ve Koruma Memuru unvanlı vize edilmiş pozisyonlarda sözleşmeli personel olarak istihdam edilebilir.
 Bu madde çerçevesinde sözleşmeli personel olarak istihdam edileceklerin başvuruları, sözlü sınava alınacakların belirlenmesi, sözlü sınav konuları, sözlü sınavın usul ve esasları, sözlü sınavı kazanan personelin yerleştirilmeleri ile bu maddenin uygulanmasına ilişkin diğer hususlar, Bakanlıkça yürürlüğe konulan yönetmelikle düzenlenir.”
-İKİNCİ BÖLÜM
-Güvenlik ile İlgili Düzenlemeler
+**İKİNCİ BÖLÜM**
+**Güvenlik ile İlgili Düzenlemeler**
 
 
 MADDE 8 – 18/3/1924 tarihli ve 442 sayılı Köy Kanununun 74 üncü maddesinde yer alan “geçici köy” ibareleri “güvenlik” şeklinde, 74 üncü ve ek 18 inci maddelerinde yer alan “Geçici köy” ibareleri “Güvenlik” şeklinde, 74 üncü maddesinde yer alan “Geçici Köy” ibaresi “Güvenlik” şeklinde, 74 üncü maddesinin birinci fıkrasında yer alan “gönüllü korucu” ibaresi “gönüllü güvenlik korucusu” şeklinde ve aynı fıkrada yer alan “gönüllü korucular” ibaresi “gönüllü güvenlik korucuları” şeklinde değiştirilmiştir.
 
-MADDE 9- 442 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 9-** 442 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 19- Diğer mevzuatta geçen “geçici köy korucusu” ibarelerinden “güvenlik korucusu”; “gönüllü köy korucusu” ibarelerinden “gönüllü güvenlik korucusu” anlaşılır.”
+**MADDE 19-** Diğer mevzuatta geçen “geçici köy korucusu” ibarelerinden “güvenlik korucusu”; “gönüllü köy korucusu” ibarelerinden “gönüllü güvenlik korucusu” anlaşılır.”
 
-MADDE 10- 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 17 nci maddesinin birinci fıkrasının (A) bendinin birinci paragrafı aşağıdaki şekilde değiştirilmiştir.
+**MADDE 10-** 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 17 nci maddesinin birinci fıkrasının (A) bendinin birinci paragrafı aşağıdaki şekilde değiştirilmiştir.
 “Umuma mahsus pasaport almak isteyenlerin başvuru yerleri ve istenecek belgeler İçişleri Bakanlığınca tespit edilir.”
 
-MADDE 11- 5682 sayılı Kanunun 20 nci maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11-** 5682 sayılı Kanunun 20 nci maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Demiryolu personeli kimlik belgeleri, anlaşmalarda öngörülen yetkili makamlarca tasdik edilmedikçe pasaport yerine kullanılamaz. Gemi adamı cüzdanı ve uçak mürettebatı belgesini düzenlemeye yetkili kurum ve kuruluşlar, ilgililerin bu Kanunun 22 nci maddesi kapsamındaki durumlarını yetkili merciden teyit etmek zorundadır.”
 
 
 MADDE 12 – 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunun 6 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Bu Kanun kapsamına giren silahlar için verilen taşıma ve bulundurma ruhsatları yenileme harcı alınmak şartı ile beş yıl için geçerlidir. Ruhsatların veriliş sebeplerinin ortadan kalkması halinde ruhsat sahibi durumu ruhsatı veren makama altı ay içinde bildirmekle yükümlüdür. Aksine hareket edenler ile süresi dolduğu halde altı ay içerisinde ruhsatını yeniletmeyenlerin ruhsatları iptal edilir. Ancak, gerekli şartları haiz olan kişilere üçbin Türk Lirası idari para cezası ödemeleri kaydıyla tekrar ruhsat verilebilir. Bu fıkra hükmüne göre idari para cezası vermeye mülki amir yetkilidir.”
 
-MADDE 13- 6136 sayılı Kanunun 7 nci maddesinin üçüncü fıkrasına “yetki veren kayıt ve belgeler” ibaresinden sonra gelmek üzere “ile 442 sayılı Kanunun 74 üncü maddesine göre görevlendirilen güvenlik korucuları ile köy veya mahalle muhtarları ve belediye başkanlarının edinecekleri en fazla bir adet silaha ait taşıma veya bulundurmaya yetki veren kayıt ve belgeler” ibaresi, beşinci fıkrasına “sayılan kişilere ait silahlar” ibaresinden sonra gelmek üzere “ile 442 sayılı Kanunun 74 üncü maddesine göre görevlendirilen güvenlik korucuları ile köy veya mahalle muhtarları ve belediye başkanlarının edinecekleri en fazla bir adet silah” ibaresi eklenmiş ve aynı maddenin yedinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 13-** 6136 sayılı Kanunun 7 nci maddesinin üçüncü fıkrasına “yetki veren kayıt ve belgeler” ibaresinden sonra gelmek üzere “ile 442 sayılı Kanunun 74 üncü maddesine göre görevlendirilen güvenlik korucuları ile köy veya mahalle muhtarları ve belediye başkanlarının edinecekleri en fazla bir adet silaha ait taşıma veya bulundurmaya yetki veren kayıt ve belgeler” ibaresi, beşinci fıkrasına “sayılan kişilere ait silahlar” ibaresinden sonra gelmek üzere “ile 442 sayılı Kanunun 74 üncü maddesine göre görevlendirilen güvenlik korucuları ile köy veya mahalle muhtarları ve belediye başkanlarının edinecekleri en fazla bir adet silah” ibaresi eklenmiş ve aynı maddenin yedinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Ateşli silahla işlenen suçlardan hükümlü bulunanlar ile taksirli suçlar hariç olmak üzere bir yıldan fazla hapis cezasına mahkûm olanlara, affa uğramış olsalar bile ateşli silah taşıma ve bulundurma izni verilemez.”
 
 
@@ -96,8 +96,8 @@ EK MADDE
 MADDE 16 – 10/3/1983 tarihli ve 2803 sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanununa aşağıdaki ek madde eklenmiştir.
 “Sosyal tesisler
 
-EK MADDE
-8- Jandarma Genel Komutanlığı, vardiya yatakhaneleri, eğitim ve kongre merkezleri, sosyal tesisler, gazinolar, moral eğitim merkezleri ve kantinler kurabilir. Bu tesislere ilişkin usul ve esaslar İçişleri Bakanlığı tarafından hazırlanan yönetmelikle düzenlenir.”
+EK **MADDE**
+**8-** Jandarma Genel Komutanlığı, vardiya yatakhaneleri, eğitim ve kongre merkezleri, sosyal tesisler, gazinolar, moral eğitim merkezleri ve kantinler kurabilir. Bu tesislere ilişkin usul ve esaslar İçişleri Bakanlığı tarafından hazırlanan yönetmelikle düzenlenir.”
 
 
 MADDE 17 – 2803 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
@@ -122,16 +122,16 @@ MADDE 19 – 2918 sayılı Kanunun 131 inci maddesine aşağıdaki fıkra eklenm
 
 MADDE 20 – Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin İçişleri Bakanlığına ait bölümüne eklenmiş ve aynı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelde yer alan Emniyet Genel Müdürlüğüne ait yurtdışı teşkilatına ilişkin kadrolar iptal edilmiştir.
 
-MADDE 21- 14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanunun 2 nci maddesinin birinci fıkrasına (i) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut (j) bendi (k) bendi olarak teselsül ettirilmiştir.
+**MADDE 21-** 14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanunun 2 nci maddesinin birinci fıkrasına (i) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut (j) bendi (k) bendi olarak teselsül ettirilmiştir.
 “j) Pasaport hizmetlerini yürütmek,”
 
-MADDE 22- 3152 sayılı Kanunun 3 üncü maddesinin birinci fıkrasında yer alan “merkez ve taşra” ibaresi “merkez, taşra ve yurtdışı” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki cümleler eklenmiştir.
+**MADDE 22-** 3152 sayılı Kanunun 3 üncü maddesinin birinci fıkrasında yer alan “merkez ve taşra” ibaresi “merkez, taşra ve yurtdışı” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki cümleler eklenmiştir.
 “İçişleri Bakanlığı, 13/12/1983 tarihli ve 189 sayılı Kamu Kurum ve Kuruluşlarının Yurtdışı Teşkilatı Hakkında Kanun Hükmünde Kararname esaslarına uygun olarak yurtdışı teşkilatı kurmaya yetkilidir. İçişleri Bakanlığının yurtdışı birimlerinin görev, yetki ve sorumlulukları ile diğer hususlar Bakanlıkça çıkarılan yönetmelikle düzenlenir.”
 
-MADDE 23- 3152 sayılı Kanunun 10 uncu maddesinin birinci fıkrasına (e) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut (f) bendi (g) bendi olarak teselsül ettirilmiştir.
+**MADDE 23-** 3152 sayılı Kanunun 10 uncu maddesinin birinci fıkrasına (e) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut (f) bendi (g) bendi olarak teselsül ettirilmiştir.
 “f) Pasaport, pasaport yerine geçen belgeler ve sürücü belgelerinde yer alacak bilgiler ile biyometrik verinin türü, niteliği ve alınma yaşını tespit etmek, bu belgelerin tasarımı, temini, basımı, dağıtımı, teslimi ile üretim ve kişiselleştirilmesine ilişkin işlemleri yürütmek ve bunlara dair usul ve esasları belirlemek.”
 
-MADDE 24- 3152 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 24-** 3152 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 11- Emniyet Genel Müdürlüğünce yürütülen pasaport ve sürücü belgesi hizmetlerine ilişkin iş ve işlemler, bir yıl içerisinde Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne devredilir. Bu sürenin uzatılmasına Bakanlar Kurulu yetkilidir.
 Devir işlemleri tamamlanıncaya kadar, pasaport ve sürücü belgesi işlemlerine ilişkin görev ve hizmetler daha önce bu görev ve hizmetleri yapmakta olan birimler veya personel tarafından yürütülmeye devam olunur.
 Pasaport ve sürücü belgelerine ilişkin olarak Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne devredilen görevler hakkında diğer mevzuatta Emniyet Genel Müdürlüğüne yapılmış olan atıflar Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne, mahalli emniyet makamlarına yapılmış olan atıflar ise nüfus müdürlüklerine yapılmış sayılır.”
@@ -169,16 +169,16 @@ MADDE 31 – 6458 sayılı Kanunun 54 üncü maddesinin birinci fıkrasına aşa
 
 MADDE 32 – 6458 sayılı Kanunun 98 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(2) Genel Müdürlük, sınır kapılarına yolcu getiren, sınır kapılarından yolcu götüren ve Türkiye içinde yolcu taşıyan taşıyıcılardan, hareketleri öncesi, hareketleri anı ve hareketleri sonrasında tüm yolcu ve mürettebat bilgilerini isteyebilir.”
-ÜÇÜNCÜ BÖLÜM
-Jandarma ve Sahil Güvenlik Teşkilatlarının Kadroları
+**ÜÇÜNCÜ BÖLÜM**
+**Jandarma ve Sahil Güvenlik Teşkilatlarının Kadroları**
 
-MADDE 33- 18/5/1929 tarihli ve 1453 sayılı Zabitan ve Askeri Memurların Maaşatı Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 33-** 18/5/1929 tarihli ve 1453 sayılı Zabitan ve Askeri Memurların Maaşatı Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 1- Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının 2 nci madde uyarınca 2016 yılı için belirlenmiş olan fiili kadroları 2016 yılı sonuna kadar uygulanır.
+**MADDE 1-** Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının 2 nci madde uyarınca 2016 yılı için belirlenmiş olan fiili kadroları 2016 yılı sonuna kadar uygulanır.
 Jandarma Genel Komutanlığı, Jandarma ve Sahil Güvenlik Akademisi ile Sahil Güvenlik Komutanlığının 2017 yılı fiili kadroları 2016 yılı sonuna kadar Türkiye Büyük Millet Meclisi Plan ve Bütçe Komisyonunca belirlenir.”
 
-MADDE 34- 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 34-** 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
 MADDE 11- Sahil Güvenlik Komutanlığı teşkilatının geçici 7 nci maddenin (b) fıkrası uyarınca 190 sayılı Kanun Hükmünde Kararnameye eklenen kadroları bu maddenin yayımı tarihinde iptal edilmiştir.”
@@ -195,8 +195,8 @@ MADDE 36 – 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında 
 
 MADDE 37 – 190 sayılı Kanun Hükmünde Kararnamenin ek 7 nci maddesinin ikinci fıkrasına “emniyet hizmetleri sınıfında” ibaresinden sonra gelmek üzere “, jandarma hizmetleri sınıfında ve sahil güvenlik hizmetleri sınıfında” ibaresi ve aynı fıkraya aşağıdaki cümle eklenmiştir.
 “Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Jandarma ve Sahil Güvenlik Akademisinde sözleşmeli subay, sözleşmeli astsubay, uzman erbaş, sözleşmeli erbaş ve er istihdamı da bu fıkra hükmüne tabidir.”
-DÖRDÜNCÜ BÖLÜM
-Millî Savunma ile İlgili Düzenlemeler
+**DÖRDÜNCÜ BÖLÜM**
+**Millî Savunma ile İlgili Düzenlemeler**
 
 
 MADDE 38 – 16/6/1927 tarihli ve 1076 sayılı Yedek Subaylar ve Yedek Askeri Memurlar Kanununun 6 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -236,10 +236,10 @@ MADDE 47 – 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Persone
 
 GEÇİCİ MADDE 94- Bu maddenin yürürlüğe girdiği tarihte yedinci hizmet yılını tamamlamış ve onuncu hizmet yılını bitirmemiş olan astsubaylara, 109 uncu maddedeki diğer şartları taşımaları kaydıyla bu maddenin yayımı tarihinden sonra yapılacak ilk astsubaylıktan subaylığa geçiş sınavına müracaat hakkı verilir.”
 
-MADDE 48- 31/7/1970 tarihli ve 1325 sayılı Millî Savunma Bakanlığı Görev ve Teşkilâtı Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 48-** 31/7/1970 tarihli ve 1325 sayılı Millî Savunma Bakanlığı Görev ve Teşkilâtı Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “EK MADDE 10- Millî Savunma Bakanlığı fiili kadrosuna dahil 657 sayılı Devlet Memurları Kanununa tabi personelden Bakanlığın özelliği ve hizmetin gerekli kıldığı şart ve vasıflar göz önüne alınarak Bakanlığa intibak edemedikleri üstlerince teklif edilenlerden Bakanlıkta oluşturulacak komisyona yaptırılacak tahkikat sonucuna göre Millî Savunma Bakanınca uygun görülenler, genel hükümlere göre merkezî yönetim bütçe kanununda öngörülen atama sınırlamalarına tabi olmadan Başbakanlık aracılığıyla başka bir kurum veya kuruluşa naklen atanır.”
 
-MADDE 49- 1325 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
+**MADDE 49-** 1325 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
 “GEÇİCİ MADDE 3- Bakanlık merkez teşkilatı kadrolarına 2017 yılı sonuna kadar yapılacak atamalar merkezi yönetim bütçe kanunlarındaki sınırlamalara tabi tutulmaz.
 GEÇİCİ
 
@@ -295,8 +295,8 @@ MADDE 58 – 31/1/2013 tarihli ve 6413 sayılı Türk Silahlı Kuvvetleri Disipl
 
 MADDE 59 – 6413 sayılı Kanunun 8 inci maddesine aşağıdaki fıkra eklenmiştir.
 “(9) 31/7/1970 tarihli ve 1325 sayılı Millî Savunma Bakanlığı Görev ve Teşkilâtı Hakkında Kanunun 1 inci maddesinde sayılan makamlara atananlardan; anılan maddenin dokuzuncu fıkrasındakiler rütbe karşılıkları, Özel Kalem Müdürü, Basın ve Halkla İlişkiler Müşaviri ile taşra teşkilatındaki makam sahipleri albaylar, şube müdürleri ise yarbaylar gibi, bu Kanuna tabi personele disiplin veya üst disiplin amiri olarak ek-1 sayılı çizelgede gösterilen cezaları verebilirler.”
-BEŞİNCİ BÖLÜM
-Kamu Personeline İlişkin Bazı Düzenlemeler
+**BEŞİNCİ BÖLÜM**
+**Kamu Personeline İlişkin Bazı Düzenlemeler**
 
 
 MADDE 60 – 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (A) bendine aşağıdaki alt bent eklenmiştir.
@@ -319,8 +319,8 @@ MADDE 45/A- (1) Bakanlık ve bağlı kuruluşları, merkez teşkilatları hariç
 (6) Bu madde kapsamında memur kadrolarına atananlara iş sonu tazminatı ödenmez. Bu personelin önceden iş sonu tazminatı ödenmiş süreleri hariç, iş sonu tazminatına esas olan toplam hizmet süreleri, 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ve 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu hükümleri uyarınca ödenecek emekli ikramiyesine esas toplam hizmet süresinin hesabında dikkate alınır.
 (7) Bu madde çerçevesinde sözleşmeli personelin atanacağı memur kadroları, 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerde yer alan sınıf, unvan ve derecelerine uygun olmak şartıyla, başka bir işleme gerek kalmaksızın atama işleminin yapıldığı tarih itibarıyla ihdas edilerek ilgisine göre Bakanlık veya bağlı kuruluşlarının 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerinin ilgili bölümlerine eklenmiş ve kadrolara atananların pozisyonları başka bir işleme gerek kalmaksızın iptal edilmiş sayılır. İhdas edilen kadrolar ile iptal edilen pozisyonlar; unvanı, sınıfı, adedi, derecesi, teşkilatı ve birimi belirtilmek suretiyle atama tarihinden itibaren iki ay içinde Maliye Bakanlığı ve Devlet Personel Başkanlığına bildirilir.
 (8) Bu madde kapsamında sözleşmeli sağlık personeli pozisyonlarına yapılan atama, sözleşmenin imzalanmasıyla geçerlilik kazanır. Sözleşme, imzalanmadan herhangi bir hak doğurmaz.”
-ALTINCI BÖLÜM
-Millî Eğitim ile İlgili Düzenlemeler
+**ALTINCI BÖLÜM**
+**Millî Eğitim ile İlgili Düzenlemeler**
 
 
 MADDE 63 – 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununun 2 nci maddesinin birinci fıkrasının (b) bendinde yer alan “çeşitli kursları,” ibaresinden sonra gelmek üzere “özel öğretim kurslarını,” ibaresi ile aynı fıkraya aşağıdaki bent eklenmiştir.
@@ -328,14 +328,14 @@ MADDE 63 – 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanunu
 
 
 MADDE 64 – 5580 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
-“EK MADDE 2- Okullar ile özel öğretim kursları hariç olmak üzere başka adlarla da olsa ilköğretim ve ortaöğretim örgün eğitim programlarının aynısı veya bir kısmını uygulayan ya da bu programlara yönelik deneme, seviye tespit sınavı gibi adlarla toplu sınav organizasyonları yapmak üzere faaliyet göstermek için yüz yüze veya uzaktan öğretim yöntemi ile özel öğretim kurumları veya yerler açılamaz, işletilemez, öğretim programları oluşturulamaz. Sivil toplum kuruluşları ile yükseköğretim kurumlarının sürekli eğitim merkezleri gibi birimlerinde de bu faaliyetler yürütülemez.
+“EK **MADDE 2-** Okullar ile özel öğretim kursları hariç olmak üzere başka adlarla da olsa ilköğretim ve ortaöğretim örgün eğitim programlarının aynısı veya bir kısmını uygulayan ya da bu programlara yönelik deneme, seviye tespit sınavı gibi adlarla toplu sınav organizasyonları yapmak üzere faaliyet göstermek için yüz yüze veya uzaktan öğretim yöntemi ile özel öğretim kurumları veya yerler açılamaz, işletilemez, öğretim programları oluşturulamaz. Sivil toplum kuruluşları ile yükseköğretim kurumlarının sürekli eğitim merkezleri gibi birimlerinde de bu faaliyetler yürütülemez.
 Belediyeler ise il millî eğitim müdürlükleri ile yapılan ve Bakanlıkça onaylanan ortak işbirliği protokolleri çerçevesinde, örgün eğitim programlarına destek mahiyetinde ücretsiz kurslar açabilir.”
 
 
 MADDE 65 – 5580 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 6- Bu maddenin yayımı tarihinde faaliyet gösteren özel öğretim kursları, eğitim ve öğretim faaliyetlerine 1/8/2017 tarihinden itibaren bir bilim grubunda devam edebilirler. Kurum açma izinleri de buna uygun olarak düzenlenir ve en geç 4/8/2017 tarihi itibarıyla bir bilim grubunda faaliyet göstermek üzere kurum açma izinleri düzenlenmeyen özel öğretim kursları hakkında sürekli kapatma işlemi uygulanır.
+**MADDE 6-** Bu maddenin yayımı tarihinde faaliyet gösteren özel öğretim kursları, eğitim ve öğretim faaliyetlerine 1/8/2017 tarihinden itibaren bir bilim grubunda devam edebilirler. Kurum açma izinleri de buna uygun olarak düzenlenir ve en geç 4/8/2017 tarihi itibarıyla bir bilim grubunda faaliyet göstermek üzere kurum açma izinleri düzenlenmeyen özel öğretim kursları hakkında sürekli kapatma işlemi uygulanır.
 Bu maddenin uygulanmasına ilişkin hususlar ile bilim grubu tanımı Millî Eğitim Bakanlığınca çıkarılan yönetmelikle düzenlenir.”
 
 
@@ -357,8 +357,8 @@ b) En fazla iki yıla kadar aylıksız izin verilmek suretiyle anılan Vakıfta 
 (6) Bu madde kapsamına girenler ile bunların yurtdışında birlikte yaşadıkları ve 5510 sayılı Kanuna göre bakmakla yükümlü oldukları kişilerin yurtdışındaki sağlık giderleri, aylıksız izin dönemini geçmemek kaydıyla sürekli görevle yurtdışına gönderilen Devlet memurları için 5510 sayılı Kanunda belirlenmiş olan usul ve esaslar çerçevesinde karşılanır.
 (7) İlgili kurumlar, söz konusu görevlendirmeleri süresi dolmadan sonlandırabileceği gibi Türkiye Maarif Vakfının gerekçeli talebini uygun görmesi halinde de sonlandırabilir.
 (8) Bu madde uyarınca görevlendirilenlerden görev süresinin bitimini veya görevlendirmenin sonlandırılmasını izleyen onbeş gün içinde görevlerine dönmeyenler memuriyetten çekilmiş sayılırlar.”
-YEDİNCİ BÖLÜM
-Çeşitli ve Son Hükümler
+**YEDİNCİ BÖLÜM**
+**Çeşitli ve Son Hükümler**
 
 
 MADDE 68 – 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 8 inci maddesinin birinci fıkrasının (b) bendinin (3) numaralı alt bendinde yer alan “Genelkurmay Başkanlığı” ibaresi “Milli Savunma Bakanlığı” şeklinde, aynı maddenin birinci fıkrasının (b) bendinin (1) numaralı alt bendi ile aynı maddenin dördüncü fıkrası aşağıdaki şekilde değiştirilmiş ve beşinci fıkrasının birinci cümlesi yürürlükten kaldırılmıştır.
@@ -373,7 +373,7 @@ Rektörün görev süresi 4 yıldır. Süresi sona erenler aynı yöntemle yenid
 MADDE 70 – 2547 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 72- Bu maddenin yürürlüğe girdiği tarihte Yükseköğretim Denetleme Kurulu üyesi olarak görev yapmakta olanlardan üç yılını tamamlayanların görevleri kendiliğinden sona erer.”
+**MADDE 72-** Bu maddenin yürürlüğe girdiği tarihte Yükseköğretim Denetleme Kurulu üyesi olarak görev yapmakta olanlardan üç yılını tamamlayanların görevleri kendiliğinden sona erer.”
 
 
 MADDE 71 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 16 ncı maddesinin birinci fıkrasında yer alan “sermayesinin yarıdan fazlası devlete ait kurum ve kuruluşlarının” ibaresi “sermayesinin yarıdan fazlası devlete ait kurum ve kuruluşlar ile kayyım sıfatıyla Tasarruf Mevduatı Sigorta Fonu tarafından yönetilen şirketlerin” şeklinde değiştirilmiştir.
@@ -385,8 +385,8 @@ MADDE 72 – 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun 21 
 MADDE 73 – 3713 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 16- Bu maddenin yürürlüğe girdiği tarih itibarıyla 21 inci maddenin birinci fıkrasının mülga (ı) bendi kapsamında Yüksek Öğrenim Kredi ve Yurtlar Kurumundan burs almakta olanların bursları, normal öğrenim sürelerinin sonuna kadar ilgili mevzuat hükümlerine göre verilir. Söz konusu bende istinaden yargı mercilerinde Yüksek Öğrenim Kredi ve Yurtlar Kurumu aleyhine açılan davalardan feragat edilmiş sayılır. Feragat nedeniyle mahkemece yargılama giderleri ve vekalet ücretine hükmedilemez, verilmiş olan kararlar üzerine ayrıca herhangi bir işlem yapılmaz.”
+**MADDE 16-** Bu maddenin yürürlüğe girdiği tarih itibarıyla 21 inci maddenin birinci fıkrasının mülga (ı) bendi kapsamında Yüksek Öğrenim Kredi ve Yurtlar Kurumundan burs almakta olanların bursları, normal öğrenim sürelerinin sonuna kadar ilgili mevzuat hükümlerine göre verilir. Söz konusu bende istinaden yargı mercilerinde Yüksek Öğrenim Kredi ve Yurtlar Kurumu aleyhine açılan davalardan feragat edilmiş sayılır. Feragat nedeniyle mahkemece yargılama giderleri ve vekalet ücretine hükmedilemez, verilmiş olan kararlar üzerine ayrıca herhangi bir işlem yapılmaz.”
 
-MADDE 74- Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 74-** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 75- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 75-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

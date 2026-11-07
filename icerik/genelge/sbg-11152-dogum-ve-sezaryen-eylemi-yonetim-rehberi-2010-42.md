@@ -858,7 +858,7 @@ Pp grade 1 veya 2 ve fetal baş yerleşmiş ise vajinal doğum denenebilir. Bunu
 
 2.Pp grade 3 veya 4 gebeler (Plasentası iç servikal os’u kısmen veya tamamen kaplayan) sezaryen olmalıdır.
 
-Uyarı: Acil sezaryen hazırlığı yapmadan vajinal muayene yapılmamalıdır.
+**Uyarı**: Acil sezaryen hazırlığı yapmadan vajinal muayene yapılmamalıdır.
 
 Kanama tekrarlarsa anne ve fetüs açısından doğuma karşılık bekle-gör tedavisinin fayda ve riskleri karşılaştırılarak tedaviye karar verilmelidir.
 

@@ -14,7 +14,7 @@ durum: "yürürlükte"
 | R. Gazete Tarihi | : | 10/5/2005 |
 | R. Gazete Sayısı | : | 25811 |
 
-ÖZÜRLÜLERE VERİLECEK SAĞLIK KURULU RAPORLARI HAKKINDA YÖNETMELİK EKİNDE YER ALAN ÖZÜRLÜ SAĞLIK KURULU RAPORU VERMEYE YETKİLİ SAĞLIK KURULUŞLARI LİSTESİNİN YENİDEN DÜZENLENMESİNE İLİŞKİN TEBLİĞ
+**ÖZÜRLÜLERE VERİLECEK SAĞLIK KURULU RAPORLARI HAKKINDA YÖNETMELİK EKİNDE YER ALAN ÖZÜRLÜ SAĞLIK KURULU RAPORU VERMEYE YETKİLİ SAĞLIK KURULUŞLARI LİSTESİNİN YENİDEN DÜZENLENMESİNE İLİŞKİN TEBLİĞ**
 
 **Madde 1 –** 18/03/1998 tarih ve 23290 sayılı Resmi Gazetede yayımlanan Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmeliğin 5 inci maddesiyle eklenen Ek 3 sayılı Özürlü Sağlık Kurulu Raporu Düzenlemeye Yetkili Sağlık Kuruluşları listesi Ek 1’de belirtilen şekilde yeniden düzenlenmiştir.
 

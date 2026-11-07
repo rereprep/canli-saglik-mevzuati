@@ -18,7 +18,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -26,7 +26,7 @@ Başlangıç Hükümleri
 
 #### Kapsam
 
-**MADDE 2 –** (1) (Değişik:RG-3/12/2024-32741) Bu Yönetmelik, endüstriyel olarak hazırlanmış, geleneksel veya endüstriyel proses içeren bir yöntemle üretilmiş olan homeopatik tıbbi ürünler ile bunlar için ruhsat başvurusunda bulunan veya ruhsat verilmiş olan gerçek kişileri ve ticaret şirketlerini kapsar.
+**MADDE 2 –** (1) **(Değişik:RG-3/12/2024-32741)** Bu Yönetmelik, endüstriyel olarak hazırlanmış, geleneksel veya endüstriyel proses içeren bir yöntemle üretilmiş olan homeopatik tıbbi ürünler ile bunlar için ruhsat başvurusunda bulunan veya ruhsat verilmiş olan gerçek kişileri ve ticaret şirketlerini kapsar.
 
 (2) Bu Yönetmelik;
 
@@ -34,7 +34,7 @@ a) 27/5/2023 tarihli ve 32203 sayılı Resmî Gazete’de yayımlanan Beşeri T�
 
 b) Hayvanlara ve bitkilere yönelik hazırlanan homeopatik tıbbi ürünleri,
 
-c) (Değişik:RG-3/12/2024-32741) Bir farmakopenin formüllerine uygun olarak eczane tarafından doğrudan hastaya sunulmak amacıyla hazırlanan ofisinal olarak adlandırılan her türlü tıbbi ürünü,
+c) **(Değişik:RG-3/12/2024-32741)** Bir farmakopenin formüllerine uygun olarak eczane tarafından doğrudan hastaya sunulmak amacıyla hazırlanan ofisinal olarak adlandırılan her türlü tıbbi ürünü,
 
 ç) Yetkili üretici tarafından ileri işlemlerde kullanılması amaçlanan yarı mamul ürünleri,
 
@@ -94,7 +94,7 @@ o) Kullanma talimatı: Homeopatik tıbbi ürün ile birlikte sunulan, kullanıc�
 
 ö) Kurum: Türkiye İlaç ve Tıbbî Cihaz Kurumunu,
 
-p) (Değişik:RG-3/12/2024-32741) Lisansör firma:
+p) **(Değişik:RG-3/12/2024-32741)** Lisansör firma:
 
 1) İthal edilen homeopatik tıbbi ürünün Türkiye’de ruhsatlandırılmasına ve satışına ilişkin gerçek kişiyi ya da ticaret şirketini yetkilendiren firmayı ya da
 
@@ -116,7 +116,7 @@ v) Potentizasyon: Homeopatik tıbbi ürün hazırlanması sırasında homeopatik
 
 y) Ruhsat: Bir homeopatik tıbbi ürünün belirli bir formül ile belirli bir farmasötik şekil ve potenste, kabul edilen ürün bilgilerine uygun olarak üretilip piyasaya sunulabileceğini gösteren, Kurum tarafından düzenlenen belgeyi,
 
-z) (Değişik:RG-3/12/2024-32741) Ruhsat sahibi: Bir homeopatik tıbbi ürünün ruhsatına sahip olan gerçek kişi ya da ticaret şirketini,
+z) **(Değişik:RG-3/12/2024-32741)** Ruhsat sahibi: Bir homeopatik tıbbi ürünün ruhsatına sahip olan gerçek kişi ya da ticaret şirketini,
 
 aa) Ruhsatlandırma: Bir homeopatik tıbbi ürünün, piyasaya sunulabilmesi için Kurum tarafından yapılan inceleme ve onay işlemlerini,
 
@@ -132,7 +132,7 @@ ee) Triturasyon: Belirli bir güç ve şiddetle ezerek karıştırmayı,
 
 ff) Uluslararası olan ve mülkiyete konu edilemeyen isim (International Nonproprietary Name, INN): Bir etkin maddenin Dünya Sağlık Örgütünce kabul edilen veya önerilen, mülkiyete konu edilemeyen ve Dünya Sağlık Örgütü kuralları doğrultusunda marka tescilinde kullanılmaması gereken uluslararası ismini,
 
-gg) (Değişik:RG-3/12/2024-32741) Üretim yeri: Ülkemizde bulunmayan veya az bulunan teknolojiler ile üretilen homeopatik tıbbi ürünlerin Kurum tarafından başvuru bazında değerlendirildiği haller dışında homeopatik tıbbi ürünün iç ambalajlama öncesi farmasötik şeklinin (bulk ürünün) üretildiği yeri,
+gg) **(Değişik:RG-3/12/2024-32741)** Üretim yeri: Ülkemizde bulunmayan veya az bulunan teknolojiler ile üretilen homeopatik tıbbi ürünlerin Kurum tarafından başvuru bazında değerlendirildiği haller dışında homeopatik tıbbi ürünün iç ambalajlama öncesi farmasötik şeklinin (bulk ürünün) üretildiği yeri,
 
 ğğ) Varyasyon:
 
@@ -150,7 +150,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Ruhsat Başvurusu
+**Ruhsat Başvurusu**
 
 #### Ruhsat yükümlülüğü
 
@@ -158,7 +158,7 @@ Ruhsat Başvurusu
 
 #### Ruhsat başvurusu ve başvuru şekli
 
-**MADDE 6 –** (1) Türkiye’de yerleşik bulunan (Değişik ibare:RG-3/12/2024-32741) gerçek kişiler ya da ticaret şirketleri , bir homeopatik tıbbi ürünü piyasaya sunmak amacıyla ruhsat alabilmek için bu Yönetmelik hükümlerine göre Kuruma ruhsat başvurusu yapar.
+**MADDE 6 –** (1) Türkiye’de yerleşik bulunan **(Değişik ibare:RG-3/12/2024-32741)** gerçek kişiler ya da ticaret şirketleri , bir homeopatik tıbbi ürünü piyasaya sunmak amacıyla ruhsat alabilmek için bu Yönetmelik hükümlerine göre Kuruma ruhsat başvurusu yapar.
 
 (2) Kurum, başvuru olması hâlinde fiyat tarifesinde yer alan bir ücrete tabi olmak kaydı ile ruhsat başvurusu öncesinde veya ruhsatlandırma süreci içinde başvuru sahibine bilimsel tavsiye verebilir.
 
@@ -170,7 +170,7 @@ Ruhsat Başvurusu
 
 a) Gerçek kişilerin; eczacılık, tıp veya kimya bilim dallarında eğitim veren yükseköğretim kurumlarından birisinden mezun olmaları ve Türkiye’de mesleğini icra etme yetkisine sahip olmaları,
 
-b) (Değişik ibare:RG-3/12/2024-32741) Ticaret şirketlerinin ; (a) bendinde belirtilen vasıfları taşıyan birini “yetkili kişi” sıfatıyla istihdam etmeleri,
+b) **(Değişik ibare:RG-3/12/2024-32741)** Ticaret şirketlerinin ; (a) bendinde belirtilen vasıfları taşıyan birini “yetkili kişi” sıfatıyla istihdam etmeleri,
 
 şarttır.
 
@@ -178,7 +178,7 @@ b) (Değişik ibare:RG-3/12/2024-32741) Ticaret şirketlerinin ; (a) bendinde be
 
 #### Ruhsat başvurusunda sunulması gereken bilgi ve belgeler
 
-**MADDE 8 –** (1) (Değişik:RG-3/12/2024-32741) Bir homeopatik tıbbi ürüne ruhsat almak isteyen gerçek kişiler ya da ticaret şirketleri ilgili kılavuza uygun olarak hazırlanmış ve aşağıda sıralanan hususların yer aldığı belgelerle birlikte Kuruma başvuruda bulunur:
+**MADDE 8 –** (1) **(Değişik:RG-3/12/2024-32741)** Bir homeopatik tıbbi ürüne ruhsat almak isteyen gerçek kişiler ya da ticaret şirketleri ilgili kılavuza uygun olarak hazırlanmış ve aşağıda sıralanan hususların yer aldığı belgelerle birlikte Kuruma başvuruda bulunur:
 
 a) Başvuru sahibinin 7 nci maddede belirtilen mesleklerden birine mensup olduğunu gösteren diploması veya noter onaylı sureti veya Yükseköğretim Kurulundan alınan mezuniyet belgesi.
 
@@ -262,7 +262,7 @@ dd) Homeopatik stokun yurt içinden temin edilmesi halinde, homeopatik stok teda
 
 (2) Yurt dışından temin edilen tüm resmî belgelerin apostil şerhli veya konsolosluk onaylı olması gerekir. Tüm belgelerin Türkçe olarak sunulması esastır. Kurum tarafından uygun bulunan kısımları İngilizce olarak sunulabilir. Ancak İngilizce dışındaki dillerde hazırlanmış olanlarının yeminli Türkçe tercümesi ile birlikte sunulması şarttır. Yeminli tercümenin ülkemizde yapılamadığı durumlarda başka bir ülkede Türkçe veya İngilizceye çevrilmiş olan yeminli tercüme belgesi kabul edilebilir.
 
-(3) (Değişik:RG-3/12/2024-32741) Birinci fıkranın (k) ve (l) bentlerinde belirtilen fizikokimyasal, biyolojik veya mikrobiyolojik testlerin ve 9 uncu maddenin ikinci fıkrası kapsamındaki homeopatik tıbbi ürünler için klinik öncesi testlerin ve klinik çalışmaların sonuçları ile ilgili belgelerin 10 uncu maddeye uygun olarak hazırlanmış ayrıntılı özetlerinin sunulması gerekir.
+(3) **(Değişik:RG-3/12/2024-32741)** Birinci fıkranın (k) ve (l) bentlerinde belirtilen fizikokimyasal, biyolojik veya mikrobiyolojik testlerin ve 9 uncu maddenin ikinci fıkrası kapsamındaki homeopatik tıbbi ürünler için klinik öncesi testlerin ve klinik çalışmaların sonuçları ile ilgili belgelerin 10 uncu maddeye uygun olarak hazırlanmış ayrıntılı özetlerinin sunulması gerekir.
 
 (4) Nosod ve sarkodlar için gerekli olması halinde Kurum tarafından ilave bilgi ve belge istenebilir.
 
@@ -394,11 +394,11 @@ h) Kısa ürün bilgilerinin yenilenme tarihi.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Ruhsat Başvurusunun Değerlendirilmesi ve Ruhsatlandırma
+**Ruhsat Başvurusunun Değerlendirilmesi ve Ruhsatlandırma**
 
 #### Başvurunun ön değerlendirilmesi
 
-**MADDE 13 –** (1) Homeopatik tıbbi ürün için ruhsat almak üzere Kuruma sunulan başvuru dosyasının, başvurunun niteliğine göre sunulması gereken belgeler ve elektronik ruhsat başvurusu gereklilikleri açısından eksiksiz bir başvuru olup olmadığı hususu, Kurum tarafından ön (Değişik ibare:RG-3/12/2024-32741) değerlendirmeye tabi tutularak incelenir. Bu değerlendirme başvuru tarihi sırasına göre yapılır. Ancak Kurum, Öncelik Değerlendirme Kurulu tarafından ruhsatlandırma işlemlerinde öncelikli veya yüksek öncelikli olarak değerlendirilmesi uygun bulunan başvuruların ön değerlendirme işlemleri öncelikli olarak yapılır.
+**MADDE 13 –** (1) Homeopatik tıbbi ürün için ruhsat almak üzere Kuruma sunulan başvuru dosyasının, başvurunun niteliğine göre sunulması gereken belgeler ve elektronik ruhsat başvurusu gereklilikleri açısından eksiksiz bir başvuru olup olmadığı hususu, Kurum tarafından ön **(Değişik ibare:RG-3/12/2024-32741)** değerlendirmeye tabi tutularak incelenir. Bu değerlendirme başvuru tarihi sırasına göre yapılır. Ancak Kurum, Öncelik Değerlendirme Kurulu tarafından ruhsatlandırma işlemlerinde öncelikli veya yüksek öncelikli olarak değerlendirilmesi uygun bulunan başvuruların ön değerlendirme işlemleri öncelikli olarak yapılır.
 
 (2) Başvuru dosyasının Kuruma ulaşmasından itibaren otuz gün içinde gerekli değerlendirme yapılarak sonuç başvuru sahibine bildirilir. Başvurunun eksik bulunması hâlinde başvuru sahibi eksikliklerini otuz gün içinde tamamlar. Eksikliklerin tamamlanarak Kuruma sunulmasından sonra yapılacak ikinci ön değerlendirme de otuz gün içinde sonuçlandırılır.
 
@@ -424,9 +424,9 @@ c) Ön değerlendirme süreci haricinde Kurum tarafından talep edilen bilgi ve 
 
 #### Ruhsatlandırma süresi
 
-**MADDE 15 –** (1) (Değişik:RG-3/12/2024-32741) Kurum, ön değerlendirme sırasında ruhsat başvurusunu, ruhsatlandırma kriterlerine göre inceler ve başvurunun kabul edildiğini veya reddedildiğini başvuru sahibine resmî olarak bildirir. Başvurunun kabul edildiğine dair bildirim ruhsatlandırma süresinin başlangıcı olarak kabul edilmez. Değerlendirmesi tamamlanarak kabul edilen eksiksiz ruhsat başvuruları için ruhsatlandırma sürecinin başladığı Kurum tarafından ruhsat sahibine ayrıca bildirilir. Bu bildirimin tarihi ruhsatlandırma süreci başlangıç tarihi olarak kabul edilir. Ruhsatlandırma süreci sonraki iki yüz on gün içinde sonuçlandırılır. Ayrıca, Kurum dışı kuruluşların değerlendirmeleri için geçen süre; hafta sonu tatili hariç olmak üzere resmî tatiller için geçen süre ve olağanüstü hâller için geçen süre ruhsatlandırma süresine dâhil edilmez.
+**MADDE 15 –** (1) **(Değişik:RG-3/12/2024-32741)** Kurum, ön değerlendirme sırasında ruhsat başvurusunu, ruhsatlandırma kriterlerine göre inceler ve başvurunun kabul edildiğini veya reddedildiğini başvuru sahibine resmî olarak bildirir. Başvurunun kabul edildiğine dair bildirim ruhsatlandırma süresinin başlangıcı olarak kabul edilmez. Değerlendirmesi tamamlanarak kabul edilen eksiksiz ruhsat başvuruları için ruhsatlandırma sürecinin başladığı Kurum tarafından ruhsat sahibine ayrıca bildirilir. Bu bildirimin tarihi ruhsatlandırma süreci başlangıç tarihi olarak kabul edilir. Ruhsatlandırma süreci sonraki iki yüz on gün içinde sonuçlandırılır. Ayrıca, Kurum dışı kuruluşların değerlendirmeleri için geçen süre; hafta sonu tatili hariç olmak üzere resmî tatiller için geçen süre ve olağanüstü hâller için geçen süre ruhsatlandırma süresine dâhil edilmez.
 
-(2) (Değişik:RG-3/12/2024-32741) Ortak pazarlanan ürünler için yapılan ruhsat başvurusunda Kurum tarafından, tam ve eksiksiz dosya ile yapılan ruhsat başvuru dosyasının sadece ilgili kılavuza uygun olarak hazırlanan Modül 1 kısmı incelenir ve iki yüz on günlük ruhsatlandırma süresi bu başvurular için doksan gündür. Yalnızca ilgili kılavuza uygun olarak hazırlanan Modül 1 kısmı ile de ruhsat başvurusu yapılabilir. Bu şekilde yapılan ortak pazarlanan ürün ruhsat başvuruları için diğer modüller ruhsatlandırma süreci içinde ve ruhsatlandırıldıktan sonra sunulamaz.
+(2) **(Değişik:RG-3/12/2024-32741)** Ortak pazarlanan ürünler için yapılan ruhsat başvurusunda Kurum tarafından, tam ve eksiksiz dosya ile yapılan ruhsat başvuru dosyasının sadece ilgili kılavuza uygun olarak hazırlanan Modül 1 kısmı incelenir ve iki yüz on günlük ruhsatlandırma süresi bu başvurular için doksan gündür. Yalnızca ilgili kılavuza uygun olarak hazırlanan Modül 1 kısmı ile de ruhsat başvurusu yapılabilir. Bu şekilde yapılan ortak pazarlanan ürün ruhsat başvuruları için diğer modüller ruhsatlandırma süreci içinde ve ruhsatlandırıldıktan sonra sunulamaz.
 
 (3) Kurum tarafından ruhsatlandırma süreci sırasında gerektiği durumlarda 8 inci, 9 uncu ve 11 inci maddeler kapsamında başvuru sahibinden ek bilgi ve belge talep edildiği hâllerde ilgili bilgi ve belgeler temin edilene kadar ruhsatlandırma süresi durdurulur.
 
@@ -456,15 +456,15 @@ c) Güvenliliğin kanıtlanmış olması.
 
 a) Bir ürünün etkililiğini, güvenliliğini kanıtlayan ve kalitesini gösteren belgelerin bilimsel ve teknolojik açıdan incelenmesi.
 
-b) (Mülga:RG-3/12/2024-32741)
+b) **(Mülga:RG-3/12/2024-32741)**
 
 (2) 9 uncu maddenin birinci fıkrası kapsamındaki homeopatik tıbbi ürünlerin başvurularının değerlendirilmesinde etkililiği kanıtlayan belgelerin sunulması zorunlu değildir.
 
 #### Başvurunun esastan reddi
 
-**MADDE 19 –** (1) (Mülga:RG-3/12/2024-32741)
+**MADDE 19 –** (1) **(Mülga:RG-3/12/2024-32741)**
 
-(2) (Değişik:RG-3/12/2024-32741) Bir homeopatik tıbbi ürünün ruhsatlandırılması için Kuruma yapılan başvurunun değerlendirilmesi sürecinin aşağıda belirtilen her bir durumu için etkililik, kalite ve güvenlilik değerlendirme sürecinde başvuru sahibine en fazla beş yazılı cevap hakkı tanınır. Bu cevap haklarından ikisi için başvuru sahibinin talep etmesi halinde sunulan yazılı cevap aynı zamanda sözlü sunum olarak da yapılabilir. Değerlendirme süreci sonunda ürünün;
+(2) **(Değişik:RG-3/12/2024-32741)** Bir homeopatik tıbbi ürünün ruhsatlandırılması için Kuruma yapılan başvurunun değerlendirilmesi sürecinin aşağıda belirtilen her bir durumu için etkililik, kalite ve güvenlilik değerlendirme sürecinde başvuru sahibine en fazla beş yazılı cevap hakkı tanınır. Bu cevap haklarından ikisi için başvuru sahibinin talep etmesi halinde sunulan yazılı cevap aynı zamanda sözlü sunum olarak da yapılabilir. Değerlendirme süreci sonunda ürünün;
 
 a) Normal kullanım şartlarında, potansiyel riskinin tedavinin yararlı etkisinden fazla olduğunun veya,
 
@@ -482,7 +482,7 @@ tespit edilmesi durumlarında ruhsat başvurusu esastan reddedilir.
 
 #### Başvurunun esastan reddinin bildirimi ve itiraz
 
-**MADDE 20 –** (1) (Değişik:RG-3/12/2024-32741) Ruhsat başvurusunun esastan reddi hâlinde karar gerekçeli olarak başvuru sahibine bildirilir veya bildirim yapılamaması hâlinde Kurum internet sayfasında ilan edilebilir. Başvuru sahibi karara karşı bildirim veya ilan tarihinden itibaren kırk beş gün içinde Kuruma itiraz etme hakkı vardır. Kırk beş gün içinde itiraz edilmediği takdirde, başvuru belgeleri sahibine iade edilir. Başvuru sahibinin belgeleri iade almaması durumunda; 18/10/2019 tarihli ve 30922 sayılı Resmî Gazete’de yayımlanan Devlet Arşiv Hizmetleri Hakkında Yönetmelik hükümleri uygulanır.
+**MADDE 20 –** (1) **(Değişik:RG-3/12/2024-32741)** Ruhsat başvurusunun esastan reddi hâlinde karar gerekçeli olarak başvuru sahibine bildirilir veya bildirim yapılamaması hâlinde Kurum internet sayfasında ilan edilebilir. Başvuru sahibi karara karşı bildirim veya ilan tarihinden itibaren kırk beş gün içinde Kuruma itiraz etme hakkı vardır. Kırk beş gün içinde itiraz edilmediği takdirde, başvuru belgeleri sahibine iade edilir. Başvuru sahibinin belgeleri iade almaması durumunda; 18/10/2019 tarihli ve 30922 sayılı Resmî Gazete’de yayımlanan Devlet Arşiv Hizmetleri Hakkında Yönetmelik hükümleri uygulanır.
 
 (2) İtiraz doksan gün içinde Kurum tarafından değerlendirilerek sonucu başvuru sahibine bildirilir. İtirazın değerlendirilmesi sırasında, gerekli görülür ise başvuru sahibine sözlü açıklama ve savunma imkânı verilir.
 
@@ -494,9 +494,9 @@ tespit edilmesi durumlarında ruhsat başvurusu esastan reddedilir.
 
 **MADDE 21 –** (1) Başvuru sahibi tarafından Kuruma sunulan belgelerin incelenmesi ve değerlendirilmesi sonucunda, bu Yönetmelikte öngörülen hususlara uygun olduğu tespit edilen homeopatik tıbbi ürüne ruhsat düzenlenir ve başvuru sahibi bilgilendirilir.
 
-(2) (Değişik:RG-3/12/2024-32741) Kurum tarafından ruhsatlandırılan homeopatik tıbbi ürün ile homeopatik stok açısından birim dozda aynı bileşime ve potense sahip, aynı farmasötik şekildeki ürün için aynı gerçek kişiye ya da ticaret şirketine farklı bir ticari isimle de olsa ikinci bir ruhsat verilmez. Ancak ruhsatlı bir hoemoaptik tıbbi ürüne üstünlük sağladığı bilimsel ve teknolojik olarak gösterilen veya Kurumca uygun bulunan bir gerekçeye sahip homeopatik tıbbi ürünlere ilişkin başvurular ayrıca değerlendirilir.
+(2) **(Değişik:RG-3/12/2024-32741)** Kurum tarafından ruhsatlandırılan homeopatik tıbbi ürün ile homeopatik stok açısından birim dozda aynı bileşime ve potense sahip, aynı farmasötik şekildeki ürün için aynı gerçek kişiye ya da ticaret şirketine farklı bir ticari isimle de olsa ikinci bir ruhsat verilmez. Ancak ruhsatlı bir hoemoaptik tıbbi ürüne üstünlük sağladığı bilimsel ve teknolojik olarak gösterilen veya Kurumca uygun bulunan bir gerekçeye sahip homeopatik tıbbi ürünlere ilişkin başvurular ayrıca değerlendirilir.
 
-(3) Aynı (Değişik ibare:RG-3/12/2024-32741) gerçek kişi ya da ticaret şirketi aynı homeopatik stoklara sahip homeopatik tıbbi ürünlerin, farklı potens veya uygulama yolu veya farmasötik şekilleri için farklı bir ticari isim kullanamaz.
+(3) Aynı **(Değişik ibare:RG-3/12/2024-32741)** gerçek kişi ya da ticaret şirketi aynı homeopatik stoklara sahip homeopatik tıbbi ürünlerin, farklı potens veya uygulama yolu veya farmasötik şekilleri için farklı bir ticari isim kullanamaz.
 
 (4) Bir homeopatik tıbbi ürüne, beşeri tıbbi ürün veya tıbbi cihaz ile aynı isimle ruhsat verilemez.
 
@@ -516,7 +516,7 @@ tespit edilmesi durumlarında ruhsat başvurusu esastan reddedilir.
 
 (3) Piyasaya sunulmamış olması nedeniyle ürüne ilişkin beş yıllık farmakovijilans verisinin sunulamayacağı durumlarda ruhsatın geçerliliğine ilişkin değerlendirme, mevcut farmakovijilans verisinin ilgili mevzuat hükümleri doğrultusunda hazırlanarak sunulmasının ardından yapılır.
 
-(4) (Mülga:RG-3/12/2024-32741)
+(4) **(Mülga:RG-3/12/2024-32741)**
 
 #### Ruhsatın askıya alınması
 
@@ -566,7 +566,7 @@ durumlarından en az birine ilişkin uygunsuzluğun tespit edilerek sübut bulun
 
 (4) Ruhsatı askıya alınan homeopatik tıbbi ürünlerin listesi Kurum resmî internet sayfasında ilan edilir.
 
-(5) (Değişik:RG-3/12/2024-32741) Birinci fıkranın (i) veya (j) bentlerinde belirtilen nedenlerle ruhsatı askıya alınan ürünlerin tekrar piyasaya verilmek istenmesi hâlinde Kurumca belirlenen usullere uygun olarak, ürünü en geç on sekiz ay içinde piyasaya arz etme taahhüdü ile birlikte Kuruma başvurulur. İlgili başvurunun Kurum tarafından uygun bulunması durumunda ürün ruhsatı askıdan indirilir. Taahhüt edilen süre içerisinde piyasaya arz edilmeyen ürünler için 24 üncü madde doğrultusunda işlem tesis edilir.
+(5) **(Değişik:RG-3/12/2024-32741)** Birinci fıkranın (i) veya (j) bentlerinde belirtilen nedenlerle ruhsatı askıya alınan ürünlerin tekrar piyasaya verilmek istenmesi hâlinde Kurumca belirlenen usullere uygun olarak, ürünü en geç on sekiz ay içinde piyasaya arz etme taahhüdü ile birlikte Kuruma başvurulur. İlgili başvurunun Kurum tarafından uygun bulunması durumunda ürün ruhsatı askıdan indirilir. Taahhüt edilen süre içerisinde piyasaya arz edilmeyen ürünler için 24 üncü madde doğrultusunda işlem tesis edilir.
 
 (6) 9 uncu maddenin birinci fıkrası kapsamında olan homeopatik tıbbi ürünlerde birinci fıkranın (b), (ğ) ve (ı) bentlerinde istenen etkililik bilgisi aranmaz.
 
@@ -574,23 +574,23 @@ durumlarından en az birine ilişkin uygunsuzluğun tespit edilerek sübut bulun
 
 **MADDE 24 –** (1) Aşağıda belirtilen durumlardan birinin mevcudiyeti hâlinde homeopatik tıbbi ürün için verilmiş olan ruhsat iptal edilir:
 
-a) 23 üncü maddenin birinci fıkrasında sayılan hâllerden (Mülga ibare:RG-3/12/2024-32741) biri veya birkaçı sebebiyle ruhsatı askıya alınan ürünler hakkında ruhsat sahibi tarafından ruhsatın askıya alındığı tarihten itibaren en geç altı ay içinde askıya alınma gerekçesinin aksini ispatlayan belgelerin sunulmaması veya durumu açıklayan belgelerin Kurum tarafından uygun bulunmaması.
+a) 23 üncü maddenin birinci fıkrasında sayılan hâllerden **(Mülga ibare:RG-3/12/2024-32741)** biri veya birkaçı sebebiyle ruhsatı askıya alınan ürünler hakkında ruhsat sahibi tarafından ruhsatın askıya alındığı tarihten itibaren en geç altı ay içinde askıya alınma gerekçesinin aksini ispatlayan belgelerin sunulmaması veya durumu açıklayan belgelerin Kurum tarafından uygun bulunmaması.
 
 b) Ruhsat üzerinde Kuruma tebliğ edilmiş haciz veya tedbir kararı bulunmaması koşuluyla, ruhsat sahibinin talebi ve Kurumun uygun görmesi.
 
 c) 23 üncü maddenin beşinci fıkrası uyarınca taahhüt edilen süre içerisinde ürünlerin piyasaya arz edilmemesi.
 
-(2) Ortak pazarlanan ürünlerden başvurusu tam ve eksiksiz dosya ile yapılan ürüne ait ruhsatın iptal edilmesi hâlinde, ruhsat başvurusu yalnızca ilgili kılavuza uygun olarak hazırlanan (Değişik ibare:RG-3/12/2024-32741) Modül 1 dosyası ile kabul edilmiş olan ortak pazarlanan ürünlere ait ruhsatlar da iptal edilir. Bununla birlikte tam ve eksiksiz dosya ile ortak pazarlama ruhsatı düzenlenen ürünlerin ruhsat statüleri ise ilgili kılavuz doğrultusunda Kuruma başvuru yapılması hâlinde güncellenir.
+(2) Ortak pazarlanan ürünlerden başvurusu tam ve eksiksiz dosya ile yapılan ürüne ait ruhsatın iptal edilmesi hâlinde, ruhsat başvurusu yalnızca ilgili kılavuza uygun olarak hazırlanan **(Değişik ibare:RG-3/12/2024-32741)** Modül 1 dosyası ile kabul edilmiş olan ortak pazarlanan ürünlere ait ruhsatlar da iptal edilir. Bununla birlikte tam ve eksiksiz dosya ile ortak pazarlama ruhsatı düzenlenen ürünlerin ruhsat statüleri ise ilgili kılavuz doğrultusunda Kuruma başvuru yapılması hâlinde güncellenir.
 
 (3) Ruhsatı iptal edilen bir homeopatik tıbbi ürünün üretimi veya ithalatı durdurulur. Hâlihazırda piyasada bulunan homeopatik tıbbi ürünler hakkındaki karar, ruhsatın iptal gerekçesi dikkate alınarak Kurum tarafından verilir.
 
-(4) Birinci fıkranın (b) bendine göre iptal işlemi uygun görülüp askıya alınan ruhsatlar; altı ay süreyle Kurum resmî internet sayfasında ilan edilir. Bu fıkra kapsamında Kurumun resmî internet sayfasında askıya alındığı ilan edilen ruhsatlar; talep hâlinde, ürünü piyasaya arz etme taahhüdünde bulunan ve bu Yönetmelikle belirlenen ruhsat başvurusunda bulunma şartlarını haiz (Değişik ibare:RG-3/12/2024-32741) gerçek kişilere ya da ticaret şirketlerine , bu kişilerin talepleri ve ruhsat sahibinin rızası bulunması hâlinde, ruhsat devri başvuru şartlarının sağlanması koşuluyla devredilir. Devir başvurusu yapılan ruhsatların iptal edilme işlemine devam edilmez.
+(4) Birinci fıkranın (b) bendine göre iptal işlemi uygun görülüp askıya alınan ruhsatlar; altı ay süreyle Kurum resmî internet sayfasında ilan edilir. Bu fıkra kapsamında Kurumun resmî internet sayfasında askıya alındığı ilan edilen ruhsatlar; talep hâlinde, ürünü piyasaya arz etme taahhüdünde bulunan ve bu Yönetmelikle belirlenen ruhsat başvurusunda bulunma şartlarını haiz **(Değişik ibare:RG-3/12/2024-32741)** gerçek kişilere ya da ticaret şirketlerine , bu kişilerin talepleri ve ruhsat sahibinin rızası bulunması hâlinde, ruhsat devri başvuru şartlarının sağlanması koşuluyla devredilir. Devir başvurusu yapılan ruhsatların iptal edilme işlemine devam edilmez.
 
 (5) Birinci fıkranın (b) bendine göre ruhsat iptali talep edilen ürünlerin; ortak pazarlanan ve ruhsat başvurusu tam ve eksiksiz dosya ile yapılan bir homeopatik tıbbi ürün olması durumunda, ruhsat sahibinin ortak pazarlamaya konu edilen diğer homeopatik tıbbi ürünlerin listesini Kuruma sunması zorunludur.
 
 (6) Kurum tarafından ruhsatları iptal edilen homeopatik tıbbi ürünlerin listesi Kurum resmî internet sayfasında ilan edilir.
 
-(7) (Değişik:RG-3/12/2024-32741) 23 üncü maddenin birinci fıkrasının (i), (j) ve (o) bentleri gereğince askıya alınan ürünlerin ruhsat askı süresi Kurum tarafından uygun bulunması halinde otuz aya kadar uzatılabilir.
+(7) **(Değişik:RG-3/12/2024-32741)** 23 üncü maddenin birinci fıkrasının (i), (j) ve (o) bentleri gereğince askıya alınan ürünlerin ruhsat askı süresi Kurum tarafından uygun bulunması halinde otuz aya kadar uzatılabilir.
 
 #### Ruhsatın ya da ürün dosyalarının zayi olması
 
@@ -600,7 +600,7 @@ c) 23 üncü maddenin beşinci fıkrası uyarınca taahhüt edilen süre içeris
 
 #### Ruhsat sahibinin sorumluluğu
 
-**MADDE 26 –** (1) (Değişik:RG-3/12/2024-32741) Ruhsat sahibi, piyasada olan bir ürününü herhangi bir nedenle piyasaya veremeyecekse bu durumun oluşmasından en az otuz gün önce Kuruma ürünü piyasaya veremeyeceğini bildirmekle sorumludur.
+**MADDE 26 –** (1) **(Değişik:RG-3/12/2024-32741)** Ruhsat sahibi, piyasada olan bir ürününü herhangi bir nedenle piyasaya veremeyecekse bu durumun oluşmasından en az otuz gün önce Kuruma ürünü piyasaya veremeyeceğini bildirmekle sorumludur.
 
 (2) Ruhsat sahibi, ruhsatına sahip olduğu homeopatik tıbbi ürün ile ilgili olarak aşağıdaki hususlarda Kuruma karşı sorumludur:
 
@@ -632,7 +632,7 @@ j) İlgili kılavuzda yer alan İlaç Takip Sistemine ilişkin yükümlülükler
 
 (3) Ruhsat ya da başvuru sahibi bu Yönetmelikte belirtilen esaslara uygun olarak başvuru yapmak, Kuruma sunduğu taahhütleri yerine getirmek ve Kuruma sunduğu bilgi ve belgelerin doğruluğunu teyit etmek ile yükümlü olup bu bilgi ve belgelerin sonuçlarından doğacak her türlü sorumluluğu kabul eder.
 
-(4) Ruhsat ya da başvuru sahibi, ürünü ile ilgili Kuruma sunduğu tüm belgelerin asıllarını saklamakla ve talep edildiğinde Kuruma sunmakla (Değişik ibare:RG-3/12/2024-32741) sorumludur .
+(4) Ruhsat ya da başvuru sahibi, ürünü ile ilgili Kuruma sunduğu tüm belgelerin asıllarını saklamakla ve talep edildiğinde Kuruma sunmakla **(Değişik ibare:RG-3/12/2024-32741)** sorumludur .
 
 (5) Homeopatik tıbbi ürünün ruhsatlandırılmış olması ruhsat sahibinin hukuki ve cezai sorumluluğunu etkilemez.
 
@@ -704,7 +704,7 @@ c) Talep olması hâlinde; ruhsatı devreden ve devralan firmaların yazılı ve
 
 **MADDE 29 –** (1) Bu Yönetmelik hükümlerine göre Kurum tarafından ruhsatlandırılarak ilk kez piyasaya sunulacak homeopatik tıbbi ürün için satış izni alınması zorunludur.
 
-(2) (Değişik:RG-3/12/2024-32741) Kurum tarafından ruhsatlandırılarak ilk kez piyasaya sunulacak homeopatik tıbbi ürünler için ruhsat sahibi; Kurumca depocuya satış fiyat başvurusu uygun bulunulan homeopatik tıbbi ürünler için depolama faaliyetlerini kendi gerçek kişiliğine veya ticaret şirketine ait tesislerde yapması durumunda Kurum tarafından düzenlenen belgeyi, bunun dışındaki durumlarda ise depolama yerine ait Kurum tarafından düzenlenen belgeyi, taraflar arasında ürünün depolanmasına yönelik olarak imzalanmış belgeyi ve taraflara ait ticaret sicil tasdiknamesini satış izni başvurusu ile birlikte Kuruma sunar.
+(2) **(Değişik:RG-3/12/2024-32741)** Kurum tarafından ruhsatlandırılarak ilk kez piyasaya sunulacak homeopatik tıbbi ürünler için ruhsat sahibi; Kurumca depocuya satış fiyat başvurusu uygun bulunulan homeopatik tıbbi ürünler için depolama faaliyetlerini kendi gerçek kişiliğine veya ticaret şirketine ait tesislerde yapması durumunda Kurum tarafından düzenlenen belgeyi, bunun dışındaki durumlarda ise depolama yerine ait Kurum tarafından düzenlenen belgeyi, taraflar arasında ürünün depolanmasına yönelik olarak imzalanmış belgeyi ve taraflara ait ticaret sicil tasdiknamesini satış izni başvurusu ile birlikte Kuruma sunar.
 
 (3) Kurum, satış izni için başvurulan ve Kurumca fiyatı onaylanan homeopatik tıbbi ürüne ilişkin ambalaj örneğini ve kullanma talimatını gerekli bilgiler açısından inceler.
 
@@ -716,17 +716,17 @@ c) Talep olması hâlinde; ruhsatı devreden ve devralan firmaların yazılı ve
 
 #### Ruhsatlandırma sonrası varyasyonlar
 
-**MADDE 31 –** (1) (Değişik:RG-3/12/2024-32741) 27 nci madde istisna olmak üzere homeopatik tıbbi ürün ruhsatlandırıldıktan sonra bu ürüne ilişkin tüm değişiklikler için ilgili kılavuza göre ruhsat sahibi tarafından Kuruma başvuru yapılır.
+**MADDE 31 –** (1) **(Değişik:RG-3/12/2024-32741)** 27 nci madde istisna olmak üzere homeopatik tıbbi ürün ruhsatlandırıldıktan sonra bu ürüne ilişkin tüm değişiklikler için ilgili kılavuza göre ruhsat sahibi tarafından Kuruma başvuru yapılır.
 
-(2) (Mülga:RG-3/12/2024-32741)
+(2) **(Mülga:RG-3/12/2024-32741)**
 
-(3) (Mülga:RG-3/12/2024-32741)
+(3) **(Mülga:RG-3/12/2024-32741)**
 
 (4) Kurum, başvuru olması halinde fiyat tarifesinde yer alan bir ücrete tabi olmak kaydı ile homeopatik tıbbi ürün ruhsatlandırıldıktan sonra başvuru sahibine bilimsel tavsiye verebilir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Ücretlendirme
 
@@ -774,7 +774,7 @@ c) Talep olması hâlinde; ruhsatı devreden ve devralan firmaların yazılı ve
 
 #### Klinik araştırmaların kabulü
 
-**GEÇİCİ MADDE 1 –** (1) 8 inci maddenin birinci fıkrasının (m) bendinin (2) ve (3) numaralı alt bentleri (Değişik ibare:RG-3/12/2024-32741) 1/1/2026 tarihine kadar uygulanmaz.
+**GEÇİCİ MADDE 1 –** (1) 8 inci maddenin birinci fıkrasının (m) bendinin (2) ve (3) numaralı alt bentleri **(Değişik ibare:RG-3/12/2024-32741)** 1/1/2026 tarihine kadar uygulanmaz.
 
 #### Onaylanmış kuruluş görüşü veya CE belgesi istenilen tıbbi cihazlar
 

@@ -19,7 +19,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -91,7 +91,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Uluslararası Sağlık Turizmi
+**Uluslararası Sağlık Turizmi**
 
 #### Yetki belgesi
 
@@ -137,7 +137,7 @@ b) Aracı kuruluş, gelen çağrıları karşılamak amacıyla en az iki yabanc�
 
 c) Uluslararası sağlık turizmi hizmetlerinde görevlendirilen personel, aynı anda ikiden fazla aracı kuruluşta çalışamaz.
 
-(3) Uluslararası sağlık turistinin ülkemizde bulunduğu süre içinde alacağı sağlık hizmeti ve aracılık hizmetlerinden sağlık tesisi ve aracı kuruluş, sunulan hizmetin türüne bağlı olarak sorumludur. Sunulan sağlık hizmeti sonrası ortaya çıkabilecek (Danıştay Onuncu Dairesinin 25/12/2025 tarihli ve E.:2025/3198 sayılı kararı ile yürütmesi durdurulan ibare: komplikasyon ve ) tıbbi kötü uygulamalar da bu sorumluluk kapsamındadır.
+(3) Uluslararası sağlık turistinin ülkemizde bulunduğu süre içinde alacağı sağlık hizmeti ve aracılık hizmetlerinden sağlık tesisi ve aracı kuruluş, sunulan hizmetin türüne bağlı olarak sorumludur. Sunulan sağlık hizmeti sonrası ortaya çıkabilecek **(Danıştay Onuncu Dairesinin 25/12/2025 tarihli ve E.:2025/3198 sayılı kararı ile yürütmesi durdurulan ibare:** <i>komplikasyon ve )</i> tıbbi kötü uygulamalar da bu sorumluluk kapsamındadır.
 
 (4) Sağlık tesisi ve aracı kuruluşlar sağlık turizmi alanında yapılan tüm şikayetlerin değerlendirilmesi suretiyle düzeltici önleyici faaliyet yapar ve gerekli iyileştirme faaliyetlerini yerine getirir.
 
@@ -183,7 +183,7 @@ süreyle yetki belgesi askıya alınır. Yetki belgesi askıya alınan sağlık 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Turistin Sağlığı
+**Turistin Sağlığı**
 
 #### Turistin sağlığı kapsamındaki hizmetler
 
@@ -197,7 +197,7 @@ Turistin Sağlığı
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Fiyatlandırma ve Fatura İşlemleri ile Tanıtım ve Bilgilendirme
+**Fiyatlandırma ve Fatura İşlemleri ile Tanıtım ve Bilgilendirme**
 
 #### Fiyatlandırma
 
@@ -229,7 +229,7 @@ b) Aracı kuruluş tarafından;
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Eğitim
 
@@ -275,4 +275,4 @@ b) Aracı kuruluş tarafından;
 
 **MADDE 19 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## T.C. SAĞLIK BAKANLIĞI Tedavi Hizmetleri Genel Müdürlüğü SAYI : B100THG0100002/3120-3699 20.02.2002
 
-KONU : Yataklı Tedavi Kurumlarında yatan
+**KONU :** Yataklı Tedavi Kurumlarında yatan
 
 hastalara ilişkin uygulamalar
 

@@ -24,7 +24,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -76,7 +76,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Madde Bağımlılığı Bilim Komisyonu
+**Madde Bağımlılığı Bilim Komisyonu**
 
 #### Komisyonun teşkili
 
@@ -116,7 +116,7 @@ d) Bakanlıkça belirlenecek diğer konularda görüş bildirmek.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Yataklı ve Ayakta Tedavi Merkezlerinin Kurulması
+**Yataklı ve Ayakta Tedavi Merkezlerinin Kurulması**
 
 #### Kurulma
 
@@ -154,9 +154,9 @@ Yataklı ve Ayakta Tedavi Merkezlerinin Kurulması
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Yataklı Tedavi Merkezlerinin Sahip Olması Gereken Fiziki Şartlar ve
+**Yataklı Tedavi Merkezlerinin Sahip Olması Gereken Fiziki Şartlar ve**
 
-Personel Durumu
+**Personel Durumu**
 
 #### Bina durumu
 
@@ -238,7 +238,7 @@ Personel Durumu
 
 ### BEŞİNCİ BÖLÜM
 
-Ayakta Tedavi Merkezlerinde Bulundurulması Gereken Bölümler
+**Ayakta Tedavi Merkezlerinde Bulundurulması Gereken Bölümler**
 
 #### Poliklinik ve görüşme odası
 
@@ -260,7 +260,7 @@ Ayakta Tedavi Merkezlerinde Bulundurulması Gereken Bölümler
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Eğitim verecek merkezlerin tespiti
 
@@ -300,4 +300,4 @@ Ayakta Tedavi Merkezlerinde Bulundurulması Gereken Bölümler
 
 **MADDE 28 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Yönetmeliğin ekleri için tıklayınız
+**Yönetmeliğin ekleri için tıklayınız**

@@ -17,11 +17,11 @@ durum: "yürürlükte"
 
 ## BİRİNCİ KISIM AMAÇ KAPSAM VE TANIMLAR:
 
-MADDE l. Bu Yönetmelik 4.1.1941 tarih ve 3959 sayılı Türkiye Cumhuriyeti Merkez Hıfzıssıhha Müessesesi Teşkiline Dair Kanunun 12'nci maddesi uyarınca hazırlanmış olup, Türkiye Cumhuriyeti Refik Saydam Merkez Hıfzıssıhha Müessesesinin kuruluş, görev, yetki, sorumluluk, yönetsel ve bilimsel çalışma esaslarını düzenlemektir.
+**MADDE l.** Bu Yönetmelik 4.1.1941 tarih ve 3959 sayılı Türkiye Cumhuriyeti Merkez Hıfzıssıhha Müessesesi Teşkiline Dair Kanunun 12'nci maddesi uyarınca hazırlanmış olup, Türkiye Cumhuriyeti Refik Saydam Merkez Hıfzıssıhha Müessesesinin kuruluş, görev, yetki, sorumluluk, yönetsel ve bilimsel çalışma esaslarını düzenlemektir.
 
 ### TANIMLAR:
 
-MADDE 2. Bu Yönetmelikte geçen:
+**MADDE 2.** Bu Yönetmelikte geçen:
 
 "Bakanlık" sözünden Sağlık ve Sosyal Yardım Bakanlığı,
 
@@ -33,11 +33,11 @@ MADDE 2. Bu Yönetmelikte geçen:
 
 ### KURULUŞ YE GÖREVLER:
 
-MADDE 3. Müessese Bakanlığa bağlı bir kuruluş olup, Enstitü ile Okul'dan oluşur. Müessese Enstitü Müdürü tarafından yönetilir.
+**MADDE 3.** Müessese Bakanlığa bağlı bir kuruluş olup, Enstitü ile Okul'dan oluşur. Müessese Enstitü Müdürü tarafından yönetilir.
 
 ## İKİNCİ KISIM MÜESSESENİN TEMEL GÖREV VE İŞLEVLERİ :
 
-MADDE 4. Müessesenin temel görevleri ve işlevleri şunlardır:
+**MADDE 4.** Müessesenin temel görevleri ve işlevleri şunlardır:
 
 1)Çeşitli aşı ve serumlarla, kan ürünleri antijen ve antiserumları üretmek. Bakanlığın gerekli göreceği diğer biyolojik ve kimyasal preparatları hazırlamak,
 
@@ -67,13 +67,13 @@ MADDE 4. Müessesenin temel görevleri ve işlevleri şunlardır:
 
 14)Halk sağlığı hizmetlerinin yürütülüşünde yarar sağlıyabilecek erken tanı, korunma ve tedavi konularında epidemiyolojik alan uygulamaları ve laboratuvar incelemeleri yapmak,
 
-Organlar ve Bunların Nitelik, Görev, Yetki ve Sorumlulukları:
+**Organlar ve Bunların Nitelik, Görev, Yetki ve Sorumlulukları:**
 
 ### ENSTİTÜ MÜDÜRÜ:
 
-MADDE 5. Enstitü Müdürü'nün uzman tıp doktoru olması, yabancı dillerden ingilizce, Almanca, Fransızca'dan en az birini bilmesi, enfeksiyon hastalıkları ve mikrobiyoloji dalında öncelik tanınmak üzere klinik laboratuvar dallarından birinde en az 10 yıllık uzman olması, ayrıca bilimsel yayınlarının bulunması gerekir. Aynı nitelikte olanlar arasından akademik unvanı olanlara öncelik tanınır.
+**MADDE 5.** Enstitü Müdürü'nün uzman tıp doktoru olması, yabancı dillerden ingilizce, Almanca, Fransızca'dan en az birini bilmesi, enfeksiyon hastalıkları ve mikrobiyoloji dalında öncelik tanınmak üzere klinik laboratuvar dallarından birinde en az 10 yıllık uzman olması, ayrıca bilimsel yayınlarının bulunması gerekir. Aynı nitelikte olanlar arasından akademik unvanı olanlara öncelik tanınır.
 
-MADDE 6. Enstitü Müdürü, Müesseseyi yürürlükteki kanunlar, tüzükler ve yönetmelikler uyarınca yönetir. Aşağıdaki görevleri yapmak ve yaptırmakla yükümlü ve sorumludur.
+**MADDE 6.** Enstitü Müdürü, Müesseseyi yürürlükteki kanunlar, tüzükler ve yönetmelikler uyarınca yönetir. Aşağıdaki görevleri yapmak ve yaptırmakla yükümlü ve sorumludur.
 
 1)Müessese'nin her türlü işinin yürütülmesinde kurullar, bölümler, gruplar, birimler ve laboratuvarlar arasında işbirliğini kurar, görevlerin zamanında ve verimli biçimde yapılmasını sağlamak üzere gerekli önlemleri alır.
 
@@ -93,17 +93,17 @@ MADDE 6. Enstitü Müdürü, Müesseseyi yürürlükteki kanunlar, tüzükler ve
 
 ### ENSTİTÜ MÜDÜR YARDIMCILARI:
 
-MADDE 7. Enstitü Müdür Yardımcılarından birinin Enstitü Müdürünün niteliklerini taşıması, diğerlerinin üniversite mezunu olmaları gerekir. Enstitü Müdür Yardımcıları Enstitü Müdürü tarafından görevle ilgili olarak verilen işleri yaparlar.
+**MADDE 7.** Enstitü Müdür Yardımcılarından birinin Enstitü Müdürünün niteliklerini taşıması, diğerlerinin üniversite mezunu olmaları gerekir. Enstitü Müdür Yardımcıları Enstitü Müdürü tarafından görevle ilgili olarak verilen işleri yaparlar.
 
 ### OKUL MÜDÜRÜ
 
-MADDE 8. Okul Müdürünün tıp doktoru ve Okul hizmetleri ile ilgili bir dalda en az 10 yıllık uzman olması gerekir.
+**MADDE 8.** Okul Müdürünün tıp doktoru ve Okul hizmetleri ile ilgili bir dalda en az 10 yıllık uzman olması gerekir.
 
-MADDE 9. Okul Müdürü, Okulu yürürlükteki kanun, tüzük ve yönetmelikler uyarınca yönetir. Okul un her türlü işlerinin yürütülmesinde Okul birimleri arasında işbirliğini sağlar. Enstitü Müdürünün onayı ile Okul-dışı temas ve anlaşmaları yürütür, Okul Kurulunu toplar ve başkanlığını yapar.
+**MADDE 9.** Okul Müdürü, Okulu yürürlükteki kanun, tüzük ve yönetmelikler uyarınca yönetir. Okul un her türlü işlerinin yürütülmesinde Okul birimleri arasında işbirliğini sağlar. Enstitü Müdürünün onayı ile Okul-dışı temas ve anlaşmaları yürütür, Okul Kurulunu toplar ve başkanlığını yapar.
 
 ### GENEL SEKRETER
 
-MADDE 10. Enstitü ve Okul Genel Sekreterleri Müessese hizmetleri ile ilgili uzmanlık dallarında uzman olanlardan veya yüksek öğrenimi olanlardan ve tercihan yabancı dil bilenler arasından seçilir ve Enstitü Müdürünün önerisi üzerine Bakanlıkça atanır. Genel Sekreterler aşağıdaki görevlerin yerine getirilmesinde Enstitü Müdürüne karşı sorumludur:
+**MADDE 10.** Enstitü ve Okul Genel Sekreterleri Müessese hizmetleri ile ilgili uzmanlık dallarında uzman olanlardan veya yüksek öğrenimi olanlardan ve tercihan yabancı dil bilenler arasından seçilir ve Enstitü Müdürünün önerisi üzerine Bakanlıkça atanır. Genel Sekreterler aşağıdaki görevlerin yerine getirilmesinde Enstitü Müdürüne karşı sorumludur:
 
 1)Yönetsel konularda İşbirliğini sağlar,
 
@@ -117,15 +117,15 @@ MADDE 10. Enstitü ve Okul Genel Sekreterleri Müessese hizmetleri ile ilgili uz
 
 6)İstatistik hizmetleri ile tercüme işlerini düzenler.
 
-MADDE 11. Enstitü Müdürü, Okul Müdürü ve yardımcıları meslek ve uzmanlık dalları ile ilgili bir laboratuvarda görev alabilir veya çalışmalara katılabilirler.
+**MADDE 11.** Enstitü Müdürü, Okul Müdürü ve yardımcıları meslek ve uzmanlık dalları ile ilgili bir laboratuvarda görev alabilir veya çalışmalara katılabilirler.
 
 ### DANIŞMA KURULU
 
-MADDE 12. Danışma Kurulu, Enstitü Müdürü'nün başkanlığında Okul Müdürü, Müdür Yardımcıları, Genel Sekreterler, Bolüm ve Grup Başkanları, Serum Çiftliği Müdürü'nden oluşur. Danışma Kurulu Enstitü Müdürü nün çağrısı veya yılda en az 4 kez toplanır.
+**MADDE 12.** Danışma Kurulu, Enstitü Müdürü'nün başkanlığında Okul Müdürü, Müdür Yardımcıları, Genel Sekreterler, Bolüm ve Grup Başkanları, Serum Çiftliği Müdürü'nden oluşur. Danışma Kurulu Enstitü Müdürü nün çağrısı veya yılda en az 4 kez toplanır.
 
 ### DANIŞMA KURULUNUN GÖREVLERİ
 
-MADDE 13. Danışma kurulunun görevleri şunlardır:
+**MADDE 13.** Danışma kurulunun görevleri şunlardır:
 
 1)Müessese'nin yönetimi ile üretim, eğitim, araştırma ve kontrol hizmetlerinin genel politikasında görüşlerini belirtir ve gerekli istişari kararları alır,
 
@@ -135,7 +135,7 @@ MADDE 13. Danışma kurulunun görevleri şunlardır:
 
 ### DENETLEME KURULU
 
-MADDE 14. Denetleme Kurulu Müesseseye bağlı olan Enstitü şube ve laboratuvarlarının bilimsel denetimlerinden sorumlu ve yükümlü bir kuruldur. Müessese’nin bölüm ve grup başkanlarından oluşur. Enstitü Müdürüne karşı sorumludur, görevleri şunlardır:
+**MADDE 14.** Denetleme Kurulu Müesseseye bağlı olan Enstitü şube ve laboratuvarlarının bilimsel denetimlerinden sorumlu ve yükümlü bir kuruldur. Müessese’nin bölüm ve grup başkanlarından oluşur. Enstitü Müdürüne karşı sorumludur, görevleri şunlardır:
 
 1)Enstitü şube ve laboratuvarlarının periyodik bilimsel kontrollarını yapmak, gerektikçe bu İşlevleri yürütecek çalışma grupları kurmak, bu laboratuvarlara bilinen örnekleri göndererek analiz sonuçlarını istemek ve değerlendirerek gerekli uyarı ve bilimsel düzenlemeleri yapmak,
 
@@ -147,13 +147,13 @@ MADDE 14. Denetleme Kurulu Müesseseye bağlı olan Enstitü şube ve laboratuva
 
 ### BİLİM KURULU
 
-MADDE 15. Bilim Kurulu, Müessese'nin temel hizmet alanları olan üretim, kontrol ve tanı gruplarından danışma kurulunca önerilerek Enstitü Müdürü tarafından seçilecek 3 uzman, Enstitü Müdürünün seçeceği 2 uzman, Okul Müdürü ve Bölüm Başkanları arsasından seçeceği 3 uzman, 2 Bakanlık temsilcisi, Üniversitelerarası Kurulca yurdumuzdaki üniversitelerin ilgili bilim dallarına, Mikrobiyoloji, Farmakoloji, Biyokimya, Eczacılık ve Kimya bilim dallarına mensup öğretim üyeleri arasından seçilecek 5 uzmandan oluşur. Enstitü Müdürü kurulun tabii üyesi ve başkanıdır. Kurul raportörlüğünü Enstitü Genel Sekreteri yapar. Oy hakkı yoktur. Kurul, yarıdan bir fazlasının mevcudiyeti halinde toplanır ve kararlar oy çokluğu ile alınır.
+**MADDE 15.** Bilim Kurulu, Müessese'nin temel hizmet alanları olan üretim, kontrol ve tanı gruplarından danışma kurulunca önerilerek Enstitü Müdürü tarafından seçilecek 3 uzman, Enstitü Müdürünün seçeceği 2 uzman, Okul Müdürü ve Bölüm Başkanları arsasından seçeceği 3 uzman, 2 Bakanlık temsilcisi, Üniversitelerarası Kurulca yurdumuzdaki üniversitelerin ilgili bilim dallarına, Mikrobiyoloji, Farmakoloji, Biyokimya, Eczacılık ve Kimya bilim dallarına mensup öğretim üyeleri arasından seçilecek 5 uzmandan oluşur. Enstitü Müdürü kurulun tabii üyesi ve başkanıdır. Kurul raportörlüğünü Enstitü Genel Sekreteri yapar. Oy hakkı yoktur. Kurul, yarıdan bir fazlasının mevcudiyeti halinde toplanır ve kararlar oy çokluğu ile alınır.
 
 Bilim kurulunun görev süresi 3 yıldır. Üyeler tekrar seçilebilirler. Kurul, yılda en az 3 kez belirli aralıklarla ve gerektiğinde Enstitü Müdürünün daveti ile toplanır.
 
 ### BİLİM KURULUNUN GÖREVLERİ
 
-MADDE 16. Bilim Kurulu
+**MADDE 16.** Bilim Kurulu
 
 1)Müessese'nin bilimsel çalışma ve yönelişleri için önerilerini belirleyerek Enstitü Müdürüne iletir,
 
@@ -165,11 +165,11 @@ MADDE 16. Bilim Kurulu
 
 ### OKUL KURULU:
 
-MADDE 17. Okul Kurulu, Okul bölüm başkanlarından oluşur. Okul Müdürü, yardımcısı Okul Kurulu'nun tabii üyesidir. Kurul, ayda bir kez Okul Müdürünün başkanlığında toplanır.
+**MADDE 17.** Okul Kurulu, Okul bölüm başkanlarından oluşur. Okul Müdürü, yardımcısı Okul Kurulu'nun tabii üyesidir. Kurul, ayda bir kez Okul Müdürünün başkanlığında toplanır.
 
 ### OKUL KURULUNUN GÖREVLERİ
 
-MADDE 18. Okul Kurulu
+**MADDE 18.** Okul Kurulu
 
 1)Okul'un öğretim ve eğitim programlarının hazırlanması yurtiçi ve yurtdışı toplantılara katılacak okul temsilcilerinin ve yurtdışına gönderilecek kursiyerlerin seçilmesini sağlamak,
 
@@ -179,11 +179,11 @@ MADDE 18. Okul Kurulu
 
 ### SİVİL SAVUNMA UZMANLIĞI
 
-MADDE 19. Sivil savunma uzmanı, Özel kanun ve yönetmelikleri uyarınca görev yapar.
+**MADDE 19.** Sivil savunma uzmanı, Özel kanun ve yönetmelikleri uyarınca görev yapar.
 
 ### SÜREKLİ VE SÜRELİ KOMİSYONLAR
 
-MADDE 20. Sürekli ve süreli komisyonlar şunlardır.
+**MADDE 20.** Sürekli ve süreli komisyonlar şunlardır.
 
 1)Yayın ve Kitaplık Komisyonu
 
@@ -195,17 +195,17 @@ MADDE 20. Sürekli ve süreli komisyonlar şunlardır.
 
 Müessesede, bunlara ek olarak ihtiyaçlar için başka komisyonlar da kurulabilir.
 
-MADDE 21. Müessese hizmetlerinin istenilen düzeyde yürütülmesini sağlamak amacıyla kurulmuş veya ihtiyaca göre kurulacak olan ve yönetmelikte sözü edilmeyen birimlerin faaliyetlerine devam edilir ve hazırlanacak bir hizmet yönergesi ile bunların görevleri belirlenir.
+**MADDE 21.** Müessese hizmetlerinin istenilen düzeyde yürütülmesini sağlamak amacıyla kurulmuş veya ihtiyaca göre kurulacak olan ve yönetmelikte sözü edilmeyen birimlerin faaliyetlerine devam edilir ve hazırlanacak bir hizmet yönergesi ile bunların görevleri belirlenir.
 
 ### MÜESSESE'NİN BİLİMSEL HİZMET BÖLÜMLERİ:
 
-MADDE 22. Müessese, bilimsel hizmetlerini bölümler ve lâboratuvarlarla yürütür. Ancak, yurt ihtiyaçlarına ve dünya'daki gelişmelere paralel olarak, gerektikçe yeni bölümler ve lâboratuvarlar kurulabilir. Mevcut bölüm, grup ve lâboratuvarların nitelik, görev, yetki ve işlevleri aşağıdaki maddelerde açıklanmıştır.
+**MADDE 22.** Müessese, bilimsel hizmetlerini bölümler ve lâboratuvarlarla yürütür. Ancak, yurt ihtiyaçlarına ve dünya'daki gelişmelere paralel olarak, gerektikçe yeni bölümler ve lâboratuvarlar kurulabilir. Mevcut bölüm, grup ve lâboratuvarların nitelik, görev, yetki ve işlevleri aşağıdaki maddelerde açıklanmıştır.
 
-MADDE 23. Biyolojik Maddeler Üretim Lâboratuvarları Bölümü:
+**MADDE 23.** Biyolojik Maddeler Üretim Lâboratuvarları Bölümü:
 
 Bu bölümde her türlü aşı, serum, kan ürünleri ve besiyerleri üretim hizmetleri ile bunlara bağlı araştırma ve eğitim hizmetleri yürütülür.
 
-1)Bakteri ve Toksoid Aşılar Laboratuvannın görevleri:
+**1)Bakteri ve Toksoid Aşılar Laboratuvannın görevleri:**
 
 A-Koruyucu hekimlik yönünden önemli olan çeşitli bakteri, tifo, paratifo, kolera, boğmaca gibi aşılarla difteri ve tetanoz aşıları gibi anatoksinleri üretilir,
 
@@ -219,7 +219,7 @@ E-Kontrol metodlarının geliştirilmesinde, Türkiye Ulusal Standartlarının t
 
 F-Aşı uygulamaları ve immünoloji konuları üzerinde bilimsel görüşlerini açıklar, çalışmalara katılır.
 
-2) Serum Üretim ve İmmünoloji Laboratuvarının görevleri:
+**2) Serum Üretim ve İmmünoloji Laboratuvarının görevleri:**
 
 A-Kontrol metodlarının geliştirilmesinde ve Türkiye Ulusal Standartlarının tespitinde, Biyolojik Kontrol Laboratuvarıyla işbirliğinde bulunur,
 
@@ -237,7 +237,7 @@ G-Üretilen serumları pürifiye ve konsantre eder,
 
 H-Serum üretim ve kontrol metodları üzerinde bilimsel araştırmalar yaparak metodları geliştirir ve standardize eder.
 
-3) BCG Aşısı Üretim Lâboratuvarının görevleri:
+**3) BCG Aşısı Üretim Lâboratuvarının görevleri:**
 
 A-Verem savaşında koruyucu olarak kullanılmakta olan BCG aşısını hazırlar,
 
@@ -249,7 +249,7 @@ D-Üretilen aşıların kontrolünü yapar ve standardizasyonunu sağlar,
 
 E-Aşı dağıtım ve gönderme işlerini yürütür ve yardımcı olur.
 
-4) Virüs Aşıları Üretim Laboratuvarının görevi:
+**4) Virüs Aşıları Üretim Laboratuvarının görevi:**
 
 A-Kuduz aşısı üretimi ve kontrollarını ve aşı üretim metodlarını geliştirmek amacı ile laboratuvar ve alan araştırmaları yapar. Kuduz antiserumu üretimi için gerekli antijenleri hazırlar. Üretilen aşı ve serumların standardizasyonunu sağlar,
 
@@ -265,7 +265,7 @@ F-Asistan, kursiyer ve stajyerlerin ilgili konularda eğitimi için yardımcı o
 
 G-Polio, kızamık, kızamıkçık gibi diğer virüs aşılarının da kontrol ve üretimi için gerekli çalışmaları yapar.
 
-5) Kan Ürünleri Üretim Lâboratuvarının görevleri:
+**5) Kan Ürünleri Üretim Lâboratuvarının görevleri:**
 
 A-Ham madde olan kanı sağlar, ayırım ve sınıflandırılmasını yapar, uygun şartlarda saklar,
 
@@ -279,7 +279,7 @@ E-Bölümde üretilen, yurtta üretilen ve yabancı ülkelerden piyasaya sürül
 
 F-Plazma komponentleri ile elektrolitlerin dozajlarını tesbit eder ve gösterir.
 
-6) Antijen ve Antiserum Üretim Lâboratuvarının görevi:
+**6) Antijen ve Antiserum Üretim Lâboratuvarının görevi:**
 
 A-Mikrobiyolojik standart yöntemlerin uygulanmasında kullanılan antijen ve antiserumları üretir, bölge ve çevre laboratuvarlarına gönderir,
 
@@ -289,15 +289,15 @@ C-Bunların ilgili labaoratuvarlarla iş ve güç birliği içinde liyofılizasy
 
 D-Geliştirilecek metodlarla antijen ve antiserumları hazırlar.
 
-7) Besiyerleri Üretim Lâboratuvarının görevi:
+**7) Besiyerleri Üretim Lâboratuvarının görevi:**
 
 A-Her türlü besiyerlerini hâzırlar ve gerekli hizmetleri yapar.
 
-MADDE 24. Tanı Lâboratuvarları Bölümü:
+**MADDE 24.** Tanı Lâboratuvarları Bölümü:
 
 Tanı lâboratuvarları, ilgili konularda referans lâboratuvarı olarak da iş görürler. Gerektiğinde güncel konuları da incelerler. Bu lâboratuvarlar metod geliştirme ve yöntemlerin yurt çapında standardizasyonunda görev alırlar; il ve ilçe lâboratuvarlarının bilimsel konularda eğitim ve denetim hizmetlerine katılırlar.
 
-1)Mikrobiyoloji Lâboratuvarının görevleri:
+**1)Mikrobiyoloji Lâboratuvarının görevleri:**
 
 A-Genel bakteriyolojik incelemeleri yapar,
 
@@ -317,13 +317,13 @@ H-Su ve besin maddelerinin bakteriyolojik kontrollarını yapar.
 
 Bu işlevlerin yürütülebilmesi için, gerektiğinde bu lâboratuvarlara bağlı olarak yeteri kadar özel alt birimler ve lâboratuvarlar kurularak örgütlendirilir. Ulusal ve uluslararası bilimsel kuruluşlarla işbirliği kurarak, Türkiye Ulusal Referans Merkezlerinin kurulmasına katılır.
 
-2) Viroloji Lâboratuvarının görevleri:
+**2) Viroloji Lâboratuvarının görevleri:**
 
 A-Viral ve Riketsiyal hastalıkların serolojik yöntemler ve izolasyon deneyleri ile tanımını yaparlar. Bu amaçla, doku kültürü, embriyonlu yumurta, deney hayvanları ve diğer yöntemlerle ilgili lâboratuvarları kurarlar,
 
 B-Ulusal ve uluslararası bilimsel kuruluşlar nezdinde Türkiye Ulusal İnflüenza Merkezi görevini yapar. Bu amaçla inflüenza konusunda tanım ve epidemiyolojik araştırma yapar. Ulusal inflüenza Merkezi ile sürekli bağlantı sağlıyarak bilgi alışverişinde bulunur.
 
-3) Kültür Kolleksîyon Lâboratuvarının görevleri:
+**3) Kültür Kolleksîyon Lâboratuvarının görevleri:**
 
 A-Lâboratuvara yurdun tüm kuruluşları ve kişiler tarafından gönderilen suşların tanısını kontrol eder.
 
@@ -335,23 +335,23 @@ D-İstek halinde, suşları üretme ve saklama tarihleri ile birlikte sahiplerin
 
 E-Ulusal ve uluslararası benzer kuruluşlarla işbirliği yaparak, bilimsel çalışmalar için kesinlikle gerekli olan tüm suşları biriktirir ve kullanmaya hazır bulundurur.
 
-4) Biyokimya Lâboratuvarının görevleri:
+**4) Biyokimya Lâboratuvarının görevleri:**
 
 A-Her türlü kan ve idrar analizlerini yapar,
 
 B-Değişik amaçlarla Müesseseye gönderilen her türlü maddenin biyokimyasal analizlerini yapar.
 
-5) Hematoloji lâboratuvarının görevleri:
+**5) Hematoloji lâboratuvarının görevleri:**
 
 A-Rutin hematolojik lâboratuvar incelemeleri yapar,
 
 B-Kan gruplandırmada kullanılan test serumlarının üretimine yardımcı olur.
 
-MADDE 25. Besin, ilaç ve Biyolojik Maddeler Kontrol Laboratuvarlar Bölümü:
+**MADDE 25.** Besin, ilaç ve Biyolojik Maddeler Kontrol Laboratuvarlar Bölümü:
 
 Bu bölümde farmakolojik, biyolojik, kimyasal ve her türlü besin maddeleri ile ihtiyaç maddelerinin, ensektisit ve pestisitlerin analiz ve araştırmaları yapılır.
 
-1)Farmakoloji Lâboratuvarının görevleri:
+**1)Farmakoloji Lâboratuvarının görevleri:**
 
 A-Tedavide kullanılan ilaçların etkin maddelerinin biyolojik etkinlik ve dozajlarını belirtir ve açıklar,
 
@@ -371,7 +371,7 @@ H-Günlük işlerin yanısıra bilimsel araştırmalara ağırlık verir,
 
 I-İlaç satın alma konularında, şartname hazırlama ve ilaç ruhsat komisyonlarına, ilaç ve pestisit ruhsat komisyonlarına da katılır,
 
-2) İlâç Kontrol Lâboratuvarının görevleri:
+**2) İlâç Kontrol Lâboratuvarının görevleri:**
 
 A-Memleketimizde üretilen ve dış ülkelerden satın alınacak olan tıbbi ve veteriner preparatlara ruhsat verilebilmesi için gönderilen ilâç örneklerinin,
 
@@ -403,7 +403,7 @@ L-Uluslararası kuruluşların daveti ile uluslararası standartların tespiti i
 
 M-İlaçlarla ilgili konularda seminerler düzenler ve dış ülkelerdeki benzer seminerlere katılır, dış ülkelerdeki İlaç Kontrol Enstitüleri ile bilgi alış verişinde bulunur.
 
-3) Biyolojik Maddeler Kontrol Laboratuvarının görevleri:
+**3) Biyolojik Maddeler Kontrol Laboratuvarının görevleri:**
 
 Uluslararası kuruluşların öneri ve uyarıları doğrultusunda "Ulusal Asgari Düzeyleri" belirleyerek, bunların ışığı altında, aşağıdaki işlevleri yürütür.
 
@@ -415,7 +415,7 @@ C-Bakanlığın dış ülkelerden satın aldığı aşı, serum ve diğer biyolo
 
 D-Yerli ve yabancı her çeşit biyolojik preparatlarla, tıpta kullanılan katgüt, enjeksiyon setleri gibi araç ve gereçlerin sterilite ve zararsızlık kontrollarını yapar.
 
-4) Kimyasal Analiz Laboratuvarının görevleri:
+**4) Kimyasal Analiz Laboratuvarının görevleri:**
 
 A-Her türlü gıda ve ihtiyaç maddelerinin analizlerini yapar,
 
@@ -435,7 +435,7 @@ H-Yurdun, gıda ve bilimsel teknolojik hizmetlerinde, gerekli çalışmalarda g�
 
 I-İnsan beslenmesi ile İlgili çalışmalara katkıda bulunur, gerektiğinde deneysel çalışmalar yapar.
 
-5) Ensektisit ve Pestisit Laboratuvarının görevleri:
+**5) Ensektisit ve Pestisit Laboratuvarının görevleri:**
 
 A-Gıdaların üzerinde kalan ve içine geçen pestisit artıklarını tespit ederek ilgili kanunlara uygunluk derecesini araştırır,
 
@@ -449,7 +449,7 @@ E-Pestisitlerle zehirlenmelerde kişisel ve toplumsal erken tam ve erken tedaviy
 
 F-Pestisitlerle çevre bulaşması ve toplumsal sorunlarında, kanunların düzenlenmesinde, Bakanlık ile Tanm ve Orman Bakanlıklarına yardımcı olur.
 
-MADDE 26. Halk Sağlığı idaresi ve Eğitim Bilimleri Bölümü:
+**MADDE 26.** Halk Sağlığı idaresi ve Eğitim Bilimleri Bölümü:
 
 Bu bölümde, fert ve toplumun sağlık konularındaki bilgi, tutum ve davranışlarının hijyen ve sağlık kurallarına uygun ve arzu edilen şekilde olması ve bir alışkanlık durumuna gelmesi, bunun sonucu olarak fert ve toplumun sıhhatli yaşaması için yapılması gereken çalışmaların prensip ve metodları araştırılır. Bu bölüm aşağıdaki şubelerden oluşur.
 
@@ -461,7 +461,7 @@ Bu bölümde, fert ve toplumun sağlık konularındaki bilgi, tutum ve davranı�
 
 4)Sosyal Bilimler.
 
-MADDE 27. Epidemiyoloji Eğitim Araştırma Bölümü:
+**MADDE 27.** Epidemiyoloji Eğitim Araştırma Bölümü:
 
 Bu bölümde enfeksiyon hastalıktan enfeksiyon dışı hastalıklar saha araştırmaları, tatbikat ve eğitimleri incelenir. Bu bölüm aşağıdaki şubelerden oluşur.
 
@@ -469,7 +469,7 @@ Bu bölümde enfeksiyon hastalıktan enfeksiyon dışı hastalıklar saha araşt
 
 2)İstatistik,
 
-MADDE 28. İş Sağlığı ve îş Güvenliği Bölümü:
+**MADDE 28.** İş Sağlığı ve îş Güvenliği Bölümü:
 
 Bu bölümde insan ile iş ilişkilerinin sağlık yönünden incelenmesi, çalışanlara sağlıkla ilgili her türlü sorunların halli konularında yapılacak çalışmaların prensip ve metodları tayin ve tespit edilir. Bu bölüm aşağıdaki şubelerden oluşur.
 
@@ -477,7 +477,7 @@ Bu bölümde insan ile iş ilişkilerinin sağlık yönünden incelenmesi, çal�
 
 2)İş Güvenliği,
 
-MADDE 29. Çevre Sağlığı Eğitim Araştırma Bölümü:
+**MADDE 29.** Çevre Sağlığı Eğitim Araştırma Bölümü:
 
 Bu bölümde çevre sağlığı bakımından insan sağlığına etki eden su, gıda hava, mesken, hela, kanalizasyon sağlığı ile Endüstri atıkları, çöpler ve değerlendirilmesi, kemiriciler ve vektör kontrolü, şehir ve köy plânlaması gibi konular araştırılır. Bu bölüm aşağıdaki şubelerden oluşur.
 
@@ -485,7 +485,7 @@ Bu bölümde çevre sağlığı bakımından insan sağlığına etki eden su, g
 
 2)Biyolojik Çevre Sağlığı
 
-MADDE 30. Besin ve Beslenme Bilimleri Eğitim Araştırma Bölümü: Bu bölümde beslenme hastalıkları epidemiyolojisi, diyebetik, beslenme biyokimyan ve patolojisi, gıda analizleri ve teknolojisi, fert ve toplumun beslenmelerinin rasyonel bir tarzda yapılması konulan incelenir. Bu bölüm aşağıdaki şubelerden oluşur.
+**MADDE 30.** Besin ve Beslenme Bilimleri Eğitim Araştırma Bölümü: Bu bölümde beslenme hastalıkları epidemiyolojisi, diyebetik, beslenme biyokimyan ve patolojisi, gıda analizleri ve teknolojisi, fert ve toplumun beslenmelerinin rasyonel bir tarzda yapılması konulan incelenir. Bu bölüm aşağıdaki şubelerden oluşur.
 
 1)Toplum Beslenmesi
 
@@ -495,7 +495,7 @@ EK MADDE l,
 
 EK MADDE 2 (SSYB Refik Saydam Merkez Hıfzıssıhha Müessesesi Hizmet Yönetmeliğine iki Ek Madde Eklenmesine Dair Yönetmelik uyarınca bu Yönetmeliğin 30'uncu maddesinden sonra yeralmak üzere iki ek madde eklenmiştir, bunun için bu Yönetmelik metni sonundaki eke bakınız.)
 
-MADDE 31. Deney Hayvanları Üretim Bölümünün görevleri:
+**MADDE 31.** Deney Hayvanları Üretim Bölümünün görevleri:
 
 1)Müessese laboratuvarlarının ihtiyacı olan tavşan, fare, kobay, sıçan ve benzeri laboratuvar deney hayvanlarını yetiştirir.
 
@@ -507,19 +507,19 @@ MADDE 31. Deney Hayvanları Üretim Bölümünün görevleri:
 
 5)İlgili konular üzerinde bilimsel çalışmalara katılır ve araştırmalar yapar.
 
-MADDE 32. Serum Çiftliği:
+**MADDE 32.** Serum Çiftliği:
 
 Bu bölümde ihtiyaç duyulan her türlü serum ve deney hayvanlarının üretimi, bakımı ile çeşitli serumların üretim ve kontrolü temin edilir. Serum Çiftliği Müdürü, çiftlikteki bütün yönetsel görevlerden sorumludur.
 
-MADDE 33. Hıfzıssıhha Enstitüleri Şubeleri:
+**MADDE 33.** Hıfzıssıhha Enstitüleri Şubeleri:
 
 Merkez Hıfzıssıhha Müessesesi'nin görevleri arasında sayılan, halk sağlığı ile ilgili laboratuvar hizmetlerini yapmakla yükümlüdür. Enstitü Şube Müdürleri, teknik ve mali yönden Enstitü Müdürlüğüne karşı sorumludurlar. Enstitü Şube Müdürleri bu yönetmelik ve hazırlanacak özel yönergelerle hizmeti yürütürler.
 
-MADDE 34. Bilimsel gelişmelere ve ihtiyaçlara paralel olarak Merkezde yeni üretim ve araştırma birimleri, taşrada Enstitü Şubeleri açılabilir.
+**MADDE 34.** Bilimsel gelişmelere ve ihtiyaçlara paralel olarak Merkezde yeni üretim ve araştırma birimleri, taşrada Enstitü Şubeleri açılabilir.
 
-Bölüm Başkanlarının Nitelikleri, Görev, Yetki ve Sorumlulukları:
+**Bölüm Başkanlarının Nitelikleri, Görev, Yetki ve Sorumlulukları:**
 
-MADDE 35. Bölüm Başkanlarının Nitelikleri:
+**MADDE 35.** Bölüm Başkanlarının Nitelikleri:
 
 Bölüm .başkanları ve Enstitü Şube Müdürleri, görevi gerektirdiği bilim dalında uzman olanlar, ya da kendi alanlarında doktora yapmış olanlardan en az bir yabancı dili bilen ve orijinal bilimsel yayınlan olanlar arasından seçilerek atanır. Bu seçimde, ilgili bilim dalı laboratuvarlarında tercihan 5 yıl çalışma koşulu aranır.
 
@@ -549,7 +549,7 @@ Bütün ilgili bolüm başkanlarının ve Enstitü şube müdürlerinin tıp dok
 
 Laboratuvar Şeflerinin Nitelik, Görev, Yetki ve Sorumlulukları:
 
-MADDE 36. Laboratuvar Şefleri:
+**MADDE 36.** Laboratuvar Şefleri:
 
 Görevin gerektirdiği bilim dalında uzman olmuş, en az bir yabancı dil bilen, orjinal ve bilimsel yayınlan olanlar arasından ve ilgili bilim dalında ve laboratuvarında, uzmanlar için tercihan 4, diğerleri için tercihan 7 yıl çalışanlar arasından seçilerek atanır. Mikrobiyoloji, Hematoloji, Biyokimya, Farmakoloji laboratuvarlarının şeflerinin tıp doktoru olması zorunludur.
 
@@ -557,31 +557,31 @@ Laboratuvar şefleri, laboratuvarları kanunlar, tüzükler, yönetmelik ve yön
 
 ## İKİNCİ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 ### KALDIRILAN HÜKÜMLER:
 
-MADDE 37. 26 Aralık 1967 gün ve 12786 sayılı Resmi Gazete'de yayımlanan Sağlık ve Sosyal Yardım Bakanlığı Hıfzıssıhha Okulu Çalışma Yönetmeliği ile 24 Eylül 1971 gün ve 13966 sayılı Resmi Gazete'de yayımlanan Sağlık ve Sosyal Yardım Bakanlığı Hıfzıssıhha Okulu Çalışma Yönetmeliğinin 2 ve 3 üncü maddelerinin değiştirilmesi hakkında yönetmelik hükümleri yürürlükten kaldırılmıştır.
+**MADDE 37.** 26 Aralık 1967 gün ve 12786 sayılı Resmi Gazete'de yayımlanan Sağlık ve Sosyal Yardım Bakanlığı Hıfzıssıhha Okulu Çalışma Yönetmeliği ile 24 Eylül 1971 gün ve 13966 sayılı Resmi Gazete'de yayımlanan Sağlık ve Sosyal Yardım Bakanlığı Hıfzıssıhha Okulu Çalışma Yönetmeliğinin 2 ve 3 üncü maddelerinin değiştirilmesi hakkında yönetmelik hükümleri yürürlükten kaldırılmıştır.
 
 ### GEÇİCİ HÜKÜMLER:
 
-GEÇİCİ MADDE 1. Bu yönetmeliğin yürürlüğe girdiği tarihten önce Enstitü ve Okul Kadrolarına atanmış olup halen görev yapmakta olanların durumları gözden geçirilip, kanunlarla tanınan özlük haklan saklı olmak üzere, Enstitü Müdürü'nün önerilerine dayanarak Bakanlıkça gerekli görülen düzenlemeler yapılabilir.
+**GEÇİCİ MADDE 1.** Bu yönetmeliğin yürürlüğe girdiği tarihten önce Enstitü ve Okul Kadrolarına atanmış olup halen görev yapmakta olanların durumları gözden geçirilip, kanunlarla tanınan özlük haklan saklı olmak üzere, Enstitü Müdürü'nün önerilerine dayanarak Bakanlıkça gerekli görülen düzenlemeler yapılabilir.
 
 ### YÜRÜRLÜK MADDESİ:
 
-MADDE 38. Bu yönetmelik Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer.
+**MADDE 38.** Bu yönetmelik Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer.
 
 ### YÜRÜTME MADDESİ:
 
-MADDE 39. Bu yönetmelik hükümlerini Sağlık ve Sosyal Yardım Bakanı yürütür.
+**MADDE 39.** Bu yönetmelik hükümlerini Sağlık ve Sosyal Yardım Bakanı yürütür.
 
 ### SAĞLIK VE SOSYAL YARDIM BAKANLIĞI REFİK SAYDAM MERKEZ HIFZISSIHHA MÜESSESESİ HİZMET YÖNETMELİĞİNE İKİ EK MADDE EKLENMESİNE DAİR YÖNETMELİK
 
-(10.1.1983 gün ve 17924 sayılı Resmi Gazete'de yayımlanmıştır.)
+**(10.1.1983 gün ve 17924 sayılı Resmi Gazete'de yayımlanmıştır.)**
 
-MADDE 1. 19 Ekim 1982 tarihli Resmi Gazete'de yayımlanmak suretiyle yürürlüğe giren Sağlık ve Sosyal Yardım Bakanlığı Refik Saydam Merkez Hıfzıssıhha Müessesesi Hizmet Yönetmeliğine 30uncu maddesinden sonra yeralmak üzere aşağıdaki iki ek madde eklenmiştir.
+**MADDE 1.** 19 Ekim 1982 tarihli Resmi Gazete'de yayımlanmak suretiyle yürürlüğe giren Sağlık ve Sosyal Yardım Bakanlığı Refik Saydam Merkez Hıfzıssıhha Müessesesi Hizmet Yönetmeliğine 30uncu maddesinden sonra yeralmak üzere aşağıdaki iki ek madde eklenmiştir.
 
-EK MADDE 1. Tüberküloz-Göğüs Hastalıkları Eğitim ve Araştırma Bölümü:
+**EK MADDE 1.** Tüberküloz-Göğüs Hastalıkları Eğitim ve Araştırma Bölümü:
 
 Bu bölümde halk sağlığı sorunu olan Tüberküloz ve Tüberküloz dışı göğüs hastalıkları konularında epidemiyolojik araştırma, metod geliştirme ve bu alanda çalışacak sağlık personeline uygulamalı eğitim yapılır.
 
@@ -595,7 +595,7 @@ l-Tüberküloz - Göğüs Hastalıkları :Dispanser Hizmetleri Şubesi.
 
 4-Hemşirelik ve Sosyal Yardım Hizmetleri Şubesi.
 
-EK MADDE 2. Ana ve Çocuk Sağlığı—Nüfus Planlaması Bölümü:
+**EK MADDE 2.** Ana ve Çocuk Sağlığı—Nüfus Planlaması Bölümü:
 
 Bu bölümde halk sağlığı sorunu olan ana-çocuk sağlığı ve nüfus planlaması konularında araştırmalarda bulunulur, bu alanda çalışacak personele uygulamalı eğitim yapılır.
 
@@ -607,11 +607,11 @@ Bu bölüm aşağıdaki şubelerden oluşur:
 
 ### YÜRÜRLÜK:
 
-MADDE 2. Bu Yönetmelik hükümleri Resmi Gazete İle yayımlandığı tarihte yürürlüğe girer.
+**MADDE 2.** Bu Yönetmelik hükümleri Resmi Gazete İle yayımlandığı tarihte yürürlüğe girer.
 
 ### YÜRÜTME:
 
-MADDE 3. Bu Yönetmelik hükümlerini Sağlık ve Sosyal Yardım Bakanı yürütür.
+**MADDE 3.** Bu Yönetmelik hükümlerini Sağlık ve Sosyal Yardım Bakanı yürütür.
 
 (*) Bu kurumun adı, 23.12,1983 gün ve 181 sayılı KHK'nin geçici 6'ncı maddesiyle "Refik Saydam Hıfzıssıhha Merkezî Başkanlığı" olarak değiştirilmiştir.
 

@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak, Tanımlar ve İlkeler
+**Amaç, Kapsam, Dayanak, Tanımlar ve İlkeler**
 
 #### Amaç
 
@@ -41,17 +41,17 @@ b) Hasta: Sağlık hizmetlerinden faydalanma ihtiyacı bulunan kimseyi,
 
 c) Personel: Hizmetin, resmi veya özel sağlık kurumlarında ve kuruluşlarında veya serbest olarak sunulmasına bakılmaksızın, sağlık hizmetinin verilmesine iştirak eden bütün sağlık meslekleri mensuplarını ve sağlık meslekleri mensubu olmasa bile sağlık hizmetinin verilmesine sorumlu olarak iştirak eden kimseleri,
 
-d) (Değişik:RG-8/5/2014-28994) Sağlık kurum ve kuruluşu: Sağlık hizmeti verilen kamu veya özel bütün kurum ve kuruluşları ile tababet icra edilen bütün yerleri,
+d) **(Değişik:RG-8/5/2014-28994)** Sağlık kurum ve kuruluşu: Sağlık hizmeti verilen kamu veya özel bütün kurum ve kuruluşları ile tababet icra edilen bütün yerleri,
 
 e) Hasta hakları: Sağlık hizmetlerinden faydalanma ihtiyacı bulunan fertlerin, sırf insan olmaları sebebiyle sahip bulundukları ve T.C. Anayasası, milletlerarası andlaşmalar, kanunlar ve diğer mevzuat ile teminat altına alınmış bulunan haklarını,
 
-f) (Ek:RG-8/5/2014-28994) Yeterlik: Yaşının küçüklüğü yüzünden veya akıl hastalığı, akıl zayıflığı, sarhoşluk ya da bunlara benzer sebeplerden biriyle akla uygun biçimde davranma yeteneğinden yoksun olmayan onay verenin önerilen tıbbi müdahalede karşılaşabileceği ya da reddettiğinde doğabilecek sonuçları makul bir şekilde anlama ve değerlendirme yeteneğine sahip olma halini,
+f) **(Ek:RG-8/5/2014-28994)** Yeterlik: Yaşının küçüklüğü yüzünden veya akıl hastalığı, akıl zayıflığı, sarhoşluk ya da bunlara benzer sebeplerden biriyle akla uygun biçimde davranma yeteneğinden yoksun olmayan onay verenin önerilen tıbbi müdahalede karşılaşabileceği ya da reddettiğinde doğabilecek sonuçları makul bir şekilde anlama ve değerlendirme yeteneğine sahip olma halini,
 
-g) (Ek:RG-8/5/2014-28994) Tıbbi müdahale: Tıp mesleğini icraya yetkili kişiler tarafından uygulanan, sağlığı koruma, hastalıkların teşhis ve tedavisi için ilgili meslekî yükümlülükler ve standartlara uygun olarak tıbbın sınırları içinde gerçekleştirilen fizikî ve ruhî girişimi,
+g) **(Ek:RG-8/5/2014-28994)** Tıbbi müdahale: Tıp mesleğini icraya yetkili kişiler tarafından uygulanan, sağlığı koruma, hastalıkların teşhis ve tedavisi için ilgili meslekî yükümlülükler ve standartlara uygun olarak tıbbın sınırları içinde gerçekleştirilen fizikî ve ruhî girişimi,
 
-ğ) (Ek:RG-8/5/2014-28994) Bilgilendirme: Yapılması planlanan her türlü tıbbi müdahale öncesinde müdahaleyi gerçekleştirecek sağlık meslek mensubu tarafından kişiye gerekli bilginin verilmesini,
+ğ) **(Ek:RG-8/5/2014-28994)** Bilgilendirme: Yapılması planlanan her türlü tıbbi müdahale öncesinde müdahaleyi gerçekleştirecek sağlık meslek mensubu tarafından kişiye gerekli bilginin verilmesini,
 
-h) (Ek:RG-8/5/2014-28994) Rıza: Kişinin tıbbi müdahaleyi serbest iradesiyle ve bilgilendirilmiş olarak kabul etmesini,
+h) **(Ek:RG-8/5/2014-28994)** Rıza: Kişinin tıbbi müdahaleyi serbest iradesiyle ve bilgilendirilmiş olarak kabul etmesini,
 
 ifade eder.
 
@@ -73,7 +73,7 @@ f) Kanun ile müsaade edilen haller ile tıbbi zorunluluklar dışında, hastan�
 
 ### İKİNCİ BÖLÜM
 
-Sağlık Hizmetlerinden Faydalanma Hakkı
+**Sağlık Hizmetlerinden Faydalanma Hakkı**
 
 #### Adalet ve Hakkaniyete Uygun Olarak Faydalanma
 
@@ -107,7 +107,7 @@ Personeli seçme, tabibi değiştirme ve konsültasyon isteme hakları kullanıl
 
 **Madde 10 –** Sağlık kuruluşunun hizmet verme imkanlarının yetersiz veya sınırlı olması sebebiyle sağlık hizmeti talebi zamanında karşılanamayan hallerde, hastanın, öncelik hakkının tıbbi kriterlere dayalı ve objektif olarak belirlenmesini istemek hakkı vardır.
 
-Acil ve adli vak'alar ile yaşlılar ve (Değişik ibare:RG-16/1/2019-30657) engelliler hakkında öncelik sırasının belirlenmesinde ilgili mevzuat hükümleri uygulanır.
+Acil ve adli vak'alar ile yaşlılar ve **(Değişik ibare:RG-16/1/2019-30657)** engelliler hakkında öncelik sırasının belirlenmesinde ilgili mevzuat hükümleri uygulanır.
 
 #### Tıbbi Gereklere Uygun Teşhis, Tedavi ve Bakım
 
@@ -131,7 +131,7 @@ Tıbbi gereklerden bahisle veya her ne suretle olursa olsun, hayat hakkından va
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Sağlık Durumu İle İlgili Bilgi Alma Hakkı
+**Sağlık Durumu İle İlgili Bilgi Alma Hakkı**
 
 #### Bilgilendirmenin Kapsamı
 
@@ -201,7 +201,7 @@ Tedavisi olmayan bir teşhis, ancak bir tabip tarafından ve tam bir ihtiyat iç
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Hasta Haklarının Korunması
+**Hasta Haklarının Korunması**
 
 #### Mahremiyete Saygı Gösterilmesi
 
@@ -245,7 +245,7 @@ Araştırma ve eğitim amacı ile yapılan faaliyetlerde de hastanın kimlik bil
 
 ### BEŞİNCİ BÖLÜM
 
-Tıbbi Müdahalede Hastanın Rızası
+**Tıbbi Müdahalede Hastanın Rızası**
 
 #### Hastanın Rızası ve İzin
 
@@ -319,7 +319,7 @@ Hastaya tıbbi müdahalede bulunulurken yapılan işlemin genişletilmesi gereğ
 
 ### ALTINCI BÖLÜM
 
-Tıbbi Araştırmalar
+**Tıbbi Araştırmalar**
 
 #### Tıbbi Araştırmalarda Rıza
 
@@ -357,7 +357,7 @@ Kanuni temsilci tarafından muvafakat verilmeyen hallerde, 24 üncü maddenin ik
 
 ### YEDİNCİ BÖLÜM
 
-Diğer Haklar
+**Diğer Haklar**
 
 #### Güvenliğin Sağlanması
 
@@ -409,7 +409,7 @@ Hizmetin sağlık kuruluşu dışında verilmesi ile ilgili usul ve esaslar, Bak
 
 ### SEKİZİNCİ BÖLÜM
 
-Sorumluluk ve Hukuki Korunma Yolları
+**Sorumluluk ve Hukuki Korunma Yolları**
 
 #### Müracaat, Şikayet ve Dava Hakkı
 
@@ -433,19 +433,19 @@ d) İlgili mevzuata göre öncelik tanınan hastalar ile diğer hastaların ve p
 
 e) Personele sözlü ve fiziki saldırıya yönelik davranışlarda bulunmaz.
 
-f) Haklarının ihlal edildiğini düşündüğünde veya sorun yaşadığında (Değişik İbare:RG-23/12/2016-29927) hasta hakları birimine başvurur.
+f) Haklarının ihlal edildiğini düşündüğünde veya sorun yaşadığında **(Değişik İbare:RG-23/12/2016-29927)** hasta hakları birimine başvurur.
 
 #### Hasta Hakları Birimleri (1) Hasta Hakları Kurulları, Sertifikalı Eğitim
 
 **Madde 42/B –** (Ek:RG-8/5/2014-28994)
 
-Hasta hakları uygulamalarının yürütülmesi amacıyla sağlık kurum ve kuruluşları bünyesinde (Değişik İbare:RG-23/12/2016-29927) hasta hakları birimleri oluşturulur.
+Hasta hakları uygulamalarının yürütülmesi amacıyla sağlık kurum ve kuruluşları bünyesinde **(Değişik İbare:RG-23/12/2016-29927)** hasta hakları birimleri oluşturulur.
 
-İl sağlık müdürlüğü; üniversite hastaneleri, (Mülga ibare:RG-16/1/2019-30657)(…) özel sağlık kurum ve kuruluşları, kamu hastaneleri, ağız diş sağlığı merkezleri, aile sağlığı merkezleri ve toplum sağlığı merkezlerinden gelen başvuruları değerlendirmek, karara bağlamak, öneri sunmak ve düzeltici işlemleri belirlemek üzere Hasta Hakları Kurulu oluşturur.
+İl sağlık müdürlüğü; üniversite hastaneleri, **(Mülga ibare:RG-16/1/2019-30657)(…)** özel sağlık kurum ve kuruluşları, kamu hastaneleri, ağız diş sağlığı merkezleri, aile sağlığı merkezleri ve toplum sağlığı merkezlerinden gelen başvuruları değerlendirmek, karara bağlamak, öneri sunmak ve düzeltici işlemleri belirlemek üzere Hasta Hakları Kurulu oluşturur.
 
 Kurul, başkan dahil aşağıdaki üyelerden oluşur. İl sağlık müdürü veya müdürlük temsilcisi Kurulun başkanıdır.
 
-(Değişik dördüncü fıkra:RG-16/1/2019-30657) Diğer üyeler şunlardır: Şikayet edilen personelin varsa üyesi olduğu kamu kurumu niteliğindeki meslek kuruluşlarından bir temsilci, şikayet edilen personelin varsa üyesi olduğu işyeri sendika temsilcisi, şikayet edilen personelin görev yaptığı kurumun ildeki üst yöneticisi tarafından görevlendirilen bir kurum temsilcisi, özel sağlık kuruluşlarında ise kuruluşun üst yöneticisi tarafından belirlenen bir temsilci, hasta hakları derneklerinden yoksa tüketici derneklerinden bir temsilci, ildeki insan hakları kurulundan bir temsilci, valilikçe görevlendirilen bir vatandaş.
+**(Değişik dördüncü fıkra:RG-16/1/2019-30657)** Diğer üyeler şunlardır: Şikayet edilen personelin varsa üyesi olduğu kamu kurumu niteliğindeki meslek kuruluşlarından bir temsilci, şikayet edilen personelin varsa üyesi olduğu işyeri sendika temsilcisi, şikayet edilen personelin görev yaptığı kurumun ildeki üst yöneticisi tarafından görevlendirilen bir kurum temsilcisi, özel sağlık kuruluşlarında ise kuruluşun üst yöneticisi tarafından belirlenen bir temsilci, hasta hakları derneklerinden yoksa tüketici derneklerinden bir temsilci, ildeki insan hakları kurulundan bir temsilci, valilikçe görevlendirilen bir vatandaş.
 
 Birden fazla hasta hakları derneğinin veya tüketici derneğinin başvurması durumunda, dernek temsilcisi il sağlık müdürlüğünce kura yoluyla belirlenir.
 
@@ -465,7 +465,7 @@ b) Hasta hakları uygulamalarına veya etik ilkelere aykırı davranış sebebiy
 
 c) Kurul, gerek görürse hasta hakları ihlaline sebep olabilecek uygulamaları inceler ve hasta haklarının geliştirilmesi için öneri ve düzeltici işlem belirlenmesine karar verir. Sağlık kurum ve kuruluşu belirlenen süre içinde gerekli önlemleri alır, girişimlerde bulunur ve yapılan işlem hakkında kurulu bilgilendirir.
 
-ç) (Mülga Cümle:RG-23/12/2016-29927) (…) Sekretarya hizmetleri il sağlık müdürlüğü hasta hakları koordinatörlüğünce yürütülür.
+ç) **(Mülga Cümle:RG-23/12/2016-29927)** (…) Sekretarya hizmetleri il sağlık müdürlüğü hasta hakları koordinatörlüğünce yürütülür.
 
 d) Kurul, başvurunun kurula ulaştığı tarihten itibaren otuz gün içerisinde başvuru hakkında karar verir.
 
@@ -473,7 +473,7 @@ e) Kurul, üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya k
 
 f) Kararlar, üyeler tarafından imzalanarak dosyalanır. Kararlar ilgili sağlık kurum ve kuruluşu ile başvurana bildirilir.
 
-g) (Değişik İbare:RG-23/12/2016-29927) Hasta hakları birimine yapılan başvurular ve kurulda görüşülen dosyalar gizlidir, hiçbir şekilde üçüncü kişilere bilgi verilemez. Bilgi ve dosyalar resmi olarak talep edilmesi kaydıyla idari soruşturma yapan incelemeciye ya da adli mercilere gizliliğe riayet edilerek verilir. Kurul üyeleri gizliliğe riayet etmekle yükümlüdür.
+g) **(Değişik İbare:RG-23/12/2016-29927)** Hasta hakları birimine yapılan başvurular ve kurulda görüşülen dosyalar gizlidir, hiçbir şekilde üçüncü kişilere bilgi verilemez. Bilgi ve dosyalar resmi olarak talep edilmesi kaydıyla idari soruşturma yapan incelemeciye ya da adli mercilere gizliliğe riayet edilerek verilir. Kurul üyeleri gizliliğe riayet etmekle yükümlüdür.
 
 ğ) Kurul gerek gördüğünde ilgilileri kurula davet edebilir.
 
@@ -531,7 +531,7 @@ c) Kamu görevlisi olmayan personel hakkında, ceza hukukuna göre suç teşkil 
 
 ### DOKUZUNCU BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Kurum ve Kuruluş Yetkililerinin Görevi
 
@@ -541,9 +541,9 @@ Son Hükümler
 
 **Madde 49 –** Milli güvenliğin, kamu düzeninin, kamu yararının, genel ahlakın ve genel sağlığın korunması maksatları ve kanun hükümleri ile getirilen özel düzenlemeler ve sınırlamalar saklıdır.
 
-Geçiş Hükmü
+**Geçiş Hükmü**
 
-GEÇİÇİ MADDE 1 – (Ek:RG-8/5/2014-28994) (Değişik:RG-23/12/2016-29927)
+**GEÇİÇİ MADDE 1 – (Ek:RG-8/5/2014-28994) (Değişik:RG-23/12/2016-29927)**
 
 Sağlık kurum ve kuruluşları bünyesinde bulunan hasta iletişim birimleri, en geç bir ay içerisinde hasta hakları birimine dönüştürülür.
 
@@ -557,7 +557,7 @@ Sağlık kurum ve kuruluşları bünyesinde bulunan hasta iletişim birimleri, e
 
 ______________________
 
-(1) 23/12/2016 tarihli ve 29927 sayılı Resmi Gazete’de yayımlanan değişiklik ile Yönetmeliğin 42/B maddesinin başlığında yer alan “hasta iletişim birimleri” ibaresi “hasta hakları birimleri” olarak değiştirilmiştir.
+<i>(1) 23/12/2016 tarihli ve 29927 sayılı Resmi Gazete’de yayımlanan değişiklik ile Yönetmeliğin 42/B maddesinin başlığında yer alan “hasta iletişim birimleri” ibaresi “hasta hakları birimleri” olarak değiştirilmiştir.</i>
 
 (2)
 

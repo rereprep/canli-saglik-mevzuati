@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-2.3.10. Enjeksiyon Uygulamaları Hakkında Genelge (2019/11)
+**2.3.10. Enjeksiyon Uygulamaları Hakkında Genelge (2019/11)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü

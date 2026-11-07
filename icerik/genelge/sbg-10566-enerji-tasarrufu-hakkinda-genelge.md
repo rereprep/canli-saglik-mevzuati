@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Tarihi:19.12.1997 Sayısı:10181
 
-T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Daire Başkanlığı
+**T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Daire Başkanlığı**
 
 Sayı : B100İMİ0000013/ 10181 Konu : Enerji Tasarrufu 19 ARALIK 1997
 

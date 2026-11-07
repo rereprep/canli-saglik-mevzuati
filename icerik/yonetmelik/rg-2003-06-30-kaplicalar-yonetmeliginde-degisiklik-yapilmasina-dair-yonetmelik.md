@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından :
-Kaplıcalar Yönetmeliği’nde Değişiklik Yapılmasına Dair Yönetmelik
+**Kaplıcalar Yönetmeliği’nde Değişiklik Yapılmasına Dair Yönetmelik**
 
 
 MADDE 1 – 24/7/2001 tarihli ve 24472 sayılı Resmi Gazete’de yayımlanan Kaplıcalar Yönetmeliği’nin 4 üncü maddesine aşağıdaki (t) ve (u) bentleri eklenmiştir.
@@ -86,7 +86,7 @@ MADDE 14 – Aynı Yönetmeliğin Geçici 1 inci maddesinin birinci fıkrası a�
 
 MADDE 15 – Aynı Yönetmeliğin 2 numaralı eki aşağıdaki şekilde değiştirilmiştir.
 "EK
-MİNERALLİ SU İÇİN HIFZISSIHHA VEYA YETKİLİ LABORATUVARDA YAPILMASI GEREKEN ANALİZLER BAŞVURU BİLGİLERİ
+**MİNERALLİ SU İÇİN HIFZISSIHHA VEYA YETKİLİ LABORATUVARDA YAPILMASI GEREKEN ANALİZLER** BAŞVURU BİLGİLERİ
 Kaynak Adı :
 Başvuru sahibi :
 Analiz amacı :
@@ -178,7 +178,7 @@ Yürürlük
 
 
 MADDE 16 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
-Yürütme
+**Yürütme**
 
 
 MADDE 17 – Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.

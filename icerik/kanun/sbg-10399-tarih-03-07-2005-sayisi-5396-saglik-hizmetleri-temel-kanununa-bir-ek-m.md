@@ -9,11 +9,11 @@ durum: "yürürlükte"
 
 ## Kanun Sağlık Hizmetleri Temel Kanununa Bir Ek Madde Eklenmesi Hakkında Kanun
 
-Kanun No: 5396 Kabul Tarihi : 3.7.2005
+**Kanun No: 5396 Kabul Tarihi : 3.7.2005**
 
-MADDE 1. — 7.5.1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa aşağıdaki ek madde eklenmiştir.
+**MADDE 1. —** 7.5.1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa aşağıdaki ek madde eklenmiştir.
 
-EK MADDE 7. – Yapılmasının gerekli olduğuna Yüksek Planlama Kurulu tarafından karar verilen sağlık tesisleri, Sağlık Bakanlığınca verilecek ön proje ve belirlenecek temel standartlar çerçevesinde, kendisine veya Hazineye ait taşınmazlar üzerinde ihale ile belirlenecek gerçek veya özel hukuk tüzel kişilerine kırkdokuz yılı geçmemek şartıyla belirli süre ve bedel üzerinden kiralama karşılığı yaptırılabilir.
+**EK MADDE 7. –** Yapılmasının gerekli olduğuna Yüksek Planlama Kurulu tarafından karar verilen sağlık tesisleri, Sağlık Bakanlığınca verilecek ön proje ve belirlenecek temel standartlar çerçevesinde, kendisine veya Hazineye ait taşınmazlar üzerinde ihale ile belirlenecek gerçek veya özel hukuk tüzel kişilerine kırkdokuz yılı geçmemek şartıyla belirli süre ve bedel üzerinden kiralama karşılığı yaptırılabilir.
 
 Bu amaçla Maliye Bakanlığınca, gerçek veya özel hukuk tüzel kişilerine Hazineye ait taşınmazlar bedelsiz devredilebilir. Bu taşınmazların sözleşme süresince amacı dışında kullanılamayacağına, Maliye ve Sağlık bakanlıklarından izin alınmaksızın devredilemeyeceğine dair tapu kütüğüne şerh konulur.
 
@@ -29,8 +29,8 @@ Bu maddeye göre yapılacak iş ve işlemler, 8.9.1983 tarihli ve 2886 sayılı 
 
 Bu maddenin uygulanmasına ilişkin esas ve usûller ile ihale yöntemi; gerçek veya özel hukuk tüzel kişilerinde aranılacak nitelikler, sözleşmelerin kapsamı ve konuya ilişkin diğer hususlar Maliye Bakanlığı, Sağlık Bakanlığı, Devlet Planlama Teşkilatı ve Hazine müsteşarlıklarınca müştereken hazırlanarak Bakanlar Kurulu kararı ile yürürlüğe konulur.
 
-MADDE 2. — Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 2. —** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 3. — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 3. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 ### 14 Temmuz 2005

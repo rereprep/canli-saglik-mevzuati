@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -50,7 +50,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Hemşirelik Hizmetlerinin Kapsamı, Hemşirelerin Görev, Yetki ve Sorumlulukları
+**Hemşirelik Hizmetlerinin Kapsamı, Hemşirelerin Görev, Yetki ve Sorumlulukları**
 
 #### Hemşirelik hizmetlerinin kapsamı
 
@@ -90,7 +90,7 @@ i) Tüm uygulamalarını kayıt altına alır.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Uzman Hemşire ve Yetki Belgesine Sahip Hemşireler
+**Uzman Hemşire ve Yetki Belgesine Sahip Hemşireler**
 
 #### Uzman hemşire
 
@@ -98,13 +98,13 @@ Uzman Hemşire ve Yetki Belgesine Sahip Hemşireler
 
 (2) Uzman hemşireler, temel hemşirelik rollerinin yanı sıra uzmanlığını yaptığı alana yönelik klinik bilgi, beceri, sağlık araştırmaları, danışmanlık hizmetleri, sağlık eğitim hizmetlerinin programlanması, uygulanması ve değerlendirilmesinde sorumluluk alır, uygular ve değerlendirir.
 
-(3) (Ek:R.G-19/4/2011-27910) Uzmanlık alanı ile ilgili kapsamlı sağlık değerlendirmeleri yapar. Hemşirelik bakımını planlar, uygular ve yönetir. Bakımda istenen hedeflere ulaşılamaması durumunda, yeni stratejiler geliştirir.
+(3) **(Ek:R.G-19/4/2011-27910)** Uzmanlık alanı ile ilgili kapsamlı sağlık değerlendirmeleri yapar. Hemşirelik bakımını planlar, uygular ve yönetir. Bakımda istenen hedeflere ulaşılamaması durumunda, yeni stratejiler geliştirir.
 
-(4) (Ek:R.G-19/4/2011-27910) Hastalara uygulanan tıbbi tanı ve tedavi işlemlerine ilişkin karşılaşılan kritik durumlarda, uygun kararın verilmesinde hemşirelere danışmanlık yapar, meslekî gelişimleri açısından hemşirelere yardımcı olur.
+(4) **(Ek:R.G-19/4/2011-27910)** Hastalara uygulanan tıbbi tanı ve tedavi işlemlerine ilişkin karşılaşılan kritik durumlarda, uygun kararın verilmesinde hemşirelere danışmanlık yapar, meslekî gelişimleri açısından hemşirelere yardımcı olur.
 
-(5) (Ek:R.G-19/4/2011-27910) Hasta ve ailesinin eğitimini planlar. Hastaları, bakım ve tedavi yöntemleri ile olası yan etkileri hakkında bilgilendirir. Hastaların güncel ve güvenilir sağlık bilgisine ulaşmasını sağlar.
+(5) **(Ek:R.G-19/4/2011-27910)** Hasta ve ailesinin eğitimini planlar. Hastaları, bakım ve tedavi yöntemleri ile olası yan etkileri hakkında bilgilendirir. Hastaların güncel ve güvenilir sağlık bilgisine ulaşmasını sağlar.
 
-(6) (Ek:R.G-19/4/2011-27910) Uzmanlık alanı ile ilgili ve etik konularda kişi, kurum ve kuruluşlara danışmanlık ve bilirkişilik yapar. Çalıştığı kurumda araştırmalarla ilgili etik komitede görev alabilir.
+(6) **(Ek:R.G-19/4/2011-27910)** Uzmanlık alanı ile ilgili ve etik konularda kişi, kurum ve kuruluşlara danışmanlık ve bilirkişilik yapar. Çalıştığı kurumda araştırmalarla ilgili etik komitede görev alabilir.
 
 #### Yetki belgesine sahip hemşireler
 
@@ -114,7 +114,7 @@ Uzman Hemşire ve Yetki Belgesine Sahip Hemşireler
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Hemşirelik Hizmetlerinin Yönetimi ve Organizasyonu
+**Hemşirelik Hizmetlerinin Yönetimi ve Organizasyonu**
 
 #### Başhemşire
 
@@ -180,7 +180,7 @@ i) Öğrenci hemşirelerin eğitiminde uygun eğitim ortamını sağlar.
 
 ### BEŞİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Düzenleme yetkisi
 
@@ -194,9 +194,9 @@ Son Hükümler
 
 **MADDE 13 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ek -1 için tıklayınız.
+**Ek -1 için tıklayınız.**
 
-Ek- 2 ve 3 için tıklayınız .
+**Ek- 2 ve 3 için tıklayınız .**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

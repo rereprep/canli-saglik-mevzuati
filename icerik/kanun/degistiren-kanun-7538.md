@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/01/20250115-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7538 Kabul Tarihi: 9/1/2025
+**KANUN SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7538** Kabul Tarihi: 9/1/2025
 
 MADDE 1- 17/7/1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununun geçici 87 nci maddesi yürürlükten kaldırılmıştır.
 

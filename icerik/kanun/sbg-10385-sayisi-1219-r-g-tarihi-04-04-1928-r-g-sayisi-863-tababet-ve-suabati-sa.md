@@ -12,7 +12,7 @@ Sayısı:1219 R.G. Tarihi:04.04.1928 R.G. Sayısı:863
 
 (Değişik: 14.6.1989 - 3575)
 
-Kanun Numarası : 1219 Resmi Gazete Tarih: 14.4.1928; Sayı : 863
+**Kanun Numarası :** 1219 **Resmi Gazete Tarih:** 14.4.1928; **Sayı** : 863
 
 #### BİRİNCİ FASIL Tabipler
 

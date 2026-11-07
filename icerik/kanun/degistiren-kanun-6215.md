@@ -12,24 +12,24 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/04/20110412-1..htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN BAZI
-KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 6215 Kabul Tarihi: 29/3/2011
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN BAZI**
+**KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 6215 Kabul Tarihi: 29/3/2011**
 
-MADDE 1 – 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanunun 5 inci maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanunun 5 inci maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Bu şirketler tarafından üçüncü kişi, kurum ve kuruluşlara sağlanacak koruma ve güvenlik hizmetleri, hizmetin başladığı gün mesai saati bitimine kadar ilgili valiliğe yazılı olarak bildirilir.
 Acil ve geçici nitelikteki koruma ve güvenlik hizmetlerinde süre kaydı aranmaz.”
 
-MADDE 2 – 5188 sayılı Kanunun 11 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş, üçüncü ve beşinci fıkraları madde metninden çıkarılmıştır.
+**MADDE 2 –** 5188 sayılı Kanunun 11 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş, üçüncü ve beşinci fıkraları madde metninden çıkarılmıştır.
 “Özel güvenlik görevlisi olarak istihdam edilecekler ile özel güvenlik şirketlerinde, alarm izleme merkezlerinde ve özel güvenlik eğitimi verecek kurumlarda kurucu ve/veya yönetici olarak çalışacaklar hakkında valilikçe güvenlik soruşturması yapılır. Soruşturma sonucu olumlu olanlara, bu Kanunun 14 üncü maddesinde belirtilen özel güvenlik temel eğitimini başarıyla bitirmiş olmak şartıyla, valilikçe çalışma izni verilir. Ateşli silah taşımayacak özel güvenlik görevlileri hakkında sadece arşiv araştırması yapılır. Güvenlik soruşturması ve arşiv araştırması bir ay içinde tamamlanır. Güvenlik soruşturması ve arşiv araştırması her beş yılda bir yenilenir.”
 
-MADDE 3 – 5188 sayılı Kanunun 14 üncü maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
+**MADDE 3 –** 5188 sayılı Kanunun 14 üncü maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
 “Özel güvenlik temel eğitimi teorik ve pratik eğitim ile silah eğitiminden oluşmak üzere yüz yirmi ders saatinden;
 yenileme eğitimi altmış ders saatinden az olmamak üzere düzenlenir.
 Yükseköğretim kurumlarının güvenlikle ilgili fakülte ve meslek yüksek okullarından mezun olanlar ile fakülte veya meslek yüksek okullarının güvenlikle ilgili bölümlerinden mezun olanlarda silah eğitimi dışında özel güvenlik temel eğitimi şartı aranmaz. Genel kolluk kuvvetlerinden ve Milli İstihbarat Teşkilatından emekli olanlar ile en az beş yıl bu görevlerde çalıştıktan sonra kendi istekleriyle görevlerinden ayrılmış olanlarda, özel güvenlik temel eğitimi şartı ve Kanunun 10 uncu maddesinin birinci fıkrasının (b) bendinde belirtilen eğitim şartı aranmaz.
 Özel güvenlik eğitimi, ücreti karşılığında İçişleri Bakanlığınca verilebileceği gibi, Bakanlıktan faaliyet izni alan özel eğitim kurumlarınca da verilebilir. Yeterli bina, araç, gereç ve personel bulunması şartıyla özel güvenlik yenileme eğitimi, valiliğin izniyle güvenlik hizmetinin sağlandığı yerde verilebilir. Özel güvenlik eğitimi verecek kurumların kurucu ve yöneticilerinde 5 inci maddenin üçüncü fıkrasında belirtilen şartlar aranır.”
 
-MADDE 4 – 8/1/1985 tarihli ve 3143 sayılı Sanayi ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 4 –** 8/1/1985 tarihli ve 3143 sayılı Sanayi ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 12 – Bu Kanunun 11 inci maddesinin (a) bendinde sayılan görevler kapsamında Bakanlık bütçesinden küçük sanayi sitesi yapı kooperatiflerine kullandırılan kredilerden; 31/12/2010 tarihinden önce ödeme süresi geldiği halde, bu maddenin yayımlandığı tarih itibarıyla ödenmemiş olan kredi alacaklarının asıllarının tamamı ile bu alacaklara ilişkin fer’iler yerine, bu maddenin yayımlandığı tarihe kadar TEFE/ÜFE aylık değişim oranları esas alınarak hesaplanacak tutarın;
 ödenmemiş alacağın sadece fer’i alacaktan ibaret olması halinde bu alacak yerine TEFE/ÜFE aylık değişim oranları esas alınarak hesaplanacak tutarın, bu maddenin yayımlandığı tarihi izleyen ikinci ayın sonuna kadar Sanayi ve Ticaret Bakanlığına ya da Bakanlığın uygun görmesi halinde kredi ödemelerine aracılık eden bankaya başvuruda bulunulması ve ödenmesi gereken tutarın, ilk taksidi bu maddenin yayımlandığı tarihi izleyen üçüncü aydan başlamak üzere azami otuz altı ayda otuz altı eşit taksitte ödenmek şartıyla fer’ilerin tamamının tahsilinden vazgeçilir.
 Bu maddenin yayımlandığı tarihten önce dava konusu edilmiş ve/veya icra takibi başlatılmış alacaklar için, borçlunun, bu madde hükümlerinden yararlanmak üzere başvuruda bulunması halinde, davalar sonlandırılır ve icra takipleri durdurulur. Bu takdirde borçluların mahkeme ve icra masrafları ile vekalet ücretini ilk taksit tutarı ile birlikte ödemeleri şarttır.
@@ -47,9 +47,9 @@ Bu maddeye göre ödenmesi gereken taksitlerden; bir takvim yılında iki veya d
 Bu madde kapsamına giren alacaklara karşılık bu maddenin yayımlandığı tarihten önce ödenen tutarlar bu madde hükümlerine dayanılarak ret ve iade edilmez.
 Bu maddenin uygulamasına ilişkin usul ve esasları belirlemeye Sanayi ve Ticaret Bakanlığı yetkilidir.”
 
-MADDE 5 – 28/2/2008 tarihli ve 5746 sayılı Araştırma ve Geliştirme Faaliyetlerinin Desteklenmesi Hakkında Kanunun 3 üncü maddesinin beşinci fıkrasında yer alan “10.000.000 Yeni Türk Lirasını” ibaresi “50.000.000 Türk Lirasını” şeklinde değiştirilmiştir.
+**MADDE 5 –** 28/2/2008 tarihli ve 5746 sayılı Araştırma ve Geliştirme Faaliyetlerinin Desteklenmesi Hakkında Kanunun 3 üncü maddesinin beşinci fıkrasında yer alan “10.000.000 Yeni Türk Lirasını” ibaresi “50.000.000 Türk Lirasını” şeklinde değiştirilmiştir.
 
-MADDE 6 – 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Umum Müdürlüğü Teşkilat ve Vazifeleri Hakkında Kanunun 14 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 6 –** 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Umum Müdürlüğü Teşkilat ve Vazifeleri Hakkında Kanunun 14 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 14 – Hukuk Müşavirliğinin görev ve yetkileri şunlardır:
 a) Genel Müdürlüğün taraf olduğu adli ve idari davalarda, tahkim yargılamasında ve icra işlemlerinde, Genel Müdürlüğü hukuk müşavirleri ve/veya avukatlar vasıtasıyla temsil etmek, dava ve icra işlemlerini takip etmek.
 b) Genel Müdürlük hizmetleriyle ilgili olarak, diğer kamu kurum ve kuruluşları tarafından hazırlanan kanun, tüzük ve yönetmelik taslaklarını, Genel Müdürlük birimleri tarafından tertip ve tanzim edilecek her türlü sözleşme ve şartname taslaklarını, Genel Müdürlük ile üçüncü kişiler arasında çıkan her türlü uyuşmazlıklara ilişkin işleri ve Genel Müdürlükçe sorulacak diğer işleri inceleyip hukukî mütalaasını bildirmek.
@@ -61,21 +61,21 @@ Hukuk müşavirlerinin temsil yetkisi, Genel Müdürlüğün görev alanı ile i
 Davalarda temsil yetkisi bulunan hukuk müşavirleri ve avukatların bir listesi merkezde Genel Müdürlük, diğer yerlerde bölge müdürlüklerince ilgili Cumhuriyet başsavcılıklarına ve bölge idare mahkemesi başkanlıklarına verilir. Bu listelerin birer nüshası, Cumhuriyet başsavcılığı tarafından adli yargı çevresinde, bölge idare mahkemesi başkanlığınca idari yargı çevresinde bulunan mahkemelere gönderilir. Yüksek mahkemeler ve bölge adliye mahkemesindeki duruşmalarda temsil yetkisini kullanacakların isimleri ilgili mahkemelerin başsavcılıklarına ve/veya başkanlıklarına bildirilir. Listede isimleri yer alan hukuk müşavirleri ve avukatlar, baroya kayıt ve vekâletname ibrazı gerekmeksizin temsil yetkilerini kullanırlar. Temsil yetkisi sona erenlerin isimleri yukarıda yazılı mercilere derhal bildirilir.
 Genel Müdürlük lehine sonuçlanan dava ve icra takipleri nedeniyle hükme bağlanarak karşı taraftan tahsil edilen vekâlet ücretlerinin dağıtımı hakkında, 2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekalet Hakkında Kanun hükümleri kıyas yoluyla uygulanır.”
 
-MADDE 7 – 6200 sayılı Kanunun 35 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 7 –** 6200 sayılı Kanunun 35 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 35 – Genel Müdürlüğün görev alanına giren işlerin yürütülmesi ile ilgili olarak, Genel Müdürlük ile kamu kurum ve kuruluşları, gerçek veya tüzel kişiler arasında ortaya çıkabilecek, ivedilikle çözülmesinde yarar görülen, bir sözleşme bulunup bulunmadığına bakılmaksızın, henüz yargı mercilerine, hakeme veya icraya intikal etmemiş olan uyuşmazlıklarda; kovuşturulmasında veya yüksek dereceli merci ve mahkemelerce incelenmesini istemekte fayda umulmayan dava ve icra takiplerinden vazgeçilmesinde; anlaşma veya sözleşmelerin değiştirilmesinde veya bozulmasında; tanınacak veya terkin edilecek hak ve işe karşılık gelen menfaatlerden;
 a) 1.000.000 Türk Lirasına kadar olanların sulh yolu ile hallinde Genel Müdür,
 b) 1.000.001 Türk Lirasından 10.000.000 Türk Lirasına kadar olanların sulh yolu ile hallinde Genel Müdürün teklifi üzerine Bakan,
 c) 10.000.001 Türk Lirasından fazla olanların sulh yolu ile hallinde ise Bakanlar Kurulu, yetkilidir.
 Bu maddede belirtilen parasal sınırların karşılığı her yıl merkezî yönetim bütçe kanununda gösterilir.”
 
-MADDE 8 – 6200 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 8 –** 6200 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK MADDE 3 – Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Devlet Su İşleri Genel Müdürlüğüne ait bölümüne eklenmiştir.”
 
-MADDE 9 – 6200 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 9 –** 6200 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 8 – Genel Müdürlüğün merkez veya taşra teşkilatı kadrolarında avukat olarak görev yapmakta iken 13/12/1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin ek 28 inci maddesine dayanılarak Hazine avukatı olarak atananlardan bu maddenin yayımı tarihinde görevde bulunanlar, bu maddenin yürürlüğe girdiği tarihten itibaren otuz gün içinde başvurmaları halinde Genel Müdürlüğün teşkilat yapısı göz önünde bulundurularak, görev yapmakta oldukları yere öncelik verilmek suretiyle işgal ettikleri kadro derecelerine göre Genel Müdürlükçe merkez veya taşra teşkilatında avukat unvanlı kadrolara atanabilirler. Atama taleplerine ilişkin işlemler Genel Müdürlükçe otuz gün içinde sonuçlandırılır. Bu fıkra hükmüne göre atananların, atandıkları kadroların aylık, ek gösterge, her türlü zam ve tazminatlar ile fazla mesai ücreti ve avukatlık vekâlet ücreti hariç diğer malî hakları toplamının net tutarının, önceki kadrolarına ilişkin olarak en son ayda aldıkları aylık, ek gösterge, her türlü zam ve tazminatlar ile fazla mesai ücreti ve avukatlık vekâlet ücreti hariç diğer malî hakları toplamının net tutarından az olması hâlinde, aradaki fark, atandıkları kadrolarda kaldıkları sürece, farklılık giderilinceye kadar, herhangi bir vergi ve kesintiye tâbi tutulmaksızın tazminat olarak ödenir.
 Maliye Bakanlığı uhdesinde Hazine avukatları tarafından takip edilmekte olan Genel Müdürlük ile ilgili dava ve icra takiplerine ilişkin tüm dosyalar, Maliye Bakanlığı ve Genel Müdürlükçe müştereken belirlenecek esaslara göre bu maddenin yayımını izleyen bir yıl içerisinde Genel Müdürlüğe veya ilgili bölge müdürlüğüne devredilir. Bu şekilde devredilen dava ve icra takipleriyle ilgili olarak devir tarihine kadar yapılmış her türlü işlem Genel Müdürlük adına yapılmış sayılır.”
 
-MADDE 10 – 21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun ek 9 uncu maddesinin başlığı “Bağımsız spor federasyonları” olarak, maddenin bir ila altıncı, dokuz ila onbirinci ve onaltıncı fıkraları aşağıdaki şekilde değiştirilmiş, onaltıncı fıkradan sonra gelmek üzere aşağıdaki fıkralar eklenmiş ve madde metninde geçen “özerk” ibareleri “bağımsız” olarak değiştirilmiştir.
+**MADDE 10 –** 21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun ek 9 uncu maddesinin başlığı “Bağımsız spor federasyonları” olarak, maddenin bir ila altıncı, dokuz ila onbirinci ve onaltıncı fıkraları aşağıdaki şekilde değiştirilmiş, onaltıncı fıkradan sonra gelmek üzere aşağıdaki fıkralar eklenmiş ve madde metninde geçen “özerk” ibareleri “bağımsız” olarak değiştirilmiştir.
 “Spor dalı ile ilgili faaliyetleri ulusal ve uluslararası kurallara göre yürütmek, gelişmesini sağlamak, sporcu sağlığı ile ilgili konularda gerekli önlemleri almak, teşkilatlandırmak, federasyonu uluslararası faaliyetlerde temsil etmek ve Tahkim Kurulu kararlarını uygulamakla görevli ve yetkili, özel hukuk hükümlerine tabi bağımsız spor federasyonları kurulur. Federasyonlar, Merkez Danışma Kurulunun uygun görüşü, Bakanın teklifi ve Başbakanın kararı ile kurulur ve kararın Resmi Gazetede yayımlanması ile tüzel kişilik kazanır. Bu Kanunda belirtilen yükümlülüklerini yerine getirmeyen federasyonların tüzel kişilikleri bu maddede belirtilen usulle iptal edilir ve mal varlıkları Genel Müdürlüğe devredilir. Genel Müdürlük tarafından bağımsız spor federasyonlarına yapılan yardımlar ile Genel Müdürlük bütçesinden bu federasyonlara tahsis edilen kaynaklar kullanılarak edinilen her türlü taşınır ve taşınmazlar edinim amacı dışında kullanılamaz ve Genel Müdürün izni alınmadan üçüncü kişilere satılamaz ve devredilemez. Genel Müdürlük tarafından yapılan yardımlar ve tahsis edilen kaynaklar kullanılarak alınan taşınmazların mülkiyeti Genel Müdürlüğe ait olur. Bu taşınmazlar Genel Müdürlüğün mevzuatı çerçevesinde kullanılır. Federasyon malları Devlet malı hükmündedir, haczedilemez. Federasyon faaliyetlerinde görevli bulunanlar, görevleriyle ilgili olarak işlemiş oldukları suçlar bakımından kamu görevlisi sayılır.
 Spor federasyonlarının merkezleri Ankara'dadır.
 Federasyonların merkez teşkilatı; genel kurul, yönetim, denetim, disiplin kurulları ile genel sekreterlikten teşekkül eder. Federasyon yönetim kurulu, yedi üyeden az, on beş üyeden fazla, disiplin kurulu ise üç üyeden az, beş üyeden fazla olamaz. Denetim kurulu; iki üyesi seçimle belirlenen, üç üyesi ise Genel Müdürlükçe görevlendirilen beş üyeden oluşur. Genel sekreter, en az dört yıllık yüksekokul mezunu kişiler arasından görevlendirilir. Bu fıkrada belirtilen kurulların oluşumu, görev, yetki ve sorumlulukları ile çalışma usul ve esasları ana statüyle, diğer kurulların oluşumu, çalışma usul ve esasları ise talimatlarla belirlenir. Profesyonel şube kurulması, federasyona spor dalı bağlanması, bağlı spor dallarının ayrılması işlemleri federasyon yönetim kurulunun Genel Müdürlüğe müracaatı üzerine bu Kanunun hükümlerine göre yürütülür. Federasyonların yurt içi bağlantısını sağlamak üzere, illerde federasyon temsilcilikleri kurulabilir. Bağımsız spor federasyonlarının il temsilcileri, federasyon başkanının teklifi ve Genel Müdürün onayı ile görevlendirilir.
@@ -119,7 +119,7 @@ Federasyonlar, faaliyette bulundukları spor dalları ile ilgili olarak bağlı 
 Spor federasyonları ile ilgili olarak bu Kanunda hüküm bulunmayan konularda 4/11/2004 tarihli ve 5253 sayılı Dernekler Kanunu ile 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanunu hükümleri uygulanır.
 Kamu kurum ve kuruluşlarına ait alacaklar hariç olmak üzere, spor kulüplerinin Spor Toto Teşkilat Başkanlığı nezdindeki isim haklarından doğan alacakları haczedilemez ve bu alacaklar devir ve temlik edilemez.”
 
-MADDE 11 – 3289 sayılı Kanunun ek 9 uncu maddesinden sonra gelmek üzere aşağıdaki ek madde eklenmiştir.
+**MADDE 11 –** 3289 sayılı Kanunun ek 9 uncu maddesinden sonra gelmek üzere aşağıdaki ek madde eklenmiştir.
 “Tahkim Kurulunun çalışma usul ve esasları
 
 EK MADDE 9/A – Tahkim Kurulu, en az beş üyenin katılımıyla toplanır ve oy çokluğuyla karar alır. Oyların eşitliği halinde Başkanın kullandığı oyun tarafı çoğunluk sayılır.
@@ -140,25 +140,25 @@ Kararlar, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 38 inci ma
 Taraflar, kararın tebliğ tarihinden itibaren on gün içinde verilen karara karşı karar düzeltme yoluna başvurabilirler.
 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun kararların açıklanması, maddî hataların düzeltilmesi veya yargılamanın yenilenmesi halleri dışında Kurul aynı konuda tekrar karar veremez.”
 
-MADDE 12 – 3289 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 12 –** 3289 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 11 – Bu Kanun ile çıkarılması öngörülen düzenlemeler yürürlüğe girinceye kadar mevcut düzenlemelerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 Bu maddenin yürürlüğe girdiği tarihte; 3289 sayılı Kanunun ek 9 uncu maddesine göre özerk olan spor federasyonları bu Kanuna göre kurulmuş bağımsız spor federasyonu olarak kabul edilir. Diğer kanunlarda özerk spor federasyonlarına yapılan atıflar, bağımsız spor federasyonlarına yapılmış sayılır.
 Tahkim Kurulunun asıl ve yedek üyeleri, bu maddenin yayımı tarihinden itibaren otuz gün içerisinde görevlendirilir.
 Bu Kanunla tüzel kişilik kazanan spor federasyonları, bu maddenin yürürlüğe girdiği tarihten sonra yapılacak ilk ilgili olimpiyat oyunlarının bitim tarihlerinden itibaren üç ay içerisinde genel kurullarını yaparak hukuki yapılarını bu Kanuna uygun hale getirmek zorundadırlar.”
 
-MADDE 13 – 29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanununun 28 inci maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
+**MADDE 13 –** 29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanununun 28 inci maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
 “Ticaret sicili kayıtlarının elektronik ortamda tutulmasına ilişkin usul ve esaslar Sanayi ve Ticaret Bakanlığınca çıkarılacak yönetmelikle düzenlenir. Bu kayıtlar ile tescil ve ilan edilmesi gerekli içeriklerin düzenli olarak elektronik ortamda depolanan ve sunulabilen merkezi ortak veri tabanı, Sanayi ve Ticaret Bakanlığı ile Türkiye Odalar ve Borsalar Birliği nezdinde oluşturulur.
 Ticaret sicili kayıt işlemlerinin elektronik ortamda yapılması için toplanması ve işlenmesi gerekli olan kişisel veriler, kişisel verilerin korunması ve bilgi güvenliğinin sağlanmasına ilişkin tedbirler mevzuata uygun bir şekilde alınarak korunur.”
 
-MADDE 14 – 6762 sayılı Kanunun 66 ncı maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve maddenin mevcut ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 14 –** 6762 sayılı Kanunun 66 ncı maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve maddenin mevcut ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Bu defterler elektronik ortamda veya dosyalama suretiyle tutulabilir. Bu defterlerin açılış ve kapanış onaylarının şekli ve esasları ile bu defterlerin nasıl tutulacağı Sanayi ve Ticaret Bakanlığı ile Maliye Bakanlığınca çıkarılacak müşterek bir tebliğle belirlenir.”
 “Tacir, işletmesiyle ilgili olarak gönderilmiş bulunan her türlü belgenin, fotokopi, karbonlu kopya, mikrofiş, bilgisayar kaydı veya benzer şekildeki bir kopyasını, yazılı, görsel veya elektronik ortamda saklamakla yükümlüdür.”
 
-MADDE 15 – 6762 sayılı Kanunun 401 inci maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
+**MADDE 15 –** 6762 sayılı Kanunun 401 inci maddesine birinci fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
 “Pay sahipleri arasında Devlet, il özel idaresi, belediye ve diğer kamu tüzel kişileri, sendikalar, dernekler, vakıflar, kooperatifler ve bunların üst kuruluşları bulunan anonim şirketlerde ve iştiraklerinde; kamu tüzel kişileri ile kamuya yararlı dernek ve vakıflar lehine tesis edilebilecek imtiyazlar hariç olmak üzere, diğer pay sahiplerinden biri veya birkaçı lehine bu Kanunda düzenlenen herhangi bir imtiyaz tesis edilemez.
 İkinci fıkraya aykırı esas mukaveleler, bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde anılan fıkra hükmüne uygun hale getirilir. Gerekli esas mukavele değişikliklerinin ve uyarlamalarının bu süre içinde gerçekleştirilmemesi halinde, ilgili esas mukavele hükümleri bu sürenin dolduğu tarihte kendiliğinden geçersiz hale gelir ve esas mukavelede öngörülen imtiyazların tümü kanunen sona erer.”
 
-MADDE 16 – 6762 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 16 –** 6762 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “Çevrimiçi işlemler
 
 EK MADDE 2 – Poliçe, bono, çek, makbuz senedi, varant ve kambiyo senetlerine benzeyen senetler güvenli elektronik imza ile düzenlenemez. Bu senetlere ilişkin kabul, aval ve ciro gibi senet üzerinde gerçekleştirilen işlemler güvenli elektronik imza ile yapılamaz.
@@ -168,9 +168,9 @@ Ticaret şirketleri ile gerçek ve tüzel kişi diğer tacirlere ilişkin olarak
 Bu durumda, kullanılacak nitelikli elektronik sertifikalarda sertifika sahibi alanı içerisine, sertifika sahibinin ismiyle birlikte temsil ettiği tüzel kişinin de ismi yazılır. Bu husus tescil ve ilan edilir.
 Bu maddenin uygulanmasına dair usul ve esaslar Sanayi ve Ticaret Bakanlığınca çıkarılacak yönetmelikle düzenlenir.”
 
-MADDE 17 – 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 19 uncu maddesinin birinci fıkrasının (c) bendinde yer alan “yayımı tarihinden itibaren bir yıl sonra” ibaresi “1/1/2012 tarihinde” olarak değiştirilmiştir.
+**MADDE 17 –** 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 19 uncu maddesinin birinci fıkrasının (c) bendinde yer alan “yayımı tarihinden itibaren bir yıl sonra” ibaresi “1/1/2012 tarihinde” olarak değiştirilmiştir.
 
-MADDE 18 – 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanununa aşağıdaki ek madde eklenmiştir.
+**MADDE 18 –** 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanununa aşağıdaki ek madde eklenmiştir.
 “Bağdaşmayan görevler
 
 EK MADDE 3 – Kooperatifler ve üst kuruluşlarının yönetim kurulu üyeleri ve denetçileri; bu kooperatiflerin ve üst kuruluşlarının hissedarı oldukları şirketlerde, katıldıkları vakıflarda ve diğer teşekküllerde yönetim kurulu üyesi veya denetçi olamazlar, personel olarak yahut başka bir şekilde ücretli görev alamazlar.
@@ -181,13 +181,13 @@ Bu madde hükümlerine aykırı uygulamalar denetçiler tarafından araştırıl
 Birinci fıkraya aykırı olarak görev yapmakta olanlar, bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içerisinde bu görevlerinden sadece birisini tercih ederek diğerlerinden ayrılırlar.
 Süresi içerisinde tercihte bulunmayanların seçilmiş oldukları kooperatif veya üst kuruluşlarındaki yönetim kurulu üyeliği veya denetçilik görevleri dışındaki diğer görevlerinin tamamı kendiliğinden sona erer.”
 
-MADDE 19 – 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 19 –** 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 8 – Bu maddenin yürürlük tarihinden önce mer’i plana göre yapılaşan sanayi tesislerinin bulunduğu alanlar için, bu maddenin yürürlük tarihinden itibaren bir yıl içerisinde yapılan başvuruların, valilikçe uygun görülmesi halinde; hazırlanan gerekçe raporuna istinaden 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu uyarınca plan onama yetkisi bulunan idarelerle alanın özelliklerine göre ilgili kurumların katılımıyla, vali başkanlığında oluşturulacak olan ıslah komisyonunun belirlediği ıslah şartları ve süresinin Bakanlık tarafından uygun görülmesi ile söz konusu alanlar OSB olarak değerlendirilebilir.
 Bakanlık, OSB yer seçimi komisyon üyesi olan kurum ve kuruluşlardan alacağı görüşler doğrultusunda OSB sınırlarını belirler.
 Tespit edilen ıslah şartları çerçevesinde, tüzel kişilik kazanan OSB’lerde, bu Kanunla getirilen tüm izin ve ruhsat yetkileri, ıslah çalışmaları tamamlanıncaya kadar genel mevzuat hükümlerine göre yürütülür. Süresi içinde ıslah şartlarını tamamlamayanlar OSB niteliklerini kaybederek sicilden terkin edilir.
 Bu maddenin yürütülmesine ilişkin usul ve esaslar OSB Uygulama Yönetmeliğinde belirlenir.”
 
-MADDE 20 – 4562 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 20 –** 4562 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 9 – İl ve ilçelerin sosyoekonomik durumları dikkate alınarak OSB’lerdeki parsellerin tamamen veya kısmen bedelsiz tahsisleri Bakanlar Kurulu kararı ile belirlenir.
 Buna göre;
 a) Bakanlık kredisi kullanan organize sanayi bölgelerindeki tahsis edilmemiş parseller, organize sanayi bölgesinin yetkili organlarının karar almaları halinde en az on kişilik istihdam öngören yatırımlara girişen gerçek veya tüzel kişilere tamamen veya kısmen bedelsiz olarak tahsis edilebilir. Bu durumda tahsis edilen parselin değeri, Bakanlık tarafından organize sanayi bölgesine verilen kredi geri ödemesinden mahsup edilir. Bu maddenin yürürlüğe girdiği tarihten önce gerçek ve tüzel kişilere bedelli olarak tahsis edilmiş parseller için ödemeler durdurulur ve kalan meblağ Bakanlık tarafından organize sanayi bölgesine verilen kredi geri ödemesinden mahsup edilir. Parsellerin mahsup işlemlerine esas değeri, Hazine Müsteşarlığının uygun görüşü alınmak suretiyle Bakanlıkça her organize sanayi bölgesi için tespit edilecek yılı metrekare fiyatı üzerinden hesaplanır.
@@ -196,17 +196,17 @@ Yatırımcının bu madde kapsamında belirlenen şartlara uymadığının veya 
 Organize sanayi bölgelerinde parsel tahsisine ilişkin uygulama, bu maddenin yürürlüğe girdiği tarihten itibaren iki yıl süre için geçerlidir. Bu süre Bakanlar Kurulu kararı ile en fazla iki defa ikişer yıl daha uzatılabilir.
 Bu maddenin uygulanması ile ilgili istihdam, yatırıma başlama ve tamamlama süresi, tahsis ve devir işlemleri ile diğer hususlar Bakanlık tarafından hazırlanacak ve Bakanlar Kurulu kararı ile yürürlüğe konulacak yönetmelikle düzenlenir.”
 
-MADDE 21 – 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 26 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 21 –** 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 26 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 26 – Büyükşehir belediyesi kendisine verilen görev ve hizmet alanlarında, ilgili mevzuatta belirtilen usullere göre sermaye şirketleri kurabilir. Genel sekreter ile belediye ve bağlı kuruluşlarında yöneticilik sıfatını haiz personel bu şirketlerin yönetim ve denetim kurullarında görev alabilirler. Büyükşehir belediyesi, mülkiyeti veya tasarrufundaki hafriyat sahalarını, toplu ulaşım hizmetlerini, sosyal tesisler, büfe, otopark ve çay bahçelerini işletebilir; ya da bu yerlerin belediye veya bağlı kuruluşlarının % 50’sinden fazlasına ortak olduğu şirketler ile bu şirketlerin % 50’sinden fazlasına ortak olduğu şirketler ile bu şirketlerin % 50’sinden fazlasına ortak olduğu şirketlere, 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu hükümlerine tabi olmaksızın belediye meclisince belirlenecek süre ve bedelle işletilmesini devredebilir.”
 
-MADDE 22 – 19/9/2006 tarihli ve 5543 sayılı İskân Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 22 –** 19/9/2006 tarihli ve 5543 sayılı İskân Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 5 – (1) Kıbrıs’a Anamur (Dragon) Çayından Boru ile Su Götürme Projesi kapsamındaki Alaköprü Barajı rezervuarı ile inşaat alanında kalan ve bulundukları yerleşim yerlerinden kaldırılmaları zorunlu bulunan orman içi ve kenarı mahalle, köy veya belde halkının iskânlarının temini için, Çevre ve Orman Bakanlığınca bilim ve fen bakımından orman olarak muhafazasında hiçbir yarar görülmeyen ve tarım alanına dönüştürülmesi de mümkün olmayan orman sınırları dışına çıkarılmış ve çıkarılacak alanlar, Bakanlar Kurulunca alınacak kararda belirtilen şekil ve şartlar çerçevesinde Bayındırlık ve İskân Bakanlığına devredilir.
 (2) Birinci fıkra hükümlerine göre iskân edilecek ailelerin hak sahipliliği ve borçlandırılmalarına ilişkin usul ve esaslar Bakanlar Kurulunca belirlenir.
 (3) Çevre ve Orman Bakanlığınca belirlenen alanlarda, 21/6/1987 tarihli ve 3402 sayılı Kadastro Kanununun 22 nci maddesinin kadastrosu yapılmış olan yerlerin ikinci defa kadastroya tabi tutulamayacağına ilişkin hükmü uygulanmaz.
 (4) Birinci fıkraya göre Bayındırlık ve İskân Bakanlığına devredilecek alanların tespiti amacıyla Çevre ve Orman Bakanlığınca yeteri kadar orman kadastro komisyonu görevlendirilir ve bu tespit sırasında ilan süresi bir hafta, itiraz süresi bir ay olarak uygulanır.
 (5) 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 1 inci maddesine göre ilk defa yapılacak orman kadastrosu uygulamasındaki işlemlere ilişkin sürelerde de dördüncü fıkra hükümleri uygulanır.”
 
-MADDE 23 – 15/5/2007 tarihli ve 5661 sayılı Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketi ve Tarım Kredi Kooperatifleri Tarafından Kullandırılan Toplu Köy İkrazatı/Grup Kredilerinden Doğan Kefaletin Sona Erdirilmesi Hakkında Kanunun 1 inci maddesinin altıncı ve yedinci fıkraları aşağıdaki şekilde değiştirilmiş ve aşağıdaki fıkralar eklenmiştir.
+**MADDE 23 –** 15/5/2007 tarihli ve 5661 sayılı Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketi ve Tarım Kredi Kooperatifleri Tarafından Kullandırılan Toplu Köy İkrazatı/Grup Kredilerinden Doğan Kefaletin Sona Erdirilmesi Hakkında Kanunun 1 inci maddesinin altıncı ve yedinci fıkraları aşağıdaki şekilde değiştirilmiş ve aşağıdaki fıkralar eklenmiştir.
 “(6) Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketinden 20/8/2002 ve Tarım Kredi Kooperatiflerinden 30/1/2004 tarihinden önce üreticilerin kullandıkları, toplu köy ikrazatı/grup kredileri dışındaki tüm tarımsal kredilerden (18/4/2001 tarihli ve 2001/2312 sayılı Bakanlar Kurulu Kararı kapsamında Hazine kaynağına dönüştürülmüş tarımsal kredilerin kefilleri de dahil) bu fıkranın yürürlüğe girdiği tarih itibarıyla Tasfiye Olunacak Alacaklar/Takip Hesaplarında kayıtlı borcu bulunanların (borcu yeniden yapılandırılmış olanlar dahil) kefillerinin sorumluluğu bu fıkranın yürürlüğe girdiği tarihte sona erer.
 Kefiller hakkında başlatılmış bulunan idarî veya kanunî takibat işlemleri, hangi aşamada olursa olsun kendiliğinden durur, mahkûmiyet kararlarının infazı ertelenir, infazı devam edenler derhal tahliye edilir.
 (7) Altıncı fıkrada belirtilen borçlular hakkındaki yasal takipler neticesinde, kesin aciz vesikasına bağlanan (faiz, masraf, yargılama gideri, vekâlet ücreti ve diğer her türlü fer'ileri dâhil) Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketinin ve Tarım Kredi Kooperatiflerinin alacakları (18/4/2001 tarihli ve 2001/2312 sayılı Bakanlar Kurulu Kararı kapsamındakiler hariç) Hazine tarafından karşılanır.
@@ -214,35 +214,35 @@ Kesin aciz vesikasına bağlanan alacaklar Hazine adına Türkiye Cumhuriyeti Zi
 (8) Bu Kanunun yürürlük tarihinden itibaren, Hazine tarafından yapılan ödemeler, Hazine kontrolörleri tarafından ilgili kurumlar nezdinde incelenir. Söz konusu incelemeler sonucunda, fazla ve/veya eksik ödeme yapıldığının tespit edilmesi halinde ya da ilgili kurumlar tarafından Hazineden sehven talep edildiği tespit edilen tutarların Hazineye iade edilmesinde taraflar yükümlülüklerini faizsiz olarak yerine getirir.
 (9) Bu Kanunun yürürlüğe girdiği tarih ile değiştirilen altıncı ve yedinci fıkraların yürürlüğe girdiği tarihten önce yapılan ödemeler için bu Kanun hükümlerine dayanılarak iade yapılmaz. Bu Kanunda yer almayan hususlar hakkında Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketinin ve Tarım Kredi Kooperatiflerinin mevzuatı uygulanır.”
 
-MADDE 24 – 22/5/2007 tarihli ve 5664 sayılı Konut Edindirme Yardımı Hak Sahiplerine Ödeme Yapılmasına Dair Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 24 –** 22/5/2007 tarihli ve 5664 sayılı Konut Edindirme Yardımı Hak Sahiplerine Ödeme Yapılmasına Dair Kanuna aşağıdaki ek madde eklenmiştir.
 “EK MADDE 2 – (1) Bu Kanunun yürürlük tarihinden itibaren, hak sahiplerine ödenen tutarların çeşitli sebeplerle iade edilmesi halinde, EGYO tarafından iade edilen tutarlar herhangi bir faiz/gecikme zammı tahakkuk ettirilmeksizin Hazine Müsteşarlığının ilgili hesabına aktarılır. 5 inci maddenin onuncu fıkrası hükümleri saklıdır.”
 
-MADDE 25 – 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanununa 33 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 25 –** 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanununa 33 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Olağanüstü durumlar için teminat
 
 MADDE 33/A – (1) Terör, savaş hali, doğal afetler ve benzeri olağanüstü durumlarda, yurt içinden veya uluslararası piyasalardan söz konusu riskler için sigorta teminatı sağlanamaması ya da sağlanmasında güçlük bulunması ve Başbakanlığın gerekli görmesi halinde, Müsteşarlıkça sivil hava ve deniz ulaşım araçları için teminat sağlanmasına karar vermeye Bakan yetkilidir.
 (2) Müsteşarlık vereceği bu teminatı, sigorta teminatı şeklinde doğrudan veya sigorta kuruluşlarına vereceği reasürans teminatı şeklinde dolaylı olarak da sağlayabilir.
 (3) Verilecek teminatın kapsamı, süresi, türü, limitleri, karşılığında bir bedel alınıp alınmayacağı, bedel alınacak ise bedelin tutarı, alınacak bedelin nemalandırılması ve yönetimine ilişkin usul ve esaslar Bakan tarafından belirlenir.”
 
-MADDE 26 – 13/2/2011 tarihli ve 6111 sayılı Bazı Alacakların Yeniden Yapılandırılması ile Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 17 nci maddesinin yirmibirinci fıkrasının (a) ve (b) bentleri aşağıdaki şekilde değiştirilmiştir.
+**MADDE 26 –** 13/2/2011 tarihli ve 6111 sayılı Bazı Alacakların Yeniden Yapılandırılması ile Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 17 nci maddesinin yirmibirinci fıkrasının (a) ve (b) bentleri aşağıdaki şekilde değiştirilmiştir.
 “a) Tarım ve Köyişleri Bakanlığınca, tarımsal amaçlı kooperatiflere veya bu kooperatiflerin ortaklarına 31/12/2010 tarihinden önce kullandırılan ve bu Kanunun yayımlandığı tarih itibarıyla muaccel hale gelen krediler ile müteakiben yeniden yapılandırılan kredi alacaklarının bakiye asılları ile ödenmeyen alacağın vadesinin başlangıç tarihi itibarıyla bu Kanunun yayımlandığı tarihe kadar Bakanlıkça bu Kanunun yayımlandığı tarihte kredilere uygulanan sözleşme faiz oranı esas alınarak hesaplanacak tutar ile TEFE/ÜFE aylık değişim oranlarının yıllık toplamı dikkate alınarak basit usulde hesaplanacak tutardan düşük olanı esas alınarak hesaplanacak borç tutarının; bu Kanunun yayımlandığı tarihi izleyen dördüncü ayın sonuna kadar Tarım ve Köyişleri Bakanlığı il müdürlüklerine başvuruda bulunularak kredinin kalan vadesi beş yıldan az olan borçlular için ilk taksit 2011 yılı Eylül ayından başlamak üzere ve her yıl ilk taksidin tekabül ettiği ayda toplam beş eşit taksitte ödenmesi şartıyla, kredinin kalan vadesi beş yıldan fazla olan borçlular için de kalan vade süresinde ve aynı koşullarla ödenmesi şartıyla bu alacakların ödenen kısmına isabet eden fer’ilerin tahsilinden vazgeçilir.
 b) Bu Kanunun yayımlandığı tarihten önce dava konusu edilmiş ve/veya icra takibi başlatılmış alacaklar için, borçlunun bu fıkra hükümlerinden yararlanmak üzere başvuruda bulunması halinde davalar sonlandırılır ve icra takipleri durdurulur. Bu fıkra kapsamında borçları yapılandırılan kooperatif ve/veya ortaklarının borçları müteakiben tasfiye olunacak alacaklar hesaplarından çıkarılarak vadesi gelmemiş hesaplara aktarılır.”
 
-MADDE 27 – 6111 sayılı Kanunun 83 üncü maddesinin (a) bendiyle 1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununa ekli (2) sayılı tablonun “IV-Ticari ve medeni işlerle ilgili kâğıtlar” başlıklı bölümüne eklenen fıkranın (40) olan numarası (41) olarak değiştirilmiştir.
+**MADDE 27 –** 6111 sayılı Kanunun 83 üncü maddesinin (a) bendiyle 1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununa ekli (2) sayılı tablonun “IV-Ticari ve medeni işlerle ilgili kâğıtlar” başlıklı bölümüne eklenen fıkranın (40) olan numarası (41) olarak değiştirilmiştir.
 
-MADDE 28 – 6111 sayılı Kanunun 166 ncı maddesinin üçüncü fıkrasında yer alan “Bu Kanunun yayımından itibaren” ibaresi “1/8/2011 tarihinden itibaren” şeklinde değiştirilmiştir.
+**MADDE 28 –** 6111 sayılı Kanunun 166 ncı maddesinin üçüncü fıkrasında yer alan “Bu Kanunun yayımından itibaren” ibaresi “1/8/2011 tarihinden itibaren” şeklinde değiştirilmiştir.
 
-MADDE 29 – 6111 sayılı Kanunun geçici 11 inci maddesi yürürlükten kaldırılmıştır.
+**MADDE 29 –** 6111 sayılı Kanunun geçici 11 inci maddesi yürürlükten kaldırılmıştır.
 
-GEÇİCİ MADDE 1 – 25/6/1958 tarihli ve 7163 sayılı Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü Teşkilat Kanununa dayalı olarak eğitim-öğretim yapan Türkiye ve Orta-Doğu Amme İdaresi Enstitüsünde lisansüstü öğrenim görmekte iken terör suçundan hüküm giyenler hariç her ne sebeple olursa olsun ilişiği kesilenler, 25 Temmuz 2011 tarihine kadar Enstitüye başvuruda bulunmaları halinde 6111 sayılı Kanunun 173 üncü maddesiyle 2547 sayılı Kanuna eklenen geçici 58 inci madde ile tanınan haklardan Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü Lisansüstü Öğretim Yönetmeliği hükümleri çerçevesinde yararlandırılırlar.
+**GEÇİCİ MADDE 1 –** 25/6/1958 tarihli ve 7163 sayılı Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü Teşkilat Kanununa dayalı olarak eğitim-öğretim yapan Türkiye ve Orta-Doğu Amme İdaresi Enstitüsünde lisansüstü öğrenim görmekte iken terör suçundan hüküm giyenler hariç her ne sebeple olursa olsun ilişiği kesilenler, 25 Temmuz 2011 tarihine kadar Enstitüye başvuruda bulunmaları halinde 6111 sayılı Kanunun 173 üncü maddesiyle 2547 sayılı Kanuna eklenen geçici 58 inci madde ile tanınan haklardan Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü Lisansüstü Öğretim Yönetmeliği hükümleri çerçevesinde yararlandırılırlar.
 Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü Sevk ve İdare Yüksekokulu öğrencisi iken terör suçundan hüküm giyenler hariç her ne sebeple olursa olsun ilişiği kesilenlerin de bu maddenin yürürlüğe girdiği tarihten itibaren yukarıda belirtilen başvuru süresi içerisinde başvurmaları halinde Yükseköğretim Kurulunca uygun görülen yükseköğretim kurumu belirlenerek bu Kanunla verilen hakların kullanılması sağlanır.
 
-GEÇİCİ MADDE 2 – Milli Eğitim Bakanlığına tahsis edilen serbest öğretmen kadrolarından boş bulunan 24.745 öğretmen kadrosuna, 26/12/2010 tarihli ve 6091 sayılı 2011 Yılı Merkezi Yönetim Bütçe Kanununun 22 nci maddesi kapsamında yapılan atamaların dışında 31/12/2011 tarihine kadar atama yapılır.
+**GEÇİCİ MADDE 2 –** Milli Eğitim Bakanlığına tahsis edilen serbest öğretmen kadrolarından boş bulunan 24.745 öğretmen kadrosuna, 26/12/2010 tarihli ve 6091 sayılı 2011 Yılı Merkezi Yönetim Bütçe Kanununun 22 nci maddesi kapsamında yapılan atamaların dışında 31/12/2011 tarihine kadar atama yapılır.
 
-GEÇİCİ MADDE 3 – Sosyal Güvenlik Kurumu Başkanlığının merkez ve taşra teşkilatında boş bulunan kadrolara yılı merkezi yönetim bütçe kanununda yer alan sınırlamalara tabi olmaksızın 2011 yılı için 1500 adet atama yapılır.
+**GEÇİCİ MADDE 3 –** Sosyal Güvenlik Kurumu Başkanlığının merkez ve taşra teşkilatında boş bulunan kadrolara yılı merkezi yönetim bütçe kanununda yer alan sınırlamalara tabi olmaksızın 2011 yılı için 1500 adet atama yapılır.
 
-MADDE 30 – Bu Kanunun;
+**MADDE 30 –** Bu Kanunun;
 a) 17 nci maddesi 26/3/2011 tarihinden geçerli olmak üzere yayımı tarihinde,
 b) Diğer hükümleri ise yayımı tarihinde, yürürlüğe girer.
 
-MADDE 31 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 31 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

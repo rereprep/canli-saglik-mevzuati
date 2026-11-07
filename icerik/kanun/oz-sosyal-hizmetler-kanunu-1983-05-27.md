@@ -14,27 +14,27 @@ durum: "yürürlükte"
 
 ### SOSYAL HİZMETLER KANUNU [1][2]
 
-Kanun Numarası : 2828
+**Kanun Numarası : 2828**
 
-Kabul Tarihi : 24/5/1983
+**Kabul Tarihi : 24/5/1983**
 
-Yayımlandığı Resmî Gazete : Tarih : 27/5/1983 Sayı : 18059
+**Yayımlandığı Resmî Gazete : Tarih : 27/5/1983 Sayı : 18059**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 22 Sayfa : 355
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 22 Sayfa : 355**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Tanımlar ve Genel Esaslar
+**Amaç, Kapsam, Tanımlar ve Genel Esaslar**
 
 #### Amaç: [3][4]
 
 **Madde 1 –** Bu Kanunun amacı; korunmaya, bakıma veya yardıma ihtiyacı olan aile, çocuk, engelli, yaşlı ve diğer kişilere götürülen sosyal hizmetlere ve bu hizmetleri yürütmek üzere kurulan teşkilatın kuruluş, görev, yetki ve sorumluluklar ile faaliyet ve gelirlerine ait esas ve usulleri düzenlemektir.
 
-Kapsam:
+**Kapsam:**
 
 **Madde 2 –** Bu Kanun, sosyal hizmetlerle ilgili tüm kamu kurum ve kuruluşları ile gerçek kişileri ve özel hukuk tüzelkişilerini, sosyal hizmet kurum ve kuruluşlarında çalışan personeli, sosyal hizmetlerden faydalananları ve faydalanacak durumda olanları kapsar.
 
-Tanımlar:
+**Tanımlar:**
 
 **Madde 3 –** Kanunda geçen;
 
@@ -52,9 +52,9 @@ b) "Korunmaya ihtiyacı olan Çocuk"; beden, ruh ve ahlak gelişimleri veya şah
 
 Çocuğu,
 
-c) (Değişik: 30/5/1997 - KHK - 572/5 md.) "Engelli", doğuştan veya sonradan herhangi bir hastalık veya kaza sonucu bedensel, zihinsel, ruhsal, duygusal ve sosyal yeteneklerini çeşitli derecelerde kaybetmesi nedeniyle normal yaşamın gereklerine uymama durumunda olup; korunma, bakım, rehabilitasyon, danışmanlık ve destek hizmetlerine ihtiyacı olan kişiyi, [5][6]
+c) **(Değişik: 30/5/1997 - KHK - 572/5 md.)** "Engelli", doğuştan veya sonradan herhangi bir hastalık veya kaza sonucu bedensel, zihinsel, ruhsal, duygusal ve sosyal yeteneklerini çeşitli derecelerde kaybetmesi nedeniyle normal yaşamın gereklerine uymama durumunda olup; korunma, bakım, rehabilitasyon, danışmanlık ve destek hizmetlerine ihtiyacı olan kişiyi, [5][6]
 
-d) (Ek: 1/7/2005-5378/26 md.) [7] "Bakıma İhtiyacı Olan Engelli"; engellilik sınıflandırmasına göre resmî sağlık kurulu raporu ile ağır engelli olduğu belgelendirilenlerden, günlük hayatın alışılmış, tekrar eden gereklerini önemli ölçüde yerine getirememesi nedeniyle hayatını başkasının yardımı ve bakımı olmadan devam ettiremeyecek derecede düşkün olan kişiyi,[8] 5
+d) **(Ek: 1/7/2005-5378/26 md.)** [7] "Bakıma İhtiyacı Olan Engelli"; engellilik sınıflandırmasına göre resmî sağlık kurulu raporu ile ağır engelli olduğu belgelendirilenlerden, günlük hayatın alışılmış, tekrar eden gereklerini önemli ölçüde yerine getirememesi nedeniyle hayatını başkasının yardımı ve bakımı olmadan devam ettiremeyecek derecede düşkün olan kişiyi,[8] 5
 
 e) " İhtiyacı Olan Yaşlı"; sosyal veya ekonomik yönden yoksunluk içinde olup korunmaya, bakıma ve yardıma ihtiyacı olan yaşlı statüsündeki kişiyi, 5
 
@@ -70,47 +70,47 @@ f) Sosyal hizmet kuruluşları; bu Kanunun amacına ve belirtilen esaslara uygun
 
 5. "Bakım ve Rehabilitasyon Merkezleri"; bedensel, zihinsel ve ruhsal engellilikleri nedeniyle normal yaşamın gereklerine uymama durumunda olan kişilerin, fonksiyon kayıplarını gidermek ve toplum içinde kendi kendilerine yeterli olmasını sağlayan beceriler kazandırmak veya bu becerileri kazanamayanlara devamlı bakmak üzere kurulan sosyal hizmet kuruluşlarını,[10]
 
-6. (Ek: 30/5/1997 - KHK - 572/5 md.; Değişik: 6/2/2014-6518/14 md.) (Değişik:22/4/2026-7578/4 md.) “İhtisaslaştırılmış Çocuk Evleri Sitesi”; Suça sürüklenmesi, suç mağduru olması veya sokakta sosyal tehlikelerle karşı karşıya kalması sebebiyle haklarında bakım tedbiri veya korunma kararı verilen çocuklardan psikososyal desteğe ihtiyaç duyduğu tespit edilenler ve refakatsiz çocukların bu ihtiyaçları giderilinceye kadar geçici süre ile bakım ve korunmalarının sağlandığı, bu süre içinde aile, yakın çevre ve toplum ilişkilerinin düzenlenmesine yönelik çalışmaların yürütüldüğü; çocukların mağduriyet, suça sürüklenme, yaş ve cinsiyet durumuna göre ayrı ayrı yapılandırılan güvenlikli yatılı sosyal hizmet kuruluşlarını,
+6. **(Ek: 30/5/1997 - KHK - 572/5 md.; Değişik: 6/2/2014-6518/14 md.) (Değişik:22/4/2026-7578/4 md.)** “İhtisaslaştırılmış Çocuk Evleri Sitesi”; Suça sürüklenmesi, suç mağduru olması veya sokakta sosyal tehlikelerle karşı karşıya kalması sebebiyle haklarında bakım tedbiri veya korunma kararı verilen çocuklardan psikososyal desteğe ihtiyaç duyduğu tespit edilenler ve refakatsiz çocukların bu ihtiyaçları giderilinceye kadar geçici süre ile bakım ve korunmalarının sağlandığı, bu süre içinde aile, yakın çevre ve toplum ilişkilerinin düzenlenmesine yönelik çalışmaların yürütüldüğü; çocukların mağduriyet, suça sürüklenme, yaş ve cinsiyet durumuna göre ayrı ayrı yapılandırılan güvenlikli yatılı sosyal hizmet kuruluşlarını,
 
-7. (Ek: 30/5/1997 - KHK - 572/5 md.) "Kadın veya Erkek Konukevleri", fiziksel, duygusal, cinsel ve ekonomik istismara uğrayan kadın veya erkeklerin psiko-sosyal ve ekonomik problemlerinin çözümlenmesi sırasında varsa çocukları ile birlikte ihtiyaçlarını karşılamak amacıyla geçici bir süre kalabilecekleri yatılı sosyal hizmet kuruluşlarını,
+7. **(Ek: 30/5/1997 - KHK - 572/5 md.)** "Kadın veya Erkek Konukevleri", fiziksel, duygusal, cinsel ve ekonomik istismara uğrayan kadın veya erkeklerin psiko-sosyal ve ekonomik problemlerinin çözümlenmesi sırasında varsa çocukları ile birlikte ihtiyaçlarını karşılamak amacıyla geçici bir süre kalabilecekleri yatılı sosyal hizmet kuruluşlarını,
 
-8. (Ek: 30/5/1997 - KHK - 572/5 md.) "Toplum veya Aile Danışma Merkezleri", toplumun ve ailenin gelişmesi için; bireyin katılımcı, üretken ve kendine yeterli hale gelmesi amacıyla koruyucu, önleyici, eğitici, geliştirici, rehberlik ve rehabilite edici işlevlerini, gerekirse diğer kuruluşlar ve gönüllülerle işbirliği içerisinde sunmakla görevli bulunan gündüzlü sosyal hizmet kuruluşlarını,
+8. **(Ek: 30/5/1997 - KHK - 572/5 md.)** "Toplum veya Aile Danışma Merkezleri", toplumun ve ailenin gelişmesi için; bireyin katılımcı, üretken ve kendine yeterli hale gelmesi amacıyla koruyucu, önleyici, eğitici, geliştirici, rehberlik ve rehabilite edici işlevlerini, gerekirse diğer kuruluşlar ve gönüllülerle işbirliği içerisinde sunmakla görevli bulunan gündüzlü sosyal hizmet kuruluşlarını,
 
-9. (Ek: 30/5/1997 - KHK-572/5 md.; Değişik: 6/12/2017-7063/5 md.) “Aktif Yaşam Merkezi”; Yaşlı bireyler ile engelli bireylerin yaşam kalitesinin artırılması ve sosyal hayata aktif katılımlarına katkı sağlanması amacıyla, engelli ve yaşlı bireyler ile ailelerine rehberlik ve destek hizmeti ile evde gündüz bakım hizmeti sunan gündüzlü sosyal hizmet kuruluşlarını,
+9. **(Ek: 30/5/1997 - KHK-572/5 md.; Değişik: 6/12/2017-7063/5 md.)** “Aktif Yaşam Merkezi”; Yaşlı bireyler ile engelli bireylerin yaşam kalitesinin artırılması ve sosyal hayata aktif katılımlarına katkı sağlanması amacıyla, engelli ve yaşlı bireyler ile ailelerine rehberlik ve destek hizmeti ile evde gündüz bakım hizmeti sunan gündüzlü sosyal hizmet kuruluşlarını,
 
-10. (Ek : 21/1/2000 - KHK - 594/1 md.) “Çok Amaçlı Sosyal Hizmet Kuruluşları”; aynı yerleşkede ve/veya binada, birden çok sosyal hizmet kuruluşunun tek yönetim ve denetim altında kurulmasına ve çalışmasına imkan tanıyan sosyal hizmet kuruluşlarını,
+10. **(Ek : 21/1/2000 - KHK - 594/1 md.)** “Çok Amaçlı Sosyal Hizmet Kuruluşları”; aynı yerleşkede ve/veya binada, birden çok sosyal hizmet kuruluşunun tek yönetim ve denetim altında kurulmasına ve çalışmasına imkan tanıyan sosyal hizmet kuruluşlarını,
 
-11. (Ek: 1/7/2005-5378/26 md.) "Çocuk evleri"; 0-18 yaşlar arasındaki korunmaya ihtiyacı olan çocukların kaldığı ev birimlerini,[11]
+11. **(Ek: 1/7/2005-5378/26 md.)** "Çocuk evleri"; 0-18 yaşlar arasındaki korunmaya ihtiyacı olan çocukların kaldığı ev birimlerini,[11]
 
-12. (Ek: 1/2/2007-5579/1 md.;Değişik: 6/2/2014-6518/14 md.) (Değişik:22/4/2026-7578/4 md.) “Çocuk Evleri Sitesi”; Korunma ihtiyacı olan çocukların bakımlarının sağlandığı aynı yerleşkede bulunan ev tipi sosyal hizmet birimlerinden oluşan kuruluşu,
+12. **(Ek: 1/2/2007-5579/1 md.;Değişik: 6/2/2014-6518/14 md.) (Değişik:22/4/2026-7578/4 md.)** “Çocuk Evleri Sitesi”; Korunma ihtiyacı olan çocukların bakımlarının sağlandığı aynı yerleşkede bulunan ev tipi sosyal hizmet birimlerinden oluşan kuruluşu,
 
-13. (Ek: 1/2/2007-5579/1 md.; Değişik: 6/2/2014-6518/14 md.) “Ev Tipi Sosyal Hizmet Birimleri”; Çocuk, kadın, engelli ve yaşlılar ile bakım veya barınma ihtiyacı olan kişilere hizmet verilen mesken niteliğindeki yatılı sosyal hizmet birimlerini,
+13. **(Ek: 1/2/2007-5579/1 md.; Değişik: 6/2/2014-6518/14 md.)** “Ev Tipi Sosyal Hizmet Birimleri”; Çocuk, kadın, engelli ve yaşlılar ile bakım veya barınma ihtiyacı olan kişilere hizmet verilen mesken niteliğindeki yatılı sosyal hizmet birimlerini,
 
-14. (Ek: 1/2/2007-5579/1 md.; Değişik: 6/2/2014-6518/14 md.) “Ev Tipi Sosyal Hizmet Birimleri Koordinasyon Merkezi”; İl müdürlüğü bünyesinde oluşturulan ev tipi sosyal hizmet birimlerinin bağlı olduğu merkezi,
+14. **(Ek: 1/2/2007-5579/1 md.; Değişik: 6/2/2014-6518/14 md.)** “Ev Tipi Sosyal Hizmet Birimleri Koordinasyon Merkezi”; İl müdürlüğü bünyesinde oluşturulan ev tipi sosyal hizmet birimlerinin bağlı olduğu merkezi,
 
-15. (Ek: 11/10/2011 - KHK - 662/10 md.) “Sosyal Hizmet Merkezi”; İhtiyaç sahiplerinin tespit edilerek sosyal hizmet müdahalesinin ve takibinin gerçekleştirilmesi, çocuk, genç, kadın, erkek, engelli, yaşlı bireylere ve ailelerine koruyucu, önleyici, destekleyici, geliştirici hizmetler ile rehberlik ve danışmanlık hizmetlerinin bir arada ve en kolay ulaşılabilir biçimde, gerektiğinde kamu kurum ve kuruluşları, yerel yönetimler, üniversiteler, sivil toplum kuruluşları ve gönüllüler ile işbirliği içinde sunulmasından ve bu hizmetlerin koordinasyonundan sorumlu gündüzlü sosyal hizmet kuruluşlarını,[12]
+15. **(Ek: 11/10/2011 - KHK - 662/10 md.)** “Sosyal Hizmet Merkezi”; İhtiyaç sahiplerinin tespit edilerek sosyal hizmet müdahalesinin ve takibinin gerçekleştirilmesi, çocuk, genç, kadın, erkek, engelli, yaşlı bireylere ve ailelerine koruyucu, önleyici, destekleyici, geliştirici hizmetler ile rehberlik ve danışmanlık hizmetlerinin bir arada ve en kolay ulaşılabilir biçimde, gerektiğinde kamu kurum ve kuruluşları, yerel yönetimler, üniversiteler, sivil toplum kuruluşları ve gönüllüler ile işbirliği içinde sunulmasından ve bu hizmetlerin koordinasyonundan sorumlu gündüzlü sosyal hizmet kuruluşlarını,[12]
 
-16. (Ek: 11/10/2011 - KHK - 662/10 md.) “Çocuk Evleri Koordinasyon Merkezi”; Çocuk evlerinin illerde planlanması, açılış ve işleyişine ilişkin her türlü işlemler ile harcamaların yapılması, takibi, denetlenmesi ve çocuk evleri arasındaki koordinasyonun sağlanması amacıyla oluşturulan merkezleri,
+16. **(Ek: 11/10/2011 - KHK - 662/10 md.)** “Çocuk Evleri Koordinasyon Merkezi”; Çocuk evlerinin illerde planlanması, açılış ve işleyişine ilişkin her türlü işlemler ile harcamaların yapılması, takibi, denetlenmesi ve çocuk evleri arasındaki koordinasyonun sağlanması amacıyla oluşturulan merkezleri,
 
-17. (Ek:22/4/2026-7578/4 md.) “Çocuk Koruma İlk Müdahale ve Değerlendirme Merkezi”; Korunma ihtiyacı olan veya adli süreçteki çocuklar hakkında uygun hizmet modeli belirleninceye veya mahkeme kararı alınıncaya kadar geçici bir süre barınma ve temel gereksinimleri karşılamak üzere açılan güvenlikli yatılı sosyal hizmet kuruluşlarını,[13]
+17. **(Ek:22/4/2026-7578/4 md.)** “Çocuk Koruma İlk Müdahale ve Değerlendirme Merkezi”; Korunma ihtiyacı olan veya adli süreçteki çocuklar hakkında uygun hizmet modeli belirleninceye veya mahkeme kararı alınıncaya kadar geçici bir süre barınma ve temel gereksinimleri karşılamak üzere açılan güvenlikli yatılı sosyal hizmet kuruluşlarını,[13]
 
 g) "Kurum"; bu Kanunla kurulan Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünü,
 
-h) (Ek:22/4/2026-7578/4 md.) “İhtisaslaşma”; Çocuk bakım kuruluşlarının, çocukların özel surette korunmaları amacıyla yaş ve cinsiyet durumları ile psikososyal ihtiyaçlarına yönelik yapılandırılmasını,
+h) **(Ek:22/4/2026-7578/4 md.)** “İhtisaslaşma”; Çocuk bakım kuruluşlarının, çocukların özel surette korunmaları amacıyla yaş ve cinsiyet durumları ile psikososyal ihtiyaçlarına yönelik yapılandırılmasını,
 
-ı) (Ek:22/4/2026-7578/4 md.) “Sosyal ve ekonomik destek”; Ailesi veya yakını yanında bakımı için desteklenen çocuklar ve gençler ile hakkındaki korunma kararı veya bakım tedbiri kararı reşit olması nedeniyle sona eren kişilere verilen desteği,
+ı) **(Ek:22/4/2026-7578/4 md.)** “Sosyal ve ekonomik destek”; Ailesi veya yakını yanında bakımı için desteklenen çocuklar ve gençler ile hakkındaki korunma kararı veya bakım tedbiri kararı reşit olması nedeniyle sona eren kişilere verilen desteği,
 
-j) (Ek:22/4/2026-7578/4 md.) “Koruyucu aile”; Korunma ihtiyacı olan çocukların bakım ve yetiştirilmelerini sağlamak üzere yanına yerleştirildiği, çocukların ihtiyaçlarını karşılamak üzere yapılacak bir ödeme karşılığında veya gönüllü olarak bakımı üstlenen kişi ya da aileyi,
+j) **(Ek:22/4/2026-7578/4 md.)** “Koruyucu aile”; Korunma ihtiyacı olan çocukların bakım ve yetiştirilmelerini sağlamak üzere yanına yerleştirildiği, çocukların ihtiyaçlarını karşılamak üzere yapılacak bir ödeme karşılığında veya gönüllü olarak bakımı üstlenen kişi ya da aileyi,
 
-k) (Ek:22/4/2026-7578/4 md.) “Merkezî İzleme Sistemi”; Aile ve Sosyal Hizmetler Bakanlığı merkez teşkilatında kurulan, tüm sosyal hizmet kuruluşlarında bulunan yazılım destekli kamera sistemlerince yapılan yerel kayıtların eş zamanlı olarak aktarıldığı, kesintisiz çalışan, veri toplama, analiz, denetim ve disiplin süreçlerinde kullanılan altyapıyı,
+k) **(Ek:22/4/2026-7578/4 md.)** “Merkezî İzleme Sistemi”; Aile ve Sosyal Hizmetler Bakanlığı merkez teşkilatında kurulan, tüm sosyal hizmet kuruluşlarında bulunan yazılım destekli kamera sistemlerince yapılan yerel kayıtların eş zamanlı olarak aktarıldığı, kesintisiz çalışan, veri toplama, analiz, denetim ve disiplin süreçlerinde kullanılan altyapıyı,
 
 İfade eder.
 
-Genel esaslar:
+**Genel esaslar:**
 
 **Madde 4 –** Sosyal hizmetlere ilişkin genel esaslar şunlardır:
 
-a) (Değişik: 1/7/2005-5378/27 md.) Bu Kanun kapsamına giren sosyal hizmetlere ilişkin faaliyetler, Devletin denetim ve gözetiminde, sivil toplum kuruluşları ile halkın gönüllü katkı ve katılımı da sağlanarak bir bütünlük içinde yürütülür. Sunulacak bakım ve diğer hizmetlerin kapsamı ve bu hizmetleri verecek olan gerçek ve tüzel kişilerin izin, çalışma usûl ve esasları ve diğer hususlar Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından çıkarılacak bir yönetmelikle düzenlenir.
+a) **(Değişik: 1/7/2005-5378/27 md.)** Bu Kanun kapsamına giren sosyal hizmetlere ilişkin faaliyetler, Devletin denetim ve gözetiminde, sivil toplum kuruluşları ile halkın gönüllü katkı ve katılımı da sağlanarak bir bütünlük içinde yürütülür. Sunulacak bakım ve diğer hizmetlerin kapsamı ve bu hizmetleri verecek olan gerçek ve tüzel kişilerin izin, çalışma usûl ve esasları ve diğer hususlar Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından çıkarılacak bir yönetmelikle düzenlenir.
 
 b) Sosyal hizmetler alanında faaliyet gösteren kamu kurum ve kuruluşları ile gönüllü kuruluşlar arasında koordinasyon ve işbirliği tesis edilerek güç birliği sağlanır ve mevcut kaynaklara en verimli şekilde işlerlik kazandırılır.
 
@@ -118,13 +118,13 @@ c) Sosyal hizmet programlarının uygulanmasında korunmaya ihtiyacı olan çocu
 
 d) Sosyal hizmetlerin yürütülmesi ve sunulmasında sınıf, ırk, dil, din, mezhep veya bölge farklılığı gözetilemez, hizmet talebinin hizmet arzından fazla olması halinde öncelikler, ihtiyacı olan olma derecesi ve başvuru veya tespit sırası esas alınarak belirlenir. 15
 
-e) (Mülga: 1/7/2005-5378/27 md.)
+e) **(Mülga: 1/7/2005-5378/27 md.)**
 
 f) Bu Kanunla kurulan Kuruma bağlı kuruluşların dışındaki sosyal hizmet kuruluşlarının kurulması izne tabi olup, alınacak tertip ve tedbirlerle bunların hizmet, işleyiş ve personele ilişkin hususlarda tespit edilen standart ve esaslara uygun olarak faaliyette bulunmaları sağlanır.
 
 g) Sosyal hizmet kuruluşlarının coğrafik ve fonksiyonel görev alanlarının ve yurt sathında dengeli dağılımının görev boşluğu bırakılmayacak şekilde düzenlenmesi esastır.
 
-h) (Değişik: 30/5/1997 - KHK - 572/6 md.) Çocuk yuvaları ile yetiştirme yurtlarının korunmaya ihtiyacı olan çocukların yaş, cinsiyet, sosyal ve psikolojik özellikleri ile engel dereceleri dikkate alınarak, kaynaştırma anlayışına göre gruplandırılması ve özellikle çocuk yuvalarının, huzurevleri ile aynı mahallerde tesis edilerek dede-torun, nine-torun ilişkilerinin sağlanması esas alınır. 14 15
+h) **(Değişik: 30/5/1997 - KHK - 572/6 md.)** Çocuk yuvaları ile yetiştirme yurtlarının korunmaya ihtiyacı olan çocukların yaş, cinsiyet, sosyal ve psikolojik özellikleri ile engel dereceleri dikkate alınarak, kaynaştırma anlayışına göre gruplandırılması ve özellikle çocuk yuvalarının, huzurevleri ile aynı mahallerde tesis edilerek dede-torun, nine-torun ilişkilerinin sağlanması esas alınır. 14 15
 
 ı) Korunmaya, bakıma ve yardıma ihtiyacı olan kişilere hizmet sunumu insan haysiyet ve vakarına yaraşır şekilde yerine getirilir. 15
 
@@ -134,9 +134,9 @@ k) Korunmaya ihtiyacı olan çocukların Türk örf, adet, inanç ve milli ahlak
 
 l) İhtiyacı olan, engelli ve yaşlıların hayatlarını sağlık, huzur ve güven içinde sürdürmesi, ihtiyacı olan engellilerin toplum içinde kendi kendilerini idare edebilecek ve üretken hale gelebilecek şekilde bakım ve rehabilitasyonlarının yapılması, bunlardan tedavisi mümkün olmayanların sürekli bakım altına alınması amacıyla gerekli her türlü tertip ve tedbir alınır. 14 15
 
-m) (Ek: 21/1/2000 - KHK - 594/2 md.) Doğal afetlerde ulusal ve uluslararası sosyal hizmet kurum ve kuruluşlarıyla birlikte hareket edilmesi ve acil kurtarma ve yardım çalışmalarının etkili şekilde yürütülmesi amacıyla gerekli her türlü tertip ve tedbir alınır.
+m) **(Ek: 21/1/2000 - KHK - 594/2 md.)** Doğal afetlerde ulusal ve uluslararası sosyal hizmet kurum ve kuruluşlarıyla birlikte hareket edilmesi ve acil kurtarma ve yardım çalışmalarının etkili şekilde yürütülmesi amacıyla gerekli her türlü tertip ve tedbir alınır.
 
-(Ek fıkra: 3/6/2011-KHK-633/35 md.) E ngelli lere yönelik hizmetlerin yürütülmesine ilişkin genel esaslar şunlardır: 14
+**(Ek fıkra: 3/6/2011-KHK-633/35 md.)** E ngelli lere yönelik hizmetlerin yürütülmesine ilişkin genel esaslar şunlardır: 14
 
 a) Eşit katılım için, engelli lerin sahip oldukları hak ve yükümlülükler konusunda birey, aile ve toplumun bilinçlendirilmesi, tıbbî bakım ve rehabilitasyonlarının sağlanması, günlük yaşamlarında kendi başlarına yaşayabilme kapasitelerinin artırılması. 14
 
@@ -152,81 +152,81 @@ f) Engelli lere ilişkin plan ve programlar ile ekonomik ve sosyal statülerini 
 
 ### İKİNCİ BÖLÜM
 
-Kuruluş ve Görevler
+**Kuruluş ve Görevler**
 
-Kuruluş:
+**Kuruluş:**
 
 **Madde 5 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Sosyal Hizmetler Danışma Kurulu:
+**Sosyal Hizmetler Danışma Kurulu:**
 
 **Madde 6 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Sosyal Hizmetler Danışma Kurulunun görevleri:
+**Sosyal Hizmetler Danışma Kurulunun görevleri:**
 
 **Madde 7 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Kurumun kuruluşu:
+**Kurumun kuruluşu:**
 
 **Madde 8 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Kurumun görevleri:
+**Kurumun görevleri:**
 
 **Madde 9 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Kurumun merkez teşkilatı ve görevleri:
+**Kurumun merkez teşkilatı ve görevleri:**
 
 **Madde 10 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Sosyal Hizmetler Eğitim Merkezi Başkanlığının kuruluş ve görevleri:
+**Sosyal Hizmetler Eğitim Merkezi Başkanlığının kuruluş ve görevleri:**
 
 **Madde 11 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Taşra teşkilatı:
+**Taşra teşkilatı:**
 
 **Madde 12 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-İl Sosyal Hizmetler Kurulunun kuruluş, görev ve çalışma esasları:
+**İl Sosyal Hizmetler Kurulunun kuruluş, görev ve çalışma esasları:**
 
 **Madde 13 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-İl Sosyal Hizmetler Müdürlüğü kuruluş, kadro ve görevleri:
+**İl Sosyal Hizmetler Müdürlüğü kuruluş, kadro ve görevleri:**
 
 **Madde 14 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Sosyal hizmet kuruluşları:
+**Sosyal hizmet kuruluşları:**
 
 **Madde 15 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Personel statüsü:
+**Personel statüsü:**
 
 **Madde 16 –** Kurum personeli hakkında 657 sayılı Devlet Memurları Kanunu hükümleri uygulanır.
 
 Kurum, hizmetin gereği veya daimi kadro ile yapılamayan veya daimi kadro ile yapılması güçlük arzeden işler için sözleşme ile personel çalıştırabilir. Bu personel tercihen 40 yaşını doldurmuş kişiler arasından seçilir.
 
-(Değişik üçüncü fıkra: 30/5/1997 - KHK - 572/9 md.) Korunmaya ve bakıma alınmış olup, iş görme gücüne sahip ve istekli olanlar, bulundukları sosyal hizmet kuruluşlarının uygun görülen hizmetlerinde bu hizmetlerle ilgili kadroların boş tutulması ve her boş kadro karşılığı haftada 40 saati geçmemek üzere tespit edilecek çalışma saatleri içinde, saat başına ücret ödenmek kaydıyla, 657 sayılı Devlet Memurları Kanunu, iş ve sosyal güvenlikle ilgili mevzuat hükümlerine tabi olmaksızın ve Borçlar Kanunu hükümlerine göre sözleşme ile çalıştırılabilirler. Bu kadroların % 30'u engellilikleri nedeniyle koruma kararı uzatılanlara tahsis edilir. Saat ücreti asgari ücretin aylık çalışma saati toplamına bölünmesi ile tespit edilir. Bir kadro karşılığında çalışma saati ile sınırlı olmak üzere birden fazla kişi çalıştırılabilir. Ancak kişi başına ayda 60 saatin dışında ücret ödenemez.[17]
+**(Değişik üçüncü fıkra: 30/5/1997 - KHK - 572/9 md.)** Korunmaya ve bakıma alınmış olup, iş görme gücüne sahip ve istekli olanlar, bulundukları sosyal hizmet kuruluşlarının uygun görülen hizmetlerinde bu hizmetlerle ilgili kadroların boş tutulması ve her boş kadro karşılığı haftada 40 saati geçmemek üzere tespit edilecek çalışma saatleri içinde, saat başına ücret ödenmek kaydıyla, 657 sayılı Devlet Memurları Kanunu, iş ve sosyal güvenlikle ilgili mevzuat hükümlerine tabi olmaksızın ve Borçlar Kanunu hükümlerine göre sözleşme ile çalıştırılabilirler. Bu kadroların % 30'u engellilikleri nedeniyle koruma kararı uzatılanlara tahsis edilir. Saat ücreti asgari ücretin aylık çalışma saati toplamına bölünmesi ile tespit edilir. Bir kadro karşılığında çalışma saati ile sınırlı olmak üzere birden fazla kişi çalıştırılabilir. Ancak kişi başına ayda 60 saatin dışında ücret ödenemez.[17]
 
-(Ek: 14/3/1991 - 3703/4 md.; Mülga dördüncü fıkra: 3/6/2011-KHK-633/35 md.)
+**(Ek: 14/3/1991 - 3703/4 md.; Mülga dördüncü fıkra: 3/6/2011-KHK-633/35 md.)**
 
-(Ek: 14/3/1991 - 3703/4 md.; Mülga beşinci fıkra: 3/6/2011-KHK-633/35 md.)
+**(Ek: 14/3/1991 - 3703/4 md.; Mülga beşinci fıkra: 3/6/2011-KHK-633/35 md.)**
 
-(Ek: 14/3/1991 - 3703/4 md.; Mülga altıncı fıkra: 3/6/2011-KHK-633/35 md.)
+**(Ek: 14/3/1991 - 3703/4 md.; Mülga altıncı fıkra: 3/6/2011-KHK-633/35 md.)**
 
-(Ek: 14/3/1991 - 3703/4 md.; Mülga yedinci fıkra: 3/6/2011-KHK-633/35 md.)
+**(Ek: 14/3/1991 - 3703/4 md.; Mülga yedinci fıkra: 3/6/2011-KHK-633/35 md.)**
 
-(Ek: 14/3/1991 - 3703/4 md.; Mülga: 5/7/1991 - KHK - 433/16 md.)
+**(Ek: 14/3/1991 - 3703/4 md.; Mülga: 5/7/1991 - KHK - 433/16 md.)**
 
-(Ek fıkra: 6/2/2014-6518/15 md.) Ev tipi sosyal hizmet birimleri, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 4 üncü maddesinin birinci fıkrası hükmü kapsamındadır.
+**(Ek fıkra: 6/2/2014-6518/15 md.)** Ev tipi sosyal hizmet birimleri, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 4 üncü maddesinin birinci fıkrası hükmü kapsamındadır.
 
-Atamalar:
+**Atamalar:**
 
 **Madde 17 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Mali Hükümler
+**Mali Hükümler**
 
-Kurumun gelirleri:
+**Kurumun gelirleri:**
 
 **Madde 18 –** Kurumun gelirleri şunlardır:
 
@@ -244,17 +244,17 @@ f) Türk Hava Kurumunca toplanacak kurban derisi, fitre, zekat gelirlerinden Kur
 
 g) Belediye sınırları ile mücavir alanlar içinde düzenlenen fuar, festival, sergi ve benzeri yerlere giriş biletlerine, Cumhurbaşkanınca tespit edilen miktarda yapıştırılacak sosyal yardım pulu gelirleri,[18]
 
-h) (Mülga: 14/3/2007-5602/11 md.)
+h) **(Mülga: 14/3/2007-5602/11 md.)**
 
-ı) (Mülga: 7/12/2004-5272/87 md.)
+ı) **(Mülga: 7/12/2004-5272/87 md.)**
 
-j) (Mülga: 7/12/2004-5272/87 md.)
+j) **(Mülga: 7/12/2004-5272/87 md.)**
 
 k) Kanunla kurulan döner sermaye işletmelerinin (Vakıflar Genel Müdürlüğüne ve Orman Genel Müdürlüğü'ne ait olanlar hariç), yıllık brüt hasılatlarının % 1'inin Kuruma aktarılmasıyla elde edilecek gelirler.[19]
 
-(Değişik ikinci fıkra: 14/3/2007-5602/10 md.) Yukarıda sayılan gelirlerden (k) bendinde belirtilenler, hasılatın elde edilmesini takip eden ayın son gününe kadar Kuruma ödenmek zorundadır. Bu süreler içinde ödemelerin yapılmasından ilgili kurum ve kuruluşların yetkili amirleri ile muhasebe yetkilileri ortaklaşa sorumlu olup, ödemelerin geciktirilmesi halinde ödenmesi gereken miktarlar % 5 cezaî faizle birlikte kendilerinden tahsil olunur.
+**(Değişik ikinci fıkra: 14/3/2007-5602/10 md.)** Yukarıda sayılan gelirlerden (k) bendinde belirtilenler, hasılatın elde edilmesini takip eden ayın son gününe kadar Kuruma ödenmek zorundadır. Bu süreler içinde ödemelerin yapılmasından ilgili kurum ve kuruluşların yetkili amirleri ile muhasebe yetkilileri ortaklaşa sorumlu olup, ödemelerin geciktirilmesi halinde ödenmesi gereken miktarlar % 5 cezaî faizle birlikte kendilerinden tahsil olunur.
 
-Döner sermaye:
+**Döner sermaye:**
 
 **Madde 19 –** (Mülga: 3/6/2011-KHK-633/35 md.; Yeniden düzenleme: 6/2/2014-6518/16 md.)
 
@@ -276,7 +276,7 @@ Döner sermaye işletmesinin gelirleri, bu maddenin birinci fıkrasında sayıla
 
 Döner Sermaye Merkez Müdürlüğünün görevleri ve çalışmaları ile işletmelerin yönetimi, faaliyet alanları, işleyişi, sermaye kaynakları, her türlü idari ve mali işlemlerine ilişkin usul ve esaslar, Maliye Bakanlığının görüşü alınarak çıkarılacak yönetmelikle belirlenir.
 
-Mali kolaylıklar:
+**Mali kolaylıklar:**
 
 **Madde 20 –** a) Kurum ve kuruluşlarına yapılacak her türlü bağış, yardım ve vasiyetler vergi, resim ve harçlardan muaftır. Bağış, yardım ve vasiyetlerin kullanılmasında bağış, yardım ve vasiyet yapanların koydukları ve kanunlara göre geçerli sayılan kayıtlara ve şartlara uyulur.
 
@@ -288,29 +288,29 @@ d) Türkiye Çocuk Esirgeme Kurumuna kanunlarla verilmiş olan imtiyazlar, Kurum
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Tespit, İnceleme ve Koruma
+**Tespit, İnceleme ve Koruma**
 
-Tespit ve inceleme:
+**Tespit ve inceleme:**
 
 **Madde 21 –** Kurum, korunmaya, bakıma, yardıma ihtiyacı olan aile, çocuk, engelli ve yaşlılar ile sosyal hizmetlere ihtiyacı olan diğer kişileri tespit ve incelemekle görevlidir.[23][24]
 
 Bu kişilerin Kuruma duyurulmasında ve incelemeye ilişkin olarak Kurum ile işbirliğinde bulunulmasında mahalli mülki amirler, sağlık kuruluşları ve köy muhtarları ile genel kolluk kuvvetleri ve belediye zabıta memurları yükümlüdürler.
 
-Korunma kararı:
+**Korunma kararı:**
 
 **Madde 22 –** Korunmaya ihtiyacı olan çocukların reşit oluncaya kadar bu Kanun hükümlerine göre Kurumca kurulan sosyal hizmet kuruluşlarında bakılıp yetiştirilmeleri ve bir meslek sahibi edilmeleri hususundaki gerekli tedbir kararı 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununa göre yetkili ve görevli mahkemece alınır. Bu karar için gerekli belgeler Kurumca düzenlenir ve ilgili mahkemeye gönderilir.[25] [26]
 
 Haklarında derhal korunma tedbiri alınmasında zorunluluk görülen çocuklar mahkeme kararı alınıncaya kadar, bu Kanuna göre kurulmuş kuruluşlarda veya aile yanında mahalli mülki amirin onayı alınmak suretiyle bakım altına alınır.
 
-(Ek fıkra: 6/2/2014-6518/17 md.) Sosyal hizmet kuruluşlarının kendisine teslim edilen çocuk hakkında yapacağı inceleme sonucunda hazırlayacağı raporda, 5395 sayılı Kanunun 9 uncu maddesi uyarınca çocuğun derhâl korunma altına alınmasını gerektiren bir durum olmadığı ve ailesine teslim edilmesinde herhangi bir sakınca bulunmadığı kanaatine varması hâlinde mülki idare amirinin onayı ile çocuk ailesine teslim edilebilir.
+**(Ek fıkra: 6/2/2014-6518/17 md.)** Sosyal hizmet kuruluşlarının kendisine teslim edilen çocuk hakkında yapacağı inceleme sonucunda hazırlayacağı raporda, 5395 sayılı Kanunun 9 uncu maddesi uyarınca çocuğun derhâl korunma altına alınmasını gerektiren bir durum olmadığı ve ailesine teslim edilmesinde herhangi bir sakınca bulunmadığı kanaatine varması hâlinde mülki idare amirinin onayı ile çocuk ailesine teslim edilebilir.
 
-Koruyucu aile:
+**Koruyucu aile:**
 
-**Madde 23 –** Mahkemece korunma kararı alınan korunmaya ihtiyacı olan çocuğun bakımı ve yetiştirilmesi bu Kanuna göre kurulmuş kuruluşlarda olduğu kadar Kurumun denetim ve gözetiminde bir "Koruyucu Aile" tarafından da yerine getirilebilir. (Değişik ikinci cümle: 6/2/2014-6518/18 md.) Koruyucu aileye, korunmaya ihtiyacı olan çocuğun bakımı ve yetiştirilmesine karşılık olarak üçüncü fıkra kapsamında ödeme yapılabileceği gibi koruyucu aile bu işi gönüllü olarak da üstlenebilir. 26 [27]
+**Madde 23 –** Mahkemece korunma kararı alınan korunmaya ihtiyacı olan çocuğun bakımı ve yetiştirilmesi bu Kanuna göre kurulmuş kuruluşlarda olduğu kadar Kurumun denetim ve gözetiminde bir "Koruyucu Aile" tarafından da yerine getirilebilir. **(Değişik ikinci cümle: 6/2/2014-6518/18 md.)** Koruyucu aileye, korunmaya ihtiyacı olan çocuğun bakımı ve yetiştirilmesine karşılık olarak üçüncü fıkra kapsamında ödeme yapılabileceği gibi koruyucu aile bu işi gönüllü olarak da üstlenebilir. 26 [27]
 
-(Ek fıkra:22/4/2026-7578/5 md.) Koruyucu aile sözleşmesi devam eden koruyucu ailelerde eşlerden birinin, sigortalı olarak ay içerisinde otuz günden az çalışması ya da tam gün çalışmaması sebebiyle isteğe bağlı sigortalı olanlar hariç olmak üzere, sosyal güvenlik kuruluşlarına tabi olarak isteğe bağlı sigortalılık veya iştirakçilik kapsamında ödediği primin, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 82 nci maddesi uyarınca belirlenen prime esas kazanç günlük alt sınırı üzerinden hesaplanacak tutarı, ödeme belgesinin ibrazı hâlinde aylık ödemelere ilave edilerek karşılanır. Bu fıkra kapsamında ödeme yapılan kişilerin eşlerinin vefatı hâlinde de isteğe bağlı sigorta primlerinin karşılanmasına devam edilir.
+**(Ek fıkra:22/4/2026-7578/5 md.)** Koruyucu aile sözleşmesi devam eden koruyucu ailelerde eşlerden birinin, sigortalı olarak ay içerisinde otuz günden az çalışması ya da tam gün çalışmaması sebebiyle isteğe bağlı sigortalı olanlar hariç olmak üzere, sosyal güvenlik kuruluşlarına tabi olarak isteğe bağlı sigortalılık veya iştirakçilik kapsamında ödediği primin, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 82 nci maddesi uyarınca belirlenen prime esas kazanç günlük alt sınırı üzerinden hesaplanacak tutarı, ödeme belgesinin ibrazı hâlinde aylık ödemelere ilave edilerek karşılanır. Bu fıkra kapsamında ödeme yapılan kişilerin eşlerinin vefatı hâlinde de isteğe bağlı sigorta primlerinin karşılanmasına devam edilir.
 
-(Değişik fıkra: 6/2/2014-6518/18 md.) Koruyucu aile hizmeti kapsamında aile yanına yerleştirilen çocukların bakım, eğitim, kurs, okul, yemek ve taşıma servisi, harçlık ve benzeri ihtiyaçları esas alınarak koruyucu ailelere, bu giderlerin tamamına karşılık toplu bir ödeme yapılmasına veya her bir gider türü için ayrı ayrı yapılacak ödemelerin kapsamına, ödeme tutarlarına, yapılacak ödemelerin usul ve esası ile ikinci fıkra kapsamında isteğe bağlı sigorta ödemelerine, koruyucu ailelerin seçimine, çocukla ilgili sorumluluklarına ve hizmetin işleyişine ilişkin usul ve esaslar, Hazine ve Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Hizmetler Bakanlığı tarafından çıkarılan yönetmelikle belirlenir ve bu kapsamda verilecek ödemelerden hiçbir kesinti yapılmaz.[28]
+**(Değişik fıkra: 6/2/2014-6518/18 md.)** Koruyucu aile hizmeti kapsamında aile yanına yerleştirilen çocukların bakım, eğitim, kurs, okul, yemek ve taşıma servisi, harçlık ve benzeri ihtiyaçları esas alınarak koruyucu ailelere, bu giderlerin tamamına karşılık toplu bir ödeme yapılmasına veya her bir gider türü için ayrı ayrı yapılacak ödemelerin kapsamına, ödeme tutarlarına, yapılacak ödemelerin usul ve esası ile ikinci fıkra kapsamında isteğe bağlı sigorta ödemelerine, koruyucu ailelerin seçimine, çocukla ilgili sorumluluklarına ve hizmetin işleyişine ilişkin usul ve esaslar, Hazine ve Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Hizmetler Bakanlığı tarafından çıkarılan yönetmelikle belirlenir ve bu kapsamda verilecek ödemelerden hiçbir kesinti yapılmaz.[28]
 
 #### Korunma kararının süresi ve kaldırılması: [29]
 
@@ -336,7 +336,7 @@ Korunma kararı kalkan çocukların Kurumla ilişkilerinin devamı sağlanır. B
 
 Herhangi bir nedenle okula devam etme imkanı bulamayan çocuklar, kamu ve özel işyerlerinde ücret mukabilinde çalıştırılarak bir meslek sahibi yapılırlar. Bu şekilde çalıştırılan çocukların ücretlerinin yurt idarelerince tespit edilen miktarı kendilerine harçlık olarak verilir. Geri kalan miktar aybaşını takip eden on gün içinde milli bankalarda çocuk namıma açtırılan hesaba yatırılır. Çocuğun ücretinin başlama zamanı ve miktarı, yurt idaresi ile işveren arasında mahalli örf ve rayice göre tespit olunur. Bu konuya ilişkin hususlar bir yönetmelikle belirlenir.
 
-(Değişik: 30/5/1997 - KHK - 572/10 md.) Özel eğitim gerektiren korunmaya ihtiyacı olan çocukların eğitim ve öğretimleri Milli Eğitim Bakanlığına bağlı resmi ve özel eğitim-öğretim kurumlarında sürdürülür. Korunmaya ihtiyacı olan engelli çocukların eğitimleri Milli Eğitim Bakanlığı ile birlikte planlanır.[32]
+**(Değişik: 30/5/1997 - KHK - 572/10 md.)** Özel eğitim gerektiren korunmaya ihtiyacı olan çocukların eğitim ve öğretimleri Milli Eğitim Bakanlığına bağlı resmi ve özel eğitim-öğretim kurumlarında sürdürülür. Korunmaya ihtiyacı olan engelli çocukların eğitimleri Milli Eğitim Bakanlığı ile birlikte planlanır.[32]
 
 #### Sosyal ve ekonomik destek
 
@@ -358,15 +358,15 @@ Sosyal ve ekonomik destekten yararlanacakların tespiti, verilecek sosyal destek
 
 **Madde 26 –** Korunmaya, bakıma, yardıma ihtiyacı olan aile, engelli, yaşlı ve diğer kişilerin tespiti, incelenmesi ve bunların sosyal hizmetlerden yararlandırılmasına ilişkin esaslar bir yönetmelikle düzenlenir.
 
-Cezai sorumluluk:
+**Cezai sorumluluk:**
 
 **Madde 27 –** Bu Kanun kapsamına giren sosyal hizmet kuruluşlarında muhafaza ve bakımlarına terkedilen şahıslara karşı herhangi bir suç işleyen kuruluş görevlileri hakkında bu suç nedeniyle genel hükümlere göre verilecek muvakkat hürriyeti bağlayıcı cezalar ile para cezaları üçte bir oranında artırılarak hükmolunur.
 
 ### BEŞİNCİ BÖLÜM
 
-Kurumla İlgili Özel Hükümler
+**Kurumla İlgili Özel Hükümler**
 
-Mirasın Kuruma geçmesi:
+**Mirasın Kuruma geçmesi:**
 
 **Madde 28 –** Kuruma bağlı kuruluşlarda bakılmakta iken mirasçı bırakmaksızın ölen kimselerin mirası Kuruma geçer. Kurum terekenin borcundan ancak, kendisine geçen mallar ölçüsünde sorumlu olur.
 
@@ -374,33 +374,33 @@ Mirasın Kuruma geçmesi:
 
 **Madde 29 –** Bu Kanun gereğince korunmaya ve yardıma ihtiyacı olan aile ve kişilere yapılacak ödemeler ve sağlanacak yardımlar başkasına devir, temlik ve haciz edilemez.
 
-Dava açma hakkı:
+**Dava açma hakkı:**
 
 **Madde 30 –** Kurum, kendisine yardımda bulunduğu kişiler için Türk Medeni Kanunu hükümlerine göre nafaka ile yükümlü bulunanlar hakkında dava açmak hakkına sahiptir.
 
-Kurumun malları:
+**Kurumun malları:**
 
 **Madde 31 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Evlenme yardımı:
+**Evlenme yardımı:**
 
 **Madde 32 –** Kuruma ait sosyal hizmet kuruluşlarında koruma kararı devam eden kız çocuklarından evlenenlere çeyiz ihtiyaçlarını karşılamak ve bir defaya mahsus olmak üzere en yüksek Devlet memuru aylığının birbuçuk katı tutarında evlenme yardımı yapılır. Bu yardım hiçbir vergi ve kesintiye tabi tutulmaksızın ödenir.
 
-Kurumun sembolü:
+**Kurumun sembolü:**
 
 **Madde 33 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
 ### ALTINCI BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
-Açılış izni ve standartlar:
+**Açılış izni ve standartlar:**
 
 **Madde 34 –** Kurum dışındaki kamu kurum ve kuruluşları ile gerçek kişiler ve özel hukuk tüzelkişilerince bu Kanun kapsamına giren sosyal hizmet kuruluşlarının kurulmasına, teşvik edilmesine ve açılış izinlerinin verilmesine, varsa ücret tarifelerinin tespitine ilişkin usul ve esaslar ile bu kuruluşların hizmet ve personel standartları bir yönetmelikle düzenlenir.
 
-(Değişik ikinci fıkra: 6/2/2014-6518/19 md.) Darüşşafaka Cemiyeti hariç olmak üzere özel sosyal hizmet kuruluşlarının kapasitelerinin yüzde üçü, Aile ve Sosyal Politikalar Bakanlığınca tespit edilecek kişilerin ücretsiz yararlanması için ayrılır.
+**(Değişik ikinci fıkra: 6/2/2014-6518/19 md.)** Darüşşafaka Cemiyeti hariç olmak üzere özel sosyal hizmet kuruluşlarının kapasitelerinin yüzde üçü, Aile ve Sosyal Politikalar Bakanlığınca tespit edilecek kişilerin ücretsiz yararlanması için ayrılır.
 
-Denetleme esasları:
+**Denetleme esasları:**
 
 **Madde 35 –** Kamu kurum ve kuruluşları ile gerçek kişiler ve özel hukuk tüzelkişileri tarafından işletilen sosyal hizmet kuruluşlarının 34 üncü maddede yer alan yönetmelik esaslarına uygunluğu Kurumun kontrol ve denetlenmesine tabidir.
 
@@ -452,15 +452,15 @@ Kanunun 35/A ve 35/B maddeleri uyarınca kapatılmasına karar verilen yatılı 
 
 Gerçek kişilere veya özel hukuk tüzel kişilerine ait sosyal hizmet kuruluşlarının kurucu müdürü hakkında 35/B maddesinin ikinci fıkrasının (a) bendinde belirtilen eylemlerden dolayı adli kovuşturma açılması hâlinde kovuşturma sonuçlanıncaya kadar valilikçe bu madde kapsamında belirtilen tedbirlerin alınmasına karar verilebilir.
 
-Onurlandırma:
+**Onurlandırma:**
 
 **Madde 36 –** Kurumca yürütülmekte olan sosyal hizmet faaliyetlerine gerçek ve tüzelkişilerin her türlü maddi ve manevi katkı ve katılımın sağlanmasına ilişkin esaslar ile Kuruma büyük hizmet ve katkıları geçenlerin onurlandırılması işlemleri bir yönetmelikle düzenlenir.
 
-Yönetmelikler:
+**Yönetmelikler:**
 
 **Madde 37 –** (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Yürürlükten kaldırma:
+**Yürürlükten kaldırma:**
 
 **Madde 38 –** Aşağıda sayılan;
 
@@ -516,7 +516,7 @@ f) Bu madde kapsamında yapılacak yerleştirmelerde; yerleştirilen kişinin at
 
 **Ek Madde 2 –** (Ek: 24/1/1989-KHK-356/4 md.; Aynen kabul: 14/3/1991-3703/5 md.; Mülga: 3/6/2011-KHK-633/35 md.) [36]
 
-Anlaşmazlıkların Hali:
+**Anlaşmazlıkların Hali:**
 
 **Ek Madde 3 –** (Ek 14/3/1991-3703/5 md.; Mülga: 3/6/2011-KHK-633/35 md.)
 
@@ -534,7 +534,7 @@ Doğal afet bölgelerindeki ilçe sosyal yardımlaşma ve dayanışma vakıflar�
 
 **Ek Madde 7 –** (Ek: 1/7/2005-5378/30 md.; Değişik: 6/2/2014-6518/21 md.)
 
-Her ne ad altında olursa olsun her türlü gelirler toplamı esas alınmak suretiyle, hane içinde kişi başına düşen ortalama aylık gelir tutarı, asgarî ücretin aylık net tutarının 2/3’ünden daha az olan bakıma ihtiyacı olan engellilere, resmî veya özel bakım merkezlerinde bakım hizmeti ya da sosyal yardım yapılmak suretiyle evde bakımına destek verilmesi sağlanır. Hanede birden fazla bakıma ihtiyacı olan engelli bulunması hâlinde, hane içinde kişi başına düşen ortalama aylık gelir tutarının hesaplanmasında birinci bakıma ihtiyacı olan engelliden sonraki her bakıma ihtiyacı olan engelli iki kişi sayılır. (Ek cümle:21/2/2019-7166/1 md.) Bu fıkranın uygulanmasında, 5510 sayılı Kanunun ek 18 inci maddesi uyarınca Ramazan ve Kurban bayramlarında ödenen bayram ikramiyeleri hane içinde kişi başına düşen ortalama aylık gelir tutarının hesaplanmasına dâhil edilmez.
+Her ne ad altında olursa olsun her türlü gelirler toplamı esas alınmak suretiyle, hane içinde kişi başına düşen ortalama aylık gelir tutarı, asgarî ücretin aylık net tutarının 2/3’ünden daha az olan bakıma ihtiyacı olan engellilere, resmî veya özel bakım merkezlerinde bakım hizmeti ya da sosyal yardım yapılmak suretiyle evde bakımına destek verilmesi sağlanır. Hanede birden fazla bakıma ihtiyacı olan engelli bulunması hâlinde, hane içinde kişi başına düşen ortalama aylık gelir tutarının hesaplanmasında birinci bakıma ihtiyacı olan engelliden sonraki her bakıma ihtiyacı olan engelli iki kişi sayılır. **(Ek cümle:21/2/2019-7166/1 md.)** Bu fıkranın uygulanmasında, 5510 sayılı Kanunun ek 18 inci maddesi uyarınca Ramazan ve Kurban bayramlarında ödenen bayram ikramiyeleri hane içinde kişi başına düşen ortalama aylık gelir tutarının hesaplanmasına dâhil edilmez.
 
 Bakıma ihtiyacı olan engellilere özel bakım merkezlerinde sunulacak bakım hizmetinin karşılığı olarak belirlenecek kişi başına aylık bakım ücreti tutarı, (20.000) gösterge rakamı ile memur aylık katsayısının çarpımı sonucu bulunacak tutardan fazla olamaz. Bakıma ihtiyacı olan engellinin evde bakımına destek için ise (10.000) gösterge rakamı ile memur aylık katsayısının çarpımı sonucu bulunacak tutar kadar aylık sosyal yardım yapılır.
 
@@ -674,7 +674,7 @@ Gerçeğe uygun olmayan belge ve sağlık kurulu raporu kullanımı nedeniyle ya
 
 **Geçici Madde 16 –** (Ek: 21/3/2018-7103/25 md.)
 
-(İptal birinci fıkra: Anayasa Mahkemesi’nin 8/9/2022 tarihli ve E.: 2022/65, K.: 2022/102 sayılı Kararı ile.)
+**(İptal birinci fıkra: Anayasa Mahkemesi’nin 8/9/2022 tarihli ve E.: 2022/65, K.: 2022/102 sayılı Kararı ile.)**
 
 Bu maddenin yürürlüğe girdiği tarihten önce hak sahibi olanlardan daha önce istihdam hakkından yararlanmamış olanlar, bu maddenin yürürlüğe girdiği tarihten itibaren beş yıl içerisinde Bakanlığa başvurmaları halinde ek 1 inci maddede yer alan istihdam hakkından maddede belirtilen diğer şartları taşımaları kaydıyla yararlanabilirler.
 
@@ -710,13 +710,13 @@ Bu Kanunun ek 1 inci maddesinin birinci fıkrasının (ç) bendinde belirtilen s
 
 ### SEKİZİNCİ BÖLÜM
 
-Yürürlük ve Yürütme
+**Yürürlük ve Yürütme**
 
-Yürürlük:
+**Yürürlük:**
 
 **Madde 39 –** Bu Kanun yayımı tarihinden yürürlüğe girer.
 
-Yürütme:
+**Yürütme:**
 
 **Madde 40 –** Bu Kanunu Bakanlar Kurulu yürütür.
 
@@ -772,80 +772,80 @@ Yürütme:
 | 7578 | 3, 23, 25/A, 35/C, Ek Madde 1, Ek Madde 12, Ek Madde 13, Ek Madde 14, Geçici Madde 20 | 1/5/2026 |
 | 7593 | 3 | 18/8/2026 |
 
-<small>[1] Bu Kanunun adı “Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanunu” iken, 3/6/2011 tarihli ve 633 sayılı KHK’nin 35 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[1] <i>Bu Kanunun adı “Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanunu” iken, 3/6/2011 tarihli ve 633 sayılı KHK’nin 35 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[2] 30/5/1997 tarihli ve 572 sayılı K.H.K.’nin 12 nci maddesiyle bu Kanuna eklenen Ek Madde 4 ile, sözkonusu Kanunda geçen "sakat" ibaresi "özürlü", "kör" ibaresi "görme özürlü", "sağır" ibaresi "İşitme özürlü" olarak değiştirilmiştir.</small>
+<small>[2] <i>30/5/1997 tarihli ve 572 sayılı K.H.K.’nin 12 nci maddesiyle bu Kanuna eklenen Ek Madde 4 ile, sözkonusu Kanunda geçen "sakat" ibaresi "özürlü", "kör" ibaresi "görme özürlü", "sağır" ibaresi "İşitme özürlü" olarak değiştirilmiştir.</i></small>
 
-<small>[3] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddede yer alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.</small>
+<small>[4] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddede yer alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentte yer alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.</small>
+<small>[5] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentte yer alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[6] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlü” ibaresi “Engelli” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlü” ibaresi “Engelli” şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] 1/7/2005 tarihli ve 5378 sayılı Kanunun 26 ncı maddesiyle (c) bendinden sonra gelmek üzere (d) bendi eklenmiş ve mevcut (d), (e) ve (f) bentleri, (e), (f), (g) olarak teselsül ettirilmiştir.</small>
+<small>[7] <i>1/7/2005 tarihli ve 5378 sayılı Kanunun 26 ncı maddesiyle (c) bendinden sonra gelmek üzere (d) bendi eklenmiş ve mevcut (d), (e) ve (f) bentleri, (e), (f), (g) olarak teselsül ettirilmiştir.</i></small>
 
-<small>[8] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlü”, “özürlülük” ve “özürlü” ibareleri sırasıyla “Engelli”, “engellilik” ve “engelli” şeklinde değiştirilmiştir.</small>
+<small>[8] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlü”, “özürlülük” ve “özürlü” ibareleri sırasıyla “Engelli”, “engellilik” ve “engelli” şeklinde değiştirilmiştir.</i></small>
 
-<small>[9] Bu alt bentte yeralan “ve sunduğu hizmetler karşılığında ücret alan” ibaresi 21/1/2000 tarih ve 594 sayılı KHK ile metinden çıkarılmıştır.</small>
+<small>[9] <i>Bu alt bentte yeralan “ve sunduğu hizmetler karşılığında ücret alan” ibaresi 21/1/2000 tarih ve 594 sayılı KHK ile metinden çıkarılmıştır.</i></small>
 
-<small>[10] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.</i></small>
 
-<small>[11] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentte yer alan “muhtaç” ibaresi “ihtiyacı olan”şeklinde değiştirilmiştir.</small>
+<small>[11] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentte yer alan “muhtaç” ibaresi “ihtiyacı olan”şeklinde değiştirilmiştir.</i></small>
 
-<small>[12] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</small>
+<small>[12] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</i></small>
 
-<small>[13] 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu alt bentte yer alan “suça sürüklenen” ibaresi “adli süreçteki” şeklinde değiştirilmiştir.</small>
+<small>[13] <i>8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu alt bentte yer alan “suça sürüklenen” ibaresi “adli süreçteki” şeklinde değiştirilmiştir.</i></small>
 
-<small>[14] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (c) bendinde yer alan “özürlü” ibaresi “engelli”, (h) bendinde yer alan “özür” ibaresi “engel”, (1) bendinde yer alan “özürlü” ve “özürlülerin” ibareleri sırasıyla “engelli” ve “engellilerin”, ikinci fıkrasında yer alan “Özürlülere” ibaresi “Engellilere”, aynı fıkranın (a) bendinde yer alan “özürlülerin” ibaresi “engellilerin” şeklinde değiştirilmiştir.</small>
+<small>[14] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (c) bendinde yer alan “özürlü” ibaresi “engelli”, (h) bendinde yer alan “özür” ibaresi “engel”, (1) bendinde yer alan “özürlü” ve “özürlülerin” ibareleri sırasıyla “engelli” ve “engellilerin”, ikinci fıkrasında yer alan “Özürlülere” ibaresi “Engellilere”, aynı fıkranın (a) bendinde yer alan “özürlülerin” ibaresi “engellilerin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[15] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentlerde yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</small>
+<small>[15] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentlerde yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[16] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (b) bendinde yer alan “özürlüler” ibaresi “engelliler”, (c) bendinde yer alan “özürlülere” ibaresi “engellilere”, (d) bendinde yer alan “özürlülerin” ve “özürlülerce” ibareleri sırasıyla “engellilerin” ve “engellilerce”, (e) bendinde yer alan “Özürlülerin” ibaresi “Engellilerin”, (f) bendinde yer alan “Özürlülere” ve “özürlülerin” ibareleri sırasıyla “Engellilere” ve “engellilerin” şeklinde değiştirilmiştir.</small>
+<small>[16] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (b) bendinde yer alan “özürlüler” ibaresi “engelliler”, (c) bendinde yer alan “özürlülere” ibaresi “engellilere”, (d) bendinde yer alan “özürlülerin” ve “özürlülerce” ibareleri sırasıyla “engellilerin” ve “engellilerce”, (e) bendinde yer alan “Özürlülerin” ibaresi “Engellilerin”, (f) bendinde yer alan “Özürlülere” ve “özürlülerin” ibareleri sırasıyla “Engellilere” ve “engellilerin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[17] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.</small>
+<small>[17] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.</i></small>
 
-<small>[18] 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[18] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[19] Bu bende "Vakıflar Genel Müdürlüğüne" ibaresinden sonra gelmek üzere 23/7/1995 tarih ve 4122 sayılı Kanunun 15/b maddesi ile "ve Orman Genel Müdürlüğü'ne" ibaresi eklenmiştir.</small>
+<small>[19] <i>Bu bende "Vakıflar Genel Müdürlüğüne" ibaresinden sonra gelmek üzere 23/7/1995 tarih ve 4122 sayılı Kanunun 15/b maddesi ile "ve Orman Genel Müdürlüğü'ne" ibaresi eklenmiştir.</i></small>
 
-<small>[20] 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[20] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[21] Bu fıkrada yer alan“ nakdî bağışlar“ ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle,“ nakdî ve aynî bağışlar“ olarak 31/7/2004 tarihinden geçerli olmak üzere değiştirilmiştir.</small>
+<small>[21] <i>Bu fıkrada yer alan“ nakdî bağışlar“ ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle,“ nakdî ve aynî bağışlar“ olarak 31/7/2004 tarihinden geçerli olmak üzere değiştirilmiştir.</i></small>
 
-<small>[22] İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri, 6/5/1986 tarihli ve 3283 sayılı Kanunun 1 inci maddesi ile yürürlükten kaldırılmıştır.</small>
+<small>[22] <i>İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri, 6/5/1986 tarihli ve 3283 sayılı Kanunun 1 inci maddesi ile yürürlükten kaldırılmıştır.</i></small>
 
-<small>[23] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</small>
+<small>[23] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</i></small>
 
-<small>[24] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkranın birinci cümlesinde yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</small>
+<small>[24] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkranın birinci cümlesinde yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[25] 6/2/2014 tarihli ve 6518 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “yetkili ve görevli mahkemece” ibaresi “3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununa göre yetkili ve görevli mahkemece” şeklinde değiştirilmiştir.</small>
+<small>[25] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “yetkili ve görevli mahkemece” ibaresi “3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununa göre yetkili ve görevli mahkemece” şeklinde değiştirilmiştir.</i></small>
 
-<small>[26] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</small>
+<small>[26] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[27] 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkranın ikinci cümlesinde yer alan “ikinci” ibaresi “üçüncü” şeklinde değiştirilmiştir.</small>
+<small>[27] <i>22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkranın ikinci cümlesinde yer alan “ikinci” ibaresi “üçüncü” şeklinde değiştirilmiştir.</i></small>
 
-<small>[28] 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “usul ve esası ile” ibaresinden sonra gelmek üzere “ikinci fıkra kapsamında isteğe bağlı sigorta ödemelerine,” ibaresi eklenmiş ve “Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Politikalar Bakanlığı” ibaresi “Hazine ve Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Hizmetler Bakanlığı” şeklinde değiştirilmiştir.</small>
+<small>[28] <i>22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “usul ve esası ile” ibaresinden sonra gelmek üzere “ikinci fıkra kapsamında isteğe bağlı sigorta ödemelerine,” ibaresi eklenmiş ve “Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Politikalar Bakanlığı” ibaresi “Hazine ve Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Hizmetler Bakanlığı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[29] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci fıkrasının (a) bendinde yer alan “muhtaç” ibaresi ile (c) bendinde yer alan “muhtaç durumda bulunan” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.</small>
+<small>[29] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci fıkrasının (a) bendinde yer alan “muhtaç” ibaresi ile (c) bendinde yer alan “muhtaç durumda bulunan” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[30] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.</small>
+<small>[30] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.</i></small>
 
-<small>[31] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan “muhtaç” ibaresi ile birinci ve üçüncü fıkralarında yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</small>
+<small>[31] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan “muhtaç” ibaresi ile birinci ve üçüncü fıkralarında yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[32] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</small>
+<small>[32] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</i></small>
 
-<small>[33] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesinde; bu Kanunun 26 ncı maddesinin başlığında ve birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde … değiştirilmiştir.” hükmü yer almakla birlikte Meclis tutanakları, kanun gerekçesinin incelenmesiyle, madde başlığında yer alan “sakat” ibaresinin değiştirilmek istendiği tespit edilmiş ve düzenleme bu şekilde yapılmıştır.</small>
+<small>[33] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesinde; bu Kanunun 26 ncı maddesinin başlığında ve birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde … değiştirilmiştir.” hükmü yer almakla birlikte Meclis tutanakları, kanun gerekçesinin incelenmesiyle, madde başlığında yer alan “sakat” ibaresinin değiştirilmek istendiği tespit edilmiş ve düzenleme bu şekilde yapılmıştır.</i></small>
 
-<small>[34] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan “muhtaç” ibaresi ile birinci fıkrasında yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</small>
+<small>[34] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan “muhtaç” ibaresi ile birinci fıkrasında yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[35] 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.</small>
+<small>[35] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[36] Bu madde; evvelce 356 sayılı KHK'nin 4 üncü maddesi ile "Ek madde 1" olarak getirilmişse de teselsülü sağlamak için bu sefer 14/3/1991 tarih ve 3703 sayılı Kanunla madde numarası "Ek madde 2" olarak değiştirilmiştir.</small>
+<small>[36] <i>Bu madde; evvelce 356 sayılı KHK'nin 4 üncü maddesi ile "Ek madde 1" olarak getirilmişse de teselsülü sağlamak için bu sefer 14/3/1991 tarih ve 3703 sayılı Kanunla madde numarası "Ek madde 2" olarak değiştirilmiştir.</i></small>
 
-<small>[37] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürlülerine” ve “Özürlüler İdaresi Başkanlığı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünün müştereken hazırlayacakları” ibareleri sırasıyla “engellilere” ve “Aile ve Sosyal Politikalar Bakanlığınca hazırlanacak” şeklinde değiştirilmiştir.</small>
+<small>[37] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürlülerine” ve “Özürlüler İdaresi Başkanlığı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünün müştereken hazırlayacakları” ibareleri sırasıyla “engellilere” ve “Aile ve Sosyal Politikalar Bakanlığınca hazırlanacak” şeklinde değiştirilmiştir.</i></small>
 
-<small>[38] Bu maddenin ikinci fıkrası ile ihdas olunan kadrolar, 13/12/1983 tarihli ve 190 sayılı KHK.'nin 13 üncü maddesi ile yürürlükten kaldırılmıştır.</small>
+<small>[38] <i>Bu maddenin ikinci fıkrası ile ihdas olunan kadrolar, 13/12/1983 tarihli ve 190 sayılı KHK.'nin 13 üncü maddesi ile yürürlükten kaldırılmıştır.</i></small>
 
-<small>[39] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürlüye” ibaresi “engelliye” şeklinde değiştirilmiştir.</small>
+<small>[39] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürlüye” ibaresi “engelliye” şeklinde değiştirilmiştir.</i></small>

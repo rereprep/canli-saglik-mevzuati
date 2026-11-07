@@ -16,17 +16,17 @@ durum: "yürürlükte"
 
 ### OPTİSYENLİK HAKKINDA KANUN
 
-Kanun Numarası : 5193
+**Kanun Numarası : 5193**
 
-Kabul Tarihi : 22/6/2004
+**Kabul Tarihi : 22/6/2004**
 
-Yayımlandığı Resmî Gazete : Tarih : 26/6/2004 Sayı : 25504
+**Yayımlandığı Resmî Gazete : Tarih : 26/6/2004 Sayı : 25504**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 43
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 43**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Tanımlar
+**Amaç, Kapsam ve Tanımlar**
 
 #### Amaç
 
@@ -54,7 +54,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Optisyenlik Mesleğinin İcra Edilmesi
+**Optisyenlik Mesleğinin İcra Edilmesi**
 
 #### Optisyenlik mesleğini haiz kişiler
 
@@ -80,7 +80,7 @@ Optisyenlik müessesesinde her türlü kontakt lens uygulanması yasaktır.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Optisyenlik Müesseseleri ile İlgili Esas ve Usuller
+**Optisyenlik Müesseseleri ile İlgili Esas ve Usuller**
 
 #### Optisyenlik müessesesi
 
@@ -126,7 +126,7 @@ Optisyenlik müessesesi ruhsatı veren makama yazılı olarak bildirmek şartı 
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Kayıt ve Denetim
+**Kayıt ve Denetim**
 
 #### Kayıt
 
@@ -152,7 +152,7 @@ Optisyen unvanını haiz olmadığı hâlde optisyenlik yapanlar veya optisyen o
 
 11 inci maddede belirtilen yasaklara uymayanlara yirmibin Türk Lirası idarî para cezası verilir.
 
-(Değişik fıkra: 21/7/2025–7557/21 md.) 6 ncı maddeye aykırı hareket edenlere, yüz bin Türk lirasından bir milyon Türk lirasına kadar idari para cezası verilir .
+**(Değişik fıkra: 21/7/2025–7557/21 md.)** 6 ncı maddeye aykırı hareket edenlere, yüz bin Türk lirasından bir milyon Türk lirasına kadar idari para cezası verilir .
 
 Bu Kanunun 7 nci maddesinin ikinci fıkrası ile 9 uncu maddesinin birinci fıkrasında yazılı şarta üst üste iki denetimde de uymadığı belirlenen optisyenler ile 9 uncu maddenin ikinci fıkrası ile 8, 10, 12 ve 13 üncü madde hükümlerine uymayanlara altıbin Türk Lirası idarî para cezası verilir.
 
@@ -168,13 +168,13 @@ Bu Kanunda yazılı olan idarî yaptırım kararları mahallî mülkî amir tara
 
 **Madde 17 –** 30.12.1940 tarihli ve 3958 sayılı Gözlükçülük Hakkında Kanun yürürlükten kaldırılmıştır.
 
-**Ek Madde 1 –** (Ek: 28/11/2017-7061/80 md.)
+**Ek Madde 1 – (Ek: 28/11/2017-7061/80 md.)**
 
-Bu Kanuna tâbi meslek mensupları; mesleki faaliyetlerini geliştirip kolaylaştırmak, meslektaşlar arasında yardımlaşma ve iş birliğini temin etmek ve mesleki ahlâk ve disiplini tesis edip korumak üzere, kamu kurumu niteliğindeki optisyen-gözlükçüler odaları ve Türk Optisyen-Gözlükçüler Birliğini teşkil ederler. (Ek cümleler: 21/7/2025-7557/22 md.) Kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde asli ve sürekli kadrolarda çalışanlar ile geçici 2 nci madde kapsamında faaliyet yürüten eczacılar hariç olmak üzere odalara üye olmayan optisyen-gözlükçüler, mesleki faaliyette bulunamazlar. Optisyenlik müessesesi açıp işletmek isteyen gerçek kişiler ile özel hukuk tüzel kişileri müesseselerini otuz gün içinde bağlı bulundukları ticaret veya esnaf siciline tescil ettirmekle ve sicil gazetesinde ilan ettirmekle yükümlüdürler.
+Bu Kanuna tâbi meslek mensupları; mesleki faaliyetlerini geliştirip kolaylaştırmak, meslektaşlar arasında yardımlaşma ve iş birliğini temin etmek ve mesleki ahlâk ve disiplini tesis edip korumak üzere, kamu kurumu niteliğindeki optisyen-gözlükçüler odaları ve Türk Optisyen-Gözlükçüler Birliğini teşkil ederler. **(Ek cümleler: 21/7/2025-7557/22 md.)** Kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde asli ve sürekli kadrolarda çalışanlar ile geçici 2 nci madde kapsamında faaliyet yürüten eczacılar hariç olmak üzere odalara üye olmayan optisyen-gözlükçüler, mesleki faaliyette bulunamazlar. Optisyenlik müessesesi açıp işletmek isteyen gerçek kişiler ile özel hukuk tüzel kişileri müesseselerini otuz gün içinde bağlı bulundukları ticaret veya esnaf siciline tescil ettirmekle ve sicil gazetesinde ilan ettirmekle yükümlüdürler.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Sınırları içinde odaya kayıtlı en az yüz elli meslek mensubu bulunan her ilde bir oda kurulur. Odalar, kuruluşlarını Birlik Merkez Yönetim Kurulu aracılığı ile Sağlık Bakanlığına bildirmekle tüzel kişilik kazanırlar.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Sınırları içinde odaya kayıtlı en az yüz elli meslek mensubu bulunan her ilde bir oda kurulur. Odalar, kuruluşlarını Birlik Merkez Yönetim Kurulu aracılığı ile Sağlık Bakanlığına bildirmekle tüzel kişilik kazanırlar.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Optisyen-gözlükçüler odalarının organları şunlardır;
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Optisyen-gözlükçüler odalarının organları şunlardır;
 
 a) Genel kurul,
 
@@ -184,9 +184,9 @@ c) Disiplin kurulu,
 
 ç) Denetleme kurulu.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Genel kurul, odaya kayıtlı üyelerin toplanması ile oluşur ve yılda bir defa eylül ayında toplanır. İlk toplantıda çoğunluk sağlanamaz ise ertesi gün mevcut üyeler ile toplantı yapılır.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Genel kurul, odaya kayıtlı üyelerin toplanması ile oluşur ve yılda bir defa eylül ayında toplanır. İlk toplantıda çoğunluk sağlanamaz ise ertesi gün mevcut üyeler ile toplantı yapılır.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Genel kurulun görevleri şunlardır;
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Genel kurulun görevleri şunlardır;
 
 a) Yönetim kurulunun yıllık çalışma raporunu ve denetleme kurulu raporunu incelemek,
 
@@ -200,9 +200,9 @@ d) Oda adına amacına uygun işlerde kullanılmak üzere taşınmaz mal alınma
 
 e) Kanunlarla verilen diğer görevleri yapmak.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Yönetim kurulu, genel kurulca seçilecek yedi asıl ve yedi yedek üyeden oluşur ve en az on beş günde bir defa toplanır.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Yönetim kurulu, genel kurulca seçilecek yedi asıl ve yedi yedek üyeden oluşur ve en az on beş günde bir defa toplanır.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Yönetim kurulunun görevleri şunlardır;
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Yönetim kurulunun görevleri şunlardır;
 
 a) Odanın gelir-gider bilançosunu ve bütçesini hazırlayarak genel kurula sunmak,
 
@@ -216,17 +216,17 @@ d) Oda adına amacına uygun işlerde kullanılmak üzere taşınmaz mal alınma
 
 e) Kanunlarla verilen diğer görevleri yapmak.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Disiplin kurulu, beş asıl ve beş yedek üyeden oluşmak üzere, yurt içinde en az beş yıl mesleğini icra etmiş olanlar arasından seçilir.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Disiplin kurulu, beş asıl ve beş yedek üyeden oluşmak üzere, yurt içinde en az beş yıl mesleğini icra etmiş olanlar arasından seçilir.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Disiplin kurulunun görevleri şunlardır;
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Disiplin kurulunun görevleri şunlardır;
 
 a) Bu Kanunun öngördüğü yükümlülükleri yerine getirmeyen meslek mensupları ile evrakı kendisine tevdi edilen üyelerin meslek adap ve haysiyetine aykırı olan fiil ve hallerinin niteliğine ve ağırlık derecesine göre, fiil ile ceza arasında adil bir denge gözeterek bu Kanun ile belirlenmiş disiplin cezalarını vermek,
 
 b) Kanunlarla verilen diğer görevleri yapmak.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Denetleme kurulu, genel kurulca seçilecek üç asıl ve üç yedek üyeden oluşur.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Denetleme kurulu, genel kurulca seçilecek üç asıl ve üç yedek üyeden oluşur.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Denetleme kurulunun görevleri şunlardır;
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Denetleme kurulunun görevleri şunlardır;
 
 a) Yönetim kurulu bütçesinin uygulanması ile bütün iş ve işlemleri denetlemek,
 
@@ -238,7 +238,7 @@ c) Yılda en az iki defa denetlemede bulunarak yürüttüğü görevlere ilişki
 
 d) Kanunlarla verilen diğer görevleri yapmak.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Birlik odalardan ve organlardan oluşur. Birliğin organları şunlardır;
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Birlik odalardan ve organlardan oluşur. Birliğin organları şunlardır;
 
 a) Büyük Genel Kurul,
 
@@ -248,9 +248,9 @@ c) Merkez Denetleme Kurulu,
 
 ç) Yüksek Disiplin Kurulu.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Büyük Genel Kurul, odaların genel kurullarında seçilen temsilcilerden oluşur. Odaların genel kurullarında, Büyük Genel Kurulda odayı temsil etmek üzere, meslekte fiilen beş yılını doldurmuş üyeler arasından; yüz elli üyesi olan odalar beş, üç yüze kadar üyesi olanlar beş temsilciye ilaveten yüz elliden fazla her tam yetmiş beş üye için birer, üç yüzden fazla üyesi olanlar ise yedi temsilciye ilaveten üç yüzden fazla her tam üç yüz üye için birer üye, Büyük Genel Kurul temsilcisi ve aynı miktarda yedek temsilci seçilir. Büyük Genel Kurul, iki yılda bir defa kasım ayında toplanır. Olağan toplantı dışında, Büyük Genel Kurul temsilcilerinin üçte birinin veya Merkez Yönetim Kurulunun yazılı talebi ile olağanüstü de toplanır. İlk toplantıda çoğunluk sağlanamaz ise ertesi gün mevcut temsilciler ile toplantı yapılır.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Büyük Genel Kurul, odaların genel kurullarında seçilen temsilcilerden oluşur. Odaların genel kurullarında, Büyük Genel Kurulda odayı temsil etmek üzere, meslekte fiilen beş yılını doldurmuş üyeler arasından; yüz elli üyesi olan odalar beş, üç yüze kadar üyesi olanlar beş temsilciye ilaveten yüz elliden fazla her tam yetmiş beş üye için birer, üç yüzden fazla üyesi olanlar ise yedi temsilciye ilaveten üç yüzden fazla her tam üç yüz üye için birer üye, Büyük Genel Kurul temsilcisi ve aynı miktarda yedek temsilci seçilir. Büyük Genel Kurul, iki yılda bir defa kasım ayında toplanır. Olağan toplantı dışında, Büyük Genel Kurul temsilcilerinin üçte birinin veya Merkez Yönetim Kurulunun yazılı talebi ile olağanüstü de toplanır. İlk toplantıda çoğunluk sağlanamaz ise ertesi gün mevcut temsilciler ile toplantı yapılır.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Büyük Genel Kurulun görevleri şunlardır;
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Büyük Genel Kurulun görevleri şunlardır;
 
 a) Merkez Yönetim Kurulu ile Merkez Denetleme Kurulunu ayrı ayrı ibra etmek, sorumlu görülenler hakkında disiplin soruşturması başlatılmasına karar vermek,
 
@@ -266,9 +266,9 @@ e) Merkez Yönetim Kurulunca hazırlanan yönetmelik taslaklarını Bakanlığı
 
 f) Kanunlarla verilen diğer görevleri yapmak.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Merkez Yönetim Kurulu, Büyük Genel Kurulca seçilecek on bir asıl ve on bir yedek üyeden oluşur ve on beş günde bir defa toplanır.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Merkez Yönetim Kurulu, Büyük Genel Kurulca seçilecek on bir asıl ve on bir yedek üyeden oluşur ve on beş günde bir defa toplanır.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Merkez Yönetim Kurulunun görevleri şunlardır;
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Merkez Yönetim Kurulunun görevleri şunlardır;
 
 a) Odaların çalışmalarının ve işlemlerinin düzenli olmasını sağlamak, takip etmek ve denetleterek aksaklıkları görülenlere ihtarda bulunarak gerektiğinde oda organları hakkında adli ve idari makamlara bildirimde bulunmak,
 
@@ -280,9 +280,9 @@ c) Kendi görev alanlarını ilgilendiren kanunların uygulanmasına yönelik y�
 
 d) Kanunlarla verilen diğer görevleri yapmak.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Merkez Denetleme Kurulu, Büyük Genel Kurulca seçilecek üç asıl ve üç yedek üyeden oluşur.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Merkez Denetleme Kurulu, Büyük Genel Kurulca seçilecek üç asıl ve üç yedek üyeden oluşur.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Merkez Denetleme Kurulunun görevleri şunlardır;
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Merkez Denetleme Kurulunun görevleri şunlardır;
 
 a) Merkez Yönetim Kurulu bütçesinin uygulanması ile bütün iş ve işlemleri denetlemek,
 
@@ -296,17 +296,17 @@ d) Odaları yetkisi çerçevesinde denetlemek,
 
 e) Kanunlarla verilen diğer görevleri yapmak.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Yüksek Disiplin Kurulu, Büyük Genel Kurulca seçilecek dokuz asıl ve dokuz yedek üyeden oluşur.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Yüksek Disiplin Kurulu, Büyük Genel Kurulca seçilecek dokuz asıl ve dokuz yedek üyeden oluşur.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Yüksek Disiplin Kurulu, oda disiplin kurullarından gelen evrakı ve kararları inceledikten sonra aynen veya düzelterek kabul ve tasdik edebilir. Mahallince verilen kararın uygun bulunmaması halinde, gerekçesiyle birlikte dosya ilgili disiplin kuruluna iade edilir. Oda disiplin kurulunun bu konuda vereceği ikinci karara itiraz üzerine Yüksek Disiplin Kurulunca verilecek karara yeniden itiraz edilemez. Kurul kararında, karar aleyhine başvurulacak yasal yollar belirtilir.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Yüksek Disiplin Kurulu, oda disiplin kurullarından gelen evrakı ve kararları inceledikten sonra aynen veya düzelterek kabul ve tasdik edebilir. Mahallince verilen kararın uygun bulunmaması halinde, gerekçesiyle birlikte dosya ilgili disiplin kuruluna iade edilir. Oda disiplin kurulunun bu konuda vereceği ikinci karara itiraz üzerine Yüksek Disiplin Kurulunca verilecek karara yeniden itiraz edilemez. Kurul kararında, karar aleyhine başvurulacak yasal yollar belirtilir.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Birliğin ve odaların organları üye tam sayılarının salt çoğunluğu ile toplanır ve mevcudun salt çoğunluğu ile karar alır. Ancak Yüksek Disiplin Kurulu ve oda disiplin kurulları üye tam sayısı ile toplanır.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Birliğin ve odaların organları üye tam sayılarının salt çoğunluğu ile toplanır ve mevcudun salt çoğunluğu ile karar alır. Ancak Yüksek Disiplin Kurulu ve oda disiplin kurulları üye tam sayısı ile toplanır.
 
-(Ek fıkra: 21/7/2025-7557/22 md.) Birlik ve odaların genel kurullarında seçilen organların üyelerinin görev süreleri üç yıldır. Yeni üyelerin tamamının seçilmelerine kadar eski üyeler görevlerine devam eder.
+**(Ek fıkra: 21/7/2025-7557/22 md.)** Birlik ve odaların genel kurullarında seçilen organların üyelerinin görev süreleri üç yıldır. Yeni üyelerin tamamının seçilmelerine kadar eski üyeler görevlerine devam eder.
 
-(İptal fıkra: Anayasa Mahkemesinin 29/4/2021 tarihli ve E.: 2020/80, K.:2021/34 sayılı Kararı ile) (Yeniden düzenleme: 21/7/2025-7557/22 md.) Odalar ile Birliğin teşkili, faaliyetleri, organların görev ve yetkileri, toplantıları, seçimi, seçilme yeterlilikleri, seçimlerin yapılış usulü, mesleki yardımlaşma sandığının kuruluşu, mesleki sicil, idari ve mali denetime ilişkin bu Kanunda yer almayan hususlarda 25/1/1956 tarihli ve 6643 sayılı Türk Eczacıları Birliği Kanununun ilgili hükümleri kıyasen uygulanır. Ancak giriş ve yıllık üye aidatı tutarları yürürlükteki brüt asgari ücretin yüzde onunu geçmemek üzere Birlik Büyük Genel Kurulu tarafından tespit edilir. Odaların topladığı aidatlar toplamının yüzde otuzu Birlik merkezi payı olarak oda yönetim kurullarınca Birlik hesabına gönderilir. Oda aidatlarının ve Birlik merkezi payının tahsilat usulleri yönetmelikle belirlenir.
+**(İptal fıkra: Anayasa Mahkemesinin 29/4/2021 tarihli ve E.: 2020/80, K.:2021/34 sayılı Kararı ile) (Yeniden düzenleme: 21/7/2025-7557/22 md.)** Odalar ile Birliğin teşkili, faaliyetleri, organların görev ve yetkileri, toplantıları, seçimi, seçilme yeterlilikleri, seçimlerin yapılış usulü, mesleki yardımlaşma sandığının kuruluşu, mesleki sicil, idari ve mali denetime ilişkin bu Kanunda yer almayan hususlarda 25/1/1956 tarihli ve 6643 sayılı Türk Eczacıları Birliği Kanununun ilgili hükümleri kıyasen uygulanır. Ancak giriş ve yıllık üye aidatı tutarları yürürlükteki brüt asgari ücretin yüzde onunu geçmemek üzere Birlik Büyük Genel Kurulu tarafından tespit edilir. Odaların topladığı aidatlar toplamının yüzde otuzu Birlik merkezi payı olarak oda yönetim kurullarınca Birlik hesabına gönderilir. Oda aidatlarının ve Birlik merkezi payının tahsilat usulleri yönetmelikle belirlenir.
 
-**Ek Madde 2 –** (Ek fıkra: 21/7/2025-7557/23 md.)
+**Ek Madde 2 – (Ek fıkra: 21/7/2025-7557/23 md.)**
 
 Bu Kanun ve meslekle ilgili diğer mevzuatın kendisine yüklediği görevleri yerine getirmeyen, meslek onuruna uymayan eylem ve davranışlarda bulunan veya genel kurul kararlarına aykırı hareket eden meslek mensuplarına kınama, para cezası ve meslek icrasını durdurma cezaları uygulanır.
 
@@ -354,11 +354,11 @@ Bu maddenin yürürlüğe girdiği tarihten önce optisyenlik mesleği ile ilgil
 
 Birliğin ilk genel kurulu, bu maddenin yürürlüğe girdiği tarihten itibaren dört ay içinde Sağlık Bakanlığının daveti üzerine Ankara’da toplanır (…)[2].
 
-(Mülga fıkra: 21/7/2025-7557/24 md.)
+**(Mülga fıkra: 21/7/2025-7557/24 md.)**
 
-(Mülga fıkra: 21/7/2025-7557/24 md.)
+**(Mülga fıkra: 21/7/2025-7557/24 md.)**
 
-Oda kurulan illerde ve bölgelerde faaliyette bulunmakta olan meslek mensupları, odaların kuruluşundan itibaren üç ay içinde odaya kayıt olmak zorundadır. (Mülga ikinci cümle: 21/7/2025-7557/24 md.)
+Oda kurulan illerde ve bölgelerde faaliyette bulunmakta olan meslek mensupları, odaların kuruluşundan itibaren üç ay içinde odaya kayıt olmak zorundadır. **(Mülga ikinci cümle: 21/7/2025-7557/24 md.)**
 
 Yürürlüğe konulacak yönetmelik uyarınca yapılacak ilk Birlik Genel Kurulunda bütün seçimler yenilenir.
 
@@ -378,6 +378,6 @@ Yürürlüğe konulacak yönetmelik uyarınca yapılacak ilk Birlik Genel Kurulu
 | Geçici Madde 4 | Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (23/3/2022) |
 | 5193 | 12, 15, Ek Madde 1, Ek Madde 2, Geçici Madde 4 | 24/7/2025 |
 
-<small>[1] 21/7/2025 tarihli ve 7557 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “yasakların” ibaresinden sonra gelmek üzere “beş yıl içinde” ibaresi eklenmiş ve “uygulanır.” ibaresi “uygulanır ve bu süre içinde 6 ncı maddeye üçüncü defa aykırı davranan optisyen, ayrıca bir yıl süre ile meslekten men edilir.” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>21/7/2025 tarihli ve 7557 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “yasakların” ibaresinden sonra gelmek üzere “beş yıl içinde” ibaresi eklenmiş ve “uygulanır.” ibaresi “uygulanır ve bu süre içinde 6 ncı maddeye üçüncü defa aykırı davranan optisyen, ayrıca bir yıl süre ile meslekten men edilir.” şeklinde değiştirilmiştir.</i></small>
 
-<small>[2] 21/7/2025 tarihli ve 7557sayılı Kanunun 24 üncü maddesiyle bu fıkrada yer alan “ve dokuz üyeli Birlik Merkez Yönetim Kurulunun, beş üyeli Yüksek Disiplin Kurulunun ve üç üyeli Denetleme Kurulunun asıl ve yedek üyelerini seçer” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[2] <i>21/7/2025 tarihli ve 7557sayılı Kanunun 24 üncü maddesiyle bu fıkrada yer alan “ve dokuz üyeli Birlik Merkez Yönetim Kurulunun, beş üyeli Yüksek Disiplin Kurulunun ve üç üyeli Denetleme Kurulunun asıl ve yedek üyelerini seçer” ibaresi madde metninden çıkarılmıştır.</i></small>

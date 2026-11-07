@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-4.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-TÜRKİYE CUMHURİYETİ EMEKLİ SANDIĞI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 6270 Kabul Tarihi: 17/1/2012
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**TÜRKİYE CUMHURİYETİ EMEKLİ SANDIĞI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 6270** Kabul Tarihi: 17/1/2012
 
 MADDE 1 – 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 89 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 89 – Hizmet sürelerinin tamamı bu Kanun ve/veya 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun geçici 4 üncü maddesi kapsamında geçenlerden emekli, adi malullük veya vazife malullüğü aylığı bağlanan veyahut toptan ödeme yapılan asker ve sivil tüm iştirakçilere, her tam fiili hizmet yılı için aylık bağlamaya esas tutarın bir aylığı emekli ikramiyesi olarak verilir.

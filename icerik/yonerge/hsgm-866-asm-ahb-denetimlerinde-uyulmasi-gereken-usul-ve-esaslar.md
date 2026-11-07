@@ -9,35 +9,35 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-AİLE SAĞLIĞI MERKEZİ VE AİLE HEKİMLİĞİ BİRİMİ
+**AİLE SAĞLIĞI MERKEZİ VE AİLE HEKİMLİĞİ BİRİMİ**
 
-DENETİMLERİNDE UYULMASI GEREKEN USUL VE ESASLAR
+**DENETİMLERİNDE UYULMASI GEREKEN USUL VE ESASLAR**
 
-5258 sayılı Aile Hekimliği Kanunu’nun “Denetim, sorumluluk ve mal bildirimi” başlıklı 6 ıncı maddesinde “Aile hekimleri ve aile sağlığı çalışanları, mevzuat ve sözleşme hükümlerine uygunluk ile diğer konularda Bakanlık, ilgili mülkî idare ve sağlık idaresinin denetimine tâbidir. Aile hekimi ve aile sağlığı çalışanları, görevleriyle ilgili ya da görevleri başında işledikleri veya kendilerine karşı işlenen suçlarda Devlet memurları gibi kabul edilir.” hükmü yer almaktadır.
+5258 sayılı Aile Hekimliği Kanunu’nun “Denetim, sorumluluk ve mal bildirimi” başlıklı 6 ıncı maddesinde <i>“Aile hekimleri ve aile sağlığı çalışanları,</i> <i>mevzuat ve sözleşme hükümlerine uygunluk ile diğer konularda Bakanlık, ilgili</i> <i>mülkî idare ve sağlık idaresinin denetimine tâbidir. Aile hekimi ve aile sağlığı</i> <i>çalışanları, görevleriyle ilgili ya da görevleri başında işledikleri veya kendilerine</i> <i>karşı işlenen suçlarda Devlet memurları gibi kabul edilir.”</i> hükmü yer almaktadır.
 
-Aynı Kanunun “Yönetmelikler” başlıklı 8 inci maddesinde ise “Aile hekimi ve aile sağlığı çalışanlarının çalışma usul ve esasları; çalışılan yer, kurum ve statülerine göre öncelik sıralaması; aile hekimliği uygulamasına geçişe ve nakillere ilişkin puanlama sistemi ve sayıları; aile sağlığı merkezi olarak kullanılacak yerlerde aranacak fizikî ve teknik şartlar; meslek ilkeleri; iş tanımları; performans ve hizmet kalite standartları; hasta sevk evrakı, reçete, rapor ve diğer kullanılacak belgelerin şekli ve içeriği, kayıtların tutulması ile çalışma ve denetime ilişkin usul ve esaslar, Sağlık Bakanlığınca çıkarılacak yönetmelikle düzenlenir” hükümleri bulunmaktadır.
+Aynı Kanunun “Yönetmelikler” başlıklı 8 inci maddesinde ise <i>“Aile hekimi</i> <i>ve aile sağlığı çalışanlarının çalışma usul ve esasları; çalışılan yer, kurum ve</i> <i>statülerine göre öncelik sıralaması; aile hekimliği uygulamasına geçişe ve</i> <i>nakillere ilişkin puanlama sistemi ve sayıları; aile sağlığı merkezi olarak</i> <i>kullanılacak yerlerde aranacak fizikî ve teknik şartlar; meslek ilkeleri; iş</i> <i>tanımları; performans ve hizmet kalite standartları; hasta sevk evrakı, reçete,</i> <i>rapor ve diğer kullanılacak belgelerin şekli ve içeriği, kayıtların tutulması ile</i> <i>çalışma ve denetime ilişkin usul ve esaslar, Sağlık Bakanlığınca çıkarılacak</i> <i>yönetmelikle düzenlenir”</i> hükümleri bulunmaktadır.
 
-Kanuna bağlı olarak 25/01/2013 tarihli ve 28539 sayılı Resmi Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliği’nin “Denetim” başlıklı 33 üncü maddesinin birinci fıkrasında “Aile sağlığı merkezi, aile hekimleri ve aile sağlığı çalışanları, mevzuat ve sözleşme hükümlerine uygunluk ile diğer konularda Kurum, ilgili mülkî idare amirleri ve yerel sağlık idare amirleri veya bunların görevlendireceği personelin denetimine tâbidir. Denetim yapmaya yetkili amir, ilgili mevzuat ve sözleşme şartlarına aykırılığı doğrudan kendisi tespit edebileceği gibi, tespiti yapmak üzere incelemeci veya soruşturmacı da görevlendirebilir. Bu denetimler Kurum tarafından belirlenen denetleme formları ile gerçekleştirilir.” hükmü yer almaktadır.
+Kanuna bağlı olarak 25/01/2013 tarihli ve 28539 sayılı Resmi Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliği’nin “Denetim” başlıklı 33 üncü maddesinin birinci fıkrasında <i>“Aile sağlığı merkezi, aile hekimleri ve aile</i> <i>sağlığı çalışanları, mevzuat ve sözleşme hükümlerine uygunluk ile diğer</i> <i>konularda Kurum, ilgili mülkî idare amirleri ve yerel sağlık idare amirleri veya</i> <i>bunların görevlendireceği personelin denetimine tâbidir. Denetim yapmaya</i> <i>yetkili amir, ilgili mevzuat ve sözleşme şartlarına aykırılığı doğrudan kendisi</i> <i>tespit edebileceği gibi, tespiti yapmak üzere incelemeci veya soruşturmacı da</i> <i>görevlendirebilir. Bu denetimler Kurum tarafından belirlenen denetleme formları</i> <i>ile gerçekleştirilir.”</i> hükmü yer almaktadır.
 
 Ayrıca 30/06/2021 tarihli ve 31527 sayılı Aile Hekimliği Sözleşme ve
 
-Ödeme Yönetmeliği’nin “Denetim” başlıklı 14 üncü maddesinin birinci fıkrasında da “Aile sağlığı merkezi, aile hekimleri ve aile sağlığı çalışanları, asgari altı ayda bir, mevzuat ve sözleşme hükümlerine uygunluk ile diğer konularda Bakanlık, ilgili mülki idare amirleri ve yerel sağlık idare amirleri veya bunların görevlendireceği personelin denetimine tabidir. İlgili mevzuat ve sözleşme şartlarına aykırılık halinde müdürlükçe/Bakanlıkça incelemeci veya soruşturmacı görevlendirilir. İlgili mevzuat ve sözleşme şartlarına aykırı fiillerin tespit edilmesi halinde aykırılığın mahiyetine göre;
+Ödeme Yönetmeliği’nin “Denetim” başlıklı 14 üncü maddesinin birinci fıkrasında da <i>“Aile sağlığı merkezi, aile hekimleri ve aile sağlığı çalışanları,</i> <i>asgari altı ayda bir, mevzuat ve sözleşme hükümlerine uygunluk ile diğer</i> <i>konularda Bakanlık, ilgili mülki idare amirleri ve yerel sağlık idare amirleri veya</i> <i>bunların görevlendireceği personelin denetimine tabidir. İlgili mevzuat ve</i> <i>sözleşme şartlarına aykırılık halinde müdürlükçe/Bakanlıkça incelemeci veya</i> <i>soruşturmacı görevlendirilir. İlgili mevzuat ve sözleşme şartlarına aykırı fiillerin</i> <i>tespit edilmesi halinde aykırılığın mahiyetine göre;</i>
 
-a)Adli yönden; 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu
+<i>a)Adli yönden; 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu</i>
 
-Görevlilerinin Yargılanması Hakkında Kanun,
+<i>Görevlilerinin Yargılanması Hakkında Kanun,</i>
 
-b) İdari yönden; 10 uncu ve 11 inci madde,
+<i>b) İdari yönden; 10 uncu ve 11 inci madde,</i>
 
-c) Kamu zararı oluşturan mali hususlar yönünden; 27/9/2006 tarihli ve 2006/11058 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu 1
+<i>c) Kamu zararı oluşturan mali hususlar yönünden; 27/9/2006 tarihli ve</i> <i>2006/11058 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu</i> 1
 
-Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik, hükümlerine göre, gerekli işlemler tesis edilir.” hükümlerine yer verilmiştir.
+<i>Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik, hükümlerine</i> <i>göre, gerekli işlemler tesis edilir.”</i> hükümlerine yer verilmiştir.
 
 Bu minvalde yukarıda zikredilen mevzuat hükümleri doğrultusunda denetimlerde standardizasyonu sağlayabilmek, denetimi gerçekleştirilen kuruma ve denetimi gerçekleştiren personele rehberlik etmesi amacıyla Den-İz Sistemine entegre edilen formların kullanımına yönelik “Aile Sağlığı Merkezi ve Aile
 
 Hekimliği Birimi İzleme ve Değerlendirme Rehberi” hazırlanmıştır.
 
-Bununla birlikte aile sağlığı merkezi ve aile hekimliği birimine yapılması planlanan denetimlere dair uygulanacak usul ve esaslar aşağıda belirtilmiştir:
+**Bununla birlikte aile sağlığı merkezi ve aile hekimliği birimine yapılması planlanan denetimlere dair uygulanacak usul ve esaslar aşağıda belirtilmiştir:**
 
 1) Aile sağlığı merkezi ve aile hekimliği birimi denetimleri; olağan dışı denetimler, ihbar ve şikâyetler, adres değişiklikleri vb. haller hariç olmak üzere 6 aylık aralıklar ile yılda iki defa Den-İz Sistemi üzerinden yapılır. Olağandışı denetimler de yine Den-İz Sistemi üzerinden gerçekleştirilir. Denetim yapılacak birime önceden haber verme zorunluluğu yoktur.
 

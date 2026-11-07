@@ -25,11 +25,11 @@ Polio Eradikasyon Programı kapsamında yürütülmekte olan Akut Flask Paralizi
 
 Hastanelerde yürütülen ziyaretlerde AFP Sürveyansına entegre olarak Kızamık, Kızamıkçık, Konjenital Kızamıkçık Sendromu (KKS) ve Maternal-Neonatal Tetanos (MNT) sürveyans faaliyetleri yürütülmektedir.
 
-Yürütülen bu faaliyetler “Haftalık Akut Flask Paralizi (AFP) Vaka İzlem Formu” ve “AFP/Kızamık/Kızamıkçık/KKS/MNT Aktif Sürveyans İl İzlem Formu” tarafımıza resmi yazı ile bildirilmektedir.
+Yürütülen bu faaliyetler “<i>Haftalık Akut Flask Paralizi (AFP) Vaka İzlem Formu”</i> ve “<i>AFP/Kızamık/Kızamıkçık/KKS/MNT Aktif Sürveyans İl İzlem Formu”</i> tarafımıza resmi yazı ile bildirilmektedir.
 
 Veri toplama ve takip süreçlerinin kolaylaştırılması amacıyla Sağlık Bilgi Sistemleri Genel Müdürlüğünün ilgide kayıtlı yazısında belirtildiği üzere; Çekirdek Kaynak Yönetim Sistemi (ÇKYS) içerisinde yer alan Malzeme Kaynakları Yönetim Sistemi (MKYS) modülü altında veri giriş ekranları kullanımına açılmıştır. Veri girişi için gerekli kullanıcı yetkilendirme işlemleri İl Sağlık Müdürlüklerinde görev yapan İl Adminleri tarafından gerçekleştirilecektir.
 
-Bu çerçevede oluşturulan veri giriş ekranları kullanımda olup bildirimi yapılacak veriler sistem aracılığıyla iletilebilecektir. “Haftalık Akut Flask Paralizi (AFP) Vaka İzlem Formu” 16.haftaya kadar, “AFP/Kızamık/Kızamıkçık/KKS/MNT Aktif Sürveyans İl İzlem Formu” 22.04.2026 tarihine kadar resmi yazı yoluyla da kabul edilecek olup, sonraki haftaların tüm bildirimleri sadece oluşturulan veri giriş ekranı üzerinden kabul edilecektir.
+Bu çerçevede oluşturulan veri giriş ekranları kullanımda olup bildirimi yapılacak veriler sistem aracılığıyla iletilebilecektir. “<i>Haftalık Akut Flask Paralizi (AFP) Vaka İzlem Formu”</i> 16.haftaya kadar, “<i>AFP/Kızamık/Kızamıkçık/KKS/MNT Aktif Sürveyans İl İzlem Formu”</i> 22.04.2026 tarihine kadar resmi yazı yoluyla da kabul edilecek olup, sonraki haftaların tüm bildirimleri sadece oluşturulan veri giriş ekranı üzerinden kabul edilecektir.
 
 Bu kapsamda;
 

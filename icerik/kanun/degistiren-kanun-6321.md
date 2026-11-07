@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/06/20120603-9.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
 Kanun No. 6321 Kabul Tarihi: 31/5/2012
 

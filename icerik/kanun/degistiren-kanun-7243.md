@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2020/04/20200417-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN YÜKSEKÖĞRETİM KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7243 Kabul Tarihi: 15/4/2020
+**KANUN YÜKSEKÖĞRETİM KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7243 **Kabul Tarihi: 15/4/2020**
 
 MADDE 1 – 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 8 inci maddesinin sekizinci fıkrası yürürlükten kaldırılmıştır.
 

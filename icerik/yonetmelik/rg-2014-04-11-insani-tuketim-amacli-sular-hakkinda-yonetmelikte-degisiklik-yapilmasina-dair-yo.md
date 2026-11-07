@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Bakanlığı (Türkiye Halk Sağlığı Kurumu)’ndan:
-İNSANİ TÜKETİM AMAÇLI SULAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İNSANİ TÜKETİM AMAÇLI SULAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmeliğin 10 uncu maddesinin beşinci fıkrasının ilk cümlesinde yer alan “kullanılması halinde” ibaresi “ve klorlu bileşikler kullanılır” şeklinde ve onbirinci fıkrası da aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmeliğin 10 uncu maddesinin beşinci fıkrasının ilk cümlesinde yer alan “kullanılması halinde” ibaresi “ve klorlu bileşikler kullanılır” şeklinde ve onbirinci fıkrası da aşağıdaki şekilde değiştirilmiştir.
 “Halkın tüketimine sunulan içme-kullanma suyu denetim ve analiz işlemleri suyun kalitesinin denetimi niteliğindedir. Bu maddenin birinci fıkrası kapsamında mevzuata uygunluk denetimi amacıyla alınacak su numuneleri Müdürlükçe alınır. Alınan su numunelerinin analizleri Kurumca yetki verilen laboratuvarlarda yaptırılır.
 Kurumca yapılacak veya yaptırılacak her türlü tetkik ve tahlil bedeli ilgili mahalli idarece karşılanır. Belediyelerce ödenecek tetkik ve tahlil bedelleri, Sağlık Bakanlığı ve bağlı kuruluşlarına belediyelerce tahakkuk ettirilecek su kullanım bedellerinden mahsup edilir ve buna ilişkin usul ve esaslar Kurumca belirlenir. ”
 

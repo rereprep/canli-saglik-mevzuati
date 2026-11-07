@@ -19,7 +19,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -71,9 +71,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Acil Servislerin Fiziki Şartları, Ulaşım, Hizmet ve Malzeme Standartları,
+**Acil Servislerin Fiziki Şartları, Ulaşım, Hizmet ve Malzeme Standartları,**
 
-Seviyelendirme ve İstisnalar
+**Seviyelendirme ve İstisnalar**
 
 #### Acil servislerin fiziki şartları ve ulaşıma ilişkin asgari standartlar
 
@@ -131,9 +131,9 @@ d) Entegre ilçe hastanelerinde acil sağlık hizmetleri, hasta yoğunluğuna ve
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Renk Kodlaması ve Triyaj Uygulaması, Muayene, Müdahale,
+**Renk Kodlaması ve Triyaj Uygulaması, Muayene, Müdahale,**
 
-Refakat Esasları ve Güvenlik Önlemleri
+**Refakat Esasları ve Güvenlik Önlemleri**
 
 #### Renk kodlaması ve triyaj uygulaması
 
@@ -157,7 +157,7 @@ Refakat Esasları ve Güvenlik Önlemleri
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Acil Servis Personel Standartları, Nöbetler, Hasta Kabulü ve Sevk Esasları
+**Acil Servis Personel Standartları, Nöbetler, Hasta Kabulü ve Sevk Esasları**
 
 #### Acil servis sorumlusu ve personel standartları
 
@@ -229,7 +229,7 @@ Acil Servis Personel Standartları, Nöbetler, Hasta Kabulü ve Sevk Esasları
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Denetim ve sorumluluk
 
@@ -255,7 +255,7 @@ Acil Servis Personel Standartları, Nöbetler, Hasta Kabulü ve Sevk Esasları
 
 ### ALTINCI BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 

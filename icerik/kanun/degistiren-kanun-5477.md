@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2006/03/20060330-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN KANUN TÜRK TABİPLERİ BİRLİĞİ KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+KANUN KANUN **TÜRK TABİPLERİ BİRLİĞİ KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 5477 Kabul Tarihi : 23/3/2006
 
 

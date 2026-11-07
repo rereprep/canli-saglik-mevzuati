@@ -12,12 +12,12 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/07/20230715-2.htm"
 durum: "yürürlükte"
 ---
 
-CUMARTESİ KANUN
-6/2/2023 TARİHİNDE MEYDANA GELEN DEPREMLERİN YOL
-AÇTIĞI EKONOMİK KAYIPLARIN TELAFİSİ İÇİN EK MOTORLU TAŞITLAR
-VERGİSİ İHDASI İLE BAZI KANUNLARDA VE 375 SAYILI KANUN
-HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 7456 Kabul Tarihi: 14/7/2023 Ek motorlu taşıtlar vergisi
+CUMARTESİ **KANUN**
+**6/2/2023 TARİHİNDE MEYDANA GELEN DEPREMLERİN YOL**
+**AÇTIĞI EKONOMİK KAYIPLARIN TELAFİSİ İÇİN EK MOTORLU TAŞITLAR**
+**VERGİSİ İHDASI İLE BAZI KANUNLARDA VE 375 SAYILI KANUN**
+**HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+**Kanun No. 7456** Kabul Tarihi: 14/7/2023 Ek motorlu taşıtlar vergisi
 
 MADDE 1- (1) 18/2/1963 tarihli ve 197 sayılı Motorlu Taşıtlar Vergisi Kanununun 5 inci, 6 ncı ve geçici 8 inci maddelerinde yer alan (I), (I/A), (II) ve (IV) sayılı tarifelere göre vergiye tabi olan ve bu Kanunun yayımı tarihinde ilgili sicilde kayıt ve tescilli bulunan taşıtlar ile bu Kanunun yayımı tarihinden 31/12/2023 tarihine kadar ilgili sicillere ilk defa kayıt ve tescil edilecek olan taşıtlar, bir defaya mahsus olmak üzere, 2023 yılı için tahakkuk ettirilen motorlu taşıtlar vergisi tutarı kadar ek motorlu taşıtlar vergisine tabidir.
 (2) Ek motorlu taşıtlar vergisi, taşıtların kayıt ve tescilinin yapıldığı yerin vergi dairesi tarafından bu Kanunun yayımı tarihinde, bu tarihten 31/12/2023 tarihine kadar ilgili sicillere ilk defa kayıt ve tescil edilecek olan taşıtlar için kayıt ve tescilin yapıldığı tarihte tahakkuk ettirilmiş ve tebliğ edilmiş sayılır.

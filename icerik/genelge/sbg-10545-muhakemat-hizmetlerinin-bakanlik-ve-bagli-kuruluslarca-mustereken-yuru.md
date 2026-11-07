@@ -40,7 +40,7 @@ Ancak Ankara, İstanbul ve İzmir Halk Sağlığı Müdürlükleri ile bu Ulerde
 
 ### SAGLlK BAKANLlGI Hulmk M iişavirliği
 
-Sayı: B. iO.O.HKM.OI 0.06.01/ Ko u: Mıuıakema!HiznıetleıininBakanlıkve
+**Sayı:** B. iO.O.HKM.OI 0.06.01/ Ko u: Mıuıakema!HiznıetleıininBakanlıkve
 
 ii
 
@@ -130,4 +130,4 @@ Müsteşar nAClTIM:
 
 **Dipnotlar**
 
-<small>c) Dava ve İcralarda Takip Yetki ve Giirevi:</small>
+<small>**c) Dava ve İcralarda Takip Yetki ve Giirevi:**</small>

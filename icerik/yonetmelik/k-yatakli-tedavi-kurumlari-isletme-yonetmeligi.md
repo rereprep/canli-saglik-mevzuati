@@ -15,11 +15,11 @@ durum: "yürürlükte"
 
 ### YATAKLI TEDAVİ KURUMLARI İŞLETME YÖNETMELİĞİ
 
-Bakanlar Kurulu Kararının Tarihi : 10.9.1982 No : 8/5319
+**Bakanlar Kurulu Kararının Tarihi : 10.9.1982 No : 8/5319**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 13.1.1983 No : 17927 Mükerrer
+**Yayımlandığı Resmî Gazetenin Tarihi : 13.1.1983 No : 17927 Mükerrer**
 
-Yayımlandığı Düsturun Tertibi : 5 Cilt : 22 Sayfa : 2889
+**Yayımlandığı Düsturun Tertibi : 5 Cilt : 22 Sayfa : 2889**
 
 ### YATAKLI TEDAVİ KURUMLARI İŞLETME
 
@@ -27,11 +27,11 @@ Yayımlandığı Düsturun Tertibi : 5 Cilt : 22 Sayfa : 2889
 
 ### GİRİŞ
 
-Amaç:
+**Amaç:**
 
 **Madde 1 –** Yataklı Tedavi Kurumlarında çeşitli hizmetlerin uygulama esaslarını, personelin görev, yetki ve sorumluluklarını belirlemek ve modern çağın icaplarına ve memleket gerçeklerine uygun, süratli, kaliteli, ekonomik bir hastane işletmeciliği sağlamakdır.
 
-Kapsam:
+**Kapsam:**
 
 **Madde 2 –** (Değişik: 1/4/2005-2005/8720 K.)
 
@@ -67,7 +67,7 @@ Yataklı tedavi kurumlarındaki poliklinik hizmetlerine halkın kolay ulaşabilm
 
 ### I - TIBBİ HİZMETLER
 
-A – Poliklinik Hizmetleri:
+**A – Poliklinik Hizmetleri:**
 
 **Madde 6 –** Poliklinikler, ayaktan muayene, tetkik, teşhis ve tedavi hizmetlerinin yapıldığı hastaların yataklı tedavi kurumlarında ilk müracaat üniteleridir.
 
@@ -103,29 +103,29 @@ Poliklinik ve tedavi hizmetleri mesai saatleri dışında ve tatil günlerinde d
 
 Uzman tabipler, talebi üzerine poliklinik veya tedavi hizmetlerini yürütmek için aynı ilde olmak kaydıyla çalıştığı kurumdan başka bir sağlık kurum veya kuruluşuna Valilikçe görevlendirilebilir.
 
-Poliklinikte muayene edilen bütün hastalar kaydedilir. Ağır, acil ve adli vak'aların kuruma müracaat saatleri de mutlaka kaydedilir. (Ek 42 Form 101)
+Poliklinikte muayene edilen bütün hastalar kaydedilir. Ağır, acil ve adli vak'aların kuruma müracaat saatleri de mutlaka kaydedilir. <i>(Ek 42 Form 101)</i>
 
-B – Servis Hizmetleri:
+**B – Servis Hizmetleri:**
 
 **Madde 13 –** Servis hizmetleri uzman, uzmanlık eğitimi görenler, hemşire ile eczacı, diyetisyen, fizyoterapist, psikoloğ gibi branşla ilgili diğer meslek mensupları tarafından birlikte yürütülen bir ekip çalışması olup, hastaya en iyi koşullarda, güvenilir araçlarla isabetli teşhisi koyarak, bakımının ve en kısa zamanda tedavisinin sağlanmasını, eğitim hastanelerinde ayrıca servis içi hasta başı eğitimlerini de gerçekleştirmeyi amaçlar. Bu ekibe kimlerin dahil edileceği dalın özelliğine göre ilgili şef veya uzmanın teklifi, baştabibin tasvibiyle saptanır.
 
-C – Acil Hizmetleri:
+**C – Acil Hizmetleri:**
 
 **Madde 14 –** Acil hizmetleri, acil polikliniği veya acil servisi, bunlar yoksa nöbetçi tabibi tarafından yürütülür. Bu hizmetler 24 saat süre ile kesiksiz olarak yürütülür.
 
-(Değişik ikinci fıkra: 1/4/2005-2005/8720 K.) Acil servis baştabibin teklifi ve Valilik onayı ile kurulur ve tescil için Sağlık Bakanlığına bildirilir.
+**(Değişik ikinci fıkra: 1/4/2005-2005/8720 K.)** Acil servis baştabibin teklifi ve Valilik onayı ile kurulur ve tescil için Sağlık Bakanlığına bildirilir.
 
-(Mülga üçüncü fıkra: 1/4/2005-2005/8720 K.)
+**(Mülga üçüncü fıkra: 1/4/2005-2005/8720 K.)**
 
 Bu hizmetlerde, hizmetin sürekliliğini sağlıyacak şekilde, yeteri kadar sağlık ve yardımcı sağlık personeli ile, hayati önemi haiz araç, gereç ve nöbetçi eczacı bulunmayan kurumlarda da lüzumlu ilaçlar bulundurulur.
 
-D – Laboratuvar Hizmetleri:
+**D – Laboratuvar Hizmetleri:**
 
 **Madde 15 –** Laboratuvar hizmetleri; poliklinik ve servis hastaları ile gereğinde Sağlık ve Sosyal Yardım Bakanlığının halk sağlığı gibi diğer laboratuvar ihtiyaçlarını karşılayacak nitelikte ve ayrıca poliklinik laboratuvarı bulunmayan yataklı tedavi kurumlarında servis ve polikliniklere göre merkezi bir yerde düzenlenir.
 
 Laboratuvarlara muayene materyalleri, ilgili poliklinik ve klinik tabibleri tarafından usulune uygun olarak doldurulmuş laboratuvar istek kağıdları (EK 14 Form 65-EK 13 Form 64) ve diğer sağlık kurumlarından resmi evrak ile gönderilir. Laboratuvar hizmetleri tutulacak bir deftere kaydedilir. (EK 48 Form 107)
 
-E – Ameliyathane - Merkezi Sterilizasyon - Reanimasyon - Yoğun Bakım - Uyandırma ve Ameliyat Sonu Bakım Ünitesi Hizmetleri
+**E – Ameliyathane - Merkezi Sterilizasyon - Reanimasyon - Yoğun Bakım - Uyandırma ve Ameliyat Sonu Bakım Ünitesi Hizmetleri**
 
 **Madde 16 –** I) Ameliyathane Hizmetleri:
 
@@ -147,7 +147,7 @@ Yoğun bakım ve reanimasyon hizmetlerinin yapıldığı yerler; tabib ve hemşi
 
 Yoğun bakımda hizmetlerin düzenli bir şekilde yürütülmesinden o yoğunbakımın fonksiyonuyla ilgili klinik ve bu kliniğin bir uzmanı sorumludur. Şayet yoğun bakımda çeşitli kliniklere ait yataklar bulunuyorsa bu takdirde baştabibin seçeceği bir veya daha fazla uzman burada görevlendirilir. Bunlar gerekli hallerde ilgili dal uzmanı ile birlikte hastaların takip ve tedavisini yaparlar.
 
-(Değişik son paragraf: 1/4/2005-2005/8720 K.) Yataklı tedavi kurumlarının fonksiyonlarına uygun şekilde açılacak yoğun bakım üniteleri, baştabibin teklifi ve Valilik onayı ile kurulur ve tescil için Sağlık Bakanlığına bildirilir.
+**(Değişik son paragraf: 1/4/2005-2005/8720 K.)** Yataklı tedavi kurumlarının fonksiyonlarına uygun şekilde açılacak yoğun bakım üniteleri, baştabibin teklifi ve Valilik onayı ile kurulur ve tescil için Sağlık Bakanlığına bildirilir.
 
 IV – Uyandırma ve Ameliyat Sonu Bakım Ünitesi Hizmetleri:
 
@@ -157,7 +157,7 @@ Burada yeterli cihaz ve malzeme ile 24 saat sürekli hizmet görecek şekilde he
 
 Bu hizmet, kurumun personel, araç, gereç imkanları ve fizik yapısı elvermediği takdirde yoğun bakım ünitesi ile bir arada yürütülür.
 
-F – Eczane Hizmetleri:
+**F – Eczane Hizmetleri:**
 
 **Madde 17 –** Kurum eczaneleri yatan hastalarla, kanun, tüzük, yönetmelik ve emirler gereğince yatırılmadan ilaç verilmesine lüzum görülen hastalara ilaç ve sıhhi malzeme sağlanan yerlerdir.
 
@@ -201,7 +201,7 @@ a) Yatan hastaların tabelalarına yazılan ilaçlar, eczacı veya hemşire tara
 
 b) Ücret karşılığı verilen ilaçlar; kurumun bulunduğu yerde başka bir eczane bulunmadığı veya bulunup da önemli ve acil bir vak’a için kullanılacağı tabip raporu ile kanıtlanmış ilaçlar, serbest eczanelerden herhangi biri tarafından piyasada bulunmadığının belirtilmesi halinde perakende satış fiyatı üzerinden ücreti alınmak suretiyle verilir. Alınan ücret ilaçların giriş şekline göre döner sermaye veya Maliye veznesine yatırılır.
 
-G – Olağanüstü Hallerde Yataklı Tedavi Kurumları Hizmetleri:
+**G – Olağanüstü Hallerde Yataklı Tedavi Kurumları Hizmetleri:**
 
 **Madde 19 –** Olağanüstü hallerde (Deprem, yangın, su baskınları, kasırga, tayfun epidemiler (Salgınlar) gibi doğal afetler ile büyük kazalarda, toplu olaylarda) ve savaş durumunda ilgili kurum ve kuruluşlara yatak ve ilaç tahsis konusunda alınacak tedbirler aşağıdaki hususlara uygun şekilde önceden planlanır.
 
@@ -233,7 +233,7 @@ b) Kurum dışında:
 
 ### H – BİLİMSEL KURULLAR
 
-I – Hastane Konseyi:
+**I – Hastane Konseyi:**
 
 **Madde 20 –** Yataklı tedavi kurumlarında baştabibin başkanlığı altında bütün servis, laboratuvar şef veya uzmanları, hastane müdürü ve başhemşirenin katılması ile bir konsey kurulur. Konsey salt çoğunlukla yılda en az 4 defa toplanır. Bunun dışında baştabib lüzum gördükçe gündemli olarak konseyi her zaman toplantıya çağırabilir. Bu toplantılarda kurumla ilgili ilmi ve idari konular görüşülerek çoğunluk ile alınan kararlar özel karar defterine kaydedilir. Oyların eşitliği halinde baştabibin bulunduğu tarafın oyu geçerli sayılır. Bu kararların uygulanması ve takibi baştabibliğe aittir.
 
@@ -241,13 +241,13 @@ Ayrıca bilimsel çalışmaları, hasta teşhis ve tedavisi ile ilgili hususlar�
 
 Bu komitelerin çeşitleri ve üye adetleri yılın ilk toplantısında kurumun fonksiyonuna göre konsey tarafından tesbit edilir.
 
-II – Eğitim Planlama ve Koordinasyon Kurulu:
+**II – Eğitim Planlama ve Koordinasyon Kurulu:**
 
 **Madde 21 –** Eğitim hastanelerinde ayrıca baştabible birlikte genel dal yataklı tedavi kurumlarında 5, özel dal tedavi kurumları ile yataksız kurumlarda 3 şeften oluşan Eğitim Planlama ve Koordinasyon Kurulu kurulur. Kurum amiri kurulun başkanıdır. Üyeler arasından bir başkan yardımcısı seçilir. Başkanın bulunmadığı hallerde yardımcısı ona vekalet eder. Ayrıca aynı sayıda yedek üye de seçilir. Asil ve yedek üyeler kurumda mevcut şef ve şef yardımcıları tarafından gizli oyla seçilir. Üyelerin görev süresi 3 yıldır. Tekrar seçilebilirler.
 
 Bu kurul Tababet Uzmanlık Yönetmeliğinin 16. maddesi gereğince görev yapar.
 
-III – Sağlık Kurulları:
+**III – Sağlık Kurulları:**
 
 **Madde 22 –** (Mülga:RG-24/10/2026-33410-CK-11928/1 md.)
 
@@ -265,7 +265,7 @@ III – Sağlık Kurulları:
 
 **Madde 29 –** (Mülga:RG-24/10/2026-33410-CK-11928/1 md.)
 
-İ – Yataklı Tedavi Kurumları İç Enfeksiyonlardan Korunma Hizmetleri:
+**İ – Yataklı Tedavi Kurumları İç Enfeksiyonlardan Korunma Hizmetleri:**
 
 **Madde 30 –** (Değişik: 1/4/2005-2005/8720 K.)
 
@@ -297,25 +297,25 @@ Aletler, eldivenler, dikiş materyeli, solusyonlar ve diğer malzeme ile enfeksi
 
 Her ameliyat gününden sonra ameliyathanede etkili bir dezenfeksiyon yapılır.
 
-J – Merkezi Tıbbi Arşiv:
+**J – Merkezi Tıbbi Arşiv:**
 
 **Madde 32 –** Her yataklı tedavi kurumunda bir merkezi tıbbi arşiv kurulur. Bütün servislerin ve olanakları ölçüsünde polikliniklerin işi biten dosyaları, bilimsel çalışmalar, istatistik değerlendirmeler hastaların diğer müracaatlarında kullanılmak üzere bir sıra ve düzen içersinde muhafaza edilir.(Ek 21 Form 72)
 
 Dosyanın çabuk ve kolay bulunması için; isme, hastalığa ve protokol numarasına göre lüzumlu görülen çeşitli bulma kolaylıkları sağlıyacak kartoteks sistemleri uygulanır.
 
-(Değişik son fıkra: 1/4/2005-2005/8720 K.) Merkezî tıbbî arşivin çalışma şekli ile hastanede tutulan tüm kayıtların bilgisayar ortamında tutulabilmesine ilişkin usul ve esaslar Yönerge ile belirlenir.
+**(Değişik son fıkra: 1/4/2005-2005/8720 K.)** Merkezî tıbbî arşivin çalışma şekli ile hastanede tutulan tüm kayıtların bilgisayar ortamında tutulabilmesine ilişkin usul ve esaslar Yönerge ile belirlenir.
 
-K – Kitaplık:
+**K – Kitaplık:**
 
 **Madde 33 –** Kitaplık temiz, tertipli ve usulüne uygun bir şekilde tasnif edilir. Aranan kitapların kolay bulunacağı bir şekilde gerekli kayıt ve kartoteks sistemi tutulur.
 
-L – Tıbbi Fotoğrafhane:
+**L – Tıbbi Fotoğrafhane:**
 
 **Madde 34 –** Özellikle eğitim hastanelerinde bilimsel çalışmalar ve eğitim, öğretim materyeli sağlamak için bir tıbbi fotoğrafhane bulunur.
 
 Bu fotoğrafhanede, uzmanların lüzum gösterdiği vak'aların ilk durumları ile hastalığın seyir ve sonucunu tesbit için filim, fotoğraf ve slayt çekilir. Bunlar fotoğrafhanenin özel arşivinde isme, hastalığa ve kullanılması istenen diğer ihtiyaçlara göre arandığında kolayca bulunacak şekilde kaydedilerek muhafaza edilir.
 
-M – Sosyal Hizmetler:
+**M – Sosyal Hizmetler:**
 
 **Madde 35 –** Standardında sosyal hizmet uzmanı bulunan yataklı tedavi kurumlarında bir sosyal servis kurulur. Birden fazla sosyal hizmetler uzmanı bulunduğu takdirde, içlerinden baştabib tarafından görevlendirilen bir tanesi bu servisin amirliği görevini de yürütür.
 
@@ -325,11 +325,11 @@ Ayrıca kurum personelinin karşılıklı ilişkilerinde ve sosyal sorunlarında
 
 ### II – YÖNETİM HİZMETLERİ
 
-A – Hizmet Birimlerinin Yerleşimi:
+**A – Hizmet Birimlerinin Yerleşimi:**
 
 **Madde 36 –** Yataklı tedavi kurumlarında hizmet birimleri; hasta ve iş sahipleri ile doğrudan ilişkili olan bölümler giriş kapılarına yakın olmak üzere, iç ve dış hasta akımı birbirine karışmıyacak, iyi bir hizmet akımı sağlayacak ve birbirleriyle ilişkili olan görevler veya hizmet birimleri birarada veya yakın bulunacak şekilde düzenlenir.
 
-B – Çalışma Düzeni ve Çalışma Saatleri :
+**B – Çalışma Düzeni ve Çalışma Saatleri :**
 
 **Madde 37 –** Yataklı tedavi kurumlarında çalışmalar günün 24 saatinde kesintisiz devam eder. Normal mesai saatleri dışındaki hizmetler, acil vak'aların muayene ve tedavisini acil ameliyat ve müdahalelerin yapılmasını ve yatmakta olan hastaların bakımlarının devamını kapsar.
 
@@ -457,7 +457,7 @@ b) Dört ve daha fazla teknisyeni bulunan yataklı tedavi kurumlarında bunlar d
 
 c) Nöbet tutulmadığı zamanlarda gerekli ve acil hallerde mühendis ve teknisyenler görevlilerin davetine gelirler.
 
-D – Hasta Kabul Hizmetleri:
+**D – Hasta Kabul Hizmetleri:**
 
 **Madde 53 –** Yataklı tedavi kurumlarında hasta kabul işleri, hasta yatırılması, çıkarılması ve diğer kurumlara nakledilmesi ile ölen ve doğanların kayıt vesair işlerini ve ölenlerin eşyalarının tereke hakimliğine gönderilmesi işlemlerini kapsar.
 
@@ -495,11 +495,11 @@ Acil vak’alarda aciliyetin devamı süresince ve yatak sınıf farkı dikkate 
 
 Tespit edilen yatak sınıfları ile yapılan değişiklikler Sağlık Bakanlığına bildirilir.
 
-F – Ücretli Hastaların Yatırılma ve Ücret Ödeme Şekilleri:
+**F – Ücretli Hastaların Yatırılma ve Ücret Ödeme Şekilleri:**
 
 **Madde 59 –** Ücretli hastaların sınıflarına göre yatacakları yatak, yiyecek, bakım ve tedavi ücretleri aşağıdaki esaslar çerçevesinde alınır.
 
-a) (Değişik: 1/4/2005-2005/8720 K.) Hastadan, yapılacak tedavinin özelliğine göre, her türlü tedavi (ilaç dahil) ve bakım için belirli miktar ücret emanet alınır, karşılığında vezne alındısı verilir.
+a) **(Değişik: 1/4/2005-2005/8720 K.)** Hastadan, yapılacak tedavinin özelliğine göre, her türlü tedavi (ilaç dahil) ve bakım için belirli miktar ücret emanet alınır, karşılığında vezne alındısı verilir.
 
 Hastanın tedavisi sonunda çıkarken, bu maddenin (c) bendinde belirtilen ücret yönünden döner sermaye ile ilişiği kalırsa; fazla olan miktar iade, eksik olan miktar ise tahsil edilir. Hastanın döner sermaye ile ilişiğinin kesilememesi halinde hasta veya yasal temsilcisi fatura muhteviyatı hakkında bilgilendirilerek taburcu işlemleri yapılır. Tahsil edilemeyen miktarın takibi, fatura üzerinden genel hükümlere göre yapılır. Faturanın takip ve tahsilinden döner sermaye saymanı sorumludur.
 
@@ -511,7 +511,7 @@ d) Ayaktan tedavilerde Röntgen, fizik tedavi, diğer laboratuvarlarda ücretli 
 
 İlgili servis, vezne alındısını görmeden gerekli muayene ve tedaviyi yapmaz.
 
-G – Memurların ve Sigortalıların Muayene ve Tedavi Ücretleri:
+**G – Memurların ve Sigortalıların Muayene ve Tedavi Ücretleri:**
 
 **Madde 60 –** Tedavi giderleri, devlet, kamu iktisadi teşekkülleri, bankalar, Sosyal Sigortalar Kurumu ve Emekli Sandığınca karşılananlar tahakkuk edecek her türlü ücretin ödeneceğini bildiren ve ilgilinin yatmaya müstahak olduğu sınıfı belirleyen bağlı oldukları daireler veya kurumlarca yataklı tedavi kurumlarına yazılmış bir yazı veya sevk kağıdı (Ek 16 Form 67) getirdikleri takdirde muayene ve tedavileri yapılır ve tahakkuk edecek ücretleri bilahare ait olduğu yerden
 
@@ -519,11 +519,11 @@ tahsil edilir. (Ek 23 Form 74)
 
 Acil ve hemen müdahale ve tedaviyi gerektiren durumlarda kurumun yazısı sonradan alınmak kaydıyle gereği yapılır.
 
-H – Yatak Kadrolarına Göre Hasta Kabulu:
+**H – Yatak Kadrolarına Göre Hasta Kabulu:**
 
 **Madde 61 –** Yataklı tedavi kurumlarına olağanüstü durumlar dışında mevcut yatak sayısından fazla hasta kabul edilemez.
 
-İ – Hastalara Refakat Şekli ve Koşulları:
+**İ – Hastalara Refakat Şekli ve Koşulları:**
 
 **Madde 62 –** Hastaların yanında refakatçı kalması, kurumda ağır hasta bakımını gerektiren hizmet birimi bulunmadığı takdirde ve tıbbi bir zorunluluk olmak kaydıyle ilgili dal uzmanının lüzum göstermesi ve baştabibin muvafakatı ile belirtilen sürece mümkündür.
 
@@ -531,7 +531,7 @@ Refakatçılar, mümkün olduğu ve lüzum görüldüğü takdirde kurumun verec
 
 Refakatçılar, tabiblerin direktifleri içerisinde hastalara bakmakla ve kurum disiplinine uymakla yükümlüdürler. Refakatçılara hizmet edilmez.
 
-J – Serbest Uzman Tabiblerin Resmi Hastanelerden Faydalanması Koşulları:
+**J – Serbest Uzman Tabiblerin Resmi Hastanelerden Faydalanması Koşulları:**
 
 **Madde 63 –** Özel hastane bulunmayan yerlerde yataklı tedavi kurumları dışındaki serbest uzman tabibler, acil müdaheleyi gerektiren vak'alarda kurumun o şubede uzmanı olmadığı takdirde, ameliyat ve tedavilerini kendileri yapmak kaydıyle özel hastalarını yatırabilirler.
 
@@ -551,7 +551,7 @@ Müdavi tabibin konsultasyona muhalefeti halinde, gereğine baştabib karar veri
 
 Kurumun görevli tabibi, konsultasyon kararı çoğunluk ile de olsa, kendi özel görüş ve fenni kanaatina aykırı tedavi ve ameliyata zorlanamaz. Bu takdirde tedavi ve müdahale hasta veya sahibinin muvafakatı ile konsultasyona katılan uzman tabib tarafından yapılır.
 
-K – Yatacak Hastaların Kabul Şekli ve İşlemleri:
+**K – Yatacak Hastaların Kabul Şekli ve İşlemleri:**
 
 **Madde 66 –** Polikliniklere müracaat eden veya hariçten gönderilen hastalar, çalışma saatlerinde polikliniklerde görevli tabibler, çalışma saatleri dışında nöbetçi veya acilde görevli tabiblerce muayene edilerek, yatırılmaları gerekli görülenler, muayeneyi yapan tabib tarafından hasta giriş kağıdı doldurulup (Ek 9 Form 60) poliklinik sıra numarası kaydedilip imzalandıktan sonra baştabib veya yardımcısı, bunların bulunmadığı hallerde nöbetçi tabibin onayı ile ait olduğu servis ve sınıfa yatırılmak üzere hasta kabul memurluğuna gönderilir.
 
@@ -579,7 +579,7 @@ Hasta emanetteki parasından ihtiyacı kadarını imzası mukabilinde alabilir.
 
 **Madde 70 –** Hastaların üzerindeki giyim eşyaları varsa hasta odalarındaki dolaplarında yoksa veya kurum idaresince gerek görüldüğü takdirde bu iş için ayrılmış özel depoda birbirine karışmayacak, zarar görmiyecek ve kolay bulunacak bir şekilde düzenli olarak saklanır. Bu takdirde teslim alınanlar hasta kabul kağıdına kaydedilerek hastaya imzalatılır ve imza mukabilinde özel depo ilgilisine teslim edilir. Depo ilgilisi bunları emanet eşya defterine kaydeder. Servise giren hastaların icapettiği takdirde çamaşır ve gecelikleri servis tarafından verilir. Lüzum görüldüğü takdirde hastaların çamaşır değiştirmeden ve yatırılmadan önce banyo yapmaları sağlanır. Hastalar hiçbir şekilde kurumda giyilmesine ve kullanılmasına izin verilmiş kıyafetlere aykırı giyim, kuşam kullanamazlar.
 
-L – Yatırılan Hastalara Yapılacak İşlemler:
+**L – Yatırılan Hastalara Yapılacak İşlemler:**
 
 **Madde 71 –** Hasta dosyaları tıbbi müşahade muayene kağıdı ile (Ek 11 Form 62) derece kağıdı ve hasta tabelası (Ek 1 Form 51) (ilaç ve iaşe tabelası) olmak üzere üç esas kısımdan ibarettir. Bunlardan başka kurumların ve kliniklerin özelliklerine göre ve Sağlık ve Sosyal Yardım Bakanlığının izni ile uzmanlarca gerekli görülen ve baştabiblikçe kabul edilen formlar ve kağıtlar eklenir. Müşahade-muayene ve derece kağıdına hastaların kurumda saptanan bütün müşahadeleri ve yapılan bütün muayeneleri (klinik, fizik, şimik, bakteriyolojik) sonuç ve bulgularla, tedavi ve günlük değişiklikler yazılır. Kesin teşhise varılmadan müşahade kağıtlarına teşhis yazılmaz. Ancak hastanın girişinde hasta giriş kağıdına muhtemel teşhis yazılır.
 
@@ -599,7 +599,7 @@ Tutuklu ve hükümlülerin yattığı kurumlarda, bütün inzibatı sorumluluğu
 
 Tutuklu ve hükümlü hastalar ve bunların muhafazası ile ilgili görevliler kurum disiplinine uymaya mecburdurlar.
 
-M – Hastaların Çıkartılması:
+**M – Hastaların Çıkartılması:**
 
 **Madde 76 –** İyileşen veya kurumda yatmasına lüzum kalmıyacak şekilde salah bulan veya kurum da yatmalarında fayda görülmeyen hastaların dosyaları servis şefi veya uzmanı tarafından tabelasına teşhis, çıkış tarihi, hastalığın istatistik kod numarası ve çıkarılmasına ilişkin gerekli açıklama yazılıp imza edildikten sonra gereği yapılmak üzere idareye verilir.
 
@@ -617,7 +617,7 @@ Kurum eşyasını ve malzemesini kasden tahrip eden veya kaybına sebebiyet vere
 
 **Madde 80 –** Hastalıkları ağır olup da çıkarılmalarında sakınca olan hastalar kendi istekleriyle kurumdan çıkmakta ısrar ettikleri takdirde kendilerinin veya yakınlarının imzalı muvafakatları alınarak servis uzmanını imzasıyle çıkarılabilirler. Ancak bulaşıcı ve salgın hastalıklara tutulmuş olanlar hastalıklarının bulaşma ihtimali kaybolmadan çıkarılamazlar.
 
-N – Ölüm Vukuunda Yapılacak İşler:
+**N – Ölüm Vukuunda Yapılacak İşler:**
 
 **Madde 81 –** Servislerde ağırlaşan hastalar görevliler tarafından servis tabibine; çalışma saatleri dışında ise nöbetçi tabibine haber verilir. Agoniye girenler, diğer hastalardan ayrılırlar. Bu gibi hastaların yakınları baştabib veya nöbetçi tabib tarafından en seri vasıta ile haberdar edilir.
 
@@ -645,7 +645,7 @@ Polikliniklerde veya kurum dışında ölenler, baştabibin muvafakatı ile kuru
 
 **Madde 85 –** Ölen hastaların elbise ve eşyaları ile mücevher ve paraları, o yerdeki yetkili mahkemeye teslim edilir. Mahkemeye teslim edilen emanet eşyanın, muhallefat defterindeki kayıtlarının emanet defterindeki kayıtlara uyması ve emanet defterindeki sıra numarasının da muhallefat defterine aynen yazılması gereklidir.
 
-O – Adli İhbar İşlemleri ve Otopsi:
+**O – Adli İhbar İşlemleri ve Otopsi:**
 
 **Madde 86 –** (Değişik: 1/4/2005-2005/8720 K.)
 
@@ -653,7 +653,7 @@ Yataklı tedavi kurumlarında muayene ve tedavi edilen vakalarda, bir suçun iş
 
 **Madde 87 –** Yataklı kurumlarında ölenlere, tıbbi lüzum görüldüğü takdirde, sahibinin izni alınmak şartıyla otopsi yapılır. Umumi Hıfzıssıhha Kanununa göre "Sari ve salgın hastalıktan vefat eylediği zan ve şüphe edilen eşhas üzerinde, ilgili tabib tarafından lüzum gösterildiği takdirde veya adli makamların yazılı veya sözlü istekleri üzerine Ceza Mahkemeleri Usulu Kanununun 79. maddesindeki esaslar çerçevesinde sahibinin rızası alınmadan otopsi yapılır.
 
-P – Temizlik Hizmetleri:
+**P – Temizlik Hizmetleri:**
 
 **Madde 88 –** (Değişik birinci fıkra: 1/4/2005-2005/8720 K.) Poliklinik, servis, laboratuvar, ameliyathane, mutfak, çamaşırhane, bahçe gibi hizmet birimlerinin temizliği, hastane personeli tarafından veya hizmet alımı yoluyla yapılır.
 
@@ -667,9 +667,9 @@ Kurumun yakılabilecek artıklarının ayrı toplanmak suretiyle yakılması sa�
 
 ### R – MUTFAK VE BESLENME HİZMETLERİ:
 
-Beslenme Türleri:
+**Beslenme Türleri:**
 
-**Madde 89 –** Kurumlarda; kadrolarında bulunan tüm personel ile yönetmelikler gereği hastanede staj yapan öğrencilere ve hizmet içi eğitime gelen sağlık ve yardımcı sağlık personeline öğle yemeği, bunlardan kurumda yatanlarla bu yönetmeliğin ilgili maddelerindeki hükümlere göre sürekli olarak kurumda kalanlar ve nöbetçilere üç öğün yemek ve vardiye uygulanan kurumlarda vardiyaya kalan personele çalışma sürelerine isabet eden öğünlerde yemek verilir. (Ek cümle: RG-19/12/2018-30630-C.K.-477/1 md.) İlgili mevzuatı gereğince yataklı tedavi kurumlarında staj yapan öğrenciler, staj yaptıkları günlerle sınırlı olmak üzere hastalar için oluşturulmuş yemek servisinden ücret ödemeden yararlandırılır.
+**Madde 89 –** Kurumlarda; kadrolarında bulunan tüm personel ile yönetmelikler gereği hastanede staj yapan öğrencilere ve hizmet içi eğitime gelen sağlık ve yardımcı sağlık personeline öğle yemeği, bunlardan kurumda yatanlarla bu yönetmeliğin ilgili maddelerindeki hükümlere göre sürekli olarak kurumda kalanlar ve nöbetçilere üç öğün yemek ve vardiye uygulanan kurumlarda vardiyaya kalan personele çalışma sürelerine isabet eden öğünlerde yemek verilir. **(Ek cümle: RG-19/12/2018-30630-C.K.-477/1 md.)** İlgili mevzuatı gereğince yataklı tedavi kurumlarında staj yapan öğrenciler, staj yaptıkları günlerle sınırlı olmak üzere hastalar için oluşturulmuş yemek servisinden ücret ödemeden yararlandırılır.
 
 **Madde 90 –** Hastaların beslenmeleri normal ve rejim yemeği olmak üzere ikiye ayrılır.
 
@@ -699,7 +699,7 @@ Hastane müdürü bu hususları sağlayacak şekilde işleri ayarlamak ve anbar�
 
 Hergün artan ekmekler, gelir kaydedilerek ertesi gün bu miktar eksik verilir.
 
-S – Çamaşır ve Çamaşır Yıkama - Ütü İşleri:
+**S – Çamaşır ve Çamaşır Yıkama - Ütü İşleri:**
 
 **Madde 93 –** Çamaşır işleri; kirli çamaşırların servislerden çamaşırhaneye gelişi, yıkanış ve kurutuluşu, ütüleme işleri, tasnif ile servislere dağıtılması ve depolama hizmetlerinden ibarettir.
 
@@ -711,7 +711,7 @@ Servisler, kirli çamaşırlarını çamaşırhaneye götürür ve götürdüğ�
 
 **Madde 94 –** Personelin gömlekleri ve lüzum görülen diğer çamaşırları ayrı olarak yıkanır ve kolalanır. Bütün hasta çamaşırları ütülenir ve muntazam katlanarak, varsa genel çamaşır deposuna yoksa, servis dolaplarına yerleştirilir.
 
-Ş – Hastane Ziyaretleri:
+**Ş – Hastane Ziyaretleri:**
 
 **Madde 95 –** Yataklı Tedavi kurumlarında yatan hastaların yakınları tarafından ziyaret edilmelerine, bölgesel koşullar ve kurumun durumu gözönüne alınarak, hergün veya haftada birkaç gün olmak üzere öğleden sonralara baştabibin saptıyacağı saatlerde izin verilir.
 
@@ -735,17 +735,17 @@ Herhangi bir sıhhi ve tıbbi sakınca olmadıkça kurumlara yatan tutuklu ve h�
 
 Kurum idaresi, tutuklu ve hükümlüleri ve gelen ziyaretçileri seçme ve araştırma yönünden sorumlu tutulmaz. Bunun sorumluluğu cezaevi görevlisine aittir.
 
-III – Satınalma Ayniyat Depo ve Ambar Hizmetleri:
+**III – Satınalma Ayniyat Depo ve Ambar Hizmetleri:**
 
 **Madde 99 –** Bu hizmetler kurum için gerekli tüketim maddeleri, ilaç, yiyecek, temizlik, yakacak benzeri tıbbi ve sıhhi malzeme, demirbaş, döşeme ve cihazların satın alınma, muayene ve tesellüm depolama, sarf işleri ile her çeşit onarım ve mali işlemlerin mevcut tüzük, yönetmelik ve kararname hükümlerine göre yapılmasını kapsar.
 
-A – Satın Alma İşleri:
+**A – Satın Alma İşleri:**
 
 **Madde 100 –** (Değişik: 1/4/2005-2005/8720 K.)
 
 Yataklı tedavi kurumlarında satın alma işleri, satın alma komisyonu tarafından ilgili mevzuata göre yapılır.
 
-B – Muayene ve Tesellüm:
+**B – Muayene ve Tesellüm:**
 
 **Madde 101 –** Satınalma veya irsal yolu ile kuruma gelen bir malın muayene ve tesellümü, Ayniyat Talimatnamesi esaslarına göre muayene ve tesellüm komisyonu tarafından yapılır,
 
@@ -765,19 +765,19 @@ d) Girdi pusulalarının diğer nüshası ayniyat tesellüm makbuzu dipkoçanın
 
 e) Sağlık ve Sosyal Yardım Bakanlığından veya diğer bir kurumdan gelen hertürlü malın irsaliyesindeki miktar ve evsafa uygunluğu (a) fıkrasındaki komisyonca tespit ve buna göre tesellüm edilir.
 
-C – Depolama:
+**C – Depolama:**
 
 **Madde 102 –** Satın alınan maddelerin mukavele esaslarına diğer kurumlardan gelenlerin irsaliye muhteviyatına uygun olmaları halinde Ayniyat Talimatnamesi hükümlerine göre kesin tesellüm makbuzu düzenlenerek ikinci nüshası Sayıştay hesabı bakımından ayniyat saymanına verilir. Dip koçanı da ithalat evrakı olarak depo veya ambar memurluğunca saklanır.
 
 Ambar veya depoya giren her türlü malzeme, yiyecek, ilaç ve giyecek düzenli bir şekilde tasnif edilerek yerleştirilir. Haşarattan, sıcaktan, soğuktan korunması ve yangına karşı her türlü tedbir alınır.
 
-D – Sayım Komisyonu:
+**D – Sayım Komisyonu:**
 
 **Madde 103 –** Kurumlarda Ayniyat Talimatnamesi hükümlerine göre sayım yapmak üzere her mali yıl başında baştabibin tayin edeceği ve içlerinde ayniyat saymanının, yoksa mutemedinin bulunacağı üç kişilik bir komisyon kurulur.
 
 Bu komisyon kurumda mevcut her türlü demirbaş, malzeme ve mefruşat ile erzak vesair maddelerin sayımını, yapar. Bu sayımda mevcutların resmi kayıtlara göre fazlası, eksiği saptanır. Bozulan, çürüyen, kırılan ve dökülenler nedenleri ile beraber bir tutunakla belirtilerek noksanlar baştabibliğe bildirilir. Kullanılmayacak hale gelen eşya, malzeme, ilaç ve erzak hakkında usulüne göre kayıt silme işlemi uygulanır.
 
-E – Ambardan Erzak ve Malzeme Çakarılması:
+**E – Ambardan Erzak ve Malzeme Çakarılması:**
 
 **Madde 104 –** Ambardan erzak, Ayniyat Talimatnamesinde ve aşağıda hükümlere göre çıkarılır.
 
@@ -797,7 +797,7 @@ f) Servislerin ihtiyacı bulunan temizlik maddelerinin günlük veya periyodik s
 
 Ambar ve depolardan çıkacak diğer maddeler için de; ihtiyaç gösteren servis veya birisinin istek belgesi (Ek 37 Form 88) düzenleyerek idareye vermesi ve bunun üsulüne uygun çıkış işleminin yapılması gerekir.
 
-F – Ayniyat İşleri:
+**F – Ayniyat İşleri:**
 
 **Madde 105 –** Devlet mallarının, muhafazası, ihracı, başka kurumlara nakil, kayıttan düşme ve imhası Ayniyat Talimatnamesi hükümlerine göre yapılır.
 
@@ -817,7 +817,7 @@ Bu makbuzların da birer nüshası Sayıştay dosyasına konur.
 
 ### IV. TEKNİK HİZMETLER
 
-A – Çalışma - Bakım ve Onarım Hizmetleri:
+**A – Çalışma - Bakım ve Onarım Hizmetleri:**
 
 **Madde 106 –** Yataklı tedavi kurumlarında teknik hizmetleri; bina ve eklentilerinin elektrik, sıhhi tesisat, santral, çamaşır makinaları, tıbbi cihazlar ve klima tesisleri ile motorlu araçların çalıştırılma, bakım ve onarım işlerini kapsar.
 
@@ -831,7 +831,7 @@ Her tesis ve cihaz için uygulanan büyük tamir ve parça değiştirmeler kendi
 
 Gereken Cihaz ve araçların üzerlerinde çalıştırma talimatları ile bakım ve kontrol formları asılı bulundurulur.
 
-B – Bahçe Hizmetleri:
+**B – Bahçe Hizmetleri:**
 
 **Madde 108 –** Yataklı tedavi kurumları bahçesi ve varsa otopark yerler herzaman düzenli, bakımlı ve temiz olacaktır. Bundan hastane müdürü sorumludur.
 
@@ -839,13 +839,13 @@ B – Bahçe Hizmetleri:
 
 **Madde 109 –** Yataklı tedavi kurumlarında servis, laboratuvar şef ve uzmanları, başeczacı, başhemşire, hastane müdürü gibi doğrudan baştabibe bağlı hizmet birim amirleri, servis veya birimlerinin tertip, düzen ve verimli çalışması, temizlik işleri bakımından ve hizmetlerin bu yönetmelik esaslar içersinde yürütülmesinden, maiyetlerinin görevlerini zamanında, en iyi bir şekilde yapmasından ve eğitiminden baştabibe, doğrudan baştabibe bağlı olmıyan birim sorumluları ise bu hususlarda bağlı bulundukları, başhemşire, hastane müdürü gibi birinci derecedeki amirlerine, daha aşağıdaki kademeler ise kendinden önce gelen bir üst amire karşı sorumludurlar.
 
-A – Baştabibin Görev ve Yetkileri:
+**A – Baştabibin Görev ve Yetkileri:**
 
 **Madde 110 –** (Değişik birinci fıkra: 1/4/2005-2005/8720 K.) Eğitim ve araştırma hastaneleri; servis ve laboratuvar şefleri veya şef yardımcıları ile tıp alanında doçent veya profesör tabipler arasından, Sağlık Bakanlığınca atanacak baştabipler tarafından yönetilir. Diğer hastaneler ise; uzman tabipler veya tıp alanında doktora yapmış tabipler yada iktisat, işletme, kamu yönetimi, hukuk, maliye, sağlık yönetimi, muhasebe alanlarında lisans, yüksek lisans veya doktora eğitimi almış tabipler arasından, Sağlık Bakanlığınca atanacak baştabipler tarafından yönetilir.
 
-(Ek ikinci fıkra: 1/4/2005-2005/8720 K.) Sağlık Bakanlığı uygun gördüğü illerde sağlık hizmetinin daha verimli ve etkin sunumunu sağlamak üzere koordinatör baştabip atayabilir. Koordinatör baştabibin görev yetki ve sorumlulukları Yönerge ile belirlenir.
+**(Ek ikinci fıkra: 1/4/2005-2005/8720 K.)** Sağlık Bakanlığı uygun gördüğü illerde sağlık hizmetinin daha verimli ve etkin sunumunu sağlamak üzere koordinatör baştabip atayabilir. Koordinatör baştabibin görev yetki ve sorumlulukları Yönerge ile belirlenir.
 
-(Ek üçüncü fıkra: 1/4/2005-2005/8720 K.) Yatırım programında yer alan hastanelerden henüz geçici kabulü yapılmamış olanların, inşaat işlemlerini tamamlaması, yerleşim planlamalarının yapılması, tıbbi ve demirbaş ihtiyaçlarının planlanarak bunların temin edilmesi, resmi kurum veya kuruluşlar ile gerçek kişiler nezdinde hastanenin işlemlerinin yürütülmesi ve hastanenin hizmete hazır hale getirilmesini sağlamak üzere; Sağlık Bakanlığınca bu kurumlara kurucu başhekim, kurucu müdür ile ihtiyaç duyulan diğer sağlık ve genel idare hizmetleri sınıfı personel ataması yapılabilir.
+**(Ek üçüncü fıkra: 1/4/2005-2005/8720 K.)** Yatırım programında yer alan hastanelerden henüz geçici kabulü yapılmamış olanların, inşaat işlemlerini tamamlaması, yerleşim planlamalarının yapılması, tıbbi ve demirbaş ihtiyaçlarının planlanarak bunların temin edilmesi, resmi kurum veya kuruluşlar ile gerçek kişiler nezdinde hastanenin işlemlerinin yürütülmesi ve hastanenin hizmete hazır hale getirilmesini sağlamak üzere; Sağlık Bakanlığınca bu kurumlara kurucu başhekim, kurucu müdür ile ihtiyaç duyulan diğer sağlık ve genel idare hizmetleri sınıfı personel ataması yapılabilir.
 
 Özel Dal hastanelerinde ve rehabilitasyon merkezlerinde baştabib aynı zamanda bilimsel direktörlük görevini de yapar. Baştabib diğer kurumlarda da imkan ölçüsünde klinik ve laboratuvarların bilimsel çalışmaları ile ilgilenir ve bunlara yön verir.
 
@@ -905,7 +905,7 @@ v) Baştabib, başhemşire ve hastane müdürünün görüşünü almak suretiyl
 
 y) Personelin hizmetin gereğine göre yıllık izinlerini yılın ilk ayında düzenler. Diğer yataklı tedavi kurumları ile kilit personel için işbirliği yapar.
 
-B – Baştabib Yardımcısının Görev ve Yetkileri:
+**B – Baştabib Yardımcısının Görev ve Yetkileri:**
 
 **Madde 111 –** Baştabib yardımcısı her hususta baştabibe yardım eder ve ona karşı sorumludur.
 
@@ -913,7 +913,7 @@ Baştabibin hizmetle ilgili konularda vereceği emirleri yerine getirmekle yük�
 
 Baştabip yardımcısının birden fazla olduğu kurumlarda baştabip bunlar arasında görev bölümü yaparak, bir tanesini adli vak'a veya işlemlerin takip ve süratle sonuçlandırılması için görevlendirir.
 
-C – Şef ve Uzmanların Görev ve Yetkileri:
+**C – Şef ve Uzmanların Görev ve Yetkileri:**
 
 **Madde 112 –** Eğitim hastanelerinde sorumlu servis ve laboratuvar uzmanlarına şef, diğer kurumlardaki uzmanlara servis veya laboratuvar uzmanı denir.
 
@@ -929,7 +929,7 @@ Servis ve laboratuvarlarda mevcut bütün personel ile Bakanlıkça servislerine
 
 temizliğinden baştabibe karşı sorumludurlar.
 
-Ç – Servis Şef ve Uzmanlarının Görev ve Yetkileri:
+**Ç – Servis Şef ve Uzmanlarının Görev ve Yetkileri:**
 
 **Madde 114 –** Servis şef ve uzmanları:
 
@@ -957,7 +957,7 @@ h) Servislerine ait bütün demirbaş eşyanın bakımı, muhafazası ile tüket
 
 i) Kadın hastalıkları ve doğum uzmanları ile aile planlaması kursu görmüş diğer tabipler aile planlaması uygulamaları yapmak ve kendi birimleri içinde bu çalışmaları düzenlemekle yükümlüdürler.
 
-D – Laboratuvar Şef ve Uzmanlarının Görev ve Yetkileri:
+**D – Laboratuvar Şef ve Uzmanlarının Görev ve Yetkileri:**
 
 **Madde 115 –** Yataklı tedavi kurumlarında büyüklüğüne ve fonksiyonuna göre bakteriyoloji, biokimya, patolojik, anatomi, hormon, nükleer tıp, hematoloji ve radyoloji gibi çeşitli laboratuvarlardan birkaçı veya hepsi bulunabilir.
 
@@ -1001,7 +1001,7 @@ f) Laboratuvar şef uzmanları kendi laboratuvarlarında bulunan tıbbi cihaz, a
 
 Tecrübe hayvanları bulunan laboratuvarlarda bunların bakım, beslenme ve yetiştirilmesine bu laboratuvarların sorumlu şef veya uzmanları nezaret ederler.
 
-E – Anestezi Uzmanının Görev ve Yetkileri:
+**E – Anestezi Uzmanının Görev ve Yetkileri:**
 
 **Madde 116 –** Kendisine bir gün önceden verilecek ameliyat listelerine göre vak'aların niteliklerini ve ameliyat sürelerini gözönüne alarak günlük ameliyathane çalışma listelerini düzenler. Ameliyat olacak hastaların ameliyata hazırlanması için gerekli incelemeler ile konsültasyonların yapılmasını ve bu hastaların premedikasyonunu sağlar.
 
@@ -1019,7 +1019,7 @@ e) Ameliyat sonu hastanın normal hayati fonksiyonlarını kazanıncaya kadar ge
 
 f) Narkoz ve ameliyat sonrası bakım birimindeki her türlü cihaz, alet, ilaç ve sıhhi malzemenin sağlanması, bakım, muhafaza ve sarfından sorumludur.
 
-F – Şef Yardımcılarının Görev ve Yetkileri:
+**F – Şef Yardımcılarının Görev ve Yetkileri:**
 
 **Madde 117 –** Servis, poliklinik, ameliyathane doğum salonu ve laboratuvarlarda şeflerin yardımcıları olup herhangi bir sebeple geçici olarak şeflerin bulunmadığı hallerde onların görevlerini üzerine alırlar.
 
@@ -1031,7 +1031,7 @@ c) Ameliyat ve müdahalelerden evvel ve sonra hasta için gerekli her türlü ih
 
 d) Uzmanlık eğitimi görenler tarafından yazılan müşahade ve tabelaları tetkik ve kontrol ederler. Servis ve laboratuvara devamlı ve geçici olarak gönderilen öğrenci ve kursuyerlerin devam ve eğitimlerinden doğrudan sorumludurlar.
 
-G – Uzmanlık Eğitimi Görenlerin Görev ve Yetkileri:
+**G – Uzmanlık Eğitimi Görenlerin Görev ve Yetkileri:**
 
 **Madde 118 –** Uzmanlık eğitimi görenler, hizmet icap ettirdiği ve kurumun yer durumu müsait olduğu takdirde Baştabibin izniyle kurumda devamlı kalabilirler. Bu takdirde yemekleri kurumca sağlanır.
 
@@ -1053,7 +1053,7 @@ f) Şubelerinin aylık, üç aylık ve senelik hastalık istatistik cetvellerini
 
 g) Hizmet yerlerindeki hemşire, ebe, hemşire yardımcısı tıbbi teknisyen ve yardımcı hizmetlilerin görevlerini gözetler ve işlerini yerinde ve yolunda görmelerini sağlarlar, servisin temizliği, intizamı, hastaların bakımı, ilaçların ve yemeklerin tabelalara göre verilip verilmediğini kontrol ederler. Görevini iyi yapmıyanlara uyarmada bulunurlar. Kusurları tekrarlayanları ve uyarmaları dinlemiyenleri ilgili amirlerine haber verirler.
 
-H – Diş Tabiblerinin Görev ve Yetkileri:
+**H – Diş Tabiblerinin Görev ve Yetkileri:**
 
 **Madde 120 –** Kadrolarında diş tabibi bulunan hastanelerde diş tabipleri de diğer uzmanlar gibi diş polikliniği, diş tedavi ve protez hizmetlerine ait fenni ve idari işleri bizzat yapmakla yükümlüdürler.
 
@@ -1065,7 +1065,7 @@ Diş tabipleri, kurumda yatan hastaların dişlerini tedavi ettikleri gibi hari�
 
 Kadrosu ve olanakları bulunan kurumlarda diş grafileri ve protez yapılabilir. Protez yapılacak kurumlar Sağlık ve Sosyal Yardım Bakanlığınca saptanır.
 
-I – Başeczacının Görev ve Yetkileri:
+**I – Başeczacının Görev ve Yetkileri:**
 
 **Madde 121 –** Eczacı sayısı birden fazla olan kurumlarda hastane eczacılığı konusunda yeterli tecrübe ve bilgi sahibi olan eczacılardan birine kurumun teklifi üzerine Bakanlık tarafından başeczacılık görevi verilir.
 
@@ -1101,7 +1101,7 @@ n) Eczane ve ecza deposunda bulunan tıbbi cihaz, alet, ilaç, sıhhi malzeme ve
 
 o) Kurum personeline ve bakmakla yükümlü olduğu aile fertlerine ait reçeteleri yapan anlaşmalı eczanelerin getirdiği reçete ve faturaların kontrolunu yapar veya bu iş için bir eczacıyı görevlendirir.
 
-İ – Eczacıların Görev ve Yetkileri:
+**İ – Eczacıların Görev ve Yetkileri:**
 
 **Madde 122 –** Eczacılar, baştabib tarafından kurumun eczane, laboratuvar ve kliniklerinde çalışmak üzere görevlendirilirler. Bu görevlendirme münavebe ile de olabilir.
 
@@ -1115,11 +1115,11 @@ d) İmalat için lüzumlu toksit maddelerin tartıları bizzat eczacılar taraf�
 
 e) Eczanede veya depoda azalmaya başlıyan kimyevi ve galenik maddelerle müstahzarları bir liste halinde yazarak sağlanmaları için başeczacıya verirler.
 
-J – Fizikoterapistlerin Görev ve Yetkileri:
+**J – Fizikoterapistlerin Görev ve Yetkileri:**
 
 **Madde 123 –** Fizikoterapistler, fizik tedavi konusunda yüksek öğrenim görmüş gerekli bilgi ve beceriyi kazanmış sağlık personeli olup, rehabilitasyon ekibinin tabii üyesidirler. Uzman tabib tarafından görülerek tedavi endikasyonu saptanmış hastalara fizik tedavi vasıtalarını, tıbbi egzersizleri uygularlar; mesajları, hastaların ortez ve protez eğitimlerini, adele testi günlük yaşayış faaliyetleri testi ve uygulamalarını, branşla ilgili diğer ölçüm ve testleri yaparlar. Hastaların tedavi yönünden ekibin diğer üyeleri ile işbirliği içinde çalışırlar. Gerektiğinde hastaların tedavisinin gidişi hakkında tabibe bilgi verirler. Hasta konseylerine iştirak ederler. Hastaların kazalardan korunmaları için gerekli güvenlik önlemlerini alırlar. Kullandıkları cihaz ve malzemelerin iyi kullanımı ve bakımından sorumludurlar.
 
-K – Diyetisyenlerin Görev ve Yetkileri:
+**K – Diyetisyenlerin Görev ve Yetkileri:**
 
 **Madde 124 –** Diyetisyen: Sağlıkla ilgili herhangi bir yüksek öğretim kurumunun beslenme ve diyetetik eğitim-öğretim proğramını tamamlıyarak lisans derecesi ve diyetisyen ünvanı kazanmış kişidir. Birden fazla diyetisyeni bulunan yataklı tedavi kurumlarında bunlardan biri baştabiblikçe başdiyetisyen olarak görevlendirilir.
 
@@ -1191,7 +1191,7 @@ c) Diyetisyenin poliklinikteki görev ve yetkileri:
 
 2) Beslenme ile ilgili poliklinik kayıtlarını tutar.
 
-L – Sosyal Hizmetler Şefinin Görev ve Yetkileri:
+**L – Sosyal Hizmetler Şefinin Görev ve Yetkileri:**
 
 **Madde 125 –** Sosyal hizmet uzmanı; Sosyal Hizmetler akademisi veya muadili fakülte mezunu, kişilerle iyi ilişkiler kurabilecek ve kuruluşlar arasında iletişimi sağlayacak yetenekte sağlık personelidir. Birden fazla sosyal hizmet uzmanı bulunan kurumlarda içlerinden biri baştabiblikçe sosyal hizmetler şefi olarak görevlendirilir.
 
@@ -1199,7 +1199,7 @@ Sosyal Hizmetler şefi: Kurumun ihtiyaçlarını gözönünde tutarak bölümün
 
 Sosyal hizmetler şefi, kurum içinde ve kurum dışında çeşitli meslek grupları ve kuruluşlarla ve teşhis, tedavi hizmetleri açısından diğer yataklı kurumlarla gerekli işbirliği ve koordinasyonu baştabibin bilgisi dahilinde sağlar. Bu hususların yerine getirilmesinde baştabibe karşı sorumludur.
 
-M – Sosyal Hizmetler Uzmanının Görev ve Yetkileri:
+**M – Sosyal Hizmetler Uzmanının Görev ve Yetkileri:**
 
 **Madde 126 –** Hastaların kişisel ve ailevi sorunlarının çözümlenmesinde ailesi ve yakın çevresi (Hastane iş, okul v.b.) ile işbirliği yapar, posta ve halkla ilişkiler hizmetlerini yürütür. Bunun için kuruma müracaat eden hasta sahibi ve ziyaretçilerin müşküllerinin çözümlenmesinde, aranan hastaların kolayca bulunmasında gerekli görülen her türlü tedbirleri alır ve aldırır.
 
@@ -1215,7 +1215,7 @@ Kurum içinde bulunan gönüllü kişilerin çalışmalarını düzenler, yoksa 
 
 Kurum sonrası oluşacak kişisel ve toplumsal ve ekonomik koşulların yeniden düzenlenmesine yardımcı olur.
 
-N – Radyasyon Fizikçisinin Görev ve Yetkileri:
+**N – Radyasyon Fizikçisinin Görev ve Yetkileri:**
 
 **Madde 127 –** Radyasyon fizikçisinin (Sağlık, fizikçisi) yüksek fizik mühendisi olması şarttır. Bitirdiği yüksek okul ders proğramında bu dersi okumuş ve mastır yapmış olanlar tercih edilir. Bulunmadığı takdirde bu konuda en az beş sene çalışmış olanlar tercih edilir. Birden fazla olduğu takdirde içlerinden en kıdemlisi şef olarak seçilir. Teşhis, tedavi, araştırmada radyoterapi uzmanının isteğine göre kullanılacak iyonize ışının cins ve kaynaklarını seçer.
 
@@ -1231,7 +1231,7 @@ Laboratuvarda bulunan radyasyon cihaz ve kaynaklarını ışın bakımından kon
 
 Radyaterapi bölümünde bulunan uzmanlık eğitimi görenlerin ve teknik personelin eğitiminde radyoterapi uzmanına yardımcı olur.
 
-O – Klinik Psikoloğun Görev ve Yetkileri:
+**O – Klinik Psikoloğun Görev ve Yetkileri:**
 
 **Madde 128 –** Klinik psikoloğ, mesleki yöntem ve teknikleri uygulayarak hastaların ruhsal sorunlarının çözümlenmesine yardım edecek yetenekte, psikoloji öğretimi yapan herhangi bir fakülte veya yüksek okul mezunu sağlık personelidir.
 
@@ -1243,7 +1243,7 @@ Hastanın günlük yaşayış ve davranışlarını izler, bulguları ilgili uzm
 
 Servisteki test malzemesinin iyi kullanılmasından ve bakımından sorumludur.
 
-Ö – Başhemşirenin Görev ve Yetkileri:
+**Ö – Başhemşirenin Görev ve Yetkileri:**
 
 **Madde 129 –** Başhemşire; yüksek hemşirelik okulu veya sağlık meslek lisesi mezunu olup, mesleklerinde enaz on yıl çalışmış ve iyi sicil almış hemşireler arasından baş tabibin teklifi ile Bakanlıkça atanır. Hasta bakım hizmetlerinin en iyi şekilde görülmesini sağlamakla görevli olup doğrudan Baştabibe karşı sorumludur. İsterse sürekli olarak kurumda kalabilir. Bu takdirde yiyecek ve yatacakları kurumca sağlanır.
 
@@ -1263,11 +1263,11 @@ f) Klinik ve polikliniklerin genel temizlik ve düzenini sağlar. Hasta ziyaretl
 
 g) Hemşire ve kendisine bağlı diğer personele ait nöbet ve izin cetvellerini düzenler ve baştabibe onaylatır. Bu listelerde sonradan değişiklik yapmak gerekirse baştabibe haber verir.
 
-P – Başhemşire Yardımcısının Görev ve Yetkileri:
+**P – Başhemşire Yardımcısının Görev ve Yetkileri:**
 
 **Madde 130 –** 100 Yataklı ve daha büyük kurumlarda baştabib tarafından mesleklerinde enaz beş yıl çalışmış ve iyi sicil almış hemşireler arasından standart kadroya aşmamak üzere yeteri kadar baş hemşire yardımcısı görevlendirilir. Başhemşire yardımcısı sürekli olarak kurumda kalabilir. Bu takdirde yiyecek ve yatacak kurumca sağlanır. Başhemşire yardımcısı, başhemşirenin vereceği görevleri yapmakla ve başhemşirenin bulunmadığı hallerde de kendisine vekalet etmekle yükümlüdür.
 
-R – Servis Sorumlu Hemşirelerinin Görev ve Yetkileri:
+**R – Servis Sorumlu Hemşirelerinin Görev ve Yetkileri:**
 
 **Madde 131 –** Hemşire adedi müsait olan kurum ve servislerde, servisler, ameliyathane ve hemşirelik hizmeti bulunan diğer ünitelerdeki hizmetlerin sürekliliğini sağlamak için Baştabiblikçe servis veya bölüm sorumlu hemşirelikleri kurulabilir. Bu servis sorumlu hemşireleri nöbete girmezler. Hafta tatillerini cumartesi, pazar günleri yaparlar.
 
@@ -1285,7 +1285,7 @@ f) Servis eczacısı bulunmadığı hallerde ona ait görevleri yapar veya yapt�
 
 g) Servis istatistiklerinin idareye zamanında verilmesini sağlar.
 
-S – Hemşirelerin Görev ve Yetkileri:
+**S – Hemşirelerin Görev ve Yetkileri:**
 
 **Madde 132 –** Hemşire, hasta ile tıbbi ve psikolojik bakımından devamlı ilgilenebilecek yapıda ve yetenekte sağlık meslek lisesi mezunu yardımcı sağlık personelidir. Kurumun yatak adedi azaltılmamak kaydıyla isteyen hemşireler gerek görüldüğü takdirde baştabib izniyle kendilerine ayrılan yerlerde topluca kalabilirler.
 
@@ -1325,7 +1325,7 @@ j) Hastaların sosyal ve ruhsal durumları ve beslenmeleri ile ilgili olarak fiz
 
 k) Annelere, doğumdan evvel ve sonraki bakımları ile çocukların bakımları hakkında bilgi vermek ve bakabilecekleri sayıda çocuğa sahip olma yolları hakkında anneleri aydınlatmakla yükümlüdürler.
 
-Ş – Ebelerin Görev ve Yetkileri:
+**Ş – Ebelerin Görev ve Yetkileri:**
 
 **Madde 133 –** Ebeler, sağlık meslek okulu mezunu, doğum ve doğum kontrolü ile ilgili kendisine düşen görevleri yapabilecek yeteneklere sahip, gerekli kursları görmüş yardımcı sağlık personelidir. Kurumun yatak adedi azaltılmamak kaydıyle isteyen ebeler gerek görüldüğü takdirde baştabib izniyle kendilerine ayrılan yerlerde topluca kalabilirler.
 
@@ -1353,13 +1353,13 @@ f) Ebe ve ebe hemşireler, bu asli görevleri yanında hemşirelerin gördükler
 
 g) Bu görevleri dışında aile planlaması kursu görmüşlerse ailelere doğum kontrolu ile ilgili her türlü bilgiyi vermekle yükümlüdürler.
 
-T – Hemşire Yardımcılarının Görev ve Yetkileri:
+**T – Hemşire Yardımcılarının Görev ve Yetkileri:**
 
 **Madde 134 –** Hemşire yardımcıları, hemşirelerin bilfiil yardımcısı olarak onların emir ve direktiflerine göre çalışan sağlık meslek okulu mezunu yardımcı sağlık personelidir. Gerektiğinde bunlara doğrudan doğruya hemşirelerin görevleri de gördürülebilir.
 
 Hemşire yardımcıları da yiyecekleri ve yatacak yerleri bakımından hemşireler gibi işlem görürler.
 
-U – Hastane Hizmetlilerinin Görevleri:
+**U – Hastane Hizmetlilerinin Görevleri:**
 
 **Madde 135 –** Hastane hizmetlileri, hastanenin temizliği, hastaların laboratuvar vesair yerlere götürülüp getirilmesiyle ilgili her türlü hizmetleri yapan yardımcı hizmetler sınıfı personelidir.
 
@@ -1371,11 +1371,11 @@ Hastaların istek ve ihtiyaçlarını, servisteki önemli olayları, ağırlaşa
 
 Hastane hizmetlilerinin kendilerine verilen görevlere uyumunu ve bu konularda eğitimini ilgili tabib, hemşire ve tıbbi teknisyenler sağlar.
 
-VI – Tıbbi Teknisyenlerin Görev ve Yetkileri:
+**VI – Tıbbi Teknisyenlerin Görev ve Yetkileri:**
 
 **Madde 136 –** Tıbbi teknisyenler sağlık meslek lisesi mezunu olup, branşlarında çalışabilmeleri için gerekli kursları görmüş, bilgi ve beceri kazanmış yardımcı sağlık personelidir. Bunların görev ve yetkileri aşağıda açıklanmıştır.
 
-A – Anestezi Teknisyenlerinin Görev ve Yetkileri:
+**A – Anestezi Teknisyenlerinin Görev ve Yetkileri:**
 
 **Madde 137 –** Anestezi teknisyeni; anestezi uzmanı veya bunun bulunmadığı hallerde ameliyathane sorumlu uzmanının sorumluluğu altında, bunların ve ameliyatı yapan uzmanın direktiflerine göre ameliyatın ve narkozun salimen ve rahat bir şekilde sonuçlanması için gerekenleri yapar.
 
@@ -1387,13 +1387,13 @@ Anestezi cihazındaki arızaları, anestezik maddelerle, anestezide kullanılan 
 
 b) Anestezi uzmanı bulunmayan yerlerde anestezi teknisyeni, ameliyat olacak hastaları en az bir gün önce görür. Dosyaları inceler. Anestezi ve ameliyat yönünden noksan olan tetkikleri tamamlattırır. Herhangi bir zorlukla karşılaşırsa operatör'e haber verir.
 
-B – Ameliyathane Teknisyeninin Görev ve Yetkileri:
+**B – Ameliyathane Teknisyeninin Görev ve Yetkileri:**
 
 **Madde 138 –** Ameliyathane teknisyeni, ameliyathane sorumlu uzmanı veya bu bulunmadığı takdirde ameliyatı yapan uzmanın sorumluluğu altında ve bunların direktiflerine göre ameliyatın salimen ve rahat bir şekilde sonuçlanması için gerekenleri yapar.
 
 Ameliyathanedeki bütün cihaz ve aletlerin bakım, temizlik her an çalışır halde bulunmalarından, muhafaza, ikmal ile gerekli sterilizasyon işlerinden sorumludur. Ayrıca ameliyathanedeki yardımcı hizmetler sınıfı personelin eğitiminde de yardımcı olur.
 
-C – Eczacı Teknisyeninin Görev ve Yetkileri:
+**C – Eczacı Teknisyeninin Görev ve Yetkileri:**
 
 **Madde 139 –** Eczacının denetimi altında çeşitli ilaçları hazırlar ve şişeleri etiketler.
 
@@ -1405,7 +1405,7 @@ Eczanedeki yardımcı hizmetler sınıfı personelin hizmet içi eğitimlerine y
 
 Günlük gelir - gider defterlerini işler ve tevhit cetvellerini hazırlar.
 
-D – Laboratuvar Teknisyeninin Görev ve Yetkileri:
+**D – Laboratuvar Teknisyeninin Görev ve Yetkileri:**
 
 **Madde 140 –** Laboratuvara gelen muayene materiyelini analize hazırlar. Acil tetkikleri ayırır ve önce yapılmasını sağlar. Muhafazası gereken tahlil materiyelini usulüne göre muhafaza eder.
 
@@ -1423,17 +1423,17 @@ Laboratuvar temizliğini yaptırır. Devamlı temiz ve düzenli olmasını sağl
 
 Gerekli görülen hastaların tahlil materyalini bizzat hasta yatağından iken alır.
 
-E – Röntgen Teknisyeninin Görev ve Yetkileri:
+**E – Röntgen Teknisyeninin Görev ve Yetkileri:**
 
 **Madde 141 –** (Mülga: RG-24/3/2021-31433-C.K.-3739/1 md.)
 
-F – Radyoterapi Teknisyeninin Görev ve Yetkileri:
+**F – Radyoterapi Teknisyeninin Görev ve Yetkileri:**
 
 **Madde 142 –** Radyoterapi teknisyeni, radyoterapi uzmanının direktifi ve radyasyon fizikçisinin (yoksa uzmanın) ölçü ve hesaplarına göre, iyonizan ışınlı tedaviyi uygulamakla, yükümlüdür.
 
 Poliklinik ve protokol defterini düzenli olarak tutar, servis ve laboratuvarın tıbbi istatistiklerini hazırlar. Cihazların bakım, muhafaza ve en uygun şekilde çalışmasını sağlar. Gördüğü arızaları en kısa zamanda şef veya uzmana haber verir.
 
-G – Fizik Tedavi ve Rehabilitasyon Teknisyeninin Görev ve Yetkileri:
+**G – Fizik Tedavi ve Rehabilitasyon Teknisyeninin Görev ve Yetkileri:**
 
 **Madde 143 –** Fizik tedaviye ve rehabilitasyona muhtaç hastalara uzmanın veya fizyoterapistin uygun gördüğü tedavileri uygular.
 
@@ -1441,19 +1441,19 @@ Tedavi esnasında hastalara gözlemcilik eder ve güvenliklerini sağlar. Aletle
 
 Alet ve cihazların bakımını, malzeme, çamaşır ve eşyalarını iyi bir şekilde kullanılmasını sağlar, kayıtları ve istatistiklere esas olacak bilgileri hazırlar. Laboratuvarın temizlik ve düzenini sağlar.
 
-H – Diş Protez Teknisyeninin Görev ve Yetkileri:
+**H – Diş Protez Teknisyeninin Görev ve Yetkileri:**
 
 **Madde 144 –** Diş tabipleri ve ağız, diş ve çene ile ilgili uzman tabiplerin hastadan almış oldukları ölçülere ve onların direktiflerine göre laboratuvarda çeşitli protezleri hazırlar, servis malzemesinin temizlik ve bakımını ve servisin düzenini sağlar. Kayıtları ve istatistikleri tutar.
 
 Gereğince diş tabibine veya uzmana yardım eder.
 
-I – Ruh Sağlığı Klinik Teknisyeninin Görev ve Yetkileri:
+**I – Ruh Sağlığı Klinik Teknisyeninin Görev ve Yetkileri:**
 
 **Madde 145 –** Ruh sağlığı kliniklerine özgü hemşirelik hizmetlerini tümüyle yürütür. Hastaları ziyaret ederek durum ve ihtiyaçlarını tesbit ile mesleki personele bildirir. Tabipler tarafından tavsiye edilen ve hastalara evde uygulayacakları tedavi usullerini kendilerine ve yakınlarına öğretir.
 
 Hastaların her zaman durumları hakkında bilgi sahibi olmak, ruh hastalıkları bakım, usul ve tekniği içinde tabibin önerilerini yapmak, hastaların durumunu değerlendirerek gerektiğinde ilgililere bildirmekle görevlidir.
 
-J – Patolojik Anatomi Teknisyeninin Görev ve Yetkileri:
+**J – Patolojik Anatomi Teknisyeninin Görev ve Yetkileri:**
 
 **Madde 146 –** Ameliyat ve otopsilerde insan veya hayvan organlarından çıkarılan parçalardan örnekler alır. Bunları ayırır ve numaralar.
 
@@ -1487,15 +1487,15 @@ h) Kırık, çıkık ve burkulmalarda stabilizasyonu, kesik, yara, kanamalarda i
 
 i) Görev esnasında her türlü tıbbi müdahalede ambulans- acil servis hekimine yardımcı olur.
 
-j) Hekimin verdiği mesleğiyle ilgili diğer görevleri yerine getirir.
+**j) Hekimin verdiği mesleğiyle ilgili diğer görevleri yerine getirir.**
 
 ### VII – İDARİ İŞLERDE ÇALIŞANLARIN GÖREV VE YETKİLERİ:
 
-A – Hastane Müdürünün Görev ve Yetkileri:
+**A – Hastane Müdürünün Görev ve Yetkileri:**
 
 **Madde 147 –** (Mülga birinci fıkra: 5/2/2007-2007/11620 K.)
 
-(Değişik birinci cümle: 5/2/2007-2007/11620 K.) Hastane müdürünün görev ve yetkileri aşağıda belirtilmiştir.
+**(Değişik birinci cümle: 5/2/2007-2007/11620 K.)** Hastane müdürünün görev ve yetkileri aşağıda belirtilmiştir.
 
 a) Baştabipliğe bağlı olarak kurumun idari, mali ve teknik hizmetlerini kanun, tüzük, yönetmelik ve emirler uyarınca yürütmekle yükümlü ve yetkilidir.
 
@@ -1517,13 +1517,13 @@ Bulaşıcı hastalıklar teşhisi konulan vak'aları ve bunlardan ölenleri kuru
 
 i) Ambarda bulunan ve ambardan çıkarılan herçeşit maddenin ambar kayıtlarındaki miktarlara ve günlük yiyecek ve içeceklerin tabeladaki miktarları ile şartnamelerindeki niteliklere uygunluğunu kontrol eder. Noksan ve kusurlar görürse baştabibe bilgi vererek düzeltilmesini sağlar. Uygun nitelikte olmadığı ilgililerce bildirilen besin maddelerini baştabibin izniyle geri çevirir.
 
-B – Hastane Müdür Yardımcısının Görev ve Yetkileri:
+**B – Hastane Müdür Yardımcısının Görev ve Yetkileri:**
 
 **Madde 148 –** (Değişik: 5/2/2007-2007/11620 K.)
 
 Hastane müdür yardımcısı; hastane müdürünün görevlerine yardım eder. Hastane müdürünün kendisine vereceği idari, mali ve teknik görevlerde kanun, tüzük, yönetmelik ve diğer mevzuata göre hizmet görür. Hastane müdürünün yokluğunda onun görevini yapar.
 
-C – Sağlık İstatistikçisinin Görev ve Yetkileri:
+**C – Sağlık İstatistikçisinin Görev ve Yetkileri:**
 
 **Madde 149 –** Sağlık istatistikcisi fakülte ve yüksek okulların istatistik eğitim ve öğretimi yapan bölümlerinden mezun olup, kurumlarda istatistik ve tıbbi dökümantasyon bölümüyle, arşiv ve hasta kabul bölümünün ve kendisine bağlı olan birimlerdeki hizmetlerin düzenli, koordine ve istatistik hizmetlerine uygun bir şekilde yürütülmesini sağlar. Bunlarla ilgili her türlü evrakın dosyalanması ve muhafazası için gerekli tedbirleri alır.
 
@@ -1537,21 +1537,21 @@ Kurumda yapılması mümkün olan istitastiki değerlendirmeler için gerekli ta
 
 Sağlık istatikçisinin bulunmadığı hallerde varsa bu görevi hastane müdür yardımcılarından birisi, yoksa hastane müdürü yapar.
 
-D – İstatistik Memurunun Görevleri:
+**D – İstatistik Memurunun Görevleri:**
 
 **Madde 150 –** İstatistik memuru lise ve dengi okul mezunu olup konusunda kurs görmüştür. Kurumlardaki istatistik birimlerinde, sağlık istatistikçisinin vereceği görevleri yapmakla yükümlüdür.
 
-E – İdare Memurunun Görev ve Yetkileri:
+**E – İdare Memurunun Görev ve Yetkileri:**
 
 **Madde 151 –** İdare memuru, hastane müdür yardımcısı bulunmayan kurumlar da hastane müdürünün yardımcısıdır. Hastane müdür ve yardımcısının bulunmadığı yerlerde, baştabibin sorumluluğu altında hastane müdürünün görevlerini yapmakla yükümlü olup onun yetkilerini kullanır.
 
-F – Ayniyat Saymanının Görev ve Yetkileri:
+**F – Ayniyat Saymanının Görev ve Yetkileri:**
 
 **Madde 152 –** Ayniyat Saymanı: Kurumun tüm Devlet mallarını (döner sermaye hariç) kapsayan ayniyat işlemlerini mevcut kanun, tüzük ve yönetmelik hükümlerine göre yönetmek ve gerekli kayıtları tutmakla görevlidir.
 
 Ambar ve depo memurlarınca düzenlenen ve imzalanan ayniyat tesellüm makbuzlarına ayniyat saymanı kendine ait yeri imza ederek baştabibe onaylatır. Depo ve ambar memurlarının hizmetlerini ayniyat açısından kontrol etmekle yükümlüdür. Ayniyat Talimatnamesi hükümleri dairesinde kayıtları tutar ve Sayıştay hesabını verir.
 
-G – Ambar ve Depo Memurunun Görevleri:
+**G – Ambar ve Depo Memurunun Görevleri:**
 
 **Madde 153 –** Ambar ve depo memuru, ayniyat saymanının mutemedidir. Ayniyat Talimatnamesi hükümlerine göre ambar ve depoya konulacak erzak, eşya, alet ve malzemenin geçici kabul ve kat'i tesellüm işlemleriyle, bunların gerek Ayniyat Talimatnamesi ve gerekse bu yönetmelik hükümlerine göre ihraçlarını ve bunlarla ilgili kayıtları ve diğer işlemleri yapar. Ambar ve depo memuru erzak eşya ve malzemenin iyi bir şekilde korunmasiyle bunlardan bozulmaya müsait olanların zarara uğramadan bir an evvel sarf veya kurumlara devri suretiyle elden çıkarılması ile ilgili işlemlerin yapılması için amirlerine zamanında haber vermekle yükümlüdür.
 
@@ -1561,7 +1561,7 @@ Ambardan çıkan maddeleri ambar defterine günü gününe kaydeder. Giren madde
 
 A mbardan çıkartılanların yıl sonundaki miktarlarını ortalama fiyatlarla kuruşlandırarak 18 nolu istihmal ve istihlakata ait eşya için taşra cetveli düzenler.
 
-H – Hasta Kabul Memurunun Görevleri:
+**H – Hasta Kabul Memurunun Görevleri:**
 
 **Madde 154 –** Hasta kabul memuru; en az lise ve dengi okul mezunu olup hasta kabulü, hasta çıkarılması, doğumlar ve ölümlerle ilgili bütün işlemleri yapmakla yükümlüdür. Bu bölümde çalışanların birinci derecede amiridir.
 
@@ -1591,7 +1591,7 @@ h) Devlet daire ve kurumlarına mensup bir kimsenin kurumda ölümü halinde, me
 
 i) Yatan hastaların ziyaretciler tarafından kolayca bulunması için kurulacak sistemin işlemesi bakımından sosyal hizmet, sosyal servis, halkla ilişkiler veya müracaata, yatan ve çıkan hastaları muntazam ve anında bildirir.
 
-İ – Satınalma Memurunun Görevleri:
+**İ – Satınalma Memurunun Görevleri:**
 
 **Madde 155 –** Satın alma memuru yürürlükteki mevzuata uygun olarak hastane müdürünün emirlerine göre, satın alma ile ilgili işlemleri yapmakla yükümlüdür.
 
@@ -1599,13 +1599,13 @@ Mevzuatın verdiği yetki çerçevesinde satın alma memuru elinde bulunan avans
 
 Alımı kendisine emredilen şeyleri ayrıntılariyle ayrı bir deftere kaydeder.
 
-J – İaşe Memurunun Görevleri:
+**J – İaşe Memurunun Görevleri:**
 
 **Madde 156 –** İaşe memuru hastanede varsa diyet uzmanına, yoksa hastane müdürüne bağlı olarak çalışır.
 
 Hastalara tabiplerce yazılan ve servisler tarafından idareye verilen rasyon cetvellerini toplar, yemeğe müstehak olan personelin mevcudunu ve çalışma sistemine göre kahvaltı ve yemek öğünlerini dikkate alarak personel rasyonunu hesaplamak suretiyle günlük tüketim maddeleri tabelasını düzenleyerek hastane müdürünün tayin ettiği saatte kontrol için diyet uzmanına, yoksa hastane müdürüne verir.
 
-K – Arşiv Memurunun Görevleri:
+**K – Arşiv Memurunun Görevleri:**
 
 **Madde 157 –** Sağlık istatistikçisine bağlı olarak 66. maddeye göre arşivleme yapılan kurumlarda ilk müracaat eden hastaların arşiv defterine kaydını yaparak polikliniğe gidecek muayene fiş veya dosyasını hazırlar ve her dosya üzerine arşiv defterindeki kayıt numarasını işler.
 
@@ -1617,7 +1617,7 @@ Tabiblerin inceleme, araştırma, makale, test, istatistik ve rapor hazırlamak 
 
 Arşivi devamlı olarak gözetimi altında bulundurur. İlgisi olmayanlara dosya vermez. Arşivin genel düzen ve temizliğini sağlar.
 
-L – Kütüphane Memurunun Görevleri:
+**L – Kütüphane Memurunun Görevleri:**
 
 **Madde 158 –** Kütüphane memuru enaz lise mezunu tercihan herhangi bir fakültenin kütüphanecilik bölümü mezunu olup hastane müdürüne bağlı olarak mevcut kitapları, yazarın adı veya kitabın konusu veya kitabın adına göre kataloğlar düzenleyerek kartlara geçirilmesini sağlar.
 
@@ -1631,11 +1631,11 @@ Kitapların bakım ve onarımları ile ciltleme işlemlerini sağlayıcı tedbir
 
 Kitaplığın genel düzen ve temizliğini sağlamakla yükümlüdür.
 
-M – Halkla İlişkiler Memurunun Görevleri:
+**M – Halkla İlişkiler Memurunun Görevleri:**
 
 **Madde 159 –** Halkla ilişkiler memuru sosyal hizmet uzmanı bulunmayan kurumlarda müracaat ve halkla ilişkiler hizmetlerini yürütür. Bu takdirde hastane müdürüne bağlı olarak görev yapar. Sosyal hizmet uzmanı bulunan kurumlarda, sosyal hizmet uzmanına bağlı olarak çalışır. Hasta sahiplerini hastalarını aramaları için düzenlenen pano veya listelere giren veya çıkan hastaları muntazam işler, hastaların posta hizmetlerini düzenler.
 
-N – Tıbbi Sekreterin Görev ve Yetkileri :
+**N – Tıbbi Sekreterin Görev ve Yetkileri :**
 
 **Madde 160 –** Tıbbi sekreter, lise veya dengi okul mezunu daktilobilir personeldir. Hasta müşahade kağıtlarını, tıbbi raporları ve tıbbi mesleki mektupları tabiplerin söyledikleri şekilde ve usulüne uygun olarak daktilo ile yazar.
 
@@ -1645,11 +1645,11 @@ Bilimsel toplantılarda konuşulanları not alır.
 
 Gerektiğinde hasta müşahade kağıtları ve raporların örneklerini çıkartır.
 
-O – Tıbbi Fotoğrafçının Görev ve Yetkileri:
+**O – Tıbbi Fotoğrafçının Görev ve Yetkileri:**
 
 **Madde 161 –** Tıbbi fotoğrafçı, tıbbi fotoğrafhanenin sorumlusu olup, buranın bu yönetmelik ve baştabib emirlerine uygun olarak işlerini bir düzen ve tertip içerisinde yürütmekle yükümlüdür.
 
-P – İmam ve Gassalın Görevleri:
+**P – İmam ve Gassalın Görevleri:**
 
 **Madde 162 –** İmam ve gassal, gömme izni belgesi ile gasilhaneye gelen her cenazenin geldiği servis ve konulan teşhisi, başka yerden gelmişse nereden geldiğini, gasilhaneye geliş-gidiş gün ve saatini, hastanece defnedilmişse hangi mezarlığa ve hangi numaralı mezara gömüldüğünü, cenaze sahiplerine verilmişse kime teslim edildiğini, adli ve resmi makamlarla ilişkisi varsa, kimin emri ile kime teslim edildiğini okunaklı ve düzenli bir şekilde bir deftere kaydetmekle yükümlüdür. Her ölünün sağ ayağının başparmağına bağlanmış olan künye kartonunun muhafazasından imam ve gassal sorumludur.
 
@@ -1667,13 +1667,13 @@ Boş zamanlarda görevleriyle ilgili olmak koşuluyla hasta kabul, arşiv veya p
 
 ### VIII – TEKNİK VE DİĞER İŞLERDE ÇALIŞANLARIN GÖREV VE YETKİLERİ:
 
-A – Mühendisin Görev ve Yetkileri:
+**A – Mühendisin Görev ve Yetkileri:**
 
 **Madde 163 –** Standart kadrosunda mühendis bulunan büyük kurumlarda mühendis teknik işlerde çalıştırılan bütün memur ve hizmetlilerin görevle ilgili hususlarda amiri olup baştabibe karşı sorumludur.
 
 Kurumun bütün cihaz ve motorlu araçları ve tesislerin işletilme, bakım ve müştemilatı gibi bina ve tesislerin tamir, boya, badana vesair işlerinde çalışan bütün teknik personelin iş bölümünü yapar. Teknik servise gelen bakım onarımla ilgili istekleri bir bir deftere kaydederek, bunların aciliyet ve önemine göre önceliklerini saptayarak, ilgili teknisyenin iş defterine kaydettirir. Her sabah başteknisyenle beraber işyerlerini gezerek teknik ekibi ve verilen işlerin yapılıp yapılmadığını kontrol eder, gerekli emirleri verir. Bunların meslekle ilgili problemlerinin çözümlenmesine yardım eder. Personelin hizmet içi eğitimle kalifiye hale gelmesini sağlar. Musluk, kapı kilidi, sıhhi tesisat vesair gibi yerinde kolay tamir edilebilir arızaların süratle giderilmesi için her gün belirli saatlerde bir tamir çantasıyle dolaşıp bu işleri yapabilecek bir teknisyeni görevlendirir.
 
-B – Başteknisyenin Görev ve Yetkileri:
+**B – Başteknisyenin Görev ve Yetkileri:**
 
 **Madde 164 –** Kadrosunda birden fazla teknisyeni bulunan kurumlarda bunlardan birisi hastane müdürünün teklifi ile baştabib tarafından başteknisyen olarak görevlendirilir.
 
@@ -1681,31 +1681,31 @@ Başteknisyen, mühendis bulunan hastanelerde onun yardımcısı olup vereceği 
 
 Başteknisyen mühendis bulunmıyan hastanelerde hastane müdürüne bağlı olarak mühendisin görev ve yetkilerini üstlenir.
 
-C – Teknisyenin Görevleri:
+**C – Teknisyenin Görevleri:**
 
 **Madde 165 –** Teknisyen, hastanede bulunan bütün sıhhi ve fenni tesisler ve cihazların, muayene, kontrol, bakım, işletme ve küçük onarımlarını yapmakla ve muhafazasiyle yükümlüdür. Teknisyen ayrıca önemli ve acil hallerde ve gerektiğinde çalışma saatleri dışında yapılacak davete derhal uymak zorundadır.
 
-D – Santral Memurunun Görevleri:
+**D – Santral Memurunun Görevleri:**
 
 **Madde 166 –** Kurumun dış ve iç haberleşme hizmetlerini görür. Santral memuru, hariçten müracaatlara nezaketle cevap verir. Hastaların durumu hakkında bilgi isteyenlere servis ilgililerinin izni ile bilgi verir.
 
 Şehirlerarası konuşmalar için bir defter tutar, konuşanı ve konuştuğu yeri kaydeder. Konuşma özel ise, postaneden bildirilen ücretin tahsili için durumu idareye bildirir.
 
-E – Şöförün Görevleri:
+**E – Şöförün Görevleri:**
 
 **Madde 167 –** Erzak, hasta ve cenaze nakliyatını özel araçlarıyle yapan hastanelerde işe göre bir veya birkaç şöför çalıştırılır. Şöför mevcut motorlu araçlara mahsus yönetmeliğe göre hareket eder.
 
-F – Aşçıbaşı ve Aşçının Görevleri:
+**F – Aşçıbaşı ve Aşçının Görevleri:**
 
 **Madde 168 –** Aşçıbaşı veya aşçı, günlük tüketim maddeleri tabelasına göre anbar memuru tarafından görevlilerin huzurunda kendisine teslim edilen bütün besin maddelerini (bulunan yerlerde diyetisyenin direktif ve kontrolu altında) mevcut listeye göre tertipli ve düzenli ve iyi bir şekilde pişirip iştah açıcı bir şekilde hazırlamak, yeter sıcaklıkta dağıtımını sağlayıp, hastalara ve personele göndermekle yükümlüdür. Aşçıbaşı veya aşçı teslim aldığı erzak vesair maddeleri tamamen yerine sarfetmek ve israfına katiyen meydan vermemek zorundadır.
 
 Aşçıbaşı veya aşçı bakırdan yapılmış tencerelerin daima kalaylı bir halde bulunmasına dikkat etmek ve kalaysız olanları vaktinde kalaylatmak üzere derhal idare memuruna haber vermek zorundadır. Mutfağın genel temizliğini yapmak ve yaptırmak ve pişirmek üzere kendisine teslim edilen maddeleri temiz bir halde ve bozulmıyacak şekilde saklanmasını sağlamakla görevlidir.
 
-G – Çamaşırhane ve Ütühane Sorumlusunun Görev ve Yetkileri:
+**G – Çamaşırhane ve Ütühane Sorumlusunun Görev ve Yetkileri:**
 
 **Madde 169 –** Hastane müdürüne bağlı olup çamaşırhane ve ütühanenin sorumlusudur. Bu yönetmelik hükümlerine göre baştabiblik emirlerine uygun olarak buranın düzenli ve verimli bir şekilde işlemesini sağlar. Buralarda çalışanların görev taksimini yapar, çalışmalarını kontrol eder. Çamaşırhane ve ütühane ile servisler arasındaki ilişki ve alışverişi düzenler.
 
-H – Çamaşırcının Görevleri:
+**H – Çamaşırcının Görevleri:**
 
 **Madde 170 –** Çamaşırcı, çamaşır makinaları ile makina yoksa, elle çamaşırları yıkamak ve kurutmakla yükümlüdür.
 
@@ -1717,13 +1717,13 @@ Hastane hizmetlileri tarafından usulüne uygun olarak getirilen bulaşıcı has
 
 Ayrıca çamaşırhane ve ütühane sorumlusu bulunmayan kurumlarda çamaşırcılardan en yetenekli olanı hastane müdürünce çamaşırhane ve ütühane sorumlusu olarak görevlendirilir.
 
-İ – Ütücünün Görevleri:
+**İ – Ütücünün Görevleri:**
 
 **Madde 171 –** Ütücü, çamaşırhanelerde yıkanan gömlek ve lüzumlu diğer çamaşırları kolalayıp, muntazam ütüler ve sahiplerine verilmek üzere dolaplara askı ile asar.
 
 Ayrıca ütülenmesi gereken ve hizmet esnasında giyilen her türlü giyecekler ile hasta pijaması, masa örtüsü, peçete ve diğer çamaşırları ütüler.
 
-J – Terzinin Görevleri:
+**J – Terzinin Görevleri:**
 
 **Madde 172 –** Terzi, çamaşırhaneden gönderilen kurutulmuş çamaşırların yırtık ve söküklerini tamir eder. Kopmuş düğmeleri diker.
 
@@ -1733,11 +1733,11 @@ Kurum tabib, memur ve müstahdemlerinin görev sırasında giyecekleri gömlekle
 
 Birden fazla terzi bulunan terzihanelerde içlerinden birisi terzihaneye ait idari işleri yönetmek, terzihanenin düzenli çalışmasını sağlamak için hastane müdürünce sorumlu seçilir.
 
-K – Bahçıvanın Görevleri:
+**K – Bahçıvanın Görevleri:**
 
 **Madde 173 –** Bahçıvan, kurum bahçesini bir plana göre düzenlemek, tarhlar vücude getirerek, çiçeklerle süslemek, ağaçlar dikip yetiştirmek, bahçenin yollarını temizlemek, çiçekleri sulamak, ağaçları vaktinde budamak ve mevsimine göre fide ve fidan yetiştirmek, gereken aşıları yapmakla yükümlüdür. Kendisine teslim edilen işi ile ilgili aletleri iyi kullanmak ve muhafaza etmekle görevlidir.
 
-L – Kapıcının Görevleri:
+**L – Kapıcının Görevleri:**
 
 **Madde 174 –** Kapıcı, kuruma giren ve çıkan herkese ve herşeye gözlemcilik etmek, hasta ve personelin izinsiz dışarıya çıkmamasına ve dışardan kimsenin izinsiz içeri girmemesine, kurum eşyasından birşey götürülmemesine dikkat etmek ve şüpheli gördüğü kişileri kurum idaresine haber vermekle yükümlüdür.
 
@@ -1747,13 +1747,13 @@ b) Muayene için kapıya gelen hastalara iyi muamele ederek muayene yerine gönd
 
 c) Kapıcı binası ile kapı çevresinin temizlik, düzen ve güvenini sağlamakla yükümlüdür.
 
-M – Berberin Görevleri:
+**M – Berberin Görevleri:**
 
 **Madde 175 –** Berber, hasta ve kurum personelini traş eder. Dışardan kimseyi traş edemez.
 
 Kullanılan traş aletlerini her defasında temizler. Berber malzemesinin temizliğinin yapılması için gerekli eriyikleri, berber gömleği, önlük ve diğer ihtiyaçlarını kurum idaresinden ister. Berber odasının temizliğinden ve burada bulunan demirbaş eşyanın bakım ve muhafazasından sorumludur.
 
-N – Banyo ve Hamam Personelinin Görevleri:
+**N – Banyo ve Hamam Personelinin Görevleri:**
 
 **Madde 176 –** Banyo ve hamam personeli, banyo ve hamam dairelerini ısıtmak ve gerekli suyu hazırlamak, iç ve dış kısımların temizliğini yapmak, yıkanmaya gelen hastalar giyinirken icabında yardım etmekle yükümlüdür.
 
@@ -1769,7 +1769,7 @@ Sağlık kurumlarında güvenlik hizmetleri, kendi bünyesinde kurulan güvenlik
 
 ### IX – NÖBETÇİ PERSONELİN GÖREV VE YETKİLERİ:
 
-A – Nöbetçi Uzman Tabiplerin Görev ve Yetkileri:
+**A – Nöbetçi Uzman Tabiplerin Görev ve Yetkileri:**
 
 **Madde 178 –** Nöbetçi uzman tabip, baştabip kurumda bulunmadığı zamanlarda onun vekilidir. Birden ziyade uzman nöbetçi tabibi bulunan kurumlarda baştabibin yaptığı listeye göre birisi kendisine vekalet eder. Nöbetçi uzman tabip, bu vekaleti zamanında meydana gelecek tıbbi, teknik ve idari işlerden ve işlemlerden sorumludur.
 
@@ -1777,45 +1777,45 @@ A – Nöbetçi Uzman Tabiplerin Görev ve Yetkileri:
 
 **Madde 180 –** Nöbetçi uzman tabibi servislerin akşam vizitelerinive yeni gelen hastaların muayenelerini yapar veya uzmanlık eğitimi görenlere yaptırır. Başhemşire tarafından kendisine verilecek olan listedeki ağır ve sürekli bakıma tabi hastaları izler, ve tedavi ve bakımları için gerekli önlemleri alır.
 
-B – Nöbetçi Eczacının Görev ve Yetkileri:
+**B – Nöbetçi Eczacının Görev ve Yetkileri:**
 
 **Madde 181 –** Nöbetçi eczacı; nöbet esnasında, yatan ve acil olarak başvuran hastalar için usulüne uygun olarak yazılan ve istenilen ilaçları verir. Çok acil durumlarda ilaçların muamele ve kayıt işlemlerini sonradan yapar.
 
 **Madde 182 –** Nöbetçi eczacı, nöbet zamanında harcanan ilaç ve tıbbi malzemelerin cins ve miktarlarını vizite defterine kaydeder. Nöbetin bitimin de bu harcamanın özetini ilaç sarfiyat cetveline yazarak imzaladıktan sonra başeczacıya verir.
 
-C – Nöbetçi Uzmanlık Eğitimi Görenlerin Görev ve Yetkileri:
+**C – Nöbetçi Uzmanlık Eğitimi Görenlerin Görev ve Yetkileri:**
 
 **Madde 183 –** Baştabib, nöbetçi uzman tabib ve servis şeflerinin emir, talimat ve verdikleri yetkiler çerçevesinde, nöbetleri esnasında gelen hastaların usulüne uygun olarak muayene ve tedavilerini yapar ve ön müşahadelerini alırlar. İçinden çıkamadığı vak'aları nöbetçi uzmana haber verirler.
 
 Servis nöbetçileri servisinde yatan hastaların her türlü tedavi ve bakımları ile servisin düzeninden sorumludur.
 
-D – Nöbetçi Hemşirenin Görev ve Yetkileri:
+**D – Nöbetçi Hemşirenin Görev ve Yetkileri:**
 
 **Madde 184 –** Nöbetçi hemşire, nöbetçi tabibin emrinde, onun direktiflerine göre, çalışır. Nöbet tuttuğu servis ve hizmet yerlerinde hastaları muayeneye hazırlamak, tabibin lüzum göstereceği tedavileri usulüne uygun olarak uygulamak, kendisine düşen kayıtları yapmak, durumu ağırlaşan hastaları nöbetçi tabibe bildirmekle yükümlüdür.
 
 Birden fazla hemşire nöbeti tutulan kurumlarda her nöbet biriminin tüm hemşirelik hizmetlerinden, o birimin nöbetçi hemşiresi sorumludur. Bu takdirde ve başhemşire nöbeti tutulmayan ve birden fazla hemşirenin nöbet tuttuğu durumlarda kıdemli nöbetçi hemşire, baş hemşire görevlerini de üzerine alır.
 
-E – Nöbetçi Ebenin Görev ve Yetkileri:
+**E – Nöbetçi Ebenin Görev ve Yetkileri:**
 
 **Madde 185 –** Nöbetçi tabibin kontrolu altında, vereceği direktiflere bu yönetmelik hükümlerine göre doğumları izlemek, nöbetinde gelen normal doğumları yapmak, normal olmıyanları nöbetçi tabibe haber vermektir.
 
 Doğum odasında kendisine düşen kayıtları yapar, evrakları düzenler doğum ve sancı odalarının temizlik, düşer ve disiplinini sağlar.
 
-F – Nöbetçi İdari Memurun Görev ve Yetkileri:
+**F – Nöbetçi İdari Memurun Görev ve Yetkileri:**
 
 **Madde 186 –** Nöbetçi idari memur, çalışma saati dışında, kurum kadrosunda bulunan bütün idari memurların görevlerini üzerine alır. Çıkarılan yardıma muhtaç hastaların sevkini sağlar, Teknisyenle birlikte hastanenin bütün bölümlerini dolaşarak idari ve teknik arızaların giderilmesini sağlar, önemli hallerde nöbetçi uzmanı durumdan haberdar ederek onun mütalaa ve direktifi dairesinde hareket eder. Nöbetçi idare memuru, nöbetinde idari işlerle uğraşanlarla nöbetçi teknisyenlerin birinci derecede amiridir.
 
 ### X – ÇEŞİTLİ HÜKÜMLER:
 
-A – Yakacak İstihkakı:
+**A – Yakacak İstihkakı:**
 
 **Madde 187 –** Kurumun her türlü yakıt istihkakı (kok, linyit, maden kömürü, fuel-oil, mazot ve ağır yağ) kurumun soba, kalorifer, termosifon, mutfak vesaire gibi yerlerdeki sarfiyatı, mevsim, iklim, kurum, yatak adedi, genişliği ve faaliyeti gözönüne alınmak suretiyle baştabip başkanlığında teknisyen ve ilgili memurlardan kurulu bir komisyon tarafından günlük olarak saptanır. Yakacak istihkakının günlük miktarı tüketim maddeleri günlük tabelasında (Ek:40 Form 91) gösterilmek suretiyle, hesabı ambar defterine işlenir. Ancak muhtelif sebeplerle istihkak olarak günlük tüketim maddeleri tabelası ile verildiği halde kullanılmayanlar tekrar ambara gelir olarak kaydolunur.
 
-B – Hayvan Yemleri:
+**B – Hayvan Yemleri:**
 
 **Madde 188 –** Kurumlarda bakılmakta olan hizmet ve tecrübe hayvanlarıyle aşı ve serum üretiminde kullanılan bütün hayvanlar için ek cetvellerde gösterilen yemler verilir. Ancak bu yönetmelikte tesbit olan hayvanlardan başka bir hayvan beslenmesine veya cetvelde bulunmayan yem verilmesine lüzum hasıl olduğundan gerekli miktarlar baştabip veya kurum amiri tarafından saptanır. Tecrübe hayvanları için yem sanayinin hazırladığı yemlerden faydalanılabilir.
 
-C – Kıyafet:
+**C – Kıyafet:**
 
 **Madde 189 –** Kurumun kadrosunda bulunan tüm personel, hizmet süresinde aşağıdaki hükümlere uygun olarak giyinir.
 
@@ -1823,9 +1823,9 @@ C – Kıyafet:
 
 Gömleğin iki yan, bir göğüs cebi vardır. Bu göğüs cebi üzerine adı ve soyadı kırmızı iplikle işlenir. Gömlek boyu diz kapağının 5 cm altındadır.
 
-2) (Değişik: 1/4/2005-2005/8720 K.) Başhemşire ve muavinleri; kıyafetleri lacivert renkli, alpaka yada terilen kumaştan, tunik ve astarlı pantolon veya etek tarzındadır. Ayakkabıları; anatomik, terletmeyen ayakkabı veya terlik olmalıdır.
+2) **(Değişik: 1/4/2005-2005/8720 K.)** Başhemşire ve muavinleri; kıyafetleri lacivert renkli, alpaka yada terilen kumaştan, tunik ve astarlı pantolon veya etek tarzındadır. Ayakkabıları; anatomik, terletmeyen ayakkabı veya terlik olmalıdır.
 
-3) (Değişik: 1/4/2005-2005/8720 K.) Hemşire; formaları alpaka yada terilen kumaştan, tunik ve astarlı pantolon veya etek tarzında, başhemşirenin belirlediği renktedir. Çalışılan alanın özelliğine göre anatomik, terletmeyen, ayakkabı veya terlik giyilir. Hizmet verilen yerlerin özelliğine göre farklı renklerde forma giyilebilir.
+3) **(Değişik: 1/4/2005-2005/8720 K.)** Hemşire; formaları alpaka yada terilen kumaştan, tunik ve astarlı pantolon veya etek tarzında, başhemşirenin belirlediği renktedir. Çalışılan alanın özelliğine göre anatomik, terletmeyen, ayakkabı veya terlik giyilir. Hizmet verilen yerlerin özelliğine göre farklı renklerde forma giyilebilir.
 
 4 – Hemşire Yardımcısı:
 
@@ -1835,7 +1835,7 @@ Kepin kalkan kısmının arka kenarından 1 cm. mesafede kalkan boyunca ve 1 cm.
 
 Ayakkabı ve çorap hemşireninki gibidir.
 
-5 – (Değişik: 1/4/2005-2005/8720 K.) Ebelerin kıyafeti de hemşirenin kıyafetinin aynısıdır.
+5 – **(Değişik: 1/4/2005-2005/8720 K.)** Ebelerin kıyafeti de hemşirenin kıyafetinin aynısıdır.
 
 6 – Bayan Tıbbi Teknisyenler:
 
@@ -1907,21 +1907,21 @@ Başlık: Başa geçen bir çember kısım ile üzerinden yüksek, büzgülü ve
 
 17 – Şoför, kapıcı ve dış işlerde çalışan hizmetlilere verilecek kıyafetin şekli ve rengi kendi işlerine uygun renk ve nitelikte olur.
 
-D – Lojmanlarda Oturma Koşulları:
+**D – Lojmanlarda Oturma Koşulları:**
 
 **Madde 190 –** Yataklı tedavi kurumları personelinin oturmalarına ayrılmış kısımları ile daire ve lojmanları bulunan kurumlarda oturma yöntemleri, yürürlükteki mevzuata ve Devlet Memurları Konut Yönetmeliği hükümlerine göre Sağlık ve Sosyal Yardım Bakanlığınca bir yönerge ile tesbit edilir.
 
 **Madde 191 –** Mesai saatleri dışında varlığından yararlanmak maksadıyle kurumlarda devamlı olarak kalmalarına izin verilenler kendilerine topluca ayrılan yerlerde yatarlar. Her ne surete olursa olsun konuk kabul edemezler. Bu maksatla ayrılan yerler Devlet Memurları Konut Yönetmeliği hükümlerine tabi değildirler. Bu gibi yerlerde oturanlar konuklarını kurumun genel salonlarında veya baştabiplikçe ayrılan bir odada kabul edebilirler.
 
-E – Kreşler:
+**E – Kreşler:**
 
 **Madde 192 –** (Değişik: 1/4/2005-2005/8720 K.) Yataklı tedavi kurumları, kreş ve gündüz bakımevlerinin açılış ve işleyişine ilişkin işlemleri 12/10/1987 tarihli ve 87/12197 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarınca Açılacak Çocuk Bakımevleri Hakkında Yönetmelik hükümlerine göre yürütür.
 
-F – Dini Ödevlerin Yapılma Şekli:
+**F – Dini Ödevlerin Yapılma Şekli:**
 
 **Madde 193 –** Kurumlarda rasgele yerlerde ibadet edilmez. Kurum olanakları müsait olduğu takdirde hastalardan ibadetlerini yerine getirmek isteyenlere yer ayrılabilir. Agoni halindeki hastalara hangi din ve mezhepten olursa olsun istenildiği takdirde dini telkin ve dualar yapmak üzere bir din adamı davet edilebilir.
 
-G – Gürültü - Alkol - Sigara Yasağı:
+**G – Gürültü - Alkol - Sigara Yasağı:**
 
 **Madde 194 –** Yataklı tedavi kurumlarında bütün personel, hastalara, hasta sahiplerine ve ziyaretçilere güleryüz ve şefkatle muamele etmeye mecburdur. Ancak kurumun huzur ve sükünunu hiç bir kimse, hiçbir nedenle bozamaz Bağırmak yüksek sesle konuşmak, gürültü etmek, başkalarını, rahatsız edecek şekilde teyp, radyo, televizyon çalmak, hasta odalarında ve müsaade edilen yerler dışında sigara içmek yasaktır.
 
@@ -1933,7 +1933,7 @@ Kurum içinde hiç bir suretle alkollü içki kullanılmaz ve bulundurulmaz.
 
 Bu birimlerin ve kurulların işleyişi Sağlık Bakanlığınca çıkarılacak bir Yönerge ile belirlenir.
 
-H – Yürürlük ve Yürütme Hükümleri:
+**H – Yürürlük ve Yürütme Hükümleri:**
 
 **Madde 195 –** 3.11.1973 gün ve 7/7387 sayılı kararname ile yürürlüğe giren Yataklı Tedavi Kurumları İşletme Yönetmeliği ve değişiklikleri yürürlükten kaldırılmıştır.
 
@@ -1943,9 +1943,9 @@ H – Yürürlük ve Yürütme Hükümleri:
 
 ### TABLO: I
 
-Normal Yemek Günlük İstihkak Cetveli
+**Normal Yemek Günlük İstihkak Cetveli**
 
-(Büyükler için)
+**(Büyükler için)**
 
 | Besin'in Cinsi: | Günlük Azami Miktarı (Gr.) | Haftalık Azami Verilme Sayısı: | Kullanma ve Değiştirme Şekli: |
 | Ekmek | 500 | 7 | Hasta için istihkaktan 100 gr. ekmek kesilerek yerine 30 gr. Bisküi verilebilir. |
@@ -2008,7 +2008,7 @@ Normal Yemek Günlük İstihkak Cetveli
 
 ### CETVELİ
 
-Günlük azami miktarlar (Gr.)
+**Günlük azami miktarlar (Gr.)**
 
 | Besin'in Cinsi: | Miktarı | Haftada Azami Verilme Sayısı: | Kullanma ve Değiştirme Şekli: |
 | Et (Kemikli) ve benzerleri | 1 20 | 7 | Kurubaklagiler verildiğinde et miktarı orantılı olarak düşülür. |
@@ -2034,7 +2034,7 @@ Günlük azami miktarlar (Gr.)
 
 ### CETVELİ
 
-Günlük azami miktarlar
+**Günlük azami miktarlar**
 
 | Besin'in Cinsi: | Miktarı | Haftada Azami Verilme Sayısı: | Kullanma ve Değiştirme Şekli: |
 | Et (Kemikli) ve benzerleri kurubaklagiller | 30 | 7 | Kurubaklagiller verildiğinde et miktarı orantılı olarak düşürülür. |
@@ -2221,9 +2221,9 @@ Hastane yataklarının yeterli kullanılıp kullanılmadığını gösterir.
 
 T.C. Ek No : 11
 
-Sağlık ve Sosyal Yardım Bakanlığı
+**Sağlık ve Sosyal Yardım Bakanlığı**
 
-.................................. Hastanesi
+.................................. **Hastanesi**
 
 ### TIBBİ MÜŞAHADE VE MUAYENE KAĞIDI
 
@@ -2363,9 +2363,9 @@ Lenta Sistemi ..................................................................
 
 ### GÜNLÜK GÖZLEM
 
-(Yapılan ameliyat, müdahaleler ile
+**(Yapılan ameliyat, müdahaleler ile**
 
-hastada gözlenen ve saptanan değişiklikler)
+**hastada gözlenen ve saptanan değişiklikler)**
 
 ### TARİH
 
@@ -2447,9 +2447,9 @@ hastada gözlenen ve saptanan değişiklikler)
 
 ### GÜNLÜK GÖZLEM
 
-(Yapılan ameliyat, müdahaleler ile
+**(Yapılan ameliyat, müdahaleler ile**
 
-hastada gözlenen ve saptanan değişiklikler)
+**hastada gözlenen ve saptanan değişiklikler)**
 
 ### TARİH
 
@@ -2471,15 +2471,15 @@ hastada gözlenen ve saptanan değişiklikler)
 
 Not : Eğitim ve özel dal hastanelerinde zorunlu olarak ve diğer hastanelerde hastalıkların özelliklerine göre buna ek olarak gerekli görülen özel klinik muayene ve bilgi formları eklenebilir.
 
-Ek No: 13
+**Ek No: 13**
 
-Tarih : ....../....../......
+**Tarih : ....../....../......**
 
 ### T. C.
 
 ### S.S.Y. BAKANLIĞI
 
-.................................... Hastahanesi
+.................................... **Hastahanesi**
 
 ### RÖNTGEN İSTEK FİŞİ
 
@@ -2519,9 +2519,9 @@ Verilecek Gerekli Bilgiler : ...................................................
 
 İmzası : ........................................................................................................
 
-Form No: 64
+**Form No: 64**
 
-Tarihi : ....../....../......
+**Tarihi : ....../....../......**
 
 ### RÖNTGEN RAPORU
 
@@ -2545,15 +2545,15 @@ Raporu Hazırlayan Doktorun Adı - Soyadı : ...................................
 
 İmzası : ........................................................................................................
 
-Ek No: 14
+**Ek No: 14**
 
-Tarih : ....../....../......
+**Tarih : ....../....../......**
 
 ### T. C.
 
 ### S.S.Y. BAKANLIĞI
 
-.................................... Hastahanesi
+.................................... **Hastahanesi**
 
 ### LABORATUVAR İSTEK FİŞİ
 
@@ -2589,7 +2589,7 @@ Gönderilen Materyal : .........................................................
 
 .........................................
 
-Form No : 65
+**Form No : 65**
 
 ### TETKİK SONUÇLARI :
 
@@ -2621,15 +2621,15 @@ Form No : 65
 
 .....................................................
 
-Ek No: 15
+**Ek No: 15**
 
-Tarih : ....../....../......
+**Tarih : ....../....../......**
 
 ### T. C.
 
-Sağlık ve Sosyal Yardım Bakanlığı
+**Sağlık ve Sosyal Yardım Bakanlığı**
 
-.................................... Hastahanesi
+.................................... **Hastahanesi**
 
 Hasta Kabul No : ...........................
 
@@ -2809,17 +2809,17 @@ Hastanın gönderildiği hastanenin adı yazılır.
 
 Hastanede muayene eden tabibin soyadı, adı yazılır ve imzalanır.
 
-Ek No : 32
+**Ek No : 32**
 
 ....../....../19....
 
 ### T. C.
 
-Sağlık ve Sosyal Yardım Bakanlığı
+**Sağlık ve Sosyal Yardım Bakanlığı**
 
-.................................... Hastanesi
+.................................... **Hastanesi**
 
-Döner Sermaye Sorumlu Saymanlığı
+**Döner Sermaye Sorumlu Saymanlığı**
 
 Baştabiplik Makamına
 
@@ -2837,15 +2837,15 @@ Miktar Alınacak Malzemenin Cinsi
 
 Form No : 83
 
-Ek No : 33
+**Ek No : 33**
 
 ### T. C.
 
 ### SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
-............................................................ Hastanesi
+............................................................ **Hastanesi**
 
-Döner Sermaye Sorumlu Saymanlığı Satınalma
+**Döner Sermaye Sorumlu Saymanlığı Satınalma**
 
 ### ÖN KARARI
 
@@ -2877,9 +2877,9 @@ Form No : 84
 
 ### SAĞLIK VE SOSYAL YARDIM BAKANLIĞI
 
-............................................................ Hastanesi
+............................................................ **Hastanesi**
 
-Döner Sermaye Sorumlu Saymanlığı
+**Döner Sermaye Sorumlu Saymanlığı**
 
 ### SATIN ALMA KARARI
 
@@ -2943,8 +2943,8 @@ Form No : 85
 | Tarihi | Numarası | Değiştirilen Maddeler | Yürürlüğe Giriş Tarihi |
 | 18/12/2018 | 477 | 89 | 19/12/2018 |
 
-<small>[1] Bu madde başlığı “SAĞLIK HİZMETLERİ:” iken, 1/4/2005 tarihli ve 2005/8720 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[1] <i>Bu madde başlığı “SAĞLIK HİZMETLERİ:” iken, 1/4/2005 tarihli ve 2005/8720 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[2] Bu madde başlığı “SINIFLAR VE ÖZELLİKLERİ: “ iken, 1/4/2005 tarihli ve 2005/8720 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[2] <i>Bu madde başlığı “SINIFLAR VE ÖZELLİKLERİ: “ iken, 1/4/2005 tarihli ve 2005/8720 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[3] Bu madde başlığı “EMNİYET HİZMETLİLERİNİN GÖREVLERİ :” iken, 1/4/2005 tarihli ve 2005/8720 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 29 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[3] <i>Bu madde başlığı “EMNİYET HİZMETLİLERİNİN GÖREVLERİ :” iken, 1/4/2005 tarihli ve 2005/8720 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 29 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>

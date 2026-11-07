@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -72,9 +72,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Piyasa Gözetimi ve Denetimine Tabi Ürünler,
+**Piyasa Gözetimi ve Denetimine Tabi Ürünler,**
 
-Genel Esaslar ve Piyasa Gözetimi ve Denetiminin Usulü
+**Genel Esaslar ve Piyasa Gözetimi ve Denetiminin Usulü**
 
 #### Piyasa gözetimi ve denetimine tabi ürünler
 
@@ -146,7 +146,7 @@ c) Duyusal inceleme ve muayene,
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Önlemler, Yaptırımlar ve Yıllık Kayıtlar ile Faaliyet Raporu
+**Önlemler, Yaptırımlar ve Yıllık Kayıtlar ile Faaliyet Raporu**
 
 #### Teknik düzenlemeye uygunsuzluk sonucunda alınacak önlemler ve uygulanacak yaptırımlar
 
@@ -160,7 +160,7 @@ c) Duyusal inceleme ve muayene,
 
 (2) 8 inci maddenin birinci fıkrası kapsamında düzenlenen ilgili teknik düzenlemeye uygunsuzluk hali ile 8 inci maddenin ikinci fıkrası kapsamında düzenlenen uygunluk işaretinin veya uygunluk değerlendirme işlemleri sonucunda verilen belgelerin tahrif veya taklit edilmesi veya usulüne uygun olmadan kullanılması halinin ürünün güvenilmezliğine ilişkin kesin belirti ortaya çıkardığı durumlarda, tutanak düzenlenir ve Çerçeve Yönetmeliğin 10 uncu maddesi uygulanır. Bu durum, güvenli olmadığına ilişkin kesin belirti bulunan ilgili teknik düzenlemeye uygunluğu belgelenmiş ürünler ile ilgili teknik düzenlemesi bulunmayan ürünler için de geçerlidir.
 
-(3) (Değişik:RG-5/4/2008-26838) Birinci ve ikinci fıkralarda belirtilen işlemler sonucunda ürünün güvenli olmadığının tespit edilmesi halinde tutanak düzenlenerek, Çerçeve Yönetmeliğin 11 inci maddesi uygulanır. Dağıtıcının Kanunun 5 inci maddesinin dokuzuncu fıkrasının birinci cümlesinde belirtilen yükümlülüğü saklı kalmak kaydıyla, üretici hakkında;
+(3) **(Değişik:RG-5/4/2008-26838)** Birinci ve ikinci fıkralarda belirtilen işlemler sonucunda ürünün güvenli olmadığının tespit edilmesi halinde tutanak düzenlenerek, Çerçeve Yönetmeliğin 11 inci maddesi uygulanır. Dağıtıcının Kanunun 5 inci maddesinin dokuzuncu fıkrasının birinci cümlesinde belirtilen yükümlülüğü saklı kalmak kaydıyla, üretici hakkında;
 
 a) Güvenli olmadığı tespit edilen ürünün aynı zamanda ilgili teknik düzenlemesine de uygun olmadığı durumlarda,
 
@@ -180,11 +180,11 @@ b) Güvenli olmadığı tespit edilen ürünün uygunluk işaretinin veya uygunl
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Denetimle Görevli Personelin Görevlendirilmesi,
+**Denetimle Görevli Personelin Görevlendirilmesi,**
 
-Denetimle Görevli Personelin Görev, Yetki ve Sorumlulukları,
+**Denetimle Görevli Personelin Görev, Yetki ve Sorumlulukları,**
 
-Üreticinin veya Dağıtıcının Yükümlülükleri
+**Üreticinin veya Dağıtıcının Yükümlülükleri**
 
 #### Denetimle görevli personelin görevlendirilmesi
 
@@ -234,7 +234,7 @@ zorundadırlar.
 
 ### BEŞİNCİ BÖLÜM
 
-Denetimle Görevli Personelin Hizmet İçi Eğitimi ve Sertifikalandırılması
+**Denetimle Görevli Personelin Hizmet İçi Eğitimi ve Sertifikalandırılması**
 
 #### Piyasa gözetimi ve denetimi eğitimi
 
@@ -322,9 +322,9 @@ c) Sınav soru bankasından sınav sorularını belirlemek ve sınav sonuçları
 
 ### ALTINCI BÖLÜM
 
-Bilgilerin Gizliliği, Piyasaya Arzın Yasaklanmasında Yetki,
+**Bilgilerin Gizliliği, Piyasaya Arzın Yasaklanmasında Yetki,**
 
-İdari Para Cezaları ve Diğer Cezai Yaptırımlar
+**İdari Para Cezaları ve Diğer Cezai Yaptırımlar**
 
 #### Bilgilerin gizliliği
 
@@ -344,7 +344,7 @@ Bilgilerin Gizliliği, Piyasaya Arzın Yasaklanmasında Yetki,
 
 ### YEDİNCİ BÖLÜM
 
-Piyasa Gözetimi ve Denetimi Koordinasyon Komisyonu
+**Piyasa Gözetimi ve Denetimi Koordinasyon Komisyonu**
 
 #### Komisyonun oluşturulması
 
@@ -370,7 +370,7 @@ e) Dış Ticaret Müsteşarlığı bünyesindeki Piyasa Gözetimi ve Denetimi Ko
 
 #### Komisyonun çalışma usul ve esasları
 
-**MADDE 27 –** (1) Komisyon üç ayda bir toplanır. Gerekli durumlarda Komisyon üyelerinden herhangi birinin isteği üzerine Başkan, Komisyonu olağanüstü toplantıya çağırabilir. (Mülga son cümle:RG-5/4/2008-26838)
+**MADDE 27 –** (1) Komisyon üç ayda bir toplanır. Gerekli durumlarda Komisyon üyelerinden herhangi birinin isteği üzerine Başkan, Komisyonu olağanüstü toplantıya çağırabilir. **(Mülga son cümle:RG-5/4/2008-26838)**
 
 (2) Komisyon, üye tam sayısının salt çoğunluğu ile toplanır ve katılanların salt çoğunluğu ile karar alır. Oyların eşitliği halinde Komisyon Başkanının oy verdiği yönde karar alınmış sayılır.
 
@@ -382,7 +382,7 @@ e) Dış Ticaret Müsteşarlığı bünyesindeki Piyasa Gözetimi ve Denetimi Ko
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Piyasa gözetimi ve denetimi rehberi
 
@@ -418,7 +418,7 @@ düzenlenen uyarı sistemi, koruma önlemleri, ret, sınırlama ve piyasadan çe
 
 #### İntibak ve kazanılmış haklar
 
-**GEÇİCİ MADDE 2 –** (1) (Değişik:RG-5/4/2008-26838) Bakanlıkça belirlenen müfredata göre bu Yönetmelik kapsamında yapılacak olan ilk hizmet içi eğitim programına kadar; piyasa gözetimi ve denetimi faaliyetlerini fiilen yürütmekte olan personel, bu konuda daha önce hizmet içi eğitim almış olmakla birlikte henüz fiilen bu görevi yürütmeyen personel ile Tıbbi Cihazlar Alanında Piyasa Gözetimi ve Denetimi Yapısını Güçlendirme isimli Eşleştirme Projesi kapsamında eğitim almış personelden 20 nci maddeye göre yapılacak sınav sonucunda başarılı olanlara bir kereye mahsus olarak sertifika düzenlenir.
+**GEÇİCİ MADDE 2 –** (1) **(Değişik:RG-5/4/2008-26838)** Bakanlıkça belirlenen müfredata göre bu Yönetmelik kapsamında yapılacak olan ilk hizmet içi eğitim programına kadar; piyasa gözetimi ve denetimi faaliyetlerini fiilen yürütmekte olan personel, bu konuda daha önce hizmet içi eğitim almış olmakla birlikte henüz fiilen bu görevi yürütmeyen personel ile Tıbbi Cihazlar Alanında Piyasa Gözetimi ve Denetimi Yapısını Güçlendirme isimli Eşleştirme Projesi kapsamında eğitim almış personelden 20 nci maddeye göre yapılacak sınav sonucunda başarılı olanlara bir kereye mahsus olarak sertifika düzenlenir.
 
 (2) Bu madde kapsamında olanlar, Bakanlıkça yapılacak ilk sınava katılmazlarsa, bu maddede öngörülen haktan yararlanamazlar.
 

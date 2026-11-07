@@ -28,17 +28,17 @@ durum: "yürürlükte"
 
 ### KANUN HÜKMÜNDE KARARNAME
 
-Kanun Hükmünde Kararnamenin Tarihi : 27/6/1989 No : 375
+**Kanun Hükmünde Kararnamenin Tarihi : 27/6/1989 No : 375**
 
-Yetki Kanununun Tarihi : 12/3/1986 No : 3268
+**Yetki Kanununun Tarihi : 12/3/1986 No : 3268**
 
-9/4/1987 No : 3347
+**9/4/1987 No : 3347**
 
-12/10/1988 No : 3479
+**12/10/1988 No : 3479**
 
-1/6/1989 No : 3569
+**1/6/1989 No : 3569**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 30/6/1989 No : 20211 (Mükerrer)
+**Yayımlandığı Resmî Gazetenin Tarihi : 30/6/1989 No : 20211 (Mükerrer)**
 
 #### Tertip : V
 
@@ -54,25 +54,25 @@ Bu aylıklara hak kazanılmasında ve ödenmesinde 657 sayılı Devlet Memurlar�
 
 Bu göstergeler 657 sayılı Kanun ve diğer personel kanunlarına ve kanun hükmünde kararnamelere göre her ne ad altında olursa olsun ödenmekte olan zam, tazminat, ödenek, ücret ve benzeri ödemelerin hesabında dikkate alınmaz.
 
-B) (Mülga: 21/3/2006-5473/11 md.)[4]
+B) **(Mülga: 21/3/2006-5473/11 md.)**[4]
 
-1. (Mülga: 21/3/2006-5473/11 md.)
+1. **(Mülga: 21/3/2006-5473/11 md.)**
 
-2. (Mülga: 21/3/2006-5473/11 md.)
+2. **(Mülga: 21/3/2006-5473/11 md.)**
 
 3. Büyükelçiler, daimi delegeler, maslahat güzarlar, askeri temsil heyetleri başkanları ve başkonsoloslar hariç olmak üzere sürekli görevle yurtdışına atanan kapsama dahil personelden kendilerine yurtdışında gerek kamu kurum ve kuruluşunun mülkiyetinde bulunan gerek kiralanan konutların tahsis edilmesi halinde ilgili memurun emsal katsayılarına göre belirlenen yurtdışı net aylığının % 25'ini geçmemek üzere Maliye Bakanlığınca tesbit edilen tutarlar kadar kira bedeli alınır. Kira bedeli alınan konutların mefruşat, elektrik, su, gaz, telefon, garaj ve genel giderleri de ilgili personelce ayrıca karşılanır.
 
-C) (Ek: 4/7/2001-KHK-631/11 md.) (A) bendi kapsamına giren ve temsil tazminatı almayan personelden,
+C) **(Ek: 4/7/2001-KHK-631/11 md.)** (A) bendi kapsamına giren ve temsil tazminatı almayan personelden,
 
 1 - 7.000’den daha düşük göstergeler üzerinden makam veya yüksek hakimlik tazminatı öngörülen kadrolara atanmış olanlara, 15.000 gösterge rakamını geçmemek üzere Cumhurbaşkanınca tespit edilecek gösterge rakamlarının memur aylıklarına uygulanan katsayı ile çarpımı sonucunda bulunacak miktarda görev tazminatı ödenir.3
 
-2- (Mülga: 27/2/2008-5745/1 md.)
+2- **(Mülga: 27/2/2008-5745/1 md.)**
 
 3- (1) numaralı alt bende göre ödenecek görev tazminatının uygulanmasına ilişkin esas ve usulleri tespit etmeye çalışanlar ve emekliler için gösterge rakamları belirlemeye Cumhurbaşkanı yetkilidir.3[5]
 
-4 - (Ek: 8/1/2002-4736/8 md.) Görev tazminatı, damga vergisi hariç herhangi bir vergiye tabi tutulmaz ve bu tazminata hak kazanmada ve ödemelerde aylıklara ilişkin hükümler uygulanır.
+4 - **(Ek: 8/1/2002-4736/8 md.)** Görev tazminatı, damga vergisi hariç herhangi bir vergiye tabi tutulmaz ve bu tazminata hak kazanmada ve ödemelerde aylıklara ilişkin hükümler uygulanır.
 
-D) (Ek: 31/7/2003-4969/2 md.) (A) bendi kapsamına giren personel ile 22.1.1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelde yer alan personel ve kamu kurumlarında işçi olarak istihdam edilenlerden; emekliliğini isteyen veya emekliye sevk olunanlara, haklarında toptan ödeme hükümleri uygulananlara, emekli iken yeniden hizmete alındıktan sonra cezaen olmamak üzere görevlerine son verilenlere, kendi kusurları olmaksızın sözleşmesi feshedilen veya hizmet sürelerinin bitiminde ayrılan sözleşmeli subay, sözleşmeli astsubay, uzman erbaş ve sözleşmeli erbaş ve erler ile terhis olan yedek subaylara , yedek astsubaylara ve bunlardan görevde iken ölenlerin kanuni mirasçılarına damga vergisi hariç herhangi bir vergiye tâbi tutulmaksızın (12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarında tazminat ödenir.[6][7]
+D) **(Ek: 31/7/2003-4969/2 md.)** (A) bendi kapsamına giren personel ile 22.1.1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelde yer alan personel ve kamu kurumlarında işçi olarak istihdam edilenlerden; emekliliğini isteyen veya emekliye sevk olunanlara, haklarında toptan ödeme hükümleri uygulananlara, emekli iken yeniden hizmete alındıktan sonra cezaen olmamak üzere görevlerine son verilenlere, kendi kusurları olmaksızın sözleşmesi feshedilen veya hizmet sürelerinin bitiminde ayrılan sözleşmeli subay, sözleşmeli astsubay, uzman erbaş ve sözleşmeli erbaş ve erler ile terhis olan yedek subaylara , yedek astsubaylara ve bunlardan görevde iken ölenlerin kanuni mirasçılarına damga vergisi hariç herhangi bir vergiye tâbi tutulmaksızın (12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarında tazminat ödenir.[6][7]
 
 **Madde 2 –** (Değişik: 20/3/1997-KHK-570/15 md.)[8]
 
@@ -80,7 +80,7 @@ Aylıklarını 657 sayılı Devlet Memurları Kanunu, 926 sayılı Türk Silahl�
 
 Ödenecek yabancı dil tazminatı farklı diller için farklı miktarlarda belirlenebileceği gibi, personelin görev yeri, kadro unvanı ve sorumluluğuna, bildiği yabancı dil sayısına ve düzeyine göre de farklı miktarlarda belirlenebilir.
 
-(Mülga üçüncü fıkra: 24/7/2008-5793/47 md.)
+**(Mülga üçüncü fıkra: 24/7/2008-5793/47 md.)**
 
 Bu madde uyarınca yapılan sınavlar beş yıl süreyle geçerlidir. Bu sürenin bitiminde sınava girmeyenlerin yabancı dil seviyeleri bir alt düzeye inmiş sayılır, seviyeleri (C) düzeyinde olanların yabancı dil tazminatları kesilir. Bu madde uyarınca yapılan sınavlara diğer mevzuatla yapılan atıflara ilişkin olarak da bu fıkra hükmü geçerlidir.
 
@@ -116,7 +116,7 @@ Yabancı dil tazminatına hak kazanmada ve ödemelerde aylıklara ilişkin hük�
 
 **Madde 28 –** (Değişik:2/12/1993-3920/1 md.)[11][12]
 
-A) (Değişik: 7/11/1996-4206/1 md.) Olağanüstü hal ilan edilen bölgeler veya Milli Savunma ve İçişleri Bakanlıklarınca müştereken belirlenecek kritik yörelerde özel harekat ve operasyon timi olarak görev yapan; Emniyet Genel Müdürlüğü emniyet hizmetleri sınıfı kadrolarında bulunanlar ile sözleşmeli uçuş personeline, subay, astsubay, uzman jandarma, uzman erbaş ve sözleşmeli erbaş ve erlere ve operasyonları fiilen sevk ve idare eden karargah ve bürolardan bu fıkra uyarınca alınacak Cumhurbaşkanı onayında belirtilenlerde görevlendirilen personele 9000, erbaş ve erlere 4500 gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık tutarı geçmemek üzere, fiilen görev yapıldığı sürece ve bu süre ile orantılı olarak ek tazminat, (B) fıkrasında yer alan tazminata ilave olarak ayrıca ödenir.12
+A) **(Değişik: 7/11/1996-4206/1 md.)** Olağanüstü hal ilan edilen bölgeler veya Milli Savunma ve İçişleri Bakanlıklarınca müştereken belirlenecek kritik yörelerde özel harekat ve operasyon timi olarak görev yapan; Emniyet Genel Müdürlüğü emniyet hizmetleri sınıfı kadrolarında bulunanlar ile sözleşmeli uçuş personeline, subay, astsubay, uzman jandarma, uzman erbaş ve sözleşmeli erbaş ve erlere ve operasyonları fiilen sevk ve idare eden karargah ve bürolardan bu fıkra uyarınca alınacak Cumhurbaşkanı onayında belirtilenlerde görevlendirilen personele 9000, erbaş ve erlere 4500 gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık tutarı geçmemek üzere, fiilen görev yapıldığı sürece ve bu süre ile orantılı olarak ek tazminat, (B) fıkrasında yer alan tazminata ilave olarak ayrıca ödenir.12
 
 Tazminat ödenecek yerleşim birimleri, aylık veya günlük olarak ödenecek tazminat miktarları, tazminatın ödenme usul ve esasları, hangi hallerde kesileceği Cumhurbaşkanı kararı ile tespit edilir.12
 
@@ -124,7 +124,7 @@ Bu görevler nedeniyle meydana gelen engellilik ve yaralanmalarda tedavi süresi
 
 Devletin aktif istihbarat görevlilerinden bu yerleşim birimlerinde emniyet ve asayişe yönelik olarak fiilen aktif istihbarat görevi yapanlar hakkında da görevin risk ve zorluğuna göre bu fıkra hükümleri uygulanır. Bunlara ödenecek ek tazminat miktarı emsali personele yapılan ödemeyi geçmemek üzere doğrudan Cumhurbaşkanınca belirlenir.12
 
-(Ek paragraf: 11/10/2011-KHK-666/5 md.) Emniyet Genel Müdürlüğü Emniyet Hizmetleri Sınıfı kadrolarında bulunan personelden, özel harekat kursuna katılarak özel harekat sertifikası almış ve özel harekat birimlerinde fiilen görev yapanlar ile terörle yaygın ve yoğun bir şekilde mücadeleye yönelik olarak ilgisine göre İçişleri Bakanlığı veya Genelkurmay Başkanlığınca belirlenen birliklerde fiilen görev yapan subay, astsubay, uzman jandarma, uzman erbaş ve sözleşmeli erbaş ve erlere, (10.750) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık miktarı geçmemek üzere, fiilen görev yapıldığı sürece ve bu süre ile orantılı olarak bu fıkra uyarınca ödenen tazminata ilave ek tazminat ödenebilir. Yerleşim birimi, fiilen yapılan görevin riski, zorluğu ve önemi gibi kriterler birlikte veya ayrı ayrı dikkate alınmak suretiyle günlük veya aylık olarak hesaplanmak üzere, ödenecek ilave ek tazminatın miktarı, ödenme usul ve esasları ile hangi hallerde kesileceği Cumhurbaşkanı kararı ile tespit edilir.[15][16]
+**(Ek paragraf: 11/10/2011-KHK-666/5 md.)** Emniyet Genel Müdürlüğü Emniyet Hizmetleri Sınıfı kadrolarında bulunan personelden, özel harekat kursuna katılarak özel harekat sertifikası almış ve özel harekat birimlerinde fiilen görev yapanlar ile terörle yaygın ve yoğun bir şekilde mücadeleye yönelik olarak ilgisine göre İçişleri Bakanlığı veya Genelkurmay Başkanlığınca belirlenen birliklerde fiilen görev yapan subay, astsubay, uzman jandarma, uzman erbaş ve sözleşmeli erbaş ve erlere, (10.750) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık miktarı geçmemek üzere, fiilen görev yapıldığı sürece ve bu süre ile orantılı olarak bu fıkra uyarınca ödenen tazminata ilave ek tazminat ödenebilir. Yerleşim birimi, fiilen yapılan görevin riski, zorluğu ve önemi gibi kriterler birlikte veya ayrı ayrı dikkate alınmak suretiyle günlük veya aylık olarak hesaplanmak üzere, ödenecek ilave ek tazminatın miktarı, ödenme usul ve esasları ile hangi hallerde kesileceği Cumhurbaşkanı kararı ile tespit edilir.[15][16]
 
 Bu tazminat kapsam dahilinde fiilen görev yapılan sürelere göre hesaplanır ve ay sonunda ödenir.
 
@@ -140,11 +140,11 @@ Kamu İktisadi teşebbüsleri, kapsam dahilindeki personeline ödeme yapıp yapm
 
 Bu maddedeki tazminatlar Damga Vergisi dahil hiçbir vergi ve kesintiye tabi değildir.
 
-C) (Ek: 3/10/2016-KHK-676/66 md.; Aynen kabul: 1/2/2018-7070/52 md.) 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu kapsamında harcırah alanlar hariç olmak üzere, Türkiye Büyük Millet Meclisi kararlarına dayanılarak yabancı ülkelere birlik hâlinde veya münferiden gönderilen subay, astsubay, uzman jandarma, sivil memur, işçi, uzman erbaş ve sözleşmeli erbaş ve erlere (40.000), erbaş ve erlere ise (20.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık tutarı geçmemek üzere, fiilen sınır ötesinde icra edilen görev süresince damga vergisi dahil hiçbir vergi ve kesintiye tabi tutulmaksızın tazminat ödenir.
+C) **(Ek: 3/10/2016-KHK-676/66 md.; Aynen kabul: 1/2/2018-7070/52 md.)** 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu kapsamında harcırah alanlar hariç olmak üzere, Türkiye Büyük Millet Meclisi kararlarına dayanılarak yabancı ülkelere birlik hâlinde veya münferiden gönderilen subay, astsubay, uzman jandarma, sivil memur, işçi, uzman erbaş ve sözleşmeli erbaş ve erlere (40.000), erbaş ve erlere ise (20.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık tutarı geçmemek üzere, fiilen sınır ötesinde icra edilen görev süresince damga vergisi dahil hiçbir vergi ve kesintiye tabi tutulmaksızın tazminat ödenir.
 
 Ödenecek tazminatın tutarı, ödenme usul ve esasları ile hangi hallerde kesileceği Cumhurbaşkanı kararı ile tespit edilir.[18]
 
-Ç) (Ek: 2/1/2017-KHK-680/83 md.; Değiştirilerek kabul: 1/2/2018-7072/81 md.) Kamu kurum ve kuruluşlarında görev yapan personel (işçiler dahil), Türkiye Büyük Millet Meclisi kararlarına dayanılarak Türk Silahlı Kuvvetleri personelinin gönderilmesine karar verilen ülkelerde geçici olarak görev yapmak üzere görevlendirilebilir. Bu madde uyarınca görevlendirilen personele, (40.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık tutarı geçmemek üzere görev süresince damga vergisi dahil hiçbir vergi ve kesintiye tabi tutulmaksızın tazminat ödenir. Bunlara ayrıca, 6245 sayılı Harcırah Kanunu hükümlerine göre ödenen yol gideri dışında harcırah ödenmez. Görevlendirmeye ilişkin usul ve esaslar, ödenecek tazminatın tutarı ile hangi hallerde kesileceği ve ödemeye ilişkin usul ve esaslar Cumhurbaşkanı kararı ile tespit edilir.18
+Ç) **(Ek: 2/1/2017-KHK-680/83 md.; Değiştirilerek kabul: 1/2/2018-7072/81 md.)** Kamu kurum ve kuruluşlarında görev yapan personel (işçiler dahil), Türkiye Büyük Millet Meclisi kararlarına dayanılarak Türk Silahlı Kuvvetleri personelinin gönderilmesine karar verilen ülkelerde geçici olarak görev yapmak üzere görevlendirilebilir. Bu madde uyarınca görevlendirilen personele, (40.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık tutarı geçmemek üzere görev süresince damga vergisi dahil hiçbir vergi ve kesintiye tabi tutulmaksızın tazminat ödenir. Bunlara ayrıca, 6245 sayılı Harcırah Kanunu hükümlerine göre ödenen yol gideri dışında harcırah ödenmez. Görevlendirmeye ilişkin usul ve esaslar, ödenecek tazminatın tutarı ile hangi hallerde kesileceği ve ödemeye ilişkin usul ve esaslar Cumhurbaşkanı kararı ile tespit edilir.18
 
 **Madde 29 –** (14/7/1965 tarihli ve 657 sayılı Kanunun Ek Geçici 7 nci maddesinin değiştirilmesi ile ilgili olup, yerine işlenmiştir.)
 
@@ -170,9 +170,9 @@ Bu madde kapsamına giren eserlerin seçilmesi, yayımlanması, yayım ve ansikl
 
 **Ek Madde 4 –** (Ek: 21/3/2006-5473/1 md.) (Değişik:22/12/2022-7429/11 md.)
 
-(Değişik birinci fıkra:28/7/2024-7524/59 md.) 25/6/2001 tarihli ve 25/6/2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu hükümleri uyarınca kamu görevlileri sendikalarına üye olup, aylık veya ücretinden üyelik ödentisi kesilen kamu görevlilerine her ay aylık veya ücretleri ile birlikte toplu sözleşmeyle belirlenen tutarda toplu sözleşme ikramiyesi ödenir.
+**(Değişik birinci fıkra:28/7/2024-7524/59 md.)** 25/6/2001 tarihli ve 25/6/2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu hükümleri uyarınca kamu görevlileri sendikalarına üye olup, aylık veya ücretinden üyelik ödentisi kesilen kamu görevlilerine her ay aylık veya ücretleri ile birlikte toplu sözleşmeyle belirlenen tutarda toplu sözleşme ikramiyesi ödenir.
 
-(İptal ikinci fıkra: Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2023/12, K: 2024/12 Sayılı Kararı ile.)
+**(İptal ikinci fıkra: Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2023/12, K: 2024/12 Sayılı Kararı ile.)**
 
 Bu madde uyarınca yapılan ödemeler, damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaz ve ilgili mevzuatı uyarınca ödenmekte olan zam, tazminat, ödenek, döner sermaye payı, ikramiye, ücret ve her ne ad altında olursa olsun benzer ödemelerin hesabında dikkate alınmaz.
 
@@ -184,7 +184,7 @@ Bu madde uyarınca yapılan ödemeler, damga vergisi hariç herhangi bir vergi v
 
 **Ek Madde 6 –** (Ek: 24/7/2008-5793/23 md.)
 
-190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesi kapsamına giren kamu kurum ve kuruluşlarının merkez teşkilatları ile 5018 sayılı Kanuna ekli (III) sayılı cetvelde sayılan düzenleyici ve denetleyici kurumların büyük ölçekli bilgi işlem birimlerinde, bilişim hizmetlerini yürütmek ve 30 kişiyi geçmemek üzere tam zamanlı, kısmî zamanlı veya kurumların bilişim projeleri ile sınırlı sözleşmeli olarak bilişim personeli çalıştırılabilir. Bu şekilde çalıştırılacak olanlardan Kurumca teklif edilecek en fazla sekiz kişiye ödenecek ücret, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) bendine göre istihdam edilenlerin sözleşme ücreti tavanının dört katını, diğer on kişiye üç katını, geri kalanlara ise iki katını geçemez ve bunlara bu fıkrada belirtilen ücret dışında herhangi bir ödeme yapılamaz. (Ek cümle: 21/3/2018-7103/89 md.) Büyük ölçekli bilgi işlem birimlerinde çalıştırılabilecek sözleşmeli personel sayısını kurumlar itibarıyla 100’e kadar yükseltmeye ve bu şekilde ilave vize edilecek sözleşmeli personel pozisyonlarında çalıştırılacaklara ödenecek ücreti anılan ücret tavanının beş katına kadar belirlemeye Maliye Bakanı yetkilidir.[23][24]
+190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesi kapsamına giren kamu kurum ve kuruluşlarının merkez teşkilatları ile 5018 sayılı Kanuna ekli (III) sayılı cetvelde sayılan düzenleyici ve denetleyici kurumların büyük ölçekli bilgi işlem birimlerinde, bilişim hizmetlerini yürütmek ve 30 kişiyi geçmemek üzere tam zamanlı, kısmî zamanlı veya kurumların bilişim projeleri ile sınırlı sözleşmeli olarak bilişim personeli çalıştırılabilir. Bu şekilde çalıştırılacak olanlardan Kurumca teklif edilecek en fazla sekiz kişiye ödenecek ücret, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) bendine göre istihdam edilenlerin sözleşme ücreti tavanının dört katını, diğer on kişiye üç katını, geri kalanlara ise iki katını geçemez ve bunlara bu fıkrada belirtilen ücret dışında herhangi bir ödeme yapılamaz. **(Ek cümle: 21/3/2018-7103/89 md.)** Büyük ölçekli bilgi işlem birimlerinde çalıştırılabilecek sözleşmeli personel sayısını kurumlar itibarıyla 100’e kadar yükseltmeye ve bu şekilde ilave vize edilecek sözleşmeli personel pozisyonlarında çalıştırılacaklara ödenecek ücreti anılan ücret tavanının beş katına kadar belirlemeye Maliye Bakanı yetkilidir.[23][24]
 
 Kısmî zamanlı sözleşmeli bilişim personeli olarak çalıştırılanlar için iş sonu tazminatı ödenmez ve işsizlik sigortası primi yatırılmaz. Bunlardan, yaptıkları başka işler sebebiyle herhangi bir sosyal güvenlik kurumuna tabi olanlar için sosyal sigorta ve genel sağlık sigortası primi yatırılmaz.
 
@@ -210,7 +210,7 @@ b) (a) bendinde belirtilenler dışında kalan dört yıllık eğitim veren fak�
 
 c) Yazılım, yazılım tasarımı ve geliştirilmesi ile bu sürecin yönetimi konusunda veya büyük ölçekli ağ sistemlerinin kurulumu ve yönetimi konusunda birinci fıkraya göre ücret tavanı iki katını geçmeyecekler için en az 3 yıllık, diğerleri için en az 5 yıllık mesleki tecrübeye sahip bulunmaları (Mesleki tecrübenin belirlenmesinde; bilişim personeli olarak 657 sayılı Kanuna tabi kadrolu veya aynı Kanunun 4 üncü maddesinin (B) bendi ile 399 sayılı Kanun Hükmünde Kararnameye tabi sözleşmeli statüdeki hizmetler ve Sosyal Sigortalar Kurumuna tabi özel kesimde bilişim personeli olarak geçtiği belgelenen hizmet süreleri dikkate alınır)[25]
 
-ç) (Mülga: 8/8/2011-KHK-650/35 md.)
+ç) **(Mülga: 8/8/2011-KHK-650/35 md.)**
 
 d) Bilgisayar çevre birimlerinin donanımı ve kurulan ağ yönetimi güvenliği hakkında bilgi sahibi olmaları kaydıyla güncel programlama dillerinden en az ikisini bildiğini belgelemeleri,
 
@@ -228,9 +228,9 @@ Büyük ölçekli bilgi işlem birimlerinde bu maddenin üçüncü fıkrasında 
 
 Özel kanunlarındaki hükümler saklı kalmak kaydıyla birinci fıkra kapsamında sözleşmeyle çalıştırılan personel hakkında 6/6/1978 tarihli ve 7/15754 sayılı Bakanlar Kurulu Kararı uygulanır.
 
-(Ek fıkra: 29/6/2012-6338/7 md.) 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrası ile birinci fıkrada belirtilen mevzuat kapsamında, bir önceki mali yılda vizeli mevcut pozisyon ve tip sözleşme örnekleri yeni bir vize yapılmasına gerek kalmaksızın içinde bulunulan mali yılda da kullanılmaya devam olunur. Bu pozisyonlarda bir önceki mali yılda istihdam edilen personelden, içinde bulunulan mali yılda da görevlerine devam etmeleri uygun görülenlerle, mevcut sözleşme ücretlerine içinde bulunulan mali yıl için mevzuat uyarınca yapılacak artışlar ilave edilmek suretiyle yeni sözleşme yapılır.
+**(Ek fıkra: 29/6/2012-6338/7 md.)** 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrası ile birinci fıkrada belirtilen mevzuat kapsamında, bir önceki mali yılda vizeli mevcut pozisyon ve tip sözleşme örnekleri yeni bir vize yapılmasına gerek kalmaksızın içinde bulunulan mali yılda da kullanılmaya devam olunur. Bu pozisyonlarda bir önceki mali yılda istihdam edilen personelden, içinde bulunulan mali yılda da görevlerine devam etmeleri uygun görülenlerle, mevcut sözleşme ücretlerine içinde bulunulan mali yıl için mevzuat uyarınca yapılacak artışlar ilave edilmek suretiyle yeni sözleşme yapılır.
 
-(Ek fıkra: 29/6/2012-6338/7 md.) Kanun, uluslararası anlaşma, Cumhurbaşkanı kararı veya yılı programıyla kurulması veya genişletilmesi öngörülen birimler ile hizmetin gerektirdiği zorunlu hâller için, yılı ödeneğini aşmamak kaydıyla yapılacak yeni vizeler dışında, bir önceki mali yıl sözleşmeli personel pozisyon sayıları hiçbir şekilde aşılamaz.[27]
+**(Ek fıkra: 29/6/2012-6338/7 md.)** Kanun, uluslararası anlaşma, Cumhurbaşkanı kararı veya yılı programıyla kurulması veya genişletilmesi öngörülen birimler ile hizmetin gerektirdiği zorunlu hâller için, yılı ödeneğini aşmamak kaydıyla yapılacak yeni vizeler dışında, bir önceki mali yıl sözleşmeli personel pozisyon sayıları hiçbir şekilde aşılamaz.[27]
 
 **Ek Madde 8 –** (Ek: 13/2/2011-6111/118 md.)
 
@@ -242,7 +242,7 @@ Aylıklarını 657 sayılı Devlet Memurları Kanunu ile 2914 sayılı Yüksekö
 
 Ek ödemeye hak kazanılmasında ve bu ödemenin yapılmasında aylıklara ilişkin hükümler uygulanır. Bu maddeye göre yapılacak ek ödeme damga vergisi hariç herhangi bir vergiye tabi tutulmaz ve ilgili mevzuatı uyarınca ödenmekte olan zam, tazminat, ödenek, döner sermaye ödemesi, ikramiye, ücret ve her ne ad altında olursa olsun yapılan benzeri ödemelerin hesabında dikkate alınmaz.
 
-Birinci fıkra kapsamına giren personelden; 4/1/1961 tarihli ve 209 sayılı Kanunun 5 inci maddesinin ikinci fıkrası, 4/11/1981 tarihli ve 2547 sayılı Kanunun 58 inci maddesinin (c) ve (f) fıkraları ve 14/4/1982 tarihli ve 2659 sayılı Kanunun 30 uncu maddesi kapsamında döner sermayeden ek ödeme yapılan personele, 27/7/1967 tarihli ve 926 sayılı Kanunun ek 17 nci maddesinin (Ç) fıkrası uyarınca sağlık hizmetleri tazminatı ödenen personele, 27/10/1999 tarihli ve 4458 sayılı Kanunun 221 inci maddesi, 16/5/2006 tarihli ve 5502 sayılı Kanunun 28 inci maddesinin sekizinci fıkrası ve 663 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesinin dördüncü fıkrası uyarınca ödeme yapılan personele, sözkonusu mevzuat hükümlerine göre ödeme yapılmaya devam olunur ve bunlara bu maddeye göre ayrıca ek ödeme yapılmaz. (Değişik ikinci cümle: 20/8/2016-6745/76 md.) Bu fıkra kapsamındaki idarelerin döner sermaye saymanlık hizmetlerini yürüten personele bu fıkrada yer alan mevzuat uyarınca döner sermaye gelirlerinden herhangi bir ad altında ödeme yapılmaz.
+Birinci fıkra kapsamına giren personelden; 4/1/1961 tarihli ve 209 sayılı Kanunun 5 inci maddesinin ikinci fıkrası, 4/11/1981 tarihli ve 2547 sayılı Kanunun 58 inci maddesinin (c) ve (f) fıkraları ve 14/4/1982 tarihli ve 2659 sayılı Kanunun 30 uncu maddesi kapsamında döner sermayeden ek ödeme yapılan personele, 27/7/1967 tarihli ve 926 sayılı Kanunun ek 17 nci maddesinin (Ç) fıkrası uyarınca sağlık hizmetleri tazminatı ödenen personele, 27/10/1999 tarihli ve 4458 sayılı Kanunun 221 inci maddesi, 16/5/2006 tarihli ve 5502 sayılı Kanunun 28 inci maddesinin sekizinci fıkrası ve 663 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesinin dördüncü fıkrası uyarınca ödeme yapılan personele, sözkonusu mevzuat hükümlerine göre ödeme yapılmaya devam olunur ve bunlara bu maddeye göre ayrıca ek ödeme yapılmaz. **(Değişik ikinci cümle: 20/8/2016-6745/76 md.)** Bu fıkra kapsamındaki idarelerin döner sermaye saymanlık hizmetlerini yürüten personele bu fıkrada yer alan mevzuat uyarınca döner sermaye gelirlerinden herhangi bir ad altında ödeme yapılmaz.
 
 Birinci fıkra kapsamına giren personelden; 21/12/1967 tarihli ve 969 sayılı Kanunun 3 üncü maddesinin son fıkrasında öngörülen ödemelerden yararlananlara, birinci fıkraya göre ödeme yapılmaz. Ancak üretimi teşvik primi ödenen personele, ödemenin yapıldığı tarih ile bir sonraki yılda yapılacağı tarih arasındaki dönemde birinci fıkra uyarınca kadro veya pozisyon unvanları için ödenmesi öngörülen ek ödemenin toplam net tutarı, anılan 3 üncü maddeye göre ödenen üretimi teşvik priminin net tutarına ulaştığı tarihten itibaren birinci fıkraya göre ödeme yapılmaya başlanır.
 
@@ -266,11 +266,11 @@ a) Merkez teşkilatlarında Mülki İdare Amirliği Hizmetleri Sınıfına ait k
 
 b) Taşra teşkilatlarına ait kadrolarda bulunup, kadro unvanları ekli (II) sayılı Cetvelde yer alanlardan,
 
-c) (Değişik: 20/8/2016-6745/77 md.) Merkez teşkilatlarında; Dışişleri Meslek Memuru ve Konsolosluk ve İhtisas Memurları, özel yarışma sınavı sonucunda mesleğe yardımcı veya stajyer olarak alınıp belirli süreli yetiştirme döneminden sonra özel bir yeterlik sınavı sonunda müfettiş, uzman, denetçi, kontrolör, aktüer ve stenograf unvanlı kadrolara (mevzuatı uyarınca söz konusu kadrolara atananlar dâhil) atananlar ve bunların yardımcı ve stajyerleri ile iç denetçilerden ekli (III) sayılı Cetvelde yer alan unvanlı kadrolarda bulunanlardan,
+c) **(Değişik: 20/8/2016-6745/77 md.)** Merkez teşkilatlarında; Dışişleri Meslek Memuru ve Konsolosluk ve İhtisas Memurları, özel yarışma sınavı sonucunda mesleğe yardımcı veya stajyer olarak alınıp belirli süreli yetiştirme döneminden sonra özel bir yeterlik sınavı sonunda müfettiş, uzman, denetçi, kontrolör, aktüer ve stenograf unvanlı kadrolara (mevzuatı uyarınca söz konusu kadrolara atananlar dâhil) atananlar ve bunların yardımcı ve stajyerleri ile iç denetçilerden ekli (III) sayılı Cetvelde yer alan unvanlı kadrolarda bulunanlardan,
 
 aylıklarını 657 sayılı Devlet Memurları Kanununa göre almakta olanlara anılan Cetvellerde kadro unvanlarına karşılık gelen gösterge rakamlarının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarlarda ücret ve tazminat verilir. Bu ödemelere hak kazanılmasında ve bunların ödenmesinde aylıklara ilişkin hükümler uygulanır. Ekli (II) ve (III) sayılı Cetvellerde atandıkları kadro dereceleri esas alınarak belirlenen ücret ve tazminatlar, 657 sayılı Kanunun 45 inci maddesine göre atananlar ile haklarında aynı Kanunun 67 nci maddesi uygulananlar için kazanılmış hak aylık dereceleri dikkate alınarak ödenir. Tazminat damga vergisi hariç herhangi bir vergiye tabi tutulmaz.
 
-(Değişik ikinci fıkra: 3/11/2022-7420/41 md.) Bu madde kapsamına giren personele; bu Kanun Hükmünde Kararnamenin 1 inci maddesinin (D) bendi, 2 nci, 28 inci, ek 1 inci, ek 4 üncü ve ek 13 üncü maddeleri hariç olmak üzere diğer maddelerinde öngörülen her türlü ödemeler ile ek 9 uncu maddesinin üçüncü ve dördüncü fıkralarında belirtilen mevzuat hükümlerine göre yapılan ödemeler, 4/6/1937 tarihli ve 3201 sayılı Kanunun ek 21 inci maddesinde öngörülen ödeme, 657 sayılı Kanunda ödenmesi öngörülen aylık, ek gösterge, zam ve tazminatlar, makam tazminatı, temsil tazminatı ve avukatlık vekalet ücreti ödenmez
+**(Değişik ikinci fıkra: 3/11/2022-7420/41 md.)** Bu madde kapsamına giren personele; bu Kanun Hükmünde Kararnamenin 1 inci maddesinin (D) bendi, 2 nci, 28 inci, ek 1 inci, ek 4 üncü ve ek 13 üncü maddeleri hariç olmak üzere diğer maddelerinde öngörülen her türlü ödemeler ile ek 9 uncu maddesinin üçüncü ve dördüncü fıkralarında belirtilen mevzuat hükümlerine göre yapılan ödemeler, 4/6/1937 tarihli ve 3201 sayılı Kanunun ek 21 inci maddesinde öngörülen ödeme, 657 sayılı Kanunda ödenmesi öngörülen aylık, ek gösterge, zam ve tazminatlar, makam tazminatı, temsil tazminatı ve avukatlık vekalet ücreti ödenmez
 
 Ekli (II) sayılı Cetvel kapsamında yer alan kadrolara vekaleten atananlara vekalet görevi nedeniyle birinci fıkrada belirtilen ödemeler yapılmaz. Ekli (II) ve (III) sayılı Cetvellerde yer alan kadrolarda bulunan ve ekli (II) sayılı Cetvel kapsamındaki başka kadrolara veya diğer kadrolara vekaleten atanan personele, birinci fıkrada belirtilen ödemeler dikkate alınmaksızın, 657 sayılı Kanunun 86 ncı maddesi hükümleri çerçevesinde ve 175 inci maddesine göre vekaleten atanılan kadrolar için belirlenmiş olan aylık göstergeleri ve ek göstergeler esas alınarak vekalet aylığı ve anılan Kanunun 152 nci maddesi uyarınca yürürlüğe konulan Cumhurbaşkanı kararının vekalete ilişkin hükümleri uyarınca işgal ettikleri kadrolar ve vekaleten atandıkları kadrolar için belirlenmiş olan zam ve tazminatlarının toplam tutarı esas alınarak zam ve tazminat farkı ödenir.404243
 
@@ -282,25 +282,25 @@ Bu maddenin uygulamasına ilişkin olarak ortaya çıkabilecek tereddütleri gid
 
 Bu maddenin yürürlüğe girdiği tarihten sonra;
 
-a) Cumhurbaşkanlığı Genel Sekreterliği ile Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı kadro ve pozisyonlarına ilk defa veya yeniden atanacak personel için uygulanacak ek gösterge ve makam tazminatları bu Kanun Hükmünde Kararnameye ekli (IV) ve (V) sayılı Cetvellerde belirlenmiştir. (Ek cümle:25/12/2024-7537/16 md.) Ekli (IV) sayılı Cetvelde sayılmayan kadro unvanlarında veya hizmet sınıflarında görev yapanlar hakkında 657 sayılı Kanuna ekli (I) sayılı Cetvelde yer alan ek gösterge rakamları dikkate alınır. Bunların zam ve tazminatları, hizmet sınıfı, kadro unvan ve derecesi dikkate alınmak kaydıyla 657 sayılı Kanunun 152 nci maddesi uyarınca Cumhurbaşkanı kararıyla aynı hizmet sınıfındaki aynı veya benzer unvanlı kadrolar için belirlenen puan ve oranlar aşılmamak kaydıyla ilgisine göre Cumhurbaşkanlığı Genel Sekreterliği ve Türkiye Büyük Millet Meclisi Başkanlık Divanı tarafından belirlenir.48[49][50]
+a) Cumhurbaşkanlığı Genel Sekreterliği ile Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı kadro ve pozisyonlarına ilk defa veya yeniden atanacak personel için uygulanacak ek gösterge ve makam tazminatları bu Kanun Hükmünde Kararnameye ekli (IV) ve (V) sayılı Cetvellerde belirlenmiştir. **(Ek cümle:25/12/2024-7537/16 md.)** Ekli (IV) sayılı Cetvelde sayılmayan kadro unvanlarında veya hizmet sınıflarında görev yapanlar hakkında 657 sayılı Kanuna ekli (I) sayılı Cetvelde yer alan ek gösterge rakamları dikkate alınır. Bunların zam ve tazminatları, hizmet sınıfı, kadro unvan ve derecesi dikkate alınmak kaydıyla 657 sayılı Kanunun 152 nci maddesi uyarınca Cumhurbaşkanı kararıyla aynı hizmet sınıfındaki aynı veya benzer unvanlı kadrolar için belirlenen puan ve oranlar aşılmamak kaydıyla ilgisine göre Cumhurbaşkanlığı Genel Sekreterliği ve Türkiye Büyük Millet Meclisi Başkanlık Divanı tarafından belirlenir.48[49][50]
 
-b) (Değişik: 14/4/2016-6704/30 md.) 5018 sayılı Kanuna ekli (III) sayılı Cetvelde sayılan düzenleyici ve denetleyici kurumlar ile Tasarruf Mevduatı Sigorta Fonunun kadro ve pozisyonlarına 15/1/2012 tarihinden sonra ilk defa veya yeniden atanan kurul başkanı, kurul üyesi ve başkan yardımcısı ile murakıp ve uzman unvanlı meslek personeline, ilgili mevzuatı uyarınca ödenen her türlü maaş, aylık, ücret, ek ücret, prim, zam, tazminat, ikramiye, fazla çalışma ücreti, kâr payı ve her ne ad altında olursa olsun yapılan diğer ödemeler ile sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı; kurul başkanı için bakanlık müsteşarı, kurul üyesi için bakanlık müsteşar yardımcısı, başkan yardımcısı için bakanlık genel müdürü, murakıp ve uzman unvanlı meslek personeli için Başbakanlık uzmanlarına mevzuatında kadrosuna bağlı olarak mali haklar ile sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçemez ve bunlar, emeklilik hakları bakımından da emsali olarak belirlenen personel ile denk kabul edilir.
+b) **(Değişik: 14/4/2016-6704/30 md.)** 5018 sayılı Kanuna ekli (III) sayılı Cetvelde sayılan düzenleyici ve denetleyici kurumlar ile Tasarruf Mevduatı Sigorta Fonunun kadro ve pozisyonlarına 15/1/2012 tarihinden sonra ilk defa veya yeniden atanan kurul başkanı, kurul üyesi ve başkan yardımcısı ile murakıp ve uzman unvanlı meslek personeline, ilgili mevzuatı uyarınca ödenen her türlü maaş, aylık, ücret, ek ücret, prim, zam, tazminat, ikramiye, fazla çalışma ücreti, kâr payı ve her ne ad altında olursa olsun yapılan diğer ödemeler ile sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı; kurul başkanı için bakanlık müsteşarı, kurul üyesi için bakanlık müsteşar yardımcısı, başkan yardımcısı için bakanlık genel müdürü, murakıp ve uzman unvanlı meslek personeli için Başbakanlık uzmanlarına mevzuatında kadrosuna bağlı olarak mali haklar ile sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçemez ve bunlar, emeklilik hakları bakımından da emsali olarak belirlenen personel ile denk kabul edilir.
 
-c) (Değişik: 12/7/2013-6495/73 md.) Türk Akreditasyon Kurumu Genel Sekreterliği, Ulusal Bor Araştırma Enstitüsü Başkanlığı, Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı, Türk Standardları Enstitüsü Başkanlığı, kalkınma ajansları ve Mesleki Yeterlilik Kurumu kadro ve pozisyonlarına ilk defa veya yeniden atanan genel müdür, genel sekreter, genel müdür yardımcısı ve genel sekreter yardımcısı unvanlı personel ile uzman unvanlı meslek personeline, ilgili mevzuatı uyarınca ödenen her türlü maaş, aylık, ücret, ek ücret, prim, zam, tazminat, ikramiye, fazla çalışma ücreti, kâr payı ve her ne ad altında olursa olsun yapılan diğer ödemeler ile sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı; genel müdür ve genel sekreterler için bakanlık genel müdürü, genel müdür yardımcısı ve genel sekreter yardımcıları için bakanlık genel müdür yardımcısı, uzman unvanlı meslek personeli için Başbakanlık uzmanlarına mevzuatında kadrosuna bağlı olarak malî haklar ile sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçemez.
+c) **(Değişik: 12/7/2013-6495/73 md.)** Türk Akreditasyon Kurumu Genel Sekreterliği, Ulusal Bor Araştırma Enstitüsü Başkanlığı, Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı, Türk Standardları Enstitüsü Başkanlığı, kalkınma ajansları ve Mesleki Yeterlilik Kurumu kadro ve pozisyonlarına ilk defa veya yeniden atanan genel müdür, genel sekreter, genel müdür yardımcısı ve genel sekreter yardımcısı unvanlı personel ile uzman unvanlı meslek personeline, ilgili mevzuatı uyarınca ödenen her türlü maaş, aylık, ücret, ek ücret, prim, zam, tazminat, ikramiye, fazla çalışma ücreti, kâr payı ve her ne ad altında olursa olsun yapılan diğer ödemeler ile sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı; genel müdür ve genel sekreterler için bakanlık genel müdürü, genel müdür yardımcısı ve genel sekreter yardımcıları için bakanlık genel müdür yardımcısı, uzman unvanlı meslek personeli için Başbakanlık uzmanlarına mevzuatında kadrosuna bağlı olarak malî haklar ile sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçemez.
 
-ç) (Değişik: 12/7/2013-6495/73 md.) (b) ve (c) bentlerinde yer alan idarelerde istihdam edilen personelden anılan bentlerde emsali belirlenmemiş olan personele, ilgili mevzuatı uyarınca ödenen her türlü maaş, aylık, ücret, ek ücret, prim, zam, tazminat, ikramiye, fazla çalışma ücreti, kâr payı ve her ne ad altında olursa olsun yapılan diğer ödemeler ile sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı, Cumhurbaşkanınca belirlenecek emsali Devlet memuruna ilgili mevzuatında kadrosuna bağlı olarak malî haklar ile sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçemez. Emsal alınacak memur unvanlarının tespitinde, kadro veya pozisyon unvanları ile ifa ettikleri görevler itibarıyla 657 sayılı Kanuna göre girebilecekleri sınıflardaki aynı veya benzer görevlerin aynı veya benzer kadro, unvan veya derecesi dikkate alınır.[51]
+ç) **(Değişik: 12/7/2013-6495/73 md.)** (b) ve (c) bentlerinde yer alan idarelerde istihdam edilen personelden anılan bentlerde emsali belirlenmemiş olan personele, ilgili mevzuatı uyarınca ödenen her türlü maaş, aylık, ücret, ek ücret, prim, zam, tazminat, ikramiye, fazla çalışma ücreti, kâr payı ve her ne ad altında olursa olsun yapılan diğer ödemeler ile sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı, Cumhurbaşkanınca belirlenecek emsali Devlet memuruna ilgili mevzuatında kadrosuna bağlı olarak malî haklar ile sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçemez. Emsal alınacak memur unvanlarının tespitinde, kadro veya pozisyon unvanları ile ifa ettikleri görevler itibarıyla 657 sayılı Kanuna göre girebilecekleri sınıflardaki aynı veya benzer görevlerin aynı veya benzer kadro, unvan veya derecesi dikkate alınır.[51]
 
-d) (Değişik: 12/7/2013-6495/73 md.) Millî Güvenlik Kurulu Genel Sekreterliği kadro ve pozisyonlarına ilk defa veya yeniden atanacak personelin zam ve tazminatları hakkında 657 sayılı Kanunun 152 nci maddesi uyarınca yürürlüğe konulan Bakanlar Kurulu kararı hükümleri uygulanır.
+d) **(Değişik: 12/7/2013-6495/73 md.)** Millî Güvenlik Kurulu Genel Sekreterliği kadro ve pozisyonlarına ilk defa veya yeniden atanacak personelin zam ve tazminatları hakkında 657 sayılı Kanunun 152 nci maddesi uyarınca yürürlüğe konulan Bakanlar Kurulu kararı hükümleri uygulanır.
 
-(Değişik ikinci fıkra: 12/7/2013-6495/73 md.) Diğer mevzuatın bu maddeye aykırı hükümleri uygulanmaz.
+**(Değişik ikinci fıkra: 12/7/2013-6495/73 md.)** Diğer mevzuatın bu maddeye aykırı hükümleri uygulanmaz.
 
 **Ek Madde 12 –** (Ek: 11/10/2011-KHK-666/1 md.)
 
-1) (İptal: Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile.)
+1) **(İptal: Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile.)**
 
 2) (…)[52]
 
-j) (Mülga: 1/12/2011 tarihli ve 6253 sayılı Kanunun 42 nci maddesine istinaden.)
+j) **(Mülga: 1/12/2011 tarihli ve 6253 sayılı Kanunun 42 nci maddesine istinaden.)**
 
 (…)52
 
@@ -314,9 +314,9 @@ c) 9/7/1982 tarihli ve 2690 sayılı Kanunun 12 nci maddesinin üçüncü ve dö
 
 ç) 11/8/1983 tarihli ve 2876 sayılı Kanunun 97 nci maddesinin birinci fıkrasının (c) bendinin (1) numaralı alt bendinin birinci, ikinci ve üçüncü paragrafları,
 
-d) (Mülga: 1/12/2011 tarihli ve 6253 sayılı Kanunun 42 nci maddesine istinaden.)
+d) **(Mülga: 1/12/2011 tarihli ve 6253 sayılı Kanunun 42 nci maddesine istinaden.)**
 
-e) (Mülga: 12/1/2012-6266/1 md.)
+e) **(Mülga: 12/1/2012-6266/1 md.)**
 
 f) 10/10/1984 tarihli ve 3056 sayılı Kanunun 35 inci maddesinin birinci fıkrasında yer alan “, Müsteşar Yardımcısı, Başbakan Başmüşaviri, Başbakan Müşaviri ve Başbakanlık Müşavirleri, Teftiş Kurulu Başkanı, Bakanlar Kurulu Sekreteri, Hukuk Müşaviri, Basın Müşaviri, Genel Müdür ve Genel Müdür Yardımcıları, Başkan ve Yardımcıları, Daire Başkanı ve Yardımcıları ile Uzman, Daire Tabibi, Diş Tabibi, konusuyla ilgili en az 4 yıllık yükseköğrenim görmüş olmak kaydıyla çözümleyici ve programcı, Uzman ve Uzman Yardımcısı” ibaresi ile aynı maddenin ikinci ve üçüncü fıkraları,
 
@@ -440,7 +440,7 @@ Bu madde kapsamındaki personel, kaza kırım olaylarında pilotaj ve diğer ida
 
 İl özel idareleri, belediyeler ile bağlı kuruluşları ve bunların üyesi olduğu mahalli idare birlikleri, personel çalıştırılmasına dayalı hizmetleri 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 22 nci maddesindeki limit ve şartlar ile 62 nci maddesinin birinci fıkrasının (e) bendindeki sınırlamalara tabi olmaksızın doğrudan hizmet alımı suretiyle birlikte ya da ayrı ayrı sermayesinin yarısından fazlası bu idarelere ait ve halen bu kapsamda hizmet alımı yaptığı mevcut şirketlerinden birine, bu nitelikte herhangi bir şirketi bulunmuyorsa münhasıran bu amaçla kuracakları bir şirkete gördürebilir.
 
-(Değişik ikinci fıkra: 25/7/2018-7145/25 md.) Bu madde kapsamındaki şirketlerin koruma ve güvenlik hizmeti alanındaki faaliyetlerinde 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun hükümleri uygulanır. Ancak;
+**(Değişik ikinci fıkra: 25/7/2018-7145/25 md.)** Bu madde kapsamındaki şirketlerin koruma ve güvenlik hizmeti alanındaki faaliyetlerinde 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun hükümleri uygulanır. Ancak;
 
 a) Bu şirketlerin faaliyet alanının münhasıran koruma ve güvenlik hizmeti olması zorunluluğu yoktur. Şirketler bu kapsamdaki faaliyetlerini ayrı bir bölüm hâlinde yürütür.
 
@@ -452,7 +452,7 @@ c) Bu şirketler 5188 sayılı Kanunun 24 üncü maddesinde belirtilen ruhsat ha
 
 Bu madde kapsamındaki şirketlerde işçilerin işe alımı, işçilere ilişkin personel giderlerinin toplam giderler içindeki payına ilişkin üst sınırları, ilk defa alınacak işçilere ilişkin belirlenecek ölçütleri esas alarak yıllık sınırlamaları ve bu kapsamdaki alımlar ile harcamaları izlemeye ilişkin usul ve esasları belirlemeye Cumhurbaşkanı yetkilidir.[57]
 
-**Ek Madde 21 –** (Ek: 20/11/2017-KHK-696/126 md.; Aynen kabul: 1/2/2018-7079/117 md.)57 (İptal: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)
+**Ek Madde 21 –** (Ek: 20/11/2017-KHK-696/126 md.; Aynen kabul: 1/2/2018-7079/117 md.)57 **(İptal: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)**
 
 **Ek Madde 22 –** (Ek: 29/3/2018-7104/17 md.)
 
@@ -630,33 +630,33 @@ Bu maddenin uygulanmasında ortaya çıkabilecek tereddütleri gidermeye Cumhurb
 
 **Ek Madde 34 –** (Ek: 2/7/2018 – KHK-703/178 md.)
 
-(Değişik birinci fıkra:8/5/2025-7547/27 md.) En yüksek Devlet memuru olan Cumhurbaşkanlığı Genel Sekreterine mülga mevzuat hükümlerinde Başbakanlık Müsteşarı; Cumhurbaşkanlığındaki daire başkanlarına bakanlık daire başkanları (ana ve yardımcı hizmet birimi) için kadrolarına bağlı olarak öngörülmüş mali ve sosyal hak ve yardımlar kapsamındaki ödemeler aynı usul ve esaslar çerçevesinde yapılır ve emeklilik hakları bakımından da aynı hükümler esas alınır. İlgili mevzuatta mali ve sosyal hak ve yardımlar ile emeklilik hakları bakımından Başbakanlık Müsteşarına ve en yüksek Devlet memuruna yapılan atıflar Cumhurbaşkanlığı Genel Sekreterine yapılmış sayılır.
+**(Değişik birinci fıkra:8/5/2025-7547/27 md.)** En yüksek Devlet memuru olan Cumhurbaşkanlığı Genel Sekreterine mülga mevzuat hükümlerinde Başbakanlık Müsteşarı; Cumhurbaşkanlığındaki daire başkanlarına bakanlık daire başkanları (ana ve yardımcı hizmet birimi) için kadrolarına bağlı olarak öngörülmüş mali ve sosyal hak ve yardımlar kapsamındaki ödemeler aynı usul ve esaslar çerçevesinde yapılır ve emeklilik hakları bakımından da aynı hükümler esas alınır. İlgili mevzuatta mali ve sosyal hak ve yardımlar ile emeklilik hakları bakımından Başbakanlık Müsteşarına ve en yüksek Devlet memuruna yapılan atıflar Cumhurbaşkanlığı Genel Sekreterine yapılmış sayılır.
 
-(Ek fıkra: 1/7/2022-7417/22 md.) Cumhurbaşkanlığı Genel Sekreteri kadrosunda bulunanların ek göstergesi 400 puan ilave edilmek suretiyle uygulanır. Bu ilave puan en yüksek Devlet memuru aylığı veya diğer herhangi bir mali ve sosyal hakkın hesabında dikkate alınmaz. Diğer kanunların bu fıkraya aykırı hükümleri uygulanmaz.[58]
+**(Ek fıkra: 1/7/2022-7417/22 md.)** Cumhurbaşkanlığı Genel Sekreteri kadrosunda bulunanların ek göstergesi 400 puan ilave edilmek suretiyle uygulanır. Bu ilave puan en yüksek Devlet memuru aylığı veya diğer herhangi bir mali ve sosyal hakkın hesabında dikkate alınmaz. Diğer kanunların bu fıkraya aykırı hükümleri uygulanmaz.[58]
 
-(Değişik üçüncü fıkra:8/5/2025-7547/27 md.) İlgili mevzuatında yer alan hükümler saklı kalmak üzere Strateji ve Bütçe Başkanı ile Siber Güvenlik Başkanına, bakanlık müsteşarı için kadrosuna bağlı olarak mevzuatta öngörülen mali ve sosyal hak ve yardımlar kapsamındaki ödemeler, aynı usul ve esaslar çerçevesinde yapılır ve emeklilik hakları bakımından da aynı hükümler esas alınır.
+**(Değişik üçüncü fıkra:8/5/2025-7547/27 md.)** İlgili mevzuatında yer alan hükümler saklı kalmak üzere Strateji ve Bütçe Başkanı ile Siber Güvenlik Başkanına, bakanlık müsteşarı için kadrosuna bağlı olarak mevzuatta öngörülen mali ve sosyal hak ve yardımlar kapsamındaki ödemeler, aynı usul ve esaslar çerçevesinde yapılır ve emeklilik hakları bakımından da aynı hükümler esas alınır.
 
-(Değişik dördüncü fıkra:8/5/2025-7547/27 md.) Devlet Arşivleri Başkanı ve Milli Saraylar İdaresi Başkanına Türkiye İstatistik Kurumu Başkanı; Strateji ve Bütçe Başkan Yardımcılarına ve Siber Güvenlik Başkan Yardımcılarına bakanlık genel müdürü; İletişim Başkan Yardımcıları, Devlet Arşivleri Başkan Yardımcıları ve Milli Saraylar İdaresi Başkan Yardımcılarına Türkiye İstatistik Kurumu Başkan Yardımcısı için ilgili mevzuatta kadrolarına bağlı olarak öngörülen mali ve sosyal hak ve yardımlar kapsamındaki ödemeler aynı usul ve esaslar çerçevesinde yapılır ve emeklilik hakları bakımından da aynı hükümler esas alınır.[59]
+**(Değişik dördüncü fıkra:8/5/2025-7547/27 md.)** Devlet Arşivleri Başkanı ve Milli Saraylar İdaresi Başkanına Türkiye İstatistik Kurumu Başkanı; Strateji ve Bütçe Başkan Yardımcılarına ve Siber Güvenlik Başkan Yardımcılarına bakanlık genel müdürü; İletişim Başkan Yardımcıları, Devlet Arşivleri Başkan Yardımcıları ve Milli Saraylar İdaresi Başkan Yardımcılarına Türkiye İstatistik Kurumu Başkan Yardımcısı için ilgili mevzuatta kadrolarına bağlı olarak öngörülen mali ve sosyal hak ve yardımlar kapsamındaki ödemeler aynı usul ve esaslar çerçevesinde yapılır ve emeklilik hakları bakımından da aynı hükümler esas alınır.[59]
 
 **Ek Madde 35 –** (Ek: 2/7/2018 – KHK-703/178 md.)
 
-(Değişik birinci fıkra:8/5/2025-7547/28 md.) Üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atanabilmek için Cumhurbaşkanlığı kararnamesinde belirtilen şartları taşımak gerekir.
+**(Değişik birinci fıkra:8/5/2025-7547/28 md.)** Üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atanabilmek için Cumhurbaşkanlığı kararnamesinde belirtilen şartları taşımak gerekir.
 
-(Değişik ikinci fıkra:8/5/2025-7547/28 md.) Üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atanacaklar için aranan hizmet süresinin hesabında, dört yıllık yükseköğrenim gördükten sonra kamu kurum ve kuruluşlarında, sosyal güvenlik kurumlarına tabi olmak kaydıyla uluslararası kuruluşlar ile özel sektörde veya serbest olarak fiilen çalışılan sürelerin tamamı dikkate alınır.
+**(Değişik ikinci fıkra:8/5/2025-7547/28 md.)** Üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atanacaklar için aranan hizmet süresinin hesabında, dört yıllık yükseköğrenim gördükten sonra kamu kurum ve kuruluşlarında, sosyal güvenlik kurumlarına tabi olmak kaydıyla uluslararası kuruluşlar ile özel sektörde veya serbest olarak fiilen çalışılan sürelerin tamamı dikkate alınır.
 
-(Değişik üçüncü fıkra:8/5/2025-7547/28 md.) Üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine, Cumhurbaşkanlığı kararnamesinde yer alan şartları taşımak kaydıyla 657 sayılı Kanunun atanma, sınavlar, kademe ilerlemesi ve derece yükselmesine ilişkin hükümleriyle bağlı olmaksızın atama yapılabilir. Ancak bu şekilde atanmış olmak, kamu kurum ve kuruluşlarındaki diğer herhangi bir kadro, pozisyon ve göreve atanma veya kamuda herhangi bir statüde çalışma açısından kazanılmış hak teşkil etmez. Dokuzuncu fıkranın ilgili hükmü saklı kalmak kaydıyla, bu fıkraya göre açıktan atananlardan görevi sona erenlerin veya görevden alınanların memuriyetle ilişikleri kesilir.
+**(Değişik üçüncü fıkra:8/5/2025-7547/28 md.)** Üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine, Cumhurbaşkanlığı kararnamesinde yer alan şartları taşımak kaydıyla 657 sayılı Kanunun atanma, sınavlar, kademe ilerlemesi ve derece yükselmesine ilişkin hükümleriyle bağlı olmaksızın atama yapılabilir. Ancak bu şekilde atanmış olmak, kamu kurum ve kuruluşlarındaki diğer herhangi bir kadro, pozisyon ve göreve atanma veya kamuda herhangi bir statüde çalışma açısından kazanılmış hak teşkil etmez. Dokuzuncu fıkranın ilgili hükmü saklı kalmak kaydıyla, bu fıkraya göre açıktan atananlardan görevi sona erenlerin veya görevden alınanların memuriyetle ilişikleri kesilir.
 
-(Değişik dördüncü fıkra:8/5/2025-7547/28 md.) Cumhurbaşkanınca süreli atanan üst kademe kamu yöneticileri, ilgili kanunlarda öngörülen görevden alma gerekçeleri yanında kurumsal hedeflere ulaşılamaması nedeniyle de süreleri tamamlanmadan görevlerinden alınabilirler.
+**(Değişik dördüncü fıkra:8/5/2025-7547/28 md.)** Cumhurbaşkanınca süreli atanan üst kademe kamu yöneticileri, ilgili kanunlarda öngörülen görevden alma gerekçeleri yanında kurumsal hedeflere ulaşılamaması nedeniyle de süreleri tamamlanmadan görevlerinden alınabilirler.
 
-(Değişik beşinci fıkra:25/12/2024-7537/17 md.) Ek gösterge bakımından bakanlık genel müdürü dengi ve daha yüksek tespit edilen kadro, pozisyon ve görevler (…)[60] hariç, üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atananlar hakkında üçüncü fıkra hükümleri uygulanmaz.
+**(Değişik beşinci fıkra:25/12/2024-7537/17 md.)** Ek gösterge bakımından bakanlık genel müdürü dengi ve daha yüksek tespit edilen kadro, pozisyon ve görevler (…)[60] hariç, üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atananlar hakkında üçüncü fıkra hükümleri uygulanmaz.
 
-(Değişik altıncı fıkra:8/5/2025-7547/28 md.) Üçüncü fıkra uyarınca atananlar, atandıkları kadro veya pozisyonlar için ilgili mevzuatında öngörülen mali ve sosyal hak ve yardımlardan, 657 sayılı Kanunun kademe ilerlemesi ve derece yükselmesine ilişkin hükümleriyle bağlı olmaksızın, aynı usul ve esaslar dâhilinde yararlanırlar. Bu suretle üst dereceli kadrolara atananların bu kadrolarda geçirdikleri her yıl kademe ilerlemesi ve her üç yıl derece yükselmesi sayılmak suretiyle kazanılmış hak aylık derecelerinin yükselmesinde dikkate alınır. Ancak atandıkları kadro dereceleri, başka görevlere atanma hâlinde kazanılmış hak sayılmaz.
+**(Değişik altıncı fıkra:8/5/2025-7547/28 md.)** Üçüncü fıkra uyarınca atananlar, atandıkları kadro veya pozisyonlar için ilgili mevzuatında öngörülen mali ve sosyal hak ve yardımlardan, 657 sayılı Kanunun kademe ilerlemesi ve derece yükselmesine ilişkin hükümleriyle bağlı olmaksızın, aynı usul ve esaslar dâhilinde yararlanırlar. Bu suretle üst dereceli kadrolara atananların bu kadrolarda geçirdikleri her yıl kademe ilerlemesi ve her üç yıl derece yükselmesi sayılmak suretiyle kazanılmış hak aylık derecelerinin yükselmesinde dikkate alınır. Ancak atandıkları kadro dereceleri, başka görevlere atanma hâlinde kazanılmış hak sayılmaz.
 
-(Değişik yedinci fıkra:8/5/2025-7547/28 md.) Üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atananlar, atandıkları kadro, pozisyon ve görevlerde 657 sayılı Kanunun ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın sözleşmeli olarak da çalıştırılabilir. Sözleşme taban ve tavan ücretleri; kurum ve kuruluşlar, unvanlar, yapılan hizmetin güçlüğü, sorumluluğu ve riskleri, iş yoğunluğu, çalışma şartları, hizmet yerinin sosyo-ekonomik durumu ve coğrafi özellikleri ile hizmete ve hizmet yerine ilişkin olarak, aynı kadro, pozisyon ve görevlerde bulunmakta olan emsallerine; emsalinin bulunmaması durumunda da benzer kadro, pozisyon ve görevlerde bulunanlara göre farklılıkları ayrı ayrı veya birlikte dikkate alınarak Cumhurbaşkanı tarafından belirlenir. Sözleşme ücreti, taban ve tavan ücretleri aralığında sözleşme imzalamakla yetkili kılınan makam tarafından belirlenir.
+**(Değişik yedinci fıkra:8/5/2025-7547/28 md.)** Üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atananlar, atandıkları kadro, pozisyon ve görevlerde 657 sayılı Kanunun ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın sözleşmeli olarak da çalıştırılabilir. Sözleşme taban ve tavan ücretleri; kurum ve kuruluşlar, unvanlar, yapılan hizmetin güçlüğü, sorumluluğu ve riskleri, iş yoğunluğu, çalışma şartları, hizmet yerinin sosyo-ekonomik durumu ve coğrafi özellikleri ile hizmete ve hizmet yerine ilişkin olarak, aynı kadro, pozisyon ve görevlerde bulunmakta olan emsallerine; emsalinin bulunmaması durumunda da benzer kadro, pozisyon ve görevlerde bulunanlara göre farklılıkları ayrı ayrı veya birlikte dikkate alınarak Cumhurbaşkanı tarafından belirlenir. Sözleşme ücreti, taban ve tavan ücretleri aralığında sözleşme imzalamakla yetkili kılınan makam tarafından belirlenir.
 
-(Değişik sekizinci fıkra:8/5/2025-7547/28 md.) Kamu görevlisi olmayanlar arasından üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atananlardan görevleri sona eren veya görevden alınanlara tazminat ödenip ödenmemesi ve tazminat miktarı ile buna ilişkin diğer hususlar Cumhurbaşkanınca belirlenir.
+**(Değişik sekizinci fıkra:8/5/2025-7547/28 md.)** Kamu görevlisi olmayanlar arasından üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atananlardan görevleri sona eren veya görevden alınanlara tazminat ödenip ödenmemesi ve tazminat miktarı ile buna ilişkin diğer hususlar Cumhurbaşkanınca belirlenir.
 
-(Değişik dokuzuncu fıkra: 18/6/2020-7247/18 md.) Kamu görevlileri arasından üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atananlardan;[61]
+**(Değişik dokuzuncu fıkra: 18/6/2020-7247/18 md.)** Kamu görevlileri arasından üst kademe kamu yöneticisi kadro, pozisyon ve görevlerine atananlardan;[61]
 
 a) Ek göstergesi bakanlık genel müdürü dengi ve daha yüksek tespit edilen üst kademe kamu yöneticisi kadro, pozisyon ve görevlerinden alınanlar veya görevleri sona erenler, Cumhurbaşkanlığına bağlı, ilgili, ilişkili kurum ve kuruluşlarda müşavir veya danışman kadro veya pozisyonlarına ya da bakanlıkların merkez teşkilatlarında bakanlık müşaviri unvanlı kadrolara,
 
@@ -664,19 +664,19 @@ b) İl valilerinden veya il valiliği yapmış olanlardan görevden alınanlar, 
 
 c) (a) ve (b) bentleri dışında kalanlardan görevlerinden alınanlar veya görevleri sona erenler;
 
-1) (Değişik: 1/7/2022-7417/58 md.) Daha önce 657 sayılı Kanunun 36 ncı maddesinin “Ortak Hükümler” bölümünün (A) fıkrasının (11) numaralı bendinde sayılan merkez teşkilatına ait kadrolar ile mesleğe alınmaları, yetiştirilmeleri ve yeterlikleri aynı veya benzer nitelik arz eden merkez teşkilatına ait kadro veya pozisyonlarda bulunanlar daha önceki bu kadro veya pozisyonlarına,
+1) **(Değişik: 1/7/2022-7417/58 md.)** Daha önce 657 sayılı Kanunun 36 ncı maddesinin “Ortak Hükümler” bölümünün (A) fıkrasının (11) numaralı bendinde sayılan merkez teşkilatına ait kadrolar ile mesleğe alınmaları, yetiştirilmeleri ve yeterlikleri aynı veya benzer nitelik arz eden merkez teşkilatına ait kadro veya pozisyonlarda bulunanlar daha önceki bu kadro veya pozisyonlarına,
 
-2) (Değişik: 27/12/2023-7491/77 md.) (1) numaralı alt bent kapsamında yer almayanlar, bu bent kapsamındaki kadro, pozisyon ve görevlerde toplam en az üç yıl görev yapmış olmaları halinde görevden alındığı veya görevinin sona erdiği kuruma ait idari uzman unvanlı kadro veya pozisyonlara,
+2) **(Değişik: 27/12/2023-7491/77 md.)** (1) numaralı alt bent kapsamında yer almayanlar, bu bent kapsamındaki kadro, pozisyon ve görevlerde toplam en az üç yıl görev yapmış olmaları halinde görevden alındığı veya görevinin sona erdiği kuruma ait idari uzman unvanlı kadro veya pozisyonlara,
 
-3) (Değişik: 1/7/2022-7417/58 md.) (1) ve (2) numaralı alt bentler kapsamına girmeyenler görevden alındığı veya görevinin sona erdiği kuruma ait merkez veya taşra teşkilatındaki araştırmacı unvanlı kadro veya pozisyonlara,
+3) **(Değişik: 1/7/2022-7417/58 md.)** (1) ve (2) numaralı alt bentler kapsamına girmeyenler görevden alındığı veya görevinin sona erdiği kuruma ait merkez veya taşra teşkilatındaki araştırmacı unvanlı kadro veya pozisyonlara,
 
-Cumhurbaşkanınca veya bakanlarca ya da atamaya yetkili amirlerce atanırlar. Atama yapılıncaya kadar bunların görev yaptıkları kadro, pozisyon veya görevlere ilişkin almakta oldukları her türlü ödemeler, görev yaptıkları kurum tarafından verilmeye devam edilir. (Değişik üçüncü cümle:25/12/2024-7537/17 md.) Bu madde ile mülga ek 18 inci, ek 37 nci ve geçici 33 üncü maddeler kapsamında bakanlık müşaviri, müşavir, danışman, idari uzman ve araştırmacı kadro ve pozisyonlarına atananların öncelikle bulundukları kurumda veya ihtiyaç duyan kamu kurum ve kuruluşları ile kanunla kurulan dernek ve vakıflarda talepleri üzerine görevlendirilmeleri ile bunların bu kapsamda yürüteceği izleme, değerlendirme, araştırma, rehberlik, proje ve eğitim gibi görev ve hizmetler ile buna dair uygulamanın izlenmesine ve yönlendirilmesine dair usul ve esaslar Cumhurbaşkanlığınca belirlenir. (a) ve (c) bentlerine göre atananlardan bir ay içinde talepte bulunanlar, atamaya yetkili amirler tarafından yönetici kadro veya pozisyonları dışındaki daha önce bulundukları veya öğrenim durumları itibarıyla ihraz etmiş oldukları unvanlara ilişkin kadro veya pozisyonlara atanırlar. (a) ve (c) bentlerine göre veya bu fıkraya göre talep üzerine atananlardan (a) ve (c) bentlerindeki yönetici kadro, pozisyon veya görevlerinde kesintisiz olarak en az iki yıl fiilen görev yapmış olanların malî hakları, atandıkları söz konusu kadro veya pozisyonlarda bulunmaları kaydıyla, atandıkları tarihi takip eden ay başından itibaren ikinci yılın sonuna kadar, fiili çalışmaya bağlı ödemeler hariç bakanlık genel müdürüne yapılan ödemeleri geçmemek üzere önceki görevine ait ödeme unsurları esas alınarak verilmeye devam edilir. (a) ve (c) bentleri ve bu fıkranın münhasıran bu bentlere bağlı hükümleri; hâkim ve savcılar, 926 sayılı Kanuna tabi personel, Dışişleri meslek memurları, mülki idare amirliği hizmetleri sınıfı, millî istihbarat hizmetleri sınıfı, emniyet hizmetleri sınıfı, jandarma hizmetleri sınıfı, sahil güvenlik hizmetleri sınıfı kapsamına giren yönetici kadrolarında bulunanlar hakkında uygulanmaz. (b) bendine göre atananların mali hakları, atandıkları kadroda bulunmaları kaydıyla fiili çalışmaya bağlı ödemeler hariç il valisine ait ödeme unsurları esas alınarak verilmeye devam edilir. Talep üzerine olanlar da dâhil bu fıkraya göre atananların kadro veya pozisyonları başka bir işleme gerek kalmaksızın ihdas edilmiş ve kurumların kadro veya pozisyon cetvellerinin ilgili bölümlerine eklenmiş sayılır. İhdas edilmiş sayılan kadro ve pozisyonlar herhangi bir şekilde boşalmalarını müteakiben, başkaca bir işleme gerek kalmaksızın iptal edilmiş ve kadro ve pozisyonlara ilişkin mevzuatın eki cetvellerin ilgili kurumlara ait bölümlerinden çıkarılmış sayılır. (a) bendi kapsamında atama yapılan müşavir veya danışman kadro veya pozisyonları mali ve sosyal hak ve yardımlar ile diğer özlük hakları bakımından bakanlık müşaviri kadrosuna denktir; bakanlık müşavirlerine yapılan ödemelerden vergi ve diğer yasal kesintilere tabi olmayanlar, bu maddeye göre de vergi ve diğer kesintilere tabi olmaz; bunlar emeklilik hakları bakımından da bakanlık müşavirine denk kabul edilir. (a) ve (c) bentlerinin kapsamının tespitinde; mali ve/veya emeklilik hakları denk veya emsal unvanla belirlenmiş yönetici kadro, pozisyon ve görevleri için bu şekilde belirlenmiş denk veya emsal unvanın ek gösterge rakamları dikkate alınır ve mali hakları ile emeklilik hakları için farklı ek gösterge rakamları belirlenmiş olması halinde bunlardan yüksek olanı esas alınır. Açıktan atandığı (a) bendi kapsamındaki yönetici kadro, pozisyon veya görevlerinden alınan veya görevleri sona erenler hakkında, bir ay içinde talepte bulunmaları halinde, sekizinci fıkraya göre ödeme yapılmamak kaydıyla (a) bendi uygulanabilir. Talepleri neticelendirilinceye kadar bunların görev yaptıkları kadro, pozisyon veya görevlere ilişkin almakta oldukları her türlü ödemeler görev yaptıkları kurum tarafından verilmeye devam edilir. Bunlardan talepleri uygun görülmeyenlerin memuriyetle ilişikleri kesilir. (Ek cümle: 1/7/2022-7417/58 md.) Açıktan atanan bakan yardımcılarından görevden alınan veya görevleri sona erenler hakkında sekizinci fıkraya göre ödeme yapılmamak kaydıyla (a) bendi, atama hakkından feragat edenler hakkında ise sekizinci fıkra hükümleri uygulanır. (a) bendine göre atanmak suretiyle memuriyete girenlerin, atanmalarına esas görevlerinde ve kamu kurum ve kuruluşlarının kadro veya pozisyonlarında geçirdikleri hizmet süreleri kazanılmış hak aylık derece ve kademeleri ile kıdeme bağlı haklarında değerlendirilir. Bunlara önceki statülerinin sona ermiş olmasından dolayı kıdem tazminatı veya iş sonu tazminatı ya da benzer nitelikte başkaca bir tazminat ödenmez ve bu tazminatlara esas süreleri sonraki hizmetlerine göre hak kazanacakları emekli ikramiyesi, iş sonu tazminatı veya kıdem tazminatı ya da benzer nitelikteki tazminatların hesabında dikkate alınır. Bunlardan bu fıkranın dördüncü cümlesine göre talep üzerine kamu kurum ve kuruluşlarının memuriyet dışındaki statülerine atananlar için de anılan hizmet ve kıdem değerlendirmesi kıyasen yapılır. (Mülga ondokuzuncu cümle:8/5/2025-7547/28 md.) (Ek cümle: 27/12/2023-7491/77 md.) Bu fıkranın (a) ve (c) bentlerine göre yapılacak atamalar ve ödemelere ilişkin sürelerin hesabında ek 37 nci madde kapsamına giren kadro, pozisyon ve görevlerde geçirilen süreler de aynı usul ve esaslar çerçevesinde dikkate alınır. (Ek cümle:25/12/2024-7537/17 md.) Bu fıkranın üçüncü cümlesi hükümlerinin, 1/12/2011 tarihli ve 6253 sayılı Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Kanununun 29 uncu maddesinin onikinci fıkrası, geçici 2 nci maddesinin birinci fıkrası ve geçici 15 inci maddesi kapsamında ilgili kadrolara atananlar veya atanmış sayılanlar ile 703 sayılı Kanun Hükmünde Kararnamenin 221 inci maddesinin ilgili hükümleri kapsamında Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatında müşavir unvanlı kadrolara atananlar hakkında uygulanmasına ilişkin usul ve esasları belirlemeye Türkiye Büyük Millet Meclisi Başkanlık Divanı yetkilidir.[62][63]
+Cumhurbaşkanınca veya bakanlarca ya da atamaya yetkili amirlerce atanırlar. Atama yapılıncaya kadar bunların görev yaptıkları kadro, pozisyon veya görevlere ilişkin almakta oldukları her türlü ödemeler, görev yaptıkları kurum tarafından verilmeye devam edilir. **(Değişik üçüncü cümle:25/12/2024-7537/17 md.)** Bu madde ile mülga ek 18 inci, ek 37 nci ve geçici 33 üncü maddeler kapsamında bakanlık müşaviri, müşavir, danışman, idari uzman ve araştırmacı kadro ve pozisyonlarına atananların öncelikle bulundukları kurumda veya ihtiyaç duyan kamu kurum ve kuruluşları ile kanunla kurulan dernek ve vakıflarda talepleri üzerine görevlendirilmeleri ile bunların bu kapsamda yürüteceği izleme, değerlendirme, araştırma, rehberlik, proje ve eğitim gibi görev ve hizmetler ile buna dair uygulamanın izlenmesine ve yönlendirilmesine dair usul ve esaslar Cumhurbaşkanlığınca belirlenir. (a) ve (c) bentlerine göre atananlardan bir ay içinde talepte bulunanlar, atamaya yetkili amirler tarafından yönetici kadro veya pozisyonları dışındaki daha önce bulundukları veya öğrenim durumları itibarıyla ihraz etmiş oldukları unvanlara ilişkin kadro veya pozisyonlara atanırlar. (a) ve (c) bentlerine göre veya bu fıkraya göre talep üzerine atananlardan (a) ve (c) bentlerindeki yönetici kadro, pozisyon veya görevlerinde kesintisiz olarak en az iki yıl fiilen görev yapmış olanların malî hakları, atandıkları söz konusu kadro veya pozisyonlarda bulunmaları kaydıyla, atandıkları tarihi takip eden ay başından itibaren ikinci yılın sonuna kadar, fiili çalışmaya bağlı ödemeler hariç bakanlık genel müdürüne yapılan ödemeleri geçmemek üzere önceki görevine ait ödeme unsurları esas alınarak verilmeye devam edilir. (a) ve (c) bentleri ve bu fıkranın münhasıran bu bentlere bağlı hükümleri; hâkim ve savcılar, 926 sayılı Kanuna tabi personel, Dışişleri meslek memurları, mülki idare amirliği hizmetleri sınıfı, millî istihbarat hizmetleri sınıfı, emniyet hizmetleri sınıfı, jandarma hizmetleri sınıfı, sahil güvenlik hizmetleri sınıfı kapsamına giren yönetici kadrolarında bulunanlar hakkında uygulanmaz. (b) bendine göre atananların mali hakları, atandıkları kadroda bulunmaları kaydıyla fiili çalışmaya bağlı ödemeler hariç il valisine ait ödeme unsurları esas alınarak verilmeye devam edilir. Talep üzerine olanlar da dâhil bu fıkraya göre atananların kadro veya pozisyonları başka bir işleme gerek kalmaksızın ihdas edilmiş ve kurumların kadro veya pozisyon cetvellerinin ilgili bölümlerine eklenmiş sayılır. İhdas edilmiş sayılan kadro ve pozisyonlar herhangi bir şekilde boşalmalarını müteakiben, başkaca bir işleme gerek kalmaksızın iptal edilmiş ve kadro ve pozisyonlara ilişkin mevzuatın eki cetvellerin ilgili kurumlara ait bölümlerinden çıkarılmış sayılır. (a) bendi kapsamında atama yapılan müşavir veya danışman kadro veya pozisyonları mali ve sosyal hak ve yardımlar ile diğer özlük hakları bakımından bakanlık müşaviri kadrosuna denktir; bakanlık müşavirlerine yapılan ödemelerden vergi ve diğer yasal kesintilere tabi olmayanlar, bu maddeye göre de vergi ve diğer kesintilere tabi olmaz; bunlar emeklilik hakları bakımından da bakanlık müşavirine denk kabul edilir. (a) ve (c) bentlerinin kapsamının tespitinde; mali ve/veya emeklilik hakları denk veya emsal unvanla belirlenmiş yönetici kadro, pozisyon ve görevleri için bu şekilde belirlenmiş denk veya emsal unvanın ek gösterge rakamları dikkate alınır ve mali hakları ile emeklilik hakları için farklı ek gösterge rakamları belirlenmiş olması halinde bunlardan yüksek olanı esas alınır. Açıktan atandığı (a) bendi kapsamındaki yönetici kadro, pozisyon veya görevlerinden alınan veya görevleri sona erenler hakkında, bir ay içinde talepte bulunmaları halinde, sekizinci fıkraya göre ödeme yapılmamak kaydıyla (a) bendi uygulanabilir. Talepleri neticelendirilinceye kadar bunların görev yaptıkları kadro, pozisyon veya görevlere ilişkin almakta oldukları her türlü ödemeler görev yaptıkları kurum tarafından verilmeye devam edilir. Bunlardan talepleri uygun görülmeyenlerin memuriyetle ilişikleri kesilir. **(Ek cümle: 1/7/2022-7417/58 md.)** Açıktan atanan bakan yardımcılarından görevden alınan veya görevleri sona erenler hakkında sekizinci fıkraya göre ödeme yapılmamak kaydıyla (a) bendi, atama hakkından feragat edenler hakkında ise sekizinci fıkra hükümleri uygulanır. (a) bendine göre atanmak suretiyle memuriyete girenlerin, atanmalarına esas görevlerinde ve kamu kurum ve kuruluşlarının kadro veya pozisyonlarında geçirdikleri hizmet süreleri kazanılmış hak aylık derece ve kademeleri ile kıdeme bağlı haklarında değerlendirilir. Bunlara önceki statülerinin sona ermiş olmasından dolayı kıdem tazminatı veya iş sonu tazminatı ya da benzer nitelikte başkaca bir tazminat ödenmez ve bu tazminatlara esas süreleri sonraki hizmetlerine göre hak kazanacakları emekli ikramiyesi, iş sonu tazminatı veya kıdem tazminatı ya da benzer nitelikteki tazminatların hesabında dikkate alınır. Bunlardan bu fıkranın dördüncü cümlesine göre talep üzerine kamu kurum ve kuruluşlarının memuriyet dışındaki statülerine atananlar için de anılan hizmet ve kıdem değerlendirmesi kıyasen yapılır. **(Mülga ondokuzuncu cümle:8/5/2025-7547/28 md.) (Ek cümle: 27/12/2023-7491/77 md.)** Bu fıkranın (a) ve (c) bentlerine göre yapılacak atamalar ve ödemelere ilişkin sürelerin hesabında ek 37 nci madde kapsamına giren kadro, pozisyon ve görevlerde geçirilen süreler de aynı usul ve esaslar çerçevesinde dikkate alınır. **(Ek cümle:25/12/2024-7537/17 md.)** Bu fıkranın üçüncü cümlesi hükümlerinin, 1/12/2011 tarihli ve 6253 sayılı Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Kanununun 29 uncu maddesinin onikinci fıkrası, geçici 2 nci maddesinin birinci fıkrası ve geçici 15 inci maddesi kapsamında ilgili kadrolara atananlar veya atanmış sayılanlar ile 703 sayılı Kanun Hükmünde Kararnamenin 221 inci maddesinin ilgili hükümleri kapsamında Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatında müşavir unvanlı kadrolara atananlar hakkında uygulanmasına ilişkin usul ve esasları belirlemeye Türkiye Büyük Millet Meclisi Başkanlık Divanı yetkilidir.[62][63]
 
-(Değişik onuncu fıkra:8/5/2025-7547/28 md.) Bu maddede belirtilen üst kademe kamu yöneticiliğine atananların, görev sürelerinin sona erdiği veya görevden alındıkları tarihte emeklilik aylığı bağlanmasına hak kazanmış olmaları şartıyla, dokuzuncu fıkrada belirtilen kadro veya pozisyonlara atanmak yerine yaş haddini beklemeksizin emekli olmaları durumunda, emeklilik ikramiyeleri hizmet süreleri dikkate alınarak yüzde elli fazlasına kadar ödenebilir. Bu oran Cumhurbaşkanınca artırılabilir. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.
+**(Değişik onuncu fıkra:8/5/2025-7547/28 md.)** Bu maddede belirtilen üst kademe kamu yöneticiliğine atananların, görev sürelerinin sona erdiği veya görevden alındıkları tarihte emeklilik aylığı bağlanmasına hak kazanmış olmaları şartıyla, dokuzuncu fıkrada belirtilen kadro veya pozisyonlara atanmak yerine yaş haddini beklemeksizin emekli olmaları durumunda, emeklilik ikramiyeleri hizmet süreleri dikkate alınarak yüzde elli fazlasına kadar ödenebilir. Bu oran Cumhurbaşkanınca artırılabilir. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.
 
-(Değişik onbirinci fıkra:8/5/2025-7547/28 md.) Bu madde hükümleri, atanma şartlarını kaybetme, ceza kovuşturması veya disiplin soruşturması sonucunda görevden alınanlar hakkında uygulanmaz.
+**(Değişik onbirinci fıkra:8/5/2025-7547/28 md.)** Bu madde hükümleri, atanma şartlarını kaybetme, ceza kovuşturması veya disiplin soruşturması sonucunda görevden alınanlar hakkında uygulanmaz.
 
-(Ek fıkra: 27/12/2023-7491/77 md.) Bu maddenin uygulanmasında ortaya çıkabilecek tereddütleri gidermeye ve uygulamayı yönlendirmeye Cumhurbaşkanlığı yetkilidir.
+**(Ek fıkra: 27/12/2023-7491/77 md.)** Bu maddenin uygulanmasında ortaya çıkabilecek tereddütleri gidermeye ve uygulamayı yönlendirmeye Cumhurbaşkanlığı yetkilidir.
 
 **Ek Madde 36 –** (Ek: 2/7/2018 – KHK-703/178 md.) (Değişik:8/5/2025-7547/29 md.)
 
@@ -708,11 +708,11 @@ Bu madde ve ek 35 inci madde hükümleri kapsamında 657 sayılı Kanunun 36 nc�
 
 Sosyal Güvenlik İl Müdürü ile (…)[65] Türkiye İş Kurumunda il müdürü kadrosunda bulunanlardan görevden alınan veya görevleri sona erenler hakkında da mülga ek 18 inci maddenin (c) bendi ve bu bende bağlı hükümleri uygulanır.[66][67]
 
-(Ek fıkra: 27/12/2023-7491/78 md.) 5018 sayılı Kanuna ekli (III) sayılı Cetvelde sayılan düzenleyici ve denetleyici kurumlar ve Tasarruf Mevduatı Sigorta Fonunda, ek göstergesi bakanlık genel müdürü dengi ve üzeri olup ek 35 inci madde kapsamına girmeyen yönetici kadro veya pozisyonlarında bulunanlar hakkında da mülga ek 18 inci maddenin birinci fıkrasının (b) bendi ve bu bende bağlı hükümleri, bunların atamalarının kurumlarının ilişkili olduğu bakanlık kadrolarına yapılması suretiyle uygulanır.
+**(Ek fıkra: 27/12/2023-7491/78 md.)** 5018 sayılı Kanuna ekli (III) sayılı Cetvelde sayılan düzenleyici ve denetleyici kurumlar ve Tasarruf Mevduatı Sigorta Fonunda, ek göstergesi bakanlık genel müdürü dengi ve üzeri olup ek 35 inci madde kapsamına girmeyen yönetici kadro veya pozisyonlarında bulunanlar hakkında da mülga ek 18 inci maddenin birinci fıkrasının (b) bendi ve bu bende bağlı hükümleri, bunların atamalarının kurumlarının ilişkili olduğu bakanlık kadrolarına yapılması suretiyle uygulanır.
 
-(Ek fıkra: 27/12/2023-7491/78 md.) Mülga ek 18 inci maddenin birinci fıkrasının (c) bendinin (2) numaralı alt bendi ile dördüncü fıkra kapsamına girenler hakkında anılan alt bent hükümleri, bunların kurumların idari uzman unvanlı kadro veya pozisyonlarına atanması suretiyle uygulanır.
+**(Ek fıkra: 27/12/2023-7491/78 md.)** Mülga ek 18 inci maddenin birinci fıkrasının (c) bendinin (2) numaralı alt bendi ile dördüncü fıkra kapsamına girenler hakkında anılan alt bent hükümleri, bunların kurumların idari uzman unvanlı kadro veya pozisyonlarına atanması suretiyle uygulanır.
 
-(Ek fıkra: 27/12/2023-7491/78 md.) Bu madde ile ek 35 inci madde kapsamında atama yapılan idari uzman unvanlı kadro ve pozisyonlar mali ve sosyal hak ve yardımlar ile diğer özlük hakları bakımından ek 10 uncu madde kapsamına dahil idarelerin merkez teşkilatlarına ait mali hizmetler uzmanı unvanlı kadroya denktir.
+**(Ek fıkra: 27/12/2023-7491/78 md.)** Bu madde ile ek 35 inci madde kapsamında atama yapılan idari uzman unvanlı kadro ve pozisyonlar mali ve sosyal hak ve yardımlar ile diğer özlük hakları bakımından ek 10 uncu madde kapsamına dahil idarelerin merkez teşkilatlarına ait mali hizmetler uzmanı unvanlı kadroya denktir.
 
 Bu maddenin uygulanmasında ortaya çıkabilecek tereddütleri gidermeye Cumhurbaşkanlığı yetkilidir.
 
@@ -742,7 +742,7 @@ eklenmesi suretiyle uygulanır.
 
 Cumhurbaşkanlığı Genel Sekreterine 16.000 gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda ek tazminat ödenir. Bu ödemeden damga vergisi hariç herhangi bir vergi ve kesinti yapılmaz. Bu tazminat, ilgili mevzuatı uyarınca en yüksek Devlet memurunun mali ve sosyal hakları esas alınmak suretiyle tespit edilen aylık, ikramiye, her türlü mali ve sosyal hak ile başka bir ödeme veya ücret tavanının hesaplanmasında ya da her ne ad altında olursa olsun ödenmekte olan aylık, zam, tazminat, ücret ve benzeri ödemelerin hesabında dikkate alınmaz. Diğer kanunların bu fıkraya aykırı hükümleri uygulanmaz.[68]
 
-(Ek fıkra: 27/12/2023-7491/79 md.) Bu maddenin uygulanmasında ortaya çıkabilecek tereddütleri gidermeye ve uygulamayı yönlendirmeye Cumhurbaşkanlığı yetkilidir.
+**(Ek fıkra: 27/12/2023-7491/79 md.)** Bu maddenin uygulanmasında ortaya çıkabilecek tereddütleri gidermeye ve uygulamayı yönlendirmeye Cumhurbaşkanlığı yetkilidir.
 
 **Ek Madde 39 –** (Ek: 5/4/2023-7447/17 md.)
 
@@ -838,9 +838,9 @@ c) Geçici 16 ncı maddesi kapsamında yer alan personelin mali ve sosyal haklar
 
 ilişkin bu maddenin yayımı tarihinde mevcut karar, onay veya diğer mevzuatı uyarınca yapılmış bulunan belirlemelerde (sözleşme ücreti artışları hariç) herhangi bir değişiklik yapılamaz ve yeni bir unsur eklenemez.
 
-(Ek fıkra: 1/7/2022-7417/23 md.) Birinci fıkranın (a) bendi kapsamındaki kurumlarda görev yapmış olmaları nedeniyle ek gösterge rakamları ek 11 inci maddenin yürürlük tarihinden önce yürürlükte bulunan mevzuat hükümleri uyarınca belirlenenlerden bu fıkranın yürürlüğe girdiği tarih itibarıyla halen çalışmaya devam edenler ile bu fıkranın yürürlük tarihinden önce söz konusu ek gösterge rakamları üzerinden kendilerine veya vefatları nedeniyle hak sahiplerine aylık bağlananlar hakkında bu fıkrayı ihdas eden Kanunla 5434 sayılı Kanunun mülga ek 70 inci maddesinde yapılan değişiklik öncesindeki hükümlere göre yararlanmış oldukları oranların uygulanmasına devam edilir ve bunlar daha yüksek olması halinde, bu fıkrayı ihdas eden Kanun ile ek 11 inci madde uyarınca emsali olarak belirlenen personele ait ek gösterge rakamlarında yapılan değişiklikten yararlandırılır.
+**(Ek fıkra: 1/7/2022-7417/23 md.)** Birinci fıkranın (a) bendi kapsamındaki kurumlarda görev yapmış olmaları nedeniyle ek gösterge rakamları ek 11 inci maddenin yürürlük tarihinden önce yürürlükte bulunan mevzuat hükümleri uyarınca belirlenenlerden bu fıkranın yürürlüğe girdiği tarih itibarıyla halen çalışmaya devam edenler ile bu fıkranın yürürlük tarihinden önce söz konusu ek gösterge rakamları üzerinden kendilerine veya vefatları nedeniyle hak sahiplerine aylık bağlananlar hakkında bu fıkrayı ihdas eden Kanunla 5434 sayılı Kanunun mülga ek 70 inci maddesinde yapılan değişiklik öncesindeki hükümlere göre yararlanmış oldukları oranların uygulanmasına devam edilir ve bunlar daha yüksek olması halinde, bu fıkrayı ihdas eden Kanun ile ek 11 inci madde uyarınca emsali olarak belirlenen personele ait ek gösterge rakamlarında yapılan değişiklikten yararlandırılır.
 
-(Ek fıkra: 27/12/2023-7491/80 md.) Birinci fıkranın (a) bendi kapsamındaki kurumlarda görev yapan ve mali haklarının belirlenmesinde ek 11 inci maddenin yürürlük tarihinden önce yürürlükte bulunan mevzuat hükümleri esas alınanlara fiilen yapılması öngörülen her türlü ödemeler toplamı net tutarının, herhangi bir nedenle ek 11 inci maddeye göre ödenmesi öngörülen her türlü ödemeler toplamı net tutarına eşit duruma geldiği veya daha düşük kaldığı tarihten itibaren bunların mali hakları ek 11 inci maddeye göre belirlenir.
+**(Ek fıkra: 27/12/2023-7491/80 md.)** Birinci fıkranın (a) bendi kapsamındaki kurumlarda görev yapan ve mali haklarının belirlenmesinde ek 11 inci maddenin yürürlük tarihinden önce yürürlükte bulunan mevzuat hükümleri esas alınanlara fiilen yapılması öngörülen her türlü ödemeler toplamı net tutarının, herhangi bir nedenle ek 11 inci maddeye göre ödenmesi öngörülen her türlü ödemeler toplamı net tutarına eşit duruma geldiği veya daha düşük kaldığı tarihten itibaren bunların mali hakları ek 11 inci maddeye göre belirlenir.
 
 **Geçici Madde 11 –** (Değişik: 20/2/2014-6525/41 md.)
 
@@ -860,17 +860,17 @@ Ek 12 nci maddeyle yürürlükten kaldırılan hükümler uyarınca ikramiye öd
 
 **Geçici Madde 14 –** (Ek: 11/10/2011-KHK-666/2 md.)[71][72]
 
-Cumhurbaşkanlığı Genel Sekreterliği, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı ve Milli Güvenlik Kurulu Genel Sekreterliğine ait kadro veya pozisyonlarda bu maddenin yürürlüğe girdiği tarihte istihdam edilen personelin (Türkiye Büyük Millet Meclisinde çalışanlar hariç, İçişleri Bakanlığınca tahsis edilen polis kuvvetine mensup personel ile mevzuatı uyarınca görevlendirilmiş personel dahil) mali ve sosyal hakları hakkında bu maddenin yürürlüğe girdiği tarihten önce yürürlükte bulunan mevzuat hükümlerinin, geçici 10 uncu madde hükümleri dikkate alınmak suretiyle anılan kurumlarda istihdam edildikleri sürece uygulanmasına devam olunur. (Ek cümle: 1/12/2011-6253/41 md.) Geçici 12 ve geçici 16 ncı madde hükümleri bu madde kapsamındaki personel hakkında uygulanmaz.[73]
+Cumhurbaşkanlığı Genel Sekreterliği, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı ve Milli Güvenlik Kurulu Genel Sekreterliğine ait kadro veya pozisyonlarda bu maddenin yürürlüğe girdiği tarihte istihdam edilen personelin (Türkiye Büyük Millet Meclisinde çalışanlar hariç, İçişleri Bakanlığınca tahsis edilen polis kuvvetine mensup personel ile mevzuatı uyarınca görevlendirilmiş personel dahil) mali ve sosyal hakları hakkında bu maddenin yürürlüğe girdiği tarihten önce yürürlükte bulunan mevzuat hükümlerinin, geçici 10 uncu madde hükümleri dikkate alınmak suretiyle anılan kurumlarda istihdam edildikleri sürece uygulanmasına devam olunur. **(Ek cümle: 1/12/2011-6253/41 md.)** Geçici 12 ve geçici 16 ncı madde hükümleri bu madde kapsamındaki personel hakkında uygulanmaz.[73]
 
-(Ek fıkra: 1/12/2011-6253/41 md.) Bu madde kapsamına giren personelden kadro unvanları (II) ve (III) sayılı cetvelde yer alanların, uygulanmasına devam olunan mevzuat hükümlerine göre mali haklar kapsamında fiilen yapılması öngörülen her türlü ödemeler toplamı net tutarının, herhangi bir nedenle ek 10 uncu maddeye göre ödenmesi öngörülen ücret ve tazminat toplamı net tutarına eşit duruma geldiği veya daha düşük kaldığı tarihten itibaren bunların mali hakları ek 10 uncu maddeye göre belirlenir.
+**(Ek fıkra: 1/12/2011-6253/41 md.)** Bu madde kapsamına giren personelden kadro unvanları (II) ve (III) sayılı cetvelde yer alanların, uygulanmasına devam olunan mevzuat hükümlerine göre mali haklar kapsamında fiilen yapılması öngörülen her türlü ödemeler toplamı net tutarının, herhangi bir nedenle ek 10 uncu maddeye göre ödenmesi öngörülen ücret ve tazminat toplamı net tutarına eşit duruma geldiği veya daha düşük kaldığı tarihten itibaren bunların mali hakları ek 10 uncu maddeye göre belirlenir.
 
-(Ek fıkra: 1/12/2011-6253/41 md.) Bu madde kapsamına giren personelden (II) ve (III) sayılı cetvellerde kadro unvanları sayılmayanların, uygulanmasına devam olunan mevzuat hükümlerine göre mali haklar kapsamında fiilen yapılması öngörülen her türlü ödemeler toplamı net tutarının, herhangi bir nedenle ek 9 uncu madde uyarınca ek ödeme yapılan emsali personel için kadrosuna bağlı olarak yapılan fiili ödemeler net tutarıyla eşit duruma geldiği veya daha düşük kaldığı tarihten itibaren bunlar, ek 9 uncu madde uyarınca yapılan ek ödemeden aradaki fark tutarı kadar yararlandırılırlar.
+**(Ek fıkra: 1/12/2011-6253/41 md.)** Bu madde kapsamına giren personelden (II) ve (III) sayılı cetvellerde kadro unvanları sayılmayanların, uygulanmasına devam olunan mevzuat hükümlerine göre mali haklar kapsamında fiilen yapılması öngörülen her türlü ödemeler toplamı net tutarının, herhangi bir nedenle ek 9 uncu madde uyarınca ek ödeme yapılan emsali personel için kadrosuna bağlı olarak yapılan fiili ödemeler net tutarıyla eşit duruma geldiği veya daha düşük kaldığı tarihten itibaren bunlar, ek 9 uncu madde uyarınca yapılan ek ödemeden aradaki fark tutarı kadar yararlandırılırlar.
 
 **Geçici Madde 15 –** (Ek: 11/10/2011-KHK-666/2 md.)
 
 a) Ek 12 nci maddenin ikinci fıkrasıyla 31/12/2011 tarihi itibarıyla yürürlükten kaldırılan; 633 sayılı Kanunun 13 üncü maddesinin son fıkrası, 6831 sayılı Kanunun 71 inci maddesinin son fıkrası, 213 sayılı Kanunun ek 13 üncü maddesinin dördüncü fıkrasının (b), (c) ve (d) bentleri, 3402 sayılı Kanunun geçici 9 uncu maddesi, 3717 sayılı Kanunun 2/A maddesi, 3843 sayılı Kanunun 12 nci maddesinin birinci ve ikinci fıkraları, 4904 sayılı Kanunun 15 inci maddesinin yedinci fıkrası, 5003 sayılı Kanunun 6 ncı maddesinin ikinci, üçüncü ve dördüncü fıkraları, 5490 sayılı Kanunun 66 ncı maddesi, 5502 sayılı Kanunun 28 inci maddesinin beşinci fıkrası ve 6085 sayılı Kanunun 63 üncü maddesinin sekizinci fıkrasında yer alan hükümlerin uygulanmasına 31/12/2012 tarihine kadar devam olunur. Bu süre içinde 6831 sayılı Kanunun 71 inci maddesine göre Orman Genel Müdürlüğü merkez teşkilatı personeli için öngörülen fazla çalışma ücretinin yarısı ödenir. Ek 10 uncu madde kapsamında ödeme yapılanlara bu ödemeler yapılmaz.
 
-b) (Değişik: 12/7/2013-6495/73 md.) Ek 12 nci maddenin ikinci fıkrasıyla 31/12/2011 tarihi itibarıyla yürürlükten kaldırılan 5952 sayılı Kanunun 12 nci maddesinin üçüncü fıkrası ile 6114 sayılı Kanunun 6 ncı maddesinin sekizinci fıkrasının ikinci ve üçüncü cümlelerinde yer alan hükümlerin, ek 12 nci maddenin ikinci fıkrasının yürürlüğe girdiği tarihte anılan hükümler uyarınca yapılan ödemelerden yararlanan personel bakımından uygulanmasına 31/12/2014 tarihine kadar devam edilir.
+b) **(Değişik: 12/7/2013-6495/73 md.)** Ek 12 nci maddenin ikinci fıkrasıyla 31/12/2011 tarihi itibarıyla yürürlükten kaldırılan 5952 sayılı Kanunun 12 nci maddesinin üçüncü fıkrası ile 6114 sayılı Kanunun 6 ncı maddesinin sekizinci fıkrasının ikinci ve üçüncü cümlelerinde yer alan hükümlerin, ek 12 nci maddenin ikinci fıkrasının yürürlüğe girdiği tarihte anılan hükümler uyarınca yapılan ödemelerden yararlanan personel bakımından uygulanmasına 31/12/2014 tarihine kadar devam edilir.
 
 **Geçici Madde 16 –** (Ek: 11/10/2011-KHK-666/2 md.)[74]
 
@@ -910,9 +910,9 @@ a) 657 sayılı Kanunun 48 inci maddesinin (A) bendinin (1), (4), (5), (6), (7) 
 
 b) Herhangi bir sosyal güvenlik kurumundan emeklilik, yaşlılık veya malullük aylığı almaya hak kazanmamış olmak,
 
-c) (İptal bent: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)
+c) **(İptal bent: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)**
 
-ç) (İptal bent: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)
+ç) **(İptal bent: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)**
 
 kaydıyla, bu fıkranın yürürlüğe girdiği tarihten itibaren on gün içinde idaresinin hizmet alım sözleşmesinin yapıldığı birimine, sürekli işçi kadrolarında istihdam edilmek üzere yazılı olarak başvurabilirler. Başvuranların şartları taşıyıp taşımadıklarının tespiti, bu tespite itirazların karara bağlanması, şartları taşıyanların idarelerince belirlenen usul ve esaslara göre yapılacak yazılı ve/veya sözlü ya da uygulamalı sınava alınması, sınav sonuçlarına itirazların karara bağlanması ve sınavda başarılı olanların kadroya geçirilmesine ilişkin süreç bu fıkranın yürürlüğe girdiği tarihten itibaren doksan gün içinde idarelerince sonuçlandırılır. Sınavlarda başarılı olanlar, varsa bu fıkranın (c) bendinde öngörülen davalardan feragat ettiklerini tevsik eden belgeyi ve/veya icra takibine konu alacaktan feragat ettiğine dair icra müdürlüğünden alınacak belgeyi ibraz etmek, bu fıkranın (ç) bendinde öngörülen sulh sözleşmesini ibraz etmek ve öngörülen şartları taşımaya devam etmek kaydıyla, sınav sonuçlarının kesinleşmesini müteakip, her bir sözleşme itibarıyla, yüklenicinin hakedişlerinin ödendiği bütçe, teşkilat ve birim/yerleşim yeri adına vize edilmiş sayılan sürekli işçi kadrolarına idarelerince topluca geçirilir. Bu fıkra kapsamında feragat edilen davalara veya takiplere ilişkin yargılama ve takip giderleri davacı veya takip eden üzerinde bırakılır ve taraflar lehine vekalet ücretine hükmolunmaz, hükmedilenler tahsil edilmez ve bu fıkranın yürürlüğe girdiği tarihe kadar tahsil edilenler ise iade edilmez. Bu fıkra kapsamında yapılacak sulh sözleşmelerinden damga vergisi alınmaz.
 
@@ -922,7 +922,7 @@ Birinci fıkradaki personel çalıştırılmasına dayalı hizmet alım sözleş
 
 Sürekli işçi kadrolarına geçirileceklerin kadroları, başka bir işleme gerek kalmaksızın geçiş işleminin yapıldığı tarih itibarıyla sürekli işçi unvanı ile ihdas edilmiş sayılır. İhdas edilen kadrolar ilgili idarelerce adedi, bütçe ve teşkilatı ile birimi/yerleşim yeri belirtilmek suretiyle geçiş işlemlerinin yapıldığı tarihten itibaren iki ay içinde Devlet Personel Başkanlığı ve Maliye Bakanlığına bildirilir. Sözleşmeleri askıya alınanlar ile askerde bulunanların kadroları hariç olmak üzere bu şekilde ihdas edilen sürekli işçi kadroları, herhangi bir sebeple boşalması halinde hiçbir işleme gerek kalmaksızın iptal edilmiş sayılır.
 
-Sürekli işçi kadrolarına geçirilenler, birinci fıkrada öngörülen şartları taşıdıkları sürece ve çalıştırıldıkları teşkilat ve birimde geçiş işlemi yapılmadan önceki ihale sözleşmesi kapsamındaki hizmetleri yürütmek üzere istihdam edilebilir. (Mülga cümle: 1/3/2023-7438/2 md.) Özel güvenlik görevlilerinden bu madde kapsamında geçiş işlemleri yapılanlar, 5188 sayılı Kanun hükümlerine de tabi olmaya devam eder.[76]
+Sürekli işçi kadrolarına geçirilenler, birinci fıkrada öngörülen şartları taşıdıkları sürece ve çalıştırıldıkları teşkilat ve birimde geçiş işlemi yapılmadan önceki ihale sözleşmesi kapsamındaki hizmetleri yürütmek üzere istihdam edilebilir. **(Mülga cümle: 1/3/2023-7438/2 md.)** Özel güvenlik görevlilerinden bu madde kapsamında geçiş işlemleri yapılanlar, 5188 sayılı Kanun hükümlerine de tabi olmaya devam eder.[76]
 
 Sürekli işçi kadrolarına geçirilenlerden, geçiş işlemi yapılırken mevcut işyerinin girdiği işkolunda kurulu işyerinden bildirilenlerin ücreti ile diğer mali ve sosyal hakları, bu madde kapsamındaki idarelerde geçişten önce alt işveren işçilerini kapsayan, Yüksek Hakem Kurulu tarafından karara bağlanan ve süresi en son sona erecek toplu iş sözleşmesinin bitimine kadar bu toplu iş sözleşmesinin uygulanması suretiyle oluşan ücret ile diğer mali ve sosyal haklardan fazla olamaz. Sürekli işçi kadrolarına geçirilenlerden; geçişten önce toplu iş sözleşmesi bulunmadığından kadroya geçirildiği tarihte yürürlükte olan bireysel iş sözleşmesi hükümlerinin geçerli olduğu işçiler ile geçiş işleminden önce yapılan ve geçişten sonra yararlanmaya devam ettiği toplu iş sözleşmesi bulunmakla birlikte bu madde kapsamındaki idarelerde alt işveren işçilerini kapsayan, Yüksek Hakem Kurulu tarafından karara bağlanan ve süresi en son sona erecek toplu iş sözleşmesinin bitiminden önce toplu iş sözleşmesi sona eren işçilerin ücreti ile diğer mali ve sosyal hakları, bu madde kapsamındaki idarelerde geçişten önce alt işveren işçilerini kapsayan, Yüksek Hakem Kurulu tarafından karara bağlanan ve süresi en son sona erecek toplu iş sözleşmesine göre belirlenir. Bu madde kapsamındaki idarelerde; 6356 sayılı Kanunun geçici 7 nci maddesinde belirtilen mevcut işyerleri bakımından anılan Kanuna uygun olarak yetki başvurusunda bulunulabilir, ancak geçişi yapılan işçiler için yeni tescil edilen işyerlerinde, geçişten önce alt işveren işçilerini kapsayan, Yüksek Hakem Kurulu tarafından karara bağlanan ve süresi en son sona erecek toplu iş sözleşmesinin sona erme tarihinden sonra yetki başvurusunda bulunulabilir.
 
@@ -974,11 +974,11 @@ a) 657 sayılı Kanunun 48 inci maddesinin (A) bendinin (1), (4), (5), (6), (7) 
 
 b) Herhangi bir sosyal güvenlik kurumundan emeklilik, yaşlılık veya malullük aylığı almaya hak kazanmamış olmak,
 
-c) (İptal bent: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)
+c) **(İptal bent: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)**
 
-ç) (İptal bent: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)
+ç) **(İptal bent: Anayasa Mahkemesinin 27/12/2023 tarihli ve E: 2018/96, K: 2023/222 sayılı Kararı ile)**
 
-kaydıyla bu maddenin yürürlüğe girdiği tarihten itibaren on gün içinde hizmet alım sözleşmesini yapan idareye veya şirkete, ek 20 nci madde kapsamındaki şirketlerinde işçi statüsünde çalıştırılmak üzere yazılı olarak başvurabilirler. Başvuranların şartları taşıyıp taşımadıklarının tespiti, bu tespite itirazların karara bağlanması, şartları taşıyanların belirlenen usul ve esaslara göre yapılacak yazılı ve/veya sözlü ya da uygulamalı sınava alınması, sınav sonuçlarına itirazların karara bağlanması ve sınavda başarılı olanların işçi statüsüne geçirilmesine ilişkin süreç bu maddenin yürürlüğe girdiği tarihten itibaren doksan gün içinde sonuçlandırılır. Sınavlarda başarılı olanlar, varsa bu fıkranın (c) bendinde öngörülen davalardan feragat ettiklerini tevsik eden belgeyi ve/veya icra takibine konu alacaktan feragat ettiğine dair icra müdürlüğünden alınacak belgeyi ibraz etmek, bu fıkranın (ç) bendinde öngörülen sulh sözleşmesini ibraz etmek ve aynı fıkrada öngörülen şartları taşımaya devam etmek kaydıyla, sınav sonuçlarının kesinleşmesini müteakip, ek 20 nci madde kapsamındaki şirketlerinde işçi statüsünde topluca işe başlatılır. (Mülga cümle: 1/3/2023-7438/2 md.) Bu fıkra kapsamında feragat edilen davalara veya takiplere ilişkin yargılama ve takip giderleri davacı veya takip eden üzerinde bırakılır ve taraflar lehine vekalet ücretine hükmolunmaz, hükmedilenler tahsil edilmez ve bu maddenin yürürlüğe girdiği tarihe kadar tahsil edilenler ise iade edilmez. Bu fıkra kapsamında yapılacak sulh sözleşmelerinden damga vergisi alınmaz.
+kaydıyla bu maddenin yürürlüğe girdiği tarihten itibaren on gün içinde hizmet alım sözleşmesini yapan idareye veya şirkete, ek 20 nci madde kapsamındaki şirketlerinde işçi statüsünde çalıştırılmak üzere yazılı olarak başvurabilirler. Başvuranların şartları taşıyıp taşımadıklarının tespiti, bu tespite itirazların karara bağlanması, şartları taşıyanların belirlenen usul ve esaslara göre yapılacak yazılı ve/veya sözlü ya da uygulamalı sınava alınması, sınav sonuçlarına itirazların karara bağlanması ve sınavda başarılı olanların işçi statüsüne geçirilmesine ilişkin süreç bu maddenin yürürlüğe girdiği tarihten itibaren doksan gün içinde sonuçlandırılır. Sınavlarda başarılı olanlar, varsa bu fıkranın (c) bendinde öngörülen davalardan feragat ettiklerini tevsik eden belgeyi ve/veya icra takibine konu alacaktan feragat ettiğine dair icra müdürlüğünden alınacak belgeyi ibraz etmek, bu fıkranın (ç) bendinde öngörülen sulh sözleşmesini ibraz etmek ve aynı fıkrada öngörülen şartları taşımaya devam etmek kaydıyla, sınav sonuçlarının kesinleşmesini müteakip, ek 20 nci madde kapsamındaki şirketlerinde işçi statüsünde topluca işe başlatılır. **(Mülga cümle: 1/3/2023-7438/2 md.)** Bu fıkra kapsamında feragat edilen davalara veya takiplere ilişkin yargılama ve takip giderleri davacı veya takip eden üzerinde bırakılır ve taraflar lehine vekalet ücretine hükmolunmaz, hükmedilenler tahsil edilmez ve bu maddenin yürürlüğe girdiği tarihe kadar tahsil edilenler ise iade edilmez. Bu fıkra kapsamında yapılacak sulh sözleşmelerinden damga vergisi alınmaz.
 
 Geçici 23 üncü maddenin ikinci, üçüncü, yedinci, sekizinci, dokuzuncu, onuncu, onikinci ve onaltıncı fıkraları hükümleri bu madde kapsamında yer alanlar hakkında da kıyasen uygulanır.
 
@@ -1000,13 +1000,13 @@ Geçici 23 üncü ve geçici 24 üncü maddeler kapsamına giren hususlara iliş
 
 **Geçici Madde 26 –** (Ek: 2/7/2018 – KHK-703/179 md.)
 
-(İptal birinci fıkra: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile.)
+**(İptal birinci fıkra: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile.)**
 
 Bu maddenin yürürlüğe girdiği tarihte kamu kurum ve kuruluşlarında 10/5/2018 tarihli ve 7142 sayılı 6771 sayılı Kanunla Türkiye Cumhuriyeti Anayasasında Yapılan Değişikliklere Uyum Sağlanması Amacıyla Çeşitli Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Konusunda Yetki Kanununa göre çıkarılan kanun hükmünde kararnamelerle yürürlükten kaldırılan hükümlere dayanarak idari hizmet sözleşmesine ya da iş mevzuatına tabi uzman yardımcısı olarak istihdam olunanların uzmanlık kadro veya pozisyonlarına atanmaları, bu maddenin yürürlüğe girdiği tarihten önce tabi oldukları mevzuat hükümlerine göre sonuçlandırılır.
 
 **Geçici Madde 27 –** (Ek: 2/7/2018 – KHK-703/179 md.)
 
-(İptal birinci fıkra: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile.)
+**(İptal birinci fıkra: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile.)**
 
 Bu maddenin yürürlüğe girdiği tarihte kamu kurum ve kuruluşlarında 10/5/2018 tarihli ve 7142 sayılı 6771 sayılı Kanunla Türkiye Cumhuriyeti Anayasasında Yapılan Değişikliklere Uyum Sağlanması Amacıyla Çeşitli Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Konusunda Yetki Kanununa göre çıkarılan kanun hükmünde kararnamelerle yürürlükten kaldırılan hükümlere dayanarak müfettiş yardımcısı, denetmen yardımcısı, denetçi yardımcısı, aktüer yardımcısı ve stajyer kontrolör olarak istihdam olunanların müfettiş, denetmen, denetçi, kontrolör, aktüerler kadro veya pozisyonlarına atanmaları, yabancı dil şartı hariç olmak üzere bu maddenin yürürlüğe girdiği tarihten önce tabi oldukları mevzuat hükümlerine göre sonuçlandırılır.[77]
 
@@ -1050,11 +1050,11 @@ Bu maddenin uygulanması, geçmişe yönelik herhangi bir ödeme yapılmasını 
 
 **Geçici Madde 35 –** (Ek: 25/7/2018-7145/26 md.)
 
-A) Bu maddenin yürürlüğe girdiği tarihten itibaren dört yıl süreyle; terör örgütlerine veya (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) iltisakı yahut bunlarla irtibatı olduğu değerlendirilen Anayasa Mahkemesi üyeleri hakkında Anayasa Mahkemesi Genel Kurulunun salt çoğunluğunca; Yargıtay daire başkanı ve üyeleri hakkında Yargıtay Birinci Başkanlık Kurulunca; Danıştay daire başkanı ve üyeleri hakkında Danıştay Başkanlık Kurulunca; hâkim ve savcılar hakkında Hâkimler ve Savcılar Kurulu Genel Kurulunca, askeri hâkimler hakkında Milli Savunma Bakanının başkanlığında, Milli Savunma Bakanı tarafından birinci sınıf askeri hâkimler arasından seçilecek iki askeri hâkimden oluşan komisyonca ve Sayıştay meslek mensupları hakkında Sayıştay Başkanının başkanlığında, başkan yardımcıları ile Sayıştay Başkanı tarafından belirlenecek bir daire başkanı ve bir üyeden oluşan komisyonca meslekte kalmalarının uygun olmadığına ve meslekten çıkarılmalarına karar verilir. (İptal ikinci ve üçüncü cümle: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) Bu kişiler hakkında alınan kararlar on beş gün içinde Devlet Personel Başkanlığına bildirilir. (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) görevlerine son verilenlerin silah ruhsatları ve pasaportları iptal edilir ve bu kişiler oturdukları kamu konutlarından veya vakıf lojmanlarından on beş gün içinde tahliye edilir.[78]
+A) Bu maddenin yürürlüğe girdiği tarihten itibaren dört yıl süreyle; terör örgütlerine veya **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** iltisakı yahut bunlarla irtibatı olduğu değerlendirilen Anayasa Mahkemesi üyeleri hakkında Anayasa Mahkemesi Genel Kurulunun salt çoğunluğunca; Yargıtay daire başkanı ve üyeleri hakkında Yargıtay Birinci Başkanlık Kurulunca; Danıştay daire başkanı ve üyeleri hakkında Danıştay Başkanlık Kurulunca; hâkim ve savcılar hakkında Hâkimler ve Savcılar Kurulu Genel Kurulunca, askeri hâkimler hakkında Milli Savunma Bakanının başkanlığında, Milli Savunma Bakanı tarafından birinci sınıf askeri hâkimler arasından seçilecek iki askeri hâkimden oluşan komisyonca ve Sayıştay meslek mensupları hakkında Sayıştay Başkanının başkanlığında, başkan yardımcıları ile Sayıştay Başkanı tarafından belirlenecek bir daire başkanı ve bir üyeden oluşan komisyonca meslekte kalmalarının uygun olmadığına ve meslekten çıkarılmalarına karar verilir. **(İptal ikinci ve üçüncü cümle: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** Bu kişiler hakkında alınan kararlar on beş gün içinde Devlet Personel Başkanlığına bildirilir. **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** görevlerine son verilenlerin silah ruhsatları ve pasaportları iptal edilir ve bu kişiler oturdukları kamu konutlarından veya vakıf lojmanlarından on beş gün içinde tahliye edilir.[78]
 
 Bu fıkranın birinci paragrafı uyarınca görevine son verilenler hakkında bu maddenin (B) fıkrasının ikinci paragrafı hükümleri uygulanır. Ayrıca askeri hâkimlerin askeri rütbeleri, mahkûmiyet kararı aranmaksızın alınır.
 
-B) Bu maddenin yürürlüğe girdiği tarihten itibaren dört yıl süreyle; terör örgütlerine veya (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) iltisakı yahut bunlarla irtibatı olduğu değerlendirilen;[79]
+B) Bu maddenin yürürlüğe girdiği tarihten itibaren dört yıl süreyle; terör örgütlerine veya **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** iltisakı yahut bunlarla irtibatı olduğu değerlendirilen;[79]
 
 1) 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununa tabi personel Milli Savunma Bakanının onayı ile kamu görevinden çıkarılır.
 
@@ -1080,27 +1080,27 @@ Bu fıkranın birinci paragrafı uyarınca görevine son verilenler bir daha kam
 
 Bu fıkraya göre görevlerine son verilenlerin silah ruhsatları, gemi adamlığına ilişkin belgeleri ve pilot lisansları iptal edilir ve bu kişiler oturdukları kamu konutlarından veya vakıf lojmanlarından on beş gün içinde tahliye edilir. Bu kişiler özel güvenlik şirketlerinin kurucusu, ortağı ve çalışanı olamaz.
 
-Bu fıkrada öngörülen usuller uyarınca, terör örgütlerine veya (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) iltisakı yahut bunlarla irtibatı olduğu değerlendirilerek idari işlem tesis edilmek suretiyle kamu görevinden çıkarılanların itirazları üzerine yapılacak değerlendirme sonucunda görevlerine iadesine ilişkin işlemler aynı usullerle yapılır. Bu kapsamda görevine iade edilenlere kamu görevinden çıkarıldıkları tarihten göreve başladıkları tarihe kadar geçen süreye tekabül eden mali ve sosyal hakları ödenir. (İptal üçüncü ve dördüncü cümle: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)
+Bu fıkrada öngörülen usuller uyarınca, terör örgütlerine veya **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** iltisakı yahut bunlarla irtibatı olduğu değerlendirilerek idari işlem tesis edilmek suretiyle kamu görevinden çıkarılanların itirazları üzerine yapılacak değerlendirme sonucunda görevlerine iadesine ilişkin işlemler aynı usullerle yapılır. Bu kapsamda görevine iade edilenlere kamu görevinden çıkarıldıkları tarihten göreve başladıkları tarihe kadar geçen süreye tekabül eden mali ve sosyal hakları ödenir. **(İptal üçüncü ve dördüncü cümle: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)**
 
-C) (İptal fıkra: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)
+C) **(İptal fıkra: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)**
 
-Ç) (İptal fıkra: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)
+Ç) **(İptal fıkra: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)**
 
-D) (İptal fıkra: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)
+D) **(İptal fıkra: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)**
 
-E) Bu maddenin (A), (B) (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) fıkraları uyarınca haklarında işlem tesis edilenler uhdelerinde taşımış oldukları büyükelçi, vali gibi unvanları ve yüksek mahkeme başkan ve üyeliği, müsteşar, hâkim, savcı, kaymakam ve benzeri meslek adlarını ve sıfatlarını kullanamaz ve bu unvan, sıfat ve meslek adlarına bağlı olarak sağlanan haklardan yararlanamaz.
+E) Bu maddenin (A), (B) **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** fıkraları uyarınca haklarında işlem tesis edilenler uhdelerinde taşımış oldukları büyükelçi, vali gibi unvanları ve yüksek mahkeme başkan ve üyeliği, müsteşar, hâkim, savcı, kaymakam ve benzeri meslek adlarını ve sıfatlarını kullanamaz ve bu unvan, sıfat ve meslek adlarına bağlı olarak sağlanan haklardan yararlanamaz.
 
-F) (İptal fıkra: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)
+F) **(İptal fıkra: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)**
 
-G) Bu maddenin yürürlüğe girdiği tarihten itibaren dört yıl süreyle; terör örgütlerine veya (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara (İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile) iltisakı yahut bunlarla irtibatı olduğu değerlendirildiği için görevden uzaklaştırılanlar veya açığa alınanlar hakkında ilgili mevzuatta yer alan;[80]
+G) Bu maddenin yürürlüğe girdiği tarihten itibaren dört yıl süreyle; terör örgütlerine veya **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara **(İptal ibare: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)** iltisakı yahut bunlarla irtibatı olduğu değerlendirildiği için görevden uzaklaştırılanlar veya açığa alınanlar hakkında ilgili mevzuatta yer alan;[80]
 
-a) (İptal bent: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)
+a) **(İptal bent: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)**
 
 b) Disiplin soruşturması sebebiyle görevden uzaklaştırma süreleri bir yıl olarak uygulanır ve bu süre ilgisine göre ilgili bakan, Hâkimler ve Savcılar Kurulu, Yükseköğretim Kurulu veya ilgili kurul onayıyla bir yıla kadar uzatılabilir.
 
 c) Adli soruşturma ve kovuşturma sebebiyle görevden uzaklaştırma veya açığa alma işlemlerinde değerlendirme süreleri uygulanmaz.
 
-(İptal paragraf: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)
+**(İptal paragraf: Anayasa Mahkemesi’nin 30/06/2022 tarihli ve E.:2018/137, K.:2022/86 sayılı Kararı ile)**
 
 Bu maddenin (A) ve (B) fıkraları uyarınca haklarında işlem tesis edilecek olanlara yedi günden az olmamak üzere ilgili kurum tarafından uygun vasıtalarla savunma hakkı verilir. Verilen süre içinde savunmasını yapmayanlar, savunma hakkından vazgeçmiş sayılır.
 
@@ -1190,7 +1190,7 @@ b) Hakkında mülga ek 18 inci madde hükümleri uygulanmamış olmak kaydıyla 
 
 Ek 30 uncu madde ile ekli (VI) sayılı Cetvel kapsamında mali ve sosyal haklarına ilişkin denklikleri belirlenenlerden bu maddenin yürürlüğe girdiği tarihten önce mali hakları hususunda geçici 12 nci madde veya ilgili diğer mevzuat hükümleri uygulananlar hakkında anılan düzenlemelerin uygulanmasına devam edilir.
 
-(Ek fıkra:21/5/2025-7548/17 md.) Türkiye İş Kurumunda il müdürü kadrosunda 24/11/2023 tarihi itibarıyla görevde bulunanlar hakkında, görevlerinin sona ermesi veya görevden alınmaları halinde bu maddenin ikinci fıkrası hükümleri uygulanır.
+**(Ek fıkra:21/5/2025-7548/17 md.)** Türkiye İş Kurumunda il müdürü kadrosunda 24/11/2023 tarihi itibarıyla görevde bulunanlar hakkında, görevlerinin sona ermesi veya görevden alınmaları halinde bu maddenin ikinci fıkrası hükümleri uygulanır.
 
 **Geçici Madde 46 –** (Ek: 18/7/2024-7521/28 md.)
 
@@ -1226,25 +1226,25 @@ c) 5434 sayılı T.C. Emekli Sandığı Kanununun Ek 40 ıncı maddesi.
 
 ### 27/6/1989 TARİHLİ VE 375 SAYILI KHK’YE İŞLENEMEYEN HÜKÜMLER
 
-1) 2/12/1993 tarihli ve 3920 sayılı Kanunun geçici maddeleri:
+**1) 2/12/1993 tarihli ve 3920 sayılı Kanunun geçici maddeleri:**
 
 **Geçici Madde 2 –** Bu Kanunun 2 nci maddesi ile yürürlükten kaldırılan hükümlere göre kendilerine ek tazminat ödenen sözleşmeli personele (Türk Silahlı Kuvvetleri ve Emniyet Genel Müdürlüğünde görevli sözleşmeli personel ile Milli İstihbarat Teşkilatı Müsteşarlığında görevli kadro karşılığı sözleşmeli personel hariç) 31.12.1994 tarihine kadar, sürekli işçilere yeni bir toplu iş sözleşmesi veya münferit iş akdi yapılıncaya kadar, mahalli idareler ile bunlara bağlı kuruluşlarda görevli memurlara ise bu konuda yeni bir düzenleme yapılıncaya kadar, 15.12.1993 tarihinde ödenen miktarlar üzerinden (Toplu Konut Fonu adına Türkiye Emlak Bankasında açılan hesaba yatırılan miktarda kendilerine verilmek suretiyle) ek tazminat, katsayı ve tazminat bazındaki artışlar dikkate alınmaksızın ödenmeye devam olunur.
 
 **Geçici Madde 3 –** Bu Kanunun 1 nci maddesinin (B) fıkrasında yer alan üst sınır, bütçe kanunlarıyla bir tespit yapılıncaya kadar 6 000 000 lira olarak uygulanır. Bu miktarları % 50 oranına kadar artırmaya Başbakan yetkilidir.
 
-2) 11/10/2011 tarihli ve 666 sayılı KHK’nin Ek Cetvelleri:
+**2) 11/10/2011 tarihli ve 666 sayılı KHK’nin Ek Cetvelleri:**
 
 ### (I) SAYILI CETVEL[81][82][83][84][85][86][87][88][89][90][91]
 
 ### EK ÖDEME ORANLARI
 
-Kadro ve Görev Unvanı
+**Kadro ve Görev Unvanı**
 
-Ek Ödeme Oranı (%)
+**Ek Ödeme Oranı (%)**
 
-A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar:
+**A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar:**
 
-1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;
+**1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;**
 
 a) Ek göstergeleri 7.800 veya daha yüksek tespit edilen kadrolarda bulunanlar
 
@@ -1386,7 +1386,7 @@ m) Genel idare hizmetleri sınıfındaki diğer kadrolarda bulunanlardan;
 
 85
 
-2- Kadroları Teknik Hizmetler Sınıfında yer alan personel;
+**2- Kadroları Teknik Hizmetler Sınıfında yer alan personel;**
 
 a) Başmühendis, başmimar, mühendis, mimar, peyzaj mimarı, iç mimar, bölge plancısı ve şehir plancısı kadrolarında bulunanlardan;[92]
 
@@ -1434,7 +1434,7 @@ c) Ek ödeme oranları 1 nolu grupta düzenlenenler hariç, bu sınıfta yer ala
 
 85
 
-3- Kadroları Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfında yer alan personel;
+**3- Kadroları Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfında yer alan personel;**
 
 a) Uzman tabiplerden;
 
@@ -1492,7 +1492,7 @@ c) Diş tabiplerinden;
 
 145
 
-d) (Ek: 6/11/2014-6566/5 md.) Uzman Eczacı kadrolarında bulunanlardan;
+d) **(Ek: 6/11/2014-6566/5 md.)** Uzman Eczacı kadrolarında bulunanlardan;
 
 1) 1-2 dereceden aylık alanlar
 
@@ -1538,7 +1538,7 @@ f) Ek ödeme oranları 1 nolu grupta düzenlenenler hariç, bu sınıfta yer ala
 
 90
 
-4- Kadroları Eğitim ve Öğretim Hizmetleri Sınıfında yer alan personel;
+**4- Kadroları Eğitim ve Öğretim Hizmetleri Sınıfında yer alan personel;**
 
 a) Öğretmen kadrosunda (örgün ve yaygın eğitim kurumlarındaki öğretmen unvanlı kadrolardaki yöneticiler dâhil) bulunanlardan;
 
@@ -1554,7 +1554,7 @@ a) Öğretmen kadrosunda (örgün ve yaygın eğitim kurumlarındaki öğretmen 
 
 65
 
-5- Kadroları Avukatlık Hizmetleri Sınıfında yer alan personel;
+**5- Kadroları Avukatlık Hizmetleri Sınıfında yer alan personel;**
 
 a) Ek ödeme oranları 1 nolu grupta düzenlenenler hariç, bu sınıfta yer alan kadrolarda bulunanlardan;
 
@@ -1570,7 +1570,7 @@ a) Ek ödeme oranları 1 nolu grupta düzenlenenler hariç, bu sınıfta yer ala
 
 130
 
-6- (Değişik bölüm: 16/3/2022-7383/12 md.) Kadroları Din Hizmetleri Sınıfında yer alan personel;
+**6- (Değişik bölüm: 16/3/2022-7383/12 md.) Kadroları Din Hizmetleri Sınıfında yer alan personel;**
 
 a) Diyanet Akademisi Dinî Yüksek İhtisas Merkezinde eğitim görevlisi kadrosunda bulunanlardan;
 
@@ -1646,7 +1646,7 @@ d) Diğer kadrolarda bulunanlardan;
 
 65
 
-7- Mülki İdare Amirliği Hizmetleri Sınıfında yer alan personel;
+**7- Mülki İdare Amirliği Hizmetleri Sınıfında yer alan personel;**
 
 a) Müsteşar
 
@@ -1782,7 +1782,7 @@ f) Kaymakam adayı
 
 145
 
-8- Kadroları Emniyet Hizmetleri Sınıfında yer alan personel;
+**8- Kadroları Emniyet Hizmetleri Sınıfında yer alan personel;**
 
 a) Birinci Sınıf Emniyet Müdürleri
 
@@ -1846,7 +1846,7 @@ h) Diğer kadrolarda bulunanlardan;
 
 66
 
-9- Kadroları Yardımcı Hizmetler Sınıfında yer alan personel;
+**9- Kadroları Yardımcı Hizmetler Sınıfında yer alan personel;**
 
 a) Bu sınıfta yer alan kadrolarda bulunanlardan;
 
@@ -1862,9 +1862,9 @@ a) Bu sınıfta yer alan kadrolarda bulunanlardan;
 
 70
 
-B- Aylıklarını 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu, 3269 sayılı Uzman Erbaş Kanunu ve 3466 sayılı Uzman Jandarma Kanununa Göre Alanlar:
+**B- Aylıklarını 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu, 3269 sayılı Uzman Erbaş Kanunu ve 3466 sayılı Uzman Jandarma Kanununa Göre Alanlar:**
 
-1- Subaylardan;
+**1- Subaylardan;**
 
 a) Genelkurmay Başkanı
 
@@ -1934,7 +1934,7 @@ n) Asteğmen
 
 69
 
-2- Astsubaylardan;
+**2- Astsubaylardan;**
 
 a) II.Kad.Kd.Bçvş.
 
@@ -1984,7 +1984,7 @@ j) Açvş.
 
 68
 
-3- Uzman Jandarmalardan;
+**3- Uzman Jandarmalardan;**
 
 a) VIII.Kad.Çvş.
 
@@ -2022,7 +2022,7 @@ g) I.Kad.Çvş.
 
 67
 
-4- Uzman Erbaşlardan;
+**4- Uzman Erbaşlardan;**
 
 a) Uzman Çavuş
 
@@ -2032,7 +2032,7 @@ b) Uzman Onbaşı
 
 67
 
-C- Aylıklarını 2914 sayılı Yükseköğretim Personel Kanununa Göre Alanlar:
+**C- Aylıklarını 2914 sayılı Yükseköğretim Personel Kanununa Göre Alanlar:**
 
 1- Profesörlerden Rektör, Rektör Yardımcısı ve Dekan olanlar
 
@@ -2076,7 +2076,7 @@ c) Diğer derecelerden aylık alanlar
 
 66
 
-Ç- 399 sayılı Kanun Hükmünde Kararname eki (II) sayılı cetvele dahil pozisyonlarda istihdam edilen sözleşmeli personelden (527 sayılı Kanun Hükmünde Kararnamenin 31 inci maddesine göre ücretleri belirlenen sözleşmeli personel dahil);
+**Ç- 399 sayılı Kanun Hükmünde Kararname eki (II) sayılı cetvele dahil pozisyonlarda istihdam edilen sözleşmeli personelden (527 sayılı Kanun Hükmünde Kararnamenin 31 inci maddesine göre ücretleri belirlenen sözleşmeli personel dahil);**
 
 1- Grup başmühendisi, başmühendis, başmimar, mühendis, mimar, veteriner, şehir plancısı, müdür yardımcısı, teknik şef, atölye şefi, başeksper, eksper, teknik amir, teknik uzman, başkontrolör, kontrolör, baştabip, baştabip yardımcısı, diş tabibi, tabip, uzman tabip, uzman (Tıpta Uzmanlık mevzuatında belirtilen dallarda bu ilgili mevzuat hükümlerine göre uzmanlık belgesi alanlar), başuzman (Sümer Holding) ve şube müdürü (Sümer Holding) pozisyonlarında bulunanlar
 
@@ -2104,17 +2104,17 @@ c) Diğer derecelerden aylık alanlar
 
 ### (II) SAYILI CETVEL[93][94][95][96][97][98][99][100][101][102][103][104]
 
-(Ek 10 uncu Maddenin Birinci Fıkrasının (a) ve (b) Bentleri Kapsamında Yer Alan Personelin Ücret ve Tazminat Gösterge Cetveli)
+**(Ek 10 uncu Maddenin Birinci Fıkrasının (a) ve (b) Bentleri Kapsamında Yer Alan Personelin Ücret ve Tazminat Gösterge Cetveli)**
 
-Sıra No
+**Sıra No**
 
-Kadro Unvanı
+**Kadro Unvanı**
 
-Ücret Göstergesi
+**Ücret Göstergesi**
 
-Tazminat
+**Tazminat**
 
-Göstergesi
+**Göstergesi**
 
 1
 
@@ -2220,21 +2220,21 @@ Diyanet İşleri Başkanlığı Başkanlık Müşaviri, Başkanlık Müftüsü v
 
 ### (III) SAYILI CETVEL
 
-(Ek 10 uncu Maddenin Birinci Fıkrasının © Bendi Kapsamında Yer Alan Personelin Ücret ve Tazminat Gösterge Cetveli)
+**(Ek 10 uncu Maddenin Birinci Fıkrasının © Bendi Kapsamında Yer Alan Personelin Ücret ve Tazminat Gösterge Cetveli)**
 
-Sıra No
+**Sıra No**
 
-Kadro Unvanı
+**Kadro Unvanı**
 
-Ücret Göstergesi
+**Ücret Göstergesi**
 
-Tazminat
+**Tazminat**
 
-Göstergesi
+**Göstergesi**
 
 1
 
-(Değişik: 20/8/2016-6745/77 md.) Kapsama dâhil idarelerin merkez teşkilatına ait genel idare hizmetleri sınıfında yer alan başmüfettiş, müfettiş, başdenetçi, denetçi, başkontrolör, kontrolör ve iç denetçi kadrolarında bulunanlar, Türkiye Büyük Millet Meclisi yasama uzmanları ve stenografları, Hazine Müsteşarlığı sigorta denetleme uzmanları ve aktüerleri, Dışişleri Meslek Memurları ile Konsolosluk ve İhtisas Memurları, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 152 nci maddesinin “II- Tazminatlar” kısmının “A- Özel Hizmet Tazminatı” bölümünün (ğ) bendinde yer alanlardan merkez teşkilatına ait uzman unvanlı kadrolarda bulunanlardan;
+**(Değişik: 20/8/2016-6745/77 md.)** Kapsama dâhil idarelerin merkez teşkilatına ait genel idare hizmetleri sınıfında yer alan başmüfettiş, müfettiş, başdenetçi, denetçi, başkontrolör, kontrolör ve iç denetçi kadrolarında bulunanlar, Türkiye Büyük Millet Meclisi yasama uzmanları ve stenografları, Hazine Müsteşarlığı sigorta denetleme uzmanları ve aktüerleri, Dışişleri Meslek Memurları ile Konsolosluk ve İhtisas Memurları, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 152 nci maddesinin “II- Tazminatlar” kısmının “A- Özel Hizmet Tazminatı” bölümünün (ğ) bendinde yer alanlardan merkez teşkilatına ait uzman unvanlı kadrolarda bulunanlardan;
 
 Kadro Derecesi 1 olanlar
 
@@ -2340,7 +2340,7 @@ Kadro Derecesi 7 olanlar
 
 14.225
 
-(Değişik: 1/7/2022-7417/22 md.)
+**(Değişik: 1/7/2022-7417/22 md.)**
 
 ### (IV) SAYILI CETVEL
 
@@ -2382,7 +2382,7 @@ Kadro Derecesi 7 olanlar
 
 ### (VI) SAYILI CETVEL
 
-(Ek: 27/12/2023-7491/76 md.)
+**(Ek: 27/12/2023-7491/76 md.)**
 
 | Sıra No | Kadro | Denk Alınacak Kadro |
 | 1 | Yurt Hizmetleri Müdürü | Defterdar Yardımcısı |
@@ -2439,13 +2439,13 @@ Kadro Derecesi 7 olanlar
 
 ### GİRİŞ TARİHLERİNİ GÖSTERİR TABLO
 
-Değiştiren Kanunun/
+**Değiştiren Kanunun/**
 
-KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası
+**KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası**
 
-375 Sayılı KHK’nin Değişen veya İptal Edilen Maddeleri
+**375 Sayılı KHK’nin Değişen veya İptal Edilen Maddeleri**
 
-Yürürlüğe Giriş Tarihi
+**Yürürlüğe Giriş Tarihi**
 
 ### KHK/386
 
@@ -3355,242 +3355,242 @@ Ek Madde 35
 
 31/7/2026
 
-<small>[1] 19/6/2010 tarihli ve 6000 sayılı Kanunun 32 nci maddesiyle, bu bentte yer alan “926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu,” ibaresinden sonra gelmek üzere “3269 sayılı Uzman Erbaş Kanunu,” ibaresi eklenmiştir.</small>
+<small>[1] <i>19/6/2010 tarihli ve 6000 sayılı Kanunun 32 nci maddesiyle, bu bentte yer alan “926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu,” ibaresinden sonra gelmek üzere “3269 sayılı Uzman Erbaş Kanunu,” ibaresi eklenmiştir.</i></small>
 
-<small>[2] Bu fıkrada yer alan ve kıdem aylığının hesabına esas alınan 15 ve 375 gösterge rakamları, Bakanlar Kurulunun 31/12/1994 tarihli ve 22158 sayılı Resmî Gazete’de yayımlanan 8/11/1994 tarihli ve 94/6302 sayılı Kararıyla 1/1/1995 tarihinden geçerli olmak üzere sırasıyla 20'ye ve 500'e yükseltilmiştir.</small>
+<small>[2] <i>Bu fıkrada yer alan ve kıdem aylığının hesabına esas alınan 15 ve 375 gösterge rakamları, Bakanlar Kurulunun 31/12/1994 tarihli ve 22158 sayılı Resmî Gazete’de yayımlanan 8/11/1994 tarihli ve 94/6302 sayılı Kararıyla 1/1/1995 tarihinden geçerli olmak üzere sırasıyla 20'ye ve 500'e yükseltilmiştir.</i></small>
 
-<small>[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, 1 inci maddenin (A) fıkrasının üçüncü paragrafında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, (C) fıkrasının (1) numaralı bendinde yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve (3) numaralı bendinde yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, 1 inci maddenin (A) fıkrasının üçüncü paragrafında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, (C) fıkrasının (1) numaralı bendinde yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve (3) numaralı bendinde yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 21/3/2006 tarihli ve 5473 sayılı Kanunun 11 inci maddesiyle bu fıkranın (3) numaralı bendi hariç diğer bentleri yürürlükten kaldırılmıştır.</small>
+<small>[4] <i>21/3/2006 tarihli ve 5473 sayılı Kanunun 11 inci maddesiyle bu fıkranın (3) numaralı bendi hariç diğer bentleri yürürlükten kaldırılmıştır.</i></small>
 
-<small>[5] 27/2/2008 tarihli ve 5745 sayılı Kanunun 1 inci maddesiyle bu alt bentte yer alan “(1) ve (2) numaralı alt bentlere” ibaresi "(1) numaralı alt bende” şeklinde değiştirilmiştir.</small>
+<small>[5] <i>27/2/2008 tarihli ve 5745 sayılı Kanunun 1 inci maddesiyle bu alt bentte yer alan “(1) ve (2) numaralı alt bentlere” ibaresi "(1) numaralı alt bende” şeklinde değiştirilmiştir.</i></small>
 
-<small>[6] (a) 19/6/2010 tarihli ve 6000 sayılı Kanunun 32 nci maddesiyle, bu bentte yer alan "son verilenlere ve" ibaresi "son verilenlere, kendi kusurları olmaksızın sözleşmesi feshedilen veya hizmet sürelerinin bitiminde ayrılan sözleşmeli subay, sözleşmeli astsubay ve uzman erbaşlar ile" şeklinde değiştirilmiştir.</small>
+<small>[6] <i>(a) 19/6/2010 tarihli ve 6000 sayılı Kanunun 32 nci maddesiyle, bu bentte yer alan "son verilenlere ve" ibaresi "son verilenlere, kendi kusurları olmaksızın sözleşmesi feshedilen veya hizmet sürelerinin bitiminde ayrılan sözleşmeli subay, sözleşmeli astsubay ve uzman erbaşlar ile" şeklinde değiştirilmiştir.</i></small>
 
-(b) 25/12/2009 tarihli ve 5944 sayılı 2010 Yılı Merkezi Yönetim Bütçe Kanunun 28 inci maddesiyle, bu maddeye göre yapılacak tazminat ödemesinin 1/1/2010 tarihinden itibaren 750 TL olarak uygulanacağı hüküm altına alınmıştır.
+<i>(b) 25/12/2009 tarihli ve 5944 sayılı 2010 Yılı Merkezi Yönetim Bütçe Kanunun 28 inci maddesiyle, bu maddeye göre yapılacak tazminat ödemesinin 1/1/2010 tarihinden itibaren 750 TL olarak uygulanacağı hüküm altına alınmıştır.</i>
 
-(c) 13/2/2011 tarihli ve 6111 sayılı Kanunun 118 inci maddesi ile bu bentte yer alan “beşyüz milyon lira” ibaresi “(12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak” şeklinde değiştirilmiştir.
+<i>(c) 13/2/2011 tarihli ve 6111 sayılı Kanunun 118 inci maddesi ile bu bentte yer alan “beşyüz milyon lira” ibaresi “(12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak” şeklinde değiştirilmiştir.</i>
 
-(ç) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu bentte yer alan “sözleşmeli subay, sözleşmeli astsubay ve uzman erbaşlar” ibaresi “sözleşmeli subay, sözleşmeli astsubay, uzman erbaş ve sözleşmeli erbaş ve erler” şeklinde değiştirilmiştir.
+<i>(ç) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu bentte yer alan “sözleşmeli subay, sözleşmeli astsubay ve uzman erbaşlar” ibaresi “sözleşmeli subay, sözleşmeli astsubay, uzman erbaş ve sözleşmeli erbaş ve erler” şeklinde değiştirilmiştir.</i>
 
-<small>[7] 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu bentte yer alan “yedek subaylara” ibaresinden sonra gelmek üzere “, yedek astsubaylara” ibaresi eklenmiştir.</small>
+<small>[7] <i>25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu bentte yer alan “yedek subaylara” ibaresinden sonra gelmek üzere “, yedek astsubaylara” ibaresi eklenmiştir.</i></small>
 
-<small>[8] 19/6/2010 tarihli ve 6000 sayılı Kanunun 33 üncü maddesiyle, bu maddenin birinci fıkrasına "926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu," ibaresinden sonra gelmek üzere "3269 sayılı Uzman Erbaş Kanunu," ibaresi eklenmiştir.</small>
+<small>[8] <i>19/6/2010 tarihli ve 6000 sayılı Kanunun 33 üncü maddesiyle, bu maddenin birinci fıkrasına "926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu," ibaresinden sonra gelmek üzere "3269 sayılı Uzman Erbaş Kanunu," ibaresi eklenmiştir.</i></small>
 
-<small>[9] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının teklifi ve Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde değiştirilmiştir.</small>
+<small>[9] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının teklifi ve Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[10] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</small>
+<small>[10] <i>11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</i></small>
 
-<small>[11] 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu maddenin (A) bendinde yer alan “uzman jandarma ve uzman erbaşlara” ibaresi “, uzman jandarma, uzman erbaş ve sözleşmeli erbaş ve erlere” şeklinde değiştirilmiştir.</small>
+<small>[11] <i>10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu maddenin (A) bendinde yer alan “uzman jandarma ve uzman erbaşlara” ibaresi “, uzman jandarma, uzman erbaş ve sözleşmeli erbaş ve erlere” şeklinde değiştirilmiştir.</i></small>
 
-<small>[12] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu maddenin (A) fıkrasının birinci paragrafında yer alan “Sıkıyönetim veya olağanüstü” ibaresi “Olağanüstü” şeklinde, “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde; ikinci paragrafında yer alan “Milli Savunma ve İçişleri Bakanlarının müşterek teklifi, Maliye Bakanlığının görüşü üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde; dördüncü paragrafında yer alan “Başbakanca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[12] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu maddenin (A) fıkrasının birinci paragrafında yer alan “Sıkıyönetim veya olağanüstü” ibaresi “Olağanüstü” şeklinde, “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde; ikinci paragrafında yer alan “Milli Savunma ve İçişleri Bakanlarının müşterek teklifi, Maliye Bakanlığının görüşü üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde; dördüncü paragrafında yer alan “Başbakanca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[13] 4/7/2012 tarihli ve 6353 sayılı Kanunun 88 inci maddesiyle, bu paragrafta yer alan “12” ibaresi “24” şeklinde değiştirilmiştir.</small>
+<small>[13] <i>4/7/2012 tarihli ve 6353 sayılı Kanunun 88 inci maddesiyle, bu paragrafta yer alan “12” ibaresi “24” şeklinde değiştirilmiştir.</i></small>
 
-<small>[14] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesi ile bu fıkrada yer alan “sakatlık” ibaresi “engellilik” şeklinde değiştirilmiştir.</small>
+<small>[14] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesi ile bu fıkrada yer alan “sakatlık” ibaresi “engellilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[15] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, 28 inci maddenin (A) fıkrasının beşinci paragrafında yer alan “Milli Savunma ve İçişleri Bakanlarının müşterek teklifi ve Maliye Bakanlığının görüşü üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde; (B) fıkrasının birinci paragrafında yer alan “İçişleri Bakanlığının görüşü ve Maliye Bakanlığının teklifi üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde, ikinci paragrafında yer alan “ilgili bakanlıkların talebi ve Maliye Bakanlığının teklifi üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde değiştirilmiştir.</small>
+<small>[15] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, 28 inci maddenin (A) fıkrasının beşinci paragrafında yer alan “Milli Savunma ve İçişleri Bakanlarının müşterek teklifi ve Maliye Bakanlığının görüşü üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde; (B) fıkrasının birinci paragrafında yer alan “İçişleri Bakanlığının görüşü ve Maliye Bakanlığının teklifi üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde, ikinci paragrafında yer alan “ilgili bakanlıkların talebi ve Maliye Bakanlığının teklifi üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[16] 6/12/2019 tarihli ve 7196 sayılı Kanunun 93 üncü maddesiyle bu paragrafa “yönelik olarak” ibaresinden sonra gelmek üzere “ilgisine göre İçişleri Bakanlığı veya” ibaresi eklenmiştir.</small>
+<small>[16] <i>6/12/2019 tarihli ve 7196 sayılı Kanunun 93 üncü maddesiyle bu paragrafa “yönelik olarak” ibaresinden sonra gelmek üzere “ilgisine göre İçişleri Bakanlığı veya” ibaresi eklenmiştir.</i></small>
 
-<small>[17] 15/8/2017 tarihli ve 694 sayılı KHK’nin 181 inci maddesiyle bu paragrafta yer alan “Başbakanca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 13/2/2018 tarihli ve 7098 sayılı Kanunun Ek 1 inci maddesiyle değişik 81 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</small>
+<small>[17] <i>15/8/2017 tarihli ve 694 sayılı KHK’nin 181 inci maddesiyle bu paragrafta yer alan “Başbakanca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 13/2/2018 tarihli ve 7098 sayılı Kanunun Ek 1 inci maddesiyle değişik 81 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</i></small>
 
-<small>[18] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, 28 inci maddenin (C) fıkrasının ikinci paragrafında yer alan “Millî Savunma Bakanlığının teklifi ve Maliye Bakanlığının görüşü üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde; (Ç) fıkrasında yer alan “Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde değiştirilmiştir.</small>
+<small>[18] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, 28 inci maddenin (C) fıkrasının ikinci paragrafında yer alan “Millî Savunma Bakanlığının teklifi ve Maliye Bakanlığının görüşü üzerine Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde; (Ç) fıkrasında yer alan “Başbakan onayı” ibaresi “Cumhurbaşkanı kararı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[19] 21/4/2005 tarihli ve 5335 sayılı Kanunun 29 uncu maddesi ile bu fıkrada yer alan “Devlet Güvenlik ve” ibaresi yürürlükten kaldırılmıştır.</small>
+<small>[19] <i>21/4/2005 tarihli ve 5335 sayılı Kanunun 29 uncu maddesi ile bu fıkrada yer alan “Devlet Güvenlik ve” ibaresi yürürlükten kaldırılmıştır.</i></small>
 
-<small>[20] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[20] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[21] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</small>
+<small>[21] <i>11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</i></small>
 
-<small>[22] 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “13/10/1983 tarihli ve 2919 sayılı Kanun” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Kanunu” şeklinde değiştirilmiştir.</small>
+<small>[22] <i>1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “13/10/1983 tarihli ve 2919 sayılı Kanun” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Kanunu” şeklinde değiştirilmiştir.</i></small>
 
-<small>[23] 8/8/2011 tarihli ve 650 sayılı KHK’nın 35 inci maddesi ile bu fıkrada yer alan “20 kişiyi” ibaresi “30 kişiyi”, “en fazla üç kişiye” ibaresi “en fazla sekiz kişiye” ve “diğer beş kişiye” ibaresi “diğer on kişiye” şeklinde değiştirilmiştir.</small>
+<small>[23] <i>8/8/2011 tarihli ve 650 sayılı KHK’nın 35 inci maddesi ile bu fıkrada yer alan “20 kişiyi” ibaresi “30 kişiyi”, “en fazla üç kişiye” ibaresi “en fazla sekiz kişiye” ve “diğer beş kişiye” ibaresi “diğer on kişiye” şeklinde değiştirilmiştir.</i></small>
 
-<small>[24] 6/2/2014 tarihli ve 6518 sayılı Kanunun 115 inci maddesiyle bu fıkrada yer alan “merkez teşkilatlarının” ibaresi “merkez teşkilatları ile 5018 sayılı Kanuna ekli (III) sayılı cetvelde sayılan düzenleyici ve denetleyici kurumların” şeklinde değiştirilmiştir.</small>
+<small>[24] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 115 inci maddesiyle bu fıkrada yer alan “merkez teşkilatlarının” ibaresi “merkez teşkilatları ile 5018 sayılı Kanuna ekli (III) sayılı cetvelde sayılan düzenleyici ve denetleyici kurumların” şeklinde değiştirilmiştir.</i></small>
 
-<small>[25] 8/8/2011 tarihli ve 650 sayılı KHK’nın 35 inci maddesi ile bu bentte yer alan “en az 5 yıllık” ibaresi “birinci fıkraya göre ücret tavanı iki katını geçmeyecekler için en az 3 yıllık, diğerleri için en az 5 yıllık” şeklinde değiştirilmiştir.</small>
+<small>[25] <i>8/8/2011 tarihli ve 650 sayılı KHK’nın 35 inci maddesi ile bu bentte yer alan “en az 5 yıllık” ibaresi “birinci fıkraya göre ücret tavanı iki katını geçmeyecekler için en az 3 yıllık, diğerleri için en az 5 yıllık” şeklinde değiştirilmiştir.</i></small>
 
-<small>[26] 25/6/2009 tarihli ve 5917 sayılı Kanunun 48 inci maddesiyle; bu maddenin 1/1/2010 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.</small>
+<small>[26] <i>25/6/2009 tarihli ve 5917 sayılı Kanunun 48 inci maddesiyle; bu maddenin 1/1/2010 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.</i></small>
 
-<small>[27] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[27] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[28] 16/7/2020 tarihli ve 7250 sayılı Kanunun 25 inci maddesiyle, bu maddede yer alan “yararlanamayanlara” ibaresi “yararlanamayanlar ile 6191 sayılı Kanuna tabi personele” şeklinde değiştirilmiştir.</small>
+<small>[28] <i>16/7/2020 tarihli ve 7250 sayılı Kanunun 25 inci maddesiyle, bu maddede yer alan “yararlanamayanlara” ibaresi “yararlanamayanlar ile 6191 sayılı Kanuna tabi personele” şeklinde değiştirilmiştir.</i></small>
 
-<small>[29] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, Ek 9 uncu maddenin beşinci fıkrasında yer alan “Bakanlar Kurulu kararı veya müşterek karar ile” ibaresi “Cumhurbaşkanınca” şeklinde; sekizinci fıkrasında yer alan “Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[29] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, Ek 9 uncu maddenin beşinci fıkrasında yer alan “Bakanlar Kurulu kararı veya müşterek karar ile” ibaresi “Cumhurbaşkanınca” şeklinde; sekizinci fıkrasında yer alan “Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[30] 16/6/2022 tarihli ve 7411 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “, Sağlık Bakanlığının, Türkiye Kamu Hastaneleri Kurumunun” ve “Türkiye Halk Sağlığı Kurumu,” ibareleri madde metninden çıkarılmış ve fıkrada yer alan “Ulaştırma, Denizcilik ve Haberleşme Bakanlığı,” ibaresi “Ulaştırma ve Altyapı Bakanlığı,” şeklinde değiştirilmiştir.</small>
+<small>[30] <i>16/6/2022 tarihli ve 7411 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “, Sağlık Bakanlığının, Türkiye Kamu Hastaneleri Kurumunun” ve “Türkiye Halk Sağlığı Kurumu,” ibareleri madde metninden çıkarılmış ve fıkrada yer alan “Ulaştırma, Denizcilik ve Haberleşme Bakanlığı,” ibaresi “Ulaştırma ve Altyapı Bakanlığı,” şeklinde değiştirilmiştir.</i></small>
 
-<small>[31] Anayasa Mahkemesinin 5/5/2016 tarihli ve E.: 2016/35, K.: 2016/31 sayılı Kararı ile, bu fıkrada yer alan “…çeşitli statülerde istihdam edilen sözleşmeli personele, …” ibaresi 5393 sayılı Kanunun 49 uncu maddesinin üçüncü fıkrası yönünden iptal edilmiş olup, Kararın Resmî Gazete’de yayımlandığı 24/5/2016 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.</small>
+<small>[31] <i>Anayasa Mahkemesinin 5/5/2016 tarihli ve E.: 2016/35, K.: 2016/31 sayılı Kararı ile, bu fıkrada yer alan “…çeşitli statülerde istihdam edilen sözleşmeli personele, …” ibaresi 5393 sayılı Kanunun 49 uncu maddesinin üçüncü fıkrası yönünden iptal edilmiş olup, Kararın Resmî Gazete’de yayımlandığı 24/5/2016 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.</i></small>
 
-<small>[32] 17/4/2017 tarihli ve 690 sayılı KHK’nın 75 inci maddesi ile bu fıkrada yer alan “, çeşitli statülerde istihdam edilen sözleşmeli personele,” ibaresi “3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 49 uncu maddesinin üçüncü fıkrası uyarınca çalışan sözleşmeli personel ile çeşitli statülerde istihdam edilen sözleşmeli personele” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 65 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</small>
+<small>[32] <i>17/4/2017 tarihli ve 690 sayılı KHK’nın 75 inci maddesi ile bu fıkrada yer alan “, çeşitli statülerde istihdam edilen sözleşmeli personele,” ibaresi “3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 49 uncu maddesinin üçüncü fıkrası uyarınca çalışan sözleşmeli personel ile çeşitli statülerde istihdam edilen sözleşmeli personele” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 65 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</i></small>
 
-<small>[33] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, Ek 9 uncu maddenin dokuzuncu fıkrasında yer alan “Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[33] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, Ek 9 uncu maddenin dokuzuncu fıkrasında yer alan “Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[34] 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “Türkiye Büyük Millet Meclisi Genel Sekreterliği” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiş ve metne işlenmiştir.</small>
+<small>[34] <i>1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “Türkiye Büyük Millet Meclisi Genel Sekreterliği” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiş ve metne işlenmiştir.</i></small>
 
-<small>[35] 12/1/2011 tarihli ve 6266 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasına “Müsteşarlığı” ibaresinden sonra gelmek üzere “, Toplu Konut İdaresi Başkanlığı” ibaresi, aynı fıkranın (a) bendine “ait kadrolarda yer alanlar” ibaresinden sonra gelmek üzere “ile 28/2/1985 tarihli ve 3160 sayılı Kanuna göre tazminat alanlar” ibaresi, ikinci fıkrasına “göre yapılan ödemeler,” ibaresinden sonra gelmek üzere “4/6/1937 tarihli ve 3201 sayılı Kanunun ek 21 inci maddesinde öngörülen ödeme,” ibaresi eklenmiş ve metne işlenmiştir.</small>
+<small>[35] <i>12/1/2011 tarihli ve 6266 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasına “Müsteşarlığı” ibaresinden sonra gelmek üzere “, Toplu Konut İdaresi Başkanlığı” ibaresi, aynı fıkranın (a) bendine “ait kadrolarda yer alanlar” ibaresinden sonra gelmek üzere “ile 28/2/1985 tarihli ve 3160 sayılı Kanuna göre tazminat alanlar” ibaresi, ikinci fıkrasına “göre yapılan ödemeler,” ibaresinden sonra gelmek üzere “4/6/1937 tarihli ve 3201 sayılı Kanunun ek 21 inci maddesinde öngörülen ödeme,” ibaresi eklenmiş ve metne işlenmiştir.</i></small>
 
-<small>[36] 21/6/2012 tarihli ve 6332 sayılı Kanunun 22 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “sosyal güvenlik kurumları,” ibaresinden sonra gelmek üzere “Türkiye İnsan Hakları Kurumu,” ibaresi eklenmiş olup, daha sonra 6/4/2016 tarihli ve 6701 sayılı Kanunun 28 inci maddesiyle “Türkiye İnsan Hakları Kurumu” ibaresi “Türkiye İnsan Hakları ve Eşitlik Kurumu” şeklinde değiştirilmiştir.</small>
+<small>[36] <i>21/6/2012 tarihli ve 6332 sayılı Kanunun 22 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “sosyal güvenlik kurumları,” ibaresinden sonra gelmek üzere “Türkiye İnsan Hakları Kurumu,” ibaresi eklenmiş olup, daha sonra 6/4/2016 tarihli ve 6701 sayılı Kanunun 28 inci maddesiyle “Türkiye İnsan Hakları Kurumu” ibaresi “Türkiye İnsan Hakları ve Eşitlik Kurumu” şeklinde değiştirilmiştir.</i></small>
 
-<small>[37] 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “Cumhurbaşkanlığı Genel Sekreterliği, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” ibaresi “Cumhurbaşkanlığı Genel Sekreterliği ve Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiştir.</small>
+<small>[37] <i>12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “Cumhurbaşkanlığı Genel Sekreterliği, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” ibaresi “Cumhurbaşkanlığı Genel Sekreterliği ve Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[38] 4/4/2012 tarihli ve 6289 sayılı Kanunun 32 nci maddesiyle, bu fıkrada yer alan “28 inci” ibaresinden sonra gelmek üzere “, ek 1 inci, ek 4 üncü” ibaresi eklenmiş ve metne işlenmiştir.</small>
+<small>[38] <i>4/4/2012 tarihli ve 6289 sayılı Kanunun 32 nci maddesiyle, bu fıkrada yer alan “28 inci” ibaresinden sonra gelmek üzere “, ek 1 inci, ek 4 üncü” ibaresi eklenmiş ve metne işlenmiştir.</i></small>
 
-<small>[39] Anayasa Mahkemesinin 5/5/2016 tarihli ve E.: 2016/34, K.: 2016/30 sayılı Kararı ile, bu maddenin (c) bendinde yer alan “Merkez teşkilatlarında; …” ibaresi “uzman” yönünden iptal edilmiş olup, Kararın Resmî Gazete’de yayımlandığı 24/5/2016 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.</small>
+<small>[39] <i>Anayasa Mahkemesinin 5/5/2016 tarihli ve E.: 2016/34, K.: 2016/30 sayılı Kararı ile, bu maddenin (c) bendinde yer alan “Merkez teşkilatlarında; …” ibaresi “uzman” yönünden iptal edilmiş olup, Kararın Resmî Gazete’de yayımlandığı 24/5/2016 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.</i></small>
 
-<small>[40] Anayasa Mahkemesinin 1/3/2017 tarihli ve E.: 2017/52, K.: 2017/32 sayılı Kararı ile, bu fıkranın birinci cümlesi “Afet ve Acil Durum Yönetimi Başkanlığı il müdürü” yönünden iptal edilmiştir.</small>
+<small>[40] <i>Anayasa Mahkemesinin 1/3/2017 tarihli ve E.: 2017/52, K.: 2017/32 sayılı Kararı ile, bu fıkranın birinci cümlesi “Afet ve Acil Durum Yönetimi Başkanlığı il müdürü” yönünden iptal edilmiştir.</i></small>
 
-<small>[41] 30/11/2017 tarihli ve 7062 sayılı Kanunun 12 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “Türkiye İnsan Hakları ve Eşitlik Kurumu,” ibaresinden sonra gelmek üzere “Yüksek Seçim Kurulu,” ibaresi eklenmiştir.</small>
+<small>[41] <i>30/11/2017 tarihli ve 7062 sayılı Kanunun 12 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “Türkiye İnsan Hakları ve Eşitlik Kurumu,” ibaresinden sonra gelmek üzere “Yüksek Seçim Kurulu,” ibaresi eklenmiştir.</i></small>
 
-<small>[42] 23/1/2018 tarihli ve 30310 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 28/12/2017 tarihli ve E.: 2017/175, K.: 2017/175 sayılı Kararı ile, bu maddenin üçüncü fıkrasının birinci cümlesinin, “Göç İdaresi Genel Müdürlüğünün il müdürü” yönünden iptaline karar verilmiş olup, söz konusu karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe girecektir.</small>
+<small>[42] <i>23/1/2018 tarihli ve 30310 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 28/12/2017 tarihli ve E.: 2017/175, K.: 2017/175 sayılı Kararı ile, bu maddenin üçüncü fıkrasının birinci cümlesinin, “Göç İdaresi Genel Müdürlüğünün il müdürü” yönünden iptaline karar verilmiş olup, söz konusu karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe girecektir.</i></small>
 
-<small>[43] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, Ek 10 uncu maddenin birinci fıkrasında yer alan “Cumhurbaşkanlığı Genel Sekreterliği” ibaresi “Cumhurbaşkanlığı İdari İşler Başkanlığı ve Cumhurbaşkanlığına bağlı olarak kurulan başkanlıklar” şeklinde, üçüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[43] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, Ek 10 uncu maddenin birinci fıkrasında yer alan “Cumhurbaşkanlığı Genel Sekreterliği” ibaresi “Cumhurbaşkanlığı İdari İşler Başkanlığı ve Cumhurbaşkanlığına bağlı olarak kurulan başkanlıklar” şeklinde, üçüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[44] 18/7/2021 tarihli ve 7333 sayılı Kanunun 22 nci maddesiyle, bu fıkraya “Türkiye İnsan Hakları ve Eşitlik Kurumu,” ibaresinden sonra gelmek üzere “Türkiye İstatistik Kurumu,” ibaresi eklenmiştir.</small>
+<small>[44] <i>18/7/2021 tarihli ve 7333 sayılı Kanunun 22 nci maddesiyle, bu fıkraya “Türkiye İnsan Hakları ve Eşitlik Kurumu,” ibaresinden sonra gelmek üzere “Türkiye İstatistik Kurumu,” ibaresi eklenmiştir.</i></small>
 
-<small>[45] 8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “İdari İşler Başkanlığı” ibaresi “Genel Sekreterliği” şeklinde değiştirilmiştir.</small>
+<small>[45] <i>8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “İdari İşler Başkanlığı” ibaresi “Genel Sekreterliği” şeklinde değiştirilmiştir.</i></small>
 
-<small>[46] 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “Türkiye Büyük Millet Meclisi Genel Sekreterliği” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiştir.</small>
+<small>[46] <i>1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “Türkiye Büyük Millet Meclisi Genel Sekreterliği” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[47] 12/1/2012 tarihli ve 6266 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasının (b) bendinde yer alan “kurumların” ibaresi “kurumlar ile Tasarruf Mevduatı Sigorta Fonunun” şeklinde değiştirilmiştir.</small>
+<small>[47] <i>12/1/2012 tarihli ve 6266 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasının (b) bendinde yer alan “kurumların” ibaresi “kurumlar ile Tasarruf Mevduatı Sigorta Fonunun” şeklinde değiştirilmiştir.</i></small>
 
-<small>[48] 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer alan “Cumhurbaşkanlığı Genel Sekreterliği ve Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” ibaresi “Cumhurbaşkanlığı Genel Sekreterliği ile Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiştir.</small>
+<small>[48] <i>12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer alan “Cumhurbaşkanlığı Genel Sekreterliği ve Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” ibaresi “Cumhurbaşkanlığı Genel Sekreterliği ile Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[49] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu bentte yer alan “Cumhurbaşkanlığı Genel Sekreterliği” ibaresi “Cumhurbaşkanlığı İdari İşler Başkanlığı” şeklinde; “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[49] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu bentte yer alan “Cumhurbaşkanlığı Genel Sekreterliği” ibaresi “Cumhurbaşkanlığı İdari İşler Başkanlığı” şeklinde; “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[50] 8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu bentte yer alan “İdari İşler Başkanlığı” ibaresi “Genel Sekreterliği” şeklinde değiştirilmiştir.</small>
+<small>[50] <i>8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu bentte yer alan “İdari İşler Başkanlığı” ibaresi “Genel Sekreterliği” şeklinde değiştirilmiştir.</i></small>
 
-<small>[51] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu bentte yer alan “ilgili kurumun önerisi Devlet Personel Başkanlığının görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[51] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu bentte yer alan “ilgili kurumun önerisi Devlet Personel Başkanlığının görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[52] 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile bu fıkranın (j) bendi dışındaki diğer bentleri iptal edilmiştir.</small>
+<small>[52] <i>10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile bu fıkranın (j) bendi dışındaki diğer bentleri iptal edilmiştir.</i></small>
 
-<small>[53] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde; “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde; “ilgili kurumun önerisi ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[53] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde; “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde; “ilgili kurumun önerisi ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[54] 3/10/2016 tarihli ve 676 sayılı KHK’nin 87 nci maddesiyle bu maddenin birinci fıkrasında yer alan “sermayesinin yarıdan fazlası devlete ait kurum ve kuruluşlarının” ibaresi “sermayesinin yarıdan fazlası devlete ait kurum ve kuruluşlar ile kayyım sıfatıyla Tasarruf Mevduatı Sigorta Fonu tarafından yönetilen şirketlerin” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun 71 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</small>
+<small>[54] <i>3/10/2016 tarihli ve 676 sayılı KHK’nin 87 nci maddesiyle bu maddenin birinci fıkrasında yer alan “sermayesinin yarıdan fazlası devlete ait kurum ve kuruluşlarının” ibaresi “sermayesinin yarıdan fazlası devlete ait kurum ve kuruluşlar ile kayyım sıfatıyla Tasarruf Mevduatı Sigorta Fonu tarafından yönetilen şirketlerin” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun 71 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</i></small>
 
-<small>[55] 31/10/2016 tarihli ve 678 sayılı KHK’nin 36 nıcı maddesiyle bu maddenin birinci fıkrasının ikinci cümlesine “Ancak,” ibaresinden sonra gelmek üzere “bu kişilere kayyım sıfatıyla Tasarruf Mevduatı Sigorta Fonu tarafından yönetilen şirketlerde yapılacak görevlendirmeler dolayısıyla Fon Kurulunca belirlenecek tutarda yapılacak ödemeler ile” ibaresi eklenmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7071 sayılı Kanunun 33 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.</small>
+<small>[55] <i>31/10/2016 tarihli ve 678 sayılı KHK’nin 36 nıcı maddesiyle bu maddenin birinci fıkrasının ikinci cümlesine “Ancak,” ibaresinden sonra gelmek üzere “bu kişilere kayyım sıfatıyla Tasarruf Mevduatı Sigorta Fonu tarafından yönetilen şirketlerde yapılacak görevlendirmeler dolayısıyla Fon Kurulunca belirlenecek tutarda yapılacak ödemeler ile” ibaresi eklenmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7071 sayılı Kanunun 33 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.</i></small>
 
-<small>[56] 20/11/2017 tarihli ve 696 sayılı Kanun Hükmünde Kararnamenin 136 ncı maddesi uyarınca bu maddenin 2/1/2018 tarihinde yürürlüğe gireceği hüküm altına alınmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 124 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.</small>
+<small>[56] <i>20/11/2017 tarihli ve 696 sayılı Kanun Hükmünde Kararnamenin 136 ncı maddesi uyarınca bu maddenin 2/1/2018 tarihinde yürürlüğe gireceği hüküm altına alınmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 124 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.</i></small>
 
-<small>[57] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığı ve Devlet Personel Başkanlığının görüşleri ve İçişleri Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[57] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığı ve Devlet Personel Başkanlığının görüşleri ve İçişleri Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[58] 8/5/2025 tarihli ve 7547 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “İdari İşler Başkanı” ibaresi “Genel Sekreteri” şeklinde değiştirilmiştir.</small>
+<small>[58] <i>8/5/2025 tarihli ve 7547 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “İdari İşler Başkanı” ibaresi “Genel Sekreteri” şeklinde değiştirilmiştir.</i></small>
 
-<small>[59] 23/1/2026 tarihli ve 7573 sayılı Kanunun 13 üncü maddesiyle bu fıkraya “Strateji ve Bütçe Başkan Yardımcılarına” ibaresinden sonra gelmek üzere “ve Siber Güvenlik Başkan Yardımcılarına” ibaresi eklenmiştir.</small>
+<small>[59] <i>23/1/2026 tarihli ve 7573 sayılı Kanunun 13 üncü maddesiyle bu fıkraya “Strateji ve Bütçe Başkan Yardımcılarına” ibaresinden sonra gelmek üzere “ve Siber Güvenlik Başkan Yardımcılarına” ibaresi eklenmiştir.</i></small>
 
-<small>[60] 24/7/2026 tarihli ve 7590 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “ile il ve bölge müdürü kadro veya pozisyonları” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[60] <i>24/7/2026 tarihli ve 7590 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “ile il ve bölge müdürü kadro veya pozisyonları” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[61] 1/7/2022 tarihli ve 7417 sayılı Kanunun 58 inci maddesiyle bu fıkranın (a) bendinde yer alan “(6400)” ibaresi “bakanlık genel müdürü dengi” şeklinde, (b) bendinde yer alan “İl valilerinden” ibaresi “İl valilerinden veya il valiliği yapmış olanlardan” şeklinde değiştirilmiştir.</small>
+<small>[61] <i>1/7/2022 tarihli ve 7417 sayılı Kanunun 58 inci maddesiyle bu fıkranın (a) bendinde yer alan “(6400)” ibaresi “bakanlık genel müdürü dengi” şeklinde, (b) bendinde yer alan “İl valilerinden” ibaresi “İl valilerinden veya il valiliği yapmış olanlardan” şeklinde değiştirilmiştir.</i></small>
 
-<small>[62] 1/7/2022 tarihli ve 7417 sayılı Kanunun 58 inci maddesiyle bu fıkranın dördüncü ve beşinci cümlelerinde yer alan “(a) bendine” ibareleri “(a) ve (c) bentlerine” şeklinde, beşinci cümlesinde yer alan “(a) bendindeki” ibaresi “(a) ve (c) bentlerindeki” şeklinde, altıncı cümlesinde yer alan “(a) bendi” ibaresi “(a) ve (c) bentleri” ve “bu bende” ibaresi “bu bentlere” şeklinde, onbirinci cümlesinde yer alan “(a) bendinin” ibaresi “(a) ve (c) bentlerinin” şeklinde değiştirilmiştir.</small>
+<small>[62] <i>1/7/2022 tarihli ve 7417 sayılı Kanunun 58 inci maddesiyle bu fıkranın dördüncü ve beşinci cümlelerinde yer alan “(a) bendine” ibareleri “(a) ve (c) bentlerine” şeklinde, beşinci cümlesinde yer alan “(a) bendindeki” ibaresi “(a) ve (c) bentlerindeki” şeklinde, altıncı cümlesinde yer alan “(a) bendi” ibaresi “(a) ve (c) bentleri” ve “bu bende” ibaresi “bu bentlere” şeklinde, onbirinci cümlesinde yer alan “(a) bendinin” ibaresi “(a) ve (c) bentlerinin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[63] 8/5/2025 tarihli ve 7547 sayılı Kanunun 28 inci maddesiyle bu fıkranın üçüncü cümlesinde yer alan “mülga ek 18 inci ve ek 37 nci maddeler” ibaresi “mülga ek 18 inci, ek 37 nci ve geçici 33 üncü maddeler” şeklinde değiştirilmiş, beşinci cümlesinde yer alan “fiili çalışmaya bağlı ödemeler hariç” ibaresinden sonra gelmek üzere “bakanlık genel müdürüne yapılan ödemeleri geçmemek üzere” ibaresi eklenmiştir.</small>
+<small>[63] <i>8/5/2025 tarihli ve 7547 sayılı Kanunun 28 inci maddesiyle bu fıkranın üçüncü cümlesinde yer alan “mülga ek 18 inci ve ek 37 nci maddeler” ibaresi “mülga ek 18 inci, ek 37 nci ve geçici 33 üncü maddeler” şeklinde değiştirilmiş, beşinci cümlesinde yer alan “fiili çalışmaya bağlı ödemeler hariç” ibaresinden sonra gelmek üzere “bakanlık genel müdürüne yapılan ödemeleri geçmemek üzere” ibaresi eklenmiştir.</i></small>
 
-<small>[64] 27/12/2023 tarihli ve 7491 sayılı Kanunun 78 inci maddesi ile bu fıkraya “ilişkili kuruluşları” ibaresinden sonra gelmek üzere “, Yükseköğretim Kurulu Başkanlığı” ibaresi eklenmiştir.</small>
+<small>[64] <i>27/12/2023 tarihli ve 7491 sayılı Kanunun 78 inci maddesi ile bu fıkraya “ilişkili kuruluşları” ibaresinden sonra gelmek üzere “, Yükseköğretim Kurulu Başkanlığı” ibaresi eklenmiştir.</i></small>
 
-<small>[65] Anayasa Mahkemesinin 23/7/2024 Tarihli ve E: 2024/14, K: 2024/145 Sayılı Kararı ile bu fıkrada yer alan “…Çalışma ve…” ibaresi iptal edilmiştir.</small>
+<small>[65] <i>Anayasa Mahkemesinin 23/7/2024 Tarihli ve E: 2024/14, K: 2024/145 Sayılı Kararı ile bu fıkrada yer alan “…Çalışma ve…” ibaresi iptal edilmiştir.</i></small>
 
-<small>[66] Anayasa Mahkemesinin 23/7/2024 Tarihli ve E: 2024/14, K: 2024/145 Sayılı Kararı ile bu fıkrada yer alan “…İş Kurumu İl Müdürü…” ibaresi “375 sayılı Kanun Hükmünde Kararname’nin mülga ek 18. maddesinin birinci fıkrasının (c) bendinin 2 numaralı alt bendi” yönünden iptal edilmiştir.</small>
+<small>[66] <i>Anayasa Mahkemesinin 23/7/2024 Tarihli ve E: 2024/14, K: 2024/145 Sayılı Kararı ile bu fıkrada yer alan “…İş Kurumu İl Müdürü…” ibaresi “375 sayılı Kanun Hükmünde Kararname’nin mülga ek 18. maddesinin birinci fıkrasının (c) bendinin 2 numaralı alt bendi” yönünden iptal edilmiştir.</i></small>
 
-<small>[67] 21/5/2025 tarihli ve 7548 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan “İş Kurumu İl Müdürü” ibaresi “Türkiye İş Kurumunda il müdürü” şeklinde değiştirilmiştir.</small>
+<small>[67] <i>21/5/2025 tarihli ve 7548 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan “İş Kurumu İl Müdürü” ibaresi “Türkiye İş Kurumunda il müdürü” şeklinde değiştirilmiştir.</i></small>
 
-<small>[68] 8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “İdari İşler Başkanına” ibaresi “Genel Sekreterine” şeklinde değiştirilmiştir.</small>
+<small>[68] <i>8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “İdari İşler Başkanına” ibaresi “Genel Sekreterine” şeklinde değiştirilmiştir.</i></small>
 
-<small>[69] 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “belirlemelerde” ibaresinden sonra gelmek üzere “(sözleşme ücreti artışları hariç)” ibaresi eklenmiştir.</small>
+<small>[69] <i>1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “belirlemelerde” ibaresinden sonra gelmek üzere “(sözleşme ücreti artışları hariç)” ibaresi eklenmiştir.</i></small>
 
-<small>[70] 16/6/2022 tarihli ve 7411 sayılı Kanunun 12 nci maddesiyle bu fıkranın ikinci cümlesinde yer alan “ve ek ödemeleri döner sermaye bütçesinden ödenmek” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[70] <i>16/6/2022 tarihli ve 7411 sayılı Kanunun 12 nci maddesiyle bu fıkranın ikinci cümlesinde yer alan “ve ek ödemeleri döner sermaye bütçesinden ödenmek” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[71] 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “Türkiye Büyük Millet Meclisi Genel Sekreterliği” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiş ve aynı maddenin birinci fıkrasında yer alan “personelin” ibaresinden sonra gelmek üzere “(Türkiye Büyük Millet Meclisinde çalışanlar hariç, İçişleri Bakanlığınca tahsis edilen polis kuvvetine mensup personel ile mevzuatı uyarınca görevlendirilmiş personel dahil)” ibaresi eklenmiştir.</small>
+<small>[71] <i>1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu maddede yer alan “Türkiye Büyük Millet Meclisi Genel Sekreterliği” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiş ve aynı maddenin birinci fıkrasında yer alan “personelin” ibaresinden sonra gelmek üzere “(Türkiye Büyük Millet Meclisinde çalışanlar hariç, İçişleri Bakanlığınca tahsis edilen polis kuvvetine mensup personel ile mevzuatı uyarınca görevlendirilmiş personel dahil)” ibaresi eklenmiştir.</i></small>
 
-<small>[72] 2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu maddede yer alan “Cumhurbaşkanlığı Genel Sekreterliği” ibaresi “Cumhurbaşkanlığı İdari İşler Başkanlığı” şeklinde değiştirilmiştir.</small>
+<small>[72] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 177 nci maddesiyle, bu maddede yer alan “Cumhurbaşkanlığı Genel Sekreterliği” ibaresi “Cumhurbaşkanlığı İdari İşler Başkanlığı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[73] 8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “İdari İşler Başkanlığı” ibaresi “Genel Sekreterliği” şeklinde değiştirilmiştir.</small>
+<small>[73] <i>8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “İdari İşler Başkanlığı” ibaresi “Genel Sekreterliği” şeklinde değiştirilmiştir.</i></small>
 
-<small>[74] 12/1/2012 tarihli ve 6266 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “izinde bulunanlar” ibaresinden sonra gelmek üzere “ile idari görevlerde bulunanlardan daha önce bulundukları kadrolara yeniden atananlar” ibaresi eklenmiştir.</small>
+<small>[74] <i>12/1/2012 tarihli ve 6266 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “izinde bulunanlar” ibaresinden sonra gelmek üzere “ile idari görevlerde bulunanlardan daha önce bulundukları kadrolara yeniden atananlar” ibaresi eklenmiştir.</i></small>
 
-<small>[75] 20/11/2017 tarihli ve 696 sayılı Kanun Hükmünde Kararnamenin 136 ncı maddesi uyarınca bu maddenin onbeşinci fıkrası haricindeki diğer fıkraları 2/1/2018 tarihinde yürürlüğe girmesi hüküm altına alınmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 124 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.</small>
+<small>[75] <i>20/11/2017 tarihli ve 696 sayılı Kanun Hükmünde Kararnamenin 136 ncı maddesi uyarınca bu maddenin onbeşinci fıkrası haricindeki diğer fıkraları 2/1/2018 tarihinde yürürlüğe girmesi hüküm altına alınmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 124 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.</i></small>
 
-<small>[76] Anayasa Mahkemesinin 26/11/2025 tarihli ve E.: 2025/100, K.: 2025/242 sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “çalıştırıldıkları teşkilat ve birimde” ibaresi iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (9/12/2026) yürürlüğe girer.</small>
+<small>[76] <i>Anayasa Mahkemesinin 26/11/2025 tarihli ve E.: 2025/100, K.: 2025/242 sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “çalıştırıldıkları teşkilat ve birimde” ibaresi iptal edilmiştir. Bu Karar Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (9/12/2026) yürürlüğe girer.</i></small>
 
-<small>[77] 15/11/2018 tarihli ve 7151 sayılı Kanunun 36 ncı maddesiyle bu fıkraya “atanmaları,” ibaresinden sonra gelmek üzere “yabancı dil şartı hariç olmak üzere” ibaresi eklenmiştir.</small>
+<small>[77] <i>15/11/2018 tarihli ve 7151 sayılı Kanunun 36 ncı maddesiyle bu fıkraya “atanmaları,” ibaresinden sonra gelmek üzere “yabancı dil şartı hariç olmak üzere” ibaresi eklenmiştir.</i></small>
 
-<small>[78] 18/7/2021 tarihli ve 7333 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “üç yıl” ibaresi “dört yıl” şeklinde değiştirilmiştir.</small>
+<small>[78] <i>18/7/2021 tarihli ve 7333 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “üç yıl” ibaresi “dört yıl” şeklinde değiştirilmiştir.</i></small>
 
-<small>[79] 18/7/2021 tarihli ve 7333 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “üç yıl” ibaresi “dört yıl” şeklinde değiştirilmiştir.</small>
+<small>[79] <i>18/7/2021 tarihli ve 7333 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “üç yıl” ibaresi “dört yıl” şeklinde değiştirilmiştir.</i></small>
 
-<small>[80] 18/7/2021 tarihli ve 7333 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “üç yıl” ibaresi “dört yıl” şeklinde değiştirilmiştir.</small>
+<small>[80] <i>18/7/2021 tarihli ve 7333 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “üç yıl” ibaresi “dört yıl” şeklinde değiştirilmiştir.</i></small>
 
-<small>[81] 3/1/2012 tarihli ve 2012/2664 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar: “ kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;” bölümünün (f) sırasına “milli emlak dairesi başkanı” ibaresinden sonra gelmek üzere “yükseköğretim kurumları genel sekreter yardımcıları,” ibaresi, (g) sırasına “genel sekreter yardımcısı,” ibaresinden sonra gelmek üzere “ tiyatro müdür yardımcısı, Atatürk Kültür Merkezi müdür yardımcısı, opera ve bale müdür yardımcısı,” ibaresi, (ı) sırasına “kadrolarında bulunanlar,” ibaresinden sonra gelmek üzere “Devlet Hava Meydanları İşletmesi Genel Müdürlüğü başmüfettiş ve müfettiş kadrolarında bulunanlar,” ibaresi, (j) sırasına “taşra teşkilatları ile” ibaresinden sonra gelmek üzere “Anayasa Mahkemesi, Yargıtay, Danıştay ve Sayıştay Başkanlıklarında,” ibaresi, “atananlar ile” ibaresinden sonra gelmek üzere “ büyükşehir belediyeleri hesap işleri murakıpları ve” ibaresi, (k) sırasına “ayniyat saymanı,” ibaresinden sonra gelmek üzere “teberrukat saymanı, sıhhi malzeme saymanı, malzeme saymanı,” ibaresi eklenmiş ve yine 27/3/2015 tarihli ve 6639 sayılı Kanunun 24 üncü maddesiyle; (d) sırasında yer alan “büyükşehir belediyesi bulunan illerin il özel idaresi genel sekreter yardımcısı, diğer illerin il özel idaresi genel sekreteri,” ibaresi “il özel idaresi genel sekreteri,” şeklinde ve aynı bölümün (e) sırasında yer alan “büyükşehir belediyesi bulunan illerin il özel idaresi I. Hukuk müşaviri, büyükşehir belediyesi bulunmayan illerin il özel idaresi genel sekreter yardımcısı,” ibaresi “il özel idaresi genel sekreter yardımcısı,” şeklinde değiştirilmiş, aynı bölümün (g) sırasına “il yazı işleri müdürü” ibaresinden önce gelmek üzere “İl nüfus ve vatandaşlık müdürü,” ibaresi eklenmiştir.</small>
+<small>[81] <i>3/1/2012 tarihli ve 2012/2664 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar: “ kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;” bölümünün (f) sırasına “milli emlak dairesi başkanı” ibaresinden sonra gelmek üzere “yükseköğretim kurumları genel sekreter yardımcıları,” ibaresi, (g) sırasına “genel sekreter yardımcısı,” ibaresinden sonra gelmek üzere “ tiyatro müdür yardımcısı, Atatürk Kültür Merkezi müdür yardımcısı, opera ve bale müdür yardımcısı,” ibaresi, (ı) sırasına “kadrolarında bulunanlar,” ibaresinden sonra gelmek üzere “Devlet Hava Meydanları İşletmesi Genel Müdürlüğü başmüfettiş ve müfettiş kadrolarında bulunanlar,” ibaresi, (j) sırasına “taşra teşkilatları ile” ibaresinden sonra gelmek üzere “Anayasa Mahkemesi, Yargıtay, Danıştay ve Sayıştay Başkanlıklarında,” ibaresi, “atananlar ile” ibaresinden sonra gelmek üzere “ büyükşehir belediyeleri hesap işleri murakıpları ve” ibaresi, (k) sırasına “ayniyat saymanı,” ibaresinden sonra gelmek üzere “teberrukat saymanı, sıhhi malzeme saymanı, malzeme saymanı,” ibaresi eklenmiş ve yine 27/3/2015 tarihli ve 6639 sayılı Kanunun 24 üncü maddesiyle; (d) sırasında yer alan “büyükşehir belediyesi bulunan illerin il özel idaresi genel sekreter yardımcısı, diğer illerin il özel idaresi genel sekreteri,” ibaresi “il özel idaresi genel sekreteri,” şeklinde ve aynı bölümün (e) sırasında yer alan “büyükşehir belediyesi bulunan illerin il özel idaresi I. Hukuk müşaviri, büyükşehir belediyesi bulunmayan illerin il özel idaresi genel sekreter yardımcısı,” ibaresi “il özel idaresi genel sekreter yardımcısı,” şeklinde değiştirilmiş, aynı bölümün (g) sırasına “il yazı işleri müdürü” ibaresinden önce gelmek üzere “İl nüfus ve vatandaşlık müdürü,” ibaresi eklenmiştir.</i></small>
 
-<small>[82] 27/3/2014 tarihli ve 28954 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesi’nin 26/12/2013 tarihli ve E.: 2013/63, K.: 2013/163 sayılı Kararı ile bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar” bölümünün (1) numaralı sırasının (g) bendinde yer alan “İl nüfus ve vatandaşlık müdürü” ibaresi iptal edilmiştir.</small>
+<small>[82] <i>27/3/2014 tarihli ve 28954 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesi’nin 26/12/2013 tarihli ve E.: 2013/63, K.: 2013/163 sayılı Kararı ile bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar” bölümünün (1) numaralı sırasının (g) bendinde yer alan “İl nüfus ve vatandaşlık müdürü” ibaresi iptal edilmiştir.</i></small>
 
-<small>[83] 4/4/2015 tarihli ve 6645 sayılı Kanunun 22 nci maddesiyle, bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar:” kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;” bölümünün (e) sırasına “genel sekreter,” ibaresinden sonra gelmek üzere “İş Sağlığı ve Güvenliği Araştırma ve Geliştirme Enstitüsü Başkanı,” ibaresi eklenmiştir.</small>
+<small>[83] <i>4/4/2015 tarihli ve 6645 sayılı Kanunun 22 nci maddesiyle, bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar:” kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;” bölümünün (e) sırasına “genel sekreter,” ibaresinden sonra gelmek üzere “İş Sağlığı ve Güvenliği Araştırma ve Geliştirme Enstitüsü Başkanı,” ibaresi eklenmiştir.</i></small>
 
-<small>[84] Bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar:” kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;” bölümünün (g) sırasında yer alan “müşavir,” ibaresi Anayasa Mahkemesi’nin 23/12/2015 tarihli ve E.: 2015/56, K.: 2015/120 sayılı Kararı ile iptal edilmiş olup, kararın Resmi Gazete’de yayımlandığı 6/1/2016 tarihinden başlayarak dokuz ay sonra yürürlüğe girmesi hüküm altına alınmıştır.</small>
+<small>[84] <i>Bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar:” kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;” bölümünün (g) sırasında yer alan “müşavir,” ibaresi Anayasa Mahkemesi’nin 23/12/2015 tarihli ve E.: 2015/56, K.: 2015/120 sayılı Kararı ile iptal edilmiş olup, kararın Resmi Gazete’de yayımlandığı 6/1/2016 tarihinden başlayarak dokuz ay sonra yürürlüğe girmesi hüküm altına alınmıştır.</i></small>
 
-<small>[85] 20/8/2016 tarihli ve 6745 sayılı Kanunun 76 ncı maddesi ile bu cetvelde yer alan “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar” kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel” bölümünün (g) sırasına “fakülte ve yüksekokul sekreteri,” ibaresinden sonra gelmek üzere “müşavir,” ibaresi eklenmiştir.</small>
+<small>[85] <i>20/8/2016 tarihli ve 6745 sayılı Kanunun 76 ncı maddesi ile bu cetvelde yer alan “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar” kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel” bölümünün (g) sırasına “fakülte ve yüksekokul sekreteri,” ibaresinden sonra gelmek üzere “müşavir,” ibaresi eklenmiştir.</i></small>
 
-<small>[86] 6/11/2014 tarihli ve 6566 sayılı Kanunun 5 inci maddesiyle bu cetvele “3- Kadroları Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfında yer alan personel” bölümünün (ç) sırasından sonra gelmek üzere, (d) sırası eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.</small>
+<small>[86] <i>6/11/2014 tarihli ve 6566 sayılı Kanunun 5 inci maddesiyle bu cetvele “3- Kadroları Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfında yer alan personel” bölümünün (ç) sırasından sonra gelmek üzere, (d) sırası eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.</i></small>
 
-<small>[87] 11/2/2014 tarihli ve 6519 sayılı Kanunun 62 nci maddesiyle bu gruba; (d) sırasından sonra gelmek üzere (e) sırası ve mevcut (e) sırasından sonra gelmek üzere (g) sırası eklenmiş ve müteakip sıralar buna göre teselsül ettirilmiştir.</small>
+<small>[87] <i>11/2/2014 tarihli ve 6519 sayılı Kanunun 62 nci maddesiyle bu gruba; (d) sırasından sonra gelmek üzere (e) sırası ve mevcut (e) sırasından sonra gelmek üzere (g) sırası eklenmiş ve müteakip sıralar buna göre teselsül ettirilmiştir.</i></small>
 
-<small>[88] 3/1/2012 tarihli ve 2012/2664 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu sıraya “koruma güvenlik amiri,” ibaresinden sonra gelmek üzere “koruma ve güvenlik amir yardımcısı,” ibaresi eklenmiştir.</small>
+<small>[88] <i>3/1/2012 tarihli ve 2012/2664 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu sıraya “koruma güvenlik amiri,” ibaresinden sonra gelmek üzere “koruma ve güvenlik amir yardımcısı,” ibaresi eklenmiştir.</i></small>
 
-<small>[89] 22/2/2012 tarihli ve 7100 sayılı Kanunun 33 üncü maddesiyle bu cetvelin “C- Aylıklarını 2914 sayılı Yükseköğretim Personel Kanununa Göre Alanlar” kısmında yer alan “6- Yardımcı Doçent kadrosunda bulunanlar” ibaresi “6- Doktor Öğretim Üyesi kadrosunda bulunanlar” şeklinde, “8- Diğer öğretim elemanlarından” ibaresi “8- Öğretim Görevlilerinden” şeklinde değiştirilmiştir.</small>
+<small>[89] <i>22/2/2012 tarihli ve 7100 sayılı Kanunun 33 üncü maddesiyle bu cetvelin “C- Aylıklarını 2914 sayılı Yükseköğretim Personel Kanununa Göre Alanlar” kısmında yer alan “6- Yardımcı Doçent kadrosunda bulunanlar” ibaresi “6- Doktor Öğretim Üyesi kadrosunda bulunanlar” şeklinde, “8- Diğer öğretim elemanlarından” ibaresi “8- Öğretim Görevlilerinden” şeklinde değiştirilmiştir.</i></small>
 
-<small>[90] 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle Ekli (I) sayılı Cetvelinin “B- Aylıklarını 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu, 3269 sayılı Uzman Erbaş Kanunu ve 3466 sayılı Uzman Jandarma Kanununa Göre Alanlar” kısmının “2- Astsubaylardan” grubuna “Açvş. 68” sırası eklenmiştir.</small>
+<small>[90] <i>25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle Ekli (I) sayılı Cetvelinin “B- Aylıklarını 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu, 3269 sayılı Uzman Erbaş Kanunu ve 3466 sayılı Uzman Jandarma Kanununa Göre Alanlar” kısmının “2- Astsubaylardan” grubuna “Açvş. 68” sırası eklenmiştir.</i></small>
 
-<small>[91] 1/7/2022 tarihli ve 7417 sayılı Kanunun 22 nci maddesiyle bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar:” kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;” bölümünün (a) sırasında yer alan “7.600” ibaresi “7.800”; (b) sırasında yer alan “7.000” ibaresi “7.600”; (ç) sırasında yer alan “4.800” ibaresi “5.400” şeklinde değiştirilmiştir.</small>
+<small>[91] <i>1/7/2022 tarihli ve 7417 sayılı Kanunun 22 nci maddesiyle bu cetvelin “A- Aylıklarını 657 sayılı Devlet Memurları Kanununa Göre Alanlar:” kısmının “1- Kadroları Genel İdare Hizmetleri Sınıfında yer alan personel ile Teknik Hizmetler, Sağlık ve Yardımcı Sağlık Hizmetleri ile Avukatlık Hizmetleri sınıflarında bulunan personelden ek ödeme oranları ilgili gruplarında düzenlenmeyen ve kadro unvanları bu bölümde yer alan personel;” bölümünün (a) sırasında yer alan “7.600” ibaresi “7.800”; (b) sırasında yer alan “7.000” ibaresi “7.600”; (ç) sırasında yer alan “4.800” ibaresi “5.400” şeklinde değiştirilmiştir.</i></small>
 
-<small>[92] 30/3/2023 tarihli ve 7446 sayılı Kanunun 10 uncu maddesiyle (a) sırasında yer alan “mimar,” ibaresinden sonra gelmek üzere “peyzaj mimarı, iç mimar,” ibaresi eklenmiştir.</small>
+<small>[92] <i>30/3/2023 tarihli ve 7446 sayılı Kanunun 10 uncu maddesiyle (a) sırasında yer alan “mimar,” ibaresinden sonra gelmek üzere “peyzaj mimarı, iç mimar,” ibaresi eklenmiştir.</i></small>
 
-<small>[93] 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu cetvelin; 1 numaralı sırasında yer alan “Türkiye Büyük Millet Meclisi Genel Sekreteri” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreteri” şeklinde, 3 numaralı sırasında yer alan “Türkiye Büyük Millet Meclisi Genel Sekreter Yardımcısı” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreter Yardımcısı,” şeklinde, 4 numaralı sırasında yer alan “Türkiye Büyük Millet Meclisi Başkan Başmüşaviri ve Daire Başkanı” ibaresi “Türkiye Büyük Millet Meclisi Başkan Başmüşaviri, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Başkanı” şeklinde, 5 numaralı sırasında yer alan “Türkiye Büyük Millet Meclisi Başkan Müşaviri” ibaresi “Türkiye Büyük Millet Meclisi Başkan Müşaviri, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Başkan Yardımcısı” şeklinde, 7 numaralı sırasında yer alan “Cumhurbaşkanlığı ve Türkiye Büyük Millet Meclisinde birim yöneticisi konumundaki Müdürler,” ibaresi “Cumhurbaşkanlığında birim yöneticisi konumundaki Müdürler, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatındaki Müşavirler” şeklinde değiştirilmiştir.</small>
+<small>[93] <i>1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu cetvelin; 1 numaralı sırasında yer alan “Türkiye Büyük Millet Meclisi Genel Sekreteri” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreteri” şeklinde, 3 numaralı sırasında yer alan “Türkiye Büyük Millet Meclisi Genel Sekreter Yardımcısı” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreter Yardımcısı,” şeklinde, 4 numaralı sırasında yer alan “Türkiye Büyük Millet Meclisi Başkan Başmüşaviri ve Daire Başkanı” ibaresi “Türkiye Büyük Millet Meclisi Başkan Başmüşaviri, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Başkanı” şeklinde, 5 numaralı sırasında yer alan “Türkiye Büyük Millet Meclisi Başkan Müşaviri” ibaresi “Türkiye Büyük Millet Meclisi Başkan Müşaviri, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Başkan Yardımcısı” şeklinde, 7 numaralı sırasında yer alan “Cumhurbaşkanlığı ve Türkiye Büyük Millet Meclisinde birim yöneticisi konumundaki Müdürler,” ibaresi “Cumhurbaşkanlığında birim yöneticisi konumundaki Müdürler, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatındaki Müşavirler” şeklinde değiştirilmiştir.</i></small>
 
-<small>[94] 12/1/2012 tarihli ve 6266 sayılı Kanunun 1 inci maddesiyle, bu cetvelin 3 numaralı sırasında yer alan “Toplu Konut İdaresi Başkanı,” ve 5 numaralı sırasında yer alan “, Toplu Konut İdaresi Başkan Yardımcısı” ibareleri cetvelden çıkarılmıştır.</small>
+<small>[94] <i>12/1/2012 tarihli ve 6266 sayılı Kanunun 1 inci maddesiyle, bu cetvelin 3 numaralı sırasında yer alan “Toplu Konut İdaresi Başkanı,” ve 5 numaralı sırasında yer alan “, Toplu Konut İdaresi Başkan Yardımcısı” ibareleri cetvelden çıkarılmıştır.</i></small>
 
-<small>[95] 2/12/2014 tarihli ve 6572 sayılı Kanunun 48 inci maddesiyle, bu cetvelin 5 numaralı sırasına “Yurtdışı Türkler ve Akraba Topluluklar Başkan Yardımcısı” ibaresinden sonra gelmek üzere “, Adalet Bakanlığı Bakanlık Yüksek Müşaviri” ibaresi eklenmiştir.</small>
+<small>[95] <i>2/12/2014 tarihli ve 6572 sayılı Kanunun 48 inci maddesiyle, bu cetvelin 5 numaralı sırasına “Yurtdışı Türkler ve Akraba Topluluklar Başkan Yardımcısı” ibaresinden sonra gelmek üzere “, Adalet Bakanlığı Bakanlık Yüksek Müşaviri” ibaresi eklenmiştir.</i></small>
 
-<small>[96] 27/3/2015 tarihli ve 6639 sayılı Kanunun 24 üncü maddesiyle, bu cetvele (3) numaralı sıradan sonra gelmek üzere bu sıra eklenmiştir.</small>
+<small>[96] <i>27/3/2015 tarihli ve 6639 sayılı Kanunun 24 üncü maddesiyle, bu cetvele (3) numaralı sıradan sonra gelmek üzere bu sıra eklenmiştir.</i></small>
 
-<small>[97] 4/4/2013 tarihli ve 6458 sayılı Kanunun 123 üncü maddesiyle, bu cetvelin 9 numaralı sırasında yer alan “Basın-Yayın ve Enformasyon,” ibaresinden sonra gelmek üzere “Göç İdaresi,” ibaresi eklenmiştir.</small>
+<small>[97] <i>4/4/2013 tarihli ve 6458 sayılı Kanunun 123 üncü maddesiyle, bu cetvelin 9 numaralı sırasında yer alan “Basın-Yayın ve Enformasyon,” ibaresinden sonra gelmek üzere “Göç İdaresi,” ibaresi eklenmiştir.</i></small>
 
-<small>[98] 20/2/2014 tarihli ve 6525 sayılı Kanunun 42 nci maddesiyle, bu sırada yer alan “Sosyal Güvenlik Kurumu Başkanlığı,” ibaresi “Sosyal Güvenlik Kurumu ve Afet ve Acil Durum Yönetimi Başkanlıkları,” şeklinde değiştirilmiştir.</small>
+<small>[98] <i>20/2/2014 tarihli ve 6525 sayılı Kanunun 42 nci maddesiyle, bu sırada yer alan “Sosyal Güvenlik Kurumu Başkanlığı,” ibaresi “Sosyal Güvenlik Kurumu ve Afet ve Acil Durum Yönetimi Başkanlıkları,” şeklinde değiştirilmiştir.</i></small>
 
-<small>[99] 10/9/2014 tarihli ve 6552 sayılı Kanunun 70 inci maddesiyle, bu cetvelin 8 inci sırasında yer alan “Özelleştirme İdaresi Başkanlığı Proje Grup Başkanı,” ibaresinden sonra gelmek üzere “Sosyal Güvenlik Kurumu Eğitim, Araştırma ve Geliştirme Merkezi Başkanı,” ibaresi eklenmiştir.</small>
+<small>[99] <i>10/9/2014 tarihli ve 6552 sayılı Kanunun 70 inci maddesiyle, bu cetvelin 8 inci sırasında yer alan “Özelleştirme İdaresi Başkanlığı Proje Grup Başkanı,” ibaresinden sonra gelmek üzere “Sosyal Güvenlik Kurumu Eğitim, Araştırma ve Geliştirme Merkezi Başkanı,” ibaresi eklenmiştir.</i></small>
 
-<small>[100] 27/3/2015 tarihli ve 6639 sayılı Kanunun 24 üncü maddesiyle, bu cetvelin 9 uncu sırasında yer alan “ve Yükseköğrenim Kredi ve Yurtlar Kurumu” ibaresi metinden çıkarılmış ve aynı sıraya “Spor,” ibaresinden sonra gelmek üzere “Yüksek Öğrenim Kredi ve Yurtlar Kurumu,” ibaresi eklenmiştir.</small>
+<small>**<i>[100]</i>** <i>27/3/2015 tarihli ve 6639 sayılı Kanunun 24 üncü maddesiyle, bu cetvelin 9 uncu sırasında yer alan “ve Yükseköğrenim Kredi ve Yurtlar Kurumu” ibaresi metinden çıkarılmış ve aynı sıraya “Spor,” ibaresinden sonra gelmek üzere “Yüksek Öğrenim Kredi ve Yurtlar Kurumu,” ibaresi eklenmiştir.</i></small>
 
-<small>[101] 1/7/2022 tarihli ve 7417 sayılı Kanunun 22 nci maddesiyle bu cetvelin 4 üncü sırasında yer alan “6.400” ibaresi “7.000” şeklinde değiştirilmiştir.</small>
+<small>**<i>[101]</i>** <i>1/7/2022 tarihli ve 7417 sayılı Kanunun 22 nci maddesiyle bu cetvelin 4 üncü sırasında yer alan “6.400” ibaresi “7.000” şeklinde değiştirilmiştir.</i></small>
 
-<small>[102] 14/7/2023 tarihli ve 7456 sayılı Kanunun 29 uncu maddesiyle bu cetvelin (4) numaralı sırasına “Devlet Denetleme Kurulu Üyesi,” ibaresinden sonra gelmek üzere “Dışişleri Bakanlığı merkez teşkilatında görev yapan Büyükelçiler,” ibaresi eklenmiştir.</small>
+<small>**<i>[102]</i>** <i>14/7/2023 tarihli ve 7456 sayılı Kanunun 29 uncu maddesiyle bu cetvelin (4) numaralı sırasına “Devlet Denetleme Kurulu Üyesi,” ibaresinden sonra gelmek üzere “Dışişleri Bakanlığı merkez teşkilatında görev yapan Büyükelçiler,” ibaresi eklenmiştir.</i></small>
 
-<small>[103] 1/11/2017 tarihli ve 7060 sayılı Kanunun 13 üncü maddesiyle, bu cetvelin (4) numaralı sırasına “Yurtdışı Türkler ve Akraba Topluluklar Başkanı,” ibaresinden sonra gelmek üzere “Helal Akreditasyon Kurumu Genel Sekreteri,” ibaresi eklenmiştir.</small>
+<small>**<i>[103]</i>** <i>1/11/2017 tarihli ve 7060 sayılı Kanunun 13 üncü maddesiyle, bu cetvelin (4) numaralı sırasına “Yurtdışı Türkler ve Akraba Topluluklar Başkanı,” ibaresinden sonra gelmek üzere “Helal Akreditasyon Kurumu Genel Sekreteri,” ibaresi eklenmiştir.</i></small>
 
-<small>[104] 7/11/2023 tarihli ve 7471 sayılı Kanunun 19 uncu maddesiyle bu cetvelin (3) numaralı sırasına “Gelir İdaresi Başkanı,” ibaresinden sonra gelmek üzere “Kentsel Dönüşüm Başkanı,” ibaresi, (4) numaralı sırasına “Gelir İdaresi Başkan Yardımcısı,” ibaresinden sonra gelmek üzere “Kentsel Dönüşüm Başkan Yardımcısı,” ibaresi ve (9) numaralı sırasına “Türkiye İş Kurumu Genel Müdürlüklerinin il müdürü,” ibaresinden sonra gelmek üzere “Kentsel Dönüşüm Müdürü,” ibaresi eklenmiştir.</small>
+<small>**<i>[104]</i>** <i>7/11/2023 tarihli ve 7471 sayılı Kanunun 19 uncu maddesiyle bu cetvelin (3) numaralı sırasına “Gelir İdaresi Başkanı,” ibaresinden sonra gelmek üzere “Kentsel Dönüşüm Başkanı,” ibaresi, (4) numaralı sırasına “Gelir İdaresi Başkan Yardımcısı,” ibaresinden sonra gelmek üzere “Kentsel Dönüşüm Başkan Yardımcısı,” ibaresi ve (9) numaralı sırasına “Türkiye İş Kurumu Genel Müdürlüklerinin il müdürü,” ibaresinden sonra gelmek üzere “Kentsel Dönüşüm Müdürü,” ibaresi eklenmiştir.</i></small>
 
-<small>[105] 8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu Cetvelin (1) numaralı sırasında yer alan “Cumhurbaşkanlığı Genel Sekreteri” ile aynı Cetvelin (3) numaralı sırasında yer alan “Cumhurbaşkanlığı Genel Sekreter Yardımcısı” ibareleri Cetvelden çıkarılmıştır.</small>
+<small>[105] <i>8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu Cetvelin (1) numaralı sırasında yer alan “Cumhurbaşkanlığı Genel Sekreteri” ile aynı Cetvelin (3) numaralı sırasında yer alan “Cumhurbaşkanlığı Genel Sekreter Yardımcısı” ibareleri Cetvelden çıkarılmıştır.</i></small>
 
-<small>[106] 30/3/2023 tarihli ve 7447 sayılı Kanunun 18 inci maddesiyle Cetvelin (2) numaralı sırasına “Özelleştirme İdaresi Başkanı” ibaresinden sonra gelmek üzere “, ek göstergesi 7.800 ve daha yüksek tespit edilen kadrolarda bulunanlar” ibaresi eklenmiştir.</small>
+<small>**<i>[106]</i>** <i>30/3/2023 tarihli ve 7447 sayılı Kanunun 18 inci maddesiyle Cetvelin (2) numaralı sırasına “Özelleştirme İdaresi Başkanı” ibaresinden sonra gelmek üzere “, ek göstergesi 7.800 ve daha yüksek tespit edilen kadrolarda bulunanlar” ibaresi eklenmiştir.</i></small>
 
-<small>[107] 21/11/2024 tarihli ve 7533 sayılı Kanunun 46 ncı maddesi ile bu Cetvelin (3) numaralı sırasına “Sosyal Güvenlik Kurumu Başkanı,” ibaresinden sonra gelmek üzere “Afet ve Acil Durum Yönetimi Başkanı,” ibaresi eklenmiş, (4) numaralı sırasında yer alan “Afet ve Acil Durum Yönetimi Başkanı,” ibaresi çıkarılmış ve aynı sıraya “Sosyal Güvenlik Kurumu Başkan Yardımcısı,” ibaresinden sonra gelmek üzere “Afet ve Acil Durum Yönetimi Başkan Yardımcısı,” ibaresi eklenmiştir.</small>
+<small>[107] <i>21/11/2024 tarihli ve 7533 sayılı Kanunun 46 ncı maddesi ile bu Cetvelin (3) numaralı sırasına “Sosyal Güvenlik Kurumu Başkanı,” ibaresinden sonra gelmek üzere “Afet ve Acil Durum Yönetimi Başkanı,” ibaresi eklenmiş, (4) numaralı sırasında yer alan “Afet ve Acil Durum Yönetimi Başkanı,” ibaresi çıkarılmış ve aynı sıraya “Sosyal Güvenlik Kurumu Başkan Yardımcısı,” ibaresinden sonra gelmek üzere “Afet ve Acil Durum Yönetimi Başkan Yardımcısı,” ibaresi eklenmiştir.</i></small>
 
-<small>[108] 16/3/2022 tarihli ve 7383 sayılı Kanunun 12 nci maddesiyle bu cetvelin (4) numaralı sırasına “Diyanet İşleri Başkan Yardımcısı,” ibaresinden sonra gelmek üzere “Diyanet Akademisi Başkanı,” ibaresi eklenmiştir.</small>
+<small>**<i>[108]</i>** <i>16/3/2022 tarihli ve 7383 sayılı Kanunun 12 nci maddesiyle bu cetvelin (4) numaralı sırasına “Diyanet İşleri Başkan Yardımcısı,” ibaresinden sonra gelmek üzere “Diyanet Akademisi Başkanı,” ibaresi eklenmiştir.</i></small>
 
-<small>[109] 2/7/2018 tarihli ve 703 sayılı KHK’nin 144 üncü maddesiyle, bu cetvelin 8 inci sırasında yer alan “Üniversitelerarası Kurul Genel Sekreteri” ibaresinden sonra gelmek üzere “Din İşleri Yüksek Kurulu Sekreteri” ibaresi eklenmiştir.</small>
+<small>**<i>[109]</i>** <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 144 üncü maddesiyle, bu cetvelin 8 inci sırasında yer alan “Üniversitelerarası Kurul Genel Sekreteri” ibaresinden sonra gelmek üzere “Din İşleri Yüksek Kurulu Sekreteri” ibaresi eklenmiştir.</i></small>
 
-<small>[110] 11/3/2026 tarihli ve 7576 sayılı Kanunun 29 uncu maddesiyle bu sırada yer alan “Vakıflar” ibaresinden sonra gelmek üzere “, Doğa Koruma ve Milli Parklar” ibaresi eklenmiştir.</small>
+<small>[110] <i>11/3/2026 tarihli ve 7576 sayılı Kanunun 29 uncu maddesiyle bu sırada yer alan “Vakıflar” ibaresinden sonra gelmek üzere “, Doğa Koruma ve Milli Parklar” ibaresi eklenmiştir.</i></small>
 
-<small>[111] 8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu Cetvelin başlığında yer alan “İdari İşler Başkanlığı” ibaresi “Genel Sekreterliği” şeklinde, aynı Cetvelin “I- GENEL İDARE HİZMETLERİ SINIFI” bölümünün (a) sırasında yer alan “Genel Sekreter” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreteri” şeklinde, (ç) sırasında yer alan “Genel Sekreter Yardımcısı” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreter Yardımcısı” şeklinde değiştirilmiştir.</small>
+<small>[111] <i>8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu Cetvelin başlığında yer alan “İdari İşler Başkanlığı” ibaresi “Genel Sekreterliği” şeklinde, aynı Cetvelin “I- GENEL İDARE HİZMETLERİ SINIFI” bölümünün (a) sırasında yer alan “Genel Sekreter” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreteri” şeklinde, (ç) sırasında yer alan “Genel Sekreter Yardımcısı” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreter Yardımcısı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[112] Bu cetvelin başlığı “Cumhurbaşkanlığı Genel Sekreterliği ve Türkiye Büyük Millet Meclisi Genel Sekreterliği Personeli Makam Tazminatı Göstergeleri” iken, 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>**<i>[112]</i>** <i>Bu cetvelin başlığı “Cumhurbaşkanlığı Genel Sekreterliği ve Türkiye Büyük Millet Meclisi Genel Sekreterliği Personeli Makam Tazminatı Göstergeleri” iken, 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[113] 1/7/2022 tarihli ve 7417 sayılı Kanunun 22 nci maddesiyle bu cetvelin 3 üncü sırasında yer alan “6400” ibaresi “7000” şeklinde değiştirilmiştir.</small>
+<small>**<i>[113]</i>** <i>1/7/2022 tarihli ve 7417 sayılı Kanunun 22 nci maddesiyle bu cetvelin 3 üncü sırasında yer alan “6400” ibaresi “7000” şeklinde değiştirilmiştir.</i></small>
 
-<small>[114] 8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu Cetvelin (1) numaralı sırasında yer alan “Genel Sekreter” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreteri” şeklinde değiştirilmiştir.</small>
+<small>[114] <i>8/5/2025 tarihli ve 7547 sayılı Kanunun 22 nci maddesiyle bu Cetvelin (1) numaralı sırasında yer alan “Genel Sekreter” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreteri” şeklinde değiştirilmiştir.</i></small>
 
-<small>[115] 30/3/2023 tarihli ve 7447 sayılı Kanunun 18 inci maddesiyle Cetvelin (2) numaralı sırasına “, ek göstergesi 7.800 ve daha yüksek tespit edilen kadrolarda bulunanlar” ibaresi eklenmiştir.</small>
+<small>**<i>[115]</i>** <i>30/3/2023 tarihli ve 7447 sayılı Kanunun 18 inci maddesiyle Cetvelin (2) numaralı sırasına “, ek göstergesi 7.800 ve daha yüksek tespit edilen kadrolarda bulunanlar” ibaresi eklenmiştir.</i></small>
 
-<small>[116] 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu cetvelin 5 numaralı sırasında yer alan; “I. Hukuk Müşaviri,” ibaresi cetvelden çıkarılmış, aynı sırada yer alan “Cumhurbaşkanlığı ve Türkiye Büyük Millet Meclisi’nde birim yöneticisi konumundaki Müdürler” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Başkan Yardımcısı ve Cumhurbaşkanlığında birim yöneticisi konumundaki Müdürler” şeklinde değiştirilmiştir.</small>
+<small>**<i>[116]</i>** <i>1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu cetvelin 5 numaralı sırasında yer alan; “I. Hukuk Müşaviri,” ibaresi cetvelden çıkarılmış, aynı sırada yer alan “Cumhurbaşkanlığı ve Türkiye Büyük Millet Meclisi’nde birim yöneticisi konumundaki Müdürler” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Başkan Yardımcısı ve Cumhurbaşkanlığında birim yöneticisi konumundaki Müdürler” şeklinde değiştirilmiştir.</i></small>
 
-<small>[117] 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle 375 sayılı Kanun Hükmünde Kararname’ye eklenen Ek Madde 12’nin yürürlüğüne ilişkin 8 inci maddesinin birinci fıkrasının (a) bendinde yer alan “1 inci maddesiyle 375 sayılı Kanun Hükmünde Kararnameye eklenen ek 12 nci madde,…” ibaresi; bu ibarenin Ek Madde 12’nin (1) numaralı fıkrası ve (2) numaralı fıkrasının (j) bendi dışında kalan bölümü yönünden 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</small>
+<small>**<i>[117]</i>** <i>11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle 375 sayılı Kanun Hükmünde Kararname’ye eklenen Ek Madde 12’nin yürürlüğüne ilişkin 8 inci maddesinin birinci fıkrasının (a) bendinde yer alan “1 inci maddesiyle 375 sayılı Kanun Hükmünde Kararnameye eklenen ek 12 nci madde,…” ibaresi; bu ibarenin Ek Madde 12’nin (1) numaralı fıkrası ve (2) numaralı fıkrasının (j) bendi dışında kalan bölümü yönünden 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</i></small>

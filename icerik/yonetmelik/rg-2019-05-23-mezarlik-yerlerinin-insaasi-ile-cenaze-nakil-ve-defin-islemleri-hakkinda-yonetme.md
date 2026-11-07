@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Çevre ve Şehircilik ve Sağlık Bakanlıklarından:
-MEZARLIK YERLERİNİN İNŞAASI İLE CENAZE NAKİL VE DEFİN İŞLEMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MEZARLIK YERLERİNİN İNŞAASI İLE CENAZE NAKİL VE DEFİN İŞLEMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 19/1/2010 tarihli ve 27467 sayılı Resmî Gazete’de yayımlanan Mezarlık Yerlerinin İnşaası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmeliğin 45 inci maddesinin birinci fıkrasındaki “İçişleri” ibaresi “Çevre ve Şehircilik” olarak değiştirilmiştir.
 

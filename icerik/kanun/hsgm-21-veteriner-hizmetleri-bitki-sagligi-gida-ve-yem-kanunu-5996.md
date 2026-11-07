@@ -9,37 +9,37 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-VETERİNER HİZMETLERİ, BİTKİ SAĞLIĞI, GIDA VE YEM KANUNU
+**VETERİNER HİZMETLERİ, BİTKİ SAĞLIĞI, GIDA VE YEM KANUNU**
 
-Kanun Numarası : 5996
+**Kanun Numarası : 5996**
 
-Kabul Tarihi : 11/6/2010
+**Kabul Tarihi : 11/6/2010**
 
-Yayımlandığı R.Gazete : Tarih: 13/6/2010 Sayı : 27610
+**Yayımlandığı R.Gazete : Tarih: 13/6/2010 Sayı : 27610**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 49
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 49**
 
-BİRİNCİ KISIM
+**BİRİNCİ KISIM**
 
-Genel Hükümler
+**Genel Hükümler**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Amaç, Kapsam ve Tanımlar
+**Amaç, Kapsam ve Tanımlar**
 
-Amaç
+**Amaç**
 
-MADDE 1- (1) Bu Kanunun amacı, gıda ve yem güvenilirliğini, halk sağlığı, bitki ve hayvan sağlığı ile hayvan ıslahı ve refahını, tüketici menfaatleri ile çevrenin korunması da dikkate alınarak korumak ve sağlamaktır.
+**MADDE 1-** (1) Bu Kanunun amacı, gıda ve yem güvenilirliğini, halk sağlığı, bitki ve hayvan sağlığı ile hayvan ıslahı ve refahını, tüketici menfaatleri ile çevrenin korunması da dikkate alınarak korumak ve sağlamaktır.
 
-Kapsam
+**Kapsam**
 
-MADDE 2- (1) Bu Kanun, gıda, gıda ile temas eden madde ve malzeme ile yemlerin üretim, işleme ve dağıtımının tüm aşamalarını, bitki koruma ürünü ve veteriner tıbbî ürün kalıntıları ile diğer kalıntılar ve bulaşanların kontrollerini, salgın veya bulaşıcı hayvan hastalıkları, bitki ve bitkisel ürünlerdeki zararlı organizmalar ile mücadeleyi, çiftlik ve deney hayvanları ile ev ve süs hayvanlarının refahını, zootekni konularını, veteriner sağlık ve bitki koruma ürünlerini, veteriner ve bitki sağlığı hizmetlerini, canlı hayvan ve ürünlerin ülkeye giriş ve çıkış işlemlerini ve bu konulara ilişkin resmî kontrolleri ve yaptırımları kapsar.
+**MADDE 2-** (1) Bu Kanun, gıda, gıda ile temas eden madde ve malzeme ile yemlerin üretim, işleme ve dağıtımının tüm aşamalarını, bitki koruma ürünü ve veteriner tıbbî ürün kalıntıları ile diğer kalıntılar ve bulaşanların kontrollerini, salgın veya bulaşıcı hayvan hastalıkları, bitki ve bitkisel ürünlerdeki zararlı organizmalar ile mücadeleyi, çiftlik ve deney hayvanları ile ev ve süs hayvanlarının refahını, zootekni konularını, veteriner sağlık ve bitki koruma ürünlerini, veteriner ve bitki sağlığı hizmetlerini, canlı hayvan ve ürünlerin ülkeye giriş ve çıkış işlemlerini ve bu konulara ilişkin resmî kontrolleri ve yaptırımları kapsar.
 
 (2) Kişisel tüketim amaçlı birincil üretim ile kişisel tüketim amacıyla hazırlanan gıdalar bu Kanunun kapsamı dışındadır.
 
-Tanımlar
+**Tanımlar**
 
-MADDE 3- (1) Bu Kanunun uygulanmasında;
+**MADDE 3-** (1) Bu Kanunun uygulanmasında;
 
 1) Ahşap ambalaj malzemesi: Ambalaj destek malzemesi dâhil bir malın korunması ya da taşınmasında kullanılan, kâğıt ürünleri hariç ahşap veya ahşap ürünlerini, 2) Alıkoyma: Canlı hayvan ve ürünler ile ilgili bir karar verilinceye kadar, kontrol görevlisinin vereceği talimatlar doğrultusunda ürünlerin işletmecisi tarafından depolanması ve sahibi tarafından hayvanların muhafazası dâhil, hareketinin veya bunlara dokunulmasının kısıtlanması veya engellenmesini, 3) Bakanlık: Tarım ve Köyişleri Bakanlığını, 10560 4) Balıkçılık ürünleri: Canlı çift kabuklu yumuşakçalar, canlı denizkestaneleri, canlı gömlekliler ve canlı deniz karından bacaklıları ve bütün deniz memelileri, sürüngenler ve kurbağalar dışında kalan, doğadan veya yetiştiricilik yoluyla elde edilen, bütün deniz ve tatlı su hayvanlarının yenilebilir tüm biçimlerini, kısımlarını ve ürünlerini, 5) Birincil üretim: Kesimine kadar çiftlik hayvanlarının üretilmesi, sağımı, bitkisel ürünlerin hasadı da dâhil olmak üzere birincil ürünlerin üretilmesi, yetiştirilmesi, avlanma, balıkçılık ve yabanî ürünlerin toplanmasını, 6) Birincil ürünler: Topraktan ve hayvan yetiştiriciliğinden elde edilen ürünler ile avlanma ve balıkçılık yoluyla elde edilen ürünler dâhil birincil üretim ürünlerini, 7) Bitki: Canlı bitkiler ile bunların derin dondurulmamış meyve ve sebzeleri, yumrular, soğansılar, soğanlar ve rizomlar, kesme çiçekler, yapraklı dallar, budama artığı yapraklar, yapraklar, bitki doku kültürleri, canlı polen, göz, kalem ve çelik gibi canlılığını koruyan belirli parçaları ile dikim amaçlı olan botanik tohumlarını, 8) Bitki koruma ürünü: Kullanıcıya farklı formlarda sunulan, bitki ve bitkisel ürünleri zararlı organizmalara karşı koruyan veya bu organizmaların etkilerini önleyen, bitki besleme amaçlı olanlar dışında bitki gelişimini etkileyen, koruyuculara ilişkin özel bir düzenleme kapsamında bulunmayan ancak bitkisel ürünleri koruyucu olarak kullanılan, bitki ve bitki kısımlarının istenmeyen gelişmelerini kontrol eden veya önleyen, istenmeyen bitkileri yok eden, bir veya daha fazla aktif maddeyi veya aktif madde, sinerji yaratan veya güvenilirliği artıran maddeler gibi bileşenleri içeren preparatları, 9) Bitki pasaportu: Bitki sağlığı ile ilgili bu Kanun ve diğer ilgili mevzuat ile belirlenen bitki sağlığı standartlarının ve özel şartların karşılandığını gösteren, çeşitli bitki ve bitkisel ürünler için standart hâle getirilmiş, Bakanlıkça belirlenen usullere uygun olarak hazırlanan ve Bakanlık veya Bakanlıkça yetkilendirilenler tarafından düzenlenen resmî etiketi veya belirli ürünler için Bakanlıkça kabul edilen etiket dışındaki işareti, 10) Bitki sağlık sertifikası: Bitki ve bitkisel ürünlerin bu Kanunda belirtilen bitki sağlığı şartlarına uygun olduğunu gösteren belgeyi, 11) Bitkisel ürün: Bitkisel orijinli, işlem görmemiş veya basit bir işlemden geçmiş, bitki tanımına girmeyen ürünleri, 12) Bulaşan: Gıdaya kasten ilave edilmeyen ancak, gıdanın birincil üretim aşaması dâhil üretimi, imalatı, işlenmesi, hazırlanması, işleme tâbi tutulması, ambalajlanması, paketlenmesi, nakliyesi veya muhafazası ya da çevresel bulaşma sonucu gıdada bulunan, hayvan tüyü, böcek parçası gibi yabancı maddeler hariç olmak üzere her tür maddeyi, 13) Çıkış: Malların Türkiye Gümrük Bölgesinden çıkışı ile ihracatı ve geçici ihracatı, 14) Çiftlik hayvanı: Et, süt, yumurta da dâhil olmak üzere gıda, deri, kürk, yün, tüy veya diğer ürünlerin temini için veya işgücü amacıyla insanlar tarafından yetiştirilen ve beslenen hayvanları, 15) Damızlık: Irkına, tipine ve verimine özgü özellikleri gösteren vasıflı ve belgeli hayvanları, 10561 16) Denetim: Yem, gıda, hayvan refahı ve ıslahı, bitki ve hayvan sağlığı ile ilgili faaliyetlerin bu Kanun hükümlerine uygunluğunun tespiti amacıyla Bakanlık tarafından yapılan veya yaptırılan tüm işlemleri, 17) Doğrulama: İnceleme yapılarak ve objektif bulgular dikkate alınarak belirlenen şartların karşılanıp karşılanmadığının tespiti için yapılan kontrolü, 18) Don: At ve diğer memelilerde vücudu örten kıllara hâkim olan veya bu kıllardan çoğunluğa yakın kısmının müşterek olarak gösterdiği rengi, 19) Diğer maddeler: Bitki sağlığı açısından zararlı organizma taşıma riski bulunan, bitki ve bitkisel ürünler dışında kalan maddeleri, 20) Dikim: Bitkilerin büyümesi, üremesi ve çoğaltımını teminen bir ortama yerleştirilmesi işlemini, 21) Dikim amaçlı bitki: Dikili olan ve dikili olarak kalacak bitkiler veya şaşırtma işlemi yapılacak bitkiler ile dikili olmayan fakat sonrasında dikilecek olan bitkileri, 22) Ev ve süs hayvanı: Sahiplerinin ya da sahipleri adına sorumluluğunu almış kişilerin yanında bulunan, üçüncü bir şahsa satışı ya da devredilmesi amaçlanmayan arılar, kabuklu hayvanlar ve kümes hayvanları haricindeki omurgasızlar, amfibik hayvanlar, köpek, kedi, gelincik, süs balıkları, sürüngen, kemirgen, evcil tavşan ve tüm kuşları, 23) Faydalı organizma: Biyolojik evresinin herhangi bir dönemini zararlı organizma üzerinde geçiren ve bu organizmanın popülasyonunu sınırlayabilen parazitoit, parazit, predatör ve patojenleri, 24) Gıda: Doğrudan insan tüketimine sunulmayan canlı hayvanlar, yem, hasat edilmemiş bitkiler, tedavi amaçlı kullanılan tıbbî ürünler, kozmetikler, tütün ve tütün mamulleri, narkotik veya psikotropik maddeler ile kalıntı ve bulaşanlar hariç, insanlar tarafından yenilen, içilen veya yenilmesi, içilmesi beklenen işlenmiş, kısmen işlenmiş veya işlenmemiş her türlü madde veya ürün, içki, sakız ile gıdanın üretimi, hazırlanması veya muameleye tâbi tutulması sırasında kullanılan su veya herhangi bir maddeyi, 25) Gıda ile temas eden madde ve malzeme: Gıda maddeleri ile temasta bulunan veya bulunmak üzere üretilen her türlü madde ve malzemeyi, 26) Gıda işletmecisi: Kâr amaçlı olsun veya olmasın kamu kurum ve kuruluşları ile gerçek veya tüzel kişiler tarafından gıdanın üretimi, işlenmesi ve dağıtımının herhangi bir aşamasında kontrolü altında yürütülen faaliyetlerin, mevzuat hükümlerine uygunluğundan sorumlu olan gerçek veya tüzel kişiyi, 27) Gıda kodeksi: Türk Gıda Kodeksini, 28) Giriş: Malların Türkiye Gümrük Bölgesine ve serbest bölgelere girişi, ithalatı ve transit rejimine tâbi tutulmasını, 29) Gözetim: Herhangi bir gıda veya yem işletmesinin, işletmecisinin veya bunların faaliyetlerinin dikkatli bir şekilde gözlemlenmesini, 30) Gözetim bölgesi: Hastalık çevresinde, koruma bölgesini de içine alacak biçimde, koruma bölgesi dışında hastalığın yayılmasını önlemek için gerekli ön tedbirlerin uygulandığı ve hastalığın etkileyebileceği tüm türlerin sağlık durumunun dikkatlice izlendiği bölgeyi, 10562 31) Hayvan: Suda yaşayan hayvanlar, sürüngenler ve amfibik hayvanlar dâhil omurgalı ve omurgasız canlıları, 32) Hayvan sahibi: Hayvanların mülkiyet hakkını üzerinde bulunduran gerçek veya tüzel kişiyi, 33) Hayvansal ürün: İnsan tüketimine sunulan hayvansal gıda, hayvansal yan ürün ve üreme ürünleri dâhil tüm hayvansal ürünleri, 34) Hayvansal yan ürün: Yetiştiricilikte kullanılmayacak olan sperma, ovum, embriyo dâhil, insanlar tarafından tüketimi amaçlanmayan hayvan kökenli ürünler veya hayvanların bütün vücut veya parçaları ile artıklarını, 35) Hijyen: Tehlikenin kontrol altına alınması ve gıda ve yemlerin kullanım amacı dikkate alınarak, insan ve hayvan tüketimine uygunluğunun sağlanması için gerekli her türlü önlem ve koşulu, 36) İstenmeyen etki: Bir veteriner sağlık veya bitki koruma ürününün, etiket ve tanıtıcı bilgilerine uygun olarak kullanımı sonucu, hayvanlarda, insanlarda, bitkilerde veya çevrede görülen zararlı etkileri veya istenmeyen durumları, 37) İthalat: Malların, serbest dolaşıma giriş rejimi, gümrük antrepo rejimi, dâhilde işleme rejimi, gümrük kontrolü altında işleme rejimi ve geçici ithalat rejimi prosedürlerine tâbi tutulmasını, 38) İzleme: Bu Kanun kapsamındaki faaliyetlerin, bu Kanunla belirlenen esaslara uygunluk durumu hakkında genel bir görüş edinmeye yönelik, planlanmış bir dizi gözlem ve ölçümlerin yürütülmesini, 39) İzlenebilirlik: Üretim, işleme ve dağıtımın tüm aşamaları boyunca bitkisel ürünlerin, gıda ve yemin, gıdanın elde edildiği hayvanın veya bitkinin gıda ve yemde bulunması amaçlanan veya beklenen bir maddenin izinin sürülebilmesi ve takip edilebilmesini, 40) Kalıntı: Bitki koruma ürünü kullanımı sonucu, bitki, bitkisel ürünler ile yenilebilir hayvansal ürünlerin içinde, üzerinde veya çevrede bulunan, metabolitler ile yıkımlanma veya reaksiyon sonucunda oluşan ürünler dâhil bir ve birden fazla maddeyi veya hayvansal ürünlere geçerek insan sağlığı üzerinde olumsuz etki yaratma ihtimali bulunan farmakolojik etkili maddeler ve bunların metabolitleri veya diğer maddelerini, 41) Karantina: Hastalık veya zararlı organizmaların ülkeye girişini veya ülke içinde yayılmasını önlemek amacıyla, hayvan, hayvansal ürün, bitki, bitkisel ürün ve diğer maddeler ile bulaşma ihtimali bulunan madde ve malzemelerin kontrol altına alınmasını, 42) Kontrol görevlisi: Bakanlık tarafından resmî kontrol yetkisi verilen kişiyi, 43) Kordon: Hayvan hastalığı görülen alanın gözetim altında tutulması, giriş ve çıkışların kontrol altına alınmasını, 44) Koruma bölgesi: Hayvan hastalığının ve zararlı organizmanın yayılmasını önlemek amacıyla hastalık görülen alanın çevresinde oluşturulan ve gerektiğinde insan hareketlerinin kısıtlanması dâhil, canlı hayvan, bitki, hayvansal ve bitkisel ürünlerin hareketlerinin kısıtlandığı bölgeyi, 10563 45) Korunmuş bölgeler: Bu Kanun kapsamında yer alan, bir veya birden fazla bölgede yerleşik olan, bir veya birden fazla zararlı organizmanın o bölge için endemik olmadığı, çevre koşulları söz konusu zararlı organizmanın yerleşmesine uygun olmasına rağmen, o bölgede yerleşmemesi için korunan veya bu bölgelerde bulunmalarına rağmen eradikasyona tâbi tutulan ve bu koşulların sağlandığı
 
@@ -49,21 +49,21 @@ Bakanlık tarafından yetki verilen veteriner hekimi,
 
 82) Zararlı organizma: Bitki veya bitkisel ürünlere zarar veren bitki, hayvan veya patojenik ajanların tür, streyn veya biyotiplerini, 83) Ziraî mücadele alet ve makineleri: Bitki koruma ürünlerinin uygulanmasında kullanılacak her türlü alet, araç-gereç, makine, cihaz, ekipman ile bunların aksam, parça ve teferruatını, 84) Zootekni: Hayvanların yetiştirilmesi, ıslahı, bakımı ve beslenmesi, üreme ve çoğalması ve belgelendirme ile ilgili uygulamaları, ifade eder.
 
-İKİNCİ KISIM
+**İKİNCİ KISIM**
 
-Hayvan Sağlığı, Hayvan Refahı ve Zootekni
+**Hayvan Sağlığı, Hayvan Refahı ve Zootekni**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Bulaşıcı Hayvan Hastalıklarının Kontrolü ve Yükümlülükler, Hayvan Hastalık
+**Bulaşıcı Hayvan Hastalıklarının Kontrolü ve Yükümlülükler, Hayvan Hastalık**
 
-Tazminatı ve İnsanlar Tarafından Tüketilmesi Amaçlanmayan
+**Tazminatı ve İnsanlar Tarafından Tüketilmesi Amaçlanmayan**
 
-Hayvansal Yan Ürünler
+**Hayvansal Yan Ürünler**
 
-Bulaşıcı hayvan hastalıklarının kontrolü ve yükümlülükler
+**Bulaşıcı hayvan hastalıklarının kontrolü ve yükümlülükler**
 
-MADDE 4- (1) Bulaşıcı hayvan hastalıklarının kontrolünde aşağıdaki esaslar uygulanır:
+**MADDE 4-** (1) Bulaşıcı hayvan hastalıklarının kontrolünde aşağıdaki esaslar uygulanır:
 
 a) Bakanlık, ihbarı mecburî bir hastalığın varlığı veya şüphesi ya da yeni bir salgın durumunda, inceleme yapmak, teşhis etmek, gerekli kontrol ve koruma tedbirlerini almakla yükümlüdür.
 
@@ -93,9 +93,9 @@ d) Bakanlık, yabancı bir ülkede hastalık çıkması durumunda, hastalığın
 
 (9) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.
 
-Hayvan hastalık tazminatı
+**Hayvan hastalık tazminatı**
 
-MADDE 5- (1) Hayvanlarda herhangi bir tazminatlı hastalık tespit edilmesi sonucu resmî veteriner hekim veya yetkilendirilmiş veteriner hekim gözetiminde mecburî kesime tâbi tutulan veya itlaf edilen hayvanlar ile mezbahalarda tespit edilen tazminatlı hastalık nedeniyle imha edilen hayvanların bedelleri Bakanlar Kurulu tarafından belirlenen oranlarda, hastalık nedeniyle imha edilen hayvansal ürünlerin, yem, madde ve malzemelerin bedelleri ile imha, nakliye ve dezenfeksiyon masrafları Bakanlık tarafından sahiplerine tazminat olarak ödenir. Bakanlık her yıl, bütçe imkânları, hastalıklarla ilgili bilimsel veriler ile eradikasyon ve kontrol programlarına göre, tazminatlı hastalıklardan hangilerine tazminat ödemesi yapacağını, ödeme yapılacak yerleri ve uygulama zamanını belirler.
+**MADDE 5-** (1) Hayvanlarda herhangi bir tazminatlı hastalık tespit edilmesi sonucu resmî veteriner hekim veya yetkilendirilmiş veteriner hekim gözetiminde mecburî kesime tâbi tutulan veya itlaf edilen hayvanlar ile mezbahalarda tespit edilen tazminatlı hastalık nedeniyle imha edilen hayvanların bedelleri Bakanlar Kurulu tarafından belirlenen oranlarda, hastalık nedeniyle imha edilen hayvansal ürünlerin, yem, madde ve malzemelerin bedelleri ile imha, nakliye ve dezenfeksiyon masrafları Bakanlık tarafından sahiplerine tazminat olarak ödenir. Bakanlık her yıl, bütçe imkânları, hastalıklarla ilgili bilimsel veriler ile eradikasyon ve kontrol programlarına göre, tazminatlı hastalıklardan hangilerine tazminat ödemesi yapacağını, ödeme yapılacak yerleri ve uygulama zamanını belirler.
 
 (2) İhbarı mecburî bir hastalığa karşı koruma sağlamak amacıyla, resmî veteriner hekim veya sorumluluğundaki yardımcı sağlık personeli ile yetkilendirilmiş veteriner hekim tarafından yapılan aşı ve serum uygulaması nedeniyle öldüğü resmî veteriner hekim raporu ile tespit edilen hayvanların bedelleri hayvan sahiplerine tazminat olarak ödenir.
 
@@ -105,33 +105,33 @@ MADDE 5- (1) Hayvanlarda herhangi bir tazminatlı hastalık tespit edilmesi sonu
 
 (5) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir. Tazminatların ödenmesine ilişkin usul ve esasların belirlenmesinde Maliye Bakanlığının görüşü alınır.
 
-İnsanlar tarafından tüketilmesi amaçlanmayan hayvansal yan ürünler
+**İnsanlar tarafından tüketilmesi amaçlanmayan hayvansal yan ürünler**
 
-MADDE 6- (1) İnsanlar tarafından tüketilmesi amaçlanmayan hayvansal yan ürünlerin toplanması, taşınması, depolanması, muamele edilmesi, işlenmesi, imha edilmesi, piyasaya arz edilmesi, ithal veya ihraç edilmesi, transit taşınması ve kullanılması aşamalarında, insan ve hayvan sağlığına yönelik tehdit ve çevresel zararların önlenmesine ilişkin tedbirler Bakanlıkça ve mevzuatı gereği bu hususta yetki ve sorumlulukları bulunan Sağlık Bakanlığı, Çevre ve Orman Bakanlığı ve İçişleri Bakanlığınca alınır.
+**MADDE 6-** (1) İnsanlar tarafından tüketilmesi amaçlanmayan hayvansal yan ürünlerin toplanması, taşınması, depolanması, muamele edilmesi, işlenmesi, imha edilmesi, piyasaya arz edilmesi, ithal veya ihraç edilmesi, transit taşınması ve kullanılması aşamalarında, insan ve hayvan sağlığına yönelik tehdit ve çevresel zararların önlenmesine ilişkin tedbirler Bakanlıkça ve mevzuatı gereği bu hususta yetki ve sorumlulukları bulunan Sağlık Bakanlığı, Çevre ve Orman Bakanlığı ve İçişleri Bakanlığınca alınır.
 
 (2) İnsanlar tarafından tüketilmesi amaçlanmayan hayvansal yan ürünlerin depolanması, muamele edilmesi, işlenmesi ve bertaraf edilmesi yalnızca Bakanlık tarafından onay verilen işletmelerde yapılır.
 
 (3) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.
 
-İKİNCİ BÖLÜM
+**İKİNCİ BÖLÜM**
 
-Hayvanların Tanımlanması ve Kayıt Altına Alınması, Canlı Hayvanlar ve
+**Hayvanların Tanımlanması ve Kayıt Altına Alınması, Canlı Hayvanlar ve**
 
-Hayvansal Ürünlerin Sevkleri ile Hayvan Satış Yerleri ve
+**Hayvansal Ürünlerin Sevkleri ile Hayvan Satış Yerleri ve**
 
-Satışa İlişkin Sağlık Koşulları
+**Satışa İlişkin Sağlık Koşulları**
 
-Hayvanların tanımlanması ve kayıt altına alınması
+**Hayvanların tanımlanması ve kayıt altına alınması**
 
-MADDE 7- (1) Hayvan sahipleri ya da hayvan sahibi adına bakıcısı, Bakanlık tarafından tanımlatılması istenen hayvanları tanımlatmak, bu hayvanlarının ve işletmelerinin kayıtlarını yaptırmak, işletmelerine giren veya işletmelerinden çıkan, yeni doğan, ölen veya kesilen hayvanları Bakanlığa bildirmek ve bunlara ilişkin kayıtları muhafaza etmekle yükümlüdür.
+**MADDE 7-** (1) Hayvan sahipleri ya da hayvan sahibi adına bakıcısı, Bakanlık tarafından tanımlatılması istenen hayvanları tanımlatmak, bu hayvanlarının ve işletmelerinin kayıtlarını yaptırmak, işletmelerine giren veya işletmelerinden çıkan, yeni doğan, ölen veya kesilen hayvanları Bakanlığa bildirmek ve bunlara ilişkin kayıtları muhafaza etmekle yükümlüdür.
 
 (2) Hayvanların tanımlanmasında kullanılan kulak küpesi, mikroçip ve benzeri tanımlama araçlarının bedelleri ile Bakanlıkça belirlenen uygulama ücreti hayvan sahipleri veya bakıcıları tarafından uygulayıcılara ödenir.
 
 (3) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.
 
-Canlı hayvanlar ve hayvansal ürünlerin sevkleri ile hayvan satış yerleri ve satışa ilişkin sağlık koşulları
+**Canlı hayvanlar ve hayvansal ürünlerin sevkleri ile hayvan satış yerleri ve satışa ilişkin sağlık koşulları**
 
-MADDE 8- (1) Canlı hayvan ve hayvansal ürünlerin sevklerine ilişkin hususlar ile canlı hayvan ticareti yapanlar, nakliyeciler ve nakil ile ilgili şartlar ve bunlara ilişkin işlemler Bakanlıkça belirlenir. Bu hususlarla ilgili Bakanlıkça belirlenen şartlara uyulması zorunludur.
+**MADDE 8-** (1) Canlı hayvan ve hayvansal ürünlerin sevklerine ilişkin hususlar ile canlı hayvan ticareti yapanlar, nakliyeciler ve nakil ile ilgili şartlar ve bunlara ilişkin işlemler Bakanlıkça belirlenir. Bu hususlarla ilgili Bakanlıkça belirlenen şartlara uyulması zorunludur.
 
 (2) Hayvancılık işletmelerinden doğrudan yapılan satışlar hariç hayvanların alım ve satımları, ruhsatlı hayvan pazarı, borsalar ve
 
@@ -141,13 +141,13 @@ Bakanlıktan izinli hayvan panayırlarında, ev ve süs hayvanlarının alım ve
 
 (4) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-ÜÇÜNCÜ BÖLÜM
+**ÜÇÜNCÜ BÖLÜM**
 
-Hayvan Refahı ve Zootekni
+**Hayvan Refahı ve Zootekni**
 
-Hayvan refahı
+**Hayvan refahı**
 
-MADDE 9- (1) Hayvan sahipleri veya bakımından sorumlu kişiler, hayvan refahının sağlanması amacıyla, hayvanların barınma, bakım, beslenme, sağlık ve diğer ihtiyaçlarını karşılamak, sorumluluklarındaki hayvanların insan, hayvan ve çevre sağlığı üzerinde oluşturabilecekleri olumsuz etkilere karşı gerekli önlemleri almakla yükümlüdür.
+**MADDE 9-** (1) Hayvan sahipleri veya bakımından sorumlu kişiler, hayvan refahının sağlanması amacıyla, hayvanların barınma, bakım, beslenme, sağlık ve diğer ihtiyaçlarını karşılamak, sorumluluklarındaki hayvanların insan, hayvan ve çevre sağlığı üzerinde oluşturabilecekleri olumsuz etkilere karşı gerekli önlemleri almakla yükümlüdür.
 
 (2) Hayvanların kesimi ve hastalık kontrolü amacıyla itlafı, hayvanlarda heyecan, acı ve ıstırap oluşturmadan, uygun araçlar kullanılarak yerine getirilir.
 
@@ -159,9 +159,9 @@ a) Hayvanlara acı ve ıstırap çektiren veya iyileşme durumu bulunmayan hasta
 
 (5) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Zootekni
+**Zootekni**
 
-MADDE 10- (1) Bakanlık, hayvan ıslahı, hayvan gen kaynaklarının korunması, geliştirilmesi, damızlık amaçlı hayvanların yetiştirilmesi, kayıt altına alınması, ön soy kütüğü ve soy kütüklerinin oluşturulması ve belgelendirilmesi gibi zootekni konularında düzenleme yapmaya, hayvan yarışları düzenlemeye, yurt içinde ve yurt dışında düzenlenen hayvan yarışları üzerine yurt içinden ve yurt dışından müşterek bahis kabul etmeye yetkilidir.
+**MADDE 10-** (1) Bakanlık, hayvan ıslahı, hayvan gen kaynaklarının korunması, geliştirilmesi, damızlık amaçlı hayvanların yetiştirilmesi, kayıt altına alınması, ön soy kütüğü ve soy kütüklerinin oluşturulması ve belgelendirilmesi gibi zootekni konularında düzenleme yapmaya, hayvan yarışları düzenlemeye, yurt içinde ve yurt dışında düzenlenen hayvan yarışları üzerine yurt içinden ve yurt dışından müşterek bahis kabul etmeye yetkilidir.
 
 (2) Damızlık hayvan yetiştiricileri, damızlık hayvanlar ile ilgili Bakanlıkça talep edilen kayıtları tutmak ve istenildiğinde
 
@@ -175,7 +175,7 @@ Bakanlıkça belirlenir.
 
 (5) Bakanlık, hayvan gen kaynaklarının korunmasına yönelik tedbirleri alır, uygular veya uygulatır.
 
-(6) (İptal: Anayasa Mahkemesi’nin 20/3/2013 tarihli ve E:2012/76, K: 2013/44 sayılı Kararı ile.) (1)
+(6) **(İptal: Anayasa Mahkemesi’nin 20/3/2013 tarihli ve E:2012/76, K: 2013/44 sayılı Kararı ile.) (1)**
 
 (7) Bakanlık, hayvan ırklarının tescili ile ilgili iş ve işlemleri belirler ve yürütür. Tescil edilen hayvanların sınaî mülkiyet hakları bunları tescil ettiren gerçek ve tüzel kişilere veya onların kanunî temsilcilerine aittir.
 
@@ -201,33 +201,33 @@ Bu hayvanlardan doğacak yavrulara damızlık belgesi ya da pedigri verilmez.
 
 (15) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-DÖRDÜNCÜ BÖLÜM
+**DÖRDÜNCÜ BÖLÜM**
 
-Veteriner Hizmetleri ile İlgili Faaliyet Onayları
+**Veteriner Hizmetleri ile İlgili Faaliyet Onayları**
 
-Veteriner hizmetleri ile ilgili faaliyet onayları
+**Veteriner hizmetleri ile ilgili faaliyet onayları**
 
-MADDE 11- (1) Bu Kanun kapsamında faaliyet gösteren muayenehane, klinik, poliklinik, hayvan hastanesi, ev ve süs hayvanı satış yerleri, hayvan eğitim ve barınma yerleri, otel hizmeti veren hayvan bakımevleri, hayvan pazar ve borsaları, damızlık kümes ve kuluçkahaneler, hayvan hastalıkları teşhis, analiz ve üretim laboratuvarları ile deney hayvanı üretici ve tedarikçileri Bakanlıktan onay almak ve istenen kayıtları tutmakla yükümlüdür.
+**MADDE 11-** (1) Bu Kanun kapsamında faaliyet gösteren muayenehane, klinik, poliklinik, hayvan hastanesi, ev ve süs hayvanı satış yerleri, hayvan eğitim ve barınma yerleri, otel hizmeti veren hayvan bakımevleri, hayvan pazar ve borsaları, damızlık kümes ve kuluçkahaneler, hayvan hastalıkları teşhis, analiz ve üretim laboratuvarları ile deney hayvanı üretici ve tedarikçileri Bakanlıktan onay almak ve istenen kayıtları tutmakla yükümlüdür.
 
 (2) Birinci fıkra kapsamındaki muayenehane, klinik ve polikliniklerin açılması için yalnızca veteriner hekimlere onay verilir.
 
 (3) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-ÜÇÜNCÜ KISIM
+**ÜÇÜNCÜ KISIM**
 
-Veteriner Sağlık Ürünleri
+**Veteriner Sağlık Ürünleri**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Veteriner Sağlık Ürünlerinin Onayı, Üretimi ve Sahibinin
+**Veteriner Sağlık Ürünlerinin Onayı, Üretimi ve Sahibinin**
 
-Sorumlulukları, Toptan ve Perakende Satışı,
+**Sorumlulukları, Toptan ve Perakende Satışı,**
 
-Tanıtımı ve Uygulanması
+**Tanıtımı ve Uygulanması**
 
-Veteriner sağlık ürünlerinin onayı, üretimi ve sahibinin sorumlulukları
+**Veteriner sağlık ürünlerinin onayı, üretimi ve sahibinin sorumlulukları**
 
-MADDE 12- (1) Veteriner sağlık ürünlerinin üretimi, ithalatı, ihracatı, kullanımı, ambalajlanması, etiketlenmesi, tanıtımı, nakliyesi, depolanması, reçeteli ya da reçetesiz satışı, onayı, kontrolü ve teminine ilişkin işlemler Bakanlık tarafından belirlenir.
+**MADDE 12-** (1) Veteriner sağlık ürünlerinin üretimi, ithalatı, ihracatı, kullanımı, ambalajlanması, etiketlenmesi, tanıtımı, nakliyesi, depolanması, reçeteli ya da reçetesiz satışı, onayı, kontrolü ve teminine ilişkin işlemler Bakanlık tarafından belirlenir.
 
 (2) Veteriner tıbbî ürünlerinin üretimi, ithalatı, ihracatı ve piyasaya arzı için Bakanlıktan onay alınması zorunludur. Onaya ilişkin bilgilerin gizliliği esastır.
 
@@ -265,9 +265,9 @@ Veteriner biyolojik ürünlerin üretim ve kalite kontrolleri ile veteriner sağ
 
 (18) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Veteriner tıbbî ürünlerinin toptan ve perakende satışı, tanıtımı
+**Veteriner tıbbî ürünlerinin toptan ve perakende satışı, tanıtımı**
 
-MADDE 13- (1) Veteriner biyolojik ürünler dışındaki veteriner tıbbî ürünlerinin toptan satışı, ecza depoları veya veteriner ecza depoları kanalıyla, perakende satışları ise eczaneler, veteriner muayenehane, klinik, poliklinik ve hayvan hastaneleri kanalıyla yapılır.
+**MADDE 13-** (1) Veteriner biyolojik ürünler dışındaki veteriner tıbbî ürünlerinin toptan satışı, ecza depoları veya veteriner ecza depoları kanalıyla, perakende satışları ise eczaneler, veteriner muayenehane, klinik, poliklinik ve hayvan hastaneleri kanalıyla yapılır.
 
 Ancak, Bakanlıkça izin verilmiş süs kuşları ile akvaryum ve egzotik süs hayvanlarını satan işyerlerinde, veteriner biyolojik ürünler dışındaki sadece bu hayvanlara mahsus olan veteriner tıbbî ürünler satılabilir. Veteriner biyolojik ürünlerin satışına ilişkin hususlar
 
@@ -285,9 +285,9 @@ Bakanlığın belirlediği uygun şartlarda muhafaza etmek ve denetimlerde her t
 
 (6) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Veteriner tıbbî ürünlerin uygulanması
+**Veteriner tıbbî ürünlerin uygulanması**
 
-MADDE 14- (1) Veteriner hekim, uygulayacağı veya tavsiye edeceği, reçeteye tâbi veteriner tıbbî ürünler ve terkipler için, reçete düzenlemek, belirlenen kayıtları tutmak ve talep edildiğinde Bakanlığa sunmak zorundadır.
+**MADDE 14-** (1) Veteriner hekim, uygulayacağı veya tavsiye edeceği, reçeteye tâbi veteriner tıbbî ürünler ve terkipler için, reçete düzenlemek, belirlenen kayıtları tutmak ve talep edildiğinde Bakanlığa sunmak zorundadır.
 
 (2) Veteriner tıbbî ürünler, kullanıma arz edilen hâliyle, etiket ve prospektüs bilgilerine göre uygulanır. Buna aykırı uygulamalarda sorumluluk, uygulayana ve uygulanmasına izin verene aittir.
 
@@ -295,21 +295,21 @@ MADDE 14- (1) Veteriner hekim, uygulayacağı veya tavsiye edeceği, reçeteye t
 
 (4) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-DÖRDÜNCÜ KISIM
+**DÖRDÜNCÜ KISIM**
 
-Bitki Sağlığı
+**Bitki Sağlığı**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Zararlı Organizmaların Kontrolü ve Yükümlülükler,
+**Zararlı Organizmaların Kontrolü ve Yükümlülükler,**
 
-Bitki Hastalık ve Zararlıları Tazminatı,
+**Bitki Hastalık ve Zararlıları Tazminatı,**
 
-Kayıt ve Bitki Pasaportu
+**Kayıt ve Bitki Pasaportu**
 
-Zararlı organizmaların kontrolü ve yükümlülükler
+**Zararlı organizmaların kontrolü ve yükümlülükler**
 
-MADDE 15- (1) Bitki ve bitkisel ürünlerde zarar yapan organizmaların yurt içine girişi veya yurt içinde yayılmasını engellemek için aşağıdaki esaslar uygulanır:
+**MADDE 15-** (1) Bitki ve bitkisel ürünlerde zarar yapan organizmaların yurt içine girişi veya yurt içinde yayılmasını engellemek için aşağıdaki esaslar uygulanır:
 
 a) Bakanlık, bitki ve bitkisel ürünler ile zararlı organizma taşıma ihtimali bulunan diğer maddeler ile ilgili inceleme, teşhis, gerekli kontrol ve koruma tedbirlerini almakla yükümlüdür.
 
@@ -349,9 +349,9 @@ Bakanlıktan onay almak ve yetiştirme süresince Bakanlıkça belirlenen esasla
 
 (14) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Bitki hastalık ve zararlıları tazminatı
+**Bitki hastalık ve zararlıları tazminatı**
 
-MADDE 16- (1) Bitki ve bitkisel ürünlerde tazminata tâbi hastalık ve zararlıları ile tazminat oranları Bakanlığın teklifi üzerine
+**MADDE 16-** (1) Bitki ve bitkisel ürünlerde tazminata tâbi hastalık ve zararlıları ile tazminat oranları Bakanlığın teklifi üzerine
 
 Bakanlar Kurulu tarafından belirlenir.
 
@@ -359,25 +359,25 @@ Bakanlar Kurulu tarafından belirlenir.
 
 (3) Bitki hastalık ve zararlıları nedeniyle imha edilen ürünlerin tazminata esas değerleri, mahallin rayiç bedelleri dikkate alınarak yerel kıymet takdir komisyonu tarafından belirlenir. Yerel kıymet takdir komisyonu, bir Bakanlık temsilcisi, mahallin mülkî idare amirinin belirlediği bir üye ile ürün sahibinin konuyla ilgili sivil toplum kuruluşları temsilcileri arasından seçeceği bir üye olmak üzere üç üyeden oluşur.
 
-Kayıt ve bitki pasaportu
+**Kayıt ve bitki pasaportu**
 
-MADDE 17- (1) Bakanlıkça belirlenen zararlı organizma taşıyıcısı olabilecek bitki, bitkisel ürün ve diğer maddeleri üreten, ithal eden, depolayan ve ticaretini yapanlar, kayıt ile ilgili Bakanlıkça belirlenen esaslara uymak ve kayıtlarını yaptırmak zorundadır.
+**MADDE 17-** (1) Bakanlıkça belirlenen zararlı organizma taşıyıcısı olabilecek bitki, bitkisel ürün ve diğer maddeleri üreten, ithal eden, depolayan ve ticaretini yapanlar, kayıt ile ilgili Bakanlıkça belirlenen esaslara uymak ve kayıtlarını yaptırmak zorundadır.
 
 (2) Bakanlıkça belirlenen bitki, bitkisel ürün ve diğer maddelerin dolaşımında bitki pasaportu bulundurulması zorunludur. Bitki pasaportu ile ilgili her türlü düzenlemeyi yapmaya Bakanlık yetkilidir.
 
 (3) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-İKİNCİ BÖLÜM
+**İKİNCİ BÖLÜM**
 
-Bitki Koruma Ürünleri ile Ziraî Mücadele Alet ve Makinelerinin Onayı,
+**Bitki Koruma Ürünleri ile Ziraî Mücadele Alet ve Makinelerinin Onayı,**
 
-Üretimi ve Sahibinin Sorumlulukları, Toptan ve Perakende Satışı,
+**Üretimi ve Sahibinin Sorumlulukları, Toptan ve Perakende Satışı,**
 
-Tanıtımı ve Uygulanması
+**Tanıtımı ve Uygulanması**
 
-Bitki koruma ürünleri ile ziraî mücadele alet ve makinelerinin onayı ve üretimi
+**Bitki koruma ürünleri ile ziraî mücadele alet ve makinelerinin onayı ve üretimi**
 
-MADDE 18- (1) Bitki koruma ürünleri, ziraî mücadele alet ve makineleri ile zararlı organizma mücadelesinde kullanılan diğer ürünlerin üretimi, ithalatı, kullanımı, ambalajlanması, etiketlenmesi, tanıtımı, nakliyesi, depolanması, reçeteli ya da reçetesiz satışı, onayı, kontrolü ve teminine ilişkin işlemler Bakanlık tarafından belirlenir.
+**MADDE 18-** (1) Bitki koruma ürünleri, ziraî mücadele alet ve makineleri ile zararlı organizma mücadelesinde kullanılan diğer ürünlerin üretimi, ithalatı, kullanımı, ambalajlanması, etiketlenmesi, tanıtımı, nakliyesi, depolanması, reçeteli ya da reçetesiz satışı, onayı, kontrolü ve teminine ilişkin işlemler Bakanlık tarafından belirlenir.
 
 (2) Bitki koruma ürünleri ile ziraî mücadele alet ve makinelerinin üretimi, ithalatı ve piyasaya arzı için Bakanlıktan onay alınması zorunludur. Bitki koruma ürünlerinin onaylanmasına ilişkin esaslar Bakanlıkça belirlenir. Onaya ilişkin bilgilerin gizliliği esastır.
 
@@ -403,9 +403,9 @@ MADDE 18- (1) Bitki koruma ürünleri, ziraî mücadele alet ve makineleri ile z
 
 (13) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Bitki koruma ürünlerinin toptan ve perakende satışı ile tanıtımı
+**Bitki koruma ürünlerinin toptan ve perakende satışı ile tanıtımı**
 
-MADDE 19- (1) Bitki koruma ürünleri ile zararlı organizma mücadelesinde kullanılan diğer ürünlerin toptan satışı, toptancı bayiler, perakende satışlar ise perakendeci bayiler tarafından yapılır. Ziraî mücadele alet ve makinelerinin satışına ilişkin hususlar
+**MADDE 19-** (1) Bitki koruma ürünleri ile zararlı organizma mücadelesinde kullanılan diğer ürünlerin toptan satışı, toptancı bayiler, perakende satışlar ise perakendeci bayiler tarafından yapılır. Ziraî mücadele alet ve makinelerinin satışına ilişkin hususlar
 
 Bakanlıkça belirlenir.
 
@@ -419,9 +419,9 @@ Bakanlığın belirlediği uygun şartlarda muhafaza etmek ve denetimlerde her t
 
 (5) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Bitki koruma ürünlerinin uygulanması
+**Bitki koruma ürünlerinin uygulanması**
 
-MADDE 20- (1) Bakanlıkça bitki koruma ürünleri için reçete düzenleme yetkisi verilenler, uygulayacağı veya tavsiye edeceği, reçeteye tâbi bitki koruma ürünleri için, reçete düzenlemek, belirlenen kayıtları tutmak ve talep edildiğinde Bakanlığa sunmak zorundadır.
+**MADDE 20-** (1) Bakanlıkça bitki koruma ürünleri için reçete düzenleme yetkisi verilenler, uygulayacağı veya tavsiye edeceği, reçeteye tâbi bitki koruma ürünleri için, reçete düzenlemek, belirlenen kayıtları tutmak ve talep edildiğinde Bakanlığa sunmak zorundadır.
 
 (2) Bitki koruma ürünlerini kullananlar Bakanlıkça istenen kayıtları tutmak ve istendiğinde Bakanlığa sunmak zorundadır.
 
@@ -433,21 +433,21 @@ MADDE 20- (1) Bakanlıkça bitki koruma ürünleri için reçete düzenleme yetk
 
 (6) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-BEŞİNCİ KISIM
+**BEŞİNCİ KISIM**
 
-Gıda ve Yem
+**Gıda ve Yem**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Gıda ve Yem Güvenilirliği, Sorumluluklar, Gıda Kodeksi,
+**Gıda ve Yem Güvenilirliği, Sorumluluklar, Gıda Kodeksi,**
 
-Etiketleme ve İzlenebilirlik, Sunum ve Reklâm,
+**Etiketleme ve İzlenebilirlik, Sunum ve Reklâm,**
 
-Tüketici Haklarının Korunması
+**Tüketici Haklarının Korunması**
 
-Gıda ve yem güvenilirliği şartları
+**Gıda ve yem güvenilirliği şartları**
 
-MADDE 21- (1) Gıda güvenilirliği şartları aşağıda belirtilmiştir:
+**MADDE 21-** (1) Gıda güvenilirliği şartları aşağıda belirtilmiştir:
 
 a) Güvenilir olmayan gıda, gıda ile temas eden madde ve malzeme piyasaya arz edilemez. İnsan sağlığı için tehlike oluşturan ve tüketime uygun olmayan gıda, güvenilir olmayan gıda kabul edilir.
 
@@ -483,9 +483,9 @@ d) Yem, Bakanlıkça belirlenen şartlara uygun olsa bile, yemin güvenilir olma
 
 (7) Gıda ve yem mevzuatındaki gıda ve yem güvenilirliğine ilişkin hükümlerine uygun olan ürün, bu mevzuat hükümlerinin kapsadığı ölçüde güvenilir kabul edilir.
 
-Sorumluluklar
+**Sorumluluklar**
 
-MADDE 22- (1) Gıda, gıda ile temas eden madde ve malzeme ve yem ile ilgili faaliyet gösteren işletmeciler, kendi faaliyet alanının her aşamasında bu Kanunda belirtilen şartları sağlamak ve bunu doğrulamakla yükümlüdür.
+**MADDE 22-** (1) Gıda, gıda ile temas eden madde ve malzeme ve yem ile ilgili faaliyet gösteren işletmeciler, kendi faaliyet alanının her aşamasında bu Kanunda belirtilen şartları sağlamak ve bunu doğrulamakla yükümlüdür.
 
 (2) Gıda ve yem işletmecisi ürettiği, işlediği, ithal ettiği, satışını veya dağıtımını yaptığı bir ürününün, gıda ve yem güvenilirliği şartlarına uymadığını değerlendirmesi veya buna ilişkin makul gerekçelerinin olması durumunda, söz konusu ürünü kendi kontrolünden çıktığı aşamadan başlamak üzere, toplanması için gerekli işlemleri derhal başlatmak ve konu ile ilgili Bakanlığı bilgilendirmek zorundadır. Gıda ve yem işletmecisi, ürünün toplanması gerektiğinde, toplanma nedeni hakkında tüketiciyi veya kullanıcıyı doğru ve etkin olarak bilgilendirmek ve gerekli hâllerde, insan sağlığını korumaya yönelik alınacak tedbirlerin yeterli olmaması durumunda, tüketiciye veya kullanıcıya ürünün iadesi için çağrıda bulunmak zorundadır.
 
@@ -503,9 +503,9 @@ Bakanlıkça talep edilen bilgi ve belgeleri sunmak zorundadır. Bu ürünlerin,
 
 (8) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Gıda kodeksi
+**Gıda kodeksi**
 
-MADDE 23- (1) Bakanlık, gıda ve gıda ile temas eden madde ve malzemelerle ilgili asgarî teknik ve hijyen kriterleri, bitki koruma ürünü ve veteriner ilaç kalıntıları, katkı maddeleri, bulaşanları, numune alma, ambalajlama, etiketleme, nakliye, depolama esasları ve analiz metotlarını belirleyen gıda kodeksini hazırlar ve yayımlar. Bakanlık, kodeksin hazırlanmasında ilgili kurum ve kuruluşlarla işbirliği yapabilir ve bu amaçla komisyonlar kurabilir. Bakanlık, uluslararası Kodeks Alimentarius Komisyonunun temas noktasıdır ve konu ile ilgili çalışmaları yürütür. Bakanlık gıda kodeksini hazırlamak üzere Ulusal Gıda Kodeks Komisyonu oluşturur.
+**MADDE 23-** (1) Bakanlık, gıda ve gıda ile temas eden madde ve malzemelerle ilgili asgarî teknik ve hijyen kriterleri, bitki koruma ürünü ve veteriner ilaç kalıntıları, katkı maddeleri, bulaşanları, numune alma, ambalajlama, etiketleme, nakliye, depolama esasları ve analiz metotlarını belirleyen gıda kodeksini hazırlar ve yayımlar. Bakanlık, kodeksin hazırlanmasında ilgili kurum ve kuruluşlarla işbirliği yapabilir ve bu amaçla komisyonlar kurabilir. Bakanlık, uluslararası Kodeks Alimentarius Komisyonunun temas noktasıdır ve konu ile ilgili çalışmaları yürütür. Bakanlık gıda kodeksini hazırlamak üzere Ulusal Gıda Kodeks Komisyonu oluşturur.
 
 Komisyonun üye seçimi, görev süresi, alt komisyon oluşturulması, Ulusal Gıda Kodeks Komisyonu ve alt komisyonların çalışma usul ve esaslarını belirlemeye Bakanlık yetkilidir. Komisyonun sekretarya hizmetleri Bakanlıkça yürütülür.
 
@@ -515,9 +515,9 @@ Komisyonun üye seçimi, görev süresi, alt komisyon oluşturulması, Ulusal G�
 
 (4) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Gıda ve yemde izlenebilirlik ve etiketleme, sunum ve reklâm ile tüketici haklarının korunması
+**Gıda ve yemde izlenebilirlik ve etiketleme, sunum ve reklâm ile tüketici haklarının korunması**
 
-MADDE 24- (1) Gıda veya yem işletmecileri izlenebilirliği sağlamak amacıyla, üretim, işleme ve dağıtımın tüm aşamalarında, sorumluluğundaki gıda veya yemin, gıda veya yeme ilave edilecek her türlü maddenin ve gıdanın elde edildiği hayvanın takibinin yapılabilmesi için, bir sistem oluşturmak ve talep hâlinde bu bilgileri Bakanlığa sunmak zorundadır.
+**MADDE 24-** (1) Gıda veya yem işletmecileri izlenebilirliği sağlamak amacıyla, üretim, işleme ve dağıtımın tüm aşamalarında, sorumluluğundaki gıda veya yemin, gıda veya yeme ilave edilecek her türlü maddenin ve gıdanın elde edildiği hayvanın takibinin yapılabilmesi için, bir sistem oluşturmak ve talep hâlinde bu bilgileri Bakanlığa sunmak zorundadır.
 
 (2) Piyasaya arz edilecek gıda ve yem, izlenebilirliği sağlamak amacıyla, uygun şekilde etiketlenmek veya Bakanlıkça belirlenecek bilgi ve belgelerle uygun şekilde tanımlanmak zorundadır.
 
@@ -527,15 +527,15 @@ MADDE 24- (1) Gıda veya yem işletmecileri izlenebilirliği sağlamak amacıyla
 
 (5) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-İKİNCİ BÖLÜM
+**İKİNCİ BÖLÜM**
 
-Hızlı Uyarı Sistemi, Acil Durumlar, Kriz Yönetimi, Risk Analizi,
+**Hızlı Uyarı Sistemi, Acil Durumlar, Kriz Yönetimi, Risk Analizi,**
 
-Kamuoyunun Bilgilendirilmesi ve İhtiyati Tedbirler
+**Kamuoyunun Bilgilendirilmesi ve İhtiyati Tedbirler**
 
-Hızlı uyarı sistemi, acil durumlar ve kriz yönetimi
+**Hızlı uyarı sistemi, acil durumlar ve kriz yönetimi**
 
-MADDE 25- (1) İnsan, hayvan ve bitki sağlığını korumak, gıda ve yem güvenilirliğini sağlamak üzere, doğrudan veya dolaylı bir riskin bildirimine ilişkin sistemler Bakanlık tarafından kurulur. Bakanlık bu hususla ilgili temas noktası olarak ulusal ve uluslararası kuruluşlarla işbirliği yapar.
+**MADDE 25-** (1) İnsan, hayvan ve bitki sağlığını korumak, gıda ve yem güvenilirliğini sağlamak üzere, doğrudan veya dolaylı bir riskin bildirimine ilişkin sistemler Bakanlık tarafından kurulur. Bakanlık bu hususla ilgili temas noktası olarak ulusal ve uluslararası kuruluşlarla işbirliği yapar.
 
 (2) Bakanlık, hayvan ve bitki sağlığı, gıda ve yem ile ilgili, doğrudan veya dolaylı risk bulunduğuna ilişkin bir bildirim aldığında, gerekli tedbirleri alır veya alınmasını sağlar. Hayvan sahibi ya da hayvan sahibi adına bakıcısı, bitki ve bitkisel ürün sahibi, gıda ve yem işletmecisi Bakanlık tarafından alınan tedbirleri ve verilen kararları uygulamak zorundadır.
 
@@ -545,9 +545,9 @@ MADDE 25- (1) İnsan, hayvan ve bitki sağlığını korumak, gıda ve yem güve
 
 (5) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Risk analizi, kamuoyunun bilgilendirilmesi ve ihtiyati tedbirler
+**Risk analizi, kamuoyunun bilgilendirilmesi ve ihtiyati tedbirler**
 
-MADDE 26- (1) Gıda, yem ve bitki sağlığı ile ilgili işlemlerde, insan sağlığı ve yaşamının azamî düzeyde korunmasının sağlanabilmesi için, risk analizine dayanılması zorunludur. Risk analizi yapılmasına uygun olmayan ya da tedbirin niteliğine göre risk analizi uygulanamayan durumlarda bu hüküm uygulanmaz.
+**MADDE 26-** (1) Gıda, yem ve bitki sağlığı ile ilgili işlemlerde, insan sağlığı ve yaşamının azamî düzeyde korunmasının sağlanabilmesi için, risk analizine dayanılması zorunludur. Risk analizi yapılmasına uygun olmayan ya da tedbirin niteliğine göre risk analizi uygulanamayan durumlarda bu hüküm uygulanmaz.
 
 (2) Bağımsız, tarafsız, şeffaf ve bilimsel esaslara göre risk değerlendirmesi yapmak üzere; araştırma kurumları, araştırma enstitüleri, üniversitelerin konu ile ilgili fakültelerinin temsilcileri ile gerektiğinde diğer uzman kişilerin katılabileceği, konularına göre risk değerlendirme komisyonları oluşturulur. Komisyonların yapacağı risk değerlendirme sonuçları tavsiye niteliğindedir. Bu komisyonların sekretaryasını yürütmek üzere Bakanlıkça risk değerlendirme birimi kurulur. Risk değerlendirme birimi ulusal ve uluslararası benzeri kuruluşlarla işbirliği yapabilir.
 
@@ -561,37 +561,37 @@ MADDE 26- (1) Gıda, yem ve bitki sağlığı ile ilgili işlemlerde, insan sağ
 
 (7) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-ÜÇÜNCÜ BÖLÜM
+**ÜÇÜNCÜ BÖLÜM**
 
-Sularla İlgili Hükümler, Takviye Edici Gıdalar ve
+**Sularla İlgili Hükümler, Takviye Edici Gıdalar ve**
 
-Özel Tıbbî Amaçlı Diyet Gıdalar
+**Özel Tıbbî Amaçlı Diyet Gıdalar**
 
-Sularla ilgili hükümler
+**Sularla ilgili hükümler**
 
-MADDE 27- (1) Herhangi bir katkı, aroma veya zenginleştirme amaçlı madde ilave edilen kaynak suları, içme suları, doğal mineralli sular ve yapay sodaların üretimi, ambalajlanması, satışı, ithalat ve ihracatına ilişkin esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir. Ancak; kaynak suları, içme suları, doğal mineralli sular ve tıbbi amaçlı suların üretimi, uygun şekilde ambalajlanması, satışı, ithalat ve ihracatına ilişkin usul ve esaslar ile içme-kullanma sularının teknik ve hijyenik şartlara uygunluğu, kalite standartlarının sağlanması, kalite standartlarının izlenmesi ve denetimi ile ilgili usul ve esaslar Sağlık Bakanlığınca belirlenir.(Ek iki cümle: 2/1/2014- 6514/53 md.) Bu esaslara uygunluk bakımından belediye veya il özel idarelerinin sorumluluğunda bulunan içme sularının Türkiye Halk
+**MADDE 27-** (1) Herhangi bir katkı, aroma veya zenginleştirme amaçlı madde ilave edilen kaynak suları, içme suları, doğal mineralli sular ve yapay sodaların üretimi, ambalajlanması, satışı, ithalat ve ihracatına ilişkin esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir. Ancak; kaynak suları, içme suları, doğal mineralli sular ve tıbbi amaçlı suların üretimi, uygun şekilde ambalajlanması, satışı, ithalat ve ihracatına ilişkin usul ve esaslar ile içme-kullanma sularının teknik ve hijyenik şartlara uygunluğu, kalite standartlarının sağlanması, kalite standartlarının izlenmesi ve denetimi ile ilgili usul ve esaslar Sağlık Bakanlığınca belirlenir.**(Ek iki cümle: 2/1/2014- 6514/53 md.)** Bu esaslara uygunluk bakımından belediye veya il özel idarelerinin sorumluluğunda bulunan içme sularının Türkiye Halk
 
 Sağlığı Kurumu tarafından yapılacak veya yaptırılacak her türlü tetkik ve tahlil bedelleri ilgili belediye veya il özel idaresince karşılanır.
 
 Belediyelerce ödenecek tetkik ve tahlil bedelleri, Sağlık Bakanlığı ve bağlı kuruluşlarına belediyelerce tahakkuk ettirilecek su kullanım bedellerinden mahsup edilir.
 
-Takviye edici gıdalar ve özel tıbbî amaçlı diyet gıdalar
+**Takviye edici gıdalar ve özel tıbbî amaçlı diyet gıdalar**
 
-MADDE 28- (1) Takviye edici gıdaların üretim, ithalat, ihracat ve kontrolüne ilişkin usul ve esaslar Bakanlıkça belirlenir. Ancak, özel tıbbî amaçlı diyet gıdaların üretim, ithalat, ihracat ve kontrolüne ilişkin usul ve esaslar Sağlık Bakanlığınca belirlenir.
+**MADDE 28-** (1) Takviye edici gıdaların üretim, ithalat, ihracat ve kontrolüne ilişkin usul ve esaslar Bakanlıkça belirlenir. Ancak, özel tıbbî amaçlı diyet gıdaların üretim, ithalat, ihracat ve kontrolüne ilişkin usul ve esaslar Sağlık Bakanlığınca belirlenir.
 
-ALTINCI KISIM
+**ALTINCI KISIM**
 
-Hijyen
+**Hijyen**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Hijyen Esasları, İyi Uygulama Kılavuzları,
+**Hijyen Esasları, İyi Uygulama Kılavuzları,**
 
-İşletmelerin Kayıt ve Onayı
+**İşletmelerin Kayıt ve Onayı**
 
-Hijyen esasları ve iyi uygulama kılavuzları
+**Hijyen esasları ve iyi uygulama kılavuzları**
 
-MADDE 29- (1) Bakanlık, tüketicilerin azamî seviyede korunması amacıyla, gıda ve yem ile ilgili genel ve özel hijyen esasları ile tehlike analizi ve kritik kontrol noktaları ilkelerine dayalı düzenlemeleri, resmî kontrollerin yapıldığını belirten sağlık işareti, tanımlamaya ilişkin işaretlemeler ve izlenebilirlikle ilgili diğer özel düzenlemeleri kapsayan hijyen esaslarını belirler.
+**MADDE 29-** (1) Bakanlık, tüketicilerin azamî seviyede korunması amacıyla, gıda ve yem ile ilgili genel ve özel hijyen esasları ile tehlike analizi ve kritik kontrol noktaları ilkelerine dayalı düzenlemeleri, resmî kontrollerin yapıldığını belirten sağlık işareti, tanımlamaya ilişkin işaretlemeler ve izlenebilirlikle ilgili diğer özel düzenlemeleri kapsayan hijyen esaslarını belirler.
 
 (2) Birincil üretim yapanlar, perakende işyerleri ile gıda ve yem işletmecileri, kendi kontrolleri altındaki faaliyet alanı ile ilgili
 
@@ -603,9 +603,9 @@ Bakanlıkça belirlenen genel ve özel hijyen esaslarına uymak zorundadır.
 
 (5) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-İşletmelerin kayıt ve onayı
+**İşletmelerin kayıt ve onayı**
 
-MADDE 30- (1) Bu Kanun kapsamındaki gıda ve yem işletmelerinden onaya veya kayıt işlemine tâbi olanlar ile onay ve kayıt işlemlerine ilişkin hususlar Bakanlıkça belirlenir. Onaya tâbi işletmeler için, faaliyete geçmeden önce Bakanlıktan onay alınması zorunludur. Kayıt işlemine tâbi işletmeler, faaliyetleri ile ilgili işletme kayıtlarını Bakanlığa yaptırmak zorundadır.
+**MADDE 30-** (1) Bu Kanun kapsamındaki gıda ve yem işletmelerinden onaya veya kayıt işlemine tâbi olanlar ile onay ve kayıt işlemlerine ilişkin hususlar Bakanlıkça belirlenir. Onaya tâbi işletmeler için, faaliyete geçmeden önce Bakanlıktan onay alınması zorunludur. Kayıt işlemine tâbi işletmeler, faaliyetleri ile ilgili işletme kayıtlarını Bakanlığa yaptırmak zorundadır.
 
 (2) Bakanlık, onaya tâbi bir işletmenin ilgili mevzuatta belirlenen şartlara uygun faaliyette bulunmadığının belirlenmesi durumunda, bu işletmenin faaliyetini durdurur, bu faaliyetle ilgili onayı geçici olarak askıya alır. Askıya alma süresi, belirlenen eksikliklerin tamamının giderilmesine kadar devam eder. Bu eksikliklerin askıya alma tarihinden itibaren bir yıl içerisinde karşılanmaması durumunda onay Bakanlıkça iptal edilir.
 
@@ -615,21 +615,21 @@ Bakanlığa bildirilmesi zorunludur. Bu süre içerisinde Bakanlığa bildirimde
 
 (4) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-YEDİNCİ KISIM
+**YEDİNCİ KISIM**
 
-Resmî Kontroller
+**Resmî Kontroller**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Resmî Kontroller, İtiraz Hakkı, Resmî Sertifikalar,
+**Resmî Kontroller, İtiraz Hakkı, Resmî Sertifikalar,**
 
-Resmî Kontrol Sonucu Uygun Olmayan Canlı Hayvan
+**Resmî Kontrol Sonucu Uygun Olmayan Canlı Hayvan**
 
-ve Ürünler ile Laboratuvarlar
+**ve Ürünler ile Laboratuvarlar**
 
-Resmî kontroller, itiraz hakkı ve resmî sertifikalar
+**Resmî kontroller, itiraz hakkı ve resmî sertifikalar**
 
-MADDE 31- (1) Resmî kontroller, uygun sıklıkta, tarafsız, şeffaf ve meslekî gizlilik ilkelerine uygun olarak risk esasına göre, ön bildirim gereken hâller dışında, önceden haber verilmeksizin gerçekleştirilir. Bu kontroller, izleme, gözetim, doğrulama, tetkik, denetim, numune alma ve analiz gibi uygulamaları da kapsar. Kontroller, Bakanlıkça kontrol yetkisi verilen personel tarafından gerçekleştirilir.
+**MADDE 31-** (1) Resmî kontroller, uygun sıklıkta, tarafsız, şeffaf ve meslekî gizlilik ilkelerine uygun olarak risk esasına göre, ön bildirim gereken hâller dışında, önceden haber verilmeksizin gerçekleştirilir. Bu kontroller, izleme, gözetim, doğrulama, tetkik, denetim, numune alma ve analiz gibi uygulamaları da kapsar. Kontroller, Bakanlıkça kontrol yetkisi verilen personel tarafından gerçekleştirilir.
 
 Üretim, işleme ve dağıtım aşamalarında hangi meslek mensuplarının hangi resmî kontrollerden sorumlu olduğu Ek-2’de belirtilmiştir.
 
@@ -655,9 +655,9 @@ Ancak, iç hukuk ve uluslararası hukuk ile güvence altına alınan, gizli soru
 
 (11) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Resmî kontrol sonucu uygun olmayan canlı hayvan ve ürünler
+**Resmî kontrol sonucu uygun olmayan canlı hayvan ve ürünler**
 
-MADDE 32- (1) Bakanlık, resmî kontrol sonucu, mevzuat şartlarını taşımadığı, insan, hayvan veya bitki sağlığı açısından tehlike oluşturduğu tespit edilen canlı hayvan ve ürünlerle ilgili aşağıdaki önlemlerden bir ya da bir kaçını uygulayabilir:
+**MADDE 32-** (1) Bakanlık, resmî kontrol sonucu, mevzuat şartlarını taşımadığı, insan, hayvan veya bitki sağlığı açısından tehlike oluşturduğu tespit edilen canlı hayvan ve ürünlerle ilgili aşağıdaki önlemlerden bir ya da bir kaçını uygulayabilir:
 
 a) Canlı hayvan ve ürünün piyasaya arzı, taşınması, ülkeye girişi ve çıkışının kısıtlanması veya yasaklanması.
 
@@ -671,9 +671,9 @@ c) Piyasaya arz amacı dışında değerlendirilmesi mümkün olan canlı hayvan
 
 (3) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Laboratuvarlar
+**Laboratuvarlar**
 
-MADDE 33- (1) Bu Kanun kapsamındaki kontrollerle ilgili analizleri veya hastalık ve zararlı organizma teşhisi yapmak üzere faaliyet gösterecek gerçek ve tüzel kişilere ait laboratuvarlar için Bakanlıktan onay alınması zorunludur. Bu laboratuvarlar yapacakları analizler için de ayrıca onay almak zorundadır. Onay verilebilmesi için, laboratuvarlar aşağıda belirtilen asgarî hususları sağlamalıdır:
+**MADDE 33-** (1) Bu Kanun kapsamındaki kontrollerle ilgili analizleri veya hastalık ve zararlı organizma teşhisi yapmak üzere faaliyet gösterecek gerçek ve tüzel kişilere ait laboratuvarlar için Bakanlıktan onay alınması zorunludur. Bu laboratuvarlar yapacakları analizler için de ayrıca onay almak zorundadır. Onay verilebilmesi için, laboratuvarlar aşağıda belirtilen asgarî hususları sağlamalıdır:
 
 a) Laboratuvar, imar mevzuatına uygun ve insanların ikametgâhına mahsus olmayan binalarda kurulur. Faaliyet konusu insanlar için tehlike oluşturmayan laboratuvarlar için bu şart aranmaz.
 
@@ -695,13 +695,13 @@ c) Laboratuvarlarda, analiz ve teşhislerle ilgili alet, ekipman, teknik altyap�
 
 (7) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-İKİNCİ BÖLÜM
+**İKİNCİ BÖLÜM**
 
-İthalat ve İhracatta Resmî Kontroller, Gümrükler ve Sınır Kontrol Noktaları
+**İthalat ve İhracatta Resmî Kontroller, Gümrükler ve Sınır Kontrol Noktaları**
 
-İthalat ve ihracatta resmî kontroller, gümrükler ve sınır kontrol noktaları
+**İthalat ve ihracatta resmî kontroller, gümrükler ve sınır kontrol noktaları**
 
-MADDE 34- (1) Bakanlık bu Kanun kapsamına giren ürün ve canlı hayvanlar ile ilgili ithalat ve ülkeye giriş koşulları ile kontrol esaslarını belirler. Ülkeye girişi yapılacak ürün ve canlı hayvanlar bu Kanun hükümlerine uygun olmalıdır. Bakanlık, canlı hayvan ve ürünlerin ülkeye girişinde bu Kanun hükümlerine uygun olup olmadığı ile ilgili resmî kontrolleri yürütür. Bu Kanuna uygun olmayanların ülkeye girişine izin verilmez.
+**MADDE 34-** (1) Bakanlık bu Kanun kapsamına giren ürün ve canlı hayvanlar ile ilgili ithalat ve ülkeye giriş koşulları ile kontrol esaslarını belirler. Ülkeye girişi yapılacak ürün ve canlı hayvanlar bu Kanun hükümlerine uygun olmalıdır. Bakanlık, canlı hayvan ve ürünlerin ülkeye girişinde bu Kanun hükümlerine uygun olup olmadığı ile ilgili resmî kontrolleri yürütür. Bu Kanuna uygun olmayanların ülkeye girişine izin verilmez.
 
 (2) İthalatçı veya maldan sorumlu yetkili temsilcisi, ülkeye giriş yapacak canlı hayvan ve hayvansal ürünler ile ilgili Bakanlığa ön bildirimde bulunmak zorundadır. Bakanlık bunların dışında kalan ürünler için de risk esasına göre ön bildirim zorunluluğu getirebilir.
 
@@ -737,15 +737,15 @@ d) İtlaf ve imha edilir.
 
 (12) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-ÜÇÜNCÜ BÖLÜM
+**ÜÇÜNCÜ BÖLÜM**
 
-Resmî Kontrollerin, Veteriner ve Bitki Sağlığı
+**Resmî Kontrollerin, Veteriner ve Bitki Sağlığı**
 
-Hizmetlerinin Finansmanı ve Harcamalar
+**Hizmetlerinin Finansmanı ve Harcamalar**
 
-Resmî kontrollerin, veteriner ve bitki sağlığı hizmetlerinin finansmanı ve harcamalar
+**Resmî kontrollerin, veteriner ve bitki sağlığı hizmetlerinin finansmanı ve harcamalar**
 
-MADDE 35- (1) Bakanlık, bu Kanun kapsamında yürütülen faaliyetler ve yapılan resmî kontrollerin karşılığı olarak ücret alabilir.
+**MADDE 35-** (1) Bakanlık, bu Kanun kapsamında yürütülen faaliyetler ve yapılan resmî kontrollerin karşılığı olarak ücret alabilir.
 
 Hangi faaliyetlerden ve resmî kontrollerden ne miktarda ücret alınacağı her yıl Aralık ayında Bakanlıkça belirlenir.
 
@@ -761,17 +761,17 @@ Taşra Kuruluşlarına Döner Sermaye Verilmesi Hakkında Kanun ile ilgili olan 
 
 (6) Bu maddenin uygulanması ile ilgili usul ve esaslar Maliye Bakanlığının görüşü alınarak Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-SEKİZİNCİ KISIM
+**SEKİZİNCİ KISIM**
 
-Cezaî Hükümler
+**Cezaî Hükümler**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Cezaî Hükümler, Cezaların Uygulanması, Tahsili ve İtirazlar
+**Cezaî Hükümler, Cezaların Uygulanması, Tahsili ve İtirazlar**
 
-Hayvan sağlığı, hayvan refahı ve zootekni ile ilgili yaptırımlar
+**Hayvan sağlığı, hayvan refahı ve zootekni ile ilgili yaptırımlar**
 
-MADDE 36- (1) Hayvan sağlığı, hayvan refahı ve zootekni ile ilgili yaptırımlar aşağıda belirtilmiştir:
+**MADDE 36-** (1) Hayvan sağlığı, hayvan refahı ve zootekni ile ilgili yaptırımlar aşağıda belirtilmiştir:
 
 a) 4 üncü maddenin birinci fıkrasının (b) bendine göre hastalıkların yayılmasının önlenmesi amacıyla Bakanlık tarafından alınan tedbirlere uymayanlara beşbin Türk Lirası idarî para cezası verilir.
 
@@ -803,9 +803,9 @@ h) 10 uncu maddenin sekizinci fıkrası gereği Bakanlıkça belirlenen esaslara
 
 i) 11 inci madde gereğince Bakanlıktan onay almadan faaliyette bulunanlara beşbin Türk Lirası idarî para cezası verilir ve bunlar faaliyetten men edilir. İstenen kayıtları tutmayanlara bin Türk Lirası idarî para cezası verilir.
 
-Veteriner sağlık ürünleri ile ilgili yaptırımlar
+**Veteriner sağlık ürünleri ile ilgili yaptırımlar**
 
-MADDE 37- (1) Veteriner sağlık ürünleri ile ilgili yaptırımlar aşağıda belirtilmiştir:
+**MADDE 37-** (1) Veteriner sağlık ürünleri ile ilgili yaptırımlar aşağıda belirtilmiştir:
 
 a) Onaylı olmayan yerlerde veteriner tıbbî ürünü üretimi yapan gerçek ve tüzel kişilere otuzbin Türk Lirası idarî para cezası verilir ve faaliyetten men edilir. Ürünler masrafları sorumlusuna ait olmak üzere piyasadan toplatılır ve imha edilmek üzere mülkiyetinin kamuya geçirilmesine karar verilir.
 
@@ -839,9 +839,9 @@ Türk Lirası idarî para cezası verilir.
 
 j) 13 üncü maddede belirtilen yerlerde, ambalajı açılmış, bozuk veya son kullanma tarihi geçmiş veteriner sağlık ürünleri bulunduran ve satan kişilere bin Türk Lirası idarî para cezası verilir.
 
-Bitki sağlığı ile ilgili yaptırımlar
+**Bitki sağlığı ile ilgili yaptırımlar**
 
-MADDE 38- (1) Bitki sağlığı ile ilgili yaptırımlar aşağıda belirtilmiştir:
+**MADDE 38-** (1) Bitki sağlığı ile ilgili yaptırımlar aşağıda belirtilmiştir:
 
 a) 15 inci maddenin birinci fıkrasının (b) bendinde zararlı organizmaların yayılmasının önlenmesi amacıyla Bakanlık tarafından alınan tedbirlere uymayanlara üçbin Türk Lirası idarî para cezası verilir.
 
@@ -869,9 +869,9 @@ h) 17 nci maddenin birinci fıkrasına göre kayıtlarını yaptırmayanlara ü�
 
 Türk Lirası idarî para cezası verilir.
 
-Bitki koruma ürünleri ile ilgili yaptırımlar
+**Bitki koruma ürünleri ile ilgili yaptırımlar**
 
-MADDE 39- (1) Bitki koruma ürünleri ile ilgili yaptırımlar aşağıda belirtilmiştir:
+**MADDE 39-** (1) Bitki koruma ürünleri ile ilgili yaptırımlar aşağıda belirtilmiştir:
 
 a) Onaylı olmayan yerlerde bitki koruma ürünü üretimi yapan gerçek ve tüzel kişilere otuzbin Türk Lirası, ziraî mücadele alet ve makineleri üretimi yapan gerçek ve tüzel kişilere beşbin Türk lirası idarî para cezası verilir ve bunlar faaliyetten men edilir. Ürünler masrafları sorumlusuna ait olmak üzere piyasadan toplatılır ve imha edilmek üzere mülkiyetinin kamuya geçirilmesine karar verilir.
 
@@ -911,9 +911,9 @@ j) Bitki koruma ürünlerini etiket bilgilerine uygun şekilde kullanmayanlara b
 
 k) Bitki koruma ürünlerinin artık ve ambalajlarını Bakanlıkça belirlenen esaslara göre imha etmeyenlere bin Türk Lirası idarî para cezası verilir.
 
-Gıda ve yem ile ilgili yaptırımlar
+**Gıda ve yem ile ilgili yaptırımlar**
 
-MADDE 40- (1) Gıda ve yem ile ilgili yaptırımlar aşağıda belirtilmiştir:
+**MADDE 40-** (1) Gıda ve yem ile ilgili yaptırımlar aşağıda belirtilmiştir:
 
 a) İnsan tüketimine uygun olmayan gıdalar, masrafları sorumlusuna ait olmak üzere piyasadan toplatılır ve mülkiyetinin kamuya geçirilmesine karar verilir. Bu ürünleri üreten veya piyasaya arz edenler hakkında kamunun sağlığına karşı suçlar kapsamında
 
@@ -965,9 +965,9 @@ o) 26 ncı maddenin beşinci fıkrası gereği Bakanlık tarafından getirilen i
 
 p) 28 inci maddenin birinci fıkrasında belirtilen ürünlerle ilgili hükümlere aykırı hareket eden işyerlerine onbin Türk Lirası idarî para cezası verilir; ürünlere el konulur ve mülkiyetinin kamuya geçirilmesine karar verilir.
 
-Hijyen ve resmî kontroller ile ilgili yaptırımlar
+**Hijyen ve resmî kontroller ile ilgili yaptırımlar**
 
-MADDE 41- (1) Hijyen ve resmî kontroller ile ilgili yaptırımlar aşağıda belirtilmiştir:
+**MADDE 41-** (1) Hijyen ve resmî kontroller ile ilgili yaptırımlar aşağıda belirtilmiştir:
 
 a) 29 uncu maddenin ikinci fıkrası gereğince Bakanlık tarafından belirlenen hijyen esaslarına aykırı hareket eden birincil üretim yapanlara bin Türk Lirası, perakende işyerlerine ikibin Türk Lirası, diğer işyerlerine beşbin Türk Lirası idarî para cezası, üçüncü fıkrasında belirtilen esaslara uymayan yem ve gıda işletmecilerine ikibin Türk Lirası idarî para cezası verilir.
 
@@ -1001,9 +1001,9 @@ Lirası idarî para cezası verilir.
 
 i) 44 üncü maddenin beşinci ve altıncı fıkralarında belirtilen istisnalar kapsamında yurda girişine izin verilen canlı hayvan ve ürünleri ticarî olarak piyasaya arz edenler beşbin Türk Lirası idarî para cezası ile cezalandırılır, canlı hayvan ve ürünler piyasadan toplatılarak el konulur ve mülkiyetinin kamuya geçirilmesine karar verilir.
 
-Cezaların uygulanması, tahsili ve itirazlar
+**Cezaların uygulanması, tahsili ve itirazlar**
 
-MADDE 42- (1) Bakanlık tarafından istenen resmî evrakta tahrifat veya sahtecilik yaparak Bakanlığı yanılttığı tespit edilenlerin işlemleri durdurulur ve savcılığa suç duyurusunda bulunulur.
+**MADDE 42-** (1) Bakanlık tarafından istenen resmî evrakta tahrifat veya sahtecilik yaparak Bakanlığı yanılttığı tespit edilenlerin işlemleri durdurulur ve savcılığa suç duyurusunda bulunulur.
 
 (2) Bu Kanunda belirtilen idarî yaptırımları uygulamaya, il tarım müdürü yetkilidir. İl tarım müdürü bu yetkisini ilçe tarım müdürlerine yazılı olarak devredebilir. Ancak, resmî kontroller sırasında, insan sağlığı, gıda ve yem güvenilirliği, bitki ve hayvan sağlığı açısından tehlike oluşturması ve acil tedbirleri gerektirmesi durumunda, idarî para cezaları hariç olmak üzere diğer idarî yaptırımları uygulamaya kontrol görevlisi de yetkilidir. Verilen idarî para cezaları otuz gün içinde ödenir.
 
@@ -1015,21 +1015,21 @@ MADDE 42- (1) Bakanlık tarafından istenen resmî evrakta tahrifat veya sahteci
 
 Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre takip ve tahsil edilir.
 
-(6) (Ek: 2/1/2014-6514/54 md.) 27 nci madde uyarınca Sağlık Bakanlığının denetim alanındaki sular bakımından bu Kanunda belirtilen idari yaptırımları uygulamaya halk sağlığı müdürü yetkilidir. Bu sularla ilgili iş ve işlemler Türkiye Halk Sağlığı Kurumunca yapılır.
+(6) **(Ek: 2/1/2014-6514/54 md.)** 27 nci madde uyarınca Sağlık Bakanlığının denetim alanındaki sular bakımından bu Kanunda belirtilen idari yaptırımları uygulamaya halk sağlığı müdürü yetkilidir. Bu sularla ilgili iş ve işlemler Türkiye Halk Sağlığı Kurumunca yapılır.
 
-DOKUZUNCU KISIM
+**DOKUZUNCU KISIM**
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Komisyonlar ve İlgili Kuruluşlarla İşbirliği,
+**Komisyonlar ve İlgili Kuruluşlarla İşbirliği,**
 
-İstisnaî Uygulamalar ve Yetki
+**İstisnaî Uygulamalar ve Yetki**
 
-Komisyonlar ve ilgili kuruluşlarla işbirliği
+**Komisyonlar ve ilgili kuruluşlarla işbirliği**
 
-MADDE 43- (1) Bakanlık, bu Kanun kapsamındaki konularla ilgili komisyonlar veya komiteler kurabilir.
+**MADDE 43-** (1) Bakanlık, bu Kanun kapsamındaki konularla ilgili komisyonlar veya komiteler kurabilir.
 
 (2) Bakanlık, bu Kanunun uygulanması ile ilgili olarak, ilgili kurum ve kuruluşlar ile diğer bakanlıklarla işbirliği yapar.
 
@@ -1037,9 +1037,9 @@ MADDE 43- (1) Bakanlık, bu Kanun kapsamındaki konularla ilgili komisyonlar vey
 
 (4) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-İstisnaî uygulamalar
+**İstisnaî uygulamalar**
 
-MADDE 44- (1) Birincil ürünlerin, çiftlikte kesilmiş kümes hayvanlarının ve tavşangillerin taze etlerinin, av hayvanları veya av hayvanlarının etlerinin, üretici veya avcı tarafından Bakanlıkça belirlenen küçük miktarlarının doğrudan son tüketiciye ya da son tüketiciye doğrudan satışını yapan yerel perakendecilere arzı ile ilgili olarak Bakanlıkça istisnaî uygulamalar getirilebilir.
+**MADDE 44-** (1) Birincil ürünlerin, çiftlikte kesilmiş kümes hayvanlarının ve tavşangillerin taze etlerinin, av hayvanları veya av hayvanlarının etlerinin, üretici veya avcı tarafından Bakanlıkça belirlenen küçük miktarlarının doğrudan son tüketiciye ya da son tüketiciye doğrudan satışını yapan yerel perakendecilere arzı ile ilgili olarak Bakanlıkça istisnaî uygulamalar getirilebilir.
 
 (2) Bakanlık, hijyen kurallarını da dikkate alarak, gıdanın üretimi, işlenmesi veya dağıtımına ilişkin, geleneksel yöntemlerin kullanımına izin verebilir; coğrafî kısıtları bulunan bölgelerdeki gıda işletmelerinin ihtiyaçlarının çözümüne yönelik istisnaî uygulamalar getirebilir.
 
@@ -1053,9 +1053,9 @@ MADDE 44- (1) Birincil ürünlerin, çiftlikte kesilmiş kümes hayvanlarının 
 
 (7) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmelik ile belirlenir.
 
-Yetki
+**Yetki**
 
-MADDE 45- (1) Bu Kanun kapsamındaki faaliyetleri yürütmeye, resmî kontrolleri yapmaya, ilgili taraflara görev ve sorumluluk vermeye, koordinasyon sağlamaya Bakanlık yetkilidir.
+**MADDE 45-** (1) Bu Kanun kapsamındaki faaliyetleri yürütmeye, resmî kontrolleri yapmaya, ilgili taraflara görev ve sorumluluk vermeye, koordinasyon sağlamaya Bakanlık yetkilidir.
 
 (2) Bu Kanun kapsamındaki konularla ilgili uluslararası temas ve işbirliğini gerektiren hususlarda Bakanlık yetkilidir.
 
@@ -1063,27 +1063,27 @@ MADDE 45- (1) Bu Kanun kapsamındaki faaliyetleri yürütmeye, resmî kontroller
 
 Bakanlıkla işbirliği içerisinde Türk Silahlı Kuvvetlerinin ilgili birimleri tarafından yapılır.
 
-İKİNCİ BÖLÜM
+**İKİNCİ BÖLÜM**
 
-Değiştirilen, Yürürlükten Kaldırılan ve
+**Değiştirilen, Yürürlükten Kaldırılan ve**
 
-Uygulanmayacak Hükümler
+**Uygulanmayacak Hükümler**
 
-Değiştirilen hükümler
+**Değiştirilen hükümler**
 
-MADDE 46- (1) (14/3/2007 tarihli ve 5602 sayılı Şans Oyunları Hasılatından Alınan Vergi, Fon ve Payların Düzenlenmesi
+**MADDE 46-** (1) **(14/3/2007 tarihli ve 5602 sayılı Şans Oyunları Hasılatından Alınan Vergi, Fon ve Payların Düzenlenmesi**
 
-Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
+**Hakkında Kanun ile ilgili olup yerine işlenmiştir.)**
 
-(2) (10/7/1953 tarihli ve 6132 sayılı At Yarışları Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
+(2) **(10/7/1953 tarihli ve 6132 sayılı At Yarışları Hakkında Kanun ile ilgili olup yerine işlenmiştir.)**
 
-(3) (9/3/1954 tarihli ve 6343 sayılı Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile
+(3) **(9/3/1954 tarihli ve 6343 sayılı Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile**
 
-Odalarının Teşekkül Tarzına ve Göreceği İşlere Dair Kanun ile ilgili olup yerine işlenmiştir.)
+**Odalarının Teşekkül Tarzına ve Göreceği İşlere Dair Kanun ile ilgili olup yerine işlenmiştir.)**
 
-Yürürlükten kaldırılan hükümler
+**Yürürlükten kaldırılan hükümler**
 
-MADDE 47- (1) 27/5/2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde
+**MADDE 47-** (1) 27/5/2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde
 
 Kararnamenin Değiştirilerek Kabulü Hakkında Kanun yürürlükten kaldırılmıştır.
 
@@ -1111,9 +1111,9 @@ Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkındaki Kanun” ibareleri 
 
 Teşekkül Tarzına ve Göreceği İşlere Dair Kanunun 11 inci maddesinin ikinci fıkrası yürürlükten kaldırılmıştır.
 
-Uygulanmayacak hükümler ve atıflar
+**Uygulanmayacak hükümler ve atıflar**
 
-MADDE 48- (1) 5302 sayılı İl Özel İdaresi Kanununda, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununda ve 5393 sayılı Belediye Kanununda bu Kanun hükümlerine aykırılık bulunması durumunda bu Kanun hükümleri uygulanır.
+**MADDE 48-** (1) 5302 sayılı İl Özel İdaresi Kanununda, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununda ve 5393 sayılı Belediye Kanununda bu Kanun hükümlerine aykırılık bulunması durumunda bu Kanun hükümleri uygulanır.
 
 (2) 5216 sayılı Büyükşehir Belediyesi Kanununun 7 nci maddesinin birinci fıkrasının (c), (d), (j) ve (t) bentleri, 5393 sayılı
 
@@ -1121,9 +1121,9 @@ Belediye Kanununun 15 inci maddesinin birinci fıkrasının (c) ve (l) bentleri,
 
 (3) Mevzuatta bu Kanun ile yürürlükten kaldırılan kanunlara yapılan atıflar bu Kanunun ilgili hükümlerine yapılmış sayılır.
 
-Geçiş hükümleri
+**Geçiş hükümleri**
 
-GEÇİCİ MADDE 1- (1) Bu Kanunda öngörülen yönetmelikler ile uygulamaya ilişkin usul ve esaslar bu Kanunun yayımı tarihinden itibaren en geç onsekiz ay içinde yürürlüğe konulur. Söz konusu usul ve esaslar ile çıkarılacak yönetmelikler yürürlüğe girinceye kadar, bu Kanunla yürürlükten kaldırılan 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde
+**GEÇİCİ MADDE 1-** (1) Bu Kanunda öngörülen yönetmelikler ile uygulamaya ilişkin usul ve esaslar bu Kanunun yayımı tarihinden itibaren en geç onsekiz ay içinde yürürlüğe konulur. Söz konusu usul ve esaslar ile çıkarılacak yönetmelikler yürürlüğe girinceye kadar, bu Kanunla yürürlükten kaldırılan 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde
 
 Kararnamenin Değiştirilerek Kabulü Hakkındaki Kanun, 1734 sayılı Yem Kanunu, 3285 sayılı Hayvan Sağlığı ve Zabıtası Kanunu, 4631 sayılı Hayvan Islahı Kanunu ve 6968 sayılı Ziraî Mücadele ve Ziraî Karantina Kanununa dayanılarak çıkartılan yönetmelik ve diğer mevzuatın, bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 
@@ -1133,25 +1133,25 @@ Kararnamenin Değiştirilerek Kabulü Hakkındaki Kanun, 1734 sayılı Yem Kanun
 
 (4) Bu Kanunun yürürlüğe girdiği tarihten önce, süresi içinde soy kütüğüne kayıt için sahibi tarafından müracaat edilemeyen atlar, bir defaya mahsus olmak üzere, bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay içerisinde müracaat edilmesi, DNA testi ile ana- baba doğrulaması yapılması, lüzum görüldüğünde Bakanlıkça görevlendirilen uzman heyetçe morfolojik yönden muayene edilmesi ve her bir at için beşbin Türk Lirası idarî para cezasının yatırılması kaydıyla Bakanlıkça belirlenen diğer belgeleri de göz önünde bulundurularak soy kütüğüne kaydedilir.
 
-Yürürlük
+**Yürürlük**
 
-MADDE 49- (1) Bu Kanunun;
+**MADDE 49-** (1) Bu Kanunun;
 
 a) 46 ncı maddesinin birinci fıkrası, 1/4/2010 tarihinden itibaren geçerli olmak üzere yayımı tarihinde, b) 31 inci maddesinin birinci fıkrası, 33 üncü maddesi, 46 ncı maddesinin ikinci ve üçüncü fıkraları ile geçici 1 inci maddesinin dördüncü fıkrası yayımı tarihinde, c) Diğer hükümleri yayımı tarihinden itibaren altı ay sonra, yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 50- (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 50-** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-EK-1
+**EK-1**
 
-GIDA VE YEM İŞLETMELERİNDEN ÜRETİMİN NEVİNE GÖRE PERSONEL ÇALIŞTIRMAK ZORUNDA OLAN İŞLETMELER VE BU
+**GIDA VE YEM İŞLETMELERİNDEN ÜRETİMİN NEVİNE GÖRE PERSONEL ÇALIŞTIRMAK ZORUNDA OLAN İŞLETMELER VE BU**
 
-İŞLETMELERDE ÇALIŞABİLECEK MESLEK MENSUPLARI
+**İŞLETMELERDE ÇALIŞABİLECEK MESLEK MENSUPLARI**
 
-A. Gıda Üreten İşyerleri
+**A. Gıda Üreten İşyerleri**
 
-İşletmeler Meslek Unvanları
+**İşletmeler Meslek Unvanları**
 
 Alkollü içkiler üreten iş yerleri Gıda mühendisi, ziraat mühendisi (gıda bölümü), kimya mühendisi, kimyager
 
@@ -1183,7 +1183,7 @@ Hazır yemek, tabldot yemek ve meze üreten işyerleri Gıda mühendisi, ziraat 
 
 Kombinalar, kesimhaneler, parçalama ve bağırsak işleme tesisleri Veteriner hekim 10602
 
-İşletmeler Meslek Unvanları
+**İşletmeler Meslek Unvanları**
 
 Margarin, bitkisel yağ ve zeytinyağı üreten iş yerleri Gıda mühendisi, ziraat mühendisi (gıda bölümü), kimya mühendisi, kimyager (30 beygir üzeri motor gücü bulunan veya toplam 10 kişiden fazla personel çalıştıran iş yerleri)
 
@@ -1213,9 +1213,9 @@ Yumurta işleyen, depolayan veya ambalajlayan işyerleri (30 Gıda mühendisi, z
 
 Yukarıda sayılan gıda iş kollarının dışında, 30 beygir üzeri motor İşin nevine göre gıda mühendisi, veteriner hekim, su ürünleri mühendisi, ziraat gücü bulunan veya toplam 10 kişiden fazla personel çalıştıran mühendisi, kimyager, kimya mühendisi gıda iş yerleri 10603
 
-B. Yem İşletmeleri
+**B. Yem İşletmeleri**
 
-İşletmeler Meslek Unvanları
+**İşletmeler Meslek Unvanları**
 
 Hayvan beslemede kullanılan biyoproteinler gibi Ziraat mühendisi (zootekni), veteriner hekim, kimyager, kimya mühendisi, belirli bazı ürünleri üreten işletmeler biyolog
 
@@ -1229,19 +1229,19 @@ Onaya tâbi karma yem işletmeleri Ziraat mühendisi (zootekni), veteriner hekim
 
 Yem katkı maddesi ve premiks üreten işletmeler Ziraat mühendisi (zootekni), veteriner hekim, kimyager, kimya mühendisi
 
-EK-2
+**EK-2**
 
-ÜRETİM, İŞLEME VE DAĞITIM AŞAMALARINDA RESMİ KONTROLLERDEN SORUMLU MESLEK MENSUPLARI
+**ÜRETİM, İŞLEME VE DAĞITIM AŞAMALARINDA RESMİ KONTROLLERDEN SORUMLU MESLEK MENSUPLARI**
 
-A. BİRİNCİL Hayvansal üretim Veteriner hekim, ziraat mühendisi (zooteknist), su ürünleri
+**A. BİRİNCİL** Hayvansal üretim Veteriner hekim, ziraat mühendisi (zooteknist), su ürünleri
 
-ÜRETİM mühendisi ile su ürünleri ve balıkçılık teknolojileri mühendisi
+**ÜRETİM** mühendisi ile su ürünleri ve balıkçılık teknolojileri mühendisi
 
 Bitki ve bitkisel üretim Ziraat mühendisi
 
-B. ÜRETİM VE Hayvan kökenli Kesimhane, kombina ve parçalama Veteriner hekim
+**B. ÜRETİM VE** Hayvan kökenli Kesimhane, kombina ve parçalama Veteriner hekim
 
-İŞLEME gıda ve yemler işlemi yapılan yerler
+**İŞLEME** gıda ve yemler işlemi yapılan yerler
 
 Et ve et ürünleri işleyen işyerleri Veteriner hekim, gıda mühendisi, ziraat mühendisi (gıda bölümü)
 
@@ -1275,7 +1275,7 @@ Bitki koruma ürünleri üreten işyerleri Ziraat mühendisi, kimyager, kimya m�
 
 C. Perakende işyerleri Et depolayan ve dağıtan Veteriner hekim
 
-DAĞITIM Bitki ve bitkisel ürün Ziraat mühendisi
+**DAĞITIM** Bitki ve bitkisel ürün Ziraat mühendisi
 
 Hayvan kökenli gıda Veteriner hekim, gıda mühendisi, ziraat mühendisi
 
@@ -1293,7 +1293,7 @@ Yemler Ziraat mühendisi, veteriner hekim
 
 Ç. Bitki, bitkisel ürün ve diğer maddeler Ziraat mühendisi
 
-İTHALAT Orman bitki ve bitkisel ürünleri ile ahşap ambalaj malzemeleri Ziraat mühendisi, orman mühendisi, orman endüstri mühendisi 10605
+**İTHALAT** Orman bitki ve bitkisel ürünleri ile ahşap ambalaj malzemeleri Ziraat mühendisi, orman mühendisi, orman endüstri mühendisi 10605
 
 Canlı hayvan ve hayvansal ürünler Veteriner hekim
 
@@ -1309,25 +1309,25 @@ Veteriner sağlık ürünleri Veteriner biyolojik ürünler Veteriner hekim
 
 Diğer veteriner sağlık ürünleri Veteriner hekim, kimyager, kimya mühendisi, eczacı
 
-Bitki koruma ürünleri Ziraat mühendisi, kimyager, kimya mühendisi 10606 5996 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
+Bitki koruma ürünleri Ziraat mühendisi, kimyager, kimya mühendisi 10606 **5996 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE**
 
-GİRİŞ TARİHİNİ
+**GİRİŞ TARİHİNİ**
 
-GÖSTERİR LİSTE
+**GÖSTERİR LİSTE**
 
-Değiştiren
+**Değiştiren**
 
-Kanunun/ İptal 5996 sayılı Kanunun değişen veya iptal Yürürlüğe Giriş Tarihi
+**Kanunun/ İptal 5996 sayılı Kanunun değişen veya iptal Yürürlüğe Giriş Tarihi**
 
-Eden Anayasa edilen maddeleri
+**Eden Anayasa edilen maddeleri**
 
-Mahkemesinin
+**Mahkemesinin**
 
-Kararının
+**Kararının**
 
-Numarası
+**Numarası**
 
 Anayasa 7/11/2013 tarihinden
 
@@ -1335,7 +1335,7 @@ Mahkemesinin başlayarak bir yıl sonra
 
 20/3/2013 tarihli ve
 
-E: 2012/76, K: (7/11/2014)
+E: 2012/76, K: **(7/11/2014)**
 
 2013/44 sayılı
 

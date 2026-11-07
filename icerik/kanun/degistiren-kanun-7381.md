@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/03/20220308-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN NÜKLEER DÜZENLEME KANUNU
+**KANUN NÜKLEER DÜZENLEME KANUNU**
 Kanun No. 7381 Kabul Tarihi: 5/3/2022
-BİRİNCİ BÖLÜM
-Amaç, Kapsam ve Tanımlar Amaç ve kapsam
+**BİRİNCİ BÖLÜM**
+**Amaç, Kapsam ve Tanımlar** Amaç ve kapsam
 
 MADDE 1- (1) Bu Kanunun amacı, barışçıl kullanım ilkesi esas alınarak, nükleer enerji ve iyonlaştırıcı radyasyona ilişkin faaliyetlerin yürütülmesi sırasında çalışanların, halkın, çevrenin ve gelecek nesillerin iyonlaştırıcı radyasyonun olası zararlı etkilerinden korunmasına yönelik uygulanması gereken ilke ve esaslar ile tarafların sorumluluklarını, bu faaliyetler üzerinde düzenleyici kontrol yetkisini haiz Nükleer Düzenleme Kurumunun yetki ve sorumluluklarını ve nükleer hadiselerden kaynaklanan nükleer zararlar hakkındaki hukuki sorumluluğu belirlemektir.
 (2) Nükleer enerji ve iyonlaştırıcı radyasyona ilişkin faaliyetler ve bu faaliyetlerle ilgili kişi, tesis, cihaz ve maddeler bu Kanun kapsamındadır.
@@ -52,8 +52,8 @@ v) TENMAK: Türkiye Enerji, Nükleer ve Maden Araştırma Kurumunu,
 y) Tesis: Nükleer tesis, radyasyon tesisi veya radyoaktif atık tesisini,
 z) Yetkilendirilen kişi: Bu Kanun kapsamındaki bir faaliyetin yürütülmesi için Kurum tarafından kendisine lisans, izin veya yetki belgesi verilen gerçek veya tüzel kişiyi, ifade eder.
 (2) Beşinci Bölümün uygulanmasında; Paris Sözleşmesinde yer almakla birlikte bu Kanunda yer almayan tanımlar ile birinci fıkranın (k) bendinde yer alan nükleer madde, (1) bendinde yer alan nükleer tesis ifadeleri için Paris Sözleşmesinde yer alan tanımlar geçerlidir.
-İKİNCİ BÖLÜM
-Genel İlkeler Genel ilkeler
+**İKİNCİ BÖLÜM**
+**Genel İlkeler** Genel ilkeler
 
 MADDE 3- (1) Nükleer enerji ve nükleer maddelerle ilgili herhangi bir faaliyeti yürütecek gerçek veya tüzel kişiler, Türkiye Cumhuriyeti’nin taraf olduğu nükleer güvence ile ilgili uluslararası anlaşma ve sözleşmelere uymakla yükümlüdür.
 (2) Çalışanların, halkın, çevrenin ve gelecek nesillerin radyasyona maruz kalma riskini içeren her türlü faaliyette;
@@ -66,8 +66,8 @@ Düzenleyici kontrole ilişkin verilecek muafiyetler ile bu muafiyetlerin sını
 (5) Çalışanların, halkın, çevrenin ve gelecek nesillerin radyasyona maruz kalma riskini doğuracak her türlü faaliyete ilişkin olarak bu riskten etkilenebilecek kişilerin bilgilendirilmesi esastır.
 (6) Nükleer enerji ve radyasyona ilişkin faaliyetleri bu Kanun kapsamı dışındaki alanlarda düzenleyen ya da denetleyen diğer kamu kurum ve kuruluşlarının idari işlem ve eylemleri güvenlik, emniyet ve nükleer güvenceyi zafiyete uğratacak şekilde tesis edilemez.
 (7) Diğer mevzuatın güvenlik, emniyet ve nükleer güvence gerekliliklerini karşılayamayan hükümleri bu Kanun kapsamındaki faaliyetlere uygulanmaz. Bu durumda Kurum güvenlik, emniyet ve nükleer güvenceyi temin etmek üzere ilave düzenlemeler yapabilir.
-ÜÇÜNCÜ BÖLÜM
-Yetkilendirme ve Denetim Yetkilendirme
+**ÜÇÜNCÜ BÖLÜM**
+**Yetkilendirme ve Denetim** Yetkilendirme
 
 MADDE 4- (1) Bu Kanun kapsamındaki faaliyetler Kuruma bildirimde bulunulmaksızın veya Kurumdan yetki alınmaksızın yürütülemez. Bu faaliyetleri yürütmek isteyen gerçek veya tüzel kişiler Kuruma başvuruda bulunmakla yükümlüdür. Kurum güvenlik ve emniyetle ilgili ilkeleri esas alarak; bildirim veya yetkilendirme gerektiren faaliyetleri belirler.
 (2) Kurumdan; nükleer tesis, radyasyon tesisi, radyoaktif atık tesisi işletmek ve radyasyon uygulamalarını yürütmek için lisans alınması zorunludur. Kurumdan yalnızca Türkiye Cumhuriyeti vatandaşları veya Türkiye Cumhuriyeti mevzuatına göre kurulmuş tüzel kişiler lisans alabilir.
@@ -137,8 +137,8 @@ herhangi bir cihazı kullanarak ölçüm, analiz, muayene ve test yapmak;
 görsel, işitsel veya yazılı kayıt tutmak yetkisine sahiptir.
 (3) Güvenlik veya emniyetin tehlikeye düştüğü veya düşebileceği ve müdahalenin gecikmesinde sakınca bulunan hâllerde Kurum denetçisi durumu Kuruma ve yetkilendirilen kişiye derhâl bildirir. Bu durumda, Kurum yetki verilen faaliyetin tamamının veya bir kısmının durdurulması veya sınırlanması da dâhil olmak üzere gerekli tedbirleri aldırabilir.
 (4) Kurum denetçisi, denetim sırasında gerekli hâllerde mülki idare amirlerinden kolluk kuvveti talebinde bulunabilir. Bu durumda mülki idare amirleri ve kolluk kuvvetleri Kurum denetçilerine gereken desteği gecikmeksizin sağlar.
-DÖRDÜNCÜ BÖLÜM
-Radyoaktif Atıklar, Kullanılmış Yakıtlar ve Özel Hesaplar Radyoaktif atıklar ve kullanılmış yakıtlar
+**DÖRDÜNCÜ BÖLÜM**
+**Radyoaktif Atıklar, Kullanılmış Yakıtlar ve Özel Hesaplar** Radyoaktif atıklar ve kullanılmış yakıtlar
 
 MADDE 9- (1) Türkiye Cumhuriyeti egemenlik alanı dışında yürütülen bir faaliyet sırasında ortaya çıkmış olan radyoaktif atıklar, Türkiye Cumhuriyeti sınırları içerisine sokulamaz.
 (2) Türkiye Cumhuriyeti sınırları içerisinde üretilmiş ve kullanım süresi dolduğunda menşe ülkeye iade şartı ile ihraç edilmiş radyasyon kaynaklarına, radyoaktif atıkların transit geçişine ve doğal radyoaktif maddelerin bulaşmış olduğu malzemenin ithalatına birinci fıkra hükmü uygulanmaz.
@@ -191,8 +191,8 @@ Görev süresi tamamlanan Hesaplar Yönetim Kurulu üyeleri, yenileri göreve ba
 (7) Tesisin erken işletmeden çıkarılması ihtimaline karşı radyoaktif atık yönetimi ve işletmeden çıkarma için gerekli maliyetlerin karşılanabileceğine ilişkin teminatın yeterliliği Hesaplar Yönetim Kurulu tarafından Kuruma bildirilmeden tesisin işletilmesine yönelik yetkilendirme yapılamaz.
 (8) Hesaplar Yönetim Kurulu üyeleri görevleriyle ilgili işledikleri suçlardan dolayı kamu görevlisi gibi cezalandırılır.
 (9) Hesaplar Yönetim Kurulunun çalışma usul ve esaslarına ilişkin hususlar ile kamu temsilcileri dışındaki temsilcilerin seçilmelerine ilişkin usul ve esaslar Bakanlık tarafından yönetmelikle belirlenir.
-BEŞİNCİ BÖLÜM
-Nükleer Zararlara İlişkin Hukuki Sorumluluk İşletenin sorumluluğu
+**BEŞİNCİ BÖLÜM**
+**Nükleer Zararlara İlişkin Hukuki Sorumluluk** İşletenin sorumluluğu
 
 MADDE 12-
 (1) Nükleer hadiselerden kaynaklanan nükleer zararlar hakkında bu Kanunda hüküm bulunmayan hâllerde Paris Sözleşmesi hükümleri uygulanır.
@@ -267,8 +267,8 @@ MADDE 20-
 (1) Türkiye Cumhuriyeti egemenlik alanında gerçekleşen bir nükleer hadise ile ilgili olarak veya Paris Sözleşmesi ve Türkiye Cumhuriyeti’nin tarafı olduğu 21/9/1988 tarihli Viyana ve Paris Sözleşmelerinin Uygulanmasına İlişkin Ortak Protokol uyarınca Türk mahkemelerinin yargılama yetkisinin söz konusu olduğu hâllerde sadece Türkiye Cumhuriyeti mahkemeleri yetkilidir.
 (2) Birinci fıkra uyarınca Türkiye Cumhuriyeti mahkemelerinin yetkili olması hâlinde Ankara mahkemeleri kesin yetkilidir.
 (3) 18 inci madde uyarınca Komisyonun kurulmaması hâlinde mahkeme, bu Bölüm kapsamında belirlenen sorumluluk sınırını aşmayacak şekilde, 6098 sayılı Kanunun 76 ncı maddesi uyarınca nükleer zarar gören kişilere geçici ödeme yapılmasına karar verebilir.
-ALTINCI BÖLÜM
-Nükleer Düzenleme Kurumu Kurum
+**ALTINCI BÖLÜM**
+**Nükleer Düzenleme Kurumu** Kurum
 
 MADDE 21-
 (1) Kuruma, düzenleyici faaliyetlerini zafiyete uğratacak, bu faaliyetlerle çelişecek veya faaliyetlerini etkin bir şekilde yürütmesini engelleyecek yükümlülükler verilemez. Kurumun mal ve varlıkları Devlet malı sayılır. Kurumun malları, varlıkları, hak ve alacakları haczedilemez ve rehnedilemez.
@@ -285,8 +285,8 @@ MADDE 22-
 (6) Kurul Başkan ve üyeleri 2/10/1981 tarihli ve 2531 sayılı Kamu Görevlerinden Ayrılanların Yapamayacakları İşler Hakkında Kanun hükümlerine tabidir.
 (7) Kurul Başkan ve üyeleri, görevlerinin devamı süresince görevlerini tam bir dikkat, dürüstlük ve tarafsızlık ile yürüteceklerine, kanun hükümlerine aykırı hareket etmeyeceklerine ve ettirmeyeceklerine dair Yargıtay Birinci Başkanlık Kurulu huzurunda yemin ederler. Yemin için yapılan başvuru Yargıtay tarafından acele işlerden sayılır. Kurul Başkan ve üyeleri, yemin etmedikçe göreve başlamış sayılmazlar.
 (8) Kurul Başkan ve üyeleri ile Kurum personelinin görevleriyle bağlantılı olarak işledikleri iddia edilen suçlara ilişkin soruşturmalar için izin verme yetkisi; Kurul Başkan ve üyeleri için ilişkili Bakana, Kurum personeli için ise Başkana aittir. Kurul Başkan ve üyeleri ile Kurum personelinin görevleri ile ilgili olarak iştirak hâlinde işledikleri iddia edilen suçlara ilişkin soruşturmalarda Kurum personeli hakkında soruşturma izni verme yetkisi ilişkili Bakana aittir. Kurul Başkan ve üyeleri ile Kurum personelinin, görevden ayrılmış olsalar dahi, görevleriyle bağlantılı olarak işledikleri iddia edilen suçlardan dolayı başlatılan soruşturma ve kovuşturmalar, ilgili üye veya personelin talebi hâlinde, Kurum tarafından görevlendirilecek bir avukat tarafından takip edilir. Söz konusu davalara ilişkin dava giderleri ile Türkiye Barolar Birliğince açıklanan asgari ücret tarifesinde belirlenen avukatlık ücretinin on beş katını aşmamak üzere belirlenen avukatlık ücreti Kurum bütçesinden karşılanır. Kurul Başkan ve üyeleri ile Kurum personelinin, kovuşturma sonucunda mahkûmiyetine karar verilmesi ve bu kararın kesinleşmesi hâlinde, Kurum bütçesinden karşılanan avukatlık ücreti, ilgili Kurul Başkan ve üyeleri ile Kurum personelinden genel hükümlere göre tahsil olunur.
-YEDİNCİ BÖLÜM
-NÜTED Nükleer Teknik Destek Anonim Şirketi NÜTED Nükleer Teknik Destek Anonim Şirketi
+**YEDİNCİ BÖLÜM**
+**NÜTED Nükleer Teknik Destek Anonim Şirketi** NÜTED Nükleer Teknik Destek Anonim Şirketi
 
 MADDE 23-
 (1) Kurumun görevlerini yerine getirirken ihtiyaç duyacağı her türlü analiz, danışmanlık, gözetim, inceleme, araştırma, muayene, test, kontrol, eğitim ve sertifikalandırma gibi teknik destek hizmetlerini sağlamak amacıyla, kuruluş ve tescile ilişkin hükümleri hariç olmak üzere 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu ve özel hukuk hükümlerine tabi, başlangıç sermayesi bir milyon Türk lirası olan ve Kurum tarafından ödenen, paylarının en az yüzde elli biri Kuruma ait olan, NÜTED Nükleer Teknik Destek Anonim Şirketi unvanı altında özel hukuk tüzel kişiliğini haiz bir anonim şirket kurulmuştur.
@@ -295,8 +295,8 @@ MADDE 23-
 (4) NÜTED A.Ş. Kuruma temin edeceği iş ve hizmetlerin yürütülmesi ile ilgili hak, yetki ve yükümlülükleri düzenlemek üzere bir görev sözleşmesi imzalayabilir.
 (5) NÜTED A.Ş., sermayesinde kamu payı ne oranda olursa olsun genel kadro ve usulü hakkında mevzuat, 18/5/1994 tarihli ve 527 sayılı Memurlar ve Diğer Kamu Görevlileri ile İlgili Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 657 sayılı Kanun, 12 nci maddesi hariç 4/7/2001 tarihli ve 631 sayılı Memurlar ve Diğer Kamu Görevlilerinin Mali ve Sosyal Haklarında Düzenlemeler ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname, ceza ve ihalelerden yasaklama hükümleri hariç 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu, 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu, 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu ve 5/1/1961 tarihli ve 237 sayılı Taşıt Kanunu hükümlerine tabi değildir. NÜTED A.Ş. ile Kurum arasında düzenlenecek sözleşmeler damga vergisinden müstesnadır. Kamu kurum ve kuruluşlarına personel alınmasına dair ilgili mevzuat hükümleri NÜTED A.Ş. tarafından istihdam edilecek personel hakkında uygulanmaz. Ancak, Türkiye Büyük Millet Meclisi denetimine ilişkin 2/4/1987 tarihli ve 3346 sayılı Kamu İktisadi Teşebbüsleri ile Fonların Türkiye Büyük Millet Meclisince Denetlenmesinin Düzenlenmesi Hakkında Kanunun 9 uncu maddesi hükümleri uygulanır.
 (6) Kurumun görev ve yetkileri saklı kalmak kaydıyla, bu maddede belirtilen iş ve hizmetlerin yürütülmesi, bunlarla ilgili diğer yönetsel ve ticari hizmetlerin NÜTED A.Ş. tarafından yürütülmesine ilişkin usul ve esaslar, yurt içinde ve yurt dışında şirket kurma, kurulu bulunan şirketlere ortak olma veya hisselerini devralma hususları ile ilgili düzenlemeleri yapmaya Cumhurbaşkanı yetkilidir.
-SEKİZİNCİ BÖLÜM
-Ceza Hükümleri ve İdari Yaptırımlar Ceza hükümleri
+**SEKİZİNCİ BÖLÜM**
+**Ceza Hükümleri ve İdari Yaptırımlar** Ceza hükümleri
 
 MADDE 24-
 (1) Bu fıkrada sayılan fiilleri işleyenlere aşağıdaki cezalar uygulanır:
@@ -339,8 +339,8 @@ Bu Kanuna göre verilen cezalar ve alınan tedbirler diğer kanunlar gereği yap
 (12) Bu madde kapsamında uygulanacak idari yaptırımlara ilişkin uygulama esasları; kusurun derecesi, ihlal edilen menfaatin ağırlığı ve ihlal edenin ekonomik durumu gibi hususlar dikkate alınarak Kurum tarafından yönetmelikle belirlenir. Uygulanacak idari yaptırımlar ve idari para cezasının miktarı; tesis ve faaliyetin türü ve özellikleri, radyasyona maruz kalma olasılığı, maruz kalınacak radyasyonun büyüklüğü, zararın varlığı ve büyüklüğü dikkate alınarak dereceli yaklaşımla belirlenir.
 (13) İdari yaptırımlar hakkında karar vermek hususunda Kurul yetkilidir. Kurul; idari para cezası, yetkinin kısıtlanması, askıya alınması veya iptali idari yaptırımlarını birlikte ya da ayrı ayrı uygulayabilir.
 (14) Bu madde uyarınca uygulanacak idari yaptırımlar hakkında bu Kanunda hüküm bulunmayan hâllerde 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu hükümleri uygulanır.
-DOKUZUNCU BÖLÜM
-Çeşitli ve Son Hükümler Çeşitli hükümler
+**DOKUZUNCU BÖLÜM**
+**Çeşitli ve Son Hükümler** Çeşitli hükümler
 
 MADDE 26-
 (1) Bu Kanunun uygulanmasında nükleer santrallerin kurulmasına ve işletilmesine dair iş birliğine ilişkin uluslararası anlaşmalarda yer alan özel hükümler saklıdır.

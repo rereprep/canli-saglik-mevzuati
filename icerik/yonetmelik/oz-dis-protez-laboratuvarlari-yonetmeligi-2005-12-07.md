@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -50,9 +50,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Laboratuvarların Türleri, Bulundurulması Zorunlu Asgari Araç ve Gereçler,
+**Laboratuvarların Türleri, Bulundurulması Zorunlu Asgari Araç ve Gereçler,**
 
-Fiziki Alt Yapı ve Personel Standartları
+**Fiziki Alt Yapı ve Personel Standartları**
 
 #### Laboratuvar türleri ve bulundurulması zorunlu araç ve gereçler
 
@@ -212,7 +212,7 @@ f) Yangın söndürme cihazı ile acil durumlarda kullanılacak malzemeleri ihti
 
 g) Mesken olarak kullanılan binaların bir bölümünde laboratuvar kurulmak istenmesi durumunda ilgili mevzuat hükümlerindeki düzenlemelerin yerine getirilmesi sorumluluğu laboratuvarın sahip ve mes’ul müdürüne aittir.
 
-h) (Ek:RG-31/12/2011-28159) Diş protez teknisyenliği meslek hastalığına sebebiyet verebilecek olan alçı, tesviye, akril hazırlama gibi işlemlerin yapıldığı çalışma alanlarında, ortama kimyasal madde/toz yayılımını engelleyen akril hazırlama kabini, maske, eldiven gibi araç ve gereçler kullanılır ya da bu işlemlerin yapıldığı alanın genel ortamdan ayrı bağımsız bir havalandırma şartı oluşturulur.
+h) **(Ek:RG-31/12/2011-28159)** Diş protez teknisyenliği meslek hastalığına sebebiyet verebilecek olan alçı, tesviye, akril hazırlama gibi işlemlerin yapıldığı çalışma alanlarında, ortama kimyasal madde/toz yayılımını engelleyen akril hazırlama kabini, maske, eldiven gibi araç ve gereçler kullanılır ya da bu işlemlerin yapıldığı alanın genel ortamdan ayrı bağımsız bir havalandırma şartı oluşturulur.
 
 #### Mes'ul müdür
 
@@ -248,7 +248,7 @@ Diş protez teknisyenliği meslek dalında eğitim alan kursiyer öğrenciler, m
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Laboratuvarları Açmaya ve İşletmeye Yetkili Kişiler, Başvuru ve Ruhsatlandırma
+**Laboratuvarları Açmaya ve İşletmeye Yetkili Kişiler, Başvuru ve Ruhsatlandırma**
 
 #### Laboratuvarları açmaya ve işletmeye yetkili kişiler
 
@@ -268,7 +268,7 @@ Dilekçeye ekli başvuru dosyasında bulunması gereken bilgi ve belgeler şunla
 
 a) Laboratuvarın açılması düşünülen bina ve laboratuvarın bölümlerini gösteren, metrekare cinsinden kullanım alanı belirtilmiş mes’ul müdür tarafından onaylanmış ölçümlü kat ve yerleşim planı,
 
-b) (Değişik:RG-4/4/2012-28254) Laboratuvar şirket tarafından açılacak ise; şirketin diş protez hizmetleri ile ilgili kuruluş amacı ve faaliyet alanının yer aldığı, ortaklarının tamamının diş hekimi ve/veya diş protez teknisyeni olduğuna ilişkin beyan ve Ticaret unvanı, kayıtlı olunan ticaret sicil memurluğunun adı ve ticaret sicil numarası beyanı (Şirketin kuruluş statüsünü ve son yönetimini gösterir Ticaret Sicil Gazetesi 1/10/2003 tarihinden önce yayınlanmışsa Ticaret Sicil Gazetesinin aslı veya müdürlükçe onaylı örneği),
+b) **(Değişik:RG-4/4/2012-28254)** Laboratuvar şirket tarafından açılacak ise; şirketin diş protez hizmetleri ile ilgili kuruluş amacı ve faaliyet alanının yer aldığı, ortaklarının tamamının diş hekimi ve/veya diş protez teknisyeni olduğuna ilişkin beyan ve Ticaret unvanı, kayıtlı olunan ticaret sicil memurluğunun adı ve ticaret sicil numarası beyanı (Şirketin kuruluş statüsünü ve son yönetimini gösterir Ticaret Sicil Gazetesi 1/10/2003 tarihinden önce yayınlanmışsa Ticaret Sicil Gazetesinin aslı veya müdürlükçe onaylı örneği),
 
 c) Yangına karşı gereken tedbirlerin alındığına dair, ilgili mevzuata göre yetkili olan mercilerden alınan belge,
 
@@ -276,11 +276,11 @@ d) Açılmak istenen laboratuvarın sahibi ile mes’ul müdürü olan diş heki
 
 e) Çalışacak diş hekimi ve diş protez teknisyenlerinin aslının görüldüğüne dair Müdürlükçe onaylanmış diploma veya meslek belgesi örneği,
 
-f) Laboratuvarda çalışan her bir kişinin, laboratuvar sahibi ile mes’ul müdürünün (Değişik ibare:R.G.31/7/2009-27305) T.C. Kimlik Numarası beyanı , Türk vatandaşı olmayan diş protez teknisyenlerinin Türkçe tercüme edilmiş noter tasdikli kimlik belgesi ile ilgili mevzuatı gereği yetkili merciinden alınacak çalışma izin belgesi,
+f) Laboratuvarda çalışan her bir kişinin, laboratuvar sahibi ile mes’ul müdürünün **(Değişik ibare:R.G.31/7/2009-27305)** T.C. Kimlik Numarası beyanı , Türk vatandaşı olmayan diş protez teknisyenlerinin Türkçe tercüme edilmiş noter tasdikli kimlik belgesi ile ilgili mevzuatı gereği yetkili merciinden alınacak çalışma izin belgesi,
 
 g) Mes’ul müdürün mes’ul müdürlük belgesi için son 6 ay içinde çekilmiş 4 adet renkli vesikalık fotoğrafı,
 
-h) (Değişik:RG-31/12/2011-28159) Mesul müdür dahil tüm çalışanlar için 16/6/2004 tarihli ve 25494 sayılı Resmî Gazete’de yayımlanan Ağır ve Tehlikeli İşler Yönetmeliğin ekinde yer alan Ek-II’deki Ağır ve Tehlikeli İşlerde Çalışacaklara Ait İşe Giriş/Periyodik Muayene Formu,
+h) **(Değişik:RG-31/12/2011-28159)** Mesul müdür dahil tüm çalışanlar için 16/6/2004 tarihli ve 25494 sayılı Resmî Gazete’de yayımlanan Ağır ve Tehlikeli İşler Yönetmeliğin ekinde yer alan Ek-II’deki Ağır ve Tehlikeli İşlerde Çalışacaklara Ait İşe Giriş/Periyodik Muayene Formu,
 
 ı) Mes’ul müdür ve çalışanların 1593 sayılı Umumi Hıfzıssıhha Kanununa göre gerekli sağlık muayenelerinin yapılıp, bulaşıcı hastalığı olmadığı ve mesleğini icraya mani bir hal bulunmadığına dair sağlık kuruluşundan alınacak tek hekim imzalı sağlık raporu,
 
@@ -288,7 +288,7 @@ i) Laboratuvarın türüne göre belirlenmiş mes’ul müdür imzalı asgari ar
 
 j) Ruhsat kaybı nedeniyle yapılacak ruhsat yenileme işlemleri için ruhsatın kaybolduğuna dair gazete ilanı.
 
-k) (Ek:RG-31/12/2011-28159) Mesul müdür dâhil tüm çalışanların, iki yılda bir, radyoloji uzmanı tarafından raporlanmış büyük boy akciğer filmleri.
+k) **(Ek:RG-31/12/2011-28159)** Mesul müdür dâhil tüm çalışanların, iki yılda bir, radyoloji uzmanı tarafından raporlanmış büyük boy akciğer filmleri.
 
 Bu belgeler iki nüsha halinde düzenlenir.
 
@@ -314,7 +314,7 @@ O ilde ruhsat alan laboratuvarların kayıtları müdürlükçe tutulur.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Denetim, Yasaklar ve Cezai Hükümler
+**Denetim, Yasaklar ve Cezai Hükümler**
 
 #### İl denetim ekibi
 
@@ -330,9 +330,9 @@ c) Rutin denetimler dışında şikayet, ihbar ve sair durumlarda laboratuvarı 
 
 d) Her bir denetim için denetim defterine, denetimin yapıldığı gün ve saati, denetimin ne amaçla gerçekleştirildiğini, denetimi gerçekleştiren yetkililerin adı, soyadı, unvanı ve görev yaptıkları kuruluşu, denetimde saptanan eksiklikleri, denetim sonucu verilen kararı, denetimi gerçekleştiren yetkililer ile laboratuvarın mes’ul müdürünün imzalarını kaydetmek.
 
-e) (Ek:RG-31/12/2011-28159) Ek-10’daki Diş Protez Laboratuvarı Çalışanları Değerlendirme Formunu doldurmak.
+e) **(Ek:RG-31/12/2011-28159)** Ek-10’daki Diş Protez Laboratuvarı Çalışanları Değerlendirme Formunu doldurmak.
 
-f) (Ek:RG-31/12/2011-28159) Laboratuvarlarda protez yapımında kullanılan metallerin insan sağlığına zararlı alaşımlar içermediğinin ve TS EN İSO 22674 sayılı Standarda uygunluğunun tespiti amacıyla denetim yapılan laboratuvarlardan rastgele seçilecek protez metallerinin Bakanlıkça belirlenecek usul ve esaslar doğrultusunda metalürjik testlerinin yaptırılmasını sağlamak ile sonuçlarından Bakanlığa bilgi vermek.
+f) **(Ek:RG-31/12/2011-28159)** Laboratuvarlarda protez yapımında kullanılan metallerin insan sağlığına zararlı alaşımlar içermediğinin ve TS EN İSO 22674 sayılı Standarda uygunluğunun tespiti amacıyla denetim yapılan laboratuvarlardan rastgele seçilecek protez metallerinin Bakanlıkça belirlenecek usul ve esaslar doğrultusunda metalürjik testlerinin yaptırılmasını sağlamak ile sonuçlarından Bakanlığa bilgi vermek.
 
 #### Yasaklar
 
@@ -352,7 +352,7 @@ d) Laboratuvarların içinde başka bir ticari faaliyet yürütülemez, diş hek
 
 ### BEŞİNCİ BÖLÜM
 
-Tutulması Zorunlu Defterler ve Tabela
+**Tutulması Zorunlu Defterler ve Tabela**
 
 #### Defter Tutma
 
@@ -412,13 +412,13 @@ Tabelalar ve kullanılan basılı materyallerde kesinlikle reklam yapılamaz.
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan Yönetmelik
 
 **Madde 17 –** 9/8/2000 tarihli ve 24135 sayılı Resmî Gazete'de yayımlanan Diş Protez Laboratuvarları Yönetmeliği yürürlükten kaldırılmıştır.
 
-Yardımcı personel çalıştırılması (1)
+**<i>Yardımcı personel</i> çalıştırılması (1)**
 
 ### EK MADDE 1 ‒ (Ek:RG-31/12/2011-28159) (1)
 
@@ -546,15 +546,15 @@ Yardımcı personel, 1219 sayılı Kanunda ve ilgili diğer mevzuatta görev tan
 
 ___________
 
-(1) Danıştay Onbeşinci Dairesinin 27/3/2015 tarihli ve E.2013/2535, K.2015/1811 sayılı Kararı ile Diş Protez Laboratuvarları Yönetmeliği’nde değişiklik yapılması hakkında Yönetmeliğe eklenen Ek Madde 1 ve Ek-4’te yer alan “yardımcı personel” ibaresinin iptaline karar verilmiştir.
+<i>(1) Danıştay Onbeşinci Dairesinin 27/3/2015 tarihli ve E.2013/2535, K.2015/1811 sayılı Kararı ile Diş Protez Laboratuvarları Yönetmeliği’nde değişiklik yapılması hakkında Yönetmeliğe eklenen Ek Madde 1 ve Ek-4’te yer alan “yardımcı personel” ibaresinin iptaline karar verilmiştir.</i>
 
-Ek : 1
+**Ek : 1**
 
 ### T.C
 
 ### . . . . . . . . . . . VALİLİĞE
 
-. . . . . . . . . . . . . . . İl Sağlık Müdürlüğüne
+**. . . . . . . . . . . . . . . İl Sağlık Müdürlüğüne**
 
 Tarih : . . / . . / . . . . .
 
@@ -580,7 +580,7 @@ Mesul Müdür
 
 ### EKLER :
 
-Ek:2 (Değişik:RG-31/12/2011-28159)
+**Ek:2 (Değişik:RG-31/12/2011-28159)**
 
 ### T.C.
 
@@ -590,7 +590,7 @@ Ek:2 (Değişik:RG-31/12/2011-28159)
 
 ### ÖZEL
 
-. . . . (Bu Kısma Laboratuvarın Adı Yazılacak) . . . . DİŞ PROTEZ LABORATUVARI
+**. . . . (Bu Kısma Laboratuvarın Adı Yazılacak) . . . . DİŞ PROTEZ LABORATUVARI**
 
 ### RUHSAT BELGESİ
 
@@ -598,11 +598,11 @@ Ek:2 (Değişik:RG-31/12/2011-28159)
 
 No:
 
-………..( Laboratuvar Sahibinin Adı Yazılacak-Şirket-Şahıs) … sahipliğinde ………… (Bu Kısma Laboratuvarın Adresi Yazılacak) …...……………………...……….. adresinde faaliyet göstermek isteyen …… (Bu Kısma Laboratuvarın Türü Yazılacak, Çok Amaçlı ise hangi türlerden oluştuğu da belirtilecek) ………….. Diş Protez Laboratuvarının …………... tarihli ve …………. sayılı Resmî Gazete’de yayımlanan Diş Protez Laboratuvarları Yönetmeliği doğrultusunda ruhsatlandırılması uygun görülmüştür.
+………..( **Laboratuvar Sahibinin Adı Yazılacak-Şirket-Şahıs)** … sahipliğinde ………… **(Bu Kısma Laboratuvarın Adresi Yazılacak)** …...……………………...……….. adresinde faaliyet göstermek isteyen …… **(Bu Kısma Laboratuvarın Türü Yazılacak, Çok Amaçlı ise hangi türlerden oluştuğu da belirtilecek)** ………….. Diş Protez Laboratuvarının …………... tarihli ve …………. sayılı Resmî Gazete’de yayımlanan Diş Protez Laboratuvarları Yönetmeliği doğrultusunda ruhsatlandırılması uygun görülmüştür.
 
 ### SAĞLIK MÜDÜRÜ VALİ
 
-Ek:3
+**Ek:3**
 
 ### T.C
 
@@ -610,7 +610,7 @@ Ek:3
 
 ### ....................... İL SAĞLIK MÜDÜRLÜĞÜ
 
-Belge No : Tarih : ... / ... / .....
+**Belge No : Tarih : ... / ... / .....**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -620,7 +620,7 @@ Belge No : Tarih : ... / ... / .....
 
 ### MES'UL MÜDÜRÜN
 
-ADI ve SOYADI :
+**ADI ve SOYADI :**
 
 ### UNVANI :
 
@@ -634,9 +634,9 @@ ADI ve SOYADI :
 
 | □ Dişhekimliği Fakültesi | □ D.P.T.Yüksek okulu | □ Sağlık Meslek Lisesi |
 
-Mezuniyet Tarihi :
+**Mezuniyet Tarihi :**
 
-Diploma No :
+**Diploma No :**
 
 ### SAĞLIK BAKANLIĞI
 
@@ -644,9 +644,9 @@ Diploma No :
 
 ### MESLEK BELGESİNİN
 
-Tescil Tarih / No :
+**Tescil Tarih / No :**
 
-Kütük Sayfa No :
+**Kütük Sayfa No :**
 
 ### GÖREV YAPACAĞI LABORATUVARIN
 
@@ -654,15 +654,15 @@ Kütük Sayfa No :
 
 ### ADRESİ :
 
-Yukarıda açık kimliği yazılı olan Diş Hekiminin/Diş Protez Teknisyeninin ............................................................ Diş Protez Laboratuvarında Mes'ul Müdürlük görevini yürütmesi İl Sağlık Müdürlüğünce uygun görülmüştür.
+**Yukarıda açık kimliği yazılı olan Diş Hekiminin/Diş Protez Teknisyeninin ............................................................ Diş Protez Laboratuvarında Mes'ul Müdürlük görevini yürütmesi İl Sağlık Müdürlüğünce uygun görülmüştür.**
 
-Bu belge ..... /...... / ....... gün ve ......... sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Diş Protez Laboratuvarları Yönetmeliği hükümlerine göre düzenlenmiştir.
+**Bu belge ..... /...... / ....... gün ve ......... sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Diş Protez Laboratuvarları Yönetmeliği hükümlerine göre düzenlenmiştir.**
 
-İmza ve Tarih
+**İmza ve Tarih**
 
-Ek:4 (1) (Değişik:RG-31/12/2011-28159)
+**Ek:4** (1) **(Değişik:RG-31/12/2011-28159)**
 
-Belge No: Tarih:...../......./.........
+**Belge No: Tarih:...../......./.........**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -678,15 +678,15 @@ Belge No: Tarih:...../......./.........
 
 ### BABA ADI :
 
-DOĞUM YERİ / TARİHİ ( Ay -gün) :
+**DOĞUM YERİ / TARİHİ ( Ay -gün) :**
 
 ### MEZUN OLDUĞU OKUL :
 
 | □ Dişhekimliği Fakültesi | □ D.P.T.Yüksek Okulu | □ Sağlık Meslek Lisesi |
 
-Mezuniyet Tarihi :
+**Mezuniyet Tarihi :**
 
-Diploma No :
+**Diploma No :**
 
 ### SAĞLIK BAKANLIĞI
 
@@ -694,9 +694,9 @@ Diploma No :
 
 ### MESLEK BELGESİNİN
 
-Tescil Tarih / No :
+**Tescil Tarih / No :**
 
-Kütük Sayfa No :
+**Kütük Sayfa No :**
 
 ### GÖREV YAPACAĞI LABORATUVARIN
 
@@ -704,17 +704,17 @@ Kütük Sayfa No :
 
 ### ADRESİ :
 
-Yukarıda açık kimliği yazılı olan Diş Hekiminin / Diş Protez Teknisyeninin /Yardımcı Personelin (1) ........................................................... Diş Protez Laboratuvarında mesleğini icra etmesi, İl Sağlık Müdürlüğünce uygun görülmüştür.
+**Yukarıda açık kimliği yazılı olan Diş Hekiminin / Diş Protez Teknisyeninin /Yardımcı Personelin (1) ........................................................... Diş Protez Laboratuvarında mesleğini icra etmesi, İl Sağlık Müdürlüğünce uygun görülmüştür.**
 
-Bu belge ..... /...... / ....... tarihli ve ......... sayılı Resmî Gazete'de yayımlanan Diş Protez Laboratuvarları Yönetmeliği hükümlerine göre düzenlenmiştir.
+**Bu belge ..... /...... / ....... tarihli ve ......... sayılı Resmî Gazete'de yayımlanan Diş Protez Laboratuvarları Yönetmeliği hükümlerine göre düzenlenmiştir.**
 
-Düzenleyen Onaylayan
+**Düzenleyen Onaylayan**
 
-Mesul Müdür Sağlık Müdürlüğü
+**Mesul Müdür Sağlık Müdürlüğü**
 
-İmza ve Tarih İmza ve Tarih
+**İmza ve Tarih İmza ve Tarih**
 
-Ek : 5 Protokol Defterinin İlk Sayfası
+**Ek : 5 Protokol Defterinin İlk Sayfası**
 
 ### T.C
 
@@ -754,7 +754,7 @@ Ek : 5 Protokol Defterinin İlk Sayfası
 
 ### İMZA
 
-Ek : 6 Denetim Defterinin İlk Sayfası
+**Ek : 6 Denetim Defterinin İlk Sayfası**
 
 ### T.C
 
@@ -794,7 +794,7 @@ Ek : 6 Denetim Defterinin İlk Sayfası
 
 ### İMZA
 
-Ek :7 (Değişik:RG-31/12/2011-28159)
+**Ek :7 (Değişik:RG-31/12/2011-28159)**
 
 ### T.C
 
@@ -832,9 +832,9 @@ Adresi :
 | 19 | Laboratuvarda hekimliği klinik hizmetleri veriliyor mu veya bu hizmetlerde kullanılan tıbbi cihaz, araç ve gereç bulunduruluyor mu ? | Hayır | Evet | - | Ruhsat iptali |
 | Genel Değerlendirme: |
 
-Denetim Ekip Başkanı Denetim Denetim Denetim Mesul Müdür
+**Denetim Ekip Başkanı Denetim Denetim Denetim Mesul Müdür**
 
-Görevlisi Görevlisi Görevlisi
+**Görevlisi Görevlisi Görevlisi**
 
 Adı Soyadı Adı Soyadı Adı Soyadı Adı Soyadı Adı Soyadı
 
@@ -842,9 +842,9 @@ Görevi Görevi Görevi Görevi Görevi
 
 İmza İmza İmza İmza İmza
 
-NOT: Bu formda saptanan eksiklikleri Denetim Defterine yazınız. Aynı eksikliğin kapatma süresi sonunda da devamı halinde ruhsat iptal işlemi uygulanır.
+**NOT:** Bu formda saptanan eksiklikleri Denetim Defterine yazınız. Aynı eksikliğin kapatma süresi sonunda da devamı halinde ruhsat iptal işlemi uygulanır.
 
-EK : 8 (Değişik:RG-31/12/2011-28159)
+**EK : 8 (Değişik:RG-31/12/2011-28159)**
 
 ### DİŞ PROTEZ LABORATUVARI RUHSAT BAŞVURU DOSYASI
 
@@ -905,15 +905,15 @@ Tel: ...................***
 
 *** : Diş Protez Laboratuvarının Telefonu
 
-Ek:10 (Ek:RG-31/12/2011-28159)
+**Ek:10 (Ek:RG-31/12/2011-28159)**
 
 ### T.C.
 
 ### ……….. VALİLİĞİ
 
-İl Sağlık Müdürlüğü
+**İl Sağlık Müdürlüğü**
 
-Diş Protez Laboratuvarı Çalışanları Değerlendirme Formu
+**Diş Protez Laboratuvarı Çalışanları Değerlendirme Formu**
 
 Formun Kullanımı: Denetim ekibince çalışan her personel için bir form doldurulacaktır. Çalışanların yeni çekilmiş, doz ve çekim hatası olmayan, standart boyutlu PA akciğer filmleri, Yönetmelik Ek 4 fotokopisi forma eklenerek mesul müdür tarafından katlanmadan, uygun muhafazalarla denetim ekibine teslim edilir. Müdürlükçe İlgili Meslek Hastalıkları Hastanesine gönderilmesi sağlanır.
 

@@ -24,7 +24,7 @@ Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -108,7 +108,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Tarafların Sorumlulukları
+**Tarafların Sorumlulukları**
 
 #### Ruhsat sahibinin sorumlulukları
 
@@ -192,17 +192,17 @@ g) Risk yönetim planı kapsamında alınan tedbirlerin sonuçlarını izler.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Ruhsat Başvurusu Sırasında Sunulması Gereken Farmakovijilansla İlgili Belgeler,
+**Ruhsat Başvurusu Sırasında Sunulması Gereken Farmakovijilansla İlgili Belgeler,**
 
-Farmakovijilans Sistemi Ana Dosyası
+**Farmakovijilans Sistemi Ana Dosyası**
 
 #### Ruhsat başvurusu sırasında sunulması gereken farmakovijilansla ilgili belgeler
 
-**MADDE 9 –** (1) Başvuru sahibi, ruhsat başvurusu yaparken farmakovijilans sisteminin bir özetini sunar. Farmakovijilans sisteminin özeti aşağıdakilerden oluşur:
+**MADDE 9 –** (1) Başvuru sahibi, ruhsat başvurusu yaparken farmakovijilans sisteminin bir özetini sunar. **Farmakovijilans** sisteminin özeti aşağıdakilerden oluşur:
 
 a) Başvuru sahibinin farmakovijilans yetkilisi görevlendirdiğine dair belge.
 
-b) Farmakovijilans yetkilisinin iletişim bilgileri.
+b) **Farmakovijilans** yetkilisinin iletişim bilgileri.
 
 c) Başvuru sahibinin farmakovijilansla ilgili görev ve sorumlulukları yerine getirmek üzere gerekli donanıma sahip olduğuna ilişkin imzalı beyanı.
 
@@ -212,7 +212,7 @@ c) Başvuru sahibinin farmakovijilansla ilgili görev ve sorumlulukları yerine 
 
 #### Farmakovijilans sistemi ana dosyasının yapısı
 
-**MADDE 10 –** (1) Farmakovijilans sistemi ana dosyasında yer alan bilgiler uygulanmakta olan farmakovijilans sistemini eksiksiz ve doğru olarak yansıtır.
+**MADDE 10 –** (1) **Farmakovijilans** sistemi ana dosyasında yer alan bilgiler uygulanmakta olan farmakovijilans sistemini eksiksiz ve doğru olarak yansıtır.
 
 (2) Ruhsat sahibi, gereken durumlarda farklı kategorilerdeki ilaçlar için ayrı farmakovijilans sistemleri uygulayabilir. Bu sistemlerin hepsi, ayrı birer farmakovijilans sistemi ana dosyasında tanımlanır.
 
@@ -302,7 +302,7 @@ e) Elektronik kayıt defteri.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Şüpheli Advers Reaksiyon Raporları
+**Şüpheli Advers Reaksiyon Raporları**
 
 #### Şüpheli advers reaksiyon raporlarının içeriği
 
@@ -346,7 +346,7 @@ j) Advers reaksiyon raporunu iptal etme ya da değişiklik yapma nedenleri.
 
 ### BEŞİNCİ BÖLÜM
 
-Periyodik Yarar/Risk Değerlendirme Raporu
+**Periyodik Yarar/Risk Değerlendirme Raporu**
 
 #### Periyodik yarar/risk değerlendirme raporunun içeriği
 
@@ -368,7 +368,7 @@ Periyodik Yarar/Risk Değerlendirme Raporu
 
 ### ALTINCI BÖLÜM
 
-Risk Yönetim Planları
+**Risk Yönetim Planları**
 
 #### Risk yönetim planının formatı ve içeriği
 
@@ -392,7 +392,7 @@ c) İlaçla ilişkilendirilen riskleri önlemeye ya da en aza indirmeye yönelik
 
 ### YEDİNCİ BÖLÜM
 
-Kuruma Yapılacak Bildirimler ve Bildirimlerin Değerlendirilmesi
+**Kuruma Yapılacak Bildirimler ve Bildirimlerin Değerlendirilmesi**
 
 #### Sağlık mesleği mensuplarının yapacağı bildirimler
 
@@ -470,9 +470,9 @@ d) Yeni kontrendikasyon ilavesi, önerilen dozun azaltılması ve endikasyon kı
 
 ### SEKİZİNCİ BÖLÜM
 
-Farmakovijilans Faaliyetlerinin Yürütülmesi için Kullanılacak
+**Farmakovijilans Faaliyetlerinin Yürütülmesi için Kullanılacak**
 
-Kalite Sistemlerine İlişkin Gereklilikler
+**Kalite Sistemlerine İlişkin Gereklilikler**
 
 #### Kalite sistemine ilişkin genel esaslar
 
@@ -540,7 +540,7 @@ f) İlgili güvenlilik bilgilerinin sağlık mesleği mensuplarına ve hastalara
 
 ### DOKUZUNCU BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Endikasyon dışı kullanım ve mesleki maruziyet
 

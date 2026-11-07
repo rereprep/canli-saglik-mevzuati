@@ -73,11 +73,11 @@ Halk Sağlığı Genel Müdürlüğü
 
 EK:
 
-TÜBERKÜLOZ REFERANS HASTANELERİNİN ULUSAL TÜBERKÜLOZ KONTROL
+**TÜBERKÜLOZ REFERANS HASTANELERİNİN ULUSAL TÜBERKÜLOZ KONTROL**
 
-PROGRAMI KAPSAMINDAKİ GÖREV, YETKİ VE SORUMLULUKLARI
+**PROGRAMI KAPSAMINDAKİ GÖREV, YETKİ VE SORUMLULUKLARI**
 
-Tüberküloz Referans Hastanelerinin Sorumlulukları
+**Tüberküloz Referans Hastanelerinin Sorumlulukları**
 
 Tüberküloz ve dirençli tüberküloz hastalarının Tüberküloz Tanı ve Tedavi Rehberi ile ilgili
 
@@ -121,7 +121,7 @@ sorumlusu, idari sorumlu ve hastane başhekim yardımcısından mütevellit tüb
 
 Başhekimlikçe belirlenen ve koordinasyon birimine yazılı olarak görevlendirilen personele görevlerini yazılı olarak tebliğ ederek personel bilgilerini bakanlığa iletilmek üzere il sağlık müdürlüğüne bildirmek ve koordinasyon ekip bilgilerinin güncel tutulması sağlamak.
 
-İl Sağlık Müdürlüklerinin Sorumlulukları
+**İl Sağlık Müdürlüklerinin Sorumlulukları**
 
 İl sağlık müdürlükleri, referans hastanelere sevk edilmesi gereken hastaları; Tüberküloz Tanı ve
 
@@ -135,7 +135,7 @@ Bakanlıkça istenilen bilgi notu/belge/formların gönderilmesini sağlanması 
 
 İl sağlık müdürlüğü, referans hastanelerini tüberküloz aktif sürveyansına dahil ederek kayıt, bildirim ve genel mevzuatın yürütülmesiyle ilgili izleme, değerlendirme ve denetim faaliyetlerini yürütür.
 
-Bakanlık
+**Bakanlık**
 
 Halk Sağlığı Genel Müdürlüğü (Tüberküloz Dairesi Başkanlığı) tüberküloz referans hastanelerinde tüberkülozla ilgili yürütülen hizmetlerin Ulusal Tüberküloz Kontrol Programına uygun olup olmadığını yerinde izler, değerlendirir ve Kamu Hastaneleri Genel Müdürlüğüne raporlandırır.
 

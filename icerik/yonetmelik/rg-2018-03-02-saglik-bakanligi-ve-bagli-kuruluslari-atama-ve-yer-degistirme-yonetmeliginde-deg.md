@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARI ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR
+**SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARI ATAMA VE YER DEĞİŞTİRME** YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR
 
 MADDE 1 – 26/3/2013 tarihli ve 28599 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı ve Bağlı Kuruluşları Atama ve Yer Değiştirme Yönetmeliğinin başlığı “SAĞLIK BAKANLIĞI ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİ” şeklinde değiştirilmiş ve 1 inci maddesinde yer alan “Sağlık Bakanlığı ve bağlı kuruluşlarında” ibaresi “Sağlık Bakanlığında” şeklinde değiştirilmiştir.
 

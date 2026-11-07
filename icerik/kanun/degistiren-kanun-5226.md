@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2004/07/20040727.htm#1"
 durum: "yürürlükte"
 ---
 
-Kanunlar Kültür ve Tabiat Varlıklarını Koruma Kanunu ile Çeşitli Kanunlarda Değişiklik Yapılması Hakkında Kanun Kanun No. 5226 Kabul Tarihi : 14.7.2004
+**Kanunlar Kültür ve Tabiat Varlıklarını Koruma Kanunu ile Çeşitli Kanunlarda Değişiklik Yapılması Hakkında Kanun Kanun No. 5226 Kabul Tarihi : 14.7.2004**
 
 
 MADDE 1 – 21.7.1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun 3 üncü maddesinin; (a) bendinin (1) numaralı alt bendi aşağıdaki şekilde değiştirilmiş,
@@ -149,9 +149,9 @@ MADDE 17 – 2863 sayılı Kanunun birinci ek maddesi aşağıdaki şekilde değ
 Ek
 
 Madde 1. — Bu Kanunda yer alan "Koruma Kurulu" ibareleri "koruma bölge kurulu" olarak değiştirilmiştir.
-Alan yönetimi, müze yönetimi ve anıt eser kurulu EK
+Alan yönetimi, müze yönetimi ve anıt eser kurulu **EK**
 
-MADDE 2. — Yönetim alanlarında alan yönetimi, ulusal nitelikli müzelerde ise müze yönetimi, anıt eserlerde anıt eser kurulu kurulur.
+**MADDE 2. —** Yönetim alanlarında alan yönetimi, ulusal nitelikli müzelerde ise müze yönetimi, anıt eserlerde anıt eser kurulu kurulur.
 a) Yönetim alanları ile bunların bağlantı noktalarının korunması, değerlendirilmesi ve geliştirilmesi amacıyla kentsel sitlerde birden fazla belediyeyi ilgilendirmesi halinde büyükşehir belediyesi eşgüdümünde ilgili belediyeler, tek bir belediyenin görevi alanına girmesi halinde ilgili belediye, diğer yerlerde ise Bakanlıkça yönetim plânı taslağı hazırlanır veya hazırlattırılır.
 Hazırlanan taslağın karara bağlanması ve uygulanması konusunda önerilerde bulunmak amacıyla, alanda mülkiyet hakkı bulunanlar, meslek odaları ve sivil toplum örgütleri ile üniversitelerin ilgili bölüm temsilcilerinden oluşan bir danışma kurulu kurulur.
 Eşgüdümün sağlanması amacıyla, kentsel sitlerde ilgili belediye diğer yerlerde Bakanlıkça bir alan başkanı belirlenir. Bakanlıkça belirlenen alan başkanlığı görevini fiilen yürütenlere, Devlet memurları aylık katsayısının (20000) gösterge rakamı ile çarpımı sonucu bulunacak tutarı aşmamak kaydıyla Bakan tarafından belirlenecek miktarda, damga vergisi hariç herhangi bir vergiye tâbi tutulmaksızın çalışmayı takip eden her ay başında Kültür Bakanlığı Döner Sermaye İşletmesi Merkez Müdürlüğü bütçesinden ödeme yapılır.
@@ -169,9 +169,9 @@ Müze kurulunun görüşleri doğrultusunda müze için mekansal ve fiziksel gel
 c) Taşınmaz kültür varlığı niteliğindeki anıt eserler için ise, o esere münhasır anıt eser kurulu oluşturulur. Kurul; eserin bulunduğu yerdeki üniversitelerin ilgili bölümlerinden öğretim üyeleri, meslek odaları, sivil toplum örgütü temsilcileri ve yerel yönetimlerin temsilcileri ile eserin korunması ve geliştirilmesi için bağışta bulunanlardan Bakanlıkça uygun görülen kimseler ile bu eserler için tasarruf yetkisine sahip idarenin temsilcisinden oluşur. İlgili idarenin temsilcisi bu kurulun başkanıdır.
 Kurul, eser için mekansal ve fiziksel gelişim, tematik gelişim ve vizyon, eserin korunması ve geliştirilmesi, tanıtım ve teşhir gibi konuları kapsayan yıllık ve beş yıllık koruma ve geliştirme projesi hazırlar. Koruma ve geliştirme projesi kapsamındaki uygulamalar, anıt eserin tanıtımını yapmak, anıt eser için bağış toplamak, onursal ödüller vermek anıt eser kurulunun yetkisindedir. Kurul; eserin korunması, yaşatılması ve geliştirilmesine ilişkin her yıl düzenli olarak rapor hazırlar. İlgili idareler bu raporları değerlendirmeye almak zorundadır.
 Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça hazırlanacak bir yönetmelikle düzenlenir.
-EK
+**EK**
 
-MADDE 3. — 383 sayılı Özel Çevre Koruma Kurumu Başkanlığı Kurulmasına Dair Kanun Hükmünde Kararname, 2873 sayılı Milli Parklar Kanunu, 4915 sayılı Kara Avcılığı Kanunu, 4533 sayılı Gelibolu Yarımadası Tarihi Millî Parkı Kanunu ile belirlenen alanlarda ek-2 maddenin (a) fıkrası hükümleri uygulanmaz.
+**MADDE 3. —** 383 sayılı Özel Çevre Koruma Kurumu Başkanlığı Kurulmasına Dair Kanun Hükmünde Kararname, 2873 sayılı Milli Parklar Kanunu, 4915 sayılı Kara Avcılığı Kanunu, 4533 sayılı Gelibolu Yarımadası Tarihi Millî Parkı Kanunu ile belirlenen alanlarda ek-2 maddenin (a) fıkrası hükümleri uygulanmaz.
 
 
 MADDE 18 – 8.6.1959 tarihli ve 7338 sayılı Veraset ve İntikal Vergisi Kanununun 4 üncü maddesinin birinci fıkrasına aşağıdaki (m) bendi eklenmiştir.
@@ -191,7 +191,7 @@ MADDE 21 – 4.1.2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü ma
 i) 21.7.1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındaki kültür varlıklarının rölöve, restorasyon, restitüsyon projeleri, sokak sağlıklaştırma, çevre düzenleme projeleri ve bunların uygulamaları ile değerlendirme, muhafaza, nakil işleri ve kazı çalışmalarına ilişkin mal ve hizmet alımları,
 
 
-MADDE 22 – 4734 sayılı Kanunun "Tanımlar" başlıklı 4 üncü maddesinde yer alan "Rölöve projesi", "Restorasyon projesi" ve "Restitüsyon projesi" tanımları madde metninden çıkartılmıştır.
+MADDE 22 – 4734 sayılı Kanunun "**Tanımlar**" başlıklı 4 üncü maddesinde yer alan "Rölöve projesi", "Restorasyon projesi" ve "Restitüsyon projesi" tanımları madde metninden çıkartılmıştır.
 
 
 MADDE 23 – 4734 sayılı Kanunun 62 nci maddesinin (c) bendindeki "Kültür varlıklarının rölöve, restorasyon ve restitüsyon projelerine göre yapılacak onarım işleri, her bir kalem iş için birim fiyat teklif almak suretiyle ihale edilebilir." cümlesi madde metninden çıkartılmıştır.
@@ -204,7 +204,7 @@ Bu Kanunun 3 üncü maddesinin (i) bendine ilişkin esas ve usuller Maliye Bakan
 MADDE 25 – Ekli listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Kültür ve Turizm Bakanlığına ilişkin bölümüne eklenmiştir.
 
 
-MADDE 26 – 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununun eki (II) sayılı Ek Gösterge Cetvelinin "4. Başbakanlık ve Bakanlıklarda" bölümüne, "Emlak Müdürü (Maliye Bakanlığı)" ibaresinden sonra gelmek üzere "Müze Başkanı (Kültür ve Turizm Bakanlığı)" ibareleri eklenmiştir.
+MADDE 26 – 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununun eki (II) sayılı Ek Gösterge Cetvelinin "4. **Başbakanlık** ve Bakanlıklarda" bölümüne, "Emlak Müdürü (Maliye Bakanlığı)" ibaresinden sonra gelmek üzere "Müze Başkanı (Kültür ve Turizm Bakanlığı)" ibareleri eklenmiştir.
 
 
 MADDE 27 – 2863 sayılı Kanunun 21 inci maddesinin birinci ve ikinci fıkraları yürürlükten kaldırılmış ve maddeye aşağıdaki fıkra eklenmiştir.

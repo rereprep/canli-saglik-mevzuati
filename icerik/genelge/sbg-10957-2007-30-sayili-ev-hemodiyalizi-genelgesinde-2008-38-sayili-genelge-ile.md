@@ -82,7 +82,7 @@ Hastanın tlf/fax: : …………………………………………
 
 Hastane/klinik protokol no:…………………………………..
 
-Ev hemodiyaliz uygulamasına katılmak üzere davet ediliyorsunuz. T.C. Sağlık Bakanlığı 08.05.2005 tarih ve 25809 sayılı Resmi Gazete’de yayınlanan Diyaliz Merkezleri Hakkında Yönetmelik ile ev hemodiyalizinin, diyaliz yöntemleri arasında yer aldığı belirtilmiştir. Ev hemodiyaliz uygulamasına katılıp katılmayacağınıza karar verebilmeniz için, size gerekli bilgilendirme ve kabul ederseniz eğitim verilecektir ve böylelikle bu diyaliz uygulamasının neden yapıldığını, neyi kapsadığını, nasıl yapılacağını ve size sağlayacağı yarar ve olası riskleri anlamanız amaçlanmıştır. Lütfen toplam 6 sayfadan oluşan aşağıdaki bilgileri dikkatlice okuyunuz ve doktorunuzla görüşünüz.
+Ev hemodiyaliz uygulamasına katılmak üzere davet ediliyorsunuz. **T.C. Sağlık Bakanlığı** 08.05.2005 tarih ve 25809 sayılı Resmi Gazete’de yayınlanan Diyaliz Merkezleri Hakkında Yönetmelik ile ev hemodiyalizinin, diyaliz yöntemleri arasında yer aldığı belirtilmiştir. Ev hemodiyaliz uygulamasına katılıp katılmayacağınıza karar verebilmeniz için, size gerekli bilgilendirme ve kabul ederseniz eğitim verilecektir ve böylelikle bu diyaliz uygulamasının neden yapıldığını, neyi kapsadığını, nasıl yapılacağını ve size sağlayacağı yarar ve olası riskleri anlamanız amaçlanmıştır. Lütfen toplam 6 sayfadan oluşan aşağıdaki bilgileri dikkatlice okuyunuz ve doktorunuzla görüşünüz.
 
 #### Ev hemodiyalizi nedir?
 
@@ -182,7 +182,7 @@ Gönüllünün/velinin veya vasinin
 
 Adı-soyadı:
 
-Adres:
+**Adres:**
 
 Telefon:
 

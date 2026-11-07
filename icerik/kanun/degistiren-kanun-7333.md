@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/07/20210728-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7333 Kabul Tarihi: 18/7/2021
 
 MADDE 1 – 18/3/1924 tarihli ve 442 sayılı Köy Kanununun 74 üncü maddesinin altıncı fıkrasına ikinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.

@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -50,7 +50,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Sınav ve Atama İşlemlerine İlişkin Usul ve Esaslar
+**Sınav ve Atama İşlemlerine İlişkin Usul ve Esaslar**
 
 #### Atama yapılacak kadrolar
 
@@ -70,9 +70,9 @@ c) Kamu görevlileri için terfiine engel hali bulunmamak.
 
 ç) Bu Yönetmelikte belirtilen yabancı dil yeterlilik belgesi sahibi olmak.
 
-d) (Değişik:RG-19/7/2012-28358) Müracaat tarihi itibariyle; Devlet Hizmeti yükümlülüğünü tamamlamaya 180 günden az süre kalmış olmak.
+d) **(Değişik:RG-19/7/2012-28358)** Müracaat tarihi itibariyle; Devlet Hizmeti yükümlülüğünü tamamlamaya 180 günden az süre kalmış olmak.
 
-e) (Değişik:RG-19/7/2012-28358) Bilimsel çalışma ve eserleri bakımından aşağıdaki şartlardan en az birini sağlamak,
+e) **(Değişik:RG-19/7/2012-28358)** Bilimsel çalışma ve eserleri bakımından aşağıdaki şartlardan en az birini sağlamak,
 
 1) Türk Tıp Dizininde kayıtlı dergilerde yayımlanmış, ikisi birinci isim olmak üzere en az üç orijinal araştırma makalesi bulunmak,
 
@@ -128,7 +128,7 @@ e) (Değişik:RG-19/7/2012-28358) Bilimsel çalışma ve eserleri bakımından a
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 

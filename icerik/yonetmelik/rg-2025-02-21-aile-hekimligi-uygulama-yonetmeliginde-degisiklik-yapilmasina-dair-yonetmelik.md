@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-AİLE HEKİMLİĞİ UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**AİLE HEKİMLİĞİ UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 25/1/2013 tarihli ve 28539 sayılı Resmî Gazete’de yayımlanan Aile Hekimliği Uygulama Yönetmeliğinin 5 inci maddesinin başlığı aşağıdaki şekilde değiştirilmiştir.
 “Aile sağlığı çalışanının görev, yetki ve sorumlulukları”

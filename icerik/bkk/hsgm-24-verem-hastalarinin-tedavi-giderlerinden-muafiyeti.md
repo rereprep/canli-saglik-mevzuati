@@ -54,7 +54,7 @@ Kararnamenin Eki
 
 **Madde 1 –** 28/1/2002 tarihli ve 2002/3654 sayılı Kararnamenin eki Karara aşağıdaki madde 34 üncü madde olarak eklenmiş ve söz konusu Kararın diğer madde numaraları teselsül ettirilmiştir.
 
-"Madde 34 — Herhangi bir sosyal güvencesi olmayan verem hastaları ile temaslıları; birinci, ikinci ve üçüncü basamak sağlık kurum ve kuruluşları tarafından verilecek veremle ilgili tanı, tedavi, takip ve koruma hizmetlerinden yararlanmada, 8/1/2002 tarihli ve 4736 sayılı Kanunun 1 inci maddesinin birinci fıkrası hükmünden muaftır."
+"**Madde 34 —** Herhangi bir sosyal güvencesi olmayan verem hastaları ile temaslıları; birinci, ikinci ve üçüncü basamak sağlık kurum ve kuruluşları tarafından verilecek veremle ilgili tanı, tedavi, takip ve koruma hizmetlerinden yararlanmada, 8/1/2002 tarihli ve 4736 sayılı Kanunun 1 inci maddesinin birinci fıkrası hükmünden muaftır."
 
 **Madde 2 –** Bu Karar yayımı tarihinde yürürlüğe girer.
 

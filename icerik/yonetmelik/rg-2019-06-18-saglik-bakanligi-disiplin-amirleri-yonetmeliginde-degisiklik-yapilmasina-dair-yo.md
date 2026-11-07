@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 19/12/2012 tarihli ve 28502 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinin Ek-1’inde yer alan cetvelin I. BÖLÜM D GENEL MÜDÜRLÜKLER başlıklı tablosunun dördüncü satırında yer alan “Hukuk Müşaviri,” ve “, Avukat” ibareleri yürürlükten kaldırılmış ve aynı bölüme aşağıdaki tablo eklenmiştir.
 

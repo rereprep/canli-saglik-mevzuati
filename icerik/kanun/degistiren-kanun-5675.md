@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/06/20070607-3.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-BÜYÜKŞEHİR BELEDİYESİ KANUNU, İL ÖZEL İDARESİ KANUNU VE BELEDİYE KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5675 Kabul Tarihi: 30/5/2007
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**BÜYÜKŞEHİR BELEDİYESİ KANUNU, İL ÖZEL İDARESİ KANUNU VE BELEDİYE KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5675 Kabul Tarihi: 30/5/2007**
 
 
 MADDE 1 – 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 13 üncü maddesine aşağıdaki fıkra eklenmiştir.

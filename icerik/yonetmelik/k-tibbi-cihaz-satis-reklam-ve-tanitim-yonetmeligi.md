@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -27,7 +27,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 **MADDE 2 –** (Değişik:RG-2/9/2020-31232)
 
-(1) (Değişik:RG-26/5/2023-32202) Bu Yönetmelik; 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Yönetmeliği ile 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği kapsamına giren cihazların üretim yerleri, piyasaya arzı, piyasada bulundurulması ve garanti belgesi ile reklam, bilgilendirme, klinik destek, tanıtım, pazarlama ve teknik servis faaliyetlerini, Kurumca belirlenen kayıt ve bilgi yönetim sistemlerine kayıt işlemlerini ve bu faaliyetleri yürüten gerçek veya tüzel kişileri kapsar.
+(1) **(Değişik:RG-26/5/2023-32202)** Bu Yönetmelik; 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Yönetmeliği ile 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği kapsamına giren cihazların üretim yerleri, piyasaya arzı, piyasada bulundurulması ve garanti belgesi ile reklam, bilgilendirme, klinik destek, tanıtım, pazarlama ve teknik servis faaliyetlerini, Kurumca belirlenen kayıt ve bilgi yönetim sistemlerine kayıt işlemlerini ve bu faaliyetleri yürüten gerçek veya tüzel kişileri kapsar.
 
 (2) Kamu sağlık kurum ve kuruluşları, 18/1/2014 tarihli ve 28886 sayılı Resmî Gazete’de yayımlanan Optisyenlik Müesseseleri Hakkında Yönetmelik kapsamına giren optisyenlik müesseseleri, 24/9/2011 tarihli ve 28064 sayılı Resmî Gazete’de yayımlanan Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmelik kapsamına giren ısmarlama protez ve ortez merkezleri ile işitme cihazı merkezleri ve 7/12/2005 tarihli ve 26016 sayılı Resmî Gazete’de yayımlanan Diş Protez Laboratuvarları Yönetmeliği kapsamına giren diş protez laboratuvarları bu Yönetmeliğin kapsamı dışındadır. Ancak bu yerlerde piyasaya arz edilen veya bu yerler vasıtasıyla piyasada bulundurulan tıbbi cihazların uzaktan iletişim aracı vasıtasıyla ticareti, reklamı, bilgilendirme, klinik destek ve tanıtım faaliyetleri ile Kurumca belirlenen kayıt ve bilgi yönetim sistemlerine yönelik kayıt işlemleri bu Yönetmelik kapsamındadır.
 
@@ -47,7 +47,7 @@ a) Bakanlık: Sağlık Bakanlığını,
 
 b) Bireysel kullanıma yönelik cihaz: Herhangi bir sağlık meslek mensubunun gözetimini veya uygulamasını gerektirmeyen, bireysel olarak güvenle kullanılabilen cihazları,
 
-c) (Değişik:RG-26/5/2023-32202) Cihaz: Tıbbi Cihaz Yönetmeliği ve İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği kapsamında yer alan cihazları,
+c) **(Değişik:RG-26/5/2023-32202)** Cihaz: Tıbbi Cihaz Yönetmeliği ve İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği kapsamında yer alan cihazları,
 
 ç) Çalışma belgesi: Satış merkezlerinde bu Yönetmelik hükümleri doğrultusunda, sorumlu müdür, satış ve tanıtım elemanı ve klinik destek elemanı olarak çalışacak olan personele bu görevleri yapabilmeleri için müdürlük tarafından verilen belgeyi,
 
@@ -59,21 +59,21 @@ f) Kullanıcı: Bu Yönetmelik kapsamındaki cihazları kullanan veya uygulayan 
 
 g) Kurum: Türkiye İlaç ve Tıbbî Cihaz Kurumunu,
 
-ğ) (Değişik:RG-25/7/2015-29425) Mecra: Reklam ve tanıtım mesajını ileten ve o mesajı alma durumunda olan kişi, grup ya da topluluğun buluştuğu yeri ve ortamı; televizyon, her türlü yazılı basın, internet, telefon, radyo, sinema gibi iletişim kanalları ile açık hava, basılı materyal gibi iletişim araçlarını,
+ğ) **(Değişik:RG-25/7/2015-29425)** Mecra: Reklam ve tanıtım mesajını ileten ve o mesajı alma durumunda olan kişi, grup ya da topluluğun buluştuğu yeri ve ortamı; televizyon, her türlü yazılı basın, internet, telefon, radyo, sinema gibi iletişim kanalları ile açık hava, basılı materyal gibi iletişim araçlarını,
 
 h) Müdürlük: İl sağlık müdürlüğünü,
 
 ı) Olumsuz olay: Hastanın veya kullanıcının sağlık durumunda ciddi bozulmaya ya da ölüme yol açabilecek veya yol açmış olan, cihazın özelliklerinin ve/veya performansının bozulmasını ya da sapmasını veya kullanım kılavuzu ve etiketteki yetersizlikleri veyahut bu nedenlerden dolayı aynı tip cihazların imalatçısı tarafından piyasadan sistematik olarak geri çekilmesine yol açan, cihazın özelliğine ve performansına bağlı teknik ve tıbbi sebepleri,
 
-i) (Değişik:RG-25/7/2015-29425) Reklam: Ticaret, iş, zanaat veya bir meslekle bağlantılı olarak, bir mal veya hizmetin satışını ya da kiralanmasını sağlamak, hedef kitleyi oluşturanları bilgilendirmek veya ikna etmek amacıyla reklam verenler tarafından herhangi bir mecrada yazılı, görsel, işitsel ve benzeri yollarla gerçekleştirilen pazarlama iletişimi niteliğindeki duyuruları,
+i) **(Değişik:RG-25/7/2015-29425)** Reklam: Ticaret, iş, zanaat veya bir meslekle bağlantılı olarak, bir mal veya hizmetin satışını ya da kiralanmasını sağlamak, hedef kitleyi oluşturanları bilgilendirmek veya ikna etmek amacıyla reklam verenler tarafından herhangi bir mecrada yazılı, görsel, işitsel ve benzeri yollarla gerçekleştirilen pazarlama iletişimi niteliğindeki duyuruları,
 
-j) (Değişik:RG-25/7/2015-29425) Reklam veren: Ürettiği ya da pazarladığı tıbbi cihazlara ilişkin mal veya hizmet tanıtımını yaptırmak, cihazların satışını artırmak veya marka algısını güçlendirmek amacıyla hazırlattığı ve içinde firmasının ya da tıbbi cihazların markasının yer aldığı reklamları yayımlatan, dağıtan ya da başka yollarla sergileyen gerçek veya tüzel kişiyi,
+j) **(Değişik:RG-25/7/2015-29425)** Reklam veren: Ürettiği ya da pazarladığı tıbbi cihazlara ilişkin mal veya hizmet tanıtımını yaptırmak, cihazların satışını artırmak veya marka algısını güçlendirmek amacıyla hazırlattığı ve içinde firmasının ya da tıbbi cihazların markasının yer aldığı reklamları yayımlatan, dağıtan ya da başka yollarla sergileyen gerçek veya tüzel kişiyi,
 
-k) (Değişik:RG-26/5/2023-32202) Sağlık hizmet sunucusu: Sağlık hizmetini sunan, üreten ve/veya mülkiyeti kendinde olmak kaydıyla geçici olarak hastaya tıbbi cihaz sağlayan; gerçek kişiler ile kamu ve özel hukuk tüzel kişilerini ve bunların tüzel kişiliği olmayan şubelerini,
+k) **(Değişik:RG-26/5/2023-32202)** Sağlık hizmet sunucusu: Sağlık hizmetini sunan, üreten ve/veya mülkiyeti kendinde olmak kaydıyla geçici olarak hastaya tıbbi cihaz sağlayan; gerçek kişiler ile kamu ve özel hukuk tüzel kişilerini ve bunların tüzel kişiliği olmayan şubelerini,
 
 l) Sağlık meslek mensupları: Hekim, diş hekimi, eczacı, hemşire, ebe ve 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun ek 13 üncü maddesinde tanımlanan diğer meslek mensuplarını,
 
-m) (Değişik:RG-25/7/2015-29425) Satış merkezi: Cihazların satışının yapıldığı yerleri,
+m) **(Değişik:RG-25/7/2015-29425)** Satış merkezi: Cihazların satışının yapıldığı yerleri,
 
 n) Satış ve tanıtım elemanı: Satış merkezindeki cihazların satış ve tanıtımını yapan çalışma belgesi düzenlenmiş kişiyi,
 
@@ -83,55 +83,55 @@ o) Sorumlu müdür: Satış merkezlerinin bu Yönetmelik kapsamındaki faaliyetl
 
 p) Tanıtım malzemeleri: Cihazlar hakkında yeterli ve gerekli bilgiyi ihtiva eden kitap, kitapçık ve broşür gibi basılı materyalleri; film ve slaytları; flash bellek ve cd/dvd gibi depolama araçları ile sunulan görsel veya işitsel malzemeleri; ilgili çevrelerde bilgi, veri, başvuru kaynağı olarak kullanılabilecek her türlü yayını, bedelsiz numuneleri, demo cihazları, hasta eğitimine yönelik programları ve materyalleri; kalem, kalemlik, bloknot ve takvim gibi parasal değeri yürürlükteki aylık brüt asgari ücretin % 2,5’ini aşmayan hatırlatıcı ziyaret malzemelerini,
 
-r) (Ek:RG-2/9/2020-31232) Doğrudan satış: Herhangi bir doğrudan satış şirketi tarafından istihdam edilsin ya da edilmesin satış temsilcisi, dağıtıcı, distribütör ve benzeri adlarla hareket edenlerin bir mal veya hizmeti kendi evlerinde ya da perakende satış yerleri kullanılmaksızın tüketicinin ev veya iş yaşantısını sürdürdüğü mekânlar gibi iş yeri dışında, tek veya çok katmanlı satış yöntemleriyle tüketicilere sunulmasını öngören pazarlama sistemini,
+r) **(Ek:RG-2/9/2020-31232)** Doğrudan satış: Herhangi bir doğrudan satış şirketi tarafından istihdam edilsin ya da edilmesin satış temsilcisi, dağıtıcı, distribütör ve benzeri adlarla hareket edenlerin bir mal veya hizmeti kendi evlerinde ya da perakende satış yerleri kullanılmaksızın tüketicinin ev veya iş yaşantısını sürdürdüğü mekânlar gibi iş yeri dışında, tek veya çok katmanlı satış yöntemleriyle tüketicilere sunulmasını öngören pazarlama sistemini,
 
-s) (Ek:RG-2/9/2020-31232) Piyasaya arz: Araştırma amaçlı cihazlar hariç olmak üzere bir cihazın piyasada ilk kez bulundurulmasını,
+s) **(Ek:RG-2/9/2020-31232)** Piyasaya arz: Araştırma amaçlı cihazlar hariç olmak üzere bir cihazın piyasada ilk kez bulundurulmasını,
 
-ş) (Ek:RG-2/9/2020-31232) Piyasada bulundurma: Araştırma amaçlı cihazlar hariç olmak üzere piyasaya arz edilen bir cihazın, ticari bir faaliyet yoluyla, bedelli veya bedelsiz olarak, dağıtım, tüketim ya da kullanım için piyasaya sağlanmasını,
+ş) **(Ek:RG-2/9/2020-31232)** Piyasada bulundurma: Araştırma amaçlı cihazlar hariç olmak üzere piyasaya arz edilen bir cihazın, ticari bir faaliyet yoluyla, bedelli veya bedelsiz olarak, dağıtım, tüketim ya da kullanım için piyasaya sağlanmasını,
 
-t) (Ek:RG-2/9/2020-31232) Tekil bildirim: Tıbbi cihazların üretildiği veya ithal edildiği andan itibaren Ürün Takip Sistemi üzerinden yapılması gereken tüm hareket bildirimlerini,
+t) **(Ek:RG-2/9/2020-31232)** Tekil bildirim: Tıbbi cihazların üretildiği veya ithal edildiği andan itibaren Ürün Takip Sistemi üzerinden yapılması gereken tüm hareket bildirimlerini,
 
-u) (Ek:RG-2/9/2020-31232) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi,
+u) **(Ek:RG-2/9/2020-31232)** Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi,
 
-ü) (Ek:RG-2/9/2020-31232) Yönlendirme: Tüketicinin bir başkası tarafından bilfiil olacak şekilde; ikna, telkin veya diğer bir suretle belirli bir satış merkezine veya belirli bir sağlık hizmet sunucusuna gitmesini sağlamak üzere yapılan sistemli hareketleri veya davranışları,
+ü) **(Ek:RG-2/9/2020-31232)** Yönlendirme: Tüketicinin bir başkası tarafından bilfiil olacak şekilde; ikna, telkin veya diğer bir suretle belirli bir satış merkezine veya belirli bir sağlık hizmet sunucusuna gitmesini sağlamak üzere yapılan sistemli hareketleri veya davranışları,
 
-v) (Ek:RG-26/5/2023-32202) Garanti belgesi: İmalatçı ve ithalatçılar tarafından, sağlık hizmet sunucusuna yönelik üretilen, ithal edilen veya satılan cihazlar için düzenlenen ve sağlık hizmet sunucusunun sahip olduğu hakları gösteren belgeyi,
+v) **(Ek:RG-26/5/2023-32202)** Garanti belgesi: İmalatçı ve ithalatçılar tarafından, sağlık hizmet sunucusuna yönelik üretilen, ithal edilen veya satılan cihazlar için düzenlenen ve sağlık hizmet sunucusunun sahip olduğu hakları gösteren belgeyi,
 
-y) (Ek:RG-26/5/2023-32202) Hizmete sunum: Araştırma amaçlı cihazlar hariç olmak üzere bir cihazın kullanım amacına uygun olarak Türkiye pazarında ilk defa kullanılmak üzere son kullanıcı için hazır hale getirildiği aşamayı,
+y) **(Ek:RG-26/5/2023-32202)** Hizmete sunum: Araştırma amaçlı cihazlar hariç olmak üzere bir cihazın kullanım amacına uygun olarak Türkiye pazarında ilk defa kullanılmak üzere son kullanıcı için hazır hale getirildiği aşamayı,
 
-z) (Ek:RG-26/5/2023-32202) İmalatçı: Ürünü imal ederek veya ürünün tasarımını veya imalatını yaptırarak kendi isim veya ticari markası ile piyasaya arz eden gerçek veya tüzel kişiyi,
+z) **(Ek:RG-26/5/2023-32202)** İmalatçı: Ürünü imal ederek veya ürünün tasarımını veya imalatını yaptırarak kendi isim veya ticari markası ile piyasaya arz eden gerçek veya tüzel kişiyi,
 
-aa) (Ek:RG-26/5/2023-32202) İthalatçı: Ürünü ithal ederek piyasaya arz eden gerçek veya tüzel kişiyi,
+aa) **(Ek:RG-26/5/2023-32202)** İthalatçı: Ürünü ithal ederek piyasaya arz eden gerçek veya tüzel kişiyi,
 
-bb) (Ek:RG-26/5/2023-32202) Kullanım hatası: Cihazın, Kurumun elektronik kayıt sisteminde yer alan kullanma kılavuzuna aykırı kullanımından kaynaklı oluşan hatayı,
+bb) **(Ek:RG-26/5/2023-32202)** Kullanım hatası: Cihazın, Kurumun elektronik kayıt sisteminde yer alan kullanma kılavuzuna aykırı kullanımından kaynaklı oluşan hatayı,
 
-cc) (Ek:RG-26/5/2023-32202) Kullanım ömrü: Cihazın piyasaya arzında imalatçısı tarafından belirlenen süreyi,
+cc) **(Ek:RG-26/5/2023-32202)** Kullanım ömrü: Cihazın piyasaya arzında imalatçısı tarafından belirlenen süreyi,
 
-çç) (Ek:RG-26/5/2023-32202) Kullanma kılavuzu: Cihazın kullanım amacı, uygun kullanımı ve alınması gereken önlemler hakkında kullanıcıyı bilgilendirmek üzere imalatçı tarafından sağlanan bilgilerin yer aldığı dokümanı,
+çç) **(Ek:RG-26/5/2023-32202)** Kullanma kılavuzu: Cihazın kullanım amacı, uygun kullanımı ve alınması gereken önlemler hakkında kullanıcıyı bilgilendirmek üzere imalatçı tarafından sağlanan bilgilerin yer aldığı dokümanı,
 
-dd) (Ek:RG-26/5/2023-32202) Tek kullanımlık aksesuar: Tek bir işlem süresince, tek bir kişi üzerinde kullanılması amaçlanan tıbbi cihaz aksesuarını,
+dd) **(Ek:RG-26/5/2023-32202)** Tek kullanımlık aksesuar: Tek bir işlem süresince, tek bir kişi üzerinde kullanılması amaçlanan tıbbi cihaz aksesuarını,
 
-ee) (Ek:RG-26/5/2023-32202) Tek kullanımlık cihaz: Tek bir işlem süresince, tek bir kişi üzerinde kullanılması amaçlanan cihazı,
+ee) **(Ek:RG-26/5/2023-32202)** Tek kullanımlık cihaz: Tek bir işlem süresince, tek bir kişi üzerinde kullanılması amaçlanan cihazı,
 
-ff) (Ek:RG-26/5/2023-32202) Teknik servis: İlgili mevzuatı kapsamında Kurum tarafından teknik servis faaliyet belgesi düzenlenen gerçek veya tüzel kişileri,
+ff) **(Ek:RG-26/5/2023-32202)** Teknik servis: İlgili mevzuatı kapsamında Kurum tarafından teknik servis faaliyet belgesi düzenlenen gerçek veya tüzel kişileri,
 
-gg) (Ek:RG-26/5/2023-32202) Teknik servis eğitimi: İlgili mevzuatı kapsamında teknik servis faaliyetlerini yürütecek kişilerin gerekli eğitimleri alacağı cihazın imalatçısı veya ithalatçısı veya Kurum tarafından uygun görülen merkez tarafından verilen eğitimi,
+gg) **(Ek:RG-26/5/2023-32202)** Teknik servis eğitimi: İlgili mevzuatı kapsamında teknik servis faaliyetlerini yürütecek kişilerin gerekli eğitimleri alacağı cihazın imalatçısı veya ithalatçısı veya Kurum tarafından uygun görülen merkez tarafından verilen eğitimi,
 
-ğğ) (Ek:RG-26/5/2023-32202) Teknik servis faaliyeti: Sağlık hizmet sunucusunca sunulan sağlık hizmeti kapsamında kullanılan cihazın; kurulum, güncelleme, yükseltme, modifikasyon, bakım ve onarım ile ilgili faaliyetlerini,
+ğğ) **(Ek:RG-26/5/2023-32202)** Teknik servis faaliyeti: Sağlık hizmet sunucusunca sunulan sağlık hizmeti kapsamında kullanılan cihazın; kurulum, güncelleme, yükseltme, modifikasyon, bakım ve onarım ile ilgili faaliyetlerini,
 
-hh) (Ek:RG-26/5/2023-32202) Temel teknik eğitim: Teknik servis faaliyeti gerektiren cihazlar için sağlık hizmet sunucularına verilen ve kullanıcılar tarafından yapılabilecek bakım ve onarıma ilişkin eğitimi,
+hh) **(Ek:RG-26/5/2023-32202)** Temel teknik eğitim: Teknik servis faaliyeti gerektiren cihazlar için sağlık hizmet sunucularına verilen ve kullanıcılar tarafından yapılabilecek bakım ve onarıma ilişkin eğitimi,
 
-ıı) (Ek:RG-26/5/2023-32202) Tıbbi cihaz aksesuarı: Kendi başına bir tıbbi cihaz olmadığı halde, özellikle tıbbi cihaz/cihazların kullanım amacına/amaçlarına uygun olarak kullanılmasını mümkün kılmak ya da tıbbi cihaz/cihazların kullanım amacı/amaçları bakımından tıbbi işlevselliğine doğrudan ve spesifik olarak yardımcı olmak üzere imalatçısı tarafından bir ya da birden fazla belirli tıbbi cihazla birlikte kullanımı amaçlanan parçayı,
+ıı) **(Ek:RG-26/5/2023-32202)** Tıbbi cihaz aksesuarı: Kendi başına bir tıbbi cihaz olmadığı halde, özellikle tıbbi cihaz/cihazların kullanım amacına/amaçlarına uygun olarak kullanılmasını mümkün kılmak ya da tıbbi cihaz/cihazların kullanım amacı/amaçları bakımından tıbbi işlevselliğine doğrudan ve spesifik olarak yardımcı olmak üzere imalatçısı tarafından bir ya da birden fazla belirli tıbbi cihazla birlikte kullanımı amaçlanan parçayı,
 
-ii) (Ek:RG-26/5/2023-32202) Yedek parça: Bir cihazın, performansını veya güvenlilik karakteristiklerini ya da kullanım amacını değiştirmeksizin işlevini korumak ya da düzeltmek amacıyla, kusurlu veya aşınmış olan aynı ya da benzer bütünleşik parçasının veya bileşeninin ikamesini amaçlayan bir parça veya bileşeni,
+ii) **(Ek:RG-26/5/2023-32202)** Yedek parça: Bir cihazın, performansını veya güvenlilik karakteristiklerini ya da kullanım amacını değiştirmeksizin işlevini korumak ya da düzeltmek amacıyla, kusurlu veya aşınmış olan aynı ya da benzer bütünleşik parçasının veya bileşeninin ikamesini amaçlayan bir parça veya bileşeni,
 
-jj) (Ek:RG-26/5/2023-32202) Yetkili teknik servis: İmalatçı veya ithalatçıların, ürettikleri veya ithal ettikleri tıbbi cihazlar için; kullanım ömürleri süresince cihazın teknik servis faaliyetlerini yürütmek üzere, kendileri tarafından veya aralarındaki sözleşme uyarınca, bu amaçla yetkili servis olarak gerçek veya tüzel kişiler tarafından kurulan ya da kurulmuş bulunan teknik servisi,
+jj) **(Ek:RG-26/5/2023-32202)** Yetkili teknik servis: İmalatçı veya ithalatçıların, ürettikleri veya ithal ettikleri tıbbi cihazlar için; kullanım ömürleri süresince cihazın teknik servis faaliyetlerini yürütmek üzere, kendileri tarafından veya aralarındaki sözleşme uyarınca, bu amaçla yetkili servis olarak gerçek veya tüzel kişiler tarafından kurulan ya da kurulmuş bulunan teknik servisi,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Başvuru ile Yetki ve Çalışma Belgesine İlişkin Hükümler
+**Başvuru ile Yetki ve Çalışma Belgesine İlişkin Hükümler**
 
 #### Başvuru esasları
 
@@ -143,11 +143,11 @@ a) Satış merkezi işleteninin sorumlu müdür olmadığı durumlarda, satış 
 
 b) Satış merkezinin çalıştıracağı personeli için 35 inci maddeye göre düzenlenen sorumlu müdür, satış ve tanıtım elemanı ve varsa klinik destek elemanı belgeleri.
 
-c) Türkiye Ticaret Sicil Gazetesi, vergi levhası ve (Değişik ibare:RG-10/9/2021-31594) sicil tasdiknamesinin örneği.
+c) Türkiye Ticaret Sicil Gazetesi, vergi levhası ve **(Değişik ibare:RG-10/9/2021-31594)** sicil tasdiknamesinin örneği.
 
 ç) Satış merkezinin satış ve tanıtımını gerçekleştireceği cihazlarla ilgili Kurumun kayıt ve bilgi yönetim sistemine kayıtlı cihazları satacağına dair taahhütname.
 
-d) (Değişik:RG-2/9/2020-31232) Satış merkezi olarak Müdürlükçe yetkilendirilecek yere ait ilgili merciden alınan iş yeri açma ve çalıştırma ruhsatı veya yetkilendirilecek yerin serbest bölge, teknokent veya organize sanayi bölgesinde olması durumunda ilgili yerin yönetiminden alınan ve başvuru sahibi gerçek veya tüzel kişiliğin ilgili teknokentte veya organize sanayi bölgesinde faaliyet gösterdiğine dair alınan belge veya başvuru sahibi gerçek veya tüzel kişiliğinin ecza deposu olması durumunda Kurum tarafından düzenlenmiş ecza deposu ruhsatnamesi,
+d) **(Değişik:RG-2/9/2020-31232)** Satış merkezi olarak Müdürlükçe yetkilendirilecek yere ait ilgili merciden alınan iş yeri açma ve çalıştırma ruhsatı veya yetkilendirilecek yerin serbest bölge, teknokent veya organize sanayi bölgesinde olması durumunda ilgili yerin yönetiminden alınan ve başvuru sahibi gerçek veya tüzel kişiliğin ilgili teknokentte veya organize sanayi bölgesinde faaliyet gösterdiğine dair alınan belge veya başvuru sahibi gerçek veya tüzel kişiliğinin ecza deposu olması durumunda Kurum tarafından düzenlenmiş ecza deposu ruhsatnamesi,
 
 (3) Bu Yönetmelik kapsamında mevcut bir satış merkezi açanlar ve işletenlerce, şube niteliğinde ikinci bir satış merkezi açılması durumunda, bu maddenin birinci fıkrasına göre başvurularak, ikinci fıkrasında sayılan belgelerin sunulması gerekir. Ancak aynı ilçe sınırları içerisinde açılacak şubeler için sorumlu müdür şartı aranmaz. Şubelerin faaliyetlerinden şube ile birlikte satış merkezi sorumludur.
 
@@ -171,7 +171,7 @@ d) (Değişik:RG-2/9/2020-31232) Satış merkezi olarak Müdürlükçe yetkilend
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Satış Merkezlerinin Çalışma Esasları
+**Satış Merkezlerinin Çalışma Esasları**
 
 #### Genel hükümler
 
@@ -181,7 +181,7 @@ Satış Merkezlerinin Çalışma Esasları
 
 (3) Satış merkezi, kullanıcıları herhangi bir sağlık hizmet sunucusundan veya tabipten kendi iş yerine yönlendiremez, kullanıcılara aracılık edemez.
 
-(4) (Değişik:RG-2/9/2020-31232) Satış merkezleri, piyasaya arz ettiği veya piyasada bulundurduğu tıbbi cihazları, Kurum tarafından oluşturulan kayıt ve bilgi yönetim sistemine kaydetmek, kayıt altına alınan bilgileri güncel tutmak ve bu cihazların izlenebilirliğini sağlamak üzere tekil hareket bildirim işlemlerini yapmak zorundadır.
+(4) **(Değişik:RG-2/9/2020-31232)** Satış merkezleri, piyasaya arz ettiği veya piyasada bulundurduğu tıbbi cihazları, Kurum tarafından oluşturulan kayıt ve bilgi yönetim sistemine kaydetmek, kayıt altına alınan bilgileri güncel tutmak ve bu cihazların izlenebilirliğini sağlamak üzere tekil hareket bildirim işlemlerini yapmak zorundadır.
 
 (5) Satış merkezi faaliyetleri ile ilgili alt yapı, personel ve cihazlara ilişkin kayıtları tutar ve Kurumun kayıt ve bilgi yönetim sistemine uyum sağlar.
 
@@ -205,7 +205,7 @@ Satış Merkezlerinin Çalışma Esasları
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Personel ve Altyapı İle İlgili Hükümler
+**Personel ve Altyapı İle İlgili Hükümler**
 
 #### Sorumlu müdür
 
@@ -231,7 +231,7 @@ c) Hastalık ve sair zorlayıcı veya kabul edilebilir sebeplerden dolayı, bir 
 
 ç) Hacir altına alınanlar, vasilerinin talebi üzerine, hacir altında bulundukları sürece.
 
-(8) (Değişik:RG-2/9/2020-31232) Sorumlu müdürün görevine son verilmesi, istifası, sorumlu müdür olarak görev yapmayı haiz şartları herhangi bir şekilde kaybetmesi durumunda, böyle bir durumun ortaya çıkmasından itibaren on iş günü, kişinin vefatı halinde ise yirmi iş günü içerisinde satış merkezinin müdürlüğe bildirimde bulunması gerekir. Söz konusu durumun tespitinden itibaren en geç otuz iş günü içerisinde de yeni bir sorumlu müdür görevlendirilmesi zorunludur. Bu süre içerisinde satış merkezinin yeni bir sorumlu müdür görevlendirmemesi halinde, yeni bir sorumlu müdür görevlendirilinceye kadar söz konusu merkezin tıbbi cihaz satış faaliyeti geçici olarak durdurulur.
+(8) **(Değişik:RG-2/9/2020-31232)** Sorumlu müdürün görevine son verilmesi, istifası, sorumlu müdür olarak görev yapmayı haiz şartları herhangi bir şekilde kaybetmesi durumunda, böyle bir durumun ortaya çıkmasından itibaren on iş günü, kişinin vefatı halinde ise yirmi iş günü içerisinde satış merkezinin müdürlüğe bildirimde bulunması gerekir. Söz konusu durumun tespitinden itibaren en geç otuz iş günü içerisinde de yeni bir sorumlu müdür görevlendirilmesi zorunludur. Bu süre içerisinde satış merkezinin yeni bir sorumlu müdür görevlendirmemesi halinde, yeni bir sorumlu müdür görevlendirilinceye kadar söz konusu merkezin tıbbi cihaz satış faaliyeti geçici olarak durdurulur.
 
 (9) Sorumlu müdür satışı yapılan cihazlarla ilgili rapor edilen olumsuz olayları, Kuruma ve ilgili cihazın imalatçısına veya ithalatçısına derhal bildirir.
 
@@ -259,7 +259,7 @@ b) Sağlık hizmet sunucuları tarafından gerekli görülmesi hâlinde; ilgili 
 
 c) Acil servislerde ve hasta kabul saatleri sırasında polikliniklerde cihaz tanıtımı yapılamaz.
 
-(6) (Değişik:RG-2/9/2020-31232) Satış merkezinde satış ve tanıtım elemanı olarak bir kişi görev yapmaktayken bu satış ve tanıtım elemanının görevine son verilmesi, istifası, satış ve tanıtım elemanı olarak görev yapmayı haiz şartları herhangi bir şekilde kaybetmesi durumunda, böyle bir durumunun ortaya çıkmasından itibaren on iş günü, kişinin vefatı halinde ise yirmi iş günü içerisinde satış merkezinin müdürlüğe bildirimde bulunması gerekir. Söz konusu durumun tespitinden itibaren en geç altmış iş günü içerisinde de yeni bir satış ve tanıtım elemanının görevlendirilmesi zorunludur. Bu süre içerisinde satış merkezinin yeni bir satış tanıtım elemanı görevlendirmemesi halinde, yeni bir satış tanıtım elemanı görevlendirilinceye kadar söz konusu merkezin tıbbi cihaz satış faaliyeti geçici olarak durdurulur.
+(6) **(Değişik:RG-2/9/2020-31232)** Satış merkezinde satış ve tanıtım elemanı olarak bir kişi görev yapmaktayken bu satış ve tanıtım elemanının görevine son verilmesi, istifası, satış ve tanıtım elemanı olarak görev yapmayı haiz şartları herhangi bir şekilde kaybetmesi durumunda, böyle bir durumunun ortaya çıkmasından itibaren on iş günü, kişinin vefatı halinde ise yirmi iş günü içerisinde satış merkezinin müdürlüğe bildirimde bulunması gerekir. Söz konusu durumun tespitinden itibaren en geç altmış iş günü içerisinde de yeni bir satış ve tanıtım elemanının görevlendirilmesi zorunludur. Bu süre içerisinde satış merkezinin yeni bir satış tanıtım elemanı görevlendirmemesi halinde, yeni bir satış tanıtım elemanı görevlendirilinceye kadar söz konusu merkezin tıbbi cihaz satış faaliyeti geçici olarak durdurulur.
 
 #### Klinik destek elemanı
 
@@ -289,7 +289,7 @@ c) Acil servislerde ve hasta kabul saatleri sırasında polikliniklerde cihaz ta
 
 ### BEŞİNCİ BÖLÜM
 
-Reklam ve Tanıtım Faaliyetleri
+**Reklam ve Tanıtım Faaliyetleri**
 
 #### Reklamın kapsamı
 
@@ -415,25 +415,25 @@ d) Cihazın tedavi edici etkisi varsa, bu etki ile ilgili kanıta dayalı tıbbi
 
 a) Toplantının, personelin uzmanlık veya görev alanı ile ilgili olması zorunludur.
 
-b) (Değişik:RG-25/7/2015-29425) Bir personel aynı yıl içerisinde toplam dört kez bu destekten yararlanabilir; bu dört desteğin sadece iki tanesi, aynı satış merkezi tarafından sağlanabilir ve sadece iki tanesi yurt dışında yapılan toplantılarda kullanılabilir. Sağlık meslek mensupları ile sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanların satış merkezlerinin desteği ile; konuşmacı, yazılı veya sözlü bildiri sunan araştırmacı olarak katılım sağladıkları toplantılar bu kapsamda değerlendirilmez. Bakanlık tarafından düzenlenen veya desteklenen bilimsel toplantılarda katılımcılar için bu fıkrada yer alan sayı sınırlaması uygulanmaz.
+b) **(Değişik:RG-25/7/2015-29425)** Bir personel aynı yıl içerisinde toplam dört kez bu destekten yararlanabilir; bu dört desteğin sadece iki tanesi, aynı satış merkezi tarafından sağlanabilir ve sadece iki tanesi yurt dışında yapılan toplantılarda kullanılabilir. Sağlık meslek mensupları ile sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanların satış merkezlerinin desteği ile; konuşmacı, yazılı veya sözlü bildiri sunan araştırmacı olarak katılım sağladıkları toplantılar bu kapsamda değerlendirilmez. Bakanlık tarafından düzenlenen veya desteklenen bilimsel toplantılarda katılımcılar için bu fıkrada yer alan sayı sınırlaması uygulanmaz.
 
 c) Destek doğrudan kişiye değil toplantıyı düzenleyen organizasyon veya organizasyonlara yapılır.
 
-(3) (Değişik:RG-26/5/2023-32202) (2) Sağlık meslek mensupları ve sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlar katılım sağlamak istedikleri toplantılarda bu Yönetmelik hükümlerine uygun hareket etmek zorundadır.
+(3) **(Değişik:RG-26/5/2023-32202) (2)** Sağlık meslek mensupları ve sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlar katılım sağlamak istedikleri toplantılarda bu Yönetmelik hükümlerine uygun hareket etmek zorundadır.
 
-(4) (Değişik:RG-26/5/2023-32202) (2) Satış merkezlerinin desteklediği ulusal ve uluslararası çok merkezli klinik araştırmaların yurt içi ve yurt dışında yapılacak araştırmacı toplantıları, kongre veya sempozyum katılımı olarak değerlendirilmez.
+(4) **(Değişik:RG-26/5/2023-32202) (2)** Satış merkezlerinin desteklediği ulusal ve uluslararası çok merkezli klinik araştırmaların yurt içi ve yurt dışında yapılacak araştırmacı toplantıları, kongre veya sempozyum katılımı olarak değerlendirilmez.
 
-(5) (Değişik:RG-25/7/2015-29425) Her bir toplantısı farklı ülkede yapılan uluslararası toplantılar hariç olmak üzere; deniz kenarlarındaki tatil beldelerinde 15 Haziran-15 Eylül arasındaki tarihlerde ve kayak merkezi tatil beldelerinde 1 Aralık-1 Mart arasındaki tarihlerde imalatçı, ithalatçı veya satış merkezi tarafından bilimsel ve eğitsel faaliyetleri içeren toplantı ve organizasyon düzenlenemez ve desteklenemez. Bakanlık tarafından düzenlenen veya desteklenen bilimsel toplantılarda bu şartlar aranmaz.
+(5) **(Değişik:RG-25/7/2015-29425)** Her bir toplantısı farklı ülkede yapılan uluslararası toplantılar hariç olmak üzere; deniz kenarlarındaki tatil beldelerinde 15 Haziran-15 Eylül arasındaki tarihlerde ve kayak merkezi tatil beldelerinde 1 Aralık-1 Mart arasındaki tarihlerde imalatçı, ithalatçı veya satış merkezi tarafından bilimsel ve eğitsel faaliyetleri içeren toplantı ve organizasyon düzenlenemez ve desteklenemez. Bakanlık tarafından düzenlenen veya desteklenen bilimsel toplantılarda bu şartlar aranmaz.
 
-(6) (Mülga:RG-26/5/2023-32202) (2)
+(6) **(Mülga:RG-26/5/2023-32202) (2)**
 
-(7) (Değişik:RG-26/5/2023-32202) (2) Satış merkezleri, bu Yönetmeliğe uygun olarak destekledikleri toplantılara ilişkin olarak toplantının düzenlendiği tarihten itibaren en geç otuz gün içinde Kurumca yayımlanan kılavuza uygun şekilde bildirimde bulunur. Ayrıca bu toplantılara ilişkin bilgi ve belgeleri talebi halinde Kuruma sunmak üzere toplantının düzenlendiği tarihten itibaren en az iki yıl süreyle muhafaza eder.
+(7) **(Değişik:RG-26/5/2023-32202) (2)** Satış merkezleri, bu Yönetmeliğe uygun olarak destekledikleri toplantılara ilişkin olarak toplantının düzenlendiği tarihten itibaren en geç otuz gün içinde Kurumca yayımlanan kılavuza uygun şekilde bildirimde bulunur. Ayrıca bu toplantılara ilişkin bilgi ve belgeleri talebi halinde Kuruma sunmak üzere toplantının düzenlendiği tarihten itibaren en az iki yıl süreyle muhafaza eder.
 
 (8) Kurumca görevlendirilmiş kişiler, denetim amacıyla önceden haber vererek veya haber vermeden bu toplantılara katılabilir.
 
 (9) Kurum tarafından yürütülen veya destek verilen araştırma ve geliştirme projeleri sonucunda üretilen yeni cihazların tanıtımında Kurum ile işbirliği yapılır.
 
-(10) (Ek:RG-22/9/2016-29835) Sağlık meslek mensuplarına ve sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlara yönelik olarak yapılan simülasyon merkezleri ve kadavra merkezlerindeki eğitim faaliyetleri bilimsel ve eğitsel faaliyet olarak değerlendirilmez.
+(10) **(Ek:RG-22/9/2016-29835)** Sağlık meslek mensuplarına ve sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlara yönelik olarak yapılan simülasyon merkezleri ve kadavra merkezlerindeki eğitim faaliyetleri bilimsel ve eğitsel faaliyet olarak değerlendirilmez.
 
 #### Teşvik
 
@@ -473,7 +473,7 @@ f) Klinik araştırmada kullanılması amacıyla yapılacak cihaz bağışını 
 
 (7) Bedelsiz numuneler, klinik araştırma amaçlı cihaz olarak kullanılamaz.
 
-(8) İmalatçılar (Ek ibare:RG-25/7/2015-29425) veya ithalatçılar , infüzyon pompaları, insülin kalemleri, iğne uçları, kateter, adaptör, transfer set ve benzeri periton diyalizi yardımcı malzemeleri, kendi kendine kan şekeri ölçüm sistemleri gibi ilaçların kullanımında zaruri olarak bulunması gereken cihazları ve aksesuarları ile uygulama lenslerini bedelsiz olarak verebilirler. Bu tür cihazlar, bedelsiz numune kapsamında değerlendirilemeyeceği gibi bunların kullanımı için verilen eğitimler de cihaz tanıtımı olarak değerlendirilemez.
+(8) İmalatçılar **(Ek ibare:RG-25/7/2015-29425)** veya ithalatçılar , infüzyon pompaları, insülin kalemleri, iğne uçları, kateter, adaptör, transfer set ve benzeri periton diyalizi yardımcı malzemeleri, kendi kendine kan şekeri ölçüm sistemleri gibi ilaçların kullanımında zaruri olarak bulunması gereken cihazları ve aksesuarları ile uygulama lenslerini bedelsiz olarak verebilirler. Bu tür cihazlar, bedelsiz numune kapsamında değerlendirilemeyeceği gibi bunların kullanımı için verilen eğitimler de cihaz tanıtımı olarak değerlendirilemez.
 
 (9) Taşıyıcılar, piller, oksijen tüpleri gibi cihazların kullanılabilmesi için gereken yardımcı ve tamamlayıcı malzemeler, satış merkezleri tarafından bedelsiz olarak sağlanabilir.
 
@@ -481,17 +481,17 @@ f) Klinik araştırmada kullanılması amacıyla yapılacak cihaz bağışını 
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Satış ve satış sonrası eğitimler
 
 **MADDE 25 –** (1) Satış merkezi, kullanıcı eğitimi gerektiren cihazlar için cihazın teslimi sırasında ve sonrasında sağlık meslek mensuplarına, sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlara veya gerçek kişilere cihazın kullanımı ile ilgili eğitimleri verir ve bunu belgeler. Eğitimlerin sayısı satış merkezi ile kullanıcı arasındaki sözleşmeyle belirlenir.
 
-(2) (Ek: RG-26/5/2023-32202) (3) Satış merkezleri, imalatçısı veya ithalatçısı oldukları cihazların ilk kullanım öncesinde temel teknik eğitimini, ilgili sağlık hizmet sunucusunun yazılı talebi olması halinde, sağlık hizmet sunucusuna bedelsiz olarak ve bir defaya mahsus olmak üzere verir veya verilmesini sağlar.
+(2) **(Ek: RG-26/5/2023-32202) (3)** Satış merkezleri, imalatçısı veya ithalatçısı oldukları cihazların ilk kullanım öncesinde temel teknik eğitimini, ilgili sağlık hizmet sunucusunun yazılı talebi olması halinde, sağlık hizmet sunucusuna bedelsiz olarak ve bir defaya mahsus olmak üzere verir veya verilmesini sağlar.
 
-(3) (Ek: RG-26/5/2023-32202) (3) Satış merkezleri, imalatçısı veya ithalatçısı oldukları cihazlara ilişkin olarak kullanım ömrü boyunca bedeli karşılığı bu cihazın teknik servis eğitimini verebilir.
+(3) **(Ek: RG-26/5/2023-32202) (3)** Satış merkezleri, imalatçısı veya ithalatçısı oldukları cihazlara ilişkin olarak kullanım ömrü boyunca bedeli karşılığı bu cihazın teknik servis eğitimini verebilir.
 
-(4) (Ek: RG-26/5/2023-32202) (3) Satış merkezleri, imalatçısı veya ithalatçısı oldukları cihazlara ilişkin olarak ilgili sağlık hizmet sunucusunun temel teknik eğitime ilişkin yazılı taleplerini üç ay içinde karşılar.
+(4) **(Ek: RG-26/5/2023-32202) (3)** Satış merkezleri, imalatçısı veya ithalatçısı oldukları cihazlara ilişkin olarak ilgili sağlık hizmet sunucusunun temel teknik eğitime ilişkin yazılı taleplerini üç ay içinde karşılar.
 
 #### Garanti belgesi düzenleme zorunluluğu
 
@@ -559,7 +559,7 @@ h) Periyodik bakım kitleri ve tek kullanımlık aksesuarları hariç, cihazın 
 
 i) Varsa sağlık hizmet sunucusuna sağlanan diğer haklar.
 
-Sağlık hizmet sunucusunun cihazın garanti belgesi kapsamındaki hakları
+**Sağlık hizmet sunucusunun cihazın garanti belgesi kapsamındaki hakları**
 
 ### MADDE 25/Ç- (Ek: RG-26/5/2023-32202) (3)
 
@@ -589,23 +589,23 @@ durumlarında; sağlık hizmet sunucusu cihazın bedel iadesini veya cihazın ku
 
 (3) Sorumlu müdür, satış ve tanıtım elemanı ile klinik destek elemanı çalışma belgeleri başka bir satış merkezi için kullanılamaz. Ancak cihazın gerekli kıldığı hâllerde imalatçı veya ithalatçı bünyesinde çalışan klinik destek elemanı, başka bir satış merkezine destek verebilir.
 
-(4) (Değişik:RG-2/9/2020-31232) Tıbbi cihazların tüketiciye hitaben gazete, radyo, televizyon ve telefonda satış aracılığıyla veya doğrudan satış yoluyla piyasaya arzı ya da piyasada bulundurulması yasaktır.
+(4) **(Değişik:RG-2/9/2020-31232)** Tıbbi cihazların tüketiciye hitaben gazete, radyo, televizyon ve telefonda satış aracılığıyla veya doğrudan satış yoluyla piyasaya arzı ya da piyasada bulundurulması yasaktır.
 
-(5) (Değişik:RG-2/9/2020-31232) Bu Yönetmelik uyarınca;
+(5) **(Değişik:RG-2/9/2020-31232)** Bu Yönetmelik uyarınca;
 
 a) Yalnızca; işitme cihazı merkezlerinde, ısmarlama protez ve ortez merkezlerinde, optisyenlik müesseselerinde veya diş protez laboratuvarlarında satışı, uyarlaması veya uygulaması yapılan cihazların,
 
 b) Münhasıran sağlık profesyonelleri tarafından kullanılması veya uygulanması öngörülen ya da tıbbi cihaz satış merkezlerinde uygulama gerektiren cihazların,
 
-tüketiciye hitaben internet ortamında satışı yasak olup bu madde kapsamına girmeyen tıbbi cihazların internet ortamında satışı ise yalnızca bu Yönetmelik uyarınca yetkilendirilen satış merkezlerince yapılır. Ek-3’te yer alan cihazların tüketiciye yönelik internet ortamında satışı için satış merkezi yetki belgesi aranmaz. (Ek cümle:RG-3/7/2026-33299) Ancak kontakt lens ürünlerinin tüketiciye hitaben internet ortamında satışı, yalnızca optisyenlik müessesesinin Kurum tarafından izin verilen internet sitesi üzerinden reçeteli olarak yapılabilir ve Kurum izin verme yetkisini müdürlüğe devredebilir.
+tüketiciye hitaben internet ortamında satışı yasak olup bu madde kapsamına girmeyen tıbbi cihazların internet ortamında satışı ise yalnızca bu Yönetmelik uyarınca yetkilendirilen satış merkezlerince yapılır. Ek-3’te yer alan cihazların tüketiciye yönelik internet ortamında satışı için satış merkezi yetki belgesi aranmaz. **(Ek cümle:RG-3/7/2026-33299)** Ancak kontakt lens ürünlerinin tüketiciye hitaben internet ortamında satışı, yalnızca optisyenlik müessesesinin Kurum tarafından izin verilen internet sitesi üzerinden reçeteli olarak yapılabilir ve Kurum izin verme yetkisini müdürlüğe devredebilir.
 
-(6) (Ek:RG-2/9/2020-31232) Bu Yönetmelik hükümlerine aykırı olarak yapılan internet satışının tespiti halinde tıbbi cihaz satış merkezi, ilgili uygunsuzluğun giderilmesi hususunda uyarılır. Belirtilen uygunsuzluğun tebliğ tarihinden itibaren üç iş günü içerisinde giderilmemesi halinde tıbbi cihaz satış merkezinin satış faaliyeti 15 gün süreyle geçici olarak durdurulur.
+(6) **(Ek:RG-2/9/2020-31232)** Bu Yönetmelik hükümlerine aykırı olarak yapılan internet satışının tespiti halinde tıbbi cihaz satış merkezi, ilgili uygunsuzluğun giderilmesi hususunda uyarılır. Belirtilen uygunsuzluğun tebliğ tarihinden itibaren üç iş günü içerisinde giderilmemesi halinde tıbbi cihaz satış merkezinin satış faaliyeti 15 gün süreyle geçici olarak durdurulur.
 
-(7) (Ek:RG-26/5/2023-32202) Satış merkezlerinin, Kurumca yayımlanan kılavuzda belirtilen yerler hariç olmak üzere Kurumun kayıt ve bilgi yönetim sistemine kayıtlı olmayan yerlere Ek-3’te yer alan cihazlar dışında cihaz satışı yapması yasaktır.
+(7) **(Ek:RG-26/5/2023-32202)** Satış merkezlerinin, Kurumca yayımlanan kılavuzda belirtilen yerler hariç olmak üzere Kurumun kayıt ve bilgi yönetim sistemine kayıtlı olmayan yerlere Ek-3’te yer alan cihazlar dışında cihaz satışı yapması yasaktır.
 
-(8) (Ek:RG-26/5/2023-32202) Kurum tarafından bu Yönetmelik veya 7223 sayılı Kanun kapsamında alınan idari yaptırım kararlarının uygulanmasında, yaptırıma konu ürünü piyasaya arz eden ve piyasada bulunduran tüm satış merkezleri müteselsilen sorumludur.
+(8) **(Ek:RG-26/5/2023-32202)** Kurum tarafından bu Yönetmelik veya 7223 sayılı Kanun kapsamında alınan idari yaptırım kararlarının uygulanmasında, yaptırıma konu ürünü piyasaya arz eden ve piyasada bulunduran tüm satış merkezleri müteselsilen sorumludur.
 
-(9) (Ek: RG-26/5/2023-32202) (3) Satış merkezleri, imalatçısı veya ithalatçısı oldukları cihazların kullanım ömürleri boyunca teknik servis faaliyetlerine ilişkin olarak aşağıdaki yükümlülükleri yerine getirir:
+(9) **(Ek: RG-26/5/2023-32202) (3)** Satış merkezleri, imalatçısı veya ithalatçısı oldukları cihazların kullanım ömürleri boyunca teknik servis faaliyetlerine ilişkin olarak aşağıdaki yükümlülükleri yerine getirir:
 
 a) Teknik servis hizmetlerini ilgili mevzuatına uygun olarak sağlayacağına ilişkin taahhüdünü Kurumca yayımlanan kılavuza uygun şekilde Kurum onayına sunar.
 
@@ -615,7 +615,7 @@ c) Teknik servis faaliyeti için gerekli her türlü şifre ve benzeri bilgiyi t
 
 ç) Cihazı kurmak, kullanmak ve kullanım dışı bırakmak için gerekli olabilecek cihaz ve ekipmanı temin eder. Bu cihazlardan aktif implante edilebilir olanlar için temin süresi talebin ulaştığı andan itibaren yirmi dört saati aşamaz.
 
-(10) (Ek: RG-26/5/2023-32202) (3) Satış merkezi adına Kurumun kayıt ve bilgi yönetim sisteminde tıbbi cihaz kayıt işlemi yapan kişilerin Kurumca belirlenen eğitimleri başarıyla tamamlaması gerekir.
+(10) **(Ek: RG-26/5/2023-32202) (3)** Satış merkezi adına Kurumun kayıt ve bilgi yönetim sisteminde tıbbi cihaz kayıt işlemi yapan kişilerin Kurumca belirlenen eğitimleri başarıyla tamamlaması gerekir.
 
 #### Denetim
 
@@ -631,13 +631,13 @@ c) Teknik servis faaliyeti için gerekli her türlü şifre ve benzeri bilgiyi t
 
 **MADDE 28 –** (1) Denetimler sonucunda, bu Yönetmeliğe aykırı davrandığı tespit edilen satış merkezleri hakkında, fiillerinin durumuna göre 29 ve 30 uncu maddeler ile ek-2’deki denetleme formunda belirtilen yaptırımlar uygulanır.
 
-(2) (Değişik:RG-26/5/2023-32202) Bu Yönetmelikte belirtilen hükümlere aykırı davranan ve faaliyette bulunanlar hakkında fiillerinin niteliğine göre 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun, 7/12/1994 tarihli ve 4054 sayılı Rekabetin Korunması Hakkında Kanun, 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanun, 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun, 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu, 7223 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
+(2) **(Değişik:RG-26/5/2023-32202)** Bu Yönetmelikte belirtilen hükümlere aykırı davranan ve faaliyette bulunanlar hakkında fiillerinin niteliğine göre 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun, 7/12/1994 tarihli ve 4054 sayılı Rekabetin Korunması Hakkında Kanun, 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanun, 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun, 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu, 7223 sayılı Kanun ve ilgili diğer mevzuat hükümleri uygulanır.
 
-(3) (Değişik:RG-26/5/2023-32202) Bu Yönetmeliğe aykırı hareket eden sağlık meslek mensupları veya sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlar hakkında bağlı oldukları kurum veya meslek örgütü nezdinde disiplin işlemleri başlatılır.
+(3) **(Değişik:RG-26/5/2023-32202)** Bu Yönetmeliğe aykırı hareket eden sağlık meslek mensupları veya sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlar hakkında bağlı oldukları kurum veya meslek örgütü nezdinde disiplin işlemleri başlatılır.
 
 (4) Sorumlu müdür, satış ve tanıtım elemanı ve klinik destek elemanlarının, çalışma belgesi geçerlilik süresi içinde; bu Yönetmelik kapsamında yaptıkları satış, tanıtım ve klinik destekle ilgili ihlallerde, bu personeller önce uyarılır, tekrarı hâlinde çalışma belgeleri üç ay süreyle, ihlalin devamında ise bir yıl süreyle askıya alınır. Çalışma belgesi askıya alınan sorumlu müdür, satış ve tanıtım elemanı ve klinik destek elemanları bu süre içerisinde görev yapamaz.
 
-(5) (Ek:RG-25/7/2015-29425) Satış merkezi;
+(5) **(Ek:RG-25/7/2015-29425)** Satış merkezi;
 
 a) Bu Yönetmeliğin 21 inci maddesindeki hükümlerden herhangi birine aykırı davranması durumunda Kurum tarafından uyarılır.
 
@@ -645,17 +645,17 @@ b) Uyarı yaptırımının uygulandığı tarihten sonraki bir yıl içerisinde 
 
 c) Üç ay süreyle 21 inci maddede tanımlanan tanıtım faaliyetlerinden men yaptırımının uygulandığı tarihten sonraki bir yıl içerisinde 21 inci maddedeki hükümlerden herhangi birine aykırı bir fiilinin tekrarı hâlinde ise bir yıl süreyle bilimsel toplantılara ve eğitsel faaliyetlere katılamaz ve katkı sağlayamaz.
 
-(6) (Ek:RG-26/5/2023-32202) 21 inci maddenin üçüncü fıkrasına aykırı hareket ettiği tespit edilen sağlık meslek mensupları ve sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlar;
+(6) **(Ek:RG-26/5/2023-32202)** 21 inci maddenin üçüncü fıkrasına aykırı hareket ettiği tespit edilen sağlık meslek mensupları ve sağlık kurum ve kuruluşlarının bünyesinde tıbbi cihaz alanında çalışan teknik elemanlar;
 
 a) Tespitin yapıldığı tarihten sonraki otuz gün süre ile bu Yönetmelik kapsamında düzenlenecek bilimsel ve eğitsel faaliyetlere katılamazlar.
 
 b) Men yaptırımının uygulandığı tarihten sonraki bir yıl içinde ilgili aykırılığı tekrar ettiğinin tespiti halinde bu Yönetmelik kapsamında düzenlenecek bilimsel ve eğitsel faaliyetlere yüz seksen gün süre ile katılamazlar.
 
-(7) (Ek: RG-26/5/2023-32202) (3) 25 inci maddenin ikinci, üçüncü veya dördüncü fıkralarından en az birine aykırı hareket ettiği tespit edilen satış merkezi öncelikle uyarılır, aynı aykırılığın bir yıl içinde tekrarının tespiti halinde satış merkezinin satış faaliyeti on beş gün süre ile geçici olarak durdurulur.
+(7) **(Ek: RG-26/5/2023-32202) (3)** 25 inci maddenin ikinci, üçüncü veya dördüncü fıkralarından en az birine aykırı hareket ettiği tespit edilen satış merkezi öncelikle uyarılır, aynı aykırılığın bir yıl içinde tekrarının tespiti halinde satış merkezinin satış faaliyeti on beş gün süre ile geçici olarak durdurulur.
 
-(8) (Ek: RG-26/5/2023-32202) (3) 25/A, 25/B, 25/C veya 25/Ç maddelerinden en az birine aykırı hareket ettiği tespit edilen satış merkezi öncelikle uyarılır, söz konusu aykırılığın giderilmesi için Kurum tarafından doksan güne kadar süre verilir. Verilen süre içerisinde aykırılığın giderilmemesi halinde satış merkezinin satış faaliyeti otuz gün süre ile geçici olarak durdurulur. Kurum, satış merkezinden kaynaklı olmayan istisnai durumun varlığına karar vermesi durumunda söz konusu aykırılığın giderilmesi için verilen süreyi iki katına kadar uzatabilir.
+(8) **(Ek: RG-26/5/2023-32202) (3)** 25/A, 25/B, 25/C veya 25/Ç maddelerinden en az birine aykırı hareket ettiği tespit edilen satış merkezi öncelikle uyarılır, söz konusu aykırılığın giderilmesi için Kurum tarafından doksan güne kadar süre verilir. Verilen süre içerisinde aykırılığın giderilmemesi halinde satış merkezinin satış faaliyeti otuz gün süre ile geçici olarak durdurulur. Kurum, satış merkezinden kaynaklı olmayan istisnai durumun varlığına karar vermesi durumunda söz konusu aykırılığın giderilmesi için verilen süreyi iki katına kadar uzatabilir.
 
-(9) (Ek: RG-26/5/2023-32202) (3) 26 ncı maddenin dokuzuncu fıkrasına aykırı hareket ettiği tespit edilen satış merkezi öncelikle uyarılır, söz konusu aykırılığın yapılan uyarı sonrası otuz gün içinde giderilmemesi veya aynı aykırılığın bir yıl içinde tekrarının tespiti halinde satış merkezinin satış faaliyeti otuz gün süre ile geçici olarak durdurulur. Kurum, satış merkezinden kaynaklı olmayan istisnai durumun varlığına karar vermesi durumunda söz konusu aykırılığın giderilmesi için verilen süreyi iki katına kadar uzatabilir.
+(9) **(Ek: RG-26/5/2023-32202) (3)** 26 ncı maddenin dokuzuncu fıkrasına aykırı hareket ettiği tespit edilen satış merkezi öncelikle uyarılır, söz konusu aykırılığın yapılan uyarı sonrası otuz gün içinde giderilmemesi veya aynı aykırılığın bir yıl içinde tekrarının tespiti halinde satış merkezinin satış faaliyeti otuz gün süre ile geçici olarak durdurulur. Kurum, satış merkezinden kaynaklı olmayan istisnai durumun varlığına karar vermesi durumunda söz konusu aykırılığın giderilmesi için verilen süreyi iki katına kadar uzatabilir.
 
 #### Kayıt ve bilgi yönetim sistemine ilişkin idari yaptırımlar
 
@@ -671,27 +671,27 @@ b) Men yaptırımının uygulandığı tarihten sonraki bir yıl içinde ilgili 
 
 a) Müdürlükçe istenen bilgi ve belgelerin gönderilmemesi.
 
-b) (Mülga:RG-2/9/2020-31232)
+b) **(Mülga:RG-2/9/2020-31232)**
 
 c) Denetim esnasında denetim ekibinin istediği bilgi ve belgelerin verilmemesi veya denetimin engellenmesi.
 
-ç) (Ek:RG-26/5/2023-32202) 26 ncı maddenin yedinci fıkrasına aykırı hareket edilmesi.
+ç) **(Ek:RG-26/5/2023-32202)** 26 ncı maddenin yedinci fıkrasına aykırı hareket edilmesi.
 
-d) (Ek:RG-26/5/2023-32202) 28 inci maddenin beşinci fıkrası kapsamında uygulanan müeyyideye aykırı faaliyette bulunulması.
+d) **(Ek:RG-26/5/2023-32202)** 28 inci maddenin beşinci fıkrası kapsamında uygulanan müeyyideye aykırı faaliyette bulunulması.
 
-e) (Ek:RG-26/5/2023-32202) 31 inci maddenin ikinci fıkrasına aykırı hareket edilmesi.
+e) **(Ek:RG-26/5/2023-32202)** 31 inci maddenin ikinci fıkrasına aykırı hareket edilmesi.
 
 (2) Satış merkezinin geçici olarak faaliyetinin durdurulması işlemi müdürlüğün teklifi ve valilik onayı ile yapılır. Geçici olarak faaliyeti durdurulan satış merkezleri, çalışma ve işkur il müdürlüğüne ve il vergi dairesine bildirilir.
 
 (3) Geçici olarak faaliyeti durdurulan satış merkezine ait bu Yönetmelik kapsamında düzenlenen yetki belgesi, çalışma belgeleri ve kimlik kartları, durdurma süresince müdürlükçe muhafaza edilir.
 
-(4) (Mülga:RG-25/7/2015-29425)
+(4) **(Mülga:RG-25/7/2015-29425)**
 
 (5) Geçici faaliyet durdurmayı gerektiren fiilin bir yıl içinde tekrarı hâlinde satış merkezinin faaliyeti otuz gün süreyle durdurulur.
 
 #### Satış merkezlerinin süresiz olarak kapatılması
 
-**MADDE 30 –** (1) (Değişik:RG-2/9/2020-31232) Tıbbi cihaz satış merkezinin yetki belgesi;
+**MADDE 30 –** (1) **(Değişik:RG-2/9/2020-31232)** Tıbbi cihaz satış merkezinin yetki belgesi;
 
 a) Geçici faaliyet durdurma uygulanmasına rağmen tespit edilen eksikliğin verilen süre sonunda giderilmediğinin belirlenmesi durumunda,
 
@@ -717,7 +717,7 @@ c) Satış merkezinin kapatıldığına dair bilgi, çalışma ve işkur il müd
 
 (3) Satış merkezleri, tedarik zincirinde yer alan bir önceki ve varsa bir sonraki iktisadi işletmenin ismi, ticari unvanı veya markası ve irtibat bilgileri ile cihazların takibini kolaylaştıracak diğer bilgilerin kaydını parti, seri, lot, marka, model gibi parametreler bazında düzenli bir şekilde tutar, bu kayıtları cihazı piyasada bulundurmaya başladıkları tarihten itibaren en az on yıl boyunca muhafaza eder ve talebi hâlinde Kuruma sunarlar.
 
-(4 ) (Değişik:RG-26/5/2023-32202) Kurum, cihazların kayıt ve bilgi yönetim sistemine kaydedilmesi ile ilgili kılavuzlar çıkarır. Satış merkezleri bu kılavuzlara uygun altyapıyı belirtilen sürelerde kurar ve cihazları sisteme kaydeder. Sisteme kaydedilen cihazlara ilişkin bilgilerin doğruluğu ürün kaydını yapan satış merkezi sorumluluğundadır.
+(4 ) **(Değişik:RG-26/5/2023-32202)** Kurum, cihazların kayıt ve bilgi yönetim sistemine kaydedilmesi ile ilgili kılavuzlar çıkarır. Satış merkezleri bu kılavuzlara uygun altyapıyı belirtilen sürelerde kurar ve cihazları sisteme kaydeder. Sisteme kaydedilen cihazlara ilişkin bilgilerin doğruluğu ürün kaydını yapan satış merkezi sorumluluğundadır.
 
 #### Satış merkezlerinin nakli ve devri
 
@@ -725,7 +725,7 @@ c) Satış merkezinin kapatıldığına dair bilgi, çalışma ve işkur il müd
 
 (2) Satış merkezinin devri hâlinde, devir sözleşmesinin bir örneği ve yetki belgesi için başvuruda belirtilen belgeler ile devralan satış merkezi tarafından müdürlüğe başvurulur. Başvuruyu müteakip 6 ncı ve 7 nci maddelere uygun olarak gerekli işlemler yürütülür.
 
-(3) (Değişik:RG-2/9/2020-31232) Bildirimsiz devir ve nakil işlemi yaptığı tespit edilen satış merkezlerinin ilgili adrese yönelik düzenlenmiş yetki belgesi iptal edilir. Yetki belgesi bu şekilde iptal edilen gerçek ve tüzel kişiler, bu Yönetmelik hükümlerini karşılamak kaydıyla tıbbi cihaz satış merkezi yetki belgesi için yeniden müracaatta bulunabilir.
+(3) **(Değişik:RG-2/9/2020-31232)** Bildirimsiz devir ve nakil işlemi yaptığı tespit edilen satış merkezlerinin ilgili adrese yönelik düzenlenmiş yetki belgesi iptal edilir. Yetki belgesi bu şekilde iptal edilen gerçek ve tüzel kişiler, bu Yönetmelik hükümlerini karşılamak kaydıyla tıbbi cihaz satış merkezi yetki belgesi için yeniden müracaatta bulunabilir.
 
 (4) Satış merkezinin devredilmesi hâlinde devralanlar, devredenin sorumluluklarını da almış sayılır. Satış merkezinin faaliyetinin durdurulması hâlinde de devralan, faaliyet durdurma süresinin tamamlanmasını beklemek zorundadır.
 
@@ -739,17 +739,17 @@ c) Satış merkezinin işleteni, fiili kapanma tarihinden itibaren üç iş gün
 
 #### İstisnaî hükümler
 
-**MADDE 33 –** (1) (Değişik:RG-2/9/2020-31232) Farmasötik formda piyasaya arz edilen tıbbi cihazlar ile beşeri tıbbi ürünlerin uygulanmasında kullanılan cihazlar hariç olmak üzere münhasıran sağlık meslek mensupları tarafından kullanılması veya uygulanması gereken cihazların eczanede satışı yapılamaz. Bunun dışındaki cihazlar herhangi bir yetki veya izin aranmaksızın eczanelerde satılabilir. Eczaneler tarafından satılabilecek bu cihazlar Kurum tarafından duyurulur.
+**MADDE 33 –** (1) **(Değişik:RG-2/9/2020-31232)** Farmasötik formda piyasaya arz edilen tıbbi cihazlar ile beşeri tıbbi ürünlerin uygulanmasında kullanılan cihazlar hariç olmak üzere münhasıran sağlık meslek mensupları tarafından kullanılması veya uygulanması gereken cihazların eczanede satışı yapılamaz. Bunun dışındaki cihazlar herhangi bir yetki veya izin aranmaksızın eczanelerde satılabilir. Eczaneler tarafından satılabilecek bu cihazlar Kurum tarafından duyurulur.
 
-(2) (Değişik:RG-26/5/2023-32202) İmalatçısı veya ithalatçısı hariç olmak üzere Ek-3’te yer alan cihazların satışının yapıldığı yerler için yetki belgesi aranmaz. Bu istisna ilgili diğer mevzuat ile belirlenen yükümlülükleri ortadan kaldırmaz.
+(2) **(Değişik:RG-26/5/2023-32202)** İmalatçısı veya ithalatçısı hariç olmak üzere Ek-3’te yer alan cihazların satışının yapıldığı yerler için yetki belgesi aranmaz. Bu istisna ilgili diğer mevzuat ile belirlenen yükümlülükleri ortadan kaldırmaz.
 
-(3) (Değişik:RG-26/5/2023-32202) Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Sağlık Bakanlığı tarafından kabul edilen halk sağlığı tehditlerine karşı oluşacak durumlar (pandemi, biyolojik tehdit vb.) başta olmak üzere, toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini olumsuz derecede etkileyecek ciddi halk sağlığı sorunlarında Ek-3 listesindeki ürün grupları da dahil olmak üzere tıbbi cihazların satış yerlerine, reklam veya tanıtım faaliyetlerine ilişkin istisnalar getirilebilir.
+(3) **(Değişik:RG-26/5/2023-32202)** Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Sağlık Bakanlığı tarafından kabul edilen halk sağlığı tehditlerine karşı oluşacak durumlar (pandemi, biyolojik tehdit vb.) başta olmak üzere, toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini olumsuz derecede etkileyecek ciddi halk sağlığı sorunlarında Ek-3 listesindeki ürün grupları da dahil olmak üzere tıbbi cihazların satış yerlerine, reklam veya tanıtım faaliyetlerine ilişkin istisnalar getirilebilir.
 
-(4) (Ek:RG-26/5/2023-32202) Kurum, kamu kurum ve kuruluşlarının yapacakları cihaz taleplerine ilişkin olarak; sermayesinin tamamı devlete ait, iktisadi alanda ticari esaslara göre faaliyet göstermek üzere kurulan yerlere istisnalar getirebilir.
+(4) **(Ek:RG-26/5/2023-32202)** Kurum, kamu kurum ve kuruluşlarının yapacakları cihaz taleplerine ilişkin olarak; sermayesinin tamamı devlete ait, iktisadi alanda ticari esaslara göre faaliyet göstermek üzere kurulan yerlere istisnalar getirebilir.
 
-(5) (Ek:RG-26/5/2023-32202) 26 ncı maddenin onuncu fıkrası kapsamındaki eğitimleri başarıyla tamamlayarak satış merkezi adına Kurumun kayıt ve bilgi yönetim sisteminde en az iki yıl süre ile tıbbi cihaz kayıt işlemi yapan kişilerden satış ve tanıtım elemanı olarak görev almak isteyenler için en az orta öğretim mezunu olması kaydıyla 11 inci maddenin ikinci fıkrasındaki hüküm aranmaz.
+(5) **(Ek:RG-26/5/2023-32202)** 26 ncı maddenin onuncu fıkrası kapsamındaki eğitimleri başarıyla tamamlayarak satış merkezi adına Kurumun kayıt ve bilgi yönetim sisteminde en az iki yıl süre ile tıbbi cihaz kayıt işlemi yapan kişilerden satış ve tanıtım elemanı olarak görev almak isteyenler için en az orta öğretim mezunu olması kaydıyla 11 inci maddenin ikinci fıkrasındaki hüküm aranmaz.
 
-(6) (Ek:RG-26/5/2023-32202) Satış merkezlerinde satış ve tanıtım elemanı veya klinik destek elemanı olarak en az dört yıl süre ile görev yapan kişilerden sorumlu müdür olarak görev almak isteyenler için 10 uncu maddenin ikinci fıkrasındaki hüküm aranmaz.
+(6) **(Ek:RG-26/5/2023-32202)** Satış merkezlerinde satış ve tanıtım elemanı veya klinik destek elemanı olarak en az dört yıl süre ile görev yapan kişilerden sorumlu müdür olarak görev almak isteyenler için 10 uncu maddenin ikinci fıkrasındaki hüküm aranmaz.
 
 #### Satış merkezi açılamayacak yerler
 
@@ -781,7 +781,7 @@ c) Satış merkezinin işleteni, fiili kapanma tarihinden itibaren üç iş gün
 
 **GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yayımı tarihinden önce açılmış mevcut satış merkezleri, bu Yönetmeliğin yayımlandığı tarihten itibaren on sekiz ay içerisinde 14 üncü maddenin ikinci fıkrası hariç diğer hükümlerine göre yetki belgesi almak kaydıyla faaliyetlerine devam ederler. Belirtilen süre içerisinde yetki belgesi almayan işyerlerinin faaliyetlerine bu süre sonunda müdürlükçe son verilir.
 
-(2) (Ek:RG-26/5/2023-32202) Kurumun kayıt ve bilgi yönetim sisteminde satış merkezi yetki belgesi olmaksızın kayıtlı olan imalatçı veya ithalatçılar için 33 üncü maddenin ikinci fıkrası kapsamında yetki belgesine sahip olma zorunluluğu, bu hükmün yürürlüğe girdiği tarihten itibaren bir yıl içinde yerine getirilir.
+(2) **(Ek:RG-26/5/2023-32202)** Kurumun kayıt ve bilgi yönetim sisteminde satış merkezi yetki belgesi olmaksızın kayıtlı olan imalatçı veya ithalatçılar için 33 üncü maddenin ikinci fıkrası kapsamında yetki belgesine sahip olma zorunluluğu, bu hükmün yürürlüğe girdiği tarihten itibaren bir yıl içinde yerine getirilir.
 
 #### Sorumlu müdür, satış ve tanıtım elemanı ile klinik destek elemanı
 
@@ -807,11 +807,11 @@ yürürlüğe girer.
 
 ________________
 
-(1) Bu maddenin ikinci fıkrası 1/1/2025 tarihinde yürürlüğe girer.
+<i>(1) Bu maddenin ikinci fıkrası 1/1/2025 tarihinde yürürlüğe girer.</i>
 
-(2) Bu değişiklik yayımı tarihinden üç ay sonra yürürlüğe girer.
+<i>(2) Bu değişiklik yayımı tarihinden üç ay sonra yürürlüğe girer.</i>
 
-(3) Bu değişiklik 1/1/2025 tarihinde yürürlüğe girer.
+<i>(3) Bu değişiklik 1/1/2025 tarihinde yürürlüğe girer.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -827,9 +827,9 @@ ________________
 | 7. | 17/8/2023 | 32282 |
 | 8. | 3/7/2026 | 33299 |
 
-Ek-1
+**Ek-1**
 
-Eğitim Listesi
+**Eğitim Listesi**
 
 1. Mevzuat eğitimi SM STE KDE
 
@@ -845,9 +845,9 @@ STE: Satış ve Tanıtım Elemanı
 
 KDE: Klinik Destek Elemanı
 
-Ek-2
+**Ek-2**
 
-(Değişik:RG-2/9/2020-31232)
+**(Değişik:RG-2/9/2020-31232)**
 
 Tıbbi Cihaz Satış Merkezi Denetleme Formu
 
@@ -873,49 +873,49 @@ Saat :
 | DENETİM EKİBİ |
 | Denetim görevlisi Adı, Soyadı İmza | Denetim görevlisi Adı, Soyadı İmza | Denetim görevlisi Adı, Soyadı İmza | Sorumlu Müdür Adı, Soyadı İmza |
 
-Ek-3
+**Ek-3**
 
-(Değişik:RG-26/5/2023-32202)
+**(Değişik:RG-26/5/2023-32202)**
 
-Satış Merkezleri Haricinde Satışı Yapılabilecek Cihaz Listesi
+<i>Satış Merkezleri Haricinde Satışı Yapılabilecek Cihaz Listesi</i>
 
-1. Hassasiyet giderme amaçlı diş macunu.
+<i>1. Hassasiyet giderme amaçlı diş macunu.</i>
 
-2. Bireysel kullanıma yönelik diş protez bakım ürünleri.
+<i>2. Bireysel kullanıma yönelik diş protez bakım ürünleri.</i>
 
-3. Kondom.
+<i>3. Kondom.</i>
 
-4. Hasta altı bezi.
+<i>4. Hasta altı bezi.</i>
 
-5. İnkontinans bakım ürünleri (inkontinans pedi, mesane pedi, ördek, sürgü ve benzeri).
+<i>5. İnkontinans bakım ürünleri (inkontinans pedi, mesane pedi, ördek, sürgü ve benzeri).</i>
 
-6. Sıcak/soğuk kompres (non invaziv).
+<i>6. Sıcak/soğuk kompres (non invaziv).</i>
 
-7. Yara bandı, flaster.
+<i>7. Yara bandı, flaster.</i>
 
-8. Pamuk.
+<i>8. Pamuk.</i>
 
-9. Ağız çalkalama suyu.
+<i>9. Ağız çalkalama suyu.</i>
 
-10. Nefes açıcı burun bantları.
+<i>10. Nefes açıcı burun bantları.</i>
 
-11. Cerrahi maske.
+<i>11. Cerrahi maske.</i>
 
-12. Veziküller için kendinden yapışkanlı bası önleyici bant.
+<i>12. Veziküller için kendinden yapışkanlı bası önleyici bant.</i>
 
-13. Nasır ve su toplamayı giderme amaçlı parmak ayıracı.
+<i>13. Nasır ve su toplamayı giderme amaçlı parmak ayıracı.</i>
 
-14. Steril olmayan tek kullanımlık eldiven.
+<i>14. Steril olmayan tek kullanımlık eldiven.</i>
 
-15. Pediatrik burun puvarı.
+<i>15. Pediatrik burun puvarı.</i>
 
-16.İlgili mevzuatı kapsamında satış yerleri kısıtlanmış olanlar ile münhasıran sağlık profesyonellerinin kullanımına yönelik imal edilenler istisna olmak üzere 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmi Gazete’ de yayımlanan Tıbbi Cihaz Yönetmeliğinin eki “Ek XVI - 1 İnci Maddenin İkinci Fıkrasında Atıfta Bulunulan Tıbbi Amaçlı Olmayan Ürün Gruplarının Listesi” kapsamında yer alan ürünler.
+<i>16.İlgili mevzuatı kapsamında satış yerleri kısıtlanmış olanlar ile münhasıran sağlık profesyonellerinin kullanımına yönelik imal edilenler istisna olmak üzere 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmi Gazete’ de yayımlanan Tıbbi Cihaz Yönetmeliğinin eki “Ek XVI - 1 İnci Maddenin İkinci Fıkrasında Atıfta Bulunulan Tıbbi Amaçlı Olmayan Ürün Gruplarının Listesi” kapsamında yer alan ürünler.</i>
 
-Ek-4
+**Ek-4**
 
-Klinik Destek Elemanları İçin Mezuniyet Alan Bilgileri
+**Klinik Destek Elemanları İçin Mezuniyet Alan Bilgileri**
 
-Lisans:
+**Lisans:**
 
 Bilgisayar Mühendisliği.
 
@@ -1001,7 +1001,7 @@ Tıp Mühendisliği.
 
 Yazılım Mühendisliği.
 
-Ön Lisans
+**Ön Lisans**
 
 Ağız ve Diş Sağlığı.
 

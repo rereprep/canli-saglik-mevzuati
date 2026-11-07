@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 ve Sosyal Güvenlik Bakanlığından:
-İŞ EKİPMANLARININ KULLANIMINDA SAĞLIK VE GÜVENLİK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ EKİPMANLARININ KULLANIMINDA SAĞLIK VE GÜVENLİK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 25/4/2013 tarihli ve 28628 sayılı Resmî Gazete’de yayımlanan İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğinin geçici 1 inci maddesinin ikinci fıkrasında geçen “bir yıl” ibaresi “üç yıl” olarak değiştirilmiştir.
+**MADDE 1 –** 25/4/2013 tarihli ve 28628 sayılı Resmî Gazete’de yayımlanan İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğinin geçici 1 inci maddesinin ikinci fıkrasında geçen “bir yıl” ibaresi “üç yıl” olarak değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 16 ncı maddesinin birinci fıkrasının (a) bendinde geçen “bir yıl” ibaresi “üç yıl” olarak değiştirilmiştir.
 

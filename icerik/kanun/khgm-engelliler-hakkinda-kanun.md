@@ -13,17 +13,17 @@ durum: "yürürlükte"
 
 ### ENGELLİLER HAKKINDA KANUN[1]
 
-Kanun Numarası : 5378
+**Kanun Numarası : 5378**
 
-Kabul Tarihi : 1/7/2005
+**Kabul Tarihi : 1/7/2005**
 
-Yayımlandığı Resmî Gazete : Tarih : 7/7/2005 Sayı : 25868
+**Yayımlandığı Resmî Gazete : Tarih : 7/7/2005 Sayı : 25868**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 44
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 44**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Tanımlar ve Genel Esaslar
+**Amaç, Kapsam, Tanımlar ve Genel Esaslar**
 
 #### Amaç
 
@@ -115,9 +115,9 @@ Engellilerin topluma dâhil olmaları ve toplum içinde yaşamaları amacıyla b
 
 ### İKİNCİ BÖLÜM[2]
 
-Engellilik Durumu, Destek ve Bakım, Habilitasyon ve Rehabilitasyon,
+**Engellilik Durumu, Destek ve Bakım, Habilitasyon ve Rehabilitasyon,**
 
-İstihdam, Eğitim ve Öğretim, Erişilebilirlik
+**İstihdam, Eğitim ve Öğretim, Erişilebilirlik**
 
 #### Engellilik durumu[3]
 
@@ -281,21 +281,21 @@ Yürürlükten kaldırılmıştır.
 
 **Geçici Madde 2 –** Kamu kurum ve kuruluşlarına ait mevcut resmî yapılar, mevcut tüm yol, kaldırım, yaya geçidi, açık ve yeşil alanlar, spor alanları ve benzeri sosyal ve kültürel alt yapı alanları ile gerçek ve tüzel kişiler tarafından yapılmış ve umuma açık hizmet veren her türlü yapılar bu Kanunun yürürlüğe girdiği tarihten itibaren sekiz yıl içinde engellilerin erişebilirliğine uygun duruma getirilir.[10][11]
 
-Geçici Madde 3[12] - Büyükşehir belediyeleri ve belediyeler, şehir içinde kendilerince sunulan ya da denetimlerinde olan sürücü koltuğu hariç dokuz veya daha fazla koltuğu bulunan araçlarla sağlanan toplu taşıma hizmetlerinin engellilerin erişilebilirliğine uygun olması için gereken tedbirleri alır. Mevcut özel ve kamu toplu taşıma araçları, bu Kanunun yürürlüğe girdiği tarihten itibaren sekiz yıl içinde, sürücü koltuğu hariç dokuz ila on altı oturma yeri olan araçlarla verilen toplu taşıma hizmetleri, turizm taşımacılığı yapılan araçlarla sağlanan taşıma hizmetleri ve özel ve kamu şehirler arası toplu taşıma hizmetleri ile yolcu gemileri 7/7/2018 tarihine kadar engelliler için erişilebilir duruma getirilir.10 [13][14][15]
+**Geçici Madde 3**[12] - Büyükşehir belediyeleri ve belediyeler, şehir içinde kendilerince sunulan ya da denetimlerinde olan sürücü koltuğu hariç dokuz veya daha fazla koltuğu bulunan araçlarla sağlanan toplu taşıma hizmetlerinin engellilerin erişilebilirliğine uygun olması için gereken tedbirleri alır. Mevcut özel ve kamu toplu taşıma araçları, bu Kanunun yürürlüğe girdiği tarihten itibaren sekiz yıl içinde, sürücü koltuğu hariç dokuz ila on altı oturma yeri olan araçlarla verilen toplu taşıma hizmetleri, turizm taşımacılığı yapılan araçlarla sağlanan taşıma hizmetleri ve özel ve kamu şehirler arası toplu taşıma hizmetleri ile yolcu gemileri 7/7/2018 tarihine kadar engelliler için erişilebilir duruma getirilir.10 [13][14][15]
 
-(Ek:6/2/2014-6518/75 md.) 7/7/2018 tarihine kadar, karayolu ile turizm taşımacılığı yapan veya şehirler arası toplu taşıma hizmeti veren gerçek ve tüzel kişiler, engelli bireyin erişilebilir toplu taşıma hizmeti sağlanmasına ilişkin talebini azami yetmiş iki saat içinde karşılamakla yükümlüdür.
+**(Ek:6/2/2014-6518/75 md.)** 7/7/2018 tarihine kadar, karayolu ile turizm taşımacılığı yapan veya şehirler arası toplu taşıma hizmeti veren gerçek ve tüzel kişiler, engelli bireyin erişilebilir toplu taşıma hizmeti sağlanmasına ilişkin talebini azami yetmiş iki saat içinde karşılamakla yükümlüdür.
 
-(Ek:6/2/2014-6518/75 md.) 7/7/2018 tarihine kadar, servis taşımacılığı yapan gerçek ve tüzel kişiler, engelli personel veya öğrenciye talep hâlinde erişilebilir taşıma hizmetini sağlamakla yükümlüdür.
+**(Ek:6/2/2014-6518/75 md.)** 7/7/2018 tarihine kadar, servis taşımacılığı yapan gerçek ve tüzel kişiler, engelli personel veya öğrenciye talep hâlinde erişilebilir taşıma hizmetini sağlamakla yükümlüdür.
 
-(Ek:6/2/2014-6518/75 md.; Mülga: 10/9/2014-6552/144 md.; Yeniden düzenleme: 18/11/2014-6567/1 md.) Bu fıkranın yürürlüğe girdiği tarihten sonra üretilen şehirler arası ve uluslararası yolcu taşımacılığı ile servis ve turizm taşımacılığı yapan araçlar dışında şehir içi yolcu taşıma hizmeti yapan araçlardan erişilebilir olmayanlara yolcu taşıma hizmeti için yetki belgesi, izin ve çalışma ruhsatı verilmez.
+**(Ek:6/2/2014-6518/75 md.; Mülga: 10/9/2014-6552/144 md.; Yeniden düzenleme: 18/11/2014-6567/1 md.)** Bu fıkranın yürürlüğe girdiği tarihten sonra üretilen şehirler arası ve uluslararası yolcu taşımacılığı ile servis ve turizm taşımacılığı yapan araçlar dışında şehir içi yolcu taşıma hizmeti yapan araçlardan erişilebilir olmayanlara yolcu taşıma hizmeti için yetki belgesi, izin ve çalışma ruhsatı verilmez.
 
-(Ek fıkra: 18/11/2014-6567/1 md.) Şehirler arası yolcu taşıma hizmeti ile şehir içi servis ve turizm taşımacılığı hizmetinin erişilebilir hâle getirilmesi için usul ve esaslar Bilim, Sanayi ve Teknoloji Bakanlığı ile Ulaştırma, Denizcilik ve Haberleşme Bakanlığının görüşleri alınmak suretiyle Aile ve Sosyal Politikalar Bakanlığınca bu fıkranın yürürlük tarihinden itibaren bir yıl içinde çıkarılacak yönetmelikle düzenlenir.
+**(Ek fıkra: 18/11/2014-6567/1 md.)** Şehirler arası yolcu taşıma hizmeti ile şehir içi servis ve turizm taşımacılığı hizmetinin erişilebilir hâle getirilmesi için usul ve esaslar Bilim, Sanayi ve Teknoloji Bakanlığı ile Ulaştırma, Denizcilik ve Haberleşme Bakanlığının görüşleri alınmak suretiyle Aile ve Sosyal Politikalar Bakanlığınca bu fıkranın yürürlük tarihinden itibaren bir yıl içinde çıkarılacak yönetmelikle düzenlenir.
 
-(Ek fıkra: 4/7/2012-6353/34 md.) Bu Kanunun geçici 2 nci maddesi ile bu maddede belirtilen erişilebilirlik standartlarının ve yükümlülüklerinin uygulanmasının izlenmesi ve denetimi her ilde Aile ve Sosyal Politikalar, Bilim, Sanayi ve Teknoloji, İçişleri, Çevre ve Şehircilik, Ulaştırma, Denizcilik ve Haberleşme Bakanlıkları ile engelliler ile ilgili konfederasyonların temsilcilerinden oluşan komisyon tarafından yapılır. İhtiyaç halinde birden fazla komisyon kurulabilir. (İptal üçüncü cümle: Anayasa Mahkemesinin 22/6/2023 Tarihli ve E: 2022/110, K: 2023/115 Sayılı Kararı ile.)
+**(Ek fıkra: 4/7/2012-6353/34 md.)** Bu Kanunun geçici 2 nci maddesi ile bu maddede belirtilen erişilebilirlik standartlarının ve yükümlülüklerinin uygulanmasının izlenmesi ve denetimi her ilde Aile ve Sosyal Politikalar, Bilim, Sanayi ve Teknoloji, İçişleri, Çevre ve Şehircilik, Ulaştırma, Denizcilik ve Haberleşme Bakanlıkları ile engelliler ile ilgili konfederasyonların temsilcilerinden oluşan komisyon tarafından yapılır. İhtiyaç halinde birden fazla komisyon kurulabilir. **(İptal üçüncü cümle: Anayasa Mahkemesinin 22/6/2023 Tarihli ve E: 2022/110, K: 2023/115 Sayılı Kararı ile.)**
 
-(Ek fıkra: 4/7/2012-6353/34 md.) Sürenin bitiminden itibaren öngörülen yükümlülüklerini yerine getirmediği denetim komisyonlarınca tespit edilen umuma açık hizmet veren her türlü yapılar ve açık alanlar ile toplu taşıma araçlarının sahibi olan gerçek ve özel hukuk tüzel kişileri ve ikinci, üçüncü fıkralar ile beşinci fıkra kapsamında yürürlüğe konulan yönetmelikle öngörülen yükümlülüklerini yerine getirmediği denetim komisyonlarınca tespit edilen gerçek ve özel hukuk tüzel kişilerine Aile ve Sosyal Politikalar Bakanlığı tarafından her bir tespit için bin Türk Lirasından beş bin Türk Lirasına kadar idari para cezası uygulanır. Bu şekilde bir yıl içinde uygulanacak idari para cezasının tutarı ellibin lirayı geçemez. İkinci ve üçüncü fıkrada öngörülen yükümlülüklerini veya geçici 2 ve 3 üncü maddelerde belirtilen sürelerin bitiminden itibaren öngörülen yükümlülüklerini yerine getirmediği denetim komisyonlarınca tespit edilen büyükşehir belediyeleri, belediyeler ve diğer kamu kurum ve kuruluşlarına Aile ve Sosyal Politikalar Bakanlığı tarafından her bir tespit için beşbin Türk Lirasından yirmibeşbin Türk Lirasına kadar idari para cezası uygulanır. Bu şekilde bir yıl içinde uygulanacak idari para cezasının tutarı beşyüz bin lirayı geçemez. Bu maddeye göre verilen idari para cezaları tebliğinden itibaren bir ay içerisinde ödenir. Genel bütçeye gelir kaydedilen idari para cezası tutarları dikkate alınarak erişilebilirlik konusundaki projelerde kullanılmak üzere Aile ve Sosyal Politikalar Bakanlığı bütçesinde ödenek öngörülür.[16]
+**(Ek fıkra: 4/7/2012-6353/34 md.)** Sürenin bitiminden itibaren öngörülen yükümlülüklerini yerine getirmediği denetim komisyonlarınca tespit edilen umuma açık hizmet veren her türlü yapılar ve açık alanlar ile toplu taşıma araçlarının sahibi olan gerçek ve özel hukuk tüzel kişileri ve ikinci, üçüncü fıkralar ile beşinci fıkra kapsamında yürürlüğe konulan yönetmelikle öngörülen yükümlülüklerini yerine getirmediği denetim komisyonlarınca tespit edilen gerçek ve özel hukuk tüzel kişilerine Aile ve Sosyal Politikalar Bakanlığı tarafından her bir tespit için bin Türk Lirasından beş bin Türk Lirasına kadar idari para cezası uygulanır. Bu şekilde bir yıl içinde uygulanacak idari para cezasının tutarı ellibin lirayı geçemez. İkinci ve üçüncü fıkrada öngörülen yükümlülüklerini veya geçici 2 ve 3 üncü maddelerde belirtilen sürelerin bitiminden itibaren öngörülen yükümlülüklerini yerine getirmediği denetim komisyonlarınca tespit edilen büyükşehir belediyeleri, belediyeler ve diğer kamu kurum ve kuruluşlarına Aile ve Sosyal Politikalar Bakanlığı tarafından her bir tespit için beşbin Türk Lirasından yirmibeşbin Türk Lirasına kadar idari para cezası uygulanır. Bu şekilde bir yıl içinde uygulanacak idari para cezasının tutarı beşyüz bin lirayı geçemez. Bu maddeye göre verilen idari para cezaları tebliğinden itibaren bir ay içerisinde ödenir. Genel bütçeye gelir kaydedilen idari para cezası tutarları dikkate alınarak erişilebilirlik konusundaki projelerde kullanılmak üzere Aile ve Sosyal Politikalar Bakanlığı bütçesinde ödenek öngörülür.[16]
 
-(Ek fıkra: 4/7/2012-6353/34 md.) Bu maddenin uygulanmasına ilişkin usul ve esaslar; Bilim, Sanayi ve Teknoloji, İçişleri, Maliye, Çevre ve Şehircilik, Ulaştırma, Denizcilik ve Haberleşme Bakanlıklarının ve engelliler ile ilgili konfederasyonların görüşleri alınmak sureti ile Aile ve Sosyal Politikalar Bakanlığınca bir yıl içerisinde çıkarılacak yönetmelikle belirlenir.12 [17]
+**(Ek fıkra: 4/7/2012-6353/34 md.)** Bu maddenin uygulanmasına ilişkin usul ve esaslar; Bilim, Sanayi ve Teknoloji, İçişleri, Maliye, Çevre ve Şehircilik, Ulaştırma, Denizcilik ve Haberleşme Bakanlıklarının ve engelliler ile ilgili konfederasyonların görüşleri alınmak sureti ile Aile ve Sosyal Politikalar Bakanlığınca bir yıl içerisinde çıkarılacak yönetmelikle belirlenir.12 [17]
 
 **Geçici Madde 4 –** Bu Kanunla Özürlüler İdaresi Başkanlığı ile Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü teşkilat kanunlarında yapılan yeni düzenleme sebebiyle kadro ve görev unvanları değişenler veya kaldırılanlar bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde boş bulunan durumlarına uygun kadrolara atanırlar. Bunlar yeni bir kadroya atanıncaya kadar her türlü malî haklarını eski kadrolarına göre almaya devam ederler. Söz konusu personelin atandıkları yeni kadroların aylık, ek gösterge, her türlü zam ve tazminatları ile diğer malî hakları toplamının net tutarı, eski kadrosunda en son ayda almakta oldukları aylık, ek gösterge, her türlü zam ve tazminatları ile diğer malî hakları toplamı net tutarından az olması halinde aradaki fark giderilinceye kadar atandıkları kadroda kaldıkları sürece hiçbir vergi ve kesintiye tâbi tutulmaksızın tazminat olarak ödenir. Kadro ve görev unvanı değişmeyenler ise aynı kadro ve görev unvanlarına atanmış sayılırlar.
 
@@ -330,36 +330,36 @@ Engelli bireylerin bu maddenin yürürlüğe girdiği tarihten önce ilgili mevz
 | 7417 | Geçici Madde 3 | 5/7/2022 |
 | Anayasa Mahkemesinin 22/6/2023 Tarihli ve E: 2022/110, K: 2023/115 Sayılı Kararı | Geçici Madde 3 | 19/9/2023 |
 
-<small>[1] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle; bu Kanun başlığında yer alan “Özürlüler ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması” ibaresi “Engelliler”, 2 nci maddesinde yer alan “özürlüleri” ve “özürlülere” ibareleri sırasıyla “engellileri” ve “engellilere” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle; bu Kanun başlığında yer alan “Özürlüler ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması” ibaresi “Engelliler”, 2 nci maddesinde yer alan “özürlüleri” ve “özürlülere” ibareleri sırasıyla “engellileri” ve “engellilere” şeklinde değiştirilmiştir.</i></small>
 
-<small>[2] 6/2/2014 tarihli ve 6518 sayılı Kanunun 67 nci maddesiyle bu bölümün başlığı, “Sınıflandırma, Bakım, Rehabilitasyon, İstihdam, Eğitim, İş ve Meslek Analizi” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[2] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 67 nci maddesiyle bu bölümün başlığı, “Sınıflandırma, Bakım, Rehabilitasyon, İstihdam, Eğitim, İş ve Meslek Analizi” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[3] 6/2/2014 tarihli ve 6518 sayılı Kanunun 67 nci maddesiyle bu maddenin başlığı, “Sınıflandırma” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[3] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 67 nci maddesiyle bu maddenin başlığı, “Sınıflandırma” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[4] 6/2/2014 tarihli ve 6518 sayılı Kanunun 68 inci maddesiyle bu maddenin başlığı, “Bakım” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[4] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 68 inci maddesiyle bu maddenin başlığı, “Bakım” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[5] 6/2/2014 tarihli ve 6518 sayılı Kanunun 69 uncu maddesiyle bu maddenin başlığı, “Ruhsatlandırma” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[5] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 69 uncu maddesiyle bu maddenin başlığı, “Ruhsatlandırma” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[6] 6/2/2014 tarihli ve 6518 sayılı Kanunun 70 inci maddesiyle bu maddenin başlığı, “Rehabilitasyon” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[6] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 70 inci maddesiyle bu maddenin başlığı, “Rehabilitasyon” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[7] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülüğe”, “özürlülüğün” ve “özrün” ibareleri sırasıyla “engelliliğe”, “engelliliğin” ve “engelliliğin” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülüğe”, “özürlülüğün” ve “özrün” ibareleri sırasıyla “engelliliğe”, “engelliliğin” ve “engelliliğin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[8] 6/2/2014 tarihli ve 6518 sayılı Kanunun 71 inci maddesiyle bu maddenin başlığı, “Mesleki rehabilitasyon” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[8] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 71 inci maddesiyle bu maddenin başlığı, “Mesleki rehabilitasyon” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[9] Bu madde ile iptal ve ihdas edilen kadrolar için 7/7/2005 tarihli ve 25868 sayılı Resmi Gazete’ye bakınız.</small>
+<small>[9] <i>Bu madde ile iptal ve ihdas edilen kadrolar için 7/7/2005 tarihli ve 25868 sayılı Resmi Gazete’ye bakınız.</i></small>
 
-<small>[10] 4/7/2012 tarihli ve 6353 sayılı Kanunun 34 üncü maddesiyle, bu maddede yer alan “yedi yıl” ibaresi “sekiz yıl” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>4/7/2012 tarihli ve 6353 sayılı Kanunun 34 üncü maddesiyle, bu maddede yer alan “yedi yıl” ibaresi “sekiz yıl” şeklinde değiştirilmiştir.</i></small>
 
-<small>[11] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülerin” ibaresi “engellilerin” şeklinde değiştirilmiştir.</small>
+<small>[11] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülerin” ibaresi “engellilerin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[12] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülerin” ve “özürlüler” ibareleri sırasıyla “engellilerin” ve “engelliler” şeklinde değiştirilmiştir.</small>
+<small>[12] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülerin” ve “özürlüler” ibareleri sırasıyla “engellilerin” ve “engelliler” şeklinde değiştirilmiştir.</i></small>
 
-<small>[13] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülerin” ve “özürlüler” ibareleri sırasıyla “engellilerin” ve “engelliler” şeklinde değiştirilmiştir.</small>
+<small>[13] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlülerin” ve “özürlüler” ibareleri sırasıyla “engellilerin” ve “engelliler” şeklinde değiştirilmiştir.</i></small>
 
-<small>[14] 6/2/2014 tarihli ve 6518 sayılı Kanunun 75 inci maddesiyle, bu fıkrada yer alan “denetimlerinde olan” ibaresinden sonra gelmek üzere “sürücü koltuğu hariç dokuz veya daha fazla koltuğu bulunan araçlarla sağlanan” ibaresi, “sekiz yıl içinde” ibaresinden sonra gelmek üzere “, sürücü koltuğu hariç dokuz ila on altı oturma yeri olan toplu taşıma araçları, yolcu gemileri ile özel ve kamu şehirler arası toplu taşıma araçları ile turizm taşımacılığı yapılan araçlar 7/7/2018 tarihine kadar” ibaresi eklenmiştir.</small>
+<small>[14] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 75 inci maddesiyle, bu fıkrada yer alan “denetimlerinde olan” ibaresinden sonra gelmek üzere “sürücü koltuğu hariç dokuz veya daha fazla koltuğu bulunan araçlarla sağlanan” ibaresi, “sekiz yıl içinde” ibaresinden sonra gelmek üzere “, sürücü koltuğu hariç dokuz ila on altı oturma yeri olan toplu taşıma araçları, yolcu gemileri ile özel ve kamu şehirler arası toplu taşıma araçları ile turizm taşımacılığı yapılan araçlar 7/7/2018 tarihine kadar” ibaresi eklenmiştir.</i></small>
 
-<small>[15] 18/11/2014 tarihli ve 6567 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “toplu taşıma araçları, yolcu gemileri ile özel ve kamu şehirler arası toplu taşıma araçları ile turizm taşımacılığı yapılan araçlar” ibaresi “araçlarla verilen toplu taşıma hizmetleri, turizm taşımacılığı yapılan araçlarla sağlanan taşıma hizmetleri ve özel ve kamu şehirler arası toplu taşıma hizmetleri ile yolcu gemileri” şeklinde değiştirilmiştir.</small>
+<small>[15] <i>18/11/2014 tarihli ve 6567 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “toplu taşıma araçları, yolcu gemileri ile özel ve kamu şehirler arası toplu taşıma araçları ile turizm taşımacılığı yapılan araçlar” ibaresi “araçlarla verilen toplu taşıma hizmetleri, turizm taşımacılığı yapılan araçlarla sağlanan taşıma hizmetleri ve özel ve kamu şehirler arası toplu taşıma hizmetleri ile yolcu gemileri” şeklinde değiştirilmiştir.</i></small>
 
-<small>[16] 18/11/2014 tarihli ve 6567 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “kişilerine” ibaresi “kişileri ve ikinci, üçüncü fıkralar ile beşinci fıkra kapsamında yürürlüğe konulan yönetmelikle öngörülen yükümlülüklerini yerine getirmediği denetim komisyonlarınca tespit edilen gerçek ve özel hukuk tüzel kişilerine” şeklinde, “Sürenin bitiminden” ibaresi “İkinci ve üçüncü fıkrada öngörülen yükümlülüklerini veya geçici 2 ve 3 üncü maddelerde belirtilen sürelerin bitiminden” olarak değiştirilmiştir.</small>
+<small>[16] <i>18/11/2014 tarihli ve 6567 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “kişilerine” ibaresi “kişileri ve ikinci, üçüncü fıkralar ile beşinci fıkra kapsamında yürürlüğe konulan yönetmelikle öngörülen yükümlülüklerini yerine getirmediği denetim komisyonlarınca tespit edilen gerçek ve özel hukuk tüzel kişilerine” şeklinde, “Sürenin bitiminden” ibaresi “İkinci ve üçüncü fıkrada öngörülen yükümlülüklerini veya geçici 2 ve 3 üncü maddelerde belirtilen sürelerin bitiminden” olarak değiştirilmiştir.</i></small>
 
-<small>[17] 6/2/2014 tarihli ve 6518 sayılı Kanunun 75 inci maddesiyle, bu fıkrada yer alan “uygulanmasına ilişkin usul ve esaslar;” ibaresinden sonra gelmek üzere “Bilim, Sanayi ve Teknoloji,” ibaresi eklenmiştir.</small>
+<small>[17] <i>6/2/2014 tarihli ve 6518 sayılı Kanunun 75 inci maddesiyle, bu fıkrada yer alan “uygulanmasına ilişkin usul ve esaslar;” ibaresinden sonra gelmek üzere “Bilim, Sanayi ve Teknoloji,” ibaresi eklenmiştir.</i></small>

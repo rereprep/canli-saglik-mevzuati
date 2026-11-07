@@ -28,7 +28,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -90,9 +90,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Evde Sağlık Hizmetinin Yapılanması ve Yönetimi ile
+**Evde Sağlık Hizmetinin Yapılanması ve Yönetimi ile**
 
-Komisyonların Oluşturulması
+**Komisyonların Oluşturulması**
 
 #### Evde sağlık hizmetinin yapılanması
 
@@ -206,7 +206,7 @@ Komisyonların Oluşturulması
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Evde Sağlık Hizmeti Sunumunun Usul ve Esasları
+**Evde Sağlık Hizmeti Sunumunun Usul ve Esasları**
 
 #### Evde sağlık hastasının belirlenmesi
 
@@ -328,7 +328,7 @@ hallerinde sonlandırılır.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Kayıt Bildirim, Arşiv, Denetim ve Sorumluluk
+**Kayıt Bildirim, Arşiv, Denetim ve Sorumluluk**
 
 #### Kayıt bildirim ve arşiv
 
@@ -352,7 +352,7 @@ Kayıt Bildirim, Arşiv, Denetim ve Sorumluluk
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 

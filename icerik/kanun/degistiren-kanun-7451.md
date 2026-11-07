@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/04/20230410-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN ORGANİZE SANAYİ BÖLGELERİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN ORGANİZE SANAYİ BÖLGELERİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7451 Kabul Tarihi: 4/4/2023
 
 MADDE 1- 9/7/1982 tarihli ve 2690 sayılı Türkiye Atom Enerjisi Kurumunun Muafiyetleri ve Bazı Düzenlemeler Yapılması Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.

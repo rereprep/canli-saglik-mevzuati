@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -72,9 +72,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Engellilik Durum Değerlendirmesi, Engellilik Sağlık Kurulunun Teşkili,
+**Engellilik Durum Değerlendirmesi, Engellilik Sağlık Kurulunun Teşkili,**
 
-Çalışma Usulü ve Yetkilendirilmesi
+**Çalışma Usulü ve Yetkilendirilmesi**
 
 #### Engellilik durum değerlendirmesi
 
@@ -120,11 +120,11 @@ e) Ruh sağlığı ve hastalıkları uzmanı.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Erişkinler İçin Engellilik Sağlık Kurulu Raporu ve Erişkinler İçin Terör,
+**Erişkinler İçin Engellilik Sağlık Kurulu Raporu ve Erişkinler İçin Terör,**
 
-Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu
+**Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu**
 
-Raporunun Düzenlenme Usul ve Esasları
+**Raporunun Düzenlenme Usul ve Esasları**
 
 #### Erişkinler İçin Engellilik Sağlık Kurulu Raporunun düzenleme usulü
 
@@ -164,7 +164,7 @@ j) Rapor başvuru tarihinden itibaren en geç otuz gün içinde tamamlanır.
 
 (3) Bu raporlar Ek-2’de yer alan rapora göre düzenlenir. Raporda, var olan kronik hastalıklara ilişkin fonksiyon kayıpları belirtilmez. Erişkinler İçin Terör, Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu Raporlarında tıbbi tedavi ve rehabilitasyon süreci esnasında süreli, tamamlandıktan sonra sürekli/süreli rapor verilmek üzere fonksiyon kayıplarının değerlendirilmesi yapılır.
 
-Erişkinler İçin Engellilik Sağlık Kurulu Raporu ve Erişkinler İçin Terör, Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu Raporunun düzenleme esasları
+**Erişkinler İçin Engellilik Sağlık Kurulu Raporu ve Erişkinler İçin Terör, Kaza ve Yaralanmaya Bağlı Durum Bildirir Sağlık Kurulu Raporunun düzenleme esasları**
 
 **MADDE 10 –** (1) Bireyin elde edeceği sosyal haklar, hizmetler veya kazanımlar raporlar dikkate alınarak ilgili kurumlarca ayrıca belirlenir. Raporlar, tek başına hakların verilmesi için dayanak teşkil etmez. İlgili mevzuata göre diğer şartların da ayrıca sağlanması zorunludur.
 
@@ -178,7 +178,7 @@ Erişkinler İçin Engellilik Sağlık Kurulu Raporu ve Erişkinler İçin Terö
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Raporların Geçerlilik Süresi ve İtiraz
+**Raporların Geçerlilik Süresi ve İtiraz**
 
 #### Raporların geçerlilik süresi
 
@@ -212,7 +212,7 @@ Raporların Geçerlilik Süresi ve İtiraz
 
 ### BEŞİNCİ BÖLÜM
 
-Diğer Hükümler
+**Diğer Hükümler**
 
 #### Vergi indirimine esas raporlar
 
@@ -280,4 +280,4 @@ d) Engel ikiden fazla ise birinci ve ikinci rahatsızlıkların engel oranı bir
 
 **MADDE 20 –** (1) Bu Yönetmelik hükümlerini Aile, Çalışma ve Sosyal Hizmetler Bakanı ve Sağlık Bakanı müştereken yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

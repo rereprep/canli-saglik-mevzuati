@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
-MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.5.1 numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+MADDE 1- **24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin** 1.5.1 numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(1) 5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (c) bendinin (1), (3) ve (9) numaralı alt bentleri ile aynı maddenin onikinci, onüçüncü ve ondördüncü fıkraları gereği genel sağlık sigortası kapsamına alınan kişilerin, ayakta veya yatarak teşhis ve tedavi hizmeti veren sağlık hizmeti sunucularına müracaatlarında MEDULA sistemi üzerinden müstahaklık sorgulaması yapılır.
 Sorgulama sonucu Kurum bilgisi 60/c-1, 60/c-3 veya 60/c-9 dönen kişiler ile 60 ıncı maddenin onikinci, onüçüncü ve ondördüncü fıkralarında tanımlanan kişilerin müracaat kabul ve sevk işlemleri aşağıdaki şekilde yürütülecektir. Aşağıda belirtilen usul ve esaslara uygun olmayan müracaatlara ilişkin sağlık hizmeti bedelleri Kurumca karşılanmaz.”
 
@@ -35,16 +35,16 @@ e) 5510 sayılı Kanunun 60 ıncı maddesinin onüçüncü ve ondördüncü fık
 MADDE 4- Aynı Tebliğin 1.9.3 numaralı maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “ı) SUT eki EK-2/C Listesindeki P551120, P615895, P615991 ve P703365 kodlu işlemler,”
 
-MADDE 5- Aynı Tebliğin 2.2.2.B-1 numaralı maddesinin birinci fıkrasının (e) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 5- Aynı Tebliğin** 2.2.2.B-1 numaralı maddesinin birinci fıkrasının (e) bendi aşağıdaki şekilde değiştirilmiştir.
 “e) Kan bileşenleri (Ancak kan bileşenlerinin tanıya dayalı işlemler kapsamında kullanılması halinde kan bileşenleri puanlarının; 705371, 705430 ve 705440 kodlu kan bileşenleri için %30’u, 705372 ve 705373 kodlu kan bileşenleri için %18’i, 705441 kodlu kan bileşenleri için %13’ü, 705442 ve 705443 kodlu kan bileşenleri için %22 si sağlık hizmeti sunucusunca ayrıca faturalandırılır. Tüm kan bileşenlerinin MEDULA sistemine kaydedilmesi zorunludur.)”
 
-MADDE 6- Aynı Tebliğin 2.4.1.B numaralı maddesinin birinci fıkrasında yer alan “60/c-1, 60/c-3 veya 60/c-9 bentlerinde sayılan kişiler” ibaresinden sonra gelmek üzere “ile 5510 sayılı Kanunun 60 ıncı maddesinin onikinci, onüçüncü ve ondördüncü fıkraları kapsamında genel sağlık sigortalısı sayılan kişiler” ibaresi eklenmiştir.
+**MADDE 6-** Aynı Tebliğin 2.4.1.B numaralı maddesinin birinci fıkrasında yer alan “60/c-1, 60/c-3 veya 60/c-9 bentlerinde sayılan kişiler” ibaresinden sonra gelmek üzere “ile 5510 sayılı Kanunun 60 ıncı maddesinin onikinci, onüçüncü ve ondördüncü fıkraları kapsamında genel sağlık sigortalısı sayılan kişiler” ibaresi eklenmiştir.
 
-MADDE 7- Aynı Tebliğin 2.4.4.D-1 numaralı maddesinin on birinci fıkrasında yer alan “hastalara daha sık yapılan tetkiklerin tümü” ibaresinden sonra gelmek üzere “ve seans sırasında gelişen komplikasyonların tedavisinde kullanılan ilaçlar ve gündüz yatak ücreti” ibaresi eklenmiştir.
+**MADDE 7-** Aynı Tebliğin **2.4.4.D-1** numaralı maddesinin on birinci fıkrasında yer alan “hastalara daha sık yapılan tetkiklerin tümü” ibaresinden sonra gelmek üzere “ve seans sırasında gelişen komplikasyonların tedavisinde kullanılan ilaçlar ve gündüz yatak ücreti” ibaresi eklenmiştir.
 
-MADDE 8- Aynı Tebliğin 2.4.4.E numaralı maddesinin dördüncü fıkrasında yer alan “15” ibaresinden sonra gelmek üzere “hastaya yapılan” ibaresi eklenmiştir.
+**MADDE 8-** Aynı Tebliğin **2.4.4.E** numaralı maddesinin dördüncü fıkrasında yer alan “15” ibaresinden sonra gelmek üzere “hastaya yapılan” ibaresi eklenmiştir.
 
-MADDE 9- Aynı Tebliğe 2.4.4.K maddesinden sonra gelmek üzere aşağıdaki maddeler eklenmiştir.
+**MADDE 9-** Aynı Tebliğe 2.4.4.K maddesinden sonra gelmek üzere aşağıdaki maddeler eklenmiştir.
 “2.4.4.L – Epidural Girişimler
 (1) P551120, P615895 ve P615991 kodlu işlemler sadece SUT EK-2/C Listesinde belirtilen puanlar üzerinden faturalandırılacaktır. Bu işlemlerin bedelleri algoloji, beyin cerrahisi ve ortopedi ve travmatoloji branş hekimlerince üçüncü basamak sağlık hizmet sunucularında yapılması halinde Kurumca karşılanacaktır.
 (2) Transsakral girişimle kamera eşliğinde lomber Epidural Diskoplasti/Adezyolizis/Nöroplasti amaçlı P551120, P615895 ve P615991 kodlu işlemlerin yapılabilmesi için algoloji, nöroloji, fiziksel tıp ve rehabilitasyon, ortopedi ve travmatoloji ile beyin cerrahi branşlarından herhangi üç uzman hekim tarafından oluşturulan sağlık kurulu raporu düzenlenmesi gerekir.
@@ -58,65 +58,65 @@ b) Daha Önce Spinal Cerrahi Tedavi Uygulanmış Nüks Olgular İçin; yeni nör
 (1) SUT eki EK-2/D-4 Listesinde yer alan işlemlerin, P703365 kodlu “Intraoperatif nöromonitörizasyon” işlemi ile birlikte uygulanması şartıyla SUT’un 2.2.2.B (3) fıkrasında belirtilen kurallar uygulanmaksızın faturalandırılması halinde Kurumca karşılanır.
 (2) İntraoperatif nöromonitörizasyon işleminde; cerrahi işlemi gerçekleştiren hekim ve nöroloji/nörofizyoloji/fizik tedavi ve rehabilitasyon alanında uzmanlık ve/veya yan dal eğitimi almış hekimler tarafından düzenlenecek nöromonitörizasyon kayıt raporunun bir sureti fatura eki belge olarak ibraz edilmelidir.”
 
-MADDE 10- Aynı Tebliğin 2.5.1 numaralı maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 10- Aynı Tebliğin 2.5.1** numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(7) 5510 sayılı Kanunun 60 ıncı maddesinin on ikinci fıkrası kapsamında genel sağlık sigortalısı sayılanlardan özel mevzuatlarında belirtilen usule uygun olarak sürekli veya geçici görevle yurtdışına gönderilenlere acil hal olup olmadığına bakılmaksızın, sağlanan sağlık hizmeti bedelleri, yurt içinde sözleşmeli sağlık hizmeti sunucularına tedavinin yapıldığı tarihte ödenen en yüksek tutarı aşmamak kaydıyla Kurumca karşılanır.”
 
-MADDE 11- Aynı Tebliğin 2.6.1 numaralı maddesinin birinci fıkrasında yer alan “Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin” ibaresinden önce gelmek üzere “5510 sayılı Kanunun 60 ıncı maddesinin onikinci, onüçüncü ve ondördüncü fıkralarında sayılan kişiler hariç” ibaresi eklenmiştir.
+**MADDE 11- Aynı Tebliğin 2.6.1** numaralı maddesinin birinci fıkrasında yer alan “Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin” ibaresinden önce gelmek üzere “5510 sayılı Kanunun 60 ıncı maddesinin onikinci, onüçüncü ve ondördüncü fıkralarında sayılan kişiler hariç” ibaresi eklenmiştir.
 
-MADDE 12- Aynı Tebliğin 3.1.2. numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 12- Aynı Tebliğin 3.1.2. numaralı** maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Beşinci fıkrasının (a) bendinde yer alan “çocuk alt bezi” ibaresi “çocuk hasta alt bezi/ çocuk külotlu hasta alt bezi” şeklinde değiştirilmiştir.
 b) Onyedinci fıkrasının (a), (b) ve (c) bentleri yürürlükten kaldırılmıştır.
 
-MADDE 13- Aynı Tebliğin 3.1.3 numaralı maddesinin ikinci fıkrasında yer alan “Aşağıda tanımlı” ibaresi “Kurum tarafından SUT eki listelerde yer almayan tıbbi malzemeler için yapılacak sözleşme ve/veya protokol yapılarak bedeli karşılanan tıbbi malzemeler hariç olmak üzere aşağıda tanımlı” şeklinde değiştirilmiştir.
+**MADDE 13**- Aynı Tebliğin 3.1.3 numaralı maddesinin ikinci fıkrasında yer alan “Aşağıda tanımlı” ibaresi “Kurum tarafından SUT eki listelerde yer almayan tıbbi malzemeler için yapılacak sözleşme ve/veya protokol yapılarak bedeli karşılanan tıbbi malzemeler hariç olmak üzere aşağıda tanımlı” şeklinde değiştirilmiştir.
 
 MADDE 14- Aynı Tebliğin 3.1.4 numaralı maddesinin ikinci fıkrasının (n) bendi yürürlükten kaldırılmıştır.
 
-MADDE 15- Aynı Tebliğin 3.2.1.A numaralı maddesinin birinci fıkrasına aşağıdaki cümle eklenmiştir.
+**MADDE 15-** Aynı Tebliğin 3.2.1.A numaralı maddesinin birinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Kurum tarafından SUT eki listelerde yer almayan tıbbi malzemeler için sözleşme ve/veya protokol yapılarak bedeli karşılanan tıbbi malzemelerin geri ödemede esas alınacak fiyatları ise sözleşme ve/veya protokollerde belirtilen fiyatlar olup; sözleşme ve/veya protokollerde yer alan bu fiyatları aşmamak üzere Kuruma fatura edilir.”
 
-MADDE 16- Aynı Tebliğin 3.3.1 numaralı maddesinin onuncu fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 16-** Aynı Tebliğin 3.3.1 numaralı maddesinin onuncu fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(10)Aşağıdaki deri taklitleri (yedekleri) sadece yanık tedavisinde kullanılması halinde ödenir.
 a) Dermis iskeleti:Dermis iskeleti (yeni dermis oluşumu için iskelet görevi gören ve içine hücre göçüne izin veren sentetik/ hayvan kaynaklı yapılar) görevi görebilen, tek veya çok katmanlı, fakat sadece dermisin tam kat hasar gördüğü üçüncü derece yanık bölgelerinin tedavisinde kullanılabilen deri taklitlerinin (yedekleri) bedeli yüz, boyun, el, ayak, perine, eklem, sadece kız çocuklarında ve kadınlarda meme alanlarını içeren yanıklarda veya %40’ı (0-12 yaş için %20) geçen üçüncü derece yanıklarda üçüncü basamak resmi sağlık kurumlarında sağlık kurulu raporu ile kullanımı halinde Kurumca karşılanır.
 b) Deri benzerleri:Dermis iskeleti görevi göremeyen, bununla birlikte en az derin ikinci derece yanıkların tedavisinde, sahip oldukları fiziksel veya moleküler özellikler sayesinde epidermisin ve kısmen dermisin özelliklerini taklit ederek yarayı enfeksiyon, kontaminasyon gibi dış etkenlerden koruyan sentetik/hayvan kaynaklı, emilebilen veya yaradan kendiliğinden ayrılabilen deri taklitlerinin (yedekleri) bedeli yüz, boyun, el, ayak, perine, eklem, sadece kız çocuklarında ve kadınlarda meme alanlarını içeren yanıklarda veya %40’ı (0-12 yaş için %20) geçen derin ikinci derece ve/veya üçüncü derece yanıklarda yanık ünite/merkez ve/veya üçüncü basamak resmi sağlık kurumlarında sağlık kurulu raporu ile kullanımı halinde Kurumca karşılanır.”
 
-MADDE 17- Aynı Tebliğin 3.3.30 numaralı maddesi yürürlükten kaldırılmıştır.
+**MADDE 17-** Aynı Tebliğin 3.3.30 numaralı maddesi yürürlükten kaldırılmıştır.
 
-MADDE 18- Aynı Tebliğin 4.2.13.3.2 numaralı maddesinin üçüncü fıkrasında yer alan “3” ibaresi “1” şeklinde değiştirilmiştir.
+<i>MADDE 18- Aynı Tebliğin 4.2.13.3.2 numaralı maddesinin üçüncü fıkrasında yer alan “3” ibaresi “1” şeklinde değiştirilmiştir.</i>
 
-MADDE 19- Aynı Tebliğin 4.2.13.3.2.A.1 numaralı maddesinin birinci fıkrasının (b) bendinin (1) ve (2) numaralı alt bentleri aşağıdaki şekilde değiştirilmiştir.
-“1-Genotip 1a ve Genotip 1b (Child A, B veya C) : (Sofosbuvir+Ledipasvir) + Ribavirin ile tedavi süresi toplam 12 haftadır.
-2- Genotip 1a ve Genotip 1b (Child A, B veya C) : Sofosbuvir+Ledipasvir ile tedavi süresi toplam 24 haftadır.”
+<i>MADDE 19- Aynı Tebliğin 4.2.13.3.2.A.1 numaralı maddesinin birinci fıkrasının (b) bendinin (1) ve (2) numaralı alt bentleri aşağıdaki şekilde değiştirilmiştir.</i>
+“1-Genotip 1a ve Genotip 1b (Child A<i>, B veya C) : (Sofosbuvir+Ledipasvir) + Ribavirin ile tedavi süresi</i> toplam 12 haftadır.
+<i>2- Genotip 1a ve Genotip 1b (Child A, B veya C) : Sofosbuvir+Ledipasvir ile tedavi süresi toplam 24 haftadır.”</i>
 
-MADDE 20- Aynı Tebliğin 4.2.14.C numaralı maddesinin üçüncü fıkrasının (z) bendinin başlığı ile aynı bendin (1) ve
-(4) numaralı alt bentleri aşağıdaki şekilde değiştirilmiştir.
+**MADDE 20- Aynı Tebliğin** <i>4.2.14.C numaralı maddesinin üçüncü fıkrasının (z) bendinin başlığı ile aynı bendin (1) ve</i>
+<i>(4) numaralı alt bentleri aşağıdaki şekilde değiştirilmiştir.</i>
 “z) Dabrafenib, dabrafenib+trametinib, vemurafenib, vemurafenib+kobimetinib;
 “1) Daha önce herhangi bir RAF yolağı inhibitörü kullanmamış ve ECOG performans skoru 0 veya 1 olan ve BRAF V600 mutasyonu pozitif olan aşağıda belirtilen hasta gruplarında tek ajan (dabrafenib+trametinib kombine tedavisi ile vemurafenib+kobimetinib kombine tedavisi tek ajan olarak kabul edilecektir.)olarak progresyona kadar kullanılabilir.”
 “4) Bu ilaçlar ardışık ya da kombine olarak (dabrafenib+trametinib kombine tedavisi ile vemurafenib+kobimetinib kombine tedavisi hariç) kullanılamaz.”
 
-MADDE 21- Aynı Tebliğin 4.2.34 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
-a) Maddenin başlığı aşağıdaki şekilde değiştirilmiştir.
-“4.2.34 - Multipl Skleroz Hastalığında beta interferon, glatiramer asetat, teriflunomid, dimetil fumarat, fingolimod, natalizumab, alemtuzumab ve fampiridin kullanım ilkeleri ”
-b) Maddenin (1) ve (4) numaralı fıkraları aşağıdaki şekilde değiştirilmiştir.
-“(1) Beta interferon, teriflunomid, dimetil fumarat ve glatiramer asetat (copolymer-l); disabilite skorunun (E.D.S.S.) 0-5,5 arasında ve olguların remitting-relapsing türü olması şartlarının birlikte gerçekleşmesi, bu durumun üçüncü basamak sağlık kurumlarında nöroloji uzman hekimi tarafından düzenlenen uzman hekim raporunda belirtilmesi koşuluyla nöroloji uzman hekimleri tarafından reçete edilir.
-“(4) Alemtuzumab, yukarıdaki fıkralarda yer alan ilaçlara ilişkin hükümler doğrultusunda tedaviye yanıt vermeyen veya sonlandırma kriterleri oluşmuş yüksek derecede aktif relapsing remitting multipl skleroz hastalarında üçüncü basamak tedavi olarak üçüncü basamak sağlık kurumlarında bu durumların belirtildiği ve nöroloji uzman hekiminin yer aldığı 6 aylık sağlık kurulu raporuna dayanılarak nöroloji uzman hekimleri tarafından reçete edilir.”
-c) Maddeye aşağıdaki fıkralar eklenmiştir.
-“(5) Fampiridin; disabilite skoru (E.D.S.S.) 4 ve üzeri olan ve 25 adım yürüme testine göre ilacı kullanması hekim tarafından gerekli görülen relapsing remitting multipl skleroz hastalarında tedaviye başlanır, EDSS skoru 7 üzeri olan hastalarda tedavi sonlandırılır. Üçüncü basamak sağlık kurumlarında bu durumların belirtildiği nöroloji uzman hekiminin yer aldığı 6 ay süreli sağlık kurulu raporuna dayanılarak nöroloji uzman hekimleri tarafından reçete edilir.”
-“(6) Bu ilaçlar klinik izole sendrom endikasyonunda ödenmez.”
+**MADDE 21- Aynı Tebliğin 4.2.34 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.**
+**a) Maddenin başlığı aşağıdaki şekilde değiştirilmiştir.**
+**“4.2.34 - Multipl Skleroz Hastalığında beta interferon, glatiramer asetat, teriflunomid, dimetil fumarat, fingolimod, natalizumab, alemtuzumab <i>ve fampiridin</i> kullanım ilkeleri ”**
+**b) Maddenin (1) ve (4) numaralı fıkraları aşağıdaki şekilde değiştirilmiştir.**
+**“(1) Beta interferon, teriflunomid, dimetil fumarat ve glatiramer asetat (copolymer-l); disabilite skorunun (E.D.S.S.) 0-5,5 arasında ve olguların remitting-relapsing türü olması şartlarının birlikte gerçekleşmesi, bu durumun üçüncü basamak sağlık kurumlarında nöroloji uzman hekimi tarafından düzenlenen uzman hekim raporunda belirtilmesi koşuluyla nöroloji uzman hekimleri tarafından reçete edilir.**
+<i>“(4) Alemtuzumab, yukarıdaki fıkralarda yer alan ilaçlara ilişkin hükümler doğrultusunda tedaviye yanıt vermeyen veya sonlandırma kriterleri oluşmuş yüksek derecede aktif relapsing remitting multipl skleroz hastalarında üçüncü basamak tedavi olarak üçüncü basamak sağlık kurumlarında bu durumların belirtildiği ve nöroloji uzman hekiminin yer aldığı 6 aylık sağlık kurulu raporuna dayanılarak nöroloji uzman hekimleri tarafından reçete edilir.”</i>
+c**) Maddeye aşağıdaki fıkralar eklenmiştir.**
+<i>“(5) Fampiridin; disabilite skoru (E.D.S.S.) 4 ve üzeri olan ve 25 adım yürüme testine göre ilacı kullanması hekim tarafından gerekli görülen relapsing remitting multipl skleroz hastalarında tedaviye başlanır, EDSS skoru 7 üzeri olan hastalarda tedavi sonlandırılır. Üçüncü basamak sağlık kurumlarında bu durumların belirtildiği nöroloji uzman hekiminin yer aldığı 6 ay süreli sağlık kurulu raporuna dayanılarak nöroloji uzman hekimleri tarafından reçete edilir.”</i>
+“(6) **Bu ilaçlar klinik izole sendrom endikasyonunda ödenmez.”**
 
-MADDE 22- Aynı tebliğin 4.2.47 numaralı maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
-“4.2.48 – 3 beta hidroksi steroid dehidrojenaz eksikliği tanısında kolik asit kullanım ilkeleri;
-(1) Yalnızca 3 beta hidroksi steroid dehidrojenaz eksikliği tanısında; üçüncü basamak sağlık kurumlarında çocuk endokrinoloji, çocuk metabolizma hastalıkları, erişkin endokrinoloji ve metabolizma hastalıkları, gastroenteroloji uzman hekimlerinden en az birinin yer aldığı 3 ay süreli sağlık kurulu raporuna dayanılarak bu uzman hekimlerce reçetelenir.”
+**MADDE 22- Aynı tebliğin 4.2.47 numaralı maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.**
+**“4.2.48 – 3 beta hidroksi steroid dehidrojenaz eksikliği tanısında kolik asit kullanım ilkeleri;**
+**(1) Yalnızca 3 beta hidroksi steroid dehidrojenaz eksikliği tanısında; üçüncü basamak sağlık kurumlarında çocuk endokrinoloji, çocuk metabolizma hastalıkları, erişkin endokrinoloji ve metabolizma hastalıkları, gastroenteroloji uzman hekimlerinden en az birinin yer aldığı 3 ay süreli sağlık kurulu raporuna dayanılarak bu uzman hekimlerce reçetelenir.”**
 
-MADDE 23- Aynı Tebliğin 4.6 numaralı maddesinin dördüncü fıkrasında yer alan “kan bileşenlerinin puanının %30’u,” ibaresinden sonra gelmek üzere “,705372 ve 705373 kodlu kan bileşenlerinin kullanılması halinde %18’i, 705441 kodlu kan bileşenin kullanılması halinde %13’ü, 705442 ve 705443 kodlu kan bileşenlerinin kullanılması halinde ise %22’ si” ibaresi eklenmiştir.
+**MADDE 23-** Aynı Tebliğin 4.6 numaralı maddesinin dördüncü fıkrasında yer alan “kan bileşenlerinin puanının %30’u,” ibaresinden sonra gelmek üzere “,705372 ve 705373 kodlu kan bileşenlerinin kullanılması halinde %18’i, 705441 kodlu kan bileşenin kullanılması halinde %13’ü, 705442 ve 705443 kodlu kan bileşenlerinin kullanılması halinde ise %22’ si” ibaresi eklenmiştir.
 
-MADDE 24- Aynı Tebliğin 5.3.4 numaralı maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 24- Aynı Tebliğin 5.3.4 numaralı maddesine aşağıdaki fıkra eklenmiştir.**
 “ (6) Sağlık Bakanlığı ile yapılan protokol kapsamında Sağlık Bakanlığı tarafından iadeli tıbbi cihazlar ile verilen sağlık hizmetleri karşılığında hizmet ve/veya cihaz bedeli ödenir.”
 
-MADDE 25- Aynı Tebliğ eki EK-2/A Listesine “4800 kodlu Aile Hekimliği” branşından sonra gelmek üzere aşağıdaki branş satırı eklenmiştir.
+**MADDE 25-** Aynı Tebliğ eki EK-2/A Listesine “4800 kodlu Aile Hekimliği” branşından sonra gelmek üzere aşağıdaki branş satırı eklenmiştir.
 “ 3100 Anesteziyoloji ve Reanimasyon ”
 
-MADDE 26- Aynı Tebliğ eki Hizmet Başı İşlem Puan Listesi (EK-2/B)’nde aşağıdaki düzenlemeler yapılmıştır.
-a) Listede yer alan “607931” SUT kodlu işlem satırı yürürlükten kaldırılmıştır.
+**MADDE 26- Aynı Tebliğ eki Hizmet Başı İşlem Puan Listesi (EK-2/B)’nde aşağıdaki düzenlemeler yapılmıştır.**
+a) Listede yer alan “607931**” SUT kodlu işlem satırı yürürlükten kaldırılmıştır.**
 b) Listede yer alan “551120” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
 “ 551120 Epiduroskopi nöroplasti-adezyonolizis Yılda en fazla iki işlem bedeli Kurumca karşılanır. 2.4.4.L maddesine bakınız.
 300,17 ”
@@ -136,7 +136,7 @@ e) Listede yer alan “702430” SUT kodlu işlem satırı aşağıdaki şekilde
 f) Listede yer alan “705240” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
 “ 3379 705240 Donör muayenesi 705370, 705371, 705420, 705430, 705440 ile birlikte faturalandırılmaz.
 5,06 ”
-g) Listede yer alan “705280” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**g) Listede yer alan “705280” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3383 705280 Hemoglobin küveti ile otomatik sistemde hemoglobin tayini 705370, 705371, 705420, 705430, 705440 ile birlikte faturalandırılmaz.
 2,87 ”
 ğ) Listede yer alan “705350” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
@@ -146,80 +146,80 @@ h) Listede yer alan “802755” SUT kodlu işlem satırı aşağıdaki şekilde
 607910 ile birlikte faturalandırılmaz.
 300,00 ”
 ı) Listede yer alan “7.5 Fizik Tedavi ve Rehabilitasyon” başlıklı işlem satırı aşağıdaki şekilde değiştirilmiştir.
-“ 2971 7.5.FİZİK
-TEDAVİ VE REHABİLİTASYON
+“ **2971 7.5.FİZİK**
+**TEDAVİ VE REHABİLİTASYON**
 Bu başlık altındaki işlemler aksi belirtilmedikçe yalnızca Fiziksel Tıp ve Rehabilitasyon uzman hekimince uygulandığında faturalandırılır.
-i) Listeye “607931” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırları eklenmiştir.
+**i) Listeye “607931” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırları eklenmiştir.**
 “ 607932 Vena safena magna ve /veya parvanın endovenöz ablasyonu RF 300,00 607933 Vena safena magna ve /veya parvanın endovenöz ablasyonu lazer 300,00 607934 Vena safena magna ve /veya parvanın endovenöz ablasyonu buhar 300,00 ”
-j) Listeye “705350” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı eklenmiştir.
+**j) Listeye “705350” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı eklenmiştir.**
 “ 705351 Tek donörden çift aferez trombosit süspansiyonu, tek ünite Aferez işlemi ve tüm malzemeler dahil 352,45 ”
-k) Listeye “705371” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırları eklenmiştir.
+**k) Listeye “705371” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırları eklenmiştir.**
 “ 705372 Pediatrik eritrosit süspansiyonu, üçlü transfer torba ile hazırlanan, tek ünite 705130, 705140, 905090, 906290, 906610, 906620, 906630, 906640, 906660, 906670, 906680, 906690, 907430, 907440, 907450, 907460, 907470, 907480, 907590, 907600, 907610, 705240, 705280 işlemleri ve tüm malzemeler dahil.
 182,91 705373 Pediatrik eritrosit süspansiyonu, dörtlü transfer torba ile hazırlanan, tek ünite 705130, 705140, 905090, 906290, 906610, 906620, 906630, 906640, 906660, 906670, 906680, 906690, 907430, 907440, 907450, 907460, 907470, 907480, 907590, 907600, 907610, 705240, 705280 işlemleri ve tüm malzemeler dahil.
 154,97 ”
-l) Listeye “705440” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırları eklenmiştir.
+**l) Listeye “705440” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırları eklenmiştir.**
 “ 705441 Random trombosit süspansiyonu filtrelenmiş (pediatrik) Tüm malzemeler dahil 240,79 705442 Havuzlanmış trombosit süspansiyonu, dörtlü 705130, 705140, 905090, 906290, 906610, 906620, 906630, 906640, 906660, 906670, 906680, 906690, 907430, 907440 ve tüm malzemeler dahil 583,74 705443 Havuzlanmış trombosit süspansiyonu, altılı 705130, 705140, 905090, 906290, 906610, 906620, 906630, 906640, 906660, 906670, 906680, 906690, 907430, 907440 ve tüm malzemeler dahil 821,15 ”
-m) Listeye “802755” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı eklenmiştir.
+**m) Listeye “802755” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı eklenmiştir.**
 “ 802756 Periferik damar embolizasyonu (vena safena magna/parva) Tüm seanslar dahil. 607910 ile birlikte faturalandırılmaz.
 300,00 ”
 
-MADDE 27- Aynı Tebliğ eki Tanıya Dayalı İşlem Puan Listesi (EK-2/C)’nde aşağıdaki düzenlemeler yapılmıştır.
-a) Listeye “P551110” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı eklenmiştir.
+**MADDE 27- Aynı Tebliğ eki** Tanıya Dayalı İşlem Puan Listesi (EK-2/C)’**nde aşağıdaki düzenlemeler yapılmıştır.**
+**a) Listeye “P551110” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı eklenmiştir.**
 “ P551120 Epiduroskopi nöroplasti-adezyonolizis Yılda en fazla iki işlem bedeli Kurumca karşılanır. Tüm malzemeler dahil.
 2.4.4.L maddesine bakınız.
 C
 * 2.842,00 ”
-b) Listeye “P615890” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı yeniden düzenlenerek eklenmiştir.
+**b) Listeye “P615890” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı yeniden düzenlenerek eklenmiştir.**
 “ P615895 Transsakral girişimle kamera eşliğinde lomber epidural diskoplasti Yılda en fazla iki işlem bedeli Kurumca karşılanır. Tüm malzemeler dahil.
 2.4.4.L maddesine bakınız.
 C
 * 3.300,00 ”
-c) Listeye “P615990” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı eklenmiştir.
+**c) Listeye “P615990” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem satırı eklenmiştir.**
 “ P615991 Transsakral girişimle kamera eşliğinde lomber epidural adezyolizis Yılda en fazla iki işlem bedeli Kurumca karşılanır. Tüm malzemeler dahil.
 2.4.4.L maddesine bakınız.
 C
 * 3.300,00 ”
-ç) Listeye “P702591” SUT kodlu işlemden sonra gelmek üzere aşağıdaki başlık ve işlem satırı eklenmiştir.
-“ Uyarılmış Potansiyeller (UP) P703365 Intraoperatif nöromonitörizasyon Sadece EK-2/D-4 Listesinde yer alan işlemlerde ayrıca faturalandırılır. Kayıt çıktılarının bir sureti ile cerrahi işlemi gerçekleştiren hekim ve nöroloji/nörofizyoloji/fizik tedavi ve rehabilitasyon alanında uzmanlık ve/veya yan dal eğitimi almış hekimler tarafından düzenlenecek nöromonitörizasyon kayıt raporunun bir sureti fatura eki belge olarak ibraz edilmelidir.
+**ç) Listeye “P702591” SUT kodlu işlemden sonra gelmek üzere aşağıdaki başlık ve işlem satırı eklenmiştir.**
+“ **Uyarılmış Potansiyeller (UP)** P703365 **Intraoperatif nöromonitörizasyon** Sadece EK-2/D-4 Listesinde yer alan işlemlerde ayrıca faturalandırılır. Kayıt çıktılarının bir sureti ile cerrahi işlemi gerçekleştiren hekim ve nöroloji/nörofizyoloji/fizik tedavi ve rehabilitasyon alanında uzmanlık ve/veya yan dal eğitimi almış hekimler tarafından düzenlenecek nöromonitörizasyon kayıt raporunun bir sureti fatura eki belge olarak ibraz edilmelidir.
 2.4.4.M maddesine bakınız.
 C
 * 4.000,00 ”
 d) Listeye “P802720” SUT kodlu işlemden sonra gelmek üzere aşağıdaki başlık ve işlem satırı eklenmiştir.
-“ Vasküler girişimsel radyolojik tedavi işlemleri P802756 Periferik damar embolizasyonu (vena safena magna/parva) Tüm malzemeler, tüm seanslar dahil. Bu işlemde kullanılan malzemelerin kullanım kriterleri işlem için de geçerlidir. P607910 ile birlikte faturalandırılmaz.
+“ **Vasküler** girişimsel radyolojik tedavi işlemleri P802756 Periferik damar embolizasyonu (vena safena magna/parva) Tüm malzemeler, tüm seanslar dahil. Bu işlemde kullanılan malzemelerin kullanım kriterleri işlem için de geçerlidir. P607910 ile birlikte faturalandırılmaz.
 C
 * 3.000,00 ”
-e) Listede yer alan “P601620” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**e) Listede yer alan “P601620” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ P601620 Septoplasti P601330, P601450, P601460, P601510, P602290, P602230, P602240 ile birlikte faturalandırılmaz.
 C
 * 707,42 ”
-f) Listede yer alan “P602290” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**f) Listede yer alan “P602290” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ P602290 Endoskopik septoplasti P601330, P601450, P601460, P601510, P601620, P602230, P602240 ile birlikte faturalandırılmaz C 793,25 ”
-g) Listede yer alan “P618200” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**g) Listede yer alan “P618200” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 1887 P618200 Koklear implant yerleştirilmesi P618021, P618090, P618100, P618201, P618202, P618203, P618250, P618340, P618410 ile birlikte faturalandırılmaz. Üçüncü basamak sağlık kurumlarınca faturalandırılır. Koklear implant ve seti dahil.
 Bir hasta için ömrü boyunca her bir taraf için bir defa faturalandırılır.Bu kod faturalandırılan hastalara P618207 kodu ömür boyunca faturalandırılmaz.
 A3 * 46.000,00 ”
-ğ) Listede yer alan “E-Nonvasküler girişimsel radyolojik tedaviler” başlıklı işlem satırı aşağıdaki şekilde değiştirilmiştir.
+ğ) Listede yer alan “E-**Nonvasküler girişimsel radyolojik tedaviler**” başlıklı işlem satırı aşağıdaki şekilde değiştirilmiştir.
 “ Nonvasküler girişimsel radyolojik tedaviler ”
 h) Listede yer alan “Kemik İliği Nakilleri” başlıklı işlem satırı aşağıdaki şekilde değiştirilmiştir.
-“ 2410 Kemik İliği Nakilleri Kemik iliği bankalarından temin edilen kemik iliği/ kordon kanı bedelleri hariç olmak üzere kemik iliği paket fiyatlarına aynı sağlık hizmeti sunucusunda yapılan her türlü tetkik, tahlil, işlem, kan ve kan bileşenleri, tıbbi malzeme, ilaç (şahsi tedavi için yurtdışından getirtilen ilaçlar hariç) ve komplikasyon tedavisine ilişkin ücretler dahildir.
+“ **2410 Kemik İliği Nakilleri** Kemik iliği bankalarından temin edilen kemik iliği/ kordon kanı bedelleri hariç olmak üzere kemik iliği paket fiyatlarına aynı sağlık hizmeti sunucusunda yapılan her türlü tetkik, tahlil, işlem, kan ve kan bileşenleri, tıbbi malzeme, ilaç (şahsi tedavi için yurtdışından getirtilen ilaçlar hariç) ve komplikasyon tedavisine ilişkin ücretler dahildir.
 Paket fiyat, allojenik nakil öncesi 15 günü ve nakil sonrası 90 günü, diğer nakillerde nakil öncesi 15 günü ve nakil sonrası 60 günü kapsar.
 ”
 
-MADDE 28- Aynı Tebliğ eki Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi (EK 3/A)’nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 28-** Aynı Tebliğ eki Birden Fazla Branşta Kullanılan Tıbbi Malzemeler Listesi (EK 3/A)’nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “DERİ EŞDEĞERLERİ (SENTETİK/HAYVAN KAYNAKLI)” başlığı ve başlığın altında yer alan ödeme kural ve/veya kriterleri ile “OR4690” “OR4800” “OR4810” SUT kodlu tıbbi malzemeler yürürlükten kaldırılmıştır.
 b) Listeye “OR4685” SUT kodlu tıbbi malzemeden sonra gelmek üzere aşağıdaki başlık ve tıbbi malzemeler eklenmiştir.
-“ DERİ TAKLİTLERİ (YEDEKLERİ) TL/CM² SUT’un 3.3.1 (10) numaralı maddesine bakınız.
+“ DERİ TAKLİTLERİ (YEDEKLERİ) **TL/CM²** SUT’un 3.3.1 (10) numaralı maddesine bakınız.
 DERMİS İSKELETLERİ
-OR4591 Dermis İskeleti 0-224 cm2 15 TL/cm2 OR4593 Dermis İskeleti > 224 cm2 12 TL/cm2 DERİ
+OR4591 Dermis İskeleti 0-224 cm2 15 **TL/cm2** OR4593 Dermis İskeleti > 224 cm2 12 **TL/cm2** DERİ
 BENZERLERİ
 OR4595 Deri Benzeri, Hayvan Kaynaklı 1,96 TL /cm2 OR4597 Deri Benzeri, Sentetik/Sentetik+Hayvan Kaynaklı 2,72 TL/cm2 ”
 c) Listede yer alan “OR3270” SUT kodlu tıbbi malzeme satırı aşağıdaki şekilde değiştirilmiştir.
 “ OR3270 Endoskopik/laparoskopik cerrahi damar kapama ve kesme probu 1.340,00 ”
 
 MADDE 29- Aynı Tebliğ eki Eksternal Alt ve Üst Ekstremite/Gövde Protez Ortezler Listesi (Ek-3/C-2)’nde yer alan aşağıdaki tıbbi malzemelerin fiyatları yeniden belirlenmiştir.
-“ SUT KODU
-TIBBİ MALZEME ALAN TANIMI
-FİYAT (TL) OP1000 ALÜMİNYUM KOLTUK DEĞNEĞİ (ADET FİYATIDIR) 10,00 OP1011 CANADİAN (ALÜMİNYUM, ADEDİ) 10,00 OP1012
+“ **SUT KODU**
+**TIBBİ MALZEME ALAN TANIMI**
+**FİYAT (TL)** OP1000 ALÜMİNYUM KOLTUK DEĞNEĞİ (ADET FİYATIDIR) 10,00 OP1011 CANADİAN (ALÜMİNYUM, ADEDİ) 10,00 OP1012
 YAN BARLI, AYARLANABİLİR EKLEMLİ DİZ ORTEZİ
 200,00 OP1015
 DENİS BROWNE ORTEZİ
@@ -252,8 +252,8 @@ HAVALI YATAK
 150,00 ”
 
 MADDE 30- Aynı Tebliğ eki Diğer Protez ve Ortezler Listesi (Ek-3/C-3)’nde yer alan aşağıdaki tıbbi malzemelerin fiyatları yeniden belirlenmiştir.
-“ SUT KODU
-TIBBİ MALZEME ALAN TANIMI FİYAT
+“ **SUT KODU**
+**TIBBİ MALZEME ALAN TANIMI FİYAT**
 (TL) DO1001 VARİS ÇORABI (ÇİFT) 45,50 DO1006
 KONUŞMA CİHAZI
 780,00 DO1007
@@ -292,8 +292,8 @@ a) 0-5 yaş için yılda 5 (beş) adet,
 b) 5-10 yaş için yılda 3 (üç) adet,
 c) 10 yaş ve üzeri için yılda 2 (iki) adet olmak üzere, Kulak Burun Boğaz hastalıkları uzman hekiminin düzenleyeceği tek hekim raporuna istinaden Kurumca bedelleri karşılanır.”
 c) Aynı listede yer alan aşağıdaki tıbbi malzemelerin fiyatları yeniden belirlenmiştir.
-“ SUT KODU
-TIBBİ MALZEME ALAN TANIMI FİYATI
+“ **SUT KODU**
+**TIBBİ MALZEME ALAN TANIMI FİYATI**
 (TL) A10088
 FENESTRELİ
 275,00 A10019
@@ -352,7 +352,7 @@ d) Listede yer alan “A10049” SUT kodlu tıbbi malzemenin ödeme kural ve/vey
 (5) Sağlık raporunda; kolostomili hastalarda idrar inkontinansı, ürostomili hastalarda gaita inkontinansı olduğunun belirtilmesi halinde çocuk hasta alt bezinin/ çocuk külotlu hasta alt bezinin Kurumca bedeli karşılanır.
 ”
 
-MADDE 32- Aynı Tebliğ eki Omurga Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler Listesi (EK-3/E-1)’nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 32-** Aynı Tebliğ eki Omurga Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler Listesi (EK-3/E-1)’nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “103065” SUT kodlu tıbbi malzemenin altında bulunan ödeme kural ve/veya kriterleri yürürlükten kaldırılmış ve fiyat sütununda yer alan “3.500,00” ibaresi “İşlem puanına dahildir.” şeklinde değiştirilmiştir.
 b) Listede yer alan “103070” SUT kodlu tıbbi malzemenin altında bulunan ödeme kural ve/veya kriterleri yürürlükten kaldırılmış ve fiyat sütununda yer alan “1.900,00” ibaresi “İşlem puanına dahildir.” şeklinde değiştirilmiştir.
 c) Listede yer alan “103096” ve “103097” SUT kodlu tıbbi malzemelerin fiyat sütunlarında yer alan “1.000,00” ibareleri “ İşlem puanına dahildir.” şeklinde değiştirilmiştir.
@@ -378,7 +378,7 @@ MADDE 34- Aynı Tebliğ eki Ortopedi ve Travmatoloji Branşı Artroplasti Alan G
 REVİZYON ULTRASONİK CERRAHİ UÇ ÇİMENTO TEMİZLEYİCİ
 1.550,50 ”
 
-MADDE 35- Aynı Tebliğ eki Kardiyoloji Branşına Ait Tıbbi Malzemeler Listesi (EK-3/H) ’nde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 35-** Aynı Tebliğ eki Kardiyoloji Branşına Ait Tıbbi Malzemeler Listesi (EK-3/H) ’nde aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “KR1153” ve “KR2014” SUT kodlu tıbbi malzemeler altlarında yer alan ödeme kural ve/veya kriterleri ile birlikte yürürlükten kaldırılmıştır.
 b) Listede yer alan “KR1152” SUT kodlu tıbbi malzemenin altında yer alan ödeme kural ve/veya kriterlerinden sonra gelmek üzere aşağıdaki tıbbi malzemeler eklenmiştir.
 “ KR3002
@@ -503,7 +503,7 @@ YALNIZ TENDON Tüm boy ve kalınlıklar 3780,00 AG2690
 FEMORAL BAŞ,
 KIKIRDAKSIZ Tüm boy ve kalınlıklar 4095,00 AG3010 DBM, JEL/PUTTY/PASTE 3,1-5,0 cc 1354,50 ”
 
-MADDE 39- Aynı Tebliğ eki Gastroenteroloji Branşına Ait Tıbbi Malzemeler Listesi (Ek-3/R)’nde yer alan aşağıdaki tıbbi malzemelerin fiyatları yeniden belirlenmiştir.
+**MADDE 39-** Aynı Tebliğ eki Gastroenteroloji Branşına Ait Tıbbi Malzemeler Listesi (Ek-3/R)’nde yer alan aşağıdaki tıbbi malzemelerin fiyatları yeniden belirlenmiştir.
 “ GS2260
 SİFİNKTEROTOM STANDART
 190,00 GS2270
@@ -546,13 +546,13 @@ c) Listede yer alan “AN1260” SUT kodlu “DİSPOSABLE EKSTERNAL SOĞUTMA PED
 ç) Listede yer alan “AN1270” SUT kodlu “DİSPOSABLE EKSTERNAL SOĞUTMA PEDLERİ (YENİDOĞAN)” adlı tıbbi malzemenin fiyat satırında yer alan “1.100,00” ibaresi “650,00” şeklinde değiştirilmiştir.
 d) Listede yer alan “AN1350” SUT kodlu “SPİNAL/EPİDURAL KALICI PORT KATETER SETİ” adlı tıbbi tıbbi malzemenin fiyat satırında yer alan “300,00” ibaresi “700,00” şeklinde değiştirilmiştir.
 
-MADDE 42- Bu Tebliğin;
-a) 36 ncı maddenin (a) bendi ile 37 nci maddenin (a) bendi 14/7/ 2016 tarihinden geçerli olmak üzere yayımı tarihinde,
-b) 12 nci maddenin (b) bendi 11/2/2017 tarihinden geçerli olmak üzere yayımı tarihinde,
-c) 1ila 3, 6,10,11 inci maddeleri 1/3/2017 tarihinden geçerli olmak üzere yayımı tarihinde,
-ç) 12 nci maddenin (a) bendi, 13, 15,24,28 inci maddenin (c) bendi, 29 ila 31, 32 nci maddenin (e) bendi, 35, 36 ncı maddenin (b) ila (d), (h) ila (k) bentleri, 37 nci maddenin (b) ve(c) bentleri , 38 ila 40 ve 41 inci maddenin (d) bendi yayımı tarihinde,
-d) 18 ila 22 nci maddeleri yayımı tarihinden 5 iş günü sonra,
-e) 4,5,7 ila 9,14,16,17, 23, 25 ila 27 ,32 nci maddenin (a) ila (ç) bentleri, 33, 36 ncı maddenin (e) ila (ğ) ve 41 inci maddenin (a) ve (b) bentleri yayımı tarihinden 10 gün sonra,
-f) 28 inci maddenin (a) ve (b) bentleri, 32 nci maddenin (d) bendi, 34, 41 inci maddenin (c) ve (ç) bentleri 1/5/2017 tarihinde, yürürlüğe girer.
+**MADDE 42- Bu Tebliğin;**
+**a) 36 ncı maddenin (a) bendi ile 37 nci maddenin (a) bendi 14/7/ 2016 tarihinden geçerli olmak üzere yayımı tarihinde,**
+**b) 12 nci maddenin (b) bendi 11/2/2017 tarihinden geçerli olmak üzere yayımı tarihinde,**
+**c) 1ila 3, 6,10,11 inci maddeleri 1/3/2017 tarihinden geçerli olmak üzere yayımı tarihinde,**
+**ç) 12 nci maddenin (a) bendi, 13, 15,24,28 inci maddenin (c) bendi, 29 ila 31, 32 nci maddenin (e) bendi, 35, 36 ncı maddenin (b) ila (d), (h) ila (k) bentleri, 37 nci maddenin (b) ve(c) bentleri , 38 ila 40 ve 41 inci maddenin (d) bendi yayımı tarihinde,**
+**d) 18 ila 22 nci maddeleri yayımı tarihinden 5 iş günü sonra,**
+**e) 4,5,7 ila 9,14,16,17, 23, 25 ila 27 ,32 nci maddenin (a) ila (ç) bentleri, 33, 36 ncı maddenin (e) ila (ğ) ve 41 inci maddenin (a) ve (b) bentleri yayımı tarihinden 10 gün sonra,**
+**f) 28 inci maddenin (a) ve (b) bentleri, 32 nci maddenin (d) bendi, 34, 41 inci maddenin (c) ve (ç) bentleri 1/5/2017 tarihinde, yürürlüğe girer.**
 
-MADDE 43- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 43-** Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.

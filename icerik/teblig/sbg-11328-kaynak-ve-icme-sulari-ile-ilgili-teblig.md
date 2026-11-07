@@ -8,11 +8,11 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11328/kaynak-ve-icme-sulari-ile-ilgili
 durum: "yürürlükte"
 ---
 
-T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü**
 
-SAYI : B100TSH0100000- KONU: Kaynak ve İçme Suları ile ilgili Tebliğ
+**SAYI :** B100TSH0100000- **KONU:** Kaynak ve İçme Suları ile ilgili Tebliğ
 
-VALİLİĞİNE (İl Sağlık Müdürlüğüne)
+**VALİLİĞİNE (İl Sağlık Müdürlüğüne)**
 
 Doğal Kaynak, Maden ve İçme Suları ile Tıbbi Suların İstihsali, Ambalajlanması ve Satışı Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik, 17 Ekim 1998 tarih ve 23496 sayılı Resmi Gazetede yayımlanarak yürürlüğe girmiştir. Söz konusu değişiklik ile 18 Ekim 1997 tarihli Doğal Kaynak, Maden ve İçme Suları ile Tıbbi Suların İstihsali, Ambalajlanması ve Satışı Hakkında Yönetmeliğin iki maddesine ek düzenlemeler getirilmiştir. Yönetmeliğin ilk halinde yer almayan bu düzenlemeler şunlardır;
 
@@ -54,7 +54,7 @@ Yukarıda belirtilen düzenlemeler ile ilgili usul ve esasları tanımlayan Tebl
 
 19. Bu Tebliğ kapsamında yer almayan ve il yönetimince gerekli görülen hususlarda önceden Bakanlık görüşü alınmak kaydıyla İl Hıfzıssıhha Kurulu kararı aracılığı ile ek düzenlemeler getirilebilir. Bilginizi, konunun tüm işletmecilere duyurulması ve genel sağlığın korunması amacıyla su güvenliğine yönelik olarak bu Tebliğ ile getirilen düzenlemelerin hassasiyetle yerine getirilmesi ve ilgililer tarafından getirilmesinin sağlanması hususunda gereğini önemle rica ederim.
 
-Bakan a.
+**Bakan a.**
 
 EK 1- "Tanker ile Su Temin İzni" örneği, 2- "Kaynak ve İçme Suyu Taşıma İzin Belgesi" örneği, 3- "İkram Maksadı ile Üretim Müracaat ve İzin Belgesi" örneği.
 

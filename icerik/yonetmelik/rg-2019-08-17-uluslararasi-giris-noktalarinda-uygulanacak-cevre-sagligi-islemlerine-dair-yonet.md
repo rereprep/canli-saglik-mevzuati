@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Müdürlüğünden:
-ULUSLARARASI GİRİŞ NOKTALARINDA UYGULANACAK ÇEVRE SAĞLIĞI İŞLEMLERİNE DAİR YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ULUSLARARASI GİRİŞ NOKTALARINDA UYGULANACAK ÇEVRE SAĞLIĞI İŞLEMLERİNE DAİR YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 3/11/2013 tarihli ve 28810 sayılı Resmî Gazete’de yayımlanan Uluslararası Giriş Noktalarında Uygulanacak Çevre Sağlığı İşlemlerine Dair Yönetmeliğin 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 2 –

@@ -44,89 +44,89 @@ Gereği:
 
 Bilgi:
 Sağlık Bilgi Sistemleri Genel Müdürlüğüne (Telesağlık Ve Uygulama Geliştirme Daire Başkanlığı)
-Web Uygulaması İl Yöneticisi Kayıt Elemanı Teknisyen Hekim Bilişim Temsilcisi Çekim Odası İstem
+**Web Uygulaması İl Yöneticisi Kayıt Elemanı Teknisyen Hekim Bilişim Temsilcisi Çekim Odası İstem**
 
-İstem Kabul X X X X
+**İstem Kabul X X X X**
 
-İptal Edilen İstemler X X X
+**İptal Edilen İstemler X X X**
 
-Çekim
+**Çekim**
 
-Çekim Kabul X X X
+**Çekim Kabul X X X**
 
-İptal Edilen Çekimler X X X
+**İptal Edilen Çekimler X X X**
 
-Çekim Yapılanlar X X X X
+**Çekim Yapılanlar X X X X**
 
-Raporlama
+**Raporlama**
 
-Raporlama
+**Raporlama**
 
-Raporlama X X X
+**Raporlama X X X**
 
-Tüm Sonuçlar X X X X X
+**Tüm Sonuçlar X X X X X**
 
-PACS
+**PACS**
 
-PACS
+**PACS**
 
-PACS Görüntüleri X X X X
+**PACS Görüntüleri X X X X**
 
-Teleradyoloji Gönderimleri X X X X X
+**Teleradyoloji Gönderimleri X X X X X**
 
-İstatistikler
+**İstatistikler**
 
-İstatistikler
+**İstatistikler**
 
-Çekim Sayıları X X
+**Çekim Sayıları X X**
 
-Log İzleme
+**Log İzleme**
 
-Log İzleme
+**Log İzleme**
 
-Web Servis Logları X
+**Web Servis Logları X**
 
-Kullanıcı Logları X
+**Kullanıcı Logları X**
 
-Doktor Okuma Logları X
+**Doktor Okuma Logları X**
 
-İstem Logları X
+**İstem Logları X**
 
-Kilitlenen Çekimler X
+**Kilitlenen Çekimler X**
 
-Yönetim
+**Yönetim**
 
-Tanımlamalar
+**Tanımlamalar**
 
-Roller X X
+**Roller X X**
 
-Kullanıcı Yönetimi X X
+**Kullanıcı Yönetimi X X**
 
-Kurumlar X
+**Kurumlar X**
 
-Çekim Yerleri X
+**Çekim Yerleri X**
 
-İptal Sebepleri X
+**İptal Sebepleri X**
 
-Duyuru Yönetimi
+**Duyuru Yönetimi**
 
-Duyuru Yönetimi X
+**Duyuru Yönetimi X**
 
-Ayarlar
+**Ayarlar**
 
-Site Ayarları X
+**Site Ayarları X**
 
-İstisna Günlüğü X
+**İstisna Günlüğü X**
 
-Site Tema Seçimi
+**Site Tema Seçimi**
 
-Azure X X X X X
+**Azure X X X X X**
 
-Cosmos X X X X X
+**Cosmos X X X X X**
 
-Glassy X X X X X
+**Glassy X X X X X**
 
-Yerel PACS X X
+**Yerel PACS X X**
 
 AKCİĞER GÖRÜNTÜLEME SİSTEMİ UYGULAMASI
 
@@ -136,39 +136,39 @@ Sürüm 1.0
 
 Telesağlık ve Uygulama Geliştirme Dairesi Başkanlığı
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 İçindekiler
 
 1. HSYS ......................................................................................................................... 1 2. Giriş İşlemleri ............................................................................................................. 2 3. Ana Sayfa .................................................................................................................. 3 4. Çekim Odası .............................................................................................................. 4 4.1. İstem .................................................................................................................. 4 4.1.1. İstem Kabul ................................................................................................... 4 4.1.2. İptal Edilen İstemler ...................................................................................... 10 4.2. Çekim ............................................................................................................... 10 4.2.1. Çekim Kabul ................................................................................................ 10 4.2.2. İptal Edilen Çekimler ..................................................................................... 12 4.2.3. Çekimi Yapılanlar .......................................................................................... 13 5.Raporlama ............................................................................................................... 15 5.1. Raporlama ........................................................................................................ 15 5.1.1. Raporlama .................................................................................................. 15 5.1.2. Tüm Sonuçlar ............................................................................................... 20 6. PACS ....................................................................................................................... 23 6.1. PACS ................................................................................................................. 23 6.1.1. PACS Görüntüleri ............................................................................................. 23 6.1.2. Teleradyoloji Gönderimleri ................................................................................ 24 7. İSTATİSTİKLER ........................................................................................................... 25 7.1. İstatistikler ........................................................................................................ 25 7.1.1. Çekim Sayıları .............................................................................................. 25 8. Log İzleme ............................................................................................................... 26 8.1. Log İzleme ......................................................................................................... 26
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 8.1.1. Web Servis Logları ........................................................................................ 26 8.1.2. Kullanıcı Logları ............................................................................................ 26 8.1.3. Doktor Okuma Logları ................................................................................... 27 8.1.4. İstem Logları ................................................................................................ 28 8.1.5. Kilitlenen Çekimler ....................................................................................... 28 9. Yönetim .................................................................................................................. 30 9.1. Tanımlamalar ..................................................................................................... 30 9.1.1. Roller ......................................................................................................... 30 9.1.2. Kullanıcı Yönetimi ......................................................................................... 34 9.1.3. Kurumlar ..................................................................................................... 37 9.1.4. Çekim Yerleri ............................................................................................... 39 9.1.5. İptal Sebepleri ............................................................................................. 41 9.2. Duyuru Yönetimi ................................................................................................ 43 9.2.1. Duyuru Yönetimi .......................................................................................... 43 9.3. Ayarlar .............................................................................................................. 44 9.3.1 Site Ayarları .................................................................................................. 44 9.3.2. İstisna Günlüğü ............................................................................................ 45 9.4. Site Tema Seçimi ................................................................................................ 46 10. Yerel PACS ............................................................................................................. 48 11. Çıkış İşlemleri ......................................................................................................... 49
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 1. HSYS
 
 1- İstem oluşturmak için Halk Sağlığı Yönetim Sistemi Uygulaması’ndan Radyoloji İstem butonuna tıklanır.
 
-Şekil 1 HSYS Ekranı
+<i>Şekil 1 HSYS Ekranı</i>
 
 2- Açılan pencerede SUT kodu seçilir.
 
 3- Kaydet butonuna basılır.
 
-Şekil 2 HSYS Radyoloji İstem Penceresi
+<i>Şekil 2 HSYS Radyoloji İstem Penceresi</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 2. Giriş İşlemleri
 
@@ -176,21 +176,21 @@ Uygulamaya https://vsd.saglik.gov.tr adresi kullanılarak girilir. Giriş işlem
 
 Ortak Giriş Noktası Sistemi (https://ogn.saglik.gov.tr) ile yapılır.
 
-Şekil 3 Giriş Ekranı
+<i>Şekil 3 Giriş Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 3. Ana Sayfa
 
 Kullanıcı giriş yaptıktan sonra ekranda kullanıcının yetkisi dahilinde erişebileceği kısayolları içeren ana sayfa görüntülenir. Ekranın alt kısmında duyurular ve yardım dokümanı görülür.
 
-Şekil 4 Ana Sayfa
+<i>Şekil 4 Ana Sayfa</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 4. Çekim Odası
 
@@ -200,61 +200,61 @@ Kullanım Kılavuzu
 
 1 - Ekranın sol tarafındaki navigasyon çubuğundan çekim odası butonuna tıklanır.
 
-Şekil 5 Çekim Odası Butonuna Tıklama
+<i>Şekil 5 Çekim Odası Butonuna Tıklama</i>
 
 2 - İstem kabul butonuna tıklanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 6 İstem Kabul Butonuna Tıklama
+<i>Şekil 6 İstem Kabul Butonuna Tıklama</i>
 
 3 - İstem Kabul Ekranında çekim kaydı oluştur butonuna tıklanır.
 
-Şekil 7 Çekim Kaydı Oluştur butonuna Tıklama
+<i>Şekil 7 Çekim Kaydı Oluştur butonuna Tıklama</i>
 
 4 - Çekim yeri ve çekim cihazı seçilir ve çekim kaydı oluştur butonuna tıklanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 8 Çekim Yeri ve Cihazı Seçilip Çekim Kaydı Oluştur Butonuna Tıklama
+<i>Şekil 8 Çekim Yeri ve Cihazı Seçilip Çekim Kaydı Oluştur Butonuna Tıklama</i>
 
 Not: MWL sorgusu için cihaz ekran görüntüleri ayrıca eklenecektir.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 4.1.1.1 MWL Sorgusu
 
 Cihazın ayarlar kısmından local pacs ve iş listesi konfigürasyonunu girmek için ilgili ekran açılır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 Store kısmına local pacs bilgileri girilir. IP adresi, AE ve port bilgileri girildikten sonra Ok veya
 
 Kaydet ile çıkılır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 Aynı işlemi İş listesini almak için Worklist veya StudyList ekranı açılarak Bakanlık bilgileri girilir ve cihaz kurulumu tamamlanır. Bu aşamalardan sonra cihaz HSYS’den kaydı yapılan hastayı otomatik olarak iş listesinde yayınlar ve çekimi yapılan hastayı local pacsa gönderir.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 4.1.2. İptal Edilen İstemler
 
 Bu ekranda daha önceden iptal edilmiş istemler görülür.
 
-Şekil 9 İptal Edilen İstemler Ekranı
+<i>Şekil 9 İptal Edilen İstemler Ekranı</i>
 
 4.2. Çekim
 
@@ -262,53 +262,53 @@ Bu ekranda daha önceden iptal edilmiş istemler görülür.
 
 1- Çekim kabul butonuna tıklanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 10 Çekim Kabul Butonuna Tıklama
+<i>Şekil 10 Çekim Kabul Butonuna Tıklama</i>
 
 2- Önceki adımda istem kabul ekranında çekim kaydı oluşturulan kayıt, yeni açılan Çekim Kabul
 
 Ekranında görülür.
 
-Şekil 11 Çekim Kaydı Görüntüleme
+<i>Şekil 11 Çekim Kaydı Görüntüleme</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 3- Hastanın çekimi tamamlandıktan sonra yenile butonuna basılır ve hastanın listede olmadığı görülür.
 
-Şekil 12 Yenile Butonuna Basma
+<i>Şekil 12 Yenile Butonuna Basma</i>
 
 4.2.2. İptal Edilen Çekimler
 
 Bu ekranda daha önceden iptal edilmiş istemler görülür.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 13 İptal Edilen Çekimler Ekranı
+<i>Şekil 13 İptal Edilen Çekimler Ekranı</i>
 
 4.2.3. Çekimi Yapılanlar
 
 1- Soldaki navigasyon menüsünden çekim yapılanlar butonuna tıklanır.
 
-Şekil 14 Çekim Yapılanlar Butonuna Tıklama
+<i>Şekil 14 Çekim Yapılanlar Butonuna Tıklama</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 2- Çekim Yapılanlar Ekranında çekimi tamamlanan hasta görüntülenir.
 
-Şekil 15 Çekim Yapılan Hastanın Görülmesi
+<i>Şekil 15 Çekim Yapılan Hastanın Görülmesi</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 5.Raporlama
 
@@ -318,41 +318,41 @@ Kullanım Kılavuzu
 
 1- Ekranın sol tarafındaki navigasyon çubuğundan raporlama butonuna tıklanır.
 
-Şekil 16 Raporlama Navigasyon Butonuna Tıklama
+<i>Şekil 16 Raporlama Navigasyon Butonuna Tıklama</i>
 
 2- Açılan menüden raporlama butonuna tıklanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 17 Raporlama Butonuna Tıklama
+<i>Şekil 17 Raporlama Butonuna Tıklama</i>
 
 3- Raporlama Ekranında tetkik sonucu girilecek hastanın olduğu kayıtta bulunan sonuç gir butonuna tıklanır.
 
-Şekil 18 Sonuç Gir Butonuna Tıklama
+<i>Şekil 18 Sonuç Gir Butonuna Tıklama</i>
 
 4- Açılan raporlama penceresinde hastanın tetkiki görülür. Bir sonuç tipi ya da birden fazla sonuç tipi seçilir.
 
 5- Sonuç metni yazılır. Yapılan tetkikler için sonuç metni girilmesi zorunlu değildir.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 6- Kaydet butonuna tıklanır.
 
-Şekil 19 Sonuç Bilgilerini Girip Kaydetme
+<i>Şekil 19 Sonuç Bilgilerini Girip Kaydetme</i>
 
 7- Doktor sonuç yazmak yerine çekimin iptalini isteyebilir. Bu durumda adım 3’teki sonuç açma işlemi uygulanır ve açılan raporlama penceresinde çekim iptali butonuna tıklanır.
 
 8- Açılan çekim iptal penceresinde iptal sebebi ve açıklama bilgileri girildikten sonra çekim iptal et butonuna tıklanır ve hastanın çekimi sonuç yazmadan iptal edilir.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 20 Sonuç Yazmadan Çekim İptali
+<i>Şekil 20 Sonuç Yazmadan Çekim İptali</i>
 
 9- Doktor hasta için ek tetkik isteyebilir. Bu durumda adım 3’teki sonuç açma işlemi uygulanır ve açılan raporlama penceresinde ek tetkik butonuna tıklanır.
 
@@ -360,23 +360,23 @@ Kullanım Kılavuzu
 
 11- Onay penceresi açılır. Evet butonuna basılarak ek tetkik ekleme işlemi onaylanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 21 Ek Tetkik ekleme
+<i>Şekil 21 Ek Tetkik ekleme</i>
 
 12- Hastanın ek tetkik çekimi yapıldıktan sonra raporlama ekranından (adım 1-2-3) hastanın olduğu kaydın başındaki sonuç gir butonuna tıklanır.
 
-Şekil 22 Ek Tetkik Sonuç Girme
+<i>Şekil 22 Ek Tetkik Sonuç Girme</i>
 
 13- Açılan raporlama penceresinde hastanın çekilen tetkikleri görülür. Sonuç tipi ve sonuç yazısı girildikten sonra kaydet butonuna tıklanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 23 Ek Tetkik Sonuç Kaydı
+<i>Şekil 23 Ek Tetkik Sonuç Kaydı</i>
 
 5.1.2. Tüm Sonuçlar
 
@@ -384,31 +384,31 @@ Kullanım Kılavuzu
 
 Hastanın çekim raporuna bakmak için raporlama ekranının sol tarafındaki tüm sonuçlar butonuna tıklanır.
 
-Şekil 24 Tüm Sonuçlar Butonuna Tıklama
+<i>Şekil 24 Tüm Sonuçlar Butonuna Tıklama</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 2- Tüm Sonuçlar Ekranında hastanın olduğu kaydın başındaki sonuç raporu butonuna tıklanır.
 
-Şekil 25 Tüm Sonuçlar Butonuna Tıklama
+<i>Şekil 25 Tüm Sonuçlar Butonuna Tıklama</i>
 
 3- Hastanın sonuç raporu açılır. Açılan sonuç raporunda hastanın kimlik bilgileri, erişim numarası ve raporlama ekranında girilen sonuç bilgileri görülür. Çekim sonucunu yazdırmak için sağ üstteki yazdır butonuna tıklanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 26 Sonuçlar Raporu Penceresi
+<i>Şekil 26 Sonuçlar Raporu Penceresi</i>
 
 4- Yazdırma ekranında çekim raporunun çıktı ön izlemesi görülür ve bu ekranda çekim sonucu yazdırılır.
 
-Şekil 27 Rapor Yazdırma Ekranı
+<i>Şekil 27 Rapor Yazdırma Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 6. PACS
 
@@ -418,23 +418,23 @@ Kullanım Kılavuzu
 
 PACS Görüntüleri bu ekranda görülür. Ok ile işaretlenen buton ile görüntüler açılabilir.
 
-Şekil 28 PACS Görüntüleri Ekranı
+<i>Şekil 28 PACS Görüntüleri Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 29 Açılan PACS Görüntüsü Penceresi
+<i>Şekil 29 Açılan PACS Görüntüsü Penceresi</i>
 
 6.1.2. Teleradyoloji Gönderimleri
 
 Bu ekranda Teleradyoloji Gönderimleri görülür.
 
-Şekil 30 Teleradyoloji Gönderimleri Ekranı
+<i>Şekil 30 Teleradyoloji Gönderimleri Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 7. İSTATİSTİKLER
 
@@ -444,11 +444,11 @@ Kullanım Kılavuzu
 
 Uygulama içindeki tüm tetkiklerin sayılarına bu ekrandan ulaşılır.
 
-Şekil 31 Çekim Sayıları Ekranı
+<i>Şekil 31 Çekim Sayıları Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 8. Log İzleme
 
@@ -458,47 +458,47 @@ Kullanım Kılavuzu
 
 Web servis loglarına bu ekrandan ulaşılır.
 
-Şekil 32 Web Servis Logları
+<i>Şekil 32 Web Servis Logları</i>
 
 8.1.2. Kullanıcı Logları
 
 Kullanıcı loglarına bu ekrandan ulaşılır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 33 Kullanıcı Logları
+<i>Şekil 33 Kullanıcı Logları</i>
 
 8.1.3. Doktor Okuma Logları
 
 Doktor okuma loglarına bu ekrandan ulaşılır. Doktorların sonuç girmek için raporlama ekranında yaptıkları faaliyetlerden sonuç gir penceresini açtığı, kapattığı ve sonuç girdiği bilgiler okuma aktivite tipi kolonunda görülür.
 
-Şekil 34 Doktor Okuma Logları Ekranı
+<i>Şekil 34 Doktor Okuma Logları Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 8.1.4. İstem Logları
 
 İstem loglarına bu ekrandan ulaşılır.
 
-Şekil 35 İstem Logları Ekranı
+<i>Şekil 35 İstem Logları Ekranı</i>
 
 8.1.5. Kilitlenen Çekimler
 
 Doktor rolüne sahip kullanıcılar raporlama ekranında hastaya sonuç girmek için sonuç gir butonuna tıkladığında diğer kullanıcıların aynı hastaya sonuç girmesini önlemek için ilk doktor sonuç girme penceresini kapatana kadar hasta kilitlenir. Bu sayede hastaya aynı anda birden fazla sonuç girilmesi önlenir. Bu ekranda da kilitlenen hasta çekimleri gösterilir.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 36 Kilitlenen Çekimler Ekranı
+<i>Şekil 36 Kilitlenen Çekimler Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 9. Yönetim
 
@@ -508,145 +508,145 @@ Kullanım Kılavuzu
 
 1 - Ekranın sol tarafındaki navigasyon çubuğundan yönetim butonuna tıklanır.
 
-Şekil 37 Yönetim Navigasyon Butonuna Tıklama
+<i>Şekil 37 Yönetim Navigasyon Butonuna Tıklama</i>
 
 2 - Açılan menüden roller butonuna tıklanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 38 Roller Butonuna Tıklama
+<i>Şekil 38 Roller Butonuna Tıklama</i>
 
 3 - Rol Ekranında yeni rol butonuna tıklanır.
 
-Şekil 39 Yeni Rol Butonuna Tıklama
+<i>Şekil 39 Yeni Rol Butonuna Tıklama</i>
 
 4 - Yeni rol ekleme ekranına rol adı ve rol kodu girildikten sonra kaydet butonuna tıklanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 40 Yeni Rol Kaydetme
+<i>Şekil 40 Yeni Rol Kaydetme</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 5 - Listeden kaydedilen role tıklanır.
 
-Şekil 41 Kaydedilen Role Tıklama
+<i>Şekil 41 Kaydedilen Role Tıklama</i>
 
 6 - Rol düzenleme ekranında izinleri düzenle butonuna tıklanır.
 
-Şekil 42 İzinleri Düzenleme Butonuna Tıklama
+<i>Şekil 42 İzinleri Düzenleme Butonuna Tıklama</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 7 - Açılan rol izinlerini düzenleme penceresinde role sahip kullanıcıların sahip olacağı yetki adları için izin verilir.
 
 8 - İzinler verildikten sonra kaydetmek için tamam butonuna tıklanır. Sonrasında 4. adımdaki gibi kaydet butonuna tıklanarak değişiklikler kaydedilir.
 
-Şekil 43 Role Yetki Verme
+<i>Şekil 43 Role Yetki Verme</i>
 
 9.1.2. Kullanıcı Yönetimi
 
 1- Kullanıcı rol tanımlaması il yöneticisi tarafından yapılacaktır. Bu işlem için kullanıcı yönetimi butonuna tıklanır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 44 Kullanıcı Yönetimi Butonuna Tıklama
+<i>Şekil 44 Kullanıcı Yönetimi Butonuna Tıklama</i>
 
 2- Yeni kullanıcı butonuna tıklanır.
 
-Şekil 45 Yeni Kullanıcı Butonuna Tıklama
+<i>Şekil 45 Yeni Kullanıcı Butonuna Tıklama</i>
 
 3- Yeni kullanıcı bilgileri doldurulur ve kullanıcıya rol/roller ataması yapılır.
 
 4- Kaydet butonuna tıklanır ve kullanıcı kaydedilir.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 46 Kullanıcı Ekleme
+<i>Şekil 46 Kullanıcı Ekleme</i>
 
 5- Kayıt sonrası listeden kaydedilen kullanıcı seçilir. Kullanıcı düzenleme ekranında izinleri düzenle butonuna tıklanır.
 
-Şekil 47 Kullanıcı Düzenleme
+<i>Şekil 47 Kullanıcı Düzenleme</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 6- Açılan Kullanıcı İzinlerini Düzenle penceresinde kullanıcıya izin verilecek ya da yasaklanacak yetkiler seçilir.
 
 7- Tamam butonuna tıklanır ve Kullanıcı İzinlerini Düzenle penceresi kapanır. Değişiklikleri kaydetmek için 12. adımda yapıldığı gibi kaydet butonuna tıklanır.
 
-Şekil 48 Kullanıcı İzinlerini Düzenleme
+<i>Şekil 48 Kullanıcı İzinlerini Düzenleme</i>
 
 9.1.3. Kurumlar
 
 Kurumlar ekranında “Akciğer Görüntüleme Sistemi Uygulaması” ile bağlantılı olan kurumlar görülür. Kayıtlı kuruma tıklanarak düzenleme yapılır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 49 Kurumlar Ekranı
+<i>Şekil 49 Kurumlar Ekranı</i>
 
 Açılan kurum düzenleme ekranında seçili olan kuruma, sistemde kayıtlı olan çekim yerleri bağlanır. Birden fazla çekim yeri bağlanabilir.
 
-Şekil 50 Kurum Düzenleme Ekranı
+<i>Şekil 50 Kurum Düzenleme Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 9.1.4. Çekim Yerleri
 
 Akciğer Görüntüleme Sistemi Uygulaması için çekim yerleri bu ekranda görülür. Ok ile işaretli yere tıklanarak çekim yeri düzenleme ekranı açılır.
 
-Şekil 51 Çekim Yerleri Ekranı
+<i>Şekil 51 Çekim Yerleri Ekranı</i>
 
 Bu ekranda çekim yeri bilgileri düzenlenir. Ekranın alt tarafında cihazlar bölümü görülür. Bu bölümden çekim yerine yeni cihaz eklenebilir, cihaz silinebilir ya da kayıtlı cihaz düzenlemesi yapılabilir. İşaretli yere tıklanarak kayıtlı cihaz düzenleme penceresi açılır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 52 Çekim Yerleri Düzenleme Ekranı
+<i>Şekil 52 Çekim Yerleri Düzenleme Ekranı</i>
 
 Açılan pencerede cihaz bilgileri düzenlenir. İşlem bitince pencerenin sol üst kısmındaki kaydet butonuna tıklanır.
 
-Şekil 53 Cihaz Düzenleme Ekranı
+<i>Şekil 53 Cihaz Düzenleme Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 9.1.5. İptal Sebepleri
 
 Servis, istem, çekim ve doktor çekim iptal sebepleri bu ekranda görülür. İptal sebebine tıklanarak düzenleme yapılır.
 
-Şekil 54 İptal Sebepleri Ekranı
+<i>Şekil 54 İptal Sebepleri Ekranı</i>
 
 İptal sebebi düzenleme ekranında sebep adı ve sebep türü düzenlemesi yapılıp kaydet butonuna basılır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 55 İptal Sebebi Düzenleme Ekranı
+<i>Şekil 55 İptal Sebebi Düzenleme Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 9.2. Duyuru Yönetimi
 
@@ -654,17 +654,17 @@ Kullanım Kılavuzu
 
 Duyuru yönetimi ekranında ana sayfada kullanıcılara gösterilecek duyurular için düzenleme yapılır. İşaretli yere tıklayarak kayıtlı duruyu düzenleme ekranı açılır.
 
-Şekil 56 Duyuru Yönetimi Ekranı
+<i>Şekil 56 Duyuru Yönetimi Ekranı</i>
 
 Duyuru düzenleme ekranında kayıtlı duyuru düzenlenir. Bu duyuruyu görmesi istenilen roller için duyuruya rol ataması yapılır. Duyuru içinde dosya olması isteniyorsa (.pdf, .mp4 uzantılı dosyalar)
 
 dosya yüklenir, formda gerekli diğer kısımlar düzenlenir ve kaydet butonuna basılır.
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 57 Duyuru Düzenleme Ekranı
+<i>Şekil 57 Duyuru Düzenleme Ekranı</i>
 
 9.3. Ayarlar
 
@@ -672,43 +672,43 @@ Kullanım Kılavuzu
 
 Yetkili kullanıcı tarafından yapılacak site ayarları bu ekranda görülür.
 
-Şekil 58 Site Ayarları Ekranı
+<i>Şekil 58 Site Ayarları Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 9.3.2. İstisna Günlüğü
 
 Bu ekranda sistemdeki istisnaların kaydı görülür.
 
-Şekil 59 İstisna Günlüğü Ekranı
+<i>Şekil 59 İstisna Günlüğü Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 9.4. Site Tema Seçimi
 
 1 - Navigasyon çubuğundan yönetim butonuna tıklanır.
 
-Şekil 60 Yönetim Butonuna Tıklama
+<i>Şekil 60 Yönetim Butonuna Tıklama</i>
 
 2 - İstenilen tema için butona tıklanır.
 
-Şekil 61 Tema 1
+<i>Şekil 61 Tema 1</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
-Şekil 62 Tema 2
+<i>Şekil 62 Tema 2</i>
 
-Şekil 63 Tema 3
+<i>Şekil 63 Tema 3</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 10. Yerel PACS
 
@@ -722,18 +722,18 @@ Kullanım Kılavuzu
 
 5 - Bekleyen ve kısmi gönderim/hatalı kayıt/kayıtlar işaretli bölgede görülür.
 
-Şekil 64 Yerel PACS Ekranı
+<i>Şekil 64 Yerel PACS Ekranı</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**
 
 11. Çıkış İşlemleri
 
 Soldaki navigasyon menüsünde en alttaki çıkış butonuna basılır ve uygulamadan çıkış yapılır.
 
-Şekil 65 Çıkış İşlemi
+<i>Şekil 65 Çıkış İşlemi</i>
 
-Akciğer Görüntüleme Sistemi Yardım ve
+**Akciğer Görüntüleme Sistemi Yardım ve**
 
-Kullanım Kılavuzu
+**Kullanım Kılavuzu**

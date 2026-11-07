@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-11.3.5. İhalelere Katılmaktan Yasaklama İşlemleri Konulu Genelgede Değişiklik Yapılması Genelgesi (2020/06)
+**11.3.5. İhalelere Katılmaktan Yasaklama İşlemleri Konulu Genelgede Değişiklik Yapılması Genelgesi (2020/06)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Strateji Geliştirme Başkanlığı

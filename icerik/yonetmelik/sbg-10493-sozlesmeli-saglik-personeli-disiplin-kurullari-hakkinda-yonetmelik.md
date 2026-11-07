@@ -39,7 +39,7 @@ ifade eder.
 
 #### Disiplin Cezalarının Uygulanması
 
-**Madde 6 –** Aylıktan kesme cezası, sözleşmeli sağlık personelinin brüt ücretinin 1/30-1/8 arasında kesinti yapılması; kademe ilerlemesinin durdurulması cezası, sözleşmeli personelin ücretinin belirlenmesinde esas alınan kıdem süresinde fiilin ağırlık derecesine göre 1-3 yıl arasında indirim yapılması; Devlet memurluğundan çıkarma cezası ise sözleşmenin feshedilmesi suretiyle (Değişik ibare:RG-20/11/2025-33083) uygulanır ve bu kişilerin memuriyet ile ilişikleri kesilir .
+**Madde 6 –** Aylıktan kesme cezası, sözleşmeli sağlık personelinin brüt ücretinin 1/30-1/8 arasında kesinti yapılması; kademe ilerlemesinin durdurulması cezası, sözleşmeli personelin ücretinin belirlenmesinde esas alınan kıdem süresinde fiilin ağırlık derecesine göre 1-3 yıl arasında indirim yapılması; Devlet memurluğundan çıkarma cezası ise sözleşmenin feshedilmesi suretiyle **(Değişik ibare:RG-20/11/2025-33083)** uygulanır ve bu kişilerin memuriyet ile ilişikleri kesilir .
 
 Sözleşmeli sağlık personeline; disiplin cezaları ve disiplin işleri bakımından 4924 sayılı Kanun ile bu Yönetmelik hükümleri saklı kalmak kaydıyla Bakanlıkta çalışan emsali Devlet memurlarına uygulanan mevzuat hükümleri uygulanır.
 
@@ -61,7 +61,7 @@ Yüksek Disiplin Kurulu, sözleşmenin feshini gerektiren fiil ve hallerin işle
 
 #### Yönetmelikte Hüküm Bulunmayan Haller
 
-**Madde 8 –** Bu Yönetmelikte hüküm bulunmayan hallerde, 10/7/2003 tarihli ve 4924 sayılı Kanun, 657 sayılı Devlet Memurları Kanunu, (Değişik ibare:RG-20/11/2025-33083) 29/4/2021 tarihli ve 3935 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Devlet Memurları Disiplin Yönetmeliği hükümleri uygulanır.
+**Madde 8 –** Bu Yönetmelikte hüküm bulunmayan hallerde, 10/7/2003 tarihli ve 4924 sayılı Kanun, 657 sayılı Devlet Memurları Kanunu, **(Değişik ibare:RG-20/11/2025-33083)** 29/4/2021 tarihli ve 3935 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Devlet Memurları Disiplin Yönetmeliği hükümleri uygulanır.
 
 #### Yürürlük
 

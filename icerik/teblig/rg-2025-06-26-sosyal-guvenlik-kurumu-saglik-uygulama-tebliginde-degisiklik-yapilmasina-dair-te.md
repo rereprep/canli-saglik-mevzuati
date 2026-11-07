@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 2.2.2.B-3 numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(1) Hastanın taburcu (Taburcu işleminin A, B, C, D, E grubunda belirtilen sürelerden önce gerçekleşmesi halinde belirtilen sürelerin bitimi taburcu tarihi olarak kabul edilir.) olduktan sonraki, aynı sağlık hizmeti sunucusundaki aynı uzmanlık dalında ayaktan tedavilerinde; 10 gün içerisinde SUT eki “Ayaktan Başvurularda İlave Olarak Faturalandırılacak İşlemler Listesi (EK-2/A-2)” nde yer alan işlemler hariç olmak üzere yapılan muayeneler ve bu muayene sonucunda gerekli görülen rutin biyokimyasal, bakteriyolojik, hematolojik, kardiyolojik (EKG, EKO, efor) ve radyolojik tetkikleri tanıya dayalı ödeme işlem puanına dahil olup ayrıca faturalandırılamaz.”

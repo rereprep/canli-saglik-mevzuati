@@ -13,17 +13,17 @@ durum: "yürürlükte"
 
 ### BİYOGÜVENLİK KANUNU
 
-Kanun Numarası : 5977
+**Kanun Numarası : 5977**
 
-Kabul Tarihi : 18/3/2010
+**Kabul Tarihi : 18/3/2010**
 
-Yayımlandığı Resmî Gazete : Tarih : 26/3/2010 Sayı : 27533
+**Yayımlandığı Resmî Gazete : Tarih : 26/3/2010 Sayı : 27533**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 49
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 49**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Tanımlar
+**Amaç, Kapsam ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -99,7 +99,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Temel Esaslar
+**Temel Esaslar**
 
 #### Başvuru, değerlendirme ve karar verme
 
@@ -231,15 +231,15 @@ c) GDO’nun diğer canlı organizmalarla ilişkisi ile ilgili olarak kullanıla
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Bakanlığın Görev ve Yetkileri ile
+**Bakanlığın Görev ve Yetkileri ile**
 
-Kurul ve Komiteler
+**Kurul ve Komiteler**
 
 #### Bakanlığın görev ve yetkileri
 
 **MADDE 8 –** (1) Bakanlığın görev ve yetkileri şunlardır:
 
-a) (Mülga bent: 2/7/2018-KHK-703/206 md.) [1]
+a) **(Mülga bent: 2/7/2018-KHK-703/206 md.)** [1]
 
 b) Kurulca talep edilen bilgi ve belgeleri temin etmek, istenen araştırma, deneme, kontrol ve denetlemeleri yaparak veya yaptırarak sonuçlarını Kurula bildirmek.
 
@@ -323,9 +323,9 @@ d) Bilimsel değerlendirmeler yapmak, Kurula bilgi vermek ve rapor hazırlamak.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Hukuki Sorumluluk, İdari
+**Hukuki Sorumluluk, İdari**
 
-Yaptırımlar ve Ceza Hükümleri
+**Yaptırımlar ve Ceza Hükümleri**
 
 #### Sorumluluğa ilişkin temel ilkeler
 
@@ -367,7 +367,7 @@ Yaptırımlar ve Ceza Hükümleri
 
 ### BEŞİNCİ BÖLÜM
 
-Yönetmelik ve Son Hükümler
+**Yönetmelik ve Son Hükümler**
 
 #### Yönetmelik
 
@@ -394,8 +394,8 @@ Yönetmelik ve Son Hükümler
 | KHK/703 | 8, 9, 10, EK MADDE 1 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 | Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı | Ek Madde 1 | Kararın Resmî Gazete’de yayımlanmasından başlayarak oniki ay sonra (5/6/2025) |
 
-<small>[1] Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu bendin yürürlükten kaldırılması iptal edilmiştir.</small>
+<small>[1] <i>Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu bendin yürürlükten kaldırılması iptal edilmiştir.</i></small>
 
-<small>[2] Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu maddenin yürürlükten kaldırılması iptal edilmiştir.</small>
+<small>[2] <i>Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu maddenin yürürlükten kaldırılması iptal edilmiştir.</i></small>
 
-<small>[3] Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu maddenin yürürlükten kaldırılması iptal edilmiştir.</small>
+<small>[3] <i>Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu maddenin yürürlükten kaldırılması iptal edilmiştir.</i></small>

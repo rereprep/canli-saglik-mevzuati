@@ -12,8 +12,8 @@ durum: "yürürlükte"
 ---
 
 Hazine ve Maliye Bakanlığından:
-MERKEZÎ YÖNETİM
-HARCAMA BELGELERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**MERKEZÎ YÖNETİM**
+**HARCAMA BELGELERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliğinin 8 inci maddesinin ikinci fıkrasının (e) bendinde yer alan “noterce onaylı imza sirküleri ile” ibaresi yürürlükten kaldırılmıştır.
 

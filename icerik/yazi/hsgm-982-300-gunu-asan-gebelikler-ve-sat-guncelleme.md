@@ -30,7 +30,7 @@ Başkanlığına, Bakanlığımız veri giriş sistemleri ve yazılım (USS, KDS
 
 Sistemleri Genel Müdürlüğüne ulaşılarak destek alınabilecektir.
 
-Konuya ilişkin ekte yer alan İşlem Adımları Bilgi Notu kapsamında gerekli çalışmaların titizlikle yerine getirilmesi, sonucunda gereğinin yapılması hususlarında;
+Konuya ilişkin ekte yer alan **İşlem Adımları Bilgi Notu** kapsamında gerekli çalışmaların titizlikle yerine getirilmesi, sonucunda gereğinin yapılması hususlarında;
 
 Bilgilerinizi ve gereğini rica ederim.
 

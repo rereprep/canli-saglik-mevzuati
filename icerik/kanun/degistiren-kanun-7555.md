@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/07/20250724-2.htm"
 durum: "yürürlükte"
 ---
 
-KANUN TÜRK PARASININ KIYMETİNİ KORUMA HAKKINDA KANUN İLE BAZI
-KANUNLARDA VE 635 SAYILI KANUN HÜKMÜNDE KARARNAMEDE
-DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN TÜRK PARASININ KIYMETİNİ KORUMA HAKKINDA KANUN İLE BAZI**
+**KANUNLARDA VE 635 SAYILI KANUN HÜKMÜNDE KARARNAMEDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7555 Kabul Tarihi: 20/7/2025
 
 MADDE 1- 20/2/1930 tarihli ve 1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanunun 1 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.

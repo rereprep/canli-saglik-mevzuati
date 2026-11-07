@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/11/20241114-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7531 Kabul Tarihi: 7/11/2024
+**KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7531 **Kabul Tarihi: 7/11/2024**
 
 MADDE 1- 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 111/b maddesinin dördüncü fıkrasında yer alan “binde birinden ve her hâlde yüz Türk lirasından” ibaresi “binde beşinden ve her hâlde bin Türk lirasından” şeklinde ve altıncı fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Açık artırma süresinin son on dakikası içinde yeni bir teklifin verilmesi hâlinde açık artırma üç dakika uzatılır. Uzama süresi içinde yeni bir teklif verilmesi hâlinde açık artırma süresi her yeni teklifin verilmesinden itibaren üç dakika uzatılır. Son uzama süresi içinde yeni bir teklif verilmezse mal en yüksek teklif verene ihale edilir.

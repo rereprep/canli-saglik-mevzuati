@@ -10,11 +10,11 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI Sağlık Eğitimi Genel Müdürlüğü
 
-Sayı : B.10.0.SEG.0.07.00.01- 010.06/8229 Konu : Tıpta Uzmanlık Belgeleri
+Sayı : B.10.0.SEG.0.07.00.01- 010.06/**8229** Konu : Tıpta Uzmanlık Belgeleri
 
 Tescil İşlemleri
 
-07.07.2009
+**07.07.2009**
 
 ### DOSYA GENELGE 2009/43
 

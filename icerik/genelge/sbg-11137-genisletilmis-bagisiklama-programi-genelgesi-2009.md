@@ -1872,13 +1872,13 @@ Baba adı: |
 
 Anne adı: | 
 
-Adres: Tlf no: | 
+**Adres:** Tlf no: | 
 
 Bağlı olduğu Sağlık Ocağı/Aile Hekimi: | 
 
 AŞI | DOZU | TARİH | AŞI LOT NO | SULANDIRICI LOT NO
 
-T.C. SAĞLIK BAKANLIĞI ERİŞKİN DİFTERİ-TETANOZ AŞI KARTI | 
+**T.C. SAĞLIK BAKANLIĞI** ERİŞKİN DİFTERİ-TETANOZ AŞI KARTI | 
 
 ADI |  | SOYADI | 
 

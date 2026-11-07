@@ -55,7 +55,7 @@ Yoğun bakım ve yeni doğan yoğun bakım ünitelerinin çalışmalarına ait i
 
 Hastane yönetimlerince, yukarıda açıklanan konularda gerekli düzenlemelerin, 15/07/2010 tarihine kadar tamamlanması ve uygulamanın bünyesinde yoğun bakım ve yeni doğan yoğun bakım üniteleri bulunan tüm sağlık kurumlarında 01/08/2010 tarihi itibariyle başlatılması gerekmektedir.
 
-Ayrıca, yoğun bakım birimlerinde verilmekte olan hizmetlerin istatistiki verilerinin toplanabilmesi ve değerlendirilebilmesi için geliştirilen, “Yoğun Bakım Çalışmaları Aylık Bilgi Toplama Formu” na tedavi.saglik.gov.tr. adresinden “formlar” menüsünden ulaşılabilmektedir. İl sağlık müdürlükleri “il sağlık kontrol” menüsünden, hastane yönetimleri ise “tedavi formları” menüsünden giriş yapacaklardır.
+Ayrıca, yoğun bakım birimlerinde verilmekte olan hizmetlerin istatistiki verilerinin toplanabilmesi ve değerlendirilebilmesi için geliştirilen, “Yoğun Bakım Çalışmaları Aylık Bilgi Toplama Formu” na tedavi.**saglik.gov.tr**. adresinden “formlar” menüsünden ulaşılabilmektedir. İl sağlık müdürlükleri “il sağlık kontrol” menüsünden, hastane yönetimleri ise “tedavi formları” menüsünden giriş yapacaklardır.
 
 -2-
 

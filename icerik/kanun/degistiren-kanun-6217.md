@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/04/20110414-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN YARGI
-HİZMETLERİNİN HIZLANDIRILMASI AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN YARGI**
+**HİZMETLERİNİN HIZLANDIRILMASI AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6217 Kabul Tarihi: 31/3/2011
 
 MADDE 1 – 21/6/1927 tarihli ve 1111 sayılı Askerlik Kanununun 47 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -77,7 +77,7 @@ MADDE 11 – 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 91 inci maddesin
 MADDE 12 – 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 13 üncü maddesinin birinci fıkrasının (i) bendinde yer alan “açılan davalar” ibaresinden sonra gelmek üzere “ve kanun yolu başvuruları ile ceza mahkemelerinden verilen kararlara karşı kanun yolu başvuruları,” ibaresi eklenmiştir.
 
 
-MADDE 13 – 492 sayılı Kanunun (1) sayılı Tarifesinin “A – Mahkeme Harçları” bölümünün “Hukuk ve ticaret davalarıyla, idarî davalarda ihtilafsız yargı konularında ve icra tetkik mercilerinde” başlığında yer alan “Hukuk” ibaresinden sonra gelmek üzere “, ceza” ibaresi eklenmiş, “IV. Temyiz ve itiraz harçları” kısmı başlığıyla birlikte aşağıdaki şekilde değiştirilmiş ve aynı Kanunun
+**MADDE 13 –** 492 sayılı Kanunun (1) sayılı Tarifesinin “A – Mahkeme Harçları” bölümünün “Hukuk ve ticaret davalarıyla, idarî davalarda ihtilafsız yargı konularında ve icra tetkik mercilerinde” başlığında yer alan “Hukuk” ibaresinden sonra gelmek üzere “, ceza” ibaresi eklenmiş, “IV. Temyiz ve itiraz harçları” kısmı başlığıyla birlikte aşağıdaki şekilde değiştirilmiş ve aynı Kanunun
 (2) sayılı Tarifesinin “II – Maktu harçlar” bölümünün (11) numaralı bendine “miras taksim mukaveleleri,” ibaresinden sonra gelmek üzere “mirasçılık belgesi,” ibaresi eklenmiştir.
 “IV. Temyiz, istinaf ve itiraz harçları:
 a) Yargıtay hukuk dairelerine yapılacak temyiz başvurularında 90 TL
@@ -90,7 +90,7 @@ g) İdarî yaptırımlar konusunda sulh ceza mahkemelerince verilen son karara k
 h) İcra mahkemelerinin kararlarına karşı itirazen yapılacak başvurularda 20 TL”
 
 MADDE 14 – 18/1/1972 tarihli ve 1512 sayılı Noterlik Kanununa 71 inci maddesinden sonra gelmek üzere “Diğer İşlemler” başlığıyla “Üçüncü Bölüm” ve aşağıdaki maddeler eklenmiştir.
-“ÜÇÜNCÜ BÖLÜM Diğer İşlemler Noterlerin yapabilecekleri diğer işlemler:
+**“ÜÇÜNCÜ BÖLÜM Diğer İşlemler** Noterlerin yapabilecekleri diğer işlemler:
 
 MADDE 71/A – Aşağıda belirtilen işlemler noterler tarafından da yapılabilir:
 a) Terk eden eşin ortak konuta davet edilmesi.

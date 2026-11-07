@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/08/20080819-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
 Kanun No. 5797 Kabul Tarihi: 31/7/2008
 
 

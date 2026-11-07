@@ -58,7 +58,7 @@ ifade eder.
 
 ## İKİNCİ BÖLÜM
 
-Müdürlük Performans Değerlendirme Komisyonunun Kurulması, Görevleri, Çalışma
+**Müdürlük Performans Değerlendirme Komisyonunun Kurulması, Görevleri, Çalışma**
 
 ### Usul ve Esasları
 
@@ -192,17 +192,17 @@ c) Komisyon itiraz başvurusunu en geç bir ay içerisinde değerlendirerek kesi
 
 ### EKLER
 
-EK-1: Performans Gösterge Puan Tablosu
+**EK-1: Performans Gösterge Puan Tablosu**
 
-EK-2: Performans Gösterge Kartları
+**EK-2: Performans Gösterge Kartları**
 
-EK-3: İl Performans Raporu
+**EK-3: İl Performans Raporu**
 
-EK-4: İtiraz Başvuru Formu
+**EK-4: İtiraz Başvuru Formu**
 
-EK-5: İl Performans Puanı Hesaplama Formülü ve
+**EK-5: İl Performans Puanı Hesaplama Formülü ve**
 
-Performans Değerlendirme Başarı Grupları Tablosu
+**Performans Değerlendirme Başarı Grupları Tablosu**
 
 ### Gösterge Puan Tablosu
 

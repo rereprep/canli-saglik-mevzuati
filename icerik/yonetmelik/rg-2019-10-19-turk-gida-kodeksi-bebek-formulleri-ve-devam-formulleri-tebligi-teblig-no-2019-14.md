@@ -12,10 +12,10 @@ durum: "yürürlükte"
 ---
 
 Tarım ve Orman Bakanlığından:
-TÜRK GIDA KODEKSİ BEBEK FORMÜLLERİ VE DEVAM FORMÜLLERİ TEBLİĞİ
-(TEBLİĞ NO: 2019/14)’NDE DEĞİŞİKLİK
-YAPILMASINA DAİR TEBLİĞ
-(TEBLİĞ NO: 2019/42)
+**TÜRK GIDA KODEKSİ BEBEK FORMÜLLERİ VE DEVAM FORMÜLLERİ TEBLİĞİ**
+**(TEBLİĞ NO: 2019/14)’NDE DEĞİŞİKLİK**
+**YAPILMASINA DAİR TEBLİĞ**
+**(TEBLİĞ NO: 2019/42)**
 
 MADDE 1 – 2/7/2019 tarihli ve 30819 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Bebek Formülleri ve Devam Formülleri Tebliği (Tebliğ No: 2019/14)’nin Ek-1’indeki “5.YAĞLAR” başlığı altında yer alan 5.3 numaralı maddesi ve “11. VİTAMİNLER” başlığı altında yer alan D vitaminine ait satır aşağıdaki şekilde değiştirilmiştir.
 “5.3. Erusik asit içeriği, toplam yağ içeriğinin % 0,4’ünü geçmemelidir.”

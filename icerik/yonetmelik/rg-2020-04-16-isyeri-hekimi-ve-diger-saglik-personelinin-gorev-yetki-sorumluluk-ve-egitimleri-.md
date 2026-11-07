@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Aile, Çalışma ve Sosyal Hizmetler Bakanlığından:
-İŞYERİ HEKİMİ VE DİĞER SAĞLIK PERSONELİNİN GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞYERİ HEKİMİ VE DİĞER SAĞLIK PERSONELİNİN GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 20/7/2013 tarihli ve 28713 sayılı Resmî Gazete’de yayımlanan İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 32 nci maddesine aşağıdaki fıkra eklenmiştir.
 “(2) Salgın hastalık ve doğal afet gibi mücbir sebepler nedeniyle işyeri hekimliği eğitim programının teorik kısmının tamamının uzaktan eğitim ile verilmesine karar vermeye Bakanlık yetkilidir.

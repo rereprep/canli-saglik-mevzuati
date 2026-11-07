@@ -10,13 +10,13 @@ durum: "yürürlükte"
 
 ## MAL BİLDİRİMİNDE BULUNULMASI, RÜŞVET VE YOLSUZLUKLARLA MÜCADELE KANUNU
 
-Kanun Numarası : 3628
+**Kanun Numarası : 3628**
 
-Kabul Tarihi : 19.4.1990
+**Kabul Tarihi : 19.4.1990**
 
-Yayımlandığı Resmî Gazete : Tarih: 4.5.1990 Sayı: 20508
+**Yayımlandığı Resmî Gazete : Tarih: 4.5.1990 Sayı: 20508**
 
-Yayımlandığı Düstur : Tertip: 5 Cilt: 29 Sayfa: 95
+**Yayımlandığı Düstur : Tertip: 5 Cilt: 29 Sayfa: 95**
 
 ## BİRİNCİ BÖLÜM Genel Hükümler
 
@@ -34,7 +34,7 @@ c) Türk Hava Kurumunun genel yönetim ve merkez denetleme kurulu üyeleri ile g
 
 d) Genel ve katma bütçeli daireler, il özel idareleri, belediyeler ve bunlara bağlı kuruluş veya alt kuruluşlarda, kamu iktisadi teşebbüsleri (İktisadi devlet teşekkülleri ve kamu iktisadi kuruluşları) ile bunlara bağlı müessese, bağlı ortaklık ve işletmelerde, özel kanunlarla veya Cumhurbaşkanlığı kararnamesiyle kurulan ve kamu hizmeti gören kurum ve kuruluşlar ile bunların alt kuruluşlarında veya komisyonlarında aylık, ücret ve ödenek almak suretiyle kamu hizmeti gören memurları, işçi niteliği taşımayan diğer kamu görevlileri ile yönetim ve denetim kurulu üyeleri,
 
-e) (Mülga: 24/6/1995 - KHK - 557/21 md.)
+e) **(Mülga: 24/6/1995 - KHK - 557/21 md.)**
 
 f) Siyasi parti genel başkanları, vakıfların idare organlarında görev alanlar, kooperatiflerin ve birliklerinin başkanları, yönetim kurulun üyeleri ve genel müdürleri, yeminli mali müşavirler, kamu yararına sayılan dernek yönetici ve deneticileri,
 
@@ -104,7 +104,7 @@ f) Diğer kurum ve kuruluşların memur ve hizmetlileri için atamaya yetkili ma
 
 g) Türk Hava Kurumu ile Türkiye Kızılay Derneğinde görev alanlar için kurum ve dernek genel başkanlığı,
 
-h) (Mülga: 24/6/1995 - KHK - 557/21 md.)
+h) **(Mülga: 24/6/1995 - KHK - 557/21 md.)**
 
 i) Görevlerinden ayrılanlar için bu görevlerinde iken bildirimlerinin vermeleri gereken makam veya merci,
 
@@ -130,7 +130,7 @@ Görevleri sebebiyle birden fazla mal bildiriminde bulunması gerekenler asli g�
 
 **Madde 9 –** Mal bildirimleri, özel kanunlardaki hükümler saklı kalmak kaydıyla bildirimde bulunanın özel dosyasında saklanır. Bildirimlerin içeriği hakkında, 20 nci madde hükmü dışında hiçbir şekilde açıklama yapılamaz ve bilgi verilemez. Ayrıca mal bildirimlerindeki bilgiler ve kayıtlar esas alınarak içeriği hakkında yayında bulunulamaz.
 
-(Ek fıkra: 25/5/2004-5176/8 md.) Ancak, Kamu Görevlileri Etik Kurulu mal bildirimlerini gerektiğinde inceleme yetkisine sahiptir. Mal bildirimlerindeki bilgilerin doğruluğunun kontrolü amacıyla ilgili kişi ve kuruluşlar (bankalar ve özel finans kurumları dahil) talep edilen bilgileri en geç otuz gün içinde Kurula vermekle yükümlüdürler.
+**(Ek fıkra: 25/5/2004-5176/8 md.)** Ancak, Kamu Görevlileri Etik Kurulu mal bildirimlerini gerektiğinde inceleme yetkisine sahiptir. Mal bildirimlerindeki bilgilerin doğruluğunun kontrolü amacıyla ilgili kişi ve kuruluşlar (bankalar ve özel finans kurumları dahil) talep edilen bilgileri en geç otuz gün içinde Kurula vermekle yükümlüdürler.
 
 ## ÜÇÜNCÜ BÖLÜM Ceza Hükümleri
 
@@ -180,7 +180,7 @@ Görevleri veya sıfatları sebebi ile özel soruşturma ve kovuşturma usulüne
 
 **Madde 18 –** Yukarıdaki maddede yazılı suçlara ilişkin ihbarlar doğrudan Cumhuriyet Başsavcılıklarına yapılır. İhbar üzerine derhal bir ihbar tutanağı düzenlenir ve bir örneği muhbire verilir. Acele ve gecikmesinde sakınca umulan hallerde tutanak düzenlenmesi sonraya bırakılabilir. Muhbirlerin kimlikleri, rızaları olmadıkça açıklanmaz. İhbar asılsız çıktığında aleyhine takibat yapılanın istemi üzerine muhbirin kimliği açıklanır.
 
-(Ek fıkra: 12/12/2003-5020/13 md.) Yukarıdaki fıkraya göre yapılan ihbar veya takipsizlik kararı ve iddianame Cumhuriyet başsavcılığınca, ilgili kamu kurum veya kuruluşlarına bildirilir. (Değişik cümle: 1/7/2022-7417/40 md.) İlgili kamu kurum veya kuruluşları tarafından yazılı başvuruda bulunulması halinde bu kurum veya kuruluşlar, başvuru tarihinde müdahil sıfatını kazanır.
+**(Ek fıkra: 12/12/2003-5020/13 md.)** Yukarıdaki fıkraya göre yapılan ihbar veya takipsizlik kararı ve iddianame Cumhuriyet başsavcılığınca, ilgili kamu kurum veya kuruluşlarına bildirilir. **(Değişik cümle: 1/7/2022-7417/40 md.)** İlgili kamu kurum veya kuruluşları tarafından yazılı başvuruda bulunulması halinde bu kurum veya kuruluşlar, başvuru tarihinde müdahil sıfatını kazanır.
 
 Bu suçlardan dolayı müfettiş ve muhakkikler de soruşturma neticesinde delil veya emare elde ettikleri takdirde, işi yetkili ve görevli Cumhuriyet Başsavcılığına ihbar ve evrakı tevdi ederler. Cumhuriyet Başsavcılığı müfettiş ve muhakkikler tarafından kendisine tevdiine lüzum görülmediği halde dahi evrakın taalluk ettiği iş hakkında soruşturma yapmak üzere gerekçe göstererek evrakı ait olduğu merciden isteyebilir.
 
@@ -234,13 +234,13 @@ Mal bildiriminde bulunmayan veya gerçeğe aykırı beyanda bulunanlar hakkında
 
 ### 3628 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLO
 
-Değiştiren Kanunun/ KHK’nin veya İptal Eden 3628 Sayılı Kanunun Değişen
+**Değiştiren Kanunun/ KHK’nin veya İptal Eden 3628 Sayılı Kanunun Değişen**
 
-Yürürlüğe Giriş Tarihi
+**Yürürlüğe Giriş Tarihi**
 
-Anayasa Mahkemesi veya İptal Edilen Maddeleri
+**Anayasa Mahkemesi veya İptal Edilen Maddeleri**
 
-Kararının Numarası
+**Kararının Numarası**
 
 KHK-557 2, 8 27/6/1995
 
@@ -266,4 +266,4 @@ göreve başladığı tarihte
 
 **Dipnotlar**
 
-<small>2/7/2018 tarihli ve 700 sayılı KHK’nin 114 üncü maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer alan “ve dışardan atanan Bakanlar Kurulu üyeleri,” ibaresi “ile Cumhurbaşkanı yardımcıları ve bakanlar” şeklinde ve (d) bendinde yer alan “özel kanunların verdiği yetkiye dayanılarak” ibaresi “Cumhurbaşkanlığı kararnamesiyle” şeklinde değiştirilmiştir. 2/7/2018 tarihli ve 700 sayılı KHK’nin 114 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu üyeliğine” ibaresi “Cumhurbaşkanı yardımcısı veya bakan olarak” şeklinde değiştirilmiştir. 2/7/2018 tarihli ve 700 sayılı KHK’nin 114 üncü maddesiyle, bu bentte yer alan “ve Bakanlar Kurulu” ibaresi madde metninden çıkarılmış ve aynı bende “Başkanlığı,” ibaresinden sonra gelmek üzere “Cumhurbaşkanı yardımcıları ve bakanlar için Cumhurbaşkanlığı,” ibaresi eklenmiştir. 1/7/2022 tarihli ve 7417 sayılı Kanunun 40 ıncı maddesiyle bu fıkranın birinci cümlesinde yer alan “Maliye Bakanlığı Baş Hukuk Müşavirliği ve Muhakemat Genel Müdürlüğü ile varsa diğer” ibaresi madde metninden çıkarılmıştır. 1/7/2022 tarihli ve 7417 sayılı Kanunun 41 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “, Maliye Bakanlığı Baş Hukuk Müşavirliği ve Muhakemat Genel Müdürlüğü veya temsilcisi” ibaresi madde metninden çıkarılmıştır. 2/7/2018 tarihli ve 700 sayılı KHK’nin 114 üncü maddesiyle, bu fıkrada yer alan “Kanunun yayımını izleyen altı ay içinde Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>2/7/2018 tarihli ve 700 sayılı KHK’nin 114 üncü maddesiyle, bu maddenin birinci fıkrasının (a) <i>bendinde yer alan “ve dışardan atanan Bakanlar Kurulu üyeleri,” ibaresi “ile Cumhurbaşkanı</i> <i>yardımcıları ve bakanlar” şeklinde ve (d) bendinde yer alan “özel kanunların verdiği yetkiye</i> <i>dayanılarak” ibaresi “Cumhurbaşkanlığı kararnamesiyle” şeklinde değiştirilmiştir.</i> 2/7/2018 tarihli ve 700 sayılı KHK’nin 114 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu <i>üyeliğine” ibaresi “Cumhurbaşkanı yardımcısı veya bakan olarak” şeklinde değiştirilmiştir.</i> 2/7/2018 tarihli ve 700 sayılı KHK’nin 114 üncü maddesiyle, bu bentte yer alan “ve Bakanlar <i>Kurulu” ibaresi madde metninden çıkarılmış ve aynı bende “Başkanlığı,” ibaresinden sonra gelmek</i> <i>üzere “Cumhurbaşkanı yardımcıları ve bakanlar için Cumhurbaşkanlığı,” ibaresi eklenmiştir.</i> 1/7/2022 tarihli ve 7417 sayılı Kanunun 40 ıncı maddesiyle bu fıkranın birinci cümlesinde yer alan <i>“Maliye Bakanlığı Baş Hukuk Müşavirliği ve Muhakemat Genel Müdürlüğü ile varsa diğer” ibaresi</i> <i>madde metninden çıkarılmıştır.</i> 1/7/2022 tarihli ve 7417 sayılı Kanunun 41 inci maddesiyle bu fıkranın birinci cümlesinde yer alan <i>“, Maliye Bakanlığı Baş Hukuk Müşavirliği ve Muhakemat Genel Müdürlüğü veya temsilcisi” ibaresi</i> <i>madde metninden çıkarılmıştır.</i> 2/7/2018 tarihli ve 700 sayılı KHK’nin 114 üncü maddesiyle, bu fıkrada yer alan “Kanunun yayımını <i>izleyen altı ay içinde Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>

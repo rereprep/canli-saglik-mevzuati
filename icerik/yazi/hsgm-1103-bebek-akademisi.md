@@ -25,13 +25,13 @@ DAĞITIM YERLERİNE
 
 Toplum sağlığının güçlendirilmesi için bireylerin yaşam döngüsünün tüm dönemlerinde desteklenmesi önem arz etmektedir. Özellikle beyin gelişiminin en kritik olduğu bebeklik ve erken çocukluk döneminde ailelerin bilinçlendirilmesi, sağlıklı nesillerin yetişmesi açısından hayati bir unsurdur. Bununla birlikte, ergenlik döneminde çocukların herhangi bir sağlık problemi olmasa dahi kontrol amacıyla sağlık kurumlarına başvurmalarının sağlanması ve olası bir sorun tespitinde ilgili uzman hekime yönlendirilmesi; sağlıklı yetişkinliğe giden yolda en önemli adımlardan biridir.
 
-Bu doğrultuda, Genel Müdürlüğümüzce Sağlıklı Hayat Merkezleri (SHM) bünyesinde; ailelere ve çocuklara eğitim ve danışmanlık hizmeti sunmak amacıyla “Bebek, Çocuk ve Genç Akademileri” kurulması planlanmaktadır.
+Bu doğrultuda, Genel Müdürlüğümüzce Sağlıklı Hayat Merkezleri (SHM) bünyesinde; ailelere ve çocuklara eğitim ve danışmanlık hizmeti sunmak amacıyla “**Bebek, Çocuk ve Genç Akademileri”** kurulması planlanmaktadır.
 
- Bebek Akademisi: Ebeveynlere yönelik olup; gebelikten itibaren psikolojik destek, aile bireylerinin rolleri, anneye destek yolları, ebeveynlerin evdeki sorumlulukları ve ebeveynlik kavramı, bebek bakımı, beslenme, bağışıklama gibi birçok konuyu içerecektir.
+ **Bebek Akademisi:** Ebeveynlere yönelik olup; gebelikten itibaren psikolojik destek, aile bireylerinin rolleri, anneye destek yolları, ebeveynlerin evdeki sorumlulukları ve ebeveynlik kavramı, bebek bakımı, beslenme, bağışıklama gibi birçok konuyu içerecektir.
 
- Çocuk Akademisi: Ebeveynlerle birlikte çocuklara yönelik olup; gelişim basamakları, oyun ve kitap seçimi, tuvalet ve uyku eğitimi, sağlıklı beslenme, diş sağlığı, düzenli muayene ve takipler ile okul öncesi aşılar hakkında bilgilendirme yapılacaktır.
+ **Çocuk Akademisi:** Ebeveynlerle birlikte çocuklara yönelik olup; gelişim basamakları, oyun ve kitap seçimi, tuvalet ve uyku eğitimi, sağlıklı beslenme, diş sağlığı, düzenli muayene ve takipler ile okul öncesi aşılar hakkında bilgilendirme yapılacaktır.
 
- Genç Akademisi: Ergenlere yönelik olup; düzenli sağlık kontrolleri, ruhsal ve fiziksel değişimler, sağlıklı yaşam alışkanlıkları, teknoloji kullanımı, stresle baş etme, ergenlik dönemi aşıları (HPV, tetanoz pekiştirme vb.) ve zararlı alışkanlıklardan korunma gibi konuları kapsayacaktır.
+ **Genç Akademisi:** Ergenlere yönelik olup; düzenli sağlık kontrolleri, ruhsal ve fiziksel değişimler, sağlıklı yaşam alışkanlıkları, teknoloji kullanımı, stresle baş etme, ergenlik dönemi aşıları (HPV, tetanoz pekiştirme vb.) ve zararlı alışkanlıklardan korunma gibi konuları kapsayacaktır.
 
 Ülkemizde 12 adet Düzey 1 ve 26 adet Düzey 2 NUTS bölgesi tanımlanmış olup; söz konusu eğitimlerde bölgesel temsiliyetin sağlanması amacıyla 26 alt bölgeden katılımcılar alınacak, ortak çalışmalar yürütülecek ve bölge sorumlulukları iller arasında paylaştırılacaktır.
 

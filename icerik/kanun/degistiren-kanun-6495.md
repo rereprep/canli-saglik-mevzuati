@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/08/20130802-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
 Kanun No. 6495 Kabul Tarihi: 12/7/2013
 
@@ -286,7 +286,7 @@ Yeterlik sınavında başarılı olan müfettiş yardımcıları müfettiş kadr
 MADDE 39 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin dördüncü fıkrasının (e) bendinin sonuna “ile polis nasbedilmek üzere Polis Meslek Eğitim Merkezlerinde polislik eğitimine tabi tutulan adaylar” ibaresi eklenmiştir.
 
 
-MADDE 40 – 5510 sayılı Kanunun 66 ncı maddesinin birinci fıkrasına aşağıdaki (d) bendi, dördüncü fıkrasının sonuna “Ancak, Kuruma gönderilen sağlık hizmeti faturalarında yer alan işlem bedellerinin ayrıntılı belirtilemediği durumlarda, söz konusu fatura bedelinin yüzde ellisi Kurumca, kalan yüzde ellisi ise kendi kurumlarınca karşılanır.”
+**MADDE 40 –** 5510 sayılı Kanunun 66 ncı maddesinin birinci fıkrasına aşağıdaki (d) bendi, dördüncü fıkrasının sonuna “Ancak, Kuruma gönderilen sağlık hizmeti faturalarında yer alan işlem bedellerinin ayrıntılı belirtilemediği durumlarda, söz konusu fatura bedelinin yüzde ellisi Kurumca, kalan yüzde ellisi ise kendi kurumlarınca karşılanır.”
 cümlesi, altıncı fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “d) Bu fıkranın (a) ve (b) bentleri kapsamında veya bunların dışında herhangi bir nedenle Kuzey Kıbrıs Türk Cumhuriyetinde bulunan ve Türk vatandaşı olan genel sağlık sigortalılarının ve bakmakla yükümlü olduğu kişilerin,” “Birinci fıkranın (d) bendi gereğince sağlanan sağlık hizmetlerinin Kurumca karşılanacak bedelleri yurt içinde sözleşmeli sağlık hizmet sunucularına ödenen tutarı geçemez ve bu sağlık hizmet sunucularına ödenen tutarı geçen kısım, birinci fıkranın (a) ve (b) bentleri kapsamında bulunanlara ilişkin hükümler saklı kalmak kaydıyla, kişilerin kendilerince karşılanır. Bu kişilerin 65 inci madde hükümlerine göre yapılacak giderleri karşılanmaz.”
 
@@ -781,13 +781,13 @@ Ek 79 uncu madde kapsamında ek ödemenin beş katı tutarında yardım yapılm�
 MADDE 96 – 5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (c) bendinin birinci ve ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Harp malulleri ile 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanuna veya 2330 sayılı Kanun hükümleri veya 8/6/1949 tarihli ve 5434 sayılı Kanunun 56 ncı maddesi uygulanarak aylık bağlanmasını gerektiren kanunlara göre vazife malullüğü aylığı bağlanmış malullerden, 4 üncü maddenin birinci fıkrasının (a), (b) ve (c) bentleri kapsamında sigortalı olarak çalışmaya başlayanların aylıkları kesilmez.”
 
-MADDE 97 – 5510 sayılı Kanunun 47 nci maddesinin beşinci fıkrasının ikinci cümlesi ile onbeşinci fıkrasının (a) ve (d) bentlerinin birinci cümleleri aşağıdaki şekilde değiştirilmiştir.
+**MADDE 97 –** 5510 sayılı Kanunun 47 nci maddesinin beşinci fıkrasının ikinci cümlesi ile onbeşinci fıkrasının (a) ve (d) bentlerinin birinci cümleleri aşağıdaki şekilde değiştirilmiştir.
 “Ancak, harp malulleri ile 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanuna veya 2330 sayılı Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlara göre veya 5434 sayılı Kanunun 56 ncı maddesine göre vazife malulü olduğuna karar verilenlerden, sınıf veya görev değiştirerek çalışmaya devam edenlere ise görevden ayrılmalarına ve başkaca bir müracaata gerek kalmaksızın sınıf veya görev değiştirerek çalışmaya başladıkları tarihi takip eden ay başından itibaren aylık bağlanır.”
 “5 inci maddenin birinci fıkrasının (c) bendi hükmü saklı kalmak kaydıyla vazife malûllüğü aylığı bağlanmış olanlardan Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında çalışmaya başlayanların aylıkları, çalışmaya başladıkları tarihi takip eden ödeme dönemi başından itibaren kesilir ve bunlar hakkında uzun vadeli sigorta kolları uygulanır.”
 “Harp malulleri ile 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanuna veya 2330 sayılı Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlara göre veya 5434 sayılı Kanunun 56 ncı maddesine göre vazife malulü olduğuna karar verilenlerden, sınıf veya görev değiştirerek 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında çalışmaya devam edenler hakkında uzun vadeli sigorta kollarının uygulanmasına devam edilir.”
 
 
-MADDE 98 – 5510 sayılı Kanunun geçici 14 üncü maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde, aynı maddenin birinci fıkrasının (d) bendinde geçen “3713 sayılı Kanuna göre” ibaresi ile ikinci fıkrasında geçen “3713 sayılı Kanun kapsamında” ibaresi “2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun veya 2330 sayılı Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlar veya 5434 sayılı Kanunun 56 ve mülga 64 üncü maddeleri kapsamında” şeklinde değiştirilmiş ve aynı maddenin birinci fıkrasının (d) bendinin son cümlesi yürürlükten kaldırılmıştır.
+**MADDE 98 –** 5510 sayılı Kanunun geçici 14 üncü maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde, aynı maddenin birinci fıkrasının (d) bendinde geçen “3713 sayılı Kanuna göre” ibaresi ile ikinci fıkrasında geçen “3713 sayılı Kanun kapsamında” ibaresi “2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun veya 2330 sayılı Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlar veya 5434 sayılı Kanunun 56 ve mülga 64 üncü maddeleri kapsamında” şeklinde değiştirilmiş ve aynı maddenin birinci fıkrasının (d) bendinin son cümlesi yürürlükten kaldırılmıştır.
 “c) 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanuna veya 2330 sayılı Kanun hükümleri uygulanarak aylık bağlanmasını gerektiren kanunlara göre veya 5434 sayılı Kanunun 56 ve mülga 64 üncü maddelerine göre vazife malullüğü aylığı almakta iken; bu Kanunun yürürlüğe girdiği tarih itibarıyla çalışmaya devam edenler ile sonradan bu Kanuna tabi çalışmaya başlayacaklar için sosyal güvenlik destek primi uygulanmaksızın bu Kanunun 5 inci maddesinin (c) bendi hükümleri uygulanır.”
 
 MADDE 99 – 5510 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.

@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -64,7 +64,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Obezite Ünitesi ve Obezite Cerrahisi Ünitelerine İlişkin İşlemler
+**Obezite Ünitesi ve Obezite Cerrahisi Ünitelerine İlişkin İşlemler**
 
 #### Obezite ünitesinin temel özellikleri
 
@@ -124,7 +124,7 @@ c) Görüşme ve muayene odası: Hasta ile görüşme hizmetlerinin verilebilece
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Obezite Programının Aşamaları ve Uygulama Süreci
+**Obezite Programının Aşamaları ve Uygulama Süreci**
 
 #### Uygulama şartları ve hasta seçimi
 
@@ -144,7 +144,7 @@ Obezite Programının Aşamaları ve Uygulama Süreci
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Denetim, yasaklar ve idari yaptırım
 
@@ -204,4 +204,4 @@ c) Ünitelerde, bu Yönetmelik hükümlerine aykırı olarak ve müdürlükten i
 
 **MADDE 17 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

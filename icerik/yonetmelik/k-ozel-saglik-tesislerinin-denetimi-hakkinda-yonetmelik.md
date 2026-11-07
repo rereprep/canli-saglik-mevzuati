@@ -19,7 +19,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -79,7 +79,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Denetim Türleri, Dosya ve Elektronik Sistem Üzerinden Denetim, Yetkisiz, İzinsiz veya Ruhsatsız Sunulan Sağlık Hizmetlerinin Denetimi
+**Denetim Türleri, Dosya ve Elektronik Sistem Üzerinden Denetim, Yetkisiz, İzinsiz veya Ruhsatsız Sunulan Sağlık Hizmetlerinin Denetimi**
 
 #### Denetim türleri
 
@@ -115,7 +115,7 @@ b) Herhangi bir kurum mevzuatı kapsamında ruhsatı bulunan işyerleri valilik�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Denetimin Usul ve Esasları, Yükümlülükler, İdari Yaptırımların Uygulanması, Denetim Sonuçlarına İtiraz, Savunma ve İdari Yaptırım Değerlendirme Komisyonu
+**Denetimin Usul ve Esasları, Yükümlülükler, İdari Yaptırımların Uygulanması, Denetim Sonuçlarına İtiraz, Savunma ve İdari Yaptırım Değerlendirme Komisyonu**
 
 #### Denetimin usul ve esasları
 
@@ -151,7 +151,7 @@ Denetimin Usul ve Esasları, Yükümlülükler, İdari Yaptırımların Uygulanm
 
 (2) İdari yaptırımların, Bakanlık veya valilik olurunun alındığı tarihten itibaren en geç on beş iş günü içerisinde uygulanması esastır. Ancak, sağlık tesisinin bir kısmında veya tamamında faaliyetin durdurulması, ruhsat veya faaliyet izninin askıya alınması veya iptaline ilişkin yaptırımlarda; mevcut yatan hastaların tedavisine devam edilir, faaliyet durdurma süresi içerisinde sağlık tesisine veya ilgili birimlere yeni hasta kabulü yapılamaz.
 
-(3) (Danıştay Onuncu Dairesinin 25/6/2024 tarihli ve E.:2024/223 sayılı kararı ile yürütmesi durdurulan fıkra: Sağlık tesisinin bir kısmında veya tamamında hastaların tedavisini olumsuz etkileyen, hizmetin devamı halinde hasta sağlığını ve güvenliğini tehlikeye sokan ve hizmetin gecikmeksizin derhal durdurulmasını gerektiren acil ve telafisi güç durumların ortaya çıkması ve bu durumun gerekçeleri de belirtilmek suretiyle denetim tespit tutanağı ile tevsik edilmesi kaydıyla eksiklik giderilinceye kadar sağlık tesisinin ilgili biriminde veya tamamında valilikçe faaliyet durdurulur ve Bakanlığa bildirilir. )
+(3) **(Danıştay Onuncu Dairesinin 25/6/2024 tarihli ve E.:2024/223 sayılı kararı ile yürütmesi durdurulan fıkra:** <i>Sağlık tesisinin bir kısmında veya tamamında hastaların tedavisini olumsuz etkileyen, hizmetin devamı halinde hasta sağlığını ve güvenliğini tehlikeye sokan ve hizmetin gecikmeksizin derhal durdurulmasını gerektiren acil ve telafisi güç durumların ortaya çıkması ve bu durumun gerekçeleri de belirtilmek suretiyle denetim tespit tutanağı ile tevsik edilmesi kaydıyla eksiklik giderilinceye kadar sağlık tesisinin ilgili biriminde veya tamamında valilikçe faaliyet durdurulur ve Bakanlığa bildirilir. )</i>
 
 (4) Sağlık tesisinin bir kısmında veya poliklinik faaliyetlerinin durdurulmasına ilişkin yaptırımlar, acil sağlık hizmetleri hariç olmak üzere uygulanır. Faaliyeti durdurulan uzmanlık dalında veya ilgili birimde yeni hasta kabulü yapılamaz. Faaliyeti durdurulduğu halde hasta kabulüne devam eden sağlık tesisinin faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti iki kat süreyle durdurulmasına rağmen hasta kabulü yapan sağlık tesisinin ruhsatı Bakanlıkça iptal edilir.
 
@@ -203,7 +203,7 @@ Denetimin Usul ve Esasları, Yükümlülükler, İdari Yaptırımların Uygulanm
 
 ### DÖRDÜNCÜ BÖLÜM
 
-İl Denetim Birimi ve Ekibinin Kurulması, Görev, Yetki ve Sorumluluklar, Denetleyicinin Görevlendirilmesi ve Yükümlülükler
+**İl Denetim Birimi ve Ekibinin Kurulması, Görev, Yetki ve Sorumluluklar, Denetleyicinin Görevlendirilmesi ve Yükümlülükler**
 
 #### İl denetim biriminin kurulması
 
@@ -275,7 +275,7 @@ h) Denetim esnasında, tarafsızlık, eşitlik, dürüstlük, gizlilik, nezaket,
 
 ### BEŞİNCİ BÖLÜM
 
-İl Denetim Planı, Faaliyet Raporu, Standart Formlar ve Eğitim
+**İl Denetim Planı, Faaliyet Raporu, Standart Formlar ve Eğitim**
 
 #### İl denetim planı
 
@@ -297,7 +297,7 @@ h) Denetim esnasında, tarafsızlık, eşitlik, dürüstlük, gizlilik, nezaket,
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Tebligat
 
@@ -323,4 +323,4 @@ h) Denetim esnasında, tarafsızlık, eşitlik, dürüstlük, gizlilik, nezaket,
 
 **MADDE 24 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

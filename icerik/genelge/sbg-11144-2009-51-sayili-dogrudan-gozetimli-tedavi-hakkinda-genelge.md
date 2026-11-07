@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI
 
-Verem Savaşı Dairesi Başkanlığı Sayı : B.10.0.VSD.0.00.00.06-010/ Konu : Doğrudan Gözetimli Tedavi
+**Verem Savaşı Dairesi Başkanlığı Sayı :** B.10.0.VSD.0.00.00.06-010/ **Konu :** Doğrudan Gözetimli Tedavi
 
 ### ……………….VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE
 
@@ -42,7 +42,7 @@ doktor olan dispanserlerde sorumlu doktor tarafınca görevlendirilen dispanser
 
 ### SAĞLIK BAKANLIĞI
 
-Verem Savaşı Dairesi Başkanlığı doktoru, hasta ve ailesiyle görüşerek; hastanın yaşı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafından (DGT gözetmeni) nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-1’de yer alan “Tüberkülozlu Hasta ve DGT Bilgi Formu” doldurularak aynı gün İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesine bildirir.
+**Verem Savaşı Dairesi Başkanlığı** doktoru, hasta ve ailesiyle görüşerek; hastanın yaşı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafından (DGT gözetmeni) nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-1’de yer alan “Tüberkülozlu Hasta ve DGT Bilgi Formu” doldurularak aynı gün İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesine bildirir.
 
 b. Aile hekimliğine geçilen illerde; verem hastasının dispansere kaydı sonrasında dispanser doktoru, hastayı ilgili aile hekimine yönlendirir. Aile hekimi, hastaya DGT uygulaması hakkında bilgi verdikten sonra hasta ve ailesiyle görüşerek; hastanın yaşı, genel durumu, çalışma hayatı ve sosyal durumu dikkate alınarak ne zaman, kim tarafından (DGT gözetmeni) ve nerede en uygun DGT uygulaması yapılacağı kararlaştırılır. Sonra EK-1’de yer alan “Tüberkülozlu Hasta ve DGT Bilgi Formu” doldurularak aynı gün ilgili Verem Savaşı Dispanserine ve İl Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şubesine bildirir.
 
@@ -66,7 +66,7 @@ b. Aile hekimliğine geçilen illerde; verem hastasının dispansere kaydı sonr
 
 ### SAĞLIK BAKANLIĞI
 
-Verem Savaşı Dairesi Başkanlığı
+**Verem Savaşı Dairesi Başkanlığı**
 
 13. İl Sağlık Müdürlüğü, ildeki DGT uygulamasını kontrol etmek amacıyla haberli
 
@@ -102,7 +102,7 @@ Kullandığı gün sayısı
 
 Hasta ve yakınlarıyla DGT için gözetim planı yapıldı mı? ( ) Evet ( ) Hayır Gözetim planına göre nerede ilaç içirilecek? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . DGT kim tarafından uygulanacak? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . DGT planlamasıyla ilgili açıklanması gereken durumlar
 
-Tarih Bu formu dolduran doktorun imzası ve kaşesi . . . . . /. . . . / 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Not: Bu form, hastayla görüşülerek doldurulur ve aynı gün Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şube Müdürlüğüne faksla gönderilir. Ayrıca aile hekimliğine geçilen illerde aile hekimleri bu formu ilgili VSD'ye de iletir.Hastaya ait bilgilerin gizliliğine dikkat edilir.
+Tarih Bu formu dolduran doktorun imzası ve kaşesi . . . . . /. . . . / 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **Not:** Bu form, hastayla görüşülerek doldurulur ve aynı gün Sağlık Müdürlüğü Bulaşıcı Hastalıklar Şube Müdürlüğüne faksla gönderilir. Ayrıca aile hekimliğine geçilen illerde aile hekimleri bu formu ilgili VSD'ye de iletir.**Hastaya ait bilgilerin gizliliğine dikkat edilir.**
 
 ### AYLIK DGT İZLEM CETVELİ EK-2
 
@@ -174,21 +174,21 @@ Hastanın Adı Soyadı : Hasta Adresi Günlük ilaç poşeti içeriği: Tedavi i
 
 ### VSD Adı, Adresi Gözetmen-Görev Yeri
 
-Telefon: Telefon: Not: Hasta için VSD' de hazırlanan ilaçlar ve bu form, dispanser hekimi tarafından DGT gözetmenine ulaştırılır.
+Telefon: Telefon: **Not:** Hasta için VSD' de hazırlanan ilaçlar ve bu form, dispanser hekimi tarafından DGT gözetmenine ulaştırılır.
 
 ### AYLIK DGT DURUM RAPORU EK-3 İLİN ADI: . . . . . . . . . . . . . . . . . . . . . . . . . . . AİT OLDUĞU AY/YIL:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Düzenlenen Tarih:
+**Düzenlenen Tarih:**
 
 ### DGT DGT GÖZETMENİ İLE İLGİLİ BİLGİLER
 
-DGT
+**DGT**
 
 ### ** TEDAVİDEKİ TB UYGULANAN SAĞLIK PERSONELİ SAĞLIK PERSONELİ DIŞI İL DIŞINDA UYGULANAMAYAN * İLÇE ADI HASTA SAYISI HASTA SAYISI OLAN HASTA
 
-HASTA SAYISI Sağlık Kuruluşunda DGT Evde / İşyerinde DGT EV HALKI DİĞER
+HASTA SAYISI Sağlık Kuruluşunda **DGT** Evde / İşyerinde DGT **EV HALKI DİĞER**
 
 ### ( 1+2 ) ( 2 ) SAYISI
 

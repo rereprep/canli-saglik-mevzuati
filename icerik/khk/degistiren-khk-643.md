@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/06/20110608M1-11.pdf"
 durum: "yürürlükte"
 ---
 
-Abdullah GÜL
+**Abdullah GÜL**
 CUMHURBAŞKANI
 Recep Tayyip ERDOĞAN Başbakan
 C. ÇİÇEK B. ARINÇ A. BABACAN M. AYDIN

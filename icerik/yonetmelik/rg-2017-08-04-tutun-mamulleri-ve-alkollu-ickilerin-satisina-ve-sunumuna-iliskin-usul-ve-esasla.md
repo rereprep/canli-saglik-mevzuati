@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Tütün ve Alkol Piyasası Düzenleme Kurumundan:
-TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 7/1/2011 tarihli ve 27808 sayılı Resmî Gazete’de yayımlanan Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 4 üncü maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “n) Turizm Belgesi: Kültür ve Turizm Bakanlığı tarafından düzenlenmiş turizm işletmesi belgesi ve kısmi turizm işletmesi belgesini,”

@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -36,7 +36,7 @@ kapsamaz.
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin birinci fıkrasının (m) bendi ile 9 uncu maddesinin birinci fıkrasının (c) bendine ve (Değişik ibare:RG-10/9/2021-31594) 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 508 inci ve 796 ncı maddelerine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin birinci fıkrasının (m) bendi ile 9 uncu maddesinin birinci fıkrasının (c) bendine ve **(Değişik ibare:RG-10/9/2021-31594)** 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 508 inci ve 796 ncı maddelerine dayanılarak hazırlanmıştır.
 
 #### Tanımlar
 
@@ -76,7 +76,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Merkezin Ruhsatlandırılması ve Fiziki Özellikleri
+**Merkezin Ruhsatlandırılması ve Fiziki Özellikleri**
 
 #### Merkez ruhsat başvurusu
 
@@ -92,9 +92,9 @@ c) Merkezde görev alacak şahıslara ait diplomanın veya sorumlu müdür serti
 
 ç) Merkez sahibinin ve sorumlu müdürün T.C. Kimlik numarası beyanı.
 
-d) (Değişik:RG-4/4/2012-28254) Tüzel kişiliğin şirket olması halinde, şirket ilanının yayımlandığı ve merkezin açılışının faaliyetleri kapsamında olduğunu gösterir ticaret unvanı, kayıtlı olunan ticaret sicil memurluğunun adı ve ticaret sicil numarası beyanı (Şirket ana sözleşmesi Ticaret Sicil Gazetesinde 1/10/2003 tarihinden önce yayınlanmışsa Ticaret Sicil Gazetesinin aslı veya Kurumca onaylı örneği), bağlı bulunulan vergi dairesi adı ve vergi kimlik numarası beyanı, (Değişik ibare:RG-10/9/2021-31594) sicil tasdiknamesi .
+d) **(Değişik:RG-4/4/2012-28254)** Tüzel kişiliğin şirket olması halinde, şirket ilanının yayımlandığı ve merkezin açılışının faaliyetleri kapsamında olduğunu gösterir ticaret unvanı, kayıtlı olunan ticaret sicil memurluğunun adı ve ticaret sicil numarası beyanı (Şirket ana sözleşmesi Ticaret Sicil Gazetesinde 1/10/2003 tarihinden önce yayınlanmışsa Ticaret Sicil Gazetesinin aslı veya Kurumca onaylı örneği), bağlı bulunulan vergi dairesi adı ve vergi kimlik numarası beyanı, **(Değişik ibare:RG-10/9/2021-31594)** sicil tasdiknamesi .
 
-e) (Değişik:RG-4/4/2012-28254) Sorumlu müdürün mesleğini yapabileceğine dair sağlık durum beyanı.
+e) **(Değişik:RG-4/4/2012-28254)** Sorumlu müdürün mesleğini yapabileceğine dair sağlık durum beyanı.
 
 f) Merkez olarak kullanılacak yere ait olan ve iç mekânı da gösterir 1/100 ölçekli müdürlükçe veya toplum sağlığı merkezince onaylanmış kroki veya plan.
 
@@ -102,7 +102,7 @@ g) Merkezde kullanılan ve bulundurulması zorunlu olan asgari cihaz ve malzemel
 
 ğ) Merkez olarak kullanılacak yerde yangına karşı gerekli tedbirlerin alındığına dair ilgili mevzuata göre yetkili olan mercilerden alınan belge.
 
-h) (Değişik:RG-4/4/2012-28254) Sorumlu müdürün 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle ya da devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, millî savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, kamunun sağlığına karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık suçlarından hapis cezasına mahkûm olmadığına dair adli sicil durum beyanı,
+h) **(Değişik:RG-4/4/2012-28254)** Sorumlu müdürün 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle ya da devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, millî savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, kamunun sağlığına karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık suçlarından hapis cezasına mahkûm olmadığına dair adli sicil durum beyanı,
 
 #### Başvurunun değerlendirilmesi
 
@@ -110,7 +110,7 @@ h) (Değişik:RG-4/4/2012-28254) Sorumlu müdürün 26/9/2004 tarihli ve 5237 sa
 
 (2) Komisyon aşağıdaki üyelerden oluşur:
 
-a) (Değişik:RG-24/9/2013-28775) İlgili şube müdürü.
+a) **(Değişik:RG-24/9/2013-28775)** İlgili şube müdürü.
 
 b) İlgili şube müdürlüğünde görevli bir personel.
 
@@ -120,7 +120,7 @@ c) İldeki kamu hastanelerinde veya üniversite hastanelerinde görev yapan;
 
 2) İşitme cihazı merkezleri için bir kulak burun boğaz uzmanı, bu uzmanın bulunmadığı hallerde bir odyolog, yoksa bir odyometri teknikeri.
 
-(3) (Değişik:RG-24/9/2013-28775) Komisyona ilgili şube müdürü başkanlık eder.
+(3) **(Değişik:RG-24/9/2013-28775)** Komisyona ilgili şube müdürü başkanlık eder.
 
 (4) Merkezin uygun şartları taşımaması durumunda komisyon raporu ile merkeze ait eksiklikler merkez kurucusuna bildirilir. Merkez kurucusu, düzenlenmiş olan komisyon raporu tarihini müteakip bu eksikliklerini kırk beş iş günü içerisinde gidererek yeniden açılış izni almak için müdürlüğe, dosya hazırlamadan dilekçe ile başvurabilir. Başvuruyu müteakip, komisyon; merkezin fiziki özelliklerini ve donanımını yerinde inceleyerek yeniden raporunu hazırlar. Komisyon raporunun bir örneği merkez kurucusuna verilir, diğer örneği merkeze ait dosya içerisinde müdürlükte muhafaza edilir.
 
@@ -176,7 +176,7 @@ c) Merkezin bütün ortamları hijyene uygun olur, yeterli ısıtma, havalandır
 
 ç) Merkezde, Ek-7’de yer alan cihaz ve malzemeler bulundurulur.
 
-d) (Mülga:RG-24/9/2013-28775)
+d) **(Mülga:RG-24/9/2013-28775)**
 
 #### Merkez açılamayacak yerler
 
@@ -186,7 +186,7 @@ d) (Mülga:RG-24/9/2013-28775)
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Personel Durumu, Görev, Yetki ve Sorumluluklar ile Merkezlerin Çalışma Esasları
+**Personel Durumu, Görev, Yetki ve Sorumluluklar ile Merkezlerin Çalışma Esasları**
 
 #### Sorumlu müdür
 
@@ -210,7 +210,7 @@ f) Denetimlerde, denetim elemanlarına gerekli kolaylıkları sağlamak ve isten
 
 g) Bu Yönetmelikte öngörülen ve merkez faaliyetleri ile ilgili olan diğer görevleri yerine getirmek.
 
-(3) (Değişik:RG-24/9/2013-28775) Sorumlu müdür başka bir merkez veya kurumda görev yapamaz. Bu durumun tespiti halinde, sorumlu müdür belgesi iptal edilir ve bu kişiler adına bir yıl süreyle sorumlu müdür belgesi düzenlenmez.
+(3) **(Değişik:RG-24/9/2013-28775)** Sorumlu müdür başka bir merkez veya kurumda görev yapamaz. Bu durumun tespiti halinde, sorumlu müdür belgesi iptal edilir ve bu kişiler adına bir yıl süreyle sorumlu müdür belgesi düzenlenmez.
 
 (4) Sorumlu müdürün merkezde bizzat bulunması asıldır. Merkezin sorumlu müdürü yıl içerisinde toplam otuz gün izin kullanabilir. Sorumlu müdür izne ayrılmadan önce kullanacağı izin süresi ile geçici olarak yerine sorumlu müdürlük yapacak olan ve bu Yönetmelikte belirtilen şartları taşıyan bir kişi merkez tarafından Müdürlüğe bildirilir.
 
@@ -272,7 +272,7 @@ d) İşitme cihazı merkezi ruhsatı, sorumlu müdür belgesi ve personel çalı
 
 **MADDE 13 –** (1) Merkezin tabelalarında, açılış izin belgesinde belirtilen kuruluş ismi yazılır. Kişilerin yanlış algılamasının, karışıklığın ve haksız rekabetin önlenmesi amacıyla aynı il sınırları içinde faaliyet gösteren merkezlerin isimleri kullanılamaz.
 
-(2) (Değişik:RG-24/9/2013-28775) Merkezlerin dış tabelasında merkezin unvanı yer alır, sahibinin ismi yer alabilir. Tabelanın azami büyüklüğü 8 m²’dir. Merkezin birden fazla cephesi var ise en fazla iki cephesine bu tabeladan asılabilir. Tabela, ışıklandırabilir veya dışarıdan aydınlatılabilir.
+(2) **(Değişik:RG-24/9/2013-28775)** Merkezlerin dış tabelasında merkezin unvanı yer alır, sahibinin ismi yer alabilir. Tabelanın azami büyüklüğü 8 m²’dir. Merkezin birden fazla cephesi var ise en fazla iki cephesine bu tabeladan asılabilir. Tabela, ışıklandırabilir veya dışarıdan aydınlatılabilir.
 
 #### Tanıtım ve reklam
 
@@ -280,7 +280,7 @@ d) İşitme cihazı merkezi ruhsatı, sorumlu müdür belgesi ve personel çalı
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Kayıt Sistemi, Yasaklar, Denetim ve Diğer Hususlar
+**Kayıt Sistemi, Yasaklar, Denetim ve Diğer Hususlar**
 
 #### Kayıt sistemi
 
@@ -304,7 +304,7 @@ Kayıt Sistemi, Yasaklar, Denetim ve Diğer Hususlar
 
 a) Ruhsat almadan faaliyet gösterilemez.
 
-b) (Değişik:RG-24/9/2013-28775) Ruhsata esas bina haricinde başka bir yerde satış yapılamaz.
+b) **(Değişik:RG-24/9/2013-28775)** Ruhsata esas bina haricinde başka bir yerde satış yapılamaz.
 
 c) Ismarlama protez ve ortez merkezi, reçetesiz veya raporsuz olarak protez ve ortezleri ısmarlama olarak üretemez ve uygulamasını yapamaz.
 
@@ -420,7 +420,7 @@ b) Kapatma kararı en az yedi iş günü önceden merkeze bildirilerek hizmet su
 
 c) Merkez, ruhsat belgesi ve sorumlu müdür belgesinin aslını kendisine yapılan bildirim tarihini müteakip on beş iş günü içerisinde müdürlüğe teslim eder.
 
-ç) (Değişik:RG-24/9/2013-28775) Merkezi süresiz kapatılan kurucunun, bir yıl içerisinde yeniden merkez açmak istemesi halinde izin verilmez.
+ç) **(Değişik:RG-24/9/2013-28775)** Merkezi süresiz kapatılan kurucunun, bir yıl içerisinde yeniden merkez açmak istemesi halinde izin verilmez.
 
 d) Merkezin kapatıldığına dair il çalışma müdürlüğüne ve il defterdarlığına bildirim yapılır.
 
@@ -440,7 +440,7 @@ d) (a), (b) ve (c) bentlerinde belirlenen şartları yerine getirmeden merkezini
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Cezai müeyyideler
 
@@ -452,7 +452,7 @@ d) (a), (b) ve (c) bentlerinde belirlenen şartları yerine getirmeden merkezini
 
 (1) Ismarlama protez ve ortez merkezleri, ısmarlama olarak üretilen protez ve ortezlere ek olarak EK-9’da belirtilen hazır tıbbi cihazları da satabilirler.
 
-(2) (Ek:RG-18/8/2023-32283) Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Bakanlıkça kabul edilen pandemi , biyolojik tehdit ile deprem, sel, yangın gibi doğal afet durumlarında veya toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ciddi halk sağlığı sorunlarında ısmarlama protez ve ortez merkezleri ile işitme cihazı merkezlerine ve bu merkezlerin reklam veya tanıtım faaliyetlerine ilişkin olarak Türkiye İlaç ve Tıbbî Cihaz Kurumu tarafından geçici olarak istisnalar getirilebilir.
+(2) **(Ek:RG-18/8/2023-32283)** Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Bakanlıkça kabul edilen pandemi , biyolojik tehdit ile deprem, sel, yangın gibi doğal afet durumlarında veya toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ciddi halk sağlığı sorunlarında ısmarlama protez ve ortez merkezleri ile işitme cihazı merkezlerine ve bu merkezlerin reklam veya tanıtım faaliyetlerine ilişkin olarak Türkiye İlaç ve Tıbbî Cihaz Kurumu tarafından geçici olarak istisnalar getirilebilir.
 
 #### Yürürlükten kaldırılan yönetmelik
 
@@ -462,7 +462,7 @@ d) (a), (b) ve (c) bentlerinde belirlenen şartları yerine getirmeden merkezini
 
 **GEÇİCİ MADDE 1 –** (1) Bilimsel ve teknolojik gelişmelere paralel olarak ihtiyaç hasıl olması durumunda, ruhsatlı merkezlerde sorumlu müdür olarak görev yapanlar ile diğer personele kapsamlı eğitim programı düzenlenir. Bu eğitime katılım zorunludur. Yapılacak eğitimin usul ve esasları Bakanlıkça belirlenir.
 
-Ismarlama protez ve ortezlerin üretimi ve uygulaması veya işitme cihazı satışı bakım-onarımı ve uygulaması yapmaya yetkili olan kişiler
+**Ismarlama protez ve ortezlerin üretimi ve uygulaması veya işitme cihazı satışı bakım-onarımı ve uygulaması yapmaya yetkili olan kişiler**
 
 **GEÇİCİ MADDE 2 –** (1) Ismarlama ortopedik protez ve ortezlerin üretimi ve uygulaması alanında en az lise ve önlisans seviyesinde mesleki eğitim ve öğretim veren okullardan mezun olanlar veya bu konuda yurt dışındaki bir eğitim ve öğretim kurumundan alınmış diplomalarının denkliği yetkili makamlarca kabul edilen tıbbi protez ve ortez teknisyeni veya teknikeri ile 3/12/2008 tarihli ve 27073 sayılı Resmî Gazete’de yayımlanan Ortez-Protezleri Ismarlama Olarak Üreten ve/veya Uygulayan Merkezler ile İşitme Cihazı Satış ve Uygulaması Yapan Merkezler Hakkında Yönetmeliğin geçici 2 nci maddesi hükmüne göre sorumlu müdür sertifikası bulunan şahıslar ısmarlama protez ve ortez merkezlerinde mesleğini icra edebilir.
 
@@ -488,4 +488,4 @@ Ismarlama protez ve ortezlerin üretimi ve uygulaması veya işitme cihazı sat�
 | 3. | 10/9/2021 | 31594 |
 | 4. | 18/8/2023 | 32283 |
 
-Yönetmeliğin eklerini görmek için tıklayınız.
+**Yönetmeliğin eklerini görmek için tıklayınız.**

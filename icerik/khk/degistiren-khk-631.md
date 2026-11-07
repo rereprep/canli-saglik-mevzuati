@@ -12,13 +12,13 @@ kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=631&MevzuatTur=4&Mevzu
 durum: "yürürlükte"
 ---
 
-MEMURLAR VE DİĞER KAMU GÖREVLİLERİNİN MALİ VE SOSYAL HAKLARINDA DÜZENLEMELER İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
+**MEMURLAR VE DİĞER KAMU GÖREVLİLERİNİN MALİ VE SOSYAL HAKLARINDA DÜZENLEMELER İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME**
 
-Kanun Hük. Kar. nin Tarihi : 4/7/2001, No : 631
+**Kanun Hük. Kar. nin Tarihi : 4/7/2001, No : 631**
 
-Yetki Kanununun Tarihi : 10/4/2001, No : 4639
+**Yetki Kanununun Tarihi : 10/4/2001, No : 4639**
 
-Yayımlandığı R.G. Tarihi : 13/7/2001, No : 24461 Mük.
+**Yayımlandığı R.G. Tarihi : 13/7/2001, No : 24461 Mük.**
 
 #### V. Tertip Düsturun Cildi : V Sh.: 40
 
@@ -30,7 +30,7 @@ Yayımlandığı R.G. Tarihi : 13/7/2001, No : 24461 Mük.
 
 **Madde 11 –** (27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)
 
-**Madde 12 –** (Değişik:26/7/2024-7521/29 md.) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I), (II), (III) ve (IV) sayılı cetveller kapsamındaki kamu idareleri ve bu idarelere bağlı, ilgili ve ilişkili kurum ve kuruluşlar, sermayesinin yarısından fazlası tek başına veya birlikte ya da ayrı ayrı doğrudan veya dolaylı olarak kamuya ait olan ortaklıklar, fonlar, döner sermayeler, il özel idareleri, belediyeler, il özel idareleri ve belediyelerin bağlı kuruluşları, kurdukları veya üye oldukları birlikler ile doğrudan veya dolaylı olarak tek başına veya birlikte ya da ayrı ayrı sermayesinin yarısından fazlasına sahip oldukları şirketler, kamu iktisadi teşebbüsleri ile bunların doğrudan veya dolaylı olarak tek başına veya birlikte ya da ayrı ayrı sermayesinin yarısından fazlasına sahip olduğu kuruluş, müessese, birlik, işletme ve şirketler, özelleştirme kapsam ve programında bulunanlardan sermayesinin yarısından fazlası kamuya ait kuruluşlar ile diğer kamu kurum ve kuruluşlarında istihdam edilen her statüdeki personel ile belediye başkanları, belediye meclisi üyeleri ve il genel meclisi üyelerinden; özel veya kamu ayrımı gözetilmeksizin her statüdeki kurum ve kuruluşun yönetim kurulu, denetim kurulu, tasfiye kurulu, danışma kurulu üyeliğinde ve komisyon, heyet, komite ile benzeri organlarda görev alanlara, kurum içi ve kurum dışı ayrımı yapılmaksızın bu görevlerinden sadece biri için ücret ödenebilir. (Ek cümleler:4/12/2025-7566/36 md.) İlgili kanunları uyarınca seçimle göreve gelmiş bulunan; belediye başkanı ve vekili, belediye meclisi ve il genel meclisi başkanı, başkan vekili ve üyeleri, belediye encümeni ve il encümeni başkanı, başkan vekili ve üyelerinin 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunu, 26/5/2005 tarihli ve 5355 sayılı Mahallî İdare Birlikleri Kanunu ve 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu kapsamında il özel idaresi, büyükşehir belediyesi, belediye ve mahalli idare birliği bünyesinde yürüttükleri görevler nedeniyle aldıkları ödenekler ve huzur hakları birinci cümle kapsamı dışındadır. Ancak ikinci cümlede yer alan görevler için ödenek ve/veya huzur hakkı ödenenlerden birinci cümle kapsamında görevi bulunanlara, ikinci cümlede yer alan görevlerden yalnızca biri için ödenek ve/veya huzur hakkı ödenir.
+**Madde 12 –** (Değişik:26/7/2024-7521/29 md.) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I), (II), (III) ve (IV) sayılı cetveller kapsamındaki kamu idareleri ve bu idarelere bağlı, ilgili ve ilişkili kurum ve kuruluşlar, sermayesinin yarısından fazlası tek başına veya birlikte ya da ayrı ayrı doğrudan veya dolaylı olarak kamuya ait olan ortaklıklar, fonlar, döner sermayeler, il özel idareleri, belediyeler, il özel idareleri ve belediyelerin bağlı kuruluşları, kurdukları veya üye oldukları birlikler ile doğrudan veya dolaylı olarak tek başına veya birlikte ya da ayrı ayrı sermayesinin yarısından fazlasına sahip oldukları şirketler, kamu iktisadi teşebbüsleri ile bunların doğrudan veya dolaylı olarak tek başına veya birlikte ya da ayrı ayrı sermayesinin yarısından fazlasına sahip olduğu kuruluş, müessese, birlik, işletme ve şirketler, özelleştirme kapsam ve programında bulunanlardan sermayesinin yarısından fazlası kamuya ait kuruluşlar ile diğer kamu kurum ve kuruluşlarında istihdam edilen her statüdeki personel ile belediye başkanları, belediye meclisi üyeleri ve il genel meclisi üyelerinden; özel veya kamu ayrımı gözetilmeksizin her statüdeki kurum ve kuruluşun yönetim kurulu, denetim kurulu, tasfiye kurulu, danışma kurulu üyeliğinde ve komisyon, heyet, komite ile benzeri organlarda görev alanlara, kurum içi ve kurum dışı ayrımı yapılmaksızın bu görevlerinden sadece biri için ücret ödenebilir. **(Ek cümleler:4/12/2025-7566/36 md.)** İlgili kanunları uyarınca seçimle göreve gelmiş bulunan; belediye başkanı ve vekili, belediye meclisi ve il genel meclisi başkanı, başkan vekili ve üyeleri, belediye encümeni ve il encümeni başkanı, başkan vekili ve üyelerinin 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunu, 26/5/2005 tarihli ve 5355 sayılı Mahallî İdare Birlikleri Kanunu ve 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu kapsamında il özel idaresi, büyükşehir belediyesi, belediye ve mahalli idare birliği bünyesinde yürüttükleri görevler nedeniyle aldıkları ödenekler ve huzur hakları birinci cümle kapsamı dışındadır. Ancak ikinci cümlede yer alan görevler için ödenek ve/veya huzur hakkı ödenenlerden birinci cümle kapsamında görevi bulunanlara, ikinci cümlede yer alan görevlerden yalnızca biri için ödenek ve/veya huzur hakkı ödenir.
 
 Birinci fıkra kapsamındakilere, anılan fıkra kapsamında yürütülen görevler nedeniyle huzur hakkı, ücret, ikramiye gibi her ne ad altında olursa olsun bir ayda yapılabilecek ödemelerin toplam net tutarı, (108.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçemez. İlgililere bu fıkrada belirtilen üst sınıra tabi ödemeler dışında, söz konusu görevler nedeniyle doğrudan veya dolaylı olarak herhangi bir ad altında ayni veya nakdi menfaat sağlanamaz.
 
@@ -64,7 +64,7 @@ Diğer kanunların bu maddeye aykırı hükümleri uygulanmaz.
 
 a) İstihdam edilme şekline bakılmaksızın; ilk defa veya yeniden göreve alınanlar ile bunların aile fertlerine ilk defa veya yeniden göreve alınma nedenlerine bağlı olarak harcırah ödenmez, bu amaçla başka bir adla ödeme yapılamaz.
 
-b) (İptal: Anayasa Mahkemesi’nin 9/7/2009 tarihli ve E.: 2007/31, K.: 2009/109 sayılı Kararı ile.)
+b) **(İptal: Anayasa Mahkemesi’nin 9/7/2009 tarihli ve E.: 2007/31, K.: 2009/109 sayılı Kararı ile.)**
 
 c) Emekliliğini isteyen veya emekliye sevk olunan, haklarında toptan ödeme hükümleri uygulanan veya emekli iken yeniden hizmete alındıktan sonra vazifelerine son verilen personele, bu nedenlere bağlı olarak harcırah ödenmez; bunlara ilgili mevzuatında öngörülmesi kaydıyla damga vergisi hariç hiçbir vergiye tâbi tutulmaksızın (12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçmemek üzere tazminat ödenebilir.[3]
 
@@ -74,7 +74,7 @@ Diğer mevzuatın bu maddeye aykırı hükümleri uygulanmaz.
 
 **Madde 14/B –** (Ek: 21/3/2006-5473/10 md.) Özel kanunlarla veya Cumhurbaşkanlığı kararnameleriyle kamu tüzel kişiliğini haiz olarak kurum, kurul, üst kurul, enstitü, teşebbüs, fon ve sair adlarla kurulmuş kamu kurum ve kuruluşlarında, kanunlarında veya kararnamelerinde aksine hükümler olsa dahi, kendi özel mevzuatındaki hükümler uyarınca yapılacak temsil ve ağırlama giderlerinin yıllık toplamı, başkan ile temsil yetkisini haiz olan personelin bir aylık ortalama net ücretinin iki katını geçemez. Temsil yetkisini haiz personelin unvan ve sayıları, karar organlarınca üyeler dahil toplam personel sayısının yüzde ikisini geçmemek üzere belirlenir.[4]
 
-**Madde 15 –** 657 sayılı Devlet Memurları Kanununun ek 26 ncı maddesi ve anılan Kanuna ekli IV sayılı Makam Tazminatı Cetvelinin (8) numaralı sırasına göre makam tazminatı ödenmesinde; 15/4/1997 tarihinden önce belirtilen sırada sayılan görevlerde bulunanlar ile daha önce bu görevlere atanmış olup söz konusu tarihten önce emekli olanlardan en az iki yıl süreli yükseköğretim mezunu olanlar sadece eğitim seviyesi açısından dört yıl süreli yükseköğretim mezunu kabul edilir. Ancak, bu maddenin yürürlük tarihinden önceki dönemler için emekli olanlar ile görevde bulunanlara geçmişe yönelik ödeme yapılmaz. (Ek cümleler: 21/3/2006-5473/10 md.) İki yıl süreli yükseköğretim mezunu olanlardan emekli olanlar ile görevde bulunanlara, 15/4/2006 tarihinden önceki dönemler için geçmişe yönelik ödeme yapılmaz. Anılan cetvelin 8 inci sırasının (d) bendinde sayılan görevlere 31/12/2005 tarihinden önce atanmış olanlar ile bunlardan emekli olanlara bu bende göre makam tazminatı ödenmesinde söz konusu bentte öngörülen atama usûlüne ilişkin koşullar aranmaz.[5]
+**Madde 15 –** 657 sayılı Devlet Memurları Kanununun ek 26 ncı maddesi ve anılan Kanuna ekli IV sayılı Makam Tazminatı Cetvelinin (8) numaralı sırasına göre makam tazminatı ödenmesinde; 15/4/1997 tarihinden önce belirtilen sırada sayılan görevlerde bulunanlar ile daha önce bu görevlere atanmış olup söz konusu tarihten önce emekli olanlardan en az iki yıl süreli yükseköğretim mezunu olanlar sadece eğitim seviyesi açısından dört yıl süreli yükseköğretim mezunu kabul edilir. Ancak, bu maddenin yürürlük tarihinden önceki dönemler için emekli olanlar ile görevde bulunanlara geçmişe yönelik ödeme yapılmaz. **(Ek cümleler: 21/3/2006-5473/10 md.)** İki yıl süreli yükseköğretim mezunu olanlardan emekli olanlar ile görevde bulunanlara, 15/4/2006 tarihinden önceki dönemler için geçmişe yönelik ödeme yapılmaz. Anılan cetvelin 8 inci sırasının (d) bendinde sayılan görevlere 31/12/2005 tarihinden önce atanmış olanlar ile bunlardan emekli olanlara bu bende göre makam tazminatı ödenmesinde söz konusu bentte öngörülen atama usûlüne ilişkin koşullar aranmaz.[5]
 
 **Madde 16 –** Bu Kanun Hükmünde Kararnamenin 11 inci maddesi ile 375 sayılı Kanun Hükmünde Kararnamenin 1 inci maddesine eklenen (C) bendinde yer alan görev tazminatı hakkında, 27/1/2000 tarihli ve 4505 sayılı Kanunun 5 inci maddesinin (C) bendi hükmü uygulanır. [6]
 
@@ -90,7 +90,7 @@ Bakanlar Kurulu, bu durumda olan personelin ortalama ücret toplamı ile ortalam
 
 **Geçici Madde 2 –** Bu Kanun Hükmünde Kararnamenin 16 ncı maddesi uyarınca 4505 sayılı Kanunun 5 inci maddesinin (c) bendine göre görev tazminatı net tutarından yapılacak mahsup işlemlerinde, mahsup edilecek ödemelerin net tutarları toplamının 15/1/2002 tarihinden itibaren % 20'si, 15/1/2003 tarihinden itibaren % 40'ı, 15/1/2004 tarihinden itibaren % 60'ı, 15/1/2005 tarihinden itibaren % 80'i ve 15/1/2006 tarihinden itibaren ise tamamı dikkate alınır.
 
-(Ek:20/3/2002-4747/5 md.) Ancak, Cumhurbaşkanı ödeme çeşitlerini ve mahsup miktarlarını dikkate almak suretiyle ödenecek asgari görev tazminatı miktarını belirlemeye yetkilidir.[7]
+**(Ek:20/3/2002-4747/5 md.)** Ancak, Cumhurbaşkanı ödeme çeşitlerini ve mahsup miktarlarını dikkate almak suretiyle ödenecek asgari görev tazminatı miktarını belirlemeye yetkilidir.[7]
 
 **Geçici Madde 3 –** Bu Kanun Hükmünde Kararnamenin 11 inci maddesi ile 375 sayılı Kanun Hükmünde Kararnamenin 1 inci maddesine eklenen ( C ) bendinde yer alan görev tazminatı ile 27/1/2000 tarihli ve 4505 sayılı Kanunun 5 inci maddesinde yer alan temsil tazminatı tavan gösterge rakamları 31/12/2005 tarihine kadar yılı bütçe kanunları ile yeniden belirlenebilir.
 
@@ -114,7 +114,7 @@ tarihinde yürürlüğe girer.
 
 ### 631 SAYILI KANUN HÜKMÜNDE KARARNAMEYE İŞLENEMEYEN HÜKÜMLER
 
-1-12/6/2002 tarihli ve 4761 sayılı Kanunun hükmüdür:
+<i>1-12/6/2002 tarihli ve 4761 sayılı Kanunun hükmüdür:</i>
 
 **Madde 20 –** Özel kanunlarla kamu tüzel kişiliğini ve idarî ve malî özerkliği haiz olarak kurulmuş veya 31.12.2006 tarihine kadar kurulacak kurul, üst kurul, kurum ve kuruluşların Başkan ve üyelerinin aylık ücretleri ile malî ve sosyal hak ve yardımları, bu kurul, üst kurul, kurum ve kuruluşların fonksiyonları, ücret adaleti ve 631 sayılı Kanun Hükmünde Kararnamenin geçici 1 inci maddesi uygulaması dikkate alınarak Bakanlar Kurulu tarafından belirlenir. Bakanlar Kurulu gerektiğinde ücret adaletini sağlamak amacıyla kamu görevlilerine ödenmekte olan temsil ve görev tazminatı tavan gösterge rakamlarını üç katına kadar artırmaya ve artırılan miktar içerisinde kadro ve görev unvanı itibarıyla düzenlemeler yapmaya yetkilidir.
 
@@ -138,16 +138,16 @@ Yukarıdaki fıkradaki düzenleme yapılıncaya kadar, Kamu İhale Kurulu Başka
 | 7566 | 12 | 19/12/2025 |
 | 7571 | Geçici Madde 4 | 25/12/2025 |
 
-<small>[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan“özel kanunlarla” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnameleriyle” ibaresi eklenmiştir.</small>
+<small>[1] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan“özel kanunlarla” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnameleriyle” ibaresi eklenmiştir.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 138 inci maddesiyle, bu fıkralarda yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 138 inci maddesiyle, bu fıkralarda yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] 13/2/2011 tarihli ve 6111 sayılı kanunun 122 nci maddesi ile bu bentte yer alan “beşyüz milyon lirayı” ibaresi “(12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı” şeklinde değiştirilmiş ve metne işlenmiştir.</small>
+<small>[3] <i>13/2/2011 tarihli ve 6111 sayılı kanunun 122 nci maddesi ile bu bentte yer alan “beşyüz milyon lirayı” ibaresi “(12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı” şeklinde değiştirilmiş ve metne işlenmiştir.</i></small>
 
-<small>[4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan “Özel kanunlarla” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnameleriyle” ibaresi ve “kanunlarında” ibaresinden sonra gelmek üzere “veya kararnamelerinde” ibaresi eklenmiştir.</small>
+<small>[4] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan “Özel kanunlarla” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnameleriyle” ibaresi ve “kanunlarında” ibaresinden sonra gelmek üzere “veya kararnamelerinde” ibaresi eklenmiştir.</i></small>
 
-<small>[5] 21/3/2006 tarihli ve 5473 sayılı Kanunun 10 uncu maddesiyle bu maddede yer alan "en az üç yıl" ibaresi "en az iki yıl" olarak değiştirilmiş ve metne işlenmiştir.</small>
+<small>[5] <i>21/3/2006 tarihli ve 5473 sayılı Kanunun 10 uncu maddesiyle bu maddede yer alan "en az üç yıl" ibaresi "en az iki yıl" olarak değiştirilmiş ve metne işlenmiştir.</i></small>
 
-<small>[6] Bu maddenin uygulanması ile ilgili olarak 22/2/2005 tarihli ve 5302 sayılı Kanunun 63 üncü maddesine bakınız.</small>
+<small>[6] <i>Bu maddenin uygulanması ile ilgili olarak 22/2/2005 tarihli ve 5302 sayılı Kanunun 63 üncü maddesine bakınız.</i></small>
 
-<small>[7] 2/7/2018 tarihli ve 700 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>

@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-SAĞLIK BAKANLIĞI EĞİTİM VE ARAŞTIRMA HASTANELERİNDE BAŞASİSTANLIK KADROLARINA YAPILACAK ATAMALARDA UYGULANACAK SINAVLARA İLİŞKİN YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI EĞİTİM VE ARAŞTIRMA HASTANELERİNDE BAŞASİSTANLIK KADROLARINA YAPILACAK ATAMALARDA UYGULANACAK SINAVLARA İLİŞKİN YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 7/4/2012 tarihli ve 28257 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Sağlık Bakanlığı Eğitim ve Araştırma Hastanelerinde Başasistanlık Kadrolarına Yapılacak Atamalarda Uygulanacak Sınavlara İlişkin Yönetmeliğin 6 ncı maddesinin ikinci fıkrasının (d) ve (e) bentleri aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 7/4/2012 tarihli ve 28257 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Sağlık Bakanlığı Eğitim ve Araştırma Hastanelerinde Başasistanlık Kadrolarına Yapılacak Atamalarda Uygulanacak Sınavlara İlişkin Yönetmeliğin 6 ncı maddesinin ikinci fıkrasının (d) ve (e) bentleri aşağıdaki şekilde değiştirilmiştir.
 “d) Müracaat tarihi itibariyle; Devlet Hizmeti yükümlülüğünü tamamlamaya 180 günden az süre kalmış olmak.”
 “e) Bilimsel çalışma ve eserleri bakımından aşağıdaki şartlardan en az birini sağlamak,
 1) Türk Tıp Dizininde kayıtlı dergilerde yayımlanmış, ikisi birinci isim olmak üzere en az üç orijinal araştırma makalesi bulunmak,

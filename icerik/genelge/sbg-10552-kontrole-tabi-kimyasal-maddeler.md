@@ -116,7 +116,7 @@ c.)Gümrük antreposundan/gümrükten yapılmaktadır.
 
 13.)Söz konusu kimyasal maddenin ithalatının hangi giriş gümrüğünden gerçekleştirileceğini belirtiniz.
 
-Talep Sahibi Firmanın Beyanı:
+**Talep Sahibi Firmanın Beyanı:**
 
 Bu formda verilen bilgilerin doğruluğunu kabul ve beyan ederim. Tarih:..........
 

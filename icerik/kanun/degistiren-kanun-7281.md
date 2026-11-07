@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/03/20210305-12.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-TÜRK SİLÂHLI KUVVETLERİ PERSONEL KANUNU İLE BAZI
-KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7281 Kabul Tarihi: 18/2/2021
+**KANUN**
+**TÜRK SİLÂHLI KUVVETLERİ PERSONEL KANUNU İLE BAZI**
+**KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7281 Kabul Tarihi: 18/2/2021**
 
 MADDE 1 – 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun ek 14 üncü maddesinin dördüncü fıkrasında yer alan “olanlara,” ibaresi “olanlar ile dost ve müttefik ülkelerle imzalanan askeri anlaşmalar ve protokoller kapsamında tıpta ve diş tabipliğinde uzmanlık eğitimini yapmakta olan yabancı uyruklulara hizmette bulundukları” şeklinde değiştirilmiştir.
 

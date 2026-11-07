@@ -42,4 +42,4 @@ Türkiye Kamu Hastaneleri Kurumuna(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid
 
 **Dipnotlar**
 
-<small>Prof. Dr. Nihat TOSUN Bakan a. Müsteşar Gereği:(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Bilgi: Mithatpaşa Caddesi No :3 B Blok Kat 2 No:13 S ıhhiye - ANKARA ^—ıntılı bilgi için: E-Posta: shgm.kanhizmetleri@saglik.gov.tr Tel: 0 (312) 585 14 87 elge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanm ıstır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden a8d4a0df-8608-467c-9aa6-784c749dbd3f kodu ile eri şebilirsiniz.</small>
+<small>**Prof. Dr. Nihat TOSUN Bakan a.** Müsteşar Gereği:(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Bilgi: Mithatpaşa Caddesi No :3 B Blok Kat 2 No:13 S ıhhiye - ANKARA ^—ıntılı bilgi için: E-Posta: shgm.kanhizmetleri@saglik.gov.tr Tel: 0 (312) 585 14 87 elge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanm ıstır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden a8d4a0df-8608-467c-9aa6-784c749dbd3f kodu ile eri şebilirsiniz.</small>

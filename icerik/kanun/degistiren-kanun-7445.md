@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-3.htm"
 durum: "yürürlükte"
 ---
 
-KANUN İCRA VE İFLAS KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN İCRA VE İFLAS KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7445 Kabul Tarihi: 28/3/2023
 
 MADDE 1- 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa 79 uncu maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.

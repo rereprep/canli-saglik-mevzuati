@@ -10,9 +10,9 @@ durum: "yürürlükte"
 
 Sayısı:824-99
 
-T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Dairesi Başkanlığı
+**T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Dairesi Başkanlığı**
 
-SAYI : B100İMİ0000007/824-99 KONU: Trafik Kazalı Araçların İşlemlerinin Yürütülmesi.
+**SAYI :** B100İMİ0000007/824-99 **KONU:** Trafik Kazalı Araçların İşlemlerinin Yürütülmesi.
 
 ### İLGİ :
 

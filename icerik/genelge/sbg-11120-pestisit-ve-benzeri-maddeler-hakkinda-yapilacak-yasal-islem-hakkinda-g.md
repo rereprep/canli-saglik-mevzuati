@@ -14,7 +14,7 @@ Temel Sağlık Hizmetleri Genel Müdürlüğü
 
 ### TSE-ISO-EN
 
-9000 Sayı : B.10.0.TSH.0.10.00.03-27938 Konu : Yasal İşlem
+**9000** Sayı : B.10.0.TSH.0.10.00.03-27938 Konu : Yasal İşlem
 
 21.09.2007
 

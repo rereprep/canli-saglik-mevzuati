@@ -12,13 +12,13 @@ durum: "yürürlükte"
 
 ### SOSYAL SİGORTA SAĞLIK İŞLEMLERİ TÜZÜĞÜ
 
-Bakanlar Kurulu Kararının Tarihi : 26.5.1972 No : 7/4496
+**Bakanlar Kurulu Kararının Tarihi : 26.5.1972 No : 7/4496**
 
-Dayandığı Kanunun Tarihi : 17.7.1964 No : 506
+**Dayandığı Kanunun Tarihi : 17.7.1964 No : 506**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 22.6.1972 No : 14223
+**Yayımlandığı Resmî Gazetenin Tarihi : 22.6.1972 No : 14223**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 11 Sayfa : 2504
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 11 Sayfa : 2504**
 
 ### BİRİNCİ BÖLÜM
 
@@ -48,13 +48,13 @@ Kurum, bu mesleğin tesbitinde sigortalının çalıştığı iş yerinden alın
 
 ### İKİNCİ BÖLÜM
 
-İş Kazası ve Meslek Hastalığı Sonucu Sürekli İş Göremezlik Hallerinin Meslekte
+**İş Kazası ve Meslek Hastalığı Sonucu Sürekli İş Göremezlik Hallerinin Meslekte**
 
 #### Kazanma Gücünü ne Oranda Azaltacağının Tespiti
 
 **Madde 5 –** İş kazası veya meslek hastalığı sonucu husule gelen arızaların, sigortalının mesleğinde kazanma gücünü ne oranda azaltacağı, Tüzüğe ekli A, B, C, D ve E cetvellerine göre tespit edilir.
 
-(Değişik: 31/5/1985 - 85/9529 K.) A cetveli, iş kazalarının neden olduğu hastalık ve arızalarla meslek hastalıklarını ve bunların neden olduğu arızaları, vücuttaki yerlerine göre sınıflandıran ve başlıkları aşağıda gösterilen 14 listeden teşekkül eder.
+**(Değişik: 31/5/1985 - 85/9529 K.)** A cetveli, iş kazalarının neden olduğu hastalık ve arızalarla meslek hastalıklarını ve bunların neden olduğu arızaları, vücuttaki yerlerine göre sınıflandıran ve başlıkları aşağıda gösterilen 14 listeden teşekkül eder.
 
 I – Baş arızaları (kafa kemikleri, nöroloji, nöröşirürji, psikiatri arıza ve hastalıkları)
 
@@ -86,7 +86,7 @@ XIV – Deri arızaları ve yanıklar
 
 Her listede 3 kolon mevcut olup bunlardan; birinci kolon arızanın sıra numarasını, ikinci kolon arızanın çeşidini, üçüncü kolon arızanın ağırlık ölçüsünü gösterir.
 
-(Değişik: 12/11/1978 - 7/16989 K.) B cetveli sigortalının çalıştığı işkolları ve meslek veya iş çeşidi listelerini içerir.
+**(Değişik: 12/11/1978 - 7/16989 K.)** B cetveli sigortalının çalıştığı işkolları ve meslek veya iş çeşidi listelerini içerir.
 
 Her listede 2 kolon mevcut olup bunlardan; birinci kolon meslek veya iş çeşitlerini, ikinci kolon meslek grup numaralarını gösterir.
 
@@ -104,15 +104,15 @@ Meslekte kazanma gücünün azalma oranının hesabında, sigortalının sürekl
 
 Bu cetvelin solundaki dikey kolon 38-39 yaşlara ait meslekte kazanma gücünün azalma oranını, üstteki yatay kolon 21 den 64 e kadar olan yaşları, bunların kesişme noktaları ise meslekte kazanma gücündeki azalmanın yaşlara göre oranlarını gösterir.
 
-(Ek: 12/11/1978 - 7/16989 K.) Ancak sigortalının sağlık durumunda sürekliiş göremezlik yönünden bir değişiklik olmuş ise, bu değişikliğin raporla saptandığı tarihteki yaşı esas alınır.
+**(Ek: 12/11/1978 - 7/16989 K.)** Ancak sigortalının sağlık durumunda sürekliiş göremezlik yönünden bir değişiklik olmuş ise, bu değişikliğin raporla saptandığı tarihteki yaşı esas alınır.
 
 **Madde 6 –** A cetveli listelerinde yazılı arızalardan birinin meslekte kazanma gücünü ne oranda azaltacağı aşağıdaki şekilde hesaplanır:
 
 a) A cetvelindeki vücudun çeşitli bölgelerine veya sistemlerine göre hazırlanmış olan 14 arıza listesinde sigortalının arızası bulunur. Bu arızanın solundaki arıza sıra numarası ile sağındaki arıza ağırlık ölçüsü bir tarafa kaydedilir.
 
-b) (Değişik: 12/11/1978 - 7/16989 K.) B cetveli listelerinde önce sigortalının işkolu, sonra bu işkolu içindeki meslek veya iş çeşidi bulunur. Bunun karşısındaki meslek grup numarası da bir yere yazılır.
+b) **(Değişik: 12/11/1978 - 7/16989 K.)** B cetveli listelerinde önce sigortalının işkolu, sonra bu işkolu içindeki meslek veya iş çeşidi bulunur. Bunun karşısındaki meslek grup numarası da bir yere yazılır.
 
-(Değişik: 12/11/1978 - 7/16989 K.) Sigortalının meslek veya iş çeşidi bu listelerde bulunmadığı takdirde meslek veya işinin benzeri veya en yakını esas alınır.
+**(Değişik: 12/11/1978 - 7/16989 K.)** Sigortalının meslek veya iş çeşidi bu listelerde bulunmadığı takdirde meslek veya işinin benzeri veya en yakını esas alınır.
 
 Aynı adı taşıyan meslek veya iş çeşidi birden çok iş kolu listesinde yer aldığı takdirde, sigortalının çalıştığı iş kolu listesindeki meslek veya iş çeşidi esas alınır.
 
@@ -148,7 +148,7 @@ Ancak, sigortalının işe alınmadan önce mevcut olan veya işe alındıkdan s
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Sigortalıların Hangi Hallerde Çalışma Gücünün en az Üçte İkisini Yitirmiş ve
+**Sigortalıların Hangi Hallerde Çalışma Gücünün en az Üçte İkisini Yitirmiş ve**
 
 #### Hangi Hallerde Başka Birinin Sürekli Bakımına Muhtaç Durumda Sayılacakları
 
@@ -408,7 +408,7 @@ Sigortalının başka birinin sürekli bakımına muhtaç durumda sayılacağı 
 
 2 - Sürekli veya zaman zaman bir akıl hastanesinde kalmayı gerektiren ve tedavisi olanaksız akıl hastalıkları:
 
-3 - (Değişik: 31/5/1985 - 85/9529 K.) İki gözde görme kaybı 100/100
+3 - **(Değişik: 31/5/1985 - 85/9529 K.)** İki gözde görme kaybı 100/100
 
 4 - İki elin kaybı;
 
@@ -446,7 +446,7 @@ Sigortalılardan hangilerinin rehabilitasyon merkezlerine gönderileceği bu kur
 
 Bu kurul aşağıda yazılı 5 üyeden kurulur:
 
-1 - (Değişik: 12/11/1978 - 7/16989 K.) Fizik tedavi ve rehabilitasyon uzmanı, yoksa fizik tedavi uzmanı,
+1 - **(Değişik: 12/11/1978 - 7/16989 K.)** Fizik tedavi ve rehabilitasyon uzmanı, yoksa fizik tedavi uzmanı,
 
 2 - Ortopedi uzmanı,
 
@@ -514,7 +514,7 @@ Ancak sigortalılardan isteyenler, bulunduğu merkezin muvafakati ile bunları k
 
 **Madde 34 –** Erken yaşlanmanın tayin ve tespitine ilişkin raporlar, Kurum Sağlık İşleri Başkanlığı tarafından erken yaşlanma teşhisinde yetkili kılınmış ve ilgililere duyurulmuş olan en yakın Kurum hastanelerince verilir.
 
-(Değişik: 12/11/1978 - 7/16989 K.) Bu hastanelerde, sigortalının erken yaşlanma yönünden tabi tutulacağı muayene ve testlerle düzenlenecek raporun biçimi Kurum Sağlık İşleri Başkanlığınca saptanır.
+**(Değişik: 12/11/1978 - 7/16989 K.)** Bu hastanelerde, sigortalının erken yaşlanma yönünden tabi tutulacağı muayene ve testlerle düzenlenecek raporun biçimi Kurum Sağlık İşleri Başkanlığınca saptanır.
 
 **Madde 35 –** 34 üncü maddede belirtilen Kurum hastanelerinde yapılamayan incelemeler, bunları yapabilecek nitelikteki resmi kuruluşlarda yaptırılır ve elde edilen sonuçlar, ilgili hastaneye bir rapor halinde bildirilir.
 
@@ -590,9 +590,9 @@ Genel Sekreter ve diğer personelin atanma işlemleri Kurum mevzuatına göre ya
 
 2 - Çalışma Bakanlığınca gerekli görülen hallerde Sosyal Sigortalar Kanununun sağlık konularında
 
-3 - (Değişik: 12/11/1978 - 7/16989 K.) 63 üncü maddenin ek fıkrasında yazılı hallerde yükümlülük süresinin aşılmasından sonra bir hastalığın meslek hastalığı sayılması, 66 ncı maddenin ikinci fıkrasında yazılı hallerde üç yıllık çalışma (maruz kalma) süresinin indirilmesi ve meslek hastalıkları IV. listesinin dipnotunda yazılı hallerde 5 yıllık yükümlülük süresinin uzatılması hakkında karar vermek;
+3 - **(Değişik: 12/11/1978 - 7/16989 K.)** 63 üncü maddenin ek fıkrasında yazılı hallerde yükümlülük süresinin aşılmasından sonra bir hastalığın meslek hastalığı sayılması, 66 ncı maddenin ikinci fıkrasında yazılı hallerde üç yıllık çalışma (maruz kalma) süresinin indirilmesi ve meslek hastalıkları IV. listesinin dipnotunda yazılı hallerde 5 yıllık yükümlülük süresinin uzatılması hakkında karar vermek;
 
-C – (Değişik: 12/11/1978 - 7/16989 K.) 1 - Sosyal Sigorta Yüksek Sağlık Kurulunun çalışma ve görevleriyle ilgili konularda Bakanlığa önerilerde bulunmak;
+C – **(Değişik: 12/11/1978 - 7/16989 K.)** 1 - Sosyal Sigorta Yüksek Sağlık Kurulunun çalışma ve görevleriyle ilgili konularda Bakanlığa önerilerde bulunmak;
 
 2 - Yıllık çalışma raporunu inceleyerek sonuca bağlamak;
 
@@ -646,7 +646,7 @@ Büronun işlerini düzenli bir şekilde yürütmek ve Kurul çalışmaları ile
 
 Kurul, haftada en az bir kez ve üyelerden en az beşinin katılmasıyla toplanır.
 
-(Mülga ikinci fıkra: 13/3/1981 - 8/2532 K.)
+**(Mülga ikinci fıkra: 13/3/1981 - 8/2532 K.)**
 
 İşlerin çokluğu karşısında haftada birden çok toplantı yapılabilir.
 
@@ -664,7 +664,7 @@ Kendisine toplantıların gün ve saati yazı ile bildirildiği halde, özürsü
 
 **Madde 51 –** Kurul dosyalarda gördüğü noksanları tamamlattırabileceği gibi, ilgiliyi yeniden muayeneye sevk ederek, bir sağlık tesisinde ayakta veya yatırılarak müşahade altına aldırmaya yetkilidir.
 
-(Ek: 12/11/1978 - 7/16989 K.) Alınacak sonuçlara göre kesin karar Kurulca verilir.
+**(Ek: 12/11/1978 - 7/16989 K.)** Alınacak sonuçlara göre kesin karar Kurulca verilir.
 
 **Madde 52 –** Kurula gelen dosyalar, Genel Sekreterce hazırlanmış özetle birlikte Başkan tarafından, ihtisasları da gözönünde tutularak üyelere dağıtılır.
 
@@ -704,7 +704,7 @@ Kuruluşlar, seçim sonuçlarını Bakanlığa ve seçilenlere yazıyla bildirir
 
 **Madde 61 –** (Değişik birinci fıkra: 12/5/1991 - 91/1767 K.) Kurul başkan ve üyelerine, katıldıkları her oturum için, 200 gösterge sayısının, 657 sayılı Devlet Memurları Kanununun 43 üncü maddesindeki tabloda yer alan göstergelere uygulanacak memur aylık katsayısıyla çarpılması sonucunda bulunacak tutar üzerinden huzur hakkı ödenir.
 
-(Değişik fıkralar: 12/11/1978 - 7/16989 K.)
+**(Değişik fıkralar: 12/11/1978 - 7/16989 K.)**
 
 53 üncü madde gereğince görüşü alınacak kimselere birinci fıkrada saptanan tutarda ücret ödenir.
 
@@ -718,7 +718,7 @@ Ankara dışından gelenlere, ayrıca, birinci derecede bulunan Devlet memuruna 
 
 **Madde 63 –** Hangi hastalıkların meslek hastalığı sayılacağı ve bu hastalıkların, işten fiilen ayrıldıktan en geç ne kadar zaman sonra meydana çıkması halinde sigortalının mesleğinden ileri geldiğinin kabul edileceği bu bölüm hükümlerine ve Tüzüğe ekli meslek hastalıkları listelerine göre tespit ve tayin edilir.
 
-(Ek: 12/11/1978 - 7/16989 K.) Herhangi bir meslek hastalığının klinik ve laboratuvar bulgularıyla kesinleştiği ve meslek hastalığına yol açan etkenin, işyeri incelenmesiyle kanıtlandığı hallerde, meslek hastalıkları listesindeki yükümlülük süresi aşılmış olsa bile, söz konusu hastalık, Sosyal Sigorta Yüksek Sağlık Kurulunun onayı ile meslek hastalığı sayılabilir.
+**(Ek: 12/11/1978 - 7/16989 K.)** Herhangi bir meslek hastalığının klinik ve laboratuvar bulgularıyla kesinleştiği ve meslek hastalığına yol açan etkenin, işyeri incelenmesiyle kanıtlandığı hallerde, meslek hastalıkları listesindeki yükümlülük süresi aşılmış olsa bile, söz konusu hastalık, Sosyal Sigorta Yüksek Sağlık Kurulunun onayı ile meslek hastalığı sayılabilir.
 
 **Madde 64 –** (Değişik: birinci fıkra: 12/11/1978 - 7/16989 K.) Meslek hastalıkları, ilişik "Meslek Hastalıkları Listesinde";
 
@@ -734,7 +734,7 @@ E. Fizik etkenlerle olan meslek hastalıkları,
 
 olmak üzere 5 grupta toplanmıştır.
 
-(Değişik: 12/11/1978 - 7/16989 K.) Listenin sol kolonunda zararlı ajanın meydana getirdiği başlıca hastalıklar ve belirtileri, orta kolonunda yükümlülük süreleri, sağ kolonunda hastalık tehlikesi olan başlıca işler yeralmıştır.
+**(Değişik: 12/11/1978 - 7/16989 K.)** Listenin sol kolonunda zararlı ajanın meydana getirdiği başlıca hastalıklar ve belirtileri, orta kolonunda yükümlülük süreleri, sağ kolonunda hastalık tehlikesi olan başlıca işler yeralmıştır.
 
 Kanunla sağlanan yardımlardan yararlanabilmek için sigortalının meslek hastalığına sebep olan işinden fiilen ayrıldığı tarih ile meslek hastalığının meydana çıktığı tarih arasında geçecek azami süreye yükümlülük süresi denir.
 
@@ -760,7 +760,7 @@ Ancak, havasında yüksek yoğunlukta ve pnömokonyoz yapacak nitelikte toz bulu
 
 **Madde 68 –** Bu Tüzük hükümlerini Bakanlar Kurulu yürütür.
 
-A CETVELİ (Değişik: 31/5/1985 - 85/9529 K.)
+A CETVELİ **(Değişik: 31/5/1985 - 85/9529 K.)**
 
 I. Liste
 
@@ -1077,7 +1077,7 @@ VI. Liste
 
 Göğüs Hastalıkları
 
-Pnömokonyozlar dışında kalan solunum, dolaşım hastalıkları
+<i>Pnömokonyozlar dışında kalan solunum, dolaşım hastalıkları</i>
 
 | Arıza Sıra Numarası | Arıza Çeşidi | Arıza Ağırlık Ölçüsü |
 | 1 | Klinik ve radyolojik bulgularla belirlenmiş, solunum ve dolaşım fonsiyonlarını etkileyen akciğer dokusunun, bronşların, plevranın, kemik kafesinin (toraks) hastalıkları, kaburgaların (kot) kırılma ve rezeksiyonu, akciğer fıtığı ve bunların sekelleri |  |
@@ -2128,13 +2128,13 @@ Deri Arızaları ve Yanıklar
 |  | b- Ağır (vücudun % 20 sinden çoğunu kaplayan) | 57 |
 | —————————— (x) Yanıklar, aynı zamanda ortopedik arızalara da neden olmuşsa, meslekte kazanma gücü azalma oranı, Tüzüğün 7 nci maddesi hükümlerine göre bulunur. |
 
-B CETVELİ (Değişik: 12/11/1978 - 7/16989 K.)
+B CETVELİ **(Değişik: 12/11/1978 - 7/16989 K.)**
 
 ### I – AĞAÇ SANAYİİ VE ORMAN İŞLETMESİ İŞKOLLARI
 
-Kereste, tahta, kontrplak, mobilya, kibrit yapımı, doğramacılık,
+<i>Kereste, tahta, kontrplak, mobilya, kibrit yapımı, doğramacılık,</i>
 
-marangozluk ve benzerleri
+<i>marangozluk ve benzerleri</i>
 
 | Meslek veya İş Çeşidi | Meslek Grup No. | Meslek veya İş Çeşidi | Grup Meslek No. |
 | Ağaç kesici usta ve yardımcıları | 4 | Gemi (kayık, mavna vb.) inşaat marangozları | 21 |

@@ -53,6 +53,6 @@ Müsteşar
 
 -81 İl Valiliği
 
-Adres: Sağlık Bakanlığı Organ ve Doku Nakli Hizmetleri Daire Başkanlığı Organ Nakli Hizmetleri Şube Müdürlüğü Mithatpaşa Cad. No: 3 B Blok 2. Kat. 06434 Sıhhiye ANKARA Tel: (0312) 585 15 08 Faks: (0312) 585 15 65-66
+**Adres:** Sağlık Bakanlığı Organ ve Doku Nakli Hizmetleri Daire Başkanlığı Organ Nakli Hizmetleri Şube Müdürlüğü Mithatpaşa Cad. No: 3 B Blok 2. Kat. 06434 Sıhhiye ANKARA Tel: (0312) 585 15 08 Faks: (0312) 585 15 65-66
 
 E-posta: organdokunakli@yahoo.com

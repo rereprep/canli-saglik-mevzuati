@@ -12,12 +12,12 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2016/08/20160809-22.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-YATIRIM ORTAMININ İYİLEŞTİRİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 6728 Kabul Tarihi: 15/7/2016
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**YATIRIM ORTAMININ İYİLEŞTİRİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 6728 Kabul Tarihi: 15/7/2016**
 
 
-MADDE 1 – 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 179 uncu maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 179 uncu maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Sermaye şirketleri ile kooperatiflerin iflası ve iflasın ertelenmesi:
 
 MADDE 179 – Sermaye şirketleri ile kooperatiflerin, aktiflerin muhtemel satış fiyatları üzerinden düzenlenen ara bilançoya göre borca batık olduğu idare ve temsil ile vazifelendirilmiş kimseler veya şirket ya da kooperatif tasfiye hâlinde ise tasfiye memurları veya bir alacaklı tarafından beyan ve mahkemece tespit edilirse, önceden takibe hacet kalmaksızın bunların iflasına karar verilir. Şu kadar ki, idare ve temsil ile vazifelendirilmiş kimseler ya da alacaklılardan biri, şirket veya kooperatifin malî durumunun iyileştirilmesinin mümkün olduğuna dair bir iyileştirme projesini son bir yıldan uzun süre ile şirket merkezinin bulunduğu yerdeki mahkemeye sunarak iflasın ertelenmesini isteyebilir.
@@ -27,7 +27,7 @@ Mevcut borçların ödeme süre ve tutarlarını, alacaklıların adreslerini, f
 Daha önce iflasın ertelenmesinden yararlanmış bir sermaye şirketi veya kooperatif, duruma göre uzatma dâhil erteleme süresinin bitiminden itibaren bir yıl geçmedikçe iflasın ertelenmesi talebinde bulunamaz.”
 
 
-MADDE 2 – 2004 sayılı Kanunun 179/a maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 2 –** 2004 sayılı Kanunun 179/a maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Erteleme yargılaması:
 
 
@@ -44,7 +44,7 @@ Mahkeme, gerekli görürse idare ve temsille vazifelendirilmiş kimseleri ve ala
 Mahkeme, projeyi ciddi ve inandırıcı bulur ve şirket veya kooperatifi iflasın ertelenmesine layık görürse iflasın ertelenmesine; şirket veya kooperatifin borca batık olmadığını tespit ederse erteleme talebi ile iflas davasının reddine; aksi takdirde şirketin veya kooperatifin iflasına karar verir.”
 
 
-MADDE 3 – 2004 sayılı Kanunun 179/b maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 3 –** 2004 sayılı Kanunun 179/b maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Erteleme kararı ve sonuçları:
 
 
@@ -59,7 +59,7 @@ Erteleme süresi dolmamakla birlikte, mahkeme kayyımın verdiği raporlardan ve
 İflasın ertelenmesi talebi üzerine mahkemece verilen nihai kararların hüküm fıkraları tescil edilmek üzere ticaret sicili müdürlüğüne bildirilir ve 166 ncı maddenin ikinci fıkrasının ikinci ve üçüncü cümlelerinde öngörülen usulle ilan ettirilir.”
 
 
-MADDE 4 – 2004 sayılı Kanuna 179/b maddesinden sonra gelmek üzere aşağıdaki 179/c maddesi eklenmiştir.
+**MADDE 4 –** 2004 sayılı Kanuna 179/b maddesinden sonra gelmek üzere aşağıdaki 179/c maddesi eklenmiştir.
 “Kanun yolları:
 
 
@@ -68,11 +68,11 @@ Bölge adliye mahkemesi tarafından verilen kararlara karşı da aynı esaslar d
 Bölge adliye mahkemesince iflasın ertelenmesi kararının kaldırılması veya bölge adliye mahkemesi tarafından verilen iflasın ertelenmesi kararının Yargıtay tarafından bozulması hâlinde, borçlunun malvarlığı üzerindeki tedbirler devam eder. Mahkeme davanın seyrine göre bu tedbirleri değiştirmeye veya kaldırmaya yetkilidir.”
 
 
-MADDE 5 – 2004 sayılı Kanunun 287 nci maddesinin sekizinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 5 –** 2004 sayılı Kanunun 287 nci maddesinin sekizinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Konkordatonun tasdiki yargılaması mühlet içinde bitirilememişse asliye ticaret mahkemesi, komiserin gerekçeli raporunu da dikkate alarak, mühletin bitiminden sonraki dönem için geçerli olmak üzere borçluya karşı evvelce başlatılmış olan takiplerin durdurulmasına veya borçluya karşı yeni takip yapılmamasına karar verebilir.”
 
 
-MADDE 6 – 2004 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 6 –** 2004 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
 MADDE 12 – Bu maddeyi ihdas eden Kanunla değiştirilen hükümler, bu maddenin yürürlüğe girdiği tarihten sonra yapılan iflasın ertelenmesi talepleri hakkında uygulanır.
@@ -80,28 +80,28 @@ Bu maddenin yürürlüğe girdiği tarihten önce verilmiş iflasın ertelenmesi
 Bu maddenin yürürlüğe girdiği tarihte derdest olan dosyalarda kayyım olarak atanan kişiler, bu maddenin yürürlüğe girdiği tarihten itibaren on gün içinde, adli yargı ilk derece mahkemesi adalet komisyonu başkanlıklarına bildirilir. Üçten fazla dosyada görevi devam eden kayyımlara yeni görev verilmez.”
 
 
-MADDE 7 – 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 14 üncü maddesinin (A) bendine aşağıdaki paragraf eklenmiştir.
+**MADDE 7 –** 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 14 üncü maddesinin (A) bendine aşağıdaki paragraf eklenmiştir.
 “Yıllık ortalama ihracat değerlerine göre yapılan sınıflandırmada; son üç yılda yıllık ortalama ihracat tutarı Bakanlar Kurulunun belirleyeceği değerin üzerinde olan firma yetkililerine, Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile;
 kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezasına ya da affa uğramış olsa bile; Devletin güvenliğine karşı suçlar, anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık suçlarından mahkûm olmamaları kaydıyla, Bakanlar Kurulunca belirlenen esaslara göre iki yıl süreyle hususi damgalı pasaport verilebilir.”
 
 
-MADDE 8 – 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 22/A maddesinin birinci fıkrasına “4/1/2002 tarihli” ibaresinden önce gelmek üzere “10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa tabi kamu idareleri ile bu idarelere bağlı döner sermaye işletmelerinin yapacağı her türlü ödemeler ile bunların dışında kalan ve” ibaresi eklenmiştir.
+**MADDE 8 –** 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 22/A maddesinin birinci fıkrasına “4/1/2002 tarihli” ibaresinden önce gelmek üzere “10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa tabi kamu idareleri ile bu idarelere bağlı döner sermaye işletmelerinin yapacağı her türlü ödemeler ile bunların dışında kalan ve” ibaresi eklenmiştir.
 
 
-MADDE 9 – 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 29 uncu maddesinin birinci fıkrasının (t) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 9 –** 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 29 uncu maddesinin birinci fıkrasının (t) bendi aşağıdaki şekilde değiştirilmiştir.
 “t) Emeklilik yatırım fonlarının, menkul kıymet yatırım fonlarının, menkul kıymet yatırım ortaklıklarının, girişim sermayesi yatırım fonlarının ve girişim sermayesi yatırım ortaklıklarının para ve sermaye piyasalarında yaptıkları işlemler nedeniyle elde ettikleri paralar,”
 
 
-MADDE 10 – 6802 sayılı Kanunun 31 inci maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 10 –** 6802 sayılı Kanunun 31 inci maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Sigorta şirketleri, iptal ettikleri sigorta muamelelerine ilişkin vergileri (yalnızca iptal tarihinden sonraki döneme ait olan kısmı), iptalin gerçekleştiği dönemde; bankalar ve finansman şirketleri, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun gereğince tüketicilere iade ettikleri ücret, komisyon ve benzeri adlarla tahsil ettikleri tutarlara ilişkin vergileri, iadenin gerçekleştiği dönemde hesaplanan banka ve sigorta muameleleri vergisinden indirebilirler. Bu dönemde indirilemeyen vergiler, sonraki dönem beyannamelerinde indirim konusu yapılabilir.”
 
 
-MADDE 11 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 22 nci maddesinin (1) numaralı fıkrası aşağıdaki şekilde değiştirilmiş, maddeye aşağıdaki (2) numaralı fıkra eklenmiş ve mevcut (2) numaralı fıkra (3) numaralı fıkra olarak teselsül ettirilmiştir.
+**MADDE 11 –** 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 22 nci maddesinin (1) numaralı fıkrası aşağıdaki şekilde değiştirilmiş, maddeye aşağıdaki (2) numaralı fıkra eklenmiş ve mevcut (2) numaralı fıkra (3) numaralı fıkra olarak teselsül ettirilmiştir.
 “1. Sigorta süresi en az on yıl veya ömür boyu olan tek primli yıllık gelir sigortalarından yapılan ödemelerin tamamı gelir vergisinden müstesnadır. Şu kadar ki; bu istisnadan yararlananların (bu maddenin (2) numaralı fıkrası kapsamında sigorta yaptıranlar dâhil) vefat, maluliyet veya tasfiye gibi zorunlu nedenler hariç olmak üzere, on yıl tamamlanmadan tek primli yıllık gelir sigortalarından ayrılmaları hâlinde, ayrılma tarihinde yapılan ödemelerin içerdiği irat tutarı üzerinden, 94 üncü maddenin birinci fıkrasının (15) numaralı bendinin (a) alt bendine göre tevkifat yapılır. İrat tutarlarının tespitinde 75 inci maddede yer alan hükümlere uyulur.”
 “2. 75 inci maddenin ikinci fıkrasının (15) numaralı bendinin (b) alt bendi ile aynı fıkranın (16) numaralı bendinin (c) alt bendi kapsamında yapılan ödemeleri, sigorta süresi on yıl ve üzeri veya ömür boyu olan tek primli yıllık gelir sigortalarına yatıranların, bu sigorta için yatırdıkları kısma tekabül eden ödemelerin içerdiği irat tutarları (4632 sayılı Kanun kapsamında bireysel emeklilik hesabına yapılan Devlet katkılarının ödemeye konu olan kısımlarına isabet eden irat tutarı dâhil) gelir vergisinden müstesnadır. İstisna edilen tutarlar üzerinden 94 üncü maddenin birinci fıkrasının (15) ve (16) numaralı bentlerine göre tevkifat yapılmaz. Şu kadar ki; bu istisnadan yararlananların vefat, maluliyet veya tasfiye gibi zorunlu nedenler hariç olmak üzere, ödeme alarak on yıl tamamlanmadan tek primli yıllık gelir sigortalarından ayrılmaları hâlinde, bu fıkraya göre istisna edilen tutarlar üzerinden, ödemenin kaynağına göre 94 üncü maddenin birinci fıkrasının (15) numaralı bendinin (a) alt bendi veya aynı fıkranın (16) numaralı bendinin (b) alt bendi için belirlenen oranlar dikkate alınarak tevkifat yapılır. İrat tutarlarının tespitinde 75 inci maddede yer alan hükümlere uyulur.”
 
 
-MADDE 12 – 193 sayılı Kanunun;
+**MADDE 12 –** 193 sayılı Kanunun;
 a) 23 üncü maddesinin birinci fıkrasının;
 1) (11) numaralı bendinde yer alan “ödenen en yüksek ödeme tutarından” ibaresi “çalışılan süreye bağlı olarak ödenen tutardan” şeklinde değiştirilmiştir.
 2) (14) numaralı bendi aşağıdaki şekilde değiştirilmiştir.
@@ -110,7 +110,7 @@ b) Kanuni ve iş merkezi Türkiye’de bulunmayan dar mükellefiyete tabi işver
 b) 25 inci maddesinin birinci fıkrasının (3) numaralı bendinde yer alan “ödenen en yüksek ödeme tutarından” ibaresi “çalışılan süreye bağlı olarak ödenen tutardan” şeklinde değiştirilmiştir.
 
 
-MADDE 13 – 193 sayılı Kanunun mülga 33 üncü maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 13 –** 193 sayılı Kanunun mülga 33 üncü maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Yurt dışına hizmet veren işletmelerde indirim:
 
 MADDE 33 – Bu Kanunun 89 uncu maddesinin birinci fıkrasının (13) numaralı bendi ile 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 10 uncu maddesinin birinci fıkrasının (ğ) bendinde yer alan indirim kapsamındaki faaliyet alanlarında hizmet veren işverenlerin, destek personeli hariç olmak üzere, münhasıran bu faaliyetler için istihdam ettikleri ve fiilen bu işleri ifa eden hizmet erbabına ödedikleri ücretler üzerinden asgari geçim indirimi uygulandıktan sonra hesaplanan vergiden, işverenin bu faaliyetlerinden sağladığı hasılatın %85’inin yurt dışından elde edilmiş olması ve fatura veya benzeri belgenin yurt dışındaki müşteri adına düzenlenmesi şartıyla, her bir çalışan için faaliyetin yapıldığı yılın ocak ayına ait asgari ücretin safi tutarının bu Kanunun 103 üncü maddesindeki gelir vergisi tarifesinin birinci gelir diliminde yer alan oranla çarpılmasıyla bulunan indirim tutarı mahsup edilir.
@@ -118,18 +118,18 @@ Bu indirim, yıl içinde vergilendirme dönemleri itibarıyla tahsil edilen verg
 Bu maddede yer alan %85 oranını, hizmet alanları itibarıyla veya kazanç tutarına bağlı olarak ayrı ayrı veya birlikte %50’ye kadar indirmeye veya %100’e kadar artırmaya Bakanlar Kurulu, bu maddenin uygulamasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.”
 
 
-MADDE 14 – 193 sayılı Kanunun 40 ıncı maddesinin birinci fıkrasının (7) numaralı bendine aşağıdaki parantez içi hüküm eklenmiştir.
+**MADDE 14 –** 193 sayılı Kanunun 40 ıncı maddesinin birinci fıkrasının (7) numaralı bendine aşağıdaki parantez içi hüküm eklenmiştir.
 “(İşletmeye dâhil olan gayrimenkulün iktisadi değerini artırıcı niteliği olan ısı yalıtımı ve enerji tasarrufu sağlamaya yönelik harcamalar, yapıldığı yılda doğrudan gider yazılabilir.)”
 
 
-MADDE 15 – 193 sayılı Kanunun 89 uncu maddesinin birinci fıkrasının;
+**MADDE 15 –** 193 sayılı Kanunun 89 uncu maddesinin birinci fıkrasının;
 a) (9) numaralı bendi yürürlükten kaldırılmıştır.
 b) (13) numaralı bendinin;
 1) Birinci cümlesinde yer alan “çağrı merkezi ve veri saklama hizmeti” ibaresi “çağrı merkezi, ürün testi, sertifikasyon, veri saklama, veri işleme, veri analizi ve ilgili bakanlıkların görüşü alınmak suretiyle Maliye Bakanlığınca belirlenen mesleki eğitim” şeklinde değiştirilmiştir.
 2) Üçüncü cümlesine “hizmet alanları” ibaresinden sonra gelmek üzere “ve kazanç tutarları” ibaresi eklenmiştir.
 
 
-MADDE 16 – 193 sayılı Kanunun 98 inci maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 16 –** 193 sayılı Kanunun 98 inci maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Muhtasar ve prim hizmet beyannamesi:
 
 
@@ -139,30 +139,30 @@ Muhtasar ve prim hizmet beyannamesinin verilmesinde bu Kanunun 98 inci maddesind
 Bu Kanunda ve diğer kanunlarda, muhtasar beyanname ile aylık prim ve hizmet belgesine yapılmış olan atıflar, bu iki belgenin tek bir beyanname olarak birleştirildiği durumlarda, muhtasar ve prim hizmet beyannamesine yapılmış sayılır.”
 
 
-MADDE 17 – 193 sayılı Kanunun geçici 67 nci maddesinin (17) numaralı fıkrasına “bunların vadesi” ibaresinden sonra gelmek üzere “, elde tutulma süresi” ibaresi eklenmiştir.
+**MADDE 17 –** 193 sayılı Kanunun geçici 67 nci maddesinin (17) numaralı fıkrasına “bunların vadesi” ibaresinden sonra gelmek üzere “, elde tutulma süresi” ibaresi eklenmiştir.
 
 
-MADDE 18 – 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 28 inci maddesinin ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 18 –** 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 28 inci maddesinin ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Gelir Vergisi Kanununun 98/A maddesi kapsamında getirilen zorunluluk üzerine verilen beyannameye istinaden, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu uyarınca düzenlenen tahakkuk fişi, mükellefe veya elektronik ortamda beyanname gönderme yetkisi verilmiş gerçek veya tüzel kişiye elektronik ortamda iletilir.”
 
 
-MADDE 19 – 213 sayılı Kanunun 153 üncü maddesinin ikinci fıkrasının;
+**MADDE 19 –** 213 sayılı Kanunun 153 üncü maddesinin ikinci fıkrasının;
 a) Birinci cümlesinde yer alan “30 uncu” ibaresi “27 nci” şeklinde değiştirilmiş, cümleye “vergi dairesine” ibaresinden sonra gelmek üzere “yazılı veya elektronik ortamda” ibaresi eklenmiştir.
 b) Sonuna aşağıdaki cümle eklenmiştir.
 “Başvuru evraklarının elektronik ortamda intikaline ilişkin usul ve esaslar Maliye Bakanlığı ile Gümrük ve Ticaret Bakanlığınca müştereken belirlenir.”
 
 
-MADDE 20 – 213 sayılı Kanunun 153/A maddesinin onuncu fıkrası yürürlükten kaldırılmıştır.
+**MADDE 20 –** 213 sayılı Kanunun 153/A maddesinin onuncu fıkrası yürürlükten kaldırılmıştır.
 
 
-MADDE 21 – 213 sayılı Kanunun mükerrer 355 inci maddesinin;
+**MADDE 21 –** 213 sayılı Kanunun mükerrer 355 inci maddesinin;
 a) Başlığı “Bilgi vermekten çekinenler ile 256, 257, mükerrer 257 nci madde ve Gelir Vergisi Kanununun 98/A maddesi hükmüne uymayanlar için ceza:” şeklinde değiştirilmiştir.
 b) Birinci fıkrasında yer alan “mükerrer 257 nci madde uyarınca getirilen zorunluluklara” ibaresi “mükerrer 257 nci maddesi ve Gelir Vergisi Kanununun 98/A maddesi uyarınca getirilen zorunluluklara” şeklinde değiştirilmiştir.
 c) Altıncı fıkrasının başına gelmek üzere aşağıdaki cümle eklenmiştir.
 “Elektronik ortamda bildirim veya form verilmesi mecburiyetine uyulmaması hâlinde kesilmesi gereken özel usulsüzlük cezası, bildirim veya formların belirlenen sürelerin sonundan başlayarak elektronik ortamda 3 gün içinde verilmesi halinde 1/10 oranında uygulanır.”
 
 
-MADDE 22 – 213 sayılı Kanunun mülga 370 inci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 22 –** 213 sayılı Kanunun mülga 370 inci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “İzaha davet:
 
 
@@ -175,27 +175,27 @@ Birinci fıkra kapsamında yapılmış ön tespitlerin, verginin bu Kanunun 359 
 Maliye Bakanlığı ön tespitin niteliğini, izaha davetin şeklini ve kapsamını, daveti yapacak ve yapılan izahı değerlendirecek mercii, davet yapılacakları, yapılan izahta kullanılacak bilgi ve belgeler ile uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.”
 
 
-MADDE 23 – 1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununun 5 inci maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 23 –** 1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununun 5 inci maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Bir nüshadan fazla olarak düzenlenen kâğıtlardan, maktu vergiye tabi olanların her bir nüshası ayrı ayrı aynı miktarda; nispi vergiye tabi olanların ise sadece bir nüshası damga vergisine tabidir.”
 
 
-MADDE 24 – 488 sayılı Kanunun 6 ncı maddesinin;
+**MADDE 24 –** 488 sayılı Kanunun 6 ncı maddesinin;
 a) Üçüncü fıkrasına aşağıdaki cümle eklenmiştir.
 “Şu kadar ki; bir kâğıt üzerinde birden fazla adi kefalet ve garanti taahhüdü bulunması hâlinde, ayrı ayrı olmak üzere bunlardan yalnızca birinden damga vergisi alınır.”
 b) Sonuna aşağıdaki fıkra eklenmiştir.
 “Pey akçesi, cayma tazminatı, ücret tevkifi, cezai şart gibi bir sözleşmenin müeyyidesi mahiyetinde olan taahhütlerden, başlı başına bir sözleşmeye konu olmadıkça damga vergisi alınmaz.”
 
 
-MADDE 25 – 488 sayılı Kanunun 14 üncü maddesinin ikinci fıkrasının birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
+**MADDE 25 –** 488 sayılı Kanunun 14 üncü maddesinin ikinci fıkrasının birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
 “Birinci fıkraya göre azami tutardan vergi alınan mukavelenamelerin, diğer hükümlerinde değişiklik olmaksızın sadece bedelinin artması durumunda, artan bedele ilişkin bu hüküm uygulanmaz.”
 
 
-MADDE 26 – 488 sayılı Kanunun mükerrer 30 uncu maddesinin;
+**MADDE 26 –** 488 sayılı Kanunun mükerrer 30 uncu maddesinin;
 a) Üçüncü fıkrasında yer alan “Sermaye Piyasası Kanununun uygulanmasıyla ilgili olarak Sermaye Piyasası Kurulunca” ibaresi “Sermaye Piyasası Kanunu ve Bankacılık Kanununun uygulanmasıyla ilgili olarak Sermaye Piyasası Kurulu ile Bankacılık Düzenleme ve Denetleme Kurumunca” şeklinde değiştirilmiştir.
 b) Dördüncü fıkrasında yer alan “nispi vergileri ise bu fıkra ile artırılmadan önceki seviyelerine indirmeye” ibaresi “nispi vergileri ise kâğıt türleri itibarıyla ayrı ayrı veya birlikte sıfıra kadar indirmeye” şeklinde değiştirilmiştir.
 
 
-MADDE 27 – 488 sayılı Kanunun ek 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 27 –** 488 sayılı Kanunun ek 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 “EK
 
 MADDE 2 – 1. İhracat ve ihracata ilişkin olduğunun tevsiki kaydıyla aşağıda sayılan işlemler nedeniyle düzenlenen kâğıtlar (gümrük idarelerine verilen beyannameler dâhil) damga vergisinden müstesnadır.
@@ -247,7 +247,7 @@ Bu maddede sayılan işlem veya faaliyetlerin gerçekleşmediğinin tespit edild
 6. Bu maddenin uygulanması bakımından; birinci ve ikinci fıkralarda yer alan döviz kazandırıcı faaliyetlere ilave olarak döviz kazandırıcı diğer faaliyetleri, belge kapsamında istisna uygulanacak işlem ve faaliyetlerin aşamaları ile diğer usul ve esasları belirlemeye Maliye Bakanlığı ile Ekonomi Bakanlığı birlikte yetkilidir.”
 
 
-MADDE 28 – 488 sayılı Kanuna ekli (1) Sayılı Tablonun;
+**MADDE 28 –** 488 sayılı Kanuna ekli (1) Sayılı Tablonun;
 a) “I.
 Akitlerle ilgili kâğıtlar” başlıklı bölümünün “A. Belli parayı ihtiva eden kâğıtlar” başlıklı fıkrasına aşağıdaki bentler eklenmiştir.
 “7.
@@ -281,7 +281,7 @@ Beyannameler” başlıklı fıkrasının (f) bendi aşağıdaki şekilde deği�
 “f) 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu uyarınca verilmesi gereken aylık prim ve hizmet belgesi ile muhtasar beyannamenin birleştirilerek verilmesiyle oluşturulan beyannameler (37,40 TL.)”
 
 
-MADDE 29 – 488 sayılı Kanuna ekli (2) Sayılı Tablonun;
+**MADDE 29 –** 488 sayılı Kanuna ekli (2) Sayılı Tablonun;
 a) “II- Öğrenciler ve askerlerle ilgili kağıtlar” başlıklı bölümünün (2) numaralı fıkrasına “beyannameler” ibaresinden sonra gelmek üzere “ile okul idareleriyle öğrenciler veya velileri arasında düzenlenen kâğıtlar” ibaresi eklenmiştir.
 b) “II- Öğrenciler ve askerlerle ilgili kağıtlar” başlıklı bölümüne aşağıdaki fıkra eklenmiştir.
 “6.
@@ -317,20 +317,20 @@ Sermaye piyasası araçlarının kredili alımı, açığa satışı ve ödünç
 İleri teknolojiye sahip ve teknoloji transferi sağlayacak yurt dışında yerleşik şirketlerin satın alınması ile bu alımlara yönelik mali ve hukuki danışmanlık hizmeti alımına ilişkin düzenlenen kâğıtlar.”
 
 
-MADDE 30 – 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 38 inci maddesinin birinci fıkrasına aşağıdaki cümle eklenmiştir.
+**MADDE 30 –** 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 38 inci maddesinin birinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Birden fazla nüsha olarak düzenlenen muayyen bir bedeli ihtiva eden kâğıtlarla ilgili nispi harca tabi işlemlerden sadece bir nüsha için harç tahsil olunur.”
 
 
-MADDE 31 – 492 sayılı Kanunun 47 nci maddesinin başlığı “Çeşitli işlemlerde harç:”
+**MADDE 31 –** 492 sayılı Kanunun 47 nci maddesinin başlığı “Çeşitli işlemlerde harç:”
 şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “Noterde işleme konu edilmiş belli tutarı ihtiva eden her nevi senet, mukavelename ve kâğıtların değiştirilmesi hâlinde, değişikliğe ilişkin senet, mukavelename ve kâğıtlar artan miktar üzerinden aynı nispette harca tabidir.”
 
 
-MADDE 32 – 492 sayılı Kanunun 59 uncu maddesinin birinci fıkrasının (p) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 32 –** 492 sayılı Kanunun 59 uncu maddesinin birinci fıkrasının (p) bendi aşağıdaki şekilde değiştirilmiştir.
 “p) 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu kapsamında yapılan finansal kiralama işlemlerinde, kiralanan taşınmazın finansal kiralama sözleşmesinin süresi sonunda kiracıya devri.”
 
 
-MADDE 33 – 492 sayılı Kanunun 123 üncü maddesinin;
+**MADDE 33 –** 492 sayılı Kanunun 123 üncü maddesinin;
 a) Üçüncü fıkrasına “şirketlerin kuruluş,” ibaresinden sonra gelmek üzere “pay devri,” ibaresi, “bankalar,” ibaresinden sonra gelmek üzere “finansman şirketleri,” ibaresi eklenmiş ve fıkrada yer alan “Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri” ibaresinden sonra gelen parantez içi hüküm “(Bu kooperatifler tarafından bankalardan kullandırılacak krediler için verilecek kefaletler ile Kredi Garanti Fonu İşletme ve Araştırma Anonim Şirketi tarafından verilecek kefaletler dâhil)” şeklinde değiştirilmiştir.
 b) Dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Kira sertifikası ihracına dayanak teşkil eden her türlü varlık ve hakların;
@@ -345,11 +345,11 @@ Her türlü gemi, yat ve diğer su araçlarının inşası, yenileme ve dönüş
 Öğrencilerin burs veya öğrenim kredisi almak ve okula veya öğrenci yurduna girebilmek için düzenledikleri sözleşme, taahhütname, kefaletname ve benzeri kâğıtlara ilişkin işlemler bu Kanunda yazılı harçlardan müstesnadır.”
 
 
-MADDE 34 – 492 sayılı Kanunun 132 nci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 34 –** 492 sayılı Kanunun 132 nci maddesine aşağıdaki fıkra eklenmiştir.
 “Bu Kanuna bağlı (1) sayılı tarifenin “C) Ticaret sicili harçları:” başlıklı bölümünde yazılı ticaret sicili işlemlerine ilişkin harçlar, ticaret ve sanayi odaları veya ticaret odaları veyahut ilgili odalar tarafından makbuz karşılığı peşin olarak tahsil edilir. Bu suretle tahsil olunan bir aya ait harçlar şekil, içerik ve muhteviyatı Maliye Bakanlığınca belirlenen bir bildirim ile ticaret sicili müdürlüğünü bünyesinde bulunduran odanın muhtasar yönünden bağlı olduğu vergi dairesine, izleyen ayın on beşinci günü akşamına kadar bildirilip ödenir. Tahsil edilen harçların ilgili vergi dairesine süresinde ödenmemesi durumunda, harç ilgili odadan 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre takip ve tahsil edilir. Süresinde vergi dairesine beyan edilmeyen tutarlar hakkında 213 sayılı Vergi Usul Kanunu hükümleri uygulanır. İşlemden doğan harçları tamamen almadan işlem yapan ticaret sicili müdürlüğü görevlileri ve ilgili odalar harcın ödenmesinden mükelleflerle birlikte müteselsilen sorumludur.”
 
 
-MADDE 35 – 492 sayılı Kanunun ek 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 35 –** 492 sayılı Kanunun ek 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “EK
 
 MADDE 1 – 1. İhracat ve ihracata ilişkin olduğunun tevsiki kaydıyla aşağıda sayılan işlemler harçlardan müstesnadır:
@@ -401,34 +401,34 @@ Bu maddede sayılan işlem veya faaliyetlerin gerçekleşmediğinin tespit edild
 6. Bu maddenin uygulanması bakımından; birinci ve ikinci fıkralarda yer alan döviz kazandırıcı faaliyetlere ilave olarak döviz kazandırıcı diğer faaliyetleri, belge kapsamında istisna uygulanacak işlem ve faaliyetlerin aşamaları ile diğer usul ve esasları belirlemeye Maliye Bakanlığı ile Ekonomi Bakanlığı birlikte yetkilidir.”
 
 
-MADDE 36 – 492 sayılı Kanuna bağlı (1) sayılı Tarifenin “A) Mahkeme Harçları” başlıklı bölümünün “III- Karar ve ilam harcı” başlıklı alt bölümünün birinci fıkrasının (a) bendinde yer alan “Tahkim yargılamasında bu bende göre hesaplanan harç yüzde elli oranında uygulanır.” cümlesi “Tahkim yargılamasında bu bent hükümlerine göre harç alınmaz.” şeklinde değiştirilmiştir.
+**MADDE 36 –** 492 sayılı Kanuna bağlı (1) sayılı Tarifenin “A) Mahkeme Harçları” başlıklı bölümünün “III- Karar ve ilam harcı” başlıklı alt bölümünün birinci fıkrasının (a) bendinde yer alan “Tahkim yargılamasında bu bende göre hesaplanan harç yüzde elli oranında uygulanır.” cümlesi “Tahkim yargılamasında bu bent hükümlerine göre harç alınmaz.” şeklinde değiştirilmiştir.
 
 
-MADDE 37 – 492 sayılı Kanuna bağlı (2) sayılı Tarifenin “II- Maktu harçlar:” başlıklı bölümünün;
+**MADDE 37 –** 492 sayılı Kanuna bağlı (2) sayılı Tarifenin “II- Maktu harçlar:” başlıklı bölümünün;
 a) (3) numaralı fıkrası aşağıdaki şekilde değiştirilmiştir.
 “3. Vekaletnamelerde beher imza için 12,40 TL.”
 b) (4) numaralı fıkrasının başlığı “4. Defter tasdiki (kuruluş aşamasında yapılan tasdikler hariç):” şeklinde değiştirilmiştir.
 
 
-MADDE 38 – 492 sayılı Kanuna bağlı (4) sayılı Tarifenin “I- Tapu işlemleri” başlıklı bölümünün (7) numaralı fıkrasına aşağıdaki parantez içi hüküm eklenmiştir.
+**MADDE 38 –** 492 sayılı Kanuna bağlı (4) sayılı Tarifenin “I- Tapu işlemleri” başlıklı bölümünün (7) numaralı fıkrasına aşağıdaki parantez içi hüküm eklenmiştir.
 “(Tacirler arası ipotek tesis işlemlerinde bu fıkraya göre hesaplanan harçlar yüzde elli oranında uygulanır.)”
 
 
-MADDE 39 – 29/7/1970 tarihli ve 1319 sayılı Emlak Vergisi Kanununun 5 inci maddesinin (f) fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 39 –** 29/7/1970 tarihli ve 1319 sayılı Emlak Vergisi Kanununun 5 inci maddesinin (f) fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “g) Yatırım Teşvik Belgesi kapsamında inşa edilen binalar, inşalarının sona erdiği tarihi takip eden bütçe yılından itibaren beş yıl süre ile geçici muafiyetten faydalandırılır.”
 
 
-MADDE 40 – 1319 sayılı Kanunun 15 inci maddesinin (d) fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 40 –** 1319 sayılı Kanunun 15 inci maddesinin (d) fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “e) Yatırım Teşvik Belgesi kapsamında yapılan yatırımlar için iktisap olunan veya tahsis edilen araziler Yatırım Teşvik Belgesi süresince.”
 
 
-MADDE 41 – 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun ek 2 nci maddesinin (d) fıkrasında yer alan “Kültür ve Turizm Bakanlığı” ibaresi “Yatırım Teşvik Belgesi kapsamında inşa edilen binalar, Kültür ve Turizm Bakanlığı” şeklinde değiştirilmiştir.
+**MADDE 41 –** 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun ek 2 nci maddesinin (d) fıkrasında yer alan “Kültür ve Turizm Bakanlığı” ibaresi “Yatırım Teşvik Belgesi kapsamında inşa edilen binalar, Kültür ve Turizm Bakanlığı” şeklinde değiştirilmiştir.
 
 
-MADDE 42 – 2464 sayılı Kanunun 80 inci maddesinin ikinci fıkrasında yer alan “7269 sayılı” ibaresi “Yatırım Teşvik Belgesi kapsamında inşa edilen yapı ve tesisler, 7269 sayılı” şeklinde değiştirilmiştir.
+**MADDE 42 –** 2464 sayılı Kanunun 80 inci maddesinin ikinci fıkrasında yer alan “7269 sayılı” ibaresi “Yatırım Teşvik Belgesi kapsamında inşa edilen yapı ve tesisler, 7269 sayılı” şeklinde değiştirilmiştir.
 
 
-MADDE 43 – 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 17 nci maddesinin (4) numaralı fıkrasının;
+**MADDE 43 –** 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 17 nci maddesinin (4) numaralı fıkrasının;
 a) (g) bendine “tahvil” ibaresinden sonra gelmek üzere “(elde edilen faiz gelirleri ile sınırlı olmak üzere tahvil satın almak suretiyle verilen finansman hizmetleri dâhil)” parantez içi hüküm eklenmiştir.
 b) (r) bendine aşağıdaki paragraf eklenmiştir.
 “Bu fıkranın (u) bendi kapsamında varlık kiralama şirketlerine ve (y) bendi kapsamında finansal kiralama şirketleri, katılım bankaları ile kalkınma ve yatırım bankalarına devredilen taşınmaz ve iştirak hisselerinin, kaynak kuruluş ve kiracı tarafından üçüncü kişilere satışına ilişkin en az iki tam yıl aktifte bulundurma süresinin hesabında, bu taşınmaz ve iştirak hisselerinin varlık kiralama şirketleri, finansal kiralama şirketleri, katılım bankaları ile kalkınma ve yatırım bankalarının aktifinde bulunduğu süreler de dikkate alınır.”
@@ -441,24 +441,24 @@ finansal kiralama şirketleri, katılım bankaları ile kalkınma ve yatırım b
 İstisna kapsamında, finansal kiralama şirketleri, katılım bankaları ile kalkınma ve yatırım bankalarına devredilen her türlü taşınır ve taşınmaz malların iktisabında yüklenilen ve devrin yapıldığı döneme kadar indirim yoluyla giderilemeyen katma değer vergisi, devrin yapıldığı hesap dönemine ilişkin gelir veya kurumlar vergisi matrahının tespitinde gider olarak dikkate alınır.”
 
 
-MADDE 44 – 3065 sayılı Kanunun 30 uncu maddesinin birinci fıkrasının (d) bendine aşağıdaki parantez içi hüküm eklenmiştir.
+**MADDE 44 –** 3065 sayılı Kanunun 30 uncu maddesinin birinci fıkrasının (d) bendine aşağıdaki parantez içi hüküm eklenmiştir.
 “(5520 sayılı Kanunun 13 üncü maddesine göre transfer fiyatlandırması yoluyla örtülü olarak dağıtılan kazançlar ile Gelir Vergisi Kanununun 41 inci maddesinin birinci fıkrasının
 (5) numaralı bendine göre işletme aleyhine oluşan farklara ilişkin ithalde veya sorumlu sıfatıyla ödenen katma değer vergisi hariç)”
 
 
-MADDE 45 – 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanununun 5 inci maddesinin ikinci fıkrasında yer alan “teminat sözleşmeleri,” ibaresi “banka teminat mektupları dışındaki teminat sözleşmeleri,” şeklinde değiştirilmiştir.
+**MADDE 45 –** 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanununun 5 inci maddesinin ikinci fıkrasında yer alan “teminat sözleşmeleri,” ibaresi “banka teminat mektupları dışındaki teminat sözleşmeleri,” şeklinde değiştirilmiştir.
 
 
-MADDE 46 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 12 nci maddesinin ikinci fıkrasına aşağıdaki cümleler eklenmiştir.
+**MADDE 46 –** 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 12 nci maddesinin ikinci fıkrasına aşağıdaki cümleler eklenmiştir.
 “Bu Kanun gereği internet, elektronik ve benzeri ortamda Kuruma gönderilecek muhtasar ve prim hizmet beyannamesinin defter ve kayıtlara ve bu kayıtların dayanağını teşkil eden belgelere uygun olmamasından işverenlerle birlikte yazılı sözleşme ile yetki verilmiş serbest muhasebeci, serbest muhasebeci malî müşavir ve yeminli malî müşavirler de müştereken ve müteselsilen sorumludur. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Kurum tarafından çıkarılan yönetmelikle düzenlenir.”
 
 
-MADDE 47 – 5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının;
+**MADDE 47 –** 5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının;
 a) (ı) bendinin ikinci cümlesinde yer alan “belgelerinin” ibaresi “belgelerini” şeklinde değiştirilmiş ve bende “yasal süresi içerisinde Sosyal Güvenlik Kurumuna” ibaresinden sonra gelmek üzere “, muhtasar ve prim hizmet beyannamelerini ise Maliye Bakanlığına” ibaresi eklenmiştir.
 b) (i) bendinin ikinci cümlesinde yer alan “yasal süresi içinde Kuruma” ibaresinden sonra gelmek üzere “, muhtasar ve prim hizmet beyannamelerinin ise Maliye Bakanlığına” ibaresi eklenmiştir.
 
 
-MADDE 48 – 5510 sayılı Kanunun 86 ncı maddesinin;
+**MADDE 48 –** 5510 sayılı Kanunun 86 ncı maddesinin;
 a) Birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Bu Kanunun 4 üncü ve 5 inci maddesine tabi sigortalılar ile sosyal güvenlik destek primine tabi sigortalılar için işverenlerce Kuruma verilmesi gereken aylık prim ve hizmet belgelerinin şekli, içeriği, ekleri, ilgili olduğu dönemi, verilme süresi ve diğer hususlar Kurum tarafından çıkarılan yönetmelikle belirlenir.”
 b) Dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -473,7 +473,7 @@ f) Sonuna aşağıdaki fıkra eklenmiştir.
 İşveren sigortalı çalıştırmadığı takdirde, bu hususu sigortalı çalıştırmaya son verdiği tarihten itibaren on beş gün içinde Kuruma bildirmekle yükümlüdür.”
 
 
-MADDE 49 – 5510 sayılı Kanunun 91 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 49 –** 5510 sayılı Kanunun 91 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Afet ve diğer mücbir sebep hâllerinde belgelerin verilme süresi ve primlerin ertelenmesi
 
 MADDE 91 – Yangın, su baskını, sel, kuraklık, yer kayması, deprem gibi afetlerle ağır hastalık, ağır kaza, tutukluluk ve sabotaj gibi nedenlerle ticari veya ekonomik kayıplara uğrayan işverenler, bu Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılar ile bu Kanuna göre primlerini kendileri ödeyen sigortalılar, bu durumu belgelemeleri kaydıyla vakanın veya afetin meydana geldiği tarihten itibaren üç ay içinde talepte bulunmaları ve prim ödeme aczine düştüklerinin, yapılacak inceleme sonucu anlaşılması hâlinde, yukarıda belirtilen vaka veya afet tarihinden önce ödeme süresi dolmuş mevcut Kuruma olan borçlar ile vaka veya afetin meydana geldiği tarihi takip eden üçüncü ayın sonuna kadar tahakkuk edecek Kuruma olan borçları, vaka veya afetin meydana geldiği tarihten itibaren bir yıla kadar Kurumca ertelenebilir.
@@ -482,10 +482,10 @@ Yetkili makamlarca genel hayatı etkilediğine dair karar verilen vaka, afet vey
 Kuruma olan borçların ertelendiği sürede zamanaşımı işlemez ve ertelenen kısmına gecikme cezası ve gecikme zammı uygulanmaz.”
 
 
-MADDE 50 – 5510 sayılı Kanunun 100 üncü maddesinin üçüncü fıkrasının birinci cümlesinde yer alan “gerçek ve tüzel kişileri” ibaresi “gerçek veya tüzel kişiler ile yazılı sözleşme ile yetki verilmiş gerçek veya tüzel kişilere izin vermeye, bu kişileri aracı kılmaya veya” şeklinde değiştirilmiştir.
+**MADDE 50 –** 5510 sayılı Kanunun 100 üncü maddesinin üçüncü fıkrasının birinci cümlesinde yer alan “gerçek ve tüzel kişileri” ibaresi “gerçek veya tüzel kişiler ile yazılı sözleşme ile yetki verilmiş gerçek veya tüzel kişilere izin vermeye, bu kişileri aracı kılmaya veya” şeklinde değiştirilmiştir.
 
 
-MADDE 51 – 5510 sayılı Kanunun 102 nci maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
+**MADDE 51 –** 5510 sayılı Kanunun 102 nci maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
 “m) Kurumun prim tahakkukuna ve sigortalıların sosyal güvenlik haklarına dayanak teşkil eden bu Kanunun 86 ncı maddesinin on üçüncü fıkrası uyarınca verilmesi gereken beyannamedeki sigortalıların, prime esas kazançlarının veya hizmetlerinin bildirilmediği, eksik ya da geç bildirildiği anlaşılan her bir işyeri için;
 1) Beyannamenin asıl olması hâlinde, aylık asgari ücretin iki katını geçmemek kaydıyla beyannamede kayıtlı sigortalı sayısı başına, aylık asgari ücretin beşte biri tutarında, 2) Beyannamenin ek olması hâlinde, aylık asgari ücretin iki katını geçmemek kaydıyla her bir ek beyannamede kayıtlı sigortalı sayısı başına, aylık asgari ücretin sekizde biri tutarında,
 3) Ek beyannamenin, 86 ncı maddenin beşinci fıkrasına istinaden Kurumca resen düzenlenmesi durumunda, aylık asgari ücretin iki katını geçmemek kaydıyla her bir ek beyannamede kayıtlı sigortalı sayısı başına, aylık asgari ücretin yarısı tutarında,
@@ -497,27 +497,27 @@ c) Defter tutmakla yükümlü olmayanlar hakkında aylık asgari ücreti geçmem
 n) Muhtasar ve prim hizmet beyannamesinde, sigortalıların işyerlerinde fiilen yaptıkları işe uygun meslek adı ve kodunu, gerçeğe aykırı bildiren her bir işyeri için aylık asgari ücreti geçmemek üzere meslek adı ve kodu gerçeğe aykırı bildirilen sigortalı başına asgari ücretin onda biri tutarında idari para cezası uygulanır.”
 
 
-MADDE 52 – 5510 sayılı Kanunun ek 2 nci maddesinin ikinci fıkrasına “aylık prim ve hizmet belgelerinin” ibaresinden sonra gelmek üzere “Kuruma, muhtasar ve prim hizmet beyannamelerinin Maliye Bakanlığına” ibaresi eklenmiş ve fıkrada yer alan “yasal süresi içerisinde” ibaresinden sonra gelen “Kuruma” ibaresi yürürlükten kaldırılmıştır.
+**MADDE 52 –** 5510 sayılı Kanunun ek 2 nci maddesinin ikinci fıkrasına “aylık prim ve hizmet belgelerinin” ibaresinden sonra gelmek üzere “Kuruma, muhtasar ve prim hizmet beyannamelerinin Maliye Bakanlığına” ibaresi eklenmiş ve fıkrada yer alan “yasal süresi içerisinde” ibaresinden sonra gelen “Kuruma” ibaresi yürürlükten kaldırılmıştır.
 
 
-MADDE 53 – 5510 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 53 –** 5510 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
 MADDE 12 – Aylık prim ve hizmet belgesinin muhtasar ve prim hizmet beyannamesi adı altında muhtasar beyanname ile birleştirilerek Maliye Bakanlığına verilmeye başlanıldığı tarihten önceki dönemlere ait yükümlülükler nedeniyle verilmesi gereken aylık prim ve hizmet belgeleri Sosyal Güvenlik Kurumunca belirlenen usul ve esaslar çerçevesinde Kuruma verilir.”
 
 
-MADDE 54 – 5510 sayılı Kanunun geçici 68 inci maddesinin;
+**MADDE 54 –** 5510 sayılı Kanunun geçici 68 inci maddesinin;
 a) Birinci fıkrasının (a) bendinde yer alan “2016 yılında cari aya ilişkin verilen aylık prim ve hizmet belgelerinde” ibaresinden sonra gelmek üzere “veya muhtasar ve prim hizmet beyannamelerinde” ibaresi,
 b) Üçüncü fıkrasında yer alan “aylık prim ve hizmet belgelerini” ibaresinden sonra gelmek üzere “veya muhtasar ve prim hizmet beyannamelerini” ibaresi,
 c) Altıncı fıkrasında yer alan “2016 yılında cari aya ilişkin verilen aylık prim ve hizmet belgelerinde” ibaresinden sonra gelmek üzere “veya muhtasar ve prim hizmet beyannamelerinde” ibaresi,
 ç) Dokuzuncu fıkrasında yer alan “aylık prim ve hizmet belgelerinde” ibaresinden sonra gelmek üzere “veya Maliye Bakanlığına verilecek muhtasar ve prim hizmet beyannamelerinde” ibaresi, eklenmiştir.
 
 
-MADDE 55 – 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 4 üncü maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
+**MADDE 55 –** 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 4 üncü maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “ö) Tüm giderlerinin kanuni ve iş merkezi Türkiye’de bulunmayan kurumlar tarafından karşılanması ve söz konusu giderlerin Türkiye’de tam veya dar mükellefiyete tabi herhangi bir kurumun hesaplarına intikal ettirilmemesi veya kârından ayrılmaması kaydıyla, Ekonomi Bakanlığından alınan izne istinaden kurulan bölgesel yönetim merkezleri (Türkiye’de tam veya dar mükellefiyete tabi herhangi bir kurumun, bölgesel yönetim merkezinin yönetimi altında bulunması muafiyet hükmünün uygulamasına engel teşkil etmez.).”
 
 
-MADDE 56 – 5520 sayılı Kanunun 5 inci maddesinin;
+**MADDE 56 –** 5520 sayılı Kanunun 5 inci maddesinin;
 a) Birinci fıkrasının (e) bendinin birinci paragrafında yer alan parantez içi hüküm yürürlükten kaldırılmış ve beşinci paragrafı aşağıdaki şekilde değiştirilmiştir.
 “Devir veya bölünme suretiyle devralınan taşınmazlar, iştirak hisseleri, kurucu senetleri ve intifa senetleri ile rüçhan haklarının satışında aktifte bulundurma sürelerinin hesabında, devir olunan veya bölünen kurumda geçen süreler de dikkate alınır. 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu kapsamında geri kiralama amacıyla ve sözleşme sonunda geri alınması şartıyla, kurumlar tarafından finansal kiralama şirketleri, katılım bankaları ile kalkınma ve yatırım bankalarına veya 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanunu kapsamında kira sertifikası ihracı amacıyla varlık kiralama şirketlerine devredilen taşınmazların kiracı ya da kaynak kuruluş tarafından üçüncü kişilere satışında, aktifte bulundurma sürelerinin hesabında, bu taşınmazların finansal kiralama şirketi, katılım bankaları, kalkınma ve yatırım bankaları ile varlık kiralama şirketinin aktifinde bulunduğu süreler de dikkate alınır.”
 b) Birinci fıkrasına aşağıdaki bentler eklenmiştir.
@@ -534,7 +534,7 @@ Söz konusu varlıkların, kaynak kuruluş tarafından üçüncü kişi ve kurum
 Söz konusu varlıkların varlık kiralama şirketleri tarafından üçüncü kişi ve kurumlara satılması durumunda ise varlık kiralama şirketlerinin bu satış işleminden doğan kazançları varlık kiralama şirketleri nezdinde kurumlar vergisine tabi tutulur ve istisna uygulaması dolayısıyla kaynak kuruluş adına zamanında tahakkuk ettirilmeyen vergiler, vergi ziyaı cezası uygulanmaksızın gecikme faiziyle birlikte tahsil olunur.”
 
 
-MADDE 57 – 5520 sayılı Kanunun 5/B maddesinin;
+**MADDE 57 –** 5520 sayılı Kanunun 5/B maddesinin;
 a) İkinci fıkrasının (c) bendi yürürlükten kaldırılmıştır.
 b) Üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(3) İstisna uygulamasına patent veya faydalı model belgesinin verildiği tarihten itibaren başlanır ve ilgili patent veya faydalı model belgesi için sağlanan koruma süresi aşılmamak kaydıyla bu istisnadan yararlanılabilir.
@@ -543,14 +543,14 @@ c) Yedinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(7) Birinci ve beşinci fıkralarda yer alan %50 oranını ayrı ayrı ya da birlikte sıfıra kadar indirmeye, %100’e kadar artırmaya, bu oranları sektörler ile birinci fıkrada yer alan gelir, kazanç ve iratlar itibarıyla ya da patent veya faydalı model belgesine göre farklılaştırmaya, tekrar kanuni seviyesine indirmeye, beşinci fıkrada yer alan süreyi bir yıla kadar indirmeye, tekrar kanuni seviyesine kadar çıkarmaya Bakanlar Kurulu; üçüncü fıkrada yer alan transfer fiyatlandırması suretiyle ayrıştırma yöntemi yerine satış, hasılat, gider, harcama, maliyet veya benzeri unsurları dikkate alarak kazancın ayrıştırılmasında basitleştirilmiş yöntemler tespit etmeye ve bu maddenin uygulamasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.”
 
 
-MADDE 58 – 5520 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının;
+**MADDE 58 –** 5520 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının;
 a) (a) bendi yürürlükten kaldırılmıştır.
 b) (ğ) bendinin;
 1) Birinci paragrafında yer alan “çağrı merkezi ve veri saklama hizmeti” ibaresi “çağrı merkezi, ürün testi, sertifikasyon, veri saklama, veri işleme, veri analizi ve ilgili bakanlıkların görüşü alınmak suretiyle Maliye Bakanlığınca belirlenen mesleki eğitim” şeklinde değiştirilmiştir.
 2) Üçüncü paragrafına “hizmet alanları” ibaresinden sonra gelmek üzere “ve kazanç tutarları” ibaresi eklenmiştir.
 
 
-MADDE 59 – 5520 sayılı Kanunun 13 üncü maddesinin;
+**MADDE 59 –** 5520 sayılı Kanunun 13 üncü maddesinin;
 a) İkinci fıkrasına “İlişkinin doğrudan veya dolaylı olarak ortaklık kanalıyla oluştuğu durumların örtülü kazanç dağıtımı kapsamında sayılması için en az %10 oranında ortaklık, oy veya kâr payı hakkının olması şartı aranır. Ortaklık ilişkisi olmadan doğrudan veya dolaylı olarak en az %10 oranında oy veya kâr payı hakkının olduğu durumlarda da taraflar ilişkili kişi sayılır. İlişkili kişiler açısından bu oranlar topluca dikkate alınır.” cümleleri eklenmiştir.
 b) Dördüncü fıkrasının (ç) bendi aşağıdaki şekilde değiştirilmiş ve bu bentten sonra gelmek üzere (d) bendi eklenmiştir.
 “ç) İşlemsel kâr yöntemleri: Emsallere uygun fiyat veya bedelin tespitinde, ilişkili kişiler arasındaki işlemden doğan kârı esas alan yöntemleri ifade eder. Bu yöntemler, işleme dayalı net kâr marjı yöntemi ve kâr bölüşüm yöntemidir. İşleme dayalı net kâr marjı yöntemi, mükellefin kontrol altındaki bir işlemden; maliyetler, satışlar veya varlıklar gibi ilgili ve uygun bir temele dayanarak tespit ettiği net kâr marjının incelenmesi esasına dayanır. Kâr bölüşüm yöntemi, ilişkili kişilerin bir veya daha fazla sayıdaki kontrol altındaki işlemlere ilişkin toplam faaliyet kârı ya da zararının, üstlendikleri işlevler ve yüklendikleri riskler nispetinde ilişkili kişiler arasında emsallere uygun olarak bölüştürülmesi esasına dayanır.”
@@ -562,7 +562,7 @@ d) Mevcut sekizinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(9) Bakanlar Kurulu; ikinci fıkrada yer alan oranları, gerçek kişiler, kurumlar, doğrudan veya dolaylı ortaklar itibarıyla ya da ortaklık payının edinim şekline göre topluca veya ayrı ayrı %1’e kadar indirmeye, %25’e kadar çıkarmaya, oran şartını kaldırmaya; beşinci fıkrada yer alan süreyi beş yıla kadar artırmaya, belgelendirme yükümlülükleri ve bu yükümlülükler kapsamına, uluslararası anlaşmalar doğrultusunda, yurt dışında yer alan ilişkili kişilerin faaliyetlerine ilişkin bilgilerin dâhil edilmesi zorunluluğu getirmeye; bu bilgilerin uluslararası anlaşmalar çerçevesinde diğer ülkelerle karşılıklı olarak paylaşılmasına ilişkin usullerle transfer fiyatlandırması ile ilgili diğer usul ve esasları belirlemeye yetkilidir.”
 
 
-MADDE 60 – 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanunun;
+**MADDE 60 –** 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanunun;
 a) 3 üncü maddesinden sonra gelmek üzere aşağıdaki 3/A maddesi eklenmiştir.
 “Diğer teşvik unsurları
 
@@ -573,16 +573,16 @@ Devredilen tutar, takip eden yıllarda 213 sayılı Kanuna göre her yıl belirl
 b) 4 üncü maddesinin beşinci fıkrasında yer alan “193 sayılı Kanunun 89 uncu maddesinin birinci fıkrasının (9) ve (13) numaralı bentleri, 5520 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (a) ve (ğ) bentleri hükümleri ile” ibaresi “193 sayılı Kanunun 89 uncu maddesinin birinci fıkrasının (13) numaralı bendi, 5520 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (ğ) bendi hükümleri ile” şeklinde değiştirilmiştir.
 
 
-MADDE 61 – 14/12/2009 tarihli ve 5941 sayılı Çek Kanununun 2 nci maddesinin ikinci fıkrasında yer alan “Türkiye Cumhuriyet Merkez Bankası kayıtlarını,” ibaresi “Risk Merkezi ile adli sicil kayıtlarını ve” şeklinde değiştirilmiş, üçüncü fıkrasına aşağıdaki cümleler eklenmiş, dördüncü fıkrasında yer alan “yaptığı, temsilcisi veya imza” ibaresi “yaptığı veya ticaret siciline tescil edilen” şeklinde değiştirilmiş ve yedinci fıkrasına aşağıdaki bentler eklenmiştir.
+**MADDE 61 –** 14/12/2009 tarihli ve 5941 sayılı Çek Kanununun 2 nci maddesinin ikinci fıkrasında yer alan “Türkiye Cumhuriyet Merkez Bankası kayıtlarını,” ibaresi “Risk Merkezi ile adli sicil kayıtlarını ve” şeklinde değiştirilmiş, üçüncü fıkrasına aşağıdaki cümleler eklenmiş, dördüncü fıkrasında yer alan “yaptığı, temsilcisi veya imza” ibaresi “yaptığı veya ticaret siciline tescil edilen” şeklinde değiştirilmiş ve yedinci fıkrasına aşağıdaki bentler eklenmiştir.
 “Muhatap banka; gerçek veya tüzel kişi adına açılması talep olunan çek hesaplarında bunların, sermaye şirketlerinde ayrıca yönetim organında görev yapanlar ile ticaret siciline tescil edilen şirket yetkililerinin çek hesabı açma yasağının bulunmadığı hususunu kontrol ederek, yasağın bulunmadığına ilişkin sorgulama sonucunu muhafaza eder. Bankalar çek hesabı açtıkları kişiler ile çek hesabı sahibi tüzel kişi ise hesap açılış tarihi itibarıyla tüzel kişi tarafından bildirilen işlem yetkililerini 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 780 inci maddesinin üçüncü fıkrasında belirtilen sisteme kaydeder.”
 “e) Çek hesabı sahibi gerçek kişi ise Türkiye Cumhuriyeti kimlik numarası; tüzel kişilerde ise varsa Merkezi Sicil Kayıt Sistemi (MERSİS) numarası,
 f) Çek hesabı sahibi ile düzenleyenin farklı kişiler olması hâlinde, ayrıca düzenleyenin Türkiye Cumhuriyeti kimlik numarası,”
 
 
-MADDE 62 – 5941 sayılı Kanunun 3 üncü maddesinin altıncı fıkrasında yer alan “Cumhuriyet Başsavcılığına talepte” ibaresi “icra mahkemesine şikâyette” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 62 –** 5941 sayılı Kanunun 3 üncü maddesinin altıncı fıkrasında yer alan “Cumhuriyet Başsavcılığına talepte” ibaresi “icra mahkemesine şikâyette” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “(10) Lehine karekodlu çek düzenlenen lehdar, teslim aldığı çeki Türk Ticaret Kanununun 780 inci maddesinin üçüncü fıkrasında belirtilen sisteme kaydeder. Karekodlu çekin sisteme kaydedildiği tarihten sonra çek düzenleyen tüzel kişinin temsilcilerinde meydana gelen değişiklikler, çek hesabı sahibi tüzel kişinin sorumluluğunu ortadan kaldırmaz.”
 
-MADDE 63 – 5941 sayılı Kanunun 5 inci maddesinin madde başlığı “Ceza sorumluluğu, çek düzenleme ve çek hesabı açma yasağı” şeklinde, birinci, sekizinci ve onuncu fıkraları aşağıdaki şekilde değiştirilmiş, ikinci ve dokuzuncu fıkraları aşağıdaki şekilde yeniden düzenlenmiş, üçüncü fıkrasında yer alan “sorumluluk ile idarî yaptırım sorumluluğu” ibaresi “ve cezai sorumluluk” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 63 –** 5941 sayılı Kanunun 5 inci maddesinin madde başlığı “Ceza sorumluluğu, çek düzenleme ve çek hesabı açma yasağı” şeklinde, birinci, sekizinci ve onuncu fıkraları aşağıdaki şekilde değiştirilmiş, ikinci ve dokuzuncu fıkraları aşağıdaki şekilde yeniden düzenlenmiş, üçüncü fıkrasında yer alan “sorumluluk ile idarî yaptırım sorumluluğu” ibaresi “ve cezai sorumluluk” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “(1) Üzerinde yazılı bulunan düzenleme tarihine göre kanuni ibraz süresi içinde ibrazında, çekle ilgili olarak “karşılıksızdır” işlemi yapılmasına sebebiyet veren kişi hakkında, hamilin şikâyeti üzerine, her bir çekle ilgili olarak, binbeşyüz güne kadar adli para cezasına hükmolunur. Ancak, hükmedilecek adli para cezası; çek bedelinin karşılıksız kalan miktarı, çekin üzerinde yazılı bulunan düzenleme tarihine göre kanuni ibraz tarihinden itibaren işleyecek 3095 sayılı Kanuna göre ticari işlerde temerrüt faizi oranı üzerinden hesaplanacak faizi ile takip ve yargılama gideri toplamından az olamaz. Mahkeme ayrıca, çek düzenleme ve çek hesabı açma yasağına; bu yasağın bulunması hâlinde, çek düzenleme ve çek hesabı açma yasağının devamına hükmeder. Yargılama sırasında da resen mahkeme tarafından koruma tedbiri olarak çek düzenleme ve çek hesabı açma yasağına karar verilir. Çek düzenleme ve çek hesabı açma yasağı, çek hesabı sahibi gerçek veya tüzel kişi, bu tüzel kişi adına çek keşide edenler ve karşılıksız çekin bir sermaye şirketi adına düzenlenmesi durumunda ayrıca yönetim organı ile ticaret siciline tescil edilen şirket yetkilileri hakkında uygulanır. Koruma tedbiri olarak verilen çek düzenleme ve çek hesabı açma yasağı kararlarına karşı yapılan itirazlar bakımından 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 353 üncü maddesinin birinci fıkrası hükmü uygulanır. Bu suçtan dolayı açılan davalar icra mahkemesinde görülür ve İcra ve İflas Kanununun 347, 349, 350, 351, 352 ve 353 üncü maddelerinde düzenlenen yargılama usulüne ilişkin hükümler uygulanır. Bu davalar çekin tahsil için bankaya ibraz edildiği veya çek hesabının açıldığı banka şubesinin bulunduğu yer ya da hesap sahibinin yahut şikâyetçinin yerleşim yeri mahkemesinde görülür.”
 “(2) Birinci fıkra hükmüne göre çek karşılığını ilgili banka hesabında bulundurmakla yükümlü olan kişi, çek hesabı sahibidir. Çek hesabı sahibinin tüzel kişi olması hâlinde, bu tüzel kişinin mali işlerini yürütmekle görevlendirilen yönetim organının üyesi, böyle bir belirleme yapılmamışsa yönetim organını oluşturan gerçek kişi veya kişiler, çek karşılığını ilgili banka hesabında bulundurmakla yükümlüdür. Birinci fıkra uyarınca hakkında çek düzenleme ve çek hesabı açma yasağı kararı verilenler, yasaklılıkları süresince sermaye şirketlerinin yönetim organlarında görev alamazlar.
 Ancak, hakkında yasaklama kararı verilenlerin mevcut organ üyelikleri görev sürelerinin sonuna kadar devam eder.”
@@ -592,7 +592,7 @@ Ancak, hakkında yasaklama kararı verilenlerin mevcut organ üyelikleri görev 
 “(11) Birinci fıkra uyarınca verilen adli para cezalarının ödenmemesi durumunda, bu ceza, 13/12/2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 106 ncı maddesinin üçüncü fıkrasında yer alan kamuya yararlı bir işte çalıştırma kararı verilmeksizin doğrudan hapis cezasına çevrilir.”
 
 
-MADDE 64 – 5941 sayılı Kanunun 6 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 64 –** 5941 sayılı Kanunun 6 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Etkin pişmanlık ve çek düzenleme ve çek hesabı açma yasağının kaldırılması
 
 MADDE 6 – (1) Karşılıksız kalan çek bedelinin, çekin üzerinde yazılı bulunan düzenleme tarihine göre kanunî ibraz tarihinden itibaren işleyecek 3095 sayılı Kanuna göre ticarî işlerde temerrüt faiz oranı üzerinden hesaplanacak faizi ile birlikte tamamen ödeyen kişi hakkında,
@@ -602,17 +602,17 @@ b) Mahkûmiyet hükmünün kesinleşmesinden sonra mahkeme tarafından hükmün 
 (3) Kişi, mahkûm olduğu cezanın tamamen infaz edildiği tarihten itibaren üç yıl ve her halde yasağın konulduğu tarihten itibaren on yıl geçtikten sonra, hükmü veren mahkemeden çek düzenleme ve çek hesabı açma yasağının kaldırılmasını isteyebilir; mahkemenin vereceği karara itiraz edebilir. Bu itiraz bakımından İcra ve İflas Kanununun 353 üncü maddesinin birinci fıkrası hükmü uygulanır. Çek düzenleme ve çek hesabı açma yasağının kaldırılmasına ilişkin karar kesinleştiğinde, yasağın kaldırıldığı, MERSİS ile Risk Merkezine 5 inci maddenin sekizinci fıkrasındaki usullere göre bildirilir ve ilan olunur.”
 
 
-MADDE 65 – 5941 sayılı Kanuna aşağıdaki madde eklenmiştir.
+**MADDE 65 –** 5941 sayılı Kanuna aşağıdaki madde eklenmiştir.
 “GEÇİCİ
 
 MADDE 4 – (1) Bu maddenin yürürlüğe girmesinden önce verilen çek düzenleme ve çek hesabı açma yasağına ilişkin kayıtlar, bu Kanun gereğince silinmesini gerektiren şartlar oluşuncaya kadar Türkiye Cumhuriyet Merkez Bankasında tutulmaya devam olunur.”
 
 
-MADDE 66 – 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 40 ıncı maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiştir.
+**MADDE 66 –** 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 40 ıncı maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Gerçek kişi tacir ile tüzel kişi tacir adına imza atmaya yetkili kişi, ticaret unvanını ve bunun altına atacağı imzayı, noter onayı şartı aranmaksızın ticaret sicili müdürü yahut yardımcısı huzurunda yazılı beyanda bulunmak suretiyle de verebilir.”
 
 
-MADDE 67 – 6102 sayılı Kanunun;
+**MADDE 67 –** 6102 sayılı Kanunun;
 a) 212 nci maddesinin birinci fıkrasına “onaylanması” ibaresinden sonra gelmek üzere “veya şirket sözleşmesinin ticaret sicili müdürü yahut yardımcısı huzurunda imzalanması” ibaresi ile aynı fıkranın sonuna “Şirketin kuruluşunda, şirket sözleşmesini ihtiva eden kâğıtlardan değerli kâğıt bedeli alınmaz.” cümlesi,
 b) 215 inci maddesinin birinci fıkrasına “Şirket sözleşmesinin ticaret sicili müdürü veya yardımcısı huzurunda imzalanması hâlinde de sureti ticaret sicili müdürlüğü tarafından saklanarak yukarıda öngörülen tescil ve ilan sağlanır.” cümlesi,
 c) 335 inci maddesinin birinci fıkrasına “onaylandığı” ibaresinden sonra gelmek üzere “veya ticaret sicili müdürü yahut yardımcısı huzurunda imzaladığı” ibaresi ile aynı fıkranın sonuna “Şirketin kuruluşunda, esas sözleşmeyi ihtiva eden kâğıtlardan değerli kâğıt bedeli alınmaz.” cümlesi,
@@ -625,17 +625,17 @@ g) 585 inci maddesinin birinci fıkrasına “onaylandığı” ibaresinden sonr
 ğ) 587 nci maddesinin birinci fıkrasına “onaylanmasını” ibaresinden sonra gelmek üzere “veya şirket sözleşmesinin ticaret sicili müdürü yahut yardımcısı huzurunda imzalandığı tarihi” ibaresi, eklenmiştir.
 
 
-MADDE 68 – 6102 sayılı Kanunun;
+**MADDE 68 –** 6102 sayılı Kanunun;
 a) 184 üncü maddesinin birinci fıkrasında yer alan “ve ayni sermaye konulmasına” ibaresi “, ayni sermaye konulmasına ve kurucuların şirket sözleşmesini imzalamalarına” şeklinde,
 b) 189 uncu maddesinin birinci fıkrasında yer alan “tür değiştirme planını” ibaresi “tür değiştirme planı ile yeni türün şirket sözleşmesini” şeklinde,
 c) 543 üncü maddesinin ikinci fıkrasında yer alan “bir yıl” ibareleri “altı ay” şeklinde, değiştirilmiştir.
 
 
-MADDE 69 – 6102 sayılı Kanunun 545 inci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 69 –** 6102 sayılı Kanunun 545 inci maddesine aşağıdaki fıkra eklenmiştir.
 “(2) Bu Kanun hükümlerine göre tasfiye olunan şirketlerde, 2004 sayılı Kanunun 44 üncü ve 337/a maddesi hükümleri uygulanmaz.”
 
 
-MADDE 70 – 6102 sayılı Kanunun 780 inci maddesinin birinci fıkrasına aşağıdaki bentler ve maddeye aşağıdaki fıkralar eklenmiştir.
+**MADDE 70 –** 6102 sayılı Kanunun 780 inci maddesinin birinci fıkrasına aşağıdaki bentler ve maddeye aşağıdaki fıkralar eklenmiştir.
 “g) Banka tarafından verilen seri numarasını,
 h) Karekodu,” “(2) Çek alacaklıları, ellerinde bulunan çek ile çek hesabı sahibine ve bu çeki düzenleyenlere ilişkin verilere karekod aracılığıyla erişim sağlayabilir. Karekod ile;
 a) Çek hesabı sahibinin adı, soyadı veya ticaret unvanı,
@@ -657,37 +657,37 @@ n) Çek hesabı sahibi tacirse, iflasına karar verilip verilmediği, iflasına 
 (4) Çekte yer alacak MERSİS numarası ile karekodun tanım ve içerikleri ile bu maddenin uygulanmasına ilişkin usul ve esaslar Gümrük ve Ticaret Bakanlığı ile Hazine Müsteşarlığının müştereken çıkaracağı tebliğle belirlenir.”
 
 
-MADDE 71 – 6102 sayılı Kanunun 781 inci maddesinin birinci fıkrasında yer alan “ikinci ve üçüncü” ibaresi “ikinci, üçüncü ve dördüncü” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 71 –** 6102 sayılı Kanunun 781 inci maddesinin birinci fıkrasında yer alan “ikinci ve üçüncü” ibaresi “ikinci, üçüncü ve dördüncü” şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “(4) Yabancı banka tarafından bastırılan çeklerde, 780 inci maddenin birinci fıkrasının (g) bendinde belirtilen banka tarafından verilen seri numarası ve/veya (h) bendinde belirtilen karekodun bulunmaması senedin çek olarak geçerliliğini etkilemez.”
 
 
-MADDE 72 – 6102 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 72 –** 6102 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
 MADDE 11 – (1) 31/12/2016 tarihinden sonra bankalarca çek hesabı sahiplerine 780 inci maddeye bu Kanunla eklenen hüküm gereğince bulunması gereken karekod ve seri numarası unsurlarını içermeyen çek yaprağı verilemez. 31/12/2016 tarihinden önce basılan çeklerde bu unsurlar aranmaz.”
 
 
-MADDE 73 – 6102 sayılı Kanunun;
+**MADDE 73 –** 6102 sayılı Kanunun;
 a) 336 ncı maddesinin birinci fıkrasında yer alan “kurucular beyanı” ibaresi,
 b) 457 nci maddesinin ikinci fıkrasının (a) bendinde yer alan “ve 349 uncu maddede yer alan hususların somut olayda mevcut bulunması hâlinde bunlara ilişkin açıklamalar” ibaresi,
 c) 349 uncu maddesi, 562 nci maddesinin beşinci fıkrasının (a) bendi ve 586 ncı maddesinin ikinci fıkrasının (b) bendi, yürürlükten kaldırılmıştır.
 
 
-MADDE 74 – 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanununun 37 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 74 –** 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanununun 37 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(1) Finansal kiralama sözleşmeleri, bu sözleşmelerin devrine ve tadiline ilişkin kâğıtlar, finansal kiralama konusu malların teminine ilişkin kiralayan ve satıcı arasında düzenlenen sözleşmeler ile bunların teminatı amacıyla düzenlenen kâğıtlar damga vergisinden, bu kâğıtlarla ilgili yapılacak işlemler (finansal kiralama konusu gayrimenkullerin kiralayanlar tarafından devir alınmasına ilişkin tapu işlemleri hariç) harçtan müstesnadır.”
-Eski yıllara ait teminat mektuplarının tasfiyesi
+**Eski yıllara ait teminat mektuplarının tasfiyesi**
 
-MADDE 75 – (1) Genel bütçe kapsamındaki kamu idareleri ve özel bütçeli idareler tarafından ilgili mevzuatı gereğince alınmış olup, düzenlenme tarihi itibarıyla on yılı geçen ve çeşitli nedenlerle iadesi sağlanamayan veya gelir kaydedilemeyen 500 Türk lirası ve altındaki teminat mektuplarından bu maddenin yürürlüğe girdiği tarih itibarıyla uyuşmazlığa konu edilmeyenler muhasebe birimince kayıtlarından çıkarılarak ilgili bankalara iade edilir.
+**MADDE 75 –** (1) Genel bütçe kapsamındaki kamu idareleri ve özel bütçeli idareler tarafından ilgili mevzuatı gereğince alınmış olup, düzenlenme tarihi itibarıyla on yılı geçen ve çeşitli nedenlerle iadesi sağlanamayan veya gelir kaydedilemeyen 500 Türk lirası ve altındaki teminat mektuplarından bu maddenin yürürlüğe girdiği tarih itibarıyla uyuşmazlığa konu edilmeyenler muhasebe birimince kayıtlarından çıkarılarak ilgili bankalara iade edilir.
 (2) Birinci fıkrada belirtilen tutar, her takvim yılı başından geçerli olmak üzere, o yıl için Maliye Bakanlığınca tespit ve ilan olunan yeniden değerleme oranında artırılır. Bu suretle bulunan tutarın hesabında 1 Türk lirasının küsuru dikkate alınmaz.
 (3) Teminat mektuplarının kayıtlardan çıkarılmasına ve iadesine ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 1 – (1) 28/6/2001 tarihli ve 4697 sayılı Bazı Vergi Kanunlarında Değişiklik Yapılmasına Dair Kanunun geçici 1 inci maddesinin uygulamasında, 193 sayılı Kanunun 23 üncü maddesinin birinci fıkrasının (11) numaralı ve 25 inci maddesinin birinci fıkrasının (3) numaralı bentlerinin parantez içi hükmünde yer alan istisna tutarının hesaplanmasında 30 yıldan aşağı olmamak üzere prim yatırılan süreler dikkate alınır.
+**MADDE 1 –** (1) 28/6/2001 tarihli ve 4697 sayılı Bazı Vergi Kanunlarında Değişiklik Yapılmasına Dair Kanunun geçici 1 inci maddesinin uygulamasında, 193 sayılı Kanunun 23 üncü maddesinin birinci fıkrasının (11) numaralı ve 25 inci maddesinin birinci fıkrasının (3) numaralı bentlerinin parantez içi hükmünde yer alan istisna tutarının hesaplanmasında 30 yıldan aşağı olmamak üzere prim yatırılan süreler dikkate alınır.
 (2) 193 sayılı Kanunun 22 nci maddesinde bu Kanunla yapılan değişikliklerin yürürlük tarihinden önce akdedilmiş tek primli yıllık gelir sigortası sözleşmelerine ilişkin olarak yapılan ödemeler bakımından, 193 sayılı Kanunun 22 nci maddesinde bu Kanunla değişiklik yapılmadan önceki hükümler uygulanır.
 (3) 5520 sayılı Kanunun 5/B maddesinde bu Kanunla yapılan değişikliklerin yürürlük tarihinden önce, anılan madde kapsamında değerleme raporu düzenlenmesi amacıyla Maliye Bakanlığına başvuran mükelleflerin bu başvurularına ilişkin patent veya faydalı model belgelerine konu buluşlarından 1/1/2015 tarihinden itibaren elde ettikleri kazançları hakkında, 5520 sayılı Kanunun 5/B maddesinin bu Kanunla yapılan değişiklik sonrası hükümleri uygulanır.
 
 
-MADDE 76 – Bu Kanunun;
+**MADDE 76 –** Bu Kanunun;
 a) 12 nci maddesi yayımını izleyen ayın başında,
 b) 13 üncü, 39 uncu ve 40 ıncı maddeleri 1/1/2017 tarihinde,
 c) 27 nci maddesiyle 488 sayılı Kanunun değiştirilen ek 2 nci maddesinin (2) numaralı fıkrasının (n) ve (o) bendi hükümleri, bu Kanunun yayımı tarihinden sonra yapılan proje ve işlere uygulanmak üzere yayımı tarihinde,
@@ -698,4 +698,4 @@ f) 62 nci maddesi 31/12/2017 tarihinde,
 g) Diğer hükümleri yayımı tarihinde, yürürlüğe girer.
 
 
-MADDE 77 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 77 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

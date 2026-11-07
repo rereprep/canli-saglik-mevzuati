@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2017/12/20171224-22.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-HÜKMÜNDE KARARNAME OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**HÜKMÜNDE KARARNAME OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME**
 Karar Sayısı:
 KHK/696 Olağanüstü hal kapsamında bazı düzenlemeler yapılması; Anayasanın 121 inci maddesi ile 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununun 4 üncü maddesine göre, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu’nca 20/11/2017 tarihinde kararlaştırılmıştır.
 
@@ -25,10 +25,10 @@ b) Kamu görevlilerinin (güvenlik korucuları dâhil) kendilerinden olma çocuk
 MADDE 2- 1111 sayılı Kanunun ek 2 nci maddesine aşağıdaki fıkra eklenmiştir.
 “Döviz tahsilatı ve özel döviz hesabına aktarılması ile ilgili oluşacak transfer ücreti ve diğer masraflar yurtdışı temsilcilikler tarafından yükümlülerden tahsil edilir. Transfer ücreti ve diğer masraflar, Maliye Bakanlığının görüşü alınarak Dışişleri Bakanlığınca belirlenir.”
 
-MADDE 3- 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun 3 üncü maddesinin ikinci fıkrasına “acil tıp teknikerleri” ibaresinden sonra gelmek üzere “ile verilecek gerekli eğitimleri başarıyla tamamlamak kaydıyla Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığında görevli sağlık astsubayları” ibaresi eklenmiştir.
+MADDE 3- 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun 3 üncü maddesinin ikinci fıkrasına “**acil tıp teknikerleri” ibaresinden sonra gelmek üzere “ile verilecek gerekli eğitimleri başarıyla tamamlamak kaydıyla Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığında görevli sağlık astsubayları”** ibaresi eklenmiştir.
 
 MADDE 4- 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunun 7 nci maddesinin birinci fıkrasının (1) numaralı bendinde yer alan “Başbakan ve” ibaresi “Başbakan,” şeklinde değiştirilmiş, aynı bende “Yasama Organı Üyeleri” ibaresinden sonra gelmek üzere “ve Bakan Yardımcıları” ibaresi ve aynı fıkraya (6) numaralı bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve aynı maddenin üçüncü ve beşinci fıkralarında yer alan “güvenlik korucularının” ibareleri “güvenlik korucuları ile köy veya mahalle muhtarları ve belediye başkanlarının” şeklinde değiştirilmiştir.
-“7. Yapılan soruşturma sonucu veya kesinleşmiş yargı kararı üzerine görevine son verilenler ile terör örgütlerine veya Milli Güvenlik Kurulunca Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti veya iltisakı yahut bunlarla irtibatı olanlar hariç olmak üzere, en az bir dönem köy veya mahalle muhtarlığı ya da belediye başkanlığı yapmış bulunanlar,”
+“7. Yapılan soruşturma sonucu veya **kesinleşmiş yargı kararı üzerine görevine son verilenler ile** terör örgütlerine veya Milli Güvenlik Kurulunca Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti veya iltisakı yahut bunlarla irtibatı olanlar **hariç olmak üzere, en az bir dönem köy veya mahalle muhtarlığı ya da belediye başkanlığı yapmış bulunanlar,”**
 
 MADDE 5- 6136 sayılı Kanunun ek 8 inci maddesinin birinci ve beşinci fıkraları aşağıdaki şekilde değiştirilmiştir.
 “Milli Savunma Bakanlığınca temin edilen tabanca ve mermiler, Türk Silahlı Kuvvetleri bünyesindeki subay, astsubay ve uzman erbaşlara; Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca temin edilen tabanca ve mermiler, kendi bünyelerindeki subay, astsubay, uzman jandarma ve uzman erbaşlara; Emniyet Genel Müdürlüğünce temin edilen tabanca ve mermiler, emniyet hizmetleri sınıfı personeli ile Emniyet Genel Müdürlüğünün merkez ve taşra ünitelerinde istihdam edilen çarşı ve mahalle bekçilerine, görevlerinde kullanmak üzere bedeli mukabili zati demirbaş silah olarak satılır. Satılan silahların ayrılma, ihraç ve benzeri sebeplerle geri alınma usul ve esasları ile satılma şekil ve şartları, zayi, hasar, onarım, kadro standardı dışı bırakılması, eğitim ve görevde kullanılan mermilerin bedelli veya bedelsiz temini ve diğer hususlar çıkarılan yönetmeliklerle belirlenir.”
@@ -36,7 +36,7 @@ MADDE 5- 6136 sayılı Kanunun ek 8 inci maddesinin birinci ve beşinci fıkrala
 
 
 MADDE 6 – 11/1/1954 tarihli ve 6219 sayılı Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Kanununun 6 ncı maddesine aşağıdaki fıkralar eklenmiştir.
-“Banka hisselerinden, diğer mülhak vakıflara ait olanları hariç olmak üzere, Vakıflar Genel Müdürlüğünün idare ve temsil ettiği (A) ve (B) grubu hisselerin tamamı Banka tarafından üç ayrı firmaya yaptırılan değerleme çalışmasının sonuç bölümlerinde belirtilen değerlerin ortalaması gözönünde bulundurularak Bakanlar Kurulu tarafından belirlenen beher hisse değeri üzerinden hesaplanacak bedel karşılığında Hazineye devredilir ve bedeli belirlenen hisselerin tamamı Bakanlar Kurulu kararının yürürlüğe girdiği tarihi takip eden bir hafta içinde Hazine Müsteşarlığı adına Banka pay defterine kaydedilir. Bakanlar Kurulu tarafından belirlenen devir bedeli karşılığında eşit tutarda beş farklı vadeli kira sertifikası, devir tarihi valörlü olmak üzere, bütçenin gelir ve gider hesaplarıyla ilişkilendirilmeksizin 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun kapsamında hisse sahibi vakıfları temsil eden Vakıflar Genel Müdürlüğüne ihraç edilir.
+**“Banka hisselerinden, diğer mülhak vakıflara ait olanları hariç olmak üzere, Vakıflar Genel Müdürlüğünün idare ve temsil ettiği (A) ve (B) grubu hisselerin tamamı Banka tarafından üç ayrı firmaya yaptırılan değerleme çalışmasının sonuç bölümlerinde belirtilen değerlerin ortalaması gözönünde bulundurularak Bakanlar Kurulu tarafından belirlenen beher hisse değeri üzerinden hesaplanacak bedel karşılığında Hazineye devredilir ve bedeli belirlenen hisselerin tamamı Bakanlar Kurulu kararının** yürürlüğe girdiği tarihi takip eden bir hafta içinde Hazine Müsteşarlığı adına Banka pay defterine kaydedilir. Bakanlar Kurulu tarafından belirlenen devir bedeli karşılığında eşit tutarda beş farklı vadeli kira sertifikası, devir tarihi valörlü olmak üzere, bütçenin gelir ve gider hesaplarıyla ilişkilendirilmeksizin 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun **kapsamında hisse sahibi vakıfları temsil eden Vakıflar Genel Müdürlüğüne ihraç edilir.**
 İhraç edilen kira sertifikalarından ilki iki ay vadeli, geri kalan dört kira sertifikası ise ilk kira sertifikasının itfa tarihini izleyen sırasıyla bir yıl, iki yıl, üç yıl ve dört yıl vadeli olarak ihraç edilir.
 Bankanın (C) grubu hissedarlarından Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Memur ve Hizmetlileri Emekli ve Sağlık Yardım Sandığı Vakfının (Sandık), ikinci fıkrada belirtilen Bakanlar Kurulu kararının yürürlüğe girdiği tarihten itibaren yüzyirmi gün içinde Bankaya müracaat etmesi halinde, Bakanlar Kurulu tarafından Sandık için tespit edilen beher hisse değeri karşılığında Sandığın sahip olduğu hisselerin Hazine Müsteşarlığı tarafından devralınmasına Hazine Müsteşarlığının bağlı olduğu Bakan yetkilidir. Sandık tarafından devredilecek hisselerin devir bedeli bütçenin gelir ve gider hesaplarıyla ilişkilendirilmeksizin Hazine Müsteşarlığı tarafından özel tertip Devlet iç borçlanma senedi ihraç edilmek suretiyle Sandığa ödenir.
 Bankanın (B) grubu hisselerinden diğer mülhak vakıflara ait olan hisseler ile (C) grubu hisselerinden diğer gerçek ve tüzel kişilere ait olan hisselerin hissedarlarının ikinci fıkrada belirtilen Bakanlar Kurulu kararının yürürlüğe girdiği tarihten itibaren yüzyirmi gün içinde Bankaya müracaat etmeleri halinde, sahip oldukları hisselerin Bakanlar Kurulu tarafından Sandık için tespit edilen beher hisse değeri üzerinden Hazine Müsteşarlığı tarafından devralınmasına Hazine Müsteşarlığının bağlı olduğu Bakan yetkilidir. Söz konusu hisselerin devir bedeli, ilgili gerçek ve tüzel kişilere Banka tarafından ödeme yapılmasını müteakip Bankanın talebi üzerine Hazine Müsteşarlığınca nakit olarak ödenir. Bu kapsamda yapılacak ödeme Hazine Müsteşarlığı bütçesinin ilgili tertibinden karşılanır.
@@ -53,9 +53,9 @@ MADDE 7 – 6219 sayılı Kanunun 15 inci maddesi başlığı ile birlikte aşa�
 
 MADDE 15 – Yönetim Kurulu üyeleri Genel Kurulca seçilir. Yönetim Kurulu, 5411 sayılı Kanuna göre genel müdür vasıflarını haiz bir üyeyi Genel Müdür olarak tayin eder. Yönetim Kurulu üyelerinin sayısı, görev süreleri, yetki ve sorumlulukları esas sözleşmede gösterilir. Bunlara verilecek ücret miktarları Genel Kurulca tespit edilir.”
 
-MADDE 8- 6219 sayılı Kanunun 16 ncı maddesinin dördüncü fıkrasında yer alan “Ancak bu Kanun ve 4389 sayılı Bankalar Kanunu” ibaresi “Bu Kanun ve 5411 sayılı Kanun” şeklinde değiştirilmiştir.
+**MADDE 8-** 6219 sayılı Kanunun 16 ncı maddesinin dördüncü fıkrasında yer alan “Ancak bu Kanun ve 4389 sayılı Bankalar Kanunu” ibaresi “Bu Kanun ve 5411 sayılı Kanun” şeklinde değiştirilmiştir.
 
-MADDE 9- 6219 sayılı Kanunun 17 nci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 9-** 6219 sayılı Kanunun 17 nci maddesine aşağıdaki fıkra eklenmiştir.
 “Bankada 22/5/2003 tarihli ve 4857 sayılı İş Kanununa tabi olarak çalışanlarla Banka arasında çıkabilecek ihtilaflarda iş mahkemeleri görevlidir.”
 
 
@@ -67,7 +67,7 @@ MADDE 11 – 6219 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 
 MADDE 5- Sermayesindeki kamu payı %50’nin altına düşünceye kadar, kredi alacaklarının tahsili amacıyla Banka tarafından açılmış veya açılacak dava veya takiplerde 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 2 nci, 23 üncü ve 29 uncu maddeleri ile 30/6/1934 tarihli ve 2548 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanunun 1 inci maddesi Banka hakkında uygulanmaz. Bankanın her türlü ihtiyati tedbir ve ihtiyati haciz taleplerinde teminat şartı aranmaz.”
 
-MADDE 12- 11/1/1954 tarihli ve 6219 sayılı Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Kanununun 2 nci maddesinin birinci fıkrasının (E) bendi, 12 nci maddesinin birinci fıkrasının (2) numaralı bendi, 14 üncü maddesi, 16 ncı maddesinin birinci fıkrasının ikinci cümlesi, üçüncü fıkrası ve dördüncü fıkrasının birinci cümlesi, 20 nci maddesi ve ek 2 nci maddesi yürürlükten kaldırılmıştır.
+**MADDE 12- 11/1/1954 tarihli ve 6219 sayılı Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Kanununun** 2 nci maddesinin birinci fıkrasının (E) bendi, 12 nci maddesinin birinci fıkrasının (2) numaralı bendi, 14 üncü maddesi, 16 ncı maddesinin birinci fıkrasının ikinci cümlesi, üçüncü fıkrası ve dördüncü fıkrasının birinci cümlesi, 20 nci maddesi ve ek 2 nci maddesi yürürlükten kaldırılmıştır.
 
 
 MADDE 13 – 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanuna aşağıdaki geçici maddeler eklenmiştir.
@@ -81,11 +81,11 @@ Birinci fıkrada belirtilen işlemlerin yapılmasında bu Kanunun 29 uncu maddes
 MADDE 14- 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 4 üncü maddesinin birinci fıkrasında yer alan “üç” ibaresi “beş” şeklinde değiştirilmiştir.
 
 MADDE 15- 633 sayılı Kanunun 18/A maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
-“Yurt dışı sürekli görevlere atanmada Din İşleri Yüksek Kurulu üyesi, daire başkanı, il müftüsü ile ilahiyat alanında profesör olanlar mesleki ehliyet sınavına tabi tutulmazlar. Bunların yurt dışı temsil ve yeterliliği mülakatla belirlenir. Başkan yardımcısı, Din İşleri Yüksek Kurulu Başkanı, genel müdür, Mushafları İnceleme ve Kıraat Kurulu Başkanı, Rehberlik ve Teftiş Başkanı, I. Hukuk Müşaviri ve Strateji Geliştirme Başkanı kadrolarında görev yapanlardan dini yüksek öğrenim mezunu olanların yurt dışı sürekli görevlere atanmalarında herhangi bir şart aranmaz. Sınav komisyonu, Başkanın veya görevlendireceği Başkan yardımcısının başkanlığında genel müdürler arasından belirlenen üç üye ve Din İşleri Yüksek Kurulundan bir üye olmak üzere beş kişiden oluşur. Sınav sonunda başarılı olanlardan öncelikle Başkanlık personelinin ataması yapılır.”
+<i>“Yurt dışı sürekli görevlere atanmada Din İşleri Yüksek Kurulu üyesi, daire başkanı, il müftüsü ile ilahiyat alanında profesör olanlar mesleki ehliyet sınavına tabi tutulmazlar. Bunların yurt dışı temsil ve yeterliliği mülakatla belirlenir. Başkan yardımcısı, Din İşleri Yüksek Kurulu Başkanı, genel müdür, Mushafları İnceleme ve Kıraat Kurulu Başkanı, Rehberlik ve Teftiş Başkanı, I. Hukuk Müşaviri ve Strateji Geliştirme Başkanı kadrolarında görev yapanlardan dini yüksek öğrenim mezunu olanların yurt dışı sürekli görevlere atanmalarında herhangi bir şart aranmaz. Sınav komisyonu, Başkanın veya görevlendireceği Başkan yardımcısının başkanlığında genel müdürler arasından belirlenen üç üye ve Din İşleri Yüksek Kurulundan bir üye olmak üzere beş kişiden oluşur. Sınav sonunda başarılı olanlardan öncelikle Başkanlık personelinin ataması yapılır.”</i>
 
 
 MADDE 16 – 633 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
-“EK MADDE 5- Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Diyanet İşleri Başkanlığına ait bölümüne eklenmiştir.”
+**“EK MADDE 5-** Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Diyanet İşleri Başkanlığına ait bölümüne eklenmiştir.”
 
 MADDE 17- 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrasına aşağıdaki paragraflar eklenmiş ve (C) fıkrası yürürlükten kaldırılmıştır.
 “Bir yıldan az süreli veya mevsimlik hizmet olduğuna Devlet Personel Başkanlığı ve Maliye Bakanlığının görüşleri üzerine Bakanlar Kurulunca karar verilen görevlerde ve belirtilen ücret ve adet sınırları içinde sözleşme ile çalıştırılanlar da bu fıkra kapsamında istihdam edilebilir.
@@ -164,17 +164,17 @@ EK MADDE
 MADDE 30- 1325 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
 “GEÇİCİ
 
-MADDE 10- Geçici 5 inci, geçici 6 ncı ve geçici 7 nci maddeler uyarınca işlemleri başlatılmış olanların atamaları, anılan maddelerde öngörülen sürelere bağlı kalınmaksızın ilgililerin güvenlik soruşturmalarının tamamlanmasını müteakip yapılabilir.
+**MADDE 10-** Geçici 5 inci, geçici 6 ncı ve geçici 7 nci maddeler uyarınca işlemleri başlatılmış olanların atamaları, anılan maddelerde öngörülen sürelere bağlı kalınmaksızın ilgililerin güvenlik soruşturmalarının tamamlanmasını müteakip yapılabilir.
 Her hâlükârda bu süre 31/12/2018 tarihini geçemez.
 
-GEÇİCİ MADDE 11- Güvenlik soruşturmaları sonuçlanmadan harp okulları ve astsubay meslek yüksek okullarının ara sınıflarına alınan öğrenci ve öğrenci adaylarından, güvenlik soruşturmalarının menfi sonuçlanması nedeniyle Milli Savunma Üniversitesi ile ilişiği kesilenler, istekleri halinde geçiş yapmış oldukları okullarına geri alınırlar. Buna ilişkin usul ve esaslar Milli Savunma Bakanlığı ile Yükseköğretim Kurulu tarafından müştereken belirlenir.
+**GEÇİCİ MADDE 11- Güvenlik soruşturmaları sonuçlanmadan harp okulları ve astsubay meslek yüksek okullarının ara sınıflarına alınan öğrenci ve öğrenci adaylarından, güvenlik soruşturmalarının menfi sonuçlanması nedeniyle Milli Savunma Üniversitesi ile ilişiği kesilenler, istekleri halinde geçiş yapmış oldukları okullarına geri alınırlar. Buna ilişkin usul ve esaslar Milli Savunma Bakanlığı ile Yükseköğretim Kurulu tarafından müştereken belirlenir.**
 
-GEÇİCİ MADDE 12- Milli Savunma Üniversitesinde istihdam edilmek üzere Milli Savunma Bakanlığı adına ihdas edilmiş olan toplam 100 adet memur kadrosuna, 2017 ve 2018 yılları merkezi yönetim bütçe kanunlarındaki sınırlamalara tabi olmaksızın atama yapılabilir.”
+**GEÇİCİ MADDE 12-** Milli Savunma Üniversitesinde istihdam edilmek üzere Milli Savunma Bakanlığı adına ihdas edilmiş olan toplam 100 adet memur kadrosuna, 2017 ve 2018 yılları merkezi yönetim bütçe kanunlarındaki sınırlamalara tabi olmaksızın atama yapılabilir.”
 
 MADDE 31- 31/7/1970 tarihli ve 1325 sayılı Milli Savunma Bakanlığı Görev ve Teşkilatı Hakkında Kanunun 2/A maddesinin birinci fıkrasında yer alan “ve 10/6/1985 tarihli ve 3225 sayılı Millî Savunma Bakanlığı, Kara, Deniz ve Hava Kuvvetleri Komutanlıklarına Bağlı Kurumlar ile Asker Hastanelerinde Döner Sermaye Teşkili ve İşletilmesine İlişkin Kanun” ibaresi yürürlükten kaldırılmıştır.
 
-MADDE 32- 6/1/1982 tarihli ve 2575 sayılı Danıştay Kanununun 64 üncü maddesine aşağıdaki fıkra eklenmiştir.
-“Danıştay Başkanı, Danıştay Başsavcısı, Başkanvekilleri, daire başkanları ve üyeleri ile bunların emeklileri ve bakmakla yükümlü oldukları aile fertlerinin sağlık giderleri, Türkiye Büyük Millet Meclisi üyelerinin tabi oldukları hükümler ve esaslar çerçevesinde Danıştay bütçesinden ödenir.”
+**MADDE 32-** 6/1/1982 tarihli ve 2575 sayılı Danıştay **Kanununun 64 üncü maddesine aşağıdaki fıkra eklenmiştir.**
+**“Danıştay Başkanı, Danıştay Başsavcısı, Başkanvekilleri, daire başkanları ve üyeleri ile bunların emeklileri ve bakmakla yükümlü oldukları aile fertlerinin sağlık giderleri, Türkiye Büyük Millet Meclisi üyelerinin tabi oldukları hükümler ve esaslar çerçevesinde Danıştay bütçesinden ödenir.”**
 
 MADDE 33- 2575 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
@@ -193,25 +193,25 @@ Danıştay Genel Kurulu üye tamsayısının hesabında, birinci fıkra uyarınc
 
 MADDE 37- 6/1/1982 tarihli ve 2575 sayılı Danıştay Kanununun 8 inci maddesinin (2) numaralı fıkrasının son cümlesi yürürlükten kaldırılmıştır.
 
-MADDE 38- 28/2/1982 tarihli ve 2629 sayılı Uçuş, Paraşüt, Denizaltı, Dalgıç ve Kurbağa Adam Hizmetleri Tazminat Kanununun 7 nci maddesinin (h) bendine üçüncü cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
-“%80 oranı, 18 uçuş hizmet yılını dolduran jet pilotları için %160 olarak uygulanır.”
+**MADDE 38- 28/2/1982 tarihli ve 2629 sayılı Uçuş, Paraşüt, Denizaltı, Dalgıç ve Kurbağa Adam Hizmetleri Tazminat Kanununun 7 nci maddesinin (h) bendine üçüncü cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.**
+**“%80 oranı, 18 uçuş hizmet yılını dolduran jet pilotları için %160 olarak uygulanır.”**
 
-MADDE 39- 2629 sayılı Kanuna aşağıdaki ek maddeler eklenmiştir.
-“Jet pilotlarına ödenecek ilave tazminat:
+**MADDE 39-** 2629 sayılı Kanuna aşağıdaki ek maddeler eklenmiştir.
+**“Jet pilotlarına ödenecek ilave tazminat:**
 
-EK MADDE 1- 926 sayılı Kanunun ek geçici 98 inci maddesi kapsamındakiler hariç olmak üzere, 18 yıllık uçuş hizmet süresini tamamlayan jet pilotlarına 7 nci maddenin (h) bendi uyarınca yapılan toptan ödemeye esas 80 saatten fazla uçtukları her bir uçuş saati için, hizmet yılının son ayındaki uçuş tazminatının %14’ü oranında tazminat her hizmet yılı sonunda ayrıca ödenir. Bu ödeme damga vergisi hariç herhangi bir vergiye tabi tutulmaz ve 40 saatten fazla uçuşlar dikkate alınmaz.
+**EK MADDE 1- 926 sayılı Kanunun ek geçici 98 inci maddesi kapsamındakiler hariç olmak üzere, 18 yıllık uçuş hizmet süresini tamamlayan jet pilotlarına 7 nci maddenin (h) bendi uyarınca yapılan toptan ödemeye esas 80 saatten fazla uçtukları her bir uçuş saati için, hizmet yılının son ayındaki uçuş tazminatının %14’ü oranında tazminat her hizmet yılı sonunda ayrıca ödenir.** Bu ödeme damga vergisi hariç herhangi bir vergiye tabi tutulmaz ve 40 saatten fazla uçuşlar dikkate alınmaz.
 Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personeli:
 
 EK MADDE
 2- Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı kadrolarında istihdam edilen personel hakkında bu Kanun hükümlerinin uygulanmasında; bu Kanunda Türk Silahlı Kuvvetlerine yapılan atıflar ilgisine göre Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına, Genelkurmay Başkanlığına yapılan atıflar ise İçişleri Bakanlığına yapılmış sayılır.”
 
-MADDE 40- 28/2/1982 tarihli ve 2629 sayılı Uçuş, Paraşüt, Denizaltı, Dalgıç ve Kurbağa Adam Hizmetleri Tazminat Kanununun 12 nci maddesinin beşinci fıkrasının ikinci cümlesi yürürlükten kaldırılmıştır.
+**MADDE 40- 28/2/1982 tarihli ve 2629 sayılı Uçuş, Paraşüt, Denizaltı, Dalgıç ve Kurbağa Adam Hizmetleri Tazminat Kanununun 12 nci maddesinin beşinci fıkrasının ikinci cümlesi yürürlükten kaldırılmıştır.**
 
 
 MADDE 41 – 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununun 15 inci maddesinin birinci fıkrasında yer alan “Milli Savunma Bakanlığına” ibaresi “Savunma Sanayii Müsteşarlığına” şeklinde değiştirilmiştir.
 
-MADDE 42- 4/2/1983 tarihli ve 2797 sayılı Yargıtay Kanununun 64 üncü maddesine aşağıdaki fıkra eklenmiştir.
-“Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili ile bunların emeklileri ve bakmakla yükümlü oldukları aile fertlerinin sağlık giderleri, Türkiye Büyük Millet Meclisi üyelerinin tabi oldukları hükümler ve esaslar çerçevesinde Yargıtay bütçesinden ödenir.”
+**MADDE 42-** 4/2/1983 tarihli ve 2797 sayılı Yargıtay **Kanununun 64 üncü maddesine aşağıdaki fıkra eklenmiştir.**
+**“Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili ile bunların emeklileri ve bakmakla yükümlü oldukları aile fertlerinin sağlık giderleri, Türkiye Büyük Millet Meclisi üyelerinin tabi oldukları hükümler ve esaslar çerçevesinde Yargıtay bütçesinden ödenir.”**
 
 MADDE 43- 2797 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
@@ -240,8 +240,8 @@ Yargıtay Büyük Genel Kurulunun üye tamsayısının hesabında, birinci fıkr
 MADDE 46 – 4/2/1983 tarihli ve 2797 sayılı Yargıtay Kanununun 15 inci maddesinin birinci fıkrasının (2) numaralı bendinin (a) alt bendi ve 29 uncu maddesinin birinci fıkrasının son cümlesi yürürlükten kaldırılmıştır.
 
 MADDE 47- 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununun 10 uncu maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-“Adayların meslek öncesi eğitimleri, 4954 sayılı Kanun hükümleri uyarınca yapılır.
-Avukatlık mesleğinden adaylığa alınanların meslek öncesi eğitimleri altı ay olup hazırlık eğitimi ve staj dönemi olmak üzere iki dönemi kapsar. Bu dönemlerin süreleri, stajın yaptırılacağı yerler ve staj süreleri ile meslek öncesi eğitimden sayılmayan sürelerin ne suretle tamamlatılacağı ve diğer hususlar Adalet Bakanlığınca yürürlüğe konulan yönetmelikle düzenlenir. Hazırlık eğitimi, Adalet Bakanlığının görüşü alınmak suretiyle Türkiye Adalet Akademisi Başkanlığınca yürürlüğe konulan yönetmelikle belirlenen esaslara göre Türkiye Adalet Akademisince yaptırılır.”
+**“Adayların meslek öncesi eğitimleri, 4954 sayılı Kanun hükümleri uyarınca yapılır.**
+**Avukatlık mesleğinden adaylığa alınanların** meslek öncesi eğitimleri altı ay olup hazırlık eğitimi ve staj dönemi olmak üzere iki dönemi kapsar. Bu dönemlerin süreleri, stajın yaptırılacağı yerler ve staj süreleri ile meslek öncesi eğitimden sayılmayan sürelerin ne suretle tamamlatılacağı ve diğer hususlar Adalet Bakanlığınca yürürlüğe konulan yönetmelikle düzenlenir. Hazırlık eğitimi, **Adalet Bakanlığının görüşü alınmak suretiyle Türkiye Adalet Akademisi Başkanlığınca** yürürlüğe konulan yönetmelikle belirlenen esaslara göre Türkiye Adalet Akademisince yaptırılır.”
 
 
 MADDE 48 – 10/3/1983 tarihli ve 2803 sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanununun 13/A maddesine aşağıdaki fıkra eklenmiştir.
@@ -252,11 +252,11 @@ MADDE 49 – 2803 sayılı Kanunun 19 uncu maddesinin birinci fıkrasında yer a
 
 
 MADDE 50 – 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununa 5 inci maddesinden sonra gelmek üzere aşağıdaki 5/A maddesi eklenmiştir.
-“Jandarma Genel Komutanlığı trafik kuruluşları:
+**“Jandarma Genel Komutanlığı trafik kuruluşları:**
 
-MADDE 5/A- Bu Kanunla Jandarma Genel Komutanlığına verilen görevler, Jandarma Genel Komutanlığına bağlı olarak kurulan Trafik Hizmetleri Daire Başkanlığı, illerde trafik şube müdürlükleri/kısım amirlikleri ile il ve ilçe trafik zabıta kuruluşları tarafından yürütülür.
-Jandarma Genel Komutanlığı trafik kuruluşlarının görev ve yetkileri şunlardır:
-1. Araçları, bu Kanuna göre araçlarda bulundurulması gerekli belge ve gereçleri, sürücüleri ve bunlara ait belgeleri, sürücülerin ve karayolunu kullanan diğer kişilerin kurallara uyup uymadığını, trafik düzenlemelerinin ve çeşitli tesislerin bu Kanun hükümlerine uygun olup olmadığını denetlemek.
+**MADDE 5/A-** Bu Kanunla Jandarma Genel Komutanlığına verilen görevler, Jandarma Genel Komutanlığına bağlı olarak kurulan Trafik Hizmetleri Daire Başkanlığı, illerde trafik şube müdürlükleri/kısım amirlikleri ile il ve ilçe trafik zabıta kuruluşları tarafından yürütülür.
+**Jandarma Genel Komutanlığı trafik kuruluşlarının görev ve yetkileri şunlardır:**
+**1. Araçları, bu Kanuna göre araçlarda bulundurulması gerekli belge ve gereçleri, sürücüleri ve bunlara ait belgeleri, sürücülerin ve karayolunu kullanan diğer kişilerin kurallara uyup uymadığını, trafik düzenlemelerinin ve çeşitli tesislerin bu Kanun hükümlerine uygun olup olmadığını denetlemek.**
 2. Duran ve akan trafiği düzenlemek ve yönetmek.
 3. Elkoyduğu trafik kazalarında trafik kaza tespit tutanağı düzenlemek.
 4. Trafik suçu işleyenler hakkında tutanak düzenlemek, gerekli işlemleri yapmak ve takip etmek.
@@ -280,7 +280,7 @@ MADDE 53 – 29/3/1984 tarihli ve 2992 sayılı Adalet Bakanlığının Teşkila
 
 
 MADDE 54 – 28/2/1985 tarihli ve 3160 sayılı Emniyet Teşkilâtı Uçuş ve Dalış Hizmetleri Tazminat Kanununa aşağıdaki ek madde eklenmiştir.
-“EK MADDE 2- Emniyet hizmetleri sınıfına mensup pilot, uçuş ekibi ve İHA uçuş ekibi personeli, istifa veya müstafi sayılma sebepleri ile on yıl içerisinde görevlerinden ayrılmaları halinde, havacılık branşına aktarılmalarına esas teşkil eden eğitimlerin masraflarını yükümlülük sürelerinin eksik kısmı ile orantılı olmak üzere kanuni faizi ile birlikte ödemekle yükümlüdür.”
+**“EK MADDE 2- Emniyet hizmetleri sınıfına mensup pilot, uçuş ekibi ve İHA uçuş ekibi personeli, istifa veya müstafi sayılma sebepleri ile on yıl içerisinde görevlerinden ayrılmaları halinde, havacılık branşına aktarılmalarına esas teşkil eden eğitimlerin masraflarını yükümlülük sürelerinin eksik kısmı ile orantılı olmak üzere kanuni faizi ile birlikte ödemekle yükümlüdür.”**
 
 
 MADDE 55 – 7/11/1985 tarihli ve 3238 sayılı Savunma Sanayii Müsteşarlığının Kurulması ve 11 Temmuz 1939 Tarih ve 3670 Sayılı Milli Piyango Teşkiline Dair Kanunun İki Maddesi ile 25 Ekim 1984 Tarih ve 3065 Sayılı Katma Değer Vergisi Kanununun Bir Maddesinde Değişiklik Yapılması Hakkında Kanunun 5 inci maddesi aşağıdaki şekilde değiştirilmiştir.
@@ -296,25 +296,25 @@ MADDE 57- 3238 sayılı Kanunun 7 nci maddesinin birinci fıkrasında yer alan �
 
 
 MADDE 58 – 3238 sayılı Kanunun 8 inci maddesine dördüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
-“Özel bilgi ve ihtisas gerektiren işlerde, ücretleri Fondan karşılanmak üzere proje veya sözleşme süresince sözleşmeli personel istihdam edilebilir. İstihdam edilecek personele ödenecek ücret üst sınırı Savunma Sanayii İcra Komitesince belirlenir. Bu kapsamda istihdam edilen personel, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.”
+**“Özel bilgi ve ihtisas gerektiren işlerde, ücretleri Fondan karşılanmak üzere proje veya sözleşme süresince sözleşmeli personel istihdam edilebilir. İstihdam edilecek personele ödenecek ücret üst sınırı Savunma Sanayii İcra Komitesince belirlenir. Bu kapsamda istihdam edilen personel, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.”**
 
-MADDE 59- 3238 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (h) bendinde yer alan “Milli Savunma Bakanlığınca” ibaresi “ihtiyaç makamınca” şeklinde değiştirilmiş, aynı fıkraya aşağıdaki bent eklenmiş, aynı maddenin ikinci fıkrasının birinci cümlesinde yer alan “Müsteşarın teklifi, Milli Savunma Bakanının uygun görüşü ve Başbakanın onayı ile” ibaresi ile ikinci cümlesinde yer alan “, Millî Savunma Bakanının uygun görüşü” ibaresi yürürlükten kaldırılmış ve aynı maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 59-** 3238 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (h) bendinde yer alan “Milli Savunma Bakanlığınca” ibaresi “ihtiyaç makamınca” şeklinde değiştirilmiş, aynı fıkraya aşağıdaki bent eklenmiş, aynı maddenin ikinci fıkrasının birinci cümlesinde yer alan “Müsteşarın teklifi, Milli Savunma Bakanının uygun görüşü ve Başbakanın onayı ile” ibaresi ile ikinci cümlesinde yer alan “, Millî Savunma Bakanının uygun görüşü” ibaresi yürürlükten kaldırılmış ve aynı maddeye aşağıdaki fıkra eklenmiştir.
 “m) Cumhurbaşkanı tarafından verilen diğer görevleri yerine getirmek.”
 “Müsteşarlık tarafından yürütülen projelerde sözleşme imzalanacak firmanın seçimi Komite kararı ile belirlenir. Komite uygun gördüğü durumlarda bu yetkisini sınırlarını belirlemek kaydıyla Komite üyelerine veya Savunma Sanayii Müsteşarına devredebilir.”
 
 
 MADDE 60 – 3238 sayılı Kanunun 12 nci maddesine aşağıdaki fıkra eklenmiştir.
-“Savunma sanayii alanındaki insan kaynağının geliştirilmesi amacıyla Fondan burs ve eğitim destekleri sağlanabilir.”
+**“Savunma sanayii alanındaki insan kaynağının geliştirilmesi amacıyla Fondan burs ve eğitim destekleri sağlanabilir.”**
 
 
 MADDE 61 – 3238 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
-“EK MADDE 1- Mevzuatta Savunma Sanayii Müsteşarlığı ile ilgili olarak Milli Savunma Bakanına yapılan atıflar Cumhurbaşkanına yapılmış sayılır.”
+**“EK MADDE 1- Mevzuatta Savunma Sanayii Müsteşarlığı ile ilgili olarak Milli Savunma Bakanına yapılan atıflar Cumhurbaşkanına yapılmış sayılır.”**
 
-MADDE 62- 7/11/1985 tarihli ve 3238 sayılı Savunma Sanayii Müsteşarlığının Kurulması ve 11 Temmuz 1939 Tarih ve 3670 Sayılı Milli Piyango Teşkiline Dair Kanunun İki Maddesi ile 25 Ekim 1984 Tarih ve 3065 Sayılı Katma Değer Vergisi Kanununun Bir
-Maddesinde Değişiklik Yapılması Hakkında Kanunun 2 nci maddesinin birinci fıkrasında yer alan “Kurul; Savunma Sanayii Yüksek Koordinasyon Kurulunu,” ibaresi ile 3 üncü ve 4 üncü maddeleri yürürlükten kaldırılmıştır.
+MADDE 62- **7/11/1985 tarihli ve 3238 sayılı Savunma Sanayii Müsteşarlığının Kurulması ve 11 Temmuz 1939 Tarih ve 3670 Sayılı Milli Piyango Teşkiline Dair Kanunun İki Maddesi ile 25 Ekim 1984 Tarih ve 3065 Sayılı Katma Değer Vergisi Kanununun Bir**
+**Maddesinde Değişiklik Yapılması Hakkında Kanunun 2 nci maddesinin birinci fıkrasında yer alan “Kurul; Savunma Sanayii Yüksek Koordinasyon Kurulunu,” ibaresi ile 3 üncü ve 4 üncü maddeleri yürürlükten kaldırılmıştır.**
 
 MADDE 63- 18/3/1986 tarihli ve 3269 sayılı Uzman Erbaş Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendinde yer alan “üç” ibaresi “beş” şeklinde, “yirmi beş” ibaresi “yirmiyedi” şeklinde ve (b) bendi aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
-“b) Sözleşmeli erbaş ve erlerden en az üç yıl görev yapmış olanlar, müteakip sözleşme süreleri içerisinde ve müracaat yapılan yılın ocak ayının ilk günü itibarıyla yirmi dokuz yaşını bitirmemiş olmak ve sıralı üç disiplin amiri tarafından “uzman erbaş olur” kararlı nitelik belgesi doldurulmak şartıyla,” “Muvazzaflık hizmetini yapmakta olan çavuş, onbaşı ve erlerden askerlik hizmetini yaptığı ilgili Kuvvet Komutanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığında uzman erbaş olmak için müracaat eden ve yapılan sınavlarda başarılı olarak işlemleri olumlu sonuçlananlar kalan askerlik süresine bakılmaksızın açılacak ilk eğitime tefrik edilirler. Sözleşme yapılarak eğitime başlatılanların, sözleşme imzaladıkları tarihe kadarki hizmet sürelerinin tamamı, yükümlülük süresinin hesabından mahsup edilir.
+“b) Sözleşmeli erbaş ve erlerden en az üç yıl görev yapmış olanlar, müteakip sözleşme süreleri içerisinde ve müracaat yapılan yılın ocak ayının ilk günü itibarıyla yirmi dokuz yaşını bitirmemiş olmak ve **sıralı üç disiplin amiri tarafından “uzman erbaş olur” kararlı nitelik belgesi doldurulmak şartıyla,”** “Muvazzaflık hizmetini yapmakta olan çavuş, onbaşı ve erlerden askerlik hizmetini yaptığı ilgili Kuvvet Komutanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığında uzman erbaş olmak için müracaat eden ve yapılan sınavlarda başarılı olarak işlemleri olumlu sonuçlananlar kalan askerlik süresine bakılmaksızın açılacak ilk eğitime tefrik edilirler. Sözleşme yapılarak eğitime başlatılanların, sözleşme imzaladıkları tarihe kadarki hizmet sürelerinin tamamı, yükümlülük süresinin hesabından mahsup edilir.
 Kalan askerlik yükümlülüklerine ilişkin olarak uygulanacak hükümler şunlardır:
 a) Sözleşme süreleri içinde bu Kanunun 12 nci maddesinin birinci ve dördüncü fıkraları gereğince ilişiği kesilenlerden; sözleşme döneminde ay olarak hizmette geçen sürelerinin üçte biri 1111 sayılı Kanunun 5 inci maddesinin birinci fıkrasına göre belirlenen süreden eksik kalan kısmı karşılayanlar askerlik hizmetini yerine getirmiş sayılır, bu süreyi karşılamayanların kalan süreleri tamamlattırılır.
 b) 12 nci maddenin birinci ve dördüncü fıkralarında belirtilen haller dışında herhangi bir nedenle sözleşmesi sona erenlerin, sözleşme döneminde ay olarak hizmette geçen sürelerinin üçte biri;
@@ -361,7 +361,7 @@ Birinci fıkranın (b) bendi uyarınca belirlenen katılım payının onikide bi
 Bakanlık, bu Kanunun kendisine verdiği görevleri yerine getirirken gerekli gördüğü her türlü bilgiyi kamu kurum ve kuruluşları ile piyasada mal veya hizmet üreten, pazarlayan ve satan gerçek ve tüzel kişilerle bunların her türlü birliklerinden isteyebilir. Bakanlık tarafından istenilen bilgiler tam ve doğru olarak talep edilen süre dahilinde ilgili kurum ve kuruluşlar tarafından Bakanlığa verilir.”
 
 MADDE 71- 4634 sayılı Kanunun 12 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 12- Bu Kanunun uygulanmasına ilişkin yönetmelikler Bakanlık tarafından yürürlüğe konulur.”
+“**MADDE 12- Bu Kanunun uygulanmasına ilişkin** yönetmelikler Bakanlık tarafından yürürlüğe konulur.”
 
 MADDE 72- 4634 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “Atıflar
@@ -410,16 +410,16 @@ MADDE 75- 13/6/2001 tarihli ve 4678 sayılı Türk Silahlı Kuvvetlerinde İstih
 
 MADDE 76- 3/1/2002 tarihli ve 4733 sayılı Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve Görevleri Hakkında Kanunun adı “Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanun” şeklinde değiştirilmiştir.
 
-MADDE 77- 4733 sayılı Kanunun 1 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
-“Amaç
+MADDE 77- 4733 sayılı Kanunun 1 inci maddesi başlığı ile birlikte **aşağıdaki şekilde değiştirilmiştir.**
+**“Amaç**
 
 MADDE 1- Bu Kanunun amacı; tütün, tütün mamulleri ve alkol piyasasının düzenlenmesine, tütün, tütün mamulleri ve alkolün Türkiye’de üretimine, iç ve dış alım ile satımına ilişkin usul ve esasları belirlemektir.”
 
 
 MADDE 78 – 4733 sayılı Kanuna 4/A maddesinden sonra gelmek üzere aşağıdaki 4/B maddesi eklenmiştir.
-“Görevler
+**“Görevler**
 
-MADDE 4/B- Bu Kanun hükümleri çerçevesinde aşağıda belirtilen görevler Gıda, Tarım ve Hayvancılık Bakanlığı tarafından yürütülür.
+**MADDE 4/B- Bu Kanun hükümleri çerçevesinde aşağıda belirtilen görevler** Gıda, Tarım ve Hayvancılık Bakanlığı tarafından yürütülür.
 a) Tütün tohumunun taşınması, ithali ve ihracı, tütün üretimi, üretici tütünlerinin alımı, satımı, tütünlerin işlenmesi, depolanması, iç ve dış ticareti ile tütün fireleri, tütün işleme tesislerinin kurulması, üretim izni, proje tadilatı, yer değişikliği, kapatılması ve her türlü devir işlemleri ile tüm bu işlemlerin teknik kontrolüne ilişkin çalışmaları yürütmek.
 b) Etil alkol ve metanolün üretimi, iç ve dış ticareti, denatürasyonu, ambalajlanması, dağıtımı, üretimde kullanılması amacıyla elde bulundurulması, depolanması, geri kazanımı, işlemesi, üretim tesislerinin kurulması, üretim izni, proje tadilatı, kapatılması ve her türlü devir işlemleri ile 8/6/1942 tarihli ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanununun uygulanmasına yönelik işlemlere ve bu işlemlerin teknik kontrolüne ilişkin çalışmaları yürütmek.
 c) Tütün, tütün mamulleri ve alkollü içkilerin üretim, satış ve sunum faaliyetlerine ilişkin izin ve yetki belgelerinin verilmesi, bu faaliyetlere ilişkin piyasa takip ve kontrolünün sağlanması, tütün ve alkol piyasalarına ilişkin düzenlemeler ve uygulamalar konusunda kamuoyunda tüketici bilinci oluşturmaya yönelik çalışmalar yapılması ve tüketicilerin seçeneklerini azaltabilecek rekabet ve reklam koşullarının belirlenmesi çalışmaları ile bu Kanun kapsamındaki ürünlerde ürün güvenliğini sağlamak amacıyla gerektiğinde diğer kamu kurum ve kuruluşlarıyla işbirliği içerisinde çalışmalar yürütmek.
@@ -444,7 +444,7 @@ EK MADDE 4- Mevzuatta Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve 
 
 
 MADDE 81 – 4733 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
-“GEÇİCİ MADDE 7- Tütün ve Alkol Piyasası Düzenleme Kurumu bu maddenin yürürlüğe girdiği tarihte kapatılmıştır. Kapatılan Kurumun kullanılmayan ödenekleri iptal edilmiş sayılır. Kapatılan Kurumun gerekli her türlü bütçe ve muhasebe işlemleri ile ilgili tereddütleri gidermeye Maliye Bakanlığı yetkilidir. Kapatılan Kurumca yapılan işlemler, ilgili idarelerce yeni bir işlem yapılıncaya kadar geçerliliğini korur.
+**“GEÇİCİ MADDE 7-** Tütün ve Alkol Piyasası Düzenleme Kurumu bu maddenin yürürlüğe girdiği tarihte kapatılmıştır. Kapatılan Kurumun kullanılmayan ödenekleri iptal edilmiş sayılır. Kapatılan Kurumun gerekli her türlü bütçe ve muhasebe işlemleri ile ilgili tereddütleri gidermeye Maliye Bakanlığı yetkilidir. Kapatılan Kurumca yapılan işlemler, ilgili idarelerce yeni bir işlem yapılıncaya kadar geçerliliğini korur.
 Bu maddenin yürürlüğe girdiği tarihte kapatılan Kuruma ait;
 a) Her türlü taşınır, taşıt, araç, gereç ve malzeme ile borç ve alacaklar hiçbir işleme gerek kalmaksızın Gıda, Tarım ve Hayvancılık Bakanlığına,
 b) Hak ve yükümlülükler ile yazılı ve elektronik ortamdaki her türlü kayıt ve doküman hiçbir işleme gerek kalmaksızın ilgisine göre Gıda, Tarım ve Hayvancılık Bakanlığı ile Sağlık Bakanlığına, devredilmiş sayılır. Kurumun elinde bulunan nakit ve benzeri değerler aynı tarih itibarıyla genel bütçeye gelir kaydedilmek üzere Gıda, Tarım ve Hayvancılık Bakanlığı merkez muhasebe birimi hesabına aktarılır.
@@ -453,7 +453,7 @@ Kapatılan Kurum tarafından yapılmış olan sözleşmelere, ilgili idare halef
 Bu madde uyarınca yapılacak devre ilişkin işlemler harçlardan ve bu işlemlerle ilgili olarak düzenlenecek kâğıtlar damga vergisinden müstesnadır.
 Bu madde uyarınca yapılacak devir işlemleri bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde tamamlanır. İlgili bakanlıklar tarafından gerekli düzenlemeler yapılıncaya kadar bu Kanun uyarınca yürürlüğe konulan mevcut düzenlemelerin uygulanmasına devam olunur.
 
-GEÇİCİ MADDE 8- Bu maddenin yürürlüğe girdiği tarihte Tütün ve Alkol Piyasası Düzenleme Kurumunda görev yapmakta olan personelden;
+**GEÇİCİ MADDE 8-** Bu maddenin yürürlüğe girdiği tarihte Tütün ve Alkol Piyasası Düzenleme Kurumunda görev yapmakta olan personelden;
 a) Başkan Yardımcısı kadrosunda bulunanlar Bakanlık Müşaviri kadrolarına,
 b) Başkanlık Müşaviri, I. Hukuk Müşaviri, Daire Başkanı, Başuzman ve Uzman kadrolarında bulunanlar Gıda, Tarım ve Hayvancılık Uzmanı kadrolarına,
 c) Müdür kadrosunda bulunanlar Müdür unvanlı kadrolara,
@@ -465,14 +465,14 @@ Bu madde uyarınca atanmış sayılan personelin kapatılan Tütün ve Alkol Piy
 Bu madde uyarınca atanmış sayılan personelin yeni kadrolarına atanmış sayıldıkları tarih itibarıyla eski kadrolarına ilişkin olarak en son ayda aldıkları sözleşme ücreti, ücret, tazminat, aylık, ek gösterge, ikramiye (bir aya isabet eden net tutarı), her türlü zam ve tazminatları ve benzeri adlarla yapılan her türlü ödemelerin (ilgili mevzuatı uyarınca fiili çalışmaya bağlı fazla mesai ücreti ve ek ders ücreti hariç) toplam net tutarının (bu tutar sabit bir değer olarak esas alınır); atanmış sayıldıkları yeni kadrolara ilişkin olarak yapılan ücret, tazminat, aylık, ek gösterge, her türlü zam ve tazminatları, ek ödeme ve benzeri adlarla yapılan her türlü ödemelerin (ilgili mevzuatı uyarınca fiili çalışmaya bağlı fazla mesai ücreti ve ek ders ücreti hariç) toplam net tutarından fazla olması halinde aradaki fark tutarı, herhangi bir vergi ve kesintiye tabi tutulmaksızın fark kapanıncaya kadar ayrıca tazminat olarak ödenir. Atanmış sayıldıkları kadro unvanlarında isteğe bağlı olarak herhangi bir değişiklik olanlarla kendi istekleriyle başka kurumlara atananlara fark tazminatı ödenmesine son verilir.
 Devir sebebiyle teşkilat, görev, personel ve kadro hususlarında ortaya çıkabilecek tereddütleri gidermeye Devlet Personel Başkanlığının görüşü üzerine Gıda, Tarım ve Hayvancılık Bakanı yetkilidir.”
 
-MADDE 82-
-(1) 3/1/2002 tarihli ve 4733 sayılı Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve Görevleri Hakkında Kanunun;
+**MADDE 82-**
+**(1)** 3/1/2002 tarihli ve 4733 sayılı Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve Görevleri Hakkında Kanunun;
 a) 6 ncı maddesinin üçüncü, dördüncü, beşinci ve sekizinci fıkralarında, 8 inci maddesinin birinci fıkrasında ve beşinci fıkrasının giriş cümlesi ile (b), (d), (e), (f), (g), (h) ve (ı) bentlerinde yer alan “Kurumdan” ibareleri “Gıda, Tarım ve Hayvancılık Bakanlığından” şeklinde,
 b) 6 ncı maddesinin dördüncü ve onbirinci fıkralarında, 8 inci maddesinin beşinci fıkrasının (b) bendinde ve dokuzuncu fıkrasında yer alan “Kuruma” ibareleri “Gıda, Tarım ve Hayvancılık Bakanlığına” şeklinde,
 c) 6 ncı maddesinin yedinci ve onbirinci fıkraları ile 8 inci maddesinin sekizinci fıkrasında yer alan “Kurumun” ibareleri “Gıda, Tarım ve Hayvancılık Bakanlığının” şeklinde,
-ç) 6 ncı maddesinin beşinci, yedinci ve onbirinci fıkralarında, 8 inci maddesinin beşinci fıkrasının (a), (l) ve (m) bentleri ile dokuzuncu ve onikinci fıkralarında, 9 uncu maddesinin birinci fıkrasının (B) bendinde ve ek 1 inci maddesinin birinci fıkrasında yer alan “Kurum” ibareleri ile 6 ncı maddesinin dokuzuncu fıkrasında yer alan “Kurul” ibaresi “Gıda, Tarım ve Hayvancılık Bakanlığı” şeklinde,
-d) 6 ncı maddesinin onbirinci fıkrası ile 8 inci maddesinin altıncı ve sekizinci fıkralarında yer alan “Kurumca” ibareleri “Gıda, Tarım ve Hayvancılık Bakanlığınca” şeklinde, değiştirilmiştir.
-(2) 4733 sayılı Kanunun 2 nci, 3 üncü, 4 üncü, 4/A ve 5 inci maddeleri, 9 uncu maddesinin birinci fıkrasının (A) bendi, ek 2 nci, geçici 1 inci, geçici 2 nci, geçici 3 üncü, geçici 4 üncü, geçici 5 inci ve geçici 6 ncı maddeleri ile eki (I) sayılı cetvel yürürlükten kaldırılmıştır.
+**ç) 6 ncı maddesinin beşinci, yedinci ve onbirinci fıkralarında, 8 inci maddesinin beşinci fıkrasının (a), (l) ve (m) bentleri ile dokuzuncu ve onikinci fıkralarında, 9 uncu maddesinin birinci fıkrasının (B) bendinde ve ek 1 inci maddesinin birinci fıkrasında yer alan “Kurum” ibareleri ile 6 ncı maddesinin dokuzuncu fıkrasında yer alan “Kurul” ibaresi “Gıda, Tarım ve Hayvancılık Bakanlığı” şeklinde,**
+d) 6 ncı maddesinin onbirinci fıkrası ile 8 inci maddesinin altıncı ve sekizinci fıkralarında yer alan “Kurumca” ibareleri “Gıda, Tarım ve Hayvancılık Bakanlığınca” şeklinde, **değiştirilmiştir.**
+**(2) 4733 sayılı Kanunun** 2 nci, 3 üncü, 4 üncü, 4/A ve 5 inci maddeleri, 9 uncu maddesinin birinci fıkrasının (A) bendi, ek 2 nci, geçici 1 inci, geçici 2 nci, geçici 3 üncü, geçici 4 üncü, geçici 5 inci ve geçici 6 ncı maddeleri ile eki (I) sayılı cetvel yürürlükten kaldırılmıştır.
 
 MADDE 83- 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 62 nci maddesinin birinci fıkrasının (e) bendi aşağıdaki şekilde değiştirilmiştir.
 “e) 1) 5018 sayılı Kanuna ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu idareleri (MİT Müsteşarlığı hariç) ile bunlara bağlı döner sermayeli kuruluşlar, 375 sayılı Kanun Hükmünde Kararnameye ekli (I) sayılı listede yer alan idarelerin merkez ve taşra teşkilatları, il özel idareleri, belediyeler ile bağlı kuruluşları ve bunların üyesi olduğu mahalli idare birlikleri, birlikte veya ayrı ayrı sermayesinin yarısından fazlası il özel idareleri, belediyeler ve bağlı kuruluşlarına ait şirketler; merkezi yönetim, sosyal güvenlik kurumu, fon, kefalet sandığı, yatırım izleme ve koordinasyon başkanlığı, gençlik hizmetleri ve spor il müdürlüğü, mahalli idare ve şirket bütçelerinden veya döner sermaye bütçelerinden, anılan liste kapsamındaki diğer idareler için ise kendi bütçelerinden personel çalıştırılmasına dayalı hizmet alımı veya niteliği itibarıyla bu sonucu doğuracak şekilde alım yapamaz ve buna imkân sağlayan diğer mevzuat hükümleri uygulanmaz.
@@ -484,13 +484,13 @@ MADDE 84- 4734 sayılı Kanunun ek 8 inci maddesinin birinci fıkrası aşağıd
 
 MADDE 85- 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun geçici 4 üncü maddesinde yer alan “Posta ve Telgraf Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi ile geçici 17 nci maddesi yürürlükten kaldırılmıştır.
 
-MADDE 86- 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanuna aşağıdaki ek maddeler eklenmiştir.
+**MADDE 86-** 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanuna aşağıdaki ek maddeler eklenmiştir.
 “EK
 
 MADDE 4- 19/8/2016 tarihli ve 6741 sayılı Türkiye Varlık Fonu Yönetimi Anonim Şirketi Kurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun ile kurulmasına karar verilen Türkiye Varlık Fonu Yönetimi Anonim Şirketi, Türkiye Varlık Fonu ile sermayesinin yüzde ellisinden fazlası kamuya ait olmak kaydıyla 6741 sayılı Kanunun 4 üncü maddesi ve sair mevzuat çerçevesinde Türkiye Varlık Fonuna aktarılmasına karar verilen kuruluşlar ile sermayesinin yüzde ellisinden fazlası kamuya ve/veya Türkiye Varlık Fonu Anonim Şirketi ile Türkiye Varlık Fonuna ait olmak kaydıyla Türkiye Varlık Fonu Yönetimi Anonim Şirketi tarafından kurulacak şirket ve alt fonlara dış borcun devri, dış borcun ikrazı ve Hazine geri ödeme garantisi hususlarında bu Kanunda düzenlenen hükümlerin uygulanmasına Bakanın teklifi üzerine Bakanlar Kurulunca karar verilebilir.
 Bu madde uyarınca verilen dış borcun devri, dış borcun ikrazı ve Hazine geri ödeme garantileri kapsamında doğacak Hazine alacakları hakkında 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
 
-EK MADDE 5- Savunma ve güvenlik hizmetleri sektörleri ile sınırlı olmak üzere nihai kullanıcısının genel bütçe kapsamındaki kamu idarelerinden olması durumunda projeyi yürüten özel bütçe kapsamındaki kuruluşlar bu Kanunun 8 inci maddesinin onuncu fıkrasında yer alan hükümlere tabi olmaksızın dış imkân sağlayabilir.”
+**EK MADDE 5- Savunma ve güvenlik hizmetleri sektörleri ile sınırlı olmak üzere nihai kullanıcısının genel bütçe kapsamındaki kamu idarelerinden olması durumunda projeyi yürüten özel bütçe kapsamındaki kuruluşlar bu Kanunun 8 inci maddesinin onuncu fıkrasında yer alan hükümlere tabi olmaksızın dış imkân sağlayabilir.”**
 
 MADDE 87- 4749 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “Vakıfbank hisselerinin devri
@@ -523,11 +523,11 @@ Cazibe Merkezleri Programı kapsamında kullandırılan kaynağın takip ve tahs
 Bu madde kapsamında ihtiyaç duyulan kaynak, Ekonomi Bakanlığı bütçesinde yer alan ödeneklerden karşılanır.
 Bakanlar Kurulu, Cazibe Merkezleri Programının uygulanmasında kamu kurum ve kuruluşlarını görevlendirmeye yetkilidir.”
 
-MADDE 91- 29/6/2004 tarihli ve 5201 sayılı Harp Araç ve Gereçleri ile Silâh, Mühimmat ve Patlayıcı Madde Üreten Sanayi Kuruluşlarının Denetimi Hakkında Kanunun 3 üncü maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 91- 29/6/2004 tarihli ve 5201 sayılı Harp Araç ve Gereçleri ile Silâh, Mühimmat ve Patlayıcı Madde Üreten Sanayi Kuruluşlarının Denetimi Hakkında Kanunun 3 üncü maddesinin** üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Yıllık listelerde belirlenen silâhlar ile bunlara ait mühimmat ve yedek parçaların iç pazara üretici veya dağıtıcı firmalarca sunulmasına, İçişleri Bakanlığının olumlu görüşü alınarak Millî Savunma Bakanlığınca izin verilebilir.”
 
 
-MADDE 92 – 26/9/2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanunun 35 inci maddesinin birinci fıkrasının (3) numaralı bendinde yer alan “Yargıtay Birinci Başkanlığından” ibaresi “Yargıtaydan bu konuda bir karar verilmesini” şeklinde ve aynı maddenin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+MADDE 92 – 26/9/2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanunun 35 inci maddesinin birinci fıkrasının (3) numaralı bendinde yer alan “Yargıtay Birinci Başkanlığından” **ibaresi “**Yargıtaydan bu konuda bir karar verilmesini” şeklinde ve aynı maddenin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(3) numaralı bende göre yapılacak istemler, ceza davalarında Yargıtay Cumhuriyet Başsavcılığına, hukuk davalarında ise ilgili hukuk dairesine iletilir. Yargıtay Cumhuriyet Başsavcılığı uyuşmazlık bulunduğuna kanaat getirmesi durumunda ilgili ceza dairesinden bir karar verilmesini talep eder. Uyuşmazlığın giderilmesine ilişkin olarak dairece bu fıkra uyarınca verilen kararlar kesindir.”
 
 
@@ -571,7 +571,7 @@ MADDE 1- (1) 3713 sayılı Kanun kapsamına giren suçlar nedeniyle tutuklu veya
 (2) Bu maddede öngörülen yönetmelik bir ay içinde yürürlüğe konulur. Bu madde hükümleri söz konusu yönetmeliğin yürürlüğe girdiği tarihten itibaren uygulanır.”
 
 
-MADDE 104 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 60 ıncı maddesinin onikinci fıkrasında yer alan “sağlık sebebi hariç” ibaresi “disiplin kurulları tarafından verilen cezalar ve sağlık sebepleri hariç” şeklinde değiştirilmiştir.
+MADDE 104 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 60 ıncı **maddesinin onikinci fıkrasında yer alan “sağlık sebebi hariç” ibaresi “disiplin kurulları tarafından verilen cezalar ve sağlık sebepleri hariç” şeklinde değiştirilmiştir.**
 
 
 MADDE 105 – 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununun 5 inci maddesinin birinci fıkrasının (a) bendinin (3) numaralı alt bendine aşağıdaki cümle eklenmiştir.
@@ -580,14 +580,14 @@ MADDE 105 – 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanun
 MADDE 106- 4/4/2007 tarihli ve 5620 sayılı Kamuda Geçici İş Pozisyonlarında Çalışanların Sürekli İşçi Kadrolarına veya Sözleşmeli Personel Statüsüne Geçirilmeleri, Geçici İşçi Çalıştırılması ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun 3 üncü maddesine aşağıdaki fıkra eklenmiştir.
 “(3) İkinci fıkranın (a) ve (b) bentleri kapsamında vizelenen geçici iş pozisyonlarında çalışanların çalışma sürelerini, ilgili kurum veya kuruluşların talebi üzerine kurum, kuruluş, birim veya pozisyon itibarıyla dört aya kadar uzatmaya Maliye Bakanlığı yetkilidir.”
 
-MADDE 107- 24/5/2007 tarihli ve 5668 sayılı Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Besleme Kanununun 7 nci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
+**MADDE 107-** 24/5/2007 tarihli ve 5668 sayılı Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Besleme Kanununun 7 nci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “i) Yemin, temsili askerlik ve mezuniyet törenlerine iştirak eden ziyaretçiler.”
 
 
 MADDE 108 – 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 401 inci maddesine aşağıdaki fıkra eklenmiştir.
 “(4) Terör örgütlerine aidiyeti, iltisakı veya irtibatı nedeniyle 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 133 üncü maddesi uyarınca kayyım atanmasına karar verilen şirketlerde, kayyımın ilk defa atandığı mali yıl ve öncesinde yapılan iş ve işlemler ile ilgili olarak birinci fıkranın ilk cümlesi kapsamında onay yükümlülüğü yoktur.”
 
-MADDE 109- 6102 sayılı Kanunun 403 üncü maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 109-** 6102 sayılı Kanunun 403 üncü maddesine aşağıdaki fıkra eklenmiştir.
 “(6) Terör örgütlerine aidiyeti, iltisakı veya irtibatı nedeniyle 5271 sayılı Kanunun 133 üncü maddesi uyarınca kayyım atanmasına karar verilen şirketlerde beşinci fıkra hükümleri kayyımın görevi devam ettiği müddetçe uygulanmaz.”
 
 MADDE 110- 10/3/2011 tarihli ve 6191 sayılı Sözleşmeli Erbaş ve Er Kanununun 7 nci maddesinin üçüncü fıkrasına “sınır birliklerinde” ibaresinden sonra gelmek üzere “, gemide ve yüzer birliklerde fiilen” ibaresi ve aynı maddeye aşağıdaki fıkra eklenmiştir.
@@ -610,7 +610,7 @@ MADDE 113- 6356 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 MADDE 114- 31/1/2013 tarihli ve 6413 sayılı Türk Silahlı Kuvvetleri Disiplin Kanununun 13 üncü maddesinin birinci fıkrasına aşağıdaki cümle eklenmiş ve aynı maddenin dördüncü fıkrasında yer alan “Genelkurmay Adli Müşavirinden” ibaresi “Genelkurmay Hukuk Hizmetleri Başkanından” şeklinde değiştirilmiştir.
 “Yükümlülük veya sözleşme süresi sona ermeden Silahlı Kuvvetlerden ayırma cezası alan personel, kalan yükümlülük veya sözleşme süresince Milli Savunma Bakanlığı ve/veya Türk Silahlı Kuvvetleri nam ve hesabına verilen eğitimler, kurslar ve seminerler sonucunda elde ettikleri diploma, sertifika, uzmanlık belgesi, kurs bitirme belgesini kullanamazlar ve bunlara bağlı olarak herhangi bir meslek icra edemezler.”
 
-MADDE 115- 6413 sayılı Kanunun 35 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 115-** 6413 sayılı Kanunun 35 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Disiplin subayı
 
 MADDE 35- (1) Teşkilatında disiplin kurulu kurulan komutanlıklar veya askeri kurum amirlikleri ile Milli Savunma Bakanlığında bir disiplin subayı bulunur.
@@ -647,7 +647,7 @@ MADDE 1- (1) Bu Kanunun 4 üncü maddesi kapsamında Türkiye Varlık Fonuna akt
 MADDE 121- 8/11/2016 tarihli ve 6755 sayılı Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 37 nci maddesine aşağıdaki fıkra eklenmiştir.
 “(2) Resmi bir sıfat taşıyıp taşımadıklarına veya resmi bir görevi yerine getirip getirmediklerine bakılmaksızın 15/7/2016 tarihinde gerçekleştirilen darbe teşebbüsü ve terör eylemleri ile bunların devamı niteliğindeki eylemlerin bastırılması kapsamında hareket eden kişiler hakkında da birinci fıkra hükümleri uygulanır.”
 
-MADDE 122- 9/11/2016 tarihli ve 6756 sayılı Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması ve Milli Savunma Üniversitesi Kurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesi Hakkında Kanunun 107 nci maddesinin yedinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 122- 9/11/2016 tarihli ve** 6756 sayılı Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması ve Milli Savunma Üniversitesi Kurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesi Hakkında Kanunun 107 **nci** maddesinin yedinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(7) Gülhane Askeri Tıp Akademisinde uzmanlık ve yan dal uzmanlık eğitimi yapma hakkı kazanmış olup henüz uzmanlık eğitimine başlamamış olanlardan ihtiyaç duyulan branşlardaki personel; kıta, kurum ve karargâhlarda fiilen en az iki yıllık hizmeti tamamlamak kaydıyla Sağlık Bilimleri Üniversitesinde Milli Savunma Bakanlığı veya İçişleri Bakanlığı nam ve hesabına tıpta uzmanlık ve yan dal uzmanlık eğitimi yapar. İhtiyaç duyulmayan branşlardaki personel, devredilen personel kapsamında Sağlık Bilimleri Üniversitesinde araştırma görevlisi kadrolarına atanır. Gülhane Askeri Tıp Akademisinde lisansüstü eğitim yapmakta olan öğrenciler (yabancı öğrenciler dahil) ile bu hakkı kazanmış olanlar eğitimlerine Üniversitede devam eder.”
 
 MADDE 123- 10/11/2016 tarihli ve 6758 sayılı Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 19 uncu maddesinin üçüncü fıkrasının dördüncü cümlesine “şirketin yönetim kurulu” ibaresinden sonra gelmek üzere “veya Tasarruf Mevduatı Sigorta Fonu” ibaresi eklenmiştir.
@@ -656,13 +656,13 @@ MADDE 124- 6758 sayılı Kanunun 45 inci maddesinin birinci fıkrasına “bulun
 
 
 MADDE 125 – 8/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
-“EK MADDE 1- Makina ve Kimya Endüstrisi Kurumu, özel bilgi ve ihtisas gerektiren işlerde diğer kanunların sözleşmeli personel çalıştırılmasına ilişkin hükümlerine tabi olmaksızın ilgili yıl genel yatırım ve finansman kararnamesinde belirlenen usul ve esaslar çerçevesinde proje süresi ile sınırlı olmak üzere sözleşmeli personel istihdam edebilir. Bu kapsamda istihdam edilen personel, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.”
+**“EK MADDE 1- Makina ve Kimya Endüstrisi Kurumu, özel bilgi ve ihtisas gerektiren işlerde diğer kanunların sözleşmeli personel çalıştırılmasına ilişkin hükümlerine tabi olmaksızın ilgili yıl genel yatırım ve finansman kararnamesinde belirlenen usul ve esaslar çerçevesinde proje süresi ile sınırlı olmak üzere sözleşmeli personel istihdam edebilir. Bu kapsamda istihdam edilen personel, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.”**
 
 
 MADDE 126 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek maddeler eklenmiştir.
 “EK
 
-MADDE 19- Bu maddenin uygulanmasında;
+**MADDE 19-** Bu maddenin uygulanmasında;
 a) İnsansız hava aracı (İHA): Çeşitli veri linkleri ile uzaktan uçurulan, üzerine silahlı veya silahsız faydalı yükler takılabilen, havadan ağır, yapısal olarak rijit ve sert, manuel veya otomatik olarak iniş ve kalkış yapabilen, sınıfı ilgili bakanlık tarafından tescil edilen hava araçlarını,
 b) İHA uçuş ekibi: Genelkurmay Başkanlığı, Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı ile Emniyet Genel Müdürlüğünün İHA uçuş ekibi olarak gösterilen kadro ve sözleşmeli personel pozisyonlarında fiilen görev yapan ve İHA’nın uçurulmasında görev alan İHA pilotu, İHA teknik personeli ile varsa görev koordinatörünü/görev komutanını,
 c) İHA pilotu: Yurtiçinde veya yurtdışında düzenlenen eğitimleri başarıyla tamamlayan, sertifikası ilgisine göre Genelkurmay Başkanlığı, Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı ile Emniyet Genel Müdürlüğünce usulüne göre onaylanan ve İHA’ların pilotajında fiilen görev alan personeli,
@@ -682,7 +682,7 @@ EK MADDE 20- İl özel idareleri, belediyeler ile bağlı kuruluşları ve bunla
 Bu madde kapsamındaki şirketler hakkında 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanunda belirtilen özel şartlara ilişkin hükümler uygulanmaz.
 Bu madde kapsamındaki şirketlerde işçilerin işe alımı, işçilere ilişkin personel giderlerinin toplam giderler içindeki payına ilişkin üst sınırları, ilk defa alınacak işçilere ilişkin belirlenecek ölçütleri esas alarak yıllık sınırlamaları ve bu kapsamdaki alımlar ile harcamaları izlemeye ilişkin usul ve esasları belirlemeye Maliye Bakanlığı ve Devlet Personel Başkanlığının görüşleri ve İçişleri Bakanlığının teklifi üzerine Bakanlar Kurulu yetkilidir.
 
-EK MADDE 21- Kamu kurum ve kuruluşlarında istihdam edilen işçilere 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 21 inci maddesi uyarınca yapılan ödemeler, rücu edilmez.”
+EK **MADDE 21-** Kamu kurum ve kuruluşlarında istihdam edilen işçilere 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 21 inci maddesi uyarınca yapılan ödemeler, rücu edilmez.”
 
 MADDE 127- 375 sayılı Kanun Hükmünde Kararnameye aşağıdaki geçici maddeler eklenmiştir.
 “GEÇİCİ MADDE 23- 5018 sayılı Kanuna ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu idareleri (MİT Müsteşarlığı hariç) ile bunlara bağlı döner sermayeli kuruluşlar, bu Kanun Hükmünde Kararnameye ekli (I) sayılı listede yer alan idarelerin merkez ve taşra teşkilatlarında; ödemeleri merkezi yönetim, sosyal güvenlik kurumu, fon, kefalet sandığı, yatırım izleme ve koordinasyon başkanlığı, gençlik hizmetleri ve spor il müdürlüğü bütçelerinden veya döner sermaye bütçelerinden, anılan liste kapsamındaki diğer idareler için ise kendi bütçelerinden karşılanan 4734 sayılı Kanun ve diğer mevzuattaki hükümler uyarınca personel çalıştırılmasına dayalı hizmet alım sözleşmeleri kapsamında yükleniciler tarafından 4/12/2017 tarihi itibarıyla çalıştırılmakta olanlar;
@@ -716,7 +716,7 @@ Birinci fıkra kapsamındaki idarelerin aynı fıkrada belirtilen bütçelerinde
 Bu madde uyarınca hizmet alım sözleşmelerinin feshedilmiş veya iş eksilişi yapılmış sayılacağı tarihten itibaren bu madde kapsamında yer alan idarelerde birinci fıkrada belirtilen bütçelerden 4734 sayılı Kanun ve diğer mevzuat hükümleri çerçevesinde personel çalıştırılmasına dayalı hizmet alımı yapılamaz.
 Diğer kanunların bu maddeye aykırı hükümleri uygulanmaz.
 
-GEÇİCİ MADDE 24- İl özel idareleri ve belediyeler ile bağlı kuruluşlarında ve bunların üyesi olduğu mahalli idare birliklerinde, birlikte veya ayrı ayrı sermayesinin yarısından fazlası il özel idareleri, belediyeler ve bağlı kuruluşlarına ait şirketlerde 4734 sayılı Kanun ve diğer mevzuat hükümleri uyarınca personel çalıştırılmasına dayalı hizmet alım sözleşmeleri kapsamında yükleniciler tarafından 4/12/2017 tarihi itibarıyla çalıştırılmakta olanlar;
+GEÇİCİ **MADDE 24-** İl özel idareleri ve belediyeler ile bağlı kuruluşlarında ve bunların üyesi olduğu mahalli idare birliklerinde, birlikte veya ayrı ayrı sermayesinin yarısından fazlası il özel idareleri, belediyeler ve bağlı kuruluşlarına ait şirketlerde 4734 sayılı Kanun ve diğer mevzuat hükümleri uyarınca personel çalıştırılmasına dayalı hizmet alım sözleşmeleri kapsamında yükleniciler tarafından 4/12/2017 tarihi itibarıyla çalıştırılmakta olanlar;
 a) 657 sayılı Kanunun 48 inci maddesinin (A) bendinin (1), (4), (5), (6), (7) ve
 (8) numaralı alt bentlerinde belirtilen şartları taşımak,
 b) Herhangi bir sosyal güvenlik kurumundan emeklilik, yaşlılık veya malullük aylığı almaya hak kazanmamış olmak,
@@ -731,7 +731,7 @@ Bu maddenin uygulanmasında, mahalli idare veya şirketlerinin bütçelerinden y
 Bu madde uyarınca hizmet alım sözleşmelerinin feshedilmiş veya iş eksilişi yapılmış sayılacağı tarihten itibaren bu madde kapsamında yer alan idarelerde ve söz konusu şirketlerde, ek 20 nci madde hükümleri saklı kalmak kaydıyla 4734 sayılı Kanun ve diğer mevzuat hükümleri çerçevesinde personel çalıştırılmasına dayalı hizmet alımı yapılamaz.
 Diğer kanunların bu maddeye aykırı hükümleri uygulanmaz.
 
-GEÇİCİ MADDE 25- Geçici 23 üncü ve geçici 24 üncü maddeler kapsamına giren hususlara ilişkin usul ve esaslar ile bu maddelerin uygulanmasında ortaya çıkacak tereddütleri giderecek idareler, Çalışma ve Sosyal Güvenlik Bakanlığı, İçişleri Bakanlığı ve Maliye Bakanlığınca müştereken belirlenir.”
+GEÇİCİ **MADDE 25-** Geçici 23 üncü ve geçici 24 üncü maddeler kapsamına giren hususlara ilişkin usul ve esaslar ile bu maddelerin uygulanmasında ortaya çıkacak tereddütleri giderecek idareler, Çalışma ve Sosyal Güvenlik Bakanlığı, İçişleri Bakanlığı ve Maliye Bakanlığınca müştereken belirlenir.”
 
 
 MADDE 128 – 3/6/2011 tarihli ve 633 sayılı Aile ve Sosyal Politikalar Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
@@ -759,7 +759,7 @@ Vakfın kuruluşu, Vakıf Resmi Senedinin hazırlanması ve Vakfın 22/11/2001 t
 Kamu kurum ve kuruluşları taşınır ve taşınmazlarını Vakfa hibe edebilir.
 (9) Bu maddede hüküm bulunmayan hallerde 4721 sayılı Kanun, 20/2/2008 tarihli ve 5737 sayılı Vakıflar Kanunu ve diğer mevzuat ile Vakıf Resmi Senedi hükümleri uygulanır.”
 
-MADDE 129- 3/6/2011 tarihli ve 639 sayılı Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
+MADDE 129- 3/6/2011 tarihli ve 639 sayılı **Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında** Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
 “Kadro ihdası
 
 EK MADDE 2- (1) Ekli (6) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Gıda, Tarım ve Hayvancılık Bakanlığına ait bölümüne eklenmiştir.”
@@ -778,7 +778,7 @@ MADDE 131 – 652 sayılı Kanun Hükmünde Kararnameye aşağıdaki geçici mad
 MADDE 13- (1) 20/7/2016 tarihli ve 2016/9064 sayılı Bakanlar Kurulu Kararı ile ilan edilen olağanüstü hal kapsamında yürürlüğe konulan kanun hükmünde kararnameler uyarınca Hazineye veya Vakıflar Genel Müdürlüğüne devredilen taşınmazlardan eğitim ve öğretim kurumu olarak veya öğrenci barınma hizmeti sunmak amacıyla kullanılacak olan binalarda, plan, yapı ruhsatı ve yapı kullanma izni aranmadan, çevre ve şehircilik il müdürlükleri, yapının proje müellifleri veya riskli yapıların tespiti için lisanslandırılan bürolar ya da üniversitelerin ilgili bölümlerince Deprem Bölgelerine Yapılacak Binalar Hakkında Yönetmeliğin mevcut binalara ilişkin gereklerinin karşılandığına dair düzenlenen teknik rapor üzerine kurum açılış işlemleri yapılır.
 (2) Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Bakanlık yetkilidir.
 
-GEÇİCİ MADDE 14- (1) Bu maddenin yürürlüğe girdiği tarihten önce Din Kültürü ve Ahlak Bilgisi Öğretmenliğine atanmış olanların, mezun oldukları fakülte veya bölüme bakılmaksızın atanmaya ilişkin diğer şartları taşımak kaydıyla atama işlemlerinin geçerliliği devam eder.”
+**GEÇİCİ MADDE 14-** (1) **Bu maddenin yürürlüğe girdiği tarihten önce Din Kültürü ve Ahlak Bilgisi Öğretmenliğine atanmış olanların, mezun oldukları fakülte veya bölüme bakılmaksızın atanmaya ilişkin diğer şartları taşımak kaydıyla atama işlemlerinin geçerliliği devam eder.”**
 
 MADDE 132- 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 42 nci maddesinin dördüncü ve onsekizinci fıkraları aşağıdaki şekilde değiştirilmiştir.
 “(4) İl ve ilçe sağlık müdürünün tabip olması; il sağlık müdürü, başkan, başkan yardımcısı ve hastane müdürünün kamuda veya özel sektörde en az beş yıl, uzman ve müdür yardımcısının en az üç yıl iş tecrübesine sahip olması gerekir.”
@@ -786,7 +786,7 @@ MADDE 132- 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı K
 
 MADDE 133- 663 sayılı Kanun Hükmünde Kararnamenin geçici 15 inci maddesinin dördüncü fıkrasında yer alan “üç ayı” ibaresi “beş ayı” şeklinde değiştirilmiştir.
 
-MADDE 134- 15/8/2017 tarihli ve 694 sayılı Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin eki (10) sayılı listede yer alan “Gençlik ve Spor Bakanlığı” ibaresi “Spor Genel Müdürlüğü” şeklinde ve “İlçe Gençlik Hizmetleri ve Spor Müdürü” ibaresi “Gençlik Hizmetleri ve Spor İlçe Müdürü” şeklinde değiştirilmiştir.
+**MADDE 134-** 15/8/2017 tarihli ve 694 sayılı Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin eki (10) sayılı listede yer alan “Gençlik ve Spor Bakanlığı” ibaresi “Spor Genel Müdürlüğü” şeklinde ve “İlçe Gençlik Hizmetleri ve Spor Müdürü” ibaresi “Gençlik Hizmetleri ve Spor İlçe Müdürü” şeklinde değiştirilmiştir.
 
 MADDE 135-
 (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinde;

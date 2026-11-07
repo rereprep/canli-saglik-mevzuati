@@ -16,7 +16,7 @@ Sayı : B.10.0.SGB.0.81.00.03 – 842-99 Konu : Karşılıksız kaynak aktarım�
 
 İlgi: 04.08.2010 tarih ve 8072 sayılı Makam Onayı.
 
-2005 yılında başlattığımız aile hekimliği uygulaması 2010 yılında tüm ülke genelinde uygulanmaya başlanacak olup, aile hekimliği uygulanmasına geçilen illerde İl Sağlık Müdürlüklerinin daha kaliteli ve verimli sağlık hizmeti sunabilmeleri hedeflenmektedir.
+2005 yılında başlattığımız aile hekimliği uygulaması 2010 yılında tüm ülke genelinde uygulanmaya başlanacak olup, aile hekimliği uygulanmasına **geçilen** illerde İl Sağlık Müdürlüklerinin daha kaliteli ve verimli sağlık hizmeti sunabilmeleri hedeflenmektedir.
 
 Bundan dolayı, 209 sayılı “Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun”un 07.03.2006 tarih ve 5471 sayılı Kanunla değişik 5 inci maddesinin 7 ncı fıkrasında “Döner Sermayeli İşletmelerin mali imkânı elverişli olanlarından, mali durumu yetersiz olanlara karşılıksız veya borç olarak kaynak aktarmaya Sağlık Bakanı yetkilidir.” hükmüne istinaden ilgide kayıtlı Makam Onayı ile Bakanlığımıza bağlı Ağız ve Diş Merkezleri ve Diş Hastanelerinin aylık gayrisafi hâsılattan aylık tahsil edilen tutarın yüzde 10’unu (%10) aile hekimliği uygulamasına geçilen illerde, her ay düzenli olarak İl Sağlık Müdürlüğü ihtiyaçlarında kullanılmak üzere karşılıksız kaynak aktarımı kapsamında aktarılması uygun görülmüş olup adı geçen aktarımların Ağustos ayından itibaren her ayın 15’ine kadar gerçekleştirilmesi hususunda bilgilerinizi ve gereğini önemle rica ederim.
 
@@ -38,11 +38,11 @@ Sayı : B.10.0.SGB.0.81.00.03 – 842-99 Konu : Karşılıksız kaynak aktarım�
 
 ### ÖRNEK AÇIKLAMA
 
-Aile hekimliğinin uygulandığı illerde Ağız ve Diş Sağlığı Merkezleri/Hastaneleri, Temmuz ayında gerçekleştirmiş olduğu tahsilâtın %10’ unu Ağustos ayının 15’ ine kadar İl Sağlık Müdürlüğüne aktaracaktır.
+**Aile hekimliğinin uygulandığı** illerde Ağız ve Diş Sağlığı Merkezleri/Hastaneleri, Temmuz ayında gerçekleştirmiş olduğu tahsilâtın %10’ unu Ağustos ayının 15’ ine kadar İl Sağlık Müdürlüğüne aktaracaktır.
 
 Örneğin Ağız ve Diş Sağlığı Merkezi/Hastanesi Temmuz ayında 500.000 TL tahsilât gerçekleştirmişse, gerçekleştirdiği tahsilâtın %10’u olan 50.000 TL’yi Ağustos ayının 15’ine kadar İl Sağlık Müdürlüğüne aktaracaktır.
 
-Karşılıksız Kaynak aktarma işlemi Genelge doğrultusunda her ay düzenli olarak gerçekleştirileceği de unutulmamalıdır.
+Karşılıksız Kaynak aktarma işlemi Genelge doğrultusunda **<i>her ay düzenli olarak</i>** gerçekleştirileceği de unutulmamalıdır.
 
 ---
 

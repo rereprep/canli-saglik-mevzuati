@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 26/3/2013 tarihli ve 28599 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinin 16 ncı maddesinin birinci fıkrasının birinci cümlesinde yer alan “Ocak, Haziran ve Eylül” ibaresi “Ocak ve Haziran” şeklinde değiştirilmiştir.
+**MADDE 1 –** 26/3/2013 tarihli ve 28599 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinin 16 ncı maddesinin birinci fıkrasının birinci cümlesinde yer alan “Ocak, Haziran ve Eylül” ibaresi “Ocak ve Haziran” şeklinde değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 18 inci maddesinin üçüncü fıkrasının ikinci cümlesi ile beşinci fıkrasının son cümlesinde yer alan “tercihleri alınarak” ibaresi yürürlükten kaldırılmıştır.
 

@@ -13,7 +13,7 @@ durum: "yürürlükte"
 ---
 
 Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü
-KANUN HÜKMÜNDE KARARNAME OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
+KANUN HÜKMÜNDE KARARNAME **OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME**
 Karar Sayısı: KHK/678 Olağanüstü hal kapsamında bazı düzenlemeler yapılması; Anayasanın 121 inci maddesi ile 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununun 4 üncü maddesine göre, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu’nca 31/10/2016 tarihinde kararlaştırılmıştır.
 BİRİNCİ BÖLÜM
 Güvenlik ile İlgili Düzenlemeler
@@ -29,41 +29,41 @@ Birinci fıkra kapsamında ilişiği kesilenlerin yerine aynı yerleşim birimin
 Birinci fıkranın (b) bendine göre ilişiği kesilen güvenlik korucularına, ilişiklerinin kesildiği tarihi takip eden aybaşından 50 yaşından gün alacakları tarihi takip eden aybaşına kadar olan ay sayısının, en son aldıkları aylık ücretleri ile ilişiklerinin kesildiği tarihi takip eden aybaşında bu Kanunun ek 16 ncı maddesi uyarınca bağlanan ilk aylıkları arasında oluşan farkın yarısı ile çarpımı sonucu bulunacak tutarda tazminat defaten ödenir. Verilecek tazminat tutarından herhangi bir vergi ve kesinti yapılmaz.”
 
 
-MADDE 2 – 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme Kanununun 2 nci maddesinin birinci fıkrasına “bekar odaları,” ibaresinden sonra gelmek üzere “günübirlik kiralanan evler,” ibaresi eklenmiştir.
+**MADDE 2 – 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme Kanununun 2 nci maddesinin birinci fıkrasına “bekar odaları,” ibaresinden sonra gelmek üzere “günübirlik kiralanan evler,” ibaresi eklenmiştir.**
 
 
-MADDE 3 – 1774 sayılı Kanunun 15 inci maddesinin birinci fıkrasında yer alan “2,” ibaresi yürürlükten kaldırılmıştır.
+**MADDE 3 – 1774 sayılı Kanunun 15 inci maddesinin birinci fıkrasında yer alan “2,” ibaresi yürürlükten kaldırılmıştır.**
 
 
-MADDE 4 – 1774 sayılı Kanunun ek 1 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiş ve aynı maddenin sonuna aşağıdaki fıkralar eklenmiştir.
+**MADDE 4 – 1774 sayılı Kanunun ek 1 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiş ve aynı maddenin sonuna aşağıdaki fıkralar eklenmiştir.**
 “Bu Kanunun 2 nci maddesinde sayılan özel veya resmi her türlü konaklama tesisleri tüm kayıtlarını bilgisayarda günü gününe tutmak, genel kolluk kuvvetlerinin bilgisayar terminallerine bağlanarak mevcut bilgi, belge ve kayıtları genel kolluk kuvvetlerine anlık olarak bildirmek zorundadırlar.
 İkinci fıkrada belirtilen genel kolluk kuvvetlerinin terminallerine bağlanmayanlara onbin Türk Lirası, anlık veri göndermeyen veya gerçeğe aykırı kayıt tutanlara beşbin Türk Lirası idari para cezası, mülki idare amirlerince verilir. Bu fiillerin tekrarı halinde işletme ruhsatları iptal edilir. Bu maddeye göre verilen idari para cezaları tebliğinden itibaren bir ay içinde ödenir.
 Bu Kanunun 2 nci maddesinde sayılan özel veya resmi her türlü konaklama tesisleri, ikinci fıkrada belirtilen genel kolluk kuvvetlerinin terminallerine bağlanmak için gerekli işlemleri bu maddenin yürürlüğe girdiği tarihten itibaren iki ay içinde tamamlar.
 Bu maddenin uygulanması ile görevi gereği bu verileri kullanan kamu personelinin denetimine ilişkin usul ve esaslar İçişleri Bakanlığı tarafından belirlenir.”
 
 
-MADDE 5 – 18/12/1981 tarihli ve 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanununun 27/A maddesinin birinci fıkrasına “Türk Silahlı Kuvvetlerine” ibaresinden sonra gelmek üzere “veya Sahil Güvenlik Komutanlığına” ibaresi eklenmiştir.
+**MADDE 5 –** 18/12/1981 tarihli ve 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanununun 27/A maddesinin birinci fıkrasına “Türk Silahlı Kuvvetlerine” ibaresinden sonra gelmek üzere “veya Sahil Güvenlik Komutanlığına” ibaresi eklenmiştir.
 
 
-MADDE 6 – 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun 4 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 6 –** 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun 4 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Türk Silahlı Kuvvetlerine, Sahil Güvenlik Komutanlığına, Jandarma Genel Komutanlığına ve Emniyet Genel Müdürlüğüne ait harekat, eğitim ve savunma amaçlı yapılar için bu Kanun hükümlerinden hangisinin ne şekilde uygulanacağı Millî Savunma Bakanlığı, İçişleri Bakanlığı ile Çevre ve Şehircilik Bakanlığı tarafından müştereken belirlenir.”
 
 
-MADDE 7 – 4/4/1990 tarihli ve 3621 sayılı Kıyı Kanununun 3 üncü maddesinin birinci fıkrasına “Türk Silahlı Kuvvetlerine” ibaresinden sonra gelmek üzere “veya Sahil Güvenlik Komutanlığına” ibaresi eklenmiştir.
+**MADDE 7 –** 4/4/1990 tarihli ve 3621 sayılı Kıyı Kanununun 3 üncü maddesinin **birinci fıkrasına “Türk Silahlı Kuvvetlerine” ibaresinden sonra gelmek üzere “veya Sahil Güvenlik Komutanlığına” ibaresi eklenmiştir.**
 
 
-MADDE 8 – 3621 sayılı Kanunun 6 ncı maddesinin dördüncü fıkrasının (a) bendine “Sahil Güvenlik Komutanlığının faaliyetlerinin özelliği gereği kıyıdan başka yerde yapılması mümkün olmayan Sahil Güvenlik Komutanlığı bağlısı gemi/bot karakolları ve destek birimi binaları,” ibaresi eklenmiştir.
+**MADDE 8 –** 3621 sayılı Kanunun 6 ncı maddesinin dördüncü fıkrasının (a) bendine “Sahil Güvenlik Komutanlığının faaliyetlerinin özelliği gereği kıyıdan başka yerde yapılması mümkün olmayan Sahil Güvenlik Komutanlığı bağlısı gemi/bot karakolları ve destek birimi binaları,” ibaresi eklenmiştir.
 
 
-MADDE 9 – 10/7/2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanununun 2 nci maddesinin ikinci fıkrasında yer alan “Türk Silahlı Kuvvetlerine” ibaresi “Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğüne” şeklinde değiştirilmiştir.
+**MADDE 9 –** 10/7/2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanununun 2 nci maddesinin ikinci fıkrasında yer alan “Türk Silahlı Kuvvetlerine” ibaresi “Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğüne” şeklinde değiştirilmiştir.
 
 
-MADDE 10 – 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 44 üncü maddesinin ikinci fıkrasında yer alan “Türk Silahlı Kuvvetleri (Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı dahil)” ibaresi “Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı” şeklinde değiştirilmiştir.
+**MADDE 10 – 10/12/2003** tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 44 üncü maddesinin ikinci fıkrasında yer alan “Türk Silahlı Kuvvetleri (Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı dahil)” ibaresi “Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı” şeklinde değiştirilmiştir.
 
 MADDE 11 – 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 75 inci maddesine aşağıdaki fıkra eklenmiştir.
 “Afet, kitlesel göç ve teröre maruz kalan yerleşim birimlerinin belediyeleri ile bu Kanunun 45 inci maddesinin ikinci fıkrası gereğince belediye başkanı veya başkan vekili görevlendirilen belediyelerde, vali veya belediye başkanı, aksayan belediye hizmetinin başka bir belediye tarafından yerine getirilmesini talep edebilir. Yardım istenilen belediye, meclis kararına gerek olmaksızın İçişleri Bakanının izniyle bu talebi yerine getirebilir.”
-İKİNCİ BÖLÜM
-Millî Savunma ile İlgili Düzenlemeler
+**İKİNCİ BÖLÜM**
+**Millî Savunma ile İlgili Düzenlemeler**
 
 MADDE 12 – 21/6/1927 tarihli ve 1111 sayılı Askerlik Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 54 – 15 Temmuz 2016 tarihinde gerçekleştirilen darbe teşebbüsü ve terör eylemi ile bu eylemin devamı niteliğindeki eylemlere, görevi olmadığı halde mukavemet ederken şehit olanların kendinden olma erkek çocukları ile aynı anne ve babadan kardeşlerinin tamamı hakkında, 10 uncu maddenin birinci fıkrasının (9) numaralı bendinin (b) alt bendinin ikinci paragrafında düzenlenen hükümler uygulanır. Bu maddenin uygulanmasına ilişkin usul ve esaslar Millî Savunma Bakanlığınca belirlenir.”
@@ -77,7 +77,7 @@ MADDE 14 – 926 sayılı Kanunun 15 inci maddesinin birinci fıkrasına aşağ�
 “Doğrudan Özel Kuvvetler Komutanlığında görev yapmak üzere subay nasbedilenler sınıflarına bakılmaksızın Özel Kuvvetler Komutanlığında eğitime tabi tutulurlar. Bu eğitimlerde sağlık nedenleri hariç olmak üzere başarı gösteremeyenlerin Türk Silahlı Kuvvetleri ile ilişikleri kesilir ve aldıkları aylıkları dışında Devletçe bunlara yapılan masraflar, kanuni faizleriyle birlikte kendilerinden tahsil olunur. Sağlık nedenleri ile başarı gösteremeyenler bir sonraki dönem eğitimine katılırlar. Bunlardan ikinci dönem eğitimde de başarı gösteremeyenler kuvvet komutanlıklarınca sınıf ve rütbelerine uygun görevlere atanırlar. Doğrudan Özel Kuvvetler Komutanlığında görev yapmak üzere subay nasbedilenlerden sonradan Özel Kuvvetler Komutanlığı dışına atananlar, ayrıca sınıflarına ilişkin eğitimlere tabi tutulurlar.”
 
 
-MADDE 15 – 926 sayılı Kanunun 68 inci maddesinin birinci fıkrasının (b) bendine aşağıdaki cümle ile dördüncü fıkrasına “atandıkları görevde bir yıllık” ibaresinden sonra gelmek üzere “(doğrudan Özel Kuvvetler Komutanlığı emrinde görev yapmak üzere astsubay nasbedilenler için iki yıl)” ibaresi ve aynı fıkraya aşağıdaki cümle eklenmiştir.
+**MADDE 15 –** 926 sayılı Kanunun 68 inci maddesinin birinci fıkrasının (b) bendine aşağıdaki cümle ile dördüncü fıkrasına “atandıkları görevde bir yıllık” ibaresinden sonra gelmek üzere “(doğrudan Özel Kuvvetler Komutanlığı emrinde görev yapmak üzere astsubay nasbedilenler için iki yıl)” ibaresi ve aynı fıkraya aşağıdaki cümle eklenmiştir.
 “Doğrudan Özel Kuvvetler Komutanlığı emrinde görev yapmak üzere astsubay nasbedilecek olanların yaş ve diğer giriş şartları Genelkurmay Başkanlığının görüşü alınarak Millî Savunma Bakanlığınca belirlenir.”
 “Doğrudan Özel Kuvvetler Komutanlığı emrinde görev yapmak üzere astsubay nasbedilenlerin deneme süresi iki yıldır.”
 
@@ -118,8 +118,8 @@ MADDE 20 – 21/4/2005 tarihli ve 5335 sayılı Bazı Kanun ve Kanun Hükmünde 
 
 MADDE 21 – 18/10/2016 tarihli ve 6749 sayılı Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 3 üncü maddesinin üçüncü fıkrasına aşağıdaki cümle eklenmiştir.
 “Ayrıca Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesi daire başkanı ve üyeleri ile askeri hâkimlerin askeri rütbeleri, mahkûmiyet kararı aranmaksızın alınır.”
-ÜÇÜNCÜ BÖLÜM
-Çeşitli ve Son Hükümler
+**ÜÇÜNCÜ BÖLÜM**
+**Çeşitli ve Son Hükümler**
 
 MADDE 22 – 4/6/1937 tarihli ve 3201 sayılı Emniyet Teşkilat Kanununa aşağıdaki ek madde eklenmiştir.
 “EK
@@ -180,7 +180,7 @@ MADDE 29 – 4706 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 Yatırımın tamamlanması sonrasında irtifak hakkı ve/veya kullanma izni Ulaştırma, Denizcilik ve Haberleşme Bakanlığının uygun görüşü ve Bakanlığın izni ile devredilebilir.
 Bu Kanunun ek 2 nci maddesinin beşinci fıkrası kapsamında yatırımcılardan 18/4/2013 tarihinden sonraki dönem için tahsil edilmiş olan ecrimisiller alınacak hasılat paylarından mahsup edilir.”
 
-MADDE 30 – 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 11 inci maddesinin birinci fıkrasına aşağıdaki bent ve aynı maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 30 – 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 11 inci maddesinin birinci fıkrasına aşağıdaki bent ve aynı maddeye aşağıdaki fıkra eklenmiştir.**
 “g) Terör örgütlerine iltisakı yahut bunlarla irtibatı olduğu, Millî İstihbarat Teşkilatı veya Emniyet Genel Müdürlüğü tarafından bildirilen gerçek ve tüzel kişiler.”
 “Birinci fıkranın (g) bendi kapsamındaki bildirimlere ilişkin usul ve esaslar Bakanlar Kurulunca belirlenir. Söz konusu bent kapsamında olduğu tespit edilen istekliler ihale dışı bırakılır, ancak bunların teminatları hakkında dördüncü fıkrada yer alan hüküm uygulanmaz.”
 
@@ -218,11 +218,11 @@ MADDE 35 – 18/10/2012 tarihli ve 6356 sayılı Sendikalar ve Toplu İş Sözle
 “(1) Karar verilmiş veya başlanmış olan kanuni bir grev veya lokavt; genel sağlığı veya millî güvenliği, büyükşehir belediyelerinin şehir içi toplu taşıma hizmetlerini, bankacılık hizmetlerinde ekonomik veya finansal istikrarı bozucu nitelikte ise Bakanlar Kurulu bu uyuşmazlıkta grev ve lokavtı altmış gün süre ile erteleyebilir. Erteleme süresi, kararın yayımı tarihinde başlar.”
 
 MADDE 36 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 16 ncı maddesinin birinci fıkrasının ikinci cümlesine “Ancak,” ibaresinden sonra gelmek üzere “bu kişilere kayyım sıfatıyla Tasarruf Mevduatı Sigorta Fonu tarafından yönetilen şirketlerde yapılacak görevlendirmeler dolayısıyla Fon Kurulunca belirlenecek tutarda yapılacak ödemeler ile” ibaresi eklenmiştir.
-TMSF’nin kayyım olarak atandığı şirketlerin kefaleti
+**TMSF’nin kayyım olarak atandığı şirketlerin kefaleti**
 
-MADDE 37 – (1) Tasarruf Mevduatı Sigorta Fonunun kayyım olarak atandığı şirketlerde, şirketin doğrudan veya dolaylı borçlarının ödenmesi için öncelikle şirket lehine kefil olan ortak, yönetici veya bunlarla bağlantılı üçüncü gerçek veya tüzel kişilerin malvarlığına müracaat edilir. Tasarruf Mevduatı Sigorta Fonu, bu kapsamda şirket borçlarının ödenmesi ya da şirket sermaye ihtiyacının karşılanmasını teminen, kefillerin varlıklarının doğrudan veya ticari ve iktisadi bütünlük yoluyla satılması konusunda yetkilidir.
-(2) Tasarruf Mevduatı Sigorta Fonunun kayyım olarak atandığı şirketlerin, müşterek müteselsil borçluluğu kapsayan kefaletler dahil, kefil olduğu borçlarda ise kayyımlık kararının devamı süresince borcun öncelikle asıl alacaklıdan ya da diğer kefillerden tahsili yoluna gidilir.
+**MADDE 37 – (1) Tasarruf Mevduatı Sigorta Fonunun kayyım olarak atandığı şirketlerde, şirketin doğrudan veya dolaylı borçlarının ödenmesi için öncelikle şirket lehine kefil olan ortak, yönetici veya bunlarla bağlantılı üçüncü gerçek veya tüzel kişilerin malvarlığına müracaat edilir. Tasarruf Mevduatı Sigorta Fonu, bu kapsamda şirket borçlarının ödenmesi ya da şirket sermaye ihtiyacının karşılanmasını teminen, kefillerin varlıklarının doğrudan veya ticari ve iktisadi bütünlük yoluyla satılması konusunda yetkilidir.**
+**(2) Tasarruf Mevduatı Sigorta Fonunun kayyım olarak atandığı şirketlerin, müşterek müteselsil borçluluğu kapsayan kefaletler dahil, kefil olduğu borçlarda ise kayyımlık kararının devamı süresince borcun öncelikle asıl alacaklıdan ya da diğer kefillerden tahsili yoluna gidilir.**
 
-MADDE 38 – Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.
+**MADDE 38 – Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.**
 
-MADDE 39 – Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 39 – Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.**

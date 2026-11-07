@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/02/20240203-3.htm"
 durum: "yürürlükte"
 ---
 
-KANUN İŞSİZLİK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN İŞSİZLİK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7495 Kabul Tarihi: 25/1/2024
 
 MADDE 1- 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanununun ek 2 nci maddesinin birinci fıkrasına “bölgesel kriz” ibaresinden sonra gelmek üzere “, genel salgın” ibaresi eklenmiş, üçüncü fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiş, dördüncü fıkrasına ikinci cümlesinden sonra gelmek üzere aşağıdaki cümleler eklenmiş, dördüncü fıkrasının son cümlesi aşağıdaki şekilde değiştirilmiş ve yedinci fıkrasına aşağıdaki cümle eklenmiştir.

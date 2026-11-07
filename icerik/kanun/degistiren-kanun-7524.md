@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/08/20240802-2.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-VERGİ KANUNLARI İLE BAZI KANUNLARDA VE 375 SAYILI
-KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7524 Kabul Tarihi: 28/7/2024
+**KANUN**
+**VERGİ KANUNLARI İLE BAZI KANUNLARDA VE 375 SAYILI**
+**KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7524** Kabul Tarihi: 28/7/2024
 
 MADDE 1- 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 22/A maddesinin birinci fıkrasının (1) numaralı bendinde yer alan “her türlü ödemelerde,” ibaresi “her türlü ödemelerde (mahkeme kararları ve icra dairelerinin ödeme veya icra emirleri üzerine yapılacak ödemeler dâhil),” şeklinde değiştirilmiştir.
 
@@ -60,7 +60,7 @@ Bu madde hükmü kıymetli maden ile olan senetli veya senetsiz alacaklar ve bor
 MADDE 9- 213 sayılı Kanunun 344 üncü maddesine aşağıdaki fıkra eklenmiştir.
 “Vergi kanunlarına göre mükellefiyet tesis ettirilmesi gerektiği halde bu zorunluluğa uyulmaksızın vergi dairesinin ıttılaı dışında ticari, zirai veya mesleki faaliyette bulunmak suretiyle vergi ziyaına sebebiyet verilmesi durumunda, birinci, ikinci ve üçüncü fıkralara göre kesilecek vergi ziyaı cezası yüzde elli artırılarak uygulanır. Aynı vergi türü ve dönemine ilişkin daha sonra yapılacak tarhiyatlar nedeniyle kesilecek vergi ziyaı cezalarına da aynı artırım hükmü tatbik edilir.”
 
-MADDE 10- 213 sayılı Kanunun 352 nci maddesinin birinci fıkrasının birinci cümlesinde yer alan “bağlı cetvele” ibaresi “bağlı 1 sayılı cetvele” şeklinde, ikinci cümlesinde yer alan “bağlı cetvelde” ibaresi “bağlı 1 sayılı cetvelde” şeklinde ve Kanuna bağlı “Usulsüzlük Cezalarına Ait Cetvel” başlığı “1 Sayılı Usulsüzlük Cezalarına Ait Cetvel” şeklinde, mevcut Usulsüzlük Cezalarına Ait Cetveldeki miktarlar aşağıdaki şekilde değiştirilmiştir.
+**MADDE 10-** 213 sayılı Kanunun 352 nci maddesinin birinci fıkrasının birinci cümlesinde yer alan “bağlı cetvele” ibaresi “bağlı 1 sayılı cetvele” şeklinde, ikinci cümlesinde yer alan “bağlı cetvelde” ibaresi “bağlı 1 sayılı cetvelde” şeklinde ve Kanuna bağlı “Usulsüzlük Cezalarına Ait Cetvel” başlığı “1 Sayılı Usulsüzlük Cezalarına Ait Cetvel” şeklinde, mevcut Usulsüzlük Cezalarına Ait Cetveldeki miktarlar aşağıdaki şekilde değiştirilmiştir.
 Birinci derece İkinci derece usulsüzlükler için usulsüzlükler için “Mükellef Grupları (TL) (TL)
 1. Sermaye şirketleri 20.000 10.000
 2. Sermaye şirketleri dışında kalan birinci sınıf tüccar ve serbest meslek erbabı 10.000 5.000
@@ -69,7 +69,7 @@ Birinci derece İkinci derece usulsüzlükler için usulsüzlükler için “Mü
 5. Kazancı basit usulde tespit edilenler 2.250 1.500
 6. Gelir Vergisinden muaf esnaf 1.500 1.000”
 
-MADDE 11- 213 sayılı Kanunun 353 üncü maddesinin birinci fıkrasının (1) numaralı bendinde yer alan “1.000 Türk lirasından aşağı olmamak üzere” ibaresi “bir takvim yılı içinde ilk tespitte 10.000 Türk lirasından, sonraki tespitlerde Kanuna bağlı 2 sayılı cetvelde yer alan tutarlardan aşağı olmamak üzere” şeklinde, “500.000” ibaresi “10 milyon” şeklinde değiştirilmiş, aynı bendin birinci paragrafına aşağıdaki cümleler eklenmiş, (2) numaralı bendinde yer alan “1.000 Türk lirası” ibaresi “bir takvim yılında ilk tespitte 10.000 Türk lirası, sonraki tespitlerde Kanuna bağlı 2 sayılı cetvelde yer alan tutarlarda” şeklinde, “50.000” ibaresi “1 milyon” şeklinde, “500.000” ibaresi “10 milyon” şeklinde değiştirilmiş, aynı bendin birinci paragrafına aşağıdaki cümleler eklenmiş, (3) numaralı bendi aşağıdaki şekilde, (6) numaralı bendinde yer alan “250.000.000 lira” ibaresi “65.000 Türk lirası” şeklinde, (10) numaralı bendinde yer alan “75.000.000 lira” ibaresi “15.000 Türk lirası” şeklinde değiştirilmiş ve Kanuna aşağıdaki 2 sayılı cetvel eklenmiştir.
+**MADDE 11-** 213 sayılı Kanunun 353 üncü maddesinin birinci fıkrasının (1) numaralı bendinde yer alan “1.000 Türk lirasından aşağı olmamak üzere” ibaresi “bir takvim yılı içinde ilk tespitte 10.000 Türk lirasından, sonraki tespitlerde Kanuna bağlı 2 sayılı cetvelde yer alan tutarlardan aşağı olmamak üzere” şeklinde, “500.000” ibaresi “10 milyon” şeklinde değiştirilmiş, aynı bendin birinci paragrafına aşağıdaki cümleler eklenmiş, (2) numaralı bendinde yer alan “1.000 Türk lirası” ibaresi “bir takvim yılında ilk tespitte 10.000 Türk lirası, sonraki tespitlerde Kanuna bağlı 2 sayılı cetvelde yer alan tutarlarda” şeklinde, “50.000” ibaresi “1 milyon” şeklinde, “500.000” ibaresi “10 milyon” şeklinde değiştirilmiş, aynı bendin birinci paragrafına aşağıdaki cümleler eklenmiş, (3) numaralı bendi aşağıdaki şekilde, (6) numaralı bendinde yer alan “250.000.000 lira” ibaresi “65.000 Türk lirası” şeklinde, (10) numaralı bendinde yer alan “75.000.000 lira” ibaresi “15.000 Türk lirası” şeklinde değiştirilmiş ve Kanuna aşağıdaki 2 sayılı cetvel eklenmiştir.
 “Tek tespitte aynı neviden birden fazla belgenin düzenlenmediğinin tespit edilmesi durumunda her bir belge için ayrı ayrı ceza kesilir ancak bu tespit, bu bent uyarınca kesilecek ceza uygulamasında, Kanuna bağlı 2 sayılı cetvelde yer alan tespit sayısının belirlenmesinde bir adet tespit olarak değerlendirilir. Şu kadar ki, bu bentte yer alan özel usulsüzlük cezasına tabi fiillerin, belgeleri almak zorunda olanlar tarafından, idarenin bilgisine girmeden önce belgenin düzenlenmesi gereken süreyi takip eden beş iş günü içerisinde idareye bildirilmesi durumunda, alıcı adına özel usulsüzlük cezası kesilmez. Bu bent kapsamındaki belgelerin düzenlenmediğinin belgeyi almak zorunda olanlar tarafından, idarenin bilgisine girmeden önce belgenin düzenlenmesi gereken süreyi takip eden beş iş günü içerisinde idareye bildirildiği durumlarda, belgeleri düzenlemek zorunda olanlar adına bu bentte yer alan özel usulsüzlük cezası üç kat olarak uygulanır. Bu bent kapsamındaki belgeler yerine bu Kanun kapsamında olmayan belgelerin düzenlenmesi halinde, belgeleri düzenlemek zorunda olanlar adına bu bentte yer alan özel usulsüzlük cezası iki kat olarak uygulanır. Bu bent kapsamındaki belgelerin yerine bu Kanun kapsamında olmayan belgelerin düzenlendiğinin belgeyi almak zorunda olanlar tarafından beş iş günü içerisinde idareye bildirildiği durumlarda, söz konusu belgeleri düzenleyenler adına bu bentte yer alan cezalar altı kat olarak uygulanır.”
 “Tek tespitte aynı neviden birden fazla belgenin düzenlenmediğinin tespit edilmesi durumunda her bir belge için ayrı ayrı ceza kesilir ancak bu tespit, bu bent uyarınca kesilecek ceza uygulamasında, Kanuna bağlı 2 sayılı cetvelde yer alan tespit sayısının belirlenmesinde bir adet tespit olarak değerlendirilir.
 Bu bent kapsamındaki belgelerin düzenlenmediğinin belge muhteviyatı işlemin muhatapları tarafından, idarenin bilgisine girmeden önce belgenin düzenlenmesi gereken süreyi takip eden beş iş günü içerisinde idareye bildirilmesi durumunda, belgeleri düzenlemek zorunda olanlar adına bu bentte yer alan özel usulsüzlük cezası üç kat olarak uygulanır. Bu bent kapsamındaki belgeler yerine bu Kanun kapsamında olmayan belgelerin düzenlenmesi halinde, belgeleri düzenlemek zorunda olanlar adına bu bentte yer alan özel usulsüzlük cezası iki kat olarak uygulanır. Bu bent kapsamındaki belgelerin yerine bu Kanun kapsamında olmayan belgelerin düzenlendiğinin belge muhteviyatı işlemin muhatapları tarafından beş iş günü içerisinde idareye bildirildiği durumlarda, söz konusu belgeleri düzenleyenler adına bu bentte yer alan cezalar altı kat olarak uygulanır.”
@@ -186,9 +186,9 @@ c) 16/12/1999 tarihli ve 4490 sayılı Türk Uluslararası Gemi Sicili Kanunu il
 (7) Birinci fıkrada yer alan oranı; sektörler, faaliyet konusu, iş kolları ya da üretim alanları itibarıyla ayrı ayrı ya da birlikte sıfıra kadar indirmeye veya bir katına kadar artırmaya Cumhurbaşkanı, maddenin uygulamasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı yetkilidir.”
 
 MADDE 37- 5520 sayılı Kanunun dördüncü kısım başlığı “Ortak Hükümler” şeklinde değiştirilmiş, Kanuna 36 ncı maddesinden sonra gelmek üzere kısım ve bölüm başlığı ile birlikte aşağıdaki ek madde eklenmiştir.
-“BEŞİNCİ KISIM Yerel ve Küresel Asgari Tamamlayıcı Kurumlar Vergisi ve Geçici Maddeler
-BİRİNCİ BÖLÜM
-Verginin Konusu, Tanımlar, Muafiyet ve İstisnalar Verginin konusu
+**“BEŞİNCİ KISIM Yerel ve Küresel Asgari Tamamlayıcı Kurumlar Vergisi ve Geçici Maddeler**
+**BİRİNCİ BÖLÜM**
+**Verginin Konusu, Tanımlar, Muafiyet ve İstisnalar** Verginin konusu
 
 EK MADDE 1- (1) Nihai ana işletmesinin konsolide finansal tablosundaki yıllık konsolide hasılatı, gelirin raporlandığı hesap döneminden önceki dört hesap döneminin en az ikisinde 750 milyon avro karşılığı Türk lirası sınırını geçen çok uluslu işletme gruplarının bağlı işletmelerinin ilgili hesap dönemindeki kazançları, yerel ve küresel asgari tamamlayıcı kurumlar vergisine tabidir.
 (2) Hesap döneminin on iki aydan farklı olması durumunda, hesaplanan konsolide hasılatın bir yıla iblağ edilmesi ile tespit olunan tutar, birinci fıkra kapsamındaki hasılat sınırının tespitinde dikkate alınır.”
@@ -257,7 +257,7 @@ d) Uluslararası gemi işletmeciliği işinin ayrılmaz bir parçası olarak ger
 (8) Yerel ve küresel asgari tamamlayıcı kurumlar vergisinden istisna edilen kazançlara ilişkin giderler veya istisna kapsamındaki faaliyetlerden doğan zararlar, istisna dışı kazançlardan indirim konusu yapılamaz.”
 
 MADDE 40- 5520 sayılı Kanuna bölüm başlığı ile birlikte aşağıdaki ek madde eklenmiştir.
-“İKİNCİ BÖLÜM Vergi Yükünün Hesaplanması, Asgari Tamamlayıcı Kurumlar Vergisi Matrahı, Oranı ve Hesabı Vergi yükünün tespitinde düzeltilmiş kapsanan vergilerin hesaplanması
+**“İKİNCİ BÖLÜM Vergi Yükünün Hesaplanması, Asgari Tamamlayıcı Kurumlar Vergisi Matrahı, Oranı ve Hesabı** Vergi yükünün tespitinde düzeltilmiş kapsanan vergilerin hesaplanması
 
 EK MADDE 4- (1) Net ülkesel bazlı kazanca sahip bir çok uluslu işletme grubunun vergi yükü, her hesap dönemi için ülkesel bazda ayrı ayrı hesaplanır.
 (2) Çok uluslu işletme grubunun ülkesel bazlı vergi yükü hesaplamasında, o ülkede bulunan bağlı işletmelerin üçüncü fıkra uyarınca hesaplanan düzeltilmiş kapsanan vergileri dikkate alınır.
@@ -360,7 +360,7 @@ e) Bir bağlı işletme tarafından ilgili hesap döneminin düzeltilmiş kapsan
 (10) Azami altı farklı ülkede bağlı işletmesi bulunan ve maddi duran varlıklarının toplam değeri en yüksek olan ülke dışındaki diğer ülkelerde toplam maddi duran varlıklarının net defter değeri 50 milyon avro karşılığı Türk lirasını aşmayan çok uluslu işletme grupları için yetersiz vergilendirilen ödemeler esası kapsamında küresel asgari tamamlayıcı kurumlar vergisi beş hesap dönemi boyunca sıfır olarak kabul edilir.”
 
 MADDE 43- 5520 sayılı Kanuna bölüm başlığı ile birlikte aşağıdaki ek madde eklenmiştir.
-“ÜÇÜNCÜ BÖLÜM Küresel Asgari Tamamlayıcı Kurumlar Vergisinin Mükellefi, Vergilendirme Dönemi, Beyanı, Tarhı ve Ödenmesi Küresel asgari tamamlayıcı kurumlar vergisinin mükellefi
+**“ÜÇÜNCÜ BÖLÜM Küresel Asgari Tamamlayıcı Kurumlar Vergisinin Mükellefi, Vergilendirme Dönemi, Beyanı, Tarhı ve Ödenmesi** Küresel asgari tamamlayıcı kurumlar vergisinin mükellefi
 
 EK MADDE 7- (1) Küresel asgari tamamlayıcı kurumlar vergisi, gelirin dahil edilmesi esası ve yetersiz vergilendirilmiş ödemeler esasına göre belirlenir.
 (2) Gelirin dahil edilmesi esası kapsamında küresel asgari tamamlayıcı kurumlar vergisinin mükellefi, bu Kısmın ek 1 inci maddesi kapsamındaki çok uluslu işletme gruplarına bağlı ve diğer ülkelerde yerleşik olan işletmelerin; Türkiye’de yerleşik nihai ana işletmesi, ara ana işletmesi veya kısmen sahip olunan ana işletmesidir.
@@ -386,7 +386,7 @@ EK MADDE 8- (1) Küresel asgari tamamlayıcı kurumlar vergisinin vergilendirme 
 (6) Cumhurbaşkanı, nitelikli gelirin dahil edilmesi esası ile nitelikli yetersiz vergilendirilen ödemeler esası kapsamında küresel asgari tamamlayıcı kurumlar vergisinin uygulandığı yerler ile nitelikli yerel asgari tamamlayıcı kurumlar vergisinin uygulandığı yerleri belirlemeye; Hazine ve Maliye Bakanlığı, üçüncü fıkra kapsamında verilen beyanname ile küresel asgari tamamlayıcı kurumlar vergisi bilgi beyannamesinin ve eklerinin şekil ve muhtevasını tespit etmeye, küresel asgari tamamlayıcı kurumlar vergisi bilgi beyannamesindeki bilgilerin diğer ülkelerle paylaşılmasındaki sınırları belirlemeye, faaliyetin gereğini göz önünde tutarak mükellefin müracaatı üzerine veya re’sen tarh yerini tayin etmeye, verginin beyan ve ödeme zamanı ile tahsiline ilişkin usul ve esasları belirlemeye, bildirim ve belgelendirme yükümlülüğü getirmeye ve buna ilişkin usul ve esasları belirlemeye yetkilidir.”
 
 MADDE 45- 5520 sayılı Kanuna bölüm başlığı ile birlikte aşağıdaki ek madde eklenmiştir.
-“DÖRDÜNCÜ BÖLÜM Yerel Asgari Tamamlayıcı Kurumlar Vergisinin Mükellefi, Vergilendirme Dönemi, Beyanı, Tarhı ve Ödenmesi Yerel asgari tamamlayıcı kurumlar vergisinin mükellefi
+**“DÖRDÜNCÜ BÖLÜM Yerel Asgari Tamamlayıcı Kurumlar Vergisinin Mükellefi, Vergilendirme Dönemi, Beyanı, Tarhı ve Ödenmesi** Yerel asgari tamamlayıcı kurumlar vergisinin mükellefi
 
 EK MADDE 9- (1) Yerel asgari tamamlayıcı kurumlar vergisinin mükellefi, ek 1 inci madde kapsamındaki çok uluslu işletme gruplarına bağlı ve Türkiye’de yerleşik olan; bağlı işletmeler ve iş ortaklıklarıdır.”
 
@@ -401,7 +401,7 @@ EK MADDE 10- (1) Yerel asgari tamamlayıcı kurumlar vergisinin vergilendirme d�
 (6) Hazine ve Maliye Bakanlığı, üçüncü fıkra kapsamında verilen beyannamenin ve eklerinin şekil ve muhtevasını belirlemeye, faaliyetin gereğini göz önünde tutarak mükellefin müracaatı üzerine veya re’sen tarh yerini tayin etmeye, verginin beyan ve ödeme zamanı ile tahsiline ilişkin usul ve esasları belirlemeye, bildirim ve belgelendirme yükümlülüğü getirmeye ve buna ilişkin usul ve esasları belirlemeye yetkilidir.”
 
 MADDE 47- 5520 sayılı Kanuna bölüm başlığı ile birlikte aşağıdaki ek madde eklenmiştir.
-“BEŞİNCİ BÖLÜM Diğer Hükümler Birleşme, bölünme ve pay devirleri
+**“BEŞİNCİ BÖLÜM Diğer Hükümler** Birleşme, bölünme ve pay devirleri
 
 EK MADDE 11- (1) İki veya daha fazla grubun, gelirin raporlandığı hesap döneminden önceki dört hesap döneminin herhangi birinde, tek bir grup oluşturmak üzere birleşmeleri ve birleşen grupların, birleşmeden önceki dört hesap döneminden en az birinde konsolide finansal tablolarında yer alan hasılatları toplamının 750 milyon avro karşılığı Türk lirasını aşması durumunda, birleşme sonucu ortaya çıkan yeni çok uluslu işletme grubunun o hesap dönemi için ek 1 inci madde kapsamındaki hasılat sınırını aştığı kabul edilir.
 (2) Herhangi bir gruba bağlı olmayan bir işletmenin, gelirin raporlandığı hesap döneminde bir işletme veya grupla birleşmesi durumunda, birleşen veya birleşilen işletme veya birleşilen grubun, birleşmeden önceki dört hesap döneminden en az birindeki finansal veya konsolide finansal tablolarında yer alan hasılatları toplamının 750 milyon avro karşılığı Türk lirasını aşması durumunda, birleşilen veya ortaya çıkan çok uluslu işletme grubunun ilgili hesap dönemi için ek 1 inci maddedeki hasılat sınırını aştığı kabul edilir.

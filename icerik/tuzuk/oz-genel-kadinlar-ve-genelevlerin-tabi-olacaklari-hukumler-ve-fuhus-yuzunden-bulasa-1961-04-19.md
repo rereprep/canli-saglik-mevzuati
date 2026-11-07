@@ -17,25 +17,25 @@ durum: "yürürlükte"
 
 ### HASTALIKLARLA MÜCADELE TÜZÜĞÜ[1]
 
-Bakanlar Kurulu Kararının Tarihi : 30.3.1961 No : 5/984
+**Bakanlar Kurulu Kararının Tarihi : 30.3.1961 No : 5/984**
 
-Dayandığı Kanunun Tarihi : 24.4.1930 No : 1593
+**Dayandığı Kanunun Tarihi : 24.4.1930 No : 1593**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 19.4.1961 No : 10786
+**Yayımlandığı Resmî Gazetenin Tarihi : 19.4.1961 No : 10786**
 
-Yayımlandığı Düsturun Tertibi : 4 Cildi : 1 Sayfa : 2444
+**Yayımlandığı Düsturun Tertibi : 4 Cildi : 1 Sayfa : 2444**
 
 ### BİRİNCİ KISIM
 
-Teşkilat
+**Teşkilat**
 
-Komisyon ve kurullar:
+**Komisyon ve kurullar:**
 
 **Madde 1 –** Fuhuşu murakabe etmek, fuhuş sebebiyle bulaşan zührevi hastalıkların yayılmasına ve bu yüzden amme nizamının bozulmasına mani olmak üzere biri "Zührevi Hastalıklar ve Fuhuşla Mücadele Komisyonları" diğeri "Zührevi Hastalıklar ve Fuhuşla Mücadele Komisyonlarına Yardım Kurulları" olmak üzere iki teşekkül kurulmuştur.
 
 ### ZÜHREVİ HASTALIKLAR VE FUHUŞLA MÜCADELE KOMİSYONLARI
 
-Teşkil şartları:
+**Teşkil şartları:**
 
 **Madde 2 –** Bir yerde, zührevi hastalıklar ve fuhuşla mücadele komisyonu kurulabilmesi için aşağıdaki şartların bulunması lazımdır:
 
@@ -47,7 +47,7 @@ c) Belediye teşkilatı bulunmak.
 
 **Madde 3 –** Bir belediye sınırı içersinde birden fazla kazanın bulunması halinde, zührevi hastalıklarla mücadele komisyonunun her kazada kurulması mecburi olmayıp vilayet makamının uygun göreceği şekle göre bir veya birkaç komisyon teşkil olunabilir.
 
-Komisyonun vazifesi:
+**Komisyonun vazifesi:**
 
 **Madde 4 –** Komisyonun vazifesi:
 
@@ -57,11 +57,11 @@ b) Zührevi hastalıkların ve fuhuşun zararlarını ve yayılmasını önleme�
 
 c) Teşkilatın hesaplarını denetlemek.
 
-Komisyonun kısımları:
+**Komisyonun kısımları:**
 
 **Madde 5 –** Zührevi hastalıklar ve fuhuşla mücadele komisyonları; idari, sağlık ve icra işleriyle görevli olmak üzere üç kısma ayrılır.
 
-İdare kısmı:
+**İdare kısmı:**
 
 **Madde 6 –** (Değişik: 31.1.1973 - 7/5786 K.)
 
@@ -73,7 +73,7 @@ Komisyonun idare kısmı:
 
 Komisyona, illerde; sağlık ve sosyal yardım müdürü veya görevlendireceği yardımcısı, ilçelerde; hükümet tabibi veya sağlık ocağı tabibi, bunların bulunmaması halinde belediye tabibi başkanlık eder.
 
-Sağlık kısmı:
+**Sağlık kısmı:**
 
 **Madde 7 –** Komisyonun sağlık kısmı; genel kadınlarla, fuhuşu sanat ve geçim vasıtası yapan 23 üncü maddedeki kadınların sağlık muayenesi ve genel evlerin sağlık teftişi ve hastalıkların tedavisi için yeteri kadar tabip, hasta bakıcı, lüzumu halinde katip ve odacıdan ibarettir.
 
@@ -83,11 +83,11 @@ Muayene işi az olan yerlerde Hükümet veya belediye tabipleri bu işi sıra il
 
 Sağlık kısmının görevlerinden; muayene, tedavi ve koruma işlerinin yürütülmesinden muayene memuru tabipler, baştabipler, sağlık ve sosyal yardım müdürleri müteselsilen sorumludurlar.
 
-İcra kısmı:
+**İcra kısmı:**
 
 **Madde 8 –** Komisyonun icra kısmı; genel kadınlarla, fuhuşu sanat ve geçim vasıtası yapan 23 üncü maddedeki kadınların ve genel evlerin tesbit ve tescili, gizli fahişelerle gizli fuhuş yapılan yerlerin meydana çıkarılması, muayenesine lüzum görülen şahısların getirilmesi, kapanması gereken yerlerin kapatılması ve zührevi hastalıklar ve fuhuşla mücadele komisyonları tarafından alınan kararların uygulanması ve yürütülmesi için mahallin en yüksek polis amirinin gözetim ve sorumluluğu altında yeteri kadar ahlak zabıtası memuru veya sivil polisle, katip ve dosya memurlarından ibarettir.
 
-Komisyon toplantıları:
+**Komisyon toplantıları:**
 
 **Madde 9 –** Komisyon en az haftada bir defa başkanın davetiyle toplanır. Kararlar çoğunlukla verilir. Oyların eşitliği halinde başkanın bulunduğu tarafın oyuna itibar olunur. Kararlar, vilayetlerde valinin, kazalarda kaymakamın onayı ile tamam olur.
 
@@ -95,11 +95,11 @@ Kaymakam tarafından onaylanmayan kararlar üzerinde komisyonca israr edildiği 
 
 Valiler tarafından onaylanmıyan kararlar üzerinde komisyonca israr edildiği takdirde, vali tarafından sebeplerinin beyanı ile keyfiyet Sağlık ve Sosyal Yardım Bakanlığına bildirilir. Bakanlığın kararı yerine getirilir.
 
-Komisyon kararları:
+**Komisyon kararları:**
 
 **Madde 10 –** Komisyon kararları hususi bir deftere özet olarak yazılıp her toplantı sonunda üyeler tarafından imzalanır. Kararlara vali veya kaymakam tarafından onaylandıktan sonra komisyon üyeleri, kararların kendilerini ilgilendiren kısımlarını gelecek toplantıya kadar yapmak ve yapamadıklarının sebeplerini bildirmek mecburiyetindedirler.
 
-Valinin vazifeleri:
+**Valinin vazifeleri:**
 
 **Madde 11 –** Valiler, vilayet merkezlerinde ve kazalarda zührevi hastalıklar ve fuhuşla mücadele komisyonunun kurulmasını ve üyelerinden bazılarının ayrılmaları halinde bu Tüzüğe göre tamamlanmasını sağlamak, komisyonun muntazam toplantısını, üyelerin devamını ve işin intizam ile yürütülmesini denetlemekle mükelleftirler.
 
@@ -109,13 +109,13 @@ Kaymakamlar kazalarındaki komisyonların denetlenmesinde valilerin haiz oldukla
 
 ### KOMİSYONLARINA YARDIM KURULLARI
 
-Teşkil şartları:
+**Teşkil şartları:**
 
 **Madde 12 –** İkinci maddeye göre, zührevi hastalıklar ve fuhuşla mücadele komisyonunun kurulmasına imkan olmayan kaza merkezlerinde, en yakın komisyona bağlı olmak üzere, kaymakamın başkanlığında en büyük zabıta amirleri ve varsa resmi veya hususi tabibten ve belediyece seçilen bir zattan mürekkep (Zührevi hastalıklar ve fuhuşla mücadele komisyonlarına yardım kurulu) teşkil olunur.
 
 Bu kurullar lüzumu halinde kaymakamın daveti üzerinde toplanır.
 
-Vazifeleri:
+**Vazifeleri:**
 
 **Madde 13 –** Zührevi hastalıklar ve fuhuşla mücadele komisyonlarına yardım kurullarının vazifeleri aşağıda gösterilmiştir:
 
@@ -129,47 +129,47 @@ d) Fuhuş için gizli yer sağlıyanları tesbit etmek,
 
 e) a, b bentlerindeki halleri en yakın zührevi hastalıklarla mücadele komisyonuna bildirmek, c ve d bentlerindeki hallerde de resmi teşebbüsatta bulunmak.
 
-Yönetmelik:
+**Yönetmelik:**
 
 **Madde 14 –** 7 ve 8 inci maddelerde yazılı sağlık ve icra kısımlarının ve 12 nci maddede yazılı zührevi hastalıklar ve fuhuşla mücadele komisyonlarına yardım kurullarının görevlerini ne şekilde yapacakları Sağlık ve Sosyal Yardım ve İçişleri Bakanlıkları tarafından hazırlanacak bir yönetmelikte belirtilir.
 
 ### İKİNCİ KISIM
 
-Tarifler
+**Tarifler**
 
-Genel kadınlar:
+**Genel kadınlar:**
 
 **Madde 15 –** (Değişik: 31.1.1973 - 7/5786 K.)
 
 Başkalarının cinsi zevkini menfaat karşılığı tatmin etmeyi sanat edinen ve bunun için değişik erkeklerle münasebette bulunan kadınlara (Genel kadın) denilir.
 
-Genel evler:
+**Genel evler:**
 
 **Madde 16 –** Genel kadınların bir arada oturarak fuhuş yaptıkları veya bu maksat için toplandıkları yerlere (Genel ev) ismi verilir.
 
-Birleşme yerleri:
+**Birleşme yerleri:**
 
 **Madde 17 –** Fuhuş maksadiyle muhtelif kimselere kısa müddetler için açık bulundurulan kapalı yerlere (Birleşme yerleri) denilir.
 
-Tek başına fuhuş yapılan evler:
+**Tek başına fuhuş yapılan evler:**
 
 **Madde 18 –** Fuhşu tek başına yapan kadınların ikametgah edinip içinde fuhuş yapmayı itiyat ettikleri yerlere (Tek başına fuhuş yapılan ev ) denir.
 
-Fuhuş yerleri:
+**Fuhuş yerleri:**
 
 **Madde 19 –** Bu Tüzükte geçen (Fuhuş yerleri) tabiri; genel ev, birleşme yerleri ve tek başına yapılan evleri kapsar.
 
 ### ÜÇÜNCÜ KISIM
 
-Genel kadınların tesbit, tescil, muayene ve tedavileri
+**Genel kadınların tesbit, tescil, muayene ve tedavileri**
 
-Tesbit:
+**Tesbit:**
 
 **Madde 20 –** Mükerreren ve bir çok erkeklerle münasebette bulunması dolayısiyle bir kadının fuhşu sanat edindiğinden şüphe edilir ve hakkında gizli ve etraflıca yapılan inceleme ile elde edilen müspet delillerle kendisinin 15 inci maddede yazılı genel kadınlar vasıflarını haiz olduğu meydana çıkarılırsa, evvela bu kadını fuhşa sürükleyen sebepler komisyonca araştırılır ve kendisinin tekrar namuslu bir hayata dönmesini sağlıyacak tedbirler düşünülür. Bu tedbirlerin faide vermediği hallerde bu kadın hakkında 21 inci maddedeki şartlar varsa Genel Kadınlar hakkındaki hükümler, bu şartlar yoksa 23 üncü maddede yazılı sağlık tedbirlerine dair hükümler uygulanır.
 
 Bir kadın hakkında bu hükümlerin uygulanması Komisyon kararına bağlıdır.
 
-Tescil şartları:
+**Tescil şartları:**
 
 **Madde 21 –** Komisyonca bir kadının genel kadın olarak tesciline karar verilebilmesi için, aşağıdaki şartların bulunması lazımdır:
 
@@ -181,7 +181,7 @@ c) Yabancı tabiiyetinde bulunmamak,
 
 d) Tabiiyetsiz olmamak.
 
-Tescil:
+**Tescil:**
 
 **Madde 22 –** Genel kadın olarak tescili gerekeceği komisyon tarafından 20 nci maddeye göre yapılan inceleme ile anlaşılan kadınların her biri için ekli örneğe göre (Sicil kartonu) tertip edilip numaralanır ve bu kartona kadınların bir fotoğrafı yapıştırılıp adları, soyadları, yaşları, doğdukları, ikamet ettiklerive fuhuş yapacakları yerler kaydolunur.
 
@@ -189,31 +189,31 @@ Bu kartonlar, komisyonca uygun görülen bir yerde saklanır.
 
 Kadınların nüfus hüviyet cüzdanları da makbuz karşılığında alınarak kartonaeklenir. Bu suretle kaydedilen genel kadınların ellerine sicil kartonunun numarasını gösteren, ekli örneğine uygun bir (Hüviyet muayene cüzdanı) verilir. Bu cüzdanda, sahibinin kim olduğunu gösteren bilgilerden başka, sicil kartonundakinin aynı olan bir fotoğrafı ve yılın her ayına mahsus birer sahife üzerine haftada iki defa yapılacak muayenelerin kaydına mahsus haneleri gösteren bir kısım bulunur. Bu cüzdanlar her yıl değiştirilir.
 
-Sağlık tedbirleri uygulanacak kadınlar:
+**Sağlık tedbirleri uygulanacak kadınlar:**
 
 **Madde 23 –** Fuhşu sanat ve geçim vasıtası edindikleri 20 nci maddeye göre yapılan inceleme ile anlaşılan fuhuşla melüf 18 yaşını bitirmiş ve 21 yaşını bitirmemiş kadınların her biri i çin lüzumu halinde komisyonca ekli örneğe göre bir (Gizli sağlık kartonu) tertip edilip numaralanır. Bu kartona kadınların fotoğrafları yapıştırılıp adları, soyadları, yaşları, doğdukları ve ikamet ettikleri yerler kaydolunur.
 
-Korunacak küçükler:
+**Korunacak küçükler:**
 
 **Madde 24 –** Fuhşa sürüklenen veya bu tehlikeye maruz bırakılan: 18 yaşından küçük kimseler hakkında 6972 sayılı Korunmaya Muhtaç Çocuklar hakkındaki kanun hükümlerine göre gereken tedbirler alınır.
 
-Muayane:
+**Muayane:**
 
 **Madde 25 –** (31.1.1973 - 7/5786 K.)
 
 Bütün genel kadınlar, izinli olsalar dahi, haftada iki defa,23 üncü maddede yazılı kadınlarda, on günde bir defa kendilerini resmi tabibe muayene ettirmeye mecburdurlar.
 
-Resmi muayene:
+**Resmi muayene:**
 
 **Madde 26 –** Resmi muayeneyi kabul etmiş olan bütün genel kadınlar zührevi hastalıklar tabibi tarafından bu gibi muayeneler için ayrılan mahalde muayene edilirler. Muayene neticesi protokol defterine kayıt edileceği gibi kadınların hüviyet muayene cüzdanlarına da işaret olunur.
 
 23 üncü maddedeki kadınlar komisyonca verilecek gizli listelere göre muayene edilirler. Bunlardan arzu edenlere, ekli örneğe göre (Sağlık cüzdanı) verilebilir.
 
-Hususi muayene:
+**Hususi muayene:**
 
 **Madde 27 –** 31 - (Mülga 31.1.1973 - 7/5786)
 
-Tedavi:
+**Tedavi:**
 
 **Madde 32 –** (Değişik: 31.1.1973 - 7/5786 K.)
 
@@ -227,23 +227,23 @@ Her iki haldede, bu kadınların sanatlarını yapmaktan men edildikleri zührev
 
 Zührevi bir hastalığa tutulduğu anlaşılan ve hastalığı etrafına bulaştıracağından şüphe edilen 23 üncü maddede yazılı kadınlar hakkında da, bu maddenin (a) ve (b) bentleri hükümlerine göre işlem yapılır.
 
-Ayakta tedavi:
+**Ayakta tedavi:**
 
 **Madde 33 –** 32 nci madde gereğince sanatlarını yapmaktan men edilen ve mezkür maddenin (b) bendine göre hastaneye yatırılması gereken kadınlar, hastane yoksa veya yer bulunmazsa resmi tabip tarafından ayakta tedavi edilirler.
 
 Tedavi esnasında, fuhuş yaptığı sabit olanların veya geçmişteki ve tedavi zamanındaki durumuna göre böyle bir şey yapacağından şüphe edilenlerin behemehal uygun bir mahalde tecridi gerekir.
 
-Hastaneye sevk:
+**Hastaneye sevk:**
 
 **Madde 34 –** Bulaşıcı devrede firengi belirtileri gösteren genel veya 23 üncü maddede yazılı kadınların, behemehal hastanede bulaşıcı devre geçinceye kadar yatırılarak tedavisi gerekir. Bunun için icabında ve zaruret hallerinde zührevi hastalığa yakalanmış olanlardan bulaşma tehlikesi en az olanlar çıkarılarak 33 üncü madde gereğince ayakta tedavi altına alınır ve bu suretle bulaşıcı devre belirtileri gösteren hastaya yer sağlanır. Belsoğukluğu, yumuşak şankr, ve tri-komonasıs vajinaliz olanlar bulaşma tehlikesi geçinceye kadar tedavi olunurlar.
 
-Sanatın tekrar yapılması:
+**Sanatın tekrar yapılması:**
 
 **Madde 35 –** 32 nci maddenin (b) bendinde yazılı genel kadınlar iyi olduktan sonra sanatlarını yapabilirler. Firengili olan genel kadınların sanatlarını yapabilmeleri için en az bir tedavi devresi geçirmiş olmaları ve kanlarında serelojik reaksiyonun menfi çıkması ve hiç bir klinik belirti görülmemesi lazımdır.
 
 Laboratuvar bulunmayan mahallerde kadınların serumu alınır ve en yakın resmi laboratuvarlardan birine gönderilerek tahlil ettirilir.
 
-Tedavi mükellefiyetleri:
+**Tedavi mükellefiyetleri:**
 
 **Madde 36 –** (Değişik: 31.1.1973 - 7/5786 K.)
 
@@ -271,13 +271,13 @@ Tedavi altında bulunan kadınların çalışması yasaktır, tedavi sonunda, bu
 
 **Madde 41 –** Bir şehir veya kasabada bu Tüzüğün 27 ve 38 inci maddeleri hükümlerinin uygulanıp uygulanmıyacağı, zührevi hastalıklar ve fuhuşla mücadele komisyonu tarafından kararlaştırılır.
 
-Hususi tabiblerin mükellefiyeti:
+**Hususi tabiblerin mükellefiyeti:**
 
 **Madde 42 –** Hususi tabip tarafından tedavi edildiği esnada fuhuş yaptığı sabit olan kadınlar hakkında 34 üncü madde gereğince işlem yapılarak bunların behemehal tecridi sağlanır.
 
 **Madde 43 –** Bu Tüzükte yazılı mecburiyetlere uymayan veya aykırı hareketeden, hususi tabiblerin, bir daha genel kadınlarla 23 üncü maddedeki kadınları muayene ve tedavi etmelerine müsaade edilmez.
 
-Genel kadınlarla 23 üncü maddedeki kadınların uymağa mecbur olduğu hükümler:
+**Genel kadınlarla 23 üncü maddedeki kadınların uymağa mecbur olduğu hükümler:**
 
 **Madde 44 –** (Değişik : - 31.1.1973 - 7/5786 K.)
 
@@ -291,9 +291,9 @@ Gününde muayenelerini yaptırmamış olan genel kadınlarla hüviyet muayene c
 
 ### DÖRDÜNCÜ KISIM
 
-Genel evlerin açılma şartları ve mükellefiyetler
+**Genel evlerin açılma şartları ve mükellefiyetler**
 
-Sağlık şartları ve bölge:
+**Sağlık şartları ve bölge:**
 
 **Madde 46 –** Genel evlerin açılabilmesi için:
 
@@ -309,7 +309,7 @@ c) Bu Tüzüğün sağlık kayıt ve şartlarına ait hükümlerini uygulayacak 
 
 **Madde 48 –** Genel evler; genel kadınların muayene ve tedavi edildiği müesseseler müstesna olmak üzere, resmi daire ve müesseseler, ibadet ve eğitim yerleri, spor sahaları, genel toplanma, eğlence ve bayram yerleri yakınında ve bu yerlerden görülebilecek bir mesafede ve Umumi Hıfzıssıhha Kanununun 178 inci maddesinde yazılı yerler dahilinde veya yakınında olamaz.
 
-Müracaat usulü ve inceleme:
+**Müracaat usulü ve inceleme:**
 
 **Madde 49 –** Genel ev olmayan yerlerde böyle bir ev açmak için müracaat edildiği takdirde, o yerde fuhuşla melüf kadınlar olup olmadığı incelenir. Bu gibi kadınların bulunması halinde, bu Tüzükte yazılı kayıt ve şartlara uyulmak ve açılacak genel evde sanatlarını yapacak olanlar o yerin fuhuşla melüf olan kadınlardan ibaret bulunmak ve kendilerinin böyle bir evde sanatlarını yapmaları için rızaları alınmış olmak şartiyle, müracaat sahibinin isteği bu Tüzük hükümlerine göre muamele yapılmak suretiyle yerine getirilir.
 
@@ -327,7 +327,7 @@ c) Hizmetçi, kapıcı ve benzeri müstahdemlerin adı ve soyadı ile doğduklar
 
 d) Açılacak evde sanatlarını yapacak genel kadınların adı ve soyadı, doğdukları ve oturdukları yer ve yaşları hakkındaki bilgileri ve ellerindeki hüviyet muayene cüzdanlarının numarasını gösteren bir liste ve her birinin, arkasında ad ve soyadları yazılı birer fotoğrafı,
 
-e) (Mülga: 31.1.1973 - 7/5786 K.)
+e) **(Mülga: 31.1.1973 - 7/5786 K.)**
 
 f) Genel ev açmak isteyen evli kadınların kocalarının rıza ve muvafakatları olduğuna dair noterlikce onaylı belge.
 
@@ -347,7 +347,7 @@ Yöneticilerin (patron vekillerinin), genelev patronları için bu Tüzükte gö
 
 **Madde 53 –** Telefon tesisatı bulunan yerlerdeki genel evlerde daima konuşmaya hazır şekilde telefon bulundurulması mecburidir.
 
-Genel ev açamıyacak olanlar:
+**Genel ev açamıyacak olanlar:**
 
 **Madde 54 –** (Değişik: 31.1.1973 - 7/5786 K.)
 
@@ -361,7 +361,7 @@ c) Ağır hapis veya altı aydan aşağı olmamak üzere hapis cezasına mahküm
 
 d) Yabancı tabiiyette ve tabiiyetsiz olanlar.
 
-Genel ev işletenlerin mükellefiyeti:
+**Genel ev işletenlerin mükellefiyeti:**
 
 **Madde 55 –** (Değişik: 31.1.1973 - 7/5786 K.)
 
@@ -391,25 +391,25 @@ c) Hasta olanlarla gününde muayeneye gitmeyen kadınların, Kimliklerini 24 sa
 
 ### BEŞİNCİ KISIM
 
-Birleşme yerlerinin açılma şartları ve mükellefiyetler:
+**Birleşme yerlerinin açılma şartları ve mükellefiyetler:**
 
-Sağlık şartları ve bölge:
+**Sağlık şartları ve bölge:**
 
 **Madde 63 –** 46, 47 ve 48 nci maddeler hükümleri birleşme yerlerinin açılması hakkında da uygulanır.
 
-Müracaat usulü ve inceleme:
+**Müracaat usulü ve inceleme:**
 
 **Madde 64 –** 50, 51 (d bendi hariç) ve 52 nci maddelerde yazılı hükümler birleşme yerleri içinde uygulanır.
 
-Telefon:
+**Telefon:**
 
 **Madde 65 –** 53 ncü madde hükümleri birleşme yerleri hakkında da uygulanır.
 
-Birleşme yerleri açamıyacak olanlar:
+**Birleşme yerleri açamıyacak olanlar:**
 
 **Madde 66 –** 54 üncü madde hükümleri birleşme yerleri açacaklar hakkında da uygulanır.
 
-Birleşme yerleri işletenlerin mükellefiyeti:
+**Birleşme yerleri işletenlerin mükellefiyeti:**
 
 **Madde 67 –** Sanatlarını birleşme yerlerinde yapacaklarına dair komisyonca usülüne göre verilmiş hüviyet muayene cüzdanı olmıyan kadınlar ile genel ev kadınları birleşme yerlerine kabul edilemez.
 
@@ -419,17 +419,17 @@ Birleşme yerleri işletenlerin mükellefiyeti:
 
 ### ALTINCI KISIM
 
-Tek başına fuhuş yapılan evlerin açılma şartları ve mükellefiyetler
+**Tek başına fuhuş yapılan evlerin açılma şartları ve mükellefiyetler**
 
-Sağlık şartları ve bölge:
+**Sağlık şartları ve bölge:**
 
 **Madde 70 –** 46, 47 ve 48 inci maddeler hükümleri tek başına fuhuş yapılan evler hakkında da uygulanır.
 
-Müracaat usulü ve inceleme:
+**Müracaat usulü ve inceleme:**
 
 **Madde 71 –** 50, 51 (d ve f bentleri hariç) ve 52 nci maddeler hükümleri tek başına fuhuş yapılan evler hakkında da uygulanır.
 
-Tek başına fuhuş yapanların mükellefiyeti:
+**Tek başına fuhuş yapanların mükellefiyeti:**
 
 **Madde 72 –** 18 inci maddede yazılı kadınlar; ikametgahlarını değiştirmek istedikleri zaman, keyfiyeti ve geçecekleri evi nihayet bir hafta önce mahallinen büyük mülkiye amirine yazı ile bildirmekle mükelleftirler.
 
@@ -439,15 +439,15 @@ Tek başına fuhuş yapanların mükellefiyeti:
 
 ### YEDİNCİ KISIM
 
-Fuhuş yerlerine ait müşterek hükümler
+**Fuhuş yerlerine ait müşterek hükümler**
 
-Korunma tedbirleri:
+**Korunma tedbirleri:**
 
 **Madde 75 –** (Değişik: 31.1.1973 - 7/5786 K.)
 
 Fuhuş yerlerinde alınması gerekli genel hijyen şartları yanında bir korunma aracı olarak prezervatif bulundurulur. Bu prezervatifler, ziyaretçilerden arzu edenlere bedeli mukabilinde verilir.
 
-Yasaklar:
+**Yasaklar:**
 
 **Madde 76 –** Fuhuş yerleri oda oda veya kısmen kiraya verilemez. Bu gibi yerlerde her nevi sanat ve ticaretin yapılması yasaktır.
 
@@ -455,7 +455,7 @@ Yasaklar:
 
 **Madde 78 –** Fuhuş yerlerine saat 24.00 den sonra hiçbir ziyaretçi kabul edilmez.
 
-İdari hükümler:
+**İdari hükümler:**
 
 **Madde 79 –** Fuhuş yerlerine behemahal bir kapıdan girilir ve çıkılır. Diğer sokak, ev, dükkan, kahve, gazino ve otel gibi yerlere ayrı kapı açtırılmaz.51 inci maddede yazılı krokide, evin giriş kapısından başka mevcut olan kapıları da behemahal gösterilir ve bu kapılar kapattırılır.
 
@@ -467,13 +467,13 @@ Kapı zili veya tokmağının yanında evin numarasını gösteren okunaklı bir
 
 **Madde 82 –** Habersiz ev değiştiren ve yeni taşındığı evi haber vermeyen kadınların sanatlarını tek başına yapmalarına müsaade edilmez.
 
-Polise haber verilecek haller:
+**Polise haber verilecek haller:**
 
 **Madde 83 –** Fuhuş yerlerinde ispirtolu içkilerle her çeşit uyuşturucu maddelerin kullanılması, kumar oynanması, gürültü, eğlenceler yapılması yasak olup bundan ev sahipleri sorumludur. Dışardan getirdikleri bu gibi maddeleri kullanmak isteyen ziyaretçileri ev sahibi hemen polise haber verecektir.
 
 **Madde 84 –** Fuhuş yerlerinin sahipleri, yanlarına gelen, Hükümetçe aranmakta olduğunu bildikleri, mahkümları ve şüpheli şahısları derhal polise bildireceklerdir.
 
-Teftiş:
+**Teftiş:**
 
 **Madde 85 –** Fuhuş yerleri, mahallin en büyük polis ve sağlık amirleri veya yardımcıları tarafından ayrı ayrı veya birlikte veyahut bunların görevlendirecekleri, bu Tüzüğün 7 ve 8 inci maddelerinde yazılı, sağlık ve icra kısmı memurları tarafından birlikte teftiş olunurlar. Ancak, bu işle görevlendirilen sağlık ve icra kısmı memurlarının teftiş edecekleri yeri ve zamanını amirlerine bildirmeleri ve teftişe yetkili olduklarına dair bir belgeyi yanlarında bulundurmaları ve teftiş neticesini 86 ncı maddede gösterilen deftere kaydetmeleri ve imzalamaları lazımdır.
 
@@ -485,15 +485,15 @@ Teftiş:
 
 Belirli ve açık adresleri olmıyanlarla kimliklerini ispat edemiyenler muayeneye sevk olunur. Hasta olduğu anlaşılanlar hakkında adı geçen kanunun 107 ve 108 inci maddelerine göre işlem yapılır.
 
-İcra kısmı dışında kalan memurlar:
+**İcra kısmı dışında kalan memurlar:**
 
 **Madde 89 –** Mahallin zabıta memurları, 8 inci maddede yazılı kısım memurlarının bu Tüzük ile tayin edilen görev ve yetkilerine giren işlerle meşgul olamazlar, fuhuş yerlerine giremezler. Suç işlenmesi, istimdatta bulunulması, huzur ve sükünu bozan hadiselerin çıkması, en büyük polis amirinin lüzum hasıl oldukça sırf icra kısmı memurlarına yardım maksadiyle bazı memurlar görevlendirilmesi gibi haller bundan müstesnadır.
 
-Taşınma, işletmenin başkasına geçmesi:
+**Taşınma, işletmenin başkasına geçmesi:**
 
 **Madde 90 –** Fuhuş yerlerinin başka yere taşınması ve başkası tarafından işletilmesi ancak müsaade ile olur. İlgililer bu husus için mahallin en büyük mülkiye amirine müracaat ederler. Taşınma için verilen dilekçelere 51 inci maddenin (a) ve (e) bentlerindeki beyanname ile taahhütname eklenir. Taşınılan yerle, işletilmesini alan şahıs Tüzükte yazılı şartları haiz olmalıdır.
 
-Kapatma:
+**Kapatma:**
 
 **Madde 91 –** Bu Tüzükte Fuhuş yerleri hakkında konulan kapatma cezasından maksat, Tüzükte yazılı süre içinde bu yerlerin mühür altında kapalı bulundurulması ve evi işletenlerin yine bu sürede her nerede olursa olsun sanatlarını yapmaktan men edilmesidir.
 
@@ -505,11 +505,11 @@ Bu gibi hallerde düzenlenen tutanak mülkiye amirine sunulur. Mülkiye amiri, P
 
 Bir yılda iki defa kapatılan fuhuş yerleri bir daha açtırılmaz ve bu gibi yerleri işletenler için yeniden fuhuş yeri açmak üzere izin verilmez. Yılın hesaplanmasında, kapatma tarihi başlangıç kabul edilir.
 
-Müstahdemler:
+**Müstahdemler:**
 
 **Madde 94 –** Fuhuş yerlerinde çalışan müstahdemlerden erkekler 25, kadınlar 35 yaşından aşağı olamazlar. Yaşı müsait olup da görünüşe göre ziyaretçilerle cinsi münasebette bulunduğundan şüphe edilen ev hizmetçileri haftada bir defa muayene olunur. Şüphenin gerçekleşmesi halinde haklarında derhal genel kadınlara dair hükümler uygulanır.
 
-İzinsiz fuhuş yapılan evler:
+**İzinsiz fuhuş yapılan evler:**
 
 **Madde 95 –** İzin alınmadan içinde gizli fuhuş yapıldığı iddia veya ihbar edilen veyahut her ne şekilde olursa olsun muttali olunan evler hakkında ahlak zabıtası memurları tarafından önce gizli inceleme yapılır. Bu gibi evlerde gizli fuhuş yapıldığı delilleriyle tesbit edildiği takdirde, düzenlenecek tutanaklar gizli inceleme raporları ile birlikte en büyük polis amiri tarafından komisyona sunulur. Bu yerler hakkında komisyonca 104 üncü maddeye göre işlem yapılır.
 
@@ -553,7 +553,7 @@ kapatılır.
 
 **Madde 105 –** 79 uncu madde hükmüne riayet etmeyenlerle sonradan izinsiz kapı açanların evleri onbeş gün süre ile kapatılır ve kapı kendilerine örttürülür.
 
-Fuhuşa aracılık edenler:
+**Fuhuşa aracılık edenler:**
 
 **Madde 106 –** Fuhuş yerleri açmak için izin almadığı halde fuhuş maksadıyle bir takım kimselere (tescil edilmiş genel kadınlardan dahi olsa) kadın getirmeğe aracılık eden veya müsaadesi verilen ev dışında fuhuşa aracılık tarzında faaliyette bulunan kimseler hakkında Ceza Kanunu hükümlerine göre kovuşturma yapılır.
 
@@ -561,33 +561,33 @@ Fuhuşa aracılık edenler:
 
 ### ONUNCU KISIM
 
-Sosyal yardım
+**Sosyal yardım**
 
-Komisyonun himayesi:
+**Komisyonun himayesi:**
 
 **Madde 108 –** Fuhuş hayatından vazgeçmek istediğine kanaat getiren genel kadınları zührevi hastalıklar ve fuhuşla mücadele komisyonu himaye edecektir. Bu gibi kadınların ellerinden alınmış olan nüfus hüviyet cüzdanları geri verilir ve durumlarının bir süre gizlice göz altında bulundurulmasına itina edilir.
 
-Hayır derneklerinin himayesi:
+**Hayır derneklerinin himayesi:**
 
 **Madde 109 –** Zührevi hastalıklar ve fuhuşla mücadele komisyonları, genel kadınları fena hayatlarından vazgeçirebilmek veya yeniden fuhuş hayatına atılmış veya atılmak üzere bulunan kadınları bu fena yoldan kurtarmak için alacakları tedbir ve yapacakları teşebbüslerde, bu maksatlarla veya buna yakın gayelerle teşekkül etmiş olan hayır derneklerinin çalışmalarından faydalanırlar. Komisyon, bu gibi derneklerle temasa geçerek yılda bir defa olağanüstü toplantı yapar ve bu dernekler başkan veya temsilcilerini davet ederek bunlarla beraber fuhuşun zararlarını önliyecek, düşmüş kadınları fena hayatlarından kurtaracak tedbirleri alır.
 
 ### ONBİRİNCİKISIM
 
-Zührevi muayene evleri - Hastaneler
+**Zührevi muayene evleri - Hastaneler**
 
-Zührevi muayene evleri:
+**Zührevi muayene evleri:**
 
 **Madde 110 –** Genel kadınlarla 23 üncü maddede yazılı kadınların, bu Tüzüğün 25 inci maddesine göre yapılacak muayeneleri için genel evlere ayrılan sokakların yakınında veya komisyonca tensip olunacak sair mahallerde ihtiyacı karşılayacak zührevi muayene evleri açılır. Bu evler, kadınların muayeneleri ve icabında ayakta mümkün olan tedavileri için gereken fenni tesisatı havi olacaktır.
 
-Hastaneler:
+**Hastaneler:**
 
 **Madde 111 –** Bu Tüzüğün 25 inci maddesi gereğince muayeneye tabi tutulan kadınlardan, Umumi Hıfzıssıhha Kanununun 129 uncu maddesinde yazılı hastalıklara yakalanmış olanların tedavisi için yeter büyüklükte hastane açılır. Buna imkan olmadığı veyahut bu gibi kadınlar fazla miktarda bulunmadığı takdirde, mevcut hastanelerden bir veya birkaç koğuş ayrılarak zührevi hastalıklara yakalanmış kadınlara tahsis olunur.
 
-İlk yardım merkezleri:
+**İlk yardım merkezleri:**
 
 **Madde 112 –** Umumi Hıfzıssıhha Kanununun 20 nci maddesinin 12 nci ve Belediye Kanununun 15 inci maddesinin 52 nci fıkraları gereğince kurulacak ilk yardım merkezlerinin bir kısmı veya bir tanesi genel evlere civarca olan mahalde açılır. Gece ve gündüz açık bulundurulacak olan bu merkezlerde; koruyucu tedbirler ve tedaviler parasız yapılır.
 
-Masraflara ait müşterek hükümler:
+**Masraflara ait müşterek hükümler:**
 
 **Madde 113 –** Zührevi muayene evleri, hastaneler ve ilk yardım merkezlerinin kurulma ve işletme masrafları, Umumi Hıfzıssıhha Kanununun 131 inci maddesi gereğince belediyelere aittir. Eğer tedavi, 111 inci maddenin son fıkrası gereğince mevcut diğer hastanelerin birinde yapılırsa, bu hastanelere, ayrılan yatak adedi nisbetinde para yardımı yapılır.
 
@@ -595,37 +595,37 @@ Valiler, mali durumları müsait olmayan belediyelerin, bu müesseseleri idareye
 
 ### ONİKİNCİ KISIM
 
-Mali hükümler
+**Mali hükümler**
 
-Alınacak ücret:
+**Alınacak ücret:**
 
 **Madde 114 –** Fuhuş sebebiyle bulaşan zührevi hastalıklarla mücadele için yapılacak masraflara karşılık olmak üzere genel ev sahiplerinden her ay muayyen bir ücret alınır.
 
-Evlerin derecelendirilmesi:
+**Evlerin derecelendirilmesi:**
 
 **Madde 115 –** Genel evler; bulundukları semt, haiz oldukları konfor, alınan vizite ücreti ve sanatı yapan kadın sayısı gözönünde tutulmak suretiyle, zührevi hastalıklar ve fuhuşla mücadele komisyonları tarafından derecelendirilir.
 
 114 üncü maddeye göre alınacak ücretin miktarı; birinci derecede 300 - 700, ikinci derecede 200 - 300, üçüncü derecede de 100 - 200 liradır.
 
-Azami ve asgari hadlerin tayini:
+**Azami ve asgari hadlerin tayini:**
 
 **Madde 116 –** Asgari ve azami hadlerin tayini; vilayet ve kaza merkezlerinin nüfusuna, sosyal ve ekonomik durumuna göre komisyon karariyle yapılır.
 
-Ücretin tahsili:
+**Ücretin tahsili:**
 
 **Madde 117 –** Zührevi hastalıklar ve fuhuşla mücadele komisyonunca tayin edilen derecelere göre alınacak ücretler, belediye tahsildarları tarafından her ay sonunda genel ev sahiplerinden belediye gelirlerinin tahsilindeki usuller dairesinde makbuz karşılığında alınır.
 
 Bu suretle tahsil olunan paralar; zührevi hastalıklarla mücadele için, bütçelerindeki ödeneğe eklenmek üzere belediyeler veznelerine yatırılır.
 
-Alınacak ücretin sarf yeri:
+**Alınacak ücretin sarf yeri:**
 
 **Madde 118 –** Genel ev sahiplerinden alınacak ücretler, mücadele komisyonları tarafından tayin edilecek, zührevi hastalıklarla mücadele hizmetleri dışında kullanılamaz.
 
-Bütçe teklifi:
+**Bütçe teklifi:**
 
 **Madde 119 –** Belediyelerce; her yıl bütçesine zührevi hastalıklarla mücadele maksadiyle konulacak tahsisat miktarı, bütçelerin hazırlanması sırasında komisyonlar tarafından, o yıl içinde yapılacak hizmet, çalıştırılacak memurların aded ve ücretleri gösterilmek suretiyle tesbit ve teklif olunur.
 
-Aylık hesap cetvelleri:
+**Aylık hesap cetvelleri:**
 
 **Madde 120 –** Belediyeler; her ay sonunda, o ay içinde toplanmış olan ücretlerle, yapılan masrafı ve kalan miktarı bir cetvelde komisyonlara bildirirler.
 
@@ -641,11 +641,11 @@ Aylık hesap cetvelleri:
 
 **Madde 124 –** 12/11/1933 tarihli ve 15264 sayılı Bakanlar Kurulu kararnamesiyle yürürlüğe konulan (Fuhuşla ve Fuhuş Yüzünden Bulaşan Zührevi Hastalıklarla Mücadale Nizamnamesi) ve tadilleri kaldırılmıştır.
 
-Ek Madde – (Ek: 31.1.1973 - 7/5786 K.)
+**Ek Madde – (Ek: 31.1.1973 - 7/5786 K.)**
 
 Genelevlerde ve tek başına fuhuş yapılan evlerde, Genel kadın olarak evli kadın çalıştırılamaz.
 
-Ek Geçici Madde – (Ek: 31.1.1973 - 7/5786 K.)
+**Ek Geçici Madde – (Ek: 31.1.1973 - 7/5786 K.)**
 
 Bu Tüzüğün yayımı tarihinden önce genelev işletme müsaadesi almış olan genelev patronlarında, halen işletmekte oldukları genelev için 54 üncü maddenin(a) bendindeki 40 yaş kaydı aranmaz.
 
@@ -660,4 +660,4 @@ Bu tüzük hükümlerini Bakanlar Kurulu yürütür.
 | Tarihi | Numarası | Farklı Tarihte Yürürlüğe Giren Maddeler | Yürürlüğe Giriş Tarihi |
 | 31/1/1973 | 7/5786 | - | 18/2/1973 |
 
-<small>[1] 31.1.1973 tarih ve 7/5786 Sayılı Bakanlar Kurulu Kararı ile değişik şeklidir.</small>
+<small>[1] <i>31.1.1973 tarih ve 7/5786 Sayılı Bakanlar Kurulu Kararı ile değişik şeklidir.</i></small>

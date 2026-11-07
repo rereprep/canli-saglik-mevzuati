@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-KAN VE KAN ÜRÜNLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**KAN VE KAN ÜRÜNLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 4/12/2008 tarihli ve 27074 sayılı Resmî Gazete’de yayımlanan Kan ve Kan Ürünleri Yönetmeliğinin 9 uncu maddesinin ikinci fıkrasının ikinci cümlesi ile aynı fıkranın (c) bendi aşağıdaki şekilde değiştirilmiş, (f) bendinin ikinci cümlesi yürürlükten kaldırılmıştır.
 “Belirlenen hizmet bölgesinde bir BKM kurulması esastır. Ancak, Bakanlıkça gerekli görülmesi halinde aynı bölgede birden fazla BKM de kurulabilir.”

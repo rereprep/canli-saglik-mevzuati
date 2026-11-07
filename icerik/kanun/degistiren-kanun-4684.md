@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2001/07/20010703.htm#1"
 durum: "yürürlükte"
 ---
 
-Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Kanun No. 4684 Kabul Tarihi : 20.6.2001
+**Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Kanun No. 4684 Kabul Tarihi : 20.6.2001**
 BİRİNCİ BÖLÜM
 Kamu Bankalarına İlişkin Hükümler
 
@@ -144,7 +144,7 @@ Madde 7 — Serbest bölgelerden elde edilen gelirlerden;
 a) Faaliyet ruhsatı ve izin belgesi karşılığı tahsil edilecek ücretler,
 b) Yurt dışından bölgeye getirilen mallar ile bölgeden Türkiye’ye çıkarılan malların CIF değeri üzerinden peşin olmak üzere binde 5 oranında ödenecek ücretler,
 c) Serbest bölgeyi işleten gerçek veya tüzel kişilerle yapılacak sözleşmeler uyarınca tahsil edilecek tutarlar,
-d) Bölge faaliyetlerinden sağlanan diğer gelirler, İlgili idare tarafından sözleşmeler gereği tüzel kişilere yapılan gelir payı aktarmaları düşüldükten sonra Türkiye Cumhuriyet Merkez Bankası nezdinde açılacak bir özel hesaba yatırılır. Bu hesapta toplanan tutarlardan ret ve iadeler düşüldükten sonra kalan tutar, Başbakanlık Dış Ticaret Müsteşarlığı merkez ödemelerini yapan merkez saymanlığı hesabına yatırılır. Merkez saymanlık hesabına yatırılan meblağın yüzde 90'ı genel bütçeye gelir, yüzde 10'u da serbest bölgelerin kurulması, bakım ve onarımı, geliştirilmesi, eğitim ve araştırma faaliyetlerinin gerçekleştirilmesi ile dış ticaretin desteklenmesi amacıyla kullanılmak üzere genel bütçeye özel gelir kaydedilir. Özel gelir kaydedilen bu tutarlar Başbakanlık Dış Ticaret Müsteşarlığı bütçesinde açılacak tertiplere Maliye Bakanlığınca özel ödenek kaydedilir. Bu suretle ödenek kaydedilen miktarlardan yılı içerisinde harcanmayan tutarları ertesi yıl bütçesine devren özel gelir ve ödenek kaydetmeye Maliye Bakanı yetkilidir.
+d) Bölge faaliyetlerinden sağlanan diğer gelirler, İlgili idare tarafından sözleşmeler gereği tüzel kişilere yapılan gelir payı aktarmaları düşüldükten sonra Türkiye Cumhuriyet Merkez Bankası nezdinde açılacak bir özel hesaba yatırılır. Bu hesapta toplanan tutarlardan ret ve iadeler düşüldükten sonra kalan tutar, **Başbakanlık** Dış Ticaret Müsteşarlığı merkez ödemelerini yapan merkez saymanlığı hesabına yatırılır. Merkez saymanlık hesabına yatırılan meblağın yüzde 90'ı genel bütçeye gelir, yüzde 10'u da serbest bölgelerin kurulması, bakım ve onarımı, geliştirilmesi, eğitim ve araştırma faaliyetlerinin gerçekleştirilmesi ile dış ticaretin desteklenmesi amacıyla kullanılmak üzere genel bütçeye özel gelir kaydedilir. Özel gelir kaydedilen bu tutarlar Başbakanlık Dış Ticaret Müsteşarlığı bütçesinde açılacak tertiplere Maliye Bakanlığınca özel ödenek kaydedilir. Bu suretle ödenek kaydedilen miktarlardan yılı içerisinde harcanmayan tutarları ertesi yıl bütçesine devren özel gelir ve ödenek kaydetmeye Maliye Bakanı yetkilidir.
 Serbest bölgelerde yatırım ve tesis safhasında kullanılan mallar, tevsi ve kapasite artırmak amacıyla getirilen mallar, kullanıcının kendisine ait olmayan bakım ve onarım maksadıyla getirilen mallar, bölgelere geçici olarak getirilen araç, gereç ve ekipmanlar, fason üretim amacıyla getirilen mallar birinci fıkranın (b) bendi hükmü uyarınca bir ücrete tabi tutulmaz. Ancak, bakım ve onarım ile fason üretimde yaratılan katma değer üzerinden bu ücret alınır.
 Türkiye Cumhuriyet Merkez Bankası nezdinde oluşturulan özel hesabın işleyişi ile özel ödenekten yapılacak harcamalara ilişkin usul ve esaslar Maliye Bakanlığının uygun görüşü üzerine Başbakanlık Dış Ticaret Müsteşarlığınca çıkarılacak yönetmelikle belirlenir. Gelirlerin zamanında yatırılmaması halinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
 
@@ -346,21 +346,21 @@ c) Bölünme halinde bölünen hükmî şahsın varlıklarını devralan hükmî
 d) Şekil değiştirme halinde yeni hükmî şahıs, Birleşen, devir alınan, bölünen veya eski şekildeki hükmî şahıs ve şahısların yerine geçer.
 DÖRDÜNCÜ BÖLÜM
 Geçici ve Son Hükümler
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 1. — 8.7.1948 tarihli ve 5254 sayılı Muhtaç Çiftçilere Ödünç Tohumluk Verilmesi Hakkında Kanun uyarınca tohumluk dağıtımıyla ilgili olarak yapılan uygulamaların, birden fazla bakanlık eliyle yürütülmesi sonucunda bu uygulamaların muhatapları ve tarafları arasında oluşmuş ve/veya oluşacak olan görev zararı kapsamındaki borç alacak ilişkisinin tasfiyesi aşağıda yer alan esas ve usuller dahilinde gerçekleştirilir:
+**MADDE 1. —** 8.7.1948 tarihli ve 5254 sayılı Muhtaç Çiftçilere Ödünç Tohumluk Verilmesi Hakkında Kanun uyarınca tohumluk dağıtımıyla ilgili olarak yapılan uygulamaların, birden fazla bakanlık eliyle yürütülmesi sonucunda bu uygulamaların muhatapları ve tarafları arasında oluşmuş ve/veya oluşacak olan görev zararı kapsamındaki borç alacak ilişkisinin tasfiyesi aşağıda yer alan esas ve usuller dahilinde gerçekleştirilir:
 a) 5254 sayılı Kanunun;
 1) 9 uncu maddesi kapsamında, Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketinin 31.12.2000 tarihi itibarıyla Hazineden olan alacakları ve Bankaca 2000 yılına ilişkin olarak dağıtılan tohumlukların bedeli, 2) 10 uncu maddesi kapsamında, Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketinin 31.12.2000 tarihi itibarıyla Tarım ve Köyişleri Bakanlığından olan alacakları ile bu alacaklara ilişkin 31.12.2000-31.5.2001 tarihleri arasında tarımsal kredi faiz oranı üzerinden yürütülecek faiz tutarı, bu faize ilişkin banka sigorta muamele vergisi ve masraflar ile Bankaca 2000 yılına ilişkin olarak dağıtılan tohumluk bedeline yönelik olarak 2000 yılında kullandırılan tohumluk bedeline kullandırıldığı tarihten 31.5.2001 tarihine kadar tarımsal kredi faiz oranı üzerinden yürütülecek faiz tutarı, Hazinece, görev zararı kapsamında 2001 Malî Yılı Bütçe Kanununun ilgili hükümleri çerçevesinde ödenerek tasfiye edilir.
 b) 5254 sayılı Kanunun 9 uncu maddesi kapsamında ödenmeyen alacaklarla ilgili olarak Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketince Maliye Bakanlığına devredilen senet bedellerinin takip ve tahsiline anılan Bakanlıkça 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri dahilinde devam olunur. 2000 yılına ilişkin olarak tohumluk borçlarını vadesinde ödemeyenlerin borçları da Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketince, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri dahilinde takip ve tahsil edilmek üzere Maliye Bakanlığına devrolunur.
 c) Tasfiye edilen hesaplar Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketi nezdinde bankalar yeminli murakıplarınca denetlenir.
 Avans mahiyetinde tasfiye edilen tutarlar ile denetlenen tutarlar arasında farklılıklar bulunması halinde, Hazine Müsteşarlığının bağlı olduğu Bakanın onayı ile belirlenecek süre, usul ve esaslar kapsamında, farklılıklardan doğan yükümlülükler yerine getirilir.
 Görev zararlarının tasfiye edilmesini müteakiben doğabilecek farklılıklar nedeniyle Hazineye ait yükümlülükler, ilgili yıl bütçesine bu amaçla konulacak ödenek ile karşılanır.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 2. — 4603 sayılı Kanunun 2 nci maddesi uyarınca gerçekleştirilen yeniden yapılandırma çalışmaları kapsamında, Türkiye Emlak Bankası Anonim Şirketi tarafından Başbakanlık Toplu Konut İdaresi Başkanlığına bilanço değerleri üzerinden devredilen gayrimenkullerin rayiç değerlerinin bilanço değerlerinden düşük olması durumunda, Başbakanlık Toplu Konut İdaresi Başkanlığı bu gayrimenkulleri piyasa durumunu göz önünde bulundurarak tespit edeceği bedel ve satış şartları ile satabilir.
-GEÇİCİ
+**MADDE 2. —** 4603 sayılı Kanunun 2 nci maddesi uyarınca gerçekleştirilen yeniden yapılandırma çalışmaları kapsamında, Türkiye Emlak Bankası Anonim Şirketi tarafından Başbakanlık Toplu Konut İdaresi Başkanlığına bilanço değerleri üzerinden devredilen gayrimenkullerin rayiç değerlerinin bilanço değerlerinden düşük olması durumunda, Başbakanlık Toplu Konut İdaresi Başkanlığı bu gayrimenkulleri piyasa durumunu göz önünde bulundurarak tespit edeceği bedel ve satış şartları ile satabilir.
+**GEÇİCİ**
 
-MADDE 3. —
+**MADDE 3. —**
 a) Kaynak Kullanımını Destekleme Fonu kesintileri, bu konuda yeni bir düzenleme yapılıncaya kadar yürürlükten kaldırılan hükümlere göre tahsil edilmeye devam olunur ve doğrudan genel bütçeye gelir yazılmak üzere Hazine hesaplarına intikal ettirilir. Kesinti oranlarını sıfıra kadar indirmeye veya onbeş puana kadar yükseltmeye veya kesintiyi tümüyle kaldırmaya Bakanlar Kurulu yetkilidir.
 Bu kesintilerin tahakkuk ve tahsili Maliye Bakanlığınca vergi gelirlerine ilişkin yetkiler kapsamında takip edilir ve kesintilerin tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
 Kaynak Kullanımını Destekleme Fonundan ihtisas kredilerine ödenmesi gereken destekleme primleri nedeniyle bankalara ödenmemiş birikmiş borçlar, Hazinenin görev zararı borcu olarak kabul edilir ve bu borçların tasfiyesine ilişkin hükümler çerçevesinde işlem yapılır.
@@ -379,9 +379,9 @@ Ancak, 1.1.2002 tarihinden itibaren bu çerçevede yapılacak ödemeler, konsoli
 Bunlar hakkında 3.11.1999 tarihli ve 4460 sayılı Kanunun 1 inci maddesinin ikinci, üçüncü ve dördüncü fıkraları hükümleri uygulanır.
 Bu Kanun hükümlerinden faydalanmak istemeyenler ile 657 sayılı Devlet Memurları Kanununda belirtilen genel ve özel şartları taşımayanların her türlü yasal hakları ödenerek kurumlarıyla ilişikleri kesilir.
 j) Bu Kanunla ve diğer mevzuatla tasfiye edilen fonlar hakkında, bu Kanunda düzenleme bulunmayan hususlarda, 21.2.2001 tarihli ve 4629 sayılı Kanunun geçici 1 inci maddesinin (A) fıkrasının (d) bendi ile (B), (C) ve (D) fıkraları hükümleri uygulanır.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 4. — Bu Kanunun 1 inci maddesinin ( C ) fıkrası ile değiştirilen 4603 sayılı Kanunun geçici 1 inci maddesinin (3) numaralı fıkrası uyarınca diğer kamu kurum ve kuruluşlarına nakledilecek personelden konsolide bütçeye tâbi kamu kurum ve kuruluşlarına dağıtılacak personel için, Devlet Personel Başkanlığınca nakil işlemi tamamlanmadan önce Maliye Bakanlığının uygun görüşü alınır.
+**MADDE 4. —** Bu Kanunun 1 inci maddesinin ( C ) fıkrası ile değiştirilen 4603 sayılı Kanunun geçici 1 inci maddesinin (3) numaralı fıkrası uyarınca diğer kamu kurum ve kuruluşlarına nakledilecek personelden konsolide bütçeye tâbi kamu kurum ve kuruluşlarına dağıtılacak personel için, Devlet Personel Başkanlığınca nakil işlemi tamamlanmadan önce Maliye Bakanlığının uygun görüşü alınır.
 
 
 MADDE 25 – Bu Kanunun;

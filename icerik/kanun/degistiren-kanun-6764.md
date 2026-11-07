@@ -12,34 +12,34 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2016/12/20161209-5.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN MİLLÎ
-EĞİTİM BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No.
-6764 Kabul Tarihi: 02/12/2016
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN MİLLÎ**
+**EĞİTİM BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No.**
+**6764 Kabul Tarihi: 02/12/2016**
 
-MADDE 1- 25/8/2011 tarihli ve 652 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 5 inci maddesinin ikinci fıkrasında yer alan “beş” ibaresi “yedi” şeklinde değiştirilmiştir.
+**MADDE 1-** 25/8/2011 tarihli ve 652 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 5 inci maddesinin ikinci fıkrasında yer alan “beş” ibaresi “yedi” şeklinde değiştirilmiştir.
 
-MADDE 2- 652 sayılı Kanun Hükmünde Kararnamenin 6 ncı maddesinin birinci fıkrasının (j) bendinde yer alan “Rehberlik ve Denetim Başkanlığı” ibaresi “Teftiş Kurulu Başkanlığı” ve (l) bendinde yer alan “Hukuk Müşavirliği” ibaresi “Hukuk Hizmetleri Genel Müdürlüğü” şeklinde değiştirilmiştir.
+**MADDE 2-** 652 sayılı Kanun Hükmünde Kararnamenin 6 ncı maddesinin birinci fıkrasının (j) bendinde yer alan “Rehberlik ve Denetim Başkanlığı” ibaresi “Teftiş Kurulu Başkanlığı” ve (l) bendinde yer alan “Hukuk Müşavirliği” ibaresi “Hukuk Hizmetleri Genel Müdürlüğü” şeklinde değiştirilmiştir.
 
-MADDE 3- 652 sayılı Kanun Hükmünde Kararnamenin 9 uncu maddesinin birinci fıkrasına (c) bendinden sonra gelmek üzere aşağıdaki (ç) bendi eklenmiş ve mevcut (ç) bendi (d) bendi olarak teselsül ettirilmiştir.
+**MADDE 3-** 652 sayılı Kanun Hükmünde Kararnamenin 9 uncu maddesinin birinci fıkrasına (c) bendinden sonra gelmek üzere aşağıdaki (ç) bendi eklenmiş ve mevcut (ç) bendi (d) bendi olarak teselsül ettirilmiştir.
 “ç) 5/6/1986 tarihli ve 3308 sayılı Meslekî Eğitim Kanununa göre aday çırak, çırak, kalfa ve ustaların genel ve meslekî eğitimlerini sağlamak.”
 
-MADDE 4- 652 sayılı Kanun Hükmünde Kararnamenin 12 nci maddesinin birinci fıkrasının (e) bendi yürürlükten kaldırılmıştır.
+**MADDE 4-** 652 sayılı Kanun Hükmünde Kararnamenin 12 nci maddesinin birinci fıkrasının (e) bendi yürürlükten kaldırılmıştır.
 
-MADDE 5- 652 sayılı Kanun Hükmünde Kararnamenin 13 üncü maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 5-** 652 sayılı Kanun Hükmünde Kararnamenin 13 üncü maddesine aşağıdaki fıkra eklenmiştir.
 “(2) 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 7 nci maddesinin birinci fıkrasının (d) bendi, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 15 inci maddesinin birinci fıkrasının (c) bendi ile 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 7 nci maddesinin birinci fıkrasının (a) bendinde belirtilen izin veya ruhsatlara ilişkin hükümler, öğrencilere özel barınma hizmeti veren kurumlar hakkında uygulanmaz. Öğrencilere özel barınma hizmeti veren kurumlara iş yeri açma ve çalışma ruhsatı Bakanlıkça verilir.
 Bakanlık bu yetkisini valiliklere devredebilir. Bu fıkranın uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.”
 
-MADDE 6- 652 sayılı Kanun Hükmünde Kararnamenin 17 nci maddesinin başlığı “Teftiş Kurulu Başkanlığı” şeklinde, birinci fıkrasında yer alan “Rehberlik ve Denetim Başkanlığının görevleri şunlardır” ibaresi “Teftiş Kurulu Başkanlığı, Bakanın veya Bakanın yetkili kılması üzerine Müsteşarın emri veya onayı ile Bakan adına aşağıdaki görevleri yapar” şeklinde, birinci fıkrasının (ç) ve (d) bentleri ile ikinci fıkrasında yer alan “Maarif Müfettişleri” ibareleri “Bakanlık Maarif Müfettişleri” şeklinde, üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+**MADDE 6-** 652 sayılı Kanun Hükmünde Kararnamenin 17 nci maddesinin başlığı “Teftiş Kurulu Başkanlığı” şeklinde, birinci fıkrasında yer alan “Rehberlik ve Denetim Başkanlığının görevleri şunlardır” ibaresi “Teftiş Kurulu Başkanlığı, Bakanın veya Bakanın yetkili kılması üzerine Müsteşarın emri veya onayı ile Bakan adına aşağıdaki görevleri yapar” şeklinde, birinci fıkrasının (ç) ve (d) bentleri ile ikinci fıkrasında yer alan “Maarif Müfettişleri” ibareleri “Bakanlık Maarif Müfettişleri” şeklinde, üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
 “(3) Teftiş Kurulu Başkanlığı, Başkan ile Başkanlık birimlerinde ve çalışma merkezlerinde görevli Bakanlık Maarif Müfettişleri ve Bakanlık Maarif Müfettiş Yardımcılarından oluşur. Başkanlığın görev merkezi Ankara’dır. Bu merkez, Başkanlık birimlerinde görevlendirilen müfettişlerin aynı zamanda çalışma merkezidir.
 (4) Teftiş Kurulu Başkanlığının ve çalışma merkezlerinin görev, yetki ve sorumlulukları, çalışma usul ve esasları, Bakanlık Maarif Müfettişlerinin ve Bakanlık Maarif Müfettiş Yardımcılarının görev, yetki ve sorumlulukları, mesleğe alınmaları, yetiştirilmeleri, yeterlikleri, yükselmeleri, görevlendirilmeleri, çalışma merkezlerine dağılımları, merkezler arasında yer değiştirmeleri ve diğer hususlar yönetmelikle düzenlenir.”
 
-MADDE 7- 652 sayılı Kanun Hükmünde Kararnamenin 19 uncu maddesinin başlığı “Hukuk Hizmetleri Genel Müdürlüğü” şeklinde ve birinci fıkrasında yer alan “Hukuk Müşavirliğinin görevleri şunlardır” ibaresi “Hukuk Hizmetleri Genel Müdürlüğünün görevleri şunlardır” şeklinde değiştirilmiştir.
+**MADDE 7-** 652 sayılı Kanun Hükmünde Kararnamenin 19 uncu maddesinin başlığı “Hukuk Hizmetleri Genel Müdürlüğü” şeklinde ve birinci fıkrasında yer alan “Hukuk Müşavirliğinin görevleri şunlardır” ibaresi “Hukuk Hizmetleri Genel Müdürlüğünün görevleri şunlardır” şeklinde değiştirilmiştir.
 
-MADDE 8- 652 sayılı Kanun Hükmünde Kararnamenin 37 nci maddesinin dokuzuncu fıkrasına aşağıdaki cümle eklenmiştir.
+**MADDE 8-** 652 sayılı Kanun Hükmünde Kararnamenin 37 nci maddesinin dokuzuncu fıkrasına aşağıdaki cümle eklenmiştir.
 “2547 sayılı Yükseköğretim Kanununun 38 inci maddesi kapsamında üniversitelerde görev yapan öğretim elemanlarına bu okullarda okul müdürlüğü görevi verilebilir.”
 
-MADDE 9- 652 sayılı Kanun Hükmünde Kararnamenin 41 inci maddesinin başlığı “Bakanlık Maarif Müfettişleri ve çalışma merkezleri” şeklinde, birinci, ikinci ve altıncı fıkraları aşağıdaki şekilde, üçüncü ve dördüncü fıkralarında yer alan “Maarif Müfettiş Yardımcısı” ibareleri “Bakanlık Maarif Müfettiş Yardımcısı” şeklinde, dördüncü fıkrasında yer alan “Maarif Müfettiş Yardımcılığına” ibaresi “Bakanlık Maarif Müfettiş Yardımcılığına” şeklinde değiştirilmiş ve aynı maddenin beşinci fıkrası yürürlükten kaldırılmıştır.
+**MADDE 9-** 652 sayılı Kanun Hükmünde Kararnamenin 41 inci maddesinin başlığı “Bakanlık Maarif Müfettişleri ve çalışma merkezleri” şeklinde, birinci, ikinci ve altıncı fıkraları aşağıdaki şekilde, üçüncü ve dördüncü fıkralarında yer alan “Maarif Müfettiş Yardımcısı” ibareleri “Bakanlık Maarif Müfettiş Yardımcısı” şeklinde, dördüncü fıkrasında yer alan “Maarif Müfettiş Yardımcılığına” ibaresi “Bakanlık Maarif Müfettiş Yardımcılığına” şeklinde değiştirilmiş ve aynı maddenin beşinci fıkrası yürürlükten kaldırılmıştır.
 “(1) Bakanlık tarafından veya Bakanlığın denetiminde sunulan hizmetlerin rehberlik ve teftişini sağlamak amacıyla gerekli görülen illerde Bakan onayı ile çalışma merkezleri kurulabilir veya bu merkezler aynı yolla kaldırılabilir.
 Teftiş Kurulu Başkanlığında ve çalışma merkezlerinde yeterli sayıda Bakanlık Maarif Müfettişi ve Bakanlık Maarif Müfettiş Yardımcısı istihdam edilir.
 (2) Bakanlık Maarif Müfettiş Yardımcılığına atanabilmek için 657 sayılı Kanunun 48 inci maddesinde sayılan genel şartlara ek olarak aşağıdaki şartlar aranır:
@@ -47,10 +47,10 @@ a) En az dört yıllık lisans eğitimi veren hukuk, siyasal bilgiler, iktisadi 
 b) Yapılacak yarışma sınavında başarılı olmak.”
 “(6) Bakanlık Maarif Müfettişleri ve Bakanlık Maarif Müfettiş Yardımcılarının görevlendirildikleri çalışma merkezinde en az bir yıl çalışmaları esastır. Başkanlık, hizmetin gereği ve ihtiyaç halinde bu süre kaydını gözetmeden Bakanlık Maarif Müfettişleri ve Bakanlık Maarif Müfettiş Yardımcılarının görevlendirildiği çalışma merkezini değiştirebilir.”
 
-MADDE 10- 652 sayılı Kanun Hükmünde Kararnamenin 43 üncü maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 10-** 652 sayılı Kanun Hükmünde Kararnamenin 43 üncü maddesine aşağıdaki fıkra eklenmiştir.
 “(3) Engelli bireylerin özel eğitim ve rehabilitasyon merkezlerine veya birimlerine kayıt ve kabul işlemleri ile engelli birey ve eğitim personelinin ders devam takibi, 1/9/2017 tarihinden itibaren biyometrik kimlik doğrulama sistemi veya kameralı görüntüleme sistemi ile yapılır. Bu yöntemlerle ders devam takibi mümkün olmayan engelli bireylerin ders devam takibi ile kimlik doğrulama sistemi veya kameralı görüntüleme sistemine ilişkin diğer usul ve esaslar yönetmelikle belirlenir.”
 
-MADDE 11- 652 sayılı Kanun Hükmünde Kararnamenin ek 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11-** 652 sayılı Kanun Hükmünde Kararnamenin ek 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “EK MADDE 1- (1) Bakanlık tarafından kamu veya özel hukuk tüzel kişileri ile gerçek kişilere, okul ve kurumların eğitim ve öğretim programları, taslak ders kitapları ve diğer yayınları ile eğitim araç ve gereçlerinin ve Bakanlıkça yapılan sınavların sorularının hazırlatılması veya inceletilmesi karşılığı ilgili mevzuat uyarınca ödenecek bedel ve telif ücretleri ile taslak kitap, ders kitabı, eğitim araç ve gereçlerinin inceleme işlerinde görev alanlara yapılacak ödeme döner sermaye hesabından karşılanır. Bu fıkra uyarınca yapılacak ödemeye ilişkin usul ve esaslar Maliye Bakanlığının görüşü alınarak Bakanlıkça tespit edilir.
 (2) Bakanlığa sunulan taslak ders kitapları ile diğer eğitim araç ve gereçlerinin incelenmesi ve Bakanlıkça yapılan sınavlar karşılığında Bakanlık döner sermaye hesabına yatırılacak bedelin tutarı ile tahsiline ilişkin usul ve esaslar Bakanlıkça tespit edilir.
 (3) 1416 sayılı Kanun uyarınca yapılan sınavlar da dahil olmak üzere Bakanlıkça yapılan merkezi sınavlarda görev yapan bina sınav sorumluları ile sınav koordinatörüne, sınav koordinatör yardımcılarına, bina yöneticilerine, salon başkanlarına, gözetmenlere, sınav güvenliğini sağlayan kolluk kuvvetlerine, soruların hazırlanmasında kapalı dönem çalışanlara ve sınav sürecinde görev alan diğer personele döner sermaye hesabından sınav veya soru ücreti ödenir.
@@ -58,11 +58,11 @@ Bakanlık merkez teşkilatında kadrolu veya sözleşmeli çalışan personele s
 Sınav ücretinin tutarı ile usul ve esasları; sınavın özelliği, sınava katılanların sayısı, sınav görevlilerinin görev ve yetkileri ile çalışma süresi, sınav yerinin özelliği ve merkezi sınavlarda sınav ücretinin ödenme kaynağı gibi hususlar dikkate alınmak suretiyle Bakanlar Kurulu kararı ile tespit edilir.
 (4) Yurtdışında büyükelçilikler ve başkonsolosluklar aracılığıyla Bakanlığa bağlı olarak faaliyet gösteren okulların hizmet binası yapımı, donatımı, kefalet ücreti ve kira giderleri ile Bakanlıkça uygun görülen diğer ihtiyaçları Bakanlık bütçesine bu amaçla konulacak ödenekten karşılanır.”
 
-MADDE 12- 652 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
+**MADDE 12-** 652 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
 “EK MADDE 5- (1) 17/2/2011 tarihli ve 6114 sayılı Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 7 nci maddesinin ikinci, üçüncü, dördüncü ve beşinci fıkraları, 8 inci maddesinin dördüncü fıkrası, 9 uncu maddesinin birinci, ikinci, üçüncü, dördüncü, beşinci, yedinci ve sekizinci fıkraları ile zorunlu öğretim kapsamında öğrenim gören öğrenciler hariç 10 uncu maddesi hükümleri Bakanlıkça yapılan merkezi sınavlar hakkında da uygulanır.
 (2) Bakanlık tarafından yapılan merkezi sınavlara ilişkin olarak birinci fıkra hükümlerinin uygulanmasında; Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına yapılan atıflar Bakanlığa yapılmış sayılır ve 6114 sayılı Kanunun 9 uncu maddesinin üçüncü fıkrasındaki yetkiler Bakanlık, 7 nci maddesinin üçüncü fıkrası, 9 uncu maddesinin ikinci ve sekizinci fıkraları ile 10 uncu maddesinin beşinci fıkrasındaki yetkiler Ölçme, Değerlendirme ve Sınav Hizmetleri Genel Müdürlüğü ve 10 uncu maddesinin sekizinci fıkrasındaki yetkiler Bakanlık Müsteşarı tarafından kullanılır.”
 
-MADDE 13- 652 sayılı Kanun Hükmünde Kararnameye aşağıdaki geçici madde eklenmiştir.
+**MADDE 13-** 652 sayılı Kanun Hükmünde Kararnameye aşağıdaki geçici madde eklenmiştir.
 “Personele ilişkin geçiş hükümleri
 
 GEÇİCİ MADDE 12- (1) Bu maddenin yürürlüğe girdiği tarihte;
@@ -79,43 +79,43 @@ c) Özgüveni, ikna kabiliyeti ve inandırıcılığının,
 ç) Genel yetenek ve genel kültürünün,
 d) Çağdaş, bilimsel ve teknolojik gelişmelere açıklığının, puan vermek suretiyle değerlendirilmesi yöntemidir. Mülakat komisyonu başkan ve üyeleri tarafından verilen puanlar ayrı ayrı tutanağa geçirilir. Mülakat komisyonunun oluşturulması ile komisyonun çalışma usul ve esasları Bakanlıkça belirlenir.”
 
-MADDE 14- 652 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvel ekteki şekilde değiştirilmiştir.
+**MADDE 14-** 652 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvel ekteki şekilde değiştirilmiştir.
 
-MADDE 15- 8/4/1929 tarihli ve 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanunun 13 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 15-** 8/4/1929 tarihli ve 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanunun 13 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 13- Öğrenci ödeneği, bütün öğrencileri kapsamak üzere her yıl Millî Eğitim ve Maliye Bakanlıklarınca tespit edilecek aylık miktar ile zaruri giderler toplamından teşekkül eder.
 Bu Kanun kapsamında yurt dışına gönderilenlerin bakmakla yükümlü oldukları eş ve çocuklarının tedavi giderleri, sürekli görevle yurt dışına gönderilen Devlet memurlarının bakmakla yükümlü oldukları kişiler için 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda belirlenmiş olan usul ve esaslar çerçevesinde ilgili kamu kurum ve kuruluşlarınca karşılanır.”
 
-MADDE 16- 1416 sayılı Kanunun 17 nci maddesinin ikinci fıkrasının birinci cümlesinde yer alan “üç ay zarfında” ibaresi “iki ay zarfında” şeklinde değiştirilmiştir.
+**MADDE 16-** 1416 sayılı Kanunun 17 nci maddesinin ikinci fıkrasının birinci cümlesinde yer alan “üç ay zarfında” ibaresi “iki ay zarfında” şeklinde değiştirilmiştir.
 
-MADDE 17- 1416 sayılı Kanunun 19 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 17-** 1416 sayılı Kanunun 19 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 19- Geriye çağrılan talebe ile tahsillerini bitirerek iki ay zarfında avdet eylemeyen, 17 nci ve 18 inci maddeler mucibince müracaat ve teklif olunan hizmetleri kabul etmeyen talebe ile bunlardan mecburi hizmet müddeti içinde istifa eden veyahut memuriyetten ihraç cezasına uğrayanlar, 657 sayılı Devlet Memurları Kanununun ek 34 üncü maddesine göre tahsil masraflarını faizleriyle birlikte ödemeye mecburdur.
 Yurt dışına gönderilenlerden ruh veya beden sağlığının öğrenimini sürdürmesine imkân tanımaması durumu, eğitim ve araştırma hastaneleri veya üniversite hastanelerinden alınacak sağlık kurulu raporu ve bu hususla ilgili olarak Millî Eğitim Bakanlığınca istenen diğer destekleyici belgeler ile tespit edilenlerin öğrencilikle ilişiği kesilir. Bu kişilerden tahsil masrafı istenmez ve bu kişiler mecburi hizmetle yükümlü tutulmaz.”
 
-MADDE 18- 1416 sayılı Kanunun 21 inci maddesine üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
+**MADDE 18-** 1416 sayılı Kanunun 21 inci maddesine üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
 “Kamu kurum ve kuruluşlarında memur olarak çalışırken bu Kanun kapsamında yurt dışına gönderilmeye hak kazananlara, öğrenim süreleri boyunca kurumları tarafından aylıksız izin verilir. Bu kişiler öğrenimlerini başarıyla tamamlayıp mecburi hizmet yükümlülüklerini ifa etmek üzere aylıksız izinli olarak ayrıldıkları kadrolarına döndükten sonra, adına öğrenim gördükleri kurumların ilgili kadrolarına en geç altı ay içerisinde naklen atanırlar. Aylıksız izin sebebinin ortadan kalkmasından itibaren iki ay içinde görevine dönmeyenler, memuriyetten çekilmiş sayılır.
 Yükseköğretim kurumları adına ve Millî Eğitim Bakanlığı hesabına lisansüstü öğrenim görenlerin mecburi hizmet yükümlülüklerinin, yükseköğretim kurumları ile kamu kurum ve kuruluşlarına devrine Yükseköğretim Kurulunun uygun görüşü üzerine Millî Eğitim Bakanlığınca karar verilir. Kamu kurum ve kuruluşları adına lisansüstü öğrenim görenlerin mecburi hizmet yükümlülüklerinin kamu kurum ve kuruluşları ile yükseköğretim kurumlarına devrine ise Millî Eğitim Bakanlığınca karar verilir.”
 
-MADDE 19- 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 33 üncü maddesinin (b) fıkrasına “Maarif Müfettişleri ve Maarif Müfettiş Yardımcıları” ibaresinden önce gelmek üzere “Gençlik ve Spor Bakanlığı Denetçileri ile Gençlik ve Spor Bakanlığı Denetçi Yardımcıları, Bakanlık Maarif Müfettişleri ve Bakanlık Maarif Müfettiş Yardımcıları,” ibaresi eklenmiştir.
+**MADDE 19-** 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 33 üncü maddesinin (b) fıkrasına “Maarif Müfettişleri ve Maarif Müfettiş Yardımcıları” ibaresinden önce gelmek üzere “Gençlik ve Spor Bakanlığı Denetçileri ile Gençlik ve Spor Bakanlığı Denetçi Yardımcıları, Bakanlık Maarif Müfettişleri ve Bakanlık Maarif Müfettiş Yardımcıları,” ibaresi eklenmiştir.
 
-MADDE 20- 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun 1 inci maddesinin birinci fıkrasına “sosyal güvenlik kurumları ile” ibaresinden sonra gelmek üzere “vakıf yükseköğretim kurumları,” ibaresi eklenmiştir.
+**MADDE 20-** 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun 1 inci maddesinin birinci fıkrasına “sosyal güvenlik kurumları ile” ibaresinden sonra gelmek üzere “vakıf yükseköğretim kurumları,” ibaresi eklenmiştir.
 
-MADDE 21- 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 36 ncı maddesinin “ORTAK HÜKÜMLER” başlıklı bölümünün (A) fıkrasının onbirinci bendinde yer alan “Maliye Bakanlığı Vergi Müfettiş Yardımcıları” ibaresinden sonra gelmek üzere “Bakanlık Maarif Müfettiş Yardımcıları” ibaresi, “Vergi Müfettişliğine” ibaresinden sonra gelmek üzere “Bakanlık Maarif Müfettişliğine” ibaresi eklenmiştir.
+**MADDE 21-** 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 36 ncı maddesinin “ORTAK HÜKÜMLER” başlıklı bölümünün (A) fıkrasının onbirinci bendinde yer alan “Maliye Bakanlığı Vergi Müfettiş Yardımcıları” ibaresinden sonra gelmek üzere “Bakanlık Maarif Müfettiş Yardımcıları” ibaresi, “Vergi Müfettişliğine” ibaresinden sonra gelmek üzere “Bakanlık Maarif Müfettişliğine” ibaresi eklenmiştir.
 
-MADDE 22- 657 sayılı Kanunun;
+**MADDE 22-** 657 sayılı Kanunun;
 1) 152 nci maddesinin “II- Tazminatlar” kısmının “A- Özel Hizmet Tazminatı” bölümünün (g) bendine “Çalışma ve Sosyal Güvenlik Bakanlığı İş Başmüfettiş, Müfettiş ve Müfettiş Yardımcıları” ibaresinden sonra gelmek üzere “, Bakanlık Maarif Müfettişi ve Bakanlık Maarif Müfettiş Yardımcıları” ibaresi eklenmiştir.
 2) Eki (I) sayılı Ek Gösterge Cetvelinin “I- Genel İdare Hizmetleri Sınıfı” bölümünün (g) bendinde yer alan “Millî Eğitim Denetçileri” ibaresi “Bakanlık Maarif Müfettişleri” şeklinde değiştirilmiştir.
 3) Eki (IV) sayılı Makam Tazminatı Cetvelinin 8 inci sırasının (a) bendinde yer alan “Millî Eğitim Denetçileri” ibaresi “Bakanlık Maarif Müfettişleri” şeklinde değiştirilmiştir.
 
-MADDE 23- 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun 26 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 23-** 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun 26 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 26- Ortaöğretim; ilköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim veren genel, mesleki ve teknik öğretim kurumları ile mesleki eğitim merkezlerinin tümünü kapsar. Bu okul ve kurumları bitirenlere, bitirdikleri programın özelliğine göre diploma verilir. Ancak mesleki eğitim merkezi öğrencilerinin diploma alabilmeleri için Millî Eğitim Bakanlığınca belirlenen fark derslerini tamamlaması zorunludur.”
 
-MADDE 24- 1739 sayılı Kanunun 29 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve ikinci fıkrası yürürlükten kaldırılmıştır.
+**MADDE 24-** 1739 sayılı Kanunun 29 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve ikinci fıkrası yürürlükten kaldırılmıştır.
 “Ortaöğretim, çeşitli programlar uygulayan liseler ile mesleki eğitim merkezlerinden meydana gelir.”
 
-MADDE 25- 2547 sayılı Kanunun 45 inci maddesinin birinci fıkrasının (d) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 25-** 2547 sayılı Kanunun 45 inci maddesinin birinci fıkrasının (d) bendi aşağıdaki şekilde değiştirilmiştir.
 “d. Bir mesleğe yönelik program uygulayan liselerin mezunlarının, Yükseköğretim Kurulu tarafından belirlenecek aynı alanda bir önlisans programına yerleşmelerinde, merkezi sınavlardan almış oldukları puanlara bu fıkranın (b) bendine göre hesaplanan ortaöğretim başarı puanı ve bu puanın Yükseköğretim Kurulu tarafından tespit edilecek katsayı ile çarpımı sonucu bulunacak puan eklenir.”
 
-MADDE 26- 2547 sayılı Kanunun 53 üncü maddesinin (a) ve (b) fıkraları aşağıdaki şekilde; (c) fıkrasının birinci paragrafında yer alan “ileri sürülen suçlar hakkında” ibaresi “ileri sürülen suçlar hakkında yetkili makamlarca inceleme başlatılabilir, inceleme sonucunda soruşturma açılmasına karar verilmesi ya da doğrudan soruşturma başlatılması hâlinde” şeklinde ve aynı fıkranın (2) numaralı bendinin (b) alt bendinde yer alan “üniversite” ibaresi “Devlet ve vakıf yükseköğretim kurumu” şeklinde değiştirilmiştir.
+**MADDE 26-** 2547 sayılı Kanunun 53 üncü maddesinin (a) ve (b) fıkraları aşağıdaki şekilde; (c) fıkrasının birinci paragrafında yer alan “ileri sürülen suçlar hakkında” ibaresi “ileri sürülen suçlar hakkında yetkili makamlarca inceleme başlatılabilir, inceleme sonucunda soruşturma açılmasına karar verilmesi ya da doğrudan soruşturma başlatılması hâlinde” şeklinde ve aynı fıkranın (2) numaralı bendinin (b) alt bendinde yer alan “üniversite” ibaresi “Devlet ve vakıf yükseköğretim kurumu” şeklinde değiştirilmiştir.
 “a. Yükseköğretim Kurulu Başkanı üst kuruluşlar, rektörler ve bağımsız vakıf meslek yüksekokulu müdürlerinin ve 53/Ç maddesinin birinci fıkrasının (e) bendinde yer alan fiillerle ilgili olarak öğretim elemanlarının; rektör, üniversitenin; bağımsız vakıf meslek yüksekokulu müdürü, bağımsız vakıf meslek yüksekokulunun; dekan, fakültenin; enstitü ve yüksekokul müdürleri, enstitü ve yüksekokulların; kadrosu bulunan uygulama araştırma merkezi ile bağımsız enstitü müdürleri, uygulama araştırma merkezi ile enstitünün; bu birimlerin genel sekreter veya sekreterleri de bağlı birim personelinin disiplin amirleridir.
 b. Devlet ve vakıf yükseköğretim kurumlarının öğretim elemanları, memur ve diğer personeline uygulanabilecek disiplin cezaları uyarma, kınama, aylıktan veya ücretten kesme, kademe ilerlemesinin durdurulması veya birden fazla ücretten kesme, üniversite öğretim mesleğinden çıkarma ve kamu görevinden çıkarma cezalarıdır.
 (1) 657 sayılı Kanundaki fiillere ilave olarak bu Kanun kapsamındaki kamu görevlileri için uyarma cezasını gerektiren fiiller şunlardır:
@@ -167,7 +167,7 @@ d) Uyuşturucu veya uyuşturucu olarak kabul edilen diğer uyarıcı maddeleri k
 e) Hukuka aykırı olarak kurumun verilerini elde etmek, kaydetmek, kullanmak, depolamak, dağıtmak, değiştirmek veya yok etmek.
 f) Kurumun bilişim sistemlerinin işleyişini kasten engellemek veya bozmak.”
 
-MADDE 27- 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 27-** 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Disiplin soruşturması ve savunma hakkı:
 
 MADDE 53/A- Disiplin soruşturmasında uyulacak esaslar şunlardır:
@@ -195,7 +195,7 @@ b) Savunmaya davet yazısında hakkında disiplin soruşturması açılan fiilin
 c) Disiplin cezası vermeye yetkili makamlar gerek görürse, isnat edilen fiil ve soruşturma raporunda önerilen disiplin cezasını da belirtmek suretiyle, bu maddedeki esaslar çerçevesinde (a) ve (b) bentlerindeki usule göre tekrar savunma isteyebilir.
 Hakkında üniversite öğretim mesleğinden çıkarma ve kamu görevinden çıkarma cezası istenenler soruşturma evrakını inceleme, tanık dinletme, disiplin kurulunda sözlü veya yazılı olarak kendisi veya vekili vasıtasıyla savunma yapma hakkına sahiptir.”
 
-MADDE 28- 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 28-** 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Görevden uzaklaştırma:
 
 MADDE 53/B- Görevden uzaklaştırma, Devlet veya vakıf yükseköğretim kurumlarında yürütülen kamu hizmetinin gerektirdiği hallerde, görevi başında kalmasında sakınca görülen üst kuruluşlar ile yükseköğretim kurumu yöneticileri, öğretim elemanları, memurlar ve diğer personel hakkında alınan ihtiyati bir tedbirdir. Görevden uzaklaştırma tedbiri disiplin veya ceza soruşturmasının herhangi bir safhasında üç ay süreyle alınabilir. Soruşturmayı yürütenler görevden uzaklaştırmayı teklif edebilirler. Bu sürenin bitiminde tedbir kararının alınmasına ilişkin sebeplerin devam etmesi halinde tedbir her defasında üç ay uzatılabilir.
@@ -209,7 +209,7 @@ Soruşturma sonunda kamu görevinden çıkarma cezası önerilmesi hali dışın
 Görevden uzaklaştırma tedbiri alınmakla beraber, soruşturma sonunda yetkili makam veya mercilerce hakkında kamu görevinden çıkarmadan başka bir disiplin cezası verilenler ile ceza kararından evvel haklarındaki disiplin soruşturması af ile kaldırılanlar, bu kararların kesinleşmesi üzerine veya tedbir süresinin dolması hâlinde derhal göreve iade edilirler.
 Kişinin görevi başında kalmasının, soruşturmanın devamına engel olmadığı hallerde görevden uzaklaştırma tedbiri süresi dolmadan da kaldırılabilir.”
 
-MADDE 29- 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 29-** 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Zamanaşımı:
 
 MADDE 53/C- Disiplin cezası verilmesini gerektiren fiil ve hallerin işlendiğinin öğrenildiği tarihten itibaren;
@@ -219,7 +219,7 @@ Disiplin cezası verilmesini gerektiren fiillerin işlendiği tarihten itibaren 
 Bilimsel bir eserin akademik atama ve terfilerde kullanılması ya da kısmen veya tamamen yeniden yayımlanması hâlinde ikinci fıkrada belirtilen zamanaşımı süreleri yeniden işlemeye başlar.
 Disiplin cezasının yargı kararıyla iptal edilmesi hâlinde, kararın idareye ulaştığı tarihten itibaren kalan disiplin ceza zamanaşımı süresi içerisinde, zamanaşımı süresinin dolması veya üç aydan daha az süre kalması hâlinde en geç üç ay içerisinde karar gerekçesi dikkate alınarak yeniden disiplin cezası tesis edilebilir.”
 
-MADDE 30- 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 30-** 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Disiplin cezası verme yetkisi:
 
 MADDE 53/Ç- Disiplin cezası vermeye yetkili amir ve kurullar şunlardır:
@@ -233,7 +233,7 @@ Disiplin cezası vermeye yetkili makamlar, soruşturmada eksiklik olduğunun tes
 Disiplin cezası verme yetkisi devredilemez.
 Disiplin kurulları gerekli gördüğü takdirde ilgilinin özlük dosyasını ve her türlü evrakı incelemeye, ilgili yerlerden bilgi almaya, her türlü incelemeyi yaptırmaya, yeminli tanık ve bilirkişi dinlemeye veya niyabeten dinletmeye, keşif yapmaya veya yaptırmaya yetkilidir.”
 
-MADDE 31- 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 31-** 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Disiplin cezası verilmesinde uygulanacak temel ilkeler:
 
 MADDE 53/D- Aynı fiile birden fazla disiplin cezası verilemez.
@@ -247,7 +247,7 @@ Disiplin cezaları, verildikleri tarihten itibaren, aylıktan veya ücretten kes
 Disiplin cezaları üst disiplin amirine, üniversite öğretim mesleğinden çıkarma cezası tüm yükseköğretim kurumlarına, kamu görevinden çıkarma cezası ise ayrıca Devlet Personel Başkanlığına bildirilir.
 Aylıktan veya ücretten kesme cezası alanlar üç yıl, kademe ilerlemesinin durdurulması veya birden fazla ücretten kesme cezası alanlar beş yıl boyunca rektör, dekan, enstitü müdürü, yüksekokul müdürü, meslek yüksekokulu müdürü, bölüm başkanı, anabilim dalı başkanı, anasanat dalı başkanı, bilim dalı başkanı, sanat dalı başkanı, daire başkanı dengi ve üstü kadrolara atanamazlar. Söz konusu disiplin cezalarının verildiği tarihte bu görevlerde bulunanların görevleri kendiliğinden sona erer ve durum ilgili mercilere derhal bildirilir.”
 
-MADDE 32- 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 32-** 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Disiplin kurullarının teşekkülü:
 
 MADDE 53/E- Yüksek Disiplin Kurulu Yükseköğretim Genel Kuruludur.
@@ -258,7 +258,7 @@ Yüksek Disiplin Kurulu hariç, disiplin kurullarında profesörlerle ilgili hus
 Soruşturmada görev alanlar disiplin kurullarındaki oylamalara, disiplin kurulunda görev alanlar ile disiplin cezası verenler bu cezalara itirazların görüşüldüğü kurullardaki oylamalara katılamazlar.
 Herhangi bir sebeple disiplin kurullarının teşekkül edememesi halinde eksik üyelikler eşdeğer unvana sahip öğretim üyeleri arasından senato tarafından belirlenen üyelerce tamamlanır.”
 
-MADDE 33- 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 33-** 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “İtiraz:
 
 MADDE 53/F- Disiplin cezalarına itiraz edilebilecek amir ve kurullar şunlardır:
@@ -268,102 +268,102 @@ b) Aylıktan veya ücretten kesme ve kademe ilerlemesinin durdurulması veya bir
 İtiraz mercileri, itiraz tarihinden itibaren altmış gün içinde karar verir.
 İtiraz mercileri itirazı kabul ya da reddedebilir. İtirazın kabul edilmesi halinde ceza tüm sonuçlarıyla ortadan kalkar, ancak ilgili disiplin amiri veya disiplin kurulu tarafından kabul gerekçesine uygun olarak en geç üç ay içerisinde yeni bir işlem tesis edilebilir.”
 
-MADDE 34- 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 34-** 2547 sayılı Kanuna 53 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Özlük dosyasında saklama:
 
 MADDE 53/G- Disiplin cezaları ilgililerin özlük dosyalarında saklanır.
 Uyarma ve kınama cezalarının uygulanmasından itibaren beş yıl, aylıktan veya ücretten kesme ve kademe ilerlemesinin durdurulması veya birden fazla ücretten kesme cezalarının uygulanmasından itibaren on yıl sonra atamaya yetkili amire başvurularak verilmiş olan cezaların özlük dosyasından silinmesi talep edilebilir. İlgilinin, bu süreler içerisindeki davranışları, isteğini haklı kılacak nitelikte görülürse, talep yerine getirilir.”
 
-MADDE 35- 2547 sayılı Kanunun 65 inci maddesinin (a) fıkrasına aşağıdaki bent eklenmiştir.
+**MADDE 35-** 2547 sayılı Kanunun 65 inci maddesinin (a) fıkrasına aşağıdaki bent eklenmiştir.
 “(14) Bilimsel araştırma ve yayın etiği kurullarının oluşumu, görevleri ve çalışmalarına ilişkin usul ve esaslar.”
 
-MADDE 36- 5/6/1986 tarihli ve 3308 sayılı Meslekî Eğitim Kanununun 1 inci maddesinin birinci fıkrasına “okullarda” ibaresinden sonra gelmek üzere “, yükseköğretim kurumlarında” ibaresi eklenmiştir.
+**MADDE 36-** 5/6/1986 tarihli ve 3308 sayılı Meslekî Eğitim Kanununun 1 inci maddesinin birinci fıkrasına “okullarda” ibaresinden sonra gelmek üzere “, yükseköğretim kurumlarında” ibaresi eklenmiştir.
 
-MADDE 37- 3308 sayılı Kanunun 2 nci maddesinin birinci fıkrasına “Bu Kanun,” ibaresinden sonra gelmek üzere “Yükseköğretim Kurulu ve” ibaresi eklenmiştir.
+**MADDE 37-** 3308 sayılı Kanunun 2 nci maddesinin birinci fıkrasına “Bu Kanun,” ibaresinden sonra gelmek üzere “Yükseköğretim Kurulu ve” ibaresi eklenmiştir.
 
-MADDE 38- 3308 sayılı Kanunun 3 üncü maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
+**MADDE 38-** 3308 sayılı Kanunun 3 üncü maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
 “p) “Eğitim Birimi”, bu Kanun kapsamında öğrencilerin teorik ve beceri eğitimi, staj veya tamamlayıcı eğitim ile işletme personelinin eğitimi amacıyla işletmeler tarafından oluşturulan, gerekli araç, gereç ve donanıma sahip eğitim ortamını;
 r) “Staj”, öğrencilerin öğretim programlarıyla kazandırılması öngörülen mesleki bilgi, beceri, tutum ve davranışlarını geliştirmeleri, sektörü tanımaları, iş hayatına uyumları, gerçek üretim ve hizmet ortamında yetişmeleri amacıyla işletmede yaptıkları mesleki çalışmayı;
 s) “Tamamlayıcı Eğitim”, açık öğretim yoluyla eğitimi yapılamayan alan veya dallarda, mesleki ve teknik orta öğretim programlarını tamamlayamadan okuldan ayrılanlar ile yurtdışında öğrenim görenlerin denklik işlemleri sonucunda tespit edilen eksik meslek alan veya dal derslerini işletmelerde mesleki eğitim esaslarına göre tamamlamalarına imkân sağlayan eğitimi;”
 
-MADDE 39- 3308 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (a) bendi yürürlükten kaldırılmış ve (b) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 39-** 3308 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (a) bendi yürürlükten kaldırılmış ve (b) bendi aşağıdaki şekilde değiştirilmiştir.
 “b) En az ortaokul veya imam-hatip ortaokulu mezunu olmak.”
 
-MADDE 40- 3308 sayılı Kanunun 14 üncü maddesinin ikinci fıkrası yürürlükten kaldırılmıştır.
+**MADDE 40-** 3308 sayılı Kanunun 14 üncü maddesinin ikinci fıkrası yürürlükten kaldırılmıştır.
 
-MADDE 41- 3308 sayılı Kanunun 18 inci maddesinin birinci, üçüncü, beşinci ve sekizinci fıkraları aşağıdaki şekilde değiştirilmiştir.
+**MADDE 41-** 3308 sayılı Kanunun 18 inci maddesinin birinci, üçüncü, beşinci ve sekizinci fıkraları aşağıdaki şekilde değiştirilmiştir.
 “On ve daha fazla personel çalıştıran işletmeler, çalıştırdıkları personel sayısının yüzde beşinden az olmamak üzere mesleki ve teknik eğitim okul ve kurumu öğrencilerine beceri eğitimi, mesleki ve teknik ortaöğretim okul ve kurumu öğrencilerine staj ve tamamlayıcı eğitim yaptırır. Öğrenci sayısının tespitinde kesirler tam sayıya tamamlanır. Bu işletmeler mesleki ve teknik eğitim yapan yükseköğretim kurumu öğrencilerine staj yaptırabilir.”
 “Mesleki eğitim kapsamına alınıp alınmadığına bakılmaksızın ondan az personel çalıştıran işletmeler de mesleki ve teknik eğitim okul ve kurumları öğrencilerine bu Kanunun ilgili hükümlerine göre beceri eğitimi, staj ve tamamlayıcı eğitim yaptırabilirler.”
 “Bu Kanun kapsamında on ve daha fazla personel çalıştıran işletmeler, çalışma ve iş kurumu il müdürlüklerince her yıl şubat ayı içerisinde il millî eğitim müdürlüklerine ve o ildeki yükseköğretim kurumlarına bildirilir. Beceri eğitimi, staj ve tamamlayıcı eğitim yaptıracak Türk Silahlı Kuvvetlerine bağlı işletmeler, Bakanlık ve Millî Savunma Bakanlığınca birlikte belirlenir.”
 “Bu madde kapsamında on ve daha fazla öğrenciye beceri eğitimi, staj ve tamamlayıcı eğitim yaptıracak işletmeler bu amaçla bir eğitim birimi kurar. Bu birimde, yapılan eğitim için alanında ustalık yeterliğine sahip ve iş pedagojisi eğitimi almış usta öğretici veya eğitici personel görevlendirilir.”
 
-MADDE 42- 3308 sayılı Kanunun 20 nci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 42-** 3308 sayılı Kanunun 20 nci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Mesleki ve teknik eğitim okul ve kurumlarında ve işletmelerde yapılan mesleki eğitim, staj ve tamamlayıcı eğitime ilişkin usul ve esaslar ile sınavların yapılış şekilleri, Bakanlık ve Yükseköğretim Kurulunca çıkarılan yönetmeliklerle düzenlenir.”
 
-MADDE 43- 3308 sayılı Kanunun 21 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 43-** 3308 sayılı Kanunun 21 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 21- İşletmelerde mesleki eğitim, staj ve tamamlayıcı eğitim gören öğrenciler, işyerlerinin şartlarına ve çalışma düzenine uymak zorundadırlar.”
 
-MADDE 44- 3308 sayılı Kanunun 23 üncü maddesi yürürlükten kaldırılmıştır.
+**MADDE 44-** 3308 sayılı Kanunun 23 üncü maddesi yürürlükten kaldırılmıştır.
 
-MADDE 45- 3308 sayılı Kanunun 25 inci maddesinin birinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiş ve aynı maddenin beşinci fıkrasına “mesleki eğitim gören” ibaresinden sonra gelmek üzere “, staj veya tamamlayıcı eğitime devam eden öğrenciler ile mesleki ve teknik eğitim okul ve kurumlarında alan eğitimine başlayan” ibaresi eklenmiştir.
+**MADDE 45-** 3308 sayılı Kanunun 25 inci maddesinin birinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiş ve aynı maddenin beşinci fıkrasına “mesleki eğitim gören” ibaresinden sonra gelmek üzere “, staj veya tamamlayıcı eğitime devam eden öğrenciler ile mesleki ve teknik eğitim okul ve kurumlarında alan eğitimine başlayan” ibaresi eklenmiştir.
 “Aday çırak ve çıraklar ile işletmelerde mesleki eğitim gören, staj veya tamamlayıcı eğitime devam eden öğrencilere işletmeler tarafından ödenecek ücret ve bu ücretlerdeki artışlar, düzenlenecek sözleşme ile tespit edilir.
 Ancak, işletmelerde mesleki eğitim gören öğrenciler ile mesleki ve teknik ortaöğretim okul ve kurumlarında staj veya tamamlayıcı eğitim gören öğrencilere asgari ücretin net tutarının; yirmi ve üzerinde personel çalıştıran işyerlerinde yüzde otuzundan, yirmiden az personel çalıştıran işyerlerinde yüzde onbeşinden, aday çırak ve çırağa yaşına uygun asgari ücretin yüzde otuzundan aşağı ücret ödenemez. Bu amaçla kamu kurum ve kuruluşları gerekli tedbirleri alır. Staj yapacak işletme bulunamaması nedeniyle stajını okulda yapan ortaöğretim öğrencilerinin yaptıkları stajlar bu fıkra hükmü kapsamı dışındadır.”
 “Aday çırak, çıraklar, işletmelerde mesleki eğitim gören öğrenciler ile mesleki ve teknik ortaöğretim okul ve kurumlarında okumakta iken staja, tamamlayıcı eğitime veya alan eğitimine tabi tutulan öğrencilerin sigorta primleri asgari ücretin yüzde ellisi üzerinden, Bakanlık ile mesleki ve teknik eğitim yapan yükseköğretim kurumlarının bağlı olduğu üniversitelerin bütçesine konulan ödenekten karşılanır.”
 
-MADDE 46- 3308 sayılı Kanunun 35 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 46-** 3308 sayılı Kanunun 35 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 35- Kapsamı, şartları ve süresi Bakanlıkça belirlenen telafi eğitimi veya tamamlayıcı eğitime katılan ve bu eğitim sonunda yapılan sınavlarda başarılı olan kalfa, usta ve ortaöğretim kurumu mezunlarına, bitirdikleri meslek alanının diploması verilir.
 Önceki öğrenmelere ilişkin mesleki yeterlikler, meslek standartları ve seviyeleri esas alınarak sınavla belirlenir.
 Önceki öğrenmelerin tanınması ve denklikle ilgili usul ve esaslar Bakanlıkça çıkarılan yönetmelikle düzenlenir.”
 
-MADDE 47- 3308 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 47-** 3308 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 11- Bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihte çıraklık eğitimine devam etmekte olanlar, eğitimlerini başladıkları programa ve mevzuata göre sürdürür.”
 
-MADDE 48- 3308 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 48-** 3308 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 12- 2016-2017 eğitim ve öğretim yılı sonuna kadar uygulanmak üzere aday çırak ve çıraklar ile 18 inci madde hükümleri uyarınca işletmelerde mesleki eğitim gören, staj veya tamamlayıcı eğitime devam eden öğrencilere, 25 inci maddenin birinci fıkrası kapsamında yapılacak ödemeler asgari ücretin net tutarının yüzde otuzundan az olamaz. Ödenebilecek en az ücretin;
 yirmiden az personel çalıştıran işletmeler için üçte ikisi, yirmi ve üzerinde personel çalıştıran işletmeler için üçte biri, 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanununun 53 üncü maddesinin üçüncü fıkrasının (B) bendinin (h) alt bendi için ayrılan tutardan Devlet katkısı olarak ödenir. Bu kapsamda yapılacak ödemeleri beş eğitim ve öğretim yılına kadar uzatmaya Bakanlar Kurulu yetkilidir. Staj yapacak işletme bulunamaması nedeniyle stajını okulda yapan ortaöğretim öğrencileri ile öğretim programı gereği staj yapmak zorunda olmayan yükseköğretim öğrencilerinin yaptıkları stajlar bu fıkra hükmü kapsamı dışındadır.
 Kamu kurum ve kuruluşlarına Devlet katkısı ödenmez.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlık ve Türkiye İş Kurumu tarafından belirlenir.”
 
-MADDE 49- 29/4/1992 tarihli ve 3795 sayılı Bazı Lise, Okul ve Fakülte Mezunlarına Unvan Verilmesi Hakkında Kanunun 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 49-** 29/4/1992 tarihli ve 3795 sayılı Bazı Lise, Okul ve Fakülte Mezunlarına Unvan Verilmesi Hakkında Kanunun 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 2- Bu Kanun, endüstriyel mesleki teknik öğretim veren yükseköğretim kurumları mezunları ile Millî Eğitim Bakanlığına bağlı mesleki ve teknik öğretim veren ortaöğretim kurumlarından mezun olanlar, denkliği Millî Eğitim Bakanlığınca kabul edilen diğer mesleki ve teknik öğretim veren ortaöğretim kurumlarından mezun olanlar ve bu okullara denk mülga okul mezunlarının unvan, yetki ve sorumlulukları ile ilgili esasları kapsar.”
 
-MADDE 50- 3795 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (a) ve (e) bentleri aşağıdaki şekilde değiştirilmiştir.
+**MADDE 50-** 3795 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (a) ve (e) bentleri aşağıdaki şekilde değiştirilmiştir.
 “a) Mesleki ve teknik öğretim veren ortaöğretim kurumlarından mezun olanlar ile denkliği Millî Eğitim Bakanlığınca kabul edilen diğer mesleki ve teknik öğretim veren ortaöğretim kurumlarından mezun olanlar ve bu okullara denk mülga okullardan mezun olanlara “teknisyen”,” “e) Teknik öğretmen unvanını kazananlar için Yükseköğretim Kurulunca belirlenen mühendislik fakültelerince düzenlenecek iki yarıyıl süreli mühendislik eğitimi tamamlama programını en fazla dört yarıyıl içinde bitirenlere dallarında “mühendis”,”
 
-MADDE 51- 3795 sayılı Kanunun 6 ncı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 51-** 3795 sayılı Kanunun 6 ncı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Bu Kanun kapsamında unvana sahip personelin yetki ve sorumlulukları, ulusal ve uluslararası meslek standartları ve yeterlilikler çerçevesinde Bilim, Sanayi ve Teknoloji Bakanlığı, Çevre ve Şehircilik Bakanlığı, Millî Eğitim Bakanlığı, Ulaştırma, Denizcilik ve Haberleşme Bakanlığı, Devlet Personel Başkanlığı ve Yükseköğretim Kurulunun görüşü alınarak Mesleki Yeterlilik Kurumunca hazırlanan yönetmelikle belirlenir.”
 
-MADDE 52- 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununa aşağıdaki ek madde eklenmiştir.
+**MADDE 52-** 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununa aşağıdaki ek madde eklenmiştir.
 “FATİH Projesi kapsamında mal ve hizmet alımları ile yapım işleri
 
 EK MADDE 10- Yurt içi üretimin ve katma değerin artırılması, teknoloji kazanımının sağlanması, daha önce yurt içinde üretimi bulunmayan ürünlerin üretilebilmesi, yeni teknoloji ve ürünlere yönelik araştırma-geliştirme faaliyetlerinin sürdürülmesi ve bilgi toplumuna geçiş hedefleriyle, Millî Eğitim Bakanlığına bağlı okulöncesi, ilköğretim ve ortaöğretim kademelerindeki okulların dersliklerine bilişim teknolojisi donanımı, yazılımı, ağ altyapısı ve internet erişim imkânının sağlanması, dersler için çevrim içi ve çevrim dışı ortamlarda e-içerik temin edilmesi ve e-içerik altyapısının oluşturulması, Millî Eğitim Bakanlığına bağlı okullarda görev yapan öğretmenlere ve örgün eğitim gören öğrencilere e-kitap, tablet bilgisayar ve benzeri ihtiyaçların sağlanması amaçlarıyla Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi kapsamında, Millî Eğitim Bakanlığı tarafından yapılacak mal ve hizmet alımları ile yapım işleri, ceza ve ihalelerden yasaklama hükümleri hariç, bu Kanun hükümlerine tabi değildir. Bu madde uyarınca yapılacak alımlara ilişkin usul ve esaslar Maliye Bakanlığı ve Kamu İhale Kurumunun görüşü alınarak Millî Eğitim Bakanlığı tarafından hazırlanan yönetmelikle rekabete açık olacak şekilde düzenlenir.”
 
-MADDE 53- 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa aşağıdaki ek madde eklenmiştir.
+**MADDE 53-** 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa aşağıdaki ek madde eklenmiştir.
 “FATİH Projesi kapsamında mal ve hizmet alımları ile yapım işleri
 
 EK MADDE 3- Eğitimde Fırsatları Artırma ve Teknolojiyi İyileştirme Hareketi (FATİH) Projesi kapsamında Millî Eğitim Bakanlığınca yapılacak yazılım, donanım, dijital içerik alımı, internet erişim hizmetleri sağlanması, ağ altyapısı, AR-GE merkezi, veri merkezi kurulumu ve bunlara ilişkin her türlü bakım, onarım ve işletme işlerinde üst yöneticinin onayıyla 15 yıla kadar gelecek yıllara yaygın yüklenmelere girişilebilir.”
 
-MADDE 54- 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 5 inci maddesinin birinci fıkrasının (b) bendinde yer alan “meslek liselerinde okumakta iken veya yüksek öğrenimleri sırasında staja tabi tutulan öğrenciler” ibaresi “meslekî ve teknik ortaöğretim ile yükseköğrenimleri sırasında staja tabi tutulan öğrenciler, mesleki ve teknik ortaöğretim sırasında tamamlayıcı eğitim ya da alan eğitimi gören öğrenciler” şeklinde değiştirilmiştir.
+**MADDE 54-** 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 5 inci maddesinin birinci fıkrasının (b) bendinde yer alan “meslek liselerinde okumakta iken veya yüksek öğrenimleri sırasında staja tabi tutulan öğrenciler” ibaresi “meslekî ve teknik ortaöğretim ile yükseköğrenimleri sırasında staja tabi tutulan öğrenciler, mesleki ve teknik ortaöğretim sırasında tamamlayıcı eğitim ya da alan eğitimi gören öğrenciler” şeklinde değiştirilmiştir.
 
-MADDE 55- 5510 sayılı Kanunun 6 ncı maddesinin birinci fıkrasının (f) bendinde yer alan “Resmî meslek ve sanat okulları ile yetkili resmî makamların izniyle kurulan meslek veya sanat okullarında ve” ibaresi madde metninden çıkarılmıştır.
+**MADDE 55-** 5510 sayılı Kanunun 6 ncı maddesinin birinci fıkrasının (f) bendinde yer alan “Resmî meslek ve sanat okulları ile yetkili resmî makamların izniyle kurulan meslek veya sanat okullarında ve” ibaresi madde metninden çıkarılmıştır.
 
-MADDE 56- 5510 sayılı Kanunun 7 nci maddesinin birinci fıkrasının (a) bendinde yer alan “meslekî eğitime” ibaresi “meslekî ve teknik eğitime, meslekî ve teknik ortaöğretim sırasında tamamlayıcı eğitim ya da alan eğitimine” şeklinde değiştirilmiştir.
+**MADDE 56-** 5510 sayılı Kanunun 7 nci maddesinin birinci fıkrasının (a) bendinde yer alan “meslekî eğitime” ibaresi “meslekî ve teknik eğitime, meslekî ve teknik ortaöğretim sırasında tamamlayıcı eğitim ya da alan eğitimine” şeklinde değiştirilmiştir.
 
-MADDE 57- 5510 sayılı Kanunun 80 inci maddesinin birinci fıkrasının (k) bendinin birinci cümlesinde yer alan “Meslek liselerinde okumakta iken veya” ibaresi madde metninden çıkarılmış, aynı bendin ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 57-** 5510 sayılı Kanunun 80 inci maddesinin birinci fıkrasının (k) bendinin birinci cümlesinde yer alan “Meslek liselerinde okumakta iken veya” ibaresi madde metninden çıkarılmış, aynı bendin ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Aday çırak, çırak, işletmelerde mesleki eğitim, mesleki ve teknik ortaöğretim sırasında staj, tamamlayıcı eğitim ya da alan eğitimi gören öğrencilerin prime esas kazançları ilgili kanunlarında öngörüldüğü şekilde belirlenir.”
 
-MADDE 58- 5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının (ı) bendinin dördüncü cümlesine “Bu bent hükümleri;” ibaresinden sonra gelmek üzere “vakıflar tarafından kurulan yükseköğretim kurumları ile okul-aile birliklerince çalıştırılanlar hariç olmak üzere” ibaresi eklenmiştir.
+**MADDE 58-** 5510 sayılı Kanunun 81 inci maddesinin birinci fıkrasının (ı) bendinin dördüncü cümlesine “Bu bent hükümleri;” ibaresinden sonra gelmek üzere “vakıflar tarafından kurulan yükseköğretim kurumları ile okul-aile birliklerince çalıştırılanlar hariç olmak üzere” ibaresi eklenmiştir.
 
-MADDE 59- 5510 sayılı Kanunun 87 nci maddesinin birinci fıkrasının (e) bendinde yer alan “meslek liselerinde” ibaresi “meslekî veya teknik ortaöğretimde okumakta iken” şeklinde değiştirilmiş, “tutulan öğrenciler” ibaresinden sonra gelmek üzere “ile tamamlayıcı eğitim ya da alan eğitimi gören öğrenciler” ibaresi, “eğitim gördükleri okullar” ibaresinden sonra gelmek üzere “veya kurumlar” ibaresi, “yüksek öğrenim sırasında staja tabi tutulan” ibaresinden sonra gelmek üzere “veya işletmelerde meslekî eğitim gören” ibaresi eklenmiştir.
+**MADDE 59-** 5510 sayılı Kanunun 87 nci maddesinin birinci fıkrasının (e) bendinde yer alan “meslek liselerinde” ibaresi “meslekî veya teknik ortaöğretimde okumakta iken” şeklinde değiştirilmiş, “tutulan öğrenciler” ibaresinden sonra gelmek üzere “ile tamamlayıcı eğitim ya da alan eğitimi gören öğrenciler” ibaresi, “eğitim gördükleri okullar” ibaresinden sonra gelmek üzere “veya kurumlar” ibaresi, “yüksek öğrenim sırasında staja tabi tutulan” ibaresinden sonra gelmek üzere “veya işletmelerde meslekî eğitim gören” ibaresi eklenmiştir.
 
-MADDE 60- 5510 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 60-** 5510 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 70- Bu maddenin yürürlüğe girdiği tarihe kadar olan dönemlerde vakıflar tarafından kurulan yükseköğretim kurumları ile okul-aile birliklerinin bu Kanunun 81 inci maddesinin birinci fıkrasının (ı) bendi hükmü uyarınca yararlandıkları teşvikler, usulüne uygun olarak yararlanılmış sayılır.”
 
-MADDE 61- 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununun 3 üncü maddesine aşağıdaki fıkralar eklenmiştir.
+**MADDE 61-** 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununun 3 üncü maddesine aşağıdaki fıkralar eklenmiştir.
 “Bu Kanun kapsamındaki eğitim-öğretim faaliyetlerini yapan ancak bu Kanuna uygun olarak kurum açma izni ile iş yeri açma ve çalışma ruhsatı düzenlenmeyen yerleri kuran veya işletenlere brüt asgari ücretin 20 katı idari para cezası uygulanır ve bu yerler valiliklerce kapatılır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.
 Bu Kanunun 1 inci maddesinde belirtilen şartları taşıyıp özel hukuk tüzel kişileri veya özel hukuk hükümlerine göre yönetilen tüzel kişiler tarafından açılan özel öğretim kurumlarının kurucularında yabancı uyruklu gerçek veya tüzel kişilerin ortaklığının tespit edilmesi hâlinde söz konusu kurumlara brüt asgari ücretin 20 katı idari para cezası uygulanır ve bu kurumlara yabancı uyruklu gerçek veya tüzel kişilerin ortaklığının sona erdirilmesine ilişkin 30 iş günü süre verilir. Söz konusu süreye rağmen yabancı uyruklu gerçek veya tüzel kişilerin ortaklığının sona erdirilmemesi veya aynı kurumda ikinci kez yabancı uyruklu gerçek veya tüzel kişilerin ortaklığının tespiti hâlinde söz konusu kurumun kurum açma izni ile işyeri açma ve çalışma ruhsatı iptal edilir. Bu fıkranın uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.”
 
-MADDE 62- 5580 sayılı Kanunun 7 nci maddesinin birinci ve ikinci fıkraları ile beşinci fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiş ve aynı maddeye beşinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 62-** 5580 sayılı Kanunun 7 nci maddesinin birinci ve ikinci fıkraları ile beşinci fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiş ve aynı maddeye beşinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Kurum açma izni verilen kurumlardan iki yıl içerisinde faaliyete başlamayan, faaliyete başladıktan sonra yönetmelikte belirtilen süreden daha fazla izinsiz ara veren veya söz konusu izni amacı dışında kullandığı tespit edilen kurumların kurum açma izni ve iş yeri açma ve çalışma ruhsatı iptal edilir.
 Özel öğretim kurumunun;
 a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması,
@@ -377,19 +377,19 @@ h) Mevzuata uygun olarak kapatılmaması, hâllerinde; (a), (b), (c) ve (d) bent
 “Devir ve teslimden kaçınan veya bu görevi savsaklayan kurucu hakkında brüt asgari ücretin yirmi katı idari para cezası uygulanır.”
 “Bu Kanunda belirtilen şartlara uymadan kurumunu kapatanlar ile soruşturma sonucu kurum açma izni ile işyeri açma ve çalışma ruhsatı iptal edilen kurucuya beş yıl geçmeden tekrar kurum açma izni veya bir kurumu devralma ya da bir kuruma ortak olma izni verilmez.”
 
-MADDE 63- 5580 sayılı Kanunun 12 nci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 63-** 5580 sayılı Kanunun 12 nci maddesine aşağıdaki fıkra eklenmiştir.
 “Bu Kanun kapsamında açılan mesleki ve teknik anadolu liselerinde verilen mesleki eğitimin kalitesini, öğretmen ve öğrencilerin mesleki bilgi ve becerilerini geliştirmek amacıyla alan ve dalların özelliklerine göre Bakanlıkça belirlenen standartlara ve donanıma sahip atölye ve laboratuvarlarda üretim yapılabilir ve üretilen malların satışından elde edilen gelir okulun eğitim, öğretim ve yönetim hizmetlerinde kullanılır. Üretimde görev alan öğrenci ve personele ödenen pay ile üretim şartlarına ilişkin usul ve esaslar yönetmelikle düzenlenir.”
 
-MADDE 64- 17/2/2011 tarihli ve 6114 sayılı Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (e) bendinde yer alan “oluşan” ibaresinden sonra gelmek üzere “ve adaylar ile diğer ilgilileri bağlayıcı olan” ibaresi eklenmiş ve fıkraya aşağıdaki bentler eklenmiştir.
+**MADDE 64-** 17/2/2011 tarihli ve 6114 sayılı Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (e) bendinde yer alan “oluşan” ibaresinden sonra gelmek üzere “ve adaylar ile diğer ilgilileri bağlayıcı olan” ibaresi eklenmiş ve fıkraya aşağıdaki bentler eklenmiştir.
 “j) Bireyselleştirilmiş sınav: Elektronik ortamda her bir adaya aynı veya farklı zamanlarda adayın verdiği cevaplara ve seviyesine göre soru sayısının ve soruların niteliğinin değişebildiği sorulardan oluşan sınavı,
 k) Deneme soru: Birbirine denk sonuçlar üreten sınavlar yapabilmek için benzer güçlük derecesi ve ayırt edicilik özellikleri olan soruları tespit etmek amacıyla gerçek sınavlarda sorulan fakat değerlendirme aşamasında puanlama dışı bırakılan soruyu,”
 
-MADDE 65- 6114 sayılı Kanunun 3 üncü maddesinin üçüncü fıkrasında yer alan “birimlere” ibaresinden sonra gelmek üzere “sınav görevlendirmeleri,” ibaresi eklenmiş, aynı maddenin dördüncü fıkrasında yer alan “iletişim altyapısı,” ibaresinden sonra gelmek üzere “yazılım geliştirme ve güncelleme” ibaresi eklenmiştir.
+**MADDE 65-** 6114 sayılı Kanunun 3 üncü maddesinin üçüncü fıkrasında yer alan “birimlere” ibaresinden sonra gelmek üzere “sınav görevlendirmeleri,” ibaresi eklenmiş, aynı maddenin dördüncü fıkrasında yer alan “iletişim altyapısı,” ibaresinden sonra gelmek üzere “yazılım geliştirme ve güncelleme” ibaresi eklenmiştir.
 
-MADDE 66- 6114 sayılı Kanunun 4 üncü maddesinin on ikinci fıkrasına aşağıdaki cümle eklenmiştir.
+**MADDE 66-** 6114 sayılı Kanunun 4 üncü maddesinin on ikinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Yönetim Kurulu toplantıları ses, görüntü veya yazı nakleden bilişim sistemleri ile de yapılabilir.”
 
-MADDE 67- 6114 sayılı Kanunun 5 inci maddesinin birinci fıkrası, ikinci fıkrasının (a) ve (g) bentleri aşağıdaki şekilde değiştirilmiş, aynı maddenin ikinci fıkrasına aşağıdaki (h) ve (ı) bentleri eklenmiş, aynı maddenin dördüncü fıkrasının (a) bendi aşağıdaki şekilde ve aynı fıkranın (g) bendinde yer alan “Dış İlişkiler ve İş Geliştirme” ibaresi “Kurumsal İlişkiler” şeklinde değiştirilmiş, aynı bende “koordine etmek,” ibaresinden sonra gelmek üzere “telifler,” ibaresi ve aynı fıkraya aşağıdaki (h) ve (ı) bentleri eklenmiştir.
+**MADDE 67-** 6114 sayılı Kanunun 5 inci maddesinin birinci fıkrası, ikinci fıkrasının (a) ve (g) bentleri aşağıdaki şekilde değiştirilmiş, aynı maddenin ikinci fıkrasına aşağıdaki (h) ve (ı) bentleri eklenmiş, aynı maddenin dördüncü fıkrasının (a) bendi aşağıdaki şekilde ve aynı fıkranın (g) bendinde yer alan “Dış İlişkiler ve İş Geliştirme” ibaresi “Kurumsal İlişkiler” şeklinde değiştirilmiş, aynı bende “koordine etmek,” ibaresinden sonra gelmek üzere “telifler,” ibaresi ve aynı fıkraya aşağıdaki (h) ve (ı) bentleri eklenmiştir.
 “(1) Başkanlık, merkez teşkilatı ile doğrudan Başkanlığa bağlı temsilciliklerden ve elektronik sınav merkezlerinden oluşur. Temsilciliklerin açılacağı yer ve sayıları Yönetim Kurulunun teklifi üzerine Bakanlar Kurulu kararıyla, elektronik sınav merkezlerinin açılacağı yer ve sayılar ise Yönetim Kurulunca belirlenir. Başkanlık kadro veya pozisyonlarında görevli personel tüm iş ve işlemlerinde doğrudan Başkanlığa bağlı olmak üzere geçici veya sürekli olarak temsilciliklerde veya elektronik sınav merkezlerinde görevlendirilebilir.”
 “a) Ölçme ve Değerlendirme Daire Başkanlığı.”
 “g) Kurumsal İlişkiler Daire Başkanlığı.”
@@ -399,7 +399,7 @@ MADDE 67- 6114 sayılı Kanunun 5 inci maddesinin birinci fıkrası, ikinci fık
 “h) Araştırma Geliştirme Daire Başkanlığı: Başta yeni sınav veya soru türleri ve puanlama yöntemleri olmak üzere Başkanlığın faaliyet gösterdiği tüm alanlarda araştırmalar yapmak veya yaptırmak; yeni yöntem ve teknolojileri takip ederek bunları ülke koşullarına uyarlamak; bu alanlarda gerekli hizmet içi eğitimler vermek; eğitim programları düzenlemek; Başkan tarafından verilen diğer görevleri yapmak.
 ı) Engelli Adaylar Daire Başkanlığı: Başkanlıkça yapılan sınavlara başvuruda bulunan engelli adaylar ile ilgili tüm iş ve işlemleri takip etmek, gerekli raporları toplamak, gerekli bilgilendirmeleri yapmak, engelli adayların sınavlarının sorunsuz bir şekilde gerçekleşmesi için sınav evrakı ve yardımcı personel konusunda gerekli düzenlemeleri yapmak, bunun için gerekli eğitimleri vermek, yurtiçi ve yurtdışı toplantılar düzenlemek, engelli adayların sınav koşullarını iyileştirici tedbirleri araştırmak, takip etmek ve ülke şartlarına uyarlamak; Başkan tarafından verilen benzeri görevleri yapmak.”
 
-MADDE 68- 6114 sayılı Kanunun 6 ncı maddesinin;
+**MADDE 68-** 6114 sayılı Kanunun 6 ncı maddesinin;
 1) Üçüncü fıkrasında yer alan “ikiden” ibaresi “dörtten” şeklinde değiştirilmiştir.
 2) Dokuzuncu fıkrasının beşinci cümlesinde yer alan “üçte birini” ibaresi “yarısını” şeklinde değiştirilmiş ve aynı fıkraya aşağıdaki cümleler eklenmiştir.
 “8/4/1929 tarihli ve 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun uyarınca Başkanlık adına mecburi hizmet karşılığı yurt dışına gönderilenlerden doktora öğrenimlerini başarıyla tamamladıktan sonra mecburi hizmet yükümlülüklerini ifa etmek üzere Başkanlığın ilgili kadrolarına atananlar, bu fıkra kapsamında belirlenen kadro sayısına bağlı kalmaksızın sözleşmeli yerli uzman olarak da istihdam edilebilir.
@@ -414,7 +414,7 @@ Bu şekilde istihdam edilenler, bu görevleri süresince aylıksız izinli sayı
 7) On dokuzuncu fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “(20) Başkanlık sınav, ölçme, değerlendirme ve yerleştirme hizmetleri ile sınırlı olmak üzere öğretim elemanlarına proje, araştırma ve incelemeler yaptırabilir, bilimsel raporlar hazırlatabilir. Bu hizmetlerde görev alan öğretim elemanlarına (40.000) gösterge rakamının ve bir ayda yapılacak toplam olarak (60.000) gösterge rakamının memur aylıklarına uygulanan aylık katsayısı ile çarpımı sonucu elde edilecek tutarı geçmemek üzere Başkanlıkça belirlenecek tutarda, diğer kanunlardaki düzenleme ve kısıtlamalara tabi olmaksızın doğrudan ödeme yapılır. Bu fıkra uyarınca yapılacak ödemelere ilişkin usul ve esaslar Maliye Bakanlığının uygun görüşü alınarak Yönetim Kurulu tarafından belirlenir.”
 
-MADDE 69- 6114 sayılı Kanunun 7 nci maddesinin;
+**MADDE 69-** 6114 sayılı Kanunun 7 nci maddesinin;
 1) İkinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Sınavlardan sonra Başkanlık veya yargı mercileri tarafından iptaline karar verilen sorular değerlendirme dışı bırakılarak geçerli soruların puan değerinin yeniden saptanması suretiyle puanlama yapılır.”
 2) Üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -428,13 +428,13 @@ MADDE 69- 6114 sayılı Kanunun 7 nci maddesinin;
 6) Dokuzuncu fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “(10) Başkanlık tarafından yurtdışında yapılan tüm sınavlarda da bu Kanun hükümleri uygulanır.”
 
-MADDE 70- 6114 sayılı Kanunun 8 inci maddesinin üçüncü fıkrası ile dördüncü fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 70-** 6114 sayılı Kanunun 8 inci maddesinin üçüncü fıkrası ile dördüncü fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “(3) Kamu kurum ve kuruluşlarında çalışan personelden Başkanlıkça uygun görülenler, ihtiyaç duyulması hâlinde sınav hizmetlerinde görevlendirilebilir.
 Başkanlık tarafından görevlendirilenlerin seçiminde yapılan tercihler görevlendirilmeyen diğer personel açısından bir hak doğurmaz. Görevlilerin Başkanlıkça belirlenen sınav kurallarına aykırı davranışlarının tespiti hâlinde mevcut görevlerinin derhal iptalinin yanı sıra bu personele belirli süreli veya süresiz olarak bir daha sınav görevi verilmeyebilir. Ayrıca görevlinin sınav kurallarına aykırı davranışının derecesi gözetilerek disiplin hükümlerinin uygulanması için bağlı olduğu kurum veya kuruluşa bilgi verilebilir. Bu fıkranın uygulanmasına ilişkin ilkeler Yönetim Kurulu tarafından belirlenir.”
 “Sınav sorularına ve sınav sonuçlarına itirazlar, 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanununun ivedi yargılamaya ilişkin hükümleri saklı kalmak kaydıyla ilgili kılavuzlarda belirtilen süreler içinde doğrudan Başkanlığa yapılır.”
 “(6) Elektronik sınav merkezi ihtiyacı bulunan yerlerde mülkiyeti veya kullanım hakkı üniversitelere, gerçek veya tüzel kişilere ait olan arsa üzerine elektronik sınav binası inşa etmek isteyen üniversite, gerçek veya tüzel kişilerce, Başkanlığın uygun göreceği ya da belirleyeceği sınav merkezi projesine bağlı olarak yapılacak olan binalar ile yapımı devam eden veya tamamlanmış binaların, on beş yıla kadar kiralanması için 3 üncü madde kapsamında Yönetim Kurulu kararı ile ön protokol yapılabilir. Başkanlıkça gerekli görülen hâllerde hizmet binası ve elektronik sınav binası ile ilgili diğer tesisler, 2/3/1984 tarihli ve 2985 sayılı Toplu Konut Kanununun ek 1 inci maddesinin birinci fıkrasının (m) bendine göre de yaptırılabilir.”
 
-MADDE 71- 6114 sayılı Kanunun 9 uncu maddesinin;
+**MADDE 71-** 6114 sayılı Kanunun 9 uncu maddesinin;
 1) Birinci fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Başkanlık, gizlilik ve güvenliğin sağlanması için sınav öncesinde, sınav sırasında ve sonrasında gerekli bütün tedbirleri alır, ilgili tüm kurumlarla işbirliği yapar, ilgili kamu kurum ve kuruluşları ile yapılacak protokoller çerçevesinde veri tabanlarında sınav ve yerleştirmeler için ihtiyaç duyulan kişisel veri sorgulaması yapabilir.”
 2) İkinci fıkrasının birinci cümlesine “istinaden” ibaresinden sonra gelmek üzere “özel erişim usulleri ile adaylara” ibaresi ve aynı fıkraya aşağıdaki cümleler eklenmiştir.
@@ -452,19 +452,19 @@ Biyometrik doğrulamanın kullanılmadığı durumlarda; adayların ve sınav g�
 (8) Sınavlardan sonra incelenen sınav belgelerinde, elektronik kayıtlarda veya yapılan analizlerde olağandışı bulgulara rastlanması hâlinde adaylar, maliyeti Başkanlık tarafından karşılanmak üzere Yönetim Kurulu kararı ile eşdeğer sınava çağrılabilir. Adayın sınavının geçerli sayılıp sayılmayacağına eşdeğer sınav sonuçlarına bakılarak Yönetim Kurulu tarafından karar verilir.
 Çağrıya rağmen eşdeğer sınava katılmayan adayın sınavı geçersiz sayılır.”
 
-MADDE 72- 6114 sayılı Kanunun 10 uncu maddesinin beşinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş, aynı fıkranın ikinci cümlesine “sınava” ibaresinden sonra gelmek üzere “ve yerleştirmeye” ibaresi, üçüncü cümlesine “bu sınavdaki” ibaresinden sonra gelmek üzere “veya yasaklılık süresi içinde girmiş olduğu Başkanlıkça yapılan bir sınavdaki” ibaresi ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 72-** 6114 sayılı Kanunun 10 uncu maddesinin beşinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş, aynı fıkranın ikinci cümlesine “sınava” ibaresinden sonra gelmek üzere “ve yerleştirmeye” ibaresi, üçüncü cümlesine “bu sınavdaki” ibaresinden sonra gelmek üzere “veya yasaklılık süresi içinde girmiş olduğu Başkanlıkça yapılan bir sınavdaki” ibaresi ve maddeye aşağıdaki fıkra eklenmiştir.
 “Sınavda kopya çektiği veya bu yönde fiiller işlediği tespit edilen adayın sınavı ile çok oturumlu sınavlarda oturumların herhangi birinde kopya çektiği veya bu yönde fiiller işlediği tespit edilen adayın bu oturumlardan oluşan sınavı iptal edilir.”
 “(9) 9 uncu maddenin birinci fıkrasında yer alan görevlilerin kimlik bilgilerini, deneme sorularını veya sınavın devam ettiği süre içinde sınavlarda sorulan soruları aynen veya değiştirerek herhangi bir ortamda paylaşan, ifşa eden, her türlü işaret, ses veya görüntü nakline yarayan araçlarla umuma ileten, yayımlayan veya işleyenler hakkında beşbin Türk lirası idari para cezası uygulanır.
 Fiilin tekerrürü hâlinde ceza her defasında bir kat artırımlı olarak uygulanır.
 İdari para cezası, 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat Eserleri Kanunundan kaynaklanan yükümlülükleri ve bu Kanunun 10 uncu maddesindeki ceza hükümlerinin uygulanmasını ortadan kaldırmaz. İdari para cezalarına ilişkin karar Yönetim Kurulu tarafından verilir. İdari para cezalarına karşı açılacak davalarda yetkili mahkeme Başkanlık merkezinin bulunduğu yerdeki idare mahkemeleridir.
 Bu Kanuna göre verilen idari para cezaları tebliğinden itibaren bir ay içerisinde ödenir.”
 
-MADDE 73- 6114 sayılı Kanunun geçici 2 nci maddesinin birinci fıkrasında yer alan “31/12/2015” ibaresi “31/12/2018” şeklinde değiştirilmiştir.
+**MADDE 73-** 6114 sayılı Kanunun geçici 2 nci maddesinin birinci fıkrasında yer alan “31/12/2015” ibaresi “31/12/2018” şeklinde değiştirilmiştir.
 
-MADDE 74- 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnameye aşağıdaki madde eklenmiştir.
+**MADDE 74-** 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnameye aşağıdaki madde eklenmiştir.
 “EK MADDE 21- Bu maddeyi ihdas eden Kanuna ekli (1) sayılı listede yer alan kadrolar iptal edilerek, bu Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına ait bölümünden çıkarılmış ve bu maddeyi ihdas eden Kanuna ekli (2) ve (3) sayılı listelerde yer alan kadrolar ihdas edilerek bu Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Millî Eğitim Bakanlığına ve Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına ait bölümlerine eklenmiştir.
 Bu Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Millî Eğitim Bakanlığına ait bölümünde yer alan Rehberlik ve Denetim Başkanı ile I. Hukuk Müşaviri kadroları hiçbir işleme gerek kalmaksızın iptal edilmiştir.”
 
-MADDE 75- Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 75-** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 76- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 76-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

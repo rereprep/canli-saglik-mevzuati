@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/07/20250724-3.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-SAĞLIKLA İLGİLİ BAZI KANUNLARDA VE 663 SAYILI KANUN
-HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN**
+**SAĞLIKLA İLGİLİ BAZI KANUNLARDA VE 663 SAYILI KANUN**
+**HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7557 Kabul Tarihi: 21/7/2025
 
 MADDE 1- 2/3/1927 tarihli ve 984 sayılı Ecza Ticarethaneleriyle Sanat ve Ziraat İşlerinde Kullanılan Zehirli ve Müessir Kimyevi Maddelerin Satıldığı Dükkanlara Mahsus Kanuna aşağıdaki ek madde eklenmiştir.

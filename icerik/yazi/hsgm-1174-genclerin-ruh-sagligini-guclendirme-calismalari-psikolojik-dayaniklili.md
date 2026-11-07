@@ -25,7 +25,7 @@ DAĞITIM YERLERİNE
 
 Bilindiği üzere 2018 yılından bu yana gençlerin ruh sağlığının korunması ve psikolojik dayanıklılığının artırılması için kurumlar arası iş birliğini güçlendirmek amacıyla ilgili kurumlarla iş birliği içerisinde farkındalık ve önleme çalışmaları yürütülmektedir.
 
-Gençlerin ruh sağlığını ve iyilik halini güçlendirmek, psikolojik dayanıklılıklarını artırmak amacıyla farkındalık çalışmalarında kullanılmak üzere hazırlanmış “Psikolojik Dayanıklılık” sunumu güncellenmiştir.
+Gençlerin ruh sağlığını ve iyilik halini güçlendirmek, psikolojik dayanıklılıklarını artırmak amacıyla farkındalık çalışmalarında kullanılmak üzere hazırlanmış **“Psikolojik Dayanıklılık”** sunumu güncellenmiştir.
 
 İlinizde düzenlenecek farkındalık çalışmalarında güncel sunumun kullanılması amacıyla yeni sunum yazımız ekinde gönderilmektedir.
 

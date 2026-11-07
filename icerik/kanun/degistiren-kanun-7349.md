@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/12/20211225-2.htm"
 durum: "yürürlükte"
 ---
 
-KANUN GELİR VERGİSİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7349 Kabul Tarihi: 22/12/2021
+**KANUN GELİR VERGİSİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7349 Kabul Tarihi: 22/12/2021**
 
 MADDE 1 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 9 uncu maddesinin birinci fıkrasının (9) numaralı bendinde yer alan “10 kW’a kadar (10 kW dâhil)” ibaresi “25 kW’a kadar (25 kW dâhil)” şeklinde değiştirilmiştir.
 

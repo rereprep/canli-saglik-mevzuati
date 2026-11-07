@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2005/06/20050601-3.htm"
 durum: "yürürlükte"
 ---
 
-Kanun Kanun Ceza Muhakemesi Kanununda Değişiklik Yapılmasına Dair Kanun Kanun No. 5353 Kabul Tarihi : 25.5.2005
+Kanun Kanun **Ceza Muhakemesi Kanununda Değişiklik Yapılmasına Dair Kanun** Kanun No. 5353 Kabul Tarihi : 25.5.2005
 
 MADDE 1. — 4.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 35 inci maddesinin ikinci fıkrasında geçen "hukuken geçerli mazerete dayanarak" ibaresi madde metninden çıkarılmış ve "bulanamayan" ibaresi "bulunamayan" olarak değiştirilmiştir.
 

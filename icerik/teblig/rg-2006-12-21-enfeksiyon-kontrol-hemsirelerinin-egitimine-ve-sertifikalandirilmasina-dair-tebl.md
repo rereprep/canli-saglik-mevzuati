@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-ENFEKSİYON KONTROL HEMŞİRELERİNİN EĞİTİMİNE VE SERTİFİKALANDIRILMASINA DAİR TEBLİĞ’DE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+ENFEKSİYON KONTROL HEMŞİRELERİNİN EĞİTİMİNE VE SERTİFİKALANDIRILMASINA DAİR **TEBLİĞ**’DE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
 
 MADDE 1 – (1) 18/11/2006 tarihli ve 26350 sayılı Sağlık Bakanlığı Enfeksiyon Kontrol Hemşirelerinin Eğitimine ve Sertifikalandırılmasına Dair Tebliğ’in 5 inci maddesinin 1 inci fıkrasının (d) bendi aşağıdaki şekilde değiştirilmiştir.
 “d) Hastane enfeksiyonları ve epidemiyolojisi konusunda tercihen ulusal veya uluslararası sertifikaya sahip bir enfeksiyon kontrol hekiminin bulunması”

@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/11/20221130-6.htm"
 durum: "yürürlükte"
 ---
 
-KANUN POLİS YÜKSEK ÖĞRETİM KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7422 Kabul Tarihi: 23/11/2022
+**KANUN POLİS YÜKSEK ÖĞRETİM KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7422 Kabul Tarihi: 23/11/2022**
 
 MADDE 1- 18/3/1924 tarihli ve 442 sayılı Köy Kanununa 74 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Güvenlik korucularına verilecek disiplin cezalarının çeşitleri ile ceza uygulanacak fiil ve haller

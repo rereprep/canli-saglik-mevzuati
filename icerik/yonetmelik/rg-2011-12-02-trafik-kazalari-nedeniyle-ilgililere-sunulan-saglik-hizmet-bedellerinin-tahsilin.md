@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü Başbakanlık (Hazine Müsteşarlığı)’tan:
-TRAFİK KAZALARI NEDENİYLE İLGİLİLERE SUNULAN SAĞLIK HİZMET BEDELLERİNİN TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TRAFİK KAZALARI NEDENİYLE İLGİLİLERE SUNULAN SAĞLIK HİZMET BEDELLERİNİN TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 27/8/2011 tarihli ve 28038 sayılı Resmî Gazete’de yayımlanan Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 9 uncu maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(2) Sağlık Bakanlığınca trafik kazaları için hazırlanacak ambulans formları değişmez sıra numaralı olarak düzenlenir.
@@ -21,4 +21,4 @@ Sağlık Bakanlığınca görevlendirilecek personelce, ilgili mevzuat çerçeve
 MADDE 2 – Bu Yönetmelik 27/8/2011 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
 
 
-MADDE 3 – Bu Yönetmelik hükümlerini Hazine Müsteşarlığının bağlı olduğu Bakan yürütür.
+**MADDE 3 –** Bu Yönetmelik hükümlerini Hazine Müsteşarlığının bağlı olduğu Bakan yürütür.

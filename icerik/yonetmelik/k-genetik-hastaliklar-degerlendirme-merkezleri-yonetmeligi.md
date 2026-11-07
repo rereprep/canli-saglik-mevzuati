@@ -29,7 +29,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -65,7 +65,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Komisyonun Teşkili, Görevleri, Çalışma Usul ve Esasları
+**Komisyonun Teşkili, Görevleri, Çalışma Usul ve Esasları**
 
 #### Komisyonun teşkili
 
@@ -107,9 +107,9 @@ c) Bakanlık tarafından ihtiyaç duyulan bilimsel ve teknik konularda gerekli �
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Kuruluş, Başvuru ve Ruhsatlandırma, Faaliyet Belgesi, Ruhsat ve
+**Kuruluş, Başvuru ve Ruhsatlandırma, Faaliyet Belgesi, Ruhsat ve**
 
-Faaliyet Belgesi Yenileme
+**Faaliyet Belgesi Yenileme**
 
 #### Kuruluş
 
@@ -169,7 +169,7 @@ c) Sahiplik değişikliği/devir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Bina Durumu ve Merkezin Fiziki Şartları
+**Bina Durumu ve Merkezin Fiziki Şartları**
 
 #### Bina durumu
 
@@ -209,9 +209,9 @@ c) Merkezin ofis alanı; en az bir hasta muayene odası, hasta kabul, bekleme ye
 
 ### BEŞİNCİ BÖLÜM
 
-Araç ve Gereçler, Personel ve Personelin Görev ve Sorumlulukları ile
+**Araç ve Gereçler, Personel ve Personelin Görev ve Sorumlulukları ile**
 
-Çalışma Usul ve Esasları
+**Çalışma Usul ve Esasları**
 
 #### Araç ve gereçler
 
@@ -291,9 +291,9 @@ c) Gerektiğinde diğer tıpta uzmanlık alanları ile işbirliği yaparak genet
 
 ### ALTINCI BÖLÜM
 
-Tıbbi Atık Yönetimi, Yasaklar, Sorumluluklar ve Diğer Hususlar, Rıza,
+**Tıbbi Atık Yönetimi, Yasaklar, Sorumluluklar ve Diğer Hususlar, Rıza,**
 
-Hizmet Dökümünün Düzenlenmesi, Denetim ve Değerlendirme
+**Hizmet Dökümünün Düzenlenmesi, Denetim ve Değerlendirme**
 
 #### Tıbbi atık yönetimi
 
@@ -369,9 +369,9 @@ b) Denetimlerde, Merkezin fiziki şartlarının ruhsat şartlarını karşılama
 
 ### YEDİNCİ BÖLÜM
 
-Bilgilendirme ve Tanıtım, Kayıt Sistemi, Numunelerin Taşınması, Etik İlkeler, Merkez
+**Bilgilendirme ve Tanıtım, Kayıt Sistemi, Numunelerin Taşınması, Etik İlkeler, Merkez**
 
-Güvenliği, Hizmet Alımı ve Satımı ile Kişisel Sağlık Verilerinin Korunması
+**Güvenliği, Hizmet Alımı ve Satımı ile Kişisel Sağlık Verilerinin Korunması**
 
 #### Bilgilendirme ve tanıtım
 
@@ -471,7 +471,7 @@ b) Tetkiki çalışan kurum ve kuruluş isminin ve adresinin tetkik sonuç rapor
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 

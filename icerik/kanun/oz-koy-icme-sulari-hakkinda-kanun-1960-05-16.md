@@ -14,13 +14,13 @@ durum: "yürürlükte"
 
 ### KÖY İÇME SULARI HAKKINDA KANUN
 
-Kanun Numarası : 7478
+**Kanun Numarası : 7478**
 
-Kabul Tarihi : 9/5/1960
+**Kabul Tarihi : 9/5/1960**
 
-Yayımlandığı Resmî Gazete: Tarih: 16/5/1960 Sayı: 10506
+**Yayımlandığı Resmî Gazete: Tarih: 16/5/1960 Sayı: 10506**
 
-Yayımlandığı Düstur : Tertip: 3 Cilt: 41 Sayfa: 1019
+**Yayımlandığı Düstur : Tertip: 3 Cilt: 41 Sayfa: 1019**
 
 #### Kanunun şümulü
 
@@ -44,7 +44,7 @@ b) Nüfusu en kalabalık,
 
 c) Nüfus başına su getirme masrafı en az,
 
-d) (Mülga: 1/2/1977-2032/3 md.)
+d) **(Mülga: 1/2/1977-2032/3 md.)**
 
 e) Bir kaç köye ait işlerde aralarında birlik kuran,
 
@@ -149,4 +149,4 @@ Bu Kanunun yürürlüğe girmesinden önce Köy İşleri ve Kooperatifler Bakanl
 | 5728 | 16 | 8/2/2008 |
 | KHK/698 | 6 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte |
 
-<small>[1] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 26 ncı maddesi ile bu fıkrada yer alan “İcra Vekilleri Heyetinin” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 26 ncı maddesi ile bu fıkrada yer alan “İcra Vekilleri Heyetinin” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.</i></small>

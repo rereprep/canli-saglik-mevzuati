@@ -12,10 +12,10 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-BEŞERÎ TIBBİ ÜRÜNLERİN TANITIM FAALİYETLERİ
-HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**BEŞERÎ TIBBİ ÜRÜNLERİN TANITIM FAALİYETLERİ**
+**HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 3/7/2015 tarihli ve 29405 sayılı Resmî Gazete’de yayımlanan Beşerî Tıbbi Ürünlerin Tanıtım Faaliyetleri Hakkında Yönetmeliğe aşağıdaki geçici madde eklenmiştir.
+**MADDE 1 –** 3/7/2015 tarihli ve 29405 sayılı Resmî Gazete’de yayımlanan Beşerî Tıbbi Ürünlerin Tanıtım Faaliyetleri Hakkında Yönetmeliğe aşağıdaki geçici madde eklenmiştir.
 “Geçici hüküm
 GEÇİCİ
 

@@ -13,7 +13,7 @@ durum: "yürürlükte"
 
 Bakanlığından:
 ENFEKSİYON KONTROL HEMŞİRELERİNİN EĞİTİMİNE VE SERTİFİKALANDIRILMASINA
-DAİR TEBLİĞ'DE
+DAİR **TEBLİĞ**'DE
 DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
 
 MADDE 1 – 18/11/2006 tarihli ve 26350 sayılı Resmî Gazete'de yayımlanan Enfeksiyon Kontrol Hemşirelerinin Eğitimine ve Sertifikalandırılmasına Dair Tebliğ'in 13 üncü maddesi aşağıdaki şekilde değiştirilmiştir.

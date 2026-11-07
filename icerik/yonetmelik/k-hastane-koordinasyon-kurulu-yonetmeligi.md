@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç ve kapsam
 
@@ -65,7 +65,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Hastane Koordinasyon Kurulu
+**Hastane Koordinasyon Kurulu**
 
 #### Kurulun teşkili
 
@@ -171,7 +171,7 @@ e) İlgili mevzuatta verilen diğer görevleri yerine getirir.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Sözleşmeye aykırılık oluşturabilecek fiillerin varlığı
 

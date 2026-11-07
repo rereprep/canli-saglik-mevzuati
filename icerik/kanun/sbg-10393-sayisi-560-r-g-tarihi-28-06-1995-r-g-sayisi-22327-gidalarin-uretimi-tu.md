@@ -12,7 +12,7 @@ Sayısı:560 R.G. Tarihi:28.06.1995 R.G. Sayısı:22327
 
 ### BİRİNCİ BÖLÜM
 
-Genel Hükümler
+**Genel Hükümler**
 
 #### Amaç
 
@@ -46,7 +46,7 @@ h) Gıdaya bulaşan maddeler:
 
 j) Kalite kontrolü:
 
-k) Teknoloji kontrolü: Gıda maddelerinin tasnifinde, işlenmesinde ve üretiminde kullanılan alet-ekipman ve işleme tekniğinin mevzuata uygunluğunun tesbitini
+**k) Teknoloji kontrolü:** Gıda maddelerinin tasnifinde, işlenmesinde ve üretiminde kullanılan alet-ekipman ve işleme tekniğinin mevzuata uygunluğunun tesbitini
 
 l) Sağlık kontrolü:
 

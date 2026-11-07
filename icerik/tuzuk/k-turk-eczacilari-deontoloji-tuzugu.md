@@ -15,13 +15,13 @@ durum: "yürürlükte"
 
 ### TÜRK ECZACILARI DEONTOLOJİ TÜZÜĞÜ
 
-Bakanlar Kurulu Kararının Tarihi : 9.7.1968 No : 6/10314
+**Bakanlar Kurulu Kararının Tarihi : 9.7.1968 No : 6/10314**
 
-Dayandığı Kanunun Tarihi : 25.1.1956 No : 6643
+**Dayandığı Kanunun Tarihi : 25.1.1956 No : 6643**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 27.7.1968 No : 12961
+**Yayımlandığı Resmî Gazetenin Tarihi : 27.7.1968 No : 12961**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 7 Sayfa : 2710
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 7 Sayfa : 2710**
 
 ### BİRİNCİ BÖLÜM
 
@@ -37,7 +37,7 @@ Eczacı, sağlık ve veteriner hekimliği kuruluşları ile işbirliği yapar; k
 
 ### İKİNCİ BÖLÜM
 
-Eczacıların birbirleri, hekimler, müşteriler ve diğer iş
+**Eczacıların birbirleri, hekimler, müşteriler ve diğer iş**
 
 #### sahipleri ile ilişkileri
 
@@ -101,7 +101,7 @@ Eczane sahibi eczacı, tıbbi müstahzarat ve majistral formülleri, Sağlık ve
 
 ### GÖSTEREN ÇİZELGE
 
-Ek ve Değişiklik Getiren Tüzüğü Yürürlüğe Koyan Kararnamenin
+**Ek ve Değişiklik Getiren Tüzüğü Yürürlüğe Koyan Kararnamenin**
 
 | Tarihi | Numarası | Farklı Tarihte Yürürlüğe Giren Maddeler | Yürürlüğe Giriş Tarihi |
 | 30/11/1973 | 7/7521 | - | 15/12/1973 |

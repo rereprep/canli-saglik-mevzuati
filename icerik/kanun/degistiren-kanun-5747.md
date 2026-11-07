@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/03/20080322M1-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-BÜYÜKŞEHİR BELEDİYESİ SINIRLARI İÇERİSİNDE İLÇE KURULMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 5747 Kabul Tarihi: 6/3/2008 İlçe kurulması
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**BÜYÜKŞEHİR BELEDİYESİ SINIRLARI İÇERİSİNDE İLÇE KURULMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+**Kanun No. 5747 Kabul Tarihi: 6/3/2008** İlçe kurulması
 
 MADDE 1 – (1) Aşağıda belirtilen esaslar çerçevesinde;
 1.

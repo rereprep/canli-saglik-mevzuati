@@ -12,8 +12,8 @@ durum: "yürürlükte"
 ---
 
 Adalet Bakanlığından:
-ADLÎ TIP KURUMU KANUNU UYGULAMA YÖNETMELİĞİNDE
-DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ADLÎ TIP KURUMU KANUNU UYGULAMA YÖNETMELİĞİNDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete’de yayımlanan Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinin 10 uncu maddesinin üçüncü fıkrasının (c) bendine ikinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
 “Cesedin teslim veya gömülme işlemleri sırasında kamu düzeninin bozulabileceği veya toplumsal olayların meydana gelebileceği ya da suç işlenebileceği mülki idare amirince değerlendirildiği takdirde cesetler, gömülmek üzere doğrudan mülki idare amirliğine teslim edilir.”

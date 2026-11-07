@@ -12,27 +12,27 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/07/20100713-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-DİYANET İŞLERİ BAŞKANLIĞI KURULUŞ VE GÖREVLERİ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 6002 Kabul Tarihi: 1/7/2010
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**DİYANET İŞLERİ BAŞKANLIĞI KURULUŞ VE GÖREVLERİ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 6002 Kabul Tarihi: 1/7/2010**
 
-MADDE 1- 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 2 nci maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
-“MADDE 2- Başkanlık, merkez teşkilatı, taşra teşkilatı ve yurt dışı teşkilatından oluşur. Başkanlık merkez teşkilatı ekli (I) sayılı cetvelde gösterilmiştir.
+**MADDE 1-** 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 2 nci maddesi aşağıdaki şekilde yeniden düzenlenmiştir.
+“**MADDE 2-** Başkanlık, merkez teşkilatı, taşra teşkilatı ve yurt dışı teşkilatından oluşur. Başkanlık merkez teşkilatı ekli (I) sayılı cetvelde gösterilmiştir.
 Başbakan Başkanlığın yönetimi ile ilgili yetkilerini bir Devlet bakanı vasıtasıyla kullanabilir.”
 
 MADDE 2- 633 sayılı Kanunun 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 3- Başkanlığın en üst amiri olan Diyanet İşleri Başkanı, Başkanlığı temsil eder. Başkan din hizmetlerinin etkin ve verimli sunulması için gerekli tedbirleri alır. Bu amaçla;
+“**MADDE 3-** Başkanlığın en üst amiri olan Diyanet İşleri Başkanı, Başkanlığı temsil eder. **Başkan** din hizmetlerinin etkin ve verimli sunulması için gerekli tedbirleri alır. Bu amaçla;
 kaynakların etkin kullanımını sağlar; hizmetlerin düzenlenmesi, yürütülmesi, koordinasyonu ve denetlenmesi görevlerini yerine getirir;
 strateji, hedef ve performans kriterlerini belirleyip uygulanmasını temin eder; din hizmetleri ile ilgili ulusal ve uluslararası kurum ve kuruluşlarla işbirliği yapar.
 Başkan, Başkanlığın görev alanına giren konularda meydana gelen gelişmelere ve ihtiyaçlara göre birimlere görev verir.
 Başkanın görev süresi beş yıldır. Bir kişi en fazla iki kez Başkan olarak atanabilir.”
 
 MADDE 3- 633 sayılı Kanunun 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 4- Başkanın vereceği görevleri yapmak ve Başkana karşı sorumlu olmak üzere en fazla üç Başkan yardımcısı atanabilir.
+“**MADDE 4-** Başkanın vereceği görevleri yapmak ve Başkana karşı sorumlu olmak üzere en fazla üç Başkan yardımcısı atanabilir.
 Başkanın bulunmadığı hallerde, Başkanın göstereceği başkan yardımcılarından birisi, Başkanın göstermediği hallerde Din İşleri Yüksek Kurulu Başkanı Diyanet İşleri Başkanına vekalet eder.”
 
 MADDE 4- 633 sayılı Kanunun 5 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 5- Din İşleri Yüksek Kurulu, Başkanlığın dini konularda en yüksek karar ve danışma organı olup on altı üyeden oluşur. Diyanet İşleri Başkanı, Aday Tespit Kurulunca en az lisans düzeyinde dini yüksek öğrenim görmüş veya dini ilimlerde temayüz etmiş kişiler arasından belirlenen yirmi dört adaydan on iki, ayrıca ilahiyat fakültesi öğretim üyelerinden dört kişiyi Kurul üyeliğine atanmak üzere tespit eder.
+“**MADDE 5-** Din İşleri Yüksek Kurulu, Başkanlığın dini konularda en yüksek karar ve danışma organı olup on altı üyeden oluşur. Diyanet İşleri Başkanı, Aday Tespit Kurulunca en az lisans düzeyinde dini yüksek öğrenim görmüş veya dini ilimlerde temayüz etmiş kişiler arasından belirlenen yirmi dört adaydan on iki, ayrıca ilahiyat fakültesi öğretim üyelerinden dört kişiyi Kurul üyeliğine atanmak üzere tespit eder.
 Kurul üyelerinin görev süresi beş yıldır. Bir kişi en fazla iki kez Din İşleri Yüksek Kurulu Üyesi olarak atanabilir. Yeni üye atanıncaya kadar süresi biten üyenin görevi devam eder. Üyeliklerde herhangi bir sebeple boşalma olması halinde, Aday Tespit Kurulunca seçilmiş olan adaylar veya ilahiyat fakültesi öğretim üyeleri arasından bulunduğu kontenjana göre, otuz gün içinde yeni üye atanır.
 Atanan üye, yerine atandığı üyenin görev süresini tamamlar.
 Din İşleri Yüksek Kurulu kendi üyeleri arasından gizli oyla ve üye tam sayısının salt çoğunluğuyla bir başkan ve bir başkan vekili seçer.
@@ -58,7 +58,7 @@ Din İşleri Yüksek Kurulu uzman yardımcılığı yarışma ve yeterlik sınav
 MADDE 5- 633 sayılı Kanunun 6 ncı maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Mushafları İnceleme ve Kıraat Kurulu:
 
-MADDE 6- Mushafları İnceleme ve Kıraat Kurulu, bir başkan ile sekiz üyeden oluşur. Kurul Başkan ve üyelerinin görev süreleri beş yıldır. Süresi sona erenler yeniden atanabilir.
+**MADDE 6-** Mushafları İnceleme ve Kıraat Kurulu, bir başkan ile sekiz üyeden oluşur. Kurul Başkan ve üyelerinin görev süreleri beş yıldır. Süresi sona erenler yeniden atanabilir.
 Mushafları İnceleme ve Kıraat Kurulu Başkan ve üyelerinde aşağıdaki nitelikler aranır:
 a) Başkanlıkta en az üç yıl görev yapmış olmak.
 b) Dini yüksek öğrenim mezunu olmak.
@@ -78,7 +78,7 @@ Toplatma ve imha kararına konu teşkil eden yayınlar, bu karara süresi içind
 MADDE 6- 633 sayılı Kanunun 7 nci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Başkanlığın hizmet birimleri, görevleri ve yetkileri:
 
-MADDE 7- Başkanlığın hizmet birimleri, görevleri ve yetkileri şunlardır:
+**MADDE 7-** Başkanlığın hizmet birimleri, görevleri ve yetkileri şunlardır:
 a) Din Hizmetleri Genel Müdürlüğü
 1) Cami ve mescitleri ibadete açmak, yönetmek, ibadet ve irşat hizmetlerini yürütmek.
 2) Cami ve mescit dışındaki yerlerde panel, konferans, seminer, sempozyum ve benzeri dinî programlar ile ilmî toplantılar düzenlemek.
@@ -159,20 +159,20 @@ Başkanlık hizmet birimlerinin çalışma usul ve esasları yönetmelikle düze
 MADDE 7- 633 sayılı Kanunun 8 inci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Taşra teşkilatı:
 
-MADDE 8- Başkanlığın taşra teşkilatı, il ve ilçe müftülükleri ile doğrudan Başkanlığa bağlı dinî yüksek ihtisas merkezleri ve eğitim merkezlerinden oluşur.
+**MADDE 8-** Başkanlığın taşra teşkilatı, il ve ilçe müftülükleri ile doğrudan Başkanlığa bağlı dinî yüksek ihtisas merkezleri ve eğitim merkezlerinden oluşur.
 İl ve ilçe kuruluşlarının başında birer müftü bulunur. İl müftüleri Diyanet İşleri Başkanlığına, ilçe müftüleri ise il müftülüklerine bağlıdır. 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanunu hükümleri saklıdır. İl ve ilçe müftüleri, bölgelerinde Diyanet İşleri Başkanlığını temsil eder, din hizmetlerini, dini müesseseleri yönetir ve din görevlilerinin hizmetlerini düzenleyip denetler. İl ve ilçe müftülüklerinde ihtiyaca göre şube müdürlükleri kurulabilir.
 Müftülük kursu, staj, rotasyon, hizmet içi eğitim, terfi ve performans ölçütlerine ilişkin usul ve esaslar ile dinî yüksek ihtisas merkezleri, eğitim merkezleri, Kur’an kursları ile yurt ve pansiyonların çalışma usul ve esasları yönetmelikle düzenlenir.”
 
 MADDE 8- 633 sayılı Kanunun 9 uncu maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Personelin nitelikleri:
 
-MADDE 9- Başkanlık personelinde, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununda belirtilen genel şartlar yanında; Başkan, başkan yardımcısı, genel müdür, Rehberlik ve Teftiş Başkanı, il ve ilçe müftüsü, Başkanlık vaizi ve vaizlerin en az lisans düzeyinde dinî yüksek öğrenim mezunu olması gerekir. Yönetim Hizmetleri Genel Müdürü için ise dört yıllık yüksek öğrenim mezunu olması şartı aranır.
+**MADDE 9-** Başkanlık personelinde, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununda belirtilen genel şartlar yanında; Başkan, başkan yardımcısı, genel müdür, Rehberlik ve Teftiş Başkanı, il ve ilçe müftüsü, Başkanlık vaizi ve vaizlerin en az lisans düzeyinde dinî yüksek öğrenim mezunu olması gerekir. Yönetim Hizmetleri Genel Müdürü için ise dört yıllık yüksek öğrenim mezunu olması şartı aranır.
 Başkanlık personelinin 657 sayılı Kanunda ve bu Kanunda yer almayan diğer nitelikleri ile atanmalarında dinî öğrenim şartı arananlara ilişkin ortak nitelikler yönetmelikle düzenlenir.”
 
 MADDE 9- 633 sayılı Kanunun 10 uncu maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Atama:
 
-MADDE 10- Başkan yardımcıları, Rehberlik ve Teftiş Başkanı, Mushafları İnceleme ve Kıraat Kurulu Başkanı müşterek kararla; daire başkanı, hukuk müşaviri, başmüfettiş, müfettiş, iç denetçi ve dinî yüksek ihtisas merkezi müdürü Başkanın teklifi üzerine Başbakan veya ilgili Bakan onayı ile; 23/4/1981 tarihli ve 2451 sayılı Kanun hükümleri dışında kalan diğer personelin atamaları ise Başkan tarafından yapılır.
+**MADDE 10-** Başkan yardımcıları, Rehberlik ve Teftiş Başkanı, Mushafları İnceleme ve Kıraat Kurulu Başkanı müşterek kararla; daire başkanı, hukuk müşaviri, başmüfettiş, müfettiş, iç denetçi ve dinî yüksek ihtisas merkezi müdürü Başkanın teklifi üzerine Başbakan veya ilgili Bakan onayı ile; 23/4/1981 tarihli ve 2451 sayılı Kanun hükümleri dışında kalan diğer personelin atamaları ise Başkan tarafından yapılır.
 Milletvekili ve mahalli idareler genel ve ara seçimlerinde aday veya aday adayı olmak üzere görevinden istifa eden Başkanlık personeli, aday gösterilmemeleri veya seçimi kaybetmeleri halinde eski görev yerlerine dönemezler; bunlar kazanılmış hak aylık derecelerine uygun bir kadroya atanırlar.
 Görev süresi sona eren Din İşleri Yüksek Kurulu Başkan ve üyeleri ile Mushafları İnceleme ve Kıraat Kurulu Başkan ve üyeleri kazanılmış hak aylık derecelerine uygun başka kadrolara atanırlar.
 İl müftüleri ile en az lisans düzeyinde dinî yüksek öğrenim mezunu olan daire başkanları Başkanlık vaizi kadrolarına atanabilir ve Başkanlık tarafından belirlenen yerlerde görevlendirilebilirler. 657 sayılı Kanunun 43 üncü maddesinin (B) bendinin üçüncü fıkrasında belirtilen kadrolara atananlar hakkında uygulanan hükümler, Başkanlık vaizi kadrosuna atananlar hakkında da aynen uygulanır.
@@ -182,7 +182,7 @@ Başkanlık kadrolarına yapılacak atama ve nakil işlemlerine ilişkin usul ve
 MADDE 10- 633 sayılı Kanunun 11 inci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Diyanet işleri uzmanları ve müfettişler:
 
-MADDE 11- Başkanlık, merkez teşkilatında, bu Kanunda sayılan görevlerin yerine getirilmesinde Diyanet işleri uzmanı ve Diyanet işleri uzman yardımcısı istihdam eder. Diyanet işleri uzman yardımcısı olarak atanabilmek için 657 sayılı Kanunun 48 inci maddesinde belirtilen şartlara ek olarak aşağıdaki şartlar aranır:
+**MADDE 11-** Başkanlık, merkez teşkilatında, bu Kanunda sayılan görevlerin yerine getirilmesinde Diyanet işleri uzmanı ve Diyanet işleri uzman yardımcısı istihdam eder. Diyanet işleri uzman yardımcısı olarak atanabilmek için 657 sayılı Kanunun 48 inci maddesinde belirtilen şartlara ek olarak aşağıdaki şartlar aranır:
 a) En az lisans düzeyinde dinî yüksek öğrenim görmüş olmak.
 b) Sınavın yapılacağı yılın ocak ayının ilk günü itibariyle otuz yaşını, yüksek lisans veya doktora yapmış olanlar için otuz beş yaşını doldurmamış olmak.
 c) Yapılacak yarışma sınavında başarılı olmak.
@@ -202,7 +202,7 @@ Müfettiş ve müfettiş yardımcılığı yarışma ve yeterlik sınavlarının
 MADDE 11- 633 sayılı Kanunun 12 nci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Vaizler, imam-hatip ve müezzin-kayyımlar, Kur’an kursu öğreticileri, eğitim görevlileri:
 
-MADDE 12- Vaizler, cami ve mescitler ile diğer mekanlarda her türlü vasıtadan yararlanarak toplumu dinî konularda bilgilendirmek, Başkanlığın hizmet alanlarında irşat, rehberlik, inceleme ve araştırma yapmakla görevlidir. Vaizlik mesleği, adaylık döneminden sonra vaiz, uzman vaiz ve başvaiz kariyer basamaklarına ayrılır.
+**MADDE 12-** Vaizler, cami ve mescitler ile diğer mekanlarda her türlü vasıtadan yararlanarak toplumu dinî konularda bilgilendirmek, Başkanlığın hizmet alanlarında irşat, rehberlik, inceleme ve araştırma yapmakla görevlidir. Vaizlik mesleği, adaylık döneminden sonra vaiz, uzman vaiz ve başvaiz kariyer basamaklarına ayrılır.
 İmam-hatip ve müezzin-kayyımlar, cami ve mescitlerde din hizmetlerini yürütmek ve dinî konularda toplumu bilgilendirmekle görevlidir. İmam-hatiplik mesleği; adaylık döneminden sonra imam-hatip, uzman imam-hatip ve başimam-hatip; müezzin-kayyımlık mesleği ise müezzin-kayyım ve başmüezzin kariyer basamaklarına ayrılır.
 Adaylık dönemini başarıyla tamamlayanlar mesleğe imam-hatip veya müezzin-kayyım olarak atanır. İmam-hatip ve müezzin-kayyımlar, Kur’an-ı Kerim öğretiminde görevlendirilebilir.
 Kur’an kursu öğreticisi, Kur’an kurslarındaki eğitim ve öğretim faaliyetlerini yürütmekle görevlidir.
@@ -214,7 +214,7 @@ Uzman vaiz, başvaiz, uzman imam-hatip, başimam-hatip, başmüezzin, Kur’an k
 MADDE 12- 633 sayılı Kanunun 13 üncü maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Hac ve umre hizmetlerinin yürütülmesi:
 
-MADDE 13- Hac ve umre ibadetlerinin usulüne uygun, sağlık ve güvenlik içinde, hizmet talep edenlerin hakları korunacak şekilde ifası amacıyla, Başkanlık ve/veya Başkanlığın denetim ve gözetimi altında ilgili mevzuatı gereği uluslararası her türlü seyahat hizmetleri verme yetkisini haiz seyahat acentaları tarafından hac ve umre seferleri düzenlenir. Seyahat acentalarına tahsis edilecek kontenjan oranı Bakanlar Kurulunca belirlenir ve bu orana göre tespit edilen sayı seyahat acentalarınca kullanılmak üzere topluca verilir. Gerektiğinde bu acentalardan hizmet satın alınabilir. Başkanlıkça düzenlenen hac ve umre seferlerinde 14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununun 4 üncü maddesinde sözü edilen işletme belgesi aranmaz.
+**MADDE 13-** Hac ve umre ibadetlerinin usulüne uygun, sağlık ve güvenlik içinde, hizmet talep edenlerin hakları korunacak şekilde ifası amacıyla, Başkanlık ve/veya Başkanlığın denetim ve gözetimi altında ilgili mevzuatı gereği uluslararası her türlü seyahat hizmetleri verme yetkisini haiz seyahat acentaları tarafından hac ve umre seferleri düzenlenir. Seyahat acentalarına tahsis edilecek kontenjan oranı Bakanlar Kurulunca belirlenir ve bu orana göre tespit edilen sayı seyahat acentalarınca kullanılmak üzere topluca verilir. Gerektiğinde bu acentalardan hizmet satın alınabilir. Başkanlıkça düzenlenen hac ve umre seferlerinde 14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununun 4 üncü maddesinde sözü edilen işletme belgesi aranmaz.
 Başkanlıkla ve hac ve umreye götüreceği vatandaşlarla yaptığı sözleşme hükümlerine uymayan, götürdüğü hacı veya umreciye sözleşmede taahhüt ettiği hizmeti vermeyen veya eksik veren acentaya fiilin ağırlığına göre uyarma, kınama, kontenjan kısıtlaması, süresiz veya 1-3 yıl arası organizasyondan men, söz konusu acenta yetkililerinin bir başka isim altında aynı hizmeti yürüten acentalarla acenta görevlisi olarak görevlendirilmemesi müeyyidesi Bakanlıklararası Hac ve Umre Kurulu kararı ile verilir.
 Hac ve umre organizasyonunda hizmetlerin ifası sırasında meydana gelebilecek zararların karşılanması amacıyla, hac ve umre organizasyonu düzenleyen seyahat acentaları;
 götürdükleri her bir hacı başına aldıkları ücretin tamamı, götürdükleri umreci başına ise aldıkları ücretin yarısı kadar Başkanlığa teminat verir.
@@ -227,7 +227,7 @@ Hac ve umre hizmetlerinin yürütülmesi, Hac ve Umre Hesabının oluşturulmas�
 MADDE 13- 633 sayılı Kanunun 14 üncü maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Dinî Yayınlar Döner Sermaye İşletmesi:
 
-MADDE 14- Dinî Yayınlar Döner Sermaye İşletmesinin sermayesi, yirmi milyon Türk Lirasıdır. Bu miktarı on katına kadar artırmaya Bakanlar Kurulu yetkilidir. Bu Kanunun yürürlüğe girmesinden önce mevcut olan sermayenin tamamı ile sermayenin işletilmesinden elde edilen kârlar, tahsis edilen sermaye miktarına ulaşılıncaya kadar sermayeye ilave olunur. Ödenmiş sermaye tutarı, tahsis edilen sermaye tutarına ulaştıktan sonra kalan kârlar, izleyen mali yılın şubat ayı sonuna kadar genel bütçeye gelir kaydedilmek üzere ilgili muhasebe birimine yatırılır.
+**MADDE 14-** Dinî Yayınlar Döner Sermaye İşletmesinin sermayesi, yirmi milyon Türk Lirasıdır. Bu miktarı on katına kadar artırmaya Bakanlar Kurulu yetkilidir. Bu Kanunun yürürlüğe girmesinden önce mevcut olan sermayenin tamamı ile sermayenin işletilmesinden elde edilen kârlar, tahsis edilen sermaye miktarına ulaşılıncaya kadar sermayeye ilave olunur. Ödenmiş sermaye tutarı, tahsis edilen sermaye tutarına ulaştıktan sonra kalan kârlar, izleyen mali yılın şubat ayı sonuna kadar genel bütçeye gelir kaydedilmek üzere ilgili muhasebe birimine yatırılır.
 Döner sermayenin gelirleri; her türlü mal ve hizmet satış gelirleri, özel kişi veya kuruluşlarca incelenmesi talep edilen dini yayınların Din İşleri Yüksek Kurulunca incelenmesi karşılığı elde edilen gelirler, sınav giderlerini karşılamak üzere sınav hizmetlerinden elde edilen gelirler, bağış ve yardımlar ile diğer gelirlerden oluşur. Elde edilen gelirler döner sermayenin yürüteceği faaliyetlere ilişkin giderlerin karşılanmasında ve yönetmelikte belirtilecek diğer faaliyet alanlarında kullanılır.
 Bağış ve yardımlar tahsis olunan sermaye ile sınırlı olmaksızın sermayeye eklenir. Şartlı bağışlar şart kılınan yere harcanır.
 Döner Sermaye İşletmesi, Başkanlık yayınlarının satış yerleri ile ilgili hizmetleri yürütür, kitabevleri açabilir, yayın hizmetleri ile ilgili olarak ithalat ve ihracat yapabilir.
@@ -236,7 +236,7 @@ Döner Sermaye İşletmesinin faaliyet alanları ile çalışma usul ve esaslar�
 MADDE 14- 633 sayılı Kanunun 15 inci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Yöneticilerin sorumlulukları ve yetki devri:
 
-MADDE 15- Başkanlık teşkilatının her kademedeki yöneticileri, görevlerini mevzuata, stratejik plan ve programlara, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütmekten üst kademelere karşı sorumludur.
+**MADDE 15-** Başkanlık teşkilatının her kademedeki yöneticileri, görevlerini mevzuata, stratejik plan ve programlara, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütmekten üst kademelere karşı sorumludur.
 Başkan ve diğer üst düzey yöneticiler sınırlarını açıkça belirtmek ve yazılı olmak şartıyla yetkilerinden bir kısmını astlarına devredebilir. Yetki devri uygun araçlarla ilgililere duyurulur.”
 
 MADDE 15- 633 sayılı Kanunun 17 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
@@ -244,7 +244,7 @@ MADDE 15- 633 sayılı Kanunun 17 nci maddesi başlığıyla birlikte aşağıda
 
 MADDE 17- Başkanlık gerektiğinde, kanunla verilen görevleri çerçevesinde Türkiye Diyanet Vakfı ile işbirliği yapar. Anılan Vakıf hakkında 22/1/2004 tarihli ve 5072 sayılı Dernek ve Vakıfların Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanun hükümleri uygulanmaz.”
 
-MADDE 16- 633 sayılı Kanunun 18/A maddesinin başlığı “Yurt dışı teşkilatı:” şeklinde değiştirilmiş, beşinci fıkrası yürürlükten kaldırılmış, birinci, üçüncü, dördüncü ve altıncı fıkraları aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 16-** 633 sayılı Kanunun 18/A maddesinin başlığı “Yurt dışı teşkilatı:” şeklinde değiştirilmiş, beşinci fıkrası yürürlükten kaldırılmış, birinci, üçüncü, dördüncü ve altıncı fıkraları aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
 “Başkanlık yurt dışı teşkilatı, 13/12/1983 tarihli ve 189 sayılı Kamu Kurum ve Kuruluşlarının Yurtdışı Teşkilatı Hakkında Kanun Hükmünde Kararname esaslarına göre kurulan müşavirlik ve ataşeliklerden oluşur.”
 “Başkanlık yurt dışı teşkilatı kadrolarına sürekli görevle atanabilmek için; en az dört yıllık dini yüksek öğrenim veren fakülte veya yüksek okul mezunu olmak, Başkanlık teşkilatında vaizlik, müdürlük, uzmanlık, diyanet işleri uzmanlığı, din işleri yüksek kurulu uzmanlığı ve üstü görevlerde veya ilahiyat fakültelerinde öğretim üyesi olarak en az üç yıl çalışmış olmak ve türü ve düzeyi yönetmelik ile belirlenecek yabancı dillerden birini bilmek gerekir.
 Yurt dışı sürekli görevlere atanmada Din İşleri Yüksek Kurulu üyesi, genel müdür, daire başkanı, il müftüsü ile ilahiyat alanında profesör olanlar mesleki ehliyet sınavına tabi tutulmazlar. Bunların yurt dışı temsil ve yeterliliği mülakatla belirlenir.
@@ -252,24 +252,24 @@ Başkan yardımcıları ve Din İşleri Yüksek Kurulu Başkanının yurt dış�
 “İlk ve orta öğrenimlerini ilgili ülkede tamamlayıp Türkiye’de lisans düzeyinde yüksek din öğrenimini veya Yükseköğretim Kurulu tarafından denkliği kabul edilen yurt dışında bir İslam ilahiyatı bölümünü başarıyla bitirenlerden ilgili ülke vatandaşlığına sahip olanlarla süresiz oturma izni bulunanlar, Bakanlıklararası Ortak Kültür Komisyonunca mahallinde sözleşmeli statüde istihdam edilebilir. Bunlara, ilgili ülkede sürekli görevle bulunan ve 9 uncu derecenin 1 inci kademesinden aylık alan bekar meslek memuruna ödenmekte olan yurt dışı aylığının yüzde seksenini geçmemek üzere Maliye Bakanlığı tarafından tespit edilecek tutarda ödeme yapılır. Bu kapsamda istihdam edilecek personelin sayısı, nitelikleri, seçim usul ve esasları, görev yerleri ve süreleri, izinleri, görevlerinin sona erdirilmesi ve verilecek iş sonu tazminatı ile bu fıkranın uygulanmasına ilişkin diğer usul ve esaslar, Bakanlıklararası Ortak Kültür Komisyonunun teklifi üzerine Maliye Bakanlığı ve Başkanlıkça müştereken belirlenir.
 Yurt dışı görevler için yapılacak yazılı ve/veya sözlü sınavlara, personelin yurt dışı görevlere hazırlanmasına ilişkin usul ve esaslar ile Türkçe’nin ve Türk lehçelerinin konuşulduğu ülkelere yapılacak atamalarda hangi dil ve lehçelerin aranacağı ve yurt dışı teşkilatına yapılacak atamalarla ilgili diğer hususlar yönetmelikle düzenlenir.”
 
-MADDE 17- 633 sayılı Kanunun 20 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 17-** 633 sayılı Kanunun 20 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Aday Tespit Kurulu:
 
 MADDE 20- Din İşleri Yüksek Kurulu üyeliğine atanacaklardan yirmi dört adayı tespit etmekle görevli Aday Tespit Kurulu, Diyanet İşleri Başkanının başkanlığında, başkan yardımcıları, Din İşleri Yüksek Kurulu Başkanı, Mushafları İnceleme ve Kıraat Kurulu Başkanı, genel müdürler, birim başkanları, il müftüleri, dinî yüksek ihtisas merkezi müdürleri, Millî Eğitim Bakanlığı Din Öğretimi Genel Müdürü, her bir ilahiyat fakültesinin kendi öğretim üyeleri arasından akademik kurullarınca seçecekleri ikişer temsilci, her bir eğitim merkezinin eğitim görevlilerinin kendi aralarından seçecekleri birer temsilci, her coğrafi bölgedeki ilçe müftülerinin kendi aralarından seçecekleri ikişer temsilci ve her coğrafi bölgedeki başvaizler, başimam-hatipler ile Kur’an kursu başöğreticilerinin kendi aralarından seçecekleri ikişer temsilciden oluşur.”
 
-MADDE 18- 633 sayılı Kanunun 21 inci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 18-** 633 sayılı Kanunun 21 inci maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Yargılama usulü:
 
 MADDE 21- Başkanlık teşkilatının her kademesinde din hizmetlerini yürüten personel, görevleri sebebiyle işledikleri suçlarda 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu uygulaması bakımından kamu görevlisi sayılır ve bunlar hakkında 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanır.”
 
-MADDE 19- 633 sayılı Kanunun ek 1 inci maddesinde yer alan “mushafları inceleme kurulu başkanı” ibaresi “mushafları inceleme ve kıraat kurulu başkanı”, “teftiş kurulu başkanı” ibaresi “rehberlik ve teftiş başkanı”, “din işleri yüksek kurulu uzmanı,” ibaresi “diyanet işleri uzmanı ve diyanet işleri uzman yardımcısı, din işleri yüksek kurulu uzmanı, din işleri yüksek kurulu uzman yardımcısı,” olarak değiştirilmiş, “bilgisayar çözümleyicisi” ibaresinden sonra gelmek üzere “, genel müdür, strateji geliştirme başkanı, başkanlık müşaviri, basın ve halkla ilişkiler müşaviri, özel kalem müdürü, daire tabibi, diş tabibi, mimar, mühendis, astronom, mütercim” ibaresi eklenmiş, birinci fıkranın son cümlesi “Ancak, bu görevlerde çalıştırılacaklar için (Din İşleri Yüksek Kurulu Başkanı ve üyeleri, Başkanlık müşaviri (4 adet) ve Basın ve Halkla İlişkiler Müşaviri hariç) yüksek öğrenim şartı aranır.” şeklinde, maddenin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkralar eklenmiştir.
+**MADDE 19-** 633 sayılı Kanunun ek 1 inci maddesinde yer alan “mushafları inceleme kurulu başkanı” ibaresi “mushafları inceleme ve kıraat kurulu başkanı”, “teftiş kurulu başkanı” ibaresi “rehberlik ve teftiş başkanı”, “din işleri yüksek kurulu uzmanı,” ibaresi “diyanet işleri uzmanı ve diyanet işleri uzman yardımcısı, din işleri yüksek kurulu uzmanı, din işleri yüksek kurulu uzman yardımcısı,” olarak değiştirilmiş, “bilgisayar çözümleyicisi” ibaresinden sonra gelmek üzere “, genel müdür, strateji geliştirme başkanı, başkanlık müşaviri, basın ve halkla ilişkiler müşaviri, özel kalem müdürü, daire tabibi, diş tabibi, mimar, mühendis, astronom, mütercim” ibaresi eklenmiş, birinci fıkranın son cümlesi “Ancak, bu görevlerde çalıştırılacaklar için (Din İşleri Yüksek Kurulu Başkanı ve üyeleri, Başkanlık müşaviri (4 adet) ve Basın ve Halkla İlişkiler Müşaviri hariç) yüksek öğrenim şartı aranır.” şeklinde, maddenin ikinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiş ve maddeye aşağıdaki fıkralar eklenmiştir.
 “Sözleşmeli olarak Başkanlıkta çalışan personele, bu Kanuna ekli (II) sayılı cetvelde unvanlar itibarıyla yer alan taban ve tavan ücretleri arasında kalmak üzere, Başkan tarafından belirlenecek tutarda aylık sözleşme ücreti ödenir. Başbakanlık merkez teşkilatında kadro karşılığı sözleşmeli olarak çalışan emsali personelin yararlandığı ücret artışlarından Başkanlıkta kadro karşılığı çalışan sözleşmeli personel de aynen yararlandırılır. Söz konusu personele, çalıştıkları günlerle orantılı olarak (hastalık ve yıllık izinleri dahil) ocak, nisan, temmuz ve ekim aylarında birer aylık sözleşme ücreti tutarında ikramiye ödenir. Bunlardan üstün gayret ve çalışmaları sonucunda emsallerine göre başarılı çalışma yaptıkları tespit edilenlere Başkanın teklifi üzerine Başbakan veya ilgili Bakanın onayı ile haziran ve aralık aylarında birer aylık sözleşme tutarına kadar teşvik ikramiyesi ödenebilir.
 Bu fıkranın uygulanmasına ilişkin usul ve esaslar ile söz konusu personele yapılacak diğer ödemeler Bakanlar Kurulunca tespit edilir.
 657 sayılı Kanunun ek 32 nci maddesine göre ödenmekte olan öğretim yılına hazırlık ödeneği, Başkanlıkta eğitim görevlisi ve Kur’an kursu öğreticisi kadrosunda bulunup, fiilen eğitim görevliliği ve öğreticilik yapanlara da aynı esas ve usullere göre ödenir.
 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 38 inci maddesine göre, başkan yardımcısı ve Din İşleri Yüksek Kurulu başkanı, üyesi ve genel müdür olarak görevlendirilenlere, anılan madde uyarınca ödenen ücrete ilaveten ve söz konusu maddenin dördüncü fıkrasında öngörülen sınırlamaya tabi olmaksızın, her ay (20.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak tutarda ayrıca ödeme yapılır. Bu ödeme damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaz.
 Başkanlık başmüfettiş, müfettiş ve müfettiş yardımcılarına, en yüksek Devlet memuru aylığının (ek gösterge dahil) yüzde ikiyüzünü geçmemek üzere Maliye Bakanlığının uygun görüşü alınmak suretiyle ilgili Bakanın onayı ile belirlenecek oranda ek ödeme yapılır. Bu ödemeye hak kazanılmasında ve ödenmesinde aylıklara ilişkin hükümler uygulanır ve damga vergisi hariç herhangi bir vergi ve kesinti yapılmaz. Bu fıkra kapsamında ödeme yapılanlara, 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesi hükümlerine göre ödeme yapılmaz.”
 
-MADDE 20- 633 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
+**MADDE 20-** 633 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
 “Geçiş Hükümleri:
 
 GEÇİCİ MADDE 13- Bu maddenin yürürlüğe girdiği tarihte görevde bulunan Başkan ve başkan yardımcıları, 3 üncü ve 4 üncü maddelere göre Başkan ve başkan yardımcıları atanıncaya kadar göreve devam eder.
@@ -293,7 +293,7 @@ MADDE 14- 25/12/2009 tarihli ve 5944 sayılı 2010 yılı Merkezi Yönetim Büt�
 GEÇİCİ MADDE 15- 30/6/2010 tarihi itibariyle Diyanet İşleri Başkanlığı taşra teşkilatında halihazırda vekil imam-hatip veya müezzin-kayyım olarak görev yapmakta olanlar ile 3/5/2005 tarihinden bu maddenin yürürlüğe girdiği tarihe kadar Diyanet İşleri Başkanlığı taşra teşkilatında toplam en az dört ay süreyle vekil imam-hatip veya müezzin-kayyım olarak görev yapmış olanlar; kamu personeli seçme sınavlarının herhangi birinden Başkanlıkça belirlenecek yeterli puanı almış olmaları ve alanlarında yeterlilik belgesine sahip olmaları şartıyla, bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde başvurmaları ve Başkanlıkça belirlenecek usul ve esaslara göre yapılacak sınavda başarılı olmaları halinde, Başkanlıkça ilan edilecek yerlerde görevlendirilmek ve bir defaya mahsus olmak üzere, 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrası hükümleri uyarınca vizeli veya vize sayısının yeterli olmaması halinde, ilgili mevzuat hükümleri çerçevesinde vize edilecek sözleşmeli imam -hatip ve müezzin-kayyım pozisyonlarına geçirilir.
 Bu şekilde sözleşmeli imam-hatip ve müezzin-kayyım pozisyonlarına geçirileceklerin sayısı 4000 adedi geçemez ve bu işlemler başvuru süresi dahil en geç altı ay içerisinde tamamlanır.”
 
-MADDE 21- a) 633 sayılı Kanunun bölüm başlıkları, alt başlıkları, 16 ncı, 18 inci, 26 ila 29 uncu, 31 inci, 32 nci, 39 uncu ve 40 ıncı maddeleri ile 12/4/1990 tarihli ve 416 sayılı 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun Bazı Maddelerinin Değiştirilmesi Hakkında Kanun Hükmünde Kararname yürürlükten kaldırılmıştır.
+**MADDE 21-** a) 633 sayılı Kanunun bölüm başlıkları, alt başlıkları, 16 ncı, 18 inci, 26 ila 29 uncu, 31 inci, 32 nci, 39 uncu ve 40 ıncı maddeleri ile 12/4/1990 tarihli ve 416 sayılı 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun Bazı Maddelerinin Değiştirilmesi Hakkında Kanun Hükmünde Kararname yürürlükten kaldırılmıştır.
 b) 657 sayılı Devlet Memurları Kanununun;
 1) 36 ncı maddesinin “Ortak Hükümler” bölümünün (A) fıkrasının (11) numaralı bendine “Dış Ticaret Uzman Yardımcıları,” ibaresinden sonra gelmek üzere “Diyanet İşleri Uzman Yardımcıları, Din İşleri Yüksek Kurulu Uzman Yardımcıları,” ibaresi ve aynı bentteki “Dış Ticaret Uzmanlığına,” ibaresinden sonra gelmek üzere “Diyanet İşleri Uzmanlığına, Din İşleri Yüksek Kurulu Uzmanlığına,” ibaresi eklenmiştir.
 2) 59 uncu maddesinde yer alan “Din İşleri Yüksek Kurulu Üyeliklerine,” ibaresinden sonra gelmek üzere “Diyanet İşleri Başkanlığı Başkanlık Müşaviri (4 adet), Diyanet İşleri Başkanlığı Basın ve Halkla İlişkiler Müşaviri,” ibaresi eklenmiştir.
@@ -309,7 +309,7 @@ d) (a) ve (b) alt bentlerinde sayılanlardan ayrıca; başvaiz, başimam-hatip, 
 4) Ekli (I) Sayılı Ek Göstergeler Cetvelinin;
 (a) “I- Genel İdare Hizmetleri Sınıfı” bölümünün (c) bendinde yer alan “Diyanet İşleri Başkanı,” ibaresi bu bentten çıkarılmış ve aynı bölümün (a) bendine “Başbakanlık Müsteşarı,” ibaresinden sonra gelmek üzere “Diyanet İşleri Başkanı” ibaresi, aynı bölümün (f) bendinde yer alan “Diyanet İşleri Başkan Yardımcıları ile Din İşleri Yüksek Kurulu Başkanı,” ibaresi bu bentten çıkarılmış ve aynı bölümün (d) bendine “Başbakanlık Müsteşar Yardımcıları,” ibaresinden sonra gelmek üzere “Diyanet İşleri Başkan Yardımcıları, Din İşleri Yüksek Kurulu Başkanı, Mushafları İnceleme ve Kıraat Kurulu Başkanı,” ibaresi, aynı bölümün (f) bendine “Talim ve Terbiye Kurulu Üyesi,” ibaresinden sonra gelmek üzere “Din İşleri Yüksek Kurulu Üyesi,” ibaresi, aynı bölümün (d) bendine “Sosyal Güvenlik Kurumu Rehberlik ve Teftiş Başkanı” ibaresinden sonra gelmek üzere “, Diyanet İşleri Başkanlığı Rehberlik ve Teftiş Başkanı” ibaresi, aynı bölümün (h) bendine “Vakıf Uzmanları,” ibaresinden sonra gelmek üzere “Diyanet İşleri Uzmanları, Din İşleri Yüksek Kurulu Uzmanları,” ibaresi eklenmiştir.
 (b) “VI- Din Hizmetleri Sınıfı” bölümü aşağıdaki şekilde değiştirilmiştir.
-“VI- DİN HİZMETLERİ SINIFI Kadroları bu sınıfa dahil olanlardan,
+“VI- DİN HİZMETLERİ **SINIFI** Kadroları bu sınıfa dahil olanlardan,
 a) En az dört yıllık dini yüksek öğrenim mezunları 1 3000 2 2200 3 1600 4 1100 5 900 6 800 7 500 8 450
 b) Yukarıda belirtilenler dışındaki yüksek öğrenim mezunları 1 2200 2 1600 3 1100 4 800
 c) Diğerleri 1 1500 2 1100 3 800 4 650”
@@ -328,6 +328,6 @@ d) 13/4/1994 tarihli ve 3984 sayılı Radyo ve Televizyonların Kuruluş ve Yay�
 e) Ekli (1) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki Diyanet İşleri Başkanlığına ait cetvelden çıkarılmış, ekli
 (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetveldeki Diyanet İşleri Başkanlığı bölümüne eklenmiştir.
 
-MADDE 22- Bu Kanunun; çerçeve 19 uncu maddesiyle değiştirilen 633 sayılı Kanunun ek 1 inci maddesinin ikinci fıkrası 30/6/2010 tarihinden geçerli olmak üzere yayımı tarihinde, diğer hükümleri yayımı tarihinde yürürlüğe girer.
+**MADDE 22-** Bu Kanunun; çerçeve 19 uncu maddesiyle değiştirilen 633 sayılı Kanunun ek 1 inci maddesinin ikinci fıkrası 30/6/2010 tarihinden geçerli olmak üzere yayımı tarihinde, diğer hükümleri yayımı tarihinde yürürlüğe girer.
 
-MADDE 23- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 23-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

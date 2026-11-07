@@ -30,7 +30,7 @@ Sendromu’nun Önlenmesi Programı kapsamında; Türkiye’de kızamık ve kız
 
 Kızamığa karşı en etkili korunma yönteminin aşılama olduğu bilinmekte olup, kızamık vakalarının kontrol altına alınması amacıyla 2012 yılından bu yana aralıklı olarak 9-11 aylık bebeklerde ek doz aşılama uygulaması yürütülmektedir.
 
-Bağışıklama Danışma Kurulu'nun tavsiye kararı doğrultusunda halihazırda uygulanmakta olan 9-11 ay ek doz aşısı tüm illerde rutin olarak tüm çocuklara Kızamık, Kızamıkçık, Kabakulak (KKK) aşısı şeklinde uygulanmaktadır.
+Bağışıklama Danışma Kurulu'nun tavsiye kararı doğrultusunda halihazırda uygulanmakta olan 9-11 ay ek doz aşısı tüm illerde **rutin olarak tüm çocuklara** Kızamık, Kızamıkçık, Kabakulak (KKK) aşısı şeklinde uygulanmaktadır.
 
 Birçok ülkede kızamık vakalarının görülmeye devam ettiği göz önünde bulundurulduğunda, 9-11 ay aralığında yapılan ek doz uygulamasında yüksek aşılama kapsayıcılığına ulaşılması büyük önem arz etmektedir. Bu doğrultuda, söz konusu aşılama uygulamasının Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği performans kriterleri kapsamına dahil edilmesi uygun görülmüş olup bu uygulama kapsamında belirlenen iş kuralları aşağıda sunulmaktadır:
 
@@ -42,7 +42,7 @@ Birçok ülkede kızamık vakalarının görülmeye devam ettiği göz önünde 
 
  Bu aşının performans değerlendirmelerine dahil edilmesi,
 
-Uygulama gerekliliklerinin Aile Hekimliği Birimlerine iletilmesi ve ilgili tüm sağlık personelinin, Eylül 2025 itibariyle Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği kapsamında hesaplanan performans kriterlerine 9-11 ay Ek Doz
+Uygulama gerekliliklerinin Aile Hekimliği Birimlerine iletilmesi ve ilgili tüm sağlık personelinin, **Eylül 2025** itibariyle Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği kapsamında hesaplanan performans kriterlerine 9-11 ay Ek Doz
 
 KKK aşısı uygulamasının dahil edildiği konusunda bilgilendirilmesi ile saha uygulamasının belirlenen iş kuralları doğrultusunda yürütülmesi hususunda;
 

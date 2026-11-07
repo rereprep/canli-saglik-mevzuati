@@ -15,21 +15,21 @@ durum: "yürürlükte"
 
 ### HAKKINDA KANUN [1]
 
-Kanun Numarası : 224
+**Kanun Numarası : 224**
 
-Kabul Tarihi : 5/1/1961
+**Kabul Tarihi : 5/1/1961**
 
-Yayımlandığı Resmî Gazete : Tarih: 12/1/1961 Sayı: 10705
+**Yayımlandığı Resmî Gazete : Tarih: 12/1/1961 Sayı: 10705**
 
-Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 1486
+**Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 1486**
 
-Genel Hükümler
+**Genel Hükümler**
 
-Kanunun gayesi:
+**Kanunun gayesi:**
 
 **Madde 1 –** İnsan Hakları Evrensel Beyannamesinde bir hak olarak tanınan sağlık hizmetlerinden faydalanmanın sosyal adalete uygun bir şekilde ifasını sağlamak maksadiyle tababet ve tababetle ilgili hizmetler bu kanun çerçevesinde hazırlanacak bir program dahilinde sosyalleştirilecektir.
 
-Terimler:
+**Terimler:**
 
 **Madde 2 –** Bu kanunda kullanılan terimlerin delalet ettiği manalar aşağıda gösterilmiştir:
 
@@ -47,7 +47,7 @@ Sosyalleştirme: Sağlık hizmetlerinin sosyalleştirilmesi vatandaşların sağ
 
 Sağlık ocağı: Takriben 5000 - 10000 kişinin köyler grubu veya bir kasaba veya şehir ve büyük kasabalardaki mahalle grupları bir sağlık ocağını teşkil eder. Bunların il içinde idari taksimata uyması icabetmez.
 
-Temel prensipler:
+**Temel prensipler:**
 
 **Madde 3 –** (Mülga: 31/12/1980 - 2368/6 md.)
 
@@ -67,9 +67,9 @@ Kamu sektörüne dahil kurumlarda çalıştırılacak sağlık personeli miktar�
 
 Sosyal sigorta kanunları gereğince sigorta muameleleri için lüzumlu belgeler, Çalışma ve Sağlık ve Sosyal Yardım Bakanlığı tarafından müştereken tesbit olunan esaslar dahilinde, sosyalleştirilmiş sağlık hizmetleri teşkilatınca tanzim edilerek İşçi Sigortaları Kurumuna verilir.
 
-Sosyalleştirme
+**Sosyalleştirme**
 
-Sağlık Teşkilatının Kuruluş ve vazifeleri:
+**Sağlık Teşkilatının Kuruluş ve vazifeleri:**
 
 **Madde 9 –** Sosyalleştirilmiş sağlık hizmeti teşkilatı: Sağlık evleri sağlık ocakları, sağlık merkezleri ile hastaneleri, çeşitli koruyucu hekimlik teşekkülleri, sağlık hizmeti hususiyet arzeden yerler için kurulmuş sağlık teşekkülleri, sağlık müdürlükleri, bölge hastaneleri, bölge laboratuvarları, sağlık personeli yetiştiren eğitim müesseseleri, Sağlık ve Sosyal Yardım Bakanlığı merkez teşkilatı ve diğer Bakanlık ve kurumlarda Sağlık ve Sosyal Yardım Bakanlığı ile işbirliği yapmak üzere kurulmuş olan dairelerden teşekkül eder.
 
@@ -87,7 +87,7 @@ Sağlık merkezlerinin personel kadrosu ihtiyaca göre Sağlık ve Sosyal Yardı
 
 **Madde 12 –** Hastaneler, sağlık ocaklarından veya sağlık merkezlerinden veya diğer hastanelerden gönderilen veya durumları acil müdahaleyi icabettiren veya 13 üncü madde hükümlerine göre müracaat eden hastaları ayakta veya yatarak tedavi etmek ve uhdelerine verilen koruyucu ve sosyal sağlık hizmetlerini yapmakla mükelleftirler. Hastanelerdeki sağlık personeli sağlık ocakları ve sağlık merkezleri personelinin mesleki tekamülüne de yardım ederler.
 
-Sağlık hizmetlerinin yürütülmesi:
+**Sağlık hizmetlerinin yürütülmesi:**
 
 **Madde 13 –** Sosyalleştirilmiş sağlık hizmetlerinden faydalanmak istiyen, acil vakalar hariç, evvela sağlık evine veya sağlık ocağına başvururlar. Köylük bölgelerde sağlık ocağı hekimleri tedavi edemedikleri vakaları, güç olması muhakkak bulunan doğumları sağlık merkezine, hastaneye sevki gereken acil vakaları hastaneye yollarlar, Sağlık ocağında hekim bulunmadığı hallerde yardımcı sağlık personeli hastaları -kendi selahiyetleri dahilinde olan müdahaleyi mütaakıp gerekirse- sağlık merkezine veya hastaneye sevkedebilir. Sağlık merkezinde tedavisi mümkün olmıyan hastalar veya mütehassıs müdahalesini icabettiren doğumlar hastanelere veya doğumevlerine sevkedilir.
 
@@ -109,7 +109,7 @@ Sağlık hizmetlerinin sosyalleştirildiği bölgelerde, hastaların muhtaç old
 
 **Madde 16 –** Sosyalleştirilmiş sağlık hizmetleri gören teşekküller tarafından parasız veya bedelinin bir kısmı veya tamamı hastalar tarafından ödenerek alınacak ilaç ve tedavi vasıtalarının listeleri her yılın ilk ayında Sağlık ve Sosyal Yardım Bakanlığı tarafından ilan edilir. Liste harici ilaç ve tedavi araçları bedeli hastalar tarafından ödenmek suretiyle alınır.
 
-Sosyalleştirmenin tatbik ve teşmili:
+**Sosyalleştirmenin tatbik ve teşmili:**
 
 **Madde 17 –** Bir bölgede sağlık hizmetlerinin iyi bir şekilde yürütülmesi için gereken tesisler, lojmanlar, malzeme, araçlar ve personel temin edilmeden o bölgede sosyalleştirme planı tatbik edilemez.
 
@@ -125,7 +125,7 @@ Sosyalleştirme planı bütün yurda kademeli surette teşmil edilirken sağlık
 
 Sağlık hizmetlerinin bütün yurt sathında sosyalleştirilmesi en geç 1992 yılı sonuna kadar gerçekleştirilir.
 
-Özel daire, genel kurul, ve mahalli sağlık kurulları:
+**Özel daire, genel kurul, ve mahalli sağlık kurulları:**
 
 **Madde 21 –** Sağlık hizmetlerinin sosyalleştirilmesi işlerini planlamak ve Bakanlığın diğer daireleri ile işbirliği yaparak yürütmek üzere Sağlık ve Sosyal Yardım Bakanlığında bir (özel daire) kurulur.
 
@@ -139,7 +139,7 @@ Genel Kurul Üyelerinden 3656 ve 3659 sayılı kanunlara tabi olup da toplantıl
 
 Bu kurullar halkın sağlık teşkilatından istediği hususları ilgililere duyurur. Hizmetlerin başarı ile yürütülmesi için halkın eğitilmesine ve teşkilat ile maddi ve manevi işbirliği yapmalarına yardım ederler.
 
-Personele dair hükümler:
+**Personele dair hükümler:**
 
 **Madde 24 –** (Değişik: 8/5/1969 - 1175/3 md.)
 
@@ -167,7 +167,7 @@ Sağlık personeline mukavele ile verilecek ücret miktarları bu meslek mensupl
 
 **Madde 28 –** Sosyalleştirilmiş hizmetlerde çalıştırılan karı veya kocanın aynı mahalde ayrı iki teşekkülde çalıştırılmaları mümkün değilse bunlar aynı hizmet yerine tayin edilebilirler.
 
-Mali hükümler:
+**Mali hükümler:**
 
 **Madde 29 –** (Değişik: 30/5/1963 - 243/1 md.)
 
@@ -234,4 +234,4 @@ Bu kanunun yürürlüğe girdiği tarihten önce mukavele imzalamış olan sağl
 | 2858 | — | 25/6/1983 |
 | KHK/336 | — | 5/8/1988 |
 
-<small>[1] Bu Kanunun personelle ilgili mali hükümleri 29/6/1978 tarih ve 2162 sayılı Kanunun 13 üncü maddesi ile yürürlükten kaldırılmıştır. Ayrıca 657 sayılı Devlet Memurları Kanununa 31/7/1970 tarih ve 1327 sayılı Kanunun 90 ıncı maddesi ile eklenen ve 15/5/1975 tarih ve 1897 sayılı Kanunla değişik "Ek Geçici Madde 18" hükmüne bakınız.</small>
+<small>[1] <i>Bu Kanunun personelle ilgili mali hükümleri 29/6/1978 tarih ve 2162 sayılı Kanunun 13 üncü maddesi ile yürürlükten kaldırılmıştır. Ayrıca 657 sayılı Devlet Memurları Kanununa 31/7/1970 tarih ve 1327 sayılı Kanunun 90 ıncı maddesi ile eklenen ve 15/5/1975 tarih ve 1897 sayılı Kanunla değişik "Ek Geçici Madde 18" hükmüne bakınız.</i></small>

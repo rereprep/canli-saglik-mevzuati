@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/05/20260501-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN SOSYAL HİZMETLER KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7578 Kabul Tarihi: 22/4/2026
+**KANUN SOSYAL HİZMETLER KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7578** Kabul Tarihi: 22/4/2026
 
 MADDE 1- 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun;
 a) 40 ıncı maddesinin birinci fıkrasının (10) numaralı bendine “faaliyetinde bulunan” ibaresinden sonra gelmek üzere “Darülacezeye,” ibaresi eklenmiştir.

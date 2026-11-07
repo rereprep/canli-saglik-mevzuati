@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Güvenlik Kurumundan:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
-MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.9.1 numaralı maddesinin birinci fıkrası aşağıdaki şekilde düzenlenmiştir.
+**MADDE 1 –** 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.9.1 numaralı maddesinin birinci fıkrası aşağıdaki şekilde düzenlenmiştir.
 “(1) İlave ücret alınması uygulamasında;
 a) Kurumla sözleşmeli; vakıf üniversiteleri ile özel sağlık kurum ve kuruluşları; SUT ve eklerinde yer alan sağlık hizmetleri işlem bedellerinin tamamı üzerinden Kurumca belirlenen oranı geçmemek kaydıyla Kuruma fatura edilebilen tutarlar esas alınarak kişilerden ilave ücret alabilir.
 b) Yükseköğretim kurumlarına ait sağlık hizmeti sunucularında (vakıf üniversiteleri hariç) öğretim üyeleri tarafından mesai saatleri dışında bizzat verilen sağlık hizmetleri için poliklinik muayenelerinde bir katını, diğer hizmetlerde yüzde ellisini geçmemek üzere, Kuruma fatura edilebilen tutarlar esas alınarak kişilerden ilave ücret alınabilir. Ancak alınacak ilave ücret bir defada asgari ücretin iki katını geçemez.
@@ -79,14 +79,14 @@ a) “BİOPSİ İĞNESİ, HER TÜRLÜ” başlığından sonra gelmek üzere aş
 SET, KEMİK İLİĞİ TOPLAMA
 138,00
 b) “301.760” SUT Kodlu “MANOMETRE CVP” adlı tıbbi malzemeden sonra gelmek üzere aşağıdaki satırlar eklenmiştir.
-İNTRAVENÖZ KANÜLLER
+**İNTRAVENÖZ KANÜLLER**
 302.210 KANÜL I.V. NO:14-22 0,27 302.220 KANÜL I.V. NO:24-26 0,50 302.230
 KAPALI DEVRE KORUMALI İNTRAVENÖZ KANÜL
 1,68
 
 MADDE 20 – Aynı Tebliğin “DİĞER PROTEZ ORTEZLER (EK-3/C-3)” listesinde aşağıdaki değişiklikler yapılmıştır.
 a) “DO1010” SUT kodlu “OKSİJEN TÜPÜ VE MANOMETRESİ” adlı tıbbi malzemeden sonra gelmek üzere aşağıdaki satır eklenmiştir.
-DO1071 TAŞINABİLİR (PORTABLE) OKSİJEN KONSANTRATÖRÜ (5 KG ALTINDA, ŞARJLI VE YEDEK BATARYA İLE BİRLİKTE) 10 yıl 6.000,00
+**DO1071** TAŞINABİLİR (PORTABLE) OKSİJEN KONSANTRATÖRÜ (5 KG ALTINDA, ŞARJLI VE YEDEK BATARYA İLE BİRLİKTE) **10 yıl 6.000,00**
 b) “DO1016” SUT kodlu “ADAPTİF BASINÇ DESTEKLİ SERVO VENTİLASYON (ASV) CİHAZI” adlı tıbbi malzemenin fiyatı 7.500 (Yedibinbeşyüz) TL olarak değiştirilmiştir.
 
 MADDE 21 – Aynı Tebliğin “BEYİN CERRAHİSİ BRANŞI KRANİAL CERRAHİSİ ALAN GRUBUNA AİT TIBBİ MALZEMELER (EK-3/E2)” ekteki “Liste 3” de yer aldığı şekilde yeniden düzenlenmiştir.

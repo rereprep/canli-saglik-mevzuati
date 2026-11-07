@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 İçişleri Bakanlığından:
-EMNİYET TEŞKİLATI SAĞLIK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**EMNİYET TEŞKİLATI SAĞLIK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 3/1/2018 tarihli ve 30290 sayılı Resmî Gazete’de yayımlanan Emniyet Teşkilatı Sağlık Şartları Yönetmeliğinin 5 inci maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 3/1/2018 tarihli ve 30290 sayılı Resmî Gazete’de yayımlanan Emniyet Teşkilatı Sağlık Şartları Yönetmeliğinin 5 inci maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Okullara alınacak öğrenci adayları için giriş raporu aldırılır ve öğrenci adayları A dilimi sağlık şartlarına uygun olmak zorundadırlar.”
 
 MADDE 2 – Aynı Yönetmeliğin 7 nci maddesinin ikinci fıkrasına aşağıdaki bent eklenmiştir.

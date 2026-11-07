@@ -24,7 +24,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -62,9 +62,9 @@ c) Birlikte kullanım: Sağlık Bakanlığına bağlı sağlık tesisleri ile ü
 
 ç) Dekan: Üniversitenin birlikte kullanım ve/veya işbirliği protokolü kapsamındaki ilgili fakülte dekanını, aynı sağlık tesisi için birden çok üniversite ile birlikte kullanım ve/veya işbirliği protokolü imzalanması halinde birlikte kullanımdaki sağlık tesisinde görev yapan öğretim elemanı sayısı en fazla olan ilgili fakültenin dekanını, klinik veya branş bazlı işbirliği protokolü imzalanması halinde ilgili klinik veya branşta görev yapan öğretim elemanı sayısı en fazla olan ilgili fakültenin dekanını,
 
-d) (Yeniden düzenleme:RG-26/2/2026-33180) Eğitim sorumlusu: Tıpta ve diş hekimliğinde ilgili programdaki lisans ve uzmanlık eğitiminin yürütülmesinden sorumlu olan her bir klinik/laboratuvar için başhekimin görüşü alınarak dekan tarafından bir yıllık süreyle görevlendirilen öğretim üyesini veya eğitim görevlisini,
+d) **(Yeniden düzenleme:RG-26/2/2026-33180)** Eğitim sorumlusu: Tıpta ve diş hekimliğinde ilgili programdaki lisans ve uzmanlık eğitiminin yürütülmesinden sorumlu olan her bir klinik/laboratuvar için başhekimin görüşü alınarak dekan tarafından bir yıllık süreyle görevlendirilen öğretim üyesini veya eğitim görevlisini,
 
-e) (Değişik:RG-26/2/2026-33180) Ek ödeme yönetmeliği: 6/8/2024 tarihli ve 32624 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Ek Ödeme Yönetmeliğini,
+e) **(Değişik:RG-26/2/2026-33180)** Ek ödeme yönetmeliği: 6/8/2024 tarihli ve 32624 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Ek Ödeme Yönetmeliğini,
 
 f) İdari sorumlu: İlgili klinik/laboratuvarda sunulan sağlık hizmetinin yirmi dört saat esasına göre kesintisiz olarak yürütülmesinden sorumlu, başhekim tarafından görevlendirilen en az uzman hekim unvanlı hekimi,
 
@@ -84,13 +84,13 @@ k) Üniversite hastanesi: Üniversiteler tarafından işletilen hastaneler veya 
 
 l) YÖK: Yükseköğretim Kurulunu,
 
-m) (Ek:RG-26/2/2026-33180) Hastane koordinasyon kurulu: 11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 25/A maddesi kapsamında teşkil edilen kurulu,
+m) **(Ek:RG-26/2/2026-33180)** Hastane koordinasyon kurulu: 11/10/2011 tarihli ve 663 sayılı Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 25/A maddesi kapsamında teşkil edilen kurulu,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Birlikte Kullanıma İlişkin Planlama ve Uygulama Esasları
+**Birlikte Kullanıma İlişkin Planlama ve Uygulama Esasları**
 
 #### Planlama esasları
 
@@ -116,7 +116,7 @@ c) Birlikte kullanım protokolleri, birden fazla üniversite ile de yapılabilir
 
 (3) Birlikte kullanım protokolü, Kamu Hastaneleri Genel Müdürü ve Rektör tarafından imzalanır. Rektör protokol imzalamadan önce YÖK’ün uygun görüşünü alır.
 
-(4) Protokolün süresi (Değişik ibare:RG-26/2/2026-33180) dört yıldan az olamaz.
+(4) Protokolün süresi **(Değişik ibare:RG-26/2/2026-33180)** dört yıldan az olamaz.
 
 (5) Birlikte kullanım protokolünün imzalanmasından itibaren en geç altı ay içerisinde fiilen birlikte kullanıma geçilir. Bu süre içerisinde fiilen birlikte kullanıma geçilmemesi halinde protokol kendiliğinden sona erer. Döner sermaye hesaplarının birleştirildiği tarih, fiilen birlikte kullanıma geçildiği tarihtir.
 
@@ -128,19 +128,19 @@ a) Döner sermaye nakit hesabında yer alan tutar, birlikte kullanıma geçildi�
 
 b) Taşınır mal varlıkları, demirbaş kaydının olduğu tarafa devir tutanağı ile devredilir.
 
-(8) (Değişik:RG-26/2/2026-33180) Birlikte kullanımdaki sağlık tesisi tarafından üniversitenin tıp ve diş hekimliği fakültesi öğretim elemanları ile ilgili fakülte dekanının görüşü alınarak eğitim ve araştırma faaliyetlerinin yürütülmesi ile sağlık hizmeti sunumu için iki yıl süreli ayrı ayrı sözleşme imzalanabilir. Ayrıca tıp fakültesi, diş hekimliği fakültesi ve diğer fakültelerin kadrosunda bulunan öğretim elemanı dışındaki diğer personelle ilgili fakülte dekanının görüşü alınarak sözleşme yapılabilir. Süre sonunda tekrar sözleşme imzalanabilir. Sözleşme bitiminden bir ay önce tarafların aksine yazılı bildirimi yoksa sözleşme kendiliğinden birer yıllık sürelerle uzar.
+(8) **(Değişik:RG-26/2/2026-33180)** Birlikte kullanımdaki sağlık tesisi tarafından üniversitenin tıp ve diş hekimliği fakültesi öğretim elemanları ile ilgili fakülte dekanının görüşü alınarak eğitim ve araştırma faaliyetlerinin yürütülmesi ile sağlık hizmeti sunumu için iki yıl süreli ayrı ayrı sözleşme imzalanabilir. Ayrıca tıp fakültesi, diş hekimliği fakültesi ve diğer fakültelerin kadrosunda bulunan öğretim elemanı dışındaki diğer personelle ilgili fakülte dekanının görüşü alınarak sözleşme yapılabilir. Süre sonunda tekrar sözleşme imzalanabilir. Sözleşme bitiminden bir ay önce tarafların aksine yazılı bildirimi yoksa sözleşme kendiliğinden birer yıllık sürelerle uzar.
 
-(9) Sözleşmelerde, sunulacak hizmetin niteliği, performans hedefleri ve süresi (Mülga ibare:RG-26/2/2026-33180) yer alır. Öğretim elemanlarıyla yapılan sözleşmelerde mezuniyet öncesi ve mezuniyet sonrası eğitim ile bilimsel çalışmalara ilişkin yetki ve sorumluluklar ayrıca belirtilir.
+(9) Sözleşmelerde, sunulacak hizmetin niteliği, performans hedefleri ve süresi **(Mülga ibare:RG-26/2/2026-33180)** yer alır. Öğretim elemanlarıyla yapılan sözleşmelerde mezuniyet öncesi ve mezuniyet sonrası eğitim ile bilimsel çalışmalara ilişkin yetki ve sorumluluklar ayrıca belirtilir.
 
-(10) (Mülga:RG-26/2/2026-33180)
+(10) **(Mülga:RG-26/2/2026-33180)**
 
-(11) (Değişik:RG-26/2/2026-33180) Sözleşme, sözleşmedeki yükümlülüklerin haklı bir nedene dayanılmaksızın yerine getirilmemesi ve öğretim elemanının bir sözleşme döneminde üç kez hastane koordinasyon kurulunca yazılı olarak ikaz edilmesi durumunda öğretim elemanının savunması alınmak kaydıyla feshedilir. Fesih işlemi, 3359 sayılı Kanunun ek 9 uncu maddesinin üçüncü fıkrasının (a), (b) ve (c) bentlerinde sayılan koşulların gerçekleşmesi durumunda öğretim elemanının savunması alınmaksızın gerçekleştirilebilir. Feshe ilişkin işlemler, hastane yönetimi tarafından eğitim ve sağlık hizmet sunumunda aksamalara sebebiyet vermeyecek şekilde en geç üç ay içerisinde tamamlanır. Sözleşmenin, 3359 sayılı Kanunun ek 9 uncu maddesinin üçüncü fıkrasının (a) ve (b) bentlerindeki hâller dışında feshi veya süresinin sona ermesi hâlinde öğretim elemanı, üniversitenin Bakanlıkla birlikte kullanım protokolü imzaladığı diğer sağlık tesisleriyle yeniden sözleşme yapabilir. Sözleşmesi sona erdirilen veya yenilenmeyen üniversite personelinin sağlık tesisindeki görevi sona erer ve bu personel üniversitedeki diğer görevlerini yürütmeye devam eder. Öğretim elemanlarına Bakanlıkça ek ödeme yapılabilmesi için hizmet sözleşmesi akdedilmesi şarttır.
+(11) **(Değişik:RG-26/2/2026-33180)** Sözleşme, sözleşmedeki yükümlülüklerin haklı bir nedene dayanılmaksızın yerine getirilmemesi ve öğretim elemanının bir sözleşme döneminde üç kez hastane koordinasyon kurulunca yazılı olarak ikaz edilmesi durumunda öğretim elemanının savunması alınmak kaydıyla feshedilir. Fesih işlemi, 3359 sayılı Kanunun ek 9 uncu maddesinin üçüncü fıkrasının (a), (b) ve (c) bentlerinde sayılan koşulların gerçekleşmesi durumunda öğretim elemanının savunması alınmaksızın gerçekleştirilebilir. Feshe ilişkin işlemler, hastane yönetimi tarafından eğitim ve sağlık hizmet sunumunda aksamalara sebebiyet vermeyecek şekilde en geç üç ay içerisinde tamamlanır. Sözleşmenin, 3359 sayılı Kanunun ek 9 uncu maddesinin üçüncü fıkrasının (a) ve (b) bentlerindeki hâller dışında feshi veya süresinin sona ermesi hâlinde öğretim elemanı, üniversitenin Bakanlıkla birlikte kullanım protokolü imzaladığı diğer sağlık tesisleriyle yeniden sözleşme yapabilir. Sözleşmesi sona erdirilen veya yenilenmeyen üniversite personelinin sağlık tesisindeki görevi sona erer ve bu personel üniversitedeki diğer görevlerini yürütmeye devam eder. Öğretim elemanlarına Bakanlıkça ek ödeme yapılabilmesi için hizmet sözleşmesi akdedilmesi şarttır.
 
-(12) (Mülga:RG-26/2/2026-33180)
+(12) **(Mülga:RG-26/2/2026-33180)**
 
 (13) Bakanlıkça ilgili sağlık tesisine yapılacak eğitim görevlileri ve başasistan atamalarında eğitim ve araştırma hizmetleri açısından üniversitenin görüşü alınır.
 
-(14) (Ek:RG-26/2/2026-33180) İki yıl içinde en az dört eğitim kliniği yetkinliği alınamadığının tespiti halinde Tıpta Uzmanlık Kurulunca ilgili sağlık tesisinin hastane koordinasyon kuruluna bildirim yapılır. Hastane koordinasyon kurulu, sağlık tesisinde uzmanlık eğitimi açılmama sebeplerini gerekçeleriyle birlikte Bakanlığa sunar. Bakanlık, yapılacak değerlendirme neticesinde birlikte kullanım protokolünün devamına veya feshine karar verir.
+(14) **(Ek:RG-26/2/2026-33180)** İki yıl içinde en az dört eğitim kliniği yetkinliği alınamadığının tespiti halinde Tıpta Uzmanlık Kurulunca ilgili sağlık tesisinin hastane koordinasyon kuruluna bildirim yapılır. Hastane koordinasyon kurulu, sağlık tesisinde uzmanlık eğitimi açılmama sebeplerini gerekçeleriyle birlikte Bakanlığa sunar. Bakanlık, yapılacak değerlendirme neticesinde birlikte kullanım protokolünün devamına veya feshine karar verir.
 
 #### Eğitim hizmetleri
 
@@ -180,7 +180,7 @@ b) Taşınır mal varlıkları, demirbaş kaydının olduğu tarafa devir tutana
 
 (3) Ek Ödeme Yönetmeliğinin uygulanmasında, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 58 inci maddesinin (c) fıkrasının (1) numaralı bendinde sayılan ve ilgili fakültenin temel tıp bilimlerinde görev yapan öğretim üyesi, öğretim görevlisi ve araştırma görevlisi ile birlikte kullanımdaki sağlık tesislerinde fiilen görev yapan personelden; üniversite personeli için 2547 sayılı Yükseköğretim Kanununun 58 inci maddesinde öngörülen ek ödeme matrahı ve tavan ek ödeme oranları, Bakanlık personeli için ise 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesinde öngörülen ek ödeme matrahı ve tavan ek ödeme oranları dikkate alınır.
 
-(4) (Danıştay Onuncu Dairesinin 28/2/2024 tarihli ve E.:2020/3137; K.:2024/390 sayılı kararı ile iptal fıkra; Birlikte kullanımdaki sağlık tesisinin döner sermaye gelirlerinden; ilgili mevzuatı gereğince Hazine payı, 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler Kanununun 18 inci maddesinin birinci fıkrasının (k) bendi gereğince ayrılacak pay ile Bakanlık merkez payı ayrılır. Kalan miktar, 209 sayılı Kanunun 5 inci maddesinin üçüncü fıkrasında belirlenen oranları geçmeyecek şekilde Ek Ödeme Yönetmeliği hükümlerine göre personele ek ödeme olarak dağıtılır. )
+(4) **(Danıştay Onuncu Dairesinin 28/2/2024 tarihli ve E.:2020/3137; K.:2024/390 sayılı kararı ile iptal fıkra;** <i>Birlikte kullanımdaki sağlık tesisinin döner sermaye gelirlerinden; ilgili mevzuatı gereğince Hazine payı, 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler Kanununun 18 inci maddesinin birinci fıkrasının (k) bendi gereğince ayrılacak pay ile Bakanlık merkez payı ayrılır. Kalan miktar, 209 sayılı Kanunun 5 inci maddesinin üçüncü fıkrasında belirlenen oranları geçmeyecek şekilde Ek Ödeme Yönetmeliği hükümlerine göre personele ek ödeme olarak dağıtılır. )</i>
 
 (5) Rektör, rektör yardımcıları ve üniversite genel sekreterine, ilgili birimin dekan ve dekan yardımcılarına 2547 sayılı Kanunun 58 inci maddesi gereğince yönetici payı olarak yapılacak ek ödeme, dağıtılabilecek tutardan olmak kaydıyla üniversite yönetim kurulunun belirleyeceği karara dayalı olarak sağlık tesisinin/sağlık tesislerinden birisinin döner sermaye hesabından yapılır. Birden fazla üniversite ile birlikte kullanılan sağlık tesislerinde görev yapan öğretim elemanı sayısı en fazla olan üniversitenin rektör, rektör yardımcıları ve genel sekreteri ile ilgili fakülte dekan ve dekan yardımcılarına aynı usul çerçevesinde yönetici payı ödenir.
 
@@ -196,7 +196,7 @@ b) Taşınır mal varlıkları, demirbaş kaydının olduğu tarafa devir tutana
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İşbirliğine İlişkin Uygulama Esasları
+**İşbirliğine İlişkin Uygulama Esasları**
 
 #### İşbirliğine ait esaslar
 
@@ -218,11 +218,11 @@ b) Taşınır mal varlıkları, demirbaş kaydının olduğu tarafa devir tutana
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Personelin disiplin ve özlük işlemleri
 
-**MADDE 14 –** (1) Birlikte kullanılan sağlık tesisinde görev yapan personel disiplin ve tüm özlük işlemleri ile sosyal güvenlik bakımından kadrosunun bulunduğu kurumun ilgili mevzuatına tabidir. (Ek cümle:RG-26/2/2026-33180) Ancak birlikte kullanılan eğitim ve araştırma hastanelerinde görev yapan personelin sözleşme kapsamında yerine getirmekle yükümlü oldukları eğitim ve sağlık hizmetleriyle sınırlı olarak ilgili mevzuatı çerçevesinde disiplin cezası verilmesi gereken fiiller ile bu fiillere karşılık gelen disiplin cezası hastane koordinasyon kurulunca tespit edilir; tespit edilen bu karar, gereği değerlendirilmek üzere ilgili mercie bildirilir.
+**MADDE 14 –** (1) Birlikte kullanılan sağlık tesisinde görev yapan personel disiplin ve tüm özlük işlemleri ile sosyal güvenlik bakımından kadrosunun bulunduğu kurumun ilgili mevzuatına tabidir. **(Ek cümle:RG-26/2/2026-33180)** Ancak birlikte kullanılan eğitim ve araştırma hastanelerinde görev yapan personelin sözleşme kapsamında yerine getirmekle yükümlü oldukları eğitim ve sağlık hizmetleriyle sınırlı olarak ilgili mevzuatı çerçevesinde disiplin cezası verilmesi gereken fiiller ile bu fiillere karşılık gelen disiplin cezası hastane koordinasyon kurulunca tespit edilir; tespit edilen bu karar, gereği değerlendirilmek üzere ilgili mercie bildirilir.
 
 (2) Sağlık tesisinde hizmet veren üniversite personeliyle ilgili hasta hakları başvuruları Hastane Hasta Hakları Kurulu tarafından değerlendirilir. Hasta hakları başvurusu ile ilgili ihlal kararı verilmesi durumunda, başvuru hakkında işlem yapılabilmesi için dosya ilgili Rektörlüğe gönderilir. Disiplin ve ceza hükümlerinin uygulanması bakımından personelin kadrosunun bulunduğu kurumun tabi olduğu mevzuat hükümleri geçerlidir.
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-HİPERBARİK OKSİJEN TEDAVİSİ UYGULANAN ÖZEL SAĞLIK KURULUŞLARI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+HİPERBARİK OKSİJEN TEDAVİSİ UYGULANAN ÖZEL SAĞLIK KURULUŞLARI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR **YÖNETMELİK**
 
 MADDE 1 – 1/8/2001 tarihli ve 24480 sayılı Resmî Gazete’de yayımlanan Hiperbarik Oksijen Tedavisi Uygulanan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin 7 nci maddesinin birinci fıkrasının (g) bendi aşağıdaki şekilde değiştirilmiştir.
 "g) Açılacak sağlık kuruluşunda mes'ul müdür olarak çalışacak kişi ile yapılacak sözleşme örneği, mes'ul müdüre ait T.C. Kimlik Numarası, iki adet vesikalık fotoğraf ve uzmanlık diplomasının veya sertifikanın örneği,"

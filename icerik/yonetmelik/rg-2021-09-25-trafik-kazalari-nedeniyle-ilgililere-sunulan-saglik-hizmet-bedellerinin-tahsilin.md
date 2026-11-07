@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Denetleme Kurumundan:
-TRAFİK KAZALARI NEDENİYLE İLGİLİLERE SUNULAN SAĞLIK HİZMET BEDELLERİNİN TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TRAFİK KAZALARI NEDENİYLE İLGİLİLERE SUNULAN SAĞLIK HİZMET BEDELLERİNİN TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 27/8/2011 tarihli ve 28038 sayılı Resmî Gazete’de yayımlanan Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 3 üncü maddesinin birinci fıkrasının (e) bendi yürürlükten kaldırılmış, (ç), (d) ve (ğ) bentleri aşağıdaki şekilde değiştirilmiş ve aynı fıkraya aşağıdaki bent eklenmiştir.
 “ç) Kurum: Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumunu,

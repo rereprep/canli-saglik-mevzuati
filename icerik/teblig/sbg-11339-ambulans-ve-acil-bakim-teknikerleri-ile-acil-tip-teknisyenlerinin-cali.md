@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Dayanak
+**Amaç, Kapsam ve Dayanak**
 
 #### Amaç
 
@@ -30,7 +30,7 @@ Amaç, Kapsam ve Dayanak
 
 ### İKİNCİ BÖLÜM
 
-Görev, Yetki ve Sorumluluklar
+**Görev, Yetki ve Sorumluluklar**
 
 #### Ambulans ve acil bakım teknikerleri ile acil tıp teknisyenlerinin görev, yetki ve sorumlulukları
 
@@ -118,9 +118,9 @@ d) Çok sayıda hasta ve yaralının bulunduğu büyük kaza ve afetlerin olmas�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Ambulans ve Acil Bakım Teknikerleri ile Acil Tıp Teknisyenlerinin
+**Ambulans ve Acil Bakım Teknikerleri ile Acil Tıp Teknisyenlerinin**
 
-Mezuniyet Sonrası Eğitim Programları
+**Mezuniyet Sonrası Eğitim Programları**
 
 #### Eğitim Programları
 
@@ -154,7 +154,7 @@ e) Travma İleri Yaşam Desteği Eğitim Programı (AABT)
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 
@@ -213,7 +213,7 @@ Son Hükümler
 
 18. Kardiyak Aritmilerde Acil Yaklaşım
 
-EK-2 (Değişik:RG-25/8/2026-33351)
+**EK-2 (Değişik:RG-25/8/2026-33351)**
 
 ### HASTANE ÖNCESİ ACİL TIBBİ YARDIM VE BAKIM AKIŞ ŞEMALARI
 
@@ -221,7 +221,7 @@ EK-2 (Değişik:RG-25/8/2026-33351)
 
 sunulmuştur)
 
-AKIŞ ŞEMALARI'nı görmek için tıklayınız
+**AKIŞ ŞEMALARI'nı görmek için tıklayınız**
 
 ### EK-3
 
@@ -233,11 +233,11 @@ Sağlık Bakanlığı Logosu Sağlık Müdürlüğü Logosu
 
 ### ……………İL SAĞLIK MÜDÜRLÜĞÜ
 
-Sertifika No: İl Kodu, Görev Ünvanı(AABT,ATT)-Eğitimin Cinsi(TE,AKB,ÇİY,EİY,TİY,GE)0001
+**Sertifika No:** İl Kodu, Görev Ünvanı(AABT,ATT)-Eğitimin Cinsi(TE,AKB,ÇİY,EİY,TİY,GE)0001
 
 ### (ÖRNEK: 06AABT-TE0001)
 
-Belge Geçerlilik Tarihi:
+**Belge Geçerlilik Tarihi:**
 
 ### …………………………………EĞİTİM PROGRAMI SERTİFİKASI
 
@@ -245,4 +245,4 @@ Belge Geçerlilik Tarihi:
 
 ……………..tarih ve……….sayılı Ambulans ve Acil Bakım Teknikerleri İle Acil Tıp Teknisyenlerinin Çalışma Usul ve Esaslarına Dair Tebliğ kapsamında ……………..tarihleri arasında …………..ilinde düzenlenen ………….saatlik teorik ve uygulamalı ………………………………….Eğitim Programını başarı ile tamamlayarak sertifika almaya hak kazanmıştır.
 
-Sağlık Müdürü
+**Sağlık Müdürü**

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/07/20080715-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-İL ÖZEL İDARELERİNE VE BELEDİYELERE GENEL BÜTÇE VERGİ GELİRLERİNDEN PAY VERİLMESİ HAKKINDA KANUN
-Kanun No. 5779 Kabul Tarihi: 2/7/2008 Amaç ve kapsam
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**İL ÖZEL İDARELERİNE VE BELEDİYELERE GENEL BÜTÇE VERGİ GELİRLERİNDEN PAY VERİLMESİ HAKKINDA KANUN**
+**Kanun No. 5779 Kabul Tarihi: 2/7/2008** Amaç ve kapsam
 
 MADDE 1 – (1) Bu Kanunla, il özel idareleri ve belediyelere genel bütçe vergi gelirleri tahsilâtı toplamı üzerinden ayrılacak paylara ilişkin esas ve usuller düzenlenmektedir.
 Payların hesaplanması ve oranı

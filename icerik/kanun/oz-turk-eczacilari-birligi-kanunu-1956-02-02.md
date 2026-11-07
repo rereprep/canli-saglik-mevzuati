@@ -13,15 +13,15 @@ durum: "yürürlükte"
 
 ### TÜRK ECZACILARI BİRLİĞİ KANUNU
 
-Kanun Numarası : 6643
+**Kanun Numarası : 6643**
 
-Kabul Tarihi : 25/1/1956
+**Kabul Tarihi : 25/1/1956**
 
-Yayımlandığı Resmî Gazete: Tarih: 2/2/1956 Sayı: 9223
+**Yayımlandığı Resmî Gazete: Tarih: 2/2/1956 Sayı: 9223**
 
-Yayımlandığı Düstur : Tertip: 3 Cilt: 37 Sayfa: 250
+**Yayımlandığı Düstur : Tertip: 3 Cilt: 37 Sayfa: 250**
 
-Birliğin kuruluşu ve vazifeleri:
+**Birliğin kuruluşu ve vazifeleri:**
 
 **Madde 1 –** (Değişik: 16/5/1983 - KHK 69/1 md.; Değiştirilerek Kabül: 8/1/1985 - 3145/1 md.)
 
@@ -43,7 +43,7 @@ d) Büyük kongreden mürekkep hükmi şahsiyeti haiz bir teşekküldür.
 
 **Madde 3 –** (Değişik: 16/5/1983 - KHK 69/2 md.; Aynen kabül: 8/1/1985 - 3145/2 md.)
 
-(Değişik birinci fıkra: 18/6/1997- 4276/17 md.) Türk Eczacıları Birliği ve eczacı odaları, kuruluş amaçları dışında faaliyette bulunamazlar.
+**(Değişik birinci fıkra: 18/6/1997- 4276/17 md.)** Türk Eczacıları Birliği ve eczacı odaları, kuruluş amaçları dışında faaliyette bulunamazlar.
 
 Birlik ve odalar protokol kurallarına göre resmi törenlere katılır, amacına uygun işlerde kullanılmak üzere taşınır ve taşınmaz mal edinebilir, lokal, misafirhane ve benzeri sosyal amaçlı tesisler açabilir.
 
@@ -89,13 +89,13 @@ b) İdare Heyeti,
 
 c) Haysiyet Divanı.
 
-Umumi heyet:
+**Umumi heyet:**
 
 **Madde 7 –** Umumi Heyet odalara kayıtlı azanın toplanması ile teşekkül eder.
 
 **Madde 8 –** Umumi Heyet yılda bir defa Eylül ayı içinde mukayyet azanın mutlak ekseriyeti ile içtima eder. İlk toplantıda ekseriyet hasıl olmazsa ertesi günü mevcut aza ile iktifa olunarak toplantı yapılır.
 
-(Değişik: 23/2/1995 - 4078/1 md.) Oda umumi heyetinin her nevi toplantılarına oda üyelerinin katılmaları ve seçimli toplantılarda da ayrıca oy kullanmaları zorunludur. Geçerli bir mazereti olmaksızın umumi heyet toplantılarına katılmayanlar ile seçimli toplantılarda oy kullanmayanlar, yıllık üye aidatı kadar para cezası ile cezalandırılırlar.
+**(Değişik: 23/2/1995 - 4078/1 md.)** Oda umumi heyetinin her nevi toplantılarına oda üyelerinin katılmaları ve seçimli toplantılarda da ayrıca oy kullanmaları zorunludur. Geçerli bir mazereti olmaksızın umumi heyet toplantılarına katılmayanlar ile seçimli toplantılarda oy kullanmayanlar, yıllık üye aidatı kadar para cezası ile cezalandırılırlar.
 
 #### (Üçüncü fıkra Mülga: 8/1/1985-3145/15 md.)
 
@@ -129,7 +129,7 @@ h) Haysiyet Divanı azasını seçmek.
 
 Bu madde hükmüne göre yapılacak seçimler gizli reyle olur.
 
-İdare heyeti:
+**İdare heyeti:**
 
 **Madde 13 –** (Mülga: 16/5/1983 - KHK 69/13 md.)
 
@@ -153,7 +153,7 @@ Reisin bulunmadığı zamanlarda eczacı odalarını umumi katipler temsil eder.
 
 İdare heyetinin müzakereye başlayabilmesi için toplantıda azadan yarıdan bir fazlasının bulunması şarttır. Reylerde müsavat halinde reisin bulunduğu taraf ekseriyet kazanır.
 
-İdare heyetinin vazifeleri:
+**İdare heyetinin vazifeleri:**
 
 **Madde 19 –** İdare Heyeti odanın bilançosunu ve bütçesini hazırlayarak murakıp raporu ile birlikte umumi heyete sunar. Odanın durumu ile muamele ve faaliyetleri hakkındaki raporunu umumi heyete okuduktan sonra ibrasını ister. İbra edilmiyen idare heyeti düşmüş sayılarak yeni bir idare heyeti seçilir. Yeni seçilen idare heyeti eski heyetin müddetini tamamlar ve bu suretle düşen idare heyeti azası aradan iki sene geçmedikçe tekrar seçilemezler.
 
@@ -179,19 +179,19 @@ h) Meslekin şeref ve haysiyetini ve meslektaşların hukuk ve menfaatlerini mü
 
 i) Lüzum görülecek yerlere belirtilecek salahiyetler dairesinde mümessil tayin etmek.[2]
 
-j) (Ek : 23/2/1995 - 4078/2 md.) Oda ve üyelerin mesleki meselelerinin halli için, Büyük Kongre ve Merkez Heyeti kararları ve ilkelerine bağlı kalarak, bölgeleri dahilindeki resmi makamlar nezdinde kendi protokol düzeyinde yazılı ve sözlü temaslarda bulunmak ve sonuçlarını merkez heyetine bildirmek,
+j) **(Ek : 23/2/1995 - 4078/2 md.)** Oda ve üyelerin mesleki meselelerinin halli için, Büyük Kongre ve Merkez Heyeti kararları ve ilkelerine bağlı kalarak, bölgeleri dahilindeki resmi makamlar nezdinde kendi protokol düzeyinde yazılı ve sözlü temaslarda bulunmak ve sonuçlarını merkez heyetine bildirmek,
 
-k) (Ek : 23/2/1995 - 4078/2 md.) Eczacıların ticaret siciline kayıt olabilmeleri için yeterli olacak oda kayıt belgelerini vermek,
+k) **(Ek : 23/2/1995 - 4078/2 md.)** Eczacıların ticaret siciline kayıt olabilmeleri için yeterli olacak oda kayıt belgelerini vermek,
 
-l) (Ek : 23/2/1995 - 4078/2 md.) Odaya yeni kaydolan, başka odalara naklolan ve odadan kaydı silinen üyeleri, en geç 30 gün zarfında Merkez Heyetine bildirmek,
+l) **(Ek : 23/2/1995 - 4078/2 md.)** Odaya yeni kaydolan, başka odalara naklolan ve odadan kaydı silinen üyeleri, en geç 30 gün zarfında Merkez Heyetine bildirmek,
 
-m) (Ek : 23/2/1995 - 4078/2 md.) Eczacılık ile ilgili mevzuat hükümlerinin ve oda ve Birlikçe alınmış mesleki kararların gerektiği şekilde uygulanıp uygulanmadığını belirlemek için, eczacıların çalışmalarını ve iş yerlerini denetlemek,[3]
+m) **(Ek : 23/2/1995 - 4078/2 md.)** Eczacılık ile ilgili mevzuat hükümlerinin ve oda ve Birlikçe alınmış mesleki kararların gerektiği şekilde uygulanıp uygulanmadığını belirlemek için, eczacıların çalışmalarını ve iş yerlerini denetlemek,[3]
 
-n) (Ek:23/2/1995 - 4078/2 md.) Bölgelerindeki yerleşim yerlerinin özelliklerine göre eczaneler için tatil olacak günleri ve saatleri tespit etmek ve ihtiyacı karşılayacak miktarda nöbetçi kalacak eczane veya eczanelere ait nöbet listelerini hazırlamak ve mahallin en büyük sağlık amirinin onayına sunmak,
+n) **(Ek:23/2/1995 - 4078/2 md.)** Bölgelerindeki yerleşim yerlerinin özelliklerine göre eczaneler için tatil olacak günleri ve saatleri tespit etmek ve ihtiyacı karşılayacak miktarda nöbetçi kalacak eczane veya eczanelere ait nöbet listelerini hazırlamak ve mahallin en büyük sağlık amirinin onayına sunmak,
 
-o) (Ek : 23/2/1995 - 4078/2 md.) Nöbet görevlerini yerine getirmeyenler ile nöbetçi olmadıkları halde eczanelerini kapatmayan eczacıların fiillerini zapta bağlayarak oda haysiyet divanına sevk etmek ve mahallin en büyük sağlık amirine bildirmek,
+o) **(Ek : 23/2/1995 - 4078/2 md.)** Nöbet görevlerini yerine getirmeyenler ile nöbetçi olmadıkları halde eczanelerini kapatmayan eczacıların fiillerini zapta bağlayarak oda haysiyet divanına sevk etmek ve mahallin en büyük sağlık amirine bildirmek,
 
-p) (Ek : 23/2/1995 - 4078/2 md.) İki yıl içerisinde üyelik vecibelerini yerine getirmeyen eczacıların odaya üyelik kayıtlarını Merkez Heyetinin kabulü halinde silmek.
+p) **(Ek : 23/2/1995 - 4078/2 md.)** İki yıl içerisinde üyelik vecibelerini yerine getirmeyen eczacıların odaya üyelik kayıtlarını Merkez Heyetinin kabulü halinde silmek.
 
 **Madde 21 –** İdare Heyeti meslektaşlar arasında vukuunu her hangi bir suretle haber aldığı ihtilafları hal ve telife çalışır ve icabında tahkikatını tamamlıyarak evrakını haysiyet divanına verir.
 
@@ -199,7 +199,7 @@ p) (Ek : 23/2/1995 - 4078/2 md.) İki yıl içerisinde üyelik vecibelerini yeri
 
 Yapılan tebligata on beş gün içinde cevap vermiyen azanın evrakı doğrudan doğruya, cevap verenlerinki müdafaalariyle birlikte haysiyet divanına tevdi olunur.
 
-Haysiyet divanı:
+**Haysiyet divanı:**
 
 **Madde 23 –** Her eczacı odasında bir Haysiyet Divanı kurulur. Divan, beş asil ve beş yedek azadan terekkübeder. Müddeti iki yıldır.
 
@@ -223,7 +223,7 @@ Haysiyet Divanına iştirak edecek azaya mensubolduğu oda bütçesinden yol ve 
 
 **Madde 28 –** Haysiyet Divanı azası bitaraflıklarını şüpheye düşürecek bir vaziyetin mevcudiyeti halinde reddolunabilirler. Ret talebinde bulunan aza iddiasını delilleriyle birlikte bildirmeye mecburdur. Bu takdirde reddolunan azanın yerleri yedekleriyle ikmal edilerek ve reis ile vekilinin birlikte reddi halinde gizli reyle geçici bir reis seçilmek suretiyle ret talebi incelenir.
 
-(Değişik : 23/2/1995 - 4078/3 md.) Red talebi kabule şayan görülmediği takdirde, talebin reddine karar verilmekle beraber, ayrıca karar tarihinde yürürlükte olan yıllık aidatın dört katından on katına kadar para cezası ödenmesine karar verilir.
+**(Değişik : 23/2/1995 - 4078/3 md.)** Red talebi kabule şayan görülmediği takdirde, talebin reddine karar verilmekle beraber, ayrıca karar tarihinde yürürlükte olan yıllık aidatın dört katından on katına kadar para cezası ödenmesine karar verilir.
 
 Reddedilenlerin çokluğu dolayısiyle Haysiyet Divanının yedeklerle dahi teşkiline imkan görülmezse ret talebi en yakın Eczacı Odası Haysiyet Divanında incelenir. Yukardaki hükümler bu takdirde dahi aynen tatbik olunur.
 
@@ -241,7 +241,7 @@ d) Evlilik rabıtası mürtefi olsa dahi karı ve koca ile bunların usul ve fü
 
 e) Evlatlık ile evlat edinenler.
 
-Haysiyet Divanının görev ve yetkileri:
+**Haysiyet Divanının görev ve yetkileri:**
 
 **MADDE 30 –** (İptal: Anayasa Mahkemesi’nin 22/9/2021 tarihli ve E.: 2021/16, K.: 2021/62 sayılı Kararı ile.) (Başlığı ile Birlikte Yeniden Düzenleme: 1/7/2022-7417/63 md.) (İptal: Anayasa Mahkemesinin 11/12/2025 tarihli ve E.:2025/189; K.:2025/259 sayılı Kararı ile.)
 
@@ -251,7 +251,7 @@ Haysiyet divanları tarafından verilen disiplin cezaları aleyhine, kararın ü
 
 Cezalandırma halinde karar aleyhinde itiraz vakı olmasa dahi geçici olarak sanattan veya bir bölgede çalışmaktan men kararları İdare Heyeti Başkanlığınca Yüksek Haysiyet Divanına gönderilir. Bu hususlara mütedair olan kararlar Yüksek Haysiyet Divanının tasdikiyle tekemmül eder.
 
-Birliğin merkez teşkilatı:
+**Birliğin merkez teşkilatı:**
 
 **Madde 32 –** – Türk Eczacıları Birliğinin merkez teşkilatının uzuvları şunlardır:
 
@@ -261,7 +261,7 @@ b) Yüksek Haysiyet Divanı,
 
 c) Büyük Kongre.
 
-Merkez heyeti:
+**Merkez heyeti:**
 
 **Madde 33 –** Merkez Heyeti, meslek hayatı ile alakalı bütün işler ile meşgul olmak ve bu kanunda derpiş edilen hükümleri tatbik etmek üzere kurulmuştur.
 
@@ -269,7 +269,7 @@ Merkez heyeti:
 
 **Madde 35 –** (Değişik: 16/5/1983 - KHK 69/6 md.; Değiştirilerek kabül : 8/1/1985 3145/6 md.)
 
-(Değişik birinci fıkra: 23/2/1995 - 4078/5 md.) Birliğin Merkez Heyetinin merkezi Ankara'dır. Merkez Heyeti iki yıllık bir dönem için, mesleklerinde beş yılını tamamlamış Büyük Kongre mümessilleri arasından seçilir. Merkez Heyeti, onbir asıl ve onbir yedek üyeden,oluşur.Asıl ve yedek üyeler,ayrı listelerle seçilirler.Asıl üyeliklerden boşalma olması halinde,yerlerine yedek üyelerden sırası ile en fazla oy almış olanlar getirilir.
+**(Değişik birinci fıkra: 23/2/1995 - 4078/5 md.)** Birliğin Merkez Heyetinin merkezi Ankara'dır. Merkez Heyeti iki yıllık bir dönem için, mesleklerinde beş yılını tamamlamış Büyük Kongre mümessilleri arasından seçilir. Merkez Heyeti, onbir asıl ve onbir yedek üyeden,oluşur.Asıl ve yedek üyeler,ayrı listelerle seçilirler.Asıl üyeliklerden boşalma olması halinde,yerlerine yedek üyelerden sırası ile en fazla oy almış olanlar getirilir.
 
 Görev dönemi içinde herhangi bir sebeple değişen kurulun görev süresini yerine seçilen yeni kurul tamamlar.
 
@@ -327,7 +327,7 @@ k) Seri ve sıra numaralı aidat tahsilat makbuzları ile odalarca kullanılacak
 
 l) Bu Kanun ve kanuna göre çıkarılan (…) 6 yönetmelikler ile öngörülen diğer işleri yapmak,
 
-Yüksek haysiyet divanı:
+**Yüksek haysiyet divanı:**
 
 **Madde 40 –** (Değişik: 16/5/1983 - KHK 69/9 md.; Değiştirilerek kabül: 8/1/1985 - 3145/10 md.)
 
@@ -337,7 +337,7 @@ Divan Ankara'da Türk Eczacıları Birliği Merkez Heyetinde olağan olarak Hazi
 
 Divan her toplantıda gizli oyla bir başkan ve bir raportör seçer. Toplantıyı bir önceki toplantının başkanı, o yoksa en yaşlı üye açar.
 
-Yüksek Haysiyet Divanının verdiği kararlar ilgili haysiyet divanına bildirilir ve keyfiyet, hakkında disiplin işlemi yapılan kimseye tebliğ edilir. (Değişik cümle: 23/2/1995 - 4078/7 md.) Bütün kanuni işlem ve süreler sonunda kesinleşen ihtar ve para cezalarına dair kararlar, ilgililerin kayıtlı olduğu odalarca; meslekten men cezalarına dair kararlar, Sağlık Bakanlığınca uygulanır.
+Yüksek Haysiyet Divanının verdiği kararlar ilgili haysiyet divanına bildirilir ve keyfiyet, hakkında disiplin işlemi yapılan kimseye tebliğ edilir. **(Değişik cümle: 23/2/1995 - 4078/7** md.) Bütün kanuni işlem ve süreler sonunda kesinleşen ihtar ve para cezalarına dair kararlar, ilgililerin kayıtlı olduğu odalarca; meslekten men cezalarına dair kararlar, Sağlık Bakanlığınca uygulanır.
 
 **Madde 41 –** Bu kanunun 16 ncı maddesi hükmü büyük kongre tarafından seçilen Yüksek Haysiyet Divanı azası hakkında da tatbik olunur.
 
@@ -361,7 +361,7 @@ Bölge Haysiyet Divanının bu konuda vereceği ikinci karar üzerine Yüksek Ha
 
 Bu kararın, ilgililerce bilinmek üzere Sıhhat ve İçtimai Muavenet Vekaleti tarafından münasip görülecek şekilde ilan olunarak tatbikı sağlanır.
 
-(Değişik : 23/2/1995 - 4078/8 md.) Tek eczane bulunan yerlerdeki eczaneler için verilen kapatma cezaları, kapatma müddetinin beher günü için karar tarihindeki oda yıllık aidatından az olmamak üzere beş katına kadar para cezasına tahvil olunur.
+**(Değişik : 23/2/1995 - 4078/8 md.)** Tek eczane bulunan yerlerdeki eczaneler için verilen kapatma cezaları, kapatma müddetinin beher günü için karar tarihindeki oda yıllık aidatından az olmamak üzere beş katına kadar para cezasına tahvil olunur.
 
 **Madde 48 –** (Mülga : 23/2/1995 - 4078/17 md.)
 
@@ -369,11 +369,11 @@ Bu kararın, ilgililerce bilinmek üzere Sıhhat ve İçtimai Muavenet Vekaleti 
 
 **Madde 50 –** Yüksek Haysiyet Divanı azasının huzur hakları ve yollukları ve zaruri masrafları birlik bütçesinden ödenir. Bunların miktarı merkez heyeti tarafından hazırlanacak bir talimatname ile tesbit edilir.
 
-Büyük kongre:
+**Büyük kongre:**
 
 **Madde 51 –** Büyük Kongre Eczacı Odaları umumi heyetlerince ve gizli rey ile seçilen mümessillerden teşekkül eder.[8]
 
-(İkinci fıkra iptal: Anayasa Mahkemesinin 3/12/1991 tarihli ve E.1991/4,K.1991/45 sayılı Kararıyla; Yeniden düzenleme: 23/2/1995 - 4078/10 md.) Odalardan;
+**(İkinci fıkra iptal: Anayasa Mahkemesinin 3/12/1991 tarihli ve E.1991/4,K.1991/45 sayılı Kararıyla; Yeniden düzenleme: 23/2/1995 - 4078/10 md.)** Odalardan;
 
 a) İkiyüze kadar azası olanlar, beş,
 
@@ -383,7 +383,7 @@ c) Beşyüzden fazla azası olanlar, yedi mümessile ilave olarak beşyüzden fa
 
 Mümessil ve aynı miktarda yedek mümessil seçerler.
 
-(Değişik : 23/2/1995 - 4078/10 md.) Mümessillerin alakalı eczacı odası azası ve mesleklerinde bilfiil ve asgari beş yılını doldurmuş bulunmaları şarttır. Mümessil adetinin tespitinde, Birlikteki üye kayıtları esas alınır.
+**(Değişik : 23/2/1995 - 4078/10 md.)** Mümessillerin alakalı eczacı odası azası ve mesleklerinde bilfiil ve asgari beş yılını doldurmuş bulunmaları şarttır. Mümessil adetinin tespitinde, Birlikteki üye kayıtları esas alınır.
 
 Kongreye iştirak edecek olan sivil ve askeri eczacılara mensup oldukları vekalet, daire ve müessese tarafından izin verilmesi mecburidir.
 
@@ -399,9 +399,9 @@ Kongreyi idare etmek üzere gizli rey ile bir reis, bir reisvekili ve lüzumlu k
 
 Kongre kararları ekseriyet ile verilir. Müsavat halinde reisin bulunduğu taraf ekseriyeti kazanır.
 
-(Ek : 6/9/1983 - KHK 84/3 md.; Değişik : 8/1/1985 - 3145/11 md.) Büyük Kongrenin seçimle ilgili toptantılarına mümessillerin katılmaları ve oylarını kullanmaları zorunlu olup geçerli bir mazereti olmaksızın katılmayanlar ile oy kullanmayanlar beş yıl müddetle büyük kongre mümessilliklerine seçilemezler.
+**(Ek : 6/9/1983 - KHK 84/3 md.; Değişik : 8/1/1985 - 3145/11 md.)** Büyük Kongrenin seçimle ilgili toptantılarına mümessillerin katılmaları ve oylarını kullanmaları zorunlu olup geçerli bir mazereti olmaksızın katılmayanlar ile oy kullanmayanlar beş yıl müddetle büyük kongre mümessilliklerine seçilemezler.
 
-(Ek : 8/1/1985 - 3145/11 md.) Merkez Heyeti, seçim yapılacak toplantıları Büyük Kongreye katılacak oda temsilcilerine, toplantı tarihinden en az yirmi gün önce bir gazete ilanı ve taahhütlü mektupla duyurur. Bu duyuruda toplantının yapılacağı gün, yer, gündem ve ayrıca ilk toplantıda çoğunluk sağlanmadığı takdirde yapılacak ikinci toplantının tarihi, yeri, günü ve saati de belirtilir. Seçimi gerektirmeyen toplantılarda gazete ilanı yeterlidir. Eğer birliğin bir yayın organı varsa bu hususun o yayın organında yayımlanması gazete ilanı yerine geçer.
+**(Ek : 8/1/1985 - 3145/11 md.)** Merkez Heyeti, seçim yapılacak toplantıları Büyük Kongreye katılacak oda temsilcilerine, toplantı tarihinden en az yirmi gün önce bir gazete ilanı ve taahhütlü mektupla duyurur. Bu duyuruda toplantının yapılacağı gün, yer, gündem ve ayrıca ilk toplantıda çoğunluk sağlanmadığı takdirde yapılacak ikinci toplantının tarihi, yeri, günü ve saati de belirtilir. Seçimi gerektirmeyen toplantılarda gazete ilanı yeterlidir. Eğer birliğin bir yayın organı varsa bu hususun o yayın organında yayımlanması gazete ilanı yerine geçer.
 
 **Madde 53 –** (Değişik birinci fıkra : 16/5/1983 - KHK 69/10 md.; Değiştirilerek kabül: 8/1/1985 - 3145/12 md.) Birliğin olağan büyük kongresi her iki yılda bir kere Kasım ayında Ankara'da toplanır. Olağan kongre dışında merkez heyeti veya büyük kongre asıl mümessillerinin üçte birinin yazılı talebi ile olağanüstü de toplanır. Her iki halde de çağırı merkez heyetince yapılır. Olağanüstü büyük kongrenin gündemi, günü, yeri ve saati merkez heyetince bu kanundaki usullere uyularak mümessillere duyurulur. Ancak büyük kongrenin olağanüstü toplanmasını asıl mümessillerin üçte biri istemişse bunların istediği gündem maddesi de gündemde gösterilir.
 
@@ -429,11 +429,11 @@ i) Eczacı odalarının içişlerini müzakere etmek,
 
 j) Eczacı odalarının merkez heyetine gönderdikleri yıllık çalışma raporları hakkında bilgi edinmek,
 
-k) (Değişik : 23/2/1995 - 4078/11 md.) Kongreye arz edilen dilekleri müzakere ve yapılması gereken işleri tesbit etmek ve uyulması mecburi mesleki kararlar almak.
+k) **(Değişik : 23/2/1995 - 4078/11 md.)** Kongreye arz edilen dilekleri müzakere ve yapılması gereken işleri tesbit etmek ve uyulması mecburi mesleki kararlar almak.
 
 **Madde 54 –** Büyük kongre tarafından yapılacak seçimlerin rey pusla ve mazbataları sonraki seçimin yapılmasına kadar merkez heyeti tarafından muhafaza edilir.
 
-Mali ve idari hükümler:
+**Mali ve idari hükümler:**
 
 **Madde 55 –** (Değişik : 23/2/1995 - 4078/12 md.)
 
@@ -469,11 +469,11 @@ c) Çeşitli gelirler
 
 Tahsil edilen aidatlardaki Merkez Heyeti payının, 55 inci maddedeki tahsil sürelerini takip eden ay sonuna kadar, oda yönetimlerince Birlik hesabına gönderilmesi mecburidir.
 
-**Madde 58 –** Türk Eczacıları Birliğince bir yardımlaşma sandığı kurulur. ( İptal ikinci cümle: Anayasa Mahkemesi’nin 8/10/2015 tarihli ve E.: 2014/126, K.: 2015/86 sayılı Kararı ile.) (…)
+**Madde 58 –** Türk Eczacıları Birliğince bir yardımlaşma sandığı kurulur. ( **İptal ikinci cümle: Anayasa Mahkemesi’nin 8/10/2015 tarihli ve E.: 2014/126, K.: 2015/86 sayılı Kararı ile.) (…)**
 
-(Değişik : 23/2/1995 - 4078/14 md.) Kurulacak yardımlaşma sandığının işleyişi, yardımlaşma aidatları ve yapılacak yardımlarla ilgili usul ve esaslar, Türk Eczacıları Birliği Merkez Heyeti tarafından çıkartılacak bir yönetmelikle düzenlenir.
+**(Değişik : 23/2/1995 - 4078/14 md.)** Kurulacak yardımlaşma sandığının işleyişi, yardımlaşma aidatları ve yapılacak yardımlarla ilgili usul ve esaslar, Türk Eczacıları Birliği Merkez Heyeti tarafından çıkartılacak bir yönetmelikle düzenlenir.
 
-Mülga hükümler:
+**Mülga hükümler:**
 
 **Madde 59 –** Tababet ve Şuabatı Sanatlarının Tarzı icrasına dair olan 1219 sayılı Kanunun etibba odalarına ait hükümleri ile bu kanuna bazı maddeler tezyili hakkındaki 1686 sayılı kanun mülgadır.
 
@@ -481,7 +481,7 @@ Mülga hükümler:
 
 Sağlık ve Sosyal Yardım Bakanlığı Türk Eczacıları Birliği ile Birliğin mahalli organları olan odalar üzerinde gözetim ve denetim hakkına sahiptir. Adı geçen kuruluşların idari ve mali yönden denetimi Sağlık ve Sosyal Yardım Bakanlığınca yapılır.
 
-(Değişik : 18/6/1997 - 4276/18 md.) Amaçları dışında faaliyet gösteren oda ve Birliğin sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Sağlık Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
+**(Değişik : 18/6/1997 - 4276/18 md.)** Amaçları dışında faaliyet gösteren oda ve Birliğin sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Sağlık Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
 
 Mahkemece ikinci fıkrada yazılı organların görevlerine son verilmesi halinde bu kararla ayrıca, görevlerine son verilen organların yerini alacak yeni organların bir ay içinde seçimlerini sağlamak için umumi heyet veya büyük kongreyi toplamak üzere ilgili organ üyelerinden beşini de görevlendirir.
 
@@ -491,13 +491,13 @@ Sağlık ve Sosyal yardım Bakanlığının ve Kanun uyarınca birlik organları
 
 Görevlerine son verilen organ üyelerinin kanunda yazılı ceza sorumlulukları saklıdır. Bu organların yukarıdaki fıkra gereğince görevlerine son verilmesine neden olan tasarrufları hükümsüzdür.
 
-(Değişik : 18/6/1997 - 4276/18 md.) Ancak, milli güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, Türk Eczacıları Birliği ve eczacı odaları, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içerisinde açıklar, aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.[10]
+**(Değişik : 18/6/1997 - 4276/18 md.)** Ancak, milli güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, Türk Eczacıları Birliği ve eczacı odaları, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içerisinde açıklar, aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.[10]
 
 **Ek Madde 2 –** (Ek : 16/5/1983 - KHK 69/12 md.; Değiştirilerek kabul: 8/1/1985 3145/14 md.)
 
 Türk Eczacıları Birliğinin merkez organları ile eczacı odalarının organlarının bu Kanunda belirtilen seçimleri gizli oyla yapılır ve seçimlere ilişkin işlemler aşağıdaki esaslara göre, yargı gözetimi altında gerçekleştirilir.
 
-(Değişik birinci cümle : 23/2/1995 - 4078/15 md.) Seçime katılacak üyeleri belirlemek maksadı ile oda tarafından hazırlanmış ve Birlik Merkez Heyetince tasdik edilmiş listeler,seçim yapılacak kongre ve umumi heyet toplantısından en az gün 15 önce, iki nüsha halinde, seçim yapılacak yerdeki görevli ilçe seçim kurulu başkanı olan hakime tevdi edilir.Ayrıca toplantının gündemi, yeri,günü,saati ile çoğunluk olmadığı takdirde yapılacak ikinci toplantıya ilişkin hususlar da belirtilir.Toplantı tarihlerinin gündemde yer alan diğer konular gözönünde bulundurularak görüşmelerin bir Cumartesi günü akşamına kadar sonuçlanmasını ve seçimlerin ertesi gün olan Pazar gününün dokuz - onyedi saatleri arasında yapılmasını sağlayacak şekilde düzenlenmesi zorunludur.Bir yerde birden fazla ilçe seçim kurulu bulunduğu takdirde görevli hakim Yüksek Seçim Kurulunca belirlenir.
+**(Değişik birinci cümle : 23/2/1995 - 4078/15 md.)** Seçime katılacak üyeleri belirlemek maksadı ile oda tarafından hazırlanmış ve Birlik Merkez Heyetince tasdik edilmiş listeler,seçim yapılacak kongre ve umumi heyet toplantısından en az gün 15 önce, iki nüsha halinde, seçim yapılacak yerdeki görevli ilçe seçim kurulu başkanı olan hakime tevdi edilir.Ayrıca toplantının gündemi, yeri,günü,saati ile çoğunluk olmadığı takdirde yapılacak ikinci toplantıya ilişkin hususlar da belirtilir.Toplantı tarihlerinin gündemde yer alan diğer konular gözönünde bulundurularak görüşmelerin bir Cumartesi günü akşamına kadar sonuçlanmasını ve seçimlerin ertesi gün olan Pazar gününün dokuz - onyedi saatleri arasında yapılmasını sağlayacak şekilde düzenlenmesi zorunludur.Bir yerde birden fazla ilçe seçim kurulu bulunduğu takdirde görevli hakim Yüksek Seçim Kurulunca belirlenir.
 
 Hakim, gerektiğinde ilgili kayıt ve belgeleri de getirtip inceleme suretiyle varsa noksanları tamamlattırdıktan sonra seçime katılacak üyeleri belirleyen liste ile yukarıdaki fıkrada belirtilen diğer hususları onaylar. Onaylanan liste ile toplantıya ilişkin diğer hususlar adalet dairesi ile oda ve birliğin ilan yerinde asılmak suretiyle üç gün süre ile ilan edilir.
 
@@ -582,22 +582,22 @@ Yapılacak seçimler 1993 yılının Kanunda öngörülen aylarında yapılmış
 | 7417 | 30 | 5/7/2022 |
 | Anayasa Mahkemesinin 11/12/2025 tarihli ve E.:2025/189; K.:2025/259 sayılı Kararı | 30 | yayımlanmasından başlayarak altı ay sonra (10/9/2026) |
 
-<small>[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 34 üncü maddesiyle, bu bentte yer alan “nizamname ve talimatname” ibaresi “mevzuat” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 34 üncü maddesiyle, bu bentte yer alan “nizamname ve talimatname” ibaresi “mevzuat” şeklinde değiştirilmiştir.</i></small>
 
-<small>[2] Bu hükmün uygulanmasında Ek 3 üncü maddeye bakınız.</small>
+<small>[2] <i>Bu hükmün uygulanmasında Ek 3 üncü maddeye bakınız.</i></small>
 
-<small>[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 34 üncü maddesiyle, bu bentte yer alan “kanunlar ve yönetmelikler ile Deontoloji Tüzüğü” ibaresi “mevzuat” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 34 üncü maddesiyle, bu bentte yer alan “kanunlar ve yönetmelikler ile Deontoloji Tüzüğü” ibaresi “mevzuat” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] Bu hükmün uygulanmasında Ek 2 nci maddeye bakınız.</small>
+<small>[4] <i>Bu hükmün uygulanmasında Ek 2 nci maddeye bakınız.</i></small>
 
 <small>[5] Bu hükmün uygulanmasında Ek 2 nci maddeye bakınız.</small>
 
-<small>[6] 2/7/2018 tarihli ve 700 sayılı KHK’nin 34 üncü maddesiyle, 39 uncu maddenin (h) bendinde yer alan “kanun ve tüzüklerin” ibaresi “kanunların” şeklinde değiştirilmiş ve (l) bendinde yer alan “tüzük ve” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[6] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 34 üncü maddesiyle, 39 uncu maddenin (h) bendinde yer alan “kanun ve tüzüklerin” ibaresi “kanunların” şeklinde değiştirilmiş ve (l) bendinde yer alan “tüzük ve” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[7] Bu hükmün uygulanmasında Ek 2 nci maddeye bakınız.</small>
+<small>[7] <i>Bu hükmün uygulanmasında Ek 2 nci maddeye bakınız.</i></small>
 
 <small>[8] Bu hükmün uygulanmasında Ek 2 nci maddeye bakınız.</small>
 
 <small>[9] Bu fıkra hükmü, birinci fıkrayı değiştiren 8/1/1985 tarihli ve 3145 sayılı Kanunun 12 nci maddesiyle, birinci fıkranın iki fıkra halinde düzenlenmiş olması nedeniyle getirilmiştir.</small>
 
-<small>[10] Bu fıkra 18/6/1997 tarih ve 4276 sayılı Kanunun 18 inci maddesiyle yedinci ve sekizinci fıkraların birleştirilmesiyle yedinci fıkra olarak düzenlenmiştir.</small>
+<small>[10] <i>Bu fıkra 18/6/1997 tarih ve 4276 sayılı Kanunun 18 inci maddesiyle yedinci ve sekizinci fıkraların birleştirilmesiyle yedinci fıkra olarak düzenlenmiştir.</i></small>

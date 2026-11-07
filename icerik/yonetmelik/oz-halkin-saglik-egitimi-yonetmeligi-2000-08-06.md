@@ -66,7 +66,7 @@ o)-Sağlık eğitim kurumları : İl Sağlık Müdürlüğü'ne bağlı Halkın 
 
 ### İKİNCİ BÖLÜM
 
-Halkın Sağlık Eğitimi, Hedefleri ve İlkeleri
+**Halkın Sağlık Eğitimi, Hedefleri ve İlkeleri**
 
 #### Hedefler
 
@@ -116,7 +116,7 @@ ilkeleri göz önünde bulundurulur.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Teşkilat ve Görevler
+**Teşkilat ve Görevler**
 
 #### Teşkilat
 
@@ -128,7 +128,7 @@ b) İl Sağlık Müdürlüğü
 
 c) Sağlık Eğitim Kurumları
 
-Sağlık Eğitimi Genel Müdürlüğü’ nün görevleri:
+**Sağlık Eğitimi Genel Müdürlüğü’ nün görevleri:**
 
 **Madde 8 –** Genel Müdürlük;
 
@@ -144,7 +144,7 @@ b) İlin halkın sağlık eğitimi ihtiyaçlarını belirleyerek, Bakanlığın 
 
 c) İl sağlık eğitim kurumlarının hizmetlerinin yürütülmesini sağlamak.
 
-Sağlık Eğitim Kurumları:
+**Sağlık Eğitim Kurumları:**
 
 **Madde 10 –** Sağlık Eğitim Kurumlarının görevleri;
 
@@ -152,7 +152,7 @@ Halkın Sağlık Eğitimi ile ilgili olarak personele ve halka yönelik eğitim 
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Eğitim Faaliyetlerinde Görevlendirilecek Personel
+**Eğitim Faaliyetlerinde Görevlendirilecek Personel**
 
 #### Görevlendirme
 
@@ -192,7 +192,7 @@ c) Zorunlu nedenlerle görevlerine devam edememeleri halinde durumu derhal eğit
 
 ### BEŞİNCİ BÖLÜM
 
-Eğitim Türleri,Eğitim Faaliyetlerinin Planlanması ve Uygulanması
+**Eğitim Türleri,Eğitim Faaliyetlerinin Planlanması ve Uygulanması**
 
 #### Eğitim türleri
 
@@ -226,7 +226,7 @@ Bu faaliyetlerin tarihi, yeri, programı, eğitim yöneticileri,eğitim görevli
 
 ### ALTINCI BÖLÜM
 
-Katılma, Sınavlar, Değerlendirme, İzinler ve Disiplin
+**Katılma, Sınavlar, Değerlendirme, İzinler ve Disiplin**
 
 #### Eğitim faaliyetine katılma
 
@@ -240,7 +240,7 @@ Katılma, Sınavlar, Değerlendirme, İzinler ve Disiplin
 
 **Madde 21 –** Masrafları kendilerine veya kurumlarına ait olmak kaydıyla Bakanlık dışından kamu ve özel diğer kurum personeli için bu Yönetmelik çerçevesinde eğitim faaliyetleri düzenlenebilir, ayrıca anılan personelin Bakanlıkça veya Valilikçe düzenlenecek eğitim faaliyetlerine katılmaları da kabul edilebilir.
 
-Eğitim faaliyetlerine katılmayanlar :
+**Eğitim faaliyetlerine katılmayanlar :**
 
 **Madde 22 –** Herhangi bir sebeple eğitim programıyla ilişkisi kesilenlere ve sınavlara katılmayanlara başarı ve katılma belgesi verilmez.
 
@@ -300,7 +300,7 @@ j) Halkın sağlık eğitimini değerlendirme esası, eğitim programına halkı
 
 ### SEKİZİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 

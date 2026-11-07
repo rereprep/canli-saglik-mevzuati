@@ -17,11 +17,11 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç ve kapsam
 
-**MADDE 1 –** (1) Bu Yönetmelik, Sağlık Bakanlığının taşra teşkilatında idari birimlerin hizmet amaçlarına göre görevlendirilecek yönetici personelin dağılımı ile kadroların (Ek ibare:RG-7/10/2017-30203) ve pozisyonların düzenli ve hizmet gereklerine uygun olarak kullanımına dair usul ve esasların belirlenmesi amacıyla hazırlanmıştır.
+**MADDE 1 –** (1) Bu Yönetmelik, Sağlık Bakanlığının taşra teşkilatında idari birimlerin hizmet amaçlarına göre görevlendirilecek yönetici personelin dağılımı ile kadroların **(Ek ibare:RG-7/10/2017-30203)** ve pozisyonların düzenli ve hizmet gereklerine uygun olarak kullanımına dair usul ve esasların belirlenmesi amacıyla hazırlanmıştır.
 
 #### Dayanak
 
@@ -37,7 +37,7 @@ a) Bakan: Sağlık Bakanını,
 
 b) Bakanlık: Sağlık Bakanlığını,
 
-c) Hizmet Birimi: (Mülga ibare:RG-7/10/2017-30203) (...) sağlık hizmetini sunan birimi,
+c) Hizmet Birimi: **(Mülga ibare:RG-7/10/2017-30203)** (...) sağlık hizmetini sunan birimi,
 
 ç) İdari Birim: İl ve İlçe Sağlık Müdürlüğünü,
 
@@ -47,19 +47,19 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Kadrolara Dair Genel Esaslar
+**Kadrolara Dair Genel Esaslar**
 
 #### Kadroların sabitliği
 
-**MADDE 4 –** (1) Ek-1’de yer alan cetvelde idari ve hizmet birimlerinin azami kadro (Ek ibare:RG-7/10/2017-30203) ve pozisyon standartları gösterilmiştir. Bu standartların üstünde veya dışında personel ataması yapılamaz.
+**MADDE 4 –** (1) Ek-1’de yer alan cetvelde idari ve hizmet birimlerinin azami kadro **(Ek ibare:RG-7/10/2017-30203)** ve pozisyon standartları gösterilmiştir. Bu standartların üstünde veya dışında personel ataması yapılamaz.
 
 #### Kadro ve görev unvanları
 
-**MADDE 5 –** (1) Bu Yönetmelik ekinde yer alan cetvelde idari ve hizmet birimlerinin bünyesinde istihdam edilecek personelin kadro (Ek ibare:RG-7/10/2017-30203) , pozisyon ve görev unvanları belirtilmiş olup bu unvanları taşımayan personelin ataması yapılamaz.
+**MADDE 5 –** (1) Bu Yönetmelik ekinde yer alan cetvelde idari ve hizmet birimlerinin bünyesinde istihdam edilecek personelin kadro **(Ek ibare:RG-7/10/2017-30203)** , pozisyon ve görev unvanları belirtilmiş olup bu unvanları taşımayan personelin ataması yapılamaz.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Acil sağlık hizmeti
 
@@ -73,7 +73,7 @@ Kadrolara Dair Genel Esaslar
 
 **MADDE 8 –** (Değişik:RG-7/10/2017-30203)
 
-(4) Bu Yönetmelik kapsamında bulunan kadroların ve pozisyonların temini, dağılımı ve diğer kadro işlemleri, (Değişik ibare:RG-22/10/2020-31282) 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 2 sayılı Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi ve diğer genel hükümlere göre Yönetim Hizmetleri Genel Müdürlüğünce gerçekleştirilir.
+(4) Bu Yönetmelik kapsamında bulunan kadroların ve pozisyonların temini, dağılımı ve diğer kadro işlemleri, **(Değişik ibare:RG-22/10/2020-31282)** 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 2 sayılı Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi ve diğer genel hükümlere göre Yönetim Hizmetleri Genel Müdürlüğünce gerçekleştirilir.
 
 #### Kadro fazlası personel
 
@@ -98,9 +98,9 @@ Kadrolara Dair Genel Esaslar
 | 4. | 7/10/2017 | 30203 |
 | 5. | 22/10/2020 | 31282 |
 
-Ek-1
+**Ek-1**
 
-(Değişik:RG-7/10/2017-30203)
+**(Değişik:RG-7/10/2017-30203)**
 
 | İL VE İLÇE SAĞLIK MÜDÜRLÜKLERİNİN NÜFUSLARA GÖRE POZİSYON STANDARTLARI İl TÜİK nüfusu; 10.000.000’den büyük olan iller İ1, 4.500.000 ile 10.000.000 olan iller İ2, 3.500.000 ile 4.500.000 olan iller İ3, 2.500.000 ile 3.500.000 olan iller İ4, 1.500.000 ile 2.500.000 olan iller İ5, 720.000 ile 1.500.000 olan iller İ6, 500.000 ile 720.000 olan iller İ7, 250.000 ile 500.000 olan iller İ8, 250.000’den küçük olan iller İ9 grubu olarak tanımlanmıştır. (Değişik:RG-22/10/2020-31282) POZİSYON | İ1 | İ2 | İ3 | İ4 | İ5 | İ6 | İ7 | İ8 | İ9 |
 | İl Sağlık Müdürü | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
@@ -110,9 +110,9 @@ Ek-1
 
 1) İl Sağlık Müdürlüğü, İlçe Sağlık Müdürlüğü ve hizmet birimlerinin kadro ve pozisyon standardı ile birim adları ve görev tanımları yönerge ile belirlenir.
 
-2) (Değişik:RG-22/10/2020-31282) TÜİK’in her yılın 1 Ocak tarihindeki verileri esas alınarak nüfusu 30.000 ve üzerinde olan ilçelerde ilçe sağlık müdürlüğü kurulur. İlçe sağlık müdürlüğü bulunan ve 1 Ocak tarihi itibarıyla nüfusu 30.000’nin altına düşen ilçelerde, ilçe sağlık müdürlüğü kapatılır. İlçe sağlık müdürlüğünün kurulması ve kapatılması onayları Yönetim Hizmetleri Genel Müdürlüğünce, toplum sağlığı merkezlerinin kurulması ve kapatılması onayları Halk Sağlığı Genel Müdürlüğünce alınır. Büyükşehir belediyesi statüsü bulunmayan illerin merkez ilçelerinde ilçe sağlık müdürlüğü kurulmaz. İlçe sağlık müdürlüğünün kurulmadığı ilçelerdeki hizmetler ilçe devlet hastanesi başhekimliği ve/veya toplum sağlığı merkezi başkanları tarafından yerine getirilir. Bu birimlere ayrıca kadro veya pozisyon tahsisi yapılmaz ve buralarda gerek duyulan hizmetler ilgili ilçede bulunan personel eliyle yürütülür.
+2) **(Değişik:RG-22/10/2020-31282)** TÜİK’in her yılın 1 Ocak tarihindeki verileri esas alınarak nüfusu 30.000 ve üzerinde olan ilçelerde ilçe sağlık müdürlüğü kurulur. İlçe sağlık müdürlüğü bulunan ve 1 Ocak tarihi itibarıyla nüfusu 30.000’nin altına düşen ilçelerde, ilçe sağlık müdürlüğü kapatılır. İlçe sağlık müdürlüğünün kurulması ve kapatılması onayları Yönetim Hizmetleri Genel Müdürlüğünce, toplum sağlığı merkezlerinin kurulması ve kapatılması onayları Halk Sağlığı Genel Müdürlüğünce alınır. Büyükşehir belediyesi statüsü bulunmayan illerin merkez ilçelerinde ilçe sağlık müdürlüğü kurulmaz. İlçe sağlık müdürlüğünün kurulmadığı ilçelerdeki hizmetler ilçe devlet hastanesi başhekimliği ve/veya toplum sağlığı merkezi başkanları tarafından yerine getirilir. Bu birimlere ayrıca kadro veya pozisyon tahsisi yapılmaz ve buralarda gerek duyulan hizmetler ilgili ilçede bulunan personel eliyle yürütülür.
 
-3) (Değişik:RG-22/10/2020-31282) Hizmet sunulan nüfusta veya nüfus yoğunluğunda büyük artışların/azalmaların olması, Bakanlık, üniversite veya özel sağlık tesisi sayısının artması/azalması veya ihtiyaç halinde Bakanlık Makam Onayı ile Başkan, Başkan Yardımcısı ve Sözleşmeli Uzman sayısı artırılabilir/azaltılabilir.
+3) **(Değişik:RG-22/10/2020-31282)** Hizmet sunulan nüfusta veya nüfus yoğunluğunda büyük artışların/azalmaların olması, Bakanlık, üniversite veya özel sağlık tesisi sayısının artması/azalması veya ihtiyaç halinde Bakanlık Makam Onayı ile Başkan, Başkan Yardımcısı ve Sözleşmeli Uzman sayısı artırılabilir/azaltılabilir.
 
 | SÖZLEŞMELİ UZMAN POZİSYON DAĞILIM CETVELİ |
 | İL | UZMAN SAYISI |  | İL | UZMAN SAYISI |

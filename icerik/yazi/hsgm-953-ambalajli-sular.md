@@ -26,9 +26,9 @@ DAĞITIM YERLERİNE
 
 Ülkemizde tüketime sunulan ambalajlı sularla ilgili çalışmalar, 5996 sayılı Veteriner Hizmetleri, Bitki
 
-Sağlığı, Gıda ve Yem Kanunu 27’nci maddesi gereğince Bakanlığımız sorumluluğunda yer almakta olup bahse konu sulara yönelik iş ve işlemler Avrupa Birliği mevzuatıyla uyumlu “İnsani Tüketim Amaçlı Sular Hakkında
+Sağlığı, Gıda ve Yem Kanunu 27’nci maddesi gereğince Bakanlığımız sorumluluğunda yer almakta olup bahse konu sulara yönelik iş ve işlemler Avrupa Birliği mevzuatıyla uyumlu “**İnsani Tüketim Amaçlı Sular Hakkında**
 
-Yönetmelik” ve “Doğal Mineralli Sular Hakkında Yönetmelik” çerçevesinde yürütülmektedir.
+**Yönetmelik”** ve “**Doğal Mineralli Sular Hakkında Yönetmelik”** çerçevesinde yürütülmektedir.
 
 Bu kapsamda ülkemiz genelinde faaliyet gösteren ambalajlı sular, kaynağından başlayarak isale, depo, imlahane birimleri ile denetim ve izleme süreçlerinin tamamı Bakanlığımız kontrolünde yer almakta olup bu sularla ilgili tüm bilgi ve belgeler ile denetim ve numune izleme çalışmaları süreci Bakanlığımız bünyesinde faaliyet gösteren ambalajlı su sistemi (skweb.saglik.gov.tr) üzerinden takip edilmektedir.
 
@@ -70,7 +70,7 @@ Bakanlığa gönderilmesi (evrakların fiziki olarak gönderilmesine gerek yoktu
 
 -Numune alma kriterlerine uygun olarak alınan numunelerin laboratuvara soğuk zincirle, zamanında ve uygun koşullarda gönderilmesinin sağlanması,
 
-8. İşletme tarafından mikrobiyolojik uygunsuzluklar haricinde analiz sonucuna itiraz edilebileceğinden şahit numunenin usulüne uygun olarak alınmasına azami hassasiyet gösterilmesi, ayrıca işletme veya işyeri yetkilisinin şahit numune açısından yediemin sıfatını taşıdığına ilişkin “şahit numune muhafaza edilmek üzere işletme/işyeri yetkilisine resmi olarak teslim edilmiş, teslim amacı dışında; numune üzerindeki mührün bozulması, numunenin satılması, başkasına verilmesi veya numunenin tahrip edilmesi gibi muhafaza amacıyla bağdaşmayan davranışlarda bulunulması halinde ilk analiz sonucuna göre işlemlerin yapılacağı ve muhafaza görevini aykırılık sebebi ile adli mercilere bildirimde bulunulacağı yönünde bilgilendirme yapılmış, şahit numunenin muhafızı ile ilgili hukuki ve cezai sorumluluğun işletme/satış yerine ait olduğu kabul edilmiştir.” ifadesinin Ek-1 ve Ek-2’de örneği sunulan tutanağa yazılarak gerekli bilgilendirmenin yapılmasına dikkat edilmelidir.
+8. İşletme tarafından mikrobiyolojik uygunsuzluklar haricinde analiz sonucuna itiraz edilebileceğinden şahit numunenin usulüne uygun olarak alınmasına azami hassasiyet gösterilmesi, ayrıca işletme veya işyeri yetkilisinin şahit numune açısından yediemin sıfatını taşıdığına ilişkin “<i>şahit numune muhafaza</i> <i>edilmek üzere işletme/işyeri yetkilisine resmi olarak teslim edilmiş, teslim amacı dışında; numune üzerindeki</i> <i>mührün bozulması, numunenin satılması, başkasına verilmesi veya numunenin tahrip edilmesi gibi muhafaza</i> <i>amacıyla bağdaşmayan davranışlarda bulunulması halinde ilk analiz sonucuna göre işlemlerin yapılacağı ve</i> <i>muhafaza görevini aykırılık sebebi ile adli mercilere bildirimde bulunulacağı yönünde bilgilendirme yapılmış,</i> <i>şahit numunenin muhafızı ile ilgili hukuki ve cezai sorumluluğun işletme/satış yerine ait olduğu kabul edilmiştir.”</i> ifadesinin Ek-1 ve Ek-2’de örneği sunulan tutanağa yazılarak gerekli bilgilendirmenin yapılmasına dikkat edilmelidir.
 
 9. Bakanlık tarafından uygulanan idari para cezası olurlarının işletmeye tebliğ belgesi, ödeme dekontu veya süresi içinde ödeme yapılmadığı ile ilgili tüm belgeler en kısa sürede Bakanlığa gönderilmelidir.
 

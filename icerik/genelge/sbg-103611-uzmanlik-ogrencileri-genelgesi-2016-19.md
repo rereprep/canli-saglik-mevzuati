@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-2.3.58. Uzmanlık Öğrencileri Genelgesi (2016/19)
+**2.3.58. Uzmanlık Öğrencileri Genelgesi (2016/19)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Sağlık Hizmetleri Genel Müdürlüğü

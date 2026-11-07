@@ -14,9 +14,9 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11132/acil-obstetrik-bakim-yonetim-reh
 
 Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
 
-Sayı :B100AÇS0120000-020010.06.02.329
+**Sayı** :B100AÇS0120000-020010.06.02.329
 
-Konu : Acil Obstetrik Bakım Yönetim Rehberi
+**Konu** : Acil Obstetrik Bakım Yönetim Rehberi
 
 19 Ocak 2009
 
@@ -24,7 +24,7 @@ Konu : Acil Obstetrik Bakım Yönetim Rehberi
 
 ### GENELGE
 
-2009 / 5
+**2009 / 5**
 
 Anne ve bebek ölümlerini önlemek üzere standartları belirlenmiş doğum öncesi bakım, doğum ve doğum sonu bakım hizmetlerine erişilebilirlik, sağlık hizmetlerinden faydalanma, sağlık hizmetlerinin kalitesi ve hizmet sunan sağlık kurumları arasında koordinasyonun sağlanarak işleyen bir sevk sisteminin önemi tartışılmaz bir gerçektir.
 

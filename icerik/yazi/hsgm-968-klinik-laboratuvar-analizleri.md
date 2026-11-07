@@ -11,9 +11,9 @@ kontrol_edildi: true
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-Türkiye Halk Sağlığı Kurumu
+**Türkiye Halk Sağlığı Kurumu**
 
 Sayı : 6266502 l /090.99
 
@@ -37,7 +37,7 @@ Bu hususun temini için;
 
 Bilgilerini ve gereğini rica ederim.
 
-Prof. Dr. Irfan ŞENCAN
+Prof. Dr. **Irfan** ŞENCAN
 
 Bakan a.
 

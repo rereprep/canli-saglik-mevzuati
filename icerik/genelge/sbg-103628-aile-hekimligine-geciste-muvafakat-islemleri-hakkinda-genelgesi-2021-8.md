@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-9.3.5. Aile Hekimliğine Geçişte Muvafakat İşlemleri Hakkında Genelgesi (2021/8)
+**9.3.5. Aile Hekimliğine Geçişte Muvafakat İşlemleri Hakkında Genelgesi (2021/8)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Yönetim Hizmetleri Genel Müdürlüğü

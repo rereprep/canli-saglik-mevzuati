@@ -27,7 +27,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç**, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç
 
@@ -599,9 +599,9 @@ Geçici ve Son Hükümler
 
 ### HİZMET BİRİMLERİ RUHSAT BAŞVURU FORMU
 
-(1) Önceki Bilgiler
+**(1) Önceki Bilgiler**
 
-Ruhsat Numarası
+**Ruhsat Numarası**
 
 Sağlık Bakanlığı’ndan önceden ruhsat alınmış ise aşağıda belirtiniz.
 
@@ -611,7 +611,7 @@ Tarih/Sayı :
 
 Hizmet Biriminin Tipi
 
-Hizmet Biriminin Adı
+**Hizmet Biriminin Adı**
 
 Başvuru Sahibi
 
@@ -751,17 +751,17 @@ Faks
 
 E- posta
 
-Hastane Adı ve Adresi
+**Hastane Adı ve Adresi**
 
-Hastane Adı ve Adresi
+**Hastane Adı ve Adresi**
 
-Hastane Adı ve Adresi
+**Hastane Adı ve Adresi**
 
-Hastane Adı ve Adresi
+**Hastane Adı ve Adresi**
 
-Hastane Adı ve Adresi
+**Hastane Adı ve Adresi**
 
-Hastane Adı ve Adresi
+**Hastane Adı ve Adresi**
 
 Yukarıda belirttiğim hususların tam, kesin ve doğru olduğunu teyit eder, belirtilen faaliyetler çerçevesinde
 
@@ -785,7 +785,7 @@ Kurum Amirinin Adı Soyadı
 
 Tarih/İmza
 
-Formu doldurduğunuz zaman lütfen aşağıdaki adrese gönderiniz:
+**Formu doldurduğunuz zaman lütfen aşağıdaki adrese gönderiniz:**
 
 Sağlık Bakanlığı
 
@@ -797,13 +797,13 @@ Kan Şubesi Müdürlüğü
 
 Mithatpaşa Cad. No:3
 
-Sıhhiye/ ANKARA
+**Sıhhiye/ ANKARA**
 
-Yaş
+**Yaş**
 
-18 – 65 yaş
+**18 – 65 yaş**
 
-Bağışçı adayı, reşit kabul edilebilmesi için yasal olan 18 yaşını doldurmuş olmalıdır
+**Bağışçı adayı, reşit kabul edilebilmesi için yasal olan 18 yaşını doldurmuş olmalıdır**
 
 60 yaş üzeri ilk bağış
 

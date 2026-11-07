@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
-MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 2.2 numaralı maddesinin on birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 2.2 numaralı maddesinin on birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(11) Kurumla sözleşmeli özel sağlık kurum ve kuruluşları, bir başka sağlık kurum ve kuruluşundan hizmet alımı yoluyla sağladıkları kuruluş ve faaliyetiyle ilgili olarak bağlı bulunduğu mevzuat gereği düzenlenmiş olan ruhsat/faaliyet veya uygunluk belgesinde yer alan tetkik ve/veya tahlil dışındaki tedavilere (gastroskopi, kolonoskopi, rektosigmoidoskopi, rektoskopi, bronkoskopi, anjiyografi gibi işlemler de dahil olmak üzere) ait giderleri Kuruma faturalandıramazlar. Hekim veya diş hekimlerinin, özel sağlık hizmeti sunucusu bünyesinde çalışması halinde, bu hekimler tarafından fatura düzenlenerek alınan/sunulan sağlık hizmetleri bu kapsamda değerlendirilmez.”
 
 MADDE 2 – Aynı Tebliğin 2.2.2.B numaralı maddesinin altıncı fıkrası yürürlükten kaldırılmıştır.

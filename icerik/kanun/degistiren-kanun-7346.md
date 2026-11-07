@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/12/20211225-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7346 Kabul Tarihi: 21/12/2021
+**KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7346 Kabul Tarihi: 21/12/2021**
 
 MADDE 1 – 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat Eserleri Kanununun 72 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “2. Teknolojik önlemleri etkisiz kılma:

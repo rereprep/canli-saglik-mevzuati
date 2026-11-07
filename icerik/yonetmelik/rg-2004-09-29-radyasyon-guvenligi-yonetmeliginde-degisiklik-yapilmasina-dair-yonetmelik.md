@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 ve Tabii Kaynaklar Bakanlığından:
-Radyasyon Güvenliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+**Radyasyon Güvenliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik**
 
 
 MADDE 1 – 24/3/2000 tarihli ve 23999 sayılı Resmî Gazete’de yayımlanan Radyasyon Güvenliği Yönetmeliğinin 4 üncü maddesine aşağıdaki tanım eklenmiştir.
@@ -30,14 +30,14 @@ b) Toplum üyesi kişiler için etkin doz yılda 1 mSv’i geçemez. Özel durum
 
 
 MADDE 4 – Aynı Yönetmeliğin 12 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
-"Hamile radyasyon görevlileri için doz sınırları
+"**Hamile radyasyon görevlileri için doz sınırları**
 
-Madde 12 —Hamileliği belirlenmiş kadın çalışan, çalışma şartlarının yeniden düzenlenebilmesi amacıyla yönetimi haberdar eder. Hamileliğin bildirilmesi kadın çalışanın çalışmasına engel teşkil etmez, gerekiyorsa çalışma koşulları yeniden düzenlenir. Bu nedenle, doğacak çocuğun alacağı dozun mümkün olduğu kadar düşük düzeyde tutulması sağlanır ve toplum için belirlenen doz sınırlarına uyulur.
+**Madde 12 —**Hamileliği belirlenmiş kadın çalışan, çalışma şartlarının yeniden düzenlenebilmesi amacıyla yönetimi haberdar eder. Hamileliğin bildirilmesi kadın çalışanın çalışmasına engel teşkil etmez, gerekiyorsa çalışma koşulları yeniden düzenlenir. Bu nedenle, doğacak çocuğun alacağı dozun mümkün olduğu kadar düşük düzeyde tutulması sağlanır ve toplum için belirlenen doz sınırlarına uyulur.
 Emzirme dönemindeki kadın çalışanlar, radyoaktif kontaminasyon riski taşıyan işlerde çalıştırılmaz."
 
 
 MADDE 5 – Aynı Yönetmeliğin 21 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 21 —Yıllık dozun, izin verilen düzeyin 3/10’unu aşma olasılığı bulunan Çalışma Koşulu A durumunda görev yapan kişilerin, kişisel dozimetre kullanması zorunludur.
+**"Madde 21 —**Yıllık dozun, izin verilen düzeyin 3/10’unu aşma olasılığı bulunan Çalışma Koşulu A durumunda görev yapan kişilerin, kişisel dozimetre kullanması zorunludur.
 Belirlenen dönemlerde değerlendirmek üzere bu dozimetreler Kuruma gönderilir, radyasyon güvenliği uzmanları tarafından değerlendirilir ve değerlendirme sonuçları ilgililere bildirilir.
 Kurum tarafından gerekli görüldüğü hallerde diğer dozimetrik yöntemler de kullanılır, yapılan hizmete ilişkin ücretler her yıl ücret listesine göre tahsil edilir.”
 
@@ -48,7 +48,7 @@ e) Cihazların kalibrasyonun sağlanması, kalite kontrollerinin yapılması ve 
 
 
 MADDE 7 – Aynı Yönetmeliğin 31 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 31 —131 radyoaktif maddesi verilen hastaların taburcu edilebilmesi için aşağıdaki hususlara uyulur:
+**"Madde 31 —**131 radyoaktif maddesi verilen hastaların taburcu edilebilmesi için aşağıdaki hususlara uyulur:
 a) 800 MBq’in üstünde I - 131 radyoaktif maddesi verilen hastalar vücuttaki radyoaktivite miktarının 600 MBq’in ve hastadan 1 metre uzaktaki doz hızının 30 µSv/saat’in altına düşünceye kadar Kurum tarafından sıvı atık sistemi ve oda projesi uygun bulunan izolasyonlu ayrı bir odada bekletildikten sonra (e) bendi koşulları sağlanmak suretiyle taburcu edilir.
 b) 800 MBq’e kadar I - 131 radyoaktif maddesi verilen hastaların vücuttaki radyoaktivite miktarı 600 MBq’in ve hastadan 1 metre uzaktaki doz hızı 30 µSv/saat’in altına düşünceye ayrı bir odada bekletildikten sonra (e) bendi koşulları sağlanmak suretiyle taburcu edilir.
 c) 600 MBq’e kadar aktivite verilen hastalar (e) bendi koşulları sağlanmak suretiyle taburcu edilir.
@@ -61,13 +61,13 @@ MADDE 8 – Aynı Yönetmeliğin 36 ncı maddesinin (b) bendi aşağıdaki şeki
 
 
 MADDE 9 – Aynı Yönetmeliğin 37 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 37 —Doğal ortamlardaki radyasyon seviyeleri gerektiğinde Kurum tarafından izlenir, gerekli görülen hallerde ilgili bakanlık, kurum ve kuruluşlarla işbirliği yapılır. Doğal radyasyon kaynaklarından maruz kalınan ışınlanmalara doz sınırlaması uygulanmaz. Ancak, ilk durumu değiştirilmiş olan doğal radyasyon kaynaklarından meydana gelen ışınlanmalara, bu Yönetmeliğin 7 nci maddesindeki radyasyon korunması sistemi uygulanır.
+**"Madde 37 —**Doğal ortamlardaki radyasyon seviyeleri gerektiğinde Kurum tarafından izlenir, gerekli görülen hallerde ilgili bakanlık, kurum ve kuruluşlarla işbirliği yapılır. Doğal radyasyon kaynaklarından maruz kalınan ışınlanmalara doz sınırlaması uygulanmaz. Ancak, ilk durumu değiştirilmiş olan doğal radyasyon kaynaklarından meydana gelen ışınlanmalara, bu Yönetmeliğin 7 nci maddesindeki radyasyon korunması sistemi uygulanır.
 Bu kaynaklardan radon için izin verilen konsantrasyon seviyeleri yıllık ortalama olarak evlerde 400 Bq/m3, işyerlerinde 1000 Bq/m3 değerlerini aşamaz.
 Maruz kalınan doğal radyasyon seviyesinin yapı malzemeleri nedeniyle artmasının önlenmesi ve toplum üyelerinin alacağı radyasyonun mümkün olan en düşük seviyede tutulması amacıyla bu malzemelerdeki radyoaktivitenin kontrolü esastır."
 
 
 MADDE 10 – Aynı Yönetmeliğin 38 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 38 —Görevi gereği radyasyon kaynaklarıyla çalışmamakla birlikte yaptığı iş nedeniyle doğal radyasyona maruz kalan uçuş personeli ile maden ocaklarında çalışan kişiler radyasyon görevlisi sayılmazlar. Ancak; uçuş personeli ile, içeriğinde uranyum ve toryum ihtiva eden maden cevherlerinin ve radyoaktivitesi yüksek düzeyde doğal radyonüklit içeren madenlerin (mineral tuzlar, fosforlu malzemeler) çıkarılması ve işlenmesi faaliyetlerinde çalışanların radyasyondan korunmaları için etkin kontrol tedbirleri alınması esastır.
+**"Madde 38 —****Görevi** gereği radyasyon kaynaklarıyla çalışmamakla birlikte yaptığı iş nedeniyle doğal radyasyona maruz kalan uçuş personeli ile maden ocaklarında çalışan kişiler radyasyon görevlisi sayılmazlar. Ancak; uçuş personeli ile, içeriğinde uranyum ve toryum ihtiva eden maden cevherlerinin ve radyoaktivitesi yüksek düzeyde doğal radyonüklit içeren madenlerin (mineral tuzlar, fosforlu malzemeler) çıkarılması ve işlenmesi faaliyetlerinde çalışanların radyasyondan korunmaları için etkin kontrol tedbirleri alınması esastır.
 Yer altı maden ocakları ve benzeri çalışma ortamlarında;
 a) Radon ölçümlerinin yaptırılması,
 b) Ortamdaki radon konsantrasyonunun 1000 Bq/m3’ü aşması durumunda havalandırma sistemlerinin kurulması ve etkin çalıştırılması,
@@ -76,7 +76,7 @@ Bu madde kapsamındaki faaliyetlerde çalışanlar, görevleri gereği aldıklar
 
 
 MADDE 11 – Aynı Yönetmeliğin 50 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 50 —Radyasyon Güvenliği Tüzüğü ve bu Yönetmelik kapsamına giren radyasyon kaynaklarının imal, ithal ve ihraç edilmesi, alınması, satılması, taşınması, depolanması, bakımı, onarımı, kurulması, sökülmesi, değiştirilmesi, radyasyon kaynaklarıyla çalışılabilmesi ve her türlü amaçla bulundurulması ve kullanılması için Kurum’dan lisans alınması zorunludur. Bu lisans, başvurusu yapılan kaynakların Kurum tarafından onaylanan kişilerin sorumluluğu altında ve başvuruda belirtilen adresteki faaliyetini kapsar.
+**"Madde 50 —**Radyasyon Güvenliği Tüzüğü ve bu Yönetmelik kapsamına giren radyasyon kaynaklarının imal, ithal ve ihraç edilmesi, alınması, satılması, taşınması, depolanması, bakımı, onarımı, kurulması, sökülmesi, değiştirilmesi, radyasyon kaynaklarıyla çalışılabilmesi ve her türlü amaçla bulundurulması ve kullanılması için Kurum’dan lisans alınması zorunludur. Bu lisans, başvurusu yapılan kaynakların Kurum tarafından onaylanan kişilerin sorumluluğu altında ve başvuruda belirtilen adresteki faaliyetini kapsar.
 a) Lisans sahibi radyasyon kaynaklarının bakımı, onarımı, kurulması, sökülmesi ve değiştirilmesi için bu Yönetmeliğin 51 inci maddesinde belirtilen evraklar ile Kuruma yazılı olarak başvurur ve Kurumun onayı alınır.
 Gerekirse bu işlemler radyasyon güvenliği uzmanları gözetiminde yapılır.
 Bu amaçlar dışında, hiç bir şekilde radyoaktif kaynağı açığa çıkaracak şekilde sökme, değiştirme ve benzeri işlemler yapılamaz. Aykırı durumlarda bu Yönetmeliğin 75 inci maddesi hükümleri uygulanır.
@@ -88,28 +88,28 @@ MADDE 12 – Aynı Yönetmeliğin 51 inci maddesinin (b) ve (p) bentleri aşağ�
 
 
 MADDE 13 – Aynı Yönetmeliğin 60 ıncı maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 60 —Lisans sahibinin kendi isteğiyle Kurumdan almış olduğu lisans iptali talebinde bulunması durumunda lisans belgesinin aslının Kuruma iade edilmesi zorunludur. Diğer işlemler için 63 üncü madde hükümleri uygulanır."
+**"Madde 60 —**Lisans sahibinin kendi isteğiyle Kurumdan almış olduğu lisans iptali talebinde bulunması durumunda lisans belgesinin aslının Kuruma iade edilmesi zorunludur. Diğer işlemler için 63 üncü madde hükümleri uygulanır."
 
 
 MADDE 14 – Aynı Yönetmeliğin 61 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 61 —Radyasyon kaynaklarının ithali, ihracı ve taşınması için bu Yönetmeliğin 53 üncü maddesine göre lisans almış kişi ve kuruluşlar, ayrıca her ithal, ihraç ve taşıma için de izin almakla yükümlüdür. Verilen izinlerin geçerlilik süresi üç (3) aydır. Süre bitiminden önce Kuruma yazılı olarak yapılan ve mazereti içeren başvurunun Kurum tarafından uygun görülmesi halinde bu süre uzatılabilir.
+**"Madde 61 —**Radyasyon kaynaklarının ithali, ihracı ve taşınması için bu Yönetmeliğin 53 üncü maddesine göre lisans almış kişi ve kuruluşlar, ayrıca her ithal, ihraç ve taşıma için de izin almakla yükümlüdür. Verilen izinlerin geçerlilik süresi üç (3) aydır. Süre bitiminden önce Kuruma yazılı olarak yapılan ve mazereti içeren başvurunun Kurum tarafından uygun görülmesi halinde bu süre uzatılabilir.
 Aksi taktirde verilen iznin geçerliliği sona erer."
 
 
 MADDE 15 – Aynı Yönetmeliğin 62 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 62 —Lisans almış kuruluşlar ithalat işlemleri için ithalatın yapılacağı gümrük ismi belirtilerek, ithalata ait fatura veya proforma fatura ve ithal izni ücretinin yatırıldığını gösterir belge ile Kuruma yazılı olarak başvurur.
+**"Madde 62 —**Lisans almış kuruluşlar ithalat işlemleri için ithalatın yapılacağı gümrük ismi belirtilerek, ithalata ait fatura veya proforma fatura ve ithal izni ücretinin yatırıldığını gösterir belge ile Kuruma yazılı olarak başvurur.
 Radyoaktif kaynak ithal izinlerinde ayrıca Kurum tarafından gerekli görülen radyoaktif kaynaklar için kullanım amaçlarının ortadan kalkması halinde üretici veya yurt dışında bulunan ilgili firması tarafından geri alınacağına dair ithal lisansı olan kuruluş ile yurtdışındaki üretici veya satıcı firmadan taahhütname, Kurum tarafından esas ve usulleri belirlenen her türlü teminat ile Kurum tarafından ihtiyaç duyulması halinde bu Yönetmeliğin 51 inci maddesinde belirtilen belgelerden gerekli görülenler istenir.
 Kullanılmış tıbbi amaçlı cihazlara ve görüntü şiddetlendirici sistemi bulundurmayan floroskopi cihazlara ithal izni verilmez."
 
 
 MADDE 16 – Aynı Yönetmeliğin 63 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 63 —Radyasyon kaynaklarını ticari amaç dışında sadece kendi çalışmalarında kullanmak üzere yapılacak ithalata izin verilebilmesi için lisans sahibi/lisans başvurusu Kurum tarafından uygun bulunan kişi, kurum yada kuruluş, Kurum tarafından istenilen bilgi ve belgeleri eksiksiz tamamlayarak, yazılı olarak Kuruma başvurur.
+**"Madde 63 —**Radyasyon kaynaklarını ticari amaç dışında sadece kendi çalışmalarında kullanmak üzere yapılacak ithalata izin verilebilmesi için lisans sahibi/lisans başvurusu Kurum tarafından uygun bulunan kişi, kurum yada kuruluş, Kurum tarafından istenilen bilgi ve belgeleri eksiksiz tamamlayarak, yazılı olarak Kuruma başvurur.
 Kullanıcı veya ithalat lisanslı olan kuruluşlar tarafından, finansal kiralama/leasing kuruluşları aracılığı ile ithalatın yapılması durumunda, 51 ve 62 nci maddelerde gerekli görülen bilgi ve belgelere ilaveten ithal edilen kaynağın emniyeti ve güvenliğinin sağlanması amacıyla Kurum tarafından istenilen diğer belgeleri de eksiksiz tamamlayarak yazılı olarak Kuruma başvurur. Bu kapsamda yapılan ithalatlarda olabilecek anlaşmazlıklarda ithalatı söz konusu malzeme, Kurum tarafından belirlenecek depolarda muhafaza altına alınır.
 Radyasyon kaynaklarının herhangi bir nedenle satılması/devredilmesi işlemi; satış/devir yapılacak kuruluşun lisans almak üzere yaptığı başvurunun, Kurum tarafından uygun görülmesi halinde gerçekleşir. Aksi takdirde bu Yönetmeliğin 75 inci maddesi hükümleri uygulanır."
 
 
 MADDE 17 – Aynı Yönetmeliğin 64 üncü maddesinin başlığı aşağıdaki şekilde değiştirilmiştir.
-"Radyoaktif madde teslimat koşulu"
+"**Radyoaktif madde teslimat koşulu"**
 
 
 MADDE 18 – Aynı Yönetmeliğin 71 inci maddesinin (a) ve (g) bentleri aşağıdaki şekilde değiştirilmiştir.
@@ -117,17 +117,17 @@ MADDE 18 – Aynı Yönetmeliğin 71 inci maddesinin (a) ve (g) bentleri aşağ�
 
 
 MADDE 19 – Aynı Yönetmeliğin 72 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
-"Yönetimin sorumlulukları
+"**Yönetimin sorumlulukları**
 
-Madde 72 —Lisanslı faaliyetlerin mevzuata uygun olarak yürütülmesini ve sürekliliğini sağlamak için gerekli insan gücü ile teknik ve finansal altyapıyı temin etmek ve lisans sahibi ve Yönetimin farklı olması durumunda, bu Yönetmeliğin 71 inci maddesinde belirtilen hususları yerine getirmekle yükümlüdür."
+**Madde 72 —**Lisanslı faaliyetlerin mevzuata uygun olarak yürütülmesini ve sürekliliğini sağlamak için gerekli insan gücü ile teknik ve finansal altyapıyı temin etmek ve lisans sahibi ve Yönetimin farklı olması durumunda, bu Yönetmeliğin 71 inci maddesinde belirtilen hususları yerine getirmekle yükümlüdür."
 
 
 MADDE 20 – Aynı Yönetmeliğin 73 üncü maddesinin (a), (c), (f) ve (g) bentleri aşağıdaki şekilde değiştirilmiştir.
-"a) Tesisin, sistemlerin, çalışanların ve hastaların radyasyon ölçümleri için uygun cihazların bulundurulmasını, kullanılmasını ve mevcut cihazların gerekli kalibrasyonlarının yapılmasını sağlamak," "c) Radyasyon kaynaklarının emniyeti ve radyasyon güvenliğine ilişkin standart ve mevzuatın uygulanması için lisans sahibi ile birlikte yerel talimatları hazırlamak, hazırlanan planlar doğrultusunda çalışanları bilgilendirmek, uygulanmasını sağlamak ve tehlike veya kaza durumu için "Tehlike Durum Planı"nı hazırlamak, planda belirtilen hususlarla ilgili tatbikatları yapmak ve gerektiğinde uygulanmasını sağlamak," "f) Radyasyon kaynaklarının emniyetini ve güvenliğini sağlamak, sızıntı testini, depolanmasını ve takibini yapmak," "g) Radyoaktif atıkların yönetimi için gerekli işlemleri yürütmek, zorunlu nedenlerle tesis içinde geçici olarak depolanmak durumunda kalan kapalı radyoaktif kaynakların emniyetini ve güvenliğini sağlamak," Yürürlük
+"a) Tesisin, sistemlerin, çalışanların ve hastaların radyasyon ölçümleri için uygun cihazların bulundurulmasını, kullanılmasını ve mevcut cihazların gerekli kalibrasyonlarının yapılmasını sağlamak," "c) Radyasyon kaynaklarının emniyeti ve radyasyon güvenliğine ilişkin standart ve mevzuatın uygulanması için lisans sahibi ile birlikte yerel talimatları hazırlamak, hazırlanan planlar doğrultusunda çalışanları bilgilendirmek, uygulanmasını sağlamak ve tehlike veya kaza durumu için "Tehlike Durum Planı"nı hazırlamak, planda belirtilen hususlarla ilgili tatbikatları yapmak ve gerektiğinde uygulanmasını sağlamak," "f) Radyasyon kaynaklarının emniyetini ve güvenliğini sağlamak, sızıntı testini, depolanmasını ve takibini yapmak," "g) Radyoaktif atıkların yönetimi için gerekli işlemleri yürütmek, zorunlu nedenlerle tesis içinde geçici olarak depolanmak durumunda kalan kapalı radyoaktif kaynakların emniyetini ve güvenliğini sağlamak," **Yürürlük**
 
 
 MADDE 21 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
-Yürütme
+**Yürütme**
 
 
 MADDE 22 – Bu Yönetmelik hükümlerini Başbakan yürütür.

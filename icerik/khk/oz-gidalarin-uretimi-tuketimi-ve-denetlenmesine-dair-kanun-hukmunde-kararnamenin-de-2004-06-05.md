@@ -19,7 +19,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2004/06/20040605.htm#2"
 
 ### YASAMA BÖLÜMÜ
 
-Kanunlar
+**Kanunlar**
 
 5177 Maden Kanununda ve Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanun
 
@@ -29,7 +29,7 @@ Kanunlar
 
 ### YÜRÜTME VE İDARE BÖLÜMÜ
 
-Bakanlar Kurulu Kararları
+**Bakanlar Kurulu Kararları**
 
 2004/7356 Sürekli Görevle Yurt Dışında Bulunan Memurların Aylıklarına Uygulanacak Katsayı Hakkında Karar
 
@@ -37,15 +37,15 @@ Bakanlar Kurulu Kararları
 
 — 11/5/2004 Tarihli ve 25459 Sayılı Resmî Gazete’nin 17 nci Sayfasında Yayımlanan, 28/4/2004 Tarihli ve 2004/7220 Sayılı Kararnamenin Eki Karar
 
-Atama Kararları
+**Atama Kararları**
 
 — Devlet Bakanı ve Başbakan Yardımcılığı, Devlet, İçişleri, Milli Eğitim, Bayındırlık, Sağlık, Tarım ve Köyişleri, Çalışma ve Sosyal Güvenlik, Sanayi ve Ticaret, Enerji ve Tabii Kaynaklar, Kültür ve Turizm Bakanlıkları ile Çevre ve Orman Bakanlıklarına Ait Atama Kararları
 
-Yönetmelik
+**Yönetmelik**
 
 — Fatih Üniversitesi Atatürk İlkeleri ve İnkılâp Tarihi Uygulama ve Araştırma Merkezi Yönetmeliği
 
-Tebliğler
+**Tebliğler**
 
 — Aksaz Deniz Üs Komutanlığı İkinci Derece Kara ve Deniz Askeri Yasak Böl geleri Dış Sınırlarının Koordinatları
 
@@ -53,19 +53,19 @@ Tebliğler
 
 — Amas ya İli Sınırları İçerisinde, Orman Yangınlarının Önlenmesi Amacıyla Alınması Gereken Tedbirler Hakkında Karar (No: 2004/1)
 
-Kurul Kararı
+**Kurul Kararı**
 
 — Enerji Piyasası Düzenleme Kurumunun 325/27 Sayılı Kararı
 
 ### YASAMA BÖLÜMÜ
 
-Kanunlar
+**Kanunlar**
 
-Maden Kanununda ve Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanun
+**Maden Kanununda ve Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanun**
 
 | Kanun No. 5177 | Kabul Tarihi : 26.5.2004 |
 
-MADDE 1.- 4.6.1985 tarihli ve 3213 sayılı Maden Kanununun 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1.-** 4.6.1985 tarihli ve 3213 sayılı Maden Kanununun 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 2. - Yer kabuğunda ve su kaynaklarında tabii olarak bulunan, ekonomik ve ticarî değeri olan petrol, doğal gaz, jeotermal ve su kaynakları dışında kalan her türlü madde bu Kanuna göre madendir.
 
@@ -101,7 +101,7 @@ Bu gruplarda yer alan madenlerin özellikleri ile bu maddede yer almayan bir mad
 
 Bu Kanuna gör e verilen ruhsatlar başka amaçla kullanılmaz.
 
-MADDE 2.- Maden Kanununun 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 2.-** Maden Kanununun 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 3.- Kanunda geçen deyimler aşağıda açıklanmıştır:
 
@@ -177,7 +177,7 @@ Mücbir Sebep : Sel, yangın, deprem, grizu patlaması, çökme, heyelan ve benz
 
 Beklenmeyen Haller : Tenör, jeoloji, pazarlama, ulaştırma ve alt yapı şartlarındaki beklenmeyen değişiklikler ile ilgili mevzuat gereğince diğer kurumlardan alınması gereken izinlerin alınamaması durumları.
 
-MADDE 3.- Maden Kanununun 7 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 3.-** Maden Kanununun 7 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 Madencilik faaliyetlerinde izinler
 
@@ -203,7 +203,7 @@ Madencilik faaliyetleri ve/veya bu faaliyetlere bağlı tesisler için verilmiş
 
 Bu madde hükümlerine aykırı faaliyette bulunulduğunun tespiti halinde, ruhsat teminatı irad kaydedilerek bu alandaki faaliyet durdurulur. Beş yıl içinde üç kez bu maddenin ihlâli halinde teminatın tamamı irad kaydedilerek ruhsat iptal edilir.
 
-MADDE 4.- Maden Kanununun 9 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 4.-** Maden Kanununun 9 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 9.- Madencilik faaliyetleri Bakanlar Kurulu tarafından belirlenen teşviklerden yararlandırılır.
 
@@ -211,7 +211,7 @@ Madde 9.- Madencilik faaliyetleri Bakanlar Kurulu tarafından belirlenen teşvik
 
 I. Grup madenler ve mıcır ile kaba inşaat, baraj, gölet, liman, yol gibi yapılarda kullanılan her türlü yapı hammaddesi yukarıda belirtilen teşviklerden yararlandırılmaz.
 
-MADDE 5.- Maden Kanununun 10 uncu maddesinin üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiş, maddeye dördüncü fıkradan sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
+**MADDE 5.-** Maden Kanununun 10 uncu maddesinin üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiş, maddeye dördüncü fıkradan sonra gelmek üzere aşağıdaki fıkralar eklenmiştir.
 
 Beyanlardaki hata ve noksanlıklar, idarenin tespiti ve sorumluların uyarılmasından itibaren iki ay içerisinde düzeltilir. Bu sürede gerekli düzeltmenin yapılmaması halinde teminat irad kaydedilir.
 
@@ -223,7 +223,7 @@ Gerçek dışı ve yanıltıcı beyanlar yönetmelikte tarif edilir. Tarif edile
 
 Bu maddede belirtilen şekilde iktisap edilen haklar geri alınır.
 
-MADDE 6.- Mad en Kanununun 12 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 6.-** Mad en Kanununun 12 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 Üretim ve sevkiyat
 
@@ -239,7 +239,7 @@ Ruhsat veya işletme izni olmadan üretim faaliyetinde bulunulduğunun tespiti h
 
 Ticarî amaç taşımayan ve köylülerin kendi zorunlu ihtiyaçlarını karşılamak üzere köy muhtarının yazılı izni ile üretilip sevk edilen yapı hammaddeleri için bu madde hükmü uygulanmaz. Harç ve Devlet hakkı alınmaz.
 
-MADDE 7.- Maden Kanununun 13 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 7.-** Maden Kanununun 13 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 
 Harç, teminat, cezalar ve diğer yaptırımlar
 
@@ -257,7 +257,7 @@ I. Grup (a) bendi madenlerin teminatları ile irad kaydedilen teminatları il ö
 
 Bakanlıkça verilen idarî para cezaları ve tahakkuk eden Devlet hakları ile ruhsat harçları 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre takip ve tahsil edilmek üzere ilgili Defterdarlığa bildirilir.
 
-MADDE 8.- Maden Kanununun 14 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 8.-** Maden Kanununun 14 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 
 Devlet hakkı ve özel idare payı
 
@@ -281,7 +281,7 @@ Kamu kurum ve kuruluşlarınca yol, köprü, baraj, gölet, liman gibi projeleri
 
 Süresinde tahakkuk ettirilmeyen Devlet hakkına, tahakkuk ettirilmesi gereken ayın son gününden tahakkuk ettirildiği tarihe kadar geçen süre için 6183 sayılı Kanunun 51 inci maddesine göre hesaplanacak gecikme zammı oranında faiz uygulanır.
 
-MADDE 9.- Maden Kanununun 15 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 9.-** Maden Kanununun 15 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 
 Buluculuk hakkı
 
@@ -291,7 +291,7 @@ Buluculuğa konu madenin bulucusu dışında bir başkası tarafından işletilm
 
 Buluculuk hakkı, yıllık ocak başı satış tutarının % 1' idir.
 
-MADDE 10.- Maden Kanununun 16 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 10.-** Maden Kanununun 16 ncı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 
 İlk müracaat ve ruhsatlandırma
 
@@ -317,7 +317,7 @@ Bir grup için verilen ruhsat, diğer gruptaki madenler için hak sağlamaz. Anc
 
 Aynı grup ruhsatlar birbiri üzerine verilemez. Kazanılmış haklar korunmak kaydı ile ayrı grup ruhsatların birbiri üzerine verilebilmesine ilişkin usul ve esaslar yönetmelikle belirlenir.
 
-MADDE 11.- Maden Kanununun 17 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11.-** Maden Kanununun 17 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 
 Arama faaliyeti
 
@@ -333,7 +333,7 @@ Arama döneminde teknolojik araştırma, geliştirme, pilot çalışmalar ve paz
 
 Arama döneminde üretim yapılması durumunda satış bilgi formunun 29 uncu maddede belirtilen sürede verilmesi zorunludur.
 
-MADDE 12.- Maden Kanununun 24 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 12.-** Maden Kanununun 24 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 
 İşletme ruhsatı ve madenin işletilmesi
 
@@ -363,7 +363,7 @@ Beş yıllık sürede mücbir sebepler ve beklenmeyen haller dışında üç yı
 
 Ereğli Kömür Havzasındaki taşkömürü ve 2840 sayılı Bor Tuzları, Trona ve Asfaltit Madenleri ile Nükleer Enerji Hammaddelerinin İşletilmesini, Linyit ve Demir Sahalarının Bazılarının İadesini Düzenleyen Kanunda sayılan bor tuzu, toryum ve uranyum madenleri için bu maddede yazılı süreler uygulanmaz.
 
-MADDE 13.- Maden Kanununun 29 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 13.-** Maden Kanununun 29 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 29. - İşletme faaliyeti, projesine ve Kanunun ilgili hükümlerine göre yürütülür.
 
@@ -375,7 +375,7 @@ Ruhsat sahibi, her yıl nisan ayı sonuna kadar bir önceki yıl içinde gerçek
 
 I. Grup (a) bendi m adenler için ruhsat sahibi, her yıl nisan ayı sonuna kadar bir önceki yıl içinde gerçekleştirdiği işletme faaliyeti ile ilgili satış bilgi formunu, faaliyet bilgi formunu il özel idaresine vermekle yükümlüdür. Yükümlülüğün yerine getirilmemesi halinde t eminat il özel idaresi hesabına irad kaydedilir. Yükümlülük yerine getirilinceye kadar faaliyet durdurulur.
 
-MADDE 14.- Maden Kanununun 30 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 14.-** Maden Kanununun 30 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 30.- Herhangi bir sebeple hükümden düşmüş, terk edilmiş veya taksir edilmiş alanlar ihale yolu ile aramalara açılır. İhale ilânı Resmi Gazetede yayımlanır.
 
@@ -387,7 +387,7 @@ Mülga 6309 sayılı Maden Kanunu hükümleri uyarınca verilmiş olan ve bu Kan
 
 Sahalarının ihalesinden elde edilen gelirler genel bütçeye özel gelir ve Bakanlık bütçesine özel ödenek kaydedilir .
 
-MADDE 15.- Maden Kanununun 31 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 15.-** Maden Kanununun 31 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 Teknik nezaret
 
@@ -397,7 +397,7 @@ Madde 31.- Maden üretimi, bir maden mühendisi nezaretinde yapılır. Maden mü
 
 Maden mühendisi istihdamı veya nezareti gerçekleşmeden üretim yapılması halinde ruhsat teminatı irad kaydedilerek faaliyet durdurulur. Maden mühendisi istihdamı/nezareti sağlanması ve teminatın yenilenmesi ile faaliyete izin ve rilir.
 
-MADDE 16.- Maden Kanununun 32 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 16.-** Maden Kanununun 32 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 Ruhsatın hükümden düşmesi ve alınacak tedbirler
 
@@ -409,7 +409,7 @@ Ruhsat sahibi yukarıda belirtilen tedbirleri en geç altı ay içerisinde almak
 
 Mücbir sebepler dışında bu süre içerisinde yukarıdaki tedbirleri almayan ruhsat sahibine üç aylık ek bir süre verilir. Verilen bu sürede de gerekli tedbirler alınmamış ise bu tedbirler valilik tarafından yerine getirilir. Valilik tarafından yapılan masraflar ruhsat teminatından karşılanır. Te m inatın yeterli olmaması durumunda yapılan masraflar 6183 sayılı Kanuna göre tahsil edilir.
 
-MADDE 17.- Maden Kanununun 35 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 17.-** Maden Kanununun 35 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 
 İnceleme ve denetim giderleri
 
@@ -419,7 +419,7 @@ Madencilik faaliye tlerinin incelenmesi ve denetimleri için görevlendirilen pe
 
 Bu maddeye göre yapılacak ödemelerden damga vergisi hariç herhangi bir vergi alınmaz ve kesinti yapılmaz.
 
-MADDE 18.- Maden Kanununun 36 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 18.-** Maden Kanununun 36 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 36.- Madencilik ve müteakip safhalarındaki faaliyetler sırasında; cevher, metal veya ekonomik değer ihtiva eden, günün şartlarında teknik veya ekonomik değerlendirmesi mümkün olmayan pasa, zenginleştirme bakiye yığını ve cüruflar, çevre kirliliği açısından mahzur teşkil etmiyorsa geçirildikleri son işlemden çıktıkları şekliyle ayrı ayrı muhafaza edilir. Bu bakiye ve pasa yığınlarının miktarları, fizikî özellikleri, usulüne göre alınmış numunelerin analiz raporları ve döküm alanları, faaliyet raporları, plân ve haritalarda gösterilir.
 
@@ -427,7 +427,7 @@ Madde 36.- Madencilik ve müteakip safhalarındaki faaliyetler sırasında; cevh
 
 Birinci fıkraya aykırı hareket edenlerin teminatları irad kaydedilir.
 
-MADDE 19.- Maden Kanununun 37 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmişti r.
+**MADDE 19.-** Maden Kanununun 37 nci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmişti r.
 
 Mücbir sebeplerle geçici tatil
 
@@ -439,7 +439,7 @@ Geçici tatil gerektiren durumun ortadan kalkmasından itibaren üç ay içinde 
 
 E reğli Kömür Havzasındaki taşkömürleri ve 2840 sayılı Kanunda sayılan bor tuzu, toryum ve uranyum madenleri için bu maddede yer alan süre kısıtlamaları uygulanmaz.
 
-MADDE 20.- Maden Kanununun 46 ncı maddesinin üçüncü fıkrasında geçen "ön işletme ve/veya" ibaresi ile "ön işletme ve" ibaresi metinden çıkarılmış ve maddeye aşağıdaki fıkralar eklenmiştir.
+**MADDE 20.-** Maden Kanununun 46 ncı maddesinin üçüncü fıkrasında geçen "ön işletme ve/veya" ibaresi ile "ön işletme ve" ibaresi metinden çıkarılmış ve maddeye aşağıdaki fıkralar eklenmiştir.
 
 İşletme ruhsatı safhasında işletme faaliyetleri için gerekli olan özel mülkiyete konu taşınmaz, taraflarca anlaşma sağlanamaması ve işletme ruhsatı sahibinin talebi üzerine Bakanlıkça kamu yararı bulunduğuna karar verilmesi halinde kamulaştırılır.
 
@@ -455,7 +455,7 @@ Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufundaki yerlerde y
 
 I. Grup madenler ve mıcır ile kaba inşaat, baraj, gölet, liman, yol gibi yapılarda kullanılan her türlü yapı hammaddesi için kamulaştırma hükümleri uygulanmaz.
 
-MADDE 21.- Maden Kanununun 47 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 21.-** Maden Kanununun 47 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 47.- Maden Tetkik ve Arama Genel Müdürlüğü herhangi bir ruhsat veya izne gerek kalmadan, madencilik yapılabilecek bütün sahalarda, Kurumun yürüttüğü bir projeye bağlı olarak arama faaliyetlerinde bulunabilir. Üçüncü kişilere ait ruhsatlı alanlarda yaptıkları arama faaliyetleri sonucunda bulduğu aynı grup madenler ile ilgili hiçbir hak talebinde bulunamaz. Bu alanlar içinde arama ruhsatını aldığı diğer grup made n ler, ruhsat süresi sonunda Genel Müdürlük tarafından 30 uncu madde hükümlerine göre ihale edilir. İşletme izin sınırları içerisindeki arama faaliyetleri ruhsat sahibinden izin alınarak yapılır.
 
@@ -465,11 +465,11 @@ Maden Tetkik ve Arama Genel Müdürlüğü bu Kanun hükümlerine göre arama ru
 
 Maden Tetkik ve Arama Genel Müdürlüğü tarafından arama ve araştırma faaliyetlerinde bulunmak üzere memuriyet mahalli dışında görevlendirilen personele Harcırah Kanununun 50 nci maddesi ile ilişkilendirilmeksizin, her yıl Bütçe Kanunu ile belirlenen gündelik harcırah miktarının iki katı tutarında, Harcırah Kanunu hükümlerine göre gündelik ödenir. Bu şeki l de görevlendirilen personele Harcırah Kanununun 50 nci maddesine göre ayrıca bir ödeme yapılmaz. Yapılacak söz konusu ödeme tutarının yarısı, Kurumun ücretli işlerinden sağladığı gelirlerden karşılanır.
 
-MADDE 22.- Maden Kanununun 49 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 22.-** Maden Kanununun 49 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 
 2840 sayılı Kanun hükümleri saklıdır. Bu Kanunun yürürlük tarihinden önce bulunmuş ve sonra bulunacak bor madenlerinin aranması ve işletilmesi 2840 sayılı Kanun hükümlerine tâbidir.
 
-MADDE 23.- Maden Kanununun e k 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 23.-** Maden Kanununun e k 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Ek Madde 1.- 3867 sayılı Ereğli Kömür Havzasındaki Ocakların Devletçe İşlettirilmesi Hakkında Kanun ile Devletçe işlettirilmesi kararlaştırılan Ereğli Kömür Havzasındaki madencilik faaliyetleri bu Kanun hükümlerine tâbidir.
 
@@ -483,7 +483,7 @@ Ereğli Kömür Havzasındaki taşkömürü için kamu tarafından yürütülece
 
 Ereğli Kömür Havzasının imtiyaz alanının Bakanlar Kurulu kararıyla küçültülmesi sonucu serbest kalan alanlar, koordinatları Genel Müdürlükçe belirlenerek bu Kanunun 30 uncu maddesine göre ihale edilir.
 
-MADDE 24.- Maden Kanununa aşağıdaki ek maddeler ilave edilmiştir.
+**MADDE 24.-** Maden Kanununa aşağıdaki ek maddeler ilave edilmiştir.
 
 EK MADDE 2.- Bakanlık, Genel Müdürlüğün bu Kanunda belirtilen yetkilerinden uygun gördüklerini valiliklere verebilir.
 
@@ -493,65 +493,65 @@ EK MADDE 4.- Maden Kanununun uygulanması ile ilgili eylem ve işlemler nedeni i
 
 EK MADDE 5.- Bu Kanuna ekli (1) sayılı listede yer alan kadrolar iptal edilerek, 190 sayılı Kanun Hükmünde Kararnamenin eki (III) sayılı cetvelin "Maden Tetkik ve Arama Genel Müdürlüğü" ile ilgili bölümünden çıkarılmış ve Maden İşleri Genel Müdürlüğünde kullanılmak üzere bu Kanuna ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin "Enerji ve Tabiî Kaynaklar Bakanlığı" ile ilgili bölümüne eklenmiştir.
 
-MADDE 25.- Maden Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 25.-** Maden Kanununa aşağıdaki geçici madde eklenmiştir.
 
 GEÇİCİ MADDE 12.- Elektronik posta ile yapılacak müracaatların başlama tarihi Genel Müdürlükçe ilân edilir.
 
-MADDE 26.- 21.7.1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun 7 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 26.-** 21.7.1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun 7 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 
 Korunması gerekli taşınmaz kültür ve tabiat varlıklarının ve doğal sit alanlarının tespiti, Kültür ve Turizm Bakanlığının koordinatörlüğünde ilgili ve faaliyetleri etkilenen kurum ve kuruluşların görüşü alınarak yapılır.
 
-MADDE 27.- Kültür ve Tabiat Varlıklarını Koruma Kanununun değişik 53 üncü maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
+**MADDE 27.-** Kültür ve Tabiat Varlıklarını Koruma Kanununun değişik 53 üncü maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
 
 (10) Maden İşleri Genel Müdürü veya Yardımcısı,
 
 (11) Doğa Koruma ve Milli Parklar Genel Müdürü veya Yardımcısı.
 
-MADDE 28.- 9.8.1983 tarihli ve 2872 sayılı Çevre Kanununun 10 uncu maddesine aşağıdaki fıkralar eklenmiştir.
+**MADDE 28.-** 9.8.1983 tarihli ve 2872 sayılı Çevre Kanununun 10 uncu maddesine aşağıdaki fıkralar eklenmiştir.
 
 Petrol, jeotermal kaynak ve maden arama faaliyetleri, çevresel etki değerlendirmesi (ÇED) kapsamı dışındadır.
 
 Madenlerin işletilmesi ile ilgili hususlar Maden Kanununun 7 nci maddesine göre yürütülür.
 
-MADDE 29.- 9.8.1983 tarihli ve 28 73 sayılı Milli Parklar Kanununun 3 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 29.-** 9.8.1983 tarihli ve 28 73 sayılı Milli Parklar Kanununun 3 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 
 Milli park karakterine sahip olduğu tespit edilen alanlar, Millî Savunma Bakanlığının olumlu görüşü, Enerji ve Tabiî Kaynaklar Bakanlığı ve Kültür ve Turizm Bakanlığı ile diğer ilgili bakanlıkların da görüşü alınarak, Çevre ve Orman Bakanlığının teklifi üzerine Bakanlar Kurulu kararı ile milli park olarak belirlenir.
 
-MADDE 30.- 23.7.1995 tarihli ve 4122 sayılı Milli Ağaçlandırma ve Erozyon Kontrolü Seferberlik Kanununun 13 üncü maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 30.-** 23.7.1995 tarihli ve 4122 sayılı Milli Ağaçlandırma ve Erozyon Kontrolü Seferberlik Kanununun 13 üncü maddesine aşağıdaki fıkra eklenmiştir.
 
 Bu Kanun kapsamında izin verilen alanlarda petrol ve maden arama ve işletme faaliyetleri, bu alanlarda yapılan masrafların ruhsat sahibince tazmin edilmesi şartıyla Orman Kanununun 16 ncı maddesine göre yapılır.
 
-MADDE 31.- Milli Ağaçlandırma ve Erozyon Kontrolü Seferberlik Kanununun 15 inci maddesinin (e) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 31.-** Milli Ağaçlandırma ve Erozyon Kontrolü Seferberlik Kanununun 15 inci maddesinin (e) bendi aşağıdaki şekilde değiştirilmiştir.
 
 e) Bu Kanun hükmüne göre tahsis edilen sahada halen petrol ve madencilik faaliyeti yapılmakta ise bu faaliyetin izin süresinin bitimine kadar, ruhsat süresinin uzatılması halinde de bu süre bitimine kadar bu sahalar hakkında ormansız alan statüsü uygulanır.
 
-MADDE 32.- 20.11.1981 tarihli ve 2560 sayılı İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanunun 20 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 32.-** 20.11.1981 tarihli ve 2560 sayılı İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanunun 20 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 
 Kanalizasyon şebekesine verilmesi sakıncalı maddeler ile içme suyu alınan havzaların korunması için gereken tedbir ve düzenlemeler, 2872 sayılı Çevre Kanunu hükümleri çerçevesinde Çevre ve Orman Bakanlığının uygun görüşü alınarak Genel Müdürlükçe çıkarılacak bir yönetmelikle belirlenir.
 
-MADDE 33.- 26.5.1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun mükerrer 97 nci maddesinin (b) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 33.-** 26.5.1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun mükerrer 97 nci maddesinin (b) bendi aşağıdaki şekilde değiştirilmiştir.
 
 b) Belediye sınırları ve mücavir alanlar içinde faaliyet gösteren maden işletmelerince, 3213 sayılı Maden Kanununun 14 üncü maddesinde yer alan paylara ilaveten yıllık satış tutarının % 0,2'si nispetinde belediye payı ayrılır.
 
 Bu pay, Devlet hakkının Hazineye ödenmesi sırasında ruhsat sahibi tarafından ilgili belediyeye ödenir.
 
-MADDE 34.- 31.8.1956 tarihli ve 6831 sayılı Orman Kanununun 16 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve maddenin sonuna aşağıdaki fıkra eklenmiştir.
+**MADDE 34.-** 31.8.1956 tarihli ve 6831 sayılı Orman Kanununun 16 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve maddenin sonuna aşağıdaki fıkra eklenmiştir.
 
 Devlet ormanları hudutları içerisinde maden aranması ve işletilmesi, Maden Kanununun 7 nci maddesinde belirtilen şartlara uyularak, ruhsat grubu gözetilmeksizin yapılır. Orman hudutları içinde alınan muvafakat süresi, temdit dahil işletme ruhsat süresi sonuna kadar devam eder. Ayrıca madencilik faaliyetleri için zorunlu; tesis, yol, enerji, su, haberleşme ve alt yapı tesislerine fon bedelleri hariç olmak üzere orman mevzuatı hükümlerine göre bedeli alı narak izin verilir.
 
 Madencilik faaliyetlerinin ve faaliyetlerle ilgili her türlü yer, yol, bina ile tesislerin hükmi şahsiyeti haiz amme müesseselerine ait ormanlarda veya özel ormanlarda yapılmak istenmesi halinde Çevre ve Orman Bakanlığınca izin verilebilir. Bu takdirde kullanım bedeli, kullanım süresi, yapılan bina ve tesislerin devri gibi hususlar genel hükümlere uygun olarak taraflarca tespit edilir.
 
-MADDE 35.- 4.11.1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun değişik 19 uncu maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 35.-** 4.11.1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun değişik 19 uncu maddesine aşağıdaki fıkra eklenmiştir.
 
 Başkası adına tapulu, sahipsiz ve/veya zilyedi tarafından iktisap edilmemiş yerin kamulaştırmasında binaların asgarî levazım bedeli, ağaçların ise 11 inci madde çerçevesinde takdir olunan bedeli zilyedine ödenir.
 
-MADDE 36.- 13.12.1983 t arihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin yeniden düzenlenen 13 üncü maddesinin değişik (b) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 36.-** 13.12.1983 t arihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin yeniden düzenlenen 13 üncü maddesinin değişik (b) bendi aşağıdaki şekilde değiştirilmiştir.
 
 b) Hazinenin özel mülkiyetindeki taşınmazların satışı, kiralanması, trampası ve üzerinde sınırlı aynî hak tesisi, Devletin hüküm ve tasarrufu altındaki yerlerin kiralanması ve bu yerler için gerekli görülen hallerde kullanma izni verilmesi işlemlerini yapmak,
 
-MADDE 37.- Maden Kanununun 6 ncı maddesinin üçüncü fıkrasındaki "ilgili dairenin" ibaresi "Genel Müdürlüğün", 38 inci maddesinin birinci fıkrasındaki "ilgili daire" ibaresi "Genel Müdürlük" ve 39 uncu maddesinin birinci fıkrasındaki "ilgili daireye" ibaresi "Genel Müdürlüğe" şeklinde değiştirilmiştir.
+**MADDE 37.-** Maden Kanununun 6 ncı maddesinin üçüncü fıkrasındaki "ilgili dairenin" ibaresi "Genel Müdürlüğün", 38 inci maddesinin birinci fıkrasındaki "ilgili daire" ibaresi "Genel Müdürlük" ve 39 uncu maddesinin birinci fıkrasındaki "ilgili daireye" ibaresi "Genel Müdürlüğe" şeklinde değiştirilmiştir.
 
-MADDE 38.- a ) 6.6.1901 tarihli Taşocakları Nizamnamesi,
+**MADDE 38.-** a ) 6.6.1901 tarihli Taşocakları Nizamnamesi,
 
 b) 15.2.1956 tarihli ve 6664 sayılı Taşocakları Muamelatının Tedviri ve Varidatının Tahsilinin Vilayet Hususi İdarelerine Ait Olduğu Hakkında Kanun,
 
@@ -625,13 +625,13 @@ GEÇİCİ MADDE 7.- 10.6.1983 tarihli ve 2840 sayılı Kanunun eki listedeki dem
 
 GEÇİCİ MADDE 8.- Bu Kanunun uygulamasına ilişkin tüm yönetmelikler Kanunun yürürlük tarihinden itibaren sekiz ay içinde çıkarılır.
 
-Yürürlük
+**Yürürlük**
 
-MADDE 39.- Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 39.-** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 40.- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 40.-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 4/6/2004
 
@@ -700,27 +700,27 @@ MADDE 40.- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 —— • ——
 
-Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun
+**Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun**
 
 | Kanun No. 5179 | Kabul Tarihi : 27.5.2004 |
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Tanımlar
+**Amaç**, Kapsam ve Tanımlar
 
 Amaç
 
-MADDE 1. - Bu Kanunun amacı, gıda güvenliğinin temini, her türlü gıda maddesinin ve gıda ile temasta bulunan madde ve malzemelerin teknik ve hijyenik şekilde üretim, işleme, muhafaza, depolama, pazarlama ve halkın gereği gibi beslenmesini sağlamak, üretici ve tüketici menfaatleriyle halk sağlığını korumak üze r e gıda maddelerinin üretiminde kullanılan her türlü ham, yarı mamul ve mamul gıda maddeleri ile gıda işlemeye yardımcı maddeler ve gıda ile temasta bulunan madde ve malzemelerin güvenliğine ilişkin özelliklerinin tespit edilmesi, gıda maddeleri üreten ve s atan işyerlerinin asgari teknik ve hijyenik şartlarının belirlenmesi, gıda maddeleri ile ilgili hizmetler ile denetimine dair usul ve esasları belirlemektir.
+**MADDE 1. -** Bu Kanunun amacı, gıda güvenliğinin temini, her türlü gıda maddesinin ve gıda ile temasta bulunan madde ve malzemelerin teknik ve hijyenik şekilde üretim, işleme, muhafaza, depolama, pazarlama ve halkın gereği gibi beslenmesini sağlamak, üretici ve tüketici menfaatleriyle halk sağlığını korumak üze r e gıda maddelerinin üretiminde kullanılan her türlü ham, yarı mamul ve mamul gıda maddeleri ile gıda işlemeye yardımcı maddeler ve gıda ile temasta bulunan madde ve malzemelerin güvenliğine ilişkin özelliklerinin tespit edilmesi, gıda maddeleri üreten ve s atan işyerlerinin asgari teknik ve hijyenik şartlarının belirlenmesi, gıda maddeleri ile ilgili hizmetler ile denetimine dair usul ve esasları belirlemektir.
 
-Kapsam
+**Kapsam**
 
-MADDE 2. - Bu Kanun; gıda güvenliğinin teminine, her türlü gıda maddesinin ve gıda ile temasta bulunan madde ve malzemelerin hijyenik ve uygun kalitede üretimine, tasnifine, işlenmesine, katkı ve gıda işlemeye yardımcı maddelere, ambalajlama, etiketleme, depolama, nakil, satış ve denetim usulleri ile yetki, görev ve sorumlulukları ile risk anal i zine, ihtiyatî tedbirlere, gıda ile tüketici haklarının korunmasına, izlenebilirlik ve bildirimlere dair hususları kapsar.
+**MADDE 2. -** Bu Kanun; gıda güvenliğinin teminine, her türlü gıda maddesinin ve gıda ile temasta bulunan madde ve malzemelerin hijyenik ve uygun kalitede üretimine, tasnifine, işlenmesine, katkı ve gıda işlemeye yardımcı maddelere, ambalajlama, etiketleme, depolama, nakil, satış ve denetim usulleri ile yetki, görev ve sorumlulukları ile risk anal i zine, ihtiyatî tedbirlere, gıda ile tüketici haklarının korunmasına, izlenebilirlik ve bildirimlere dair hususları kapsar.
 
 Bu Kanunda hüküm bulunmayan hallerde genel hükümler uygulanır.
 
-Tanımlar
+**Tanımlar**
 
-MADDE 3. - Bu Kanunda geçen;
+**MADDE 3. -** Bu Kanunda geçen;
 
 Bakanlık: Tarım ve Köyişleri Bakanlığını,
 
@@ -838,23 +838,23 @@ Tıbbî amaçlı bebek mamaları: Hasta bebeklerin diyetlerini düzenlemek amac�
 
 Üretim İzni, Gıda Sicili, Tescil, İstihdam ve Lâboratuvar Kuruluş İzni ile İlgili Yetki ve Sorumluluklar
 
-Üretim izni, gıda sicili ve tescil işleri
+**Üretim izni, gıda sicili ve tescil işleri**
 
-MADDE 4. - Gıda maddeleri ve gıda ile temas eden madde ve malzemeleri üreten işyerleri, bu konuda Bakanlıkça çıkarılacak yönetmelikte öngörülen asgarî teknik ve hijyenik şartlara uyarak gıda işyeri çalışma izni ve sicil numarasını almak zorundadır. Üretilecek gıda maddele r inin Türk Gıda Kodeksinde tanımı yapılmış olanların ilgili kodekse uygun üretileceğine dair yazılı beyan ile etiket örneğini ibraz etmesi üzerine söz konusu ürünlere, her ürün için izin belgesi ve numarası verilir. Türk Gıda Kodeksinde tanımlanmamış gıdal a rı üreten işyerleri, üretime geçmeden önce izin almak ve diğer tescil işlemlerini yaptırmak zorundadır. Alınan belgeler, alındığı şartların değişmemesi kaydıyla, miras yoluyla intikalinde geçerliliğini devam ettirir.
+**MADDE 4. -** Gıda maddeleri ve gıda ile temas eden madde ve malzemeleri üreten işyerleri, bu konuda Bakanlıkça çıkarılacak yönetmelikte öngörülen asgarî teknik ve hijyenik şartlara uyarak gıda işyeri çalışma izni ve sicil numarasını almak zorundadır. Üretilecek gıda maddele r inin Türk Gıda Kodeksinde tanımı yapılmış olanların ilgili kodekse uygun üretileceğine dair yazılı beyan ile etiket örneğini ibraz etmesi üzerine söz konusu ürünlere, her ürün için izin belgesi ve numarası verilir. Türk Gıda Kodeksinde tanımlanmamış gıdal a rı üreten işyerleri, üretime geçmeden önce izin almak ve diğer tescil işlemlerini yaptırmak zorundadır. Alınan belgeler, alındığı şartların değişmemesi kaydıyla, miras yoluyla intikalinde geçerliliğini devam ettirir.
 
 Üretim izni, gıda sicili ve gıda işyerlerinin taşıması gereken asgarî teknik ve hijyenik şartlara ait kurallar, Bakanlıkça çıkarılacak yönetmelikle belirlenir.
 
-Lâboratuvar kuruluş izni
+**Lâboratuvar kuruluş izni**
 
-MADDE 5. - Gıda maddelerinin ve gıda ile temas eden madde ve malzemelerin gıda güvenliği, hijyen ve kalite analizlerini yapmak üzere, Bakanlıkça yetkilendirilecek kamu ve özel lâboratuvarlar kurulabilir.
+**MADDE 5. -** Gıda maddelerinin ve gıda ile temas eden madde ve malzemelerin gıda güvenliği, hijyen ve kalite analizlerini yapmak üzere, Bakanlıkça yetkilendirilecek kamu ve özel lâboratuvarlar kurulabilir.
 
 Bu lâboratuvarların kuruluş, çalışma izin ve denetimi ile ilgili usul ve esaslar yönetmelikle belirlenir.
 
 Sağlık Bakanlığı ile Türk Silahlı Kuvvetleri yetkileri ç erçevesinde bulunan lâboratuvarlar için bu madde hükmü uygulanmaz.
 
-İstihdam
+**İstihdam**
 
-MADDE 6. - Gıda maddeleri ve gıda ile temasta bulunan madde ve malzemeleri üreten işyerlerinde, üretimin niteliğine göre sorumlu yönetici istihdamı zorunludur.
+**MADDE 6. -** Gıda maddeleri ve gıda ile temasta bulunan madde ve malzemeleri üreten işyerlerinde, üretimin niteliğine göre sorumlu yönetici istihdamı zorunludur.
 
 Sorumlu yönetici ola bilmeye ve sorumlu yöneticilerin yetki, sorumluluk ve çalıştırılmalarına ilişkin usul ve esaslar yönetmelikle belirlenir.
 
@@ -862,15 +862,15 @@ Sorumlu yönetici ola bilmeye ve sorumlu yöneticilerin yetki, sorumluluk ve ça
 
 Gıda Kodeksi, Ulusal Gıda Kodeksi Komisyonu, Risk Analizi, İhtiyatî Tedbirler, Bilimsel Komiteler ve Ulusal Gıda Meclisi
 
-Gıda kodeksi
+**Gıda kodeksi**
 
-MADDE 7. - Gıda maddelerinin asgarî kalite ve hijyen kriterleri, pestisit ve veteriner ilaç kalıntıları, katkı maddeleri, gıdaya bulaşan zararlı maddeler, numune alma, ambalajlama, etiketleme, nakliye, depolama esasları ve analiz metotlarını ihtiva eden Türk Gıda Kodeksi, Ulusal Gıda Kodeksi Komisyonu marifetince hazırlanır, Bakanlıkça yayımlanır ve denetlenir.
+**MADDE 7. -** Gıda maddelerinin asgarî kalite ve hijyen kriterleri, pestisit ve veteriner ilaç kalıntıları, katkı maddeleri, gıdaya bulaşan zararlı maddeler, numune alma, ambalajlama, etiketleme, nakliye, depolama esasları ve analiz metotlarını ihtiva eden Türk Gıda Kodeksi, **Ulusal Gıda Kodeksi Komisyonu** marifetince hazırlanır, Bakanlıkça yayımlanır ve denetlenir.
 
 Piyasaya arz edilecek gıda ürünlerinin gıda mevzuatına uygun olması zorunludur.
 
 Ulusal Gıda Kodeksi Komisyonu
 
-MADDE 8. - Gıda kodeksinin hazırlanması ve denetlenmesinde görevli olmak üzere Ulusal Gıda Kodeksi Komisyonu oluşturulur.
+**MADDE 8. -** Gıda kodeksinin hazırlanması ve denetlenmesinde görevli olmak üzere Ulusal Gıda Kodeksi Komisyonu oluşturulur.
 
 Komisyon; gıda konusunda görevli olmak üzere Bakanlıktan iki, Sağlık Bakanlığından bir üye, her iki Bakanlıkça ayrı ayrı seçilecek gıda konusunda temayüz etmiş birer bilim adamı, Türk Standartları Enstitüsünden bir üye ve en fazla üyeye sahip olan gıda konusunda faaliyet gösteren sivil toplum örgütünden seçilecek bir üyeden oluşur. Komisyon üyelerinin görev süresi iki yıldır. Komisyon, Bakanlık temsilcisinin b a şkanlığında toplanır ve sekretaryası Bakanlıkça yapılır.
 
@@ -886,9 +886,9 @@ Komisyo n, gıda kodeksi konusunda, ülkede en yetkili merci olup, aşağıdaki 
 
 Ulusal Gıda Kodeksi Komisyonu ve alt komisyonların çalışma usul ve esasları ile gıda kodeksi hazırlanma usul ve esasları Bakanlıkça çıkarılacak yönetmeliklerle belirlenir.
 
-Risk analizi
+**Risk analizi**
 
-MADDE 9. - İnsan sağlığının korunması ve gıda güvenliğinin sağlanabilmesi için gıda mevzuatı uygulamalarında risk analizi esas alınır. Ancak koşulların ve/veya alınan tedbirlerin, doğası gereği uygun olmaması durumunda risk analizi hariç tutulur.
+**MADDE 9. -** İnsan sağlığının korunması ve gıda güvenliğinin sağlanabilmesi için gıda mevzuatı uygulamalarında risk analizi esas alınır. Ancak koşulların ve/veya alınan tedbirlerin, doğası gereği uygun olmaması durumunda risk analizi hariç tutulur.
 
 Risk değerlendirmesi bilimsel kanıtlara dayandırılır; bağımsız, tarafsız ve şeffaf bir şekilde yapılır.
 
@@ -896,21 +896,21 @@ Risk yönetiminde, risk değerlendirmesi sonuçları dikkate alınır ve bu Kanu
 
 Risk analizi ile ilgili usul ve esaslar yönetmelikle belirlenir.
 
-İhtiyatî tedbirler
+**İhtiyatî tedbirler**
 
-MADDE 10. - İnsan sağlığı üzerinde zararlı bir etkinin olması ihtimalinin belirmesi ve bilimsel belirsizliklerin sürmesi gibi özel durumlarda, kapsamlı bir risk değerlendirmesine imkân sağlayacak ileri düzeyde bilimsel veriler elde edilinceye kadar, geçici risk yönetimi tedbirlerine başvurulabilir.
+**MADDE 10. -** İnsan sağlığı üzerinde zararlı bir etkinin olması ihtimalinin belirmesi ve bilimsel belirsizliklerin sürmesi gibi özel durumlarda, kapsamlı bir risk değerlendirmesine imkân sağlayacak ileri düzeyde bilimsel veriler elde edilinceye kadar, geçici risk yönetimi tedbirlerine başvurulabilir.
 
 İhtiyatî tedbirler ile ilgili usul ve esaslar yönetmelikle belirlenir.
 
-Bilimsel komiteler
+**Bilimsel komiteler**
 
-MADDE 11. - Risk değerlendirmesi için bilimsel ve teknik verileri araştırmak, toplamak, düzenlemek, analiz etmek, yorumlamak, özetlemek ve görüş oluşturmak üzere bilimsel komiteler kurulur.
+**MADDE 11. -** Risk değerlendirmesi için bilimsel ve teknik verileri araştırmak, toplamak, düzenlemek, analiz etmek, yorumlamak, özetlemek ve görüş oluşturmak üzere bilimsel komiteler kurulur.
 
 Bilimsel komitelerin kuruluş alanları, çalışma usul ve esasları yönetmelikle belirlenir.
 
-Ulusal Gıda Meclisi ve Gıda Bankaları Birliği
+**Ulusal Gıda Meclisi ve Gıda Bankaları Birliği**
 
-MADDE 12. - Bakanlık, gıda ile ilgili düzenlemelerin ve uygulamaların yapılmasında görüş ve önerilerini almak üzere Ulusal Gıda Meclisi oluşturur.
+**MADDE 12. -** Bakanlık, gıda ile ilgili düzenlemelerin ve uygulamaların yapılmasında görüş ve önerilerini almak üzere Ulusal Gıda Meclisi oluşturur.
 
 Meclis, Bakanın veya Bakanlık müsteşarının başkanlığında;
 
@@ -930,31 +930,31 @@ Meclisin ve Birliğin oluşumu ve çalışmasına ilişkin usul ve esaslar Bakan
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Bildirimler, Acil Durumlar, Kriz Yönetimi, İzlenebilirlik ve İşyeri Sorumluluğu
+**Bildirimler**, Acil Durumlar, Kriz Yönetimi, İzlenebilirlik ve İşyeri Sorumluluğu
 
 Bildirimler
 
-MADDE 13. - İnsan sağlığını korumak ve gıda güvenliği koşullarını sağlamak üzere, gıdadan kaynaklanan doğrudan veya dolaylı bir riskin bildirimine ilişkin sistemler Bakanlık tarafından kurulur.
+**MADDE 13. -** İnsan sağlığını korumak ve gıda güvenliği koşullarını sağlamak üzere, gıdadan kaynaklanan doğrudan veya dolaylı bir riskin bildirimine ilişkin sistemler Bakanlık tarafından kurulur.
 
 Gıdadan kaynaklanan doğrudan veya dolaylı bir riskle ilgili bir bilgiye sahip olunması halinde Bakanlık, bilgiyi hemen ilgili birimlere ve Sağlık Bakanlığına iletir ve gerekli tedbirleri alır.
 
 Bildirimler ile ilgili usul ve esaslar yönetmelikle belirlenir.
 
-Acil durumlar
+**Acil durumlar**
 
-MADDE 14. - Üretilen veya ithal edilen gıda maddesinin, sağlığa zararlı olabileceği ihtimalinin belirmesi durumunda, söz konusu gıda maddesinin pazara sunumu, kullanımı ve ithalatına ilişkin gerekli tedbirler ­alınır.
+**MADDE 14. -** Üretilen veya ithal edilen gıda maddesinin, sağlığa zararlı olabileceği ihtimalinin belirmesi durumunda, söz konusu gıda maddesinin pazara sunumu, kullanımı ve ithalatına ilişkin gerekli tedbirler ­alınır.
 
 Acil durumlarla ilgili usul ve esaslar yönetmelikle belirlenir.
 
-Kriz yönetimi
+**Kriz yönetimi**
 
-MADDE 15. - Gıda konusunda insan sağlığına karşı doğrudan veya dolaylı biçimde ciddi bir risk oluşturan durum saptandığında, bu riskin mevcut hükümlerle önlenememesi, giderilememesi veya azaltılamaması ya da acil durum tedbiriyle yeterince yönetilememesi durumunda, Bakanlık ile Sağlık Bakanlığı, ilgili tüm kurum ve kuruluşların da katılımı ile bilimsel ve teknik yardım sağlamak üzere bir kriz yönetimi ve kriz birimi oluş turur.
+**MADDE 15. -** Gıda konusunda insan sağlığına karşı doğrudan veya dolaylı biçimde ciddi bir risk oluşturan durum saptandığında, bu riskin mevcut hükümlerle önlenememesi, giderilememesi veya azaltılamaması ya da acil durum tedbiriyle yeterince yönetilememesi durumunda, Bakanlık ile Sağlık Bakanlığı, ilgili tüm kurum ve kuruluşların da katılımı ile bilimsel ve teknik yardım sağlamak üzere bir kriz yönetimi ve kriz birimi oluş turur.
 
 Kriz yönetimi ve kriz birimi ile ilgili usul ve esaslar yönetmelikle belirlenir.
 
-İzlenebilirlik
+**İzlenebilirlik**
 
-MADDE 16. - Gıda, gıdanın elde edildiği hayvan, bitki ya da gıda maddesinde öngörülen veya ortaya çıkması beklenen herhangi bir maddenin tespit edilmesi için üretim, işleme ve dağıtım ile ilgili tüm aşamalarda izlenebilirlik tesis edilir.
+**MADDE 16. -** Gıda, gıdanın elde edildiği hayvan, bitki ya da gıda maddesinde öngörülen veya ortaya çıkması beklenen herhangi bir maddenin tespit edilmesi için üretim, işleme ve dağıtım ile ilgili tüm aşamalarda izlenebilirlik tesis edilir.
 
 Gıda işletmecileri; gıda, gıdanın elde edildiği hayvan, bitki ya da gıda maddelerine karıştırılması tasarlanan herhangi bir maddeyi, kimden aldıklarını belirleyebilecek sisteme sahip olmak zorundadır. Gerektiğinde denetim sonucu oluşan bilgiler ilgili mercilere verilir.
 
@@ -962,9 +962,9 @@ Piyasaya sürülen gıdaların, izlenebilirliğini kolaylaştırmak amacıyla, g
 
 İzlene bilirlik ile ilgili usul ve esaslar yönetmelikle belirlenir.
 
-İşyeri sorumluluğu
+**İşyeri sorumluluğu**
 
-MADDE 17. - Gıda işletmecisi; ithal ettiği, ürettiği, işlediği, imal ettiği veya dağıtımını yaptığı gıdanın gıda güvenliği şartlarına uymaması durumunda, ürününü pazardan geri çekmek ve bu konuda yetkili mercileri bilgilendirmek zorundadır.
+**MADDE 17. -** Gıda işletmecisi; ithal ettiği, ürettiği, işlediği, imal ettiği veya dağıtımını yaptığı gıdanın gıda güvenliği şartlarına uymaması durumunda, ürününü pazardan geri çekmek ve bu konuda yetkili mercileri bilgilendirmek zorundadır.
 
 Gıda maddesinin toptan veya perakende satış ve/veya dağıtım faaliyetlerinden sorumlu kişiler; gıda güvenliği şartlarına sahip olmayan ürünleri pazardan geri çekmek, yetkili merciler tarafından alınan tedbirler ile ilgili olarak işbirliği yapmak, gıdanın izlenebilirliğine katkıda bulunmak zorundadır.
 
@@ -974,9 +974,9 @@ Gıda maddesinin toptan veya perakende satış ve/veya dağıtım faaliyetlerind
 
 Sağlığın Korunmasına İlişkin Hükümler
 
-Sağlığın korunması
+**Sağlığın korunması**
 
-MADDE 18. - İnsan sağlığının korunması amacıyla, gıda maddelerini ve gıda ile temas eden madde ve malzemeleri üreten ve/veya satan işyerleri;
+**MADDE 18. -** İnsan sağlığının korunması amacıyla, gıda maddelerini ve gıda ile temas eden madde ve malzemeleri üreten ve/veya satan işyerleri;
 
 a) Bakanlıkça çıkarılacak ilgili yönetmeliklerde belirtilen asgarî teknik, hijyenik ve güvenlik şartlarını taşımak zorundadır.
 
@@ -988,9 +988,9 @@ c) İnsan sağlığına zarar verecek muhteviyatta gıda maddeleri üretemez, i�
 
 Gıda Ticareti ile İlgili Hükümler
 
-Dış ticaret
+**Dış ticaret**
 
-MADDE 19. - İhracat ve ithalatta gıda maddeleri ve gıda ile temasta bulunan madde ve malzemelerin gıda güvenliği ve kalitesi yönünden denetim esaslarını oluşturmaya Bakanlık yetkilidir. Ancak, ihraç edilmek üzere üretildiğinin önceden ilgili mercilere bildirilmiş olması ve/veya ihraç edilecek ülke tarafından talepte bulunulduğunun ihracatçı tarafından beyan edil m esi halinde gıda kodeksine uygunluk aranmaz.
+**MADDE 19. -** İhracat ve ithalatta gıda maddeleri ve gıda ile temasta bulunan madde ve malzemelerin gıda güvenliği ve kalitesi yönünden denetim esaslarını oluşturmaya Bakanlık yetkilidir. Ancak, ihraç edilmek üzere üretildiğinin önceden ilgili mercilere bildirilmiş olması ve/veya ihraç edilecek ülke tarafından talepte bulunulduğunun ihracatçı tarafından beyan edil m esi halinde gıda kodeksine uygunluk aranmaz.
 
 İhraç edilen ürünün geri gelmesi halinde, halk sağlığını tehlikeye düşürmemek şartıyla ayniyat tespiti yapılarak yurda girişine izin verilir. Bu ürünlerin yurt içinde satışına ancak Türk Gıda Kodeksine uygun hale getirilmesi koşuluyla izin verilir.
 
@@ -1016,21 +1016,21 @@ Gıda maddelerinde Türk Gıda Kodeksine uygunluk aranmaz.
 
 İhracat ve ithalatta yapılacak denetimlere ilişkin usul ve esaslar Dış Ticaret Müsteşarlığının görüşü alınarak hazırlanacak yönetmelikle belirlenir.
 
-Gümrük merkezleri
+**Gümrük merkezleri**
 
-MADDE 20. - Bakanlık, ilgili kurumların görüşünü alarak, ithal ve ihraç edilecek gıda maddelerinin ve gıda ile temasta bulunan madde ve malzemelerin kontrolü için giriş ve çıkış gümrük kapılarını tespit ve ilân eder. Bu amaçla, tespit ve ilân edilen kapılarda, kontrol merkezleri kurulur.
+**MADDE 20. -** Bakanlık, ilgili kurumların görüşünü alarak, ithal ve ihraç edilecek gıda maddelerinin ve gıda ile temasta bulunan madde ve malzemelerin kontrolü için giriş ve çıkış gümrük kapılarını tespit ve ilân eder. Bu amaçla, tespit ve ilân edilen kapılarda, kontrol merkezleri kurulur.
 
-Reklam ve tanıtım
+**Reklam ve tanıtım**
 
-MADDE 21. - Gıda maddeleri ve gıda ile temasta bulunan madde ve malzemelerin etiketlenmesi, reklam ve tanıtımı; sahte, yanıltıcı veya gıdanın karakterine, yapısına, özellikle doğasına, özelliklerine, bileşimine, miktarına, dayanıklılığına, orijinine, üretim metoduna göre hatalı bir izlenim yaratacak, gıdanın sahip olmadığı etki ve özelliklere atıfta bulunacak, tüm benzer gıda maddeleri ile aynı öze l liklere sahip olduğu halde gıda maddesinin özel karakteristiklerine sahip olduğunu bildiren veya ima eden ifadeleri ve tüketiciyi yanıltacak yazı, resim, şekil ve benzerlerini içermemelidir.
+**MADDE 21. -** Gıda maddeleri ve gıda ile temasta bulunan madde ve malzemelerin etiketlenmesi, reklam ve tanıtımı; sahte, yanıltıcı veya gıdanın karakterine, yapısına, özellikle doğasına, özelliklerine, bileşimine, miktarına, dayanıklılığına, orijinine, üretim metoduna göre hatalı bir izlenim yaratacak, gıdanın sahip olmadığı etki ve özelliklere atıfta bulunacak, tüm benzer gıda maddeleri ile aynı öze l liklere sahip olduğu halde gıda maddesinin özel karakteristiklerine sahip olduğunu bildiren veya ima eden ifadeleri ve tüketiciyi yanıltacak yazı, resim, şekil ve benzerlerini içermemelidir.
 
 Reklam ve tanıtım ile ilgili usul ve esaslar yönetmelikle belirle nir.
 
 Ancak, bilimsel yöntemler ve klinik testlerle kanıtlanmış ve Bakanlık tarafından kabul edilen, fonksiyonel gıdalar/özel beyanlı gıdalar ve genetik modifiye gıdalar ile benzeri diğer konulara ilişkin usul ve esaslar, Bakanlıkça çıkarılacak yönetmelikl erle belirlenir.
 
-Tüketici haklarının korunması
+**Tüketici haklarının korunması**
 
-MADDE 22. - Tüketici haklarının korunması amacıyla, tüketiciler; her türlü gıda maddesi ve gıda ile temasta bulunan madde ve malzemeleri üreten, ithal eden ve satan gerçek veya tüzel kişiler tarafından bilgilendirilir. Lüzumu halinde gıdaların içeriği ve özelliği hakkında tüketicilerin bilgi sahibi olmaları sağlanır. Gıda maddeleri ile ilgili olarak tüketiciler yanıltılamaz ve yanlış yönlendirilemez.
+**MADDE 22. -** Tüketici haklarının korunması amacıyla, tüketiciler; her türlü gıda maddesi ve gıda ile temasta bulunan madde ve malzemeleri üreten, ithal eden ve satan gerçek veya tüzel kişiler tarafından bilgilendirilir. Lüzumu halinde gıdaların içeriği ve özelliği hakkında tüketicilerin bilgi sahibi olmaları sağlanır. Gıda maddeleri ile ilgili olarak tüketiciler yanıltılamaz ve yanlış yönlendirilemez.
 
 Gıda konusunda, tüketici haklarının korunması ve toplumun bütün kesimlerinin gıda kontrol safhalarına katılmasını sağlayacak tedbirler ve buna ilişkin usul ve esaslar yönetmelikle belirlenir.
 
@@ -1038,9 +1038,9 @@ Gıda konusunda, tüketici haklarının korunması ve toplumun bütün kesimleri
 
 Piyasa Gözetimi, Denetim, Kontrol ve Sertifikasyon ile İtiraz Hakkı
 
-Piyasa gözetimi ve denetimi
+**Piyasa gözetimi ve denetimi**
 
-MADDE 23. - Bu Kanun ve bu Kanuna istinaden çıkarılan mevzuatın uygulanmasına ilişkin olarak tüm gıda maddeleri ve gıda ile temas eden madde ve malzemeleri üreten, satan işyerleri ile bu yerlerde üretilen, satılan tüm gıda maddelerinin ve gıda ile temasta bulunan madde ve malzemelerin piyasa gözetimi ve denetimi, ilgili kurum ve kuruluşlarla işbirliği içinde yapılır. Ancak, halk sağlığını ilgilendiren acil durumlarda gerektiğinde, Sağlık Bakanlığının müdahale hakkı saklıdır.
+**MADDE 23. -** Bu Kanun ve bu Kanuna istinaden çıkarılan mevzuatın uygulanmasına ilişkin olarak tüm gıda maddeleri ve gıda ile temas eden madde ve malzemeleri üreten, satan işyerleri ile bu yerlerde üretilen, satılan tüm gıda maddelerinin ve gıda ile temasta bulunan madde ve malzemelerin piyasa gözetimi ve denetimi, ilgili kurum ve kuruluşlarla işbirliği içinde yapılır. Ancak, halk sağlığını ilgilendiren acil durumlarda gerektiğinde, Sağlık Bakanlığının müdahale hakkı saklıdır.
 
 Gıda maddeleri satış ve toplu tüketim yerlerinin denetimi, Sağlık Bakanlığının görüşü alınarak Bakanlığın belirleyeceği usul ve esaslar çerçevesinde ilgili mercilerce yapılır.
 
@@ -1048,9 +1048,9 @@ Bu Kanunun amaç ve kapsamına uygun olarak; gıda ve gıda ile temas eden madde
 
 657 sayılı Devlet Memurları Kanununa tâbi olup lise düzeyinde eğitimi olduğu halde, bu Kanunun yürürlüğe girdiği tarihten önce denetim görevi yapanların hakları saklıdır. Bu Kanun kapsamındaki gıda kontrol ve denetim hizmetlerini yapacak olanların seçimi ve yetiştirilmesine ilişkin usul ve esaslar yönetmelikle be lirlenir.
 
-Kontrol ve sertifikasyon
+**Kontrol ve sertifikasyon**
 
-MADDE 24. - Gıda üreten ve/veya satan işyerlerinde, Bakanlığın yetkilendireceği kamu ve/veya özel kuruluşlar tarafından kalite, risk analizi ve Bakanlığın uygun gördüğü benzeri diğer konularda, kontrol ve sertifikasyon hizmetleri yapılabilir. Yetkilendirilmiş kuruluşlar, bu Kanuna göre Bakanlıkça verilmesi gereken belgeler ve sertifikalar dışındaki belgeleri verir.
+**MADDE 24. -** Gıda üreten ve/veya satan işyerlerinde, Bakanlığın yetkilendireceği kamu ve/veya özel kuruluşlar tarafından kalite, risk analizi ve Bakanlığın uygun gördüğü benzeri diğer konularda, kontrol ve sertifikasyon hizmetleri yapılabilir. Yetkilendirilmiş kuruluşlar, bu Kanuna göre Bakanlıkça verilmesi gereken belgeler ve sertifikalar dışındaki belgeleri verir.
 
 Yetkilendirilmiş kuruluşlar tarafından verilecek sertifika, belge ve raporları gerekçesini belirtmek suretiyle iptal etmeye ve kuruluşlara verilen belgelendirme yetki süresini belirlemeye Bakanlık yetkilidir.
 
@@ -1058,9 +1058,9 @@ Yetki verilen kuruluşlar, Bakanlıkça belirlenen yetkileri çerçevesinde iş 
 
 Kontrol ve sertifikasyona ilişkin usul ve esaslar ile kuruluşların uyması gereken kriter ler yönetmelikle belirlenir.
 
-İtiraz hakkı
+**İtiraz hakkı**
 
-MADDE 25. - Gıda maddeleri ve gıda ile temas eden madde ve malzemeleri üreten, ithal ve ihraç eden ve satan işyeri yetkilileri, kontrol ve denetim sonuçları hakkında, ilgili mercilere itiraz edebilir.
+**MADDE 25. -** Gıda maddeleri ve gıda ile temas eden madde ve malzemeleri üreten, ithal ve ihraç eden ve satan işyeri yetkilileri, kontrol ve denetim sonuçları hakkında, ilgili mercilere itiraz edebilir.
 
 İtiraz hakkına ilişkin usul ve esaslar yönetmelikle belirlenir.
 
@@ -1068,31 +1068,31 @@ MADDE 25. - Gıda maddeleri ve gıda ile temas eden madde ve malzemeleri üreten
 
 Özel Hükümler
 
-Sularla ilgili hükümler
+**Sularla ilgili hükümler**
 
-MADDE 26.- Doğal kaynak, doğal maden, içme, tıbbî sular ile işlenmiş içme, işlenmiş kaynak ve işlenmiş maden suyu üretimi, uygun şekilde ambalajlanması ve satış esasları Sağlık Bakanlığınca belirlenir.
+**MADDE 26.-** Doğal kaynak, doğal maden, içme, tıbbî sular ile işlenmiş içme, işlenmiş kaynak ve işlenmiş maden suyu üretimi, uygun şekilde ambalajlanması ve satış esasları Sağlık Bakanlığınca belirlenir.
 
 Kendi doğasında bulunmayan herhangi bir katkı maddesi ilave edilen doğal kaynak, doğal maden, içme ile işlenmiş içme, işlenmiş kaynak, işlenmiş maden suyu ve yapay sodaların üretimi, uygun şekilde ambalajlanması ve satış esasları Bakanlıkça belirlenir.
 
 Bu konudaki usul ve esaslar, Bakanlık ve Sağlık Bakanlığınca çıkarılacak yönetmeliklerle belirlenir.
 
-Takviye edici gıdalar, bebek mamaları, özel tıbbî amaçlı diyet gıdalar, tıbbî amaçlı bebek mamaları
+**Takviye edici gıdalar, bebek mamaları, özel tıbbî amaçlı diyet gıdalar, tıbbî amaçlı bebek mamaları**
 
-MADDE 27. - Takviye edici gıdalar ve bebek mamalarının üretim, ithalat, ihracat ve denetimine ilişkin usul ve esaslar Bakanlıkça belirlenir.
+**MADDE 27. -** Takviye edici gıdalar ve bebek mamalarının üretim, ithalat, ihracat ve denetimine ilişkin usul ve esaslar Bakanlıkça belirlenir.
 
 Enteral beslenme ürünleri dahil özel tıbbî amaçlı diyet gıdalar, tıbbî amaçlı bebek mamaları ile ilaç olarak kullanımı bilimsel ve klinik olarak kanıtlanmış ancak reçeteye tabi olmayan ürünlerin üretim, ithalat, ihracat ve denetimine ilişkin usul ve esaslar Sağlık Bakanlığınca belirlenir.
 
-Serbest bölgelerle ilgili hükümler
+**Serbest bölgelerle ilgili hükümler**
 
-MADDE 28. - Türk gıda mevzuatına uymayan gıda maddeleri ve gıda ile temasta bulunan madde ve malzemeler serbest bölgelere getirilebilir, üretilebilir ve yurt dışı edilebilir. Serbest bölgelerdeki gıda ile ilgili faaliyetlere ilişkin usul ve esaslar, Dış Ticaret Müsteşarlığının görüşü alınmak suretiyle Baka n lık tarafından çıkarılacak yönetmelikle belirlenir.
+**MADDE 28. -** Türk gıda mevzuatına uymayan gıda maddeleri ve gıda ile temasta bulunan madde ve malzemeler serbest bölgelere getirilebilir, üretilebilir ve yurt dışı edilebilir. Serbest bölgelerdeki gıda ile ilgili faaliyetlere ilişkin usul ve esaslar, Dış Ticaret Müsteşarlığının görüşü alınmak suretiyle Baka n lık tarafından çıkarılacak yönetmelikle belirlenir.
 
 ### DOKUZUNCU BÖLÜM
 
 Ceza Hükümleri, Cezaların Tahsili ve İtirazlar
 
-Ceza hükümleri
+**Ceza hükümleri**
 
-MADDE 29. - Bu Kanuna uymayanlara uygulanacak cezai hükümler aşağıdaki şekilde düzenlenmiştir:
+**MADDE 29. -** Bu Kanuna uymayanlara uygulanacak cezai hükümler aşağıdaki şekilde düzenlenmiştir:
 
 a) 4 üncü maddede belirtilen iz in ve tescil işlemlerini yaptırmadan üretime geçen ve/veya bu ürünleri mübadele konusu yapan gerçek veya tüzel kişiler; üretimden men edilir, üretilen ürünlere el konulur ve birmilyar lira idarî para cezası ile cezalandırılır. Bu işletmelerin, tescil ve i z in işlemleri yapıldıktan sonra üretim yapmalarına izin verilir.
 
@@ -1132,39 +1132,39 @@ n) Üreticisi tarafından piyasadan toplattırılmasına karar verilen ürünler
 
 Bu madde uygulamasında, eylemin tekrarından maksat, aksine hüküm bulunmayan hallerde eylemin tespit edildiği tarihten itibaren bir yıl içinde, ilk cezaya konu eylemin tekrar işlenmesidir.
 
-Cezaların tahsili ve itirazlar
+**Cezaların tahsili ve itirazlar**
 
-MADDE 30. - Bu Kanunda yazılı olan idarî para cezaları, o yerin en büyük mülki amiri tarafından verilir. Verilen idarî para cezalarına dair kararlar ilgililere 11.2.1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre tebliğ edilir. Bu cezalara karşı, yetkili idare mahkemesine itiraz edilebilir. İtiraz, idarece verilen cezanın yerine getirilmesini durdurmaz. İtiraz üz e rine, verilen karar kesindir. İtiraz, zaruret görülmeyen hallerde evrak üzerinde inceleme yapılarak, en kısa sürede sonuçlandırılır. Bu Kanuna göre verilen idarî para cezaları 21.7.1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil olunur.
+**MADDE 30. -** Bu Kanunda yazılı olan idarî para cezaları, o yerin en büyük mülki amiri tarafından verilir. Verilen idarî para cezalarına dair kararlar ilgililere 11.2.1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre tebliğ edilir. Bu cezalara karşı, yetkili idare mahkemesine itiraz edilebilir. İtiraz, idarece verilen cezanın yerine getirilmesini durdurmaz. İtiraz üz e rine, verilen karar kesindir. İtiraz, zaruret görülmeyen hallerde evrak üzerinde inceleme yapılarak, en kısa sürede sonuçlandırılır. Bu Kanuna göre verilen idarî para cezaları 21.7.1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil olunur.
 
 ### ONUNCU BÖLÜM
 
 Çeşitli Hükümler
 
-MADDE 31. - Sağlık Bakanlığının, genel sağlığın korunması ve hijyen ile ilgili olarak, diğer mevzuattan kaynaklanan görev ve yetkileri saklıdır.
+**MADDE 31. -** Sağlık Bakanlığının, genel sağlığın korunması ve hijyen ile ilgili olarak, diğer mevzuattan kaynaklanan görev ve yetkileri saklıdır.
 
-Değiştirilen hükümler
+**Değiştirilen hükümler**
 
-MADDE 32. - 24.4.1930 tarih li ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 195 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 32. -** 24.4.1930 tarih li ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 195 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 195. - Seyyar esnaf, alakadar memurların teftişlerini ve numune almalarını kolaylaştırmaya ve kendilerine istedikleri izahatı vermeye mecburdurlar.
 
-MADDE 33. - 10.6.1930 tarihli ve 1705 sayılı Ticarette Tağşişin Men'i ve İhracatın Murakabesi ve Korunması Hakkında Kanunun 1 inci maddesinin başına "Gıda maddeleri hariç olmak üzere" ibaresi eklenmiştir.
+**MADDE 33. -** 10.6.1930 tarihli ve 1705 sayılı Ticarette Tağşişin Men'i ve İhracatın Murakabesi ve Korunması Hakkında Kanunun 1 inci maddesinin başına "Gıda maddeleri hariç olmak üzere" ibaresi eklenmiştir.
 
-MADDE 34. - 23.2.1995 tarihli ve 4077 sayılı Tüketicinin Korunması Hakkında Kanunun 17 nci maddesine aşağıdaki bent eklenmiştir.
+**MADDE 34. -** 23.2.1995 tarihli ve 4077 sayılı Tüketicinin Korunması Hakkında Kanunun 17 nci maddesine aşağıdaki bent eklenmiştir.
 
 y) Tarım ve Köyişleri Bakanlığından ve Sağlık Bakanlığından ikişer üye,
 
 Yürürlükten kaldırılan hükümler
 
-MADDE 35. - 19.3.1927 tarihli ve 992 sayılı Seriri ve Gıdai Taharriyat ve Tahlilat Yapılan ve Masli Teamüller Aranılan Umuma Mahsus Bakteriyoloji ve Kimya Lâboratuvarları Kanununun başlığında bulunan "ve Gıdai", 1 inci maddesindeki "gıdai ve" ile 7 nci maddesindeki "ve gıdai" ibareleri metinden çıkarılmıştır.
+**MADDE 35. -** 19.3.1927 tarihli ve 992 sayılı Seriri ve Gıdai Taharriyat ve Tahlilat Yapılan ve Masli Teamüller Aranılan Umuma Mahsus Bakteriyoloji ve Kimya Lâboratuvarları Kanununun başlığında bulunan "ve Gıdai", 1 inci maddesindeki "gıdai ve" ile 7 nci maddesindeki "ve gıdai" ibareleri metinden çıkarılmıştır.
 
-MADDE 36. - 3.4.1930 tarihli ve 1580 sayılı Belediye Kanununun 15 inci maddesinin ikinci fıkrasının (28) numaralı bendindeki "yiyeceği, içeceği ve", (61) numaralı bendindeki "ve hususi teşebbüs tarafından kurulan aynı mahiyetteki tesisleri sağlık ve teknik bakımlarından mura k abe etmek" ibareleri metinden çıkarılmış ve (77) numaralı bendi yürürlükten kaldırılmıştır.
+**MADDE 36. -** 3.4.1930 tarihli ve 1580 sayılı Belediye Kanununun 15 inci maddesinin ikinci fıkrasının (28) numaralı bendindeki "yiyeceği, içeceği ve", (61) numaralı bendindeki "ve hususi teşebbüs tarafından kurulan aynı mahiyetteki tesisleri sağlık ve teknik bakımlarından mura k abe etmek" ibareleri metinden çıkarılmış ve (77) numaralı bendi yürürlükten kaldırılmıştır.
 
-MADDE 37. - 24.4.1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 3 üncü maddesinin birinci fıkrasının (6) numaralı bendindeki "Gıdalar ile" ibaresi, 181 inci maddesinin birinci fıkrasındaki "Bütün gıda maddeleriyle" ibaresi, aynı maddenin ikinci fıkrasındaki "gıda maddeleri ile" ibaresi, 199 uncu maddesindeki "Her gıda maddesi ile" ibaresi ve ek 3 üncü maddesinin birinci fıkrasındaki "ve 188" ibaresi ve aynı maddenin son fıkrasındaki ", yenecek ve içilecek şeylere" ibaresi, 297 nci maddesindeki "ve 188" ibaresi metinden çıkarılmış ve 20 nci maddesinin birinci fıkrasının (8) numaralı bendi, 181 inci maddesinin son fıkrası, 183 üncü maddesinin (1) ve (4) numar a lı bentleri ile 170, 171, 172, 182, 184, 188, 189, 190, 191, 192, 193 ve 198 inci maddeleri yürürlükten kaldırılmıştır.
+**MADDE 37. -** 24.4.1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 3 üncü maddesinin birinci fıkrasının (6) numaralı bendindeki "Gıdalar ile" ibaresi, 181 inci maddesinin birinci fıkrasındaki "Bütün gıda maddeleriyle" ibaresi, aynı maddenin ikinci fıkrasındaki "gıda maddeleri ile" ibaresi, 199 uncu maddesindeki "Her gıda maddesi ile" ibaresi ve ek 3 üncü maddesinin birinci fıkrasındaki "ve 188" ibaresi ve aynı maddenin son fıkrasındaki ", yenecek ve içilecek şeylere" ibaresi, 297 nci maddesindeki "ve 188" ibaresi metinden çıkarılmış ve 20 nci maddesinin birinci fıkrasının (8) numaralı bendi, 181 inci maddesinin son fıkrası, 183 üncü maddesinin (1) ve (4) numar a lı bentleri ile 170, 171, 172, 182, 184, 188, 189, 190, 191, 192, 193 ve 198 inci maddeleri yürürlükten kaldırılmıştır.
 
-MADDE 38. - 8.6.1942 tarihli ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanununun 1 inci maddesinin dördüncü fıkrası ile 12, 13, 29, 30, 31 ve 34 üncü maddeleri yürürlükten kaldırılmıştır.
+**MADDE 38. -** 8.6.1942 tarihli ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanununun 1 inci maddesinin dördüncü fıkrası ile 12, 13, 29, 30, 31 ve 34 üncü maddeleri yürürlükten kaldırılmıştır.
 
-MADDE 39. - 3.11.1995 tarihli ve 4128 sayılı Kanunun 6 ve 7 nci maddeleri yürürlükten kaldırılmıştır.
+**MADDE 39. -** 3.11.1995 tarihli ve 4128 sayılı Kanunun 6 ve 7 nci maddeleri yürürlükten kaldırılmıştır.
 
 GEÇİCİ MADDE 1. - Bu Kanunda öngörülen yönetmelikler ve uygulamaya ilişkin sair usul ve esaslar yürürlüğe girinceye kadar 24.6.1995 tarihli ve 560 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnameye göre çıkarılan yönetmeliklerin bu Kanuna aykırı olmayan hükümleri uygulanmaya devam olunur. Bu Kanunda öngörülen yönetmelikler, Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde çıkartılır.
 
@@ -1182,27 +1182,27 @@ GEÇİCİ MADDE 5. – Bu Kanunun yayımlanmasından önce çalışma izni, üre
 
 GEÇİÇİ MADDE 6. - Bu Kanunla Bakanlığa verilen görevlerin yerine getirilmesinde, Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı ile Teknik Hizmetler Sınıfında uygun unvan ve derece bulunmaması halinde 2004 yılı için 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin 9 uncu maddesinin son fıkrası dikkate alınmaksızın boş kadrolarda unvan ve derece değişikliği yapmaya Bakanlar Kurulu yetkilidir.
 
-Yürürlük
+**Yürürlük**
 
-MADDE 40. - Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 40. -** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 41. - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 41. -** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 4/6/2004
 
 —— • ——
 
-Afyon İli Sincanlı İlçesinin Adının “Sinanpaşa” Olarak Değiştirilmesine Dair Kanun
+**Afyon İli Sincanlı İlçesinin Adının “Sinanpaşa” Olarak Değiştirilmesine Dair Kanun**
 
 | Kanun No. 5180 | Kabul Tarihi : 27.5.2004 |
 
-MADDE 1. — Afyon İli Sincanlı İlçesinin adı “Sinanpaşa” olarak değiştirilmiştir.
+**MADDE 1. —** Afyon İli Sincanlı İlçesinin adı “Sinanpaşa” olarak değiştirilmiştir.
 
-MADDE 2. — Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 2. —** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 3. — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 3. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 4/6/2004
 
@@ -1210,13 +1210,13 @@ Sayfa Başı
 
 ### YÜRÜTME VE İDARE BÖLÜMÜ
 
-Bakanlar Kurulu Kararları
+**Bakanlar Kurulu Kararları**
 
-Karar Sayısı : 2004/7356
+**Karar Sayısı : 2004/7356**
 
 Sürekli görevle yurt dışında bulunan memurların aylıklarına uygulanacak katsayı hakkındaki ekli Kararın ve eki cetvellerin yürürlüğe konulması; Devlet Personel Başkanlığı ile Dışişleri ve Maliye Bakanlıklarının görüşleri üzerine, 657 sayılı Devlet Memurları Kanununun 156 ve 157 nci maddelerine göre, Bakanlar Kurulu’nca 2/4/2004 tarihinde kararlaştırılmıştır.
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1235,11 +1235,11 @@ Ahmet Necdet SEZER
 | M.H.GÜLER | E. MUMCU | B.YILDIRIM |  |
 | Enerji ve Tabii Kaynaklar Bakanı | Kültür ve Turizm Bakanı | Çevre ve Orman Bakanı V. |  |
 
-2/4/2004 Tarihli ve 2004/7356 Sayılı Kararnamenin Eki
+**2/4/2004 Tarihli ve 2004/7356 Sayılı Kararnamenin Eki**
 
 ### KARAR
 
-Madde l - Kurumların yurt dışı kadrolarında görev alan Devlet memurlarının aylıklarının ödenmesinde,
+**Madde l -** Kurumların yurt dışı kadrolarında görev alan Devlet memurlarının aylıklarının ödenmesinde,
 
 a) 657 sayılı Devlet Memurları Kanununun değişik 43 üncü maddesinin (A) bendinde yer a lan Aylık Gösterge Tablosu,
 
@@ -1325,11 +1325,11 @@ Eşlerden her ikisinin de bu Karara göre aylık almaları halinde (d), (e) ve (
 
 —— • ——
 
-Karar Sayısı : 2004/7360
+**Karar Sayısı : 2004/7360**
 
 Ekli “2004-2005 Dönemi Hububat Ürünü Alımı ve Satımı Hakkında Karar”ın yürürlüğe konulması; Tarım ve Köyişleri Bakanlığı’nın 26/5/2004 tarihli ve 2503 sayılı yazısı üzerine, 233 sayılı Kanun Hükmünde Kararnamenin 35 inci maddesine göre, Bakanlar Kurulu’nca 28/5/2004 tarihinde kararlaştırılmıştır.
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBA ŞKANI
 
@@ -1348,9 +1348,9 @@ Ahmet Necdet SEZER
 | E. MUMCU | E. MUMCU | H.ÇELİK |  |
 | Enerji ve Tabii Kaynaklar Bakanı V. | Kültür ve Turizm Bakanı | Çevre ve Orman Bakanı V. |  |
 
-2004-2005 Dönemi Hububat Ürünü Alımı ve Satımı Hakkında Karar
+**2004-2005 Dönemi Hububat Ürünü Alımı ve Satımı Hakkında Karar**
 
-Madde l- a) Toprak Mahsulleri Ofisi (TMO), Ana Statüsünde ve bu Kararda belirtilen esaslar çerçevesinde hububat ve çeltik alım-satım faaliyetlerini gerçekleştirir.
+**Madde l-** a) Toprak Mahsulleri Ofisi (TMO), Ana Statüsünde ve bu Kararda belirtilen esaslar çerçevesinde hububat ve çeltik alım-satım faaliyetlerini gerçekleştirir.
 
 b) TMO, alt yapısı hububat alım-satımı için yeterli olan iç ve/veya dış borsalarda alım-satım ve vadeli işlemler yapar. İç piyasalarda, borsa bulunmayan veya yeterli olmayan yerlerde alım TMO işyerlerinde yapılır.
 
@@ -1432,7 +1432,7 @@ TMO taraf ından kredi temini için yapılacak "alım garantili satış" ve benz
 | 31 | Tercan | Erzincan | 4.000 |
 | 32 | Zile | Amasya | 4.000 |
 
-NOT: (1) Üretim yapılan yerleşim yerleri
+**NOT:** (1) Üretim yapılan yerleşim yerleri
 
 (2) Üretim yapılan yerleşim yerlerinin ürün satacağı sabit TMO işyerleri
 
@@ -1440,7 +1440,7 @@ NOT: (1) Üretim yapılan yerleşim yerleri
 
 —— • ——
 
-11/5/2004 Tarihli ve 25459 Sayılı Resmî Gazete’nin 17 nci Sayfasında Yayımlanan, 28/4/2004 Tarihli ve 2004/7220 Sayılı Kararnamenin Eki Karar
+**11/5/2004 Tarihli ve 25459 Sayılı Resmî Gazete’nin 17 nci Sayfasında Yayımlanan, 28/4/2004 Tarihli ve 2004/7220 Sayılı Kararnamenin Eki Karar**
 
 **Madde 1 –** 4/1/1988 tarihli ve 88/12476 sayılı Kararnamenin eki (I) sayılı krokide koordinatları belirtilen Zonguldak İli, Kilimli - Alaçağzı mevkiindeki alan; gemi inşa, bakım, onarım ve söküm yeri olarak tespit edilmiştir.
 
@@ -1452,11 +1452,11 @@ Gemi inşa, bakım, onarım ve söküm yeri olarak belirlenen alan üzerinde; ka
 
 Sayfa Başı
 
-Atama Kararları
+**Atama Kararları**
 
 Devlet Bakanı ve Başbakan Yardımcılığından:
 
-Karar Sayısı : 2004/5836
+**Karar Sayısı : 2004/5836**
 
 1 — Vakıflar Genel Müdürlüğünde açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Kütahya Vakıflar Bölge Müdürlüğüne Hasan GÖK’ün atanması, 657 sayılı Kanunun değişik 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1464,7 +1464,7 @@ Karar Sayısı : 2004/5836
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1475,7 +1475,7 @@ Ahmet Necdet SEZER
 
 Devlet Bakanı ve Başbakan Yardımcılığından:
 
-Karar Sayısı : 2004/5868
+**Karar Sayısı : 2004/5868**
 
 1 — Vakıflar Genel Müdürlüğünde açık bulunan 1 inci derece kadrolu ve + 3600 ek göstergeli Vakıflar Meclisi Üyeliğine Arif DÜLGER’in atanması, 657 sayılı Kanunun 68/B ve 76 ncı maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1483,7 +1483,7 @@ Karar Sayısı : 2004/5868
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1494,7 +1494,7 @@ Ahmet Necdet SEZER
 
 Devlet Bakanı ve Başbakan Yardımcılığından:
 
-Karar Sayısı : 2004/5903
+**Karar Sayısı : 2004/5903**
 
 1 — Vakıflar Genel Müdürlüğünde açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Gaziantep Vakıflar Bölge Müdürlüğüne İşletmeler ve İştirakler Dairesi Başkanı Harun ATEŞSAL’ın atanması, 657 sayılı Kanunun değişik 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1502,7 +1502,7 @@ Karar Sayısı : 2004/5903
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1513,7 +1513,7 @@ Ahmet Necdet SEZER
 
 Devlet Bakanı ve Başbakan Yardımcılığından:
 
-Karar Sayısı : 2004/5937
+**Karar Sayısı : 2004/5937**
 
 1 — Vakıflar Genel Müdürlüğü Sivas Vakıflar Bölge Müdürü Yakup GÜLMEZ’in başka bir göreve atanmak üzere bu görevinden alınması,
 
@@ -1523,7 +1523,7 @@ Bu suretle boşalan 1 inci derece kadrolu ve + 3000 ek göstergeli Sivas Vakıfl
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1534,7 +1534,7 @@ Ahmet Necdet SEZER
 
 Devl et Bakanlığından:
 
-Karar Sayısı : 2004/5905
+**Karar Sayısı : 2004/5905**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3600 ek göstergeli Diyanet İşleri Başkanlığı 1. Hukuk Müşavirliğine aynı Başkanlık APK uzmanı Süleyman DUMAN’ın,
 
@@ -1546,7 +1546,7 @@ Atanması,
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1557,7 +1557,7 @@ Ahmet Necdet SEZER
 
 İçişleri Bakanlığından:
 
-K arar Sayısı : 2004/5908
+**K arar Sayısı : 2004/5908**
 
 1 — Açık bulunan 1 inci derece kadrolu Mülkiye Başmüfettişliklerine;
 
@@ -1567,7 +1567,7 @@ Mülkiye Müfettişleri; Bülent KILINÇ, Orhan DÜZGÜN, Mehmet Ali ÖZKILINÇ 
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1578,7 +1578,7 @@ Ahmet Necdet SEZER
 
 Millî Eğitim Bakanlığından:
 
-Karar Sayısı : 2004/591 2
+**Karar Sayısı : 2004/591 2**
 
 1 — Açık bulunan 1 inci derece kadrolu ve +3600 ek göstergeli Bakanlık Müşavirliğine Erdoğan AYATA’nın atanması, 657 sayılı Kanunun 59 ve 93 üncü maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1586,7 +1586,7 @@ Karar Sayısı : 2004/591 2
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1597,7 +1597,7 @@ Ahmet Necdet SEZER
 
 Millî Eğitim Bakanlığından:
 
-Karar Sayısı : 2004/5913
+**Karar Sayısı : 2004/5913**
 
 1 — Burdur Millî Eğitim Müdürü Arif YÜCEDAĞ’ın başka bir göreve atanmak üzere bu görevinden alınması, 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1605,7 +1605,7 @@ Karar Sayısı : 2004/5913
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1616,7 +1616,7 @@ Ahmet Necdet SEZER
 
 Bayındırlık ve İskan Bakanlığından:
 
-Karar Sayısı : 2004/5914
+**Karar Sayısı : 2004/5914**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Bilecik Bayındırlık ve İskan Müdürlüğüne Mustafa NAR’ın atanması, 657 sayılı Kanunun değişik 71 ve 76 ncı maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1624,7 +1624,7 @@ Karar Sayısı : 2004/5914
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1635,7 +1635,7 @@ Ahmet Necdet SEZER
 
 Bayındırlık ve İskan Bakanlığından:
 
-Karar Sayısı : 2004/5915
+**Karar Sayısı : 2004/5915**
 
 1 — Eskişehir Bayındırlık ve İskan Müdürü Recep SOY’un başka bir göreve atanmak üzere bu görevinden alınması,
 
@@ -1645,7 +1645,7 @@ Bu suretle boşalan 1 inci derece kadrolu ve + 3000 ek göstergeli Eskişehir Ba
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1656,7 +1656,7 @@ Ahmet Necdet SEZER
 
 Sağlık Bakanlığından:
 
-Karar Sayısı : 2004/5917
+**Karar Sayısı : 2004/5917**
 
 1 — Açık bulunan 1 inci derece kadrolu ve +3600 ek göstergeli Bakanlık Müşavirliğine, Recai YASAR’ın atanması, 657 sayılı Kanunun değişik 59 ve 76 ncı maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1664,7 +1664,7 @@ Karar Sayısı : 2004/5917
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1675,7 +1675,7 @@ Ahmet Necdet SEZER
 
 Tarım ve Köyişleri Bakanlığından:
 
-Karar Sayısı : 2004/5918
+**Karar Sayısı : 2004/5918**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3600 ek göstergeli Bakanlık Müşavirliğine, Ahmet GENCER’in atanması, 657 sayılı Kanunun 59 ve 76 ncı maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1683,7 +1683,7 @@ Karar Sayısı : 2004/5918
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1694,7 +1694,7 @@ Ahmet Necdet SEZER
 
 Tarım ve Köyişleri Bakanlığından:
 
-Karar Sayısı : 2004/5919
+**Karar Sayısı : 2004/5919**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Burdur İl Müdürlüğüne Kadir GÜVEN’in atanması, 657 sayılı Kanunun 68/B ve 76 ncı maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştü r.
 
@@ -1702,7 +1702,7 @@ Karar Sayısı : 2004/5919
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1713,7 +1713,7 @@ Ahmet Necdet SEZER
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
 
-Karar Sayısı : 2004/5922
+**Karar Sayısı : 2004/5922**
 
 1 — Açık bulunan 1 inci derece kadrolu ve +3600 ek göstergeli Bilgi İşlem Daire Başkanlığına İlhami SİPAHİOĞLU’nun atanması, 657 sayılı Kanunun değişik 68 (B) ve 92 nci maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1721,7 +1721,7 @@ Karar Sayısı : 2004/5922
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1732,7 +1732,7 @@ Ahmet Necdet SEZER
 
 Sanayi ve Ticaret Bakanlığından:
 
-Karar Sayısı : 2004/5938
+**Karar Sayısı : 2004/5938**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 6400 ek göstergeli Teftiş Kurulu Başkanlığına Tüketicinin ve Rekabetin Korunması Genel Müdürlüğü Genel Müdür Yardımcısı Ferhat GÜL’ün atanması 657 sayılı Kanunun 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince u y gun görülmüştür.
 
@@ -1740,7 +1740,7 @@ Karar Sayısı : 2004/5938
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1751,7 +1751,7 @@ Ahmet Necdet SEZER
 
 Enerji ve Tabii Kaynaklar Bakanlığından:
 
-Karar Sayısı : 2004/5 923
+**Karar Sayısı : 2004/5 923**
 
 1 — Soma Elektrik Üretim ve Ticaret A.Ş. Genel Müdür ve Yönetim Kurulu Başkanı Selahattin TOPUZ’un, başka bir göreve atanmak üzere bu görevinden alınması,
 
@@ -1761,7 +1761,7 @@ Karar Sayısı : 2004/5 923
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1772,7 +1772,7 @@ Ahmet Necdet SEZER
 
 Enerji ve Tabii Kaynaklar Bakanlığından:
 
-Karar Sayısı : 2004/5924
+**Karar Sayısı : 2004/5924**
 
 1 — Açık bulunan 1 inci derece kadrolu ve +3000 ek göstergeli Devlet Su İşleri Genel Müdürlüğü Kars XXIV üncü Bölge Müdürlüğüne Bedirhan HAYIRLI’nın atanması,
 
@@ -1782,7 +1782,7 @@ Karar Sayısı : 2004/5924
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1793,7 +1793,7 @@ Ahmet Necdet SEZER
 
 Enerji ve Tabii Kaynaklar Bakanlığından:
 
-Karar Sayısı : 2004/5925
+**Karar Sayısı : 2004/5925**
 
 1 — Açık bulunan 1 inci derece kadrolu ve +3000 ek göstergeli Devlet Su İşleri Genel Müdürlüğü Sivas XIX uncu Bölge Müdürlüğüne Vahit BAYGÜNEŞ’in atanması,
 
@@ -1803,7 +1803,7 @@ Karar Sayısı : 2004/5925
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1814,7 +1814,7 @@ Ahmet Necdet SEZER
 
 Kültür ve Turizm Bakanlığından:
 
-K arar Sayısı : 2004/5926
+**K arar Sayısı : 2004/5926**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Ağrı İl Kültür ve Turizm Müdürlüğüne, Ebu Muhsin BULUT’un atanması, 657 sayılı Kanunun değişik 68 (B), 71 ve 74 üncü maddeleri ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1822,7 +1822,7 @@ K arar Sayısı : 2004/5926
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1833,7 +1833,7 @@ Ahmet Necdet SEZER
 
 Kültür ve Turizm Bakanlığından:
 
-Karar Sayısı : 2004/5927
+**Karar Sayısı : 2004/5927**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Mardin İl Kültür ve Turizm Müdürlüğüne, Mehmet Muhlis HAMİDİ’nin atanması, 657 sayılı Kanunun değişik 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1841,7 +1841,7 @@ Karar Sayısı : 2004/5927
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1852,7 +1852,7 @@ Ahmet Necdet SEZER
 
 Kültür ve Turizm Bakanlığından:
 
-Karar Sayısı : 2004/5928
+**Karar Sayısı : 2004/5928**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Ardahan İl Kültür ve Turizm Müdürlüğüne Ali ELGİN’in atanması, 657 sayılı Kanunun değişik 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1860,7 +1860,7 @@ Karar Sayısı : 2004/5928
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1871,7 +1871,7 @@ Ahmet Necdet SEZER
 
 Kültür ve Turizm Bakanlığından:
 
-Karar Sayısı : 2004/5929
+**Karar Sayısı : 2004/5929**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Hakkari İl Kültür ve Turizm Müdürlüğüne,Nafiz ŞAHİN’in atanması, 657 sayılı Kanunun değişik 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1879,7 +1879,7 @@ Karar Sayısı : 2004/5929
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞ KANI
 
@@ -1890,7 +1890,7 @@ Ahmet Necdet SEZER
 
 Kültür ve Turizm Bakanlığından:
 
-Karar Sayısı : 2004/5930
+**Karar Sayısı : 2004/5930**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Şanlıurfa İl Kültür ve Turizm Müdürlüğüne, Kemal TUNCER’in atanması, 657 sayılı Kanunun değişik 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1898,7 +1898,7 @@ Karar Sayısı : 2004/5930
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1909,7 +1909,7 @@ Ahmet Necdet SEZER
 
 Kültür ve Turizm Bakanlığından:
 
-Karar Sayısı : 2004/5931
+**Karar Sayısı : 2004/5931**
 
 1 — Açık bulunan 1 inci derece kadrolu ve + 3000 ek göstergeli Zonguldak İl Kültür ve Turizm Müdürlüğüne, Zekai KASAP’ın atanması, 657 sayılı Kanunun değişik 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1917,7 +1917,7 @@ Karar Sayısı : 2004/5931
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1928,7 +1928,7 @@ Ahmet Necdet SEZER
 
 Ç evre ve Orman Bakanlığından:
 
-Karar Sayısı : 2004/5933
+**Karar Sayısı : 2004/5933**
 
 1 — Açık bulunan 1 inci derece kadrolu +3000 ek göstergeli Hakkari İl Çevre ve Orman Müdürlüğüne Hüsnü KINACI’nın atanması, 657 sayılı Kanunun 76 ncı maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1936,7 +1936,7 @@ Karar Sayısı : 2004/5933
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1947,7 +1947,7 @@ Ahmet Necdet SEZER
 
 Çevre ve Orman Bakanlığından:
 
-Karar Sayısı : 2004/5934
+**Karar Sayısı : 2004/5934**
 
 1 — Açık bulunan 1 inci derece kadrolu +3000 ek göstergeli Şanlıurfa İl Çevre ve Orman Müdürlüğüne Kadri ALYAMAÇ’ın atanması, 657 sayılı Kanunun 74 üncü maddesi ile 2451 sayılı Kanunun 2 nci maddesi gereğince uygun görülmüştür.
 
@@ -1955,7 +1955,7 @@ Karar Sayısı : 2004/5934
 
 4 Haziran 2004
 
-Ahmet Necdet SEZER
+**Ahmet Necdet SEZER**
 
 ### CUMHURBAŞKANI
 
@@ -1964,11 +1964,11 @@ Ahmet Necdet SEZER
 
 Sayfa Başı
 
-Yönetmelik
+**Yönetmelik**
 
 Fatih Üniversitesinden:
 
-Fatih Üniversitesi Atatürk İlkeleri ve İnkılâp Tarihi Uygulama ve Araştırma Merkezi Yönetmeliği
+**Fatih Üniversitesi Atatürk İlkeleri ve İnkılâp Tarihi Uygulama ve Araştırma Merkezi Yönetmeliği**
 
 #### Kuruluş
 
@@ -2002,7 +2002,7 @@ b) Yönetim Kurulu
 
 #### Müdür
 
-**Madde 4 –** Araştırma ve Uygulama Merkezi Müdürü, Rektör tarafından üç yıl için görevlendirilen bir öğretim üyesidir. Süresi biten Merkez Müdürü yeniden seçilebilir. Merkez Müdürü Yönetim Kuruluna başkanlık eder. Çalışmaların düzenli bir şekilde yürütülmesini sağlar. Merkez Müdürü geçici olarak görevden ayrıldığında Yönetim Kurulu üyelerinden bi r ini vekil bırakır. Göreve vekalet altı aydan fazla sürerse yeni bir Merkez Müdürü atanır.
+**Madde 4 –** Araştırma ve Uygulama Merkezi Müdürü, Rektör tarafından üç yıl için görevlendirilen bir öğretim üyesidir. Süresi biten Merkez Müdürü yeniden seçilebilir. Merkez Müdürü Yönetim Kuruluna başkanlık eder. Çalışmaların düzenli bir şekilde yürütülmesini sağlar. Merkez Müdürü geçici olarak görevden ayrıldığında **Yönetim Kurulu** üyelerinden bi r ini vekil bırakır. Göreve vekalet altı aydan fazla sürerse yeni bir Merkez Müdürü atanır.
 
 #### Yönetim Kurulu
 
@@ -2024,7 +2024,7 @@ Yönetim Kurulu, Merkez’in karar organıdır. Merkez Müdürü tarafından sun
 
 Sayfa Başı
 
-Tebliğler
+**Tebliğler**
 
 Milli Savunma Bakanlığından:
 
@@ -2065,11 +2065,11 @@ Muğla İli, Aksaz Deniz Üs Komutanlığı çevresinde; birinci derece kara ve 
 
 Devlet Personel Başkanlığından:
 
-Devlet Mem urluğuna Alınma Hakkında Tebliğ (Tebliğ No: 2004/2)
+**Devlet Mem urluğuna Alınma Hakkında Tebliğ (Tebliğ No: 2004/2)**
 
 Vatandaşlarımızın, doğrudan Devlet Personel Başkanlığına yapmış oldukları başvurularda ya da Cumhurbaşkanlığı ve Türkiye Büyük Millet Meclisi ile Başbakanlık ve Bakanlıklara yapmış oldukları başvurulardan bu Makamlarca Devlet Personel Başkanlığına intikal ettirilenlerde ağırlıklı olarak yer alan Devlet memurluğuna alınma taleplerine ilişkin olarak aşağıdaki açıklamaların yapılması gerekli görülmüş olup, kamu kurum ve kuruluşlarında 657 sayılı Devlet Memurları Kanununa tabi memur statüsünde çalışmak isteyen vatandaşlarımızın bu açıklamalar çerçevesinde hareket etmeleri gerekmektedir.
 
-1. İlk Defa Devlet Memurluğuna Alınma
+**1. İlk Defa Devlet Memurluğuna Alınma**
 
 657 sayılı Devlet Memurları Kanununun 50 nci maddesinin birinci fıkrasında; "Devlet kamu hizmet ve görevlerine Devlet memuru olarak atanacakların açılacak Devlet memurluğu sınavlarına girmeleri ve sınavı kazanmaları şarttır." hükmüne, ikinci fıkrasında ise; "Sınavların yapılmasına dair usul ve esaslar ile sınava tabi tutulmadan girilebilecek hizmet ve görevler ve bunların tabi o lacağı esaslar Devlet Personel Başkanlığınca hazırlanacak bir genel yönetmelikle düzenlenir." hükmüne yer verilmiştir.
 
@@ -2079,7 +2079,7 @@ Ayrıca, aynı Yönetmeliğin 22 nci maddesinde; "Kamu kurum ve kuruluşlarını
 
 Yukarıdaki hükümler çerçevesinde, kamu kurum ve kuruluşlarında 657 sayılı Devlet Memurları Kanununa tabi memur olarak istihdam edilmek isteyenlerin, öncelikle Kamu Personel Seçme Sınavına (KPSS) katılmaları ve sınav sonucuna göre aldıkları puan doğrultusunda (A) grubu kadrolar için kamu kurum ve kuruluşlarının; (B) grubu kadrolar için ise ÖSYM Başkanlığının ilanlarını takip ederek, bu kamu kurum ve kuruluşlarına veya adı geçen Başkanlığa başvuruda bulunmaları gerekmektedir.
 
-2. Özürlülerin Devlet Memurluğuna Alınmaları
+**2. Özürlülerin Devlet Memurluğuna Alınmaları**
 
 657 sayılı Devlet Memurları Kanununun 53 üncü maddesinin ikinci fıkrasında; "Kurum ve kuruluşlar bu Kanuna göre çalıştırdıkları personele ait kadrolarda % 3 oranında özürlü çalıştırmak zorundadır." hükmüne yer verilmiştir.
 
@@ -2087,7 +2087,7 @@ Diğer taraftan, 27.7.1983 tarih ve 18117 sayılı Resmî Gazete’de yayımlana
 
 Yukarıdaki hükümler çerçevesinde, özürlü vatandaşlarımızdan kamu kurum ve kuruluşlarında 657 sayılı Devlet Memurları Kanununa tabi memur olarak istihdam edilmek isteyenlerin, özürlü kontenjanı kapsamındaki kadrolar için ilan edilecek sınavlara başvurmaları ve ilgili kurum veya kuruluşça yapılacak sınavda başarılı olmaları gerekmektedir.
 
-3. Memurluktan Çekilenlerin Yeniden Devlet Memurluğuna Alınmaları
+**3. Memurluktan Çekilenlerin Yeniden Devlet Memurluğuna Alınmaları**
 
 657 sa yılı Devlet Memurları Kanununun 92 nci maddesinin birinci fıkrasında; "İki defadan fazla olmamak üzere memurluktan kendi istekleriyle çekilenlerden veya bu Kanun hükümlerine göre çekilmiş sayılanlardan tekrar memurluğa dönmek isteyenler, ayrıldıkları sını f ta boş kadro bulunmak ve bu sınıfın niteliklerini taşımak şartıyla ayrıldıkları tarihte almakta oldukları aylık derecesine eşit bir derecenin aynı kademesine veya 71 inci madde hükümlerine uyulmak suretiyle diğer bir sınıfta eşit derecedeki kadrolara atan a bilirler." hükmü yer almaktadır.
 
@@ -2095,7 +2095,7 @@ Yukarıdaki hüküm çerçevesinde, daha önce 657 sayılı Devlet Memurları Ka
 
 Bu durumda olanların, 657 sayılı Devlet Memurları Kanununa tabi memur olarak istihdamları; durumlarına uygun boş kadro bulunması ve hizmetlerine ihtiyaç duyulması halinde, başvuracakları kamu kurum ve kuruluşlarının takdirinde bulunmaktadır.
 
-4. Sözleşmesini Fesheden Uzman Erbaşların Devlet Memurluğuna Alınmaları
+**4. Sözleşmesini Fesheden Uzman Erbaşların Devlet Memurluğuna Alınmaları**
 
 657 sayılı Devlet Memurları Kanununun 92 nci maddesinin son fıkrasında; "657 sayılı Kanuna tabi olmayan personelden kendi istekleri ile görevinden çekilmiş olanlar, boş kadro bulunmak ve gireceği sınıfın niteliklerini taşımak kaydı ile bu Kanuna tabi kurumlardaki memuriyetlere atanabilirler." hükmü, 3269 sayı l ı Uzman Erbaş Kanununun 5 inci maddesinde ise; "Uzman erbaşlar 2 yıl süre ile sözleşme yaparak göreve başlarlar ve Türkiye Cumhuriyeti Emekli Sandığı ile ilgilendirilirler. Bunlardan istihdam edildikleri kadronun görev özelliklerine göre sınıf ve branşları ile ilgili sağlık nitelikleri uygun olanların müteakip sözleşmeleri 1 yıldan az, 5 yıldan fazla olmamak şartıyla azami 45 yaşına girdikleri yıla kadar uzatılabilir." hükmü yer almaktadır.
 
@@ -2105,7 +2105,7 @@ Yukarıdaki hükümler çerçevesinde, 3269 sayılı Uzman Erbaş Kanununa tabi 
 
 Bu durumda olan ların, 657 sayılı Devlet Memurları Kanununa tabi memur olarak istihdamları; durumlarına uygun boş kadro bulunması ve hizmetlerine ihtiyaç duyulması halinde, başvuracakları kamu kurum ve kuruluşlarının takdirinde bulunmaktadır.
 
-5. Emeklilerin Yeniden Devle t Memurluğuna Alınmaları
+**5. Emeklilerin Yeniden Devle t Memurluğuna Alınmaları**
 
 657 sayılı Devlet Memurları Kanununun 93 üncü maddesinde; "T.C. Emekli Sandığı Kanunu hükümlerine göre emekli olanlardan (5434 sayılı Kanunun 104 üncü maddesine göre emeklilikle ilgili görevlere yeniden atanamayacaklar hariç) sınıfında yazılı nitelikleri taşımakta bulunanlar Kanunun 92 nci maddesi hükümlerine göre kurumlarda boş kadro bulunmak şartıyla yeniden memurluğa alınabilirler." hükmü yer almaktadır.
 
@@ -2113,7 +2113,7 @@ Yukarıdaki hüküm çerçevesinde, T.C. Emekli Sandığı Kanunu hükümlerine 
 
 Bu durumda olanların, 657 sayılı Devlet Memurları Kanununa tabi memur olarak istihdamları; durumlarına uygun boş kadro bulunması ve hizmetlerine ihtiyaç duyulması halinde, emeklilerin yeniden hizmete alınmalarına ilişkin engelleyici hükümler de (Örneğin: 2004 Mali Yılı Bütçe Kanununun 32 nci maddesinin (f) bendi) dikkate alınarak başvuracakları kamu kurum ve kuruluşlarını n takdirinde bulunmaktadır.
 
-6. Terör Eylemleri Nedeniyle Şehit ve Malul Olanların Yakınlarının ve Çalışabilecek Durumdaki Malullerin Devlet Memurluğuna Alınmaları
+**6. Terör Eylemleri Nedeniyle Şehit ve Malul Olanların Yakınlarının ve Çalışabilecek Durumdaki Malullerin Devlet Memurluğuna Alınmaları**
 
 29.3.1996 tarihli ve 22595 sayılı Resmi Gazete’ de yayımlanarak yürürlüğe giren Terör Eylemleri Nedeniyle Şehit ve Malul Olanların Yakınlarının ve Çalışabilecek Durumdaki Malullerin Kamu Kurum ve Kuruluşlarında İstihdamı Hakkında Yönetmeliğin "Başvuruda Bulunabilecekler" başlıklı 6 ncı maddesinin birinci fıkrasında; "Başvurularda çalışabilir dur u mdaki malulün kendisi; şehit veya çalışamayacak durumdaki malulün eşi; eşinin olmaması veya talepte bulunmaması halinde, herhangi bir kamu kurum veya kuruluşunda memur, sözleşmeli personel veya sürekli işçi kadrolarında çalışmayan çocuklarından biri; çocu k ları da yoksa veya yaşları itibariyle çalışamayacak durumda iseler; herhangi bir kamu kurum ve kuruluşunda memur, sözleşmeli personel veya sürekli işçi kadrolarında çalışmayan kardeşlerinden birinin talebi esas alınır." hükmü, 7 nci maddesinin birinci fık r asında ise; "Bu Yönetmelik hükümlerinden yararlanmak isteyen hak sahipleri, EK: 2’ deki Başvuru formu ile ikamet ettikleri veya şehitlik ya da malullük olayının meydana geldiği yerin Valilik veya Kaymakamlığına başvururlar. İkamet edilen yerin Valilik vey a Kaymakamlığına yapılan başvurular, ilgili Valilik veya Kaymakamlıklarca şehitlik ya da malullük olayının meydana geldiği yerin Valilik veya Kaymakamlığına gönderilir. Bu gibi hallerde, olayın meydana geldiği İl veya İlçede oluşturulan Hak Sahibi Tespit K o misyonu tarafından Durum Belgesi düzenlenir ve Bakanlığa gönderilir." hükmü yer almaktadır.
 
@@ -2127,11 +2127,11 @@ Tebliğ olunur.
 
 Amasya Valiliğinden:
 
-Orman Yang ınlarının Önlenmesi Amacıyla Alınması Gereken Tedbirler Hakkında Karar
+**Orman Yang ınlarının Önlenmesi Amacıyla Alınması Gereken Tedbirler Hakkında Karar**
 
-Karar Tarihi : 4/5/2004
+**Karar Tarihi : 4/5/2004**
 
-Karar No : 2004/1
+**Karar No : 2004/1**
 
 Kanunlardaki özel hükümler saklı kalmak kaydıyla Amasya İli Orman Yangınları ile Mücadele Komisyonu aşağıdaki kararları almıştır.
 
@@ -2201,11 +2201,11 @@ Tebliğ olunur.
 
 Sayfa Başı
 
-Ku rul Kararı
+**Ku rul Kararı**
 
 Enerji Piyasası Düzenleme Kurumundan:
 
-Kurul Kararı
+**Kurul Kararı**
 
 | Karar No: 325/27 | Karar Tarihi: 04/06/2004 |
 

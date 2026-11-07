@@ -13,8 +13,8 @@ durum: "yürürlükte"
 ---
 
 Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-VERGİ VE DİĞER BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN
-Kanun No. 7143 Kabul Tarihi: 11/5/2018 Kapsam ve Tanımlar
+**VERGİ VE DİĞER BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN**
+**Kanun No. 7143 Kabul Tarihi: 11/5/2018 Kapsam ve Tanımlar**
 
 
 MADDE 1 – (1) Bu Kanun hükümleri;
@@ -40,7 +40,7 @@ b) Gümrük vergileri: İlgili mevzuat uyarınca eşyanın ithali veya ihracınd
 c) Beyanname: Vergi tarhına esas olan beyanname ve bildirimleri,
 ç) Yİ-ÜFE aylık değişim oranları: Türkiye İstatistik Kurumunun her ay için belirlediği 31/12/2004 tarihine kadar toptan eşya fiyatları endeksi (TEFE) aylık değişim oranlarını, 1/1/2005 tarihinden itibaren üretici fiyatları endeksi (ÜFE) aylık değişim oranlarını, 1/1/2014 tarihinden itibaren yurt içi üretici fiyat endeksi (Yİ-ÜFE) aylık değişim oranlarını, 1/11/2016 tarihinden itibaren aylık %0,35 oranını (bu Kanunun yayımlandığı ay dâhil), ifade eder.
 (3) Bu Kanun, bazı alacakların yapılandırılmasına ilişkin hükümler ile bazı kanunlarda değişiklik yapılması ve yeni hükümler ihdasına ilişkin hükümleri kapsar.
-Kesinleşmiş alacaklar
+**Kesinleşmiş alacaklar**
 
 
 MADDE 2 – (1) Maliye Bakanlığına, il özel idarelerine ve belediyelere bağlı tahsil daireleri tarafından takip edilen alacaklardan bu Kanunun yayımı tarihi itibarıyla (bu tarih dâhil);
@@ -64,7 +64,7 @@ c) Eşyanın gümrüklenmiş değerine bağlı olarak kesilmiş idari para cezal
 (8) 2560 sayılı Kanun kapsamında büyükşehir belediyeleri su ve kanalizasyon idarelerinin, vadesi 31/3/2018 tarihinden (bu tarih dâhil) önce olduğu hâlde bu Kanunun yayımı tarihi itibarıyla ödenmemiş bulunan; su ve atık su bedeli alacak asıllarının tamamı ile bunlara bağlı faiz, gecikme faizi, gecikme zammı gibi fer’iler (sözleşmelerde düzenlenen her türlü zamlar dâhil) hakkında bu maddenin birinci fıkrasının (ç) bendi hükümlerine göre yapılacak hesaplamalar sonucu belirlenen tutarların aynı fıkra hükümleri çerçevesinde ödenmesi hâlinde bu alacaklara bağlı cezaların ve gecikme faizi, gecikme zammı gibi fer’ilerin (sözleşmelerde düzenlenen her türlü ceza ve zamlar dâhil) tahsilinden vazgeçilir.
 (9) YİKOB’ların, vadesi 31/3/2018 tarihinden (bu tarih dâhil) önce olduğu hâlde bu Kanunun yayımı tarihi itibarıyla ödenmemiş bulunan taşınmaz kültür varlıklarının korunmasına katkı payı ile buna bağlı fer’i alacakları hakkında bu maddenin birinci fıkrasının (ç) bendi hükümlerine göre yapılacak hesaplamalar sonucu belirlenen tutarların aynı fıkra hükümleri çerçevesinde ödenmesi hâlinde bu alacaklara bağlı fer’i alacakların tahsilinden vazgeçilir.
 (10) Bu madde hükmünden yararlanmak isteyen borçluların maddede belirtilen şartların yanı sıra dava açmamaları, açılmış davalardan vazgeçmeleri ve kanun yollarına başvurmamaları şarttır.
-Kesinleşmemiş veya dava safhasında bulunan alacaklar
+**Kesinleşmemiş veya dava safhasında bulunan alacaklar**
 
 
 MADDE 3 – (1) Bu Kanunun yayımı tarihi itibarıyla ilk derece yargı mercileri nezdinde dava açılmış ya da dava açma süresi henüz geçmemiş olan ikmalen, resen veya idarece yapılmış vergi tarhiyatları ile gümrük vergilerine ilişkin tahakkuklarda;
@@ -87,7 +87,7 @@ d) Eşyanın gümrüklenmiş değerine bağlı olarak kesilmiş olan idari para 
 (9) Maliye Bakanlığına bağlı tahsil daireleri tarafından takip edilmekte olan amme alacaklarından yıllık gelir veya kurumlar vergileri, gelir (stopaj) vergisi, kurumlar (stopaj) vergisi, katma değer vergisi ve özel tüketim vergisi için bu madde ile 2 nci madde hükmünden yararlanmak üzere başvuruda bulunan mükellefler, taksit ödeme süresince bu vergi türleri ile ilgili verilen beyannameler üzerine tahakkuk eden bu vergileri çok zor durum olmaksızın her bir vergi türü itibarıyla bir takvim yılında ikiden fazla vadesinde ödememeleri ya da eksik ödemeleri hâlinde belirtilen madde hükümlerine göre yapılandırılan borçlarına ilişkin kalan taksitlerini ödeme haklarını kaybederler.
 (10) Bu madde hükmünden yararlanılması için madde kapsamına giren alacaklara karşı dava açılmaması, açılmış davalardan vazgeçilmesi ve kanun yollarına başvurulmaması şarttır.
 (11) Bu madde hükmünden yararlanmak için başvuruda bulunan ancak bu Kanunda belirtilen ödeme şartını yerine getirmeyen borçlulardan, ilk tarhiyata/tahakkuka göre belirlenen alacaklar başka bir işleme gerek olmaksızın takip edilir. Şu kadar ki, bu Kanunun yayımı tarihinden önce verilmiş olan en son yargı kararının, tarhiyatın/tahakkukun tasdikine ilişkin olması hâlinde bu karar üzerine tahakkuk eden alacaklar takip edilir.
-İnceleme ve tarhiyat safhasında bulunan işlemler
+**İnceleme ve tarhiyat safhasında bulunan işlemler**
 
 
 MADDE 4 – (1) Bu Kanunun kapsadığı dönemlere ilişkin olarak, bu Kanunun yayımı tarihinden önce başlanıldığı hâlde, tamamlanamamış olan vergi incelemeleri ile takdir, tarh ve tahakkuk işlemlerine bu Kanunun matrah ve vergi artırımına ilişkin hükümleri saklı kalmak kaydıyla devam edilir. Bu işlemlerin tamamlanmasından sonra tarh edilen vergilerin %50’si ile bu tutara gecikme faizi yerine bu Kanunun yayımı tarihine kadar Yİ-ÜFE aylık değişim oranları esas alınarak hesaplanacak tutar ile bu tarihten sonra ihbarnamenin tebliği üzerine belirlenen dava açma süresinin bitim tarihine kadar hesaplanacak gecikme faizinin tamamının, vergi aslına bağlı olmayan cezalarda cezanın %25’inin;
@@ -108,7 +108,7 @@ a) 213 sayılı Kanunun;
 b) 31/3/2018 tarihinden (bu tarih dâhil) önce verilmesi gerektiği halde bu Kanunun yayımı tarihi itibarıyla emlak vergisi bildiriminde bulunmayan veya bildirimde bulunduğu hâlde vergisi eksik tahakkuk eden mükelleflerce bildirimde bulunulması ve tahakkuk eden vergi ve taşınmaz kültür varlıklarının korunmasına katkı payının tamamı ile bunlara bağlı gecikme faizi ve gecikme zammı yerine bu Kanunun yayımı tarihine kadar Yİ-ÜFE aylık değişim oranları esas alınarak hesaplanacak tutarın; bu Kanunda belirtilen süre ve şekilde tamamen ödenmesi şartıyla bu alacaklara bağlı gecikme faizi, gecikme zammı ve vergi cezalarının tamamının,
 c) 4458 sayılı Kanuna ve ilgili diğer kanunlara göre tahakkuku ve tahsili gerektiği halde yükümlü tarafından beyan edilmeyen aykırılıkların gümrük idaresinin tespitinden önce kendiliğinden bildirilmesi durumunda, gümrük vergilerinin tamamı ile hesaplanacak faiz yerine bu Kanunun yayımı tarihine kadar Yİ-ÜFE aylık değişim oranları esas alınarak hesaplanacak tutarın; bu Kanunda belirtilen süre ve şekilde tamamen ödenmesi şartıyla faizlerin ve idari para cezalarının tamamının, tahsilinden vazgeçilir.
 (11) 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 64 üncü maddesinde sayılan diğer ücret mükelleflerinin, bu Kanunun yayımı tarihini takip eden ikinci ayın sonuna kadar vergi dairelerine başvurarak 2018 takvim yılına ilişkin gelir vergilerini tarh ettirmeleri ve karnelerine işletmeleri kaydıyla önceki dönemlere ilişkin olarak herhangi bir vergi ve ceza aranmaz. Bu mükelleflerden daha önce mükellefiyet kaydını yaptırmamış olanların işe başlama tarihi olarak bu Kanuna göre yaptıkları müracaat tarihi esas alınır.
-Matrah ve vergi artırımı
+**Matrah ve vergi artırımı**
 
 
 MADDE 5 – (1) Mükellefler, bu fıkrada belirtilen şartlar dâhilinde gelir ve kurumlar vergisi matrahlarını artırarak bu maddede belirtilen süre ve şekilde ödemeleri halinde, kendileri hakkında artırımda bulunulan yıllar için yıllık gelir ve kurumlar vergisi incelemesi ve bu yıllara ilişkin olarak bu vergi türleri için daha sonra başka bir tarhiyat yapılmaz.
@@ -170,7 +170,7 @@ c) Artırılan matrahlar nedeniyle geçici vergi hesaplanmaz ve tahsil olunmaz.
 (11) Bu madde hükümlerine göre matrah veya vergi artırımı ile ilgili olarak doğru beyan yapılmaması veya vergi hataları nedeniyle eksik tahakkuk eden vergiler, ilk taksit ödeme süresinin sonunda tahakkuk etmiş sayılır ve bu Kanunda açıklandığı şekilde tahsil edilir.
 (12) Birinci fıkranın (ç) bendi kapsamında yapılacak değerlendirmede, her bir dönem için ayrı ayrı 10 Türk lirasına (bu tutar dâhil) kadar yapılan eksik ödemeler dikkate alınmaz.
 (13) Bu maddenin birinci, ikinci ve üçüncü fıkra hükümlerinden yararlananlar hakkında 213 sayılı Kanunun 367 nci maddesi kapsamında yapılacak incelemeler saklıdır. Ancak, bu incelemeler sonucunda matrah veya vergi artırımında bulunulan dönemler ve vergiler için tarhiyat yapılmaz.
-İşletme kayıtlarının düzeltilmesi
+**İşletme kayıtlarının düzeltilmesi**
 
 
 MADDE 6 – (1) İşletmede mevcut olduğu hâlde kayıtlarda yer almayan emtia, makine, teçhizat ve demirbaşlar hakkında aşağıdaki hükümler uygulanır:
@@ -192,7 +192,7 @@ b) Bu fıkranın (a) bendi kapsamında beyan edilen tutarlar üzerinden %3 oran�
 c) Bu fıkra kapsamında ödenen vergiler, gelir veya kurumlar vergisinden mahsup edilmez;
 beyan edilen tutarlar ve ödenen vergiler, kurumlar vergisi matrahının tespitinde gider olarak kabul edilmez. Bu fıkra uyarınca beyan edilen tutarlar nedeniyle ilave bir tarhiyat yapılmaz. Bu fıkra kapsamında beyanda bulunan kurumlar vergisi mükelleflerinin bu beyanları nedeniyle 2018 yılı geçici vergi beyannamelerinde düzeltme gerektiği takdirde, düzeltme işlemleri bu fıkrada öngörülen beyanname verme süresi içinde yapılır ve düzeltme işlemleri nedeniyle herhangi bir ceza veya faiz aranmaz.
 (4) Maliye Bakanlığı, bu maddenin uygulanması ile ilgili olarak yılı içerisinde ödenmesi gereken vergilerin ödeme sürelerinde değişiklik yapmaya, 213 sayılı Kanun hükümlerine göre bildirimde bulunma zorunluluğu getirmeye ve uygulamaya ilişkin diğer usul ve esasları belirlemeye yetkilidir.
-Kesinleşmiş Sosyal Güvenlik Kurumu alacakları
+**Kesinleşmiş Sosyal Güvenlik Kurumu alacakları**
 
 
 MADDE 7 – (1) 2018 yılı Mart ayı ve önceki aylara ilişkin olup bu Kanunun yayımı tarihinden önce tahakkuk ettiği hâlde bu Kanunun yayımı tarihi itibarıyla ödenmemiş olan;
@@ -207,7 +207,7 @@ c) Sosyal Güvenlik Kurumu tarafından ilgili kanunları gereğince takip edilen
 (7) 2018 yılı Nisan ayı ve önceki aylara ilişkin olup bu Kanunun yayımı tarihinden önce 5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (g) bendi kapsamında tahakkuk ettiği hâlde ödenmemiş olan prim borçlarının 31/12/2018 tarihine kadar ödenmesi halinde gecikme cezası ve gecikme zammı gibi fer’i alacakların tamamının tahsilinden vazgeçilir. Bu Kanunun yayımı tarihinden önce 5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki sigortalılık statüsünden kaynaklanan prim borcu bulunanlar anılan Kanunun 67 nci maddesinde belirtilen şartları taşımaları halinde, bu Kanunun yayımı tarihinden önceki döneme ait prim borçları dikkate alınmaksızın Kanunun yayımı tarihinden itibaren 31/12/2018 tarihine kadar sağlık hizmetlerinden ve diğer haklardan yararlandırılır. Bu Kanunun yayımı tarihine kadar ödenmiş olan 5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (g) bendi kapsamındaki genel sağlık sigortası primleri ile gecikme cezası ve gecikme zammı tutarları iade ve mahsup edilmez.
 (8) Köy ve mahalle muhtarları, kendi adına ve hesabına bağımsız çalışanlar ile tarımda kendi adına ve hesabına bağımsız çalışanlardan, 5510 sayılı Kanuna, 2/9/1971 tarihli ve 1479 sayılı Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanunu mülga hükümlerine ve mülga 17/10/1983 tarihli ve 2926 sayılı Tarımda Kendi Adına ve Hesabına Çalışanlar Sosyal Sigortalar Kanununa göre tescilleri yapıldığı hâlde prim borçları nedeniyle daha önceki ilgili kanunları uyarınca sigortalılık süreleri durdurulmuş olanlardan bu Kanunun yayımı tarihi itibarıyla ihya edilmemiş olanların kendileri veya hak sahipleri, bu Kanunun yayımı tarihini takip eden ay başından itibaren iki ay içinde Kuruma müracaat ederek, durdurulan sigortalılık süreleri için ödeyecekleri prim tutarının, sigortalılık süreleri durdurulmamış gibi değerlendirilerek bu maddenin birinci fıkrası hükümlerine göre hesaplanmasını talep edebilirler.
 Hesaplanan borcun tamamının ilk taksit ödeme süresi içinde ödenmesi hâlinde durdurulan süreler sigortalılık süresi olarak değerlendirilir. Hesaplanan borcun tamamının ilk taksit ödeme süresi içinde ödenmemesi hâlinde ihya işlemi geçerli sayılmaz ve bu fıkra kapsamında ödenmiş olan tutarlar ilgilinin başkaca prim borcunun bulunmaması kaydıyla faizsiz olarak iade edilir. Bu fıkra hükümlerinin uygulanmasında bu Kanunun 9 uncu maddesinin üçüncü fıkrasının (a) ve (b) bentleri hükümleri uygulanmaz.
-Ön değerlendirme, araştırma veya tespit aşamasında olan eksik işçilik prim tutarları ile kesinleşmemiş idari para cezaları
+**Ön değerlendirme, araştırma veya tespit aşamasında olan eksik işçilik prim tutarları ile kesinleşmemiş idari para cezaları**
 
 
 MADDE 8 – (1) 31/3/2018 tarihine kadar (bu tarih dâhil) bitirilmiş özel nitelikteki inşaatlar ile ihale konusu işlere ilişkin olup, bu Kanun hükümlerinden yararlanmak için bu Kanunun yayımı tarihini izleyen ikinci ayın sonuna kadar başvurulduğu hâlde bu sürenin sonuna kadar Kurumca resen tahakkuk ettirilerek işverene tebliğ edilememiş olan ön değerlendirme, araştırma veya tespit sonucunda bulunan eksik işçilik tutarı üzerinden hesaplanan sigorta primi asılları ile bu alacaklara ilişkin gecikme cezası ve gecikme zammı hesaplanan sürenin başlangıç tarihinden bu Kanunun yayımı tarihine kadar geçen süre için Yİ-ÜFE aylık değişim oranları esas alınarak hesaplanacak tutarın, ilk taksit bu Kanuna göre hesaplanan tutarın işverene tebliğ edildiği tarihi izleyen ikinci aydan başlamak üzere, bu Kanunda belirtilen süre ve şekilde ödenmesi hâlinde, bu alacaklara uygulanan gecikme cezası ve gecikme zammı gibi fer’i alacakların tamamının tahsilinden vazgeçilir. Şu kadar ki bu Kanunun yayımı tarihini izleyen ikinci ayın sonuna kadar resen tahakkuk ettirilerek işverene tebliğ edilen eksik işçilik tutarları üzerinden hesaplanan sigorta prim tutarları, bu Kanunun 7 nci maddesinin ikinci fıkrasında belirtilen alacaklar için öngörülen süre ve şekilde ödenir.
@@ -216,7 +216,7 @@ MADDE 8 – (1) 31/3/2018 tarihine kadar (bu tarih dâhil) bitirilmiş özel nit
 (4) Bu Kanunun 1 inci maddesinin birinci fıkrasının (e) bendi kapsamındaki alacaklardan bu Kanunun 9 uncu maddesinin birinci fıkrasının (b) bendinde belirtilen ilk taksit ödeme süresinin sonuna kadar tahakkuk edenler de bu Kanunun 7 nci maddesine göre yapılandırılır.
 (5) Bu madde ile 7 nci madde hükümlerinden yararlanmak isteyen borçluların, bu maddelerde belirtilen şartların yanı sıra dava açmamaları, açılmış davalardan vazgeçmeleri ve kanun yollarına başvurmamaları şarttır.
 (6) Bu madde ile 7 nci madde hükümlerinden yararlanmak üzere başvuruda bulunan borçlular, taksit ödeme süresince tahakkuk eden sigorta primlerini çok zor durum olmaksızın bir takvim yılında ikiden fazla vadesinde ödememeleri ya da eksik ödemeleri hâlinde, belirtilen madde hükümlerine göre yapılandırılan borçlarına ilişkin kalan taksitlerini ödeme haklarını kaybederler.
-Ortak hükümler
+**Ortak hükümler**
 
 
 MADDE 9 – (1) Bu Kanunun ilgili maddelerindeki başvuru ve ödeme süresine ilişkin hükümler saklı kalmak kaydıyla bu Kanun hükümlerinden yararlanmak isteyen borçluların;
@@ -267,7 +267,7 @@ c) Bu Kanun hükümlerinden yararlanmak üzere başvuruda bulunan ve açtıklar�
 (18) Bu Kanunun yayımı tarihi itibarıyla 213 sayılı Kanunun 15 inci maddesine göre mücbir sebep hâli ilan edilmiş ve devam eden yerlerdeki vergi dairelerinde mükellefiyet kaydı bulunan mükellefler ile Sosyal Güvenlik Kurumunca mücbir sebep hâli nedeniyle belge verme süresi ve prim ödemelerinin ertelendiği yerlerdeki kayıtlı işveren, sigortalı ve diğer prim ödeme yükümlülerinin, bu Kanunda öngörülen süre ve şekilde başvurmaları, beyan ve bildirim yükümlülüklerini yerine getirmeleri şartıyla Kanun kapsamında ödenmesi gereken taksitlerden, mücbir sebep hâli süresi içerisinde ödenmesi gereken taksitleri, mücbir sebep hâlinin bitim tarihini takip eden aydan başlamak üzere 6 ay içinde ödenir.
 (19) Bu maddenin on yedinci fıkrası hükümlerine göre mücbir sebep nedeniyle ödeme süresi uzatılan taksitler ile on sekizinci fıkra hükümlerine göre ödeme süresi uzatılan taksitler için altıncı fıkrada yer alan taksitlerden ilk ikisinin süresinde ödenmesi şartı aranmaz.
 (20) Bu Kanunun uygulanmasına ilişkin usul ve esasları belirlemeye ilgisine göre Maliye Bakanlığı, Gümrük ve Ticaret Bakanlığı veya Sosyal Güvenlik Kurumu yetkilidir. İl özel idareleri, belediyeler ile YİKOB’lara ait amme alacaklarına ilişkin hükümlerin uygulanmasına dair usul ve esaslar Maliye Bakanlığınca, diğer kurumlara ait alacaklara ilişkin usul ve esaslar bu kurumlar tarafından belirlenir.
-Diğer hükümler
+**Diğer hükümler**
 
 
 MADDE 10 – (1) a) 6552, 6736 ve 7020 sayılı Kanunların ilgili hükümlerine göre yapılandırılan ve anılan Kanunlar kapsamında ödemeleri devam eden alacaklardan kalan taksitlerin tamamının, bu Kanunun 9 uncu maddesinin üçüncü fıkrasının;
@@ -303,7 +303,7 @@ h) 1) Tam mükellefiyete tabi gerçek kişiler ile kurumların;
 (aa) Kanuni ve iş merkezi Türkiye’de bulunmayan kurumlara ilişkin iştirak hisselerinin satışından doğan kazançları, (bb) Kanuni ve iş merkezi Türkiye’de bulunmayan kurumlardan elde ettikleri iştirak kazançları, (cc) Yurt dışında bulunan iş yeri ve daimi temsilcileri aracılığıyla elde ettikleri ticari kazançları, 31/10/2018 tarihine kadar elde edilenler de dahil olmak üzere, bu maddenin yürürlüğe girdiği tarihten itibaren 31/12/2018 tarihine kadar Türkiye’ye transfer edilmesi kaydıyla gelir veya kurumlar vergisinden müstesnadır.
 2) Tam mükellefiyete tabi gerçek kişiler ile kurumların kanuni ve iş merkezi Türkiye’de bulunmayan kurumların tasfiyesinden doğan kazançları, 31/12/2018 tarihine kadar Türkiye’ye transfer edilmiş olması kaydıyla gelir ve kurumlar vergisinden müstesnadır.
 ı) Bakanlar Kurulu, bu fıkrada yer alan süreleri, bitim tarihlerinden itibaren altı aya kadar uzatmaya; Maliye Bakanlığı, fıkra kapsamına giren varlıkların Türkiye’ye getirilmesi, bildirim ve beyanı ile işletmeye dâhil edilmelerine ilişkin hususları, bildirim veya beyana esas değerlerin tespiti, bildirim ve beyanların şekli, içeriği ve ekleri ile yapılacağı yeri, fıkranın uygulanmasında kullanılacak bilgi ve belgeler ile uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.
-Mücbir sebep hâli sonlandırılan bazı yerlerdeki beyan ve bildirimler
+**Mücbir sebep hâli sonlandırılan bazı yerlerdeki beyan ve bildirimler**
 
 
 MADDE 11 – (1) 6736 sayılı Kanunun 10 uncu maddesinin ondokuzuncu fıkrası veya 7020 sayılı Kanunun 5 inci maddesi kapsamında, mücbir sebep hali sona eren mükelleflerden, 7020 sayılı Kanunun 5 inci maddesinde öngörülen sürede beyanname ve bildirimlerini vermemiş olan mükelleflerin mücbir sebep ilanı nedeniyle verilmeyen; beyanname ve bildirimleri 31/8/2018 günü sonuna kadar verilir, geçici vergi beyannameleri, mükellef bilgileri bildirimleri ve kesin mizan bildirimleri verilmez. Tahakkuk eden vergilerin vadesi beyanname ve bildirim verme süresinin son günü kabul edilir ve ilk taksiti 2018 yılının Eylül ayından başlamak üzere ikişer aylık dönemler hâlinde otuz eşit taksitte ödenir. Bu şekilde ödenen vergilere herhangi bir zam, faiz, katsayı uygulanmaz.
@@ -336,7 +336,7 @@ b) Öğretim Üyesi Yetiştirme Programı kapsamında lisansüstü eğitimine de
 MADDE 16 – 3/5/1985 tarihli ve 3194 sayılı İmar Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 16- Afet risklerine hazırlık kapsamında ruhsatsız veya ruhsat ve eklerine aykırı yapıların kayıt altına alınması ve imar barışının sağlanması amacıyla, 31/12/2017 tarihinden önce yapılmış yapılar için Çevre ve Şehircilik Bakanlığı ve yetkilendireceği kurum ve kuruluşlara 31/10/2018 tarihine kadar başvurulması, bu maddedeki şartların yerine getirilmesi ve 31/12/2018 tarihine kadar kayıt bedelinin ödenmesi halinde Yapı Kayıt Belgesi verilebilir. Başvuruya konu yapının ve arsasının mülkiyet durumu, yapı sınıf ve grubu ve diğer hususlar Bakanlık tarafından hazırlanan Yapı Kayıt Sistemine yapı sahibinin beyanına göre kaydedilir.
+**MADDE 16-** Afet risklerine hazırlık kapsamında ruhsatsız veya ruhsat ve eklerine aykırı yapıların kayıt altına alınması ve imar barışının sağlanması amacıyla, 31/12/2017 tarihinden önce yapılmış yapılar için Çevre ve Şehircilik Bakanlığı ve yetkilendireceği kurum ve kuruluşlara 31/10/2018 tarihine kadar başvurulması, bu maddedeki şartların yerine getirilmesi ve 31/12/2018 tarihine kadar kayıt bedelinin ödenmesi halinde Yapı Kayıt Belgesi verilebilir. Başvuruya konu yapının ve arsasının mülkiyet durumu, yapı sınıf ve grubu ve diğer hususlar Bakanlık tarafından hazırlanan Yapı Kayıt Sistemine yapı sahibinin beyanına göre kaydedilir.
 Yapının bulunduğu arsanın 29/7/1970 tarihli ve 1319 sayılı Emlak Vergisi Kanununa göre belirlenen emlak vergi değeri ile yapının Çevre ve Şehircilik Bakanlığınca belirlenen yaklaşık maliyet bedelinin toplamı üzerinden konutlarda yüzde üç, ticari kullanımlarda yüzde beş oranında alınacak kayıt bedeli başvuru sahibi tarafından genel bütçenin (B) işaretli cetveline gelir kaydedilmek üzere merkez muhasebe birimi hesabına yatırılır. 6306 sayılı Kanun kapsamında kullanılmak üzere kaydedilen gelirler karşılığı Bakanlık bütçesine ödenek eklemeye Maliye Bakanı yetkilidir. Bu ödenek, dönüşüm projeleri özel hesabına aktarılarak kullanılır. Kayıt bedeline ilişkin oranı iki katına kadar artırmaya, yarısına kadar azaltmaya, yapının niteliğine ve bölgelere göre kademelendirmeye, ayrıca başvuru ve ödeme süresini bir yıla kadar uzatmaya Bakanlar Kurulu yetkilidir.
 Yapı Kayıt Belgesi yapının kullanım amacına yöneliktir. Yapı Kayıt Belgesi alan yapılara, talep halinde ilgili mevzuatta tanımlanan ait olduğu abone grubu dikkate alınarak geçici olarak su, elektrik ve doğalgaz bağlanabilir.
 Yapı Kayıt Belgesi verilen yapılarla ilgili bu Kanun uyarınca alınmış yıkım kararları ile tahsil edilemeyen idari para cezaları iptal edilir.
@@ -353,7 +353,7 @@ Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlık ve Maliye Bakanlı
 MADDE 17 – 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 6- İmar planı bulunmayan veya imar planında tarımsal amaca ayrılan Hazineye ait tarım arazilerini en az üç yıldan beri tarımsal amaçla kullandığı 31/12/2017 tarihinden önce Bakanlıkça tespit edilen ve başvuru tarihi itibarıyla kullanımlarının halen devam ettiği belirlenen kullanıcılardan; bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içerisinde bu arazileri doğrudan kiralamak için başvuruda bulunanlara, ecrimisil borçları bulunmaması şartıyla, cari yıl ecrimisil bedelinin yarısı üzerinden on yıla kadar doğrudan kiralanabilir.
+**MADDE 6-** İmar planı bulunmayan veya imar planında tarımsal amaca ayrılan Hazineye ait tarım arazilerini en az üç yıldan beri tarımsal amaçla kullandığı 31/12/2017 tarihinden önce Bakanlıkça tespit edilen ve başvuru tarihi itibarıyla kullanımlarının halen devam ettiği belirlenen kullanıcılardan; bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içerisinde bu arazileri doğrudan kiralamak için başvuruda bulunanlara, ecrimisil borçları bulunmaması şartıyla, cari yıl ecrimisil bedelinin yarısı üzerinden on yıla kadar doğrudan kiralanabilir.
 Kira süresi sonunda yükümlülüklerini yerine getirdiği tespit edilen ve talepte bulunan kiracıların kira süresi uzatılabilir veya bu araziler sözleşme hükümleri çerçevesinde on yıllık kullanımı müteakip kiracılarına doğrudan satılabilir. Bu arazilerin satışında 26/4/2012 tarihi itibarıyla belediye ve mücavir alan sınırları içinde yer alan araziler için bu Kanunun 4 üncü maddesinin onikinci fıkrası, bu tarih itibarıyla belediye ve mücavir alan sınırları dışında yer alan araziler için ise 6292 sayılı Kanunun Hazineye ait tarım arazilerinin satışına ilişkin hükümleri kıyasen uygulanır.
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.”
 
@@ -373,7 +373,7 @@ MADDE 20 – 4708 sayılı Kanunun 12 nci maddesinin ikinci fıkrasında yer ala
 MADDE 21 – 4708 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 4- Yapı denetimi hizmet sözleşmesini imzalayacak kuruluşların Bakanlıkça yayımlanacak usul ve esaslara göre belirlenmesine veya atanmasına başlanacağı tarihten önce imzalanan yapı denetim hizmet sözleşmeleri geçerli olup, bu işler için sözleşme hükümlerine göre işlemlere devam edilir.”
+**MADDE 4-** Yapı denetimi hizmet sözleşmesini imzalayacak kuruluşların Bakanlıkça yayımlanacak usul ve esaslara göre belirlenmesine veya atanmasına başlanacağı tarihten önce imzalanan yapı denetim hizmet sözleşmeleri geçerli olup, bu işler için sözleşme hükümlerine göre işlemlere devam edilir.”
 
 
 MADDE 22 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 81 inci maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
@@ -383,7 +383,7 @@ MADDE 22 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağl
 MADDE 23 – 5510 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 18- Kurumca bu Kanun ve ilgili mevzuat uyarınca gelir ve aylık ödemesi yapılanlara, ödemenin yapılacağı tarihte gelir ve aylık alma şartıyla, Ramazan Bayramı ve Kurban Bayramında 1.000’er TL tutarında bayram ikramiyesi ödenir.
+**MADDE 18-** Kurumca bu Kanun ve ilgili mevzuat uyarınca gelir ve aylık ödemesi yapılanlara, ödemenin yapılacağı tarihte gelir ve aylık alma şartıyla, Ramazan Bayramı ve Kurban Bayramında 1.000’er TL tutarında bayram ikramiyesi ödenir.
 Birinci fıkrada belirtilen ödemenin yapılmasında;
 a) İş kazaları ve meslek hastalıkları sigortasından sürekli iş göremezlik geliri almakta olanlara, gelir bağlanmasına esas olan sürekli iş göremezlik derecesi oranı,
 b) Hak sahiplerinin hisseleri oranı,
@@ -408,19 +408,19 @@ Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurum tarafından belirlenir
 
 
 MADDE 25 – 19/9/2006 tarihli ve 5543 sayılı İskân Kanununun 21 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-21- (1) Bu Kanuna göre verilen taşınmaz mallar, temlik tarihinden itibaren borcun tamamı ödenmeden önce hiçbir suretle satılamaz, bağışlanamaz, rehin edilemez, tapu kütüğüne satış vaadi şerhi konulamaz ve haczolunamaz. Bu taşınmazların tapu kütüklerinin beyanlar hanesine bu yönde belirtme yapılır. Ancak, temlik tarihinden itibaren beşinci yılın sonunda başlamak üzere, borçlandırma bedelinin tamamını ödeyenlerin tapu kaydına yapılan belirtme kaldırılır.
+“**MADDE**
+**21-** (1) Bu Kanuna göre verilen taşınmaz mallar, temlik tarihinden itibaren borcun tamamı ödenmeden önce hiçbir suretle satılamaz, bağışlanamaz, rehin edilemez, tapu kütüğüne satış vaadi şerhi konulamaz ve haczolunamaz. Bu taşınmazların tapu kütüklerinin beyanlar hanesine bu yönde belirtme yapılır. Ancak, temlik tarihinden itibaren beşinci yılın sonunda başlamak üzere, borçlandırma bedelinin tamamını ödeyenlerin tapu kaydına yapılan belirtme kaldırılır.
 (2) Bu Kanuna göre hak sahiplerine verilen taşınmazların takyit süresi içinde belgelendirilmiş olmak koşuluyla ticari faaliyet dahil geçim imkanının temini, eğitim, yurt dışına çıkış, askerlik, tutukluluk, afet ve uzun hastalık gibi geçerli bir özrü olmaksızın kullanılmadığı, bağışlandığı veya satıldığı tespit olunduğunda, Mahalli İskân Komisyonunca hak sahiplilik durumu iptal edilir, iskân amaçlarında kullanılmak üzere tapu kaydının iptali ile Hazine adına tescili mahkemeden istenir.”
 
 
 MADDE 26 – 1/12/2011 tarihli ve 6253 sayılı Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Kanununun 29 uncu maddesinin sekizinci fıkrasında yer alan “ve (C)”, “ve geçici” ibareleri madde metninden çıkarılmış, aynı fıkrada yer alan “fıkralarına” ibaresi “fıkrasına” ve aynı fıkranın son cümlesinde yer alan “(C)” ibaresi “(B)” şeklinde değiştirilmiş, geçici 4 üncü maddesinin birinci fıkrasında yer alan “ve (C)” ibaresi madde metninden çıkarılmış, aynı fıkrada yer alan “fıkralarına” ibaresi “fıkrasına” şeklinde değiştirilmiştir.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 1- (1) 26/9/2011 tarihli ve 2011/2266 sayılı Bakanlar Kurulu Kararına ekli kroki ile sınırları gösterilen alanda bulunan ve iyileştirme, yenileme ve dönüşüm uygulamaları kapsamında bulunan taşınmazlar bu maddenin yürürlüğe girdiği tarih itibarıyla iyileştirme, yenileme ve dönüşüm uygulamaları yapılarak fiili kullanıcılara devredilmek üzere talebi halinde tapuda ayni ve şahsi haklar ile temlik hakkını kısıtlayan veya yasaklayan şerhe ilişkin muvafakat aranmaksızın Sultanbeyli Belediyesi adına tescil edilir. Bu taşınmazlarla birlikte daha önce bu kapsamda Maliye Bakanlığınca Belediyeye devredilen taşınmazlar, zilyetleri veya fiili kullanıcıları tespit edilmek ve varsa üzerindeki muhdesatın kime veya kimlere ait olduğu ve kim veya kimler tarafından kullanıldığı kadastro tutanağının beyanlar hanesinde gösterilmek suretiyle 21/6/1987 tarihli ve 3402 sayılı Kadastro Kanununun ek 4 üncü maddesi hükümlerine göre kadastrosu yapılarak Belediye adına tescil edilir.
+**MADDE 1-** (1) 26/9/2011 tarihli ve 2011/2266 sayılı Bakanlar Kurulu Kararına ekli kroki ile sınırları gösterilen alanda bulunan ve iyileştirme, yenileme ve dönüşüm uygulamaları kapsamında bulunan taşınmazlar bu maddenin yürürlüğe girdiği tarih itibarıyla iyileştirme, yenileme ve dönüşüm uygulamaları yapılarak fiili kullanıcılara devredilmek üzere talebi halinde tapuda ayni ve şahsi haklar ile temlik hakkını kısıtlayan veya yasaklayan şerhe ilişkin muvafakat aranmaksızın Sultanbeyli Belediyesi adına tescil edilir. Bu taşınmazlarla birlikte daha önce bu kapsamda Maliye Bakanlığınca Belediyeye devredilen taşınmazlar, zilyetleri veya fiili kullanıcıları tespit edilmek ve varsa üzerindeki muhdesatın kime veya kimlere ait olduğu ve kim veya kimler tarafından kullanıldığı kadastro tutanağının beyanlar hanesinde gösterilmek suretiyle 21/6/1987 tarihli ve 3402 sayılı Kadastro Kanununun ek 4 üncü maddesi hükümlerine göre kadastrosu yapılarak Belediye adına tescil edilir.
 (2) Bu kapsamda bulunan taşınmazların kullanıcılarına ve/veya muhdesat sahiplerine satış işlemlerinde 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanunun 6 ncı maddesi hükümleri hak sahipliğinin düşürülmesine ilişkin hükümler haricinde kıyasen uygulanır. Satışa konu edilecek taşınmazların rayiç bedellerinin belirlenmesinde; varsa üzerindeki muhdesata bedel belirlenmeksizin 6292 sayılı Kanuna göre daha önce Maliye Bakanlığınca satılan taşınmazların rayiç bedelleri emsal alınır.
 (3) Bu madde kapsamında kalan taşınmazlardan; fiili kullanımı bulunan tapu maliklerine fiilen kullandıkları alanlar, Belediyeye devredilen hisselerinden yüzde kırk oranında kesinti yapılmak suretiyle, fiilen kullanımı bulunmayan veya kullandığı alandan fazla hisseye sahip olan tapu maliklerine ise, Belediyeye devredilen hisselerinden yüzde kırk oranında kesinti yapılmak suretiyle öncelikle kullanıcısı olmayan parseller tam ve/veya hisseli olarak Belediyece bedelsiz olarak doğrudan devredilir. Bu alanların yetmemesi halinde kalan hisseler hakkında 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun acele kamulaştırmaya ilişkin hükümleri uygulanır. Bu yerlerden 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun 18 inci maddesine göre bir daha kesinti yapılmaz. Uygulama sonucunda tahsil edilen bedellerden Hazine payına isabet eden tutar kamulaştırma için yapılan masraflar düşüldükten sonra ilgili Hazine hesaplarına aktarılır.
 (4) Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Belediye yetkilidir.
-Yürürlük
+**Yürürlük**
 
 
 MADDE 27 – (1) Bu Kanunun;
@@ -428,7 +428,7 @@ a) 13 üncü maddesi 1/6/2018 tarihinde,
 b) 14 üncü maddesi 6/4/2018 tarihinden itibaren geçerli olmak üzere yayımı tarihinde,
 c) 18 inci, 19 uncu, 20 nci ve 21 inci maddeleri 1/1/2019 tarihinde,
 ç) Diğer maddeleri yayımı tarihinde, yürürlüğe girer.
-Yürütme
+**Yürütme**
 
 
 MADDE 28 – (1) Bu Kanunun;

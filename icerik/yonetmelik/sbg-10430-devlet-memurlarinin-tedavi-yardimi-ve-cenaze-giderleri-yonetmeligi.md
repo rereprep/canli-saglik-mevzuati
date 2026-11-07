@@ -9,27 +9,27 @@ durum: "yürürlükte"
 
 ## DEVLET MEMURLARININ TEDAVİ YARDIMI VE CENAZE GİDERLERİ YÖNETMELİĞİ
 
-Bakanlar Kurulu Kararının Tarihi : 27.7.1973 No : 7/6913
+**Bakanlar Kurulu Kararının Tarihi : 27.7.1973 No : 7/6913**
 
-Dayandığı Kanunun Tarihi : 14.7.1965 No : 657
+**Dayandığı Kanunun Tarihi : 14.7.1965 No : 657**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 11.8.1973 No : 14622
+**Yayımlandığı Resmî Gazetenin Tarihi : 11.8.1973 No : 14622**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 12 Sayfa : 2926
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 12 Sayfa : 2926**
 
 ### I. BÖLÜM Konu ve kapsam
 
-Konu:
+**Konu:**
 
 **Madde 1 –** 14/7/1965 tarihli 657 sayılı "Devlet Memurları Kanunu"nun 23/5/1972 tarihli 1589 sayılı Yetki Kanununa dayanılarak çıkarılan 30/5/1973 tarihli 5 sayılı "Kanun Hükmünde Kararname" ile değişik 209 uncu maddesinde öngörülen tedavi yardımı ve yol giderleri ile 657 sayılı Kanunun 1589 sayılı Yetki Kanununa dayanılarak çıkarılan 23/12/1972 tarihli 2 sayılı Kanun Hükmünde Kararname ile değişik 210 uncu maddesinde öngörülen cenaze giderleri ile ilgili hususlarda bu Yönetmelik hükümleri uygulanır.
 
-Kapsam:
+**Kapsam:**
 
 **Madde 2 –** Bu Yönetmelik, tedavi yardımı ve yol giderleri ile cenaze masraflarının kimlere, hangi hallerde ve şartlarda, kurumlarca nasıl ve ne şekilde sağlanacağı, hastalık halinde başvurma şekli ve bunun üzerine ne şekilde işlem yürütüleceği hususlarını ve bunlara ilişkin diğer konuları, kapsar. (Bu Yönetmelikte geçen tedavi deyimi muayene, teşhis ve tedaviyi kapsar.)
 
 ### II. BÖLÜM Tedavi ve yol giderlerinin kimler için, hangi hal ve şartlarda sağlanacağı
 
-Tedavi ve yol giderlerinden yararlanacak olanlar:
+**Tedavi ve yol giderlerinden yararlanacak olanlar:**
 
 **Madde 3 –** (Değişik: 19/1/1983 - 83/6022 K.) Tedavi ve yol giderlerinden yararlanacak olanlar şunlardır.
 
@@ -59,7 +59,7 @@ Devlet Memurunun bakmakla yükümlü olduğu ana, babasını bu sıfatından dol
 
 Geçici görev, bilgi ve görgülerini artırmak veya staj yapmak üzere yurt dışına gönderilen memurların yanlarında olan veya herhangi bir sebeple yurt dışında bulunan eşleri, bakmakla yükümlü oldukları ana, babaları ve aile yardımına müstehak çocukları ile kanuni izinlerini geçirmek üzere yurt dışına giden memurların yurt dışında yapılan tedavi giderleri, yurt dışında tedavi için Yönetmelikte öngörülen usullere uyulmak Sağlık ve Sosyal Yardım Bakanlığı Yataklı Tedavi Kurumları Resmi Fiyat Tarifesinde aynı tedavi için belirlenen tutar ile sınırlı olmak şartıyla Türkiye'de ve Türk parası olarak kurumlarınca ödenir.
 
-Yurt dışında tedavinin sağlanması yolları:
+**Yurt dışında tedavinin sağlanması yolları:**
 
 **Madde 4 –** Yurt dışında tedavi ve yol giderlerinden yararlanacak olanların hastalanmaları halinde tedavilerinin sağlanabilmesi için tedaviye mahalli usule göre lüzum gösterilmiş olması gerekmektedir.
 
@@ -67,23 +67,23 @@ Yurt dışında tedavinin sağlanması yolları:
 
 Bu takdirde ilgililerin sigorta primleri Devlet Memurunun bağlı olduğu kurumca karşılanır. Bu kişiler için ayrıca tedavi ve yol giderleri ödenmez.
 
-Yurt içinde tedavinin mümkün olmaması hali:
+**Yurt içinde tedavinin mümkün olmaması hali:**
 
 **Madde 5 –** (Mülga: 9/7/1999 - 99/13144 K.)
 
-Yurt içinde tedavinin yapılacağı resmi veya özel sağlık kurumları ile kuruluşları:
+**Yurt içinde tedavinin yapılacağı resmi veya özel sağlık kurumları ile kuruluşları:**
 
 **Madde 6 –** Genel ve katma bütçeli dairelere, kamu iktisadi teşebbüslerine, özel idarelere ve belediyelere, Tıp Fakültelerine bağlı yataklı veya yataksız tedavi kurumlarına "resmi sağlık kurumu", hükümet, sağlık ocağı, belediye ve kurum tabipliklerine de "resmi sağlık kuruluşu" denir.
 
 Gerçek veya tüzel kişiler tarafından kurulmuş yataklı veya yataksız tedavi kurumları ile tedavi amacıyle hasta kabul eden ve Sağlık ve Sosyal Yardım Bakanlığınca işletme müsaadesi verilmiş bulunan içmece ve kaplıcalar "özel sağlık kurumu", serbest tabiplikler "özel sağlık kuruluşu" sayılır.
 
-Tedavi şekilleri:
+**Tedavi şekilleri:**
 
 **Madde 7 –** Hastanın yataklı bir tedavi kurumunda yatırılarak tedavi edilmesine "yataklı tedavi", tabiplerin hastayı kendilerine tahsis edilmiş hizmet veya işyerlerinde ve yatırmadan tedavi etmelerine "ayakta tedavi", hastayı bulunduğu yerde tedavi etmelerine "evde tedavi" denir.
 
 ### III. BÖLÜM Hastalık halinde başvurma ve bunun üzerine yürütülecek işlem
 
-Memurun yurt içinde ve görevinin bulunduğu yerde hastalanması hali:
+**Memurun yurt içinde ve görevinin bulunduğu yerde hastalanması hali:**
 
 **Madde 8 –** Memurun yurt içinde ve görevinin bulunduğu yerde hastalanması halinde durum bağlı olduğu kurumun amirine duyurulur.
 
@@ -107,7 +107,7 @@ Hasta memurun bulunduğu yerde hükümet tabibi, sağlık ocağı veya belediye 
 
 Hastanın kurum, hükümet tabibi, sağlık ocağı veya belediye tabibine, gerektiğinde serbest tabip, sağlık memuru hemşire veya ebeye gönderilmesi ve lüzumlu görüldüğü takdirde resmi bir hastaneye veya sağlık merkezine yollanması işlemi, örneği ekli hasta yollama kağıtları ile yapılır. (Örnek: 1, 2)
 
-Memurun, yurt içinde, görevinin bulunduğu yer dışında hastalanması hali:
+**Memurun, yurt içinde, görevinin bulunduğu yer dışında hastalanması hali:**
 
 **Madde 9 –** Memurun, yurt içinde, görevinin bulunduğu yer dışında hastalanması halinde;
 
@@ -117,11 +117,11 @@ B) Memurun mensup olduğu kurumun o yerden teşkilatı olmakla beraber ayrıca t
 
 C) Memurun mensup olduğu kurumun o yerdeki teşkilatı yoksa, durum o yerin en büyük mülkiye amirine duyurulur. Bunun üzerine 8 inci maddenin (B) bendine göre işlem yapılır.
 
-Hastanın gönderildiği resmi sağlık kurumunda tedavinin sağlanamaması hali:
+**Hastanın gönderildiği resmi sağlık kurumunda tedavinin sağlanamaması hali:**
 
 **Madde 10 –** Hastanın gönderildiği resmi sağlık kurumunda yer bulunmadığı veya teknik sebepler dolayısiyle burada tedavisine imkan olmadığı kurumun baştabibi tarafından resmen bildirildiği takdirde hasta, bağlı olduğu kurumun tabibi varsa buraca, yoksa hükümet tabipliğince, aynı yerde istenilen tedaviyi sağlıyabilecek başka bir resmi sağlık kurumu bulunuyorsa oraya, yoksa bunu sağlıyabilecek en yakın diğer bir yerdeki resmi bir sağlık kurumuna veya özel bir sağlık kurumuna gönderilerek buraca tedavisi sağlanır.
 
-Muayene ve tedavi sonucunun bildirilmesi:
+**Muayene ve tedavi sonucunun bildirilmesi:**
 
 **Madde 11 –** Hasta memurun muayene ve tedavisi resmi sağlık kuruluşunca sağlandığı takdirde, hasta yollama kağıdı muayene ve tedaviyi yapan tabip tarafından 16 ncı maddenin (A) bendindeki esaslar dairesinde doldurularak bir nüshası derhal memurun dairesine gönderilir.
 
@@ -131,7 +131,7 @@ Hasta sağlık kurumuna gönderildiği takdirde, hasta yollama kağıdı hasta i
 
 Hastane sağlık kurullarınca rapor düzenlenirken ilişik örnek kullanılır. (Örnek 3)
 
-Yurtdışında bulunanların hastalanması hali:
+**Yurtdışında bulunanların hastalanması hali:**
 
 **Madde 12 –** (Değişik: 19/1/1983 - 83/6022 K.)
 
@@ -151,7 +151,7 @@ Misyon Şefliği, her ne şekilde olursa olsun tedavi ve yol giderlerinin ödene
 
 (Bu Yönetmelik bakımından Misyon Şefliği, o yerdeki Büyükelçilik, Elçilik, Daimi Temsilcilik, Başkonsolosluk ve Konsolosluktur.)
 
-Memurun eşi ve bakmakla yükümlü olduğu ana, baba ve aile yardımı ödeneğine müstehak çocuklarının hastalanması hali:
+**Memurun eşi ve bakmakla yükümlü olduğu ana, baba ve aile yardımı ödeneğine müstehak çocuklarının hastalanması hali:**
 
 **Madde 13 –** Memurun eşi ve bakmakla yükümlü olduğu ana, baba ve aile yardımı ödeneğine müstehak çocuklarının hastalanmaları halinde:
 
@@ -165,13 +165,13 @@ D) Bu şahıslar yurt dışında iseler ve bu Yönetmelik gereğince tedavi yard
 
 göre işlem yapılır.
 
-(Değişik son fıkra: 9/7/2007-2007/12379 K.) Bu şahıslar, yurt içindeki sağlık kurum ve kuruluşlarına, hasta yollama kâğıdı olmaksızın müracaat edebilirler. Bu konuya dair esas ve usuller Sağlık Bakanlığının görüşü alınarak Maliye Bakanlığınca, tedavi yardımına ilişkin uygulama tebliğleri ile belirlenir.
+**(Değişik son fıkra: 9/7/2007-2007/12379 K.)** Bu şahıslar, yurt içindeki sağlık kurum ve kuruluşlarına, hasta yollama kâğıdı olmaksızın müracaat edebilirler. Bu konuya dair esas ve usuller Sağlık Bakanlığının görüşü alınarak Maliye Bakanlığınca, tedavi yardımına ilişkin uygulama tebliğleri ile belirlenir.
 
-Hastalığın devamı halinde:
+**Hastalığın devamı halinde:**
 
 **Madde 14 –** Hastanın bulunduğu yerde sağlık kurumu yok ve hastalık devam ediyor ise, hastanın sağlık durumu müsait ve ulaştırma mümkün olduğu takdirde, hasta, ilk tedaviyi ve sağlık yardımı yapan tarafından en yakın resmi sağlık kurumuna gönderilir.
 
-Acil vakalar:
+**Acil vakalar:**
 
 **Madde 15 –** Acil vakalarda, yukarıdaki maddelerde söz konusu edilen işlemlere başvurulmaksızın, hastanın gerekli tedavisi hastanın bizzat kendisi veya hasta ile ilgili biri tarafından derhal yaptırılır. Bu muayene ve tedavi:
 
@@ -185,7 +185,7 @@ Gerekli işlemler sonradan tamamlanır.
 
 ### IV. BÖLÜM Raporların düzenlenmesi
 
-Genel olarak raporların düzenlenmesi:
+**Genel olarak raporların düzenlenmesi:**
 
 **Madde 16 –** Tedavi sonucunda düzenlenen raporlar;
 
@@ -195,17 +195,17 @@ B) Sağlık kurulu tarafından verilmiş ise hastalığın esas arazının, teş
 
 açıkça yazılması zorunludur.
 
-Sağlık durumu dolayısiyle naklen tayinin gerektiği hallerde düzenlenecek rapor:
+**Sağlık durumu dolayısiyle naklen tayinin gerektiği hallerde düzenlenecek rapor:**
 
 **Madde 17 –** Memurun bir yerden başka bir yere naklen tayinini gerektirecek sağlık kurulu raporlarında 16 ncı maddenin (B) bendinde belirtilen hususlarla birlikte, nakli gerektiren hastalık bulguları ve laboratuvar muayene sonuçlarının açıkça yazılması ve bu bulgulara göre hastanın hangi özelliklere sahip sağlık kurumu bulunan veya hangi iklim ve coğrafi şartların hakim olduğu bir yere nakli hususundaki kararın mucip sebeplerinin belirtilmesi zorunludur.
 
-Fizik tedaviyi öngören raporların düzenlenmesi:
+**Fizik tedaviyi öngören raporların düzenlenmesi:**
 
 **Madde 18 –** Fizik tedaviye (Mekanik tedavi, her çeşit şifalı su ve çamur tedavileri ile benzeri diğer tedaviler) lüzum gösterilen sağlık kurulu raporlarında 16 ncı maddenin (B) bendinde belirtilen hususlarla birlikte hastalığın mahiyetine ve mevcut bulgulara göre hastanın hangi tip ve vasıftaki fizik tedaviye muhtaç bulunduğunun, bu tedavilerin yapılabileceği yerlerle kurumların hangileri olduğunun mucip sebepleriyle birlikte, açıkca yazılması zorunludur.
 
 ### V. BÖLÜM Tedavi giderleri I. Kesim Yurt içinde
 
-Resmi sağlık kuruluşlarında tedavi:
+**Resmi sağlık kuruluşlarında tedavi:**
 
 **Madde 19 –** (Değişik: 19/1/1983 - 83/6022 K.)
 
@@ -219,7 +219,7 @@ Resmi sağlık kuruluşlarınca yapılan ayakta veya evde tedavi sırasında has
 
 Resmi sağlık kuruluşları tabiplerinin hastayı evde tedavi etmeleri halinde, kendilerine ayrılmış bir araç yoksa, gidip döndüğü yer arasındaki taşıt aracı ücretleri, hastanın bağlı olduğu kurumca ödenir.
 
-Resmi sağlık kurumlarında tedavi:
+**Resmi sağlık kurumlarında tedavi:**
 
 **Madde 20 –** Tedavi resmi sağlık kurumlarında sağlandığı takdirde, bu kurumlarca hastadan hiç bir surette para alınmaz.
 
@@ -227,7 +227,7 @@ Sağlık kurumunca, hastanın tedavisi dolayısiyle yapılan bütün işlemler s
 
 İlacın sağlık kurumunca sağlanamaması, enjeksiyonun sağlık kurumunca yapılmaması hallerinde bu Yönetmeliğin 19 uncu maddesine göre işlem yürütülür.
 
-Tedavide yatak ayrılması:
+**Tedavide yatak ayrılması:**
 
 **Madde 21 –** (Değişik: 20/5/1975 - 7/10036 K.)
 
@@ -255,25 +255,25 @@ Tedavinin gecikmesinde bir sakınca bulunmadığı halde memurun isteği üzerin
 
 Memurun eşi ile bakmakla yükümlü olduğu ana, baba ve aile yardım ödeneğine müstehak çocuklarının resmi sağlık kurumlarında yatakta tedavileri gerektiği takdirde, bunlar hakkında da memurun durumu esas alınmak suretiyle işlem yapılır."
 
-(Ek: 2/8/2002-2002/4635) 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun kapsamındaki görevlerden dolayı yaralanan veya sakat kalan memurun resmi sağlık kurumlarında yataklı tedavileri gerektiği takdirde, bunlar 4 üncü kadro derecesinden alt bir kadro derecesinde bulunsalar dahi birinci sınıf yataklarda yatırılırlar. Sınıf farkından doğan meblağ memurun kurumundan, memur emekliye sevk edilmişse Emekli Sandığı Genel Müdürlüğünden tahsil edilir.
+**(Ek: 2/8/2002-2002/4635)** 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun kapsamındaki görevlerden dolayı yaralanan veya sakat kalan memurun resmi sağlık kurumlarında yataklı tedavileri gerektiği takdirde, bunlar 4 üncü kadro derecesinden alt bir kadro derecesinde bulunsalar dahi birinci sınıf yataklarda yatırılırlar. Sınıf farkından doğan meblağ memurun kurumundan, memur emekliye sevk edilmişse Emekli Sandığı Genel Müdürlüğünden tahsil edilir.
 
-Özel sağlık kuruluşlarında tedavi:
+**Özel sağlık kuruluşlarında tedavi:**
 
 **Madde 22 –** Tedavi özel sağlık kuruluşlarında sağlandığı takdirde, (tabip tarafından kabul edilmek şartiyle) muayene ücreti ve yapılmışsa sair giderler hastadan alınmaz. Tabip tarafından bunlar gösterilmek suretiyle bir fatura düzenlenerek ilgili kuruma gönderilir, bedeli en geç aynı mali yıl sonuna kadar bu kurumca tabibe ödenir. Bu yol tabip tarafından kabul edilmediği takdirde, talep edilen para hasta tarafından tabibe ödenir. Alınacak fatura ilgili kuruma verilerek bedeli kurumdan alınır.
 
 Tabip tarafından verilen reçeteye dayanılarak ilaçların sağlanması veya enjeksiyon yaptırılması halinde, bu Yönetmeliğin 19 uncu maddesine göre işlem yürütülür.
 
-Özel sağlık kurumlarında tedavi:
+**Özel sağlık kurumlarında tedavi:**
 
 **Madde 23 –** Tedavi özel sağlık kurumlarında sağlandığı takdirde, (sağlık kurumu tarafından kabul edilmek şartiyle) hastadan hiç bir ücret alınmaz, tedavi dolayısiyle yapılan bütün işlemler sonucu istenilmesi gereken ücretleri göstermek üzere fatura düzenlenerek ilgili kuruma gönderilir, bedeli en geç aynı mali yıl sonuna ka dar bu kurumca sağlık kurumuna ödenir. Bu yol sağlık kurumu tarafından kabul edilmediği takdirde, istenilen ücret hasta tarafından sağlık kurumuna ödenir. Alınacak fatura ilgili kuruma verilerek bedeli kurumdan alınır.
 
 İlacın sağlık kurumunca sağlanamaması, enjeksiyonun sağlık kurumunca yapılamaması hallerinde, bu Yönetmeliğin 19 uncu maddesine göre işlem yapılır.
 
-Sağlık memuru, hemşire veya ebe tarafından ilk sağlık yardımı ve bakımının yapılması hali:
+**Sağlık memuru, hemşire veya ebe tarafından ilk sağlık yardımı ve bakımının yapılması hali:**
 
 **Madde 24 –** Sağlık memuru, hemşire veya ebe tarafından ilk yardım bakımının yapılması halinde, bunlar tarafından hastanın kullanması istenilen ilaçlar hasta tarafından sağlanır. İlaçlara lüzum gösteren belge ve ilaçların alındığını gösteren faturaya dayanılarak ilgili tarafından bedeli kurumdan alınır.
 
-Acil vakalarda:
+**Acil vakalarda:**
 
 **Madde 25 –** Vakanın acil olması nedeniyle, gerekli başvurma ve yollama işlemleri yaptırılmadan tedavi sağlandığı takdirde, tedavi giderlerinin ödenebilmesi için:
 
@@ -285,7 +285,7 @@ gerekir.
 
 Gerekli işlem ve belgeler tamamlanmadan yapılmış olan giderlerin bedeli, bunların tamamlanmasından sonra, faturalar verilmek suretiyle kurumdan alınır.
 
-Başka yerde tedavi:
+**Başka yerde tedavi:**
 
 **Madde 26 –** Hasta memurun tedavi için bulunduğu yarden başka yere gönderilmesi halinde;
 
@@ -319,13 +319,13 @@ Yol masrafı ve yevmiyeler "Harcırah Kanunu" hükümlerine göre hesaplanır. A
 
 Memurun eşi, bakmakla yükümlü olduğu ana, baba ve aile yardımı ödeneğine müstehak çocuklarının bulundukları yerden başka yere gönderilerek tedavi ettirilmeleri halinde de aynı şekilde işlem yapılır. Bunların yol masrafları ile yevmiyeleri ilgili memurun kanuni yol masrafı ve yevmiyesi üzerinden hesaplanır.
 
-Eşlik etme zorunluğu:
+**Eşlik etme zorunluğu:**
 
 **Madde 27 –** Yatakta tedavi edilenlerin, hastalıkları gereği yanlarında bir kimsenin bulundurulmasının zorunlu olduğu tedaviyi yapan sağlık kurumunun raporu ile belgelendiği takdirde, hastaya biri eşlik ettirilir. Bu takdirde ödenmesi gereken yatak ücreti, sağlık kurumunca düzenlenecek faturada gösterilmek ve belge eklenmek suretiyle, ilgili kurumca ödenir. Hasta özel sağlık kurumunda tedavi edilir ve giderler hasta tarafından bu sağlık kurumuna ödenirse, alınacak fatura ve belge ilgili kuruma verilerek bedeli kurumdan alınır.
 
 Hastanın tedavi edilmek üzere başka bir yere gönderilmesi sırasında yanında bir kimsenin bulundurulmasının zorunlu olduğu hastayı gönderen sağlık kurumu veya kuruluşunun raporunda belirtildiği takdirde, hastaya biri eşlik ettirilir. Eşlik eden kimseye de, memurun bağlı olduğu kurumca, "Harcırah Kanunu" hükümleri dairesinde yolluk ve gündelik verilir. Hasta bu Yönetmeliğin 26 ncı maddesi gereğince belirli bir araç ile gönderiliyorsa, eşlik edenin yollukları da aynı madde hükümleri uyarınca ödenir.
 
-İçmece ve kaplıca tedavisi:
+**İçmece ve kaplıca tedavisi:**
 
 **Madde 28 –** (Değişik: 19/1/1983 - 83/6022 K.)
 
@@ -337,13 +337,13 @@ Tedavi, bu sağlık kurullarınca içmece veya kaplıcanın listedeki yeri belir
 
 ### 2. Kesim Yurt dışında
 
-Tedavi ile ilgili gider belgeleri:
+**Tedavi ile ilgili gider belgeleri:**
 
 **Madde 29 –** Yurt dışında tedavi, sigorta sistemine dayanılarak sağlandığı takdirde, kurumca sadece sigorta pirimi ödenmesi gerektiğinden, tedavi dolayisiyle yapılan gider belgelerinin tespit ve teminine mahal bulunmamaktadır.
 
 Sigorta sisteminin uygulanmadığı memleketlerde sağlanan tedavi dolayısiyle yapılan giderlerin ödenebilmesi için ne şekilde hareket edilmesi gerektiği, ne gibi belgelere lüzum görüldüğü, bu belgelerin nerelerden ne şekilde sağlanması lazım geldiği hususu, yabancı memleketlerden her birinde, o ülkeye şamil olmak ve mahalli usul gözönünde bulundurulmak suretiyle, o memleketteki büyükelçilik veya elçilik tarafından tespit edilir. Tespit edilen esaslar, ilgili büyükelçilik veya elçilik tarafından Dışişleri Bakanlığına bu Bakanlıkca'da Maliye Bakanlığına bildirilir. Uygulamada beraberlik Dışişleri ve Maliye Bakanlıklarınca sağlanır.
 
-Tedavi giderlerinin ödenmesi:
+**Tedavi giderlerinin ödenmesi:**
 
 **Madde 30 –** Misyon şefliğince, Devlet Muhasebesi Genel Yönetmeliği ve Devlet Muhasebesi Muamelat Yönetmeliğine göre, tedavi dolayısiyle yapılan harcamalara ait belgeler incelenerek, ödeme yapılır.
 
@@ -351,7 +351,7 @@ Yapılan ödeme, belgeler de gönderilmek suretiyle ilgili kuruma bildirilir. Bu
 
 ### 3. Kesim Özel hükümler
 
-Diş hastalıklarının tedavisi:
+**Diş hastalıklarının tedavisi:**
 
 **Madde 31 –** (Değişik: 19/1/1983 - 83/6022 K.)
 
@@ -359,7 +359,7 @@ Diş hastalıklarının tedavisinde kullanılan altın veya benzeri diğer kıym
 
 Protezin yenilenebilmesi, bunun değiştirilmesinin zorunlu olduğunun raporla belgelendirilmesi halinde mümkündür.
 
-Doğum:
+**Doğum:**
 
 **Madde 32 –** (Değişik: 19/1/1983 - 83/6022 K.)
 
@@ -367,7 +367,7 @@ Devlet Memurlarından çocuğu dünyaya gelenler için 657 sayılı Devlet Memur
 
 Resmi Sağlık Kurum ve Kuruluşları dışında, sağlanan doğum dolayısiyle yapılacak ödeme yukarıdaki fıkraya göre yapılabilecek ödemeyi geçemez.
 
-Gözlük:
+**Gözlük:**
 
 **Madde 33 –** (Değişik: 19/1/1983 - 83/6022 K.)
 
@@ -377,13 +377,13 @@ Göz hastalıkları uzmanları tarafından düzenlenen reçeteye dayanılarak al
 
 Gözlük camı ve çerçeve 2 yılı geçmeden yenilenemez. Ancak, Sağlık zarureti görülmesi dolayısıyla gözlük camları değiştirildiği takdirde, reçeteye dayanılarak alınan yeni gözlük camları bedeli süre söz konusu edilmeden kurumca ödenir.
 
-İşitme cihazı:
+**İşitme cihazı:**
 
 **Madde 34 –** İşitmenin cihaz ile düzeltilmesinin kabil olduğu resmi hastahanelerin uzman tabipleri tarafından verilecek raporla sabit olanların aldıkları işitme cihazlarının bedelleri, kurumlarınca ödenir.
 
 İşitme cihazının yenilenebilmesi, en az 10 yıl geçmesi ve bunun değiştirilmesinin zorunlu olduğunun resmi hastahane uzman tabip raporu ile belgelenmesi halinde mümkündür.
 
-Çeşitli protezler:
+**Çeşitli protezler:**
 
 **Madde 35 –** (Değişik: 19/1/1983 - 83/6022 K.)
 
@@ -393,17 +393,17 @@ Verilecek protezlerin listesi Maliye ve Sağlık ve Sosyal Yardım Bakanlıklar�
 
 Protezin yenilenebilmesi, bunun değiştirilmesinin zorunlu olduğunun yukarıdaki esaslar çerçevesinde raporla belgelendirilmesi halinde mümkündür."
 
-Estetik bakımdan yapılan müdahaleler:
+**Estetik bakımdan yapılan müdahaleler:**
 
 **Madde 36 –** Estetik bakımdan yapılan tıbbi ve cerrahi müdahalelerin parası ödenmez.
 
-Sağlık karnesine işleme:
+**Sağlık karnesine işleme:**
 
 **Madde 37 –** Bu Yönetmeliğin 31 inci maddesine göre sağlanan diş protezleri, 33 üncü maddesine göre sağlanan gözlük camı ve çerçevesi ile çerçeve bedeli, 34 üncü maddesine göre sağlanan işitme cihazı, 35 inci maddesine göre sağlanan çeşitli protezler; ilgili şahsın sağlık karnesine, alındıkları tarih belirtilmek suretiyle, ödemeyi yapan kurumca işlenir.
 
 ### VI. BÖLÜM Sağlık karnesi
 
-Sağlık karnesi:
+**Sağlık karnesi:**
 
 **Madde 38 –** (Değişik: 14/5/2001 - 2001/2473 K.)
 
@@ -413,7 +413,7 @@ Sağlık karneleri, kendinden kopyalı reçeteli olarak verilir.
 
 Memur ve bakmakla yükümlü olduğu aile fertleri, sağlık kurum ve kuruluşlarına sağlık karneleri ile birlikte müracaat etmek zorundadır. Tabip tarafından gerekli görülen ilaçlar bu karnelere ekli reçetelere yazılır. Müteakip muayenelerde önceki tedaviler gözönünde bulundurulur.
 
-Sağlık dosyası:
+**Sağlık dosyası:**
 
 **Madde 39 –** Her Devlet memuru için, kurumların özlük işlerini yürüten ünitelerince biri memura diğeri bakmakla yükümlü olduğu kişilere ait olmak üzere 2 sağlık dosyası tutulur.
 
@@ -421,7 +421,7 @@ Memur ve bakmakla yükümlü olduğu kişilerin tedavileri ile ilgili bütün be
 
 Sağlık durumu ile ilgili belgeler gizli olup içindekiler ilgililerden başkasına açıklanamaz.
 
-Bakmakla yükümlü olduğu kişileri bildirme:
+**Bakmakla yükümlü olduğu kişileri bildirme:**
 
 **Madde 40 –** Her Devlet memuru, tedavi yardımından yararlanabilecek eşi, bakmakla yükümlü olduğu ana, baba ve aile yardımı ödeneğine müstehak çocuklarını gösterir bir beyanname vermekle yükümlüdür. (Örnek 6).
 
@@ -429,35 +429,35 @@ Tedavi yardımından yararlanacak ana ve babanın birden fazla Devlet memuru (bu
 
 Beyannamede gösterilen şahısların durumunda bir değişiklik meydana geldiğinde memur 15 gün içinde yeniden bir beyanname düzenleyerek ilgili mercie verir.
 
-(Değişik: 14/5/2001 - 2001/2473 K.) Karı ve kocanın her ikisinin de bu Yönetmelikten yararlanan memur olması halinde, aile yardımı ödeneğine müstehak çocuklar anne veya babadan yalnız biri tarafından düzenlenecek beyannamede, boşanma ve ayrılık vukuunda ise, mahkeme çocuğun velayetini hangi tarafa vermişse, çocuk onun tarafından düzenlenecek beyannamede gösterilir.
+**(Değişik: 14/5/2001 - 2001/2473 K.)** Karı ve kocanın her ikisinin de bu Yönetmelikten yararlanan memur olması halinde, aile yardımı ödeneğine müstehak çocuklar anne veya babadan yalnız biri tarafından düzenlenecek beyannamede, boşanma ve ayrılık vukuunda ise, mahkeme çocuğun velayetini hangi tarafa vermişse, çocuk onun tarafından düzenlenecek beyannamede gösterilir.
 
-Sağlık karnesini gösterme yükümlülüğü:
+**Sağlık karnesini gösterme yükümlülüğü:**
 
 **Madde 41 –** Şahıs, yurt içinde sağlık muayene ve tedavisi için başvurduğu tabip ve sağlık kurumlarına sağlık karnesini göstermekle yükümlüdür.
 
-Sağlık karnesinin işlenmesi:
+**Sağlık karnesinin işlenmesi:**
 
 **Madde 42 –** Memurların ve tedavi yardımından yararlanacak yakınlarının sağlık durumları, sağlık karnelerine tarih sırasiyle işlenir.
 
 Tedavi hastahanede yapılmışsa, konulan teşhis, yapılan tedavi ve verilen istirahat süresi, tedavi eden tabip tarafından, sağlık karnesine imzası altında işlenir. Tedavi hastanede yapılmışsa yukarda sayılan hususlar mütehassıs veya sağlık kurulu başkanı tarafından, imzası altında sağlık karnesine işlenir. Ayrıca memurlukları ile adları, açık ve okunaklı şekilde yazılır ve hastane baştabibi tarafından tasdik edilir.
 
-Sağlık karnesinin yenilenmesi:
+**Sağlık karnesinin yenilenmesi:**
 
 **Madde 43 –** Zamanla dolan veya kaybedilen sağlık karnelerinin yerine, ilgili makama yapılacak yazılı müracaatı müteakip yenileri verilir. Bu durumda eski sağlık karnesinde veya sağlık dosyasında bulunan, şahsın sağlık durumu ile ilgili olarak bilinmesi zorunlu görülen hususlar ve verilmiş sıhhi cihazlara ait kayıtlar yeni karneye işlenir. Sağlık karnesinin kaçıncı defa ve nesebeple verilmiş olduğu karnenin üzerine işaret edilir.
 
-Sağlık karnesinin iptali:
+**Sağlık karnesinin iptali:**
 
 **Madde 44 –** Memurun herhangi bir sebeple Devlet Memuru sıfatını kaybetmesi halinde kendisine ve bakmakla yükümlü olduğu kişilere ait sağlık karneleri; bakmakla yükümlü olduğu kişilerden birinin bu hakkı kaybetmesi halinde ise ona ait sağlık karnesi, ilgili kurumca iptal edilir.
 
 ### VII. BÖLÜM Cenaze Giderlerinin Kimler İçin Hangi Hal ve Şartlarda Ne Şekilde Karşılanacağı
 
-Kimlere ait cenaze masraflarının verileceği:
+**Kimlere ait cenaze masraflarının verileceği:**
 
 **Madde 45 –** Devlet memurlarının ölümleri halinde cenaze giderleri, (cenazenin başka yere nakli dahil) kurumlarınca ödenir.
 
 Yurt dışında sürekli veya geçici görevle bulunan veya yetiştirilmek, eğitilmek, bilgilerini artırmak veya staj yapmak veya bu Yönetmeliğin 5 inci maddesine dayanılarak tedavi görmek üzere yurt dışına gönderilmiş olan Devlet memurlarından ölenlerle, sürekli görevle yurt dışında bulunanların eş ve bakmakla yükümlü oldukları ana, baba ve aile yardımı ödeneğine müstehak çocuklarından ölenlerin cenazelerinin yurda getirilmesi için zorunlu giderler kurumlarınca ödenir.
 
-Cenaze giderleri:
+**Cenaze giderleri:**
 
 **Madde 46 –** Cenaze giderleri; ölüm olayının meydana geldiği yerde, ölünün gömülmesi ile ilgili olarak yapılan giderleri kapsar. (Çelenk, törene ait taşıt giderleri ve benzeri tören harcamaları için herhangi bir ödeme yapılmaz.)
 
@@ -471,7 +471,7 @@ Bir memurun, öldüğü yerden başka bir yere nakli ailesince istenildiği takd
 
 Devlet memurlarından ölenlerin cenazesi yurda getirildiğinde bunlar için yurtta yapılacak cenaze giderleri de gömülme işleminin yapılacağı mahal itibariyle yukarıdaki esaslar dairesinde ödenir.
 
-Cenazelerin yurda getirilmesi için zaruri giderler:
+**Cenazelerin yurda getirilmesi için zaruri giderler:**
 
 **Madde 47 –** Yurt dışında ölenlerden cenazeleri bu Yönetmeliğin 45. maddesinin 2 nci fıkrası gereğince yurda getirilecek olanların cenazelerini yurda getirilmesi için yapılacak zorunlu giderler, ölünün tahniti ve yurtta gömüleceği yere kadar normal ve zorunlu nakil giderlerini kapsar.
 
@@ -479,13 +479,13 @@ Bunların ödenebilmesi için bu giderlere ait belgelerin mahalli rayice uygunlu
 
 ### VIII. BÖLÜM Çeşitli Hükümler, Yürürlük, Yürütme
 
-Devlet Memurları Kanunu Kapsamı dışında olanların durumu:
+**Devlet Memurları Kanunu Kapsamı dışında olanların durumu:**
 
 **Madde 48 –** (Değişik: 20/5/1975 - 7/10036 K.)
 
 657 sayılı Devlet Memurları Kanununa 1327 sayılı Kanunla eklenen ve Kanun Hükmünde Kararnamelerle değiştirilen 7, 9, 12, 13, 14 ve 16 ncı maddelerde sözü edilen personel hakkında da bu Yönetmelik hükümleri uygulanır.
 
-Yürürlükten kaldırma:
+**Yürürlükten kaldırma:**
 
 **Madde 49 –** (Değişik: 20/5/1975 - 7/10036 K.)
 
@@ -513,11 +513,11 @@ Kurumlarca özel sağlık kurum ve kuruluşlarına yapılacak ödemeler, Sağlı
 
 25/6/2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikaları Kanununun 18 inci maddesi kapsamında aylıksız izinli sayılanlar, yurt içindeki sağlık kurum ve kuruluşlarına, hasta yollama kağıdı olmaksızın müracaat edebilir.
 
-Yürürlük:
+**Yürürlük:**
 
 **Madde 50 –** Bu Yönetmelik 1/9/1973 tarihinde yürürlüğe girer.
 
-Yürütme:
+**Yürütme:**
 
 **Madde 51 –** Bu Yönetmelik hükümlerini Bakanları Kurulu yürütür.
 
@@ -735,13 +735,13 @@ NOT: Karı ve kocanın her ikiside memur, ise çocuklar baba tarafından dolduru
 
 ### 27/7/1973 TARİHLİ VE 7/6913 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONAN YÖNETMELİĞE İŞLENEMEYEN HÜKÜMLER
 
-1 – 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konan Yönetmeliğin hükmüdür:
+**1 – 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konan Yönetmeliğin hükmüdür:**
 
 **Geçici Madde 1 –** Kendinden kopyalı reçete olarak düzenlenecek olan sağlık karnelerinin dağıtımı bu Yönetmeliğin Resmi Gazete’de yayımından itibaren 1 yıl içinde tamamlanır. Bu süre içerisinde mevcut uygulamaya devam edilir.
 
 ### 27/7/1973 TARİH VE 7/6913 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Kararnamenin 7/6913 Sayılı Yönetmeliğin
 
-Tarihi Numarası Yürürlüğe Giriş Tarihi
+**Tarihi Numarası Yürürlüğe Giriş Tarihi**
 
 ### Değişen Maddeleri
 
@@ -751,4 +751,4 @@ Tarihi Numarası Yürürlüğe Giriş Tarihi
 
 **Dipnotlar**
 
-<small>Yönetmeliğin dayanağını teşkil eden, 657 sayılı Devlet Memurları Kanununun 209 uncu maddesinde yer alan "aile yardımı ödeneğine müstahak" ibaresi, 243 sayılı Kanun Hükmünde Kararnamenin 31 inci maddesi ile Kanun metninden çıkarılmış olduğu için, bu maddede yer alan sözkonusu ibarenin uygulanmasına imkan kalmamıştır. Yönetmeliğin dayanağını teşkil eden, 657 sayılı Devlet Memurları Kanununun 209 uncu maddesinde yer alan "aile yardımı ödeneğine müstahak" ibaresi, 243 sayılı Kanun Hükmünde Kararnamenin 31 inci maddesi ile Kanun metninden çıkarılmış olduğu için, bu maddede yer alan sözkonusu ibarenin uygulanmasına imkan kalmamıştır. Bu madde başlığı “Özel sağlık kurumlarında tedavi:”iken, 7/8/2006 tarihli ve 2006/10876 sayılı Bakanlar Kurulu Kararı eki Yönetmeliğin 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir. “Örnek-4” no’lu form, 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile metne işlendiği şekilde yeniden düzenlenmiştir. “Örnek-5” no’lu form, 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile metne işlendiği şekilde yeniden düzenlenmiştir. “Örnek-6” no’lu form, 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile eklenmiş ve metne işlenmiştir.</small>
+<small>Yönetmeliğin dayanağını teşkil eden, 657 sayılı Devlet Memurları Kanununun 209 uncu maddesinde yer alan <i>"aile yardımı ödeneğine müstahak" ibaresi, 243 sayılı Kanun Hükmünde Kararnamenin 31 inci maddesi ile</i> Kanun <i>metninden çıkarılmış olduğu için, bu maddede yer alan sözkonusu ibarenin uygulanmasına imkan kalmamıştır.</i> Yönetmeliğin dayanağını teşkil eden, 657 sayılı Devlet Memurları Kanununun 209 uncu maddesinde yer alan "aile yardımı ödeneğine müstahak" ibaresi, 243 sayılı Kanun Hükmünde Kararnamenin 31 inci maddesi ile Kanun metninden çıkarılmış olduğu için, bu maddede yer alan sözkonusu ibarenin uygulanmasına imkan kalmamıştır. Bu madde başlığı “Özel sağlık kurumlarında tedavi:”iken, 7/8/2006 tarihli ve 2006/10876 sayılı Bakanlar <i>Kurulu Kararı eki Yönetmeliğin 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.</i> “Örnek-4” no’lu form, 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile metne işlendiği şekilde <i>yeniden düzenlenmiştir.</i> “Örnek-5” no’lu form, 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile metne işlendiği <i>şekilde yeniden düzenlenmiştir.</i> “Örnek-6” no’lu form, 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile eklenmiş ve metne <i>işlenmiştir.</i></small>

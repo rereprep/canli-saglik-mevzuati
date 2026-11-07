@@ -14,15 +14,15 @@ durum: "yürürlükte"
 
 ### ANAYASADA YAPILAN DEĞİŞİKLİKLERE UYUM SAĞLANMASI AMACIYLA BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
 
-Kanun Hükmünde Kararnamenin Tarihi: 2/7/2018 No: 703
+**Kanun Hükmünde Kararnamenin Tarihi: 2/7/2018 No: 703**
 
-Yetki Kanununun Tarihi : 18/10/1982 No: 2709
+**Yetki Kanununun Tarihi : 18/10/1982 No: 2709**
 
-10/5/2018 No: 7142
+**10/5/2018 No: 7142**
 
-Yayımlandığı Resmî Gazete Tarihi : 9/7/2018 No: 30473
+**Yayımlandığı Resmî Gazete Tarihi : 9/7/2018 No: 30473**
 
-(3. Mükerrer)
+**(3. Mükerrer)**
 
 #### Yayımlandığı Düstur : Tertip : 5 Cilt: 60
 
@@ -178,9 +178,9 @@ Yayımlandığı Resmî Gazete Tarihi : 9/7/2018 No: 30473
 
 **MADDE 76 –** (25/6/2010 tarihli ve 6001 sayılı Karayolları Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
 
-**MADDE 77 –** (12/4/1990 tarihli ve 3624 sayılı Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
+**MADDE 77 –** (12/4/1990 tarihli ve 3624 sayılı Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanun **ile ilgili olup yerine işlenmiştir.)**
 
-**MADDE 78 –** (21/9/2006 tarihli ve 5544 sayılı Meslekî Yeterlilik Kurumu Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 78 –** (21/9/2006 tarihli ve 5544 sayılı Meslekî Yeterlilik Kurumu Kanunu **ile ilgili olup yerine işlenmiştir.)**
 
 **MADDE 79 –** (8/1/1986 tarihli ve 3254 sayılı Meteoroloji Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
 
@@ -368,9 +368,9 @@ Yayımlandığı Resmî Gazete Tarihi : 9/7/2018 No: 30473
 
 **MADDE 171 –** (4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ile ilgili olup yerine işlenmiştir.)
 
-MADDE 172 ila 176 -(4/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 172 ila 176 -(4/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-MADDE 177 ila 179- (27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)
+**MADDE 177 ila 179- (27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)**
 
 **MADDE 180 –** (5/1/1961 tarihli ve 237 sayılı Taşıt Kanunu ile ilgili olup yerine işlenmiştir.)
 
@@ -474,7 +474,7 @@ Başbakanlık Başmüfettişi, Başbakanlık Müfettişi, Başbakanlık Müfetti
 
 Başbakanlık Hukuk Hizmetleri Başkanlığında görev yapmakta olan hukuk müşavirleri, kadro sınırlaması ile bağlı olmadan bulundukları kadro ve dereceleriyle başkaca bir işleme gerek kalmaksızın Hazine ve Maliye Bakanlığı Başhukuk Müşavirliği ve Muhakemat Genel Müdürlüğü Hukuk Müşavirliği kadrolarına atanmış sayılır. Bunlar hakkında 657 sayılı Kanunun eki (IV) sayılı makam tazminatı cetvelinin 5 inci sırasının (d) bendinde yer alan Hazine ve Maliye Bakanlığı Başhukuk Müşavirliği ve Muhakemat Genel Müdürlüğü Hukuk Müşavirliği hakkındaki hükümler uygulanır. Bunların Başbakanlıkta geçen hizmet süreleri Hazine ve Maliye Bakanlığı Hukuk Müşavirliğinde geçmiş sayılır. Bu şekilde ihdas edilmiş olan kadrolarda herhangi bir sebeple boşalma olması halinde bu kadrolar hiçbir işleme gerek kalmaksızın kendiliğinden iptal edilmiş sayılır.
 
-Başbakanlık Merkez Teşkilatında diğer kadrolarda bulunanlar öğrenim durumları, geçmiş kadro ve unvanları ile hizmet sınıfları ve çalıştıkları teşkilatlar itibarıyla kazanılmış hak aylık derecelerine uygun olarak kamu kurum ve kuruluşlarına bir ay içinde Devlet Personel Başkanlığınca atanır. Nakil işlemi tamamlanıncaya kadar, eski kadrolarına ait her türlü aylık, ek gösterge ve her türlü zam ve tazminatları, ikramiye ve sözleşme ücretleri ile diğer mali haklarını Hazine ve Maliye Bakanlığı bütçesinden almaya devam eder. Bunların atandıkları tarih itibarıyla diğer kanunlardaki hükümlere bakılmaksızın ve başka bir işleme gerek kalmaksızın kadroları ihdas edilmiş ve ilgili mevzuatı uyarınca Kurum kadro cetvellerine eklenmiş sayılır. (Mülga dördüncü cümle:18/6/2020-7247/24 md.) (…) (Mülga beşinci cümle:18/6/2020-7247/24 md.) (…)
+Başbakanlık Merkez Teşkilatında diğer kadrolarda bulunanlar öğrenim durumları, geçmiş kadro ve unvanları ile hizmet sınıfları ve çalıştıkları teşkilatlar itibarıyla kazanılmış hak aylık derecelerine uygun olarak kamu kurum ve kuruluşlarına bir ay içinde Devlet Personel Başkanlığınca atanır. Nakil işlemi tamamlanıncaya kadar, eski kadrolarına ait her türlü aylık, ek gösterge ve her türlü zam ve tazminatları, ikramiye ve sözleşme ücretleri ile diğer mali haklarını Hazine ve Maliye Bakanlığı bütçesinden almaya devam eder. Bunların atandıkları tarih itibarıyla diğer kanunlardaki hükümlere bakılmaksızın ve başka bir işleme gerek kalmaksızın kadroları ihdas edilmiş ve ilgili mevzuatı uyarınca Kurum kadro cetvellerine eklenmiş sayılır. **(Mülga dördüncü cümle:18/6/2020-7247/24 md.) (…) (Mülga beşinci cümle:18/6/2020-7247/24 md.) (…)**
 
 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrası ve ilgili mevzuatına göre istihdam edilen sözleşmeli personel, pozisyonlarıyla birlikte, sürekli işçi kadrolarında görev yapanlar kadrolarıyla kamu kurum ve kuruluşlarına Devlet Personel Başkanlığınca bir ay içinde atanırlar. Bunlar atandıkları tarih itibarıyla diğer kanunlardaki hükümlere bakılmaksızın ve başka bir işleme gerek kalmaksızın kadro ve pozisyonları ihdas edilmiş ve ilgili mevzuatı uyarınca Kurum kadro cetvellerine eklenmiş sayılır. Nakil işlemi tamamlanıncaya kadar, eski kadrolarına ait her türlü aylık, zam ve tazminatları, ikramiye ve sözleşme ücretleri ile diğer mali haklarını Hazine ve Maliye Bakanlığı bütçesinden almaya devam eder.
 
@@ -746,4 +746,4 @@ Teşkilatı: Merkez
 | GİH | Din İşleri Yüksek Kurulu Sekreteri | 1 | 1 | 1 |
 |  | TOPLAM |  | 5 | 5 |
 
-<small>[1] Bu maddede yapılan düzenleme; 5/6/2024 tarihli ve 32567 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesi’nin 7/12/2023 tarihli ve E.:2021/125, K.:2023/213 sayılı Kararı ile iptal edilmiştir.</small>
+<small>[1] <i>Bu maddede yapılan düzenleme; 5/6/2024 tarihli ve 32567 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesi’nin 7/12/2023 tarihli ve E.:2021/125, K.:2023/213 sayılı Kararı ile iptal edilmiştir.</i></small>

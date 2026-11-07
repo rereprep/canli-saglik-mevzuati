@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/07/20190719M1-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN GELİR VERGİSİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 7186 Kabul Tarihi: 17/7/2019
+**KANUN GELİR VERGİSİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+**Kanun No. 7186** Kabul Tarihi: 17/7/2019
 
 MADDE 1 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun mülga 113 üncü maddesi başlığıyla birlikte aşağıdaki şekilde yeniden düzenlenmiştir.
 “Hasılat esaslı kazanç tespiti

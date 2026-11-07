@@ -12,11 +12,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/05/20120518-4..htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN AFET
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN** AFET
 SİGORTALARI KANUNU
 Kanun No. 6305 Kabul Tarihi: 9/5/2012
-BİRİNCİ BÖLÜM
-Amaç, Kapsam ve Tanımlar Amaç ve kapsam
+**BİRİNCİ BÖLÜM**
+**Amaç, Kapsam ve Tanımlar** Amaç ve kapsam
 
 MADDE 1 – (1) Bu Kanunun amacı, binalarda deprem sonucu meydana gelebilecek maddi zararların karşılanmasını teminen yaptırılacak zorunlu deprem sigortası ile sigorta şirketlerince teminat verilemeyen veya teminat verilmesinde güçlükler bulunan çeşitli afetler ve riskler sonucu meydana gelebilecek maddi ve bedeni zararların karşılanabilmesini teminen sunulacak sigorta ve reasürans teminatlarına ilişkin usul ve esasları belirlemektir.
 Tanımlar
@@ -31,8 +31,8 @@ e) Sigorta şirketi: 5684 sayılı Kanuna göre Türkiye’de kurulmuş sigorta 
 f) Teknik işletici: Kurumun teknik işleri ile işletmeye ilişkin iş ve işlemlerini yürüten şirketi,
 g) Yönetim Kurulu: Doğal Afet Sigortaları Kurumu Yönetim Kurulunu,
 ğ) Zorunlu deprem sigortası: Binalarda depremin doğrudan neden olduğu maddi zararlar ile deprem nedeniyle ortaya çıkan yangın, infilak, dev dalga (tsunami) ve yer kayması sonucu oluşan maddi zararları teminat altına alan zorunlu sigortayı, ifade eder.
-İKİNCİ BÖLÜM
-Doğal Afet Sigortaları Kurumu Doğal Afet Sigortaları Kurumu
+**İKİNCİ BÖLÜM**
+**Doğal Afet Sigortaları Kurumu** Doğal Afet Sigortaları Kurumu
 
 MADDE 3 – (1) Bu Kanuna göre sunulacak sigorta ve reasürans teminatları, Bakanlık nezdinde kurulan kamu tüzel kişiliğini haiz Doğal Afet Sigortaları Kurumu tarafından verilir. Kurumun merkezi, teknik işleticinin idare merkezinin bulunduğu yerdir. Kurumun tescilli isim hakkı Müsteşarlığa aittir.
 (2) Kurum ve gelirleri her türlü vergi, resim ve harçtan muaftır.
@@ -95,8 +95,8 @@ g) Kurumun aldığı borçların geri ödenmesine ilişkin faiz ve anapara ödem
 ğ) Retrosesyon ve reasürans primleri ile reasürans komisyonları.
 (4) Kurum varlıklarının yatırıma yönlendirilmesinde, yatırım araçları bakımından çeşitlendirme yapılır ve öncelikli olarak;
 varlıkların likit olması, anapara kaybı riskinin en düşük olması ve getiri oranının yüksek olması ilkeleri esas alınır.
-ÜÇÜNCÜ BÖLÜM
-Zorunlu Deprem Sigortası Kapsam ve sigorta yapma zorunluluğu
+**ÜÇÜNCÜ BÖLÜM**
+**Zorunlu Deprem Sigortası** Kapsam ve sigorta yapma zorunluluğu
 
 MADDE 10 – (1) 23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunu kapsamındaki bağımsız bölümler, tapuya kayıtlı ve özel mülkiyete tâbi taşınmazlar üzerinde mesken olarak inşa edilmiş binalar, bu binaların içinde yer alan ve ticarethane, büro ve benzeri amaçlarla kullanılan bağımsız bölümler ile doğal afetler nedeniyle Devlet tarafından yaptırılan veya sağlanan kredi ile yapılan meskenler zorunlu deprem sigortasına tâbidir.
 (2) 9/11/1983 tarihli ve 2946 sayılı Kamu Konutları Kanununa tâbi olan veya kamu hizmet binası olarak kullanılan binalar ve bağımsız bölümler, köy nüfusuna kayıtlı ve köyde sürekli oturanlarca köy yerleşik alanları ve civarında ve mezralarda yapılan binalar ile 634 sayılı Kanun kapsamında olsalar dahi tamamı ikamet dışı amaçlarla kullanılan binalar zorunlu deprem sigortasına tâbi değildir.
@@ -118,8 +118,8 @@ Tarife ve talimatlar ile uygulama esasları ve genel şartlar
 MADDE 13 – (1) Zorunlu deprem sigortasına ilişkin tarife ve talimatlar ile azami teminat tutarı her yıl Bakan tarafından belirlenir ve Resmî Gazetede yayımlanır. Sigorta primlerinin tespitinde; binanın yüzölçümü, inşaat türü ve kalitesi, binanın üzerinde bulunduğu arazinin zemin özellikleri, deprem riski ve benzeri unsurlar değerlendirilir.
 (2) Zorunlu deprem sigortası bulunan ve deprem nedeniyle hasar gören binalara ilişkin tazminat, gerekli bilgi ve belgeler ile hasar tespitinin tamamlanmasını müteakip en geç otuz gün içinde ödenir.
 (3) Zorunlu deprem sigortasına ilişkin uygulama usul ve esasları ile sigorta genel şartları Müsteşarlık tarafından belirlenir.
-DÖRDÜNCÜ BÖLÜM
-Diğer Hükümler Yönetmelik
+**DÖRDÜNCÜ BÖLÜM**
+**Diğer Hükümler** Yönetmelik
 
 MADDE 14 – (1) Bu Kanunun uygulamasına ilişkin yönetmelikler bu Kanunun yayımı tarihinden itibaren bir yıl içinde yürürlüğe konulur.
 Yürürlükten kaldırılan hükümler

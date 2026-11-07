@@ -34,7 +34,7 @@ Onay’ı.
 
 Laboratuvarlarında Yönetmeliğin Ek-1/c grubunda bulunan mikrobiyolojik parametrelerin de yapılmasına yönelik yetki düzenlenmesi talep edilmektedir.
 
-L2 hizmet tipi Halk Sağlığı Laboratuvarlarının içme-kullanma suyu Ek 1/c mikrobiyolojik analizlerde de (C.perfringens (sporlular dahil), 22 °C’de koloni sayımı ve Koliform bakteri) yetkili olduğuna ilişkin Genel Müdürlük Makamının ilgi (b) Onay’ı ekte yer almaktadır.
+L2 hizmet tipi Halk Sağlığı Laboratuvarlarının içme-kullanma suyu Ek 1/c mikrobiyolojik analizlerde de (<i>C.perfringens</i> (sporlular dahil), 22 °C’de koloni sayımı ve Koliform bakteri) yetkili olduğuna ilişkin Genel Müdürlük Makamının ilgi (b) Onay’ı ekte yer almaktadır.
 
 Bu kapsamda Genel Müdürlüğümüz bünyesinde hizmet vermekte olan Ulusal Halk Sağlığı
 

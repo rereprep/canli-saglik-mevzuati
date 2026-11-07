@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/06/20220623-11.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-SAĞLIKLA İLGİLİ BAZI KANUNLARDA VE 375 SAYILI KANUN
-HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7411 Kabul Tarihi: 16/6/2022
+**KANUN**
+**SAĞLIKLA İLGİLİ BAZI KANUNLARDA VE 375 SAYILI KANUN**
+**HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7411 Kabul Tarihi: 16/6/2022**
 
 MADDE 1- 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun geçici 9 uncu maddesinin birinci fıkrasında yer alan “1/1/2020” ibaresi “1/1/2029” şeklinde değiştirilmiştir.
 

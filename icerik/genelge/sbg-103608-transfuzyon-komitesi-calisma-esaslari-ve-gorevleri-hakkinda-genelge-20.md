@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-2.3.19. Transfüzyon Komitesi Çalışma Esasları ve Görevleri Hakkında Genelge (2004/66)
+**2.3.19. Transfüzyon Komitesi Çalışma Esasları ve Görevleri Hakkında Genelge (2004/66)**
 
 **Transfüzyon Komitesi Çalışma Esasları ve Görevleri Hakkındaki Genelge**
 

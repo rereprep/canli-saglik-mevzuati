@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-DİYALİZ MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**DİYALİZ MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 1/3/2019 tarihli ve 30701 sayılı Resmî Gazete’de yayımlanan Diyaliz Merkezleri Hakkında Yönetmeliğin geçici 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 1/3/2019 tarihli ve 30701 sayılı Resmî Gazete’de yayımlanan Diyaliz Merkezleri Hakkında Yönetmeliğin geçici 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “GEÇİCİ MADDE 1 – (1) 1/3/2019 tarihinden önce diyaliz sertifikası almış ve geçerli sertifikası bulunan tabip dışı sağlık meslek mensupları diyaliz hizmetlerinde görevlendirilebilir. Bu sağlık meslek mensuplarının resertifikasyon hakları saklıdır.”
 
 MADDE 2 – Aynı Yönetmeliğin ekinde yer alan Ek-7 ekteki şekilde değiştirilmiştir.

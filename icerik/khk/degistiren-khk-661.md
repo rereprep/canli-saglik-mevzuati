@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/11/20111102M1-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-HÜKMÜNDE KARARNAME AVRUPA BİRLİĞİ BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**HÜKMÜNDE KARARNAME** AVRUPA BİRLİĞİ BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA **KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME**
 Karar Sayısı: KHK/661 Avrupa Birliği Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile bazı kanun ve kanun hükmünde kararnamelerde değişiklik yapılması;
 6/4/2011 tarihli ve 6223 sayılı Kanunun verdiği yetkiye dayanılarak, Bakanlar Kurulu’nca 24/10/2011 tarihinde kararlaştırılmıştır.
 
@@ -31,33 +31,33 @@ MADDE 4- 634 sayılı Kanun Hükmünde Kararnamenin 38 inci maddesine aşağıda
 MADDE 5- 3/6/2011 tarihli ve 637 sayılı Ekonomi Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 15 inci maddesine aşağıdaki fıkra beşinci fıkra olarak eklenmiş ve mevcut beşinci fıkra altıncı fıkra olarak teselsül ettirilmiştir.
 “(5) Denetim Hizmetleri Başkanlığına tahsisli kadrolarda görev yapan Dış Ticaret Uzmanı ve Dış Ticaret Uzman Yardımcılarının inceleme, denetim ve soruşturma işlerine ilişkin görevlendirmelerinde 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 33 üncü maddesinin (b) fıkrası hükmü uygulanır.”
 
-MADDE 6- 3/6/2011 tarihli ve 638 sayılı Gençlik ve Spor Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 3 üncü maddesine aşağıdaki fıkralar eklenmiştir.
+**MADDE 6-** 3/6/2011 tarihli ve **638 sayılı Gençlik ve Spor Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin** 3 üncü maddesine aşağıdaki fıkralar eklenmiştir.
 “(3) Bakanlığın yurtdışında yürüteceği program, proje ve faaliyetlerin gerektirdiği koordinasyonun sağlanması amacıyla Koordinasyon Ofisleri kurulabilir.
 (4) Koordinasyon Ofislerinin kurulacağı yerler ve süresi ile Ofislerin çalışma usul ve esasları; bu Ofislerde, Bakanlık ve bağlı kuruluşların personelinden görevlendirilenler ile bunlara yardımcı olmak üzere mahallinden temin edilen ve Ofis hizmetlerinde çalışan personelin niteliği, sayısı, görev süresi ve bunlara ödenecek ücretlerin belirlenmesi, personele yapılacak ödemeler dışında kalan diğer harcamaların neler olacağı ve harcamaya ilişkin usul ve esaslar Bakanlar Kurulunca belirlenir.”
 
-MADDE 7- 638 sayılı Kanun Hükmünde Kararnamenin 7 nci maddesinin birinci fıkrasının (c) bendinde yer alan “gençlik kamplarının” ibaresi “gençlik ve izcilik kamplarının” şeklinde, 28 inci maddesinin başlığı “Gençlik merkezleri ile gençlik ve izcilik kampları” şeklinde ve aynı maddenin birinci fıkrasında yer alan “gençlik kampları” ibaresi “gençlik ve izcilik kampları” şeklinde değiştirilmiştir.
+**MADDE 7- 638 sayılı Kanun Hükmünde Kararnamenin** 7 nci maddesinin birinci fıkrasının (c) bendinde yer alan “gençlik kamplarının” ibaresi “gençlik ve izcilik kamplarının” şeklinde, 28 inci maddesinin başlığı “Gençlik merkezleri ile gençlik ve izcilik kampları” şeklinde ve aynı maddenin birinci fıkrasında yer alan “gençlik kampları” ibaresi “gençlik ve izcilik kampları” şeklinde değiştirilmiştir.
 
-MADDE 8- 3/6/2011 tarihli ve 640 sayılı Gümrük ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 7 nci maddesinin birinci fıkrasının (f) bendi aşağıdaki şekilde değiştirilmiştir.
-“f) Gümrüksüz satış mağazaları ile ilgili işlemleri yürütmek.”
+MADDE 8- 3/6/2011 tarihli ve 640 sayılı Gümrük ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında **Kanun Hükmünde Kararnamenin 7 nci maddesinin birinci fıkrasının (f) bendi aşağıdaki şekilde değiştirilmiştir.**
+**“f) Gümrüksüz satış mağazaları ile ilgili işlemleri yürütmek.”**
 
-MADDE 9- 640 sayılı Kanun Hükmünde Kararnameye 37 nci maddesinden sonra gelmek üzere aşağıdaki 37/A maddesi eklenmiştir.
+MADDE 9- **640 sayılı Kanun Hükmünde** Kararnameye 37 nci maddesinden sonra gelmek üzere aşağıdaki 37/A maddesi eklenmiştir.
 “Gümrük ve Ticaret Denetmenliği
 
 MADDE 37/A- (1) Bakanlık taşra teşkilatında Gümrük ve Ticaret Denetmeni ile Gümrük ve Ticaret Denetmen Yardımcısı istihdam edilir.
-(2) Gümrük ve Ticaret Denetmenleri; en az dört yıllık lisans eğitimi veren ve yönetmelikle belirlenen fakülte veya yüksekokullar ile bunlara denkliği Yükseköğretim Kurulunca onaylanan yabancı fakülte veya yüksekokullardan mezun olanlar arasından yapılan yarışma sınavı sonucuna göre mesleğe Gümrük ve Ticaret Denetmen Yardımcısı olarak atanırlar.
-(3) Bunlar en az üç yıl çalışmak kaydıyla yeterlik sınavına girmeye hak kazanırlar. Yapılacak yeterlik sınavında başarılı olanlar, durumlarına uygun Gümrük ve Ticaret Denetmeni kadrolarına atanırlar.
-(4) Gümrük ve Ticaret Denetmeni ile Gümrük ve Ticaret Denetmen Yardımcılarının mesleğe alınmaları, yarışma sınavları, yetiştirilmeleri, yeterlik sınavları, görev, yetki ve sorumlulukları ile çalışma usul ve esasları yönetmelikle düzenlenir.”
+(2) Gümrük ve Ticaret Denetmenleri; en az dört yıllık lisans eğitimi veren ve yönetmelikle belirlenen fakülte veya yüksekokullar ile bunlara denkliği Yükseköğretim Kurulunca onaylanan yabancı fakülte veya yüksekokullardan **mezun olanlar arasından yapılan yarışma sınavı sonucuna göre mesleğe** Gümrük ve Ticaret **Denetmen Yardımcısı olarak atanırlar.**
+**(3) Bunlar en az üç yıl çalışmak kaydıyla yeterlik sınavına girmeye hak kazanırlar. Yapılacak yeterlik sınavında başarılı olanlar, durumlarına uygun** Gümrük ve Ticaret Denetmeni kadrolarına **atanırlar.**
+(4) Gümrük ve Ticaret Denetmeni ile Gümrük ve Ticaret Denetmen Yardımcılarının **mesleğe alınmaları, yarışma sınavları, yetiştirilmeleri, yeterlik sınavları, görev, yetki ve sorumlulukları ile çalışma usul ve esasları yönetmelikle düzenlenir.”**
 
-MADDE 10- 640 sayılı Kanun Hükmünde Kararnamenin 38 inci maddesinin birinci fıkrasının ikinci cümlesi yürürlükten kaldırılmış ve aynı maddeye aşağıdaki fıkralar eklenmiştir.
-“(2) Gümrük Muhafaza Memuru kadrosuna atanacakların başvuru tarihinde otuz yaşından gün almamış olmaları şarttır.
-(3) Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.”
+MADDE 10- 640 sayılı **Kanun Hükmünde Kararnamenin 38 inci maddesinin birinci fıkrasının ikinci cümlesi yürürlükten kaldırılmış ve aynı maddeye aşağıdaki fıkralar eklenmiştir.**
+**“(2) Gümrük Muhafaza Memuru kadrosuna atanacakların başvuru tarihinde otuz yaşından gün almamış olmaları şarttır.**
+**(3) Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.”**
 
-MADDE 11- 640 sayılı Kanun Hükmünde Kararnamenin 39 uncu maddesinin birinci fıkrasına “Gümrük Muhafaza Bölge Amiri,” ibaresinden sonra gelmek üzere “gümrük muhafaza hizmetlerini yürüten Gümrük ve Ticaret Denetmeni ile Gümrük ve Ticaret Denetmen Yardımcısı,” ibaresi eklenmiştir.
+MADDE 11- **640 sayılı Kanun Hükmünde** Kararnamenin 39 uncu maddesinin birinci fıkrasına “Gümrük Muhafaza Bölge Amiri,” ibaresinden sonra gelmek üzere “gümrük muhafaza hizmetlerini yürüten Gümrük ve Ticaret Denetmeni ile Gümrük ve Ticaret Denetmen Yardımcısı,” ibaresi eklenmiştir.
 
-MADDE 12- 640 sayılı Kanun Hükmünde Kararnamenin geçici 4 üncü maddesinin birinci fıkrasında yer alan “31/12/2011” ibaresi “31/12/2012” şeklinde değiştirilmiş ve ikinci fıkrasına aşağıdaki cümle eklenmiştir.
-“Bu şekilde atanan personelin kadroları 190 sayılı Kanun Hükmünde Kararnamenin eki (1) sayılı cetvelin Bilim, Sanayi ve Teknoloji Bakanlığına ait bölümünden çıkarılmış ve aynı cetvelin Gümrük ve Ticaret Bakanlığına ait bölümüne eklenmiş sayılır.”
+MADDE 12- 640 sayılı **Kanun Hükmünde Kararnamenin geçici 4 üncü maddesinin birinci fıkrasında yer alan “31/12/2011” ibaresi “31/12/2012” şeklinde değiştirilmiş ve ikinci fıkrasına aşağıdaki cümle eklenmiştir.**
+**“Bu şekilde atanan personelin kadroları 190 sayılı Kanun Hükmünde Kararnamenin eki (1) sayılı cetvelin Bilim, Sanayi ve Teknoloji Bakanlığına ait bölümünden çıkarılmış ve aynı cetvelin Gümrük ve Ticaret Bakanlığına ait bölümüne eklenmiş sayılır.”**
 
-MADDE 13- 9/6/1930 tarihli ve 1700 sayılı Dahiliye Memurları Kanununun 2 nci maddesinin birinci fıkrasının (B) bendine aşağıdaki cümle eklenmiş ve (C) bendinde yer alan “30” ibaresi “35” şeklinde değiştirilmiştir.
+**MADDE 13-** 9/6/1930 tarihli ve 1700 sayılı Dahiliye Memurları Kanununun 2 nci maddesinin birinci fıkrasının (B) bendine aşağıdaki cümle eklenmiş ve (C) bendinde yer alan “30” ibaresi “35” şeklinde değiştirilmiştir.
 “Kaymakam adaylığı yazılı sınavına daha önce mülakatta üç kez başarısız olanlar katılamazlar.”
 
 
@@ -82,10 +82,10 @@ MADDE 17 – 3201 sayılı Kanunun ek 15 inci maddesinin birinci fıkrasına aş
 
 
 MADDE 18 – 3201 sayılı Kanuna aşağıdaki ek maddeler eklenmiştir.
-“EK MADDE 29- Emniyet Hizmetleri Sınıfı dışında kalan kadrolu veya sözleşmeli personelin emniyet teşkilatına seçimi ve atanmaları; 657 sayılı Devlet Memurları Kanununa göre yapılan merkezi sınava ilave olarak sözlü sınav ve/veya uygulamalı sınav puanı ile diğer niteliklere göre yapılır. Personelin alımı ve ilk atamaya ilişkin sınav, sınav komisyonları ve aranacak nitelikler ile diğer hususlar İçişleri Bakanlığınca çıkarılan yönetmelikle düzenlenir.
+**“EK MADDE 29-** Emniyet Hizmetleri Sınıfı dışında kalan kadrolu veya sözleşmeli personelin emniyet teşkilatına seçimi ve atanmaları; 657 sayılı Devlet Memurları Kanununa göre yapılan merkezi sınava ilave olarak sözlü sınav ve/veya uygulamalı sınav puanı ile diğer niteliklere göre yapılır. Personelin alımı ve ilk atamaya ilişkin sınav, sınav komisyonları ve aranacak nitelikler ile diğer hususlar İçişleri Bakanlığınca çıkarılan yönetmelikle düzenlenir.
 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu, 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler Kanunu ile 657 sayılı Kanunun 53 üncü maddesi gereğince emniyet teşkilatına alınacak personel sayısının hesaplanmasında, Emniyet Hizmetleri Sınıfı dışındaki kadro sayısı esas alınır. 657 sayılı Kanunun 53 üncü maddesinin birinci fıkrasında belirtilen oran emniyet teşkilatı için %5 olarak uygulanır.
 
-EK MADDE 30- Üçüncü Sınıf Emniyet Müdürü rütbesine terfi etmek için zorunlu ikinci bölge hizmetini en az bir kez yapmış olmak veya halen bu bölge hizmetini ifa ediyor olmak şarttır.
+**EK MADDE 30-** Üçüncü Sınıf Emniyet Müdürü rütbesine terfi etmek için zorunlu ikinci bölge hizmetini en az bir kez yapmış olmak veya halen bu bölge hizmetini ifa ediyor olmak şarttır.
 Bu maddenin birinci fıkrasında belirtilen hükmün, 3713 sayılı Kanun veya 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun kapsamında hayatını kaybeden veya aynı kanunlar kapsamındaki görevler nedeniyle Sosyal Güvenlik Kurumu Sağlık Kurulunun kararı doğrultusunda, yaşamak için gereken hareketleri yapamayacak ve başkasının yardım ve desteğine muhtaç olacak derecede malul olan emniyet teşkilatı mensuplarının eş ve çocukları hakkında ne şekilde uygulanacağı yönetmelikle düzenlenir.
 
 EK MADDE
@@ -102,10 +102,10 @@ c) 84 üncü maddesinin son fıkrasında yer alan “sicile” ibaresi “özlü
 
 
 MADDE 20 – 3201 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
-“GEÇİCİ MADDE 22- Ek 30 uncu maddenin yayımı tarihinden itibaren üç yıllık süre içerisinde, bir üst rütbeye yükselmek için en az bekleme süresini tamamlayacak olan Üçüncü Sınıf Emniyet Müdürü rütbesinde bulunan personelden, en az bir kez zorunlu ikinci bölge hizmetini yapmamış veya ikinci bölgeye atanmak ile birlikte göreve başlamamış olanlar hakkında, Emniyet Genel Müdürlüğü Yüksek Değerlendirme Kurulunca verilecek bir üst rütbeye terfie ilişkin kararlar, bu bölgede fiilen çalışmaya başlaması kaydıyla uygulanır.
+**“GEÇİCİ MADDE 22-** Ek 30 uncu maddenin yayımı tarihinden itibaren üç yıllık süre içerisinde, bir üst rütbeye yükselmek için en az bekleme süresini tamamlayacak olan Üçüncü Sınıf Emniyet Müdürü rütbesinde bulunan personelden, en az bir kez zorunlu ikinci bölge hizmetini yapmamış veya ikinci bölgeye atanmak ile birlikte göreve başlamamış olanlar hakkında, Emniyet Genel Müdürlüğü Yüksek Değerlendirme Kurulunca verilecek bir üst rütbeye terfie ilişkin kararlar, bu bölgede fiilen çalışmaya başlaması kaydıyla uygulanır.
 Bu maddenin yayımı tarihi itibarıyla ikinci bölge hizmetini yapmamış İkinci Sınıf Emniyet Müdürlerinin Birinci Sınıf Emniyet Müdürü rütbesine terfi edebilmesi için ikinci bölgedeki en az hizmet süresi kadar fiilen zorunlu ikinci bölge hizmeti yapmış olması şarttır.
 
-GEÇİCİ MADDE 23- 1/10/2008 tarihinden önce 3713 sayılı Kanun kapsamında vazife malulü olarak emekli olup meslekten ilişikleri kesilen emniyet teşkilatı personeli, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren bir ay içerisinde yazılı olarak talep etmeleri halinde durumlarına uygun boş kadro bulunmak ve atanmak için gerekli olan diğer şartları taşımak kaydıyla yeniden memuriyete alınarak ayrıldıkları rütbe veya statüye uygun bir göreve atanabilirler.
+**GEÇİCİ MADDE 23-** 1/10/2008 tarihinden önce 3713 sayılı Kanun kapsamında vazife malulü olarak emekli olup meslekten ilişikleri kesilen emniyet teşkilatı personeli, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren bir ay içerisinde yazılı olarak talep etmeleri halinde durumlarına uygun boş kadro bulunmak ve atanmak için gerekli olan diğer şartları taşımak kaydıyla yeniden memuriyete alınarak ayrıldıkları rütbe veya statüye uygun bir göreve atanabilirler.
 Bu madde kapsamında yeniden memuriyete alınanların meslekten ilişiklerinin kesildiği tarih ile göreve başladıkları tarih arasında geçen süre rütbe kıdeminde değerlendirilmez.”
 
 MADDE 21- 19/6/1976 tarihli ve 2015 sayılı Atatürk Orman Çiftliği Arazisinden 167 Dönüm 500 Metrekarelik Kısmının Ankara Belediyesine Satılması Hakkında Kanunun 1 inci maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiştir.
@@ -126,16 +126,16 @@ c) Yaş haddinden emekliliğine beş yıl ve daha fazla kalanlar için %40, fazl
 5434 sayılı Kanuna göre emekli aylığı bağlanması şartlarını 2011 yılı sonuna kadar haiz olacaklara, bu hakkı kazandıkları tarihten itibaren bir ay içinde emeklilik başvurusunda bulunmaları halinde emekli ikramiyeleri %40 fazlasıyla ödenir.
 Bu madde uyarınca yapılan emeklilik başvurularında emeklilik tarihi olarak daha sonraki bir tarih gösterilemez, başvurular herhangi bir kayda bağlanamaz ve geri alınamaz. Bu kapsamda emekli olan personel, emekli oldukları tarihten itibaren beş yıl içinde Kurumda yeniden istihdam edilemez.”
 
-MADDE 25- 2/3/1984 tarihli ve 2985 sayılı Toplu Konut Kanununun ek 3 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 25-** 2/3/1984 tarihli ve 2985 sayılı Toplu Konut Kanununun ek 3 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Toplu Konut İdaresi Başkanı müşterek kararname ile, Başkanlığın 657 sayılı Kanunun 59 uncu maddesinde sayılan diğer personeli Başkanlığın bağlı bulunduğu Bakan tarafından atanır. Bakan bu yetkisini Başkana devredebilir. Başkanlığın diğer personeli Başkanın onayı ile atanır.”
 
-MADDE 26- 10/10/1984 tarihli ve 3056 sayılı Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanunun 7 nci maddesinin birinci fıkrasının (h) bendi aşağıdaki şekilde değiştirilmiş ve (i) bendi yürürlükten kaldırılmıştır.
-“h) Ekonomik, Sosyal ve Kültürel İşler Başkanlığı,”
+MADDE 26- 10/10/1984 tarihli ve **3056 sayılı Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanunun 7 nci maddesinin birinci fıkrasının (h) bendi aşağıdaki şekilde değiştirilmiş ve (i) bendi yürürlükten kaldırılmıştır.**
+**“h) Ekonomik, Sosyal ve Kültürel İşler Başkanlığı,”**
 
-MADDE 27- 3056 sayılı Kanunun 14 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 27- 3056 sayılı Kanunun 14 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.**
 “Ekonomik, Sosyal ve Kültürel İşler Başkanlığı:
 
-MADDE 14- Ekonomik, Sosyal ve Kültürel İşler Başkanlığının görevleri şunlardır:
+**MADDE 14-** Ekonomik, Sosyal ve Kültürel İşler Başkanlığının görevleri şunlardır:
 a) Bakanlıklar, kamu iktisadi teşebbüsleri, diğer kamu kurum ve kuruluşları ve ilgili özel kuruluşlar arasında ekonomik ve mali işler ile ilgili alanlarda koordinasyonu sağlamak,
 b) Ekonomik ve mali konulardaki gelişmeler ve karşılaşılan meseleler hakkında inceleme ve araştırmalar yapmak ve yaptırmak, bunları değerlendirmek ve teklifler hazırlamak,
 c) Bilim ve teknoloji, eğitim, kültür, sanat, spor, gençlik, turizm, basın, radyo-televizyon, tanıtma alanlarındaki gelişmeler, bu alanlardaki dış ilişkiler ve karşılaşılan meseleler hakkında inceleme ve araştırmalar yapmak ve yaptırmak, bunları değerlendirmek ve teklifleri hazırlamak ve kamu kuruluşları arasında bu alanlarda koordinasyonu sağlamak,
@@ -144,14 +144,14 @@ e) Yurtdışı işçi sorunları ile ilgili konularda kamu kurum ve kuruluşlar�
 f) Başbakanlığın koordinatörlüğünde görevleri ile ilgili konularda, teşkil edilen kurullara sekreterya hizmeti yapmak,
 g) Makamca verilen benzeri görevleri yapmak.”
 
-MADDE 28- 3056 sayılı Kanunun 19 uncu maddesinin birinci fıkrasına (a) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut bentler buna göre teselsül ettirilmiştir.
-“b) Strateji Geliştirme Başkanlığı,”
+**MADDE 28- 3056 sayılı Kanunun 19 uncu maddesinin birinci fıkrasına (a) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut bentler buna göre teselsül ettirilmiştir.**
+**“b) Strateji Geliştirme Başkanlığı,”**
 
-MADDE 29- 3056 sayılı Kanuna 20 nci maddesinin birinci fıkrasına aşağıdaki bent eklenmiş ve ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-“d) Avrupa Birliğinden sağlanan mali kaynakların kullanımıyla ilgili inceleme, araştırma ve soruşturma yapmak veya yaptırmak, bu konulara ilişkin inceleme ve soruşturmalarda uluslararası kuruluşlarla koordinasyonu sağlamak.
-Başbakanlık Müfettişliğine Müfettiş Yardımcısı olarak girilir. Teftiş Kurulunun çalışma usul ve esasları, Müfettiş Yardımcılarının seçilmesi, yetiştirilmesi ile diğer hususlar yönetmelikle düzenlenir.”
+**MADDE 29- 3056 sayılı Kanuna 20 nci maddesinin birinci fıkrasına aşağıdaki bent eklenmiş ve ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.**
+**“d) Avrupa Birliğinden sağlanan mali kaynakların kullanımıyla ilgili inceleme, araştırma ve soruşturma yapmak veya yaptırmak, bu konulara ilişkin inceleme ve soruşturmalarda uluslararası kuruluşlarla koordinasyonu sağlamak.**
+**Başbakanlık Müfettişliğine Müfettiş Yardımcısı olarak girilir. Teftiş Kurulunun çalışma usul ve esasları, Müfettiş Yardımcılarının seçilmesi, yetiştirilmesi ile diğer hususlar yönetmelikle düzenlenir.”**
 
-MADDE 30- 3056 sayılı Kanuna 20 nci maddesinden sonra gelmek üzere aşağıdaki 20/A maddesi eklenmiştir.
+**MADDE 30- 3056 sayılı Kanuna 20 nci maddesinden sonra gelmek üzere aşağıdaki 20/A maddesi eklenmiştir.**
 “Strateji Geliştirme Başkanlığı:
 
 
@@ -231,24 +231,24 @@ MADDE 41 – 3056 sayılı Kanunun eki cetvelin “Anahizmet Birimleri” sütun
 
 MADDE 42 – 3056 sayılı Kanunun 15 inci ve ek 1 inci maddeleri yürürlükten kaldırılmıştır.
 
-MADDE 43- 7/11/1985 tarihli ve 3238 sayılı Savunma Sanayii Müsteşarlığının Kurulması ve 11 Temmuz 1939 Tarih ve 3670 Sayılı Milli Piyango Teşkiline Dair Kanunun İki
+**MADDE 43- 7/11/1985 tarihli ve 3238 sayılı** Savunma Sanayii Müsteşarlığının Kurulması ve 11 Temmuz 1939 Tarih ve 3670 Sayılı Milli Piyango Teşkiline Dair Kanunun İki
 Maddesi ile 23 Ekim 1984 Tarih ve 3065 Sayılı Katma Değer Vergisi Kanununun Bir Maddesinde Değişiklik Yapılması Hakkında Kanunun 6 ncı maddesinin birinci fıkrasının (g) bendi aşağıdaki şekilde değiştirilmiştir.
 “g) Fonun, 10 uncu maddenin ikinci fıkrası hükmü hariç, kullanım esaslarını tespit etmek.”
 
-MADDE 44- 3238 sayılı Kanunun 10 uncu maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 44- 3238 sayılı** Kanunun 10 uncu maddesine aşağıdaki fıkra eklenmiştir.
 “Milli İstihbarat Teşkilatı Müsteşarlığının istihbarat ve güvenliğe ilişkin ihtiyaçları ile Emniyet Genel Müdürlüğünün istihbarat ve güvenliğe ilişkin acil ihtiyaçları Müsteşarın teklifi, Milli Savunma Bakanının uygun görüşü ve Başbakanın onayı ile Müsteşarlık tarafından tedarik edilir ve bunlara ilişkin giderler Fondan karşılanır.”
 
 
 MADDE 45 – 3238 sayılı Kanunun 17 nci maddesi yürürlükten kaldırılmıştır.
 
-MADDE 46- (1) 21/5/1986 tarihli ve 3289 sayılı Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun;
+**MADDE 46-** (1) 21/5/1986 tarihli ve 3289 sayılı Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun;
 a) 2 nci maddesinin birinci fıkrasının (b) bendinde yer alan “Milli Eğitim Gençlik ve Spor Bakanlığına” ibaresi “Milli Eğitim Bakanlığına”,
 b) 8 inci maddesinin altıncı fıkrasında yer alan “spordan sorumlu Bakanın başkanlığında” ibaresi “Gençlik ve Spor Bakanının başkanlığında, Gençlik ve Spor Bakanlığı Müsteşarı veya Müsteşar Yardımcısı, Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürü” ve aynı maddenin yedinci ve sekizinci fıkralarında yer alan “spordan sorumlu Bakan” ibareleri “Gençlik ve Spor Bakanı”,
 c) 9 uncu maddesinin birinci, 10 uncu maddesinin ikinci, 18 inci maddesinin birinci ve 24 üncü maddesinin birinci fıkralarında yer alan “Milli Eğitim Gençlik ve Spor Bakanı” ibareleri “Gençlik ve Spor Bakanı”,
 ç) 30 uncu maddesinin ikinci fıkrasında yer alan “Spordan sorumlu Bakanın” ve “spordan sorumlu Bakanın” ibareleri “Gençlik ve Spor Bakanının”,
 d) 32 nci maddesinin başlığı “Öğretmenlerin antrenörlük, uzmanlık ve danışmanlık yapabilmeleri” ve aynı maddenin birinci fıkrasında yer alan “Beden eğitimi öğretmenleri” ibaresi “Öğretmenler”,
 e) 33 üncü maddesinin birinci fıkrasında yer alan “Milli Eğitim Gençlik ve Spor Bakanlığınca” ibaresi “Milli Eğitim Bakanlığınca”,
-f) Ek 5 inci maddesinin ikinci fıkrasında yer alan “Başbakanlık” ibaresi “Gençlik ve Spor Bakanlığı”,
+f) **Ek 5 inci maddesinin ikinci fıkrasında yer alan “Başbakanlık” ibaresi “Gençlik ve Spor Bakanlığı”,**
 g) Ek 9 uncu maddesinin yedinci fıkrasında yer alan “spordan sorumlu Bakanın” ibaresi “Gençlik ve Spor Bakanının”, şeklinde değiştirilmiştir.
 
 MADDE 47- 3289 sayılı Kanunun geçici 6 ncı maddesi yürürlükten kaldırılmıştır.
@@ -267,9 +267,9 @@ MADDE 51- 3796 sayılı Kanunun 20 nci maddesine aşağıdaki fıkra eklenmişti
 “Bu Kanun kapsamında yapılacak her türlü mal ve hizmet alımları, ceza ve ihaleden yasaklama hükümleri hariç 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununa tabi değildir. Bu fıkranın uygulanmasına ilişkin usul ve esaslar, Kamu İhale Kurumunun görüşü üzerine Gençlik ve Spor Bakanlığınca belirlenir.”
 
 MADDE 52- 3796 sayılı Kanunun 22 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE 22- Bu Kanun kapsamındaki hizmet ve faaliyetleri yerine getirmek üzere görevlendirilen kişilere verilecek disiplin cezalarına ve genel hükümlere göre yapılacak işlemlere ait kararları almak üzere Gençlik ve Spor Bakanının başkanlığında Gençlik ve Spor Bakanlığı Müsteşarı, İstanbul Büyükşehir Belediye Başkanı, Spor Genel Müdürü, Türkiye Milli Olimpiyat Komitesi Başkanı ve Türkiye Milli Paralimpik Komitesi Başkanından oluşan Onur Kurulu kurulur.”
+“**MADDE 22-** Bu Kanun kapsamındaki hizmet ve faaliyetleri yerine getirmek üzere görevlendirilen kişilere verilecek disiplin cezalarına ve genel hükümlere göre yapılacak işlemlere ait kararları almak üzere Gençlik ve Spor Bakanının başkanlığında Gençlik ve Spor Bakanlığı Müsteşarı, İstanbul Büyükşehir Belediye Başkanı, Spor Genel Müdürü, Türkiye Milli Olimpiyat Komitesi Başkanı ve Türkiye Milli Paralimpik Komitesi Başkanından oluşan Onur Kurulu kurulur.”
 
-MADDE 53- 7/12/1994 tarihli ve 4054 sayılı Rekabetin Korunması Hakkında Kanunun 3 üncü maddesinin birinci fıkrasında yer alan “Bakanlık” tanımı aşağıdaki şekilde, 20 nci maddesinin ikinci fıkrasında yer alan “Sanayi ve Ticaret Bakanlığıdır” ibaresi “Gümrük ve Ticaret Bakanlığıdır” şeklinde, 37 nci maddesinin birinci fıkrasında yer alan “Sanayi ve Ticaret Bakanlığının” ibaresi “Bakanlığın” şeklinde değiştirilmiştir.
+MADDE 53- **7/12/1994 tarihli ve** 4054 sayılı Rekabetin Korunması Hakkında Kanunun 3 üncü maddesinin birinci fıkrasında yer alan “Bakanlık” tanımı aşağıdaki şekilde, 20 nci maddesinin ikinci fıkrasında yer alan “Sanayi ve Ticaret Bakanlığıdır” ibaresi “Gümrük ve Ticaret Bakanlığıdır” şeklinde, 37 nci maddesinin birinci fıkrasında yer alan “Sanayi ve Ticaret Bakanlığının” ibaresi “Bakanlığın” şeklinde değiştirilmiştir.
 “Bakanlık: Gümrük ve Ticaret Bakanlığını,”
 
 MADDE 54- 4054 sayılı Kanunun 22 nci maddesi aşağıdaki şekilde değiştirilmiştir.
@@ -283,7 +283,7 @@ MADDE 55- 4054 sayılı Kanunun 27 nci maddesinin birinci fıkrasının (e) bend
 MADDE 56- 4054 sayılı Kanunun 30 uncu maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
 “k) Başkan Yardımcıları ve Baş Hukuk Müşaviri hariç Kurum personelini atamak.”
 
-MADDE 57- 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 53 üncü maddesinin;
+**MADDE 57- 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 53 üncü maddesinin;**
 a) (c) fıkrasının birinci ve ikinci bentleri ile üçüncü bendinin birinci ve ikinci cümleleri aşağıdaki şekilde değiştirilmiştir.
 “Kurumun karar organı biri başkan, biri ikinci başkan olmak üzere dokuz üyeden oluşan Kamu İhale Kuruludur. Kamu İhale Kurulu üyeleri Maliye Bakanının teklifi üzerine Bakanlar Kurulunca atanır. Bakanlar Kurulu, atamayla birlikte Kurul Başkanını ve İkinci Başkanı da görevlendirir. Kurul Başkanı, Kurumun da başkanıdır.
 Üyelerin en az dört yıllık öğrenim veren hukuk, iktisat, siyasal bilgiler, işletme, iktisadi ve idari bilimler, mimarlık ve mühendislik fakülteleri ile bunlara denkliği yetkili makamlarca kabul edilen yurtdışındaki yükseköğretim kurumlarından mezun olmaları gerekir.
@@ -293,7 +293,7 @@ b) (g) fıkrasının birinci bendinde yer alan “yedi üye” ibaresi “altı 
 c) (h) fıkrasının birinci bendinde yer alan “Kurul kararı ile” ibaresi “Bakan tarafından” şeklinde değiştirilmiş, aynı fıkranın ikinci bendine birinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiş ve mevcut ikinci cümle aşağıdaki şekilde değiştirilmiştir.
 “Kurumda; Baş Hukuk Danışmanı kadrosuna atanacakların hukuk fakültesi mezunu olması ve mesleki açıdan yeterli bilgi ve deneyime sahip olmaları ve meslekleri ile ilgili olarak kamu kurum ve kuruluşlarında oniki yıl ve üzeri kamu hizmetinde bulunmaları; Kurum Müşaviri ve Başkanlık Müşaviri kadrolarına atanacakların en az dört yıllık öğretim veren fakülteler ile bunlara denkliği yetkili makamlarca kabul edilen yurtiçi ve yurtdışındaki yükseköğretim kurumlarından mezun olmaları ve memuriyete esas kamu kurum ve kuruluşlarında en az oniki yıl ve üzeri kamu hizmetinde bulunmaları; Daire Başkanı kadrosuna atanacakların en az dört yıllık öğretim veren fakülteler ile bunlara denkliği yetkili makamlarca kabul edilen yurtiçi ve yurtdışındaki yükseköğretim kurumlarından mezun olmaları ve memuriyete esas kamu kurum ve kuruluşlarında en az on yıl ve üzeri kamu hizmetinde bulunmaları gerekir. Daire Başkanlarının ve diğer personelin ataması Başkan tarafından yapılır.”
 
-MADDE 58- 4734 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
+**MADDE 58-** 4734 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
 “Üyeliğin devamı
 
 GEÇİCİ MADDE 11- Mevcut Kurul üyeleri, görev sürelerini tamamlayıncaya kadar görevlerine devam eder.
@@ -304,10 +304,10 @@ Başkan Yardımcısı, Baş Hukuk Danışmanı ve Daire Başkanı unvanlı göre
 Birinci fıkraya göre Başkanlık Müşaviri unvanlarına atanmış sayılanların atanmış sayıldıkları tarih itibarıyla eski unvanlarına ilişkin olarak ilgili mevzuatı uyarınca en son ayda aldıkları her türlü ödemelerin toplam net tutarının (bu tutar sabit bir değer olarak esas alınır), atanmış sayıldıkları yeni unvana ilişkin olarak ilgili mevzuatı uyarınca aldıkları her türlü ödemelerin toplam net tutarından fazla olması hâlinde aradaki fark tutarı, herhangi bir vergi ve kesintiye tabi tutulmaksızın fark kapanıncaya kadar ayrıca fark tazminatı olarak ödenir. Atanmış sayıldıkları unvanlarında isteklerine bağlı olarak herhangi bir değişiklik olanlarla, kendi istekleriyle başka kurumlara atananlara fark tazminatı ödenmesine son verilir.
 Birinci fıkraya göre Başkanlık Müşaviri olarak atanmış sayılanlar, Başkan tarafından belirlenen birimlerde, Başkan tarafından belirlenen görevleri yürütür.”
 
-MADDE 59- 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 21 inci maddesinin üçüncü fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 59-** 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 21 inci maddesinin üçüncü fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Hizmetlerin etkili ve verimli bir şekilde yürütülebilmesi için, genel sekretere yardımcı olmak üzere, norm kadroya uygun olarak genel sekreter yardımcısı atanabilir.”
 
-MADDE 60- 5216 sayılı Kanunun 22 nci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrası yürürlükten kaldırılmıştır.
+**MADDE 60-** 5216 sayılı Kanunun 22 nci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiş ve üçüncü fıkrası yürürlükten kaldırılmıştır.
 “Genel sekreter, belediye başkanının teklifi üzerine İçişleri Bakanı tarafından atanır. Genel sekreter kadrosuna atananlar, genel idare hizmeti sınıfına dahil bakanlık genel müdürleri, genel sekreter yardımcısı kadrosuna atananlar bakanlık müstakil daire başkanları, 1. hukuk müşaviri ve daire başkanlığı kadrosuna atananlar ise bakanlık daire başkanları için ilgili mevzuatında öngörülen ek gösterge, makam, görev ve temsil tazminatları ile 657 sayılı Devlet Memurları Kanununun 152 nci maddesi uyarınca ödenen zam ve tazminatlardan aynen yararlanırlar.”
 
 MADDE 61- 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 6 ncı maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -425,7 +425,7 @@ Genel Müdürlük ikinci fıkra kapsamında yapacağı denetimleri bağımsız d
 
 
 MADDE 76 – 5431 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 8- Genel Müdürlük personelinden, en az dört yıllık eğitim veren yükseköğretim kurumlarının veya bunlara denkliği kabul edilen yurtdışındaki yükseköğretim kurumlarının uçak/uzay, makine, elektrik, elektronik, inşaat, mekatronik, bilgisayar, endüstri, fizik, metalurji, meteoroloji, harita ve kadastro, jeodezi ve fotogrametri mühendisliklerinden mezun olanların, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren iki ay içerisinde başvurmaları halinde bu Kanuna ekli (II) sayılı cetvelde yer alan Mühendis unvanlı pozisyonlara atamaları yapılabilir.”
+“**GEÇİCİ MADDE 8**- Genel Müdürlük personelinden, en az dört yıllık eğitim veren yükseköğretim kurumlarının veya bunlara denkliği kabul edilen yurtdışındaki yükseköğretim kurumlarının uçak/uzay, makine, elektrik, elektronik, inşaat, mekatronik, bilgisayar, endüstri, fizik, metalurji, meteoroloji, harita ve kadastro, jeodezi ve fotogrametri mühendisliklerinden mezun olanların, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren iki ay içerisinde başvurmaları halinde bu Kanuna ekli (II) sayılı cetvelde yer alan Mühendis unvanlı pozisyonlara atamaları yapılabilir.”
 
 
 MADDE 77 – 5431 sayılı Kanunun 3 üncü maddesinin ikinci fıkrasının birinci cümlesi ile 11 inci maddesinin birinci fıkrasının (h) bendi yürürlükten kaldırılmıştır.
@@ -437,7 +437,7 @@ MADDE 78 – 5431 sayılı Kanunun eki (I) sayılı cetvel ekteki şekilde deği
 MADDE 79 – 5431 sayılı Kanunun eki (II) sayılı cetvel aşağıdaki şekilde değiştirilmiştir.
 “(II)
 SAYILI CETVEL POZİSYON UNVANI ADEDİ
-Havacılık Uzmanı Havacılık Uzman Yardımcısı Kontrol Pilotu Mühendis Hava Trafik Kontrolörü AIM (Havacılık Bilgi Yönetimi) Uzmanı Uçuş Tabibi TOPLAM:
+Havacılık Uzmanı Havacılık Uzman Yardımcısı Kontrol Pilotu Mühendis Hava Trafik Kontrolörü AIM (Havacılık Bilgi Yönetimi) Uzmanı Uçuş Tabibi **TOPLAM**:
 195”
 
 MADDE 80- 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanunun ek 1 inci maddesinin birinci fıkrasına üçüncü cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
@@ -452,80 +452,80 @@ MADDE 83- 5653 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) be
 MADDE 84- 5653 sayılı Kanunun 5 inci maddesinin birinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş, bu cümleden sonra gelmek üzere aşağıdaki cümle eklenmiş, aynı fıkranın (a) bendinde yer alan “Vakfa” ibaresi “Enstitüye”, (b) bendinde yer alan “Vakfı” ibaresi “Enstitüyü”, (ç) bendinde yer alan “Vakıf” ibaresi “Enstitü” ve (d) bendinde yer alan “Vakıfla” ibaresi “Enstitü ile” şeklinde değiştirilmiştir.
 “Kültür Merkezi koordinasyon kurulları, Kültür Merkezlerinin bulunduğu ülkelerdeki büyükelçinin veya temsilcisinin başkanlığında Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı temsilcisi, Kültür ve Tanıtma Müşaviri ile Eğitim Müşaviri, ilgili Kültür Merkezi müdürü, Kültür Merkezinin kurulduğu şehirde veya ülkede yaşayan tanınmış Türk işadamları, bilim adamları, kültür ve sanat adamları arasında Yönetim Kurulunun üç yıl için seçeceği üç üyeden oluşur. Başkentler dışında kurulan Kültür Merkezlerinin koordinasyon kurulu toplantılarına varsa o şehirdeki Dışişleri Bakanlığı temsilcisi de üye olarak katılır.”
 
-MADDE 85- 29/5/2009 tarihli ve 5902 sayılı Afet ve Acil Durum Yönetimi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 6 ncı maddesinin birinci fıkrasına (e) bendinden sonra gelmek üzere aşağıdaki bentler eklenmiştir.
-“f) Strateji Geliştirme Dairesi Başkanlığı.
-g) Bilgi Sistemleri ve Haberleşme Dairesi Başkanlığı.
-ğ) Hukuk Müşavirliği.”
+**MADDE 85- 29/5/2009 tarihli ve 5902 sayılı Afet ve Acil Durum Yönetimi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 6 ncı maddesinin birinci fıkrasına (e) bendinden sonra gelmek üzere aşağıdaki bentler eklenmiştir.**
+**“f) Strateji Geliştirme Dairesi Başkanlığı.**
+**g) Bilgi Sistemleri ve Haberleşme Dairesi Başkanlığı.**
+**ğ) Hukuk Müşavirliği.”**
 
-MADDE 86- 5902 sayılı Kanuna 7 nci maddesinden sonra gelmek üzere aşağıdaki 7/A maddesi eklenmiştir.
-“Başkan yardımcıları
+**MADDE 86- 5902 sayılı Kanuna 7 nci maddesinden sonra gelmek üzere aşağıdaki 7/A maddesi eklenmiştir.**
+**“Başkan yardımcıları**
 
-MADDE 7/A- (1) Başkana yardımcı olmak üzere en fazla iki Başkan Yardımcısı atanabilir.
-(2) Başkan Yardımcıları, Başkan tarafından verilen görevleri yerine getirir ve Başkana karşı sorumludur.”
+**MADDE 7/A- (1) Başkana yardımcı olmak üzere en fazla iki Başkan Yardımcısı atanabilir.**
+**(2) Başkan Yardımcıları, Başkan tarafından verilen görevleri yerine getirir ve Başkana karşı sorumludur.”**
 
-MADDE 87- 5902 sayılı Kanuna 13 üncü maddesinden sonra gelmek üzere aşağıdaki 13/A, 13/B ve 13/C maddeleri eklenmiştir.
-“Strateji Geliştirme Dairesi Başkanlığı
+**MADDE 87- 5902 sayılı Kanuna 13 üncü maddesinden sonra gelmek üzere aşağıdaki 13/A, 13/B ve 13/C maddeleri eklenmiştir.**
+**“Strateji Geliştirme Dairesi Başkanlığı**
 
-MADDE 13/A- (1) Strateji Geliştirme Dairesi Başkanlığının görevleri şunlardır:
+**MADDE 13/A- (1) Strateji Geliştirme Dairesi Başkanlığının görevleri şunlardır:**
 a) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 22/12/2005 tarihli ve 5436 sayılı Kanunun 15 inci maddesi ve diğer mevzuatla strateji geliştirme ve mali hizmetler birimlerine verilen görevleri yerine getirmek.
 b) Başkan tarafından verilecek benzeri görevleri yapmak.
-Bilgi Sistemleri ve Haberleşme Dairesi Başkanlığı
+**Bilgi Sistemleri ve Haberleşme Dairesi Başkanlığı**
 
-MADDE 13/B- (1) Bilgi Sistemleri ve Haberleşme Dairesi Başkanlığının görevleri şunlardır:
-a) Afet ve acil durum yönetim merkezlerinin, ortak haberleşme ve bilgi sistemlerinin standardını belirlemek ve denetlemek.
-b) Afet ve acil durumlara ilişkin her türlü bilgi, haberleşme, tahmin ve erken uyarı sistemlerini kurmak, kurdurmak, bakım ve onarımını yapmak veya yaptırmak, işletmek veya işletilmesini sağlamak.
-c) E-Devlet uygulamalarının Başkanlık ile ilgili çalışmalarını yapmak, koordine etmek ve yürütmek.
-ç) Afet ve acil durumlara yönelik coğrafi bilgi sistemini kurmak veya kurdurmak, formatlarını hazırlamak, il afet ve acil durum müdürlükleri arasındaki bilgi standartlarını oluşturmak.
-d) Bilişim teknolojisindeki gelişmelere uygun olarak daha etkin ve verimli bilgi, belge ve iş akışı düzenini kurmak, buna yönelik yazılımları üretmek veya sağlamak.
-e) Başkanlığın bilişim altyapısı ve haberleşme sisteminin kurulumu, bakımı, ikmali, geliştirilmesi ve güncellenmesi ile ilgili işleri yürütmek, bunlarla ilgili güvenlik tedbirlerini almak, kripto merkezini kurmak, kurdurmak ve işletmek.
-f) Bilişim teknolojisinin gelişimini izlemek, bilgi işlem donanım ve yazılımının kullanılmasında diğer kamu kurum ve kuruluşlarıyla işbirliği yapmak.
-g) Başkanlık birimleri ve diğer ilgili kuruluşlarla işbirliği yaparak bilgi işlem sisteminin etkin ve verimli bir şekilde çalışmasını sağlamak.
-ğ) Afet ve acil durumlara yönelik veri tabanlarını kurmak, kurdurmak ve işletmek, uygulama yazılımlarını yapmak veya yaptırmak.
-h) Başkanlığın internet sayfaları, elektronik imza ve elektronik belge uygulamaları ile ilgili teknik çalışmaları yapmak veya yaptırmak.
-ı) Başkanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak.
-i) Başkan tarafından verilecek benzeri görevleri yapmak.
-Hukuk Müşavirliği
+**MADDE 13/B- (1) Bilgi Sistemleri ve Haberleşme Dairesi Başkanlığının görevleri şunlardır:**
+**a) Afet ve acil durum yönetim merkezlerinin, ortak haberleşme ve bilgi sistemlerinin standardını belirlemek ve denetlemek.**
+**b) Afet ve acil durumlara ilişkin her türlü bilgi, haberleşme, tahmin ve erken uyarı sistemlerini kurmak, kurdurmak, bakım ve onarımını yapmak veya yaptırmak, işletmek veya işletilmesini sağlamak.**
+**c) E-Devlet uygulamalarının Başkanlık ile ilgili çalışmalarını yapmak, koordine etmek ve yürütmek.**
+**ç) Afet ve acil durumlara yönelik coğrafi bilgi sistemini kurmak veya kurdurmak, formatlarını hazırlamak, il afet ve acil durum müdürlükleri arasındaki bilgi standartlarını oluşturmak.**
+**d) Bilişim teknolojisindeki gelişmelere uygun olarak daha etkin ve verimli bilgi, belge ve iş akışı düzenini kurmak, buna yönelik yazılımları üretmek veya sağlamak.**
+**e) Başkanlığın bilişim altyapısı ve haberleşme sisteminin kurulumu, bakımı, ikmali, geliştirilmesi ve güncellenmesi ile ilgili işleri yürütmek, bunlarla ilgili güvenlik tedbirlerini almak, kripto merkezini kurmak, kurdurmak ve işletmek.**
+**f) Bilişim teknolojisinin gelişimini izlemek, bilgi işlem donanım ve yazılımının kullanılmasında diğer kamu kurum ve kuruluşlarıyla işbirliği yapmak.**
+**g) Başkanlık birimleri ve diğer ilgili kuruluşlarla işbirliği yaparak bilgi işlem sisteminin etkin ve verimli bir şekilde çalışmasını sağlamak.**
+**ğ) Afet ve acil durumlara yönelik veri tabanlarını kurmak, kurdurmak ve işletmek, uygulama yazılımlarını yapmak veya yaptırmak.**
+**h) Başkanlığın internet sayfaları, elektronik imza ve elektronik belge uygulamaları ile ilgili teknik çalışmaları yapmak veya yaptırmak.**
+**ı) Başkanlık hizmetleriyle ilgili bilgileri toplamak ve ilgili birimlerle işbirliği içinde veri tabanları oluşturmak.**
+**i) Başkan tarafından verilecek benzeri görevleri yapmak.**
+**Hukuk Müşavirliği**
 
-MADDE 13/C- (1) Hukuk Müşavirliğinin görevleri şunlardır:
+**MADDE 13/C- (1)** Hukuk Müşavirliğinin görevleri şunlardır:
 a) 26/9/2011 tarihli ve 659 sayılı Genel ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname hükümlerine göre hukuk birimlerine verilen görevleri yapmak.
 b) Başkan tarafından verilen benzeri görevleri yapmak.”
 
-MADDE 88- 5902 sayılı Kanunun 20 nci maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
-“(1) Başkan müşterek kararla, Başkan Yardımcısı Başbakan onayı ile diğer personel ise Başkan tarafından atanır.
-(2) Başkan, Başkan Yardımcısı, Daire Başkanı ve I. Hukuk Müşaviri kadrolarına atanabilmek için, bu kadrolara atanacaklarda aranan genel şartlara ek olarak; en az dört yıllık yükseköğretim kurumlarından mezun olmak, kamu sektöründe veya özel sektörde atanacağı görev alanıyla ilgili en az beş yıllık iş tecrübesine sahip olmak gerekir.”
+**MADDE 88- 5902 sayılı Kanunun 20 nci maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.**
+**“(1) Başkan müşterek kararla, Başkan Yardımcısı Başbakan onayı ile diğer personel ise Başkan tarafından atanır.**
+**(2) Başkan, Başkan Yardımcısı, Daire Başkanı ve I. Hukuk Müşaviri kadrolarına atanabilmek için, bu kadrolara atanacaklarda aranan genel şartlara ek olarak; en az dört yıllık yükseköğretim kurumlarından mezun olmak, kamu sektöründe veya özel sektörde atanacağı görev alanıyla ilgili en az beş yıllık iş tecrübesine sahip olmak gerekir.”**
 
-MADDE 89- 5902 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 89- 5902 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.**
 “Dava ve icra takiplerinin devri
 GEÇİCİ
 
 MADDE 6- (1) Maliye Bakanlığı uhdesinde Hazine Avukatları tarafından Başkanlığı temsilen takip edilmekte olan dava dosyaları ve icra takiplerine ilişkin dosyalar, Maliye Bakanlığı ve Başkanlıkça müştereken belirlenecek esaslara göre bir yıl içinde Başkanlığa devredilir. Bu şekilde devredilen dava ve icra takipleri ile ilgili olarak devir tarihine kadar yapılmış her türlü işlem Başkanlık adına yapılmış sayılır.”
 
-MADDE 90- 5902 sayılı Kanunun 8 inci maddesinin birinci fıkrasının (f) bendi ile (ğ) bendinin (2) numaralı alt bendi ve 13 üncü maddesinin birinci fıkrasının (g) bendi yürürlükten kaldırılmıştır.
+**MADDE 90- 5902 sayılı Kanunun 8 inci maddesinin birinci fıkrasının (f) bendi ile (ğ) bendinin (2) numaralı alt bendi ve 13 üncü maddesinin birinci fıkrasının (g) bendi yürürlükten kaldırılmıştır.**
 
-MADDE 91- 5902 sayılı Kanunun eki (I) sayılı cetvel ekteki şekilde değiştirilmiştir.
+**MADDE 91- 5902 sayılı Kanunun eki (I) sayılı cetvel ekteki şekilde değiştirilmiştir.**
 
-MADDE 92- 24/3/2010 tarihli ve 5978 sayılı Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı Teşkilat ve Görevleri Hakkında Kanunun 8 inci maddesinin birinci fıkrasına aşağıdaki bent (ğ) bendi olarak eklenmiş ve mevcut (ğ) ve (h) bentleri (h) ve (ı) bentleri olarak teselsül ettirilmiştir.
+**MADDE 92- 24/3/2010 tarihli ve 5978 sayılı Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı Teşkilat ve Görevleri Hakkında Kanunun 8 inci maddesinin birinci fıkrasına aşağıdaki bent (ğ) bendi olarak eklenmiş ve mevcut (ğ) ve (h) bentleri (h) ve (ı) bentleri olarak teselsül ettirilmiştir.**
 “ğ) Yurtdışında yaşayan vatandaşlar ve kaybettirme halleri dışında vatandaşlıktan çıkmış olanlar ve çocukları için yurtiçinde ve yurtdışında eğitim, burs ve barınma desteği sağlamak.”
 
-MADDE 93- 5978 sayılı Kanunun 11 inci maddesinin birinci fıkrasına aşağıdaki bent (ğ) bendi olarak eklenmiş ve mevcut (ğ) bendi (h) bendi olarak teselsül ettirilmiştir.
+**MADDE 93- 5978 sayılı Kanunun 11 inci maddesinin birinci fıkrasına aşağıdaki bent (ğ) bendi olarak eklenmiş ve mevcut (ğ) bendi (h) bendi olarak teselsül ettirilmiştir.**
 “ğ) Yurtdışından öğrenim görmek amacıyla ülkemize gelen öğrencilere burs, barınma, iaşe, sigorta, tedavi ve diğer giderlere ilişkin destek sağlamak.”
 
-MADDE 94- 5978 sayılı Kanunun 17 nci maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiş ve (c) bendine aşağıdaki alt bent eklenmiştir.
+**MADDE 94-** 5978 sayılı Kanunun 17 nci maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiş ve (c) bendine aşağıdaki alt bent eklenmiştir.
 “a) Kurul; Başbakanın veya ilgili Bakanın başkanlığında Başkan, Adalet, Aile ve Sosyal Politikalar, Avrupa Birliği, Çalışma ve Sosyal Güvenlik, Dışişleri, Ekonomi, Gümrük ve Ticaret, İçişleri, Kültür ve Turizm, Maliye, Milli Eğitim, Milli Savunma ve Ulaştırma, Denizcilik ve Haberleşme Bakanlıkları ile Diyanet İşleri Başkanlığı ve Sosyal Güvenlik Kurumu Başkanlığının en az Genel Müdür düzeyindeki temsilcileri; Sermaye Piyasası Kurulu Başkanı, Türkiye Radyo-Televizyon Kurumu Genel Müdürü, Basın-Yayın ve Enformasyon Genel Müdürü, Türkiye Odalar ve Borsalar Birliği temsilcisi ve yurtdışında yaşayan vatandaşlarımızın yoğun olarak bulundukları yerlerin başkonsolosluklarına veya Başkanlığa, yönetmelikte belirtilen şartları haiz Türkiye Cumhuriyeti vatandaşları veya kaybettirme halleri dışında vatandaşlıktan çıkanlar tarafından yapılan başvurular arasından Başkanın teklifi ve Başbakan veya ilgili Bakan oluruyla beş yıllığına seçilecek kişilerden oluşur. Kurula, Başbakan veya ilgili Bakan tarafından uygun bulunan kamu kurum ve kuruluşları ile mesleki yapılanmalar ve sivil toplum kuruluşları temsilcileri de davet edilebilir. Başbakan veya ilgili Bakan, Kurul üyeleri veya temsilcilerinin katılımı ile ihtisas kurulları ve çalışma grupları oluşturabilir.”
 “5) Yurtdışında yaşayan Türk vatandaşlarına ve kaybettirme halleri dışında vatandaşlıktan çıkmış olanlara sunulan kamu hizmetlerinin standartları ile ilgili görüş ve tavsiyelerde bulunmak.”
 
-MADDE 95- 5978 sayılı Kanunun 18 inci maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiş ve (b) bendine aşağıdaki alt bent eklenmiştir.
+**MADDE 95-** 5978 sayılı Kanunun 18 inci maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiş ve (b) bendine aşağıdaki alt bent eklenmiştir.
 “a) Kurul; Başbakanın veya ilgili Bakanın başkanlığında, Başkan, Adalet, Dışişleri, İçişleri, Ekonomi, Enerji ve Tabii Kaynaklar, Kültür ve Turizm, Milli Eğitim ve Ulaştırma, Denizcilik ve Haberleşme Bakanlıkları ile Diyanet İşleri Başkanlığının en az Genel Müdür düzeyindeki temsilcileri ile Türkiye Radyo-Televizyon Kurumu Genel Müdürü, Türk İşbirliği ve Koordinasyon Ajansı Başkanı, Vakıflar Genel Müdürü, konu hakkında çalışma yapan dernekler, üniversiteler, araştırma merkezleri ve düşünce kuruluşlarından Başkanlığın teklifi ve Başbakan veya ilgili Bakanın oluru ile seçilecek konu uzmanı en fazla beş üye ve Başbakan veya ilgili Bakan tarafından uygun görülen diğer yetkililerin katılımıyla oluşur.
 Başbakan veya ilgili Bakan, Kurul üyeleri veya temsilcilerinin katılımı ile ihtisas kurulları ve çalışma grupları oluşturabilir. Kurul kararları kamu kurum ve kuruluşlarınca öncelikle değerlendirilir.”
 “3) Soydaş ve akraba topluluklara sunulan kamu hizmetlerinin standartları ile ilgili görüş ve tavsiyelerde bulunmak.”
 
-MADDE 96- 5978 sayılı Kanunun 19 uncu maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 96-** 5978 sayılı Kanunun 19 uncu maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
 “a) Kurul; Başbakanın veya ilgili Bakanın başkanlığında, Başkan, Dışişleri, İçişleri, Maliye ve Milli Eğitim Bakanlıkları ile Diyanet İşleri Başkanlığının en az Genel Müdür düzeyindeki temsilcileri, Türk İşbirliği ve Koordinasyon Ajansı Başkanı, Kredi ve Yurtlar Kurumu Genel Müdürü ve Yükseköğretim Kurulu tarafından görevlendirilecek iki kurul üyesi ve konu ile ilgili çalışmalar yapan sivil toplum kuruluşu veya kamu kurumu niteliğindeki meslek kuruluşu temsilcilerinden her yıl Başbakan veya ilgili Bakan tarafından seçilen kişiler ve Başbakan veya ilgili Bakan tarafından uygun görülecek diğer yetkililerin katılımıyla oluşur. İlgili birimler Kurul tarafından alınan kararları uygulamakla yükümlüdürler. Başbakan veya ilgili Bakan, Kurul üyeleri veya temsilcilerinin katılımı ile ihtisas kurulları ve çalışma grupları oluşturabilir.”
 
-MADDE 97- 5978 sayılı Kanunun 21 inci maddesinin üçüncü fıkrasının beşinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 97-** 5978 sayılı Kanunun 21 inci maddesinin üçüncü fıkrasının beşinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Bu fıkra uyarınca çalıştırılacakların sayısı yetmişi geçemez.”
 
-MADDE 98- 5978 sayılı Kanunun 28 inci maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 98-** 5978 sayılı Kanunun **28 inci maddesinin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.**
 “(5) Yurtdışından öğrenim görmek amacıyla ülkemize gelen öğrencilere, Yabancı Öğrenci Değerlendirme Kurulu tarafından belirlenen esaslar doğrultusunda verilecek burs, barınma, iaşe, tedavi, sigorta, harç, eğitim yardımı, giyim yardımı ve diğer giderler için Yabancı Öğrenci Değerlendirme Kurulu tarafından belirlenecek kurum veya kuruluşların bütçelerine Maliye Bakanlığı tarafından ödenek konulur.”
 
 MADDE 99- 13/10/2010 tarihli ve 6015 sayılı Devlet Desteklerinin İzlenmesi ve Denetlenmesi Hakkında Kanunun geçici 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
@@ -542,10 +542,10 @@ MADDE 102- (1) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun;
 a) 36 ncı maddesinin “Ortak Hükümler” başlıklı bölümünün (A) fıkrasının (11) numaralı bendine “Millî Eğitim Uzman Yardımcıları ve Millî Eğitim Denetçi Yardımcıları,” ibaresinden sonra gelmek üzere “Gümrük ve Ticaret Denetmen Yardımcıları,” ibaresi ve aynı bende “Millî Eğitim Uzmanlığına ve Millî Eğitim Denetçiliğine,” ibaresinden sonra gelmek üzere “Gümrük ve Ticaret Denetmenliğine” ibaresi eklenmiştir.
 b) 152 nci maddesinin “II- Tazminatlar” kısmının “A- Özel Hizmet Tazminatı” bölümünün (i) bendine “Basın ve Enformasyon Uzmanları,” ibaresinden sonra gelmek üzere “Gümrük ve Ticaret Denetmenleri,” ibaresi eklenmiştir.
 c) Ek 36 ncı maddesinin üçüncü fıkrasında yer alan “Diyanet İşleri Başkanlığının” ibaresi “Diyanet İşleri Başkanlığı ve Yurtdışı Türkler ve Akraba Topluluklar Başkanlığının” şeklinde değiştirilmiştir.
-ç) Eki (I) sayılı Ek Gösterge Cetvelinin “I- Genel İdare Hizmetleri Sınıfı” bölümünün (d) bendine “, Türkiye Atom Enerjisi Kurumu Başkanı” ibaresi, (f) bendine “Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkan Yardımcısı,” ibaresinden sonra gelmek üzere “Afet ve Acil Durum Yönetimi Başkanlığı Başkan Yardımcısı,” ibaresi ve (h) bendine “Ürün Denetmenleri,” ibaresinden sonra gelmek üzere “Gümrük ve Ticaret Denetmenleri,” ibaresi eklenmiştir.
+ç) Eki (I) sayılı Ek Gösterge Cetvelinin “I- Genel İdare Hizmetleri **Sınıfı**” bölümünün (d) bendine “, Türkiye Atom Enerjisi Kurumu Başkanı” ibaresi, (f) bendine “Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkan Yardımcısı,” ibaresinden sonra gelmek üzere “Afet ve Acil Durum Yönetimi Başkanlığı Başkan Yardımcısı,” ibaresi ve (h) bendine “Ürün Denetmenleri,” ibaresinden sonra gelmek üzere “Gümrük ve Ticaret Denetmenleri,” ibaresi eklenmiştir.
 
 MADDE 103- Ekli
-(1) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin ilgili bölümlerinden çıkarılmış ve ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin ilgili bölümlerine eklenmiştir.
+(1) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin ilgili bölümlerinden çıkarılmış ve ekli (2) sayılı listede yer alan kadrolar ihdas edilerek **190 sayılı Kanun Hükmünde Kararnamenin** eki (I) sayılı cetvelin **ilgili** bölümlerine eklenmiştir.
 
 MADDE 104- Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.
 

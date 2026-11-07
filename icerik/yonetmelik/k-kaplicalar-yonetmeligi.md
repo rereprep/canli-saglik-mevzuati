@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak, Tanımlar
+**Amaç, Kapsam, Dayanak, Tanımlar**
 
 #### Amaç
 
@@ -37,7 +37,7 @@ Amaç, Kapsam, Dayanak, Tanımlar
 
 a) Bakanlık: Sağlık Bakanlığı'nı,
 
-b) (Değişik:RG-16/4/2010-27554) Kaplıca: Doğal termal su veya termomineralli su ortamlarının halkın hizmetine sunulduğu tesisleri,
+b) **(Değişik:RG-16/4/2010-27554)** Kaplıca: Doğal termal su veya termomineralli su ortamlarının halkın hizmetine sunulduğu tesisleri,
 
 c) Doğal Tedavi Unsuru: Kaplıca tedavisinde kullanılan toprak, yeraltı ve deniz kaynaklı mineralli sular, gazlar, peloidler (çamurlar) ve iklimsel unsurları,
 
@@ -49,23 +49,23 @@ f) Balneoterapi : Termomineral sular, peloidler ve gazlar gibi doğal tedavi uns
 
 g) Klimaterapi (İklim Tedavisi): Hava sıcaklığı, nemi, rüzgar şiddeti ve hızı, güneş ışınımı ve benzeri iklimsel faktörlerin sistematik, dozlanmış , kür tarzında uygulanmasını,
 
-h) (Değişik: RG 9/12/2004-25665) Talassoterapi : Deniz iklimi ve unsurlarının kür tarzında uygulanmasını,"
+h) **(Değişik: RG 9/12/2004-25665)** Talassoterapi : Deniz iklimi ve unsurlarının kür tarzında uygulanmasını,"
 
 ı) Peloidoterapi : Doğal jeolojik ve/veya biyolojik olaylar sonucu oluşan organik ve/veya inorganik maddeler olan peloidlerin bir balneoterapi yöntemi olarak kullanılmasını,
 
 i) Mineralli Sular: Doğal veya sondaj-galeri yoluyla yeryüzüne çıkarılan, litresinde en az 1 gram çözünmüş mineral içeren, bakteriyolojik ve kimyasal kirlenmeye uğramamış olan, fizyolojik ve tedavi edici etkinliği bilimsel olarak kanıtlanmış suları,
 
-j) (Değişik: RG 9/12/2004-25665) Termomineral Sular: Çıkış noktasında sıcaklığı 20°C ve üzerinde olan mineralli suları,
+j) **(Değişik: RG 9/12/2004-25665)** Termomineral Sular: Çıkış noktasında sıcaklığı 20°C ve üzerinde olan mineralli suları,
 
-k) (Değişik: RG 9/12/2004-25665) Termal Su: Çıkış noktasında sıcaklığı 20°C ve üzerinde olan suları,
+k) **(Değişik: RG 9/12/2004-25665)** Termal Su: Çıkış noktasında sıcaklığı 20°C ve üzerinde olan suları,
 
 l) Kaplıca Suları: Kaplıca tedavisinde kullanılan termal, mineralli ve termomineralli suları,
 
 m) Rekreasyon: Doğal tedavi unsurlarının, tedavi dışında, turistik ve dinlenme amaçlı olarak kullanımını,
 
-n) Tesis İzni: Doğal tedavi unsuru için düzenlenen tıbbi rapora ve bu Yönetmelik hükümlerine göre hazırlanan projelerin (Değişik ibare:RG-16/4/2010-27554) Valilikçe onaylanmasını takiben verilen izni,
+n) Tesis İzni: Doğal tedavi unsuru için düzenlenen tıbbi rapora ve bu Yönetmelik hükümlerine göre hazırlanan projelerin **(Değişik ibare:RG-16/4/2010-27554)** Valilikçe onaylanmasını takiben verilen izni,
 
-o) (Değişik: RG 9/12/2004-25665) İşletme İzni: Tesis izni alındıktan sonra, (Değişik ibare:RG-16/4/2010-27554) Valilikçe bu Yönetmelikte istenilen diğer hususları tam olarak yerine getirmek suretiyle tesis izni verilmesine esas olan projelere göre bütün tesisleri inşa ederek tamamladıktan sonra kurulacak sağlık amaçlı tesislere verilen izni,
+o) **(Değişik: RG 9/12/2004-25665)** İşletme İzni: Tesis izni alındıktan sonra, **(Değişik ibare:RG-16/4/2010-27554)** Valilikçe bu Yönetmelikte istenilen diğer hususları tam olarak yerine getirmek suretiyle tesis izni verilmesine esas olan projelere göre bütün tesisleri inşa ederek tamamladıktan sonra kurulacak sağlık amaçlı tesislere verilen izni,
 
 p) Kaptaj : Termal suların doğal olarak veya mekanik yolla yeryüzüne çıkması esnasında yer altı ve yerüstü suları ile karışmamasını, kirlenmemesini, debi ve sıcaklıkları ile kimyasal bileşimlerinin değişmemesini sağlamak, sudaki gazların kaçmasını önlemek ve termal suları en iyi şekilde toplamak amacı ile özel teknikle yapılan toplama havuzu, kuyu galeri, sondaj kuyusu ve benzeri tesisleri ile bunların karışımından oluşan tesisleri,
 
@@ -75,17 +75,17 @@ s) Termal Su Sondajı: Yapıları jeoloji-hidrojeoloji ve jeofizik etüdler sonu
 
 ş) Kaynak Koruma Alanları: Termal suların fiziksel ve kimyasal özelliklerinin, debi ve sıcaklıklarının çeşitli engellerle değişmesini önlemek ve her türlü kirlenmeye karşı korunması amacı ile termal kaynak, kuyu ve sondaj kuyusu çevresinde jeolojik, hidrojeolojik verilere göre belirlenen alanları,
 
-t) (Mülga:RG-16/4/2010-27554)
+t) **(Mülga:RG-16/4/2010-27554)**
 
-u) (Mülga:RG-16/4/2010-27554)
+u) **(Mülga:RG-16/4/2010-27554)**
 
-ü) (Ek:RG-16/4/2010-27554) Talassoterapi tesisi: Deniz ve iklim kaynaklı unsurların halkın hizmetine sunulduğu tesisleri,
+ü) **(Ek:RG-16/4/2010-27554)** Talassoterapi tesisi: Deniz ve iklim kaynaklı unsurların halkın hizmetine sunulduğu tesisleri,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Kaplıca Tesislerinin Türleri, Yöntemleri ve Tedavi Bölümleri
+**Kaplıca Tesislerinin Türleri, Yöntemleri ve Tedavi Bölümleri**
 
 #### Tesislerin türleri
 
@@ -97,7 +97,7 @@ a) Kaplıca tesisi: Kullanılan termal veya mineralli suyun veya peloidin niteli
 
 b) Talassoterapi tesisi: Bünyesinde talassoterapi tedavi havuzu ve sıra banyoları ile doğal, inhalasyon, yosun, peloidoterapi, helioterapi gibi talassoterapi uygulama birimleri bulunan tesistir.
 
-(Mülga:RG-09/12/2004-25665)
+**(Mülga:RG-09/12/2004-25665)**
 
 #### Kaplıca Tedavisinde Kullanılan Yöntemler
 
@@ -173,13 +173,13 @@ Fizik tedavi ve/veya rehabilitasyon bölümü, tıbbi değerlendirme kurulunun �
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Kaplıca Tesislerine Ait Koşullar
+**Kaplıca Tesislerine Ait Koşullar**
 
 #### Kaynak Koruma Alanları
 
 **Madde 9 –** Termal suların fiziksel ve kimyasal özelliklerinin, debi ve sıcaklıklarının yer altı ve yerüstünde olabilecek çeşitli etkenlerle değişmesini önlemek ve her türlü kirlenmeye karşı korunması amacı ile doğal çıkışlı termal kaynak, sondaj kuyusu çevresinde jeolojik ve hidrojeolojik verilere göre koruma alanları ve alınacak tedbirler belirlenir. Bu amaçla kaptaj ve sondaj kuyularının ve üretim sistemlerinin kirlenmeyi önleyici tekniğe uygun olması gerekir.
 
-(Değişik: RG 9/12/2004-25665) Yapılan incelemede belirlenen kaynak koruma alanlarına ait koruma zonları uygun ölçekli harita ve ayrıca imar planlarında gösterilerek alınacak tedbirler, plana dipnot olarak yazılır.
+**(Değişik: RG 9/12/2004-25665)** Yapılan incelemede belirlenen kaynak koruma alanlarına ait koruma zonları uygun ölçekli harita ve ayrıca imar planlarında gösterilerek alınacak tedbirler, plana dipnot olarak yazılır.
 
 Kaynak koruma alanı ile ilgili hususlar müstakil bir rapor şeklinde hazırlanabildiği gibi, jeoloji-hidrojeoloji raporu içinde ayrı bir bölüm olarak da yer alabilir.
 
@@ -195,15 +195,15 @@ Bütün tedavi birimlerinde tek başına tedavi alan hastalarda acil durum ihbar
 
 **Madde 11 –** Kaplıca tesisinde bulunan balneoterapi birimleri aşağıdaki özellikleri taşımalıdır,
 
-a) (Değişik:RG-09/12/2004-25665) Tedavi havuzu birimi: Havuz, soyunma-giyinme dolapları, duş ve dinlenme mekanlarından oluşur. Havuzun boyutları kullanıcı kapasitesine göre belirlenir. Havuz zemin alanı kişi başına en az üç metrekare olacak şekilde düzenlenir. Havuzun derinliği en fazla net 150 santimetre olmalıdır. Havuz içine inen dolgu basamaklı merdiven bulunur, ayrıca merdiven kenarına ve havuz iç duvarına tutunma kolları yapılır. Gerekirse havuz içine hasta indirmeye yarayan sabit veya hareketli bir sistem kurulur. Havuzlarda su taşırma ve tahliyesini sağlayan sistemlerin bulunması zorunludur. Havuz çevresinde devamlı su değişimini sağlayan su taşırma olukları yer alır. Havuz suyu kullanıcı başına saatte 1500 mililitre yenilenecek biçimde havuza verilir. Havuza girmeden duş ve ayak dezenfeksiyon kanalından geçilmesi sağlanır. Havuzun doldurulmasında, havuz içinde hareketsiz su bölgelerinin oluşmasını önleyecek şekilde bir doldurma ve taşırma sistemi kullanılır.
+a) **(Değişik:RG-09/12/2004-25665)** Tedavi havuzu birimi: Havuz, soyunma-giyinme dolapları, duş ve dinlenme mekanlarından oluşur. Havuzun boyutları kullanıcı kapasitesine göre belirlenir. Havuz zemin alanı kişi başına en az üç metrekare olacak şekilde düzenlenir. Havuzun derinliği en fazla net 150 santimetre olmalıdır. Havuz içine inen dolgu basamaklı merdiven bulunur, ayrıca merdiven kenarına ve havuz iç duvarına tutunma kolları yapılır. Gerekirse havuz içine hasta indirmeye yarayan sabit veya hareketli bir sistem kurulur. Havuzlarda su taşırma ve tahliyesini sağlayan sistemlerin bulunması zorunludur. Havuz çevresinde devamlı su değişimini sağlayan su taşırma olukları yer alır. Havuz suyu kullanıcı başına saatte 1500 mililitre yenilenecek biçimde havuza verilir. Havuza girmeden duş ve ayak dezenfeksiyon kanalından geçilmesi sağlanır. Havuzun doldurulmasında, havuz içinde hareketsiz su bölgelerinin oluşmasını önleyecek şekilde bir doldurma ve taşırma sistemi kullanılır.
 
-b) (Değişik:RG-09/12/2004-25665) Sıra banyoları birimi: Banyo odasının alanı en az net 5 metrekare olmalıdır. Banyo odasında ortaya çıkacak su buharı ile karbondioksitli veya kükürtlü su kullanılıyor ise ortama salınacak gazların banyo odasından tahliyesi için yeterli havalandırma düzeneği bulunmalıdır. Banyo odasında sadece tedavi amacına uygun banyo küveti ve donanımı yer alır, tuvalet bulunmaz.
+b) **(Değişik:RG-09/12/2004-25665)** Sıra banyoları birimi: Banyo odasının alanı en az net 5 metrekare olmalıdır. Banyo odasında ortaya çıkacak su buharı ile karbondioksitli veya kükürtlü su kullanılıyor ise ortama salınacak gazların banyo odasından tahliyesi için yeterli havalandırma düzeneği bulunmalıdır. Banyo odasında sadece tedavi amacına uygun banyo küveti ve donanımı yer alır, tuvalet bulunmaz.
 
 Tedavide, karbondioksitli veya kükürtlü su kullanılıyor ise bu tür suların tedavide kullanımı için özel olarak tasarlanmış küvetler kullanılır.
 
 Küvetlerde kullanılan su her hastadan sonra değiştirilir, usulüne uygun küvet temizliğinin yapılmasının ardından bir sonraki hastanın kullanımına sunulur.
 
-c) (Değişik:RG-09/12/2004-25665) İçme kürü birimi: İçme kürü için ayrılan mekanların büyüklüğü, kürden yararlanan hastaların sayısına göre belirlenir. İçmede; her hasta için ayrı tek kullanımlık, tercihen kağıt bardaklar kullanılır, kullanılan suya dezenfeksiyon amaçlı bir katkı maddesi eklenemez, kullanılacak su, içme yerine hijyenik koşullara dikkat edilerek doğrudan kaynaktan ve bekletilmeden ulaştırılır.
+c) **(Değişik:RG-09/12/2004-25665)** İçme kürü birimi: İçme kürü için ayrılan mekanların büyüklüğü, kürden yararlanan hastaların sayısına göre belirlenir. İçmede; her hasta için ayrı tek kullanımlık, tercihen kağıt bardaklar kullanılır, kullanılan suya dezenfeksiyon amaçlı bir katkı maddesi eklenemez, kullanılacak su, içme yerine hijyenik koşullara dikkat edilerek doğrudan kaynaktan ve bekletilmeden ulaştırılır.
 
 d) Peloidoterapi birimleri: Peloidler (çamur) tedavide kullanılmadan önce peloid hazırlama biriminde içindeki yabancı maddelerden arındırma, sterilizasyon , homojenizasyon işlemlerinden geçirilir. Peloid hazırlama birimi peloidoterapinin uygulandığı mekandan ayrı, ancak bağlantılı bir mekanda kurulur. Peloidoterapi uygulamasının yapıldığı odalarda uygulamadan çıkan hastaların yıkanması için duş bulunur.
 
@@ -213,7 +213,7 @@ e) İnhalasyon birimleri: Bireysel inhalatörlerin bulunduğu inhalasyon salonu 
 
 Bütün bu sistemlerde mineralli suyun bakteriyolojik kirlenmesini önleyici tedbirler alınır. Cihazların her bir hastanın kullanımından sonrası dezenfeksiyonu için gerekli düzenleme yapılır.
 
-f) (Ek:RG-09/12/2004-25665) Gaz banyosu birimleri: Tıbbi değerlendirme kurulunun önerileri doğrultusunda insan sağlığını koruyacak gerekli önlemler alınarak, uygun teknoloji kullanılarak kurulur ve denetlenir.
+f) **(Ek:RG-09/12/2004-25665)** Gaz banyosu birimleri: Tıbbi değerlendirme kurulunun önerileri doğrultusunda insan sağlığını koruyacak gerekli önlemler alınarak, uygun teknoloji kullanılarak kurulur ve denetlenir.
 
 #### Fizik Tedavi ve/veya Rehabilitasyon Birimleri
 
@@ -261,13 +261,13 @@ Mesul müdür görevlendirilmesi, işletmecinin sorumluluğunu ortadan kaldırma
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Kaplıca Tesislerinin İzne Bağlanması, Kurullar ve Görevleri
+**Kaplıca Tesislerinin İzne Bağlanması, Kurullar ve Görevleri**
 
 #### İzin Zorunluluğu
 
 **Madde 17 –** (Değişik:RG-09/12/2004-25665)
 
-Kaplıca tesislerini işletmek isteyenler bu Yönetmelikte belirtilen esaslara uygun olarak (Değişik ibare:R.G.31/7/2009-27305) Valilikten önce tesis izni, sonra işletme izni almak zorundadır. Kurulu ve faaliyette olan tesisler için tesis ve işletme izin süreçleri bir arada yürütülür.
+Kaplıca tesislerini işletmek isteyenler bu Yönetmelikte belirtilen esaslara uygun olarak **(Değişik ibare:R.G.31/7/2009-27305)** Valilikten önce tesis izni, sonra işletme izni almak zorundadır. Kurulu ve faaliyette olan tesisler için tesis ve işletme izin süreçleri bir arada yürütülür.
 
 Bu Yönetmeliğe göre verilen izin, bu Yönetmelikte belirtilen esaslara uygun olarak ilgili mevzuat uyarınca diğer kuruluşlardan izin almak zorunluluğunu ortadan kaldırmaz.
 
@@ -277,11 +277,11 @@ Bu Yönetmeliğe göre verilen izin, bu Yönetmelikte belirtilen esaslara uygun 
 
 Başvurunun sağlık müdürlüğüne intikali üzerine kaynak veya sondaj-galeri, başvuru sahibi tarafından sağlık müdürlüğü elemanlarının kontrolünde numune alınacak şekle getirtilir. İnceleme ve tespit kurulu kaynağı veya çıkış noktasını mahallinde inceleyerek gerekli tespitleri yapar ve EK -1 deki raporu düzenleyerek imzalar.
 
-(Değişik:RG-09/12/2004-25665) Alınan numunelerin bakteriyolojik ve kimyasal analizleri, Refik Saydam Hıfzıssıhha Merkezi Başkanlığı laboratuvarlarında veya Bakanlıkça yeterli ve uygun görülecek laboratuvarlarda yapılır, pestisit analizleri ise kaplıca suyunun beslenme havzasının tarımsal veya endüstriyel bölgede bulunması halinde yaptırılır. Analiz sonuçları mineralli su için EK-2 ve EK-3, peleoid (çamur) için EK- 4 deki rapor formatına uygun olarak tanzim edilir. Radyoaktivite analizleri Türkiye Atom Enerjisi Kurumu laboratuarlarında (Değişik ibare:RG-16/4/2010-27554) veya Bakanlıkça yetkilendirilen kamu laboratuvarlarında yapılır. Analiz sonuçları ilgili valiliğe (Mülga ibare:R.G.31/7/2009-27305) (…) gönderilir.
+**(Değişik:RG-09/12/2004-25665)** Alınan numunelerin bakteriyolojik ve kimyasal analizleri, Refik Saydam Hıfzıssıhha Merkezi Başkanlığı laboratuvarlarında veya Bakanlıkça yeterli ve uygun görülecek laboratuvarlarda yapılır, pestisit analizleri ise kaplıca suyunun beslenme havzasının tarımsal veya endüstriyel bölgede bulunması halinde yaptırılır. Analiz sonuçları mineralli su için EK-2 ve EK-3, peleoid (çamur) için EK- 4 deki rapor formatına uygun olarak tanzim edilir. Radyoaktivite analizleri Türkiye Atom Enerjisi Kurumu laboratuarlarında **(Değişik ibare:RG-16/4/2010-27554)** veya Bakanlıkça yetkilendirilen kamu laboratuvarlarında yapılır. Analiz sonuçları ilgili valiliğe **(Mülga ibare:R.G.31/7/2009-27305)** (…) gönderilir.
 
-(Değişik dördüncü fıkra:RG-16/4/2010-27554) Tesis ve işletme iznine esas her türlü analiz ücretleri işletme sahibi tarafından ilgili laboratuvara ödenir.
+**(Değişik dördüncü fıkra:RG-16/4/2010-27554)** Tesis ve işletme iznine esas her türlü analiz ücretleri işletme sahibi tarafından ilgili laboratuvara ödenir.
 
-(Değişik:RG-09/12/2004-25665) Analiz sonuçları ve inceleme ve tespit kurulunun raporu sağlık müdürlüğünce incelenerek valiliğin görüşü ile Bakanlığa gönderilir. Söz konusu belgeler tıbbi değerlendirme kurulu tarafından incelenir ve EK-5’de bulunan rapor ile inceleme sonucu belgelenir. İnceleme sonucu valiliğe bildirilir.
+**(Değişik:RG-09/12/2004-25665)** Analiz sonuçları ve inceleme ve tespit kurulunun raporu sağlık müdürlüğünce incelenerek valiliğin görüşü ile Bakanlığa gönderilir. Söz konusu belgeler tıbbi değerlendirme kurulu tarafından incelenir ve EK-5’de bulunan rapor ile inceleme sonucu belgelenir. İnceleme sonucu valiliğe bildirilir.
 
 #### İnceleme ve Tespit Kurulu
 
@@ -295,19 +295,19 @@ a) İlk başvurudaki kaynakla ilgili bilgilerin doğruluğunun ve kaynak çevres
 
 b) Kaynaktan usulüne uygun olarak bakteriyolojik, kimyasal ve radyoaktivite ölçümleri için numune alınması,
 
-c) (Değişik: RG 9/12/2004-25665) Kaynak başında yapılması gerekli debi, su sıcaklığı ve pH ölçümünün yapılması,
+c) **(Değişik: RG 9/12/2004-25665)** Kaynak başında yapılması gerekli debi, su sıcaklığı ve pH ölçümünün yapılması,
 
 d) EK-1 de belirtilen formattaki raporun doldurularak imzalanmasıdır.
 
 İşletme izni verilmesi aşamasında;
 
-a) Tesisin (Değişik ibare:RG-16/4/2010-27554) Valilikçe onaylanan tesis projesine uygun inşa edildiğinin belirlenmesi,
+a) Tesisin **(Değişik ibare:RG-16/4/2010-27554)** Valilikçe onaylanan tesis projesine uygun inşa edildiğinin belirlenmesi,
 
 b) Projeye göre yapılan tedavi birimlerinin uygunluğunun belirlenmesi,
 
-c) (Değişik: RG 9/12/2004-25665) EK-6 da belirtilen formattaki raporun doldurularak imzalanmasıdır.
+c) **(Değişik: RG 9/12/2004-25665)** EK-6 da belirtilen formattaki raporun doldurularak imzalanmasıdır.
 
-Kurul üyelerinin tespitleri arasında ihtilaf doğması halinde (Değişik ibare:R.G.31/7/2009-27305) Valilik konu ile ilgili uzmanın tespit ve görüşünü dikkate alabilir veya yeniden bir kurul oluşturabilir.
+Kurul üyelerinin tespitleri arasında ihtilaf doğması halinde **(Değişik ibare:R.G.31/7/2009-27305)** Valilik konu ile ilgili uzmanın tespit ve görüşünü dikkate alabilir veya yeniden bir kurul oluşturabilir.
 
 #### Tıbbi Değerlendirme Kurulu
 
@@ -319,7 +319,7 @@ a) EK-1, EK-2 ve EK-4’teki raporların incelenmesiyle kaplıca tedavisinde kul
 
 b) Bu değerlendirmeler sonucu oluşturulan önerilerin yer alacağı EK-5'teki raporun düzenlenmesi ve imza altına alınması,
 
-c) (Değişik: RG 9/12/2004-25665) İşletme izni aşamasında EK-3’teki analiz değerlerinde, tesis izni aşamasındaki değerlerden bir sapma olması halinde değerlendirme yapılmasıdır.
+c) **(Değişik: RG 9/12/2004-25665)** İşletme izni aşamasında EK-3’teki analiz değerlerinde, tesis izni aşamasındaki değerlerden bir sapma olması halinde değerlendirme yapılmasıdır.
 
 #### Tesis İzni ve Gereken Belgeler (Değişik başlık: RG 9/12/2004-25665)
 
@@ -343,13 +343,13 @@ g) Kullanılacak doğal tedavi unsuru kaynağının kullanım hakkına sahip old
 
 h) Projelendirilen tesislerin uygun ölçekli imar planı veya ilgili imarın uygun görüşü,
 
-i) (Değişik:RG-4/4/2012-28254) Tesisin kurulacağı alan mülk sahibinin ise mülk sahibi olunduğuna ilişkin yazılı beyan, tahsis belgeli ise tahsis belgeli olduğuna ilişkin yazılı beyan veya kiracı ise kiracı olunduğuna ilişkin yazılı beyan.
+i) **(Değişik:RG-4/4/2012-28254)** Tesisin kurulacağı alan mülk sahibinin ise mülk sahibi olunduğuna ilişkin yazılı beyan, tahsis belgeli ise tahsis belgeli olduğuna ilişkin yazılı beyan veya kiracı ise kiracı olunduğuna ilişkin yazılı beyan.
 
-Yukarıda belirtilen belgeleri içeren dosya üç nüsha halinde düzenlenir. Asılları ve suretleri tanzim edenler ve işletmeci tarafından imza ve tasdik edilir. Hazırlanan dosyalar sağlık müdürlüğünce incelenir. (Mülga ibare:R.G.31/7/2009-27305) (….)
+Yukarıda belirtilen belgeleri içeren dosya üç nüsha halinde düzenlenir. Asılları ve suretleri tanzim edenler ve işletmeci tarafından imza ve tasdik edilir. Hazırlanan dosyalar sağlık müdürlüğünce incelenir. **(Mülga ibare:R.G.31/7/2009-27305)** (….)
 
-(Değişik üçüncü fıkra:R.G.31/7/2009-27305) Belgelerin eksiksiz ve bu Yönetmelik hükümlerine uygun olması halinde projeler Valilikçe onaylanır ve tesis izni verildiği bir yazı ile bilgi için işletmeciye bildirilir. Dosyaların bir nüshası il sağlık müdürlüğünde muhafaza edilir ve bir nüshası da işletmeciye verilir.
+**(Değişik üçüncü fıkra:R.G.31/7/2009-27305)** Belgelerin eksiksiz ve bu Yönetmelik hükümlerine uygun olması halinde projeler Valilikçe onaylanır ve tesis izni verildiği bir yazı ile bilgi için işletmeciye bildirilir. Dosyaların bir nüshası il sağlık müdürlüğünde muhafaza edilir ve bir nüshası da işletmeciye verilir.
 
-(Değişik dördüncü fıkra:RG-16/4/2010-27554) Verilen tesis izninin geçerlilik süresi üç yıldır. İşletmecinin bu süre içerisinde tesisini tamamlayamaması ve Valilikten ek süre talebinde bulunması durumunda bu süre Valilikçe en fazla iki yıl uzatılır.
+**(Değişik dördüncü fıkra:RG-16/4/2010-27554)** Verilen tesis izninin geçerlilik süresi üç yıldır. İşletmecinin bu süre içerisinde tesisini tamamlayamaması ve Valilikten ek süre talebinde bulunması durumunda bu süre Valilikçe en fazla iki yıl uzatılır.
 
 #### İşletme İzni ve Gereken Belgeler (Değişik başlık: RG 9/12/2004-25665)
 
@@ -361,7 +361,7 @@ a) Tedavi amaçlı kullanım yerleri analiz raporu (EK-3),
 
 b) İnceleme ve tespit kurulunca tesisin incelenmesinden sonra düzenlenen ve EK-6’da örneği bulunan uygunluk bildirimi formu,
 
-c) (Değişik:RG-4/4/2012-28254) Mesul müdürün adı soyadı ve T.C. kimlik numarası ile sorumlu müdürün sözleşme tarihinin yazılı beyanı,
+c) **(Değişik:RG-4/4/2012-28254)** Mesul müdürün adı soyadı ve T.C. kimlik numarası ile sorumlu müdürün sözleşme tarihinin yazılı beyanı,
 
 d) Bulundurulması gereken zorunlu sağlık personelin sözleşmeleri ve sağlık müdürlüğünce onaylı diplomaları,
 
@@ -369,13 +369,13 @@ e) İçme ve kullanma suyunun ne şekilde temin edildiğinin belgelendirilmesi,
 
 f) Atık suların ne şekilde bertaraf edileceğinin belgelendirilmesi.
 
-(Değişik ikinci fıkra:RG-16/4/2010-27554) Belgelerin eksiksiz olması ve bu Yönetmelikte belirtilen şartları taşıması halinde bu tesislere Valilikçe işletme izni verilir.
+**(Değişik ikinci fıkra:RG-16/4/2010-27554)** Belgelerin eksiksiz olması ve bu Yönetmelikte belirtilen şartları taşıması halinde bu tesislere Valilikçe işletme izni verilir.
 
-(Ek üçüncü fıkra:RG-16/4/2010-27554) İzin verilen kaplıca ve talassoterapi tesislerinde suyun endikasyonuna göre tedavi amaçlı sağlık hizmeti sunulmak istenmesi halinde; Bakanlıkça planlama kapsamına ve ilgili mevzuata göre izin verilir.
+**(Ek üçüncü fıkra:RG-16/4/2010-27554)** İzin verilen kaplıca ve talassoterapi tesislerinde suyun endikasyonuna göre tedavi amaçlı sağlık hizmeti sunulmak istenmesi halinde; Bakanlıkça planlama kapsamına ve ilgili mevzuata göre izin verilir.
 
 ### BEŞİNCİ BÖLÜM
 
-Kaplıca Tedavisinde Kullanılacak Doğal Tedavi Unsurları
+**Kaplıca Tedavisinde Kullanılacak Doğal Tedavi Unsurları**
 
 #### Özel Balneolojik Sular
 
@@ -415,7 +415,7 @@ d) Topraklar: Su topluluklarının dışında, katı halde bulunan kayaçların 
 
 ### ALTINCI BÖLÜM
 
-Muhtelif Hükümler
+**Muhtelif Hükümler**
 
 #### Çevre Düzenlemesi
 
@@ -431,13 +431,13 @@ Kür merkezi çevresinde kür parkı, spor ve dinlenme tesisleri düzenlenir.
 
 **Madde 31 –** Tesiste yapılacak ek ve değişiklikler, yetkili makamın bilgilendirilmesi ve yazılı izniyle yapılır.
 
-Tesisin kurulmasına esas olarak analiz edilen kaynaktan başka bir kaynak daha işletmeye alınacaksa bu Yönetmeliğin 18 ve 21 inci maddelerine göre bu kaynak için yeniden (Değişik ibare:RG-16/4/2010-27554) Valilikten izin alınır.
+Tesisin kurulmasına esas olarak analiz edilen kaynaktan başka bir kaynak daha işletmeye alınacaksa bu Yönetmeliğin 18 ve 21 inci maddelerine göre bu kaynak için yeniden **(Değişik ibare:RG-16/4/2010-27554)** Valilikten izin alınır.
 
 #### Denetim ve Yaptırım
 
 **Madde 32 –** Kaplıca tesisleri sağlık teşkilatının denetimine tabidir. Bu tesisler senede bir defa Bakanlıkça oluşturulan bir komisyon tarafından sağlık açısından denetlenir.
 
-(Değişik ikinci fıkra:RG-09/12/2004-25665) (Değişik birinci cümle:RG-28/02/2006-26094) Kaplıca suyunun kullanım yerinden alınan numunelerinde mikrobiyolojik kontroller üç ayda bir yapılır. Kaynaktan alınan numunelerde EK-2’ de belirtilen analizler üç yılda bir; kullanım yerinden alınan kimyasal analizler EK-3 de belirtilen formata uygun olarak her yıl yaptırılır. Kaplıca ortamının endüstriyel ve tarımsal kirliliğe maruz kalması durumunda tıbbi değerlendirme kurulunun önerileri doğrultusunda ek olarak bazı parametrelerin analizi de istenebilir. Alınan numuneler 18 inci maddede belirtildiği şekilde tesis sahibince analiz ettirilir, ayrıca bu tesislerin mahalli sağlık teşkilatınca en az üç aylık aralıklarla genel kontrolleri yapılır, gerekli görülen hallerde numune alınabilir.
+**(Değişik ikinci fıkra:RG-09/12/2004-25665) (Değişik birinci cümle:RG-28/02/2006-26094)** Kaplıca suyunun kullanım yerinden alınan numunelerinde mikrobiyolojik kontroller üç ayda bir yapılır. Kaynaktan alınan numunelerde EK-2’ de belirtilen analizler üç yılda bir; kullanım yerinden alınan kimyasal analizler EK-3 de belirtilen formata uygun olarak her yıl yaptırılır. Kaplıca ortamının endüstriyel ve tarımsal kirliliğe maruz kalması durumunda tıbbi değerlendirme kurulunun önerileri doğrultusunda ek olarak bazı parametrelerin analizi de istenebilir. Alınan numuneler 18 inci maddede belirtildiği şekilde tesis sahibince analiz ettirilir, ayrıca bu tesislerin mahalli sağlık teşkilatınca en az üç aylık aralıklarla genel kontrolleri yapılır, gerekli görülen hallerde numune alınabilir.
 
 #### Uygun Çıkmayan Suların Takibi
 
@@ -447,7 +447,7 @@ Tesisin kurulmasına esas olarak analiz edilen kaynaktan başka bir kaynak daha 
 
 **Madde 34 –** Bu Yönetmelik hükümlerine göre verilen işletme izni, izin belgesi üzerinde yazılı şahıs, adres ve iş için geçerlidir. Bunlardan herhangi birinin değişmesi halinde izin belgesi geçerliliğini kaybeder.
 
-(Değişik ikinci fıkra:RG-28/02/2006-26094) İzin belgesinde belirtilen işletme sahibinin ve/veya işletmecinin veya adresinin değişmesi halinde; işletmeci tarafından üç ay içinde değişikliklerle ilgili bilgi, belge ve izin belgesinin aslı ile mahallin en büyük mülki amirine başvurulur.
+**(Değişik ikinci fıkra:RG-28/02/2006-26094)** İzin belgesinde belirtilen işletme sahibinin ve/veya işletmecinin veya adresinin değişmesi halinde; işletmeci tarafından üç ay içinde değişikliklerle ilgili bilgi, belge ve izin belgesinin aslı ile mahallin en büyük mülki amirine başvurulur.
 
 İnceleme ve tespit kurulu tarafından yerinde gerekli incelemeler yapılarak, iznin verildiği sıradaki şartlarda bir değişikliğin olup olmadığının tespitine ilişkin rapor düzenlenir. Rapora göre yetkili makam izin belgesi üzerinde gerekli düzeltmeyi yapar veya yeniden izin belgesi tanzim eder.
 
@@ -461,7 +461,7 @@ Tesis yerinin veya tesiste yapılan işin değişmesi halinde yeniden izin alın
 
 ### YEDİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Müeyyideler
 
@@ -505,7 +505,7 @@ Bu maddenin yürürlüğe girdiği tarih itibarıyla tesis ve işletme izni bulu
 
 **Madde 39 –** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-EK-1 (Değişik:RG-09/12/2004-25665)
+**EK-1 (Değişik:RG-09/12/2004-25665)**
 
 ### KAYNAK İÇİN İNCELEMEYE ESAS İNCELEME VE TESPİT KURULUNUN DOLDURACAĞI RAPOR
 
@@ -615,7 +615,7 @@ Sağlık Müdürü / Müdür Yardımcısı Gıda ve Çevre Kontrol Şube Müdür
 
 Jeoloji Mühendisi İnşaat Mühendisi Çevre Sağlığı Teknisyeni
 
-EK- 2 . (Değişik:RG-09/12/2004-25665)
+**EK- 2 . (Değişik:RG-09/12/2004-25665)**
 
 ### MİNERALLİ SU İÇİN HIFZISSIHHA VEYA YETKİLİ LABORATUVARDA YAPILMASI GEREKEN ANALİZLER
 
@@ -706,7 +706,7 @@ EK- 2 . (Değişik:RG-09/12/2004-25665)
 
 10 Kullanılacak tekniğin dedeksiyon limiti 0,01 mg / L’yi içermelidir.
 
-EK -3 (Değişik:RG-09/12/2004-25665)
+**EK -3 (Değişik:RG-09/12/2004-25665)**
 
 ### İŞLETMEDE TEDAVİ AMAÇLI KULLANIM YERİNDEN ALINAN NUMUNELERDE YAPILACAK ANALİZLER
 
@@ -727,7 +727,7 @@ EK -3 (Değişik:RG-09/12/2004-25665)
 | Fekal Koliform | : 100 ml de (0 olmalı) |
 | Toplam koloni sayısı | : 1 ml.de 20 ±2° C'de 72 saatte limit değer: 0- 100 koloni/ ml ve 35 ±2° C'de 24 saatte limit değer 0-20 koloni olmalı |
 
-EK- 4 (Değişik:RG-09/12/2004-25665)
+**EK- 4 (Değişik:RG-09/12/2004-25665)**
 
 ### PELOİDLER İÇİN İLGİLİ LABORATUVARDA YAPILMASI GEREKEN ANALİZLER
 
@@ -809,7 +809,7 @@ Organik maddeler toplamı :gram/litre
 
 * Peloid mineralli su ile karıştırılacak ise, yukarıdaki kimyasal ölçümler peloid mineralli su ile karıştırıldıktan sonra alınacak örnekte de tekrarlanır.
 
-EK- 5 (Değişik:RG-09/12/2004-25665)
+**EK- 5 (Değişik:RG-09/12/2004-25665)**
 
 ### TIBBİ DEĞERLENDİRME KURULUNUN DOLDURACAĞI DEĞERLENDİRME RAPORU
 
@@ -835,13 +835,13 @@ EK- 6 (Değişik:RG-09/12/2004-25665)
 
 ### İŞLETME İZNİNE ESAS UYGUNLUK /UYGUNSUZLUK BİLDİRİM FORMU
 
-Tesisin Adı:
+**Tesisin Adı:**
 
-İşletmecinin Adı:
+**İşletmecinin Adı:**
 
-İnceleme Tarihi:
+**İnceleme Tarihi:**
 
-İnceleme ve Tespit Kurulu Üyeleri:
+**İnceleme ve Tespit Kurulu Üyeleri:**
 
 Yapılan incelemelerde.................................................’ ya ait ................................................................ tesisisin başvurudaki projeye uygun olarak inşa edildiği/edilmediği; tedavi birimlerinin uygun olduğu/olmadığı belirlenmiştir.
 

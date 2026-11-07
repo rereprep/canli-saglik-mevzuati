@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-12.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**SAĞLIK BAKANLIĞI VE BAĞLI KURULUŞLARININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6354 Kabul Tarihi: 4/7/2012
 
 MADDE 1 – 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 153 üncü maddesinin birinci fıkrasının ikinci cümlesi yürürlükten kaldırılmış ve maddeye aşağıdaki fıkralar eklenmiştir.
@@ -87,7 +87,7 @@ MADDE 44/A – (1) Türkiye İlaç ve Tıbbî Cihaz Kurumunda ürün denetmen ya
 MADDE 18 – 663 sayılı Kanun Hükmünde Kararnamenin 54 üncü maddesinin birinci fıkrasına birinci cümleden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
 “Bakanlık ve bağlı kuruluşları merkez ve taşra teşkilatı ile döner sermaye teşkilatı kadrolarında bulunan hukuk birimi amirleri, hukuk müşavirleri ve avukatlar, ayrıca vekâletname ibraz etmeksizin ilgili personeli vekil sıfatı ile temsil eder.”
 
-MADDE 19 – 663 sayılı Kanun Hükmünde Kararnamenin eki (III) sayılı Cetvelin “Başhekim” ve “Başhekim Yardımcısı” bölümleri aşağıdaki şekilde değiştirilmiştir.
+MADDE 19 – 663 sayılı Kanun Hükmünde Kararnamenin eki (III) sayılı Cetvelin “**Başhekim**” ve “**Başhekim Yardımcısı**” bölümleri aşağıdaki şekilde değiştirilmiştir.
 “Başhekim
 a) Profesör, Doçent ve Eğitim Görevlisi Hekim
 b) Uzman Hekim, Uzman Diş Hekimi, Hekim ve Diş Hekimi*

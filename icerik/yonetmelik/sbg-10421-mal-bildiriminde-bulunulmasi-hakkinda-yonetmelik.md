@@ -9,13 +9,13 @@ durum: "yürürlükte"
 
 ## MAL BİLDİRİMİNDE BULUNULMASI HAKKINDA YÖNETMELİK
 
-Bakanlar Kurulu Kararının Tarihi : 10.8.1990 No : 90/748
+**Bakanlar Kurulu Kararının Tarihi : 10.8.1990 No : 90/748**
 
-Dayandığı Kanunun Tarihi : 19.4.1990 No : 3628
+**Dayandığı Kanunun Tarihi : 19.4.1990 No : 3628**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 15.11.1990 No : 20696
+**Yayımlandığı Resmî Gazetenin Tarihi : 15.11.1990 No : 20696**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 30 Sayfa : 1396
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 30 Sayfa : 1396**
 
 ## BİRİNCİ BÖLÜM Genel Hükümler
 
@@ -101,7 +101,7 @@ r) Vakıfların idare organlarında görev alanlar için, Vakıflar Genel Müdü
 
 **Madde 7 –** 6 ncı maddede belirtilen merciler, mal bildirimlerinin süresi içinde verilmesini sağlamakla sorumludurlar. Bu merciler mal bildirimlerinin verilmesini izlemek için birim veya personel görevlendirirler.
 
-(Ek: 25/4/2000 - 2000/660 K.) Ayrıca, müsteşarlar, merkez teşkilatları ile varsa bağlı ve ilgili kuruluşlarında görevli her düzeydeki kamu personelinin mal bildirimlerinin verilmesi, verilen mal bildirimlerine ilişkin olarak 18 nci madde uyarınca gerekli inceleme ve karşılaştırmaların yapılmasını sağlamak ve bu çerçevede yapılacak çalışmalar sonucunda, gerekli görülen hallerde personelin mal bildirimleri hakkında ilgili denetim birimlerince inceleme yapılması için girişimde bulunmak veya konuyu Cumhuriyet başsavcılıklarına bildirmekle görevli ve sorumludur.
+**(Ek: 25/4/2000 - 2000/660 K.)** Ayrıca, müsteşarlar, merkez teşkilatları ile varsa bağlı ve ilgili kuruluşlarında görevli her düzeydeki kamu personelinin mal bildirimlerinin verilmesi, verilen mal bildirimlerine ilişkin olarak 18 nci madde uyarınca gerekli inceleme ve karşılaştırmaların yapılmasını sağlamak ve bu çerçevede yapılacak çalışmalar sonucunda, gerekli görülen hallerde personelin mal bildirimleri hakkında ilgili denetim birimlerince inceleme yapılması için girişimde bulunmak veya konuyu Cumhuriyet başsavcılıklarına bildirmekle görevli ve sorumludur.
 
 ## ÜÇÜNCÜ BÖLÜM Mal Bildirimleri
 
@@ -211,7 +211,7 @@ Müfettiş ve muhakkikler de, soruşturma ile ilgili olarak verdikleri süre zar
 
 **Madde 18 –** Yeni ve ek bildirimler, 6 ncı maddede belirtilen yetkili merciler tarafından daha önceki bildirimler ile karşılaştırılır.
 
-(Ek: 7/12/1999 – 99/13770 K.) 6 ncı maddenin (b) ve (c) bendlerinde belirtilen mercilerde toplanan mal bildirimlerinde yer alan bilgiler, Başbakanlıkça belirlenecek esaslar çerçevesinde, kamu kurumları bilgisayarlarında mevcut bilgilerle bilgisayar ortamında ve gizliliği sağlanacak şekilde karşılaştırılır.
+**(Ek: 7/12/1999 – 99/13770 K.)** 6 ncı maddenin (b) ve (c) bendlerinde belirtilen mercilerde toplanan mal bildirimlerinde yer alan bilgiler, Başbakanlıkça belirlenecek esaslar çerçevesinde, kamu kurumları bilgisayarlarında mevcut bilgilerle bilgisayar ortamında ve gizliliği sağlanacak şekilde karşılaştırılır.
 
 Yapılan karşılaştırma sonucunda gerçeğe aykırı bildirimde bulundukları veya haksız mal edindikleri, kaçırdıkları veya gizledikleri anlaşılanlar hakkında yetkili mercilerce Cumhuriyet başsavcılıklarına suç duyurusunda bulunulur.
 
@@ -221,7 +221,7 @@ Yapılan karşılaştırma sonucunda gerçeğe aykırı bildirimde bulundukları
 
 #### Yürürlük
 
-**Madde 20 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme
+**Madde 20 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer. **Yürütme**
 
 **Madde 21 –** Bu Yönetmelik hükümlerini Bakanlar Kurulu yürütür.
 
@@ -253,7 +253,7 @@ PUL finans kuruluşlarında bulunan para veya menkul değerler yazılacaktır.
 
 ### 10/8/1990 TARİH VE 90/748 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Kararnamenin
 
-Tarihi Numarası Değişen Maddeler Yürürlüğe Giriş Tarihi
+**Tarihi Numarası Değişen Maddeler Yürürlüğe Giriş Tarihi**
 
 7/12/1999 99/1377 - 31/12/1999
 
@@ -267,4 +267,4 @@ Tarihi Numarası Değişen Maddeler Yürürlüğe Giriş Tarihi
 
 **Dipnotlar**
 
-<small>4/1/2010 tarihli ve 2010/2 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu formda yer alan “NÜFUS CÜZDAN SERİ NO” ibareleri “TÜRKİYE CUMHURİYETİ KİMLİK NUMARASI” olarak değiştirilmiş ve metne işlenmiştir.</small>
+<small>4/1/2010 tarihli ve 2010/2 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu formda yer alan <i>“NÜFUS CÜZDAN SERİ NO” ibareleri “TÜRKİYE CUMHURİYETİ KİMLİK NUMARASI” olarak değiştirilmiş ve</i> <i>metne işlenmiştir.</i></small>

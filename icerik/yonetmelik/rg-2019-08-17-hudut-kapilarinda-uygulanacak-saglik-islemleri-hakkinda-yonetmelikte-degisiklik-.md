@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-HUDUT KAPILARINDA UYGULANACAK SAĞLIK İŞLEMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**HUDUT KAPILARINDA UYGULANACAK SAĞLIK İŞLEMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 17/9/2011 tarihli ve 28057 sayılı Resmî Gazete’de yayımlanan Hudut Kapılarında Uygulanacak Sağlık İşlemleri Hakkında Yönetmeliğin 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 2 –

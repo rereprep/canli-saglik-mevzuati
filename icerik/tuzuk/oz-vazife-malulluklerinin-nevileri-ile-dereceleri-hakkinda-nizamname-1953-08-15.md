@@ -15,11 +15,11 @@ durum: "yürürlükte"
 
 ### DERECELERİ HAKKINDA NİZAMNAME
 
-Bakanlar Kurulu Kararının Tarihi : 13.7.1953 No : 4/1053
+**Bakanlar Kurulu Kararının Tarihi : 13.7.1953 No : 4/1053**
 
-Dayandığı Kanunun Tarihi : 8.6.1949 No : 5434
+**Dayandığı Kanunun Tarihi : 8.6.1949 No : 5434**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 15.8.1953 No : 8485
+**Yayımlandığı Resmî Gazetenin Tarihi : 15.8.1953 No : 8485**
 
 #### Yayımlandığı Düsturun Tertibi : 3 Cildi : 34 Sayfa : 1763
 
@@ -31,7 +31,7 @@ Cetvelde gösterilenler dışında görülecek malûllüklerin hangi dereceye gi
 
 **Madde 3 –** Bu Nizamname hükümlerini İcra Vekilleri Heyeti yürütür.
 
-Vazife malüllüklerinin nevileriyle derecelerini gösteren cetvel
+**Vazife malüllüklerinin nevileriyle derecelerini gösteren cetvel**
 
 ### BİRİNCİ DERECE
 
@@ -673,7 +673,7 @@ Vazife malüllüklerinin nevileriyle derecelerini gösteren cetvel
 
 311 – Vücut hareketlerine ve çalışmaya engel olan, ameliyat ve tedavisi imkansız, her çeşit urlar (Neoplazik vetireler, neoplazmalar, neoformasyonlar).
 
-Cetvelin uygulanmasında nazara alınacak esaslar:
+**Cetvelin uygulanmasında nazara alınacak esaslar:**
 
 A) Cetveldeki derecelerden hiç birine uymıyan birden fazla malüliyeti olup da bunların toplamı, sağlık durumu normal bir kimseye nazaran ruhi veya bedeni yahut hem ruhi hem bedeni çalışma kudret ve kabiliyetinin en az % 30 undan mahrumiyetini gerektirirse bu malüliyet 6 ncı derece olarak kabul edilir.
 

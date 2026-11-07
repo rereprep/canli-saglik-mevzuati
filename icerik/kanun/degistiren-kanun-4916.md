@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2003/07/20030719.htm#1"
 durum: "yürürlükte"
 ---
 
-Çeşitli Kanunlarda ve Maliye Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun Kanun No. 4916 Kabul Tarihi : 3.7.2003
+**Çeşitli Kanunlarda ve Maliye Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun Kanun No. 4916 Kabul Tarihi : 3.7.2003**
 
 
 MADDE 1 – 29.6.2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanunun 1 inci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
@@ -78,12 +78,12 @@ MADDE 7 – /B. — Hazineye ait taşınmazlar; imar planlarına uygun olarak ko
 
 
 MADDE 9 – 4706 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
+**GEÇİCİ**
+
+**MADDE 4. —** Vakıflar Genel Müdürlüğüne veya mazbut vakıflar ile kamu kurum ve kuruluşlarına ait, üzerinde toplu yapılaşma bulunan taşınmazlar, Hazineye ait taşınmazlar ile trampa edilebilir. Trampaya ilişkin usul ve esaslar taşınmaz maliki veya idare ve temsil eden kamu kurum ve kuruluşunun bağlı, ilgili veya ilişkili olduğu Bakanlık ile Maliye Bakanlığı arasında müştereken belirlenir.
 GEÇİCİ
 
-MADDE 4. — Vakıflar Genel Müdürlüğüne veya mazbut vakıflar ile kamu kurum ve kuruluşlarına ait, üzerinde toplu yapılaşma bulunan taşınmazlar, Hazineye ait taşınmazlar ile trampa edilebilir. Trampaya ilişkin usul ve esaslar taşınmaz maliki veya idare ve temsil eden kamu kurum ve kuruluşunun bağlı, ilgili veya ilişkili olduğu Bakanlık ile Maliye Bakanlığı arasında müştereken belirlenir.
-GEÇİCİ
-
-MADDE 5. — 22.9.1969 tarihli ve 6/12421 sayılı Bakanlar Kurulu Kararı uyarınca, Gemi Yapım Sanayi Bölgesi olarak tespit edilen İstanbul İli, Tuzla İlçesinde bulunan Hazinenin özel mülkiyetindeki taşınmazlar ile Devletin hüküm ve tasarrufu altında bulunan yerler üzerinde, bu karar uyarınca, tersane ve benzeri tesisler kurmak amacıyla, adlarına kamu arazisi tahsis edilerek lehlerine irtifak hakkı tesis edilen veya kullanma izni verilen ve bu maddenin yürürlüğe girdiği tarihten önce, ilgili bakanlıkların iznine tâbi işlemleri izinsiz olarak gerçekleştiren veya sözleşmelerine aykırı davranan yatırımcılar hakkında açılan davalardan; tahsise konu taşınmazın emlak vergisi asgari metrekare vergi değerleri esas alınarak hesaplanan değerin yüzde biri ile dava masraflarını defaten ödemeleri, sözleşmeden doğan mali yükümlülüklerini yerine getirmeleri, yatırımcıların açtıkları davalardan vazgeçmeleri ve ilgili bakanlıklar ile yeniden sözleşme yapmaları kaydıyla vazgeçilir, bu şartların yerine getirilmesi kaydıyla, dava açılması gerekenler için ise dava açılmaz ve tahsisleri devam eder.
+**MADDE 5. —** 22.9.1969 tarihli ve 6/12421 sayılı Bakanlar Kurulu Kararı uyarınca, Gemi Yapım Sanayi Bölgesi olarak tespit edilen İstanbul İli, Tuzla İlçesinde bulunan Hazinenin özel mülkiyetindeki taşınmazlar ile Devletin hüküm ve tasarrufu altında bulunan yerler üzerinde, bu karar uyarınca, tersane ve benzeri tesisler kurmak amacıyla, adlarına kamu arazisi tahsis edilerek lehlerine irtifak hakkı tesis edilen veya kullanma izni verilen ve bu maddenin yürürlüğe girdiği tarihten önce, ilgili bakanlıkların iznine tâbi işlemleri izinsiz olarak gerçekleştiren veya sözleşmelerine aykırı davranan yatırımcılar hakkında açılan davalardan; tahsise konu taşınmazın emlak vergisi asgari metrekare vergi değerleri esas alınarak hesaplanan değerin yüzde biri ile dava masraflarını defaten ödemeleri, sözleşmeden doğan mali yükümlülüklerini yerine getirmeleri, yatırımcıların açtıkları davalardan vazgeçmeleri ve ilgili bakanlıklar ile yeniden sözleşme yapmaları kaydıyla vazgeçilir, bu şartların yerine getirilmesi kaydıyla, dava açılması gerekenler için ise dava açılmaz ve tahsisleri devam eder.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar, ilgili bakanlıkların görüşü alınarak Maliye Bakanlığınca belirlenir.
 
 
@@ -185,7 +185,7 @@ MADDE 30 – 27.6.1984 tarihli ve 3030 sayılı Büyük Şehir Belediyelerinin Y
 Bu payın % 40'ı doğrudan ilgili belediye hesabına yatırılır, kalan % 60'ı ise büyükşehir belediyelerine nüfuslarına göre dağıtılır. Hesaplama ve dağıtım işlemleri Maliye Bakanlığınca yapılır.
 
 
-MADDE 31 – 16.5.1984 tarihli ve 3007 sayılı Gümrük Mevzuatına Göre Tasfiye Edilecek Eşya Hakkında Döner Sermaye Kanununun 7 nci maddesinde yer alan "% 10'u" ibaresi "% 50'si" olarak değiştirilmiştir.
+MADDE 31 – 16.5.1984 tarihli ve 3007 sayılı Gümrük Mevzuatına Göre **Tasfiye** Edilecek Eşya Hakkında Döner Sermaye Kanununun 7 nci maddesinde yer alan "% 10'u" ibaresi "% 50'si" olarak değiştirilmiştir.
 
 
 MADDE 32 – 13.10.1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 114 üncü maddesinin sonuna aşağıdaki fıkra eklenmiştir.
@@ -199,13 +199,13 @@ Genel Müdürlük mülkiyetinde olup, ihale suretiyle satılan, ancak yapılan s
 MADDE 34 – 5.6.1935 tarihli ve 2762 sayılı Vakıflar Kanununa aşağıdaki ek madde eklenmiştir.
 EK
 
-MADDE 1. — Vakıflar Genel Müdürlüğüne, mazbut vakıflar ile mülhak vakıflara ait taşınmazların onarım veya inşa karşılığı kiralanmalarında, onarım ve inşa bedeli göz önüne alınarak, kira süresi, ilgili Bakanın onayı ile yirmidokuz yıla kadar tespit edilebilir.
+**MADDE 1. —** Vakıflar Genel Müdürlüğüne, mazbut vakıflar ile mülhak vakıflara ait taşınmazların onarım veya inşa karşılığı kiralanmalarında, onarım ve inşa bedeli göz önüne alınarak, kira süresi, ilgili Bakanın onayı ile yirmidokuz yıla kadar tespit edilebilir.
 
 
 MADDE 35 – 2762 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 GEÇİCİ
 
-MADDE 2. — Vakıflar Genel Müdürlüğüne veya mazbut vakıflara ait taşınmazlarda, bu maddenin yürürlüğe girdiği tarihte kiracılık ilişkisi nizalı şekilde devam edenler veya 31.12.2002 tarihinden önce işgalci durumunda olanlar, bu maddenin yürürlük tarihinden itibaren dört ay içinde sözleşme yapmak üzere müracaat edebilirler. Müracaat edenler ile Vakıflar Genel Müdürlüğü tarafından yapılacak tebligat tarihinden itibaren bir ay içinde; Bölge müdürlüklerinde oluşturulacak komisyonlarca en fazla beş yıl için tespit edilecek kullanım bedellerini, varsa kullanıcılar tarafından daha önce yapılan her türlü ödemeler mahsup edilmek kaydıyla, peşin veya en geç altı ay içinde kanunî faizi ile birlikte ve eşit taksitlerle ödemeleri, varsa üzerinde izinsiz olarak yapı inşa edilmiş taşınmazlardaki yapıları bedelsiz olarak terk ve teberru etmeleri ve açılmış olan davalardan vazgeçmeleri şartıyla, sözleşme yapılabilir. Ancak, Vakıflar Genel Müdürlüğünce değerlendirilmesi öngörülen veya teslim ve tahliye edilen taşınmazlar için kira sözleşmesi yapılmaz.
+**MADDE 2. —** Vakıflar Genel Müdürlüğüne veya mazbut vakıflara ait taşınmazlarda, bu maddenin yürürlüğe girdiği tarihte kiracılık ilişkisi nizalı şekilde devam edenler veya 31.12.2002 tarihinden önce işgalci durumunda olanlar, bu maddenin yürürlük tarihinden itibaren dört ay içinde sözleşme yapmak üzere müracaat edebilirler. Müracaat edenler ile Vakıflar Genel Müdürlüğü tarafından yapılacak tebligat tarihinden itibaren bir ay içinde; Bölge müdürlüklerinde oluşturulacak komisyonlarca en fazla beş yıl için tespit edilecek kullanım bedellerini, varsa kullanıcılar tarafından daha önce yapılan her türlü ödemeler mahsup edilmek kaydıyla, peşin veya en geç altı ay içinde kanunî faizi ile birlikte ve eşit taksitlerle ödemeleri, varsa üzerinde izinsiz olarak yapı inşa edilmiş taşınmazlardaki yapıları bedelsiz olarak terk ve teberru etmeleri ve açılmış olan davalardan vazgeçmeleri şartıyla, sözleşme yapılabilir. Ancak, Vakıflar Genel Müdürlüğünce değerlendirilmesi öngörülen veya teslim ve tahliye edilen taşınmazlar için kira sözleşmesi yapılmaz.
 Birinci fıkra hükümleri uyarınca sözleşme yapılmaması durumunda, hüküm almaya veya tebligat yapmaya gerek kalmaksızın, Vakıflar Genel Müdürlüğünün başvurusu üzerine, taşınmazı kullananlar, ilgili mülkî amirler tarafından otuz gün içinde taşınmazdan tahliye edilir.
 Bu maddenin uygulamasına ilişkin usul ve esasları belirlemeye Vakıflar Genel Müdürlüğü yetkilidir.
 
@@ -224,18 +224,18 @@ b) 22.12.1934 tarihli ve 2644 sayılı Tapu Kanununun 36 ncı maddesi,
 c) 20.7.1966 tarihli ve 775 sayılı Gecekondu Kanununun 3 üncü maddesi,
 d) 22.3.1971 tarihli ve 1380 sayılı Su Ürünleri Kanununun geçici 3 üncü maddesi,
 e) 16.2.1995 tarihli ve 4070 sayılı Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanunun 6 ncı maddesinin ikinci fıkrası ile 14 üncü maddesi, Yürürlükten kaldırılmıştır.
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE 1. — Bu Kanunun yürürlüğe girdiği tarihten önce Maliye Bakanlığı tarafından kiraya verilen su ürünü üretim yerleri ile kaynak ve yer altı sularına ait bedeller, 31.12.2003 tarihine kadar Maliye Bakanlığınca tahsil edilmeye devam olunur.
-GEÇİCİ
+**MADDE 1. —** Bu Kanunun yürürlüğe girdiği tarihten önce Maliye Bakanlığı tarafından kiraya verilen su ürünü üretim yerleri ile kaynak ve yer altı sularına ait bedeller, 31.12.2003 tarihine kadar Maliye Bakanlığınca tahsil edilmeye devam olunur.
+**GEÇİCİ**
 
-MADDE 2. — Kanunları uyarınca turizm yatırımı yapılmak amacıyla adlarına kamu arazisi tahsis edilen ve bu maddenin yürürlüğe girdiği tarihten önce, ilgili bakanlıkların iznine tâbi işlemleri izinsiz olarak gerçekleştiren veya sözleşmelerine aykırı davranan yatırımcılar ve işletmeciler hakkında açılan davalardan; cari yıl proje maliyet bedelinin % 3’ü ile dava masraflarını defaten ödemeleri, sözleşmeden doğan mali yükümlülüklerini yerine getirmeleri ve ilgili bakanlıklar ile yeniden sözleşme yapmaları kaydıyla vazgeçilir, bu şartların yerine getirilmesi kaydıyla, dava açılması gerekenler için ise dava açılmaz ve tahsisleri devam eder.
+**MADDE 2. —** Kanunları uyarınca turizm yatırımı yapılmak amacıyla adlarına kamu arazisi tahsis edilen ve bu maddenin yürürlüğe girdiği tarihten önce, ilgili bakanlıkların iznine tâbi işlemleri izinsiz olarak gerçekleştiren veya sözleşmelerine aykırı davranan yatırımcılar ve işletmeciler hakkında açılan davalardan; cari yıl proje maliyet bedelinin % 3’ü ile dava masraflarını defaten ödemeleri, sözleşmeden doğan mali yükümlülüklerini yerine getirmeleri ve ilgili bakanlıklar ile yeniden sözleşme yapmaları kaydıyla vazgeçilir, bu şartların yerine getirilmesi kaydıyla, dava açılması gerekenler için ise dava açılmaz ve tahsisleri devam eder.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar, Çevre ve Orman Bakanlığı ile Kültür ve Turizm Bakanlığının görüşü alınmak kaydıyla Maliye Bakanlığınca belirlenir.
-Yürürlük
+**Yürürlük**
 
 
 MADDE 39 – Bu Kanunun; 30 uncu maddesi yayımını takip eden ayın başında, diğer maddeleri ise yayımı tarihinde yürürlüğe girer.
-Yürütme
+**Yürütme**
 
 
 MADDE 40 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

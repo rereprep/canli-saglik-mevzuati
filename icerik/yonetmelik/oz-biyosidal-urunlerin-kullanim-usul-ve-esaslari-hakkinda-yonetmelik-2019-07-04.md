@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -60,7 +60,7 @@ h) Gereç: Ürün hazırlama ve ürün uygulamada kullanılan su kapları, içer
 
 i) İzin: Biyosidal ürünleri kullanarak zararlılarla mücadele etmek isteyenlere verilen belgeyi,
 
-j) Mesul müdür: Hekim, veteriner hekim, eczacı, kimyager, mühendis (kimya, ziraat, çevre, gıda, su ürünleri, tütün teknolojisi), biyoloji alanında lisans veya entomoloji, toksikoloji alanında yüksek lisans veyahut doktora diplomasına sahip olup, Bakanlıktan sertifika almaya hak kazanan kişiyi, (1)
+j) <i>Mesul müdür: Hekim, veteriner hekim, eczacı, kimyager, mühendis (kimya, ziraat, çevre, gıda, su ürünleri, tütün teknolojisi), biyoloji alanında lisans veya entomoloji, toksikoloji alanında yüksek lisans veyahut doktora diplomasına sahip olup, Bakanlıktan sertifika almaya hak kazanan kişiyi,</i> (1)
 
 k) Müdürlük: İl Sağlık Müdürlüğünü,
 
@@ -78,7 +78,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-İzin Alma ve Başvuru Şartları
+**İzin Alma ve Başvuru Şartları**
 
 #### İzin alma ve bildirim zorunluluğu
 
@@ -136,11 +136,11 @@ olması zorunludur.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Personel ve Fiziki Altyapı Standartları
+**Personel ve Fiziki Altyapı Standartları**
 
 #### Mesul müdür
 
-**MADDE 8 –** (1) İş yeri faaliyette olduğu sürece bir mesul müdür bulunması zorunludur. Mesul müdür sadece bir iş yerinde mesul müdürlük görevini üstlenebilir. Mesul müdürlük için hekim, veteriner hekim, eczacı, kimyager, mühendis (kimya, ziraat, çevre, gıda, su ürünleri, tütün teknolojisi), biyoloji alanında lisans veya entomoloji, toksikoloji alanında yüksek lisans veya doktora diplomasına sahip olunması zorunludur. İş yeri sahibi belirtilen mesleklerden birine ait diplomayı haiz ise kendisi de mesul müdürlük yapabilir. Bu diplomaya sahip kişiler Bakanlık tarafından belirlenecek eğitim programına katılarak sertifika almak zorundadır. Mesul müdür, idari işlerden bizzat, diğer işlemlerden ise ekip sorumluları ile birlikte sorumludur. Mesul müdürün idari işlerinden, işleyişten ve sunulan hizmetin gerektirdiği alt yapı olanaklarının sağlanmasından iş yeri sahipleri de bizzat sorumludur. (1)
+**MADDE 8 –** (1) İş yeri faaliyette olduğu sürece bir mesul müdür bulunması zorunludur. Mesul müdür sadece bir iş yerinde mesul müdürlük görevini üstlenebilir. <i>Mesul müdürlük için hekim, veteriner hekim, eczacı, kimyager, mühendis (kimya, ziraat, çevre, gıda, su ürünleri, tütün teknolojisi), biyoloji alanında lisans veya entomoloji, toksikoloji alanında yüksek lisans veya doktora diplomasına sahip olunması zorunludur.</i> İş yeri sahibi belirtilen mesleklerden birine ait diplomayı haiz ise kendisi de mesul müdürlük yapabilir. Bu diplomaya sahip kişiler Bakanlık tarafından belirlenecek eğitim programına katılarak sertifika almak zorundadır. Mesul müdür, idari işlerden bizzat, diğer işlemlerden ise ekip sorumluları ile birlikte sorumludur. Mesul müdürün idari işlerinden, işleyişten ve sunulan hizmetin gerektirdiği alt yapı olanaklarının sağlanmasından iş yeri sahipleri de bizzat sorumludur. (1)
 
 (2) Mesul müdürün görevleri şunlardır:
 
@@ -256,7 +256,7 @@ bulunması zorunludur.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çalışma Usul ve Esasları
+**Çalışma Usul ve Esasları**
 
 #### Her ekip için ilkyardım çantası zorunluluğu
 
@@ -274,7 +274,7 @@ bulunması zorunludur.
 
 #### Çalışma süresi ve şartları
 
-**MADDE 17 –** (1) Ürün hazırlama ve uygulama işlerinde; hamile kadınlar, 18 yaşından küçükler, işitme ve görme engelli olanlar, ağır psikiyatrik bozukluğu olanlar, uyuşturucu bağımlısı veya alkolik olduğu sağlık raporuyla sabit kişiler çalıştırılamaz. Fiilen ürün hazırlama ve uygulama işlerinde çalışanlar, günde devamlı olarak 3, toplam 6 saatten fazla çalıştırılamazlar. Ara dinlenme, (Danıştay Onuncu Dairesinin 26/4/2021 tarihli ve E.:2019/10131; K.:2021/1936 sayılı kararı ile iptal ibare: yolda geçen süreler ve benzeri durumlar ) fiili ürün hazırlama ve uygulama sürelerinden sayılmaz. Çalışma esnasında iş kıyafetlerinin ve kişisel koruyucu donanımların amacına ve talimatına uygun olarak kullanılması zorunludur. Ürün hazırlama ve uygulama anında herhangi bir şey yenilmesi ve içilmesi yasaktır.
+**MADDE 17 –** (1) Ürün hazırlama ve uygulama işlerinde; hamile kadınlar, 18 yaşından küçükler, işitme ve görme engelli olanlar, ağır psikiyatrik bozukluğu olanlar, uyuşturucu bağımlısı veya alkolik olduğu sağlık raporuyla sabit kişiler çalıştırılamaz. Fiilen ürün hazırlama ve uygulama işlerinde çalışanlar, günde devamlı olarak 3, toplam 6 saatten fazla çalıştırılamazlar. Ara dinlenme, **(Danıştay Onuncu Dairesinin 26/4/2021 tarihli ve E.:2019/10131; K.:2021/1936 sayılı kararı ile iptal ibare:** <i>yolda geçen süreler ve benzeri durumlar )</i> fiili ürün hazırlama ve uygulama sürelerinden sayılmaz. Çalışma esnasında iş kıyafetlerinin ve kişisel koruyucu donanımların amacına ve talimatına uygun olarak kullanılması zorunludur. Ürün hazırlama ve uygulama anında herhangi bir şey yenilmesi ve içilmesi yasaktır.
 
 #### Çalışanların sağlık kontrolleri
 
@@ -304,7 +304,7 @@ bulunması zorunludur.
 
 ### BEŞİNCİ BÖLÜM
 
-Diğer Hükümler
+**Diğer Hükümler**
 
 #### İznin geçerliliğini kaybetmesi
 
@@ -392,7 +392,7 @@ c) İş yerini devir alan kişi yeni bir ekiple faaliyetini sürdürmek isterse,
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Geçiş hükümleri
 
@@ -414,6 +414,6 @@ c) İş yerini devir alan kişi yeni bir ekiple faaliyetini sürdürmek isterse,
 
 __________________
 
-(1) Danıştay Onuncu Dairesinin 10/2/2021 tarihli ve E.:2019/10215 sayılı kararı ile Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (j) bendi ile 8 inci maddesinin birinci fıkrasının üçüncü cümlesinin biyomühendislik bölümü mezunları yönünden yürütmesinin durdurulmasına karar verilmiştir.
+<i>(1) Danıştay Onuncu Dairesinin 10/2/2021 tarihli ve E.:2019/10215 sayılı kararı ile Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (j) bendi ile 8 inci maddesinin birinci fıkrasının üçüncü cümlesinin biyomühendislik bölümü mezunları yönünden yürütmesinin durdurulmasına karar verilmiştir.</i>
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

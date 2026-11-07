@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2014/03/20140301-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 6527 Kabul Tarihi: 26/02/2014
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+Kanun No. 6527 **Kabul Tarihi: 26/02/2014**
 
 MADDE 1 – 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 11 inci maddesinin birinci, ikinci, üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
 “Orman kadastro komisyonlarınca alınan kararlara ilişkin düzenlenen tutanak ve haritalar askı suretiyle otuz gün süre ile ilan edilir. Bu ilan ilgililere şahsen yapılan tebliğ hükmündedir. Tutanak ve haritalara karşı itirazı olanlar; askı tarihinden itibaren otuz gün içinde kadastro mahkemelerinde, kadastro mahkemesi olmayan yerlerde kadastro davalarına bakmakla görevli mahkemelerde dava açabilirler. İlan süresi geçtikten sonra, dava açılmayan kararlara ilişkin düzenlenen tutanak ve haritalar kesinleşir. Orman kadastro komisyonlarınca düzenlenen tutanak ve haritaların kesinleştiği tarihten itibaren on yıl geçtikten sonra, kadastrodan önceki hukuki sebeplere dayanarak Hazine hariç itiraz olunamaz ve dava açılamaz.

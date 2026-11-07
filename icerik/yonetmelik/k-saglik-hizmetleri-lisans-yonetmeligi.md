@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -69,7 +69,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Lisansların Belirlenmesi ve İlanı
+**Lisansların Belirlenmesi ve İlanı**
 
 #### Lisansların belirlenmesi
 
@@ -83,7 +83,7 @@ Lisansların Belirlenmesi ve İlanı
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Temel İlkeler ile Tahmini Bedel
+**Temel İlkeler ile Tahmini Bedel**
 
 #### Temel ilkeler
 
@@ -95,7 +95,7 @@ Temel İlkeler ile Tahmini Bedel
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Artırmaya Katılamayacak Olanlar ile Yasak Fiil ve Davranışlar
+**Artırmaya Katılamayacak Olanlar ile Yasak Fiil ve Davranışlar**
 
 #### Artırmaya katılamayacak olanlar
 
@@ -113,7 +113,7 @@ Artırmaya Katılamayacak Olanlar ile Yasak Fiil ve Davranışlar
 
 ### BEŞİNCİ BÖLÜM
 
-Başvuru ve Yeterlik Koşulları
+**Başvuru ve Yeterlik Koşulları**
 
 #### Başvuru ve yeterlik koşulları
 
@@ -123,7 +123,7 @@ Başvuru ve Yeterlik Koşulları
 
 ### ALTINCI BÖLÜM
 
-Artırmaya İlişkin Esaslar
+**Artırmaya İlişkin Esaslar**
 
 #### Artırmanın ilanı
 
@@ -289,7 +289,7 @@ c) Deprem, yangın ve sel gibi tabii afetler ile harp ve göç gibi olağanüst�
 
 ### YEDİNCİ BÖLÜM
 
-Lisansın Geçerlilik Süresi, Devri, Birleştirilmesi ve İptali
+**Lisansın Geçerlilik Süresi, Devri, Birleştirilmesi ve İptali**
 
 #### Lisansın geçerlilik süresi
 
@@ -317,7 +317,7 @@ Lisansın Geçerlilik Süresi, Devri, Birleştirilmesi ve İptali
 
 ### SEKİZİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 

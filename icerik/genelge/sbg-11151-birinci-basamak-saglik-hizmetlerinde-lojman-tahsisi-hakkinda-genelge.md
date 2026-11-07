@@ -14,11 +14,11 @@ Sayı : B.10.0.TSH.0.20.00.06
 
 Konu: Lojmanlar
 
-02/06/2010 - 26125
+**02/06/2010 - 26125**
 
 ### GENELGE
 
-2010/41
+**2010/41**
 
 ### ...............VALİLİĞİNE
 
@@ -44,7 +44,7 @@ Bakanlığımız taşra teşkilatı personelinin yararlanacağı kamu konutu nit
 
 6) Sıra tahsisli lojmanların hizmet sınıflarına göre dağılım oranı aşağıdaki şekilde planlanacaktır:
 
-Hizmet Sınıfları İl Merkezleri İlçe Merkezleri
+**Hizmet Sınıfları İl Merkezleri İlçe Merkezleri**
 
 a) Sağlık Hizmetleri Sınıfı % 20 % 20
 
@@ -76,25 +76,25 @@ e) Yardımcı Hizmetler Sınıfı % 15 % 10
 
 Bilgilerinizi ve gereğini rica ederim.
 
-Prof. Dr. Recep AKDAĞ
+**Prof. Dr. Recep AKDAĞ**
 
-Bakan
+**Bakan**
 
 ### EK:
 
-1- Liste
+**1- Liste**
 
-Dağıtım:
+**Dağıtım:**
 
 Gereği:
 81 İl Valiliğine
 
 Bilgi:
 Teftiş Kurulu Başkanlığına
-Hukuk Müşavirliğine
+**Hukuk Müşavirliğine**
 
 ### EK- 1
 
-SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATINDA ÇALIŞANLARDAN, GÖREV TAHSİSİLİ LOJMAN VERİLECEKLERİN GÖREV ÜNVANLARINI VE ÖNCELİK SIRASINI GÖSTEREN LİSTEDİR. İl Merkezleri; 1- İl Sağlık Müdürü 2- İl Sağlık Müdür Yardımcısı 3- İl Halk Sağlığı Laboratuarı Müdürü (Özel lojmanı yoksa) 4- İl Sağlık Müdürlüğü Şube Müdürü 5- İkinci İl Sağlık Müdür Yardımcısı 6- İkinci İl Sağlık Müdürlüğü Şube Müdürü İlçe Merkezleri; 1- İlçe Sağlık Grup Başkanı 2- İlçe Halk Sağlığı Laboratuarı Müdürü
+**SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATINDA ÇALIŞANLARDAN, GÖREV TAHSİSİLİ LOJMAN VERİLECEKLERİN GÖREV ÜNVANLARINI VE ÖNCELİK SIRASINI GÖSTEREN LİSTEDİR. İl Merkezleri;** 1- İl Sağlık Müdürü 2- İl Sağlık Müdür Yardımcısı 3- İl Halk Sağlığı Laboratuarı Müdürü (Özel lojmanı yoksa) 4- İl Sağlık Müdürlüğü Şube Müdürü 5- İkinci İl Sağlık Müdür Yardımcısı 6- İkinci İl Sağlık Müdürlüğü Şube Müdürü **İlçe Merkezleri;** 1- İlçe Sağlık Grup Başkanı 2- İlçe Halk Sağlığı Laboratuarı Müdürü
 
-NOT: Kâfi miktarda görev tahsisli lojman yoksa mevcut lojmanlardan görev tahsisliye ayrılanlar yukarıdaki öncelik sırasına göre dağıtılacaktır.
+**NOT:** Kâfi miktarda görev tahsisli lojman yoksa mevcut lojmanlardan görev tahsisliye ayrılanlar yukarıdaki öncelik sırasına göre dağıtılacaktır.

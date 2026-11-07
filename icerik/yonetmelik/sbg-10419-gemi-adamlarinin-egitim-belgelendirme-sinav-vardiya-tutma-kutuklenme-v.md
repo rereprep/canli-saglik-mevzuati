@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Tarihi:30.01.1997
 
-Sağlık Durumuna Dair Kurallar
+**Sağlık Durumuna Dair Kurallar**
 
 #### Sağlık Yoklaması
 
@@ -44,14 +44,14 @@ Yukarıda belirtilen hastalıkları doktor raporu ile tesbit edilenler denizlerd
 
 **Madde 27 –** Bir kulakla ikibuçuk, diğer kulakla birbuçuk metre uzaklıktan fısıltı sesini işitemeyenler güverte hizmetine; bir kulakla iki, diğer kulakla bir metre uzaklıktan fısıltı sesini işitemeyenler, makine hizmetine alınmazlar. Ancak; gemiadamlarının yeterliklerinin devamında, işitme özürü cihazla giderilebilenlere denizde çalışma izni verilir.
 
-Gemi Adamlarının Yeterlik Dereceleri Aşağıda gösterilmiştir.
+**Gemi Adamlarının Yeterlik Dereceleri Aşağıda gösterilmiştir.**
 
-1)Güverte Sınıfı
+**1)Güverte Sınıfı**
 
 a)Tayfalar 1.Miço 2.Gemici 3.Usta Gemici 4.Güverte Lostromosu b)Kaptan ve Güverte Zabitleri 1.Liman Kaptanı 2.Kıyı Kaptanı 3.Yakınyol Güverte Zabiti 4.Yakınyol Birinci Zabiti 5.Uzakyol Güverte Zabiti 6.Uzakyol Birinci Zabiti 7.Yakınyol Kaptanı 8.Uzakyol Kaptanı
 
-2)Makine Sınıfı
+**2)Makine Sınıfı**
 
 a)Tayfalar 1.Silici 2.Ateşçi 3.Yagcı 4.Makina Lostromosu
 
-b)Başmühendis veya Başmakinist ve Vardiya Mühendisi veya Makina Zabitleri 1.Deniz Motorcusu 2.Deniz Makinisti 3.Yakınyol Makine Zabiti 4.Yakınyol İkinci Makinist 5.Uzakyol Vardiya Mühendisi veya Uzakyol Makina Zabiti 6.Uzakyol İkinci Mühendisi veya Uzakyol İkinci Makinist 7.Yakınyol Başmühendis veya Yakınyol Başmakinist 8.Uzakyol Başmühendis veya Uzakyol Başmakinist 3)Yardımcı Sınıf a)Gemi Yardımcı Zabiti b)Yardımcı Hizmet Personeli
+b)Başmühendis veya Başmakinist ve Vardiya Mühendisi veya Makina Zabitleri 1.Deniz Motorcusu 2.Deniz Makinisti 3.Yakınyol Makine Zabiti 4.Yakınyol İkinci Makinist 5.Uzakyol Vardiya Mühendisi veya Uzakyol Makina Zabiti 6.Uzakyol İkinci Mühendisi veya Uzakyol İkinci Makinist 7.Yakınyol Başmühendis veya Yakınyol Başmakinist 8.Uzakyol Başmühendis veya Uzakyol Başmakinist **3)Yardımcı Sınıf** a)Gemi Yardımcı Zabiti b)Yardımcı Hizmet Personeli

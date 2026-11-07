@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 İçişleri Bakanlığından:
-KARAYOLLARI TRAFİK YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**KARAYOLLARI TRAFİK YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 18/7/1997 tarihli ve 23053 mükerrer sayılı Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinin 79 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 18/7/1997 tarihli ve 23053 mükerrer sayılı Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinin 79 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 79 – Kanunun ilgili maddelerinde tanımlanan nitelikteki trafik suçlarını işleyen sürücüler ile diğer mevzuat kapsamında psiko-teknik açıdan sağlıklı olma şartı aranan sürücüler ekte yer alan 4 sayılı Cetvelde tanımlanan usul ve esaslara uygun olarak, psiko-teknik değerlendirme ve psikiyatri uzmanı muayenesine tabi tutulurlar.
 Muayene sonucu durumu uygun bulunan sürücülerin sürücü belgeleri Kanunun ilgili maddelerinde belirtilen sürelerin sonunda iade edilir. Ekte yer alan 4 sayılı Cetvelde belirtilen usul ve esaslara göre yapılan psiko-teknik değerlendirme, Yönetmelikte aynı cetvelde tanımlanmış altyapı özelliklerine sahip, resmi ve özel kuruluşlar bünyesinde oluşturulan ve il sağlık müdürlüğü tarafından ruhsatlandırılmış merkezlerde çalışan psikolog unvanına sahip kişilerin gözetiminde yapılır.
 Psiko-teknik değerlendirme raporu elektronik sistem üzerinden e-imza ile düzenlenir. Kişi düzenlenen psiko-teknik değerlendirme raporu ile birlikte kırkbeş gün içerisinde kamu veya özel sağlık kuruluşlarında görev yapan psikiyatri uzmanına başvurur. Psikiyatri uzmanı, kişiye ait psiko-teknik değerlendirme raporundaki bulgular ile psikiyatrik muayene sonucu elde ettiği bulguları birlikte değerlendirerek, söz konusu kişinin sürücülük yapmasına engel bir durumun olup olmadığını belirten psikiyatri raporunu elektronik sistem üzerinden düzenler. Düzenlenen bu raporlar sistemde on yıl süre ile saklanır.

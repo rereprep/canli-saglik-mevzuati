@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -79,7 +79,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Radyasyon Onkolojisi Merkezlerinin Çalışma Esasları
+**Radyasyon Onkolojisi Merkezlerinin Çalışma Esasları**
 
 #### Cihazların ve radyoaktif kaynak uygulamaların sınıflandırılması
 
@@ -225,7 +225,7 @@ d) Hibrit tedavi sistemleri.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Personel Durumu
+**Personel Durumu**
 
 #### Genel esaslar
 
@@ -343,7 +343,7 @@ k) Radyasyon kaynaklarının bakım ve onarımına ilişkin programların yürü
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Denetim ve Yaptırım, Yasaklar
+**Denetim ve Yaptırım, Yasaklar**
 
 #### Denetim ve yaptırım
 
@@ -391,7 +391,7 @@ g) Özel sağlık tesisleri bünyesinde veya mesleğini serbest olarak icra etme
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Kalite yönetimi ve değerlendirme sistemi
 
@@ -457,4 +457,4 @@ g) Özel sağlık tesisleri bünyesinde veya mesleğini serbest olarak icra etme
 
 **MADDE 23 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

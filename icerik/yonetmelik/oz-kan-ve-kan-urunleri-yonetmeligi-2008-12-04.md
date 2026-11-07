@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -112,7 +112,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel Esaslar, Kan ve Kan Ürünleri Kurulu
+**Genel Esaslar, Kan ve Kan Ürünleri Kurulu**
 
 #### Gönüllülük esası
 
@@ -176,19 +176,19 @@ c) Kan ve kan bileşenlerinin güvenlik ve kalitesinin artırılması, bilimsel 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Hizmet Birimleri, Kan Temini ve Kullanımı
+**Hizmet Birimleri, Kan Temini ve Kullanımı**
 
 #### Bölge Kan Merkezi
 
 **MADDE 9 –** (1) Bölge Kan Merkezi; Bakanlığın belirleyeceği bölgelerde kurulan, kendi bölgesindeki kan bağış ve transfüzyon merkezleri ile işbirliği içinde çalışan, sorumlu olduğu bölgenin kan ihtiyacını karşılayacak kapasitede olan, kan bankacılığı ile ilgili tüm iş ve işlemlerin yapılabildiği en kapsamlı hizmet birimi olup kesintisiz hizmet verir.
 
-(2) Bakanlık, bölgenin coğrafi, nüfus, ulaşım ve iklim şartlarını göz önüne alarak BKM’nin sorumluluk alanını belirler. (Değişik ikinci cümle:RG-4/12/2009-27422) Belirlenen hizmet bölgesinde bir BKM kurulması esastır. Ancak, Bakanlıkça gerekli görülmesi halinde aynı bölgede birden fazla BKM de kurulabilir ;
+(2) Bakanlık, bölgenin coğrafi, nüfus, ulaşım ve iklim şartlarını göz önüne alarak BKM’nin sorumluluk alanını belirler. **(Değişik ikinci cümle:RG-4/12/2009-27422)** Belirlenen hizmet bölgesinde bir BKM kurulması esastır. Ancak, Bakanlıkça gerekli görülmesi halinde aynı bölgede birden fazla BKM de kurulabilir ;
 
 a) Sorumluluk alanı içinde kan bağış organizasyonu, kan ve kan ürünlerinin toplanması, test edilmesi, hazırlanması, depolanması ve dağıtımı ile ilgili tüm faaliyetlerden, transfüzyon merkezleri tarafından gönderilen transfüzyonun takibi ile ilgili verilerin değerlendirilmesinden ve kendi alanı içinde gerekli düzenlemeleri yapmaktan sorumludur.
 
 b) Tanımlanmış hizmet bölgesi içinden aktif bağışçı organizasyonu planlayarak kan bağışçılarını sağlar. Yeterli kan ve kan bileşenlerinin sağlanması için diğer BKM ile işbirliği yapar.
 
-c) (Değişik:RG-4/12/2009-27422) Kendine bağlı KBM açar. Bu merkezlerin çalışma şartları ve işletilmesinden sorumludur .
+c) **(Değişik:RG-4/12/2009-27422)** Kendine bağlı KBM açar. Bu merkezlerin çalışma şartları ve işletilmesinden sorumludur .
 
 ç) Transfüzyon amaçlı bağış aferez ünitesi açma ve işletme yetkisi münhasıran sorumluluğundadır.
 
@@ -196,7 +196,7 @@ d) Ürün elde etmek için plazma toplama amaçlı plazma aferez ünitesini baka
 
 e) TM ile rehberde ana hatları belirtilen protokol imzalar.
 
-f) Sorumluluk alanı içindeki transfüzyon merkezlerinin ihtiyaç duyduğu kan ve kan bileşenlerini sağlamak, protokolde belirtilen kritik stok seviyesini takip etmek, stoklanan kan miktarını kritik stok seviyesi altına düşürmemek için TM’nin talebini karşılamakla yükümlüdür. (Mülga ikinci cümle:RG-4/12/2009-27422)
+f) Sorumluluk alanı içindeki transfüzyon merkezlerinin ihtiyaç duyduğu kan ve kan bileşenlerini sağlamak, protokolde belirtilen kritik stok seviyesini takip etmek, stoklanan kan miktarını kritik stok seviyesi altına düşürmemek için TM’nin talebini karşılamakla yükümlüdür. **(Mülga ikinci cümle:RG-4/12/2009-27422)**
 
 g) Sorumluluk alanı içindeki TM’nce talep edilen, çeşitleri, standartları ve hazırlama yöntemleri rehberde tanımlanan kan bileşenlerini hazırlamakla yükümlüdür.
 
@@ -244,7 +244,7 @@ b) BKM laboratuvar sorumlusu; kendi uzmanlık dalı müfredat programında labor
 
 c) BKM birim sorumluları için ruhsatlandırılmış kan merkezlerinde en az 3 yıl çalışmış olmak şartı aranır.
 
-ç) (Değişik:RG-4/12/2009-27422) TM ve KBM’ye birim sorumlusu olarak atanan tabiplerin, (a) bendindeki şartları taşımamaları halinde birime atanmalarını takip eden altı ay içinde Bakanlıkça verilen kan bankacılığı ve transfüzyon tıbbı sertifikası kursuna katılmaları ve sertifika almaları zorunludur .
+ç) **(Değişik:RG-4/12/2009-27422)** TM ve KBM’ye birim sorumlusu olarak atanan tabiplerin, (a) bendindeki şartları taşımamaları halinde birime atanmalarını takip eden altı ay içinde Bakanlıkça verilen kan bankacılığı ve transfüzyon tıbbı sertifikası kursuna katılmaları ve sertifika almaları zorunludur .
 
 (2) Hizmet birimi sorumlusunun görevleri şunlardır:
 
@@ -428,7 +428,7 @@ c) Denetim raporu hazırlanıp düzeltici-önleyici faaliyetler izlenir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Ruhsat, Denetim ve İdari Yaptırımlar
+**Ruhsat, Denetim ve İdari Yaptırımlar**
 
 #### Hizmet birimlerinin ruhsatlandırılması ve ruhsat alma yükümlülüğü
 
@@ -442,7 +442,7 @@ Ruhsat, Denetim ve İdari Yaptırımlar
 
 (5) Hizmet birimi sorumlusunun değişmesi ya da ayrılması halinde, 12 nci maddenin birinci fıkrasında belirtilen nitelikleri taşıyan başka bir kişiye sorumluluk devredilir. Bu durumda ilgili kurum yeni hizmet sorumlusu ile ilgili belgeler ile bir ay içerisinde Bakanlığa başvurur. Bakanlıkça yapılan değerlendirme sonucunda uygunluğu tespit edilen başvurularda yeni sorumlu ruhsata işlenir.
 
-(6) (Değişik birinci cümle:RG-4/12/2009-27422) Yeni açılacak hizmet birimleri ruhsat alıncaya kadar kullanmak üzere bir kereye mahsus olmak kaydı ile BKM için en fazla bir yıl, diğer birimler için en fazla üç ay süreliğine EK-3'deki belgeleri tamamlayarak geçici ruhsat için başvurur . Geçici ruhsat ile faaliyet gösteren hizmet birimi Yönetmelik ve rehberde belirtilen esaslara göre çalışmalarını sürdürür. Bu süre içinde kalıcı ruhsat için gereken eksiklerini tamamlar.
+(6) **(Değişik birinci cümle:RG-4/12/2009-27422)** Yeni açılacak hizmet birimleri ruhsat alıncaya kadar kullanmak üzere bir kereye mahsus olmak kaydı ile BKM için en fazla bir yıl, diğer birimler için en fazla üç ay süreliğine EK-3'deki belgeleri tamamlayarak geçici ruhsat için başvurur . Geçici ruhsat ile faaliyet gösteren hizmet birimi Yönetmelik ve rehberde belirtilen esaslara göre çalışmalarını sürdürür. Bu süre içinde kalıcı ruhsat için gereken eksiklerini tamamlar.
 
 (7) Geçici ruhsat başvurusu TM adına ilgili hastane, KBM adına bağlı olduğu BKM, BKM adına Bakanlıkça kendisine yetki verilen kamu kurum ve kuruluşları ve Türkiye Kızılay Derneği tarafından yapılır. Bakanlık 15 iş günü içinde geçici ruhsat başvurusunu sonuçlandırır.
 
@@ -454,7 +454,7 @@ Ruhsat, Denetim ve İdari Yaptırımlar
 
 (11) Hizmet birimleri ruhsatlarını 5 yılda bir yenilemek zorundadır. Aksi halde ruhsatları iptal edilir.
 
-(12) (Ek:RG.20/11/2009-27412) Bakanlık yapacağı hizmet planlaması ve bölgelendirmeyi dikkate alarak gerekli gördüğü yerlerde BKM ruhsatını süreli olarak verebilir. Bu şekilde verilen ruhsatların geçerliği başka bir işleme gerek kalmaksızın verilen süre bitiminde sona erer.
+(12) **(Ek:RG.20/11/2009-27412)** Bakanlık yapacağı hizmet planlaması ve bölgelendirmeyi dikkate alarak gerekli gördüğü yerlerde BKM ruhsatını süreli olarak verebilir. Bu şekilde verilen ruhsatların geçerliği başka bir işleme gerek kalmaksızın verilen süre bitiminde sona erer.
 
 #### Denetim
 
@@ -532,7 +532,7 @@ k) Hizmet birimleri denetim formu.
 
 ### BEŞİNCİ BÖLÜM
 
-Geçici ve Son Hükümler
+**Geçici ve Son Hükümler**
 
 #### Rehberin hazırlanması ve mevcut kan birimlerinin durumu
 
@@ -567,7 +567,7 @@ Geçici ve Son Hükümler
 
 3 – Hizmet birimi sorumlusunun;
 
-– (Değişik ibare:RG-4/12/2009-27422) İl Sağlık Müdürlüğünden aslı gibidir onaylı diploma sureti veya fotoğraflı çıkış belgesinin aslı,
+– **(Değişik ibare:RG-4/12/2009-27422)** İl Sağlık Müdürlüğünden aslı gibidir onaylı diploma sureti veya fotoğraflı çıkış belgesinin aslı,
 
 – Deneyim sahibi olduğunu gösteren diğer belgeler,
 
@@ -575,7 +575,7 @@ Geçici ve Son Hükümler
 
 – Türkiye Cumhuriyeti Kimlik Numarası
 
-4 – (Değişik ibare:RG-4/12/2009-27422) Bakanlıkça belirlenen ruhsat bedelinin ödendiğine dair banka dekontunun aslı (Ödeme dekontu başvuru aşamasında istenmez, ruhsat tesliminde Müdürlüğe ibraz edilir. Ödeme yapılacak banka hesap numarası Bakanlıkça bildirilir.) ,
+4 – **(Değişik ibare:RG-4/12/2009-27422)** Bakanlıkça belirlenen ruhsat bedelinin ödendiğine dair banka dekontunun aslı (Ödeme dekontu başvuru aşamasında istenmez, ruhsat tesliminde Müdürlüğe ibraz edilir. Ödeme yapılacak banka hesap numarası Bakanlıkça bildirilir.) ,
 
 5 – Kalite sistemine ilişkin gerekleri karşılar nitelikte kalite ek kitabı veya ana dosyaların yer aldığı bilgisayar dokümanı ile;
 
@@ -597,9 +597,9 @@ Geçici ve Son Hükümler
 
 ### HİZMET BİRİMLERİ RUHSAT BAŞVURU FORMU
 
-(1) Önceki Bilgiler
+**(1) Önceki Bilgiler**
 
-Ruhsat Numarası
+**Ruhsat Numarası**
 
 Sağlık Bakanlığı’ndan önceden ruhsat alınmış ise aşağıda belirtiniz.
 
@@ -621,9 +621,9 @@ Sağlık Bakanlığı’ndan önceden ruhsat alınmış ise aşağıda belirtini
 | E- posta |  |
 | Adres |  |
 
-Ruhsat başvuru sahibi adına danışman veya temsilci iseniz lütfen burayı işaretleyip aşağıdaki iletişim bilgilerini doldurunuz.
+Ruhsat başvuru sahibi adına **danışman veya temsilci** iseniz lütfen burayı işaretleyip aşağıdaki iletişim bilgilerini doldurunuz.
 
-İletişim Bilgileri (Danışman/temsilci)
+**İletişim Bilgileri (Danışman/temsilci)**
 
 | İrtibat kişisi adı-soyadı |  |
 | Firma adı |  |
@@ -636,7 +636,7 @@ Ruhsat başvuru sahibi adına danışman veya temsilci iseniz lütfen burayı i�
 
 (3) Hizmet Birimi Bilgileri
 
-(a) Faaliyetler
+**(a) Faaliyetler**
 
 | BİRİMİN FAALİYETLERİ | EVET | HAYIR |
 | Bağışçı uygunluğunun değerlendirilmesi |
@@ -716,7 +716,7 @@ Bu sayfadan birden fazla kopya yapıldıysa toplam sayfa sayısı ……….. be
 | Başvuru Sahibinin Adı Soyadı | Tarih/İmza |
 | Kurum Amirinin Adı Soyadı | Tarih/İmza |
 
-Formu doldurduğunuz zaman lütfen aşağıdaki adrese gönderiniz: Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğü Tıbbi Hizmetler Dairesi Başkanlığı Kan Şubesi Müdürlüğü Mithatpaşa Cad. No:3 Sıhhiye/ ANKARA
+**Formu doldurduğunuz zaman lütfen aşağıdaki adrese gönderiniz:** Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğü Tıbbi Hizmetler Dairesi Başkanlığı Kan Şubesi Müdürlüğü Mithatpaşa Cad. No:3 **Sıhhiye/ ANKARA**
 
 ### EK-2 A
 
@@ -724,11 +724,11 @@ Formu doldurduğunuz zaman lütfen aşağıdaki adrese gönderiniz: Sağlık Bak
 
 ### DOLDURULMASINA İLİŞKİN KILAVUZ
 
-Genel Açıklama:
+**Genel Açıklama:**
 
 Bu doküman, başvuru formunun doldurulmasında size yardımcı olmak üzere hazırlanmıştır. Form, ruhsat almak isteyen kuruluştaki faaliyetler göz önüne alınarak doldurulmalıdır.
 
-Başvuru formunun son sayfası, hizmet birimi sorumlusu, başvuru sahibi ve kurum amiri tarafından imzalanmalıdır. İmzasız formlar kabul edilmeyecektir
+**Başvuru formunun son sayfası, hizmet birimi sorumlusu, başvuru sahibi ve kurum amiri tarafından imzalanmalıdır. İmzasız formlar kabul edilmeyecektir**
 
 Form dört bölümden oluşmaktadır:
 
@@ -740,11 +740,11 @@ Form dört bölümden oluşmaktadır:
 
 4. Beyan
 
-Formdaki tüm bölümlerin büyük harflerle okunaklı bir şekilde doldurulması zorunludur. Formda yer alan bilgilerin açık ve anlaşılır bir biçimde olması başvuru sürecini kolaylaştıracaktır.
+Formdaki tüm bölümlerin **büyük harflerle okunaklı bir şekilde** doldurulması zorunludur. Formda yer alan bilgilerin açık ve anlaşılır bir biçimde olması başvuru sürecini kolaylaştıracaktır.
 
 Tamamlanan formlar şu adrese gönderilmelidir:
 
-Sağlık Bakanlığı
+**Sağlık Bakanlığı**
 
 Tedavi Hizmetleri Genel Müdürlüğü
 
@@ -754,59 +754,59 @@ Kan Şubesi Müdürlüğü
 
 Mithatpaşa Cad. No: 3
 
-Sıhhiye/ANKARA
+**Sıhhiye/ANKARA**
 
-(1) Önceki Bilgiler
+**(1) Önceki Bilgiler**
 
 Ruhsat Numarası – Ruhsat başvurusu yapan kuruluş daha önce Sağlık Bakanlığı’ndan ruhsat ya da açılış onayı almış ise ilgili yazının tarih ve sayısı da belirtilmelidir.
 
 Numarası olmayan kuruluşlar bu bölümü boş bırakmalıdır.
 
-(2) Başvuru Sahibi Hakkında Bilgiler
+**(2) Başvuru Sahibi Hakkında Bilgiler**
 
-Hizmet Biriminin Tipi
+**Hizmet Biriminin Tipi**
 
 • Hizmet biriminin 11/4/2007 tarih ve 5624 sayılı Kan ve Kan Ürünleri Kanunu ve ilgili yönetmelikte belirtildiği şekilde tipini yazınız. Örnek; Bölge Kan Merkezi
 
-Hizmet Biriminin Adı
+**Hizmet Biriminin Adı**
 
 • Hizmet biriminin adını yazınız. Örnek; Serpil Akdağ Kan Merkezi.
 
-Başvuru Sahibi
+**Başvuru Sahibi**
 
 • Hizmet birimi adına ruhsat başvurusunda bulunmaya yetkili kişidir. Başvuru, başvuran adına üçüncü kişi (temsilci ya da danışman) tarafından yapılıyorsa aşağıdaki kutu işaretlenerek iletişim bilgileri doldurulmalıdır.
 
 “Ruhsat başvuru sahibi adına danışman veya temsilci iseniz lütfen burayı işaretleyip aşağıdaki iletişim bilgilerini doldurunuz.”
 
-Kurum Ünvanı
+**Kurum Ünvanı**
 
 • Hizmet biriminin bağlı bulunduğu kurumun adını yazınız. Örnek; Ankara Üniversitesi
 
-(3) İletişim Bilgileri
+**(3) İletişim Bilgileri**
 
 • Başvuran adına üçüncü kişi (temsilci ya da danışman) bulunmadığı durumlarda bu bölüm boş bırakılacak ve “Başvuru sahibi hakkında bilgiler” bölümünde yer alan bilgiler iletişim için kullanılacaktır.
 
-(4) Hizmet Birimi Bilgileri
+**(4) Hizmet Birimi Bilgileri**
 
 Bu bölüm dört alt başlıktan oluşmaktadır:
 
-(a) Faaliyetler: Hizmet biriminin 11/4/2007 tarih ve 5624 sayılı Kan ve Kan Ürünleri Kanunu ve ilgili yönetmelikte belirtildiği şekilde tipine (bölge kan merkezi, transfüzyon merkezi, kan bağışı merkezi) uygun faaliyetler işaretlenir.
+**(a) Faaliyetler:** Hizmet biriminin 11/4/2007 tarih ve 5624 sayılı Kan ve Kan Ürünleri Kanunu ve ilgili yönetmelikte belirtildiği şekilde tipine (bölge kan merkezi, transfüzyon merkezi, kan bağışı merkezi) uygun faaliyetler işaretlenir.
 
-(b) Yerleşim Planı: Hizmet birimlerinin faaliyetlerine ilişkin yerleşim planı ana hatlarıyla kutu içinde açıklanır ve başvuru ile birlikte hizmet biriminin mimari projesi sunulur.
+**(b) Yerleşim Planı:** Hizmet birimlerinin faaliyetlerine ilişkin yerleşim planı ana hatlarıyla kutu içinde açıklanır ve başvuru ile birlikte hizmet biriminin mimari projesi sunulur.
 
-(c) Hizmet Birimi Sorumlusu: Hizmet birimi sorumlusu ile ilgili formdaki bilgilere ek olarak, Yönetmeliğin Ek-1’inde belirtilen aşağıdaki belgeler de forma eklenmelidir
+**(c) Hizmet Birimi Sorumlusu:** Hizmet birimi sorumlusu ile ilgili formdaki bilgilere ek olarak, Yönetmeliğin Ek-1’inde belirtilen aşağıdaki belgeler de forma eklenmelidir
 
-c-1 (Değişik ibare:RG-2/8/2011-28013) İl sağlık müdürlüğünce onaylı diploma sureti veya fotoğraflı çıkış belgesinin aslı
+c-1 **(Değişik ibare:RG-2/8/2011-28013)** İl sağlık müdürlüğünce onaylı diploma sureti veya fotoğraflı çıkış belgesinin aslı
 
 c-2 Özgeçmiş formu
 
-c-3 (Değişik ibare:RG-2/8/2011-28013) T.C. Kimlik numarası beyanı
+c-3 **(Değişik ibare:RG-2/8/2011-28013)** T.C. Kimlik numarası beyanı
 
 c-4 2 adet vesikalık fotoğraf
 
-(d) Dağıtım: Ruhsat talebinde bulunulan hizmet biriminin hizmet verdiği/vereceği hastane ve/veya kan merkezlerinin adı ve adresleri yazılmalıdır. Tanımlanacak hastane/kan merkezi sayısı sayfada belirtilenden fazla ise sayfa çoğaltılmalı, forma eklenmeli ve kopya sayısı asıl sayfada belirtilmelidir. Örnek: A bölgesel kan merkezinin kan ürünü dağıtımında bulunduğu 15 transfüzyon merkezi varsa kutucuklara bu merkezlerin adı ve adresi yazılmalıdır. Benzer şekilde kan bağış merkezinin bağlı olduğu bölgesel kan merkezi bir adet ise adı ve adresi de tek kutu olarak yazılmalıdır.
+**(d) Dağıtım:** Ruhsat talebinde bulunulan hizmet biriminin hizmet verdiği/vereceği hastane ve/veya kan merkezlerinin adı ve adresleri yazılmalıdır. Tanımlanacak hastane/kan merkezi sayısı sayfada belirtilenden fazla ise sayfa çoğaltılmalı, forma eklenmeli ve kopya sayısı asıl sayfada belirtilmelidir. Örnek: A bölgesel kan merkezinin kan ürünü dağıtımında bulunduğu 15 transfüzyon merkezi varsa kutucuklara bu merkezlerin adı ve adresi yazılmalıdır. Benzer şekilde kan bağış merkezinin bağlı olduğu bölgesel kan merkezi bir adet ise adı ve adresi de tek kutu olarak yazılmalıdır.
 
-(5) Beyan: Bu bölümde ne tip hizmet birimi için ruhsat talebinde bulunuluyorsa yalnızca o kutucuk işaretlenmelidir. Tüm ilgililer tarafından form imzalanmalı, ad, soyad ve tarih yazılmalıdır.
+**(5) Beyan:** Bu bölümde ne tip hizmet birimi için ruhsat talebinde bulunuluyorsa yalnızca o kutucuk işaretlenmelidir. Tüm ilgililer tarafından form imzalanmalı, ad, soyad ve tarih yazılmalıdır.
 
 ### EK 3
 
@@ -818,7 +818,7 @@ c-4 2 adet vesikalık fotoğraf
 
 3. Hizmet birimi sorumlusunun;
 
-- (Değişik ibare:RG-2/8/2011-28013) İl sağlık müdürlüğünce onaylı diploma sureti veya fotoğraflı çıkış belgesinin aslı,
+- **(Değişik ibare:RG-2/8/2011-28013)** İl sağlık müdürlüğünce onaylı diploma sureti veya fotoğraflı çıkış belgesinin aslı,
 
 - Deneyim sahibi olduğunu gösteren belgeler,
 
@@ -836,7 +836,7 @@ c-4 2 adet vesikalık fotoğraf
 
 ### (BÖLÜM A)
 
-Kan ve kan bileşenleri bağışı yapacak muhtemel vericilere sağlanacak bilgiler
+**Kan ve kan bileşenleri bağışı yapacak muhtemel vericilere sağlanacak bilgiler**
 
 1. Kanın esas yapısı, kan bağışı işlemi, tam kandan elde edilen bileşenler ve aferez bağışların hastalara sağladığı önemli faydalar hakkında kamuoyu tarafından anlaşılabilecek eksiksiz eğitim materyalleri sağlanır.
 
@@ -866,17 +866,17 @@ Otolog bağışlar için red olasılığı ve otolog kan ve kan bileşenlerinin 
 
 ### (BÖLÜM B)
 
-Hizmet birimleri tarafından vericiden her bağışta alınması gereken bilgiler
+**Hizmet birimleri tarafından vericiden her bağışta alınması gereken bilgiler**
 
-a) Bağışçının tanımlanması;
+**a) Bağışçının tanımlanması;**
 
 Tanımlama hatası riski olmaksızın, bağışçıyı diğer kişilerden ayıran kişisel bilgiler ve iletişim bilgileri.
 
-b) Bağışçının sağlığı ve tıbbi geçmişi;
+**b) Bağışçının sağlığı ve tıbbi geçmişi;**
 
 Sağlık ve tıbbi geçmiş bir anketle ve kalifiye bir sağlık personeli tarafından gerçekleştirilen bir kişisel görüşme yoluyla sağlanır ve bağışlarının diğer kişiler için -hastalık bulaştırma gibi- ya da kendisi için bir sağlık riski oluşturabileceği kişilerin tanımlanmasında ve izlenmesinde yardımcı olabilecek diğer faktörleri de kapsar.
 
-c) Bağışçının imzası;
+**c) Bağışçının imzası;**
 
 Bağışçının sağlık geçmişinin alınmasından sorumlu olan sağlık hizmeti personeli tarafından da imzalanmış olan bağışçı anketindeki bağışçı imzası. Bağışçı anketi, bağışçının:
 
@@ -900,7 +900,7 @@ teyit eder.
 
 Kan bağışçılarının uygunluk kriterleri aşağıda verilmiştir. Bu kriterler otolog bağışlara uygulanmaz. Geçici ve kalıcı red kriterleri güncel rehberde belirtildiği şekilde değerlendirilir.
 
-Özel durumlarda aşağıdaki kriterlere uymayan bireysel bağışlara hizmet biriminin sorumlu doktoru tarafından izin verilir. Bu tür durumlar, açık biçimde kaydedilir ve bu Yönetmeliğin Madde 15-hizmet birimindeki kalite sistemi, Madde 16-Dokümantasyon ile ilgili hükümleri çerçevesinde kalite yönetimi şartlarına tabi olur.
+Özel durumlarda aşağıdaki kriterlere uymayan bireysel bağışlara hizmet biriminin sorumlu doktoru tarafından izin verilir. Bu tür durumlar, açık biçimde kaydedilir ve bu Yönetmeliğin **Madde 15-hizmet birimindeki kalite sistemi, Madde 16-Dokümantasyon** ile ilgili hükümleri çerçevesinde kalite yönetimi şartlarına tabi olur.
 
 | Yaş | 18 – 65 yaş | Bağışçı adayı, reşit kabul edilebilmesi için yasal olan 18 yaşını doldurmuş olmalıdır |
 | 60 yaş üzeri ilk bağış | Hizmet birimi sorumlu doktorunun onayı ile |
@@ -915,7 +915,7 @@ Kan bağışçılarının uygunluk kriterleri aşağıda verilmiştir. Bu kriter
 
 ### KAYITLARIN SAKLANMASI
 
-(a) 30 yıl saklanması gereken bilgiler;
+**(a) 30 yıl saklanması gereken bilgiler;**
 
 1. Hizmet biriminin adı
 
@@ -941,7 +941,7 @@ Kan bağışçılarının uygunluk kriterleri aşağıda verilmiştir. Bu kriter
 
 12. İmha nedeni
 
-(b) 15 yıl saklanması gereken bilgiler;
+**(b) 15 yıl saklanması gereken bilgiler;**
 
 1. Bağışçıların (aday ve bağış yapanlar) toplam sayısı
 
@@ -963,7 +963,7 @@ Kan bağışçılarının uygunluk kriterleri aşağıda verilmiştir. Bu kriter
 
 ### İZLENEBİLİRLİK İÇİN VERİ KAYDI
 
-Bölge Kan Merkezi ve Kan Bağışı Merkezi:
+**Bölge Kan Merkezi ve Kan Bağışı Merkezi:**
 
 1. Bölge kan merkezinin adı,
 
@@ -981,7 +981,7 @@ Bölge Kan Merkezi ve Kan Bağışı Merkezi:
 
 8. Dağıtılmayan kan-kan bileşeni için imha tarihi (gün/ay/yıl),
 
-Transfüzyon Merkezleri:
+**Transfüzyon Merkezleri:**
 
 1. Kan-kan bileşeninin sağlandığı bölge kan merkezinin adı,
 

@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN ORMAN KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN ORMAN KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7442 Kabul Tarihi: 23/3/2023
 
 MADDE 1- 12/6/1933 tarihli ve 2313 sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanunun 23 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.

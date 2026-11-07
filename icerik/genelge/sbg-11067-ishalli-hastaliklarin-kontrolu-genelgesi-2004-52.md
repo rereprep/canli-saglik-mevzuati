@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Sayısı:52
 
-T.C. SAĞLIK BAKANLIĞI Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIĞI** Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü
 
 ### ANKARA
 

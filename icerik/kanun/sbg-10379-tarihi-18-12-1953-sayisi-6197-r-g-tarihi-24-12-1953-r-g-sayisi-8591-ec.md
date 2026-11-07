@@ -88,7 +88,7 @@ Kadar devam eder.
 
 **Madde 10 –** Vefat eden eczacının varisleri arasında, karı, koca veya çocuk yoksa eczane bunların haricindeki mirasçılar tarafından nihayet bir sene zarfında tasfiye edilir.
 
-Bu müddet içinde eczanenin bir mesul müdürle idaresi mecburidir. Madde 11 - Bir eczaneyi devir veya satın alan kimse eczane açmak için bu kanunda yazılı şartları haiz olduğu takdirde, namına ruhsatname verilir.
+Bu müddet içinde eczanenin bir mesul müdürle idaresi mecburidir. **Madde 11 -** Bir eczaneyi devir veya satın alan kimse eczane açmak için bu kanunda yazılı şartları haiz olduğu takdirde, namına ruhsatname verilir.
 
 Bu satışlar Hükümet tabibinin huzuriyle ve noterlikçe yapılır.
 

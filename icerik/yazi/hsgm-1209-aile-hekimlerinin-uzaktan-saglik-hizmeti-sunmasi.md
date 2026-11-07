@@ -23,7 +23,7 @@ Konu : Aile Hekimlerinin Uzaktan Sağlık Hizmeti Sunması
 
 DAĞITIM YERLERİNE
 
-Aile Hekimliği Uygulama Yönetmeliğinin 4 üncü maddesinin üçüncü fıkrasına, 09.04.2026 tarihli ve 33219 sayılı Resmî Gazete’de yayımlanan değişiklik ile “Bakanlıkça belirlenen usul ve esaslara göre uzaktan sağlık hizmeti sunmak.” hükmü eklenmiş olup uzaktan sağlık hizmeti sunumu, aile hekimlerinin görev, yetki ve sorumlulukları arasında açıkça düzenlenmiştir. Diğer taraftan, 10.02.2022 tarihli ve 31746 sayılı Resmî Gazete’de yayımlanan Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik ile uzaktan sağlık hizmetlerinin kapsamı ile sunumuna ilişkin usul ve esaslar belirlenmiştir.
+Aile Hekimliği Uygulama Yönetmeliğinin 4 üncü maddesinin üçüncü fıkrasına, 09.04.2026 tarihli ve 33219 sayılı Resmî Gazete’de yayımlanan değişiklik ile “<i>Bakanlıkça belirlenen usul ve esaslara göre uzaktan sağlık hizmeti sunmak.”</i> hükmü eklenmiş olup uzaktan sağlık hizmeti sunumu, aile hekimlerinin görev, yetki ve sorumlulukları arasında açıkça düzenlenmiştir. Diğer taraftan, 10.02.2022 tarihli ve 31746 sayılı Resmî Gazete’de yayımlanan Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik ile uzaktan sağlık hizmetlerinin kapsamı ile sunumuna ilişkin usul ve esaslar belirlenmiştir.
 
 Bu kapsamda; vatandaşlarımızın sağlık hizmetlerine erişiminin kolaylaştırılması, ihtiyaçlarının zamanında karşılanması ve mekân ile coğrafi sınırlılıklardan bağımsız biçimde çağdaş tıbbî teknolojilerden yararlanabilmesi amacıyla Uzaktan Hasta Değerlendirme Sistemi üzerinden uzaktan sağlık hizmeti sunulmaktadır.
 

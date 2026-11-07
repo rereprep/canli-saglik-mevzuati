@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/03/20230303-8.htm"
 durum: "yürürlükte"
 ---
 
-KANUN SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE
-375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK
-YAPILMASINA DAİR KANUN
+**KANUN SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE**
+**375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK**
+**YAPILMASINA DAİR KANUN**
 Kanun No. 7438 Kabul Tarihi: 1/3/2023
 
 MADDE 1- 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa aşağıdaki geçici madde eklenmiştir.

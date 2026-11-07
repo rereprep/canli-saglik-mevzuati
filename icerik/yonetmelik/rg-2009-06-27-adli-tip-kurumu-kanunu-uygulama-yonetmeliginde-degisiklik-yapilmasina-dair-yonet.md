@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Adalet Bakanlığından:
-ADLİ TIP KURUMU KANUNU UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ADLİ TIP KURUMU KANUNU UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete'de yayımlanan Adli Tıp Kurumu Kanunu Uygulama Yönetmeliğinin 12 nci maddesinin üçüncü fıkrasının (d) bendi aşağıdaki şekilde değiştirilmiştir.
 “d) Adlî Tıp Kurumuna Tahlil ve Tetkik için gönderilecek materyallere ilişkin kolilerin yazısı, önceden Adlî Tıp Kurumuna gönderilir. Yazısı gelmeyen ve usulüne uygun gönderilmeyen koliler teslim alınmaz.”

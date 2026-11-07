@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-2.3.8. Poliklinik Hizmetlerinde Öncelik Sırası Genelgesi (2016/22)
+**2.3.8. Poliklinik Hizmetlerinde Öncelik Sırası Genelgesi (2016/22)**
 
 ### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü
 

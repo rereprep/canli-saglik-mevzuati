@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/03/20220324-5.htm"
 durum: "yürürlükte"
 ---
 
-KANUN DİYANET İŞLERİ BAŞKANLIĞI KURULUŞ VE GÖREVLERİ HAKKINDA
-KANUN İLE DEVLET MEMURLARI KANUNUNDA VE 375 SAYILI
-KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7383 Kabul Tarihi: 16/3/2022
+**KANUN DİYANET İŞLERİ BAŞKANLIĞI KURULUŞ VE GÖREVLERİ HAKKINDA**
+**KANUN İLE DEVLET MEMURLARI KANUNUNDA VE 375 SAYILI**
+**KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7383 Kabul Tarihi: 16/3/2022**
 
 MADDE 1- 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 7 nci maddesinin birinci fıkrasının (b) bendi aşağıdaki şekilde değiştirilmiştir.
 “b) Eğitim Hizmetleri Genel Müdürlüğü

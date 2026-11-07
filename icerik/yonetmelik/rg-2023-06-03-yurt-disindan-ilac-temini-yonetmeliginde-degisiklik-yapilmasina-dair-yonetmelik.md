@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-YURT DIŞINDAN İLAÇ TEMİNİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**YURT DIŞINDAN İLAÇ TEMİNİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 3/2/2023 tarihli ve 32093 sayılı Resmî Gazete’de yayımlanan Yurt Dışından İlaç Temini Yönetmeliğinin geçici 1 inci maddesinin dördüncü ve beşinci fıkraları aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
 “(4) Yurt dışı ilaç tedarikçileri, Beşeri Tıbbi Ürünler İmalathaneleri Yönetmeliği kapsamında Kurumca izin belgesi verilmiş bir sekonder ambalajlama tesisi ile imzalanmış sözleşmeyi 31/7/2023 tarihine kadar Kuruma sunmakla yükümlüdür.

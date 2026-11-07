@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-KAPLICALAR YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**KAPLICALAR YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 24/7/2001 tarihli ve 24472 sayılı Resmî Gazete'de yayımlanan Kaplıcalar Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (b) bendi aşağıdaki şekilde değiştirilmiş; (n) ve (o) bentlerindeki “Bakanlıkça” ibareleri “Valilikçe” olarak değiştirilmiş; (t) ve (u) bentleri yürürlükten kaldırılmış ve aynı fıkraya aşağıdaki (ü) bendi eklenmiştir.
 “b) Kaplıca: Doğal termal su veya termomineralli su ortamlarının halkın hizmetine sunulduğu tesisleri,” “ü) Talassoterapi tesisi: Deniz ve iklim kaynaklı unsurların halkın hizmetine sunulduğu tesisleri.”

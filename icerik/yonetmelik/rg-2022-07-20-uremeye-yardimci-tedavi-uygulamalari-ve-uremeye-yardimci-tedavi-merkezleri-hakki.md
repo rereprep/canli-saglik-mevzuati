@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-ÜREMEYE YARDIMCI TEDAVİ UYGULAMALARI VE ÜREMEYE YARDIMCI TEDAVİ MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ÜREMEYE YARDIMCI TEDAVİ UYGULAMALARI VE ÜREMEYE YARDIMCI TEDAVİ MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 30/9/2014 tarihli ve 29135 sayılı Resmî Gazete’de yayımlanan Üremeye Yardımcı Tedavi Uygulamaları ve Üremeye Yardımcı Tedavi Merkezleri Hakkında Yönetmeliğe aşağıdaki geçici madde eklenmiştir.
 “Kazanılmış hakların korunması

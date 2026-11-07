@@ -26,7 +26,7 @@ Sayı : 28721
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -56,7 +56,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Maruziyet Değerleri ve İşverenlerin Yükümlülükleri
+**Maruziyet Değerleri ve İşverenlerin Yükümlülükleri**
 
 #### Maruziyet eylem değerleri ve maruziyet sınır değerleri
 
@@ -256,7 +256,7 @@ b) İşveren;
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 

@@ -63,4 +63,4 @@ Gereği:
 
 …………………………………………………………………………………………………………………………..
 
-Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğü Mithatpaşa Cad. No:3 B Blok 3. Kat No:13 Sıhhiye/ANKARA Tel: 0 312 585 15 53 Faks: 0 312 585 15 65 - 66 e-mail: tedavi.adsruhsat@saglik.gov.tr
+Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğü Mithatpaşa Cad. No:3 B Blok 3. Kat No:13 Sıhhiye/ANKARA Tel: 0 312 585 15 53 Faks: 0 312 585 15 65 - 66 e-mail: tedavi.adsruhsat@**saglik.gov.tr**

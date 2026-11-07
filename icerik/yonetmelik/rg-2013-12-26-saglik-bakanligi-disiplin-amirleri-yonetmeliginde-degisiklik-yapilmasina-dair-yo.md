@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 19/12/2012 tarihli ve 28502 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinin 4 üncü maddesinin birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 1 –** 19/12/2012 tarihli ve 28502 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinin 4 üncü maddesinin birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “(2) Geçici olarak asli görev yerinin dışında çalışan personelin disiplin amirleri bu Yönetmelik ekinde tespit olunan geçici olarak çalıştığı birimdeki disiplin amirleridir.”
 
 MADDE 2 – Aynı Yönetmeliğin ek 1 sayılı cetvelinin A) Merkez Teşkilatı kısmının 2 sayılı bölümünün (a) ve (b) satırları ile B) Taşra Teşkilatı kısmının 1 sayılı bölümünün (b) ve (c) satırları aşağıdaki şekilde değiştirilmiştir.
@@ -26,4 +26,4 @@ c) Şube Müdürü, Müdür(Ö), Araştırmacı, Uzman(Ö), APK Uzmanı İl Sağ
 
 MADDE 3 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-MADDE 4 – Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+**MADDE 4 –** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.

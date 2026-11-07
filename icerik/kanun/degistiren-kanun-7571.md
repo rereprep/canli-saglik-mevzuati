@@ -12,34 +12,34 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/12/20251225-33.htm"
 durum: "yürürlükte"
 ---
 
-KANUN TÜRK
-CEZA KANUNU İLE BAZI KANUNLARDA VE 631 SAYILI KANUN HÜKMÜNDE
-KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7571 Kabul Tarihi: 24/12/2025
+**KANUN TÜRK**
+**CEZA KANUNU İLE BAZI KANUNLARDA VE 631 SAYILI KANUN HÜKMÜNDE**
+**KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7571 Kabul Tarihi: 24/12/2025**
 
-MADDE 1- 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 134 üncü maddesinin ikinci fıkrasına birinci cümlesinden sonra gelmek üzere aşağıdaki cümle ve dördüncü fıkrasına aşağıdaki cümleler eklenmiştir.
+**MADDE 1-** 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 134 üncü maddesinin ikinci fıkrasına birinci cümlesinden sonra gelmek üzere aşağıdaki cümle ve dördüncü fıkrasına aşağıdaki cümleler eklenmiştir.
 “Belirtilen kişiler dışında kalan kişilerce ihalenin feshinin talep edilmesi halinde mahkemece ihalenin feshi talebi dosya üzerinden ve kesin olarak reddedilir.”
 “Teminatın veya üçüncü fıkra uyarınca yatırılması gereken harcın yatırılmaması veya eksik yatırılması suretiyle ihalenin feshinin talep edilmesi hâlinde mahkeme tebliğ edeceği muhtırada, iki haftalık kesin süre içinde teminatın veya harcın ikmal edilmesini, aksi hâlde ihalenin feshi talebinin dosya üzerinden kesin olarak reddedileceğini bildirir. Mahkeme, süresi içinde teminat veya harç ikmal edilmediği takdirde derhal ihalenin feshi talebini reddeder.”
 
-MADDE 2- 2004 sayılı Kanunun 278 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 2-** 2004 sayılı Kanunun 278 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 278- Alışılmış hediyeler dışında, geçici veya kesin aciz belgesinin ya da aciz belgesi niteliğinde olan haciz tutanağının düzenlendiği yahut iflasın açıldığı tarihten önceki bir yıl içinde yapılan bütün bağışlamalar ve ivazsız tasarruflar iptale tabidir.
 Aşağıdaki tasarruflar bağışlama sayılır:
 a) Gerçek değerine uygun olarak ivazlı olduğu ispatlanmadıkça altsoy ve üstsoy, üçüncü derece dâhil kan hısımları, son bir yıl içinde evlilik birliği sona ermiş olsa bile eşi ve üçüncü derece dâhil kayın hısımları, evlat edinenle evlatlık, ortak konutta yaşayan kişiler arasında yapılan tasarruflar.
 b) Aksi ispatlanmadıkça, sözleşmenin yapıldığı sırada, kendi verdiği şeyin gerçek değerine göre borçlunun ivaz olarak pek aşağı bir fiyatla kabul ettiği sözleşmeler.
 c) Uygun bir karşılığın sağlandığı ispatlanmadıkça, borçlunun kendisine veya üçüncü bir kişi yararına ömür boyu gelir sözleşmesi ya da intifa hakkı tesis ettiği sözleşmeler yahut ölünceye kadar bakma sözleşmeleri.”
 
-MADDE 3- 2004 sayılı Kanunun ek 1 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 3-** 2004 sayılı Kanunun ek 1 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “363 ve 364 üncü maddelerdeki parasal sınırların uygulanmasında şikâyet başvurusunun yapıldığı veya davanın açıldığı tarihteki miktar esas alınır.”
 
-MADDE 4- 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 59 uncu maddesinin dördüncü fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 4-** 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 59 uncu maddesinin dördüncü fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Bu durum ve yargılama aşamalarında verilen nihai kararlar avukatın kayıtlı olduğu baroya bildirilir.”
 
-MADDE 5- 1136 sayılı Kanunun 134 üncü maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 5-** 1136 sayılı Kanunun 134 üncü maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Disiplin cezalarının uygulanacağı haller:
 
 MADDE 134- Avukatlara; avukatlık onur ve unvanına, savunma hakkının kutsallığının gerektirdiği saygı ve güvene veya özen ve doğruluk yükümlülüklerine uymayan hâl ve hareketlerinin tespit edilmesi üzerine, ihlalin niteliğine ve eylemin ağırlık derecesine göre bu Kanunda yazılı disiplin cezalarından biri verilir.”
 
-MADDE 6- 1136 sayılı Kanunun 135 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 6-** 1136 sayılı Kanunun 135 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Disiplin cezaları:
 
 MADDE 135- Avukatlar hakkında uygulanacak disiplin cezaları uyarma, kınama, para cezası, işten çıkarma ve meslekten çıkarmadır.
@@ -105,55 +105,55 @@ d) 155 inci maddede belirtilen yasağa aykırı davranmak.
 5. Meslekten çıkarma; avukatlık ruhsatnamesinin geri alınarak avukatın adının baro levhasından silinmesi ve avukatlık unvanının kaldırılmasıdır. Bu ceza, avukatlık ortaklığı bakımından baro avukatlık ortaklığı sicilinden silinmesidir. Aşağıdaki hâllerde meslekten çıkarma cezası verilir:
 a) 5 inci maddenin birinci fıkrasının (a) bendinde belirtilen suçlardan veya 56 ncı maddede düzenlenen suçtan mahkûm olmak.”
 
-MADDE 7- 1136 sayılı Kanunun 136 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 7-** 1136 sayılı Kanunun 136 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 136- Hakkında herhangi bir disiplin cezası verilen avukatın, bu cezanın kesinleştiği tarihten itibaren beş yıl içinde disiplin cezası gerektiren yeni bir fiil işlemesi halinde, bu fiil için Kanunda öngörülen disiplin cezasının bir derece ağır olanı uygulanır. Ancak ilk defa verilen uyarma cezasının kesinleştiği tarihten itibaren beş yıl içinde işten çıkarma cezası gerektiren bir fiilin işlenmesi halinde meslekten çıkarma cezası yerine işten çıkarma cezasının üst haddi uygulanır.
 Bir defa işten çıkarma cezası alan avukat, bu cezanın kesinleştiği tarihten itibaren beş yıl içinde en az kınama cezasını gerektiren bir fiil işlerse meslekten çıkarılır.
 Meslekten çıkarma cezasını gerektiren haller hariç olmak üzere, ilk defa disiplin cezası verilmesini gerektiren bir fiil işleyen avukata, verilecek disiplin cezasından bir derece hafif olanı uygulanabilir.
 Hakkında verilen bir disiplin cezasının kesinleşmesinden itibaren beş yıl geçenler bakımından da bu hüküm geçerlidir.”
 
-MADDE 8- 1136 sayılı Kanunun 155 inci maddesinin ikinci fıkrası yürürlükten kaldırılmıştır.
+**MADDE 8-** 1136 sayılı Kanunun 155 inci maddesinin ikinci fıkrası yürürlükten kaldırılmıştır.
 
-MADDE 9- 1136 sayılı Kanunun 159 uncu maddesinin üçüncü fıkrasına aşağıdaki cümle ve maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 9-** 1136 sayılı Kanunun 159 uncu maddesinin üçüncü fıkrasına aşağıdaki cümle ve maddeye aşağıdaki fıkra eklenmiştir.
 “Disiplin Kurulu tarafından kovuşturma sonucunun beklenmesine karar verilmesi halinde, kesinleşen mahkeme kararının ilgili baroya bildirilmesinden itibaren bir yıl geçmekle ceza verme yetkisi zamanaşımına uğrar.”
 “Disiplin soruşturması veya kovuşturması sonucu tesis edilen idari işleme karşı dava açılması halinde zamanaşımı süresi kesilir.
 Mahkemenin idari işlemin iptaline ilişkin kararının ilgili baro veya Türkiye Barolar Birliğine bildirilmesinden itibaren mahkeme kararı uyarınca en geç iki yıl içinde yeniden yapılacak soruşturma veya kovuşturma sonucuna göre karar verilir. Mahkeme kararının ilgili baro veya Türkiye Barolar Birliğine ulaşmasından itibaren iki yıl geçtikten sonra disiplin cezası verilemez.”
 
-MADDE 10- 1136 sayılı Kanunun 160 ıncı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 10-** 1136 sayılı Kanunun 160 ıncı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Meslekten çıkarma cezasından başka bir disiplin cezası verilen avukatlar; uyarma, kınama, para ve işten çıkarma cezalarının uygulanmasından itibaren beş yıl geçtikten sonra disiplin kuruluna başvurarak bu disiplin cezalarının sicillerinden silinmesini isteyebilirler. Tekerrür uygulanarak verilen işten çıkarma cezaları bu hükmün dışındadır.”
 
-MADDE 11- 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 53 üncü maddesinin (j) fıkrasının dördüncü ve beşinci paragrafları aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11-** 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 53 üncü maddesinin (j) fıkrasının dördüncü ve beşinci paragrafları aşağıdaki şekilde değiştirilmiştir.
 “İtirazen şikayet başvuru bedelinin, itirazen şikayet başvuru dilekçesinde yer verilen iddialar dikkate alınarak belirlenecek haklılık oranına karşılık gelen kısmının Kurul kararı ile başvuru sahibine iadesine karar verilir. Ancak Kurum tarafından 54 üncü maddenin onbirinci fıkrasının (c) bendi uyarınca başvurunun reddine veya eşit muamele ilkesi yönünden yapılan inceleme sonucunda 54 üncü maddenin onbirinci fıkrasının (a) ve (b) bentleri uyarınca ihalenin iptaline veya düzeltici işlem belirlenmesine karar verilmesi halinde başvuru bedeli iade edilmez.
 Başvuru dilekçesinde aynı iddia kapsamında birden fazla hususa yer verilmesi halinde bu hususlar Kurum tarafından ayrı birer iddia olarak değerlendirilir. Kurul kararının başvuru sahibine bildirimini izleyen otuz gün içinde başvuru sahibinin Kuruma yazılı talebi üzerine, bu talep tarihini izleyen onbeş gün içinde Kurum tarafından bedel iadesi yapılır. Bu süre içinde ödeme yapılamaması halinde, sürenin bitiminden itibaren ödeme tarihine kadar geçen süre için kanuni faiz işletilir.
 İtirazen şikayet başvurusu üzerine alınan Kurul kararlarına karşı açılan davalar sonucunda veya 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 10 uncu maddesi uyarınca sözleşmenin feshedilmesi hallerinde, bu fıkranın birinci paragrafının (1) numaralı bendi uyarınca tahsil edilen bedelin ilk sözleşme bedelinin tamamlanmayan oranına karşılık gelen kısmının Kurul kararı ile yükleniciye iade edilmesine karar verilir. Bedel iadesinin yapılabilmesi için yüklenicinin, fesih ve tasfiye işlemlerinin tamamlandığının kendisine bildirimini izleyen otuz gün içinde iade talebiyle idareye başvurması gerekir. Başvuruyu izleyen onbeş gün içinde idarece, ilk sözleşme bedelinin tamamlanmayan oranı dahil gerekli bilgi ve belgeler Kuruma iletilir. Bilgi ve belgelerin Kurum kayıtlarına alındığı tarihi izleyen onbeş gün içinde, Kurum tarafından bedel iadesi yapılır. Bu süre içinde ödeme yapılamaması halinde, sürenin bitiminden itibaren ödeme tarihine kadar geçen süre için kanuni faiz işletilir.”
 
-MADDE 12- 26/9/2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanunun 12 nci maddesinin birinci fıkrasında yer alan “nitelikli dolandırıcılık (m. 158),” ibaresi madde metninden çıkarılmıştır.
+**MADDE 12-** 26/9/2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanunun 12 nci maddesinin birinci fıkrasında yer alan “nitelikli dolandırıcılık (m. 158),” ibaresi madde metninden çıkarılmıştır.
 
-MADDE 13- 5235 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 13-** 5235 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 7- Bu maddenin yürürlüğe girdiği tarihte ağır ceza mahkemelerinde görülmekte olan davalarda veya istinaf ya da temyiz kanun yolu incelemesinde bulunan dosyalarda nitelikli dolandırıcılık (m.
 158) suçlarına bakan mahkemenin görevinin bu maddeyi ihdas eden Kanunla değiştiği gerekçesiyle görevsizlik veya bozma kararı verilemez. Bu davalara kesin hükümle sonuçlandırılıncaya kadar bu maddenin yürürlüğe girdiği tarihten önceki göreve ilişkin kurallara göre bakılmaya devam olunur.”
 
-MADDE 14- 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 32 nci maddesinin ikinci fıkrasının üçüncü cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 14-** 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 32 nci maddesinin ikinci fıkrasının üçüncü cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Kişi hakkında ayrıca akıl hastalarına özgü güvenlik tedbirine hükmolunur.”
 
-MADDE 15- 5237 sayılı Kanunun 57 nci maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiş ve altıncı fıkrası yürürlükten kaldırılmıştır.
+**MADDE 15-** 5237 sayılı Kanunun 57 nci maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiş ve altıncı fıkrası yürürlükten kaldırılmıştır.
 “Ancak, hakkında 32 nci maddenin birinci fıkrası uyarınca güvenlik tedbirine hükmedilen akıl hastaları için kurumda geçirilecek süre, ağırlaştırılmış müebbet hapis ve müebbet hapis cezasını gerektiren suçlarda bir yıldan, üst sınırı on yıldan fazla hapis cezasını gerektiren suçlarda ise altı aydan az olamaz.”
 
-MADDE 16- 5237 sayılı Kanunun 75 inci maddesinin altıncı fıkrasının (a) bendinin (2) numaralı alt bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 16-** 5237 sayılı Kanunun 75 inci maddesinin altıncı fıkrasının (a) bendinin (2) numaralı alt bendi aşağıdaki şekilde değiştirilmiştir.
 “2. Hakaret (üçüncü fıkranın (a) bendi hariç, madde 125),”
 
-MADDE 17- 5237 sayılı Kanunun 89 uncu maddesinin birinci fıkrasında yer alan “üç aydan bir yıla” ibaresi “dört aydan iki yıla” ve dördüncü fıkrasında yer alan “altı aydan üç yıla” ibaresi “dokuz aydan beş yıla” şeklinde değiştirilmiştir.
+**MADDE 17-** 5237 sayılı Kanunun 89 uncu maddesinin birinci fıkrasında yer alan “üç aydan bir yıla” ibaresi “dört aydan iki yıla” ve dördüncü fıkrasında yer alan “altı aydan üç yıla” ibaresi “dokuz aydan beş yıla” şeklinde değiştirilmiştir.
 
-MADDE 18- 5237 sayılı Kanunun 155 inci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 18-** 5237 sayılı Kanunun 155 inci maddesine aşağıdaki fıkra eklenmiştir.
 “(3) Suçun konusunun motorlu kara, deniz veya hava taşıtı olması halinde yukarıdaki fıkralara göre verilecek ceza bir kat artırılır.”
 
-MADDE 19- 5237 sayılı Kanunun 170 inci maddesinin birinci fıkrasında yer alan “altı aydan üç yıla” ibaresi “bir yıldan beş yıla” şeklinde değiştirilmiş, fıkraya aşağıdaki cümle ile maddeye birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
+**MADDE 19-** 5237 sayılı Kanunun 170 inci maddesinin birinci fıkrasında yer alan “altı aydan üç yıla” ibaresi “bir yıldan beş yıla” şeklinde değiştirilmiş, fıkraya aşağıdaki cümle ile maddeye birinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
 “Suçun ses ve gaz fişeği atabilen silahla ateş etmek suretiyle işlenmesi halinde kişi, altı aydan üç yıla kadar hapis cezası ile cezalandırılır.”
 “(2) Birinci fıkrada tanımlanan suçun kişilerin toplu olarak bulundukları yerlerde işlenmesi halinde, verilecek ceza yarı oranında artırılır.”
 
-MADDE 20- 5237 sayılı Kanunun 220 nci maddesinin birinci fıkrasında yer alan “dört yıldan sekiz yıla” ibaresi “beş yıldan on yıla”, ikinci fıkrasında yer alan “dört yıla” ibaresi “beş yıla”, üçüncü fıkrasında yer alan “dörtte birinden yarısına kadar” ibaresi “yarısı oranında” şeklinde değiştirilmiş ve beşinci fıkrasına birinci cümlesinden önce gelmek üzere aşağıdaki cümle eklenmiştir.
+**MADDE 20-** 5237 sayılı Kanunun 220 nci maddesinin birinci fıkrasında yer alan “dört yıldan sekiz yıla” ibaresi “beş yıldan on yıla”, ikinci fıkrasında yer alan “dört yıla” ibaresi “beş yıla”, üçüncü fıkrasında yer alan “dörtte birinden yarısına kadar” ibaresi “yarısı oranında” şeklinde değiştirilmiş ve beşinci fıkrasına birinci cümlesinden önce gelmek üzere aşağıdaki cümle eklenmiştir.
 “Örgütün faaliyeti çerçevesinde işlenen suçlarda çocukların araç olarak kullanılması halinde, örgüt yöneticilerine yukarıdaki fıkralara göre verilecek ceza yarısından bir katına kadar artırılır.”
 
-MADDE 21- 5237 sayılı Kanunun 223 üncü maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 21-** 5237 sayılı Kanunun 223 üncü maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Ulaşım araçlarının hareketinin engellenmesi, kaçırılması veya alıkonulması
 
 MADDE 223- (1) Hukuka aykırı bir davranışla kara ulaşım aracının hareket etmesini engelleyen veya bu aracı hareket halinde iken durduran kişi, bir yıldan üç yıla kadar, bu aracı gitmekte olduğu yerden başka yere götüren kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.
@@ -162,7 +162,7 @@ MADDE 223- (1) Hukuka aykırı bir davranışla kara ulaşım aracının hareket
 (4) Yukarıdaki fıkralarda tanımlanan suçların işlenmesi amacıyla veya sırasında başka bir suçun işlenmesi halinde ayrıca bu suçtan dolayı ceza verilir.
 (5) Kanunda öngörülen şekil, şart ve usullere uygun olarak düzenlenen toplantı ve gösteri yürüyüşleri esnasında birinci ve ikinci fıkrada belirtilen fillerin işlenmesi halinde bu fıkralardaki suç oluşmaz.”
 
-MADDE 22- 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununa 128 inci maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
+**MADDE 22-** 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununa 128 inci maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 “Bilişim suçlarının işlenmesi suretiyle elde edilen menfaatin bulunduğu hesabın askıya alınması ve elkoyma
 
 MADDE 128/A- (1) Türk Ceza Kanununda yer alan;
@@ -177,28 +177,28 @@ c) Banka veya kredi kartlarının kötüye kullanılması (madde 245), suçları
 (6) Bu madde uyarınca askıya alma işlemine karar veren gerçek ve tüzel kişiler, hukukî bakımdan sorumlu tutulmaz.
 (7) Yürütülen bir soruşturma veya kovuşturma kapsamında Cumhuriyet savcısı, hâkim veya mahkeme tarafından banka, ödeme hizmeti sağlayıcısı veya kripto varlık hizmet sağlayıcısından istenen bilgi veya belgenin on gün içinde fiziki veya elektronik ortamda gönderilmesi zorunludur. İstenen bilgi veya belgenin gönderilmemesi ya da eksik gönderilmesi halinde Cumhuriyet savcısı tarafından ilgili banka, ödeme hizmeti sağlayıcısı veya kripto varlık hizmet sağlayıcısına elli bin Türk Lirasından üç yüz bin Türk Lirasına kadar idarî para cezası verilir.”
 
-MADDE 23- 5271 sayılı Kanunun 250 nci maddesinin birinci fıkrasının (a) bendinin (2) numaralı alt bendinde yer alan “(madde 170)” ibaresi “(madde 170, birinci ve üçüncü fıkra)” şeklinde değiştirilmiştir.
+**MADDE 23-** 5271 sayılı Kanunun 250 nci maddesinin birinci fıkrasının (a) bendinin (2) numaralı alt bendinde yer alan “(madde 170)” ibaresi “(madde 170, birinci ve üçüncü fıkra)” şeklinde değiştirilmiştir.
 
-MADDE 24- 5271 sayılı Kanunun 253 üncü maddesinin birinci fıkrasının (b) bendinin (7) numaralı alt bendinde yer alan “(madde 155)” ibaresi “(üçüncü fıkra hariç, madde 155)” şeklinde, üçüncü fıkrasında yer alan “(125 inci maddenin ikinci fıkrası),” ibaresi “(madde 125)” şeklinde değiştirilmiş ve fıkraya aşağıdaki cümle eklenmiştir.
+**MADDE 24-** 5271 sayılı Kanunun 253 üncü maddesinin birinci fıkrasının (b) bendinin (7) numaralı alt bendinde yer alan “(madde 155)” ibaresi “(üçüncü fıkra hariç, madde 155)” şeklinde, üçüncü fıkrasında yer alan “(125 inci maddenin ikinci fıkrası),” ibaresi “(madde 125)” şeklinde değiştirilmiş ve fıkraya aşağıdaki cümle eklenmiştir.
 “Ancak önödeme kapsamına giren bir suç ile uzlaştırma kapsamına giren bir suçun birlikte aynı mağdura karşı işlenmiş olması hâlinde uzlaştırma kapsamındaki suç bakımından uzlaşma hükümleri uygulanır.”
 
-MADDE 25- 5271 sayılı Kanunun 280 inci maddesinin birinci fıkrasının (e) bendinde yer alan “maddenin birinci fıkrasının (g) ve (h) bentleri hariç diğer bentlerinde” ibaresi “maddede” şeklinde değiştirilmiştir.
+**MADDE 25-** 5271 sayılı Kanunun 280 inci maddesinin birinci fıkrasının (e) bendinde yer alan “maddenin birinci fıkrasının (g) ve (h) bentleri hariç diğer bentlerinde” ibaresi “maddede” şeklinde değiştirilmiştir.
 
-MADDE 26- 5271 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 26-** 5271 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 8- (1) Soruşturma veya kovuşturma evresinde olup da bu maddenin yürürlüğe girdiği tarih itibarıyla uzlaşmanın sağlanmış olduğu dosyalar bakımından bu maddeyi ihdas eden Kanunla 253 üncü maddenin üçüncü fıkrasında yapılan değişiklik ve 5237 sayılı Kanunun 75 inci maddesinin altıncı fıkrasında yapılan değişiklik uygulanmaz. Bu dosyalar, 253 üncü maddenin üçüncü fıkrasının değişiklikten önceki hükümlerine göre sonuçlandırılır.”
 
-MADDE 27- 13/12/2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun geçici 10 uncu maddesinin altıncı fıkrasına “Türk Ceza Kanununun” ibaresinden sonra gelmek üzere “kasten öldürme suçları (82 nci maddenin birinci fıkrasının (d), (e) ve (f) bentleri), deprem nedeniyle bina veya diğer yapıların yıkılması, çökmesi ya da hasar alması sonucu meydana gelen öldürme suçları, cinsel dokunulmazlığa karşı işlenen suçlar (102 nci ve 103 üncü maddeler ile 104 üncü maddenin ikinci ve üçüncü fıkraları),” ibaresi eklenmiş, fıkrada yer alan “tarihi itibarıyla” ibaresi “tarihi ve öncesinde işlenmiş suçlar nedeniyle” ve “tarihinde geçici 9 uncu maddenin altıncı fıkrası kapsamında açık ceza infaz kurumunda bulunan hükümlüler,” ibaresi “tarihi ve öncesinde işlenmiş suçlar nedeniyle açık ceza infaz kurumlarında bulunan hükümlüler,” şeklinde değiştirilmiş, yedinci ve sekizinci fıkraları yürürlükten kaldırılmıştır.
+**MADDE 27-** 13/12/2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun geçici 10 uncu maddesinin altıncı fıkrasına “Türk Ceza Kanununun” ibaresinden sonra gelmek üzere “kasten öldürme suçları (82 nci maddenin birinci fıkrasının (d), (e) ve (f) bentleri), deprem nedeniyle bina veya diğer yapıların yıkılması, çökmesi ya da hasar alması sonucu meydana gelen öldürme suçları, cinsel dokunulmazlığa karşı işlenen suçlar (102 nci ve 103 üncü maddeler ile 104 üncü maddenin ikinci ve üçüncü fıkraları),” ibaresi eklenmiş, fıkrada yer alan “tarihi itibarıyla” ibaresi “tarihi ve öncesinde işlenmiş suçlar nedeniyle” ve “tarihinde geçici 9 uncu maddenin altıncı fıkrası kapsamında açık ceza infaz kurumunda bulunan hükümlüler,” ibaresi “tarihi ve öncesinde işlenmiş suçlar nedeniyle açık ceza infaz kurumlarında bulunan hükümlüler,” şeklinde değiştirilmiş, yedinci ve sekizinci fıkraları yürürlükten kaldırılmıştır.
 
-MADDE 28- 7/6/2005 tarihli ve 5362 sayılı Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununun 62 nci maddesinin birinci, ikinci, üçüncü fıkraları aşağıdaki şekilde değiştirilmiş ve maddeye üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 28-** 7/6/2005 tarihli ve 5362 sayılı Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununun 62 nci maddesinin birinci, ikinci, üçüncü fıkraları aşağıdaki şekilde değiştirilmiş ve maddeye üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 “Bu Kanuna tabi esnaf ve sanatkârlarca üretilen mal ve hizmetlerin fiyat tarifeleri, bağlı bulundukları odalarca hazırlanır ve odanın mensubu olduğu birlik yönetim kurulu tarafından fiyat tarifesinin sunulmasından sonra otuz gün içinde onaylanır veya reddedilir. Bakanlığın görüşüne tabi fiyat tarifelerinde otuz günlük süre Bakanlığa görüş talebinin iletildiği gün durur ve görüşün birliğe iletildiği günden itibaren devam eder. Onaylanan fiyat tarifesi mülki idare amirliği, belediye ve ilgili odaya yedi gün içerisinde bildirilir ve itiraz edilmezse on beş gün sonra yürürlüğe girer. Fiyat tarifeleri, uygulanacak azami hadleri gösterir.
 Belediyeler veya o yerin en büyük mülki idare amiri tarafından itiraz edilen ya da Bakanlığın görüşüne tabi olan fiyat tarifelerinde Bakanlığın olumsuz görüş verdiği fiyat tarifeleri on beş gün içerisinde uzlaşma komisyonunca değerlendirilerek nihai karar verilir.
 Uzlaşma komisyonu o yerin mülki idare amirinin ya da görevlendireceği yardımcısının başkanlığında, ticaret il müdürlüğü, defterdarlık, belediye, ticaret ve sanayi veya ticaret odası ile esnaf ve sanatkârlar odaları birliği temsilcilerinden oluşur. Komisyon kararları salt çoğunlukla alınır. Komisyon değerlendirmesini mevcut maliyetler ve ortalama kar marjları ile Orta Vadeli Programda yer alan enflasyon hedeflerini de dikkate alarak yapar. Talep edilen tarife, komisyonun nihai kararından sonra yürürlüğe girer.”
 “Bakanlığın görüşüne tabi olacak fiyat tarifeleri ile komisyonun değerlendirme sürecine ilişkin usul ve esaslar Bakanlık tarafından yönetmelikle belirlenir.”
 
-MADDE 29- 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 29-** 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 111- Bu Kanunun 60 ıncı maddesinin birinci fıkrasının (g) bendi kapsamında 1/1/2016 tarihinden önceye ait olup ödenmemiş genel sağlık sigortası primleri ile gecikme cezası ve gecikme zammı gibi ferî alacaklarının tamamının tahsilinden vazgeçilir. Bu maddenin yayımlandığı tarihe kadar söz konusu süreler için ödenmiş olan primler iade ve mahsup edilmez.”
 
-MADDE 30- 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 50 nci maddesine yedinci fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiş, maddenin mevcut sekizinci fıkrası buna göre teselsül ettirilmiş ve aşağıdaki şekilde değiştirilmiştir.
+**MADDE 30-** 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 50 nci maddesine yedinci fıkrasından sonra gelmek üzere aşağıdaki fıkralar eklenmiş, maddenin mevcut sekizinci fıkrası buna göre teselsül ettirilmiş ve aşağıdaki şekilde değiştirilmiştir.
 “(8) İşletmeci;
 a) İlgili kanunlarında resmi kimlik belgesi hükmünde olsa bile, elektronik kimlik doğrulama kabiliyetini haiz olmayan kimlik belgeleriyle abonelik kaydı yapamaz.
 b) Abonelik kaydı için kişinin kimliğini, kimlik belgesi ve yüz veya parmak izi özetine ilişkin biyometrik veriler ya da kimliği doğrulayıcı şifre vasıtasıyla teyit eder.
@@ -211,7 +211,7 @@ c) Abonelik kaydı yapılan kişinin elektronik kimlik doğrulama kabiliyetini h
 (12) Yabancı uyruklu gerçek kişilere ait mobil haberleşme hatlarına özgü numara tahsis ve kullanımına ilişkin usul ve esaslar, Kurum tarafından belirlenir.”
 “(13) Kurum bu maddenin uygulanmasına ilişkin usul ve esasları, ilgili bakanlıkların görüşünü almak suretiyle belirler.”
 
-MADDE 31- 5809 sayılı Kanunun 60 ıncı maddesinin ikinci fıkrasında yer alan “halinde,” ibaresi “veya ilgili takvim yılına ilişkin net satışlarının belli olmaması hallerinde,” şeklinde değiştirilmiş, fıkraya aşağıdaki cümle, yedinci fıkrasına “Bu Kanunun” ibaresinden sonra gelmek üzere “50 nci maddesinin sekizinci ve dokuzuncu fıkralarına aykırı hareket eden işletmecilere hat başına yetmişbeşbin Türk Lirası; onuncu fıkrasına aykırı hareket eden işletmecilere hat başına kırkbin Türk Lirası; onbirinci fıkrasına aykırı hareket eden işletmecilere cihaz başına ikiyüzbin Türk Lirasından beşyüzbin Türk Lirasına kadar;”
+**MADDE 31-** 5809 sayılı Kanunun 60 ıncı maddesinin ikinci fıkrasında yer alan “halinde,” ibaresi “veya ilgili takvim yılına ilişkin net satışlarının belli olmaması hallerinde,” şeklinde değiştirilmiş, fıkraya aşağıdaki cümle, yedinci fıkrasına “Bu Kanunun” ibaresinden sonra gelmek üzere “50 nci maddesinin sekizinci ve dokuzuncu fıkralarına aykırı hareket eden işletmecilere hat başına yetmişbeşbin Türk Lirası; onuncu fıkrasına aykırı hareket eden işletmecilere hat başına kırkbin Türk Lirası; onbirinci fıkrasına aykırı hareket eden işletmecilere cihaz başına ikiyüzbin Türk Lirasından beşyüzbin Türk Lirasına kadar;”
 ibaresi ile aşağıdaki cümle, dokuzuncu fıkrasına “bu tutarları” ibaresinden sonra gelmek üzere “tahsilat tarihinden iade edildiği tarihe kadar 6183 sayılı Kanunun 51 inci maddesine göre hesaplanacak tutarla birlikte” ibaresi ve maddeye aşağıdaki fıkralar eklenmiştir.
 “Birinci fıkra kapsamında belirlenecek idari para cezası tutarı, bu fıkrada yer alan idari para cezasının alt sınırından az olamaz.”
 “Ancak, 50 nci maddenin sekizinci, dokuzuncu, onuncu ve onbirinci fıkralarının her biri için bir takvim yılı içinde verilebilecek toplam idari para cezası, bir milyon Türk Lirasından az olmamak üzere işletmecinin bir önceki takvim yılındaki net satışlarının binde yedibuçuğunu geçemez.”
@@ -221,7 +221,7 @@ ibaresi ile aşağıdaki cümle, dokuzuncu fıkrasına “bu tutarları” ibare
 3. Banka veya kredi kartlarının kötüye kullanılması (madde 245), suçlarında kullanıldığı tespit edilen mobil haberleşme hattının bağlantısı, yürütülen soruşturma kapsamında hâkim kararı veya gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının yazılı emri üzerine mobil haberleşme hizmeti sunan işletmeci tarafından kesilir. Hâkim kararı olmaksızın yapılan işlem, yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, kararını bağlantının kesilmesinden itibaren kırksekiz saat içinde açıklar; aksi hâlde bağlantının kesilmesi tedbiri kendiliğinden kalkar. Bu fıkra uyarınca verilen karara veya yazılı emre rağmen ilgili hattın haberleşmesinin kesilmemesi halinde Cumhuriyet savcısı tarafından işletmeciye ellibin Türk Lirasından üçyüzbin Türk Lirasına kadar idari para cezası verilir.
 (19) Yürütülen bir soruşturma veya kovuşturma kapsamında Cumhuriyet savcısı, hâkim veya mahkeme tarafından işletmecilerden istenen bilgi veya belgenin on gün içinde fiziki veya elektronik ortamda gönderilmesi zorunludur. İstenen bilgi veya belgenin gönderilmemesi ya da eksik gönderilmesi halinde Cumhuriyet savcısı tarafından işletmeciye ellibin Türk Lirasından üçyüzbin Türk Lirasına kadar idari para cezası verilir.”
 
-MADDE 32- 5809 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 32-** 5809 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “Abonelik kayıtlarının güncellenmesi
 
 GEÇİCİ MADDE 8- (1) Mobil haberleşme hizmeti sunan işletmeciler nezdinde tutulan yabancı uyruklu gerçek kişilere ait abonelik kayıtlarının bu maddeyi ihdas eden Kanunla 50 nci maddede yapılan değişikliklere uygun hale getirilmesi amacıyla, bu fıkranın yürürlüğe girdiği tarihten itibaren altı ay içinde yabancı uyruklu gerçek kişiler, abonelik kayıtlarını güncellemek için ilgili işletmeciye başvurmak zorundadır. Kurum tarafından bu süre altı ay daha uzatılabilir. Başvuru üzerine ilgili işletmecilerce abonelik kayıtları, yapılan değişikliklere uygun hale getirilir.
@@ -235,30 +235,30 @@ Kurum tarafından bu süre altı ay daha uzatılabilir. Bu süre içinde yüküm
 Bu fıkra hükmü aynı hat bakımından bir kez uygulanır.
 (8) Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurum tarafından belirlenir.”
 
-MADDE 33- 20/6/2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanunun 12 nci maddesinin üçüncü fıkrasına “müşteri kimliğinin” ibaresinden sonra gelmek üzere “biyometrik yöntemlerle veya elektronik kimlik doğrulama kabiliyetini haiz kimlik belgeleriyle” ibaresi eklenmiştir.
+**MADDE 33-** 20/6/2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanunun 12 nci maddesinin üçüncü fıkrasına “müşteri kimliğinin” ibaresinden sonra gelmek üzere “biyometrik yöntemlerle veya elektronik kimlik doğrulama kabiliyetini haiz kimlik belgeleriyle” ibaresi eklenmiştir.
 
-MADDE 34- 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununa aşağıdaki geçici madde eklenmiştir.
+**MADDE 34-** 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununa aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 37- 2025 hesap dönemi ile geçici vergi dönemleri de dahil olmak üzere 2026 ve 2027 hesap dönemlerinde (kendilerine özel hesap dönemi tayin edilenlerde 2026, 2027 ve 2028 yılında biten hesap dönemleri itibarıyla) mükerrer 298 inci madde kapsamındaki enflasyon düzeltmesine ilişkin şartların oluşup oluşmadığına bakılmaksızın mali tablolar enflasyon düzeltmesine tabi tutulmaz. Bu fıkra kapsamında belirlenen dönemleri geçici vergi dönemleri de dahil olmak üzere üç hesap dönemine kadar uzatmaya Cumhurbaşkanı yetkilidir.
 Mükerrer 298 inci maddenin (Ç) fıkrası uygulaması açısından, birinci fıkrada enflasyon düzeltmesi yapılmayacağı belirtilen dönemler (yetki kapsamında uzatılan dönemler dahil) enflasyon düzeltmesi şartlarının gerçekleşmediği dönem olarak değerlendirilir.
 Bu madde hükümleri, geçici 33 üncü maddenin dördüncü fıkrası kapsamında olan mükellefler hakkında da uygulanır.
 Bu maddenin birinci ve ikinci fıkrası hükümleri, mükerrer 298 inci maddenin (A) fıkrasının (9) numaralı bendi kapsamında olan mükellefler bakımından geçerli değildir.
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı yetkilidir.”
 
-MADDE 35- 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun 733 üncü maddesinin birinci fıkrası aşağıdaki şekilde ve dördüncü fıkrasında yer alan “iki yıl” ibaresi “bir yıl” şeklinde değiştirilmiştir.
+**MADDE 35-** 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun 733 üncü maddesinin birinci fıkrası aşağıdaki şekilde ve dördüncü fıkrasında yer alan “iki yıl” ibaresi “bir yıl” şeklinde değiştirilmiştir.
 “8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu kapsamında yapılan satışlar ile cebrî artırmayla satışlarda önalım hakkı kullanılamaz.”
 
-MADDE 36- 4721 sayılı Kanunun 734 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 36-** 4721 sayılı Kanunun 734 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Dava konusu payın rayiç bedeli hâkim tarafından gecikmeksizin belirlenir. Önalım hakkı sahibi, belirlenen rayiç bedel ile alıcıya düşen tapu giderlerini nemalandırılmak üzere hâkim tarafından belirlenen yere verilen kesin süre içinde nakden yatırmakla yükümlüdür. Bu yükümlülük, verilen kesin süre içinde yerine getirilmezse önalım hakkı sahibi adına payın tesciline karar verilemez. Yatırılan bedel, hükmün kesinleşmesi üzerine nemalarıyla birlikte ilgilisine ödenir.”
 
-MADDE 37- 4721 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 37-** 4721 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 1- (1) Bu maddeyi ihdas eden Kanunla 4721 sayılı Kanunun 733 üncü maddesinde yapılan değişiklikler, bu değişikliklerin yürürlüğe girdiği tarihten önce yapılmış olan satışlar bakımından uygulanmaz. Bu satışlar bakımından değişiklikten önceki hükümlerin uygulanmasına devam olunur.
 (2) Bu maddeyi ihdas eden Kanunla 4721 sayılı Kanunun 734 üncü maddesinde yapılan değişiklikler, bu değişikliklerin yürürlüğe girdiği tarihten önce açılmış olan davalar hakkında da uygulanır.”
 
-MADDE 38- 4/7/2001 tarihli ve 631 sayılı Kanun Hükmünde Kararnameye aşağıdaki geçici madde eklenmiştir.
+**MADDE 38-** 4/7/2001 tarihli ve 631 sayılı Kanun Hükmünde Kararnameye aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 4- 4/12/2025 tarihli ve 7566 sayılı Kanunla bu Kanun Hükmünde Kararnamenin 12 nci maddesinin birinci fıkrasına eklenen cümleler 1/1/2025 tarihinden itibaren geçerli olmak üzere uygulanır.”
 
-MADDE 39- Bu Kanunun;
+**MADDE 39-** Bu Kanunun;
 a) 11 inci maddesi 26/12/2025 tarihinde,
 b) Diğer maddeleri yayımı tarihinde, yürürlüğe girer.
 
-MADDE 40- Bu Kanun hükümlerini Cumhurbaşkanı yürütür.
+**MADDE 40-** Bu Kanun hükümlerini Cumhurbaşkanı yürütür.

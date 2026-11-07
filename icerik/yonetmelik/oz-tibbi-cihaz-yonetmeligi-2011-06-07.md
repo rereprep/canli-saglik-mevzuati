@@ -14,11 +14,11 @@ durum: "yürürlükte"
 
 ### BİRİNCİ KISIM
 
-Amaç, Kapsam, Dayanak, Tanımlar ve Ürünlerin Mevzuat Durumu
+**Amaç, Kapsam, Dayanak, Tanımlar ve Ürünlerin Mevzuat Durumu**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -42,9 +42,9 @@ uygulanır.
 
 a) 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği kapsamında yer alan in vitro tanı cihazlarına,
 
-b) (Değişik:RG-29/7/2022-31907) 11/12/2021 tarihli ve 31686 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (b) bendinde tanımlandığı şekilde tıbbi ürünlere,
+b) **(Değişik:RG-29/7/2022-31907)** 11/12/2021 tarihli ve 31686 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (b) bendinde tanımlandığı şekilde tıbbi ürünlere,
 
-c) (Değişik:RG-29/7/2022-31907) Gen tedavisi tıbbi ürünlerini, somatik hücre tedavisi tıbbi ürünlerini ve doku mühendisliği ürünlerini kapsayan ileri tedavi tıbbi ürünlerine,
+c) **(Değişik:RG-29/7/2022-31907)** Gen tedavisi tıbbi ürünlerini, somatik hücre tedavisi tıbbi ürünlerini ve doku mühendisliği ürünlerini kapsayan ileri tedavi tıbbi ürünlerine,
 
 ç) İnsan kanına, kan ürünlerine, insan kaynaklı plazma veya kan hücrelerine ya da altıncı fıkrada atıfta bulunulan cihazlar hariç olmak üzere piyasaya arz edildiğinde ya da hizmete sunulduğunda bu gibi kan ürünlerini, plazma veya hücreleri ihtiva eden cihazlara,
 
@@ -62,11 +62,11 @@ uygulanmaz.
 
 (5) Piyasaya arz edildiğinde ya da hizmete sunulduğunda İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliğinin 3 üncü maddesinin (ü) bendinde tanımlanan bir in vitro tanı cihazını bütünleşik parça olarak ihtiva eden bir cihaz, bu Yönetmelik hükümlerine tabi olur. Cihazın in vitro tanı cihazı olan parçası için İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliği hükümleri uygulanır.
 
-(6) Bir ürünün; Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği ya da bu Yönetmelik kapsamında yer alıp almadığına karar verilirken, özellikle ürünün asli etki mekanizması dikkate alınır. Piyasaya arz edildiğinde veya hizmete sunulduğunda, Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (Değişik ibare:RG-29/7/2022-31907) (p) bendinde tanımlanan insan kanı veya insan plazmasından elde edilen bir tıbbi ürün de dâhil olmak üzere, ayrı olarak kullanıldığında aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (Değişik ibare:RG-29/7/2022-31907) (b) bendinde tanımlandığı şekilde bir tıbbi ürün olarak kabul edilen ve cihazın işlevine yardımcı olan bir maddeyi bütünleşik bir parça olarak ihtiva eden cihazlar bu Yönetmelik hükümlerine tabidir. Ancak bu madde, cihazın işlevine yardımcı olmayıp asli etki gösteriyor ise, bu bütünleşik ürün Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğine tabi olur. Bu durumda, bu Yönetmeliğin Ek I’inde belirtilen ilgili genel güvenlilik ve performans gereklilikleri, söz konusu cihaz parçasının güvenlilik ve performansına yönelik uygulanır.
+(6) Bir ürünün; Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği ya da bu Yönetmelik kapsamında yer alıp almadığına karar verilirken, özellikle ürünün asli etki mekanizması dikkate alınır. Piyasaya arz edildiğinde veya hizmete sunulduğunda, Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının **(Değişik ibare:RG-29/7/2022-31907)** (p) bendinde tanımlanan insan kanı veya insan plazmasından elde edilen bir tıbbi ürün de dâhil olmak üzere, ayrı olarak kullanıldığında aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının **(Değişik ibare:RG-29/7/2022-31907)** (b) bendinde tanımlandığı şekilde bir tıbbi ürün olarak kabul edilen ve cihazın işlevine yardımcı olan bir maddeyi bütünleşik bir parça olarak ihtiva eden cihazlar bu Yönetmelik hükümlerine tabidir. Ancak bu madde, cihazın işlevine yardımcı olmayıp asli etki gösteriyor ise, bu bütünleşik ürün Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğine tabi olur. Bu durumda, bu Yönetmeliğin Ek I’inde belirtilen ilgili genel güvenlilik ve performans gereklilikleri, söz konusu cihaz parçasının güvenlilik ve performansına yönelik uygulanır.
 
-(7) Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin tıbbi ürün ile ilgili hükümlerine halel gelmeksizin, aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (Değişik ibare:RG-29/7/2022-31907) (b) bendinde tanımlanan bir tıbbi ürünü tatbik etme amaçlı bir cihaz bu Yönetmeliğe tabi olur. Ancak, bir tıbbi ürünü tatbik etme amaçlı cihaz ve tıbbi ürün, yalnızca belirtilen kombinasyonda kullanımı amaçlanan ve tekrar kullanılmayan bütünleşik tek bir ürün oluşturacak şekilde piyasaya arz ediliyor ise, bu bütünleşik tek ürün Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğine tabi olur. Bu durumda, bu Yönetmeliğin Ek I’inde belirtilen ilgili genel güvenlilik ve performans gereklilikleri, bütünleşik tek ürünün cihaz parçasının güvenlilik ve performansına yönelik uygulanır.
+(7) Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin tıbbi ürün ile ilgili hükümlerine halel gelmeksizin, aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının **(Değişik ibare:RG-29/7/2022-31907)** (b) bendinde tanımlanan bir tıbbi ürünü tatbik etme amaçlı bir cihaz bu Yönetmeliğe tabi olur. Ancak, bir tıbbi ürünü tatbik etme amaçlı cihaz ve tıbbi ürün, yalnızca belirtilen kombinasyonda kullanımı amaçlanan ve tekrar kullanılmayan bütünleşik tek bir ürün oluşturacak şekilde piyasaya arz ediliyor ise, bu bütünleşik tek ürün Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğine tabi olur. Bu durumda, bu Yönetmeliğin Ek I’inde belirtilen ilgili genel güvenlilik ve performans gereklilikleri, bütünleşik tek ürünün cihaz parçasının güvenlilik ve performansına yönelik uygulanır.
 
-(8) Piyasaya arz edildiğinde veya hizmete sunulduğunda, cihazın fonksiyonuna yardımcı olmak üzere cansız insan kaynaklı dokuları veya hücreleri ya da bunların türevlerini bütünleşik bir parça olarak ihtiva eden cihazlar bu Yönetmelik hükümlerine tabidir. Bu durumda, bağışlama, tedarik etme, test etme, işleme, koruma, depolama ve dağıtım ile ilgili mevzuat hükümleri de uygulanır. Ancak bu dokular veya hücreler ya da bunların türevleri, cihazın işlevine yardımcı olmayıp asli etki gösteriyorsa ve bu ürün (Değişik ibare:RG-29/7/2022-31907) dördüncü fıkranın (c) bendinde atıfta bulunulan kapsamında yer alan ileri tedavi tıbbi ürün değil ise, bağışlama, tedarik etme, test etme, işleme, koruma, depolama ve dağıtım ile ilgili mevzuata tabi olur. Bu durumda, bu Yönetmeliğin Ek I’inde belirtilen ilgili genel güvenlilik ve performans gereklilikleri, söz konusu cihaz parçasının güvenlilik ve performansına yönelik uygulanır.
+(8) Piyasaya arz edildiğinde veya hizmete sunulduğunda, cihazın fonksiyonuna yardımcı olmak üzere cansız insan kaynaklı dokuları veya hücreleri ya da bunların türevlerini bütünleşik bir parça olarak ihtiva eden cihazlar bu Yönetmelik hükümlerine tabidir. Bu durumda, bağışlama, tedarik etme, test etme, işleme, koruma, depolama ve dağıtım ile ilgili mevzuat hükümleri de uygulanır. Ancak bu dokular veya hücreler ya da bunların türevleri, cihazın işlevine yardımcı olmayıp asli etki gösteriyorsa ve bu ürün **(Değişik ibare:RG-29/7/2022-31907)** dördüncü fıkranın (c) bendinde atıfta bulunulan kapsamında yer alan ileri tedavi tıbbi ürün değil ise, bağışlama, tedarik etme, test etme, işleme, koruma, depolama ve dağıtım ile ilgili mevzuata tabi olur. Bu durumda, bu Yönetmeliğin Ek I’inde belirtilen ilgili genel güvenlilik ve performans gereklilikleri, söz konusu cihaz parçasının güvenlilik ve performansına yönelik uygulanır.
 
 (9) Bu Yönetmelik kapsamında uygunluk değerlendirmesine tabi tutulan cihazlar için 2/10/2016 tarihli ve 29845 sayılı Resmî Gazete’de yayımlanan Elektromanyetik Uyumluluk Yönetmeliği (2014/30/AB) hükümleri aranmaz.
 
@@ -152,7 +152,7 @@ i) Cihaz kusuru: Arıza, kullanım hataları veya imalatçı tarafından sağlan
 
 j) Dağıtıcı: İmalatçı veya ithalatçı dışında tedarik zincirinde yer alan ve bir cihazı hizmete sunum noktasına kadar piyasada bulunduran gerçek veya tüzel kişiyi,
 
-k) Destekleyici (Sponsor): Klinik araştırmanın başlatılması, yönetilmesi ve finansmanının sağlanması (Değişik ibare:RG-2/4/2023-32151) sorumluluğunu alan kişi, şirket, kurum veya kuruluşu,
+k) Destekleyici (Sponsor): Klinik araştırmanın başlatılması, yönetilmesi ve finansmanının sağlanması **(Değişik ibare:RG-2/4/2023-32151)** sorumluluğunu alan kişi, şirket, kurum veya kuruluşu,
 
 l) Düzeltici faaliyet: Potansiyel veya mevcut bir uygunsuzluğun ya da istenmeyen diğer bir durumun nedenini ortadan kaldırmak için yürütülen faaliyeti,
 
@@ -212,7 +212,7 @@ ff) Klinik veri: Bir cihazın kullanımından elde edilen ve bu Yönetmelik uyar
 
 sağlanan güvenlilik ve performansa ilişkin bilgileri,
 
-gg) Komisyon: Avrupa (Mülga ibare:RG-29/7/2022-31907) Komisyonunu,
+gg) Komisyon: Avrupa **(Mülga ibare:RG-29/7/2022-31907)** Komisyonunu,
 
 ğğ) Kullanıcı: Bir cihazı kullanan sağlık profesyoneli veya meslekten olmayan kişiyi,
 
@@ -320,7 +320,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Ürünlerin Mevzuat Durumu
+**Ürünlerin Mevzuat Durumu**
 
 #### Ürünlerin mevzuata ilişkin durumu
 
@@ -330,11 +330,11 @@ ifade eder.
 
 ### İKİNCİ KISIM
 
-Cihazların Piyasada Bulundurulması ve Hizmete Sunumu, İktisadi İşletmecilerin Yükümlülükleri, Yeniden İşleme, CE İşareti, Serbest Dolaşım
+**Cihazların Piyasada Bulundurulması ve Hizmete Sunumu, İktisadi İşletmecilerin Yükümlülükleri, Yeniden İşleme, CE İşareti, Serbest Dolaşım**
 
 ### BİRİNCİ BÖLÜM
 
-Cihazların Piyasada Bulundurulması ve Hizmete Sunumu
+**Cihazların Piyasada Bulundurulması ve Hizmete Sunumu**
 
 #### Piyasaya arz ve hizmete sunum
 
@@ -416,7 +416,7 @@ c) Cihazın kullanım amacına uygun olarak kullanımı ile ilişkili muhtemel b
 
 ### İKİNCİ BÖLÜM
 
-İktisadi İşletmecilerin Yükümlülükleri
+**İktisadi İşletmecilerin Yükümlülükleri**
 
 #### İmalatçıların genel yükümlülükleri
 
@@ -474,7 +474,7 @@ ilişkin hususları içerir.
 
 (10) İmalatçılar; 81 inci madde uyarınca piyasaya arz sonrası gözetim sistemini uygular ve güncel tutar.
 
-(11) (Değişik cümle:RG-29/7/2022-31907) İmalatçılar; Ek I’in 23 numaralı maddesinde belirtilen bilgilerin 7223 sayılı Kanunun 7 nci maddesinin birinci fıkrasının (ğ) bendine uygun olacak şekilde ve uygulanabildiği durumlarda cihazın kullanıcıya ya da hastaya sunulduğu AB üyesi ülkenin belirlediği AB resmi dilinde/dillerinde olacak şekilde cihazın beraberinde bulunmasını sağlar. Etiket üzerindeki detaylar, silinemez, kolayca okunabilir ve hedeflenen kullanıcı veya hasta için açık bir şekilde anlaşılabilir olur.
+(11) **(Değişik cümle:RG-29/7/2022-31907)** İmalatçılar; Ek I’in 23 numaralı maddesinde belirtilen bilgilerin 7223 sayılı Kanunun 7 nci maddesinin birinci fıkrasının (ğ) bendine uygun olacak şekilde ve uygulanabildiği durumlarda cihazın kullanıcıya ya da hastaya sunulduğu AB üyesi ülkenin belirlediği AB resmi dilinde/dillerinde olacak şekilde cihazın beraberinde bulunmasını sağlar. Etiket üzerindeki detaylar, silinemez, kolayca okunabilir ve hedeflenen kullanıcı veya hasta için açık bir şekilde anlaşılabilir olur.
 
 (12) Piyasaya arz ettikleri veya hizmete sundukları bir cihazın bu Yönetmeliğe uygun olmadığını düşünen veya buna ilişkin gerekçesi olan imalatçılar; bu cihazı uygun hale getirmek, piyasadan çekmek veya geri çağırmak gibi gerekli düzeltici faaliyetlerden uygun olanını ivedilikle yapar. İmalatçılar, söz konusu cihazın dağıtıcılarını ve varsa yetkili temsilcisi ile ithalatçılarını bu doğrultuda bilgilendirir. Cihaz ciddi bir risk oluşturuyorsa, imalatçılar, özellikle uygunsuzluk ve yapılan her türlü düzeltici faaliyet hakkında, Kurumu ve/veya cihazı bulundurduğu AB üyesi ülkelerin yetkili otoritelerini ve varsa 56 ncı madde uyarınca cihaz için bir sertifika düzenleyen onaylanmış kuruluşu ivedilikle bilgilendirir.
 
@@ -676,11 +676,11 @@ b) Eğer cihazı pazarlamak için yeniden ambalajlama gerekliyse ve söz konusu 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Yeniden İşleme
+**Yeniden İşleme**
 
 #### Tek kullanımlık cihazlar ve bunların yeniden işlenmesi
 
-**MADDE 17 –** (1) (Değişik:RG-29/7/2022-31907) Tek kullanımlık cihazların yeniden işlenmesi ve yeniden kullanımı, Kurum tarafından yayımlanan kılavuzlara ve bu maddeye uygun olarak gerçekleştirilir.
+**MADDE 17 –** (1) **(Değişik:RG-29/7/2022-31907)** Tek kullanımlık cihazların yeniden işlenmesi ve yeniden kullanımı, Kurum tarafından yayımlanan kılavuzlara ve bu maddeye uygun olarak gerçekleştirilir.
 
 (2) Yeniden kullanıma uygun hale getirmek için tek kullanımlık bir cihazı yeniden işleyen herhangi bir gerçek veya tüzel kişi, yeniden işlenmiş cihazın imalatçısı olarak kabul edilir ve bu Yönetmeliğin Üçüncü Kısmı uyarınca yeniden işlenmiş cihazın izlenebilirliğine ilişkin yükümlülükler dâhil olmak üzere bu Yönetmelikte belirtilen ve imalatçılara düşen yükümlülükleri üstlenir. Cihazın yeniden işleyicisi, Ürün Güvenliği Teknik Düzenlemeler Kanununun 6 ncı maddesinin amaçları doğrultusunda imalatçı olarak kabul edilir.
 
@@ -714,7 +714,7 @@ c) Bu fıkra uyarınca uygulanan mevzuat hükümlerini ve bunları uygulama gere
 
 (5) Komisyonun yeniden işlemeyle ilişkili kabul ettiği ortak spesifikasyonlar geçerlidir. Ortak spesifikasyonlara veya ortak spesifikasyonların yokluğunda ilgili uyumlaştırılmış standartlara ve ilgili mevzuata uygunluk, bir onaylanmış kuruluş tarafından sertifikalandırılır.
 
-(6) (Değişik:RG-29/7/2022-31907) Yalnızca, bu Yönetmeliğe uygun olarak veya 26/5/2021 tarihinden önce, 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliğine uygun olarak piyasaya arz edilmiş olan tek kullanımlık cihazlar yeniden işlenebilir.
+(6) **(Değişik:RG-29/7/2022-31907)** Yalnızca, bu Yönetmeliğe uygun olarak veya 26/5/2021 tarihinden önce, 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliğine uygun olarak piyasaya arz edilmiş olan tek kullanımlık cihazlar yeniden işlenebilir.
 
 (7) Tek kullanımlık cihazlar, yalnızca en güncel bilimsel kanıtlara göre güvenli olduğu kabul edilen bir şekilde yeniden işlenebilir.
 
@@ -748,7 +748,7 @@ sağlar.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-CE İşareti, Serbest Dolaşım
+**CE İşareti, Serbest Dolaşım**
 
 #### AB uygunluk beyanı
 
@@ -824,15 +824,15 @@ beyan eder.
 
 ### ÜÇÜNCÜ KISIM
 
-Cihazların Tanımlanması ve İzlenebilirliği, Cihazların ve İktisadi İşletmecilerin Kaydı, Güvenlilik ve Klinik Performans Özeti, Tıbbi Cihazlara İlişkin Avrupa Veri Tabanı,
+**Cihazların Tanımlanması ve İzlenebilirliği, Cihazların ve İktisadi İşletmecilerin Kaydı, Güvenlilik ve Klinik Performans Özeti, Tıbbi Cihazlara İlişkin Avrupa Veri Tabanı,**
 
-Ulusal Ürün Takip Sistemi
+**Ulusal Ürün Takip Sistemi**
 
 ### BİRİNCİ BÖLÜM
 
-Cihazların Tanımlanması ve İzlenebilirliği, Cihazların ve
+**Cihazların Tanımlanması ve İzlenebilirliği, Cihazların ve**
 
-İktisadi İşletmecilerin Kaydı
+**İktisadi İşletmecilerin Kaydı**
 
 #### Tedarik zinciri içinde tanımlama
 
@@ -868,7 +868,7 @@ b) Cihazın etiketinin veya ambalajının üzerine UDI’nın yerleştirilmesind
 
 c) Sekizinci ve dokuzuncu fıkralarda belirtilen şartlar uyarınca, iktisadi işletmeciler, sağlık kuruluşları ve sağlık meslek mensupları tarafından UDI’nın kaydının tutulmasından.
 
-ç) 28 inci maddede atıfta bulunulan tekil cihaz kimliğine ilişkin bir elektronik sistemin (UDI veri tabanı) kurulmasından.
+ç) 28 inci maddede atıfta bulunulan tekil cihaz kimliğine ilişkin bir elektronik sistemin (**UDI veri tabanı**) kurulmasından.
 
 (2) Bu Yönetmelik uyarınca UDI’ların tahsisine yönelik kuruluş veya kuruluşlar Komisyon tarafından atanan kuruluşlardır.
 
@@ -904,9 +904,9 @@ c) Sağlık profesyonellerinin kendilerine tedarik edilmiş olan cihazların UDI
 
 **MADDE 29 –** (1) İmalatçı; ısmarlama imal edilen cihaz haricindeki bir cihazı piyasaya arz etmeden önce, 27 nci maddenin ikinci fıkrasında atıfta bulunulan tahsis kuruluşlarının kuralları uyarınca, cihaza Ek VI Kısım C’de tanımlandığı şekilde bir Temel UDI-DI tahsis eder ve bunu o cihazla ilgili Ek VI Kısım B’de atıfta bulunulan diğer temel veri ögeleriyle birlikte UDI veri tabanına girer.
 
-(2) Sorumlu gerçek veya tüzel kişi; ısmarlama imal edilen cihaz olmayan bir sistem veya işlem paketini 22 nci maddenin birinci ve üçüncü (Değişik ibare:RG-2/4/2023-32151) fıkraları uyarınca piyasaya arz etmeden önce, sistem veya işlem paketine tahsis kuruluşlarının kurallarına uygun olarak bir Temel UDI-DI tahsis eder ve bunu söz konusu sistemle veya işlem paketiyle ilgili Ek VI Kısım B’de atıfta bulunulan diğer temel veri ögeleriyle birlikte UDI veri tabanına girer.
+(2) Sorumlu gerçek veya tüzel kişi; ısmarlama imal edilen cihaz olmayan bir sistem veya işlem paketini 22 nci maddenin birinci ve üçüncü **(Değişik ibare:RG-2/4/2023-32151)** fıkraları uyarınca piyasaya arz etmeden önce, sistem veya işlem paketine tahsis kuruluşlarının kurallarına uygun olarak bir Temel UDI-DI tahsis eder ve bunu söz konusu sistemle veya işlem paketiyle ilgili Ek VI Kısım B’de atıfta bulunulan diğer temel veri ögeleriyle birlikte UDI veri tabanına girer.
 
-(3) 52 nci maddenin üçüncü fıkrasında ve 52 nci maddenin dördüncü fıkrasının (b) ve (c) bentlerinde atıfta bulunulan bir uygunluk değerlendirmesine tabi olan cihazlar için bu maddenin birinci fıkrasında atıfta bulunulan Temel UDI-DI tahsisi, imalatçının bir onaylanmış kuruluşa bu değerlendirme için başvurusundan önce gerçekleştirilir. (Değişik ikinci cümle:RG-29/7/2022-31907) Söz konusu cihazlar için onaylanmış kuruluş, Ek XII’nin I. Bölümünün 4 numaralı maddesinin (a) bendi uyarınca düzenlenen sertifika üzerinde Temel UDI-DI’ya atıf yapar ve Ek VI Kısım A’nın 2.2 numaralı maddesinde atıfta bulunulan bilgilerin doğruluğunu EUDAMED’de teyit eder. İmalatçı, ilgili sertifikanın düzenlenmesinden sonra ve cihazın piyasaya arzından önce, Temel UDI-DI’yı o cihazla ilgili Ek VI Kısım B’de atıfta bulunulan diğer temel veri ögeleriyle birlikte UDI veri tabanına girer.
+(3) 52 nci maddenin üçüncü fıkrasında ve 52 nci maddenin dördüncü fıkrasının (b) ve (c) bentlerinde atıfta bulunulan bir uygunluk değerlendirmesine tabi olan cihazlar için bu maddenin birinci fıkrasında atıfta bulunulan Temel UDI-DI tahsisi, imalatçının bir onaylanmış kuruluşa bu değerlendirme için başvurusundan önce gerçekleştirilir. **(Değişik ikinci cümle:RG-29/7/2022-31907)** Söz konusu cihazlar için onaylanmış kuruluş, Ek XII’nin I. Bölümünün 4 numaralı maddesinin (a) bendi uyarınca düzenlenen sertifika üzerinde Temel UDI-DI’ya atıf yapar ve Ek VI Kısım A’nın 2.2 numaralı maddesinde atıfta bulunulan bilgilerin doğruluğunu EUDAMED’de teyit eder. İmalatçı, ilgili sertifikanın düzenlenmesinden sonra ve cihazın piyasaya arzından önce, Temel UDI-DI’yı o cihazla ilgili Ek VI Kısım B’de atıfta bulunulan diğer temel veri ögeleriyle birlikte UDI veri tabanına girer.
 
 (4) İmalatçı; ısmarlama imal edilen cihaz haricindeki bir cihazı piyasaya arz etmeden önce, Ek VI’nın Kısım A’nın 2.2 numaralı maddesi hariç olmak üzere 2 numaralı maddesinde atıfta bulunulan bilgileri EUDAMED’e girer veya hâlihazırda girilmiş ise teyit eder ve sonrasında bu bilgileri güncel tutar.
 
@@ -936,7 +936,7 @@ c) Sağlık profesyonellerinin kendilerine tedarik edilmiş olan cihazların UDI
 
 ### İKİNCİ BÖLÜM
 
-Güvenlilik ve Klinik Performans Özeti
+**Güvenlilik ve Klinik Performans Özeti**
 
 #### Güvenlilik ve klinik performans özeti
 
@@ -968,7 +968,7 @@ g) Artık riskler ve istenmeyen etkiler hakkında bilgiler, uyarılar ve önleml
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Tıbbi Cihazlara İlişkin Avrupa Veri Tabanı, Ulusal Ürün Takip Sistemi
+**Tıbbi Cihazlara İlişkin Avrupa Veri Tabanı, Ulusal Ürün Takip Sistemi**
 
 #### Tıbbi cihazlara ilişkin Avrupa veri tabanı (EUDAMED)
 
@@ -1016,11 +1016,11 @@ f) 97 nci maddede atıfta bulunulan, piyasa gözetimi ve denetimine ilişkin ele
 
 ### DÖRDÜNCÜ KISIM
 
-Onaylanmış Kuruluşlar
+**Onaylanmış Kuruluşlar**
 
 ### BİRİNCİ BÖLÜM
 
-Onaylanmış Kuruluşlar
+**Onaylanmış Kuruluşlar**
 
 #### Onaylanmış kuruluşlardan sorumlu otorite
 
@@ -1186,11 +1186,11 @@ b) Onaylanmış kuruluşun bu Yönetmeliğin gerekliliklerine uygunluğunun sür
 
 (9) Kurum, onaylanmış kuruluşun Ek VII’de belirtilen gerekliliklere ilişkin uygunsuzlukları ile ilgili herhangi bir bulguyu dokümante eder ve kaydeder; düzeltici ve önleyici faaliyetlerin zamanında uygulanmasını izler.
 
-(10) (Değişik:RG-17/8/2024-32635) (3) Bir onaylanmış kuruluşun bildiriminden 5 yıl sonra ve bundan sonraki her 5 yılda bir, onaylanmış kuruluşun Ek VII’de belirtilen gereklilikleri karşılamaya devam edip etmediğini belirlemeye yönelik tam bir yeniden değerlendirme yürütülür. Bu değerlendirme, 39 uncu maddede tanımlanan prosedür uyarınca Kurum ile bir ortak değerlendirme ekibi tarafından gerçekleştirilir. Kurum; onaylanmış kuruluşun talebi üzerine veya dördüncü fıkra uyarınca gerçekleştirilen yıllık değerlendirmelerin sonuçlarına dayanarak onaylanmış kuruluşun Ek VII'de belirtilen gereklilikleri yerine getirmeye devam ettiğine ilişkin endişelerinin olması halinde, bu fıkrada atıfta bulunulan tarihlerden önce tam bir yeniden değerlendirme yürütebilir.
+(10) **(Değişik:RG-17/8/2024-32635) (3)** Bir onaylanmış kuruluşun bildiriminden 5 yıl sonra ve bundan sonraki her 5 yılda bir, onaylanmış kuruluşun Ek VII’de belirtilen gereklilikleri karşılamaya devam edip etmediğini belirlemeye yönelik tam bir yeniden değerlendirme yürütülür. Bu değerlendirme, 39 uncu maddede tanımlanan prosedür uyarınca Kurum ile bir ortak değerlendirme ekibi tarafından gerçekleştirilir. Kurum; onaylanmış kuruluşun talebi üzerine veya dördüncü fıkra uyarınca gerçekleştirilen yıllık değerlendirmelerin sonuçlarına dayanarak onaylanmış kuruluşun Ek VII'de belirtilen gereklilikleri yerine getirmeye devam ettiğine ilişkin endişelerinin olması halinde, bu fıkrada atıfta bulunulan tarihlerden önce tam bir yeniden değerlendirme yürütebilir.
 
 (11) Kurum, yılda en az bir kez, onaylanmış kuruluşlara ve varsa şube/temsilciliklerine ve yüklenicilerine ilişkin kendi izleme ve yerinde değerlendirme faaliyetleri hakkında Komisyon’a ve MDCG’ye bir rapor sunar. Rapor, yedinci fıkradaki faaliyetler dâhil olmak üzere bu fıkradaki faaliyetlerin sonuçlarının ayrıntılarını sağlar ve MDCG ile Komisyon tarafından gizli olarak işlem görür, ancak kamuya açık hale getirilen bir özet içerir. Raporun özeti, 57 nci maddede atıfta bulunulan elektronik sisteme yüklenir.
 
-Teknik dokümantasyona ve klinik değerlendirme dokümantasyonuna dair onaylanmış kuruluş değerlendirmesinin incelenmesi
+**Teknik dokümantasyona ve klinik değerlendirme dokümantasyonuna dair onaylanmış kuruluş değerlendirmesinin incelenmesi**
 
 **MADDE 45 –** (1) Kurum; onaylanmış kuruluşları sürekli izlemesinin bir parçası olarak, imalatçı tarafından sunulan bilgilere dayanarak onaylanmış kuruluşça varılan sonuçları doğrulamak amacıyla, onaylanmış kuruluşların imalatçıların teknik dokümantasyonuna ve özellikle Ek II’nin 6.1 numaralı maddesinin (c) ve (ç) bentlerinde atıfta bulunulduğu üzere klinik değerlendirme dokümantasyonuna dair değerlendirmelerini uygun örneklem büyüklüğünde inceler. Kurum tarafından gerçekleştirilen incelemeler; hem tesis dışında hem de yerinde yürütülür.
 
@@ -1244,7 +1244,7 @@ b) Bir başka onaylanmış kuruluşun, bu cihazlarla ilgili acil sorumlulukları
 
 **MADDE 47 –** (1) Bir onaylanmış kuruluş veya şube/temsilciliklerinin ya da yüklenicilerinin bir veya birden fazlası tarafından Ek VII’de belirtilen gerekliliklerin veya tabi oldukları yükümlülüklerin sürekli olarak yerine getirilmesine ilişkin endişeler Komisyonun dikkatine sunulduğunda Kurum talep üzerine ilgili onaylanmış kuruluşun atamasına ilişkin tüm bilgileri Komisyon’a sağlar.
 
-(2) Kurumun talebi üzerine ya da birinci fıkrada belirtilen durumlar söz konusu olduğunda kendi inisiyatifiyle Komisyon; Türkiye’de yerleşik bir onaylanmış kuruluşla ilgili olarak 39 uncu maddenin üçüncü ve dördüncü (Değişik ibare:RG-2/4/2023-32151) fıkralarında ifade edilen değerlendirme prosedürünü başlatabilir. Bu değerlendirmenin raporlanması ve çıktısı, 39 uncu maddede belirtilen ilkelere uygun olur. Alternatif olarak Komisyon MDCG ile birlikte; konunun ciddiyetine bağlı olarak 44 üncü madde uyarınca planlı izleme ve değerlendirme faaliyetleri kapsamında ve 44 üncü maddenin dördüncü fıkrasında ifade edilen yıllık değerlendirme planına uygun olarak yapılan yerinde değerlendirmeye Komisyonca oluşturulan listeden en fazla iki uzmanın katılımına imkân tanımasını Kurumdan talep edebilir.
+(2) Kurumun talebi üzerine ya da birinci fıkrada belirtilen durumlar söz konusu olduğunda kendi inisiyatifiyle Komisyon; Türkiye’de yerleşik bir onaylanmış kuruluşla ilgili olarak 39 uncu maddenin üçüncü ve dördüncü **(Değişik ibare:RG-2/4/2023-32151)** fıkralarında ifade edilen değerlendirme prosedürünü başlatabilir. Bu değerlendirmenin raporlanması ve çıktısı, 39 uncu maddede belirtilen ilkelere uygun olur. Alternatif olarak Komisyon MDCG ile birlikte; konunun ciddiyetine bağlı olarak 44 üncü madde uyarınca planlı izleme ve değerlendirme faaliyetleri kapsamında ve 44 üncü maddenin dördüncü fıkrasında ifade edilen yıllık değerlendirme planına uygun olarak yapılan yerinde değerlendirmeye Komisyonca oluşturulan listeden en fazla iki uzmanın katılımına imkân tanımasını Kurumdan talep edebilir.
 
 (3) Komisyonun, bir onaylanmış kuruluşun atanmasına yönelik gereklilikleri karşılamaya devam etmediğini tespit etmesi durumunda Kurum, Komisyonun talebi üzerine atamanın askıya alınması, kısıtlanması veya geri çekilmesi dâhil olmak üzere gerekli düzeltici tedbirleri alır. Kurum tarafından alınan gerekli düzeltici tedbirlerin yeterli görülmemesi durumunda Komisyon atamaya ilişkin kararını Kuruma bildirir. Bu karar doğrultusunda NANDO ve 57 nci maddede atıfta bulunulan elektronik sistem güncellenir.
 
@@ -1264,11 +1264,11 @@ b) Bir başka onaylanmış kuruluşun, bu cihazlarla ilgili acil sorumlulukları
 
 ### BEŞİNCİ KISIM
 
-Sınıflandırma ve Uygunluk Değerlendirme
+**Sınıflandırma ve Uygunluk Değerlendirme**
 
 ### BİRİNCİ BÖLÜM
 
-Sınıflandırma
+**Sınıflandırma**
 
 #### Cihazların sınıflandırılması
 
@@ -1284,7 +1284,7 @@ c) İhtilafa konu olan onaylanmış kuruluşun, yurt dışında olması durumund
 
 ### İKİNCİ BÖLÜM
 
-Uygunluk Değerlendirmesi
+**Uygunluk Değerlendirmesi**
 
 #### Uygunluk değerlendirme prosedürleri
 
@@ -1434,11 +1434,11 @@ kapsar.
 
 ### ALTINCI KISIM
 
-Klinik Değerlendirme ve Klinik Araştırmalar
+**Klinik Değerlendirme ve Klinik Araştırmalar**
 
 ### BİRİNCİ BÖLÜM
 
-Klinik Değerlendirme ve Klinik Araştırmalar
+**Klinik Değerlendirme ve Klinik Araştırmalar**
 
 #### Klinik değerlendirme
 
@@ -1506,7 +1506,7 @@ dayalı olarak verilir. Bu gibi durumda imalatçı, genel güvenlilik ve perform
 
 #### Cihazların uygunluğunu göstermek için yürütülen klinik araştırmalarla ilgili genel gereklilikler
 
-**MADDE 62 –** (1) (Değişik cümle:RG-29/7/2022-31907) Klinik araştırmaların uygunluk değerlendirme amaçlarına yönelik klinik değerlendirmenin bir parçası olarak yürütülmesi durumunda klinik araştırmalar, Komisyonca kabul edilen ilgili tasarruflara ilaveten, bu madde ile birlikte 63 ila 79 uncu maddeler ve Ek XV uyarınca, aşağıdaki amaçlardan biri veya daha fazlası için tasarlanır, yetkilendirilir, yürütülür, kaydedilir ve raporlanır:
+**MADDE 62 –** (1) **(Değişik cümle:RG-29/7/2022-31907)** Klinik araştırmaların uygunluk değerlendirme amaçlarına yönelik klinik değerlendirmenin bir parçası olarak yürütülmesi durumunda klinik araştırmalar, Komisyonca kabul edilen ilgili tasarruflara ilaveten, bu madde ile birlikte 63 ila 79 uncu maddeler ve Ek XV uyarınca, aşağıdaki amaçlardan biri veya daha fazlası için tasarlanır, yetkilendirilir, yürütülür, kaydedilir ve raporlanır:
 
 a) Normal kullanım koşulları altında, bir cihazın 3 üncü maddenin birinci fıkrasının (eee) bendinde listelenen spesifik amaçların biri veya daha fazlası için uygun olacak şekilde tasarlandığını, imal edildiğini, ambalajlandığını ve imalatçısı tarafından belirtildiği şekilde amaçlanan performansa ulaştığını saptamak ve doğrulamak.
 
@@ -1522,7 +1522,7 @@ a) İnsan Gönüllüleri Üzerinde Yapılan Tıbbi Araştırmalarda Etik İlkele
 
 b) Bir klinik araştırmaya iştirak eden gönüllülerin haklarının, güvenliğinin, onurunun ve refahının korunacağı ve diğer tüm çıkarlardan üstün geleceği, elde edilen klinik verilerin bilimsel olarak geçerli, güvenilir ve sağlam olacağı bir şekilde tasarlanır ve yürütülür.
 
-c) Bilimsel ve etik incelemeye tabi olur. Etik inceleme, (Ek ibare:RG-29/7/2022-31907) ilgili mevzuat uyarınca Kurum onayı ile kurularak Kurum web sayfasında yayımlanan listede yer alan bir etik kurul tarafından gerçekleştirilir. Kurum, klinik araştırma izin başvurusu incelemesine yönelik etik kurul prosedürlerinin, bu Yönetmeliğe uygun olmasını sağlar. Etik incelemede, meslekten olmayan en az bir kişi görev alır.
+c) Bilimsel ve etik incelemeye tabi olur. Etik inceleme, **(Ek ibare:RG-29/7/2022-31907)** ilgili mevzuat uyarınca Kurum onayı ile kurularak Kurum web sayfasında yayımlanan listede yer alan bir etik kurul tarafından gerçekleştirilir. Kurum, klinik araştırma izin başvurusu incelemesine yönelik etik kurul prosedürlerinin, bu Yönetmeliğe uygun olmasını sağlar. Etik incelemede, meslekten olmayan en az bir kişi görev alır.
 
 (4) Birinci fıkrada atıfta bulunulduğu şekliyle bir klinik araştırma, yalnızca aşağıdaki koşulların tamamı karşılandığında yürütülebilir:
 
@@ -1704,7 +1704,7 @@ c) Kurum, açıklamaların veya talep edilen ilave bilgilerin alınmasından iti
 
 (7) Sponsor;
 
-a) Araştırma amaçlı sınıf I cihazlar ya da invaziv olmayan sınıf IIa ve sınıf IIb cihazlar söz konusu olduğunda (Ek ibare:RG-17/8/2024-32635) tıbbi cihazlarla ilgili klinik araştırmalara ilişkin ilgili ulusal mevzuatta aksi belirtilmediği sürece beşinci fıkra uyarınca başvurunun geçerlilik tarihinden sonra ivedilikle ve etik kurulun klinik araştırmaya ilişkin olarak ilgili mevzuat kapsamında olumsuz bir görüş vermemesi şartıyla,
+a) Araştırma amaçlı sınıf I cihazlar ya da invaziv olmayan sınıf IIa ve sınıf IIb cihazlar söz konusu olduğunda **(Ek ibare:RG-17/8/2024-32635)** tıbbi cihazlarla ilgili klinik araştırmalara ilişkin ilgili ulusal mevzuatta aksi belirtilmediği sürece beşinci fıkra uyarınca başvurunun geçerlilik tarihinden sonra ivedilikle ve etik kurulun klinik araştırmaya ilişkin olarak ilgili mevzuat kapsamında olumsuz bir görüş vermemesi şartıyla,
 
 b) (a) bendinde atıfta bulunulanlar haricindeki araştırma amaçlı cihazlar söz konusu olduğunda, Kurum klinik araştırma iznini sponsora bildirir bildirmez ve etik kurulun klinik araştırmaya ilişkin olarak ilgili mevzuat kapsamında olumsuz bir görüş vermemesi şartıyla,
 
@@ -1824,7 +1824,7 @@ c) Sponsordan klinik araştırmanın herhangi bir hususunu değiştirmesini tale
 
 (4) Bir başvurunun Kurumun kararından önce sponsor tarafından geri çekilmesi durumunda, bu bilgi 73 üncü maddede atıfta bulunulan elektronik sistem vasıtasıyla AB üyesi ülkelere ve Komisyon’a sunulur.
 
-Bir klinik araştırma sona erdiğinde, geçici olarak durdurulduğunda veya erken sonlandırıldığında sponsordan gelen bilgiler
+**Bir klinik araştırma sona erdiğinde, geçici olarak durdurulduğunda veya erken sonlandırıldığında sponsordan gelen bilgiler**
 
 **MADDE 77 –** (1) Sponsor, bir klinik araştırmayı geçici olarak durdurursa veya erken sonlandırırsa; gerekçesini belirtmek suretiyle bu durumu, 73 üncü maddede atıfta bulunulan elektronik sistem vasıtasıyla 15 gün içerisinde Kuruma bildirir. Sponsor, güvenlik gerekçeleriyle klinik araştırmayı geçici olarak durdurması veya erken sonlandırması halinde, bu durumu 24 saat içerisinde Kuruma bildirir.
 
@@ -1856,7 +1856,7 @@ c) Bildirim tarihinden itibaren 10 gün içerisinde, klinik araştırmanın bu Y
 
 ç) Değerlendirmesinin sonuçlarını, kabul tarihinden itibaren 26 gün içerisinde ilgili ülkelere iletilecek olan bir taslak değerlendirme raporu şeklinde oluşturur. Kabul tarihinden itibaren 38 güne kadar, taslak değerlendirme raporu ve esas başvuru hakkında ilgili AB üyesi ülkelerden gelen yorumlar ve öneriler Kurumca dikkate alınır. Kurum kabul tarihinden itibaren 45 gün içerisinde sponsora ve diğer ilgili ülkelere iletilecek olan nihai değerlendirme raporunu neticelendirmesinde bu yorumları ve önerileri dikkate alır.
 
-(5) (Ek:RG-29/7/2022-31907) (1) AB üyesi ülkelerden birinin koordinatör ülke olduğu hallerde, 70 inci maddenin yedinci fıkrası uyarınca sponsorun başvurusu hakkında karar verilirken nihai değerlendirme raporu Kurum tarafından dikkate alınır.
+(5) **(Ek:RG-29/7/2022-31907) (1)** AB üyesi ülkelerden birinin koordinatör ülke olduğu hallerde, 70 inci maddenin yedinci fıkrası uyarınca sponsorun başvurusu hakkında karar verilirken nihai değerlendirme raporu Kurum tarafından dikkate alınır.
 
 (6) Üçüncü fıkranın ikinci cümlesinde atıfta bulunulan dokümantasyonun değerlendirilmesi hususunda, Kurum da dâhil olmak üzere ilgili her ülke tek seferliğine sponsordan ilave bilgiler talep edebilir. Sponsor, talep edilen ilave bilgileri, talebin alınmasından sonra 12 günü aşmayan ve ilgili ülke tarafından belirlenen süre içerisinde sunar. Dördüncü fıkranın (ç) bendinde belirtilen en son sürenin bitişi, talep tarihinden itibaren ilave bilgilerin alındığı zamana kadar dondurulur.
 
@@ -1882,7 +1882,7 @@ c) İlgili ülkelerden birinin (b) bendine dayanarak karara katılmaması durumu
 
 (10) Kurum, aşağıdaki durumlarda bir klinik araştırma için izin vermeyi reddeder ve Kurumca oluşturulan itiraz prosedürü kapsamında bu karara itirazda bulunulabilir:
 
-a) (Değişik ibare:RG-29/7/2022-31907) Sekizinci fıkranın (b) bendinde atıfta bulunulan gerekçelerden herhangi birine göre koordinatör ülkenin kararına katılmazsa.
+a) **(Değişik ibare:RG-29/7/2022-31907)** Sekizinci fıkranın (b) bendinde atıfta bulunulan gerekçelerden herhangi birine göre koordinatör ülkenin kararına katılmazsa.
 
 b) Ek XV’in II. Bölümünün 1.13, 3.1.3, 4.2, 4.3 ve 4.4 numaralı maddelerinde ele alınan hususlara uyulmadığını usulünce gerekçelendirilmiş esaslarla ortaya çıkarırsa.
 
@@ -1890,7 +1890,7 @@ c) Bir etik kurulun bu klinik araştırmaya ilişkin olumsuz bir görüş vermes
 
 (11) İlgili her ülke, 73 üncü maddede atıfta bulunulan elektronik sistem vasıtasıyla klinik araştırma için izin verilip verilmediğini, koşullu olarak izin verilip verilmediğini ya da iznin reddedilmiş olup olmadığını sponsora bildirir. Bildirim, nihai değerlendirme raporunun koordinatör ülke tarafından dördüncü fıkranın (ç) bendi uyarınca iletiminden itibaren 5 gün içerisinde tek bir karar yoluyla yapılır. Bir klinik araştırmaya koşullu olarak izin verilmesi, ancak bu koşullar izin verme sırasında yerine getirilemeyecekse mümkün olur.
 
-(12) 75 inci maddede atıfta bulunulduğu üzere önemli değişiklikler, 73 üncü maddede atıfta bulunulan elektronik sistem vasıtasıyla ilgili ülkelere bildirilir. İlgili her ülke tarafından ayrı ayrı değerlendirilen Ek XV’in II. Bölümünün 1.13, 3.1.3, 4.2, 4.3 ve 4.4 numaralı maddelerine ilişkin önemli değişiklikler hariç olmak üzere, (Değişik ibare:RG-29/7/2022-31907) Sekizinci fıkranın (b) bendinde atıfta bulunulan ihtilaflara yönelik dayanakların varlığına ilişkin her bir değerlendirme, koordinatör ülkenin yönlendirmesi altında yürütülür.
+(12) 75 inci maddede atıfta bulunulduğu üzere önemli değişiklikler, 73 üncü maddede atıfta bulunulan elektronik sistem vasıtasıyla ilgili ülkelere bildirilir. İlgili her ülke tarafından ayrı ayrı değerlendirilen Ek XV’in II. Bölümünün 1.13, 3.1.3, 4.2, 4.3 ve 4.4 numaralı maddelerine ilişkin önemli değişiklikler hariç olmak üzere, **(Değişik ibare:RG-29/7/2022-31907)** Sekizinci fıkranın (b) bendinde atıfta bulunulan ihtilaflara yönelik dayanakların varlığına ilişkin her bir değerlendirme, koordinatör ülkenin yönlendirmesi altında yürütülür.
 
 #### Klinik araştırmalar sırasında meydana gelen advers olayların kaydedilmesi ve raporlanması
 
@@ -1926,7 +1926,7 @@ a) Sponsorun 78 inci maddede atıfta bulunulan tek başvuruyu kullandığı bir 
 
 b) İlgili ülkeler; 78 inci maddenin ikinci fıkrasında atıfta bulunulan koordinatör ülkenin yönlendirmesi altında, bir klinik araştırmada değişiklik yapılıp yapılmayacağına, klinik araştırmanın askıya alınıp alınmayacağına veya sonlandırılıp sonlandırılmayacağına ya da bu klinik araştırmaya yönelik iznin iptal edilip edilmeyeceğine karar vermek için, ciddi advers olaylar ve cihaz kusurları hakkındaki değerlendirmelerini koordine ederler.
 
-c) (Değişik cümle:RG-29/7/2022-31907) Kurumun; bu fıkrada belirtilen hususlarla ilgili olarak, kamu sağlığının ve hasta güvenliğinin korunmasını sağlamak amacıyla, bu Yönetmelik uyarınca kendi değerlendirmelerini yapma ve gerektiğinde ilave tedbirler alma hakkı saklıdır. Koordinatör ülke ve Komisyon, bu tür değerlendirmelerin sonucu ve bu tür tedbirlerin alınması hakkında daima bilgilendirilir.
+c) **(Değişik cümle:RG-29/7/2022-31907)** Kurumun; bu fıkrada belirtilen hususlarla ilgili olarak, kamu sağlığının ve hasta güvenliğinin korunmasını sağlamak amacıyla, bu Yönetmelik uyarınca kendi değerlendirmelerini yapma ve gerektiğinde ilave tedbirler alma hakkı saklıdır. Koordinatör ülke ve Komisyon, bu tür değerlendirmelerin sonucu ve bu tür tedbirlerin alınması hakkında daima bilgilendirilir.
 
 (5) 74 üncü maddenin birinci fıkrasında atıfta bulunulan piyasaya arz sonrası klinik takip araştırmaları durumunda, bu madde yerine 85 ila 88 inci maddelerde ve Komisyonca kabul edilen tasarruflarda belirtilen vijilansa ilişkin hükümler uygulanır.
 
@@ -1940,11 +1940,11 @@ c) (Değişik cümle:RG-29/7/2022-31907) Kurumun; bu fıkrada belirtilen hususla
 
 ### YEDİNCİ KISIM
 
-Piyasaya Arz Sonrası Gözetim, Vijilans ve Piyasa Gözetimi ve Denetimi
+**Piyasaya Arz Sonrası Gözetim, Vijilans ve Piyasa Gözetimi ve Denetimi**
 
 ### BİRİNCİ BÖLÜM
 
-Piyasaya Arz Sonrası Gözetim
+**Piyasaya Arz Sonrası Gözetim**
 
 #### İmalatçıların piyasaya arz sonrası gözetim sistemi
 
@@ -2014,7 +2014,7 @@ c) Sınıf IIa cihazların imalatçıları, gerektiğinde ve asgari olarak her 2
 
 ### İKİNCİ BÖLÜM
 
-Vijilans
+**Vijilans**
 
 #### Ciddi olumsuz olayların ve saha güvenliği düzeltici faaliyetlerin raporlanması
 
@@ -2048,7 +2048,7 @@ c) Olumsuz olayların yaygın olduğu ve iyi bir şekilde dokümante edildiği,
 
 benzer ciddi olumsuz olaylar için 87 nci maddenin dokuzuncu fıkrasında atıfta bulunulan koordinatör yetkili otoritenin 89 uncu maddenin yedinci fıkrasında atıfta bulunulduğu üzere Kurum ve diğer yetkili otoritelere danışarak periyodik özet raporlamasının şekli, içeriği ve sıklığı konusunda imalatçıyla mutabık kalması şartıyla, ayrı ayrı ciddi olumsuz olay raporları yerine periyodik özet raporları sunabilir. 89 uncu maddenin yedinci fıkrasında ifade edilen yetkili otoritelerin tek bir yetkili otorite olması durumunda imalatçı, bu yetkili otoriteyle mutabık kaldıktan sonra periyodik özet raporları sunabilir.
 
-(10) Birinci fıkranın (a) bendinde atıfta bulunulan şüpheli ciddi olumsuz olaylar; sağlık profesyonelleri, kullanıcılar ve hastalar tarafından Kuruma raporlanır. Kurum, bu raporları merkezi olarak kaydeder. (Ek cümle:RG-29/7/2022-31907) Kurum; sağlık profesyonellerinin, kullanıcıların ve hastaların bu tür raporları sunma konusunda gerekli hassasiyeti göstermelerini sağlamak üzere, hedefe yönelik bilgilendirme faaliyetleri düzenlemek gibi uygun tedbirleri alır.
+(10) Birinci fıkranın (a) bendinde atıfta bulunulan şüpheli ciddi olumsuz olaylar; sağlık profesyonelleri, kullanıcılar ve hastalar tarafından Kuruma raporlanır. Kurum, bu raporları merkezi olarak kaydeder. **(Ek cümle:RG-29/7/2022-31907)** Kurum; sağlık profesyonellerinin, kullanıcıların ve hastaların bu tür raporları sunma konusunda gerekli hassasiyeti göstermelerini sağlamak üzere, hedefe yönelik bilgilendirme faaliyetleri düzenlemek gibi uygun tedbirleri alır.
 
 (11) Bu Yönetmelik uyarınca;
 
@@ -2080,7 +2080,7 @@ c) İlgili cihazın imalatçısının olumsuz olayın ciddi bir olumsuz olay olm
 
 a) 1 inci maddenin altıncı fıkrasının ikinci cümlesinde atıfta bulunulan cihazlar söz konusu olduğunda ve ciddi olumsuz olayın veya saha güvenliği düzeltici faaliyetinin, tek başına kullanıldığında tıbbi ürün olarak kabul edilen bir maddeyle ilgili olabileceği durumda; 52 nci maddenin sekizinci fıkrası kapsamında söz konusu maddeye ilişkin bilimsel görüşü hangisinin verdiğine bağlı olarak ilgili yetkili otoriteyi veya Avrupa İlaç Ajansı (EMA)’nı bu ciddi olumsuz olay veya saha güvenliği düzeltici faaliyeti hakkında bilgilendirir.
 
-b) 1 inci maddenin üçüncü fıkrasının (Değişik ibare:RG-17/8/2024-32635) (ç) bendi uyarınca bu Yönetmelik kapsamındaki cihazlar söz konusu olduğunda ve ciddi olumsuz olayın veya saha güvenliği düzeltici faaliyetinin cihazın imalatı için kullanılan insan kaynaklı dokuların veya hücrelerin türevleri ile ilgili olabileceği durumda ve 1 inci maddenin sekizinci fıkrası uyarınca bu Yönetmelik kapsamına giren cihazlar söz konusu olduğunda, 52 nci maddenin dokuzuncu fıkrası uyarınca onaylanmış kuruluş tarafından insan dokuları ve hücreleri için danışılan yetkili otoriteyi bilgilendirir.
+b) 1 inci maddenin üçüncü fıkrasının **(Değişik ibare:RG-17/8/2024-32635)** (ç) bendi uyarınca bu Yönetmelik kapsamındaki cihazlar söz konusu olduğunda ve ciddi olumsuz olayın veya saha güvenliği düzeltici faaliyetinin cihazın imalatı için kullanılan insan kaynaklı dokuların veya hücrelerin türevleri ile ilgili olabileceği durumda ve 1 inci maddenin sekizinci fıkrası uyarınca bu Yönetmelik kapsamına giren cihazlar söz konusu olduğunda, 52 nci maddenin dokuzuncu fıkrası uyarınca onaylanmış kuruluş tarafından insan dokuları ve hücreleri için danışılan yetkili otoriteyi bilgilendirir.
 
 (7) Kurum; üçüncü fıkra uyarınca değerlendirme yaptıktan sonra, altta yatan olaylara ve değerlendirmesinin çıktılarına ilişkin bilgiler dâhil olmak üzere ciddi olumsuz olayın tekrarlanma riskini en aza indirmek için imalatçı tarafından alınan veya öngörülen ya da ondan talep edilen düzeltici faaliyet hakkında diğer yetkili otoriteleri, 89 uncu maddede atıfta bulunulan elektronik sistem vasıtasıyla gecikmeksizin bilgilendirir.
 
@@ -2140,7 +2140,7 @@ e) 87 nci maddenin yedinci ve dokuzuncu fıkralar uyarınca Türkiye ve AB üyes
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Piyasa Gözetimi ve Denetimi
+**Piyasa Gözetimi ve Denetimi**
 
 #### Piyasa gözetimi ve denetimi faaliyetleri
 
@@ -2166,7 +2166,7 @@ b) Tedarikçiler ve/veya yükleniciler ile birlikte iktisadi işletmecilerin tes
 
 (9) Kurum; uyumlaştırılmış ve yüksek seviyede bir piyasa gözetimi ve denetimi sağlamak üzere piyasa gözetimi ve denetimi faaliyetlerini koordine eder, AB üyesi ülkelerin yetkili otoriteleri ile iş birliği yapar ve faaliyetlerinin sonuçlarını AB üyesi ülkelerin yetkili otoriteleriyle ve Komisyonla paylaşır. Kurum ve AB üyesi ülkelerin yetkili otoriteleri; uygun olduğu hallerde, iş paylaşımı, ortak piyasa gözetimi ve denetimi faaliyetleri ve uzmanlaşma konularında mutabık kalır.
 
-Kabul edilemez bir risk veya başka bir uygunsuzluk teşkil ettiğinden şüphelenilen cihazların değerlendirilmesi
+**Kabul edilemez bir risk veya başka bir uygunsuzluk teşkil ettiğinden şüphelenilen cihazların değerlendirilmesi**
 
 **MADDE 91 –** (1) Kurum; vijilans veya piyasa gözetimi ve denetimi faaliyetlerinden elde edilen verilere ya da diğer bilgilere dayanarak, bir cihazın;
 
@@ -2252,11 +2252,11 @@ e) 90 ıncı maddenin sekizinci fıkrasında atıfta bulunulan, Türkiye ve AB �
 
 ### SEKİZİNCİ KISIM
 
-Ülkeler Arası İş Birliği, Tıbbi Cihaz Koordinasyon Grubu ve Cihaz Kayıtları
+**Ülkeler Arası İş Birliği, Tıbbi Cihaz Koordinasyon Grubu ve Cihaz Kayıtları**
 
 ### BİRİNCİ BÖLÜM
 
-Ülkeler Arası İş Birliği, Tıbbi Cihaz Koordinasyon Grubu ve Cihaz Kayıtları
+**Ülkeler Arası İş Birliği, Tıbbi Cihaz Koordinasyon Grubu ve Cihaz Kayıtları**
 
 #### Yetkili otoriteler
 
@@ -2286,11 +2286,11 @@ e) 90 ıncı maddenin sekizinci fıkrasında atıfta bulunulan, Türkiye ve AB �
 
 ### DOKUZUNCU KISIM
 
-Gizlilik, Verilerin Korunması, Finansman ve Cezalar
+**Gizlilik, Verilerin Korunması, Finansman ve Cezalar**
 
 ### BİRİNCİ BÖLÜM
 
-Gizlilik, Verilerin Korunması, Finansman ve Cezalar
+**Gizlilik, Verilerin Korunması, Finansman ve Cezalar**
 
 #### Gizlilik
 
@@ -2320,11 +2320,11 @@ için görevlerini yerine getirirken elde edilen bilgilerin ve verilerin gizlili
 
 ### ONUNCU KISIM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 ### BİRİNCİ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Aykırı davranışlar hakkında uygulanacak hükümler ve cezalar
 
@@ -2350,15 +2350,15 @@ c) Tıbbi cihazlarına ilişkin 5/4/2017 tarihli ve (AB) 2017/745 sayılı Avrup
 
 ç) Tıbbi cihazlara ilişkin 5/4/2017 tarihli ve (AB) 2017/745 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü tadil eden 23/4/2020 tarihli ve (AB) 2020/561 sayılı Avrupa Parlamentosu ve Konsey Tüzüğü,
 
-d) (Ek:RG-2/4/2023-32151) (Mülga:RG-17/8/2024-32635)
+d) **(Ek:RG-2/4/2023-32151) (Mülga:RG-17/8/2024-32635)**
 
-e) (Ek:RG-2/4/2023-32151) (AB) 2017/745 sayılı ve (AB) 2017/746 sayılı Tüzükleri belirli tıbbi cihazların ve in vitro tanı amaçlı tıbbi cihazların geçiş hükümleri bakımından tadil eden 15/3/2023 tarihli ve (AB) 2023/607 sayılı Avrupa Parlamentosu ve Konsey Tüzüğü,
+e) **(Ek:RG-2/4/2023-32151)** (AB) 2017/745 sayılı ve (AB) 2017/746 sayılı Tüzükleri belirli tıbbi cihazların ve in vitro tanı amaçlı tıbbi cihazların geçiş hükümleri bakımından tadil eden 15/3/2023 tarihli ve (AB) 2023/607 sayılı Avrupa Parlamentosu ve Konsey Tüzüğü,
 
-f) (Ek:RG-17/8/2024-32635) (AB) 2017/745 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü onaylanmış kuruluşların tam yeniden değerlendirilmesinin sıklığı bakımından tadil eden 1/12/2022 tarihli ve (AB) 2023/502 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü,
+f) **(Ek:RG-17/8/2024-32635)** (AB) 2017/745 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü onaylanmış kuruluşların tam yeniden değerlendirilmesinin sıklığı bakımından tadil eden 1/12/2022 tarihli ve (AB) 2023/502 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü,
 
-g) (Ek:RG-17/8/2024-32635) (AB) 2017/745 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü kontakt lenslere Tekil Cihaz Kimliklerinin tahsis edilmesi bakımından tadil eden 10/7/2023 tarihli ve (AB) 2023/2197 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü,
+g) **(Ek:RG-17/8/2024-32635)** (AB) 2017/745 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü kontakt lenslere Tekil Cihaz Kimliklerinin tahsis edilmesi bakımından tadil eden 10/7/2023 tarihli ve (AB) 2023/2197 sayılı Yetki Devrine Dayanan Komisyon Tüzüğü,
 
-ğ) (Ek:RG-17/8/2024-32635) (AB) 2017/745 ve (AB) 2017/746 sayılı Tüzükleri Eudamed'in kademeli olarak uygulanması, tedarikin kesintiye uğraması durumunda bilgilendirme yükümlülüğü ve belirli in vitro tanı amaçlı tıbbi cihazlara ilişkin geçiş hükümleri bakımından tadil eden 13/6/2024 tarihli ve (AB) 2024/1860 sayılı Avrupa Parlamentosu ve Konsey Tüzüğü,
+ğ) **(Ek:RG-17/8/2024-32635)** (AB) 2017/745 ve (AB) 2017/746 sayılı Tüzükleri Eudamed'in kademeli olarak uygulanması, tedarikin kesintiye uğraması durumunda bilgilendirme yükümlülüğü ve belirli in vitro tanı amaçlı tıbbi cihazlara ilişkin geçiş hükümleri bakımından tadil eden 13/6/2024 tarihli ve (AB) 2024/1860 sayılı Avrupa Parlamentosu ve Konsey Tüzüğü,
 
 dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
 
@@ -2370,13 +2370,13 @@ dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmış
 
 #### Geçiş hükümleri
 
-**GEÇİCİ MADDE 1 –** (1) (Değişik:RG-17/8/2024-32635) (4) 110 uncu madde ile yürürlükten kaldırılan Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin;
+**GEÇİCİ MADDE 1 –** (1) **(Değişik:RG-17/8/2024-32635) (4)** 110 uncu madde ile yürürlükten kaldırılan Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin;
 
 a) 9 uncu ve 12 nci maddeleri, 13 üncü maddesinin altıncı fıkrasının (c) ve (ç) bentleri ve ilgili eklerinde belirtilen vijilans ve klinik araştırmalarla ilgili yükümlülükler, bu Yönetmeliğin sırasıyla 33 üncü maddesinin ikinci fıkrasının (d) ve (e) bentlerinde atıfta bulunulan elektronik sistemlere ilişkin yükümlülüklerin ve gerekliliklerin uygulanması bakımından, bu Yönetmeliğin 111 inci maddesinin birinci fıkrasının (a) bendinde atıfta bulunulan tarihe kadar uygulanmaya devam eder.
 
 b) 13 üncü maddesinin iki ila beşinci fıkraları ile altıncı fıkrasının (b) bendi, 14 üncü maddesinin altıncı fıkrası ve ilgili eklerinde belirtilen cihazların ve iktisadi işletmecilerin kaydına ve sertifika bildirimlerine ilişkin yükümlülükler, bu Yönetmeliğin sırasıyla 33 üncü maddesinin ikinci fıkrasının (a) ila (ç) bentlerinde atıfta bulunulan elektronik sistemlere ilişkin yükümlülüklerin ve gerekliliklerin uygulanması bakımından, bu Yönetmeliğin 111 inci maddesinin birinci fıkrasının (a) bendinde atıfta bulunulan tarihe kadar uygulanmaya devam eder.
 
-(2) (Değişik:RG-17/8/2024-32635) (4) 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliğinin;
+(2) **(Değişik:RG-17/8/2024-32635) (4)** 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliğinin;
 
 a) 10 uncu maddesi, 14 üncü maddesinin altıncı fıkrasının (c) ve (ç) bentleri, 15 inci maddesi ve ilgili eklerde belirtilen vijilans ve klinik araştırmalarla ilgili yükümlülükler, bu Yönetmeliğin sırasıyla 33 üncü maddesinin ikinci fıkrasının (d) ve (e) bentlerinde atıfta bulunulan elektronik sistemlere ilişkin yükümlülüklerin ve gerekliliklerin uygulanması bakımından, bu Yönetmeliğin 111 inci maddesinin birinci fıkrasının (a) bendinde atıfta bulunulan tarihe kadar uygulanmaya devam eder.
 
@@ -2388,25 +2388,25 @@ b) 14 üncü maddesinin iki ila dördüncü fıkraları, altıncı fıkrasının
 
 a) 25/5/2017 tarihinden önce düzenlenen sertifikalar; sertifika üzerinde belirtilen sürenin sonuna kadar geçerli kalır. Ancak 110 uncu madde ile yürürlükten kaldırılan söz konusu Yönetmeliklerin Ek IV’ü kapsamında düzenlenen sertifikalar 27/5/2022 tarihinden itibaren geçersiz olur.
 
-b) (Değişik:RG-2/4/2023-32151) (2) 25/5/2017 tarihinden itibaren, 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliği ve Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğine uygun olarak onaylanmış kuruluşlar tarafından düzenlenen, devamında geri çekilmeyen ve 26/5/2021 tarihinde hâlâ geçerli olan sertifikalar, sertifikada belirtilen sürenin bitiminden sonra cihazların ilgili risk sınıfı için beşinci fıkranın (b) bendinde belirtilen tarihlere kadar geçerliliğini korur. 25/5/2017 tarihinden itibaren, 110 uncu madde ile yürürlükten kaldırılan söz konusu Yönetmeliklere uygun olarak onaylanmış kuruluşlar tarafından düzenlenen, 26/5/2021 tarihinde hâlâ geçerli olan ve 20/3/2023 tarihinden önce sona eren sertifikalar, yalnızca aşağıdaki koşullardan birinin yerine getirilmesi durumunda beşinci fıkranın (b) bendinde belirtilen tarihlere kadar geçerli kabul edilir:
+b) **(Değişik:RG-2/4/2023-32151)** (2) 25/5/2017 tarihinden itibaren, 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliği ve Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğine uygun olarak onaylanmış kuruluşlar tarafından düzenlenen, devamında geri çekilmeyen ve 26/5/2021 tarihinde hâlâ geçerli olan sertifikalar, sertifikada belirtilen sürenin bitiminden sonra cihazların ilgili risk sınıfı için beşinci fıkranın (b) bendinde belirtilen tarihlere kadar geçerliliğini korur. 25/5/2017 tarihinden itibaren, 110 uncu madde ile yürürlükten kaldırılan söz konusu Yönetmeliklere uygun olarak onaylanmış kuruluşlar tarafından düzenlenen, 26/5/2021 tarihinde hâlâ geçerli olan ve 20/3/2023 tarihinden önce sona eren sertifikalar, yalnızca aşağıdaki koşullardan birinin yerine getirilmesi durumunda beşinci fıkranın (b) bendinde belirtilen tarihlere kadar geçerli kabul edilir:
 
-1) Sertifikanın sona erme tarihinden önce, imalatçı ile onaylanmış kuruluş arasında, süresi dolmuş sertifikanın kapsadığı cihaz veya bu cihazın yerine geçmesi amaçlanan bir cihaz ile ilgili uygunluk değerlendirmesi için bu Yönetmeliğin Ek VII'sinin 4.3. numaralı maddesinin ikinci alt paragrafı uyarınca yazılı bir anlaşma (Değişik ibare:RG-17/8/2024-32635) (4) imzalanmış olması ;
+1) Sertifikanın sona erme tarihinden önce, imalatçı ile onaylanmış kuruluş arasında, süresi dolmuş sertifikanın kapsadığı cihaz veya bu cihazın yerine geçmesi amaçlanan bir cihaz ile ilgili uygunluk değerlendirmesi için bu Yönetmeliğin Ek VII'sinin 4.3. numaralı maddesinin ikinci alt paragrafı uyarınca yazılı bir anlaşma **(Değişik ibare:RG-17/8/2024-32635) (4)** imzalanmış olması ;
 
-2) Kurumun, 59 uncu maddenin birinci fıkrası uyarınca uygulanabilir uygunluk değerlendirme prosedüründen (Değişik ibare:RG-17/8/2024-32635) (4) bir istisna kabul etmiş olması veya 94 üncü maddenin birinci fıkrası uyarınca imalatçıdan uygulanabilir uygunluk değerlendirme prosedürünü gerçekleştirmesini (Değişik ibare:RG-17/8/2024-32635) (4) talep etmiş olması .
+2) Kurumun, 59 uncu maddenin birinci fıkrası uyarınca uygulanabilir uygunluk değerlendirme prosedüründen **(Değişik ibare:RG-17/8/2024-32635) (4)** bir istisna kabul etmiş olması veya 94 üncü maddenin birinci fıkrası uyarınca imalatçıdan uygulanabilir uygunluk değerlendirme prosedürünü gerçekleştirmesini **(Değişik ibare:RG-17/8/2024-32635) (4)** talep etmiş olması .
 
-(5) (Değişik:RG-2/4/2023-32151) (2) Bu Yönetmelik uyarınca;
+(5) **(Değişik:RG-2/4/2023-32151)** (2) Bu Yönetmelik uyarınca;
 
 a) 5 inci maddeye istisna olarak ve (ç) bendinde belirtilen koşulların karşılanması kaydıyla, (b) ve (c) bentlerinde atıfta bulunulan cihazlar, bu bentlerde belirtilen tarihlere kadar piyasaya arz edilebilir veya hizmete sunulabilir.
 
 b) 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliği veya Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği uyarınca düzenlenmiş olan ve dördüncü fıkra uyarınca geçerli olan bir sertifikası bulunan cihazlar, aşağıdaki tarihlere kadar piyasaya arz edilebilir veya hizmete sunulabilir:
 
-1) (Değişik ibare:RG-17/8/2024-32635) (4) Tüm sınıf III cihazlar ve süturlar, zımba telleri, dental dolgular, dental braketler, diş kronları, vidalar, kamalar, plaklar, teller, pinler, klipsler ve konektörler hariç sınıf IIb implante edilebilir cihazlar, 31/12/2027 tarihine kadar.
+1) **(Değişik ibare:RG-17/8/2024-32635) (4)** Tüm sınıf III cihazlar ve süturlar, zımba telleri, dental dolgular, dental braketler, diş kronları, vidalar, kamalar, plaklar, teller, pinler, klipsler ve konektörler hariç sınıf IIb implante edilebilir cihazlar, 31/12/2027 tarihine kadar.
 
 2) (1) numaralı alt bentte kapsananlar dışındaki sınıf IIb cihazlar, sınıf IIa cihazlar ve steril durumda veya ölçüm fonksiyonuna sahip olarak piyasaya arz edilen sınıf I cihazlar, 31/12/2028 tarihine kadar.
 
 c) 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliği uyarınca uygunluk değerlendirme prosedürünün bir onaylanmış kuruluşun dahiliyetini gerektirmediği, 26/5/2021 tarihinden önce uygunluk beyanı düzenlenmiş ve bu Yönetmelik uyarınca uygunluk değerlendirme prosedürünün bir onaylanmış kuruluşun dahiliyetini gerektirdiği cihazlar, 31/12/2028 tarihine kadar piyasaya arz edilebilir veya hizmete sunulabilir.
 
-ç) (Değişik ibare:RG-17/8/2024-32635) (4) (b) ve (c) bentlerinde atıfta bulunulan cihazlar , yalnızca aşağıdaki koşulların karşılanması durumunda (Değişik ibare:RG-17/8/2024-32635) (4) söz konusu bentlerde atıfta bulunulan tarihlere kadar piyasaya arz edilebilir veya hizmete sunulabilir:
+ç) **(Değişik ibare:RG-17/8/2024-32635) (4)** (b) ve (c) bentlerinde atıfta bulunulan cihazlar , yalnızca aşağıdaki koşulların karşılanması durumunda **(Değişik ibare:RG-17/8/2024-32635) (4)** söz konusu bentlerde atıfta bulunulan tarihlere kadar piyasaya arz edilebilir veya hizmete sunulabilir:
 
 1) Bu cihazların, uygulanabilir olduğu şekilde, 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliğine veya Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğine uygun olmaya devam etmesi.
 
@@ -2430,29 +2430,29 @@ e) Gözetime ilişkin olarak;
 
 f) 5 inci maddeye istisna olarak, sınıf III ısmarlama imal edilen implante edilebilir cihazlar, 26/5/2024 tarihine kadar imalatçının veya yetkili temsilcinin uygunluk değerlendirmesi için Ek VII'nin 4.3. numaralı maddesinin birinci alt paragrafı uyarınca bir onaylanmış kuruluşa resmi bir başvuruda bulunması ve 26/9/2024 tarihine kadar onaylanmış kuruluş ile imalatçının, Ek VII'nin 4.3. numaralı maddesinin ikinci alt paragrafı uyarınca yazılı bir anlaşma imzalaması şartıyla, 52 nci maddenin yedinci fıkrasında atıfta bulunulan uygunluk değerlendirme prosedürü uyarınca bir onaylanmış kuruluş tarafından düzenlenen bir sertifika olmaksızın, 26/5/2026 tarihine kadar piyasaya arz edilebilir veya hizmete sunulabilir.
 
-(6) (Değişik:RG-2/4/2023-32151) (2) 110 uncu madde ile yürürlükten kaldırılan Yönetmelikler uyarınca 26/5/2021 tarihinden önce yasal olarak piyasaya arz edilen cihazlar ve beşinci fıkranın (a), (b), (c) ve (f) bentleri uyarınca 26/5/2021 tarihinden itibaren yasal olarak piyasaya arz edilen cihazlar, piyasada bulundurulmaya veya hizmete sunulmaya devam edebilir.
+(6) **(Değişik:RG-2/4/2023-32151)** (2) 110 uncu madde ile yürürlükten kaldırılan Yönetmelikler uyarınca 26/5/2021 tarihinden önce yasal olarak piyasaya arz edilen cihazlar ve beşinci fıkranın (a), (b), (c) ve (f) bentleri uyarınca 26/5/2021 tarihinden itibaren yasal olarak piyasaya arz edilen cihazlar, piyasada bulundurulmaya veya hizmete sunulmaya devam edebilir.
 
-(7) (Değişik:RG-2/4/2023-32151) (2) Beşinci fıkranın (a) ila (e) bentlerinde ve altıncı fıkrada atıfta bulunulan cihazlarla ilgili olarak, 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliği ve Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği, söz konusu fıkraların uygulanması için gerekli olduğu ölçüde uygulanmaya devam eder.
+(7) **(Değişik:RG-2/4/2023-32151)** (2) Beşinci fıkranın (a) ila (e) bentlerinde ve altıncı fıkrada atıfta bulunulan cihazlarla ilgili olarak, 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliği ve Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği, söz konusu fıkraların uygulanması için gerekli olduğu ölçüde uygulanmaya devam eder.
 
-(8) (Mülga:RG-17/8/2024-32635) (4)
+(8) **(Mülga:RG-17/8/2024-32635) (4)**
 
 (9) 110 uncu madde ile yürürlükten kaldırılan Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin 10 uncu maddesinin onuncu fıkrası veya 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliğinin 11 inci maddesinin on üçüncü fıkrası uyarınca Kurum tarafından verilen izinler, izinlerde belirtilen geçerliliği korur.
 
-(10) 26/5/2021 tarihinden önce yürürlükte olan mevzuat uyarınca yasal olarak piyasaya arz edilmiş veya hizmete sunulmuş ve 1 inci maddenin üçüncü fıkrasının (Değişik ibare:RG-29/7/2022-31907) (ç) bendi uyarınca bu Yönetmelik kapsamında yer alan cihazlar, piyasada bulundurulmaya ve hizmete sunulmaya devam edebilir.
+(10) 26/5/2021 tarihinden önce yürürlükte olan mevzuat uyarınca yasal olarak piyasaya arz edilmiş veya hizmete sunulmuş ve 1 inci maddenin üçüncü fıkrasının **(Değişik ibare:RG-29/7/2022-31907)** (ç) bendi uyarınca bu Yönetmelik kapsamında yer alan cihazlar, piyasada bulundurulmaya ve hizmete sunulmaya devam edebilir.
 
 (11) 110 uncu madde ile yürürlükten kaldırılan Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin 12 nci maddesi veya 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliğinin 15 inci maddesi uyarınca 26/5/2021 tarihinden önce yürütülmeye başlanan klinik araştırmalara devam edilebilir. Ancak 26/5/2021 tarihinden itibaren ciddi advers olayların ve cihaz kusurlarının raporlanması bu Yönetmelik uyarınca yürütülür.
 
-(12) (Değişik:RG-17/8/2024-32635) (4) 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliğinin ve Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin vijilans raporlaması, klinik araştırmalar, cihazların ve iktisadi işletmecilerin kaydı ve sertifika bildirimlerine ilişkin ilgili hükümleri, 111 inci maddenin birinci fıkrasının (a) bendinde atıfta bulunulan hükümlerin uygulama tarihine kadar uygulanmaya devam eder.
+(12) **(Değişik:RG-17/8/2024-32635) (4)** 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliğinin ve Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin vijilans raporlaması, klinik araştırmalar, cihazların ve iktisadi işletmecilerin kaydı ve sertifika bildirimlerine ilişkin ilgili hükümleri, 111 inci maddenin birinci fıkrasının (a) bendinde atıfta bulunulan hükümlerin uygulama tarihine kadar uygulanmaya devam eder.
 
 (13) Ek XVI’da listelenen ürün grubu için ilgili ortak spesifikasyonların atıfta bulunulan uygulama tarihine kadar; 110 uncu madde ile yürürlükten kaldırılan Tıbbi Cihaz Yönetmeliği doğrultusunda, adı geçen ürünlerin tıbbi cihaz olarak nitelendirilmesine ilişkin kurallar uygulanmaya devam eder.
 
 (14) Bu Yönetmeliğin Ek XVI’sında listelenen ürün grubu için gerekli ortak spesifikasyonlar, bu spesifikasyonların yürürlüğe girdiği tarihten 6 ay sonra uygulanmaya başlar.
 
-(15) (Ek:RG-17/8/2024-32635) (4) Ek VI’nın Kısım C’sinin 6.6 numaralı maddesinde atıfta bulunulan cihazların imalatçıları, 9/11/2025 tarihinden önce de bu Yönetmelik uyarınca bir Ana UDI-DI tahsis edebilir.
+(15) **(Ek:RG-17/8/2024-32635) (4)** Ek VI’nın Kısım C’sinin 6.6 numaralı maddesinde atıfta bulunulan cihazların imalatçıları, 9/11/2025 tarihinden önce de bu Yönetmelik uyarınca bir Ana UDI-DI tahsis edebilir.
 
-(16) (Ek:RG-17/8/2024-32635) (4) 10/A maddesi, beşinci fıkranın (b) ve (c) bentlerinde atıfta bulunulan cihazlara da uygulanır.
+(16) **(Ek:RG-17/8/2024-32635) (4)** 10/A maddesi, beşinci fıkranın (b) ve (c) bentlerinde atıfta bulunulan cihazlara da uygulanır.
 
-(17) (Ek:RG-17/8/2024-32635) (4) Bu Yönetmelik uyarınca;
+(17) **(Ek:RG-17/8/2024-32635) (4)** Bu Yönetmelik uyarınca;
 
 a) İmalatçılar, 33 üncü maddenin ikinci fıkrasının (a) ve (b) bentlerinde atıfta bulunulan elektronik sisteme ilişkin 111 inci maddenin birinci fıkrasının (a) bendinde atıfta bulunulan bildirimin yayımlandığı tarihten itibaren en geç 12 ay içinde, bu bildirimin yayımlandığı tarihten itibaren 6 ay içinde de piyasaya arz edilmesi koşuluyla aşağıdaki cihazlar ile ilgili olanlar dâhil, 29 uncu madde uyarınca Eudamed'e girilmesi gereken bilgilerin bu elektronik sisteme girilmesini sağlar:
 
@@ -2468,15 +2468,15 @@ c) 111 inci maddenin birinci fıkrasının (a) bendine istisna olarak, bu fıkra
 
 ### İKİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlük
 
 **MADDE 111 –** (1) Bu Yönetmeliğin;
 
-a) (Değişik:RG-17/8/2024-32635) (4) 33 üncü maddesinin ikinci fıkrasında atıfta bulunulan elektronik sistemlerin her biri ile ilişkili yükümlülükler ve gereklilikler bakımından, 29 uncu, 31 inci ve 32 nci maddeleri, 33 üncü maddesinin üçüncü fıkrası, 44 üncü maddesinin on birinci fıkrasının üçüncü cümlesi, 46 ncı maddesinin yedinci fıkrasının (ç) ve (d) bentleri, 53 üncü maddesinin ikinci fıkrası, 54 üncü maddesinin üçüncü fıkrası, 55 inci maddesinin birinci fıkrası, 56 ncı maddesinin beşinci fıkrası, 70 ila 77 inci maddeleri, bu fıkranın (ç) bendi hükümleri saklı kalmak kaydıyla 78 inci maddesi, 79 uncu ve 80 inci maddeleri, 84 üncü maddesinin ikinci fıkrası, 85 inci ve 86 ncı maddeleri, 87 nci maddesinin beşinci ve yedinci fıkraları ile sekizinci fıkrasının (c) bendi, 88 inci maddesi, 90 ıncı maddesinin dördüncü, yedinci ve sekizinci fıkraları, 92 nci maddesinin ikinci ve dördüncü fıkraları, 94 üncü maddesinin ikinci fıkrasının ikinci cümlesi, 96 ncı maddesinin dördüncü fıkrası ve geçici 1 inci maddenin beşinci fıkrasının (d) bendi, Komisyon tarafından ilgili elektronik sistemin işlevsel olduğuna ve fonksiyonel spesifikasyonları karşıladığına dair bildirimin Avrupa Birliği Resmî Gazetesi’nde yayımlandığı tarihten 6 ay sonra,
+a) **(Değişik:RG-17/8/2024-32635) (4)** 33 üncü maddesinin ikinci fıkrasında atıfta bulunulan elektronik sistemlerin her biri ile ilişkili yükümlülükler ve gereklilikler bakımından, 29 uncu, 31 inci ve 32 nci maddeleri, 33 üncü maddesinin üçüncü fıkrası, 44 üncü maddesinin on birinci fıkrasının üçüncü cümlesi, 46 ncı maddesinin yedinci fıkrasının (ç) ve (d) bentleri, 53 üncü maddesinin ikinci fıkrası, 54 üncü maddesinin üçüncü fıkrası, 55 inci maddesinin birinci fıkrası, 56 ncı maddesinin beşinci fıkrası, 70 ila 77 inci maddeleri, bu fıkranın (ç) bendi hükümleri saklı kalmak kaydıyla 78 inci maddesi, 79 uncu ve 80 inci maddeleri, 84 üncü maddesinin ikinci fıkrası, 85 inci ve 86 ncı maddeleri, 87 nci maddesinin beşinci ve yedinci fıkraları ile sekizinci fıkrasının (c) bendi, 88 inci maddesi, 90 ıncı maddesinin dördüncü, yedinci ve sekizinci fıkraları, 92 nci maddesinin ikinci ve dördüncü fıkraları, 94 üncü maddesinin ikinci fıkrasının ikinci cümlesi, 96 ncı maddesinin dördüncü fıkrası ve geçici 1 inci maddenin beşinci fıkrasının (d) bendi, Komisyon tarafından ilgili elektronik sistemin işlevsel olduğuna ve fonksiyonel spesifikasyonları karşıladığına dair bildirimin Avrupa Birliği Resmî Gazetesi’nde yayımlandığı tarihten 6 ay sonra,
 
-b) (Mülga:RG-17/8/2024-32635) (4)
+b) **(Mülga:RG-17/8/2024-32635) (4)**
 
 c) 27 nci maddesinin dördüncü fıkrası;
 
@@ -2488,7 +2488,7 @@ c) 27 nci maddesinin dördüncü fıkrası;
 
 4) UDI taşıyıcısını kendi üzerinde taşıyan tekrar kullanılabilir cihazlardan; implante edilebilir cihazlar ve sınıf III cihazlar için 26/5/2023 tarihinde, sınıf IIa ve Sınıf IIb cihazlar için 26/5/2025 tarihinde, sınıf I cihazlar için 26/5/2027 tarihinde,
 
-ç) (Değişik:RG-17/8/2024-32635) (4) 78 inci maddesinde belirtilen prosedür, Komisyon tarafından 33 üncü maddenin ikinci fıkrasının (d) bendinde atıfta bulunulan elektronik sistemin işlevsel olduğuna ve fonksiyonel spesifikasyonları karşıladığına dair bildirimin Avrupa Birliği Resmî Gazetesi’nde yayımlandığı tarihten beş yıl sonra,
+ç) **(Değişik:RG-17/8/2024-32635) (4)** 78 inci maddesinde belirtilen prosedür, Komisyon tarafından 33 üncü maddenin ikinci fıkrasının (d) bendinde atıfta bulunulan elektronik sistemin işlevsel olduğuna ve fonksiyonel spesifikasyonları karşıladığına dair bildirimin Avrupa Birliği Resmî Gazetesi’nde yayımlandığı tarihten beş yıl sonra,
 
 d) Diğer hükümleri 26/5/2021 tarihinden geçerli olmak üzere yayımı tarihinde,
 
@@ -2500,15 +2500,15 @@ yürürlüğe girer.
 
 ____
 
-(1) 29/7/2022 tarihli ve 31907 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 78 inci maddesine dördüncü fıkrasından sonra gelmek üzere beşinci fıkra eklenmiş, diğer fıkralar buna göre teselsül ettirilmiştir.
+<i>(1) 29/7/2022 tarihli ve 31907 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 78 inci maddesine dördüncü fıkrasından sonra gelmek üzere beşinci fıkra eklenmiş, diğer fıkralar buna göre teselsül ettirilmiştir.</i>
 
-(2) Bu değişiklik 20/3/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+<i>(2) Bu değişiklik 20/3/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</i>
 
-(3) Bu değişiklik 11/3/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+<i>(3) Bu değişiklik 11/3/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</i>
 
-(4) Bu değişiklik 9/7/2024 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+<i>(4) Bu değişiklik 9/7/2024 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.</i>
 
-(5) Bu değişiklik 10/1/2025 tarihinde yürürlüğe girer.
+<i>(5) Bu değişiklik 10/1/2025 tarihinde yürürlüğe girer.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -2519,4 +2519,4 @@ ____
 | 2. | 2/4/2023 | 32151 |
 | 3. | 17/8/2024 | 32635 |
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

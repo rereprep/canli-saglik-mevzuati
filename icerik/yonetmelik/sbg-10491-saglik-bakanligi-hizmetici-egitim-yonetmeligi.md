@@ -9,13 +9,13 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI HİZMET İÇİ EĞİTİM YÖNETMELİĞİ
 
-(11/12/2009 Tarih ve B.10.0.SEG.0.72.00.03-010.03/15296 Sayılı
+**(11/12/2009 Tarih ve B.10.0.SEG.0.72.00.03-010.03/15296 Sayılı**
 
 Bakanlık Makam Onayı İle Yürürlüğe Girmiştir.)
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -77,7 +77,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Eğitimin Esasları
+**Eğitimin Esasları**
 
 #### Hizmet içi eğitimin hedefleri
 
@@ -237,7 +237,7 @@ f) Gerçekleştirilen eğitimlerle ilgili sonuçları rapor hâlinde ilgili biri
 
 ## DÖRDÜNCÜ BÖLÜM
 
-Program Yöneticisi ve Eğitim Görevlileri
+**Program Yöneticisi ve Eğitim Görevlileri**
 
 #### Program yöneticisi
 

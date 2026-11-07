@@ -12,8 +12,8 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞINCA YAPILACAK PİYASA GÖZETİMİ VE DENETİMİNİN USUL VE ESASLARI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK MADDE
-1 – 25/6/2007 tarihli ve 26563 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığınca Yapılacak Piyasa Gözetimi ve Denetiminin Usul ve Esasları Hakkında Yönetmeliğin 9 uncu maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+**SAĞLIK BAKANLIĞINCA YAPILACAK PİYASA GÖZETİMİ VE DENETİMİNİN USUL VE ESASLARI HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK MADDE**
+**1 –** 25/6/2007 tarihli ve 26563 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığınca Yapılacak Piyasa Gözetimi ve Denetiminin Usul ve Esasları Hakkında Yönetmeliğin 9 uncu maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 "(3) Birinci ve ikinci fıkralarda belirtilen işlemler sonucunda ürünün güvenli olmadığının tespit edilmesi halinde tutanak düzenlenerek, Çerçeve Yönetmeliğin 11 inci maddesi uygulanır. Dağıtıcının Kanunun 5 inci maddesinin dokuzuncu fıkrasının birinci cümlesinde belirtilen yükümlülüğü saklı kalmak kaydıyla, üretici hakkında;
 a) Güvenli olmadığı tespit edilen ürünün aynı zamanda ilgili teknik düzenlemesine de uygun olmadığı durumlarda,
 b) Güvenli olmadığı tespit edilen ürünün uygunluk işaretinin veya uygunluk değerlendirme işlemleri sonucunda verilen belgelerin aynı zamanda tahrif veya taklit edildiği veya usulüne uygun kullanılmadığı durumlarda, 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun genel hükümleri göz önünde bulundurularak, Kanuna göre idari para cezası uygulanır."

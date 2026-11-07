@@ -12,21 +12,21 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2016/05/20160520-23.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-KOLLUK GÖZETİM KOMİSYONU KURULMASI HAKKINDA KANUN
-Kanun No. 6713 Kabul Tarihi: 3/5/2016
-BİRİNCİ BÖLÜM
-Amaç, Kapsam ve Tanımlar Amaç ve kapsam
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**KOLLUK GÖZETİM KOMİSYONU KURULMASI HAKKINDA KANUN**
+**Kanun No. 6713 Kabul Tarihi: 3/5/2016**
+**BİRİNCİ BÖLÜM**
+**Amaç, Kapsam ve Tanımlar Amaç ve kapsam**
 
-MADDE 1 – (1) Bu Kanunun amacı; kolluk şikâyet sisteminin daha etkili ve hızlı işlemesini sağlamak, saydamlığını ve güvenilirliğini geliştirmek üzere, kolluk görevlilerinin işledikleri iddia edilen suçlardan veya disiplin cezasını gerektiren eylem, tutum veya davranışlarından dolayı idarî merciler tarafından yapılan ya da yapılması gereken iş ve işlemlerin merkezî bir sistemde kayıt altına alınması ve izlenmesi amacıyla Kolluk Gözetim Komisyonunun kurulması, Komisyonun görevleri, yetkileri ve çalışma yöntemi ile kolluk şikâyet sistemine yönelik diğer idarî tedbirlere ilişkin usul ve esasları belirlemektir.
+**MADDE 1 –** (1) Bu Kanunun amacı; kolluk şikâyet sisteminin daha etkili ve hızlı işlemesini sağlamak, saydamlığını ve güvenilirliğini geliştirmek üzere, kolluk görevlilerinin işledikleri iddia edilen suçlardan veya disiplin cezasını gerektiren eylem, tutum veya davranışlarından dolayı idarî merciler tarafından yapılan ya da yapılması gereken iş ve işlemlerin merkezî bir sistemde kayıt altına alınması ve izlenmesi amacıyla Kolluk Gözetim Komisyonunun kurulması, Komisyonun görevleri, yetkileri ve çalışma yöntemi ile kolluk şikâyet sistemine yönelik diğer idarî tedbirlere ilişkin usul ve esasları belirlemektir.
 (2) Bu Kanun; Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı teşkilâtında görevli kolluk personelinin işlediği iddia edilen suçlarla veya disiplin cezasını gerektiren eylem, tutum veya davranışlarıyla ilgili olarak idarî merciler tarafından yapılan ya da yapılması gereken iş ve işlemleri kapsar.
 (3) Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı teşkilâtında görevli kolluk personelinin askerî görevlerinden doğan suçları, bu Kanunun kapsamı dışındadır.
 (4) Bu Kanunun uygulanmasında;
 a) 25/10/1963 tarihli ve 353 sayılı Askerî Mahkemeler Kuruluşu ve Yargılama Usulü Kanunu,
 b) 16/6/1964 tarihli ve 477 sayılı Disiplin Mahkemeleri Kuruluşu, Yargılama Usulü ve Disiplin Suç ve Cezaları Hakkında Kanun, hükümleri saklıdır.
-Tanımlar
+**Tanımlar**
 
-MADDE 2 –
+**MADDE 2 –**
 (1) Bu Kanunun uygulanmasında;
 a) Bağlı kuruluşlar: Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığını,
 b) Bakan: İçişleri Bakanını,
@@ -41,10 +41,10 @@ h) Kurul Başkanı: İçişleri Bakanlığı Mülkiye Teftiş Kurulu Başkanın�
 ı) Merkezî kayıt sistemi: Kolluk Gözetim Komisyonu ile bağlı kuruluşlar, valilikler ve kaymakamlıklar arasında, kolluk görevlileri hakkında idarî mercilerce yürütülen ceza ve disiplin işlemleriyle ilgili olarak gerekli bilgilerin kaydedilmesi ve yapılan uygulamaların izlenmesi amacıyla oluşturulan veri tabanını,
 i) Müsteşar: İçişleri Bakanlığı Müsteşarını,
 j) Şikâyet: Kolluk görevlilerinin hukuka aykırı eylem, tutum veya davranışlarının, bunlardan zarar gören veya mağdur olanlar ya da bunların kanunî temsilcileri veya ikinci derece dâhil, ikinci dereceye kadar kan ve kayın hısımları tarafından, yetkili mercilere bildirilmesini, ifade eder.
-İKİNCİ BÖLÜM
-Kuruluş, Görev ve Yetkiler Kuruluş
+**İKİNCİ BÖLÜM**
+**Kuruluş, Görev ve Yetkiler Kuruluş**
 
-MADDE 3 –
+**MADDE 3 –**
 (1) Bu Kanunla verilen görevleri, kendi yetki ve sorumluluğu altında bağımsız olarak yerine getirmek üzere Kolluk Gözetim Komisyonu kurulmuştur.
 Komisyon, İçişleri Bakanlığı bünyesinde sürekli kurul olarak görev yapar.
 (2) Komisyon; Müsteşarın başkanlığında, Türkiye İnsan Hakları ve Eşitlik Kurumu Başkanı, Kurul Başkanı, Bakanlık I.
@@ -53,9 +53,9 @@ Hukuk Müşaviri, Adalet Bakanlığı Ceza İşleri Genel Müdürü, üniversite
 (4) Komisyon üyeliklerine öğretim üyeleri ile serbest avukatlar arasından seçilecek üyelerin görev süresi dört yıldır. Süresi dolan üyeler, aynı usulle yeniden seçilebilir. Bu üyeler, üyelikleri süresince Komisyondaki görevlerinden alınamazlar. Ancak, üyeler, ciddi bir hastalık veya sakatlık nedeniyle iş göremez hâle gelmeleri veya görevlendirmeye ilişkin şartları kaybetmeleri ya da seçilmeleri sırasında bu şartları taşımadıklarının daha sonra tespit edilmesi hâlinde, görevlendirildikleri usule göre süreleri dolmadan görevlerinden alınırlar.
 Bu üyelerin Komisyondaki görevlerinden doğan suçlarından dolayı, özel kanunlarındaki hükümler uygulanır. Komisyonun bu üyeleri mazeretsiz olarak arka arkaya üç toplantıya veya bir yıl içinde toplam dört toplantıya katılmadıkları takdirde, Komisyon kararıyla üyelikleri sona erer. Bu fıkrada belirtilen nedenlerle veya başka herhangi bir nedenle boşalan üyelikler için ilgisine göre ikinci fıkrada belirtilen usule göre en geç bir ay içinde yeni görevlendirme yapılır. Bu şekilde görevlendirilen üyeler, yerine görevlendirildikleri üyenin görev süresini tamamlar.
 (5) Komisyon, bu Kanunla verilen görev ve yetkileri, kendi sorumluluğu altında bağımsız olarak yerine getirir. Hiçbir organ, makam, merci veya kişi Komisyonun kararlarını etkilemek amacıyla emir ve talimat veremez, tavsiye veya telkinde bulunamaz.
-Görev ve yetkiler
+**Görev ve yetkiler**
 
-MADDE 4 –
+**MADDE 4 –**
 (1) Komisyonun görev ve yetkileri aşağıda belirtilmiştir:
 a) Kolluk şikâyet sisteminin işleyişine dair ilkeleri tespit ederek bunlarla ilgili olarak Bakanlığa önerilerde bulunmak, bu konudaki uygulamaları izlemek ve sistemin işleyişinde kamu kurum ve kuruluşları arasında koordinasyonu sağlamak.
 b) Kolluk görevlilerinin işledikleri iddia edilen suçlardan veya disiplin cezasını gerektiren eylem, tutum veya davranışlarından dolayı gerektiğinde yetkili merciler tarafından haklarında disiplin soruşturması yapılmasını istemek.
@@ -72,9 +72,9 @@ i) Görev alanına giren konularla ilgili mevzuat düzenlemeleri hakkında gör�
 (2) Kolluk görevlilerinin disiplin cezasını gerektiren eylem, tutum veya davranışlarıyla ilgili ihbar ve şikâyetlerin Komisyona intikal etmesi veya Komisyon tarafından resen öğrenilmesi üzerine Komisyon, Kurul Başkanlığından söz konusu ihbar veya şikâyetlerin öğrenildiği tarihten itibaren otuz gün içinde disiplin soruşturması açılmasını isteyebilir. Bu istem üzerine Kurul Başkanlığınca genel disiplin hükümlerine göre işlem yapılır.
 (3) Daha önce disiplin amirlerince disiplin soruşturması yapılmasına gerek görülmemiş olan ihbar veya şikâyetler hakkında da ikinci fıkra hükümleri uygulanır.
 (4) Birinci fıkranın (d) ve (e) bentleri uyarınca kamuoyuna yapılacak açıklamalarda, 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanununda yer alan sınırlamalar dikkate alınır.
-Çalışma usul ve esasları
+**Çalışma usul ve esasları**
 
-MADDE 5 – (1) Komisyon, en az ayda bir defa olmak üzere, gerekli hâllerde toplanır.
+**MADDE 5 –** (1) Komisyon, en az ayda bir defa olmak üzere, gerekli hâllerde toplanır.
 Toplantıları Başkan yönetir. Komisyon, Başkanın isteğiyle veya Başkan dışında en az üç üyenin birlikte talep etmesi hâlinde, Başkan tarafından olağanüstü toplantıya çağrılır. Başkanın izin, hastalık veya başka bir nedenle görevde bulunmadığı hâllerde Kurul Başkanı, Başkana vekâlet eder.
 (2) Komisyon, en az beş üyenin hazır bulunması ile toplanır ve en az dört üyenin aynı yöndeki oyuyla karar alır. Kararlarda çekimser oy kullanılamaz.
 (3) Toplantı gündemi Başkan tarafından belirlenerek toplantıdan en az üç gün önce üyelere bildirilir. Gündeme yeni madde eklenebilmesi için toplantıda üyelerden birinin öneride bulunması ve önerilen maddenin Komisyon tarafından kabul edilmesi gerekir.
@@ -86,22 +86,22 @@ Toplantıları Başkan yönetir. Komisyon, Başkanın isteğiyle veya Başkan d�
 (9) Bakanlıklar ve diğer kamu kurum ve kuruluşları, kanunlardaki özel hükümler saklı kalmak kaydıyla, Komisyonun istediği bilgi ve belgeleri talebi hâlinde Komisyona vermek zorundadır.
 (10) Komisyonun faaliyetleri ve diğer ihtiyaçları ile yolluk giderleri için, her yıl İçişleri Bakanlığı bütçesine gerekli ödenek konulur.
 (11) Başkan ve üyeler ile bu Kanunla verilen görevleri yürüten personel, görevlerini yerine getirmeleri sırasında edindikleri gizli bilgileri, kişisel verileri, ticarî sırları ve bunlara ilişkin belgeleri, kanunlarla yetkili kılınan mercilerden başkasına açıklayamazlar ve kendilerinin veya üçüncü kişilerin yararına kullanamazlar. Bu yükümlülük, görevden ayrılmalarından sonra da devam eder.
-ÜÇÜNCÜ BÖLÜM
-Sekretarya, Kayıt İşleri ve Diğer İdarî İşlemler Sekretarya
+**ÜÇÜNCÜ BÖLÜM**
+**Sekretarya, Kayıt İşleri ve Diğer İdarî İşlemler Sekretarya**
 
-MADDE 6 –
+**MADDE 6 –**
 (1) Komisyonun sekretarya hizmetleri, Kurul Başkanlığı tarafından yerine getirilir. Komisyonun sekretarya hizmetlerinin etkili şekilde yürütülmesini temin etmek üzere, Kurul bünyesinde şube müdürlükleri oluşturulur. Bu hizmetlerin sevk ve idaresinde Kurul Başkanına yardımcı olmak üzere, en az beş yıllık meslekî kıdeme sahip bir mülkiye başmüfettişi, Kurul Başkanının önerisi ve Başkanın teklifi üzerine Bakan onayı ile görevlendirilir.
 (2) Sekretarya hizmetlerinin yürütülmesine ilişkin usul ve esaslar, Bakanlık tarafından hazırlanarak Bakanlar Kurulu kararıyla yürürlüğe konulacak yönetmelikle düzenlenir.
-Merkezî kayıt sistemi
+**Merkezî kayıt sistemi**
 
-MADDE 7 –
+**MADDE 7 –**
 (1) Komisyon ile bağlı kuruluşlar, valilikler ve kaymakamlıklar arasında, kolluk görevlileri hakkında idarî mercilerce yürütülen ceza ve disiplin işlemleriyle ilgili olarak, dördüncü fıkrada belirtilen bilgilerin kaydedilmesi ve yapılan uygulamaların izlenmesi amacıyla, Bakanlıkça merkezî kayıt sistemi kurulur. Kolluk görevlileri hakkında Komisyona ve/veya diğer idarî mercilere yapılan her türlü ihbar ve şikâyet, merkezî kayıt sisteminden bir numara verilerek kayıt altına alınır ve bu numara ihbar veya şikâyette bulunan kişilere tebliğ edilir. İdarî merciler tarafından resen tespit edilen ve işlem yapılmasını gerektiren fiil ve hâller için de merkezî kayıt sisteminden bir numara verilir.
 (2) İhbar ve şikâyetlerin soyut ve genel nitelikte olmaması, ilgili olduğu kişi veya olayların belirtilmesi, iddiaların ciddî bulgu ve belgelere dayanması, dilekçe sahibinin adı, soyadı ve imzası ile iş veya yerleşim yeri adresinin ve Türkiye Cumhuriyeti kimlik numarasının doğru olarak bildirilmesi zorunludur. Bu şartları taşımadığı, doğrudan veya yapılan araştırma sonucunda anlaşılan ihbar ve şikâyetlerle ilgili olarak, soruşturma izni vermeye yetkili mercilerce veya disiplin amirlerince, 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun ya da disiplin mevzuatına göre işlem yapılmaz ve bu durum ihbar veya şikâyette bulunan kişilere bildirilir. Ancak iddiaların sıhhatinin şüpheye mahal vermeyecek belgelerle ortaya konulmuş olması hâlinde adı, soyadı, imzası ile iş veya yerleşim yeri adresinin ve Türkiye Cumhuriyeti kimlik numarasının doğruluğu şartı aranmaz; işleme konulmayan ihbar ve şikâyetlerle ilgili bilgiler de merkezî kayıt sistemine işlenir. İhbar veya şikâyette bulunan kişilerin kimlik bilgileri gizli tutulur.
 (3) Merkezî kayıt sistemine işlenen veriler, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu uygulamasında kişisel veri sayılır.
 (4) Merkezî kayıt sistemine, ihbar veya şikâyete konu olayın özeti ve yapılan işlemlerin yanı sıra, mevcut ise dilekçe sahibinin adı ve soyadı ile iş veya yerleşim yeri adres bilgileri ve Türkiye Cumhuriyeti kimlik numarası işlenir. Bu bilgilere ilaveten, ihbarcı veya şikâyetçinin isteğine bağlı olarak merkezî kayıt sistemine işlenecek kişisel bilgiler ile bu sistemin işleyişine ilişkin usul ve esaslar, Bakanlık tarafından hazırlanarak Bakanlar Kurulu kararıyla yürürlüğe konulacak yönetmelikle düzenlenir.
-Ön inceleme ve disiplin soruşturması işlemleri
+**Ön inceleme ve disiplin soruşturması işlemleri**
 
-MADDE 8 –
+**MADDE 8 –**
 (1) Ön inceleme ve disiplin soruşturması işlemleri aşağıdaki usule göre yürütülür:
 a) Kolluk görevlilerinin suç işledikleri yönünde 7 nci maddenin ikinci fıkrasındaki şartlara uygun herhangi bir ihbar veya şikâyet alındığında ya da böyle bir durum doğrudan öğrenildiğinde, soruşturma izni vermeye yetkili mercilerce ve/veya disiplin amirlerince 4483 sayılı Kanun ve/veya kolluk görevlilerinin tâbi oldukları disiplin mevzuatı uyarınca gerekli işlemler yerine getirilir.
 b) Kolluk görevlilerince işlendiği iddia edilen veya doğrudan öğrenilen; öldürme, kasten yaralama, işkence, zor kullanma yetkisine ilişkin sınırın aşılması ve suç işlemek amacıyla örgüt kurma suçları ile örgüt faaliyeti çerçevesinde işlenen suçlarla ilgili ön incelemelerin ve/veya disiplin soruşturmalarının mülkiye müfettişleri tarafından yapılması esastır. Olayın niteliğinin gerektirdiği hâllerde, ön incelemeyi ve/veya disiplin soruşturmasını yürüten mülkiye müfettişleriyle birlikte görev yapmak üzere bağlı kuruluşların müfettişleri de görevlendirilebilir. Söz konusu suçlarla ilgili ön incelemeler ve/veya disiplin soruşturmalarının valiliklerce veya kaymakamlıklarca yapılması hâlinde, bu işlemler imkânlar ölçüsünde mülkî idare amirliği hizmetleri sınıfında bulunan görevliler tarafından yürütülür.
@@ -110,32 +110,32 @@ c) Ön inceleme ve/veya disiplin soruşturmasını icra etmek üzere mülkiye m�
 (2) Kurul Başkanlığınca, bu madde ve 4 üncü madde hükümleri çerçevesinde verilen görevleri yürütmek üzere yeteri kadar mülkiye müfettişi tahsis edilir. Bu müfettişlere bu görevlerinin haricinde başka bir görev verilmez ve bunlar görev alanlarıyla ilgili konularda düzenli hizmet içi eğitime tabi tutulurlar. Bu müfettişlerin belirlenmesine ilişkin esaslar, görevlendirilme yöntemi ve hizmet içi eğitimleri ile benzeri hususlar, Bakanlık tarafından hazırlanarak Bakanlar Kurulu kararıyla yürürlüğe konulacak yönetmelikle düzenlenir.
 (3) Cumhuriyet savcıları, kolluk görevlileri hakkında görevlerinden doğan veya görevleri sırasında işledikleri suçlar ile kişisel suçları sebebiyle soruşturma başlatmaları hâlinde, durumu, personelin ilgisine göre, Bakanlığa, valiliğe veya kaymakamlığa en geç yedi iş günü içinde bildirir. Bakanlık, valilik ve kaymakamlıklar ile idarî soruşturmayı yürüten görevliler, soruşturmanın gizliliğine zarar verilmemesine yönelik gerekli tüm tedbirleri alır.
 (4) Şikâyetçi ile ihbar veya şikâyet edilen kolluk görevlileri, yapılan disiplin soruşturmasının safahatı hakkında, ilgisine göre Bakanlık, valilik veya kaymakamlıklarca en az iki ayda bir bilgilendirilir.
-DÖRDÜNCÜ BÖLÜM
-Değiştirilen, Geçici ve Son Hükümler
+**DÖRDÜNCÜ BÖLÜM**
+**Değiştirilen, Geçici ve Son Hükümler**
 
-MADDE 9 – (1) 14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanunun 25 inci maddesine aşağıdaki bent eklenmiştir.
+**MADDE 9 –** (1) 14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanunun 25 inci maddesine aşağıdaki bent eklenmiştir.
 “c) Kolluk Gözetim Komisyonu.”
 
-MADDE 10 –
+**MADDE 10 –**
 (1) 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununa aşağıdaki madde eklenmiştir.
 “Kolluk görevlilerine yönelik özel hükümler
 
 EK MADDE 1 – (1) Kolluk görevlileri hakkındaki öldürme, kasten yaralama, işkence, zor kullanma yetkisine ilişkin sınırın aşılması ve suç işlemek amacıyla örgüt kurma suçları ile örgüt faaliyeti çerçevesinde işlenen suçlarla ilgili iddialara ilişkin soruşturmaları Cumhuriyet savcıları bizzat ve öncelikle yapar. Bu suçlardan dolayı kolluk görevlileri hakkında açılan davalar, acele işlerden sayılır. Bu tür davaların kanun yolu incelemesi de öncelikli olarak yapılır.”
 
-MADDE 11 –
+**MADDE 11 –**
 (1) Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek, 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin İçişleri Bakanlığına ait bölümüne eklenmiştir.
-Geçiş hükümleri
+**Geçiş hükümleri**
 
-GEÇİCİ MADDE 1 – (1) Bu Kanunda çıkarılması öngörülen yönetmelikler, bu Kanunun yayımı tarihinden itibaren altı ay içinde çıkarılır.
+**GEÇİCİ MADDE 1 –** (1) Bu Kanunda çıkarılması öngörülen yönetmelikler, bu Kanunun yayımı tarihinden itibaren altı ay içinde çıkarılır.
 (2) 8 inci maddenin birinci fıkrasının (b) bendi hükmü, anılan fıkranın yürürlüğe girdiği tarihten önce başlatılan ön inceleme ve/veya disiplin soruşturmaları hakkında uygulanmaz.
 (3) Merkezî kayıt sisteminin altyapısının oluşturulmasına yönelik iş ve işlemler, bu Kanunun yayımı tarihinden itibaren başlatılır.
 (4) Öğretim üyeleri ile serbest avukatlar arasından teklif edilecek adaylar, Adalet ve İçişleri bakanları tarafından bu Kanunun yayımı tarihinden itibaren bir ay içinde Başbakanlığa bildirilir. Komisyon, Bakanlar Kurulunca üye seçiminin Bakanlığa bildirimini izleyen bir ay içinde Başkanın belirleyeceği bir tarihte ilk toplantısını yapar.
-Yürürlük
+**Yürürlük**
 
-MADDE 12 – (1) Bu Kanunun;
+**MADDE 12 –** (1) Bu Kanunun;
 a) 7 nci maddesi yayımı tarihinden itibaren bir yıl sonra,
 b) Diğer hükümleri yayımı tarihinde, yürürlüğe girer.
-Yürütme
+**Yürütme**
 
-MADDE 13 –
+**MADDE 13 –**
 (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

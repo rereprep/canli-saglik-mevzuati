@@ -32,7 +32,7 @@ Söz konusu programın “kullanıcı kodu” ve “şifreleri”, Bakanlığım
 
 İl Sağlık Müdürlüğü tahakkuk memuru ise sorgulama işlemlerini; kullanıcı kodu ve şifreye gerek duymadan programdaki “sorgulama menüsünden” girerek “Gider Tahakkuk Memuru Raporu” linkine tıklayarak ilgili ay ve yıl seçilerek yapabileceklerdir.
 
-İlgili programa http://www.sbu.saglik.gov.tr/sbot/ web sitesinden ulaşabilecektir. Sisteme giriş ve programın kullanımı ile ilgili karşılaşılacak sorunlar, burak.ceyhan@saglik.gov.tr ve levent.gumussoy@saglik.gov.tr e-posta adreslerine bildirilecektir.
+İlgili programa http://www.sbu.**saglik.gov.tr**/sbot/ web sitesinden ulaşabilecektir. Sisteme giriş ve programın kullanımı ile ilgili karşılaşılacak sorunlar, burak.ceyhan@saglik.gov.tr ve levent.gumussoy@saglik.gov.tr e-posta adreslerine bildirilecektir.
 
 Bu itibarla, İl Sağlık Müdürlüklerince hesaplamaların ve veri girişlerinin titizlikle yapılması hususunda gereğini önemle rica ederim.
 

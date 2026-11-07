@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## T.C. SAĞLIK BAKANLIĞI personel genel müdürlüğü
 
-Sayı : B100PER0140000/ Konu : ÇKYS/İKYS. 14.07.2004/110975
+**Sayı :** B100PER0140000/ **Konu :** ÇKYS/İKYS. **14.07.2004/110975**
 
 ### ................................... VALİLİĞİNE ( İl Sağlık Müdürlüğü ) Genelge No ( 92 )
 
@@ -28,4 +28,4 @@ Bakan
 
 ### DAĞITIM :
 
-Gereği : 81 İl Valiliğine
+**Gereği :** 81 İl Valiliğine

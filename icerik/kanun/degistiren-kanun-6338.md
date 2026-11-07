@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/07/20120711-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-BÜTÇE KANUNLARINDA YER ALAN BAZI HÜKÜMLERİN İLGİLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERE EKLENMESİNE DAİR KANUN
-Kanun No. 6338 Kabul Tarihi: 29/6/2012
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**BÜTÇE KANUNLARINDA YER ALAN BAZI HÜKÜMLERİN İLGİLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERE EKLENMESİNE DAİR KANUN**
+**Kanun No. 6338** Kabul Tarihi: 29/6/2012
 
 MADDE 1 – 5/1/1961 tarihli ve 237 sayılı Taşıt Kanununun 10 uncu maddesine aşağıdaki fıkralar eklenmiştir.
 “Türk Silahlı Kuvvetleri (Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı dâhil), Emniyet Genel Müdürlüğü ile Gümrük ve Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğüne kurum, kuruluş, dernek ve vakıflarca hibe edilecek taşıtlar, merkezî yönetim bütçe kanununa bağlı (T) işaretli cetvelde gösterilmesine gerek bulunmaksızın Bakanlar Kurulu kararı ile edinilebilir.

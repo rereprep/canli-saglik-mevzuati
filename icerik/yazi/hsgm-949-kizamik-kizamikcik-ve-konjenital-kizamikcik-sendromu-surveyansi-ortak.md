@@ -60,7 +60,7 @@ b) Ön değerlendirme/bilgi notları
 
 a) Seroloji ve PCR sonuçları
 
-b) Numune yetersizliği/tekrarı talepleri için kullanılmak üzere hsgm.kizamik@saglik.gov.tr adlı ortak e-posta adresi oluşturulmuştur. Söz konusu e-posta adresinin, ilinizde birinci, ikinci ve üçüncü basamak sağlık kuruluşlarında sürveyans faaliyetlerinde görev yapan ilgili personele duyurulması hususunda;
+b) Numune yetersizliği/tekrarı talepleri için kullanılmak üzere **hsgm.kizamik@saglik.gov.tr** adlı ortak e-posta adresi oluşturulmuştur. Söz konusu e-posta adresinin, ilinizde birinci, ikinci ve üçüncü basamak sağlık kuruluşlarında sürveyans faaliyetlerinde görev yapan ilgili personele duyurulması hususunda;
 
 Gereğini rica ederim.
 

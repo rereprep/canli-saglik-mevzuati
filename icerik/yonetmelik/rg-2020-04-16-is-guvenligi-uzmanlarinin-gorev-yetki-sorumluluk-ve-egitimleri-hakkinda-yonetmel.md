@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Aile, Çalışma ve Sosyal Hizmetler Bakanlığından:
-İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 25 inci maddesine aşağıdaki fıkra eklenmiştir.
 “(2) Salgın hastalık ve doğal afet gibi mücbir sebepler nedeniyle iş güvenliği uzmanlığı eğitim programının teorik kısmının tamamının uzaktan eğitim ile verilmesine karar vermeye Bakanlık yetkilidir.

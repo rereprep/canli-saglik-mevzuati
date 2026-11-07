@@ -26,7 +26,7 @@ Aile ve Sosyal Politikalar Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlı
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -62,7 +62,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Özürlülük Sınıflandırması
+**Özürlülük Sınıflandırması**
 
 #### Özürlülük sınıflandırması
 
@@ -72,7 +72,7 @@ ifade eder.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Özürlü Sağlık Kurulu Raporu Düzenleme Usul ve Esasları
+**Özürlü Sağlık Kurulu Raporu Düzenleme Usul ve Esasları**
 
 #### Özürlü sağlık kurulunun teşkili
 
@@ -182,7 +182,7 @@ e) 60 yaşın üzerindekilerde hesaplanan özürlülük oranına balthazard form
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Atıflar
 
@@ -206,4 +206,4 @@ e) 60 yaşın üzerindekilerde hesaplanan özürlülük oranına balthazard form
 
 **MADDE 21 –** (1) Bu Yönetmelik hükümlerini Aile ve Sosyal Politikalar Bakanı ile Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

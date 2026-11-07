@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -35,7 +35,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 **MADDE 4 –** (1) Bu Yönetmelikte geçen;
 
-a) (Değişik:RG-28/3/2016-29667) Bağımsız dükkân: Yapı ruhsatı belgesi veya yapı kullanım izin belgesi ya da bağlı bulunduğu belediye tarafından dükkân veya işyeri olarak kullanılabileceğine dair resmî belgesi bulunan ve eczane olabilecek diğer vasıfları haiz mekânı,
+a) **(Değişik:RG-28/3/2016-29667)** Bağımsız dükkân: Yapı ruhsatı belgesi veya yapı kullanım izin belgesi ya da bağlı bulunduğu belediye tarafından dükkân veya işyeri olarak kullanılabileceğine dair resmî belgesi bulunan ve eczane olabilecek diğer vasıfları haiz mekânı,
 
 b) Bakanlık: Sağlık Bakanlığını,
 
@@ -89,7 +89,7 @@ u) Takas: Serbest eczaneler arasında yapılan ilaç değişim işlemi,
 
 v) Yardımcı eczacı: 2013 ve daha sonraki yıllarda eczacılık fakültesinde okumaya hak kazanmış olup mezun olduktan sonra serbest eczane açmak veya serbest eczanelerde mesul müdür olarak çalışmak için en az bir yıl müddetle hizmet sözleşmesine bağlı olarak mesul müdür eczacı ile birlikte serbest eczanelerde veya hastane eczanelerinde çalışan eczacıyı,
 
-y) (Değişik:RG-31/12/2020-31351 5. Mükerrer) Yerleşim birimi: Merkezi idarenin ilçe kademesinden küçük belde ve köyleri ile köy veya belde belediyesi iken mahalleye dönüştürülen yerleri,
+y) **(Değişik:RG-31/12/2020-31351 5. Mükerrer)** Yerleşim birimi: Merkezi idarenin ilçe kademesinden küçük belde ve köyleri ile köy veya belde belediyesi iken mahalleye dönüştürülen yerleri,
 
 z) Yerleştirme puanı: Eczacıların, meslekte geçirilen toplam yıl sayısı ile hizmet puanının toplamı sonucu tespit edilen puanı,
 
@@ -97,7 +97,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Eczacılar
+**Eczacılar**
 
 #### Eczacılık yapabilecek olanlar
 
@@ -141,7 +141,7 @@ g) Sahip ve mesul müdürü olduğu eczanedeki, eczane çalışanları ve eczac�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Eczane Açılması, Nakli ve Devrine İlişkin Usûl ve Esaslar
+**Eczane Açılması, Nakli ve Devrine İlişkin Usûl ve Esaslar**
 
 #### Eczane açılmasına ilişkin kriterler
 
@@ -149,19 +149,19 @@ Eczane Açılması, Nakli ve Devrine İlişkin Usûl ve Esaslar
 
 (2) Eczanelerin aynı ilçe içerisindeki nakillerinde nüfusa göre eczane açılması kriteri uygulanmaz.
 
-(3) (Değişik:RG-31/12/2020-31351 5. Mükerrer) Hiç eczanesi olmayan yerleşim birimlerinde nüfus kriterine bakılmaksızın bir eczanenin açılmasına müsaade edilir. Bu şekilde açılan eczanenin izin verilen yerleşim birimi dışına naklinde nüfus kriteri işletilir.
+(3) **(Değişik:RG-31/12/2020-31351 5. Mükerrer)** Hiç eczanesi olmayan yerleşim birimlerinde nüfus kriterine bakılmaksızın bir eczanenin açılmasına müsaade edilir. Bu şekilde açılan eczanenin izin verilen yerleşim birimi dışına naklinde nüfus kriteri işletilir.
 
 (4) Eczane açılmasına ilişkin kriterler belirlenirken, Kalkınma Bakanlığından alınan verilere göre belirlenen ilçelerin sosyo-ekonomik gelişmişlik sıralamasına göre sınıflandırma yapılır. Bu sınıflandırmaya göre ilçelere ilçe katsayısı verilir. Eczacıların, o ilçede mesleki faaliyetlerini sürdürdükleri yıl sayısı ile ilçe katsayısının çarpımı suretiyle hizmet puanı hesaplanır. Eczacı birden fazla ilçede çalışmış ise hizmet puanları toplanır. Hizmet puanı hesaplanırken ilçe katsayısı, doktora yapmış olanlar için dörtte bir oranında artırılarak uygulanır. Eczacılara, meslekte geçirilen toplam yıl sayısı ile eczacının hizmet puanı toplamı sonucu tespit edilen yerleştirme puanı verilir.
 
 (5) Eczanesini devretmiş bir eczacı, yeni eczane açmak istediğinde yerleştirme puanı yarı oranında düşürülür.
 
-(6) (Değişik:RG-28/3/2016-29667) Kurum tarafından her yıl eczane açılması uygun olan ilçeler ve açılabilecek eczane sayıları Türkiye İstatistik Kurumunun açıkladığı nüfus bilgileri esas alınmak suretiyle belirlenir ve yılda üç kez Kurumun resmî internet sitesinde ilân edilir.
+(6) **(Değişik:RG-28/3/2016-29667)** Kurum tarafından her yıl eczane açılması uygun olan ilçeler ve açılabilecek eczane sayıları Türkiye İstatistik Kurumunun açıkladığı nüfus bilgileri esas alınmak suretiyle belirlenir ve yılda üç kez Kurumun resmî internet sitesinde ilân edilir.
 
-(7) (Değişik:RG-28/3/2016-29667) Doğal afet ve mücbir sebeplerle nüfus azalması veya kentsel dönüşümle eczane yerinin tahliye edilmek zorunda kalınması hâlinde o yerleşim yerinde bulunan eczanelerin naklinde nüfusa göre eczane açılması kriteri uygulanmaz. Doğal afet ve mücbir sebeplerle nüfus azalması hâlinin tespit ve ilânı Bakanlıkça yapılır. Kentsel dönüşüm nedeniyle eczanenin tahliye edilmek zorunda kalınması halinin tespiti ise eczanenin bulunduğu bölgenin kentsel dönüşüm bölgesi olduğuna dair ilgili yetkili resmi mercilerden alınmış resmi belge ile yapılır. Doğal afet veya mücbir sebebin ortadan kalkmasını veya kentsel dönüşümün tamamlanmasını müteakip altı ay içerisinde eczacı isterse tahliye etmek zorunda kaldığı önceki eczanenin bulunduğu ilçe sınırları içerisinde bir yere herhangi bir kısıtlamaya tabi olmaksızın dönebilir.
+(7) **(Değişik:RG-28/3/2016-29667)** Doğal afet ve mücbir sebeplerle nüfus azalması veya kentsel dönüşümle eczane yerinin tahliye edilmek zorunda kalınması hâlinde o yerleşim yerinde bulunan eczanelerin naklinde nüfusa göre eczane açılması kriteri uygulanmaz. Doğal afet ve mücbir sebeplerle nüfus azalması hâlinin tespit ve ilânı Bakanlıkça yapılır. Kentsel dönüşüm nedeniyle eczanenin tahliye edilmek zorunda kalınması halinin tespiti ise eczanenin bulunduğu bölgenin kentsel dönüşüm bölgesi olduğuna dair ilgili yetkili resmi mercilerden alınmış resmi belge ile yapılır. Doğal afet veya mücbir sebebin ortadan kalkmasını veya kentsel dönüşümün tamamlanmasını müteakip altı ay içerisinde eczacı isterse tahliye etmek zorunda kaldığı önceki eczanenin bulunduğu ilçe sınırları içerisinde bir yere herhangi bir kısıtlamaya tabi olmaksızın dönebilir.
 
 #### İlk başvuru ve yerleştirme
 
-**MADDE 9 –** (1) (Değişik:RG-28/3/2016-29667) Eczane açmak isteyen eczacılar, Kurum tarafından ilân edilen yerler için ilân tarihinden itibaren otuz gün içerisinde, ikinci fıkrada belirtilen belgeleri eklemek suretiyle elektronik ortamda başvurularını yaparlar. Bu başvurularda en fazla yirmi beş tercih yapılabilir. Elektronik ortamda yapılan başvurunun geçerli olabilmesi için; ikinci fıkrada belirtilen ve elektronik ortamda eklenen belgelerin asıllarının Kurumca ilân edilen başvuru süresi içinde il veya ilçe sağlık müdürlüklerine ibraz edilerek başvurunun onaylatılması gerekir. Başvuru evrakının eksik olması hâlinde başvuru talepleri işleme alınmaz.
+**MADDE 9 –** (1) **(Değişik:RG-28/3/2016-29667)** Eczane açmak isteyen eczacılar, Kurum tarafından ilân edilen yerler için ilân tarihinden itibaren otuz gün içerisinde, ikinci fıkrada belirtilen belgeleri eklemek suretiyle elektronik ortamda başvurularını yaparlar. Bu başvurularda en fazla yirmi beş tercih yapılabilir. Elektronik ortamda yapılan başvurunun geçerli olabilmesi için; ikinci fıkrada belirtilen ve elektronik ortamda eklenen belgelerin asıllarının Kurumca ilân edilen başvuru süresi içinde il veya ilçe sağlık müdürlüklerine ibraz edilerek başvurunun onaylatılması gerekir. Başvuru evrakının eksik olması hâlinde başvuru talepleri işleme alınmaz.
 
 (2) İlk başvuru için aşağıdaki belgeler gereklidir;
 
@@ -179,13 +179,13 @@ e) Serbest eczane açabilmek için yardımcı eczacılık yapmak zorunda olanlar
 
 f) Mesleğini yapmayı engelleyecek bir hastalığı bulunmadığına dair sağlık raporu ile mesleğini yapmayı engelleyecek derecede iki gözünün görmekten mahrum olmadığına dair uzman hekim raporu.
 
-(3) (Değişik:RG-14/3/2023-32132) Kurum tarafından başvuruların bitiminden itibaren en geç on iş günü içinde yerleştirme puanları hesaplandıktan sonra eczacının yerleştirme puanı ve tercih sıralaması göz önüne alınarak yerleştirme işlemi yapılır. Başvuru yapan eczacılardan yerleştirme puanı en yüksek olanlar eczane açma hakkı kazanır. İlan edilen yerler için başvuru yapan eczacıların yerleştirme puanlarının eşit olması hâlinde Kurum tarafından, noter huzurunda kura çekilir ve kura sonucuna göre yerleştirme yapılır. Yerleştirme listesi il sağlık müdürlüğüne bildirilir. Kurumun resmî internet sitesinde de ilân edilir.
+(3) **(Değişik:RG-14/3/2023-32132)** Kurum tarafından başvuruların bitiminden itibaren en geç on iş günü içinde yerleştirme puanları hesaplandıktan sonra eczacının yerleştirme puanı ve tercih sıralaması göz önüne alınarak yerleştirme işlemi yapılır. Başvuru yapan eczacılardan yerleştirme puanı en yüksek olanlar eczane açma hakkı kazanır. İlan edilen yerler için başvuru yapan eczacıların yerleştirme puanlarının eşit olması hâlinde Kurum tarafından, noter huzurunda kura çekilir ve kura sonucuna göre yerleştirme yapılır. Yerleştirme listesi il sağlık müdürlüğüne bildirilir. Kurumun resmî internet sitesinde de ilân edilir.
 
-(4) (Mülga:RG-28/3/2016-29667)
+(4) **(Mülga:RG-28/3/2016-29667)**
 
 #### Eczane açılması için gerekli belgeler
 
-**MADDE 10 –** (1) (Değişik:RG-28/3/2016-29667) Yerleştirme neticesine göre eczane açabilecek eczacılar, ilân tarihinden itibaren en geç doksan gün içerisinde, ilk başvuruda elektronik olarak girilen belgelerin asılları ile aşağıdaki belgelerle ilgili il veya ilçe sağlık müdürlüğüne başvuruda bulunur:
+**MADDE 10 –** (1) **(Değişik:RG-28/3/2016-29667)** Yerleştirme neticesine göre eczane açabilecek eczacılar, ilân tarihinden itibaren en geç doksan gün içerisinde, ilk başvuruda elektronik olarak girilen belgelerin asılları ile aşağıdaki belgelerle ilgili il veya ilçe sağlık müdürlüğüne başvuruda bulunur:
 
 a) Eczacı odası kayıt belgesi,
 
@@ -235,7 +235,7 @@ c) Yapı ruhsatı belgesi veya yapı kullanım izin belgesinin onaylı sureti ya
 
 #### İkinci eczacı ve yardımcı eczacı çalıştırılmasına ilişkin usûl ve esaslar
 
-**MADDE 16 –** (1) (Değişik:RG-28/3/2016-29667) Serbest eczanelerde, yıllık seksen bin reçete sayısının veya yıllık üç milyon Türk Lirası tutarında cironun aşılması halinde ikinci eczacı çalıştırılması zorunludur. Bu reçete sayısı veya ciroya eklenen yıllık her seksen bin reçete veya yıllık her üç milyon Türk Lirası ciro için ilave bir ikinci eczacı çalıştırılması gerekir. Reçete sayısı veya ciro verileri doğrultusunda çalıştırılması zorunlu ikinci eczacı sayısı en fazla üçtür. Reçete sayısı için bir önceki yıla ait Kurum verileri; ciro için Kuruma bildirilen KDV hariç hasılat esas alınır. Reçete sayısı ve ciro bilgilerinin her ikisinin de ikinci eczacı çalıştırılması için uygun olması halinde, daha fazla sayıda ikinci eczacı çalıştırılmasına imkân sağlayan veri esas alınır. Reçete sayısı ve ciro verilerindeki yıllık değişim oranı doğrultusunda bu değerler Kurum tarafından Türk Eczacıları Birliğinin de görüşü alınarak güncellenir ve ilân edilir. Serbest eczanelere ait ciro bilgileri eczane mesul müdürü eczacı tarafından İlaç Takip Sistemi üzerinden her yıl Nisan ayında beyan edilir. Ciro bilgilerini beyan etmeyen eczacıların İlaç Takip Sistemine erişimi, cironun beyan edildiği tarihe kadar geçici olarak engellenir.
+**MADDE 16 –** (1) **(Değişik:RG-28/3/2016-29667)** Serbest eczanelerde, yıllık seksen bin reçete sayısının veya yıllık üç milyon Türk Lirası tutarında cironun aşılması halinde ikinci eczacı çalıştırılması zorunludur. Bu reçete sayısı veya ciroya eklenen yıllık her seksen bin reçete veya yıllık her üç milyon Türk Lirası ciro için ilave bir ikinci eczacı çalıştırılması gerekir. Reçete sayısı veya ciro verileri doğrultusunda çalıştırılması zorunlu ikinci eczacı sayısı en fazla üçtür. Reçete sayısı için bir önceki yıla ait Kurum verileri; ciro için Kuruma bildirilen KDV hariç hasılat esas alınır. Reçete sayısı ve ciro bilgilerinin her ikisinin de ikinci eczacı çalıştırılması için uygun olması halinde, daha fazla sayıda ikinci eczacı çalıştırılmasına imkân sağlayan veri esas alınır. Reçete sayısı ve ciro verilerindeki yıllık değişim oranı doğrultusunda bu değerler Kurum tarafından Türk Eczacıları Birliğinin de görüşü alınarak güncellenir ve ilân edilir. Serbest eczanelere ait ciro bilgileri eczane mesul müdürü eczacı tarafından İlaç Takip Sistemi üzerinden her yıl Nisan ayında beyan edilir. Ciro bilgilerini beyan etmeyen eczacıların İlaç Takip Sistemine erişimi, cironun beyan edildiği tarihe kadar geçici olarak engellenir.
 
 (2) Eczacı, ikinci eczacıyı veya eczacıları otuz gün içerisinde işe başlatır ve il sağlık müdürlüğüne bildirir. İkinci eczacı çalıştırma konusunda kriterleri tutan ancak bundan imtina eden eczacı, il sağlık müdürlüğü tarafından uyarılır ve eczacıya otuz gün süre verilir. Uyarıya rağmen yükümlülüğünü yerine getirmeyen eczacının eczane ruhsatı otuz gün süre ile askıya alınır. Şayet eczacı bu süre sonunda da yükümlülüğünü yerine getirmez ise ruhsat süresiz askıya alınır.
 
@@ -273,17 +273,17 @@ e) Uyarıya rağmen yükümlülüğünü yerine getirmeyen eczacının eczane ru
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Eczane Yerleri ve Bölümleri
+**Eczane Yerleri ve Bölümleri**
 
 #### Eczane olarak kullanılacak yerin özellikleri
 
 **MADDE 20 –** (1) Eczane olacak yerlerin bodrum, asma katları, varsa merdiven boşlukları, merdiven altı kısımları, kolonları, ara duvarları hariç, lavabo ve tuvalet alanı dâhil olmak üzere asgari 35 metrekare olması; Kanunun 14 üncü maddesinin (A) ve (B) bentlerine göre açılacak eczanelerin depo hariç asgari 20 metrekare olması şarttır. Bu Yönetmeliğin yayımlanmasından önce ruhsat almış eczanelerin devredilmesi hâlinde bir defaya mahsus olmak üzere herhangi bir metrekare kısıtlaması uygulanmaz. Ancak mevcut eczanenin başka bir yere naklinde yukarıdaki hükümlere göre işlem yapılır.
 
-(2) (Değişik:RG-28/3/2016-29667) Eczane olarak kullanılacak binanın yapı ruhsatı belgesi veya yapı kullanım izin belgesi ya da bağlı bulunduğu belediye tarafından dükkân veya işyeri olarak kullanılabileceğine dair resmî belgesinin bulunması gerekir. Bu fıkranın yürürlüğe girdiği tarihten önce başvuru yapılmış veya ruhsatlandırılmış eczanelerde ve bunların devrinde bu madde hükmü uygulanmaz.
+(2) **(Değişik:RG-28/3/2016-29667)** Eczane olarak kullanılacak binanın yapı ruhsatı belgesi veya yapı kullanım izin belgesi ya da bağlı bulunduğu belediye tarafından dükkân veya işyeri olarak kullanılabileceğine dair resmî belgesinin bulunması gerekir. Bu fıkranın yürürlüğe girdiği tarihten önce başvuru yapılmış veya ruhsatlandırılmış eczanelerde ve bunların devrinde bu madde hükmü uygulanmaz.
 
 (3) Eczanelerin laboratuvar kısımları, müşteriler veya hastalarla irtibat olmayacak şekilde ayrılır. Deprem, sel ve yangın gibi tabii afetlerden evvel ruhsatlandırılmış eczanesi bulunan ve fakat bu afetler sebebiyle eczane olarak kullandığı işyerinin önemli ölçüde hasar görüp kullanılamaz duruma geldiğini belgeleyen eczacılara; iki yılı geçmemek üzere, asgarî 20 metrekare olan yerlerde veya geçici yapılarda da eczane faaliyeti için ruhsat verilebilir.
 
-(4) (Değişik:RG-28/3/2016-29667) Serbest faaliyet gösteren eczanelerin;
+(4) **(Değişik:RG-28/3/2016-29667)** Serbest faaliyet gösteren eczanelerin;
 
 a) Eczaneler için belirlenen çalışma saatlerini ve nöbet hizmetini aksatmayacak şekilde, halkın serbestçe girip çıkabildiği ve Yönetmelikte tarif edilen nitelikteki yerlerde açılması,
 
@@ -299,15 +299,15 @@ zorunludur. Ancak havaalanları, limanlar, otogarlar, tren garları, alışveri�
 
 (6) Eczaneler aydınlık, rutubetsiz ve havadar olur; zeminleri hijyen koşullarına uygun, kolay temizlenebilir malzeme ile döşenir. Hastaların bekleme yerleri eczanenin giriş katında bulunur.
 
-(7) (Değişik :RG-31/12/2018-30642 4.Mükerrer ) Özel saklama koşulu gerektiren veya soğuk zincire tâbi ilaçların; saklama koşullarına uygun olarak eczaneye kabul edilmesi, saklanması ve aynı şartlara uygun olarak hastalara sunulması gerekir. Ayrıca soğuk zincir ilaçların konulması için buzdolabı bulundurulur. Buzdolabı ve eczane içi sıcaklık nem takibinin sağlanması için kayıtların düzenli tutulması kritik durumlarda uyarı verecek erken uyarı sisteminin ve geriye dönük hafıza kaydı bulunan termometrenin bulunması ve eczanede bulunması gereken tüm cihazların düzenli aralıklarla muayenelerinin/kalibrasyonlarının yapılması gerekir.
+(7) **(Değişik :RG-31/12/2018-30642 4.Mükerrer** ) Özel saklama koşulu gerektiren veya soğuk zincire tâbi ilaçların; saklama koşullarına uygun olarak eczaneye kabul edilmesi, saklanması ve aynı şartlara uygun olarak hastalara sunulması gerekir. Ayrıca soğuk zincir ilaçların konulması için buzdolabı bulundurulur. Buzdolabı ve eczane içi sıcaklık nem takibinin sağlanması için kayıtların düzenli tutulması kritik durumlarda uyarı verecek erken uyarı sisteminin ve geriye dönük hafıza kaydı bulunan termometrenin bulunması ve eczanede bulunması gereken tüm cihazların düzenli aralıklarla muayenelerinin/kalibrasyonlarının yapılması gerekir.
 
-(8) (Değişik:RG-29/6/2019-30816) Diş hekimlerince açılan poliklinikler, muayenehaneler ile sadece tahlil ve görüntüleme hizmeti veren laboratuvar tanı merkezleri hariç olmak üzere, içinde sağlık kurum ve kuruluşu bulunan bina ve bahçesi ile müştemilatında serbest eczane açılamaz. Havaalanları, otogarlar ile tren garları ve limanlarda bu kısıtlama uygulanmaz.
+(8) **(Değişik:RG-29/6/2019-30816)** Diş hekimlerince açılan poliklinikler, muayenehaneler ile sadece tahlil ve görüntüleme hizmeti veren laboratuvar tanı merkezleri hariç olmak üzere, içinde sağlık kurum ve kuruluşu bulunan bina ve bahçesi ile müştemilatında serbest eczane açılamaz. Havaalanları, otogarlar ile tren garları ve limanlarda bu kısıtlama uygulanmaz.
 
 #### Laboratuvar kısmı
 
 **MADDE 21 –** (1) Majistral ilaç hazırlanmasında kullanılan kimyevi maddeler, galenik preparatlar ve droglar, cam şişelerde; ışıktan bozulabilecek maddeler ise renkli şişelerde ayrı bir dolapta bulundurulur.
 
-(2) (Değişik :RG-31/12/2018-30642 4.Mükerrer) Eczanelerde, ilaç yapmaya ayrılmış bankonun üzeri ısıya dayanıklı cam, mermer veya mikrobiyolojik bulaşma oluşturmayacak malzemeden olur. Hassas, santigram veya kiloluk teraziler veya 2 nci sınıf elektronik teraziler ayarları bozulmayacak şekilde banko üzerinde veya ayrı özel masada bulundurulur. Terazi ve varsa kütlelerinin periyodik muayenelerinin ilgili bakanlığın ilgili mevzuatı doğrultusunda yaptırılması zorunludur.
+(2) **(Değişik :RG-31/12/2018-30642 4.Mükerrer)** Eczanelerde, ilaç yapmaya ayrılmış bankonun üzeri ısıya dayanıklı cam, mermer veya mikrobiyolojik bulaşma oluşturmayacak malzemeden olur. Hassas, santigram veya kiloluk teraziler veya 2 nci sınıf elektronik teraziler ayarları bozulmayacak şekilde banko üzerinde veya ayrı özel masada bulundurulur. Terazi ve varsa kütlelerinin periyodik muayenelerinin ilgili bakanlığın ilgili mevzuatı doğrultusunda yaptırılması zorunludur.
 
 (3) Laboratuvarlarda şehir suyu bulunması zorunludur.
 
@@ -317,7 +317,7 @@ zorunludur. Ancak havaalanları, limanlar, otogarlar, tren garları, alışveri�
 
 #### Tadilat ve inceleme
 
-**MADDE 23 –** (1) (Değişik:RG-14/3/2023-32132) (Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan fıkra: Eczanede mevcut krokide değişiklik oluşturacak nitelikteki tadilatlar, il sağlık müdürlüğü onayıyla yapılır. )
+**MADDE 23 –** (1) **(Değişik:RG-14/3/2023-32132) (Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan fıkra:** <i>Eczanede mevcut krokide değişiklik oluşturacak nitelikteki tadilatlar, il sağlık müdürlüğü onayıyla yapılır. )</i>
 
 (2) Tadilat otuz günü geçemez ve il sağlık müdürlüğünce eczane hizmetinin sunumu açısından gerekli görülmesi hâlinde bu sürede ruhsat askıya alınır.
 
@@ -327,11 +327,11 @@ zorunludur. Ancak havaalanları, limanlar, otogarlar, tren garları, alışveri�
 
 #### Eczane ismi, levhası ve vitrini
 
-**MADDE 25 –** (1) (Değişik:RG-28/3/2016-29667) Bu fıkranın yürürlüğe girdiği tarihten sonra açılacak ve nakil yapılacak eczanelerin isimleri, eczanenin açılacağı ilçe içinde bulunan eczanelerle aynı isimlerde olamaz.
+**MADDE 25 –** (1) **(Değişik:RG-28/3/2016-29667)** Bu fıkranın yürürlüğe girdiği tarihten sonra açılacak ve nakil yapılacak eczanelerin isimleri, eczanenin açılacağı ilçe içinde bulunan eczanelerle aynı isimlerde olamaz.
 
-(2) (Değişik:RG-29/6/2019-30816) Eczanelerin görülebilir cephelerinden en az birine ve eczane olarak kullanılacak yerin sınırları içerisinde kalmak kaydıyla, eczanenin adını gösterir, özellikleri Türk Eczacıları Birliği tarafından standardize edilmiş ışıklı veya ışıksız levha konulur. Kültür ve tabiat varlığı niteliğindeki yerlerde faaliyet gösteren eczaneler ile uluslararası havalimanlarında bulunan eczaneler için bu zorunluluk aranmaz.
+(2) **(Değişik:RG-29/6/2019-30816)** Eczanelerin görülebilir cephelerinden en az birine ve eczane olarak kullanılacak yerin sınırları içerisinde kalmak kaydıyla, eczanenin adını gösterir, özellikleri Türk Eczacıları Birliği tarafından standardize edilmiş ışıklı veya ışıksız levha konulur. Kültür ve tabiat varlığı niteliğindeki yerlerde faaliyet gösteren eczaneler ile uluslararası havalimanlarında bulunan eczaneler için bu zorunluluk aranmaz.
 
-(3) (Değişik:RG-29/6/2019-30816) Eczanelerin bulunduğu parsel sınırları içinde olması kaydıyla, asgarî ve azamî ebatları ile renkleri Türk Eczacıları Birliği tarafından belirlenen standartlarda, iki cepheden kolayca görülecek yükseklikte olmak kaydıyla “E” logolu ışıklı levha konulur. Eczanelerin önüne, cadde ve sokaklara seyyar veya totem tabela, afiş ve benzeri gibi haksız rekabet oluşturacak tabela ve cisimler konulamaz. Vitrinlere ürün tanıtımı amacıyla levha veya ilân yapıştırılamaz.
+(3) **(Değişik:RG-29/6/2019-30816)** Eczanelerin bulunduğu parsel sınırları içinde olması kaydıyla, asgarî ve azamî ebatları ile renkleri Türk Eczacıları Birliği tarafından belirlenen standartlarda, iki cepheden kolayca görülecek yükseklikte olmak kaydıyla “E” logolu ışıklı levha konulur. Eczanelerin önüne, cadde ve sokaklara seyyar veya totem tabela, afiş ve benzeri gibi haksız rekabet oluşturacak tabela ve cisimler konulamaz. Vitrinlere ürün tanıtımı amacıyla levha veya ilân yapıştırılamaz.
 
 #### Nöbetçi eczane levhası
 
@@ -341,7 +341,7 @@ zorunludur. Ancak havaalanları, limanlar, otogarlar, tren garları, alışveri�
 
 ### BEŞİNCİ BÖLÜM
 
-Eczane Hizmetleri
+**Eczane Hizmetleri**
 
 #### İlaç takip sistemi
 
@@ -405,17 +405,17 @@ c) Elektronik reçete,
 
 #### Nöbetçi eczanelerin çalışma düzeni
 
-**MADDE 35 –** (1) (Değişik:RG-14/3/2023-32132) Bu Yönetmelik uyarınca;
+**MADDE 35 –** (1) **(Değişik:RG-14/3/2023-32132)** Bu Yönetmelik uyarınca;
 
 a) Bölgelerindeki yerleşim yerlerinin özelliklerine göre eczaneler için tatil olacak günler ve saatler eczacı odası veya temsilcisi tarafından tespit edilir.
 
-b) (Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan cümle: Nöbetçi eczane ihtiyacı, Kurum tarafından halkın ihtiyacını temin edecek surette belirlenir. ) Eczacı odası veya temsilcisi, (Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan ibare: Kurumca belirlenmiş miktarda ) nöbetçi kalacak eczaneleri belirler ve eczanelere ait nöbet listelerini hazırlayarak hizmette aksaklık yaratmayacak şekilde zamanında ilçe ve il sağlık müdürlüğünün onayına sunar. Nöbet listeleri il sağlık müdürlüğünün kabul ve onayı ile uygulamaya konulur.
+b) **(Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan cümle:** <i>Nöbetçi eczane ihtiyacı, Kurum tarafından halkın ihtiyacını temin edecek surette belirlenir. )</i> Eczacı odası veya temsilcisi, **(Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan ibare:** <i>Kurumca belirlenmiş miktarda )</i> nöbetçi kalacak eczaneleri belirler ve eczanelere ait nöbet listelerini hazırlayarak hizmette aksaklık yaratmayacak şekilde zamanında ilçe ve il sağlık müdürlüğünün onayına sunar. Nöbet listeleri il sağlık müdürlüğünün kabul ve onayı ile uygulamaya konulur.
 
-c) (Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan bent: Nöbet listelerinin, eczacı odası veya temsilcisi tarafından Kurumca belirlenmiş ihtiyacı karşılayacak şekilde hazırlanmaması durumunda bu listeler yeniden düzenlenmek üzere müdürlükçe iade edilir. Yeniden düzenlenen listelerin de belirlenen ihtiyacı karşılayacak şekilde olmaması halinde nöbet listeleri, il veya ilçe sağlık müdürlüğünce düzenlenir. )
+c) **(Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan bent:** <i>Nöbet listelerinin, eczacı odası veya temsilcisi tarafından Kurumca belirlenmiş ihtiyacı karşılayacak şekilde hazırlanmaması durumunda bu listeler yeniden düzenlenmek üzere müdürlükçe iade edilir. Yeniden düzenlenen listelerin de belirlenen ihtiyacı karşılayacak şekilde olmaması halinde nöbet listeleri, il veya ilçe sağlık müdürlüğünce düzenlenir. )</i>
 
 ç) Eczacı odası veya temsilcisi tarafından eczanelere ait nöbet listelerinin hazırlanarak hizmette aksaklık yaratmayacak şekilde zamanında il ve ilçe sağlık müdürlüğünün onayına sunulamaması durumunda nöbet listeleri il veya ilçe sağlık müdürlüğünce hazırlanır.
 
-(2) (Mülga cümle:RG-28/3/2016-29667) (...) Uluslararası uçuşa açık olan havaalanları içinde yer alan eczaneler, eczane çalışma gün ve saatleri dışında da 24 saat açık olabilirler. Bu durumda biri eczanenin sahibi olmak kaydıyla her 8 saat için bir eczacı bulundurulması zorunludur.
+(2) **(Mülga cümle:RG-28/3/2016-29667)** (...) Uluslararası uçuşa açık olan havaalanları içinde yer alan eczaneler, eczane çalışma gün ve saatleri dışında da 24 saat açık olabilirler. Bu durumda biri eczanenin sahibi olmak kaydıyla her 8 saat için bir eczacı bulundurulması zorunludur.
 
 (3) Nöbetçi eczane listeleri, il sağlık müdürlüğü tarafından bölge eczacı odalarına, Türk Eczacıları Birliğine, il emniyet müdürlüklerine, garnizon komutanlıklarına, danışma servislerine, yataklı tedavi kurumlarına, mahalli veya ulusal gazetelere ve ilgili olabilecek diğer kurumlara gönderilir. Ayrıca nöbetçi eczanelerin isim ve adreslerini gösteren listeler il sağlık müdürlüğünün internet sitesinde ilân edilir.
 
@@ -423,9 +423,9 @@ c) (Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı karar
 
 (5) Gece nöbet tutacak eczanelerin gece boyunca kapılarının açık olması zorunlu değildir. Ancak eczane sahip ve mesul müdürünün veya ikinci eczacının, başvuru hâlinde gereken hizmeti yerine getirmesi zorunludur.
 
-(6) (Ek:RG-14/3/2023-32132) Eczacının hastalık ve sair mazeretlerine istinaden nöbet hizmetinden muaf tutulma talebi, bölge eczacı odası tarafından değerlendirilerek il sağlık müdürlüğünün kabul ve onayı ile uygulamaya konulur.
+(6) **(Ek:RG-14/3/2023-32132)** Eczacının hastalık ve sair mazeretlerine istinaden nöbet hizmetinden muaf tutulma talebi, bölge eczacı odası tarafından değerlendirilerek il sağlık müdürlüğünün kabul ve onayı ile uygulamaya konulur.
 
-(7) (Ek:RG-14/3/2023-32132) Eczanenin, il veya ilçe sağlık müdürlüğünün kabul ve onayı ile uygulamaya konulan nöbet ve tatil zamanları için düzenlenmiş listeler doğrultusunda hizmet vermesi mecburidir.
+(7) **(Ek:RG-14/3/2023-32132)** Eczanenin, il veya ilçe sağlık müdürlüğünün kabul ve onayı ile uygulamaya konulan nöbet ve tatil zamanları için düzenlenmiş listeler doğrultusunda hizmet vermesi mecburidir.
 
 #### Çalışma kıyafeti
 
@@ -441,7 +441,7 @@ c) (Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı karar
 
 ### ALTINCI BÖLÜM
 
-Ecza ve Kimyevi Maddeler
+**Ecza ve Kimyevi Maddeler**
 
 #### Ecza maddelerinin özellikleri ve sorumluluk
 
@@ -459,7 +459,7 @@ Ecza ve Kimyevi Maddeler
 
 **MADDE 41 –** (1) Eczane sahip ve mesul müdürü, ilaçların miadını düzenli olarak kontrol eder. Bozulan ve miadı geçen ilaçları imha edilmek üzere satıştan kaldırması, ayrı bir alanda saklaması gerekir.
 
-(2) (Değişik:RG-14/3/2023-32132) Miadı geçen veyahut kullanılamaz hâle gelmiş olan ilaçlar, eczane sahip veya mesul müdürü tarafından listelenir ve bu ilaçların imhası için il sağlık müdürlüğüne başvuru yapılır. İl sağlık müdürlüğü yetkilisi ve eczacı odası temsilcisi ile beraber tutanak düzenlenerek ilaçların imhası ilgili mevzuat doğrultusunda yapılır veya yaptırılır ve keyfiyet vergi dairesine bildirilir. Düzenlenen tutanak istendiğinde ibraz edilmek üzere eczanede muhafaza edilir.
+(2) **(Değişik:RG-14/3/2023-32132)** Miadı geçen veyahut kullanılamaz hâle gelmiş olan ilaçlar, eczane sahip veya mesul müdürü tarafından listelenir ve bu ilaçların imhası için il sağlık müdürlüğüne başvuru yapılır. İl sağlık müdürlüğü yetkilisi ve eczacı odası temsilcisi ile beraber tutanak düzenlenerek ilaçların imhası ilgili mevzuat doğrultusunda yapılır veya yaptırılır ve keyfiyet vergi dairesine bildirilir. Düzenlenen tutanak istendiğinde ibraz edilmek üzere eczanede muhafaza edilir.
 
 #### Eczaneden satışı yapılacak ürünler
 
@@ -485,7 +485,7 @@ c) Veteriner biyolojik ürünler hariç veteriner tıbbi ürünleri,
 
 d) Kapsamı Kurumca belirlenen tıbbi malzemeler,
 
-e) (Değişik:RG-29/6/2019-30816) Anne sütü ve beslenme yetersizliğinde kullanılan çocuk mamaları, 1/11/2007 tarihli ve 26687 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Bebek ve Küçük Çocuk Ek Gıdaları Tebliği (Tebliğ No: 2007/50)’ne uygun ürünler ile erişkinlerin metabolizma bozukluklarında kullanılan tüm destekleyici ürünler,
+e) **(Değişik:RG-29/6/2019-30816)** Anne sütü ve beslenme yetersizliğinde kullanılan çocuk mamaları, 1/11/2007 tarihli ve 26687 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Bebek ve Küçük Çocuk Ek Gıdaları Tebliği (Tebliğ No: 2007/50)’ne uygun ürünler ile erişkinlerin metabolizma bozukluklarında kullanılan tüm destekleyici ürünler,
 
 f) Türk Eczacıları Birliği tarafından çıkarılan ve Bakanlıkça onaylanan bilimsel yayınlar.
 
@@ -507,7 +507,7 @@ f) Türk Eczacıları Birliği tarafından çıkarılan ve Bakanlıkça onaylana
 
 ### YEDİNCİ BÖLÜM
 
-Eczanelerin Denetimi ve Kapatılması
+**Eczanelerin Denetimi ve Kapatılması**
 
 #### Eczane defter ve kayıtları
 
@@ -517,7 +517,7 @@ Eczanelerin Denetimi ve Kapatılması
 
 #### Denetime yetkili olanlar
 
-**MADDE 46 –** (1) (Değişik:RG-23/8/2014-29097) Eczane denetimleri, Kurum sağlık denetçileri, sağlık müdürlüğü tarafından görevlendirilecek eczacı, sağlık müdürlüğünde görevli eczacı yoksa ildeki Bakanlık ve bağlı kuruluşlarına ait kurum ve kuruluşlarda görev yapan ve sağlık müdürlüğü tarafından görevlendirilecek eczacı veya resmi tabip tarafından yapılır.
+**MADDE 46 –** (1) **(Değişik:RG-23/8/2014-29097)** Eczane denetimleri, Kurum sağlık denetçileri, sağlık müdürlüğü tarafından görevlendirilecek eczacı, sağlık müdürlüğünde görevli eczacı yoksa ildeki Bakanlık ve bağlı kuruluşlarına ait kurum ve kuruluşlarda görev yapan ve sağlık müdürlüğü tarafından görevlendirilecek eczacı veya resmi tabip tarafından yapılır.
 
 #### Denetimin şekli
 
@@ -527,7 +527,7 @@ Eczanelerin Denetimi ve Kapatılması
 
 (3) Eczanede tespit edilen eksiklik ya da mevzuata aykırılıkların, ceza uygulamasına rağmen bir sonraki denetimde giderilmemesi hâlinde eksiklik tamamlanıncaya kadar ruhsat askıya alınır.
 
-(4) (Ek:RG-28/3/2016-29667) Yapılan denetimlerde eczacının sağlık durumunda eczacılık mesleğini yapmasına engel teşkil edecek değişiklikler olduğunun görülmesi halinde sağlık raporlarının veya gerek görülmesi durumunda adli sicil kaydının güncellenmesi istenir.
+(4) **(Ek:RG-28/3/2016-29667)** Yapılan denetimlerde eczacının sağlık durumunda eczacılık mesleğini yapmasına engel teşkil edecek değişiklikler olduğunun görülmesi halinde sağlık raporlarının veya gerek görülmesi durumunda adli sicil kaydının güncellenmesi istenir.
 
 #### Eczanenin kapatılması
 
@@ -541,15 +541,15 @@ Eczanelerin Denetimi ve Kapatılması
 
 #### Eczanenin kapalı tutulması
 
-**MADDE 49 –** (1) (Değişik cümle:RG-14/3/2023-32132) Birden fazla eczanesi bulunan yerlerde eczacının hastalık ve sair mazeretlere istinaden talebi ile (Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan ibare: meslek hayatı boyunca ) toplam kapalılık süresi iki yılı geçmemek kaydıyla eczane kapalı tutulabilir. Bunun için eczane ruhsatnamesi geçici olarak il sağlık müdürlüğüne teslim edilir. Varsa eczanede bulunan ilaçlar saklama şartlarına uygun bir şekilde muhafaza edilir. Eczacının faaliyetine iki yıllık geçici kapatma süresi sona ermeden önce tekrar devam edeceğini beyan etmesi durumunda eczane olacak yerin kontrolünden sonra ruhsatnamesi iade edilir veya herhangi bir değişiklik hâlinde yeniden düzenlenir. Bu durumdaki eczaneler için bulunduğu ilçe değişmemek kaydıyla bu Yönetmelikteki nüfus kriteri uygulanmaz.
+**MADDE 49 –** (1) **(Değişik cümle:RG-14/3/2023-32132)** Birden fazla eczanesi bulunan yerlerde eczacının hastalık ve sair mazeretlere istinaden talebi ile **(Danıştay Onuncu Dairesinin 7/3/2024 tarihli ve E.:2023/4791 sayılı kararı ile yürütmesi durdurulan ibare:** <i>meslek hayatı boyunca )</i> toplam kapalılık süresi iki yılı geçmemek kaydıyla eczane kapalı tutulabilir. Bunun için eczane ruhsatnamesi geçici olarak il sağlık müdürlüğüne teslim edilir. Varsa eczanede bulunan ilaçlar saklama şartlarına uygun bir şekilde muhafaza edilir. Eczacının faaliyetine iki yıllık geçici kapatma süresi sona ermeden önce tekrar devam edeceğini beyan etmesi durumunda eczane olacak yerin kontrolünden sonra ruhsatnamesi iade edilir veya herhangi bir değişiklik hâlinde yeniden düzenlenir. Bu durumdaki eczaneler için bulunduğu ilçe değişmemek kaydıyla bu Yönetmelikteki nüfus kriteri uygulanmaz.
 
 (2) Kanunun 8 inci maddesinde sayılan hâllerde, il sağlık müdürlüğünce eczaneye bir mesul müdür atanıncaya kadar eczane geçici olarak kapalı tutulur.
 
-(3) (Ek:RG-29/6/2019-30816) Bu madde hükmüne göre eczanesini kapalı tutan eczacılar, kamuda veya özel sektörde eczacılık hizmeti yapabilir.
+(3) **(Ek:RG-29/6/2019-30816)** Bu madde hükmüne göre eczanesini kapalı tutan eczacılar, kamuda veya özel sektörde eczacılık hizmeti yapabilir.
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Eczacılığa ilişkin kılavuzlar
 
@@ -565,9 +565,9 @@ Eczanelerin Denetimi ve Kapatılması
 
 (1) Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Bakanlıkça kabul edilen pandemi , biyolojik tehdit ile deprem, sel, yangın gibi doğal afet durumlarında veya toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ciddi halk sağlığı sorunlarında eczacılık faaliyetlerine ilişkin olarak Kurum tarafından geçici olarak istisnalar getirilebilir.
 
-Mevcut eczaneler
+**Mevcut eczaneler**
 
-GEÇİCİ MADDE 1 (1) – (1) Bu Yönetmelik yürürlüğe girmeden önce eczane ruhsatnamesi almış eczacılar ile eczane açmak, nakletmek veya devretmek üzere yapılmış başvuruları henüz sonuçlandırılmamış olan eczacılar, 20 nci maddenin birinci, ikinci ve dördüncü fıkraları hükmü hariç olmak üzere, Yönetmeliğin diğer hükümleri ile öngörülen gerekleri en geç yirmi dört ay içerisinde yerine getirmek zorundadır. Aksi takdirde, durumlarının bu Yönetmeliğe uymadığı yapılacak kontrol ve denetim neticesinde anlaşılan eczanelerin faaliyetleri durdurulur. (1)
+**GEÇİCİ MADDE 1 (1) –** <i>(1) Bu Yönetmelik yürürlüğe girmeden önce eczane ruhsatnamesi almış eczacılar ile eczane açmak, nakletmek veya devretmek üzere yapılmış başvuruları henüz sonuçlandırılmamış olan eczacılar, 20 nci maddenin birinci, ikinci ve dördüncü fıkraları hükmü hariç olmak üzere, Yönetmeliğin diğer hükümleri ile öngörülen gerekleri en geç yirmi dört ay içerisinde yerine getirmek zorundadır. Aksi takdirde, durumlarının bu Yönetmeliğe uymadığı yapılacak kontrol ve denetim neticesinde anlaşılan eczanelerin faaliyetleri durdurulur.</i> (1)
 
 #### Eczane açma, nakil ve devir hakkı
 
@@ -589,7 +589,7 @@ GEÇİCİ MADDE 1 (1) – (1) Bu Yönetmelik yürürlüğe girmeden önce eczane
 
 (1) 20 nci maddenin yedinci fıkrasında yer alan “kritik durumlarda uyarı verecek erken uyarı sisteminin ve geriye dönük hafıza kaydı bulunan termometrenin bulunması” yükümlülüğü yeni açılan ve nakil olan eczaneler tarafından bu hükmün yürürlüğe girdiği tarihten itibaren, faaliyette bulunan eczaneler tarafından en geç 31/12/2022 tarihine kadar yerine getirilir.
 
-(2) (Değişik:RG-27/5/2023-32203) 25 inci maddenin ikinci fıkrasında yer alan “özellikleri Türk Eczacıları Birliği tarafından standardize edilmiş ışıklı veya ışıksız levha konulur” yükümlülüğü yeni açılan, devir ve nakil olan serbest eczaneler tarafından bu hükmün yürürlüğe girdiği tarihten itibaren yerine getirilir.
+(2) **(Değişik:RG-27/5/2023-32203)** 25 inci maddenin ikinci fıkrasında yer alan “özellikleri Türk Eczacıları Birliği tarafından standardize edilmiş ışıklı veya ışıksız levha konulur” yükümlülüğü yeni açılan, devir ve nakil olan serbest eczaneler tarafından bu hükmün yürürlüğe girdiği tarihten itibaren yerine getirilir.
 
 #### Yürürlük
 
@@ -601,7 +601,7 @@ GEÇİCİ MADDE 1 (1) – (1) Bu Yönetmelik yürürlüğe girmeden önce eczane
 
 _____________
 
-(1) Danıştay Onbeşinci Dairesinin 18/5/2016 tarihli ve Esas No:2014/5906; Karar No:2016/3682 sayılı kararı ile Yönetmeliğin Geçici 1 inci maddesinin iptaline karar verilmiştir.
+(1) <i>Danıştay Onbeşinci Dairesinin 18/5/2016 tarihli ve Esas No:2014/5906; Karar No:2016/3682 sayılı kararı ile Yönetmeliğin Geçici 1 inci maddesinin iptaline karar verilmiştir.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

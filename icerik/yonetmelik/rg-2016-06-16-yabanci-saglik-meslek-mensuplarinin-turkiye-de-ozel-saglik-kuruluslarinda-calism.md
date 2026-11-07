@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-YABANCI SAĞLIK MESLEK MENSUPLARININ TÜRKİYE’DE ÖZEL SAĞLIK KURULUŞLARINDA ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**YABANCI SAĞLIK MESLEK MENSUPLARININ TÜRKİYE’DE ÖZEL SAĞLIK KURULUŞLARINDA ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 22/2/2012 tarihli ve 28212 sayılı Resmî Gazete’de yayımlanan Yabancı Sağlık Meslek Mensuplarının Türkiye’de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmeliğin 2 nci maddesinin birinci ve ikinci fıkralarında geçen “, ebe” ibareleri yürürlükten kaldırılmıştır.
+**MADDE 1 –** 22/2/2012 tarihli ve 28212 sayılı Resmî Gazete’de yayımlanan Yabancı Sağlık Meslek Mensuplarının Türkiye’de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmeliğin 2 nci maddesinin birinci ve ikinci fıkralarında geçen “, ebe” ibareleri yürürlükten kaldırılmıştır.
 
 MADDE 2 – Aynı Yönetmeliğin geçici 1 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 “Geçici korunan sağlık meslek mensuplarının muafiyet durumu

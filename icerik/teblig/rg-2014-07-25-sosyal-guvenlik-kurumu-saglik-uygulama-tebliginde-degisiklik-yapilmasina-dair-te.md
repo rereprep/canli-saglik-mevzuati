@@ -12,48 +12,48 @@ durum: "yürürlükte"
 ---
 
 Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ MADDE
-1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.7.3 numaralı maddesi yürürlükten kaldırılmıştır.
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ MADDE**
+**1-** 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.7.3 numaralı maddesi yürürlükten kaldırılmıştır.
 
 
 MADDE 2 – Aynı Tebliğin 1.9.1 numaralı maddesinin birinci fıkrasının (b) bendine birinci cümleden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
-“Sağlık Bakanlığı ve bağlı kuruluşlarına ait sağlık tesisleri ve üniversitelere ait ilgili birimlerin birlikte kullanımına ilişkin protokolü bulunan sağlık hizmeti sunucularında öğretim üyeleri tarafından ilave ücret alınamaz.”
+**“Sağlık Bakanlığı ve bağlı kuruluşlarına ait sağlık tesisleri ve üniversitelere ait ilgili birimlerin birlikte kullanımına ilişkin protokolü bulunan sağlık hizmeti sunucularında öğretim üyeleri tarafından ilave ücret alınamaz.”**
 
 
 MADDE 3 – Aynı Tebliğin 1.9.3 numaralı maddesinin birinci fıkrasının (ğ) bendi aşağıdaki şekilde değiştirilmiştir.
-“ğ) Kardiyovasküler cerrahi branşında yapılan cerrahi işlemler. (İstisnai sağlık hizmetlerinde belirtilen işlemler hariç)”
+**“ğ) Kardiyovasküler cerrahi branşında yapılan cerrahi işlemler. (İstisnai sağlık hizmetlerinde belirtilen işlemler hariç)”**
 
 
 MADDE 4 – Aynı Tebliğin 2.2.1.B-1 numaralı alt maddesinin onikinci fıkrasının ikinci cümlesinde yer alan “geçemez” ibaresinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
-“Acil servis/polikliniğine başvurularda ise özel sağlık hizmeti sunucularında bir acil servis doktoru için günlük muayene sayısı 90’ı geçemez. Sağlık Bakanlığının “Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ” e göre triyaj uygulamasında Kırmızı alan tarifine giren acil servis/polikliniğine başvurular olması halinde günlük muayene sayısı 90’ı geçebilir, ancak bu durum dahil günlük toplam sayı hiçbir şekilde 100’ü geçemez.”
+**“Acil servis/polikliniğine başvurularda ise özel sağlık hizmeti sunucularında bir acil servis doktoru için günlük muayene sayısı 90’ı geçemez. Sağlık Bakanlığının “Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ” e göre triyaj uygulamasında Kırmızı alan tarifine giren acil servis/polikliniğine başvurular olması halinde günlük muayene sayısı 90’ı geçebilir, ancak bu durum dahil günlük toplam sayı hiçbir şekilde 100’ü geçemez.”**
 
-MADDE 5-Aynı Tebliğin 2.4.1 numaralı maddesinin ikinci fıkrasında yer alan “işlem bedeli ile her implant için 90 (doksan) TL” ibaresinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
-“,3713 sayılı Kanuna göre aylık bağlanmış maluller, 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 56 ncı maddesi veya 2330 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (e) ve (f) bentlerinde sayılanlardan 3713 sayılı Kanun kapsamına giren olaylar sebebiyle aylık bağlananlar ile 3713 sayılı Kanun kapsamına girmese dahi başkasının yardımı ve desteği olmaksızın yaşamak için gereken hareketleri yapamayacak derecede malul olan vazife ve harp malullerinde ise her implant için en fazla 700 (yedi yüz ) TL üzerinden”
+**MADDE 5-Aynı Tebliğin 2.4.1 numaralı maddesinin ikinci fıkrasında yer alan “işlem bedeli ile her implant için 90 (doksan) TL” ibaresinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.**
+**“,3713 sayılı Kanuna göre aylık bağlanmış maluller, 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 56 ncı maddesi veya 2330 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (e) ve (f) bentlerinde sayılanlardan 3713 sayılı Kanun kapsamına giren olaylar sebebiyle aylık bağlananlar ile 3713 sayılı Kanun kapsamına girmese dahi başkasının yardımı ve desteği olmaksızın yaşamak için gereken hareketleri yapamayacak derecede malul olan vazife ve harp malullerinde ise her implant için en fazla 700 (yedi yüz ) TL üzerinden”**
 
 
 MADDE 6 – Aynı Tebliğin 2.4.1.B numaralı alt maddesi aşağıdaki şekilde değiştirilmiştir..
-“(1) 5510 sayılı Kanunun 60/c-1, 60/c-3 veya 60/c-9 bentlerinde sayılan kişiler hariç olmak üzere Kurumumuz kapsamındaki diğer kişilerin özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucuları diş ünitelerindeki ağız ve diş sağlığı hizmetleri aşağıdaki şekilde yapılacaktır.
-2.4.1.B-1 Diş tedavileri uygulama esasları
-(1) %40 ve üzerinde özürlü kişiler hariç olmak üzere kapsamdaki kişilerin özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularındaki diş ünitelerinde yapılan ağız ve diş sağlığına ilişkin tedavileri (ortodonti hariç) Kurumca ödenmez.
-(2) %40 ve üzerinde özürlü kişilerin özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularındaki diş ünitelerinde yapılan diş tedavilerinin ödenebilmesi için, özürlülük durumu belgelendirilmelidir. Bu hastalar;
-Sağlık Bakanlığına bağlı ağız ve diş sağlığı merkezleri (ADSM), ağız ve diş sağlığı hastaneleri, ağız ve diş sağlığı eğitim ve araştırma hastaneleri veya üniversitelerin diş hekimliği fakültelerince üç diş hekimi tarafından sağlık kurulu raporu düzenlenmesi halinde, özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularındaki diş ünitelerine başvurabilirler. Sağlık kurulu raporunda, yapılacak ağız ve diş sağlığına ilişkin tedaviler açıkça belirtilmelidir. Sağlık kurulu raporunun düzenlendiği tarihten itibaren 10 gün (raporun alındığı gün dahil) içinde tedaviye başlanılması gerekmektedir.
-(3) Başta zihinsel özürlü olmak üzere iletişim kurulamayan veya algılama güçlüğü yaşanan özürlü kişilerin diş tedavileri, sınırlı uyuşturma altında gerçekleştirilemiyorsa ve genel anestezi altında müdahale gerekmesi durumunda genel anestezi bedelinin ödenebilmesi için; tedavinin anesteziyoloji ve reanimasyon uzman hekiminin sorumluluğunda genel anestezi altında cerrahi müdahale uygulanabilen, asgari tıbbi malzeme ve ilaçların bulunduğu genel anestezi ile müdahale birimi olan sağlık hizmeti sunucularında yapıldığının belgelendirilmesi gerekmektedir.
-(4) 14/1/2012 tarihli ve 28173 sayılı Resmî Gazete’de yayımlanan “Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik” hükümlerine uygun olarak düzenlenmiş raporun bir örneği faturaya eklenir.
-(5) Ortodontik tedavi gereksinimi olan hastalar; Sağlık Bakanlığına bağlı ağız ve diş sağlığı merkezleri (ADSM), ağız ve diş sağlığı hastaneleri, ağız ve diş sağlığı eğitim ve araştırma hastaneleri veya üniversitelerin diş hekimliği fakültelerince en az bir ortodonti uzmanının/ortodonti konusunda doktoraya sahip diş hekiminin yer aldığı üç diş hekimi tarafından sağlık kurulu raporu düzenlenmesi halinde, özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularındaki diş ünitelerine başvurabilirler. Tedavinin başlanacağı il sınırları içerisinde, ortodonti uzmanının/ortodonti konusunda doktoraya sahip diş hekiminin bulunmaması halinde sağlık kurulu üç diş hekiminden oluşur. Sağlık kurulu raporunda yapılan tedavinin estetik amaçlı olmadığı ve maloklüzyon tipi açıkça belirtilir. Sağlık kurulu raporunun düzenlendiği tarihten itibaren 6 ay içinde tedaviye başlanılması gerekmektedir.
-(6) Özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularınca yapılan diş tedavileri sonrasında, SUT eki EK-2/Ç-2 Listesinde yer alan “Diş Tedavileri Kontrol Formu” ve/veya ortodontik tedavilerde SUT eki EK-2/Ç-3 Listesinde yer alan “Tanıya Dayalı Ortodontik Tedavi Kontrol Formu”nda yer alan tedavinin yapıldığına dair bölümün diş ünitesi bulunan protokollü resmi sağlık hizmeti sunucusunda görevli diş hekimi tarafından onaylanması gerekmektedir.
-2.4.1.B-2- Diş tedavileri ödeme işlemleri
-(1) Özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularından, %40 ve üzeri özürlü hastalara verilen ağız ve diş sağlığı hizmetlerinin ücretleri SUT eki EK-2/Ç Listesinde yer alması şartıyla, SUT eki EK-2/Ç Listesi üzerinden ödenir.
-(2) Özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucuları diş ünitelerinde uygulanan ortodontik tedavi bedelleri SUT’un 2.4.1(4) fıkrasına göre ödenir.
-(3) Ödemelerde; SUT ve eki EK-2/Ç Listesindeki süre ve adet ile ilgili hükümlere uyulur.
-(4) Özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucuları diş ünitelerinde %40 ve üzeri özürlü hastalara verilen ağız ve diş sağlığı hizmetleri kapsamında uygulanan protez tedavileri için malzeme dahil döküm ve işçilik ücreti ödenmez.
-(5) Ortodontik tedavi uygulanan kişilere ait faturaların ödemeleri SUT eki EK-2/Ç-3 Listesinde yer alan formlar üzerinden üç aşamada yapılır. Her bir aşama tamamlandığında tedavi bedelinin 1/3’ü ödenir.
-2.4.1.B-3- Diğer hükümler
-(1) Hastalar, başvurdukları Kurum ile sözleşmeli ağız ve diş sağlığı hizmeti verilen sağlık hizmeti sunucularınca ağız ve diş sağlığı tedavileri için düzenlenen sağlık kurulu raporunda ve/veya ortodontik tedaviler için düzenlenen sağlık kurulu raporunda imzası bulunan hekimin kendisinin, birinci derece yakınının veya bunların ortaklarının özel muayenehanelerince/özel sağlık hizmeti sunucularınca tedavi edilemezler. Bu şekilde, sağlık kurulu raporlarında onayı bulunan ve tedaviyi sağlayan hekimin aynı olduğu veya eşi veya ortakları tarafından yapıldığı belirlenen tedavilere ait giderler ödenmez.
-(2) SUT eki EK-2/Ç Listesinde (*) işaretli olan tedaviler ile aynı listenin “7.1 Tanıya dayalı ortodontik tedavi işlemleri” başlıklı bölümünde yer alan tedavilere ait giderlerin karşılanabilmesi için, tedavinin konularında uzman veya doktoralı diş hekimleri tarafından yapıldığının belgelendirilmesi gerekmektedir.”
+**“(1) 5510 sayılı Kanunun 60/c-1, 60/c-3 veya 60/c-9 bentlerinde sayılan kişiler hariç olmak üzere Kurumumuz kapsamındaki diğer kişilerin özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucuları diş ünitelerindeki ağız ve diş sağlığı hizmetleri aşağıdaki şekilde yapılacaktır.**
+**2.4.1.B-1 Diş tedavileri uygulama esasları**
+**(1) %40 ve üzerinde özürlü kişiler hariç olmak üzere kapsamdaki kişilerin özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularındaki diş ünitelerinde yapılan ağız ve diş sağlığına ilişkin tedavileri (ortodonti hariç) Kurumca ödenmez.**
+**(2) %40 ve üzerinde özürlü kişilerin özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularındaki diş ünitelerinde yapılan diş tedavilerinin ödenebilmesi için, özürlülük durumu belgelendirilmelidir. Bu hastalar;**
+**Sağlık Bakanlığına bağlı ağız ve diş sağlığı merkezleri (ADSM), ağız ve diş sağlığı hastaneleri, ağız ve diş sağlığı eğitim ve araştırma hastaneleri veya üniversitelerin diş hekimliği fakültelerince üç diş hekimi tarafından sağlık kurulu raporu düzenlenmesi halinde, özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularındaki diş ünitelerine başvurabilirler. Sağlık kurulu raporunda, yapılacak ağız ve diş sağlığına ilişkin tedaviler açıkça belirtilmelidir. Sağlık kurulu raporunun düzenlendiği tarihten itibaren 10 gün (raporun alındığı gün dahil) içinde tedaviye başlanılması gerekmektedir.**
+**(3) Başta zihinsel özürlü olmak üzere iletişim kurulamayan veya algılama güçlüğü yaşanan özürlü kişilerin diş tedavileri, sınırlı uyuşturma altında gerçekleştirilemiyorsa ve genel anestezi altında müdahale gerekmesi durumunda genel anestezi bedelinin ödenebilmesi için; tedavinin anesteziyoloji ve reanimasyon uzman hekiminin sorumluluğunda genel anestezi altında cerrahi müdahale uygulanabilen, asgari tıbbi malzeme ve ilaçların bulunduğu genel anestezi ile müdahale birimi olan sağlık hizmeti sunucularında yapıldığının belgelendirilmesi gerekmektedir.**
+**(4) 14/1/2012 tarihli ve 28173 sayılı Resmî Gazete’de yayımlanan “Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik” hükümlerine uygun olarak düzenlenmiş raporun bir örneği faturaya eklenir.**
+**(5) Ortodontik tedavi gereksinimi olan hastalar; Sağlık Bakanlığına bağlı ağız ve diş sağlığı merkezleri (ADSM), ağız ve diş sağlığı hastaneleri, ağız ve diş sağlığı eğitim ve araştırma hastaneleri veya üniversitelerin diş hekimliği fakültelerince en az bir ortodonti uzmanının/ortodonti konusunda doktoraya sahip diş hekiminin yer aldığı üç diş hekimi tarafından sağlık kurulu raporu düzenlenmesi halinde, özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularındaki diş ünitelerine başvurabilirler.** Tedavinin başlanacağı il sınırları içerisinde, ortodonti uzmanının/ortodonti konusunda doktoraya sahip diş hekiminin bulunmaması halinde sağlık kurulu üç diş hekiminden oluşur. Sağlık kurulu raporunda yapılan tedavinin estetik amaçlı olmadığı ve maloklüzyon tipi açıkça belirtilir. Sağlık kurulu raporunun düzenlendiği tarihten itibaren 6 ay içinde tedaviye başlanılması gerekmektedir.
+**(6) Özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularınca yapılan diş tedavileri sonrasında, SUT eki EK-2/Ç-2 Listesinde yer alan “Diş Tedavileri Kontrol Formu” ve/veya ortodontik tedavilerde SUT eki EK-2/Ç-3 Listesinde yer alan “Tanıya Dayalı Ortodontik Tedavi Kontrol Formu”nda yer alan tedavinin yapıldığına dair bölümün diş ünitesi bulunan protokollü resmi sağlık hizmeti sunucusunda görevli diş hekimi tarafından onaylanması gerekmektedir.**
+**2.4.1.B-2- Diş tedavileri ödeme işlemleri**
+**(1) Özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucularından, %40 ve üzeri özürlü hastalara verilen ağız ve diş sağlığı hizmetlerinin ücretleri SUT eki EK-2/Ç Listesinde yer alması şartıyla, SUT eki EK-2/Ç Listesi üzerinden ödenir.**
+**(2) Özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucuları diş ünitelerinde uygulanan ortodontik tedavi bedelleri SUT’un 2.4.1(4) fıkrasına göre ödenir.**
+**(3) Ödemelerde; SUT ve eki EK-2/Ç Listesindeki süre ve adet ile ilgili hükümlere uyulur.**
+**(4) Özel sağlık hizmeti sunucuları ile Kurumla sözleşmesi olmayan resmi sağlık hizmeti sunucuları diş ünitelerinde %40 ve üzeri özürlü hastalara verilen ağız ve diş sağlığı hizmetleri kapsamında uygulanan protez tedavileri için malzeme dahil döküm ve işçilik ücreti ödenmez.**
+**(5) Ortodontik tedavi uygulanan kişilere ait faturaların ödemeleri SUT eki EK-2/Ç-3 Listesinde yer alan formlar üzerinden üç aşamada yapılır. Her bir aşama tamamlandığında tedavi bedelinin 1/3’ü ödenir.**
+**2.4.1.B-3- Diğer hükümler**
+**(1) Hastalar, başvurdukları Kurum ile sözleşmeli ağız ve diş sağlığı hizmeti verilen sağlık hizmeti sunucularınca ağız ve diş sağlığı tedavileri için düzenlenen sağlık kurulu raporunda ve/veya ortodontik tedaviler için düzenlenen sağlık kurulu raporunda imzası bulunan hekimin kendisinin, birinci derece yakınının veya bunların ortaklarının özel muayenehanelerince/özel sağlık hizmeti sunucularınca tedavi edilemezler. Bu şekilde, sağlık kurulu raporlarında onayı bulunan ve tedaviyi sağlayan hekimin aynı olduğu veya eşi veya ortakları tarafından yapıldığı belirlenen tedavilere ait giderler ödenmez.**
+**(2) SUT eki EK-2/Ç Listesinde (*) işaretli olan tedaviler ile aynı listenin “7.1 Tanıya dayalı ortodontik tedavi işlemleri” başlıklı bölümünde yer alan tedavilere ait giderlerin karşılanabilmesi için, tedavinin konularında uzman veya doktoralı diş hekimleri tarafından yapıldığının belgelendirilmesi gerekmektedir.”**
 
 
 MADDE 7 – Aynı Tebliğin 2.4.2.B-1 numaralı alt maddesinin beşinci fıkrasında yer alan “Yurt içi kemik iliği” ibaresinden sonra gelmek üzere “/kordon kanı temini” ibaresi eklenmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
-“(12) 1/5/2013 tarihinden önceki SUT kuralları gereği Kurumumuzca karşılanamayan yurt dışındaki kemik iliği bankaları aracılığı ile yapılan kemik iliği/kordon kanı tarama ve teminine ilişkin fatura bedelleri yukarıdaki hükümler doğrultusunda Kurumca karşılanır.”
+**“(12) 1/5/2013 tarihinden önceki SUT kuralları gereği Kurumumuzca karşılanamayan yurt dışındaki kemik iliği bankaları aracılığı ile yapılan kemik iliği/kordon kanı tarama ve teminine ilişkin fatura bedelleri yukarıdaki hükümler doğrultusunda Kurumca karşılanır.”**
 
 MADDE 8- Aynı Tebliğin 2.4.4.F-1 numaralı alt maddesinin birinci fıkrasının (b) bendinin bir numaralı alt bendinin sonuna aşağıdaki cümle eklenmiştir.
 “ancak SUT eki EK-2/D-2 Listesinde “G80 kodu ile yer alan tanılarda ise; 31-60 seansa kadar (60 ıncı seans dahil) olan fizik tedavi ve rehabilitasyon uygulamaları için en az bir fiziksel tıp ve rehabilitasyon uzman hekiminin yer aldığı (sağlık hizmeti sunucusunda yeterli sayıda fiziksel tıp ve rehabilitasyon uzman hekimi bulunması durumunda sağlık kurulu bu hekimler tarafından oluşturulacaktır) resmi sağlık kurumu sağlık kurulunca,”
@@ -63,7 +63,7 @@ MADDE 9- Aynı Tebliğin 2.4.4.F-2 numaralı alt maddesinin üçüncü fıkrası
 
 MADDE 10- Aynı Tebliğin 2.4.4.F-5 numaralı alt maddesinin beşinci fıkrasına son cümle olarak “Özel sağlık hizmet sunucularında ise en fazla 8 hasta faturalandırılabilir.” cümlesi eklenmiştir.
 
-MADDE 11- Aynı Tebliğin 2.4.4.İ-1 numaralı alt maddesinin birinci fıkrasında yer alan “Evli olmakla birlikte eşlerden herhangi birinin evlat edinilmiş çocukları hariç soy bağı kurulmuş sağ çocuğunun olmaması koşuluyla;” ibaresi “Evli olmakla birlikte evlat edinilmiş çocukları hariç çocuk sahibi olmayan” olarak değiştirilmiş ve aynı alt maddenin birinci fıkrasının (b) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11**- Aynı Tebliğin 2.4.4.İ-1 numaralı alt maddesinin birinci fıkrasında yer alan “Evli olmakla birlikte eşlerden herhangi birinin evlat edinilmiş çocukları hariç soy bağı kurulmuş sağ çocuğunun olmaması koşuluyla;” ibaresi “Evli olmakla birlikte evlat edinilmiş çocukları hariç çocuk sahibi olmayan” olarak değiştirilmiş ve aynı alt maddenin birinci fıkrasının (b) bendi aşağıdaki şekilde değiştirilmiştir.
 “b) 23 yaşını doldurmuş, 39 yaşından küçük,”
 
 MADDE 12- Aynı Tebliğin 2.5.3.A-2 alt maddesinin ikinci fıkrasında yer alan “en çok iki yıla kadar” ibaresi madde metninden çıkarılmıştır.
@@ -237,7 +237,7 @@ a) Konvansiyonel metodoloji ile çalışan teknolojiler için; Kayıt çıktıla
 b) Cerrah güdümlü metodoloji ile çalışan teknolojiler için; Kayıt çıktılarının bir sureti ile cerrahi işlemi gerçekleştiren hekim ve elektronörofizyoloji teknikeri tarafından düzenlenecek nöromonitörizasyon kayıt raporunun bir sureti fatura eki belge olarak ibraz edilmelidir. Diğer suret ise hasta dosyasında saklanmalıdır.”
 
 
-MADDE 19 – Aynı Tebliğin 4.2.1 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 19 –** Aynı Tebliğin 4.2.1 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a)
 Maddenin başlığı aşağıdaki şekilde değiştirilmiştir.
 “4.2.1 - Leflunomid, altın preparatları, Anti-TNF ilaçlar, rituksimab (romatoid artritte), abatasept, ustekinumab ve tosilizumab kullanım ilkeleri”
@@ -246,7 +246,7 @@ b) 4.2.1.C numaralı alt maddesinin başlığı aşağıdaki şekilde değiştir
 c) 4.2.1.C-1 numaralı maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiş ve dokuzuncu fıkrasında yer alan “Psoriyazis vulgariste anti-TNF ilaçlar;” ibaresi “Psoriyazis vulgaris /plak tip psoriyazis /plak psoriyaziste anti-TNF ilaçlar;” olarak değiştirilmiştir.
 “a) Romatoid artritli erişkin hastalarda; biri methotrexat olmak üzere en az 3 farklı hastalık modifiye edici antiromatizmal ilacı, en az üçer ay kullanmış olmasına rağmen hastalık aktivitesinin kontrol altına alınamadığı (Hastalık Aktivite Skoru (DAS) 28 > 5,1) hallerde, 3 ay süreli sağlık kurulu raporuna dayanılarak ilaca başlanır. İlaca başlandıktan 3 ay sonra yapılan değerlendirmede DAS 28 skorunda 0,6 (sertolizumab için 1,2) puandan fazla düşme olması halinde, bu durumun yeni düzenlenecek 3 ay (sertolizumab için 6 ay) süreli sağlık kurulu raporunda belirtilmesi koşulu ile 3 ay (sertolizumab için 6 ay) daha tedaviye devam edilir. Bu raporun süresi sonunda DAS 28 skorunda toplam 1,2 puandan fazla düşme olması halinde bu durumun yeni düzenlenecek 6 ay süreli sağlık kurulu raporunda belirtilmesi koşulu ile hastaların tedavisine devam edilebilir. Tedavinin devamında DAS 28 kriterine 6 ayda bir bakılır, başlangıç ve yeni DAS 28 skorları her sağlık kurulu raporunda belirtilir. Tedaviye rağmen hastanın DAS 28 skorunda, başlangıç DAS 28 skoruna göre, 1,2 puandan fazla düşme olmaması halinde tedavi sonlandırılır.”
 ç) 4.2.1.C-2 numaralı maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
-“4.2.1.C-2 – Rituksimab
+“**4.2.1.C-2 – Rituksimab**
 (1) Romatoid artritli hastalarda;
 a) Methotreksat ile kombinasyon halinde, aktif romatoid artriti bulunan ve bir veya daha fazla anti TNF tedavilerine rağmen hastalığı kontrol edilemeyen (DAS 28 SKORU >5.1 olan) veya TNF inhibitörü başlanması uygun olmayan/görülmeyen veya TNF inhibitörlerine karşı intoleransı olan erişkin hastalarda, bu durumun belirtildiği sağlık kurulu raporuna dayanılarak romatoloji veya klinik immunoloji veya fiziksel tıp ve rehabilitasyon uzman hekimleri tarafından reçetelenir.
 b) Sağlık kurulu raporları 6 aylık olarak düzenlenir. İlk raporun süresi sonunda DAS 28 skorunda toplam 1,2 puandan fazla düşme olması halinde bu durumun yeni düzenlenecek 6 ay süreli sağlık kurulu raporunda belirtilmesi koşulu ile hastaların tedavisine devam edilebilir.
@@ -277,7 +277,7 @@ a) 3 aylık anti-TNF tedavisine rağmen ACR pediatrik 30 cevap kriterine ulaşam
 b) İlk 3 aylık tosilizumab kullanımı sonunda ACR pediatrik 30 cevabına ulaşmış hastalar için bu durum raporunda belirtilmek koşuluyla tedavi devam ettirilir. Bu raporun süresi sonunda hastanın ACR pediatrik cevap kriterinin 50 ve üzerinde olması halinde bu durumun ve 3 üncü aydaki ACR pediatrik cevap kriterinin yeni düzenlenecek 6 ay süreli sağlık kurulu raporunda belirtilmesi koşulu ile hastaların tedavisine devam edilebilir. Tedavinin devamında 6 ayda bir ACR pediatrik cevap kriterine bakılır, başlangıç ve ACR cevap kriterleri her sağlık kurulu raporunda belirtilir. Tedaviye rağmen ACR pediatrik cevap kriteri 50’ye ulaşmayan hastalarda tosilizumab tedavisine devam edilmez.”
 
 
-MADDE 20 – Aynı Tebliğin 4.2.2 numaralı maddesinin, birinci fıkrasının son cümlesinde yer alan “Bupropiyon HCl” ibaresinden sonra gelmek üzere “ve agomelatin” ibaresi eklenmiştir.
+**MADDE 20 –** Aynı Tebliğin 4.2.2 numaralı maddesinin, birinci fıkrasının son cümlesinde yer alan “Bupropiyon HCl” ibaresinden sonra gelmek üzere “ve agomelatin” ibaresi eklenmiştir.
 
 MADDE 21 – Aynı Tebliğin 4.2.3 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Birinci fıkrasının ilk cümlesinde yer alan “immünoloji” ibaresinden sonra gelmek üzere “ve/”ibaresi eklenmiştir.
@@ -286,7 +286,7 @@ b)Üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 c) Dördüncü fıkrasında yer alan “göğüs hastalıkları,” ibaresinden sonra gelmek üzere “dermatoloji” ibaresi eklenmiştir.
 ç) Sekizinci fıkrasının sonuna “Mevsim öncesi allergoid immünoterapi her yıl polen mevsimi öncesi dönemde ömür boyu en fazla 5 defaya mahsus olarak yapılabilir.” cümlesi eklenmiştir.
 
-MADDE 22 – Aynı Tebliğin 4.2.8.A numaralı alt maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir ve aşağıdaki fıkra eklenmiştir.
+**MADDE 22 –** Aynı Tebliğin 4.2.8.A numaralı alt maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir ve aşağıdaki fıkra eklenmiştir.
 “(4) Yoğunlaştırıcı-kıvam artırıcı beslenme ürünleri;
 a) 2 yaşın altında yutma/yutkunma bozukluğu veya gastro özofagial reflüsü olan çocuklarda, bu durumun belirtildiği gastroenteroloji, metabolizma ve yoğun bakım uzmanlarının en az birinin bulunduğu sağlık kurulu raporuna dayanılarak bu hekimler ve çocuk sağlığı ve hastalıkları uzman hekimlerince reçete edilebilir.
 Raporda, ürünün adı, günlük kullanım miktarı açıkça belirtilerek en fazla bir kutu yazılır.
@@ -310,16 +310,16 @@ Rapor süresi 6 aydır. Bu rapora dayanılarak yine bu hekimlerce, bu hekimlerin
 (3) Hastanın takip ve tedavi edildiği sağlık kurumlarında, hastalar adına dosyalar açılacak ve tüm bilgiler bu dosyada muhafaza edilecektir.”
 
 
-MADDE 25 – Aynı Tebliğin 4.2.12 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 25 –** Aynı Tebliğin 4.2.12 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) 4.2.12.A numaralı alt maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(3) Hepatit B İmmunglobulinin, Hepatit B virüs yüzey antijeni taşıyan (HbsAg) hastalarda karaciğer transplantasyonu sonrası enfeksiyon profilaksisi endikasyonunda kullanımı;
 a) 100- 1560 IU Hepatit B İmmunglobulini içeren ilaçların prospektüsünde de belirtildiği gibi ameliyat süresince karaciğersiz fazda 10.000 IU, ameliyattan sonra ise her gün (yedi gün boyunca) 2.000 IU şeklindedir. Takip eden uzun dönem tedavi süresinde ise aylık toplam 2.000 IU dozuna kadar kullanılması ve en fazla bu dozda reçetelenmesi uygundur. Uzun dönem tedavinin birinci ayının sonunda Anti HBS düzeyi 100 IU/litrenin altında ise bu durumun raporda/reçetede belirtilmesi koşuluyla ilave 2000 IU kullanılabilir.
 b) 5.000 IU Hepatit B İmmunglobulini içeren ilaçların prospektüsünde de belirtildiği gibi ameliyat süresince karaciğersiz fazda 10.000 IU, ameliyattan sonra ise 1 inci, 4 üncü ve 7 nci günlerde 5.000 IU şeklindedir. Takip eden uzun dönem tedavi süresinde ise 2 ayda bir toplam 5.000 IU dozuna kadar kullanılması ve en fazla bu dozda reçetelenmesi uygundur. Uzun dönem tedavinin birinci ayının sonunda Anti HBS düzeyi 100 IU/litrenin altında ise bu durumun raporda/reçetede belirtilmesi koşuluyla ilave 5000 IU kullanılabilir.”
 b) 4.2.12.B numaralı alt maddesinin birinci fıkrasının c bendinde yer alan “kadın hastalıkları ve doğum uzman hekimi” ibaresinden sonra gelmek üzere “ve hematoloji uzmanı” ibaresi eklenmiş ve ikinci fıkrasında yer alan “romatoloji” ibaresinden sonra gelmek üzere “ve nefroloji uzman hekimleri,” ibaresi eklenmiştir.
 
-MADDE 26 – Aynı Tebliğin 4.2.13 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 26 –** Aynı Tebliğin 4.2.13 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) 4.2.13.A numaralı alt maddesi aşağıdaki şekilde değiştirilmiştir.
-“4.2.13.A - Kronik Hepatit B tedavisi
+**“4.2.13.A - Kronik Hepatit B tedavisi**
 (1) İlk tedaviye başlamak için; HBV DNA seviyesi 10.000 (104) kopya/ml (2.000 IU/ml) veya üzerinde olan hastalar, bu durumun belirtildiği rapor ve eki tetkik sonuçlarına (HBV DNA sonucu ve karaciğer biyopsi raporu) göre;
 a) Erişkin hastalarda;
 karaciğer biyopsisinde Histolojik Aktivite İndeksi (HAI) ≥6 veya fibrozis ≥2
@@ -356,7 +356,7 @@ c) 4.2.13.C numaralı alt maddesinin üçüncü fıkrasının birinci cümlesind
 ç) 4.2.13.E-3 numaralı alt maddesinin üçüncü fıkrasının (c) bendinin ikinci alt bendi aşağıdaki şekilde değiştirilmiştir.
 “2) Tedavinin 12 nci haftası sonunda HCV RNA (-) veya HCV RNA
 
-MADDE 27 – Aynı Tebliğin 4.2.14.C numaralı alt maddesinin üçüncü fıkrasında aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 27 –** Aynı Tebliğin 4.2.14.C numaralı alt maddesinin üçüncü fıkrasında aşağıdaki düzenlemeler yapılmıştır.
 a) (r) bendi aşağıdaki şekilde değiştirilmiştir.
 “ r) Pazopanib;
 1) Biyolojik tedaviler (interferon ya da interlökin) sonrasında progresyon gelişmiş lokal ileri ya da metastatik evredeki renal hücreli karsinomların tedavisinde,
@@ -377,14 +377,14 @@ progresyonun, PSA ve radyolojik görüntüleme yöntemleriyle (RECIST kriterleri
 4) Rapor süresinin sonunda tedavinin devamı için düzenlenecek yeni raporda tedaviye başlangıç kriterleri ile birlikte hastada progresyon olmadığı belirtilmelidir.
 5) Kabazitaksel ve abirateron ardışık olarak kullanılamaz.
 ü) Fluorourasil topikal formları; sağlık raporu koşulu aranmaksızın yalnızca dermatoloji, tıbbi onkoloji ve plastik cerrahi uzmanları tarafından reçete edilir.
-v) Aksitinib; bir sitokin tedavisi sonrası progresyon göstermiş olan veya bir sitokin tedavisi sonrası bir seri VEGF-TKİ (Vasküler Endotelyal Büyüme Faktörü – Tirozin Kinaz İnhibitörü) tedavisi kullanmış ve sonrasında progresyon göstermiş relaps/metastatik renal hücreli karsinomun tedavisinde; en az bir tıbbi onkoloji uzmanının bulunduğu 6 ay süreli sağlık kurulu raporuna dayanılarak tıbbi onkoloji uzmanları tarafından reçete edilir. Rapor süresinin sonunda tedavinin devamı için hastalıkta progresyon olmadığı belirlenmeli ve bu durum yeni raporda belirtilmelidir.
+v) **Aksitinib;** bir sitokin tedavisi sonrası progresyon göstermiş olan veya bir sitokin tedavisi sonrası bir seri VEGF-TKİ (Vasküler Endotelyal Büyüme Faktörü – Tirozin Kinaz İnhibitörü) tedavisi kullanmış ve sonrasında progresyon göstermiş relaps/metastatik renal hücreli karsinomun tedavisinde; en az bir tıbbi onkoloji uzmanının bulunduğu 6 ay süreli sağlık kurulu raporuna dayanılarak tıbbi onkoloji uzmanları tarafından reçete edilir. Rapor süresinin sonunda tedavinin devamı için hastalıkta progresyon olmadığı belirlenmeli ve bu durum yeni raporda belirtilmelidir.
 y) Setuksimab:
 1) Metastatik kolorektal kanser endikasyonunda;
 a) Daha önce setuksimab veya diğer anti-EGFR (Anti-Epidermal Büyüme Faktörü Reseptörü) tedavileri kullanmamış, ECOG performans skoru 0-1 olan, KRAS wild tip metastatik kolorektal kanserli hastalarda; birinci veya ikinci seri tedavide FOLFOX veya FOLFIRI kombinasyon kemoterapi rejimlerinin sadece birisi ile progresyona kadar kullanılır. Bu durumların belirtildiği en az bir tıbbi onkoloji uzmanının bulunduğu 6 ay süreli sağlık kurulu raporuna dayanılarak tıbbi onkoloji uzmanları tarafından reçete edilir.
 b) Progresyon durumunda veya beraberindeki kemoterapi rejiminin değiştirilmesi durumunda setuksimab veya başka bir anti-EGFR tedavisi kullanılamaz.
 2) Skuamoz hücreli baş ve boyun kanseri endikasyonunda; nüks yada metastatik nazofarenks dışı baş-boyun yassı hücreli kanseri olan, ECOG performans statüsü 0-1 olan hastalarda, birinci basamakta platin ve 5-Fluorourasil içeren kemoterapi rejimi ile kombine olarak birlikte kullanılır. Bu durumların belirtildiği en az bir tıbbi onkoloji uzmanının bulunduğu sağlık kurulu raporuna dayanılarak tıbbi onkoloji uzmanları tarafından reçete edilir.
 
-MADDE 28 – Aynı Tebliğin 4.2.15 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 28 –** Aynı Tebliğin 4.2.15 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin başlığı aşağıdaki şekilde değiştirilmiştir.
 “4.2.15­- Klopidogrel, silostazol, ivabradin, prasugrel, dabigatran, rivaroksaban, apiksaban, tikagrelor ve ranolazin kullanım ilkeleri”
 b) 4.2.15.A numaralı alt maddesinin üçüncü fıkrasının birinci cümlesinde yer alan “Kalp kapak biyoprotezi bulunanlarda” ibaresinden sonra gelen “ , ” işareti “ ; ” şeklinde değiştirilmiştir.
@@ -430,89 +430,89 @@ b) Persistan göğüs ağrısı bulunması ve EKG'de en az iki ardışık deriva
 MADDE 29 – Aynı Tebliğin 4.2.17.A numaralı alt maddesinin birinci fıkrasının birinci cümlesinde yer alan “stronsiyum ranelat ” ibaresinden sonra gelmek üzere “, denosumab” ibaresi eklenmiş ve altıncı fıkrasının birinci cümlesinde yer alan “Stronsiyum ranelat ve raloksifen;” ibaresi “Stronsiyum ranelat, raloksifen ve denosumab;” olarak değiştirilmiştir.
 
 
-MADDE 30 – Aynı Tebliğin 4.2.20 numaralı maddesinin ikinci fıkrasının (b) bendinde yer alan “28 inci” ibaresi “29 uncu” ve ( c ) bendinde yer alan “1” ibaresi “2” olarak değiştirilmiştir.
+**MADDE 30 –** Aynı Tebliğin 4.2.20 numaralı maddesinin **ikinci fıkrasının (b) bendinde yer alan “28 inci” ibaresi “29 uncu” ve ( c ) bendinde yer alan “1” ibaresi “2” olarak değiştirilmiştir.**
 
 MADDE 31 – Aynı Tebliğin 4.2.24.B numaralı alt maddesine aşağıdaki fıkra eklenmiştir.
-“(3) Roflumilast; uzun etkili bronkodilatör ve/veya inhale kortikosteroid tedavisine rağmen en az 2 yıl boyunca her yıl için; yılda en az 3 ay öksürük, balgam şikayeti olan ve yılda en az iki atak geçiren ağır kronik obstruktif akciğer hastalarında;
-a) Solunum fonksiyon testi (SFT) kriteri olarak, FEV1/FVC değeri %70’in altında olmak koşulu ile FEV1≤%50 olanlarda mevcut tedaviye ek olarak kullanılmaya başlanır.
-b) Göğüs hastalıkları uzmanınca düzenlenen 6 ay süreli uzman hekim raporuna dayanılarak göğüs hastalıkları uzmanı tarafından reçete edilir.
-c) Sağlık raporunda hastanın kullandığı uzun etkili bronkodilatör ve/veya inhale kortikosteroid tedavi şeması ile diğer durumlar belirtilir.
-ç) Teofilinle kombine olarak kullanılamaz.”
+**“(3) Roflumilast; uzun etkili bronkodilatör ve/veya inhale kortikosteroid tedavisine rağmen en az 2 yıl boyunca her yıl için; yılda en az 3 ay öksürük, balgam şikayeti olan ve yılda en az iki atak geçiren ağır kronik obstruktif akciğer hastalarında;**
+**a) Solunum fonksiyon testi (SFT) kriteri olarak, FEV1/FVC değeri %70’in altında olmak koşulu ile FEV1≤%50 olanlarda mevcut tedaviye ek olarak kullanılmaya başlanır.**
+**b) Göğüs hastalıkları uzmanınca düzenlenen 6 ay süreli uzman hekim raporuna dayanılarak göğüs hastalıkları uzmanı tarafından reçete edilir.**
+**c) Sağlık raporunda hastanın kullandığı uzun etkili bronkodilatör ve/veya inhale kortikosteroid tedavi şeması ile diğer durumlar belirtilir.**
+**ç) Teofilinle kombine olarak kullanılamaz.”**
 
-MADDE 32 – Aynı Tebliğin 4.2.25 numaralı maddesine aşağıdaki fıkra eklenmiştir.
-“(4) Lakozamid; 16 yaş ve üzerindeki parsiyel başlangıçlı epilepsi hastalarında ikincil jeneralize olan veya olmayan nöbetlerin tedavisinde, en az iki antiepileptik ilacın en az 6 ay süreyle tek başına veya kombine kullanımından sonra tedaviye yanıt alınamayan hastalarda ek tedavi olarak, bu durumların belirtildiği nöroloji uzman hekim raporuna dayanılarak tüm uzman hekimlerce reçete edilebilir.”
+MADDE 32 – Aynı **Tebliğin 4.2.25 numaralı maddesine aşağıdaki fıkra eklenmiştir.**
+**“(4) Lakozamid; 16 yaş ve üzerindeki parsiyel başlangıçlı epilepsi hastalarında ikincil jeneralize olan veya olmayan nöbetlerin tedavisinde, en az iki antiepileptik ilacın en az 6 ay süreyle tek başına veya kombine kullanımından sonra tedaviye yanıt alınamayan hastalarda ek tedavi olarak, bu durumların belirtildiği nöroloji uzman hekim raporuna dayanılarak tüm uzman hekimlerce reçete edilebilir.”**
 
-MADDE 33 – Aynı Tebliğin 4.2.26 numaralı maddesi başlığı ile beraber aşağıdaki şekilde değiştirilmiştir.
+MADDE 33 – Aynı **Tebliğin 4.2.26 numaralı maddesi başlığı ile beraber aşağıdaki şekilde değiştirilmiştir.**
 “4.2.26 - Levosimendan ve milrinon kullanım ilkeleri
-(1) Levosimendan; İnvaziv hemodinamik monitarizasyon yapılabildiği yoğun bakım ünitelerinde yatan hastalar için veya akut kalp yetmezliği, dekompanse kalp yetmezliğinin akut dönemindeki yatan hastalar için;
-(2) Milrinon; klasik bakım tedavisine yanıt vermeyen şiddetli konjestif kalp yetmezliğinin kısa süreli tedavisinde ve kalp cerrahisi sonrası düşük çıkış (out put) durumlarını da içeren akut kalp yetmezliği olan yatan hastalar için;
-(3) Kardiyoloji, kalp damar cerrahisi, anestezi ve reanimasyon, iç hastalıkları ile acil uzman hekimlerinden biri tarafından düzenlenen ve bu durumlarını belirtir uzman hekim raporuna dayanılarak bu hekimlerce tabela/reçeteye yazılabilirler.”
+**(1) Levosimendan; İnvaziv hemodinamik monitarizasyon yapılabildiği yoğun bakım ünitelerinde yatan hastalar için veya akut kalp yetmezliği, dekompanse kalp yetmezliğinin akut dönemindeki yatan hastalar için;**
+**(2) Milrinon; klasik bakım tedavisine yanıt vermeyen şiddetli konjestif kalp yetmezliğinin kısa süreli tedavisinde ve kalp cerrahisi sonrası düşük çıkış (out put) durumlarını da içeren akut kalp yetmezliği olan yatan hastalar için;**
+**(3) Kardiyoloji, kalp damar cerrahisi, anestezi ve reanimasyon, iç hastalıkları ile acil uzman hekimlerinden biri tarafından düzenlenen ve bu durumlarını belirtir uzman hekim raporuna dayanılarak bu hekimlerce tabela/reçeteye yazılabilirler.”**
 
-MADDE 34 – Aynı Tebliğin 4.2.27.A numaralı alt maddesinin üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+MADDE 34 – Aynı **Tebliğin 4.2.27.A numaralı alt maddesinin üçüncü ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiştir.**
 “(3) Faktör VIIa, hastanın tanısını, faktör düzeyini ve varsa inhibitör düzeyini (glanzmann trombastenisinde bu iki düzey de aranmaz) gösterir hematoloji uzman hekiminin yer aldığı sağlık kurulu raporuna dayanılarak; prospektüs onaylı endikasyonlarında hafif-orta şiddetteki kanamalarda 3 doza kadar, merkezi sinir sistemi kanamalarında veya hayatı tehdit eden (hemodinamiği bozan) şiddetli kanamalarda veya cerrahi operasyonlarda 12 doza kadar uzman hekim tarafından kullanılır. Kullanılan ünitenin kaç dozluk olduğu hekim tarafından reçete/tabela üzerinde belirtilir.
-(4) Kombine koagülasyon faktörü/protrombin kompleksi konsantreleri; kazanılmış koagülasyon bozuklukları ve kazanılmış hemofili hastalarında; hafif-orta şiddetteki kanamalarda, merkezi sinir sistemi kanamalarında, hayatı tehdit eden (hemodinamiği bozan) şiddetli kanamalarda veya cerrahi operasyonlarda, bu durumun ve hastanın tanısı ile faktör düzeyini de (glanzmann trombastenisi ve inhibitör gelişmiş hastalarda bu düzey aranmaz) gösterir hematoloji uzman hekiminin yer aldığı sağlık kurulu raporuna dayanılarak tüm uzman hekimler tarafından bir dozda kullanılır. Kullanılan ünitenin kaç dozluk olduğu hekim tarafından reçete/tabela üzerinde belirtilir.”
+**(4) Kombine koagülasyon faktörü/protrombin kompleksi konsantreleri; kazanılmış koagülasyon bozuklukları ve kazanılmış hemofili hastalarında; hafif-orta şiddetteki kanamalarda, merkezi sinir sistemi kanamalarında, hayatı tehdit eden (hemodinamiği bozan) şiddetli kanamalarda veya cerrahi operasyonlarda, bu durumun ve hastanın tanısı ile faktör düzeyini de (glanzmann trombastenisi ve inhibitör gelişmiş hastalarda bu düzey aranmaz) gösterir hematoloji uzman hekiminin yer aldığı sağlık kurulu raporuna dayanılarak tüm uzman hekimler tarafından bir dozda kullanılır. Kullanılan ünitenin kaç dozluk olduğu hekim tarafından reçete/tabela üzerinde belirtilir.”**
 
-MADDE 35 – Aynı Tebliğin 4.2.30 numaralı maddesine aşağıdaki fıkra eklenmiştir.
-“(7) Sildenafil ve tadalafil kombine kullanılamaz.”
+MADDE 35 – **Aynı Tebliğin 4.2.30 numaralı maddesine aşağıdaki fıkra eklenmiştir.**
+**“(7) Sildenafil ve tadalafil kombine kullanılamaz.”**
 
-MADDE 36 – Aynı Tebliğin 4.2.32 numaralı maddesinin dördüncü fıkrası yürürlükten kaldırılmıştır.
+MADDE 36 – **Aynı Tebliğin 4.2.32 numaralı maddesinin dördüncü fıkrası yürürlükten kaldırılmıştır.**
 
-MADDE 37 – Aynı Tebliğin 4.2.33 numaralı maddesine aşağıdaki alt madde eklenmiştir.
-“4.2.33.C. Patolojik miyopiye (PM) bağlı koroidal neovaskülarizasyondan (KNV) kaynaklanan görme bozukluğunun tedavisinde ilaç kullanım ilkeleri
-(1) Ranibizumab etken maddesini içeren ilaçlar;
-üçüncü basamak sağlık kurumlarında en az üç göz hastalıkları uzmanının yer aldığı bir ay süreli sağlık kurulu raporu ile hasta anamnezi, FFA ve lezyona ait renkli resim varlığı raporda belirtilerek, göz hastalıkları uzmanlarınca reçetelenir.
-(2)Hastalar izlenerek göz dibi bulguları, görme keskinliği, optik koherens tomografileri (OKT) ve FFA ile değerlendirilir ve tekrar tedavi gerekirse bu bulgular ile tedaviye devam kararı her uygulama için düzenlenecek yeni sağlık kurulu raporunda belirtilir.
-(3) Bu grup ilaçlar yalnızca ayakta tedavi kapsamında ödenecektir.”
+MADDE 37 – **Aynı Tebliğin 4.2.33 numaralı maddesine aşağıdaki alt madde eklenmiştir.**
+**“4.2.33.C. Patolojik miyopiye (PM) bağlı koroidal neovaskülarizasyondan (KNV) kaynaklanan görme bozukluğunun tedavisinde ilaç kullanım ilkeleri**
+**(1) Ranibizumab etken maddesini içeren ilaçlar;**
+**üçüncü basamak sağlık kurumlarında en az üç göz hastalıkları uzmanının yer aldığı bir ay süreli sağlık kurulu raporu ile hasta anamnezi, FFA ve lezyona ait renkli resim varlığı raporda belirtilerek, göz hastalıkları uzmanlarınca reçetelenir.**
+**(2)Hastalar izlenerek göz dibi bulguları, görme keskinliği, optik koherens tomografileri (OKT) ve FFA ile değerlendirilir ve tekrar tedavi gerekirse bu bulgular ile tedaviye devam kararı her uygulama için düzenlenecek yeni sağlık kurulu raporunda belirtilir.**
+**(3) Bu grup ilaçlar yalnızca ayakta tedavi kapsamında ödenecektir.”**
 
-MADDE 38 – Aynı Tebliğin 4.2.35.A numaralı alt maddesinin ikinci fıkrasında yer alan “ortopedi” ibaresinden sonra gelmek üzere “ve beyin cerrahisi” ibaresi eklenmiştir.
+MADDE 38 – **Aynı Tebliğin 4.2.35.A numaralı alt maddesinin ikinci fıkrasında yer alan “ortopedi” ibaresinden sonra gelmek üzere “ve beyin cerrahisi” ibaresi eklenmiştir.**
 
 MADDE 39 -Aynı Tebliğin 4.2.42.A numaralı alt maddesinin birinci fıkrasında yer alan “Evli olmakla birlikte eşlerden herhangi birinin evlat edinilmiş çocukları hariç soy bağı kurulmuş sağ çocuğunun olmaması koşuluyla;” ibaresi “Evli olmakla birlikte evlat edinilmiş çocukları hariç çocuk sahibi olmayan” olarak değiştirilmiştir.
 
-MADDE 40 – Aynı Tebliğin 4.2.42.B numaralı alt maddesinin birinci fıkrasının (a) bendinin birinci maddesine ikinci cümle olarak “SUT’un “2.4.4.İ-1-2-IVF sağlık kurulu raporu” maddesinde IUI işlemi aranmayacak hastalar belirtilmiştir.” ibaresi eklenmiştir.
+MADDE 40 – **Aynı Tebliğin 4.2.42.B numaralı alt maddesinin birinci fıkrasının (a) bendinin birinci maddesine ikinci cümle olarak “SUT’un “2.4.4.İ-1-2-IVF sağlık kurulu raporu” maddesinde IUI işlemi aranmayacak hastalar belirtilmiştir.” ibaresi eklenmiştir.**
 
-MADDE 41 - Aynı Tebliğin 4.4.1 numaralı maddesinde aşağıdaki değişiklikler yapılmıştır.
-a) Dokuzuncu fıkrası yürürlükten kaldırılmıştır.
-b) Ondördüncü fıkrası yürürlükten kaldırılmıştır.
+MADDE 41 - **Aynı Tebliğin 4.4.1 numaralı maddesinde aşağıdaki değişiklikler yapılmıştır.**
+**a) Dokuzuncu fıkrası yürürlükten kaldırılmıştır.**
+**b) Ondördüncü fıkrası yürürlükten kaldırılmıştır.**
 
-MADDE 42 – Aynı Tebliğin 4.4.2 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
-“4.4.2 - Eşdeğer ilaç uygulaması “(1) Eşdeğer ilaç uygulaması; sınırlandırılmış bir terapötik eşdeğerlik olarak, aynı endikasyon için kullanılabilecek aynı etken maddeyi içeren ürünlerin benzer dozaj formları arasında fiyat karşılaştırması temelinde; aynı eşdeğer gruplarda ya da aynı fiyat karşılaştırması temelinde ancak eczane ikamesi açısından ayrı eşdeğer gruplarda yer alması esasına dayanır.”
-(2) Bu esaslara göre belirlenen eşdeğer ilaç gruplarının her birinde;
-a) SUT ’un 4.4.1 maddesinde belirtildiği şekilde indirim oranları uygulanmak suretiyle, ilaçların indirimli kutu fiyatı bulunur.
-b) İndirimli kutu fiyatı üzerinden, gruba dâhil ilaçların “indirimli birim bedeli” hesaplanır.
-c) Gruptaki ilaçlar için bulunan bu indirimli birim bedeller karşılaştırılarak o eşdeğer ürün grubu için geçerli en ucuz birim bedel bulunur. Bu bedel taban birim fiyat, bu bedelli ilaç, taban ilaç olarak ifade edilir. Taban ilacın en az %1 pazar payına sahip olması gerekir. Pazar payının her bir eşdeğer ilaç grubundaki ilaç sayısı dikkate alınarak yeniden belirlenmesinde ve bunlara ilişkin tereddütlerin giderilmesinde “Sağlık Hizmetleri Fiyatlandırma Komisyonu” yetkilidir.
-ç) Eşdeğer ilaçlara ödenecek bedellerin belirlenmesinde; Kurumca belirlenen gruplara göre;
-1-“Taban birim fiyat uygulaması” olan gruplarda; o gruptaki ilaçlar için ödenebilecek azami birim fiyat, taban birim fiyattır.
-2-“Bant aralığı uygulaması” olan gruplarda; taban birim fiyata %10 ilave edilerek o gruptaki ilaçlar için ödenebilecek azami birim fiyat bulunur.
-d) Azami birim bedelden yola çıkılarak hesaplanan kutu fiyatını aşan kısmı ödenmez”.
+MADDE 42 – **Aynı Tebliğin 4.4.2 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.**
+**“4.4.2 - Eşdeğer ilaç uygulaması “(1) Eşdeğer ilaç uygulaması; sınırlandırılmış bir terapötik eşdeğerlik olarak, aynı endikasyon için kullanılabilecek aynı etken maddeyi içeren ürünlerin benzer dozaj formları arasında fiyat karşılaştırması temelinde; aynı eşdeğer gruplarda ya da aynı fiyat karşılaştırması temelinde ancak eczane ikamesi açısından ayrı eşdeğer gruplarda yer alması esasına dayanır.”**
+**(2) Bu esaslara göre belirlenen eşdeğer ilaç gruplarının her birinde;**
+**a) SUT ’un 4.4.1 maddesinde belirtildiği şekilde indirim oranları uygulanmak suretiyle, ilaçların indirimli kutu fiyatı bulunur.**
+**b) İndirimli kutu fiyatı üzerinden, gruba dâhil ilaçların “indirimli birim bedeli” hesaplanır.**
+**c) Gruptaki ilaçlar için bulunan bu indirimli birim bedeller karşılaştırılarak o eşdeğer ürün grubu için geçerli en ucuz birim bedel bulunur. Bu bedel taban birim fiyat, bu bedelli ilaç, taban ilaç olarak ifade edilir. Taban ilacın en az %1 pazar payına sahip olması gerekir. Pazar payının her bir eşdeğer ilaç grubundaki ilaç sayısı dikkate alınarak yeniden belirlenmesinde ve bunlara ilişkin tereddütlerin giderilmesinde “Sağlık Hizmetleri Fiyatlandırma Komisyonu” yetkilidir.**
+**ç) Eşdeğer ilaçlara ödenecek bedellerin belirlenmesinde; Kurumca belirlenen gruplara göre;**
+**1-“Taban birim fiyat uygulaması” olan gruplarda; o gruptaki ilaçlar için ödenebilecek azami birim fiyat, taban birim fiyattır.**
+**2-“Bant aralığı uygulaması” olan gruplarda; taban birim fiyata %10 ilave edilerek o gruptaki ilaçlar için ödenebilecek azami birim fiyat bulunur.**
+**d) Azami birim bedelden yola çıkılarak hesaplanan kutu fiyatını aşan kısmı ödenmez”.**
 
 MADDE 43- Aynı Tebliğin 5.3.2.D maddesinin birinci fıkrasının ( j ) bendine üçüncü alt bendinden sonra gelmek üzere aşağıdaki alt bent eklenmiştir.
 “ 4) Her bir ürün için Türkiye İlaç ve Tıbbi Cihaz Kurumu tarafından düzenlenen “İthalat kaydına esas sevkiyat onay kodu” nun yer aldığı ürün listesinin onaylı bir suretinin yer alması gerekmektedir.”
 
-MADDE 44- Aynı Tebliğ eki “İstisnai Sağlık Hizmetleri” (EK-1/C) Listesinin 2 sıra no’sunda yer alan ”701.282 Çift balonlu enteroskopi” işleminin adı “701.282 Balonlu enteroskopi”, 27 sıra no’sunda yer alan “P60690” işlem kodu “P604690” olarak değiştirilmiştir.
+MADDE 44- **Aynı Tebliğ eki “İstisnai Sağlık Hizmetleri” (EK-1/C) Listesinin 2 sıra no’sunda yer alan ”701.282 Çift balonlu enteroskopi” işleminin adı “701.282 Balonlu enteroskopi”, 27 sıra no’sunda yer alan “P60690” işlem kodu “P604690” olarak değiştirilmiştir.**
 
-MADDE 45- Aynı Tebliğ eki “Ayaktan Başvurularda İlave Olarak Faturalandırılabilecek İşlemler Listesi’nde (EK-2/A-2) yer alan “704.770 Periferik kan yayması değerlendirilmesi” SUT kodlu işlemin açıklama kısmı “Çocuk ve erişkin Hematoloji/ Onkoloji uzman hekimlerince yapılması halinde faturalandırılır.” olarak değiştirilmiş ve aynı Listede yer alan “703.070 Video-EEG monitörizasyon” ve “703.080 Video-EEG, sfenoid elektrotlar ile” SUT kodlu işlemler yürürlükten kaldırılmıştır.
+**MADDE 45- Aynı Tebliğ eki “Ayaktan Başvurularda İlave Olarak Faturalandırılabilecek İşlemler Listesi’nde (EK-2/A-2) yer alan “704.770 Periferik kan yayması değerlendirilmesi” SUT kodlu işlemin açıklama kısmı “Çocuk ve erişkin Hematoloji/ Onkoloji uzman hekimlerince yapılması halinde faturalandırılır.” olarak değiştirilmiş ve aynı Listede yer alan “703.070 Video-EEG monitörizasyon” ve “703.080 Video-EEG, sfenoid elektrotlar ile” SUT kodlu işlemler yürürlükten kaldırılmıştır.**
 
-MADDE 46- Aynı Tebliğ eki “Hizmet Başı İşlem Puan Listesi” nde (EK-2/B) aşağıdaki değişiklikler yapılmıştır.
-a) Listede işlem adı ve açıklama bölümünde değişiklik yapılan işlemler ile işlem puanı değiştirilen işlemler bu Tebliğ eki (1) numaralı listede belirtilmiştir.
-b) Listeden çıkarılan işlemler bu Tebliğ eki (2) numaralı listede belirtilmiştir.
-c) Listeye eklenen işlemler bu Tebliğ eki (3) numaralı listede belirtilmiştir.
+**MADDE 46- Aynı Tebliğ eki “Hizmet Başı İşlem Puan Listesi” nde (EK-2/B) aşağıdaki değişiklikler yapılmıştır.**
+**a) Listede işlem adı ve açıklama bölümünde değişiklik yapılan işlemler ile işlem puanı değiştirilen işlemler bu Tebliğ eki (1) numaralı listede belirtilmiştir.**
+**b) Listeden çıkarılan işlemler bu Tebliğ eki (2) numaralı listede belirtilmiştir.**
+**c) Listeye eklenen işlemler bu Tebliğ eki (3) numaralı listede belirtilmiştir.**
 
 
 MADDE 47 – Aynı Tebliğ eki “Tanıya Dayalı İşlem Puan Listesi” nde (EK-2/C) aşağıdaki değişiklikler yapılmıştır.
-a) Listede işlem adı ve açıklama bölümünde değişiklik yapılan işlemler ile işlem puanı değiştirilen işlemler bu Tebliğ eki (4) numaralı listede belirtilmiştir.
-b) Listede yer alan “P615780 Myelografi” işlemi yürürlükten kaldırılmıştır.
-c) Listeye eklenen işlemler bu Tebliğ eki (5) numaralı listede belirtilmiştir.
+**a) Listede işlem adı ve açıklama bölümünde değişiklik yapılan işlemler ile işlem puanı değiştirilen işlemler bu Tebliğ eki (4) numaralı listede belirtilmiştir.**
+**b) Listede yer alan “P615780 Myelografi” işlemi yürürlükten kaldırılmıştır.**
+**c) Listeye eklenen işlemler bu Tebliğ eki (5) numaralı listede belirtilmiştir.**
 
-MADDE 48- Aynı Tebliğ eki “Diş Tedavileri Sevk Formu EK-2/Ç-2” “Ek-2/Ç-2 Diş Tedavileri Kontrol Formu” olarak bu Tebliğ eki (6) numaralı listede yeniden düzenlenmiştir.
+**MADDE 48- Aynı Tebliğ eki “Diş Tedavileri Sevk Formu EK-2/Ç-2” “Ek-2/Ç-2 Diş Tedavileri Kontrol Formu” olarak bu Tebliğ eki (6) numaralı listede yeniden düzenlenmiştir.**
 
-MADDE 49- Aynı Tebliğ eki “Pozitron Emisyon Tomografi (PET) Görüntüleme Klinik Uygulamaları” (Ek-2/D-1) Tablo 4 de yer alan “Prostat Kanseri” ibaresinin açıklama ve sınırlamalar bölümü aşağıdaki şekilde değiştirilmiştir.
-“Gleason skor 7 veya üstü olan ve diğer görüntüleme yöntemlerinde (Kemik Sintigrafisi, BT, MR vb.) şüpheli lezyon bulunmalıdır. Sadece 3. Basamak resmi sağlık hizmet sunucularında yapılması halinde ödenir.”
+**MADDE 49- Aynı Tebliğ eki “Pozitron Emisyon Tomografi (PET) Görüntüleme Klinik Uygulamaları” (Ek-2/D-1) Tablo 4 de yer alan “Prostat Kanseri” ibaresinin açıklama ve sınırlamalar bölümü aşağıdaki şekilde değiştirilmiştir.**
+**“Gleason skor 7 veya üstü olan ve diğer görüntüleme yöntemlerinde (Kemik Sintigrafisi, BT, MR vb.) şüpheli lezyon bulunmalıdır. Sadece 3. Basamak resmi sağlık hizmet sunucularında yapılması halinde ödenir.”**
 
 MADDE 50- Aynı Tebliğ eki “Hasta Sevk Formu” nun (EK-2/F) altında yer alan “Müracaat Süresi” ibaresinden sonra gelen “Üç (3)” ibaresi “Beş (5)” olarak değiştirilmiştir.
 
 MADDE 51- Aynı Tebliğin “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler (EK-3/A) Listesi”ndeki “306.510”, “306.520”, “306.530”, “306.540”, “306.551”, “306.552”, “306.553”, “306.554” SUT kodlu tıbbi malzemeler listeden çıkarılmış ve aynı listenin “KANAMA DURDURMADA KULLANILAN MALZEMELER” başlığının altına eklenen tıbbi malzemeler bu Tebliğ eki (7) numaralı listede belirtilmiştir.
 
-MADDE 52- Aynı Tebliğin “Kurumca Bedeli Karşılanmayan Diğer Tıbbi Malzemeler (EK-3/B-2)” listesinin dördüncü sıra numarasındaki tıbbi malzemenin adı “Dermis/Epidermis Yerine Geçen Allogreftler /Xenogreftler/Sentetik Greftler” şeklinde değiştirilmiş ve on üçüncü sıra numarası olarak “Kan/kemik iliği/yağ dokusu gibi dokulardan ayrıştırılma yöntemiyle kök hücre elde edilerek yapılan uygulamalar için kullanılan tıbbi malzemeler” adlı tıbbi malzeme eklenmiştir.
+**MADDE 52**- Aynı Tebliğin “Kurumca Bedeli Karşılanmayan Diğer Tıbbi Malzemeler (EK-3/B-2)” listesinin dördüncü sıra numarasındaki tıbbi malzemenin adı “Dermis/Epidermis Yerine Geçen Allogreftler /Xenogreftler/Sentetik Greftler” şeklinde değiştirilmiş ve on üçüncü sıra numarası olarak “Kan/kemik iliği/yağ dokusu gibi dokulardan ayrıştırılma yöntemiyle kök hücre elde edilerek yapılan uygulamalar için kullanılan tıbbi malzemeler” adlı tıbbi malzeme eklenmiştir.
 
 MADDE 53 – Aynı Tebliğ eki “Tıbbi Sarf Malzemeler (EK-3/C-4)” listesinde aşağıdaki düzenlemeler yapılmıştır.
 a) “İŞİTME CİHAZI SARF MALZEMELERİ” başlığı altında yer alan “A10106” SUT kodlu tıbbi malzemenin ödeme kriterleri ve/veya kuralları aşağıdaki şekilde değiştirilmiştir.
@@ -525,7 +525,7 @@ b) 5-10 yaş için yılda 3 (üç) adet
 c) 10 yaş ve üzeri için yılda 2 (iki) adet olmak üzere, Kulak Burun Boğaz hastalıkları uzman hekiminin düzenleyeceği tek hekim raporuna istinaden Kurumca bedeli karşılanır.”
 ç) A10103 SUT kodlu tıbbi malzemenin ödeme kriterleri ve/veya kurallarının birinci fıkrası aşağıdaki şekilde değiştirilmiştir “(1) Konuşma işlemcisi, 7 (yedi) yıldan önce yenilenemez. Ancak koklear implant üretici firması tarafından verilen teknik rapor ile birlikte üçüncü basamak resmi sağlık kurumları tarafından düzenlenen sağlık kurulu raporuna istinaden tamiri mümkün olmayan durumlarda süresinden önce yenilenebilir. 7 (yedi) yılı dolduran kişilerde üçüncü basamak resmi sağlık kurumları tarafından düzenlenen sağlık kurulu raporuna istinaden yenilenebilecektir.”
 
-MADDE 54- Aynı Tebliğin “Omurga Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler (EK-3/E-1) Listesi”ndeki “102.267”, “103.095” ve “103.100” SUT kodlu tıbbi malzemeler listeden çıkarılmış, “103.095” SUT kodundan sonra gelmek üzere aşağıdaki tıbbi malzemeler eklenmiş ve fiyatları belirlenen/değiştirilen SUT kodları bu Tebliğ eki (8) numaralı listede belirtilmiştir.
+**MADDE 54**- Aynı Tebliğin “Omurga Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler (EK-3/E-1) Listesi”ndeki “102.267”, “103.095” ve “103.100” SUT kodlu tıbbi malzemeler listeden çıkarılmış, “103.095” SUT kodundan sonra gelmek üzere aşağıdaki tıbbi malzemeler eklenmiş ve fiyatları belirlenen/değiştirilen SUT kodları bu Tebliğ eki (8) numaralı listede belirtilmiştir.
 SUT KODU TIBBİ MALZEME ALAN TANIMI
 FİYAT (TL) 103.096
 İNTRAOPERATİF
@@ -589,7 +589,7 @@ BALON, ANJİYOPLASTİ, İLAÇ SALINIMLI, 035" OTW 1.170,00 KV2038
 KATETER,
 BALON, ANJİYOPLASTİ, İLAÇ SALINIMLI, 014", OTW 1.170,00
 b) “BİYOLOJİK DAMAR GREFTLERİ” başlığı altında yer alan “KV1118” SUT kodlu tıbbi malzeme listeden çıkarılmış ve “KV1120” SUT kodlu “HAYVAN KAYNAKLI DAMAR GREFTLERİ 41CM VE ÜSTÜ” tıbbi malzemenin altına başlığı ile beraber aşağıdaki tıbbi malzeme eklenmiştir.
-BİYOSENTETİK DAMAR GREFTLERİ
+**BİYOSENTETİK DAMAR GREFTLERİ**
 KV1118
 BİYOSENTETİK
 DAMAR GREFT 40 CM VE ALTI 3.699,00
@@ -613,7 +613,7 @@ a) İnsülin bağımlı Diabetes Mellitusta, (1(bir) Endokrinoloji uzmanının s
 b) Peyronie hastalığı veya priapizm sonrası gelişen penil fibroziste,
 c)Omurilik yaralanması sonrasında,
 ç)Radikal pelvik cerrahi sonrasında,”
-c) “UR1088” SUT kodundan sonra gelmek üzere aşağıdaki şekilde “İNTRAKAVİTER HİPERTERMİ CİHAZLARI”, “RADYOFREKANS YÖNTEMİ” başlıkları ve altına “UR2007” SUT kodlu tıbbi malzeme eklenmiştir.
+c) “UR1088” SUT kodundan sonra gelmek üzere aşağıdaki şekilde “**İNTRAKAVİTER HİPERTERMİ CİHAZLARI**”, “RADYOFREKANS YÖNTEMİ” başlıkları ve altına “UR2007” SUT kodlu tıbbi malzeme eklenmiştir.
 İNTRAKAVİTER HİPERTERMİ CİHAZLARI RADYOFREKANS YÖNTEMİ
 UR2007
 İNTRAKAVİTER HİPERTERMİ RF PROBU İLE BİRLİKTE İNTRAKAVİTER KEMOTERAPİ SETİ
@@ -644,9 +644,9 @@ Travmatik, kısa, tekrarlayan ve bulbar darlıklarda, 3.
 Cerrahi olarak üretroplastiye uygun olmayan, 4.
 Aralıklı self dilatasyonu tolere edemeyen hastalarda.
 e) Başlığı ile beraber “UR1032”, “UR1033”, “UR1034”, “UR1035” ve UR1037 SUT Kodlu tıbbi malzemelerin alan tanımları aşağıdaki gibi değiştirilmiştir.
-ÜRETER
-STENTLERİ/KATETERLERİ UR1032
-SİLİKON DJ KATETERLER
+**ÜRETER**
+**STENTLERİ/KATETERLERİ** UR1032
+SİLİKON DJ **KATETERLER**
 32,00
 (1) Silikon double J kateterler;
 1- Malignitelere bağlı üreteral obstrüksiyonlar,
@@ -654,15 +654,15 @@ SİLİKON DJ KATETERLER
 3- Radyoterapiye, kemoterapiye ya da cerrahiye bağlı gelişen üreteral darlıklarda kullanılması halinde bedelleri Kurumca karşılanır.
 (2) 1 (bir) yıldan daha kısa süre içinde yenilenmesi gerektiğinde Kurumca bedelleri karşılanmaz.
 UR1033 METAL
-DJ KATETERLER
+DJ **KATETERLER**
 UR1034
 POLİÜRETAN
-DJ KATETERLER/SİNGLE J
-KATETERLER
+DJ **KATETERLER**/SİNGLE J
+**KATETERLER**
 25,00 UR1035 DİĞER
 DJ KATETERLER
 64,00 UR1037
-ENDOPYELOTOMİ KATETERLERİ
+ENDOPYELOTOMİ **KATETERLERİ**
 106,00
 
 MADDE 60- Aynı Tebliğin “Radyoloji Branşı ve Endovasküler/Nonvasküler Girişimsel İşlemlere Ait Tıbbi Malzemeler (EK-3/M) Listesi”nde yer alan “GR2000”, “GR2005” SUT kodlu tıbbi malzemelerin fiyatları aşağıdaki şekilde değiştirilmiştir.
@@ -686,7 +686,7 @@ g) “Anesteziyoloji, Reanimasyon ve Ağrı Tedavisi Branşına Ait Tıbbi Malze
 
 MADDE 63 – Aynı Tebliğ eki Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları (Ek-4/E) listesinde aşağıdaki düzenlemeler yapılmıştır.
 a) “1-BETALAKTAM ANTİBİYOTİKLER” başlıklı kısmının “B) Sefalosporinler” başlıklı bölümünün“3.Kuşak Sefalosporinler” adlı alt bölümünde yer alan (9) numaralı satırı aşağıdaki şekilde değiştirilmiştir.
-Sefditoren UH-P (400 mg lık formu yalnızca ağır pnömonide ve günlük maksimum kullanım dozu 2 x 1şeklinde kullanılır.)
+Sefditoren UH-P **(400 mg lık formu yalnızca ağır pnömonide ve günlük maksimum kullanım dozu 2 x 1şeklinde kullanılır.)**
 b) “11- ANTİVİRAL İLAÇLAR” başlıklı kısmının “B) Diğer Antiviraller” başlıklı bölümünün“ (15) numaralı satırı aşağıdaki şekilde değiştirilmiştir.
 Valgansiklovir 1 yıl süreli enfeksiyon hastalıkları uzman hekimi raporuna dayanılarak uzman hekimlerce reçete edilir.
 c)”13- DİĞERLERİ” başlıklı kısmının (19) numaralı satırı aşağıdaki şekilde değiştirilmiştir.
@@ -694,23 +694,23 @@ H. Pylori eradikasyon tedavi paketi Yılda 14 günlük tedaviyi geçmeyecek şek
 
 
 MADDE 64 – Aynı Tebliğ eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) İle Verilebilecek İlaçlar Listesi” nde (Ek-4/F) aşağıdaki düzenlemeler yapılmıştır.
-a) 16 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
-“16. Atomoksetine: (6 yaş ve üstü çocuklarda çocuk psikiyatri uzman hekiminin yer aldığı sağlık kurulu raporuna dayanılarak çocuk psikiyatri uzman hekimi veya çocuk sağlığı ve hastalıkları uzman hekimlerince reçete edilir. 16-18 ergen yaş grubunda ayrıca erişkin psikiyatri uzmanlarınca da aynı koşullarda rapor ve reçete düzenlenebilir.)”
-b) 57 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
-“57. Gliserol+sorbitol içeren laksatifler (Tetrapleji, hemipleji, parapleji ve spinal kord yaralanmalarına bağlı gastrointestinal fonksiyon bozukluğu durumlarında, gastroenteroloji ve nöroloji uzman hekimlerince veya bu hekimlerden en az birinin yer aldığı sağlık kurulu raporuna dayanılarak tüm hekimlerce reçetelenir. Bu durumların dışında raporsuz tüm hekimlerce reçete edilebilir.)”
+**a) 16 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.**
+**“16. Atomoksetine: (6 yaş ve üstü çocuklarda çocuk psikiyatri uzman hekiminin yer aldığı sağlık kurulu raporuna dayanılarak çocuk psikiyatri uzman hekimi veya çocuk sağlığı ve hastalıkları uzman hekimlerince reçete edilir. 16-18 ergen yaş grubunda ayrıca erişkin psikiyatri uzmanlarınca da aynı koşullarda rapor ve reçete düzenlenebilir.)”**
+**b) 57 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.**
+**“57. Gliserol+sorbitol içeren laksatifler (Tetrapleji, hemipleji, parapleji ve spinal kord yaralanmalarına bağlı gastrointestinal fonksiyon bozukluğu durumlarında, gastroenteroloji ve nöroloji uzman hekimlerince veya bu hekimlerden en az birinin yer aldığı sağlık kurulu raporuna dayanılarak tüm hekimlerce reçetelenir. Bu durumların dışında raporsuz tüm hekimlerce reçete edilebilir.)”**
 
 
 MADDE 65 – Aynı Tebliğ eki “Sadece Yatan Hastalarda Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi” nde (Ek-4/G)” aşağıdaki düzenlemeler yapılmıştır.
-a) 16 numaralı maddesinde yer alan “Levosimendan” ibaresinden sonra gelmek üzere “ ve milrinon” ibaresi eklenmiştir.
-b) 51 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
-“51. C1-esteraz inhibitörü; yalnızca akut tedavide ve operasyon öncesi profilaksi tedavisinde, üniversite veya eğitim araştırma hastanelerinde düzenlenecek, en az bir immunoloji ve/veya alerji hastalıkları uzmanının yer aldığı 1 yıl süreli sağlık kurulu raporuna dayanılarak, tüm uzman hekimlerce reçetelenir. Raporda; C1 inhibitör düzeyinin düşük olduğu (değer olarak) veya C1 inhibitör düzeyinin normal/yüksek olduğu durumlarda ise inhibitör fonksiyonunun düşük olduğu (değer olarak) belirtilir. (Hasta adına düzenlenecek her reçete/tabelada akut/profilaksi tedavi durumu belirtilecektir.)”
-c) Aşağıdaki maddeler eklenmiştir.
-“54. Kafein sitrat (Çocuk hastalıkları uzman hekimlerince)
-55. Tolvaptan (Serum sodyum düzeyi 125 mEq/L seviyesinin altında olan, daha önce sıvı kısıtlaması yöntemi ve diğer tedavilerin uygulandığı ancak direnç gösteren, hipervolemik ve övolemik hiponatremi tedavisinde 1x1 dozda kullanılır.
-Uzman hekimlerce yazılır.)
-56. Parenteral Multivitaminler”
+**a) 16 numaralı maddesinde yer alan “Levosimendan” ibaresinden sonra gelmek üzere “ ve milrinon” ibaresi eklenmiştir.**
+**b) 51 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.**
+**“51. C1-esteraz inhibitörü; yalnızca akut tedavide ve operasyon öncesi profilaksi tedavisinde, üniversite veya eğitim araştırma hastanelerinde düzenlenecek, en az bir immunoloji ve/veya alerji hastalıkları uzmanının yer aldığı 1 yıl süreli sağlık kurulu raporuna dayanılarak, tüm uzman hekimlerce reçetelenir. Raporda; C1 inhibitör düzeyinin düşük olduğu (değer olarak) veya C1 inhibitör düzeyinin normal/yüksek olduğu durumlarda ise inhibitör fonksiyonunun düşük olduğu (değer olarak) belirtilir. (Hasta adına düzenlenecek her reçete/tabelada akut/profilaksi tedavi durumu belirtilecektir.)”**
+**c) Aşağıdaki maddeler eklenmiştir.**
+**“54. Kafein sitrat (Çocuk hastalıkları uzman hekimlerince)**
+**55. Tolvaptan (Serum sodyum düzeyi 125 mEq/L seviyesinin altında olan, daha önce sıvı kısıtlaması yöntemi ve diğer tedavilerin uygulandığı ancak direnç gösteren, hipervolemik ve övolemik hiponatremi tedavisinde 1x1 dozda kullanılır.**
+**Uzman hekimlerce yazılır.)**
+**56. Parenteral Multivitaminler”**
 
-MADDE 66 ‒ Bu Tebliğin;
+**MADDE 66 ‒** Bu Tebliğin;
 a) 12 ve 13 üncü maddeleri 1/1/2014 tarihinden geçerli olmak üzere yayımı tarihinde,
 b) 14,15 ve 50 nci maddeleri 18/4/2014 tarihinden geçerli olmak üzere yayımı tarihinde,
 c) 19 ila 38, 40,41 inci maddenin (b) bendi, 42, 63 ila 65 inci maddeleri yayımı tarihinden 5 iş günü sonra,
@@ -720,4 +720,4 @@ e) 16 ncı maddenin (d) bendi ile 41 inci maddenin (a) bendi 1/10/2014 tarihinde
 f) Diğer maddeleri yayımı tarihinde, yürürlüğe girer.
 
 
-MADDE 67 – Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 67 –** Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.

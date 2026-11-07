@@ -11,17 +11,17 @@ kontrol_edildi: true
 
 T.C
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ
+**HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ**
 
-HALK SAĞLIĞI REFERANS LABORATUVARLARI DAİRE BAŞKANLIĞI
+**HALK SAĞLIĞI REFERANS LABORATUVARLARI DAİRE BAŞKANLIĞI**
 
 AB-0949-T
 
-ULUSAL HALK SAĞLIĞI REFERANS LABORATUVARI
+**ULUSAL HALK SAĞLIĞI REFERANS LABORATUVARI**
 
-ANALİZ RAPORU
+**ANALİZ RAPORU**
 
 İlgi Yazı Tarih ve Sayısı /
 
@@ -69,27 +69,27 @@ Analize Başlama/Bitiş Tarihi
 
 Raporlama Tarihi
 
-MİKROBİYOLOJİK ANALİZLER
+**MİKROBİYOLOJİK ANALİZLER**
 
-Çalışılan Analizler Birim Yöntem Tayin Limiti (LOQ) Mevzuat Limiti Analiz Sonucu
+**Çalışılan Analizler Birim Yöntem Tayin Limiti (LOQ) Mevzuat Limiti Analiz Sonucu**
 
-KİMYASAL ANALİZLER
+**KİMYASAL ANALİZLER**
 
 Çalışılan Analizler Birim Yöntem Tayin Limiti (LOQ) Mevzuat Limiti Analiz Sonucu
 
 T.C
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ
+**HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ**
 
-HALK SAĞLIĞI REFERANS LABORATUVARLARI DAİRE BAŞKANLIĞI
+**HALK SAĞLIĞI REFERANS LABORATUVARLARI DAİRE BAŞKANLIĞI**
 
 AB-0949-T
 
-ULUSAL HALK SAĞLIĞI REFERANS LABORATUVARI
+**ULUSAL HALK SAĞLIĞI REFERANS LABORATUVARI**
 
-ANALİZ RAPORU
+**ANALİZ RAPORU**
 
 İlgi Yazı Tarih ve Sayısı /
 
@@ -103,7 +103,7 @@ CSBYS No
 
 Rapor Sayfa Sayısı
 
-Değerlendirme :
+**Değerlendirme :**
 
 Açıklamalar:
 
@@ -145,7 +145,7 @@ Uygun Değil - ölçülen değer kabul limitinin (mevzuat değeri) üstündedir.
 
 - TÜRKAK Akreditasyon Markasını, müşteriler veya herhangi bir üçüncü taraf kullanamaz.
 
-ONAYLAYAN ONAYLAYAN ONAYLAYAN
+**ONAYLAYAN ONAYLAYAN ONAYLAYAN**
 
 Mikrobiyolojik Analiz Laboratuvarları Kimyasal Su Analizleri Laboratuvarı Ulusal Halk Sağlığı Referans
 

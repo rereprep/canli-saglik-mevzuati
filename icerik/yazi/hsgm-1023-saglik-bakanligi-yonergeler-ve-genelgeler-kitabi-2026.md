@@ -31,7 +31,7 @@ Bu doğrultuda merkez harcama birimlerinden Başkanlığımıza iletilen yürür
 
 İlk kez 2024 yılında yayımlanan Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı, kullanıcı dostu yapısı sayesinde olumlu geri bildirimler almış; bu doğrultuda 2025 yılı versiyonu hazırlanmış, 2026 yılında ise tümüyle gözden geçirilerek güncellenmiş ve mobil uygulaması da kullanıma sunulmuştur. Kitabın, içerdiği kapsamlı ve güncel bilgilerle mevzuata azami uyumun ve uygulama birliğinin sağlanmasına katkı sunacağı, denetim raporlarında yer alan bulguların azaltılmasına yardımcı olacağı ve göreve yeni başlayan yönetici ve personelin adaptasyon sürecini kısaltarak Bakanlığımız çalışanları için önemli bir başvuru kaynağı olacağı değerlendirilmektedir.
 
-“Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı-2026” yazımız ekinde gönderilmekte olup ayrıca kaynağa, Bakanlığımız resmi mobil uygulaması (Sağlık Bakanlığı Mali Kılavuz) ile Strateji Geliştirme Başkanlığının resmi web sitesinden ulaşılabilecektir. Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı-2026’nın Müdürlüğünüze bağlı tüm sağlık tesislerine duyurulması hususunda bilgilerini ve gereğini rica ederim.
+**“Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı-2026”** yazımız ekinde gönderilmekte olup ayrıca kaynağa, Bakanlığımız resmi mobil uygulaması (Sağlık Bakanlığı Mali Kılavuz) ile Strateji Geliştirme Başkanlığının resmi web sitesinden ulaşılabilecektir. <i>Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı-2026</i>’nın Müdürlüğünüze bağlı tüm sağlık tesislerine duyurulması hususunda bilgilerini ve gereğini rica ederim.
 
 Dr. Yasin Ayfer ERKOÇ
 

@@ -84,9 +84,9 @@ Bu kapsamda; gıda işletmelerinde Sağlık Bakanlığı Bilim Kurulu tavsiye ka
 
 Buna göre;
 
-A- Denetim Faaliyetleri:
+**A- Denetim Faaliyetleri:**
 
-1. Okul/Kurumların Denetim Faaliyetleri:
+**1. Okul/Kurumların Denetim Faaliyetleri:**
 
 a) Elli ve daha fazla çalışanı bulunan okul/kurumlarda gıda işletmelerinin denetimleri, okul/kurum işveren/işveren vekili (okul müdürü/müdür yardımcısı) başkanlığında “Okul/Kurum İş
 
@@ -100,7 +100,7 @@ c) Denetimlerde yer alan komisyon üyelerinin “Okul/Kurum Gıda İşletmesi De
 
 Eğitimi” almaları sağlanır.
 
-ç)Bakanlığımıza bağlı Okul/kurumlarda gıda işletmelerinin denetimleri, http://merkezisgb.meb.gov.tr/www/gida-isletmeleri-denetimi/dosya/40 sayfasında yayımlanan “Okul/Kurum Yemekhane, Kantin/Kooperatif, Kafeterya, Büfe, Çay Ocağı Gibi Gıda İşletmelerinin
+ç)Bakanlığımıza bağlı Okul/kurumlarda gıda işletmelerinin denetimleri, **http://merkezisgb.meb.gov.tr/www/gida-isletmeleri-denetimi/dosya/40** sayfasında yayımlanan “Okul/Kurum Yemekhane, Kantin/Kooperatif, Kafeterya, Büfe, Çay Ocağı Gibi Gıda İşletmelerinin
 
 Kontrol ve Denetimine İlişkin Uygulama Kılavuzu (Denetim Uygulama Kılavuzu)” ve ekinde yer alan formlara uygun olarak gerçekleştirilir.
 
@@ -112,7 +112,7 @@ e) Okul/Kurum müdürlüklerince küçük uygunsuzluk tespit edilmesi hâlinde, 
 
 Müdürlüğü İş Sağlığı ve Güvenliği Bürosu (İlçe İSG Büro)/İl İşyeri Sağlık ve Güvenlik Birimlerine (İl İSGB) 3 (üç) iş günü içinde bildirim yapılır.
 
-2. İlçe Millî Eğitim Müdürlükleri Denetim Faaliyetleri:
+**2. İlçe Millî Eğitim Müdürlükleri Denetim Faaliyetleri:**
 
 a) İlçe Millî Eğitim Müdürlüğü İSG Bürolarınca, Kaymakamlık Makam Onayı ile “İlçe Gıda
 
@@ -135,7 +135,7 @@ Müdürlüğü tarafından takip edilir.
 
 f) İlçe denetim raporlarının İlçe İSG Bürolarınca Denetim Uygulama Kılavuzu'na uygun olarak İl İSGB'ye, İlçe Toplum Sağlığı Merkezine ve İlçe Tarım ve Orman Müdürlüğüne iletilmesi sağlanır.
 
-3. İl Millî Eğitim Müdürlükleri Denetim Faaliyetleri:
+**3. İl Millî Eğitim Müdürlükleri Denetim Faaliyetleri:**
 
 a) 5216 sayılı Büyükşehir Belediyesi Kanunu’na göre büyükşehir olmayan illerde, İl Gıda
 
@@ -163,9 +163,9 @@ Destek Hizmetleri Genel Müdürlüğü İşyeri Sağlık ve Güvenlik Birimi Dai
 
 Müdürlüğü ve İl Tarım ve Orman Müdürlüğüne iletilmesi sağlanır.
 
-B- Gıda İşletmeleri, Gıda Güvenilirliği-Beslenme ve Hijyen Şartları:
+**B- Gıda İşletmeleri, Gıda Güvenilirliği-Beslenme ve Hijyen Şartları:**
 
-1. Gıda İşletmeleri ile İlgili Genel Hususlar:
+**1. Gıda İşletmeleri ile İlgili Genel Hususlar:**
 
 a) Bakanlığımıza bağlı resmî ve özel okul/kurumların bünyesinde faaliyet gösteren kantin/kooperatif, kafeterya, büfe, çay ocağı gibi gıda işletmelerinin iş sağlığı ve güvenliği ile ilgili yükümlülüklerini yerine getirmesi, b) Gıda işletmeleri çalışanlarının mevzuatlarda belirtilen ve yaptıkları işe özgü eğitimleri almalarının sağlanması, c) Gıda işletmelerinde İlgi (i)’de kayıtlı Yönetmelik’te belirtilen uygun sayıda ilk yardımcı bulundurulması, ç) Gıda işletmelerinin İlgi (ğ)’de kayıtlı Yönetmelik gereğince gerekli onay/kayıt işlemlerini tamamlamış olması, d) Gıda işletmelerinin yetkilisi ve çalışanların “Okul Kantinlerine Dair Özel Hijyen Kuralları
 
@@ -186,16 +186,16 @@ materyallerin kullanılmaması, bu materyallerin öğrencilerin sağlıklı besl
 
 Kanun'a göre belirlenen tavan fiyatların İlgi (f)’de kayıtlı Kanun gereğince gıda işletmelerinin görünür bir yerinde ilan edilmesi, j) Gıda işletmelerinin görünür bir yerinde ilan edilen tavan fiyat listesinin okul/kurum yönetimince takip edilerek tavan fiyat üzerinde satışa izin verilmemesi, k) Okul/kurum yönetimince öğrencilerin, kontrol ve denetimi olmayan işletmelerden (seyyar satıcılar vb.) yiyecek satın almamaları konusunda bilgilendirilmesi ile okul/kurumu etkileyen kontrol ve denetimi olmayan gıda satışı konusunda önleyici gerekli tedbirlerin alınması, l) Gıda işletmelerinde İlgi (j)’de kayıtlı Yönetmelik'e uygun olarak ilk yardım malzemelerinin eksiksiz bulundurulması, m) Kantin, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde kayıt dışı personel çalıştırılmaması gerekmektedir.
 
-2. Gıda Güvenilirliği ve Beslenme ile İlgili Hususlar:
+**2. Gıda Güvenilirliği ve Beslenme ile İlgili Hususlar:**
 
 a) Bakanlığımıza bağlı resmî ve özel okul/kurumların bünyesinde faaliyet gösteren kantin/kooperatif, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde satışı uygun olan/satışı uygun olmayan gıda ve içecekler ile belirlenen kriterleri sağladıklarında satışı uygun olan gıda ve içecekler
 
-Sağlık Bakanlığı Bilim Kurulu önerileri doğrultusunda Sağlık Bakanlığınca belirlenir. Belirlenen tüm esaslar http://merkezisgb.meb.gov.tr/www/gida-isletmeleri-denetimi/dosya/40 sayfasında yayınlanır, gerekli hâllerde güncellenir. Satışa sunulacak tüm gıdaların İlgi (l)’de kayıtlı Yönetmelik'e ve Yönetmelik'e bağlı ikincil mevzuata uygun olması, b) Kriterleri karşılaması hâlinde satışına izin verilen hazır ambalajlı gıdalarda okul gıdası logosu bulunması, logo bulunmayan gıdaların satışının yapılmaması, c) Okul, pansiyon ve yurtlara yemek sağlayan gıda işletmeleri, yemek fabrikaları ve okul pansiyon yemekhanelerinde üretilen yemeklerin her çeşidinden alınan yeterli miktarda örneğin hijyenik ve tek kullanımlık kaplarda 72 saat uygun koşullarda (soğukta ya da dondurarak) zorunlu olarak muhafaza edilmesi, ç) Bakanlığımıza bağlı resmî ve özel okul/kurumların bünyesinde faaliyet gösteren kantin/kooperatif, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde satışa sunulacak olan gıdalar ile üretimde kullanılan ham maddeleri üreten gıda işletmelerinin Tarım ve Orman Bakanlığından işletme onay/kayıt numarasının bulunması, d) Gerekli izinleri alarak kantinde yemekhane hizmeti veren işletmeler hariç kantin/kooperatif, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde çiğ et vb. ürünlerinin hiçbir şekilde bulundurulmaması; hazır veya yarı hazır hâlde işlenmiş et ve et ürünlerinin ise soğuk zincir kırılmadan, uygun şartlarda muhafaza edilmesi, e) Çiğ olarak servis edilecek olan gıdaların (salata, meyve vb.) bol su ile iyice yıkanarak hazırlanması, hazırlandıktan sonra üzeri Tarım ve Orman Bakanlığı tarafından verilen işletme kayıt numarası bulunan gıda işletmelerinin ürettiği streç-film gibi ambalaj malzemeleri ile kapatılarak servise kadar buzdolabında muhafaza edilmesi, f) Servise sunulan gıdaların tüketimi için tercihen tek kullanımlık araç gereçlerin (bardak, tabak, çatal, kaşık vb.) kullanılması,
+Sağlık Bakanlığı Bilim Kurulu önerileri doğrultusunda Sağlık Bakanlığınca belirlenir. Belirlenen tüm esaslar **http://merkezisgb.meb.gov.tr/www/gida-isletmeleri-denetimi/dosya/40** sayfasında yayınlanır, gerekli hâllerde güncellenir. Satışa sunulacak tüm gıdaların İlgi (l)’de kayıtlı Yönetmelik'e ve Yönetmelik'e bağlı ikincil mevzuata uygun olması, b) Kriterleri karşılaması hâlinde satışına izin verilen hazır ambalajlı gıdalarda okul gıdası logosu bulunması, logo bulunmayan gıdaların satışının yapılmaması, c) Okul, pansiyon ve yurtlara yemek sağlayan gıda işletmeleri, yemek fabrikaları ve okul pansiyon yemekhanelerinde üretilen yemeklerin her çeşidinden alınan yeterli miktarda örneğin hijyenik ve tek kullanımlık kaplarda 72 saat uygun koşullarda (soğukta ya da dondurarak) zorunlu olarak muhafaza edilmesi, ç) Bakanlığımıza bağlı resmî ve özel okul/kurumların bünyesinde faaliyet gösteren kantin/kooperatif, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde satışa sunulacak olan gıdalar ile üretimde kullanılan ham maddeleri üreten gıda işletmelerinin Tarım ve Orman Bakanlığından işletme onay/kayıt numarasının bulunması, d) Gerekli izinleri alarak kantinde yemekhane hizmeti veren işletmeler hariç kantin/kooperatif, kafeterya, büfe, çay ocağı gibi gıda işletmelerinde çiğ et vb. ürünlerinin hiçbir şekilde bulundurulmaması; hazır veya yarı hazır hâlde işlenmiş et ve et ürünlerinin ise soğuk zincir kırılmadan, uygun şartlarda muhafaza edilmesi, e) Çiğ olarak servis edilecek olan gıdaların (salata, meyve vb.) bol su ile iyice yıkanarak hazırlanması, hazırlandıktan sonra üzeri Tarım ve Orman Bakanlığı tarafından verilen işletme kayıt numarası bulunan gıda işletmelerinin ürettiği streç-film gibi ambalaj malzemeleri ile kapatılarak servise kadar buzdolabında muhafaza edilmesi, f) Servise sunulan gıdaların tüketimi için tercihen tek kullanımlık araç gereçlerin (bardak, tabak, çatal, kaşık vb.) kullanılması,
 
 
 g) Okul/kurumlarda kantin olarak faaliyet gösteren gıda işletmelerinin, ilgili mevzuatlara uygun olarak gerekli yetki ve izinleri (ruhsat, kayıt, faaliyet değişikliği vb.) almadan yemekhane faaliyeti gerçekleştirmemesi gerekmektedir.
 
-3. Hijyen Şartları ile İlgili Hususlar:
+**3. Hijyen Şartları ile İlgili Hususlar:**
 
 a) Bakanlığımıza bağlı resmî ve özel okul/kurumların bünyesinde faaliyet gösteren kantin, yemekhane, kafeterya, büfe, çay ocağı gibi gıda işletmelerinin İlgi (g) ve (k)’da kayıtlı Yönetmelik şartlarına uygun olması, b) Gıda işletmelerinde çalışanların İlgi (k)’da kayıtlı Yönetmelik'e uygun olarak Hijyen
 

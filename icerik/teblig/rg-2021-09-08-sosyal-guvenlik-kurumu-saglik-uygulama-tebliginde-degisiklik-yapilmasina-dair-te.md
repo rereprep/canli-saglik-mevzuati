@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 2.4.1.B numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) 2.4.1.B-1 numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve aynı maddenin dördüncü fıkrasında yer alan “14/1/2012 tarihli ve 28173 sayılı Resmî Gazete’de yayımlanan “Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik”” ibaresi “20/2/2019 tarihli ve 30692 sayılı Resmî Gazete’de yayımlanan “Erişkinler İçin Engellilik Değerlendirmesi Hakkında Yönetmelik”” şeklinde değiştirilmiştir.

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/03/20070321-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
+T.C. Resmî Gazete Resmî Gazete **KANUN**
 ŞANS OYUNLARI HASILATINDAN ALINAN VERGİ, FON VE PAYLARIN DÜZENLENMESİ HAKKINDA KANUN
-Kanun No. 5602 Kabul Tarihi : 14/3/2007 Amaç
+**Kanun No. 5602 Kabul Tarihi : 14/3/2007** Amaç
 
 
 MADDE 1 – (1) Bu Kanunun amacı; 6132 sayılı At Yarışları Hakkında Kanun ve 7258 sayılı Futbol ve Diğer Spor Müsabakalarında Bahis ve Şans Oyunları Düzenlenmesi Hakkında Kanun ile 320 sayılı Milli Piyango İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname uyarınca tertip edilen şans oyunlarından elde edilen hasılatın tâbi tutulacağı esasları düzenlemektir.
@@ -110,7 +110,7 @@ b) 20 nci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 "2. Müşterek bahislerde, iştirakçilerden tahsil edilen tutardan Katma Değer Vergisi düşüldükten sonra kalan tutar."
 c) 21 inci maddesinin (II) numaralı bendi aşağıdaki şekilde değiştirilmiştir.
 "II- Müşterek Bahislerde:
-5" Yürürlükten kaldırılan hükümler
+5" **Yürürlükten kaldırılan hükümler**
 
 MADDE 11 – (1) a) 13/7/1956 tarihli ve 6802 sayılı Gider Vergileri Kanununun 40 ıncı maddesi,
 b) 16/8/1961 tarihli ve 351 sayılı Yüksek Öğrenim Kredi ve Yurtlar Kurumu Kanununun 28 inci maddesinin birinci fıkrasının (c) ve (ç) bentleri ile 29 uncu maddesi,

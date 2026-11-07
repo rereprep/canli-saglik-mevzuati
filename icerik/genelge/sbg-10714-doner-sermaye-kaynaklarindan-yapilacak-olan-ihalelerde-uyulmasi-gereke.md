@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -34,7 +34,7 @@ Belirtilen temel yaklaşıma uygun olarak öncelikle ihtiyaçların karşılanma
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -52,19 +52,19 @@ g) Aşırı düşük teklif sorgulamalarında ve değerlendirmelerinde ihtilafla
 
 h) Uygulama Yönetmeliklerinde idarelerin, belgelerin aslını veya aslına uygunluğu noterce onaylanmış örneklerini isteyecekleri belirtilmiştir. Adayların veya isteklilerin istenen belgelerin aslı yerine, ön yeterlik veya ihaleden önce idare tarafından “aslı idarece görülmüştür” veya bu anlama gelecek şerh düşülen ve aslı kendilerine iade edilen belgelerin suretlerini teklif veya başvurularına eklemeleri mümkün olduğundan adaylar ve istekliler tarafından yapılacak bu yöndeki taleplerin idarenin yetkili personelince karşılanması zorunludur. Ayrıca ihalelerde bu belgelerin kabul edilmesi gerekmektedir.
 
-i) Kamu İhale Kurulu’nun 19.10.2006 tarihli ve 2006/UM.Z-2539 sayılı Kararında; “…Ancak, 4734 sayılı Kamu İhale Kanunu’nun 21 inci maddesi gereğince en az üç isteklinin davet edilmesi asgari şart olup, davet edilmeyen isteklilere ihale dokümanı satılamayacağına ve davet edilmeyen isteklilerin ihaleye katılamayacaklarına ilişkin engelleyici bir hüküm bulunmamaktadır. İhalenin Kanunun 21/b maddesine göre yapılmasında amaç ihale sürecini kısaltarak ihtiyaç olan malzemelerin kısa sürede alınmasıdır. Burada en az üç isteklinin davet edilmesi daha fazla isteklinin davet edilmeyeceği veya davet edilmeyen firmaların ihaleye katılamayacakları anlamına gelmemektedir. Bu nedenle, rekabetin sağlanması açısından; pazarlık usulü ile yapılan ihalelerde de, ihale dokümanı satın almak isteyen tüm isteklilere ihale dokümanı satılması uygun olacaktır…” ibaresi yer aldığından, yapılacak ihalelerde bu hususa dikkat edilmesi, rekabetin artırılması açısından büyük önem arz etmektedir.
+i) Kamu İhale Kurulu’nun 19.10.2006 tarihli ve 2006/UM.Z-2539 sayılı Kararında; <i>“…Ancak, 4734 sayılı Kamu İhale Kanunu’nun 21 inci maddesi gereğince en az üç isteklinin</i> <i>davet edilmesi asgari şart olup, davet edilmeyen isteklilere ihale dokümanı satılamayacağına</i> <i>ve davet edilmeyen isteklilerin ihaleye katılamayacaklarına ilişkin engelleyici bir hüküm</i> <i>bulunmamaktadır. İhalenin Kanunun 21/b maddesine göre yapılmasında amaç ihale sürecini</i> <i>kısaltarak ihtiyaç olan malzemelerin kısa sürede alınmasıdır. Burada en az üç isteklinin davet</i> <i>edilmesi daha fazla isteklinin davet edilmeyeceği veya davet edilmeyen firmaların ihaleye</i> <i>katılamayacakları anlamına gelmemektedir. Bu nedenle, rekabetin sağlanması açısından;</i> <i>pazarlık usulü ile yapılan ihalelerde de, ihale dokümanı satın almak isteyen tüm isteklilere</i> <i>ihale dokümanı satılması uygun olacaktır…”</i> ibaresi yer aldığından, yapılacak ihalelerde bu hususa dikkat edilmesi, rekabetin artırılması açısından büyük önem arz etmektedir.
 
 2 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
-A. Harcama Yetkilisi/İhale Yetkilisi
+**A. Harcama Yetkilisi/İhale Yetkilisi**
 
-Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki 209 Sayılı Kanun Gereğince İşletme, İdare Ve Muhasebe İşlerine Dair Yönetmelik’in 8 ve 9 uncu maddelerinde; her kurumun idaresinin il sağlık müdürü veya müdür veyahut bir baştabibe tevdi olunacağı ile il sağlık müdürü veya kurum müdürü (Rehabilitasyon, Hıfzıssıhha Enstitüsü, Huzurevi, Kreş ve Gündüz Bakımevi gibi kurumlarda) veyahut baştabibin birinci derecede imza selahiyetine haiz en büyük ita amiri olduğu belirtilmektedir.
+Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki 209 Sayılı Kanun Gereğince İşletme, İdare Ve Muhasebe İşlerine Dair Yönetmelik’in 8 ve 9 uncu maddelerinde; her kurumun idaresinin il sağlık müdürü veya müdür veyahut bir baştabibe tevdi olunacağı ile il sağlık müdürü veya kurum müdürü <i>(Rehabilitasyon, Hıfzıssıhha Enstitüsü, Huzurevi, Kreş ve Gündüz Bakımevi gibi</i> <i>kurumlarda)</i> veyahut baştabibin birinci derecede imza selahiyetine haiz en büyük ita amiri olduğu belirtilmektedir.
 
 01/05/2007 tarihli ve 26509 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği’nin Tanımlar başlıklı 3 üncü maddesinde Harcama Yetkilisi; “Bütçe ile ödenek tahsis edilen her bir işletmenin en üst yöneticisini veya anılan görevi yürütmekle görevlendirilen kişiyi” ifade eder şeklinde; 4734 sayılı Kamu İhale Kanunu’nun Tanımlar başlıklı 4 üncü maddesinde ise, İhale Yetkilisi; “İdarenin, ihale ve harcama yapma yetki ve sorumluluğuna sahip kişi veya kurulları ile usulüne uygun olarak yetki devri yapılmış görevlilerini” ifade eder şeklinde tanımlanmıştır.
 
@@ -72,9 +72,9 @@ Yukarıda yer alan hükümlerden de anlaşılacağı üzere, Bakanlığımıza b
 
 Harcama yetkilileri harcama yetkisini, Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği’nin 9 uncu maddesi hükümleri çerçevesinde; yardımcılarına, yardımcısı olmayanlar ise hiyerarşik olarak bir alt kademedeki yöneticilere, kısmen veya tamamen devredebilirler.
 
-Toplu Alım Yetkisi
+**Toplu Alım Yetkisi**
 
-4/1/1961 tarihli ve 209 sayılı “Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki Kanun”un 3 üncü maddesinde; “…Döner sermayeli işletmelerin tıbbî cihaz, tıbbî sarf malzemesi, ilaç ve büro malzemeleri gibi merkezî olarak satın alınmasında fayda görülen mal alımları ile hizmet alımları, bedelleri her döner sermaye işletmesinin kendi bütçesinden karşılanmak kaydıyla toplu olarak yapılabilir. Bu durumda ita amirliği Sağlık Bakanlığınca belirlenir…” şeklinde yer alan hüküm ile toplu alım yapma imkânı getirilmiştir.
+4/1/1961 tarihli ve 209 sayılı “Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki Kanun”un 3 üncü maddesinde; <i>“…Döner sermayeli işletmelerin tıbbî cihaz, tıbbî sarf malzemesi, ilaç ve</i> <i>büro malzemeleri gibi merkezî olarak satın alınmasında fayda görülen mal alımları ile hizmet</i> <i>alımları, bedelleri her döner sermaye işletmesinin kendi bütçesinden karşılanmak kaydıyla</i> <i>toplu olarak yapılabilir. Bu durumda ita amirliği Sağlık Bakanlığınca belirlenir…”</i> şeklinde yer alan hüküm ile toplu alım yapma imkânı getirilmiştir.
 
 Mezkûr Kanun hükmü doğrultusunda;
 
@@ -84,7 +84,7 @@ Bakanlık Makamı’ndan alınan 21/03/2007 tarihli ve B.10.0.SGB.0.81.00.01/20�
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -122,15 +122,15 @@ Mezkûr kanun hükmünde de açıkça zikredildiği üzere, toplu alımlarda al�
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar ise, her bir döner sermaye işletmesinin harcama yetkilisi tarafından onaylanması gerekmektedir.
 
-B. Eşik Değer
+**B. Eşik Değer**
 
 Döner Sermaye kaynaklı yapılacak alımlarda eşik değer olarak, 4734 sayılı Kamu İhale Kanunu’nun 8 inci maddesinin (b) bendi için belirlenen ve her yıl Kamu İhale Kurumunca güncellenen parasal değer esas alınacaktır.
 
-C. İhale Dokümanları
+**C. İhale Dokümanları**
 
 1. İhale dokümanlarının hazırlanmasında; Kamu İhale Kurumunca yayımlanan tip şartnamelerin, tip sözleşmelerin, standart formların ve diğer dokümanların dipnotlarında yer alan açıklamaların da dikkate alınması gerekmektedir.
 
@@ -148,7 +148,7 @@ C. İhale Dokümanları
 
 8. Teknik şartnamelerin kurulacak komisyon tarafından iyi bir araştırma yapılarak, herhangi bir marka, model veya firmayı tarif eder nitelikte olmamasına, rekabeti engelleyici unsurlar taşımamasına ve kurumun ihtiyacına cevap verecek özelliklere sahip olmasına dikkat edilerek hazırlanması gerekmektedir.
 
-D. İş Deneyim Belgeleri
+**D. İş Deneyim Belgeleri**
 
 İhalelerde isteklilerden istenen iş deneyim belgeleri ihalelerin (özellikle hizmet alımı ihalelerinin) sonuçlandırılmasında büyük önem arz etmektedir. Bu nedenle, iş deneyim belgelerinin düzenlenmesinde azami özen gösterilmesine, firmalar tarafından hazırlanan iş deneyim belgelerinin idarece incelenmeden doğrudan doğruya onaylanmamasına, talep edilen
 
@@ -156,11 +156,11 @@ D. İş Deneyim Belgeleri
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar iş deneyim belgesinin gerekli incelemeler yapıldıktan sonra onaylanmasına, hazırlanan belgelerde sözleşme konusu işin tanımının ve sözleşme tutarının doğru yazılmasına, firmanın ticaret sicil gazetesindeki unvanının kısaltma yapılmadan tam olarak yazılmasına, ticaret sicil numarasının ve bağlı olduğu ticaret odasının adının açıkça gösterilmesine, tarih ve sayı verilmesine dikkat edilmesi gerekmektedir.
 
-E. İlanlar
+**E. İlanlar**
 
 1. Şartları oluşmadan düzeltme ilanlarının yapılmaması ve zeyilname düzenlenmemesi; düzeltme ilanlarının yapılması ve zeyilname düzenlenmesi hususunda 4734 sayılı Kanunun 26 ncı ve 29 uncu maddelerinde belirtilen süre ve esaslara dikkat edilmesi gerekmektedir.
 
@@ -168,13 +168,13 @@ E. İlanlar
 
 3. İhale ve/veya ön yeterlik ilanlarının yayımlanmasında Kanunda belirtilen sürelere, nerelerde ve kaç defa yayımlanması gerektiğine dikkat edilmesi gerekmektedir.
 
-F. Teminatlar
+**F. Teminatlar**
 
 İsteklilerce ihaleye sunulan teklif dosyası içerisindeki geçici teminat mektuplarının gerek görüldüğünde, kesin teminat mektuplarının ise mutlaka teyitlerinin yapılması gerekmektedir.
 
 Bazı isteklilerce idareyi yanıltmak maksadıyla kesin teminat mektubunun renkli fotokopisinin idareye verildiği, idare ile banka arasında yapılan teyit yazışmalarından ve sözleşme imzalandıktan sonra aslının bankaya iade edildiği tespit edildiğinden; teyit yazılarında, bankanın istekli adına idareye hitaben vermiş olduğu teminat mektubunun geçerlilik süresinden önce bankaya (istekli tarafından) geri iade edilmesi durumunda, ilgili bankanın bu teminatı işlemden kaldırmak üzere kabul etmeden önce idareye bilgi vermesinin istenmesi gerekmektedir.
 
-G. İlaç Alımları
+**G. İlaç Alımları**
 
 1- Bilindiği üzere kurumlarımız tarafından yapılan ilaç ihalelerine sadece ecza depoları ile ihaleye çıkılan ürünlerin imalatçı veya ithalatçı firmaları girebilmektedir. İlaç fiyatları ise, Bakanlığımız tarafından belirlenmektedir. Bu nedenle ilaç ihalelerinde ihale sonucu oluşan fiyatların Bakanlığımız tarafından belirlenen Depocu Azami Satış Fiyatlarının üzerinde olmamasına dikkat edilmesi,
 
@@ -186,7 +186,7 @@ Bununla birlikte ilaç ihalelerinde genellikle depocu azami satış fiyatlarınd
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar renkte ve okunabilir puntoda; (miadı yaklaşan ilaçların değiştirilmesinde sorun olmaması için kurum ismi belirtilmeden) “İHALE MALIDIR SATILAMAZ” ibaresinin yazılması ve fiyat kupürlerinin delinmiş olarak teslim edileceği yolundaki hükümlerin şartnamelere konulması gerekmektedir.
 
@@ -194,11 +194,11 @@ Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye K
 
 Bu nedenle ilaç alımlarında önceki yıllar tüketim miktarları da göz önüne alınarak sağlıklı bir ihtiyaç planlamasının yapılması ve gereksiz yere ihtiyacın üzerinde alım yapılmamasına dikkat edilmesi gerekmektedir.
 
-H. İlave İş veya İş Eksilişi
+**H. İlave İş veya İş Eksilişi**
 
 4735 sayılı Kamu İhale Sözleşmeleri Kanunu’nun 24 üncü maddesine göre öngörülemeyen durumlarda sözleşme kapsamında ilave işlerin veya iş eksilişinin yapılması mümkün olabilmektedir. Ancak mal veya hizmet alımlarında, ilave işlerin veya iş eksilişinin yapılabilmesi için ihalelerin mutlaka birim fiyat teklif almak suretiyle yapılması gerekmektedir.
 
-İ. Diğer Hususlar
+**İ. Diğer Hususlar**
 
 1. 4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu uyarınca yapılması gereken tebligatların elden veya iadeli taahhütlü olarak posta yoluyla yapılması zorunludur. Ayrıca yapılan tebligatlara ilişkin bilgi ve belgelerinde ihale işlem dosyasına konulması gerekmektedir.
 
@@ -216,7 +216,7 @@ H. İlave İş veya İş Eksilişi
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar sağlamayan istekli üzerinde bırakılmaması veya idari ve teknik şartnameyi sağlamasına karşın bazı tekliflerin değerlendirme dışı bırakılmaması için;
 
@@ -262,13 +262,13 @@ gerekçesiyle kabul edilmemelidir.
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
 ### II - HİZMET ALIMLARI
 
-A- Çalıştırılacak İşçi Sayısının Tespiti
+**A- Çalıştırılacak İşçi Sayısının Tespiti**
 
 Yardımcı Hizmetler Sınıfı personel tarafından yerine getirilmesi gereken hizmetlerin ihalelerinde çalıştırılacak işçi sayısının tespitinde; Bakanlığın 06.12.2001 tarih ve 11706 sayılı Onayına istinaden, 26.10.1994 tarih ve 22093 sayılı Resmi Gazete’de yayımlanan Sağlık Bakanlığı Taşra Teşkilatı Yatak ve Kadro Standartları Yönetmeliğinde belirtilen Yardımcı Hizmetler Sınıfı Personel Standardının uygulanması ve bu sayılara halen uygulanmakta olduğu gibi eğitim hastaneleri ile 300 ve daha yukarı yatak kapasiteli kurumlar için % 75 oranında, diğer kurumlar için % 50 oranında artış yapılarak ilave edilmesine devam edilmesi, ayrıca vardiya uygulayan hastanelerde bu oranlara % 30 ilave edilmesi gerekmektedir.
 
@@ -282,7 +282,7 @@ Standardın % 75’i (225) + Eksik Personel (120 ) = Azami Çalıştırılacak �
 
 Ayrıca; Kurumun yardımcı hizmetler sınıfı personel standardının belirlenmesinde 24.07.2001 tarih ve 24472 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren “Sağlık Bakanlığı Taşra Teşkilatı Yatak ve Kadro Standartları Yönetmeliği ile Eki Cetvellerin Değiştirilmesine Dair Yönetmelik” ile getirilen değişikliğin değil, değişiklik öncesi şeklinin (12.12.1995 tarih ve 22491 sayılı Resmi Gazetede yayınlanan Sağlık Bakanlığı Taşra Teşkilatı Yatak ve Kadro Standartları Yönetmeliği ile Eki Cetvellerinin Değiştirilmesine Dair Yönetmelik) baz alınması gerekmektedir.
 
-B- Hizmet Alımlarında Yemek, Yol ve Giyecek
+**B- Hizmet Alımlarında Yemek, Yol ve Giyecek**
 
 Yıllardır hizmet alımı kapsamında çalıştırılan işçilerin yemek, yol ve giyecek ihtiyaçlarının ayni veya nakdi olarak istekliler tarafından karşılanacağına dair idari şartnamelere kurumlarımız tarafından hükümler konulmaktadır. Bu hükümlere istinaden işçilerin yemek, yol ve giyecek ihtiyaçlarının giderilmesine yönelik maliyetler ise, yaklaşık maliyet tespitinde dikkate alınmakta ve isteklilerden brüt asgari ücret ile öngörülen yemek, yol ve giyecek bedellerini de içeren asgari işçilik maliyetinin altında teklif vermemeleri istenmektedir. Sonuç olarak öngörülen yemek, yol ve giyecek bedelleri kurumlarımız tarafından karşılanarak uhdesinde ihale kalan firmalara ödenmektedir.
 
@@ -292,7 +292,7 @@ Ancak uygulamada bazı sıkıntıların yaşandığı gözlemlenmiş ve bu sık�
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -300,7 +300,7 @@ Bakanlığımıza bağlı kurum ve kuruluşlarca, hizmet alımı kapsamında ça
 
 a) İşçilerin yemek ihtiyaçlarının ayni veya nakdi olarak karşılanması için firmalara bir bedelin ödenmesi uygulaması yerine, yemek ihtiyaçlarının hastane tarafından çıkartılan yemekten bedelsiz karşılanması yönünde şartnamelere hüküm konulması ve yemek bedelinin yaklaşık maliyet hesaplamalarında dikkate alınmaması,
 
-b) Yol ihtiyaçlarının ise, istekliler tarafından ayni (idarenin takdirine göre toplu taşıma araçlarından sağlanacak bilet veya servis imkânlarıyla karşılanması gibi) olarak karşılanacağına dair şartnamelere hüküm konulması ve yaklaşık maliyet hesaplamalarında yol bedelinin dikkate alınması uygun görülmüştür.
+b) Yol ihtiyaçlarının ise, istekliler tarafından ayni <i>(idarenin takdirine göre toplu taşıma</i> <i>araçlarından sağlanacak bilet veya servis imkânlarıyla karşılanması gibi)</i> olarak karşılanacağına dair şartnamelere hüküm konulması ve yaklaşık maliyet hesaplamalarında yol bedelinin dikkate alınması uygun görülmüştür.
 
 Bu çerçevede;
 
@@ -322,13 +322,13 @@ Bu çerçevede;
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar gitmediği ve yol bedelinin firmalara ödenerek haksız kazanç sağlamalarına neden olunduğu tespit edilmiştir. Bunun önlenmesini teminen, bazı küçük İl ve İlçe Hastanelerinin yapacağı hizmet alım ihalelerinde işçi maliyeti belirlenirken, hastanenin ilçe merkezine olan uzaklığı ve toplu taşım araçlarının bulunup bulunmadığının tespit edilmesinden sonra “Yol Bedeli”nin işçi maliyet hesaplarına eklenmesi ve buna göre şartnamelere hüküm konulmasına dikkat edilmesi gerekmektedir.
 
 7- Konu hakkında ayrıca Kamu İhale Genel Tebliği’nde, “Personel Çalıştırılmasına Dayalı Hizmet Alımlarında Teklif Fiyata Dâhil Olacak Masraflar” başlığı altında yapılan açıklamaların da dikkate alınması gerekmektedir.
 
-C- Temizlik Hizmeti Alımı İhaleleri
+**C- Temizlik Hizmeti Alımı İhaleleri**
 
 1- Temizlik hizmet alımı ihalelerinde iş deneyim belgesinde yatak sınırlaması konulmaması,
 
@@ -342,19 +342,19 @@ C- Temizlik Hizmeti Alımı İhaleleri
 
 6- İhale dokümanına, her 50 kişiye; Ev Ekonomisi, Otelcilik Turizm Yüksek Okulu, Hemşirelik Yüksek Okulu, Sağlık İdaresi Yüksek Okulu vb. okul mezunu olan (Bunların bulunmadığı küçük il ve ilçelerde üniversite mezunu) bir ekip sorumlusunun, yüklenici firma tarafından görevlendirilmesi yönünde hüküm konulabileceği,
 
-7- Yüklenicinin işin başında bulunması hususunda Hizmet İşleri Genel Şartnamesinin 9 ncu maddesinde; “Yüklenici, üstlenmiş olduğu işin devamı süresince, işyerinden ayrılamaz. Ancak, idare tarafından kendi yerine kabul edilecek birisini, işlerin gecikmesine veya durmasına hiçbir şekilde yol açmamak şartı ile vekil bırakarak iş başından ayrılabilir. Yüklenici veya vekili, iş yerinden ayrılmalarını gerektiren zorunlu hallerde, kontrol teşkilatından izin almak zorundadırlar. Yüklenici veya vekili, işlerle ilgili denetimler ve çalışmalar sırasında istendiği zaman kontrol teşkilatı ile birlikte bulunacaklardır.”şeklinde yer alan hükme göre hareket edilmesi gerekeceği,
+7- Yüklenicinin işin başında bulunması hususunda Hizmet İşleri Genel Şartnamesinin 9 ncu maddesinde; <i>“Yüklenici, üstlenmiş olduğu işin devamı süresince, işyerinden ayrılamaz.</i> <i>Ancak, idare tarafından kendi yerine kabul edilecek birisini, işlerin gecikmesine veya</i> <i>durmasına hiçbir şekilde yol açmamak şartı ile vekil bırakarak iş başından ayrılabilir.</i> <i>Yüklenici veya vekili, iş yerinden ayrılmalarını gerektiren zorunlu hallerde, kontrol</i> <i>teşkilatından izin almak zorundadırlar. Yüklenici veya vekili, işlerle ilgili denetimler ve</i> <i>çalışmalar sırasında istendiği zaman kontrol teşkilatı ile birlikte bulunacaklardır.”</i>şeklinde yer alan hükme göre hareket edilmesi gerekeceği,
 
 11 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
 8- Ekip sorumlularının hizmetin görüldüğü saatlerde (haftalık çalışma saatlerinin tamamında) idarede bulunacağı, istekli tarafından bu kişilerin en azından asgari ücretle çalıştırılacağı ve iş mevzuatı gereğince sigortasız çalıştırılamayacağı dikkate alındığında, bu kişilerin istekliler açısından bir maliyet unsuru olarak ortaya çıktığı görülmektedir. Bu nedenle; ekip sorumluları için ücret ödenmeyeceğine ve teklif fiyata dâhil edilemeyeceğine dair hükümlere ihale dokümanında yer verilmemesi, bu kişilerin en azından asgari ücret üzerinden çalıştırılacağı dikkate alınarak yaklaşık maliyet hesaplamalarına brüt asgari ücret üzerinden bu kişilerinde dâhil edilmesi, aşırı düşük teklif değerlendirilmesinde, bu kişilerin yine en azından asgari ücret üzerinden çalıştırılacağı dikkate alınarak asgari personel maliyeti içerisine, brüt asgari ücret üzerinden bu kişilerinde dâhil edilmesi gerekmektedir.
 
-D- Yemek Hizmeti Alımı İhaleleri
+**D- Yemek Hizmeti Alımı İhaleleri**
 
 1. Yemek ihalelerinde yenilen yemek sayısı üzerinden ödeme yapılmasını teminen gerekli tedbirlerin alınması, Örneğin; kurum personeli için elektronik kart sisteminin uygulanması, yatan hastalar için ise, her öğün hastalara verilen yemek sayısını tespit etmek üzere sorumlu hemşirenin işlem tutanağı düzenlenmesi gibi,
 
@@ -376,7 +376,7 @@ D- Yemek Hizmeti Alımı İhaleleri
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -394,7 +394,7 @@ Kamu İhale Kurumu’ndan konuya ilişkin olarak alınan yazıda ise;
 
 İdarelerce “mesleki ve teknik yeterlik” konusunda istenilen belgeler konusunda gıda mevzuatının esas alınarak ihale dokümanında düzenleme yapılması ve bu konuda ilgili idarelerden görüş alınması, ihale konusu hizmeti yerine getirecek personelin niteliği ve bu nitelik çerçevesinde sunulacak belgelere ilişkin olarak ihale dokümanında açık düzenleme yapılması istenmektedir
 
-E- Koruma ve Güvenlik Hizmeti Alımları
+**E- Koruma ve Güvenlik Hizmeti Alımları**
 
 4734 sayılı Kamu İhale Kanunu’nun Tanımlar başlıklı 4 üncü maddesinde tanımlanan “Hizmet” kavramının içerisinde yer alan "koruma ve güvenlik" hizmetlerinin, Bakanlığımıza bağlı kurum ve kuruluşlarca döner sermaye kaynaklarından temin edilmesine Bakanlık Makamının 19.02.2003 tarih ve 1584 sayılı Olur’ları ile “genel izin” verilmiştir.
 
@@ -404,7 +404,7 @@ Konuya ilişkin 5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun 26.06.2004
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar ve kuruluşlar bünyesinde özel güvenlik birimi kurulması veya güvenlik hizmetinin şirketlere gördürülmesi özel güvenlik komisyonunun kararı üzerine valinin iznine bağlıdır.” hükmü yer almaktadır.
 
@@ -418,33 +418,33 @@ b) Özel güvenlik mali sorumluluk sigortası Kamu İhale Genel Tebliği’nde b
 
 c) Aşırı düşük teklif sorgulamasında teklifi oluşturan önemli bileşenlere ait açıklamaların belgeye dayandırılmış olmasına ve rayiç bedelleri sağlamasına dikkat edilmelidir. Önemli bir teklif bileşeni olan giyeceğin özellikleri ve sayısı tam olarak belirtilmeli, açıklamalarda bunlar mutlaka aranmalı; düdük, cop ve kelepçe gibi teçhizat bedelleri ise, önemli bir bileşen olarak dikkate alınmamalıdır.
 
-F- Hizmet Alımlarında Yüklenicinin Kendi İhtiyacı İçin Kullanacağı Yerlerin Ücretlendirilmesi
+**F- Hizmet Alımlarında Yüklenicinin Kendi İhtiyacı İçin Kullanacağı Yerlerin Ücretlendirilmesi**
 
-Bilindiği üzere ihale dokümanı arasında olan ve sözleşmenin ekleri arasında sayılan Hizmet İşleri Genel Şartnamesinin “Yüklenicinin kendi ihtiyacı için kullanacağı yerler” başlıklı 8 inci maddesinde;“Yükleniciye ait malzeme ve araç ambarları ile işçi barakaları gibi kendi ihtiyacı olan tesisler için kullanacağı yerlerin idare tarafından yükleniciye bedelsiz olarak verileceği sözleşme veya eklerinde yazılı olduğu takdirde, yüklenici ihtiyaç duyduğu bu yerlere ait harita, plan ve cetvelleri zamanında idareye vermek ve bu yerlerin sahipleri ile komşu yerler sahiplerine en az zarar verecek şekilde yer seçimi yapmak zorundadır. Bununla birlikte idare, gerekli gördüğü takdirde, yüklenicinin kullanacağı en uygun yeri kendisi seçerek yükleniciye gösterebilir. Bu durumda yüklenici, idarenin gösterdiğinden başka yerleri ancak sahipleri ile anlaşmak ve idareden bu kullanım karşılığı olarak bir bedel talep etmemek şartı ile kullanabilir.
+Bilindiği üzere ihale dokümanı arasında olan ve sözleşmenin ekleri arasında sayılan Hizmet İşleri Genel Şartnamesinin **“Yüklenicinin kendi ihtiyacı için kullanacağı yerler”** başlıklı 8 inci maddesinde;“**<i>Yükleniciye ait malzeme ve araç ambarları ile işçi barakaları gibi</i> <i>kendi ihtiyacı olan tesisler için kullanacağı yerlerin idare tarafından yükleniciye bedelsiz</i> <i>olarak verileceği sözleşme veya eklerinde yazılı olduğu takdirde,</i>** <i>yüklenici ihtiyaç duyduğu bu</i> <i>yerlere ait harita, plan ve cetvelleri zamanında idareye vermek ve bu yerlerin sahipleri ile</i> <i>komşu yerler sahiplerine en az zarar verecek şekilde yer seçimi yapmak zorundadır. Bununla</i> <i>birlikte idare, gerekli gördüğü takdirde, yüklenicinin kullanacağı en uygun yeri kendisi seçerek</i> <i>yükleniciye gösterebilir. Bu durumda yüklenici, idarenin gösterdiğinden başka yerleri ancak</i> <i>sahipleri ile anlaşmak ve idareden bu kullanım karşılığı olarak bir bedel talep etmemek şartı</i> <i>ile kullanabilir.</i>
 
-Yüklenicinin kendi ihtiyacı için kullanacağı yerlerin bedelsiz olarak verilmesi sözleşme veya eklerinde yazılı değil ise, yer temini için gereken bütün giderler yükleniciye ait olacaktır. Ancak bu yerlerin geçici işgali, resmi işlemleri gerektirdiği takdirde bu işlemler geçici işgale ilişkin harita, plan ve cetveller yüklenici tarafından hazırlanmak şartı ile idare tarafından yapılır.” hükmüne yer verilmiştir.
+**<i>Yüklenicinin kendi ihtiyacı için kullanacağı yerlerin bedelsiz olarak verilmesi</i> <i>sözleşme veya eklerinde yazılı değil ise, yer temini için gereken bütün giderler yükleniciye ait</i> <i>olacaktır.</i>** <i>Ancak bu yerlerin geçici işgali, resmi işlemleri gerektirdiği takdirde bu işlemler</i> <i>geçici işgale ilişkin harita, plan ve cetveller yüklenici tarafından hazırlanmak şartı ile idare</i> <i>tarafından yapılır.”</i> hükmüne yer verilmiştir.
 
-Maliye Bakanlığı Başhukuk Müşavirliği ve Muhakemat Genel Müdürlüğü’nün konuya ilişkin 26.06.2007 tarihli ve 23018 sayılı yazısında; “…Bu düzenlemeler çerçevesinde (Hizmet İşleri Genel Şartnamesinin 7, 8 ve 22 nci maddelerinde yapılan düzenlemeler), hizmet alımlarında “işyeri” tanımına giren, hizmetin ifa edileceği yerin yüklenici tarafından o hizmet
+Maliye Bakanlığı Başhukuk Müşavirliği ve Muhakemat Genel Müdürlüğü’nün konuya ilişkin 26.06.2007 tarihli ve 23018 sayılı yazısında; <i>“…Bu düzenlemeler çerçevesinde</i> (Hizmet İşleri Genel Şartnamesinin 7, 8 ve 22 nci maddelerinde yapılan düzenlemeler), <i>hizmet</i> <i>alımlarında “işyeri” tanımına giren, hizmetin ifa edileceği yerin yüklenici tarafından o hizmet</i>
 
 14 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
-İhalelerde Uyulması Gereken Usul ve Esaslar için kullanılmasının sözleşmenin zorunlu unsuru olduğu, yüklenicinin o iş yerinde idarenin talep ettiği ve bedelini ödediği bir hizmet icra ettiği, kendi adına ayrı bir ticari faaliyette bulunmadığı, bu nedenle işin ifası ve sunumu için kullandığı işyeri niteliğindeki alan için idareye kira olarak herhangi bir karşılık ödemesinin söz konusu olmadığı, yalnızca şartnamenin 8 inci maddesi hükmüne göre “malzeme ve araç ambarları ile işçi barakaları gibi kendi ihtiyacı olan tesisler için kullanacağı yerlerin” ücrete, kullanım bedeline konu olabileceği…” hususu belirtilmiştir.
+İhalelerde Uyulması Gereken Usul ve Esaslar <i>için kullanılmasının sözleşmenin zorunlu unsuru olduğu, yüklenicinin o iş yerinde idarenin</i> <i>talep ettiği ve bedelini ödediği bir hizmet icra ettiği, kendi adına ayrı bir ticari faaliyette</i> <i>bulunmadığı,</i> **<i>bu nedenle işin ifası ve sunumu için kullandığı işyeri niteliğindeki alan için</i> <i>idareye kira olarak herhangi bir karşılık ödemesinin söz konusu olmadığı, yalnızca</i> <i>şartnamenin 8 inci maddesi hükmüne göre “malzeme ve araç ambarları ile işçi barakaları</i> <i>gibi kendi ihtiyacı olan tesisler için kullanacağı yerlerin” ücrete, kullanım bedeline konu</i> <i>olabileceği…”</i>** hususu belirtilmiştir.
 
-Maliye Bakanlığı Milli Emlak Genel Müdürlüğü’nün 03.12.2007 tarihli ve 71243 sayılı yazılarında da; “… Buna göre gerek yürürlükteki mevzuat hükümleri gerekse Başhukuk Müşavirliği ve Muhakemat Genel Müdürlüğü’nün yukarıda belirtilen görüşü gereğince, sözleşme ekleri arasında sayılan Hizmet İşleri Genel Şartnamesi çerçevesinde, hizmet alımı sözleşmelerinde işyeri olarak kullanılacak yerlerin ücretsiz kullanılabileceğine dair hükme sözleşmesinde yer verilmez ise İdaremizce kiralama işlemi tesis edilerek kira bedellerinin tahsil edilmesi gerekmektedir…” hususu belirtilmiştir.
+Maliye Bakanlığı Milli Emlak Genel Müdürlüğü’nün 03.12.2007 tarihli ve 71243 sayılı yazılarında da; “… <i>Buna göre gerek yürürlükteki mevzuat hükümleri gerekse Başhukuk</i> <i>Müşavirliği ve Muhakemat Genel Müdürlüğü’nün yukarıda belirtilen görüşü gereğince,</i> <i>sözleşme ekleri arasında sayılan Hizmet İşleri Genel Şartnamesi çerçevesinde,</i> **<i>hizmet alımı</i> <i>sözleşmelerinde işyeri olarak kullanılacak yerlerin ücretsiz kullanılabileceğine dair hükme</i> <i>sözleşmesinde yer verilmez ise</i>** <i>İdaremizce kiralama işlemi tesis edilerek kira bedellerinin</i> <i>tahsil edilmesi gerekmektedir…”</i> hususu belirtilmiştir.
 
-Tüm bu açıklamalar ışığında; idarelerin kendi hizmet binalarında gerçekleştirilen hizmetler (temizlik, koruma ve güvenlik, bilgisayar sistemlerine yönelik hizmetler, yemek hazırlama ve dağıtım hizmetleri gibi) için çıkılan hizmet alımlarında, yüklenicinin kullanımına verilecek yerlerden (malzeme ve araç ambarları ile işçi barakaları gibi kendi ihtiyacı için kullanacağı yerler) bir bedel alınması öngörülmüyorsa, bu yerler için bedel alınmayacağı hususunun veya idare tarafından yükleniciye bedelsiz olarak verileceği hususunun sözleşme veya eklerinde yazılı olarak belirtilmesi gerekmektedir.
+Tüm bu açıklamalar ışığında; idarelerin kendi hizmet binalarında gerçekleştirilen hizmetler (temizlik, koruma ve güvenlik, bilgisayar sistemlerine yönelik hizmetler, yemek hazırlama ve dağıtım hizmetleri gibi) için çıkılan hizmet alımlarında, yüklenicinin kullanımına verilecek yerlerden (malzeme ve araç ambarları ile işçi barakaları gibi kendi ihtiyacı için kullanacağı yerler) bir bedel alınması öngörülmüyorsa, bu yerler için **bedel alınmayacağı hususunun** veya idare tarafından **yükleniciye bedelsiz olarak verileceği** hususunun sözleşme veya eklerinde yazılı olarak belirtilmesi gerekmektedir.
 
 Eğer ücretsiz kullanılabileceğine dair hükme sözleşme veya eklerinde yer verilmez ise, bu yerlerin temini için gerekli olan bütün giderler yüklenici tarafından ödenecek ve bu yerlerin kiralanmasına ilişkin işlemlerin ilgili idarenin (Milli Emlak Genel Müdürlüğü) tabi olduğu mevzuat çerçevesinde yapılması gerekmektedir.
 
-G- Hizmet Alımlarında Dikkat Edilmesi Gereken Önemli Bazı Hususlar
+**G- Hizmet Alımlarında Dikkat Edilmesi Gereken Önemli Bazı Hususlar**
 
 1. Hizmet alımı kapsamında çalıştırılan işçilerin hakları (özellikle işçi ücretleri) ve çalışma şartları hususunda, Hizmet İşleri Genel Şartnamesi’nin 6. Bölümünde yer alan hükümlere göre hareket edilmesi,
 
-2. İşçi alacaklarının (nakdi olarak verilmesi öngörülen durumlarda yemek ve yol bedelleri de dâhil olmak üzere) yüklenici tarafından işçiler adına açılacak banka hesaplarına yatırılmasının sağlanması,
+2. İşçi alacaklarının <i>(nakdi olarak verilmesi öngörülen durumlarda yemek ve yol</i> <i>bedelleri de dâhil olmak üzere)</i> yüklenici tarafından işçiler adına açılacak banka hesaplarına yatırılmasının sağlanması,
 
 3. İdare tarafından firmaya hak ediş ödemesi yapıldıktan sonra en geç 3 (üç) gün içerisinde, işçi ücretlerinin işçilerin hesaplarına aktarılması ve işçi ücretlerinin hesaplara aktarıldığına dair banka dekontunun aynı gün veya takip eden gün içerisinde kuruma ibrazının sağlanması,
 
@@ -454,7 +454,7 @@ G- Hizmet Alımlarında Dikkat Edilmesi Gereken Önemli Bazı Hususlar
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -468,9 +468,9 @@ Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye K
 
 9. Hizmet alımları kapsamında, yüklenici bütün giderleri kendisine ait olmak üzere hizmetinde çalışanlar için, gerek tek tek ve gerekse topluca yaşadıkları ve çalıştıkları yerler bakımından, yürürlükte olan sağlık ve güvenlik mevzuatı hükümlerine uygun olarak her türlü sağlık önlemlerini almak ve çalışanların yerel şartlara göre sağlıklı bir şekilde yiyip içmeleri, hastalıklardan korunmaları, hastalık veya bir kaza halinde tedavileri konularında ilgili mevzuat hükümlerine ve idare veya kontrol teşkilatının kendisine vereceği talimata uymak zorunda olduğunun bilinmesi,
 
-10. 4857 sayılı İş Kanunu’nun Kamu Makamlarının ve Asıl İşverenlerin Hakedişlerinden Ücreti Kesme Yükümlülüğü başlıklı 36 ncı maddesinde; “...... Anılan müteahhitlerin bu işverenlerdeki her çeşit teminat ve hakedişleri üzerinde yapılacak her türlü devir ve el değiştirme işlemleri veya haciz ve icra takibi bu işte çalışan işçilerin ücret alacaklarını karşılayacak kısım ayrıldıktan sonra, kalan kısım üzerinde hüküm ifade eder.” hükmü yer aldığından, hizmet alımları kapsamında yüklenici alacaklarına karşı başlatılan haciz ve icra takibinde, işçi alacaklarına öncelik tanınması,
+10. 4857 sayılı İş Kanunu’nun Kamu Makamlarının ve Asıl İşverenlerin Hakedişlerinden Ücreti Kesme Yükümlülüğü başlıklı 36 ncı maddesinde; <i>“...... Anılan</i> <i>müteahhitlerin bu işverenlerdeki her çeşit teminat ve hakedişleri üzerinde yapılacak her türlü</i> <i>devir ve el değiştirme işlemleri veya haciz ve icra takibi bu işte çalışan işçilerin ücret</i> <i>alacaklarını karşılayacak kısım ayrıldıktan sonra, kalan kısım üzerinde hüküm ifade eder.”</i> hükmü yer aldığından, hizmet alımları kapsamında yüklenici alacaklarına karşı başlatılan haciz ve icra takibinde, işçi alacaklarına öncelik tanınması,
 
-11. Hizmet alımı ihalelerinde kalite belgelerine ilişkin düzenleme yapılmasında, Hizmet Alımı İhaleleri Uygulama Yönetmeliği’nin 45 inci maddesinin esas alınması ve Kamu İhale Genel Tebliği’nin Birinci Bölümünün VIII inci maddesinin (L) alt maddesindeki açıklamalara dikkat edilmesi gerekmektedir. Hizmet Alımı İhaleleri Uygulama Yönetmeliği’nin 45 inci maddesinde yapılan değişiklikle maddenin birinci fıkrasında yer alan “...tehlike analizi ve kritik kontrol noktaları yönetim sistem (HACCP) belgesi, iş sağlığı ve güvenliği yönetim sistem (OHSAS) belgesi, bilgi teknolojisi-bilgi güvenliği yönetim sistem belgesine.....ilişkin düzenleme yapabilir...” hükmü yürürlükten kaldırıldığından, ihalelerde tehlike analizi ve kritik kontrol noktaları yönetim sistem (HACCP) belgesi, iş sağlığı ve güvenliği yönetim sistem (OHSAS) belgesi, bilgi teknolojisi-bilgi güvenliği yönetim sistemine ilişkin belgeler ve bu sistemlere ilişkin belgelendirme kuruluşları tarafından düzenlenen sertifikaların istenilmemesi gerekmektedir.
+11. Hizmet alımı ihalelerinde kalite belgelerine ilişkin düzenleme yapılmasında, Hizmet Alımı İhaleleri Uygulama Yönetmeliği’nin 45 inci maddesinin esas alınması ve Kamu İhale Genel Tebliği’nin Birinci Bölümünün VIII inci maddesinin (L) alt maddesindeki açıklamalara dikkat edilmesi gerekmektedir. Hizmet Alımı İhaleleri Uygulama Yönetmeliği’nin 45 inci maddesinde yapılan değişiklikle maddenin birinci fıkrasında yer alan <i>“...tehlike analizi ve kritik kontrol noktaları yönetim sistem (HACCP) belgesi, iş sağlığı ve</i> <i>güvenliği yönetim sistem (OHSAS) belgesi, bilgi teknolojisi-bilgi güvenliği yönetim sistem</i> <i>belgesine.....ilişkin düzenleme yapabilir...”</i> hükmü yürürlükten kaldırıldığından, ihalelerde tehlike analizi ve kritik kontrol noktaları yönetim sistem (HACCP) belgesi, iş sağlığı ve güvenliği yönetim sistem (OHSAS) belgesi, bilgi teknolojisi-bilgi güvenliği yönetim sistemine ilişkin belgeler ve bu sistemlere ilişkin belgelendirme kuruluşları tarafından düzenlenen sertifikaların istenilmemesi gerekmektedir.
 
 12. Çevre yönetim sisteminin kuruluş yapısı, planlama faaliyetleri, sorumluluklar göz önünde bulundurulduğunda; idarelerin kendi hizmet binalarında gerçekleştirilen hizmetler (temizlik, koruma ve güvenlik, bilgisayar sistemlerine yönelik hizmetler, yemek hazırlama ve
 
@@ -478,7 +478,7 @@ Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye K
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar dağıtım hizmetleri gibi) ile niteliği gereği çevre yönetim sistem belgesi istenmeyecek hizmet ihalelerinde çevre yönetim sistem belgesine ilişkin düzenlemenin yapılmaması gerekmektedir.
 
@@ -490,7 +490,7 @@ Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye K
 
 16. Teklif fiyata dâhil olan masraflara ilişkin düzenlemenin, İdari Şartnamenin “Teklif Fiyata Dâhil Olan Masraflar” başlıklı maddesinde yapılması, bu düzenlemenin, mezkur maddenin dipnotu ile Kamu İhale Genel Tebliği’nin Birinci Bölümünün XIII üncü maddesinin “Personel Çalıştırılmasına Dayalı Hizmet Alımlarında Teklif Fiyata Dâhil Olacak Masraflar” başlıklı (G) alt maddesindeki açıklamalar çerçevesinde gerçekleştirilmesi gerekmektedir. Teklif fiyata dahil olan masraflara ilişkin düzenlemelere idari şartnamenin diğer hususlar bölümünde veya teknik şartnamede yer verilmemelidir.
 
-17. Bilindiği üzere kurumlarımızda zaman zaman hastane enfeksiyonları ile karşılaşılmaktadır. Bu enfeksiyonlar tedavinin gecikmesine sebep olarak, kaliteli bir sağlık hizmeti sunumunu engellemektedir. Bu nedenle hastane enfeksiyonlarının önlenebilmesi ve kontrol altına alınabilmesi için Yataklı Tedavi Kurumları İşletme Yönetmeliği’nin Yataklı Tedavi Kurumları İç Enfeksiyonlardan Korunma Hizmetleri başlıklı 30 uncu ve 31 inci maddelerinde belirtilen tedbirlerin, 11/08/2005 tarihli ve 25903 sayılı Resmi Gazete’de yayımlanan “Yataklı Tedavi Kurumları Enfeksiyon Kontrol Yönetmeliği” hükümleri doğrultusunda alınması, Enfeksiyon Kontrol Komitesi’nin çalışmalarını aksatmadan yapması büyük önem arz etmektedir.
+17. Bilindiği üzere kurumlarımızda zaman zaman hastane enfeksiyonları ile karşılaşılmaktadır. Bu enfeksiyonlar tedavinin gecikmesine sebep olarak, kaliteli bir sağlık hizmeti sunumunu engellemektedir. Bu nedenle hastane enfeksiyonlarının önlenebilmesi ve kontrol altına alınabilmesi için Yataklı Tedavi Kurumları İşletme Yönetmeliği’nin Yataklı Tedavi Kurumları İç Enfeksiyonlardan Korunma Hizmetleri başlıklı 30 uncu ve 31 inci maddelerinde belirtilen tedbirlerin, 11/08/2005 tarihli ve 25903 sayılı Resmi Gazete’de yayımlanan <i>“Yataklı Tedavi Kurumları Enfeksiyon Kontrol Yönetmeliği”</i> hükümleri doğrultusunda alınması, Enfeksiyon Kontrol Komitesi’nin çalışmalarını aksatmadan yapması büyük önem arz etmektedir.
 
 Diğer taraftan hastane enfeksiyonlarının önlenmesi ve kontrol altına alınmasında koordinasyon büyük önem arz etmektedir. Herhangi bir birimde meydana gelecek bir aksaklık enfeksiyon önleme ve kontrol zincirini kırabilmekte ve alınan tüm tedbirleri boşa çıkarabilmektedir. Bu nedenle satın alma birimlerince başta temizlik hizmet alımı, dezenfektan maddelerin alımı gibi ihalelerin teknik şartnamelerinin hazırlanmasında olmak üzere diğer mal ve hizmet alımlarında, Enfeksiyon Kontrol Komitesi ile gerekli koordinasyonun sağlanarak
 
@@ -498,7 +498,7 @@ Diğer taraftan hastane enfeksiyonlarının önlenmesi ve kontrol altına alınm
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar görüş ve önerilerinin alınması gerekmektedir. Keza, muayene ve kabul komisyonlarının da Enfeksiyon Kontrol Komitesi ile koordinasyonu sağlaması da önem arz etmektedir.
 
@@ -516,7 +516,7 @@ c) İlaç ve serum alımı gibi ihalelerin yaklaşık maliyet tespitinde, klinik
 
 ### IV- DÖNER SERMAYELERDE 4734 SAYILI KANUNUN 62 NCİ MADDESİNİN (I) BENDİNİN UYGULANMASI
 
-4734 sayılı Kanunun 62 nci maddesinin (ı) bendinde “Bu Kanunun 21 ve 22 nci maddelerindeki parasal limitler dâhilinde yapılacak harcamaların yıllık toplamı, idarelerin bütçelerine bu amaçla konulacak ödeneklerin % 10 unu Kamu İhale Kurulunun uygun görüşü olmadıkça aşamaz.” hükmü yer almaktadır.
+4734 sayılı Kanunun 62 nci maddesinin (ı) bendinde <i>“Bu Kanunun 21 ve 22 nci</i> <i>maddelerindeki parasal limitler dâhilinde yapılacak harcamaların yıllık toplamı, idarelerin</i> <i>bütçelerine bu amaçla konulacak ödeneklerin % 10 unu Kamu İhale Kurulunun uygun görüşü</i> <i>olmadıkça aşamaz.”</i> hükmü yer almaktadır.
 
 Bahse konu hüküm ile 21/f ve 22/d maddelerine göre yapılacak alımlara sınırlama getirilmiş, Kanun kapsamında bulunan kurum ve kuruluşların Kanunun 21 ve 22 nci maddelerinde belirtilen parasal limitler dâhilinde yapacakları harcamaların yıllık toplamının idarelerin bütçelerine bu amaçla konulacak ödeneklerin % 10 unu aşamayacağı öngörülmüştür. Bu düzenleme ile Kanun kapsamındaki kurum ve kuruluşlar tarafından yapılacak mal ve hizmet alımları ile yapım işlerine ilişkin harcamaların, 4734 sayılı Kanunda belirtilen temel ilkelere ve usullere uygun bir şekilde yapılması amaçlanmıştır.
 
@@ -526,7 +526,7 @@ Buna göre, 4734 sayılı Kanunun 62 nci maddesinin (ı) bendine göre Kanun kap
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar konulan ödeneklerin % 10 unu Kamu İhale Kurulunun uygun görüşü olmadan aşamayacaklardır.
 
@@ -552,7 +552,7 @@ Diğer taraftan 62 nci maddenin (ı) bendi uyarınca Kamu İhale Kurulu’ndan a
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -562,7 +562,7 @@ Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye K
 
 · Bu güne kadar yapılan başvuruların değerlendirilmeme gerekçesi olarak Kamu İhale Kurumu tarafından genel olarak; “İhtiyaçların Kanunda belirtilen temel ihale usullerine göre temin edilmeme gerekçelerinin ayrıntılı bir şekilde ifade edilmediği, buna ilişkin bir belge ibraz edilmediği, ayrıca açık ihale veya belli istekliler arasında ihaleye katılım olmaması, ihalenin çeşitli nedenlerle iptal edilmesi veya sonuçlandırılmaması, idare tarafından öngörülmeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması gibi durumlarda ihtiyaçların Kanunun 21 inci maddesinin (f) ve 22 nci maddesinin (d) bendi dışındaki diğer alım yöntemleri kullanılarak neden alınamadığı hususlarında bir gerekçe veya açıklama bulunmaması” gösterilmektedir.
 
-· Döner sermaye bütçe kalemlerinin hangisinin mal alımına, hangisinin hizmet alımına hangisinin yapım işine girdiğine ilişkin değerlendirmenin ise EK-1’deki tabloya göre yapılması gerekmektedir.
+· Döner sermaye bütçe kalemlerinin hangisinin mal alımına, hangisinin hizmet alımına hangisinin yapım işine girdiğine ilişkin değerlendirmenin ise **EK-1’deki** tabloya göre yapılması gerekmektedir.
 
 ### V- İHALELERDE İSTEKLİLERDEN İSTENECEK BİLGİ VE BELGELER
 
@@ -578,7 +578,7 @@ Sağlık sektörü ile ilgili alımların insan sağlığı açısından göz ar
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -624,7 +624,7 @@ gönderilmesi gerekmektedir.
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -682,7 +682,7 @@ ilişkin rapor- tutanak-yazı vb.) suretlerinin,
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -714,37 +714,37 @@ Fiyat farkı uygulamasında dikkat edilmesi gereken en önemli husus, söz konus
 
 Diğer taraftan fiyat farkı hesaplamalarında Kamu İhale Genel Tebliği’ndeki diğer açıklamalarla birlikte aşağıda tekrarlanan açıklamalarında dikkate alınması gerekmektedir.
 
-“ B. Personel Ücretleri ile İlgili Fiyat Farkı Hesabı:
+**<i>“ B. Personel Ücretleri ile İlgili Fiyat Farkı Hesabı:</i>**
 
-İşçiliğin a olarak belirlenebilmesi ve böylece a için Esasların 8 inci maddesine göre fiyat farkı hesaplanabilmesi için; çalışacak personel sayısının belirlenmiş olması ve haftalık çalışma saatlerinin tamamının ilgili idare için kullanılması gerekmektedir. Haftalık çalışma saatlerinin tamamının ilgili idare için kullanılmadığı işlerde ise işçilik a olarak belirlenecektir.
+<i>İşçiliğin a olarak belirlenebilmesi ve böylece a için Esasların 8 inci maddesine göre</i> <i>fiyat farkı hesaplanabilmesi için; çalışacak personel sayısının belirlenmiş olması ve haftalık</i> <i>çalışma saatlerinin tamamının ilgili idare için kullanılması gerekmektedir. Haftalık çalışma</i> <i>saatlerinin tamamının ilgili idare için kullanılmadığı işlerde ise işçilik a olarak</i> <i>belirlenecektir.</i>
 
 23 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
-Çalışan personele asgari ücretin üzerinde bir ödeme öngörülmekle birlikte hizmet alımlarına ilişkin Fiyat Farkı Esaslarının sadece 8 inci maddesinin uygulanacağı hizmet alımı ihalelerinde, ihale tarihi itibarıyla geçerli brüt asgari ücretin artması halinde anılan madde gereği sadece asgari ücretteki artış miktarı ve bu artış miktarından kaynaklanan işveren payı kadar fiyat farkı hesaplanacaktır.
+<i>Çalışan personele asgari ücretin üzerinde bir ödeme öngörülmekle birlikte hizmet</i> <i>alımlarına ilişkin Fiyat Farkı Esaslarının sadece 8 inci maddesinin uygulanacağı hizmet alımı</i> <i>ihalelerinde, ihale tarihi itibarıyla geçerli brüt asgari ücretin artması halinde anılan madde</i> <i>gereği sadece asgari ücretteki artış miktarı ve bu artış miktarından kaynaklanan işveren payı</i> <i>kadar fiyat farkı hesaplanacaktır.</i>
 
-Fiyat Farkı Esaslarının bütün olarak uygulandığı ve vasıflı işçiliğin a olarak
+<i>Fiyat Farkı Esaslarının bütün olarak uygulandığı ve vasıflı işçiliğin a olarak</i>
 
-2 belirlendiği hizmet alımı ihalelerinde, Esasların 7 nci maddesi gereği ihale tarihi itibarıyla geçerli brüt asgari ücretteki artış oranı kadar ücret farkı hesaplanacaktır. Esaslar bütün olarak uygulanmakla birlikte vasıflı işçilik a olarak belirlenmişse 8 inci madde gereği sadece
+2 <i>belirlendiği hizmet alımı ihalelerinde, Esasların 7 nci maddesi gereği ihale tarihi itibarıyla</i> <i>geçerli brüt asgari ücretteki artış oranı kadar ücret farkı hesaplanacaktır. Esaslar bütün</i> <i>olarak uygulanmakla birlikte vasıflı işçilik a olarak belirlenmişse 8 inci madde gereği sadece</i>
 
 ### 1
 
-asgari ücretteki artış miktarı ve bu artış miktarından kaynaklanan işveren payı kadar hesaplama yapılacaktır.
+<i>asgari ücretteki artış miktarı ve bu artış miktarından kaynaklanan işveren payı kadar</i> <i>hesaplama yapılacaktır.</i>
 
-Asgari ücretin üzerinde bir ödeme öngörülen vasıflı personelin çalıştırıldığı işlerde Fiyat Farkı Esaslarının sadece 8 inci maddesi uygulandığında asgari ücretteki değişiklik sonrasında yüklenici vasıflı personelin ücretini asgari ücretteki artış miktarı kadar, Esasların tümü uygulanarak işçiliğin a olarak belirlendiği hallerde ise asgari ücretteki artış oranı kadar
+<i>Asgari ücretin üzerinde bir ödeme öngörülen vasıflı personelin çalıştırıldığı işlerde</i> <i>Fiyat Farkı Esaslarının sadece 8 inci maddesi uygulandığında asgari ücretteki değişiklik</i> <i>sonrasında yüklenici vasıflı personelin ücretini asgari ücretteki artış miktarı kadar, Esasların</i> <i>tümü uygulanarak işçiliğin a olarak belirlendiği hallerde ise asgari ücretteki artış oranı kadar</i>
 
-2 artırabileceğinden ücret bordrosu da buna göre düzenlenecektir.
+2 <i>artırabileceğinden ücret bordrosu da buna göre düzenlenecektir.</i>
 
-Yine Esasların 7 nci maddesine göre fiyat farkı hesaplanmakla birlikte vasıflı işçilik a olarak belirlenmişse a için 8 inci madde gereği yüklenici, vasıflı personelin ücretini asgari ücret artış miktarı kadar artırmak zorunda olacak, asgari ücretteki artış oranını uygulama zorunluluğu olmayacaktır.
+<i>Yine Esasların 7 nci maddesine göre fiyat farkı hesaplanmakla birlikte vasıflı işçilik a</i> <i>olarak belirlenmişse a için 8 inci madde gereği yüklenici, vasıflı personelin ücretini asgari</i> <i>ücret artış miktarı kadar artırmak zorunda olacak, asgari ücretteki artış oranını uygulama</i> <i>zorunluluğu olmayacaktır.</i>
 
-Esasların 7 nci maddesinin uygulandığı işlerde, a olarak belirlenen vasıfsız işçiliğin fiyat farkı 8 inci maddeye göre hesaplanacak, 7 nci maddeye göre hesaplanan fiyat farkı formülünde a ’e yer verilmekle birlikte formül gereği a için herhangi bir artış katsayısı uygulanmayacağından fiyat farkı hesabına herhangi bir etkisi olmayacak, sonuçta 7 nci ve 8 inci maddeler gereği ayrı ayrı hesaplanacak tutarların toplamı, ödenecek veya kesilecek toplam fiyat farkını oluşturacaktır.
+<i>Esasların 7 nci maddesinin uygulandığı işlerde, a olarak belirlenen vasıfsız işçiliğin</i> <i>fiyat farkı 8 inci maddeye göre hesaplanacak, 7 nci maddeye göre hesaplanan fiyat farkı</i> <i>formülünde a ’e yer verilmekle birlikte formül gereği a için herhangi bir artış katsayısı</i> <i>uygulanmayacağından fiyat farkı hesabına herhangi bir etkisi olmayacak, sonuçta 7 nci ve 8</i> <i>inci maddeler gereği ayrı ayrı hesaplanacak tutarların toplamı, ödenecek veya kesilecek</i> <i>toplam fiyat farkını oluşturacaktır.</i>
 
-İdari şartnamede hem a ’e hem de a ’ye yer verilmişse bu durumda toplam fiyat farkı 7 ve 8 inci maddeye göre hesaplanan fiyat farklarının toplamından oluşacaktır.”
+<i>İdari şartnamede hem a ’e hem de a ’ye yer verilmişse bu durumda toplam fiyat farkı 7</i> <i>ve 8 inci maddeye göre hesaplanan fiyat farklarının toplamından oluşacaktır.”</i>
 
 ### X- İHALELERE YÖNELİK YAPILACAK BAŞVURULAR (ŞİKÂYETLER)
 
@@ -756,7 +756,7 @@ Kamu İhale Kurumuna yapılan itirazen şikâyet başvuruları sonucunda Kamu İ
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -766,7 +766,7 @@ Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye K
 
 Bakanlığımıza bağlı kurumlarımız yukarıda belirtilen hükümlerde sayılan işlemleri, aşağıda yapılan açıklamalar doğrultusunda gerçekleştirebileceklerdir.
 
-A- Taşınmaz Satın Alınmasında;
+**A- Taşınmaz Satın Alınmasında;**
 
 a) Satın alma gerekçesinin belirtilmesi ve satın alınacak taşınmazla ilgili rayiç bedelin tespit edilmesi,
 
@@ -778,7 +778,7 @@ d) Bakanlıktan izin alındıktan sonra satın alma işlemlerine başlanılması
 
 e) Taşınmaz satın almalarının 4734 sayılı Kamu İhale Kanunu’nun 22/e maddesi uyarınca yapılabileceğinin bilinmesi,
 
-B- Kamulaştırma İşlemlerinde;
+**B- Kamulaştırma İşlemlerinde;**
 
 a) Kamulaştırmanın kamu yararı gerekçesinin belirtilmesi ve kamulaştırılacak taşınmazla ilgili rayiç bedelin tespit edilmesi,
 
@@ -796,53 +796,53 @@ Bakanlıktan izin alınmadan, taşınmaz satın alınma işlemleri ile kamulaşt
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
 ### XII- AMBULANS, CENAZE ARABASI VE HİZMET ARACI TEMİNİ
 
-209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki 209 Sayılı Kanun Gereğince İşletme, İdare ve Muhasebe İşlerine Dair Yönetmeliğin 7 nci maddesinde, döner sermayenin gider yerleri sıralanmış, bu gider yerleri arasında da; “Yılı yatırım programı ile ilişkilendirilmesi kaydıyla, ambulans, cenaze arabası ve hizmet aracı satın alınması ile ayrıca bunların kiralanması veya hizmet satın alınması yoluyla temini ve bunlara ilişkin giderler,..”de sayılmıştır.
+209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki 209 Sayılı Kanun Gereğince İşletme, İdare ve Muhasebe İşlerine Dair Yönetmeliğin 7 nci maddesinde, döner sermayenin gider yerleri sıralanmış, bu gider yerleri arasında da; <i>“Yılı yatırım programı ile ilişkilendirilmesi kaydıyla,</i> <i>ambulans, cenaze arabası ve hizmet aracı satın alınması ile ayrıca bunların kiralanması veya</i> <i>hizmet satın alınması yoluyla temini ve bunlara ilişkin giderler,..”</i>de sayılmıştır.
 
 Anılan hüküm çerçevesinde Bakanlığımıza bağlı döner sermayeli kurumlar döner sermaye kaynaklarından, yılı yatırım programı ile ilişkilendirilmesi kaydıyla, ambulans, cenaze arabası ve hizmet aracı satın alabilmekte, ayrıca bunları kiralama veya hizmet satın alınması yoluyla temin edebilmektedirler.
 
 Diğer taraftan Bakanlığımıza bağlı döner sermayeli kurumlar 237 sayılı Taşıt Kanunu hükümlerine tabi olduğundan söz konusu alım ve teminlerde, mezkûr Kanun ve bu Kanuna dayanılarak çıkartılan ikincil mevzuat hükümlerinin de dikkate alınması gerekmektedir.
 
-A- Satın Almalar
+**A- Satın Almalar**
 
 5018 sayılı Kanuna ekli (I) ve (II) sayılı cetvellerde yer alan kamu idarelerinin yıl içinde edinebilecekleri taşıtların cinsi, adedi, hangi hizmetlerde kullanılacağı ile 5/1/1961 tarihli ve 237 sayılı Taşıt Kanununa tâbi kurumların yıl içinde satın alacakları taşıtların azami satın alma bedelleri, Yılı Merkezi Yönetim Bütçe Kanunları ekinde yer alan (T) Cetvelinde belirtilmektedir.
 
-Bu nedenle Bakanlığımıza bağlı döner sermaye kaynaklarından ambulans, cenaze arabası ve hizmet aracı satın alınıp alınmayacağı hususunda, öncelikle döner sermaye kaynaklarından Bakanlığımızın hangi taşıtları temin edebileceğine anılan cetvelden bakılması gerekmektedir. Diğer taraftan anılan cetvelde yer alsa da, yine Yılı Merkezi Yönetim Bütçe Kanunlarında yer alan “Bu Kanuna ekli (T) işaretli cetvelde yer alan taşıtlar, ancak çok acil ve zorunlu hallere münhasır olmak kaydıyla ilgili bakanlığın teklifi üzerine Bakanlar Kurulu kararı ile edinilebilir.” şeklindeki hüküm gereğince, söz konusu araçların alınabilmesi için Bakanlar Kurulu Kararı gerekmektedir.
+Bu nedenle Bakanlığımıza bağlı döner sermaye kaynaklarından ambulans, cenaze arabası ve hizmet aracı satın alınıp alınmayacağı hususunda, öncelikle döner sermaye kaynaklarından Bakanlığımızın hangi taşıtları temin edebileceğine anılan cetvelden bakılması gerekmektedir. Diğer taraftan anılan cetvelde yer alsa da, yine Yılı Merkezi Yönetim Bütçe Kanunlarında yer alan <i>“Bu Kanuna ekli (T) işaretli cetvelde yer alan taşıtlar, ancak çok acil ve</i> <i>zorunlu hallere münhasır olmak kaydıyla ilgili bakanlığın teklifi üzerine Bakanlar Kurulu</i> <i>kararı ile edinilebilir.”</i> şeklindeki hüküm gereğince, söz konusu araçların alınabilmesi için Bakanlar Kurulu Kararı gerekmektedir.
 
-Bakanlığımızda da bu işlemler İdari ve Mali İşler Daire Başkanlığı’nca yürütüldüğünden, döner sermaye kaynaklarından ambulans, cenaze arabası ve hizmet aracı satın almak ((T) cetvelde anılan araçların belirtilip belirtilmediğine bakıldıktan sonra) isteyen kurumlarımızın taleplerini anılan Başkanlığa göndermeleri gerekmektedir.
+Bakanlığımızda da bu işlemler İdari ve Mali İşler Daire Başkanlığı’nca yürütüldüğünden, döner sermaye kaynaklarından ambulans, cenaze arabası ve hizmet aracı satın almak <i>((T) cetvelde anılan araçların belirtilip belirtilmediğine bakıldıktan sonra)</i> isteyen kurumlarımızın taleplerini anılan Başkanlığa göndermeleri gerekmektedir.
 
-B-Hizmet Alımı Suretiyle Hizmet Aracı Temini
+**B-Hizmet Alımı Suretiyle Hizmet Aracı Temini**
 
 Söz konusu teminlerde, 01.04.2006 tarihli ve 26126 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren “Hizmet Alımı Suretiyle Taşıt Edinilmesine İlişkin Esas ve Usuller”e göre hareket edilmesi gerekmektedir.
 
 Anılan Esas ve Usullerin, Binek ve Station-Wagon Cinsi Taşıtların Hizmet Alımı Suretiyle Edinilmesi başlıklı 7 nci maddesinde;
 
-“(1) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) ve (II) sayılı cetvellerde yer alan genel bütçe kapsamındaki kamu idareleri ile özel bütçeli
+<i>“(1) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli</i> <i>(I) ve (II) sayılı cetvellerde yer alan genel bütçe kapsamındaki kamu idareleri ile özel bütçeli</i>
 
 26 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
-İhalelerde Uyulması Gereken Usul ve Esaslar idareler, hizmet alımı suretiyle binek veya station-vagon cinsi taşıt edinebilmek için aşağıdaki hususlara uyacaklardır:
+İhalelerde Uyulması Gereken Usul ve Esaslar <i>idareler, hizmet alımı suretiyle binek veya station-vagon cinsi taşıt edinebilmek için aşağıdaki</i> <i>hususlara uyacaklardır:</i>
 
-a) Bir önceki yılda veya yıl içinde, tasfiye edilen veya sözleşmesi sona eren binek ve station-wagon cinsi taşıtların sayısı kadar hizmet alımı yoluyla binek veya station-wagon cinsi taşıt edinilebilecektir.
+<i>a) Bir önceki yılda veya yıl içinde, tasfiye edilen veya sözleşmesi sona eren binek ve</i> <i>station-wagon cinsi taşıtların sayısı kadar hizmet alımı yoluyla binek veya station-wagon cinsi</i> <i>taşıt edinilebilecektir.</i>
 
-b) Kurumlar, hizmet genişlemesi veya zorunluluk arz eden hallerde, hizmet alımı yoluyla ilave binek veya station-wagon cinsi taşıt edinebilmek için, önceden Bakanlığın (Maliye Bakanlığı) uygun görüşünü alacaklardır.
+<i>b) Kurumlar, hizmet genişlemesi veya zorunluluk arz eden hallerde, hizmet alımı</i> <i>yoluyla ilave binek veya station-wagon cinsi taşıt edinebilmek için, önceden Bakanlığın</i> (Maliye Bakanlığı) <i>uygun görüşünü alacaklardır.</i>
 
-c) Bir önceki yıl mülkiyetinde ve hizmet alımı yoluyla edinilmiş binek ve station-wagon cinsi taşıtı olmayan kurumlar, hizmet alımı yoluyla binek veya station-wagon cinsi taşıt edinebilmek için önceden Bakanlığın (Maliye Bakanlığı) uygun görüşünü alacaklardır.”
+<i>c) Bir önceki yıl mülkiyetinde ve hizmet alımı yoluyla edinilmiş binek ve station-wagon</i> <i>cinsi taşıtı olmayan kurumlar, hizmet alımı yoluyla binek veya station-wagon cinsi taşıt</i> <i>edinebilmek için önceden Bakanlığın</i> (Maliye Bakanlığı) <i>uygun görüşünü alacaklardır.”</i>
 
 Hükmü yer alarak, kurumların temin edebilecekleri hizmet araçlarının sayısı hususunda sınırlamalar getirilmiştir.
 
 Bakanlığımıza bağlı sağlık kurum ve kuruluşlarında sunulan hizmetin her geçen gün artması, hizmet sunumuna yeni birimlerin ilave edilmesi ve hizmetin devamlılığının sağlanması bakımından, kurumlarımızın hizmet aracına yönelik ihtiyaç ve talepleri sürekli olarak artmaktadır. Ancak bahse konu hükme göre bir önceki yıl mülkiyetinde ve hizmet alımı yoluyla temin edilmiş herhangi bir hizmet aracı olmayan kurumlarımız ile elinde hizmet aracı bulunup hizmet genişlemesi veya zorunluluk arz eden nedenlerle ilave hizmet aracı temin etmek isteyen kurumlarımızın Bakanlığımız aracılığıyla uygun görüş alması gerekmektedir.
 
-Maliye Bakanlığı’ndan alınacak olan uygun görüşe esas teşkil etmek üzere, bir önceki yıl mülkiyetinde ve hizmet alımı yoluyla temin edilmiş herhangi bir hizmet aracı olmayan kurumlarımız (eğer hizmet aracı temin etmek istiyorlarsa) ile elinde hizmet aracı bulunup hizmet genişlemesi veya zorunluluk arz eden nedenlerle ilave hizmet aracı temin etmek isteyen (döner sermaye kaynaklarından) kurumlarımızın;
+Maliye Bakanlığı’ndan alınacak olan uygun görüşe esas teşkil etmek üzere, bir önceki yıl mülkiyetinde ve hizmet alımı yoluyla temin edilmiş herhangi bir hizmet aracı olmayan kurumlarımız <i>(eğer hizmet aracı temin etmek istiyorlarsa)</i> ile elinde hizmet aracı bulunup hizmet genişlemesi veya zorunluluk arz eden nedenlerle ilave hizmet aracı temin etmek isteyen (döner sermaye kaynaklarından) kurumlarımızın;
 
 a) Temin etmek istedikleri binek veya station-wagon cinsi taşıt sayılarını,
 
@@ -856,17 +856,17 @@ d) Varsa diğer bilgileri,
 
 Diğer taraftan söz konusu taleplerin değerlendirmesinde ve bu taleplerin bildirimlerinde;
 
-1- Kurumlarımızdan diyaliz hizmeti alacak hastalarının taşınması hususunda, Maliye Bakanlığı’nın 20.09.2005 tarihli ve B.07.0.MGM.0.23/115-17343 sayılı yazılarında; “...Bakanlığınıza bağlı sağlık kurumlarında bulunan diyaliz ünitelerinin verimli çalışmasının sağlanması için ve sadece hemodiyaliz hastalarının taşınması amacıyla servis hizmeti alınmasının ve bu hizmet bedellerinin de ilgili sağlık kurumlarının döner sermaye bütçelerinden karşılanmasının mümkün bulunduğu…” denildiğinden her hangi bir izin
+1- Kurumlarımızdan diyaliz hizmeti alacak hastalarının taşınması hususunda, Maliye Bakanlığı’nın 20.09.2005 tarihli ve B.07.0.MGM.0.23/115-17343 sayılı yazılarında; <i>“...Bakanlığınıza bağlı sağlık kurumlarında bulunan diyaliz ünitelerinin verimli çalışmasının</i> <i>sağlanması için ve sadece hemodiyaliz hastalarının taşınması amacıyla servis hizmeti</i> <i>alınmasının ve bu hizmet bedellerinin de ilgili sağlık kurumlarının döner sermaye</i> <i>bütçelerinden karşılanmasının mümkün bulunduğu…”</i> denildiğinden her hangi bir izin
 
 27 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar talebinde bulunulmaması, hizmet gerekleri doğrultusunda ihtiyaç duyuluyorsa gerekli hizmet alımlarının yapılması,
 
-2- Kurumlarımızdan fizik tedavi hizmeti alacak hastaların taşınması hususunda, Maliye Bakanlığı’nın 13.12.2007 tarihli ve B.07.0.MGM.0.23/115-20897 sayılı yazılarında; “…Bakanlığınıza bağlı sağlık kurumlarında bulunan Fizik Tedavi ve Rehabilitasyon ünitelerinin verimli çalışması ve fizik tedavi hizmeti alacak hastaların hastaneye ulaşımını kolaylaştırmak amacıyla servis hizmeti alınmasının ve bu hizmet bedellerinin de ilgili sağlık kurumlarının döner sermaye bütçesinden karşılanmasının mümkün bulunduğu düşünülmektedir.” denildiğinden her hangi bir izin talebinde bulunulmaması, hizmet gerekleri doğrultusunda ihtiyaç duyuluyorsa gerekli hizmet alımlarının yapılması,
+2- Kurumlarımızdan fizik tedavi hizmeti alacak hastaların taşınması hususunda, Maliye Bakanlığı’nın 13.12.2007 tarihli ve B.07.0.MGM.0.23/115-20897 sayılı yazılarında; <i>“…Bakanlığınıza bağlı sağlık kurumlarında bulunan Fizik Tedavi ve Rehabilitasyon</i> <i>ünitelerinin verimli çalışması ve fizik tedavi hizmeti alacak hastaların hastaneye ulaşımını</i> <i>kolaylaştırmak amacıyla servis hizmeti alınmasının ve bu hizmet bedellerinin de ilgili sağlık</i> <i>kurumlarının döner sermaye bütçesinden karşılanmasının mümkün bulunduğu</i> <i>düşünülmektedir.”</i> denildiğinden her hangi bir izin talebinde bulunulmaması, hizmet gerekleri doğrultusunda ihtiyaç duyuluyorsa gerekli hizmet alımlarının yapılması,
 
 3- Daha önceki yıllarda izin talebinde bulunan ve alınan izin doğrultusunda hizmet alımlarını yapan kurumlarımızın mevcut sözleşmeleri sona erdiğinde, sözleşmesi sona eren binek ve station-wagon cinsi taşıtların sayısı kadar, her hangi bir izin almadan hizmet alımı yoluyla binek veya station-wagon cinsi taşıt edinilebileceğinin dikkate alınması,
 
@@ -874,7 +874,7 @@ Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye K
 
 ### XIII-İHALELERDE ÖDENEK KAVRAMI
 
-Bakanlığımıza bağlı bazı kurumların, 4734 sayılı Kamu İhale Kanunu’nun Temel İlkeler başlıklı 5 inci maddesinde yer alan “Ödeneği olmayan hiçbir iş için ihaleye çıkılamaz” amir hükmünü yanlış yorumlayarak, hükümde geçen “ödenek” kavramını “nakit para” olarak değerlendirdikleri, bu nedenle de ihaleye çıkarken döner sermaye bütçesinin gider kaleminde yeteri kadar ödenek olmasına rağmen nakit para bulunmadığı gerekçesiyle ihaleye çıkmadıkları ve alımlarını kasadaki nakit durumuna göre peyder pey yapmak suretiyle yanlış bir uygulama tesis ettikleri, bu uygulamanın da ihtiyaçların zamanında karşılanamamasına ve hizmet sunumunda bazı aksaklıklara neden olduğu gözlemlenmiştir.
+Bakanlığımıza bağlı bazı kurumların, 4734 sayılı Kamu İhale Kanunu’nun Temel İlkeler başlıklı 5 inci maddesinde yer alan <i>“Ödeneği olmayan hiçbir iş için ihaleye çıkılamaz”</i> amir hükmünü yanlış yorumlayarak, hükümde geçen “ödenek” kavramını “nakit para” olarak değerlendirdikleri, bu nedenle de ihaleye çıkarken döner sermaye bütçesinin gider kaleminde yeteri kadar ödenek olmasına rağmen nakit para bulunmadığı gerekçesiyle ihaleye çıkmadıkları ve alımlarını kasadaki nakit durumuna göre peyder pey yapmak suretiyle yanlış bir uygulama tesis ettikleri, bu uygulamanın da ihtiyaçların zamanında karşılanamamasına ve hizmet sunumunda bazı aksaklıklara neden olduğu gözlemlenmiştir.
 
 Söz konusu yanlış uygulama sonucu, ihtiyaçların zamanında karşılanamamasından kaynaklanan aksaklıkların ortadan kaldırılması için aşağıdaki açıklamaların yapılmasında fayda mülahaza edilmiştir.
 
@@ -886,11 +886,11 @@ Yılı bütçeleri hazırlanırken, yıl içerisinde ihtiyaçların giderilmesin
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
-İhalelerde Uyulması Gereken Usul ve Esaslar Kanun’un 5 inci maddesinde yer alan “Ödeneği olmayan hiçbir iş için ihaleye çıkılamaz” hükmünün gereği yerine getirilmiş olacaktır.
+İhalelerde Uyulması Gereken Usul ve Esaslar Kanun’un 5 inci maddesinde yer alan <i>“Ödeneği olmayan hiçbir iş için ihaleye çıkılamaz”</i> hükmünün gereği yerine getirilmiş olacaktır.
 
-Diğer taraftan, 4734 sayılı Kanun’un 62 nci maddesinin (b) bendinde, “ ….Ancak ertesi mali yılda gerçekleştirilecek süreklilik arz eden mal ve hizmet alımları için bir önceki mali yıl sona ermeden ihaleye çıkılabilir.” şeklinde yer alan istisnai hüküm ile, bütçe daha belirlenmeden ödenek varmış gibi ihaleye çıkılabilmesine imkan tanınmıştır.
+Diğer taraftan, 4734 sayılı Kanun’un 62 nci maddesinin (b) bendinde, “ <i>….Ancak ertesi</i> <i>mali yılda gerçekleştirilecek süreklilik arz eden mal ve hizmet alımları için bir önceki mali yıl</i> <i>sona ermeden ihaleye çıkılabilir.”</i> şeklinde yer alan istisnai hüküm ile, bütçe daha belirlenmeden ödenek varmış gibi ihaleye çıkılabilmesine imkan tanınmıştır.
 
 Yapılan açıklamalar doğrultusunda, anılan Kanun hükmü uyarınca ihalelere çıkarken nakit para bulunması zorunluluğu bulunmadığından, ihaleye çıkabilmesi için bütçenin ilgili kaleminde ödeneğin bulunması yeterli olacaktır
 
@@ -900,7 +900,7 @@ Bakanlığımıza bağlı sağlık kurumlarının artan hasta potansiyeli, hasta
 
 Tıbbi cihazların yüksek fiyatları nedeniyle yeterli sayıda temin edilememeleri, teknolojilerinin hızla değişmesi, bu cihazların alımına yönelik ödenek tahsisi yapılamaması, bakım ve destek hizmetlerinin kurumlarca sağlanamaması, bu cihazları işletecek eğitimli personel konusunda sıkıntı yaşanması, sayıca az olan bu cihazlarla sunulan tetkik ve tedavi hizmetlerinde uzun sıralar oluşması gibi nedenlerle tetkik ve tedavi amacıyla kullanılan tıbbi cihazların hizmet satın alımı yoluyla teminine karar verilmiştir.
 
-Diğer taraftan, 27.04.2005 tarihli ve 2598 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 5335 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun’un 5 inci maddesi ile, 04.01.1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 3 üncü maddesi değiştirilmiş ve anılan değişiklikle “Döner sermayeli işletmeler, süreklilik arz eden hizmet alımları ile maliyeti yüksek ve ileri teknoloji ürünü olan tıbbî cihazların hizmet alımı yoluyla temini veya kiralanması için döner sermaye kaynaklarından, gelecek yıllara yaygın yüklenmelere girişebilir.” hükmüne yer verilmiştir.
+Diğer taraftan, 27.04.2005 tarihli ve 2598 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 5335 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun’un 5 inci maddesi ile, 04.01.1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 3 üncü maddesi değiştirilmiş ve anılan değişiklikle <i>“Döner</i> <i>sermayeli işletmeler, süreklilik arz eden hizmet alımları ile maliyeti yüksek ve ileri teknoloji</i> <i>ürünü olan tıbbî cihazların hizmet alımı yoluyla temini veya kiralanması için döner sermaye</i> <i>kaynaklarından, gelecek yıllara yaygın yüklenmelere girişebilir.”</i> hükmüne yer verilmiştir.
 
 Bakanlığımıza bağlı sağlık kurumlarında tetkik ve tedavi maksadıyla kullanılan tıbbi cihazların eksik, yetersiz veya eski teknolojili olması nedeniyle aksayan veya yeterli yapılamayan hizmetlerin gecikmeye fırsat vermeden sunumunu sağlamak üzere tetkik ve tedavi amacıyla kullanılan tıbbi cihazların hizmet satın alımı yoluyla temininde aşağıda belirlenen usul ve esasların dikkate alınması gerekmektedir.
 
@@ -910,11 +910,11 @@ a) Hizmet satın alımına karar verilen tetkik ve tedavi maksadıyla kullanıla
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar Müdürlüğü’nün 13/08/2007 tarihli ve 2007/74 sıra nolu Genelgesinde yapılan açıklamalar doğrultusunda hareket edilmelidir.
 
-b) Kurum idarecileri, kurum ihtiyaçları çerçevesinde değerlendirme yaparak hizmet alımına karar vereceklerdir. Ancak, kurumların hizmet satın alımı yoluyla temin etmeyi planladığı (Tedavi Hizmetleri Genel Müdürlüğü’nün 01/05/2008 tarihli ve 2008/35 sıra nolu Genelgesinde belirtilen) “PET/PET-CT, MRI, Bilgisayarlı Tomografi, Nükleer Tıp Görüntüleme, Anjiyografi ve Radyoterapi Tedavi cihazlarından Lineer Hızlandırıcı, Co60 Teleterapi ve Stereotaksik Radyocerrahi cihazları” için 2008/35 sıra nolu Genelge ekinde yer alan form doldurularak gerekçe raporu ile birlikte Tedavi Hizmetleri Genel Müdürlüğü’nden uygun görüş alındıktan sonra hizmet alımı yapılabilecektir. İzin alınan ve izin alınmayan tüm hizmet alımı sonuçlarından ise, ilgili Genel Müdürlüğe bilgi verilecektir.
+b) Kurum idarecileri, kurum ihtiyaçları çerçevesinde değerlendirme yaparak hizmet alımına karar vereceklerdir. **Ancak,** kurumların hizmet satın alımı yoluyla temin etmeyi planladığı (Tedavi Hizmetleri Genel Müdürlüğü’nün 01/05/2008 tarihli ve 2008/35 sıra nolu Genelgesinde belirtilen) **“PET/PET-CT, MRI, Bilgisayarlı Tomografi, Nükleer Tıp Görüntüleme, Anjiyografi ve Radyoterapi Tedavi cihazlarından Lineer Hızlandırıcı, Co60 Teleterapi ve Stereotaksik Radyocerrahi cihazları”** için 2008/35 sıra nolu Genelge ekinde yer alan form doldurularak gerekçe raporu ile birlikte Tedavi Hizmetleri Genel Müdürlüğü’nden uygun görüş alındıktan sonra hizmet alımı yapılabilecektir. İzin alınan ve izin alınmayan tüm hizmet alımı sonuçlarından ise, ilgili Genel Müdürlüğe bilgi verilecektir.
 
 c) Hizmet alımı yoluyla sağlanan cihazın kuruma kurulması halinde montaj yerinin hazırlanması, tefrişi, gerekiyorsa havalandırma ve banyo cihazının kurulması ve cihazın hizmet sunabilir duruma getirilmesi için gerekli olan diğer düzenlemeler yüklenici firma tarafından yapılacaktır. Tıbbi cihazın/cihazların işletilmesi için gerekli olan her türlü dahili veya harici teknik parçalar ve kesintisiz güç kaynağı, yüklenici firma tarafından sağlanacaktır.
 
@@ -932,15 +932,15 @@ i) Tıbbi cihaz hizmet alımı yoluyla kiralanarak kuruma kurdurulacak olan ciha
 
 j) Hizmet satın alımı, 4734 sayılı Kamu İhale Kanunu hükümleri çerçevesinde yapılacaktır.
 
-k) Tıbbi cihaz hizmet alımında yükleniciye, SUT’da belirlenen fiyatları geçmemek üzere cihazın özelliğine göre çekim, tetkik, tahlil veya test gibi her işlem başına (ihalede
+k) Tıbbi cihaz hizmet alımında yükleniciye, SUT’da belirlenen fiyatları geçmemek üzere cihazın özelliğine göre çekim, tetkik, tahlil veya test gibi her işlem başına <i>(ihalede</i>
 
 30 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
-İhalelerde Uyulması Gereken Usul ve Esaslar oluşan) bir bedelin ödenmesi ve ihale dokümanlarına ödemelerin bu yönde yapılacağına dair hükümlerin konulması gerekmektedir.
+İhalelerde Uyulması Gereken Usul ve Esaslar <i>oluşan)</i> bir bedelin ödenmesi ve ihale dokümanlarına ödemelerin bu yönde yapılacağına dair hükümlerin konulması gerekmektedir.
 
 l) Yaklaşık maliyetin tespitinde ve ihalede teklif edilen teklif bedellerinin değerlendirilmesinde; SUT’da belirlenen fiyatların ve bu fiyatlardan döner sermaye işletmelerimizin Hazine hissesi, SHÇEK payı ve Merkez payı yatırdıklarının da dikkate alınması gerekmektedir.
 
@@ -974,7 +974,7 @@ P = [ b —— ] n n 31 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -994,9 +994,9 @@ n kullanılan temel indeksler ve güncel indeksler ( yani G - G ) ile b değerin
 
 o n 2 temsil katsayısının yukarıdaki formüle uygulanması sonucu bulunan fiyat farkı katsayısını ifade eder.
 
-NOT: a , a , b , b , c ve d sabit katsayılarından biri, birkaçı veya tamamının, ihale konusu hizmetteki
+NOT: <i>a , a , b , b , c ve d sabit katsayılarından biri, birkaçı veya tamamının, ihale konusu hizmetteki</i>
 
-1 2 1 2
+<i>1 2 1 2</i>
 
 Yukarıda izah olunduğu üzere Tıbbi Cihaz Hizmet alımlarında İdarelerce sözleşme kapsamında işçilik, akaryakıt, mühendislik-müşavirlik ile makine ve ekipmana ait amortisman değerlemesi öngörülmediğinden formül içersinde ( P ) için sadece ( b ) katsayısı ve
 
@@ -1032,7 +1032,7 @@ G İhale sonucu sözleşmeye bağlanan hizmetin gerçekleştirildiği (alındı�
 
 n : geçerli olan SUT’daki alınan hizmete ilişkin birim fiyattır.
 
-ÖRNEK: (Sağlık Uygulama Tebliğinde fiyatlar düşerse)
+**ÖRNEK: (Sağlık Uygulama Tebliğinde fiyatlar düşerse)**
 
 2004 yılında Tomografi çekimi, Bütçe Uygulama Talimatında (bundan sonra BUT olarak ifade edilecektir.) 70-YTL.(70.000.000-TL.) iken, ihale sonucu sözleşme imzalanan firmanın bu çekim hizmetine 40-YTL.(40.000.000-TL) teklif vermiş olduğunu. 2005 yılında yayımlanan BUT’da da Tomografi çekiminin 59,32-YTL.(59.320.000-TL.) olarak belirlendiğini düşündüğümüzde;
 
@@ -1044,47 +1044,47 @@ n
 
 G
 
-F = 40 x 0.90 x (0.84742 –1)
+**F = 40 x 0.90 x (0.84742 –1)**
 
-59,32
+**59,32**
 
-F = 36 x (0.84742 - 1)
+**F = 36 x (0.84742 - 1)**
 
 P = [ 1 —------ ]
 
-70 F = 36 x ( - 0.15258 )
+**70 F = 36 x ( - 0.15258 )**
 
 ### P = 0.84742 F = - 5, 49288 ( YTL)
 
 Görüldüğü üzere formül eksi (-) sonuç verdiği için firma alacağından çıkan miktar kadar kesinti yapılması gerekmektedir. (Not: Hesaplamalarda virgülden sonraki beş basamak dikkate alınacaktır.)
 
-ÖRNEK: (Sağlık Uygulama Tebliğinde fiyatlar artarsa)
+**ÖRNEK: (Sağlık Uygulama Tebliğinde fiyatlar artarsa)**
 
 2004 yılında Tomografi çekimi, BUT’da 70-YTL.(70.000.000-TL.) iken, ihale sonucu sözleşme imzalanan firmanın bu çekim hizmetine 40-YTL.(40.000.000-TL) teklif vermiş olduğunu, 2005 yılında yayımlanan BUT’da da Tomografi çekiminin 90-YTL.(90.000.000- TL.) olarak belirlendiğini düşündüğümüzde;
 
 G
 
-P = [ b —— ] F = A x B x ( P –1)
+**P = [ b —— ] F = A x B x ( P –1)**
 
 G
 
-F = 40 x 0.90 x (1.28571 – 1)
+**F = 40 x 0.90 x (1.28571 – 1)**
 
-90 F = 36 x (1.28571 - 1)
+**90 F = 36 x (1.28571 - 1)**
 
 P = [ 1 —------- ]
 
-70 F = 36 x ( 0.28571 )
+**70 F = 36 x ( 0.28571 )**
 
 ### F = 10,28556 ( YTL)
 
-P = 1.28571
+**P = 1.28571**
 
 33 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1092,11 +1092,11 @@ Görüldüğü üzere formül artı (+) sonuç verdiği için firmaya çıkan mi
 
 ### XVI- GELECEK YILLARA YAYGIN YÜKLENME
 
-Sağlık kurum ve kuruluşlarında acil, temini zorunlu, beklenmeye tahammülü olmayan, ertelenemeyen ve süreklilik arz eden bir hizmet sunumu gerçekleştirilmektedir. Bu hizmetin devamlılığı noktasında, ihtiyaçların giderilmesine yönelik yapılan alımlarda (özellikle süreklilik arz eden hizmet alımlarında), alımların her yıl tekrarlanması sonucu bazı sıkıntılar (yeni yüklenicilerin kuruma uyum süreci, bilgisayar sistemlerine yönelik hizmet alımlarında yeni yüklenicinin mevcut sisteme uyum süreci, alımın bir şekilde gerçekleştirilememesi durumunda hizmetin aksaması gibi) ortaya çıkmaktadır. Diğer taraftan, sağlık hizmetlerinin iyileştirilmesi, kaliteli ve verimli sağlık hizmeti sunulabilmesi için zorunluluk arz eden ileri teknoloji ürünü cihazların firmalar için yüksek maliyetli bir yatırım teşkil etmesi nedeniyle, bir yıllık sözleşmelerle bu cihazların hizmet alımı yoluyla temin edilmesi veya kiralanmasında da büyük sıkıntılar yaşanmaktadır.
+Sağlık kurum ve kuruluşlarında acil, temini zorunlu, beklenmeye tahammülü olmayan, ertelenemeyen ve süreklilik arz eden bir hizmet sunumu gerçekleştirilmektedir. Bu hizmetin devamlılığı noktasında, ihtiyaçların giderilmesine yönelik yapılan alımlarda <i>(özellikle süreklilik</i> <i>arz eden hizmet alımlarında),</i> alımların her yıl tekrarlanması sonucu bazı sıkıntılar <i>(yeni</i> <i>yüklenicilerin kuruma uyum süreci, bilgisayar sistemlerine yönelik hizmet alımlarında yeni</i> <i>yüklenicinin mevcut sisteme uyum süreci, alımın bir şekilde gerçekleştirilememesi durumunda</i> <i>hizmetin aksaması gibi)</i> ortaya çıkmaktadır. Diğer taraftan, sağlık hizmetlerinin iyileştirilmesi, kaliteli ve verimli sağlık hizmeti sunulabilmesi için zorunluluk arz eden ileri teknoloji ürünü cihazların firmalar için yüksek maliyetli bir yatırım teşkil etmesi nedeniyle, bir yıllık sözleşmelerle bu cihazların hizmet alımı yoluyla temin edilmesi veya kiralanmasında da büyük sıkıntılar yaşanmaktadır.
 
-Bakanlığımızca, yaşanan bu tür sıkıntıların ortadan kaldırılması ve kurumlarımızın birkaç yılı kapsayan sözleşme imzalayabilmelerine imkân sağlayabilmek amacıyla gerekli olan mevzuat değişikliği çalışmaları başlatılmış ve bu çalışmalar sonucunda da; 27.04.2005 tarihli ve 2598 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 5335 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun’un 5 inci maddesi ile, 04.01.1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon)Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 3 üncü maddesi değiştirilmiş ve anılan değişiklikle “Döner sermayeli işletmeler, süreklilik arz eden hizmet alımları ile maliyeti yüksek ve ileri teknoloji ürünü olan tıbbî cihazların hizmet alımı yoluyla temini veya kiralanması için döner sermaye kaynaklarından, gelecek yıllara yaygın yüklenmelere girişebilir.” hükmüne yer verilmiştir.
+Bakanlığımızca, yaşanan bu tür sıkıntıların ortadan kaldırılması ve kurumlarımızın birkaç yılı kapsayan sözleşme imzalayabilmelerine imkân sağlayabilmek amacıyla gerekli olan mevzuat değişikliği çalışmaları başlatılmış ve bu çalışmalar sonucunda da; 27.04.2005 tarihli ve 2598 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 5335 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun’un 5 inci maddesi ile, 04.01.1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon)Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 3 üncü maddesi değiştirilmiş ve anılan değişiklikle <i>“Döner sermayeli işletmeler, süreklilik arz eden hizmet</i> <i>alımları ile maliyeti yüksek ve ileri teknoloji ürünü olan tıbbî cihazların hizmet alımı yoluyla</i> <i>temini veya kiralanması için döner sermaye kaynaklarından, gelecek yıllara yaygın</i> <i>yüklenmelere girişebilir.”</i> hükmüne yer verilmiştir.
 
-Anılan kanun hükmü doğrultusunda Bakanlığımıza bağlı kurumlar, döner sermaye kaynaklarından süreklilik arz eden hizmet alımları (temizlik, yemek pişirme ve dağıtım, koruma ve güvenlik, bilgisayar sistemlerine yönelik hizmet alımı, bakım ve onarım gibi hizmet alımları) ile maliyeti yüksek ve ileri teknoloji ürünü olan tıbbî cihazların hizmet alımı yoluyla temini veya kiralamalarında gelecek yıllara yaygın yüklenme yapabilmektedirler.
+Anılan kanun hükmü doğrultusunda Bakanlığımıza bağlı kurumlar, döner sermaye kaynaklarından süreklilik arz eden hizmet alımları <i>(temizlik, yemek pişirme ve dağıtım, koruma</i> <i>ve güvenlik, bilgisayar sistemlerine yönelik hizmet alımı, bakım ve onarım gibi hizmet alımları)</i> ile maliyeti yüksek ve ileri teknoloji ürünü olan tıbbî cihazların hizmet alımı yoluyla temini veya kiralamalarında gelecek yıllara yaygın yüklenme yapabilmektedirler.
 
 Anılan hükme istinaden yapılacak olan alımlarda/ihalelerde kurumlarımızın, 4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu hükümlerine göre hareket etmeleri ve aşağıda belirtilen hususlara da dikkat etmeleri gerekmektedir.
 
@@ -1108,7 +1108,7 @@ Anılan hükme istinaden yapılacak olan alımlarda/ihalelerde kurumlarımızın
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1118,13 +1118,13 @@ Bu nedenle gelecek yıllara yaygın yüklenme olarak çıkılacak ihalelerde; be
 
 3- Sözleşme sürecinde iş artışı veya iş eksilişlerinin olabileceği düşünülerek ihalelerin birim fiyat teklif alma suretiyle yapılması,
 
-4- Fiyat farkı uygulamalarında, 31.12.2002 tarihli ve 24980 (3.Mükerrer) sayılı Resmi Gazetede yayımlanan “4734 Sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar”a göre hareket edilmesi,
+4- Fiyat farkı uygulamalarında, 31.12.2002 tarihli ve 24980 (3.Mükerrer) sayılı Resmi Gazetede yayımlanan <i>“4734 Sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Hizmet</i> <i>Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar”</i>a göre hareket edilmesi,
 
 5- Hizmet alımlarına ilişkin gerçekleşen hak ediş ödemelerinin, yılı bütçesinden yapılması,
 
 6- Süreklilik arz eden hizmet alımları, maliyeti yüksek ve ileri teknoloji ürünü olan tıbbî cihazların hizmet alımı yoluyla temini veya kiralanması, ertesi yıla geçen yüklenmeler ve kit karşılığı cihaz edinme ihaleleri haricinde ki diğer hizmet alımları ile mal alımlarında; döner sermaye bütçelerinin yıllık olduğundan hareketle, ihalelerin de bütçe yılı ile sınırlı olması gerekmektedir. Bu nedenle de ihale dokümanlarında işin bitim tarihinin en geç 31.12.200. olarak belirtilmesi veya yıl sonu münasebetiyle teslimat, zamanında teslimat yapılmadığı takdirde yapılacak olan süreli ihtarname, muayene-kabul ve ödemelerde yaşanabilecek sıkıntılarda göz önüne alınarak 31.12.200.. tarihinden önce ki bir tarihin belirlenmesi gerekmektedir.
 
-A- Yıllara Yaygın Hizmet Alımlarında Yeterlik
+**A- Yıllara Yaygın Hizmet Alımlarında Yeterlik**
 
 Kamu İhale Genel Tebliği’nde de açıkça belirtildiği üzere, Hizmet Alımı İhaleleri Uygulama Yönetmeliğine eklenen 1 inci madde uyarınca iş hacmine ilişkin oranlar sırasıyla;
 
@@ -1146,17 +1146,17 @@ Kamu İhale Genel Tebliği’nde de açıkça belirtildiği üzere, Hizmet Alım
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
-B- Kit Alımlarında Gelecek Yıllara Yaygın Yüklenme
+**B- Kit Alımlarında Gelecek Yıllara Yaygın Yüklenme**
 
-5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Gelecek yıllara yaygın yüklenmeler” başlıklı 28 inci maddesinin dördüncü fıkrasında;
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “<i>Gelecek yıllara yaygın</i> <i>yüklenmeler”</i> başlıklı 28 inci maddesinin dördüncü fıkrasında;
 
-“…(Ek dördüncü fıkra: 22/12/2005-5436/10 md.; Değişik: 25/4/2007-5628/2 md.) Yılı bütçesinde ödeneği bulunması ve merkezî yönetim kapsamındaki idareler için Maliye Bakanlığının uygun görüşünün alınması kaydıyla; satın alma suretiyle edinilmesi ekonomik olmayan her türlü makine-teçhizat, cihazlar ve taşıtlar ile hava ambulansı ve yangınla mücadele amacıyla hava ve deniz araçlarının kiralanması veya finansal kiralama suretiyle temini; temizlik, yemek, koruma ve güvenlik ile personel taşıma hizmetleri, 16/6/2005 tarihli ve 5369 sayılı Kanuna göre sağlanan sabit ve ankesörlü telefon hizmetleri ile acil yardım çağrıları hizmetleri ve okullara sağlanan internet erişim hizmetleri, harita, plan, proje, etüt ve müşavirlik hizmetleri, orman ağaçlandırma ve amenajman işleri, kit karşılığı cihaz, aşı ve antiserum alımı için; süresi üç yılı geçmemek, finansal kiralama suretiyle temin edileceklerde ise dört yıl olmak üzere üst yöneticinin onayıyla gelecek yıllara yaygın yüklenmeye girişilebilir.” hükmü yer almaktadır.
+<i>“…(Ek dördüncü fıkra: 22/12/2005-5436/10 md.; Değişik: 25/4/2007-5628/2 md.) Yılı</i> <i>bütçesinde ödeneği bulunması ve merkezî yönetim kapsamındaki idareler için Maliye</i> <i>Bakanlığının uygun görüşünün alınması kaydıyla; satın alma suretiyle edinilmesi ekonomik</i> <i>olmayan her türlü makine-teçhizat, cihazlar ve taşıtlar ile hava ambulansı ve yangınla</i> <i>mücadele amacıyla hava ve deniz araçlarının kiralanması veya finansal kiralama suretiyle</i> <i>temini; temizlik, yemek, koruma ve güvenlik ile personel taşıma hizmetleri, 16/6/2005 tarihli ve</i> <i>5369 sayılı Kanuna göre sağlanan sabit ve ankesörlü telefon hizmetleri ile acil yardım</i> <i>çağrıları hizmetleri ve okullara sağlanan internet erişim hizmetleri, harita, plan, proje, etüt ve</i> müşavirlik hizmetleri, orman ağaçlandırma ve amenajman işleri, kit karşılığı cihaz, aşı ve antiserum alımı için; süresi üç yılı geçmemek, finansal kiralama suretiyle temin edileceklerde ise <i>dört yıl olmak üzere üst yöneticinin onayıyla gelecek yıllara yaygın yüklenmeye girişilebilir.”</i> hükmü yer almaktadır.
 
-Anılan hüküm ve 01/05/2007 tarihli ve 26509 sayılı Resmi Gazete’de yayımlanan “Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği”nin, “Hüküm bulunmayan hâller” başlıklı 599 uncu maddesinde; “(1) Bu Yönetmelikte hüküm bulunmayan hâllerde, 5018 sayılı Kanun ve bu Kanuna dayanılarak hazırlanan diğer yönetmelikler ile 30/12/2006 tarihli ve 26392 mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Muhasebe Yönetmeliğinin genel esasları, kıyasen uygulanır.” şeklinde yer alan hükme istinaden;
+Anılan hüküm ve 01/05/2007 tarihli ve 26509 sayılı Resmi Gazete’de yayımlanan “Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği”nin, “Hüküm bulunmayan hâller” başlıklı 599 uncu maddesinde; <i>“(1) Bu Yönetmelikte hüküm bulunmayan hâllerde, 5018</i> <i>sayılı Kanun ve bu Kanuna dayanılarak hazırlanan diğer yönetmelikler ile 30/12/2006 tarihli</i> <i>ve 26392 mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Muhasebe</i> <i>Yönetmeliğinin genel esasları, kıyasen uygulanır.”</i> şeklinde yer alan hükme istinaden;
 
 Bakanlığımıza bağlı döner sermayeli kurumlarca, döner sermaye kaynaklarından yapacakları kit karşılığı cihaz edinme ihalelerinde süresi üç yılı geçmemek üzere gelecek yıllara yaygın yüklenme yapılabilecektir.
 
@@ -1164,13 +1164,13 @@ Bakanlığımıza bağlı döner sermayeli kurumlarca, döner sermaye kaynaklar�
 
 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Ertesi yıla geçen yüklenme” başlıklı 27 inci maddesinde;
 
-“Niteliğinden dolayı malî yılla sınırlı tutulamayan ve sürekliliği bulunan aşağıdaki iş ve hizmetler için; her iş itibarıyla, bütçelerinde öngörülen ödeneklerin yüzde ellisini, izleyen yılın Haziran ayını geçmemek ve yüklenme süresi on iki ayı aşmamak üzere, ilgili üst yöneticinin onayıyla ertesi yıla geçen yüklenmelere girişilebilir:
+<i>“Niteliğinden dolayı malî yılla sınırlı tutulamayan ve sürekliliği bulunan aşağıdaki iş ve</i> <i>hizmetler için; her iş itibarıyla, bütçelerinde öngörülen ödeneklerin yüzde ellisini, izleyen yılın</i> <i>Haziran ayını geçmemek ve yüklenme süresi on iki ayı aşmamak üzere, ilgili üst yöneticinin</i> <i>onayıyla ertesi yıla geçen yüklenmelere girişilebilir:</i>
 
-a) Türk Silahlı Kuvvetlerinin yapım, onarım, etüt ve proje işleri, araştırma-geliştirme projeleri, giyecek ve yiyecek alımları, makine-teçhizat, silah-mühimmat-teçhizat alımlarıyla bunların bakım, onarım ve imalat işleri.
+<i>a) Türk Silahlı Kuvvetlerinin yapım, onarım, etüt ve proje işleri, araştırma-geliştirme</i> <i>projeleri, giyecek ve yiyecek alımları, makine-teçhizat, silah-mühimmat-teçhizat alımlarıyla</i> <i>bunların bakım, onarım ve imalat işleri.</i>
 
-b) Yiyecek, yakacak, akaryakıt ve madeni yağ ihtiyaçları.
+<i>b) Yiyecek, yakacak, akaryakıt ve madeni yağ ihtiyaçları.</i>
 
-c) Temini ve korunması güç olan ilaç, aşı, serum ve tıbbi sarf malzemeleri.
+<i>c) Temini ve korunması güç olan ilaç, aşı, serum ve tıbbi sarf malzemeleri.</i>
 
 d) Süreli yayın alımı, taşıma, koruma ve güvenlik, temizlik ve yemek hizmetleri.
 
@@ -1178,21 +1178,21 @@ d) Süreli yayın alımı, taşıma, koruma ve güvenlik, temizlik ve yemek hizm
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
-e) Taşıtların malî sorumluluk sigortası ile yurt dışından tedariki yapılan silah, silahteçhizat ve mühimmat sevkinin her türlü riske karşı sigortalanması amacıyla yaptırılan nakliyat sigortası.
+e) Taşıtların malî sorumluluk sigortası ile yurt dışından tedariki yapılan silah, silahteçhizat ve mühimmat sevkinin her türlü riske karşı sigortalanması amacıyla yaptırılan nakliyat <i>sigortası.</i>
 
-f) Makine-teçhizat, yol ve otoyol, bilgisayar ve haberleşme sistemlerinin bakım işleri; her türlü onarım işleri ile elektronik bilgi erişim hizmetleri.
+<i>f) Makine-teçhizat, yol ve otoyol, bilgisayar ve haberleşme sistemlerinin bakım işleri;</i> <i>her türlü onarım işleri ile elektronik bilgi erişim hizmetleri.</i>
 
-g) Emniyet Genel Müdürlüğünün giyecek alımları ile silah, mühimmat ve teçhizat alımları.
+<i>g) Emniyet Genel Müdürlüğünün giyecek alımları ile silah, mühimmat ve teçhizat</i> <i>alımları.</i>
 
-Ancak (d) bendinde sayılan işler için bütçelerinde ödeneklerin yüzde ellisinin aşılmayacağı hükmü Millî Eğitim Bakanlığı için aranmaz.” hükmü yer almaktadır.
+<i>Ancak (d) bendinde sayılan işler için bütçelerinde ödeneklerin yüzde ellisinin</i> <i>aşılmayacağı hükmü Millî Eğitim Bakanlığı için aranmaz.”</i> hükmü yer almaktadır.
 
-Anılan hüküm ve 01/05/2007 tarihli ve 26509 sayılı Resmi Gazete’de yayımlanan “Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği”nin, “Hüküm bulunmayan hâller” başlıklı 599 uncu maddesinde; “(1) Bu Yönetmelikte hüküm bulunmayan hâllerde, 5018 sayılı Kanun ve bu Kanuna dayanılarak hazırlanan diğer yönetmelikler ile 30/12/2006 tarihli ve 26392 mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Muhasebe Yönetmeliğinin genel esasları, kıyasen uygulanır.” şeklinde yer alan hükme istinaden:
+Anılan hüküm ve 01/05/2007 tarihli ve 26509 sayılı Resmi Gazete’de yayımlanan “Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği”nin, “Hüküm bulunmayan hâller” başlıklı 599 uncu maddesinde; <i>“(1) Bu Yönetmelikte hüküm bulunmayan hâllerde, 5018</i> <i>sayılı Kanun ve bu Kanuna dayanılarak hazırlanan diğer yönetmelikler ile 30/12/2006 tarihli</i> <i>ve 26392 mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Muhasebe</i> <i>Yönetmeliğinin genel esasları, kıyasen uygulanır.”</i> şeklinde yer alan hükme istinaden:
 
-Bakanlığımıza bağlı döner sermayeli kurumlarca, döner sermaye kaynaklarından “Temini ve korunması güç olan ilaç, aşı, serum ve tıbbi sarf malzemeleri” ile “Yiyecek, yakacak, akaryakıt ve madeni yağ ihtiyaçları” için yapacakları alımlarda, ertesi yıla geçen yüklenme yapılabilecektir.
+Bakanlığımıza bağlı döner sermayeli kurumlarca, döner sermaye kaynaklarından “<i>Temini ve korunması güç olan ilaç, aşı, serum ve tıbbi sarf malzemeleri”</i> ile <i>“Yiyecek,</i> <i>yakacak, akaryakıt ve madeni yağ ihtiyaçları”</i> için yapacakları alımlarda, ertesi yıla geçen yüklenme yapılabilecektir.
 
 Ertesi yıla geçen yüklenmelerde dikkat edilmesi gereken bazı hususlar;
 
@@ -1204,13 +1204,13 @@ c) İzleyen yılın döner sermaye bütçesinde, ertesi yıla geçen yüklenmele
 
 ### XVIII - BAKANLIĞIMIZA BAĞLI DÖNER SERMAYELİ İŞLETMELERİN BİRBİRİNDEN HİZMET SATINALMASI
 
-4/1/1961 tarihli ve 209 sayılı “Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki Kanun”un 3 üncü maddesinde; “…Bu Kanuna tâbi döner sermayeli işletmeler, gerekli gördükleri hallerde sundukları hizmetleri, Bütçe Uygulama Talimatında belirlenen fiyatları aşmamak üzere belirleyecekleri fiyat üzerinden, birbirlerinden temin edebilirler…” şeklinde yer alan hükme istinaden Bakanlığımıza bağlı döner sermayeli işletmeler birbirlerinden hizmet satın alabilmektedirler.
+4/1/1961 tarihli ve 209 sayılı “Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki Kanun”un 3 üncü maddesinde; <i>“…Bu Kanuna tâbi döner sermayeli işletmeler, gerekli gördükleri hallerde</i> <i>sundukları hizmetleri, Bütçe Uygulama Talimatında belirlenen fiyatları aşmamak üzere</i> <i>belirleyecekleri fiyat üzerinden, birbirlerinden temin edebilirler…”</i> şeklinde yer alan hükme istinaden Bakanlığımıza bağlı döner sermayeli işletmeler birbirlerinden hizmet satın alabilmektedirler.
 
 37 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1220,25 +1220,25 @@ Diğer taraftan her iki işletme arasında alım-satımı yapılan hizmetin, has
 
 ### XIX - BAKANLIĞIMIZA BAĞLI DÖNER SERMAYELİ İŞLETMELERİN BİRBİRLERİ ARASINDA YAPACAKLARI MALVE MALZEME DEVRİ
 
-4/1/1961 tarihli ve 209 sayılı “Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki Kanun”un 3 üncü maddesinde; “…Döner sermayeli işletmeler, kullanmadıkları veya ihtiyaç fazlası olan mal ve demirbaşları bedelsiz veya tespit edilecek bedel üzerinden birbirlerine devredebilirler. Aynı il sınırları içerisindeki döner sermayeli işletmeler ariyet sözleşmesi ile birbirlerine mal verebilirler…” hükmü yer almaktadır.
+4/1/1961 tarihli ve 209 sayılı “Sağlık Bakanlığına Bağlı Sağlık Kurumları İle Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki Kanun”un 3 üncü maddesinde; <i>“…Döner sermayeli işletmeler, kullanmadıkları veya ihtiyaç fazlası olan</i> <i>mal ve demirbaşları bedelsiz veya tespit edilecek bedel üzerinden birbirlerine devredebilirler.</i> <i>Aynı il sınırları içerisindeki döner sermayeli işletmeler ariyet sözleşmesi ile birbirlerine mal</i> <i>verebilirler…”</i> hükmü yer almaktadır.
 
 Anılan hükmün uygulamasına ilişkin olarak Maliye Bakanlığı Muhasebat Genel Müdürlüğü’nün 07.12.2007 tarihli ve B.07.0.MGM.0.23/115-20429 sayılı yazılarında özetle;
 
-“1- Bakanlığınıza bağlı döner sermayeli işletmeler arasında döner sermaye kaynaklı alınan mal ve malzemelerin birbirlerine bedelsiz olarak devrinde, mal ve malzemeyi devreden Döner Sermaye İşletmesi Saymanlığınca, mal ve malzemelerin amortismana tabi olanlardan ayrılmış olan amortisman tutarları da dikkate alınarak kayıtlı değerleri üzerinden ilgili gider hesabına borç, stoklar veya maddi duran varlıklar hesap gruplarında yer alan ilgili hesaplara alacak; mal ve malzemeyi devralan Döner Sermaye İşletmesi Saymanlığınca, mal ve malzemelerin amortismana tabi olanlarından ayrılmış olan amortisman tutarları da dikkate alınarak ilgili varlık hesabına aldıkları değerleri üzerinden stoklar ve maddi duran varlıklar hesap gruplarında yer alan ilgili hesaplara borç, 602-Diğer Gelirler Hesabına alacak yazılmak suretiyle döner sermaye bütçesine mal edilmesinin ancak, Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair 5234 sayılı Kanunun Geçici 1 inci maddesi uyarınca Hazine payı olarak ayrılacak miktarın hesaplanmasında, bu tutarların matraha dahil edilmemesinin,
+<i>“1- Bakanlığınıza bağlı döner sermayeli işletmeler arasında döner sermaye kaynaklı</i> <i>alınan mal ve malzemelerin birbirlerine bedelsiz olarak devrinde, mal ve malzemeyi devreden</i> <i>Döner Sermaye İşletmesi Saymanlığınca, mal ve malzemelerin amortismana tabi olanlardan</i> <i>ayrılmış olan amortisman tutarları da dikkate alınarak kayıtlı değerleri üzerinden ilgili gider</i> <i>hesabına borç, stoklar veya maddi duran varlıklar hesap gruplarında yer alan ilgili hesaplara</i> <i>alacak; mal ve malzemeyi devralan Döner Sermaye İşletmesi Saymanlığınca, mal ve</i> <i>malzemelerin amortismana tabi olanlarından ayrılmış olan amortisman tutarları da dikkate</i> <i>alınarak ilgili varlık hesabına aldıkları değerleri üzerinden stoklar ve maddi duran varlıklar</i> <i>hesap gruplarında yer alan ilgili hesaplara borç, 602-Diğer Gelirler Hesabına alacak yazılmak</i> <i>suretiyle döner sermaye bütçesine mal edilmesinin ancak, Bazı Kanun ve Kanun Hükmünde</i> <i>Kararnamelerde Değişiklik Yapılmasına Dair 5234 sayılı Kanunun Geçici 1 inci maddesi</i> <i>uyarınca Hazine payı olarak ayrılacak miktarın hesaplanmasında, bu tutarların matraha dahil</i> <i>edilmemesinin,</i>
 
-Bedelsiz devre ilişkin bu tutarların takibinin 602 nolu hesabın altında açılacak alt hesaplarda takibinin yapılmasının ve yılsonunda yönetim dönemi hesabı ekinde gönderilen Yıllık Gayri Safi Gelir ve Kar Bildirimi ekine, 602 nolu hesap detayının eklenmesinin,
+<i>Bedelsiz devre ilişkin bu tutarların takibinin 602 nolu hesabın altında açılacak alt</i> <i>hesaplarda takibinin yapılmasının ve yılsonunda yönetim dönemi hesabı ekinde gönderilen</i> <i>Yıllık Gayri Safi Gelir ve Kar Bildirimi ekine, 602 nolu hesap detayının eklenmesinin,</i>
 
 38 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
-2- Döner sermaye kaynaklı alınan mal ve malzemelerin döner sermayeli işletmeler arasında bedelli olarak satılması halinde ise; 04/08/1984 tarihli ve 18479 sayılı Resmi Gazetede yayımlanan Döner Sermayeli Kuruluşlar İhale Yönetmeliği’nin “Maliyetin Altında Satış” başlıklı 64 üncü maddesi hükmü ve amortismana tabi olan mal ve malzemelerin amortisman tutarları da dikkate alınarak, oluşturulacak bir komisyon marifetiyle satış fiyatının tespit edilmesinin ve gelir kaydedilecek tutarın, 5234 sayılı Kanunun Geçici 1 inci maddesi uyarınca Hazine payı olarak ayrılacak miktarın hesaplanmasında matraha dahil edilmesinin,
+<i>2- Döner sermaye kaynaklı alınan mal ve malzemelerin döner sermayeli işletmeler</i> <i>arasında bedelli olarak satılması halinde ise; 04/08/1984 tarihli ve 18479 sayılı Resmi</i> <i>Gazetede yayımlanan Döner Sermayeli Kuruluşlar İhale Yönetmeliği’nin “Maliyetin Altında</i> <i>Satış” başlıklı 64 üncü maddesi hükmü ve amortismana tabi olan mal ve malzemelerin</i> <i>amortisman tutarları da dikkate alınarak, oluşturulacak bir komisyon marifetiyle satış fiyatının</i> <i>tespit edilmesinin ve gelir kaydedilecek tutarın, 5234 sayılı Kanunun Geçici 1 inci maddesi</i> <i>uyarınca Hazine payı olarak ayrılacak miktarın hesaplanmasında matraha dahil edilmesinin,</i>
 
-uygun olacağı düşünülmektedir.” denilmiştir.
+<i>uygun olacağı düşünülmektedir.”</i> denilmiştir.
 
 ### XX- SAĞLIK BAKANLIĞI İHALE BİLGİ SİSTEMİ
 
@@ -1260,7 +1260,7 @@ Bakanlığımıza bağlı kurum ve kuruluşların ihtiyaçlarını temin maksad�
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar yönteminde ihale kayıt numarası alınma zorunluluğu bulunmamakla beraber bu alımlara ilişkin bilgilerde mutlaka girilecektir.
 
@@ -1286,7 +1286,7 @@ Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye K
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1294,15 +1294,15 @@ Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye K
 
 ### XXI - 4734 SAYILI KAMU İHALE KANUNU’NUN 22 NCİ MADDESİNİN (f) BENDİ
 
-4734 sayılı Kamu İhale Kanunu’nun “Doğrudan Temin” başlıklı 22 nci maddesinin (f) bendinde; “Özelliğinden dolayı stoklama imkânı bulunmayan ve acil durumlarda kullanılacak olan ilaç, tıbbî sarf malzemeleri ile test ve tetkik sarf malzemesi alımları.” şeklinde hüküm yer almaktadır.
+4734 sayılı Kamu İhale Kanunu’nun “Doğrudan Temin” başlıklı 22 nci maddesinin (f) bendinde; **<i>“Özelliğinden dolayı stoklama imkânı bulunmayan ve acil durumlarda</i> <i>kullanılacak olan ilaç, tıbbî sarf malzemeleri ile test ve tetkik sarf malzemesi alımları.”</i>** şeklinde hüküm yer almaktadır.
 
 Söz konusu kanun hükmünün uygulanmasında oluşan tereddütlerin giderilmesi ve yaşanan sıkıntıların ortadan kaldırılması amacıyla, Bakanlığımızca kanun hükmünün daha anlaşılır ve uygulanabilir olabilmesi için, diğer hususları da içeren bir değişiklik tasarısı hazırlanmış ve Kamu İhale Kurumu’na iletilmiştir. Kamu İhale Kurumu’na iletilen değişiklik önerileri hakkında Kamu İhale Kurulu’nca alınan 03.01.2008 tarihli ve 2008/DK.D-1 Sayılı Kararda;
 
-“…2)Kanunun 22 nci maddesinin (f) bendine, “Hastaya özgü olup, evsafı ancak hastalığın teşhis ve tedavisi esnasında tespit edilebilen ve Sağlık Bakanlığınca belirlenerek yayımlanacak tebliğ eki listede yer alan mal ve malzeme ile” ibaresinin eklenilmesi istenilmektedir.
+<i>“…2)Kanunun 22 nci maddesinin (f) bendine, “Hastaya özgü olup, evsafı ancak</i> <i>hastalığın teşhis ve tedavisi esnasında tespit edilebilen ve Sağlık Bakanlığınca belirlenerek</i> <i>yayımlanacak tebliğ eki listede yer alan mal ve malzeme ile” ibaresinin eklenilmesi</i> <i>istenilmektedir.</i>
 
-Anılan Kanun maddesinin mevcut halinin gerekçesinde; “Özellikle hayati önemi haiz olan ve acil müdahale gerektiren kalp ve ortopedi ameliyatlarında kullanılan ilaç ve malzemelerin özellikleri, boyutları ve nitelikleri kullanılacak hastaya göre değiştiğinden ya da belli bir kullanım süresi bulunmasından dolayı bu süre içinde kullanılmaları zorunlu olduğundan; hem idare yararı hem de hastaların mağdur edilmemesi açısından bu gibi ilaç ve malzemelerin ihale yoluyla önceden temin edilerek stoklanması yerine, ihtiyaç duyulduğunda doğrudan temin edilmesi öngörülmektedir.” hususlarına yer verilmektedir.
+<i>Anılan Kanun maddesinin mevcut halinin gerekçesinde;</i> **<i>“Özellikle hayati önemi haiz</i> <i>olan ve acil müdahale gerektiren kalp ve ortopedi ameliyatlarında kullanılan ilaç ve</i> <i>malzemelerin özellikleri, boyutları ve nitelikleri kullanılacak hastaya göre değiştiğinden ya</i> <i>da belli bir kullanım süresi bulunmasından dolayı bu süre içinde kullanılmaları zorunlu</i> <i>olduğundan; hem idare yararı hem de hastaların mağdur edilmemesi açısından bu gibi ilaç</i> <i>ve malzemelerin ihale yoluyla önceden temin edilerek stoklanması yerine, ihtiyaç</i> <i>duyulduğunda doğrudan temin edilmesi öngörülmektedir.”</i>** <i>hususlarına yer verilmektedir.</i>
 
-Buna göre, hastaya özgü olup özelliğinden dolayı stoklama imkanı bulunmayan mal ve malzemelerin Kanun maddesinin mevcut hali çerçevesinde de temini mümkün bulunmaktadır. Dolayısıyla, Sağlık Bakanlığı tarafından getirilmek istenilen değişiklik ile hedeflenen amacın mevcut Kanun metni ile de elde edilebilmesi mümkün görülmektedir…” denilmiştir.
+**<i>Buna göre, hastaya özgü olup özelliğinden dolayı stoklama imkanı bulunmayan mal</i> <i>ve malzemelerin Kanun maddesinin mevcut hali çerçevesinde de temini mümkün</i> <i>bulunmaktadır.</i>** <i>Dolayısıyla, Sağlık Bakanlığı tarafından getirilmek istenilen değişiklik ile</i> <i>hedeflenen amacın mevcut Kanun metni ile de elde edilebilmesi mümkün görülmektedir…”</i> denilmiştir.
 
 Ayrıca 18.04.2008 tarihli ve 26851 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Kamu İhale Genel Tebliğinde Değişiklik Yapılmasına Dair Tebliğ’in 3 üncü maddesi ile Kamu İhale Genel Tebliği’nin Birinci Bölümünün XIX uncu maddesinin "İlaç, Tıbbi Sarf Malzemeleri ile Test ve Tetkik Sarf Malzemesi Alımları" başlıklı (G) alt maddesi değiştirilerek konu hakkında teferruatlı açıklamalarda bulunulmuştur.
 
@@ -1312,7 +1312,7 @@ Ayrıca 18.04.2008 tarihli ve 26851 sayılı Resmi Gazete’de yayımlanarak yü
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1326,19 +1326,19 @@ Anılan kanun ile çerçeve sözleşme kapsamında yapılacak alımlara ilişkin
 
 Bakanlığımıza bağlı kurumlarımız sürekli biçimde ihtiyaç duydukları mal ve hizmet ihtiyaçlarını anılan yönetmelik kapsamında karşılayabilecekleri gibi, 4734 sayılı Kamu İhale Kanunu’nda belirlenen diğer usulleri de kullanmak suretiyle temin edebileceklerdir.
 
-Ayrıca anılan yönetmeliğin 6 ncı maddesinin birinci paragrafında; “Çerçeve sözleşme 4734 sayılı Kanun kapsamında yer alan ve sağlık hizmeti sunan idarelerce yapılabilir. Ancak bu durum çerçeve sözleşmenin bakanlık düzeyinde veya il düzeyinde sağlık hizmeti sunan idarelerce yapılmasına engel değildir. Çerçeve sözleşmenin bakanlık düzeyinde veya il düzeyinde yapıldığı durumlarda, çerçeve sözleşmeyi yapan bakanlığa bağlı veya ilgili kuruluşlarca veya il düzeyinde çerçeve sözleşmeyi yapan idareye bağlı veya ilgili kuruluşlarca bu çerçeve sözleşmeler kapsamında kısa sözleşme yapılabilir.” şeklinde yer alan hüküm ile çerçeve sözleşmelerin bakanlık veya il düzeyinde yapılmasına, bakanlık veya il düzeyinde yapılan çerçeve sözleşmeler kapsamında da bağlı kuruluşlarca kısa sözleşmeler yapmaya imkân sağlanmıştır.
+Ayrıca anılan yönetmeliğin 6 ncı maddesinin birinci paragrafında; <i>“Çerçeve sözleşme</i> <i>4734 sayılı Kanun kapsamında yer alan ve sağlık hizmeti sunan idarelerce yapılabilir. Ancak</i> <i>bu durum çerçeve sözleşmenin bakanlık düzeyinde veya il düzeyinde sağlık hizmeti sunan</i> <i>idarelerce yapılmasına engel değildir. Çerçeve sözleşmenin bakanlık düzeyinde veya il</i> <i>düzeyinde yapıldığı durumlarda, çerçeve sözleşmeyi yapan bakanlığa bağlı veya ilgili</i> <i>kuruluşlarca veya il düzeyinde çerçeve sözleşmeyi yapan idareye bağlı veya ilgili kuruluşlarca</i> <i>bu çerçeve sözleşmeler kapsamında kısa sözleşme yapılabilir.”</i> şeklinde yer alan hüküm ile çerçeve sözleşmelerin bakanlık veya il düzeyinde yapılmasına, bakanlık veya il düzeyinde yapılan çerçeve sözleşmeler kapsamında da bağlı kuruluşlarca kısa sözleşmeler yapmaya imkân sağlanmıştır.
 
 Getirilen bu düzenleme ve Bakanlığımızca toplu alımlara ilişkin verilen yetki çerçevesinde, il bazında Bakanlığımıza bağlı döner sermayeli işletmelerin sürekli biçimde ihtiyaç duydukları mal veya hizmet alımları çerçeve sözleşmeler kapsamında ve bu çerçeve sözleşmeler kapsamına dâhil olan her bir işletmece yapılacak olan kısa sözleşmeler ile karşılanabilecektir
 
 ### XXIII- YÜRÜRLÜKTEN KALDIRMA
 
-Ek-2’deki listede kayıtlı toplam 64 (Altmış dört) adet genelge ve dağıtımlı genel yazı, bu genelge ile yürürlükten kaldırılmıştır.
+**Ek-2’deki** listede kayıtlı toplam **64 (Altmış dört)** adet genelge ve dağıtımlı genel yazı, bu genelge ile yürürlükten kaldırılmıştır.
 
 42 / 48
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1352,11 +1352,11 @@ Bu Genelgede yer alan açıklamaların, 4734 sayılı Kamu İhale Kanunu ve 4735
 
 Hususlarında bilgilerinizi ve konunun iliniz döner sermayeli kurum ve kuruluşlarına duyurulması hususunda gereğini önemle rica ederim.
 
-Uz. Dr. Orhan F. GÜMRÜKÇÜOĞLU
+**Uz. Dr. Orhan F. GÜMRÜKÇÜOĞLU**
 
-Bakan a.
+**Bakan a.**
 
-Müsteşar
+**Müsteşar**
 
 ### EKLER:
 
@@ -1366,7 +1366,7 @@ Mal ve Hizmet Olarak Sınıflandırılması Tablosu (1 sayfa) Ek-2: Yürürlükt
 
 ### DAĞITIM :
 
-Gereği için : Bilgi için :
+**Gereği için : Bilgi için :**
 
 -81 İl Valiliğine(İl Sağlık Müdürlüğü) - Kamu İhale Kurumu Başkanlığı’na
 
@@ -1388,15 +1388,15 @@ Gereği için : Bilgi için :
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008
 
-Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
 ### EKLER : EK -1 : DÖNER SERMAYELİ İŞLETMELERİN BÜTÇE KALEMLERİNİN YAPIM, MAL ve HİZMET OLARAK SINIFLANDIRILMASI TABLOSU
 
-Döner Sermayeli İşletmelerin Bütçe Kalemlerinin Yapım, Mal ve Hizmet Olarak Sınıflandırılması
+**Döner Sermayeli İşletmelerin Bütçe Kalemlerinin Yapım, Mal ve Hizmet Olarak Sınıflandırılması**
 
 ### YAPIM MAL HİZMET
 
@@ -1476,7 +1476,7 @@ Yapıldığında)
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1556,7 +1556,7 @@ Başkanlığı Yoluyla Hizmet Aracı Temini
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1652,7 +1652,7 @@ APK Kurulu Koruma Ve Güvenlik Hizmeti 31 02.07.2004 3388(3006) 2004/88
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1744,7 +1744,7 @@ Genel Müdürlüğü
 
 ### SAĞLIK BAKANLIĞI Strateji Geliştirme Başkanlığı
 
-Sayı : B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 Konu : Döner Sermaye Kaynaklarından Yapılacak Olan
+**Sayı :** B.10.0.SGB.0.81.00.05/10-06/4211 05 Haziran 2008 **Konu :** Döner Sermaye Kaynaklarından Yapılacak Olan
 
 İhalelerde Uyulması Gereken Usul ve Esaslar
 
@@ -1760,9 +1760,9 @@ Tedavi Hizmetleri İhale Yoluyla Satın Alınan 53 29.01.2001 1248 Genel Yazı
 
 ### Genel Müdürlüğü İlaçlar Hk.
 
-Genelge ( Sadece "I-Döner
+Genelge ( Sadece **"I-Döner**
 
-Tedavi Hizmetleri Sermaye İşlemleri" başlığı 54 04.01.2001 166 2001/8
+Tedavi Hizmetleri **Sermaye İşlemleri"** başlığı 54 04.01.2001 166 2001/8
 
 Genel Müdürlüğü altında yer alan hükümler
 
@@ -1808,9 +1808,9 @@ Tedavi Hizmetleri 63 20.03.2000 3889 2000/1 Temizlik İhalesi
 
 Genel Müdürlüğü
 
-Genelge ( Sadece "I-Döner
+Genelge ( Sadece **"I-Döner**
 
-Tedavi Hizmetleri Sermaye İşlemleri" başlığı 64 03.01.2000 7 Genel Yazı
+Tedavi Hizmetleri **Sermaye İşlemleri"** başlığı 64 03.01.2000 7 Genel Yazı
 
 Genel Müdürlüğü altında yer alan hükümler
 
@@ -1834,4 +1834,4 @@ kaldırılmıştır.)
 
 <small>1 o - n o - n o n</small>
 
-<small>2 o n ------------------------n-------------------2--------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve MuhaGsebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA o Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr oranı dikkate alınmak suretiyle ve toplamı bire (1.00) eşit olacak şekilde ihaleden önce idarece belirlenerek ihale dokümanında gösterilmesi zorunludur. Bu sabit katsayılar, sözleşmenin uygulanması sırasında hiçbir gerekçeyle değiştirilemez. n 2 n o o - n o - n ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr o n n n n 2 n n o n ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr</small>
+<small>2 o n ------------------------n-------------------2--------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve MuhaGsebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA o Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr <i>oranı dikkate alınmak suretiyle ve toplamı bire (1.00) eşit olacak şekilde ihaleden önce idarece belirlenerek ihale</i> <i>dokümanında gösterilmesi zorunludur. Bu sabit katsayılar, sözleşmenin uygulanması sırasında hiçbir gerekçeyle</i> <i>değiştirilemez.</i> n 2 n o o - n o - n ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr o n n n **n 2 n n** o n ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Döner Sermayeli İşletmeler Bütçe ve Muhasebe Daire Başkanlığı, Sağlık Bakanlığı Ek Hizmet Binası Mahmut Esat Bozkurt Cad. Umut Sok. No:19 Kat: 3 Kolej / ANKARA Tel: (0.312) 458 51 48 - 47 Faks: (0.312) 458 53 20 Elektronik ağ: www.saglik.gov.tr e-posta: dsidb@saglik.gov.tr</small>

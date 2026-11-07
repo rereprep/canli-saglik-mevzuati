@@ -15,13 +15,13 @@ durum: "yürürlükte"
 
 ### NİZAMNAME
 
-Bakanlar Kurulu Kararının Tarihi : 27.12.1958 No : 4/11142
+**Bakanlar Kurulu Kararının Tarihi : 27.12.1958 No : 4/11142**
 
-Dayandığı Kanunun Tarihi : 15.5.1957 No : 6968
+**Dayandığı Kanunun Tarihi : 15.5.1957 No : 6968**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 4.2.1959 No : 10126
+**Yayımlandığı Resmî Gazetenin Tarihi : 4.2.1959 No : 10126**
 
-Yayımlandığı Düsturun Tertibi : 3 Cildi : 40 Sayfa : 110
+**Yayımlandığı Düsturun Tertibi : 3 Cildi : 40 Sayfa : 110**
 
 ### BİRİNCİ KISIM
 
@@ -63,11 +63,11 @@ Verilen ruhsatnameler: ilaç ve aletlerde 5 yıl için geçerlidir.
 
 ### İKİNCİ KISIM
 
-Ham madde ve ilaçlar
+**Ham madde ve ilaçlar**
 
 ### BİRİNCİ BÖLÜM
 
-İthale ait hükümler
+**İthale ait hükümler**
 
 ### BİRİNCİ FASIL
 
@@ -113,7 +113,7 @@ e) Nümunenin ne miktarda ve kaç orijinal ambalaj içinde hangi gümrüğe geld
 
 f) İlacın bilhassa hangi hastalık ve zararlılara karşı denenmesinin istendiği;
 
-g) (Mülga: 27/4/1996 - 96/8156 K.)
+g) **(Mülga: 27/4/1996 - 96/8156 K.)**
 
 Yapılacak tetkikattan sonra uygun görüldüğü takdirde, Ziraat Vekaletince nümunenin gümrükten çekilmesine muvafakat edilir ve hangi müesseseye gönderileceği alakalıya bildirilir.
 
@@ -151,9 +151,9 @@ Bu madde hükmüne göre araştırma ve denemeye tabi tutulmuş ilaç nümuneler
 
 ### İKİNCİ BÖLÜM
 
-Memleket içinde kurulacak ilaç fabrika ve İmalathaneleriyle
+**Memleket içinde kurulacak ilaç fabrika ve İmalathaneleriyle**
 
-imal veya ihzar edilecek ilaçlar
+**imal veya ihzar edilecek ilaçlar**
 
 ### BİRİNCİ FASIL
 
@@ -215,7 +215,7 @@ a) İlacın ticari adı;
 
 b) İlacın imal veya ihzar edileceği fabrika veya imalathanenin işletme izninin tarih ve numarası;
 
-c) (Değişik: 27/4/1996 - 96/8156 K.) İlacın ruhsat sahibi tarafından hazırlanmış; fiziki ve kimyevi özelliklerini ve bunların tahlil metodlarını, örneğin imal tarihini, dayanıklılık müddetini, depolama şartlarını, toksikolojik özelliklerini, antidotlarını ve diğer özelliklerini içeren spesifikasyonları;
+c) **(Değişik: 27/4/1996 - 96/8156 K.)** İlacın ruhsat sahibi tarafından hazırlanmış; fiziki ve kimyevi özelliklerini ve bunların tahlil metodlarını, örneğin imal tarihini, dayanıklılık müddetini, depolama şartlarını, toksikolojik özelliklerini, antidotlarını ve diğer özelliklerini içeren spesifikasyonları;
 
 d) İlacın kullanma yeri ve tarifnamesi;
 
@@ -229,11 +229,11 @@ h) İlaç münhasıran ihraç maksadı ile imal edilecekse yabancı memleket sip
 
 i) Ruhsatname ücretinin Maliye veznesine yatırıldığını gösteren makbuz.
 
-j) (Ek: 27/4/1996-96/8156 K.) İlaç, ruhsat sahibi tarafından fason olarak ürettirilecek ise, üretimi yapacak fabrika veya imalathane sahibi firma ile yapılacak fason üretim sözleşmesinin noter onaylı bir örneği.
+j) **(Ek: 27/4/1996-96/8156 K.)** İlaç, ruhsat sahibi tarafından fason olarak ürettirilecek ise, üretimi yapacak fabrika veya imalathane sahibi firma ile yapılacak fason üretim sözleşmesinin noter onaylı bir örneği.
 
 Ziraat Vekaleti gönderilen belge ve bilgileri tam ve kanaat bahş bulduğu takdirde ilaç nümunesinin hangi müesseseye gönderileceğini alakalıya bildirir. Nümuneler, 11 inci madde hükmüne tabi tutulur.
 
-(Değişik son fıkra: 27/4/1996 - 96/8156 K.) Patenti kendisine veya başkasına ait olan ilacı, imal ve ihzar edeceklerin tahlil ve deneme için verecekleri örneğin Bakanlıktan işletme izni almış fabrika veya imalathanelerde yapılmış olması şarttır.
+**(Değişik son fıkra: 27/4/1996 - 96/8156 K.)** Patenti kendisine veya başkasına ait olan ilacı, imal ve ihzar edeceklerin tahlil ve deneme için verecekleri örneğin Bakanlıktan işletme izni almış fabrika veya imalathanelerde yapılmış olması şarttır.
 
 **Madde 26 –** Tahlil ve denemeler müspet netice verdiği takdirde, o ilaç için imal ve kullanma ruhsatnamesi verilir.
 
@@ -265,7 +265,7 @@ Ziraat Vekaletince yapılacak kontrollar sonunda fabrika ve imalathanelerde tesb
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Ham madde ve ilaçların piyasaya arz ve satışı
+**Ham madde ve ilaçların piyasaya arz ve satışı**
 
 ### BİRİNCİ FASIL
 
@@ -275,7 +275,7 @@ Ham madde ve ilaçların piyasaya arz ve satışı
 
 Kullanma Ruhsatnamesine haiz ilacı ve aleti imal, ihzar ve ithal etmek isteyenler, tüm bölgeler için geçerli olan azami satış fiyatlarını hesaplar ve bunları, ilaç ve aletleri piyasaya arzetmeden en az on iş günü önceden Bakanlığa bildirir. Bakanlık gerekli incelemeleri yapar. İmalatcı veya ithalatcı tarafından beyan edilen fiyatlar, bu süre içerisinde Bakanlık tarafından yazılı olarak reddedilmediği takdirde, onaylanmış sayılır. Bu suretle kesinlik kazanan fiyatlar, ruhsat sahibi tarafından derhal bayilere ve il tarım müdürlüklerine bildirilir, ilaç ve aletler bu fiyatlarla satışa sunulur.
 
-Madde 33 ila 40 – (Mülga: 27/4/1996 - 96/8156 K.)
+**Madde 33 ila 40 – (Mülga: 27/4/1996 - 96/8156 K.)**
 
 ### İKİNCİ FASIL
 
@@ -357,7 +357,7 @@ Ziraat Vekaleti, ihraçtan önce ham madde ve ilaçları muayene ve tahlil ettir
 
 ### ÜÇÜNCÜ KISIM
 
-Aletler
+**Aletler**
 
 ### BİRİNCİ BÖLÜ
 
@@ -413,9 +413,9 @@ Bu muvafakat verilmedikçe alet gümrükten çekilemez.
 
 ### İKİNCİ BÖLÜM
 
-Alet fabrika ve imalathaneleri ve aletlerin imali
+**Alet fabrika ve imalathaneleri ve aletlerin imali**
 
-Birinci Fasıl
+**Birinci Fasıl**
 
 #### Fabrika ve imalathaneler
 
@@ -483,13 +483,13 @@ Usulüne göre kullanılmasına rağmen, alet garanti müddeti içinde aksama ya
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Aletlerin piyasaya arz ve satışı
+**Aletlerin piyasaya arz ve satışı**
 
 ### BİRİNCİ FASIL
 
-Azami satış fiyatının tesbiti
+**Azami satış fiyatının tesbiti**
 
-Madde 64 ila 66 – (Mülga: 27/4/1996 - 96/8156 K.)
+**Madde 64 ila 66 – (Mülga: 27/4/1996 - 96/8156 K.)**
 
 ### İKİNCİ FASIL
 
@@ -529,19 +529,19 @@ i) İhraç edilecek ham madde veya ilacın miktarı.
 
 ### DÖRDÜNCÜ KISIM
 
-Çeşitli hükümler
+**Çeşitli hükümler**
 
-Muvakkat Madde 1 – İlaçlar için mülga 2906 sayılı kanun hükümlerine göre verilmiş olan belgeler, 25/11/1957 tarihinde müddetleri dolmamış olmak şartiyle bakiye müddetleri ne olursa olsun, bu Nizamnamenin mer'iyete girdiği tarihten itibaren 6 ay müddetle muteberdir. Bu belgeler, bu Nizamnameye göre verilen imal ve kullanma ruhsatnamesi hükmünde sayılırlar.
+**Muvakkat Madde 1 –** İlaçlar için mülga 2906 sayılı kanun hükümlerine göre verilmiş olan belgeler, 25/11/1957 tarihinde müddetleri dolmamış olmak şartiyle bakiye müddetleri ne olursa olsun, bu Nizamnamenin mer'iyete girdiği tarihten itibaren 6 ay müddetle muteberdir. Bu belgeler, bu Nizamnameye göre verilen imal ve kullanma ruhsatnamesi hükmünde sayılırlar.
 
-Muvakkat Madde 2 – Bu Nizamnamenin yürürlüğe girdiği tarihten önce yapılmış ve fakat muvakkat ruhsatnameye bağlanmamış imal ve kullanma ruhsatı taleplerinin tetkikinde; Ziraat Vekaletince yaptırılmış ve neticesi alınmış bulunan tahlil ve denemeler muteber sayılır. Diğer hususlarda Nizamname hükümleri aynen tatbik olunur.
+**Muvakkat Madde 2 –** Bu Nizamnamenin yürürlüğe girdiği tarihten önce yapılmış ve fakat muvakkat ruhsatnameye bağlanmamış imal ve kullanma ruhsatı taleplerinin tetkikinde; Ziraat Vekaletince yaptırılmış ve neticesi alınmış bulunan tahlil ve denemeler muteber sayılır. Diğer hususlarda Nizamname hükümleri aynen tatbik olunur.
 
-Muvakkat Madde 3 – 6968 sayılı kanunun mer'iyete girdiği tarihten bu Nizamnamenin mer'iyeti tarihine kadar verilmiş muvakkat ruhsatnameler, yeniden ücret alınmaksızın kati ruhsatnamelerle değiştirilir.
+**Muvakkat Madde 3 –** 6968 sayılı kanunun mer'iyete girdiği tarihten bu Nizamnamenin mer'iyeti tarihine kadar verilmiş muvakkat ruhsatnameler, yeniden ücret alınmaksızın kati ruhsatnamelerle değiştirilir.
 
 Muvakkat ruhsatnamelere mesnet olan muamele ve belgelerde işbu Nizamname hükümlerine gören oksanlar bulunduğu takdirde, ilgililerin Ziraat Vekaletince yapılacak tebligat tarihinden itibaren 3 ay içinde bu noksanları tamamlamaları şarttır. Aksi halde, muvakkat ruhsatnameler değiştirilmez ve hükümsüz sayılır.
 
-Muvakkat Madde 4 – İlaç imalci ve ithalcileri ile alet imalcileri ve ithalcileri veya kendi nam ve hesaplarına alet imal ettirmiş olanlar, bu Nizamnamenin mer'iyete girdiği tarihten itibaren bir ay zarfında ve Nizamnamenin 34 ve65 inci maddelerine göre müracaat etmekle mükelleftirler. Nizamname hükümleri dairesinde azami satış fiyatları tesbit ve tebliğ edilinceye kadar bu mevzuda evvelce yapılmış olan tebliğler dairesinde hareket edilir.
+**Muvakkat Madde 4 –** İlaç imalci ve ithalcileri ile alet imalcileri ve ithalcileri veya kendi nam ve hesaplarına alet imal ettirmiş olanlar, bu Nizamnamenin mer'iyete girdiği tarihten itibaren bir ay zarfında ve Nizamnamenin 34 ve65 inci maddelerine göre müracaat etmekle mükelleftirler. Nizamname hükümleri dairesinde azami satış fiyatları tesbit ve tebliğ edilinceye kadar bu mevzuda evvelce yapılmış olan tebliğler dairesinde hareket edilir.
 
-Muvakkat Madde 5 – Bu Nizamnamenin mer'iyete girdiği tarihte faaliyette bulunan ilaç ve alet fabrika ve imalathaneleri mer'iyet tarihinden itibaren bir ay içinde Ziraat Vekaletine müracaat ederek imal veya ihzar edecekleri ilaç ve aletlerin tip ve cinslerini bildirmeye ve işletme izni almaya mecburdurlar. İşletme izni isteyen fabrika ve imalathaneler, bu Nizamname hükümleri gözönünde bulundurularak Ziraat Vekaletince tetkike tabi tutulur. Uygun görülenlere işletme izni verilir.
+**Muvakkat Madde 5 –** Bu Nizamnamenin mer'iyete girdiği tarihte faaliyette bulunan ilaç ve alet fabrika ve imalathaneleri mer'iyet tarihinden itibaren bir ay içinde Ziraat Vekaletine müracaat ederek imal veya ihzar edecekleri ilaç ve aletlerin tip ve cinslerini bildirmeye ve işletme izni almaya mecburdurlar. İşletme izni isteyen fabrika ve imalathaneler, bu Nizamname hükümleri gözönünde bulundurularak Ziraat Vekaletince tetkike tabi tutulur. Uygun görülenlere işletme izni verilir.
 
 Tetkikat sonunda noksanları tesbit edilen fabrika ve imalathanelerin ilgililerine bu noksanlar tebliğ edilir.
 
@@ -549,9 +549,9 @@ Noksanların, mahiyet ve şumulüne göre Ziraat Vekaletince tesbit edilerek teb
 
 Noksanları müddetinde tamamlanmayan fabrika ve imalathaneler, noksanın mahiyet ve şumulüne göre ya büsbütün faaliyetten men edilir; yahut buralara ancak muayyen ilaç ve aletler için işletme izni verilir.
 
-Muvakkat Madde 6 – Bu Nizamnamenin mer'iyete girdiği tarihte kurulmakta olan fabrika ve imalathanelerin alakalıları mer'iyet tarihinden itibaren bir ay zarfında Ziraat Vekaletine bu Nizamnamenin 16 ve 56 ncı maddeleri dairesinde müracaatta bulunmağa ve kurma izni almağa mecburdurlar.
+**Muvakkat Madde 6 –** Bu Nizamnamenin mer'iyete girdiği tarihte kurulmakta olan fabrika ve imalathanelerin alakalıları mer'iyet tarihinden itibaren bir ay zarfında Ziraat Vekaletine bu Nizamnamenin 16 ve 56 ncı maddeleri dairesinde müracaatta bulunmağa ve kurma izni almağa mecburdurlar.
 
-Muvakkat Madde 7 – Bu Nizamnamenin mer'iyete girdiği tarihte ham madde, ilaç veya alet ithal, ihraç toptan yahut perakende satışı ile meşgul olanlar, Nizamnamenin mer'iyeti tarihinden itibaren bir ay içinde valiliklere müracaate derek 4 üncü maddede yazılı izin talebinde bulunurlar. İthalatcı, ihracatcı ve toptancıların izinleri Ziraat Vekaleti; perakendecilerin izinleri valilikler tarafından verilir.
+**Muvakkat Madde 7 –** Bu Nizamnamenin mer'iyete girdiği tarihte ham madde, ilaç veya alet ithal, ihraç toptan yahut perakende satışı ile meşgul olanlar, Nizamnamenin mer'iyeti tarihinden itibaren bir ay içinde valiliklere müracaate derek 4 üncü maddede yazılı izin talebinde bulunurlar. İthalatcı, ihracatcı ve toptancıların izinleri Ziraat Vekaleti; perakendecilerin izinleri valilikler tarafından verilir.
 
 **Madde 72 –** 6968 sayılı Zirai Mücadele ve Zirai Karantina Kanununun 40 ncı ve 64 ncü maddelerine göre tanzim ve Şürayı Devletçe tetkik edilmiş bulunan bu Nizamname hükümleri, Resmi Gazete ile neşri tarihinden itibaren mer'iyete girer.
 

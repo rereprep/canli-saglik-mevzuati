@@ -16,9 +16,9 @@ TL.
 
 SAĞLIK BAICANLIĞI
 
-~üye Holt NOS
+**~üye Holt NOS**
 
-KAPAOrsı Türkiye Halk Sağlığı Kurumu
+**<i>KAPAOrsı</i>** Türkiye Halk **Sağlığı** Kurumu
 
 Sayı : 62665021 /713.01
 
@@ -46,11 +46,11 @@ Bu kapsamda, DKD programında yeterli bulunarak. Legionella analiz yapma yetkisi
 
 Bilgilerini ve gereğini rica ederim.
 
-Dr.Kanıil TÜRKMEN
+**Dr.Kanıil TÜRKMEN**
 
-Bakan
+**Bakan**
 
-Kurum Başkan Yardımcısı
+**Kurum Başkan Yardımcısı**
 
 EK: Laboratuvar ve il dağılım Listesi (1 Sayfa)
 
@@ -62,9 +62,9 @@ Gereği:
 Bilgi:
 Bulaşıcı Hastalıklar Kontrol Programları (Halk Sağlığı Müdürlüğü)
 Başkan Yardımcılığına Mikrobiyoloji Referans Laboratuvarları Daire Başkanlığına
-Halk Sağlığı Laboratuvarları Daire Başkanlığı
+**Halk Sağlığı Laboratuvarları Daire Başkanlığı**
 
-Legionella Analizi Yapma Yetkisi Alan Halk Sağlığı Laboratuvarları m1-1 İstanbul-2 Istanbul-3 Ankara Antalya Bursa Diyarbakır Erzurum Kayseri Muğla İzmir Samsun
+**Legionella Analizi Yapma Yetkisi Alan Halk Sağlığı Laboratuvarları m1-1 İstanbul-2 Istanbul-3 Ankara Antalya Bursa Diyarbakır Erzurum Kayseri Muğla İzmir Samsun**
 
 Kocaeli Bartın Aksaray Burdur (cid:9) Yalova Şanhurfa Artvin Adana(cid:9) Muğla Afyonkarahisar Sinop
 

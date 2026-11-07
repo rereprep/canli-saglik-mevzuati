@@ -30,7 +30,7 @@ Bakanlığımızca, Ülkemizde göçmen sayısının ve yoğunluğunun yüksek o
 
 2) Göçmen Sağlığı Merkezlerinde, Türkiye’de mesleğini icra etmeye yetkili olan sağlık personeli tüm başvuranlara, mesleki yetki belgesi ile görev yapanlar ise sadece geçici koruma altındakilere sağlık hizmeti sunabilir.
 
-3) Göçmen Sağlığı Merkezleri ilin ihtiyacı ve Bakanlığının onayına istinaden, 5.02.2015 tarihli ve 29258 sayılı “Toplum Sağlığı Merkezleri ve Bağlı Birimler Yönetmeliği” nin Dördüncü Bölüm Bağlı Birimler başlıklı 38 inci maddesinin 1 inci fıkrası gereğince, toplum sağlığı merkezleri bünyesinde bağlı birim olarak açılır.
+3) Göçmen Sağlığı Merkezleri ilin ihtiyacı ve Bakanlığının onayına istinaden, 5.02.2015 tarihli ve 29258 sayılı <i>“Toplum Sağlığı Merkezleri ve Bağlı Birimler Yönetmeliği”</i> nin Dördüncü Bölüm Bağlı Birimler başlıklı 38 inci maddesinin 1 inci fıkrası gereğince, toplum sağlığı merkezleri bünyesinde bağlı birim olarak açılır.
 
 4) Göçmen sağlığı merkezlerinde çalışanlar, proje kapsamında 4857 Sayılı İş Kanunu çerçevesinde belirli süreli iş sözleşmesi ile istihdam edilebilir.
 

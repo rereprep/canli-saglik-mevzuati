@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-TIBBİ CİHAZ SATIŞ, REKLAM VE TANITIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TIBBİ CİHAZ SATIŞ, REKLAM VE TANITIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 15/5/2014 tarihli ve 29001 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinin ekinde yer alan Ek-3, ekteki şekilde değiştirilmiştir.
 

@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Tarihi:25.02.1998 Sayısı:752
 
-T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Dairesi Başkanlığı
+**T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Dairesi Başkanlığı**
 
 Sayı : B100İMİ0000012/ Konu :Kaybolan ve/veya çalınan malzemeler
 

@@ -18,19 +18,19 @@ durum: "yürürlükte"
 
 ### YARDIMLARA DAİR KANUN
 
-Kanun Numarası : 7269
+**Kanun Numarası : 7269**
 
-Kabul Tarihi : 15/5/1959
+**Kabul Tarihi : 15/5/1959**
 
-Yayımlandığı Resmî Gazete: Tarih: 25/5/1959 Sayı: 10213
+**Yayımlandığı Resmî Gazete: Tarih: 25/5/1959 Sayı: 10213**
 
-Yayımlandığı Düstur : Tertip: 3 Cilt: 40 Sayfa: 1046
+**Yayımlandığı Düstur : Tertip: 3 Cilt: 40 Sayfa: 1046**
 
 ### GENEL HÜKÜMLER [1]
 
 **Madde 1 –** (Değişik: 2/7/1968-1051/1 md.)
 
-(Değişik birinci fıkra: 27/12/1993-3956/1 md.) Deprem (Yer sarsıntısı), yangın, su baskını, yer kayması, kaya düşmesi, çığ,tasman ve benzeri afetlerde; yapıları ve kamu tesisleri genel hayata etkili olacak derecede zarar gören veya görmesi muhtemel olan yerlerde alınacak tedbirlerle yapılacak yardımlar hakkında bu kanun hükümleri uygulanır.
+**(Değişik birinci fıkra: 27/12/1993-3956/1 md.)** Deprem (Yer sarsıntısı), yangın, su baskını, yer kayması, kaya düşmesi, çığ,tasman ve benzeri afetlerde; yapıları ve kamu tesisleri genel hayata etkili olacak derecede zarar gören veya görmesi muhtemel olan yerlerde alınacak tedbirlerle yapılacak yardımlar hakkında bu kanun hükümleri uygulanır.
 
 Afete uğrıyan meskün yerlerin büyüklüğü o yerin tamamında veya bir kesiminde yıkılan, oturulmaz hale gelen bina sayısı, zarar gören yapı ve tesislerin genel hayata etki derecesi, mahallin ekonomik ve sosyal özellikleri, zararın kamu oyundaki tepkisi, normal hayat düzenindeki aksamalar ve benzeri hususlar gözönünde tutulmak suretiyle afetlerin genel hayata etkililiğine ilişkin temel kurallar, İçişleri ve Maliye Bakanlıklarının mütalaaları da alınarak İmar ve İskan Bakanlığınca hazırlanacak bir yönetmelikle belirtilir.
 
@@ -72,7 +72,7 @@ Ancak 7126 sayılı Sivil Müdafaa Kanununa göre teşkilat kurulan yerlerde aci
 
 **Madde 5 –** Birinci maddede yazılı afetlerden vatandaş hayatının ve milli servetin korunması maksadiyle lüzumlu tedbirleri araştırmak, ilgili vekalet ve müesseselerle iş birliği yaparak öğretim ve yayımlarda bulunmak, afetlerin neticelerini tahlil ederek umumun faydalanmasına sunmak üzere İmar ve İskan Vekaletine bağlı ve hükmi şahsiyeti haiz enstitü veya kurumlar kurulabilir.
 
-Mülkiye amirlerine verilen olağanüstü yetkiler:
+**Mülkiye amirlerine verilen olağanüstü yetkiler:**
 
 **Madde 6 –** (Değişik: 2/7/1968-1051/1 md.)
 
@@ -86,7 +86,7 @@ Bu madde gereğince yapılacak harcamalar ve ödemeler borçlandırmaya tabi tut
 
 Kendilerinden yardım istenilen afet bölgesi civarındaki vali ve kaymakamlar yukarıdaki fıkralarda yazılı yetkilerini kullanarak bütün imkan ve vasıtalarla yardıma mecburdurlar.
 
-Mükellefiyetler:
+**Mükellefiyetler:**
 
 **Madde 7 –** Afet bölgelerinde veya civarında bulunan ordu, jandarma, kıta birlik ve müessese kumandanları, hazarda, kendilerinden vali veya kaymakamlar tarafından istenilecek yardımları üstlerinden emir beklemeksizin yapmıya mecburdurlar.
 
@@ -104,7 +104,7 @@ Afetlerin vukuunu ihbar veya yardım talepleri için yapılacak telgraf, telefon
 
 Resmi hastane ve tedavi evlerinde bulunanlara parasız bakılır. Resmi hastane ve tedavi evlerinde yer olmaması veya tedavi imkanı bulunmaması gibi sebeplerle zaruri olarak hususi hastanelerde yapılan tedavi ücretleri sonradan bu kanun mucibince ödenir.
 
-(Ek üçüncü fıkra: 29/9/1999-KHK-578/5 md.; Mülga fıkra: 31/5/2006-5510/106 md.)
+**(Ek üçüncü fıkra: 29/9/1999-KHK-578/5 md.; Mülga fıkra: 31/5/2006-5510/106 md.)**
 
 #### (Ek dördüncü fıkra: 29/9/1999-KHK-578/5 md.; Mülga fıkra: 31/5/2006-5510/106 md.)
 
@@ -112,7 +112,7 @@ Resmi hastane ve tedavi evlerinde bulunanlara parasız bakılır. Resmi hastane 
 
 Zıyaa uğrıyanlarla tamiri imkansız olanların bedeli rayiç üzerinden bilahara müstehiklerine ödenir.
 
-Tazminat, ikramiye ve avans:
+**Tazminat, ikramiye ve avans:**
 
 **Madde 12 –** a) Bu kanun mucibince kendilerine vazife verilmiş olanlardan memur bulunmıyanların vazifelerinin ifası sırasında vukubulan kazalarda ölenlerin mirascılarına veya malül kalanlara ödenecak tazminat,
 
@@ -120,23 +120,23 @@ b) Afetler dolayısiyle memur olan ve olmıyanlardan fevkalade yararlık göster
 
 c) Afete maruz kalan bölgelerde Umumi Muvazeneden, mülhak bütçeli idarelerden, hususi idare ve belediyelerden, 2847 ve 3659 sayılı kanuna tabi müesseselerden maaş ve ücret alan memur ve müstahdemlerle emekli, dul ve yetimlerden yardıma muhtaç olacak derecede malen veya bedenen ehemmiyetli zarara uğrıyanlara üç aylık istihkaklarını geçmemek üzere verilebilecek avansla bu avansların ne suretle istirdat edileceği ve vefat edenlere ait avansların kısmen veya tamamen geri alınıp alınamıyacağı ve diğer hususlara dair esaslar Cumhurbaşkanınca belirlenir.[4]
 
-Afet bölgelerinde yapılacak teknik işler:
+**Afet bölgelerinde yapılacak teknik işler:**
 
 **Madde 13 –** (Değişik: 2/7/1968-1051/1 md.)
 
 a) Yapılacak işlemlere esas olmak üzere İmar ve İskan Bakanlığınca kurulacak fen kurulları tarafından, afetin meydana geldiği arazinin durumu ile bütün yapılar ve kamu tesisleri incelenerek, hasar tespit raporu düzenlenir.
 
-(Değişik: 31/8/1999-KHK-574/1 md.) Gereken hallerde, yapılarda meydana gelen hasarı tespit etmek üzere Bayındırlık ve İskan Bakanlığının isteği üzerine diğer bakanlık, kurum ve kuruluşlar, mahalli idareler, üniversiteler ve meslek odaları, konusunda deneyimli yeteri kadar inşaat mühendisi ve/veya mimarı hasar tespiti çalışmalarında derhal görevlendirmekle yükümlüdürler.
+**(Değişik: 31/8/1999-KHK-574/1 md.)** Gereken hallerde, yapılarda meydana gelen hasarı tespit etmek üzere Bayındırlık ve İskan Bakanlığının isteği üzerine diğer bakanlık, kurum ve kuruluşlar, mahalli idareler, üniversiteler ve meslek odaları, konusunda deneyimli yeteri kadar inşaat mühendisi ve/veya mimarı hasar tespiti çalışmalarında derhal görevlendirmekle yükümlüdürler.
 
-(Değişik: 31/8/1999-KHK-574/1 md.) Arazinin tehlikeli durumu ve binaların gördüğü hasar bakımından yıktırılması ve boşaltılması gerekenler hakkında, o il ve ilçenin en büyük mülkiye amirine ayrı bir rapor verilir. Bu makamlarca böyle binalar derhal boşalttırılır. Yıkılması gerekenler için en çok 3 gün süre verilerek tehlikenin giderilmesi sahiplerine bildirilir. Mahallinde sahibi bulunmadığı takdirde durum, mahalli vasıtalarla ilan edilmek suretiyle, bildiri yapılmış sayılır.
+**(Değişik: 31/8/1999-KHK-574/1 md.)** Arazinin tehlikeli durumu ve binaların gördüğü hasar bakımından yıktırılması ve boşaltılması gerekenler hakkında, o il ve ilçenin en büyük mülkiye amirine ayrı bir rapor verilir. Bu makamlarca böyle binalar derhal boşalttırılır. Yıkılması gerekenler için en çok 3 gün süre verilerek tehlikenin giderilmesi sahiplerine bildirilir. Mahallinde sahibi bulunmadığı takdirde durum, mahalli vasıtalarla ilan edilmek suretiyle, bildiri yapılmış sayılır.
 
-(Değişik: 31/8/1999-KHK-574/1 md.) Mal sahibi veya vekili, bu bildiriye karşı 3 gün içinde yetkili idare kurullarına itiraz edebilir. İdare kurulları bu itirazı en geç 3 gün içinde inceler ve karara bağlar.
+**(Değişik: 31/8/1999-KHK-574/1 md.)** Mal sahibi veya vekili, bu bildiriye karşı 3 gün içinde yetkili idare kurullarına itiraz edebilir. İdare kurulları bu itirazı en geç 3 gün içinde inceler ve karara bağlar.
 
 Süresinde itiraz olunmıyan, yahut itiraz olunup da idare kurullarınca yıkılması onaylanan binaları mal sahibi yıkmadığı takdirde bu binalara el konularak yıkma parası yıkıntıdan elde edilecek malzeme bedelinden ödenmek üzere, mahallin en büyük mülkiye amirinin emri ile yıktırılır.
 
-(Ek fıkra: 29/5/2003-4864/1 md.) Yapılacak asıl işlemlere esas olmak üzere, fen kurulları tarafından düzenlenen teknik mahiyetteki hasar tespit raporlarına mahallî ilân tarihinden itibaren otuz gün içinde itiraz edilebilir (…)[5] Gayrimenkulleri kesin bir şekilde hasarsız olarak tespit edilenlerin veya gayrimenkullerinin hasar tespiti hiç yapılmayanların, yargı yoluna gitmeden önce, mahallî ilân tarihinden itibaren otuz gün içinde ilgili idareye başvurmaları zorunludur.
+**(Ek fıkra: 29/5/2003-4864/1 md.)** Yapılacak asıl işlemlere esas olmak üzere, fen kurulları tarafından düzenlenen teknik mahiyetteki hasar tespit raporlarına mahallî ilân tarihinden itibaren otuz gün içinde itiraz edilebilir (…)[5] Gayrimenkulleri kesin bir şekilde hasarsız olarak tespit edilenlerin veya gayrimenkullerinin hasar tespiti hiç yapılmayanların, yargı yoluna gitmeden önce, mahallî ilân tarihinden itibaren otuz gün içinde ilgili idareye başvurmaları zorunludur.
 
-b) (Değişik: 31/8/1999-KHK-574/1 md.) Hasar görmüş, fakat ıslahı mümkün olan binaların fen kurullarının göstereceği şartlara göre tamiri yapılıncaya kadar içine girilmesine ve oturulmasına izin verilemez. Bu binalar 1 yıl içinde tamir ettirilmediği ve itiraz da olmadığı takdirde yukarıdaki esaslar dahilinde yıktırılır.
+b) **(Değişik: 31/8/1999-KHK-574/1 md.)** Hasar görmüş, fakat ıslahı mümkün olan binaların fen kurullarının göstereceği şartlara göre tamiri yapılıncaya kadar içine girilmesine ve oturulmasına izin verilemez. Bu binalar 1 yıl içinde tamir ettirilmediği ve itiraz da olmadığı takdirde yukarıdaki esaslar dahilinde yıktırılır.
 
 İtiraz halinde, bu itiraz yukarıdaki mahalli idare kurullarınca 5 gün içinde incelenir ve karara bağlanır. İtiraz sebepleri yerinde görüldüğü takdirde süre 6 ay daha uzatılır.
 
@@ -174,7 +174,7 @@ Bu planlar yapılıncaya kadar gelecekteki planlara göre esaslı inşaat yaptı
 
 Yukarıda yazılı hallerde veya yerinin değiştirilmesi gereken şehir ve kasabalarda ilgililerin afetten masun yerlerde gösterilecek arsalar üzerinde, ilk barınma tedbiri olarak geçici baraka inşaasına izin verilebilir. Bu türlü geçici inşaatın, imar planı olan yerlerde, afetin vukuundan; imar planı olmıyan veya değiştirilen veya yerleri değiştirilecek olan şehir ve kasabalarda, yeni planların onanmasından itibaren bir yıl içinde sahipleri tarafından yıkılması mecburidir. Aksi halde masrafları yıkıntı bedelinden ödenmek üzere mahallin en büyük mülkiye amirinin emri ile belediyelerce yıktırılır. Bu bir yıllık süre zaruret halinde ilgili valiliğin teklifi üzerine İmar ve İskan Bakanlığınca gerektiği kadar uzatılabilir.
 
-Afet Bölgelerindeki bir topluluğun kaldırılarak başka yerlere taşınması:
+**Afet Bölgelerindeki bir topluluğun kaldırılarak başka yerlere taşınması:**
 
 **Madde 16 –** (Değişik: 2/7/1968-1051/1 md.) [6]
 
@@ -184,7 +184,7 @@ Ancak bu toplu nakiller aynı belediye ve köy sınırları içinde ise Cumhurba
 
 Taşınma yeri afet bölgesinin bulunduğu il sınırları dışında tespit edildiği takdirde, afetzedelerin taşınması ile ilgili giderler İmar ve İskan Bakanlığınca afetler fonundan karşılanır.
 
-Kıymet takdiri, parselleme ve dağıtma:
+**Kıymet takdiri, parselleme ve dağıtma:**
 
 **Madde 17 –** (Değişik: 2/7/1968-1051/1 md.)
 
@@ -256,7 +256,7 @@ Kıymet belgelerindeki bedellerin fazla olması halinde aradaki fark sahiplerine
 
 **Madde 28 –** (Değişik: 2/7/1968-1051/1 md.)
 
-(Değişik birinci fıkra: 29/5/2003-4864/2 md.) Bu Kanundan faydalanmak suretiyle inşaat kredisi verilmesini ya da bina yaptırılmasını isteyenlerin, Bayındırlık ve İskân Bakanlığınca yapılacak yardıma ilişkin olarak mahallî ilân tarihinden itibaren iki ay içinde mahallin en büyük mülkî amirine yazılı başvuruda bulunmaları ve taahhütname vermeleri zorunludur. Bayındırlık ve İskân Bakanlığı bu süreyi bir ay uzatmaya yetkilidir. Bu müracaatın yapılmasında ve alınmasında hasar tespit raporlarında yer alan hasar oranlarına bakılmaz.
+**(Değişik birinci fıkra: 29/5/2003-4864/2 md.)** Bu Kanundan faydalanmak suretiyle inşaat kredisi verilmesini ya da bina yaptırılmasını isteyenlerin, Bayındırlık ve İskân Bakanlığınca yapılacak yardıma ilişkin olarak mahallî ilân tarihinden itibaren iki ay içinde mahallin en büyük mülkî amirine yazılı başvuruda bulunmaları ve taahhütname vermeleri zorunludur. Bayındırlık ve İskân Bakanlığı bu süreyi bir ay uzatmaya yetkilidir. Bu müracaatın yapılmasında ve alınmasında hasar tespit raporlarında yer alan hasar oranlarına bakılmaz.
 
 Kamulaştırma sahasındaki bina sahipleri için bu süre kamulaştırma kararının kendilerine bildirilmesi veya ilan tarihinden itibaren hesaplanır.
 
@@ -278,9 +278,9 @@ Yıkık olduğu veya ağır, orta ve az derecede hasar gördüğü belirlenen bi
 
 Afete uğramasıyla ekonomik ve sosyal hayatı kesintiye uğratan dükkan ve fırın gibi binalar için de sahiplerine, borçlandırma hükümleri dairesinde, Bayındırlık ve İskan Bakanlığı'nca belirlenecek esaslara göre inşaat kredisi verilebilir. O yerde kendisine veya eşine ait müstakil hasarsız başka bir işyeri bulunanlar, bu yardımdan faydalanamazlar.
 
-(Değişik son fıkra: 29/5/2003-4864/3 md.) Hasarlı bina veya işyeri sigortalı ise yapılacak yardımdan sigorta tutarı indirilmez.
+**(Değişik son fıkra: 29/5/2003-4864/3 md.)** Hasarlı bina veya işyeri sigortalı ise yapılacak yardımdan sigorta tutarı indirilmez.
 
-(Ek fıkra: 9/5/2012-6305/16 md.) Zorunlu deprem sigortası kapsamındaki binalar için, bu Kanundan ve ilgili diğer mevzuattan doğan Devletin konut kredisi açma ve bina yaptırma yükümlülükleri, zorunlu deprem sigortası yaptırılmamış olmasının tespit edilmesiyle birlikte ortadan kalkar.
+**(Ek fıkra: 9/5/2012-6305/16 md.)** Zorunlu deprem sigortası kapsamındaki binalar için, bu Kanundan ve ilgili diğer mevzuattan doğan Devletin konut kredisi açma ve bina yaptırma yükümlülükleri, zorunlu deprem sigortası yaptırılmamış olmasının tespit edilmesiyle birlikte ortadan kalkar.
 
 **Madde 30 –** (Değişik: 2/7/1968-1051/1 md.)
 
@@ -300,7 +300,7 @@ Valiliklerince tespit ve Bayındırlık ve İskan Bakanlığınca onaylanacak ra
 
 Türlü sebeplerle artakalan arazi, arsa veya binaların satış veya devredilmesine, satılamayanların veya devredilemeyenlerin kiralanmasına dair esaslar Bayındırlık ve İskan Bakanlığınca hazırlanacak yönetmelikle belirlenir.
 
-(Ek son fıkra: 29/5/2003-4864/4 md.) Birinci fıkrada belirtilen bina, arsa ve araziler, Cumhurbaşkanı kararı ile kamu kurum ve kuruluşlarına bedelsiz olarak devredilebilir.[10]
+**(Ek son fıkra: 29/5/2003-4864/4 md.)** Birinci fıkrada belirtilen bina, arsa ve araziler, Cumhurbaşkanı kararı ile kamu kurum ve kuruluşlarına bedelsiz olarak devredilebilir.[10]
 
 **Madde 32 –** Bu kanun dairesinde inşa edilen binaların 1837 sayılı kanunun muaddel 4 üncü ve 6188 sayılı kanunun 13 üncü maddelerindeki muafiyetten istifade edebilmesi için bu maddeler mucibince verilmesi meşrut olan beyannameler, binaların hak sahiplerine teslimi tarihinden itibaren üç ay içerisinde verilir.
 
@@ -358,7 +358,7 @@ f) Afete uğrayanlara veya uğraması muhtemel olanlara inşaat ve onarım için
 
 **Madde 40 –** (Değişik: 2/7/1968-1051/1 md.)
 
-(Değişik fıkra: 4/4/1985-3177/1 md.) Bu Kanuna göre arsa olarak dağıtılan veya üzerinde bina inşa edilen taşınmaz mallar, hak sahiplerine borçlandırma senetleri imza ettirilmek sureti ile verilir. Bayındırlık ve İskan Bakanlığınca o yerde borçlandırmanın ilanı tarihinden itibaren Bakanlıkça kabul edilebilir mazereti dışında 2 ay içerisinde borçlanmalarını yapmayanlarla, borçlanmasını yapmış olmasına rağmen binayı Bakanlıkça mahallinde yaptırılacak duyurudan itibaren 45 gün içinde teslim almayanların hak sahipliği kendiliğinden sona erer.
+**(Değişik fıkra: 4/4/1985-3177/1 md.)** Bu Kanuna göre arsa olarak dağıtılan veya üzerinde bina inşa edilen taşınmaz mallar, hak sahiplerine borçlandırma senetleri imza ettirilmek sureti ile verilir. Bayındırlık ve İskan Bakanlığınca o yerde borçlandırmanın ilanı tarihinden itibaren Bakanlıkça kabul edilebilir mazereti dışında 2 ay içerisinde borçlanmalarını yapmayanlarla, borçlanmasını yapmış olmasına rağmen binayı Bakanlıkça mahallinde yaptırılacak duyurudan itibaren 45 gün içinde teslim almayanların hak sahipliği kendiliğinden sona erer.
 
 Bu taşınmaz mallar üzerine, Türkiye Emlak Kredi Bankasının isteği ile, bu banka lehine, tapu dairelerince borçlandırma senetlerine dayanılarak, kanuni ipotek tesis olunur.
 
@@ -368,13 +368,13 @@ Borçluların hesaplarına tahakkuk ettirilecek faizler, banka ve sigorta işlem
 
 Borçlandırma bedelleri, konut, konut inşası, arsa ve sair yardımlarda en az 20 ve en çok 30; dükkan ve fırın gibi yerler için yapılan yardımlarda ise,en az 5 ve on çok 15 yılda ve eşit taksitler halinde tahsil edilerek fon hesabına yatırılır.
 
-(Değişik altıncı fıkra: 30/3/2005-5327/4 md.) İlk taksit, ihaleli ve emanet işlerinde inşaatların bitirilip hak sahiplerine teslimi tarihinden itibaren iki yıl sonra, Evini Yapana Yardım Yönteminde ve orta hasarlı konut ve işyerlerinin onarımında ise son kredi diliminin hak sahibine ödendiği tarihten itibaren iki yıl sonra başlar.
+**(Değişik altıncı fıkra: 30/3/2005-5327/4 md.)** İlk taksit, ihaleli ve emanet işlerinde inşaatların bitirilip hak sahiplerine teslimi tarihinden itibaren iki yıl sonra, Evini Yapana Yardım Yönteminde ve orta hasarlı konut ve işyerlerinin onarımında ise son kredi diliminin hak sahibine ödendiği tarihten itibaren iki yıl sonra başlar.
 
-( Değişik yedinci fıkra: 31/5/2006-5511/1 md.) Vadesinde ödenmeyen taksitlere dair borç, gecikilen her gün için yıllık % 5 gecikme faizi ile tahsil olunur. Vadesinden önce iki yıllık taksitten az olmamak kaydı ile mevcut borcu defaten ödeyen hak sahibinin borcu % 20 indirime tâbi tutulur.
+( **Değişik yedinci fıkra: 31/5/2006-5511/1 md.)** Vadesinde ödenmeyen taksitlere dair borç, gecikilen her gün için yıllık % 5 gecikme faizi ile tahsil olunur. Vadesinden önce iki yıllık taksitten az olmamak kaydı ile mevcut borcu defaten ödeyen hak sahibinin borcu % 20 indirime tâbi tutulur.
 
-(Ek fıkra: 31/5/2006-5511/1 md.) Evini yapana yardım yöntemi ile konut veya işyerinin yapımı için yatırım programında yılı ödeneği ayrılan hak sahiplerinden, 29 uncu maddeye göre yürürlüğe konulan yönetmelikte belirtilen mücbir sebeplerin dışında mazereti olmadan iki yıl içinde konut veya işyerlerinin inşaatına başlamayanlar ile mücbir sebep kapsamında mazereti bulunanlardan mücbir sebebin ortadan kalktığı tarihten itibaren kırkbeş gün içinde inşaatına başlamayanların veya ayrılan ödeneğinin bir kısmını kullandıktan sonra inşaatına devam etmeyen hak sahiplerinin, konutlarının veya işyerlerinin yapımı yatırım programından çıkarılır ve hak sahipliği kendiliğinden sona erer.
+**(Ek fıkra: 31/5/2006-5511/1 md.)** Evini yapana yardım yöntemi ile konut veya işyerinin yapımı için yatırım programında yılı ödeneği ayrılan hak sahiplerinden, 29 uncu maddeye göre yürürlüğe konulan yönetmelikte belirtilen mücbir sebeplerin dışında mazereti olmadan iki yıl içinde konut veya işyerlerinin inşaatına başlamayanlar ile mücbir sebep kapsamında mazereti bulunanlardan mücbir sebebin ortadan kalktığı tarihten itibaren kırkbeş gün içinde inşaatına başlamayanların veya ayrılan ödeneğinin bir kısmını kullandıktan sonra inşaatına devam etmeyen hak sahiplerinin, konutlarının veya işyerlerinin yapımı yatırım programından çıkarılır ve hak sahipliği kendiliğinden sona erer.
 
-(Ek fıkra: 31/5/2006-5511/1 md.) Yılı ödeneği ayrılan hak sahiplerinden kendilerine açılan kredinin bir kısmını kullanıp inşaatın geri kalan kısmını kendi imkânları ile projesine uygun olmak kaydıyla fen ve sanat kurallarına uygun olarak tamamlayan hak sahiplerinden, açılan kredinin;
+**(Ek fıkra: 31/5/2006-5511/1 md.)** Yılı ödeneği ayrılan hak sahiplerinden kendilerine açılan kredinin bir kısmını kullanıp inşaatın geri kalan kısmını kendi imkânları ile projesine uygun olmak kaydıyla fen ve sanat kurallarına uygun olarak tamamlayan hak sahiplerinden, açılan kredinin;
 
 a) % 20'sine kadarını kullanmış olanların kredileri defaten faizsiz olarak,
 
@@ -382,7 +382,7 @@ b) % 20'lik dilimden fazlasını kullanmış olanların kredileri ilk iki yılı
 
 tahsil edilir. Vadesinde ödenmeyen taksitlerden geçen günler için yıllık % 5 gecikme faizi tahsil olunur.
 
-(Ek fıkra: 31/5/2006-5511/1 md.) Yılı ödeneği ayrılmasına rağmen mücbir sebep bulunmadığı halde iki yıl içinde inşaatına devam etmeyen hak sahiplerinden, açılan kredinin;
+**(Ek fıkra: 31/5/2006-5511/1 md.)** Yılı ödeneği ayrılmasına rağmen mücbir sebep bulunmadığı halde iki yıl içinde inşaatına devam etmeyen hak sahiplerinden, açılan kredinin;
 
 a) % 35'ine kadarını kullanmış olanların kredileri defaten ve yıllık % 5 faizli olarak,
 
@@ -440,7 +440,7 @@ Afetlerden zarar görenlere tahsis edilmek üzere tertip edilen temsil,konser ve
 
 **Madde 46 –** 33 üncü maddede yazılı afet tertiplerinden yapılacak sarfiyat Artırma, Eksiltme ve İhale, Divanı Muhasebat ve Muhasebei Umumiye kanunlarına tabi değildir.[16][17]
 
-Ceza hükümleri:
+**Ceza hükümleri:**
 
 **Madde 47 –** (Değişik: 23/1/2008-5728/257 md.)
 
@@ -454,7 +454,7 @@ c) Devlet veya devlete bağlı idarelerle sermayesinin en az yarısı devlete ai
 
 **Madde 49 –** (Mülga: 23/1/2002-5728/578 md.)
 
-Çeşitli hükümler:
+**Çeşitli hükümler:**
 
 **Madde 50 –** Bu kanunda yazılı vazife ve hizmetlere tahsis edilmiş olan menkul ve gayrimenkul mallarla her türlü hak ve alacaklar, para ve para hükmündeki kıymetli evrak Devlet mallarından sayılır.
 
@@ -492,9 +492,9 @@ Bu madde hükmü her bina için bir defa uygulanır.
 
 İmar ve İskan Bakanlığı, afet hizmetlerini süratle ele almak, düzeninde yürütmek ve sonuçlandırmak üzere, gerekli teşkilatı kurar; bu teşkilatın merkez, bölge ve mahalli kademe ve üniteleri bu Bakanlıkça tespit olunur.
 
-(Mülga ikinci fıkra: 20/6/2001-4684/6 md.)
+**(Mülga ikinci fıkra: 20/6/2001-4684/6 md.)**
 
-(Mülga üçüncü fıkra: 20/6/2001-4684/6 md.)
+**(Mülga üçüncü fıkra: 20/6/2001-4684/6 md.)**
 
 Afet hizmetlerinin yoğunlaştığı ve şümullendiği hallerde, ilgili Bakanlıklar ve kurumlar, İmar ve İskan Bakanının isteği üzerine, yeteri kadar teknik ve idari personeli, hizmet için lüzumlu araç, gereç ve malzemeyi ve bunların kullanılması ve tamiri ile ilgili ekipmanı, geçici olarak, bu teşkilat emrine vermekle yükümlüdürler. Geçici personelin maaş, ücret, yevmiye ve benzer hakları esas dairelerince ödenir.
 
@@ -514,13 +514,13 @@ Afet hizmetlerinin yoğunlaştığı ve şümullendiği hallerde, ilgili Bakanl�
 
 **Ek Madde 10 –** (Ek: 15/10/1999-KHK-581/1 md.; Değişik: 8/12/1999-KHK-589/4 md.)
 
-(Değişik birinci fıkra: 23/3/2000-KHK-598/1 md.) Orman Bakanlığınca, bilim ve fen bakımından orman olarak muhafazasında hiçbir yarar görülmeyen ve tarım alanına dönüştürülmesi de mümkün olmayan orman sınırları dışına çıkarılmış ve çıkarılacak alanlar, genel hayatı etkileyen doğal afet yerlerinde afete maruz kalan kamu kurum ve kuruluşları ile diğer afetzedelerin iskanlarını temin için Bayındırlık ve İskan Bakanlığına devredilebilir. Devredilen bu yerler üzerinde 2924 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanun hükümlerine göre hak sahibi statüsünde kişiler bulunması halinde bu hak sahiplerine ait yerler. Bayındırlık ve İskan Bakanlığınca bedeli Afetler Fonundan karşılanmak üzere kamulaştırılabilir.
+**(Değişik birinci fıkra: 23/3/2000-KHK-598/1 md.)** Orman Bakanlığınca, bilim ve fen bakımından orman olarak muhafazasında hiçbir yarar görülmeyen ve tarım alanına dönüştürülmesi de mümkün olmayan orman sınırları dışına çıkarılmış ve çıkarılacak alanlar, genel hayatı etkileyen doğal afet yerlerinde afete maruz kalan kamu kurum ve kuruluşları ile diğer afetzedelerin iskanlarını temin için Bayındırlık ve İskan Bakanlığına devredilebilir. Devredilen bu yerler üzerinde 2924 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanun hükümlerine göre hak sahibi statüsünde kişiler bulunması halinde bu hak sahiplerine ait yerler. Bayındırlık ve İskan Bakanlığınca bedeli Afetler Fonundan karşılanmak üzere kamulaştırılabilir.
 
-(Ek fıkra: 23/3/2000-KHK-598/1 md.) Genel hayatı etkileyen afete maruz yerlerde afetzedelerin iskanı için Cumhurbaşkanlığınca görevlendirilen bir kurum veya kuruluşun veya Bayındırlık ve İskan Bakanlığının teklifi üzerine Orman Bakanlığınca belirlenen alanlarda, 3402 sayılı Kadastro Kanununun 22 nci maddesinin kadastrosu yapılmış olan yerlerin ikinci defa kadastroya tabi tutulamayacağına ilişkin hükmü uygulanmaz.[20]
+**(Ek fıkra: 23/3/2000-KHK-598/1 md.)** Genel hayatı etkileyen afete maruz yerlerde afetzedelerin iskanı için Cumhurbaşkanlığınca görevlendirilen bir kurum veya kuruluşun veya Bayındırlık ve İskan Bakanlığının teklifi üzerine Orman Bakanlığınca belirlenen alanlarda, 3402 sayılı Kadastro Kanununun 22 nci maddesinin kadastrosu yapılmış olan yerlerin ikinci defa kadastroya tabi tutulamayacağına ilişkin hükmü uygulanmaz.[20]
 
-(Ek fıkra: 23/3/2000-KHK-598/1 md.) Birinci fıkraya göre Bayındırlık ve İskan Bakanlığına devredilecek alanların tespiti amacıyla Orman Bakanlığınca yeteri kadar orman kadastro komisyonu görevlendirilir ve bu tespit sırasında ilan süresi bir hafta, itiraz süresi bir ay olarak uygulanır.
+**(Ek fıkra: 23/3/2000-KHK-598/1 md.)** Birinci fıkraya göre Bayındırlık ve İskan Bakanlığına devredilecek alanların tespiti amacıyla Orman Bakanlığınca yeteri kadar orman kadastro komisyonu görevlendirilir ve bu tespit sırasında ilan süresi bir hafta, itiraz süresi bir ay olarak uygulanır.
 
-(Ek fıkra: 23/3/2000-KHK-598/1 md.) 6831 sayılı Kanunun 1 inci maddesine göre ilk defa yapılacak orman kadastrosu uygulamasındaki işlemlere ilişkin sürelerde de üçüncü fıkra hükümleri uygulanır.
+**(Ek fıkra: 23/3/2000-KHK-598/1 md.)** 6831 sayılı Kanunun 1 inci maddesine göre ilk defa yapılacak orman kadastrosu uygulamasındaki işlemlere ilişkin sürelerde de üçüncü fıkra hükümleri uygulanır.
 
 6831 sayılı Orman Kanununun 17 nci maddesinin üçüncü fıkrası hükümlerine göre, Devlet ormanları, kamu yararı gözetilerek afet bölgesinde bulunan kamu kurum ve kuruluşları ile doğal afete maruz kalan afetzedelerin iskanının temini için Bayındırlık ve İskan Bakanlığına 49 yıl süre ile bedelsiz olarak tahsis edilebilir.
 
@@ -614,7 +614,7 @@ Valiliklerce yapılacak satış işleminde fazla müracaat halinde gerektiğinde
 
 Ancak, Milli Savunma Bakanlığının inşaat, milli ve Nato altyapı hizmetleri ile Ulaştırma Bakanlığına bağlı genel müdürlüklere kanunlar ile yapım yetkisi verilmiş olan özel ihtisas işleri birinci fıkra hükmüne tabi değildir.
 
-(Değişik: 1/5/2000-KHK-599/1 md.) Gerçek ve tüzel kişiler, deprem bölgesindeki konut ve işyeri ihtiyacını karşılamak ve hibe edilmek üzere Bayındırlık ve İskan Bakanlığınca gösterilecek yerlerde ve bu Bakanlıkça belirlenecek tip projelere uygun konut yapabilir veya yaptırabilir. Ayrıca, gerçek ve tüzel kişiler deprem bölgesinde okul, hastane, sağlık ocağı ve benzeri sosyal alt yapı ihtiyacını karşılamak ve hibe edilmek üzere ilgili bakanlık ile Bayındırlık ve İskan Bakanlığınca gösterilecek ve onaylanacak projelere uygun olarak yapı yapabilir veya yaptırabilirler.
+**(Değişik: 1/5/2000-KHK-599/1 md.)** Gerçek ve tüzel kişiler, deprem bölgesindeki konut ve işyeri ihtiyacını karşılamak ve hibe edilmek üzere Bayındırlık ve İskan Bakanlığınca gösterilecek yerlerde ve bu Bakanlıkça belirlenecek tip projelere uygun konut yapabilir veya yaptırabilir. Ayrıca, gerçek ve tüzel kişiler deprem bölgesinde okul, hastane, sağlık ocağı ve benzeri sosyal alt yapı ihtiyacını karşılamak ve hibe edilmek üzere ilgili bakanlık ile Bayındırlık ve İskan Bakanlığınca gösterilecek ve onaylanacak projelere uygun olarak yapı yapabilir veya yaptırabilirler.
 
 Bu kapsamda yapılacak işler ile 1999 yılı yatırım programı gereğince afet bölgesinde yapılacak işler; 1050 sayılı Muhasebei Umumiye Kanununa, 2886 sayılı Devlet İhale Kanununa, 832 sayılı Sayıştay Kanununun vize ve tescil hükümlerine ve 3194 sayılı İmar Kanununun plan ve parselasyon ile ilgili işlemlerindeki askı, ilan, itirazlara dair sürelere ilişkin hükümlerine tabi değildir.[23]
 
@@ -682,7 +682,7 @@ Yönetim kurulu üyeleri, bu Kanun Hükmünde Kararnameye göre yapılacak iş v
 
 **Geçici Madde 23 –** (Ek: 4/7/2012-6353/2 md.) [26]
 
-17 Ağustos 1999 ve 12 Kasım 1999 tarihlerinde meydana gelen depremler sonucunda işyerlerinin ağır hasar görmesi nedeniyle bireysel borçlanmada bulunmuş veya bulunmamış hak sahiplerinden üst üste üç taksidini ödememiş olanların veya taksitlerini ödemekle birlikte kendi istekleriyle hak sahipliğinden vazgeçtiklerini bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içerisinde yazılı olarak beyan edenlerin hak sahipliği, il idare kurulu kararıyla düşürülür ve bu iş yerleri tapu sicilinde Hazine adına tescil edilir . Hak sahipliği düşürülenlerden tazminat alınmaz. Hak sahipliğinin düşürüldüğü tarihe kadar hak sahipleri tarafından ödenen tutar, Afet ve Acil Durum Yönetimi Başkanlığı tarafından kanuni faizi ile birlikte hak sahibine geri ödenir. (Mülga son cümle: 20/2/2014-6525/3 md.) (…)
+17 Ağustos 1999 ve 12 Kasım 1999 tarihlerinde meydana gelen depremler sonucunda işyerlerinin ağır hasar görmesi nedeniyle bireysel borçlanmada bulunmuş veya bulunmamış hak sahiplerinden üst üste üç taksidini ödememiş olanların veya taksitlerini ödemekle birlikte kendi istekleriyle hak sahipliğinden vazgeçtiklerini bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içerisinde yazılı olarak beyan edenlerin hak sahipliği, il idare kurulu kararıyla düşürülür ve bu iş yerleri tapu sicilinde Hazine adına tescil edilir . Hak sahipliği düşürülenlerden tazminat alınmaz. Hak sahipliğinin düşürüldüğü tarihe kadar hak sahipleri tarafından ödenen tutar, Afet ve Acil Durum Yönetimi Başkanlığı tarafından kanuni faizi ile birlikte hak sahibine geri ödenir. **(Mülga son cümle: 20/2/2014-6525/3 md.) (…)**
 
 **Geçici Madde 24 –** (Ek: 10/9/2014-6552/91 md.)
 
@@ -694,7 +694,7 @@ Birinci fıkraya göre edinilen taşınmazların üzerine yapılan konutlar, ad�
 
 Bursa İli Gemlik İlçesinde deprem tehlikesi altında bulunan yapıların dönüştürülebilmesi ve yeni yerleşim yerlerinin belirlenmesi için orman olarak muhafazasında bilim ve fen bakımından hiçbir yarar görülmeyen ve tarım alanına da dönüştürülmesi mümkün olmayan yerlerden, sınırları Cumhurbaşkanınca belirlenen alanlar, Orman Genel Müdürlüğünce orman sınırları dışına çıkarılarak tapuda Hazine adına resen tescil edilir. Bu alanlar Çevre ve Şehircilik Bakanlığının tasarrufuna geçer. Bu alanlarda 21/6/1987 tarihli ve 3402 sayılı Kadastro Kanununun 22 nci maddesinin kadastrosu yapılmış olan yerlerin ikinci defa kadastroya tabi tutulamayacağına ilişkin hükmü uygulanmaz. Bu alanların tespiti amacıyla Orman Genel Müdürlüğünce yeteri kadar orman kadastro komisyonu görevlendirilir. Bu tespit sırasında ilan süresi bir hafta, itiraz süresi ise bir ay olarak uygulanır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.[28]
 
-Birinci fıkra kapsamında orman sınırları dışına çıkarılan alan kadar Hazine taşınmazı, orman tesis edilmek üzere Maliye Bakanlığınca Orman Genel Müdürlüğüne tahsis edilir. (Değişik ikinci cümle: 19/4/2018-7139/19 md.) Bu madde kapsamında yapılacak iş ve işlemler Çevre ve Şehircilik Bakanlığının koordinasyonunda yürütülür.
+Birinci fıkra kapsamında orman sınırları dışına çıkarılan alan kadar Hazine taşınmazı, orman tesis edilmek üzere Maliye Bakanlığınca Orman Genel Müdürlüğüne tahsis edilir. **(Değişik ikinci cümle: 19/4/2018-7139/19 md.)** Bu madde kapsamında yapılacak iş ve işlemler Çevre ve Şehircilik Bakanlığının koordinasyonunda yürütülür.
 
 **Geçici Madde 26 –** (Ek: 20/11/2017-KHK-696/13 md.; Aynen kabul: 1/2/2018-7079/13 md.)
 
@@ -769,66 +769,66 @@ Birinci fıkrada belirtilen işlemlerin yapılmasında bu Kanunun 29 uncu maddes
 | 7456 | Geçici Madde 27 | 13/7/2023 tarihinden itibaren geçerli olmak üzere yayımı tarihinde (15/7/2023) |
 | Anayasa Mahkemesinin 30/11/2023 tarihli ve E.: 2023/134; K.: 2023/209 sayılı Kararı | 13 | 16/1/2024 |
 
-<small>[1] Bu bölümün uygulanmasında Ek 5 inci maddeye bakınız.</small>
+<small>[1] <i>Bu bölümün uygulanmasında Ek 5 inci maddeye bakınız.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “İmar ve İskan Bakanlığının isteği üzerine” ibaresi madde metninden çıkartılmış ve “İmar ve İskan Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “İmar ve İskan Bakanlığının isteği üzerine” ibaresi madde metninden çıkartılmış ve “İmar ve İskan Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlanan” ibaresi “engelli hâle gelen” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlanan” ibaresi “engelli hâle gelen” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu bentte yer alan “hususlar hakkında İmar ve İskan Vekaletince hazırlanacak esaslar, İcra Vekilleri Heyetince tasvip edildikten sonra tatbik olunur” ibaresi “hususlara dair esaslar Cumhurbaşkanınca belirlenir” şeklinde değiştirilmiştir.</small>
+<small>[4] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu bentte yer alan “hususlar hakkında İmar ve İskan Vekaletince hazırlanacak esaslar, İcra Vekilleri Heyetince tasvip edildikten sonra tatbik olunur” ibaresi “hususlara dair esaslar Cumhurbaşkanınca belirlenir” şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] Anayasa Mahkemesinin 30/11/2023 tarihli ve E.: 2023/134; K.: 2023/209 sayılı Kararı ile bu paragrafta yer alan “…hasar tespit raporları ancak asıl işlemlerle birlikte dava konusu edilebilir.” ibaresi ve “ve” ibaresi iptal edilmiştir.</small>
+<small>[5] <i>Anayasa Mahkemesinin 30/11/2023 tarihli ve E.: 2023/134; K.: 2023/209 sayılı Kararı ile bu paragrafta yer alan “…hasar tespit raporları ancak asıl işlemlerle birlikte dava konusu edilebilir.” ibaresi ve “ve” ibaresi iptal edilmiştir.</i></small>
 
-<small>[6] 2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] Bu hükmün uygulanmasında Ek 7 nci maddeye bakınız.</small>
+<small>[7] <i>Bu hükmün uygulanmasında Ek 7 nci maddeye bakınız.</i></small>
 
-<small>[8] Bu hükmün uygulanmasında Ek 1 ve Ek 2 nci maddelere bakınız.</small>
+<small>[8] <i>Bu hükmün uygulanmasında Ek 1 ve Ek 2 nci maddelere bakınız.</i></small>
 
-<small>[9] Bu hükmün uygulanmasında Ek 4 ncü maddeye bakınız.</small>
+<small>[9] <i>Bu hükmün uygulanmasında Ek 4 ncü maddeye bakınız.</i></small>
 
-<small>[10] 2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “Bayındırlık ve İskân Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “Bayındırlık ve İskân Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[11] Bu madde başlığı “Fon teşkili ve fonda yapılacak yardımlar, harcama usulleri” iken 20/6/2001 tarih ve 4684 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[11] <i>Bu madde başlığı “Fon teşkili ve fonda yapılacak yardımlar, harcama usulleri” iken 20/6/2001 tarih ve 4684 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[12] Bu hükmün uygulanmasında Ek 4 üncü maddeye bakınız.</small>
+<small>[12] <i>Bu hükmün uygulanmasında Ek 4 üncü maddeye bakınız.</i></small>
 
-<small>[13] 2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “İmar ve İskan Bakanlığının teklifi ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[13] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “İmar ve İskan Bakanlığının teklifi ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[14] Bu hükmün uygulanmasında Ek 1 ve Ek 2 nci maddelere baknız.</small>
+<small>[14] <i>Bu hükmün uygulanmasında Ek 1 ve Ek 2 nci maddelere baknız.</i></small>
 
-<small>[15] Bu madde ile tanınan, ithalde alınan her türlü vergi, resim ve harç muafiyeti 6/5/1986 tarih ve 3283 sayılı Kanunun 1 inci maddesi ile kaldırılmıştır.</small>
+<small>[15] <i>Bu madde ile tanınan, ithalde alınan her türlü vergi, resim ve harç muafiyeti 6/5/1986 tarih ve 3283 sayılı Kanunun 1 inci maddesi ile kaldırılmıştır.</i></small>
 
-<small>[16] Bu hükmün uygulanmasında Ek 6 ncı maddeye bakınız.</small>
+<small>[16] <i>Bu hükmün uygulanmasında Ek 6 ncı maddeye bakınız.</i></small>
 
-<small>[17] Bu maddede geçen “fondan” ibaresi, 20/6/2001 tarih ve 4684 sayılı Kanunla “afet tertiplerinden” olarak değiştirilmiş olup bu değişiklik 1/1/2002 tarihinde yürürlüğe girecektir.</small>
+<small>[17] <i>Bu maddede geçen “fondan” ibaresi, 20/6/2001 tarih ve 4684 sayılı Kanunla “afet tertiplerinden” olarak değiştirilmiş olup bu değişiklik 1/1/2002 tarihinde yürürlüğe girecektir.</i></small>
 
-<small>[18] 2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[18] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[19] 20/6/2001 tarih ve 4684 sayılı Kanunla bu maddede geçen “fon hesabından” ibaresi “afet tertiplerinden”, “Fon Harcama Yönetmeliği” ibaresi ise “Afet Harcamaları Yönetmeliği” olarak değiştirilmiş olup bu değişiklik 1/1/2002 tarihinde yürürlüğe girecektir.</small>
+<small>[19] <i>20/6/2001 tarih ve 4684 sayılı Kanunla bu maddede geçen “fon hesabından” ibaresi “afet tertiplerinden”, “Fon Harcama Yönetmeliği” ibaresi ise “Afet Harcamaları Yönetmeliği” olarak değiştirilmiş olup bu değişiklik 1/1/2002 tarihinde yürürlüğe girecektir.</i></small>
 
-<small>[20] 2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde değiştirilmiştir.</small>
+<small>[20] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[21] Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine ve 28/12/2004 tarihli ve 5277 sayılı 2005 Mali Yılı Bütçe Kanununun 37 nci maddesine bakınız.</small>
+<small>[21] <i>Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine ve 28/12/2004 tarihli ve 5277 sayılı 2005 Mali Yılı Bütçe Kanununun 37 nci maddesine bakınız.</i></small>
 
-<small>[22] 23/3/2000 tarihli ve 598 sayılı KHK’nin 2 nci maddesiyle bu maddede yer alan “17 Ağustos 1999 tarihinde vuku bulan deprem” ibaresi metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[22] <i>23/3/2000 tarihli ve 598 sayılı KHK’nin 2 nci maddesiyle bu maddede yer alan “17 Ağustos 1999 tarihinde vuku bulan deprem” ibaresi metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[23] 27/10/1999 tarihli ve 582 sayılı KHK’nin 3 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “Türk Silahlı Kuvvetlerinin kullanımındaki yapı ve” ibaresinden sonra gelmek üzere “tesisler ve oturdukları kamu konutları hasara uğrayan personel ile birlik, karargah ve tesislerin konuş yeri değişikliği sebebiyle atanan personelin geçici ve kesin iskan ihtiyacının karşılanması amacıyla yapılacak” ibaresi eklenmiştir.</small>
+<small>[23] <i>27/10/1999 tarihli ve 582 sayılı KHK’nin 3 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “Türk Silahlı Kuvvetlerinin kullanımındaki yapı ve” ibaresinden sonra gelmek üzere “tesisler ve oturdukları kamu konutları hasara uğrayan personel ile birlik, karargah ve tesislerin konuş yeri değişikliği sebebiyle atanan personelin geçici ve kesin iskan ihtiyacının karşılanması amacıyla yapılacak” ibaresi eklenmiştir.</i></small>
 
-<small>[24] 8/12/1999 tarihli ve 589 sayılı KHK’nin 5 inci maddesiyle bu maddede yer alan “17 Ağustos 1999 tarihinde vuku bulan deprem” ibaresi metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[24] <i>8/12/1999 tarihli ve 589 sayılı KHK’nin 5 inci maddesiyle bu maddede yer alan “17 Ağustos 1999 tarihinde vuku bulan deprem” ibaresi metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[25] 19/4/2001 tarih ve 4649 Sayılı Kanun ile bu maddede yer alan “bir yılı” ibaresi, “onsekiz ayı” olarak değiştirilmişmiştir.</small>
+<small>[25] <i>19/4/2001 tarih ve 4649 Sayılı Kanun ile bu maddede yer alan “bir yılı” ibaresi, “onsekiz ayı” olarak değiştirilmişmiştir.</i></small>
 
-<small>[26] 20/2/2014 tarihli ve 6525 sayılı Kanunun 3 üncü maddesiyle, bu maddenin birinci cümlesine “il idare kurulu kararıyla düşürülür” ibaresinden sonra gelmek üzere “ve bu iş yerleri tapu sicilinde Hazine adına tescil edilir.” ibaresi eklenmiştir.</small>
+<small>[26] <i>20/2/2014 tarihli ve 6525 sayılı Kanunun 3 üncü maddesiyle, bu maddenin birinci cümlesine “il idare kurulu kararıyla düşürülür” ibaresinden sonra gelmek üzere “ve bu iş yerleri tapu sicilinde Hazine adına tescil edilir.” ibaresi eklenmiştir.</i></small>
 
-<small>[27] 19/4/2018 tarihli ve 7139 sayılı Kanunun 19 uncu maddesiyle, bu maddenin birinci fıkrasının birinci cümlesinde yer alan “Bursa İli Gemlik İlçesinin deprem tehlikesi altında bulunması ve İlçe sakinlerinin hâlihazırdaki yerleşim yerlerinden nakledilmesinin zorunlu bulunması sebebiyle,” ibaresi “Bursa İli Gemlik İlçesinde deprem tehlikesi altında bulunan yapıların dönüştürülebilmesi ve yeni yerleşim yerlerinin belirlenmesi için” şeklinde değiştirilmiştir.</small>
+<small>[27] <i>19/4/2018 tarihli ve 7139 sayılı Kanunun 19 uncu maddesiyle, bu maddenin birinci fıkrasının birinci cümlesinde yer alan “Bursa İli Gemlik İlçesinin deprem tehlikesi altında bulunması ve İlçe sakinlerinin hâlihazırdaki yerleşim yerlerinden nakledilmesinin zorunlu bulunması sebebiyle,” ibaresi “Bursa İli Gemlik İlçesinde deprem tehlikesi altında bulunan yapıların dönüştürülebilmesi ve yeni yerleşim yerlerinin belirlenmesi için” şeklinde değiştirilmiştir.</i></small>
 
-<small>[28] 2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “Orman ve Su İşleri Bakanlığının teklifi üzerine sınırları Bakanlar Kurulunca” ibaresi “sınırları Cumhurbaşkanınca” şeklinde ve “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[28] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 24 üncü maddesiyle, bu fıkrada yer alan “Orman ve Su İşleri Bakanlığının teklifi üzerine sınırları Bakanlar Kurulunca” ibaresi “sınırları Cumhurbaşkanınca” şeklinde ve “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[29] 18/10/2018 tarihli ve 7148 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “Adıyaman İli Samsat ve Kahta İlçelerinde ve Şanlıurfa İli ve çevresinde 2/3/2017 tarihinde,” ibaresinden sonra gelmek üzere “Adıyaman İli Merkez, Samsat, Kahta İlçeleri ve çevresinde 24/4/2018 tarihinde ve Muğla İline bağlı Ula İlçesi ve çevresinde 25/11/2017 tarihinde” ibaresi eklenmiştir.</small>
+<small>[29] <i>18/10/2018 tarihli ve 7148 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “Adıyaman İli Samsat ve Kahta İlçelerinde ve Şanlıurfa İli ve çevresinde 2/3/2017 tarihinde,” ibaresinden sonra gelmek üzere “Adıyaman İli Merkez, Samsat, Kahta İlçeleri ve çevresinde 24/4/2018 tarihinde ve Muğla İline bağlı Ula İlçesi ve çevresinde 25/11/2017 tarihinde” ibaresi eklenmiştir.</i></small>
 
-<small>[30] 6/12/2019 tarihli ve 7196 sayılı Kanunun 13 üncü maddesiyle, bu fıkraya “Muğla İline bağlı Ula İlçesi ve çevresinde 25/11/2017 tarihinde” ibaresinden sonra gelmek üzere “, Denizli İli Acıpayam İlçesinde 20/3/2019 tarihinde, Malatya İli Arguvan İlçesinde 21/3/2019 tarihinde, Elazığ İli Sivrice İlçesi ve çevresinde, Malatya İli Doğanyol ve Pütürge İlçelerinde 4/4/2019 tarihinde, Denizli İli Çardak İlçesi ve çevresinde, Denizli İli Bozkurt İlçesinde, Afyonkarahisar İli Dazkırı İlçesinde 8/8/2019 tarihinde,” ibaresi eklenmiştir.</small>
+<small>[30] <i>6/12/2019 tarihli ve 7196 sayılı Kanunun 13 üncü maddesiyle, bu fıkraya “Muğla İline bağlı Ula İlçesi ve çevresinde 25/11/2017 tarihinde” ibaresinden sonra gelmek üzere “, Denizli İli Acıpayam İlçesinde 20/3/2019 tarihinde, Malatya İli Arguvan İlçesinde 21/3/2019 tarihinde, Elazığ İli Sivrice İlçesi ve çevresinde, Malatya İli Doğanyol ve Pütürge İlçelerinde 4/4/2019 tarihinde, Denizli İli Çardak İlçesi ve çevresinde, Denizli İli Bozkurt İlçesinde, Afyonkarahisar İli Dazkırı İlçesinde 8/8/2019 tarihinde,” ibaresi eklenmiştir.</i></small>
 
-<small>[31] 18/6/2020 tarihli ve 7247 sayılı Kanunun 2 nci maddesiyle, bu fıkraya “Erzurum İli Aşkale İlçesinde 11/5/2017 tarihinde” ibaresinden sonra gelmek üzere “, Manisa İli Akhisar ve Kırkağaç İlçeleri ve çevresinde 22/1/2020 tarihinde, Elazığ İli Merkez, Sivrice, Baskil, Karakoçan, Kovancılar, Palu ve Maden İlçeleri ve çevresinde, Elazığ İli Keban İlçesi Üçpınar Köyünde, Malatya İli Doğanyol, Pütürge, Kale, Yeşilyurt ve Battalgazi İlçeleri ve çevresinde, Diyarbakır İli Çüngüş ve Çermik İlçeleri ve çevresinde, Adıyaman İli Gerger ve Sincik İlçeleri ve çevresinde, Tunceli İli Merkez, Mazgirt ve Pertek İlçeleri ve çevresinde 24/1/2020 tarihinde, Van İli Başkale ve Saray İlçeleri ve çevresinde 23/2/2020 tarihinde, Bingöl İli Karlıova, Yedisu ve Adaklı İlçeleri ve çevresinde, Erzurum İli Çat İlçesi ve çevresinde 14/6/2020 tarihinde” ibaresi eklenmiştir.</small>
+<small>[31] <i>18/6/2020 tarihli ve 7247 sayılı Kanunun 2 nci maddesiyle, bu fıkraya “Erzurum İli Aşkale İlçesinde 11/5/2017 tarihinde” ibaresinden sonra gelmek üzere “, Manisa İli Akhisar ve Kırkağaç İlçeleri ve çevresinde 22/1/2020 tarihinde, Elazığ İli Merkez, Sivrice, Baskil, Karakoçan, Kovancılar, Palu ve Maden İlçeleri ve çevresinde, Elazığ İli Keban İlçesi Üçpınar Köyünde, Malatya İli Doğanyol, Pütürge, Kale, Yeşilyurt ve Battalgazi İlçeleri ve çevresinde, Diyarbakır İli Çüngüş ve Çermik İlçeleri ve çevresinde, Adıyaman İli Gerger ve Sincik İlçeleri ve çevresinde, Tunceli İli Merkez, Mazgirt ve Pertek İlçeleri ve çevresinde 24/1/2020 tarihinde, Van İli Başkale ve Saray İlçeleri ve çevresinde 23/2/2020 tarihinde, Bingöl İli Karlıova, Yedisu ve Adaklı İlçeleri ve çevresinde, Erzurum İli Çat İlçesi ve çevresinde 14/6/2020 tarihinde” ibaresi eklenmiştir.</i></small>
 
-<small>[32] 18/7/2021 tarihli ve 7333 sayılı Kanunun 5 inci maddesiyle, bu fıkraya “Elazığ İli Merkez, Sivrice,” ibaresinden sonra gelmek üzere “Alacakaya, Arıcak,” ibaresi, “23/2/2020 tarihinde,” ibaresinden sonra gelmek üzere “Malatya İli Arapgir, Arguvan, Doğanşehir, Hekimhan, Kuluncak, Pütürge İlçeleri ve çevresinde 5/6/2020 tarihinde,” ibaresi eklenmiş, fıkrada yer alan “14/6/2020 tarihinde meydana gelen ve genel hayata etkili olan deprem afetleri nedeniyle” ibaresi “14/6/2020 tarihinde, Erzincan İli Tercan İlçesi ve çevresinde 14/6/2020 ve 15/6/2020 tarihlerinde, Van İli Saray, Özalp ve Gürpınar İlçeleri ve çevresinde 25/6/2020 tarihinde, Bitlis İli Hizan İlçesi ve çevresinde 7/8/2020 tarihinde, Erzincan İli Tercan İlçesi ve çevresinde 28/10/2020 tarihinde, İzmir İli Aliağa, Balçova, Bayındır, Bayraklı, Bergama, Bornova, Buca, Çeşme, Çiğli, Dikili, Foça, Gaziemir, Güzelbahçe, Karabağlar, Karaburun, Karşıyaka, Kemalpaşa, Kiraz, Konak, Menderes, Menemen, Narlıdere, Seferihisar, Selçuk, Tire, Torbalı, Urla İlçeleri ile Aydın İli Kuşadası İlçesi ve çevresinde 30/10/2020 tarihinde, Siirt İli Kurtalan İlçesi ve çevresinde 3/12/2020 tarihinde, Van İli Tuşba İlçesi ve çevresinde 15/12/2020 tarihinde, Elazığ İli Baskil, Karakoçan, Kovancılar, Maden Merkez, Palu, Sivrice İlçeleri ve çevresinde 27/12/2020 tarihinde meydana gelen deprem afetleri sebebiyle genel hayata etkili afet bölgesi olarak kabul edilen yerlerde,” şeklinde değiştirilmiştir.</small>
+<small>[32] <i>18/7/2021 tarihli ve 7333 sayılı Kanunun 5 inci maddesiyle, bu fıkraya “Elazığ İli Merkez, Sivrice,” ibaresinden sonra gelmek üzere “Alacakaya, Arıcak,” ibaresi, “23/2/2020 tarihinde,” ibaresinden sonra gelmek üzere “Malatya İli Arapgir, Arguvan, Doğanşehir, Hekimhan, Kuluncak, Pütürge İlçeleri ve çevresinde 5/6/2020 tarihinde,” ibaresi eklenmiş, fıkrada yer alan “14/6/2020 tarihinde meydana gelen ve genel hayata etkili olan deprem afetleri nedeniyle” ibaresi “14/6/2020 tarihinde, Erzincan İli Tercan İlçesi ve çevresinde 14/6/2020 ve 15/6/2020 tarihlerinde, Van İli Saray, Özalp ve Gürpınar İlçeleri ve çevresinde 25/6/2020 tarihinde, Bitlis İli Hizan İlçesi ve çevresinde 7/8/2020 tarihinde, Erzincan İli Tercan İlçesi ve çevresinde 28/10/2020 tarihinde, İzmir İli Aliağa, Balçova, Bayındır, Bayraklı, Bergama, Bornova, Buca, Çeşme, Çiğli, Dikili, Foça, Gaziemir, Güzelbahçe, Karabağlar, Karaburun, Karşıyaka, Kemalpaşa, Kiraz, Konak, Menderes, Menemen, Narlıdere, Seferihisar, Selçuk, Tire, Torbalı, Urla İlçeleri ile Aydın İli Kuşadası İlçesi ve çevresinde 30/10/2020 tarihinde, Siirt İli Kurtalan İlçesi ve çevresinde 3/12/2020 tarihinde, Van İli Tuşba İlçesi ve çevresinde 15/12/2020 tarihinde, Elazığ İli Baskil, Karakoçan, Kovancılar, Maden Merkez, Palu, Sivrice İlçeleri ve çevresinde 27/12/2020 tarihinde meydana gelen deprem afetleri sebebiyle genel hayata etkili afet bölgesi olarak kabul edilen yerlerde,” şeklinde değiştirilmiştir.</i></small>

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-4.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-ÇEVRE KANUNU İLE BAZI KANUNLARDA VE 375 SAYILI KANUN
-HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN**
+**ÇEVRE KANUNU İLE BAZI KANUNLARDA VE 375 SAYILI KANUN**
+**HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7446 Kabul Tarihi: 30/3/2023
 
 MADDE 1- 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa ekli (I) sayılı Ek Gösterge Cetvelinin “II- Teknik Hizmetler Sınıfı” bölümünün (a) bendinde yer alan “ve Mimar” ibaresi “, Mimar, Peyzaj Mimarı ve İç Mimar” şeklinde değiştirilmiştir.

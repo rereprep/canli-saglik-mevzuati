@@ -11,7 +11,7 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI
 
-Verem Savaşı Dairesi Başkanlığı Sayı : B.10.0.VSD.0.00.00.06-410/3710 31.08.2009 Konu : Birinci Basamak Sağlık Kuruluşlarına
+**Verem Savaşı Dairesi Başkanlığı Sayı :** B.10.0.VSD.0.00.00.06-410/3710 31.08.2009 **Konu :** Birinci Basamak Sağlık Kuruluşlarına
 
 Başvuran Tüberküloz Şüpheli
 
@@ -35,7 +35,7 @@ Birinci basamak sağlık kuruluşlarından dispanser laboratuvarlarına balgam �
 
 ### SAĞLIK BAKANLIĞI
 
-Verem Savaşı Dairesi Başkanlığı belirlenmiş usul ve esaslar doğrultusunda Seviye 1 Tüberküloz Laboratuvarlarına nakledilecektir.
+**Verem Savaşı Dairesi Başkanlığı** belirlenmiş usul ve esaslar doğrultusunda Seviye 1 Tüberküloz Laboratuvarlarına nakledilecektir.
 
 Bu amaçla;
 
@@ -65,7 +65,7 @@ Bu amaçla;
 
 ### SAĞLIK BAKANLIĞI
 
-Verem Savaşı Dairesi Başkanlığı
+**Verem Savaşı Dairesi Başkanlığı**
 
 Birinci basamak sağlık kuruluşlarına başvurmuş tüberküloz şüpheli kişilerden balgam örneklerinin Verem Savaşı Dispanseri laboratuvarına ulaştırılması ile ilgili usul ve esasları belirleyen bu genelgenin yürütülmesi ve il içi koordinasyonun sağlanmasından İl Sağlık Müdürlükleri birinci derecede sorumludurlar.
 
@@ -95,7 +95,7 @@ Gereğinin yapılmasını rica ederim.
 
 Gereği: 81 İl Valiliğine Verem Savaşı Dairesi Başkanlığı, İlkiz Sok, No:4/5 Sıhhiye ANKARA, İrtibat: Dr. Nilay UÇARMAN,
 
-Ek. 1
+**Ek. 1**
 
 ### BALGAM TOPLAMA KRİTERLERİ
 
@@ -117,33 +117,33 @@ Ek. 1
 
 9. Hastalar balgam örneklerini sağlık kuruluşlarının dışında, açık havada, tenha bir yerde ve mümkünse güneşli bir ortamda çıkarmalıdır. Sağlık kuruluşlarının içindeki oda veya tuvalet gibi yerlerde hastadan balgam çıkarmasını istemek sakıncalıdır. Eğer hasta kendi evinde balgam çıkaracak ise bu işlemi; güneş almayan veya yeterince havalandırılamayan odalar, tuvalet ve banyo gibi yerlerde değil, yine mümkünse güneş alan veya havalandırılan odalarda ya da balkonda, varsa bahçede yapmalıdır.
 
-Balgam çıkarmada güçlük çeken hastalar;
+**Balgam çıkarmada güçlük çeken hastalar;**
 
-1. Bol sıvı almalıdır:
+**1. Bol sıvı almalıdır:**
 
 İçilen su, balgamın koyuluğunun azalmasını sağlayarak çıkmasını kolaylaştıracağı için, balgam çıkarmadan önceki akşam içebileceği kadar bol sıvı alması gerektiği, hastaya söylenmelidir.
 
-2. Kültür-fizik hareketleri yapmalıdır:
+**2. Kültür-fizik hareketleri yapmalıdır:**
 
 Hastanın, ellerini başının üstünde birleştirip derin nefes alması, ellerini yanlara indirip derin nefes vermesi ve bu işlemi 15-20 kez tekrarladıktan sonra kuvvetlice öksürerek balgam çıkarması önerilmelidir.
 
-Ek. 2
+**Ek. 2**
 
 ### ÖRNEK ANALİZ FİŞİ
 
-Hastanın; Adı, Soyadı Cinsiyeti Baba Adı Doğum Yılı T.C. Kimlik No
+**Hastanın; Adı, Soyadı Cinsiyeti Baba Adı Doğum Yılı T.C. Kimlik No**
 
-( )E ( )K Sağlık Kuruluşunun; Adı Muayene Tarihi Poliklinik No Hekimin İmzası/ Kaşesi
+( )E ( )K **Sağlık Kuruluşunun; Adı Muayene Tarihi Poliklinik No Hekimin İmzası/ Kaşesi**
 
-Materyal Alma Nedeni Daha Önceki tüberküloz öyküsü ( ) Tanı ( tedavi öncesi, başlangıcı ) ( ) Yok ( ) Tedavi sürerken ( tedavinin .....….ayı ) ( ) Var (...........ay) ( ) Tedavi sonrası takibi ( ) Bilinmiyor
+**Materyal Alma Nedeni Daha Önceki tüberküloz öyküsü** ( ) Tanı ( tedavi öncesi, başlangıcı ) ( ) Yok ( ) Tedavi sürerken ( tedavinin .....….ayı ) ( ) Var (...........ay) ( ) Tedavi sonrası takibi ( ) Bilinmiyor
 
-Mikroskopi İçin Gönderilen Dispanser
+**Mikroskopi İçin Gönderilen Dispanser**
 
-Materyal Cinsi
+**Materyal Cinsi**
 
-Adı: ( ) Balgam ( ) İdrar Direkt Yayma Sonucu: ( ) Mide Açlık Suyu Materyal Alma Tarihi: ( ) Biopsi Materyali Dikkat edilmesi gereken kayıt ilkeleri: Bu fişte istenen bilgiler eksiksiz olarak Üç nüsha halinde doldurulur; bir nüshası fişi dolduran sağlık kuruluşunda kalır ve diğer iki nüshası Verem Savaşı Dispanseri’ne gönderilir.
+**Adı:** ( ) Balgam ( ) İdrar **Direkt Yayma Sonucu:** ( ) Mide Açlık Suyu **Materyal Alma Tarihi:** ( ) Biopsi Materyali **Dikkat edilmesi gereken kayıt ilkeleri:** Bu fişte istenen bilgiler eksiksiz olarak Üç nüsha halinde doldurulur; bir nüshası fişi dolduran sağlık kuruluşunda kalır ve diğer iki nüshası Verem Savaşı Dispanseri’ne gönderilir.
 
-Ek. 3
+**Ek. 3**
 
 ### LABORATUVARDA BALGAM SAKLAMA KRİTERLERİ
 
@@ -165,7 +165,7 @@ b) Tetkik yapılmadan önce en fazla 4 hafta süresince +4 C’de özelliklerini
 
 kaybetmeden saklanabileceği unutulmamalıdır.
 
-Ek. 4
+**Ek. 4**
 
 ### LABORATUVARA BALGAM KABUL KRİTERLERİ
 
@@ -201,23 +201,23 @@ e) Etiketlenmemiş balgam örnekleri,
 
 f) İçinde yiyecek artıkları olan balgam örnekleri.
 
-Ek. 5
+**Ek. 5**
 
-Bölge Tüberküloz
+**Bölge Tüberküloz**
 
-Materyal Gönderen İller
+**Materyal Gönderen İller**
 
-Laboratuvarları Adana Adana, Osmaniye, Hatay, Gaziantep, Kilis, Kahramanmaraş,
+**Laboratuvarları Adana** Adana, Osmaniye, Hatay, Gaziantep, Kilis, Kahramanmaraş,
 
-Mersin, Adıyaman Ankara Ankara, Çankırı, Kırşehir, Nevşehir, Niğde, Kırıkkale, Aksaray,
+Mersin, Adıyaman **Ankara** Ankara, Çankırı, Kırşehir, Nevşehir, Niğde, Kırıkkale, Aksaray,
 
-Yozgat Antalya Antalya, Burdur, Isparta Bursa Bursa, Balıkesir, Bilecik, Yalova, Çanakkale Çorum Çorum Denizli Denizli Diyarbakır Diyarbakır, Mardin, Batman, Şırnak, Şanlıurfa, Siirt Elazığ Elazığ, Bingöl, Muş, Malatya, Tunceli Erzurum Erzurum, Erzincan, Ağrı, Iğdır, Kars, Ardahan Eskişehir Eskişehir, Afyon, Kütahya İstanbul-Bakırköy İstanbul İstanbul-Taksim İstanbul, Edirne, Kırklareli, Tekirdağ İzmir İzmir, Aydın, Manisa, Muğla, Uşak Kastamonu Kastamonu Kayseri Kayseri Kocaeli Kocaeli, Sakarya, Düzce, Bolu Konya Konya, Karaman Samsun Samsun, Amasya, Ordu, Sinop, Sivas Sivas, Tokat Trabzon Trabzon, Giresun, Gümüşhane, Rize, Bayburt, Artvin Van Van, Bitlis, Hakkâri Zonguldak Zonguldak, Bartın, Karabük
+Yozgat **Antalya** Antalya, Burdur, Isparta **Bursa** Bursa, Balıkesir, Bilecik, Yalova, Çanakkale **Çorum** Çorum **Denizli** Denizli **Diyarbakır** Diyarbakır, Mardin, Batman, Şırnak, Şanlıurfa, Siirt **Elazığ** Elazığ, Bingöl, Muş, Malatya, Tunceli **Erzurum** Erzurum, Erzincan, Ağrı, Iğdır, Kars, Ardahan **Eskişehir** Eskişehir, Afyon, Kütahya **İstanbul-Bakırköy** İstanbul **İstanbul-Taksim** İstanbul, Edirne, Kırklareli, Tekirdağ **İzmir** İzmir, Aydın, Manisa, Muğla, Uşak **Kastamonu** Kastamonu **Kayseri** Kayseri **Kocaeli** Kocaeli, Sakarya, Düzce, Bolu **Konya** Konya, Karaman **Samsun** Samsun, Amasya, Ordu, Sinop, **Sivas** Sivas, Tokat **Trabzon** Trabzon, Giresun, Gümüşhane, Rize, Bayburt, Artvin **Van** Van, Bitlis, Hakkâri **Zonguldak** Zonguldak, Bartın, Karabük
 
-Ek. 6
+**Ek. 6**
 
 ### BİYOGÜVENLİK İLKELERİ
 
-1. Hastanın uyması gereken ilkeler;
+**1. Hastanın uyması gereken ilkeler;**
 
 a) Üç gün üst üste balgam vermesi gereken hasta; her sabah farklı bir balgam kabı kullanmalıdır.
 
@@ -229,7 +229,7 @@ d) Balgam kabı; balgam konduktan sonra ışık almamalı ve mavi kapak üste ge
 
 e) Hastaya; içinde balgam olan balgam kaplarını aldığı merkeze en kısa sürede teslim etmesi gerektiği, tetkik sonuçlarını yine aynı yerden öğrenebileceği anlatılmalıdır.
 
-2. Sağlık çalışanlarının uyması gereken ilkeler;
+**2. Sağlık çalışanlarının uyması gereken ilkeler;**
 
 a) Hastaların balgam örneklerini sağlık kuruluşunun dışında, açık havada, tenha bir yerde ve mümkünse güneşli bir ortamda çıkarması sağlanmalıdır.
 
@@ -245,7 +245,7 @@ f) Kilitli koruma poşetleri içindeki balgam kapları köpük muhafaza kutusund
 
 g) Bu köpük muhafaza kutusu da son olarak sert kartondan yapılmış kutuya yerleştirilmeli, üzerine gönderici ve alıcı sağlık kuruluşlarının adı, adresi ve telefon numarası yazılmalıdır.
 
-3. Nakillere ilişkin uyulması gereken ilkeler
+**3. Nakillere ilişkin uyulması gereken ilkeler**
 
 a) Materyaller biyogüvenlik açısından üçlü kap sistemi ile taşınmalıdır.
 
@@ -257,11 +257,11 @@ d) Nakil esnasında kırılan kutular birinci basamak sağlık kuruluşuna bildi
 
 e) Sağlık kuruluşundan kutuyu yollayan ve Verem Savaşı Dispanseri laboratuvarlarda materyali teslim alan görevli; kargo kutusunun kırık olmamasına, kutunun üzerindeki işarete uygun olarak taşınmış olmasına, kutunun ağzının kapalı olmasına ve adres bilgilerinin tam olmasına dikkat etmelidir.
 
-Ek. 7
+**Ek. 7**
 
 ### BALGAM ÖRNEĞİNİN NAKLİ İLE İLGİLİ MALZEMELER VE DİKKAT EDİLMESİ GEREKEN İLKELER
 
-1. Balgam kapları ve kullanılırken uyulması gereken ilkeler:
+**1. Balgam kapları ve kullanılırken uyulması gereken ilkeler:**
 
 a) Balgam kapları; temiz, tek kullanımlık, içi görülebilen, şeffaf, 50 ml hacminde plastik tüpler(falkon tüpü) olmalıdır.
 
@@ -269,7 +269,7 @@ b) Sızdırmaz, sıkı bir şekilde kapatılabilen vidalı mavi kapakları olan 
 
 c) İşlem öncesi bu kaplar etiketlenmeli ve etiket üzerinde örneğin alındığı kişinin “adı-soyadı, TC kimlik numarası, örneğin alındığı tarih ve sağlık kuruluşunun adı” bilgileri bulunmalıdır.
 
-2. Koruma poşeti ve kullanılırken uyulması gereken ilkeler:
+**2. Koruma poşeti ve kullanılırken uyulması gereken ilkeler:**
 
 a) Koruma poşeti; taşıma sırasında oluşabilecek sızmaya karşı balgam tüplerini koruma amaçlı, ağızları kilitli poşetlerdir.
 
@@ -277,7 +277,7 @@ b) Bu poşetler sadece materyal bir yere nakledileceği zaman kullanılmalıdır
 
 c) Balgam tüplerinin mavi kapakları koruma poşetinin kilitli tarafına gelecek şekilde konulmalı ve balgam tüpü konulduktan sonra ağzı sıkıca kilitlenmelidir.
 
-3. Köpük muhafaza kutusu ve kullanılırken uyulması gereken ilkeler:
+**3. Köpük muhafaza kutusu ve kullanılırken uyulması gereken ilkeler:**
 
 a) Köpük muhafaza kutusu; içinde 12 falkon tüpüne uygun yuvaların bulunduğu strafor köpük malzemeden yapılmış muhafaza kutusudur.
 
@@ -285,7 +285,7 @@ b) Aynı malzemeden yapılmış tam kapanabilir kapağı vardır.
 
 c) Sıcak mevsimde kuru buz kullanılacaksa bu köpük muhafaza kutusunun içine konulmalıdır.
 
-4. Balgam nakil kutusu ve kullanılırken uyulması gereken ilkeler:
+**4. Balgam nakil kutusu ve kullanılırken uyulması gereken ilkeler:**
 
 a) Balgam nakil kutusu; köpük muhafaza kutusunun konulduğu sert oluklu mukavvadan yapılmış kutudur.
 
@@ -295,7 +295,7 @@ c) Balgam nakil kutusu taşınırken kutu üzerindeki işaret dikkate alınarak 
 
 d) Her nakil kutusu içinde beraberinde bir istek formu olmalı, istek formunun üzerindeki bilgiler balgam kabındaki etikete yazılan bilgilerle uyumlu olmalıdır. İstek formunda; hastanın adı-soyadı, cinsiyeti, TC kimlik numarası, doğum tarihi ve örneğin alınma tarihi, hastanın balgam kabını teslim ettiği sağlık kuruluşunun adı, örneğin hangi materyal olduğu yazılmalıdır.
 
-Ek. 8
+**Ek. 8**
 
 ### LOJİSTİK İŞLEYİŞLE İLGİLİ FAALİYETLER
 
@@ -315,17 +315,17 @@ Ek. 8
 
 8. Birinci basamak sağlık kuruluşları tarafından toplanan materyallerin, toplama usul ve esasları, İl Sağlık Müdürlükleri tarafından hazırlanacak bir program dâhilinde yürütülecek, bu program ve programda yapılacak değişiklikler Başkanlığımıza bildirilecektir.
 
-Ek.9
+**Ek.9**
 
-Teslim Eden Teslim Alan
+**Teslim Eden Teslim Alan**
 
 Teslim alınan Sıra No: Tarih
 
-Balgam Nakil
+**Balgam Nakil**
 
-Sağlık Kuruluşu Adı- Soyadı İmzası Dispanser Adı- Soyadı İmzası
+**Sağlık Kuruluşu Adı- Soyadı İmzası Dispanser Adı- Soyadı İmzası**
 
-Kutu Sayısı
+**Kutu Sayısı**
 
 ---
 

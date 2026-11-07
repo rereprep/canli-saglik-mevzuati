@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 İçişleri Bakanlığından:
-EMNİYET TEŞKİLATI SAĞLIK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**EMNİYET TEŞKİLATI SAĞLIK ŞARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 3/1/2018 tarihli ve 30290 sayılı Resmî Gazete’de yayımlanan Emniyet Teşkilatı Sağlık Şartları Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (a) bendinde yer alan “Sağlık İşleri Dairesi Başkanını” ibaresi “Sosyal Hizmetler ve Sağlık Daire Başkanını” olarak, aynı fıkranın (b) bendinde yer alan “Sağlık İşleri Dairesi Başkanlığını” ibaresi “Sosyal Hizmetler ve Sağlık Daire Başkanlığını” olarak değiştirilmiştir.
 

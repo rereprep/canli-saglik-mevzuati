@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -60,9 +60,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Taşınabilir Otomatik Şok Cihazı (OED)’nın Asgari
+**Taşınabilir Otomatik Şok Cihazı (OED)’nın Asgari**
 
-Standartları ve Konumlandırılması
+**Standartları ve Konumlandırılması**
 
 #### Taşınabilir otomatik şok cihazı (OED)’nın asgari standartları
 
@@ -104,15 +104,15 @@ g) Koruyucu dolap üzerinde OED’nin kullanım talimatları görsel ve yazılı
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Taşınabilir Otomatik Şok Cihazı (OED)’nın Kullanım
+**Taşınabilir Otomatik Şok Cihazı (OED)’nın Kullanım**
 
-ve Bakımı ile OED-Net
+**ve Bakımı ile OED-Net**
 
 #### Taşınabilir otomatik şok cihazı (OED)’nın kullanım ve bakımı
 
 **MADDE 7 –** (1) OED’yi sağlık meslek mensubu, ilk yardımcı ve halktan kurtarıcı kullanabilir.
 
-(2) OED’nin; kullanımı sonrası ya da OED-Net’ten uyarı gelmesi hâlinde en kısa sürede tekrar kullanılır hâle getirilmesi, sarf malzeme temini ve OED bakımı, kullanım sonrası OED’deki verilerin kaydının saklanması ve bulunduğu ildeki il sağlık müdürlüğüne teslim edilmesi, OED edinicisinin sorumluluğundadır.
+(2) OED’nin; kullanımı sonrası ya da **OED-Net**’ten uyarı gelmesi hâlinde en kısa sürede tekrar kullanılır hâle getirilmesi, sarf malzeme temini ve OED bakımı, kullanım sonrası OED’deki verilerin kaydının saklanması ve bulunduğu ildeki il sağlık müdürlüğüne teslim edilmesi, OED edinicisinin sorumluluğundadır.
 
 #### OED-Net
 
@@ -130,7 +130,7 @@ ve Bakımı ile OED-Net
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Tereddütlerin giderilmesi
 
@@ -144,4 +144,4 @@ ve Bakımı ile OED-Net
 
 **MADDE 11 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Eki için tıklayınız
+**Eki için tıklayınız**

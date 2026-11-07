@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2020/06/20200626-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 7247 Kabul Tarihi: 18/6/2020
+**KANUN BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+**Kanun No. 7247 Kabul Tarihi: 18/6/2020**
 
-MADDE 1 – 11/1/1954 tarihli ve 6219 sayılı Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Kanununun 18 inci maddesinin birinci fıkrasına aşağıdaki cümle eklenmiştir.
+**MADDE 1 –** 11/1/1954 tarihli ve 6219 sayılı Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Kanununun 18 inci maddesinin birinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Bankanın 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa göre faaliyette bulunan gayrimenkul yatırım ortaklıkları 4734 sayılı Kanuna tabi değildir.”
 
 MADDE 2 – 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunun geçici 26 ncı maddesinin birinci fıkrasına “Erzurum İli Aşkale İlçesinde 11/5/2017 tarihinde” ibaresinden sonra gelmek üzere “, Manisa İli Akhisar ve Kırkağaç İlçeleri ve çevresinde 22/1/2020 tarihinde, Elazığ İli Merkez, Sivrice, Baskil, Karakoçan, Kovancılar, Palu ve Maden İlçeleri ve çevresinde, Elazığ İli Keban İlçesi Üçpınar Köyünde, Malatya İli Doğanyol, Pütürge, Kale, Yeşilyurt ve Battalgazi İlçeleri ve çevresinde, Diyarbakır İli Çüngüş ve Çermik İlçeleri ve çevresinde, Adıyaman İli Gerger ve Sincik İlçeleri ve çevresinde, Tunceli İli Merkez, Mazgirt ve Pertek İlçeleri ve çevresinde 24/1/2020 tarihinde, Van İli Başkale ve Saray İlçeleri ve çevresinde 23/2/2020 tarihinde, Bingöl İli Karlıova, Yedisu ve Adaklı İlçeleri ve çevresinde, Erzurum İli Çat İlçesi ve çevresinde 14/6/2020 tarihinde” ibaresi eklenmiştir.

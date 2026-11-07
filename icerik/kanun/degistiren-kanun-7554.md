@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/07/20250724-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7554 Kabul Tarihi: 19/7/2025
 
 MADDE 1- 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 10 uncu maddesinin ikinci fıkrasında yer alan “veya Çevresel Etki Değerlendirmesi Gerekli Değildir Kararı” ibaresi madde metninden çıkarılmış ve fıkraya aşağıdaki cümle eklenmiştir.

@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -32,7 +32,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 ### İKİNCİ BÖLÜM
 
-Genel Hükümler
+**Genel Hükümler**
 
 #### İşverenin yükümlülüğü
 
@@ -186,7 +186,7 @@ g) Her toplantıda, önceki toplantıya ilişkin kararlar ve bunlarla ilgili uyg
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yürürlükten kaldırılan mevzuat
 

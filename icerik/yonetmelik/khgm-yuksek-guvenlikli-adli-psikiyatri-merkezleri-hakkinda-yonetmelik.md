@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -54,7 +54,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Merkezlerin Açılması
+**Merkezlerin Açılması**
 
 #### Merkezlerin açılması
 
@@ -66,7 +66,7 @@ Merkezlerin Açılması
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Fiziki Standart ve Malzeme Standardı
+**Fiziki Standart ve Malzeme Standardı**
 
 #### Fiziki standart
 
@@ -142,7 +142,7 @@ aa) Tüm camlar kırılmaz cam olarak yapılır, ayrıca dış alana açılan t�
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Personel Standardı
+**Personel Standardı**
 
 #### Personel standardı
 
@@ -186,7 +186,7 @@ j) Güvenlik görevlisi.
 
 ### BEŞİNCİ BÖLÜM
 
-Hizmet Standardı
+**Hizmet Standardı**
 
 #### Merkez hizmetleri
 
@@ -356,7 +356,7 @@ c) 5237 sayılı Kanunun 57 nci maddesinin üçüncü ve dördüncü fıkraları
 
 ### ALTINCI BÖLÜM
 
-Danışma Komisyonu
+**Danışma Komisyonu**
 
 #### Danışma komisyonu oluşumu
 
@@ -398,7 +398,7 @@ f) Bakanlıkça uygun görülen diğer konularda bilimsel ve teknik görüş bil
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Düzenleme yetkisi
 
@@ -420,4 +420,4 @@ f) Bakanlıkça uygun görülen diğer konularda bilimsel ve teknik görüş bil
 
 **MADDE 24 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

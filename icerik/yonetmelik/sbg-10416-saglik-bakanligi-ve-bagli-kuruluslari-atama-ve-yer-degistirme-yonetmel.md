@@ -57,7 +57,7 @@ k) Personel Dağılım Cetveli (PDC): Ek-2’de belirlenen ilkeler doğrultusund
 
 l) Standart: Bakanlık ve bağlı kuruluşlarca standart kadro mevzuatlarında belirlenen standartları,
 
-m)(Değişik:RG-4/4/2015-29316) Stratejik personel: Tıpta ve diş hekimliğinde uzmanlık eğitimi mevzuatına göre uzman olmuş uzman tabip, uzman (TUTG) ve tabip unvanındaki personeli,
+m)**(Değişik:RG-4/4/2015-29316)** Stratejik personel: Tıpta ve diş hekimliğinde uzmanlık eğitimi mevzuatına göre uzman olmuş uzman tabip, uzman (TUTG) ve tabip unvanındaki personeli,
 
 ifade eder.
 
@@ -97,7 +97,7 @@ ilkelerini esas alır.
 
 #### Hizmet puanının hesaplanması
 
-**MADDE 9 –** (1)(Değişik:RG-4/4/2015-29316) Hizmet puanının hesaplanmasında Kalkınma Bakanlığınca hazırlanan İl ve İlçelerin Sosyo-Ekonomik Gelişmişlik Sıralaması Tabloları esas alınır. 2547 sayılı Yükseköğretim Kanunu ile 217 sayılı Devlet Personel Başkanlığı Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname kapsamına giren bir kurum veya kuruluşta fiilen çalışılan her yer ve yıl için İlçelerin Sosyo-Ekonomik Gelişmişlik Sıralaması endeksindeki sıra numarası 1000 rakamıyla toplanarak ilçe sıralaması puanı elde edilir. Bu rakama Ek 1’de bulunan İllerin Sosyo-Ekonomik Gelişmişlik Sıralamasının Hizmet Puanına Katkısı Cetvelinin öngördüğü puan eklenerek hizmet puanı bulunur. Yeni il ve ilçeler kurulması hâlinde, yeni tablolar yayınlanana kadar, daha önce bağlı bulunulan il ve ilçenin puanları uygulanmaya devam edilir.
+**MADDE 9 –** (1)**(Değişik:RG-4/4/2015-29316)** Hizmet puanının hesaplanmasında Kalkınma Bakanlığınca hazırlanan İl ve İlçelerin Sosyo-Ekonomik Gelişmişlik Sıralaması Tabloları esas alınır. 2547 sayılı Yükseköğretim Kanunu ile 217 sayılı Devlet Personel Başkanlığı Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname kapsamına giren bir kurum veya kuruluşta fiilen çalışılan her yer ve yıl için İlçelerin Sosyo-Ekonomik Gelişmişlik Sıralaması endeksindeki sıra numarası 1000 rakamıyla toplanarak ilçe sıralaması puanı elde edilir. Bu rakama Ek 1’de bulunan İllerin Sosyo-Ekonomik Gelişmişlik Sıralamasının Hizmet Puanına Katkısı Cetvelinin öngördüğü puan eklenerek hizmet puanı bulunur. Yeni il ve ilçeler kurulması hâlinde, yeni tablolar yayınlanana kadar, daha önce bağlı bulunulan il ve ilçenin puanları uygulanmaya devam edilir.
 
 (2) Beldelerde fiilen çalışılan her yıl için çalışılan beldenin bağlı bulunduğu ilçenin Sosyo-Ekonomik Gelişmişlik Sıralaması endeksindeki sıra numarasının yarısı, köylerde fiilen çalışılan her yıl için ise tamamı puan olarak hizmet puanına ayrıca eklenir.
 
@@ -323,9 +323,9 @@ c) Yer değişikliği talebinde bulunan personelin eşinin görev yaptığı yer
 
 **MADDE 25 –** (1) İl müdürlüğü ve müdürlük unvanlarına, bu Yönetmeliğin puan, PDC, süre ve dönem tayini ile ilgili hükümlerine bağlı kalmaksızın atama veya görevlendirme yapılabilir.
 
-(2) (Değişik:RG-4/4/2015-29316) İl müdürlüğü ve müdürlük görevini en az bir yıl, 663 sayılı Kanun Hükmünde Kararname kapsamında; genel sekreter, başkan, hastane yöneticisi, başhekim veya müdür olarak sözleşme imzalayanlardan en az iki yıl süreyle bu görevleri yürütenler, görevlerinden ayrıldıkları tarihten itibaren en geç 2 ay içinde müracaat etmeleri halinde bir defaya mahsus olmak üzere talepleri doğrultusunda durumlarına uygun bir kadroya atanabilirler. Bu süreden daha az görev yapanlar ise önceki kadrolarının bulunduğu ildeki durumlarına uygun bir kadroya atanırlar.
+(2) **(Değişik:RG-4/4/2015-29316)** İl müdürlüğü ve müdürlük görevini en az bir yıl, 663 sayılı Kanun Hükmünde Kararname kapsamında; genel sekreter, başkan, hastane yöneticisi, başhekim veya müdür olarak sözleşme imzalayanlardan en az iki yıl süreyle bu görevleri yürütenler, görevlerinden ayrıldıkları tarihten itibaren en geç 2 ay içinde müracaat etmeleri halinde bir defaya mahsus olmak üzere talepleri doğrultusunda durumlarına uygun bir kadroya atanabilirler. Bu süreden daha az görev yapanlar ise önceki kadrolarının bulunduğu ildeki durumlarına uygun bir kadroya atanırlar.
 
-(3) (Mülga:RG-4/4/2015-29316)
+(3) **(Mülga:RG-4/4/2015-29316)**
 
 #### Üst hizmet bölgelerinden alt hizmet bölgelerine ve bölge içi atama
 
@@ -337,7 +337,7 @@ c) Yer değişikliği talebinde bulunan personelin eşinin görev yaptığı yer
 
 (4)Ancaktabipveuzmantabipler;ilçe,beldeveköylerden1,2ve3üncühizmetbölgesindebulunan il merkezlerine atanamaz.
 
-(5)(Değişik:RG-4/4/2015-29316) 16 ncı maddenin ikinci fıkrasının (g) bendi ile 20 nci maddesi kapsamında atanmış olup 18 inci maddenin altıncı fıkrasında belirtilen süreyi tamamlamamış olması ve talebi halinde bir defaya mahsus olmak üzere eski görev yerine veya eski görev yeri esas alınarak bu maddenin birinci fıkrası hükümlerine göre atanabilir.
+(5)**(Değişik:RG-4/4/2015-29316)** 16 ncı maddenin ikinci fıkrasının (g) bendi ile 20 nci maddesi kapsamında atanmış olup 18 inci maddenin altıncı fıkrasında belirtilen süreyi tamamlamamış olması ve talebi halinde bir defaya mahsus olmak üzere eski görev yerine veya eski görev yeri esas alınarak bu maddenin birinci fıkrası hükümlerine göre atanabilir.
 
 #### Yeni açılan tesisler
 
@@ -359,15 +359,15 @@ c) Yer değişikliği talebinde bulunan personelin eşinin görev yaptığı yer
 
 #### Müracaat sınırlamaları
 
-**MADDE 30 –** (1) (Değişik:RG-4/4/2015-29316) Bu Yönetmelik hükümlerine göre atanan personel atandıkları tarihten itibaren fiilen iki yıl çalışmadıkça başka bir yere atanma talebinde bulunamaz. Ancak atanma talepleri 16 ncı maddenin ikinci fıkrası ile 19, 20 ve 21 inci maddeler kapsamında ise fiilen iki yıl çalışmış olma şartı aranmaz.
+**MADDE 30 –** (1) **(Değişik:RG-4/4/2015-29316)** Bu Yönetmelik hükümlerine göre atanan personel atandıkları tarihten itibaren fiilen iki yıl çalışmadıkça başka bir yere atanma talebinde bulunamaz. Ancak atanma talepleri 16 ncı maddenin ikinci fıkrası ile 19, 20 ve 21 inci maddeler kapsamında ise fiilen iki yıl çalışmış olma şartı aranmaz.
 
-(2) (Değişik:RG-4/4/2015-29316) Bu Yönetmeliğin 16, 19, 20, 21 ve 26 ncı maddelere göre atanmış olup atama kararlarını iptal ettirenler, mazeret durumlarında yeni bir değişiklik olmadığı müddetçe bir yıl süre ile atama talebinde bulunamazlar.
+(2) **(Değişik:RG-4/4/2015-29316)** Bu Yönetmeliğin 16, 19, 20, 21 ve 26 ncı maddelere göre atanmış olup atama kararlarını iptal ettirenler, mazeret durumlarında yeni bir değişiklik olmadığı müddetçe bir yıl süre ile atama talebinde bulunamazlar.
 
-(3) (Değişik:RG-4/4/2015-29316) Branşında eğitim kliniği bulunan eğitim araştırma hastanelerine 16 ncı maddesinin birinci fıkrası, 17, 26 ve 29 uncu maddesine göre atanma talebinde bulunan uzman tabip ile uzman diş tabiplerinin başasistanlık sınavı başvuru şartlarını taşıdığını belgelemesi gerekir.
+(3) **(Değişik:RG-4/4/2015-29316)** Branşında eğitim kliniği bulunan eğitim araştırma hastanelerine 16 ncı maddesinin birinci fıkrası, 17, 26 ve 29 uncu maddesine göre atanma talebinde bulunan uzman tabip ile uzman diş tabiplerinin başasistanlık sınavı başvuru şartlarını taşıdığını belgelemesi gerekir.
 
-(4) (Değişik:RG-4/4/2015-29316) 19 uncu madde kapsamında atanan personel, 26 ve 29 uncu maddelere göre, 20 nci maddesi ile 16 ncı maddesinin ikinci fıkrasının (g) bendi kapsamında atanan personel ise 29 uncu maddeye göre atanma talebinde bulunamaz.
+(4) **(Değişik:RG-4/4/2015-29316)** 19 uncu madde kapsamında atanan personel, 26 ve 29 uncu maddelere göre, 20 nci maddesi ile 16 ncı maddesinin ikinci fıkrasının (g) bendi kapsamında atanan personel ise 29 uncu maddeye göre atanma talebinde bulunamaz.
 
-(5) (Ek ibare:RG-4/4/2015-29316) 16 ncı maddenin ikinci fıkrası ile 19 uncu, 20 nci ve 21 inci maddeler kapsamındaki atanma talepleri hariç, aday memur olan personel atanma talebinde bulunamaz.
+(5) **(Ek ibare:RG-4/4/2015-29316)** 16 ncı maddenin ikinci fıkrası ile 19 uncu, 20 nci ve 21 inci maddeler kapsamındaki atanma talepleri hariç, aday memur olan personel atanma talebinde bulunamaz.
 
 #### İstihdam planlama komisyonu, görevi ve çalışma usulü
 
@@ -395,17 +395,17 @@ c) Yer değişikliği talebinde bulunan personelin eşinin görev yaptığı yer
 
 **MADDE 34 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+**Yönetmeliğin Yayımlandığı Resmî Gazete’nin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**
 
 26/3/2013 28599
 
-Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî
+**Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî**
 
-Gazetelerin
+**Gazetelerin**
 
-Tarihi Sayısı
+**Tarihi Sayısı**
 
 1. 4/4/2015 29316
 

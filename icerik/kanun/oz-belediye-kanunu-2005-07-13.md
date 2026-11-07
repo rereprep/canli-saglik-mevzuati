@@ -14,21 +14,21 @@ durum: "yürürlükte"
 
 ### BELEDİYE KANUNU
 
-Kanun Numarası : 5393
+**Kanun Numarası : 5393**
 
-Kabul Tarihi : 3/7/2005
+**Kabul Tarihi : 3/7/2005**
 
-Yayımlandığı Resmî Gazete : Tarih : 13/7/2005 Sayı : 25874
+**Yayımlandığı Resmî Gazete : Tarih : 13/7/2005 Sayı : 25874**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 44
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 44**
 
 ### BİRİNCİ KISIM
 
-Genel Hükümler
+**Genel Hükümler**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Tanımlar
+**Amaç, Kapsam ve Tanımlar**
 
 #### Amaç
 
@@ -54,7 +54,7 @@ d) Mahalle: Belediye sınırları içinde, ihtiyaç ve öncelikleri benzer özel
 
 ### İKİNCİ BÖLÜM
 
-Belediyenin Kuruluşu ve Sınırları
+**Belediyenin Kuruluşu ve Sınırları**
 
 #### Kuruluş
 
@@ -66,9 +66,9 @@ Köylerin veya muhtelif köy kısımlarının birleşerek belediye kurabilmeleri
 
 Bir veya birden fazla köyün köy ihtiyar meclisinin kararı veya seçmenlerinin en az yarısından bir fazlasının mahallin en büyük mülkî idare amirine yazılı başvurusu ya da valinin kendiliğinden buna gerek görmesi durumunda, valinin bildirimi üzerine, mahallî seçim kurulları, onbeş gün içinde köyde veya köy kısımlarında kayıtlı seçmenlerin oylarını alır ve sonucu bir tutanakla valiliğe bildirir.
 
-İşlem dosyası valinin görüşüyle birlikte Çevre ve Şehircilik Bakanlığına gönderilir ve o yerde belediye kurulabilir. (İptal ikinci cümle:Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile) [1][2]
+İşlem dosyası valinin görüşüyle birlikte Çevre ve Şehircilik Bakanlığına gönderilir ve o yerde belediye kurulabilir. **(İptal ikinci cümle:Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile)** [1][2]
 
-(İptal altıncı fıkra:Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile) (Yeniden Düzenlenen fıkra:18/6/2025-7551/13 md.) Yeni iskân nedeniyle oluşturulan ve nüfusu 5.000 ve üzerinde olan herhangi bir yerleşim yerinde belediye kurulabilir.
+**(İptal altıncı fıkra:Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile) (Yeniden Düzenlenen fıkra:18/6/2025-7551/13 md.)** Yeni iskân nedeniyle oluşturulan ve nüfusu 5.000 ve üzerinde olan herhangi bir yerleşim yerinde belediye kurulabilir.
 
 #### Sınırların tespiti
 
@@ -116,7 +116,7 @@ Birleşme ve katılma işlemlerinde bu maddede düzenlenmeyen hususlarda 4 ünc�
 
 Belediye sınırları içinde mahalle kurulması, kaldırılması, birleştirilmesi, bölünmesi, adlarıyla sınırlarının tespiti ve değiştirilmesi, belediye meclisinin kararı ve kaymakamın görüşü üzerine valinin onayı ile olur.
 
-Muhtar, mahalle sakinlerinin gönüllü katılımıyla ortak ihtiyaçları belirlemek, mahallenin yaşam kalitesini geliştirmek, belediye ve diğer kamu kurum ve kuruluşlarıyla ilişkilerini yürütmek, mahalle ile ilgili konularda görüş bildirmek, diğer kurumlarla iş birliği yapmak ve kanunlarla verilen diğer görevleri yapmakla yükümlüdür. (Ek cümle: 12/11/2012-6360/15 md.) Belediye sınırları içinde nüfusu 500’ün altında mahalle kurulamaz.
+Muhtar, mahalle sakinlerinin gönüllü katılımıyla ortak ihtiyaçları belirlemek, mahallenin yaşam kalitesini geliştirmek, belediye ve diğer kamu kurum ve kuruluşlarıyla ilişkilerini yürütmek, mahalle ile ilgili konularda görüş bildirmek, diğer kurumlarla iş birliği yapmak ve kanunlarla verilen diğer görevleri yapmakla yükümlüdür. **(Ek cümle: 12/11/2012-6360/15 md.)** Belediye sınırları içinde nüfusu 500’ün altında mahalle kurulamaz.
 
 Belediye, mahallenin ve muhtarlığın ihtiyaçlarının karşılanması ve sorunlarının çözümü için bütçe imkânları ölçüsünde gerekli ayni yardım ve desteği sağlar; kararlarında mahallelinin ortak isteklerini göz önünde bulundurur ve hizmetlerin mahallenin ihtiyaçlarına uygun biçimde yürütülmesini sağlamaya çalışır.
 
@@ -126,11 +126,11 @@ Belediye, mahallenin ve muhtarlığın ihtiyaçlarının karşılanması ve soru
 
 #### Tüzel kişiliğin sona erdirilmesi [5]
 
-**Madde 11 –** (İptal birinci cümle:Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile) (Yeniden Düzenlenen cümle:18/6/2025-7551/14 md.) Meskûn sahası, bağlı olduğu il veya ilçe belediyesi ile nüfusu 50.000 ve üzerinde olan bir belediyenin sınırına, 5.000 metreden daha yakın duruma gelen belediye ve köylerin tüzel kişiliği; genel imar düzeni veya temel alt yapı hizmetlerinin gerekli kılması durumunda kaldırılarak bu belediyeye katılır. Tüzel kişiliği kaldırılan belediyenin mahalleleri, katıldıkları belediyenin mahalleleri hâline gelir. Tüzel kişiliği kaldırılan belediye ile köylerin taşınır ve taşınmaz mal, hak, alacak ve borçları katıldıkları belediyeye intikal eder.
+**Madde 11 – (İptal birinci cümle:Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile) (Yeniden Düzenlenen cümle:18/6/2025-7551/14 md.)** Meskûn sahası, bağlı olduğu il veya ilçe belediyesi ile nüfusu 50.000 ve üzerinde olan bir belediyenin sınırına, 5.000 metreden daha yakın duruma gelen belediye ve köylerin tüzel kişiliği; genel imar düzeni veya temel alt yapı hizmetlerinin gerekli kılması durumunda kaldırılarak bu belediyeye katılır. Tüzel kişiliği kaldırılan belediyenin mahalleleri, katıldıkları belediyenin mahalleleri hâline gelir. Tüzel kişiliği kaldırılan belediye ile köylerin taşınır ve taşınmaz mal, hak, alacak ve borçları katıldıkları belediyeye intikal eder.
 
 (İptal birinci cümle:Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile) (Yeniden Düzenlenen cümle:18/6/2025-7551/14 md.) Nüfusu 2.000’in altına düşen belediyeler köye dönüştürülür. Tüzel kişiliği kaldırılan belediyenin tasfiyesi il özel idaresi tarafından yapılır. Bu belediyenin taşınır ve taşınmaz malları ile hak, alacak ve borçları ilgili köy tüzel kişiliğine intikal eder. İntikal eden borçların karşılanamayan kısımları il özel idaresi tarafından üstlenilir ve vali tarafından İller Bankasına bildirilir. İller Bankası bu miktarı, takip eden ayın genel bütçe vergi gelirleri tahsilat toplamının belediyelere ayrılan kısmından keserek ilgili il özel idaresi hesabına aktarır.
 
-(Ek fıkra: 6/3/2008-5747/3 md.) Tüzel kişiliği kaldırılan belediyelerin bulunduğu yerleşim birimlerinde, hizmetlerin aksamadan yürütülmesi amacıyla, ilgili belediye veya büyükşehir belediyesi ve köye dönüşen yerlerde il özel idaresi veya köylere hizmet götürme birlikleri tarafından içme suyu, kanalizasyon, temizlik, çöp toplama, ulaşım, itfaiye ve diğer hizmetlerin yürütülmesi için gerekli tedbirler alınır ve ihtiyaç durumuna göre bu hizmetleri yürütmek üzere hizmet birimleri kurulabilir. Büyükşehir belediye sınırları içinde açılacak hizmet birimlerini yönetmek üzere, büyükşehir belediye meclis üyeleri veya diğer belediye personeli arasından görevlendirme yapılabilir. Mahalli hizmetlerin aksamadan yürütülmesi için vali veya kaymakamlar ilgili kuruluşlar arasında koordinasyonu sağlar ve gerekli tedbirleri alır.
+**(Ek fıkra: 6/3/2008-5747/3 md.)** Tüzel kişiliği kaldırılan belediyelerin bulunduğu yerleşim birimlerinde, hizmetlerin aksamadan yürütülmesi amacıyla, ilgili belediye veya büyükşehir belediyesi ve köye dönüşen yerlerde il özel idaresi veya köylere hizmet götürme birlikleri tarafından içme suyu, kanalizasyon, temizlik, çöp toplama, ulaşım, itfaiye ve diğer hizmetlerin yürütülmesi için gerekli tedbirler alınır ve ihtiyaç durumuna göre bu hizmetleri yürütmek üzere hizmet birimleri kurulabilir. Büyükşehir belediye sınırları içinde açılacak hizmet birimlerini yönetmek üzere, büyükşehir belediye meclis üyeleri veya diğer belediye personeli arasından görevlendirme yapılabilir. Mahalli hizmetlerin aksamadan yürütülmesi için vali veya kaymakamlar ilgili kuruluşlar arasında koordinasyonu sağlar ve gerekli tedbirleri alır.
 
 #### Kararlarının uygulanması ve nüfus
 
@@ -138,15 +138,15 @@ Belediye, mahallenin ve muhtarlığın ihtiyaçlarının karşılanması ve soru
 
 8 inci maddede geçen birleşme ve katılmalara, 9 uncu maddede geçen mahalle kaldırılmasına, 11 inci maddede geçen belediye ve köy tüzel kişiliğinin kaldırılmasına veya bir beldenin köye dönüştürülmesine dair kararlar ilk mahallî idareler seçimlerinde uygulanır ve seçimler bu yerlerin yeni durumlarına göre yapılır.
 
-(Ek fıkra: 6/3/2007-5594/2 md.) Birleşme, katılma veya tüzel kişiliğin kaldırılması sonucu tüzel kişiliği ilk mahallî idare seçimlerine kadar devam edecek olan belediye ve köylerde, birleşme ve katılma işleminin gerçekleştiği (…)[6] tarihten itibaren yeni nazım ve uygulama planı yapılmaz; mevcut planlarda yapılması gereken zorunlu değişiklik ve her türlü imar uygulaması katılınacak belediyenin uygun görüşü alınarak yapılır. Uygun görüş verilmeyen plan değişiklikleri yapılamaz.[7][8]
+**(Ek fıkra: 6/3/2007-5594/2 md.)** Birleşme, katılma veya tüzel kişiliğin kaldırılması sonucu tüzel kişiliği ilk mahallî idare seçimlerine kadar devam edecek olan belediye ve köylerde, birleşme ve katılma işleminin gerçekleştiği (…)[6] tarihten itibaren yeni nazım ve uygulama planı yapılmaz; mevcut planlarda yapılması gereken zorunlu değişiklik ve her türlü imar uygulaması katılınacak belediyenin uygun görüşü alınarak yapılır. Uygun görüş verilmeyen plan değişiklikleri yapılamaz.[7][8]
 
-(Ek fıkra: 6/3/2007-5594/2 md.) Tüzel kişiliği sona erecek belediye ve köylerin taşınmazlarının satılması ile vadesi tüzel kişiliğin sona ereceği tarihi aşan borçlanma yapılması Çevre ve Şehircilik Bakanlığının onayına tabidir. [9]
+**(Ek fıkra: 6/3/2007-5594/2 md.)** Tüzel kişiliği sona erecek belediye ve köylerin taşınmazlarının satılması ile vadesi tüzel kişiliğin sona ereceği tarihi aşan borçlanma yapılması Çevre ve Şehircilik Bakanlığının onayına tabidir. [9]
 
-(Ek fıkra: 6/3/2007-5594/2 md.) Belediye ihbar ve kıdem tazminatlarının ödenmesi konusunda, 68 inci maddenin (d) bendinde öngörülen sınırlamaya bağlı olmaksızın Çevre ve Şehircilik Bakanlığının onayı ile borçlanma yapabilir. Bu amaçla yapılan borçlanmalar ihbar ve kıdem tazminatı dışında hiçbir gider için kullanılamaz. 9
+**(Ek fıkra: 6/3/2007-5594/2 md.)** Belediye ihbar ve kıdem tazminatlarının ödenmesi konusunda, 68 inci maddenin (d) bendinde öngörülen sınırlamaya bağlı olmaksızın Çevre ve Şehircilik Bakanlığının onayı ile borçlanma yapabilir. Bu amaçla yapılan borçlanmalar ihbar ve kıdem tazminatı dışında hiçbir gider için kullanılamaz. 9
 
 Bu Kanunda öngörülen nüfus büyüklüğü için Devlet İstatistik Enstitüsü Başkanlığınca bildirilen nüfus esas alınır.
 
-(Ek fıkra: 12/11/2012-6360/16 md.) Mevzuatla orman köyleri ve orman köylüsüne tanınan hak, sorumluluk ve imtiyazlar orman köyü iken mahalleye dönüşen yerler için devam eder. (Ek cümle: 20/2/2014-6525/28 md.) Bu hüküm, belde iken sakinleri orman köylüsüne tanınan hak, sorumluluk ve imtiyazlardan yararlanan mahalleye dönüştürülen beldeler için de geçerlidir. Bir belediyeye katılarak mahalleye dönüşen köy, köy bağlısı ve belediyelerce kullanılan mera, yaylak, kışlak gibi yerlerden bu mahalle sakinleri ve varsa diğer hak sahipleri 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu hükümleri çerçevesinde yararlanmaya devam eder.
+**(Ek fıkra: 12/11/2012-6360/16 md.)** Mevzuatla orman köyleri ve orman köylüsüne tanınan hak, sorumluluk ve imtiyazlar orman köyü iken mahalleye dönüşen yerler için devam eder. **(Ek cümle: 20/2/2014-6525/28 md.)** Bu hüküm, belde iken sakinleri orman köylüsüne tanınan hak, sorumluluk ve imtiyazlardan yararlanan mahalleye dönüştürülen beldeler için de geçerlidir. Bir belediyeye katılarak mahalleye dönüşen köy, köy bağlısı ve belediyelerce kullanılan mera, yaylak, kışlak gibi yerlerden bu mahalle sakinleri ve varsa diğer hak sahipleri 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu hükümleri çerçevesinde yararlanmaya devam eder.
 
 #### Hemşehri hukuku
 
@@ -158,19 +158,19 @@ Belediye sınırları içinde oturan, bulunan veya ilişiği olan her şahıs, b
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Belediyenin Görev, Yetki ve Sorumlulukları
+**Belediyenin Görev, Yetki ve Sorumlulukları**
 
 #### Belediyenin görev ve sorumlulukları
 
 **Madde 14 –** Belediye, mahallî müşterek nitelikte olmak şartıyla;
 
-a) İmar, su ve kanalizasyon, ulaşım gibi kentsel alt yapı; coğrafî ve kent bilgi sistemleri; çevre ve çevre sağlığı, temizlik ve katı atık; zabıta, itfaiye, acil yardım, kurtarma ve ambulans; şehir içi trafik; defin ve mezarlıklar; ağaçlandırma, park ve yeşil alanlar; konut; kültür ve sanat, turizm ve tanıtım, gençlik ve spor orta ve yüksek öğrenim öğrenci yurtları (Bu Kanunun 75 inci maddesinin son fıkrası, belediyeler, il özel idareleri, bağlı kuruluşları ve bunların üyesi oldukları birlikler ile ortağı oldukları Sayıştay denetimine tabi şirketler tarafından, orta ve yüksek öğrenim öğrenci yurtları ile Devlete ait her derecedeki okul binalarının yapım, bakım ve onarımı ile tefrişinde uygulanmaz.); sosyal hizmet ve yardım, nikâh, meslek ve beceri kazandırma; ekonomi ve ticaretin geliştirilmesi hizmetlerini yapar veya yaptırır . (Mülga son cümle: 12/11/2012-6360/17 md.) (…) (Ek cümleler: 12/11/2012-6360/17 md.) Büyükşehir belediyeleri ile nüfusu 100.000’in üzerindeki belediyeler, kadınlar ve çocuklar için konukevleri açmak zorundadır. Diğer belediyeler de mali durumları ve hizmet önceliklerini değerlendirerek kadınlar ve çocuklar için konukevleri açabilirler.[10][11]
+a) İmar, su ve kanalizasyon, ulaşım gibi kentsel alt yapı; coğrafî ve kent bilgi sistemleri; çevre ve çevre sağlığı, temizlik ve katı atık; zabıta, itfaiye, acil yardım, kurtarma ve ambulans; şehir içi trafik; defin ve mezarlıklar; ağaçlandırma, park ve yeşil alanlar; konut; kültür ve sanat, turizm ve tanıtım, gençlik ve spor orta ve yüksek öğrenim öğrenci yurtları (Bu Kanunun 75 inci maddesinin son fıkrası, belediyeler, il özel idareleri, bağlı kuruluşları ve bunların üyesi oldukları birlikler ile ortağı oldukları Sayıştay denetimine tabi şirketler tarafından, orta ve yüksek öğrenim öğrenci yurtları ile Devlete ait her derecedeki okul binalarının yapım, bakım ve onarımı ile tefrişinde uygulanmaz.); sosyal hizmet ve yardım, nikâh, meslek ve beceri kazandırma; ekonomi ve ticaretin geliştirilmesi hizmetlerini yapar veya yaptırır . **(Mülga son cümle: 12/11/2012-6360/17 md.) (…) (Ek cümleler: 12/11/2012-6360/17 md.)** Büyükşehir belediyeleri ile nüfusu 100.000’in üzerindeki belediyeler, kadınlar ve çocuklar için konukevleri açmak zorundadır. Diğer belediyeler de mali durumları ve hizmet önceliklerini değerlendirerek kadınlar ve çocuklar için konukevleri açabilirler.[10][11]
 
-b) (…)[12] Devlete ait her derecedeki okul binalarının inşaatı ile bakım ve onarımını yapabilir veya yaptırabilir, her türlü araç, gereç ve malzeme ihtiyaçlarını karşılayabilir; sağlıkla ilgili her türlü tesisi açabilir ve işletebilir; mabetlerin yapımı, bakımı, onarımını yapabilir; kültür ve tabiat varlıkları ile tarihî dokunun ve kent tarihi bakımından önem taşıyan mekânların ve işlevlerinin korunmasını sağlayabilir; bu amaçla bakım ve onarımını yapabilir, korunması mümkün olmayanları aslına uygun olarak yeniden inşa edebilir; cemevlerinin yapım, bakım ve onarımını yapabilir. (Değişik ikinci cümle: 12/11/2012-6360/17 md.) Gerektiğinde, sporu teşvik etmek amacıyla gençlere spor malzemesi verir, amatör spor kulüplerine ayni ve nakdî yardım yapar ve gerekli desteği sağlar, her türlü amatör spor karşılaşmaları düzenler, yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren veya derece alan öğrencilere, sporculara, teknik yöneticilere ve antrenörlere belediye meclisi kararıyla ödül verebilir. Gıda bankacılığı yapabilir.[13][14]
+b) (…)[12] Devlete ait her derecedeki okul binalarının inşaatı ile bakım ve onarımını yapabilir veya yaptırabilir, her türlü araç, gereç ve malzeme ihtiyaçlarını karşılayabilir; sağlıkla ilgili her türlü tesisi açabilir ve işletebilir; mabetlerin yapımı, bakımı, onarımını yapabilir; kültür ve tabiat varlıkları ile tarihî dokunun ve kent tarihi bakımından önem taşıyan mekânların ve işlevlerinin korunmasını sağlayabilir; bu amaçla bakım ve onarımını yapabilir, korunması mümkün olmayanları aslına uygun olarak yeniden inşa edebilir; cemevlerinin yapım, bakım ve onarımını yapabilir. **(Değişik ikinci cümle: 12/11/2012-6360/17 md.)** Gerektiğinde, sporu teşvik etmek amacıyla gençlere spor malzemesi verir, amatör spor kulüplerine ayni ve nakdî yardım yapar ve gerekli desteği sağlar, her türlü amatör spor karşılaşmaları düzenler, yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren veya derece alan öğrencilere, sporculara, teknik yöneticilere ve antrenörlere belediye meclisi kararıyla ödül verebilir. Gıda bankacılığı yapabilir.[13][14]
 
-(Ek fıkra: 12/11/2012-6360/17 md.; Değişik: 12/7/2013-6495/100 md.) Belediyelerin birinci fıkranın (b) bendi uyarınca, sporu teşvik etmek amacıyla yapacakları nakdi yardım, bir önceki yıl genel bütçe vergi gelirlerinden belediyeleri için tahakkuk eden miktarın; büyükşehir belediyeleri için binde yedisini, diğer belediyeler için binde on ikisini geçemez.
+**(Ek fıkra: 12/11/2012-6360/17 md.; Değişik: 12/7/2013-6495/100 md.)** Belediyelerin birinci fıkranın (b) bendi uyarınca, sporu teşvik etmek amacıyla yapacakları nakdi yardım, bir önceki yıl genel bütçe vergi gelirlerinden belediyeleri için tahakkuk eden miktarın; büyükşehir belediyeleri için binde yedisini, diğer belediyeler için binde on ikisini geçemez.
 
-(İptal fıkra: Anayasa Mahkemesinin 24/1/2007 tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile. )
+**(İptal fıkra: Anayasa Mahkemesinin 24/1/2007 tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile. )**
 
 Hizmetlerin yerine getirilmesinde öncelik sırası, belediyenin malî durumu ve hizmetin ivediliği dikkate alınarak belirlenir.
 
@@ -182,7 +182,7 @@ Belediye meclisinin kararı ile mücavir alanlara da belediye hizmetleri götür
 
 4562 sayılı Organize Sanayi Bölgeleri Kanunu hükümleri saklıdır.
 
-(Ek fıkra: 1/7/2006-5538/29 md.) Sivil hava ulaşımına açık havaalanları ile bu havaalanları bünyesinde yer alan tüm tesisler bu Kanunun kapsamı dışındadır.
+**(Ek fıkra: 1/7/2006-5538/29 md.)** Sivil hava ulaşımına açık havaalanları ile bu havaalanları bünyesinde yer alan tüm tesisler bu Kanunun kapsamı dışındadır.
 
 #### Belediyenin yetkileri ve imtiyazları
 
@@ -220,21 +220,21 @@ o) Gayrisıhhî işyerlerini, eğlence yerlerini, halk sağlığına ve çevreye
 
 p) Kara, deniz, su ve demiryolu üzerinde işletilen her türlü servis ve toplu taşıma araçları ile taksi sayılarını, bilet ücret ve tarifelerini, zaman ve güzergâhlarını belirlemek; durak yerleri ile karayolu, yol, cadde, sokak, meydan ve benzeri yerler üzerinde araç park yerlerini tespit etmek ve işletmek, işlettirmek veya kiraya vermek; kanunların belediyelere verdiği trafik düzenlemesinin gerektirdiği bütün işleri yürütmek.
 
-r) (Ek: 12/11/2012-6360/18 md.) Belediye mücavir alan sınırları içerisinde 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanunu, 26/9/2011 tarihli ve 655 sayılı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ve ilgili diğer mevzuata göre kuruluş izni verilen alanda tesis edilecek elektronik haberleşme istasyonlarına kent ve yapı estetiği ile elektronik haberleşme hizmetinin gerekleri dikkate alınarak ücret karşılığında yer seçim belgesi vermek,
+r) **(Ek: 12/11/2012-6360/18 md.)** Belediye mücavir alan sınırları içerisinde 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanunu, 26/9/2011 tarihli ve 655 sayılı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ve ilgili diğer mevzuata göre kuruluş izni verilen alanda tesis edilecek elektronik haberleşme istasyonlarına kent ve yapı estetiği ile elektronik haberleşme hizmetinin gerekleri dikkate alınarak ücret karşılığında yer seçim belgesi vermek,
 
-s) (Ek: 4/4/2015-6645/84 md.) Belediye sınırları içerisinde, yapı ruhsatı veya yapı kullanma izni hangi idare tarafından verilmiş olursa olsun, hizmete sunulacak olan asansörlerin tescilini yapmak, ilgili teknik mevzuat çerçevesinde yıllık periyodik kontrollerini yapmak ya da yetkilendirilmiş muayene kuruluşları aracılığıyla yaptırmak, gerekli hâllerde asansörleri hizmet dışı bırakmak.
+s) **(Ek: 4/4/2015-6645/84 md.)** Belediye sınırları içerisinde, yapı ruhsatı veya yapı kullanma izni hangi idare tarafından verilmiş olursa olsun, hizmete sunulacak olan asansörlerin tescilini yapmak, ilgili teknik mevzuat çerçevesinde yıllık periyodik kontrollerini yapmak ya da yetkilendirilmiş muayene kuruluşları aracılığıyla yaptırmak, gerekli hâllerde asansörleri hizmet dışı bırakmak.
 
-ş) (Ek:24/12/2020-7261/33 md.) Bisiklet yollarının ve şeritlerinin, bisiklet ve elektrikli skuter park ve şarj istasyonlarının, yaya yollarının ve gürültü bariyerlerinin planlanması, projelendirilmesi, yapımı, bakımı ve onarımıyla ilgili işleri yürütmek.
+ş) **(Ek:24/12/2020-7261/33 md.)** Bisiklet yollarının ve şeritlerinin, bisiklet ve elektrikli skuter park ve şarj istasyonlarının, yaya yollarının ve gürültü bariyerlerinin planlanması, projelendirilmesi, yapımı, bakımı ve onarımıyla ilgili işleri yürütmek.
 
-(Ek fıkra: 4/4/2015-6645/84 md.) (s) bendi uyarınca asansörlerin yıllık periyodik kontrolünü yapacak belediyeler ile yetkilendirilmiş muayene kuruluşlarının sahip olması gereken şartlar, yıllık periyodik kontrol esasları ile yıllık periyodik kontrol ücretleri Türkiye Belediyeler Birliği, Türk Mühendis ve Mimar Odaları Birliği ve Türk Standardları Enstitüsü temsilcilerinin de yer alacağı bir komisyon tarafından belirlenir. Konuya ilişkin düzenlemeler, komisyon kararları doğrultusunda Bilim, Sanayi ve Teknoloji Bakanlığı tarafından yapılır.
+**(Ek fıkra: 4/4/2015-6645/84 md.)** (s) bendi uyarınca asansörlerin yıllık periyodik kontrolünü yapacak belediyeler ile yetkilendirilmiş muayene kuruluşlarının sahip olması gereken şartlar, yıllık periyodik kontrol esasları ile yıllık periyodik kontrol ücretleri Türkiye Belediyeler Birliği, Türk Mühendis ve Mimar Odaları Birliği ve Türk Standardları Enstitüsü temsilcilerinin de yer alacağı bir komisyon tarafından belirlenir. Konuya ilişkin düzenlemeler, komisyon kararları doğrultusunda Bilim, Sanayi ve Teknoloji Bakanlığı tarafından yapılır.
 
-(Ek fıkra: 12/11/2012-6360/18 md.) (r) bendine göre verilecek yer seçim belgesi karşılığında alınacak ücret Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca belirlenir. Ücreti yatırılmasına rağmen yirmi gün içerisinde verilmeyen yer seçim belgesi verilmiş sayılır. Büyükşehir sınırları içerisinde yer seçim belgesi vermeye ve ücretini almaya büyükşehir belediyeleri yetkilidir.
+**(Ek fıkra: 12/11/2012-6360/18 md.)** (r) bendine göre verilecek yer seçim belgesi karşılığında alınacak ücret Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca belirlenir. Ücreti yatırılmasına rağmen yirmi gün içerisinde verilmeyen yer seçim belgesi verilmiş sayılır. Büyükşehir sınırları içerisinde yer seçim belgesi vermeye ve ücretini almaya büyükşehir belediyeleri yetkilidir.
 
 (l) bendinde belirtilen gayrisıhhî müesseselerden birinci sınıf olanların ruhsatlandırılması ve denetlenmesi, büyükşehir ve il merkez belediyeleri dışındaki yerlerde il özel idaresi tarafından yapılır.
 
 Belediye, (e), (f) ve (g) bentlerinde belirtilen hizmetleri Danıştayın görüşü ve Çevre ve Şehircilik Bakanlığının kararıyla süresi kırkdokuz yılı geçmemek üzere imtiyaz yoluyla devredebilir; toplu taşıma hizmetlerini imtiyaz veya tekel oluşturmayacak şekilde ruhsat vermek suretiyle yerine getirebileceği gibi toplu taşıma hatlarını kiraya verme veya 67 nci maddedeki esaslara göre hizmet satın alma yoluyla yerine getirebilir. [16]
 
-İl sınırları içinde büyükşehir belediyeleri, belediye ve mücavir alan sınırları içinde il belediyeleri ile nüfusu 10.000'i geçen belediyeler, meclis kararıyla; turizm, sağlık, sanayi ve ticaret yatırımlarının ve eğitim kurumlarının su, termal su, kanalizasyon, doğal gaz, yol ve aydınlatma gibi alt yapı çalışmalarını faiz almaksızın on yıla kadar geri ödemeli veya ücretsiz olarak yapabilir veya yaptırabilir, bunun karşılığında yapılan tesislere ortak olabilir; sağlık, eğitim, sosyal hizmet ve turizmi geliştirecek projelere Çevre ve Şehircilik Bakanlığının onayı ile ücretsiz veya düşük bir bedelle amacı dışında kullanılmamak kaydıyla taşınmaz tahsis edebilir. (Ek cümle: 12/11/2012-6360/18 md.) Belediye ve bağlı idareler, meclis kararıyla mabetlere, eğitim kurumlarına, yurtlara, okul pansiyonlarına, hastanelere ve cemevlerine indirimli bedelle ya da ücretsiz olarak içme ve kullanma suyu verebilirler. 16 [17][18]
+İl sınırları içinde büyükşehir belediyeleri, belediye ve mücavir alan sınırları içinde il belediyeleri ile nüfusu 10.000'i geçen belediyeler, meclis kararıyla; turizm, sağlık, sanayi ve ticaret yatırımlarının ve eğitim kurumlarının su, termal su, kanalizasyon, doğal gaz, yol ve aydınlatma gibi alt yapı çalışmalarını faiz almaksızın on yıla kadar geri ödemeli veya ücretsiz olarak yapabilir veya yaptırabilir, bunun karşılığında yapılan tesislere ortak olabilir; sağlık, eğitim, sosyal hizmet ve turizmi geliştirecek projelere Çevre ve Şehircilik Bakanlığının onayı ile ücretsiz veya düşük bir bedelle amacı dışında kullanılmamak kaydıyla taşınmaz tahsis edebilir. **(Ek cümle: 12/11/2012-6360/18 md.)** Belediye ve bağlı idareler, meclis kararıyla mabetlere, eğitim kurumlarına, yurtlara, okul pansiyonlarına, hastanelere ve cemevlerine indirimli bedelle ya da ücretsiz olarak içme ve kullanma suyu verebilirler. 16 [17][18]
 
 Belediye, belde sakinlerinin belediye hizmetleriyle ilgili görüş ve düşüncelerini tespit etmek amacıyla kamuoyu yoklaması ve araştırması yapabilir.
 
@@ -242,9 +242,9 @@ Belediye mallarına karşı suç işleyenler Devlet malına karşı suç işlemi
 
 Belediyenin proje karşılığı borçlanma yoluyla elde ettiği gelirleri, şartlı bağışlar ve kamu hizmetlerinde fiilen kullanılan malları ile belediye tarafından tahsil edilen vergi, resim ve harç gelirleri haczedilemez.
 
-(Ek fıkra: 10/9/2014-6552/121 md.) İcra dairesince haciz kararı alınmadan önce belediyeden borca yeter miktarda haczedilebilecek mal gösterilmesi istenir (…) [19]. On gün içinde yeterli mal beyan edilmemesi durumunda yapılacak haciz işlemi, alacak miktarını aşacak (…) 19 şekilde yapılamaz.
+**(Ek fıkra: 10/9/2014-6552/121 md.)** İcra dairesince haciz kararı alınmadan önce belediyeden borca yeter miktarda haczedilebilecek mal gösterilmesi istenir (…) [19]. On gün içinde yeterli mal beyan edilmemesi durumunda yapılacak haciz işlemi, alacak miktarını aşacak (…) 19 şekilde yapılamaz.
 
-(Ek fıkra:22/12/2021-7349/10 md.) Belediyeler, kendisinden izin veya ruhsat almak ya da hat kiralamak suretiyle çalışan ve toplu taşıma hizmeti yürüten gerçek ve tüzel kişilere; nüfus, hattın uzunluğu ve hattı kullanan sayısı kriterlerini esas alarak tespit edeceği hatlardaki toplu taşıma hizmetlerinden ücretsiz veya indirimli olarak yararlananlara ilişkin gelir desteği ödemesi yapabilir.
+**(Ek fıkra:22/12/2021-7349/10 md.)** Belediyeler, kendisinden izin veya ruhsat almak ya da hat kiralamak suretiyle çalışan ve toplu taşıma hizmeti yürüten gerçek ve tüzel kişilere; nüfus, hattın uzunluğu ve hattı kullanan sayısı kriterlerini esas alarak tespit edeceği hatlardaki toplu taşıma hizmetlerinden ücretsiz veya indirimli olarak yararlananlara ilişkin gelir desteği ödemesi yapabilir.
 
 #### Belediyeye tanınan muafiyet
 
@@ -252,11 +252,11 @@ Belediyenin proje karşılığı borçlanma yoluyla elde ettiği gelirleri, şar
 
 ### İKİNCİ KISIM
 
-Belediyenin Organları
+**Belediyenin Organları**
 
 ### BİRİNCİ BÖLÜM
 
-Belediye Meclisi
+**Belediye Meclisi**
 
 #### Belediye meclisi
 
@@ -270,7 +270,7 @@ a) Stratejik plân ile yatırım ve çalışma programlarını, belediye faaliye
 
 b) Bütçe ve kesinhesabı kabul etmek, bütçede kurumsal kodlama yapılan birimler ile fonksiyonel sınıflandırmanın birinci düzeyleri arasında aktarma yapmak.
 
-c) Belediyenin imar plânlarını görüşmek ve onaylamak, büyükşehir ve il belediyelerinde il çevre düzeni plânını kabul etmek. (Ek cümle: 1/7/2006-5538/29 md.) Belediye sınırları il sınırı olan Büyükşehir Belediyelerinde il çevre düzeni planı ilgili Büyükşehir Belediyeleri tarafından yapılır veya yaptırılır ve doğrudan Belediye Meclisi tarafından onaylanır.
+c) Belediyenin imar plânlarını görüşmek ve onaylamak, büyükşehir ve il belediyelerinde il çevre düzeni plânını kabul etmek. **(Ek cümle: 1/7/2006-5538/29 md.)** Belediye sınırları il sınırı olan Büyükşehir Belediyelerinde il çevre düzeni planı ilgili Büyükşehir Belediyeleri tarafından yapılır veya yaptırılır ve doğrudan Belediye Meclisi tarafından onaylanır.
 
 d) Borçlanmaya karar vermek.
 
@@ -334,7 +334,7 @@ Meclis toplantıları açıktır. Meclis başkanının veya üyelerden herhangi 
 
 Meclis görüşmeleri görevlilerce tutanağa geçirilir, başkan ve kâtip üyeler tarafından imzalanır. Toplantılar, meclisin kararıyla sesli ve görüntülü cihazlarla da kaydedilebilir.
 
-(Ek Fıkra: 30/5/2007-5675/3 md.) Belediye başkanı, acil durumlarda lüzum görmesi halinde belediye meclisini bir yılda üç defadan fazla olmamak ve her toplantı bir birleşimi geçmemek üzere toplantıya çağırır. Olağanüstü toplantı çağrısı ve gündem en az üç gün önceden meclis üyelerine yazılı olarak duyurulur ve ayrıca mutat usûllerle ilan edilir. Olağanüstü toplantılarda çağrıyı gerektiren konuların dışında hiçbir konu görüşülemez.
+**(Ek Fıkra: 30/5/2007-5675/3 md.)** Belediye başkanı, acil durumlarda lüzum görmesi halinde belediye meclisini bir yılda üç defadan fazla olmamak ve her toplantı bir birleşimi geçmemek üzere toplantıya çağırır. Olağanüstü toplantı çağrısı ve gündem en az üç gün önceden meclis üyelerine yazılı olarak duyurulur ve ayrıca mutat usûllerle ilan edilir. Olağanüstü toplantılarda çağrıyı gerektiren konuların dışında hiçbir konu görüşülemez.
 
 #### Gündem
 
@@ -368,7 +368,7 @@ Belediye başkanı, meclisin ısrarı ile kesinleşen kararlar aleyhine on gün 
 
 Kararlar kesinleştiği tarihten itibaren en geç yedi gün içinde mahallin en büyük mülkî idare amirine gönderilir. Mülkî idare amirine gönderilmeyen kararlar yürürlüğe girmez.
 
-(İptal beşinci fıkra: Anayasa Mahkemesinin 4/2/2010 tarihli ve E.: 2008/27, K.: 2010/9 sayılı Kararı ile.)
+**(İptal beşinci fıkra: Anayasa Mahkemesinin 4/2/2010 tarihli ve E.: 2008/27, K.: 2010/9 sayılı Kararı ile.)**
 
 Kesinleşen meclis kararlarının özetleri yedi gün içinde uygun araçlarla halka duyurulur.
 
@@ -472,7 +472,7 @@ Meclis üyeleri hastalıkları süresince izinli sayılır. Ayrıca mazeretleri 
 
 ### İKİNCİ BÖLÜM
 
-Belediye Encümeni
+**Belediye Encümeni**
 
 #### Belediye encümeni
 
@@ -530,7 +530,7 @@ Encümen başkan ve üyeleri, münhasıran kendileri, ikinci derece dâhil kan v
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Belediye Başkanı
+**Belediye Başkanı**
 
 #### Belediye başkanı
 
@@ -654,7 +654,7 @@ b) Başkanın görevden uzaklaştırılması, tutuklanması veya seçim dönemin
 
 Seçer.
 
-(Ek fıkra: 15/8/2016-KHK-674/38 md. ; Aynen Kabul: 10/11/2016-6758/34 md.) Ancak, belediye başkanı veya başkan vekili ya da meclis üyesinin terör veya terör örgütlerine yardım ve yataklık suçları sebebiyle görevden uzaklaştırılması veya tutuklanması ya da kamu hizmetinden yasaklanması veya başkanlık sıfatı veya meclis üyeliğinin sona ermesi hallerinde 46 ncı maddedeki makamlarca belediye başkanı veya başkan vekili ya da meclis üyesi görevlendirilir. Görevlendirilecek kişinin seçilme yeterliğine sahip olması şarttır. Görevden uzaklaştırılan veya tutuklanan belediye meclisi üyesinin istifa etmesi halinde de bu fıkra hükümleri uygulanır. Bu fıkra gereğince belediye başkanı veya başkan vekili görevlendirilen belediyelerde bütçe ve muhasebe iş ve işlemleri valilik onayı ile defterdarlığa veya mal müdürlüğüne gördürülebilir. Bu belediyelerde belediye meclisi, başkanın çağrısı olmadıkça toplanamaz. Meclisin, encümenin ve komisyonların görev ve yetkileri 31 inci maddede belirtilen encümen üyeleri tarafından yürütülür.
+**(Ek fıkra: 15/8/2016-KHK-674/38 md. ; Aynen Kabul: 10/11/2016-6758/34 md.)** Ancak, belediye başkanı veya başkan vekili ya da meclis üyesinin terör veya terör örgütlerine yardım ve yataklık suçları sebebiyle görevden uzaklaştırılması veya tutuklanması ya da kamu hizmetinden yasaklanması veya başkanlık sıfatı veya meclis üyeliğinin sona ermesi hallerinde 46 ncı maddedeki makamlarca belediye başkanı veya başkan vekili ya da meclis üyesi görevlendirilir. Görevlendirilecek kişinin seçilme yeterliğine sahip olması şarttır. Görevden uzaklaştırılan veya tutuklanan belediye meclisi üyesinin istifa etmesi halinde de bu fıkra hükümleri uygulanır. Bu fıkra gereğince belediye başkanı veya başkan vekili görevlendirilen belediyelerde bütçe ve muhasebe iş ve işlemleri valilik onayı ile defterdarlığa veya mal müdürlüğüne gördürülebilir. Bu belediyelerde belediye meclisi, başkanın çağrısı olmadıkça toplanamaz. Meclisin, encümenin ve komisyonların görev ve yetkileri 31 inci maddede belirtilen encümen üyeleri tarafından yürütülür.
 
 Belediye başkanı veya başkan vekili belediye meclis üyeleri arasından ve gizli oyla seçilir. İlk iki oylamada üye tam sayısının üçte iki ve üçüncü oylamada üye tam sayısının salt çoğunluğu aranır. Üçüncü oylamada salt çoğunluk sağlanamazsa, bu oylamada en çok oy alan iki aday için dördüncü oylama yapılır. Dördüncü oylamada en fazla oy alan üye, belediye başkanı veya başkan vekili seçilmiş olur. Oyların eşitliği durumunda kur'a çekilir.
 
@@ -672,7 +672,7 @@ Belediye başkanı veya başkan vekili seçimi en geç onbeş gün içinde tamam
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Organlara İlişkin Ortak Hükümler
+**Organlara İlişkin Ortak Hükümler**
 
 #### Görevden uzaklaştırma
 
@@ -686,11 +686,11 @@ Görevden uzaklaştırılan belediye başkanına, görevden uzak kaldığı sür
 
 ### ÜÇÜNCÜ KISIM
 
-Belediye Teşkilâtı
+**Belediye Teşkilâtı**
 
 ### BİRİNCİ BÖLÜM
 
-Belediye Teşkilâtı ve Personeli
+**Belediye Teşkilâtı ve Personeli**
 
 #### Belediye teşkilâtı
 
@@ -704,11 +704,11 @@ Beldenin nüfusu, fizikî ve coğrafî yapısı, ekonomik, sosyal ve kültürel 
 
 Belediye personeli, belediye başkanı tarafından atanır. Birim müdürlüğü ve üstü yönetici kadrolarına yapılan atamalar ilk toplantıda belediye meclisinin bilgisine sunulur.
 
-Belediye ve bağlı kuruluşlarında, norm kadroya uygun olarak çevre, sağlık, veterinerlik, teknik, hukuk, ekonomi, bilişim ve iletişim, plânlama, araştırma ve geliştirme, eğitim ve danışmanlık alanlarında avukat, mimar, mühendis, şehir ve bölge plâncısı, çözümleyici ve programcı, tabip, uzman tabip, ebe, hemşire, veteriner, kimyager, teknisyen ve tekniker gibi uzman ve teknik personel yıllık sözleşme ile çalıştırılabilir. Sözleşmeli personel eliyle yürütülen hizmetlere ilişkin boş kadrolara ayrıca atama yapılamaz. Bu personelin, yürütecekleri hizmetler için ihdas edilmiş kadro unvanının gerektirdiği nitelikleri taşımaları şarttır. Bu fıkra uyarınca sözleşmeli olarak istihdam edileceklere ödenecek net ücret, söz konusu kadro unvanı için birinci derecenin birinci kademesi esas alınmak suretiyle 657 sayılı Devlet Memurları Kanununa göre tespit edilecek her türlü ödemeler toplamının net tutarının yüzde 25 fazlasını geçmemek üzere belediye meclisi kararıyla belirlenir. Genel hükümlere göre birinci dereceden kadro ihdas edilemeyen kadro unvanları için ise o kadro unvanından ihdası yapılmış en yüksek kadro derecesinin birinci kademesi esas alınır ve yapılacak ödemenin azami tutarı yukarıda belirtilen usûle göre tespit olunur. Bu fıkra hükümlerine göre çalıştırılacak personel için Çevre ve Şehircilik Bakanlığı unvanlar itibarıyla sınırlama getirebilir. (Ek cümleler:19/1/2023-7433/6 md.) Sözleşmeli personelin işe alınması memur kadrolarına ilk defa alınma usulüne tabidir. Sözleşmeli personelden üç yıllık çalışma süresini tamamlayanlar talepleri hâlinde sözleşmeli personel olarak çalıştırılmalarına esas alınan memur kadrolarına atanır. Bu kapsamda memur kadrolarına atananların bir yıl süreyle diğer kamu kurum ve kuruluşlarına nakli yapılamaz. Bunların sözleşmeli personel pozisyonlarında geçirdikleri hizmet süreleri, öğrenim durumlarına göre yükselebilecekleri dereceleri aşmamak kaydıyla kazanılmış hak aylık derece ve kademelerinin tespiti ile 657 sayılı Kanunun 64 üncü maddesinin dördüncü fıkrası kapsamında değerlendirilir. Bunlar, atandıkları kadronun mali ve sosyal haklarına göreve başladıkları tarihi takip eden aybaşından itibaren hak kazanır ve önceki pozisyonlarında aldıkları mali ve sosyal haklar hakkında herhangi bir mahsuplaşma yapılmaz. [26][27]
+Belediye ve bağlı kuruluşlarında, norm kadroya uygun olarak çevre, sağlık, veterinerlik, teknik, hukuk, ekonomi, bilişim ve iletişim, plânlama, araştırma ve geliştirme, eğitim ve danışmanlık alanlarında avukat, mimar, mühendis, şehir ve bölge plâncısı, çözümleyici ve programcı, tabip, uzman tabip, ebe, hemşire, veteriner, kimyager, teknisyen ve tekniker gibi uzman ve teknik personel yıllık sözleşme ile çalıştırılabilir. Sözleşmeli personel eliyle yürütülen hizmetlere ilişkin boş kadrolara ayrıca atama yapılamaz. Bu personelin, yürütecekleri hizmetler için ihdas edilmiş kadro unvanının gerektirdiği nitelikleri taşımaları şarttır. Bu fıkra uyarınca sözleşmeli olarak istihdam edileceklere ödenecek net ücret, söz konusu kadro unvanı için birinci derecenin birinci kademesi esas alınmak suretiyle 657 sayılı Devlet Memurları Kanununa göre tespit edilecek her türlü ödemeler toplamının net tutarının yüzde 25 fazlasını geçmemek üzere belediye meclisi kararıyla belirlenir. Genel hükümlere göre birinci dereceden kadro ihdas edilemeyen kadro unvanları için ise o kadro unvanından ihdası yapılmış en yüksek kadro derecesinin birinci kademesi esas alınır ve yapılacak ödemenin azami tutarı yukarıda belirtilen usûle göre tespit olunur. Bu fıkra hükümlerine göre çalıştırılacak personel için Çevre ve Şehircilik Bakanlığı unvanlar itibarıyla sınırlama getirebilir. **(Ek cümleler:19/1/2023-7433/6 md.)** Sözleşmeli personelin işe alınması memur kadrolarına ilk defa alınma usulüne tabidir. Sözleşmeli personelden üç yıllık çalışma süresini tamamlayanlar talepleri hâlinde sözleşmeli personel olarak çalıştırılmalarına esas alınan memur kadrolarına atanır. Bu kapsamda memur kadrolarına atananların bir yıl süreyle diğer kamu kurum ve kuruluşlarına nakli yapılamaz. Bunların sözleşmeli personel pozisyonlarında geçirdikleri hizmet süreleri, öğrenim durumlarına göre yükselebilecekleri dereceleri aşmamak kaydıyla kazanılmış hak aylık derece ve kademelerinin tespiti ile 657 sayılı Kanunun 64 üncü maddesinin dördüncü fıkrası kapsamında değerlendirilir. Bunlar, atandıkları kadronun mali ve sosyal haklarına göreve başladıkları tarihi takip eden aybaşından itibaren hak kazanır ve önceki pozisyonlarında aldıkları mali ve sosyal haklar hakkında herhangi bir mahsuplaşma yapılmaz. [26][27]
 
 Avukat, mimar, mühendis (inşaat mühendisi ve harita mühendisi olmak kaydıyla) ve veteriner kadrosu bulunmayan veya işlerin azlığı nedeniyle bu unvanlarda kadrolu personel istihdamına ihtiyaç duyulmayan belediyelerde, bu hizmetlerin yürütülmesi amacıyla, haftanın ya da ayın belirli gün veya saatlerinde kısmi zamanlı olarak sözleşme ile personel çalıştırılabilir. Kısmi zamanlı olarak çalıştırılacak personel sayısı yukarıda belirtilen her unvan için birden fazla olamaz ve bunlarla yapılacak sözleşme süresi takvim yılını aşamaz. Bunlara ödenecek net ücret, aynı unvanlı kadroların birinci derecesinin birinci kademesi için yapılması gereken bütün ödemeler toplamının net tutarının yarısını geçmemek ve çalıştırılacak süre ile orantılı olmak üzere belediye meclisi kararı ile tespit edilir. Bu fıkra uyarınca sözleşmeli personel olarak çalıştırılanlar için iş sonu tazminatı ödenmez ve işsizlik sigortası primi yatırılmaz. Bunlardan yaptıkları başka işler sebebiyle herhangi bir sosyal güvenlik kurumuna tâbi olanlar için sosyal sigorta ve genel sağlık sigortası primi yatırılmaz ve aynı kişi birden fazla belediye veya bağlı kuruluşta çalıştırılamaz.
 
-Üçüncü ve dördüncü fıkra hükümleri uyarınca çalıştırılacak personele her ne ad altında olursa olsun sözleşme ücreti dışında herhangi bir ödeme yapılmaz ve ücret mahiyetinde aynî ya da nakdî menfaat temin edilmez. Bu personel hakkında bu Kanunla düzenlenmeyen hususlarda vize şartı aranmaksızın 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrasına göre istihdam edilenler hakkındaki hükümler uygulanır. Bu personele ait sözleşme örnekleri sözleşmenin imzalanmasını izleyen 30 gün içinde Çevre ve Şehircilik Bakanlığına gönderilir. (Ek cümle: 29/6/2012-6338/16 md.) Dördüncü fıkrada sayılan unvanlara ilişkin hizmetler dışında kalmak ve o hizmet için ihdas edilmiş kadro bulunmamak kaydıyla, Çevre ve Şehircilik Bakanlığınca üçüncü fıkra çerçevesinde sözleşmeli personel istihdamı uygun görülmüş olan kadro unvanlarına ilişkin görevlerde, 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre münhasıran kısmi süreli olarak sözleşmeli personel çalıştırılabilir.[28][29]
+Üçüncü ve dördüncü fıkra hükümleri uyarınca çalıştırılacak personele her ne ad altında olursa olsun sözleşme ücreti dışında herhangi bir ödeme yapılmaz ve ücret mahiyetinde aynî ya da nakdî menfaat temin edilmez. Bu personel hakkında bu Kanunla düzenlenmeyen hususlarda vize şartı aranmaksızın 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrasına göre istihdam edilenler hakkındaki hükümler uygulanır. Bu personele ait sözleşme örnekleri sözleşmenin imzalanmasını izleyen 30 gün içinde Çevre ve Şehircilik Bakanlığına gönderilir. **(Ek cümle: 29/6/2012-6338/16 md.)** Dördüncü fıkrada sayılan unvanlara ilişkin hizmetler dışında kalmak ve o hizmet için ihdas edilmiş kadro bulunmamak kaydıyla, Çevre ve Şehircilik Bakanlığınca üçüncü fıkra çerçevesinde sözleşmeli personel istihdamı uygun görülmüş olan kadro unvanlarına ilişkin görevlerde, 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre münhasıran kısmi süreli olarak sözleşmeli personel çalıştırılabilir.[28][29]
 
 Kamu kurum ve kuruluşlarında istihdam edilen memurlar, belediye başkanının talebi, kendilerinin ve kurumlarının muvafakatiyle, belediyelerin birim müdürü ve üstü yönetici kadrolarında geçici olarak görevlendirilebilirler. Bu şekilde görevlendirmelerde 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) fıkrasında öngörülen şartlar dikkate alınır. Belediyelerde bu şekilde istihdam edilen personel kurumlarından izinli sayılırlar. Bu personelin görevlendirildikleri süre zarfındaki, görevlendirildikleri kadroya ait her türlü malî hakları ile kurumları tarafından karşılanması gereken sosyal güvenlik ve benzeri diğer hakları belediye tarafından ödenir. İzinli oldukları müddet, terfi ve emekliliklerinde hesaba katılır ve terfi haklarını kazananlar başkaca bir işleme lüzum kalmaksızın terfi ettirilirler. Bu şekilde görevlendirilenler, görevlendirme süresinin sona ermesinden itibaren onbeş gün içerisinde yazılı olarak kurumlarına başvurmaları hâlinde en geç bir ay içerisinde kadrolarına veya müktesebine uygun başka bir kadroya atanırlar.
 
@@ -726,7 +726,7 @@ Tüzel kişiliği kaldırılan belediyelerde 657 sayılı Devlet Memurları Kanu
 
 ### İKİNCİ BÖLÜM
 
-Belediye Zabıtası, İtfaiye ve Acil Durum Plânlaması
+**Belediye Zabıtası, İtfaiye ve Acil Durum Plânlaması**
 
 #### Zabıtanın görev ve yetkileri
 
@@ -756,7 +756,7 @@ Belediye, belediye sınırları dışında yangın ve doğal afetler meydana gel
 
 ### DÖRDÜNCÜ KISIM
 
-Belediyelerin Denetimi
+**Belediyelerin Denetimi**
 
 #### Denetimin amacı
 
@@ -788,9 +788,9 @@ Aksama giderilemezse, söz konusu hizmetin yerine getirilmesini o ilin valisinde
 
 İçişleri Bakanlığının talebi üzerine sulh hukuk hâkimi tarafından alınan karara karşı ilgili belediyece asliye hukuk mahkemesine itiraz edilebilir.
 
-(Ek fıkra: 15/8/2016-KHK-674/39 md. ; Aynen Kabul: 10/11/2016-6758/35 md.) Ancak belediye veya bağlı idarelerde; hizmetlerin aksatılmasının terör veya şiddet olaylarıyla mücadeleyi olumsuz etkilediğinin veya etkileyeceğinin valilik tarafından belirlenmesi halinde, valilik söz konusu hizmeti Yatırım İzleme ve Koordinasyon Başkanlığı, il özel idaresi veya kamu kurum ve kuruluşları aracılığıyla yapar veya yaptırır. Valiliğin talebi üzerine, yapılan veya yapılacak harcamalar karşılığı tutarlar, Maliye Bakanlığı veya İller Bankası Anonim Şirketince ilgili idare payından kesilerek ilgili kurum ve kuruluşa gönderilir. Merkezi yönetim bütçesi kapsamındaki kamu idarelerine aktarılan tutarlar bu idarelerin bütçeleriyle ilişkilendirilir. Bu fıkra kapsamındaki ihtiyaçlar; parasal ve bütçe sınırlamasına tabi olmaksızın 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 22 nci maddesinde belirtilen usule göre temin edilir.
+**(Ek fıkra: 15/8/2016-KHK-674/39 md. ; Aynen Kabul: 10/11/2016-6758/35 md.)** Ancak belediye veya bağlı idarelerde; hizmetlerin aksatılmasının terör veya şiddet olaylarıyla mücadeleyi olumsuz etkilediğinin veya etkileyeceğinin valilik tarafından belirlenmesi halinde, valilik söz konusu hizmeti Yatırım İzleme ve Koordinasyon Başkanlığı, il özel idaresi veya kamu kurum ve kuruluşları aracılığıyla yapar veya yaptırır. Valiliğin talebi üzerine, yapılan veya yapılacak harcamalar karşılığı tutarlar, Maliye Bakanlığı veya İller Bankası Anonim Şirketince ilgili idare payından kesilerek ilgili kurum ve kuruluşa gönderilir. Merkezi yönetim bütçesi kapsamındaki kamu idarelerine aktarılan tutarlar bu idarelerin bütçeleriyle ilişkilendirilir. Bu fıkra kapsamındaki ihtiyaçlar; parasal ve bütçe sınırlamasına tabi olmaksızın 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 22 nci maddesinde belirtilen usule göre temin edilir.
 
-(Ek fıkra: 15/8/2016-KHK-674/39 md. ; Aynen Kabul: 10/11/2016-6758/35 md.) Belediye ve bağlı idare imkânlarının terör veya şiddet olaylarına dolaylı ya da doğrudan destek sağlamak amacıyla kullanıldığının valilik tarafından belirlenmesi durumunda, terör ve şiddet olaylarına destek olmak amacıyla kullanılan belediye veya bağlı idare taşınırlarına mahallin en büyük mülki idare amiri tarafından el konulur. Bu fıkra kapsamında sorumluluğu tespit edilen belediye veya bağlı idare personelinin vali veya kaymakam tarafından görevden uzaklaştırılması halinde göreve iade işlemi ancak uzaklaştırma işlemini yapan makam tarafından yapılır.
+**(Ek fıkra: 15/8/2016-KHK-674/39 md. ; Aynen Kabul: 10/11/2016-6758/35 md.)** Belediye ve bağlı idare imkânlarının terör veya şiddet olaylarına dolaylı ya da doğrudan destek sağlamak amacıyla kullanıldığının valilik tarafından belirlenmesi durumunda, terör ve şiddet olaylarına destek olmak amacıyla kullanılan belediye veya bağlı idare taşınırlarına mahallin en büyük mülki idare amiri tarafından el konulur. Bu fıkra kapsamında sorumluluğu tespit edilen belediye veya bağlı idare personelinin vali veya kaymakam tarafından görevden uzaklaştırılması halinde göreve iade işlemi ancak uzaklaştırma işlemini yapan makam tarafından yapılır.
 
 #### Denetimle ilgili diğer hükümler
 
@@ -798,11 +798,11 @@ Aksama giderilemezse, söz konusu hizmetin yerine getirilmesini o ilin valisinde
 
 ### BEŞİNCİ KISIM
 
-Malî Hükümler
+**Malî Hükümler**
 
 ### BİRİNCİ BÖLÜM
 
-Belediyenin Gelir ve Giderleri
+**Belediyenin Gelir ve Giderleri**
 
 #### Belediyenin gelirleri
 
@@ -872,7 +872,7 @@ t) Her türlü proje giderleri.
 
 ### İKİNCİ BÖLÜM
 
-Belediye Bütçesi
+**Belediye Bütçesi**
 
 #### Belediye bütçesi
 
@@ -918,7 +918,7 @@ Bütçenin kabulüne kadar yapılan işlemler yeni yıl bütçesine göre yapıl
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Borçlanma ve İktisadî Girişimler
+**Borçlanma ve İktisadî Girişimler**
 
 #### Borçlanma
 
@@ -936,7 +936,7 @@ e) Belediye ve bağlı kuruluşları ile bunların sermayesinin yüzde ellisinde
 
 f) Belediyelerin ileri teknoloji ve büyük tutarda maddî kaynak gerektiren alt yapı yatırımlarında Cumhurbaşkanınca kabul edilen projeleri için yapılacak borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz. Dış kaynak gerektiren projelerde Hazine ve Maliye Bakanlığının görüşü alınır.[40][41]
 
-g) (Ek:30/3/2023-7446/7 md.) Belediyeler ve bağlı kuruluşları ile bunların sermayesinin yüzde ellisinden fazlasına sahip oldukları şirketler tarafından Avrupa Birliği ile katılım öncesi mali işbirliği çerçevesinde desteklenen projelerin finansmanı için yapılan borçlanmalar, çok taraflı yatırım ve kalkınma bankaları ile yabancı devlet kuruluşlarından doğrudan veya İller Bankası Anonim Şirketi aracılığıyla yapılan borçlanmalar ve Su Kanalizasyon ve Altyapı Projesi (SUKAP) kapsamında yürütülecek işler için İller Bankası Anonim Şirketinden yapılan borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz.
+g) **(Ek:30/3/2023-7446/7 md.)** Belediyeler ve bağlı kuruluşları ile bunların sermayesinin yüzde ellisinden fazlasına sahip oldukları şirketler tarafından Avrupa Birliği ile katılım öncesi mali işbirliği çerçevesinde desteklenen projelerin finansmanı için yapılan borçlanmalar, çok taraflı yatırım ve kalkınma bankaları ile yabancı devlet kuruluşlarından doğrudan veya İller Bankası Anonim Şirketi aracılığıyla yapılan borçlanmalar ve Su Kanalizasyon ve Altyapı Projesi (SUKAP) kapsamında yürütülecek işler için İller Bankası Anonim Şirketinden yapılan borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz.
 
 Yukarıda belirtilen usûl ve esaslara aykırı olarak borçlanan belediye yetkilileri hakkında, fiilleri daha ağır bir cezayı gerektirmeyen durumlarda 5237 sayılı Türk Ceza Kanununun görevi kötüye kullanmaya ilişkin hükümleri uygulanır.
 
@@ -968,7 +968,7 @@ Arsalar hariç üretilen konut ve işyerlerinin satışı 2886 sayılı Devlet �
 
 ### BİRİNCİ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Kentsel dönüşüm ve gelişim alanı
 
@@ -984,9 +984,9 @@ Büyükşehir belediyeleri tarafından yapılacak kentsel dönüşüm ve gelişi
 
 Kentsel dönüşüm ve gelişim proje alanlarında bulunan yapıların boşaltılması, yıkımı ve kamulaştırılmasında anlaşma yolu esastır. Kentsel dönüşüm ve gelişim projesi kapsamında bulunan gayrimenkul sahipleri ve belediye tarafından açılacak davalar, mahkemelerde öncelikle görüşülür ve karara bağlanır.
 
-Kentsel dönüşüm ve gelişim alanları içinde yer alan eğitim ve sağlık alanları hariç kamuya ait gayrimenkuller harca esas değer üzerinden belediyelere devredilir. (Ek cümle:4/7/2019-7181/20 md.) Devredilen bu gayrimenkuller için Cumhurbaşkanınca kentsel dönüşüm ve gelişim alanı kararının alındığı tarihten itibaren ecrimisil tahakkuk ettirilmez, tahakkuk ettirilen ecrimisiller terkin edilir, tahsil edilenler ise iade edilir. Kentsel dönüşüm ve gelişim proje alanlarında yıkılarak yeniden yapılacak münferit yapılarda ilgili vergi, resim ve harçların dörtte biri alınır.
+Kentsel dönüşüm ve gelişim alanları içinde yer alan eğitim ve sağlık alanları hariç kamuya ait gayrimenkuller harca esas değer üzerinden belediyelere devredilir. **(Ek cümle:4/7/2019-7181/20 md.)** Devredilen bu gayrimenkuller için Cumhurbaşkanınca kentsel dönüşüm ve gelişim alanı kararının alındığı tarihten itibaren ecrimisil tahakkuk ettirilmez, tahakkuk ettirilen ecrimisiller terkin edilir, tahsil edilenler ise iade edilir. Kentsel dönüşüm ve gelişim proje alanlarında yıkılarak yeniden yapılacak münferit yapılarda ilgili vergi, resim ve harçların dörtte biri alınır.
 
-Kentsel dönüşüm ve gelişim proje alanlarındaki gayrimenkul sahipleri ve 24/2/1984 tarihli ve 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı Yapılara Uygulanacak Bazı İşlemler ve 6785 Sayılı İmar Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanuna istinaden, hak sahibi olmuş kimselerle anlaşmaları halinde kentsel dönüşüm ve gelişim proje alanında hakları verilir. (Ek cümle: 10/9/2014-6552/122 md.) Anlaşma sonucu belediye mülkiyetine geçen gayrimenkuller haczedilemez. 2981 sayılı Kanun kapsamına girmeyen gecekondu sahiplerine enkaz ve ağaç bedelleri verilir veya belediye imkanları ölçüsünde kentsel dönüşüm ve gelişim proje alanı dışında arsa veya konut satışı yapılabilir. Bu kapsamda bulunanlara Toplu Konut İdaresi Başkanlığı ile işbirliği yapılmak suretiyle konut satışı da yapılabilir. Enkaz ve ağaç bedelleri arsa veya konut bedellerinden mahsup edilir.
+Kentsel dönüşüm ve gelişim proje alanlarındaki gayrimenkul sahipleri ve 24/2/1984 tarihli ve 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı Yapılara Uygulanacak Bazı İşlemler ve 6785 Sayılı İmar Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanuna istinaden, hak sahibi olmuş kimselerle anlaşmaları halinde kentsel dönüşüm ve gelişim proje alanında hakları verilir. **(Ek cümle: 10/9/2014-6552/122 md.)** Anlaşma sonucu belediye mülkiyetine geçen gayrimenkuller haczedilemez. 2981 sayılı Kanun kapsamına girmeyen gecekondu sahiplerine enkaz ve ağaç bedelleri verilir veya belediye imkanları ölçüsünde kentsel dönüşüm ve gelişim proje alanı dışında arsa veya konut satışı yapılabilir. Bu kapsamda bulunanlara Toplu Konut İdaresi Başkanlığı ile işbirliği yapılmak suretiyle konut satışı da yapılabilir. Enkaz ve ağaç bedelleri arsa veya konut bedellerinden mahsup edilir.
 
 Kentsel dönüşüm ve gelişim alanı ilan edilen yerlerde belediyelere ait gayrimenkuller ile belediyelerin anlaşma sağladığı veya kamulaştırdıkları gayrimenkuller üzerindeki inşaatların tamamı belediyeler tarafından yapılır veya yaptırılır. Belediye ile anlaşma yapmayan veya belediyece kamulaştırılmasına gerek duyulmayan gayrimenkul sahiplerinden proje alanında kendilerine 3194 sayılı Kanunun 18 inci maddesine göre ayrı ada ve parselde imar hakkı verilmemiş olanlar kamulaştırmasız el atma davası açabilir.
 
@@ -994,17 +994,17 @@ Kentsel dönüşüm ve gelişim proje alanlarında yapılacak alt yapı ve rekre
 
 Dönüşüm alanı sınırı kesinleştiği tarihte, bu sınırlar içindeki gayrimenkullerin tapu kütüğünün beyanlar hanesine kaydedilmek üzere tapu sicil müdürlüğüne, paftasında gösterilmek üzere kadastro müdürlüğüne bildirilir. Söz konusu gayrimenkullerin kaydında meydana gelen değişiklikler belediyeye bildirilir.
 
-Kentsel dönüşüm ve gelişim alanı ilan edilen yerlerde; ifraz, tevhit, sınırlı ayni hak tesisi ve terkini, cins değişikliği ve yapı ruhsatı verilmesine ilişkin işlemler belediyenin izni ile yapılır. (İptal ikinci, üçüncü, dördüncü cümleler: Anayasa Mahkemesinin 18/10/2012 tarihli ve E.: 2010/82, K.:2012/159 sayılı Kararı ile) (…)
+Kentsel dönüşüm ve gelişim alanı ilan edilen yerlerde; ifraz, tevhit, sınırlı ayni hak tesisi ve terkini, cins değişikliği ve yapı ruhsatı verilmesine ilişkin işlemler belediyenin izni ile yapılır. **(İptal ikinci, üçüncü, dördüncü cümleler: Anayasa Mahkemesinin 18/10/2012 tarihli ve E.: 2010/82, K.:2012/159 sayılı Kararı ile) (…)**
 
 Belediye, kentsel dönüşüm ve gelişim projelerini gerçekleştirmek amacıyla; imar uygulaması yapmaya, imar uygulaması yapılan alanlardaki taşınmazların değerlerini tespit etmeye ve bu değer üzerinden hak sahiplerine dağıtım yapmaya veya hasılat paylaşımını esas alan uygulamalar yapmaya yetkilidir.
 
 Kentsel dönüşüm ve gelişim projelerinin uygulanması sırasında, tapu kayıtlarında mülkiyet hanesi açık olan veya ayni hakları davalı olan taşınmazlar doğrudan kamulaştırılarak bedelleri mahkemece tayin edilen bankaya belli olacak hak sahipleri adına bloke edilir. Belediye kentsel dönüşüm ve gelişim projelerinin uygulama alanında bulunan taşınmazların kamulaştırılması sırasında veraset ilamı çıkarmaya veya tapudaki kayıt malikine göre işlem yapmaya yetkilidir.
 
-(Ek fıkra: 16/5/2012-6306/17 md.) Büyükşehirlerde büyükşehir belediye meclisinin, il ve ilçelerde belediye meclislerinin salt çoğunluk ile alacağı karar ile masrafların tamamı veya bir kısmı belediye bütçesinden karşılanmak kaydıyla kentin uygun görülen alanlarında bina cephelerinde değişiklik ve yenileme ile özel aydınlatma ve çevre tanzimi çalışmaları yapılabilir. Cephe değişikliği yapılacak binalarda telif hakkı sahibi proje müelliflerine talep etmeleri hâlinde, değiştirilecek cephe veya cephelerin beher metrekaresi için bir günlük net asgari ücret tutarını geçmemek üzere telif hakkı ödenir. Büyükşehir belediye meclisince uygun görülmesi hâlinde, büyükşehir belediyesi içindeki ilçe belediyeleri kendi sınırları içinde bu fıkrada belirtilen iş ve işlemleri yapabilir.
+**(Ek fıkra: 16/5/2012-6306/17 md.)** Büyükşehirlerde büyükşehir belediye meclisinin, il ve ilçelerde belediye meclislerinin salt çoğunluk ile alacağı karar ile masrafların tamamı veya bir kısmı belediye bütçesinden karşılanmak kaydıyla kentin uygun görülen alanlarında bina cephelerinde değişiklik ve yenileme ile özel aydınlatma ve çevre tanzimi çalışmaları yapılabilir. Cephe değişikliği yapılacak binalarda telif hakkı sahibi proje müelliflerine talep etmeleri hâlinde, değiştirilecek cephe veya cephelerin beher metrekaresi için bir günlük net asgari ücret tutarını geçmemek üzere telif hakkı ödenir. Büyükşehir belediye meclisince uygun görülmesi hâlinde, büyükşehir belediyesi içindeki ilçe belediyeleri kendi sınırları içinde bu fıkrada belirtilen iş ve işlemleri yapabilir.
 
-(Ek fıkra: 16/5/2012-6306/17 md.) Bina cephelerinde değişiklik ve yenileme ile özel aydınlatma ve çevre tanzimi çalışmaları için yapılması gereken iş, işlem ve yetkilendirmeler, kat maliklerinin arsa payı çoğunluğu ile verecekleri karara göre yapılır.
+**(Ek fıkra: 16/5/2012-6306/17 md.)** Bina cephelerinde değişiklik ve yenileme ile özel aydınlatma ve çevre tanzimi çalışmaları için yapılması gereken iş, işlem ve yetkilendirmeler, kat maliklerinin arsa payı çoğunluğu ile verecekleri karara göre yapılır.
 
-(Ek fıkra: 16/5/2012-6306/17 md.) Büyükşehir belediyelerince, kentsel dönüşüm ve gelişim alanı ilan edilen alanlar ile 5366 sayılı Kanuna göre yenileme alanı ilan edilen alanlarda veya bu Kanunun 75 inci maddesine göre kamu kurum ve kuruluşları ile protokol yapmaları hâlinde, büyükşehir belediye meclisi kararı ile, yıkılan ibadethane ve yurtların yerine veya ihtiyaç duyulan yerlerde ibadethane ve yurt inşa edilebilir.
+**(Ek fıkra: 16/5/2012-6306/17 md.)** Büyükşehir belediyelerince, kentsel dönüşüm ve gelişim alanı ilan edilen alanlar ile 5366 sayılı Kanuna göre yenileme alanı ilan edilen alanlarda veya bu Kanunun 75 inci maddesine göre kamu kurum ve kuruluşları ile protokol yapmaları hâlinde, büyükşehir belediye meclisi kararı ile, yıkılan ibadethane ve yurtların yerine veya ihtiyaç duyulan yerlerde ibadethane ve yurt inşa edilebilir.
 
 Kentsel dönüşüm ve gelişim projesi kapsamındaki işler, kamu idareleriyle 75 inci madde çerçevesinde ortak hizmet projeleri aracılığıyla gerçekleştirilebilir.
 
@@ -1026,15 +1026,15 @@ a) Mahallî idareler ile diğer kamu kurum ve kuruluşlarına ait yapım, bakım
 
 b) Mahallî idareler ile merkezî idareye ait aslî görev ve hizmetlerin yerine getirilmesi amacıyla gerekli aynî ihtiyaçları karşılayabilir, geçici olarak araç ve personel temin edebilir.
 
-c) (Değişik: 12/11/2012-6360/19 md.) Kamu kurumu niteliğindeki meslek kuruluşları, kamu yararına çalışan dernekler, Cumhurbaşkanınca vergi muafiyeti tanınmış vakıflar ve 7/6/2005 tarihli ve 5362 sayılı Esnaf ve Sanatkârlar Meslek Kuruluşları Kanunu kapsamına giren meslek odaları ile ortak hizmet projeleri gerçekleştirebilir. Diğer dernek ve vakıflar ile gerçekleştirilecek ortak hizmet projeleri için mahallin en büyük mülki idare amirinin izninin alınması gerekir.[49]
+c) **(Değişik: 12/11/2012-6360/19 md.)** Kamu kurumu niteliğindeki meslek kuruluşları, kamu yararına çalışan dernekler, Cumhurbaşkanınca vergi muafiyeti tanınmış vakıflar ve 7/6/2005 tarihli ve 5362 sayılı Esnaf ve Sanatkârlar Meslek Kuruluşları Kanunu kapsamına giren meslek odaları ile ortak hizmet projeleri gerçekleştirebilir. Diğer dernek ve vakıflar ile gerçekleştirilecek ortak hizmet projeleri için mahallin en büyük mülki idare amirinin izninin alınması gerekir.[49]
 
 d) Kendilerine ait taşınmazları, aslî görev ve hizmetlerinde kullanılmak üzere bedelli veya bedelsiz olarak mahallî idareler ile diğer kamu kurum ve kuruluşlarına devredebilir veya süresi yirmibeş yılı geçmemek üzere tahsis edebilir. Bu taşınmazlar aynı kuruluşlara kiraya da verilebilir. Bu taşınmazların, tahsis amacı dışında kullanılması hâlinde, tahsis işlemi iptal edilir. Tahsis süresi sonunda, aynı esaslara göre yeniden tahsis mümkündür.
 
 Kamu kurum ve kuruluşlarına belediyeler, bağlı kuruluşları ve belediye şirketlerince devir veya tahsis edilen taşınmazlar, kamu konutu ve sosyal tesis olarak kullanılamaz.
 
-(Ek fıkra: 12/11/2012-6360/19 md.) 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 29 uncu maddesinin birinci fıkrasının ikinci cümlesi ile 5253 sayılı Dernekler Kanununun 10 uncu maddesi; belediyeler, il özel idareleri, bağlı kuruluşları ve bunların üyesi oldukları birlikler ile ortağı oldukları Sayıştay denetimine tabi şirketler için uygulanmaz.
+**(Ek fıkra: 12/11/2012-6360/19 md.)** 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 29 uncu maddesinin birinci fıkrasının ikinci cümlesi ile 5253 sayılı Dernekler Kanununun 10 uncu maddesi; belediyeler, il özel idareleri, bağlı kuruluşları ve bunların üyesi oldukları birlikler ile ortağı oldukları Sayıştay denetimine tabi şirketler için uygulanmaz.
 
-(Ek fıkra: 31/10/2016-KHK-678/11 md.; Aynen kabul: 1/2/2018-7071/11 md.) Afet, kitlesel göç ve teröre maruz kalan yerleşim birimlerinin belediyeleri (…)[50] vali veya belediye başkanı, aksayan belediye hizmetinin başka bir belediye tarafından yerine getirilmesini talep edebilir. Yardım istenilen belediye, meclis kararına gerek olmaksızın İçişleri Bakanının izniyle bu talebi yerine getirebilir.
+**(Ek fıkra: 31/10/2016-KHK-678/11 md.; Aynen kabul: 1/2/2018-7071/11 md.)** Afet, kitlesel göç ve teröre maruz kalan yerleşim birimlerinin belediyeleri (…)[50] vali veya belediye başkanı, aksayan belediye hizmetinin başka bir belediye tarafından yerine getirilmesini talep edebilir. Yardım istenilen belediye, meclis kararına gerek olmaksızın İçişleri Bakanının izniyle bu talebi yerine getirebilir.
 
 #### Kent konseyi
 
@@ -1084,9 +1084,9 @@ Belediye tarafından deniz, akarsu ve gölden doldurma suretiyle kazanılan alan
 
 #### Değiştirilen, Eklenen ve Yürürlükten Kaldırılan Hükümler
 
-**Madde 85 –** a) (8.6.1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile ilgili olup yerine işlenmiştir.)
+**Madde 85 –** a) **(8.6.1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-b) (5.1.1961 tarihli ve 237 sayılı Taşıt Kanunu ile ilgili olup yerine işlenmiştir.)
+b) **(5.1.1961 tarihli ve 237 sayılı Taşıt Kanunu ile ilgili olup yerine işlenmiştir.)**
 
 c) 18.1.1984 tarihli ve 2972 sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanunun 29 uncu maddesinin birinci fıkrasının mülga (d) bendi, “d) Belediye kurulması,” şeklinde yeniden düzenlenmiştir.
 
@@ -1106,7 +1106,7 @@ Yürürlüğe giren mevzii imar plânına göre arazi kullanımı, yapı ve tesi
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Geçici ve Son Hükümler
+**Geçici ve Son Hükümler**
 
 #### Asansör yıllık kontrol faaliyetlerine ilişkin sorumluluk
 
@@ -1118,9 +1118,9 @@ Bu Kanunun 15 inci maddesinin birinci fıkrasının (s) bendinde düzenlenen yet
 
 Kamu kurum ve kuruluşlarına uygulanan su ve atık su tarife ücreti tüketim miktarına bakılmaksızın sabit tarife ücreti olarak belirlenir ve konutlar için belirlenen en düşük su ve atık su tarife ücretinin yüzde 50 fazlasını geçemez. Belediyeler temiz şebeke suyu hizmeti vermediği yerleşim yerlerindeki kamu kurumlarından herhangi bir ad altında ücret talep edemez. Kamuya ait eğitim kurumları, yurtlar, okul pansiyonları ve hastanelerden abonelik, açma kapama, bağlantı, teminat, güvence bedeli, katılma payı ve benzeri ad altında herhangi bir ücret talep edilemez.
 
-(Ek fıkra:21/12/2019-7201/11 md.) Aboneliği Kültür ve Turizm Bakanlığı, il kültür ve turizm müdürlükleri veya Bakanlığa bağlı döner sermaye işletmesi merkez müdürlüğüne ait olan müze ve ören yerleri için, belediyeler veya büyükşehir belediyeleri su ve kanalizasyon idareleri tarafından belirlenecek su ve atık su tarifeleri, tüketim miktarına bakılmaksızın kamu kurum ve kuruluşlarına uygulanan su ve atık su tarifesini geçemez.
+**(Ek fıkra:21/12/2019-7201/11 md.)** Aboneliği Kültür ve Turizm Bakanlığı, il kültür ve turizm müdürlükleri veya Bakanlığa bağlı döner sermaye işletmesi merkez müdürlüğüne ait olan müze ve ören yerleri için, belediyeler veya büyükşehir belediyeleri su ve kanalizasyon idareleri tarafından belirlenecek su ve atık su tarifeleri, tüketim miktarına bakılmaksızın kamu kurum ve kuruluşlarına uygulanan su ve atık su tarifesini geçemez.
 
-(Ek fıkra:21/12/2019-7201/11 md.) Aboneliği Kültür ve Turizm Bakanlığı, il kültür ve turizm müdürlükleri veya Bakanlığa bağlı döner sermaye işletmesi merkez müdürlüğüne ait olan müze ve ören yerlerinde, 3/6/2007 tarihli ve 5686 sayılı Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanununda yer alan kaynaklardan elde edilen su, gaz, jeotermal akışkan ve buharın müze ve ören yerlerinde elde edilmesi, iletilmesi ve kullanılması için uygulanacak tarife; tüketim miktarına bakılmaksızın büyükşehir belediyeleri, belediyeler veya büyükşehir belediyeleri su ve kanalizasyon idarelerinin aynı dönemdeki su tarifesinde kamu kurum ve kuruluşlarına uygulanan su ve atık su tarifesinin yüzde onunu geçemez.
+**(Ek fıkra:21/12/2019-7201/11 md.)** Aboneliği Kültür ve Turizm Bakanlığı, il kültür ve turizm müdürlükleri veya Bakanlığa bağlı döner sermaye işletmesi merkez müdürlüğüne ait olan müze ve ören yerlerinde, 3/6/2007 tarihli ve 5686 sayılı Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanununda yer alan kaynaklardan elde edilen su, gaz, jeotermal akışkan ve buharın müze ve ören yerlerinde elde edilmesi, iletilmesi ve kullanılması için uygulanacak tarife; tüketim miktarına bakılmaksızın büyükşehir belediyeleri, belediyeler veya büyükşehir belediyeleri su ve kanalizasyon idarelerinin aynı dönemdeki su tarifesinde kamu kurum ve kuruluşlarına uygulanan su ve atık su tarifesinin yüzde onunu geçemez.
 
 **Ek Madde 3 –** (Ek: 15/2/2018-7099/16 md.)
 
@@ -1140,13 +1140,13 @@ Sürekli işçi kadroları ile iş pozisyonları ise norm kadro uygulamasına ge
 
 **Geçici Madde 4 –** 41 inci maddede öngörülen stratejik plân, Kanunun yürürlüğe girmesinden itibaren bir yıl içinde hazırlanır.
 
-Gecici Madde 5- Belediyeler ve bağlı kuruluşları ile sermayesinin yüzde ellisinden fazlası belediyelere ait şirketlerin, 31.12.2004 tarihi itibariyle kamu kurum ve kuruluşlarından olan kamu ve özel hukuka tâbi alacakları, bunların diğer kamu kurum ve kuruluşlarına olan borçlarına karşılık olmak üzere 31.12.2005 tarihine kadar takas ve mahsup edilir. Bakanlar Kurulu bu süreyi altı aya kadar uzatmaya yetkilidir. Bu madde kapsamındaki alacak ve borç ifadesi bu alacak ve borçlara ilişkin fer’ileri ve cezaları da kapsar.
+**Gecici Madde 5-** Belediyeler ve bağlı kuruluşları ile sermayesinin yüzde ellisinden fazlası belediyelere ait şirketlerin, 31.12.2004 tarihi itibariyle kamu kurum ve kuruluşlarından olan kamu ve özel hukuka tâbi alacakları, bunların diğer kamu kurum ve kuruluşlarına olan borçlarına karşılık olmak üzere 31.12.2005 tarihine kadar takas ve mahsup edilir. Bakanlar Kurulu bu süreyi altı aya kadar uzatmaya yetkilidir. Bu madde kapsamındaki alacak ve borç ifadesi bu alacak ve borçlara ilişkin fer’ileri ve cezaları da kapsar.
 
 Yukarıdaki fıkra kapsamında yer alan kuruluşların takas ve mahsup işlemine konu olan veya olmayan borçları, genel bütçe vergi gelirlerinden her ay ayrılacak paylarının yüzde kırkını geçmemek üzere kesinti yapılarak tahsil edilir.
 
-Bu maddeye göre yapılacak takas, mahsup ve kesinti işlemleri yılı bütçe kanunları ile ilişkilendirilmeksizin ilgili kuruluş ile uzlaşma komisyonu tarafından belirlenir; Hazine Müsteşarlığının bağlı olduğu Bakanın önerisi üzerine Bakanlar Kurulu tarafından karara bağlanır. (Ek ibare: 26/12/2006-5568/8 md.) 30/6/2006 tarihi itibarı ile Uzlaşma Komisyonu ile takas, mahsup ve kesinti yapılmasına ilişkin kararları imzalayan ancak Bakanlar Kurulu tarafından söz konusu kararları henüz onaylanmayan ilgili kuruluşların işlemleri 28 Şubat 2007 tarihine kadar karara bağlanır. Bakanlar Kurulu, ilgili kuruluşların borç ödeme kapasitelerini de dikkate alarak ödenecek tutarları taksitlendirmeye, taksitlendirilen kısma Kanunun yayımını izleyen günden itibaren zam ve faiz uygulatmamaya, bu borçların fer’i ve cezalarını geçmemek üzere indirim yapmaya yetkilidir.
+Bu maddeye göre yapılacak takas, mahsup ve kesinti işlemleri yılı bütçe kanunları ile ilişkilendirilmeksizin ilgili kuruluş ile uzlaşma komisyonu tarafından belirlenir; Hazine Müsteşarlığının bağlı olduğu Bakanın önerisi üzerine Bakanlar Kurulu tarafından karara bağlanır. **(Ek ibare: 26/12/2006-5568/8 md.)** 30/6/2006 tarihi itibarı ile Uzlaşma Komisyonu ile takas, mahsup ve kesinti yapılmasına ilişkin kararları imzalayan ancak Bakanlar Kurulu tarafından söz konusu kararları henüz onaylanmayan ilgili kuruluşların işlemleri 28 Şubat 2007 tarihine kadar karara bağlanır. Bakanlar Kurulu, ilgili kuruluşların borç ödeme kapasitelerini de dikkate alarak ödenecek tutarları taksitlendirmeye, taksitlendirilen kısma Kanunun yayımını izleyen günden itibaren zam ve faiz uygulatmamaya, bu borçların fer’i ve cezalarını geçmemek üzere indirim yapmaya yetkilidir.
 
-(Ek fıkra: 26/12/2006-5568/8 md.) Bu madde uyarınca takas, mahsup ve kesinti işlemine tâbi tutulan borç ve alacaklar için ilgili kanunlarda öngörülen zamanaşımı süreleri işlemez.
+**(Ek fıkra: 26/12/2006-5568/8 md.)** Bu madde uyarınca takas, mahsup ve kesinti işlemine tâbi tutulan borç ve alacaklar için ilgili kanunlarda öngörülen zamanaşımı süreleri işlemez.
 
 İlgili kuruluşun uzlaşma ve hacizlerin kaldırılmasına dair başvurusunun uzlaşma komisyonunca kabul edilmesini müteakip 31.12.2004 tarihinden önceki borçlar için tatbik edilen hacizler kaldırılır.
 
@@ -1188,7 +1188,7 @@ Aboneliği Kültür ve Turizm Bakanlığı, il kültür ve turizm müdürlükler
 
 ### 3/7/2005 TARİHLİ VE 5393 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
 
-(1) 17/6/2010 tarihli ve 5998 sayılı Kanunun Geçici Maddesi:
+<i>(1) 17/6/2010 tarihli ve 5998 sayılı Kanunun Geçici Maddesi:</i>
 
 **Geçici Madde 1 –** (İptal: Anayasa Mahkemesinin 18/10/2012 tarihli ve E.: 2010/82, K.: 2012/159 sayılı Kararı ile.)
 
@@ -1247,114 +1247,114 @@ Aboneliği Kültür ve Turizm Bakanlığı, il kültür ve turizm müdürlükler
 | 7537 | 49 | 27/12/2024 |
 | 7551 | 4, 11, 12 | 1/7/2025 |
 
-<small>[1] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[2] 18/6/2025 tarihli ve 7551 sayılı Kanunun 13 üncü maddesi ile bu fıkrada yer alan “gönderilir” ibaresi “gönderilir ve o yerde belediye kurulabilir” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>18/6/2025 tarihli ve 7551 sayılı Kanunun 13 üncü maddesi ile bu fıkrada yer alan “gönderilir” ibaresi “gönderilir ve o yerde belediye kurulabilir” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 12/11/2012 tarihli ve 6360 sayılı Kanunun 14 üncü maddesiyle bu fıkrada yer alan “50.000” ibaresi “20.000” şeklinde değiştirilmiştir.</small>
+<small>[4] <i>12/11/2012 tarihli ve 6360 sayılı Kanunun 14 üncü maddesiyle bu fıkrada yer alan “50.000” ibaresi “20.000” şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “Danıştayın görüşü alınarak, İçişleri Bakanlığının teklifi üzerine müşterek kararname” ibaresi “Cumhurbaşkanı kararı” şeklinde ve ikinci fıkrasında yer alan “Danıştayın görüşü alınarak, İçişleri Bakanlığının önerisi üzerine müşterek kararname” ibaresi “Cumhurbaşkanı kararı” şeklinde değiştirilmiştir.</small>
+<small>[5] <i>2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “Danıştayın görüşü alınarak, İçişleri Bakanlığının teklifi üzerine müşterek kararname” ibaresi “Cumhurbaşkanı kararı” şeklinde ve ikinci fıkrasında yer alan “Danıştayın görüşü alınarak, İçişleri Bakanlığının önerisi üzerine müşterek kararname” ibaresi “Cumhurbaşkanı kararı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[6] Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile bu fıkrada yer alan “veya … yayımlandığı” ibaresi iptal edilmiştir.</small>
+<small>[6] <i>Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile bu fıkrada yer alan “veya … yayımlandığı” ibaresi iptal edilmiştir.</i></small>
 
-<small>[7] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu fıkrada yer alan “müşterek kararnamenin” ibaresi “Cumhurbaşkanı kararının” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu fıkrada yer alan “müşterek kararnamenin” ibaresi “Cumhurbaşkanı kararının” şeklinde değiştirilmiştir.</i></small>
 
-<small>[8] 18/6/2025 tarihli ve 7551 sayılı Kanunun 15 inci maddesi ile bu fıkrada yer alan “gerçekleşmesi” ibaresi “gerçekleştiği” şeklinde değiştirilmiştir.</small>
+<small>[8] <i>18/6/2025 tarihli ve 7551 sayılı Kanunun 15 inci maddesi ile bu fıkrada yer alan “gerçekleşmesi” ibaresi “gerçekleştiği” şeklinde değiştirilmiştir.</i></small>
 
-<small>[9] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[9] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[10] 10/9/2014 tarihli ve 6552 sayılı Kanunun 120 nci maddesiyle, bu bentte yer alan , “gençlik ve spor” ibaresinden sonra gelmek üzere, “orta ve yüksek öğrenim öğrenci yurtları (Bu Kanunun 75 inci maddesinin son fıkrası, belediyeler, il özel idareleri, bağlı kuruluşları ve bunların üyesi oldukları birlikler ile ortağı oldukları Sayıştay denetimine tabi şirketler tarafından, orta ve yüksek öğrenim öğrenci yurtları ile Devlete ait her derecedeki okul binalarının yapım, bakım ve onarımı ile tefrişinde uygulanmaz.)” ibaresi eklenmiştir.</small>
+<small>[10] <i>10/9/2014 tarihli ve 6552 sayılı Kanunun 120 nci maddesiyle, bu bentte yer alan , “gençlik ve spor” ibaresinden sonra gelmek üzere, “orta ve yüksek öğrenim öğrenci yurtları (Bu Kanunun 75 inci maddesinin son fıkrası, belediyeler, il özel idareleri, bağlı kuruluşları ve bunların üyesi oldukları birlikler ile ortağı oldukları Sayıştay denetimine tabi şirketler tarafından, orta ve yüksek öğrenim öğrenci yurtları ile Devlete ait her derecedeki okul binalarının yapım, bakım ve onarımı ile tefrişinde uygulanmaz.)” ibaresi eklenmiştir.</i></small>
 
-<small>[11] Anayasa Mahkemesinin 26/6/2019 tarihli ve E.:2019/27; K.:2019/56 sayılı Kararı ile bu fıkrada yer alan “…yaptırır” ibaresinin “itfaiye hizmeti” yönünden iptaline karar verilmiştir.</small>
+<small>[11] <i>Anayasa Mahkemesinin 26/6/2019 tarihli ve E.:2019/27; K.:2019/56 sayılı Kararı ile bu fıkrada yer alan “…yaptırır” ibaresinin “itfaiye hizmeti” yönünden iptaline karar verilmiştir.</i></small>
 
-<small>[12] Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile bu maddenin birinci fıkrasının (b) bendinde yer alan "Okul öncesi eğitim kurumları açabilir;..." ibaresi iptal edilmiştir.</small>
+<small>[12] <i>Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile bu maddenin birinci fıkrasının (b) bendinde yer alan "Okul öncesi eğitim kurumları açabilir;..." ibaresi iptal edilmiştir.</i></small>
 
-<small>[13] 12/11/2012 tarihli ve 6360 sayılı Kanunun 17 nci maddesiyle bu bendin birinci cümlesinde yer alan “sağlıkla ilgili her türlü tesisi açabilir ve işletebilir;” ibaresinden sonra gelmek üzere “mabetlerin yapımı, bakımı, onarımını yapabilir;” ibaresi eklenmiştir.</small>
+<small>[13] <i>12/11/2012 tarihli ve 6360 sayılı Kanunun 17 nci maddesiyle bu bendin birinci cümlesinde yer alan “sağlıkla ilgili her türlü tesisi açabilir ve işletebilir;” ibaresinden sonra gelmek üzere “mabetlerin yapımı, bakımı, onarımını yapabilir;” ibaresi eklenmiştir.</i></small>
 
-<small>[14] 16/11/2022 tarihli ve 7421 sayılı Kanunun 16 ncı maddesiyle, bu bende “inşa edebilir” ibaresinden sonra gelmek üzere “; cemevlerinin yapım, bakım ve onarımını yapabilir” ibaresi eklenmiştir.</small>
+<small>[14] <i>16/11/2022 tarihli ve 7421 sayılı Kanunun 16 ncı maddesiyle, bu bende “inşa edebilir” ibaresinden sonra gelmek üzere “; cemevlerinin yapım, bakım ve onarımını yapabilir” ibaresi eklenmiştir.</i></small>
 
-<small>[15] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</small>
+<small>[15] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.</i></small>
 
-<small>[16] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[16] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[17] a) 10/9/2014 tarihli ve 6552 sayılı Kanunun 121 inci maddesiyle; bu fıkranın birinci cümlesinde yer alan “arsa” ibaresi “taşınmaz” olarak değiştirilmiştir.</small>
+<small>[17] <i>a) 10/9/2014 tarihli ve 6552 sayılı Kanunun 121 inci maddesiyle; bu fıkranın birinci cümlesinde yer alan “arsa” ibaresi “taşınmaz” olarak değiştirilmiştir.</i></small>
 
-b) 28/11/2017 tarihli ve 7061 sayılı Kanunun 85 inci maddesi ile bu fıkranın ikinci cümlesine “meclis kararıyla mabetlere” ibaresinden sonra gelmek üzere “, eğitim kurumlarına, yurtlara, okul pansiyonlarına ve hastanelere” ibaresi eklenmiştir.
+<i>b) 28/11/2017 tarihli ve 7061 sayılı Kanunun 85 inci maddesi ile bu fıkranın ikinci cümlesine “meclis kararıyla mabetlere” ibaresinden sonra gelmek üzere “, eğitim kurumlarına, yurtlara, okul pansiyonlarına ve hastanelere” ibaresi eklenmiştir.</i>
 
-<small>[18] 16/11/2022 tarihli ve 7421 sayılı Kanunun 16 ncı maddesiyle, bu fıkranın ikinci cümlesinde yer alan “ve hastanelere” ibaresi “, hastanelere ve cemevlerine” şeklinde değiştirilmiştir.</small>
+<small>[18] <i>16/11/2022 tarihli ve 7421 sayılı Kanunun 16 ncı maddesiyle, bu fıkranın ikinci cümlesinde yer alan “ve hastanelere” ibaresi “, hastanelere ve cemevlerine” şeklinde değiştirilmiştir.</i></small>
 
-<small>[19] Anayasa Mahkemesinin 17/6/2015 tarihli ve E.: 2014/194, K.: 2015/55 sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “…ve haciz işlemi sadece gösterilen bu mal üzerine uygulanır” ibaresi ile aynı fıkranın ikinci cümlesinde yer alan “ …veya kamu hizmetlerini aksatacak …” ibaresi iptal edilmiştir.</small>
+<small>[19] <i>Anayasa Mahkemesinin 17/6/2015 tarihli ve E.: 2014/194, K.: 2015/55 sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “…ve haciz işlemi sadece gösterilen bu mal üzerine uygulanır” ibaresi ile aynı fıkranın ikinci cümlesinde yer alan “ …veya kamu hizmetlerini aksatacak …” ibaresi iptal edilmiştir.</i></small>
 
-<small>[20] 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere; "katma değer vergisi ile özel tüketim vergisi hariç" ibaresi eklenmiştir.</small>
+<small>[20] <i>4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere; "katma değer vergisi ile özel tüketim vergisi hariç" ibaresi eklenmiştir.</i></small>
 
-<small>[21] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bentte yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[21] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bentte yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[22] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[22] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[23] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlülere” ve “özürlüler” ibareleri sırasıyla “engellilere” ve “engelliler” şeklinde değiştirilmiştir.</small>
+<small>[23] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlülere” ve “özürlüler” ibareleri sırasıyla “engellilere” ve “engelliler” şeklinde değiştirilmiştir.</i></small>
 
-<small>[24] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakatlık” ibaresi “engellilik” şeklinde değiştirilmiştir.</small>
+<small>[24] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakatlık” ibaresi “engellilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[25] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[25] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[26] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[26] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[27] 25/12/2024 tarihli ve 7537 sayılı Kanunun 13 üncü maddesiyle, bu fıkranın onuncu cümlesinde yer alan “tespitinde” ibaresi “tespiti ile 657 sayılı Kanunun 64 üncü maddesinin dördüncü fıkrası kapsamında” şeklinde değiştirilmiştir.</small>
+<small>[27] <i>25/12/2024 tarihli ve 7537 sayılı Kanunun 13 üncü maddesiyle, bu fıkranın onuncu cümlesinde yer alan “tespitinde” ibaresi “tespiti ile 657 sayılı Kanunun 64 üncü maddesinin dördüncü fıkrası kapsamında” şeklinde değiştirilmiştir.</i></small>
 
-<small>[28] 24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesiyle bu fıkrada yer alan "İçişleri Bakanlığına ve Maliye Bakanlığına" ibaresi "İçişleri Bakanlığına" şeklinde değiştirilmiştir.</small>
+<small>[28] <i>24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesiyle bu fıkrada yer alan "İçişleri Bakanlığına ve Maliye Bakanlığına" ibaresi "İçişleri Bakanlığına" şeklinde değiştirilmiştir.</i></small>
 
-<small>[29] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[29] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[30] Anayasa Mahkemesinin 24/1/2007 tarihli ve E.: 2005/95, K.: 2007/5 sayılı Kararı ile bu fıkrada yer alan “... avukat unvanlı pozisyonlar hariç olmak üzere, ...” ibaresi iptal edilmiştir.</small>
+<small>[30] <i>Anayasa Mahkemesinin 24/1/2007 tarihli ve E.: 2005/95, K.: 2007/5 sayılı Kararı ile bu fıkrada yer alan “... avukat unvanlı pozisyonlar hariç olmak üzere, ...” ibaresi iptal edilmiştir.</i></small>
 
-<small>[31] Anayasa Mahkemesinin 17/10/2018 tarihli ve E.:2018/110; K.:2018/99 sayılı Kararı ile bu fıkrada yer alan “…meslekten çıkarılma,…” ibaresi iptal edilmiştir.</small>
+<small>[31] <i>Anayasa Mahkemesinin 17/10/2018 tarihli ve E.:2018/110; K.:2018/99 sayılı Kararı ile bu fıkrada yer alan “…meslekten çıkarılma,…” ibaresi iptal edilmiştir.</i></small>
 
-<small>[32] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri Bakanlığı” ibaresi “İçişleri Bakanlığının görüşü alınarak Çevre ve Şehircilik Bakanlığı” şeklinde değiştirilmiştir.</small>
+<small>[32] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri Bakanlığı” ibaresi “İçişleri Bakanlığının görüşü alınarak Çevre ve Şehircilik Bakanlığı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[33] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[33] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[34] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[34] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[35] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlülere” ibaresi “engellilere” şeklinde değiştirilmiştir.</small>
+<small>[35] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlülere” ibaresi “engellilere” şeklinde değiştirilmiştir.</i></small>
 
-<small>[36] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[36] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[37] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[37] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[38] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bent ve fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[38] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bent ve fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[39] 30/3/2023 tarihli ve 7446 sayılı Kanunun 7 nci maddesiyle bu bentte yer alan “Çevre ve Şehircilik” ibaresi “Çevre, Şehircilik ve İklim Değişikliği” şeklinde, değiştirilmiştir.</small>
+<small>[39] <i>30/3/2023 tarihli ve 7446 sayılı Kanunun 7 nci maddesiyle bu bentte yer alan “Çevre ve Şehircilik” ibaresi “Çevre, Şehircilik ve İklim Değişikliği” şeklinde, değiştirilmiştir.</i></small>
 
-<small>[40] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu bentte yer alan “Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[40] <i>2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu bentte yer alan “Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[41] 30/3/2023 tarihli ve 7446 sayılı Kanunun 7 nci maddesiyle bu bentte yer alan “Hazine Müsteşarlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir.</small>
+<small>[41] <i>30/3/2023 tarihli ve 7446 sayılı Kanunun 7 nci maddesiyle bu bentte yer alan “Hazine Müsteşarlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir.</i></small>
 
-<small>[42] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bent ve fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[42] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bent ve fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[43] 30/3/2023 tarihli ve 7446 sayılı Kanunun 7 nci maddesiyle fıkrada yer alan “Çevre ve Şehircilik Bakanlığına, Maliye Bakanlığına, Devlet Plânlama Teşkilatı Müsteşarlığına ve Hazine Müsteşarlığına” ibaresi “Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığına” şeklinde değiştirilmiştir.</small>
+<small>[43] <i>30/3/2023 tarihli ve 7446 sayılı Kanunun 7 nci maddesiyle fıkrada yer alan “Çevre ve Şehircilik Bakanlığına, Maliye Bakanlığına, Devlet Plânlama Teşkilatı Müsteşarlığına ve Hazine Müsteşarlığına” ibaresi “Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığına” şeklinde değiştirilmiştir.</i></small>
 
-<small>[44] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri Bakanlığı ile Bayındırlık ve İskân Bakanlığı tarafından müştereken” ibaresi “Çevre ve Şehircilik Bakanlığı tarafından” şeklinde değiştirilmiştir.</small>
+<small>[44] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri Bakanlığı ile Bayındırlık ve İskân Bakanlığı tarafından müştereken” ibaresi “Çevre ve Şehircilik Bakanlığı tarafından” şeklinde değiştirilmiştir.</i></small>
 
-<small>[45] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[45] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[46] 16/5/2012 tarihli ve 6306 sayılı Kanunun 17 nci maddesiyle, bu maddenin birinci fıkrasının üçüncü cümlesinde yer alan “yapılabilmesi Bakanlar Kurulu kararına bağlıdır.” ibaresi “yapılabilmesi için ilgili belediyenin talebi ve Çevre ve Şehircilik Bakanlığının teklifi üzerine Bakanlar Kurulunca bu yönde karar alınması şarttır.” şeklinde değiştirilmiştir.</small>
+<small>[46] <i>16/5/2012 tarihli ve 6306 sayılı Kanunun 17 nci maddesiyle, bu maddenin birinci fıkrasının üçüncü cümlesinde yer alan “yapılabilmesi Bakanlar Kurulu kararına bağlıdır.” ibaresi “yapılabilmesi için ilgili belediyenin talebi ve Çevre ve Şehircilik Bakanlığının teklifi üzerine Bakanlar Kurulunca bu yönde karar alınması şarttır.” şeklinde değiştirilmiştir.</i></small>
 
-<small>[47] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu fıkrada yer alan “Çevre ve Şehircilik Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[47] <i>2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu fıkrada yer alan “Çevre ve Şehircilik Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[48] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[48] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[49] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[49] <i>2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 200 üncü maddesiyle bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[50] Anayasa Mahkemesi’nin 14/11/2019 tarihli ve E.: 2018/90, K.: 2019/85 sayılı Kararı ile bu fıkrada yer alan "... ile bu Kanunun 45 inci maddesinin ikinci fıkrası gereğince belediye başkanı veya başkan vekili görevlendirilen belediyelerde," ibaresi iptal edilmiştir.</small>
+<small>[50] <i>Anayasa Mahkemesi’nin 14/11/2019 tarihli ve E.: 2018/90, K.: 2019/85 sayılı Kararı ile bu fıkrada yer alan "... ile bu Kanunun 45 inci maddesinin ikinci fıkrası gereğince belediye başkanı veya başkan vekili görevlendirilen belediyelerde," ibaresi iptal edilmiştir.</i></small>
 
-<small>[51] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[51] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[52] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlülere” ibaresi “engellilere” şeklinde değiştirilmiştir.</small>
+<small>[52] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlülere” ibaresi “engellilere” şeklinde değiştirilmiştir.</i></small>
 
-<small>[53] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[53] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[54] 11/6/2010 tarihli ve 5996 sayılı Kanunun 47 nci maddesiyle, bu maddede yer alan “27.05.2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkındaki Kanun” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[54] <i>11/6/2010 tarihli ve 5996 sayılı Kanunun 47 nci maddesiyle, bu maddede yer alan “27.05.2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkındaki Kanun” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[55] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri Bakanlığı” ibaresi “İçişleri ile Çevre ve Şehircilik bakanlıkları müştereken” şeklinde değiştirilmiştir.</small>
+<small>[55] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri Bakanlığı” ibaresi “İçişleri ile Çevre ve Şehircilik bakanlıkları müştereken” şeklinde değiştirilmiştir.</i></small>

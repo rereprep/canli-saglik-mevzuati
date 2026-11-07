@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -65,7 +65,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Bilim Komisyonunun Kuruluşu, Görevleri ve Çalışma Usulü
+**Bilim Komisyonunun Kuruluşu, Görevleri ve Çalışma Usulü**
 
 #### Bilim Komisyonunun kuruluşu
 
@@ -109,7 +109,7 @@ d) 9/3/2019 tarihli ve 30709 sayılı Resmî Gazete’de yayımlanan Geleneksel 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Uygulama Alanları, Uygulama Yerleri, Uygulamaya Yetkililer ve Eğitim
+**Uygulama Alanları, Uygulama Yerleri, Uygulamaya Yetkililer ve Eğitim**
 
 #### Uygulama alanları
 
@@ -143,7 +143,7 @@ Uygulama Alanları, Uygulama Yerleri, Uygulamaya Yetkililer ve Eğitim
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çalışma Usul ve Esasları ve Ücretlendirme
+**Çalışma Usul ve Esasları ve Ücretlendirme**
 
 #### Uygulama merkezi ve uygulama ünitelerinin çalışma usul ve esasları
 
@@ -181,7 +181,7 @@ Uygulama Alanları, Uygulama Yerleri, Uygulamaya Yetkililer ve Eğitim
 
 ### BEŞİNCİ BÖLÜM
 
-Uygulama Merkezi ve Uygulama Ünitelerinin Asgari Şartları
+**Uygulama Merkezi ve Uygulama Ünitelerinin Asgari Şartları**
 
 #### Fiziki şartlar
 
@@ -197,7 +197,7 @@ Uygulama Merkezi ve Uygulama Ünitelerinin Asgari Şartları
 
 ### ALTINCI BÖLÜM
 
-Denetimler, İdari Müeyyideler ve Yasaklar
+**Denetimler, İdari Müeyyideler ve Yasaklar**
 
 #### Denetimler ve idari müeyyideler
 
@@ -221,7 +221,7 @@ Denetimler, İdari Müeyyideler ve Yasaklar
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Tanıtım ve bilgilendirme
 
@@ -245,4 +245,4 @@ Denetimler, İdari Müeyyideler ve Yasaklar
 
 **MADDE 21 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

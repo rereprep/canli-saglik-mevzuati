@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/12/20241227-15.htm"
 durum: "yürürlükte"
 ---
 
-KANUN DEVLET MEMURLARI KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7537 Kabul Tarihi: 25/12/2024
+**KANUN DEVLET MEMURLARI KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7537 **Kabul Tarihi: 25/12/2024**
 
 MADDE 1- 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrasının dördüncü paragrafının altıncı cümlesinde yer alan “tespitinde” ibaresi “tespiti ile 64 üncü maddenin dördüncü fıkrası kapsamında” şeklinde değiştirilmiştir.
 

@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -54,7 +54,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Komisyonun Teşkili, Görevleri ve Çalışma Usul ve Esasları
+**Komisyonun Teşkili, Görevleri ve Çalışma Usul ve Esasları**
 
 #### Komisyonun teşkili
 
@@ -92,7 +92,7 @@ c) Nöromusküler hastalık birimlerin işleyişi ile alakalı olarak gerekli g�
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Birimler
+**Birimler**
 
 #### Birimin kuruluşu
 
@@ -152,7 +152,7 @@ b) Genetik tanı testlerinin yapıldığı laboratuvar hizmeti verilmelidir. Bü
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Personelin Durumu
+**Personelin Durumu**
 
 #### Birimde görevlendirilecek personel
 
@@ -246,7 +246,7 @@ f) Birim sorumlusu veya koordinatör hekimin vereceği diğer görevleri yapmak.
 
 ### BEŞİNCİ BÖLÜM
 
-Birimlerin İzlenmesi ve Denetlenmesi
+**Birimlerin İzlenmesi ve Denetlenmesi**
 
 #### Birimlerin izlenmesi
 
@@ -264,7 +264,7 @@ Birimlerin İzlenmesi ve Denetlenmesi
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Eğitim
 
@@ -282,4 +282,4 @@ Birimlerin İzlenmesi ve Denetlenmesi
 
 **MADDE 27 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+**Ekleri için tıklayınız**

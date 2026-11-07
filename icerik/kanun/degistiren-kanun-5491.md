@@ -11,8 +11,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2006/05/20060513-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN KANUN ÇEVRE KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5491 Kabul Tarihi : 26/4/2006
+KANUN KANUN **ÇEVRE KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5491 Kabul Tarihi : 26/4/2006**
 
 MADDE 1 – 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 "MADDE 1 – Bu Kanunun amacı, bütün canlıların ortak varlığı olan çevrenin, sürdürülebilir çevre ve sürdürülebilir kalkınma ilkeleri doğrultusunda korunmasını sağlamaktır."

@@ -12,13 +12,13 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2017/04/20170429-M1-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-HÜKMÜNDE KARARNAME OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**HÜKMÜNDE KARARNAME OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME**
 Karar Sayısı: KHK/690 Olağanüstü hal kapsamında bazı düzenlemeler yapılması; Anayasanın 121 inci maddesi ile 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununun 4 üncü maddesine göre, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu’nca 17/4/2017 tarihinde kararlaştırılmıştır.
-BİRİNCİ BÖLÜM
-Yargı ile İlgili Düzenlemeler
+**BİRİNCİ BÖLÜM**
+**Yargı ile İlgili Düzenlemeler**
 
-MADDE 1 – 6/1/1982 tarihli ve 2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanuna 3/H maddesinden sonra gelmek üzere aşağıdaki 3/I maddesi eklenmiştir.
+**MADDE 1 –** 6/1/1982 tarihli ve 2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanuna 3/H maddesinden sonra gelmek üzere aşağıdaki 3/I maddesi eklenmiştir.
 “Soruşturma ve kovuşturma usulü:
 
 MADDE 3/I – Bölge idare mahkemelerinde görev yapan başkan, daire başkanı ve üyelerin görevden doğan veya görev sırasında işlenen suçları ve şahsi suçlarıyla ilgili soruşturma ve kovuşturmalar, 26/9/2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanunun 47 nci maddesi hükümleri uyarınca yürütülür. Ancak, anılan maddede yer alan en yakın bölge adliye mahkemesi ibaresinden, görev yapılan bölge idare mahkemesinin bulunduğu ilin bağlı olduğu bölge adliye mahkemesi anlaşılır.”
@@ -52,10 +52,10 @@ b) Türkiye’de sicile kayıtlı olmaması,
 c) Toplam yolcu sayısına göre önemli sayıda göçmen taşınırken ele geçirilmesi,
 ç) Suçun işlenmesini kolaylaştıracak özel tertibatının bulunması, hallerinden birinin varlığı durumunda, elkonulan araç sahibine iade edilmez. Bu durumda sahibinin, aracın değeri kadar teminatı elkoyma tarihinden itibaren otuz gün içinde Maliye Bakanlığına teslim etmesi halinde, araç sahibine iade edilir. Aksi takdirde, Maliye Bakanlığı tarafından soruşturma ve kovuşturma sonucu beklenmeksizin derhal tasfiye olunur. Tasfiyenin satış suretiyle gerçekleşmesi halinde, satıştan elde edilen gelirden aracın muhafaza edilmesi ve satışı için gerekli olan bütün masraflar karşılandıktan sonra kalan miktar, kovuşturma sonucuna göre işlem yapılmak üzere emanet hesabına alınır.
 (3) İkinci fıkra hükmünün uygulanmasındaki değerden, kara araçlarında kasko değeri; deniz araçlarında tekne ve makine sigortasına esas teşkil eden değer; sigortasız araçlar ile hava ve demiryolu araçlarında ise piyasa değeri anlaşılır.”
-İKİNCİ BÖLÜM
-Milli Savunma ile İlgili Düzenlemeler
+**İKİNCİ BÖLÜM**
+**Milli Savunma ile İlgili Düzenlemeler**
 
-MADDE 7 – 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 35 inci maddesinin birinci fıkrasının (f) bendi yürürlükten kaldırılmıştır.
+**MADDE 7 –** 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 35 inci maddesinin birinci fıkrasının (f) bendi yürürlükten kaldırılmıştır.
 
 MADDE 8 – 926 sayılı Kanunun 82 nci maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Fakülte, yüksek okul veya meslek yüksek okulu mezunu olup da astsubay nasbedilmek üzere temel askerlik eğitimine tâbi tutulanlardan başarılı olanlar astsubaylığa nasıp onayı tarihinden geçerli olarak astsubay çavuşluğa nasbedilirler.
@@ -88,10 +88,10 @@ MADDE 15 – 22/1/2015 tarihli ve 6586 sayılı Millî Mayın Faaliyet Merkezi K
 
 MADDE 16 – 9/11/2016 tarihli ve 6756 sayılı Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması ve Milli Savunma Üniversitesi Kurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesi Hakkında Kanunun 5 inci maddesinin ikinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiştir.
 “c) Astsubay meslek yüksekokulları ile yabancı diller ve savunma ile ilgili diğer yüksekokullardan,”
-ÜÇÜNCÜ BÖLÜM
-İç Güvenlik ile İlgili Düzenlemeler
+**ÜÇÜNCÜ BÖLÜM**
+**İç Güvenlik ile İlgili Düzenlemeler**
 
-MADDE 17 – 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanununun 11 inci maddesinin (D) fıkrasının birinci cümlesinde yer alan “Jandarma Genel Komutanlığının veya” ibaresi yürürlükten kaldırılmıştır.
+**MADDE 17 –** 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanununun 11 inci maddesinin (D) fıkrasının birinci cümlesinde yer alan “Jandarma Genel Komutanlığının veya” ibaresi yürürlükten kaldırılmıştır.
 
 MADDE 18 – 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunun ek 12 nci maddesinin birinci fıkrasının birinci cümlesine “Kaçakçılıkla Mücadele Kanunu kapsamındaki suçlar” ibaresinden sonra gelmek üzere “ile uyuşturucu veya uyarıcı madde imal ve ticareti suçları” ibaresi eklenmiştir.
 
@@ -116,10 +116,10 @@ MADDE 24 – 5996 sayılı Kanunun 45 inci maddesine aşağıdaki fıkra eklenmi
 MADDE 25 – 18/10/2016 tarihli ve 6749 sayılı Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 5 inci maddesinin birinci fıkrasının ikinci cümlesinde yer alan “edilir” ibaresi “edilebilir” şeklinde değiştirilmiştir.
 
 MADDE 26 – Ekli (1) sayılı cetvelde yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Emniyet Genel Müdürlüğüne ait bölümüne eklenmiştir.
-DÖRDÜNCÜ BÖLÜM
-Sosyal Güvenlik ile İlgili Düzenlemeler
+**DÖRDÜNCÜ BÖLÜM**
+**Sosyal Güvenlik ile İlgili Düzenlemeler**
 
-MADDE 27 – 18/3/1924 tarihli ve 442 sayılı Köy Kanununun 74 üncü maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiş, aynı maddenin sekizinci fıkrası aşağıdaki şekilde değiştirilmiş, onuncu fıkrasının birinci cümlesinde yer alan “ek 16 ncı ve ek 17 nci maddeleri” ibaresi “mülga ek 16 ncı ve mülga ek 17 nci maddeleri ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun ek 15 inci maddesi” şeklinde değiştirilmiş ve aynı maddenin beşinci fıkrası yürürlükten kaldırılmıştır.
+**MADDE 27 –** 18/3/1924 tarihli ve 442 sayılı Köy Kanununun 74 üncü maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiş, aynı maddenin sekizinci fıkrası aşağıdaki şekilde değiştirilmiş, onuncu fıkrasının birinci cümlesinde yer alan “ek 16 ncı ve ek 17 nci maddeleri” ibaresi “mülga ek 16 ncı ve mülga ek 17 nci maddeleri ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun ek 15 inci maddesi” şeklinde değiştirilmiş ve aynı maddenin beşinci fıkrası yürürlükten kaldırılmıştır.
 “Güvenlik korucularından 55 yaşını dolduranların görevleriyle ilişikleri kesilir.”
 “Güvenlik korucusu olarak görevlendirilenler hakkında 22/5/2003 tarihli ve 4857 sayılı İş Kanunu ile 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanunu hükümleri uygulanmaz.”
 
@@ -186,10 +186,10 @@ MADDE 49 – 5510 sayılı Kanunun geçici 16 ncı maddesinin birinci fıkrası 
 MADDE 50 – 5510 sayılı Kanunun geçici 18 inci maddesinin birinci fıkrasının (a) bendinde yer alan “Türk Silâhlı Kuvvetleri” ibaresi “Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı” şeklinde değiştirilmiştir.
 
 MADDE 51 – 5510 sayılı Kanunun geçici 21 inci maddesi yürürlükten kaldırılmıştır.
-BEŞİNCİ BÖLÜM
-Olağanüstü Hal İşlemleri İnceleme Komisyonu ile İlgili Düzenlemeler
+**BEŞİNCİ BÖLÜM**
+**Olağanüstü Hal İşlemleri İnceleme Komisyonu ile İlgili Düzenlemeler**
 
-MADDE 52 – 2/1/2017 tarihli ve 685 sayılı Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararnamenin 4 üncü maddesinin ikinci fıkrasına birinci cümlesinden önce gelmek üzere aşağıdaki cümle eklenmiş ve aynı maddenin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 52 –** 2/1/2017 tarihli ve 685 sayılı Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararnamenin 4 üncü maddesinin ikinci fıkrasına birinci cümlesinden önce gelmek üzere aşağıdaki cümle eklenmiş ve aynı maddenin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Üyeler, Komisyondaki görevleri süresince kurumlarından aylıklı izinli sayılır.”
 “(3) Komisyon üyelerinin üyelik görevleri kapsamındaki karar, görev ve fiillerine ilişkin hukuki, idari, mali ve cezai sorumlulukları hakkında 8/11/2016 tarihli ve 6755 sayılı Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 37 nci maddesi uygulanır.”
 
@@ -224,10 +224,10 @@ MADDE 57 – 685 sayılı Kanun Hükmünde Kararnameye aşağıdaki geçici madd
 “Komisyona intikal ettirilecek başvurular
 
 GEÇİCİ MADDE 2 – (1) Bu Kanun Hükmünde Kararnamenin kapsamına giren konularda bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten önce yapılmış olan başvurular, süre şartı hariç 7 nci maddedeki şartlara uygun olması halinde ilgili kurumlarca işleme alınmak üzere Komisyona intikal ettirilir.”
-ALTINCI BÖLÜM
-Medya Hizmet Sağlayıcılarla İlgili Düzenlemeler
+**ALTINCI BÖLÜM**
+**Medya Hizmet Sağlayıcılarla İlgili Düzenlemeler**
 
-MADDE 58 – 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanunun 2 nci maddesinin birinci fıkrasının ikinci cümlesine “üçüncü” ibaresinden sonra “ve dördüncü” ibaresi ile maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 58 –** 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanunun 2 nci maddesinin birinci fıkrasının ikinci cümlesine “üçüncü” ibaresinden sonra “ve dördüncü” ibaresi ile maddeye aşağıdaki fıkra eklenmiştir.
 “(4) Türkiye’ye ait uydular üzerinden Türkçe olarak Türkiye’ye yönelik yayın yapan veya yayın dili Türkçe olmamakla birlikte Türkiye’ye yönelik ticari iletişim yayınlarına yer veren yayın kuruluşları, bu maddenin diğer fıkralarına bakılmaksızın Türkiye Cumhuriyeti Devletinin yargı yetkisi altında kabul edilir. Bu kuruluşların da Türkiye Cumhuriyeti Devletinin yargı yetkisi altındaki kuruluşlar gibi Üst Kuruldan yayın lisansı alması zorunludur.”
 
 MADDE 59 – 6112 sayılı Kanunun 6 ncı maddesinin beşinci fıkrasında yer alan “künye bilgilerini, iletişim adresini” ibaresi “künye, iletişim ve adres bilgileri ile kayıtlı elektronik posta adresini” şeklinde değiştirilmiştir.
@@ -249,10 +249,10 @@ e) Onuncu fıkrasının birinci cümlesine “uyarı” ibaresinden sonra gelmek
 
 MADDE 62 – 6112 sayılı Kanunun 37 nci maddesinin birinci fıkrasına (v) bendinden sonra gelmek üzere aşağıdaki bent eklenmiş ve mevcut (y) bendi (z) bendi olarak teselsül ettirilmiştir.
 “y) Yayın hizmetlerinde ailenin ve çocukların korunması ilkesini gözeterek, ailenin bütünlüğü ve sürekliliği ile çocuk ve gençlerin fiziksel, zihinsel ve ahlaki gelişimlerini destekleyecek nitelikteki aile ve çocuk dostu yapım ve dizileri, Üst Kurulca bir önceki yılda uygulanan idari para cezalarının yüzde yirmisini aşmamak kaydıyla, Aile ve Sosyal Politikalar Bakanlığı ile birlikte belirlenecek usul ve esaslara göre teşvik etmek.”
-YEDİNCİ BÖLÜM
-Çeşitli ve Son Hükümler
+**YEDİNCİ BÖLÜM**
+**Çeşitli ve Son Hükümler**
 
-MADDE 63 – 23/5/1928 tarihli ve 1322 sayılı Kanunların ve Nizamnamelerin Sureti Neşir ve İlanı ve Meriyet Tarihi Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 63 –** 23/5/1928 tarihli ve 1322 sayılı Kanunların ve Nizamnamelerin Sureti Neşir ve İlanı ve Meriyet Tarihi Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “EK MADDE 1 – Resmi Gazete, basılı olarak ve internet ortamında yayımlanır. Resmi Gazetenin içeriği, düzeni, basımı, dağıtımı ve ilanlara ilişkin usul ve esaslar ile bu Kanunun uygulanmasına ilişkin diğer hususlar, Başbakanlık tarafından yürürlüğe konulan yönetmelikle belirlenir.”
 
 MADDE 64 – 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 64 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -302,7 +302,7 @@ c) 32 nci, 33 üncü, 40 ıncı, 45 inci, 46 ncı, 47 nci, 49 uncu ve 51 inci ma
 ç) Diğer maddeleri yayımı tarihinde, yürürlüğe girer.
 
 MADDE 77 – Bu Kanun Hükmünde Kararname Bakanlar Kurulu tarafından yürütülür.
-Recep Tayyip ERDOĞAN
+**Recep Tayyip ERDOĞAN**
 CUMHURBAŞKANI
 Binali
 YILDIRIM

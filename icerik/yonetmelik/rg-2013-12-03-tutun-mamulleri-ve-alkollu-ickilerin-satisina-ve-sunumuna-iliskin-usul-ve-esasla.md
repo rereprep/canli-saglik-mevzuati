@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Tütün ve Alkol Piyasası Düzenleme Kurumundan:
-TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 7/1/2011 tarihli ve 27808 sayılı Resmî Gazete’de yayımlanan Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (ğ) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 7/1/2011 tarihli ve 27808 sayılı Resmî Gazete’de yayımlanan Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (ğ) bendi aşağıdaki şekilde değiştirilmiştir.
 “ğ) Münhasır satıcı: Sadece tütün mamulleri ve/veya alkollü içkilerin, nihai tüketiciye piyasaya arz ambalajında satışını yapan, münhasır tütün mamulü perakende satış belgesini ve/veya münhasır alkollü içki perakende satış belgesini haiz gerçek veya tüzel kişiyi,”
 
 MADDE 2 – Aynı Yönetmeliğin 5 inci maddesinin birinci fıkrasının (c) bendi yürürlükten kaldırılmış; (ç) ve (e) bentleri aşağıdaki şekilde değiştirilmiştir.
@@ -31,4 +31,4 @@ GEÇİCİ MADDE 9 – (1) Tütün mamulleri ve alkollü içkilerin birlikte sat�
 
 MADDE 5 – Bu Yönetmelik 1/1/2014 tarihinde yürürlüğe girer.
 
-MADDE 6 – Bu Yönetmelik hükümlerini Tütün ve Alkol Piyasası Düzenleme Kurumu Başkanı yürütür.
+**MADDE 6 –** Bu Yönetmelik hükümlerini Tütün ve Alkol Piyasası Düzenleme Kurumu Başkanı yürütür.

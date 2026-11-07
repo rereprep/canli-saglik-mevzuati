@@ -26,7 +26,7 @@ Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -80,7 +80,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-İmalat Yeri Sahipleri ve İmalathaneler
+**İmalat Yeri Sahipleri ve İmalathaneler**
 
 #### Başvuru
 
@@ -148,7 +148,7 @@ ile yükümlüdür.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İyi İmalat Uygulamaları İlkeleri
+**İyi İmalat Uygulamaları İlkeleri**
 
 #### Kalite yönetimi
 
@@ -226,7 +226,7 @@ c) Fason yüklenicisi, fason imalat talep edenin yazılı izni olmaksızın kend
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Kılavuz
 

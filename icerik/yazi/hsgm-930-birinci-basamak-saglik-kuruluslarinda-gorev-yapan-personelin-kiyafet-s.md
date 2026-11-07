@@ -27,25 +27,25 @@ Standartları
 
 DAĞITIM YERLERİNE
 
-27/08/2025 tarihli ve 32999 sayılı Resmî Gazete’de yayımlanan “Hizmet Kollarına Yönelik Mali ve Sosyal
+27/08/2025 tarihli ve 32999 sayılı Resmî Gazete’de yayımlanan “<i>Hizmet Kollarına Yönelik Mali ve Sosyal</i>
 
-Haklara İlişkin 2026-2027 Yıllarını Kapsayan 8. Dönem Toplu Sözleşme” Tebliği’nin “Sağlık Bakanlığı
+<i>Haklara İlişkin 2026-2027 Yıllarını Kapsayan 8. Dönem Toplu Sözleşme”</i> Tebliği’nin “<i>Sağlık Bakanlığı</i>
 
-Personelinin Giyecek Yardımı” başlıklı 44’üncü maddesinde;
+<i>Personelinin Giyecek Yardımı”</i> başlıklı 44’üncü maddesinde;
 
-“(1) 14/09/1991 tarihli ve 91/2268 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Memurlara
+<i>“(1) 14/09/1991 tarihli ve 91/2268 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Memurlara</i>
 
-Yapılacak Giyecek Yardımı Yönetmeliği’ne ekli (I) sayılı Cetvelin (9), (10), (11), (12), (13), (14) ve (15) numaralı sıraları ile (II) sayılı Cetvelin Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfına ait bölümünün (1) ve (2)
+<i>Yapılacak Giyecek Yardımı Yönetmeliği’ne ekli (I) sayılı Cetvelin (9), (10), (11), (12), (13), (14) ve (15) numaralı</i> <i>sıraları ile (II) sayılı Cetvelin Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfına ait bölümünün (1) ve (2)</i>
 
-numaralı sıralarında belirtilen giyim eşyalarından hemşire forması, ebe forması, iş önlüğü, iş gömleği, laboratuvar kıyafeti ve ameliyathane kıyafeti, Sağlık Bakanlığına bağlı sağlık tesislerinde fiilen görev yapan sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfına dahil personele söz konusu Yönetmelikte hizmet sınıfı ve her bir kadro unvanı için belirlenmiş cins, miktar ve kullanma süresi göz önünde bulundurularak anılan
+<i>numaralı sıralarında belirtilen giyim eşyalarından hemşire forması, ebe forması, iş önlüğü, iş gömleği,</i> <i>laboratuvar kıyafeti ve ameliyathane kıyafeti, Sağlık Bakanlığına bağlı sağlık tesislerinde fiilen görev yapan</i> <i>sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfına dahil personele söz konusu Yönetmelikte hizmet sınıfı ve</i> <i>her bir kadro unvanı için belirlenmiş cins, miktar ve kullanma süresi göz önünde bulundurularak anılan</i>
 
-Yönetmelikte belirlenmiş usul ve esaslar çerçevesinde ayni olarak verilir. Bu madde uyarınca ayni giyecek yardımı yapılan personele aynı giyim eşyası için anılan Yönetmeliğin ek 1 inci maddesi uyarınca nakden ödeme yapılmaz.
+<i>Yönetmelikte belirlenmiş usul ve esaslar çerçevesinde ayni olarak verilir. Bu madde uyarınca ayni giyecek</i> <i>yardımı yapılan personele aynı giyim eşyası için anılan Yönetmeliğin ek 1 inci maddesi uyarınca nakden ödeme</i> <i>yapılmaz.</i>
 
-(2) Birinci fıkra uyarınca ayni giyecek yardımı yapılan memurlar ile aynı veya benzer unvana sahip sözleşmeli personelden Sağlık Bakanlığına bağlı sağlık tesislerinde fiilen görev yapanlar da birinci fıkra hükümlerinden aynı usul ve esaslar çerçevesinde yararlanır.
+<i>(2) Birinci fıkra uyarınca ayni giyecek yardımı yapılan memurlar ile aynı veya benzer unvana sahip</i> <i>sözleşmeli personelden Sağlık Bakanlığına bağlı sağlık tesislerinde fiilen görev yapanlar da birinci fıkra</i> <i>hükümlerinden aynı usul ve esaslar çerçevesinde yararlanır.</i>
 
-(3) Sağlık tesislerinde görevli personelin herhangi bir nedenle bu tesislerde ya da Bakanlığa bağlı farklı birimlerde sağlık hizmetleri dışında başka bir görevde görevlendirilmesi halinde, kendilerine bu madde kapsamında ayni giyecek yardımı yapılmaz. Bu maddenin uygulamasına ilişkin usul ve esaslar Sağlık
+<i>(3) Sağlık tesislerinde görevli personelin herhangi bir nedenle bu tesislerde ya da Bakanlığa bağlı farklı</i> <i>birimlerde sağlık hizmetleri dışında başka bir görevde görevlendirilmesi halinde, kendilerine bu madde</i> <i>kapsamında ayni giyecek yardımı yapılmaz. Bu maddenin uygulamasına ilişkin usul ve esaslar Sağlık</i>
 
-Bakanlığınca belirlenir.” hükümleri yer almakta olup söz konusu hükümler kapsamında giyecek yardımının 01
+<i>Bakanlığınca belirlenir.”</i> hükümleri yer almakta olup söz konusu hükümler kapsamında giyecek yardımının 01
 
 Ocak 2026 tarihi itibarıyla ayni olarak sağlanması düzenlenmiştir.
 
@@ -59,7 +59,7 @@ Bakanlığımıza bağlı birinci basamak sağlık tesislerinde görev yapmakta 
 
 Kamu Hastaneleri Genel Müdürlüğünün ilgi (b) yazısında belirtildiği üzere Strateji Geliştirme
 
-Başkanlığınca, Hazine ve Maliye Bakanlığından; "Sağlık tesislerimizde görev yapan sağlık personeline yönelik belirlenen kıyafet standartları kapsamında temin edilmesi planlanan kıyafetlere ilişkin yapılan yaklaşık maliyet çalışması sonucunda, alımı planlanan kıyafetlere ait birim fiyatların, Hazine ve Maliye Bakanlığınca yayımlanan 12.03.2025 tarihli ve 3843633 sayılı 04 sıra numaralı “Memurlara Yapılacak Giyecek Yardımı” konulu Genelge eki “Ayni Olarak Yapılacak Giyecek Yardımına İlişkin Azami Birim Fiyat Listesi”nde belirlenen tutarların üzerinde gerçekleşebileceğinin tespit edildiği, bu nedenle var olan azami fiyatların aşılabilmesi için gerekli onayın verilmesi " talep edilmiştir.
+Başkanlığınca, Hazine ve Maliye Bakanlığından; "<i>Sağlık tesislerimizde görev yapan sağlık personeline yönelik</i> <i>belirlenen kıyafet standartları kapsamında temin edilmesi planlanan kıyafetlere ilişkin yapılan yaklaşık maliyet</i> <i>çalışması sonucunda, alımı planlanan kıyafetlere ait birim fiyatların, Hazine ve Maliye Bakanlığınca yayımlanan</i> <i>12.03.2025 tarihli ve 3843633 sayılı 04 sıra numaralı “Memurlara Yapılacak Giyecek Yardımı” konulu Genelge</i> <i>eki “Ayni Olarak Yapılacak Giyecek Yardımına İlişkin Azami Birim Fiyat Listesi”nde belirlenen tutarların</i> <i>üzerinde gerçekleşebileceğinin tespit edildiği, bu nedenle var olan azami fiyatların aşılabilmesi için gerekli</i> <i>onayın verilmesi "</i> talep edilmiştir.
 
 Kamu Hastaneleri Genel Müdürlüğü’nün ilgi (b) de kayıtlı yazısında; Bakanlığımız Strateji Geliştirme
 
@@ -94,17 +94,17 @@ Sağlık Hizmetleri Genel Müdürlüğüne
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ
+**HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ**
 
-İLÇE SAĞLIK MÜDÜRLÜĞÜ / TOPLUM SAĞLIĞI MERKEZİ VE BAĞLI
+**İLÇE SAĞLIK MÜDÜRLÜĞÜ / TOPLUM SAĞLIĞI MERKEZİ VE BAĞLI**
 
-BİRİMLERİNDE GÖREV YAPAN PERSONEL KIYAFETİ
+**BİRİMLERİNDE GÖREV YAPAN PERSONEL KIYAFETİ**
 
-TEKNİK ŞARTNAMESİ
+**TEKNİK ŞARTNAMESİ**
 
-GENEL ÖZELLİKLER
+**GENEL ÖZELLİKLER**
 
 1.1 Bu teknik şartname, Bakanlığımıza bağlı birinci basmak sağlık hizmeti sunan İlçe Sağlık
 
@@ -164,9 +164,9 @@ Forma bedenleri Avrupa beden standartlarına uygun olacak şekilde (XXS-6XL) muh
 
 1.22 Kıyafetler Sağlık Bakanlığı Kurumsal Kimlik Kılavuzu’nda (Bölüm 19) belirtilen standartlara uygun olarak
 
-FORMA (SCRUBS) TEKNİK ŞARTNAME
+**FORMA (SCRUBS) TEKNİK ŞARTNAME**
 
-1. KUMAŞ ÖZELLİĞİ
+**1. KUMAŞ ÖZELLİĞİ**
 
 1.1. Forma 1.sınıf terry-koton terletmeyen, yıkama esnasında çekmeyen ve kırışmayan özellikte kumaştan olmalıdır. Sık yıkmaya ve yüksek ısıya uygun, dezenfektan ve kimyasal temizlik maddelerini içeren yıkamalara karşı, renk atması ve solma yapmamalıdır.
 
@@ -178,7 +178,7 @@ FORMA (SCRUBS) TEKNİK ŞARTNAME
 
 1.6. Çamaşır makinesinde kumaş 40-60°C yıkanabilir olmalıdır. Kumaşın yıkamadan sonraki boy değişimi çözgü yönünde %2, atkı yönünde %1 den fazla olmamalıdır.
 
-2. FORMA ÖZELLİĞİ
+**2. FORMA ÖZELLİĞİ**
 
 2.1. Forma; V yaka -temizlik personeli hizmet kıyafetinde gömlek yaka, kısa/ uzun kollu, kol ağızları manşetsiz/lastiksiz (düz dikiş), üstte sol göğüs cebinde 1 ve etek bölümünde 2 cep, yanları yırtmaçlı/yırtmaçsız, pantolon lastikli veya kemerli, pantolonda iki yandan cepli/arka sağ tek cep, pantolon paçaları boru paça düz kesim olacaktır.
 
@@ -208,7 +208,7 @@ Kalem cebi 3 cm genişlikte ve 12 cm uzunlukta olmalıdır.
 
 2.11. Pantolonun bağlama ipi pamuk olmalı, ısıya dayanıklı olmalıdır. Bağlama ipi ucundaki aglet yıkama sıcaklığına dayanıklı olmalıdır.
 
-3. FORMA RENKLERİ
+**3. FORMA RENKLERİ**
 
 3.1. Uzman Hekim, Hekim, Diş Hekimi, Uzman Diş Hekimi Olmak Üzere Tüm Hekimler Hizmet
 
@@ -234,13 +234,13 @@ Moth.
 
 3.21. Tıbbi Sekreter Hizmet Kıyafeti: Pantone: 13-0611 TCX Moth olacaktır.
 
-HEKİM, DİŞ HEKİMİ VE KLİNİK ECZACI ÖNLÜK TEKNİK ŞARTNAME
+**HEKİM, DİŞ HEKİMİ VE KLİNİK ECZACI ÖNLÜK TEKNİK ŞARTNAME**
 
-(Uzman Hekim, Hekim, Diş Hekimi, Uzman Diş Hekimi Olmak Üzere Tüm Hekimler ve Klinik
+**(Uzman Hekim, Hekim, Diş Hekimi, Uzman Diş Hekimi Olmak Üzere Tüm Hekimler ve Klinik**
 
-Eczacı)
+**Eczacı)**
 
-1.KUMAŞ ÖZELLİĞİ
+**1.KUMAŞ ÖZELLİĞİ**
 
 1.1. Önlük terletmeyen, yıkama esnasında çekmeyen ve kırışmayan özellikte kumaştan olmalıdır.
 
@@ -252,7 +252,7 @@ Kullanılan çıtçıtlar paslanmaz özellikte olmalıdır
 
 1.3. Çamaşır makinesinde kumaş 40-60°C yıkanabilir olmalıdır. Kumaşın yıkamadan sonraki boy değişimi çözgü yönünde %2, atkı yönünde %1 den fazla olmamalıdır.
 
-2.ÖNLÜK ÖZELLİĞİ
+**2.ÖNLÜK ÖZELLİĞİ**
 
 2.1. Önlük beyaz renkte olacaktır.
 
@@ -266,11 +266,11 @@ Sağlık Bakanlığı Amblem Logotype-1 yer alacaktır. Logonun alt ucu sol cebi
 
 2.4. Etek bölümündeki cepler en az; 16 cm (±2) x 18 cm (±2) (en x boy) boyutunda, sol göğüsteki cep en az 13 cm (±2) x 14 cm (±2) (en x boy) olmalıdır. Kadın ve erkek beden boyut artışına göre cep boyutlarında orantısal artış olmalıdır.
 
-SAĞLIK KURULUŞU DIŞINDA HALK SAĞLIĞI HİZMETLERİNDE GÖREV YAPAN
+**SAĞLIK KURULUŞU DIŞINDA HALK SAĞLIĞI HİZMETLERİNDE GÖREV YAPAN**
 
-PERSONEL KIYAFET TEKNİK ŞARTNAMESİ
+**PERSONEL KIYAFET TEKNİK ŞARTNAMESİ**
 
-ÖZELLİKLER:
+**ÖZELLİKLER:**
 
 1.1. Sağlık kuruluşu dışında halk sağlığı hizmetlerinde görev yapan personel, ünvanına uygun kıyafet giyecek olup ayırt edici olarak iç ve dış rengi beyaz olan yelek giyecektir.
 
@@ -302,9 +302,9 @@ Metrekare ağırlığı en az 100 gr/m2 olmalıdır.
 
 1.12. Çamaşır makinesinde 30-40 °C yıkanabilir olmalıdır. Kumaşın yıkamadan sonraki boy değişimi çözgü yönünde %3, atkı yönünde %3 den fazla olmamalıdır.
 
-Tablo 1. Erkek Yelek Ölçü Tablosu
+**Tablo 1.** Erkek Yelek Ölçü Tablosu
 
-Sembol Açıklama XS S M L XL XXL 3XL 4XL
+**Sembol Açıklama XS S M L XL XXL 3XL 4XL**
 
 A ½ Göğüs 53 55 57 59 61 63 65 67
 
@@ -326,9 +326,9 @@ I Arka Yaka 2 2 2 2 2 2 2 2
 
 J Yaka Yüksekliği 6 6 6 6 6 6 6 6
 
-Tablo 2. Kadın Yelek Ölçü Tablosu
+**Tablo 2.** Kadın Yelek Ölçü Tablosu
 
-Sembol Açıklama XS S M L XL XXL 3XL 4XL
+**Sembol Açıklama XS S M L XL XXL 3XL 4XL**
 
 A ½ Göğüs 50 52 54 56 58 60 62 64
 
@@ -350,9 +350,9 @@ I Arka Yaka 2 2 2 2 2 2 2 2
 
 J Yaka Yüksekliği 6 6 6 6 6 6 6 6
 
-TAKIM ELBİSE TEKNİK ŞARTNAME
+**TAKIM ELBİSE TEKNİK ŞARTNAME**
 
-1. GÖMLEK ÖZELLİKLERİ
+**1. GÖMLEK ÖZELLİKLERİ**
 
 1.1. Gömlek kumaşı kaliteli %50 (±5) pamuk, %45 (±5) polyester ve %5 likra (±2) kumaştan imal edilmiş olmalıdır.
 
@@ -390,7 +390,7 @@ Bedenleri Avrupa beden standartlarına uygun olacak şekilde XS-4XL aralığınd
 
 1.17. Gömleğin boy uzunluğu normalden uzun olmalıdır. Kenar dikişi overlokla temizlenip makine dikişi ile kıvrılmalıdır. Bel hattını rahatça kapatmalıdır. Hareketlerde otururken ve eğilirken açılmalar olmamalıdır.
 
-1 . PANTOLON ÖZELLİKLERİ
+**1 . PANTOLON ÖZELLİKLERİ**
 
 1.1 Kumaş %65 (±5) polyester, %32 (±5) viskon ve %3 (±2) elastan karışımlı olan likralı 2/2 gabardin kumaştan olmalıdır. Anti-alerjik ve antibakteriyel kumaş özelliğinde olmalıdır.
 
@@ -414,7 +414,7 @@ Kemer köprüsü 5 veya 7 adet olmalıdır. Kemer köprüleri 1-1,2 cm genişli�
 
 1.10 Dikiş hatası, iplik atlaması, sökük, dikiş yerlerinde çekme ve büzme olmamalıdır. Omuz, yaka, kol ve cep parçalarının dikiminde uygunsuzluklar olmamalıdır.
 
-2 . KRAVAT / FULAR ÖZELLİKLERİ
+**2 . KRAVAT / FULAR ÖZELLİKLERİ**
 
 2.1 Kravat kumaş mikro-fiber karışım %70 (±5) polyester ve %30 (±5) viskon olacaktır. Fular polyester kumaş şeklinde olacaktır.
 
@@ -426,7 +426,7 @@ Kemer köprüsü 5 veya 7 adet olmalıdır. Kemer köprüleri 1-1,2 cm genişli�
 
 2.5 Kravat ve fular üzerinde Sağlık Bakanlığı logosu olacaktır.
 
-3 . YELEK / CEKET ÖZELLİKLERİ
+**3 . YELEK / CEKET ÖZELLİKLERİ**
 
 3.1 Ceket/yelek tıbbi sekreter için siyah, şoför için lacivert renk olacaktır.
 
@@ -466,9 +466,9 @@ Kemer köprüsü 5 veya 7 adet olmalıdır. Kemer köprüleri 1-1,2 cm genişli�
 
 3.17 Ceket/yelek beden özellikleri “Drop Cetveline” göre oluşturulmalıdır.
 
-TOPLUM SAĞLIĞI MERKEZLERİ/İLÇE SAĞLIK MÜDÜRLÜKLERİNDE İDARİ
+**TOPLUM SAĞLIĞI MERKEZLERİ/İLÇE SAĞLIK MÜDÜRLÜKLERİNDE İDARİ**
 
-GÖREV YAPAN PERSONEL KIYAFETİ
+**GÖREV YAPAN PERSONEL KIYAFETİ**
 
 1.1 İlgili kurumlarda idari görev yapan sağlık meslek mensubu personel ise idari görev yaptıkları süreçte 25.10.1982 tarihli 17849 sayılı Resmî Gazete’de yayımlanan “Kamu Kurum ve Kuruluşlarında
 
@@ -476,17 +476,17 @@ GÖREV YAPAN PERSONEL KIYAFETİ
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ
+**HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ**
 
-AİLE SAĞLIĞI MERKEZLERİNDE GÖREV YAPAN
+**AİLE SAĞLIĞI MERKEZLERİNDE GÖREV YAPAN**
 
-AİLE HEKİMİ VE AİLE SAĞLIĞI ÇALIŞANLARININ
+**AİLE HEKİMİ VE AİLE SAĞLIĞI ÇALIŞANLARININ**
 
-KIYAFETİNE İLİŞKİN TEKNİK ŞARTNAME
+**KIYAFETİNE İLİŞKİN TEKNİK ŞARTNAME**
 
-GENEL ÖZELLİKLER
+**GENEL ÖZELLİKLER**
 
 1.1 Bu teknik şartname, Bakanlığımıza bağlı aile sağlığı merkezlerinde görev yapan aile hekimi ve aile sağlığı çalışanlarının görev sırasında giyeceği forma ve kıyafetlerin kumaş, model, renk, logo ve kalite özelliklerini kapsar.
 
@@ -546,9 +546,9 @@ Forma bedenleri Avrupa beden standartlarına uygun olacak şekilde (XXS-6XL) muh
 
 2
 
-FORMA (SCRUBS) TEKNİK ŞARTNAME
+**FORMA (SCRUBS) TEKNİK ŞARTNAME**
 
-1. KUMAŞ ÖZELLİĞİ
+**1. KUMAŞ ÖZELLİĞİ**
 
 1.1. Forma 1.sınıf terry-koton terletmeyen, yıkama esnasında çekmeyen ve kırışmayan özellikte kumaştan olmalıdır. Sık yıkmaya ve yüksek ısıya uygun, dezenfektan ve kimyasal temizlik maddelerini içeren yıkamalara karşı, renk atması ve solma yapmamalıdır.
 
@@ -562,7 +562,7 @@ FORMA (SCRUBS) TEKNİK ŞARTNAME
 
 Kumaşın yıkamadan sonraki boy değişimi çözgü yönünde %2, atkı yönünde %1 den fazla olmamalıdır.
 
-2. FORMA ÖZELLİĞİ
+**2. FORMA ÖZELLİĞİ**
 
 2.1. Forma; V yaka -temizlik personeli hizmet kıyafetinde gömlek yaka, kısa/ uzun kollu, kol ağızları manşetsiz/lastiksiz (düz dikiş), üstte sol göğüs cebinde 1 ve etek bölümünde 2 cep, yanları yırtmaçlı/yırtmaçsız, pantolon lastikli veya kemerli, pantolonda iki yandan cepli/arka sağ tek cep, pantolon paçaları boru paça düz kesim olacaktır.
 
@@ -594,19 +594,19 @@ Kalem cebi 3 cm genişlikte ve 12 cm uzunlukta olmalıdır.
 
 3
 
-3. FORMA RENKLERİ
+**3. FORMA RENKLERİ**
 
 3.1. Uzman Hekim, Hekim Olmak Üzere Tüm Aile Hekimleri Hizmet Kıyafeti: Pantone:15-4225 TCX
 
 Alaskan Blue,
 
-3.2. Aile Sağlığı Çalışanı Hizmet Kıyafeti: Pantone:14-5416 TCX Bermuda 3.1 3.2 4
+3.2. Aile Sağlığı Çalışanı Hizmet Kıyafeti: Pantone:14-5416 TCX Bermuda **3.1 3.2** 4
 
-HEKİM ÖNLÜK TEKNİK ŞARTNAME
+**HEKİM ÖNLÜK TEKNİK ŞARTNAME**
 
-(Uzman Hekim, Hekim Olmak Üzere Tüm Aile Hekimleri)
+**(Uzman Hekim, Hekim Olmak Üzere Tüm Aile Hekimleri)**
 
-1.KUMAŞ ÖZELLİĞİ
+**1.KUMAŞ ÖZELLİĞİ**
 
 1.1. Önlük terletmeyen, yıkama esnasında çekmeyen ve kırışmayan özellikte kumaştan olmalıdır.
 
@@ -618,7 +618,7 @@ Kullanılan çıtçıtlar paslanmaz özellikte olmalıdır
 
 1.3. Çamaşır makinesinde kumaş 40-60°C yıkanabilir olmalıdır. Kumaşın yıkamadan sonraki boy değişimi çözgü yönünde %2, atkı yönünde %1 den fazla olmamalıdır.
 
-2.ÖNLÜK ÖZELLİĞİ
+**2.ÖNLÜK ÖZELLİĞİ**
 
 2.1. Önlük beyaz renkte olacaktır.
 

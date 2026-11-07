@@ -14,15 +14,15 @@ durum: "yürürlükte"
 
 ## T.C. SAĞLIK BAKANLIĞI YÖNETİM HİZMETLERİ GENEL MÜDÜRLÜĞÜ - SÖZLEŞMELİ VE İŞÇİ İŞLEMLERİ
 
-18.10.2012 10:48 -
+**18.10.2012 10:48 -**
 
 ### B.10.0.YHG.0.71.00.00/929/24835
 
-00516106
+**00516106**
 
 00516106
 
-(Not: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı ile yapılan değişiklik metne işlenmiştir)
+**<i>(Not: 15/10/2012 tarihli ve 24425 sayılı Bakan Onayı ile yapılan değişiklik metne işlenmiştir)</i>**
 
 ### SAĞLIK BAKANLIĞI 4/B SÖZLEġMELİ PERSONELİNİN YENİDEN HİZMETE ALINMASI VE KURUM İÇİ YER DEĞİġİKLİĞİNE DAİR YÖNERGE BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
@@ -42,25 +42,25 @@ durum: "yürürlükte"
 
 **Madde 4 –** (1) Bu Yönergede geçen;
 
-a) Bakanlık :Sağlık Bakanlığı’nı,
+**a) Bakanlık :**Sağlık Bakanlığı’nı,
 
-b) Bakan :Sağlık Bakanı’nı,
+**b) Bakan :**Sağlık Bakanı’nı,
 
-c) Müdürlük :İl Sağlık Müdürlüğü’nü,
+**c) Müdürlük :**İl Sağlık Müdürlüğü’nü,
 
-ç) Pozisyon :İlgili mevzuatı uyarınca vize edilen ve bir sözleşmeli
+**ç) Pozisyon :**İlgili mevzuatı uyarınca vize edilen ve bir sözleşmeli
 
 personelin istihdamına imkân veren görev unvanına ait pozisyonu,
 
-d) Hizmet Grubu :Sağlık Bakanlığı Atama ve Nakil Yönetmeliği
+**d) Hizmet Grubu :**Sağlık Bakanlığı Atama ve Nakil Yönetmeliği
 
 çerçevesinde personel dağılım cetveli doluluk oranına göre belirlenen il gruplarını,
 
-e) Sağlık Komisyonu :Sağlık Bakanlığı Atama ve Nakil Yönetmeliği’ne göre
+**e) Sağlık Komisyonu :**Sağlık Bakanlığı Atama ve Nakil Yönetmeliği’ne göre
 
 sağlık mazeretlerini inceleyen Komisyon’u,
 
-f) Personel :657 sayılı Devlet Memurları Kanunu’nun 4/B
+**f) Personel :**657 sayılı Devlet Memurları Kanunu’nun 4/B
 
 maddesine göre çalışan sözleşmeli personeli,
 
@@ -74,27 +74,27 @@ h) İKYS :Çekirdek kaynak yönetim sisteminin insan kaynakları
 
 yönetim sistemi modülünü,
 
-ı) PBS :Personel bilgi sistemini,
+**ı) PBS :**Personel bilgi sistemini,
 
-i) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Kadrolu personel:
+**i) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Kadrolu personel:**
 
 657 sayılı Devlet Memurları Kanunu’nun 4/A maddesine göre çalışan, stratejik
 
 personel hariç kadrolu sağlık ve yardımcı sağlık hizmetleri sınıfı personelini,
 
-j) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Stratejik personel:
+**j) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Stratejik personel:**
 
 Sağlık Bakanlığı Atama ve Nakil Yönetmeliğine göre Bakanlık tarafından
 
 istihdamında güçlük çekilen uzman tabip ve tabip unvanlarındaki personeli,
 
-k) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Standart:
+**k) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Standart:**
 
 26/10/1994 tarihli ve 22093 sayılı Resmî Gazete’de yayımlanan, Sağlık Bakanlığı
 
 Taşra Teşkilatı Yatak ve Kadro Standartları Yönetmeliğinde belirlenen standartları,
 
-l) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Hizmet bölgesi:
+**l) (Ek bent: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı) Hizmet bölgesi:**
 
 İllerin sosyo-ekonomik gelişmişlik seviyesine göre belirlenen bölgeleri,
 
@@ -186,7 +186,7 @@ gerekir.
 
 #### Mazereti sona eren personel
 
-**Madde 9 –** (1) Eş durumu veya sağlık mazereti nedeniyle görev yeri değişenler, mazeretlerinin devam ettiğini ispatlayan bilgi ve belgeleri her yıl ekim ayının ilk haftasında çalıştığı kuruma bildirmekle yükümlüdür. (Ek cümle: 07/04/2011 tarihli ve 80506 sayılı Bakan Onayı) Hastalığının süreklilik arz ettiği veya iyileşemez olduğu sağlık kurulu raporunda belirtilenler için, yalnızca son on işgünü içerisinde alınmış vukuatlı nüfus kayıt örneği bildirimi aranır. Müdürlükler, bildirimde bulunmayanlar ile mazeretinin devam ettiğini belgelendiremeyenleri tespit ederek her yıl ekim ayının sonuna kadar Bakanlığa bildirir. Bakanlık, bu bildirimi dikkate alarak yeni sözleşme döneminin başında personelin görev yerini değiştirebilir.
+**Madde 9 –** (1) Eş durumu veya sağlık mazereti nedeniyle görev yeri değişenler, mazeretlerinin devam ettiğini ispatlayan bilgi ve belgeleri her yıl ekim ayının ilk haftasında çalıştığı kuruma bildirmekle yükümlüdür. **(Ek cümle: 07/04/2011 tarihli ve 80506 sayılı Bakan Onayı)** Hastalığının süreklilik arz ettiği veya iyileşemez olduğu sağlık kurulu raporunda belirtilenler için, yalnızca son on işgünü içerisinde alınmış vukuatlı nüfus kayıt örneği bildirimi aranır. Müdürlükler, bildirimde bulunmayanlar ile mazeretinin devam ettiğini belgelendiremeyenleri tespit ederek her yıl ekim ayının sonuna kadar Bakanlığa bildirir. Bakanlık, bu bildirimi dikkate alarak yeni sözleşme döneminin başında personelin görev yerini değiştirebilir.
 
 (2) Mazereti sona eren personelden;
 
@@ -246,7 +246,7 @@ ile Bakanlıkça gerekli görülen belgeler istenir.
 
 (2) Bu durumda olanlar, 657 sayılı Devlet Memurları Kanunu’nun 4/B maddesine tabi Bakanlığa ait sözleşmeli personel pozisyonlarına bir yıl geçmedikçe yeniden atanamazlar. Bu sürenin sonunda yeniden hizmete alınma, 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname’nin ek 3 üncü maddesi hükümlerine tabidir.
 
-(3) (Ek fıkra: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)
+(3) **(Ek fıkra: 23/10/2009 tarihli ve 198958 sayılı Bakan Onayı)**
 
 (Değişik ibare: 23/03/2010 tarihli ve 96201 sayılı Bakan Onayı) İl’ler arası olmak üzere; karşılıklı yer değişikliği, eş durumu, sağlık mazereti veya eşinin şehit olması nedeniyle görev yeri değiştirilenler, sigortalılık işlemleri ve hizmet sözleşmesi yapılması amacıyla yeni görev yerine müracaat etmek üzere ayın 14 üncü günü mesai bitimine kadar beş işgünü izinli sayılır. Bu personelin eski görev yerleri ile ilişikleri, ayın 14 üncü günü mesai bitimi itibariyle sona erer. Sözleşmeli personel hizmet sözleşmesi imzalayarak ayın 15 inci günü yeni yerinde göreve başlatılır.
 
@@ -276,4 +276,4 @@ ile Bakanlıkça gerekli görülen belgeler istenir.
 
 **Dipnotlar**
 
-<small>Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz.</small>
+<small>**Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz.** Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz. Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır. Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden (B.10.0.YHG.0.71.00.00/929/24835+516106) kodu ile erişebilirsiniz.</small>

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/01/20080119-1.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-TÜTÜN MAMULLERİNİN ZARARLARININ ÖNLENMESİNE DAİR KANUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
-Kanun No. 5727 Kabul Tarihi: 3/1/2008
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**TÜTÜN MAMULLERİNİN ZARARLARININ ÖNLENMESİNE DAİR KANUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN**
+**Kanun No. 5727 Kabul Tarihi: 3/1/2008**
 
 MADDE 1 – 7/11/1996 tarihli ve 4207 sayılı Tütün Mamullerinin Zararlarının Önlenmesine Dair Kanunun adı "Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun" şeklinde değiştirilmiştir.
 

@@ -11,7 +11,7 @@ tarih: "12.06.2017"
 kontrol_edildi: true
 ---
 
-2.3.9. Poliklinik Hizmetlerinde Öncelik Sırası Genelge Değişikliği (2017/10)
+**2.3.9. Poliklinik Hizmetlerinde Öncelik Sırası Genelge Değişikliği (2017/10)**
 
 ### T.C. Sağlık Bakanlığı, Sağlık Hizmetleri Genel Müdürlüğü
 

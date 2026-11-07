@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308M1-7.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN
-Kanun No. 7074 Kabul Tarihi: 1/2/2018
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN**
+**Kanun No. 7074 Kabul Tarihi: 1/2/2018**
 
 
 MADDE 1 – 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununa aşağıdaki ek madde ile geçici madde eklenmiştir.
@@ -30,9 +30,9 @@ Bunlardan emekli ikramiyesine hak kazanacak olanların emekli ikramiyesinin hesa
 Bu maddedeki hükümler saklı kalmak kaydıyla bağlanan bu aylıklar hakkında vazife malullüğü aylığı hükümleri uygulanır ve Sosyal Güvenlik Kurumunca bağlanan aylıklar her yıl sonunda faturası karşılığında Maliye Bakanlığından tahsil edilir.”
 “GEÇİCİ MADDE 17- Bu maddenin yürürlüğe girdiği tarihten önce 21 inci maddenin birinci fıkrasının (a), (h), (i) ve (j) bentleri kapsamında terör eylemi nedeniyle yaralanmış olup ilgili mevzuatına göre malul sayılmamaları nedeniyle aylık bağlanamayanlardan talepte bulunanlara, bu maddenin yürürlüğe girdiği tarihteki hizmet süreleri, unsurlar ve memur aylık katsayısı ile ödenmekte olan aylıkları esas alınarak ek 3 üncü madde hükümlerine göre tespit olunacak tutarda bu maddenin yürürlüğe girdiği takip eden aybaşından itibaren aylık bağlanır.”
 
-MADDE 2- 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (c) bendinde yer alan “Türkiye Cumhuriyet Merkez Bankasının banknot ve kıymetli evrak üretim ve basımı ile ilgili mal veya hizmet alımları,” ibaresi “Türkiye Cumhuriyet Merkez Bankasının teknolojiye, güvenliğe, banknot ve kıymetli evrak üretimi ve basımına ilişkin mal ve hizmet alımları, Türkiye Cumhuriyet Merkez Bankasının dış kaynak temini ve danışmanlık hizmeti alımları;” şeklinde değiştirilmiştir.
+**MADDE 2-** 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (c) bendinde yer alan “Türkiye Cumhuriyet Merkez Bankasının banknot ve kıymetli evrak üretim ve basımı ile ilgili mal veya hizmet alımları,” ibaresi “Türkiye Cumhuriyet Merkez Bankasının teknolojiye, güvenliğe, banknot ve kıymetli evrak üretimi ve basımına ilişkin mal ve hizmet alımları, Türkiye Cumhuriyet Merkez Bankasının dış kaynak temini ve danışmanlık hizmeti alımları;” şeklinde değiştirilmiştir.
 
-MADDE 3- 4734 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 3-** 4734 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
 MADDE 18- 11 inci maddenin birinci fıkrasının (g) bendi hükümleri, 10/11/2016 tarihli ve 6758 sayılı Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 19 uncu maddesi kapsamında kayyımlık yetkisi Tasarruf Mevduatı Sigorta Fonuna devredilen veya Tasarruf Mevduatı Sigorta Fonunun kayyım olarak atandığı şirketler hakkında uygulanmaz.”
@@ -64,11 +64,11 @@ MADDE 9 – 19/8/2016 tarihli ve 6741 sayılı Türkiye Varlık Fonu Yönetimi A
 MADDE 10 – 18/10/2016 tarihli ve 6749 sayılı Olağanüstü Hal Kapsamında Alınan Tedbirlere İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 6 ncı maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
 “a) Gözaltı süresi, şüphelinin yakalama yerine en yakın hâkim veya mahkemeye gönderilmesi için zorunlu süre hariç, yakalama anından itibaren yedi günü geçemez. Delillerin toplanmasındaki güçlük veya şüpheli sayısının çokluğu nedeniyle Cumhuriyet savcısı, gözaltı süresinin yedi gün süreyle uzatılmasına yazılı olarak emir verebilir.”
 
-MADDE 11- 8/11/2016 tarihli ve 6755 sayılı Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 3 üncü maddesinin birinci fıkrasının (a) bendinde yer alan “otuz günü geçemez” ibaresi “şüphelinin yakalama yerine en yakın hâkim veya mahkemeye gönderilmesi için zorunlu süre hariç, yakalama anından itibaren yedi günü geçemez” şeklinde değiştirilmiş, aynı bende aşağıdaki cümle eklenmiş ve aynı fıkranın (m) bendi yürürlükten kaldırılmıştır.
+**MADDE 11-** 8/11/2016 tarihli ve 6755 sayılı Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler ile Bazı Kurum ve Kuruluşlara Dair Düzenleme Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 3 üncü maddesinin birinci fıkrasının (a) bendinde yer alan “otuz günü geçemez” ibaresi “şüphelinin yakalama yerine en yakın hâkim veya mahkemeye gönderilmesi için zorunlu süre hariç, yakalama anından itibaren yedi günü geçemez” şeklinde değiştirilmiş, aynı bende aşağıdaki cümle eklenmiş ve aynı fıkranın (m) bendi yürürlükten kaldırılmıştır.
 “Delillerin toplanmasındaki güçlük veya şüpheli sayısının çokluğu nedeniyle Cumhuriyet savcısı, gözaltı süresinin yedi gün süreyle uzatılmasına yazılı olarak emir verebilir.”
 
-GEÇİCİ MADDE 1- 684 sayılı Kanun Hükmünde Kararnamenin yayımı tarihinden önce, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümlerinde tanımlanan suçlar, 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlar ve toplu işlenen suçlar nedeniyle gözaltına alınan kişiler hakkında gözaltı süresi en çok otuz gün olarak uygulanır.
+**GEÇİCİ MADDE 1**- 684 sayılı Kanun Hükmünde Kararnamenin yayımı tarihinden önce, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümlerinde tanımlanan suçlar, 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlar ve toplu işlenen suçlar nedeniyle gözaltına alınan kişiler hakkında gözaltı süresi en çok otuz gün olarak uygulanır.
 
-MADDE 12- Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 12-** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 13- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 13-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2009/03/20090314-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
 Kanun No. 5841 Kabul Tarihi : 25/2/2009
 

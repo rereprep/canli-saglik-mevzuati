@@ -10,11 +10,11 @@ durum: "yürürlükte"
 
 Tarihi:15.01.2002 Sayısı:4696
 
-T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü**
 
-Sayı : B100PER0730022 / 4696 15.01.2002
+**Sayı :** B100PER0730022 / 4696 15.01.2002
 
-Konu : Mal Bildirimi
+**Konu :** Mal Bildirimi
 
 ### İLGİ:
 

@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 İlaç ve Tıbbi Cihaz Kurumundan:
-ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİ İLE İŞİTME CİHAZI MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİ İLE İŞİTME CİHAZI MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 24/9/2011 tarihli ve 28064 sayılı Resmî Gazete’de yayımlanan Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmeliğin 6 ncı maddesinin ikinci fıkrasının (a) bendi ile üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 24/9/2011 tarihli ve 28064 sayılı Resmî Gazete’de yayımlanan Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmeliğin 6 ncı maddesinin ikinci fıkrasının (a) bendi ile üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “a) İlgili şube müdürü.”
 “(3) Komisyona ilgili şube müdürü başkanlık eder.”
 

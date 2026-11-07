@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 İçişleri Bakanlığından:
-KARAYOLLARI TRAFİK YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**KARAYOLLARI TRAFİK YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 18/7/1997 tarihli ve 23053 mükerrer sayılı Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinin 18 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 18/7/1997 tarihli ve 23053 mükerrer sayılı Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinin 18 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “İl trafik komisyonları, belediye sınırları içinden geçen devlet ve il yolları ile ilgili hususlarda Karayolları Genel Müdürlüğünün görüşünü alır.”
 
 MADDE 2 – Aynı Yönetmeliğin 30 uncu maddesinin birinci fıkrasının ilk cümlesi ile aynı fıkranın (a) ve (i) bentleri aşağıdaki şekilde değiştirilmiş, fıkraya aşağıdaki (m) bendi eklenmiştir.

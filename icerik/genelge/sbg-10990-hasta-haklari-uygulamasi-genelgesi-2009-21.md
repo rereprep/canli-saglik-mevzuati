@@ -45,7 +45,7 @@ Sağlık Bakanlığı Tedavi Hizmetleri Genel Müdürlüğü Mithatpaşa Cad. No
 
 Tel: 0.312.585 14 79 Fax: 0.312.585 15 65
 
-http://sbu.saglik.gov.tr/extras/hastahaklari/giris.html , e-posta: hastahaklari@saglik.gov.tr
+http://sbu.**saglik.gov.tr**/extras/hastahaklari/giris.html , e-posta: hastahaklari@saglik.gov.tr
 
 ### T.C.
 

@@ -29,7 +29,7 @@ a) Bakanlık: Sağlık Bakanlığı’nı, b) Genel Müdürlük : Bakanlığın 
 
 ### İKİNCİ BÖLÜM
 
-Kuruluş Esasları
+**Kuruluş Esasları**
 
 #### Kuruluş Usulü
 
@@ -55,7 +55,7 @@ Kuruluş Esasları
 
 **Madde 10 –** Sağlık personelinin ana çocuk sağlığı ve aile planlaması dahil üreme sağlığı kapsamındaki hizmetiçi eğitimlerinin planlanması ve yürütülmesi için fizik yapısı, personel kaynakları ve günlük hizmet yükü yeterli olan merkezler, ilin ihtiyacı çerçevesinde "Eğitim Merkezi" olarak faaliyet gösterirler. Eğitim Merkezleri, bu faaliyetleri tam olarak göstermeye yetecek şekilde Ek-2 Sayılı Cetvelde gösterilen personel, tıbbi malzeme ve görsel ve işitsel eğitim malzemesi ile donatılır.
 
-ÜÇÜNCÜ BÖLÜM Hizmet İlkeleri ve Hizmet Türleri
+**ÜÇÜNCÜ BÖLÜM Hizmet İlkeleri ve Hizmet Türleri**
 
 #### İlkeler
 
@@ -89,7 +89,7 @@ Kuruluş Esasları
 
 **Madde 18 –** Merkezlerde eğitim hizmetleri olarak verilecek hizmetler şunlardır: a) Kadın sağlığı, ana sağlığı, çocuk sağlığı ve aile planlaması dahil üreme sağlığı konularında personelin hizmet içi eğitimine, halk eğitimine ve mezuniyet öncesi eğitimlere destek ve danışmanlık hizmetleri vermek, b) İlden ve gerektiğinde il dışından, hekim ve hekim dışı sağlık personeline bilgi ve beceri kazandıran kurslar düzenlemek; ayrıca, ilgili hizmetleri veren tüm sağlık personeline kadın, ana ve çocuk sağlığı ve aile planlaması konularında adaptasyon eğitimi vermek, ( eğitim merkezi olanlar için ) c) Mahallin kitle iletişim araçlarından da faydalanmak ve eğitim çalışmalarını organize etmek suretiyle sistemli bir şekilde halk eğitimi yapmak,
 
-DÖRDÜNCÜ BÖLÜM Merkezde Çalışan Sağlık Personelinin Görev, Yetki ve Sorumlulukları
+**DÖRDÜNCÜ BÖLÜM Merkezde Çalışan Sağlık Personelinin Görev, Yetki ve Sorumlulukları**
 
 #### Baştabip ve Görevleri
 
@@ -185,7 +185,7 @@ Ayniyat saymanının görevleri şunlardır: a) Merkezin ayniyat işlerini, Ayni
 
 **Madde 41 –** Hizmetin mahremiyeti ve özelliğine göre merkezin birimlerine kadın ve erkek hizmetliler tahsis edilir. Bu husus, personel tayininde yönetici tarafından göz önünde bulundurulur. Hizmetliler, baştabibin yaptığı işbölümüne göre çalışırlar. Hizmetlilerin görevleri şunlardır: a) Merkezin ve merkezde kullanılan araç ve gereçlerin temizliğini yapmak, b) Gerektiğinde kaloriferciye bakım ve onarım işlemlerinde yardımcı olmak, c) Merkeze gelen malzemeleri taşımak ve ambara yerleştirmek, merkezden çıkan malzemeleri taşımak,d) Merkezin posta ve evrak dağıtım işini merkez içinde ve dışında yürütmek, e) Merkez bahçesinin temizlik, bakım ve diğer hizmetlerini yapmak.
 
-ALTINCI BÖLÜM Çeşitli Hükümler
+**ALTINCI BÖLÜM Çeşitli Hükümler**
 
 #### Yazışma Usulü
 
@@ -389,4 +389,4 @@ ALTINCI BÖLÜM Çeşitli Hükümler
 | 1 | 1 |
 | 4 | 3 |
 
-NOT:- Nüfusu 100.000’i aşan illerde her 100.000 ve ilçelerde 30.000 nüfusa bir merkez açılır. Uzman Hekimlerden birisi başhekimlik görevini yürütür
+**NOT:-** Nüfusu 100.000’i aşan illerde her 100.000 ve ilçelerde 30.000 nüfusa bir merkez açılır. Uzman Hekimlerden birisi başhekimlik görevini yürütür

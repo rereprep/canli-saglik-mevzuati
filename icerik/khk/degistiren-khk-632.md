@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/06/20110604M1-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-HÜKMÜNDE KARARNAME DEVLET
-MEMURLARI KANUNUNUN 4 ÜNCÜ MADDESİNİN (B) FIKRASI İLE 4924 SAYILI KANUN
-UYARINCA SÖZLEŞMELİ PERSONEL POZİSYONLARINDA ÇALIŞANLARIN MEMUR KADROLARINA ATANMASI AMACIYLA DEVLET MEMURLARI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**HÜKMÜNDE KARARNAME DEVLET**
+**MEMURLARI KANUNUNUN 4 ÜNCÜ MADDESİNİN (B) FIKRASI İLE 4924 SAYILI KANUN**
+**UYARINCA SÖZLEŞMELİ PERSONEL POZİSYONLARINDA ÇALIŞANLARIN MEMUR KADROLARINA ATANMASI AMACIYLA DEVLET MEMURLARI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME**
 Karar Sayısı : KHK/632 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası ile 4924 sayılı Kanun uyarınca sözleşmeli personel pozisyonlarında çalışanların memur kadrolarına atanması amacıyla Devlet Memurları Kanununda değişiklik yapılması; 6/4/2011 tarihli ve 6223 sayılı Kanunun verdiği yetkiye dayanılarak, Bakanlar Kurulu’nca 2/6/2011 tarihinde kararlaştırılmıştır.
 
 MADDE 1 – 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa aşağıdaki geçici madde eklenmiştir.

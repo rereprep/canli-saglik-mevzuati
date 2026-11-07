@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -43,63 +43,63 @@ b) Genel Müdürlük: Temel Sağlık Hizmetleri Genel Müdürlüğünü,
 
 c) Müdürlük: İl Sağlık Müdürlüğünü,
 
-d)(Değişik: RG-24/3/2004-25412) Şube Müdürlüğü: Acil sağlık hizmetleri Şube Müdürlüğünü,
+**d)(Değişik: RG-24/3/2004-25412)** Şube Müdürlüğü: Acil sağlık hizmetleri Şube Müdürlüğünü,
 
-e) (Değişik:RG- 24/3/2004-25412) Şube Müdürü: Acil sağlık hizmetleri şube müdürünü,
+**e) (Değişik:RG- 24/3/2004-25412)** Şube Müdürü: Acil sağlık hizmetleri şube müdürünü,
 
-f) (Değişik:RG-15/03/2007-26463) Merkez: Acil sağlık çağrılarının karşılandığı ve ambulansların sevk ve idare edildiği komuta kontrol merkezini,
+f) **(Değişik:RG-15/03/2007-26463)** Merkez: Acil sağlık çağrılarının karşılandığı ve ambulansların sevk ve idare edildiği komuta kontrol merkezini,
 
-g) (Değişik:RG-24/3/2004-25412) İstasyon: Acil çağrılara olay yerinde ve nakil sırasında sağlık hizmeti vermek üzere ambulans ve ekiplerin bulunduğu birimleri,
+**g) (Değişik:RG-24/3/2004-25412)** İstasyon: Acil çağrılara olay yerinde ve nakil sırasında sağlık hizmeti vermek üzere ambulans ve ekiplerin bulunduğu birimleri,
 
 h) Acil Servis: Sağlık hizmeti sunan kamu kurum ve kuruluşları ile özel hukuk tüzel kişileri ve gerçek kişiler tarafından kurulmuş yataklı tedavi kuruluşları bünyesinde yer alan acil servisleri,
 
-i) (Değişik:RG-24/3/2004-25412) Acil Sağlık Hizmetleri: Acil hastalık ve yaralanma hallerinde, konusunda özel eğitim almış ekipler tarafından, tıbbi araç ve gereç desteği ile olay yerinde, nakil sırasında, sağlık kurum ve kuruluşlarında sunulan tüm sağlık hizmetlerini,
+**i) (Değişik:RG-24/3/2004-25412)** Acil Sağlık Hizmetleri: Acil hastalık ve yaralanma hallerinde, konusunda özel eğitim almış ekipler tarafından, tıbbi araç ve gereç desteği ile olay yerinde, nakil sırasında, sağlık kurum ve kuruluşlarında sunulan tüm sağlık hizmetlerini,
 
 j) Acil Yardım: Acil sağlık hizmetleri konusunda özel eğitim görmüş ekipler tarafından, tıbbî araç ve gereç desteği ile olay yerinde ve hastaneye nakil sırasında verilen hizmetlerin bütününü,
 
-k) (Değişik:RG-24/3/2004-25412) İlkyardım: Herhangi bir kaza yada yaşamı tehlikeye düşüren bir durumda sağlık görevlilerinin tıbbi yardımı sağlanıncaya kadar hayatın kurtarılması yada durumun daha kötüye gitmesini önleyebilmek amacıyla olay yerinde, tıbbi araç gereç aranmaksızın mevcut araç ve gereçlerle yapılan ilaçsız uygulamaları,
+**k) (Değişik:RG-24/3/2004-25412)** İlkyardım: Herhangi bir kaza yada yaşamı tehlikeye düşüren bir durumda sağlık görevlilerinin tıbbi yardımı sağlanıncaya kadar hayatın kurtarılması yada durumun daha kötüye gitmesini önleyebilmek amacıyla olay yerinde, tıbbi araç gereç aranmaksızın mevcut araç ve gereçlerle yapılan ilaçsız uygulamaları,
 
 l) Acil Tedavi: Hastaneler ile diğer sağlık kurum ve kuruluşlarında acil tıbbî tedaviye ihtiyacı olanlara sunulan hizmetlerin bütününü,
 
 m) Olağandışı Durum: Aniden oluşan ve büyük zararlara yol açan doğal afetler ile teknolojik afetlerin ve büyük çapta gerçekleşen kitlesel kazaların bütününü,
 
-n) (Değişik:RG-24/3/2004-25412) Ekip: Hastaya veya yaralıya gerekli tıbbi müdahalede bulunmak, olay yerinde gerekli tedbirleri almak üzere görevlendirilen; acil sağlık hizmetleri konusunda eğitim almış sağlık personeli ile şoförü,
+**n) (Değişik:RG-24/3/2004-25412)** Ekip: Hastaya veya yaralıya gerekli tıbbi müdahalede bulunmak, olay yerinde gerekli tedbirleri almak üzere görevlendirilen; acil sağlık hizmetleri konusunda eğitim almış sağlık personeli ile şoförü,
 
 o) Hasta:Acil sağlık hizmetine ihtiyacı olan kişiyi,
 
-p) (Ek:RG- 24/3/2004- 25412) Bölge Merkezi: Acil sağlık hizmetlerinin ülke genelinde eşgüdüm içerisinde ve aynı standartlarda sunulması amacıyla çalışma yapmak üzere kurulan Acil Sağlık Hizmetleri Bölge Eğitim Araştırma ve Uygulama Merkezini,
+**p) (Ek:RG- 24/3/2004- 25412)** Bölge Merkezi: Acil sağlık hizmetlerinin ülke genelinde eşgüdüm içerisinde ve aynı standartlarda sunulması amacıyla çalışma yapmak üzere kurulan Acil Sağlık Hizmetleri Bölge Eğitim Araştırma ve Uygulama Merkezini,
 
-r) (Ek:RG- 24/3/2004- 25412) İl Ambulans Servisi: İldeki tüm ambulans hizmetlerini koordine eden, Bakanlık ve kendisine bağlı diğer ambulanslarla hizmeti sunan başhekimlik, merkez ve istasyonlardan oluşan kuruluşu,
+**r) (Ek:RG- 24/3/2004- 25412)** İl Ambulans Servisi: İldeki tüm ambulans hizmetlerini koordine eden, Bakanlık ve kendisine bağlı diğer ambulanslarla hizmeti sunan başhekimlik, merkez ve istasyonlardan oluşan kuruluşu,
 
-s) (Ek: RG -24/3/2004- 25412) Başhekimlik: İl ambulans servisi başhekimliğini,
+**s) (Ek: RG -24/3/2004- 25412)** Başhekimlik: İl ambulans servisi başhekimliğini,
 
-t) (Ek: RG -24/3/2004- 25412) Başhekim: İl ambulans servisi başhekimini,
+**t) (Ek: RG -24/3/2004- 25412)** Başhekim: İl ambulans servisi başhekimini,
 
-u) (Ek:RG-24/3/2004- 25412) Danışma Kurulu: Acil sağlık hizmetleri ile ilgili çalışmalarda bulunmak üzere Bakanlıkça kurulan Acil Sağlık Hizmetleri Danışma Kurulunu,
+**u) (Ek:RG-24/3/2004- 25412)** Danışma Kurulu: Acil sağlık hizmetleri ile ilgili çalışmalarda bulunmak üzere Bakanlıkça kurulan Acil Sağlık Hizmetleri Danışma Kurulunu,
 
-v) (Ek:RG-24/3/2004- 25412) ASKOM: İl genelinde acil sağlık hizmeti ile ilgili kurum ve kuruluşlar arasındaki koordinasyon ve işbirliğini sağlamak üzere kurulan İl Acil Sağlık Hizmetleri Koordinasyon Komisyonunu,
+**v) (Ek:RG-24/3/2004- 25412)** ASKOM: İl genelinde acil sağlık hizmeti ile ilgili kurum ve kuruluşlar arasındaki koordinasyon ve işbirliğini sağlamak üzere kurulan İl Acil Sağlık Hizmetleri Koordinasyon Komisyonunu,
 
-y) (Ek:RG 24/3/2004- 25412) Triaj: Çok sayıda hasta ve yaralının bulunduğu durumlarda, bunlardan öncelikli tedavi ve nakil edilmesi gerekenlerin tespiti amacıyla, olay yerinde ve bunların ulaştırıldığı her sağlık kuruluşunda yapılan hızlı seçme ve kodlama işlemini,
+**y) (Ek:RG 24/3/2004- 25412)** Triaj: Çok sayıda hasta ve yaralının bulunduğu durumlarda, bunlardan öncelikli tedavi ve nakil edilmesi gerekenlerin tespiti amacıyla, olay yerinde ve bunların ulaştırıldığı her sağlık kuruluşunda yapılan hızlı seçme ve kodlama işlemini,
 
-z) (Ek:RG-15/03/2007-26463) Ambulans ve acil bakım teknikeri (AABT): Üniversitelerin Sağlık Hizmetleri Meslek Yüksek Okulu’ndaki 2 yıllık ambulans ve acil bakım teknikerliği programlarından mezun olmuş kişileri,
+z) **(Ek:RG-15/03/2007-26463)** Ambulans ve acil bakım teknikeri (AABT): Üniversitelerin Sağlık Hizmetleri Meslek Yüksek Okulu’ndaki 2 yıllık ambulans ve acil bakım teknikerliği programlarından mezun olmuş kişileri,
 
-aa) (Ek:RG-15/03/2007-26463) Acil tıp teknisyeni (ATT): Sağlık meslek liselerinin acil tıp teknisyenliği bölümlerinden mezun olmuş kişileri,
+aa) **(Ek:RG-15/03/2007-26463)** Acil tıp teknisyeni (ATT): Sağlık meslek liselerinin acil tıp teknisyenliği bölümlerinden mezun olmuş kişileri,
 
-bb) (Ek:RG-15/03/2007-26463) Tıbbi danışman: Komuta kontrol merkezinde çalışan acil hekimliği sertifika programını tamamlamış hekim veya merkez tarafından yönlendirilen ilgili branştaki uzman hekimi,
+bb) **(Ek:RG-15/03/2007-26463)** Tıbbi danışman: Komuta kontrol merkezinde çalışan acil hekimliği sertifika programını tamamlamış hekim veya merkez tarafından yönlendirilen ilgili branştaki uzman hekimi,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Acil Sağlık Hizmetlerinin Teşkili, Sevk ve İdaresi
+**Acil Sağlık Hizmetlerinin Teşkili, Sevk ve İdaresi**
 
 #### Acil Sağlık Hizmetleri
 
 **Madde 5 –** Acil sağlık hizmetlerinin ülke genelinde sunulabilmesi için, kesintisiz olarak, bir ekip anlayışı içinde yürütülmesi ve kısa zamanda ulaşılabilir olması esastır. Acil sağlık hizmetlerinin bu esaslara göre Bakanlığın koordinasyonunda kamu veya özel bütün kurum ve kuruluşların iştiraki ile tek merkezden yönetilmesini sağlamak maksadıyla, hizmetin yürütülmesi için acil sağlık hizmetleri teşkil olunmuştur.
 
-(Ek:RG- 24/3/2004- 25412) Bu hizmetlerin yürütülmesi amacıyla Bakanlıkça aşağıda görevleri ve üyeleri belirtilen Acil Sağlık Hizmetleri Danışma Kurulu, Acil Sağlık Hizmetleri Bölge Eğitim Araştırma ve Uygulama Merkezi ve müdürlüklerce İl Acil Sağlık Hizmetleri Koordinasyon Komisyonu (ASKOM) teşkil edilir.
+**(Ek:RG- 24/3/2004- 25412)** Bu hizmetlerin yürütülmesi amacıyla Bakanlıkça aşağıda görevleri ve üyeleri belirtilen Acil Sağlık Hizmetleri Danışma Kurulu, Acil Sağlık Hizmetleri Bölge Eğitim Araştırma ve Uygulama Merkezi ve müdürlüklerce İl Acil Sağlık Hizmetleri Koordinasyon Komisyonu (ASKOM) teşkil edilir.
 
-a) (Değişik:RG-15/03/2007-26463) Acil Sağlık Hizmetleri Danışma Kurulu: Acil sağlık hizmetlerinin uygulanmasına yönelik tavsiye kararları almak, yapılacak mevzuat çalışmaları, acil sağlık hizmetleri ile ilgili sağlık kuruluşlarında çalışanların eğitim ve uygulama programlarının belirlenmesi, ilkyardım eğitimi, sertifika denkliği ile ilkyardım müfredat programı ve uygulamalarla ilgili görüşlerine başvurmak amacıyla, Genel Müdür veya görevlendireceği acil sağlık hizmetlerinden sorumlu genel müdür yardımcısının başkanlığında, konu ile ilgili sağlık yöneticileri, üniversiteler ile ilgili sivil toplum kuruluşları temsilcilerinden Bakanlıkça oluşturulur.
+a) **(Değişik:RG-15/03/2007-26463)** Acil Sağlık Hizmetleri Danışma Kurulu: Acil sağlık hizmetlerinin uygulanmasına yönelik tavsiye kararları almak, yapılacak mevzuat çalışmaları, acil sağlık hizmetleri ile ilgili sağlık kuruluşlarında çalışanların eğitim ve uygulama programlarının belirlenmesi, ilkyardım eğitimi, sertifika denkliği ile ilkyardım müfredat programı ve uygulamalarla ilgili görüşlerine başvurmak amacıyla, Genel Müdür veya görevlendireceği acil sağlık hizmetlerinden sorumlu genel müdür yardımcısının başkanlığında, konu ile ilgili sağlık yöneticileri, üniversiteler ile ilgili sivil toplum kuruluşları temsilcilerinden Bakanlıkça oluşturulur.
 
 b) Acil Sağlık Hizmetleri Bölge Eğitim Araştırma ve Uygulama Merkezi: Acil sağlık hizmetleri konusunda araştırma ve hizmete özel eğitimleri kendisine bağlı illerin desteği ile, ulusal ve uluslararası kuruluşlar ile iletişim halinde planlayan, bilimsel araştırmalar yapan, sertifikalı eğitim programları düzenleyen, eğitim materyalleri, yazılı ve görsel dokümanlar hazırlayan, afetler ve olağandışı durumlarda bağlı iller ile koordinasyonu sağlayan, planlamalar yapan, hizmete uygun bina ve arazilerde kurulmuş Bakanlığa bağlı merkezlerdir. Bu merkezler ihtiyaca göre acil sağlık hizmetleri bölge koordinasyon illerinde kurulur.
 
@@ -119,7 +119,7 @@ Olağandışı durumlarda, başlangıçta olay yeri yönetimini merkez yapar, ol
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Acil Sağlık Hizmet ve Destek Birimleri
+**Acil Sağlık Hizmet ve Destek Birimleri**
 
 #### Acil Sağlık Hizmeti Birimleri
 
@@ -137,7 +137,7 @@ a) Acil Sağlık Hizmetleri Şube Müdürlüğü: Müdürlük adına acil sağl�
 
 b) İl Ambulans Servisi Başhekimliği: Ambulans hizmetlerinin il düzeyinde organizasyonunu, yönlendirilmesini, uygulanmasını ve değerlendirilmesini, hizmete katılan kurum ve kuruluşlar arasında işbirliğini sağlayan, merkez ve istasyonlarda görev yapan personelin hizmet içi eğitimleri ile sevk ve idaresini yapan, merkez ve istasyonlarda kullanılan tüm araç ve gereçlerin temin, kayıt, bakım ve onarımlarını sağlayan, hizmetle ilgili tüm kayıt ve istatistikleri tutan, merkezin de içinde olduğu, kendisine ait binası ve personeli olan birimdir.
 
-c) (Değişik: RG-15/03/2007-26463) Hastane acil servisleri: İkinci ve üçüncü basamak resmi ve özel sağlık kurum ve kuruluşları bünyesinde acil sağlık hizmeti verilen birimlerdir. Bu servis ve birimler kendilerine doğrudan başvuran veya il ambulans servisi başhekimliğine bağlı ekipler tarafından getirilen acil hasta ve yaralılara acil tıbbi müdahale yapmak, verilen hizmet ile ilgili kayıt tutmak ve gerektiğinde doğrudan veya bağlı oldukları kurum ve kuruluşları aracılığı ile Merkeze geri bildirim yapmak zorundadır.
+c) **(Değişik: RG-15/03/2007-26463)** Hastane acil servisleri: İkinci ve üçüncü basamak resmi ve özel sağlık kurum ve kuruluşları bünyesinde acil sağlık hizmeti verilen birimlerdir. Bu servis ve birimler kendilerine doğrudan başvuran veya il ambulans servisi başhekimliğine bağlı ekipler tarafından getirilen acil hasta ve yaralılara acil tıbbi müdahale yapmak, verilen hizmet ile ilgili kayıt tutmak ve gerektiğinde doğrudan veya bağlı oldukları kurum ve kuruluşları aracılığı ile Merkeze geri bildirim yapmak zorundadır.
 
 #### Başhekimlik, Merkez ve Görevleri
 
@@ -169,13 +169,13 @@ e) Başhekimlikçe verilen diğer görevleri yapmak.
 
 İstasyonlar verdikleri hizmete göre üç tipte kurulabilir. Bunlar;
 
-a) (Değişik ikinci fıkra:RG-15/03/2007-26463) A Tipi İstasyon: 24 saat kesintisiz sadece ambulans hizmeti verilen, ihtiyaca göre birden fazla ekip ve ambulans bulundurulan, idari ve özlük hakları bakımından başhekimliğe bağlı ve kadrolu personeli olan istasyonlardır. (A) tipi istasyonların açılış ve kapanış işlemleri Bakanlığın onayı ile gerçekleştirilir. Bu istasyonlar;
+a) **(Değişik ikinci fıkra:RG-15/03/2007-26463)** A Tipi İstasyon: 24 saat kesintisiz sadece ambulans hizmeti verilen, ihtiyaca göre birden fazla ekip ve ambulans bulundurulan, idari ve özlük hakları bakımından başhekimliğe bağlı ve kadrolu personeli olan istasyonlardır. (A) tipi istasyonların açılış ve kapanış işlemleri Bakanlığın onayı ile gerçekleştirilir. Bu istasyonlar;
 
 1) Ekip içerisinde hekim bulunanlar (A1) tipi istasyon,
 
 2) Ekip içerisinde hekim bulunmayanlar ise (A2) tipi istasyon olarak adlandırılır.
 
-b) B Tipi İstasyon: Birinci, ikinci ve üçüncü basamak resmi sağlık kurum ve kuruluşları ile entegre olarak kesintisiz ambulans ve acil servis hizmeti verilen, kadrosu ve özlük hakları bakımından bünyesinde bulunduğu kuruma, ambulans hizmeti bakımından merkeze bağlı olan (Mülga ibare:RG-29/4/2014-28986) (…) istasyonlardır. Bu istasyonlar;
+b) B Tipi İstasyon: Birinci, ikinci ve üçüncü basamak resmi sağlık kurum ve kuruluşları ile entegre olarak kesintisiz ambulans ve acil servis hizmeti verilen, kadrosu ve özlük hakları bakımından bünyesinde bulunduğu kuruma, ambulans hizmeti bakımından merkeze bağlı olan **(Mülga ibare:RG-29/4/2014-28986)** (…) istasyonlardır. Bu istasyonlar;
 
 1) Hastane acil servisi ile entegre olanlar (B1) tipi istasyon,
 
@@ -187,7 +187,7 @@ c) C Tipi İstasyon: İhtiyaca göre günün belirlenen saatlerinde sadece ambul
 
 (B) tipi istasyonlarda çalışan personelin görev ve sorumlulukları ile idari hususlar Bakanlıkça çıkarılacak yönerge ile belirlenir.
 
-İstasyon yerlerinin belirlenme kriterleri:
+**İstasyon yerlerinin belirlenme kriterleri:**
 
 **Madde 11 –** (Değişik: RG 24/3/2004- 25412)
 
@@ -223,7 +223,7 @@ e) Merkezin verdiği diğer görevleri yerine getirmek.
 
 a) Birinci basamak sağlık kuruluşları,
 
-b) (Mülga: RG 24/3/2004- 25412)
+**b) (Mülga: RG 24/3/2004- 25412)**
 
 c) Yataklı tedavi kurumları,
 
@@ -257,7 +257,7 @@ b) Hizmetler; uzman tabip sorumluluğunda, acil sağlık hizmetleri konusunda e�
 
 c) Bu birimlerde görevlendirilecek personel; hizmetin hedefleri, çalışma standartları, görevleri, yetkileri ve sorumlulukları konusunda hizmet öncesi resmî bir eğitim programına alınır, hizmet sırasında sürekli izlenir ve sonuçlar periyodik olarak değerlendirilir.
 
-d) (Değişik: RG 24/3/2004- 25412) Bu birimler fiziki konum itibarıyla araç giriş ve çıkışına elverişli ayrı girişi olan, ambulans park alanı, triaj alanı, hasta yakını bekleme salonu, ayaktan tedavi, gözlem, küçük müdahale, canlandırma üniteleri ile malzeme, haberleşme, güvenlik ve personel odalarından teşkil edilir. Bu birimler zemin katta ve bağımsız görüntü vermekle birlikte hastane dahilinde bulunan tanı, tetkik ve tedavi ünitelerine kolay ulaşılabilir, yönlendirme, tanıtma ve halkla ilişkiler bakımından yeterli ve uygun fiziki nitelikleri haiz olmalıdır.
+**d) (Değişik: RG 24/3/2004- 25412)** Bu birimler fiziki konum itibarıyla araç giriş ve çıkışına elverişli ayrı girişi olan, ambulans park alanı, triaj alanı, hasta yakını bekleme salonu, ayaktan tedavi, gözlem, küçük müdahale, canlandırma üniteleri ile malzeme, haberleşme, güvenlik ve personel odalarından teşkil edilir. Bu birimler zemin katta ve bağımsız görüntü vermekle birlikte hastane dahilinde bulunan tanı, tetkik ve tedavi ünitelerine kolay ulaşılabilir, yönlendirme, tanıtma ve halkla ilişkiler bakımından yeterli ve uygun fiziki nitelikleri haiz olmalıdır.
 
 e) Acil servislerde bulunan bütün araç-gereç ve tıbbî donanım, daima kullanıma hazır halde bulundurulur.
 
@@ -275,7 +275,7 @@ Acil servislerin malzeme, personel, hizmet kıstasları, fizikî şartları ve d
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Acil Sağlık Hizmetlerinde Hizmetin Akışı
+**Acil Sağlık Hizmetlerinde Hizmetin Akışı**
 
 #### Acil sağlık yardımı çağrısı
 
@@ -293,7 +293,7 @@ Hizmete ulaşmada ilk aşama, acil sağlık yardımı gerektiren durumlarda merk
 
 Bu Yönetmelikte, acil sağlık hizmeti içinde belirtilen istasyonlar, acil servisler ve destek hizmetleri gerektiğinde, Merkez tarafından yönlendirilir. Yönlendirme, yardım talebinin ulaşmasını takiben, Merkez tarafından mevcut iletişim sistemi ile en kısa sürede, talebin mahiyetine en uygun ve/veya en yakın birim veya birimlerin görevlendirilmesi suretiyle yerine getirilir. Ayrıca Merkez, durumun niteliğine göre ihtiyaç duyduğu diğer kuruluşları da hizmetlerini yönlendirebilmeleri maksadıyla bilgilendirir.
 
-(Ek fıkra:RG-15/03/2007-26463) Merkez, ekip tarafından müdahale esnasında talep edilen tıbbi danışmanlık için 24 saat süre ile gerekli tıbbi danışman bulundurmak veya tıbbi danışmanlık yapacak Müdürlüğün teklifi Valiliğin onayı ile yetkilendirilmiş bir uzman hekime yönlendirmekle yükümlüdür. Gerektiğinde Eğitim Hastaneleri ve Üniversitelerin ilgili bölümlerindeki uzman hekimlerden de bilgi desteği alınır.
+**(Ek fıkra:RG-15/03/2007-26463)** Merkez, ekip tarafından müdahale esnasında talep edilen tıbbi danışmanlık için 24 saat süre ile gerekli tıbbi danışman bulundurmak veya tıbbi danışmanlık yapacak Müdürlüğün teklifi Valiliğin onayı ile yetkilendirilmiş bir uzman hekime yönlendirmekle yükümlüdür. Gerektiğinde Eğitim Hastaneleri ve Üniversitelerin ilgili bölümlerindeki uzman hekimlerden de bilgi desteği alınır.
 
 #### Talebin Yönlendirilen Birim Tarafından Karşılanması
 
@@ -329,7 +329,7 @@ Merkezin sevk yükümlülüğü, ilgili kuruluşların sevk imkanlarının yeter
 
 ### BEŞİNCİ BÖLÜM
 
-Personel ve Eğitim
+**Personel ve Eğitim**
 
 #### Personel İstihdam Alanları
 
@@ -413,7 +413,7 @@ Acil sağlık hizmetlerinde görev alacak personele yönelik hizmet içi eğitim
 
 ### ALTINCI BÖLÜM
 
-İletişim Sistemi
+**İletişim Sistemi**
 
 #### Telefon İletişimi
 
@@ -421,13 +421,13 @@ Acil sağlık hizmetlerinde görev alacak personele yönelik hizmet içi eğitim
 
 Acil sağlık yardımı gerektiren olayların merkeze intikal ettirilmesi, bu hizmete tahsis edilmiş olan 112 numaralı telefon aracılığı ile veya diğer iletişim araçları vasıtası ile yapılır. Bu telefon numarası, merkez dışındaki kuruluşlar tarafından kullanılamaz ve bu maksatla başkaca bir üç rakamlı telefon numarası kullanıma tahsis edilemez.
 
-Telsiz İletişimi:
+**Telsiz İletişimi:**
 
 **Madde 32 –** İl düzeyinde Merkez ile hizmet sunan acil hizmet birimleri arasındaki iletişim, kaide olarak bu maksatla kurulan telsiz sistemi ve tahsis edilmiş telsiz frekansı veya frekansları üzerinden gerçekleştirilir. İl düzeyinde acil sağlık hizmeti için tahsis edilen frekans veya frekanslar, acil sağlık hizmetlerinin maksadı dışında ve hangi maksatla olursa olsun acil sağlık hizmetine dahil olmayan birimler veya kişiler tarafından kullanılamaz.
 
 ### YEDİNCİ BÖLÜM
 
-Kayıt Bildirim ve Arşiv
+**Kayıt Bildirim ve Arşiv**
 
 #### Kayıt ve Bildirim
 
@@ -439,7 +439,7 @@ Kayıt Bildirim ve Arşiv
 
 ### SEKİZİNCİ BÖLÜM
 
-Acil Sağlık Hizmetlerinin Finansmanı
+**Acil Sağlık Hizmetlerinin Finansmanı**
 
 #### İlke
 
@@ -453,11 +453,11 @@ Acil Sağlık Hizmetlerinin Finansmanı
 
 **Madde 37 –** Yataklı tedavî kuruluşları, acil sağlık hizmetlerinin bedelini hizmet sundukları kişinin ödeme imkanları ve kuruluşlarının tahsil işlemleri ile ilgili usul ve esaslar çerçevesinde tahsil ederler.
 
-(Değişik: RG-24/03/2004-25412) Acil sağlık hizmeti kapsamında hastane öncesi ve hastaneler arası hasta nakil hizmetleri sırasında sunulan hizmetlerin bedeli, bağlı olduğu döner sermaye saymanlığı tarafından hastaların bağlı oldukları resmi veya özel sosyal güvenlik kuruluşlarına tahakkuk ettirilir ve tahsil edilir. Sosyal güvencesi olmayıp ödeme gücü olmayanlardan ücret talep edilmez.
+**(Değişik: RG-24/03/2004-25412)** Acil sağlık hizmeti kapsamında hastane öncesi ve hastaneler arası hasta nakil hizmetleri sırasında sunulan hizmetlerin bedeli, bağlı olduğu döner sermaye saymanlığı tarafından hastaların bağlı oldukları resmi veya özel sosyal güvenlik kuruluşlarına tahakkuk ettirilir ve tahsil edilir. Sosyal güvencesi olmayıp ödeme gücü olmayanlardan ücret talep edilmez.
 
 ### DOKUZUNCU BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Denetim
 
@@ -471,7 +471,7 @@ Acil sağlık hizmeti sunan bütün kamu kurum ve kuruluşları ile özel hukuk 
 
 ### ONUNCU BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Yönergeler
 

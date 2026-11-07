@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Sağlık Bakanlığından:
 
-Beşeri Tıbbi Ürünlerin Fiyatları Hakkında Tebliğ’in Bazı Maddelerinde
+**Beşeri Tıbbi Ürünlerin Fiyatları Hakkında Tebliğ’in Bazı Maddelerinde**
 
 #### Değişiklik Yapılmasına Dair Tebliğ
 
@@ -72,13 +72,13 @@ g) Yurtiçinde üretilmiş hammadde kullanılarak üretilen jenerik ürünler i�
 
 **MADDE 8 –** Tebliğ’in 6 ncı maddesi aşağıdaki şekilde değiştirilmiştir:
 
-"MADDE 6 — Hastane ambalajlı ürünler için, 3 ve 4 üncü maddelerdeki esaslar ve ambalaj maliyetindeki unsurlar dikkate alınmak suretiyle ve birim fiyatı en yakın farmasötik şeklinin birim fiyatının en az %10 altında kalacak şekilde oranlanarak depocuya satış fiyatı ve KDV dahil depocu satış fiyatı belirlenir.”
+"**MADDE 6 —** Hastane ambalajlı ürünler için, 3 ve 4 üncü maddelerdeki esaslar ve ambalaj maliyetindeki unsurlar dikkate alınmak suretiyle ve birim fiyatı en yakın farmasötik şeklinin birim fiyatının en az %10 altında kalacak şekilde oranlanarak depocuya satış fiyatı ve KDV dahil depocu satış fiyatı belirlenir.”
 
 **MADDE 9 –** Tebliğ’in "OTC ürünlerin fiyatlandırılması başlıklı" 7 nci maddesinin başlığı (Referans ülkelerde OTC olarak adlandırılan ürünlerin fiyatlandırılması) şekilde değiştirilmiştir.
 
 **MADDE 10 –** - Tebliğ’in 8 inci maddesi aşağıdaki şekilde değiştirilmiştir:
 
-"MADDE 8 — Ürün imalatçı ve ithalatçıları fiyat alma, artırma veya eksiltme talepleri ile birlikte Bakanlığa başvururlar. Yapılan başvurular, anılan Bakanlar Kurulu Kararının 8 inci maddesinde belirtilen 10 işgünü içinde Bakanlıkça neticelendirilir ve başvuru sahibine bilgi verilir. Firmanın fiyat talebinin İlaç ve Eczacılık Genel Müdürlüğü evrakına giriş tarihi, 10 işgününün başlangıcıdır.
+"**MADDE 8 —** Ürün imalatçı ve ithalatçıları fiyat alma, artırma veya eksiltme talepleri ile birlikte Bakanlığa başvururlar. Yapılan başvurular, anılan Bakanlar Kurulu Kararının 8 inci maddesinde belirtilen 10 işgünü içinde Bakanlıkça neticelendirilir ve başvuru sahibine bilgi verilir. Firmanın fiyat talebinin İlaç ve Eczacılık Genel Müdürlüğü evrakına giriş tarihi, 10 işgününün başlangıcıdır.
 
 Fiyatı uygun görülmeyen ürünler için, uygun görülmeme kararı gerekçesi ile birlikte Bakanlıkça ilgili firmaya bildirilir. Tespit edilen eksiklikler ilgili firma tarafından tamamlanır ve bu yeni başvuru da Bakanlıkça 10 işgünü içinde neticelendirilir ve ilgili firmaya bildirilir.
 
@@ -86,7 +86,7 @@ Fiyatı uygun görülmeyen ürünler için, uygun görülmeme kararı gerekçesi
 
 **MADDE 11 –** Tebliğ’in "Geçici 1 inci maddesinin uygulanması" başlıklı 13 üncü maddesi aşağıdaki şekilde değiştirilmiştir:
 
-"MADDE 13 — Geçici 1 inci madde gereğince halen piyasada mevcut ruhsatlı/izinli ürünlerin fiyatlarının yeniden belirlenmesi şu şekilde uygulanır:
+"**MADDE 13 —** Geçici 1 inci madde gereğince halen piyasada mevcut ruhsatlı/izinli ürünlerin fiyatlarının yeniden belirlenmesi şu şekilde uygulanır:
 
 a) Orijinal ürünler için, firma ve ürün bilgileri , referans ülkeler (referans ülkelerde bulunmuyorsa en ucuz olduğu diğer AB ülkesi) ve referans ülkeler dışındaki bir ülkeden ithal edilmiş ise ithal edildiği ülke dahil olmak üzere, o ülkelerdeki fabrika satış fiyatları, fiyatı farklı döviz cinsleri ile o lan veya birebir eşdeğeri olmayan ürünler için oranlanmış fabrika fiyatları, 02.04.2004 tarihli ve 2004/7124 sayılı Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına Dair Kararın Bazı Maddelerinde Değişiklik Yapılması Hakkında Bakanlar Kurulu Kararın yayımlandığı tarihteki Türkiye Cumhuriyet Merkez Bankası döviz satış kuruna göre hesaplanarak talep edilen fabrika satış fiyatının bulunduğu Beşeri Tıbbi Ürün Beyan Formu doldurularak Kararın yayımlandığı tarihten itibaren 10 gün içinde Bakanlığa verilir.
 
@@ -108,7 +108,7 @@ Jenerik ürün ruhsat aldıktan sonra en az 1 yıl süreyle hiç piyasaya verilm
 
 c) Orijinali bulunamayan jenerik ürünler için bu Tebliğin 4 üncü maddesindeki kriterler uygulanır.
 
-d) Orijinal ve jenerik tüm ürünler için belirlenen fiyatlar 1 Ma rt 2004 tarihi itibariyle geçerli olan perakende satış fiyatlarından daha fazla olamaz. Yeni fiyatlar jenerik ürünler için belirlenen süreden itibaren 10 gün içinde Sağlık Bakanlığının web sitesinde (www.saglik.gov.tr) ilan edilir. Ayrıca Türk Eczacıları B irliği ve sektör sivil toplum örgütleri aracılığı ile ilgililere duyurulur. Bu fiyatlar ilan tarihinden 30 gün sonra geçerli olur. Ancak ilk defa fiyat alacak ürünler için bu süre beklenmez, ilan edildiği andan itibaren fiyatı geçerli olur.”
+d) Orijinal ve jenerik tüm ürünler için belirlenen fiyatlar 1 Ma rt 2004 tarihi itibariyle geçerli olan perakende satış fiyatlarından daha fazla olamaz. Yeni fiyatlar jenerik ürünler için belirlenen süreden itibaren 10 gün içinde Sağlık Bakanlığının web sitesinde (www.**saglik.gov.tr**) ilan edilir. Ayrıca Türk Eczacıları B irliği ve sektör sivil toplum örgütleri aracılığı ile ilgililere duyurulur. Bu fiyatlar ilan tarihinden 30 gün sonra geçerli olur. Ancak ilk defa fiyat alacak ürünler için bu süre beklenmez, ilan edildiği andan itibaren fiyatı geçerli olur.”
 
 **MADDE 12 –** 3 Mart 2001 tarihli 24335 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Sürşarj Tebliği’nin 6 ncı maddesi aşağıdaki şekilde değiştirilmiştir:
 

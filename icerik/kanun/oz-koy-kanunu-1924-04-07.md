@@ -14,13 +14,13 @@ durum: "yürürlükte"
 
 ### KÖY KANUNU[1]
 
-Kanun Numarası : 442
+**Kanun Numarası : 442**
 
-Kabul Tarihi : 18/3/1924
+**Kabul Tarihi : 18/3/1924**
 
-Yayımlandığı Resmî Gazete : Tarih: 7/4/1924 Sayı: 68
+**Yayımlandığı Resmî Gazete : Tarih: 7/4/1924 Sayı: 68**
 
-Yayımlandığı Düstur : Tertip: 3 Cilt: 5 Sayfa: 336
+**Yayımlandığı Düstur : Tertip: 3 Cilt: 5 Sayfa: 336**
 
 ### BİRİNCİ FASIL
 
@@ -138,7 +138,7 @@ Köylü mecburi olan işleri görmezse ceza görür. İsteğine bağlı olan iş
 
 28 - Birdenbire yıkılarak altında adam ve hayvanat kalacak derecede çürümüş veya eğilmiş duvar veya damları bir sakatlık çıkarmaması için yıktırmak veya tamir ettirmek;
 
-29 - (Değişik: 2/12/1925 - 684/1. md.) (Köy içinde bila zaruretin hayvan koşturmamak).
+29 - **(Değişik: 2/12/1925 - 684/1. md.)** (Köy içinde bila zaruretin hayvan koşturmamak).
 
 30 - Muhafazasına mecbur oldukları yırtıcı ve azgın hayvanları başı boş salıvermemek;
 
@@ -424,7 +424,7 @@ b) Köy tüzel kişiliği ile davacı ve davalı olan muhtar ve ihtiyar meclisi 
 
 1 - İhtiyar meclisi köylüye ait işleri konuşur ve hangi işleri köylü tarafından kendileri çalışarak doğrudan doğruya ve hangi işlerin para ile veya ırgat ile görülebileceğine karar verir. "Köy işlerinden köy ahalisinin imece ile çalışarak yapacakları işi, köylünün çift ve çubuğu ile uğraşmadıkları boş zamanlara bırakır."
 
-2 - (Değişik: 12/2/1954 - 6250/2 md.) İhtiyar Meclisi bu Kanunun 13 ve 14 üncü maddelerinde yazılı mecburi ve ihtiyari işleri yapmak için lüzumu halinde köy sınırı içindeki gayrimenkulleri değer pahasiyle satın alır. Mal sahibi razı olmazsa köyün bağlı bulunduğu kaza veya vilayet idare heyeti işi gözden geçirir. İdare heyetinin kararına söz yoktur.
+2 - **(Değişik: 12/2/1954 - 6250/2 md.)** İhtiyar Meclisi bu Kanunun 13 ve 14 üncü maddelerinde yazılı mecburi ve ihtiyari işleri yapmak için lüzumu halinde köy sınırı içindeki gayrimenkulleri değer pahasiyle satın alır. Mal sahibi razı olmazsa köyün bağlı bulunduğu kaza veya vilayet idare heyeti işi gözden geçirir. İdare heyetinin kararına söz yoktur.
 
 3 - Tarlası olmıyan veya yetişmiyen köylüye köyün sınırı içinden boz haliden bir parça ayırıp vermek ve tasarrufu malsandığına veya sair dairelere geçmiş olan araziyi köy namına satın alıp arazisi olmıyanlara vermek ve bedelini taksitle köy sandığına ödetmek mecburidir.
 
@@ -496,27 +496,27 @@ Korucuların 22 yaşından küçük ve altmış yaşından büyük olmaması ve 
 
 **Madde 73 –** Korucular silahlıdırlar. Kendilerine karşı gelenler jandarmaya karşı gelmiş gibi ceza görürler.
 
-Madde 74 [5] – Köy muhtarı ve ihtiyar meclisi mahsul zamanlarında çapulcular ve eşkiya türemiş ise yağmadan köy halkını korumak için köylünün eli silah tutanlarından lüzumu kadarını gönüllü güvenlik korucusu ayırarak bunların isimlerini bir kağıda yazıp kaymakama götürür. Kaymakamın müsaadesi olursa bu gönüllü güvenlik korucuları asıl korucularla beraber yağmacılara ve eşkiyaya karşı köy ve köylüyü korurlar.
+**Madde 74** [5] – Köy muhtarı ve ihtiyar meclisi mahsul zamanlarında çapulcular ve eşkiya türemiş ise yağmadan köy halkını korumak için köylünün eli silah tutanlarından lüzumu kadarını gönüllü güvenlik korucusu ayırarak bunların isimlerini bir kağıda yazıp kaymakama götürür. Kaymakamın müsaadesi olursa bu gönüllü güvenlik korucuları asıl korucularla beraber yağmacılara ve eşkiyaya karşı köy ve köylüyü korurlar.
 
-(Ek:26/3/1985 - 3175/1 md.; Değişik: 27/5/2007 - 5673/1 md.) Cumhurbaşkanınca tespit edilecek illerde; olağanüstü hal ilanını gerektiren sebeplere ve şiddet hareketlerine ait ciddi belirtilerin köyde veya çevrede ortaya çıkması veya her ne sebeple olursa olsun köylünün canına ve malına tecavüz hareketlerinin artması hallerinde, valinin teklifi ve İçişleri Bakanının onayı ile yeteri kadar güvenlik korucusu görevlendirilmesi kararlaştırılabilir. Bu şekilde görevlendirilecek güvenlik korucusu sayısı 40.000 kişiyi geçemez. Cumhurbaşkanı bu sayıyı yüzde elliye kadar artırmaya yetkilidir. Görevlendirmeyi gerektiren hallerin ortadan kalkması durumunda veya idarî zaruret hallerinde görevlendirmeye ilişkin aynı usûl uygulanmak suretiyle güvenlik korucusu olarak yapılan görevlendirmelere son verilebilir. (Ek cümle: 17/4/2017-KHK-690/27 md.; Aynen kabul: 1/2/2018-7077/23 md.) Güvenlik korucularından 55 yaşını dolduranların görevleriyle ilişikleri kesilir.[6]
+**(Ek:26/3/1985 - 3175/1 md.; Değişik: 27/5/2007 - 5673/1 md.)** Cumhurbaşkanınca tespit edilecek illerde; olağanüstü hal ilanını gerektiren sebeplere ve şiddet hareketlerine ait ciddi belirtilerin köyde veya çevrede ortaya çıkması veya her ne sebeple olursa olsun köylünün canına ve malına tecavüz hareketlerinin artması hallerinde, valinin teklifi ve İçişleri Bakanının onayı ile yeteri kadar güvenlik korucusu görevlendirilmesi kararlaştırılabilir. Bu şekilde görevlendirilecek güvenlik korucusu sayısı 40.000 kişiyi geçemez. Cumhurbaşkanı bu sayıyı yüzde elliye kadar artırmaya yetkilidir. Görevlendirmeyi gerektiren hallerin ortadan kalkması durumunda veya idarî zaruret hallerinde görevlendirmeye ilişkin aynı usûl uygulanmak suretiyle güvenlik korucusu olarak yapılan görevlendirmelere son verilebilir. **(Ek cümle: 17/4/2017-KHK-690/27 md.; Aynen kabul: 1/2/2018-7077/23 md.)** Güvenlik korucularından 55 yaşını dolduranların görevleriyle ilişikleri kesilir.[6]
 
-(Ek fıkra: 15/8/2016-KHK-674/21 md.; Aynen kabul: 10/11/2016-6758/21 md.) Güvenlik korucularının görev alanı, görevli oldukları köyün hudutları içinde kalan alandır. Gerektiğinde vali veya kaymakam onayı ile güvenlik korucularının görev alanları, geçici ve süresi belirli olarak köy hudutları dışına genişletilebilir ve görev yerleri değiştirilebilir. Güvenlik korucuları diğer bir ilin valisinin talebi üzerine, istihdam edildikleri ilin valisinin onayı ile geçici ve süresi belirli olarak iller arasında görevlendirilebilir. Bu durumda, güvenlik korucusunun harcırahı görevlendirildiği valilik tarafından ödenir.
+**(Ek fıkra: 15/8/2016-KHK-674/21 md.; Aynen kabul: 10/11/2016-6758/21 md.)** Güvenlik korucularının görev alanı, görevli oldukları köyün hudutları içinde kalan alandır. Gerektiğinde vali veya kaymakam onayı ile güvenlik korucularının görev alanları, geçici ve süresi belirli olarak köy hudutları dışına genişletilebilir ve görev yerleri değiştirilebilir. Güvenlik korucuları diğer bir ilin valisinin talebi üzerine, istihdam edildikleri ilin valisinin onayı ile geçici ve süresi belirli olarak iller arasında görevlendirilebilir. Bu durumda, güvenlik korucusunun harcırahı görevlendirildiği valilik tarafından ödenir.
 
-(Ek : 26/3/1985 - 3175/1 md.) Köy Korucuları ve Güvenlik Korucularının görevde bulundukları süre içinde yaralanmaları, engelli hâle gelmeleri veya ölümleri halinde "2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun" hükümleri uygulanır.[7]
+**(Ek : 26/3/1985 - 3175/1 md.)** Köy Korucuları ve Güvenlik Korucularının görevde bulundukları süre içinde yaralanmaları, engelli hâle gelmeleri veya ölümleri halinde "2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun" hükümleri uygulanır.[7]
 
-(Ek fıkra: 28/12/2005 - 5443/1 md.; Mülga fıkra: 17/4/2017-KHK-690/27 md.; Aynen kabul: 1/2/2018-7077/23 md.)
+**(Ek fıkra: 28/12/2005 - 5443/1 md.; Mülga fıkra: 17/4/2017-KHK-690/27 md.; Aynen kabul: 1/2/2018-7077/23 md.)**
 
-(Ek fıkra: 27/5/2007-5673/1 md.) Güvenlik korucularına hizmetin devamı süresince her ay 11.500 gösterge rakamının memur aylıklarına uygulanan aylık katsayısı ile çarpımı sonucunda bulunacak miktarda ücret ödenir. Bu ücret, herhangi bir vergi ve kesintiye tâbi tutulmaksızın ve peşin olarak ödenir. (Ek cümle:18/7/2021-7333/1 md.) Bu ücret ile 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesinin (B) fıkrası kapsamında ödenen ek tazminat toplamının, içinde bulunulan yılın Ocak ayına ilişkin net asgari ücret tutarının (sadece kendisi için asgari geçim indirimi uygulanan) altında kalması halinde aradaki fark, ücret için öngörülen usul ve esaslar çerçevesinde tazminat olarak ayrıca ödenir. Güvenlik korucuları arasından, toplam güvenlik korucusu sayısının yüzde onunu geçmeyecek şekilde tefrik edilen korucu başlarına güvenlik korucularına ödenen ücretin yüzde onu kadar ilave ücret ödenir. Ay sonundan önce kendi isteğiyle görevden ayrılanlar ile disiplin hükümlerinin uygulanması sonucu görevlerine son verilenler hariç olmak kaydıyla, görevlerine son verilen veya ölen güvenlik korucuları için önceden peşin ödenmiş olan ücretin kalan günlere isabet eden tutarı geri alınmaz.
+**(Ek fıkra: 27/5/2007-5673/1 md.)** Güvenlik korucularına hizmetin devamı süresince her ay 11.500 gösterge rakamının memur aylıklarına uygulanan aylık katsayısı ile çarpımı sonucunda bulunacak miktarda ücret ödenir. Bu ücret, herhangi bir vergi ve kesintiye tâbi tutulmaksızın ve peşin olarak ödenir. **(Ek cümle:18/7/2021-7333/1 md.)** Bu ücret ile 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesinin (B) fıkrası kapsamında ödenen ek tazminat toplamının, içinde bulunulan yılın Ocak ayına ilişkin net asgari ücret tutarının (sadece kendisi için asgari geçim indirimi uygulanan) altında kalması halinde aradaki fark, ücret için öngörülen usul ve esaslar çerçevesinde tazminat olarak ayrıca ödenir. Güvenlik korucuları arasından, toplam güvenlik korucusu sayısının yüzde onunu geçmeyecek şekilde tefrik edilen korucu başlarına güvenlik korucularına ödenen ücretin yüzde onu kadar ilave ücret ödenir. Ay sonundan önce kendi isteğiyle görevden ayrılanlar ile disiplin hükümlerinin uygulanması sonucu görevlerine son verilenler hariç olmak kaydıyla, görevlerine son verilen veya ölen güvenlik korucuları için önceden peşin ödenmiş olan ücretin kalan günlere isabet eden tutarı geri alınmaz.
 
-(Ek fıkra: 27/5/2007-5673/1 md.) Güvenlik korucularından güvenlik güçleriyle birlikte operasyonlara katılanların iaşeleri, birlikte operasyona katıldıkları güvenlik güçlerinin bağlı olduğu birimlerce ve bu birimlerin bütçesinden karşılanmak üzere sağlanır. Bu Kanunda belirtilen görevler ile tabii afetlerde ve diğer olağanüstü hal ve durumlarda emsallerine göre başarılı görev yaptıkları görülen veya büyük yararlılık gösteren güvenlik korucularına, valinin teklifi ve İçişleri Bakanının onayı ile yılda bir defa aylık ücretlerinin iki katına kadar ödül verilebilir. Bir malî yılda bu şekilde ödül verilecek güvenlik korucusu sayısı, o ilde görevli güvenlik korucusu sayısının yüzde birini geçemez. (Değişik son cümle: 15/8/2016-KHK-674/21 md.: Aynen kabul: 10/11/2016-6758/21 md.) Güvenlik güçleriyle birlikte operasyonlara katılan güvenlik korucularına herhangi bir vergi ve kesintiye tâbi tutulmaksızın her ay 225 gösterge rakamının memur aylık katsayısı ve operasyona çıktıkları gün sayısı ile çarpımı sonucu bulunacak tutarda ek tazminat ayrıca ödenir.
+**(Ek fıkra: 27/5/2007-5673/1 md.)** Güvenlik korucularından güvenlik güçleriyle birlikte operasyonlara katılanların iaşeleri, birlikte operasyona katıldıkları güvenlik güçlerinin bağlı olduğu birimlerce ve bu birimlerin bütçesinden karşılanmak üzere sağlanır. Bu Kanunda belirtilen görevler ile tabii afetlerde ve diğer olağanüstü hal ve durumlarda emsallerine göre başarılı görev yaptıkları görülen veya büyük yararlılık gösteren güvenlik korucularına, valinin teklifi ve İçişleri Bakanının onayı ile yılda bir defa aylık ücretlerinin iki katına kadar ödül verilebilir. Bir malî yılda bu şekilde ödül verilecek güvenlik korucusu sayısı, o ilde görevli güvenlik korucusu sayısının yüzde birini geçemez. **(Değişik son cümle: 15/8/2016-KHK-674/21 md.: Aynen kabul: 10/11/2016-6758/21 md.)** Güvenlik güçleriyle birlikte operasyonlara katılan güvenlik korucularına herhangi bir vergi ve kesintiye tâbi tutulmaksızın her ay 225 gösterge rakamının memur aylık katsayısı ve operasyona çıktıkları gün sayısı ile çarpımı sonucu bulunacak tutarda ek tazminat ayrıca ödenir.
 
-(Ek fıkra: 27/5/2007-5673/1 md.; Değişik sekizinci fıkra: 17/4/2017-KHK-690/27 md.; Aynen kabul: 1/2/2018-7077/23 md.) Güvenlik korucusu olarak görevlendirilenler hakkında 22/5/2003 tarihli ve 4857 sayılı İş Kanunu ile 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanunu hükümleri uygulanmaz.
+**(Ek fıkra: 27/5/2007-5673/1 md.; Değişik sekizinci fıkra: 17/4/2017-KHK-690/27 md.; Aynen kabul: 1/2/2018-7077/23 md.)** Güvenlik korucusu olarak görevlendirilenler hakkında 22/5/2003 tarihli ve 4857 sayılı İş Kanunu ile 25/8/1999 tarihli ve 4447 sayılı İşsizlik Sigortası Kanunu hükümleri uygulanmaz.
 
-(Ek fıkra: 27/5/2007-5673/1 md.) Bu maddeye göre güvenlik korucularına yapılacak harcamalar, İçişleri Bakanlığı bütçesine konulacak ödenekten bu Bakanlıkça karşılanır ve ödemeler il valilikleri tarafından yapılır.
+**(Ek fıkra: 27/5/2007-5673/1 md.)** Bu maddeye göre güvenlik korucularına yapılacak harcamalar, İçişleri Bakanlığı bütçesine konulacak ödenekten bu Bakanlıkça karşılanır ve ödemeler il valilikleri tarafından yapılır.
 
-(Ek fıkra: 2/1/2017-KHK-680/22 md.; Değiştirilerek kabul: 1/2/2018-7072/21 md.) Valinin teklifi ve İçişleri Bakanının uygun görmesi halinde, bu Kanunun mülga ek 16 ncı ve mülga ek 17 nci maddeleri ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun ek 15 inci maddesi çerçevesinde görevden ilişiği kesilmiş güvenlik korucuları operasyonel faaliyetler maksadıyla tekrar göreve çağrılabilirler. Ayrıca, gönüllü güvenlik korucuları da aynı usulle operasyonel faaliyetlerde görevlendirilebilirler. Bu şekilde görevlendirilenler, bu maddenin üçüncü fıkrasında belirtilen harcırahtan ve yedinci fıkrasında belirtilen ek tazminattan yararlandırılırlar. Bu ödemeler dolayısıyla her ne ad altında olursa olsun kamudan aldıkları ödemelerden kesinti yapılamaz.
+**(Ek fıkra: 2/1/2017-KHK-680/22 md.; Değiştirilerek kabul: 1/2/2018-7072/21 md.)** Valinin teklifi ve İçişleri Bakanının uygun görmesi halinde, bu Kanunun mülga ek 16 ncı ve mülga ek 17 nci maddeleri ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun ek 15 inci maddesi çerçevesinde görevden ilişiği kesilmiş güvenlik korucuları operasyonel faaliyetler maksadıyla tekrar göreve çağrılabilirler. Ayrıca, gönüllü güvenlik korucuları da aynı usulle operasyonel faaliyetlerde görevlendirilebilirler. Bu şekilde görevlendirilenler, bu maddenin üçüncü fıkrasında belirtilen harcırahtan ve yedinci fıkrasında belirtilen ek tazminattan yararlandırılırlar. Bu ödemeler dolayısıyla her ne ad altında olursa olsun kamudan aldıkları ödemelerden kesinti yapılamaz.
 
-(Ek fıkra: 15/8/2017-KHK-694/1 md.; Aynen kabul: 1/2/2018-7078/1 md.) Teröristle mücadelede görev alan güvenlik korucuları ile gönüllü güvenlik korucularının, bu görevlerin ifasından doğduğu iddia edilen suçlardan dolayı yapılan soruşturma ve kovuşturmalarda müdafi olarak belirlediği en fazla üç avukatın ücreti İçişleri Bakanlığı bütçesine konulacak ödenekten valilikler tarafından karşılanır. Güvenlik korucuları ile gönüllü güvenlik korucularının avukatlık ücretinin ödeme usul ve esasları yönetmelikle düzenlenir.
+**(Ek fıkra: 15/8/2017-KHK-694/1 md.; Aynen kabul: 1/2/2018-7078/1 md.)** Teröristle mücadelede görev alan güvenlik korucuları ile gönüllü güvenlik korucularının, bu görevlerin ifasından doğduğu iddia edilen suçlardan dolayı yapılan soruşturma ve kovuşturmalarda müdafi olarak belirlediği en fazla üç avukatın ücreti İçişleri Bakanlığı bütçesine konulacak ödenekten valilikler tarafından karşılanır. Güvenlik korucuları ile gönüllü güvenlik korucularının avukatlık ücretinin ödeme usul ve esasları yönetmelikle düzenlenir.
 
 #### Güvenlik korucularına verilecek disiplin cezalarının çeşitleri ile ceza uygulanacak fiil ve haller
 
@@ -588,7 +588,7 @@ c) Ücretten Kesme: Güvenlik korucusunun aylık ücretinden 1/30-1/8 arasında 
 
 8) Amirlerine veya beraber görev yaptığı diğer personele karşı fiilî taarruz teşebbüsünde bulunmak, tehdit etmek,
 
-9) (İptal bent:Anayasa Mahkemesinin 23/7/2024 tarihli ve E.: 2023/25; K.: 2024/139 sayılı Kararı ile)
+9) **(İptal bent:Anayasa Mahkemesinin 23/7/2024 tarihli ve E.: 2023/25; K.: 2024/139 sayılı Kararı ile)**
 
 10) Hizmet içinde güvenlik güçlerinin itibar ve güven duygusunu sarsacak nitelikte davranışlarda bulunmak,
 
@@ -706,7 +706,7 @@ Yukarda sayılan ahvalden maada korucu silahını kullandığından dolayı ceza
 
 **Madde 78 –** (Değişik: 22/9/1941 - 4114/1 md.)
 
-1 - (Değişik: 4/7/1988 - KHK - 336/1 md.; Aynen Kabul: 7/2/1990-3612/3 md.) Korucuların kıyafetleri ve silahlarının şekli İçişleri Bakanlığınca tayin olunur.
+1 - **(Değişik: 4/7/1988 - KHK - 336/1 md.; Aynen Kabul: 7/2/1990-3612/3 md.)** Korucuların kıyafetleri ve silahlarının şekli İçişleri Bakanlığınca tayin olunur.
 
 2 - Korucu elbiselerinin parası köy gelirinden senede bir defa verilir. İki senede bir de gocuk veya kepenek verilir.
 
@@ -780,7 +780,7 @@ Köyün aylıklı adamlarının ücretleriyle mecburi işlerden başka hiç bir 
 
 Köy İhtiyar meclisi salınacak salmanın nisbet, cins ve mikdarını İkincikanun ayı içinde tayin ve tevzi cetvellerini tanzim ederek on beş gün müddetle umumun görebileceği yerlere asmak suretiyle ilan ve hariçte bulunanlara tebliğ eder. Salınan salmalarda kanun hükümlerine uygunsuzluk veya nisbetsizlik olduğunu iddia edenler ilan veya tebliğ müddetinin hitamından itibaren on gün içinde itirazlarını köy muhtarına söylerler veya yazı ile bildirirler ve müracaatlarını tutulacak deftere yazdırarak bir ilmühaber alırlar.
 
-Köy ihtiyar meclisi bir hafta içinde itirazlara bakarak kararını vermeğe ve itiraz edenlere bildirmeğe mecburdur. Bu kararlar aleyhine tebliğ tarihinden itibaren on beş gün içinde merkez kazasında valiye, diğer kazalarda kaymakamlara müracaat edilebilir. (İptal son cümle: Anayasa Mahkemesi’nin 4/2/2010 tarihli ve E.: 2008/112, K.: 2010/31 sayılı Kararı ile.)
+Köy ihtiyar meclisi bir hafta içinde itirazlara bakarak kararını vermeğe ve itiraz edenlere bildirmeğe mecburdur. Bu kararlar aleyhine tebliğ tarihinden itibaren on beş gün içinde merkez kazasında valiye, diğer kazalarda kaymakamlara müracaat edilebilir. **(İptal son cümle: Anayasa Mahkemesi’nin 4/2/2010 tarihli ve E.: 2008/112, K.: 2010/31 sayılı Kararı ile.)**
 
 **Ek Madde 4 –** (5/7/1939 tarih ve 3664 sayılı Kanunun 5 inci maddesi hükmü olup, ek maddeye çevrilerek numarası teselsül ettirilmiştir.)
 
@@ -904,7 +904,7 @@ Birinci fıkranın (b) bendine göre ilişiği kesilen güvenlik korucularına, 
 
 Bu maddenin yürürlüğe girdiği tarihten önce güvenlik koruculuğu görevi sona ermiş olanlardan mülga ek 16 ncı veya mülga ek 17 nci madde hükümleri kapsamında aylık bağlanmasına, tazminat veya ölüm yardımı ödenmesine hak kazananlar hakkında anılan mülga madde hükümlerinin uygulanmasına devam olunur. Ayrıca, mülga ek 16 ncı madde kapsamında aylık bağlanmasına hak kazanan güvenlik korucularının vefatı halinde, 5510 sayılı Kanun hükümlerine göre hak sahiplerine, müracaat tarihini takip eden aybaşından itibaren aylık bağlanır ve geçmişe dönük herhangi bir ödeme yapılmaz.
 
-(Ek fıkra:30/3/2023-7447/15 md.) Birinci fıkra uyarınca bu Kanunun mülga ek 16 ncı madde hükümlerine göre bağlanarak ödenen aylıklar dosya bazında, 8/2/2006 tarihli ve 5454 sayılı Kanunun 1 inci maddesi uyarınca yapılacak ek ödeme dâhil 5510 sayılı Kanunun ek 19 uncu maddesi ile belirlenmiş olan tutardan az olamaz. Vefat halinde ise bu tutarın hak sahiplerinin hisseleri oranı esas alınarak tespit olunacak tutarından az olamaz.
+**(Ek fıkra:30/3/2023-7447/15 md.)** Birinci fıkra uyarınca bu Kanunun mülga ek 16 ncı madde hükümlerine göre bağlanarak ödenen aylıklar dosya bazında, 8/2/2006 tarihli ve 5454 sayılı Kanunun 1 inci maddesi uyarınca yapılacak ek ödeme dâhil 5510 sayılı Kanunun ek 19 uncu maddesi ile belirlenmiş olan tutardan az olamaz. Vefat halinde ise bu tutarın hak sahiplerinin hisseleri oranı esas alınarak tespit olunacak tutarından az olamaz.
 
 **Geçici Madde 5 –** (Ek: 28/11/2017-7061/4 md.)
 
@@ -914,9 +914,9 @@ Bu Kanunun ek 13 üncü maddesine göre satışı yapılan taşınmazlara ilişk
 
 **Madde 97 –** İşbu kanunun hükümlerini yaptırmağa Dahiliye ve Adliye Vekilleri memurdur.
 
-18/3/1924 Tarihli Ve 442 Sayılı Ana Kanuna İşlenemeyen Hükümler:
+**18/3/1924 Tarihli Ve 442 Sayılı Ana Kanuna İşlenemeyen Hükümler:**
 
-1- 27/5/2007 tarihli ve 5673 sayılı Kanunun Geçici Maddesi:
+**1- 27/5/2007 tarihli ve 5673 sayılı Kanunun Geçici Maddesi:**
 
 **GEÇİCİ MADDE 1 –** Bu Kanunun yürürlüğe girdiği tarihte;
 
@@ -1000,22 +1000,22 @@ Yukarıda belirtilen hükümlerin uygulanması, 442 sayılı Köy Kanununun bu K
 
 <small>[4] 29/8/1977 tarih ve 2108 sayılı Kanunun 1 inci maddesine bakınız.</small>
 
-<small>[5] 3/10/2016 tarihli ve 676 sayılı KHK’nin 8 inci maddesiyle, bu maddede yer alan “geçici köy” ibareleri “güvenlik”, “Geçici Köy” ibaresi “Güvenlik” şeklinde, aynı maddenin birinci fıkrasında yer alan “gönüllü korucu” ibaresi “gönüllü güvenlik korucusu” şeklinde ve aynı fıkrada yer alan “gönüllü korucular” ibaresi “gönüllü güvenlik korucuları” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun 8 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</small>
+<small>[5] <i>3/10/2016 tarihli ve 676 sayılı KHK’nin 8 inci maddesiyle, bu maddede yer alan “geçici köy” ibareleri “güvenlik”, “Geçici Köy” ibaresi “Güvenlik” şeklinde, aynı maddenin birinci fıkrasında yer alan “gönüllü korucu” ibaresi “gönüllü güvenlik korucusu” şeklinde ve aynı fıkrada yer alan “gönüllü korucular” ibaresi “gönüllü güvenlik korucuları” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun 8 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</i></small>
 
-<small>[6] 2/7/2018 tarihli ve 700 sayılı KHK’nin 1 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 1 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlanmaları” ibaresi “engelli hâle gelmeleri” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlanmaları” ibaresi “engelli hâle gelmeleri” şeklinde değiştirilmiştir.</i></small>
 
-<small>[8] Anayasa Mahkemesinin 23/7/2024 tarihli ve E.: 2023/25; K.: 2024/139 sayılı Kararı ile bu bentte yer alan “…üyeliği, mensubiyeti,…” ibaresi iptal edilmiştir.</small>
+<small>[8] <i>Anayasa Mahkemesinin 23/7/2024 tarihli ve E.: 2023/25; K.: 2024/139 sayılı Kararı ile bu bentte yer alan “…üyeliği, mensubiyeti,…” ibaresi iptal edilmiştir.</i></small>
 
-<small>[9] 3/10/2016 tarihli ve 676 sayılı KHK’nin 8 inci maddesiyle, bu madde yer alan “Geçici Köy” ibaresi “Güvenlik” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun 8 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</small>
+<small>[9] <i>3/10/2016 tarihli ve 676 sayılı KHK’nin 8 inci maddesiyle, bu madde yer alan “Geçici Köy” ibaresi “Güvenlik” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun 8 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.</i></small>
 
-<small>[10] Anayasa Mahkemesi’nin 24/2/2022 tarihli ve E.:2021/2 ; K.:2022/20 sayılı Kararı ile bu maddede yer alan “uygulanacak disiplin cezaları” ibaresi iptal edilmiştir. Bu Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır.</small>
+<small>[10] <i>Anayasa Mahkemesi’nin 24/2/2022 tarihli ve E.:2021/2 ; K.:2022/20 sayılı Kararı ile bu maddede yer alan “uygulanacak disiplin cezaları” ibaresi iptal edilmiştir. Bu Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır.</i></small>
 
-<small>[11] 2/7/2018 tarihli ve 700 sayılı KHK’nin 1 inci maddesiyle, bu fıkrada yer alan “Milli Savunma Bakanlığı ve Maliye Bakanlığının görüşü üzerine İçişleri Bakanlığınca hazırlanacak ve bu maddenin yayımı tarihinden itibaren altı ay içinde Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[11] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 1 inci maddesiyle, bu fıkrada yer alan “Milli Savunma Bakanlığı ve Maliye Bakanlığının görüşü üzerine İçişleri Bakanlığınca hazırlanacak ve bu maddenin yayımı tarihinden itibaren altı ay içinde Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[12] 24/12/2020 tarihli ve 7261 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “31/12/2020” ibareleri “31/12/2024” şeklinde değiştirilmiştir.</small>
+<small>[12] <i>24/12/2020 tarihli ve 7261 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “31/12/2020” ibareleri “31/12/2024” şeklinde değiştirilmiştir.</i></small>
 
-<small>[13] 5/12/2024 tarihli ve 7534 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “31/12/2024” ibareleri “31/12/2028” şeklinde değiştirilmiştir.</small>
+<small>[13] <i>5/12/2024 tarihli ve 7534 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “31/12/2024” ibareleri “31/12/2028” şeklinde değiştirilmiştir.</i></small>
 
-<small>[14] 26/2/2014 tarihli ve 6527 sayılı Kanunun 19 uncu maddesiyle, bu bentte yer alan “5.000” ibaresi “1/10/2013-31/12/2013 tarihleri arasındaki dönemde 8.500, 1/1/2014 tarihinden itibaren 9.189” şeklinde değiştirilmiştir.</small>
+<small>[14] <i>26/2/2014 tarihli ve 6527 sayılı Kanunun 19 uncu maddesiyle, bu bentte yer alan “5.000” ibaresi “1/10/2013-31/12/2013 tarihleri arasındaki dönemde 8.500, 1/1/2014 tarihinden itibaren 9.189” şeklinde değiştirilmiştir.</i></small>

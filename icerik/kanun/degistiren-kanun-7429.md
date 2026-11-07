@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/12/20221228-12.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-ELEKTRİK PİYASASI KANUNU İLE BAZI KANUNLARDA VE 375
-SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7429 Kabul Tarihi: 22/12/2022
+**KANUN**
+**ELEKTRİK PİYASASI KANUNU İLE BAZI KANUNLARDA VE 375**
+**SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7429 Kabul Tarihi: 22/12/2022**
 
 MADDE 1- 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 31- Bu maddenin yayımı tarihinden önce ve bu Kanun hükümleri çerçevesinde, Türkiye Denizcilik İşletmeleri Anonim Şirketi ve Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğüne ait bazı limanların işletme hakkı verilmesi/devri yöntemiyle özelleştirilmeleri neticesinde imzalanan kırk dokuz yıldan az süreli sözleşme süreleri, bu maddenin yayımlandığı tarihten itibaren en geç on beş gün içerisinde bu maddenin dördüncü fıkrasının (a) bendinde belirtilen mali bilgileri gösteren yeminli mali müşavirlerce tasdik edilmiş belgelerle birlikte başvuruda bulunulması ve bu maddede öngörülen diğer şartların yerine getirilmesi koşuluyla, hakkın başlangıç tarihinden itibaren ve bir defaya mahsus olmak üzere kırk dokuz yıla kadar uzatılır.

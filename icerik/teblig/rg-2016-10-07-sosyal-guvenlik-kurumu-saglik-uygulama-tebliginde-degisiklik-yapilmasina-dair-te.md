@@ -12,35 +12,35 @@ durum: "yürürlükte"
 ---
 
 Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete ’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.4.2.A numaralı maddesinin birinci fıkrasında yer alan “Türk Silahlı Kuvvetlerinin eğitim ve araştırma hastanesi olmayan hastaneleri,” ibaresi yürürlükten kaldırılmıştır.
 
-MADDE 2- Aynı Tebliğin 1.4.2.C numaralı maddesinin birinci fıkrasında aşağıdaki düzenlemeler yapılmıştır.
-a) Fıkrada yer alan “, Türk Silahlı Kuvvetlerine bağlı tıp fakültesi hastanesi ile eğitim ve araştırma hastaneleri” ibaresi yürürlükten kaldırılmıştır.
-b) Fıkrada yer alan “enstitüler” ibaresinden sonra gelmek üzere “ve semt poliklinikleri” ibaresi eklenmiştir.
+**MADDE 2- Aynı Tebliğin 1.4.2.C numaralı maddesinin birinci fıkrasında aşağıdaki düzenlemeler yapılmıştır.**
+**a) Fıkrada yer alan “, Türk Silahlı Kuvvetlerine bağlı tıp fakültesi hastanesi ile eğitim ve araştırma hastaneleri” ibaresi yürürlükten kaldırılmıştır.**
+**b) Fıkrada yer alan “enstitüler” ibaresinden sonra gelmek üzere “ve semt poliklinikleri” ibaresi eklenmiştir.**
 
-MADDE 3- Aynı Tebliğin 2.2 numaralı maddesinin dokuzuncu fıkrasının üçüncü cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
+**MADDE 3- Aynı Tebliğin 2.2 numaralı maddesinin dokuzuncu fıkrasının üçüncü cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.**
 “Ayrıca sözleşmeli/protokollü sağlık kurum ve kuruluşları, infüzyon kemoterapi hazırlanması işlemlerini Kurum ile sözleşmeli/protokollü başka bir sağlık hizmeti sunucusundan hizmet alımı yöntemi ile de sağlayabilirler.”
 
-MADDE 4-Aynı Tebliğin 2.2.1.B-1 numaralı maddesinin dokuzuncu fıkrası yürürlükten kaldırılmıştır.
+**MADDE 4-Aynı Tebliğin 2.2.1.B-1 numaralı maddesinin dokuzuncu fıkrası yürürlükten kaldırılmıştır.**
 
-MADDE 5- Aynı Tebliğin 2.2.1.B-2 numaralı maddesinin ikinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
-“a) Acil sağlık hizmetleri,”
+**MADDE 5- Aynı Tebliğin 2.2.1.B-2 numaralı maddesinin ikinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.**
+**“a) Acil sağlık hizmetleri,”**
 
-MADDE 6- Aynı Tebliğin 2.4.4.F-2 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
-a) Maddenin üçüncü fıkrasında yer alan “Türk Silahlı Kuvvetleri ile” ibaresi yürürlükten kaldırılmıştır.
-b) Maddenin beşinci fıkrasında yer alan “Bölge, seans ve sağlık raporu sayılarının kontrollerinde 2.4.4.F-6(2) fıkrasında belirtilen bölge, seans ve sağlık raporu sayıları da hesaba katılır.” cümlesi yürürlükten kaldırılmıştır.
-c) Maddenin on birinci fıkrasının (a) bendinin birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
-“2.4.4.F.1 maddesinde belirtilen raporlara istinaden tedavinin başladığı ilk rapor tarihi baz alınmak suretiyle devam eden yıllarda da her yıl için en fazla 90 seans fizik tedavi ve rehabilitasyon uygulamaları Kurumca karşılanır.”
+**MADDE 6- Aynı Tebliğin 2.4.4.F-2 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.**
+**a) Maddenin üçüncü fıkrasında yer alan “Türk Silahlı Kuvvetleri ile” ibaresi yürürlükten kaldırılmıştır.**
+**b) Maddenin beşinci fıkrasında yer alan “Bölge, seans ve sağlık raporu sayılarının kontrollerinde 2.4.4.F-6(2) fıkrasında belirtilen bölge, seans ve sağlık raporu sayıları da hesaba katılır.” cümlesi yürürlükten kaldırılmıştır.**
+**c) Maddenin on birinci fıkrasının (a) bendinin birinci cümlesi aşağıdaki şekilde değiştirilmiştir.**
+**“2.4.4.F.1 maddesinde belirtilen raporlara istinaden tedavinin başladığı ilk rapor tarihi baz alınmak suretiyle devam eden yıllarda da her yıl için en fazla 90 seans fizik tedavi ve rehabilitasyon uygulamaları Kurumca karşılanır.”**
 
-MADDE 7- Aynı Tebliğin 2.4.4.H numaralı maddesinin birinci fıkrasında yer alan “Türk Silahlı Kuvvetleri’ne bağlı sağlık hizmeti sunucuları hariç olmak üzere,” ibaresi yürürlükten kaldırılmıştır.
+**MADDE 7- Aynı Tebliğin** 2.4.4.H **numaralı maddesinin birinci fıkrasında yer alan “Türk Silahlı Kuvvetleri’ne bağlı sağlık hizmeti sunucuları hariç olmak üzere,” ibaresi yürürlükten kaldırılmıştır.**
 
-MADDE 8- Aynı Tebliğin 2.5.3.A-1 numaralı maddesinin üçüncü fıkrasında yer alan “Türk Silahlı Kuvvetlerine bağlı tıp fakültesi hastaneleri tarafından kendi mevzuatına uygun düzenlenen yurt dışı tedaviye ilişkin sağlık kurulu raporlarının Sağlık Bakanlığınca onaylanmış olması yeterli sayılacaktır.” cümlesi yürürlükten kaldırılmıştır.
+**MADDE 8- Aynı Tebliğin 2.5.3.A-1 numaralı maddesinin üçüncü fıkrasında yer alan “Türk Silahlı Kuvvetlerine bağlı tıp fakültesi hastaneleri tarafından kendi mevzuatına uygun düzenlenen yurt dışı tedaviye ilişkin sağlık kurulu raporlarının Sağlık Bakanlığınca onaylanmış olması yeterli sayılacaktır.” cümlesi yürürlükten kaldırılmıştır.**
 
-MADDE 9- Aynı Tebliğin 2.6.1.B numaralı maddesinin altıncı fıkrasının (b) bendinde yer alan “, ikinci ve üçüncü” ibaresi ile yedinci fıkrasında yer alan “Türk Silahlı Kuvvetlerine bağlı sağlık tesisleri,” ibaresi yürürlükten kaldırılmıştır.
+**MADDE 9- Aynı Tebliğin** 2.6.1.B **numaralı maddesinin altıncı fıkrasının (b) bendinde yer alan “, ikinci ve üçüncü” ibaresi ile yedinci fıkrasında yer alan “Türk Silahlı Kuvvetlerine bağlı sağlık tesisleri,” ibaresi yürürlükten kaldırılmıştır.**
 
-MADDE 10- Aynı Tebliğin 3.1.1 numaralı maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 10- Aynı Tebliğin** 3.1.1 numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(18) Ödeme kural ve/veya kriterlerinde sağlık hizmet sunucusu kısıtı bulunan tıbbi malzemelerin faturalandırıldığı SUT eki işlem bedellerinin ödemesinde de aynı kısıt aranır. Tıbbi malzemelerdeki sağlık hizmet sunucusu kısıtına uymayan işlemlerin bedelleri ödenmez.”
 
 MADDE 11- Aynı Tebliğin 3.1.2 numaralı maddesinin onyedinci fıkrasının birinci cümlesinde yer alan “aylık bağlananlar” ibaresinden sonra gelen “ile” ibaresi yürürlükten kaldırılmış, aynı cümlede yer alan “vazife ve harp malullerinin” ibaresi “vazife ve harp malulleri ile atış, tatbikat veya diğer ateşli silah yaralanmaları nedeniyle malul olan vazife ve harp malullerinin ” şeklinde değiştirilmiştir.
@@ -48,9 +48,9 @@ MADDE 11- Aynı Tebliğin 3.1.2 numaralı maddesinin onyedinci fıkrasının bir
 MADDE 12 – Aynı Tebliğin 4.1.1 numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(12) Ödeme kapsamındaki aynı etkin maddeyi içeren ilaçlar ile aynı endikasyonda birbirlerinin yerine kullanılabilecek ilaçların birlikte kullanılmamasına yönelik düzenlemeler Kurum tarafından belirlenir.”
 
-MADDE 13 - Aynı Tebliğin 4.1.5 numaralı maddesinin üçüncü fıkrasının (g) bendinde yer alan “, ikinci ve üçüncü” ibaresi yürürlükten kaldırılmıştır.
+MADDE 13 - Aynı Tebliğin 4.1.5 **numaralı maddesinin üçüncü fıkrasının (g) bendinde yer alan “, ikinci ve üçüncü” ibaresi yürürlükten kaldırılmıştır.**
 
-MADDE 14- Aynı Tebliğin 4.1.5 numaralı maddesinin beşinci fıkrasında yer alan “reçeteyi düzenleyen hekim” ibaresi “ başhekim” şeklinde değiştirilmiştir.
+**MADDE 14-** Aynı Tebliğin 4.1.5 numaralı maddesinin beşinci fıkrasında yer alan “reçeteyi düzenleyen hekim” ibaresi “ başhekim” şeklinde değiştirilmiştir.
 
 MADDE 15 - Aynı Tebliğin 4.2.1.C-1 numaralı maddesinin onuncu fıkrası aşağıdaki şekilde değiştirilmiştir.
 “ (10) Fistülize, şiddetli veya aktif luminal Crohn hastalığında adalimumab , sertolizumab ve infliksimab;
@@ -58,16 +58,16 @@ sistemik kortikosteroidler ve/veya klasik immunsupresifler ile 12 haftalık teda
 Tedavinin 4 üncü ayında tedaviye cevap alınamaması (hastalığa yanıt kriteri: Crohn Hastalık Aktivite İndeksi’nde 70 puanlık düşüşün olmaması) durumunda tedavi kesilir.
 Crohn Hastalık Aktivite İndeksi’nde 70 puan üzerinde düşüş olması halinde, bu durum ile adalimumab, sertolizumab ve infliksimab etken maddeli ilaçların kullanılacak dozu ve süresinin belirtildiği 6 ay süreli sağlık kurulu raporuna dayanılarak tedaviye devam edilebilir. Sağlık kurulu raporunda, gastroenteroloji, çocuk cerrahisi veya genel cerrahi uzman hekimlerinden en az biri yer almalıdır. Sağlık kurulu raporlarına dayanılarak, bu hekimler ile iç hastalıkları veya çocuk sağlığı ve hastalıkları uzman hekimlerince reçete edilir ve sağlık kurum/kuruluşlarında klinik koşullarda uygulanır.”
 
-MADDE 16 – Aynı Tebliğin 4.2.2 numaralı maddesinin üçüncü fıkrasında yer alan “risperidon” ibaresinden sonra gelmek üzere “, aripiprazol” ibaresi eklenmiştir.
+**MADDE 16 –** Aynı Tebliğin 4.2.2 numaralı maddesinin üçüncü fıkrasında yer alan “risperidon” ibaresinden sonra gelmek üzere “, aripiprazol” ibaresi eklenmiştir.
 
-MADDE 17 – Aynı Tebliğin 4.2.8. A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
-a) Maddenin dördüncü fıkrasının (b) bendinde yer alan “anestezi ve yoğun bakım” ibaresinden sonra gelmek üzere “, geriatri” ibaresi eklenmiştir.
+MADDE 17 – **Aynı Tebliğin 4.2.8. A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.**
+**a) Maddenin dördüncü fıkrasının (b) bendinde yer alan “anestezi ve yoğun bakım” ibaresinden sonra gelmek üzere “, geriatri” ibaresi eklenmiştir.**
 b) Maddenin beşinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(5) Glikojen depo hastalığının diyet yönetiminde kullanılan yüksek amilopektin içeren nişastalı enteral beslenme ürünleri; 2 yaş ve üzerindeki hastalarda, bu durumun belirtildiği en az bir çocuk metabolizma hastalıkları veya gastroenteroloji uzmanının bulunduğu sağlık kurulu raporuna dayanılarak çocuk metabolizma hastalıkları ile çocuk sağlığı ve hastalıkları veya gastroenteroloji uzman hekimlerince reçete edilebilir. Raporda, ürünün adı, günlük kullanım miktarı açıkça belirtilerek aylık en fazla iki kutu yazılır.”
 
-MADDE 18 – Aynı Tebliğin 4.2.9.B numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 18 –** Aynı Tebliğin 4.2.9.B numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin başlığı aşağıdaki şekilde değiştirilmiştir.
-“4.2.9.B – Sevelamer, lantanyum karbonat ve alüminyum klorür hidroksit kullanım ilkeleri”
+**“4.2.9.B – Sevelamer, lantanyum karbonat ve alüminyum klorür hidroksit kullanım ilkeleri”**
 b) Maddenin ikinci fıkrasında yer alan “sevelamer” ibaresinden sonra gelmek üzere “, lantanyum karbonat” ibaresi eklenmiştir.
 c) Maddenin dördüncü fıkrasında yer alan “3,5” ibaresi “4” şeklinde değiştirilmiştir.
 ç) Maddeye aşağıdaki fıkra eklenmiştir.
@@ -81,9 +81,9 @@ MADDE 20 – Aynı Tebliğin 4.2.13 numaralı maddesinin birinci fıkrası aşa�
 “(2) Hepatit tedavisinde daha önce kullanılan ilaçlar, tanı, tedaviye başlama ve kesilme kriterleri gibi bilgilerin raporda belirtilmesi gerekmektedir. Oral antiviral tedavilerde ilk rapor süresi en fazla 6 ay sonraki rapor süreleri bir yılı geçemez.”
 
 MADDE 21 – Aynı Tebliğin 4.2.13.3.1 numaralı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-“(2) Akut hepatit C hastalarında (HCV RNA pozitif sonuç raporda belirtilir) 24 hafta süreyle, onaylanmış Kısa Ürün Bilgisinde Kronik C hepatitinde tanımlanan dozlarda interferon alfa veya pegile interferon alfa monoterapisi uygulanır. Bu hastalarda tedaviye ribavirin eklenemez. Akut hepatit C tedavisi için karaciğer biyopsisi ve 12 nci haftada HCV RNA seviyesinde 2 log azalma koşulu aranmaz.”
+**<i>“(2) Akut hepatit C hastalarında (HCV RNA pozitif sonuç raporda belirtilir) 24 hafta süreyle, onaylanmış Kısa Ürün Bilgisinde Kronik C hepatitinde tanımlanan dozlarda interferon alfa veya pegile interferon alfa monoterapisi uygulanır. Bu hastalarda tedaviye ribavirin eklenemez. Akut hepatit C tedavisi için karaciğer biyopsisi ve 12 nci haftada HCV RNA seviyesinde 2 log azalma koşulu aranmaz.”</i>**
 
-MADDE 22 - Aynı Tebliğin 4.2.13.3-2 numaralı maddesi ve “4.2.13.3.2.A”, “4.2.13.3.2.A.1”, “4.2.13.3.2.A.2”, “4.2.13.3.2.B”, “4.2.13.3.2.B.1”,”4.2.13.3.2.C” alt maddeleri başlıkları ile birlikte aşağıdaki şekilde değiştirilmiş ve “4.2.13.3.2.Ç” numaralı alt maddesi yürürlükten kaldırılmıştır.
+**MADDE 22 -** Aynı Tebliğin 4.2.13.3-2 numaralı maddesi ve “4.2.13.3.2.A”, “4.2.13.3.2.A.1”, “4.2.13.3.2.A.2”, “4.2.13.3.2.B”, “4.2.13.3.2.B.1”,”4.2.13.3.2.C” alt maddeleri başlıkları ile birlikte aşağıdaki şekilde değiştirilmiş ve “4.2.13.3.2.Ç” numaralı alt maddesi yürürlükten kaldırılmıştır.
 “4.2.13.3.2 - Kronik Hepatit C tedavisinde genel hükümler
 (1) HCV RNA’sı pozitif hastalarda genotip tayini yapılır.
 Genotip ve subtipi (Laboratuar tetkikinde genotip 1 subtipi belirlenemediği olgular genotip 1a olarak kabul edilir) raporda belirtilir.
@@ -183,139 +183,139 @@ b) (n) bendinin ikinci maddesinin (b) alt bendi aşağıdaki şekilde değiştir
 4. ayın sonunda yapılan yanıt değerlendirmesinde, 8 hafta içinde hiç transfüzyon yapılmamış olması koşulu ile transfüzyon ihtiyacının ortadan kalkması halinde bu durum ilgili sağlık kurulu raporunda belirtilir. Sağlık kurulu raporları ile tedavi 12. aya kadar uzatılabilir. 4. ayda yapılan yanıt değerlendirmesinde transfüzyon ihtiyacının ortadan kalkmaması halinde tedavi sonlandırılır. Bu endikasyonda lenalidomidin yalnızca 5 ve 10 mg’lık formları en fazla günlük 1x1 dozunda ödenir.”
 c) (y) bendinin birinci maddesinin (a) bendinde yer alan “KRAS” ibaresi “RAS” olarak değiştirilmiştir.
 ç) Fıkraya aşağıdaki bent eklenmiştir.
-“gg) pertuzumab; daha önce metastatik hastalığı için sistemik kemoterapi veya trastuzumab tedavisi almamış, ECOG performans skoru 0-1 olan, HER-2 immünhistokimya ile +3 veya FISH/CISH/SISH (+) olan, visseral metastazı olan metastatik meme kanserinde ilk seri tedavide trastuzumab ve dosetaksel kemoterapisi ile kombine olarak progresyona kadar kullanılabilir.Bu durumların belirtildiği tıbbi onkoloji uzman hekiminin yer aldığı sağlık kurulu raporuna dayanılarak tıbbi onkoloji uzman hekimlerince reçete edilir. Pertuzumab, daha önce erken evre meme kanseri için adjuvan veya neo-adjuvan olarak trastuzumab tedavisi almış ve sonrasında relaps gelişmiş hastalarda kullanılmaz. Pertuzumab tedavisi alırken progresyon gösteren hastalarda bir daha monoterapi veya kombinasyon tedavisinin bir parçası olarak devam edilemez.”
+“gg) pertuzumab; daha önce metastatik hastalığı için sistemik kemoterapi veya trastuzumab tedavisi almamış, ECOG performans skoru 0-1 olan, HER-2 immünhistokimya ile +3 veya FISH/CISH/SISH (+) olan, visseral metastazı olan metastatik meme kanserinde ilk seri tedavide trastuzumab ve dosetaksel kemoterapisi ile kombine olarak progresyona kadar kullanılabilir.Bu durumların belirtildiği tıbbi onkoloji uzman hekiminin yer aldığı sağlık kurulu raporuna dayanılarak tıbbi onkoloji uzman hekimlerince reçete edilir. <i>Pertuzumab</i>, daha önce erken evre meme kanseri için adjuvan veya neo-adjuvan olarak trastuzumab tedavisi almış ve sonrasında relaps gelişmiş hastalarda kullanılmaz. **<i>Pertuzumab</i>** tedavisi alırken progresyon gösteren hastalarda bir daha monoterapi veya kombinasyon tedavisinin bir parçası olarak devam edilemez.”
 
-MADDE 24 - Aynı Tebliğin 4.2.15.A numaralı maddesinin dördüncü fıkrasında yer alan “kalp damar cerrahisi” ibaresinden sonra gelmek üzere, “, beyin cerrahi” ibaresi eklenmiştir.
+**MADDE 24 - Aynı Tebliğin** 4.2.15.A numaralı maddesinin dördüncü fıkrasında yer alan “kalp damar cerrahisi” ibaresinden sonra gelmek üzere, “, beyin cerrahi” ibaresi eklenmiştir.
 
 MADDE 25 – Aynı Tebliğin 4.2.15.C numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(1) Normal sinüs ritmi olan, kronik stabil angına pektorisli hastaların semptomatik tedavisinde Beta blokör ve/veya verapamil-diltiazem intoleransı veya kontrendikasyonu olan hastalar için kardiyoloji uzmanlarınca düzenlenen 1 yıl süreli uzman hekim raporuna dayanılarak kardiyoloji uzmanı veya iç hastalıkları uzmanı tarafından reçete edilebilir.”
 
 MADDE 26 – Aynı Tebliğin 4.2.15.Ç numaralı maddesinin birinci fıkrasının (a) bendinde yer alan “diyabetli” ibaresi yürürlükten kaldırılmıştır.
 
-MADDE 27 – Aynı Tebliğin 4.2.15.D-2 numaralı maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
-“a) Rivaroksaban, dabigatran ve apiksaban; Derin Ven Trombozu (DVT) tedavisi ile akut DVT sonrası tekrarlayan DVT ve Pulmoner Embolizmin (PE) önlenmesinde veya Pulmoner Embolizm (PE) tedavisi ile tekrarlayan PE ve DVT’nin önlenmesinde kullanılır.”
+**MADDE 27 –** Aynı Tebliğin 4.2.15.D-2 numaralı maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
+“a) Rivaroksaban, **<i>dabigatran</i>** ve apiksaban; Derin Ven Trombozu (DVT) tedavisi ile akut DVT sonrası tekrarlayan DVT ve Pulmoner Embolizmin (PE) önlenmesinde veya Pulmoner Embolizm (PE) tedavisi ile tekrarlayan PE ve DVT’nin önlenmesinde kullanılır.”
 
 MADDE 28 - Aynı Tebliğin 4.2.16 numaralı maddesi başlığı ile beraber aşağıdaki şekilde değiştirilmiştir.
-“4.2.16 - Doğuştan metabolik hastalıklar, Gıda allerjileri ile Çölyak Hastalığı
-(1) Çocuk mamaları, gıda olması nedeniyle EK-4/A Listesine ve Kurumun resmi internet sitesinde yayımlanan “Hastalığa Özel (Doğuştan Metabolik Hastalıklar, Kistik Fibrozis ve İnek Sütü Alerjisi) Diyet Ürünleri ile Tıbbi Mamalar Listesi” ne (EK-4/B) dahil edilmemiştir.
-(2) Doğuştan metabolik hastalığı olanlarda, protein metabolizması bozukluklarında (aminoasit metabolizması bozuklukları, üre siklus bozuklukları, organik asidemiler), malabsorbsiyona neden olan bir hastalığı olan hastalarda kullanılan özel mamalar:
-a) Çocuk metabolizma hastalıkları veya çocuk gastroenteroloji uzman hekimi tarafından, bu uzman hekimlerin bulunmadığı hastanelerde çocuk sağlığı ve hastalıkları uzman hekimlerince düzenlenen düzenlenen 1 yıl süreli uzman hekim raporuna dayanılarak,
-b)Erişkin endokrinoloji ve metabolizma hastalıkları ya da erişkin gastroenteroloji uzman hekimi tarafından, bu uzman hekimlerin bulunmadığı hastanelerde iç hastalıkları uzman hekimlerince düzenlenen 1 yıl süreli uzman hekim raporuna dayanılarak, tüm hekimler tarafından reçete edilebilir.
-(3) Protein metabolizması bozukluklarında (aminoasit metabolizması bozuklukları, üre siklus bozuklukları, organik asidemiler) yukarıda belirtilen uzman hekim raporuna dayanılarak hastaların kısıtlı diyetleri sebebi ile hayati öneme haiz özel formüllü un ve özel formül içeren mamul ürünler (makarna, şehriye, bisküvi, çikolata, gofret vb.) için bir aylık;
-a) 0-12 ay için 46,50 (kırkaltı virgül elli) TL,
-b) 1-5 yaş için 90 (doksan) TL,
-c) 5-15 yaş için 116,25 (yüzonaltı virgül yirmibeş) TL,
-ç) 15 yaş üstü için 120 (yüz yirmi) TL, tutar ödenir.
-(4) Kistik fibrozisli hastalarda kullanılan özel mamalar; gastroenteroloji veya göğüs hastalıkları uzman hekimleri tarafından bu uzman hekimlerin bulunmadığı hastanelerde çocuk sağlığı ve hastalıkları veya iç hastalıkları uzman hekimlerince düzenlenen 1 yıl süreli uzman hekim raporuna dayanılarak tüm hekimler tarafından reçete edilebilir.
-(5) İki yaşına kadar inek sütü ve/veya çoklu gıda protein alerjisi olan bebeklerin kullandıkları özel mamalar; çocuk gastroenteroloji veya çocuk immünoloji ve alerji hastalıkları uzman hekimlerince, bu uzman hekimlerin bulunmadığı hastanelerde çocuk sağlığı ve hastalıkları uzman hekimlerince düzenlenecek uzman hekim raporuna dayanılarak tüm hekimler tarafından reçete edilebilir.
-(6) Çölyak hastalığında;
-gastroenteroloji uzman hekimi tarafından, bu uzman hekimlerin bulunmadığı hastanelerde çocuk sağlığı ve hastalıkları veya iç hastalıkları uzman hekimlerince 1 yıl süreli rapor düzenlenir. Bu hastaların kısıtlı diyetleri sebebi ile hayati öneme haiz özel formüllü un ve özel formüllü un içeren mamul ürünler (makarna, şehriye, bisküvi, çikolata, gofret vb.); gastroenteroloji uzman hekimi tarafından düzenlenen uzman hekim raporuna dayanılarak bir aylık;
-a) 0-5 yaş için 78,75 (yetmişsekiz virgül yetmişbeş) TL,
-b) 5-15 yaş için 120 (yüzyirmi) TL,
-c) 15 yaş üstü için 108,75 (yüzsekiz virgül yetmişbeş) TL, tutar ödenir.
-(7) Yukarıda belirtilen hastalıklarda kullanılan ürünler; EK-4/B Listesinde belirtilmiş olup bu listede yer almayan ürün bedelleri Kurumca karşılanmaz.
-(8) Üçüncü ve altıncı fıkralarda belirtilen ödemeye ilişkin izlenecek yöntem Kurum tarafından ayrıca duyurulur.”
+**<i>“4.2.16 - Doğuştan metabolik hastalıklar, Gıda allerjileri ile Çölyak Hastalığı</i>**
+**<i>(1) Çocuk mamaları, gıda olması nedeniyle EK-4/A Listesine ve Kurumun resmi internet sitesinde yayımlanan “Hastalığa Özel (Doğuştan Metabolik Hastalıklar, Kistik Fibrozis ve İnek Sütü Alerjisi) Diyet Ürünleri ile Tıbbi Mamalar Listesi” ne (EK-4/B) dahil edilmemiştir.</i>**
+**<i>(2) Doğuştan metabolik hastalığı olanlarda, protein metabolizması bozukluklarında (aminoasit metabolizması bozuklukları, üre siklus bozuklukları, organik asidemiler), malabsorbsiyona neden olan bir hastalığı olan hastalarda kullanılan özel mamalar:</i>**
+**<i>a) Çocuk metabolizma hastalıkları veya çocuk gastroenteroloji uzman hekimi tarafından, bu uzman hekimlerin bulunmadığı hastanelerde çocuk sağlığı ve hastalıkları uzman hekimlerince düzenlenen düzenlenen 1 yıl süreli uzman hekim raporuna dayanılarak,</i>**
+**<i>b)Erişkin endokrinoloji ve metabolizma hastalıkları ya da erişkin gastroenteroloji uzman hekimi tarafından, bu uzman hekimlerin bulunmadığı hastanelerde iç hastalıkları uzman hekimlerince düzenlenen 1 yıl süreli uzman hekim raporuna dayanılarak,</i> <i>tüm hekimler tarafından reçete edilebilir.</i>**
+**<i>(3) Protein metabolizması bozukluklarında (aminoasit metabolizması bozuklukları, üre siklus bozuklukları, organik asidemiler) yukarıda belirtilen uzman hekim raporuna dayanılarak hastaların kısıtlı diyetleri sebebi ile hayati öneme haiz özel formüllü un ve özel formül içeren mamul ürünler (makarna, şehriye, bisküvi, çikolata, gofret vb.) için bir aylık;</i>**
+**<i>a) 0-12 ay için 46,50 (kırkaltı virgül elli) TL,</i>**
+**<i>b) 1-5 yaş için 90 (doksan) TL,</i>**
+**<i>c) 5-15 yaş için 116,25 (yüzonaltı virgül yirmibeş) TL,</i>**
+**<i>ç) 15 yaş üstü için 120 (yüz yirmi) TL,</i> <i>tutar ödenir.</i>**
+**<i>(4) Kistik fibrozisli hastalarda kullanılan özel mamalar; gastroenteroloji veya göğüs hastalıkları uzman hekimleri tarafından bu uzman hekimlerin bulunmadığı hastanelerde çocuk sağlığı ve hastalıkları veya iç hastalıkları uzman hekimlerince düzenlenen 1 yıl süreli uzman hekim raporuna dayanılarak tüm hekimler tarafından reçete edilebilir.</i>**
+**<i>(5) İki yaşına kadar inek sütü ve/veya çoklu gıda protein alerjisi olan bebeklerin kullandıkları özel mamalar; çocuk gastroenteroloji veya çocuk immünoloji ve alerji hastalıkları uzman hekimlerince, bu uzman hekimlerin bulunmadığı hastanelerde çocuk sağlığı ve hastalıkları uzman hekimlerince düzenlenecek uzman hekim raporuna dayanılarak tüm hekimler tarafından reçete edilebilir.</i>**
+**<i>(6) Çölyak hastalığında;</i>**
+**<i>gastroenteroloji uzman hekimi tarafından, bu uzman hekimlerin bulunmadığı hastanelerde çocuk sağlığı ve hastalıkları veya iç hastalıkları uzman hekimlerince 1 yıl süreli rapor düzenlenir. Bu hastaların kısıtlı diyetleri sebebi ile hayati öneme haiz özel formüllü un ve özel formüllü un içeren mamul ürünler (makarna, şehriye, bisküvi, çikolata, gofret vb.); gastroenteroloji uzman hekimi tarafından düzenlenen uzman hekim raporuna dayanılarak bir aylık;</i>**
+**<i>a) 0-5 yaş için 78,75 (yetmişsekiz virgül yetmişbeş) TL,</i>**
+**<i>b) 5-15 yaş için 120 (yüzyirmi) TL,</i>**
+**<i>c) 15 yaş üstü için 108,75 (yüzsekiz virgül yetmişbeş) TL, tutar ödenir.</i>**
+**<i>(7) Yukarıda belirtilen hastalıklarda kullanılan ürünler; EK-4/B Listesinde belirtilmiş olup bu listede yer almayan ürün bedelleri Kurumca karşılanmaz.</i>**
+**<i>(8) Üçüncü ve altıncı fıkralarda belirtilen ödemeye ilişkin izlenecek yöntem Kurum tarafından ayrıca duyurulur.”</i>**
 
-MADDE 29 - Aynı Tebliğin 4.2.17.D numaralı maddesinin birinci fıkrasında yer alan “endokrinoloji” ibarelerinden sonra gelmek üzere “ve/veya geriatri” ibareleri eklenmiştir
+**MADDE 29 - Aynı Tebliğin 4.2.17.D numaralı maddesinin birinci fıkrasında yer alan “endokrinoloji” ibarelerinden sonra gelmek üzere “ve/veya geriatri” ibareleri eklenmiştir**
 
 MADDE 30 – Aynı Tebliğin 4.2.24.A numaralı maddesinin birinci fıkrasında yer alan “salmeterol” ibaresinden sonra gelmek üzere “, vilanterol” ibaresi eklenmiştir.
 
 MADDE 31 – Aynı Tebliğin 4.2.24.B numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(1) Formeterol, salmeterol , indakaterol, glikopironyum, tiotropium, vilanterol ve kombinasyonları; göğüs hastalıkları, göğüs cerrahisi, iç hastalıkları, çocuk sağlığı ve hastalıkları veya kardiyoloji uzman hekimleri tarafından veya bu uzman hekimlerden biri tarafından düzenlenen uzman hekim raporuna dayanılarak diğer hekimlerce de reçete edilebilir.”
 
-MADDE 32 - Aynı Tebliğin 4.2.27.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 32 -** Aynı Tebliğin 4.2.27.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin birinci fıkrasının (a) bendinde yer alan “% l'in” ibaresi “% l veya” şeklinde değiştirilmiştir.
 b) Maddenin beşinci fıkrasının (b) bendinin ikinci cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
 "Düşük titreli yüksek yanıtlı hastalarda, bu durumun belirtildiği yeni bir rapor düzenlenerek 5BU’nun altında da proflaksi tedavisine devam edilebilir."
 
-MADDE 33 - Aynı Tebliğin 4.2.28. A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
+**MADDE 33 - Aynı Tebliğin 4.2.28. A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.**
 a) Maddenin üçüncü fıkrasının üçüncü cümlesinden sonra gelmek üzere aşağıdaki cümle eklenmiştir.
-“Tedaviye uzun süre ara veren (6 ay ve daha uzun süre) hastalarda yeniden başlangıç kriterleri aranır.”
-b) Maddenin dördüncü fıkrasında yer alan “endokrinoloji” ibaresinden sonra gelmek üzere “, geriatri” ibaresi eklenmiştir.
+**“Tedaviye uzun süre ara veren (6 ay ve daha uzun süre) hastalarda yeniden başlangıç kriterleri aranır.”**
+b) **Maddenin** dördüncü fıkrasında yer alan “endokrinoloji” ibaresinden sonra gelmek üzere “, geriatri” ibaresi eklenmiştir.
 
 MADDE 34– Aynı Tebliğin 4.2.30.A numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin başlığı aşağıdaki şekilde değiştirilmiştir.
-“4.2.30.A- Pulmoner hipertansiyonda iloprost trometamol (inhaler formu), bosentan, masitentan, sildenafil, tadalafil ve ambrisentan kullanım ilkeleri”
-b) Maddenin altıncı fıkrasında yer alan “bosentan” ibaresinden sonra gelmek üzere “, masitentan” ibaresi eklenmiştir.
+“**4.2.30.A- Pulmoner hipertansiyonda iloprost trometamol (inhaler formu), bosentan,** masitentan, sildenafil, tadalafil ve ambrisentan kullanım ilkeleri”
+b) **Maddenin** altıncı fıkrasında yer alan “bosentan” ibaresinden sonra gelmek üzere “, masitentan” ibaresi eklenmiştir.
 
 MADDE 35– Aynı Tebliğin 4.2.32 numaralı maddesine aşağıdaki fıkra eklenmiştir.
 “(5) İyodize yağ asitleri etil esterleri; tanısal radyolojide yalnızca lenfografide, girişimsel radyolojide ise yalnızca erişkinlerde orta evredeki hepatoselüler karsinomun Trans Arteriyel Kemo Embolizasyonu (TAKE) sırasında vektorizasyon ve cerrahi yapıştırıcılar ile birlikte vasküler embolizasyonu endikasyonlarında yalnızca radyoloji uzman hekimlerince reçetelenir.”
 
-MADDE 36 - Aynı Tebliğin 4.2.33 numaralı maddesine aşağıdaki alt madde eklenmiştir.
-“ 4.2.33.E– Göz Hastalıkları tedavisinde kullanılan diğer ilaçlar
+**MADDE 36 -** Aynı Tebliğin 4.2.33 numaralı maddesine aşağıdaki alt madde eklenmiştir.
+“ **4.2.33.E– Göz Hastalıkları tedavisinde kullanılan diğer ilaçlar**
 (1) Siklosporin içeren immünsupresif göz damlaları, üç göz hastalıkları uzman hekimi tarafından düzenlenen bir yıl süreli sağlık kurulu raporuna dayanılarak göz hastalıkları uzman hekimlerince reçete edilebilir.
 (2) Kuru göz sendromunda kullanılan suni gözyaşları, göz hastalıkları uzman hekimlerince veya bu hekimlerce düzenlenecek 6 (altı) ay süreli uzman hekim raporuna dayanılarak tüm uzman hekimlerce reçete edilebilir.”
 
-MADDE 37 - Aynı Tebliğin 4.2.35.A numaralı alt maddesinin birinci ve ikinci fıkralarında yer alan, “ortopedi” ibarelerinden sonra gelmek üzere “, geriatri” ibareleri eklenmiştir
+**MADDE 37 - Aynı Tebliğin 4.2.35.A numaralı alt maddesinin birinci ve ikinci fıkralarında yer alan, “ortopedi” ibarelerinden sonra gelmek üzere “, geriatri” ibareleri eklenmiştir**
 
-MADDE 38 - Aynı Tebliğin 4.2.36 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
-a) Maddenin birinci ve üçüncü fıkralarında yer alan “nöroloji” ibarelerinden sonra gelmek üzere “veya geriatri” ibareleri eklenmiş, “hekimin” ibareleri “hekimlerin” olarak değiştirilmiştir.
-b) Maddenin ikinci fıkrasında yer alan “bu durumun belirtildiği nöroloji” ibaresinden sonra gelmek üzere “veya geriatri” ibaresi eklenmiştir.
+**MADDE 38 - Aynı Tebliğin 4.2.36 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.**
+**a) Maddenin birinci ve üçüncü fıkralarında yer alan “nöroloji” ibarelerinden sonra gelmek üzere “veya geriatri” ibareleri eklenmiş, “hekimin” ibareleri “hekimlerin” olarak değiştirilmiştir.**
+**b) Maddenin ikinci fıkrasında yer alan “bu durumun belirtildiği nöroloji” ibaresinden sonra gelmek üzere “veya geriatri” ibaresi eklenmiştir.**
 
 MADDE 39 – Aynı Tebliğin 4.2.38 numaralı maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(4) DPP-4 antagonistleri (sitagliptin, vildagliptin, saksagliptin , linagliptin), DPP-4 antagonistlerinin diğer oral antidiyabetiklerle kombine preperatları ve sodyum-glukoz ko-transporter 2 (SGLT2) inhibitörleri; metformin ve/veya sülfonilürelerin maksimum tolere edilebilir dozlarında yeterli glisemik kontrol sağlanamamış hastalarda; endokrinoloji uzman hekimleri ile iç hastalıkları uzman hekimlerince veya bu hekimlerce düzenlenen uzman hekim raporu ile tüm hekimlerce reçete edilebilir. Saksagliptini tek başına içeren 2,5 mg’lık formları yalnızca kronik böbrek yetmezliği hastalarında ve günlük en fazla 2,5 mg dozunda kullanılabilir.”
 
-MADDE 40 - Aynı Tebliğin 4.2.40 numaralı maddesinin birinci fıkrasında yer alan “nöroloji” ibaresinden sonra gelmek üzere “, geriatri ” ibaresi eklenmiştir.
+**MADDE 40 - Aynı Tebliğin 4.2.40 numaralı maddesinin birinci fıkrasında yer alan “nöroloji” ibaresinden sonra gelmek üzere “, geriatri ” ibaresi eklenmiştir.**
 
-MADDE 41- Aynı Tebliğin 5.2.2 numaralı maddesinin üçüncü fıkrasının (b) bendinin 6 numaralı alt bendinde yer alan “özürlülük” ibaresi “engellilik” şeklinde değiştirilmiştir.
+**MADDE 41- Aynı Tebliğin** 5.2.2 **numaralı maddesinin üçüncü fıkrasının (b) bendinin 6 numaralı alt bendinde yer alan “özürlülük” ibaresi “engellilik” şeklinde değiştirilmiştir.**
 
-MADDE 42- Aynı Tebliğin 5.3.4 numaralı maddesinin birinci fıkrasının (e) bendinde yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
+**MADDE 42- Aynı Tebliğin** 5.3.4 **numaralı maddesinin birinci fıkrasının (e) bendinde yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.**
 
-MADDE 43- Aynı Tebliğ eki Ayaktan Başvurularda Ödeme Listesi (EK-2/A)’nde “ANA DALLAR” başlığı altında yer alan “4400” kodlu “ Acil Tıp” satırının “TM” ve “DM” sütunlarında yer alan “20” ibareleri “ * ” şeklinde değiştirilmiştir.
+**MADDE 43- Aynı Tebliğ eki Ayaktan Başvurularda Ödeme Listesi (EK-2/A)’nde “ANA DALLAR” başlığı altında yer alan “4400” kodlu “ Acil Tıp” satırının “TM” ve “DM” sütunlarında yer alan “20” ibareleri “ * ” şeklinde değiştirilmiştir.**
 
-MADDE 44- Aynı Tebliğ eki Hizmet Başı İşlem Puan Listesi (EK-2/B) ‘nde aşağıdaki düzenlemeler yapılmıştır.
-a) Listede yer alan “602200” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**MADDE 44- Aynı Tebliğ eki Hizmet Başı İşlem Puan Listesi (EK-2/B) ‘nde aşağıdaki düzenlemeler yapılmıştır.**
+**a) Listede yer alan “602200” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 602200 Endoskopik dakriyosistorinostomi (DSR) 400,17 ”
-b) Listede yer alan “604155” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**b) Listede yer alan “604155” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 604155 Sitoredüktif cerrahi ile birlikte hipertermik intraperitoneal kemoterapi Sağlık Bakanlığına bağlı üçüncü basamak sağlık hizmeti sunucularınca faturalandırılır.
 1.773,09 ”
-c) Listede yer alan “616550” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**c) Listede yer alan “616550” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2156 616550 Görüş alanına engel yaratan psödopitoz tedavisi 300,17 ”
-ç) Listede yer alan “616780” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ç) Listede yer alan “616780” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2178 616780 Dakriosistorinostomi (DSR), eksternal 450,25 ”
-d) Listede yer alan “616790” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**d) Listede yer alan “616790” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2179 616790 Dakriosistorinostomi (DSR), endonazal 450,25 ”
-e) Listede yer alan “617020” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**e) Listede yer alan “617020” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2204 617020 Fototerapötik keratektomi (PTK) 478,92 ”
-f) Listede yer alan “617051” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**f) Listede yer alan “**617051” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2208 617051 Korneal Cross-Linking uygulaması Topografi ve pakimetre ile tanı konulmuş keratokonus, postlasik ektazi veya pellusid marjinal dejenerasyonda, Sağlık Bakanlığına bağlı üçüncü basamak sağlık hizmeti sunucularınca faturalandırılır.
 150,00 ”
-g) Listede yer alan “617052” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**g) Listede yer alan “**617052” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2209 617052 İntrakorneal halka uygulaması Topografi ve pakimetre ile tanı konulmuş keratokonus veya postlasik ektazide Sağlık Bakanlığına bağlı üçüncü basamak sağlık hizmeti sunucularınca faturalandırılır.
 300,00 ”
-ğ) Listede yer alan “700050” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ğ) Listede yer alan “700050” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2761 700050 Deri prick testi Ayrıntılı sonuç belgesi istenir.Sadece dermatoloji, göğüs hastalıkları, KBB, erişkin/ çocuk allerji veya immünoloji uzman hekimlerince yapılması halinde faturalandırılır.Erişkin/ çocuk allerji ve/veya immünoloji uzman hekimleri hariç olmak üzere her bir hasta için yılda en fazla 10 adet faturalandırılır.
 10,12 ”
-h) Listede yer alan “700943” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**h) Listede yer alan “**700943” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2869 700943 Perkütan mitral kapak onarımı Sağlık Bakanlığına bağlı üçüncü basamak sağlık hizmeti sunucularınca faturalandırılır.
 1.517,71 ”
-ı) Listede yer alan “703650” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ı) Listede yer alan “703650” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 3197 703650 Fluorescein Fundus anjiyografi (FFA), iki göz İ.V. Fluorescein ve Fundus fotoğrafı işleme dahildir.
 70,83 ”
 
-MADDE 45- Aynı Tebliğ eki Tanıya Dayalı İşlem Puan Listesi (EK-2/C)’nde aşağıdaki düzenlemeler yapılmıştır.
-a) Listede yer alan “P602200” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**MADDE 45- Aynı Tebliğ eki** Tanıya Dayalı İşlem Puan Listesi (EK-2/C)’**nde aşağıdaki düzenlemeler yapılmıştır.**
+**a) Listede yer alan “**P602200” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ P602200 Endoskopik dakriyosistorinostomi (DSR) C 906,58 ”
-b) Listede yer alan “P604155” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**b) Listede yer alan “**P604155” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ P604155 Sitoredüktif cerrahi ile birlikte hipertermik intraperitoneal kemoterapi Sağlık Bakanlığına bağlı üçüncü basamak sağlık hizmeti sunucularınca faturalandırılır.
 A3 3.548,90 ”
-c) Listede yer alan “P616550” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**c) Listede yer alan “**P616550” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 1729 P616550 Görüş alanına engel yaratan psödopitoz tedavisi C 578,08 ”
-ç)Listede yer alan “P616780” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ç)Listede yer alan “**P616780” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 1749 P616780 Dakriosistorinostomi (DSR), eksternal C * 771,84 ”
-d) Listede yer alan “P616790” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**d) Listede yer alan “**P616790” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 1750 P616790 Dakriosistorinostomi (DSR), endonazal C 867,12 ”
-e)Listede yer alan “P617020” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**e)Listede yer alan “**P617020” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 1770 P617020 Fototerapötik keratektomi (PTK) C 770,83 ”
-f) Listede yer alan “P617051” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**f) Listede yer alan “**P617051” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 1774 P617051 Korneal Cross-Linking uygulaması Topografi ve pakimetre ile tanı konulmuş keratokonus, postlasik ektazi veya pellusid marjinal dejenerasyonda, Sağlık Bakanlığına bağlı üçüncü basamak sağlık hizmeti sunucularınca faturalandırılır.
 E
 * 200,00 ”
-g) Listede yer alan “P617052” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**g) Listede yer alan “**P617052” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 1775 P617052 İntrakorneal halka uygulaması Topografi ve pakimetre ile tanı konulmuş keratokonus veya postlasik ektazide Sağlık Bakanlığına bağlı üçüncü basamak sağlık hizmeti sunucularınca faturalandırılır.
 D
 * 500,00 ”
-ğ) Listede yer alan “P700943” SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.
+**ğ) Listede yer alan “**P700943” **SUT kodlu işlem satırı aşağıdaki şekilde değiştirilmiştir.**
 “ 2338 P700943 Perkütan mitral kapak onarımı Sağlık Bakanlığına bağlı üçüncü basamak sağlık hizmeti sunucularınca faturalandırılır. Sistem seti ayrıca ödenir.
 B
 * 2.951,10 ”
@@ -324,11 +324,11 @@ MADDE46- Aynı Tebliğ eki Birden Fazla Branşta Kullanılan Tıbbi Malzemeler L
 a) Listede yer alan “EMİLEMEYEN SENTETİK KAYNAKLI ÇİFT YÜZLÜ YAMALAR” alt başlığı altında yer alan “Sağlık Uygulamaları Tebliği 3.1.4 ve 3.3.16. ve ilgili diğer hükümleri geçerlidir.” ibaresi yürüklükten kaldırılmıştır.
 b) Listede yer alan “ÇİFT YÜZLÜ (DUAL) YAMALAR” başlığı altına “Sağlık Uygulama Tebliği 3.1.4 ve 3.3.16. ve ilgili diğer hükümleri geçerlidir.” ibaresi eklenmiştir.
 
-MADDE 47- Aynı Tebliğin eki Eksternal Alt ve Üst Ekstremite/Gövde Protez Ortezler Listesi (Ek-3/C-2) 'nde aşağıdaki düzenlemeler yapılmıştır.
-a) Listenin “Myoelektrik Kontrollü Üst Ekstremite Protezleri” başlığının altında yer alan ödeme kural ve kriterlerinin ikinci fıkrasındaki “TSK Bilkent Rehabilitasyon Merkezince” ibaresi “Bilkent FTR Eğitim Araştırma Hastanesince” şeklinde değiştirilmiştir.
-b) Listenin “Özel Koşullar” başlıklı bölümünün 18 inci ve 19 uncu maddelerinde yer alan “TSK Bilkent Rehabilitasyon Merkezince” ibareleri “Bilkent FTR Eğitim Araştırma Hastanesince” şeklinde değiştirilmiştir.
+**MADDE 47- Aynı Tebliğin eki Eksternal Alt ve Üst Ekstremite/Gövde Protez Ortezler Listesi (Ek-3/C-2) 'nde aşağıdaki** düzenlemeler **yapılmıştır.**
+**a) Listenin “**Myoelektrik Kontrollü Üst Ekstremite Protezleri” başlığının altında yer alan ödeme kural ve kriterlerinin ikinci fıkrasındaki “TSK Bilkent Rehabilitasyon Merkezince” ibaresi “Bilkent FTR Eğitim Araştırma Hastanesince” şeklinde değiştirilmiştir.
+**b) Listenin “Özel Koşullar” başlıklı bölümünün** 18 inci ve 19 uncu maddelerinde yer alan “TSK Bilkent Rehabilitasyon Merkezince” ibareleri “Bilkent FTR Eğitim Araştırma Hastanesince” şeklinde değiştirilmiştir.
 
-MADDE 48- Aynı Tebliğ eki Özel Hallerde Karşılanan Tıbbi Malzemeler Listesi (Ek-3C-5)' nde yer alan "100050" SUT kodlu “Resiprokal Yürüme Ortezi” adlı tıbbi malzemenin altında yer alan ödeme kural ve kriterlerinin ikinci fıkrasındaki “TSK Bakım Ve Rehabilitasyon Merkezi” ibaresi “Bilkent FTR Eğitim Araştırma Hastanesi” şeklinde değiştirilmiştir.
+**MADDE 48- Aynı Tebliğ** eki Özel Hallerde Karşılanan Tıbbi Malzemeler Listesi (Ek-3C-5)' nde yer alan "100050" SUT kodlu “Resiprokal Yürüme Ortezi” adlı tıbbi malzemenin altında yer alan ödeme kural ve kriterlerinin ikinci fıkrasındaki “TSK Bakım Ve Rehabilitasyon Merkezi” ibaresi “Bilkent FTR Eğitim Araştırma Hastanesi” şeklinde değiştirilmiştir.
 
 MADDE 49- Aynı Tebliğ eki Omurga Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler Listesi (EK-3/E-1)’nde aşağıdaki düzenlemeler yapılmıştır.
 a) “102283” SUT kodlu tıbbi malzemenin altındaki ödeme kural ve/veya kriterlerine aşağıdaki fıkra eklenmiştir.
@@ -346,20 +346,20 @@ b) Listede yer alan “KV2001” SUT kodlu “MİTRAL HALKA (ANULUS) DARALTMA S�
 c) Listede yer alan “KV3002” SUT kodlu “ TRANSAPİKAL YAPAY KORDA GÖNDERME SİSTEMİ (BİR VEYA DAHA FAZLA KORDA)” adlı tıbbi malzemenin altındaki ödeme kural ve/veya kriterlerinin (c) bendindeki “3. basamak hastaneler ile 3. basamak TSK Hastanelerinde” ibaresi “3.
 basamak Sağlık Bakanlığı Hastanelerinde” şeklinde değiştirilmiştir.
 
-MADDE 52 – Aynı Tebliğ eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi (Ek-4/E)”nde aşağıdaki düzenlemeler yapılmıştır.
-a) “1-BETALAKTAM ANTİBİYOTİKLER” başlıklı kısmının “B) Sefalosporinler” alt başlıklı maddesinin “2. Kuşak Sefalosporinler” adlı alt bölümüne aşağıdaki satır eklenmiştir.
-“ Sefuroksim sodyum intrakameral enjeksiyoluk çözelti Yalnızca göz hastalıkları uzman hekimi tarafından yatan hastalarda reçete edilir.
+MADDE 52 **– Aynı Tebliğ eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi (Ek-4/E)”nde aşağıdaki düzenlemeler yapılmıştır.**
+**a) “1-BETALAKTAM ANTİBİYOTİKLER” başlıklı kısmının “B) Sefalosporinler” alt başlıklı maddesinin “2. Kuşak Sefalosporinler” adlı alt bölümüne aşağıdaki satır eklenmiştir.**
+“ **Sefuroksim sodyum intrakameral enjeksiyoluk çözelti** Yalnızca göz hastalıkları uzman hekimi tarafından yatan hastalarda reçete edilir.
 ”
-b) “5-KİNOLON GRUBU ANTİBİYOTİKLER” başlıklı kısmına aşağıdaki satır eklenmiştir.
-“ Levofloksasin oftalmik formları Göz hastalıkları uzman hekimi tarafından reçete edilir.
+**b) “5-KİNOLON GRUBU ANTİBİYOTİKLER” başlıklı kısmına aşağıdaki satır eklenmiştir.**
+“ **Levofloksasin oftalmik formları** Göz hastalıkları uzman hekimi tarafından reçete edilir.
 ”
-c) “11-ANTİVİRAL İLAÇLAR” başlıklı kısmının “A) HIV/AIDS Tedavisinde Kullanılan Spesifik İlaçlar” adlı alt bölümünde yer alan (15) numaralı satır aşağıdaki şekilde değiştirilmiştir.
-“ Dolutegravir Enfeksiyon Hastalıkları Uzmanlarınca düzenlenecek sağlık raporuna istinaden Enfeksiyon Hastalıkları Uzmanlarınca, bunların bulunmadığı yerlerde reçetenin açıklama bölümünde bu durumun belirtilmesi koşuluyla iç hastalıkları ve çocuk hastalıkları uzman hekimlerince reçetelenir.
-HIV-1 ile enfekte ve integraz sınıfına dirençli olmayan hastalarda maksimum 1x1 dozunda;
-HIV-1 ile enfekte ve integraz sınıfına dirençli olmayan veya dirençli olduğundan klinik olarak şüphe edilmeyen hastalarda; efavirenz, nevirapin, tipranavir/ritonavir veya rifampisin ile birlikte kullanıldığında dolutegravir maksimum 2x1 dozunda;
-HIV-1 ile enfekte ve integraz sınıfına dirençli olan hastalarda ise maksimum 2x1 dozunda kullanılır.
+**c) “11-ANTİVİRAL İLAÇLAR” başlıklı kısmının “A) HIV/AIDS Tedavisinde Kullanılan Spesifik İlaçlar” adlı alt bölümünde yer alan (15) numaralı satır aşağıdaki şekilde değiştirilmiştir.**
+“ Dolutegravir **Enfeksiyon Hastalıkları Uzmanlarınca düzenlenecek sağlık raporuna istinaden Enfeksiyon Hastalıkları Uzmanlarınca, bunların bulunmadığı yerlerde reçetenin açıklama bölümünde bu durumun belirtilmesi koşuluyla iç hastalıkları ve çocuk hastalıkları uzman hekimlerince reçetelenir.**
+**HIV-1 ile enfekte ve integraz sınıfına dirençli olmayan hastalarda maksimum 1x1 dozunda;**
+**HIV-1 ile enfekte ve integraz sınıfına dirençli olmayan veya dirençli olduğundan klinik olarak şüphe edilmeyen hastalarda; efavirenz, nevirapin, tipranavir/ritonavir veya rifampisin ile birlikte kullanıldığında dolutegravir maksimum 2x1 dozunda;**
+**HIV-1 ile enfekte ve integraz sınıfına dirençli olan hastalarda ise maksimum 2x1 dozunda kullanılır.**
 ”
-ç) “11-ANTİVİRAL İLAÇLAR” başlıklı kısmının “A) HIV/AIDS Tedavisinde Kullanılan Spesifik İlaçlar” adlı alt bölümüne aşağıdaki satır eklenmiştir.
+**ç) “11-ANTİVİRAL İLAÇLAR” başlıklı kısmının “A) HIV/AIDS Tedavisinde Kullanılan Spesifik İlaçlar” adlı alt bölümüne aşağıdaki satır eklenmiştir.**
 “ Abacavir + Dolutegravir + Lamivudin Enfeksiyon Hastalıkları Uzmanlarınca düzenlenecek sağlık raporuna istinaden Enfeksiyon Hastalıkları Uzmanlarınca, bunların bulunmadığı yerlerde reçetenin açıklama bölümünde bu durumun belirtilmesi koşuluyla iç hastalıkları ve çocuk hastalıkları uzman hekimlerince reçetelenir.
 ”
 
@@ -367,24 +367,24 @@ MADDE 53 – Aynı Tebliğ eki Ayakta Tedavide Sağlık Raporu (Uzman Hekim Rapo
 a) 36 numaralı maddesinde “cildiye” ibaresinden sonra gelmek üzere “, geriatri” ibaresi eklenmiştir
 b) 39 numaralı maddesinde yer alan “Risperidon” ibaresinden sonra gelmek üzere “, aripiprazol” ibaresi eklenmiştir.
 c) 45 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.
-“45. Solifenasin, Tolterodine-L, Trospiyum, Darifenasin, Propiverin, Fesoterodin; Oksibutinine yanıt alınamayan ya da tolere edemeyen hastalarda uzman hekimlerce raporsuz, uzman hekim raporuna dayanılarak tüm hekimlerce reçete edilir. Duloksetin, erişkin kadınlarda orta dereceli ve şiddetli Stres Üriner İnkontinans (SÜİ)'ın tedavisinde uzman hekimlerce raporsuz, uzman hekim raporuna dayanılarak tüm hekimlerce reçete edilir.”
+“45. Solifenasin, Tolterodine-L, Trospiyum, Darifenasin, Propiverin, Fesoterodin; Oksibutinine yanıt alınamayan <i>ya da tolere edemeyen hastalarda uzman hekimlerce raporsuz, uzman hekim raporuna dayanılarak tüm hekimlerce reçete edilir. Duloksetin</i>, erişkin kadınlarda orta dereceli ve şiddetli Stres Üriner İnkontinans (SÜİ)'ın tedavisinde uzman hekimlerce raporsuz, uzman hekim raporuna dayanılarak tüm hekimlerce reçete edilir.”
 ç) 51 numaralı maddesine sonuna aşağıdaki cümle eklenmiştir.
 “Anjiotensin reseptör blokerlerinin diğer antihipertansifler ile kombinasyonlarının kulllanılmında; hastanın monoterapi ile kan basıncının yeterli oranda kontrol altına alınamadığının raporda belirtilmesi gerekmektedir.”
 d) 55 numaralı maddesinde “nöroloji” ibaresinden sonra gelmek üzere “veya geriatri” ibaresi eklenmiştir.
-e) Listeye aşağıdaki maddeler eklenmiştir.
+**e) Listeye aşağıdaki maddeler eklenmiştir.**
 “65. Potasyum Iyodur tablet; uzman hekim raporuna dayanılarak tüm hekimlerce reçete edilir.
-66.
-Nitisinon; Tirozin ve fenilalanin kısıtlaması olan diyet ile birlikte, Tip 1 herediter tirozinemi (HT-1) tanısı doğrulanmış hastaların tedavisinde; bu durumun belirtildiği en az biri çocuk metabolizma uzman hekiminin yer aldığı 1 yıl süreli sağlık kurulu raporuna dayanılarak çocuk metabolizma uzman hekimleri tarafından reçete edilebilir.
-67. Adrenalin oto enjektör formları: İmmunoloji ve alerji uzman hekim raporuna dayanılarak tüm uzman hekimlerce reçete edilebilir.”
+**<i>66.</i>**
+**<i>Nitisinon; Tirozin ve fenilalanin kısıtlaması olan diyet ile birlikte, Tip 1 herediter tirozinemi (HT-1) tanısı doğrulanmış hastaların tedavisinde; bu durumun belirtildiği en az biri çocuk metabolizma uzman hekiminin yer aldığı 1 yıl süreli sağlık kurulu raporuna dayanılarak çocuk metabolizma uzman hekimleri tarafından reçete edilebilir.</i>**
+**67. Adrenalin oto enjektör formları: İmmunoloji ve alerji uzman hekim raporuna dayanılarak tüm uzman hekimlerce reçete edilebilir.”**
 
-MADDE 54 – Aynı Tebliğin Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (Ek-4/G)’nin dört numaralı maddesinde yer alan “Kolistimetat” ibaresinden sonra gelmek üzere “,Sefuroksim sodyum intrakameral enjeksiyonluk çözelti” ibaresi eklenmiştir.
+MADDE 54 – Aynı Tebliğin **Sadece Yatarak Tedavilerde Kullanımı Halinde Bedelleri Ödenecek İlaçlar Listesi (Ek-4/G)’nin dört numaralı maddesinde yer alan “**Kolistimetat” ibaresinden sonra gelmek üzere “,Sefuroksim sodyum intrakameral enjeksiyonluk çözelti” ibaresi eklenmiştir.
 
 MADDE 55- Bu Tebliğin;
-a) 2 nci maddesinin (b) bendi, 4, 5, 43, 44 üncü maddenin (a),(c),(ç),(d),(e) ve (ı) bentleri ile 45 inci maddenin (a),(c),(ç),(d), (e) bentleri 3/9/2016 tarihinden geçerli olmak üzere yayımı tarihinde,
-b) 1, 2 nci maddenin (a) bendi, 3,6,7,8,9,13,41,42, 44 üncü maddenin (b), (f), (g), (ğ), (h) bentleri, 45 inci maddenin (b), (f), (g), (ğ) bentleri, 47 ilâ 51 inci maddeleri yayımı tarihinden 10 gün sonra,
-c) 20 ve 21 inci maddeleri ile 22 nci madde ile değiştirilen “4.2.13.3.2 - Kronik Hepatit C tedavisinde genel hükümler” başlıklı maddesinin altıncı fıkrası hariç diğer hükümleri 18/6/2016 tarihinden geçerli olmak üzere yayımı tarihinde,
-ç) 12,14, 15 ilâ 19, 23 ilâ 40, 52 ilâ 54 üncü maddeleri yayımı tarihinden 5 iş günü sonra,
-d) 46 ncı maddesi 1/10/2014 tarihinden geçerli olmak üzere yayımı tarihinde,
-e) 10 ve 11 inci maddeleri ile 22 nci maddesi ile değiştirilen “4.2.13.3.2 - Kronik Hepatit C tedavisinde genel hükümler” başlıklı maddesinin altıncı fıkrası ve diğer maddeleri yayımı tarihinde, yürürlüğe girer.
+a) 2 nci **maddesinin (b) bendi, 4, 5, 43, 44 üncü maddenin (a),(c),(ç),(d),(e) ve (ı) bentleri ile 45 inci maddenin (a),(c),(ç),(d), (e) bentleri 3/9/2016 tarihinden geçerli olmak üzere yayımı tarihinde,**
+b) 1, 2 nci **maddenin (a) bendi, 3,6,7,8,9,13,41,42, 44 üncü maddenin (b), (f), (g), (ğ), (h) bentleri, 45 inci maddenin (b), (f), (g), (ğ) bentleri, 47 ilâ 51 inci maddeleri yayımı tarihinden 10 gün sonra,**
+**c) 20 ve 21 inci maddeleri ile 22 nci madde ile değiştirilen** “4.2.13.3.2 - Kronik Hepatit C tedavisinde genel hükümler” başlıklı maddesinin altıncı fıkrası **hariç diğer hükümleri 18/6/2016 tarihinden geçerli olmak üzere yayımı tarihinde,**
+**ç) 12,14, 15 ilâ 19, 23 ilâ 40, 52 ilâ 54 üncü maddeleri yayımı tarihinden 5 iş günü sonra,**
+**d) 46 ncı maddesi 1/10/2014 tarihinden geçerli olmak üzere yayımı tarihinde,**
+**e) 10 ve 11 inci maddeleri ile** 22 nci maddesi ile değiştirilen **“4.2.13.3.2 - Kronik Hepatit C tedavisinde genel hükümler”** başlıklı maddesinin altıncı fıkrası ve diğer maddeleri yayımı tarihinde, yürürlüğe girer.
 
-MADDE 56- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
+**MADDE 56-** Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.

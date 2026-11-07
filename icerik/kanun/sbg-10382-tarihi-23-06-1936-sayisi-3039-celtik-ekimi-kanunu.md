@@ -31,7 +31,7 @@ Başkan Olarak :Vali veya Kaymakam, Üye Olarak :Ziraat Odası Başkanı , Ziraa
 
 **Madde 8 –** Su taksimi ve sıra işlerinde çeltikçiler arasında çıkacak anlaşamamazlık ve dirliksizlikler mutemed heyeti tarafından düzeltilir.Mutemed heyetinin kararına razı olmayanlar çeltik komisyonuna baş vururlar.Komisyonun vereceği karar değişmez ve yapılır.
 
-BÖLÜM : III Çeltik ekenlerin yapmakla mükellef oldukları hükümler ve bu hükümlere aykırı gidenlere verilecek cezalar.
+**BÖLÜM : III Çeltik ekenlerin yapmakla mükellef oldukları hükümler ve bu hükümlere aykırı gidenlere verilecek cezalar.**
 
 **Madde 9 –** Yeniden çeltiklik yapacak olanlarla ötedenberi bulunan çeltikliklerden çeltik ekimini yapmak istiyenler, her yıl komisyonca ilan edilecek ekim vaktinden en aşağı üç ay önce çeltikliğin bulunduğu yerin,büyüklüğünü,bir sene önce tarlada ne ekilmiş olduğunu,sulama için kullanacakları suyun nereden alınacağını nerelerden geçeğini ve çeltik tarlalarından çıkacak suyun nereden geçerek nereye akacağını bildirir bir dilekçe ile yalnız başına veya toplu olarak o yerin en büyük mülkiye memuruna bildirmekle mükelleftirler.Bu dilekçe birinci maddede yazılı çeltik komisyonuna verilir.
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Tarım ve Orman Bakanlığından:
-GIDA KONTROL LABORATUVARLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**GIDA KONTROL LABORATUVARLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 18/2/2022 tarihli ve 31754 sayılı Resmî Gazete’de yayımlanan Gıda Kontrol Laboratuvarları Yönetmeliğinin 2 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve aynı maddenin ikinci fıkrasında yer alan “üretici birlikleri,” ibaresinden sonra gelmek üzere “yetiştirici birlikleri ve” ibaresi eklenmiştir.
 “(1) Bu Yönetmelik, gıda, yem, gıda ile temas eden madde ve malzeme, gıda üretimi amacıyla yetiştirilen bitkilerin yaprak, gövde, kök gibi bitki kısımları ve tohumluk analizlerinin yapıldığı Tarım ve Orman Bakanlığı Gıda Kontrol Laboratuvarları ile gıda, yem, gıda ile temas eden madde ve malzeme ve gıda üretimi amacıyla yetiştirilen ürünlerin yaprak, gövde, kök gibi bitki kısımları analizlerinin yapıldığı gerçek veya tüzel kişilerce kurulan veya kurulacak özel gıda kontrol laboratuvarlarının çalışma usul ve esaslarını kapsar.”

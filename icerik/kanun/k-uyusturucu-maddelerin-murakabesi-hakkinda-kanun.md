@@ -16,11 +16,11 @@ durum: "yürürlükte"
 
 ### UYUŞTURUCU MADDELERİN MURAKABESİ HAKKINDA KANUN
 
-Kanun Numarası : 2313
+**Kanun Numarası : 2313**
 
-Kabul Tarihi : 12/6/1933
+**Kabul Tarihi : 12/6/1933**
 
-Yayımlandığı Resmî Gazete : Tarih: 24/6/1933 Sayı: 2435
+**Yayımlandığı Resmî Gazete : Tarih: 24/6/1933 Sayı: 2435**
 
 #### Yayımlandığı Düstur : Tertip: 3 Cilt: 14 Sayfa: 564
 
@@ -72,13 +72,13 @@ Gümrüklerden ülkeye izinsiz sokulmaya çalışılan veya ülke içinde izinsi
 
 Zaptedilen uyuşturucu maddenin cins, vasıf ve miktarının kesin olarak saptanması amacıyla analizlere yetecek kadar örnek madde alınarak usulüne uygun şekilde ilgili laboratuvarlara gönderilir.
 
-(Değişik fıkra:28/3/2023-7445/7 md.) Uyuşturucu maddelerin kesin olarak raporları alındıktan sonra, yönetmelikte belirlenen usule uygun olarak alınacak örneklerin saklanması kaydıyla müsaderesine sulh ceza hâkimliğince soruşturmanın her safhasında karar verilir.
+**(Değişik fıkra:28/3/2023-7445/7 md.)** Uyuşturucu maddelerin kesin olarak raporları alındıktan sonra, yönetmelikte belirlenen usule uygun olarak alınacak örneklerin saklanması kaydıyla müsaderesine sulh ceza hâkimliğince soruşturmanın her safhasında karar verilir.
 
-(Değişik fıkra:28/3/2023-7445/7 md.) Müsaderesine karar verilen uyuşturucu maddeler gereği yapılmak üzere mühürlü olarak mahalli mülki amirliğe teslim edilir.
+**(Değişik fıkra:28/3/2023-7445/7 md.)** Müsaderesine karar verilen uyuşturucu maddeler gereği yapılmak üzere mühürlü olarak mahalli mülki amirliğe teslim edilir.
 
-(Değişik fıkra:28/3/2023-7445/7 md.) Örnek olarak alınan uyuşturucu maddeler hükümle birlikte müsadere edilir ve ancak hükmün kesinleşmesinden sonra mahalli mülki amirliğe teslim edilir.
+**(Değişik fıkra:28/3/2023-7445/7 md.)** Örnek olarak alınan uyuşturucu maddeler hükümle birlikte müsadere edilir ve ancak hükmün kesinleşmesinden sonra mahalli mülki amirliğe teslim edilir.
 
-(Ek: 27/2/2003-4819/1 md.) Yönetmelikte belirlenecek esaslar dahilinde, uyuşturucu madde arama köpeği eğitiminde kullanılmak üzere, ihtiyaç duyulacak cins ve miktarda uyuşturucu madde, İçişleri Bakanının talebi üzerine, İçişleri Bakanlığının ilgili bağlı kuruluşlarına; Millî Savunma Bakanının talebi üzerine Türk Silahlı Kuvvetlerine; Gümrük ve Ticaret Bakanının talebi üzerine Gümrükler Muhafaza Genel Müdürlüğüne; uyuşturucu maddelerin tıbbî amaçlı olarak kullanılabilirliğini araştırmak üzere ihtiyaç duyulacak cins ve miktarda uyuşturucu madde ise Tarım ve Köyişleri Bakanının talebi üzerine Tarım ve Köyişleri Bakanlığının ilgili bağlı kuruluşlarına teslim edilir.[5]
+**(Ek: 27/2/2003-4819/1 md.)** Yönetmelikte belirlenecek esaslar dahilinde, uyuşturucu madde arama köpeği eğitiminde kullanılmak üzere, ihtiyaç duyulacak cins ve miktarda uyuşturucu madde, İçişleri Bakanının talebi üzerine, İçişleri Bakanlığının ilgili bağlı kuruluşlarına; Millî Savunma Bakanının talebi üzerine Türk Silahlı Kuvvetlerine; Gümrük ve Ticaret Bakanının talebi üzerine Gümrükler Muhafaza Genel Müdürlüğüne; uyuşturucu maddelerin tıbbî amaçlı olarak kullanılabilirliğini araştırmak üzere ihtiyaç duyulacak cins ve miktarda uyuşturucu madde ise Tarım ve Köyişleri Bakanının talebi üzerine Tarım ve Köyişleri Bakanlığının ilgili bağlı kuruluşlarına teslim edilir.[5]
 
 3491 sayılı Toprak Mahsulleri Ofisi Kanununun 27 nci maddesinin (F) fıkrası hükümleri saklıdır.
 
@@ -86,23 +86,23 @@ Zaptedilen uyuşturucu maddenin cins, vasıf ve miktarının kesin olarak saptan
 
 Müsaderesine karar verilen uyuşturucu maddeler, valinin görevlendireceği bir yetkilinin başkanlığındaki ve il savcısının veya yardımcısının nezaretçi olarak katıldığı heyet huzurunda imha edilir.
 
-(Değişik: 27/2/2003-4819/2 md.) Uyuşturucu madde arama köpeği eğitiminde kullanılmak üzere İçişleri Bakanlığına, Türk Silahlı Kuvvetlerine ve Gümrük ve Ticaret Bakanlığına ; tıbbî amaçlı olarak kullanılabilirliğini araştırmak için Tarım ve Köyişleri Bakanlığına ihtiyaç duyulacak cins ve miktarda uyuşturucu maddenin teslimi, kullanımı, muhafazası ve imhası usulü ile ilgili hususlar Adalet ve Sağlık Bakanlıkları ile Gümrük ve Ticaret Bakanlığının görüşü alınarak İçişleri, Millî Savunma ve Tarım ve Köyişleri bakanlıklarınca altı ay içerisinde yürürlüğe konulacak bir yönetmelikte belirlenir.[6]
+**(Değişik: 27/2/2003-4819/2 md.)** Uyuşturucu madde arama köpeği eğitiminde kullanılmak üzere İçişleri Bakanlığına, Türk Silahlı Kuvvetlerine ve Gümrük ve Ticaret Bakanlığına ; tıbbî amaçlı olarak kullanılabilirliğini araştırmak için Tarım ve Köyişleri Bakanlığına ihtiyaç duyulacak cins ve miktarda uyuşturucu maddenin teslimi, kullanımı, muhafazası ve imhası usulü ile ilgili hususlar Adalet ve Sağlık Bakanlıkları ile Gümrük ve Ticaret Bakanlığının görüşü alınarak İçişleri, Millî Savunma ve Tarım ve Köyişleri bakanlıklarınca altı ay içerisinde yürürlüğe konulacak bir yönetmelikte belirlenir.[6]
 
 **Madde 22 –** İkinci ve üçüncü maddelerde memnu olduğu yazılı olan müstahzar afyon ile esrar her nerede görülürse görülsün hemen zaptolunur ve bunlar hakkında da 20 ve 21 inci maddeler hükümleri tatbik olunur.
 
 **Madde 23 –** (Değişik: 23/5/1990-3652/1 md.)
 
-(Değişik:23/3/2023-7442/1 md.) Lif, tohum ve sap üretimi ile tıbbi ürünler, sağlık ürünleri, uyuşturucu etkisi olmayacak oranda kişisel bakım ürünleri ve destek ürünleri elde etmeye yönelik çiçek ve yaprak üretimi amaçlı kenevir yetiştiriciliği, Tarım ve Orman Bakanlığının iznine tabidir. Lif, tohum ve sap üretimi amacıyla izinli kenevir yetiştiriciliği Tarım ve Orman Bakanlığınca çıkarılacak yönetmelikle düzenlenir. Tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünleri üretimi amaçlı kenevir yetiştiriciliği (…) 7 Toprak Mahsulleri Ofisi Genel Müdürlüğü tarafından yapılır veya yaptırılır. Gerektiğinde ülke arz ve talep durumuna göre Cumhurbaşkanınca belirlenen kota doğrultusunda, Toprak Mahsulleri Ofisi Genel Müdürlüğü kontrolünde gerçek veya tüzel kişilere yaptırılabilir. Tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünleri üretimi amaçlı kenevir yetiştiriciliğinde, münhasıran esrar elde edilmesini engelleyecek her türlü tedbirin alınması, kenevirin yetiştirilmesi ve hasadına ilişkin usul ve esaslar, İçişleri Bakanlığı ve Sağlık Bakanlığının görüşleri alınmak suretiyle Tarım ve Orman Bakanlığınca çıkarılacak yönetmelikle belirlenir. (Ek cümleler:21/7/2025-7557/9 md.) Kenevirden elde edilen tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünlerine yönelik ruhsatlandırma ya da takip sistemlerine kayıt işlemleri Sağlık Bakanlığınca gerçekleştirilir. Bu ürünler sadece eczanelerden satılabilir. Bu ürünlerin izin ve satışı ile kenevirin işlenmesi, ihzarı ve ihracına ilişkin usul ve esaslar, İçişleri Bakanlığı ve Tarım ve Orman Bakanlığının görüşü alınarak Sağlık Bakanlığınca çıkarılacak yönetmelikle belirlenir. [7]
+**(Değişik:23/3/2023-7442/1 md.)** Lif, tohum ve sap üretimi ile tıbbi ürünler, sağlık ürünleri, uyuşturucu etkisi olmayacak oranda kişisel bakım ürünleri ve destek ürünleri elde etmeye yönelik çiçek ve yaprak üretimi amaçlı kenevir yetiştiriciliği, Tarım ve Orman Bakanlığının iznine tabidir. Lif, tohum ve sap üretimi amacıyla izinli kenevir yetiştiriciliği Tarım ve Orman Bakanlığınca çıkarılacak yönetmelikle düzenlenir. Tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünleri üretimi amaçlı kenevir yetiştiriciliği (…) 7 Toprak Mahsulleri Ofisi Genel Müdürlüğü tarafından yapılır veya yaptırılır. Gerektiğinde ülke arz ve talep durumuna göre Cumhurbaşkanınca belirlenen kota doğrultusunda, Toprak Mahsulleri Ofisi Genel Müdürlüğü kontrolünde gerçek veya tüzel kişilere yaptırılabilir. Tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünleri üretimi amaçlı kenevir yetiştiriciliğinde, münhasıran esrar elde edilmesini engelleyecek her türlü tedbirin alınması, kenevirin yetiştirilmesi ve hasadına ilişkin usul ve esaslar, İçişleri Bakanlığı ve Sağlık Bakanlığının görüşleri alınmak suretiyle Tarım ve Orman Bakanlığınca çıkarılacak yönetmelikle belirlenir. **(Ek cümleler:21/7/2025-7557/9 md.)** Kenevirden elde edilen tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünlerine yönelik ruhsatlandırma ya da takip sistemlerine kayıt işlemleri Sağlık Bakanlığınca gerçekleştirilir. Bu ürünler sadece eczanelerden satılabilir. Bu ürünlerin izin ve satışı ile kenevirin işlenmesi, ihzarı ve ihracına ilişkin usul ve esaslar, İçişleri Bakanlığı ve Tarım ve Orman Bakanlığının görüşü alınarak Sağlık Bakanlığınca çıkarılacak yönetmelikle belirlenir. [7]
 
 Her ne maksatla olursa olsun izinsiz olarak kenevir yetiştirmek yasaktır. İzinsiz yetiştirilen kenevir bitkisi, Tarım Orman ve Köyişleri Bakanlığı teşkilatında görevli ziraat mühendislerinin, bunların bulunmadığı yerlerde ziraat teknisyenlerinin vereceği rapor üzerine mahallin en büyük mülki amirinin emriyle zabıta tarafından imha edilir veya ettirilir.
 
 İmhada kullanılacak araç ve gereçler, Jandarma Genel Komutanlığı bütçesine konulacak ödenekten sağlanır. İmha dolayısıyla ortaya çıkan masraf, sonradan izinsiz ekim yapanlardan 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre tahsil edilir.
 
-(Değişik dördüncü fıkra: 23/1/2008-5728/77 md.) İzin belgesi almadan ya da izin belgesi almasına rağmen bilerek belgesinde belirtilen alandan fazla yerde veya izin belgesinde kayıtlı yerden başka yerde kenevir ekimi yapan kişi, elli günden az olmamak üzere adlî para cezası ile cezalandırılır.
+**(Değişik dördüncü fıkra: 23/1/2008-5728/77 md.)** İzin belgesi almadan ya da izin belgesi almasına rağmen bilerek belgesinde belirtilen alandan fazla yerde veya izin belgesinde kayıtlı yerden başka yerde kenevir ekimi yapan kişi, elli günden az olmamak üzere adlî para cezası ile cezalandırılır.
 
-(Ek fıkra: 23/1/2008-5728/77 md.; Değişik birinci cümle: 18/6/2014-6545/1 md.) Esrar elde etmek amacıyla kenevir ekimi yapan kişi dört yıldan on iki yıla kadar hapis ve beşyüz günden onbin güne kadar adlî para cezası ile cezalandırılır. (Ek cümle: 18/6/2014-6545/1 md.) Münhasıran kendi kullanımı için ihtiyaç duyduğu esrarı elde etmek amacıyla kenevir ekimi yapan kişi bir yıldan üç yıla kadar hapis cezası ile cezalandırılır. Bu madde kapsamında ekim yapma ibaresinden, tohumun toprağa ekilmesinden ürünün hasadına kadarki süreç anlaşılır.[8]
+**(Ek fıkra: 23/1/2008-5728/77 md.; Değişik birinci cümle: 18/6/2014-6545/1 md.)** Esrar elde etmek amacıyla kenevir ekimi yapan kişi dört yıldan on iki yıla kadar hapis ve beşyüz günden onbin güne kadar adlî para cezası ile cezalandırılır. **(Ek cümle: 18/6/2014-6545/1 md.)** Münhasıran kendi kullanımı için ihtiyaç duyduğu esrarı elde etmek amacıyla kenevir ekimi yapan kişi bir yıldan üç yıla kadar hapis cezası ile cezalandırılır. Bu madde kapsamında ekim yapma ibaresinden, tohumun toprağa ekilmesinden ürünün hasadına kadarki süreç anlaşılır.[8]
 
-(Ek fıkra: 15/8/2017-KHK-694/10 md.; Aynen kabul: 1/2/2018-7078/10 md.) Esrar elde etmek amacıyla kenevir ekmek suçu bakımından 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 135 inci maddesinde yer alan iletişimin tespiti, dinlenmesi ve kayda alınması ile 140 ıncı maddesinde yer alan teknik araçlarla izleme tedbirlerine ilişkin hükümler uygulanabilir.
+**(Ek fıkra: 15/8/2017-KHK-694/10 md.; Aynen kabul: 1/2/2018-7078/10 md.)** Esrar elde etmek amacıyla kenevir ekmek suçu bakımından 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 135 inci maddesinde yer alan iletişimin tespiti, dinlenmesi ve kayda alınması ile 140 ıncı maddesinde yer alan teknik araçlarla izleme tedbirlerine ilişkin hükümler uygulanabilir.
 
 **Madde 24 –** (Değişik: 23/1/2008-5728/78 md.)
 
@@ -130,9 +130,9 @@ Uyuşturucu maddeleri 15 inci maddede zikredilenlerden başkalarına satan ecza 
 
 Yukarıdaki fıkraya göre izin verilirken ilgili kuruluşlardan görüş alınması ve izin verme esas ve usullerinin Sağlık Bakanlığınca çıkarılacak yönetmelikte gösterilmesi gerekir.
 
-(Değişik üçüncü fıkra: 23/1/2008-5728/80 md.) Birinci fıkrada belirtilen maddelerden herhangi birini izinsiz imal, ithal ve ihraç edenler, nakledenler veya bulunduranlar, satın alanlar veya satanlara, mahallî mülkî amir tarafından onbin Türk Lirasından yüzbin Türk Lirasına kadar idarî para cezası verilir. Ayrıca, bu maddelerin mülkiyetinin kamuya geçirilmesine karar verilir.
+**(Değişik üçüncü fıkra: 23/1/2008-5728/80 md.)** Birinci fıkrada belirtilen maddelerden herhangi birini izinsiz imal, ithal ve ihraç edenler, nakledenler veya bulunduranlar, satın alanlar veya satanlara, mahallî mülkî amir tarafından onbin Türk Lirasından yüzbin Türk Lirasına kadar idarî para cezası verilir. Ayrıca, bu maddelerin mülkiyetinin kamuya geçirilmesine karar verilir.
 
-(Değişik dördüncü fıkra: 23/1/2008-5728/80 md.) Birinci fıkrada belirtilen maddelerden herhangi birini, uyuşturucu veya uyarıcı maddelerin imalatında kullanılmak amacıyla imal, ithal veya ihraç edenler, nakledenler veya bulunduranlar, satın alan veya satanlar, Türk Ceza Kanununun 188 inci maddesine göre cezalandırılır.
+**(Değişik dördüncü fıkra: 23/1/2008-5728/80 md.)** Birinci fıkrada belirtilen maddelerden herhangi birini, uyuşturucu veya uyarıcı maddelerin imalatında kullanılmak amacıyla imal, ithal veya ihraç edenler, nakledenler veya bulunduranlar, satın alan veya satanlar, Türk Ceza Kanununun 188 inci maddesine göre cezalandırılır.
 
 3298 sayılı Uyuşturucu Maddelerle İlgili Kanun hükümleri saklıdır.
 
@@ -193,38 +193,38 @@ Bu maddenin yürürlüğe girdiği tarihten önce elkonulmuş uyuşturucu veya u
 | 7445 | 20, Geçici Madde 2 | 5/4/2023 |
 | 7557 | 23 | 24/7/2025 |
 
-<small>[1] 12.4.1988 tarih ve 19783 sayılı Resmî Gazete'de yayımlanan 88/12773 sayılı Kararname ile Fenetyline isimli kimyasal madde ve tuzlar ile bu maddeleri ihtiva eden müstahzarlar da bu Kanun kapsamına alınmışlardır.</small>
+<small>[1] <i>12.4.1988 tarih ve 19783 sayılı Resmî Gazete'de yayımlanan 88/12773 sayılı Kararname ile Fenetyline isimli kimyasal madde ve tuzlar ile bu maddeleri ihtiva eden müstahzarlar da bu Kanun kapsamına alınmışlardır.</i></small>
 
-<small>[2] a) 16/12/2013 tarihli ve 2013/5742 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</small>
+<small>[2] <i>a) 16/12/2013 tarihli ve 2013/5742 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</i></small>
 
-b) 22/5/2013 tarihli ve 2013/4827 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.
+<i>b) 22/5/2013 tarihli ve 2013/4827 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</i>
 
-c) 3/1/2014 tarihli ve 2014/5818 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.
+<i>c) 3/1/2014 tarihli ve 2014/5818 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</i>
 
-ç) 15/9/2014 tarihli ve 2014/6800 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.
+<i>ç) 15/9/2014 tarihli ve 2014/6800 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</i>
 
-d) 26/1/2015 tarihli ve 2015/7238 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.
+<i>d) 26/1/2015 tarihli ve 2015/7238 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</i>
 
-e) Bu maddenin uygulanması ile ilgili olarak 16/2/2016 tarihli ve 2016/8548 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
+<i>e) Bu maddenin uygulanması ile ilgili olarak 16/2/2016 tarihli ve 2016/8548 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.</i>
 
-f) 27/12/2016 tarihli ve 2016/9712 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.
+<i>f) 27/12/2016 tarihli ve 2016/9712 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</i>
 
-g) 3/7/2017 tarihli ve 2017/10559 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.
+<i>g) 3/7/2017 tarihli ve 2017/10559 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</i>
 
-ğ) 30/4/2018 tarihli ve 2018/11697 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.
+<i>ğ) 30/4/2018 tarihli ve 2018/11697 sayılı Bakanlar Kurulu Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</i>
 
-h) 9/1/2026 tarihli ve 10851 sayılı Cumhurbaşkanı Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.
+<i>h) 9/1/2026 tarihli ve 10851 sayılı Cumhurbaşkanı Kararı ile Kararın eki listede yer alan maddeler 2313 sayılı Kanun hükümleri kapsamına alınmıştır.</i>
 
-<small>[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 12 nci maddesiyle, bu maddede yer alan “İcra Vekilleri Heyeti” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 12 nci maddesiyle, bu maddede yer alan “İcra Vekilleri Heyeti” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 3/6/2011 tarihli ve 640 sayılı KHK’nin 40 ncı maddesiyle, bu maddenin birinci fıkrasında yer alan "gümrük ve tekel" ve "Tekel İdaresi" ibareleri "Gümrük ve Ticaret Bakanlığı" şeklinde değiştirilmiştir.</small>
+<small>[4] <i>3/6/2011 tarihli ve 640 sayılı KHK’nin 40 ncı maddesiyle, bu maddenin birinci fıkrasında yer alan "gümrük ve tekel" ve "Tekel İdaresi" ibareleri "Gümrük ve Ticaret Bakanlığı" şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] 3/6/2011 tarihli ve 640 sayılı KHK’nin 40 ncı maddesiyle, bu fıkrada yer alan "Türk Silahlı Kuvvetlerine;" ibaresinden sonra gelmek üzere "Gümrük ve Ticaret Bakanının talebi üzerine Gümrükler Muhafaza Genel Müdürlüğüne;" ibaresi eklenmiştir.</small>
+<small>[5] <i>3/6/2011 tarihli ve 640 sayılı KHK’nin 40 ncı maddesiyle, bu fıkrada yer alan "Türk Silahlı Kuvvetlerine;" ibaresinden sonra gelmek üzere "Gümrük ve Ticaret Bakanının talebi üzerine Gümrükler Muhafaza Genel Müdürlüğüne;" ibaresi eklenmiştir.</i></small>
 
-<small>[6] 3/6/2011 tarihli ve 640 sayılı KHK’nin 40 ncı maddesiyle, bu fıkrada yer alan "İçişleri Bakanlığına ve Türk Silahlı Kuvvetlerine" ibaresi "İçişleri Bakanlığına, Türk Silahlı Kuvvetlerine ve Gümrük ve Ticaret Bakanlığına" ve "bakanlıklarının" ibaresi "Bakanlıkları ile Gümrük ve Ticaret Bakanlığının" şeklinde değiştirilmiştir.</small>
+<small>[6] <i>3/6/2011 tarihli ve 640 sayılı KHK’nin 40 ncı maddesiyle, bu fıkrada yer alan "İçişleri Bakanlığına ve Türk Silahlı Kuvvetlerine" ibaresi "İçişleri Bakanlığına, Türk Silahlı Kuvvetlerine ve Gümrük ve Ticaret Bakanlığına" ve "bakanlıklarının" ibaresi "Bakanlıkları ile Gümrük ve Ticaret Bakanlığının" şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] 21/7/2025 tarihli ve 7557 sayılı Kanunun 9 uncu maddesiyle bu fıkranın birinci cümlesinde yer alan “ilaç etkin maddesi” ibaresi “tıbbi ürünler, sağlık ürünleri, uyuşturucu etkisi olmayacak oranda kişisel bakım ürünleri ve destek ürünleri” şeklinde, üçüncü cümlesinde yer alan “İlaç etkin maddesi üretimi” ibaresi “Tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünleri üretimi” şeklinde değiştirilmiş, “ve/veya işlenmesi” ibaresi madde metninden çıkarılmış, beşinci cümlesinde yer alan “İlaç etkin maddesi üretimi” ibaresi “Tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünleri üretimi” şeklinde, “kenevirin hasadı, işlenmesi, ihzarı, ihracı veya satışına” ibaresi “kenevirin yetiştirilmesi ve hasadına” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>21/7/2025 tarihli ve 7557 sayılı Kanunun 9 uncu maddesiyle bu fıkranın birinci cümlesinde yer alan “ilaç etkin maddesi” ibaresi “tıbbi ürünler, sağlık ürünleri, uyuşturucu etkisi olmayacak oranda kişisel bakım ürünleri ve destek ürünleri” şeklinde, üçüncü cümlesinde yer alan “İlaç etkin maddesi üretimi” ibaresi “Tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünleri üretimi” şeklinde değiştirilmiş, “ve/veya işlenmesi” ibaresi madde metninden çıkarılmış, beşinci cümlesinde yer alan “İlaç etkin maddesi üretimi” ibaresi “Tıbbi ürünler, sağlık ürünleri ile kişisel bakım ürünleri ve destek ürünleri üretimi” şeklinde, “kenevirin hasadı, işlenmesi, ihzarı, ihracı veya satışına” ibaresi “kenevirin yetiştirilmesi ve hasadına” şeklinde değiştirilmiştir.</i></small>
 
-<small>[8] 15/8/2017 tarihli ve 694 sayılı KHK’nin 10 uncu maddesiyle, bu fıkrada yer alan “on iki yıla kadar hapis” ibaresinden sonra gelmek üzere “ve beşyüz günden onbin güne kadar adlî para” ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 10 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.</small>
+<small>[8] <i>15/8/2017 tarihli ve 694 sayılı KHK’nin 10 uncu maddesiyle, bu fıkrada yer alan “on iki yıla kadar hapis” ibaresinden sonra gelmek üzere “ve beşyüz günden onbin güne kadar adlî para” ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 10 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.</i></small>
 
-<small>[9] Anayasa Mahkemesinin 20/7/2022 tarihli ve E.: 2020/98, K.: 2022/87 sayılı Kararı ile bu fıkranın üçüncü cümlesi “c” bendi ve “satış dışı yöntemlerle tasfiye” yönünden iptal edilmiştir.</small>
+<small>[9] <i>Anayasa Mahkemesinin 20/7/2022 tarihli ve E.: 2020/98, K.: 2022/87 sayılı Kararı ile bu fıkranın üçüncü cümlesi “c” bendi ve “satış dışı yöntemlerle tasfiye” yönünden iptal edilmiştir.</i></small>

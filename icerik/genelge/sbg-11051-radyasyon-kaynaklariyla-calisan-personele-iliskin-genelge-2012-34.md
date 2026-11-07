@@ -47,7 +47,7 @@ Yönetmelikte yapılan düzenlemelere ilişkin aşağıdaki hususların duyurulm
 Bilgilerinizi ve konunun ilgililere tebliği ile gereğini rica ederim.
 
 Prof. Dr. Nihat TOSUN  
-Bakan a.  
+**Bakan a.**  
 Müsteşar
 
 **Dağıtım**  

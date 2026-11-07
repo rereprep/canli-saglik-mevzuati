@@ -13,9 +13,9 @@ durum: "yürürlükte"
 
 KAMU MALÎ YÖNETİMİ VE KONTROL KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE
 KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA
-Kanun Kamu Malî Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Kanun No. 5436 Kabul Tarihi : 22.12.2005
+**Kanun Kamu Malî Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun** Kanun No. 5436 Kabul Tarihi : 22.12.2005
 
-MADDE 1. - 10.12.2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 31 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1. -** 10.12.2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 31 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 31. - Bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi harcama yetkilisidir.
 Ancak, teşkilât yapısı ve personel durumu gibi nedenlerle harcama yetkililerinin belirlenmesinde güçlük bulunan idareler ile bütçelerinde harcama birimleri sınıflandırılmayan idarelerde harcama yetkisi, üst yönetici veya üst yöneticinin belirleyeceği kişiler tarafından; mahallî idarelerde İçişleri Bakanlığının, diğer idarelerde ise Maliye Bakanlığının uygun görüşü üzerine yürütülebilir.
@@ -24,7 +24,7 @@ Genel yönetim kapsamındaki kamu idarelerinde;
 idareler, merkez ve merkez dışı birimler ve görev unvanları itibarıyla harcama yetkililerinin belirlenmesine, harcama yetkisinin bir üst yönetim kademesinde birleştirilmesine ve devredilmesine ilişkin usûl ve esaslar Maliye Bakanlığınca belirlenir. Harcama yetkisinin devredilmesi, yetkiyi devredenin idarî sorumluluğunu ortadan kaldırmaz.
 Harcama yetkilileri bütçede öngörülen ödenekleri kadar, ödenek gönderme belgesiyle kendisine ödenek verilen harcama yetkilileri ise tahsis edilen ödenek tutarında harcama yapabilir.
 
-MADDE 2.- 5018 sayılı Kanunun 34 üncü maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 2.-** 5018 sayılı Kanunun 34 üncü maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 Ödenemeyen giderler ve bütçeleştirilmiş borçlar
 
 Madde 34.- Ödeme emri belgesine bağlandığı halde ödenemeyen tutarlar, bütçeye gider yazılarak emanet hesaplarına alınır ve buradan ödenir. Ancak, malın alındığı veya hizmetin yapıldığı malî yılı izleyen beşinci yılın sonuna kadar talep edilmeyen emanet hesaplarındaki tutarlar bütçeye gelir kaydedilir. Gelir kaydedilen tutarlar, mahkeme kararı üzerine ödenir.
@@ -32,7 +32,7 @@ Kamu idarelerinin nakit mevcudunun tüm ödemeleri karşılayamaması halinde gi
 İlgili olduğu malî yılın sonundan başlayarak beş yıl içinde alacaklıları tarafından geçerli bir mazerete dayanmaksızın, yazılı talep edilmediğinden veya belgeleri verilmediğinden dolayı ödenemeyen borçlar zamanaşımına uğrayarak kamu idareleri lehine düşer.
 Genel bütçe kapsamındaki kamu idarelerinde, bir taahhüde ve harcama talimatına dayanmayan giderlere ilişkin olup, Maliye Bakanlığınca belirlenecek ekonomik kodlardan yapılan ve bütçede ödeneği öngörülmüş olmakla birlikte, oluştuğu yer ve zamanda ödeneği bulunmayan giderler; dayanağını oluşturan harcama belgeleri de eklenmek suretiyle usûlüne göre gerçekleştirilerek ilgili hesaplara alınır ve ödeneğinin gelmesini müteakip ödenir. Bu tutarlara ilişkin ödenek gönderme belgeleri, en geç malî yılın sonuna kadar muhasebe birimine gönderilerek muhasebeleştirme işlemleri tamamlanır. Bu fıkranın uygulanmasına ilişkin usûl ve esaslar Maliye Bakanlığınca belirlenir.
 
-MADDE 3.- 5018 sayılı Kanunun 41 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 3.-** 5018 sayılı Kanunun 41 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 41.- Üst yöneticiler ve bütçeyle ödenek tahsis edilen harcama yetkililerince, hesap verme sorumluluğu çerçevesinde, her yıl faaliyet raporu hazırlanır. Üst yönetici, harcama yetkilileri tarafından hazırlanan birim faaliyet raporlarını esas alarak, idaresinin faaliyet sonuçlarını gösteren idare faaliyet raporunu düzenleyerek kamuoyuna açıklar.
 Merkezî yönetim kapsamındaki kamu idareleri ve sosyal güvenlik kurumları, idare faaliyet raporlarının birer örneğini Sayıştaya ve Maliye Bakanlığına gönderir.
@@ -43,13 +43,13 @@ Sayıştay, mahallî idarelerin raporları hariç idare faaliyet raporlarını, 
 İdare faaliyet raporu, ilgili idare hakkındaki genel bilgilerle birlikte; kullanılan kaynakları, bütçe hedef ve gerçekleşmeleri ile meydana gelen sapmaların nedenlerini, varlık ve yükümlülükleri ile yardım yapılan birlik, kurum ve kuruluşların faaliyetlerine ilişkin bilgileri de kapsayan malî bilgileri; stratejik plan ve performans programı uyarınca yürütülen faaliyetleri ve performans bilgilerini içerecek şekilde düzenlenir.
 Bu raporlarda yer alacak hususlar, raporların hazırlanması, ilgili idarelere verilmesi, kamuoyuna açıklanması ve bu işlemlere ilişkin süreler ile diğer usûl ve esaslar, İçişleri Bakanlığı ve Sayıştayın görüşü alınarak Maliye Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.
 
-MADDE 4. - 5018 sayılı Kanunun 47 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 4. -** 5018 sayılı Kanunun 47 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 47. - Kamu idareleri, kanunlarında belirtilen kamu hizmetlerini yerine getirebilmek için mülkiyetlerindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri, birbirlerine ve köy tüzel kişiliklerine bedelsiz olarak tahsis edebilirler. Tahsis edilen taşınmaz, amaç dışı kullanılamaz.
 Hazinenin özel mülkiyetindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri tahsis etmeye, kamu ihtiyaçları için gerekli olmayanların tahsisini kaldırmaya Maliye Bakanlığı; diğer taşınmazları tahsis etmeye ve tahsisini kaldırmaya ise maliki kamu idaresi yetkilidir. Bu maddenin uygulanmasına ilişkin esas ve usûller Maliye Bakanlığınca çıkarılacak yönetmelikle belirlenir.
 Kanunlardaki özel hükümler saklıdır.
 
-MADDE 5.- 5018 sayılı Kanunun 49 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 5.-** 5018 sayılı Kanunun 49 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 49.- Muhasebe sistemi; karar, kontrol ve hesap verme süreçlerinin etkili çalışmasını sağlayacak ve malî raporların düzenlenmesi ile kesin hesabın çıkarılmasına temel olacak şekilde kurulur ve yürütülür.
 Kamu hesapları, kamu idarelerinin gelir, gider ve varlıkları ile malî sonuç doğuran ve öz kaynağın artmasına veya azalmasına neden olan her türlü işlemlerle garantilerin ve yükümlülüklerin belirlenmiş bir düzen içinde hesaplara kaydedilerek, yönetim ve denetim yetkilileriyle kamuoyuna gerekli bilgilerin sağlanması amacıyla tutulur.
@@ -58,7 +58,7 @@ Bu Kurulda görevlendirilenlerin aslî görevleri devam eder. Başkan ve üyeler
 Genel yönetim kapsamındaki kamu idarelerince uygulanacak çerçeve hesap planı ile düzenlenecek raporların şekil, süre ve türlerine ilişkin hususlar, Kurul tarafından belirlenen muhasebe ve raporlama standartları çerçevesinde, ilgili idarelerin de görüşü alınarak Maliye Bakanlığınca belirlenir ve Bakanlar Kurulu kararıyla yürürlüğe konulacak yönetmelikle düzenlenir.
 Muhasebe işlemlerine, hesap planlarına ve işlemlerin muhasebeleştirilmesinde kullanılacak belgelerin şekil ve türlerine ilişkin düzenleme, beşinci fıkrada belirtilen yönetmeliğe uygun olarak, ilgili idarelerin görüşü alınmak suretiyle merkezî yönetim kapsamındaki kamu idareleri için Maliye Bakanlığınca; sosyal güvenlik kurumları için ilgili idarelerce, mahallî idareler için ise İçişleri Bakanlığınca Maliye Bakanlığının uygun görüşü alınmak suretiyle hazırlanır. Genel yönetim kapsamındaki kamu idarelerinin detaylı hesap planlarına ilişkin hususlar Maliye Bakanlığınca belirlenir.
 
-MADDE 6.- 5018 sayılı Kanunun 58 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+**MADDE 6.-** 5018 sayılı Kanunun 58 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
 Ön malî kontrol
 
 Madde 58.- Ön malî kontrol, harcama birimlerinde işlemlerin gerçekleştirilmesi aşamasında yapılan kontroller ile malî hizmetler birimi tarafından yapılan kontrolleri kapsar.
@@ -66,7 +66,7 @@ Madde 58.- Ön malî kontrol, harcama birimlerinde işlemlerin gerçekleştirilm
 Kamu idarelerinde ön malî kontrol görevi, yönetim sorumluluğu çerçevesinde yürütülür.
 Harcama birimlerinde işlemlerin gerçekleştirilmesi aşamasında yapılacak asgarî kontroller, malî hizmetler birimi tarafından ön malî kontrole tâbi tutulacak malî karar ve işlemlerin usûl ve esasları ile ön malî kontrole ilişkin standart ve yöntemler Maliye Bakanlığınca belirlenir. Kamu idareleri, bu standart ve yöntemlere aykırı olmamak şartıyla bu konuda düzenleme yapabilir.
 
-MADDE 7.- 5018 sayılı Kanunun 60 ıncı maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 7.-** 5018 sayılı Kanunun 60 ıncı maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 60.- Kamu idarelerinde aşağıda sayılan görevler, malî hizmetler birimi tarafından yürütülür:
 a) İdarenin stratejik plan ve performans programının hazırlanmasını koordine etmek ve sonuçlarının konsolide edilmesi çalışmalarını yürütmek.
@@ -88,7 +88,7 @@ Malî hizmetler biriminin yapısı teşkilât kanunlarında gösterilir. Malî h
 Harcama yetkilisi ile muhasebe yetkilisi görevi aynı kişide birleşemez. Malî hizmetler biriminde ön malî kontrol görevini yürütenler malî işlem sürecinde görev alamazlar.
 İdarelerin malî hizmetler birimlerinde malî hizmetler uzmanı çalıştırılabilir. Bunlar sınavın yapıldığı yılın başı itibarıyla 30 yaşını doldurmamış olmak kaydıyla, en az dört yıllık lisans eğitimi veren hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakültelerinden veya bunlara denkliği yetkili makamlarca kabul edilen yurt içi veya yurt dışındaki öğretim kurumlarından mezun olanlar arasından yapılacak özel yarışma sınavı sonunda mesleğe malî hizmetler uzman yardımcısı olarak alınırlar ve en az üç yıl çalışmak ve olumlu sicil almak şartıyla açılacak yeterlik sınavına girme hakkını kazanırlar. Yeterlik sınavında başarılı olanlar malî hizmetler uzmanı olarak atanırlar. Malî hizmetler uzmanlarının mesleğe giriş ve yeterlik sınavları ile çalışma usûl ve esasları Maliye Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
 
-MADDE 8. - 5018 sayılı Kanunun 62 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 8. -** 5018 sayılı Kanunun 62 nci maddesi aşağıdaki şekilde değiştirilmiştir.
 
 Madde 62. - Muhasebe yetkilisi görevini yürütmek üzere atanacakların, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilenler ile aşağıdaki şartları taşıması gerekir:
 a) En az dört yıllık yüksek öğrenim görmüş olmak.
@@ -102,7 +102,7 @@ Ancak, belde ve nüfusu 25.000'in altında olan ilçe belediyeleri ile mahalli i
 Muhasebe yetkilisi olacak görevliler, Maliye Bakanlığınca görevin niteliği dikkate alınarak meslekî konularda eğitime tâbi tutulur ve bu eğitimi başarıyla tamamlayanlara sertifika verilir.
 Muhasebe yetkililerinin eğitimi ve bunlara sertifika verilmesi ile çalışma usûl ve esasları, Maliye Bakanlığınca hazırlanacak ve Bakanlar Kurulu tarafından çıkarılacak yönetmelikle düzenlenir.
 
-MADDE 9. - 5018 sayılı Kanunun geçici 5 inci maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 9. -** 5018 sayılı Kanunun geçici 5 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 Geçici Madde 5. - 31.12.2005 tarihi itibarıyla;
 a) Maliye Bakanlığı kadrolarında Bütçe Dairesi Başkanı, Muhasebe Müdürü, Gelir Saymanlık Müdürü, Malmüdürü, Saymanlık Müdürü, Vergi Dairesi Müdürü, Vergi Müdürü, Askeri Defterdar, Devlet Muhasebe Uzmanı ve Muhasebe Denetmeni olarak görev yapanlar ile daha önce en az beş yıl bu görevlerde bulunanlar, kamu idarelerinde Muhasebe Yetkilisi; (Devlet Muhasebe Uzman Yardımcıları ile Muhasebe Denetmen Yardımcıları hariç) bunların yardımcıları ile kadro unvanı sayman olanlar ise Muhasebe Yetkilisi Yardımcısı,
 b) Özel bütçeli idareler, mahallî idareler ve sosyal güvenlik kurumlarının muhasebe birimlerinde, birinci derecede sorumlu olarak çalışanlar ile daha önce bu görevi en az beş yıl yapmış olanlarla bu idarelerde bütçe dairesi başkanı, gelir ve gider dairesi başkanı, muhasebe daire başkanı, gelir müdürü, bütçe müdürü ve muhasebe müdürü olanlar anılan idarelerde Muhasebe Yetkilisi,
@@ -114,7 +114,7 @@ Bu kişiler, sertifika alamamaları halinde kadrolarına uygun bir göreve atan�
 (a) ve (b) bentlerinde belirtilen muhasebe yetkilisi görevini yürütmek üzere atanacak olanların Maliye Bakanlığınca verilecek meslekî eğitimden geçmeleri ve yapılacak sınavda başarı göstererek sertifika almaları şarttır. Ancak, (a) ve (b) bentlerinde sayılanlardan sınavla bu kadrolara atanmış olanların muhasebe yetkilisi olarak atanmalarında sınav şartı aranmaz.
 (c), (d) ve (e) bentlerinde belirtilen görevlere atananlar bu Kanunun öngördüğü sistemin uygulanmasına yönelik eğitime tâbi tutulurlar. Atamalarda ilgilinin ve idaresinin muvafakati alınır.
 
-MADDE 10. -
+**MADDE 10.** -
 a) 5018 sayılı Kanunun;
 1) 3 üncü maddesinin (e) bendinde yer alan "ve bunların kurdukları birlik ve idareyi" ibaresi "ile bunlara bağlı veya bunların kurdukları veya üye oldukları birlik ve idareleri",
 2) 10 uncu maddesinin son fıkrasında yer alan "planları" ibaresi "programları",
@@ -170,11 +170,11 @@ c) 5018 sayılı Kanunun;
 11) Geçici 6 ncı ve geçici 7 nci maddeleri,
 12) Geçici 11 inci maddesinin dördüncü fıkrası, Yürürlükten kaldırılmıştır.
 
-MADDE 11. - 5018 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
+**MADDE 11. -** 5018 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 
 EK MADDE 1.- Türkiye Büyük Millet Meclisi ve Sayıştayın muhasebe hizmetleri Türkiye Büyük Millet Meclisi Başkanı, Cumhurbaşkanlığı muhasebe hizmetleri ise Cumhurbaşkanlığı Genel Sekreteri tarafından atanan muhasebe yetkilileri tarafından yerine getirilir.
 
-MADDE 12. - 5018 sayılı Kanuna ekli (I), (II), (III) ve (IV) sayılı cetveller aşağıdaki şekilde değiştirilmiştir.
+**MADDE 12. -** 5018 sayılı Kanuna ekli (I), (II), (III) ve (IV) sayılı cetveller aşağıdaki şekilde değiştirilmiştir.
 (I) SAYILI CETVEL
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1) Türkiye Büyük Millet Meclisi 2) Cumhurbaşkanlığı
@@ -329,7 +329,7 @@ SOSYAL GÜVENLİK KURUMLARI
 3) Esnaf ve Sanatkarlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu
 4) Türkiye İş Kurumu
 
-MADDE 13. -
+**MADDE 13. -**
 a) 13.12.1983 tarihli ve 178 sayılı Kanun Hükmünde Kararnamenin;
 1) 10 uncu maddesinin son fıkrası,
 2) 37 nci maddesinin son fıkrası,
@@ -354,7 +354,7 @@ h) 23.4.1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atam
 i) 4.11.1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 58 inci maddesinin (a) fıkrasının sonuna "Süreklilik arz eden hizmet alımları ile maliyeti yüksek ve ileri teknoloji ürünü olan tıbbî cihazların hizmet alımı yoluyla temini veya kiralanması için döner sermaye kaynaklarından gelecek yıllara yaygın yüklenmelere girişilebilir." fıkrası eklenmiştir.
 k) 24.2.1983 tarihli ve 2802 sayılı Hakimler ve Savcılar Kanununa ekli (I) ve (II) sayılı cetvellerde yer alan "Araştırma-Planlama ve Koordinasyon Kurulu Başkanlığı" ibareleri "Strateji Geliştirme Başkanlığı", "Araştırma-Planlama ve Koordinasyon Kurulu Üyeliği" ibareleri "Strateji Geliştirme Başkanlığı Daire Başkanlığı" şeklinde değiştirilmiştir.
 
-MADDE 14. -
+**MADDE 14. -**
 a) 27.6.1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
 
 EK MADDE 2. - Kamu idarelerinin iç denetçi kadrolarında 657 sayılı Devlet Memurları Kanununa göre istihdam edilenlere, en yüksek Devlet memuru aylığının (ek gösterge dahil) % 200'ünü geçmemek üzere ek ödeme yapılabilir. Ek ödemenin miktarı ile esas ve usûlleri; personelin sertifika derecesi, görev yapılan birim ve iş hacmi, personelin çalışma süresi ve aylık derecesi gibi kriterler dikkate alınarak İç Denetim Koordinasyon Kurulunun önerisi ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu kararıyla belirlenir. Bu ödemede 657 sayılı Kanunun aylıklara ilişkin hükümleri uygulanır ve bu ödemeden damga vergisi hariç herhangi bir vergi ve kesinti yapılmaz.
@@ -382,7 +382,7 @@ b) 31.12.2005 tarihinde portföylerinde bulunan hisse senetleri için ise bu men
 17) Bu madde hükümlerinin uygulanmasına ilişkin esas ve usûlleri belirlemeye, vergiye tâbi işlemlere taraf veya aracı olanları verginin ödenmesinden sorumlu tutmaya Maliye Bakanlığı yetkilidir.
 e) 5.5.2005 tarihli ve 5345 sayılı Gelir İdaresi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 9 uncu maddesinin sonuna “Bu görevler, vergi türleri veya mükellef grupları itibarıyla üç ayrı daire başkanlığı tarafından yürütülür.” şeklinde bir fıkra ile 23 üncü maddesinin ikinci fıkrasının sonuna "Bakan bu yetkisini, madde hükmünde yer alan sınırlamalara bağlı kalmaksızın vergi uygulamaları bakımından gerekli gördüğü hallerde mükelleflerin bağlı olacağı vergi dairesi müdürlüğü veya vergi dairesi başkanlığını belirlemek ve bu belirlemeye bağlı olarak bu dairelerin yetki alanını yeniden oluşturmak şeklinde de kullanabilir." şeklinde bir cümle eklenmiştir.
 
-MADDE 15. - Teşkilât kanunlarında, Strateji Geliştirme Başkanlığı, Strateji Geliştirme Daire Başkanlığı ve strateji geliştirme ve malî hizmetlere ilişkin hizmetlerin yerine getirildiği Müdürlük birimlerine ilişkin düzenleme yapılıncaya kadar ikinci fıkrada belirtilen görevler ile kanunlarla verilen diğer görevleri de yürütmek üzere;
+**MADDE 15. -** Teşkilât kanunlarında, Strateji Geliştirme Başkanlığı, Strateji Geliştirme Daire Başkanlığı ve strateji geliştirme ve malî hizmetlere ilişkin hizmetlerin yerine getirildiği Müdürlük birimlerine ilişkin düzenleme yapılıncaya kadar ikinci fıkrada belirtilen görevler ile kanunlarla verilen diğer görevleri de yürütmek üzere;
 a) Başbakanlık ve bakanlıklarda (Millî Savunma Bakanlığı hariç) Strateji Geliştirme Başkanlığı kurulmuştur.
 b) Ekli (1) sayılı cetvelde yer alan kamu idarelerinin merkez teşkilâtlarında Strateji Geliştirme Daire Başkanlığı, ekli (2) sayılı cetvelde yer alan kamu idarelerinin merkez teşkilâtlarında ise Müdürlük kurulmuştur.
 c) Üniversiteler ile yüksek teknoloji enstitülerinde Strateji Geliştirme Daire Başkanlığı kurulmuştur.
@@ -396,7 +396,7 @@ f) İdarede kurulmuşsa Strateji Geliştirme Kurulunun sekretarya hizmetlerini y
 g) Bakan ve/veya üst yönetici tarafından verilecek diğer görevleri yapmak.
 5018 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasında malî hizmetler birimine verilen görevler, mahallî idarelerde ilgili mevzuatında yer alan hükümler çerçevesinde kurulacak birimler tarafından yerine getirilir. Bu maddede belirtilmeyen idarelerde söz konusu hizmetler, bu idarelerin mevcut yapılarında malî hizmetlerini yürüten birimler tarafından yerine getirilir.
 
-MADDE 16. - Ekli (1) sayılı listede yer alan Strateji Geliştirme Başkanı kadroları ihdas edilerek (A) bölümündeki kadrolar 190 sayılı Kanun Hükmünde Kararnameye ekli (I) sayılı cetvelin Başbakanlık ve bakanlıkların (Adalet ve Millî Savunma bakanlıkları hariç) merkez teşkilâtlarına ait ilgili bölümüne, (B) bölümündeki kadrolar ise anılan Kanun Hükmünde Kararnamenin (II) sayılı cetvelinin Adalet Bakanlığının merkez teşkilâtına ait ilgili bölümüne eklenmiştir. Aynı listenin (A) bölümünde yer alan daire başkanı kadroları Başbakanlığa ve Strateji Geliştirme Başkanlığı kurulan bakanlıklara dörder adet (Adalet Bakanlığı için 1 adet) tahsis edilmek üzere ihdas edilerek 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerin ilgili bölümüne eklenmiştir.
+**MADDE 16.** - Ekli (1) sayılı listede yer alan Strateji Geliştirme Başkanı kadroları ihdas edilerek (A) bölümündeki kadrolar 190 sayılı Kanun Hükmünde Kararnameye ekli (I) sayılı cetvelin Başbakanlık ve bakanlıkların (Adalet ve Millî Savunma bakanlıkları hariç) merkez teşkilâtlarına ait ilgili bölümüne, (B) bölümündeki kadrolar ise anılan Kanun Hükmünde Kararnamenin (II) sayılı cetvelinin Adalet Bakanlığının merkez teşkilâtına ait ilgili bölümüne eklenmiştir. Aynı listenin (A) bölümünde yer alan daire başkanı kadroları Başbakanlığa ve Strateji Geliştirme Başkanlığı kurulan bakanlıklara dörder adet (Adalet Bakanlığı için 1 adet) tahsis edilmek üzere ihdas edilerek 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerin ilgili bölümüne eklenmiştir.
 Ekli (2) sayılı listede yer alan Strateji Geliştirme Daire Başkanı kadroları ekli (1) sayılı cetvelde belirtilen kamu idarelerine tahsis edilmek üzere ihdas edilerek 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerin ilgili bölümüne eklenmiştir.
 Ekli (3) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnameye ekli cetvelin yüksek öğretim kurumlarının ilgili bölümlerine eklenmiştir.
 Ekli (4) sayılı listede yer alan kadrolar ekli (2) sayılı cetvelde belirtilen kamu idarelerine tahsis edilmek üzere ihdas edilerek 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerin ilgili bölümüne eklenmiştir.
@@ -407,7 +407,7 @@ Altı ve yedinci fıkra hükümlerine göre idarelere tahsis edilen kadrolar 190
 Mahallî idarelerin iç denetçi kadroları İç Denetim Koordinasyon Kurulunun kararı ve İçişleri Bakanlığının teklifi üzerine Bakanlar Kurulu kararı ile ihdas edilir. İhdas edilen bu kadrolar ilgili mahallî idarenin norm kadrosuna dahil edilmiş sayılır.
 190 sayılı Kanun Hükmünde Kararnameye ekli cetvelin Maliye Bakanlığı bölümünden Maliye Başkanı, Bütçe Dairesi Başkanı ve Bütçe Dairesi Başkan Yardımcısı kadroları çıkarılmıştır.
 
-MADDE 17. - Aşağıdaki hükümler ile teşkilât kanunları ve teşkilâtlanmaya ilişkin diğer kanunlarda yer alan araştırma planlama ve koordinasyon hizmetlerine yönelik kurul başkanlıkları, daire başkanlıkları ile şube müdürlükleri kurulması ve bunların görevlerine ilişkin hükümler yürürlükten kaldırılmıştır:
+**MADDE 17.** - Aşağıdaki hükümler ile teşkilât kanunları ve teşkilâtlanmaya ilişkin diğer kanunlarda yer alan araştırma planlama ve koordinasyon hizmetlerine yönelik kurul başkanlıkları, daire başkanlıkları ile şube müdürlükleri kurulması ve bunların görevlerine ilişkin hükümler yürürlükten kaldırılmıştır:
 1) 4.6.1937 tarihli ve 3201 sayılı Emniyet Teşkilatı Kanununun 55 inci maddesinin altıncı fıkrasında yer alan "Araştırma Planlama ve Koordinasyon Dairesi Başkanı" ibaresi.
 2) 2.9.1971 tarihli ve 1479 sayılı Esnaf ve Sanatkarlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanununun 3 üncü maddesinin ikinci fıkrasının (b) bendinde yer alan "Araştırma Planlama ve Koordinasyon Daire Başkanlığı" ibaresi.
 3) 13.12.1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 19 uncu maddesinin (c) bendi ile 22 nci maddesi.
@@ -440,7 +440,7 @@ Teşkilât kanunlarında yer alan Araştırma Planlama ve Koordinasyon Kurulu ba
 İptal edilen bu kadrolarda bulunanlar, 31.12.2006 tarihine kadar, kazanılmış hak aylık dereceleri dikkate alınmak suretiyle bulundukları kamu idarelerinde başka bir kadroya atanırlar. Bunlar yeni bir kadroya atanıncaya kadar eski kadrolarına ait aylık, ek gösterge, her türlü zam ve tazminatları ile diğer malî haklarını almaya devam ederler ve bu süre içerisinde başka işlerde görevlendirilebilirler. Bunların eski kadrolarına bağlı olarak en son ayda almakta oldukları aylık, ek gösterge, sözleşme ücreti, ikramiye, her türlü zam ve tazminatları ile diğer malî hakları (fazla çalışma ücreti hariç) toplam net tutarının, atandıkları yeni kadrolarının aylık, ek gösterge, her türlü zam ve tazminatları, sözleşme ücreti, ikramiye ile diğer malî hakları (fazla çalışma ücreti hariç) toplam net tutarından fazla olması halinde, aradaki fark tutarı herhangi bir vergi ve kesintiye tâbi tutulmaksızın ve fark kapanıncaya kadar kurumlarında kaldıkları sürece ayrıca tazminat olarak ödenir. Söz konusu birimlerde görevli diğer personel ise kadrolarıyla birlikte 14.1.2006 tarihine kadar kendi idarelerinde ihtiyaç duyulan birimlere devredilir. Bu maddenin yürürlüğe girdiği tarihten itibaren APK Uzmanı kadrolarına yeni atama yapılmaz, herhangi bir nedenle boşalması halinde, bu kadrolar hiçbir işleme gerek kalmaksızın iptal edilmiş sayılır.
 3046 sayılı Kanunda sayılan görevleri dışında, kaldırılan Araştırma Planlama ve Koordinasyon Kurulu başkanlıkları ile Araştırma Planlama ve Koordinasyon Daire başkanlıklarına kanunlarla verilmiş olan görevler teşkilat kanunlarında yeni bir düzenleme yapılıncaya kadar Bakan ve/veya üst yöneticilerin onayı ile belirlenecek birimler tarafından yerine getirilir.
 
-GEÇİCİ MADDE 1. - Bu Kanunla kurulan Strateji Geliştirme Başkanlığında ihdas edilen Daire Başkanlığı kadrolarından ikisi (İçişleri ve Adalet bakanlıklarında biri) ile Strateji Geliştirme Daire Başkanlığı kadrolarına (Emniyet Genel Müdürlüğü hariç), Bütçe Dairesi Başkanı ve Bütçe Dairesi Başkan Yardımcısı kadrolarında bulunan personel arasından, ilgili idarelerce 1.3.2006 tarihine kadar atama yapılabilir. Bütçe Dairesi Başkanı ve Bütçe Dairesi Başkan Yardımcısı kadrolarında bulunanlar bu Kanuna ekli (2) sayılı cetvelde belirtilen idarelerde ihdas edilen Müdür kadrolarına da atanabilirler.
+**GEÇİCİ MADDE 1. -** Bu Kanunla kurulan Strateji Geliştirme Başkanlığında ihdas edilen Daire Başkanlığı kadrolarından ikisi (İçişleri ve Adalet bakanlıklarında biri) ile Strateji Geliştirme Daire Başkanlığı kadrolarına (Emniyet Genel Müdürlüğü hariç), Bütçe Dairesi Başkanı ve Bütçe Dairesi Başkan Yardımcısı kadrolarında bulunan personel arasından, ilgili idarelerce 1.3.2006 tarihine kadar atama yapılabilir. Bütçe Dairesi Başkanı ve Bütçe Dairesi Başkan Yardımcısı kadrolarında bulunanlar bu Kanuna ekli (2) sayılı cetvelde belirtilen idarelerde ihdas edilen Müdür kadrolarına da atanabilirler.
 Yukarıda belirtilen şekillerde ataması yapılamayan Bütçe Dairesi Başkanları ve Bütçe Dairesi Başkan Yardımcıları Maliye Bakanlığı personeli atama ve görevde yükselme esaslarının belirlendiği yönetmelikle öngörülen aynı hizmet gruplarındaki durumlarına uygun kadrolara 31.12.2006 tarihine kadar atanırlar. Bunlar bu süre içerisinde başka işlerde görevlendirilebilirler.
 Maliye Başkanı, Bütçe Dairesi Başkanı ve Bütçe Dairesi Başkan Yardımcısı kadrolarında bulunanlar, 31.12.2005 tarihi itibarıyla görev yaptıkları kamu idarelerinin 2005 yılına ait bütçe, muhasebe ve diğer iş ve işlemlerini 1.3.2006 tarihine kadar sonuçlandırmakla da sorumludurlar.
 Bütçe Dairesi başkanlıklarında görev yapan Bütçe Dairesi Başkanı ve Bütçe Dairesi Başkan Yardımcısı kadrolarında bulunan personel dışındaki diğer Maliye Bakanlığı personeli bulundukları kadrolarıyla birlikte 1.1.2006 tarihi itibarıyla başka bir işleme gerek kalmaksızın bulundukları ilin defterdarlığına devredilir. Ancak bunlar halen bulundukları kadrolarda kaldıkları sürece 31.12.2006 tarihine kadar nezdinde görev yaptıkları kamu idaresinin Strateji Geliştirme Başkanlığı veya Strateji Geliştirme Daire Başkanlığında görev yapmaya devam ederler. Bunlardan sınav sonucunda Malî Hizmetler Uzmanı kadrolarına atanacaklar ile halen nezdinde görev yaptıkları idarelerin ve kendilerinin talep etmeleri halinde bu idarelerin kadrolarına atanacaklar için Maliye Bakanlığının muvafakati aranmaz.
@@ -456,7 +456,7 @@ Bu maddenin yürürlüğe girdiği tarihte Maliye Bakanlığı Milli Emlak Genel
 190 sayılı Kanun Hükmünde Kararnamenin eki cetvelin Maliye Bakanlığına ait bölümünde yer alan ve Bütçe ve Mali Kontrol Genel Müdürlüğüne tahsis edilmiş olan Şube Müdürü kadrolarından, bu Kanunun yürürlüğe girdiği tarihte boş olanların 5 adedi dışındakilerin kadro unvanı ile dokuzuncu fıkra uyarınca atanacaklardan boşalacak kadroların unvanı Devlet Bütçe Uzmanı; Milli Emlak Genel Müdürlüğüne tahsis edilmiş Şube Müdürü kadrolarından, bu Kanunun yürürlüğe girdiği tarihte boş olanların 8 adedi dışındakilerin kadro unvanı ile dokuzuncu fıkra uyarınca atanacaklardan boşalacak kadroların unvanı Devlet Malları Uzmanı olarak değiştirilmiştir.
 Dokuzuncu fıkra çerçevesinde atama yapılmasına hak kazanamayanların bulundukları Şube Müdürü unvanlı kadrolar, her ne sebeple olursa olsun boşaldıkları tarihte ve herhangi bir işleme gerek kalmaksızın iptal edilmiş sayılır.
 
-GEÇİCİ MADDE 2. - 16 ncı maddenin altıncı fıkrasına göre ihdas edilip kurumlara tahsis edilecek Malî Hizmetler Uzmanı unvanlı serbest kadro adedinin yarısını geçmemek üzere;
+**GEÇİCİ MADDE 2. -** 16 ncı maddenin altıncı fıkrasına göre ihdas edilip kurumlara tahsis edilecek Malî Hizmetler Uzmanı unvanlı serbest kadro adedinin yarısını geçmemek üzere;
 a) Strateji Geliştirme Başkanlığı veya Strateji Geliştirme Daire Başkanlığı kurulan idarelerin,
 1) Araştırma Planlama ve Koordinasyon Kurulu başkanlıklarında,
 2) İdarî ve Malî İşler Dairesi başkanlıklarında,
@@ -467,12 +467,12 @@ a) Strateji Geliştirme Başkanlığı veya Strateji Geliştirme Daire Başkanl�
 b) Geçici 1 inci maddenin dördüncü fıkrası uyarınca devredilen personel dahil Bütçe ve Mali Kontrol Genel Müdürlüğünde ve Muhasebat Genel Müdürlüğünde, Genel idare hizmetleri sınıfına dahil kadrolarda sınav tarihi itibarıyla fiilen toplam en az üç yıl hizmeti bulunmuş ve Malî Hizmetler Uzman Yardımcılığı giriş sınavına katılabilmek için gerekli öğrenim şartını taşıyanlar, 30.5.2006 tarihine kadar bir defaya mahsus olmak üzere Maliye Bakanlığınca Öğrenci Seçme ve Yerleştirme Merkezi Başkanlığına veya Millî Eğitim Bakanlığı Ölçme ve Değerlendirme Merkezine yaptırılacak yazılı sınav ve yerleştirme sonucuna göre Malî Hizmetler Uzmanı kadrolarına atanırlar.
 Sınav komisyonunun oluşturulması, sınav konuları ile sınav ve yerleştirmeye ilişkin usûl ve esaslar Maliye Bakanlığınca belirlenir.
 
-GEÇİCİ MADDE 3. - Genel bütçe kapsamındaki kamu idarelerinde kullanılan saymanlık otomasyon sistemi (say2000i) Maliye Bakanlığınca uygun görülen özel bütçeli idarelerde de kullanılır. Sistemin kurulum, işletim ve kullanımına ilişkin usûl ve esaslar Maliye Bakanlığınca belirlenir.
+**GEÇİCİ MADDE 3. -** Genel bütçe kapsamındaki kamu idarelerinde kullanılan saymanlık otomasyon sistemi (say2000i) Maliye Bakanlığınca uygun görülen özel bütçeli idarelerde de kullanılır. Sistemin kurulum, işletim ve kullanımına ilişkin usûl ve esaslar Maliye Bakanlığınca belirlenir.
 Çeşitli kanun ve kanun hükmünde kararnamelerde sayman unvanına yapılmış atıflar muhasebe yetkilisine yapılmış sayılır.
 2005 Malî Yılı bütçesine ilişkin kesin hesap kanun tasarısı ile 2005 Mali Yılı katma bütçeli idareler bütçesine ilişkin kesin hesap kanun tasarısı, 26.5.1927 tarihli ve 1050 sayılı Muhasebei Umumiye Kanununa göre hazırlanır.
 İlgili mevzuatında gerekli düzenleme yapılıncaya kadar, mevzuatta katma bütçeli idarelere yapılan atıflar, katma bütçeli idare iken 5018 sayılı Kanunla özel bütçeli idareler kapsamına alınan kamu idareleri bakımından, ilgisine göre bu idarelere yapılmış sayılır. Bu fıkranın uygulanmasında ortaya çıkabilecek tereddütleri gidermeye ve gerektiğinde düzenleme yapmaya Maliye Bakanı yetkilidir.
 
-MADDE 18. - Bu Kanunun;
+**MADDE 18.** - Bu Kanunun;
 a) 9 uncu ve 12 nci maddeleri; 10 uncu maddesinin (a) fıkrasının (19), (20), (23) ve (24) numaralı bentleri; 13 üncü maddesinin (c) fıkrasının (1) numaralı bendi, (d) fıkrasının (2) numaralı bendi, (e) fıkrasının (2) numaralı bendi ile (f) fıkrası; 14 üncü maddesinin (a) ve (e) fıkraları; 16 ncı maddesinin son fıkrası dışındaki hükümleri; geçici 1 inci ve geçici 2 nci maddeleri yayımı tarihinde,
 b) 14 üncü maddesinin (b) ve (c) bentleri 26.12.2004 tarihinden geçerli olmak üzere yayımı tarihinde,
 c) 13 üncü maddesinin (e) fıkrasının (1) numaralı bendi yayımını izleyen aybaşında,
@@ -480,4 +480,4 @@ d) 16 ncı maddesinin son fıkrası, Maliye Başkanı kadroları için 1.3.2006,
 e) 5 inci maddesiyle değiştirilen 5018 sayılı Kanunun 49 uncu maddesinin beşinci ve altıncı fıkraları 1.1.2007 tarihinde,
 f) Diğer hükümleri 1.1.2006 tarihinde, Yürürlüğe girer.
 
-MADDE 19.- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 19.-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

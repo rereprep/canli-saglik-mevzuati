@@ -27,7 +27,7 @@ DAĞITIM YERLERİNE
 
 Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği’nin 18 inci ve 21 inci maddelerinin ikinci fıkrasının (a)
 
-bendinin birinci alt bendinde “Ancak son on iki ayda birime müracaat etmeyen nüfus grupları için belirtilen katsayının yarısı esas alınır. Bu süre, daha sık hizmet sunumu gereken sağlık programları kapsamındaki nüfus grupları için on iki aydan fazla olmamak üzere Bakanlıkça belirlenir.” hükmü yer almaktadır.
+bendinin birinci alt bendinde “<i>Ancak son on iki ayda birime müracaat etmeyen nüfus grupları için belirtilen</i> <i>katsayının yarısı esas alınır. Bu süre, daha sık hizmet sunumu gereken sağlık programları kapsamındaki nüfus</i> <i>grupları için on iki aydan fazla olmamak üzere Bakanlıkça belirlenir.”</i> hükmü yer almaktadır.
 
 Bu kapsamda Bakanlık Makamının 21/07/2025 tarihli ve E-99858683-020-282666627 sayılı Onayı ile;
 

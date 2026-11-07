@@ -12,10 +12,10 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-Acil Sağlık Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+**Acil Sağlık Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik**
 
-MADDE
-l — 11/05/2000 tarihli ve 24046 sayılı Resmî Gazete’de yayımlanan Acil Sağlık Hizmetleri Yönetmeliğinin 4 üncü maddesinin (d), (e), (f), (g), (i), (k), (n) bentleri aşağıdaki şekilde değiştirilmiş, maddeye (p), (r), (s), (t), (u), (v), (y) bentleri ilave edilmiştir.
+**MADDE**
+**l —** 11/05/2000 tarihli ve 24046 sayılı Resmî Gazete’de yayımlanan Acil Sağlık Hizmetleri Yönetmeliğinin 4 üncü maddesinin (d), (e), (f), (g), (i), (k), (n) bentleri aşağıdaki şekilde değiştirilmiş, maddeye (p), (r), (s), (t), (u), (v), (y) bentleri ilave edilmiştir.
 "d) Şube Müdürlüğü: Acil sağlık hizmetleri Şube Müdürlüğünü,
 e) Şube Müdürü: Acil sağlık hizmetleri şube müdürünü,
 f) Merkez: Acil çağrıların karşılandığı ve ambulansların sevk ve idare edildiği merkezi,
@@ -40,21 +40,21 @@ c) İl Acil Sağlık Hizmetleri Koordinasyon Komisyonu (ASKOM): İl genelindeki 
 
 
 MADDE 3 – Aynı Yönetmeliğin 6 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 6 — Genel Müdürlük, ülke düzeyinde acil sağlık hizmetlerinin yönetiminden sorumludur.
+**"Madde 6 —** Genel Müdürlük, ülke düzeyinde acil sağlık hizmetlerinin yönetiminden sorumludur.
 İllerde acil sağlık hizmetleri, şube müdürlüğü tarafından denetlenir ve koordine edilir, il ambulans servisinin sevk ve idaresi başhekimlik tarafından yürütülür.
 Olağandışı durumlarda, lüzumu halinde bütün kamu kurum ve kuruluşlarına, özel hukuk tüzel kişilerine ve gerçek kişilere ait ambulans ve ekiplerin sevk ve idaresi başhekimlik tarafından yapılır.
 Olağandışı durumlarda, başlangıçta olay yeri yönetimini merkez yapar, olay yerine ilk ulaşan ambulans ekibinin görevli hekimi olay yerindeki tüm sağlık ekiplerinin yönetimini olay yerine yönetici gelene kadar üstlenir ve triajın yapılmasını sağlar."
 
 
 MADDE 4 – Aynı Yönetmeliğin 8 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 8 — Acil sağlık hizmetlerinde yer alan temel hizmet birimleri şunlardır:
+**"Madde 8 —** Acil sağlık hizmetlerinde yer alan temel hizmet birimleri şunlardır:
 a) Acil Sağlık Hizmetleri Şube Müdürlüğü: Müdürlük adına acil sağlık hizmetleri ile ilgili çalışmaları koordine eden, planlayan, ildeki tüm ambulansların ruhsatlandırma ve denetimini yapan, hastane acil servislerini koordine eden ve denetleyen, il düzeyindeki ilkyardım eğitimlerinin verilmesini organize eden ve bununla ilgili ilkyardım eğitim merkezlerinin ruhsatlandırılması ve denetimini yapan, il sağlık afet planlarının hazırlanması ve uygulanmasının koordinasyonunu sağlayan, acil sağlık hizmetleri ile ilgili tüm verileri toplayan ve değerlendiren birimdir.
 b) İl Ambulans Servisi Başhekimliği: Ambulans hizmetlerinin il düzeyinde organizasyonunu, yönlendirilmesini, uygulanmasını ve değerlendirilmesini, hizmete katılan kurum ve kuruluşlar arasında işbirliğini sağlayan, merkez ve istasyonlarda görev yapan personelin hizmet içi eğitimleri ile sevk ve idaresini yapan, merkez ve istasyonlarda kullanılan tüm araç ve gereçlerin temin, kayıt, bakım ve onarımlarını sağlayan, hizmetle ilgili tüm kayıt ve istatistikleri tutan, merkezin de içinde olduğu, kendisine ait binası ve personeli olan birimdir.
 c) Hastane Acil Servisleri: Yataklı tedavi kurumları bünyesinde acil sağlık hizmeti verilen birimdir."
 
 
 MADDE 5 – Aynı Yönetmeliğin 9 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 9 — Merkez, başhekimliğe bağlı olarak çalışır ve aşağıdaki görevleri yapar:
+**"Madde 9 —** Merkez, başhekimliğe bağlı olarak çalışır ve aşağıdaki görevleri yapar:
 a) Merkeze ulaşan acil yardım çağrılarını değerlendirmek, çağrılara göre verilmesi gereken hizmeti belirleyerek, kişiyi veya hizmet birimini yönlendirmek,
 b) Hizmetin verilmesi sırasında, hizmete katılan kurum ve kuruluşlar arasında işbirliğini sağlamak,
 c) Hizmet ile ilgili kayıtları tutmak ve tutulan kayıtlar üzerinden hizmet istatistiklerini çıkarmak,
@@ -63,7 +63,7 @@ e) Başhekimlikçe verilen diğer görevleri yapmak."
 
 
 MADDE 6 – Aynı Yönetmeliğin 10 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 10 — İstasyonlar; acil sağlık hizmeti sunmak ve tıbbi müdahalede bulunmak amacıyla, bu Yönetmeliğin 11 inci maddesinde belirtilen kriterler dikkate alınarak yapılan incelemeler sonucunda müdürlüğün teklifi ve valiliğin onayı ile kurulan birimlerdir.
+**"Madde 10 —** İstasyonlar; acil sağlık hizmeti sunmak ve tıbbi müdahalede bulunmak amacıyla, bu Yönetmeliğin 11 inci maddesinde belirtilen kriterler dikkate alınarak yapılan incelemeler sonucunda müdürlüğün teklifi ve valiliğin onayı ile kurulan birimlerdir.
 Ancak lüzumu halinde il sınırları dışında da valiliklerin teklifi ve Bakanlığın onayı ile istasyon açılabilir.
 İstasyonlar verdikleri hizmete göre üç tipte kurulabilir. Bunlar;
 (A) Tipi İstasyon: 24 saat kesintisiz sadece ambulans hizmeti verilen, ihtiyaca göre birden fazla ekip ve ambulans bulundurulan, idari ve özlük hakları bakımından başhekimliğe bağlı ve kadrolu personeli olan, (B) Tipi İstasyon: Hastane acil servisleri ve 24 saat hizmet veren birinci basamak sağlık kuruluşları ile entegre kesintisiz ambulans ve acil servis hizmeti verilen, kadrosu ve özlük hakları bakımından bünyesinde bulunduğu kuruma, ambulans hizmeti bakımından merkeze bağlı olan, (C) Tipi İstasyon: İhtiyaca göre günün belirlenen saatlerinde sadece ambulans hizmeti verilen idari ve özlük hakları bakımından başhekimliğe bağlı ve kadrolu personeli olan, acil sağlık istasyonlarıdır.
@@ -72,7 +72,7 @@ Ancak lüzumu halinde il sınırları dışında da valiliklerin teklifi ve Baka
 
 
 MADDE 7 – Aynı Yönetmeliğin l1 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 11 — İstasyon yerlerinin belirlenmesinde aşağıdaki kriterler dikkate alınır;
+**"Madde 11 —** İstasyon yerlerinin belirlenmesinde aşağıdaki kriterler dikkate alınır;
 a) Hizmet sunulması planlanan hedef nüfusun azami elli bin kişi olması,
 b) Ulaşım imkanlarının güçlüğü,
 c) Acil yardım gerektiren olayların sıklığı,
@@ -87,11 +87,11 @@ MADDE 9 – Aynı Yönetmeliğin 15 inci maddesinin (d) bendi aşağıdaki şeki
 
 
 MADDE 10 – Aynı Yönetmeliğin 20 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 20 — Bu Yönetmelikte, acil sağlık hizmeti içinde belirtilen istasyonlar, acil servisler ve destek hizmetleri gerektiğinde, Merkez tarafından yönlendirilir. Yönlendirme, yardım talebinin ulaşmasını takiben, Merkez tarafından mevcut iletişim sistemi ile en kısa sürede, talebin mahiyetine en uygun ve/veya en yakın birim veya birimlerin görevlendirilmesi suretiyle yerine getirilir. Ayrıca Merkez, durumun niteliğine göre ihtiyaç duyduğu diğer kuruluşları da hizmetlerini yönlendirebilmeleri maksadıyla bilgilendirir."
+**"Madde 20 —** Bu Yönetmelikte, acil sağlık hizmeti içinde belirtilen istasyonlar, acil servisler ve destek hizmetleri gerektiğinde, Merkez tarafından yönlendirilir. Yönlendirme, yardım talebinin ulaşmasını takiben, Merkez tarafından mevcut iletişim sistemi ile en kısa sürede, talebin mahiyetine en uygun ve/veya en yakın birim veya birimlerin görevlendirilmesi suretiyle yerine getirilir. Ayrıca Merkez, durumun niteliğine göre ihtiyaç duyduğu diğer kuruluşları da hizmetlerini yönlendirebilmeleri maksadıyla bilgilendirir."
 
 
 MADDE 11 – Aynı Yönetmeliğin 27 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-"Madde 27 — Başhekimlik ve Merkezde, hizmeti idare becerisine sahip olan ve konu ile ilgili eğitim görmüş tabipler yönetici olarak istihdam edilir. Yönetim kadrosunda görevli personelin çalışma düzeni de, 24 saat kesintisiz hizmet verecek şekilde planlanır. Başhekimlik ve Merkezde, hizmetin gerektirdiği sayıda başhekim yardımcısı, çağrıları değerlendirme ve yönlendirme hizmetlerini yürütmek maksadıyla tabip, acil sağlık hizmet birimlerinin mevcut kapasitesini takip etmek ve değerlendirmek üzere sağlık personeli, sunulan hizmetin toplanan veriler üzerinden değerlendirilmesini yapmak üzere veri hazırlama ve kontrol işletmeni, hizmetin bakım ve idamesini sağlamak maksadıyla teknisyen, hizmetin işleyişine yönelik eğitim hizmetlerini yürütmek maksadıyla uygun nitelikte personel, Merkeze bağlı acil sağlık hizmet birimlerinin lojistik taleplerini değerlendirmek ve Müdürlüğe iletmek üzere personel bulundurulur."
+**"Madde 27 —** Başhekimlik ve Merkezde, hizmeti idare becerisine sahip olan ve konu ile ilgili eğitim görmüş tabipler yönetici olarak istihdam edilir. Yönetim kadrosunda görevli personelin çalışma düzeni de, 24 saat kesintisiz hizmet verecek şekilde planlanır. Başhekimlik ve Merkezde, hizmetin gerektirdiği sayıda başhekim yardımcısı, çağrıları değerlendirme ve yönlendirme hizmetlerini yürütmek maksadıyla tabip, acil sağlık hizmet birimlerinin mevcut kapasitesini takip etmek ve değerlendirmek üzere sağlık personeli, sunulan hizmetin toplanan veriler üzerinden değerlendirilmesini yapmak üzere veri hazırlama ve kontrol işletmeni, hizmetin bakım ve idamesini sağlamak maksadıyla teknisyen, hizmetin işleyişine yönelik eğitim hizmetlerini yürütmek maksadıyla uygun nitelikte personel, Merkeze bağlı acil sağlık hizmet birimlerinin lojistik taleplerini değerlendirmek ve Müdürlüğe iletmek üzere personel bulundurulur."
 
 
 MADDE 12 – Aynı Yönetmeliğin 29 uncu maddesinin son fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -102,11 +102,11 @@ MADDE 13 – Aynı Yönetmeliğin 30 uncu maddesine "hizmet içi eğitim program
 
 
 MADDE 14 – Aynı Yönetmeliğin 37 nci maddesinin son fıkrası aşağıdaki şekilde değiştirilmiştir.
-"Acil sağlık hizmeti kapsamında hastane öncesi ve hastaneler arası hasta nakil hizmetleri sırasında sunulan hizmetlerin bedeli, bağlı olduğu döner sermaye saymanlığı tarafından hastaların bağlı oldukları resmi veya özel sosyal güvenlik kuruluşlarına tahakkuk ettirilir ve tahsil edilir. Sosyal güvencesi olmayıp ödeme gücü olmayanlardan ücret talep edilmez." Yürürlük
+"Acil sağlık hizmeti kapsamında hastane öncesi ve hastaneler arası hasta nakil hizmetleri sırasında sunulan hizmetlerin bedeli, bağlı olduğu döner sermaye saymanlığı tarafından hastaların bağlı oldukları resmi veya özel sosyal güvenlik kuruluşlarına tahakkuk ettirilir ve tahsil edilir. Sosyal güvencesi olmayıp ödeme gücü olmayanlardan ücret talep edilmez." **Yürürlük**
 
 
 MADDE 15 – Bu Yönetmelik, yayımı tarihinde yürürlüğe girer.
-Yürütme
+**Yürütme**
 
 
 MADDE 16 – Bu Yönetmelik hükümlerini, Sağlık Bakanı yürütür.

@@ -15,11 +15,11 @@ durum: "yürürlükte"
 
 ## HASTA VE ÇALIŞAN GÜVENLİĞİNİN SAĞLANMASINA DAİR YÖNETMELİK
 
-BİRİNCİ BÖLÜM
-Amaç, Kapsam, Dayanak ve Tanımlar
+**BİRİNCİ BÖLÜM**
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 Amaç
 
-MADDE 1 – (1) Bu Yönetmeliğin amacı; 2 nci madde kapsamındaki tüm sağlık kurumlarında, hasta ve çalışan güvenliği için güvenli hizmet sunumu ve güvenli bir ortam sağlanmasına, hizmet sunumunda kalitenin artırılmasına, sağlık kurumunda hasta ve çalışanlar için muhtemel risklerin belirlenmesine, bu risklerin giderilmesi için uygun yöntem ve tekniklerin belirlenmesine ve hizmet içi eğitimler ile güvenli hizmet sunumu ve güvenli çalışma ortamının sürdürülebilirliğinin sağlanmasına yönelik usul ve esasları düzenlemektir.
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı; 2 nci madde kapsamındaki tüm sağlık kurumlarında, hasta ve çalışan güvenliği için güvenli hizmet sunumu ve güvenli bir ortam sağlanmasına, hizmet sunumunda kalitenin artırılmasına, sağlık kurumunda hasta ve çalışanlar için muhtemel risklerin belirlenmesine, bu risklerin giderilmesi için uygun yöntem ve tekniklerin belirlenmesine ve hizmet içi eğitimler ile güvenli hizmet sunumu ve güvenli çalışma ortamının sürdürülebilirliğinin sağlanmasına yönelik usul ve esasları düzenlemektir.
 Kapsam
 
 MADDE 2 – (1) Bu Yönetmelik kamu, üniversite ve özel sektör ikinci ve üçüncü basamak sağlık kurumlarını kapsar.
@@ -41,8 +41,8 @@ f) Hasta ve çalışan güvenliği: Sağlık hizmeti sunumunda hasta ve çalış
 g) Hizmet Kalite Standartları (HKS): Daire Başkanlığı tarafından sağlık kurumlarının hizmet sunumuna yönelik hazırlanan standartları,
 ğ) Sağlık kurumu: Kamu, üniversite ve özel sektör ikinci ve üçüncü basamak sağlık kurumlarını, ifade eder.
 
-İKİNCİ BÖLÜM
-Temel Esaslar, Hasta ve Çalışan Güvenliği Uygulamaları
+**İKİNCİ BÖLÜM**
+**Temel Esaslar, Hasta ve Çalışan Güvenliği Uygulamaları**
 Temel esaslar
 
 MADDE 5 – (1) Bu Yönetmelik kapsamındaki sağlık kurumları; bu Yönetmelik hükümleri doğrultusunda uygulama yapmak, hasta ve çalışan güvenliğini sağlamaya yönelik gerekli faaliyetleri gerçekleştirmek amacıyla, kendi iç düzenlemelerini yapmak ve tedbirleri almakla yükümlüdür. Sağlık kurumları, hasta ve çalışan güvenliğine ilişkin tedbirleri alırken ve düzenlemeleri yaparken Daire Başkanlığınca hazırlanan ve Bakanlığın resmî internet sayfasında yayımlanan Hizmet Kalite Standartlarını esas alır.
@@ -93,8 +93,8 @@ f) Komitelerin kurulması ile ilgili olarak;
 1) Hasta güvenliği komitesi,
 2) Çalışan güvenliği komitesi kurulması, hususlarında gerekli tedbirleri alır ve düzenlemeleri yapar.
 
-ÜÇÜNCÜ BÖLÜM
-Çeşitli ve Son Hükümler
+**ÜÇÜNCÜ BÖLÜM**
+**Çeşitli ve Son Hükümler**
 Sorumluluk
 
 MADDE 9 – (1) Bu Yönetmelikte yer alan usul ve esasların kesintisiz ve etkin bir şekilde uygulanması, uygulama sırasında tespit edilen sorun ve aksaklıkların giderilmesi için gerekli tedbirlerin alınması, uygulamanın takip edilmesi ve değerlendirilmesi, ilgili sağlık kurumunun en üst amirinin sorumluluğundadır.

@@ -12,10 +12,10 @@ durum: "yürürlükte"
 ---
 
 Adalet Bakanlığından:
-ADLÎ TIP KURUMU
-KANUNU UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ADLÎ TIP KURUMU**
+**KANUNU UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete’de yayımlanan Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinin 14 üncü maddesinin birinci fıkrasının (d) ve (e) bentleri yürürlükten kaldırılmıştır.
+**MADDE 1 –** 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete’de yayımlanan Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinin 14 üncü maddesinin birinci fıkrasının (d) ve (e) bentleri yürürlükten kaldırılmıştır.
 
 MADDE 2 – Aynı Yönetmeliğe 14 üncü maddesinden sonra gelmek üzere aşağıdaki madde eklenmiştir.
 Adli Bilişim İhtisas Dairesi

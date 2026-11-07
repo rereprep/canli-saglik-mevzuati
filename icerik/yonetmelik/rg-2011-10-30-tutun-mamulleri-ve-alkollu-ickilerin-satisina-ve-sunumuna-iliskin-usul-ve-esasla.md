@@ -12,11 +12,11 @@ durum: "yürürlükte"
 ---
 
 Tütün ve Alkol Piyasası Düzenleme Kurumundan:
-TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 7/1/2011 tarihli ve 27808 sayılı Resmî Gazete’de yayımlanan Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 17 nci maddesinin ikinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 7/1/2011 tarihli ve 27808 sayılı Resmî Gazete’de yayımlanan Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 17 nci maddesinin ikinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
 “(a) Satış ünitelerinin veya satış alanının, tütün mamullerinin işyeri dışından görülmeyecek şekilde konumlandırılması zorunludur.”
 
 MADDE 2 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-MADDE 3 – Bu Yönetmelik hükümlerini Tütün ve Alkol Piyasası Düzenleme Kurumu Başkanı yürütür.
+**MADDE 3 –** Bu Yönetmelik hükümlerini Tütün ve Alkol Piyasası Düzenleme Kurumu Başkanı yürütür.

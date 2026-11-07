@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -52,7 +52,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-İşveren Yükümlülüğü ve Risk Değerlendirmesi Ekibi
+**İşveren Yükümlülüğü ve Risk Değerlendirmesi Ekibi**
 
 #### İşveren yükümlülüğü
 
@@ -86,7 +86,7 @@ d) İşyerindeki bütün birimleri temsil edecek şekilde belirlenen ve işyerin
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Risk Değerlendirmesi Aşamaları
+**Risk Değerlendirmesi Aşamaları**
 
 #### Risk değerlendirmesi
 
@@ -248,9 +248,9 @@ f) İşyeri dışından kaynaklanan ve işyerini etkileyebilecek yeni bir tehlik
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
-Büyük kaza önleme politika belgesi veya güvenlik raporu hazırlanması gereken işyerlerinde risk değerlendirmesi
+**Büyük kaza önleme politika belgesi veya güvenlik raporu hazırlanması gereken işyerlerinde risk değerlendirmesi**
 
 **MADDE 13 –** (1) Kanunun 29 uncu maddesi gereğince büyük kaza önleme politika belgesi veya güvenlik raporu hazırlanan işyerlerinde; bu belge ve raporlarda değerlendirilmiş riskler, bu Yönetmeliğe göre yapılacak risk değerlendirmesinde dikkate alınarak kullanılır.
 

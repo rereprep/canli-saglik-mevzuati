@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -62,7 +62,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Belge Verilmesi, Hijyen Eğitimi, Komisyon Kurulması ve Eğitimlerin Planlanması
+**Belge Verilmesi, Hijyen Eğitimi, Komisyon Kurulması ve Eğitimlerin Planlanması**
 
 #### Belge alan kişilerin çalıştırılması
 
@@ -106,7 +106,7 @@ c) Gıda, Tarım ve Hayvancılık Bakanlığınca belirlenecek bir veteriner hek
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Çalışmaya engel teşkil eden hastalıklar
 

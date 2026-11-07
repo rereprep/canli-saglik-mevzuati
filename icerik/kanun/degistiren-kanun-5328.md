@@ -11,7 +11,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2005/03/20050331M1-3.htm"
 durum: "yürürlükte"
 ---
 
-Kanun Kanun Çeşitli Kanunlarda Değişiklik Yapılması Hakkında Kanun Kanun No. 5328 Kabul Tarihi : 31.3.2005
+**Kanun** Kanun **Çeşitli Kanunlarda Değişiklik Yapılması Hakkında Kanun Kanun No. 5328 Kabul Tarihi : 31.3.2005**
 
 MADDE 1. — (1) 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 59 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 

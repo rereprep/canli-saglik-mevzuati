@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-TIBBİ CİHAZ SATIŞ, REKLAM VE TANITIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TIBBİ CİHAZ SATIŞ, REKLAM VE TANITIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 15/5/2014 tarihli ve 29001 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinin 5 inci maddesinin ikinci fıkrasının (c) bendinde yer alan “imza sirkülerinin” ibaresi “sicil tasdiknamesinin” şeklinde değiştirilmiştir.
 

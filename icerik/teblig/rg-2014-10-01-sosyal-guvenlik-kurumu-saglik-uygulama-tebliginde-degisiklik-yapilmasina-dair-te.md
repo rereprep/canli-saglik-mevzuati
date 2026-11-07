@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumundan:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
-MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.8.4 numaralı maddesinin birinci fıkrasında yer alan “ikinci denemede %25” ibaresinden sonra gelmek üzere “üçüncü denemede %20” ibaresi eklenmiştir.
+**MADDE 1 –** 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.8.4 numaralı maddesinin birinci fıkrasında yer alan “ikinci denemede %25” ibaresinden sonra gelmek üzere “üçüncü denemede %20” ibaresi eklenmiştir.
 
 MADDE 2 – Aynı Tebliğin 2.4.1.B-1 numaralı alt maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Maddenin ikinci fıkrasının üçüncü cümlesinde yer alan “açıkça belirtilmelidir.” ibaresinden sonra gelmek üzere “Ağız ve Diş muayeneleri yapılamayan hastalarda bu durum sağlık kurulu raporunda belirtilmelidir.” ibaresi eklenmiş ve dördüncü cümlesinde yer alan “10 gün” ibaresi “10 iş günü” olarak değiştirilmiştir.
@@ -77,7 +77,7 @@ c) 3.2.1.C numaralı alt maddesinin birinci fıkrasında yer alan “SUT ve eki�
 
 MADDE 10 – Aynı Tebliğin 3.3 numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a ) 3.3.1 numaralı maddesi başlığı ile beraber aşağıdaki şekilde değiştirilmiştir.
-“3.3.1 – Yara bakım ürünleri ve Antimikrobiyal Örtüler
+“**3.3.1 –** Yara bakım ürünleri ve Antimikrobiyal Örtüler
 (1) Yara bakım ürünlerinin veya antimikrobiyal örtülerin bedelleri, sağlık kurulu raporuna istinaden Kurumca karşılanır.
 (2) Yara bakım ürünleri veya antimikrobiyal örtüler için düzenlenecek sağlık kurulu raporları;
 a) Yatarak tedavide; takip ve tedaviyi yapan uzman hekim ile genel cerrahi, ortopedi ve travmatoloji ve plastik, rekonstrüktif ve estetik cerrahi uzman hekimlerinden en az birinin yer aldığı sağlık kurullarınca,
@@ -105,20 +105,20 @@ c) 3.3.9 numaralı maddesinin birinci fıkrasının (ç) bendi yürürlükten ka
 “o) Yüzey yenileme implantları”
 ç) 3.3.9 numaralı maddesinin ikinci fıkrasında yer alan “üçüncü basamak resmi sağlık kurumlarında” ibaresinden sonra gelmek üzere “(eğitim verme yetkisi olan klinik)” ibaresi eklenmiş ve (c) bendi yürürlükten kaldırılmıştır.
 d) 3.3.14 numaralı maddesi başlığı ile beraber aşağıdaki şekilde değiştirilmiştir.
-“3.3.14 – Kıkırdak hücre kültürleri
+“**3.3.14 –** Kıkırdak hücre kültürleri
 (1) SUT eki “EK-2/B Hizmet Başı İşlem Puan Listesi” için 612731 veya 612975 SUT kodları, “EK-2/C Tanıya Dayalı İşlem Puan Listesi” için P612731 veya P612975 SUT kodları ile birlikte uygulanması ve üçüncü basamak resmi sağlık kurumlarında (eğitim verme yetkisi olan klinik), Sağlık Bakanlığı “Ortopedi Bilimsel Danışma Kurulu”ndan her bir hasta için kullanılmasına onay alınması şartıyla bedelleri Kurumca karşılanacaktır.”
 e) 3.3.15 numaralı alt maddesi yürürlükten kaldırılmıştır.
 f) 3.3.16 numaralı maddesinin üçüncü fıkrasının (b) bendinde yer alan “durumunda bedeli Kurumca karşılanır.” ibaresi yürürlükten kaldırılmış ve aşağıdaki bent eklenmiştir.
 “c) Hiatus ve diyafragma hernilerinin açık ve laparoskopik onarımlarında durumunda bedeli Kurumca karşılanır.”
 g) 3.3.21 numaralı maddesi başlığı ile beraber aşağıdaki şekilde değiştirilmiştir.
-“3.3.21 – Damar kapama ve kesme probu ve Ultrasonik Cerrahi Problar
+“**3.3.21 –** Damar kapama ve kesme probu ve Ultrasonik Cerrahi Problar
 (1) Üçüncü basamak resmi sağlık kurumlarında kullanılması halinde bedelleri Kurumca karşılanır.”
 ğ) 3.3.29 numaralı maddesinin ikinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Kanama durdurmada kullanılan tıbbi malzemelerin vücut dışı uygulamalarında, acil servislerde veya yatarak tedavilerde, epikrizde aşağıdaki durumlardan en az birinin belirtilmesi şartıyla en fazla 2 (iki) adet olmak üzere bedelleri Kurumca karşılanır.”
 h) 3.3.31 numaralı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(1) SUT eki “EK-2/B Hizmet Başı İşlem Puan Listesi” için 612732 veya 612976 SUT kodları, “EK-2/C Tanıya Dayalı İşlem Puan Listesi” için P612732 veya P612976 SUT kodları ile birlikte uygulanması ve üçüncü basamak resmi sağlık kurumlarında (eğitim verme yetkisi olan klinik) işlem başına en fazla 1 (bir) adet kullanılması halinde bedeli Kurumca karşılanır.”
 
-MADDE 11 – Aynı Tebliğin 4.2.42.B maddesinin birinci fıkrasının (a) bendinin (1) numaralı alt bendinde yer alan “en fazla 2 uygulama, toplam 6000 IU” ibaresi, “en fazla 3 uygulama, toplam 9000 IU” olarak ve (2) numaralı alt bendinde yer alan “en fazla 2 uygulama, siklus başı 4500 IU ye kadar toplam 9000 IU” ibaresi “en fazla 3 uygulama, siklus başı 4500 IU ye kadar toplam 13500 IU” olarak değiştirilmiştir.
+**MADDE 11 –** Aynı Tebliğin 4.2.42.B maddesinin birinci fıkrasının (a) bendinin (1) numaralı alt bendinde yer alan “en fazla 2 uygulama, toplam 6000 IU” ibaresi, “en fazla 3 uygulama, toplam 9000 IU” olarak ve (2) numaralı alt bendinde yer alan “en fazla 2 uygulama, siklus başı 4500 IU ye kadar toplam 9000 IU” ibaresi “en fazla 3 uygulama, siklus başı 4500 IU ye kadar toplam 13500 IU” olarak değiştirilmiştir.
 
 MADDE 12 – Aynı Tebliğ eki “Hizmet Başı İşlem Puan Listesi” nde EK-2/B aşağıdaki düzenlemeler yapılmıştır.
 a) Listeye “614170” SUT kodlu işlemden sonra gelmek üzere aşağıdaki işlem eklenmiştir.
@@ -144,19 +144,19 @@ MADDE 15 – Aynı Tebliğ eki ““İntraoperatif Nöromonitorizasyon ” İş
 MADDE 16 – Aynı Tebliğ eki “KURUMCA BEDELİ KARŞILANMAYAN DİĞER TIBBİ MALZEMELER” başlıklı EK-3/B-2 listesinin dördüncü sırasında yer alan “Dermis/Epidermis Yerine Geçen Allogreftler/Xenogreftler/Sentetik Greftler” adlı tıbbi malzemenin adı “Dermis/Epidermis Yerine Geçen Allogreftler” olarak değiştirilmiştir.
 
 MADDE 17 ‒ Aynı Tebliğ eki “Diğer Protez Ortezler” başlıklı EK-3C-3 listesinde yer alan “DO1021” SUT kodlu tıbbi malzeme aşağıdaki şekilde değiştirilmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI YENİLENME SÜRESİ ÖZEL KOŞULLAR AKTİVİTE SKORU FİYAT
-(TL) DO1021
+**SUT KODU TIBBİ MALZEME ALAN TANIMI YENİLENME SÜRESİ ÖZEL KOŞULLAR AKTİVİTE SKORU FİYAT**
+**(TL)** DO1021
 GÖZ PROTEZLERİ H
 150,00
 
 MADDE 18 – Aynı Tebliğin “Omurga Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler Listesi” nde EK-3/E-1 aşağıdaki düzenlemeler yapılmıştır.
 a) Listede yer alan “103103” SUT kodlu tıbbi malzemenin fiyatı 17.000,00 TL (Onyedibin Türk Lirası) olarak belirlenmiştir.
 b) Listede yer alan “102720” SUT kodlu tıbbi malzemeden sonra gelmek üzere aşağıdaki tıbbi malzeme eklenmiştir.
-SUT KODU MALZEME ALAN TANIMI
-FİYAT(TL) 103104 SERVİKAL FÜZYON İMPLANTI (SERVİKAL İNTERBODY KAFES, RİGİD, PEEK, STANDART, SENTETİK GREFTLİ) 961,00
+**SUT KODU MALZEME ALAN TANIMI**
+**FİYAT(TL)** 103104 SERVİKAL FÜZYON İMPLANTI (SERVİKAL İNTERBODY KAFES, RİGİD, PEEK, STANDART, SENTETİK GREFTLİ) 961,00
 c) Listede yer alan “102765” SUT kodlu tıbbi malzemeden sonra gelmek üzere aşağıdaki tıbbi malzemeler eklenmiştir.
-SUT KODU MALZEME ALAN TANIMI
-FİYAT(TL) 103105 LOMBER FÜZYON İMPLANTI (LOMBER İNTERBODY KAFES, RİGİD, PEEK, PLIF, SENTETİK GREFTLİ) 1.000,00 103106 LOMBER FÜZYON İMPLANTI ( LOMBER İNTERBODY KAFES, RİGİD, PEEK,TLIF,SENTETİK GREFTLİ) 1.450,00
+**SUT KODU MALZEME ALAN TANIMI**
+**FİYAT(TL)** 103105 LOMBER FÜZYON İMPLANTI (LOMBER İNTERBODY KAFES, RİGİD, PEEK, PLIF, SENTETİK GREFTLİ) 1.000,00 103106 LOMBER FÜZYON İMPLANTI ( LOMBER İNTERBODY KAFES, RİGİD, PEEK,TLIF,SENTETİK GREFTLİ) 1.450,00
 
 MADDE 19 – Aynı Tebliğin “Ortopedi ve Travmatoloji Branşı Artroskopi ve Eklem Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler Listesi”nde EK-3/F-2 fiyatı değişen tıbbi malzemeler bu Tebliğ eki Liste (5) numaralı listede belirtilmiştir.
 
@@ -170,8 +170,8 @@ c) Listede yer alan “ORTA KULAK İMPLANTI” başlığın altında yer alan ö
 “(1) Koklear implant ekibi tarafından değerlendirilmiş ve yapılan CT ve/veya MRI incelemeleri sonucu; koklea ve/veya akustik sinirin olmadığı veya tam gelişmediği veya hasar gördüğü tespit edilen hastalara beyin sapı implantı sağlık kurulu raporu ile veya Sağlık Bakanlığı İşitsel İmplantlar Bilimsel Danışma Komisyonu tarafından beyin sapı implantı yerleştirilmesi uygun görülen kişilerde uygulanması halinde Kurumca bedeli karşılanır.”
 
 MADDE 21 – Aynı Tebliğin “Kadın Hastalıkları ve Doğum Branşına Ait Tıbbi Malzemeler Listesi” nde EK-3/K fiyatı belirlenen tıbbi malzemeler aşağıdaki tabloda belirtilmiştir.
-SUT KODU MALZEME ALAN TANIMI FİYAT
-(TL) KD1002 MERSİLEN TAPE 65 MM İPLİK 30 CM TAPE 5 MM ½
+**SUT KODU MALZEME ALAN TANIMI FİYAT**
+**(TL)** KD1002 MERSİLEN TAPE 65 MM İPLİK 30 CM TAPE 5 MM ½
 YUVARLAK BLUNT POINT ÇİFT İĞNELİ SERKLAJ SÜTÜRÜ
 69,00 KD1007
 SİLİKON BALON HSG KATETERİ
@@ -184,14 +184,14 @@ b) Listeden “TORBALAR”,“ÜRİNER SİSTEM SONDALARI” başlıkları ve ba�
 MADDE 23 – Aynı Tebliğin “Hematoloji Onkoloji Branşına Ait Tıbbi Malzemeler Listesi” nde EK-3/O fiyatı belirlenen tıbbi malzemeler bu Tebliğ eki (7) numaralı listede belirtilmiştir.
 
 MADDE 24 – Aynı Tebliğin “Nefroloji Branşına Ait Tıbbi Malzemeler Listesi” nde EK-3/P fiyatı belirlenen tıbbi malzemeler aşağıdaki tabloda belirtilmiştir.
-SUT KODU MALZEME ALAN TANIMI FİYAT
-(TL) NF1015 HEMODİYAFİLTRASYON ARTER-VEN SETİ 10,00 NF1020
+**SUT KODU MALZEME ALAN TANIMI FİYAT**
+**(TL)** NF1015 HEMODİYAFİLTRASYON ARTER-VEN SETİ 10,00 NF1020
 HEMOFİLTRE, HİGH FLUX
 165,00 NF1030 PD-PEAD PERİTON DİYALİZ BAĞLANTI SETİ (BEBEK İÇİN) 20,00 NF1031 ALETLİ PERİTON DİYALİZİ SETİ (BEBEK İÇİN) 20,00
 
 MADDE 25 – Aynı Tebliğin “Anesteziyoloji, Reanimasyon ve Ağrı Tedavisi Branşına Ait Tıbbi Malzemeler Listesi” nde EK-3/T fiyatı belirlenen tıbbi malzemeler aşağıdaki tabloda belirtilmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI
-FİYAT (TL) AN1200
+**SUT KODU TIBBİ MALZEME ALAN TANIMI**
+**FİYAT (TL)** AN1200
 SÜREKLİ SANTRAL VENÖZ OKSİJEN SATÜRASYONU ÖLÇÜMÜ İÇİN SANTRAL KATETER
 200,00 AN1220
 SÜREKLİ KARDİYAK DEBİ ÖLÇÜMÜ SİSTEMLERİ İÇİN KATETER VE ÖLÇÜM SETİ

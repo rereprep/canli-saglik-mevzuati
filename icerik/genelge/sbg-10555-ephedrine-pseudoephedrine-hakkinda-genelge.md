@@ -10,11 +10,11 @@ durum: "yürürlükte"
 
 Tarihi:03.11.2003 Sayısı:045041 Genelge No: 2003 / 129
 
-Sayı : B100IEG0120013 ANKARA Konu: Ephedrine - Pseudoephedrine
+**Sayı :** B100IEG0120013 ANKARA **Konu:** Ephedrine - Pseudoephedrine
 
 045041 03 Kasım 2003
 
-............................................. VALİLİĞİNE (İl Sağlık Müdürlüğü)
+**............................................. VALİLİĞİNE (İl Sağlık Müdürlüğü)**
 
 ### GENELGE 2003 / 129
 

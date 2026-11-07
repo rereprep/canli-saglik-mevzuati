@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 ve Sosyal Güvenlik Bakanlığından:
-İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinin 3 üncü maddesinin birinci fıkrasında geçen “8 inci ve 30 uncu” ibaresi “8 inci, 24 üncü, 27 nci, 30 uncu ve 31 inci” olarak değiştirilmiştir.
+**MADDE 1 –** 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinin 3 üncü maddesinin birinci fıkrasında geçen “8 inci ve 30 uncu” ibaresi “8 inci, 24 üncü, 27 nci, 30 uncu ve 31 inci” olarak değiştirilmiştir.
 
 MADDE 2 – Aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
 “ğ) İtiraz komisyonu: Bu Yönetmelik kapsamında hizmet veren kişi veya kurumların belgelerinin askıya alınma veya iptali ile ilgili itirazları değerlendirmek ve sonuçlandırmak üzere; İş Sağlığı ve Güvenliği Genel Müdürlüğünün bağlı bulunduğu Müsteşar Yardımcısının başkanlığında, İş Sağlığı ve Güvenliği Genel Müdürü ve ilgili Genel Müdür Yardımcısı, ilgili Daire Başkanları ile iş sağlığı ve güvenliği uzmanlarından üç üyeden oluşan komisyonu,

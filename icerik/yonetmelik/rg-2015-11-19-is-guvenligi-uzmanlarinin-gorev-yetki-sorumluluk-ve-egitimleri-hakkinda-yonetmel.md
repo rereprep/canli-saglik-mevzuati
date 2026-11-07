@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
-İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İŞ GÜVENLİĞİ UZMANLARININ GÖREV, YETKİ, SORUMLULUK VE EĞİTİMLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 29/12/2012 tarihli ve 28512 sayılı Resmî Gazete’de yayımlanan İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmeliğin 20 nci maddesinin başlığı “Vize işlemleri ve belgelendirme” olarak değiştirilmiş, birinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiş, ikinci cümlesinde yer alan “vize işlemlerini yaptırmak isteyen” ibaresinden sonra gelmek üzere “kişi ve” ibaresi eklenmiştir.
 “Bu Yönetmelik kapsamında yetkilendirilen kişi ve kurumlara ait yetki belgelerinin beş yılda bir vize ettirilmesi zorunludur.”

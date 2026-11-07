@@ -25,7 +25,7 @@ VALİLIĞINE
 
 ( Halk Sağlığı Müdürlüğü)
 
-Özel laboratuvarların "Sularda Legionella Analizi "yapıp yapamayacagı konusunda sözlü ve yazılı olarak görüşler sorulmuş olup, bu kapsamda Bulaşıcı Daire Başkanlığından alınan görüş yazısı ekte gönderilmektedir.
+Özel laboratuvarların "Sularda <i>Legionella</i> Analizi "yapıp yapamayacagı konusunda sözlü ve yazılı olarak görüşler sorulmuş olup, bu kapsamda Bulaşıcı Daire Başkanlığından alınan görüş yazısı ekte gönderilmektedir.
 
 Doç. Dr. M. Kemal BASARALI
 
@@ -91,11 +91,11 @@ Kontrol Programı Rehberi"nde belirtildiği üzere Lejyoner hastalığı sürvey
 
 Toplum kaynaklı Lejyoner hastalıgında yaka bildirimi sonrasında; bildirime esas olmak üzere çevresel sürveyans çalışmalarının yürütülmesi. ve bu kapsamda yaka ile ilişkili konaklama biriminden alınan su örneklerinin Türkiye Halk Sağlığı Kurumunca belirlenen ve
 
-Legionella Bölge Laboratuvarı olarak faaliyet gösteren Halk Sağlığı Laboratuvarları (HSL)
+<i>Legionella</i> Bölge Laboratuvarı olarak faaliyet gösteren Halk Sağlığı Laboratuvarları (HSL)
 
-tarafından Legionella yönünden incelenmesi gereklidir.
+tarafından <i>Legionella</i> yönünden incelenmesi gereklidir.
 
-Hastaneler. Lejyoner hastalığı için risk grubuna giren bireylerin genel popülasyona göre daha yoğun olduğu yerler olduğu için hastalık oluştuğunda sıklıkla ağır seyreder ve mortalitesi yüksektir. Ek hastalık yükü yarattığı, hastanede yatış süresini uzattığı ve ekonomik kayıplara neden olduğu için hastane kaynak!! Lejyoner hastalığının kontrolünde etkin bir önleme programı yürütülmelidir. Bu amaçlar için hastanelerde su sistemi yönetimi ve aktif yaka araştırması yapılmalıdır. Yönetmelik ve Rehberde de belirtildiği üzere hastanelerde su sistemi yönetimi için belirlenen aralıklarla su sistemleri izlenmeli ve suda Legionella analizi yapılmalıdır. yaka ile ilişkili konaklama biriminden ve hastane su sistemlerinden Halk Sağlığı
+Hastaneler. Lejyoner hastalığı için risk grubuna giren bireylerin genel popülasyona göre daha yoğun olduğu yerler olduğu için hastalık oluştuğunda sıklıkla ağır seyreder ve mortalitesi yüksektir. Ek hastalık yükü yarattığı, hastanede yatış süresini uzattığı ve ekonomik kayıplara neden olduğu için hastane kaynak!! Lejyoner hastalığının kontrolünde etkin bir önleme programı yürütülmelidir. Bu amaçlar için hastanelerde su sistemi yönetimi ve aktif yaka araştırması yapılmalıdır. Yönetmelik ve Rehberde de belirtildiği üzere hastanelerde su sistemi yönetimi için belirlenen aralıklarla su sistemleri izlenmeli ve suda <i>Legionella</i> analizi yapılmalıdır. yaka ile ilişkili konaklama biriminden ve hastane su sistemlerinden Halk Sağlığı
 
 Müdürlüğü (HSM) veya Toplum Sağlığı Merkezi (TSM) Çevre Sağlığı Birimi tarafından alınan su ömeklerinin, HSM aracılığı ile yetkilendirilmiş HSLIna gönderilmesi ve bütün
 
@@ -103,7 +103,7 @@ Dr. Günseli Tuba Kabakcı
 
 masraflannın konaklama birimlerince karşılanarak incelemenin yapılması gerekir.
 
-yaka ile ilişkili konaklama birimleri ve hastane su sistemlerinde suda Legionella analizi hususunda Kurum tarafından yetkilendirilmiş laboratuvarların görev alması esastır. Bu kapsamda şu an için Lejyoner hastalığının sürveyansı ve kontrolünde, geçerli tanı kapasitesine sahip Kurum tarafından yetkilendirilen, "Legionella Bölge Laboratuvar!" olarak hizmet veren
+yaka ile ilişkili konaklama birimleri ve hastane su sistemlerinde suda Legionella analizi hususunda Kurum tarafından yetkilendirilmiş laboratuvarların görev alması esastır. Bu kapsamda şu an için Lejyoner hastalığının sürveyansı ve kontrolünde, geçerli tanı kapasitesine sahip Kurum tarafından yetkilendirilen, <i>"Legionella</i> Bölge Laboratuvar!" olarak hizmet veren
 
 Halk Sağlığı Laboratuvarları şunlardır: İstanbul 1-2-3 No.lu HSL, Bursa HSL, Izmir HSL,
 
@@ -113,9 +113,9 @@ Konya HSL, Samsun HSL, Erzurum HSL, Van HSL, Diyarbakır HSL'dır. Su örnekleri
 
 Başkanlığı, Ulusal Solunum Yolu Patojenleri Referans Laboratuvarı'nda incelenir.
 
-Hastane dışındaki konaklama birimlerinin (otel, motel, alışveriş merkezi, fabrikalar vb) yaka ihbarı olmaksızın yılda iki kere kendi imkanları ile suda Legionella araştırması yaptırrnalan
+Hastane dışındaki konaklama birimlerinin (otel, motel, alışveriş merkezi, fabrikalar vb) yaka ihbarı olmaksızın yılda iki kere kendi imkanları ile suda <i>Legionella</i> araştırması yaptırrnalan
 
-Rehberde önerilmektedir. Bu işlem Kurumca yetkilendirilmiş HSL veya geçerli 'alınmış yöntemleri kullanarak Legionella analizi yapan özel laboratuvarlarda da yapılabilir.
+Rehberde önerilmektedir. Bu işlem Kurumca yetkilendirilmiş HSL veya geçerli 'alınmış yöntemleri kullanarak <i>Legionella</i> analizi yapan özel laboratuvarlarda da yapılabilir.
 
 Bilgilerinizi ve gereğini arz ederim.
 

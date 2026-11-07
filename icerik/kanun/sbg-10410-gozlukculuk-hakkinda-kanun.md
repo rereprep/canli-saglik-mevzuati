@@ -9,7 +9,7 @@ kaynak_url: "https://www.saglik.gov.tr/TR-10410/tarih-30121940--sayi-3958-gozluk
 durum: "yürürlükte"
 ---
 
-Gözlükçülük Hakkında Kanun Tarihi:30.12.1940 Sayısı:3958 R.G. Tarihi:04.01.1941 R.G. Sayısı:4703 Kanun Numarası: 3958 Kabul Tarihi: 30/12/1940 Yayımlandığı R. Gazete: Tarih: 4/1/1941 Sayı: Yayımlandığı Düstur: Tertip: 3 Cilt: 22 Sayfa: 83
+**Gözlükçülük Hakkında Kanun** Tarihi:30.12.1940 Sayısı:3958 R.G. Tarihi:04.01.1941 R.G. Sayısı:4703 **Kanun Numarası:** 3958 **Kabul Tarihi:** 30/12/1940 **Yayımlandığı R. Gazete: Tarih:** 4/1/1941 **Sayı: Yayımlandığı Düstur: Tertip:** 3 **Cilt:** 22 **Sayfa:** 83
 
 **Madde 1 –** Numaralı (Mihraklı) gözlük camı satmak ve gözlükçü unvanını kullanabilmek için aşağıda yazılı şartları haiz olmak lazımdır: 1 - Türk olmak; 2 - Yirmi yaşını bitirmiş olmak; 3 - En az orta tahsilini ikmal etmiş bulunmak; 4 - Gözlükçülüğü yapmağa mani vücutça veya akılca bir arızası bulunmamak; 5 - Sıhhat ve İçtimai Muavenet Vekaleti tarafından verilen gözlükçülük ruhsatnamesini haiz bulunmak.
 

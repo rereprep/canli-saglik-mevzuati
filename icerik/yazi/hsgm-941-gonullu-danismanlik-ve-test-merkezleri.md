@@ -48,13 +48,13 @@ Sağlık Mah. Adnan Saygun Cd., No:55, G Blok, Kat:1 06100, Çankaya/ANKARA
 
 Faks No: Fax: (0.312) 432 29 94 TABİP
 
-GDTM Personel Kriterleri:
+**GDTM Personel Kriterleri:**
 
 En az biri sağlık personeli olmak kaydı ile danışmanlık ve test hizmeti sunacak en az iki personel (Doktor, Ebe, Hemşire, Laboratuvar Teknisyeni, Psikolog, Sosyal Hizmet
 
 Uzmanı, PDR Uzmanı, vd.) bulunmalıdır.
 
-GDTM Fiziksel Kriterleri:
+**GDTM Fiziksel Kriterleri:**
 
 Biri danışmanlık hizmetinin sunulması için 2 koltuk, bir masa ve kayıt işlemleri için bir bilgisayarın sığabileceği uygun genişlikte bir oda ve ayrıca kart test hizmetinin sunulması için bir el yıkama lavabosu ve kart testin uygulanabileceği bir masanın bulunduğu ikinci bir oda ile uygun bir bekleme alanından oluşmalıdır.
 
@@ -86,47 +86,47 @@ Sağlık Mah. Adnan Saygun Cd., No:55, G Blok, Kat:1 06100, Çankaya/ANKARA
 
 Faks No: Fax: (0.312) 432 29 94 TABİP
 
-T.C. SAĞLIK BAKANLIĞI (HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ) İLE
+**T.C. SAĞLIK BAKANLIĞI (HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ) İLE**
 
-………………. BELEDİYESİ ARASINDA
+**………………. BELEDİYESİ ARASINDA**
 
-HIV/AIDS ALANINDA İŞBİRLİĞİ PROTOKOLÜ
+**HIV/AIDS ALANINDA İŞBİRLİĞİ PROTOKOLÜ**
 
-Protokolün Tarafları
+**Protokolün Tarafları**
 
 MADDE 1 - Bu Protokolün tarafları; T.C. Sağlık Bakanlığı, Halk Sağlığı Genel Müdürlüğü (Bundan sonra Genel Müdürlük olarak adlandırılacaktır.) ile ……………….. Belediyesi (Bundan sonra Belediye olarak adlandırılacaktır.)’dir.
 
-Protokolün Konusu
+**Protokolün Konusu**
 
 MADDE 2- Bu Protokolün konusu, Genel Müdürlük ile Belediye arasında HIV/AIDS ile mücadele kapsamında hastalığın korunma yolları hakkında bilgi verilmesi ile riskli davranışta bulunan kişilerin test yaptırmasının sağlanması amacıyla risk altındaki gruplara ulaşılarak danışmanlık, bulaşın önlenmesine yönelik çalışmaların yapılması ve anonim test hizmetlerinin verilmesine aracılık edilmesidir.
 
-Genel Müdürlüğün yükümlülükleri
+**Genel Müdürlüğün yükümlülükleri**
 
-MADDE 3- Protokol kapsamında Genel Müdürlüğün yükümlülükleri şunlardır;
+**MADDE 3- Protokol kapsamında Genel Müdürlüğün yükümlülükleri şunlardır;**
 
 1. Protokol kapsamındaki işlerin koordinasyonunun sağlanması, 2. Riskli davranışta bulunan kişilere uygulanacak testlerin temin edilmesi, 3. Anonim test sonucu pozitif tespit edilen kişilerin yönlendirileceği merkezlerin ve hekimlerin belirlenmesi, 4. Test ve yönlendirme algoritmasının hazırlanması, 5. Merkeze başvuran kişilere ait bilgilerin toplanması için veri tabanı hazırlanması, 6. Danışmanlık ve Test Merkezinde çalışan personelin eğitimine destek verilmesi, 7. Hastalığın bulaşının önlenmesine yönelik koruyucu malzeme sağlanması hususunda girişimlerde bulunulması.
 
-Belediyenin yükümlülükleri
+**Belediyenin yükümlülükleri**
 
-MADDE 4- Protokol kapsamında Belediyenin yükümlülükleri şunlardır;
+**MADDE 4- Protokol kapsamında Belediyenin yükümlülükleri şunlardır;**
 
 1. Danışmanlık ve test merkezinin açılması,
 
 2. Danışmanlık ve test hizmeti verilecek merkezlerinin Genel Müdürlük ile birlikte tespit edilmesi, 3. Test hizmeti sonrasında pozitif tespit edilen hastaların belirlenen algoritma kapsamında yönlendirilmesi 4. Test yaptıran kişilerin bilgilerinin mahremiyet esasları çerçevesinde kayıt altına alınması, 5. Test yaptıran kişilerden alınan ad-soyad, T.C. kimlik numarası dışındaki standart bilgilerin belirlenen zamanlarda Genel Müdürlüğe ve ………….. İl Sağlık Müdürlüğüne gönderilmesi, 6. Merkezlerde görev alacak personelin test öncesi ve test sonrası danışmanlık eğitiminin sağlanması, 7. Hastalığın bulaşmasının önlenmesine yönelik koruyucu malzeme sağlanması durumunda, sağlanan koruyucu malzemenin dağıtılması, 8. Genel Müdürlük ile birlikte afiş, broşür gibi eğitim materyallerinin hazırlanması.
 
-Protokolün süresi
+**Protokolün süresi**
 
 MADDE 5- İşbu Protokol 31/12/2020 tarihine kadar geçerli olup, taraflarca sürenin bitiminden evvel
 
 Protokolün sona erdirileceğine ilişkin beyanda bulunulmaması durumunda birer yıllık periyotlar halinde uzamış sayılır.
 
-Yürürlük
+**Yürürlük**
 
 MADDE 6- Altı maddeden ibaret işbu Protokol, tarafların karşılıklı olarak imzasını müteakip yürürlüğe girer.
 
 Sağlık Bakanlığı …………….. Belediye Başkanlığı
 
-İÇİNDEKİLER
+**İÇİNDEKİLER**
 
 GEREKÇE .......................................................................... 2
 
@@ -148,11 +148,11 @@ Danışmanın Nitelikleri, Görev ve Sorumlulukları ........ 17
 
 Danışmanlığın İşlevleri ................................................. 18 1
 
-GÖNÜLLÜ DANIŞMANLIK VE TEST
+**GÖNÜLLÜ DANIŞMANLIK VE TEST**
 
-MERKEZLERİ (GDTM) REHBERİ
+**MERKEZLERİ (GDTM) REHBERİ**
 
-GEREKÇE
+**GEREKÇE**
 
 HIV enfeksiyonu, ilk defa ortaya çıktığı 1980’li yıllardan bu yana, tüm dünyada yayılmaya devam etmektedir. Hastalığın tedavisinde önemli gelişmeler kaydedilmiş olup enfeksiyonun erken tanısı, uygun tedavisi ve takibi koşullarında kronik bir hastalık gibi seyredebilmektedir.
 
@@ -280,7 +280,7 @@ yürütülmekte olup asgari yükümlülükler aşağıdaki gibi
 
 tanımlanmış olacaktır.
 
-Halk Sağlığı Genel Müdürlüğünün Yükümlülükleri
+**Halk Sağlığı Genel Müdürlüğünün Yükümlülükleri**
 
 1. Protokol kapsamındaki işlerin koordinasyonunun
 
@@ -314,7 +314,7 @@ koruyucu malzeme sağlanması hususunda
 
 girişimlerde bulunulması.
 
-Paydaş Kurumun Yükümlülükleri
+**Paydaş Kurumun Yükümlülükleri**
 
 1. Danışmanlık ve test merkezinin açılması,
 
@@ -354,7 +354,7 @@ malzemenin dağıtılması,
 
 materyallerinin hazırlanması.
 
-GENEL ÖZELLİKLERİ
+**GENEL ÖZELLİKLERİ**
 
 Gönüllü danışmanlık ve test merkezleri, HIV/AIDS
 
@@ -446,13 +446,13 @@ kadınların sağlıklarını korumalarına yardım etmeye de
 
 odaklanmalıdır.
 
-GDTM’LERİN İŞLEYİŞİ
+**GDTM’LERİN İŞLEYİŞİ**
 
 Danışmanlık boyutu hem test öncesi hem de test sonrasını
 
 kapsamaktadır.
 
-Test Öncesi Danışmanlık Hizmeti
+**Test Öncesi Danışmanlık Hizmeti**
 
  HIV testinin önemi
 
@@ -512,7 +512,7 @@ bütün bu olası problemleri hesaba katması, hazırlanması ve
 
 bilgilendirilmesi gerekmektedir.
 
-Test Sonrası Danışmanlık Hizmeti
+**Test Sonrası Danışmanlık Hizmeti**
 
 HIV antikoru test edilen bütün bireyler, kendilerine test
 
@@ -630,7 +630,7 @@ Test sonuçları pozitif olan kadınlara virüsün anneden
 
 hakkında da danışmanlık verilmelidir.
 
-GDTM PERSONELİNİN ÖZELLİKLERİ
+**GDTM PERSONELİNİN ÖZELLİKLERİ**
 
 GDTM’lerde çalışacak personelin seçimi, işleyişi, hizmetin
 
@@ -640,7 +640,7 @@ Bu merkezlerde çalışacak personel sayı ve nitelik açısından
 
 farklılık gösterebilir ancak ilgili personelden birisi sağlık çalışanı olmak üzere her biri danışmanlık donanımına sahip en az iki kişiden oluşmalıdır.
 
-Danışmanın Nitelikleri, Görev ve Sorumlulukları
+**Danışmanın Nitelikleri, Görev ve Sorumlulukları**
 
 İyi bir danışmanın nitelikleri:
 
@@ -662,7 +662,7 @@ Danışmanın Nitelikleri, Görev ve Sorumlulukları
 
  Aceleci davranmayan
 
-Danışmanlığın İşlevleri
+**Danışmanlığın İşlevleri**
 
 Danışmanlık hizmetinin amacı, HIV enfeksiyonundan
 
@@ -726,9 +726,9 @@ HIV’in getirdiklerinin, başkasına bulaşmasının nasıl
 
 kapsamı üzerinde durulur.
 
-Bu niteliklere sahip bir danışmanın özellikleri aşağıda
+**Bu niteliklere sahip bir danışmanın özellikleri aşağıda**
 
-belirtilmiştir:
+**belirtilmiştir:**
 
 Etkili Soru Sorma: Başvuranın sağlığı ile ilgili gerçekleri ve fikirleri ortaya çıkartmak amacıyla sorular sorulmalıdır.
 

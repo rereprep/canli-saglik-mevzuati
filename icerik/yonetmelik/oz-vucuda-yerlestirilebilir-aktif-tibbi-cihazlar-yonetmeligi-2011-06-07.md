@@ -24,7 +24,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -110,9 +110,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Piyasaya Arz ve Hizmete Sunum, Temel Gerekler, Serbest Dolaşım,
+**Piyasaya Arz ve Hizmete Sunum, Temel Gerekler, Serbest Dolaşım,**
 
-Uyumlaştırılmış Standartlara Uygunluk ve Korumaya İlişkin Tedbirler
+**Uyumlaştırılmış Standartlara Uygunluk ve Korumaya İlişkin Tedbirler**
 
 #### Piyasaya arz ve hizmete sunum
 
@@ -160,7 +160,7 @@ c) Standartların kendisinden kaynaklanan eksiklikler.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Uyarı Sistemi, Uygunluk Değerlendirme İşlemleri ve İstisnai Durum Bildirimleri
+**Uyarı Sistemi, Uygunluk Değerlendirme İşlemleri ve İstisnai Durum Bildirimleri**
 
 #### Uyarı sistemi
 
@@ -220,7 +220,7 @@ konu ile ilgili talebini, gerekçeleriyle birlikte gerekli tedbirlerin alınmas�
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Klinik Araştırmalar, Kayıt Sistemi, Onaylanmış Kuruluş ve CE İşaretlemesi
+**Klinik Araştırmalar, Kayıt Sistemi, Onaylanmış Kuruluş ve CE İşaretlemesi**
 
 #### Klinik araştırmalar
 
@@ -298,7 +298,7 @@ c) Ek II, IV ve V’te belirtilen işlemlerin uygulanmasından sorumlu onaylanm�
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Ret veya sınırlama kararları
 
@@ -338,7 +338,7 @@ c) Düzenlenen, düzeltme yapılan, ekleme yapılan, askıya alınan veya iptal 
 
 ### ALTINCI BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Kullanım güvenliği
 
@@ -544,7 +544,7 @@ Kullanım kılavuzu, kontrendikasyonlar ve alınacak önlemler hakkında hekimin
 
 ### AT UYGUNLUK BEYANI
 
-(Tam Kalite Güvence Sistemi)
+**(Tam Kalite Güvence Sistemi)**
 
 1) İmalatçı, vücuda yerleştirilebilir aktif tıbbi cihazların tasarımı, imalatı ve nihaî kontrolleri için, bu Ekin (3) ve (4) numaralı kısmında belirtilen onaylanan kalite sisteminin uygulanmasını sağlar; ayrıca, gözetim ve denetim hususunda, bu Ekin (5) numaralı kısmında belirtilen işlemlere tâbidir.
 
@@ -798,7 +798,7 @@ Eğer bir parti/lot reddedilirse, onaylanmış kuruluş bu partinin/lotun piyasa
 
 ### AT TİP UYGUNLUK BEYANI
 
-(Üretim Kalite Güvencesi )
+**(Üretim Kalite Güvencesi )**
 
 1) İmalatçı, imalat için onaylanan kalite sistemini uygulayarak vücuda yerleştirilebilir aktif tıbbi cihazların nihaî kontrollerini bu Ekin (3) numaralı kısmında belirtildiği gibi yapar; ayrıca, bu Ekin (4) numaralı kısmında belirtilen gözetim ve denetime tâbidir.
 

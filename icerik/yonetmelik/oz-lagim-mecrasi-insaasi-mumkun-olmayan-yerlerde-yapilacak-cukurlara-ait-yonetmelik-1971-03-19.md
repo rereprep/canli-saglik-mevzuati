@@ -16,11 +16,11 @@ durum: "yürürlükte"
 
 ### I. GENEL HÜKÜMLER
 
-Amaç:
+**Amaç:**
 
 **Madde 1 –** Bu Yönetmelik, su, toprak ve yiyecek maddelerinin pis sularla kirlenmesini önleyecek aile ve toplum sağlığını korumak gayesini taşır.
 
-Kapsam:
+**Kapsam:**
 
 **Madde 2 –** Belediyelerce kanalizasyonu yapılmış olan yerlerdeki bütün bina ve umumî yerlerin pis sularının bu kanallara bağlanması mecburîdir. Ancak imkân bulunmayan durumlarda bu Yönetmelik hükümleri uygulanır.
 
@@ -30,7 +30,7 @@ Bu Yönetmelik toplu insan barındıran yerlerde her türlü dinlenme, eğlence 
 
 Tesislerin gerektiği gibi işletilip işletilmediklerinin ilgili mercilerce kontrolu şarttır.
 
-Tarifler:
+**Tarifler:**
 
 **Madde 4 –** Yönetmelikte kullanılan tabirlerin ifade ettikleri manalar aşağıda açıklanmıştır.
 
@@ -44,15 +44,15 @@ d) Tasfiye tesisleri: Bu Yönetmelik kapsamına giren topluluklara ait pis sular
 
 e) Helâ çukurları: Yeraltı su seviyesinin durumuna bağlı olarak sızdırılmalı veya sızdırmasız olarak inşa edilen, yalnız dışkı ve idrarın toplanması için yapılan çukurlardır.
 
-Tasfiye tesisleri ve ek tedbirlerin gerektirdiği durum:
+**Tasfiye tesisleri ve ek tedbirlerin gerektirdiği durum:**
 
 **Madde 5 –** Mutfak, banyo, çamaşır, pisuvar, helâ ve benzeri yerler pis sularının tamamı tasfiye tesislerine verilir. Kesintili iskân olunacak yerler (Tatil evleri gibi), sanayi tesisleri, hastaneler ve benzeri müesseselerin pis suları için ilgili mevzuat gözönünde bulundurularak yetkili mercice ayrıca karara varılır.
 
-Yağış sularının verilmesi:
+**Yağış sularının verilmesi:**
 
 **Madde 6 –** Yağış suları çukurlara verilmezler. Ancak yaprak gibi tıkayıcı maddeler için tutucu tertibat yapmak şartiyle tasfiye tesislerinin çıkışlarına bağlanması uygundur.
 
-Projelerin onaylanması ve iskân müsaadesi:
+**Projelerin onaylanması ve iskân müsaadesi:**
 
 **Madde 7 –** Belediye sınırları içinde inşaat ruhsatı isteğinde bulunacak taşınmaz mal sahipleri, düzenletecekleri projeleri yetkili mercilerin tasdikine sunacaklardır.
 
@@ -62,7 +62,7 @@ Projeler fennî ve sıhhî yönlerden ilgili mercice tasdik olunacaktır.
 
 ### II. YERSEL KOŞULLARA GÖRE SEÇİLECEK SİSTEMLERİN ÇEŞİTLERİ
 
-A. Helâ çukurları:
+**A. Helâ çukurları:**
 
 8 - Helalar suyu az olan (Nüfus başına 40 l/gün den az tüketim) yerlerde pis suların dekompozisyona uğraması ile senelerce kul lanılabilen çukurlardır. Kuru ve sulu helalar olmak üzere iki cinsi vardır.
 
@@ -70,17 +70,17 @@ A. Helâ çukurları:
 
 10 - Sulu helalar devamlı kullanılma ve bakıma ihtiyaç göstermesine, ilk maliyetinin yüksek olmasına ve soğuk bölgelerde iyi çalışmamasına rağmen bir konutun içine yerleştirilebilmesi uzun süre kullanmaya elverişli olması ve estetik yönler sebebiyle tercih edilmektedir. Bilhassa yeraltı su seviyesi yüksek olan ve kayalık yerlerde uygulama alanı bulur,
 
-B. Yeraltına sızdırma:
+**B. Yeraltına sızdırma:**
 
 11 - Yeraltına sızdırmada pis su, uygun görülecek bir ön tasfiyeden sonra satha çok yakın mesafeden toprak içine dağıtılır. Dağılma sahasında ön tasfiyeden geçmiş pis sular kapiller (Kılcal) yükselme ile bitkilerin köklerine erişir. Yeraltı sızdırması için, üzerinde ağaç bulunmayan yeteri kadar büyük, uygun zemin ve uygun yeraltı su seviyesini haiz araziye ihtiyaç vardır. Yeraltı suyundan faydalanılan yerlerde yeraltı sularının kirletilmemesine bilhassa dikkat edilmesi gerekir. Yeraltına sızdırma yukarıda belirtilen şartlara uygun yerlerde pis suların yok edilmesi için ideal bir sistemdir.
 
-C. Akar sulara verme:
+**C. Akar sulara verme:**
 
 12 - Biyolojik tasfiye: Pis sular akarsulara verilmeden evvel genellikle biyolojik tasfiyeye tabi tutulur. Ancak ilgili mercinin uygun görmesi halinde pis suların biyolojik tasfiyeye uğramadan da akarsulara verilmesi mümkündür. Bu takdirde suyun kendi kendini temizleme kudretinin yeterli olması şarttır.
 
 13 - Çamur tutma: Kurak mevsimde yeteri kadar su akıtan akarsulara (Pis suyun 30 misli debide) verilecek pis sular için çamurların tutulması ile yetinilebilir. Ancak bu zamana kadar kötü bir durumun meydana gelmemiş ve bundan sonra da meydana gelece­ğinin beklenmemesi, içme su temini ve plajlar bakımından herhangi bir sakıncanın mevcut olmaması gereklidir. En alçak su seviyesinde ve tam yükleme anında nüfus başına en aşağı 10 m 2 lik su yüzeyinin mevcut olması halinde pis sular gölet ve göllere verilebilir.
 
-D. Yeraltına daldırma (Sızdırma kuyuları):
+**D. Yeraltına daldırma (Sızdırma kuyuları):**
 
 14 - Pis suyun yeraltına daldırılması tavsiyeye şayan değildir. Yeraltına sızdırmanın veya akarsulara vermenin mümkün olmadığı hallerde yeraltı kaptajlarının kirlenmemesinin emniyet altına alınmış olması ve komşu bina ve arsaların zarar görmeyeceğinin tespit edilmesi şartıyla bu usul uygulanabilir.
 
@@ -98,7 +98,7 @@ D. Yeraltına daldırma (Sızdırma kuyuları):
 
 ### IV. YAPI ESASLARI
 
-A. Helalar:
+**A. Helalar:**
 
 18 - Kuru helalar : Helâ çukuru, yeraltı su seviyesinin derin olduğu yerlerde dip tarafı hariç, bütün yanları 50 cm. kalınlığında taş duvarla örülmelidir. Yeraltı su seviyesi yüksek olan yerlerde açılacak kuru hela çukurlarının taban ve kenarları, taş, tuğla ve betondan su sızdırmayacak şekilde imal edilirler.
 
@@ -108,7 +108,7 @@ Mahremiyeti sağlamak, haşarenin içeriye girmesini önlemek ve dış tesirlerd
 
 19 - Sulu helalar: Su sızdırmaz şekilde inşa edilirler. Diğer hususlarda 18 inci madde gözönünde tutulur.
 
-B. Tasfiye tesisleri:
+**B. Tasfiye tesisleri:**
 
 20 - Tasfiye tesisinin taban ve dış duvarları su sızdırmaz şekilde inşa edilir. Çevresinin duvarlı olması halinde, duvar en aşağı bir tuğla kalınlığında veya 150 kg/mm 2 basınca dayanıklı taşlardan ve yürürlükteki şartnamelere uygun harçtan yapılmalıdır. Yerinde dökülen beton veya prefabrike parçaların uygulanmasında mevcut şartname ve standartlar gözönünde tutulur.
 
@@ -142,7 +142,7 @@ Yukarıda belirtilen yerlerde daimî surette bulunan kimseler bir kişi olarak h
 
 ### VI. TESİSLERİN PROJELENDİRİLMESİ VE HESAPLANMASI
 
-A. Kuru helalar:
+**A. Kuru helalar:**
 
 25 - Kuru helalar için (Şekil: 1) örnek olarak verilmiştir. Yönetmelik esasları gözönünde tutularak başka tertipte uygulama yapılabilir.
 
@@ -158,7 +158,7 @@ A. Kuru helalar:
 | 8 | 1.60 | 2.00 | 2.40 | 3.00 |
 | 15 | 3.00 | 3.75 | 4.50 | 5.60 |
 
-Tablo 1 a: Süzek zeminlerde kuru helâ çukurunun faydalı hacim ve derinlikleri
+**Tablo 1 a:** Süzek zeminlerde kuru helâ çukurunun faydalı hacim ve derinlikleri
 
 Çukur gereken hallerde ağaç, taş veya tuğla duvarlarla iksa edilir.
 
@@ -184,11 +184,11 @@ K = Bir kişi için alınacak hacim (m 3 /kişi yıl)
 | 1 | 2.75 | 3.50 | 2.25 | 2.80 |
 | 2 | 1.40 | 1.75 | 1.15 | 1.50 |
 
-Tablo 1 - b: Sızdırmasız kuru helâ çukurunun faydalı hacim ve derinlikleri
+**Tablo 1 - b:** Sızdırmasız kuru helâ çukurunun faydalı hacim ve derinlikleri
 
 28 - Subasman sel sularının içeri girmesini önlemek için helâ tabanı tabiî zeminden 25 cm. yüksek olacak şekilde yapılır ve çukur yanları toprak dolgu ile çevrilir.
 
-(Şekil: 1, 18)
+**(Şekil: 1, 18)**
 
 29 - Döşeme, su basmana iyice oturmalı, haşare ve kemirici hayvanların içeri girmesini önleyecek şekilde aralıksız yapılmalı ve deliğe doğru eğim verilmelidir.
 
@@ -196,7 +196,7 @@ Delik, tabanın kirlenmemesi için yeter uzunlukta (40 cm), çocukların çukura
 
 Arka duvarla delik arasında en az 10 cm. en çok 18 cm. ve tercihan 15 cm. mesafe bulunmalıdır.
 
-(Şekil: 18, 19)
+**(Şekil: 18, 19)**
 
 Ayakların temizliği bakımından hafif eğim verilmek suretiyle, ayak basacağı yapılmalıdır.
 
@@ -218,7 +218,7 @@ Barınak inşaatında ahşap, dal örgü, tuğla, kerpiç, asbestli çi­mento l
 
 Sıcak bölgelerde yeteri kadar hava cereyanı olmadığından hava­landırmadan vaz geçilebilir.
 
-Sulu helâ çukurları:
+**Sulu helâ çukurları:**
 
 32 - Faydalı hacim ve çukur: 5 kilişik bir aile için minimum faydalı hacim 1 m 3 tür. Genel helalarda adam başına 115 litre hesabıyla faydalı hacim hesaplanır. Faydalı derinlik 1-1,5 m. arasında değişir. Çukur derinliği hesabında faydalı derinliğe 0,30-0,60 m. arasında hava payı eklemelidir. Çukurlar yuvarlak ve dikdörtgen kesitli olabilir.
 
@@ -242,7 +242,7 @@ Deliğin altında 10 - 15 cm. çapında ve çukurdaki suya en az 10 cm dalacak u
 
 36 - Genel helalar her 10 - 12 kişiye bir helâ düşecek şekilde hesaplanır.
 
-C. Çamur tutma tesisleri:
+**C. Çamur tutma tesisleri:**
 
 37 - 50 kişiye kadar olan topluluklara ait pis suların çamurları çok gözlü çürütme çukurlarında tutulur.
 
@@ -280,7 +280,7 @@ Pis suların çukurlara girişi ile çukurdaki su seviyesi arasında 10 cm. lik 
 
 51 - Çıkış borusu önüne, su altına 300 mm. dalacak ve su üstünde en az 200 mm. kalacak şekilde dalgıç duvar yapılmalıdır.
 
-D. Biyolojik tasfiye:
+**D. Biyolojik tasfiye:**
 
 52 - Biyolojik tasfiye için aşağıdaki tesisler uygundur.
 
@@ -304,7 +304,7 @@ Aşağıdaki şekil ana hatları göstermek üzere örnek olarak verilmiştir.
 
 Kum filtre hendekleri 66 ncı maddedeki esaslara göre tertiplenir.
 
-E. Yeraltına sızdırma:
+**E. Yeraltına sızdırma:**
 
 58 - Aşağıdaki şekiller ana hatları göstermek üzere örnek olarak verilmişlerdir. Başka tertiplerde de uygulanabilir.
 
@@ -334,7 +334,7 @@ Zeminin yutma kabiliyeti bakımından tereddüde düşüldüğü tak­dirde sız
 
 66 - Boru hendeği evvelâ 1000 mm. yükseklikte ve hendek genişliğinde çakıl cüruf yahut benzeri malzeme ile doldurulur. Bunun üzerine sızdırma borusu döşenerek ek yerlerinin üstte kalan kısımları kartonla örtülür. Bundan sonra boru hattının üstü en aşağı 5 cm. kalınlıkta tabana konulan malzeme ile doldurulur. Bunun üzerine de kazı malzemesi konur. Sızdırma boruları son kısımlarının boru hattına dikey olarak birbirleriyle bağlanması iyi bir işletme sağlar.
 
-E. Yeraltına daldırma:
+**E. Yeraltına daldırma:**
 
 67 - Daldırma tesisi bir ön tasfiye ile buna bağlanan sızdırma çukurundan teşekkül eder.
 
@@ -366,7 +366,7 @@ Duruma göre dezenfeksiyonun ne şekilde yapılacağı mahallinde sağlık idare
 | Biyolojik tasfiye | 2 | 20 |
 | Koku izalesi | 4-6 | 15 |
 
-Tablo: 2 Klorla dezenfeksiyonda dozaj ve kontakt müddeti
+**Tablo: 2** Klorla dezenfeksiyonda dozaj ve kontakt müddeti
 
 Çamur tutma tesislerinin 3 üncü gözleri kontakt havuzu olarak kullanılabilir.
 
@@ -376,7 +376,7 @@ Tasfiye edilmiş su ile verileceği dere arasındaki bağlantıda suyun akış s
 
 ### VIII. İŞLETME VE BAKIM
 
-A. Genel bölüm:
+**<i>A. Genel bölüm:</i>**
 
 77 - Belirli zamanlarda ve ehil kimseler tarafından bakımı yapılmayan tesisler hiç bir değer taşımaz. Bir çok tasfiye çukurunun bir görevli tarafından bakılması, münferit tesislerin çeşitli kişiler tarafından bakılmasından daha iyi sonuç verir.
 
@@ -386,7 +386,7 @@ A. Genel bölüm:
 
 80 - Bakım esnasında özellikle hareketli parçalara, tıkanmalara, sızıntılara, beton kısımlarla zarar görüp görmediğine sıvaların durumuna, eksik ve kusurlu tecritlere (Boyalar, bitümler), paslanmalara, ayrıca insan ve arsa için tehlikeli olabilecek diğer hususlara dikkat edilmelidir. Tespit edilen eksik ve kusurlar derhal giderilmelidir.
 
-B. Helalar:
+**B. Helalar:**
 
 81 - Sızdırmalı kuru helalar dolduğu zaman boşaltılmaz. Üzeri toprakla doldurularak yeni bir çukur açılır ve üzerindeki kulübe iyi durumda ise yenisi üzerine oturtulur.
 
@@ -394,7 +394,7 @@ B. Helalar:
 
 83 - Sulu helâ işletmeye açılmadan evvel savak hizasına kadar su ile doldurulur. Ayrışmayı sağlamak için başka bir heladan alınmış çamur çukura atılır. Aksi takdirde helâ muhteviyatında ayrışma 6-8 hafta sonra başlar. Çukur yarıya kadar çamurla dolduğu zaman kovalarla boşaltılır. Boşaltılan çamur çürümüş olduğundan hendeklere görülür.
 
-C. Tasfiye çukurları:
+**C. Tasfiye çukurları:**
 
 84 - Tasfiye çukurlarından çıkan pis sular litrede 150 mg. veya hacim olarak 1-1,5 cm 3 den fazla askıda kalmış madde ihtiva etmemelidir. Senede en az bir defa temizlemenin tam olup olmadığı kontrol edilmelidir.
 
@@ -406,21 +406,21 @@ C. Tasfiye çukurları:
 
 88 - Çok katlı çukurlar her temizlemeden sonra taze su ile doldurulmalıdır.
 
-D. Yeraltına sızdırma ve kum filtre hendekleri:
+**D. Yeraltına sızdırma ve kum filtre hendekleri:**
 
 89 - Yeraltına sızdırma ve kum filitre hendeklerindeki sızdırma boru hatları 6 ayda bir defa kontrol edilmeli, bu arada bilhassa havalandırma bacası ile boruların çalışıp çalışmadığına dikkat edilmelidir.
 
 Dağıtım borularındaki tıkanıklık birçok hallerde basınçlı su ile giderilebilir.
 
-E. Bakteri yatakları:
+**E. Bakteri yatakları:**
 
 90 - Bakteri yataklarında pis su getiren ve dağıtan tertibatın iyi çalışıp çalışmadığı sık sık kontrol edilmeli, eksik ve kusurlar derhal giderilmelidir. Üst yüzeyinin ve orta tabakanın çamurla tıkanması halinde bu kısımlar çıkarılarak yıkanmalı gerektiği takdirde yerine yeni malzeme konulmalıdır. Bakteri yatakları yapımında olduğu gibi bakımında da özel bilgi ve titizliği zorunlu kılar.
 
-F. Sızdırma kuyuları:
+**F. Sızdırma kuyuları:**
 
 91 - Sızdırma kuyuları 3 ayda bir kontrol edilir. Tıkanmalar üstteki kum tabakasının yenilenmesi ve bunun altındaki kaba filitre tabakasının yıkanması ile giderilemediği takdirde kuyu terkedilerek yenisi yapılır.
 
-Diğer hükümler:
+**Diğer hükümler:**
 
 92 - Sıhhat ve İçtimaî Muavenet Vekâleti 1933 tarihli «Umumî Hıfzıssıhha Kanununun 245 üncü maddesine tevfikan lağım mecraları inşası mümkün olmayan mahallerde yapılacak çukurlara mahsus Yönetmelik» yürürlükten kaldırılmıştır.
 
@@ -428,4 +428,4 @@ Diğer hükümler:
 
 94 - Bu Yönetmelik Sağlık ve Sosyal Yardım Bakanlığınca yürütülür.
 
-Geçici madde 1 - Eski yönetmeliğe göre yapılmış olan çukurlar yayım tarihinden itibaren iki sene içinde yeni yönetmelik hükümlerine tabi olacaktır.
+**Geçici madde 1 -** Eski yönetmeliğe göre yapılmış olan çukurlar yayım tarihinden itibaren iki sene içinde yeni yönetmelik hükümlerine tabi olacaktır.

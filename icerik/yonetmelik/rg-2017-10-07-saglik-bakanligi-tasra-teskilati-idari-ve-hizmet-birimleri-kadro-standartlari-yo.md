@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI İDARİ VE HİZMET BİRİMLERİ KADRO STANDARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI İDARİ VE HİZMET BİRİMLERİ KADRO STANDARTLARI YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 4/1/2012 tarihli ve 28163 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinin 1 inci maddesinin birinci fıkrasında yer alan “kadroların” ibaresinden sonra gelmek üzere “ve pozisyonların” ibaresi eklenmiştir.
 

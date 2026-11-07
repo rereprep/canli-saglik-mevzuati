@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/01/20130119-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 6385 Kabul Tarihi: 10/1/2013
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 6385 **Kabul Tarihi: 10/1/2013**
 
 MADDE 1 – 25/6/2003 tarihli ve 4904 sayılı Türkiye İş Kurumu Kanununa aşağıdaki geçici madde eklenmiştir.
 “İş ve meslek danışmanları
@@ -28,7 +28,7 @@ MADDE 2 – 21/4/2005 tarihli ve 5335 sayılı Bazı Kanun ve Kanun Hükmünde K
 MADDE 3 – 16/5/2006 tarihli ve 5502 sayılı Sosyal Güvenlik Kurumu Kanununun 5 inci maddesinin birinci fıkrasının (a) ve (f) bentleri aşağıdaki şekilde değiştirilmiş ve beşinci fıkrasının birinci cümlesinde yer alan “kendi nam ve hesabına çalışanlar” ibaresinden önce gelmek üzere “tarımda ve tarım dışında” ibaresi eklenmiştir.
 “a) Sayıştay Başkanlığı, Millî Savunma Bakanlığı, İçişleri Bakanlığı, Maliye Bakanlığı, Sağlık Bakanlığı, Aile ve Sosyal Politikalar Bakanlığı, Bilim, Sanayi ve Teknoloji Bakanlığı, Gümrük ve Ticaret Bakanlığı, Kalkınma Bakanlığı, Hazine Müsteşarlığı, Türkiye İş Kurumu Genel Müdürlüğü, Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı ile öğretim üyeleri arasından Yükseköğretim Kurulu tarafından görevlendirilecek birer temsilciden,” “f) Tarımda kendi nam ve hesabına çalışanların üye olduğu kanunla kurulu kamu kurumu niteliğindeki en üst meslek kuruluşlarından en fazla üyeye sahip ilk üç kuruluş tarafından üye sayılarına orantılı olarak belirlenen 9 temsilciden, tarım dışında kendi nam ve hesabına çalışanların üye olduğu kanunla kurulu kamu kurumu niteliğindeki en üst meslek kuruluşlarından en fazla üyeye sahip ilk üç kuruluş tarafından üye sayılarına orantılı olarak belirlenen 9 temsilciden,”
 
-MADDE 4 – 5502 sayılı Kanunun 6 ncı maddesinin birinci fıkrasının (b) bendinde yer alan “bir” ibaresi “iki” şeklinde, (h) bendinde yer alan “Kendi nam ve hesabına” ibaresi “Tarımda kendi nam ve hesabına” şeklinde, aynı fıkrada yer alan “10” ibaresi “12” şeklinde, ikinci fıkrada yer alan “altı” ibareleri “yedi” şeklinde değiştirilmiş ve birinci fıkraya aşağıdaki bent eklenmiştir.
+**MADDE 4 –** 5502 sayılı Kanunun 6 ncı maddesinin birinci fıkrasının (b) bendinde yer alan “bir” ibaresi “iki” şeklinde, (h) bendinde yer alan “Kendi nam ve hesabına” ibaresi “Tarımda kendi nam ve hesabına” şeklinde, aynı fıkrada yer alan “10” ibaresi “12” şeklinde, ikinci fıkrada yer alan “altı” ibareleri “yedi” şeklinde değiştirilmiş ve birinci fıkraya aşağıdaki bent eklenmiştir.
 “i) (h) bendi dışındaki kendi nam ve hesabına çalışanları temsilen seçilecek bir üye,”
 
 MADDE 5 – 5502 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
@@ -72,7 +72,7 @@ MADDE 14 – 5510 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 GEÇİCİ MADDE 47 – Bu maddenin yürürlüğe girdiği tarihten önce, 5335 sayılı Kanunun 30 uncu maddesinin ikinci ve üçüncü fıkraları uyarınca emeklilik veya yaşlılık aylıklarının kesilmesini gerektiren bir işte çalışmış olanların, bu aylıklarının hangi tarihte tekrar bağlanacağının tespitinde 5335 sayılı Kanunun 30 uncu maddesinin beşinci fıkrası dikkate alınır.
 Sosyal güvenlik kanunlarına göre emeklilik veya yaşlılık aylığı almakta iken 5335 sayılı Kanunun 30 uncu maddesinin ikinci fıkrası kapsamına giren kurum ve kuruluşlara ait işyerlerinde çalışmaları nedeniyle aylıkları kesilmesi gerekenlere, bu maddenin yürürlüğe girdiği tarihi takip eden ödeme dönemine kadar yersiz olarak ödendiği tespit edilen aylıklara ilişkin asli ve ferî borçlar, ilgililerin bu maddenin yürürlüğe girdiği tarihi takip eden ay başından itibaren dört ay içinde başvuruda bulunmaları halinde 6111 sayılı Kanunun ilgili maddelerine göre yapılandırılır.”
 
-MADDE 15 – 5510 sayılı Kanunun 40 ıncı maddesinin ikinci fıkrasında yer alan tabloya aşağıdaki sıralar eklenmiş; üçüncü fıkrasında yer alan “Bu sürelerin, üç yılı geçmemek üzere yarısı” ibaresi, “Bu sürelerin, üç yılı geçmemek üzere; (18) numaralı sırasında bulunanlar için tamamı diğerleri için yarısı” şeklinde değiştirilmiş ve dördüncü fıkrasında yer alan “malûliyet halleri” ibaresinden sonra gelmek üzere “ile (18) numaralı sırada bulunanlar” ibaresi eklenmiştir.
+**MADDE 15 –** 5510 sayılı Kanunun 40 ıncı maddesinin ikinci fıkrasında yer alan tabloya aşağıdaki sıralar eklenmiş; üçüncü fıkrasında yer alan “Bu sürelerin, üç yılı geçmemek üzere yarısı” ibaresi, “Bu sürelerin, üç yılı geçmemek üzere; (18) numaralı sırasında bulunanlar için tamamı diğerleri için yarısı” şeklinde değiştirilmiş ve dördüncü fıkrasında yer alan “malûliyet halleri” ibaresinden sonra gelmek üzere “ile (18) numaralı sırada bulunanlar” ibaresi eklenmiştir.
 “16) Basın ve gazetecilik Basın Kartı Yönetmeliğine göre 90 mesleğinde basın kartı sahibi olmak suretiyle fiilen çalışanlar.
 17) Türkiye Radyo-Televizyon Basın Kartı Yönetmeliğine göre 90 Kurumu basın kartı sahibi olmak suretiyle;
 Türkiye Radyo-Televizyon Kurumunda haber hizmetinde fiilen çalışanlar.

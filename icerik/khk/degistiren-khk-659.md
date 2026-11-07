@@ -16,21 +16,21 @@ durum: "yürürlükte"
 
 ### ÖZEL BÜTÇELİ İDARELERDE HUKUK HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN KANUN HÜKMÜNDE KARARNAME
 
-Kanun Hükmünde Kararnamenin Tarihi : 26/9/2011 No : 659
+**Kanun Hükmünde Kararnamenin Tarihi : 26/9/2011 No : 659**
 
-Yetki Kanununun Tarihi : 6/4/2011 No : 6223
+**Yetki Kanununun Tarihi : 6/4/2011 No : 6223**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 2/11/2011 No : 28103
+**Yayımlandığı Resmî Gazetenin Tarihi : 2/11/2011 No : 28103**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 51
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 51**
 
-Amaç ve kapsam[1]
+**Amaç ve kapsam**[1]
 
-MADDE 1 ‒ (1) Bu Kanun Hükmünde Kararnamenin amacı; genel bütçe kapsamındaki kamu idareleri (Türkiye Büyük Millet Meclisi, Cumhurbaşkanlığı, Anayasa Mahkemesi, Yargıtay, Danıştay, Hâkimler ve Savcılar Yüksek Kurulu ve Sayıştay dâhil) ve özel bütçeli idarelerin hukuk hizmetlerinin etkili, verimli ve usul ekonomisine uygun şekilde yerine getirilmesine ve bu hizmetlerin yürütülmesinde uygulama birliğinin sağlanmasına yönelik usul ve esasların belirlenmesidir.
+**MADDE 1 ‒** (1) Bu Kanun Hükmünde Kararnamenin amacı; genel bütçe kapsamındaki kamu idareleri (Türkiye Büyük Millet Meclisi, Cumhurbaşkanlığı, Anayasa Mahkemesi, Yargıtay, Danıştay, Hâkimler ve Savcılar Yüksek Kurulu ve Sayıştay dâhil) ve özel bütçeli idarelerin hukuk hizmetlerinin etkili, verimli ve usul ekonomisine uygun şekilde yerine getirilmesine ve bu hizmetlerin yürütülmesinde uygulama birliğinin sağlanmasına yönelik usul ve esasların belirlenmesidir.
 
-Tanımlar
+**Tanımlar**
 
-MADDE 2 ‒ (1) Bu Kanun Hükmünde Kararnamenin uygulanmasında;
+**MADDE 2 ‒** (1) Bu Kanun Hükmünde Kararnamenin uygulanmasında;
 
 a) Hukuk birimi: İdarelerde hukuk hizmetlerini yürüten birimi,
 
@@ -42,13 +42,13 @@ c) Hukuki uyuşmazlık değerlendirme komisyonu: İdareler bünyesinde, üst yö
 
 d) İlgili bakan: İdarelerin bağlı, ilgili veya ilişkili olduğu bakanı, Yükseköğretim Kurulu ile Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı, üniversiteler ve yüksek teknoloji enstitüleri için Milli Eğitim Bakanını,
 
-e) (Değişik: 3/10/2016-KHK-676/71 md.; Aynen kabul: 1/2/2018-7070/57 md.) Üst yönetici: Bakanlıklarda müsteşarı ve kamu idarelerinde en üst yöneticiyi,
+e) **(Değişik: 3/10/2016-KHK-676/71 md.; Aynen kabul: 1/2/2018-7070/57 md.)** Üst yönetici: Bakanlıklarda müsteşarı ve kamu idarelerinde en üst yöneticiyi,
 
 ifade eder.
 
-İlkeler
+**İlkeler**
 
-MADDE 3 ‒ (1) Bu Kanun Hükmünde Kararnamenin uygulanmasında;
+**MADDE 3 ‒** (1) Bu Kanun Hükmünde Kararnamenin uygulanmasında;
 
 a) İdarelerin taraf oldukları uyuşmazlıkların, tarafların hak ve menfaatlerinin dengeli olarak değerlendirilerek, adil ve hakkaniyete uygun olarak çözümlenmesi,
 
@@ -58,9 +58,9 @@ c) Davaların takibinde, mahkeme kararlarının hukuka uygun olarak, adil, süra
 
 esastır.
 
-Hukuk birimlerinin görevleri[2]
+**Hukuk birimlerinin görevleri**[2]
 
-MADDE 4 ‒ (1) Hukuk birimleri; idarelerde muhakemat hizmetleri ile hukuk danışmanlığına ilişkin iş ve işlemleri yürütmekle görevli ve sorumludur.
+**MADDE 4 ‒** (1) Hukuk birimleri; idarelerde muhakemat hizmetleri ile hukuk danışmanlığına ilişkin iş ve işlemleri yürütmekle görevli ve sorumludur.
 
 (2) Hukuk birimleri muhakemat hizmetleri kapsamında;
 
@@ -82,9 +82,9 @@ c) İdarenin amaçlarını daha iyi gerçekleştirmek, mevzuata, plan ve program
 
 (6) Teşkilat kanunlarına veya Cumhurbaşkanlığı kararnamelerine göre hukuk birimi kurulmayan idarelerde, bu Kanun Hükmünde Kararnamede belirtilen hukuk hizmetleri, istihdam edilen avukatlar tarafından yerine getirilir. İdarelerin merkez birimlerinde istihdam edilen avukatlardan birisi, üst yönetici onayı ile hukuk birimi amiri olarak görevlendirilir.
 
-Muhakemat hizmeti temini[3]
+**Muhakemat hizmeti temini**[3]
 
-MADDE 5 ‒ (1) İdareler, muhakemat hizmetleri ihtiyaçlarını;
+**MADDE 5 ‒** (1) İdareler, muhakemat hizmetleri ihtiyaçlarını;
 
 a) Hukuk birimlerinde istihdam edecekleri hukuk müşavirleri ve avukatlardan,
 
@@ -98,9 +98,9 @@ sağlayabilirler.
 
 (4) Hizmet satın alınarak kendisine vekalet verilen serbest avukatlar ve avukatlık ortaklıkları kendilerine vekalet verilen dava ve icra işlemlerinin takibiyle ilgili olarak, ilgili mevzuatla idareleri vekil sıfatıyla temsile yetkili olan görevlilerle aynı yetki ve sorumlulukları haizdir.
 
-Takip ve temsil yetkileri ile bunların kapsamı, niteliği ve kullanılması
+**Takip ve temsil yetkileri ile bunların kapsamı, niteliği ve kullanılması**
 
-MADDE 6 ‒ (1) İdareler, kendi iş ve işlemleriyle ilgili olarak açılacak adli ve idari davalar ile tahkim yargılaması ve icra işlemlerinde taraf sıfatını haizdir.
+**MADDE 6 ‒** (1) İdareler, kendi iş ve işlemleriyle ilgili olarak açılacak adli ve idari davalar ile tahkim yargılaması ve icra işlemlerinde taraf sıfatını haizdir.
 
 (2) İdareleri adli ve idari yargıda, icra mercileri ve hakemler nezdinde vekil sıfatıyla doğrudan temsil yetkisi; hukuk birimi amirleri, hukuk müşavirleri, muhakemat müdürleri ve avukatlara aittir.
 
@@ -110,9 +110,9 @@ MADDE 6 ‒ (1) İdareler, kendi iş ve işlemleriyle ilgili olarak açılacak a
 
 (5) İdareleri vekil sıfatıyla temsile yetkili olan hukuk birimi amiri, hukuk müşaviri ve avukatların bir listesi, idaresince yazılı olarak veya Adalet Bakanlığınca belirlenen esaslar dairesinde elektronik ortamda ilgili Cumhuriyet başsavcılığına, bölge idare mahkemesi başkanlıklarına (…)[5] verilir. Bu listeler, Cumhuriyet başsavcılığı tarafından adli yargı çevresinde, bölge idare mahkemesi başkanlığınca idari yargı çevresinde bulunan mahkemelere gönderilir. Yüksek mahkemeler ve bölge adliye mahkemesindeki duruşmalarda temsil yetkisini kullanacakların isimleri ilgili mahkemelerin başsavcılıklarına veya başkanlıklarına bildirilir. Listede isimleri yer alanlar, baroya kayıt ve vekaletname ibrazı gerekmeksizin idare vekili sıfatıyla her türlü dava ve icra işlemlerini takip edebilirler. Vekil sıfatıyla temsil yetkisi sona erenlerin isimleri anılan mercilere aynı usulle derhal bildirilir.5
 
-Özel takip ve temsil yetkileri[6]
+**Özel takip ve temsil yetkileri**[6]
 
-MADDE 7 ‒ (1) Birden fazla idarenin taraf olduğu idari davalardan;
+**MADDE 7 ‒** (1) Birden fazla idarenin taraf olduğu idari davalardan;
 
 a) Müşterek kararnamelerle ilgili olarak açılanlar ve bunlarla ilgili icra işlemleri, davaya taraf olan tüm idarelerin vekili sıfatıyla, müşterek kararnameyi teklif eden bakanlığın hukuk birimince takip ve müdafaa edilir.
 
@@ -120,9 +120,9 @@ b) Cumhurbaşkanı kararları ve düzenleyici işlemlerle ilgili açılan ve Cum
 
 (2) Ulusal ve uluslararası mahkeme ve tahkim mercilerinde Türkiye Cumhuriyeti Hükümeti veya idarelerin taraf ya da müdahil oldukları, birinci fıkrada belirtilen davalar dahil her türlü davadan, Cumhurbaşkanlığınca Cumhurbaşkanlığı hukuk birimi tarafından takibi gerekli görülenler ve bunlarla ilgili icra işlemleri, ilgili idarenin de vekili sıfatıyla Cumhurbaşkanlığı hukuk birimince takip ve müdafaa edilir.
 
-Davaların açılması
+**Davaların açılması**
 
-MADDE 8 ‒ (1) İdareler adına dava açma veya icra takibine başlama talebi, üst yönetici veya iş ve işlemle ilgili merkez veya taşra birim amiri tarafından yapılır. Merkez veya taşra birim amirince yapılan talep üzerine davayı açmakla yetkili ve görevli olanlarca, maddi ve hukuki sebeplerle dava açılmasında kamu menfaati bulunmadığı yönünde görüş belirtilmesi halinde, üst yöneticinin talimatına göre işlem yapılır.
+**MADDE 8 ‒** (1) İdareler adına dava açma veya icra takibine başlama talebi, üst yönetici veya iş ve işlemle ilgili merkez veya taşra birim amiri tarafından yapılır. Merkez veya taşra birim amirince yapılan talep üzerine davayı açmakla yetkili ve görevli olanlarca, maddi ve hukuki sebeplerle dava açılmasında kamu menfaati bulunmadığı yönünde görüş belirtilmesi halinde, üst yöneticinin talimatına göre işlem yapılır.
 
 (2) Dava açılması veya icra takibinde bulunulmasını isteyen idare veya birim, dava açılması talebi ile birlikte davaya dair bilgi ve belgeleri zamanaşımı ve hak düşürücü süreleri dikkate alarak hukuk birimine gönderir. Süresinde gönderilmeyen veya eksik ya da yanlış gönderilen bilgi ve belgeden kaynaklanan sorumluluk bunu gönderen idareye veya birime aittir.
 
@@ -130,9 +130,9 @@ MADDE 8 ‒ (1) İdareler adına dava açma veya icra takibine başlama talebi, 
 
 (4) Üst yönetici bu maddedeki yetkilerini sınırlarını belirterek yardımcılarına veya hukuk birimi amirine devredebilir.
 
-Adli uyuşmazlıklarda sulh
+**Adli uyuşmazlıklarda sulh**
 
-MADDE 9 ‒ (1) İdarelerin adli yargıda dava açmadan veya icra takibine başlamadan önce karşı tarafı sulhe davet etmesi esastır. İdareler, kendi aleyhlerine dava açılacağını veya icra takibine başlanılacağını öğrenmeleri durumunda da karşı tarafı sulhe davet edebilirler. Sulhe davet, uyuşmazlığın tarafı olan gerçek veya tüzel kişilerce de yapılabilir. İlgili mevzuatında daha uzun bir süre öngörülmediği takdirde, sulhe davette karşı tarafa, ifa, itiraz veya sulh teklifinde bulunmak üzere otuz güne kadar süre verilir.
+**MADDE 9 ‒** (1) İdarelerin adli yargıda dava açmadan veya icra takibine başlamadan önce karşı tarafı sulhe davet etmesi esastır. İdareler, kendi aleyhlerine dava açılacağını veya icra takibine başlanılacağını öğrenmeleri durumunda da karşı tarafı sulhe davet edebilirler. Sulhe davet, uyuşmazlığın tarafı olan gerçek veya tüzel kişilerce de yapılabilir. İlgili mevzuatında daha uzun bir süre öngörülmediği takdirde, sulhe davette karşı tarafa, ifa, itiraz veya sulh teklifinde bulunmak üzere otuz güne kadar süre verilir.
 
 (2) Gecikmesinde sakınca bulunan veya işin mahiyeti gereği süre verilmesinde fayda görülmeyen hallerde doğrudan dava ve icra yoluna başvurulabilir.
 
@@ -142,9 +142,9 @@ MADDE 9 ‒ (1) İdarelerin adli yargıda dava açmadan veya icra takibine başl
 
 (5) Sulh başvurularının altmış gün içinde sonuçlandırılması zorunludur. Sulh başvurusu altmış gün içinde sonuçlandırılmamışsa istek reddedilmiş sayılır.
 
-Adli uyuşmazlıklarda sulhün usul ve esasları
+**Adli uyuşmazlıklarda sulhün usul ve esasları**
 
-MADDE 10 ‒ (1) Sulh anlaşması, anlaşma tutanağında belirtilen tutar kadar bir hakkın tanınması, menfaatin terki, bir şeyin verilmesi, yapılması ya da yapılmaması konusunda anlaşmalar veya sözleşme değişikliklerini kapsar. Sulhe konu işte birden çok ihtilaf bulunduğu takdirde asıl olan, ihtilafın tamamının çözümlenmesidir. Ancak kamu menfaati görüldüğünde kısmi sulh de mümkündür.
+**MADDE 10 ‒** (1) Sulh anlaşması, anlaşma tutanağında belirtilen tutar kadar bir hakkın tanınması, menfaatin terki, bir şeyin verilmesi, yapılması ya da yapılmaması konusunda anlaşmalar veya sözleşme değişikliklerini kapsar. Sulhe konu işte birden çok ihtilaf bulunduğu takdirde asıl olan, ihtilafın tamamının çözümlenmesidir. Ancak kamu menfaati görüldüğünde kısmi sulh de mümkündür.
 
 (2) Maddi ve hukuki nedenlerle kamu menfaati görülmesi halinde, 11 inci maddedeki yetkiler çerçevesinde asıl alacak ve fer’ilerinden kısmen ya da tamamen vazgeçilebilir.
 
@@ -154,9 +154,9 @@ MADDE 10 ‒ (1) Sulh anlaşması, anlaşma tutanağında belirtilen tutar kadar
 
 (5) Tarafların sulhe davet yazısının diğer tarafa tebliği ile uyuşmazlık konusu hak ve alacağın tabi olduğu kanuni süreler durur. Sulhün sağlanamaması halinde bu husus tutanağa bağlanır, tutanak tarihinden itibaren uyuşmazlığın niteliğine göre kanuni süreler yeniden işlemeye başlar. Mücbir sebep halinde genel hükümlere göre işlem yapılır.
 
-Adli uyuşmazlıkların sulh yoluyla halli, uzlaşma ve vazgeçme yetkileri
+**Adli uyuşmazlıkların sulh yoluyla halli, uzlaşma ve vazgeçme yetkileri**
 
-MADDE 11 ‒ (1) İdarelerin;
+**MADDE 11 ‒** (1) İdarelerin;
 
 a) Kendi aralarında ortaya çıkan her türlü hukuki uyuşmazlığın sulh yoluyla hallinde, dava açılmasında, bunlardan yargı veya icra mercilerine intikal etmiş olanların takiplerinden veya davalarda verilen kararlara karşı kanun yollarına gidilmesinden vazgeçilmesinde, sözleşmelerin değiştirilmesinde veya sona erdirilmesinde,
 
@@ -166,11 +166,11 @@ hukuk birimlerinin uyuşmazlığın bu şekilde sonlandırılmasında maddi ve h
 
 (2) Birinci fıkrada belirtilenler dışında, idarelerin, herhangi bir sözleşmeye dayanıp dayanmadığına, yargıya intikal edip etmediğine bakılmaksızın gerçek veya tüzel kişilerle aralarında çıkan her türlü hukuki uyuşmazlığın sulh yoluyla halline, her türlü dava açılmasından veya icra takibine başlanılmasından, bunlardan yargı veya icra mercilerine intikal etmiş olanların takiplerinden veya verilen kararlara karşı karar düzeltme yoluna gidilmesi dışındaki kanun yollarına gidilmesinden vazgeçmeye, davaları kabule, ceza uyuşmazlıklarında şikayetten vazgeçmeye veya uzlaşmaya, davadan feragat etmeye, sözleşmede belirtilmeyen sebeplerle sözleşmelerin değiştirilmesinde veya sona erdirilmesinde maddi ve hukuki sebeplerle kamu menfaati görülmesi halinde, buna dair onay veya anlaşmaları imzalamaya, vazgeçilen veya tanınan ya da terkin edilen hak ve menfaatin değeri dikkate alınmak suretiyle;
 
-a) Tutara ilişkin olmayanlar ile 1.000.000 Türk Lirasına (19.560.340,5 TL) kadar olanlarda (1.000.000 Türk Lirası dahil) hukuk biriminin görüşü alınarak, ilgili harcama yetkilisinin teklifi üzerine üst yönetici,[7]
+a) Tutara ilişkin olmayanlar ile 1.000.000 Türk Lirasına (**19.560.340,5 TL)** kadar olanlarda (1.000.000 Türk Lirası dahil) hukuk biriminin görüşü alınarak, ilgili harcama yetkilisinin teklifi üzerine üst yönetici,[7]
 
-b) 1.000.000 Türk Lirasından (19.560.340,5 TL) fazla olanlardan 10.000.000 Türk Lirasına (195.603.407 TL) kadar olanlarda (10.000.000 Türk Lirası dahil), hukuki uyuşmazlık değerlendirme komisyonunun görüşü alınarak, üst yöneticinin teklifi üzerine ilgili bakan, Milli Savunma Bakanlığında Müsteşarın teklifi üzerine Bakan,7
+b) 1.000.000 Türk Lirasından **(19.560.340,5 TL)** fazla olanlardan 10.000.000 Türk Lirasına **(195.603.407 TL)** kadar olanlarda (10.000.000 Türk Lirası dahil), hukuki uyuşmazlık değerlendirme komisyonunun görüşü alınarak, üst yöneticinin teklifi üzerine ilgili bakan, Milli Savunma Bakanlığında Müsteşarın teklifi üzerine Bakan,7
 
-c) 10.000.000 Türk Lirasından (195.603.407 TL) fazla olanlarda Cumhurbaşkanı,7[8]
+c) 10.000.000 Türk Lirasından **(195.603.407 TL)** fazla olanlarda Cumhurbaşkanı,7[8]
 
 yetkilidir. Bakan ya da üst yönetici bu yetkisini sınırlarını açıkça belirlemek suretiyle alt kademelere, münhasıran taşra birimlerinin iş ve işlemleriyle ilgili olup illerde valilik, ilçelerde kaymakamlık onayına bağlanan iş ve işlemlerden kaynaklanan uyuşmazlıklarda vali ve kaymakamlara devredebilir.
 
@@ -178,9 +178,9 @@ yetkilidir. Bakan ya da üst yönetici bu yetkisini sınırlarını açıkça be
 
 (4) 7 nci maddeye göre başka idare tarafından takip edilen davalar ile Maliye Bakanlığı tarafından takip edilen diğer idarelere ait dava ve icra işlerindeki vazgeçme, feragat ve kabul işlemleri ile yargıya intikal etmiş uyuşmazlıkların sulhen çözümlenmesine ilişkin işlemler, dava veya icra dosyasını takip eden idarenin tabi olduğu usulde yapılır.
 
-İdari uyuşmazlıkların sulh yoluyla halli ve vazgeçme yetkileri
+**İdari uyuşmazlıkların sulh yoluyla halli ve vazgeçme yetkileri**
 
-MADDE 12 ‒ (1) İdari işlemler dolayısıyla haklarının ihlal edildiğini iddia edenler idareye başvurarak, uğramış oldukları zararın sulh yoluyla giderilmesini dava açma süresi içinde isteyebilirler. İdari eylemler nedeniyle hakları ihlal edilenlerce, idari dava açmadan önce 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanununun 13 üncü maddesinin birinci fıkrası uyarınca yapılan başvurular da sulh başvurusu olarak kabul edilir ve bu maddede yer alan hükümler çerçevesinde incelenir.
+**MADDE 12 ‒** (1) İdari işlemler dolayısıyla haklarının ihlal edildiğini iddia edenler idareye başvurarak, uğramış oldukları zararın sulh yoluyla giderilmesini dava açma süresi içinde isteyebilirler. İdari eylemler nedeniyle hakları ihlal edilenlerce, idari dava açmadan önce 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanununun 13 üncü maddesinin birinci fıkrası uyarınca yapılan başvurular da sulh başvurusu olarak kabul edilir ve bu maddede yer alan hükümler çerçevesinde incelenir.
 
 (2) Sulh istemine ilişkin başvuru, işlemeye başlamış olan dava açma süresini durdurur. Başvuru sonuçlanmadan dava açılamaz.
 
@@ -200,13 +200,13 @@ MADDE 12 ‒ (1) İdari işlemler dolayısıyla haklarının ihlal edildiğini i
 
 (10) Bu madde kapsamındaki idari uyuşmazlıkların sulhen halli ile idari davaların açılmasından, takibinden, davayı kabul ve feragatten, kanun yollarına başvurulmasından vazgeçilmesi, 11 inci maddede belirtilen esaslara ve tutarlara göre belirlenir.
 
-Dış temsilciliklerde görevlendirme
+**Dış temsilciliklerde görevlendirme**
 
-MADDE 13 ‒ (1) Avrupa İnsan Hakları Mahkemesine yapılan başvuruların incelenmesi sırasında Adalet veya Dışişleri Bakanlıklarınca ihtiyaç duyulması halinde Avrupa Konseyi nezdindeki Türkiye Daimi Temsilciliğinde, başvuruyla ilgili idareden hukuk birimi amiri veya hukuk müşaviri ya da avukat görevlendirilebilir.
+**MADDE 13 ‒** (1) Avrupa İnsan Hakları Mahkemesine yapılan başvuruların incelenmesi sırasında Adalet veya Dışişleri Bakanlıklarınca ihtiyaç duyulması halinde Avrupa Konseyi nezdindeki Türkiye Daimi Temsilciliğinde, başvuruyla ilgili idareden hukuk birimi amiri veya hukuk müşaviri ya da avukat görevlendirilebilir.
 
-Davalardaki temsilin niteliği ve vekalet ücretine hükmedilmesi ve dağıtımı
+**Davalardaki temsilin niteliği ve vekalet ücretine hükmedilmesi ve dağıtımı**
 
-MADDE 14 ‒ (1) Tahkim usulüne tabi olanlar dahil adli ve idari davalar ile icra dairelerinde idarelerin vekili sıfatıyla hukuk birimi amirleri, muhakemat müdürleri, hukuk müşavirleri ve avukatlar tarafından yapılan takip ve duruşmalar için, bu davaların idareler lehine neticelenmesi halinde, bunlar tarafından temsil ve takip edilen dava ve işlerde ilgili mevzuata göre hükmedilmesi gereken tutar üzerinden idareler lehine vekalet ücreti takdir edilir.
+**MADDE 14 ‒** (1) Tahkim usulüne tabi olanlar dahil adli ve idari davalar ile icra dairelerinde idarelerin vekili sıfatıyla hukuk birimi amirleri, muhakemat müdürleri, hukuk müşavirleri ve avukatlar tarafından yapılan takip ve duruşmalar için, bu davaların idareler lehine neticelenmesi halinde, bunlar tarafından temsil ve takip edilen dava ve işlerde ilgili mevzuata göre hükmedilmesi gereken tutar üzerinden idareler lehine vekalet ücreti takdir edilir.
 
 (2) İdareler lehine karara bağlanan ve tahsil olunan vekalet ücretleri, hukuk biriminin bağlı olduğu idarenin merkez teşkilatında bir emanet hesabında toplanarak idare hukuk biriminde fiilen görev yapan personele aşağıdaki usul ve sınırlar dahilinde ödenir.
 
@@ -218,31 +218,31 @@ c) Yapılacak dağıtım sonunda arta kalan tutar, hukuk biriminde görev yapan 
 
 (3) Hizmet satın alınan avukatlara yapılacak ödemeler bu madde kapsamı dışındadır.
 
-Parasal sınırlar
+**Parasal sınırlar**
 
-MADDE 15 ‒ (1) Bu Kanun Hükmünde Kararnamede yer alan parasal sınırlar, her takvim yılı başından geçerli olmak üzere, Cumhurbaşkanınca daha yüksek tutarlar belirlenmedikçe, o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılarak uygulanır. Uygulanacak tutarlar her yıl Ocak ayı içerisinde Maliye Bakanlığı tarafından yayımlanır.[10]
+**MADDE 15 ‒** (1) Bu Kanun Hükmünde Kararnamede yer alan parasal sınırlar, her takvim yılı başından geçerli olmak üzere, Cumhurbaşkanınca daha yüksek tutarlar belirlenmedikçe, o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılarak uygulanır. Uygulanacak tutarlar her yıl Ocak ayı içerisinde Maliye Bakanlığı tarafından yayımlanır.[10]
 
-Yönetmelik
+**Yönetmelik**
 
-MADDE 16 ‒ (1) Bu Kanun Hükmünde Kararname kapsamında hukuki uyuşmazlık değerlendirme komisyonunun çalışma usul ve esasları, avukatlık hizmeti satın alınmasıyla ilgili usul ve esaslar ile bunların takip ve denetimine ilişkin hususlar ve vekalet ücretlerinin dağıtımına dair usuller Cumhurbaşkanınca yürürlüğe konulan yönetmelikle belirlenir.[11]
+**MADDE 16 ‒** (1) Bu Kanun Hükmünde Kararname kapsamında hukuki uyuşmazlık değerlendirme komisyonunun çalışma usul ve esasları, avukatlık hizmeti satın alınmasıyla ilgili usul ve esaslar ile bunların takip ve denetimine ilişkin hususlar ve vekalet ücretlerinin dağıtımına dair usuller Cumhurbaşkanınca yürürlüğe konulan yönetmelikle belirlenir.[11]
 
-Değiştirilen hükümler
+**Değiştirilen hükümler**
 
-MADDE 17 ‒ (1) (14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 17 ‒** (1) **(14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-(2) (10/10/1984 tarihli ve 3056 sayılı Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)
+(2) **(10/10/1984 tarihli ve 3056 sayılı Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)**
 
-(3) (10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile ilgili olup yerine işlenmiştir.)
+(3) (**10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-(4) (11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
+(4) **(11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun ile ilgili olup yerine işlenmiştir.)**
 
-(5) (13/12/1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)
+(5) **(13/12/1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)**
 
-(6) 3/6/2011 tarihli ve 641 sayılı Kalkınma Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)
+(6) **3/6/2011 tarihli ve 641 sayılı Kalkınma Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)**
 
-Yürürlükten kaldırılan ve uygulanmayacak hükümler ile atıflar
+**Yürürlükten kaldırılan ve uygulanmayacak hükümler ile atıflar**
 
-MADDE 18 ‒ (1) 2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekâlet Hakkında Kanun yürürlükten kaldırılmıştır. Diğer mevzuatta 1389 sayılı Kanuna yapılan atıflar bu Kanun Hükmünde Kararnameye yapılmış sayılır.
+**MADDE 18 ‒** (1) 2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekâlet Hakkında Kanun yürürlükten kaldırılmıştır. Diğer mevzuatta 1389 sayılı Kanuna yapılan atıflar bu Kanun Hükmünde Kararnameye yapılmış sayılır.
 
 (2) 8/1/1943 tarihli ve 4353 sayılı Maliye Vekâleti Başhukuk Müşavirliğinin ve Muhakemat Umum Müdürlüğünün Vazifelerine, Devlet Dâvalarının Takibi Usullerine ve Merkez ve Vilâyetler Kadrolarında Bazı Değişiklikler Yapılmasına Dair Kanun yürürlükten kaldırılmıştır. Diğer mevzuatta 4353 sayılı Kanuna yapılan atıflar ilgisine göre bu Kanun Hükmünde Kararnameye ve 178 sayılı Kanun Hükmünde Kararnameye yapılmış sayılır.
 
@@ -254,9 +254,9 @@ MADDE 18 ‒ (1) 2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç E
 
 (6) Ekli listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Başbakanlığa ait bölümüne eklenmiştir.
 
-Dosyaların devri
+**Dosyaların devri**
 
-GEÇİCİ MADDE 1 ‒ (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinde diğer idarelere ait olan ve Maliye Bakanlığınca takip edilen dava ve icra takiplerine ilişkin derdest dosyalardan ilgili idarece talep edilenler, ilgili idare ile Maliye Bakanlığı tarafından müştereken belirlenen esaslara göre ilgili idarelere devredilir.
+**GEÇİCİ MADDE 1 ‒** (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinde diğer idarelere ait olan ve Maliye Bakanlığınca takip edilen dava ve icra takiplerine ilişkin derdest dosyalardan ilgili idarece talep edilenler, ilgili idare ile Maliye Bakanlığı tarafından müştereken belirlenen esaslara göre ilgili idarelere devredilir.
 
 (2) Bu Kanun Hükmünde Kararname kapsamındaki derdest dosyalar ile özel takip yetkileri çerçevesinde devredilecek derdest dosyaların devirleri, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren bir yıl içinde tamamlanır. Dosya devirleri yapılıncaya kadar bu dosyaların takibiyle ilgili olarak devir öncesi dosyayı takip eden idarece yapılan işlemler, ilgili idaresince yapılmış sayılır.
 
@@ -264,21 +264,21 @@ GEÇİCİ MADDE 1 ‒ (1) Bu Kanun Hükmünde Kararnamenin yayımı tarihinde di
 
 (4) Yukarıdaki fıkralar uyarınca Başbakanlık ve Maliye Bakanlığı tarafından diğer idareleri temsilen takip edilen dava ve icra işlerine ilişkin giderler, devir tarihine kadar Başbakanlık ve Maliye Bakanlığı bütçesinden karşılanır.
 
-Kadrolar
+**Kadrolar**
 
-GEÇİCİ MADDE 2 ‒ (1) İdarelerin hukuk hizmetlerini yürütmek amacıyla avukatlık hizmetleri sınıfından dokuzuncu dereceli yediyüzelli Avukat unvanlı kadro ihdas edilmiştir. Bu kadroları, derece değişikliği yapmak suretiyle idarelerden uygun görülenlere tahsis etmeye Devlet Personel Başkanlığının görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu yetkilidir. Bu madde hükmüne göre idarelere tahsis edilen kadrolar 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerin ilgili bölümüne eklenmiş sayılır.
+**GEÇİCİ MADDE 2 ‒** (1) İdarelerin hukuk hizmetlerini yürütmek amacıyla avukatlık hizmetleri sınıfından dokuzuncu dereceli yediyüzelli Avukat unvanlı kadro ihdas edilmiştir. Bu kadroları, derece değişikliği yapmak suretiyle idarelerden uygun görülenlere tahsis etmeye Devlet Personel Başkanlığının görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu yetkilidir. Bu madde hükmüne göre idarelere tahsis edilen kadrolar 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerin ilgili bölümüne eklenmiş sayılır.
 
 (2) Hazine avukatları talepleri halinde, idarelerin avukat kadrolarına 6091 sayılı 2011 Yılı Merkezi Yönetim Bütçe Kanunundaki sınırlamalara tabi olmadan atanabilir.
 
 (3) 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Başbakanlığa ait bölümünde yer alan “I. Hukuk Müşaviri” kadrosunun unvanı “Hukuk Hizmetleri Başkanı” şeklinde değiştirilmiştir. Bu kadroda bulunan personel hiçbir işleme gerek kalmaksızın Hukuk Hizmetleri Başkanı kadrosuna atanmış sayılır.
 
-Yürürlük
+**Yürürlük**
 
-MADDE 19 ‒ Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.
+**MADDE 19 ‒** Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 20 ‒ Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 20 ‒** Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.
 
 ### 659 SAYILI KANUN HÜKMÜNDE KARARNAMEYE EK VE DEĞİŞİKLİK
 
@@ -295,24 +295,24 @@ MADDE 20 ‒ Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürüt
 | KHK/700 | 4, 5, 6, 7, 11, 15, 16 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 | 7551 | 5 | 1/7/2025 |
 
-<small>[1] 12/7/2013 tarihli ve 6495 sayılı Kanunun 71 inci maddesiyle, bu maddede yer alan “genel bütçe kapsamındaki kamu idareleri” ibaresinden sonra gelmek üzere “(Türkiye Büyük Millet Meclisi, Cumhurbaşkanlığı, Anayasa Mahkemesi, Yargıtay, Danıştay, Hâkimler ve Savcılar Yüksek Kurulu ve Sayıştay dâhil)” ibaresi eklenmiştir.</small>
+<small>[1] <i>12/7/2013 tarihli ve 6495 sayılı Kanunun 71 inci maddesiyle, bu maddede yer alan “genel bütçe kapsamındaki kamu idareleri” ibaresinden sonra gelmek üzere “(Türkiye Büyük Millet Meclisi, Cumhurbaşkanlığı, Anayasa Mahkemesi, Yargıtay, Danıştay, Hâkimler ve Savcılar Yüksek Kurulu ve Sayıştay dâhil)” ibaresi eklenmiştir.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu maddenin beşinci fıkrasında yer alan “Başbakanlık” ibaresi “Cumhurbaşkanlığı” ve “kanunlarındaki” ibaresi “kararnamelerindeki” şeklinde değiştirilmiş; altıncı fıkrasında yer alan “kanunlarına” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamelerine” ibaresi eklenmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu maddenin beşinci fıkrasında yer alan “Başbakanlık” ibaresi “Cumhurbaşkanlığı” ve “kanunlarındaki” ibaresi “kararnamelerindeki” şeklinde değiştirilmiş; altıncı fıkrasında yer alan “kanunlarına” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamelerine” ibaresi eklenmiştir.</i></small>
 
-<small>[3] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu maddenin ikinci fıkrasında yer alan “Bakanlıklar” ibaresinden önce gelmek üzere “Cumhurbaşkanlığı,” ibaresi eklenmiş; üçüncü fıkrasında yer alan “özel uzmanlık gerektirdiği” ibaresinden sonra gelmek üzere “Cumhurbaşkanlığında Cumhurbaşkanı veya Cumhurbaşkanlığı İdari İşler Başkanının, bakanlıklarda” ibaresi eklenmiş ve aynı fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu maddenin ikinci fıkrasında yer alan “Bakanlıklar” ibaresinden önce gelmek üzere “Cumhurbaşkanlığı,” ibaresi eklenmiş; üçüncü fıkrasında yer alan “özel uzmanlık gerektirdiği” ibaresinden sonra gelmek üzere “Cumhurbaşkanlığında Cumhurbaşkanı veya Cumhurbaşkanlığı İdari İşler Başkanının, bakanlıklarda” ibaresi eklenmiş ve aynı fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 18/6/2025 tarihli ve 7551 sayılı Kanunun 28 inci maddesi ile bu fıkrada yer alan “İdari İşler Başkanının” ibaresi “Genel Sekreterinin” şeklinde değiştirilmiştir.</small>
+<small>[4] <i>18/6/2025 tarihli ve 7551 sayılı Kanunun 28 inci maddesi ile bu fıkrada yer alan “İdari İşler Başkanının” ibaresi “Genel Sekreterinin” şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu fıkrada yer alan “; askeri savcılıklara ve Askeri Yüksek İdare Mahkemesi Başkanlığına” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[5] <i>2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu fıkrada yer alan “; askeri savcılıklara ve Askeri Yüksek İdare Mahkemesi Başkanlığına” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[6] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu maddenin birinci fıkrasının (b) bendinde yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, “Başbakanlığın” ibareleri “Cumhurbaşkanlığının” şeklinde ve “Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde; ikinci fıkrasında yer alan “Başbakanlık” ibareleri “Cumhurbaşkanlığı” şeklinde ve “Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu maddenin birinci fıkrasının (b) bendinde yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde, “Başbakanlığın” ibareleri “Cumhurbaşkanlığının” şeklinde ve “Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde; ikinci fıkrasında yer alan “Başbakanlık” ibareleri “Cumhurbaşkanlığı” şeklinde ve “Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] 2025 yılı için uygulanacak tutar yeniden değerleme oranı hesaplanarak metne parantez içinde siyah puntolarla işlenmiştir.</small>
+<small>[7] <i>2025 yılı için uygulanacak tutar yeniden değerleme oranı hesaplanarak metne parantez içinde siyah puntolarla işlenmiştir.</i></small>
 
-<small>[8] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu bentte yer alan “, ilgili bakanlık hukuki uyuşmazlık değerlendirme komisyonunun ve Maliye Bakanlığının görüşü alınarak, ilgili bakanlığın teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[8] <i>2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu bentte yer alan “, ilgili bakanlık hukuki uyuşmazlık değerlendirme komisyonunun ve Maliye Bakanlığının görüşü alınarak, ilgili bakanlığın teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[9] 11/10/2011 tarihli ve 666 sayılı KHK’nın 1 inci maddesiyle bu maddenin ikinci fıkrasının (a) bendinde yer alan “, hukuk biriminde görev yapan diğer personele %5’i” ibaresi ile aynı fıkranın (b) bendinde yer alan “, diğerleri için (6.000) gösterge” ibaresi yürürlükten kaldırılmış olup, daha sonra 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenlemeler; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</small>
+<small>[9] <i>11/10/2011 tarihli ve 666 sayılı KHK’nın 1 inci maddesiyle bu maddenin ikinci fıkrasının (a) bendinde yer alan “, hukuk biriminde görev yapan diğer personele %5’i” ibaresi ile aynı fıkranın (b) bendinde yer alan “, diğerleri için (6.000) gösterge” ibaresi yürürlükten kaldırılmış olup, daha sonra 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenlemeler; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</i></small>
 
-<small>[10] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[11] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu fıkrada yer alan “Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[11] <i>2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 216 ncı maddesiyle bu fıkrada yer alan “Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>

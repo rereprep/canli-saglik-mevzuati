@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/02/20100214-1-3.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN BAZI
-KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN BAZI**
+**KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6110 Kabul Tarihi: 9/2/2011
 
 MADDE 1 – 6/1/1982 tarihli ve 2575 sayılı Danıştay Kanununun 13 üncü maddesinin (1) ve (2) numaralı fıkraları aşağıdaki şekilde değiştirilmiştir.

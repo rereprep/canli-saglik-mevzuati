@@ -10,7 +10,7 @@ not: "Ek VI: Uygulama olanağı kalmamış yönetmelikler."
 durum: "uygulama olanağı kalmamış"
 ---
 
-MEZUNİYET BELGESİNE SAHİP OLMADAN MESLEKLERİNİ İCRA ETMEKTE OLAN DİŞ TEKNİSYENLERİNE EHLİYET SINAVI İLE DİŞ PROTEZ TEKNİSYENİ UNVANI KAZANDIRILMASINA DAİR YÖNETMELİK
+**MEZUNİYET BELGESİNE SAHİP OLMADAN MESLEKLERİNİ İCRA ETMEKTE OLAN DİŞ TEKNİSYENLERİNE EHLİYET SINAVI İLE DİŞ PROTEZ TEKNİSYENİ UNVANI KAZANDIRILMASINA DAİR YÖNETMELİK**
 
 ### BİRİNCİ BÖLÜM
 
@@ -42,7 +42,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Sınavların Usul ve Esasları
+**Sınavların Usul ve Esasları**
 
 #### Sınava Girecekler
 
@@ -80,13 +80,13 @@ Merkez Sınav Komisyonu; bunların dışında ve gerekli görüldüğü zaman ye
 
 a) Yılda en az iki kez olmak üzere sınav tarihlerini, sınavların yapılacağı illeri, kapsamını belirlemek ve il sınav komisyonlarım oluşturmak,
 
-b) (Değişik: RG-31/05/1991-20887) Sınava katılacaklardan alınacak sınav gideri miktarı ile yatırılacağı yerleri belirlemek, Sınav Komisyonları ile sınavlarda fiilen görev alanlara ödenecek ücret, yolluk ve yevmiyelerin miktarını günün şartlarına göre tespit etmek.
+b) **(Değişik: RG-31/05/1991-20887)** Sınava katılacaklardan alınacak sınav gideri miktarı ile yatırılacağı yerleri belirlemek, Sınav Komisyonları ile sınavlarda fiilen görev alanlara ödenecek ücret, yolluk ve yevmiyelerin miktarını günün şartlarına göre tespit etmek.
 
 c) Teorik ve pratik sınav sorularım hazırlamak,
 
-d) (Değişik: RG-31/05/1991-20887) Sınavların uygulanması, değerlendirilmesi ve sonuçlarına yapılan itirazlarla ilgili esasları belirlemek,
+d) **(Değişik: RG-31/05/1991-20887)** Sınavların uygulanması, değerlendirilmesi ve sonuçlarına yapılan itirazlarla ilgili esasları belirlemek,
 
-e) (Değişik: RG-31/05/1991-20887) Sınavların uygulanması sırasında gerekli sınav materyali, belge ve malzemeleri belirlemek, il sınav komisyonlarına bil­dirmek, belirlenen materyal, belge ve malzemeyi temin etmek ve ettirmek.
+e) **(Değişik: RG-31/05/1991-20887)** Sınavların uygulanması sırasında gerekli sınav materyali, belge ve malzemeleri belirlemek, il sınav komisyonlarına bil­dirmek, belirlenen materyal, belge ve malzemeyi temin etmek ve ettirmek.
 
 f) Yerel sınav komisyonu vasıtası ile gönderilen sınav sonuçlarına yapılan itirazları değer­ lendirmek,
 
@@ -100,7 +100,7 @@ g) Sınavla ilgili tüm işlemlerde Bakanlıkla koordinasyonu sağlamak.
 
 **Madde 11 –** Sınav yapılacak İllerde Merkez Sınav Komisyonunca tespit olunacak bir baş­kan ile 5 dişhekiminden oluşan il sınav komisyonları, Bakanın onayı ile kesinlik kazanır. Komis­ yon üyelerinde aşağıdaki nitelikler aranır.
 
-a) (Değişik: RG-31/05/1991-20887) İI Sınav Komisyonu Başkanı; protez ana bilim dalında öğretim üyesi veya protez uz­ manı diş hekimi veyahut Bakanlığın diş tedavi ve protez hizmeti veren birimlerinde en az on yıl hizmet etmiş diş hekimi olmalıdır.
+a) **(Değişik: RG-31/05/1991-20887)** İI Sınav Komisyonu Başkanı; protez ana bilim dalında öğretim üyesi veya protez uz­ manı diş hekimi veyahut Bakanlığın diş tedavi ve protez hizmeti veren birimlerinde en az on yıl hizmet etmiş diş hekimi olmalıdır.
 
 b) Komisyon üyelikleri için, varsa protez uzmanı dişhekimleri tercih edilir. Aksi takdirde meslekte en az 5 yıl hizmet etmiş olanlara bu görev verilebilir.
 
@@ -132,9 +132,9 @@ Sınavları kazananlar, Diş Protez Teknisyeni unvanına sahip olurlar ve kendil
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
-Ek Madde-1 (Ek: RG-31/05/1991-20887)
+**Ek Madde-1 (Ek: RG-31/05/1991-20887)**
 
 Konu ile ilgili olarak Bakanlıkça gerçekleştirilen her türlü temsil ve ağırlama giderleri, ulaşım, PTT ve Merkez Sınav Komisyonu’nca 9 uncu maddenin (b) ve (e) bentlerine göre belirlenecek her türlü giderler ile sınavların yapıldığı veya uygulandığı sınav yerlerinin kullanımından doğan faturalandırılmış giderler, 1219 sayılı “Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanun”un, 3575 sayılı Kanunla eklenen geçici 3’üncü maddesi gereği ilgililerden tahsil edilen ücretten oluşan Emanet Hesabından karşılanır.
 

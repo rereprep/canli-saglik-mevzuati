@@ -10,15 +10,15 @@ not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
 ---
 
-Diş Protezciliği Dalında Kalfalık Belgesi Sahiplerine Diş Protez
+**Diş Protezciliği Dalında Kalfalık Belgesi Sahiplerine Diş Protez**
 
-Teknisyenliği Meslek Belgesi Verilmesi
+**Teknisyenliği Meslek Belgesi Verilmesi**
 
-Hakkında Yönetmelik
+**Hakkında Yönetmelik**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç**, **Kapsam**, **Dayanak** ve **Tanımlar**
 
 #### Amaç
 

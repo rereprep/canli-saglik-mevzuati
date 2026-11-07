@@ -10,17 +10,17 @@ durum: "yürürlükte"
 
 Tarihi:20.06.2002 Sayısı:99756
 
-T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIĞI** Personel Genel Müdürlüğü
 
 SAYI : B100PER0110009/99756 Tarih : 20.06.2002 KONU: Devlet Hizmeti Yükümlülüğü
 
 ### ................................................. GENELGE 2002/63
 
-Kapsam
+**Kapsam**
 
 Bu Kanun ve Yönetmelik hükümleri, Kanunun 2 nci maddesinde belirlenen yükümlülüğe tabi personel ile bu personelin atanacakları ve Devlet Personel Başkanlığı Kurulması Hakkındaki 217 Sayılı Kanun Hükmünde Kararnamenin 2 nci maddesinde sayılan kurumları, bunların kurdukları döner sermayeli kuruluşları, kanun ile kurulan fonları, kefalet sandıklarını ve Beden Terbiyesi Bölge Müdürlüklerini kapsar.
 
-Devlet Hizmeti Yükümlülüğünde Muafiyetler
+**Devlet Hizmeti Yükümlülüğünde Muafiyetler**
 
 1.Türk Silahlı Kuvvetleri (Jandarma Genel Komutanlığı dahil) ve Adli Tıp Kurumu kadrolarında çalışanlar ve üniversitelerin temel tıp bilimlerine bağlı ana bilim dallarında doktora çalışması yapan tabiplere bu Kanun hükümleri uygulanamaz. Ancak, sayılan bu kurum ve kuruluşlarda en az (2) yıl görev yapmadan ayrılanlara kalan süreleri tamamlattırılacak şekilde bu Kanun hükümleri uygulanır. Yurtdışında kendi nam ve hesabına okuyarak Devletten öğrenci dövizi almadan öğrenimini ve ihtisasını tamamlayan sağlık personeli Devlet hizmeti yükümlülüğüne tabi değildir.
 
@@ -46,7 +46,7 @@ Aynı kişilerden yurt içinde veya yurt dışında uzmanlık eğitiminde başar
 
 Her ne suretle olursa olsun yukarıdaki şartları yerine getirmeyenler Devlet hizmeti yükümlülüklerini tamamlamak zorundadırlar.
 
-Asistanlık ve Yandal İhtisas Sınavına Girmek
+**Asistanlık ve Yandal İhtisas Sınavına Girmek**
 
 1.Pratisyen tabipler mezuniyetlerini takiben asistanlık sınavına girebilirler ve kazandıkları takdirde hemen uzmanlık çalışmalarına başlayabilirler.
 
@@ -56,19 +56,19 @@ Asistanlık ve Yandal İhtisas Sınavına Girmek
 
 4.Devlet hizmeti yükümlüsü olup da, bu yükümlülük görevine başlamadan veya yükümlülükleri sırasında yurt içinde veya yurt dışında yan dal uzmanlık çalışması yapmaya hak kazananlar, Devlet hizmeti yükümlülüğünden arta kalan süreyi bu eğitimlerini başarı ile bitirdikten sonra tamamlarlar.
 
-Atanma
+**Atanma**
 
 Pratisyen tabipler, mezun olduktan sonra diplomalarının, uzman tabipler uzmanlık belgelerinin tescil için Sağlık Bakanlığına verilmesini müteakip, yurt dışında öğrenimini veya uzmanlığını yapanlar 1219 sayılı Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanunun 4 üncü ve 8 inci maddelerinde belirtilen işlemlerin tamamlanmasını müteakip en geç (3) ay içerisinde Sağlık Bakanlığınca hizmet ihtiyaçları ve uzmanlık dalları göz önünde tutularak aşağıda belirtilen atama esas ve usullerince kura ile atanırlar.
 
 Devlet hizmeti yükümlülüğü süresi yükümlünün atandığı yerde göreve başlaması ile başlar. 657 sayılı Devlet Memurları Kanununun 62 nci maddesindeki süre yükümlülük sürelerinden sayılır.
 
-Atama Esas ve Usulleri
+**Atama Esas ve Usulleri**
 
 Devlet Hizmeti Yükümlülüğü Komisyonunun 12.04.2002 tarihinde yapılan toplantısında alınan kararlar gereğince; Devlet hizmeti yükümlülüğüne tabi personel aşağıda belirtilen esas ve usullere göre atanırlar:
 
 1. Kur’alar ayda bir yapılacak ve Kanun kapsamındaki kurum ve kuruluşların ihtiyaç listelerini her ayın 25 inci günü mesai bitimine kadar Sağlık Bakanlığı Personel Genel Müdürlüğüne bildireceklerdir.
 
-2. Sağlık Bakanlığı Personel Genel Müdürlüğünce; -Her ayın biri ile yedisi arasında münhal yerler Bakanlığın İnternet adresinde (http://www.saglik.gov.tr/) ilan edilecek, -Her ayın üçüncü Cuma günü mesai bitimine kadar müracaatlar alınacak, -Her ayın dördüncü haftası Çarşamba günü saat 14.00’de Devlet Hizmeti Yükümlülüğü Komisyonunca kanuni mazeretleri olan yükümlülerin müracaatları değerlendirilecek, -Her ayın dördüncü haftası Cuma günü saat 14.00’ de kura çekimi yapılacaktır.
+2. Sağlık Bakanlığı Personel Genel Müdürlüğünce; -Her ayın biri ile yedisi arasında münhal yerler Bakanlığın İnternet adresinde (http://www.**saglik.gov.tr**/) ilan edilecek, -Her ayın üçüncü Cuma günü mesai bitimine kadar müracaatlar alınacak, -Her ayın dördüncü haftası Çarşamba günü saat 14.00’de Devlet Hizmeti Yükümlülüğü Komisyonunca kanuni mazeretleri olan yükümlülerin müracaatları değerlendirilecek, -Her ayın dördüncü haftası Cuma günü saat 14.00’ de kura çekimi yapılacaktır.
 
 3. Devlet hizmeti yükümlüsü tabipler, Sağlık Bakanlığınca ilan edilen münhal görev yerleri arasından en çok üç yer tercih edebilirler. Tercih edilen bu yerlere birden fazla istekli olması halinde bu kişiler arasında Komisyon huzurunda kura çekilir. Yükümlüler istedikleri taktirde kuralarını bizzat çekebilirler. Bu şekilde belirtilen tercihler ilgililer açısından bir hak doğurmaz.
 
@@ -84,19 +84,19 @@ Devlet Hizmeti Yükümlülüğü Komisyonunun 12.04.2002 tarihinde yapılan topl
 
 9. Devlet hizmeti yükümlüleri kanuni mazeretleri hariç yükümlülüklerini atandıkları yerde tamamlarlar.
 
-Devlet Hizmeti Yükümlülük Süresi İçinde Görev Yeri Değişikliği:
+**Devlet Hizmeti Yükümlülük Süresi İçinde Görev Yeri Değişikliği:**
 
 Kanun kapsamına dahil kurum ve kuruluşlar, Devlet hizmeti yükümlülerini kura ile atandıkları görevlerinden (2) yıllık süre içinde ancak önemli afetler ve salgınlar sebebi ile ve bir aylık süreyi aşmayacak suretle, geçici olarak bir başka göreve atayabilirler.
 
 Devlet hizmeti yükümlülerinin eşlerinin 217 sayılı Kanun Hükmünde Kararnamenin 2 nci maddesinde sayılan kurumlar ile bunların kurdukları döner sermayeli kuruluşlarda, kanunlarla kurulan fonlarda, kefalet sandıklarında, Beden Terbiyesi Bölge Müdürlüklerinde, Türk Silahlı Kuvvetlerinde ve Yüksek Öğretim Kurumlarında görevli olmaları halinde aynı görev mahallinde çalışabilmelerini temin için bunların veya kura sonucu görev yerlerine atanan Devlet hizmeti yükümlülerinin, naklen atamaları hizmet sürelerine bakı1maksızın Sağlık Bakanlığı ile sayılan kurum ve kuruluşlar arasında hizmet gerekleri esas alınarak ve kadro imkanları ölçüsünde karşılıklı koordinasyon sağlamak suretiyle yapılabilir.
 
-Devlet Hizmeti Yükümlüsünün Mesleğini İcrası
+**Devlet Hizmeti Yükümlüsünün Mesleğini İcrası**
 
 1.Devlet hizmeti yükümlüsü olup da yükümlülüğe başlamayanlar ya da başlayıp da Devlet hizmeti yükümlülüğünü bitirmeden ayrılanlar hiçbir suretle mesleklerini icra edemezler.Yükümlülük sırasında serbest meslek icrası kendi mevzuatı hükümlerine tabidir. 2.Devlet hizmeti yükümlülerine bu yükümlülüğünü tamamlamadan diploma, uzmanlık belgesi veya bunun yerine geçecek belge verilemez. Ancak, Devlet hizmeti yükümlüsü olarak çalışanlara talepleri halinde, bu süre içerisinde mesleklerini serbest olarak icra edebilmeleri maksadıyla "Devlet Hizmet Yükümlüsüdür" şerhi düşülmek suretiyle belge verilebilir.
 
 Bu belgeler, Sağlık Bakanlığı kadrolarında görev yapanlara görev yaptığı il Valiliklerince, diğer Bakanlık veya kurumlarda görev yapanlara ise ilgili kurum tarafından verilir.
 
-Devlet Hizmeti Yükümlülüğü Süresi İçinde Görevden Ayrılma
+**Devlet Hizmeti Yükümlülüğü Süresi İçinde Görevden Ayrılma**
 
 1.Devlet hizmeti yükümlülüğü için atandıkları yerde mehil müddeti içerisinde belge ile ispatı mümkün zorunlu sebepler olmaksızın göreve başlamayanların veya başladıktan sonra ayrılanların Devlet hizmeti yükümlülükleri gecikme süresinin iki katı kadar uzatılır. Uzatma ile birlikte bu hizmetin pratisyenlikteki yükümlülük süresi iki buçuk, uzmanlıktaki yükümlülük süresi iki buçuk yıl olmak üzere toplam beş yılı aşamaz. Mehil müddeti içerisinde belge ile ispat edilen zorunlu sebepler ile göreve başlamayanlara, bu süre zarfında yapmadıkları Devlet hizmeti yükümlülükleri tamamlatılır.
 
@@ -106,7 +106,7 @@ Yükümlülük süresi içinde görevlerinden uzaklaştırılan personelin geriy
 
 Bu bildirimlere istinaden Sağlık Bakanlığı, ilgililerin mesleklerini icra edemeyeceklerini yurt geneline bir genelge ile duyurur.
 
-Askerlik Hizmeti
+**Askerlik Hizmeti**
 
 Devlet hizmeti yükümlülüğüne tabi sağlık personeli ilgili mevzuat gereğince mezun oldukları tarihten itibaren askere alınabilirler. Askerlikte geçen süre Devlet hizmeti yükümlülüğünden sayılmaz. Devlet Hizmeti Yükümlülük Süresi İçinde İzinler Devlet hizmeti yükümlülerine aylıksız izin verilebilir. Bu şekilde aylıksız izin verilen personelin izinde geçen süresi Devlet hizmeti yükümlülüğünden sayılmaz.
 

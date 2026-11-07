@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-6.3.49. Yenidoğanlarda K Vitamini Uygulaması Genelgesi (2021/11)
+**6.3.49. Yenidoğanlarda K Vitamini Uygulaması Genelgesi (2021/11)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 Halk Sağlığı Genel Müdürlüğü

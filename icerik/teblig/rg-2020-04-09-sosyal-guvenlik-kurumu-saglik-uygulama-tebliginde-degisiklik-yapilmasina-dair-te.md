@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
-MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.7 numaralı maddesinin üçüncü fıkrasında yer alan “(*) Acil hal;” tanımı aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.7 numaralı maddesinin üçüncü fıkrasında yer alan “(*) Acil hal;” tanımı aşağıdaki şekilde değiştirilmiştir.
 “(*) Acil hal; ani gelişen hastalık, kaza, yaralanma ve benzeri durumlarda olayın meydana gelmesini takip eden ilk 24 saat içinde tıbbi müdahale gerektiren durumlar ile ivedilikle tıbbi müdahale yapılmadığı veya başka bir sağlık kuruluşuna nakli halinde hayatın ve/veya sağlık bütünlüğünün kaybedilme riskinin doğacağı kabul edilen durumlar ile pandemi süresince pandemi olgularına yönelik tanı ve tedavileri kapsamaktadır. Bu nedenle sağlanan sağlık hizmetleri acil sağlık hizmeti olarak kabul edilir.”
 
 MADDE 2 – Aynı Tebliğin 1.9.3 numaralı maddesinin birinci fıkrasının (j) bendi aşağıdaki şekilde değiştirilmiş, aynı fıkraya aşağıdaki bent eklenmiş ve aynı fıkranın sonuna “ile bu işlemlere ilişkin sunulan sağlık hizmetlerinden.” ibaresi eklenmiştir.

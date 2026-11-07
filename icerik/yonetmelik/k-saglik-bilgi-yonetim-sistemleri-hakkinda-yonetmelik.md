@@ -19,7 +19,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -43,7 +43,7 @@ b) Bakanlık: Sağlık Bakanlığını,
 
 c) Cihaz: Sağlık hizmeti sunucularında kullanılan, sağlık hizmeti üretmek ya da sağlık hizmeti üretmeye yardımcı olmak amacı ile veri oluşturma, ölçme, denetleme, görüntüleme, dönüştürme amacı ile çalıştırılan her türlü aygıtı veya sistemi,
 
-ç) (Mülga:RG-3/7/2026-33299)
+ç) **(Mülga:RG-3/7/2026-33299)**
 
 d) DICOM: Tıbbi görüntüleme cihazlarından alınan iki ve üç boyutlu bilimsel verilerin depolanması, görüntülenmesi ve analizinde kullanılmak maksadıyla geliştirilmiş olan dijital veri formatını (Digital Imaging and Communications in Medicine),
 
@@ -77,11 +77,11 @@ o) SBYS hizmeti alıcısı: SBYS hizmetini alan idareleri ve sağlık hizmeti su
 
 p) SBYS yetkilisi: SBYS hizmeti sağlayıcısının imzaya yetkili temsilcisini,
 
-r) (Mülga:RG-3/7/2026-33299)
+r) **(Mülga:RG-3/7/2026-33299)**
 
-s) (Mülga:RG-3/7/2026-33299)
+s) **(Mülga:RG-3/7/2026-33299)**
 
-ş) (Mülga:RG-3/7/2026-33299)
+ş) **(Mülga:RG-3/7/2026-33299)**
 
 t) VEM: Sağlık hizmeti sunucularının yerel veri tabanlarında tutmuş oldukları verilere ait tablo ve alanların ulusal standartlara uyumunu sağlamak, veri kayıplarını asgari düzeyde tutmak, adaptasyonu hızlandırarak vatandaşların geçmiş verilerine erişimini kolaylaştırmak ve sürecin kesintisiz ilerlemesini temin etmek amacı ile Genel Müdürlük tarafından geliştirilen ve SBYS hizmeti alıcılarının SBYS değişiklikleri ile diğer veri aktarımı süreçlerinde kullanılan Minimum Veri Modelini,
 
@@ -97,7 +97,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel Kurallar ve Kayıt Tescil Sistemi
+**Genel Kurallar ve Kayıt Tescil Sistemi**
 
 #### Genel kurallar
 
@@ -125,7 +125,7 @@ g) Genel Müdürlük tarafından yayımlanan diğer politika, kılavuz ve kurall
 
 (2) KTS’ye kayıt için gerekli olan belgeler Genel Müdürlüğe resmî yazı ile iletilir, kayıtlı elektronik posta (KEP) ile Bakanlığa gönderilir ya da e-Devlet üzerinden KTS’ye yüklenir.
 
-(3) (Mülga:RG-3/7/2026-33299)
+(3) **(Mülga:RG-3/7/2026-33299)**
 
 (4) Belgelerini eksiksiz teslim eden SBYS hizmeti sağlayıcılarının SBYS’leri, Genel Müdürlük veya yetkilendirdiği bir kuruluş tarafından denetlenir ve denetimden başarıyla geçenler KTS’ye kaydedilir. SBYS hizmeti sağlayıcılarına, gizlilik sözleşmesi imzalandıktan sonra gerçek ortamda veri gönderebilmeleri için yazılım erişim kodu teslim edilir. Yazılım erişim kodunun muhafazasından SBYS yetkilisi sorumludur.
 
@@ -133,7 +133,7 @@ g) Genel Müdürlük tarafından yayımlanan diğer politika, kılavuz ve kurall
 
 (6) Kayıt ve denetim süreçleri başarı ile tamamlanan SBYS hizmeti sağlayıcıları aktif listeye alınarak Genel Müdürlüğün internet sitesinde ilan edilir.
 
-(7) Genel Müdürlük, oluşan ihtiyaçlar doğrultusunda yeni SBYS türlerinin de KTS’ye tescil edilmesine karar verebilir. Yeni SBYS türünün KTS’ye tescil edilmesini müteakip ilgili SBYS hizmeti sağlayıcılarının KTS’ye kayıt olmaları ve (Değişik ibare:RG-3/7/2026-33299) birinci fıkrada istenilen belgeleri ibraz etmeleri için (Değişik ibare:RG-3/7/2026-33299) gereken süre Genel Müdürlük tarafından ilan edilir .
+(7) Genel Müdürlük, oluşan ihtiyaçlar doğrultusunda yeni SBYS türlerinin de KTS’ye tescil edilmesine karar verebilir. Yeni SBYS türünün KTS’ye tescil edilmesini müteakip ilgili SBYS hizmeti sağlayıcılarının KTS’ye kayıt olmaları ve **(Değişik ibare:RG-3/7/2026-33299)** birinci fıkrada istenilen belgeleri ibraz etmeleri için **(Değişik ibare:RG-3/7/2026-33299)** gereken süre Genel Müdürlük tarafından ilan edilir .
 
 #### Pasif liste
 
@@ -145,7 +145,7 @@ g) Genel Müdürlük tarafından yayımlanan diğer politika, kılavuz ve kurall
 
 **MADDE 8 –** (1) Pasif listeye alınmasını takip eden üç ay içinde aktif listeye geçemeyen SBYS hizmeti sağlayıcısı ile son bir yıl içerisinde üç defa pasif listeye alınan SBYS hizmeti sağlayıcısı KTS’den silinir.
 
-(2) Gerçeğe aykırı bilgi ve belge sunan, veri gönderimlerine veya standartlara uyum konusunda yanıltıcı işlem yapan ya da yazılım erişim kodunu üçüncü kişilerle haksız fayda sağlamak amacıyla paylaştığı tespit edilen SBYS hizmeti sağlayıcısı, herhangi bir uyarıya gerek kalmaksızın KTS’den silinir (Mülga ibare:RG-3/7/2026-33299) .
+(2) Gerçeğe aykırı bilgi ve belge sunan, veri gönderimlerine veya standartlara uyum konusunda yanıltıcı işlem yapan ya da yazılım erişim kodunu üçüncü kişilerle haksız fayda sağlamak amacıyla paylaştığı tespit edilen SBYS hizmeti sağlayıcısı, herhangi bir uyarıya gerek kalmaksızın KTS’den silinir **(Mülga ibare:RG-3/7/2026-33299) .**
 
 (3) 16 ncı ve 17 nci maddelerde yer alan hükümlere aykırılığın tespiti hâlinde ilgili SBYS hizmeti sağlayıcısı KTS’den silinir.
 
@@ -155,7 +155,7 @@ g) Genel Müdürlük tarafından yayımlanan diğer politika, kılavuz ve kurall
 
 (6) SBYS hizmeti sağlayıcısının KTS’de pasif listeye alınması veya KTS’den silinmesi hâlinde faaliyet göstermekte olduğu sağlık hizmeti sunucularının bağlı bulunduğu il sağlık müdürlüklerine Genel Müdürlük tarafından bildirim yapılır.
 
-(7) (Ek:RG-3/7/2026-33299) KTS’den kaydı silinen SBYS hizmet sağlayıcısının yeniden kayıt başvurusu, kayıt silme tarihinden itibaren bir yıl süreyle işleme alınmaz.
+(7) **(Ek:RG-3/7/2026-33299)** KTS’den kaydı silinen SBYS hizmet sağlayıcısının yeniden kayıt başvurusu, kayıt silme tarihinden itibaren bir yıl süreyle işleme alınmaz.
 
 #### KTS yetki belgesi
 
@@ -165,7 +165,7 @@ g) Genel Müdürlük tarafından yayımlanan diğer politika, kılavuz ve kurall
 
 ### ÜÇÜNCÜ BÖLÜM
 
-SBYS Hizmeti Alımı ve Kamu Hastaneleri Bilişim Süreçleri
+**SBYS Hizmeti Alımı ve Kamu Hastaneleri Bilişim Süreçleri**
 
 #### SBYS hizmeti alımı süreçleri
 
@@ -173,7 +173,7 @@ SBYS Hizmeti Alımı ve Kamu Hastaneleri Bilişim Süreçleri
 
 (2) İdare tarafından SBYS hizmeti alımı süreçlerinde kullanılacak teknik şartnameler veya teknik dokümanlar, Genel Müdürlükçe Sağlık Bilgi Yönetim Sistemi Alım Kılavuzuna göre oluşturulan Alım Kılavuzu Sihirbazı üzerinden hazırlanır. İdare, Alım Kılavuzunda yer alan hükümler ile çelişmeyen isteklerine özel hükümler başlığı altında yer verir.
 
-(3) İdare, (Mülga ibare:RG-3/7/2026-33299) SBYS hizmeti sağlayıcısından KTS yetki belgesini ibraz etmesini ister. İdare; 4/3/2009 tarihli ve 27159 mükerrer sayılı Resmî Gazete’de yayımlanan Hizmet Alımı İhaleleri Uygulama Yönetmeliğinin Ek-2’sinde yer alan Açık İhale Usulü ile İhale Edilen Hizmet Alımlarında Uygulanacak Tip İdari Şartnamenin 7.1 maddesinin (h) bendi uyarınca düzenlenecek idari şartnamenin 7.1 maddesinin (h) bendinde, KTS yetki belgesini ister. Birden fazla SBYS hizmeti alımlarında iş, meri mevzuat hükümleri kapsamında kısmi teklife açılabilir. SBYS hizmeti sağlayıcısı alt yüklenicilerle de teklif sunabilir ancak SBYS hizmeti sağlayıcısı olan alt yüklenicilerin her birinin KTS’de kayıtlı olması ve KTS yetki belgesi sunması zorunludur.
+(3) İdare, **(Mülga ibare:RG-3/7/2026-33299)** SBYS hizmeti sağlayıcısından KTS yetki belgesini ibraz etmesini ister. İdare; 4/3/2009 tarihli ve 27159 mükerrer sayılı Resmî Gazete’de yayımlanan Hizmet Alımı İhaleleri Uygulama Yönetmeliğinin Ek-2’sinde yer alan Açık İhale Usulü ile İhale Edilen Hizmet Alımlarında Uygulanacak Tip İdari Şartnamenin 7.1 maddesinin (h) bendi uyarınca düzenlenecek idari şartnamenin 7.1 maddesinin (h) bendinde, KTS yetki belgesini ister. Birden fazla SBYS hizmeti alımlarında iş, meri mevzuat hükümleri kapsamında kısmi teklife açılabilir. SBYS hizmeti sağlayıcısı alt yüklenicilerle de teklif sunabilir ancak SBYS hizmeti sağlayıcısı olan alt yüklenicilerin her birinin KTS’de kayıtlı olması ve KTS yetki belgesi sunması zorunludur.
 
 (4) SBYS hizmeti alımı süreçlerinde alımı yapılacak her SBYS için ayrı KTS yetki belgesi istenir. SBYS hizmeti alımı süreçlerinde alımı yapılacak olan SBYS’lerden herhangi birini alt yüklenicinin sağlayacak olması hâlinde, alt yüklenici tarafından temin edilecek olan SBYS için de KTS yetki belgesi istenir.
 
@@ -207,9 +207,9 @@ SBYS Hizmeti Alımı ve Kamu Hastaneleri Bilişim Süreçleri
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Standartlar ve Entegrasyon, Görüntüleme, Veri Modeli, Verinin Teslimi ve Aktarımı,
+**Standartlar ve Entegrasyon, Görüntüleme, Veri Modeli, Verinin Teslimi ve Aktarımı,**
 
-Veri Yedekleme ve Arşivleme
+**Veri Yedekleme ve Arşivleme**
 
 #### Standartlar ve entegrasyon
 
@@ -281,7 +281,7 @@ Veri Yedekleme ve Arşivleme
 
 ### BEŞİNCİ BÖLÜM
 
-Gizlilik, İz Kayıtları, Denetim ve Yaptırım
+**Gizlilik, İz Kayıtları, Denetim ve Yaptırım**
 
 #### Gizlilik
 
@@ -343,7 +343,7 @@ f) Kişisel verilerin korunması mevzuatı ile bilgi güvenliği düzenlemelerin
 
 ### ALTINCI BÖLÜM
 
-Yetkinlik Puanı
+**Yetkinlik Puanı**
 
 #### Yetkinlik puanı
 
@@ -375,7 +375,7 @@ d) Teknik değerlendirme kriterleri , sağlık hizmeti sunucularında yapılacak
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Anlaşmazlıkların halli
 

@@ -23,7 +23,7 @@ Konu : Hükümlü/Tutukluların Bulaşıcı Hastalık Taramaları
 
 DAĞITIM YERLERİNE
 
-Adalet Bakanlığı 15.06.2023 tarih E-…/83539 sayılı yazısı ile; Ceza infaz kurumlarının toplu olarak yaşanılan yerler olması nedeniyle hükümlü ve tutukluların bulaşıcı hastalıklar açısından risk altında olan gruplar arasında yer aldığı, 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun'un "Ceza infaz kurumlarında hükümlülerin yaşam hakları ile beden ve ruh bütünlüklerini korumak üzere her türlü koruyucu tedbirin alınması zorunludur" hükmüne istinaden, hükümlü ve tutukluların bulaşıcı hastalıklar yönünden taranması istenmiştir.
+Adalet Bakanlığı 15.06.2023 tarih E-…/83539 sayılı yazısı ile; <i>Ceza infaz</i> kurumlarının toplu olarak yaşanılan yerler olması nedeniyle hükümlü ve tutukluların bulaşıcı hastalıklar açısından risk altında olan gruplar arasında yer aldığı, 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun'un "Ceza infaz <i>kurumlarında hükümlülerin yaşam hakları ile beden ve ruh bütünlüklerini korumak üzere her türlü koruyucu</i> <i>tedbirin alınması zorunludur"</i> hükmüne istinaden, hükümlü ve tutukluların bulaşıcı hastalıklar yönünden taranması istenmiştir.
 
 İlgili talebi karşılamak üzere İl Sağlık Müdürlüklerimiz marifeti ve koordinasyonunda ceza infaz kurumunda bulunan hükümlü ve tutuklulardan kan numunesinin alınması, numunenin halk sağlığı laboratuvarına veya hastane laboratuvarlarına nakli, çalışılması, sonuçların İl Sağlık Müdürlüğümüz ilgili birimince toplanması ve analizi neticesinde; Bakanlığımıza, ceza infaz kurumlarına ve ilgili savcılığa geri bildiriminin uygun olacağı değerlendirilmiştir.
 
@@ -33,7 +33,7 @@ Bu kapsamda;
 
 2- Hükümlü ve tutuklulara Hepatit B, Hepatit C ve HIV enfeksiyonlarına yönelik halk sağlığı eğitimlerinin verilmesi,
 
-3- Ekte yer alan Ceza İnfaz Kurumlarında Hepatit B, Hepatit C ve HIV Serolojileri, Bağışıklama ve Eğitim Sayıları Tablosu’nun elektronik ortamda gönderiminin tesisi gerçekleştirilene kadar; Bulaşıcı Hastalıklar Birimleri tarafından doldurularak Genel Müdürlüğümüz Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı’na ve Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı’na 3’er aylık dönemlerle resmi yazıyla gönderilmesi gerekmektedir.
+3- Ekte yer alan <i>Ceza İnfaz Kurumlarında Hepatit B, Hepatit C ve HIV Serolojileri, Bağışıklama ve Eğitim</i> <i>Sayıları Tablosu’</i>nun elektronik ortamda gönderiminin tesisi gerçekleştirilene kadar; Bulaşıcı Hastalıklar Birimleri tarafından doldurularak Genel Müdürlüğümüz Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı’na ve Aşı ile Önlenebilir Hastalıklar ve Bağışıklama Dairesi Başkanlığı’na 3’er aylık dönemlerle resmi yazıyla gönderilmesi gerekmektedir.
 
 Ceza infaz kurumlarındaki hükümlü ve tutuklulara yönelik Hepatit B, Hepatit C ve HIV testlerinin yapılması konusunda ilgili mevzuat ve protokol hükümlerine, mahremiyet ve gizlilik kurallarına riayet edilerek sağlık hizmeti sunumunun gerçekleştirilmesi ve ekte yer alan çalışma prosedürü ve algoritmalar dahilinde süreçlerin yönetimi hususunda;
 

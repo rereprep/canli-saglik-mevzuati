@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-BEŞERİ TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**BEŞERİ TIBBİ ÜRÜNLER RUHSATLANDIRMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 11/12/2021 tarihli ve 31686 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin 8 inci maddesinin birinci fıkrasının (ö) bendi aşağıdaki şekilde değiştirilmiştir.
 “ö) Türkiye’de imal edilen veya edilecek beşeri tıbbi ürünün ortak pazarlamaya konu edilmesi halinde, ortak pazarlama yapacak gerçek ya da tüzel kişilerin ortak pazarlama konusundaki yazılı onaylarını içeren ortak pazarlama sözleşmesi ve taraflara ait ticaret sicil tasdiknamesi.”

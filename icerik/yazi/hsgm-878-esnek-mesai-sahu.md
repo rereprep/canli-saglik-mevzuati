@@ -11,13 +11,13 @@ kontrol_edildi: true
 
 T.C.
 
-SAĞLIK BAKANLIĞI
+**SAĞLIK BAKANLIĞI**
 
-Türkiye Halk Sağlığı Kurumu Başkanlığı
+**Türkiye Halk Sağlığı Kurumu Başkanlığı**
 
-Sayı : 67350377/770
+**Sayı :** 67350377/770
 
-Konu : Esnek Mesai ………………………….VALİLİĞİNE
+**Konu :** Esnek Mesai ………………………….VALİLİĞİNE
 
 (Halk Sağlığı Müdürlüğü)
 

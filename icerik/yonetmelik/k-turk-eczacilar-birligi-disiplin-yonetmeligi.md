@@ -27,7 +27,7 @@ Türk Eczacıları Birliğinden:
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç
 
@@ -59,7 +59,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Disiplin Soruşturmasının Yürütülmesi
+**Disiplin Soruşturmasının Yürütülmesi**
 
 #### Genel ilkeler
 
@@ -75,7 +75,7 @@ Disiplin Soruşturmasının Yürütülmesi
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Haysiyet Divanının Kuruluşu, Çalışma Esasları, Kararları ve Kararlara İtiraz
+**Haysiyet Divanının Kuruluşu, Çalışma Esasları, Kararları ve Kararlara İtiraz**
 
 #### Kuruluşu
 
@@ -253,7 +253,7 @@ c) Üç günden yüz seksen güne kadar sanat icrasından men cezası gerektiren
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yüksek Haysiyet Divanı toplantıları
 

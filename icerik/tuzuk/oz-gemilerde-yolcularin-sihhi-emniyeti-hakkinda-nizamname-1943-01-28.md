@@ -14,13 +14,13 @@ durum: "yürürlükte"
 
 ### HAKKlNDA NİZAMNAME
 
-Bakanlar Kurulu Kararının Tarihi : 16/1/1943 No : 2/19331
+**Bakanlar Kurulu Kararının Tarihi : 16/1/1943 No : 2/19331**
 
-Dayandığı Kanunun Tarihi : 24/4/1930 No : 1593
+**Dayandığı Kanunun Tarihi : 24/4/1930 No : 1593**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 28/1/1943 No : 5316
+**Yayımlandığı Resmî Gazetenin Tarihi : 28/1/1943 No : 5316**
 
-Yayımlandığı Düsturun Tertibi : 3 Cildi : 24 Sayfa : 222
+**Yayımlandığı Düsturun Tertibi : 3 Cildi : 24 Sayfa : 222**
 
 #### Umumi hükümler
 
@@ -82,7 +82,7 @@ Muayenesi yapılmıyan veya muayene müddetleri geçmiş olan müstahdemlerin, b
 
 ### İKİNCİ BÖLÜM
 
-Yolcu gemilerinde bulundurulacak doktor ve küçük sıhhat
+**Yolcu gemilerinde bulundurulacak doktor ve küçük sıhhat**
 
 #### memurları ve bunların vazifeleri
 
@@ -98,7 +98,7 @@ Doktor veya sıhhat memurları, bulundukları gemilerde gerek Umumi Hıfzıssıh
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Gemilerde bulundurulacak ilaç ve tıbbi levazım ile hasta tedavisi için
+**Gemilerde bulundurulacak ilaç ve tıbbi levazım ile hasta tedavisi için**
 
 #### ayrılacak yerler
 
@@ -140,13 +140,13 @@ B) Gerek memleket sahilleri arasında ve gerek ecnebi limanlara sefer yapacak ve
 
 ### (A)
 
-İçlerinde doktor veya sıhhat memuru bulunan yolcu gemilerine mahsus
+**İçlerinde doktor veya sıhhat memuru bulunan yolcu gemilerine mahsus**
 
-ilaçlar ile tıbbi levazım ve aletlerin listesi
+**ilaçlar ile tıbbi levazım ve aletlerin listesi**
 
 1
 
-Dahilen kullanılan ilaçlar
+**Dahilen kullanılan ilaçlar**
 
 | Ampuller: |  |  |  |
 | Morfin (Kloridrat) |  |  |  |
@@ -197,7 +197,7 @@ Dahilen kullanılan ilaçlar
 
 2
 
-Haricen kullanılan ilaçlar
+**Haricen kullanılan ilaçlar**
 
 | Asid borik |  | 100 | gram |
 | Asid pikrik mahlülü |  |  |  |
@@ -226,7 +226,7 @@ Haricen kullanılan ilaçlar
 
 3
 
-Pansuman levazımı
+**Pansuman levazımı**
 
 | Sargılar: |  | 100 | aded |
 | Bezden Yapılmış (Muhtelif ende) |  | 20 | " |
@@ -260,7 +260,7 @@ Pansuman levazımı
 
 4
 
-Muhtelif aletler
+**Muhtelif aletler**
 
 | Abes - lang dil bastırmak için alet |  |
 | (Maden veya cam) |  | 2 | aded |  |
@@ -324,7 +324,7 @@ Muhtelif aletler
 
 5
 
-Dezenfeksiyon malzemesi
+**Dezenfeksiyon malzemesi**
 
 | Süblime (Pastil) |  |  |  |
 |  | (Beheri 1 gram) | 100 | aded |
@@ -335,7 +335,7 @@ Dezenfeksiyon malzemesi
 
 6
 
-Sondalar
+**Sondalar**
 
 | Maden sonda, kadın için |  | 1 | aded |
 | Maden sonda, erkek için |  | 1 | " |
@@ -348,7 +348,7 @@ Sondalar
 
 7
 
-Aşılar
+**Aşılar**
 
 | Kolera aşısı | Geminin gideceği yerlerde, bu hastalıklar var ise, mürettebatın adedine göre, kafi miktarda alınacaktır. |
 | Veba aşısı |  |
@@ -359,7 +359,7 @@ Aşılar
 
 8
 
-Doğum aletleri
+**Doğum aletleri**
 
 | Forseps |  | 1 | aded |
 | Basiotrib |  | 1 | " |
@@ -375,13 +375,13 @@ Doğum aletleri
 
 ### (B)
 
-İçlerinde doktor veya sıhhat memuru bulunmayan
+**İçlerinde doktor veya sıhhat memuru bulunmayan**
 
-gemilere mahsus ilaç ve levazım listesi
+**gemilere mahsus ilaç ve levazım listesi**
 
 1
 
-Dahilen kullanılan ilaçlar
+**Dahilen kullanılan ilaçlar**
 
 | Ampuller: |  |  |  |
 | Morfin (kloridrat) |  |  |  |
@@ -399,7 +399,7 @@ Dahilen kullanılan ilaçlar
 
 2
 
-Haricen kullanılan ilaçlar
+**Haricen kullanılan ilaçlar**
 
 | Alkol (90 derecelik) |  | 300 | gram |
 | Amoniak mayi |  | 25 | " |
@@ -411,7 +411,7 @@ Haricen kullanılan ilaçlar
 
 3
 
-Muhtelif levazım
+**Muhtelif levazım**
 
 | Sedye |  | 1 | aded |
 | Atel (Biri kol biri bacak için) |  | 2 | " |

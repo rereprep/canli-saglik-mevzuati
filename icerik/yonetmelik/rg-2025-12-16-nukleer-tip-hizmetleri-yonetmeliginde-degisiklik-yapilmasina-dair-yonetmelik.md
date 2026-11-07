@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-NÜKLEER TIP HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**NÜKLEER TIP HİZMETLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 25/4/2023 tarihli ve 32171 sayılı Resmî Gazete’de yayımlanan Nükleer Tıp Hizmetleri Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (n) bendinde yer alan “üretilen” ibaresinden sonra gelmek üzere “açık veya kapalı” ibaresi eklenmiş, aynı fıkranın (o) bendinde yer alan “Radyoaktif kaynaklar” ibaresi “Nükleer madde, radyoaktif kaynak” şeklinde ve “izotop ve” ibaresi “izotop veya” şeklinde değiştirilmiştir.
 

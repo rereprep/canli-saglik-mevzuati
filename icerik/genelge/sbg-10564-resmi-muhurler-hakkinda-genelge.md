@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 Tarihi:25.02.1998 Sayısı:754
 
-T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Dairesi Başkanlığı
+**T.C. SAĞLIK BAKANLIĞI İdari ve Mali İşler Dairesi Başkanlığı**
 
 Sayı : B100İMİ0000012/754 Konu : Resmi Mühürler
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1- 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 4.1.1 numaralı maddesinin sekizinci fıkrasına aşağıdaki cümle eklenmiştir.
 “SUT’un 4.2.13.1, 4.2.13.2, 4.2.15.B, 4.2.15.C, 4.2.15.Ç, 4.2.15.D-1, 4.2.15.D-2, 4.2.15.E, 4.2.15.F, 4.2.20 ve 4.2.38 maddelerinde yer alan ve sağlık raporuna istinaden iç hastalıkları veya çocuk hastalıkları uzman hekimlerince reçete edilebilen ilaçların, SUT’ta yer alan genel ve özel hükümler saklı kalmak kaydıyla sağlık raporuna istinaden Sağlık Bakanlığınca aile hekimliği sözleşmesi yapılan veya yetkilendirilen hekimlerce de reçete edilmesi halinde bedelleri Kurumca ödenir.”

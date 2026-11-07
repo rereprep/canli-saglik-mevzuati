@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-İLKYARDIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İLKYARDIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 29/7/2015 tarihli ve 29429 sayılı Resmî Gazete’de yayımlanan İlkyardım Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (f), (i) ve (k) bentleri aşağıdaki şekilde değiştirilmiştir.
 “f) İlkyardım eğitici eğitmeni: Sağlık alanında en az ön lisans düzeyinde öğrenim görmüş, en az 1 yıllık ilkyardım eğitmeni yetki belgesine sahip ve en az 10 yetki belgeli ilkyardım eğitimi verdiğini belgelendiren eğitmenlerden, Genel Müdürlükçe düzenlenen eğitici eğitmeni eğitim programına katılarak yetki belgesi almış kişiyi,” “i) Mesul müdür: Sağlık alanında en az ön lisans düzeyinde öğrenim görmüş ilkyardım eğitmeni yetki belgesine sahip ve yetki belgeli en az 10 ilkyardım eğitimi vermiş kişiyi,” “k) Sınav gözetmeni: Genel Müdürlükte, müdürlüğün acil sağlık hizmetlerinden sorumlu başkanlığına bağlı birimlerinde ve ilçe sağlık müdürlüklerinde fiilen görev yapan yetki belgeli ilkyardım eğitmeni ve ilkyardım eğitici eğitmenini,”

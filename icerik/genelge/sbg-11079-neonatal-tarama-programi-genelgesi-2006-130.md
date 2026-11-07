@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ### İSTANBUL HIFZIHSIHHA TANI MERKEZİYLE ÇALIŞACAK İLLER
 
-(Adres: R.S. Hıfzıssıhha Bölge Müdürlüğü, Neonatal Tarama Laboratuarı, 10.yıl Cad. Cinoğlu Çıkmazı No:10 Zeytinburnu/İSTANBUL)
+(**Adres:** R.S. Hıfzıssıhha Bölge Müdürlüğü, Neonatal Tarama Laboratuarı, 10.yıl Cad. Cinoğlu Çıkmazı No:10 Zeytinburnu/İSTANBUL)
 
 İller aşağıda belirtilen günlerde kan örneklerini hıfzıssıhha tanı merkezine postalayacaklardır.
 

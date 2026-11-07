@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Çevre ve Şehircilik Bakanlığından:
-ATIK YÖNETİMİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ATIK YÖNETİMİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 2/4/2015 tarihli ve 29314 sayılı Resmî Gazete’de yayımlanan Atık Yönetimi Yönetmeliğinin 2 nci maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 1 –** 2/4/2015 tarihli ve 29314 sayılı Resmî Gazete’de yayımlanan Atık Yönetimi Yönetmeliğinin 2 nci maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
 “(3) Madenlerin aranması, çıkarılması, işleme tabi tutulması veya depolanması sonucu oluşan atıklar ile inşaat ve yıkıntı atıklarının tanımlanmasında EK-4 atık listesi, tehlikelilik özelliklerinin belirlenmesinde EK-3/A’da verilen tehlikelilik özellikleri ve EK-3/B’de verilen sınır değerler ile bu atıkların yönetiminde EK-2/A ve EK-2/B’de belirtilen atık işleme yöntemleri kullanılır; ancak bu Yönetmeliğin diğer hükümleri uygulanmaz.”
 “(4) Kontamine olmamış hafriyat toprağı bu maddenin ikinci fıkrası uyarınca Yönetmeliğin kapsamı dışındadır. Ancak, hafriyat toprağının çevre ve insan sağlığına zarar vermeyecek şekilde yönetimi 18/3/2004 tarihli ve 25406 sayılı Resmî Gazete’de yayımlanan Hafriyat Toprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliğine göre gerçekleştirilir.”
 

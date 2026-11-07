@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-YABANCI SAĞLIK MESLEK MENSUPLARININ TÜRKİYE’DE ÖZEL SAĞLIK KURULUŞLARINDA ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**YABANCI SAĞLIK MESLEK MENSUPLARININ TÜRKİYE’DE ÖZEL SAĞLIK KURULUŞLARINDA ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 22/2/2012 tarihli ve 28212 sayılı Resmî Gazete’de yayımlanan Yabancı Sağlık Meslek Mensuplarının Türkiye’de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmeliğin 5 inci maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 22/2/2012 tarihli ve 28212 sayılı Resmî Gazete’de yayımlanan Yabancı Sağlık Meslek Mensuplarının Türkiye’de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmeliğin 5 inci maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiştir.
 “c) Türkçe bilmek.”
 
 MADDE 2 – Aynı Yönetmeliğe aşağıdaki geçici madde eklenmiştir.

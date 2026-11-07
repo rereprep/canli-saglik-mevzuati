@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü Başbakanlık (Hazine Müsteşarlığı)’tan:
-TRAFİK KAZALARI NEDENİYLE İLGİLİLERE SUNULAN SAĞLIK HİZMET BEDELLERİNİN TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+TRAFİK KAZALARI NEDENİYLE İLGİLİLERE SUNULAN SAĞLIK HİZMET BEDELLERİNİN TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR **YÖNETMELİK**
 
 MADDE 1 – 27/8/2011 tarihli ve 28038 sayılı Resmî Gazete’de yayımlanan Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmeliğin Ek 1 Hesaplama Yöntemi Başlıklı ekinin “a-) Zorunlu Trafik Sigortası” başlıklı kısmına aşağıdaki paragraf eklenmiştir.
 “ab-) Zorunlu Trafik Sigortasına ilişkin olarak 2012 ve devam eden yıllar için hesaplama 2012 yılı bakımından; Zorunlu Trafik Sigortasında beher poliçe için yazılan primin %10’u Kuruma devredilir.

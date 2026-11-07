@@ -198,4 +198,4 @@ f) Tazeleme eğitiminde başarılı olanlara EK-12’deki örneğe uygun olarak 
 
 **MADDE 9 –** (1) Bu Yönetmelik hükümlerini İçişleri Bakanı, Millî Savunma Bakanı ve Sağlık Bakanı birlikte yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**

@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/05/20250516-5.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-BAZI KANUNLAR İLE 375 SAYILI KANUN HÜKMÜNDE
-KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN**
+**BAZI KANUNLAR İLE 375 SAYILI KANUN HÜKMÜNDE**
+**KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7547 Kabul Tarihi: 8/5/2025
 
 MADDE 1- 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 61/A maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.

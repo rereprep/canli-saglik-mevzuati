@@ -42,7 +42,7 @@ Sağlığı Laboratuvarlarında yapılabileceği hususları bildirilmişti.
 
 Bununla birlikte, Türkiye İlaç ve Tıbbi Cihaz Kurumunun 81 İl Valiliğine gönderdiği ilgi (b) yazıda, Türkiye İlaç ve Tıbbi Cihaz Kurumuna bağlı laboratuvarda söz konusu analizlerin bundan sonra yapılmayacağı ve numunelerin halk sağlığı laboratuvarlarına gönderilmesi gerektiği hususu bildirilmiştir.
 
-Bilindiği üzere, 05/03/2015 tarihli ve 62665021/116.01.03/12242 sayılı “Sularda Numune Kabul Kriterleri” konulu 81 İl Valiliğine gönderilen yazıda, su analizleri için gerekli numune miktarı, numune kap özellikleri ve maksimum taşıma süresi gibi bilgilerin yanında numune kabul şartları da bildirilmiştir.
+Bilindiği üzere, 05/03/2015 tarihli ve 62665021/116.01.03/12242 sayılı “<i>Sularda</i> Numune Kabul Kriterleri” konulu 81 İl Valiliğine gönderilen yazıda, su analizleri için gerekli numune miktarı, numune kap özellikleri ve maksimum taşıma süresi gibi bilgilerin yanında numune kabul şartları da bildirilmiştir.
 
 Buna göre, hemodiyaliz çözeltilerinin dilüsyonunda kullanılan suların kimyasal, mikrobiyolojik ve bakteriyel endotoksin analizlerinin;
 
@@ -56,7 +56,7 @@ Muğla Halk Sağlığı Laboratuvarı ile Ulusal Halk Sağlığı Referans Labor
 
 - Bakteriyel endotoksin analizleri iliniz halk sağlığı laboratuvarında yapılıyor ise ilinizde, yapılmıyor ise bağlı bulunduğunuz L1 tipi halk sağlığı laboratuvarlarında yapılacaktır.
 
-Sonuç olarak; Bakanlığımız sorumluluğunda olan suların analizleri için numune gönderecek olan illerin laboratuvarlara olan uzaklıkları dikkate alınarak hazırlanan ve ilgi (c) yazı ile 81 İl Valiliğine gönderilen “Su numunelerinin Gönderileceği İllerin Listesi” konulu yazı ve ekinde yer alan bağlı laboratuvarlara yukarıdaki esaslar çerçevesinde numunelerin gönderilmesi ve ilinizde bulunan tüm sağlık kuruluşlarına duyurulması hususunda;
+Sonuç olarak; Bakanlığımız sorumluluğunda olan suların analizleri için numune gönderecek olan illerin laboratuvarlara olan uzaklıkları dikkate alınarak hazırlanan ve ilgi (c) yazı ile 81 İl Valiliğine gönderilen “**<i>Su numunelerinin Gönderileceği İllerin Listesi”</i>** konulu yazı ve ekinde yer alan **bağlı laboratuvarlara yukarıdaki esaslar çerçevesinde** numunelerin gönderilmesi ve ilinizde bulunan tüm sağlık kuruluşlarına duyurulması hususunda;
 
 Bilgilerini ve gereğini rica ederim.
 

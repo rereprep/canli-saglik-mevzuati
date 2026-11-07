@@ -10,7 +10,7 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-2.3.18. Zorunlu Kan Temini Genelgesi (2009/37)
+**2.3.18. Zorunlu Kan Temini Genelgesi (2009/37)**
 
 **Zorunlu Kan Temini Genelgesi**
 

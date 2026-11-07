@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Müdürlüğünden:
-SAHİL SAĞLIK DENETLEME MERKEZLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**SAHİL SAĞLIK DENETLEME MERKEZLERİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 10/6/2009 tarihli ve 27254 sayılı Resmî Gazete’de yayımlanan Sahil Sağlık Denetleme Merkezleri Yönetmeliğinin 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 10/6/2009 tarihli ve 27254 sayılı Resmî Gazete’de yayımlanan Sahil Sağlık Denetleme Merkezleri Yönetmeliğinin 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 3 – (1) Bu Yönetmelik; 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 47 nci maddesine, 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 653 üncü ve 796 ncı maddelerine ve 10/3/1954 tarihli ve 6368 sayılı Kanunla onaylanan Uluslararası Sağlık Tüzüğü hükümlerine dayanılarak hazırlanmıştır.”
 
 MADDE 2 – Aynı Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (c) bendinde yer alan “Bölge Koordinatör Tabipliği:” ibaresi “Bölge Baştabipliği:” şeklinde, (h) bendinde yer alan “Hudut ve Sahiller Sağlık Genel Müdürünü,” ibaresi “Türkiye Hudut ve Sahiller Sağlık Genel Müdürünü,” şeklinde, (ı) bendinde yer alan “Hudut ve Sahiller Sağlık Genel Müdürlüğünü,” ibaresi “Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü,” şeklinde ve (s) bendinde yer alan “Hudut ve Sahiller Sağlık Genel Müdürlüğünün” ibaresi “Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün” şeklinde değiştirilmiştir.

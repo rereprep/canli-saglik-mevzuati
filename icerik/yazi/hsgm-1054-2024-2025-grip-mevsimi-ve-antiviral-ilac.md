@@ -39,7 +39,7 @@ Klinik çalışmalarda, hastaların şikayetlerinin başladığı erken dönemde
 
 - Hasta başı hızlı tanı testi (influenza için hızlı antijen testi) uygulanıyor ise, test sonucu antiviral tedavi kararında kesin bağlayıcı olmamalıdır. Antiviral tedavi kararı hekime aittir, test sonucu negatif olsa bile hekim yukarıdaki durumları göz önünde bulundurarak antiviral tedavi başlayabilir.
 
-* İnfluenzaya bağlı komplikasyon gelişme riski yüksek hasta grupları;
+*** İnfluenzaya bağlı komplikasyon gelişme riski yüksek hasta grupları;**
 
 - 5 yaş altı çocuklar (özellikle 2 yaş altı çocuklar)
 

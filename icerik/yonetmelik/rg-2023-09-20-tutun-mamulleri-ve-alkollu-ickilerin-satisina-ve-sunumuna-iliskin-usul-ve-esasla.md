@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Tarım ve Orman Bakanlığından:
-TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERİN SATIŞINA VE SUNUMUNA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 7/1/2011 tarihli ve 27808 sayılı Resmî Gazete’de yayımlanan Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 3 üncü maddesinin birinci fıkrasında yer alan “Tütün ve Alkol Piyasası Düzenleme Kurumu Teşkilat ve Görevleri Hakkında Kanun” ibaresi “Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanun” şeklinde değiştirilmiştir.
 

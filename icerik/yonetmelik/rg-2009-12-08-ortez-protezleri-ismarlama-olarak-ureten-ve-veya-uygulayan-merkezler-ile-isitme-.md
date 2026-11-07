@@ -12,8 +12,8 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-ORTEZ-PROTEZLERİ ISMARLAMA OLARAK ÜRETEN VE/VEYA
-UYGULAYAN MERKEZLER İLE İŞİTME CİHAZI SATIŞ VE UYGULAMASI YAPAN MERKEZLER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ORTEZ-PROTEZLERİ ISMARLAMA OLARAK ÜRETEN VE/VEYA**
+**UYGULAYAN MERKEZLER İLE İŞİTME CİHAZI SATIŞ VE UYGULAMASI YAPAN MERKEZLER HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 3/12/2008 tarihli ve 27073 sayılı Resmî Gazete’de yayımlanan Ortez-Protezleri Ismarlama Olarak Üreten ve/veya Uygulayan Merkezler ile İşitme Cihazı Satış ve Uygulaması Yapan Merkezler Hakkında Yönetmeliğin 5 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “MADDE 5 – (1) İşitme cihazı satış ve uygulama merkezlerinin açılış ve denetim işlemleri için müdürlük bünyesinde bir komisyon oluşturulur. Komisyona il sağlık müdürünün görevlendireceği bir sağlık müdür yardımcısı başkanlık eder. Komisyon aşağıdaki üyelerin katılımıyla en az dört kişiden oluşur.

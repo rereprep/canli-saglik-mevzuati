@@ -12,12 +12,12 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2022/04/20220426-8.htm"
 durum: "yürürlükte"
 ---
 
-KANUN KANUN SPOR KULÜPLERİ VE SPOR FEDERASYONLARI KANUNU
+**KANUN KANUN SPOR KULÜPLERİ VE SPOR FEDERASYONLARI KANUNU**
 Kanun No. 7405 Kabul Tarihi: 22/4/2022
-BİRİNCİ KISIM
-Genel Esaslar
-BİRİNCİ BÖLÜM
-Amaç, Kapsam ve Tanımlar Amaç ve kapsam
+**BİRİNCİ KISIM**
+**Genel Esaslar**
+**BİRİNCİ BÖLÜM**
+**Amaç, Kapsam ve Tanımlar** Amaç ve kapsam
 
 MADDE 1- (1) Bu Kanunun amacı; spor kulüpleri, spor anonim şirketleri ve spor federasyonlarının kuruluşu, organları, üst kuruluş oluşturmaları, gelir ve giderleri, bütçe ve harcama esasları, görev, yetki ve sorumlulukları, denetimleri, bunlara yapılacak her türlü yardımın şekil ve şartları ile bunlara ilişkin diğer hususlara dair usul ve esasları düzenlemektir.
 (2) Bu Kanunun 3 ila 20 nci maddeleri ile 42 nci maddesinin dördüncü fıkrası ve 47 nci maddesinin beşinci fıkrası saklı kalmak kaydıyla, bu Kanun hükümleri kuruluş kanunu bulunan spor federasyonları hakkında uygulanmaz.
@@ -51,10 +51,10 @@ p) Tahkim Kurulu: Gençlik ve Spor Bakanlığı Tahkim Kurulunu,
 r) Talimat: Spor federasyonu yönetim kurulu tarafından hazırlanan ve Bakanlığın onayına istinaden Bakanlığın internet sitesinde yayımlanarak yürürlüğe giren düzenleyici işlemi,
 s) Uluslararası federasyon: Spor federasyonlarının üyesi olduğu uluslararası federasyonları,
 ş) Üst kuruluş: Spor kulüplerinin oluşturduğu tüzel kişiliği bulunan federasyonları ve bu federasyonların oluşturduğu konfederasyonları, ifade eder.
-İKİNCİ KISIM
-Spor Kulüpleri ve Spor Anonim Şirketleri
-BİRİNCİ BÖLÜM
-Spor Kulüpleri Kuruluş ve tüzel kişiliğin kazanılması
+**İKİNCİ KISIM**
+**Spor Kulüpleri ve Spor Anonim Şirketleri**
+**BİRİNCİ BÖLÜM**
+**Spor Kulüpleri** Kuruluş ve tüzel kişiliğin kazanılması
 
 MADDE 3- (1) Spor kulüpleri, spor faaliyetlerine katılmak amacıyla gerçek veya tüzel en az yedi kişi tarafından kurulur.
 (2) Spor kulübü kurmak için kuruluş bildirimi, tüzük ve gerekli diğer belgelerle birlikte Bakanlığa başvuruda bulunulur.
@@ -154,8 +154,8 @@ Bu denetimin giderleri Bakanlık tarafından karşılanır. Beş yıl içinde ay
 (7) Konsolidasyonun gerekli olduğu hâllerde kulüp bünyesinde konsolide olanlardan en yüksek harcamaya sahip olanın hesap dönemi kulübün de hesap dönemi olarak kabul edilir.
 (8) Denetim sırasında, suç teşkil eden fiillerin tespit edilmesi hâlinde durum Cumhuriyet başsavcılığına bildirilir.
 (9) Bu madde kapsamında yapılacak denetime ve beyanname düzenlenmesine ilişkin usul ve esaslar Hazine ve Maliye Bakanlığının görüşü alınarak Bakanlık tarafından çıkarılacak yönetmelikle belirlenir.
-İKİNCİ BÖLÜM
-Spor Anonim Şirketleri Spor anonim şirketi vasfının kazanılması ve kaybedilmesi
+**İKİNCİ BÖLÜM**
+**Spor Anonim Şirketleri** Spor anonim şirketi vasfının kazanılması ve kaybedilmesi
 
 MADDE 14-
 (1) 6102 sayılı Kanuna göre kurulan ve tüzel kişilik kazanan anonim şirketler, Bakanlık tarafından tescil edilmeleri ile spor anonim şirketi vasfını kazanır.
@@ -185,8 +185,8 @@ MADDE 16-
 Tamamlayıcı düzenlemeler
 
 MADDE 17- (1) Spor anonim şirketlerinin esas sözleşmesinin asgari içeriği, ortaklık yapısı, pay sahipliği, sermayesi ve organlarına ilişkin usul ve esaslar ilgili kamu kurum ve kuruluşlarının görüşü alınarak Bakanlık tarafından çıkarılacak tebliğle belirlenir.
-ÜÇÜNCÜ BÖLÜM
-Mali Hükümler Temel ilkeler
+**ÜÇÜNCÜ BÖLÜM**
+**Mali Hükümler** Temel ilkeler
 
 MADDE 18-
 (1) Spor kulüpleri ve spor anonim şirketleri;
@@ -258,8 +258,8 @@ MADDE 21-
 (3) Büyükşehir belediyesi, belediye ve bağlı kuruluşları ile bunların sermayesinin yüzde ellisinden fazlasına sahip oldukları şirketler, spor kulüplerinin ve spor anonim şirketlerinin profesyonel spor dallarına ve bunların profesyonel sporcularına her ne ad altında olursa olsun kaynak aktaramaz ve yardımda bulunamaz. 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 14 üncü maddesinin birinci fıkrasının (b) bendi ile 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 7 nci maddesinin birinci fıkrasının (m) bendi bu hükmün kapsamı dışındadır.
 (4) Bakanlık ve spor federasyonları, okul spor kulüplerine spora ilişkin faaliyetlerde bulunmak üzere ayni, nakdî veya teknik eleman görevlendirme şeklinde yardımda bulunabilir.
 (5) Bu madde kapsamında yapılacak yardımlara ilişkin diğer usul ve esaslar Bakanlık tarafından çıkarılacak yönetmelikle belirlenir.
-DÖRDÜNCÜ BÖLÜM
-Çeşitli Hükümler Davanın ihbarı ve ferî müdahale
+**DÖRDÜNCÜ BÖLÜM**
+**Çeşitli Hükümler** Davanın ihbarı ve ferî müdahale
 
 MADDE 22- (1) Bakanlık ve ilgili spor federasyonu; gerekli görmeleri hâlinde, spor anonim şirketleri ile ilgili olarak, 6102 sayılı Kanunun 549 uncu ila 557 nci maddeleri ile bu Kanunun 20 nci maddesi kapsamında açılacak davalarda davacı taraf yanında ve davacıya yardımcı olmak amacıyla, tahkikat sona erinceye kadar, ferî müdahil olarak yer alabilirler. Bu kapsamda açılacak davalar, mahkemece Bakanlık ve ilgili spor federasyonuna ihbar edilir.
 (2) Birinci fıkra hükmü spor kulüpleri hakkında kıyasen uygulanır.
@@ -278,10 +278,10 @@ Uygulanacak hükümler
 MADDE 25-
 (1) Bu Kanunda hüküm bulunmayan konularda spor kulüpleri hakkında 4721 sayılı Kanun ile 5253 sayılı Kanun;
 spor anonim şirketleri hakkında ise 6102 sayılı Kanun hükümleri uygulanır.
-ÜÇÜNCÜ KISIM
-Spor Federasyonları
-BİRİNCİ BÖLÜM
-Spor Federasyonları Kuruluş ve teşkilat
+**ÜÇÜNCÜ KISIM**
+**Spor Federasyonları**
+**BİRİNCİ BÖLÜM**
+**Spor Federasyonları** Kuruluş ve teşkilat
 
 MADDE 26- (1) Spor federasyonları, spor dalı ile ilgili faaliyetleri yürütmek üzere kanunla veya Cumhurbaşkanlığı kararnamesi ile kurulur ve kanun veya Cumhurbaşkanlığı kararnamesinin Resmî Gazete’de yayımlanması ile tüzel kişilik kazanır.
 (2) Spor federasyonlarının merkezleri Ankara’dadır.
@@ -451,8 +451,8 @@ Spor elemanlarının belgelendirilmesi
 MADDE 44-
 (1) Spor idarecisi, çalıştırıcı, antrenör, eğitmen, hakem ve benzeri spor elemanlarının;
 mesleki standartları, ulusal teknik ve mesleki yeterliliklerinin esasları, denetimi, ölçümü, belgelendirme ve sertifikalandırma işlemleri Mesleki Yeterlilik Kurumu ile iş birliği yapılarak, münhasıran Bakanlık tarafından yapılır. Buna ilişkin usul ve esaslar Bakanlık tarafından çıkarılacak yönetmelikle belirlenir.
-İKİNCİ BÖLÜM
-Çeşitli Hükümler Spor dallarının tespiti
+**İKİNCİ BÖLÜM**
+**Çeşitli Hükümler** Spor dallarının tespiti
 
 MADDE 45-
 (1) Spor dalları Bakanlık tarafından belirlenir ve teknik ve idari bakımdan spor federasyonlarına bağlanır.
@@ -461,10 +461,10 @@ Hüküm bulunmayan hâller
 
 MADDE 46-
 (1) Spor federasyonları ile ilgili olarak bu Kanunda hüküm bulunmayan konularda, spor federasyonlarının kendi kuruluş kanunları, 21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Hizmetleri Kanunu, 4721 sayılı Kanun ile 5253 sayılı Kanun hükümleri uygulanır.
-DÖRDÜNCÜ KISIM
-Çeşitli ve Son Hükümler
-BİRİNCİ BÖLÜM
-Ceza Hükümleri ve Soruşturma Usulü Ceza hükümleri ve soruşturma usulü
+**DÖRDÜNCÜ KISIM**
+**Çeşitli ve Son Hükümler**
+**BİRİNCİ BÖLÜM**
+**Ceza Hükümleri ve Soruşturma Usulü** Ceza hükümleri ve soruşturma usulü
 
 MADDE 47- (1) Spor kulübü ve spor anonim şirketi başkan, yönetim kurulu üyeleri ve yöneticileri bu Kanunun 20 nci maddesinin dördüncü, beşinci veya sekizinci fıkralarına aykırı fiilleri nedeniyle bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.
 (2) Bu Kanunun 20 nci maddesinin dokuzuncu fıkrasına aykırı davrananlar, yüz günden beş yüz güne kadar adli para cezası ile cezalandırılır.
@@ -485,8 +485,8 @@ MADDE 47- (1) Spor kulübü ve spor anonim şirketi başkan, yönetim kurulu üy
 (17) Bu maddede belirtilen idari yaptırımlara karar vermeye Bakanlık yetkilidir. Bu yetki, merkezde Bakanlığın ilgili genel müdürlüğüne, taşrada ise il müdürlüklerine devredilebilir.
 (18) Bu Kanunda tanımlanan veya atıfta bulunulan suçlara ilişkin delil veya emarelerin tespiti hâlinde Bakanlık, doğrudan Cumhuriyet başsavcılığına başvuruda bulunabilir. Soruşturma sonunda verilecek kovuşturmaya yer olmadığı kararları Bakanlığa tebliğ edilir ve Bakanlık bu kararlara itiraz edebilir.
 (19) Bu Kanunda tanımlanan veya atıfta bulunulan suçlar dolayısıyla açılan davalarda mahkeme, iddianamenin bir örneğini Bakanlığa tebliğ eder. Bakanlık, gerekli gördüğü davalarda başvuruda bulunması hâlinde, açılan davaya katılan olarak kabul edilir.
-İKİNCİ BÖLÜM
-Değiştirilen Hükümler, Yürürlükten Kaldırılan Hükümler ve Geçiş Hükümleri Değiştirilen hükümler
+**İKİNCİ BÖLÜM**
+**Değiştirilen Hükümler, Yürürlükten Kaldırılan Hükümler ve Geçiş Hükümleri** Değiştirilen hükümler
 
 MADDE 48- 29/4/1959 tarihli ve 7258 sayılı Futbol ve Diğer Spor Müsabakalarında Bahis ve Şans Oyunları Düzenlenmesi Hakkında Kanunun 5 inci maddesine aşağıdaki fıkralar eklenmiştir.
 “Bu Kanunda tanımlanan suçlara ilişkin delil veya emarelerin tespiti hâlinde Spor Toto Teşkilat Başkanlığı, doğrudan Cumhuriyet başsavcılığına başvuruda bulunabilir. Soruşturma sonunda verilecek kovuşturmaya yer olmadığı kararları Spor Toto Teşkilat Başkanlığına tebliğ edilir ve Spor Toto Teşkilat Başkanlığı bu kararlara itiraz edebilir.

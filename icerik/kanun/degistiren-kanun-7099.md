@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310-9.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-YATIRIM ORTAMININ İYİLEŞTİRİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7099 Kabul Tarihi: 15/2/2018
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**YATIRIM ORTAMININ İYİLEŞTİRİLMESİ AMACIYLA BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7099 Kabul Tarihi: 15/2/2018**
 
 
 MADDE 1 – 22/12/1934 tarihli ve 2644 sayılı Tapu Kanununun 26 ncı maddesinin dokuzuncu fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -38,7 +38,7 @@ Kat irtifakından, kat mülkiyetine geçiş işlemlerinde bu fıkra hükmü uygu
 MADDE 5 – 634 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
 “a) Anagayrimenkulde, yapı veya yapıların dış cepheler ve iç taksimatı bağımsız bölüm, eklenti, ortak yerlerinin ölçüleri ve bağımsız bölümlerin konum ve büyüklüklerine göre hesaplanan değerleriyle oranlı arsa payları, kat, daire, iş bürosu gibi nevi ile bunların birden başlayıp sırayla giden numarası ve bağımsız bölümlerin yapı inşaat alanı da açıkça gösterilmek suretiyle, proje müellifi mimar tarafından yapılan, yetkili kamu kurum ve kuruluşlarınca anagayrimenkulün maliki veya bütün paydaşlarının imzaları alınarak onaylanan ve elektronik ortamda tapu müdürlüğüne gönderilen mimarî proje ile yapı kullanma izin belgesi.”
 
-MADDE 6- 634 sayılı Kanunun 14 üncü maddesinin birinci fıkrasında yer alan “12 nci maddenin (a) bendine uygun olarak düzenlenen” ibaresi “12 nci maddenin birinci fıkrasının (a) bendine uygun olarak düzenlenen, yetkili kamu kurum ve kuruluşlarınca anagayrimenkulün maliki veya bütün paydaşlarının imzaları alınarak onaylanan ve elektronik ortamda tapu müdürlüğüne gönderilen” şeklinde değiştirilmiştir.
+**MADDE 6-** 634 sayılı Kanunun 14 üncü maddesinin birinci fıkrasında yer alan “12 nci maddenin (a) bendine uygun olarak düzenlenen” ibaresi “12 nci maddenin birinci fıkrasının (a) bendine uygun olarak düzenlenen, yetkili kamu kurum ve kuruluşlarınca anagayrimenkulün maliki veya bütün paydaşlarının imzaları alınarak onaylanan ve elektronik ortamda tapu müdürlüğüne gönderilen” şeklinde değiştirilmiştir.
 
 
 MADDE 7 – 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanununun 2 nci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -87,14 +87,14 @@ MADDE 15 – 4708 sayılı Kanunun 3 üncü maddesinin ikinci fıkrasına mevcut
 MADDE 16 – 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununa aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 3- Belediyeler, mevzuatla kendilerine verilen görev ve hizmetlerin yürütülmesi ve vatandaşlar tarafından yapılan başvuruların sonuçlandırılması amacıyla her türlü idari iş ve işlemin yürütüldüğü e-Belediye bilgi sistemini kullanır.
+**MADDE 3-** Belediyeler, mevzuatla kendilerine verilen görev ve hizmetlerin yürütülmesi ve vatandaşlar tarafından yapılan başvuruların sonuçlandırılması amacıyla her türlü idari iş ve işlemin yürütüldüğü e-Belediye bilgi sistemini kullanır.
 e-Belediye bilgi sistemini kurmaya, işletmeye, veri saklama, veri iletimi ve veri paylaşımı ile ilgili politikaları tespit etmeye, çalışma usul ve esaslarını belirlemeye ve bu sistem ile ilgili merkezî bir hizmet standardizasyonu oluşturmaya İçişleri Bakanlığı yetkilidir.”
 
 
 MADDE 17 – 5393 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ
 
-MADDE 10- Belediyeler, e-Belediye bilgi sisteminin kurulduğuna dair bildirimin İçişleri Bakanlığı tarafından yapılmasından itibaren e-Belediye bilgi sistemi ile ilgili çalışmaları bir yıl içinde tamamlar.
+**MADDE 10-** Belediyeler, e-Belediye bilgi sisteminin kurulduğuna dair bildirimin İçişleri Bakanlığı tarafından yapılmasından itibaren e-Belediye bilgi sistemi ile ilgili çalışmaları bir yıl içinde tamamlar.
 Benzer sistemi kullanan belediyeler, sistemlerinde bulunan ve e-Belediye bilgi sistemi için gerekli olan verileri e-Belediye bilgi sistemini kullanmaya başladıkları tarihten itibaren bir yıl içinde e-Belediye bilgi sistemine aktarır. İçişleri Bakanı, gerektiğinde bu süreyi bir katına kadar uzatabilir.”
 
 
@@ -144,7 +144,7 @@ MADDE 28 – 6750 sayılı Kanunun 5 inci maddesinin birinci fıkrasına aşağ�
 MADDE 29 – 6750 sayılı Kanunun 7 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
 “Rehnin kapsamı
 
-MADDE 7-
+**MADDE 7-**
 (1) Taşınır varlığın gelecekteki her türlü faiz, sigorta gibi hukuki getirileri ile doğal ürün ve ikamesi mallar, taşınır varlık ile birlikte doğrudan rehnin kapsamına girer.
 (2) Bir üretim sürecinin, kullanıldığı taşınır varlıklarla birlikte rehnedilmesi halinde rehin, üretim sürecinde ve sonucunda gerçekleşecek olan alacak üzerinde aynı oranda ve sırada kendiliğinden tesis edilmiş sayılır. Buna ilişkin usul ve esaslar yönetmelikle belirlenir.
 (3) Bir taşınırın rehinli olduğunu bilmeyen veya bilmesi gerekmeyen iyiniyetli üçüncü kişinin iyiniyeti korunur.”

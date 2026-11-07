@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
-TIBBİ CİHAZ SATIŞ, REKLAM VE TANITIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**TIBBİ CİHAZ SATIŞ, REKLAM VE TANITIM YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 15/5/2014 tarihli ve 29001 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinin 11 inci maddesine aşağıdaki fıkra eklenmiştir.
 “(6) Satış merkezinde satış ve tanıtım elemanı olarak bir kişi görev yapmakta ise bu satış ve tanıtım elemanının görevine son verilmesi, istifası, satış ve tanıtım elemanı şartlarını herhangi bir şekilde kaybetmesi durumunun ortaya çıkmasından itibaren beş iş günü, vefatı halinde ise on beş gün içerisinde satış merkezinin müdürlüğe bildirimde bulunması ve en geç bir ay içerisinde de yeni bir satış ve tanıtım elemanı görevlendirilmesi zorunludur.”

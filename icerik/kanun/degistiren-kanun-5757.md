@@ -12,12 +12,12 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/05/20080508-4.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-EMNİYET TEŞKİLATI KANUNU, DEVLET MEMURLARI KANUNU VE GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5757 Kabul Tarihi: 24/4/2008
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**EMNİYET TEŞKİLATI KANUNU, DEVLET MEMURLARI KANUNU VE GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5757 Kabul Tarihi: 24/4/2008**
 
 
-MADDE 1 – 4/6/1937 tarihli ve 3201 sayılı Emniyet Teşkilatı Kanununun ek 21 inci maddesinin birinci fıkrasının (b) bendinde yer alan "Yardımcı hizmetler sınıfına" ibaresi "Emniyet hizmetleri sınıfına" şeklinde değiştirilmiştir.
+**MADDE 1 –** 4/6/1937 tarihli ve 3201 sayılı Emniyet Teşkilatı Kanununun ek 21 inci maddesinin birinci fıkrasının (b) bendinde yer alan "Yardımcı hizmetler sınıfına" ibaresi "Emniyet hizmetleri sınıfına" şeklinde değiştirilmiştir.
 
 
 MADDE 2 – 3201 sayılı Kanuna aşağıdaki ek madde eklenmiştir.

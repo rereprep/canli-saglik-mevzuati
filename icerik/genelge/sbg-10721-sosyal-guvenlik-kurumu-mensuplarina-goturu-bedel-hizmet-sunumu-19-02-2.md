@@ -69,4 +69,4 @@ Temel Sağlık Hiz. Genel Müdürlüğü
 
 Hukuk Müşavirliği
 
-Not: Genelgenin uygulanması sırasında karşılaşılan sorunlar Başkanlığımıza ait dsidb@saglik.gov.tr e-posta adresine bildirilebilecektir.
+Not: Genelgenin uygulanması sırasında karşılaşılan sorunlar Başkanlığımıza ait dsidb@**saglik.gov.tr** e-posta adresine bildirilebilecektir.

@@ -12,10 +12,10 @@ durum: "yürürlükte"
 ---
 
 Tarım ve Orman Bakanlığından:
-TÜRK GIDA KODEKSİ BEBEK FORMÜLLERİ VE DEVAM FORMÜLLERİ
-TEBLİĞİ (TEBLİĞ NO: 2019/14)’NDE DEĞİŞİKLİK
-YAPILMASINA
-DAİR TEBLİĞ (TEBLİĞ NO: 2023/28)
+**TÜRK GIDA KODEKSİ BEBEK FORMÜLLERİ VE DEVAM FORMÜLLERİ**
+**TEBLİĞİ (TEBLİĞ NO: 2019/14)’NDE DEĞİŞİKLİK**
+**YAPILMASINA**
+**DAİR TEBLİĞ (TEBLİĞ NO: 2023/28)**
 
 MADDE 1- 2/7/2019 tarihli ve 30819 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Bebek Formülleri ve Devam Formülleri Tebliği (Tebliğ No: 2019/14)’nin Ek-1’indeki “2. PROTEİN” başlığı altında yer alan 2.3. numaralı maddesinin birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Protein hidrolizatlarından üretilmiş bebek formüllerinin 2.3.1 inci, 2.3.2 nci veya 2.3.3 üncü maddede belirlenen protein ile ilgili gerekliliklere uygun olması gerekir.”

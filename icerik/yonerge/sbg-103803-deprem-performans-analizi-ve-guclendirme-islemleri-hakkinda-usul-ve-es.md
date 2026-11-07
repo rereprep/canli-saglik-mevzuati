@@ -19,7 +19,7 @@ kontrol_edildi: true
 
 Sağlık hizmet binalarına ilişkin risk tespitlerinin yapılması, depreme dayanımının belirlenmesi ve sonuçlarının değerlendirilmesi ile ikinci ve üçüncü basamak sağlık tesislerine yönelik deprem performans analizi çalışmalarına ve güçlendirme iş ve işlemlerine ilişkin uygulama usul ve esasları şunlardır:
 
-1- Hizmet alım iş ve işlemlerinin yürütülmesi
+**1- Hizmet alım iş ve işlemlerinin yürütülmesi**
 
 1/1/2026 tarihinden itibaren deprem performans analizi, güçlendirme projeleri çalışmalarına dair hizmet alımı ve proje kontrolörlük hizmetlerine ilişkin iş ve işlemlerden;
 
@@ -29,7 +29,7 @@ b) Birinci basamak sağlık tesisleri ve idari binalara dair olanlar il sağlık
 
 c) Diğer binalar için ise ilgili hizmet birimleri veya bağlı ve ilgili kuruluşlarca, yürütülür.
 
-2- Deprem performans analizi yapılacak sağlık tesislerinin önceliklendirilmesi
+**2- Deprem performans analizi yapılacak sağlık tesislerinin önceliklendirilmesi**
 
 Kamu kaynaklarının etkin ve verimli kullanılması amacıyla sağlık tesislerinin depreme dayanımının tespiti için aşağıdaki öncelik sırası esas alınır.
 
@@ -51,7 +51,7 @@ Taşıyıcı sistem hasarı bulunmadığı sürece il bünyesinde bir önceki gr
 
 Taleplere ilişkin proje ve müşavirlik hizmet alımı süreçleri Sağlık Yatırımları Genel Müdürlüğü tarafından Türkiye Deprem Tehlike Haritasına göre en büyük yer ivmesine sahip yapıdan başlanarak yürütülür.
 
-3- Hizmet alımı sonrası yapılacak iş ve işlemler
+**3- Hizmet alımı sonrası yapılacak iş ve işlemler**
 
 a) Proje yüklenicisi, saha çalışmalarını müşavir firma kontrolünde gerçekleştirir.
 
@@ -73,7 +73,7 @@ g) Deprem analizi sonucu yürürlükteki Türkiye Bina Deprem Yönetmeliği hük
 
 h) Yıkımı uygun görülen sağlık tesisleri için Ek-3’te yer alan dokümanlar, il sağlık müdürlüğü tarafından Sağlık Yatırımları Genel Müdürlüğü bünyesinde teşkil olunan Sağlık Yapıları Yıkım Kararı Komisyonuna gönderilir.
 
-4- Güçlendirme uygulama projesi aşaması
+**4- Güçlendirme uygulama projesi aşaması**
 
 a) Sağlık Yatırımları Genel Müdürlüğünce hazırlatılan güçlendirme projeleri sonucunda güçlendirilmesi uygun görülen sağlık tesisleri için Kamu Hastaneleri Genel Müdürlüğü ve il sağlık müdürlüğüne gerekli bildirimler yapılır.
 
@@ -87,7 +87,7 @@ d) Boşaltma takviminin bildirilmesi sonrasında Sağlık Yatırımları Genel M
 
 e) Güçlendirme projelerinin hazırlanması sonrasında, teknik gerekçeler veya 15/12/2011 tarihli ve 12839 sayılı Bakan Oluru ile yürürlüğe konulan Sağlık Yapıları Yıkım Kararı Komisyonunun Teşkili ve Çalışma Usul ve Esaslarına Dair Yönerge hükümleri doğrultusunda Sağlık Yatırımları Genel Müdürlüğü’nce ilgili sağlık tesisinin yıkımı önerilebilir.
 
-5- Yıkım aşaması
+**5- Yıkım aşaması**
 
 a) İkinci ve üçüncü basamak sağlık tesislerinin deprem performans analizi çalışmaları neticesinde teknik olarak güçlendirilmeksizin doğrudan yıkımı uygun görülen veya güçlendirme maliyetinin yeniden yapım maliyetine oranının %40’ı geçtiği durumlarda ilgili sağlık tesislerinin Sağlık Yapıları Yıkım Kararı Komisyonunun Teşkili ve Çalışma Usul ve Esaslarına Dair Yönerge hükümleri doğrultusunda yıkım kararının alınması için Kamu Hastaneleri Genel Müdürlüğü ve il sağlık müdürlüğüne gerekli bildirimler yapılır. Güçlendirme maliyeti, statik güçlendirme maliyeti ve güçlendirme kaynaklı tadilat onarım maliyetinden oluşur. Fonksiyon değişikliği, renovasyon ve güçlendirme harici ilave tadilat onarım maliyetleri, güçlendirme maliyeti hesabında dikkate alınmaz.
 
@@ -95,21 +95,21 @@ b) İl sağlık müdürlüklerince ikinci ve üçüncü basamak sağlık tesisle
 
 c) Yıkım kararı alınan ikinci ve üçüncü basamak sağlık tesisinin tahliyesi Kamu Hastaneleri Genel Müdürlüğü ve il sağlık müdürlüğünce gerçekleştirilir. Yıkım kararı alınan taşınmazda yeni yatırım planlama işlemleri Kamu Hastaneleri Genel Müdürlüğü ve Sağlık Hizmetleri Genel Müdürlüğünce yapılır ve Sağlık Yatırımları Genel Müdürlüğüne iletilir.
 
-6- Sorumluluk
+**6- Sorumluluk**
 
 Proje yüklenicisi ve müşavir firma, hazırlanacak olan deprem performans analizi çalışmalarının veya güçlendirme projelerinin standartlara ve mevzuata uygun olarak hazırlanması ile doğabilecek her türlü teknik, hukuki ve mali sonuçtan müşterek ve müteselsilen sorumludur. Bu husus hazırlanacak ihale şartnamelerinde belirtilir.
 
-7- 1/1/2026 tarihinden önce yapılan hizmet alımları için gerçekleştirilecek işlemler
+**7- 1/1/2026 tarihinden önce yapılan hizmet alımları için gerçekleştirilecek işlemler**
 
 1/1/2026 tarihi öncesinde hizmet alımı aşaması tamamlanarak sözleşmesi imzalanan ikinci ve üçüncü basamak sağlık tesisleri için deprem performans analizleri il bünyesinde onaylanarak görüş için Sağlık Yatırımları Genel Müdürlüğüne iletilir. Sağlık Yatırımları Genel Müdürlüğünce güçlendirme görüşü verilmesi halinde güçlendirme uygulama projeleri il bünyesinde incelenerek onaylanır. Yatırım programına alınması için ilgili genel müdürlüklere iletilir.
 
-8- Birinci basamak sağlık tesisleri ve idari binalar için gerçekleştirilecek işlemler
+**8- Birinci basamak sağlık tesisleri ve idari binalar için gerçekleştirilecek işlemler**
 
 1/1/2026 tarihi öncesi veya sonrası hizmet alımı aşaması tamamlanarak sözleşmesi imzalanan birinci basamak sağlık tesisleri ve idari binaların deprem performans analizi çalışmalarına dair il bünyesinde yapılacak değerlendirmeler neticesinde güçlendirilmesi uygun görülmesi halinde güçlendirme uygulama projeleri ve dokümanları il bünyesinde incelenerek onaylanır. Yatırım programına alınması için birinci basamak sağlık tesisleri için Halk Sağlığı Genel Müdürlüğüne, idari binalar için Yönetim Hizmetleri Genel Müdürlüğüne iletilir.
 
 Değerlendirmeler neticesinde yıkımı uygun görülen birinci basamak sağlık tesisleri ve idari binaların yıkım işlemleri ilgili valilik bünyesinde kurulacak komisyonca değerlendirilir.
 
-9- Görevlendirme
+**9- Görevlendirme**
 
 Bakanlık hizmet birimleri ve taşra teşkilatı ile bağlı ve ilgili kuruluşlar, bu Usul ve Esaslar kapsamında belirlenen iş ve işlemleri kısmen ya da tamamen yürütmek üzere Bakan Oluru ile görevlendirilebilir.
 
@@ -121,11 +121,11 @@ Bakanlık hizmet birimleri ve taşra teşkilatı ile bağlı ve ilgili kuruluşl
 
 ### PROJE TALEP FORMU
 
-İdarenin Adı Sağlık Yatırımları Genel Müdürlüğü Yapılması İstenilen İşin Adı ………….... Hastanesi (varsa blok isimleri) Deprem Performans Analizi Çalışmaları, Gerekmesi Halinde
+**İdarenin Adı** Sağlık Yatırımları Genel Müdürlüğü **Yapılması İstenilen İşin Adı** ………….... Hastanesi (varsa blok isimleri) Deprem Performans Analizi Çalışmaları, Gerekmesi Halinde
 
 Güçlendirme Uygulama Projeleri ile Güçlendirme Kaynaklı Tadilat-Onarım Uygulama Projeleri ve İhale
 
-Dokümanlarının Hazırlanması İşi Yapılması İstenilen İşin Kısaca Tanımı Yaklaşık .... m kapalı alana haiz ………….... Hastanesinin (varsa blok isimleri) Deprem Performans Analizi
+Dokümanlarının Hazırlanması İşi **Yapılması İstenilen İşin Kısaca Tanımı** Yaklaşık .... m kapalı alana haiz ………….... Hastanesinin (varsa blok isimleri) Deprem Performans Analizi
 
 Çalışmaları, Gerekmesi Halinde Güçlendirme Uygulama Projeleri ile Güçlendirme Kaynaklı Tadilat-Onarım
 
@@ -133,9 +133,9 @@ Dokümanlarının Hazırlanması İşi Yapılması İstenilen İşin Kısaca Tan
 
 Uygulama Projeleri ve İhale Dokümanlarının (Mahal Listeleri, Yaklaşık Maliyet Hesabı, Metrajlar, Pursantaj İle
 
-Teknik Şartnameler) Hazırlanması İşi Kapsamı (Doküman) 2 (iki) Takım baskılı ve ıslak imzalı suret
+Teknik Şartnameler) Hazırlanması İşi **Kapsamı (Doküman)** 2 (iki) Takım baskılı ve ıslak imzalı suret
 
-1 (bir) Takım proje ve tüm dokümanların dijitali (CD ortamında) Yapılması İstenilen İşin Gerekçesi ………….... Hastanesinin (varsa blok isimleri) Deprem Performans Analizi Çalışmaları, Gerekmesi Halinde
+1 (bir) Takım proje ve tüm dokümanların dijitali (CD ortamında) **Yapılması İstenilen İşin Gerekçesi** ………….... Hastanesinin (varsa blok isimleri) Deprem Performans Analizi Çalışmaları, Gerekmesi Halinde
 
 Güçlendirme Uygulama Projeleri ile Güçlendirme Kaynaklı Tadilat-Onarım Uygulama Projeleri ve İhale
 
@@ -153,4 +153,4 @@ blok/blokların ayrı ayrı
 
 3 Takyidatlı Tapu Kayıt Belgesi,
 
-4 Tahsis Belgesi * Performans analizi çalışmaları sağlık yatırımları genel müdürlüğü tarafından yaptırılıp yıkımı uygun görülen sağlık tesislerine dair il sağlık müdürlüklerince yıkım komisyonunda görüşülmesi için Sağlık Yatırımları Genel Müdürlüğüne iletilmesi gereken doküman listesi
+4 Tahsis Belgesi * <i>Performans analizi çalışmaları sağlık yatırımları genel müdürlüğü tarafından yaptırılıp yıkımı uygun</i> <i>görülen sağlık tesislerine dair il sağlık müdürlüklerince yıkım komisyonunda görüşülmesi için</i> <i>Sağlık Yatırımları Genel Müdürlüğüne iletilmesi gereken doküman listesi</i>

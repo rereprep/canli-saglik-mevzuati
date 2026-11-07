@@ -57,7 +57,7 @@ durum: "yürürlükte"
 
 #### Dayanak
 
-**Madde 3 –** Bu Yönetmelik 17.09.1982 tarih ve 8/5336 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan, Disiplin Kurulları ve Disiplin Amirleri Hakkında Yönetmeliğin değişik 16 ıncı maddesine dayanılarak hazırlanmıştır.
+**Madde 3 –** Bu Yönetmelik 17.09.1982 tarih ve 8/5336 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan, Disiplin Kurulları ve **Disiplin Amirleri** Hakkında Yönetmeliğin değişik 16 ıncı maddesine dayanılarak hazırlanmıştır.
 
 #### Disiplin Amirleri
 
@@ -83,11 +83,11 @@ durum: "yürürlükte"
 
 ### T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü
 
-Sayı : B100PER0110011 Konu : Genelge
+**Sayı :** B100PER0110011 **Konu :** Genelge
 
 ### G E N E L G E
 
-2004/10
+**2004/10**
 
 Bakanlığımız ile Kurum ve kuruluşlar arasındaki işlemlerin asgari seviyeye indirilerek iş ve
 
@@ -187,11 +187,11 @@ Müsteşar
 
 ### DAĞITIM :
 
-A Planı
+**A Planı**
 
 ### T.C. SAĞLIK BAKANLIĞI Personel Genel Müdürlüğü SAYI : B100PER0110011
 
-KONU: Genelge
+**KONU:** Genelge
 
 18.05.1995* 56074
 
@@ -209,9 +209,9 @@ Bakan a.
 
 Genel Müdür
 
-DAĞITIM : Bilgi :
+**DAĞITIM : Bilgi :**
 
-Gereği : Teftiş Kurulu Başkanlığına
+**Gereği :** Teftiş Kurulu Başkanlığına
 
 Valiliklere Tedavi Hizmetleri Genel.Müd.
 

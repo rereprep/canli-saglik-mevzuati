@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/10/20241018-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN ÖĞRETMENLİK MESLEĞİ KANUNU
-Kanun No. 7528 Kabul Tarihi: 10/10/2024
-BİRİNCİ BÖLÜM
-Başlangıç Hükümleri Amaç
+**KANUN ÖĞRETMENLİK MESLEĞİ KANUNU**
+**Kanun No. 7528** Kabul Tarihi: 10/10/2024
+**BİRİNCİ BÖLÜM**
+**Başlangıç Hükümleri** Amaç
 
 MADDE 1- (1) Bu Kanunun amacı; eğitim öğretim hizmetlerini yürüten öğretmenlerin seçilmelerini, yetiştirilmelerini, atanmalarını, haklarını, ödev ve sorumluluklarını, ödül ve cezalarını, kariyer basamaklarında ilerlemelerini ve öğretmenlik mesleğine ilişkin diğer hususlar ile Millî Eğitim Akademisinin kurulması, görevleri, teşkilat yapısı ve personeline ilişkin konuları düzenlemektir.
 Kapsam
@@ -54,8 +54,8 @@ a) Nitelikleri ile görev, yetki ve sorumluluklarının öğretmenlik mesleğini
 b) Atama, görevlendirme ve meslek içinde ilerlemelerinde liyakat ve kariyer esaslarına uyulması,
 c) Eğitim öğretim faaliyetleri ve meslekleriyle ilgili kararlara katılımlarının teşvik edilmesi ve bunun için uygun ortamların sağlanması,
 ç) Mesleğe giriş öncesinde yetiştirilmelerinin ve meslek içinde sürekli gelişimlerinin sağlanması, esastır.
-İKİNCİ BÖLÜM
-Hak, Ödev ve Sorumluluklar Öğretmenlerin hak, ödev ve sorumlulukları
+**İKİNCİ BÖLÜM**
+**Hak, Ödev ve Sorumluluklar** Öğretmenlerin hak, ödev ve sorumlulukları
 
 MADDE 5- (1) Öğretmenler;
 a) Öğrencilerini; Atatürk inkılap ve ilkelerine ve Anayasada ifadesini bulan Atatürk milliyetçiliğine bağlı, Türk Milletinin millî, ahlaki, insani, manevi ve kültürel değerlerini benimseyen, koruyan ve geliştiren; ailesini, vatanını, milletini seven ve daima yüceltmeye çalışan, insan haklarına ve Anayasanın başlangıcındaki temel ilkelere dayanan demokratik, laik ve sosyal bir hukuk Devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarını bilen ve bunları davranış hâline getirmiş erdemli insanlar olarak yetiştirir.
@@ -79,8 +79,8 @@ c) Eğitim öğretim faaliyetlerinin sağlıklı, güvenli ve huzurlu bir ortamd
 ç) Eğitim kurumunun sürekli gelişim göstermesi ve eğitim öğretimin kalitesinin yükselmesi için çaba gösterir ve bu amaçlar doğrultusunda tüm kaynakların etkin, etkili ve verimli kullanılmasını sağlar.
 d) Öğretmen ve diğer çalışanların ilgi ve yeteneklerini, görev ve sorumluluklarını esas alarak iş bölümü yapar ve tüm çalışanlara görevlerinin ifasında rehberlik eder.
 (2) Yöneticilerin bu maddede belirtilen ödev ve sorumluluklarına ilişkin hususlar okul tür ve kademelerine göre Bakanlıkça çıkarılacak yönetmelikle belirlenir.
-ÜÇÜNCÜ BÖLÜM
-Öğretmenlerin Nitelikleri, Seçimi, Hazırlık Eğitimi, Öğretmenliğe Atama ve Yer Değiştirme Öğretmenlerin nitelikleri ve seçimi
+**ÜÇÜNCÜ BÖLÜM**
+**Öğretmenlerin Nitelikleri, Seçimi, Hazırlık Eğitimi, Öğretmenliğe Atama ve Yer Değiştirme** Öğretmenlerin nitelikleri ve seçimi
 
 MADDE 7- (1) Öğretmenlik; genel kültür, özel alan eğitimi ve öğretmenlik meslek bilgisi bakımından hazırlığı gerektiren özel bir ihtisas mesleğidir.
 (2) Öğretmen olarak istihdam edilecekler, öğretmenlik mesleğine kaynak teşkil eden en az lisans düzeyinde yükseköğretim programlarından veya bunlara denkliği kabul edilen yurt dışı yükseköğretim programlarından mezun olan ve hazırlık eğitiminde başarılı olanlar arasından seçilir.
@@ -264,8 +264,8 @@ Bu şekilde aylıksız izin verilen öğretmenler, bağlı bulundukları il/ilç
 (5) Öğretmenlerin atamaları, Bakanlıkça il/ilçe emrine veya doğrudan eğitim kurumuna yapılır. Bakanlıkça il/ilçe emrine atama yapılması hâlinde öğretmenlerin atandıkları ildeki görev yerleri, hizmet puanları dikkate alınarak il millî eğitim müdürünün teklifine göre valilerce belirlenir.
 (6) Kadrolarının bulunduğu eğitim kurumlarında norm kadro fazlası olan öğretmenler, il içerisinde boş norm kadrosu bulunan eğitim kurumlarına yer değiştirme talebinde bulunabilir. Hizmet puanı yetersizliği nedeniyle talepte bulundukları eğitim kurumlarına atanamayanlar ile talepte bulunmayanların atamaları, öncelikle aynı ilçe grubu içerisinde boş norm kadrosu bulunan eğitim kurumlarına olmak üzere ilgili valilerce il içerisinde resen yapılabilir.
 (7) Öğretmenlerin isteğe ve mazeret durumlarına bağlı yer değiştirme suretiyle atamaları ile hizmet bölgeleri, hizmet alanları, ilçe grupları ve bu maddenin uygulanmasına ilişkin diğer hususlar Bakanlıkça çıkarılacak yönetmelikle belirlenir.
-DÖRDÜNCÜ BÖLÜM
-Mesleki Gelişim, Kariyer ve Yönetici Görevlendirme Mesleki gelişim
+**DÖRDÜNCÜ BÖLÜM**
+**Mesleki Gelişim, Kariyer ve Yönetici Görevlendirme** Mesleki gelişim
 
 MADDE 19-
 (1) Bakanlıkça öğretmen ve yöneticilerin mesleki gelişimlerinde sürekliliği sağlamak üzere planlı, sürdürülebilir, izlenebilir ve mesleki uygulamalarla bütünleşik mesleki gelişim faaliyetleri düzenlenir. Bu faaliyetler, merkezî veya mahallî olarak gerçekleştirilebilir.
@@ -296,8 +296,8 @@ MADDE 21-
 MADDE 22- (1) Yurt içi veya yurt dışında, yerli veya yabancı kurum ve kuruluşlarla veya başka ülkelerle iş birliği anlaşması çerçevesinde kurulan ve ulusal veya uluslararası proje yürüten okul ve kurumlara, Bakan onayı ile özel program ve proje uygulayan okul ve kurum olarak seçilenler ile Bakan onayıyla doğrudan Bakanlık merkez teşkilatına bağlanan kurumlara yapılacak öğretmen atamaları ve yönetici görevlendirmeleri Bakan tarafından yapılır.
 (2) 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 38 inci maddesi kapsamında üniversitelerde görev yapan öğretim elemanlarına birinci fıkra kapsamında okul müdürlüğü görevi verilebilir.
 (3) Öğretim elemanları ile Bakanlık kadrolarında görev yapmakta olan öğretmenlerin bu madde kapsamındaki okul ve kurumlara atanma ve görevlendirilmelerinde bu Kanun, 657 sayılı Kanun ve diğer mevzuatın sınavlar ve atanmaya ilişkin hükümleri uygulanmaz. Bu madde kapsamındaki okul ve kurumlara yönetici görevlendirmeleri özlük hakları, atanma ve terfi yönünden kazanılmış hak doğurmaz.
-BEŞİNCİ BÖLÜM
-Ödül ve Disiplin Başarı ve üstün başarı belgesi ile ödül
+**BEŞİNCİ BÖLÜM**
+**Ödül ve Disiplin** Başarı ve üstün başarı belgesi ile ödül
 
 MADDE 23-
 (1) Öğretmen ve yöneticilere 657 sayılı Kanunun 122 nci maddesi kapsamında başarı belgesi, üstün başarı belgesi ve ödül verilebilir.
@@ -310,8 +310,8 @@ b) İlgili mevzuatı gereği yapılanlar dışında öğrencilere menfaat karş�
 Öğretmenliğin sona ermesi
 
 MADDE 25- (1) 657 sayılı Kanunun ilgili hükümleri saklı kalmak kaydıyla, 5237 sayılı Kanunda düzenlenen uyuşturucu veya uyarıcı madde imal ve ticareti, uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma, kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak ya da uyuşturucu veya uyarıcı madde kullanmak, hayâsızca hareketler, müstehcenlik ve fuhuş suçları ile cinsel dokunulmazlığa karşı suçlardan mahkûm olanların öğretmenliği sona erer.
-ALTINCI BÖLÜM
-Millî Eğitim Akademisinin Kuruluşu ve Görevleri Kuruluş
+**ALTINCI BÖLÜM**
+**Millî Eğitim Akademisinin Kuruluşu ve Görevleri** Kuruluş
 
 MADDE 26-
 (1) Öğretmen adaylarının mesleğe hazırlanması, öğretmen, yönetici ve diğer personelin mesleki gelişimi, kariyer basamaklarında ilerlemeleri ve görevde yükselmeleri için eğitim programları hazırlamak, uygulamak ve değerlendirmek üzere Bakanlığa bağlı Millî Eğitim Akademisi kurulmuştur.
@@ -377,8 +377,8 @@ Yönetmelikler
 
 MADDE 32-
 (1) Akademinin hizmet birimlerinin görev dağılımı, Akademik Kurul ile Akademi İzleme ve Yönlendirme Kurulunun çalışma usul ve esasları ile bu bölümde düzenlenen diğer hususlara ilişkin usul ve esaslar Bakanlıkça çıkarılacak yönetmeliklerle belirlenir.
-YEDİNCİ BÖLÜM
-Çeşitli ve Son Hükümler Eğitim çalışanlarının şiddetten korunması
+**YEDİNCİ BÖLÜM**
+**Çeşitli ve Son Hükümler** Eğitim çalışanlarının şiddetten korunması
 
 MADDE 33- (1) Bakanlığa bağlı resmî eğitim kurumlarında yönetici, öğretmen, usta öğretici, yabancı uyruklu öğrencilerin eğitimine yönelik Bakanlık tarafından yürütülen projelerde öğretici/öğretmen veya rehber danışman; özel öğretim kurumlarında yönetici, öğretmen, uzman öğretici ve usta öğretici olarak görev yapanlar ile Bakanlığa bağlı resmî eğitim kurumları ve özel öğretim kurumlarında ders ücreti karşılığı ders okutanlara ve diğer kamu kurum ve kuruluşlarında görev yapan öğretmenlere karşı görevleri sebebiyle işlenen 5237 sayılı Kanunun 86 ncı maddesi kapsamındaki kasten yaralama, 106 ncı maddesi kapsamındaki tehdit, 125 inci maddesi kapsamındaki hakaret ve 265 inci maddesi kapsamındaki görevi yaptırmamak için direnme suçlarında;
 a) İlgili maddelere göre tayin edilecek cezalar yarı oranında artırılır.

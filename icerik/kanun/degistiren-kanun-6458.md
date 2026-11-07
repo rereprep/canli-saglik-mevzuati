@@ -12,23 +12,23 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/04/20130411-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-YABANCILAR VE ULUSLARARASI KORUMA KANUNU
-Kanun No. 6458 Kabul Tarihi: 4/4/2013
-BİRİNCİ KISIM
-Amaç, Kapsam, Tanımlar ve Geri Gönderme Yasağı
-BİRİNCİ BÖLÜM
-Amaç, Kapsam ve Tanımlar Amaç
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**YABANCILAR VE ULUSLARARASI KORUMA KANUNU**
+**Kanun No. 6458 Kabul Tarihi: 4/4/2013**
+**BİRİNCİ KISIM**
+**Amaç, Kapsam, Tanımlar ve Geri Gönderme Yasağı**
+**BİRİNCİ BÖLÜM**
+**Amaç, Kapsam ve Tanımlar Amaç**
 
-MADDE 1 – (1) Bu Kanunun amacı; yabancıların Türkiye’ye girişleri, Türkiye’de kalışları ve Türkiye’den çıkışları ile Türkiye’den koruma talep eden yabancılara sağlanacak korumanın kapsamına ve uygulanmasına ilişkin usul ve esasları ve İçişleri Bakanlığına bağlı Göç İdaresi Genel Müdürlüğünün kuruluş, görev, yetki ve sorumluluklarını düzenlemektir.
-Kapsam
+**MADDE 1 –** (1) Bu Kanunun amacı; yabancıların Türkiye’ye girişleri, Türkiye’de kalışları ve Türkiye’den çıkışları ile Türkiye’den koruma talep eden yabancılara sağlanacak korumanın kapsamına ve uygulanmasına ilişkin usul ve esasları ve İçişleri Bakanlığına bağlı Göç İdaresi Genel Müdürlüğünün kuruluş, görev, yetki ve sorumluluklarını düzenlemektir.
+**Kapsam**
 
 
-MADDE 2 – (1) Bu Kanun, yabancılarla ilgili iş ve işlemleri; sınırlarda, sınır kapılarında ya da Türkiye içinde yabancıların münferit koruma talepleri üzerine sağlanacak uluslararası korumayı, ayrılmaya zorlandıkları ülkeye geri dönemeyen ve kitlesel olarak Türkiye’ye gelen yabancılara acil olarak sağlanacak geçici korumayı, Göç İdaresi Genel Müdürlüğünün kuruluş, görev, yetki ve sorumluluklarını kapsar.
+**MADDE 2 –** (1) Bu Kanun, yabancılarla ilgili iş ve işlemleri; sınırlarda, sınır kapılarında ya da Türkiye içinde yabancıların münferit koruma talepleri üzerine sağlanacak uluslararası korumayı, ayrılmaya zorlandıkları ülkeye geri dönemeyen ve kitlesel olarak Türkiye’ye gelen yabancılara acil olarak sağlanacak geçici korumayı, Göç İdaresi Genel Müdürlüğünün kuruluş, görev, yetki ve sorumluluklarını kapsar.
 (2) Bu Kanunun uygulanmasında, Türkiye’nin taraf olduğu milletlerarası anlaşmalar ile özel kanunlardaki hükümler saklıdır.
-Tanımlar
+**Tanımlar**
 
-MADDE 3 – (1) Bu Kanunun uygulanmasında;
+**MADDE 3** – (1) Bu Kanunun uygulanmasında;
 a) Aile üyeleri: Başvuru sahibinin veya uluslararası koruma statüsü sahibi kişinin eşini, ergin olmayan çocuğu ile bağımlı ergin çocuğunu,
 b) Avrupa ülkeleri: Avrupa Konseyi üyesi olan ülkeler ile Bakanlar Kurulunca belirlenecek diğer ülkeleri,
 c) Bakan: İçişleri Bakanını,
@@ -62,75 +62,75 @@ t) Vize: Türkiye’de en fazla doksan güne kadar kalma hakkı tanıyan ya da t
 u) Vize muafiyeti: Vize alma gerekliliğini kaldıran düzenlemeyi,
 ü) Yabancı: Türkiye Cumhuriyeti Devleti ile vatandaşlık bağı bulunmayan kişiyi,
 v) Yabancı kimlik numarası: 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanunu uyarınca yabancılara verilen kimlik numarasını, ifade eder.
-İKİNCİ BÖLÜM
-Geri Gönderme Yasağı Geri gönderme yasağı
+**İKİNCİ BÖLÜM**
+**Geri Gönderme Yasağı Geri gönderme yasağı**
 
-MADDE 4 – (1) Bu Kanun kapsamındaki hiç kimse, işkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye tabi tutulacağı veya ırkı, dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti veya siyasi fikirleri dolayısıyla hayatının veya hürriyetinin tehdit altında bulunacağı bir yere gönderilemez.
-İKİNCİ KISIM
-Yabancılar
-BİRİNCİ BÖLÜM
-Türkiye’ye Giriş ve Vize Türkiye’ye giriş ve Türkiye’den çıkış
+**MADDE 4 –** (1) Bu Kanun kapsamındaki hiç kimse, işkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye tabi tutulacağı veya ırkı, dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti veya siyasi fikirleri dolayısıyla hayatının veya hürriyetinin tehdit altında bulunacağı bir yere gönderilemez.
+**İKİNCİ KISIM**
+**Yabancılar**
+**BİRİNCİ BÖLÜM**
+**Türkiye’ye Giriş ve Vize Türkiye’ye giriş ve Türkiye’den çıkış**
 
-MADDE 5 – (1) Türkiye’ye giriş ve Türkiye’den çıkış, sınır kapılarından, geçerli pasaport veya pasaport yerine geçen belgelerle yapılır.
-Belge kontrolü
+**MADDE 5 –** (1) Türkiye’ye giriş ve Türkiye’den çıkış, sınır kapılarından, geçerli pasaport veya pasaport yerine geçen belgelerle yapılır.
+**Belge kontrolü**
 
-MADDE 6 – (1) Yabancı, pasaport veya pasaport yerine geçen belge ya da belgelerini, Türkiye’ye giriş ve Türkiye’den çıkışlarda görevlilere göstermek zorundadır.
+**MADDE 6 –** (1) Yabancı, pasaport veya pasaport yerine geçen belge ya da belgelerini, Türkiye’ye giriş ve Türkiye’den çıkışlarda görevlilere göstermek zorundadır.
 (2) Sınır geçişlerine ilişkin belge kontrolleri, taşıtlarda seyir hâlinde de yerine getirilebilir.
 (3) Havalimanlarının transit alanlarını kullanan yabancılar, yetkili makamlarca kontrole tabi tutulabilirler.
 (4) Türkiye’ye girişlerde, yabancının 7 nci madde kapsamında olup olmadığı kontrol edilir.
 (5) Bu maddenin uygulanmasında, kapsamlı kontrole tabi tutulması gerekli görülenler en fazla dört saat bekletilebilir. Yabancı, bu süre içerisinde her an ülkesine dönebileceği gibi dört saatlik süreyle sınırlı kalmaksızın ülkeye kabulle ilgili işlemlerin sonuçlanmasını da bekleyebilir. Kapsamlı kontrol işlemlerine dair usul ve esaslar yönetmelikle düzenlenir.
-Türkiye’ye girişlerine izin verilmeyecek yabancılar
+**Türkiye’ye girişlerine izin verilmeyecek yabancılar**
 
-MADDE 7 – (1) Aşağıdaki yabancılar, Türkiye’ye girişlerine izin verilmeyerek geri çevrilir:
+**MADDE 7 –** (1) Aşağıdaki yabancılar, Türkiye’ye girişlerine izin verilmeyerek geri çevrilir:
 a) Pasaportu, pasaport yerine geçen belgesi, vizesi veya ikamet ya da çalışma izni olmayanlar ile bu belgeleri veya izinleri hileli yollarla edindiği veya sahte olduğu anlaşılanlar
 b) Vize, vize muafiyeti veya ikamet izin süresinin bitiminden itibaren en az altmış gün süreli pasaport veya pasaport yerine geçen belgesi olmayanlar
 c) 15 inci maddenin ikinci fıkrası saklı kalmak kaydıyla, vize muafiyeti kapsamında olsalar dahi, 15 inci maddenin birinci fıkrasında sayılan yabancılar
 (2) Bu maddeyle ilgili olarak yapılan işlemler, geri çevrilen yabancılara tebliğ edilir. Tebligatta, yabancıların karara karşı itiraz haklarını etkin şekilde nasıl kullanabilecekleri ve bu süreçteki diğer yasal hak ve yükümlülükleri de yer alır.
-Uluslararası koruma başvurusuna ilişkin uygulama
+**Uluslararası koruma başvurusuna ilişkin uygulama**
 
-MADDE 8 – (1) 5 inci, 6 ncı ve 7 nci maddelerde yer alan şartlar, uluslararası koruma başvurusu yapmayı engelleyici şekilde yorumlanamaz ve uygulanamaz.
-Türkiye’ye giriş yasağı
+**MADDE 8 –** (1) 5 inci, 6 ncı ve 7 nci maddelerde yer alan şartlar, uluslararası koruma başvurusu yapmayı engelleyici şekilde yorumlanamaz ve uygulanamaz.
+**Türkiye’ye giriş yasağı**
 
-MADDE 9 – (1) Genel Müdürlük, gerektiğinde ilgili kamu kurum ve kuruluşlarının görüşlerini alarak, Türkiye dışında olup da kamu düzeni veya kamu güvenliği ya da kamu sağlığı açısından Türkiye’ye girmesinde sakınca görülen yabancıların ülkeye girişini yasaklayabilir.
+**MADDE 9 –** (1) Genel Müdürlük, gerektiğinde ilgili kamu kurum ve kuruluşlarının görüşlerini alarak, Türkiye dışında olup da kamu düzeni veya kamu güvenliği ya da kamu sağlığı açısından Türkiye’ye girmesinde sakınca görülen yabancıların ülkeye girişini yasaklayabilir.
 (2) Türkiye’den sınır dışı edilen yabancıların Türkiye’ye girişi, Genel Müdürlük veya valilikler tarafından yasaklanır.
 (3) Türkiye’ye giriş yasağının süresi en fazla beş yıldır. Ancak, kamu düzeni veya kamu güvenliği açısından ciddi tehdit bulunması hâlinde bu süre Genel Müdürlükçe en fazla on yıl daha artırılabilir.
 (4) Vize veya ikamet izni süresi sona eren ve bu durumları yetkili makamlarca tespit edilmeden önce Türkiye dışına çıkmak için valiliklere başvuruda bulunup hakkında sınır dışı etme kararı alınan yabancıların Türkiye’ye giriş yasağı süresi bir yılı geçemez.
 (5) 56 ncı madde uyarınca Türkiye’yi terke davet edilenlerden, süresi içinde ülkeyi terk edenler hakkında giriş yasağı kararı alınmayabilir.
 (6) Genel Müdürlük, giriş yasağını kaldırabilir veya giriş yasağı saklı kalmak kaydıyla yabancının belirli bir süre için Türkiye’ye girişine izin verebilir.
 (7) Kamu düzeni veya kamu güvenliği sebebiyle bazı yabancıların ülkeye kabulü Genel Müdürlükçe ön izin şartına bağlanabilir.
-Türkiye’ye giriş yasağının tebliği
+**Türkiye’ye giriş yasağının tebliği**
 
-MADDE 10 – (1) Giriş yasağına ilişkin tebligat, 9 uncu maddenin birinci fıkrası kapsamında olan yabancılara Türkiye’ye giriş yapmak üzere geldiklerinde sınır kapılarındaki yetkili makam tarafından, 9 uncu maddenin ikinci fıkrası kapsamında olan yabancılara ise valilikler tarafından yapılır. Tebligatta, yabancıların karara karşı itiraz haklarını etkin şekilde nasıl kullanabilecekleri ve bu süreçteki diğer yasal hak ve yükümlülükleri de yer alır.
-Vize zorunluluğu, vize başvurusu ve yetkili makamlar
+**MADDE 10 –** (1) Giriş yasağına ilişkin tebligat, 9 uncu maddenin birinci fıkrası kapsamında olan yabancılara Türkiye’ye giriş yapmak üzere geldiklerinde sınır kapılarındaki yetkili makam tarafından, 9 uncu maddenin ikinci fıkrası kapsamında olan yabancılara ise valilikler tarafından yapılır. Tebligatta, yabancıların karara karşı itiraz haklarını etkin şekilde nasıl kullanabilecekleri ve bu süreçteki diğer yasal hak ve yükümlülükleri de yer alır.
+**Vize zorunluluğu, vize başvurusu ve yetkili makamlar**
 
-MADDE 11 – (1) Türkiye’de doksan güne kadar kalacak yabancılar, vatandaşı oldukları veya yasal olarak bulundukları ülkedeki konsolosluklardan geliş amaçlarını da belirten vize alarak gelirler. Vizenin veya vize muafiyetinin Türkiye’de sağladığı kalış süresi, her yüz seksen günde doksan günü geçemez.
+**MADDE 11 –** (1) Türkiye’de doksan güne kadar kalacak yabancılar, vatandaşı oldukları veya yasal olarak bulundukları ülkedeki konsolosluklardan geliş amaçlarını da belirten vize alarak gelirler. Vizenin veya vize muafiyetinin Türkiye’de sağladığı kalış süresi, her yüz seksen günde doksan günü geçemez.
 (2) Vize başvurularının değerlendirmeye alınabilmesi için, başvuruların usulüne uygun olarak yapılması gerekir.
 (3) Vizeler, Türkiye’ye giriş için mutlak hak sağlamaz.
 (4) Vizeler, konsolosluklarca, istisnai durumlarda ise sınır kapılarının bağlı olduğu valiliklerce verilir. Konsolosluklara yapılan başvurular doksan gün içinde sonuçlandırılır.
 (5) Yabancı ülke diplomatlarına, Türkiye Cumhuriyeti büyükelçiliklerince resen vize verilebilir. Bu vizeler, genel vize verme usulüne uygun olarak Bakanlık ve Dışişleri Bakanlığına derhâl bildirilir. Bu vizeler harca tabi değildir.
 (6) Ülke menfaatleri göz önünde bulundurularak vize verilmesinde yarar görülen yabancılara, istisnai olarak Türkiye Cumhuriyeti büyükelçilerince resen vize verilebilir. Bu amaçla verilen vizeler, genel vize verme usulüne uygun olarak Bakanlık ve Dışişleri Bakanlığına derhâl bildirilir. Bu vizeler harca tabi değildir.
 (7) Vize türlerine ve işlemlerine ilişkin usul ve esaslar yönetmelikle düzenlenir.
-Vize muafiyeti
+**Vize muafiyeti**
 
-MADDE 12 – (1) Aşağıda sayılan yabancılardan Türkiye’ye girişte vize şartı aranmaz:
+**MADDE 12 –** (1) Aşağıda sayılan yabancılardan Türkiye’ye girişte vize şartı aranmaz:
 a) Türkiye Cumhuriyeti’nin taraf olduğu anlaşmalarla ya da Bakanlar Kurulu kararıyla vizeden muaf tutulan ülkelerin vatandaşları
 b) Türkiye’ye giriş yapacağı tarih itibarıyla, geçerli ikamet veya çalışma izni bulunanlar
 c) 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 18 inci maddesine göre verilmiş ve geçerliliklerini yitirmemiş yabancılara mahsus damgalı pasaport sahipleri
 ç) 29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesi kapsamında olduğu anlaşılanlar
 (2) Aşağıda sayılan yabancılardan Türkiye’ye girişte vize şartı aranmayabilir:
 a) Mücbir nedenlerle, Türk hava ve deniz limanlarını kullanmak zorunda kalan taşıtlardaki yabancılardan liman şehrine çıkacak kişiler
-b) Deniz limanlarına gelip, yetmiş iki saati geçmemek kaydıyla, liman şehrini veya civar illeri turizm amaçlı gezecek kişiler Sınır kapılarında verilen vizeler
+b) Deniz limanlarına gelip, yetmiş iki saati geçmemek kaydıyla, liman şehrini veya civar illeri turizm amaçlı gezecek kişiler **Sınır kapılarında verilen vizeler**
 
-MADDE 13 – (1) Vize almadan sınır kapılarına gelen yabancılara, süresi içinde Türkiye’den ayrılacaklarını belgelemeleri hâlinde, sınır kapılarında istisnai olarak vize verilebilir.
+**MADDE 13 –** (1) Vize almadan sınır kapılarına gelen yabancılara, süresi içinde Türkiye’den ayrılacaklarını belgelemeleri hâlinde, sınır kapılarında istisnai olarak vize verilebilir.
 (2) Sınır vizesi, sınır kapılarının bağlı olduğu valiliklerce verilir. Valilik bu yetkisini sınırda görevli kolluk birimine devredebilir. Bakanlar Kurulunca farklı bir süre belirlenmediği sürece, bu vize Türkiye’de en fazla on beş gün kalma hakkı sağlar.
 (3) Sınır vizesinin verilmesinde, insani nedenlere bağlı olarak sağlık sigortası şartı aranmayabilir.
-Havalimanı transit vizeleri
+**Havalimanı transit vizeleri**
 
-MADDE 14 – (1) Türkiye’den transit geçecek yabancılara, havalimanı transit vizesi şartı getirilebilir. Havalimanı transit vizeleri, en fazla altı ay içinde kullanılmak üzere konsolosluklar tarafından verilir.
+**MADDE 14 –** (1) Türkiye’den transit geçecek yabancılara, havalimanı transit vizesi şartı getirilebilir. Havalimanı transit vizeleri, en fazla altı ay içinde kullanılmak üzere konsolosluklar tarafından verilir.
 (2) Havalimanı transit vizesi istenecek yabancılar, Bakanlık ve Dışişleri Bakanlığınca müştereken belirlenir.
-Vize verilmeyecek yabancılar
+**Vize verilmeyecek yabancılar**
 
-MADDE 15 – (1) Aşağıda belirtilen yabancılara vize verilmez:
+**MADDE 15 –** (1) Aşağıda belirtilen yabancılara vize verilmez:
 a) Talep ettikleri vize süresinden en az altmış gün daha uzun süreli pasaport ya da pasaport yerine geçen belgesi olmayanlar
 b) Türkiye’ye girişleri yasaklı olanlar
 c) Kamu düzeni veya kamu güvenliği açısından sakıncalı görülenler
@@ -141,9 +141,9 @@ f) Türkiye’ye giriş, Türkiye’den geçiş veya Türkiye’de kalış amac�
 g) Kalacağı sürede, yeterli ve düzenli maddi imkâna sahip olmayanlar
 ğ) Vize ihlalinden veya önceki ikamet izninden doğan ya da 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre takip ve tahsil edilmesi gereken alacakları ödemeyi kabul etmeyenler veya 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununa göre takip edilen borç ve cezalarını ödemeyi kabul etmeyenler
 (2) Bu madde kapsamında olmasına rağmen vize verilmesinde yarar görülenlere Bakanın onayıyla vize verilebilir.
-Vizenin iptali
+**Vizenin iptali**
 
-MADDE 16 – (1) Vizeler;
+**MADDE 16 –** (1) Vizeler;
 a) Sahteciliğe konu olduğunun tespiti,
 b) Üzerinde silinti, kazıntı veya tahrifat yapıldığının anlaşılması,
 c) Vize sahibinin Türkiye’ye girişinin yasaklanması,
@@ -152,22 +152,22 @@ d) Pasaport veya pasaport yerine geçen belgenin sahte olması veya geçerliliğ
 e) Vize veya vize muafiyetinin amacı dışında kullanılması,
 f) Vizenin verilmesine temel olan şartların veya belgelerin geçerli olmadığının anlaşılması, hâllerinde, vizeyi veren makamlar veya valiliklerce iptal edilir.
 (2) Vizenin geçerlilik süresi içinde yabancıyla ilgili sınır dışı etme kararı alınması hâlinde vize iptal edilir.
-Vize işlemlerinin tebliği
+**Vize işlemlerinin tebliği**
 
-MADDE 17 – (1) Vize talebinin reddi ya da vizenin iptaline ilişkin işlemler ilgiliye tebliğ edilir.
-Bakanlar Kurulunun vize ve pasaport işlemlerinde yetkisi
+**MADDE 17 –** (1) Vize talebinin reddi ya da vizenin iptaline ilişkin işlemler ilgiliye tebliğ edilir.
+**Bakanlar Kurulunun vize ve pasaport işlemlerinde yetkisi**
 
-MADDE 18 – (1) Bakanlar Kurulu;
+**MADDE 18 –** (1) Bakanlar Kurulu;
 a) Pasaporta ve vizeye dair işlemlerin belirlenmesine ilişkin anlaşmalar yapmaya ve gerek gördüğü hâllerde bazı devletlerin vatandaşları için vize zorunluluğunu tek taraflı olarak kaldırmaya, vizelerin harçtan muaf tutulması da dâhil olmak üzere vize kolaylığı getirmeye ve vize sürelerini belirlemeye,
 b) Savaş hâlinde veya diğer olağanüstü hâllerde ülkenin bir bölgesini veya tamamını kapsamak üzere, yabancılar için pasaporta dair kayıt ve şartlar koymaya,
 c) Yabancıların Türkiye’ye girişlerini belli şartlara bağlayıcı veya kısıtlayıcı her tür önlemi almaya, yetkilidir.
-İKİNCİ BÖLÜM
-İkamet İkamet izni
+**İKİNCİ BÖLÜM**
+**İkamet İkamet izni**
 
-MADDE 19 – (1) Türkiye’de, vizenin veya vize muafiyetinin tanıdığı süreden ya da doksan günden fazla kalacak yabancıların ikamet izni almaları zorunludur. İkamet izni, altı ay içinde kullanılmaya başlanmadığında geçerliliğini kaybeder.
-İkamet izninden muafiyet
+**MADDE 19 –** (1) Türkiye’de, vizenin veya vize muafiyetinin tanıdığı süreden ya da doksan günden fazla kalacak yabancıların ikamet izni almaları zorunludur. İkamet izni, altı ay içinde kullanılmaya başlanmadığında geçerliliğini kaybeder.
+**İkamet izninden muafiyet**
 
-MADDE 20 – (1) Aşağıda sayılan yabancılar ikamet izninden muaf tutulurlar:
+**MADDE 20 –** (1) Aşağıda sayılan yabancılar ikamet izninden muaf tutulurlar:
 a) Doksan güne kadar vizeyle veya vizeden muaf olarak gelenler, vize süresi veya vize muafiyeti süresince
 b) Vatansız Kişi Kimlik Belgesi sahibi olanlar
 c) Türkiye’de görevli diplomasi ve konsolosluk memurları
@@ -178,17 +178,17 @@ f) 5901 sayılı Kanunun 28 inci maddesi kapsamında olanlar
 g) 69 uncu maddenin yedinci fıkrası ile 76 ncı ve 83 üncü maddelerin birinci fıkraları kapsamında belge sahibi olanlar
 (2) Birinci fıkranın (c), (ç), (d) ve (e) bentlerinde belirtilen yabancılara, şekil ve içeriği Bakanlık ve Dışişleri Bakanlığınca birlikte belirlenen belge tanzim edilir.
 Bu yabancılar, ikamet izninden muafiyet sağlayan durumları sona erdikten sonra da Türkiye’de kalmaya devam edeceklerse, en geç on gün içinde ikamet izni almak üzere valiliklere başvurmakla yükümlüdür.
-İkamet izni başvurusu
+**İkamet izni başvurusu**
 
-MADDE 21 – (1) İkamet izni başvurusu, yabancının vatandaşı olduğu veya yasal olarak bulunduğu ülkedeki konsolosluklara yapılır.
+**MADDE 21 –** (1) İkamet izni başvurusu, yabancının vatandaşı olduğu veya yasal olarak bulunduğu ülkedeki konsolosluklara yapılır.
 (2) İkamet izni için başvuracak yabancılarda, talep ettikleri ikamet izni süresinden altmış gün daha uzun süreli pasaport ya da pasaport yerine geçen belgeye sahip olmaları şartı aranır.
 (3) Başvuru için gerekli olan bilgi ve belgeler eksik ise, başvurunun değerlendirilmesi eksiklikler tamamlanıncaya kadar ertelenebilir. Eksik olan bilgi ve belgeler ilgiliye bildirilir.
 (4) Konsolosluklar, ikamet izni başvurularını görüşleriyle birlikte Genel Müdürlüğe iletir. Genel Müdürlük, gerekli gördüğünde ilgili kurumların görüşlerini de alarak başvuruları sonuçlandırdıktan sonra, ikamet izninin düzenlenmesi ya da başvurunun reddedilmesi için konsolosluğa bilgi verir.
 (5) Başvurular, en geç doksan gün içinde sonuçlandırılır.
 (6) İkamet izni başvurusunun reddine ilişkin işlemler ilgiliye tebliğ edilir.
-Türkiye içinden yapılabilecek ikamet izni başvuruları
+**Türkiye içinden yapılabilecek ikamet izni başvuruları**
 
-MADDE 22 – (1) İkamet izni başvuruları, aşağıdaki hâllerde istisnai olarak valiliklere de yapılabilir:
+**MADDE 22 –** (1) İkamet izni başvuruları, aşağıdaki hâllerde istisnai olarak valiliklere de yapılabilir:
 a) Adli veya idari makamların kararlarında veya taleplerinde
 b) Yabancının Türkiye’den ayrılmasının makul veya mümkün olmadığı durumlarda
 c) Uzun dönem ikamet izinlerinde
@@ -199,49 +199,49 @@ f) Aile ikamet izninden kısa dönem ikamet iznine geçişlerde
 g) Türkiye’de ikamet izni bulunan anne veya babanın Türkiye’de doğan çocukları için yapacağı başvurularda
 ğ) Geçerli ikamet izninin verilmesine esas olan gerekçenin sona ermesi veya değişikliğe uğramasından dolayı yeni kalış amacına uygun ikamet izni almak üzere yapılacak başvurularda
 h) 20 nci maddenin ikinci fıkrası kapsamında yapılacak ikamet izni başvurularında
-ı) Türkiye’de yükseköğrenimini tamamlayanların, kısa dönem ikamet iznine geçişlerinde İkamet izinlerinin tanzimi ve şekli
+ı) Türkiye’de yükseköğrenimini tamamlayanların, kısa dönem ikamet iznine geçişlerinde **İkamet izinlerinin tanzimi ve şekli**
 
-MADDE 23 – (1) İkamet izinleri, pasaport veya pasaport yerine geçen belgelerin geçerlilik süresinden altmış gün daha kısa süreli, kalış amacına bağlı ve her yabancı için ayrı düzenlenir.
+**MADDE 23 –** (1) İkamet izinleri, pasaport veya pasaport yerine geçen belgelerin geçerlilik süresinden altmış gün daha kısa süreli, kalış amacına bağlı ve her yabancı için ayrı düzenlenir.
 (2) İkamet izninin şekli ve içeriği Bakanlıkça, ikamet izni yerine geçen çalışma izninin şekli ve içeriği ise Bakanlık ve ilgili kurumlarca birlikte belirlenir.
-İkamet izinlerinin uzatılması
+**İkamet izinlerinin uzatılması**
 
-MADDE 24 – (1) İkamet izinleri valiliklerce uzatılabilir.
+**MADDE 24 –** (1) İkamet izinleri valiliklerce uzatılabilir.
 (2) Uzatma başvuruları, ikamet izni süresinin dolmasına altmış gün kalmasından itibaren ve her koşulda ikamet izni süresi dolmadan önce valiliklere yapılır. İkamet iznini uzatma başvurusunda bulunanlara, harca tabi olmayan bir belge verilir. Bu yabancılar, ikamet izni süreleri sona ermiş olsa dahi haklarında karar verilinceye kadar bu belgeyle Türkiye’de ikamet edebilir.
 (3) Uzatılan ikamet izinleri, yasal izin sürelerinin bitim tarihinden itibaren başlatılır.
 (4) Uzatma başvuruları, valiliklerce sonuçlandırılır.
-Türkiye içinden yapılan ikamet izni talebinin reddi, iptali veya uzatılmaması
+**Türkiye içinden yapılan ikamet izni talebinin reddi, iptali veya uzatılmaması**
 
-MADDE 25 – (1) Türkiye içinden yapılan ikamet izni talebinin reddi, ikamet izninin uzatılmaması veya iptali ile bu işlemlerin tebliği valiliklerce yapılır. Bu işlemler sırasında, yabancının Türkiye’deki aile bağları, ikamet süresi, menşe ülkedeki durumu ve çocuğun yüksek yararı gibi hususlar göz önünde bulundurulur ve ikamet iznine ilişkin karar ertelenebilir.
+**MADDE 25 –** (1) Türkiye içinden yapılan ikamet izni talebinin reddi, ikamet izninin uzatılmaması veya iptali ile bu işlemlerin tebliği valiliklerce yapılır. Bu işlemler sırasında, yabancının Türkiye’deki aile bağları, ikamet süresi, menşe ülkedeki durumu ve çocuğun yüksek yararı gibi hususlar göz önünde bulundurulur ve ikamet iznine ilişkin karar ertelenebilir.
 (2) İkamet izni talebinin reddi, iznin uzatılmaması veya iptali, yabancıya ya da yasal temsilcisine veya avukatına tebliğ edilir. Tebligatta, yabancının karara karşı itiraz haklarını etkin şekilde nasıl kullanabileceği ve bu süreçteki diğer yasal hak ve yükümlülükleri de yer alır.
-İkamet izinlerine ilişkin diğer hükümler
+**İkamet izinlerine ilişkin diğer hükümler**
 
-MADDE 26 – (1) Tutuklu veya hükümlü olarak cezaevlerinde ya da idari gözetim altında geri gönderme merkezlerinde bulunan yabancıların, buralarda geçirdikleri süreler ikamet izni süresinin ihlali sayılmaz. Bu kişilerin varsa ikamet izinleri iptal edilebilir. Bunlardan, yabancı kimlik numarası bulunmayanlara, ikamet izni şartı aranmadan yabancı kimlik numarası verilebilir.
+**MADDE 26 –** (1) Tutuklu veya hükümlü olarak cezaevlerinde ya da idari gözetim altında geri gönderme merkezlerinde bulunan yabancıların, buralarda geçirdikleri süreler ikamet izni süresinin ihlali sayılmaz. Bu kişilerin varsa ikamet izinleri iptal edilebilir. Bunlardan, yabancı kimlik numarası bulunmayanlara, ikamet izni şartı aranmadan yabancı kimlik numarası verilebilir.
 (2) Konsolosluklardan ikamet ve çalışma izni alarak Türkiye’ye gelen yabancılar, giriş tarihinden itibaren en geç yirmi iş günü içinde adres kayıt sistemine kayıtlarını yaptırmak zorundadırlar.
-Çalışma izninin ikamet izni sayılması
+**Çalışma izninin ikamet izni sayılması**
 
-MADDE 27 – (1) Geçerli çalışma izni ile 27/2/2003 tarihli ve 4817 sayılı Yabancıların Çalışma İzinleri Hakkında Kanunun 10 uncu maddesine istinaden verilen Çalışma İzni Muafiyet Teyit Belgesi, ikamet izni sayılır.
+**MADDE 27 –** (1) Geçerli çalışma izni ile 27/2/2003 tarihli ve 4817 sayılı Yabancıların Çalışma İzinleri Hakkında Kanunun 10 uncu maddesine istinaden verilen Çalışma İzni Muafiyet Teyit Belgesi, ikamet izni sayılır.
 Çalışma izni ya da Çalışma İzni Muafiyet Teyit Belgesi verilen yabancılardan, 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa göre çalışma izni süresi kadar ikamet izni harcı tahsil edilir.
 (2) Çalışma izni verilebilmesi veya iznin uzatılabilmesi için yabancının 7 nci madde kapsamına girmemesi şartı aranır.
-İkamette kesinti
+**İkamette kesinti**
 
-MADDE 28 – (1) Bu Kanun hükümlerinin uygulanmasında; zorunlu kamu hizmeti, eğitim ve sağlık nedenleri hariç, bir yılda toplam altı ayı geçen veya son beş yıl içinde toplam bir yılı aşan Türkiye dışında kalışlar ikamette kesinti sayılır.
+**MADDE 28 –** (1) Bu Kanun hükümlerinin uygulanmasında; zorunlu kamu hizmeti, eğitim ve sağlık nedenleri hariç, bir yılda toplam altı ayı geçen veya son beş yıl içinde toplam bir yılı aşan Türkiye dışında kalışlar ikamette kesinti sayılır.
 İkamet süresinde kesintisi olanların ikamet izni başvurularında veya başka bir ikamet iznine geçişlerinde, önceki izin süreleri hesaba katılmaz.
 (2) Kesintisiz ikamet izin sürelerinin hesaplanmasında, öğrenci ikamet izinlerinin yarısı, diğer ikamet izinlerinin ise tamamı sayılır.
-İkamet izinleri arasında geçişler
+**İkamet izinleri arasında geçişler**
 
-MADDE 29 – (1) Yabancılar, ikamet izninin verilmesine esas olan gerekçenin sona ermesi veya farklı bir gerekçenin ortaya çıkması hâlinde, yeni kalış amacına uygun ikamet izni talebinde bulunabilir.
+**MADDE 29 –** (1) Yabancılar, ikamet izninin verilmesine esas olan gerekçenin sona ermesi veya farklı bir gerekçenin ortaya çıkması hâlinde, yeni kalış amacına uygun ikamet izni talebinde bulunabilir.
 (2) İkamet izinleri arasındaki geçişlere ilişkin usul ve esaslar yönetmelikle düzenlenir.
-İkamet izni çeşitleri
+**İkamet izni çeşitleri**
 
-MADDE 30 – (1) İkamet izni çeşitleri şunlardır:
-a) Kısa dönem ikamet izni
+**MADDE 30 –** (1) İkamet izni çeşitleri şunlardır:
+a) **Kısa dönem ikamet izni**
 b) Aile ikamet izni
 c) Öğrenci ikamet izni
 ç) Uzun dönem ikamet izni
 d) İnsani ikamet izni
 e) İnsan ticareti mağduru ikamet izni Kısa dönem ikamet izni
 
-MADDE 31 – (1) Aşağıda belirtilen yabancılara kısa dönem ikamet izni verilebilir:
+**MADDE 31 –** (1) Aşağıda belirtilen yabancılara kısa dönem ikamet izni verilebilir:
 a) Bilimsel araştırma amacıyla gelecekler
 b) Türkiye’de taşınmaz malı bulunanlar
 c) Ticari bağlantı veya iş kuracaklar
@@ -257,22 +257,22 @@ i) Türkiye’de yükseköğrenimini tamamlayanlardan mezuniyet tarihinden itiba
 (2) Kısa dönem ikamet izni, her defasında en fazla birer yıllık sürelerle verilir.
 (3) Birinci fıkranın (h) bendi kapsamında verilen ikamet izinleri en fazla iki defa verilebilir.
 (4) Birinci fıkranın (i) bendi kapsamında verilen ikamet izinleri, bir defaya mahsus olmak üzere en fazla bir yıl süreli verilebilir.
-Kısa dönem ikamet izninin şartları
+**Kısa dönem ikamet izninin şartları**
 
-MADDE 32 – (1) Kısa dönem ikamet izinlerinin verilmesinde aşağıdaki şartlar aranır:
+**MADDE 32 –** (1) Kısa dönem ikamet izinlerinin verilmesinde aşağıdaki şartlar aranır:
 a) 31 inci maddenin birinci fıkrasında sayılan gerekçelerden biri veya birkaçını ileri sürerek talepte bulunmak ve bu talebiyle ilgili bilgi ve belgeleri ibraz etmek
 b) 7 nci madde kapsamına girmemek
 c) Genel sağlık ve güvenlik standartlarına uygun barınma şartlarına sahip olmak
 ç) İstenilmesi hâlinde, vatandaşı olduğu veya yasal olarak ikamet ettiği ülkenin yetkili makamları tarafından düzenlenmiş adli sicil kaydını gösteren belgeyi sunmak
-d) Türkiye’de kalacağı adres bilgilerini vermek Kısa dönem ikamet izninin reddi, iptali veya uzatılmaması
+d) Türkiye’de kalacağı adres bilgilerini vermek **Kısa dönem ikamet izninin reddi, iptali veya uzatılmaması**
 
-MADDE 33 – (1) Aşağıdaki hâllerde kısa dönem ikamet izni verilmez, verilmişse iptal edilir, süresi bitenler uzatılmaz:
+**MADDE 33 –** (1) Aşağıdaki hâllerde kısa dönem ikamet izni verilmez, verilmişse iptal edilir, süresi bitenler uzatılmaz:
 a) 32 nci maddede aranan şartlardan birinin veya birkaçının yerine getirilmemesi veya ortadan kalkması
 b) İkamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
 c) Son bir yıl içinde toplamda yüz yirmi günden fazla süreyle yurt dışında kalınması
-ç) Hakkında geçerli sınır dışı etme veya Türkiye’ye giriş yasağı kararı bulunması Aile ikamet izni
+ç) Hakkında geçerli sınır dışı etme veya Türkiye’ye giriş yasağı kararı bulunması **Aile ikamet izni**
 
-MADDE 34 – (1) Türk vatandaşlarının, 5901 sayılı Kanunun 28 inci maddesi kapsamında olanların veya ikamet izinlerinden birine sahip olan yabancılar ile mültecilerin ve ikincil koruma statüsü sahiplerinin;
+**MADDE 34 –** (1) Türk vatandaşlarının, 5901 sayılı Kanunun 28 inci maddesi kapsamında olanların veya ikamet izinlerinden birine sahip olan yabancılar ile mültecilerin ve ikincil koruma statüsü sahiplerinin;
 a) Yabancı eşine,
 b) Kendisinin veya eşinin ergin olmayan yabancı çocuğuna,
 c) Kendisinin veya eşinin bağımlı yabancı çocuğuna, her defasında iki yılı aşmayacak şekilde aile ikamet izni verilebilir. Ancak, aile ikamet izninin süresi hiçbir şekilde destekleyicinin ikamet izni süresini aşamaz.
@@ -282,9 +282,9 @@ c) Kendisinin veya eşinin bağımlı yabancı çocuğuna, her defasında iki y�
 (5) En az üç yıl aile ikamet izniyle Türkiye’de kalmış olanlardan on sekiz yaşını tamamlayanlar, talep etmeleri hâlinde bu izinlerini kısa dönem ikamet iznine dönüştürebilir.
 (6) Boşanma hâlinde, Türk vatandaşıyla evli yabancıya, en az üç yıl aile ikamet izniyle kalmış olmak kaydıyla kısa dönem ikamet izni verilebilir. Ancak yabancı eşin, aile içi şiddet gerekçesiyle mağdur olduğu ilgili mahkeme kararıyla sabit ise, üç yıllık süre şartı aranmaz.
 (7) Destekleyicinin ölümü hâlinde, bu kişiye bağlı aile ikamet izniyle kalanlara, süre şartı aranmadan kısa dönem ikamet izni verilebilir.
-Aile ikamet izninin şartları
+**Aile ikamet izninin şartları**
 
-MADDE 35 – (1) Aile ikamet izni taleplerinde, destekleyicide aşağıdaki şartlar aranır:
+**MADDE 35 –** (1) Aile ikamet izni taleplerinde, destekleyicide aşağıdaki şartlar aranır:
 a) Toplam geliri asgari ücretten az olmamak üzere, ailedeki fert başına asgari ücretin üçte birinden az olmayan aylık geliri bulunmak
 b) Ailenin nüfusuna göre, genel sağlık ve güvenlik standartlarına uygun barınma şartlarına sahip olmak ve tüm aile fertlerini kapsayan sağlık sigortası yaptırmış olmak
 c) Başvuru tarihi itibarıyla, beş yıl içinde aile düzenine karşı suçlardan herhangi birinden hüküm giymemiş olduğunu adli sicil kaydıyla belgelemek
@@ -298,69 +298,69 @@ c) Evliliği aile ikamet izni alabilmek amacıyla yapmamış olmak
 ç) Eşlerden her biri için on sekiz yaşını doldurmuş olmak
 d) 7 nci madde kapsamına girmemek
 (4) Türkiye’de bulunan mülteciler ve ikincil koruma statüsü sahiplerinde, bu maddenin birinci fıkrasında belirtilen şartlar aranmayabilir.
-Aile ikamet izni talebinin reddi, iptali veya uzatılmaması
+**Aile ikamet izni talebinin reddi, iptali veya uzatılmaması**
 
-MADDE 36 – (1) Aşağıdaki hâllerde aile ikamet izni verilmez, verilmişse iptal edilir, süresi bitenler uzatılmaz:
+**MADDE 36 –** (1) Aşağıdaki hâllerde aile ikamet izni verilmez, verilmişse iptal edilir, süresi bitenler uzatılmaz:
 a) 35 inci maddenin birinci ve üçüncü fıkralarında aranan şartların karşılanmaması veya ortadan kalkması
 b) Aile ikamet izni alma şartları ortadan kalktıktan sonra kısa dönem ikamet izni verilmemesi
 c) Hakkında geçerli sınır dışı etme veya Türkiye’ye giriş yasağı kararı bulunması
 ç) Aile ikamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
-d) Son bir yıl içinde toplamda yüz seksen günden fazla süreyle yurt dışında kalınması Anlaşmalı evlilik yoluyla talep edilen aile ikamet izni
+d) Son bir yıl içinde toplamda yüz seksen günden fazla süreyle yurt dışında kalınması **Anlaşmalı evlilik yoluyla talep edilen aile ikamet izni**
 
-MADDE 37 – (1) Aile ikamet izni verilmeden veya uzatılmadan önce makul şüphe varsa, evliliğin sırf ikamet izni alabilme amacıyla yapılıp yapılmadığı valiliklerce araştırılır. Araştırma sonucunda, evliliğin bu amaçla yapıldığı tespit edilirse aile ikamet izni verilmez, verilmişse iptal edilir.
+**MADDE 37 –** (1) Aile ikamet izni verilmeden veya uzatılmadan önce makul şüphe varsa, evliliğin sırf ikamet izni alabilme amacıyla yapılıp yapılmadığı valiliklerce araştırılır. Araştırma sonucunda, evliliğin bu amaçla yapıldığı tespit edilirse aile ikamet izni verilmez, verilmişse iptal edilir.
 (2) Aile ikamet izni verildikten sonra da evliliğin anlaşmalı olup olmadığı konusunda valiliklerce denetim yapılabilir.
 (3) Anlaşmalı evlilik yoluyla alınan ve sonradan iptal edilen ikamet izinleri, bu Kanunda öngörülen ikamet izin sürelerinin toplanmasında hesaba katılmaz.
-Öğrenci ikamet izni
+**Öğrenci ikamet izni**
 
-MADDE 38 – (1) Türkiye’de bir yükseköğretim kurumunda ön lisans, lisans, yüksek lisans ya da doktora öğrenimi görecek yabancılara öğrenci ikamet izni verilir.
+**MADDE 38 –** (1) Türkiye’de bir yükseköğretim kurumunda ön lisans, lisans, yüksek lisans ya da doktora öğrenimi görecek yabancılara öğrenci ikamet izni verilir.
 (2) Bakımı ve masrafları gerçek veya tüzel kişi tarafından üstlenilen ilk ve orta derecede öğrenim görecek yabancılara, velilerinin veya yasal temsilcilerinin muvafakatiyle öğrenimleri süresince birer yıllık sürelerle öğrenci ikamet izni verilebilir ve uzatılabilir.
 (3) Öğrenci ikamet izni, öğrencinin anne ve babası ile diğer yakınlarına, ikamet izni alma konusunda hiçbir hak sağlamaz.
 (4) Öğrenim süresi bir yıldan kısa ise öğrenci ikamet izni süresi öğrenim süresini aşamaz.
-Öğrenci ikamet izninin şartları
+**Öğrenci ikamet izninin şartları**
 
-MADDE 39 – (1) Öğrenci ikamet izninde aşağıdaki şartlar aranır:
+**MADDE 39 –** (1) Öğrenci ikamet izninde aşağıdaki şartlar aranır:
 a) 38 inci madde kapsamındaki bilgi ve belgeleri ibraz etmek
 b) 7 nci madde kapsamına girmemek
-c) Türkiye’de kalacağı adres bilgilerini vermek Öğrenci ikamet izni talebinin reddi, iptali veya uzatılmaması
+c) Türkiye’de kalacağı adres bilgilerini vermek **Öğrenci ikamet izni talebinin reddi, iptali veya uzatılmaması**
 
-MADDE 40 – (1) Aşağıdaki hâllerde öğrenci ikamet izni verilmez, verilmişse iptal edilir, süresi uzatılmaz:
+**MADDE 40 –** (1) Aşağıdaki hâllerde öğrenci ikamet izni verilmez, verilmişse iptal edilir, süresi uzatılmaz:
 a) 39 uncu maddede aranan şartların karşılanmaması veya ortadan kalkması
 b) Öğrenimin sürdürülemeyeceği konusunda kanıtların ortaya çıkması
 c) Öğrenci ikamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
-ç) Hakkında geçerli sınır dışı etme kararı veya Türkiye’ye giriş yasağı bulunması Öğrencilerin çalışma hakkı
+ç) Hakkında geçerli sınır dışı etme kararı veya Türkiye’ye giriş yasağı bulunması **Öğrencilerin çalışma hakkı**
 
-MADDE 41 – (1) Türkiye’de öğrenim gören ön lisans, lisans, yüksek lisans ve doktora öğrencileri, çalışma izni almak kaydıyla çalışabilirler. Ancak, ön lisans ve lisans öğrencileri için çalışma hakkı, ilk yıldan sonra başlar ve haftada yirmi dört saatten fazla olamaz.
+**MADDE 41 –** (1) Türkiye’de öğrenim gören ön lisans, lisans, yüksek lisans ve doktora öğrencileri, çalışma izni almak kaydıyla çalışabilirler. Ancak, ön lisans ve lisans öğrencileri için çalışma hakkı, ilk yıldan sonra başlar ve haftada yirmi dört saatten fazla olamaz.
 (2) Ön lisans ve lisans öğrencilerinin çalışma hakkına ilişkin usul ve esaslar, Göç Politikaları Kurulunca belirlenecek esaslar çerçevesinde Bakanlık ile Çalışma ve Sosyal Güvenlik Bakanlığı tarafından müştereken düzenlenir.
-Uzun dönem ikamet izni
+**Uzun dönem ikamet izni**
 
-MADDE 42 – (1) Türkiye’de kesintisiz en az sekiz yıl ikamet izniyle kalmış olan ya da Göç Politikaları Kurulunun belirlediği şartlara uyan yabancılara, Bakanlığın onayıyla valilikler tarafından süresiz ikamet izni verilir.
+**MADDE 42 –** (1) Türkiye’de kesintisiz en az sekiz yıl ikamet izniyle kalmış olan ya da Göç Politikaları Kurulunun belirlediği şartlara uyan yabancılara, Bakanlığın onayıyla valilikler tarafından süresiz ikamet izni verilir.
 (2) Mülteci, şartlı mülteci ve ikincil koruma statüsü sahipleri ile insani ikamet izni sahiplerine ve geçici koruma sağlananlara, uzun dönem ikamet iznine geçiş hakkı tanınmaz.
-Uzun dönem ikamet izninin şartları
+**Uzun dönem ikamet izninin şartları**
 
-MADDE 43 – (1) Uzun dönem ikamet iznine geçişte aşağıdaki şartlar aranır:
+**MADDE 43 –** (1) Uzun dönem ikamet iznine geçişte aşağıdaki şartlar aranır:
 a) Kesintisiz en az sekiz yıl ikamet izniyle Türkiye’de kalmış olmak
 b) Son üç yıl içinde sosyal yardım almamış olmak
 c) Kendisi veya varsa ailesinin geçimini sağlayacak yeterli ve düzenli gelir kaynağına sahip olmak
 ç) Geçerli sağlık sigortasına sahip olmak
 d) Kamu düzeni veya kamu güvenliği açısından tehdit oluşturmamak
 (2) Göç Politikaları Kurulunun belirlediği şartlara sahip olması nedeniyle uzun dönem ikamet izni verilmesi uygun görülen yabancılar için birinci fıkranın (d) bendi dışındaki şartlar aranmaz.
-Uzun dönem ikamet izninin sağladığı haklar
+**Uzun dönem ikamet izninin sağladığı haklar**
 
-MADDE 44 – (1) Uzun dönem ikamet izni bulunan yabancılar;
+**MADDE 44 –** (1) Uzun dönem ikamet izni bulunan yabancılar;
 a) Askerlik yapma yükümlülüğü,
 b) Seçme ve seçilme,
 c) Kamu görevlerine girme,
 ç) Muaf olarak araç ithal etme, ve özel kanunlardaki düzenlemeler hariç, sosyal güvenliğe ilişkin kazanılmış hakları saklı kalmak ve bu hakların kullanımında ilgili mevzuat hükümlerine tabi olmak şartıyla, Türk vatandaşlarına tanınan haklardan yararlanırlar.
 (2) Birinci fıkradaki haklara kısmen veya tamamen kısıtlamalar getirmeye Bakanlar Kurulu yetkilidir.
-Uzun dönem ikamet izninin iptali
+**Uzun dönem ikamet izninin iptali**
 
-MADDE 45 – (1) Uzun dönem ikamet izinleri;
+**MADDE 45 –** (1) Uzun dönem ikamet izinleri;
 a) Yabancının, kamu düzeni veya kamu güvenliği açısından ciddi tehdit oluşturması,
 b) Sağlık, eğitim ve ülkesindeki zorunlu kamu hizmeti dışında bir nedenle kesintisiz bir yıldan fazla süreyle Türkiye dışında bulunması, hâllerinde iptal edilir.
 (2) Birinci fıkranın (b) bendi kapsamında uzun dönem ikamet izni iptal edilen yabancıların, bu izni tekrar almak üzere yapacakları başvurular ve bunların sonuçlandırılmasına ilişkin usul ve esaslar yönetmelikle belirlenir.
-İnsani ikamet izni
+**İnsani ikamet izni**
 
-MADDE 46 – (1) Aşağıda belirtilen hâllerde, diğer ikamet izinlerinin verilmesindeki şartlar aranmadan, Bakanlığın onayı alınmak ve en fazla birer yıllık sürelerle olmak kaydıyla, valiliklerce insani ikamet izni verilebilir ve bu izinler uzatılabilir:
+**MADDE 46 –** (1) Aşağıda belirtilen hâllerde, diğer ikamet izinlerinin verilmesindeki şartlar aranmadan, Bakanlığın onayı alınmak ve en fazla birer yıllık sürelerle olmak kaydıyla, valiliklerce insani ikamet izni verilebilir ve bu izinler uzatılabilir:
 a) Çocuğun yüksek yararı söz konusu olduğunda
 b) Haklarında sınır dışı etme veya Türkiye’ye giriş yasağı kararı alındığı hâlde, yabancıların Türkiye’den çıkışları yaptırılamadığında ya da Türkiye’den ayrılmaları makul veya mümkün görülmediğinde
 c) 55 inci madde uyarınca yabancı hakkında sınır dışı etme kararı alınmadığında
@@ -369,48 +369,48 @@ d) Başvuru sahibinin ilk iltica ülkesi veya güvenli üçüncü ülkeye geri g
 e) Acil nedenlerden dolayı veya ülke menfaatlerinin korunması ile kamu düzeni ve kamu güvenliği açısından Türkiye’ye girişine ve Türkiye’de kalmasına izin verilmesi gereken yabancıların, ikamet izni verilmesine engel teşkil eden durumları sebebiyle diğer ikamet izinlerinden birini alma imkânı bulunmadığında
 f) Olağanüstü durumlarda
 (2) İnsani ikamet izni alan yabancılar, iznin veriliş tarihinden itibaren en geç yirmi iş günü içinde adres kayıt sistemine kayıt yaptırmak zorundadır.
-İnsani ikamet izninin iptali veya uzatılmaması
+**İnsani ikamet izninin iptali veya uzatılmaması**
 
-MADDE 47 – (1) İnsani ikamet izni Bakanlığın onayı alınmak kaydıyla, iznin verilmesini zorunlu kılan şartlar ortadan kalktığında valiliklerce iptal edilir ve uzatılmaz.
-İnsan ticareti mağduru ikamet izni
+**MADDE 47 –** (1) İnsani ikamet izni Bakanlığın onayı alınmak kaydıyla, iznin verilmesini zorunlu kılan şartlar ortadan kalktığında valiliklerce iptal edilir ve uzatılmaz.
+**İnsan ticareti mağduru ikamet izni**
 
-MADDE 48 – (1) İnsan ticareti mağduru olduğu veya olabileceği yönünde kuvvetli şüphe duyulan yabancılara, yaşadıklarının etkisinden kurtulabilmeleri ve yetkililerle iş birliği yapıp yapmayacaklarına karar verebilmeleri amacıyla valiliklerce otuz gün süreli ikamet izni verilir.
+**MADDE 48 –** (1) İnsan ticareti mağduru olduğu veya olabileceği yönünde kuvvetli şüphe duyulan yabancılara, yaşadıklarının etkisinden kurtulabilmeleri ve yetkililerle iş birliği yapıp yapmayacaklarına karar verebilmeleri amacıyla valiliklerce otuz gün süreli ikamet izni verilir.
 (2) Bu ikamet izinlerinde, diğer ikamet izinlerinin verilmesindeki şartlar aranmaz.
-İnsan ticareti mağduru ikamet izninin uzatılması ve iptali
+**İnsan ticareti mağduru ikamet izninin uzatılması ve iptali**
 
-MADDE 49 – (1) İyileşme ve düşünme süresi tanımak amacıyla verilen ikamet izni, mağdurun güvenliği, sağlığı veya özel durumu nedeniyle en fazla altışar aylık sürelerle uzatılabilir. Ancak, bu süreler hiçbir şekilde toplam üç yılı geçemez.
+**MADDE 49 –** (1) İyileşme ve düşünme süresi tanımak amacıyla verilen ikamet izni, mağdurun güvenliği, sağlığı veya özel durumu nedeniyle en fazla altışar aylık sürelerle uzatılabilir. Ancak, bu süreler hiçbir şekilde toplam üç yılı geçemez.
 (2) İnsan ticareti mağduru olduğu veya olabileceği yönünde kuvvetli şüphe bulunan yabancıların, kendi girişimleriyle suçun failleriyle yeniden bağ kurduklarının belirlendiği durumlarda ikamet izinleri iptal edilir.
-ÜÇÜNCÜ BÖLÜM
-Vatansız Kişiler Vatansızlığın tespiti
+**ÜÇÜNCÜ BÖLÜM**
+**Vatansız Kişiler Vatansızlığın tespiti**
 
-MADDE 50 – (1) Vatansızlığın tespiti Genel Müdürlükçe yapılır. Vatansız kişilere, Türkiye’de yasal olarak ikamet edebilme hakkı sağlayan Vatansız Kişi Kimlik Belgesi düzenlenir. Başka ülkeler tarafından vatansız kişi işlemi görenler bu haktan yararlandırılmaz.
+**MADDE 50 –** (1) Vatansızlığın tespiti Genel Müdürlükçe yapılır. Vatansız kişilere, Türkiye’de yasal olarak ikamet edebilme hakkı sağlayan Vatansız Kişi Kimlik Belgesi düzenlenir. Başka ülkeler tarafından vatansız kişi işlemi görenler bu haktan yararlandırılmaz.
 (2) Vatansız kişiler, Vatansız Kişi Kimlik Belgesi almakla yükümlü olup, belge Genel Müdürlüğün uygun görüşü alınarak valiliklerce düzenlenir. Hiçbir harca tabi olmayan bu belge, ikamet izni yerine geçer ve iki yılda bir valiliklerce yenilenir.
 Vatansız Kişi Kimlik Belgesinde yabancı kimlik numarası da yer alır.
 (3) Vatansız Kişi Kimlik Belgesine sahip olarak Türkiye’de geçirilen süreler, ikamet sürelerinin toplanmasında hesaba katılır.
 (4) Vatansız Kişi Kimlik Belgesi, kişinin herhangi bir ülke vatandaşlığını kazanmasıyla birlikte geçerliliğini kaybeder.
 (5) Vatansızlık durumlarının tespiti ve Vatansız Kişi Kimlik Belgesiyle ilgili usul ve esaslar yönetmelikle belirlenir.
-Vatansız kişilere tanınan haklar ve güvenceler
+**Vatansız kişilere tanınan haklar ve güvenceler**
 
-MADDE 51 – (1) Vatansız Kişi Kimlik Belgesine sahip kişiler;
+**MADDE 51 –** (1) Vatansız Kişi Kimlik Belgesine sahip kişiler;
 a) Bu Kanundaki ikamet izinlerinden birini almak üzere talepte bulunabilirler,
 b) Kamu düzeni veya kamu güvenliği açısından ciddi tehdit oluşturmadıkları sürece sınır dışı edilmezler,
 c) Yabancılarla ilgili işlemlerde aranan karşılıklılık şartından muaf tutulurlar,
 ç) Çalışma izniyle ilgili iş ve işlemlerde 4817 sayılı Kanun hükümlerine tabidirler,
 d) 5682 sayılı Kanunun 18 inci maddesi hükümlerinden yararlanabilirler.
-DÖRDÜNCÜ BÖLÜM
-Sınır Dışı Etme Sınır dışı etme
+**DÖRDÜNCÜ BÖLÜM**
+**Sınır Dışı Etme Sınır dışı etme**
 
-MADDE 52 – (1) Yabancılar, sınır dışı etme kararıyla, menşe ülkesine veya transit gideceği ülkeye ya da üçüncü bir ülkeye sınır dışı edilebilir.
-Sınır dışı etme kararı
+**MADDE 52 –** (1) Yabancılar, sınır dışı etme kararıyla, menşe ülkesine veya transit gideceği ülkeye ya da üçüncü bir ülkeye sınır dışı edilebilir.
+**Sınır dışı etme kararı**
 
-MADDE 53 – (1) Sınır dışı etme kararı, Genel Müdürlüğün talimatı üzerine veya resen valiliklerce alınır.
+**MADDE 53 –** (1) Sınır dışı etme kararı, Genel Müdürlüğün talimatı üzerine veya resen valiliklerce alınır.
 (2) Karar, gerekçeleriyle birlikte hakkında sınır dışı etme kararı alınan yabancıya veya yasal temsilcisine ya da avukatına tebliğ edilir. Hakkında sınır dışı etme kararı alınan yabancı, bir avukat tarafından temsil edilmiyorsa kendisi veya yasal temsilcisi, kararın sonucu, itiraz usulleri ve süreleri hakkında bilgilendirilir.
 (3) Yabancı veya yasal temsilcisi ya da avukatı, sınır dışı etme kararına karşı, kararın tebliğinden itibaren on beş gün içinde idare mahkemesine başvurabilir.
 Mahkemeye başvuran kişi, sınır dışı etme kararını veren makama da başvurusunu bildirir. Mahkemeye yapılan başvurular on beş gün içinde sonuçlandırılır.
 Mahkemenin bu konuda vermiş olduğu karar kesindir. Yabancının rızası saklı kalmak kaydıyla, dava açma süresi içinde veya yargı yoluna başvurulması hâlinde yargılama sonuçlanıncaya kadar yabancı sınır dışı edilmez.
-Sınır dışı etme kararı alınacaklar
+**Sınır dışı etme kararı alınacaklar**
 
-MADDE 54 – (1) Aşağıda sayılan yabancılar hakkında sınır dışı etme kararı alınır:
+**MADDE 54 –** (1) Aşağıda sayılan yabancılar hakkında sınır dışı etme kararı alınır:
 a) 5237 sayılı Kanunun 59 uncu maddesi kapsamında sınır dışı edilmesi gerektiği değerlendirilenler
 b) Terör örgütü yöneticisi, üyesi, destekleyicisi veya çıkar amaçlı suç örgütü yöneticisi, üyesi veya destekleyicisi olanlar
 c) Türkiye’ye giriş, vize ve ikamet izinleri için yapılan işlemlerde gerçek dışı bilgi ve sahte belge kullananlar
@@ -425,22 +425,22 @@ h) Türkiye’ye yasal giriş veya Türkiye’den yasal çıkış hükümlerini 
 i) Uluslararası koruma başvurusu reddedilen, uluslararası korumadan hariçte tutulan, başvurusu kabul edilemez olarak değerlendirilen, başvurusunu geri çeken, başvurusu geri çekilmiş sayılan, uluslararası koruma statüleri sona eren veya iptal edilenlerden haklarında verilen son karardan sonra bu Kanunun diğer hükümlerine göre Türkiye’de kalma hakkı bulunmayanlar
 j) İkamet izni uzatma başvuruları reddedilenlerden, on gün içinde Türkiye’den çıkış yapmayanlar
 (2) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişiler hakkında, sadece ülke güvenliği için tehlike oluşturduklarına dair ciddi emareler bulunduğunda veya kamu düzeni açısından tehlike oluşturan bir suçtan kesin hüküm giymeleri durumunda sınır dışı etme kararı alınabilir.
-Sınır dışı etme kararı alınmayacaklar
+**Sınır dışı etme kararı alınmayacaklar**
 
-MADDE 55 – (1) 54 üncü madde kapsamında olsalar dahi, aşağıdaki yabancılar hakkında sınır dışı etme kararı alınmaz:
+**MADDE 55 –** (1) 54 üncü madde kapsamında olsalar dahi, aşağıdaki yabancılar hakkında sınır dışı etme kararı alınmaz:
 a) Sınır dışı edileceği ülkede ölüm cezasına, işkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye maruz kalacağı konusunda ciddi emare bulunanlar
 b) Ciddi sağlık sorunları, yaş ve hamilelik durumu nedeniyle seyahat etmesi riskli görülenler
 c) Hayati tehlike arz eden hastalıkları için tedavisi devam etmekte iken sınır dışı edileceği ülkede tedavi imkânı bulunmayanlar
 ç) Mağdur destek sürecinden yararlanmakta olan insan ticareti mağdurları
 d) Tedavileri tamamlanıncaya kadar, psikolojik, fiziksel veya cinsel şiddet mağdurları
 (2) Birinci fıkra kapsamındaki değerlendirmeler, herkes için ayrı yapılır. Bu kişilerden, belli bir adreste ikamet etmeleri, istenilen şekil ve sürelerde bildirimde bulunmaları istenebilir.
-Türkiye’yi terke davet
+**Türkiye’yi terke davet**
 
-MADDE 56 – (1) Sınır dışı etme kararı alınanlara, sınır dışı etme kararında belirtilmek kaydıyla, Türkiye’yi terk edebilmeleri için on beş günden az olmamak üzere otuz güne kadar süre tanınır. Ancak, kaçma ve kaybolma riski bulunanlara, yasal giriş veya yasal çıkış kurallarını ihlal edenlere, sahte belge kullananlara, asılsız belgelerle ikamet izni almaya çalışanlara veya aldığı tespit edilenlere, kamu düzeni, kamu güvenliği veya kamu sağlığı açısından tehdit oluşturanlara bu süre tanınmaz.
+**MADDE 56 –** (1) Sınır dışı etme kararı alınanlara, sınır dışı etme kararında belirtilmek kaydıyla, Türkiye’yi terk edebilmeleri için on beş günden az olmamak üzere otuz güne kadar süre tanınır. Ancak, kaçma ve kaybolma riski bulunanlara, yasal giriş veya yasal çıkış kurallarını ihlal edenlere, sahte belge kullananlara, asılsız belgelerle ikamet izni almaya çalışanlara veya aldığı tespit edilenlere, kamu düzeni, kamu güvenliği veya kamu sağlığı açısından tehdit oluşturanlara bu süre tanınmaz.
 (2) Türkiye’den çıkış için süre tanınan kişilere, Çıkış İzin Belgesi verilir. Bu belge hiçbir harca tabi değildir. Vize ve ikamet harçları ile bunların cezalarına ilişkin yükümlülükler saklıdır.
-Sınır dışı etmek üzere idari gözetim ve süresi
+**Sınır dışı etmek üzere idari gözetim ve süresi**
 
-MADDE 57 – (1) 54 üncü madde kapsamındaki yabancılar, kolluk tarafından yakalanmaları hâlinde, haklarında karar verilmek üzere derhâl valiliğe bildirilir. Bu kişilerden, sınır dışı etme kararı alınması gerektiği değerlendirilenler hakkında, sınır dışı etme kararı valilik tarafından alınır. Değerlendirme ve karar süresi kırk sekiz saati geçemez.
+**MADDE 57 –** (1) 54 üncü madde kapsamındaki yabancılar, kolluk tarafından yakalanmaları hâlinde, haklarında karar verilmek üzere derhâl valiliğe bildirilir. Bu kişilerden, sınır dışı etme kararı alınması gerektiği değerlendirilenler hakkında, sınır dışı etme kararı valilik tarafından alınır. Değerlendirme ve karar süresi kırk sekiz saati geçemez.
 (2) Hakkında sınır dışı etme kararı alınanlardan; kaçma ve kaybolma riski bulunan, Türkiye’ye giriş veya çıkış kurallarını ihlal eden, sahte ya da asılsız belge kullanan, kabul edilebilir bir mazereti olmaksızın Türkiye’den çıkmaları için tanınan sürede çıkmayan, kamu düzeni, kamu güvenliği veya kamu sağlığı açısından tehdit oluşturanlar hakkında valilik tarafından idari gözetim kararı alınır. Hakkında idari gözetim kararı alınan yabancılar, yakalamayı yapan kolluk birimince geri gönderme merkezlerine kırk sekiz saat içinde götürülür.
 (3) Geri gönderme merkezlerindeki idari gözetim süresi altı ayı geçemez. Ancak bu süre, sınır dışı etme işlemlerinin yabancının iş birliği yapmaması veya ülkesiyle ilgili doğru bilgi ya da belgeleri vermemesi nedeniyle tamamlanamaması hâlinde, en fazla altı ay daha uzatılabilir.
 (4) İdari gözetimin devamında zaruret olup olmadığı, valilik tarafından her ay düzenli olarak değerlendirilir. Gerek görüldüğünde, otuz günlük süre beklenilmez. İdari gözetimin devamında zaruret görülmeyen yabancılar için idari gözetim derhâl sonlandırılır. Bu yabancılara, belli bir adreste ikamet etme, belirlenecek şekil ve sürelerde bildirimde bulunma gibi idari yükümlülükler getirilebilir.
@@ -448,49 +448,49 @@ MADDE 57 – (1) 54 üncü madde kapsamındaki yabancılar, kolluk tarafından y
 (6) İdari gözetim altına alınan kişi veya yasal temsilcisi ya da avukatı, idari gözetim kararına karşı sulh ceza hâkimine başvurabilir. Başvuru idari gözetimi durdurmaz.
 Dilekçenin idareye verilmesi hâlinde, dilekçe yetkili sulh ceza hâkimine derhâl ulaştırılır. Sulh ceza hâkimi incelemeyi beş gün içinde sonuçlandırır. Sulh ceza hâkiminin kararı kesindir. İdari gözetim altına alınan kişi veya yasal temsilcisi ya da avukatı, idari gözetim şartlarının ortadan kalktığı veya değiştiği iddiasıyla yeniden sulh ceza hâkimine başvurabilir.
 (7) İdari gözetim işlemine karşı yargı yoluna başvuranlardan, avukatlık ücretlerini karşılama imkânı bulunmayanlara, talepleri hâlinde 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanunu hükümlerine göre avukatlık hizmeti sağlanır.
-Geri gönderme merkezleri
+**Geri gönderme merkezleri**
 
-MADDE 58 – (1) İdari gözetime alınan yabancılar, geri gönderme merkezlerinde tutulurlar.
+**MADDE 58 –** (1) İdari gözetime alınan yabancılar, geri gönderme merkezlerinde tutulurlar.
 (2) Geri gönderme merkezleri Bakanlık tarafından işletilir. Bakanlık, kamu kurum ve kuruluşları, Türkiye Kızılay Derneği veya kamu yararına çalışan derneklerden göç alanında uzmanlığı bulunanlarla protokol yaparak bu merkezleri işlettirebilir.
 (3) Geri gönderme merkezlerinin kurulması, yönetimi, işletilmesi, devri, denetimi ve sınır dışı edilmek amacıyla idari gözetimde bulunan yabancıların geri gönderme merkezlerine nakil işlemleriyle ilgili usul ve esaslar yönetmelikle düzenlenir.
-Geri gönderme merkezlerinde sağlanacak hizmetler
+**Geri gönderme merkezlerinde sağlanacak hizmetler**
 
-MADDE 59 – (1) Geri gönderme merkezlerinde;
+**MADDE 59 –** (1) Geri gönderme merkezlerinde;
 a) Yabancı tarafından bedeli karşılanamayan acil ve temel sağlık hizmetleri ücretsiz verilir,
 b) Yabancıya; yakınlarına, notere, yasal temsilciye ve avukata erişme ve bunlarla görüşme yapabilme, ayrıca telefon hizmetlerine erişme imkânı sağlanır,
 c) Yabancıya; ziyaretçileri, vatandaşı olduğu ülke konsolosluk yetkilisi, Birleşmiş Milletler Mülteciler Yüksek Komiserliği görevlisiyle görüşebilme imkânı sağlanır,
 ç) Çocukların yüksek yararları gözetilir, aileler ve refakatsiz çocuklar ayrı yerlerde barındırılır,
 d) Çocukların eğitim ve öğretimden yararlandırılmaları hususunda, Millî Eğitim Bakanlığınca gerekli tedbirler alınır.
 (2) Göç alanında uzmanlığı bulunan ilgili sivil toplum kuruluşu temsilcileri, Genel Müdürlüğün izniyle geri gönderme merkezlerini ziyaret edebilirler.
-Sınır dışı etme kararının yerine getirilmesi
+**Sınır dışı etme kararının yerine getirilmesi**
 
-MADDE 60 – (1) Geri gönderme merkezlerindeki yabancılar, kolluk birimi tarafından sınır kapılarına götürülür.
+**MADDE 60 –** (1) Geri gönderme merkezlerindeki yabancılar, kolluk birimi tarafından sınır kapılarına götürülür.
 (2) Geri gönderme merkezlerine sevk edilmesine gerek kalmadan sınır dışı edilecek olan yabancılar, Genel Müdürlük taşra teşkilatının koordinesinde kolluk birimlerince sınır kapılarına götürülür.
 (3) Sınır dışı edilecek yabancıların seyahat masrafları kendilerince karşılanır. Bunun mümkün olmaması hâlinde, masrafların eksik kalan kısmı veya tamamı Genel Müdürlük bütçesinden ödenir. Masraflar geri ödenmediği sürece, yabancının Türkiye’ye girişine izin verilmeyebilir.
 (4) Genel Müdürlük sınır dışı işlemleriyle ilgili olarak uluslararası kuruluşlar, ilgili ülke makamları ve sivil toplum kuruluşlarıyla iş birliği yapabilir.
 (5) Yabancıların pasaportları veya diğer belgeleri, sınır dışı edilinceye kadar tutulabilir ve sınır dışı işlemlerinde kullanılmak üzere biletleri paraya çevrilebilir.
 (6) Gerçek veya tüzel kişiler, kalışlarını veya dönüşlerini garanti ettikleri yabancıların sınır dışı edilme masraflarını ödemekle yükümlüdür. Yabancıyı izinsiz çalıştıran işveren veya işveren vekillerinin, yabancının sınır dışı edilme işlemleri konusundaki yükümlülükleri hakkında 4817 sayılı Kanunun 21 inci maddesinin üçüncü fıkrası hükmü uygulanır.
-ÜÇÜNCÜ KISIM
-Uluslararası Koruma
-BİRİNCİ BÖLÜM
-Uluslararası Koruma Çeşitleri, Uluslararası Korumanın Haricinde Tutulma Mülteci
+**ÜÇÜNCÜ KISIM**
+**Uluslararası Koruma**
+**BİRİNCİ BÖLÜM**
+**Uluslararası Koruma Çeşitleri, Uluslararası Korumanın Haricinde Tutulma Mülteci**
 
 
-MADDE 61 – (1) Avrupa ülkelerinde meydana gelen olaylar nedeniyle; ırkı, dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti veya siyasi düşüncelerinden dolayı zulme uğrayacağından haklı sebeplerle korktuğu için vatandaşı olduğu ülkenin dışında bulunan ve bu ülkenin korumasından yararlanamayan ya da söz konusu korku nedeniyle yararlanmak istemeyen yabancıya veya bu tür olaylar sonucu önceden yaşadığı ikamet ülkesinin dışında bulunan, oraya dönemeyen veya söz konusu korku nedeniyle dönmek istemeyen vatansız kişiye statü belirleme işlemleri sonrasında mülteci statüsü verilir.
-Şartlı mülteci
+**MADDE 61 –** (1) Avrupa ülkelerinde meydana gelen olaylar nedeniyle; ırkı, dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti veya siyasi düşüncelerinden dolayı zulme uğrayacağından haklı sebeplerle korktuğu için vatandaşı olduğu ülkenin dışında bulunan ve bu ülkenin korumasından yararlanamayan ya da söz konusu korku nedeniyle yararlanmak istemeyen yabancıya veya bu tür olaylar sonucu önceden yaşadığı ikamet ülkesinin dışında bulunan, oraya dönemeyen veya söz konusu korku nedeniyle dönmek istemeyen vatansız kişiye statü belirleme işlemleri sonrasında mülteci statüsü verilir.
+**Şartlı mülteci**
 
 
-MADDE 62 – (1) Avrupa ülkeleri dışında meydana gelen olaylar sebebiyle;
+**MADDE 62 –** (1) Avrupa ülkeleri dışında meydana gelen olaylar sebebiyle;
 ırkı, dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti veya siyasi düşüncelerinden dolayı zulme uğrayacağından haklı sebeplerle korktuğu için vatandaşı olduğu ülkenin dışında bulunan ve bu ülkenin korumasından yararlanamayan, ya da söz konusu korku nedeniyle yararlanmak istemeyen yabancıya veya bu tür olaylar sonucu önceden yaşadığı ikamet ülkesinin dışında bulunan, oraya dönemeyen veya söz konusu korku nedeniyle dönmek istemeyen vatansız kişiye statü belirleme işlemleri sonrasında şartlı mülteci statüsü verilir. Üçüncü ülkeye yerleştirilinceye kadar, şartlı mültecinin Türkiye’de kalmasına izin verilir.
-İkincil koruma
+**İkincil koruma**
 
-MADDE 63 – (1) Mülteci veya şartlı mülteci olarak nitelendirilemeyen, ancak menşe ülkesine veya ikamet ülkesine geri gönderildiği takdirde;
+**MADDE 63 –** (1) Mülteci veya şartlı mülteci olarak nitelendirilemeyen, ancak menşe ülkesine veya ikamet ülkesine geri gönderildiği takdirde;
 a) Ölüm cezasına mahkûm olacak veya ölüm cezası infaz edilecek,
 b) İşkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye maruz kalacak,
 c) Uluslararası veya ülke genelindeki silahlı çatışma durumlarında, ayrım gözetmeyen şiddet hareketleri nedeniyle şahsına yönelik ciddi tehditle karşılaşacak, olması nedeniyle menşe ülkesinin veya ikamet ülkesinin korumasından yararlanamayan veya söz konusu tehdit nedeniyle yararlanmak istemeyen yabancı ya da vatansız kişiye, statü belirleme işlemleri sonrasında ikincil koruma statüsü verilir.
-Uluslararası korumanın haricinde tutulma
+**Uluslararası korumanın haricinde tutulma**
 
-MADDE 64 – (1) Başvuru sahibi;
+**MADDE 64 –** (1) Başvuru sahibi;
 a) Birleşmiş Milletler Mülteciler Yüksek Komiserliği dışında, diğer bir Birleşmiş Milletler organı veya örgütünden hâlen koruma veya yardım görüyorsa,
 b) İkamet ettiği ülke yetkili makamlarınca, o ülke vatandaşlarının sahip bulundukları hak ve yükümlülüklere sahip olarak tanınıyorsa,
 c) Sözleşmenin 1 inci maddesinin (F) fıkrasında belirtilen fiillerden suçlu olduğuna dair ciddi kanaat varsa, uluslararası korumadan hariçte tutulur.
@@ -499,29 +499,29 @@ c) Sözleşmenin 1 inci maddesinin (F) fıkrasında belirtilen fiillerden suçlu
 (4) Birinci fıkranın (c) bendi ile üçüncü fıkrada belirtilen suç ya da fiillerin işlenmesine iştirak eden veya bu fiillerin işlenmesini tahrik eden kişi uluslararası korumadan hariçte tutulur.
 (5) Birinci fıkranın (c) bendi ile üçüncü ve dördüncü fıkralardaki durumlara ek olarak; kamu düzeni veya kamu güvenliği açısından tehlike oluşturduğuna dair ciddi emareler bulunan yabancı veya vatansız kişi ile birinci fıkranın (c) bendi kapsamında olmayan, fakat Türkiye’de işlenmesi hâlinde hapis cezası verilmesini gerektiren suç veya suçları daha önce işleyen ve sadece bu suçun cezasını çekmemek için menşe veya ikamet ülkesini terk eden yabancı veya vatansız kişi, ikincil korumadan hariçte tutulur.
 (6) Başvuru sahibinin uluslararası korumadan hariçte tutulması, hariçte tutma nedenlerinden herhangi birinin diğer aile üyeleri için oluşmaması şartıyla, başvuru sahibinin aile üyelerinin de hariçte tutulmasını gerektirmez.
-İKİNCİ BÖLÜM
-Genel Usuller Başvuru
+**İKİNCİ BÖLÜM**
+**Genel Usuller Başvuru**
 
-MADDE 65 – (1) Uluslararası koruma başvuruları valiliklere bizzat yapılır.
+**MADDE 65 –** (1) Uluslararası koruma başvuruları valiliklere bizzat yapılır.
 (2) Başvuruların ülke içinde veya sınır kapılarında kolluk birimlerine yapılması hâlinde, bu başvurular derhâl valiliğe bildirilir. Başvuruyla ilgili işlemler valilikçe yürütülür.
 (3) Her yabancı veya vatansız kişi kendi adına başvuru yapabilir. Başvuru sahibi, başvuruları aynı gerekçeye dayanan ve kendisiyle birlikte gelen aile üyeleri adına başvuru yapabilir. Bu durumda, ergin aile üyelerinin, kendi adlarına başvuruda bulunulmasına yönelik muvafakati alınır.
 (4) Makul bir süre içinde valiliklere kendiliğinden uluslararası koruma başvurusunda bulunanlar hakkında; yasa dışı girişlerinin veya kalışlarının geçerli nedenlerini açıklamak kaydıyla, Türkiye’ye yasal giriş şartlarını ihlal etmek veya Türkiye’de yasal şekilde bulunmamaktan dolayı cezai işlem yapılmaz.
 (5) Hürriyeti kısıtlanan kişilerin uluslararası koruma başvuruları, valiliğe derhâl bildirilir.
 Başvuruların alınması ve değerlendirilmesi, diğer adli ve idari işlemlerin ya da tedbir ve yaptırımların uygulanmasını engellemez.
-Refakatsiz çocuklar
+**Refakatsiz çocuklar**
 
-MADDE 66 – (1) Uluslararası koruma başvurusunda bulunan refakatsiz çocuklar hakkında aşağıdaki hükümler uygulanır:
+**MADDE 66 –** (1) Uluslararası koruma başvurusunda bulunan refakatsiz çocuklar hakkında aşağıdaki hükümler uygulanır:
 a) Refakatsiz çocuklarla ilgili tüm işlemlerde çocuğun yüksek yararının gözetilmesi esastır. Başvuru alındığı andan itibaren, haklarında 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanunu hükümleri uygulanır.
 b) Refakatsiz çocuğun görüşü dikkate alınarak Aile ve Sosyal Politikalar Bakanlığı tarafından, uygun konaklama yerlerine veya yetişkin akrabalarının veya koruyucu bir ailenin yanına yerleştirilir.
 c) On altı yaşını doldurmuş olanlar, uygun koşullar sağlandığında kabul ve barınma merkezlerinde de barındırılabilir.
 ç) Mümkün olduğu ölçüde, çocukların yararı, yaşları ve olgunluk düzeyleri dikkate alınarak, kardeşler bir arada bulundurulur. Zorunlu olmadığı sürece konaklama yerlerinde değişiklik yapılmaz.
-Özel ihtiyaç sahipleri
+**Özel ihtiyaç sahipleri**
 
-MADDE 67 – (1) Özel ihtiyaç sahiplerine bu Kısımda yazılı hak ve işlemlerde öncelik tanınır.
+**MADDE 67 –** (1) Özel ihtiyaç sahiplerine bu Kısımda yazılı hak ve işlemlerde öncelik tanınır.
 (2) İşkence, cinsel saldırı ya da diğer ciddi psikolojik, bedensel ya da cinsel şiddete maruz kalan kişilere, bu türden fiillerin neden olduğu hasarlarını giderecek yeterli tedavi imkânı sağlanır.
-Başvuru sahiplerinin idari gözetimi
+**Başvuru sahiplerinin idari gözetimi**
 
-MADDE 68 – (1) Başvuru sahipleri, sadece uluslararası koruma başvurusunda bulunmalarından dolayı idari gözetim altına alınamaz.
+**MADDE 68 –** (1) Başvuru sahipleri, sadece uluslararası koruma başvurusunda bulunmalarından dolayı idari gözetim altına alınamaz.
 (2) Başvuru sahiplerinin idari gözetim altına alınması istisnai bir işlemdir. Başvuru sahibi sadece aşağıdaki hâllerde idari gözetim altına alınabilir:
 a) Kimlik veya vatandaşlık bilgilerinin doğruluğuyla ilgili ciddi şüphe varsa, bu bilgilerinin tespiti amacıyla
 b) Sınır kapılarında usulüne aykırı surette ülkeye girmekten alıkonulması amacıyla
@@ -533,61 +533,61 @@ c) İdari gözetim altına alınmaması durumunda başvurusuna temel oluşturan 
 (6) İdari gözetimin her aşamasında, kararı alan makam tarafından, idari gözetim sonlandırılarak, 71 inci maddede belirtilen yükümlülüklerin veya başka tedbirlerin yerine getirilmesi istenebilir.
 (7) İdari gözetim altına alınan kişi veya yasal temsilcisi ya da avukatı, idari gözetime karşı sulh ceza hâkimine başvurabilir. Başvuru idari gözetimi durdurmaz. Dilekçenin idareye verilmesi hâlinde, dilekçe yetkili sulh ceza hâkimine derhâl ulaştırılır. Sulh ceza hâkimi incelemeyi beş gün içinde sonuçlandırır. Sulh ceza hâkiminin kararı kesindir. İdari gözetim altına alınan kişi veya yasal temsilcisi ya da avukatı, idari gözetim şartlarının ortadan kalktığı veya değiştiği iddiasıyla yeniden sulh ceza hâkimine başvurabilir.
 (8) İkinci fıkra uyarınca idari gözetim altına alınan kişi, usul ve esasları yönetmelikle belirlenmek üzere ziyaretçi kabul edebilir. İdari gözetim altına alınan kişiye yasal temsilcisi, avukat, noter ve Birleşmiş Milletler Mülteciler Yüksek Komiserliği görevlileriyle görüşme imkânı sağlanır.
-Kayıt ve kontrol
+**Kayıt ve kontrol**
 
-MADDE 69 – (1) Uluslararası koruma başvuruları valiliklerce kaydedilir.
+**MADDE 69 –** (1) Uluslararası koruma başvuruları valiliklerce kaydedilir.
 (2) Başvuru sahibi kayıt esnasında kimlik bilgilerini doğru olarak bildirmek ve varsa kimliğini ispatlayacak belge ve seyahat dokümanlarını yetkili makamlara teslim etmekle yükümlüdür. Bu yükümlülüğün yerine getirilmesini sağlamak amacıyla, başvuru sahibinin üzerinde ve eşyalarında kontrol yapılabilir.
 (3) Kayıt esnasında başvuru sahibinin kimliğine ilişkin belge olmaması hâlinde, kimlik tespitinde kişisel verilerinin karşılaştırılmasından ve yapılan araştırmalardan elde edilen bilgiler kullanılır. Kimlik tespit araştırmaları sonucunda da kimliğine dair bilgi elde edilememesi hâlinde, başvuranın beyanı esas alınır.
 (4) Kayıt esnasında; başvuru sahibinin menşe veya ikamet ülkesini terk etme sebepleri, ülkesini terk ettikten sonra başından geçen ve başvuru yapmasına neden olan olaylar, Türkiye’ye giriş şekli, kullandığı yol güzergâhları ve vasıta bilgileri, daha önceden başka bir ülkede uluslararası korumaya başvurmuş veya korumadan yararlanmışsa, bu başvuru veya korumaya ilişkin bilgi ve belgeleri alınır.
 (5) Mülakat zamanı ve yeri kayıt esnasında bildirilir.
 (6) Kamu sağlığını tehlikeye düşürebileceği değerlendirilen başvuru sahibi sağlık kontrolünden geçirilir.
 (7) Başvuru sahibine kayıt esnasında; kimlik bilgilerini içeren, uluslararası koruma başvurusunda bulunduğunu belirten, otuz gün geçerli kayıt belgesi verilir. Kayıt belgesi, gerektiğinde otuz günlük sürelerle uzatılabilir. Kayıt belgesi, hiçbir harca tabi olmayıp başvuru sahibinin Türkiye’de kalışına imkân sağlar.
-Başvuru sahibinin bilgilendirilmesi ve tercümanlık
+**Başvuru sahibinin bilgilendirilmesi ve tercümanlık**
 
-MADDE 70 – (1) Başvuru sahibi, başvurusuyla ilgili takip edilecek usuller, başvurusunun değerlendirilmesi sürecindeki hak ve yükümlülükleri, yükümlülüklerini nasıl yerine getireceği ve bu yükümlülüklere uymaması ya da yetkililerle iş birliğinde bulunmaması hâlinde ortaya çıkabilecek muhtemel sonuçlar, itiraz usulleri ve süreleri konusunda kayıt esnasında bilgilendirilir.
+**MADDE 70 –** (1) Başvuru sahibi, başvurusuyla ilgili takip edilecek usuller, başvurusunun değerlendirilmesi sürecindeki hak ve yükümlülükleri, yükümlülüklerini nasıl yerine getireceği ve bu yükümlülüklere uymaması ya da yetkililerle iş birliğinde bulunmaması hâlinde ortaya çıkabilecek muhtemel sonuçlar, itiraz usulleri ve süreleri konusunda kayıt esnasında bilgilendirilir.
 (2) Başvuru sahibinin talep etmesi hâlinde, başvuru, kayıt ve mülakat aşamalarındaki kişisel görüşmelerde tercümanlık hizmetleri sağlanır.
-İkamet zorunluluğu ve bildirim yükümlülüğü
+**İkamet zorunluluğu ve bildirim yükümlülüğü**
 
-MADDE 71 – (1) Başvuru sahibine, kendisine gösterilen kabul ve barınma merkezinde, belirli bir yerde veya ilde ikamet etme zorunluluğu ile istenilen şekil ve sürelerde bildirimde bulunma gibi idari yükümlülükler getirilebilir.
+**MADDE 71 –** (1) Başvuru sahibine, kendisine gösterilen kabul ve barınma merkezinde, belirli bir yerde veya ilde ikamet etme zorunluluğu ile istenilen şekil ve sürelerde bildirimde bulunma gibi idari yükümlülükler getirilebilir.
 (2) Başvuru sahibi, adres kayıt sistemine kayıt yaptırmak ve ikamet adresini valiliğe bildirmekle yükümlüdür.
-Kabul edilemez başvuru
+**Kabul edilemez başvuru**
 
-MADDE 72 – (1) Başvuru sahibi;
+**MADDE 72 –** (1) Başvuru sahibi;
 a) Farklı bir gerekçe öne sürmeksizin aynı başvuruyu yenilemişse,
 b) Kendi adına başvuru yapılmasına muvafakat verdikten sonra, başvurunun herhangi bir aşamasında haklı bir neden göstermeksizin veya başvurunun reddedilmesinin ardından farklı bir gerekçe öne sürmeksizin ayrı bir başvuru yapmışsa,
 c) 73 üncü madde kapsamında olan ülkeden gelmişse,
 ç) 74 üncü madde kapsamında olan ülkeden gelmişse, başvurusunun kabul edilemez olduğuna ilişkin karar verilir.
 (2) Birinci fıkrada belirtilen durumların, değerlendirmenin herhangi bir aşamasında ortaya çıkması hâlinde değerlendirme durdurulur.
 (3) Başvurunun kabul edilemez olduğuna ilişkin karar, ilgiliye veya yasal temsilcisine ya da avukatına tebliğ edilir. İlgili kişi bir avukat tarafından temsil edilmiyorsa kararın sonucu, itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
-İlk iltica ülkesinden gelenler
+**İlk iltica ülkesinden gelenler**
 
-MADDE 73 – (1) Başvuru sahibinin, daha önceden mülteci olarak tanındığı ve hâlen bu korumadan yararlanma imkânının olduğu veya geri göndermeme ilkesini de içeren yeterli ve etkili nitelikte korumadan hâlen faydalanabileceği bir ülkeden geldiğinin ortaya çıkması durumunda, başvuru kabul edilemez olarak değerlendirilir ve ilk iltica ülkesine gönderilmesi için işlemler başlatılır. Ancak geri gönderme işlemi gerçekleşinceye kadar ülkede kalışına izin verilir. Bu durum ilgiliye tebliğ edilir. İlgilinin, ilk iltica ülkesi olarak nitelenen ülke tarafından kabul edilmemesi hâlinde, başvuruya ilişkin işlemler devam ettirilir.
-Güvenli üçüncü ülkeden gelenler
+**MADDE 73 –** (1) Başvuru sahibinin, daha önceden mülteci olarak tanındığı ve hâlen bu korumadan yararlanma imkânının olduğu veya geri göndermeme ilkesini de içeren yeterli ve etkili nitelikte korumadan hâlen faydalanabileceği bir ülkeden geldiğinin ortaya çıkması durumunda, başvuru kabul edilemez olarak değerlendirilir ve ilk iltica ülkesine gönderilmesi için işlemler başlatılır. Ancak geri gönderme işlemi gerçekleşinceye kadar ülkede kalışına izin verilir. Bu durum ilgiliye tebliğ edilir. İlgilinin, ilk iltica ülkesi olarak nitelenen ülke tarafından kabul edilmemesi hâlinde, başvuruya ilişkin işlemler devam ettirilir.
+**Güvenli üçüncü ülkeden gelenler**
 
-MADDE 74 – (1) Başvuru sahibinin, Sözleşmeye uygun korumayla sonuçlanabilecek bir uluslararası koruma başvurusu yaptığı veya başvurma imkânının olduğu güvenli üçüncü bir ülkeden geldiğinin ortaya çıkması durumunda başvuru kabul edilemez olarak değerlendirilir ve güvenli üçüncü ülkeye gönderilmesi için işlemler başlatılır. Ancak geri gönderme işlemi gerçekleşinceye kadar ülkede kalışına izin verilir. Bu durum ilgiliye tebliğ edilir. İlgilinin, güvenli üçüncü ülke olarak nitelenen ülke tarafından kabul edilmemesi hâlinde, başvuruya ilişkin işlemler devam ettirilir.
+**MADDE 74 –** (1) Başvuru sahibinin, Sözleşmeye uygun korumayla sonuçlanabilecek bir uluslararası koruma başvurusu yaptığı veya başvurma imkânının olduğu güvenli üçüncü bir ülkeden geldiğinin ortaya çıkması durumunda başvuru kabul edilemez olarak değerlendirilir ve güvenli üçüncü ülkeye gönderilmesi için işlemler başlatılır. Ancak geri gönderme işlemi gerçekleşinceye kadar ülkede kalışına izin verilir. Bu durum ilgiliye tebliğ edilir. İlgilinin, güvenli üçüncü ülke olarak nitelenen ülke tarafından kabul edilmemesi hâlinde, başvuruya ilişkin işlemler devam ettirilir.
 (2) Aşağıdaki şartları taşıyan ülkeler güvenli üçüncü ülke olarak nitelendirilir:
 a) Kişilerin hayatının veya hürriyetinin, ırkı, dini, tabiiyeti, belli bir toplumsal gruba mensubiyeti veya siyasi düşünceleri nedeniyle tehdit altında olmaması
 b) Kişilerin işkenceye, insanlık dışı ya da onur kırıcı ceza veya muameleye tabi tutulacağı ülkelere geri gönderilmemesi ilkesinin uygulanıyor olması
 c) Kişinin mülteci statüsü talep etme ve mülteci olarak nitelendirilmesi durumunda Sözleşmeye uygun olarak koruma elde etme imkânının bulunması
 ç) Kişinin ciddi zarar görme riskinin olmaması
 (3) Bir ülkenin başvuru sahibi için güvenli üçüncü ülke olup olmadığı, başvuru sahibinin ilgili üçüncü ülkeye gönderilmesini makul kılacak bu kişi ve ülke arasındaki bağlantılar da dâhil olmak üzere, her başvuru sahibi için ayrı olarak değerlendirilir.
-Mülakat
+**Mülakat**
 
-MADDE 75 – (1) Etkin ve adil karar verebilmek amacıyla, başvuru sahibiyle kayıt tarihinden itibaren otuz gün içinde bireysel mülakat yapılır. Mülakatın mahremiyeti dikkate alınarak, kişiye kendisini en iyi şekilde ifade etme imkânı tanınır. Ancak, aile üyelerinin de bulunmasının gerekli görüldüğü durumlarda, kişinin muvafakati alınarak mülakat aile üyeleriyle birlikte yapılabilir. Başvuru sahibinin talebi üzerine, avukatı gözlemci olarak mülakata katılabilir.
+**MADDE 75 –** (1) Etkin ve adil karar verebilmek amacıyla, başvuru sahibiyle kayıt tarihinden itibaren otuz gün içinde bireysel mülakat yapılır. Mülakatın mahremiyeti dikkate alınarak, kişiye kendisini en iyi şekilde ifade etme imkânı tanınır. Ancak, aile üyelerinin de bulunmasının gerekli görüldüğü durumlarda, kişinin muvafakati alınarak mülakat aile üyeleriyle birlikte yapılabilir. Başvuru sahibinin talebi üzerine, avukatı gözlemci olarak mülakata katılabilir.
 (2) Başvuru sahibi, yetkililerle iş birliği yapmak ve uluslararası koruma başvurusunu destekleyecek tüm bilgi ve belgeleri sunmakla yükümlüdür.
 (3) Özel ihtiyaç sahipleriyle yapılacak mülakatlarda, bu kişilerin özel durumları göz önünde bulundurulur. Çocuğun mülakatında psikolog, çocuk gelişimci veya sosyal çalışmacı ya da ebeveyni veya yasal temsilcisi hazır bulunabilir.
 (4) Mülakatın gerçekleştirilememesi hâlinde, yeni mülakat tarihi belirlenir ve ilgili kişiye tebliğ edilir. Mülakat tarihleri arasında en az on gün bulunur.
 (5) Gerekli görüldüğünde başvuru sahibiyle ek mülakatlar yapılabilir.
 (6) Mülakatlar sesli veya görsel olarak kayıt altına alınabilir. Bu durumda mülakat yapılan kişi bilgilendirilir. Her mülakatın sonunda tutanak düzenlenir, bir örneği mülakat yapılan kişiye verilir.
-Uluslararası koruma başvuru sahibi kimlik belgesi
+**Uluslararası koruma başvuru sahibi kimlik belgesi**
 
-MADDE 76 – (1) Mülakatı tamamlanan başvuru sahibine ve varsa birlikte geldiği aile üyelerine, uluslararası koruma talebinde bulunduğunu belirten ve yabancı kimlik numarasını içeren altı ay süreli Uluslararası Koruma Başvuru Sahibi Kimlik Belgesi düzenlenir. Başvurusu sonuçlandırılamayanların kimlik belgeleri altı aylık sürelerle uzatılır.
+**MADDE 76 –** (1) Mülakatı tamamlanan başvuru sahibine ve varsa birlikte geldiği aile üyelerine, uluslararası koruma talebinde bulunduğunu belirten ve yabancı kimlik numarasını içeren altı ay süreli Uluslararası Koruma Başvuru Sahibi Kimlik Belgesi düzenlenir. Başvurusu sonuçlandırılamayanların kimlik belgeleri altı aylık sürelerle uzatılır.
 (2) 72 nci ve 79 uncu maddeler kapsamında olanlar ile bunların aile üyelerine kimlik belgesi verilmez.
 (3) Kimlik belgesinin şekli ve içeriği Genel Müdürlükçe belirlenir.
 (4) Kimlik belgesi, hiçbir harca tabi olmayıp ikamet izni yerine geçer.
-Başvurunun geri çekilmesi veya geri çekilmiş sayılması
+**Başvurunun geri çekilmesi veya geri çekilmiş sayılması**
 
-MADDE 77 – (1) Başvuru sahibinin;
+**MADDE 77 –** (1) Başvuru sahibinin;
 a) Başvurusunu geri çektiğini yazılı olarak beyan etmesi,
 b) Mazeretsiz olarak mülakata üç defa üst üste gelmemesi,
 c) İdari gözetim altında bulunduğu yerden kaçması,
@@ -595,18 +595,18 @@ c) İdari gözetim altında bulunduğu yerden kaçması,
 bildirim yükümlülüğünü üç defa üst üste yerine getirmemesi, belirlenen ikamet yerine gitmemesi veya ikamet yerini izinsiz terk etmesi,
 d) Kişisel verilerinin alınmasına karşı çıkması,
 e) Kayıt ve mülakattaki yükümlülüklerine uymaması, hâllerinde başvurusu geri çekilmiş kabul edilerek değerlendirme durdurulur.
-Karar
+**Karar**
 
-MADDE 78 – (1) Başvuru, kayıt tarihinden itibaren en geç altı ay içinde Genel Müdürlükçe sonuçlandırılır. Kararın bu süre içerisinde verilememesi hâlinde başvuru sahibi bilgilendirilir.
+**MADDE 78 –** (1) Başvuru, kayıt tarihinden itibaren en geç altı ay içinde Genel Müdürlükçe sonuçlandırılır. Kararın bu süre içerisinde verilememesi hâlinde başvuru sahibi bilgilendirilir.
 (2) Kararlar bireysel olarak verilir. 64 üncü maddenin altıncı fıkrası saklı kalmak kaydıyla, aile adına yapılan başvuru bütün olarak değerlendirilir ve verilen karar tüm aile üyelerini kapsar.
 (3) Başvuru hakkında karar verilirken menşe veya önceki ikamet ülkesinin mevcut genel şartları ve başvuru sahibinin kişisel şartları göz önünde bulundurulur.
 (4) Başvuru sahibine, zulüm veya ciddi zarar görme tehdidine karşı vatandaşı olduğu ülke veya önceki ikamet ülkesinin belirli bir bölgesinde koruma sağlanabiliyorsa ve başvuru sahibi, ülkenin o bölgesine güvenli bir şekilde seyahat edebilecek ve yerleşebilecek durumdaysa, başvuru sahibinin uluslararası korumaya muhtaç olmadığına karar verilebilir.
 (5) Dördüncü fıkradaki durumların ortaya çıkması, başvurunun tam bir incelemeye tabi tutulmasını engellemez.
 (6) Karar, ilgiliye veya yasal temsilcisine ya da avukatına tebliğ edilir. Olumsuz kararın tebliğinde, kararın maddi gerekçeleri ve hukuki dayanakları da belirtilir.
 İlgili kişi bir avukat tarafından temsil edilmiyorsa, kararın sonucu, itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
-Hızlandırılmış değerlendirme
+**Hızlandırılmış değerlendirme**
 
-MADDE 79 – (1) Başvuru sahibinin;
+**MADDE 79 –** (1) Başvuru sahibinin;
 a) Başvuru sırasında gerekçelerini sunarken, uluslararası korumayı gerektirecek konulara hiç değinmemiş olması,
 b) Sahte belge ya da yanıltıcı bilgi ve belge kullanarak veya kararı olumsuz etkileyebilecek bilgi ve belgeleri sunmayarak yetkilileri yanlış yönlendirmesi,
 c) Kimliğinin ya da uyruğunun tespit edilmesini güçleştirmek amacıyla kimlik ya da seyahat belgelerini kötü niyetle imha etmesi veya elden çıkarması,
@@ -617,9 +617,9 @@ f) Başvurusunun geri çekilmiş sayılmasından sonra yeniden başvuruda bulunm
 (2) Başvurusu hızlandırılmış olarak değerlendirilen başvuru sahibiyle, başvuru tarihinden itibaren en geç üç gün içinde mülakat yapılır. Başvuru, mülakattan sonra en geç beş gün içinde sonuçlandırılır.
 (3) Bu maddeye göre değerlendirilen başvurulardan, incelenmesinin uzun süreceği anlaşılanlar, hızlandırılmış değerlendirmeden çıkarılabilir.
 (4) Refakatsiz çocukların başvuruları hızlandırılmış olarak değerlendirilemez.
-İdari itiraz ve yargı yolu
+**İdari itiraz ve yargı yolu**
 
-MADDE 80 – (1) Bu Kısımda yazılı hükümler uyarınca alınan kararlara karşı idari itiraz ve yargı yoluna başvurulduğunda aşağıdaki hükümler uygulanır:
+**MADDE 80 –** (1) Bu Kısımda yazılı hükümler uyarınca alınan kararlara karşı idari itiraz ve yargı yoluna başvurulduğunda aşağıdaki hükümler uygulanır:
 a) İlgili kişi veya yasal temsilcisi ya da avukatı tarafından kararın tebliğinden itibaren on gün içinde Uluslararası Koruma Değerlendirme Komisyonuna itiraz edilebilir.
 Ancak 68 inci, 72 nci ve 79 uncu maddelere göre verilen kararlara karşı sadece yargı yoluna başvurulabilir.
 b) İdari itiraz sonucu alınan karar, ilgiliye veya yasal temsilcisine ya da avukatına tebliğ edilir.
@@ -628,27 +628,27 @@ c) Bakanlık, verilen kararlara karşı yapılan idari itiraz usullerini düzenl
 ç) 68 inci maddede düzenlenen yargı yolu hariç olmak üzere, 72 nci ve 79 uncu maddeler çerçevesinde alınan kararlara karşı, kararın tebliğinden itibaren on beş gün, alınan diğer idari karar ve işlemlere karşı kararın tebliğinden itibaren otuz gün içinde, ilgili kişi veya yasal temsilcisi ya da avukatı tarafından yetkili idare mahkemesine başvurulabilir.
 d) 72 nci ve 79 uncu maddeler çerçevesinde mahkemeye yapılan başvurular on beş gün içinde sonuçlandırılır. Mahkemenin bu konuda vermiş olduğu karar kesindir.
 e) İtiraz veya yargılama süreci sonuçlanıncaya kadar ilgili kişinin ülkede kalışına izin verilir.
-Avukatlık hizmetleri ve danışmanlık
+**Avukatlık hizmetleri ve danışmanlık**
 
-MADDE 81 – (1) Başvuru sahibi ile uluslararası koruma statüsü sahibi kişiler, bu Kısımda yazılı iş ve işlemlerle ilgili olarak, ücretleri kendilerince karşılanması kaydıyla avukat tarafından temsil edilebilir.
+**MADDE 81 –** (1) Başvuru sahibi ile uluslararası koruma statüsü sahibi kişiler, bu Kısımda yazılı iş ve işlemlerle ilgili olarak, ücretleri kendilerince karşılanması kaydıyla avukat tarafından temsil edilebilir.
 (2) Avukatlık ücretlerini karşılama imkânı bulunmayan başvuru sahibi ve uluslararası koruma statüsü sahibi kişiye, bu Kısım kapsamındaki iş ve işlemlerle ilgili olarak yargı önündeki başvurularında 1136 sayılı Kanunun adli yardım hükümlerine göre avukatlık hizmeti sağlanır.
 (3) Başvuru sahibi ve uluslararası koruma statüsü sahibi kişi, sivil toplum kuruluşları tarafından sağlanan danışmanlık hizmetlerinden faydalanabilir.
-Şartlı mültecinin ve ikincil koruma statüsü sahibinin ikameti
+**Şartlı mültecinin ve ikincil koruma statüsü sahibinin ikameti**
 
-MADDE 82 – (1) Şartlı mülteci ve ikincil koruma statüsü sahibi kişiye, Genel Müdürlükçe, kamu düzeni veya kamu güvenliği nedeniyle belirli bir ilde ikamet etme, belirlenen süre ve usullerle bildirimde bulunma yükümlülüğü getirilebilir.
+**MADDE 82 –** (1) Şartlı mülteci ve ikincil koruma statüsü sahibi kişiye, Genel Müdürlükçe, kamu düzeni veya kamu güvenliği nedeniyle belirli bir ilde ikamet etme, belirlenen süre ve usullerle bildirimde bulunma yükümlülüğü getirilebilir.
 (2) Bu kişiler, adres kayıt sistemine kayıt yaptırmak ve ikamet adresini valiliğe bildirmekle yükümlüdür.
-Uluslararası koruma statüsü sahibi kimlik belgesi
+**Uluslararası koruma statüsü sahibi kimlik belgesi**
 
-MADDE 83 – (1) Mülteci statüsü verilenlere yabancı kimlik numarasını içeren üçer yıl süreli kimlik belgesi düzenlenir.
+**MADDE 83 –** (1) Mülteci statüsü verilenlere yabancı kimlik numarasını içeren üçer yıl süreli kimlik belgesi düzenlenir.
 (2) Şartlı mülteci ve ikincil koruma statüsü verilenlere, yabancı kimlik numarasını içeren birer yıl süreli kimlik belgesi düzenlenir.
 (3) Birinci ve ikinci fıkralardaki kimlik belgeleri hiçbir harca tabi olmayıp ikamet izni yerine geçer. Kimlik belgelerinin şekil ve içeriği Genel Müdürlükçe belirlenir.
-Seyahat belgesi
+**Seyahat belgesi**
 
-MADDE 84 – (1) Mültecilere, valiliklerce Sözleşmede belirtilen seyahat belgesi düzenlenir.
+**MADDE 84 –** (1) Mültecilere, valiliklerce Sözleşmede belirtilen seyahat belgesi düzenlenir.
 (2) Şartlı mülteci ve ikincil koruma statüsü sahiplerinin seyahat belgesi talepleri 5682 sayılı Kanunun 18 inci maddesi çerçevesinde değerlendirilir.
-Uluslararası koruma statüsünün sona ermesi
+**Uluslararası koruma statüsünün sona ermesi**
 
-MADDE 85 – (1) Uluslararası koruma statüsü sahibi kişi;
+**MADDE 85 –** (1) Uluslararası koruma statüsü sahibi kişi;
 a) Vatandaşı olduğu ülkenin korumasından kendi isteğiyle tekrar yararlanırsa,
 b) Kaybettiği vatandaşlığını kendi isteğiyle tekrar kazanırsa,
 c) Yeni bir vatandaşlık kazanmışsa ve vatandaşlığını kazandığı ülkenin korumasından yararlanıyorsa,
@@ -660,24 +660,24 @@ e) Vatansız olup da, statü verilmesine yol açan koşullar ortadan kalktığı
 (4) Birinci ve üçüncü fıkralarda belirtilen şartların ortaya çıkması hâlinde, statü yeniden değerlendirilebilir.
 Bu kişiye, statüsünün yeniden değerlendirildiği ve nedenleri yazılı olarak bildirildikten sonra, statüsünün devam etmesi gerektiğine ilişkin nedenlerini sözlü veya yazılı şekilde sunabilmesine fırsat verilir.
 (5) Maddi gerekçelerini ve hukuki dayanaklarını içeren sona erme kararı, ilgiliye veya yasal temsilcisine ya da avukatına tebliğ edilir. İlgili kişi bir avukat tarafından temsil edilmiyorsa kararın sonucu, itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
-Uluslararası koruma statüsünün iptali
+**Uluslararası koruma statüsünün iptali**
 
-MADDE 86 – (1) Uluslararası koruma statüsü verilen kişilerden;
+**MADDE 86 –** (1) Uluslararası koruma statüsü verilen kişilerden;
 a) Sahte belge kullanma, hile, aldatma yoluyla veya beyan etmediği gerçeklerle statü verilmesine neden olanların,
 b) Statü verildikten sonra, 64 üncü madde çerçevesinde hariçte tutulması gerektiği anlaşılanların, statüsü iptal edilir.
 (2) Maddi gerekçelerini ve hukuki dayanaklarını içeren iptal kararı, ilgiliye veya yasal temsilcisine ya da avukatına tebliğ edilir. İlgili kişi bir avukat tarafından temsil edilmiyorsa kararın sonucu, itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
-Gönüllü geri dönüş desteği
+**Gönüllü geri dönüş desteği**
 
-MADDE 87 – (1) Başvuru sahibi ve uluslararası koruma statüsü sahibi kişilerden, gönüllü olarak geri dönmek isteyenlere, ayni ve nakdi destek sağlanabilir.
+**MADDE 87 –** (1) Başvuru sahibi ve uluslararası koruma statüsü sahibi kişilerden, gönüllü olarak geri dönmek isteyenlere, ayni ve nakdi destek sağlanabilir.
 (2) Genel Müdürlük, gönüllü geri dönüş çalışmalarını, uluslararası kuruluşlar, kamu kurum ve kuruluşları, sivil toplum kuruluşlarıyla iş birliği içerisinde yapabilir.
-ÜÇÜNCÜ BÖLÜM
-Haklar ve Yükümlülükler Hak ve yükümlülüklere ilişkin genel ilkeler
+**ÜÇÜNCÜ BÖLÜM**
+**Haklar ve Yükümlülükler Hak ve yükümlülüklere ilişkin genel ilkeler**
 
-MADDE 88 – (1) Uluslararası koruma statüsü sahibi kişiler, karşılıklılık şartından muaftır.
+**MADDE 88 –** (1) Uluslararası koruma statüsü sahibi kişiler, karşılıklılık şartından muaftır.
 (2) Başvuru sahibine, başvurusu reddedilen veya uluslararası koruma statüsü sahibi kişilere sağlanan hak ve imkânlar, Türk vatandaşlarına sağlanan hak ve imkânlardan fazla olacak şekilde yorumlanamaz.
-Yardım ve hizmetlere erişim
+**Yardım ve hizmetlere erişim**
 
-MADDE 89 – (1) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişi ve aile üyeleri, ilköğretim ve ortaöğretim hizmetlerinden faydalanır.
+**MADDE 89** – (1) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişi ve aile üyeleri, ilköğretim ve ortaöğretim hizmetlerinden faydalanır.
 (2) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişilerden ihtiyaç sahibi olanların, sosyal yardım ve hizmetlere erişimleri sağlanabilir.
 (3) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişilerden;
 a) Herhangi bir sağlık güvencesi olmayan ve ödeme gücü bulunmayanlar, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu hükümlerine tabidir. Genel sağlık sigortasından faydalanacak kişilerin primlerinin ödenmesi için Genel Müdürlük bütçesine ödenek konulur. Primleri Genel Müdürlük tarafından ödenenlerden ödeme güçlerine göre primin tamamı veya belli bir oranı talep edilir.
@@ -688,9 +688,9 @@ b) Mülteci veya ikincil koruma statüsü sahibi, statü almasından itibaren ba
 c) Mülteci ve ikincil koruma statüsü sahibinin iş piyasasına erişimi, iş piyasasındaki durum ve çalışma hayatındaki gelişmeler ile istihdama ilişkin sektörel ve ekonomik şartların gerekli kıldığı hâllerde, belirli bir süre için, tarım, sanayi veya hizmet sektörleri, belirli bir meslek, iş kolu veya mülki ve coğrafi alan itibarıyla sınırlandırılabilir. Ancak, Türkiye’de üç yıl ikamet eden veya Türk vatandaşıyla evli olan ya da Türk vatandaşı çocuğu olan mülteci ve ikincil koruma statüsü sahipleri için bu sınırlamalar uygulanmaz.
 ç) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişilerin çalışmasına ilişkin usul ve esaslar, Bakanlığın görüşü alınarak Çalışma ve Sosyal Güvenlik Bakanlığı tarafından belirlenir.
 (5) 72 nci ve 79 uncu maddelerde sayılanlar hariç olmak üzere, muhtaç olduğu tespit edilen başvuru sahibine, Maliye Bakanlığının uygun görüşü alınarak Bakanlığın belirleyeceği usul ve esaslar çerçevesinde harçlık verilebilir.
-Yükümlülükler
+**Yükümlülükler**
 
-MADDE 90 – (1) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişi, bu Kısımda yazılı yükümlülüklerine ek olarak;
+**MADDE 90** – (1) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişi, bu Kısımda yazılı yükümlülüklerine ek olarak;
 a) Çalışma durumuna ait güncel bilgileri otuz gün içinde bildirmekle,
 b) Gelirlerini, taşınır ve taşınmazlarını otuz gün içinde bildirmekle,
 c) Adres, kimlik ve medeni hâl değişikliklerini yirmi iş günü içinde bildirmekle,
@@ -698,29 +698,29 @@ c) Adres, kimlik ve medeni hâl değişikliklerini yirmi iş günü içinde bild
 d) Genel Müdürlükçe kendisinden bu Kısım çerçevesinde istenilenleri yerine getirmekle, yükümlüdür.
 (2) Bu Kısımda yazılı yükümlülüklere uymayanlar ile başvuruları ve uluslararası koruma statüleriyle ilgili olumsuz karar verilenlere; eğitim ve temel sağlık hakları hariç, diğer haklardan faydalanmaları bakımından sınırlama getirilebilir.
 Sınırlamaya ilişkin değerlendirme bireysel yapılır. Karar, ilgili kişiye veya yasal temsilcisine ya da avukatına yazılı olarak tebliğ edilir. İlgili kişi bir avukat tarafından temsil edilmiyorsa kararın sonucu, itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
-DÖRDÜNCÜ BÖLÜM
-Geçici Koruma ve Uluslararası Korumaya İlişkin Diğer Hükümler Geçici koruma
+**DÖRDÜNCÜ BÖLÜM**
+**Geçici Koruma ve Uluslararası Korumaya İlişkin Diğer Hükümler Geçici koruma**
 
-MADDE 91 – (1) Ülkesinden ayrılmaya zorlanmış, ayrıldığı ülkeye geri dönemeyen, acil ve geçici koruma bulmak amacıyla kitlesel olarak sınırlarımıza gelen veya sınırlarımızı geçen yabancılara geçici koruma sağlanabilir.
+**MADDE 91** – (1) Ülkesinden ayrılmaya zorlanmış, ayrıldığı ülkeye geri dönemeyen, acil ve geçici koruma bulmak amacıyla kitlesel olarak sınırlarımıza gelen veya sınırlarımızı geçen yabancılara geçici koruma sağlanabilir.
 (2) Bu kişilerin Türkiye’ye kabulü, Türkiye’de kalışı, hak ve yükümlülükleri, Türkiye’den çıkışlarında yapılacak işlemler, kitlesel hareketlere karşı alınacak tedbirlerle ulusal ve uluslararası kurum ve kuruluşlar arasındaki iş birliği ve koordinasyon, merkez ve taşrada görev alacak kurum ve kuruluşların görev ve yetkilerinin belirlenmesi, Bakanlar Kurulu tarafından çıkarılacak yönetmelikle düzenlenir.
-Uluslararası koruma süreçlerinde iş birliği
+**Uluslararası koruma süreçlerinde iş birliği**
 
-MADDE 92 – (1) Bakanlık, bu Kısımda yazılı uluslararası koruma süreçleriyle ilgili konularda, 5/5/1969 tarihli ve 1173 sayılı Milletlerarası Münasebetlerin Yürütülmesi ve Koordinasyonu Hakkında Kanun çerçevesinde Birleşmiş Milletler Mülteciler Yüksek Komiserliği, Uluslararası Göç Örgütü, diğer uluslararası kuruluşlar ve sivil toplum kuruluşlarıyla iş birliği yapabilir.
+**MADDE 92 –** (1) Bakanlık, bu Kısımda yazılı uluslararası koruma süreçleriyle ilgili konularda, 5/5/1969 tarihli ve 1173 sayılı Milletlerarası Münasebetlerin Yürütülmesi ve Koordinasyonu Hakkında Kanun çerçevesinde Birleşmiş Milletler Mülteciler Yüksek Komiserliği, Uluslararası Göç Örgütü, diğer uluslararası kuruluşlar ve sivil toplum kuruluşlarıyla iş birliği yapabilir.
 (2) Sözleşme hükümlerinin uygulanmasına nezaret etme görevini yerine getirmesinde, Birleşmiş Milletler Mülteciler Yüksek Komiserliğiyle gerekli iş birliği sağlanır.
 Bakanlık, bu Kanun çerçevesindeki uluslararası koruma, başvuru, değerlendirme ve karar süreçlerini belirlemeye, bu amaçla Dışişleri Bakanlığının uygun görüşü alınmak suretiyle Birleşmiş Milletler Mülteciler Yüksek Komiserliğiyle uluslararası anlaşma niteliği taşımayan protokoller yapmaya yetkilidir.
 (3) Birleşmiş Milletler Mülteciler Yüksek Komiserliğinin uluslararası koruma başvurusunda bulunmuş kişilere sınır kapıları da dâhil olmak üzere erişimi ve başvuru sahibinin de kabul etmesi şartıyla, başvurusuyla ilgili bilgilere erişimi sağlanır.
 Birleşmiş Milletler Mülteciler Yüksek Komiserliği, başvurunun her aşamasında görüşlerini yetkililere iletebilir.
-Menşe ülke bilgisi
+**Menşe ülke bilgisi**
 
-MADDE 93 – (1) Uluslararası koruma başvuruları incelenirken, etkin ve adil karar verebilmek, başvuran tarafından iddia edilen hususların doğruluğunu tespit edebilmek amacıyla menşe, ikamet ve transit ülkelerle ilgili Birleşmiş Milletler Mülteciler Yüksek Komiserliği kaynakları ve diğer kaynaklardan güncel bilgi toplanır.
+**MADDE 93 –** (1) Uluslararası koruma başvuruları incelenirken, etkin ve adil karar verebilmek, başvuran tarafından iddia edilen hususların doğruluğunu tespit edebilmek amacıyla menşe, ikamet ve transit ülkelerle ilgili Birleşmiş Milletler Mülteciler Yüksek Komiserliği kaynakları ve diğer kaynaklardan güncel bilgi toplanır.
 (2) Menşe ülke bilgi sisteminin kurulması, bilgilerin toplanması, depolanması, sistemin işletilmesi, ilgili kamu kurum ve kuruluşlarının kullanımına açılması Genel Müdürlükçe belirlenecek usul ve esaslar çerçevesinde yapılır.
-Gizlilik ilkesi ve kişisel dosyaya erişim
+**Gizlilik ilkesi ve kişisel dosyaya erişim**
 
-MADDE 94 – (1) Başvuru sahibinin ve uluslararası koruma statüsü sahibi kişinin tüm bilgi ve belgelerinde gizlilik esastır.
+**MADDE 94 –** (1) Başvuru sahibinin ve uluslararası koruma statüsü sahibi kişinin tüm bilgi ve belgelerinde gizlilik esastır.
 (2) Ancak, başvuru sahibi ve uluslararası koruma statüsü sahibi kişi ile yasal temsilcisi veya avukatı, başvuru sahibi ve uluslararası koruma statüsü sahibinin kişisel dosyasında yer alan belgeleri inceleyebilir, birer örneğini alabilir. Millî güvenlik ve kamu düzeninin korunması ile suç işlenmesinin önlenmesine ilişkin belgeler incelenemez ve verilemez.
-Kabul ve barınma merkezleri
+**Kabul ve barınma merkezleri**
 
-MADDE 95 – (1) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişinin, barınma ihtiyaçlarını kendisinin karşılaması esastır.
+**MADDE 95 –** (1) Başvuru sahibi veya uluslararası koruma statüsü sahibi kişinin, barınma ihtiyaçlarını kendisinin karşılaması esastır.
 (2) Genel Müdürlük, başvuru sahibi veya uluslararası koruma statüsü sahibi kişinin barınma, iaşe, sağlık, sosyal ve diğer ihtiyaçlarının karşılanacağı kabul ve barınma merkezleri kurabilir.
 (3) Merkezlerde özel ihtiyaç sahiplerinin barındırılmasına öncelik verilir.
 (4) Kabul ve barınma merkezleri, valilikler tarafından işletilir. Genel Müdürlük, merkezleri;
@@ -730,40 +730,40 @@ kamu kurum ve kuruluşlarıyla, Türkiye Kızılay Derneği ve göç alanında u
 (7) İmkânlar ölçüsünde merkezlerde kalan ailelerin bütünlüğü korunur.
 (8) Göç alanında uzmanlığı bulunan ilgili sivil toplum kuruluşu temsilcileri, Genel Müdürlüğün izniyle kabul ve barınma merkezlerini ziyaret edebilirler.
 (9) Kabul ve barınma merkezlerinin kurulması, yönetimi ve işletilmesiyle ilgili usul ve esaslar yönetmelikle düzenlenir.
-DÖRDÜNCÜ KISIM
-Yabancılar ve Uluslararası Korumaya İlişkin Ortak Hükümler Uyum
+**DÖRDÜNCÜ KISIM**
+**Yabancılar ve Uluslararası Korumaya İlişkin Ortak Hükümler Uyum**
 
 
-MADDE 96 – (1) Genel Müdürlük, ülkenin ekonomik ve mali imkânları ölçüsünde, yabancı ile başvuru sahibinin veya uluslararası koruma statüsü sahibi kişilerin ülkemizde toplumla olan karşılıklı uyumlarını kolaylaştırmak ve ülkemizde, yeniden yerleştirildikleri ülkede veya geri döndüklerinde ülkelerinde sosyal hayatın tüm alanlarında üçüncü kişilerin aracılığı olmadan bağımsız hareket edebilmelerini kolaylaştıracak bilgi ve beceriler kazandırmak amacıyla, kamu kurum ve kuruluşları, yerel yönetimler, sivil toplum kuruluşları, üniversiteler ile uluslararası kuruluşların öneri ve katkılarından da faydalanarak uyum faaliyetleri planlayabilir.
+**MADDE 96 –** (1) Genel Müdürlük, ülkenin ekonomik ve mali imkânları ölçüsünde, yabancı ile başvuru sahibinin veya uluslararası koruma statüsü sahibi kişilerin ülkemizde toplumla olan karşılıklı uyumlarını kolaylaştırmak ve ülkemizde, yeniden yerleştirildikleri ülkede veya geri döndüklerinde ülkelerinde sosyal hayatın tüm alanlarında üçüncü kişilerin aracılığı olmadan bağımsız hareket edebilmelerini kolaylaştıracak bilgi ve beceriler kazandırmak amacıyla, kamu kurum ve kuruluşları, yerel yönetimler, sivil toplum kuruluşları, üniversiteler ile uluslararası kuruluşların öneri ve katkılarından da faydalanarak uyum faaliyetleri planlayabilir.
 (2) Yabancılar, ülkenin siyasi yapısı, dili, hukuki sistemi, kültürü ve tarihi ile hak ve yükümlülüklerinin temel düzeyde anlatıldığı kurslara katılabilir.
 (3) Kamusal ve özel mal ve hizmetlerden yararlanma, eğitime ve ekonomik faaliyetlere erişim, sosyal ve kültürel iletişim, temel sağlık hizmeti alma gibi konularda kurslar, uzaktan eğitim ve benzeri sistemlerle tanıtım ve bilgilendirme etkinlikleri Genel Müdürlükçe kamu kurum ve kuruluşları ile sivil toplum kuruluşlarıyla da iş birliği yapılarak yaygınlaştırılır.
-Davete uyma yükümlülüğü
+**Davete uyma yükümlülüğü**
 
-MADDE 97 – (1) Yabancılar, başvuru sahipleri ve uluslararası koruma statüsü sahibi kişiler;
+**MADDE 97 –** (1) Yabancılar, başvuru sahipleri ve uluslararası koruma statüsü sahibi kişiler;
 a) Türkiye’ye girişi veya Türkiye’de kalışı hakkında inceleme ihtiyacının doğması,
 b) Hakkında sınır dışı etme kararı alınma ihtimalinin bulunması,
 c) Bu Kanunun uygulanmasıyla ilgili işlemlerin bildirimi, nedenleriyle ilgili valiliğe veya Genel Müdürlüğe davet edilebilirler. Davete uyulmadığında veya uyulmayacağına ilişkin ciddi şüphe olması durumunda yabancılar davet edilmeksizin kolluk tarafından getirilebilirler. Bu işlem, idari gözetim olarak uygulanamaz ve bilgi alma süresi dört saati geçemez.
-Taşıyıcıların yükümlülükleri
+**Taşıyıcıların yükümlülükleri**
 
-MADDE 98 – (1) Taşıyıcılar;
+**MADDE 98 –** (1) Taşıyıcılar;
 a) Ülkeye giriş yapmak veya ülkeden transit geçmek üzere sınır kapılarına getirmiş oldukları yabancılardan herhangi bir nedenle Türkiye’ye girişleri ve Türkiye’den transit geçişleri reddedilenleri, geldikleri ya da kesin olarak kabul edilecekleri bir ülkeye geri götürmekle,
 b) Yabancıya refakat edilmesi gerekli görüldüğü durumlarda refakatçilerin gidiş ve dönüşlerini sağlamakla,
 c) Taşıdıkları kişilerin belge ve izinlerini kontrol etmekle, yükümlüdür.
 (2) Genel Müdürlük, sınır kapılarına yolcu getiren taşıyıcılardan, Türkiye’ye hareketlerinden önce taşıyacakları yolcuların bilgilerinin verilmesini isteyebilir.
 (3) Birinci ve ikinci fıkralarda yer alan yükümlülüklere ilişkin uygulanacak usul ve esaslar, Bakanlık ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca müştereken çıkarılacak yönetmelikle belirlenir.
-Kişisel veriler
+**Kişisel veriler**
 
-MADDE 99 – (1) Yabancılara, başvuru ve uluslararası koruma statüsü sahiplerine ait kişisel veriler, Genel Müdürlükçe veya valiliklerce ilgili mevzuata ve taraf olunan uluslararası anlaşmalara uygun olarak alınır, korunur, saklanır ve kullanılır.
-Tebligat
+**MADDE 99 –** (1) Yabancılara, başvuru ve uluslararası koruma statüsü sahiplerine ait kişisel veriler, Genel Müdürlükçe veya valiliklerce ilgili mevzuata ve taraf olunan uluslararası anlaşmalara uygun olarak alınır, korunur, saklanır ve kullanılır.
+**Tebligat**
 
-MADDE 100 – (1) Bu Kanuna ilişkin tebligat işlemleri, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre yapılır.
+**MADDE 100 –** (1) Bu Kanuna ilişkin tebligat işlemleri, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre yapılır.
 (2) Bu maddenin uygulanmasına ilişkin usul ve esaslar ilgilinin yabancı olduğu ve varsa özel durumları da dikkate alınarak yönetmelikle düzenlenir.
-Yetkili idare mahkemeleri
+**Yetkili idare mahkemeleri**
 
-MADDE 101 – (1) Bu Kanunun uygulanmasına ilişkin olarak idari yargıya başvurulması hâlinde, bir yerde birden fazla idare mahkemesinin bulunması hâlinde bu davaların hangi idare mahkemesinde görüleceği Hâkimler ve Savcılar Yüksek Kurulu tarafından belirlenir.
-İdari para cezası
+**MADDE 101 –** (1) Bu Kanunun uygulanmasına ilişkin olarak idari yargıya başvurulması hâlinde, bir yerde birden fazla idare mahkemesinin bulunması hâlinde bu davaların hangi idare mahkemesinde görüleceği Hâkimler ve Savcılar Yüksek Kurulu tarafından belirlenir.
+**İdari para cezası**
 
-MADDE 102 – (1) Diğer kanunlara göre daha ağır bir ceza gerektirmediği takdirde;
+**MADDE 102 –** (1) Diğer kanunlara göre daha ağır bir ceza gerektirmediği takdirde;
 a) 5 inci maddeye aykırı şekilde, Türkiye’ye yasa dışı giren veya Türkiye’yi yasa dışı terk eden ya da buna teşebbüs eden yabancılar hakkında iki bin Türk Lirası,
 b) 9 uncu maddenin birinci ve ikinci fıkraları uyarınca Türkiye’ye girişleri yasaklanmış olmasına rağmen Türkiye’ye girebilmiş olanlar hakkında bin Türk Lirası,
 c) 56 ncı maddenin birinci fıkrasında tanınan sürede Türkiye’den ayrılmayanlar hakkında bin Türk Lirası,
@@ -771,16 +771,16 @@ c) 56 ncı maddenin birinci fıkrasında tanınan sürede Türkiye’den ayrılm
 (2) İdari para cezası öngörülen kabahatlerin bir takvim yılı içinde tekrarı hâlinde, para cezaları yarı oranında artırılarak uygulanır.
 (3) Bu maddedeki idari para cezalarının uygulanması, Kanunda öngörülen diğer idari tedbirlerin uygulanmasına engel teşkil etmez.
 (4) Bu maddedeki idari para cezaları, valilik veya kolluk birimlerince uygulanır. Verilen para cezaları tebliğ tarihinden itibaren otuz gün içinde ödenir.
-BEŞİNCİ KISIM
-Göç İdaresi Genel Müdürlüğü
-BİRİNCİ BÖLÜM
-Kuruluş, Görev ve Yetki Kuruluş
+**BEŞİNCİ KISIM**
+**Göç İdaresi Genel Müdürlüğü**
+**BİRİNCİ BÖLÜM**
+**Kuruluş, Görev ve Yetki Kuruluş**
 
 
-MADDE 103 – (1) Göç alanına ilişkin politika ve stratejileri uygulamak, bu konularla ilgili kurum ve kuruluşlar arasında koordinasyonu sağlamak, yabancıların Türkiye’ye giriş ve Türkiye’de kalışları, Türkiye’den çıkışları ve sınır dışı edilmeleri, uluslararası koruma, geçici koruma ve insan ticareti mağdurlarının korunmasıyla ilgili iş ve işlemleri yürütmek üzere İçişleri Bakanlığına bağlı Göç İdaresi Genel Müdürlüğü kurulmuştur.
-Görev ve yetki
+**MADDE 103 –** (1) Göç alanına ilişkin politika ve stratejileri uygulamak, bu konularla ilgili kurum ve kuruluşlar arasında koordinasyonu sağlamak, yabancıların Türkiye’ye giriş ve Türkiye’de kalışları, Türkiye’den çıkışları ve sınır dışı edilmeleri, uluslararası koruma, geçici koruma ve insan ticareti mağdurlarının korunmasıyla ilgili iş ve işlemleri yürütmek üzere İçişleri Bakanlığına bağlı Göç İdaresi Genel Müdürlüğü kurulmuştur.
+**Görev ve yetki**
 
-MADDE 104 – (1) Genel Müdürlüğün görev ve yetkileri şunlardır:
+**MADDE 104 –** (1) Genel Müdürlüğün görev ve yetkileri şunlardır:
 a) Göç alanına ilişkin, mevzuatın ve idari kapasitenin geliştirilmesi, politika ve stratejilerin belirlenmesi konularında çalışmalar yürütmek ve Bakanlar Kurulunca belirlenen politika ve stratejilerin uygulanmasını izlemek ve koordine etmek
 b) Göç Politikaları Kurulunun sekretarya hizmetlerini yürütmek, Kurul kararlarının uygulanmasını takip etmek
 c) Göçle ilgili iş ve işlemleri yürütmek
@@ -794,10 +794,10 @@ h) Kamu kurum ve kuruluşlarının göç alanına yönelik faaliyetlerinin progr
 ı) Mevzuatla verilen diğer görevleri yürütmek
 (2) Genel Müdürlük, görevleriyle ilgili konularda kamu kurum ve kuruluşları, üniversiteler, yerel yönetimler, sivil toplum kuruluşları, özel sektör ve uluslararası kuruluşlarla iş birliği ve koordinasyonu sağlamakla yetkilidir.
 (3) Genel Müdürlüğün bu Kanun kapsamındaki her tür bilgi ve belge talebi, ilgili kurum ve kuruluşlar tarafından geciktirilmeden yerine getirilir.
-İKİNCİ BÖLÜM
-Göç Politikaları Kurulu Göç Politikaları Kurulu ve görevleri
+**İKİNCİ BÖLÜM**
+**Göç Politikaları Kurulu Göç Politikaları Kurulu ve görevleri**
 
-MADDE 105 – (1) Göç Politikaları Kurulu, İçişleri Bakanının başkanlığında, Aile ve Sosyal Politikalar, Avrupa Birliği, Çalışma ve Sosyal Güvenlik, Dışişleri, İçişleri, Kültür ve Turizm, Maliye, Millî Eğitim, Sağlık ve Ulaştırma, Denizcilik ve Haberleşme bakanlıkları müsteşarları ile Yurtdışı Türkler ve Akraba Topluluklar Başkanı ve Göç İdaresi Genel Müdüründen oluşur. Toplantı gündemine göre, konuyla ilgili bakanlık, ulusal veya uluslararası diğer kurum ve kuruluşlar ile sivil toplum kuruluşlarının temsilcileri toplantıya davet edilebilir.
+**MADDE 105 –** (1) Göç Politikaları Kurulu, İçişleri Bakanının başkanlığında, Aile ve Sosyal Politikalar, Avrupa Birliği, Çalışma ve Sosyal Güvenlik, Dışişleri, İçişleri, Kültür ve Turizm, Maliye, Millî Eğitim, Sağlık ve Ulaştırma, Denizcilik ve Haberleşme bakanlıkları müsteşarları ile Yurtdışı Türkler ve Akraba Topluluklar Başkanı ve Göç İdaresi Genel Müdüründen oluşur. Toplantı gündemine göre, konuyla ilgili bakanlık, ulusal veya uluslararası diğer kurum ve kuruluşlar ile sivil toplum kuruluşlarının temsilcileri toplantıya davet edilebilir.
 (2) Kurul, Kurul Başkanının çağrısı üzerine her yıl en az bir kez toplanır. Gerekli görüldüğü hâllerde Kurul Başkanının çağrısıyla olağanüstü toplanabilir. Toplantı gündemi, üyelerin görüşü alınarak Başkan tarafından belirlenir. Kurulun sekretarya hizmetleri, Genel Müdürlük tarafından yerine getirilir.
 (3) Kurulun görevleri şunlardır:
 a) Türkiye’nin göç politika ve stratejilerini belirlemek, uygulanmasını takip etmek
@@ -808,14 +808,14 @@ d) Çalışma ve Sosyal Güvenlik Bakanlığının önerileri çerçevesinde, T�
 e) Yabancılara verilecek uzun dönem ikamet iznine ilişkin şartları belirlemek
 f) Göç alanında yabancı ülkeler ve uluslararası kuruluşlarla etkin iş birliği ve bu alandaki çalışmaların çerçevesini belirlemek
 g) Göç alanında görev yapan kamu kurum ve kuruluşları arasında koordinasyonun sağlanmasına yönelik kararlar almak
-ÜÇÜNCÜ BÖLÜM
-Merkez, Taşra ve Yurt Dışı Teşkilatı, Hizmet Birimleri Teşkilat
+**ÜÇÜNCÜ BÖLÜM**
+**Merkez, Taşra ve Yurt Dışı Teşkilatı, Hizmet Birimleri Teşkilat**
 
-MADDE 106 – (1) Genel Müdürlük, merkez, taşra ve yurt dışı teşkilatından oluşur.
+**MADDE 106 –** (1) Genel Müdürlük, merkez, taşra ve yurt dışı teşkilatından oluşur.
 (2) Genel Müdürlük merkez teşkilatı ekli (I) sayılı cetvelde gösterilmiştir.
-Genel Müdür
+**Genel Müdür**
 
-MADDE 107 – (1) Genel Müdür, Genel Müdürlüğün en üst amiri olup Bakana karşı sorumludur.
+**MADDE 107** – (1) Genel Müdür, Genel Müdürlüğün en üst amiri olup Bakana karşı sorumludur.
 (2) Genel Müdürün görevleri şunlardır:
 a) Genel Müdürlüğü mevzuat hükümlerine, Hükümet programı ve politikalarına uygun olarak yönetmek
 b) Genel Müdürlüğün görev alanına giren hususlarda gerekli mevzuat çalışmalarını yürütmek, belirlenen strateji, amaç ve performans ölçütleri doğrultusunda Genel Müdürlüğü yönetmek
@@ -823,9 +823,9 @@ c) Genel Müdürlüğün faaliyet ve işlemlerini denetlemek, yönetim sistemler
 ç) Genel Müdürlüğün orta ve uzun vadeli strateji ve politikalarını belirlemek, bu amaçla uluslararası kuruluşlar, üniversiteler ve sivil toplum kuruluşlarıyla iş birliği yapılmasını sağlamak
 d) Faaliyet alanına giren konularda kamu kurum ve kuruluşlarıyla iş birliği ve koordinasyonu sağlamak
 (3) Genel Müdürlüğün yönetim ve koordinasyonunda Genel Müdüre yardımcı olmak üzere, iki genel müdür yardımcısı atanabilir. Genel müdür yardımcıları, Genel Müdür tarafından verilen görevleri yerine getirir ve Genel Müdüre karşı sorumludur.
-Hizmet birimleri
+**Hizmet birimleri**
 
-MADDE 108 – (1) Genel Müdürlüğün hizmet birimleri ve görevleri şunlardır:
+**MADDE 108 –** (1) Genel Müdürlüğün hizmet birimleri ve görevleri şunlardır:
 a) Yabancılar Dairesi Başkanlığı;
 1) Düzenli göçle ilgili iş ve işlemleri yürütmek,
 2) Düzensiz göçle ilgili iş ve işlemleri yürütmek,
@@ -895,12 +895,12 @@ i) Eğitim Dairesi Başkanlığı;
 3) Seminer, sempozyum, konferans ve benzeri etkinlikler düzenlemek,
 4) Ulusal ve uluslararası yayın, mevzuat, mahkeme kararları ile diğer bilgi ve belgeleri izlemek, derlemek ve ilgili dairelere bildirmek,
 5) Genel Müdür tarafından verilen diğer görevleri yapmak.
-Taşra teşkilatı
+**Taşra teşkilatı**
 
-MADDE 109 – (1) Genel Müdürlük, ilgili mevzuat hükümleri çerçevesinde taşra teşkilatı kurmaya yetkilidir.
-Yurt dışı teşkilatı
+**MADDE 109 –** (1) Genel Müdürlük, ilgili mevzuat hükümleri çerçevesinde taşra teşkilatı kurmaya yetkilidir.
+**Yurt dışı teşkilatı**
 
-MADDE 110 – (1) Genel Müdürlük, 13/12/1983 tarihli ve 189 sayılı Kamu Kurum ve Kuruluşlarının Yurtdışı Teşkilatı Hakkında Kanun Hükmünde Kararname esaslarına uygun olarak yurt dışı teşkilatı kurmaya yetkilidir.
+**MADDE 110 –** (1) Genel Müdürlük, 13/12/1983 tarihli ve 189 sayılı Kamu Kurum ve Kuruluşlarının Yurtdışı Teşkilatı Hakkında Kanun Hükmünde Kararname esaslarına uygun olarak yurt dışı teşkilatı kurmaya yetkilidir.
 (2) Büyükelçiliklerde görev alan göç müşavirlerinin görevleri şunlardır:
 a) Görevli oldukları ülkelerdeki kurum ve kuruluşlarla Genel Müdürlük arasında göç alanına ilişkin iş birliği ve koordinasyonu sağlamak
 b) Genel Müdürlüğün görev alanına giren konulardaki gelişmeleri izlemek ve Genel Müdürlüğe iletmek
@@ -917,19 +917,19 @@ c) Konsolosluklarca karara bağlanabilecek vize başvurularını doğrudan, ikam
 ç) Türkiye’den sınır dışı edilecek veya gönüllü geri dönecek yabancıların, gidecekleri ülkedeki iş ve işlemlerinde yardımcı olmak
 d) Görev yaptıkları ülkede göç konuları ile ilgili gelişmeleri takip etmek ve yıllık raporlar hazırlamak
 e) Göç alanına ilişkin konsoloslar tarafından verilen diğer görevleri yürütmek
-f) Genel Müdürlükçe verilecek diğer görevleri yürütmek Çalışma grupları ve düzenleme yetkisi
+f) Genel Müdürlükçe verilecek diğer görevleri yürütmek **Çalışma grupları ve düzenleme yetkisi**
 
-MADDE 111 – (1) Genel Müdürlük merkez teşkilatında, hizmetlerin yürütülebilmesi amacıyla, birim amirlerinin teklifi ve Genel Müdürün onayıyla çalışma grupları oluşturulabilir. Gruplar, Genel Müdür tarafından görevlendirilecek bir uzmanın koordinasyonunda faaliyet gösterir.
+**MADDE 111 –** (1) Genel Müdürlük merkez teşkilatında, hizmetlerin yürütülebilmesi amacıyla, birim amirlerinin teklifi ve Genel Müdürün onayıyla çalışma grupları oluşturulabilir. Gruplar, Genel Müdür tarafından görevlendirilecek bir uzmanın koordinasyonunda faaliyet gösterir.
 (2) Genel Müdürlük, görev, yetki ve sorumluluk alanına giren konularda idari düzenleme yapmaya yetkilidir.
-Yöneticilerin sorumlulukları ve yetki devri
+**Yöneticilerin sorumlulukları ve yetki devri**
 
-MADDE 112 – (1) Genel Müdürlüğün her kademedeki yöneticileri, görevlerini mevzuata, stratejik plan ve programlara, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütmekten üst kademelere karşı sorumludur.
+**MADDE 112 –** (1) Genel Müdürlüğün her kademedeki yöneticileri, görevlerini mevzuata, stratejik plan ve programlara, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütmekten üst kademelere karşı sorumludur.
 (2) Genel Müdür ve her kademedeki Genel Müdürlük yöneticileri, sınırları açıkça belirtilmek ve yazılı olmak şartıyla yetkilerinden bir kısmını alt kademelere devredebilir. Yetki devri, uygun araçlarla ilgililere duyurulur.
-DÖRDÜNCÜ BÖLÜM
-Sürekli Kurul ve Komisyonlar ile Geçici Komisyonlar Sürekli kurul ve komisyonlar
+**DÖRDÜNCÜ BÖLÜM**
+**Sürekli Kurul ve Komisyonlar ile Geçici Komisyonlar Sürekli kurul ve komisyonlar**
 
-MADDE 113 – (1) Genel Müdürlüğün sürekli kurul ve komisyonları şunlardır:
-a) Göç Danışma Kurulu
+**MADDE 113 –** (1) Genel Müdürlüğün sürekli kurul ve komisyonları şunlardır:
+a) **Göç Danışma Kurulu**
 b) Uluslararası Koruma Değerlendirme Komisyonu
 c) Düzensiz Göçle Mücadele Koordinasyon Kurulu
 (2) Sürekli kurul ve komisyonların üyelerinin yeterlilikleri, olağan ve olağanüstü toplantılarının yer ve zamanı ile çalışma ve karar verme usul ve esasları ile kurul ve komisyonlara ilişkin diğer hususlar yönetmelikle belirlenir.
@@ -937,7 +937,7 @@ c) Düzensiz Göçle Mücadele Koordinasyon Kurulu
 Göç Danışma Kurulu
 
 
-MADDE 114 – (1) Göç Danışma Kurulu, Bakanlık Müsteşarı veya görevlendireceği müsteşar yardımcısının başkanlığında, Türkiye İnsan Hakları Kurumu, Avrupa Birliği, Çalışma ve Sosyal Güvenlik ve Dışişleri bakanlıklarının en az daire başkanı seviyesindeki temsilcileri, Genel Müdür, genel müdür yardımcıları, Yabancılar Dairesi, Uluslararası Koruma Dairesi, İnsan Ticareti Mağdurlarını Koruma Dairesi, Uyum ve İletişim Dairesi ve Göç Politika ve Projeleri Dairesi başkanları, Birleşmiş Milletler Mülteciler Yüksek Komiserliği Türkiye Temsilcisi, Uluslararası Göç Örgütü Türkiye Temsilcisi, göç konularıyla ilgili beş öğretim elemanı ve göç alanında çalışmalarda bulunan beş sivil toplum kuruluşu temsilcisinden oluşur. Kurul toplantılarına Başkan tarafından, yurt içi ve yurt dışından göç alanında uzman kişiler çağrılarak görüşleri alınabilir. Kurul yılda iki kez olağan olarak toplanır. Kurul, ayrıca Başkanın çağrısı üzerine her zaman olağanüstü toplanabilir. Toplantı gündemi, Başkan tarafından belirlenir.
+**MADDE 114 –** (1) Göç Danışma Kurulu, Bakanlık Müsteşarı veya görevlendireceği müsteşar yardımcısının başkanlığında, Türkiye İnsan Hakları Kurumu, Avrupa Birliği, Çalışma ve Sosyal Güvenlik ve Dışişleri bakanlıklarının en az daire başkanı seviyesindeki temsilcileri, Genel Müdür, genel müdür yardımcıları, Yabancılar Dairesi, Uluslararası Koruma Dairesi, İnsan Ticareti Mağdurlarını Koruma Dairesi, Uyum ve İletişim Dairesi ve Göç Politika ve Projeleri Dairesi başkanları, Birleşmiş Milletler Mülteciler Yüksek Komiserliği Türkiye Temsilcisi, Uluslararası Göç Örgütü Türkiye Temsilcisi, göç konularıyla ilgili beş öğretim elemanı ve göç alanında çalışmalarda bulunan beş sivil toplum kuruluşu temsilcisinden oluşur. Kurul toplantılarına Başkan tarafından, yurt içi ve yurt dışından göç alanında uzman kişiler çağrılarak görüşleri alınabilir. Kurul yılda iki kez olağan olarak toplanır. Kurul, ayrıca Başkanın çağrısı üzerine her zaman olağanüstü toplanabilir. Toplantı gündemi, Başkan tarafından belirlenir.
 (2) Öğretim elemanları ve sivil toplum kuruluşu temsilcileri, Bakanlıkça belirlenecek usul ve esaslar çerçevesinde seçilir.
 (3) Kurulun görevleri şunlardır:
 a) Göç uygulamalarını izlemek ve önerilerde bulunmak
@@ -946,16 +946,16 @@ c) Göç politikaları ve hukuku alanında bölgesel ve uluslararası gelişmele
 ç) Göçle ilgili mevzuat çalışmalarını ve uygulamalarını değerlendirmek.
 d) Göç alanında çalışmalar yapmak üzere alt komisyonlar kurmak, komisyon çalışmaları sonrasında ortaya çıkacak raporları değerlendirmek
 (4) Kurulun tavsiye niteliğindeki kararları, Genel Müdürlük ile kamu kurum ve kuruluşlarınca değerlendirilir.
-Uluslararası Koruma Değerlendirme Komisyonu
+**Uluslararası Koruma Değerlendirme Komisyonu**
 
-MADDE 115 – (1) Uluslararası Koruma Değerlendirme Komisyonu, Genel Müdürlük temsilcisi başkanlığında, Adalet ve Dışişleri bakanlıklarınca görevlendirilen birer temsilci ve bir göç uzmanından oluşur. Komisyona, Birleşmiş Milletler Mülteciler Yüksek Komiserliği Türkiye Temsilciliği temsilcisi gözlemci olarak katılmak üzere davet edilebilir. Genel Müdürlük merkez veya taşra teşkilatında, bir veya birden fazla komisyon kurulabilir. Genel Müdürlük temsilcisi ve göç uzmanı iki yıl, diğer üyeler ise en az bir yıl için asıl ve yedek olmak üzere belirlenir. Komisyon başkan ve üyelerine, görevleri süresince ek görev verilmez.
+**MADDE 115 –** (1) Uluslararası Koruma Değerlendirme Komisyonu, Genel Müdürlük temsilcisi başkanlığında, Adalet ve Dışişleri bakanlıklarınca görevlendirilen birer temsilci ve bir göç uzmanından oluşur. Komisyona, Birleşmiş Milletler Mülteciler Yüksek Komiserliği Türkiye Temsilciliği temsilcisi gözlemci olarak katılmak üzere davet edilebilir. Genel Müdürlük merkez veya taşra teşkilatında, bir veya birden fazla komisyon kurulabilir. Genel Müdürlük temsilcisi ve göç uzmanı iki yıl, diğer üyeler ise en az bir yıl için asıl ve yedek olmak üzere belirlenir. Komisyon başkan ve üyelerine, görevleri süresince ek görev verilmez.
 (2) Komisyonun görevleri şunlardır:
 a) İdari gözetim kararları ve kabul edilemez başvurularla ilgili kararlar ile hızlandırılmış değerlendirme sonucu verilen kararlar hariç, uluslararası koruma başvuruları hakkında verilen kararlar ile başvuru ve uluslararası koruma statüsü sahibi hakkındaki diğer kararlara karşı itirazları değerlendirmek ve karar vermek
 b) Uluslararası korumanın sona ermesi ya da iptaline yönelik kararlara karşı itirazları değerlendirmek ve karar vermek
 (3) Komisyonlar, doğrudan Genel Müdürün koordinasyonunda çalışır.
-Düzensiz Göçle Mücadele Koordinasyon Kurulu
+**Düzensiz Göçle Mücadele Koordinasyon Kurulu**
 
-MADDE 116 – (1) Düzensiz Göçle Mücadele Koordinasyon Kurulu, Bakanlık Müsteşarı veya görevlendireceği müsteşar yardımcısı başkanlığında, Genelkurmay Başkanlığı, Çalışma ve Sosyal Güvenlik ve Dışişleri bakanlıkları ile Millî İstihbarat Teşkilatı Müsteşarlığı, ilgili kolluk birimleri ve Genel Müdürlüğün en az daire başkanı seviyesindeki temsilcilerinden oluşur.
+**MADDE 116 –** (1) Düzensiz Göçle Mücadele Koordinasyon Kurulu, Bakanlık Müsteşarı veya görevlendireceği müsteşar yardımcısı başkanlığında, Genelkurmay Başkanlığı, Çalışma ve Sosyal Güvenlik ve Dışişleri bakanlıkları ile Millî İstihbarat Teşkilatı Müsteşarlığı, ilgili kolluk birimleri ve Genel Müdürlüğün en az daire başkanı seviyesindeki temsilcilerinden oluşur.
 (2) Kurul toplantılarına, ilgili kamu kurum ve kuruluşlarının merkez ve taşra birimleri, sivil toplum kuruluşları, uluslararası kuruluş temsilcileri ile konuyla ilgili uzmanlar çağrılabilir. Kurul, gündemli olarak altı ayda bir toplanır. Kurul, ayrıca Başkanın çağrısı üzerine her zaman olağanüstü toplanabilir. Toplantı gündemi, üyelerin görüşü alınmak suretiyle Başkan tarafından belirlenir.
 (3) Kurulun görevleri şunlardır:
 a) Düzensiz göçle etkin şekilde mücadele edilebilmesi amacıyla kolluk birimleri ve ilgili kamu kurum ve kuruluşları arasında koordinasyonu sağlamak
@@ -963,37 +963,37 @@ b) Yasa dışı olarak Türkiye’ye giriş ve Türkiye’den çıkış yolları
 c) Düzensiz göçe yönelik tedbirleri geliştirmek
 ç) Düzensiz göçle mücadele alanında mevzuat oluşturma ve uygulama çalışmalarını planlamak ve uygulanmasını izlemek
 (4) Kurulun kararları, kamu kurum ve kuruluşlarınca öncelikle değerlendirilir.
-Geçici komisyonlar
+**Geçici komisyonlar**
 
-MADDE 117 – (1) Genel Müdürlük, görev alanına giren konularla ilgili olarak çalışmalarda bulunmak üzere Bakan onayıyla, kamu kurum ve kuruluşları, sivil toplum kuruluşları, uluslararası kuruluşlar ile konuyla ilgili uzmanların katılımıyla geçici komisyonlar oluşturabilir.
+**MADDE 117 –** (1) Genel Müdürlük, görev alanına giren konularla ilgili olarak çalışmalarda bulunmak üzere Bakan onayıyla, kamu kurum ve kuruluşları, sivil toplum kuruluşları, uluslararası kuruluşlar ile konuyla ilgili uzmanların katılımıyla geçici komisyonlar oluşturabilir.
 (2) Geçici komisyonların oluşumu, üye sayısı, görevlendirme ve seçilme yeterlilikleri, olağan ve olağanüstü toplantılarının yer ve zamanı, çalışma, karar alma usul ve esasları ile kurullarla ilgili diğer hususlar yönetmelikle belirlenir.
-BEŞİNCİ BÖLÜM
-Atama ve Personele İlişkin Hükümler Atama ve görevlendirme
+**BEŞİNCİ BÖLÜM**
+**Atama ve Personele İlişkin Hükümler Atama ve görevlendirme**
 
-MADDE 118 – (1) Genel Müdürlükte, Genel Müdür ve Genel Müdür Yardımcısı kadrolarına müşterek kararla, diğer kadrolara Genel Müdürün teklifi üzerine Bakan onayıyla atama yapılır.
+**MADDE 118 –** (1) Genel Müdürlükte, Genel Müdür ve **Genel Müdür Yardımcısı** kadrolarına müşterek kararla, diğer kadrolara Genel Müdürün teklifi üzerine Bakan onayıyla atama yapılır.
 (2) Genel Müdürlüğün görev alanıyla ilgili konularda çalıştırılmak üzere bütün kamu kurum ve kuruluşlarının personeli, kendilerinin ve kurumlarının muvafakatiyle Genel Müdürlükte geçici olarak görevlendirilebilir. Görevlendirme, personelin aylık, ödenek, her tür zam ve tazminatlar ile diğer mali ve sosyal hak ve yardımları kendi kurumlarınca ödenmek kaydıyla yapılır. Bu şekilde görevlendirilen personel, kurumlarından aylıklı izinli sayılır, Genel Müdürlükte geçen hizmet süreleri mesleki kıdemlerinden kabul edilir ve asıl kadrosuyla ilgisi devam eder. Bunların terfileri başkaca bir işleme gerek kalmaksızın süresinde yapılır. Görevlendirilecek personel sayısı, mevcut personelin yüzde otuzunu aşamaz.
-Personele ilişkin hükümler
+**Personele ilişkin hükümler**
 
-MADDE 119 – (1) Genel Müdürlük merkez teşkilatında Göç Uzmanı ve Göç Uzman Yardımcısı, taşra teşkilatında İl Göç Uzmanı ve İl Göç Uzman Yardımcısı istihdam edilebilir.
+**MADDE 119 –** (1) Genel Müdürlük merkez teşkilatında Göç Uzmanı ve Göç Uzman Yardımcısı, taşra teşkilatında İl Göç Uzmanı ve İl Göç Uzman Yardımcısı istihdam edilebilir.
 (2) Göç Uzman Yardımcılığı ve İl Göç Uzman Yardımcılığına atanabilmek için, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan şartlara ek olarak hukuk, siyasal bilgiler, iktisat, işletme ve uluslararası ilişkiler alanında en az dört yıllık lisans eğitimi veren ve bunların dışında yönetmelikle belirlenen fakültelerden veya bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilen yurt içindeki ve yurt dışındaki yükseköğretim kurumlarından mezun olmak ve yapılacak özel yarışma sınavında başarılı olmak gerekir. Göç Uzman Yardımcılığı ve İl Göç Uzman Yardımcılığı yarışma sınavı, yazılı ve sözlü aşamalarından oluşur.
 (3) Göç uzman yardımcılarının mesleğe alınmaları, yarışma sınavı, tez hazırlama ve yeterlik sınavları ile uzmanlığa atanmaları hakkında 657 sayılı Kanunun ek 41 inci maddesi hükümleri uygulanır.
 (4) İl Göç Uzman Yardımcılığına atananlar, en az üç yıl fiilen çalışmak kaydıyla açılacak yeterlik sınavına girme hakkını kazanırlar. Sınavda başarılı olamayanlar veya geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde ikinci kez sınav hakkı verilir. İkinci sınavda başarı gösteremeyen veya sınav hakkını kullanmayanlar İl Göç Uzman Yardımcısı unvanını kaybederler ve durumlarına uygun memur unvanlı kadrolara atanırlar. İl göç uzmanı ve il göç uzman yardımcılarının mesleğe alınmaları, yarışma sınavı, komisyonların oluşumu, yetiştirilmeleri, yeterlik sınavları, atanmaları, eğitimleri, çalışma ve görevlendirilmelerine ilişkin usul ve esaslar ile diğer hususlar yönetmelikle düzenlenir.
 (5) Genel Müdürlükte özel bilgi ve uzmanlığı gerektiren işlerde sözleşmeyle yabancı uzman istihdam edilebilir. Bu personele ödenecek aylık ücretin net tutarı, birinci dereceli Göç Uzmanına mali haklar kapsamında ödenen aylık net tutarı geçmemek üzere Genel Müdür tarafından belirlenir ve bunlar 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.
 Bu şekilde istihdam edilecek personel sayısı, Genel Müdürlüğün toplam kadro sayısının yüzde birini geçemez ve bunların istihdamına ilişkin usul ve esaslar yönetmelikle belirlenir.
 (6) Genel Müdürlükte, Genel Müdür, genel müdür yardımcıları ile Göç Politika ve Projeleri Dairesi, Uyum ve İletişim Dairesi, Dış İlişkiler Dairesi, Strateji Geliştirme Dairesi ve Destek Hizmetleri Dairesi başkanları ile göç müşavirleri mülki idare amirliği hizmetleri sınıfından atanır veya görevlendirilir.
-Kadrolar
+**Kadrolar**
 
-MADDE 120 – (1) Genel Müdürlüğün kadrolarının tespiti, ihdası, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar, 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümlerine göre düzenlenir.
-ALTINCI BÖLÜM
-Çeşitli Hükümler Yönetmelik
+**MADDE 120 –** (1) Genel Müdürlüğün kadrolarının tespiti, ihdası, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar, 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümlerine göre düzenlenir.
+**ALTINCI BÖLÜM**
+**Çeşitli Hükümler Yönetmelik**
 
-MADDE 121 – (1) Bu Kanunun uygulanmasına ilişkin usul ve esaslar çıkarılacak yönetmeliklerle belirlenir.
-Atıf yapılan hükümler
+**MADDE 121** – (1) Bu Kanunun uygulanmasına ilişkin usul ve esaslar çıkarılacak yönetmeliklerle belirlenir.
+**Atıf yapılan hükümler**
 
-MADDE 122 – (1) Diğer mevzuatta, 15/7/1950 tarihli ve 5683 sayılı Yabancıların Türkiye’de İkamet ve Seyahatleri Hakkında Kanuna yapılmış olan atıflar, bu Kanuna yapılmış sayılır. Diğer mevzuatta geçen yabancılara mahsus “ikamet tezkeresi” ibaresinden, bu Kanundaki “ikamet izni” anlaşılır.
-Değiştirilen hükümler
+**MADDE 122 –** (1) Diğer mevzuatta, 15/7/1950 tarihli ve 5683 sayılı Yabancıların Türkiye’de İkamet ve Seyahatleri Hakkında Kanuna yapılmış olan atıflar, bu Kanuna yapılmış sayılır. Diğer mevzuatta geçen yabancılara mahsus “ikamet tezkeresi” ibaresinden, bu Kanundaki “ikamet izni” anlaşılır.
+**Değiştirilen hükümler**
 
-MADDE 123 – (1) 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 34 üncü maddesinde yer alan “vatandaşlar ve yabancılara” ibaresi “vatandaşlara” şeklinde değiştirilmiştir.
+**MADDE 123 –** (1) 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 34 üncü maddesinde yer alan “vatandaşlar ve yabancılara” ibaresi “vatandaşlara” şeklinde değiştirilmiştir.
 (2) 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 88 inci maddesinin birinci fıkrasına aşağıdaki bentler eklenmiştir.
 “f) Uzun dönem ikamet izni bulunanlar,
 g) İnsan ticareti suçunun mağduru olanlar.”
@@ -1027,12 +1027,12 @@ b) 60 ıncı maddesinin birinci fıkrasının (c) bendinin (2) numaralı alt ben
 c) 61 inci maddesinin birinci fıkrasının (b) bendindeki “vatansız ve sığınmacı sayıldıkları” ibaresi “uluslararası koruma başvurusu yaptıkları veya uluslararası koruma statüsü aldıkları veya vatansız kişi sayıldıkları” şeklinde değiştirilmiştir.
 (9) Ekli (1), (2) ve (3) sayılı listelerde yer alan kadrolar ihdas edilerek, 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvele “Göç İdaresi Genel Müdürlüğü” bölümü olarak eklenmiştir.
 (10) 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelin 9 uncu sırasına “Basın-Yayın ve Enformasyon,” ibaresinden sonra gelmek üzere “Göç İdaresi,” ibaresi eklenmiştir.
-Yürürlükten kaldırılan mevzuat
+**Yürürlükten kaldırılan mevzuat**
 
-MADDE 124 – (1) 15/7/1950 tarihli ve 5683 sayılı Yabancıların Türkiye’de İkamet ve Seyahatleri Hakkında Kanun ile 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 4 üncü, 6 ncı, 7 nci, 8 inci, 9 uncu, 10 uncu, 11 inci, 24 üncü, 25 inci, 26 ncı, 28 inci, 29 uncu, 32 nci, 33 üncü, 35 inci, 36 ncı, 38 inci ve ek 5 inci maddeleri, 5 inci maddesinin birinci ve ikinci fıkraları ile 34 üncü maddesinin birinci fıkrasının ikinci cümlesi yürürlükten kaldırılmıştır.
-Geçiş hükümleri
+**MADDE 124 –** (1) 15/7/1950 tarihli ve 5683 sayılı Yabancıların Türkiye’de İkamet ve Seyahatleri Hakkında Kanun ile 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 4 üncü, 6 ncı, 7 nci, 8 inci, 9 uncu, 10 uncu, 11 inci, 24 üncü, 25 inci, 26 ncı, 28 inci, 29 uncu, 32 nci, 33 üncü, 35 inci, 36 ncı, 38 inci ve ek 5 inci maddeleri, 5 inci maddesinin birinci ve ikinci fıkraları ile 34 üncü maddesinin birinci fıkrasının ikinci cümlesi yürürlükten kaldırılmıştır.
+**Geçiş hükümleri**
 
-GEÇİCİ MADDE 1 – (1) Genel Müdürlüğün görev alanına giren konularla ilgili Emniyet Genel Müdürlüğünce tutulan dosya, yazılı ve elektronik ortamdaki kayıt ve diğer dokümanlar ile bilgi sistemleri, elektronik projeler ve veri tabanları Genel Müdürlüğe ve ilgili taşra birimlerine kademeli olarak devredilir.
+**GEÇİCİ MADDE 1 –** (1) Genel Müdürlüğün görev alanına giren konularla ilgili Emniyet Genel Müdürlüğünce tutulan dosya, yazılı ve elektronik ortamdaki kayıt ve diğer dokümanlar ile bilgi sistemleri, elektronik projeler ve veri tabanları Genel Müdürlüğe ve ilgili taşra birimlerine kademeli olarak devredilir.
 Devre ilişkin olarak, Emniyet Genel Müdürlüğü ile Genel Müdürlük arasında bu maddenin yayımı tarihinden itibaren altı ay içerisinde protokol yapılır ve Bakan onayıyla yürürlüğe girer.
 (2) Bu Kanunun yayımından itibaren bir yıl sonra kabul ve barınma merkezleri ile geri gönderme merkezlerine ait taşınırlar hiçbir işleme gerek kalmaksızın Genel Müdürlüğe devredilmiş, taşınmazlar ise hiçbir işleme gerek kalmaksızın Genel Müdürlüğe tahsis edilmiş sayılır. Devir nedeniyle yapılan işlemler, harçlardan, düzenlenen kâğıtlar damga vergisinden müstesnadır. Bu Kanunun uygulanmasında taşınır devri ile taşınmazların tahsisi ve benzeri hususlarda ortaya çıkabilecek sorunları gidermeye Bakan yetkilidir.
 (3) Genel Müdürlüğün 2013 mali yılı harcamaları için gereken ödenek ihtiyacı, 20/12/2012 tarihli ve 6363 sayılı 2013 Yılı Merkezi Yönetim Bütçe Kanununun 6 ncı maddesinin birinci fıkrasının (ç) bendine göre karşılanır. 31/12/2014 tarihine kadar Göç İdaresi Genel Müdürlüğü adına ihdas edilen kadroların yüzde ellisini geçmemek üzere, 6363 sayılı Kanundaki sınırlamalara tabi olmadan atama yapılabilir.
@@ -1041,11 +1041,11 @@ Devre ilişkin olarak, Emniyet Genel Müdürlüğü ile Genel Müdürlük arası
 (6) Bu Kanunun İkinci Kısmının yürürlüğe girdiği tarihten itibaren bir yıl içinde valiliklere yazılı olarak müracaat eden yabancılar, bu Kanunda ikamet izinleriyle ilgili kendilerine tanınan haklardan yararlandırılır.
 (7) Bu Kanunun Üçüncü Kısmının yürürlüğe girdiği tarihten önce, 14/9/1994 tarihli ve 94/6169 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türkiye’ye İltica Eden veya Başka Bir Ülkeye İltica Etmek Üzere Türkiye’den İkamet İzni Talep Eden Münferit Yabancılar ile Topluca Sığınma Amacıyla Sınırlarımıza Gelen Yabancılara ve Olabilecek Nüfus Hareketlerine Uygulanacak Usul ve Esaslar Hakkında Yönetmelik uyarınca statü verilenlere bu Kanunda belirtilen statülerine göre işlem yapılır, başvuru yapanların işlemleri ise bu Kanuna göre sonuçlandırılır. Bu Kanunun yayımı tarihinden itibaren Üçüncü Kısmın yürürlüğe girdiği tarihe kadar, anılan Yönetmelik uyarınca statü verilenler ile başvuru yapanlardan ikamet izni harcı alınmaz.
 (8) Bu Kanunun uygulanmasına ilişkin düzenlemeler yürürlüğe girinceye kadar mevcut düzenlemelerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
-Yürürlük
+**Yürürlük**
 
-MADDE 125 – (1) Bu Kanunun;
+**MADDE 125 –** (1) Bu Kanunun;
 a) 122 nci maddesi, 123 üncü maddesinin birinci, ikinci, beşinci ve yedinci fıkraları ile 124 üncü maddesi hariç olmak üzere Beşinci Kısmı yayımı tarihinde,
 b) Diğer hükümleri yayımı tarihinden bir yıl sonra, yürürlüğe girer.
-Yürütme
+**Yürütme**
 
-MADDE 126 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 126 –** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

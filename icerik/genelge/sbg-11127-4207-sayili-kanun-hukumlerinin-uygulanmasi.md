@@ -152,7 +152,7 @@ Uygulanması
 
 -5-
 
-4207 sayılı Kanun uygulamalarının incelenmesi, değerlendirilmesi ve koordinasyonuna yönelik yapılacak çalışmalarda yukarıda belirtilen hususlara titizlikle riayet edilmesi, incelemelerin Ek–1 forma göre yapılması, bu inceleme sonuçlarının aylık olarak Ek–2 form ile Bakanlığımıza gönderilmesi, tespit edilen aksaklıkların Ek–3 form ile ilgili kurumlara gecikmeden bildirilmesi, ilgili kurumlar tarafından yapılan işlemlerin titizlikle gerek şifahi görüşmeler, gerekse yazışma yolu ile takip edilmesi, faaliyet raporlarının aksatılmadan üçer aylık dönemler halinde Bakanlığımıza gönderilmesi, İl Tütün Kontrol Kurulları tarafından, tespit edilen aksaklıkların giderilmesine yönelik çalışmaların koordine edilmesi ve ayrıca yazımız ve eklerine www.saglik.gov.tr internet sitesinden de ulaşılabileceği hususlarında bilgilerinizi ve gereğini önemle rica ederim.
+4207 sayılı Kanun uygulamalarının incelenmesi, değerlendirilmesi ve koordinasyonuna yönelik yapılacak çalışmalarda yukarıda belirtilen hususlara titizlikle riayet edilmesi, incelemelerin Ek–1 forma göre yapılması, bu inceleme sonuçlarının aylık olarak Ek–2 form ile Bakanlığımıza gönderilmesi, tespit edilen aksaklıkların Ek–3 form ile ilgili kurumlara gecikmeden bildirilmesi, ilgili kurumlar tarafından yapılan işlemlerin titizlikle gerek şifahi görüşmeler, gerekse yazışma yolu ile takip edilmesi, faaliyet raporlarının aksatılmadan üçer aylık dönemler halinde Bakanlığımıza gönderilmesi, İl Tütün Kontrol Kurulları tarafından, tespit edilen aksaklıkların giderilmesine yönelik çalışmaların koordine edilmesi ve ayrıca yazımız ve eklerine www.**saglik.gov.tr** internet sitesinden de ulaşılabileceği hususlarında bilgilerinizi ve gereğini önemle rica ederim.
 
 Uzm. Dr. Orhan F. GÜMRÜKÇÜOĞLU
 

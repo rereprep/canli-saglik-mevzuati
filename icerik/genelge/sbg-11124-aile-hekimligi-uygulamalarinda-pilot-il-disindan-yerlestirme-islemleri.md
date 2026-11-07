@@ -8,11 +8,11 @@ kaynak_url: "https://www.saglik.gov.tr/TR-11124/aile-hekimligi-uygulamalarinda-p
 durum: "yürürlükte"
 ---
 
-T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
+**T.C. SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı : B.10.0.TSH.0.20.00.00 Konu: Aile Hekimliği Uygulamalarında Pilot İl Dışından Yerleştirme İşlemlerinde Uyulacak Esaslar
+**Sayı :** B.10.0.TSH.0.20.00.00 **Konu:** Aile Hekimliği Uygulamalarında Pilot İl Dışından Yerleştirme İşlemlerinde Uyulacak Esaslar
 
-........................... VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE 2007/
+**........................... VALİLİĞİNE (İl Sağlık Müdürlüğü) GENELGE 2007/**
 
 Söz konusu düzenlemede;
 
@@ -42,7 +42,7 @@ Buna göre aşağıdaki açıklamaların yapılması gerekli görülmüştür:
 
 Bilgilerinizi ve yazımızın Bakanlığımız kadro ve pozisyonlarında çalışan tabip ve uzman tabiplere duyurulmasının sağlanmasını rica ederim.
 
-Prof. Dr. Necdet ÜNÜVAR Bakan a. Müsteşar
+**Prof. Dr. Necdet ÜNÜVAR Bakan a.** Müsteşar
 
 ### DAĞITIM :
 
@@ -54,4 +54,4 @@ Teftiş Kurulu Başkanlığına
 Hukuk Müşavirliğine
 Personel Genel Müdürlüğüne
 
-Atatürk Bulvarı No:65/5 06410 Sıhhiye/ANKARA Telefon: (0 312) 435 58 68/113 Faks: (0 312) 432 29 56 e-posta: aile@saglik.gov.tr Elektronik Ağ: www.saglik.gov.tr
+Atatürk Bulvarı No:65/5 06410 Sıhhiye/ANKARA Telefon: (0 312) 435 58 68/113 Faks: (0 312) 432 29 56 e-posta: aile@**saglik.gov.tr** Elektronik Ağ: www.saglik.gov.tr

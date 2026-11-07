@@ -12,10 +12,10 @@ durum: "yürürlükte"
 ---
 
 Adalet Bakanlığından:
-ADLÎ TIP KURUMU
-KANUNU UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ADLÎ TIP KURUMU**
+**KANUNU UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete’de yayımlanan Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinin 10 uncu maddesinin üçüncü fıkrasının (c) bendinin ikinci ve beşinci cümlesinde yer alan "üç" ibaresi "beş" şeklinde değiştirilmiştir.
+**MADDE 1 –** 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete’de yayımlanan Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinin 10 uncu maddesinin üçüncü fıkrasının (c) bendinin ikinci ve beşinci cümlesinde yer alan "üç" ibaresi "beş" şeklinde değiştirilmiştir.
 
 MADDE 2 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 

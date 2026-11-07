@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -22,7 +22,7 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönetmelik; bilgilendirme ve teklif, sözleşme türleri, ömür boyu yenileme garantisi, katılım sertifikası, plan değişikliği ve geçiş işlemleri, sözleşme iptali, sigorta süresinin sona ermesinden sonraki tedavilere ilişkin genel hükümler ile özel sağlık sigortası tarifesi, sağlık konularında uzman kişi çalıştırma zorunluluğu ve aktüerya raporu, hizmet satın alma, sağlık bilgileri ve bilgilerin gizliliği, özel sağlık sigortalarında çalışma esasları ile tamamlayıcı ve destekleyici sağlık sigortası ürünlerine ilişkin diğer hükümleri kapsamaktadır. (Değişik cümle:RG-20/10/2025-33053) (1) Seyahat sağlık sigortası ile hastalık sigortaları bu Yönetmeliğin kapsamı dışındadır.
+**MADDE 2 –** (1) Bu Yönetmelik; bilgilendirme ve teklif, sözleşme türleri, ömür boyu yenileme garantisi, katılım sertifikası, plan değişikliği ve geçiş işlemleri, sözleşme iptali, sigorta süresinin sona ermesinden sonraki tedavilere ilişkin genel hükümler ile özel sağlık sigortası tarifesi, sağlık konularında uzman kişi çalıştırma zorunluluğu ve aktüerya raporu, hizmet satın alma, sağlık bilgileri ve bilgilerin gizliliği, özel sağlık sigortalarında çalışma esasları ile tamamlayıcı ve destekleyici sağlık sigortası ürünlerine ilişkin diğer hükümleri kapsamaktadır. **(Değişik cümle:RG-20/10/2025-33053) (1)** Seyahat sağlık sigortası ile hastalık sigortaları bu Yönetmeliğin kapsamı dışındadır.
 
 #### Dayanak
 
@@ -68,7 +68,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Özel Sağlık Sigortalarına İlişkin Genel Hükümler
+**Özel Sağlık Sigortalarına İlişkin Genel Hükümler**
 
 #### Bilgilendirme ve teklif
 
@@ -178,7 +178,7 @@ c) Ödenen tazminatların sözleşme primine oranına bağlı ek prim uygulayama
 
 **MADDE 10 –** (1) Sigorta ettiren ve sigortalı, sözleşme tanzim tarihinden itibaren ilk otuz gün içerisinde iptal talebinde bulunursa ve bu süre içerisinde sigortalıya veya adına herhangi bir tazminat ödenmemişse, ödenen primler beş iş günü içerisinde kesintisiz olarak iade edilir. Sonraki günlerde yapılan iptal talebi üzerine şirketin hak etmediği prim sözleşme özel şartlarına göre aynı süre içerisinde iade edilir.
 
-(2) Sigorta ettirenin vefatı durumunda kanuni varislerin vereceği muvafakatname ile sigorta ettiren değiştirilerek sözleşme devam ettirilebilir. Kanuni varislerin sözleşmenin devamını kabul etmediği durumda, şirketin hak etmediği prim sözleşme özel şartlarına göre kanuni varislere iade edilir ve sigortalıya konu hakkında yazılı veya (Değişik ibare:RG-20/10/2025-33053) (1) kalıcı veri saklayıcısı aracılığıyla bilgilendirme yapılır.
+(2) Sigorta ettirenin vefatı durumunda kanuni varislerin vereceği muvafakatname ile sigorta ettiren değiştirilerek sözleşme devam ettirilebilir. Kanuni varislerin sözleşmenin devamını kabul etmediği durumda, şirketin hak etmediği prim sözleşme özel şartlarına göre kanuni varislere iade edilir ve sigortalıya konu hakkında yazılı veya **(Değişik ibare:RG-20/10/2025-33053) (1)** kalıcı veri saklayıcısı aracılığıyla bilgilendirme yapılır.
 
 (3) Sigortalının vefatı durumunda şirketin hak etmediği prim sigorta ettirene, vefat eden sigortalının aynı zamanda sigorta ettiren olması durumunda ise kanuni varislerine sözleşme özel şartlarına göre iade edilir. Sigortalının tedavi görürken vefat etmesi durumunda, tedavi süresi içerisinde oluşan giderler sözleşmenin teminat kapsamı ve şartları dahilinde sağlık hizmeti sunucusuna veya kanuni varislerine ödenir.
 
@@ -190,23 +190,23 @@ c) Ödenen tazminatların sözleşme primine oranına bağlı ek prim uygulayama
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Diğer Hükümler
+**Diğer Hükümler**
 
 #### Özel sağlık sigortası tarifesi
 
-**MADDE 12 –** (1) Tarife, teknik esaslar ve özel şartlardan oluşur. Tarife, sigortacılık mevzuatına aykırı olamaz. İlk defa uygulamaya konulacak tarifeler şirketlerce uygulanmaya konmadan on beş iş günü öncesinde (Değişik ibare:RG-20/10/2025-33053) (1) Kurumun belirleyeceği usul ve esaslar çerçevesinde (Değişik ibare:RG-20/10/2025-33053) (1) Merkeze gönderilir.
+**MADDE 12 –** (1) Tarife, teknik esaslar ve özel şartlardan oluşur. Tarife, sigortacılık mevzuatına aykırı olamaz. İlk defa uygulamaya konulacak tarifeler şirketlerce uygulanmaya konmadan on beş iş günü öncesinde **(Değişik ibare:RG-20/10/2025-33053) (1)** Kurumun belirleyeceği usul ve esaslar çerçevesinde **(Değişik ibare:RG-20/10/2025-33053) (1)** Merkeze gönderilir.
 
 (2) Teknik esaslar ve özel şartlarda; sözleşmenin vade yapısı, sözleşme türü, sigortalanabilme yaşı, prim tespitine ilişkin kriterler, bireysel sözleşmeler için prim indirim ve artırım oranları ve açıklamaları, hangi süre zarfında sözleşmenin yenilenmesi gerektiği belirtilir. Ayrıca, şirket bu hususlara ilişkin olarak sigorta ettireni ve sigortalıyı bilgilendirir.
 
-(3) (Değişik ibare:RG-20/10/2025-33053) (1) Kurum , tarifelerde mevzuata ve sigortacılık esaslarına aykırı bulunan veya sigorta ettirenler ve sigortalıların hak ve menfaatlerinin korunması açısından uygulanmalarında sakınca görülen hususların değiştirilmesini talep edebilir.
+(3) **(Değişik ibare:RG-20/10/2025-33053) (1)** Kurum , tarifelerde mevzuata ve sigortacılık esaslarına aykırı bulunan veya sigorta ettirenler ve sigortalıların hak ve menfaatlerinin korunması açısından uygulanmalarında sakınca görülen hususların değiştirilmesini talep edebilir.
 
-(4) Teknik esaslar, özel şartlar, prim hesaplamasında kullanılan tablolar ve tarifeye eklenecek diğer bilgi ve belgeler ile talep edilebilecek rapor ve bildirimler, (Değişik ibare:RG-20/10/2025-33053) (1) Kurumca tespit edilen yetkiler kapsamında, (Değişik ibare:RG-20/10/2025-33053) (1) aktüer veya yardımcı aktüer tarafından imzalanarak şirketçe muhafaza edilir.
+(4) Teknik esaslar, özel şartlar, prim hesaplamasında kullanılan tablolar ve tarifeye eklenecek diğer bilgi ve belgeler ile talep edilebilecek rapor ve bildirimler, **(Değişik ibare:RG-20/10/2025-33053) (1)** Kurumca tespit edilen yetkiler kapsamında, **(Değişik ibare:RG-20/10/2025-33053) (1)** aktüer veya yardımcı aktüer tarafından imzalanarak şirketçe muhafaza edilir.
 
 #### Sağlık meslek mensubu çalıştırma zorunluluğu ve aktüerya raporu
 
 **MADDE 13 –** (1) Şirket, sigortalıya ilişkin bilgi ve belgeler hakkında şirketin değerlendirme esasları ve sözleşme hükümleri kapsamında görüş verebilecek, kadrosunda çalışan veya şirket ile anlaşmalı, hekim veya uzman hekim veya diğer sağlık meslek mensubu en az bir kişi görevlendirir.
 
-(2) Aktüer, şirketin özel sağlık sigortası faaliyetleri ile ilgili olarak yılsonu itibarıyla hazırladığı aktüerya raporunu (Değişik ibare:RG-20/10/2025-33053) (1) Kurumca belirlenen usul ve esaslar çerçevesinde (Değişik ibare:RG-20/10/2025-33053) (1) Merkeze gönderir. Birden fazla aktüerle çalışılması hâlinde, aktüerya raporunun hazırlanması için aktüerlerden biri şirket tarafından görevlendirilir.
+(2) Aktüer, şirketin özel sağlık sigortası faaliyetleri ile ilgili olarak yılsonu itibarıyla hazırladığı aktüerya raporunu **(Değişik ibare:RG-20/10/2025-33053) (1)** Kurumca belirlenen usul ve esaslar çerçevesinde **(Değişik ibare:RG-20/10/2025-33053) (1)** Merkeze gönderir. Birden fazla aktüerle çalışılması hâlinde, aktüerya raporunun hazırlanması için aktüerlerden biri şirket tarafından görevlendirilir.
 
 #### Hizmet satınalma
 
@@ -236,7 +236,7 @@ Diğer Hükümler
 
 a) Sağlık hizmet sunucusu ile iletişimi sağlamak ve tazminat ödemelerini hızlı bir şekilde gerçekleştirmek üzere gerekli idari ve teknik alt yapıyı kurması zorunludur.
 
-b) Bilgi işlem altyapısının (Değişik ibare:RG-20/10/2025-33053) (1 ) Merkez tarafından istenilen bilgileri zamanında ve kesintisiz bir şekilde sağlaması zorunludur. (Değişik ibare:RG-20/10/2025-33053) (1) Merkez , bilgi aktarımı ve bilgi işlem altyapısı ile (Değişik ibare:RG-20/10/2025-33053) (1 ) Kurumca belirlenecek diğer hususlarla ilgili incelemeleri yaparak tespit ve değerlendirmelerini (Değişik ibare:RG-20/10/2025-33053) (1 ) Kuruma iletir.
+b) Bilgi işlem altyapısının **(Değişik ibare:RG-20/10/2025-33053) (1 )** Merkez tarafından istenilen bilgileri zamanında ve kesintisiz bir şekilde sağlaması zorunludur. **(Değişik ibare:RG-20/10/2025-33053) (1)** Merkez , bilgi aktarımı ve bilgi işlem altyapısı ile **(Değişik ibare:RG-20/10/2025-33053) (1 )** Kurumca belirlenecek diğer hususlarla ilgili incelemeleri yaparak tespit ve değerlendirmelerini **(Değişik ibare:RG-20/10/2025-33053) (1 )** Kuruma iletir.
 
 #### Tamamlayıcı ve destekleyici sağlık sigortası ürünleri
 
@@ -252,7 +252,7 @@ b) Genel sağlık sigortalısının SGK tarafından karşılanmayan Türkiye’d
 
 (4) İkinci fıkranın (a) bendindeki giderler için tenzili muafiyet uygulanmaz.
 
-(5) (Ek:RG-20/10/2025-33053) (1) Sağlık hizmetlerinden yararlananların Kanunun 68 inci maddesi kapsamında ödemekle yükümlü oldukları katılım payları, özel sigorta şirketleri tarafından teminat veya ödeme konusu yapılamaz.
+(5) **(Ek:RG-20/10/2025-33053) (1)** Sağlık hizmetlerinden yararlananların Kanunun 68 inci maddesi kapsamında ödemekle yükümlü oldukları katılım payları, özel sigorta şirketleri tarafından teminat veya ödeme konusu yapılamaz.
 
 #### Yürürlükte bulunan sözleşmeler
 
@@ -274,7 +274,7 @@ b) Genel sağlık sigortalısının SGK tarafından karşılanmayan Türkiye’d
 
 _______
 
-(1) Bu değişiklik 1/1/2026 tarihinde yürürlüğe girer.
+<i>(1) Bu değişiklik 1/1/2026 tarihinde yürürlüğe girer.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

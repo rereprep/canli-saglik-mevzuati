@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -48,7 +48,7 @@ f) İl Sınav Komisyonu: Kurulunun belirleyeceği bir üye veya uzman, eğitim k
 
 g) Kursiyer: Eğitim merkezlerinde enfeksiyon kontrol hemşireliği eğitimi verilecek olan hemşireyi,
 
-ğ) Kurul: (Değişik:R.G.:12/12/2007-26728) Bakanlık Makamının 16/5/2007 tarihli 7716 sayılı Oluru ile yürürlüğe giren "Hastane Enfeksiyonları Bilimsel Danışma Kurulunun Teşkili, Görevleri ile Çalışma Usul ve Esasları Hakkında Yönerge"nin 5 inci maddesi uyarınca belirlenecek "Hastane Enfeksiyonları Bilimsel Danışma Kurulu’nu
+ğ) Kurul: **(Değişik:R.G.:12/12/2007-26728)** Bakanlık Makamının 16/5/2007 tarihli 7716 sayılı Oluru ile yürürlüğe giren "Hastane Enfeksiyonları Bilimsel Danışma Kurulunun Teşkili, Görevleri ile Çalışma Usul ve Esasları Hakkında Yönerge"nin 5 inci maddesi uyarınca belirlenecek "Hastane Enfeksiyonları Bilimsel Danışma Kurulu’nu
 
 h) Müdürlük: İl sağlık müdürlüklerini,
 
@@ -62,7 +62,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Eğitim Merkezlerinin, Eğitimcilerin ve Kursiyerlerin Nitelikleri
+**Eğitim Merkezlerinin, Eğitimcilerin ve Kursiyerlerin Nitelikleri**
 
 #### Eğitim merkezlerinin nitelikleri
 
@@ -76,7 +76,7 @@ c) En az bir yıldır hastane enfeksiyonu sürveyans verilerinin bilgisayar orta
 
 ç) Her 250 yatak için tam gün görev yapan ve ek görevi bulunmayan, hemşirelikte en az lisans mezunu bir enfeksiyon kontrol hemşiresi bulunması,
 
-d) (Değişik: RG-21/12/2006-26383) Hastane enfeksiyonları ve epidemiyolojisi konusunda tercihen ulusal veya uluslararası sertifikaya sahip bir enfeksiyon kontrol hekiminin bulunması
+d) **(Değişik: RG-21/12/2006-26383)** Hastane enfeksiyonları ve epidemiyolojisi konusunda tercihen ulusal veya uluslararası sertifikaya sahip bir enfeksiyon kontrol hekiminin bulunması
 
 e) Eğitimci sayısının en az beş olması ve bu eğitimcilerden en az birinin bir enfeksiyon kontrol hekimi olması zorunludur.
 
@@ -112,7 +112,7 @@ b) Pratik eğitimlerde görev alacak hekimlerin, enfeksiyon kontrol hekimi olmas
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Eğitim Programına İlişkin Genel Esaslar ve Eğitim Programı
+**Eğitim Programına İlişkin Genel Esaslar ve Eğitim Programı**
 
 #### Eğitim programına ilişkin genel esaslar
 
@@ -130,7 +130,7 @@ Eğitim Programına İlişkin Genel Esaslar ve Eğitim Programı
 
 **MADDE 12 –** (1) 9 uncu maddede belirtilen nitelikleri taşıyan hemşireler görev yaptıkları kurumlar aracılığıyla Enfeksiyon Kontrol Hemşireliği Sertifika Programına müracaat ederler. Başvuru dilekçeleri ve kurumlarının uygunluk yazıları Bakanlıkça değerlendirilir ve talebin uygun bulunması halinde kursiyer kursa başlatılır.
 
-(2) (Değişik: RG-21/12/2006-26383) Eğitime katılacak kursiyer kontenjanının % 65’i Bakanlık, % 25’i üniversite ve % 10’u diğer hastanelerde çalışan hemşirelere ayrılacaktır. Bakanlık mevcut ihtiyaçlar ve başvurulara göre gerekli durumlarda Kurul görüşünü alarak bu dağılımda değişiklik yapabilir.
+(2) **(Değişik: RG-21/12/2006-26383)** Eğitime katılacak kursiyer kontenjanının % 65’i Bakanlık, % 25’i üniversite ve % 10’u diğer hastanelerde çalışan hemşirelere ayrılacaktır. Bakanlık mevcut ihtiyaçlar ve başvurulara göre gerekli durumlarda Kurul görüşünü alarak bu dağılımda değişiklik yapabilir.
 
 #### Eğitim programına devam zorunluluğu
 
@@ -140,11 +140,11 @@ Eğitim Programına İlişkin Genel Esaslar ve Eğitim Programı
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Sınav ve Değerlendirme Usul ve Esasları
+**Sınav ve Değerlendirme Usul ve Esasları**
 
 #### Sınav sorularının hazırlanması
 
-**MADDE 14 –** (1) (Değişik fıkra:R.G.:12/12/2007-26728) Bu eğitim sonunda yapılacak sınavlarda sorulacak sorular, Kurul tarafından Ek-1'de belirtilen konuları kapsayacak şekilde en az 50 adet hazırlanır. Sınavlar, yılda iki defa Bakanlığın bildireceği gün, saat ve merkez(ler)de yapılır. Kursiyerler eğitimi takip eden altı ay içerisinde yapılacak ilk sınava girmekle yükümlüdürler.
+**MADDE 14 –** (1) **(Değişik fıkra:R.G.:12/12/2007-26728)** Bu eğitim sonunda yapılacak sınavlarda sorulacak sorular, Kurul tarafından Ek-1'de belirtilen konuları kapsayacak şekilde en az 50 adet hazırlanır. **Sınavlar**, yılda iki defa Bakanlığın bildireceği gün, saat ve merkez(ler)de yapılır. Kursiyerler eğitimi takip eden altı ay içerisinde yapılacak ilk sınava girmekle yükümlüdürler.
 
 #### Sınavlar
 
@@ -192,9 +192,9 @@ c) Soruların yetkili olmayan kişilerce sınavlardan önce görülmüş olması
 
 #### Sertifikalandırma
 
-**MADDE 21 –** (1) (Değişik:RG-17/7/2008-26939) Kursiyerlerin eğitim çalışmalarına dair uygulama ve devam durumlarını gösteren belgeler eğitim merkezi tarafından hazırlanarak bir dosya halinde eğitimin bitimini takiben bir hafta içinde Müdürlüğe ve Müdürlük tarafından Sağlık Bakanlığına gönderilir. Sınav hakkı kazanıp sınav sonucunda 75 puan ve üzeri alarak başarılı olan kursiyerlere Bakanlıkça sertifika düzenlenir.
+**MADDE 21 –** (1) **(Değişik:RG-17/7/2008-26939)** Kursiyerlerin eğitim çalışmalarına dair uygulama ve devam durumlarını gösteren belgeler eğitim merkezi tarafından hazırlanarak bir dosya halinde eğitimin bitimini takiben bir hafta içinde Müdürlüğe ve Müdürlük tarafından Sağlık Bakanlığına gönderilir. Sınav hakkı kazanıp sınav sonucunda 75 puan ve üzeri alarak başarılı olan kursiyerlere Bakanlıkça sertifika düzenlenir.
 
-(2) (Değişik:RG-17/7/2008-26939) Eğitimi tamamlayıp sınav hakkı kazanan kursiyerler eğitimlerini takip eden ilk üç sınava girebilir. Bu üç sınavdan herhangi birinde başarılı olamayan ve sertifika almaya hak kazanamayanlar Tebliğ'de belirtilen usul ve esaslara göre tekrar sertifika eğitimine başvurabilir.
+(2) **(Değişik:RG-17/7/2008-26939)** Eğitimi tamamlayıp sınav hakkı kazanan kursiyerler eğitimlerini takip eden ilk üç sınava girebilir. Bu üç sınavdan herhangi birinde başarılı olamayan ve sertifika almaya hak kazanamayanlar Tebliğ'de belirtilen usul ve esaslara göre tekrar sertifika eğitimine başvurabilir.
 
 (3) Alınan sertifikanın geçerlilik süresi yedi yıldır. Bu sürenin bitiminde eğitime katılmaksızın, yeniden sınava tabi tutularak sınavdan 100 üzerinden en az 75 puan alınması halinde sertifika yenilenir. Sınavın yapılacağı eğitim merkezleri, sınav yeri ve tarihi, en az bir ay önce Bakanlıkça ilan edilir.
 
@@ -202,7 +202,7 @@ c) Soruların yetkili olmayan kişilerce sınavlardan önce görülmüş olması
 
 ### BEŞİNCİ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Hüküm bulunmayan haller
 
@@ -277,7 +277,7 @@ Son Hükümler
 
 12. Sorun Mikroorganizmaların Kontrolü, İzolasyon Uygulamaları
 
-TOPLAM 90 Saat
+**TOPLAM 90 Saat**
 
 | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

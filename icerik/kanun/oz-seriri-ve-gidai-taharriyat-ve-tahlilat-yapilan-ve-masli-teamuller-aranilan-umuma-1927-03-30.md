@@ -20,11 +20,11 @@ durum: "yürürlükte"
 
 ### KANUNU [1]
 
-Kanun Numarası : 992
+**Kanun Numarası : 992**
 
-Kabul Tarihi : 19/3/1927
+**Kabul Tarihi : 19/3/1927**
 
-Yayımlandığı Resmî Gazete : Tarih: 30/3/1927 Sayı: 580
+**Yayımlandığı Resmî Gazete : Tarih: 30/3/1927 Sayı: 580**
 
 #### Yayımlandığı Düstur : Tertip: 3 Cilt: 8 Sayfa: 149
 
@@ -32,7 +32,7 @@ Yayımlandığı Resmî Gazete : Tarih: 30/3/1927 Sayı: 580
 
 **Madde 2 –** Laboratuvar açacak her mütehassıs mahalli sıhhiye ve muaveneti içtimaiye müdiriyetine bir istida ile müracaat eder ve bu istidasına atideki evrak raptedilir.
 
-A – (Değişik: 27/1/1930- 1551/1 md.) Nüfus tezkeresi, diploma, tababet ve şuabatı sanatlarının tarzı icrasına dair kanun ile ilgili mevzuatta münderiç ihtisas vesikaları hakkındaki hükümlere muvafık olarak alınmış vesikalar veya suretleri.[2]
+A **– (Değişik: 27/1/1930- 1551/1 md.)** Nüfus tezkeresi, diploma, tababet ve şuabatı sanatlarının tarzı icrasına dair kanun ile ilgili mevzuatta münderiç ihtisas vesikaları hakkındaki hükümlere muvafık olarak alınmış vesikalar veya suretleri.[2]
 
 B – Laboratuvarların ismi, muvazzah adresi ve krokisi, iştigal edeceği tahlilatın envar ve tahlilatın her nev'ine nazaran tesbit edilen ücretler miktarı laboratuvarlarda şerik veya memur sıfatiyle ifayı vazife edecek mütehassısların isimlerini, alatını ve edavatını ve echize ve müfredatını muhtevi beyanname.
 
@@ -75,8 +75,8 @@ Fenne uygun tahliller yerine getirilmediği ve beyannamesinde belirtilen hüküm
 | 6225 | 9 | 26/4/2011 |
 | KHK/700 | 2 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 
-<small>[1] 24/6/1995 tarihli ve 560 sayılı KHK'nin 21 inci maddesiyle bu Kanunun başlığında yer alan "ve Gıdai" ibaresi ile, 1 inci maddesindeki "gıdai ve" ibaresi, yürürlükten kaldırılmış olup, bu değişiklik 27/5/2004 tarihli ve 5179 sayılı Kanunun 35 inci maddesiyle aynen kabul edilerek Kanunlaşmıştır.</small>
+<small>[1] <i>24/6/1995 tarihli ve 560 sayılı KHK'nin 21 inci maddesiyle bu Kanunun başlığında yer alan "ve Gıdai" ibaresi ile, 1 inci maddesindeki "gıdai ve" ibaresi, yürürlükten kaldırılmış olup, bu değişiklik 27/5/2004 tarihli ve 5179 sayılı Kanunun 35 inci maddesiyle aynen kabul edilerek Kanunlaşmıştır.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 3 üncü maddesiyle, bu bentte yer alan “nizamnamesinde” ibaresi “ilgili mevzuatta” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 3 üncü maddesiyle, bu bentte yer alan “nizamnamesinde” ibaresi “ilgili mevzuatta” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] Bu arada yeralan "ve gıdai" ibaresi, 24/6/1995 tarihli ve 560 sayılı KHK'nin 21 inci maddesiyle yürürlükten kaldırılmış olup, bu değişiklik 27/5/2004 tarihli ve 5179 sayılı Kanunun 35 inci maddesiyle aynen kabul edilerek Kanunlaşmıştır.</small>
+<small>[3] <i>Bu arada yeralan "ve gıdai" ibaresi, 24/6/1995 tarihli ve 560 sayılı KHK'nin 21 inci maddesiyle yürürlükten kaldırılmış olup, bu değişiklik 27/5/2004 tarihli ve 5179 sayılı Kanunun 35 inci maddesiyle aynen kabul edilerek Kanunlaşmıştır.</i></small>

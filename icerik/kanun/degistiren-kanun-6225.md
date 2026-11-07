@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/04/20110426-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 6225 Kabul Tarihi: 6/4/2011
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 6225** Kabul Tarihi: 6/4/2011
 
 MADDE 1 − 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 6 ncı maddesinin ikinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Bu fıkra kapsamında belirli bir projenin gerçekleştirilmesi amacıyla il özel idaresine aktarıldığı halde, aktarıldığı mali yılı takip eden yıl sonuna kadar tahsis edildiği proje için kullanılamayacağı anlaşılan ödenekler, ilgili Bakanın onayı ile bu fıkra kapsamında değerlendirilmek ve başka bir projede kullanılmak üzere aynı veya başka bir il özel idaresine veya ilgili mevzuatı çerçevesinde kullanılmak üzere Toplu Konut İdaresine aktarılabilir.”
@@ -112,7 +112,7 @@ Tabiplerce veya tabiplerin yönlendirmesiyle ilgili sağlık meslek mensubu tara
 Diploması veya meslek belgesi olmadan bu maddede tanımlanan meslek mensuplarının yetkisinde olan bir işi yapan veya bu unvanı takınanlar bir yıldan üç yıla kadar hapis ve ikiyüz günden beşyüz güne kadar adli para cezası ile cezalandırılır.”
 
 MADDE 10 − 1219 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
-“EK MADDE 14 − Tıpta uzmanlık ana dalları ile eğitim süreleri EK–1 sayılı çizelgede; diş tabipliğinde uzmanlık ana dalları ile eğitim süreleri EK–2 sayılı çizelgede; tıpta uzmanlık yan dalları, bağlı ana dalları ve eğitim süreleri de EK–3 sayılı çizelgede belirtilmiştir. Bu çizelgelerde belirtilen eğitim süreleri, Sağlık Bakanlığınca, Tıpta Uzmanlık Kurulunun kararı üzerine üçte bir oranına kadar arttırılabilir.
+“EK MADDE 14 − Tıpta uzmanlık ana dalları ile eğitim süreleri **EK–1** sayılı çizelgede; diş tabipliğinde uzmanlık ana dalları ile eğitim süreleri **EK–2** sayılı çizelgede; tıpta uzmanlık yan dalları, bağlı ana dalları ve eğitim süreleri de **EK–3** sayılı çizelgede belirtilmiştir. Bu çizelgelerde belirtilen eğitim süreleri, Sağlık Bakanlığınca, Tıpta Uzmanlık Kurulunun kararı üzerine üçte bir oranına kadar arttırılabilir.
 Tıpta ve diş tabipliğinde ana uzmanlık dalı eğitimlerine, merkezi olarak yapılacak tıpta ve diş tabipliğinde uzmanlık sınavları ile girilir. Yan dal uzmanlık eğitimlerine ve EK-1 sayılı çizelgenin 3 üncü sütununda belirtilen uzmanların ikinci uzmanlık eğitimlerine girişleri merkezi olarak yapılacak yan dal uzmanlık sınavı ile olur.
 Uzmanlık dallarının eğitim müfredatları ve bu müfredatlara göre uzmanlık dallarının temel uygulama alanları ile görev ve yetkilerinin çerçevesi Tıpta Uzmanlık Kurulunca belirlenir.”
 
@@ -160,7 +160,7 @@ MADDE 18 − 5502 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “GEÇİCİ MADDE 9 − Hakkında inceleme, soruşturma, teftiş işlemi devam edenler ile örnekleme için tespit edilen sağlık hizmet sunucuları tarafından teslim edilen fatura, reçete ve eki belgeler hariç olmak üzere sağlık hizmet sunucularından temin edilen hizmet bedellerini gösterir fatura, reçete ve eki belgelerden, bu maddenin yürürlük tarihine kadar incelemesi tamamlanarak bütçeye gider kaydedilenler, ödemenin yapıldığı mali yılı izleyen beşinci yıldan sonra imha edilir. Bunlardan, hakkında inceleme, soruşturma, teftiş işlemi devam eden sağlık hizmet sunucuları tarafından teslim edilen fatura, reçete ve eki belgeler ise inceleme, soruşturma, teftiş işlemi tamamlandıktan sonra yargı süreci söz konusu değilse imha edilir.”
 
 MADDE 19 − 2/7/1993 tarihli ve 485 sayılı Gümrük Müsteşarlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye aşağıdaki geçici madde eklenmiştir.
-“GEÇİCİ MADDE 12 − Bu maddenin yürürlüğe girdiği tarihten itibaren iki yıl içinde, 657 sayılı Devlet Memurları Kanununda belirtilen genel ve özel şartları taşımaları kaydıyla, Müsteşarlık tarafından belirlenecek alan veya bölümlerde ön lisans ve lisans düzeyinde eğitim veren yükseköğretim kurumları ile bunlara denkliği kabul edilen yurt dışındaki yükseköğretim kurumlarından mezun olup, Kurum tarafından belirlenecek alan ve puan türlerine göre Kamu Personel Seçme Sınavı başarı sırasına göre tespit edilecek 2000 kişi, merkezi yönetim bütçe kanunlarında yer alan açıktan veya naklen atamaya ilişkin kadro sayısı kısıtlamalarına tabi olmaksızın, bu Kanunda öngörülen usul ve esaslara göre Kurum tarafından belirlenecek kadrolara atanırlar.
+“GEÇİCİ MADDE 12 − Bu maddenin yürürlüğe girdiği tarihten itibaren iki yıl içinde, 657 sayılı Devlet Memurları Kanununda belirtilen genel ve özel şartları taşımaları kaydıyla, Müsteşarlık tarafından belirlenecek alan veya bölümlerde ön lisans ve lisans düzeyinde eğitim veren yükseköğretim kurumları ile bunlara denkliği kabul edilen yurt dışındaki yükseköğretim kurumlarından mezun olup, Kurum tarafından belirlenecek alan ve puan türlerine göre Kamu Personel Seçme Sınavı başarı sırasına göre tespit edilecek **2000** kişi, merkezi yönetim bütçe kanunlarında yer alan açıktan veya naklen atamaya ilişkin kadro sayısı kısıtlamalarına tabi olmaksızın, bu Kanunda öngörülen usul ve esaslara göre Kurum tarafından belirlenecek kadrolara atanırlar.
 Bu amaçla, ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Gümrük Müsteşarlığına ilişkin bölümüne eklenmiştir.”
 
 MADDE 20 − Ekli

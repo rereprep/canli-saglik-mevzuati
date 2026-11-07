@@ -12,11 +12,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/05/20130503-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE YER ALAN ENGELLİ BİREYLERE YÖNELİK İBARELERİN DEĞİŞTİRİLMESİ AMACIYLA BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE YER ALAN ENGELLİ BİREYLERE YÖNELİK İBARELERİN DEĞİŞTİRİLMESİ AMACIYLA BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6462 Kabul Tarihi: 25/4/2013
 
-MADDE 1 – Bu maddenin yayımı tarihinde;
+**MADDE 1 –** Bu maddenin yayımı tarihinde;
 1) 18/3/1924 tarihli ve 442 sayılı Köy Kanununun;
 a) 74 üncü maddesinin üçüncü fıkrasında yer alan “sakatlanmaları” ibaresi “engelli hâle gelmeleri”,
 b) Ek 16 ncı maddesinin dördüncü fıkrasında yer alan “sakatlananların” ibaresi “engelli hâle gelenlerin”,
@@ -255,11 +255,11 @@ b) 43 üncü maddesinin birinci fıkrasında yer alan “Özürlü”, “özür
 95) 26/9/2011 tarihli ve 660 sayılı Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 5 inci maddesinin ikinci fıkrasında yer alan “sakatlık” ibaresi “engellilik”,
 96) 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 23 üncü maddesinin yedinci fıkrasının (c) ve (ç) bentlerinde yer alan “özürlülüğüne” ibareleri “engelliliğine”, şeklinde değiştirilmiştir.
 
-MADDE 2 – 5378 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+**MADDE 2 –** 5378 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
 “Mevcut belgelerin geçerliliği
 
 GEÇİCİ MADDE 5 – Engelli bireylerin bu maddenin yürürlüğe girdiği tarihten önce ilgili mevzuatına göre almış oldukları sağlık kurulu raporlarına istinaden hâlen yararlanmakta oldukları hak ve menfaatlerin, sağlık kurulu raporu dışındaki diğer şartların muhafaza edilmesi ve ilgili mevzuatına göre bu hak ve menfaatlerin devamının mümkün olması kaydıyla, önceki raporların geçerlilik süresi içinde aynı şekilde uygulanmasına devam olunur. Ayrıca, engelli bireylerin ilgili mevzuatına uygun olarak daha önceden almış oldukları sağlık kurulu raporlarına istinaden engellilik durumlarının tespitine veya engellilikleri dolayısıyla kendilerine veya yakınlarına kolaylıklar ya da haklar teminine yönelik olarak bu maddenin yayımı tarihine kadar verilmiş olan özürlü, sakat, çürük veya zihinsel ya da bedensel engelleri niteleyen benzeri ibareleri içeren belge, kimlik, kart ve benzeri belgelerin, geçerli oldukları süreler dâhilinde yenilenmeleri gerekmez.”
 
-MADDE 3 – Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 3 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 4 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 4 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

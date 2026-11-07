@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-2.htm"
 durum: "yürürlükte"
 ---
 
-T.C. Resmî Gazete Resmî Gazete KANUN
-GELİR VERGİSİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5615 Kabul Tarihi : 28/3/2007
+T.C. Resmî Gazete Resmî Gazete **KANUN**
+**GELİR VERGİSİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5615 Kabul Tarihi : 28/3/2007**
 
 MADDE 1 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 9 uncu maddesinin birinci fıkrasının (6) numaralı bendi ile mülga ikinci fıkrasından sonra gelen üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 "6.

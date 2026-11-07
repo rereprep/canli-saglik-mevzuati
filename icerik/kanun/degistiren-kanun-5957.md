@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
 SEBZE VE MEYVELER İLE YETERLİ ARZ VE TALEP DERİNLİĞİ BULUNAN DİĞER MALLARIN TİCARETİNİN DÜZENLENMESİ HAKKINDA KANUN
-Kanun No. 5957 Kabul Tarihi: 11/3/2010 Amaç ve kapsam
+Kanun No. 5957 **Kabul Tarihi: 11/3/2010** Amaç ve kapsam
 
 MADDE 1 –
 (1) Bu Kanunun amacı, sebze ve meyveler ile arz ve talep derinliğine göre belirlenecek diğer malların ticaretinin kaliteli, standartlara ve gıda güvenilirliğine uygun olarak serbest rekabet şartları içinde yapılmasını, malların etkin şekilde tedarikini, dağıtımını ve satışını, üretici ve tüketicilerin hak ve menfaatlerinin korunmasını, meslek mensuplarının faaliyetlerinin düzenlenmesini, toptancı halleri ile pazar yerlerinin çağdaş bir sisteme kavuşturulmasını ve işletilmesini sağlamaktır.

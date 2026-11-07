@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair **Yönetmelik**
 
 MADDE 1 — 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmeliğin 36 ncı maddesinin ikinci fıkrasının (c) bendinde yer alan “ozon için 50 mg/L, bromat için 3.0 mg/L, ve bromoform için ise 1.0 mg/L” ibareleri “ozon için 50 g/L, bromat için 3.0 g/L ve bromoform için ise 1.0 g/L” olarak değiştirilmiştir.
 

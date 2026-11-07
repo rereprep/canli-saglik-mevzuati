@@ -26,7 +26,7 @@ Bildirim Sistemi
 
 Ülkemizde, sağlık ile ilgili temel veri kaynaklarından en önemlilerinden biri bulaşıcı hastalıkların ihbarı ve bildirimi ile elde edilen bilgilerdir. Bu bilgilerin en güvenilir ve sağlıklı şekilde elde edilmesi, mevcut dünya düzeni içinde bulaşıcı hastalıklar nedeniyle ülkelerin yaptırıma uğradığı bir dönemde, daha da önem kazanmaktadır.
 
-Bu amaçla ülkemizde Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi yenilenmiş olup, 01.01.2005 tarihinden itibaren uygulamaya başlanacaktır. Yeni bildirim sisteminin tanıtımı ve uygulanması için gerekli olan eğitim materyallerinden biri olan “Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi Standart Tanı, Sürveyans ve Laboratuar Rehberi” basılı olarak hazırlanmıştır. Ayrıca bu Rehber elektronik ortamda www.saglik.gov.tr. adresinden de temin edilebilecektir.
+Bu amaçla ülkemizde Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi yenilenmiş olup, 01.01.2005 tarihinden itibaren uygulamaya başlanacaktır. Yeni bildirim sisteminin tanıtımı ve uygulanması için gerekli olan eğitim materyallerinden biri olan “Bulaşıcı Hastalıkların İhbarı ve Bildirim Sistemi Standart Tanı, Sürveyans ve Laboratuar Rehberi” basılı olarak hazırlanmıştır. Ayrıca bu Rehber elektronik ortamda www.**saglik.gov.tr**. adresinden de temin edilebilecektir.
 
 Yeni Bildirim Sisteminin en iyi şekilde işlemesi için EK 1 ‘de gönderilen Yönergeye uygun hareket edilmesi gerekmektedir. Bu amaçla her sağlık kuruluşunda büyüklüğüne göre, bildirimden sorumlu bir birim veya kişi tespit edilecek ve bu birim/kişilerin aktif olarak görevlerini yapması sağlanacaktır.
 

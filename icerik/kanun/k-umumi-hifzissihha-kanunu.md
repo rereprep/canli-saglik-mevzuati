@@ -16,17 +16,17 @@ durum: "yürürlükte"
 
 ### UMUMİ HIFZISSIHHA KANUNU [1][2]
 
-Kanun Numarası : 1593
+**Kanun Numarası : 1593**
 
-Kabul Tarihi : 24/4/1930
+**Kabul Tarihi : 24/4/1930**
 
-Yayımlandığı Resmî Gazete : Tarihi: 6/5/1930 Sayı: 1489
+**Yayımlandığı Resmî Gazete : Tarihi: 6/5/1930 Sayı: 1489**
 
-Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 143
+**Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 143**
 
 ### BİRİNCİ BAP
 
-Sıhhi teşkilat
+**Sıhhi teşkilat**
 
 ### BİRİNCİ FASIL
 
@@ -92,7 +92,7 @@ Sıhhi teşkilat
 
 ### ÜÇÜNCÜ FASIL
 
-Yüksek Sıhhat Şürası
+**Yüksek Sıhhat Şürası**
 
 #### Madde 10 ilâ 15 - (Mülga: 11/10/2011-KHK-663/58 md.)
 
@@ -124,7 +124,7 @@ Yüksek Sıhhat Şürası
 
 7 - Sıcak ve soğuk hamamlar tesisi.
 
-8 - (Mülga: 24/6/1995-KHK-560/21 md.; Aynen kabul: 27/5/2004-5179/37 md.)
+8 - **(Mülga: 24/6/1995-KHK-560/21 md.; Aynen kabul: 27/5/2004-5179/37 md.)**
 
 9 - Umumi mahallerde halkın sıhhatine zarar veren amilleri izale.
 
@@ -160,7 +160,7 @@ Yüksek Sıhhat Şürası
 
 ### İKİNCİ BAP
 
-Sari ve salgın hastalıklarla mücadele
+**Sari ve salgın hastalıklarla mücadele**
 
 ### BİRİNCİ FASIL
 
@@ -180,7 +180,7 @@ Bir Türk limanından diğer bir Türk limanına veya ecnebi limanlarından bir 
 
 Türk gemilerinin patentaları üzerinde konsolosluk vizesinin bulunmasını mecburi kılan memleketlere mensup gemilerin Türk limanlarına ihtilât etmek üzere geldikleri ve hareket limanlarında Türk konsolosu mevcut bulunduğu takdirde bunların patentaları üzerinde konsolos vizesi bulunması mecburidir.
 
-M adde 34 – (Değişik: 15/6/1942 - 4255/1 md.)
+**M adde 34 – (Değişik: 15/6/1942 - 4255/1 md.)**
 
 Patentayı hamil olmaksızın boğazlara gelen transit gemilerin gösterecekleri sıhhi beyanname veyahut uğradıkları ecnebi limanlarından aldıkları gümrük veya liman permilerinde o limanın sıhhi durumu hakkında salahiyet sahibi makamlar tarafından verilmiş sıhhi meşruhat patenta yerine kaim olur.
 
@@ -540,7 +540,7 @@ Bulaşıcı bir hastalığı olduğu belgelenenler ile iş yerinin faaliyet ve h
 
 ### ALTINCI BAP
 
-Çocuk hıfzıssıhhası
+**Çocuk hıfzıssıhhası**
 
 ### BİRİNCİ FASIL
 
@@ -550,11 +550,11 @@ Bulaşıcı bir hastalığı olduğu belgelenenler ile iş yerinin faaliyet ve h
 
 **Madde 152 –** (....)[22] çocuk düşürmeğe vasıta olup Sıhhat ve İçtimai Muavenet Vekaletince tayin olunacak alat ve levazımın ithal ve satışı memnudur. Bunların tababette müstamel envaı Sıhhat ve İçtimai Muavenet Vekaletinin tayin edeceği şartlar dairesinde ithal edilir ve eczanelerde reçete ile satılır.
 
-**Madde 153 –** Devletin resmi müesseselerinde doğum yardımı meccanidir. (Mülga cümle:4/7/2012-6354/1 md.) (…)
+**Madde 153 –** Devletin resmi müesseselerinde doğum yardımı meccanidir. **(Mülga cümle:4/7/2012-6354/1 md.) (…)**
 
-(Ek fıkra: 4/7/2012-6354/1 md.) Gebe veya rahmindeki bebek için tıbbi zorunluluk bulunması hâlinde doğum, sezaryen ameliyatı ile yaptırılabilir.
+**(Ek fıkra: 4/7/2012-6354/1 md.)** Gebe veya rahmindeki bebek için tıbbi zorunluluk bulunması hâlinde doğum, sezaryen ameliyatı ile yaptırılabilir.
 
-(Ek fıkra: 4/7/2012-6354/1 md.) Gerekli tedbirlerin alınmasına rağmen, doğumu takiben anne veya bebekte meydana gelebilecek istenmeyen sonuçlardan dolayı hekim sorumlu tutulamaz.
+**(Ek fıkra: 4/7/2012-6354/1 md.)** Gerekli tedbirlerin alınmasına rağmen, doğumu takiben anne veya bebekte meydana gelebilecek istenmeyen sonuçlardan dolayı hekim sorumlu tutulamaz.
 
 **Madde 154 –** Hükümet ve belediye tabipleri ve ebeleri fakir kadınların doğurmasından meccanen yardıma mecburdurlar.
 
@@ -590,9 +590,9 @@ Bulaşıcı bir hastalığı olduğu belgelenenler ile iş yerinin faaliyet ve h
 
 ### İKİNCİ FASIL
 
-Süt hakkında
+**Süt hakkında**
 
-Madde 170 ila 172 - (Mülga: 24/6/1995 - KHK - 560/21 md.; Aynen kabul : 27/5/2004-5179/37 md.)
+**Madde 170 ila 172 - (Mülga: 24/6/1995 - KHK - 560/21 md.; Aynen kabul : 27/5/2004-5179/37 md.)**
 
 ### YEDİNCİ BAP
 
@@ -628,7 +628,7 @@ Kadınlarla 12 den 16 yaşına kadar çocukların istihdamı memnu olan sıhhate
 
 **Madde 181 –** (…) [24] umumi sıhhate taalük edip (183) ncü maddede envaı zikredilen eşya ve levazım, Sıhhat ve İçtimai Muavenet Vekaletinin teftiş ve murakabesine tabidir. Belediye teşekkül etmiş olan mahallerde bu murakabe vekaletin bu kanun dairesinde ıstar edeceği nizamnamelerle talimatlara tevfikan belediye tarafından ve belediyelerin bulunmadığı yerlerde vekalet sıhhi teşkilatına mensup memurlar tarafından icra edilir.[25]
 
-( Ek fıkra: 22/9/1983 - 2890/1 md.) Sağlık ve Sosyal Yardım Bakanlığı belediyelerin bu teftiş ve murakabe hizmetlerini sürekli kontrol edebileceği gibi, lüzum gördüğü yerlerde veya lüzum görülen işlerde doğrudan doğruya teftiş ve murakabe etmek üzere memur görevlendirir. Gerektiğinde (…) 24 183 üncü maddede sayılan eşya ve levazımın bakanlıkça tespit edilecek laboratuvarlarda tetkikini sağlar.
+( **Ek fıkra: 22/9/1983 - 2890/1 md.)** Sağlık ve Sosyal Yardım Bakanlığı belediyelerin bu teftiş ve murakabe hizmetlerini sürekli kontrol edebileceği gibi, lüzum gördüğü yerlerde veya lüzum görülen işlerde doğrudan doğruya teftiş ve murakabe etmek üzere memur görevlendirir. Gerektiğinde (…) 24 183 üncü maddede sayılan eşya ve levazımın bakanlıkça tespit edilecek laboratuvarlarda tetkikini sağlar.
 
 #### (Ek fıkra: 22/8/1983-2890/1 md; Mülga : 27/5/2004-5179/37 md.)
 
@@ -688,7 +688,7 @@ Seyyar esnaf, alakadar memurların teftişlerini ve numune almalarını kolayla�
 
 ### ONUNCU BAP
 
-Mezarlıklar, ölülerin defni, mezardan çıkarılması ve nakli
+**Mezarlıklar, ölülerin defni, mezardan çıkarılması ve nakli**
 
 ### BİRİNCİ FASIL
 
@@ -760,7 +760,7 @@ Ecnebi memleketlerden getirilen ölülerin nakline müsaade edildiğini ve nakli
 
 ### ON BİRİNCİ BAP
 
-Şehir ve kasabalar hıfzıssıhhası
+**Şehir ve kasabalar hıfzıssıhhası**
 
 ### BİRİNCİ FASIL
 
@@ -906,7 +906,7 @@ Birinci sınıf - Hususi meskenlerden behemehal uzak bulundurulmaları icap eden
 
 **Madde 280 –** Sıhhat ve İçtimai Muavenet Vekaleti sari ve salgın hastalıklardan korunma, çocuk büyütme ve sıhhi şartlar dairesinde yaşama gibi sıhhi meseleler hakkında halkı tenvir için kitap, levha, risale neşreder, sıhhi propaganda müessesatı yapar ve konferanslar verdirir ve her nevi sinema filimleri gösterir. Bu gibi hizmetler meccanidir.İcabı takdirinde lazım gelen vasıtaları haiz seyyar sıhhi propoganda kolları teşkil olunur.
 
-(Ek: 22/9/1983 - 2890/2 md.) Ana sütü ile beslenmenin önem ve üstünlüğünün öğretilmesi, yaygınlaştırılması,süt çocukları ve küçük çocukları besleme yönteminin öğretilmesi konularındaki eğitim ve öğretim; halk eğitimi ve beslenme konularında uygulamalı eğitim yapan gerçek ve tüzelkişilerle birlikte, Sağlık ve Sosyal Yardım Bakanlığı tarafından sağlanır. Bu eğitim, ana sütü ile beslenmenin yaygınlaştırılmasını önleyici veya çocuk besinlerini reklam edici nitelikte olamaz.
+**(Ek: 22/9/1983 - 2890/2 md.)** Ana sütü ile beslenmenin önem ve üstünlüğünün öğretilmesi, yaygınlaştırılması,süt çocukları ve küçük çocukları besleme yönteminin öğretilmesi konularındaki eğitim ve öğretim; halk eğitimi ve beslenme konularında uygulamalı eğitim yapan gerçek ve tüzelkişilerle birlikte, Sağlık ve Sosyal Yardım Bakanlığı tarafından sağlanır. Bu eğitim, ana sütü ile beslenmenin yaygınlaştırılmasını önleyici veya çocuk besinlerini reklam edici nitelikte olamaz.
 
 **Madde 281 –** Bütün mekteplerde en son ilmi müktesebata tevfikan hıfzıssıhha dersi tedrisatı mecburidir. Bu dersler mütehassıs zat tarafından tedris ve programları Maarif Vekaletiyle Sıhhat ve İçtimai Muavenet Vekaleti tarafından müştereken tesbit olunur.
 
@@ -1038,9 +1038,9 @@ Bu Kanun kapsamına giren ve umumun sıhhatine (…) 33 ilişkin davalara, mahke
 
 ### 1593 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
 
-1. 17/1/1949 tarihli ve 5305 sayılı Kanunun Geçici Maddesi:
+**1. 17/1/1949 tarihli ve 5305 sayılı Kanunun Geçici Maddesi:**
 
-Geçici Madde – Bu kanunun yürürlüğe girmesiyle halen görevli bulunan üyelerin üyelikleri düşer. Bunlar 11 inci maddedeki hükümlere göre yeniden seçilebilirler.
+**Geçici Madde –** Bu kanunun yürürlüğe girmesiyle halen görevli bulunan üyelerin üyelikleri düşer. Bunlar 11 inci maddedeki hükümlere göre yeniden seçilebilirler.
 
 ### 1593 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
 
@@ -1077,68 +1077,68 @@ Geçici Madde – Bu kanunun yürürlüğe girmesiyle halen görevli bulunan üy
 | KHK/700 | 6, 7, 19, 30, 50, 52, 55, 87, 88, 122, 128, 131, 141, 211, 294 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 | 7153 | 127 | 10/12/2018 |
 
-<small>[1] Bu Kanunda, il özel idaresinin sorumlu ve yetkili kılındığı görev ve hizmetlerle ilgili olarak, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm altına alınmıştır.</small>
+<small>[1] <i>Bu Kanunda, il özel idaresinin sorumlu ve yetkili kılındığı görev ve hizmetlerle ilgili olarak, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm altına alınmıştır.</i></small>
 
-<small>[2] Bu Kanunda, belediyenin sorumlu ve yetkili kılındığı görev ve hizmetlerle sınırlı olarak, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu hükümlerine aykırılık bulunması durumunda, 5393 sayılı Kanun hükümlerinin uygulanacağı, söz konusu Kanunun 84 üncü maddesi ile hüküm altına alınmıştır.</small>
+<small>[2] <i>Bu Kanunda, belediyenin sorumlu ve yetkili kılındığı görev ve hizmetlerle sınırlı olarak, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu hükümlerine aykırılık bulunması durumunda, 5393 sayılı Kanun hükümlerinin uygulanacağı, söz konusu Kanunun 84 üncü maddesi ile hüküm altına alınmıştır.</i></small>
 
-<small>[3] Bu bentteki "doğumu tezyit" hakkındaki hüküm 1/4/1965 tarih ve 557 sayılı Kanunun 8 inci maddesi ile ilga edilmiş olduğundan "tezyit" ibaresi metinden çıkarılmıştır.</small>
+<small>[3] <i>Bu bentteki "doğumu tezyit" hakkındaki hüküm 1/4/1965 tarih ve 557 sayılı Kanunun 8 inci maddesi ile ilga edilmiş olduğundan "tezyit" ibaresi metinden çıkarılmıştır.</i></small>
 
-<small>[4] 24/6/1995 tarihli ve 560 sayılı KHK'nin 21 inci maddesiyle bu bentte yer alan "Gıdalar ile" ibaresi, yürürlükten kaldırılmış olup, bu değişiklik 27/5/2004 tarihli ve 5179 sayılı Kanunun 37 nci maddesiyle aynen kabul edilerek Kanunlaşmıştır.</small>
+<small>[4] <i>24/6/1995 tarihli ve 560 sayılı KHK'nin 21 inci maddesiyle bu bentte yer alan "Gıdalar ile" ibaresi, yürürlükten kaldırılmış olup, bu değişiklik 27/5/2004 tarihli ve 5179 sayılı Kanunun 37 nci maddesiyle aynen kabul edilerek Kanunlaşmıştır.</i></small>
 
-<small>[5] 16/4/1934 tarih ve 2410 sayılı Kanunun 1 inci maddesiyle bu bentte yer alan "aşılar" ibaresi "aşıları murakabe" şeklinde değiştirilmiştir.</small>
+<small>[5] <i>16/4/1934 tarih ve 2410 sayılı Kanunun 1 inci maddesiyle bu bentte yer alan "aşılar" ibaresi "aşıları murakabe" şeklinde değiştirilmiştir.</i></small>
 
-<small>[6] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu fıkrada yer alan “kanun, nizam ve talimatlara” ibaresi “mevzuata” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu fıkrada yer alan “kanun, nizam ve talimatlara” ibaresi “mevzuata” şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “kanun, nizam, talimat” ibaresi “mevzuat” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “kanun, nizam, talimat” ibaresi “mevzuat” şeklinde değiştirilmiştir.</i></small>
 
-<small>[8] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “kanun ve nizamnamelerine” ibaresi “mevzuata” şeklinde değiştirilmiştir.</small>
+<small>[8] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “kanun ve nizamnamelerine” ibaresi “mevzuata” şeklinde değiştirilmiştir.</i></small>
 
-<small>[9] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “kanunlar, nizamlar ve talimatlar” ibaresi “mevzuat” ve “, kanunlar, nizamlar ve talimatların” ibaresi “ve mevzuatın” şeklinde değiştirilmiştir.</small>
+<small>[9] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “kanunlar, nizamlar ve talimatlar” ibaresi “mevzuat” ve “, kanunlar, nizamlar ve talimatların” ibaresi “ve mevzuatın” şeklinde değiştirilmiştir.</i></small>
 
-<small>[10] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “icra Vekilleri Heyetinin” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.</small>
+<small>[10] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “icra Vekilleri Heyetinin” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.</i></small>
 
-<small>[11] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “ kanun ve nizam ve talimatnameler ” ibaresi “mevzuat” şeklinde değiştirilmiştir.</small>
+<small>[11] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “ kanun ve nizam ve talimatnameler ” ibaresi “mevzuat” şeklinde değiştirilmiştir.</i></small>
 
-<small>[12] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “ İcra Vekilleri Heyeti ” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[12] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “ İcra Vekilleri Heyeti ” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[13] 18/5/1935 tarih ve 2721 Sayılı Kanunun 8 inci maddesiyle "posta muafiyeti" kaldırılmış, bilahare 2721 sayılı Kanun da 2/3/1950 tarih ve 5584 sayılı Kanunun 68 inci maddesiyle yürürlükden kaldırılmıştır.</small>
+<small>[13] <i>18/5/1935 tarih ve 2721 Sayılı Kanunun 8 inci maddesiyle "posta muafiyeti" kaldırılmış, bilahare 2721 sayılı Kanun da 2/3/1950 tarih ve 5584 sayılı Kanunun 68 inci maddesiyle yürürlükden kaldırılmıştır.</i></small>
 
-<small>[14] Bu hükmün uygulanmasında ek 2 nci maddeye bakınız.</small>
+<small>[14] <i>Bu hükmün uygulanmasında ek 2 nci maddeye bakınız.</i></small>
 
-<small>[15] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</small>
+<small>[15] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[16] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</small>
+<small>[16] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</i></small>
 
-<small>[17] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “ Sıhhat ve İçtimai Muavenet Vekaletince bir nizamname ” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelik” şeklinde değiştirilmiştir.</small>
+<small>[17] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “ Sıhhat ve İçtimai Muavenet Vekaletince bir nizamname ” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[18] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkraya “İçişleri” ibaresinden sonra gelmek üzere “, Çevre ve Şehircilik” ibaresi eklenmiştir.</small>
+<small>[18] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkraya “İçişleri” ibaresinden sonra gelmek üzere “, Çevre ve Şehircilik” ibaresi eklenmiştir.</i></small>
 
-<small>[19] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” ve “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</small>
+<small>[19] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” ve “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</i></small>
 
-<small>[20] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</small>
+<small>[20] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</i></small>
 
-<small>[21] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</small>
+<small>[21] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[22] Bu maddenin başındaki "ilkaha mani veya"ibaresi 1/4/1965 tarih ve 557 sayılı Kanunun 8 inci maddesiyle kaldırılmış olduğundan metinden çıkarılmıştır.</small>
+<small>[22] <i>Bu maddenin başındaki "ilkaha mani veya"ibaresi 1/4/1965 tarih ve 557 sayılı Kanunun 8 inci maddesiyle kaldırılmış olduğundan metinden çıkarılmıştır.</i></small>
 
-<small>[23] Bu Bap'ın 24/6/1995 tarihli ve 560 sayılı KHK'ye aykırı hükümleri, söz konusu KHK'nin 21 inci maddesi ile yürürlükten kaldırılmıştır. Bu KHK 27/5/2004 tarihli ve 5179 sayılı Kanun ile değiştirilerek kabul edilmiş, ancak gerek Meclis Tutanaklarında gerekse Kanun metninde bu hüküm yer almamıştır.</small>
+<small>[23] <i>Bu Bap'ın 24/6/1995 tarihli ve 560 sayılı KHK'ye aykırı hükümleri, söz konusu KHK'nin 21 inci maddesi ile yürürlükten kaldırılmıştır. Bu KHK 27/5/2004 tarihli ve 5179 sayılı Kanun ile değiştirilerek kabul edilmiş, ancak gerek Meclis Tutanaklarında gerekse Kanun metninde bu hüküm yer almamıştır.</i></small>
 
-<small>[24] 27/5/2004 tarihli ve 5179 sayılı Kanunun 37 inci maddesiyle bu maddenin; birinci fıkrasında yer alan, “Bütün gıda maddeleriyle” ibaresi ile ikinci fıkrasında yer alan “gıda maddeleri ile“ibaresi, madde metninden çıkartılmıştır.</small>
+<small>[24] <i>27/5/2004 tarihli ve 5179 sayılı Kanunun 37 inci maddesiyle bu maddenin; birinci fıkrasında yer alan, “Bütün gıda maddeleriyle” ibaresi ile ikinci fıkrasında yer alan “gıda maddeleri ile“ibaresi, madde metninden çıkartılmıştır.</i></small>
 
-<small>[25] 26/3/1941 tarih ve 3987 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan (182) rakamı (183) olarak değiştirilmiştir.</small>
+<small>[25] <i>26/3/1941 tarih ve 3987 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan (182) rakamı (183) olarak değiştirilmiştir.</i></small>
 
-<small>[26] Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.</small>
+<small>[26] <i>Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.</i></small>
 
-<small>[27] 27/5/2004 tarihli ve 5179 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan, “Her gıda maddesi ile” ibaresi madde metninden çıkarılmıştır.</small>
+<small>[27] <i>27/5/2004 tarihli ve 5179 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan, “Her gıda maddesi ile” ibaresi madde metninden çıkarılmıştır.</i></small>
 
-<small>[28] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “ İcra Vekilleri Heyeti ” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>[28] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “ İcra Vekilleri Heyeti ” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i></small>
 
-<small>[29] 23/1/2008 tarihli ve 5728 sayılı Kanunun 50 nci maddesiyle; bu maddede yer alan “Ceza Kanununun 263 üncü” ibaresi “Türk Ceza Kanununun 195 inci” şeklinde değiştirilmiştir.</small>
+<small>[29] <i>23/1/2008 tarihli ve 5728 sayılı Kanunun 50 nci maddesiyle; bu maddede yer alan “Ceza Kanununun 263 üncü” ibaresi “Türk Ceza Kanununun 195 inci” şeklinde değiştirilmiştir.</i></small>
 
-<small>[30] 24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle, 293 üncü maddede yer alan "500 numaralı Rüsumu Sıhhiye Kanununda mündemiç cezayı nakdilerin on misli alınmak suretiyle" ibaresi, "Gemi Sağlık Resmi Kanununda yer alan para cezalarının on katı idarî para cezasıyla olarak 6/5/2003 tarihinden geçerli olmak üzere değiştirilmiştir.</small>
+<small>[30] <i>24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle, 293 üncü maddede yer alan "500 numaralı Rüsumu Sıhhiye Kanununda mündemiç cezayı nakdilerin on misli alınmak suretiyle" ibaresi, "Gemi Sağlık Resmi Kanununda yer alan para cezalarının on katı idarî para cezasıyla olarak 6/5/2003 tarihinden geçerli olmak üzere değiştirilmiştir.</i></small>
 
-<small>[31] 2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu fıkrada yer alan yer alan “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</small>
+<small>[31] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu fıkrada yer alan yer alan “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</i></small>
 
-<small>[32] Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.</small>
+<small>[32] <i>Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.</i></small>
 
-<small>[33] 27/5/2004 tarihli ve 5179 sayılı Kanunun 37 nci maddesiyle bu maddenin birinci fıkrasında yer alan “ve 188” ibaresi ile son fıkrada yer alan “,yenecek ve içilecek şeylere “ ibaresi, madde metninden çıkarılmıştır.</small>
+<small>[33] <i>27/5/2004 tarihli ve 5179 sayılı Kanunun 37 nci maddesiyle bu maddenin birinci fıkrasında yer alan “ve 188” ibaresi ile son fıkrada yer alan “,yenecek ve içilecek şeylere “ ibaresi, madde metninden çıkarılmıştır.</i></small>

@@ -85,7 +85,7 @@ c) Yukarıdaki işlemler farklı branşlarda yapılmışsa, yüzdelik oranların
 
 **Madde 6 –** (1) 02/04/2020 tarihli ve 269 sayılı Tıbbi İşlemler Yönergesi yürürlükten kaldırılmıştır.
 
-GEÇİCİ MADDE- 1 (1) 01/07/2022 ile 01/11/2022 tarihleri arasında ek ödemeye esas puanlar için (özellikli tıbbi işlemler dâhil) mülga 02/04/2020 tarihli ve 269 sayılı Tıbbi İşlemler Yönergesi hükümleri ve ekli listeleri uygulanacaktır.
+**GEÇİCİ MADDE- 1** (1) 01/07/2022 ile 01/11/2022 tarihleri arasında ek ödemeye esas puanlar için (özellikli tıbbi işlemler dâhil) mülga 02/04/2020 tarihli ve 269 sayılı Tıbbi İşlemler Yönergesi hükümleri ve ekli listeleri uygulanacaktır.
 
 #### Yürürlük
 

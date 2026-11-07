@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-40.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN BAZI
-ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN BAZI**
+**ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6824 Kabul Tarihi: 23/2/2017
 
 MADDE 1 – (1) T.C. Ziraat Bankası A.Ş. (Banka) ve Tarım Kredi Kooperatifleri tarafından kullandırılan ve 31/12/2016 tarihi itibarıyla takip hesaplarında izlenen tarımsal kredi alacakları, bu maddenin yürürlüğe girdiği tarihi izleyen üçüncü ayın sonuna kadar banka/kooperatife başvuruda bulunulması kaydıyla aşağıda belirtilen kapsam ve şartlar dâhilinde yapılandırılır.

@@ -12,15 +12,15 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-DOĞAL MİNERALLİ SULAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**DOĞAL MİNERALLİ SULAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 — 1/12/2004 tarihli ve 25657 sayılı Resmî Gazete’de yayımlanan Doğal Mineralli Sular Hakkında Yönetmeliğin 41 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
-“Düzenleme yetkisi
+**MADDE 1 —** 1/12/2004 tarihli ve 25657 sayılı Resmî Gazete’de yayımlanan Doğal Mineralli Sular Hakkında Yönetmeliğin 41 inci maddesi başlığıyla birlikte aşağıdaki şekilde değiştirilmiştir.
+“**Düzenleme yetkisi**
 
 
 MADDE 41 – Bakanlık bu Yönetmeliğin uygulanmasını sağlamak üzere her türlü alt düzenlemeyi yapmaya yetkilidir.
 Bu Yönetmelikte Bakanlıkça yapılması öngörülen iş ve işlemlerle ilgili yetkiler Müdürlüklere devredilebilir.”
 
-MADDE 2 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+**MADDE 2 –** Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
-MADDE 3 – Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+**MADDE 3 –** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.

@@ -24,7 +24,7 @@ Konu : ÇOGEP Kurumlar Arası İş birliği ve Koordinasyon Protokolü ve Uygula
 
 DAĞITIM YERLERİNE
 
-İçişleri Bakanlığı Emniyet Genel Müdürlüğü tarafından 2012 yılında başlatılan “Güvenli Hayat ve Güvenli Gelecek İçin Çocuk ve Gençler Sosyal Koruma ve Destek Programı (ÇOGEP)” kapsamında dezavantajlı çocuk ve gençlerin sosyal yaşama dahil edilmeleri ve yoksunluklarının azaltılması amacıyla 81 ilde sosyal sorumluluk projeleri gerçekleştirilmektedir. Bu kapsamda ilgili tüm Bakanlıklar ve kurumlar tarafından imzalanan ÇOGEP Protokolü ve Uygulama Rehberi bilgi amaçlı olarak yazımız ekinde gönderilmektedir.
+İçişleri Bakanlığı Emniyet Genel Müdürlüğü tarafından 2012 yılında başlatılan “Güvenli Hayat ve Güvenli Gelecek İçin Çocuk ve Gençler Sosyal Koruma ve Destek Programı (ÇOGEP)” kapsamında dezavantajlı çocuk ve gençlerin sosyal yaşama dahil edilmeleri ve yoksunluklarının azaltılması amacıyla 81 ilde sosyal sorumluluk projeleri gerçekleştirilmektedir. Bu kapsamda ilgili tüm Bakanlıklar ve kurumlar tarafından imzalanan ÇOGEP Protokolü ve Uygulama Rehberi **bilgi amaçlı** olarak yazımız ekinde gönderilmektedir.
 
 Bilgilerini ve gereğini rica ederim.
 

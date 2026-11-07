@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/11/20241127-5.htm"
 durum: "yürürlükte"
 ---
 
-KANUN NOTERLİK KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN NOTERLİK KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7532 Kabul Tarihi: 14/11/2024
 
 MADDE 1- 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 16 ncı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.

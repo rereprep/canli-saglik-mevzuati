@@ -90,15 +90,15 @@ f) Bilgi teknolojileri ve denetimi konularında bilgi ve becerilerini geliştirm
 
 **MADDE 8 –** (1) Eğitim programı aşağıda yer alan bölümler ve konular esas alınarak hazırlanır.
 
-a) Temel Eğitim: Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik kapsamında devlet memurlarının ortak vasıfları ile ilgili hususları kapsayan eğitimdir. Bu eğitim programı TC Anayasası, Atatürk İlkeleri ve İnkılap Tarihi, Genel Olarak Devlet Teşkilatı, 657 sayılı Devlet Memurları Kanunu, Yazışma-Dosyalama Usulleri, Devlet Malını Koruma ve Tasarruf Tedbirleri, Halkla İlişkiler, Gizlilik ve Gizliliğin Önemi, Milli Güvenlik Bilgisi, Haberleşme, Türkçe Dil Bilgisi ve İnsan Hakları konularını kapsar.
+a) **Temel Eğitim:** Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik kapsamında devlet memurlarının ortak vasıfları ile ilgili hususları kapsayan eğitimdir. Bu eğitim programı TC Anayasası, Atatürk İlkeleri ve İnkılap Tarihi, Genel Olarak Devlet Teşkilatı, 657 sayılı Devlet Memurları Kanunu, Yazışma-Dosyalama Usulleri, Devlet Malını Koruma ve Tasarruf Tedbirleri, Halkla İlişkiler, Gizlilik ve Gizliliğin Önemi, Milli Güvenlik Bilgisi, Haberleşme, Türkçe Dil Bilgisi ve İnsan Hakları konularını kapsar.
 
-b) Uyum Eğitimi: Denetçi yardımcılarına Bakanlık teşkilatının, hizmet sunan birimlerinin ve Başkanlığın tanıtılması amacıyla yapılan eğitim faaliyetidir.
+b) **Uyum Eğitimi:** Denetçi yardımcılarına Bakanlık teşkilatının, hizmet sunan birimlerinin ve Başkanlığın tanıtılması amacıyla yapılan eğitim faaliyetidir.
 
-c) Denetim Hizmetleri ile Faaliyetlerinin Tanıtılması Eğitimi: Yönetmeliğin, denetçilik mesleğinin görev, yetki ve sorumluluklarının, denetim, inceleme ve soruşturma alanıyla ilgili konuların anlatıldığı eğitim faaliyetidir.
+c) **Denetim Hizmetleri ile Faaliyetlerinin Tanıtılması Eğitimi:** Yönetmeliğin, denetçilik mesleğinin görev, yetki ve sorumluluklarının, denetim, inceleme ve soruşturma alanıyla ilgili konuların anlatıldığı eğitim faaliyetidir.
 
-ç) Mevzuat Eğitimi: Bakanlığın yetki alanına giren konularda yürürlükteki mevzuatın anlatıldığı eğitim faaliyetidir.
+ç) **Mevzuat Eğitimi:** Bakanlığın yetki alanına giren konularda yürürlükteki mevzuatın anlatıldığı eğitim faaliyetidir.
 
-d) Uygulama Eğitimi:
+d) **Uygulama Eğitimi:**
 
 1) Bilimsel çalışma ve araştırma yapma ilke ve usulleri, denetçilik mesleği ve Bakanlığımız görev alanına giren konularla ilgili inceleme ve araştırma çalışmaları, bilgi teknolojileri ve denetimi eğitimleri, yabancı dil bilgisinin geliştirilmesi çalışmalarının yapılması, resmi yazışma ve raporlama ile ilgili usul ve esasların incelenmesi, Türkçe dilbilgisi, güzel konuşma ve yazı yazma çalışmalarının yapılması, protokol kuralları, kişisel gelişim ve iletişim tekniklerinin anlatımı, örnek olaylar üzerinden denetçilik görev alanına giren konularda inceleme, soruşturma ve denetim raporu hazırlanması çalışmalarına ilişkin eğitim faaliyetleridir.
 
@@ -274,95 +274,95 @@ belirler.
 
 ### SAĞLIK BAKANLIĞI Denetim Hizmetleri Başkanlığı
 
-Ek-1
+**Ek-1**
 
 ### DENETÇİ YARDIMCILARINI DEĞERLENDİRME FORMU
 
-Belgeyi Düzenleyen Adı ve Soyadı
+**Belgeyi Düzenleyen** Adı ve Soyadı
 
-Denetçinin
+**Denetçinin**
 
-Unvanı
+**Unvanı**
 
-Denetçi Adı ve Soyadı
+**Denetçi Adı ve Soyadı**
 
-Yardımcısının
+**Yardımcısının**
 
 1. Dönem …/…/2017 – …/…/2017
 
-DÖNEMİ 2. Dönem …/…/2017 – …/…/2017
+**DÖNEMİ** 2. Dönem …/…/2017 – …/…/2017
 
 3. Dönem …/…/2018 – …/…/2018
 
 ### DENETÇİ YARDIMCILARI İLE BİRLİKTE YAPILAN İŞLER İşin Niteliği Tarih Aralığı İşin Yapıldığı Yer
 
-(İnceleme/Soruşturma/Denetim) (Başlama/Bitiş)
+**(İnceleme/Soruşturma/Denetim) (Başlama/Bitiş)**
 
-(Sağlık Tesisi/Birim Adı)
+**(Sağlık Tesisi/Birim Adı)**
 
 ### DEĞERLENDİRME KRİTERLERİ VERİLEN PUANLAR
 
-0 1 2 3 4
+**0 1 2 3 4**
 
 ### A- GÖREVLE İLGİLİ DEĞERLENDİRMELER
 
-1- Göreve bağlılığı
+**1- Göreve bağlılığı**
 
-2- Çalışkanlığı
+**2- Çalışkanlığı**
 
-3- Kavrayışı ve olaya yaklaşımı
+**3- Kavrayışı ve olaya yaklaşımı**
 
-4- Karar alma yeteneği
+**4- Karar alma yeteneği**
 
-5- Öğrenme yeteneği
+**5- Öğrenme yeteneği**
 
-6- Öğrendiğini kullanma yeteneği
+**6- Öğrendiğini kullanma yeteneği**
 
-7- Mesaiye bağlılığı
+**7- Mesaiye bağlılığı**
 
-8- Gizliliğe riayeti
+**8- Gizliliğe riayeti**
 
-9- İş verimliliği
+**9- İş verimliliği**
 
 ### B- MESLEKLE İLGİLİ DEĞERLENDİRMELER
 
-10- Mesleğe karşı ilgisi
+**10- Mesleğe karşı ilgisi**
 
-11- Araştırma ve inceleme yeteneği
+**11- Araştırma ve inceleme yeteneği**
 
-12- Birlikte çalışma yeteneği
+**12- Birlikte çalışma yeteneği**
 
-13- Kendini geliştirme çabası
+**13- Kendini geliştirme çabası**
 
-14- Temsil yeteneği
+**14- Temsil yeteneği**
 
-15- Mesleki özgüveni
+**15- Mesleki özgüveni**
 
 ### SAĞLIK BAKANLIĞI Denetim Hizmetleri Başkanlığı C- DAVRANIŞLARI İLE İLGİLİ DEĞERLENDİRMELER
 
-16- Meslek dışındaki tutum ve davranışı
+**16- Meslek dışındaki tutum ve davranışı**
 
-17- Giyimi
+**17- Giyimi**
 
-18- Çevresine uyumu
+**18- Çevresine uyumu**
 
-19- Genel kültürü
+**19- Genel kültürü**
 
-20- İş arkadaşı ve amirlerine karşı tutumu
+**20- İş arkadaşı ve amirlerine karşı tutumu**
 
-21- Memur ve iş sahiplerine karşı tutumu
+**21- Memur ve iş sahiplerine karşı tutumu**
 
-22- Genel davranışı
+**22- Genel davranışı**
 
-23- Olaylara yaklaşım biçimi
+**23- Olaylara yaklaşım biçimi**
 
-24- Fikir müzakerelerindeki tutumu
+**24- Fikir müzakerelerindeki tutumu**
 
-25- Harcama eğilimi
+**25- Harcama eğilimi**
 
 ### TOPLAM PUAN SONUÇ
 
-NOT
+**NOT**
 
 ### KANAAT
 
@@ -374,15 +374,15 @@ izlenmelidir...................................
 
 ### YAPILAN DEĞERLENDİRMELER HAKKINDA AÇIKLAYICI BİLGİLER VE BİLDİRİLMESİNDE YARAR GÖRÜLEN DİĞER HUSUSLAR
 
-İmza
+**İmza**
 
-Ad-Soyad
+**Ad-Soyad**
 
-Denetçi
+**Denetçi**
 
 ### SAĞLIK BAKANLIĞI Denetim Hizmetleri Başkanlığı
 
-Ek-2
+**Ek-2**
 
 ### RAPOR DEĞERLENDİRME FORMU RAPORU DÜZENLEYEN RAPORUN RAPORUN TARİH RAPORUN RAPORUN RAPOR VE SAYISI DENETÇİ YARDIMCISI ÇEŞİDİ SAYFA EK DEĞERLENDİRME SAYISI SAYISI PUANI
 
@@ -400,9 +400,9 @@ belirlenen şekle ve rapor belgelerin tanzimi ve yazım ve yazışma mevzuat top
 
 üzerinden)
 
-Değerlendirme
+**Değerlendirme**
 
-Kriterleri
+**Kriterleri**
 
 Kurul Üyesi
 
@@ -442,13 +442,13 @@ uygunluğu,
 
 ### SAĞLIK BAKANLIĞI Denetim Hizmetleri Başkanlığı
 
-Ek-3
+**Ek-3**
 
 ### RE’SEN YETKİLİ DENETÇİ YARDIMCISI TARAFINDAN DÜZENLENEN RAPORLARI DEĞERLENDİRME FORMU
 
-Denetçi Yardımcısının Adı ve Soyadı Kurula Giriş Tarihi Re’sen Yetki Aldığı Tarih
+**Denetçi Yardımcısının Adı ve Soyadı Kurula Giriş Tarihi Re’sen Yetki Aldığı Tarih**
 
-Değerlendirilen Rapor Tarih-Sayısı ve Çeşidi Rapor Değerlendirme Puanı 1- ..../..../.......tarih ve ..............sayılı............................. Raporu ........................... 2- ..../..../.......tarih ve............sayılı...............................Raporu ........................... 3- ..../..../.......tarih ve ............. sayılı..............................Raporu ........................... 4- ..../..../.......tarih ve ..............sayılı..............................Raporu ........................... 5- ..../..../.......tarih ve ............. sayılı..............................Raporu ...........................
+**Değerlendirilen Rapor Tarih-Sayısı ve Çeşidi Rapor Değerlendirme Puanı** 1- ..../..../.......tarih ve ..............sayılı............................. Raporu ........................... 2- ..../..../.......tarih ve............sayılı...............................Raporu ........................... 3- ..../..../.......tarih ve ............. sayılı..............................Raporu ........................... 4- ..../..../.......tarih ve ..............sayılı..............................Raporu ........................... 5- ..../..../.......tarih ve ............. sayılı..............................Raporu ...........................
 
 Denetçi Yardımcısı ……………………………….’nın; re'sen denetim, inceleme ve soruşturma yetkisini haiz olduğu ..../..../..........tarihleri arasında bizzat düzenlediği ya da diğer yetkili Denetçi Yardımcısı ile birlikte düzenlemiş olduğu raporlar, Rapor Değerlendirme Kurulunca Sağlık Bakanlığı Denetçi Yardımcılarının Yetiştirilmelerine İlişkin Usul ve Esaslar Hakkında Yönerge’de belirtilen kriterler doğrultusunda değerlendirilmiş olup, denetim, inceleme ve soruşturma notu..............(…………...........) olarak belirlenmiştir. .../.../......
 
@@ -458,4 +458,4 @@ Denetçi Yardımcısı ……………………………….’nın; re'sen dene
 
 **Dipnotlar**
 
-<small>ORTALAMA TOPLAM PUAN</small>
+<small>**ORTALAMA TOPLAM PUAN**</small>

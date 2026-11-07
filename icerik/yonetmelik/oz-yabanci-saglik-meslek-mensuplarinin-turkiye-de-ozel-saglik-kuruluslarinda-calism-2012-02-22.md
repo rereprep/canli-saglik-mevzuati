@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -22,9 +22,9 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönetmelik; diş hekimi, eczacı (Mülga ibare:RG-16/6/2016-29744) (...) ve hastabakıcılar hariç özel sağlık kuruluşlarında çalışacak tüm yabancı sağlık meslek mensuplarını kapsar.
+**MADDE 2 –** (1) Bu Yönetmelik; diş hekimi, eczacı **(Mülga ibare:RG-16/6/2016-29744) (...)** ve hastabakıcılar hariç özel sağlık kuruluşlarında çalışacak tüm yabancı sağlık meslek mensuplarını kapsar.
 
-(2) Türk soylu diş hekimi, eczacı (Mülga ibare:RG-16/6/2016-29744) (...) ve hastabakıcılar hakkında 25/9/1981 tarihli ve 2527 sayılı Türk Soylu Yabancıların Türkiye'de Meslek ve Sanatlarını Serbestçe Yapabilmelerine, Kamu, Özel Kuruluş veya İşyerlerinde Çalıştırılabilmelerine İlişkin Kanun uygulanır.
+(2) Türk soylu diş hekimi, eczacı **(Mülga ibare:RG-16/6/2016-29744) (...)** ve hastabakıcılar hakkında 25/9/1981 tarihli ve 2527 sayılı Türk Soylu Yabancıların Türkiye'de Meslek ve Sanatlarını Serbestçe Yapabilmelerine, Kamu, Özel Kuruluş veya İşyerlerinde Çalıştırılabilmelerine İlişkin Kanun uygulanır.
 
 #### Dayanak
 
@@ -46,7 +46,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Çalışma Şartları ve Çalışma Başvurusu
+**Çalışma Şartları ve Çalışma Başvurusu**
 
 #### Çalışma şartları
 
@@ -56,7 +56,7 @@ a) Diploma ve/veya uzmanlık belgelerinin denkliği onaylanmış ve Bakanlıkça
 
 b) Mesleğini icra etmesine kanunen engel hali bulunmamak.
 
-c) (Değişik:RG-16/7/2013-28709) Türkçe bilmek.
+c) **(Değişik:RG-16/7/2013-28709)** Türkçe bilmek.
 
 ç) İlgili mevzuata göre Türkiye’de çalışma ve ikâmet izni almış olmak.
 
@@ -76,7 +76,7 @@ d) Hekimler için, zorunlu mesleki malî sorumluluk sigortası yaptırmak.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Son Hükümler
+**Son Hükümler**
 
 #### Suriye uyruklu sağlık meslek mensuplarının muafiyet durumu
 
@@ -103,7 +103,7 @@ Son Hükümler
 
 ### EK-1
 
-(Değişik:RG-16/7/2013-28709)
+**(Değişik:RG-16/7/2013-28709)**
 
 ### BAŞVURU İÇİN GEREKLİ BELGELER
 

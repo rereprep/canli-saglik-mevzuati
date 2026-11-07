@@ -12,7 +12,7 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-5.htm"
 durum: "yürürlükte"
 ---
 
-KANUN İSTİKLAL MADALYASI VERİLMİŞ BULUNANLARA VATANİ HİZMET TERTİBİNDEN ŞEREF AYLIĞI BAĞLANMASI HAKKINDA KANUN İLE BAZI KANUNLARDA VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN İSTİKLAL MADALYASI VERİLMİŞ BULUNANLARA VATANİ HİZMET TERTİBİNDEN ŞEREF AYLIĞI BAĞLANMASI HAKKINDA KANUN İLE BAZI KANUNLARDA VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7447 Kabul Tarihi: 30/3/2023
 
 MADDE 1- 24/2/1968 tarihli ve 1005 sayılı İstiklal Madalyası Verilmiş Bulunanlara Vatani Hizmet Tertibinden Şeref Aylığı Bağlanması Hakkında Kanunun 1 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.

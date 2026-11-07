@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -98,7 +98,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Araştırmanın Genel Esasları, Araştırmaya İştirakin Usul ve Esasları
+**Araştırmanın Genel Esasları, Araştırmaya İştirakin Usul ve Esasları**
 
 #### Araştırmanın genel esasları
 
@@ -188,7 +188,7 @@ d) Kısıtlılarda yapılacak klinik araştırmalar için kısıtlıların araş
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Araştırmaların Yürütülmesi ile İlgili Esaslar
+**Araştırmaların Yürütülmesi ile İlgili Esaslar**
 
 #### Klinik araştırma yapılması şartı ve klinik araştırma dönemleri
 
@@ -234,7 +234,7 @@ sahip olmak zorundadır.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Araştırmaların Başlatılması, Yürütülmesi, Durdurulması ve Sonlandırılması
+**Araştırmaların Başlatılması, Yürütülmesi, Durdurulması ve Sonlandırılması**
 
 #### Araştırmaların başlatılması ve yürütülmesi
 
@@ -268,7 +268,7 @@ e) Destekleyici, yazılı sözleşme yapmak ve Genel Müdürlüğe bilgi vermek 
 
 ### BEŞİNCİ BÖLÜM
 
-Araştırma Ürünleri
+**Araştırma Ürünleri**
 
 #### Destekleyicinin ve sorumlu araştırmacının araştırma ürünü ile ilgili sorumluluğu
 
@@ -296,7 +296,7 @@ b) Araştırma yapmak amacıyla imâl veya ithâl edilen ürünlere ait bilgi ve
 
 ### ALTINCI BÖLÜM
 
-Bildirimler, Araştırma Kayıtları, Gizlilik ve Devir, Denetim ve Sorumluluk
+**Bildirimler, Araştırma Kayıtları, Gizlilik ve Devir, Denetim ve Sorumluluk**
 
 #### Advers olayların bildirimi
 
@@ -368,7 +368,7 @@ Bildirimler, Araştırma Kayıtları, Gizlilik ve Devir, Denetim ve Sorumluluk
 
 ### YEDİNCİ BÖLÜM
 
-Etik Kurulun Yapısı, Çalışma Usul ve Esasları ile Görevleri
+**Etik Kurulun Yapısı, Çalışma Usul ve Esasları ile Görevleri**
 
 #### Etik kurulun yapısı
 
@@ -486,7 +486,7 @@ d) Bu fıkrada sayılanlar haricinde kalan ve klinik araştırma sırasında gö
 
 ### SEKİZİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Hüküm bulunmayan haller
 

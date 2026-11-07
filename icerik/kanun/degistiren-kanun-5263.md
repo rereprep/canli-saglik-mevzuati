@@ -11,9 +11,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2004/12/20041209.htm#2"
 durum: "yürürlükte"
 ---
 
-—— • —— Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü Teşkilât ve Görevleri Hakkında Kanun Kanun No: 5263 Kabul Tarihi : 1.12.2004
+—— • —— Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü **Teşkilât ve Görevleri Hakkında Kanun Kanun No: 5263 Kabul Tarihi : 1.12.2004**
 BİRİNCİ BÖLÜM
-Amaç, Tanımlar, Görev ve Yetkiler Amaç
+**Amaç**, **Tanımlar**, Görev ve Yetkiler Amaç
 
 
 MADDE 1 – Bu Kanunun amacı, 29.5.1986 tarihli ve 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanununun uygulanmasını sağlamak üzere Başbakanlığa bağlı Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğünün kurulması, teşkilâtı, görev ve yetkilerine ilişkin usul ve esasları düzenlemektir.
@@ -41,10 +41,10 @@ Teşkilât ve Fon Kurulu Teşkilât
 
 
 MADDE 4 – Genel Müdürlük, ana hizmet birimleri ile danışma ve yardımcı hizmet birimlerinden oluşur. Genel Müdürlük teşkilâtı ekli (I) sayılı cetvelde gösterilmiştir.
-Fon Kurulunun oluşumu ve görevleri
+**Fon Kurulunun oluşumu ve görevleri**
 
 
-MADDE 5 – Fon Kurulu, Başbakanın görevlendireceği Bakanın başkanlığında Başbakanlık Müsteşarı, İçişleri ve Sağlık bakanlıklarının müsteşarları ile Sosyal Yardımlaşma ve Dayanışma Genel Müdürü ve Vakıflar Genel Müdüründen oluşur.
+MADDE 5 – Fon Kurulu, Başbakanın görevlendireceği Bakanın başkanlığında **Başbakanlık** Müsteşarı, İçişleri ve Sağlık bakanlıklarının müsteşarları ile Sosyal Yardımlaşma ve Dayanışma Genel Müdürü ve Vakıflar Genel Müdüründen oluşur.
 Fon Kurulu ayda bir kez olağan olarak toplanır. Kurul Başkanının talebi üzerine Fon Kurulu her zaman olağanüstü toplanabilir. Kurulun sekretarya hizmetleri Genel Müdürlükçe yerine getirilir.
 Fon Kurulunun görevleri şunlardır:
 a) Fonda toplanan kaynakların, vakıflar ve Genel Müdürlükçe yürütülecek sosyal yardım proje ve programları ile yatırım programları çerçevesinde dağıtım önceliklerini belirlemek ve dağıtımına karar vermek.
@@ -54,16 +54,16 @@ d) Vakıflardan ve diğer kurum ve kuruluşlardan gelen sosyal yardım amaçlı 
 e) Toplumda dayanışma ve paylaşma bilincini geliştirmek ve desteklemek üzere bilimsel, sosyal ve kültürel programlar ve projeler önermek, hazırlanan projelere destek sağlamak.
 Fon Kurulunun çalışma esas ve usulleri yönetmelikle belirlenir.
 ÜÇÜNCÜ BÖLÜM
-Hizmet Birimleri ve Görevleri Genel Müdür
+Hizmet Birimleri ve Görevleri **Genel Müdür**
 
 
 MADDE 6 – Genel Müdür; Genel Müdürlüğün en üst amiri olup, Genel Müdürlük hizmetlerini mevzuat hükümlerine, Genel Müdürlüğün amaç ve politikalarına, stratejik plânına, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak düzenler ve yürütür.
 Genel Müdür, Başbakana veya görevlendireceği Bakana karşı sorumludur.
-Genel Müdür Yardımcısı
+**Genel Müdür Yardımcısı**
 
 
 MADDE 7 – Ana hizmet birimleri ile danışma birimi ve yardımcı hizmet birimleri arasındaki koordinasyonu sağlamak ve bu birimlerin denetiminde Genel Müdüre yardımcı olmak üzere, bir Genel Müdür Yardımcısı atanabilir. Genel Müdür Yardımcısı, Genel Müdür tarafından verilen görevleri yerine getirir ve Genel Müdüre karşı sorumludur.
-Ana hizmet birimleri ve görevleri
+**Ana hizmet birimleri ve görevleri**
 
 
 MADDE 8 – Genel Müdürlüğün ana hizmet birimleri; Kaynak Yönetimi Dairesi Başkanlığı, Proje Değerlendirme ve İzleme Dairesi Başkanlığı, Yardımlar Dairesi Başkanlığı, Gönüllü Kuruluşlarla İşbirliği ve Dış İlişkiler Dairesi Başkanlığı ile İstatistik, Araştırma ve Tanıtım Dairesi Başkanlığından oluşur.
@@ -98,7 +98,7 @@ e) Sosyal yardım faaliyetlerinin desteklenmesine ve geliştirilmesine yönelik 
 f) Sosyal yardım konulu bilimsel nitelikli yayınlar yapmak, sosyal yardım amaçlı kurum ve kuruluşların yayınlarını takip etmek ve bu amaçla yapılacak yayınları desteklemek.
 g) Genel Müdürlüğü ilgilendiren toplantı, brifing ve görüşmeleri yapmak, tutanakları tutmak.
 h) Genel Müdürlük tarafından verilecek benzeri görevleri yapmak.
-Danışma birimi ve görevleri
+**Danışma birimi ve görevleri**
 
 
 MADDE 9 – Genel Müdürlüğün danışma birimi Hukuk Müşavirliğidir.
@@ -106,7 +106,7 @@ Hukuk Müşavirliğinin görevleri şunlardır:
 a) Genel Müdür, Genel Müdürlük birimleri ve bakanlıklar tarafından gönderilen kanun, tüzük ve yönetmelik taslakları ile diğer hukukî konular hakkında görüş bildirmek.
 b) Genel Müdürlüğün menfaatlerini koruyucu, anlaşmazlıkları önleyici hukukî tedbirleri zamanında almak, anlaşma ve sözleşmelerin bu esaslara uygun olarak yapılmasına yardımcı olmak.
 c) 8.1.1943 tarihli ve 4353 sayılı Kanun hükümlerine göre adlî ve idarî davalarda gerekli bilgileri hazırlamak, taraf olduğu idarî davalarda Genel Müdürlüğü temsil etmek veya Genel Müdürlükçe hizmet satınalma yoluyla temsil ettirilen davaları takip ve koordine etmek.
-Yardımcı hizmet birimleri ve görevleri
+**Yardımcı hizmet birimleri ve görevleri**
 
 
 MADDE 10 – Genel Müdürlüğün yardımcı hizmet birimleri; İnsan Kaynakları Daire Başkanlığı ile Destek Hizmetleri Daire Başkanlığıdır.
@@ -122,12 +122,12 @@ b) Genel Müdürlüğün ihtiyacı olan yapım, satınalma, kiralama, bakım ve 
 c) Genel Müdürlüğün sivil savunma ve seferberlik hizmetlerini plânlamak ve yürütmek.
 d) Genel Müdür tarafından verilecek diğer görevleri yapmak.
 DÖRDÜNCÜ BÖLÜM
-Çeşitli Hükümler Yöneticilerin sorumlulukları ve yetki devri
+Çeşitli Hükümler **Yöneticilerin sorumlulukları ve yetki devri**
 
 
 MADDE 11 – Genel Müdürlüğün her kademedeki yöneticileri, görevlerini mevzuata, stratejik plân ve programlara, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütmekten üst kademelere karşı sorumludur.
 Üst düzey yöneticiler, sınırlarını açıkça belirtmek ve yazılı olmak şartıyla yetkilerinden bir kısmını astlarına devredebilir. Yetki devri ilgililere duyurulur.
-Sosyal Yardım Uzman ve Uzman Yardımcılığı
+**Sosyal Yardım Uzman ve Uzman Yardımcılığı**
 
 
 MADDE 12 – Genel Müdürlük, Sosyal Yardım Uzmanı ve Uzman yardımcısı istihdam edebilir.
@@ -138,22 +138,22 @@ c) Sınavın yapıldığı yılın ocak ayının ilk gününde otuz yaşını do
 d) Kamu personeli dil sınavında en az (C) düzeyinde başarılı olmak.
 Sosyal Yardım Uzman Yardımcılığına atananlar, en az üç yıl çalışmak ve olumlu sicil almak kaydıyla, hazırlanacak tezin kabulünden sonra açılacak yeterlik sınavına girmeye hak kazanırlar. Sınavda başarılı olanlar "Sosyal Yardım Uzmanı" unvanını alırlar. Uzmanlık yeterlik sınavında iki defa başarısız olanlar ile sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınava girmeyenler, Uzman Yardımcılığı unvanını kaybederler ve memur kadrolarına atanırlar.
 Sosyal Yardım Uzman ve Uzman yardımcılarının mesleğe alınmaları, yetiştirilmeleri, yarışma sınavı, tez hazırlama ve yeterlik sınavları, çalışma esas ve usulleri ile diğer hususlar yönetmelikle düzenlenir.
-Atama
+**Atama**
 
 
 MADDE 13 – Daire başkanları, Başbakan veya görevlendireceği Bakan tarafından atanır. 23.4.1981 tarihli ve 2451 sayılı Kanun hükümleri dışında kalan diğer personelin atamaları Genel Müdür tarafından yapılır.
 Genel Müdürlük personeli 657 sayılı Devlet Memurları Kanununa tâbidir.
 Genel Müdür, Genel Müdür Yardımcısı, 1. Hukuk Müşaviri, Hukuk Müşaviri, Daire Başkanı, Sosyal Yardım Uzmanı ve Sosyal Yardım Uzman Yardımcısı kadroları karşılık gösterilmek kaydıyla, 657 sayılı Devlet Memurları Kanunu ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlere bağlı olmaksızın sözleşmeli olarak çalıştırılabilir.
 Bu surette çalıştırılacakların sözleşme usul ve esasları ile unvanlar itibarıyla yer alan taban ve tavan ücretleri ve her çeşit ödemeler Bakanlar Kurulunca tespit edilir. Başbakanlık merkez teşkilâtında sözleşmeli olarak çalıştırılan emsali personelin yararlandığı ücret artışlarından Genel Müdürlükte çalışan sözleşmeli personel de aynen yararlandırılır. Söz konusu personele, çalıştıkları günlerle orantılı olarak (hastalık ve yıllık izinleri dahil) ocak, nisan, temmuz ve ekim aylarında birer aylık sözleşme ücreti tutarında ikramiye ödenir. Bunlardan üstün gayret ve çalışmaları sonucunda emsallerine göre başarılı çalışma yaptıkları tespit edilenlere Genel Müdürün teklifi, Bakanın uygun görüşü üzerine Başbakan onayı ile haziran ve aralık aylarında birer aylık sözleşme ücreti tutarına kadar teşvik ikramiyesi ödenebilir. Kadro karşılığı sözleşme ile çalıştırılacak personel T.C. Emekli Sandığı ile ilgilendirilir. Genel Müdürlükte çalışan personel Başbakanlığın yararlandığı fazla çalışma ücreti, tazminat ve benzeri tüm malî ve sosyal haklardan aynı usul ve esaslara göre yararlanır.
-Başka kurumlardan personel görevlendirme
+**Başka kurumlardan personel görevlendirme**
 
 
 MADDE 14 – Başbakanlık ve bakanlıklar ile bağlı kuruluşlarında çalışan memurlar, kendilerinin ve kurumlarının muvafakati alınmak şartıyla Genel Müdürlükte geçici olarak görevlendirilebilir.
 Bunlar, kurumlarından ücretli izinli sayılır ve asıl kadrolarıyla ilgileri devam eder. Bunların terfileri başkaca bir işleme gerek kalmaksızın kurumlarınca yapılır. Bu hükme göre görevlendirilenler, görevleri süresince aylık, ödenek, her türlü zam ve tazminatları ile diğer malî ve sosyal hak ve yardımları kurumlarından alırlar.
-Kadrolar
+**Kadrolar**
 
 
-MADDE 15 – Kadroların tespiti, ihdası, kullanılması ve iptali ile kadrolara ilişkin diğer hususlar 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümlerine göre düzenlenir.
+MADDE 15 – Kadroların tespiti, ihdası, kullanılması ve iptali ile kadrolara ilişkin diğer hususlar 190 sayılı Genel Kadro ve Usulü **Hakkında Kanun** Hükmünde Kararname hükümlerine göre düzenlenir.
 
 
 MADDE 16 – 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununun;
@@ -177,23 +177,23 @@ Mülkî idare amirleri vakfın tabii başkanı olup, illerde belediye başkanı,
 MADDE 20 – 3294 sayılı Kanunun 9 uncu maddesinin birinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiş ve (d) bendi eklenmiştir.
 c) Sahip oldukları taşınır ve taşınmaz mallar ve yapacakları tüm muameleler dolayısıyla her türlü vergi, resim, harç ve fonlardan,
 d) Vakıflar, Vakıflar Genel Müdürlüğünce vakıflardan tahsil edilen teftiş ve denetleme masraflarına katılma paylarından,
-GEÇİCİ
+**GEÇİCİ**
 
-MADDE l. — Bu Kanunda öngörülen yönetmelikler altı ay içinde Genel Müdürlükçe hazırlanır.
-GEÇİCİ
+**MADDE l. —** Bu Kanunda öngörülen yönetmelikler altı ay içinde Genel Müdürlükçe hazırlanır.
+**GEÇİCİ**
 
-MADDE 2. — Genel Müdürlüğün kadrolarına atama yapılıncaya kadar hizmetler mevcut personelle yürütülmeye devam edilir. Bunlardan, 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (A) bendi kapsamında çalışanlar arasından yazılı istekte bulunanlar, Genel Müdürlükçe uygun bulunması halinde bu Kanunun yayımı tarihinden itibaren bir yıl içinde durumlarına uygun kadrolara atanabilirler. Görevlerin aksamaması için her türlü personel ve idarî destek bir yıl süre ile Başbakanlıkça karşılanır.
-GEÇİCİ
+**MADDE 2. —** Genel Müdürlüğün kadrolarına atama yapılıncaya kadar hizmetler mevcut personelle yürütülmeye devam edilir. Bunlardan, 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (A) bendi kapsamında çalışanlar arasından yazılı istekte bulunanlar, Genel Müdürlükçe uygun bulunması halinde bu Kanunun yayımı tarihinden itibaren bir yıl içinde durumlarına uygun kadrolara atanabilirler. Görevlerin aksamaması için her türlü personel ve idarî destek bir yıl süre ile Başbakanlıkça karşılanır.
+**GEÇİCİ**
 
-MADDE 3. — Kamu kurum ve kuruluşlarında görevli personelden, 12 nci maddenin ikinci fıkrasının (a) bendi kapsamındaki yüksek öğretim kurumlarını bitirerek mesleğe özel yarışma sınavı ile girilen ve belirli süreli meslek içi eğitimden sonra özel bir yeterlik sınavı sonucu uzman kadrolarına atanmış olanlar, kendilerinin isteği ve kurumlarının muvafakati alınmak suretiyle bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içerisinde sosyal yardım uzmanı olarak atanabilirler. Ancak, bu şekilde atanacakların sayısı sosyal yardım uzmanı kadro sayısının yüzde otuzunu geçemez.
-GEÇİCİ
+**MADDE 3. —** Kamu kurum ve kuruluşlarında görevli personelden, 12 nci maddenin ikinci fıkrasının (a) bendi kapsamındaki yüksek öğretim kurumlarını bitirerek mesleğe özel yarışma sınavı ile girilen ve belirli süreli meslek içi eğitimden sonra özel bir yeterlik sınavı sonucu uzman kadrolarına atanmış olanlar, kendilerinin isteği ve kurumlarının muvafakati alınmak suretiyle bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içerisinde sosyal yardım uzmanı olarak atanabilirler. Ancak, bu şekilde atanacakların sayısı sosyal yardım uzmanı kadro sayısının yüzde otuzunu geçemez.
+**GEÇİCİ**
 
-MADDE 4. — Vakıfların, bu Kanunun yürürlüğe girmesinden önce Vakıflar Genel Müdürlüğünce tahakkuk ettirilen teftiş ve denetleme masraflarına katılma paylarına ilişkin borçları silinmiştir.
-Yürürlük
+**MADDE 4. —** Vakıfların, bu Kanunun yürürlüğe girmesinden önce Vakıflar Genel Müdürlüğünce tahakkuk ettirilen teftiş ve denetleme masraflarına katılma paylarına ilişkin borçları silinmiştir.
+**Yürürlük**
 
 
 MADDE 21 – Bu Kanun yayımı tarihinde yürürlüğe girer.
-Yürütme
+**Yürütme**
 
 
 MADDE 22 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

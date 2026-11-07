@@ -12,10 +12,10 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/06/20240628-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-TÜRK SİLÂHLI KUVVETLERİ PERSONEL KANUNU İLE BAZI
-KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7517 Kabul Tarihi: 12/6/2024
+**KANUN**
+**TÜRK SİLÂHLI KUVVETLERİ PERSONEL KANUNU İLE BAZI**
+**KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7517** Kabul Tarihi: 12/6/2024
 
 MADDE 1- 22/4/1925 tarihli ve 657 sayılı Harita Genel Müdürlüğü ile İlgili Bazı Düzenlemeler Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “Harita, harita bilgisi ve coğrafi verilere yönelik mal ve sunulan hizmet bedellerinin ödenmesi

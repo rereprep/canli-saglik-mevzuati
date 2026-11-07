@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/04/20180428-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-DEVLET SU İŞLERİ GENEL MÜDÜRLÜĞÜNÜN TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN İLE BAZI KANUNLARDA VE GIDA, TARIM VE HAYVANCILIK BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7139 Kabul Tarihi: 19/4/2018
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**DEVLET SU İŞLERİ GENEL MÜDÜRLÜĞÜNÜN TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN İLE BAZI KANUNLARDA VE GIDA, TARIM VE HAYVANCILIK BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7139 Kabul Tarihi: 19/4/2018**
 
 
 MADDE 1 – 2/7/1941 tarihli ve 4081 sayılı Çiftçi Mallarının Korunması Hakkında Kanunun 34 üncü maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
@@ -39,22 +39,22 @@ MADDE 5 – 6200 sayılı Kanunun 25 inci maddesinin birinci fıkrasının (b) b
 
 
 MADDE 6 – 6200 sayılı Kanunun 49 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-49- Genel Müdürlük, 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa göre alınan harçlardan, bu Kanunda belirtilen görevleri kapsamında düzenlenen kâğıtlar sebebiyle damga vergisinden ve tapu ve kadastro işlemlerinden kaynaklanan döner sermaye hizmet bedellerinden muaftır.
+“**MADDE**
+**49-** Genel Müdürlük, 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa göre alınan harçlardan, bu Kanunda belirtilen görevleri kapsamında düzenlenen kâğıtlar sebebiyle damga vergisinden ve tapu ve kadastro işlemlerinden kaynaklanan döner sermaye hizmet bedellerinden muaftır.
 Genel Müdürlüğün gelirleri vergiden müstesnadır. Bu istisna, 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanunu ile 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanunu uyarınca yapılan kesintileri kapsamaz.”
 
 
 MADDE 7 – 6200 sayılı Kanuna aşağıdaki ek maddeler eklenmiştir.
 “EK
 
-MADDE 7- İlgili kanunların verdiği yetkiye istinaden su kaynaklarının diğer kamu kurum ve kuruluşlarınca tahsisi, kiralanması, ruhsatlandırılması gibi işlemlerde DSİ’nin görüşü alınır. Bu halde DSİ tarafından ayrıca tahsis işlemi yapılmaz. Su tahsisine ilişkin usul ve esaslar DSİ tarafından yürürlüğe konulan yönetmelikle belirlenir.
+**MADDE 7-** İlgili kanunların verdiği yetkiye istinaden su kaynaklarının diğer kamu kurum ve kuruluşlarınca tahsisi, kiralanması, ruhsatlandırılması gibi işlemlerde DSİ’nin görüşü alınır. Bu halde DSİ tarafından ayrıca tahsis işlemi yapılmaz. Su tahsisine ilişkin usul ve esaslar DSİ tarafından yürürlüğe konulan yönetmelikle belirlenir.
 Yatırım programında yer alan ve Maden İşleri Genel Müdürlüğüne bildirilen DSİ projeleri içerisinde kalan yerlerde, 3213 sayılı Kanun uyarınca maden arama ve/veya işletme ruhsatı verilmeden önce DSİ’nin uygun görüşü alınır.
 
-EK MADDE
-8- Genel Müdürlüğün görev ve sorumluluklarının yerine getirilmesinden dolayı haklarında ceza davası açılmış olanların; vekâlet verdikleri avukata, 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 168 inci maddesine göre yayımlanan avukatlık asgari ücret tarifesine göre ödedikleri ücretler ile belgelendirilmiş olmak kaydıyla dava ile ilgili olarak yaptıkları masraflar, kesinleşmiş mahkûmiyet kararı halinde geri alınmak kaydıyla, komisyon kararı üzerine Genel Müdürün teklifi ve Genel Müdürlüğün bağlı olduğu Bakanın onayı ile karşılanabilir. Komisyonun oluşumu ile çalışmasına ve uygulamaya ilişkin usul ve esaslar yönetmelikle düzenlenir.
+EK **MADDE**
+**8-** Genel Müdürlüğün görev ve sorumluluklarının yerine getirilmesinden dolayı haklarında ceza davası açılmış olanların; vekâlet verdikleri avukata, 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 168 inci maddesine göre yayımlanan avukatlık asgari ücret tarifesine göre ödedikleri ücretler ile belgelendirilmiş olmak kaydıyla dava ile ilgili olarak yaptıkları masraflar, kesinleşmiş mahkûmiyet kararı halinde geri alınmak kaydıyla, komisyon kararı üzerine Genel Müdürün teklifi ve Genel Müdürlüğün bağlı olduğu Bakanın onayı ile karşılanabilir. Komisyonun oluşumu ile çalışmasına ve uygulamaya ilişkin usul ve esaslar yönetmelikle düzenlenir.
 
-EK MADDE
-9- Arazilerin tabii ve suni etkilerle bozulmasının ve parçalanmasının önlenmesi, parçalanmış arazilerde ise tabii özellikleri, kullanım bütünlüğü ve mülkiyet hakları gözetilerek birden fazla arazi parçasının birleştirilip ekonomik, ekolojik ve toplumsal yönden daha işlevsel yeni parsellerin oluşturulması ve bu parsellerin arazi özellikleri ve alanı değerlendirilerek kullanım şekillerinin belirlenmesi ile köy ve arazi gelişim hizmetlerinin sağlanması maksadıyla arazi toplulaştırması yapılır. Arazi toplulaştırması projesinin uygulanacağı sınırlar içinde kalan alan arazi toplulaştırması proje sahası olarak belirlenir.
+EK **MADDE**
+**9-** Arazilerin tabii ve suni etkilerle bozulmasının ve parçalanmasının önlenmesi, parçalanmış arazilerde ise tabii özellikleri, kullanım bütünlüğü ve mülkiyet hakları gözetilerek birden fazla arazi parçasının birleştirilip ekonomik, ekolojik ve toplumsal yönden daha işlevsel yeni parsellerin oluşturulması ve bu parsellerin arazi özellikleri ve alanı değerlendirilerek kullanım şekillerinin belirlenmesi ile köy ve arazi gelişim hizmetlerinin sağlanması maksadıyla arazi toplulaştırması yapılır. Arazi toplulaştırması projesinin uygulanacağı sınırlar içinde kalan alan arazi toplulaştırması proje sahası olarak belirlenir.
 Arazi toplulaştırma ve tarla içi geliştirme hizmetlerinin yürütülmesinde DSİ uygulayıcı kuruluş olarak yetkilidir. DSİ dışındaki kurum ve kuruluşlar DSİ’nin iznine tabi olarak proje idaresi sıfatıyla arazi toplulaştırma ve tarla içi geliştirme hizmetlerini yürütmeye yetkilidir.
 DSİ
 tarafından bağlı olduğu Bakanlığın talebi ve Bakanlar Kurulu kararı ile isteğe bağlı ya da maliklerin muvafakati aranmaksızın zorunlu arazi toplulaştırma ve tarla içi geliştirme hizmetleri yapılabilir veya yaptırılabilir.
@@ -74,28 +74,28 @@ DSİ veya proje idaresi gerekli hallerde asgari tarımsal arazi büyüklüğün�
 Bu suretle oluşturulan araziler; öncelikle arazi toplulaştırmasına veya kamulaştırma konusu olan arazi maliklerine, bu kişiler satın almadığı takdirde, yeter gelirli tarımsal arazi büyüklüğünde tarım arazisi bulunmayan yöre çiftçilerine rayiç bedeli üzerinden DSİ’nin veya proje idaresinin talebi üzerine, Maliye Bakanlığınca belirlenen usul ve esaslara göre satılır. Bu maksatla yapılan kamulaştırma ve satımlara konu olan işlemler harçlardan, bu işlemlerle ilgili olarak düzenlenecek kâğıtlar damga vergisinden müstesnadır.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar DSİ’nin bağlı olduğu Bakanlık tarafından yürürlüğe konulan yönetmelikle belirlenir.
 
-EK MADDE
-10- Sulama kooperatiflerinin kurulmasına izin vermek, sulama kooperatiflerini denetlemek, bunların eylem ve işlemlerinin hukuka uygun olarak neticelendirilmesi için gerekli tedbirleri almak, DSİ’nin yetkisindedir.
+EK **MADDE**
+**10-** Sulama kooperatiflerinin kurulmasına izin vermek, sulama kooperatiflerini denetlemek, bunların eylem ve işlemlerinin hukuka uygun olarak neticelendirilmesi için gerekli tedbirleri almak, DSİ’nin yetkisindedir.
 DSİ’nin sulama tesislerini işleten kooperatiflerden finansal ve mali yapısının sürdürülemez olduğu tespit edilenlerle yapılmış olan devir sözleşmeleri DSİ’nin teklifi ve Bakanın onayıyla feshedilir.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar DSİ tarafından belirlenir.
 
-EK MADDE
-11- Sulama tesislerinden izinsiz olarak su kullananlara, izinli kullanım olması halinde alınması gereken işletme ve bakım ücretinin %50 fazlası tutarında idari para cezası verilir.
+EK **MADDE**
+**11-** Sulama tesislerinden izinsiz olarak su kullananlara, izinli kullanım olması halinde alınması gereken işletme ve bakım ücretinin %50 fazlası tutarında idari para cezası verilir.
 Devlet tarafından yapılacak destekleme ödemesi almaya hak kazanan çiftçilerin vadesi geldiği halde ödenmeyen sulama işletme ve bakım ücreti veya su kullanım hizmet bedeli borcu bulunması halinde; DSİ veya işletme ve bakım sorumluluğu devredilen gerçek veya tüzel kişi tarafından tarımsal destekleme ödemesi yapacak bankaya borç miktarı bildirilir. Bu bildirim üzerine; destekleme ödemelerinden borç tutarı mahsup edilerek, DSİ veya işletme ve bakım sorumluluğu devredilen gerçek veya tüzel kişiye ödenir.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar DSİ tarafından belirlenir.
 
-EK MADDE
-12- 8/3/2011 tarihli ve 6172 sayılı Sulama Birlikleri Kanununa göre tüzel kişiliği sona eren sulama birlikleri tarafından işletme ve bakım hizmetleri yerine getirilen sulama tesisleri ile DSİ tarafından inşa edilen sulama tesisleri DSİ tarafından işletilir veya ilgili idarenin talebi ve DSİ’nin teklifi üzerine bağlı olduğu Bakan tarafından onaylananlar, işletme ve bakım hizmetleri yerine getirilmek üzere;
+EK **MADDE**
+**12-** 8/3/2011 tarihli ve 6172 sayılı Sulama Birlikleri Kanununa göre tüzel kişiliği sona eren sulama birlikleri tarafından işletme ve bakım hizmetleri yerine getirilen sulama tesisleri ile DSİ tarafından inşa edilen sulama tesisleri DSİ tarafından işletilir veya ilgili idarenin talebi ve DSİ’nin teklifi üzerine bağlı olduğu Bakan tarafından onaylananlar, işletme ve bakım hizmetleri yerine getirilmek üzere;
 a) Büyükşehir belediyesinin görev alanı içinde kalan yerlerde yatırım izleme ve koordinasyon başkanlıklarına devredilebilir, yatırım izleme ve koordinasyon başkanlıkları tarafından devralınan sulama tesisleri su ve kanalizasyon idarelerine veya ilçe belediyelerine devredilebilir.
 b) Büyükşehir belediyesi dışında kalan yerlerde ise belediyelere veya il özel idarelerine devredilebilir.
 Birinci fıkraya göre sulama tesislerini devralan idareler bu tesisleri inşa maksatlarına uygun olarak işletmekle, bunların bakım ve onarım hizmetlerini yapmakla, proje alanında DSİ tarafından gerekli görülen sulama ve drenaj maksatlı ilave yapıları projelendirip inşa etmekle, rehabilitasyonunu yapmak veya yaptırmakla, bu Kanun gereğince tahakkuk ettirilecek varsa ortak işletmeye ait bedelleri ödemekle, sulama tesisinden faydalananlardan alınacak su kullanım hizmet bedelini Bakan tarafından tespit edilen en düşük ücret tarifesinden aşağı olmamak üzere belirlemekle görevlidir.
 Sulama tesisleri, DSİ tarafından hizmet alımı suretiyle işlettirilebilir.
 
-EK MADDE
-13- Genel Müdürlüğün mühendis kadrolarına ilk defa açıktan atanacak personel, Kamu Personel Seçme Sınavı (B) Grubu puan sırasına göre her bir unvan için boş kadro sayısının dört katına kadar çağrılacak adaylar arasından Genel Müdürlükçe yapılan sözlü ve/veya uygulamalı sınav başarı sırasına göre atanır. Genel Müdürlük kadrolarına yapılacak atama ve nakil işlemlerine ilişkin usul ve esaslar yönetmelikle düzenlenir.
+EK **MADDE**
+**13-** Genel Müdürlüğün mühendis kadrolarına ilk defa açıktan atanacak personel, Kamu Personel Seçme Sınavı (B) Grubu puan sırasına göre her bir unvan için boş kadro sayısının dört katına kadar çağrılacak adaylar arasından Genel Müdürlükçe yapılan sözlü ve/veya uygulamalı sınav başarı sırasına göre atanır. Genel Müdürlük kadrolarına yapılacak atama ve nakil işlemlerine ilişkin usul ve esaslar yönetmelikle düzenlenir.
 
-EK MADDE
-14- Ekli (1) ve (2) sayılı listelerde yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Devlet Su İşleri Genel Müdürlüğüne ait bölümüne eklenmiştir.”
+EK **MADDE**
+**14-** Ekli (1) ve (2) sayılı listelerde yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Devlet Su İşleri Genel Müdürlüğüne ait bölümüne eklenmiştir.”
 
 
 MADDE 8 – 6200 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
@@ -131,8 +131,8 @@ Yangın görmüş ormanlarla, gençleştirmeye ayrılmış veya ağaçlandırıl
 
 
 MADDE 12 – 6831 sayılı Kanunun 30 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-30- Devlet ormanlarından elde edilen dikili ağaç da dâhil orman ürünlerinin piyasa satışlarında açık artırma esastır.
+“**MADDE**
+**30-** Devlet ormanlarından elde edilen dikili ağaç da dâhil orman ürünlerinin piyasa satışlarında açık artırma esastır.
 Kamu kurum ve kuruluşlarının ihtiyaçları ile lüzum ve fayda görülen veya acele olarak satış yapılmasını gerektiren hallerde, her türlü orman ürünü piyasa fiyatı üzerinden tahsisen satılabilir.
 Amenajman plan verilerine uygun olarak dikili ağaç da dâhil orman ürünlerinin satışları beş yıllık süreleri geçmemek üzere, yıllara sâri olarak da yapılabilir.”
 
@@ -160,22 +160,22 @@ MADDE 15 – 6831 sayılı Kanunun 72 nci maddesi aşağıdaki şekilde değişt
 MADDE 16 – 6831 sayılı Kanunun ek 5 inci maddesi aşağıdaki şekilde değiştirilmiştir.
 “EK
 
-MADDE 5- Bu Kanunun uygulanmasına ilişkin usul ve esaslar ile orman alanlarından yararlanma karşılığı alınacak bedel miktarlarının tespiti ve tahsiline ilişkin hususlar, Orman Genel Müdürlüğü tarafından yürürlüğe konulan yönetmelikle belirlenir.”
+**MADDE 5-** Bu Kanunun uygulanmasına ilişkin usul ve esaslar ile orman alanlarından yararlanma karşılığı alınacak bedel miktarlarının tespiti ve tahsiline ilişkin hususlar, Orman Genel Müdürlüğü tarafından yürürlüğe konulan yönetmelikle belirlenir.”
 
 
 MADDE 17 – 6831 sayılı Kanuna aşağıdaki ek maddeler eklenmiştir.
 “EK
 
-MADDE 15- Orman kadastrosu yapılmayan veya orman kadastrosu yapılmış olup da orman sınırları dışında kalan yerlerde bulunan, gerçek veya özel hukuk tüzel kişileri adına tapuda tescilli olduğu halde, ağaçlandırma ve erozyon kontrolü çalışmaları sırasında kamulaştırılmaksızın orman idaresince 31/12/2017 tarihinden önce ağaçlandırılmış olan taşınmazlardan, orman olarak kullanılmasında yarar görülen taşınmazlara karşılık; aynı bölgede bulunan 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanun kapsamında değerlendirilmeyen 2/B taşınmazlarından, bunun mümkün olmaması halinde diğer hazine taşınmazlarından eşdeğer taşınmaz verilebilir.
+**MADDE 15-** Orman kadastrosu yapılmayan veya orman kadastrosu yapılmış olup da orman sınırları dışında kalan yerlerde bulunan, gerçek veya özel hukuk tüzel kişileri adına tapuda tescilli olduğu halde, ağaçlandırma ve erozyon kontrolü çalışmaları sırasında kamulaştırılmaksızın orman idaresince 31/12/2017 tarihinden önce ağaçlandırılmış olan taşınmazlardan, orman olarak kullanılmasında yarar görülen taşınmazlara karşılık; aynı bölgede bulunan 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanun kapsamında değerlendirilmeyen 2/B taşınmazlarından, bunun mümkün olmaması halinde diğer hazine taşınmazlarından eşdeğer taşınmaz verilebilir.
 Bu maddenin uygulanması ile ilgili usul ve esaslar Maliye Bakanlığından görüş alınarak Orman Genel Müdürlüğü tarafından belirlenir.
 
-EK MADDE 16- Orman ve Su İşleri Bakanlığınca, bilim ve fen bakımından orman olarak muhafazasında hiçbir yarar görülmeyen ve tarım alanına dönüştürülmesi de mümkün olmayan yerler ile bu maddenin yürürlüğe girdiği tarihte üzerinde yerleşim yeri bulunan ya da yerleşim yeri oluşturulması uygun olan taşlık, kayalık, verimsiz ve fiilen orman vasfı taşımayan alanlardan, Orman ve Su İşleri Bakanlığının teklifi üzerine sınırları Bakanlar Kurulunca belirlenen alanlar, Bakanlar Kurulunca belirlenecek usul ve esaslara göre Orman Genel Müdürlüğünce orman sınırları dışına çıkartılarak tapuda Hazine adına tescil edilir. Orman sınırları dışına çıkartılan alanın iki katından az olmamak üzere Devletin hüküm ve tasarrufu altında veya Hazinenin özel mülkiyetinde bulunan taşınmazlar Orman Genel Müdürlüğüne orman tesis etmek üzere tahsis edilir.
+EK **MADDE 16-** Orman ve Su İşleri Bakanlığınca, bilim ve fen bakımından orman olarak muhafazasında hiçbir yarar görülmeyen ve tarım alanına dönüştürülmesi de mümkün olmayan yerler ile bu maddenin yürürlüğe girdiği tarihte üzerinde yerleşim yeri bulunan ya da yerleşim yeri oluşturulması uygun olan taşlık, kayalık, verimsiz ve fiilen orman vasfı taşımayan alanlardan, Orman ve Su İşleri Bakanlığının teklifi üzerine sınırları Bakanlar Kurulunca belirlenen alanlar, Bakanlar Kurulunca belirlenecek usul ve esaslara göre Orman Genel Müdürlüğünce orman sınırları dışına çıkartılarak tapuda Hazine adına tescil edilir. Orman sınırları dışına çıkartılan alanın iki katından az olmamak üzere Devletin hüküm ve tasarrufu altında veya Hazinenin özel mülkiyetinde bulunan taşınmazlar Orman Genel Müdürlüğüne orman tesis etmek üzere tahsis edilir.
 Birinci fıkrada belirtilen alanlarda 21/6/1987 tarihli ve 3402 sayılı Kadastro Kanununun 22 nci maddesinin kadastrosu yapılmış olan yerlerin ikinci defa kadastroya tabi tutulamayacağına ilişkin hükmü uygulanmaz.
 Birinci fıkra kapsamında orman sınırları dışına çıkarılacak alanların tespiti maksadıyla, Orman ve Su İşleri Bakanlığınca yeteri kadar orman kadastro komisyonu görevlendirilir ve bu tespit sırasında ilan süresi bir hafta, itiraz süresi bir ay olarak uygulanır.
 Bu Kanunun 1 inci maddesine göre ilk defa yapılacak orman kadastrosu uygulamasındaki işlemlere ilişkin sürelerde de üçüncü fıkra hükümleri uygulanır.
 
-EK MADDE
-17- Orman köyü veya orman köylüsüne tanınan hak, sorumluluk ve imtiyazlardan istifade eden kasaba iken; 12/11/2012 tarihli ve 6360 sayılı Kanun ile 20/2/2014 tarihli ve 6525 sayılı Kanun kapsamında mahalleye dönüşen yerler, büyükşehir belediyesi kapsamında olmayan yerlerdeki köy ve kasabalarla aynı hak, sorumluluk ve imtiyazlardan faydalanmaya devam ederler.”
+EK **MADDE**
+**17-** Orman köyü veya orman köylüsüne tanınan hak, sorumluluk ve imtiyazlardan istifade eden kasaba iken; 12/11/2012 tarihli ve 6360 sayılı Kanun ile 20/2/2014 tarihli ve 6525 sayılı Kanun kapsamında mahalleye dönüşen yerler, büyükşehir belediyesi kapsamında olmayan yerlerdeki köy ve kasabalarla aynı hak, sorumluluk ve imtiyazlardan faydalanmaya devam ederler.”
 
 
 MADDE 18 – 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 70 inci ve 73 üncü maddeleri yürürlükten kaldırılmıştır.
@@ -198,7 +198,7 @@ MADDE 22 – 3/7/1968 tarihli ve 1053 sayılı Belediye Teşkilâtı Olan Yerle�
 MADDE 23 – 9/8/1983 tarihli ve 2873 sayılı Milli Parklar Kanununa aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 1- Bu Kanun kapsamındaki yerlerde mevcut yerleşim merkezlerinde ikamet edenler dışında bu yerlere gelen ziyaretçiler tarafından giriş kontrol merkezlerinde veya sahalar içindeki idare ve ziyaretçi merkezlerinde ödenecek olan ücretlere ilişkin usul ve esaslar Orman ve Su İşleri Bakanlığı tarafından belirlenir.
+**MADDE 1-** Bu Kanun kapsamındaki yerlerde mevcut yerleşim merkezlerinde ikamet edenler dışında bu yerlere gelen ziyaretçiler tarafından giriş kontrol merkezlerinde veya sahalar içindeki idare ve ziyaretçi merkezlerinde ödenecek olan ücretlere ilişkin usul ve esaslar Orman ve Su İşleri Bakanlığı tarafından belirlenir.
 Orman ve Su İşleri Bakanlığınca işletilen bu Kanuna tabi yerlerde giriş ücretini ödemeden giriş yaptığı tespit edilenlere Orman ve Su İşleri Bakanlığı bölge müdürlerince bu maddenin birinci fıkrasında belirlenen giriş ücretinin on katı tutarında idari para cezası verilir.
 Giriş ücretleri ve bu maddenin ikinci fıkrasında belirtilen idari para cezaları ilgiliye tebliğ tarihinden itibaren bir ay içinde ödenir. Bu sürede ödenmeyen giriş ücretleri ve idari para cezaları 21/7/1953 tarihli ve 6183 sayılı Âmme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre ilgili vergi dairesi tarafından takip ve tahsil edilir.”
 
@@ -251,10 +251,10 @@ MADDE 34 – 3234 sayılı Kanuna aşağıdaki ek maddeler eklenmiştir.
 
 MADDE 1- Orman muhafaza memuru ve orman mühendisi olarak atanacaklar, ilgili mevzuatı uyarınca yapılan merkezî sınav sonucuna göre, atanacak kadro sayısının dört katına kadar çağrılacak adaylar arasından sınav komisyonlarınca yapılacak sözlü ve uygulamalı sınav sonucuna göre belirlenir. Bu maddenin uygulanması ile ilgili usul ve esaslar Orman Genel Müdürlüğü tarafından yürürlüğe konulan yönetmelikle belirlenir.
 
-EK MADDE 2- Türkiye Radyo-Televizyon Kurumu ile ulusal, bölgesel ve yerel yayın yapan özel televizyon kuruluşları ve radyolar ayda en az doksan dakika olmak üzere orman kaynaklarının usulsüz müdahalelere, tabii afetlere, orman yangınlarına karşı korunması, gerekli tedbirlerin alınması, su kaynaklarının muhafazası ve kirliliğinin önlenmesi, tabiat sevgisi ve bilincinin artırılması, çölleşme ile mücadele, hayvanların ve tabii hayatın korunması konularında uyarıcı ve eğitici mahiyette yayınlar yapmak zorundadır. Bu yayınlar, asgari otuz dakikası 17:00-22:00 saatleri arasında olmak üzere, 08:00-22:00 saatleri arasında yapılır ve yayınların kopyaları her ay düzenli olarak Radyo ve Televizyon Üst Kuruluna teslim edilir. Bu saatler dışında yapılan yayınlar, aylık doksan dakikalık süreye dâhil edilmez. Bu programlar, Orman ve Su İşleri Bakanlığı ile Orman Genel Müdürlüğü tarafından hazırlanır veya hazırlatılır. Hazırlanan programların Radyo ve Televizyon Üst Kurulu tarafından radyo ve televizyonlarda yayınlanması sağlanır. Bu fıkra kapsamında yapılan yayınlar için herhangi bir bedel ödenmez. Bu yayınların ve sürelerinin denetimi Radyo ve Televizyon Üst Kurulunca yapılır.
+EK **MADDE 2-** Türkiye Radyo-Televizyon Kurumu ile ulusal, bölgesel ve yerel yayın yapan özel televizyon kuruluşları ve radyolar ayda en az doksan dakika olmak üzere orman kaynaklarının usulsüz müdahalelere, tabii afetlere, orman yangınlarına karşı korunması, gerekli tedbirlerin alınması, su kaynaklarının muhafazası ve kirliliğinin önlenmesi, tabiat sevgisi ve bilincinin artırılması, çölleşme ile mücadele, hayvanların ve tabii hayatın korunması konularında uyarıcı ve eğitici mahiyette yayınlar yapmak zorundadır. Bu yayınlar, asgari otuz dakikası 17:00-22:00 saatleri arasında olmak üzere, 08:00-22:00 saatleri arasında yapılır ve yayınların kopyaları her ay düzenli olarak Radyo ve Televizyon Üst Kuruluna teslim edilir. Bu saatler dışında yapılan yayınlar, aylık doksan dakikalık süreye dâhil edilmez. Bu programlar, Orman ve Su İşleri Bakanlığı ile Orman Genel Müdürlüğü tarafından hazırlanır veya hazırlatılır. Hazırlanan programların Radyo ve Televizyon Üst Kurulu tarafından radyo ve televizyonlarda yayınlanması sağlanır. Bu fıkra kapsamında yapılan yayınlar için herhangi bir bedel ödenmez. Bu yayınların ve sürelerinin denetimi Radyo ve Televizyon Üst Kurulunca yapılır.
 
-EK MADDE
-3- Genel Müdürlüğün görev ve sorumluluklarının yerine getirilmesinden dolayı haklarında ceza davası açılmış olanların; vekalet verdikleri avukata, 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 168 inci maddesine göre yayımlanan avukatlık asgari ücret tarifesine göre ödedikleri ücretler ile belgelendirilmiş olmak kaydıyla dava ile ilgili olarak yaptıkları masraflar, kesinleşmiş mahkûmiyet kararı verilmesi halinde geri alınmak kaydıyla, Komisyon kararı üzerine Genel Müdürün teklifi ve Genel Müdürlüğün bağlı olduğu Bakanın onayı ile karşılanabilir. Komisyonun oluşumu ile çalışmasına ve uygulamaya ilişkin usul ve esaslar yönetmelikle düzenlenir.”
+EK **MADDE**
+**3-** Genel Müdürlüğün görev ve sorumluluklarının yerine getirilmesinden dolayı haklarında ceza davası açılmış olanların; vekalet verdikleri avukata, 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 168 inci maddesine göre yayımlanan avukatlık asgari ücret tarifesine göre ödedikleri ücretler ile belgelendirilmiş olmak kaydıyla dava ile ilgili olarak yaptıkları masraflar, kesinleşmiş mahkûmiyet kararı verilmesi halinde geri alınmak kaydıyla, Komisyon kararı üzerine Genel Müdürün teklifi ve Genel Müdürlüğün bağlı olduğu Bakanın onayı ile karşılanabilir. Komisyonun oluşumu ile çalışmasına ve uygulamaya ilişkin usul ve esaslar yönetmelikle düzenlenir.”
 
 
 MADDE 35 – 21/6/1987 tarihli ve 3402 sayılı Kadastro Kanununun 4 üncü maddesine aşağıdaki fıkralar eklenmiştir.
@@ -272,7 +272,7 @@ MADDE 37 – 25/2/1998 tarihli ve 4342 sayılı Mera Kanununun 6 ncı maddesinin
 MADDE 38 – 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 6- Bu maddenin yürürlüğe girdiği tarihten önce Orman Genel Müdürlüğünün yatırım programında yer alan projelerinin finansmanı amacıyla imzalanan kredi anlaşmaları ile temin edilen dış finansman Genel Müdürlüğe tahsisli olarak kullandırılmış sayılır ve tahsisli olarak kullandırılmaya devam edilir. Bu maddenin yürürlüğe girdiği tarihi takiben temin edilecek dış finansman Genel Müdürlüğe tahsisli olarak kullandırılabilir. Bu madde kapsamında tahsis edilen kredilerle ilgili olarak krediyi tahsis eden kuruluş hakkında bu Kanunun 14 üncü maddesinin beşinci ve altıncı fıkralarının 5018 sayılı Kanunun eki (I) sayılı cetvelde yer alan kuruluşlara ilişkin hükümleri uygulanmaz.”
+**MADDE 6-** Bu maddenin yürürlüğe girdiği tarihten önce Orman Genel Müdürlüğünün yatırım programında yer alan projelerinin finansmanı amacıyla imzalanan kredi anlaşmaları ile temin edilen dış finansman Genel Müdürlüğe tahsisli olarak kullandırılmış sayılır ve tahsisli olarak kullandırılmaya devam edilir. Bu maddenin yürürlüğe girdiği tarihi takiben temin edilecek dış finansman Genel Müdürlüğe tahsisli olarak kullandırılabilir. Bu madde kapsamında tahsis edilen kredilerle ilgili olarak krediyi tahsis eden kuruluş hakkında bu Kanunun 14 üncü maddesinin beşinci ve altıncı fıkralarının 5018 sayılı Kanunun eki (I) sayılı cetvelde yer alan kuruluşlara ilişkin hükümleri uygulanmaz.”
 
 
 MADDE 39 – 1/7/2003 tarihli ve 4915 sayılı Kara Avcılığı Kanununun 2 nci maddesinin birinci fıkrasının (30) numaralı bendi ve 10 uncu maddesi yürürlükten kaldırılmıştır.
@@ -295,7 +295,7 @@ MADDE 43 – 31/10/2006 tarihli ve 5553 sayılı Tohumculuk Kanununun 24 üncü 
 
 MADDE 44 – 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 7 nci maddesinin ikinci fıkrasında yer alan “bedelleri ile” ibaresi madde metninden çıkarılmıştır.
 
-MADDE 45- 5996 sayılı Kanunun eki ek-2’de yer alan “ÜRETİM, İŞLEME VE DAĞITIM AŞAMALARINDA RESMİ KONTROLLERDEN SORUMLU MESLEK MENSUPLARI” tablosunun “A.
+**MADDE 45-** 5996 sayılı Kanunun eki ek-2’de yer alan “ÜRETİM, İŞLEME VE DAĞITIM AŞAMALARINDA RESMİ KONTROLLERDEN SORUMLU MESLEK MENSUPLARI” tablosunun “A.
 BİRİNCİL ÜRETİM” kısmının ikinci satırının ikinci sütununa “Ziraat mühendisi” ibaresinden sonra gelmek üzere “, orman mühendisi, tütün teknoloji mühendisi” ibaresi eklenmiş, “B. ÜRETİM VE İŞLEME” kısmının, “Hayvan kökenli gıda ve yemler” sütununun birinci satırının birinci sütunu “Kesimhane ve kombinalar” şeklinde değiştirilmiş, bu satırdan sonra gelmek üzere “Parçalama işlemi yapılan yerler” satırı eklenerek satırın ikinci sütununa “Veteriner hekim, gıda mühendisi, ziraat mühendisi (gıda ve zootekni bölümü)” ibaresi eklenmiş, son satırının ikinci sütununa “Veteriner hekim,” ibaresinden sonra gelmek üzere “ziraat mühendisi (zooteknist), su ürünleri mühendisi” ibaresi eklenmiş, ikinci satırındaki yem işletmeleri satırının ikinci sütunundaki “(balık yemi üreten işletmeler)” ibaresi çıkarılmış, dördüncü satırının ikinci sütununa “ziraat mühendisi,” ibaresinden sonra gelmek üzere “su ürünleri mühendisi” ibaresi, son satırının ikinci sütununa “kimya mühendisi” ibaresinden sonra gelmek üzere “, orman mühendisi, orman endüstri mühendisi” ibaresi, “C. DAĞITIM” kısmının “Perakende işyerleri” bölümünün birinci satırının ikinci sütununa “veteriner hekim” ibaresinden sonra gelmek üzere “gıda mühendisi” ibaresi, ikinci satırının ikinci sütununa “ziraat mühendisi” ibaresinden sonra gelmek üzere “, orman mühendisi, orman endüstri mühendisi, gıda mühendisi” ibaresi, üçüncü satırının ikinci sütununa “ziraat mühendisi” ibaresinden sonra gelmek üzere “su ürünleri mühendisi” ibaresi, beşinci satırının ikinci sütununa “ziraat mühendisi,” ibaresinden sonra gelmek üzere “su ürünleri mühendisi, balıkçılık teknolojisi mühendisi” ibaresi, aynı bölümün sonuna “Su ürünleri depolayan ve dağıtan” satırı ve bu satırın ikinci sütununa “Veteriner hekim, su ürünleri mühendisi, gıda mühendisi, ziraat mühendisi (gıda ve su ürünleri bölümü)” ibaresi, aynı kısmın üçüncü satırının ikinci sütununa “kimya mühendisi” ibaresinden sonra gelmek üzere “, orman mühendisi, orman endüstri mühendisi” ibaresi, dördüncü satırının ikinci sütununa “veteriner hekim” ibaresinden sonra gelmek üzere “su ürünleri mühendisi,” ibaresi ve “Ç.
 İTHALAT” kısmının birinci satırının ikinci sütununa “ziraat mühendisi” ibaresinden sonra gelmek üzere “gıda mühendisi” ibaresi eklenmiş, üçüncü satırından “ve hayvansal ürünler” ibaresi çıkarılmış, ikinci sütununa “veteriner hekim” ibaresinden sonra gelmek üzere “su ürünleri mühendisi,” ibaresi, dördüncü satır olarak “Hayvansal ürünler” satırı, bu satırın ikinci sütununa “Veteriner hekim, gıda mühendisi, ziraat mühendisi (gıda, süt ve su ürünleri bölümü), su ürünleri mühendisi (su ürünleri ithalatı)” ibaresi eklenmiş, “Yemler” satırının ikinci sütununa “veteriner hekim” ibaresinden sonra gelmek üzere “, su ürünleri mühendisi,” ibaresi, son satırının ikinci sütununa “kimya mühendisi” ibaresinden sonra gelmek üzere “, orman mühendisi, orman endüstri mühendisi” ibaresi eklenmiştir.
 
@@ -330,8 +330,8 @@ c) Birlik görev alanı dışında kalan su kullanıcılarına, izinsiz olarak s
 
 
 MADDE 49 – 6172 sayılı Kanunun 18 inci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-18- (1) Birliklerin denetimi DSİ veya Bakanlık tarafından yapılır.
+“**MADDE**
+**18-** (1) Birliklerin denetimi DSİ veya Bakanlık tarafından yapılır.
 Birlikler mali yönden yılda bir defa ayrıca Maliye Bakanlığının denetimine tabidir. Bu denetimler sonucunda düzenlenecek raporların bir örneği, gerekli işlemlerin yapılması için Bakanlığa gönderilir.
 (2) Denetim sonucunda birliğin zarara uğratıldığının tespit edilmesi halinde 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 71 inci maddesi hükümleri uygulanır.
 (3) Birlikler, Sayıştay tarafından doğrudan denetlenebilir.
@@ -339,8 +339,8 @@ Birlikler mali yönden yılda bir defa ayrıca Maliye Bakanlığının denetimin
 
 
 MADDE 50 – 6172 sayılı Kanunun 20 nci maddesi aşağıdaki şekilde değiştirilmiştir.
-“MADDE
-20- (1) Birliğin amacına ulaşamayacağının tespit edilmesi durumunda birlik, DSİ’nin teklifi üzerine Bakan onayı ile feshedilir.
+“**MADDE**
+**20-** (1) Birliğin amacına ulaşamayacağının tespit edilmesi durumunda birlik, DSİ’nin teklifi üzerine Bakan onayı ile feshedilir.
 (2) Birliğin tasfiyesi DSİ tarafından yürütülür. Tasfiyenin usul ve esasları çerçeve ana statü ile düzenlenir.
 (3) Tüzel kişiliği sona erdirilen sulama birlikleri tarafından işletilen sulama tesisleri hakkında 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun hükümleri uygulanır.”
 

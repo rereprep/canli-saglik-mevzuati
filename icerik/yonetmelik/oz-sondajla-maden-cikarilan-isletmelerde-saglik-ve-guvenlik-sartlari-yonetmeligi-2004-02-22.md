@@ -17,27 +17,27 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2004/02/20040222.htm#1"
 
 ### YÜRÜTME VE İDARE BÖLÜMÜ
 
-Yönetmelik
+**Yönetmelik**
 
 — Sondajla Maden Çıkarılan İşletmelerde Sağlık ve Güvenlik Şartları Yönetmeliği
 
-Tebliğ
+**Tebliğ**
 
 — Zonguldak Valiliği Mahalli Çevre Kurulu Kararı (No: 6)
 
 ### YÜRÜTME VE İDARE BÖLÜMÜ
 
-Yönetmelik
+**Yönetmelik**
 
 Çalışma ve Sosyal Güvenlik Bakanlığından:
 
-Sondajla Maden Çıkarılan İşletmelerde Sağlık ve
+**Sondajla Maden Çıkarılan İşletmelerde Sağlık ve**
 
-Güvenlik Şartları Yönetmeliği
+**Güvenlik Şartları Yönetmeliği**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç**, **Kapsam**, **Dayanak** ve **Tanımlar**
 
 #### Amaç
 
@@ -155,7 +155,7 @@ c) Yürürlüğe girdiği tarihten sonra işyerinde yapılacak değişiklik ve e
 
 ### ÜÇÜNCÜ BÖLÜM
 
-İlgili Avrupa Birliği Mevzuatı, Yürürlük ve Yürütme
+**İlgili Avrupa Birliği Mevzuatı**, Yürürlük ve Yürütme
 
 #### İlgili Avrupa Birliği Mevzuatı
 
@@ -835,15 +835,15 @@ Helikopter pisti planlanan hizmetlere uygun yapıda tasarlanacak ve inşa edilec
 
 Sayfa Başı
 
-Tebliğ
+**Tebliğ**
 
 Zonguldak Valiliğinden:
 
-Mahalli Çevre Kurulu Kararı
+**Mahalli Çevre Kurulu Kararı**
 
-Karar Tarihi : 06/10/2003
+**Karar Tarihi : 06/10/2003**
 
-Karar No : 18
+**Karar No : 18**
 
 İlimiz Mahalli Çevre Kurulu, 06/10/2003 tarihinde Vali Yardımcısı Mehmet ÇUBUKTAR başkanlığında toplanarak aşağıdaki kararları almıştır.
 

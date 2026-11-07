@@ -22,37 +22,37 @@ Konu : Okul sağlığı çalışmaları
 
 DAĞITIM YERLERİNE
 
-Obezite, 21. yüzyılın küresel ölçekte en önemli halk sağlığı sorunlarından biri olup, hem gelişmiş hem de gelişmekte olan ülkelerde görülme sıklığı giderek artmaktadır. Bu kapsamda “Türkiye Obezite ile Mücadele ve
+Obezite, 21. yüzyılın küresel ölçekte en önemli halk sağlığı sorunlarından biri olup, hem gelişmiş hem de gelişmekte olan ülkelerde görülme sıklığı giderek artmaktadır. Bu kapsamda **“Türkiye Obezite ile Mücadele ve**
 
-Fiziksel Aktivite Eylem Planı (2025-2028)” hazırlanmıştır.
+**Fiziksel Aktivite Eylem Planı (2025-2028)”** hazırlanmıştır.
 
-Eylem Planı’nın “Çocukluk Çağı Obezitesinin Önlenmesi” başlıklı II. Bölümünde yer alan stratejilerden biri, okul öncesi ve okullarda sağlıklı çevrelerin oluşturulmasıdır. Bakanlığımız ve Millî Eğitim Bakanlığı iş birliğiyle okul sağlığına yönelik faaliyetler sürdürülmektedir.
+Eylem Planı’nın <i>“Çocukluk Çağı Obezitesinin Önlenmesi”</i> başlıklı II. Bölümünde yer alan stratejilerden biri, okul öncesi ve okullarda sağlıklı çevrelerin oluşturulmasıdır. Bakanlığımız ve Millî Eğitim Bakanlığı iş birliğiyle okul sağlığına yönelik faaliyetler sürdürülmektedir.
 
-Eylül ayında başlayan 2025-2026 eğitim öğretim yılı boyunca söz konusu eylem planı ve işbirliği çerçevesinde;
+Eylül ayında başlayan **2025-2026 eğitim öğretim yılı** boyunca söz konusu eylem planı ve işbirliği çerçevesinde;
 
 1. Öğretmenler, okul çalışanları, öğrenciler ve gerektiğinde velilere yönelik olarak sağlıklı beslenme (tuzun azaltılması, çölyak vb.), diyabet ve fiziksel aktivite konularında yüz yüze eğitimlerin İl Millî Eğitim
 
-Müdürlükleri ile iş birliği içinde planlanması, yüz yüze eğitimin mümkün olmadığı durumlarda okuldadiyabet.meb.gov.tr adresindeki platformun kullanılması, tüm eğitimlerin HSYS
+Müdürlükleri ile iş birliği içinde planlanması, yüz yüze eğitimin mümkün olmadığı durumlarda <i>okuldadiyabet.meb.gov.tr</i> adresindeki platformun kullanılması, tüm eğitimlerin HSYS
 
 Beslenme ve Fiziksel Aktivite Modülü / Eğitimler sekmesi üzerinden sisteme kaydedilmesi,
 
-2. Millî Eğitim Bakanlığı’nın 2020/8 sayılı “Okul Kantinlerinde Satılacak Gıdalar ve Eğitim
+2. Millî Eğitim Bakanlığı’nın 2020/8 sayılı “<i>Okul Kantinlerinde Satılacak Gıdalar ve Eğitim</i>
 
-Kurumlarındaki Gıda İşletmelerinin Hijyen Yönünden Denetlenmesi Genelgesi” kapsamında yürütülen denetimlerde İl/İlçe Gıda İşletmeleri Denetim Ekiplerine öncelikle diyetisyenlerin görevlendirilmesi,
+<i>Kurumlarındaki Gıda İşletmelerinin Hijyen Yönünden Denetlenmesi Genelgesi”</i> kapsamında yürütülen denetimlerde İl/İlçe Gıda İşletmeleri Denetim Ekiplerine öncelikle diyetisyenlerin görevlendirilmesi,
 
-3. Okul çocuklarının değerlendirilmesi ve politika oluşturma süreçlerinde kullanılmak üzere yürütülen Sağlıkla İlgili Fiziksel Uygunluk Karnesi (FUK) programı kapsamında yapılacak ölçümlerin tüm öğrencilere uygulanması, ders öncesi egzersizlerin yapılması hususlarında planlama yapılırken İl
+3. Okul çocuklarının değerlendirilmesi ve politika oluşturma süreçlerinde kullanılmak üzere yürütülen **Sağlıkla İlgili Fiziksel Uygunluk Karnesi (FUK)** programı kapsamında yapılacak ölçümlerin tüm öğrencilere uygulanması, ders öncesi egzersizlerin yapılması hususlarında planlama yapılırken İl
 
-Millî Eğitim Müdürlükleri bünyesinde görev yapan İl Hareketli Yaşam ve Sportif Faaliyetler
+Millî Eğitim Müdürlükleri bünyesinde görev yapan **İl Hareketli Yaşam ve Sportif Faaliyetler**
 
-Sorumluları ile işbirliği içerisinde olunması,
+**Sorumluları** ile işbirliği içerisinde olunması,
 
-4. Özel günlerde İl Milli Eğitim Müdürlükleri ile işbirliği içerisinde düzenlenecek programlarda “Okul
+4. Özel günlerde İl Milli Eğitim Müdürlükleri ile işbirliği içerisinde düzenlenecek programlarda “<i>Okul</i>
 
-Öncesi Öğretmenleri İçin Beslenme ve Fiziksel Aktivite Rehberi”, “Toplu Tüketim Yerleri İçin Ulusal
+<i>Öncesi Öğretmenleri İçin Beslenme ve Fiziksel Aktivite Rehberi”, “Toplu Tüketim Yerleri İçin Ulusal</i>
 
-Menü Planlama ve Uygulama Rehberi” ve “Sağlıklı Beslenme ve Fiziksel Aktivite Öğretmen El
+<i>Menü Planlama ve Uygulama Rehberi”</i> ve <i>“Sağlıklı Beslenme ve Fiziksel Aktivite Öğretmen El</i>
 
-Kitabı” gibi dokümanların kullanımının sağlanması hususlarında
+<i>Kitabı”</i> gibi dokümanların kullanımının sağlanması hususlarında
 
 Bilgilerinizi ve gereğini arz/rica ederim.
 

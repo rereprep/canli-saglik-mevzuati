@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -96,9 +96,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Hava Kalitesi Değerleri ve Hava Kalitesinin Değerlendirilmesi
+**Hava Kalitesi Değerleri ve Hava Kalitesinin Değerlendirilmesi**
 
-Uzun vadeli hedefler, hedef değerler, limit değerler, bilgilendirme ve uyarı eşikleri, üst ve alt değerlendirme eşikleri
+**Uzun vadeli hedefler, hedef değerler, limit değerler, bilgilendirme ve uyarı eşikleri, üst ve alt değerlendirme eşikleri**
 
 **MADDE 5 –** (1) Ek I’de belirtilen havadaki ozon konsantrasyonları için uzun vadeli hedeflere, kademeli önlemler alınarak uzun vadede ulaşılır.
 
@@ -192,7 +192,7 @@ c) Hedef değerlerle uyumun değerlendirilmesi amacı ile havadaki arsenik, kadm
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Hava Kalitesi Hedeflerine Ulaşılması, Uygulaması ve Yürütülmesi
+**Hava Kalitesi Hedeflerine Ulaşılması, Uygulaması ve Yürütülmesi**
 
 #### Uyumluluğun sağlanması için önlemler
 
@@ -252,7 +252,7 @@ Hava Kalitesi Hedeflerine Ulaşılması, Uygulaması ve Yürütülmesi
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Kamuoyunun bilgilendirilmesi
 
@@ -414,7 +414,7 @@ yürürlüğe girer.
 
 **MADDE 18 –** (1) Bu Yönetmelik hükümlerini Çevre ve Orman Bakanı yürütür.
 
-Ek- I
+**Ek- I**
 
 ### LİMİT DEĞERLER, HEDEF DEĞERLER, UZUN VADELİ HEDEFLER, DEĞERLENDİRME EŞİKLERİ, BİLGİLENDİRME VE UYARI EŞİKLERİ
 
@@ -455,7 +455,7 @@ B) Limit değerler, değerlendirme ve uyarı eşikleri
 | Benzen | yıllık -insan sağlığının korunması için- | 5 µg/m 3 | 1.1.2014 tarihinde 5 µg/m³ (% 100) ve 01.01.2017 tarihinden 1.1.2021 tarihine kadar tolerans payı sıfırlanacak şekilde her 12 ayda bir eşit miktarda yıllık olarak azaltılır | limit değerin %70’i ( 3, 5 µg/m 3 ) | limit değerin %40’ı ( 2 µg/m 3 ) | 1 Ocak 2021 zaman-sınırlı uzatmaya mutabık kalınan “bölge” ve “alt bölge”ler hariç (bakınız madde 12 (3)) |
 | Karbon monoksit | maksimum günlük 8 saatlik ortalama -insan sağlığının korunması için- | 10 mg/m 3 | 1.1.2014 tarihinde 6 mg/m³ (% 60) ve 1.1.2017 tarihine kadar tolerans payı sıfırlanacak şekilde her 12 ayda bir eşit miktarda yıllık olarak azaltılır | limit değerin %70’i ( 7 mg/m 3 ) | limit değerin %50’si ( 5 mg/m 3 ) | 1 Ocak 2017 |
 
-C) Arsenik, kadmiyum, nikel ve benzo(a)piren için hedef değerler ve değerlendirme eşikleri
+**C) Arsenik, kadmiyum, nikel ve benzo(a)piren için hedef değerler ve değerlendirme eşikleri**
 
 | Kirletici | Hedef değer (a) | Hedef değerin yüzdesi olarak üst değerlendirme eşiği | Hedef değerin yüzdesi olarak alt değerlendirme eşiği | Hedef değere ulaşılacak tarih |
 | Arsenik | 6 ng/m 3 | % 60 ( 3,6 ng/m 3 ) | % 40 ( 2,4 ng/m 3 ) | 1 Ocak 2020 |
@@ -916,7 +916,7 @@ Bu yönetmeliğin 10 uncu maddesi altında sağlanacak bilgiler;
 
 10. Bu ekte istenilen bilgileri desteklemede kullanılan yayınlar, belgeler, çalışmalar ve benzerlerinin listesi
 
-Ek-V
+**Ek-V**
 
 ### UYARI EŞİKLERİ AŞILDIĞINDA KAMUOYUNA SUNULACAK ASGARİ BİLGİLER
 

@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Bakanlığından:
-ÇEVRESEL ETKİ DEĞERLENDİRMESİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ÇEVRESEL ETKİ DEĞERLENDİRMESİ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 29/7/2022 tarihli ve 31907 sayılı Resmî Gazete’de yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (ğ) bendi yürürlükten kaldırılmış, (h) bendinde yer alan “gereklidir” ibaresi “raporu hazırlanmalıdır” şeklinde değiştirilmiş, (i) bendi aşağıdaki şekilde değiştirilmiş, (k) bendinde yer alan “Gereklidir” ibaresi “Raporu Hazırlanmalıdır” şeklinde değiştirilmiş, (ö) bendinde yer alan ““Çevresel Etki Değerlendirmesi Gerekli Değildir” veya” ve “inşaat öncesi,” ibareleri yürürlükten kaldırılmış, (bb) ve (hh) bentlerinde yer alan “ÇED Olumlu/ÇED Gerekli Değildir” ibareleri “ÇED Olumlu” şeklinde, (cc) bendinde yer alan “Ek-1’deki listede yer alan” ibaresi “7 nci ve 24 üncü maddeler kapsamında ÇED başvuru dosyası Bakanlığa sunulan” şeklinde değiştirilmiş, (ff) bendi aşağıdaki şekilde değiştirilmiş ve aynı fıkraya aşağıdaki bentler eklenmiştir.
 “i) Çevresel etki değerlendirmesi olumlu kararı:

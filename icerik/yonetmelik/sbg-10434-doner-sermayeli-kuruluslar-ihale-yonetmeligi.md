@@ -9,13 +9,13 @@ durum: "yürürlükte"
 
 ## DÖNER SERMAYELİ KURULUŞLAR İHALE YÖNETMELİĞİ
 
-Bakanlar Kurulu Kararının Tarihi : 15.6.1984 No : 84/8213
+**Bakanlar Kurulu Kararının Tarihi : 15.6.1984 No : 84/8213**
 
-Dayandığı Kanunun Tarihi : 8.9.1983 No : 2886
+**Dayandığı Kanunun Tarihi : 8.9.1983 No : 2886**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 4.8.1984 No : 18479
+**Yayımlandığı Resmî Gazetenin Tarihi : 4.8.1984 No : 18479**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 24 Sayfa : 2198
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 24 Sayfa : 2198**
 
 ## BİRİNCİ KISIM Genel Esaslar AMAÇ VE KAPSAM:
 
@@ -397,9 +397,9 @@ h) Tek kişi veya firma elinde bulunan taşınır mal, hak ve hizmetlerle, belir
 
 j) Kuruluşun bağlı olduğu idarenin birinci derece ita amirinin izni alınmak kaydıyla, özellikleri nedeniyle yabancı ülkelerden sağlanması zorunlu olan her türlü alım, kiralama, onarım yaptırma, keşfettirme, montaj, sigorta, taşıma ve hizmet işleri.
 
-k) (Ek: 17/7/2002-2002/4566 K.) Yıllık ihtiyaç tespiti yapılamayan veya stoklama imkanı bulunmayan ve sağlık kurumlarınca hastalara yapılacak olan; tıbbi sarf malzemeleri ile test ve tetkik sarf malzemelerinin aylık, üç aylık, altı aylık gibi dönemsel alımları.
+k) **(Ek: 17/7/2002-2002/4566 K.)** Yıllık ihtiyaç tespiti yapılamayan veya stoklama imkanı bulunmayan ve sağlık kurumlarınca hastalara yapılacak olan; tıbbi sarf malzemeleri ile test ve tetkik sarf malzemelerinin aylık, üç aylık, altı aylık gibi dönemsel alımları.
 
-(Değişik: 17/7/2002-2002/4566 K.) (a), (b), (c), (e), (f), (h), (j) ve (k) bentlerinde yazılı işler için şartname düzenlenmesi, tahmini bedel tespiti, teminat alınması ve sözleşme yapılması mecburi değildir.
+**(Değişik: 17/7/2002-2002/4566 K.)** (a), (b), (c), (e), (f), (h), (j) ve (k) bentlerinde yazılı işler için şartname düzenlenmesi, tahmini bedel tespiti, teminat alınması ve sözleşme yapılması mecburi değildir.
 
 ### YARIŞMA USULÜ YARIŞMA USULÜNÜN UYGULANMASI:
 
@@ -609,4 +609,4 @@ Bu Yönetmelik'in 61 inci maddesi, ihtiyaçların kamu kuruluşlarınca karşıl
 
 ### 15/6/1984 TARİH VE 84/8213 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Kararnamenin
 
-Tarihi Numarası Farklı Tarihte Yürürlüğe Giren Maddeler Yürürlüğe Giriş Tarihi 3/4/1987 87/11672 - 9/6/1987 17/7/2002 2002/4566 - 29/8/2002
+**Tarihi Numarası Farklı Tarihte Yürürlüğe Giren Maddeler Yürürlüğe Giriş Tarihi** 3/4/1987 87/11672 - 9/6/1987 17/7/2002 2002/4566 - 29/8/2002

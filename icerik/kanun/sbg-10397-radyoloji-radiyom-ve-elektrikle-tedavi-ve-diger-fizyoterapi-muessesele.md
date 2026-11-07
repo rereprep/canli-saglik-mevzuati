@@ -11,11 +11,11 @@ durum: "yürürlükte"
 
 ### DİĞER FİZYOTERAPİ MÜESSESELERİ HAKKINDA KANUN
 
-Kanun Numarası : 3153
+**Kanun Numarası : 3153**
 
-Kabul Tarihi : 19/4/1937
+**Kabul Tarihi : 19/4/1937**
 
-Yayımlandığı Resmî Gazete : Tarih: 28/4/1937 Sayı: 3591
+**Yayımlandığı Resmî Gazete : Tarih: 28/4/1937 Sayı: 3591**
 
 #### Yayımlandığı Düstur : Tertip: 3 Cilt: 18 Sayfa: 197
 
@@ -69,7 +69,7 @@ Bu Kanunda yazılı olan idarî para cezaları mahallî mülkî amir tarafından
 
 İyonlaştırıcı radyasyonla teşhis, tedavi veya araştırmanın yapıldığı yerler ile bu iş veya işlemlerde çalışan personelin haftalık çalışma süresi 35 saattir. Bu süre içerisinde, Sağlık Bakanlığınca çıkarılacak yönetmelikte belirtilen radyasyon dozu limitleri de ayrıca dikkate alınır. Doz limitlerinin aşılmaması için alınması gereken tedbirler ile aşıldığı takdirde izinle geçirilecek süreler ve alınacak diğer tedbirler Sağlık Bakanlığınca çıkarılacak yönetmelikle belirlenir.
 
-Geçici madde 1 – (3153 Sayılı Kanunun kendi numarasız Muvakkat maddesi olup teselsül için numaralandırılmıştır.) A – Bu kanunun neşri tarihinde mevcut röntgen ve radiyom ve elektroterapi müesseseleri sahipleri bir ay içinde bulundukları yerin en büyük sıhhat memurluğuna bir beyanname vererek üçüncü maddede yazılı malümatı vesikalarile birlikte vermeğe mecburdurlar.
+**Geçici madde 1 – (3153 Sayılı Kanunun kendi numarasız Muvakkat maddesi olup teselsül için numaralandırılmıştır.)** A – Bu kanunun neşri tarihinde mevcut röntgen ve radiyom ve elektroterapi müesseseleri sahipleri bir ay içinde bulundukları yerin en büyük sıhhat memurluğuna bir beyanname vererek üçüncü maddede yazılı malümatı vesikalarile birlikte vermeğe mecburdurlar.
 
 Muayenehanelerinde yalnız teşhise mahsus röntgenle elektrik tedavi aletleri bulunduran tabip ve diş tabipleri de bu müddet içinde beyanname vermek mecburiyetindedirler.
 
@@ -102,14 +102,14 @@ Bu hükme aykırı harekette bulunan müessese sahiplerile tabip ve diş tabiple
 | 5947 | Ek Madde 1 | 30/1/2010 |
 | KHK/698 | 3, 4, 7, 8, 12, 13 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte |
 
-<small>[1] 2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “bir nizamname yapılır” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “bir nizamname yapılır” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir” şeklinde değiştirilmiştir.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “bir nizamname yapılır” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “bir nizamname yapılır” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] 2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu fıkrada yer alan “nizamnamedeki” ibaresi “yönetmelikteki” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu fıkrada yer alan “nizamnamedeki” ibaresi “yönetmelikteki” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu fıkrada yer alan “nizamnameye” ibaresi “yönetmeliğe” şeklinde değiştirilmiştir.</small>
+<small>[4] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu fıkrada yer alan “nizamnameye” ibaresi “yönetmeliğe” şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] 2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “nizamnamelerle” ibaresi “yönetmeliklerle” ve ikinci fıkrasında yer alan “nizamnameye” ibaresi “yönetmeliğe” şeklinde değiştirilmiştir.</small>
+<small>[5] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “nizamnamelerle” ibaresi “yönetmeliklerle” ve ikinci fıkrasında yer alan “nizamnameye” ibaresi “yönetmeliğe” şeklinde değiştirilmiştir.</i></small>
 
-<small>[6] 2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “nizamnamedeki” ibaresi “yönetmelikteki” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>2/7/2018 tarihli ve 698 sayılı KHK’nin 11 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “nizamnamedeki” ibaresi “yönetmelikteki” şeklinde değiştirilmiştir.</i></small>

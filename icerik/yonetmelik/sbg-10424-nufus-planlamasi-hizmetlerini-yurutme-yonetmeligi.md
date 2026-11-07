@@ -9,25 +9,25 @@ durum: "yürürlükte"
 
 ## NÜFUS PLANLAMASI HİZMETLERİNİ YÜRÜTME YÖNETMELİĞİ
 
-Bakanlar Kurulu Kararının Tarihi : 21/9/1983 No : 83/7083
+**Bakanlar Kurulu Kararının Tarihi : 21/9/1983 No : 83/7083**
 
-Dayandığı Kanunun Tarihi : 24/5/1983 No : 2827
+**Dayandığı Kanunun Tarihi : 24/5/1983 No : 2827**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 6/10/1983 No : 18183
+**Yayımlandığı Resmî Gazetenin Tarihi : 6/10/1983 No : 18183**
 
-Yayımlandığı Düsturun Tertibi : 5 Cilt : 22 Sayfa : 3357
+**Yayımlandığı Düsturun Tertibi : 5 Cilt : 22 Sayfa : 3357**
 
 ## BİRİNCİ BÖLÜM Genel Hükümler
 
-Amaç:
+**Amaç:**
 
 **Madde 1 –** Bu yönetmeliğin amacı, kişilerin istedikleri sayıda, istedikleri zaman çocuk sahibi olmalarını sağlamak için nüfus planlaması eğitim, öğretim ve uygulama hizmetlerinin Sağlık ve Sosyal Yardım Bakanlığının koordinatorlüğünde ülke düzeyinde yürütülmesini sağlamaktır.
 
-Kapsam:
+**Kapsam:**
 
 **Madde 2 –** Bu yönetmelik nüfus planlaması eğitim, öğretim ve uygulama hizmetlerini yürütmekle yükümlü bulunan Sağlık ve Sosyal Yardım Bakanlığı ile, Milli Savunma, Milli Eğitim, Sosyal Güvenlik Bakanlıkları, Yüksek Öğretim Kurumları, Türkiye Radyo - Televizyon Kurumu, Sosyal Güvenlik Kurumları, tüm kamu kurum ve kuruluşları, kamu kurumu niteliğindeki ilgili meslek kuruluşları, özel ve gönüllü kuruluşları kapsar.
 
-Tanımlar:
+**Tanımlar:**
 
 **Madde 3 –** Bu yönetmelikte geçen deyimlerden,
 
@@ -49,19 +49,19 @@ Tanımlar:
 
 "Tüzük" Rahim Tahliyesi ve Sterilizasyon hizmetlerinin yürütülmesi ve denetlenmesi hakkında tüzüğü ifade eder.
 
-Hukuki Dayanak:
+**Hukuki Dayanak:**
 
 **Madde 4 –** Bu yönetmelik 2827 sayılı Nüfus Planlaması Hakkında Kanunun 3 üncü maddesinin 1 inci fıkrasına dayalı olarak hazırlanmıştır.
 
 ## İKİNCİ BÖLÜM Hizmetler
 
-Hizmetler:
+**Hizmetler:**
 
 **Madde 5 –** Nüfus planlaması eğitim, öğretim ve uygulama hizmetleri Bakanlık koordinatörlüğünde tüm kamu kurum ve kuruluşları, kamu niteliğindeki ilgili meslek kuruluşları, özel ve gönüllü kuruluşların işbirliği ile yürütülür.
 
 ## ÜÇÜNCÜ BÖLÜM Eğitim Hizmetleri
 
-Yaygın Eğitim:
+**Yaygın Eğitim:**
 
 **Madde 6 –** Bakanlık Aile Planlaması - Ana ve Çocuk Sağlığı Genel Müdürlüğü, nüfus planlaması yaygın eğitim hizmetlerinin belli bir proğram ve düzen içerisinde ülke düzeyinde yürütülmesini sağlar. Nüfus planlaması eğitiminin illerde uygulanmasında Vali, İl Sağlık Müdürü ile Aile Planlaması - Ana ve çocuk Sağlığı Şube Müdürü görevlidir. Bu görevlerin yürütülmesinde ildeki ilgili kuruluşlarla işbirliği yaparlar.
 
@@ -85,7 +85,7 @@ E - Gebeliğin önlenmesi, sonlandırılması ve sterilizasyon, konuları,
 
 F - Nüfus planlaması hizmetlerinin nerelerden ve nasıl sağlanacağı.
 
-Örgün Eğitim:
+**Örgün Eğitim:**
 
 **Madde 7 –** Orta öğretim kurumlarından başlamak üzere tüm resmi ve özel okulların eğitim, öğretim programlarında nüfus planlaması konusuna yer verilir.
 
@@ -93,7 +93,7 @@ F - Nüfus planlaması hizmetlerinin nerelerden ve nasıl sağlanacağı.
 
 2) Yüksek öğretim kurumlarında yapılacak nüfus planlaması eğitiminin kapsamı Bakanlık ve yüksek öğretim kurumlarınca birlikte hazırlanır.
 
-Meslek Eğitimi:
+**Meslek Eğitimi:**
 
 **Madde 8 –** Sağlık ve yardımcı sağlık personeli yetiştiren resmi ve özel okulların eğitim, öğretim programlarında teorik ve uygulamalı nüfus planlaması konularına yer verilir.
 
@@ -103,13 +103,13 @@ Meslek Eğitimi:
 
 ## DÖRDÜNCÜ BÖLÜM Nüfus Planlaması Hizmetlerinin Düzenlenmesi
 
-Merkez:
+**Merkez:**
 
 **Madde 9 –** Nüfus planlaması hizmetlerini Bakanlık adına Aile Planlaması - Ana ve Çocuk Sağlığı Genel Müdürlüğü yürütür. Aile Planlaması - Ana ve Çocuk
 
 Sağlığı Genel Müdürlüğü, hizmetin plan ve programlarını yapmak, uygulamak, hizmet veren resmi ve özel kuruluşlara ilaç, araç - gereç ve bilgi desteği sağlamak, bunları denetlemek, değerlendirmek ve geliştirmekle yetkili ve sorumludur.
 
-Nüfus Planlaması Danışma Kurulu:
+**Nüfus Planlaması Danışma Kurulu:**
 
 **Madde 10 –** Bakanlık, nüfus planlaması konusunda diğer kurum ve kuruluşlar arasında koordinasyonu sağlamak üzere "Nüfus Planlaması Danışma Kurulu" kurar.
 
@@ -167,7 +167,7 @@ B - Kurul, nüfus planlaması konusunda strateji tespit etmede ve hizmetlerin y�
 
 C - Kurul, yılda bir defa tüm kurum ve kuruluşlarda yürütülen nüfus planlaması hizmetlerini rapor halinde yayınlar.
 
-Taşra:
+**Taşra:**
 
 **Madde 11 –** İl düzeyinde nüfus planlaması hizmetlerini yürütmekten Vali ve İl Sağlık Müdürü yetkili ve sorumludurlar. Nüfus planlaması hizmetlerini il düzeyinde yürütmek üzere İl Sağlık Müdürlüğüne bağlı olarak Aile Planlaması - Ana ve Çocuk Sağlığı Şube Müdürlüğü kurulur.
 
@@ -177,13 +177,13 @@ Taşra:
 
 3) Aile Planlaması - Ana ve Çocuk Sağlığı Genel Müdürlüğü illerden gelen "yıllık çalışma raporu" ile "yıllık çalışma program"larını inceler ve değerlendirir. Programlar doğrultusunda gereken destek, uyarı ve emirler Bakanlıkça il'e bildirilir.
 
-Denetim:
+**Denetim:**
 
 **Madde 12 –** İl düzeyinde yapılan nüfus planlaması hizmetleri ile bu hizmetleri yürüten personeli Vali ve İl Sağlık Müdürü düzenli ve sürekli olarak denetler. Denetlenen yerlerin sorumluları, denetim sonucunda saptanan eksiklikleri giderir ve yapılan önerileri en kısa zamanda yerine getirir.
 
 ## BEŞİNCİ BÖLÜM Nüfus Planlaması Uygulama Yerleri
 
-Nüfus Planlaması Kliniği:
+**Nüfus Planlaması Kliniği:**
 
 **Madde 13 –** Bakanlıkça tespit edilecek yataklı tedavi kurumlarında "Nüfus Planlaması Kliniği" açılır. Bu kliniklerin personel ve diğer harcamaları, yataklı tedevi kuruluşunun bağlı olduğu kurumca karşılanır.
 
@@ -221,7 +221,7 @@ G - Kliniğin yürüttüğü hizmetlerle ilgili bilgileri toplar zamanında Sağ
 
 4) Bir klinikte bulunması gereken araç - gereç, ilaç ve personel standardı tüzük ekinde verilmiştir. Kliniğin belirlenen hizmetine göre bu standartta belirtilen araç - gereç, ilaç ve personelin klinikte bulunması gereklidir.
 
-Aile Planlaması - Ana ve Çocuk Sağlığı Dispanserleri:
+**Aile Planlaması - Ana ve Çocuk Sağlığı Dispanserleri:**
 
 **Madde 14 –** Aile Planlaması - Ana ve Çocuk Sağlığı Dispanserlerinde yürütülecek nüfus planlaması hizmetleri aşağıda gösterilmiştir.
 
@@ -235,7 +235,7 @@ Aile Planlaması - Ana ve Çocuk Sağlığı Dispanserleri:
 
 5) Nüfus planlaması hizmetleriyle ilgili tüm bilgi ve istatistikleri zamanında Sağlık Müdürlüğüne verir.
 
-Sağlık Ocakları:
+**Sağlık Ocakları:**
 
 **Madde 15 –** Sağlık ocaklarında yürütülecek nüfus planlaması hizmetleri aşağıda gösterilmiştir.
 
@@ -251,7 +251,7 @@ Sağlık Ocakları:
 
 6) Nüfus planlaması hizmetleriyle ilgili tüm bilgi ve istatistikleri zamanında Sağlık Müdürlüğüne verir.
 
-Sağlık Evleri:
+**Sağlık Evleri:**
 
 **Madde 16 –** Sağlık evlerinde yürütülecek nüfus planlaması hizmetleri aşağıda gösterilmiştir.
 
@@ -265,24 +265,24 @@ Sağlık Evleri:
 
 5) Nüfus planlaması hizmetleriyle ilgili tüm bilgi ve istatistikleri zamanında sağlık ocağına verir.
 
-Muayenehaneler:
+**Muayenehaneler:**
 
 **Madde 17 –** Gebeliği önleyici ve sonlandırıcı yöntemleri muayenehanelerinde uygulayacak yetkili olan hekimler, tüzükte belirtilen gerekli koşulları sağlamak ve araç - gereçleri bulundurmak zorundadırlar.
 
 ## ALTINCI BÖLÜM Çeşitli Hükümler
 
-İşyerlerinin Nüfus Planlaması Hizmetleri:
+**İşyerlerinin Nüfus Planlaması Hizmetleri:**
 
 **Madde 18 –** İkiyüz ve daha yukarı sayıda işçi çalıştıran resmi ve özel tüm kurum ve kuruluşlarla, işyerleri bir "Nüfus Planlaması Eğitim ve Uygulama Bölümü" açtıkları takdirde isteyenlere Bakanlıkça gerekli destek sağlanır. İşyerlerinde açılan Nüfus Planlaması Eğitim ve Uygulama Bölümü yürüttükleri nüfus planlaması hizmetleriyle ilgili bilgileri bulundukları yerin sağlık yöneticisine her ayın sonunda verir.
 
-Yürürlükten kaldırma:
+**Yürürlükten kaldırma:**
 
 **Madde 19 –** 6/12/1965 tarihli ve 12169 sayılı Resmi Gazetede yayımlanan "Nüfus Planlaması Yönetmeliği" yürürlükten kaldırılmıştır.
 
-Yürürlük:
+**Yürürlük:**
 
 **Madde 20 –** 832 sayılı Kanunun 105 inci maddesi uyarınca Sayıştay görüşü alınan bu Yönetmelik Resmi Gazetede yayımı tarihinde yürürlüğe girer.
 
-Yürütme:
+**Yürütme:**
 
 **Madde 21 –** Bu yönetmelik hükümlerini Bakanlar Kurulu yürütür.

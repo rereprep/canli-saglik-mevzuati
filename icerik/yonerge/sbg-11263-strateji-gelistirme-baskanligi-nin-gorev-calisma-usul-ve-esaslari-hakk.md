@@ -15,11 +15,11 @@ durum: "yürürlükte"
 
 #### Amaç
 
-**MADDE 1 –** Bu Yönerge’nin amacı; Sağlık Bakanlığı Strateji Geliştirme Başkanlığının çalışma usul ve esaslarını düzenlemektir. Kapsam
+**MADDE 1 –** Bu Yönerge’nin amacı; Sağlık Bakanlığı Strateji Geliştirme Başkanlığının çalışma usul ve esaslarını düzenlemektir. **Kapsam**
 
-**MADDE 2 –** Bu Yönerge, Sağlık Bakanlığı Strateji Geliştirme Başkanlığı’nın tüm alt birimlerini kapsar. Hukuki Dayanak
+**MADDE 2 –** Bu Yönerge, Sağlık Bakanlığı Strateji Geliştirme Başkanlığı’nın tüm alt birimlerini kapsar. **Hukuki Dayanak**
 
-**MADDE 3 –** Bu Yönerge, 181 sayılı KHK’ye dayanılarak hazırlanmıştır. Tanımlar
+**MADDE 3 –** Bu Yönerge, 181 sayılı KHK’ye dayanılarak hazırlanmıştır. **Tanımlar**
 
 **MADDE 4 –** Bu Yönergede geçen;
 
@@ -35,7 +35,7 @@ d) Başkan: Bakanlık Strateji Geliştirme Başkanını, İfade eder.
 
 #### Kuruluş
 
-**MADDE 5 –** Strateji Geliştirme Başkanlığı, görevlendirilecek Başkan Yardımcıları ile;
+**MADDE 5 –** Strateji Geliştirme Başkanlığı, görevlendirilecek **Başkan Yardımcıları** ile;
 
 ### I- STRATEJİK YÖNETİM VE PLANLAMA DAİRE BAŞKANLIĞI
 
@@ -175,7 +175,7 @@ t) Bakan ve üst yönetici tarafından verilecek diğer görevleri yapmak.
 
 ## ÜÇÜNCÜ BÖLÜM Birimlerin Görevleri STRATEJİK YÖNETİM VE PLANLAMA DAİRE BAŞKANLIĞI MADDE 7-
 
-a) Stratejik Planlama Şube Müdürlüğü
+**a) Stratejik Planlama Şube Müdürlüğü**
 
 1. Ulusal kalkınma strateji ve politikaları, yıllık program ve hükümet programı çerçevesinde
 
@@ -197,7 +197,7 @@ raporlamak,
 
 5. Başkanlığın görev alanıyla ilgili araştırma-geliştirme ve proje faaliyetlerini yürütmek.
 
-b) Faaliyet Raporları ve Eğitim Şube Müdürlüğü
+**b) Faaliyet Raporları ve Eğitim Şube Müdürlüğü**
 
 1. Harcama birimleri tarafından hazırlanan birim faaliyet raporlarını da esas alarak idarenin
 
@@ -219,7 +219,7 @@ ihtiyaçlarını koordine etmek,
 
 ### BÜTÇE VE KESİN HESAP DAİRE BAŞKANLIĞI MADDE 8-
 
-a) Bütçe, Performans, Raporlama ve Kesin Hesap Şube Müdürlüğü
+**a) Bütçe, Performans, Raporlama ve Kesin Hesap Şube Müdürlüğü**
 
 1. İzleyen iki yılın bütçe tahminlerini de içeren idare bütçesini ve yıllık performans
 
@@ -261,7 +261,7 @@ ve sonuçlandırmak
 
 9. Başkanlığın bütçesini hazırlamak
 
-b) Mali Mevzuat Şube Müdürlüğü
+**b) Mali Mevzuat Şube Müdürlüğü**
 
 1. Malî mevzuatın uygulanması konusunda üst yöneticiye ve harcama yetkililerine gerekli
 
@@ -275,7 +275,7 @@ hakkında görüş bildirmek,
 
 işlemleri yapmak.
 
-c) Yatırım Koordinasyon Şube Müdürlüğü
+**c) Yatırım Koordinasyon Şube Müdürlüğü**
 
 1. İdarenin yatırım programının hazırlanmasını koordine etmek, uygulama sonuçlarını
 
@@ -301,7 +301,7 @@ raporlamak
 
 ### DÖNER SERMAYELİ İŞLETMELER DAİRE BAŞKANLIĞI MADDE 9-
 
-a) Döner Sermaye Bütçe Şube Müdürlüğü
+**a) Döner Sermaye Bütçe Şube Müdürlüğü**
 
 1. Döner sermayeli kurum bütçelerini işlemlerini yürütmek
 
@@ -311,7 +311,7 @@ karara bağlamak,
 
 3. Yeni açılan kurumlara açılış sermayesi tahsis etmek
 
-b) Ödenek Planlama ve Tahsisler Şube Müdürlüğü
+**b) Ödenek Planlama ve Tahsisler Şube Müdürlüğü**
 
 1. Bakanlığa bağlı kurumların merkeze aktardıkları merkez pay tutarlarından oluşan
 
@@ -333,7 +333,7 @@ yürütmek,
 
 yapılan borç veya karşılıksız kaynak aktarımı işlemlerini yürütmek.
 
-c) Döner Sermaye Değerlendirme ve Düzenleme Şube Müdürlüğü
+**c) Döner Sermaye Değerlendirme ve Düzenleme Şube Müdürlüğü**
 
 1. Döner sermaye kaynaklarının etkili ve verimli kullanılmasını sağlamak için, döner
 
@@ -367,7 +367,7 @@ bendi uyarınca kurumlarımızdan gelen izin taleplerini değerlendirmek ve gere
 
 işlemleri yapmak.
 
-d) Muhasebe Sistemi Şube Müdürlüğü
+**d) Muhasebe Sistemi Şube Müdürlüğü**
 
 1. Bakanlığa bağlı döner sermayeli kurum ve kuruluşlarımızın muhasebe hesap kayıtlarının
 
@@ -387,7 +387,7 @@ hazırlamak, uygulamada birlik sağlanması amacıyla düzenlemeler yapmak,
 
 4. İlgili mevzuat dâhilinde sermaye tahsisi işlemlerini yürütmek,
 
-e) Döner Sermaye Mevzuatı Şube Müdürlüğü
+**e) Döner Sermaye Mevzuatı Şube Müdürlüğü**
 
 1. Döner sermaye mevzuatının Başkanlığımız görev alanına giren kısmı ile ilgili gerekli
 
@@ -403,7 +403,7 @@ giren kısmı ile ilgili olarak görüş taleplerini cevaplandırmak.
 
 ### İÇ KONTROL DAİRE BAŞKANLIĞI MADDE 10-
 
-a) Ön Mali Kontrol Şube Müdürlüğü
+**a) Ön Mali Kontrol Şube Müdürlüğü**
 
 1. Bakanlığın gelir, gider, varlık ve yükümlülüklerine ilişkin malî karar ve işlemlerinin;
 
@@ -415,7 +415,7 @@ uygunluğu ve kaynakların etkili, ekonomik ve verimli bir şekilde kullanılmas
 
 yönlerinden kontrolünü yapmak.
 
-a) İç Kontrol Şube Müdürlüğü
+**a) İç Kontrol Şube Müdürlüğü**
 
 1. Bakanlığın ve Başkanlığın görev alanına giren konularda iç kontrol standartları
 
@@ -427,7 +427,7 @@ tüm çalışmaları yapmak,
 
 birimlerle koordineli çalışmalar yapmak.
 
-c) İç Kontrol İzleme ve Değerlendirme Şube Müdürlüğü
+**c) İç Kontrol İzleme ve Değerlendirme Şube Müdürlüğü**
 
 1. İç ve dış denetim sonucu düzenlenen raporlara istinaden iç kontrol sisteminin işleyişini
 
@@ -443,7 +443,7 @@ performans göstergeleri oluşturma çalışmalarını yürütmek, kontrol nokta
 
 ### MAL YÖNETİMİ VE MALİ ANALİZ DAİRE BAŞKANLIĞI MADDE 11-
 
-a) Mali Analiz ve Değerlendirme Şube Müdürlüğü
+**a) Mali Analiz ve Değerlendirme Şube Müdürlüğü**
 
 1. Döner sermayeli işletmelerin mali durumlarını incelemek, analiz etmek,
 
@@ -453,7 +453,7 @@ a) Mali Analiz ve Değerlendirme Şube Müdürlüğü
 
 amacıyla önerilerde bulunmak,
 
-b) Stok Yönetimi ve Analiz Şube Müdürlüğü
+**b) Stok Yönetimi ve Analiz Şube Müdürlüğü**
 
 1. Döner sermayeli işletmelerin stoklarını incelemek ve takip etmek,
 
@@ -461,7 +461,7 @@ b) Stok Yönetimi ve Analiz Şube Müdürlüğü
 
 3. Döner sermayeli işletmelerin stokları ile ilgili uygulamaya ilişkin düzenleme yapmak,
 
-c) Mal Yönetimi Şube Müdürlüğü
+**c) Mal Yönetimi Şube Müdürlüğü**
 
 1. Bakanlığımıza ait taşınır ve taşınmazların terkin ve devir işlemlerine ilişkin onayları üst
 
@@ -477,7 +477,7 @@ cetvellerini düzenlemek,
 
 ### İDARİ İŞLER DAİRE BAŞKANLIĞI MADDE 12-
 
-a) Personel, İç Hizmetler ve Koordinasyon Şube Müdürlüğü
+**a) Personel, İç Hizmetler ve Koordinasyon Şube Müdürlüğü**
 
 1. Personelin ayrılış, başlayış, izin, rapor ve soruşturma işlemleri ile özlük haklarına ilişkin
 
@@ -503,7 +503,7 @@ koordinasyonunu sağlayarak iş ve işlemlerini yürütmek
 
 raporlarını konsolide ederek Başbakanlığa bildirmek,
 
-b) Evrak ve Arşiv Şube Müdürlüğü
+**b) Evrak ve Arşiv Şube Müdürlüğü**
 
 1. Başkanlığın gelen ve giden evraklarının kayıt işlemlerinin yürütülmesini sağlamak,
 
@@ -523,7 +523,7 @@ muhafazasını sağlamak,
 
 kontrolünü yapmak ve eğitimlerini vermek,
 
-c) Mali İşler Şube Müdürlüğü
+**c) Mali İşler Şube Müdürlüğü**
 
 1. Başkanlığın bütçesi ile ilgili harcamaları ve takipleri yapmak ve her türlü tahakkuk
 
@@ -543,9 +543,9 @@ dosyalarını oluşturmak, takip etmek,
 
 #### Son Hükümler Yürürlükten Kaldırılan Hükümler
 
-**MADDE 13 –** 10.02.2009 tarih ve 1355 sayılı Onay ile yürürlüğe giren Sağlık Bakanlığı Strateji Geliştirme Başkanlığının Görev Çalışma Usul ve Esasları Hakkında Yönerge yürürlükten kaldırılmıştır. Yürürlük
+**MADDE 13 –** 10.02.2009 tarih ve 1355 sayılı Onay ile yürürlüğe giren Sağlık Bakanlığı Strateji Geliştirme Başkanlığının Görev Çalışma Usul ve Esasları Hakkında Yönerge yürürlükten kaldırılmıştır. **Yürürlük**
 
-**MADDE 14 –** Bu Yönerge Bakan Onayı ile yürürlüğe girer. Yürütme
+**MADDE 14 –** Bu Yönerge Bakan Onayı ile yürürlüğe girer. **Yürütme**
 
 **MADDE 15 –** Bu Yönerge hükümlerini Başkan yürütür.
 
@@ -553,4 +553,4 @@ dosyalarını oluşturmak, takip etmek,
 
 **Dipnotlar**
 
-<small>2. Başkanlığın faaliyetleri ile ilgili bilgi ve verileri toplamak, tasnif etmek, analiz etmek ve Birim Faaliyet Raporunu hazırlamak, 3. Hükümet Acil Eylem Planı, Orta Vadeli Program, Yıllık Programlarda Bakanlığımız tarafından yürütülmesi öngörülen faaliyetlerle ilgili çalışmaları raporlar halinde Devlet Planlama Teşkilatı Müsteşarlığı’na göndermek, 4. Başkanlık personelinin hizmet içi eğitim ve danışmanlık ihtiyacını belirlemek, yıllık eğitim planının hazırlanması ve eğitim faaliyetlerinin ve danışmanlık hizmetlerinin gerçekleştirilmesini koordine etmek, 5. Başkanlığın görev alanına giren soru önergelerine cevap verilmesini koordine etmek. c) Yönetim Bilgi Sistemleri Şube Müdürlüğü</small>
+<small>2. Başkanlığın faaliyetleri ile ilgili bilgi ve verileri toplamak, tasnif etmek, analiz etmek ve Birim Faaliyet Raporunu hazırlamak, 3. Hükümet Acil Eylem Planı, Orta Vadeli Program, Yıllık Programlarda Bakanlığımız tarafından yürütülmesi öngörülen faaliyetlerle ilgili çalışmaları raporlar halinde Devlet Planlama Teşkilatı Müsteşarlığı’na göndermek, 4. Başkanlık personelinin hizmet içi eğitim ve danışmanlık ihtiyacını belirlemek, yıllık eğitim planının hazırlanması ve eğitim faaliyetlerinin ve danışmanlık hizmetlerinin gerçekleştirilmesini koordine etmek, 5. Başkanlığın görev alanına giren soru önergelerine cevap verilmesini koordine etmek. **c) Yönetim Bilgi Sistemleri Şube Müdürlüğü**</small>

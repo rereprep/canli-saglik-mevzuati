@@ -9,71 +9,71 @@ durum: "yürürlükte"
 kontrol_edildi: true
 ---
 
-NÜFUS HİZMETLERİ KANUNU
+**NÜFUS HİZMETLERİ KANUNU**
 
-Kanun Numarası : 5490
+**Kanun Numarası : 5490**
 
-Kabul Tarihi : 25/4/2006
+**Kabul Tarihi : 25/4/2006**
 
-Yayımlandığı R.Gazete : Tarih : 29/4/2006 Sayı : 26153
+**Yayımlandığı R.Gazete : Tarih : 29/4/2006 Sayı : 26153**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 45
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 45**
 
-BİRİNCİ KISIM
+**BİRİNCİ KISIM**
 
-Genel Hükümler
+**Genel Hükümler**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Amaç, Kapsam ve Tanımlar
+**Amaç, Kapsam ve Tanımlar**
 
-Amaç
+**Amaç**
 
-MADDE 1- (1) Bu Kanunun amacı; kişinin doğumundan ölümüne kadar kişisel ve medenî durumuna, uyrukluğuna ve bunlarda meydana gelebilecek değişikliklere ait doğal ve hukukî olayların belirlenip saptanması, bu amaçla düzenlenmiş kütüklere yazılması, elektronik ortamda ulusal adres veri tabanının oluşturulması, nüfus kayıtları ile adres bilgilerinin ilişkilendirilmesini sağlamaktır.
+**MADDE 1-** (1) Bu Kanunun amacı; kişinin doğumundan ölümüne kadar kişisel ve medenî durumuna, uyrukluğuna ve bunlarda meydana gelebilecek değişikliklere ait doğal ve hukukî olayların belirlenip saptanması, bu amaçla düzenlenmiş kütüklere yazılması, elektronik ortamda ulusal adres veri tabanının oluşturulması, nüfus kayıtları ile adres bilgilerinin ilişkilendirilmesini sağlamaktır.
 
-Kapsam (1)
+**Kapsam (1)**
 
-MADDE 2- (1) Bu Kanun, Türk vatandaşları, doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların altsoyları ile Türkiye'de bulunan yabancıların nüfus hizmetlerinin düzenlenmesine, yürütülmesine ve geliştirilmesine ilişkin esas ve usûl hükümlerini kapsar.
+**MADDE 2-** (1) Bu Kanun, Türk vatandaşları, doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların altsoyları ile Türkiye'de bulunan yabancıların nüfus hizmetlerinin düzenlenmesine, yürütülmesine ve geliştirilmesine ilişkin esas ve usûl hükümlerini kapsar.
 
-Tanımlar
+**Tanımlar**
 
-MADDE 3- (1) Bu Kanunda geçen;
+**MADDE 3-** (1) Bu Kanunda geçen;
 
 ––––––––––––––––
 
-(1) 9/5/2012 tarihli ve 6304 sayılı Kanunun 10 uncu maddesiyle, bu maddenin birinci fıkrasına “Türk vatandaşları” ibaresinden sonra gelmek üzere “, doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların altsoyları” ibaresi eklenmiş ve metne işlenmiştir.
+<i>(1) 9/5/2012 tarihli ve 6304 sayılı Kanunun 10 uncu maddesiyle, bu maddenin birinci fıkrasına “Türk vatandaşları” ibaresinden sonra</i> <i>gelmek üzere “, doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların altsoyları”</i> <i>ibaresi eklenmiş ve metne işlenmiştir.</i>
 
-Sisteminden yararlanacak kurumların istifadesine sunulan ve sınırlandırılmış bilgiler ihtiva eden aile kütüğü kayıtlarını, l) Kurum: Genel Müdürlük dışındaki diğer kamu kurum ve kuruluşlarını, m) (Ek: 9/5/2012-6304/11 md.) Mavi Kart: Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların 29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesinde belirtilen altsoylarına verilen ve söz konusu maddede belirtilen haklardan faydalanabileceklerini gösteren resmi belgeyi, (1)
+Sisteminden yararlanacak kurumların istifadesine sunulan ve sınırlandırılmış bilgiler ihtiva eden aile kütüğü kayıtlarını, l) Kurum: Genel Müdürlük dışındaki diğer kamu kurum ve kuruluşlarını, m) **(Ek: 9/5/2012-6304/11 md.)** Mavi Kart: Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların 29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesinde belirtilen altsoylarına verilen ve söz konusu maddede belirtilen haklardan faydalanabileceklerini gösteren resmi belgeyi, (1)
 
-n) (Ek: 9/5/2012- 6304/11 md.) Mavi Kartlılar Kütüğü: Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların altsoylarının kayıtlarının elektronik ortamda tutulduğu kütüğü, (1)
+n) **(Ek: 9/5/2012- 6304/11 md.)** Mavi Kartlılar Kütüğü: Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların altsoylarının kayıtlarının elektronik ortamda tutulduğu kütüğü, (1)
 
-o) Merkezî veri tabanı: Genel Müdürlükte elektronik ortamda tutulan aile kütüğü kayıtlarını, ö) MERNİS: Merkezî veri tabanı ve Kimlik Paylaşımı Sistemini de kapsayan Merkezî Nüfus İdaresi Sistemini, p) Numaralama: Mahalle, semt, meydan, bulvar, cadde, sokak ve bina gibi adres bileşenlerine isim veya numara verilmesi işlemini, r) Nüfus cüzdanı: Kişinin Türk vatandaşı olduğunu ve aile kütüklerine kayıtlı bulunduğunu kanıtlayan resmî belgeyi, s) Nüfus hizmetleri: Nüfus olaylarına ve kişinin nüfusa ve yerleşim yeri adresine ilişkin bilgilerinin toplanmasına, nüfus kütüklerine geçirilmesine, korunmasına ve gerektiğinde tasnif edilerek değerlendirilmesine dair iş ve işlemleri, ş) Nüfus kaydı: Aile kütüğüne işlenmiş kişisel bilgileri, t) Nüfus kayıt örneği: Aile kütüğüne işlenmiş kişisel bilgilerin özetlerini gösterir belgeyi, u) Nüfus kütüğü: Aile kütüğü, özel kütük ve yedeklerinden oluşan kayıtların tümünü, ü) Nüfus müdürlüğü: İlçe nüfus müdürlüğünü, v) Nüfus müdürü: İlçe nüfus müdürünü, y) Nüfus olayı: Doğum, ölüm, evlenme, boşanma, evlât edinme, tanıma, kayıt düzeltme, soybağının düzeltilmesi, gaiplik gibi kişisel durumlarda değişiklik meydana getiren olayı, z) Özel kütük: Doğum, evlenme, boşanma, ölüm, kayıt düzeltme ve diğer olaylar şeklinde tutulan ve ayrı ayrı tasnif edilen dayanak belgelerinin konulduğu dosyayı, aa) Ulusal adres veri tabanı: Adres bilgilerinin tutulduğu merkezî veri tabanını, bb) Uluslararası aile cüzdanı: Bir aileyi oluşturan eş ve çocukların kimlik bilgilerini kapsayan ve uyruğunu kanıtlayan çok dilli resmî belgeyi, cc) Vekillik belgesi: Özel temsil yetkisini kapsayan noterden onaylı belgeyi, çç) (Değişik: 4/4/2013-6458/123 md.) Yabancılar kütüğü: Türkiye’de Vatansız Kişi Kimlik Belgesi alanlar ve herhangi bir amaçla en az doksan gün süreli ikamet izni verilenlerle, yasal olarak bulunan yabancılardan yabancılar kimlik numarası talep edenlerin kayıtlarının tutulduğu kütüğü, dd) Yapı belgeleri: Yapı Ruhsat Formu, Yapı Kullanma İzin Belgesi, yanan ve yıkılan yapılar formunu ve binalar cetvelini, ee) Yerleşim yeri adresi: Sürekli kalma niyetiyle oturulan yeri, ifade eder. (1)
+o) Merkezî veri tabanı: Genel Müdürlükte elektronik ortamda tutulan aile kütüğü kayıtlarını, ö) MERNİS: Merkezî veri tabanı ve Kimlik Paylaşımı Sistemini de kapsayan Merkezî Nüfus İdaresi Sistemini, p) Numaralama: Mahalle, semt, meydan, bulvar, cadde, sokak ve bina gibi adres bileşenlerine isim veya numara verilmesi işlemini, r) Nüfus cüzdanı: Kişinin Türk vatandaşı olduğunu ve aile kütüklerine kayıtlı bulunduğunu kanıtlayan resmî belgeyi, s) Nüfus hizmetleri: Nüfus olaylarına ve kişinin nüfusa ve yerleşim yeri adresine ilişkin bilgilerinin toplanmasına, nüfus kütüklerine geçirilmesine, korunmasına ve gerektiğinde tasnif edilerek değerlendirilmesine dair iş ve işlemleri, ş) Nüfus kaydı: Aile kütüğüne işlenmiş kişisel bilgileri, t) Nüfus kayıt örneği: Aile kütüğüne işlenmiş kişisel bilgilerin özetlerini gösterir belgeyi, u) Nüfus kütüğü: Aile kütüğü, özel kütük ve yedeklerinden oluşan kayıtların tümünü, ü) Nüfus müdürlüğü: İlçe nüfus müdürlüğünü, v) Nüfus müdürü: İlçe nüfus müdürünü, y) Nüfus olayı: Doğum, ölüm, evlenme, boşanma, evlât edinme, tanıma, kayıt düzeltme, soybağının düzeltilmesi, gaiplik gibi kişisel durumlarda değişiklik meydana getiren olayı, z) Özel kütük: Doğum, evlenme, boşanma, ölüm, kayıt düzeltme ve diğer olaylar şeklinde tutulan ve ayrı ayrı tasnif edilen dayanak belgelerinin konulduğu dosyayı, aa) Ulusal adres veri tabanı: Adres bilgilerinin tutulduğu merkezî veri tabanını, bb) Uluslararası aile cüzdanı: Bir aileyi oluşturan eş ve çocukların kimlik bilgilerini kapsayan ve uyruğunu kanıtlayan çok dilli resmî belgeyi, cc) Vekillik belgesi: Özel temsil yetkisini kapsayan noterden onaylı belgeyi, çç) **(Değişik: 4/4/2013-6458/123 md.)** Yabancılar kütüğü: Türkiye’de Vatansız Kişi Kimlik Belgesi alanlar ve herhangi bir amaçla en az doksan gün süreli ikamet izni verilenlerle, yasal olarak bulunan yabancılardan yabancılar kimlik numarası talep edenlerin kayıtlarının tutulduğu kütüğü, dd) Yapı belgeleri: Yapı Ruhsat Formu, Yapı Kullanma İzin Belgesi, yanan ve yıkılan yapılar formunu ve binalar cetvelini, ee) Yerleşim yeri adresi: Sürekli kalma niyetiyle oturulan yeri, ifade eder. (1)
 
 –––––––––––––––––––––––––
 
-(1) 9/5/2012 tarihli ve 6304 sayılı Kanunun 11 inci maddesiyle, 3 üncü maddenin birinci fıkrasına (m) ve (n) bentleri eklenmiş ve mevcut bentler buna göre teselsül ettirilmiştir.
+<i>(1) 9/5/2012 tarihli ve 6304 sayılı Kanunun 11 inci maddesiyle, 3 üncü maddenin birinci fıkrasına (m) ve (n) bentleri eklenmiş ve mevcut</i> <i>bentler buna göre teselsül ettirilmiştir.</i>
 
-İKİNCİ KISIM
+**İKİNCİ KISIM**
 
-Nüfus Hizmetlerinin Yürütülmesi
+**Nüfus Hizmetlerinin Yürütülmesi**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Yetkililer ve Nüfus Kütükleri
+**Yetkililer ve Nüfus Kütükleri**
 
-Nüfus hizmetleri yetkilileri
+**Nüfus hizmetleri yetkilileri**
 
-MADDE 4- (1) Nüfus hizmetleri, Bakanlığın merkez ve taşra teşkilâtı ile dış temsilcilikler tarafından yürütülür.
+**MADDE 4-** (1) Nüfus hizmetleri, Bakanlığın merkez ve taşra teşkilâtı ile dış temsilcilikler tarafından yürütülür.
 
-Hukukî mahiyeti
+**Hukukî mahiyeti**
 
-MADDE 5- (1) Nüfus kütükleri; kişilerin kimliklerinin, yerleşim yeri adreslerinin, aile bağlarının, vatandaşlık durumlarının ve şahsî hallerinin belirlenmesi amacıyla ilçe ve aile esasına göre nüfus olaylarının tescil edildiği, daimî olarak saklanması gerekli resmî belgelerdir.
+**MADDE 5-** (1) Nüfus kütükleri; kişilerin kimliklerinin, yerleşim yeri adreslerinin, aile bağlarının, vatandaşlık durumlarının ve şahsî hallerinin belirlenmesi amacıyla ilçe ve aile esasına göre nüfus olaylarının tescil edildiği, daimî olarak saklanması gerekli resmî belgelerdir.
 
 (2) Aile kütüğü ve özel kütüklerde tutulan kayıtlar ile yedekleri ve bunlardan çıkarılan kayıt örnekleri aynı hukukî değere sahiptir. Kayıtlar arasında farklılık olduğu takdirde, aksi sabit oluncaya kadar kayda esas olan dayanak belgesi geçerlidir.
 
-Nüfus kütüklerinin tutulması
+**Nüfus kütüklerinin tutulması**
 
-MADDE 6- (1) Nüfus olayları, iletişim ağı kullanılarak nüfus müdürlüklerindeki aile kütüklerine ve merkezî veri tabanına tescil edilir.
+**MADDE 6-** (1) Nüfus olayları, iletişim ağı kullanılarak nüfus müdürlüklerindeki aile kütüklerine ve merkezî veri tabanına tescil edilir.
 
 (2) Bakanlık, doğal afet ve olağanüstü hallere karşı kesintisiz olarak hizmetverilmesini sağlamak amacıyla, merkezî veri tabanının yedeğinin farklı bir yerde tutulmasını sağlar.
 
@@ -81,9 +81,9 @@ MADDE 6- (1) Nüfus olayları, iletişim ağı kullanılarak nüfus müdürlükl
 
 (4) Nüfus kütüklerinin tutulmasına ilişkin usûl ve esasları belirlemeye, mevzuat ve sistemdeki gelişmelere bağlı olarak değiştirmeye ve kâğıt ortamında tutulan aile kütüklerini uygulamadan kaldırmaya Bakanlık yetkilidir.
 
-Aile kütüklerinde bulunması gereken kişisel bilgiler
+**Aile kütüklerinde bulunması gereken kişisel bilgiler**
 
-MADDE 7- (1) Her mahalle veya köy için ayrı aile kütüğü tutulur. Aile kütüklerinde aşağıdaki bilgiler bulunur:
+**MADDE 7-** (1) Her mahalle veya köy için ayrı aile kütüğü tutulur. Aile kütüklerinde aşağıdaki bilgiler bulunur:
 
 a) Türkiye Cumhuriyeti kimlik numarası.
 
@@ -107,71 +107,71 @@ g) Yerleşim yeri adresi.
 
 (2) Türkiye'de aile kütüğü bulunmayan ve yabancı ülkelerde oturan vatandaşlar Bakanlığın göstereceği bir nüfus müdürlüğünde açılacak aile kütüğüne kaydedilir.
 
-Türkiye'de oturan yabancıların nüfus kayıtları
+**Türkiye'de oturan yabancıların nüfus kayıtları**
 
-MADDE 8- (1) (Değişik: 4/4/2013-6458/123 md.) Türkiye’de herhangi bir amaçla en az doksan gün süreli ikamet izni alan yabancılar, Genel Müdürlükçe yabancılar kütüğüne kayıt edilir. Ancak, Türkiye’de yasal olarak bulunan yabancılar da talep etmeleri hâlinde yabancılar kütüğüne kayıt edilir. Bu kütüğe kayıt edilen yabancılar, her tür nüfus olayını nüfus müdürlüklerine beyan etmekle yükümlüdürler. Diplomatik misyon mensupları bu hükmün dışındadır.
+**MADDE 8-** (1) **(Değişik: 4/4/2013-6458/123 md.)** Türkiye’de herhangi bir amaçla en az doksan gün süreli ikamet izni alan yabancılar, Genel Müdürlükçe yabancılar kütüğüne kayıt edilir. Ancak, Türkiye’de yasal olarak bulunan yabancılar da talep etmeleri hâlinde yabancılar kütüğüne kayıt edilir. Bu kütüğe kayıt edilen yabancılar, her tür nüfus olayını nüfus müdürlüklerine beyan etmekle yükümlüdürler. Diplomatik misyon mensupları bu hükmün dışındadır.
 
 (2) 15/7/1950 tarihli ve 5683 sayılı Yabancıların Türkiye'de İkamet ve Seyahatleri Hakkında Kanun hükümleri saklıdır.
 
-Mavi Kartlıların kayıtları
+**Mavi Kartlıların kayıtları**
 
-MADDE 8/A – (Ek: 9/5/2012-6304/12 md.)
+**MADDE 8/A – (Ek: 9/5/2012-6304/12 md.)**
 
 (1) Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların 5901 sayılı Kanunun 28 inci maddesinde belirtilen altsoyları, Genel Müdürlükçe elektronik ortamda tutulan Mavi Kartlılar
 
 Kütüğüne kaydedilir. Bu Kütüğe kaydedilenler, her türlü nüfus olaylarını yurt içinde nüfus müdürlüklerine, yurt dışında ise dış temsilciliklere beyan etmekle yükümlüdürler.
 
-İKİNCİ BÖLÜM
+**İKİNCİ BÖLÜM**
 
-Nüfus Kayıtlarının Özellikleri
+**Nüfus Kayıtlarının Özellikleri**
 
-Gizlilik
+**Gizlilik**
 
-MADDE 9- (1) Nüfus kayıtları ve bu kayıtların tutulmasına dayanak olan belgeler gizlidir. Bunlar, yetkili ve sorumlu memurlar ile teftiş ve denetim yetkisi olanlar dışında kimse tarafından görülüp incelenemez. Mahkemeler bu hükmün dışındadır.
+**MADDE 9-** (1) Nüfus kayıtları ve bu kayıtların tutulmasına dayanak olan belgeler gizlidir. Bunlar, yetkili ve sorumlu memurlar ile teftiş ve denetim yetkisi olanlar dışında kimse tarafından görülüp incelenemez. Mahkemeler bu hükmün dışındadır.
 
 (2) Nüfus kayıtlarına bu bilgileri işleyen memurlar ve Kimlik Paylaşımı Sistemi kapsamında nüfus kayıtlarından faydalanan diğer görevliler de bu gizliliğe uymak zorundadırlar. Bu yükümlülük, kamu görevlilerinin görevlerinden ayrılmalarından sonra da devam eder.
 
-Resmî işlemlerde esas alınması
+**Resmî işlemlerde esas alınması**
 
-MADDE 10- (1) Kurumlarda kişiyle ilgili olarak yapılan işlemlerde nüfus kayıtları esas alınır. Kayıtlar arasında farklılık olması halinde nüfus kayıtlarında değişiklik yapılmaz, usûlüne göre diğer kayıtlar düzeltilir.
+**MADDE 10-** (1) Kurumlarda kişiyle ilgili olarak yapılan işlemlerde nüfus kayıtları esas alınır. Kayıtlar arasında farklılık olması halinde nüfus kayıtlarında değişiklik yapılmaz, usûlüne göre diğer kayıtlar düzeltilir.
 
-ÜÇÜNCÜ BÖLÜM
+**ÜÇÜNCÜ BÖLÜM**
 
-Nüfus Kütüklerinin Tutulmasına İlişkin Esaslar
+**Nüfus Kütüklerinin Tutulmasına İlişkin Esaslar**
 
-Tescil mecburiyeti
+**Tescil mecburiyeti**
 
-MADDE 11- (1) Türkiye Cumhuriyeti vatandaşı olan her kişi yurt içinde nüfus müdürlüğüne, yurt dışında dış temsilciliğe müracaatla kendisini nüfus kütüklerine yazdırmaya ve nüfus cüzdanı almaya mecburdur. Ergin olmayanların nüfus olaylarını yazdırıp nüfus cüzdanlarını almaya veli, vasi veya kayyımları, bunların bulunmaması halinde, çocukları yanlarında bulunduranlar ile 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununun yetkili kıldığı kuruluş yetkilileri görevlidirler.
+**MADDE 11-** (1) Türkiye Cumhuriyeti vatandaşı olan her kişi yurt içinde nüfus müdürlüğüne, yurt dışında dış temsilciliğe müracaatla kendisini nüfus kütüklerine yazdırmaya ve nüfus cüzdanı almaya mecburdur. Ergin olmayanların nüfus olaylarını yazdırıp nüfus cüzdanlarını almaya veli, vasi veya kayyımları, bunların bulunmaması halinde, çocukları yanlarında bulunduranlar ile 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununun yetkili kıldığı kuruluş yetkilileri görevlidirler.
 
 (2) Türk vatandaşlığını sonradan kazanmış olanlar da vatandaşlığı kazandıkları tarihten itibaren nüfus kütüğüne geçirilir.
 
-Tescilde dayanak belgesi zorunluluğu
+**Tescilde dayanak belgesi zorunluluğu**
 
-MADDE 12- (1) Nüfus kütüklerine düşülen kişisel durumla ilgili her kayıt ve açıklamanın bu Kanuna göre yetkili kılınmış görevlilerce, usûlüne ve örneğine uygun olarak düzenlenmiş belgelere dayandırılması zorunludur.
+**MADDE 12-** (1) Nüfus kütüklerine düşülen kişisel durumla ilgili her kayıt ve açıklamanın bu Kanuna göre yetkili kılınmış görevlilerce, usûlüne ve örneğine uygun olarak düzenlenmiş belgelere dayandırılması zorunludur.
 
 (2) Nüfus olaylarını tescil eden memurlar tarafından her işlem sonunda dayanak belgeleri aile kütüklerine işlendikten sonra imzalanır ve bir nüshası arşivlenmek üzere Genel Müdürlüğe gönderilecek olan ilgili özel kütüğe konulur.
 
-Tescil
+**Tescil**
 
-MADDE 13- (1) Yetkili kişi ve kuruluşlarca bildirilen nüfus olaylarına ilişkin belge ve tutanaklar bu Kanun hükümlerine göre tescil edilir. Bakanlık her türlü nüfus işlemlerinde elektronik imza kullanılmasına karar vermeye yetkilidir.
+**MADDE 13-** (1) Yetkili kişi ve kuruluşlarca bildirilen nüfus olaylarına ilişkin belge ve tutanaklar bu Kanun hükümlerine göre tescil edilir. Bakanlık her türlü nüfus işlemlerinde elektronik imza kullanılmasına karar vermeye yetkilidir.
 
-Kaydın kapatılması ve yeniden açılması
+**Kaydın kapatılması ve yeniden açılması**
 
-MADDE 14- (1) Nüfus kaydının kapatılması; ölüm, gaiplik, Türk vatandaşlığının kaybı, evlenme, boşanma, evlât edinilme, soybağının düzeltilmesi veya reddi gibi olaylar nedeniyle bir kaydın üzerinde işlem yapılamaz hale getirilmesidir.
+**MADDE 14-** (1) Nüfus kaydının kapatılması; ölüm, gaiplik, Türk vatandaşlığının kaybı, evlenme, boşanma, evlât edinilme, soybağının düzeltilmesi veya reddi gibi olaylar nedeniyle bir kaydın üzerinde işlem yapılamaz hale getirilmesidir.
 
 (2) Kaydın kapatılmasına ilişkin sebep ortadan kalktığında veya kaydın yeniden açılmasını gerektirecek yeni bir sebep ortaya çıktığında kayıt yeniden açılır. Kaydın açılmasından sonra kişisel durumda meydana gelmiş olan olaylar kişinin kaydına işlenir.
 
-ÜÇÜNCÜ KISIM
+**ÜÇÜNCÜ KISIM**
 
-Nüfus Olayları
+**Nüfus Olayları**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Doğum
+**Doğum**
 
-Bildirim yükümlülüğü ve süresi
+**Bildirim yükümlülüğü ve süresi**
 
-MADDE 15- (1) Sağ olarak dünyaya gelen her çocuğun, doğumdan itibaren Türkiye'de otuz gün içinde nüfus müdürlüğüne, yurt dışında ise altmış gün içinde dış temsilciliğe bildirilmesi zorunludur.
+**MADDE 15-** (1) Sağ olarak dünyaya gelen her çocuğun, doğumdan itibaren Türkiye'de otuz gün içinde nüfus müdürlüğüne, yurt dışında ise altmış gün içinde dış temsilciliğe bildirilmesi zorunludur.
 
 (2) Bildirim; veli, vasi, kayyım, bunların bulunmaması halinde, çocuğun büyük ana, büyük baba veya ergin kardeşleri ya da çocuğu yanında bulunduranlar tarafından, doğumu gösteren resmî belgeye dayanarak yapılabileceği gibi sözlü beyana dayalı olarak da yapılabilir.
 
@@ -183,19 +183,19 @@ MADDE 15- (1) Sağ olarak dünyaya gelen her çocuğun, doğumdan itibaren Türk
 
 (6) Ölü doğan çocuklar aile kütüğüne yazılmaz. Bir doğumda birden ziyade doğan çocuklar doğuş sırasıyla yazılırlar.
 
-Süresi içinde bildirilmeyen doğumlar
+**Süresi içinde bildirilmeyen doğumlar**
 
-MADDE 16- (1) Bu Kanunun 15 inci maddesinde belirtilen süreyi geçirdikten sonra bildirilen altı yaşını bitirmemiş olan çocukların doğum tarihinin tespitinde beyan esas alınır. Çocuk altı yaşını doldurmuş ise nüfus müdürlüğüne getirilerek resmî sağlık kuruluşunca yaşının tespit edilmesi sağlanır. Doğuma ait resmî belge ibraz edilmesi halinde, yaş tespitine gerek kalmaz.
+**MADDE 16-** (1) Bu Kanunun 15 inci maddesinde belirtilen süreyi geçirdikten sonra bildirilen altı yaşını bitirmemiş olan çocukların doğum tarihinin tespitinde beyan esas alınır. Çocuk altı yaşını doldurmuş ise nüfus müdürlüğüne getirilerek resmî sağlık kuruluşunca yaşının tespit edilmesi sağlanır. Doğuma ait resmî belge ibraz edilmesi halinde, yaş tespitine gerek kalmaz.
 
-Nüfus müdürlüklerinin yetkisi
+**Nüfus müdürlüklerinin yetkisi**
 
-MADDE 17- (1) Nüfus müdürlükleri; süresi içerisinde bildirilmemiş çocukların veya nüfusa tescil edilmemiş erginlerin varlığını haber aldıkları takdirde; erginlerin kendilerini, çocukların veli, vasi veya kayyımlarını, bunların bulunmaması halinde; büyük ana, büyük baba veya kardeşlerini ya da çocukları yanlarında bulunduranları veya muhtarları beyana davet etmeye yetkilidirler. İlgililer de bu davet üzerine otuz gün içinde nüfus müdürlüklerine başvurmak ve beyanda bulunmakla görevlidir.
+**MADDE 17-** (1) Nüfus müdürlükleri; süresi içerisinde bildirilmemiş çocukların veya nüfusa tescil edilmemiş erginlerin varlığını haber aldıkları takdirde; erginlerin kendilerini, çocukların veli, vasi veya kayyımlarını, bunların bulunmaması halinde; büyük ana, büyük baba veya kardeşlerini ya da çocukları yanlarında bulunduranları veya muhtarları beyana davet etmeye yetkilidirler. İlgililer de bu davet üzerine otuz gün içinde nüfus müdürlüklerine başvurmak ve beyanda bulunmakla görevlidir.
 
 (2) Verilen süre içerisinde bildirim yapılmaması halinde mülkî idare amirinin göreceği lüzum üzerine kolluk kuvvetlerince bunların zorla getirilmesi için gereken işlem yapılarak çocuğun aile kütüklerine tescili sağlanır.
 
-Bildirimle yükümlü diğer görevliler
+**Bildirimle yükümlü diğer görevliler**
 
-MADDE 18- (1) 2828 sayılı Kanunun yetkili kıldığı kuruluş yetkilileri, yetiştirme yurtları, bakım evleri ve benzeri yerlerin sorumluları ile kişiler; yanlarında çalıştırdıkları veya barındırdıkları çocuk veya erginlerin nüfus cüzdanlarını kontrol etmek, aile kütüklerine kayıtlı olmayanların tescillerini sağlamak için nüfus müdürlüklerine beyanda bulunmak ve gerekli işlemleri yaptırmakla görevlidirler.
+**MADDE 18-** (1) 2828 sayılı Kanunun yetkili kıldığı kuruluş yetkilileri, yetiştirme yurtları, bakım evleri ve benzeri yerlerin sorumluları ile kişiler; yanlarında çalıştırdıkları veya barındırdıkları çocuk veya erginlerin nüfus cüzdanlarını kontrol etmek, aile kütüklerine kayıtlı olmayanların tescillerini sağlamak için nüfus müdürlüklerine beyanda bulunmak ve gerekli işlemleri yaptırmakla görevlidirler.
 
 (2) Kolluk görevlileri; kimlik kontrolleri veya herhangi bir işlem nedeniyle kimliğini ispat edemeyenlerle, nüfusta kayıtlı olmadığını tespit ettikleri kişileri, haklarında gerekli işlemleri yaptıktan sonra düzenleyecekleri evrakı o yerdeki nüfus müdürlüğüne bildirmekle yükümlüdürler.
 
@@ -203,41 +203,41 @@ MADDE 18- (1) 2828 sayılı Kanunun yetkili kıldığı kuruluş yetkilileri, ye
 
 (4) Kamu veya özel kurumlar iş verecekleri kişilerden nüfus cüzdanı istemekle, nüfusta kayıtlı olmadıklarını anladıkları kişilerin beyana dayalı kimlik ve adreslerini nüfus müdürlüklerine bildirmekle yükümlüdürler.
 
-Bulunmuş çocuklar ve zihinsel engelli kişiler(1)
+**Bulunmuş çocuklar ve zihinsel engelli kişiler(1)**
 
-MADDE 19- (1) Yaşının küçüklüğü nedeniyle kendisini ifade edemeyen bulunmuş çocukların nüfus kütüklerine kaydedilmesi, kolluk görevlileri veya ilgili kurumların bu durumu belirten tutanaklarına veya ilgililerin beyanlarına dayanılarak bulundukları yerin nüfus müdürlüğünce yapılır.
+**MADDE 19-** (1) Yaşının küçüklüğü nedeniyle kendisini ifade edemeyen bulunmuş çocukların nüfus kütüklerine kaydedilmesi, kolluk görevlileri veya ilgili kurumların bu durumu belirten tutanaklarına veya ilgililerin beyanlarına dayanılarak bulundukları yerin nüfus müdürlüğünce yapılır.
 
 (2) Zihinsel engelli olup da bulunmuş onsekiz yaşından büyük kişileri, mahkemece tayin edilecek olan kayyımları bildirmekle yükümlüdür. Bildirimin tam teşekküllü devlet hastahanesinden alınacak sağlık kurulu raporu ile nüfus müdürlüğüne yapılması zorunludur.(1)
 
 __________________
 
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu maddenin başlığında ve ikinci fıkrasında yer alan “özürlü” ibareleri “engelli” olarak değiştirilmiştir.
+<i>(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu maddenin başlığında ve ikinci fıkrasında yer alan “özürlü” ibareleri</i> <i>“engelli” olarak değiştirilmiştir.</i>
 
 (3) Bu kişiler hakkında düzenlenen tutanaklarda doğum tarihi, adı ve soyadı ile ana ve baba adı belirtilmemiş ise;
 
 nüfus müdürlüğünce ad ve soyad ile ana ve baba adı verilir. Doğum tarihi belirlenmemişse resmî sağlık kuruluşunca tespit edilmesi sağlanır.
 
-Türk vatandaşlığını kazananlar
+**Türk vatandaşlığını kazananlar**
 
-MADDE 20- (1) Kanun gereğince Türk vatandaşlığını kazananlar yetkili makam veya kurulların kararı üzerine düzenlenecek formlara uygun olarak aile kütüğüne tescil edilirler.
+**MADDE 20-** (1) Kanun gereğince Türk vatandaşlığını kazananlar yetkili makam veya kurulların kararı üzerine düzenlenecek formlara uygun olarak aile kütüğüne tescil edilirler.
 
-Yabancıların nüfus olayları
+**Yabancıların nüfus olayları**
 
-MADDE 21- (1) Bu Kanunun 8 inci maddesi kapsamı dışında kalan yabancıların Türkiye'de meydana gelen nüfus olaylarına ilişkin olarak nüfus müdürlüklerine yapılan başvuruları üzerine ilgili olay formları düzenlenir ve bir örneği kendilerine verilir. Bu formlar özel bir dosyada saklanır.
+**MADDE 21-** (1) Bu Kanunun 8 inci maddesi kapsamı dışında kalan yabancıların Türkiye'de meydana gelen nüfus olaylarına ilişkin olarak nüfus müdürlüklerine yapılan başvuruları üzerine ilgili olay formları düzenlenir ve bir örneği kendilerine verilir. Bu formlar özel bir dosyada saklanır.
 
-İKİNCİ BÖLÜM
+**İKİNCİ BÖLÜM**
 
-Evlenme
+**Evlenme**
 
-Evlendirme yetkisi
+**Evlendirme yetkisi**
 
-MADDE 22- (1) Bakanlık, evlendirme işlemlerinin nüfus ve vatandaşlık hizmetlerinin bütünlüğü içerisinde yürütülmesi için gereken her türlü tedbiri alır ve uygular.
+**MADDE 22-** (1) Bakanlık, evlendirme işlemlerinin nüfus ve vatandaşlık hizmetlerinin bütünlüğü içerisinde yürütülmesi için gereken her türlü tedbiri alır ve uygular.
 
 (2) Evlendirme memuru; belediye bulunan yerlerde belediye başkanı veya bu işle görevlendireceği memur, köylerde muhtardır. Bakanlık, il nüfus ve vatandaşlık müdürlüklerine, nüfus müdürlüklerine ve dış temsilciliklere evlendirme memurluğu yetkisi ve görevi verebilir. Eşlerden birinin yabancı olması halinde evlendirmeye, (...)(1) belediye evlendirme memurlukları ile nüfus müdürleri yetkilidir. (1)
 
-Evlenmenin bildirilmesi ve tescili
+**Evlenmenin bildirilmesi ve tescili**
 
-MADDE 23- (1) 22 nci madde uyarınca evlendirme işlemini yapanlar; evlenmenin yapıldığı tarihten itibaren on gün içinde düzenlenecek evlenme bildirimini nüfus müdürlüğüne göndermekle, nüfus müdürlüğü de tescil etmekle yükümlüdür.
+**MADDE 23-** (1) 22 nci madde uyarınca evlendirme işlemini yapanlar; evlenmenin yapıldığı tarihten itibaren on gün içinde düzenlenecek evlenme bildirimini nüfus müdürlüğüne göndermekle, nüfus müdürlüğü de tescil etmekle yükümlüdür.
 
 (2) Evlenen kadının kaydı kocasının hanesine taşınır. Kocası ölen kadın yeniden evlenmedikçe ölen kocasının aile kütüğünde kalır. Ancak dilerse babasının kütüğüne dönebilir.
 
@@ -245,9 +245,9 @@ MADDE 23- (1) 22 nci madde uyarınca evlendirme işlemini yapanlar; evlenmenin y
 
 (4) Mülga 743 sayılı Türk Kanunu Medenisinin yürürlüğe girdiği 4/10/1926 tarihinden önce eski hükümlere göre yapılıp da halen nüfus kütüklerine tescil edilmemiş olan evlenmeler ilgililerin mahkemeden karar almaları suretiyle aile kütüğüne tescil edilir.
 
-Yurt dışında yapılan evlendirmeler
+**Yurt dışında yapılan evlendirmeler**
 
-MADDE 24- (1) Yurt dışında yabancı yetkili makamlar önünde Türk vatandaşlarının yaptığı evlenmeler, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine uygun olmak ve butlanla batıl olmayı gerektiren bir sebep bulunmamak kaydıyla geçerlidir. Bu evliliklerin koca, kocanın yabancı olması halinde kadın tarafından en geç otuz gün içerisinde evlenmeyi yapan yabancı makamdan alınmış belgenin o yerdeki dış temsilciliğe verilmesi veya dış temsilciliğe gönderilmesi suretiyle yapılır. Beyanı alan dış temsilcilik evlenme bildirimini usûlüne göre düzenleyerek nüfus müdürlüklerine göndermekle yükümlüdür.
+**MADDE 24-** (1) Yurt dışında yabancı yetkili makamlar önünde Türk vatandaşlarının yaptığı evlenmeler, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine uygun olmak ve butlanla batıl olmayı gerektiren bir sebep bulunmamak kaydıyla geçerlidir. Bu evliliklerin koca, kocanın yabancı olması halinde kadın tarafından en geç otuz gün içerisinde evlenmeyi yapan yabancı makamdan alınmış belgenin o yerdeki dış temsilciliğe verilmesi veya dış temsilciliğe gönderilmesi suretiyle yapılır. Beyanı alan dış temsilcilik evlenme bildirimini usûlüne göre düzenleyerek nüfus müdürlüklerine göndermekle yükümlüdür.
 
 (2) O yerde dış temsilcilik bulunmadığı veya dış temsilciliğe bildirimde bulunulamadığı takdirde, evlenme bildirimi;
 
@@ -255,27 +255,27 @@ yabancı makamlardan alınan evlenme belgesinin Türkçeye çevrilip usûlüne g
 
 ––––––––––––––––––
 
-(1) 29/5/2009 tarihli ve 5901 sayılı Kanunun 47 nci maddesiyle; bu fıkrada bulunan "il ve ilçe" ibaresi yürürlükten kaldırılmıştır.
+<i>(1) 29/5/2009 tarihli ve 5901 sayılı Kanunun 47 nci maddesiyle; bu fıkrada bulunan "il ve ilçe" ibaresi yürürlükten</i> <i>kaldırılmıştır.</i>
 
-Evlenmekle Türk vatandaşlığını kazananların tescili
+**Evlenmekle Türk vatandaşlığını kazananların tescili**
 
-MADDE 25- (1) Evlenmekle Türk vatandaşlığını kazanan kadın, kocasının hanesine tescil edilir. Bu şekilde aile kütüklerine tescil edilen kadının ölüm dışında evliliğinin sona ermesi halinde kaydı, kayıtlı bulunduğu kütüğün sonuna taşınır.
+**MADDE 25-** (1) Evlenmekle Türk vatandaşlığını kazanan kadın, kocasının hanesine tescil edilir. Bu şekilde aile kütüklerine tescil edilen kadının ölüm dışında evliliğinin sona ermesi halinde kaydı, kayıtlı bulunduğu kütüğün sonuna taşınır.
 
 (2) Evlenmekle Türk vatandaşlığını kazanan erkek karısının evlenmekle kaydının taşındığı haneye tescil edilir.
 
 Evliliğin ölüm dışında sona ermesi halinde kadının kaydı evlenmeden önce kayıtlı bulunduğu haneye taşınır, erkeğin kaydı ise kayıtlı bulunduğu hanede kalır.
 
-ÜÇÜNCÜ BÖLÜM
+**ÜÇÜNCÜ BÖLÜM**
 
-Boşanma ve Evliliğin İptali
+**Boşanma ve Evliliğin İptali**
 
-Kadının bekleme süresinin başlangıcı
+**Kadının bekleme süresinin başlangıcı**
 
-MADDE 26- (1) Kadının bekleme süresi, mahkeme kararının kesinleştiği tarihten itibaren hüküm ifade eder.
+**MADDE 26-** (1) Kadının bekleme süresi, mahkeme kararının kesinleştiği tarihten itibaren hüküm ifade eder.
 
-Boşanma veya evliliğin iptali kararlarında bulunması gerekli hususlar
+**Boşanma veya evliliğin iptali kararlarında bulunması gerekli hususlar**
 
-MADDE 27- (1) Boşanma veya evliliğin iptaline ilişkin kararlarda aşağıdaki bilgilere yer verilmesi zorunludur:
+**MADDE 27-** (1) Boşanma veya evliliğin iptaline ilişkin kararlarda aşağıdaki bilgilere yer verilmesi zorunludur:
 
 a) Tarafların Türkiye Cumhuriyeti kimlik numarası, adı, soyadı, doğum yeri ve tarihi, baba ve ana adları ile kadının evlenmeden önceki soyadı ve aile kütüğünde kayıtlı olduğu yer bilgileri.
 
@@ -283,13 +283,13 @@ b) Evlilik içinde doğmuş çocuklar ve bunların kimlik bilgileri.
 
 c) Karara ait usûl mevzuatının öngördüğü diğer esas ve usûle ait hükümler.
 
-DÖRDÜNCÜ BÖLÜM
+**DÖRDÜNCÜ BÖLÜM**
 
-Tanıma ve Evlât Edinme
+**Tanıma ve Evlât Edinme**
 
-Tanıma işlemi
+**Tanıma işlemi**
 
-MADDE 28- (1) Tanıma; babanın yazılı başvurusu üzerine mahkemede yapılmışsa mahkeme tarafından, notere başvurusu üzerine düzenlenen senetle yapılmışsa noter tarafından tanımanın yapıldığı tarihten itibaren on gün içinde nüfus müdürlüğüne bildirilir.
+**MADDE 28-** (1) Tanıma; babanın yazılı başvurusu üzerine mahkemede yapılmışsa mahkeme tarafından, notere başvurusu üzerine düzenlenen senetle yapılmışsa noter tarafından tanımanın yapıldığı tarihten itibaren on gün içinde nüfus müdürlüğüne bildirilir.
 
 (2) Tanımanın babanın vasiyetnamesindeki beyanla yapılması durumunda nüfus müdürlüğüne bildirim, vasiyetnameyi açan hâkim tarafından yapılır.
 
@@ -299,23 +299,23 @@ MADDE 28- (1) Tanıma; babanın yazılı başvurusu üzerine mahkemede yapılmı
 
 (5) Yurt dışında yapılan tanıma işlemlerine ait bildirimler dış temsilciliklere veya Türkçeye tercüme edilip, onaylanmış olmak kaydıyla yurt içinde nüfus müdürlüklerine yapılabilir.
 
-Evlât edinme işlemi
+**Evlât edinme işlemi**
 
-MADDE 29- (1) Evlât edinme kararı mahkeme tarafından on gün içinde o yerin nüfus müdürlüğüne bildirilir. Evlât edinme olayı aile kütüklerine tescil edilir ve evlât edinilenin kaydı evlât edinenin aile kütüğüne taşınır.
+**MADDE 29-** (1) Evlât edinme kararı mahkeme tarafından on gün içinde o yerin nüfus müdürlüğüne bildirilir. Evlât edinme olayı aile kütüklerine tescil edilir ve evlât edinilenin kaydı evlât edinenin aile kütüğüne taşınır.
 
-Yurt dışında yapılan evlât edinme işlemleri
+**Yurt dışında yapılan evlât edinme işlemleri**
 
-MADDE 30- (1) Yurt dışında yabancı yetkili makamlar önünde yapılan evlât edinme işlemleri aslî şartlar bakımından Türk mevzuatına uygun olmak şartıyla Türkiye'de de geçerlidir.
+**MADDE 30-** (1) Yurt dışında yabancı yetkili makamlar önünde yapılan evlât edinme işlemleri aslî şartlar bakımından Türk mevzuatına uygun olmak şartıyla Türkiye'de de geçerlidir.
 
 (2) Evlât edinme olaylarına ilişkin yabancı adlî veya idarî makamlarca verilen ve o ülkenin hukukuna göre kesinleşmiş olan veya kesin hüküm gibi sonuç doğuran karar ve belgelerin Türkiye'de icra olunabilmesi, yetkili Türk mahkemesi tarafından tenfiz veya tanıma kararı verilmesine bağlıdır.
 
-BEŞİNCİ BÖLÜM
+**BEŞİNCİ BÖLÜM**
 
-Ölüm ve Gaiplik
+**Ölüm ve Gaiplik**
 
-Bildirim süresi ve yükümlü olanlar
+**Bildirim süresi ve yükümlü olanlar**
 
-MADDE 31- (1) Ölüm olayını;
+**MADDE 31-** (1) Ölüm olayını;
 
 a) Şehir ve kasabalarda 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu gereğince defin ruhsatı vermeye yetkili olanlar, b) Köylerde, varsa resmî tabip veya sağlık kuruluşu yetkilileri, yoksa köy muhtarları, c) Hastane ve bakım evi gibi sağlık kurumlarında kurum amirlikleri, ç) Askeri birliklerde tabipler veya iç hizmet mevzuatına göre kıta komutanlıklarınca görevlendirilmiş olanlar ve askerlik şubeleri, d) Doğal afetlerde mülkî idare amirlerince görevlendirilecek memurlar, e) Adlî olaylarda ve kazalarda ilgili Cumhuriyet savcılıkları, olayın meydana geldiği tarihten itibaren, dış temsilcilikler ise olaydan haberdar oldukları tarihten itibaren on gün içerisinde Genel Müdürlüğe ya da nüfus müdürlüğüne bildirmekle yükümlüdürler.
 
@@ -325,45 +325,45 @@ a) Şehir ve kasabalarda 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha
 
 (4) Ölenin kaydı yok ise yapılacak soruşturma sonunda Türk vatandaşlığı ve ailesi tespit edildiği takdirde doğum tutanağı düzenlenerek aile kütüğüne önce doğum, sonra ölüm olayı işlenir.
 
-Ölüm karinesi
+**Ölüm karinesi**
 
-MADDE 32- (1) Bir kimse ölümüne kesin gözle bakılmayı gerektiren durumlar içinde kaybolursa, cesedi bulunamamış olsa bile müracaat edilen yerin mülkî idare amirinin emri ile ölüm tutanağı düzenlenerek ölüm olayı işlenir.
+**MADDE 32-** (1) Bir kimse ölümüne kesin gözle bakılmayı gerektiren durumlar içinde kaybolursa, cesedi bulunamamış olsa bile müracaat edilen yerin mülkî idare amirinin emri ile ölüm tutanağı düzenlenerek ölüm olayı işlenir.
 
 (2) Bu madde uyarınca işlem yapılabilmesi için ölüm karinesi bulunan kişinin alt veya üst soyundan bir kişinin ya da kardeşlerinin, bunlar yoksa mirasçılarının dilekçe ile başvurarak olayı belgelendirmeleri ya da yetkili makamların durumu resmî bir yazı ile nüfus müdürlüğüne bildirmeleri gereklidir.
 
 (3) Dilekçeye ekli belgeler ve gerektiğinde nüfus müdürlüğünce yaptırılacak soruşturma olayın doğruluğunu ve öldüğü iddia edilen kişinin de olayın meydana geldiği sırada orada bulunduğunu kanıtlamaya yeterli görülürse mülkî idare amirinin emri ile ölüm kaydı düşülür.
 
-Ölü olduğu halde aile kütüklerinde sağ görünenler
+**Ölü olduğu halde aile kütüklerinde sağ görünenler**
 
-MADDE 33- (1) Ölmüş olduğu halde aile kütüklerinde sağ görülenlere ait ölüm tutanakları, ölüm olayını gösterir belge ile başvurulması halinde nüfus müdürlüklerince düzenlenir ve gerekli işlem yapılır. Herhangi bir belge ibraz edilememesi durumunda ölüm beyanının doğruluğu nüfus müdürlüklerince tahkik ettirildikten sonra düzenlenecek ölüm tutanağı, mülkî idare amirinin emri ile işleme konulur.
+**MADDE 33-** (1) Ölmüş olduğu halde aile kütüklerinde sağ görülenlere ait ölüm tutanakları, ölüm olayını gösterir belge ile başvurulması halinde nüfus müdürlüklerince düzenlenir ve gerekli işlem yapılır. Herhangi bir belge ibraz edilememesi durumunda ölüm beyanının doğruluğu nüfus müdürlüklerince tahkik ettirildikten sonra düzenlenecek ölüm tutanağı, mülkî idare amirinin emri ile işleme konulur.
 
-Gaiplik işlemi
+**Gaiplik işlemi**
 
-MADDE 34- (1) Gaiplik kararları mahkemelerce on gün içinde o yerin nüfus müdürlüğüne bildirilir ve nüfus memurlarınca aile kütüklerine tescil edilir.
+**MADDE 34-** (1) Gaiplik kararları mahkemelerce on gün içinde o yerin nüfus müdürlüğüne bildirilir ve nüfus memurlarınca aile kütüklerine tescil edilir.
 
-DÖRDÜNCÜ KISIM
+**DÖRDÜNCÜ KISIM**
 
-Kayıt Düzeltmeleri
+**Kayıt Düzeltmeleri**
 
-BİRİNCİ BÖLÜM
+**BİRİNCİ BÖLÜM**
 
-Nüfus Kaydının Düzeltilmesine İlişkin Esaslar
+**Nüfus Kaydının Düzeltilmesine İlişkin Esaslar**
 
-Kayıt düzeltilmesi
+**Kayıt düzeltilmesi**
 
-MADDE 35- (1) Kesinleşmiş mahkeme hükmü olmadıkça nüfus kütüklerinin hiçbir kaydı düzeltilemez ve kayıtların anlamını ve taşıdığı bilgileri değiştirecek şerhler konulamaz. Ancak olayların aile kütüklerine tescili esnasında yapılan maddî hatalar nüfus müdürlüğünce dayanak belgesine uygun olarak düzeltilir.
+**MADDE 35-** (1) Kesinleşmiş mahkeme hükmü olmadıkça nüfus kütüklerinin hiçbir kaydı düzeltilemez ve kayıtların anlamını ve taşıdığı bilgileri değiştirecek şerhler konulamaz. Ancak olayların aile kütüklerine tescili esnasında yapılan maddî hatalar nüfus müdürlüğünce dayanak belgesine uygun olarak düzeltilir.
 
 (2) Aile kütüklerindeki din bilgisine ilişkin talepler, kişinin yazılı beyanına uygun olarak tescil edilir, değiştirilir, boş bırakılır veya silinir.
 
-Nüfus davaları
+**Nüfus davaları**
 
-MADDE 36- (1) Mahkeme kararı ile yapılan kayıt düzeltmelerinde aşağıdaki usûllere uyulur:
+**MADDE 36-** (1) Mahkeme kararı ile yapılan kayıt düzeltmelerinde aşağıdaki usûllere uyulur:
 
 a) Nüfus kayıtlarına ilişkin düzeltme davaları, düzeltmeyi isteyen şahıslar ile ilgili resmî dairenin göstereceği lüzum üzerine Cumhuriyet savcıları tarafından yerleşim yeri adresinin bulunduğu yerdeki görevli asliye hukuk mahkemesinde açılır.
 
 Kayıt düzeltme davaları (..)(1) nüfus müdürü veya görevlendireceği nüfus memuru huzuru ile görülür ve karara bağlanır.(1)
 
-b) (İptal birinci cümle: Anayasa Mahkemesi’nin 30/3/2012 tarihli ve E.: 2011/34, K.: 2012/48 sayılı Kararı ile.)
+b) **(İptal birinci cümle: Anayasa Mahkemesi’nin 30/3/2012 tarihli ve E.: 2011/34, K.: 2012/48 sayılı Kararı ile.)**
 
 (…) Ad değişikliği halinde, nüfus müdürlüğü bu kişinin çocuklarının baba veya ana adına ilişkin kaydı, soyadı değişikliğinde ise eş ve ergin olmayan çocukların soyadını da düzeltir.
 
@@ -373,41 +373,41 @@ c) Tespit davaları, kaydın iptali veya düzeltilmesi için açılacak davalara
 
 –––––––––––––––
 
-(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 31 inci maddesiyle, bu bentte yer alan “Cumhuriyet Savcısı ve” ibaresi yürürlükten kaldırılmıştır.
+<i>(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 31 inci maddesiyle, bu bentte yer alan “Cumhuriyet Savcısı ve” ibaresi yürürlükten</i> <i>kaldırılmıştır.</i>
 
-Nüfus müdürlüklerinin yetkisi
+**Nüfus müdürlüklerinin yetkisi**
 
-MADDE 37- (1) Genel Müdürlük ve nüfus müdürlükleri, mahkemece verilen kararlar hakkında her türlü kanun yoluna başvurmaya yetkilidir.
+**MADDE 37-** (1) Genel Müdürlük ve nüfus müdürlükleri, mahkemece verilen kararlar hakkında her türlü kanun yoluna başvurmaya yetkilidir.
 
 (2) Genel Müdürlük ve nüfus müdürlükleri kanunî harç ve her türlü mahkeme masraflarından muaftır.
 
-İKİNCİ BÖLÜM
+**İKİNCİ BÖLÜM**
 
-Maddî Hatalar ve Nüfus Kaydının İptali
+**Maddî Hatalar ve Nüfus Kaydının İptali**
 
-Maddî hatalar
+**Maddî hatalar**
 
-MADDE 38- (1) Bu Kanunun 7 nci maddesinde sayılan aile kütüklerine tescil edilmesi gereken bilgilerden; dayanak belgesinde bulunduğu halde nüfus kütüklerine hatalı veya eksik olarak tescil edilen ya da hiç yazılmayan bilgiler veya mükerrer kayıtlar maddî hata kapsamında değerlendirilir. Bu tür maddî hatalar Genel Müdürlükçe ya da nüfus müdürlükleri tarafından düzeltilir veya tamamlanır.
+**MADDE 38-** (1) Bu Kanunun 7 nci maddesinde sayılan aile kütüklerine tescil edilmesi gereken bilgilerden; dayanak belgesinde bulunduğu halde nüfus kütüklerine hatalı veya eksik olarak tescil edilen ya da hiç yazılmayan bilgiler veya mükerrer kayıtlar maddî hata kapsamında değerlendirilir. Bu tür maddî hatalar Genel Müdürlükçe ya da nüfus müdürlükleri tarafından düzeltilir veya tamamlanır.
 
-Tarihlerde düzeltme ve tamamlama yetkisi
+**Tarihlerde düzeltme ve tamamlama yetkisi**
 
-MADDE 39- (1) Genel Müdürlük, nüfus kayıtlarına göre vatandaşların hicrî veya rumî tarihle yazılmış nüfus olaylarının tarihlerini miladî yıla çevirerek aile kütüklerine geçirmeye, doğum tarihlerinin ay ve günü belli olmayanların da eksikliklerini tamamlamaya yetkilidir.
+**MADDE 39-** (1) Genel Müdürlük, nüfus kayıtlarına göre vatandaşların hicrî veya rumî tarihle yazılmış nüfus olaylarının tarihlerini miladî yıla çevirerek aile kütüklerine geçirmeye, doğum tarihlerinin ay ve günü belli olmayanların da eksikliklerini tamamlamaya yetkilidir.
 
 (2) Doğum tarihlerinde doğum yılı yazılıp, doğum ayı ve günü yazılmamış olanların yaşlarının hesaplanmasında doğduğu yılın Temmuz ayının birinci günü, ayı yazılıp da günü belli olmayanlar için de o ayın birinci günü başlangıç olarak alınır.
 
-Nüfus kaydının iptali
+**Nüfus kaydının iptali**
 
-MADDE 40- (1) Usûlüne göre düzenlenmemiş bir belgeye dayanılarak tesis edilmiş nüfus kayıtları Genel
+**MADDE 40-** (1) Usûlüne göre düzenlenmemiş bir belgeye dayanılarak tesis edilmiş nüfus kayıtları Genel
 
 Müdürlüğün ya da nüfus müdürlüklerinin göstereceği lüzum üzerine mahkemece verilecek kararla iptal edilir. Nüfus kütüğüne düşülmüş olan şerh ve açıklamaların iptal edilmesi de aynı usûle tâbidir.
 
-BEŞİNCİ KISIM
+**BEŞİNCİ KISIM**
 
-Nüfus ve Uluslararası Aile Cüzdanları
+**Nüfus ve Uluslararası Aile Cüzdanları**
 
-Düzenlenmesi ve dağıtılması
+**Düzenlenmesi ve dağıtılması**
 
-MADDE 41- (1) Nüfus cüzdanının kapsamı, şekli, ebadı ile yürürlük, değiştirme ve geçerlilik tarihlerini belirlemeye, taklit, tahrif ve sahtecilikten korumak maksadıyla nüfus cüzdanı üzerine konulacak güvenlik unsurlarını, basım ve vatandaşa teslimat aşamasında uygulanacak sistem ve teknolojiyi, nüfus cüzdanının kaybı ve değiştirilmesi halinde yapılacak işlemleri tespit etmeye Bakanlık yetkilidir.
+**MADDE 41-** (1) Nüfus cüzdanının kapsamı, şekli, ebadı ile yürürlük, değiştirme ve geçerlilik tarihlerini belirlemeye, taklit, tahrif ve sahtecilikten korumak maksadıyla nüfus cüzdanı üzerine konulacak güvenlik unsurlarını, basım ve vatandaşa teslimat aşamasında uygulanacak sistem ve teknolojiyi, nüfus cüzdanının kaybı ve değiştirilmesi halinde yapılacak işlemleri tespit etmeye Bakanlık yetkilidir.
 
 (2) Nüfus ve uluslararası aile cüzdanları, Bakanlıkça tespit edilen şekil, ebat ve örneğine uygun olarak Maliye
 
@@ -425,29 +425,29 @@ Kefalet Kanunu hükümlerine tâbi değildir.
 
 (7) Nüfus cüzdanlarına bu Kanunda öngörülenler dışında kayıt ve işaret konulamaz. Bu cüzdanlar hiçbir kişi, kurum tarafından alıkonulamaz. Ancak, ihtiyaç duyulan hallerde kurumlar bir suretini saklayabilir.
 
-(8) (Ek: 25/6/2009-5917/38 md.) Nüfus cüzdanının yerini alacak Türkiye Cumhuriyeti kimlik kartının pilot ve genel uygulamasında kişilerin parmak biyometri verisi yer alır. Parmak biyometri verisi kartta yer alan yonga ve yongaya nakledilmek üzere geçici belleğe kaydı dışında hiçbir yerde kaydedilemez, bulundurulamaz ve saklanamaz. Parmak izi biyometri verisinin türü ve alınma yaşı yönetmelikle belirlenir.
+(8) **(Ek: 25/6/2009-5917/38 md.)** Nüfus cüzdanının yerini alacak Türkiye Cumhuriyeti kimlik kartının pilot ve genel uygulamasında kişilerin parmak biyometri verisi yer alır. Parmak biyometri verisi kartta yer alan yonga ve yongaya nakledilmek üzere geçici belleğe kaydı dışında hiçbir yerde kaydedilemez, bulundurulamaz ve saklanamaz. Parmak izi biyometri verisinin türü ve alınma yaşı yönetmelikle belirlenir.
 
 Cüzdan talep belgesi
 
-MADDE 42- (1) Nüfus ve uluslararası aile cüzdanlarının verilebilmesi için şekli ve kapsamı Bakanlıkça belirlenen ve bastırılan cüzdan talep belgeleri kullanılır. Doğum tutanaklarına dayanılarak nüfus cüzdanı düzenlemesinde talep belgesi aranmaz.
+**MADDE 42-** (1) Nüfus ve uluslararası aile cüzdanlarının verilebilmesi için şekli ve kapsamı Bakanlıkça belirlenen ve bastırılan cüzdan talep belgeleri kullanılır. Doğum tutanaklarına dayanılarak nüfus cüzdanı düzenlemesinde talep belgesi aranmaz.
 
 (2) Cüzdan talep belgelerini uygulamaya koymaya veya kaldırmaya ve saklama sürelerini belirlemeye Bakanlık yetkilidir.
 
-ALTINCI KISIM
+**ALTINCI KISIM**
 
-Nüfus Kayıtlarındaki Bilgilerin Verilmesi
+**Nüfus Kayıtlarındaki Bilgilerin Verilmesi**
 
-Nüfus kayıt örneği verilmesi
+**Nüfus kayıt örneği verilmesi**
 
-MADDE 43- (1) Kişinin aile kütüğündeki kaydının çıkarılması ve aslına uygunluğunun nüfus müdürlüğünce onanması ile elde edilen nüfus kayıt örnekleri, aksi ispat edilene kadar geçerlidir. Nüfus kayıt örneği, istenme nedeni ve hangi amaçla kullanılacağının belirtildiği yazılı istek olmadan verilemez. Ancak kişinin kimliğini kanıtlayan resmî bir belge ile şahsen başvurması halinde yazılı müracaat aranmaz. Nüfus kayıt örneklerinde, bunları istemeye yetkili olanlar tarafından açıkça ve gerekçeli olarak istenmediği takdirde, kimlik bilgileri dışında kişisel bilgilere yer verilmez. Bu belgeler üzerinde silinti ve kazıntı yapılamaz.
+**MADDE 43-** (1) Kişinin aile kütüğündeki kaydının çıkarılması ve aslına uygunluğunun nüfus müdürlüğünce onanması ile elde edilen nüfus kayıt örnekleri, aksi ispat edilene kadar geçerlidir. Nüfus kayıt örneği, istenme nedeni ve hangi amaçla kullanılacağının belirtildiği yazılı istek olmadan verilemez. Ancak kişinin kimliğini kanıtlayan resmî bir belge ile şahsen başvurması halinde yazılı müracaat aranmaz. Nüfus kayıt örneklerinde, bunları istemeye yetkili olanlar tarafından açıkça ve gerekçeli olarak istenmediği takdirde, kimlik bilgileri dışında kişisel bilgilere yer verilmez. Bu belgeler üzerinde silinti ve kazıntı yapılamaz.
 
 (2) Düzenlendikleri tarihten itibaren yüzseksen gün içinde kullanılmayan nüfus kayıt örnekleri geçerliliğini kaybeder.
 
 Nüfus kayıt örneğinin kullanılacağı alanlara göre Bakanlık bu süreyi otuz güne kadar kısaltmaya yetkilidir.
 
-Nüfus kayıt örneğini almaya yetkili olanlar
+**Nüfus kayıt örneğini almaya yetkili olanlar**
 
-MADDE 44- (1) Nüfus kayıt örneklerini;
+**MADDE 44-** (1) Nüfus kayıt örneklerini;
 
 a) Bakanlık,
 
@@ -467,9 +467,9 @@ e) Evlenme işlemleri için evlendirme işlemini yapmaya yetkili olanlar, f) Öl
 
 (4) Birinci fıkranın (g) bendinde sayılan kişiler dışında kalan üçüncü şahıslar medenî hal bilgisi dışında bir kişinin nüfus kaydına ilişkin örnek veya bilgi alamazlar.
 
-Kimlik ve Adres Paylaşımı Sistemlerinin kullanılması
+**Kimlik ve Adres Paylaşımı Sistemlerinin kullanılması**
 
-MADDE 45- (1) Bakanlık, Kimlik Paylaşımı Sistemi ve Adres Paylaşımı Sistemi veri tabanlarında tutulan bilgileri bu Kanunda belirtilen esas ve usûller çerçevesinde kurumlar ile diğer kişilerin hizmetine açabilir. Yerleşim yeri adresi bilgileri ancak kurumlar ile 5411 sayılı Bankacılık Kanunu çerçevesinde faaliyette bulunan bankaların ve 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanunu çerçevesinde faaliyette bulunan sigorta ve emeklilik şirketleri ile Güvence Hesabının paylaşımına açılabilir. (1)(2)
+**MADDE 45-** (1) Bakanlık, Kimlik Paylaşımı Sistemi ve Adres Paylaşımı Sistemi veri tabanlarında tutulan bilgileri bu Kanunda belirtilen esas ve usûller çerçevesinde kurumlar ile diğer kişilerin hizmetine açabilir. Yerleşim yeri adresi bilgileri ancak kurumlar ile 5411 sayılı Bankacılık Kanunu çerçevesinde faaliyette bulunan bankaların ve 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanunu çerçevesinde faaliyette bulunan sigorta ve emeklilik şirketleri ile Güvence Hesabının paylaşımına açılabilir. (1)(2)
 
 (2) Kimlik Paylaşımı Sistemi veri tabanındaki bilgilerin tamamı veya bir kısmı toplu halde hiçbir kuruma veya diğer kişilere verilemez. Kurumlar ve diğer kişiler kendi iş ve işlemlerine esas olmak üzere sadece kayıtlarını tuttukları kişilerin bilgilerini alabilirler.
 
@@ -485,33 +485,33 @@ ilgilisi veya bu Kanunun 44 üncü maddesinde belirtilenler dışında kimseye v
 
 –––––––––––––––––––––––
 
-(1) Bu fıkrada yer alan “kurumların” ibaresi, 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle “kurumlar ile 5411 sayılı Bankacılık Kanunu çerçevesinde faaliyette bulunan bankaların” olarak değiştirilmiş ve metne işlenmiştir (2) 13/6/2012 tarihli ve 6327 sayılı Kanunun 44 üncü maddesiyle, bu fıkrada yer alan “bankaların” ibaresinden sonra gelmek üzere “ve 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanunu çerçevesinde faaliyette bulunan sigorta ve emeklilik şirketleri ile Güvence Hesabının” ibaresi eklenmiş ve metne işlenmiştir.
+<i>(1) Bu fıkrada yer alan “kurumların” ibaresi, 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle “kurumlar ile</i> <i>5411 sayılı Bankacılık Kanunu çerçevesinde faaliyette bulunan bankaların” olarak değiştirilmiş ve metne işlenmiştir</i> <i>(2) 13/6/2012 tarihli ve 6327 sayılı Kanunun 44 üncü maddesiyle, bu fıkrada yer alan “bankaların” ibaresinden sonra</i> <i>gelmek üzere “ve 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanunu çerçevesinde faaliyette bulunan sigorta ve emeklilik</i> <i>şirketleri ile Güvence Hesabının” ibaresi eklenmiş ve metne işlenmiştir.</i>
 
-YEDİNCİ KISIM
+**YEDİNCİ KISIM**
 
-Türkiye Cumhuriyeti Kimlik Numarası
+**Türkiye Cumhuriyeti Kimlik Numarası**
 
-Kimlik numarası
+**Kimlik numarası**
 
-MADDE 46- (1) Kimlik numarası, Türkiye Cumhuriyeti vatandaşlarının nüfus kayıtları arasında bağ kurmak, kişilerin kaydına ulaşmak ve kamu kuruluşlarında tutulan kayıtlar arasında ilişki sağlamak amacını taşıyan bir numara sistemidir. Türkiye Cumhuriyeti kimlik numarası kişiye bir defa verilir ve değiştirilemez.
+**MADDE 46-** (1) Kimlik numarası, Türkiye Cumhuriyeti vatandaşlarının nüfus kayıtları arasında bağ kurmak, kişilerin kaydına ulaşmak ve kamu kuruluşlarında tutulan kayıtlar arasında ilişki sağlamak amacını taşıyan bir numara sistemidir. Türkiye Cumhuriyeti kimlik numarası kişiye bir defa verilir ve değiştirilemez.
 
 (2) Türkiye'de kaydı tutulan yabancılara da Bakanlığın tespit edeceği esaslar içerisinde bir kimlik numarası verilir.
 
-Kullanımı
+**Kullanımı**
 
-MADDE 47- (1) Kişiler adına düzenlenecek olan her türlü form, beyanname, kimlik kartı, vergi kimlik kartı, sürücü belgesi, pasaport gibi bütün tanıtıcı belgelerde Türkiye Cumhuriyeti kimlik numarasına yer verilir.
+**MADDE 47-** (1) Kişiler adına düzenlenecek olan her türlü form, beyanname, kimlik kartı, vergi kimlik kartı, sürücü belgesi, pasaport gibi bütün tanıtıcı belgelerde Türkiye Cumhuriyeti kimlik numarasına yer verilir.
 
 (2) Türkiye Cumhuriyeti kimlik numarası kurumlar ile diğer gerçek ve tüzel kişilerin her türlü işlem ve kayıtlarında esas alınır.
 
 (3) Kimlik numarasının uygulanmasında ortaya çıkan sorunlar ile tereddüt edilen hususlarda Genel Müdürlüğün görüşü alınır.
 
-SEKİZİNCİ KISIM
+**SEKİZİNCİ KISIM**
 
-Adres Kayıt Sistemi
+**Adres Kayıt Sistemi**
 
-Adres bilgilerinin tutulması ve adres standardı
+**Adres bilgilerinin tutulması ve adres standardı**
 
-MADDE 48- (1) Yerleşim yeri adresi ve diğer adreslere ait bilgilerin tutulmasına ilişkin politikanın oluşturulması, geliştirilmesi, yaygınlaştırılması, idarî birimlere göre genel uygulamaya geçiş tarihlerinin tespit edilmesi, ulusal adres veri tabanı ile MERNİS veri tabanının ilişkilendirilmesi ve adres bilgilerinin paylaşılmasına ilişkin işlemler Bakanlıkça yürütülür.
+**MADDE 48-** (1) Yerleşim yeri adresi ve diğer adreslere ait bilgilerin tutulmasına ilişkin politikanın oluşturulması, geliştirilmesi, yaygınlaştırılması, idarî birimlere göre genel uygulamaya geçiş tarihlerinin tespit edilmesi, ulusal adres veri tabanı ile MERNİS veri tabanının ilişkilendirilmesi ve adres bilgilerinin paylaşılmasına ilişkin işlemler Bakanlıkça yürütülür.
 
 Bakanlığın nüfus kütüklerindeki adres kayıtlarını tamamlamak maksadıyla işbirliği talebi kurumlarca karşılanır.
 
@@ -525,17 +525,17 @@ Müdürlüğü tespit edilen standardın il özel idaresi ve belediyelere bildir
 
 (4) Yerleşim yeri adresi, kişilerin diğer adreslerinde kendilerine hizmet verilmesini engellemez; diğer adreslerin kayıtlarda bulunmaması bu adreslere hizmet verilmemesi sonucunu doğurmaz.
 
-Adres bilgisi ve güncellenmesi
+**Adres bilgisi ve güncellenmesi**
 
-MADDE 49- (1) İl özel idaresi ve belediyeler sorumluluk alanlarındaki adres bileşenlerini adres standardına uygun olarak tanımlayıp bunlara değiştirilemeyecek sabit tanıtım numarası vererek mahallindeki bütün adresleri kapsayacak şekilde adres bilgilerini oluşturmakla yükümlüdür. Herhangi bir sebeple sabit tanıtım numarası dışında adres bileşenlerinde yapılan değişiklikler de il özel idaresi ve belediyelerce takip edilerek ulusal adres veri tabanına işlenir.
+**MADDE 49-** (1) İl özel idaresi ve belediyeler sorumluluk alanlarındaki adres bileşenlerini adres standardına uygun olarak tanımlayıp bunlara değiştirilemeyecek sabit tanıtım numarası vererek mahallindeki bütün adresleri kapsayacak şekilde adres bilgilerini oluşturmakla yükümlüdür. Herhangi bir sebeple sabit tanıtım numarası dışında adres bileşenlerinde yapılan değişiklikler de il özel idaresi ve belediyelerce takip edilerek ulusal adres veri tabanına işlenir.
 
 (2) Ulusal adres veri tabanı Genel Müdürlükte tutulur. Genel Müdürlük, ulusal adres veri tabanındaki yerleşim yeri adresi bilgilerini nüfus kütüklerindeki kişi kayıtları ile ilişkilendirerek elektronik ortamda, yedekleme sistemleri ile birlikte güncel olarak tutar.
 
-(3) (Mülga: 9/5/2012-6304/13 md.)
+(3) **(Mülga: 9/5/2012-6304/13 md.)**
 
-Bildirim yükümlülüğü
+**Bildirim yükümlülüğü**
 
-MADDE 50- (1) İl özel idareleri ve belediyeler bu Kanun uyarınca belirlenen standartlardaki adres bilgileri ile adres oluşumuna altyapı oluşturan yapı belgelerini, belgelerin oluşturulması ile eş zamanlı olarak ulusal adres veri tabanına işlemekle yükümlüdür.
+**MADDE 50-** (1) İl özel idareleri ve belediyeler bu Kanun uyarınca belirlenen standartlardaki adres bilgileri ile adres oluşumuna altyapı oluşturan yapı belgelerini, belgelerin oluşturulması ile eş zamanlı olarak ulusal adres veri tabanına işlemekle yükümlüdür.
 
 (2) Yerleşim yeri adreslerinin tutulmasında kişilerin yazılı beyanı esas alınır. Bildirim, nüfus müdürlüklerine ve dış temsilciliklerimize adres beyan formuyla yapılır. Yerleşim yeri adresi aynı konut olan ailenin ergin fertleri birbirlerinin yerine adres beyanında bulunabilirler.
 
@@ -549,9 +549,9 @@ MADDE 50- (1) İl özel idareleri ve belediyeler bu Kanun uyarınca belirlenen s
 
 (7) Adres bildirimi şahsen, posta veya elektronik posta ile yapılabilir.
 
-Bildirim süresi ve güncelliği
+**Bildirim süresi ve güncelliği**
 
-MADDE 51- (1) 50 nci maddede sayılan adres beyanı ile yükümlü kişi ve kurumlar yerleşim yeri adreslerine ilişkin değişiklikleri yirmi iş günü içinde ilçe nüfus müdürlüklerine bildirmekle yükümlüdür. Ancak yerleşim yeri adresine dayalı hizmet almak üzere herhangi bir resmî kuruma yapılan müracaatlarda adres değişikliğine ilişkin beyan, ilgilisi tarafından adres beyan formuna işlenerek nüfus müdürlüğüne gönderilmek üzere ilgili kuruma teslim edilebilir. Bu beyan formları ilgili kurumlarca en geç on iş günü içinde kurumun bulunduğu yerin ilçe nüfus müdürlüğüne gönderilir.
+**MADDE 51-** (1) 50 nci maddede sayılan adres beyanı ile yükümlü kişi ve kurumlar yerleşim yeri adreslerine ilişkin değişiklikleri yirmi iş günü içinde ilçe nüfus müdürlüklerine bildirmekle yükümlüdür. Ancak yerleşim yeri adresine dayalı hizmet almak üzere herhangi bir resmî kuruma yapılan müracaatlarda adres değişikliğine ilişkin beyan, ilgilisi tarafından adres beyan formuna işlenerek nüfus müdürlüğüne gönderilmek üzere ilgili kuruma teslim edilebilir. Bu beyan formları ilgili kurumlarca en geç on iş günü içinde kurumun bulunduğu yerin ilçe nüfus müdürlüğüne gönderilir.
 
 (2) Adres bileşenlerinde meydana gelen değişiklikler hususunda kişilerin bildirimde bulunma sorumluluğu yoktur.
 
@@ -563,9 +563,9 @@ Bu değişiklikler belediyelerce, belediye sınırları dışında kalan yerlerd
 
 (5) Muhtarlar, bu Kanun uyarınca nüfus müdürlüklerince kendilerine iletilen yerleşim yeri adresi değişikliği bildirim listelerini incelemek, mahallindeki yerleşim yeri adresi değişiklikleri ile karşılaştırmak ve varsa bildirilmemiş olan değişiklikleri her ayın son haftası içinde bağlı bulunulan ilçenin nüfus müdürlüğüne bildirmekle yükümlüdür.
 
-Adres bilgilerinin kullanımı
+**Adres bilgilerinin kullanımı**
 
-MADDE 52- (1) Bakanlık, talepleri halinde kurumlara, usûl ve esasları Bakanlıkça tespit edilmek üzere adres bilgilerini elektronik ortamda Adres Paylaşımı Sistemi ve Kimlik Paylaşımı Sistemi çerçevesinde verebilir.
+**MADDE 52-** (1) Bakanlık, talepleri halinde kurumlara, usûl ve esasları Bakanlıkça tespit edilmek üzere adres bilgilerini elektronik ortamda Adres Paylaşımı Sistemi ve Kimlik Paylaşımı Sistemi çerçevesinde verebilir.
 
 (2) Teknik altyapısını tamamlamış olan muhtarlıklar sorumluluk alanlarındaki yerleşim yeri adres bilgilerinin güncelliğini takip etmek amacıyla Kimlik Paylaşımı Sistemine erişebilirler.
 
@@ -577,73 +577,73 @@ Sistemine bağlanarak bu sistemdeki kayıtlara uygun belge üretebilen muhtarlı
 
 (5) Nüfus sayımında veya tespitinde, aile ve hayatî istatistiklerin oluşturulmasında ve bu bilgileri esas alan kanunların uygulanmasında MERNİS nüfus bilgileri kullanılır.
 
-Koordinasyon ve işbirliği
+**Koordinasyon ve işbirliği**
 
-MADDE 53- (1) Genel Müdürlük, ulusal adres veri tabanının etkin, süratli ve güncel bir şekilde oluşturulmasını sağlamak ve devam ettirmek için kurumlar arası koordinasyonla sorumludur. Kurumlar, adrese ve adres bileşenlerine ilişkin ellerindeki bilgileri Genel Müdürlükle ve ilgili kurumlarla paylaşmakla yükümlüdür.
+**MADDE 53-** (1) Genel Müdürlük, ulusal adres veri tabanının etkin, süratli ve güncel bir şekilde oluşturulmasını sağlamak ve devam ettirmek için kurumlar arası koordinasyonla sorumludur. Kurumlar, adrese ve adres bileşenlerine ilişkin ellerindeki bilgileri Genel Müdürlükle ve ilgili kurumlarla paylaşmakla yükümlüdür.
 
-DOKUZUNCU KISIM
+**DOKUZUNCU KISIM**
 
-Ortak Hükümler
+**Ortak Hükümler**
 
-Tescil görevi ve süre
+**Tescil görevi ve süre**
 
-MADDE 54- (1) Nüfus olaylarını tescil etmekle görevli memurlar, nüfus müdürlüğünde düzenlenen ve aile kütüklerine tescil edilmesi gereken dayanak belgelerini işlem anında, diğer makamlarca düzenlenen dayanak belgelerini ise nüfus müdürlüğüne intikal ettiği tarihten itibaren yedi gün içinde aile kütüklerine tescil etmekle ve bir örneğini Genel
+**MADDE 54-** (1) Nüfus olaylarını tescil etmekle görevli memurlar, nüfus müdürlüğünde düzenlenen ve aile kütüklerine tescil edilmesi gereken dayanak belgelerini işlem anında, diğer makamlarca düzenlenen dayanak belgelerini ise nüfus müdürlüğüne intikal ettiği tarihten itibaren yedi gün içinde aile kütüklerine tescil etmekle ve bir örneğini Genel
 
 Müdürlüğe göndermekle yükümlüdürler.
 
-Mahkeme yazı işleri müdürlerinin görevleri
+**Mahkeme yazı işleri müdürlerinin görevleri**
 
-MADDE 55- (1) Mahkeme yazı işleri müdürleri, aile kütükleri üzerinde tescil yapılmasını gerektirecek bütün karar ve işlemleri, kesinleşme veya düzenleme tarihinden itibaren on gün içerisinde o yerin nüfus müdürlüğüne bildirmekle görevlidirler.
+**MADDE 55-** (1) Mahkeme yazı işleri müdürleri, aile kütükleri üzerinde tescil yapılmasını gerektirecek bütün karar ve işlemleri, kesinleşme veya düzenleme tarihinden itibaren on gün içerisinde o yerin nüfus müdürlüğüne bildirmekle görevlidirler.
 
-Sağlık kuruluşlarının görevleri
+**Sağlık kuruluşlarının görevleri**
 
-MADDE 56- (1) Sağlık kuruluşları ve tabipler, kontrollerindeki doğum ve ölüm olaylarına ilişkin olayın mahiyetini ve ilgilinin kimlik bilgilerini gösteren bir rapor düzenleyerek sahiplerine vermekle görevlidirler.
+**MADDE 56-** (1) Sağlık kuruluşları ve tabipler, kontrollerindeki doğum ve ölüm olaylarına ilişkin olayın mahiyetini ve ilgilinin kimlik bilgilerini gösteren bir rapor düzenleyerek sahiplerine vermekle görevlidirler.
 
 (2) 1593 sayılı Kanun hükümleri saklıdır.
 
-Vekiller
+**Vekiller**
 
-MADDE 57- (1) Bir işleme esas olmak üzere üçüncü kişilerin beyanda bulunabilmeleri ancak özel temsil yetkisini kapsayan noterden onaylı vekillik belgesi ile mümkündür.
+**MADDE 57-** (1) Bir işleme esas olmak üzere üçüncü kişilerin beyanda bulunabilmeleri ancak özel temsil yetkisini kapsayan noterden onaylı vekillik belgesi ile mümkündür.
 
-Yazım dışı kalanlar
+**Yazım dışı kalanlar**
 
-MADDE 58- (1) Nüfus yazımlarında kayıt dışı kalanlar Türkiye'de bulundukları yerin nüfus müdürlüğüne, yurt dışında ise en yakın dış temsilciliğe Türk vatandaşı olduklarını gösterir resmî belgeler ile müracaat ederler. Yapılacak inceleme sonucunda tescillerine engel bir halin bulunmaması halinde, nüfus müdürlüklerince aile kütüklerine tescil edilirler.
+**MADDE 58-** (1) Nüfus yazımlarında kayıt dışı kalanlar Türkiye'de bulundukları yerin nüfus müdürlüğüne, yurt dışında ise en yakın dış temsilciliğe Türk vatandaşı olduklarını gösterir resmî belgeler ile müracaat ederler. Yapılacak inceleme sonucunda tescillerine engel bir halin bulunmaması halinde, nüfus müdürlüklerince aile kütüklerine tescil edilirler.
 
-Tutanakların imzalanması
+**Tutanakların imzalanması**
 
-MADDE 59- (1) Nüfus müdürlüklerine yapılan bildirimler üzerine düzenlenen dayanak belgeleri, nüfus müdürlüğünce imzalanarak onaylanır. Dayanak belgelerinin ilgilinin kendisi veya veli, vasi ya da vekillik belgesi ibraz edenler tarafından imzalanması gereklidir. Okuma yazması olmayanların parmak izi alınır.
+**MADDE 59-** (1) Nüfus müdürlüklerine yapılan bildirimler üzerine düzenlenen dayanak belgeleri, nüfus müdürlüğünce imzalanarak onaylanır. Dayanak belgelerinin ilgilinin kendisi veya veli, vasi ya da vekillik belgesi ibraz edenler tarafından imzalanması gereklidir. Okuma yazması olmayanların parmak izi alınır.
 
-Beyanda şüphe
+**Beyanda şüphe**
 
-MADDE 60- (1) Nüfus olayları ile ilgili beyanlarda şüpheye düşülmesi halinde mülkî idare amirinin emri ile kolluk makamları tarafından gerekli soruşturma ve incelemeler yapılarak nüfus müdürlüğüne bildirilir.
+**MADDE 60-** (1) Nüfus olayları ile ilgili beyanlarda şüpheye düşülmesi halinde mülkî idare amirinin emri ile kolluk makamları tarafından gerekli soruşturma ve incelemeler yapılarak nüfus müdürlüğüne bildirilir.
 
-Sürelerin hesaplanması
+**Sürelerin hesaplanması**
 
-MADDE 61- (1) Bu Kanunda belirtilen sürelerin hesaplanmasında olayın meydana geldiği tarihi izleyen gün başlangıç olarak alınır. Süreler; tayin edilen müddetin son günü, son gün resmî tatile rastlarsa tatili izleyen ilk iş günü çalışma saatinin bitiminde sona erer.
+**MADDE 61-** (1) Bu Kanunda belirtilen sürelerin hesaplanmasında olayın meydana geldiği tarihi izleyen gün başlangıç olarak alınır. Süreler; tayin edilen müddetin son günü, son gün resmî tatile rastlarsa tatili izleyen ilk iş günü çalışma saatinin bitiminde sona erer.
 
-Atik veya işlemden kaldırılmış kütükler
+**Atik veya işlemden kaldırılmış kütükler**
 
-MADDE 62- (1) İşlemden kaldırılmış olan atik veya eski aile kütükleri üzerinde herhangi bir işlem yapılamaz, kayıt düşülemez.
+**MADDE 62-** (1) İşlemden kaldırılmış olan atik veya eski aile kütükleri üzerinde herhangi bir işlem yapılamaz, kayıt düşülemez.
 
 (2) Bu kütükler nüfus olaylarına ait dayanak belgelerinin bulunamaması halinde kişinin adı, soyadı, baba adı, ana adı, doğum tarihi veya doğum yerindeki yanlışlıkların düzeltilmesi ya da eksikliklerin tamamlanması ya da kişinin kimliği ve aile bağlarının tespit edilmesi dışında herhangi bir hukukî işleme esas alınmaz.
 
 (3) Bu kütüklerden çıkartılan kayıt örneklerine atik veya işlemden kaldırılmış kütüklerden çıkarıldığına dair açıklama yapılır.
 
-Askerlik çağına girenlerin listesi
+**Askerlik çağına girenlerin listesi**
 
-MADDE 63- (1) Genel Müdürlük, her yıl aile kütüklerinde kayıtlı olanlardan askerlik çağına giren erkek nüfusun listesini çıkarıp Aralık ayı içerisinde Milli Savunma Bakanlığına göndermekle yükümlüdür. Milli Savunma Bakanlığı bu listeyi Kimlik Paylaşımı Sistemi veri tabanından da sağlayabilir.
+**MADDE 63-** (1) Genel Müdürlük, her yıl aile kütüklerinde kayıtlı olanlardan askerlik çağına giren erkek nüfusun listesini çıkarıp Aralık ayı içerisinde Milli Savunma Bakanlığına göndermekle yükümlüdür. Milli Savunma Bakanlığı bu listeyi Kimlik Paylaşımı Sistemi veri tabanından da sağlayabilir.
 
-Formların düzenlenmesi
+**Formların düzenlenmesi**
 
-MADDE 64- (1) Bu Kanunun uygulanmasında kullanılacak olan form ve belgeleri hazırlamaya ve gerekli düzenlemeleri yapmaya Bakanlık yetkilidir. Elektronik ortamda tutulan yerleşim yeri adresinin bildirimine ilişkin beyan formları taranarak elektronik ortama aktarıldıktan sonra imha edilir.
+**MADDE 64-** (1) Bu Kanunun uygulanmasında kullanılacak olan form ve belgeleri hazırlamaya ve gerekli düzenlemeleri yapmaya Bakanlık yetkilidir. Elektronik ortamda tutulan yerleşim yeri adresinin bildirimine ilişkin beyan formları taranarak elektronik ortama aktarıldıktan sonra imha edilir.
 
-ONUNCU KISIM
+**ONUNCU KISIM**
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
-Katılma payı (1)
+**Katılma payı (1)**
 
-MADDE 65- (Değişik: 25/6/2009-5917/39 md.)
+**MADDE 65- (Değişik: 25/6/2009-5917/39 md.)**
 
 (1) Kimlik Paylaşımı Sisteminde ve Adres Paylaşımı Sisteminde yer alan bilgilerin genel yönetim kapsamındaki kamu idareleri dışındaki kamu kurum ve kuruluşları ve diğer kişilerle paylaşılması karşılığında katılma payı alınır. Katılma payı, Kimlik ve Adres Paylaşımı Sisteminden yapılan her bir sorgu için 2 kuruş olarak ve Bakanlık kayıtları esas alınmak suretiyle hesaplanır. Bakanlar Kurulu bu tutarı elli katına kadar artırmaya, yarısına kadar indirmeye ve yeniden kanuni tutarına getirmeye yetkilidir.
 
@@ -657,31 +657,31 @@ Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre vergi dai
 
 (5) Bu maddenin uygulamasına ilişkin usul ve esaslar Bakanlık ile Maliye Bakanlığınca müştereken belirlenir.
 
-Fazla çalışma ücreti
+**Fazla çalışma ücreti**
 
-MADDE 66- (Mülga: 11/10/2011-KHK-666/1 md.) (2)
+**MADDE 66- (Mülga: 11/10/2011-KHK-666/1 md.) (2)**
 
 ––––––––––––––
 
-(1) Bu madde başlığı “Ücretlendirme” iken, 25/6/2009 tarihli ve 5917 sayılı Kanunun 39 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+<i>(1) Bu madde başlığı “Ücretlendirme” iken, 25/6/2009 tarihli ve 5917 sayılı Kanunun 39 uncu maddesiyle metne işlendiği</i> <i>şekilde değiştirilmiştir.</i>
 
-(2) 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi
+<i>(2) 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi</i>
 
-Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
+<i>Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal</i> <i>edilmiştir.</i>
 
-ONBİRİNCİ KISIM
+**ONBİRİNCİ KISIM**
 
-Ceza Hükümleri
+**Ceza Hükümleri**
 
-Gerçek dışı beyan
+**Gerçek dışı beyan**
 
-MADDE 67- (1) Gerçeğe aykırı yerleşim yeri veya cüzdan talep belgesi veren köy veya mahalle muhtarları ile herhangi bir işlem sebebiyle nüfus müdürlüğüne gerçek dışı beyanda bulunanlar ve bunlara tanıklık edenler altı aydan dört yıla kadar hapis cezası ile cezalandırılır.
+**MADDE 67-** (1) Gerçeğe aykırı yerleşim yeri veya cüzdan talep belgesi veren köy veya mahalle muhtarları ile herhangi bir işlem sebebiyle nüfus müdürlüğüne gerçek dışı beyanda bulunanlar ve bunlara tanıklık edenler altı aydan dört yıla kadar hapis cezası ile cezalandırılır.
 
 (2) Adrese ilişkin yükümlülükleri yerine getirmeyen ve yasaklara aykırı hareket eden kamu görevlileri 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun kamu idaresinin güvenirliğine ve işleyişine karşı suçlara ilişkin hükümlerine göre cezalandırılır.
 
-İdarî para cezaları
+**İdarî para cezaları**
 
-MADDE 68- (1) Bu Kanuna göre;
+**MADDE 68-** (1) Bu Kanuna göre;
 
 a) Nüfus olaylarını bildirmekle görevli olup, bu görevlerini bu Kanunda belirtilen süreler içinde yerine getirmeyen kamu görevlilerine, fiil başka bir suç oluştursa bile, nüfus memurunun teklifi üzerine o yerin ilçe nüfus müdürünün kararı ile 25 YTL idarî para cezası verilir.
 
@@ -697,47 +697,47 @@ YTL, gerçeğe aykırı beyanda bulunanlara 500 YTL idarî para cezası verilir.
 
 a) Her türlü doğal afet, gasp, hırsızlık, yangın ve terör nedeniyle nüfus ve aile cüzdanlarının kaybedilmesi, nüfus olaylarının bildirim yükümlülüğünün yerine getirilememesi hallerinde, b) Yetkili kurumların kimsesiz çocuklarla ilgili nüfus cüzdanı talepleri ve doğum bildirimlerinde, c) Bu Kanunun 18 inci maddesinde belirtilen büyük ana, büyük baba veya kardeşlere ya da çocukları yanlarında bulunduranlar ile muhtarlara, d) Bu Kanunun 31 inci maddesinde belirtilen Cumhuriyet savcılıklarına, bu maddede belirtilen idarî para cezaları uygulanmaz.
 
-ONİKİNCİ KISIM
+**ONİKİNCİ KISIM**
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
-Yönetmelik
+**Yönetmelik**
 
-MADDE 69- (1) Bu Kanunun uygulanmasına ilişkin yönetmelikler yüzseksen gün içerisinde Bakanlıkça hazırlanarak Bakanlar Kurulunca yürürlüğe konulur.
+**MADDE 69-** (1) Bu Kanunun uygulanmasına ilişkin yönetmelikler yüzseksen gün içerisinde Bakanlıkça hazırlanarak Bakanlar Kurulunca yürürlüğe konulur.
 
 (2) Adres ve numaralamaya ilişkin yönetmelik ise doksan gün içerisinde Bakanlık, Türkiye İstatistik Kurumu ve
 
 Türk Standartları Enstitüsü Kurumu tarafından müştereken hazırlanarak yürürlüğe konulur.
 
-Kadrolar
+**Kadrolar**
 
-MADDE 70- (1) Bu Kanuna ekli (1) sayılı listede yer alan kadrolar bu Kanun kapsamındaki hizmetlerde kullanılmak üzere ihdas edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin
+**MADDE 70-** (1) Bu Kanuna ekli (1) sayılı listede yer alan kadrolar bu Kanun kapsamındaki hizmetlerde kullanılmak üzere ihdas edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin
 
 İçişleri Bakanlığı bölümüne eklenmiştir.
 
-Kaldırılan hükümler
+**Kaldırılan hükümler**
 
-MADDE 71- (1) 5/5/l972 tarihli ve l587 sayılı Nüfus Kanunu, 24/2/1972 tarihli ve 1543 sayılı Genel Nüfus Yazımı
+**MADDE 71-** (1) 5/5/l972 tarihli ve l587 sayılı Nüfus Kanunu, 24/2/1972 tarihli ve 1543 sayılı Genel Nüfus Yazımı
 
 Kanunu ve 5/7/1939 tarihli ve 3686 sayılı Evlenme Kâğıtları ve Bunların Nüfus Kütüklerine Tescilleri Hakkında Kanun, 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme Kanununun 5 inci maddesi, 6 ncı maddesinin (a) ve (d) bentleri, 8 inci maddesi, 16 ncı maddesi ve 17 nci maddesinde yer alan "8" ibaresi ile 10/4/1927 tarihli ve 1003 sayılı Binaların
 
 Numaralanması ve Sokaklara İsim Verilmesi Hakkında Kanun yürürlükten kaldırılmıştır.
 
-Diğer kanunların değiştirilen hükümleri
+**Diğer kanunların değiştirilen hükümleri**
 
-MADDE 72- (1) 1774 sayılı Kanunun 6 ncı maddesinin (c) bendinden sonra gelmek üzere "tarafından örneğine uygun kimlik belgesi doldurularak üç gün içinde genel kolluk örgütüne verilmesi zorunludur." ibaresi eklenmiş ve aynı maddenin ikinci fıkrasında yer alan "olanlar ile (d) bendinde belirtilen yerlerde kalanların" ibaresi "olanların" şeklinde değiştirilmiştir.
+**MADDE 72-** (1) 1774 sayılı Kanunun 6 ncı maddesinin (c) bendinden sonra gelmek üzere "tarafından örneğine uygun kimlik belgesi doldurularak üç gün içinde genel kolluk örgütüne verilmesi zorunludur." ibaresi eklenmiş ve aynı maddenin ikinci fıkrasında yer alan "olanlar ile (d) bendinde belirtilen yerlerde kalanların" ibaresi "olanların" şeklinde değiştirilmiştir.
 
-Diğer kanunlara eklenen hükümler
+**Diğer kanunlara eklenen hükümler**
 
-MADDE 73- (1) (14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
+**MADDE 73- (1) (14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)**
 
-ONÜÇÜNCÜ KISIM
+**ONÜÇÜNCÜ KISIM**
 
-Geçici Hükümler
+**Geçici Hükümler**
 
-GEÇİCİ MADDE 1- (1) Kurumlar ve tüzel kişiler bu Kanunun yayımı tarihinden itibaren iki yıl içinde mevzuatlarını bu Kanun hükümlerine uygun hale getirerek işlemlerinde kimlik numarasını kullanmak zorundadırlar.
+**GEÇİCİ MADDE 1-** (1) Kurumlar ve tüzel kişiler bu Kanunun yayımı tarihinden itibaren iki yıl içinde mevzuatlarını bu Kanun hükümlerine uygun hale getirerek işlemlerinde kimlik numarasını kullanmak zorundadırlar.
 
-GEÇİCİ MADDE 2- (1) Bu Kanunun yayımı tarihinden itibaren adres bilgilerinin kaydedilmesine ilişkin uygulamaya hazırlık olarak sırasıyla aşağıdaki iş ve işlemler yapılır:
+**GEÇİCİ MADDE 2-** (1) Bu Kanunun yayımı tarihinden itibaren adres bilgilerinin kaydedilmesine ilişkin uygulamaya hazırlık olarak sırasıyla aşağıdaki iş ve işlemler yapılır:
 
 a) Ulusal adres veri tabanının altyapı çalışmaları Türkiye İstatistik Kurumu Başkanlığı bünyesinde yapılarak veri tabanı kurulur ve bu maddede öngörülen iş ve işlemlerin tamamlanmasından sonra Genel Müdürlüğe devredilir.
 
@@ -765,31 +765,31 @@ Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun hükümlerine g
 
 (4) Bu maddenin birinci fıkrasının (a) bendinin uygulanmasına ilişkin usûl ve esaslar yönetmelikle belirlenir.
 
-GEÇİCİ MADDE 3- (1) Bu Kanunun geçici 2 nci maddesinin uygulama süresi içinde nüfus olaylarını nüfus mevzuatında öngörülen süreyi geçirdikten sonra bildirenler ile nüfus ve aile cüzdanını kaybedenlere bu Kanunun 68 inci maddesi hükmü uygulanmaz.
+**GEÇİCİ MADDE 3-** (1) Bu Kanunun geçici 2 nci maddesinin uygulama süresi içinde nüfus olaylarını nüfus mevzuatında öngörülen süreyi geçirdikten sonra bildirenler ile nüfus ve aile cüzdanını kaybedenlere bu Kanunun 68 inci maddesi hükmü uygulanmaz.
 
-GEÇİCİ MADDE 4- (1) Bu Kanunda öngörülen süre içerisinde ulusal adres veri tabanına bağlanamayan il özel idareleri ve belediyeler, mahallî adres bilgilerini tespit edip güncelliğini takip ederler ve ulusal adres veri tabanına işlenmek üzere elektronik ortamda ilçe nüfus müdürlüklerine gönderirler.
+**GEÇİCİ MADDE 4-** (1) Bu Kanunda öngörülen süre içerisinde ulusal adres veri tabanına bağlanamayan il özel idareleri ve belediyeler, mahallî adres bilgilerini tespit edip güncelliğini takip ederler ve ulusal adres veri tabanına işlenmek üzere elektronik ortamda ilçe nüfus müdürlüklerine gönderirler.
 
-GEÇİCİ MADDE 5- (1) Bu Kanun yürürlüğe girinceye kadar tanıma beyanı veya babalığa hüküm kararı sonucu ana hanesine tescil edilen çocukların baba hanelerine nakline ana ve babanın birinin, çocuk ergin ise kendisinin müracaatı aranır.
+**GEÇİCİ MADDE 5-** (1) Bu Kanun yürürlüğe girinceye kadar tanıma beyanı veya babalığa hüküm kararı sonucu ana hanesine tescil edilen çocukların baba hanelerine nakline ana ve babanın birinin, çocuk ergin ise kendisinin müracaatı aranır.
 
-Yürürlük
+**Yürürlük**
 
-MADDE 74- (1) Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 74-** (1) Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 75- (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 75-** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-5490 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
+**5490 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
 
-YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
+**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
-Değiştiren
+**Değiştiren**
 
-Kanunun/ 5490 sayılı Kanunun değişen veya iptal Yürürlüğe Giriş Tarihi
+**Kanunun/ 5490 sayılı Kanunun değişen veya iptal Yürürlüğe Giriş Tarihi**
 
-KHK’nin edilen maddeleri
+**KHK’nin edilen maddeleri**
 
-Numarası
+**Numarası**
 
 5838 45 28/2/2009
 

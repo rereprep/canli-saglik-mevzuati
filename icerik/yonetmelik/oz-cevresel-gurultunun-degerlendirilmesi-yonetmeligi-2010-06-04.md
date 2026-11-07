@@ -26,7 +26,7 @@ Sayı : 27601
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -180,7 +180,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Görev, Yetki ve Sorumluluklar
+**Görev, Yetki ve Sorumluluklar**
 
 #### Bakanlığın görev, yetki ve sorumlulukları
 
@@ -316,7 +316,7 @@ ilgili hususlarda gerekli tedbirleri alır.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Kaynakların Ses Seviyeleri
+**Kaynakların Ses Seviyeleri**
 
 #### Kara yolu araçlarında uyulması gereken şartlar
 
@@ -358,7 +358,7 @@ d) İki veya üç tekerlekli motorlu kara yolu araçlarının dış gürültü s
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çevresel Gürültü Esas ve Kriterleri
+**Çevresel Gürültü Esas ve Kriterleri**
 
 #### Çevresel gürültü göstergeleri ve bu göstergelerin uygulanması
 
@@ -472,7 +472,7 @@ i) Birden fazla eğlence yerinin bulunduğu alanlarda, yetkili idare tarafından
 
 ### BEŞİNCİ BÖLÜM
 
-Çevresel Titreşim Esas ve Kriterleri
+**Çevresel Titreşim Esas ve Kriterleri**
 
 #### Yapılarda çevresel titreşim kriterleri
 
@@ -486,7 +486,7 @@ c) Konut ve ofis olarak kullanılan binalarda, elektrik motoru, pompa, fan gibi 
 
 ### ALTINCI BÖLÜM
 
-Gürültüye Hassas Kullanımların Bulunduğu Alanlar İçin Esas ve Kriterler
+**Gürültüye Hassas Kullanımların Bulunduğu Alanlar İçin Esas ve Kriterler**
 
 #### Gürültüye hassas kullanımlar için gürültü kontrolü
 
@@ -518,7 +518,7 @@ i) İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte yer almaya
 
 ### YEDİNCİ BÖLÜM
 
-Planlama Aşamasında Temel Kriterler
+**Planlama Aşamasında Temel Kriterler**
 
 #### Gürültüye maruz kalma kategorileri
 
@@ -548,7 +548,7 @@ d) Çok hassas kullanımların bulunduğu yerlerde daha sakin çevre oluşturabi
 
 ### SEKİZİNCİ BÖLÜM
 
-Stratejik Gürültü Haritalama Esas ve Kriterleri
+**Stratejik Gürültü Haritalama Esas ve Kriterleri**
 
 #### Stratejik gürültü haritalama esasları
 
@@ -590,7 +590,7 @@ g) Bu maddenin birinci fıkrasının (a) bendinin (1) numaralı alt bendi ile (c
 
 ### DOKUZUNCU BÖLÜM
 
-Eylem Planları
+**Eylem Planları**
 
 #### Eylem planları hazırlama esasları
 
@@ -624,7 +624,7 @@ f) Eylem planlarının hazırlanma ve gözden geçirilmesine katılım için ön
 
 ### ONUNCU BÖLÜM
 
-Kamuoyunu Bilgilendirme, Verilerin Toplanması ve Raporlama
+**Kamuoyunu Bilgilendirme, Verilerin Toplanması ve Raporlama**
 
 #### Kamuoyunu bilgilendirme
 
@@ -646,7 +646,7 @@ c) Bakanlık, beş yılda bir stratejik gürültü haritaları ve eylem planlar�
 
 ### ONBİRİNCİ BÖLÜM
 
-İşletmeler, Tesisler ve İşyerlerinin Çevresel Gürültü Yönünden Değerlendirilmesi
+**İşletmeler, Tesisler ve İşyerlerinin Çevresel Gürültü Yönünden Değerlendirilmesi**
 
 Çevre izni veya çevre izin ve lisans belgesine tabi işletme ve tesislerde çevresel gürültüye yönelik değerlendirme
 
@@ -674,7 +674,7 @@ d) (ç) bendinde belirtilen çevre izin ve lisans belgesinden muaf olacak işlet
 
 ### ONİKİNCİ BÖLÜM
 
-Rapor, Harita ve Eylem Planı Hazırlayacaklarda Değerlendirme Kriterleri
+**Rapor, Harita ve Eylem Planı Hazırlayacaklarda Değerlendirme Kriterleri**
 
 #### Uzmanlık deneyimine yönelik esas ve kriterler
 
@@ -738,7 +738,7 @@ sağlaması zorunludur.
 
 ### ONÜÇÜNCÜ BÖLÜM
 
-Şikâyetlerin Değerlendirilmesi, Denetim ve İdari Yaptırımlar
+**Şikâyetlerin Değerlendirilmesi, Denetim ve İdari Yaptırımlar**
 
 #### Şikâyetlerin değerlendirilmesi veya denetim
 
@@ -762,7 +762,7 @@ c) Yapılan denetimlerde, bu Yönetmelikte verilen sınır değerlerin aşıldı
 
 ### ONDÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 

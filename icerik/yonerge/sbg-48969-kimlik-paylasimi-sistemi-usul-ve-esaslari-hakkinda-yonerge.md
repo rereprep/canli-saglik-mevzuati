@@ -146,6 +146,6 @@ c) Son kullanıcının kullanıcı adı ve şifresi, sistem tarafından doğrula
 
 #### Yürürlük
 
-**MADDE 13 –** (1) Bu Yönerge onaylandığı tarihte yürürlüğe girer. Yürütme
+**MADDE 13 –** (1) Bu Yönerge onaylandığı tarihte yürürlüğe girer. **Yürütme**
 
 **MADDE 14 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

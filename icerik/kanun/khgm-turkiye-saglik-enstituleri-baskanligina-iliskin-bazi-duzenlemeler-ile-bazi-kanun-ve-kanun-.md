@@ -13,17 +13,17 @@ durum: "yürürlükte"
 
 ### TÜRKİYE SAĞLIK ENSTİTÜLERİ BAŞKANLIĞINA İLİŞKİN BAZI DÜZENLEMELER İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN[1]
 
-Kanun Numarası : 6569
+**Kanun Numarası : 6569**
 
-Kabul Tarihi : 19/11/2014
+**Kabul Tarihi : 19/11/2014**
 
-Yayımlandığı R.Gazete : Tarih : 26/11/2014 Sayı : 29187
+**Yayımlandığı R.Gazete : Tarih : 26/11/2014 Sayı : 29187**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 55
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 55**
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Tanımlar
+**Amaç, Kapsam ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -35,7 +35,7 @@ Amaç, Kapsam ve Tanımlar
 
 ### İKİNCİ BÖLÜM
 
-TÜSEB’in Kuruluşu ve Görevleri
+**TÜSEB’in Kuruluşu ve Görevleri**
 
 #### TÜSEB’in kuruluşu
 
@@ -47,7 +47,7 @@ TÜSEB’in Kuruluşu ve Görevleri
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Organlar ve Görevleri
+**Organlar ve Görevleri**
 
 #### Organlar
 
@@ -67,7 +67,7 @@ Organlar ve Görevleri
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Başkanın Görevleri, Genel Sekreterlik ve Enstitüler
+**Başkanın Görevleri, Genel Sekreterlik ve Enstitüler**
 
 #### Başkanın görevleri
 
@@ -83,15 +83,15 @@ Başkanın Görevleri, Genel Sekreterlik ve Enstitüler
 
 ### BEŞİNCİ BÖLÜM
 
-Personele İlişkin Hükümler
+**Personele İlişkin Hükümler**
 
 #### Personelin istihdamı ve nitelikleri
 
-**MADDE 12 –** (1) (Mülga: 2/7/2018/KHK/703/101 md.)
+**MADDE 12 –** (1) **(Mülga: 2/7/2018/KHK/703/101 md.)**
 
-(2) (Mülga: 2/7/2018/KHK/703/101 md.)
+(2) **(Mülga: 2/7/2018/KHK/703/101 md.)**
 
-(3) (Mülga: 2/7/2018/KHK/703/101 md.)
+(3) **(Mülga: 2/7/2018/KHK/703/101 md.)**
 
 (4) Enstitülerde Ar-Ge projelerinin gerektirdiği niteliklere sahip olanlar, proje süresi ile sınırlı olmak üzere, belirli süreli iş sözleşmesiyle istihdam edilebilir.
 
@@ -99,23 +99,23 @@ Personele İlişkin Hükümler
 
 (6) Yabancı uyruklu uzmanlar, 27/2/2003 tarihli ve 4817 sayılı Yabancıların Çalışma İzinleri Hakkında Kanun hükümlerine tabi olmaksızın ve haklarında 4857 sayılı Kanun hükümleri uygulanmak suretiyle bir yıla kadar çalıştırılabilir.
 
-(7) (Mülga: 2/7/2018/KHK/703/101 md.)
+(7) **(Mülga: 2/7/2018/KHK/703/101 md.)**
 
-(8) (Mülga: 2/7/2018/KHK/703/101 md.)
+(8) **(Mülga: 2/7/2018/KHK/703/101 md.)**
 
-(9) (Mülga: 2/7/2018/KHK/703/101 md.)
+(9) **(Mülga: 2/7/2018/KHK/703/101 md.)**
 
 (10) Kamu kurum ve kuruluşlarında çalışan personele, kurumlarının izni ile akreditasyon faaliyetlerine yönelik görev verilebilir. Bunlara görevleri karşılığı ödenecek ücret, (3.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçmemek üzere Yönetim Kurulu kararı ile belirlenir.
 
 #### Kurumlar arası görevlendirme
 
-**MADDE 13 –** (1) (Mülga: 2/7/2018/KHK/703/101 md.)
+**MADDE 13 –** (1) **(Mülga: 2/7/2018/KHK/703/101 md.)**
 
 #### Personelin ücret ile diğer mali ve sosyal hakları
 
-**MADDE 14 –** (1) (Mülga: 2/7/2018/KHK/703/101 md.)
+**MADDE 14 –** (1) **(Mülga: 2/7/2018/KHK/703/101 md.)**
 
-(2) (Mülga: 2/7/2018/KHK/703/101 md.) (Yeniden Düzenleme:21/12/2019-7201/14 md.) 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununa göre görevlendirileceklerin asli görevlerine ait aylık, ücret, ödenek, her türlü zam ve tazminatı ile ek ödeme dâhil diğer mali ve sosyal hakları ödenmeye devam olunur. Bunlara TÜSEB tarafından ödenecek ücretler, 2547 sayılı Kanunun 38 inci maddesinin son fıkrasında yer alan sınırlamaya tâbi olmaksızın, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi en yüksek Devlet memuruna her ne ad altında olursa olsun fiilen yapılan mali ve sosyal hak niteliğindeki her türlü ödeme dâhil bulunacak toplamın altı aylık net ortalamasını geçmemek üzere Cumhurbaşkanınca tespit olunur. Yurt dışındaki yükseköğretim kurumlarında görev yapmakta iken TÜSEB kadrolarına atanan öğretim üyelerine, yurt içindeki devlet yükseköğretim kurumlarında görev yapmakta olan emsali öğretim üyesine mali ve sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçmemek üzere ücret ödenir. Bunlara, bu fıkra hükümlerine göre ayrıca ilave ödeme yapılır.
+(2) **(Mülga: 2/7/2018/KHK/703/101 md.) (Yeniden Düzenleme:21/12/2019-7201/14 md.)** 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununa göre görevlendirileceklerin asli görevlerine ait aylık, ücret, ödenek, her türlü zam ve tazminatı ile ek ödeme dâhil diğer mali ve sosyal hakları ödenmeye devam olunur. Bunlara TÜSEB tarafından ödenecek ücretler, 2547 sayılı Kanunun 38 inci maddesinin son fıkrasında yer alan sınırlamaya tâbi olmaksızın, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi en yüksek Devlet memuruna her ne ad altında olursa olsun fiilen yapılan mali ve sosyal hak niteliğindeki her türlü ödeme dâhil bulunacak toplamın altı aylık net ortalamasını geçmemek üzere Cumhurbaşkanınca tespit olunur. Yurt dışındaki yükseköğretim kurumlarında görev yapmakta iken TÜSEB kadrolarına atanan öğretim üyelerine, yurt içindeki devlet yükseköğretim kurumlarında görev yapmakta olan emsali öğretim üyesine mali ve sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçmemek üzere ücret ödenir. Bunlara, bu fıkra hükümlerine göre ayrıca ilave ödeme yapılır.
 
 (3) TÜSEB bünyesinde yürütülen projelerin gerçekleşmesi sırasında ortaya çıkan fikrî ürünler üzerindeki haklar TÜSEB’e aittir. TÜSEB’in finanse ettiği veya ortak olduğu sözleşmelere dayalı olarak yürütülen çalışmalar sonucu ortaya çıkan fikrî ürünler üzerindeki haklar sözleşmeyle düzenlenir. TÜSEB’e ait fikrî hakların ekonomik olarak değerlendirilmesi sonucu elde edilecek net gelirin yüzde ellisini geçmemek üzere Yönetim Kurulu tarafından belirlenecek oranda fikrî ürün sahiplerine pay verilir. Bu pay, ortaklık sözleşmesi kapsamında şirket hissesi, kâr payı ya da ciro paylaşımı şeklinde de verilebilir.
 
@@ -133,7 +133,7 @@ Personele İlişkin Hükümler
 
 ### ALTINCI BÖLÜM
 
-Mali Hükümler
+**Mali Hükümler**
 
 #### Gelirler
 
@@ -151,11 +151,11 @@ Mali Hükümler
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Çeşitli hükümler
 
-**MADDE 18 –** (1) (Mülga: 2/7/2018/KHK/703/101 md.)
+**MADDE 18 –** (1) **(Mülga: 2/7/2018/KHK/703/101 md.)**
 
 (2) TÜSEB’in malları Devlet malı hükmündedir.
 
@@ -173,9 +173,9 @@ Mali Hükümler
 
 **MADDE 24 –** (14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanunu ile ilgili olup yerine işlenmiştir.)
 
-MADDE 25 ila 33 – (4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 25 ila 33 – (4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-MADDE 34 ila 38 - (7/6/1985 tarihli ve 3224 sayılı Türk Diş Hekimleri Birliği Kanunu ile ilgili olup yerine işlenmiştir.)
+**MADDE 34 ila 38 - (7/6/1985 tarihli ve 3224 sayılı Türk Diş Hekimleri Birliği Kanunu ile ilgili olup yerine işlenmiştir.)**
 
 **MADDE 39 –** (19/11/1992 tarihli ve 3843 sayılı Yükseköğretim Kurumlarında İkili Öğretim Yapılması, 2547 Sayılı Yükseköğretim Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bir Ek Madde Eklenmesi Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
 
@@ -205,7 +205,7 @@ MADDE 34 ila 38 - (7/6/1985 tarihli ve 3224 sayılı Türk Diş Hekimleri Birli�
 
 ### (I) SAYILI CETVEL
 
-(Mülga: 2/7/2018/KHK/703/101 md.)
+**(Mülga: 2/7/2018/KHK/703/101 md.)**
 
 ### 6569 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA
 
@@ -217,4 +217,4 @@ MADDE 34 ila 38 - (7/6/1985 tarihli ve 3224 sayılı Türk Diş Hekimleri Birli�
 | KHK/703 | 1 ila 11, 12, 13, 14, 15, 16, 18, 19, Geçici Madde 1, (I) Sayılı Cetvel | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 | 7201 | Madde 14 | 24/12/2019 |
 
-<small>[1] 2/7/2018 tarihli ve 703 sayılı KHK’nin 101 inci maddesiyle, bu Kanunun adı ‘’ Türkiye Sağlık Enstitüleri Başkanlığı Kurulması İle Bazı Kanun Ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun’’ iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[1] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 101 inci maddesiyle, bu Kanunun adı ‘’ Türkiye Sağlık Enstitüleri Başkanlığı Kurulması İle Bazı Kanun Ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun’’ iken metne işlendiği şekilde değiştirilmiştir.</i></small>

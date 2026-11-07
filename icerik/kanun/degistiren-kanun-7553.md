@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/07/20250714-20.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE
-KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN**
+**BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE**
+**KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7553 Kabul Tarihi: 10/7/2025
 
 MADDE 1- 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 47 nci maddesinin birinci fıkrasının (f) bendi aşağıdaki şekilde değiştirilmiştir.

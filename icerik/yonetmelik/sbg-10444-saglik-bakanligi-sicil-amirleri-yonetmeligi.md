@@ -239,7 +239,7 @@ bağlı olarak çalışan diğer personel Hastane Müdürü Başhekim Yrd. Başh
 
 ### RESMİ GAZETE
 
-Tarih : 08 Mart 1995 Sayı : 22221
+**Tarih :** 08 Mart 1995 Sayı : 22221
 
 ### TAŞRA TEŞKİLATI SİCİL RAPORU VERMEYE YETKİLİ AMİRLER SIRA NO: BİRİMLER VE PERSONELİ 1. SİCİL AMİRİ 2. SİCİL AMİRİ 3. SİCİL AMİRİ (II) DİĞER YATAKLI TEDAVİ KURUMLARINDA
 

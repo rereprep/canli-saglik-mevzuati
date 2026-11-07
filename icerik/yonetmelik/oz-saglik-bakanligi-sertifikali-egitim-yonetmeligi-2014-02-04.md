@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç ve kapsam
 
@@ -54,9 +54,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel Esaslar, Sertifikalı Eğitim Alanları ile Standartlarının
+**Genel Esaslar, Sertifikalı Eğitim Alanları ile Standartlarının**
 
-Belirlenmesi ve Müracaatlar
+**Belirlenmesi ve Müracaatlar**
 
 #### Genel esaslar
 
@@ -90,7 +90,7 @@ g) Değerlendirme sonunda uygun görülmeyen başvuru, gerekçesi de belirtilere
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Eğitime İlişkin Hükümler
+**Eğitime İlişkin Hükümler**
 
 #### Sertifikalı eğitim programı başvuru, yetkilendirme ve açılış işlemleri
 
@@ -112,7 +112,7 @@ c) Ön inceleme raporuna istinaden ilgili birimce açılması uygun görülen e�
 
 d) Eğitim programının açılması ile ilgili iş ve işlemler başvurunun yapılmasından itibaren en geç iki ay içerisinde tamamlanır.
 
-e) (Mülga: RG-29/1/2025-32797)
+e) **(Mülga: RG-29/1/2025-32797)**
 
 f) Standartlarda belirtilmiş olmak kaydıyla, eğitimin uygulamalı kısmını aynı il içerisinde başka bir merkezde verecek olan kamu kurum ve kuruluşu/özel hukuk tüzel kişisi/gerçek kişiler ilgili merkezle yaptıkları protokolü başvuru esnasında sunarlar.
 
@@ -132,7 +132,7 @@ c) Katılımcıların eğitime devamsızlık ve eğitim disiplinine aykırı dav
 
 ç) Eğitim faaliyeti ile ilgili belge, form, rapor ve diğer evrakın düzenlenmesini ve Müdürlüğe/ilgili birime sunulmasını sağlamak.
 
-d) Denetim sırasında yetkililere gereken bilgi ve belgeleri sunmak ve denetime yardımcı olmak.
+d) **Denetim** sırasında yetkililere gereken bilgi ve belgeleri sunmak ve denetime yardımcı olmak.
 
 e) Verilen sertifikaların tescil ettirilmesiyle ilgili iş ve işlemleri yürütmek.
 
@@ -152,13 +152,13 @@ e) Verilen sertifikaların tescil ettirilmesiyle ilgili iş ve işlemleri yürü
 
 **MADDE 9 –** (1) Eğitim programları için kişi başına ödenecek eğitim ücreti, konusuna göre ilgili birimlerce belirlenir ve Bakanlığın internet sayfasında duyurulur.
 
-(2) Kişi başına eğitim (Ek ibare: RG-29/1/2025-32797) tavan ücreti, 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanununun 11 inci maddesine göre doçentler için öngörülmüş ek ders ücreti göstergesinin memur aylık katsayısı ile çarpımı sonucu hesaplanan tutarın, eğitim programının Bakanlıkça belirlenmiş olan toplam (Değişik ibare: RG-29/1/2025-32797) ders saati sayısının yirmi ile çarpımı sonucu bulunur. Ortaya çıkan meblağ, o eğitim için kişi başı tavan ücreti olarak alınır ve kişi başına alınacak eğitim ücreti tavan eğitim ücretini aşamaz.
+(2) Kişi başına eğitim **(Ek ibare: RG-29/1/2025-32797)** tavan ücreti, 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanununun 11 inci maddesine göre doçentler için öngörülmüş ek ders ücreti göstergesinin memur aylık katsayısı ile çarpımı sonucu hesaplanan tutarın, eğitim programının Bakanlıkça belirlenmiş olan toplam **(Değişik ibare: RG-29/1/2025-32797)** ders saati sayısının yirmi ile çarpımı sonucu bulunur. Ortaya çıkan meblağ, o eğitim için kişi başı tavan ücreti olarak alınır ve kişi başına alınacak eğitim ücreti tavan eğitim ücretini aşamaz.
 
 (3) Bakanlık merkez ve bağlı kuruluşları tarafından düzenlenen sertifikalı eğitimlere görevi gereği katılması gereken kamu personelinden eğitim ücreti alınmaz.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Sertifika Düzenleme, Yenileme, Tescil ve Denklik İşlemleri
+**Sertifika Düzenleme, Yenileme, Tescil ve Denklik İşlemleri**
 
 #### Sertifika düzenleme, tescil ve yenileme
 
@@ -190,7 +190,7 @@ imzalanır .
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Yürürlükten kaldırılan yönetmelik
 

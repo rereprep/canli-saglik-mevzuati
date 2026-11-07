@@ -11,35 +11,35 @@ durum: "yürürlükte"
 
 ## SOSYAL YARDIMLAŞMA VE DAYANIŞMAYI TEŞVİK KANUNU
 
-Kanun Numarası : 3294
+**Kanun Numarası : 3294**
 
-Kabul Tarihi : 29/5/1986
+**Kabul Tarihi : 29/5/1986**
 
-Yayımlandığı Resmî Gazete : Tarih : 14/6/1986 Sayı : 19134
+**Yayımlandığı Resmî Gazete : Tarih : 14/6/1986 Sayı : 19134**
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 25 Sayfa : 264
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 25 Sayfa : 264**
 
-Amaç:
+**Amaç:**
 
 **Madde 1 –** (Değişik: 16/6/1989-3582/1 md.)
 
 Bu Kanunun amacı; fakru zaruret içinde ve muhtaç durumda bulunan vatandaşlar ile gerektiğinde her ne suretle olursa olsun Türkiye'ye kabul edilmiş veya gelmiş olan kişilere yardım etmek, sosyal adaleti pekiştirici tedbirler alarak gelir dağılımının adilane bir şekilde tevzi edilmesini sağlamak, sosyal yardımlaşma ve dayanışmayı teşvik etmektir.
 
-Kapsam:
+**Kapsam:**
 
 **Madde 2 –** Fakrü zaruret içinde ve muhtaç durumda bulunan kanunla kurulu sosyal güvenlik kuruluşlarına tabi olmayan ve bu kuruluşlardan aylık ve gelir almayan (...) vatandaşlar ile geçici olarak küçük bir yardım veya eğitim ve öğretim imkanı sağlanması halinde topluma faydalı hale getirilecek, üretken duruma geçirilebilecek kişiler bu Kanun kapsamı içindedir.
 
-(Ek fıkra: 30/5/1997-KHK-572/17 md.; Değişik ikinci fıkra: 17/4/2008-5754/77 md.) Ancak, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 60 ıncı maddesinin birinci fıkrasının (c) bendinde sayılan genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin 5510 sayılı Kanun gereği ödedikleri katılım payları bu Kanun kapsamındadır. Ancak yıl içinde ödenen tutarlar, takip eden yılda Hazine tarafından Fona geri ödenir.
+**(Ek fıkra: 30/5/1997-KHK-572/17 md.; Değişik ikinci fıkra: 17/4/2008-5754/77 md.)** Ancak, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 60 ıncı maddesinin birinci fıkrasının (c) bendinde sayılan genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin 5510 sayılı Kanun gereği ödedikleri katılım payları bu Kanun kapsamındadır. Ancak yıl içinde ödenen tutarlar, takip eden yılda Hazine tarafından Fona geri ödenir.
 
-(Ek fıkra: 4/7/2012-6353/17 md.) Ayrıca, kanunla veya Cumhurbaşkanlığı kararnamesiyle kurulu sosyal güvenlik kuruluşlarına tabi olmakla veya bu kuruluşlarca aylık veya gelir bağlanmış olmakla birlikte, Fon Kurulunca belirlenecek ölçütlere göre; hane içindeki kişi başına düşen geliri, onaltı yaşından büyükler için belirlenen aylık net asgari ücretin 1/3’ünden az olan kişilerden fakir ve muhtaç durumda bulunanlar da bu Kanun kapsamındadır.
+**(Ek fıkra: 4/7/2012-6353/17 md.)** Ayrıca, kanunla veya Cumhurbaşkanlığı kararnamesiyle kurulu sosyal güvenlik kuruluşlarına tabi olmakla veya bu kuruluşlarca aylık veya gelir bağlanmış olmakla birlikte, Fon Kurulunca belirlenecek ölçütlere göre; hane içindeki kişi başına düşen geliri, onaltı yaşından büyükler için belirlenen aylık net asgari ücretin 1/3’ünden az olan kişilerden fakir ve muhtaç durumda bulunanlar da bu Kanun kapsamındadır.
 
-(Ek fıkra: 4/7/2012-6353/17 md.) Her türlü acil durum ve afetten zarar görenler ve şehit yakınları ile gaziler ise, Fon Kurulu ile Sosyal Yardımlaşma ve Dayanışma Vakıflarınca belirlenecek kriter ve süreler çerçevesinde bu Kanun ile sağlanacak haklardan yararlandırılır.
+**(Ek fıkra: 4/7/2012-6353/17 md.)** Her türlü acil durum ve afetten zarar görenler ve şehit yakınları ile gaziler ise, Fon Kurulu ile Sosyal Yardımlaşma ve Dayanışma Vakıflarınca belirlenecek kriter ve süreler çerçevesinde bu Kanun ile sağlanacak haklardan yararlandırılır.
 
-Kuruluş:
+**Kuruluş:**
 
 **Madde 3 –** Bu Kanunda öngörülen hizmetlerin gerçekleştirilmesi için Cumhurbaşkanınca görevlendirilen Cumhurbaşkanı yardımcısına veya bakana bağlı ve T.C. Merkez Bankası nezdinde Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu kurulmuştur.
 
-Fonun gelirleri:
+**Fonun gelirleri:**
 
 **Madde 4 –** Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonunun gelirleri;
 
@@ -47,15 +47,15 @@ a) Kanun ve kararnamelerle kurulu bulunan ve kurulacak olan fonlardan Cumhurbaş
 
 b) Bütçeye konulacak ödeneklerden,
 
-c) (Mülga: 23/7/1995-4122/15-c md.)
+c) **(Mülga: 23/7/1995-4122/15-c md.)**
 
 d) Trafik para cezası hasılatının yarısından,
 
-e) (Mülga: 9/4/2003-4842/37 md.)
+e) **(Mülga: 9/4/2003-4842/37 md.)**
 
-f) (Değişik: 6/7/1999-4397/7 md.) Radyo ve Televizyon Üst Kurulu reklam gelirleri hasılatından aktarılacak % 15'lik miktardan,
+f) **(Değişik: 6/7/1999-4397/7 md.)** Radyo ve Televizyon Üst Kurulu reklam gelirleri hasılatından aktarılacak % 15'lik miktardan,
 
-g) (Mülga: 14/6/1989-3571/16 md.)
+g) **(Mülga: 14/6/1989-3571/16 md.)**
 
 h) Her nevi bağış ve yardımlardan,
 
@@ -65,45 +65,45 @@ Teşekkül eder.
 
 Bu maddeye göre (d ve e bentleri hariç) Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu için tahsil edilen veya aktarılması yapılan miktar, tahsil veya aktarmayı takip eden ayın en geç 15'ine kadar T.C. Merkez Bankası nezdindeki fon hesabına yatırılmak zorundadır.
 
-(Mülga üçüncü ve dördüncü fıkralar: 25/6/1992-3824/26 md.)
+**(Mülga üçüncü ve dördüncü fıkralar: 25/6/1992-3824/26 md.)**
 
-(Değişik beşinci fıkra: 18/2/2009-5838/26 md.) Bu maddenin (d) bendinde yer alan gelirler hakkında 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 17 nci maddesinin üçüncü fıkrasının birinci cümlesi hükmü uygulanmaz. Bu gelirler tahsilatın yapıldığı ayı takip eden ayın sonuna kadar vergi daireleri ve muhasebe birimleri tarafından Maliye Bakanlığınca belirlenen esaslara göre, Türkiye Cumhuriyet Merkez Bankası nezdindeki Fon hesabına aktarılır.
+**(Değişik beşinci fıkra: 18/2/2009-5838/26 md.)** Bu maddenin (d) bendinde yer alan gelirler hakkında 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 17 nci maddesinin üçüncü fıkrasının birinci cümlesi hükmü uygulanmaz. Bu gelirler tahsilatın yapıldığı ayı takip eden ayın sonuna kadar vergi daireleri ve muhasebe birimleri tarafından Maliye Bakanlığınca belirlenen esaslara göre, Türkiye Cumhuriyet Merkez Bankası nezdindeki Fon hesabına aktarılır.
 
-(Ek fıkra: 25/3/1997-KHK-571/36 md.; Değişik fıkra: 21/3/2018-7103/36 md.) Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından engellilere ve yaşlılara yönelik olarak hazırlanan veya hazırlatılan projeler ile yapım ve kiralama işleri ve anılan Genel Müdürlüğün bu konudaki faaliyetlerine yönelik olarak kullanılmak üzere, bu maddede sayılan gelirlerin %5’e kadarı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu Kurulu kararıyla Aile ve Sosyal Politikalar Bakanlığı emrine tahsis edilir. Bu amaçla tahsis edilen kaynak Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu Kurulunun onaylayacağı projeler için kullanılır.
+**(Ek fıkra: 25/3/1997-KHK-571/36 md.; Değişik fıkra: 21/3/2018-7103/36 md.)** Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından engellilere ve yaşlılara yönelik olarak hazırlanan veya hazırlatılan projeler ile yapım ve kiralama işleri ve anılan Genel Müdürlüğün bu konudaki faaliyetlerine yönelik olarak kullanılmak üzere, bu maddede sayılan gelirlerin %5’e kadarı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu Kurulu kararıyla Aile ve Sosyal Politikalar Bakanlığı emrine tahsis edilir. Bu amaçla tahsis edilen kaynak Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu Kurulunun onaylayacağı projeler için kullanılır.
 
-Fonun çalışma usul ve esasları:
+**Fonun çalışma usul ve esasları:**
 
 **Madde 5 –** Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonunun çalışma usul ve esasları ile toplanacak kaynakların Sosyal Yardımlaşma ve Dayanışma Vakıflarına dağıtım esasları yönetmelikle tespit edilir.
 
-(Ek fıkra: 30/5/1997-KHK-572/18 md.) Engellilerin topluma uyumunu kolaylaştıracak her türlü ortopedik ve diğer yardımcı araç ve gereçlerin standartlara uygun olarak teminini dikkate almak suretiyle, engellilere yönelik destek programlarına ilişkin usul ve esaslar ayrı bir yönetmelikle tespit edilir.
+**(Ek fıkra: 30/5/1997-KHK-572/18 md.)** Engellilerin topluma uyumunu kolaylaştıracak her türlü ortopedik ve diğer yardımcı araç ve gereçlerin standartlara uygun olarak teminini dikkate almak suretiyle, engellilere yönelik destek programlarına ilişkin usul ve esaslar ayrı bir yönetmelikle tespit edilir.
 
-Fonun denetimi:
+**Fonun denetimi:**
 
 **Madde 6 –** Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonunun denetimi Başbakanlık Yüksek Denetleme Kurulunca yapılır.
 
-Vakıflar:
+**Vakıflar:**
 
 **Madde 7 –** (Değişik birinci fıkra: 1/12/2004-5263/19 md.) Bu Kanunun amacına uygun faaliyet ve çalışmalar yapmak ve ihtiyaç sahibi vatandaşlara nakdî ve aynî yardımda bulunmak üzere her il ve ilçede sosyal yardımlaşma ve dayanışma vakıfları kurulur.
 
-(Değişik ikinci fıkra: 1/12/2004 – 5263/19 md.) Mülkî idare amirleri vakfın tabii başkanı olup, illerde belediye başkanı, defterdar, il millî eğitim müdürü, il sağlık müdürü, il tarım müdürü, il sosyal hizmetler ve çocuk esirgeme kurumu müdürü ve il müftüsü; ilçelerde belediye başkanı, mal müdürü, ilçe millî eğitim müdürü, Sağlık Bakanlığının ilçe üst görevlisi, varsa ilçe tarım müdürü ve ilçe müftüsü vakfın mütevelli heyetini oluşturur. Ayrıca her faaliyet dönemi için, il dahilindeki köy ve mahalle muhtarlarının valinin çağrısı üzerine yapacağı toplantıya katılanların salt çoğunluğuyla kendi aralarından seçecekleri birer muhtar üye ile ilde kurulan ve bu Kanunda belirtilen amaçlara yönelik faaliyette bulunan sivil toplum kuruluşlarının yöneticilerinin kendi aralarından seçecekleri iki temsilci ve hayırsever vatandaşlar arasından il genel meclisinin seçeceği iki kişi; ilçe dahilindeki köy ve mahalle muhtarlarının kaymakamın çağrısı üzerine yapacağı toplantıya katılanların salt çoğunluğu ile kendi aralarından seçecekleri birer üye ile ilçede kurulu ve bu Kanunda belirtilen amaçlara yönelik faaliyette bulunan sivil toplum kuruluşlarının yöneticilerinin kendi aralarından seçecekleri bir temsilci ve hayırsever vatandaşlar arasından il genel meclisinin seçeceği iki kişi mütevelli heyetinde görev alırlar. İl veya ilçede bu Kanunda belirtilen amaçlara yönelik faaliyette bulunan sivil toplum kuruluşu olmaması halinde, hayırsever vatandaşlar arasından il genel meclisinin seçeceği üçüncü bir kişi daha mütevelli heyetinde görev yapar.
+**(Değişik ikinci fıkra: 1/12/2004 – 5263/19 md.)** Mülkî idare amirleri vakfın tabii başkanı olup, illerde belediye başkanı, defterdar, il millî eğitim müdürü, il sağlık müdürü, il tarım müdürü, il sosyal hizmetler ve çocuk esirgeme kurumu müdürü ve il müftüsü; ilçelerde belediye başkanı, mal müdürü, ilçe millî eğitim müdürü, Sağlık Bakanlığının ilçe üst görevlisi, varsa ilçe tarım müdürü ve ilçe müftüsü vakfın mütevelli heyetini oluşturur. Ayrıca her faaliyet dönemi için, il dahilindeki köy ve mahalle muhtarlarının valinin çağrısı üzerine yapacağı toplantıya katılanların salt çoğunluğuyla kendi aralarından seçecekleri birer muhtar üye ile ilde kurulan ve bu Kanunda belirtilen amaçlara yönelik faaliyette bulunan sivil toplum kuruluşlarının yöneticilerinin kendi aralarından seçecekleri iki temsilci ve hayırsever vatandaşlar arasından il genel meclisinin seçeceği iki kişi; ilçe dahilindeki köy ve mahalle muhtarlarının kaymakamın çağrısı üzerine yapacağı toplantıya katılanların salt çoğunluğu ile kendi aralarından seçecekleri birer üye ile ilçede kurulu ve bu Kanunda belirtilen amaçlara yönelik faaliyette bulunan sivil toplum kuruluşlarının yöneticilerinin kendi aralarından seçecekleri bir temsilci ve hayırsever vatandaşlar arasından il genel meclisinin seçeceği iki kişi mütevelli heyetinde görev alırlar. İl veya ilçede bu Kanunda belirtilen amaçlara yönelik faaliyette bulunan sivil toplum kuruluşu olmaması halinde, hayırsever vatandaşlar arasından il genel meclisinin seçeceği üçüncü bir kişi daha mütevelli heyetinde görev yapar.
 
-(Ek fıkra: 20/2/2014-6525/18 md.) Büyükşehir belediyesi bulunan illerdeki il ve ilçe sosyal yardımlaşma ve dayanışma vakıflarında, ikinci fıkrada hayırsever vatandaşlar arasından seçileceği belirtilen iki üye; il sosyal yardımlaşma ve dayanışma vakıfları için doğrudan vali tarafından, ilçe sosyal yardımlaşma ve dayanışma vakıfları için ise kaymakamın teklifi üzerine vali tarafından belirlenir. Ayrıca, il veya ilçede bu Kanunda belirlenen amaçlara yönelik faaliyette bulunan sivil toplum kuruluşu bulunmaması hâlinde il sosyal yardımlaşma ve dayanışma vakıfları için doğrudan vali tarafından, ilçe sosyal yardımlaşma ve dayanışma vakıfları için ise kaymakamın teklifi üzerine vali tarafından üçüncü bir kişi daha belirlenir. İl veya ilçe sınırları içerisinde köy bulunmaması hâlinde, köy muhtarı yerine bir mahalle muhtarı daha mütevelli heyetinde görev yapar. İlde vali, bir vali yardımcısını başkan vekili olarak; büyükşehir belediye başkanı, genel sekreteri veya genel sekreter yardımcısını; il belediye başkanı da bir belediye başkan yardımcısını toplantılarda kendisini temsil etmek üzere görevlendirebilir.
+**(Ek fıkra: 20/2/2014-6525/18 md.)** Büyükşehir belediyesi bulunan illerdeki il ve ilçe sosyal yardımlaşma ve dayanışma vakıflarında, ikinci fıkrada hayırsever vatandaşlar arasından seçileceği belirtilen iki üye; il sosyal yardımlaşma ve dayanışma vakıfları için doğrudan vali tarafından, ilçe sosyal yardımlaşma ve dayanışma vakıfları için ise kaymakamın teklifi üzerine vali tarafından belirlenir. Ayrıca, il veya ilçede bu Kanunda belirlenen amaçlara yönelik faaliyette bulunan sivil toplum kuruluşu bulunmaması hâlinde il sosyal yardımlaşma ve dayanışma vakıfları için doğrudan vali tarafından, ilçe sosyal yardımlaşma ve dayanışma vakıfları için ise kaymakamın teklifi üzerine vali tarafından üçüncü bir kişi daha belirlenir. İl veya ilçe sınırları içerisinde köy bulunmaması hâlinde, köy muhtarı yerine bir mahalle muhtarı daha mütevelli heyetinde görev yapar. İlde vali, bir vali yardımcısını başkan vekili olarak; büyükşehir belediye başkanı, genel sekreteri veya genel sekreter yardımcısını; il belediye başkanı da bir belediye başkan yardımcısını toplantılarda kendisini temsil etmek üzere görevlendirebilir.
 
 Vakıf senetleri mahallin en büyük mülki idare amiri tarafından Medeni Kanundaki hükümlere göre tescil ettirilir.
 
-(Mülga dördüncü fıkra: 1/12/2004-5263/19 md.)
+**(Mülga dördüncü fıkra: 1/12/2004-5263/19 md.)**
 
-(Ek fıkra: 16/5/2018-7144/7 md.) Vakıflar, 18/10/2012 tarihli ve 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanununun 34 üncü maddesinin ikinci fıkrası hükmüne göre, Aile ve Sosyal Politikalar Bakanlığı Sosyal Yardımlar Genel Müdürlüğünce imzalanacak işletme düzeyinde toplu iş sözleşmesi kapsamında işyerleridir.
+**(Ek fıkra: 16/5/2018-7144/7 md.)** Vakıflar, 18/10/2012 tarihli ve 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanununun 34 üncü maddesinin ikinci fıkrası hükmüne göre, Aile ve Sosyal Politikalar Bakanlığı Sosyal Yardımlar Genel Müdürlüğünce imzalanacak işletme düzeyinde toplu iş sözleşmesi kapsamında işyerleridir.
 
-Vakfın gelirleri:
+**Vakfın gelirleri:**
 
 **Madde 8 –** Sosyal Yardımlaşma ve Dayanışma Vakıflarının gelirleri;
 
 a) Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonundan aktarılacak miktardan,
 
-b) (Mülga: 7/12/2004-5272/87 md.)
+b) **(Mülga: 7/12/2004-5272/87 md.)**
 
-c) (Mülga: 2/3/2014-6529/16 md.)
+c) **(Mülga: 2/3/2014-6529/16 md.)**
 
 d) İşletme ve iştiraklerden elde edilecek gelirlerden,
 
@@ -111,9 +111,9 @@ e) Diğer gelirlerden,
 
 Teşekkül eder.
 
-(Ek ikinci fıkra: 16/6/1989 - 3582/4 md.; Mülga: 7/12/2004-5272/87 md.)
+**(Ek ikinci fıkra: 16/6/1989 - 3582/4 md.; Mülga: 7/12/2004-5272/87 md.)**
 
-Muafiyetler:
+**Muafiyetler:**
 
 **Madde 9 –** Bu Kanunla kurulan Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu ile Sosyal Yardımlaşma ve Dayanışma Vakıfları;
 
@@ -121,27 +121,27 @@ a) Kurumlar Vergisinden, (iktisadi işletmeler hariç),
 
 b) Yapılacak bağış ve yardımlar sebebiyle Veraset ve İntikal Vergisinden,
 
-c) (Değişik: 1/12/2004 – 5263/20 md.) Sahip oldukları taşınır ve taşınmaz mallar ve yapacakları tüm muameleler dolayısıyla her türlü vergi, resim, harç ve fonlardan,
+c) **(Değişik: 1/12/2004 – 5263/20 md.)** Sahip oldukları taşınır ve taşınmaz mallar ve yapacakları tüm muameleler dolayısıyla her türlü vergi, resim, harç ve fonlardan,
 
-d) (Ek: 1/12/2004 – 5263/20 md.) Vakıflar, Vakıflar Genel Müdürlüğünce vakıflardan tahsil edilen teftiş ve denetleme masraflarına katılma paylarından,
+d) **(Ek: 1/12/2004 – 5263/20 md.)** Vakıflar, Vakıflar Genel Müdürlüğünce vakıflardan tahsil edilen teftiş ve denetleme masraflarına katılma paylarından,
 
-e) (Ek: 6/2/2014-6518/33 md.) Her türlü döner sermaye ücretlerinden,
+e) **(Ek: 6/2/2014-6518/33 md.)** Her türlü döner sermaye ücretlerinden,
 
 Muaftır.
 
 Fona ve Vakfa yapılacak bağış ve yardımlar her türlü vergi, resim ve harçtan muaftır. Bu bağış ve yardımlar Kurumlar ve Gelir Vergisi matrahından indirilebilir.
 
-Kaldırılan hükümler:
+**Kaldırılan hükümler:**
 
 **Madde 10 –** 23 Haziran 1983 tarihli ve 2860 sayılı Yardım Toplama Kanununun Beşinci Bölümü ile bu bölümde yer alan 21, 22 ve 23 üncü maddeleri ve Altıncı Bölümde yer alan 29 uncu maddenin 2 nci fıkrası yürürlükten kaldırılmıştır.
 
-Tahsil şekli ve müeyyide:
+**Tahsil şekli ve müeyyide:**
 
 **Ek Madde 1 –** (Ek: 16/6/1989 - 3582/5 md.)
 
 4 üncü maddenin (a), (c), (d), (e), (f), (g) bendlerinde sayılan fon gelirleri ile 8 inci maddede yazılı vakıf gelirleri kamu alacağı mahiyetinde olup, bu Kanunda yazılı süre içinde ödenmeyen gerek 4 üncü maddenin (a), (c), (d), (f) ve (g) bendlerindeki fon gelirlerinin, gerekse 8 inci maddenin (b) bendinde yazılı vakıf gelirlerinin tahsili için Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu Kurulu Başkanlığınca veya ilgili vakıflarca 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun Hükümlerine göre işlem yapılır. Ayrıca, sorumlular hakkında bu Kanun ve ilgili diğer kanunlar uyarınca takibata geçilir.
 
-Sosyal yardımların ve desteklerin haczedilemeyeceği:
+**Sosyal yardımların ve desteklerin haczedilemeyeceği:**
 
 **Ek Madde 2 –** (Ek: 4/7/2012-6353/18 md.)
 
@@ -175,7 +175,7 @@ Aile ve Sosyal Politikalar Bakanlığınca karşılanan prim tutarları, gelir v
 
 Bu madde kapsamına giren sosyal yardımlar ve bu maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığı, Sosyal Güvenlik Kurumu ile Türkiye İş Kurumunun görüşleri alınarak Aile ve Sosyal Politikalar Bakanlığınca belirlenir.
 
-**Geçici Madde 1 –** (3294 sayılı Kanunun kendi numarasız geçici maddesi olup 1/2/1989 tarih ve 3520 sayılı Kanun ile madde numarası teselsül ettirilmiştir.)
+**Geçici Madde 1 –** (3294 sayılı Kanunun kendi numarasız geçici maddesi olup **1/2/1989 tarih ve 3520 sayılı Kanun ile madde numarası teselsül ettirilmiştir.)**
 
 a) 4 üncü maddenin (e) bendi 1986 yılı kazançlarına uygulanır.
 
@@ -189,17 +189,17 @@ Bu maddenin yürürlüğe girdiği tarihten önce Sosyal Yardımlaşma ve Dayan�
 
 Bu maddenin yürürlüğe girdiği tarih itibarıyla elektronik sorgulama dâhil veri paylaşımı işlemleri nedeniyle tahakkuk eden döner sermaye ücretleri terkin edilir.
 
-Yürürlük:
+**Yürürlük:**
 
 **Madde 11 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-Yürütme:
+**Yürütme:**
 
 **Madde 12 –** Bu Kanunu Bakanlar Kurulu yürütür.
 
 ### 29/5/1986 TARİHLİ VE 3294 SAYILI ANA KANUNA İŞLENEMEYEN GEÇİCİ MADDELER:
 
-1) 25/6/1992 tarihli ve 3824 sayılı Kanunun geçici maddesi:
+**1) 25/6/1992 tarihli ve 3824 sayılı Kanunun geçici maddesi:**
 
 **Geçici Madde 1 –** a) 1992 takvim yılında yıllık beyanname ile beyan edilecek kazanç ile iratlar,
 
@@ -215,9 +215,9 @@ e) 1992 takvim yılında Gelir Vergisi Kanununun 94 üncü maddesi ile Kurumlar 
 
 ### 3294 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLO
 
-Değiştiren Kanunun/ 3294 Sayılı Kanunun Değişen veya
+**Değiştiren Kanunun/ 3294 Sayılı Kanunun Değişen veya**
 
-Yürürlüğe Giriş Tarihi KHK’nin Numarası İptal Edilen Maddeleri
+**Yürürlüğe Giriş Tarihi KHK’nin Numarası İptal Edilen Maddeleri**
 
 ### 3520 Geçici Madde 1 10/2/1989 3571 4 20/6/1989
 
@@ -271,4 +271,4 @@ göreve başladığı tarihte
 
 **Dipnotlar**
 
-<small>16/6/1989 tarih ve 3582 sayılı Kanunun 2 nci maddesi ile bu fıkrada yer alan "2022 sayılı Kanuna göre aylık alan kişiler dahil" ibaresi madde metninden çıkartılmıştır. 2/7/2018 tarihli ve 700 sayılı KHK’nin 104 üncü maddesiyle, 2 nci maddesinin üçüncü fıkrasına “Ayrıca, kanunla” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamesiyle” ibaresi eklenmiş, 3 üncü maddesinde yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanınca görevlendirilen Cumhurbaşkanı yardımcısına veya bakana” ve 4 üncü maddesinin birinci fıkrasının (a) bendinde yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir. 3/4/2013 tarihli ve 6456 sayılı Kanunun 25 inci maddesiyle, bu fıkrada yer alan “Her türlü afetten” ibaresi “Her türlü acil durum ve afetten” şeklinde değiştirilmiştir. 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “Özürlülerin” ve “özürlülere” ibareleri sırasıyla “Engellilerin” ve “engellilere” şeklinde değiştirilmiştir. 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir. 2/7/2018 tarihli ve 700 sayılı KHK’nin 104 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>
+<small>16/6/1989 tarih ve 3582 sayılı Kanunun 2 nci maddesi ile bu fıkrada yer alan "2022 sayılı Kanuna <i>göre aylık alan kişiler dahil" ibaresi madde metninden çıkartılmıştır.</i> 2/7/2018 tarihli ve 700 sayılı KHK’nin 104 üncü maddesiyle, 2 nci maddesinin üçüncü fıkrasına <i>“Ayrıca, kanunla” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamesiyle” ibaresi</i> <i>eklenmiş, 3 üncü maddesinde yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanınca görevlendirilen</i> <i>Cumhurbaşkanı yardımcısına veya bakana” ve 4 üncü maddesinin birinci fıkrasının (a) bendinde yer</i> <i>alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i> 3/4/2013 tarihli ve 6456 sayılı Kanunun 25 inci maddesiyle, bu fıkrada yer alan “Her türlü afetten” <i>ibaresi “Her türlü acil durum ve afetten” şeklinde değiştirilmiştir.</i> 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “Özürlülerin” ve <i>“özürlülere” ibareleri sırasıyla “Engellilerin” ve “engellilere” şeklinde değiştirilmiştir.</i> 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “özürlü” ibaresi <i>“engelli” şeklinde değiştirilmiştir.</i> 2/7/2018 tarihli ve 700 sayılı KHK’nin 104 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</small>

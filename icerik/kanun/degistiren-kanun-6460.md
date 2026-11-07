@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/04/20130430-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-HUKUK USULÜ MUHAKEMELERİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**HUKUK USULÜ MUHAKEMELERİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 6460 Kabul Tarihi: 17/4/2013
 
 MADDE 1 – 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununun 373 üncü maddesinin beşinci fıkrasından, 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 439 uncu maddesinin beşinci fıkrasından ve 1086 sayılı Kanunun 26/9/2004 tarihli ve 5236 sayılı Hukuk Usulü Muhakemeleri Kanununda Değişiklik Yapılmasına İlişkin Kanunun 16 ncı maddesi ile değiştirilmeden önceki 429 uncu maddesinin üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.

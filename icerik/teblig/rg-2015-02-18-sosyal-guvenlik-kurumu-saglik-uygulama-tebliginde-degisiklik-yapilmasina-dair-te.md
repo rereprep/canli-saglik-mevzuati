@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumundan:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete ’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 2.4.4.F-2 numaralı alt maddesinin üçüncü fıkrasına son cümle olarak aşağıdaki cümle eklenmiştir.
 “Ancak bölge seans kontrolüne tabi fizik tedavi ve rehabilitasyon uygulamaları için aynı bölgeden toplam 30 seans, iki farklı vücut bölgesinden toplam 60 seans fizik tedavi ve rehabilitasyon işlemlerinden daha fazla tedavi gereken durumlarda, bu kişilerin fizik tedavi ve rehabilitasyon uygulamaları Türk Silahlı Kuvvetleri ve Sağlık Bakanlığı’na bağlı sağlık hizmeti sunucularında görevli fiziksel tıp ve rehabilitasyon uzman hekimince 30’ar seanslık rapor düzenlenmesi ve tedavinin raporun düzenlendiği sağlık hizmeti sunucularınca yapılması halinde Kurumca karşılanır.”
@@ -172,7 +172,7 @@ A3 * 3794,27
 
 MADDE 21 – Aynı Tebliğin “Birden Fazla Branşta Kullanılan Tıbbi Malzemeler” (EK 3/A) Listesinde aşağıdaki düzenlemeler yapılmıştır.
 a) “OR2640” SUT kodlu tıbbi malzeme aşağıdaki şekilde yeniden düzenlenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI AÇIKLAMA FİYATI
+**SUT KODU TIBBİ MALZEME ALAN TANIMI** AÇIKLAMA FİYATI
 OR2640
 İNSİZYONEL KATETER SETİ, GÜMÜŞ KAPLI, HOMOJEN DAĞILIMLI
 (1) Tanıya dayalı işlemlerde ayrıca faturalandırılabilir
@@ -191,61 +191,61 @@ EPİDERMOLİZİS BÜLLOZA YARA BAKIM SETİ
 Bkz SUT 3.3.1 (13) İşlem puanına dahildir.
 
 MADDE 22 – Aynı Tebliğin “Omurga Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler Listesi” nden (EK-3/E-1) “103.080” ve “103.085” SUT kodlu tıbbi malzemeler alt satırlarındaki ödeme kriterleri ve/veya kuralları ile birlikte çıkarılmış ve “103.075” SUT kodlu tıbbi malzemenin alt satırındaki ödeme kriterleri ve/veya kurallarından sonra gelmek üzere “103081”, “103082”, “103083” , “103084” SUT kodlu tıbbi malzemeler aşağıdaki şekilde eklenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI FİYAT
-(TL) 103081 PERKÜTAN FASET KOMPRESYON (KİLİTLEME) VİDASI, SERVİKAL 4.140,00
+SUT KODU TIBBİ MALZEME ALAN TANIMI **FİYAT**
+**(TL) 103081** PERKÜTAN FASET KOMPRESYON (KİLİTLEME) VİDASI, SERVİKAL 4.140,00
 (1) Sadece perkütan girişimlerde, servikal instabilite, faset eklem dejenerasyonu, disfonksiyonuna bağlı dirençli ağrılarda, servikal faset luksasyonu, 2 seviye ve üstü anterior servikal füzyonu desteklemek için kullanılması halinde Kurumca bedeli karşılanır.
-103082 PERKÜTAN FASET KOMPRESYON (KİLİTLEME) VİDASI, LOMBER 3.750,00
+**103082** PERKÜTAN FASET KOMPRESYON (KİLİTLEME) VİDASI, LOMBER 3.750,00
 (1) Sadece perkütan girişimlerde, lomber instabilite, faset eklem dejenerasyonu, disfonksiyonuna bağlı dirençli ağrılarda, anterior füzyonu desteklemek için kullanılması halinde Kurumca bedeli karşılanır.
-103083
+**103083**
 PERKÜTAN FASET DİSTRAKSİYON APARATI, SERVİKAL
 4.140,00
 (1) Sadece perkütan girişimlerde, servikal faset eklem dejenerasyonu, servikal foraminal stenoza bağlı dirençli ağrılarda kullanılması halinde Kurumca bedeli karşılanır.
-103084
+**103084**
 PERKÜTAN FASET DİSTRAKSİYON APARATI, LOMBER
 3.750,00
 (1) Sadece perkütan girişimlerde, lomber faset eklem dejenerasyonu, lomber foraminal stenoza bağlı dirençli ağrılarda, kullanılması halinde Kurumca bedeli karşılanır.
 
 MADDE 23 – Aynı Tebliğin “Ortopedi ve Travmatoloji Branşı Artroskopi ve Eklem Cerrahisi Alan Grubuna Ait Tıbbi Malzemeler” Listesinde (EK-3/F-2) yer alan “AE2520”, “AE2530”, “AE2540” SUT kodlu tıbbi malzemeler aşağıdaki şekilde yeniden düzenlenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI
-FİYAT (TL) AE2520
-EKLEM REKONSTRÜKSİYON, ÇEKİÇ PARMAK ORTA FALENGEAL KOMPONENT
+**SUT KODU TIBBİ MALZEME ALAN TANIMI**
+**FİYAT (TL) AE2520**
+**EKLEM REKONSTRÜKSİYON, ÇEKİÇ PARMAK ORTA FALENGEAL KOMPONENT**
 ÇELİK/TİTANYUM
-TÜM BOYLAR
-700,00 AE2530
-EKLEM REKONSTRÜKSİYON, ÇEKİÇ PARMAK ORTA VE PROKSİMAL FALENGEAL KOMPONENT KİT
+**TÜM BOYLAR**
+**700,00 AE2530**
+**EKLEM REKONSTRÜKSİYON, ÇEKİÇ PARMAK ORTA VE PROKSİMAL FALENGEAL KOMPONENT KİT**
 ÇELİK/TİTANYUM
-TÜM BOYLAR
-1.350,00 AE2540
-EKLEM REKONSTRÜKSİYON, ÇEKİÇ PARMAK PROKSİMALFALENGEAL KOMPONENT
+**TÜM BOYLAR**
+**1.350,00 AE2540**
+**EKLEM REKONSTRÜKSİYON, ÇEKİÇ PARMAK PROKSİMALFALENGEAL KOMPONENT**
 ÇELİK/TİTANYUM
-TÜM BOYLAR
-700,00
+**TÜM BOYLAR**
+**700,00**
 
 MADDE 24 – Aynı Tebliğin “Ortopedi ve Travmatoloji Branşı Travma ve Rekonstrüksiyon alan Grubuna Ait Tıbbi Malzemeler Listesi”nde (EK-3/F-4) yer alan “TV1820” ve “TV1830” SUT kodlu tıbbi malzemeler aşağıdaki şekilde yeniden düzenlenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI
-FİYAT (TL)
-OPERASYON BÖLGESİ CERRAHİ YAKLAŞIM BİÇİM ÜRÜN ÖZELLİĞİ BOYUTSAL ÖZELLİK ŞEKİLSEL ÖZELLİK MATERYAL BOY
-TV1820
-PLAKLAR VE VİDALAR İNTERNAL FİKSASYON KİLİTLİ PLAK SİSTEMLERİ
-KİLİTLİ KOMBİNE/KOMPRESYONDELİK, SABİT/DEĞİŞKEN AÇILI
-TÜM BOYLAR
-PEDİATRİK KAMALI, KANÜLLÜ/ KANÜLSÜZ PLAK ÇELİK
-TÜM BOYLAR
-720,00 TV1830
-PLAKLAR VE VİDALAR İNTERNAL FİKSASYON KİLİTLİ PLAK SİSTEMLERİ
-KİLİTLİ KOMBİNE/KOMPRESYON DELİK, SABİT/DEĞİŞKEN AÇILI
-TÜM BOYLAR
-PEDİATRİK KAMALI, KANÜLLÜ/ KANÜLSÜZ PLAK TİTANYUM/ CoCr/KARBON
-TÜM BOYLAR
-800,00
+**SUT KODU TIBBİ MALZEME ALAN TANIMI**
+**FİYAT (TL)**
+**OPERASYON BÖLGESİ CERRAHİ YAKLAŞIM BİÇİM ÜRÜN ÖZELLİĞİ BOYUTSAL ÖZELLİK ŞEKİLSEL ÖZELLİK MATERYAL BOY**
+**TV1820**
+**PLAKLAR VE VİDALAR İNTERNAL FİKSASYON KİLİTLİ PLAK SİSTEMLERİ**
+**KİLİTLİ KOMBİNE/KOMPRESYONDELİK, SABİT/DEĞİŞKEN AÇILI**
+**TÜM BOYLAR**
+**PEDİATRİK KAMALI, KANÜLLÜ/ KANÜLSÜZ PLAK ÇELİK**
+**TÜM BOYLAR**
+**720,00 TV1830**
+**PLAKLAR VE VİDALAR İNTERNAL FİKSASYON KİLİTLİ PLAK SİSTEMLERİ**
+**KİLİTLİ KOMBİNE/KOMPRESYON DELİK, SABİT/DEĞİŞKEN AÇILI**
+**TÜM BOYLAR**
+**PEDİATRİK KAMALI, KANÜLLÜ/ KANÜLSÜZ PLAK TİTANYUM/ CoCr/KARBON**
+**TÜM BOYLAR**
+**800,00**
 
 MADDE 25 – Aynı Tebliğin “Nefroloji Branşına Ait Tıbbi Malzemeler” Listesinde (EK-3/P) yer alan “NF1001” SUT kodlu tıbbi malzemenin fiyatı yeniden belirlenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI FİYAT
-(TL) NF1001 KATETER, HEMODİYALİZ, GEÇİCİ, ERİŞKİN / HEPARİN KAPLI 30,00
+**SUT KODU TIBBİ MALZEME ALAN TANIMI FİYAT**
+**(TL)** NF1001 KATETER, HEMODİYALİZ, GEÇİCİ, ERİŞKİN / HEPARİN KAPLI **30,00**
 
 MADDE 26 – Aynı Tebliğin “Göğüs Hastalıkları ve Göğüs Cerrahisi Branşlarına Ait Tıbbi Malzemeler Listesi”nde (EK-3/S) yer alan “GHC1850” SUT kodlu tıbbi malzemeden sonra gelmek üzere “GHC1860” SUT kodlu tıbbi malzeme geri ödeme kural ve kriterleri ile birlikte aşağıdaki şekilde eklenmiştir.
-SUT KODU TIBBİ MALZEME ALAN TANIMI
-FİYAT (TL) GHC1860 DİYAFRAGMATİK PACE- ELEKTROT ve UYGULAMA SETİ (Tüm malzemeler dahil) 50000,00
+**SUT KODU TIBBİ MALZEME ALAN TANIMI**
+**FİYAT (TL)** GHC1860 DİYAFRAGMATİK PACE- ELEKTROT ve UYGULAMA SETİ (Tüm malzemeler dahil) **50000,00**
 (1) Aşağıdaki geri ödeme kural ve kriterlerinin birlikte sağlandığı durumlarda Kurumca bedeli karşılanır.
 a) Sadece eğitim verme yetkisi olan üçüncü basamak resmi sağlık kurumları göğüs cerrahisi kliniklerinde,
 b)“Sağlık Bakanlığı Diyafragma Pili Bilimsel Danışma Komisyonu” tarafından onay verilen hastalarda kullanılması halinde Kurumca bedeli karşılanır.
@@ -257,9 +257,9 @@ MADDE 27 – Aynı Tebliğin “Anesteziyoloji, Reanimasyon ve Ağrı Tedavisi B
 (3) Yoğun bakım tanıya dayalı işlemlerinde ayrıca faturalandırılabilir.
 
 MADDE 28 – Aynı Tebliğ eki “Sistemik Antimikrobik ve Diğer İlaçların Reçeteleme Kuralları Listesi”nin (Ek-4/E) “11-ANTİVİRAL İLAÇLAR” başlıklı kısmının “A) HIV/AIDS Tedavisinde Kullanılan Spesifik İlaçlar” adlı alt bölümüne aşağıdaki (15) numaralı satır eklenmiştir.
-Dolutegravir EHU;
-HIV-1 ile enfekte ve integraz sınıfına dirençli olmayan hastalarda maksimum 1x1 dozunda;
-HIV-1 ile enfekte ve integraz sınıfına dirençli olan hastalarda ise maksimum 2x1 dozunda kullanılır.
+**Dolutegravir EHU;**
+**HIV-1 ile enfekte ve integraz sınıfına dirençli olmayan hastalarda maksimum 1x1 dozunda;**
+**HIV-1 ile enfekte ve integraz sınıfına dirençli olan hastalarda ise maksimum 2x1 dozunda kullanılır.**
 
 MADDE 29 – Aynı Tebliğ eki “Ayakta Tedavide Sağlık Raporu (Uzman Hekim Raporu/Sağlık Kurulu Raporu) ile Verilebilecek İlaçlar Listesi”nde (Ek-4/F) aşağıdaki düzenlemeler yapılmıştır.
 a) 58 numaralı maddesi aşağıdaki şekilde değiştirilmiştir.

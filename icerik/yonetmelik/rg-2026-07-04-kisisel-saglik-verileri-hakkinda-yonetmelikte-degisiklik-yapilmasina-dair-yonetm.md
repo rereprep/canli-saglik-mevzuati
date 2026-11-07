@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-KİŞİSEL SAĞLIK VERİLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**KİŞİSEL SAĞLIK VERİLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 21/6/2019 tarihli ve 30808 sayılı Resmî Gazete’de yayımlanan Kişisel Sağlık Verileri Hakkında Yönetmeliğin dördüncü bölümünün başlığı “Kişisel Sağlık Verilerinin Gizlenmesi, Düzeltilmesi, Yeniden Değerlendirilmesi, İmha Edilmesi ve Aktarılması” şeklinde değiştirilmiştir.
 

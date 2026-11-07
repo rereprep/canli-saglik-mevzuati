@@ -12,9 +12,9 @@ durum: "yürürlükte"
 ---
 
 Sağlık Bakanlığından:
-AİLE HEKİMLİĞİ UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**AİLE HEKİMLİĞİ UYGULAMA YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
-MADDE 1 – 25/1/2013 tarihli ve 28539 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Aile Hekimliği Uygulama Yönetmeliğinin 8 inci maddesinin birinci fıkrasının altıncı cümlesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 1 –** 25/1/2013 tarihli ve 28539 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Aile Hekimliği Uygulama Yönetmeliğinin 8 inci maddesinin birinci fıkrasının altıncı cümlesi aşağıdaki şekilde değiştirilmiştir.
 “Aile hekimi değişikliği kişilerin yazılı talebi üzerine hizmet almak istediği aile hekimince, ilgili toplum sağlığı merkezince veya elektronik ortamda kendilerince yapılır.”
 
 MADDE 2 – Aynı Yönetmeliğin 10 uncu maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.

@@ -27,9 +27,9 @@ Konu : Sözleşmeli Personel Alımı İle Aile Sağlığı
 
 DAĞITIM YERLERİNE
 
-663 sayılı Kanun Hükmünde Kararnamenin 45/A- maddesinin 1’inci fıkrasında yer alan “Bakanlık ve bağlı kuruluşları, merkez teşkilatları hariç olmak üzere ve öncelikle personel istihdamında güçlük çekilen yerlerde, 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası uyarınca ilgili mevzuatı gereği kura ile ataması öngörülenler dışında 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerde Sağlık
+663 sayılı Kanun Hükmünde Kararnamenin 45/A- maddesinin 1’inci fıkrasında yer alan “<i>Bakanlık ve</i> <i>bağlı kuruluşları, merkez teşkilatları hariç olmak üzere ve öncelikle personel istihdamında güçlük çekilen</i> <i>yerlerde, 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası uyarınca ilgili mevzuatı gereği</i> <i>kura ile ataması öngörülenler dışında 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerde Sağlık</i>
 
-Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı kapsamında yer alan unvanlarla vize edilmiş pozisyonlarda bu maddede öngörülen şartlarla sözleşmeli personel istihdam edebilir.” hükmü çerçevesinde sözleşmeli aile sağlığı çalışanı bulunmayan aile hekimliği birimlerine personel istihdamı için çalışmalar yapılmaktadır.
+<i>Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı kapsamında yer alan unvanlarla vize edilmiş pozisyonlarda bu</i> <i>maddede öngörülen şartlarla sözleşmeli personel istihdam edebilir.”</i> hükmü çerçevesinde sözleşmeli aile sağlığı çalışanı bulunmayan aile hekimliği birimlerine personel istihdamı için çalışmalar yapılmaktadır.
 
 Sağlık Bakanlığı Sözleşmeli Personel Alımı kapsamında yerleştirme yapılan ve sözleşmeli/görevlendirmeli olarak görev yapılan AHB’lerin tabloya eklenmemesi gerekmektedir.
 

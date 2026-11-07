@@ -13,13 +13,13 @@ durum: "yürürlükte"
 
 ### HUSUSİ HASTANELER KANUNU
 
-Kanun Numarası : 2219
+**Kanun Numarası : 2219**
 
-Kabul Tarihi : 24/5/1933
+**Kabul Tarihi : 24/5/1933**
 
-Yayımlandığı Resmî Gazete : Tarih: 5/6/1933 Sayı: 2419
+**Yayımlandığı Resmî Gazete : Tarih: 5/6/1933 Sayı: 2419**
 
-Yayımlandığı Düstur : Tertip: 3 Cilt: 14 Sayfa: 275
+**Yayımlandığı Düstur : Tertip: 3 Cilt: 14 Sayfa: 275**
 
 ### BİRİNCİ FASIL
 
@@ -189,16 +189,16 @@ Tedavisini üstüne aldığı hastaları, yerine vekil bırakmadan izinsiz olara
 | 6514 | 35, 45 | 18/1/2014 |
 | KHK/700 | 2, 13, 17, 21, 29, 33 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 
-<small>[1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “kanunlarına ve nizamname ve şartnamelerine” ve “kanun ve nizamname ve talimatnamelerine” ibareleri “mevzuatına” şeklinde değiştirilmiştir.</small>
+<small>[1] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “kanunlarına ve nizamname ve şartnamelerine” ve “kanun ve nizamname ve talimatnamelerine” ibareleri “mevzuatına” şeklinde değiştirilmiştir.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] 2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</small>
+<small>[4] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[5] 2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</small>
+<small>[5] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[6] 2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “kanuna ve nizamnameye” ibaresi “mevzuata” şeklinde değiştirilmiştir.</small>
+<small>[6] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 11 inci maddesiyle, bu maddede yer alan “kanuna ve nizamnameye” ibaresi “mevzuata” şeklinde değiştirilmiştir.</i></small>
 
-<small>[7] 24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle; 40 ıncı maddede yer alan "on beş günden üç aya kadar hafif hapis cezasile" ibaresi, "seksenyedimilyon lira idarî para cezasıyla"; 41 inci maddede yer alan "yüz liradan iki yüz liraya kadar hafif para cezası" ibaresi, "yüzyetmişdörtmilyon lira idarî para cezası"; 42 nci maddesinde yer alan "iki yüz liradan beş yüz liraya kadar ağır para cezası" ibaresi, "üçyüzkırkyedimilyon lira idarî para cezası" olarak 6/5/2003 tarihinden geçerli olmak üzere değiştirilmiştir. Daha sonra 23/1/2008 tarihli ve 5728 sayılı Kanunun 71 inci maddesiyle; 40 ıncı maddede yer alan “müdürler seksenyedimilyon lira idarî para cezasıyla cezalandırılır.” ibaresi “müdürlere bin Türk Lirası idarî para cezası verilir.”şeklinde, aynı Kanunun 72 nci maddesiyle; 41 inci maddede yer alan “müdürlerinden yüzyetmişdörtmilyon lira idarî para cezası alınır.” ibaresi, “müdürlerine ikibin Türk Lirası idarî para cezası verilir.” şeklinde değiştirilmiştir.</small>
+<small>[7] <i>24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle; 40 ıncı maddede yer alan "on beş günden üç aya kadar hafif hapis cezasile" ibaresi, "seksenyedimilyon lira idarî para cezasıyla"; 41 inci maddede yer alan "yüz liradan iki yüz liraya kadar hafif para cezası" ibaresi, "yüzyetmişdörtmilyon lira idarî para cezası"; 42 nci maddesinde yer alan "iki yüz liradan beş yüz liraya kadar ağır para cezası" ibaresi, "üçyüzkırkyedimilyon lira idarî para cezası" olarak 6/5/2003 tarihinden geçerli olmak üzere değiştirilmiştir. Daha sonra 23/1/2008 tarihli ve 5728 sayılı Kanunun 71 inci maddesiyle; 40 ıncı maddede yer alan “müdürler seksenyedimilyon lira idarî para cezasıyla cezalandırılır.” ibaresi “müdürlere bin Türk Lirası idarî para cezası verilir.”şeklinde, aynı Kanunun 72 nci maddesiyle; 41 inci maddede yer alan “müdürlerinden yüzyetmişdörtmilyon lira idarî para cezası alınır.” ibaresi, “müdürlerine ikibin Türk Lirası idarî para cezası verilir.” şeklinde değiştirilmiştir.</i></small>

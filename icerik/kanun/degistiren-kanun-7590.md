@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2026/07/20260731-2.htm"
 durum: "yürürlükte"
 ---
 
-KANUN BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7590 Kabul Tarihi: 24/7/2026
+**KANUN BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7590 **Kabul Tarihi: 24/7/2026**
 
 MADDE 1- 1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununa ekli
 (2) sayılı tablonun “IV- Ticari ve medeni işlerle ilgili kağıtlar” başlıklı bölümüne aşağıdaki fıkra eklenmiştir.

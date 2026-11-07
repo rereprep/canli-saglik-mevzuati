@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+**Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar**
 
 #### Amaç
 
@@ -45,11 +45,11 @@ c) Denetim ekibi: En az biri ilkyardım eğitmeni yetki belgeli eğitmen olmak �
 
 ç) Genel Müdürlük: Acil Sağlık Hizmetleri Genel Müdürlüğünü,
 
-d) (Değişik:RG-27/8/2020-31226) İlkyardım: Ani olarak ortaya çıkan hastalık veya yaralanma durumunda; kişinin hayatını korumak, sağlık durumunun kötüleşmesini önlemek ve iyileşmesine destek olmak amacıyla olay yerindeki mevcut imkânlarla yapılan hızlı ve etkili müdahaleleri,
+d) **(Değişik:RG-27/8/2020-31226)** İlkyardım: Ani olarak ortaya çıkan hastalık veya yaralanma durumunda; kişinin hayatını korumak, sağlık durumunun kötüleşmesini önlemek ve iyileşmesine destek olmak amacıyla olay yerindeki mevcut imkânlarla yapılan hızlı ve etkili müdahaleleri,
 
-e) (Değişik:RG-27/8/2020-31226) İlkyardımcı: Bakanlıkça belirlenen standartlara uygun eğitimi alarak, verilen eğitim çerçevesinde uygulamalar yapabilen ilkyardımcı belgesi sahibi olan kişiyi,
+e) **(Değişik:RG-27/8/2020-31226)** İlkyardımcı: Bakanlıkça belirlenen standartlara uygun eğitimi alarak, verilen eğitim çerçevesinde uygulamalar yapabilen ilkyardımcı belgesi sahibi olan kişiyi,
 
-f) (Değişik:RG-27/12/2025-33120) İlkyardım eğitici eğitmeni: Sağlık alanında en az ön lisans düzeyinde öğrenim görmüş, en az 1 yıllık ilkyardım eğitmeni yetki belgesine sahip ve en az 10 yetki belgeli ilkyardım eğitimi verdiğini belgelendiren eğitmenlerden, Genel Müdürlükçe düzenlenen eğitici eğitmeni eğitim programına katılarak yetki belgesi almış kişiyi,
+f) **(Değişik:RG-27/12/2025-33120)** İlkyardım eğitici eğitmeni: Sağlık alanında en az ön lisans düzeyinde öğrenim görmüş, en az 1 yıllık ilkyardım eğitmeni yetki belgesine sahip ve en az 10 yetki belgeli ilkyardım eğitimi verdiğini belgelendiren eğitmenlerden, Genel Müdürlükçe düzenlenen eğitici eğitmeni eğitim programına katılarak yetki belgesi almış kişiyi,
 
 g) İlkyardım eğitimi: İlkyardım eğitimcileri tarafından Bakanlıkça onaylanmış müfredatlar ile verilen eğitimi,
 
@@ -59,11 +59,11 @@ h) Merkez: İlkyardım eğitimi ve/veya ilkyardım eğitici eğitimi vermek amac
 
 ı) Merkez yetkilileri: Merkezin yasal sahiplerini,
 
-i) (Değişik:RG-27/12/2025-33120) Mesul müdür: Sağlık alanında en az ön lisans düzeyinde öğrenim görmüş ilkyardım eğitmeni yetki belgesine sahip ve yetki belgeli en az 10 ilkyardım eğitimi vermiş kişiyi,
+i) **(Değişik:RG-27/12/2025-33120)** Mesul müdür: Sağlık alanında en az ön lisans düzeyinde öğrenim görmüş ilkyardım eğitmeni yetki belgesine sahip ve yetki belgeli en az 10 ilkyardım eğitimi vermiş kişiyi,
 
 j) Müdürlük: İl Sağlık Müdürlüklerini,
 
-k) (Değişik ibare:RG-27/12/2025-33120) Sınav gözetmeni: Genel Müdürlükte, müdürlüğün acil sağlık hizmetlerinden sorumlu başkanlığına bağlı birimlerinde ve ilçe sağlık müdürlüklerinde fiilen görev yapan yetki belgeli ilkyardım eğitmeni ve ilkyardım eğitici eğitmenini,
+k) **(Değişik ibare:RG-27/12/2025-33120)** Sınav gözetmeni: Genel Müdürlükte, müdürlüğün acil sağlık hizmetlerinden sorumlu başkanlığına bağlı birimlerinde ve ilçe sağlık müdürlüklerinde fiilen görev yapan yetki belgeli ilkyardım eğitmeni ve ilkyardım eğitici eğitmenini,
 
 l) Sınav gözetmen ekibi: En az iki kişilik sınav gözetmeninden oluşan ekibi,
 
@@ -73,7 +73,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Merkezlerinin Özellikleri ile Merkez Açma ve Kapama İşlemleri
+**Merkezlerinin Özellikleri ile Merkez Açma ve Kapama İşlemleri**
 
 #### Merkez açma yetkisi bulunanlar
 
@@ -89,7 +89,7 @@ Merkezlerinin Özellikleri ile Merkez Açma ve Kapama İşlemleri
 
 #### Eğitim salonu özellikleri
 
-**MADDE 6 –** (1) İlkyardım eğitimi, (Mülga ibare:RG-27/8/2020-31226) (…) katılımcıların tamamının birbirlerini görebilmeleri için masa ve sandalyelerin ‘U’ şeklinde düzenlendiği, orta kısımda uygulamaların yapılabilmesine imkân veren en az 20 metrekarelik eğitim salonu bulunan, idare odası, eğitmen odası, lavabo, tuvalet ve katılımcıların dinlenme alanının bulunduğu, kişi başına asgari 3,5 metre kare kullanım alanı olan mekanlarda verilir.
+**MADDE 6 –** (1) İlkyardım eğitimi, **(Mülga ibare:RG-27/8/2020-31226)** (…) katılımcıların tamamının birbirlerini görebilmeleri için masa ve sandalyelerin ‘U’ şeklinde düzenlendiği, orta kısımda uygulamaların yapılabilmesine imkân veren en az 20 metrekarelik eğitim salonu bulunan, idare odası, eğitmen odası, lavabo, tuvalet ve katılımcıların dinlenme alanının bulunduğu, kişi başına asgari 3,5 metre kare kullanım alanı olan mekanlarda verilir.
 
 (2) Merkezler eğitimlerini, yukarıdaki eğitim salonu özelliklerini taşıması şartı ve Müdürlüğün onayı ile aynı il sınırları içinde diğer uygun yerlerde de verebilirler.
 
@@ -121,9 +121,9 @@ g) Merkez sahibi veya mesul müdür tarafından imzalanmış araç, gereç ve ma
 
 h) İlgili mevzuata göre, yangına karşı gereken tedbirlerin alındığına dair yetkili mercilerden alınan belge.
 
-ı) (Ek:RG-27/8/2020-31226) (Mülga:RG-27/12/2025-33120)
+ı) **(Ek:RG-27/8/2020-31226) (Mülga:RG-27/12/2025-33120)**
 
-(2) (Değişik:RG-27/8/2020-31226) Kamu kurum ve kuruluşlarında açılacak ilkyardım eğitim merkezleri, birinci fıkranın (a), (ç), (d), (e), (f), (g), (ğ) ve (ı) bentlerinde belirtilen belgeler ile müdürlüğe başvuru yapar.
+(2) **(Değişik:RG-27/8/2020-31226)** Kamu kurum ve kuruluşlarında açılacak ilkyardım eğitim merkezleri, birinci fıkranın (a), (ç), (d), (e), (f), (g), (ğ) ve (ı) bentlerinde belirtilen belgeler ile müdürlüğe başvuru yapar.
 
 #### İlkyardım eğitici eğitim merkezi açma başvuru işlemleri
 
@@ -135,7 +135,7 @@ b) Görev yapacak eğitici eğitmenlerinin, ilkyardım eğitici eğitmeni yetki 
 
 c) İlkyardım uygulamaları kitabı, ilkyardım eğitim becerileri kitabı ve sunum CD’leri.
 
-ç) (Ek:RG-27/8/2020-31226) (Mülga:RG-27/12/2025-33120)
+ç) **(Ek:RG-27/8/2020-31226) (Mülga:RG-27/12/2025-33120)**
 
 (2) İlkyardım eğitim merkezi bünyesinde ilkyardım eğitici eğitim merkezi açılacak ise; açılış işlemleri ile ilgili (b) ve (c) bentlerine ilaveten ilkyardım eğitim merkezinde çalışmakta olan mesul müdürün mesul müdürlük belgesi, eğitici eğitmenlerinin kimlik örneği ile çalışmak istediğini beyan eden dilekçesi ve ilkyardım eğitim merkezi adına hazırlanmış yetki belgesinin bir örneği ile müdürlüğe başvuru yapar.
 
@@ -153,7 +153,7 @@ c) İlkyardım eğitici eğitimi yetki belgesinin iptali için; belgenin aslı m
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Başvurunun Değerlendirilmesi ve Müdürlüğün Görev ve Sorumlulukları
+**Başvurunun Değerlendirilmesi ve Müdürlüğün Görev ve Sorumlulukları**
 
 #### Başvurunun değerlendirilmesi
 
@@ -181,7 +181,7 @@ c) Başvurusu uygun bulunan ilkyardım eğitim merkezleri için yetki belgesi d�
 
 d) Sınavlarda, her 21 (yirmibir) kişiye 1 (bir) sınav gözetmen ekibi olacak şekilde görevlendirme yapmak,
 
-e) (Değişik:RG-27/8/2020-31226) Müdürlükte gözetmen olarak görev yapacakların listesini hazırlamak, listeden sıra ile gözetmen görevlendirmek,
+e) **(Değişik:RG-27/8/2020-31226)** Müdürlükte gözetmen olarak görev yapacakların listesini hazırlamak, listeden sıra ile gözetmen görevlendirmek,
 
 f) Özel bir merkezde eğitmenlik yapanları denetmen ya da gözetmen olarak görevlendirmemek,
 
@@ -193,7 +193,7 @@ h) Merkez tarafından gönderilen ilkyardım eğitimi ve ilkyardım eğitici eğ
 
 ı) Müdürlükçe düzenlenen ilkyardım eğitimi ve ilkyardım eğitici eğitimine ait kayıtları tutmak (Ek- 6a ve Ek-6b),
 
-i) Merkezler tarafından hazırlanarak gönderilen tüm kayıtları tutmak (Ek- 6a), (Ek-6b), (Ek-6c), (Mülga ibare:RG-27/12/2025-33120) (Ek-6e),
+i) Merkezler tarafından hazırlanarak gönderilen tüm kayıtları tutmak (Ek- 6a), (Ek-6b), (Ek-6c), **(Mülga ibare:RG-27/12/2025-33120)** (Ek-6e),
 
 j) İlkyardım eğitmeni yetki belgesini onaylamak, güncelleme ile ilgili işlemleri yapmak,
 
@@ -203,7 +203,7 @@ l) Merkezlere ait eğitim kitabı ve sunum CD sini inceleyerek uygun olanları o
 
 m) Kapatma işlemleri tamamlanan merkezlere, kapanma işlemlerinin tamamlandığını resmi yazı ile en geç on beş gün içinde bildirmek.
 
-(2) (Değişik:RG-27/8/2020-31226) Bu görevleri acil sağlık hizmetlerinden sorumlu başkanlık yürütür.
+(2) **(Değişik:RG-27/8/2020-31226)** Bu görevleri acil sağlık hizmetlerinden sorumlu başkanlık yürütür.
 
 #### Sınav gözetmen ekibinin sorumlulukları
 
@@ -223,13 +223,13 @@ e) Merkez eğitmenlerince yapılan uygulamalı sınavlarda gözetmen olarak bulu
 
 f) Yapılan sınav türüne uygun tutanak formunu (Ek-7a veya Ek-7b) tutmak, bir nüshasını merkeze, bir nüshasını müdürlüğe teslim etmek.
 
-(2) (Ek:RG-27/12/2025-33120) Sınav gözetmen ekibinde görev almak üzere dilekçe veren ilkyardım eğitmenleri, müdürlüğün düzenlediği en az 3 yetki belgeli ilkyardım eğitiminde görev aldıktan sonra sınav gözetmenliği yapabilir.
+(2) **(Ek:RG-27/12/2025-33120)** Sınav gözetmen ekibinde görev almak üzere dilekçe veren ilkyardım eğitmenleri, müdürlüğün düzenlediği en az 3 yetki belgeli ilkyardım eğitiminde görev aldıktan sonra sınav gözetmenliği yapabilir.
 
-(3) (Ek:RG-27/12/2025-33120) Müdürlük tarafından verilen eğitimlerde eğitmen olarak görevlendirilen ilkyardım eğitmeni/eğitici eğitmeni, eğitimlere bir takvim yılı içerisinde 3 kez katılmaması durumunda 1 yıl süreyle sınav gözetmenliğinden çıkarılır.
+(3) **(Ek:RG-27/12/2025-33120)** Müdürlük tarafından verilen eğitimlerde eğitmen olarak görevlendirilen ilkyardım eğitmeni/eğitici eğitmeni, eğitimlere bir takvim yılı içerisinde 3 kez katılmaması durumunda 1 yıl süreyle sınav gözetmenliğinden çıkarılır.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Merkezlerin Çalışma Esasları ve Personel Standartları
+**Merkezlerin Çalışma Esasları ve Personel Standartları**
 
 #### Eğitmen sayısı
 
@@ -265,7 +265,7 @@ g) İlkyardım eğitmeni, eğitici eğitmeni ve merkezin adres değişikliklerin
 
 ğ) Merkezde çalışması sonlanan eğitimcilerin çalışma izin belgelerini bir hafta içerisinde müdürlüğe iade etmek.
 
-h) Düzenlenen eğitimlerin kayıtlarını tutmak ve müdürlüğe göndermek (Ek- 6a), (Ek-6b), (Ek-6c), (Mülga ibare:RG-27/12/2025-33120) (Ek-6e).
+h) Düzenlenen eğitimlerin kayıtlarını tutmak ve müdürlüğe göndermek (Ek- 6a), (Ek-6b), (Ek-6c), **(Mülga ibare:RG-27/12/2025-33120)** (Ek-6e).
 
 ı) Kayıtların bir örneğini on yıl süre ile saklamak.
 
@@ -333,9 +333,9 @@ bulundurması zorunludur.
 
 ### BEŞİNCİ BÖLÜM
 
-Eğitim Standartları ve Süreleri, Eğitim Konuları, Yeterlilik,
+**Eğitim Standartları ve Süreleri, Eğitim Konuları, Yeterlilik,**
 
-Belge/Yetki Belgesi, Ücretler
+**Belge/Yetki Belgesi, Ücretler**
 
 #### Eğitim süreleri ve standartları
 
@@ -361,11 +361,11 @@ olarak düzenlenir.
 
 **MADDE 21 –** (1) Eğitim konuları, ulusal ve uluslararası standartlar doğrultusunda Genel Müdürlük tarafından belirlenir.
 
-(2) (Değişik:RG-27/8/2020-31226) Eğitimlerin içeriği;
+(2) **(Değişik:RG-27/8/2020-31226)** Eğitimlerin içeriği;
 
-a) İlkyardım eğitimi; genel (Değişik ibare:RG-27/12/2025-33120) ilkyardım bilgileri, vücut sistemleri , temel yaşam desteği, OED kullanımı, havayolu tıkanıklığında ilkyardım, bilinç bozukluklarında ilkyardım, kanamalar, şok ve göğüs ağrısında ilkyardım, yaralanmalarda ilkyardım, boğulmalarda ilkyardım, kırık, çıkık, burkulmalarda ilkyardım, acil taşıma teknikleri, böcek sokmaları ve hayvan ısırıklarında ilkyardım, zehirlenmelerde ilkyardım, yanık, donma ve sıcak çarpmalarında ilkyardım, göz, kulak ve buruna yabancı cisim kaçmasında ilkyardım,
+a) İlkyardım eğitimi; genel **(Değişik ibare:RG-27/12/2025-33120)** ilkyardım bilgileri, vücut sistemleri , temel yaşam desteği, OED kullanımı, havayolu tıkanıklığında ilkyardım, bilinç bozukluklarında ilkyardım, kanamalar, şok ve göğüs ağrısında ilkyardım, yaralanmalarda ilkyardım, boğulmalarda ilkyardım, kırık, çıkık, burkulmalarda ilkyardım, acil taşıma teknikleri, böcek sokmaları ve hayvan ısırıklarında ilkyardım, zehirlenmelerde ilkyardım, yanık, donma ve sıcak çarpmalarında ilkyardım, göz, kulak ve buruna yabancı cisim kaçmasında ilkyardım,
 
-b) Temel yaşam desteği (Ek ibare:RG-27/12/2025-33120) ve OED kullanımı eğitimi; erişkinlerde, çocuklarda ve bebeklerde temel yaşam desteği,
+b) Temel yaşam desteği **(Ek ibare:RG-27/12/2025-33120)** ve OED kullanımı eğitimi; erişkinlerde, çocuklarda ve bebeklerde temel yaşam desteği,
 
 c) Afetlerde ilkyardım eğitimi; genel ilkyardım bilgileri, temel yaşam desteği, kanamalarda ilkyardım, kırık-çıkık-burkulmalarda ilkyardım ve acil taşıma teknikleri,
 
@@ -375,17 +375,17 @@ d) İlkyardım eğitici eğitmeni eğitimi; eğitim programı oluşturma süreci
 
 konularını kapsar.
 
-(3) (Değişik:RG-27/8/2020-31226) (Mülga:RG-27/12/2025-33120)
+(3) **(Değişik:RG-27/8/2020-31226) (Mülga:RG-27/12/2025-33120)**
 
-(4) Güncelleme eğitimleri, bilgi ve becerilerin güncel tutulması amacı ile almış olduğu yetki belgesinin geçerlilik (Değişik ibare:RG-27/12/2025-33120) süresinin bitiminden önceki 3 ay içinde , alınan eğitimin yarısı olacak şekilde düzenlenir. (Mülga cümle:RG-27/12/2025-33120)
+(4) Güncelleme eğitimleri, bilgi ve becerilerin güncel tutulması amacı ile almış olduğu yetki belgesinin geçerlilik **(Değişik ibare:RG-27/12/2025-33120)** süresinin bitiminden önceki 3 ay içinde , alınan eğitimin yarısı olacak şekilde düzenlenir. **(Mülga cümle:RG-27/12/2025-33120)**
 
-(5) (Mülga:RG-27/12/2025-33120)
+(5) **(Mülga:RG-27/12/2025-33120)**
 
 (6) Genel Müdürlük, gerekli görülen hallerde bu Yönetmelikte belirtilen eğitimler, eğitim konuları ve eğitimde kullanılacak malzeme, araç ve gereçler listesinde güncelleme yapabilir. Söz konusu değişiklikler Genel Müdürlükçe duyurulur.
 
 #### Yeterlilik
 
-**MADDE 22 –** (1) İlkyardımcı olacak kişilerin en az ilkokul (Ek ibare:RG-27/8/2020-31226) veya ilköğretim okulu mezunu olması zorunludur.
+**MADDE 22 –** (1) İlkyardımcı olacak kişilerin en az ilkokul **(Ek ibare:RG-27/8/2020-31226)** veya ilköğretim okulu mezunu olması zorunludur.
 
 (2) Katılımcıların, eğitim süresinin tamamına devam etmesi zorunludur.
 
@@ -395,35 +395,35 @@ konularını kapsar.
 
 (5) Sınavlarda başarılı olamayan katılımcılar bir ay içerisinde tekrar sınava tabi tutulurlar. İki defa sınava girmesine rağmen başarısız olan katılımcılara yetki belgesi verilmez. Kişinin talebi olur ise merkez tarafından kursa katıldığına dair yazı verilir. İki sınavda başarısız olan katılımcı yeniden eğitime katılır.
 
-(6) Teorik sınav soruları, (Değişik ibare:RG-27/12/2025-33120) Genel Müdürlük tarafından oluşturulan soru havuzundan (Değişik ibare:RG-27/12/2025-33120) müdürlükçe belirlenir.
+(6) Teorik sınav soruları, **(Değişik ibare:RG-27/12/2025-33120)** Genel Müdürlük tarafından oluşturulan soru havuzundan **(Değişik ibare:RG-27/12/2025-33120)** müdürlükçe belirlenir.
 
-(7) (Değişik:RG-27/12/2025-33120) Uygulama sınavları; temel yaşam desteği, hava yolu tıkanıklığı ve araç içinden yaralı çıkarma konuları mutlaka olmak kaydıyla beceri gerektiren en az 2 konu daha sınav gözetmeni tarafından seçilerek ilkyardım uygulamaları beceri rehberleri ile Ek-7a esas alınarak yapılır.
+(7) **(Değişik:RG-27/12/2025-33120)** Uygulama sınavları; temel yaşam desteği, hava yolu tıkanıklığı ve araç içinden yaralı çıkarma konuları mutlaka olmak kaydıyla beceri gerektiren en az 2 konu daha sınav gözetmeni tarafından seçilerek ilkyardım uygulamaları beceri rehberleri ile Ek-7a esas alınarak yapılır.
 
-(8) (Mülga:RG-27/8/2020-31226)
+(8) **(Mülga:RG-27/8/2020-31226)**
 
 (9) Teorik ve uygulamalı sınavlar aynı gün içerisinde; hafta sonu veya mesai saatleri dışında olmak üzere müdürlükçe belirlenen tarihlerde yapılır.
 
-(10) (Değişik:RG-27/8/2020-31226) Sınavlar, eğitimin sona erdiği tarihi takip eden günden itibaren otuz gün içinde yapılır. Mücbir sebep veya tabiî afet veya tehlikeli salgın hastalık gibi olağanüstü hâllerde bu süre, müdürlükçe mücbir sebep veya olağanüstü hâlin ortadan kalkmasından itibaren bir ay uzatılabilir.
+(10) **(Değişik:RG-27/8/2020-31226)** Sınavlar, eğitimin sona erdiği tarihi takip eden günden itibaren otuz gün içinde yapılır. Mücbir sebep veya tabiî afet veya tehlikeli salgın hastalık gibi olağanüstü hâllerde bu süre, müdürlükçe mücbir sebep veya olağanüstü hâlin ortadan kalkmasından itibaren bir ay uzatılabilir.
 
 #### İlkyardımcı belgesi/yetki belgesi
 
 **MADDE 23 –** (1) İlkyardımcı belgesi/yetki belgeleri:
 
-a) İlkyardımcı belgesinin geçerlilik süresi üç yıldır. Geçerlilik süresinin (Değişik ibare:RG-27/12/2025-33120) bitiminden önceki 3 (üç) ay içerisinde güncelleme eğitimi alınması zorunludur. Belirtilen süreler içinde güncelleme eğitimine katılanların belgeleri yenilenir, katılmayanların belgeleri geçersiz sayılır.
+a) İlkyardımcı belgesinin geçerlilik süresi üç yıldır. Geçerlilik süresinin **(Değişik ibare:RG-27/12/2025-33120)** bitiminden önceki 3 (üç) ay içerisinde güncelleme eğitimi alınması zorunludur. Belirtilen süreler içinde güncelleme eğitimine katılanların belgeleri yenilenir, katılmayanların belgeleri geçersiz sayılır.
 
-b) İlkyardım eğitmeni yetki belgelerinin geçerlilik süresi beş yıldır. Geçerlilik süresi biten yetki belgesi sahiplerinin, belge geçerlilik süresi içinde en az 15 eğitim (belgeli/yetki belgeli) verdiklerini belgelemeleri durumunda, güncelleme veya eğitim tekrarına gerek kalmadan belgeleri yenilenir. Eğitim vermeyen yetki belgesi sahiplerinin belge geçerlilik süresinin (Değişik ibare:RG-27/12/2025-33120) bitiminden önceki üç ay içerisinde güncelleme eğitimi alması zorunludur. Güncelleme eğitimi almayanların yetki belgeleri geçersiz sayılır.
+b) İlkyardım eğitmeni yetki belgelerinin geçerlilik süresi beş yıldır. Geçerlilik süresi biten yetki belgesi sahiplerinin, belge geçerlilik süresi içinde en az 15 eğitim (belgeli/yetki belgeli) verdiklerini belgelemeleri durumunda, güncelleme veya eğitim tekrarına gerek kalmadan belgeleri yenilenir. Eğitim vermeyen yetki belgesi sahiplerinin belge geçerlilik süresinin **(Değişik ibare:RG-27/12/2025-33120)** bitiminden önceki üç ay içerisinde güncelleme eğitimi alması zorunludur. Güncelleme eğitimi almayanların yetki belgeleri geçersiz sayılır.
 
-c) İlkyardım eğitimci eğitmeni yetki belgelerinin geçerlilik süresi beş yıldır. Geçerlilik süresi biten yetki belgesi sahiplerinin, belge geçerlilik süresi içinde en az 5 eğitim (belgeli/yetki belgeli) verdiklerini belgelemeleri durumunda, güncelleme veya eğitim tekrarına gerek kalmadan belgeleri yenilenir. Eğitim vermeyen yetki belgesi sahiplerinin belge geçerlilik süresinin (Değişik ibare:RG-27/12/2025-33120) bitiminden önceki üç ay içerisinde güncelleme eğitimi alması zorunludur. Güncelleme eğitimi almayanların yetki belgeleri geçersiz sayılır.
+c) İlkyardım eğitimci eğitmeni yetki belgelerinin geçerlilik süresi beş yıldır. Geçerlilik süresi biten yetki belgesi sahiplerinin, belge geçerlilik süresi içinde en az 5 eğitim (belgeli/yetki belgeli) verdiklerini belgelemeleri durumunda, güncelleme veya eğitim tekrarına gerek kalmadan belgeleri yenilenir. Eğitim vermeyen yetki belgesi sahiplerinin belge geçerlilik süresinin **(Değişik ibare:RG-27/12/2025-33120)** bitiminden önceki üç ay içerisinde güncelleme eğitimi alması zorunludur. Güncelleme eğitimi almayanların yetki belgeleri geçersiz sayılır.
 
-ç) Güncelleme eğitimine katılan kişilere ait yetki belgeleri belge (Ek ibare:RG-27/12/2025-33120) geçerlilik tarihinden itibaren geçerlilik süresi kadar uzatılır.
+ç) Güncelleme eğitimine katılan kişilere ait yetki belgeleri belge **(Ek ibare:RG-27/12/2025-33120)** geçerlilik tarihinden itibaren geçerlilik süresi kadar uzatılır.
 
 d) İlkyardım eğitimci eğitmeni yetki belgesi sahipleri, ilkyardım eğitmeni yetki belgesi sahibi sayılırlar.
 
-e) (Değişik:RG-27/8/2020-31226) Ek-3a ve Ek-3c’de yer alan ilkyardımcı belgesi/yetki belgesi; merkez veya müdürlük, (Değişik ibare:RG-27/12/2025-33120) Ek-3f ve Ek-3g’de yer alan belgeler ise merkez tarafından hazırlanır. Ek-3b’de yer alan ilkyardımcı kimlik belgesi, eğitimi veren merkez tarafından düzenlenir ve müdürlükçe onaylanır.
+e) **(Değişik:RG-27/8/2020-31226)** Ek-3a ve Ek-3c’de yer alan ilkyardımcı belgesi/yetki belgesi; merkez veya müdürlük, **(Değişik ibare:RG-27/12/2025-33120)** Ek-3f ve Ek-3g’de yer alan belgeler ise merkez tarafından hazırlanır. Ek-3b’de yer alan ilkyardımcı kimlik belgesi, eğitimi veren merkez tarafından düzenlenir ve müdürlükçe onaylanır.
 
 f) Merkezler kendi hazırladıkları ilkyardımcı belgesi ile eğitmen yetki belgesinde, Bakanlık logosu ile birlikte kendi logosunu da kullanabilir.
 
-g) (Ek:RG-27/8/2020-31226) (a), (b) ve (c) bentlerinde geçen güncelleme eğitimlerinin mücbir sebep veya olağanüstü hâl nedeniyle yapılamaması halinde, Genel Müdürlük onayı ile söz konusu eğitimler bu durumların ortadan kalkmasından itibaren üç ay içinde yapılır. Bu süre zarfında yetki belgeleri geçerli olmaya devam eder.
+g) **(Ek:RG-27/8/2020-31226)** (a), (b) ve (c) bentlerinde geçen güncelleme eğitimlerinin mücbir sebep veya olağanüstü hâl nedeniyle yapılamaması halinde, Genel Müdürlük onayı ile söz konusu eğitimler bu durumların ortadan kalkmasından itibaren üç ay içinde yapılır. Bu süre zarfında yetki belgeleri geçerli olmaya devam eder.
 
 #### Merkezlerin çalışma saatleri ve eğitim planları
 
@@ -439,7 +439,7 @@ g) (Ek:RG-27/8/2020-31226) (a), (b) ve (c) bentlerinde geçen güncelleme eğiti
 
 #### Ücretler
 
-**MADDE 25 –** (1) (Değişik:RG-27/12/2025-33120) Ücret tespit komisyonunca Ek-9’da yer alan konulara ait ücretler belirlenir. Komisyon, merkezlerin hazır bulunan mesul müdürü veya bir temsilcisi, il ticaret odasından bir temsilci, acil sağlık hizmetlerinden sorumlu başkan/başkan yardımcısı ve müdürlükte ilkyardım ile ilgili iş ve işlemleri yürüten ilkyardım eğitmeni/eğitici eğitmeninden oluşur. Komisyona, il sağlık müdürü veya görevlendireceği acil sağlık hizmetlerinden sorumlu başkan/başkan yardımcısı başkanlık eder. Merkezlere, komisyon toplantısına katılımları hakkında yazılı bildirim yapılır. Komisyonun karar alabilmesi için; fiyat endeksleri, yerel koşullar, emsal ücretler ve benzerleri değerlendirilerek ücretler tespit edilir. Komisyonca tespit edilen ücretler ve alınan kararlar il sağlık müdürü tarafından imzalanarak, onaylanmak üzere Genel Müdürlüğe gönderilir. Genel Müdürlükçe uygun bulunmayan ücretler ve kararlar bu madde hükümlerine göre kurulacak komisyonca yeniden değerlendirilmek üzere müdürlüğe gönderilir.
+**MADDE 25 –** (1) **(Değişik:RG-27/12/2025-33120)** Ücret tespit komisyonunca Ek-9’da yer alan konulara ait ücretler belirlenir. Komisyon, merkezlerin hazır bulunan mesul müdürü veya bir temsilcisi, il ticaret odasından bir temsilci, acil sağlık hizmetlerinden sorumlu başkan/başkan yardımcısı ve müdürlükte ilkyardım ile ilgili iş ve işlemleri yürüten ilkyardım eğitmeni/eğitici eğitmeninden oluşur. Komisyona, il sağlık müdürü veya görevlendireceği acil sağlık hizmetlerinden sorumlu başkan/başkan yardımcısı başkanlık eder. Merkezlere, komisyon toplantısına katılımları hakkında yazılı bildirim yapılır. Komisyonun karar alabilmesi için; fiyat endeksleri, yerel koşullar, emsal ücretler ve benzerleri değerlendirilerek ücretler tespit edilir. Komisyonca tespit edilen ücretler ve alınan kararlar il sağlık müdürü tarafından imzalanarak, onaylanmak üzere Genel Müdürlüğe gönderilir. Genel Müdürlükçe uygun bulunmayan ücretler ve kararlar bu madde hükümlerine göre kurulacak komisyonca yeniden değerlendirilmek üzere müdürlüğe gönderilir.
 
 (2) Her yılın ocak ayı başından şubat ayı sonuna kadar ücret tespit komisyonu toplanır. Ücret tespitleri yıllık olarak yapılır.
 
@@ -451,7 +451,7 @@ g) (Ek:RG-27/8/2020-31226) (a), (b) ve (c) bentlerinde geçen güncelleme eğiti
 
 ### ALTINCI BÖLÜM
 
-Kayıt, Arşiv, Denetim ve Kapatma İşlemleri
+**Kayıt, Arşiv, Denetim ve Kapatma İşlemleri**
 
 #### Kayıt ve arşiv
 
@@ -471,7 +471,7 @@ c) Denetimlerde, denetleme formları (Ek-8a), (Ek- 8b) kullanılır. Denetimler 
 
 ### YEDİNCİ BÖLÜM
 
-Yasaklar, Reklam, Tanıtım ve Bilgilendirme
+**Yasaklar, Reklam, Tanıtım ve Bilgilendirme**
 
 #### Yasaklar
 
@@ -489,7 +489,7 @@ c) Çalışma belgesi olmayan eğitmen çalıştıramaz.
 
 d) Dış tabelalarında ve basılı evraklarında yetki belgesinde belirtilen isim ve unvan dışında başka isim ve unvan kullanamaz.
 
-e) (Değişik ibare:RG-27/12/2025-33120) Genel Müdürlükçe onaylanan ücretlerin üzerinde ücret talep edemez.
+e) **(Değişik ibare:RG-27/12/2025-33120)** Genel Müdürlükçe onaylanan ücretlerin üzerinde ücret talep edemez.
 
 f) Bünyesinde olmayan faaliyetler konusunda reklam veremez.
 
@@ -547,7 +547,7 @@ g) Eğitim salonlarında, eğitimler sırasında eğitim malzemeleri dışında 
 
 **MADDE 33 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

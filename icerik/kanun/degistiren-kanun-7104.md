@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2018/04/20180406-6.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN KATMA DEĞER VERGİSİ KANUNU VE BAZI KANUNLAR İLE 178 SAYILI KANUN HÜKMÜNDE KARARNAMEDE
-DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7104 Kabul Tarihi: 29/3/2018
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN KATMA DEĞER VERGİSİ KANUNU VE BAZI KANUNLAR İLE 178 SAYILI KANUN HÜKMÜNDE KARARNAMEDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 7104 Kabul Tarihi: 29/3/2018**
 
 
 MADDE 1 – 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 2 nci maddesinin (5) numaralı fıkrasına aşağıdaki cümle eklenmiştir.
@@ -64,9 +64,9 @@ c) (d) bendinin parantez içi hükmünde yer alan “ilişkin ithalde veya sorum
 ç) (d) bendinden sonra gelmek üzere aşağıdaki (e) bendi eklenmiştir.
 “e) Vergi Usul Kanununun 322 nci maddesine göre değersiz hale gelen alacaklara ilişkin alıcı tarafından ödenmeyen katma değer vergisi.”
 
-MADDE 10- 3065 sayılı Kanunun 32 nci maddesinin birinci fıkrasına “indirilemeyen Katma Değer Vergisi,” ibaresinden sonra gelmek üzere “işlemin gerçekleştiği dönemi izleyen ikinci takvim yılının sonuna kadar talep edilmesi şartıyla” ibaresi eklenmiş ve üçüncü fıkrasında yer alan “sınırlayabilir.” ibaresi “sınırlamaya; imalatçılar tarafından yapılan ihracat işlemlerinden kaynaklanan iadelerde, yüklenilen katma değer vergisi yerine sektörler itibarıyla ihracat bedelinin belli bir oranına kadar iade yaptırmaya yetkilidir.” şeklinde değiştirilmiştir.
+**MADDE 10-** 3065 sayılı Kanunun 32 nci maddesinin birinci fıkrasına “indirilemeyen Katma Değer Vergisi,” ibaresinden sonra gelmek üzere “işlemin gerçekleştiği dönemi izleyen ikinci takvim yılının sonuna kadar talep edilmesi şartıyla” ibaresi eklenmiş ve üçüncü fıkrasında yer alan “sınırlayabilir.” ibaresi “sınırlamaya; imalatçılar tarafından yapılan ihracat işlemlerinden kaynaklanan iadelerde, yüklenilen katma değer vergisi yerine sektörler itibarıyla ihracat bedelinin belli bir oranına kadar iade yaptırmaya yetkilidir.” şeklinde değiştirilmiştir.
 
-MADDE 11- 3065 sayılı Kanunun 36 ncı maddesinin birinci fıkrasına “mal veya hizmetleri belirlemeye” ibaresinden sonra gelmek üzere “, süresi içinde iadesi talep edilmeyen ve indirim yoluyla giderilmek üzere sonraki dönemlere devrolunan katma değer vergisinin gelir veya kurumlar vergisi matrahının tespitinde gider olarak yazılmasına imkân vermeye, iade talebinde bulunulabilecek asgari tutarı belirlemeye” ibaresi ile maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 11-** 3065 sayılı Kanunun 36 ncı maddesinin birinci fıkrasına “mal veya hizmetleri belirlemeye” ibaresinden sonra gelmek üzere “, süresi içinde iadesi talep edilmeyen ve indirim yoluyla giderilmek üzere sonraki dönemlere devrolunan katma değer vergisinin gelir veya kurumlar vergisi matrahının tespitinde gider olarak yazılmasına imkân vermeye, iade talebinde bulunulabilecek asgari tutarı belirlemeye” ibaresi ile maddeye aşağıdaki fıkra eklenmiştir.
 “Maliye Bakanlığı; mükellefiyet süresi, çalışan sayısı, aktif ve özsermaye büyüklüğü, ödenen vergi tutarı, vergisel ödevlerin zamanında yerine getirilip getirilmediği, sahte veya muhteviyatı itibarıyla yanıltıcı belge düzenleme veya kullanma yönünde olumsuz rapor ya da tespit bulunup bulunmadığı gibi kriterleri esas alarak mükelleflerin vergisel uyum seviyeleri ve bu uyum seviyelerine göre farklı iade yöntemleri tespit etmeye, iade alacağının mahsup edileceği vergi borçları ile iadeye ilişkin diğer usul ve esasları belirlemeye yetkilidir.”
 
 
@@ -96,7 +96,7 @@ MADDE 16 – 26/10/1990 tarihli ve 3671 sayılı Türkiye Büyük Millet Meclisi
 MADDE 17 – 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.
 “EK
 
-MADDE 22- Genel Kurmay Başkanı, Kara Kuvvetleri Komutanı, Deniz Kuvvetleri Komutanı, Hava Kuvvetleri Komutanı, Jandarma Genel Komutanı ve Sahil Güvenlik Komutanı olarak atanmış olanlar ile Orgeneral/Oramiral rütbelerinde bulunanlardan aylıklarını 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununa göre almakta olanlar ve bunların emeklileri ile bakmakla yükümlü oldukları aile fertlerinin sağlık giderleri, Türkiye Büyük Millet Meclisi üyelerinin tabi olduğu hükümler ve esaslar çerçevesinde ilgili kurum bütçelerinden ödenir.”
+**MADDE 22-** Genel Kurmay Başkanı, Kara Kuvvetleri Komutanı, Deniz Kuvvetleri Komutanı, Hava Kuvvetleri Komutanı, Jandarma Genel Komutanı ve Sahil Güvenlik Komutanı olarak atanmış olanlar ile Orgeneral/Oramiral rütbelerinde bulunanlardan aylıklarını 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununa göre almakta olanlar ve bunların emeklileri ile bakmakla yükümlü oldukları aile fertlerinin sağlık giderleri, Türkiye Büyük Millet Meclisi üyelerinin tabi olduğu hükümler ve esaslar çerçevesinde ilgili kurum bütçelerinden ödenir.”
 
 
 MADDE 18 – 193 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
@@ -107,7 +107,7 @@ MADDE 19 – 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 140 ıncı ma
 “6.
 İncelemeye başlanıldığı tarihten itibaren, tam inceleme yapılması halinde en fazla bir yıl, sınırlı inceleme yapılması halinde en fazla altı ay, katma değer vergisi iade incelemelerinde ise en fazla üç ay içinde incelemeleri bitirmeleri esastır. Bu süreler içinde incelemenin bitirilememesi halinde ek süre talep edilebilir. Bu talep vergi incelemesine yetkili olanların bağlı olduğu birim tarafından değerlendirilir, tam ve sınırlı incelemelerde altı ayı, katma değer vergisi iade incelemelerinde ise iki ayı geçmemek üzere ek süre verilebilir. Bu durumda, vergi incelemesi yapmaya yetkili olanların bağlı olduğu birim tarafından incelemenin bitirilememe nedenleri yazılı olarak nezdinde inceleme yapılana bildirilir. Vergi incelemesi yapmaya yetkili olanların bağlı olduğu birimler vergi incelemesinin öngörülen süreler içinde bitirilmesi için gerekli tedbirleri alırlar.”
 
-MADDE 20- 213 sayılı Kanunun 256 ncı maddesinin son cümlesinde yer alan; “tasdike” ibaresinden sonra gelmek üzere “ve 3568 sayılı Kanunun 8/A maddesi uyarınca düzenlenecek katma değer vergisi iadesine dayanak teşkil eden rapora” ibaresi ve “yeminli mali müşavirler” ibaresinden sonra gelmek üzere “ve serbest muhasebeci mali müşavirler” ibaresi eklenmiştir.
+**MADDE 20-** 213 sayılı Kanunun 256 ncı maddesinin son cümlesinde yer alan; “tasdike” ibaresinden sonra gelmek üzere “ve 3568 sayılı Kanunun 8/A maddesi uyarınca düzenlenecek katma değer vergisi iadesine dayanak teşkil eden rapora” ibaresi ve “yeminli mali müşavirler” ibaresinden sonra gelmek üzere “ve serbest muhasebeci mali müşavirler” ibaresi eklenmiştir.
 
 
 MADDE 21 – 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa bağlı (2) sayılı Tarifenin “I. Değer veya ağırlık üzerinden alınan nispi harçlar:” başlıklı bölümünün (1) numaralı fıkrasına son paragraftan önce gelmek üzere aşağıdaki paragraf eklenmiştir.
@@ -148,14 +148,14 @@ MADDE 24 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun 
 MADDE 25 – 5/5/2005 tarihli ve 5345 sayılı Gelir İdaresi Başkanlığının Teşkilat ve Görevleri Hakkında Kanuna aşağıdaki ek madde eklenmiştir.
 “Kadro ihdası
 
-EK MADDE
-1- Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Gelir İdaresi Başkanlığına ait bölümüne eklenmiştir.”
+EK **MADDE**
+**1-** Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Gelir İdaresi Başkanlığına ait bölümüne eklenmiştir.”
 
 
 MADDE 26 – 13/12/1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 20 nci maddesinin ikinci fıkrasına aşağıdaki bent eklenmiştir.
 “d) Katma Değer Vergisi İade İncelemeleri Grup Başkanlığı.”
 
-MADDE 27- 178 sayılı Kanun Hükmünde Kararnamenin ek 29 uncu maddesinin beşinci fıkrasının ikinci, altıncı fıkrasının beşinci ve yedinci fıkrasının ikinci cümlelerinde yer alan “(a) bendinde belirtilen grup başkanlığında” ibareleri ile sekizinci fıkrasının birinci cümlesinde yer alan “(a) bendinde belirtilen grup başkanlıklarında” ibaresi “(a) ve (d) bentlerinde belirtilen grup başkanlıklarında” şeklinde değiştirilmiştir.
+**MADDE 27-** 178 sayılı Kanun Hükmünde Kararnamenin ek 29 uncu maddesinin beşinci fıkrasının ikinci, altıncı fıkrasının beşinci ve yedinci fıkrasının ikinci cümlelerinde yer alan “(a) bendinde belirtilen grup başkanlığında” ibareleri ile sekizinci fıkrasının birinci cümlesinde yer alan “(a) bendinde belirtilen grup başkanlıklarında” ibaresi “(a) ve (d) bentlerinde belirtilen grup başkanlıklarında” şeklinde değiştirilmiştir.
 
 
 MADDE 28 – 178 sayılı Kanun Hükmünde Kararnameye aşağıdaki ek madde eklenmiştir.

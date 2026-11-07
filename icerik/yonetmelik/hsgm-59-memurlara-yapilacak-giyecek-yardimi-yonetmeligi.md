@@ -14,17 +14,17 @@ durum: "yürürlükte"
 
 ### YÖNETMELİĞİ
 
-Bakanlar Kurulu Kararının Tarihi : 14/9/1991 No : 91/2268
+**Bakanlar Kurulu Kararının Tarihi : 14/9/1991 No : 91/2268**
 
-Dayandığı Kanunun Tarihi : 14/7/1965 No : 657
+**Dayandığı Kanunun Tarihi : 14/7/1965 No : 657**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 9/10/1991 No : 21016
+**Yayımlandığı Resmî Gazetenin Tarihi : 9/10/1991 No : 21016**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 31
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 31**
 
 ²
 
-3/5/2019 tarihli ve 30763 sayılı Resmî Gazete’de yayımlanan 2/5/2019 tarihli ve 1026 sayılı Cumhurbaşkanı Kararı uyarınca bu Yönetmelik Cumhurbaşkanlığı Yönetmeliği bölümüne eklenmiştir.
+<i>3/5/2019 tarihli ve 30763 sayılı Resmî Gazete’de yayımlanan 2/5/2019 tarihli ve 1026 sayılı Cumhurbaşkanı Kararı uyarınca bu Yönetmelik Cumhurbaşkanlığı Yönetmeliği bölümüne eklenmiştir.</i>
 
 ²
 
@@ -52,15 +52,15 @@ Giyecek yardımından yararlanılacak bir göreve aday memur olarak atananlar, b
 
 Giyim eşyası standart beden ölçülerine göre yaptırılır. Gerektiğinde beden ölçüsüne göre kurumca diktirilir.
 
-(Değişik üçüncü fıkra: 28/2/2008-2008/13349 K.) Ancak, Emniyet Hizmetleri Sınıfında sivil olarak görev yapanlara giyecek yardımı bedeli ve aynı sınıfta resmi kıyafet taşıyanlara dikiş bedeli, ilgili kurumun teklifi üzerine Maliye Bakanlığınca tespit edilerek nakden ödenir.(1)
+**(Değişik üçüncü fıkra: 28/2/2008-2008/13349 K.)** Ancak, Emniyet Hizmetleri Sınıfında sivil olarak görev yapanlara giyecek yardımı bedeli ve aynı sınıfta resmi kıyafet taşıyanlara dikiş bedeli, ilgili kurumun teklifi üzerine Maliye Bakanlığınca tespit edilerek nakden ödenir.(1)
 
 ________________________________
 
-(1) 1/7/2021 tarihli ve 31528 sayılı Resmî Gazete’de yayımlanan 4210 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkrada yer alan “taşıyanlarla çarşı ve mahalle bekçilerine” ibaresi “taşıyanlara” şeklinde değiştirilmiştir.
+<i>(1) 1/7/2021 tarihli ve 31528 sayılı Resmî Gazete’de yayımlanan 4210 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkrada yer alan “taşıyanlarla çarşı ve mahalle bekçilerine” ibaresi “taşıyanlara” şeklinde değiştirilmiştir.</i>
 
 2814
 
-(Ek dördüncü fıkra: 28/2/2008-2008/13349 K.) Milli İstihbarat Teşkilatı Müsteşarlığı personeline ayni veya nakdi olarak giyecek yardımı yapılır. Nakdi olarak verilecek giyecek yardımı bedeli ile ayni olarak verilecek giyim eşyasının tespitinde, bu Yönetmelik çerçevesinde belirlenen kullanım süreleri ve fiyatlar esas alınır. Ayni olarak verilecek giyim eşyasının cinsi, rengi ve biçimi ise Milli İstihbarat Teşkilatı Müsteşarlığı tarafından tespit edilir.
+**(Ek dördüncü fıkra: 28/2/2008-2008/13349 K.)** Milli İstihbarat Teşkilatı Müsteşarlığı personeline ayni veya nakdi olarak giyecek yardımı yapılır. Nakdi olarak verilecek giyecek yardımı bedeli ile ayni olarak verilecek giyim eşyasının tespitinde, bu Yönetmelik çerçevesinde belirlenen kullanım süreleri ve fiyatlar esas alınır. Ayni olarak verilecek giyim eşyasının cinsi, rengi ve biçimi ise Milli İstihbarat Teşkilatı Müsteşarlığı tarafından tespit edilir.
 
 Verilecek giyecek eşyasının rengi ve biçimi ilgili kurumca tespit edilir.
 
@@ -110,7 +110,7 @@ Personelin zimmetinde bulunmasına gerek olmayan, belirli zaman ve hallerde kull
 
 #### Çeşitli Hükümler
 
-**Madde 12 –** a) Bu Yönetmelik kapsamında yer alan kurum ve kuruluşlar giyecek yardımı konusunda ayrı bir yönetmelik çıkaramazlar. Sözleşmeli olarak çalışan personel bu Yönetmelik hükümlerinden yararlanamaz.
+**Madde 12 –** <i>a) Bu Yönetmelik kapsamında yer alan kurum ve kuruluşlar giyecek yardımı konusunda ayrı bir yönetmelik çıkaramazlar. Sözleşmeli olarak çalışan personel bu Yönetmelik hükümlerinden yararlanamaz.</i>
 
 b) Üst yönetim, bölge müdürü, il müdürü, şube müdürü ve müdür unvanlı diğer görevlilerle bunların yardımcılarına kariyerleri (teknik, sağlık vb.) dikkate alınmak suretiyle hiç bir şekilde giyecek yardımı yapılmaz.
 
@@ -130,7 +130,7 @@ Tetkik, inceleme ve denetleme sonucunda bu Yönetmeliğe aykırı uygulama yapı
 
 Bu Yönetmeliğe ekli (I) sayılı Cetvelin (…)(1) (17), (18), (19), (20), (21), (22), (23) ve (24) numaralı sıraları ile (II) sayılı Cetvelin Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfına ait bölümün (3) ve (4) numaralı sıraları hariç olmak üzere, personele verilmesi öngörülen giyecek yardımlarının bedeli, 11 inci madde uyarınca belirlenen fiyatlar esas alınmak suretiyle nakden ödenir. Emniyet Hizmetleri Sınıfı ile Milli İstihbarat Teşkilatı Müsteşarlığında görev yapan personel için bu madde hükümleri uygulanmaz. Bu maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
 
-Geçici Madde – Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren geçecek bir yıl içerisinde doğabilecek tereddütleri gidermeye Devlet Personel Başkanlığının görüşü üzerine Maliye ve Gümrük Bakanlığı yetkilidir.
+**Geçici Madde –** Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren geçecek bir yıl içerisinde doğabilecek tereddütleri gidermeye Devlet Personel Başkanlığının görüşü üzerine Maliye ve Gümrük Bakanlığı yetkilidir.
 
 **Geçici Madde 1 –** (Ek: 7/5/2010-2010/508 K.)
 
@@ -142,15 +142,15 @@ Ek 1 inci madde uyarınca nakden ödenecek giyecek yardımının belirlenmesinde
 
 –––––––––––––––––––––
 
-(1) 15/9/2014 tarihli ve 2014/6799 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “(16),” ibaresi yürürlükten kaldırılmıştır.
+<i>(1) 15/9/2014 tarihli ve 2014/6799 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “(16),” ibaresi yürürlükten kaldırılmıştır.</i>
 
-(2) 8/2/2016 tarihli ve 2016/8542 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu maddede yer alan “(19) ve (20)” ibaresi “(19), (20) ve (21)” şeklinde değiştirilmiştir.
+<i>(2) 8/2/2016 tarihli ve 2016/8542 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu maddede yer alan “(19) ve (20)” ibaresi “(19), (20) ve (21)” şeklinde değiştirilmiştir.</i>
 
-(3) 6/6/2016 tarihli ve 2016/8888 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “(20) ve (21)” ibaresi “(20), (21), (22) ve (23)” şeklinde ve “(3) numaralı sırası hariç” ibaresi “(3) ve (4) numaralı sıraları hariç” şeklinde değiştirilmiştir.
+<i>(3) 6/6/2016 tarihli ve 2016/8888 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “(20) ve (21)” ibaresi “(20), (21), (22) ve (23)” şeklinde ve “(3) numaralı sırası hariç” ibaresi “(3) ve (4) numaralı sıraları hariç” şeklinde değiştirilmiştir.</i>
 
-(4) 5/2/2018 tarihli ve 2018/11334 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu maddenin birinci fırkasında yer alan “(22) ve (23)” ibaresi “(22), (23) ve (24)” şeklinde değiştirilmiştir.
+<i>(4) 5/2/2018 tarihli ve 2018/11334 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu maddenin birinci fırkasında yer alan “(22) ve (23)” ibaresi “(22), (23) ve (24)” şeklinde değiştirilmiştir.</i>
 
-(5) 3/5/2019 tarihli ve 30763 sayılı Resmi Gazete’de yayımlanan 1026 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+<i>(5) 3/5/2019 tarihli ve 30763 sayılı Resmi Gazete’de yayımlanan 1026 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.</i>
 
 2817
 
@@ -267,9 +267,9 @@ Ek 1 inci madde uyarınca nakden ödenecek giyecek yardımının belirlenmesinde
 
 –––––––––––––––––––––
 
-(1) 8/2/2016 tarihli ve 2016/8542 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle, bu sırada yer alan “Orman Muhafaza Memuru,” ibaresi yürürlükten kaldırılmıştır.
+<i>(1) 8/2/2016 tarihli ve 2016/8542 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle, bu sırada yer alan “Orman Muhafaza Memuru,” ibaresi yürürlükten kaldırılmıştır.</i>
 
-(2) 5/2/2018 tarihli ve 2018/11334 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle, bu sırada yer alan “Muhafaza Memuru, Kolcu,” ibaresi ile “, Gümrük Sahasında Görevli Gümrük Memurları” ibareleri yürürlükten kaldırılmıştır.
+<i>(2) 5/2/2018 tarihli ve 2018/11334 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle, bu sırada yer alan “Muhafaza Memuru, Kolcu,” ibaresi ile “, Gümrük Sahasında Görevli Gümrük Memurları” ibareleri yürürlükten kaldırılmıştır.</i>
 
 2818-2
 
@@ -346,21 +346,21 @@ Ek 1 inci madde uyarınca nakden ödenecek giyecek yardımının belirlenmesinde
 
 ### GİYECEK YARDIMI YAPILACAK PERSONEL
 
-Verilecek Giyim Eşyasının
+**Verilecek Giyim Eşyasının**
 
-Sıra
+**Sıra**
 
 No.
 
-Kadro Unvanı
+**Kadro Unvanı**
 
-Cinsi
+**Cinsi**
 
-Miktarı
+**Miktarı**
 
-Kullanma Süresi
+**Kullanma Süresi**
 
-Niteliği
+**Niteliği**
 
 ### TEKNİK HİZMETLER SINIFI
 
@@ -468,9 +468,9 @@ Keten Kumaştan
 
 3
 
-(Ek: 25/8/2003-2003/6104 K.)
+**(Ek: 25/8/2003-2003/6104 K.)**
 
-(Değişik:RG-1/7/2021-31528-C.K-4210/2 md.)
+**(Değişik:RG-1/7/2021-31528-C.K-4210/2 md.)**
 
 İl Ambulans Servisi Başhekimliği İdari ve Destek Birimleri ile Başhekimliğe bağlı Komuta Kontrol Merkezi ve İstasyonlarda kadrolu olarak (en az altı ay süreyle geçici görevlendirilenler dahil) fiilen çalışan 112 Acil Sağlık Hizmetleri Personeli (Tabip, Tıbbi Teknolog, Sağlık Memuru, Sağlık Teknikeri, Teknisyen, Hemşire ve Şoför)
 
@@ -609,61 +609,61 @@ Ayakkabı
 
 ### A)
 
-1 – (Değişik sıra: 24/1/2005-2005/8411 K.) Emniyet Hizmetleri Sınıfındaki bando, boru ve trompet takımı gösteri birliği mensuplarına normal giyim eşyası dışında 3 yılda bir kışlık ve yazlık tören üniforması verilir.
+1 – **(Değişik sıra: 24/1/2005-2005/8411 K.)** Emniyet Hizmetleri Sınıfındaki bando, boru ve trompet takımı gösteri birliği mensuplarına normal giyim eşyası dışında 3 yılda bir kışlık ve yazlık tören üniforması verilir.
 
-(Değişik ikinci fıkra : 20/11/2017-2017/11157 K.) Emniyet Hizmetleri Sınıfında görevli personele tören veya özel günlerde giyilmek üzere ayrıca 5 yılda bir takım elbiselik, şapkalık, paltoluk veya pardesülük kumaş, bir adet beyaz gömlek ve bir çift tören ayakkabısı verilir.
+**(Değişik ikinci fıkra : 20/11/2017-2017/11157 K.)** Emniyet Hizmetleri Sınıfında görevli personele tören veya özel günlerde giyilmek üzere ayrıca 5 yılda bir takım elbiselik, şapkalık, paltoluk veya pardesülük kumaş, bir adet beyaz gömlek ve bir çift tören ayakkabısı verilir.
 
 –––––––––––––––––––––
 
-(1) 20/11/2017 tarihli ve 2017/11157 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, “YARDIMCI HİZMETLER SINIFI” bölümünün “Emniyet Genel Müdürlüğü Kadrolarında Çalışan Çarşı ve Mahalle Bekçileri” başlıklı (1) numaralı sırası yürürlükten kaldırılmıştır.
+<i>(1) 20/11/2017 tarihli ve 2017/11157 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, “YARDIMCI HİZMETLER SINIFI” bölümünün “Emniyet Genel Müdürlüğü Kadrolarında Çalışan Çarşı ve Mahalle Bekçileri” başlıklı (1) numaralı sırası yürürlükten kaldırılmıştır.</i>
 
 2823
 
-2 – (Değişik sıra: 6/12/1993-93/5103 K.) Resmi kıyafet taşıyan personele (Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri, infaz ve koruma memurları, orman muhafaza memurları, Gümrük ve Ticaret Bakanlığı personeli ve mübaşirler hariç) ayrıca keten kumaştan bir takım yazlık elbise veya pantolon ve mont verilir.(1)(2)(3)(4)(5)
+2 – **(Değişik sıra: 6/12/1993-93/5103 K.)** Resmi kıyafet taşıyan personele (Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri, infaz ve koruma memurları, orman muhafaza memurları, Gümrük ve Ticaret Bakanlığı personeli ve mübaşirler hariç) ayrıca keten kumaştan bir takım yazlık elbise veya pantolon ve mont verilir.(1)(2)(3)(4)(5)
 
 –––––––––––––––––––––
 
-(1) 17/5/2005 tarihli ve 2005/8864 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle; bu sırada yer alan "(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri hariç)" ibaresi, "(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri ve infaz ve koruma memurları hariç)" şeklinde değiştirilmiştir.
+<i>(1) 17/5/2005 tarihli ve 2005/8864 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle; bu sırada yer alan "(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri hariç)" ibaresi, "(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri ve infaz ve koruma memurları hariç)" şeklinde değiştirilmiştir.</i>
 
-(2) 29/9/2009 tarihli ve 2009/15480 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle; bu sırada yer alan "ayrıca keten kumaştan bir takım yazlık elbise" ibaresinden sonra gelmek üzere "veya pantolon ve mont" ibaresi 1/1/2010 tarihinden geçerli olmak üzere eklenmiştir.
+<i>(2) 29/9/2009 tarihli ve 2009/15480 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle; bu sırada yer alan "ayrıca keten kumaştan bir takım yazlık elbise" ibaresinden sonra gelmek üzere "veya pantolon ve mont" ibaresi 1/1/2010 tarihinden geçerli olmak üzere eklenmiştir.</i>
 
-(3) 8/2/2016 tarihli ve 2016/8542 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 4 üncü maddesiyle; bu sırada yer alan “(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri ve infaz ve koruma memurları hariç)” ibaresi, "(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri, infaz ve koruma memurları ve orman muhafaza memurları hariç)" şeklinde değiştirilmiştir.
+<i>(3) 8/2/2016 tarihli ve 2016/8542 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 4 üncü maddesiyle; bu sırada yer alan “(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri ve infaz ve koruma memurları hariç)” ibaresi, "(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri, infaz ve koruma memurları ve orman muhafaza memurları hariç)" şeklinde değiştirilmiştir.</i>
 
-(4) 6/6/2016 tarihli ve 2016/8888 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 4 üncü maddesiyle; bu sırada yer alan “(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri, infaz ve koruma memurları ve orman muhafaza memurları hariç)” ibaresi, “(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri, infaz ve koruma memurları, orman muhafaza memurları ve mübaşirler hariç)” şeklinde değiştirilmiştir.
+<i>(4) 6/6/2016 tarihli ve 2016/8888 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 4 üncü maddesiyle; bu sırada yer alan “(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri, infaz ve koruma memurları ve orman muhafaza memurları hariç)” ibaresi, “(Emniyet Hizmetleri Sınıfında çalışan personel ile çarşı ve mahalle bekçileri, infaz ve koruma memurları, orman muhafaza memurları ve mübaşirler hariç)” şeklinde değiştirilmiştir.</i>
 
-(5) 5/2/2018 tarihli ve 2018/11334 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 3 üncü maddesiyle; bu sırada yer alan “orman muhafaza memurları” ibaresinden sonra gelmek üzere “, Gümrük ve Ticaret Bakanlığı personeli” ibaresi eklenmiştir.
+<i>(5) 5/2/2018 tarihli ve 2018/11334 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 3 üncü maddesiyle; bu sırada yer alan “orman muhafaza memurları” ibaresinden sonra gelmek üzere “, Gümrük ve Ticaret Bakanlığı personeli” ibaresi eklenmiştir.</i>
 
 2824
 
-3 – (Değişik sıra: 10/2/2011-2011/1437 K.) Emniyet Hizmetleri Sınıfındaki personelden; özel harekat takviye hazır kuvvet, arama ve kurtarma birimlerinde görev yapan personel, çevik kuvvet, (…) atlı polis, uçucu personel, turizm polisi, deniz polisi, kurbağa adam, gemi adamı, toplum destekli polis, bisikletli polis, motosikletli timler (yunus-şahin-narkotim), (…) köpek eğitim merkezinde eğitim görmüş köpekli polis, trafik hizmetlerinde çalışan personel, koruma hizmetlerinde çalışan personel, terörle mücadele birimlerinde çalışan personel, barışı destekleme ve koruma misyonlarında görevlendirilen personel, bomba imha uzmanı, laboratuvar personeli ve olay yeri inceleme birimlerindeki görevlilere (II) sayılı Cetvelin Emniyet Hizmetleri Sınıfına ait bölümünün (1) numaralı sırasında belirtilen giyim eşyalarından verilmesi gerekenler İçişleri Bakanlığınca hazırlanan yönetmelik ile belirlenir.(1)(2)(3)(4)(5)(6)
+3 – **(Değişik sıra: 10/2/2011-2011/1437 K.)** Emniyet Hizmetleri Sınıfındaki personelden; özel harekat takviye hazır kuvvet, arama ve kurtarma birimlerinde görev yapan personel, çevik kuvvet, (…) atlı polis, uçucu personel, turizm polisi, deniz polisi, kurbağa adam, gemi adamı, toplum destekli polis, bisikletli polis, motosikletli timler (yunus-şahin-narkotim), (…) köpek eğitim merkezinde eğitim görmüş köpekli polis, trafik hizmetlerinde çalışan personel, koruma hizmetlerinde çalışan personel, terörle mücadele birimlerinde çalışan personel, barışı destekleme ve koruma misyonlarında görevlendirilen personel, bomba imha uzmanı, laboratuvar personeli ve olay yeri inceleme birimlerindeki görevlilere (II) sayılı Cetvelin Emniyet Hizmetleri Sınıfına ait bölümünün (1) numaralı sırasında belirtilen giyim eşyalarından verilmesi gerekenler İçişleri Bakanlığınca hazırlanan yönetmelik ile belirlenir.(1)(2)(3)(4)(5)(6)
 
 Bu hizmet birimlerinde görev yapan personele, yukarıdaki esasa göre belirlenecek giyim eşyaları dışında görevin ve hizmetin özelliğine göre ayrıca verilecek olan giyim eşyalarının cinsi, miktarı, verilme zamanı ile kullanma süresi İçişleri Bakanlığınca hazırlanan yönetmelik ile belirlenen esaslara göre hak sahiplerine verilir.
 
 Bu hizmet birimlerine ait giyim eşyalarından; yurtdışında görevlendirilen personel ile öğrenci, eğitici ve kursiyer personele verilmesi gerekenler Emniyet Genel Müdürünün onayı ile belirlenir.
 
-(Ek fıkra:RG-3/5/2019-30763-C.K.-1026/2 md.) Resmi üniforma ile görev yapan personele verilecek giyim eşyalarının tahsisi amacıyla Emniyet Genel Müdürlüğünce Puan Esasına Dayalı Giyecek Dağıtım Sistemi kurulabilir. Bu sisteme göre giyim eşyalarının puan karşılıkları, görev yapılan birim itibarıyla II sayılı Cetvelin Emniyet Hizmetleri Sınıfına ait bölümünün 1 inci sırası ile bu sıranın ikinci fıkrası uyarınca belirlenen cins, miktar ve kullanım süresi ile giyim eşyasının maliyeti esas alınarak tespit edilir. Giyim eşyaları personelce kullanılabilir puanı dâhilinde ve ihtiyacı göre, II sayılı Cetvelin Emniyet Hizmetleri Sınıfına ait bölümünün 1 inci sırası ile bu sıranın ikinci fıkrası uyarınca belirlenen miktarların altında veya üstünde talep edilebilir. Görev yeri, hizmet birimi, iklim şartları, giyim eşyasının kullanım süresi ve maliyeti gibi hususlar dikkate alınarak, tek seferde veya ayrı ayrı belirli bir dönem için her bir giyim eşyası itibarıyla talep edilebilecek azami miktar Emniyet Genel Müdürlüğünce belirlenir. Hizmet birimi değişikliklerinde puan devri yapılmaz. Bu fıkranın, kamu kaynaklarının verimli kullanılmasını ve hizmet gereklerine uygun bir tahsisat yapılmasını sağlayacak şekilde yürütülmesi esastır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığınca belirlenir.
+**(Ek fıkra:RG-3/5/2019-30763-C.K.-1026/2 md.)** Resmi üniforma ile görev yapan personele verilecek giyim eşyalarının tahsisi amacıyla Emniyet Genel Müdürlüğünce Puan Esasına Dayalı Giyecek Dağıtım Sistemi kurulabilir. Bu sisteme göre giyim eşyalarının puan karşılıkları, görev yapılan birim itibarıyla II sayılı Cetvelin Emniyet Hizmetleri Sınıfına ait bölümünün 1 inci sırası ile bu sıranın ikinci fıkrası uyarınca belirlenen cins, miktar ve kullanım süresi ile giyim eşyasının maliyeti esas alınarak tespit edilir. Giyim eşyaları personelce kullanılabilir puanı dâhilinde ve ihtiyacı göre, II sayılı Cetvelin Emniyet Hizmetleri Sınıfına ait bölümünün 1 inci sırası ile bu sıranın ikinci fıkrası uyarınca belirlenen miktarların altında veya üstünde talep edilebilir. Görev yeri, hizmet birimi, iklim şartları, giyim eşyasının kullanım süresi ve maliyeti gibi hususlar dikkate alınarak, tek seferde veya ayrı ayrı belirli bir dönem için her bir giyim eşyası itibarıyla talep edilebilecek azami miktar Emniyet Genel Müdürlüğünce belirlenir. Hizmet birimi değişikliklerinde puan devri yapılmaz. Bu fıkranın, kamu kaynaklarının verimli kullanılmasını ve hizmet gereklerine uygun bir tahsisat yapılmasını sağlayacak şekilde yürütülmesi esastır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığınca belirlenir.
 
-(Ek fıkra:RG-3/5/2019-30763-C.K.-1026/2 md.) Dördüncü fıkranın uygulanmasında, Emniyet Hizmetleri Sınıfı personelinden resmi üniforma ile görev yapanlara, yeni göreve başladıkları birimler için öngörülen giyim eşyaları bir defaya mahsus olmak üzere eksiksiz tahsis edilir. Bu kapsamda, eski görev birimi ile ortak kullanılan ve kullanım süresi henüz dolmamış aynı cins giyim eşyalarının yeniden tahsisi yapılmaz.
+**(Ek fıkra:RG-3/5/2019-30763-C.K.-1026/2 md.)** Dördüncü fıkranın uygulanmasında, Emniyet Hizmetleri Sınıfı personelinden resmi üniforma ile görev yapanlara, yeni göreve başladıkları birimler için öngörülen giyim eşyaları bir defaya mahsus olmak üzere eksiksiz tahsis edilir. Bu kapsamda, eski görev birimi ile ortak kullanılan ve kullanım süresi henüz dolmamış aynı cins giyim eşyalarının yeniden tahsisi yapılmaz.
 
-(Ek:RG-1/7/2021-31528-CK-4210/3 md.) Polis Amirleri Eğitimi Merkezinde ilk derece amirlik eğitimi gören komiser yardımcısı adaylarına, Polis Akademisinin talebi üzerine (II) sayılı Cetvelin Emniyet Hizmetleri Sınıfına ait bölümünün (1) numaralı sırasında belirtilen giyim eşyalarından verilmesi gerekenler, eğitim süreleri de göz önünde bulundurularak aynı sırada belirlenmiş miktarlar aşılmamak koşuluyla Emniyet Genel Müdürünün onayıyla belirlenir.
+**(Ek:RG-1/7/2021-31528-CK-4210/3 md.)** Polis Amirleri Eğitimi Merkezinde ilk derece amirlik eğitimi gören komiser yardımcısı adaylarına, Polis Akademisinin talebi üzerine (II) sayılı Cetvelin Emniyet Hizmetleri Sınıfına ait bölümünün (1) numaralı sırasında belirtilen giyim eşyalarından verilmesi gerekenler, eğitim süreleri de göz önünde bulundurularak aynı sırada belirlenmiş miktarlar aşılmamak koşuluyla Emniyet Genel Müdürünün onayıyla belirlenir.
 
 –––––––––––––––––––––
 
-(1) 10/2/2012 tarihli ve 2012/2818 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle, bu fıkrada yer alan “trafik hizmetlerinde çalışan personel,” ibaresinden sonra gelmek üzere “koruma hizmetlerinde çalışan personel,” ibaresi eklenmiştir.
+<i>(1) 10/2/2012 tarihli ve 2012/2818 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle, bu fıkrada yer alan “trafik hizmetlerinde çalışan personel,” ibaresinden sonra gelmek üzere “koruma hizmetlerinde çalışan personel,” ibaresi eklenmiştir.</i>
 
-(2) 20/4/2015 tarihli ve 2015/7605 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu fıkrada yer alan “koruma hizmetlerinde çalışan personel,” ibaresinden sonra gelmek üzere “barışı destekleme ve koruma misyonlarında görevlendirilen personel,” ibaresi eklenmiştir.
+<i>(2) 20/4/2015 tarihli ve 2015/7605 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu fıkrada yer alan “koruma hizmetlerinde çalışan personel,” ibaresinden sonra gelmek üzere “barışı destekleme ve koruma misyonlarında görevlendirilen personel,” ibaresi eklenmiştir.</i>
 
-(3) 20/11/2017 tarihli ve 2017/11157 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle, bu fıkrada yer alan “sualtı grup amirliğinde görevli balık adam” ibaresi “kurbağa adam” şeklinde değiştirilmiştir.
+<i>(3) 20/11/2017 tarihli ve 2017/11157 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle, bu fıkrada yer alan “sualtı grup amirliğinde görevli balık adam” ibaresi “kurbağa adam” şeklinde değiştirilmiştir.</i>
 
-(4) 3/5/2019 tarihli ve 30763 sayılı Resmi Gazete’de yayımlanan 1026 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkraya "özel harekat" ibaresinden sonra gelmek üzere "takviye hazır kuvvet" ibaresi eklenmiştir.
+<i>(4) 3/5/2019 tarihli ve 30763 sayılı Resmi Gazete’de yayımlanan 1026 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkraya "özel harekat" ibaresinden sonra gelmek üzere "takviye hazır kuvvet" ibaresi eklenmiştir.</i>
 
-(5) 1/7/2021 tarihli ve 31528 sayılı Resmî Gazete’de yayımlanan 4210 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle bu fıkrada yer alan “takviye hazır kuvvet,” ibaresinden sonra gelmek üzere “arama ve kurtarma birimlerinde görev yapan personel,” ibaresi eklenmiş, aynı fıkrada yer alan “arama kurtarma timleri ile” ibaresi yürürlükten kaldırılmış, aynı fıkraya “kurbağa adam,” ibaresinden sonra gelmek üzere “gemi adamı,” ibaresi eklenmiş, aynı fıkrada yer alan “(yunus-şahin)” ibaresi “(yunus-şahin-narkotim)” şeklinde değiştirilmiş, “Başbakanlık koruma motosikletli ekibi,” ibaresi yürürlükten kaldırılmıştır.
+<i>(5) 1/7/2021 tarihli ve 31528 sayılı Resmî Gazete’de yayımlanan 4210 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle bu fıkrada yer alan “takviye hazır kuvvet,” ibaresinden sonra gelmek üzere “arama ve kurtarma birimlerinde görev yapan personel,” ibaresi eklenmiş, aynı fıkrada yer alan “arama kurtarma timleri ile” ibaresi yürürlükten kaldırılmış, aynı fıkraya “kurbağa adam,” ibaresinden sonra gelmek üzere “gemi adamı,” ibaresi eklenmiş, aynı fıkrada yer alan “(yunus-şahin)” ibaresi “(yunus-şahin-narkotim)” şeklinde değiştirilmiş, “Başbakanlık koruma motosikletli ekibi,” ibaresi yürürlükten kaldırılmıştır.</i>
 
-(6) 12/5/2023 tarihli ve 32188 sayılı Resmî Gazete’de yayımlanan 7282 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkrada yer alan “koruma hizmetlerinde çalışan personel,” ibaresinden sonra gelmek üzere “terörle mücadele birimlerinde çalışan personel,” ibaresi eklenmiştir.
+<i>(6) 12/5/2023 tarihli ve 32188 sayılı Resmî Gazete’de yayımlanan 7282 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkrada yer alan “koruma hizmetlerinde çalışan personel,” ibaresinden sonra gelmek üzere “terörle mücadele birimlerinde çalışan personel,” ibaresi eklenmiştir.</i>
 
 2825
 
-4 – (Değişik birinci fıkra: 20/11/2017-2017/11157 K.) Emniyet Hizmetleri Sınıfı personelinden isteyen bayan personele her yıl 2 adet desensiz kumaş başörtüsü verilir. (2)
+4 – **(Değişik birinci fıkra: 20/11/2017-2017/11157 K.)** Emniyet Hizmetleri Sınıfı personelinden isteyen bayan personele her yıl 2 adet desensiz kumaş başörtüsü verilir. (2)
 
 Emniyet Hizmetleri Sınıfı personelinden İçişleri Bakanlığınca hazırlanan yönetmelik ile belirlenecek hizmet birimlerinde görev yapanlara 5 yılda bir reflektif uygulama yeleği ve sivil olarak görev yapanlara 5 yılda bir operasyon yeleği verilir.
 
@@ -679,33 +679,33 @@ Emniyet Hizmetleri Sınıfı personelinden İçişleri Bakanlığınca hazırlan
 
 10 – Dip Not A/8'de belirtilenlerle II sayılı cetvelin Teknik Hizmetler Sınıfına ait bölümünün 2 nci sırasında sayılan yerlerde fiilen çalışanlara gerektiğinde ayrıca gocuk veya meşin ceket verilebilir.
 
-11 – (Ek sıra: 21/8/1996-96/8518 K.) Hudut ve Sahiller Sağlık Genel Müdürlügünde çalışan personele görevlerinin özelliği itibariyle verilecek giyecek eşyasının kimlere verileceği, cinsi, miktarı, verilme zamanı ile kullanma süresi, bu Yönetmelikte belirlenmiş hususlar da dikkate alınmak suretiyle Sağlık Bakanlığı'nın onayı ile tespit edilir.
+11 – **(Ek sıra: 21/8/1996-96/8518 K.)** Hudut ve Sahiller Sağlık Genel Müdürlügünde çalışan personele görevlerinin özelliği itibariyle verilecek giyecek eşyasının kimlere verileceği, cinsi, miktarı, verilme zamanı ile kullanma süresi, bu Yönetmelikte belirlenmiş hususlar da dikkate alınmak suretiyle Sağlık Bakanlığı'nın onayı ile tespit edilir.
 
-12 – (Ek sıra: 25/8/2003-2003/6104 K.) (Değişik birinci fıkra: 2/10/2017-2017/10872 K.) İl ambulans servisi başhekimliği idari ve destek birimleri ile başhekimliğe bağlı komuta kontrol merkezi ve istasyonlarda görevli personele özel görev kıyafeti olarak belirlenmiş bulunan giyim eşyalarının dışında giyecek yardımı yapılmaz.
+12 – **(Ek sıra: 25/8/2003-2003/6104 K.) (Değişik birinci fıkra: 2/10/2017-2017/10872 K.)** İl ambulans servisi başhekimliği idari ve destek birimleri ile başhekimliğe bağlı komuta kontrol merkezi ve istasyonlarda görevli personele özel görev kıyafeti olarak belirlenmiş bulunan giyim eşyalarının dışında giyecek yardımı yapılmaz.
 
 Bu personelin herhangi bir nedenle acil sağlık hizmetleri dışında başka bir görevle görevlendirilmesi halinde, kullanma süresinin yarısından daha az sure kullanılmış olan giyecek eşyaları geri alınır ve bu hizmetlerde kullanılmak üzere değerlendirilir. Geri alınan giyeceklerin nasıl değerlendirileceği Sağlık Bakanlığınca belirlenir.
 
 Yukarıda belirtilen giyim eşyaları için bu Yönetmeliğe ekli cetvellerde gösterilen adet ve süreler esas alınır.
 
-(Ek fıkra: 6/6/2016-2016/8888 K.) Evde sağlık hizmetlerinde görevli personelin herhangi bir nedenle evde sağlık hizmetleri dışında başka bir görevde görevlendirilmesi halinde, kullanma süresinin yarısından daha az süre kullanılmış ve kullanılabilir durumda olan giyecek eşyaları geri alınır ve bu hizmetlerde kullanılmak üzere değerlendirilir. Geri alınan giyecek eşyalarının nasıl değerlendirileceği Türkiye Halk Sağlığı Kurumunca belirlenir.
+**(Ek fıkra: 6/6/2016-2016/8888 K.)** Evde sağlık hizmetlerinde görevli personelin herhangi bir nedenle evde sağlık hizmetleri dışında başka bir görevde görevlendirilmesi halinde, kullanma süresinin yarısından daha az süre kullanılmış ve kullanılabilir durumda olan giyecek eşyaları geri alınır ve bu hizmetlerde kullanılmak üzere değerlendirilir. Geri alınan giyecek eşyalarının nasıl değerlendirileceği Türkiye Halk Sağlığı Kurumunca belirlenir.
 
-13 – (Ek sıra: 9/5/2014-2014/6382 K.; Mülga sıra: 5/2/2018-2018/11334 K.)(1)
+13 – **(Ek sıra: 9/5/2014-2014/6382 K.; Mülga sıra: 5/2/2018-2018/11334 K.)**(1)
 
-14 – (Ek sıra: 9/5/2014-2014/6382 K.) Gümrük ve Ticaret Bakanlığı taşra teşkilatına ait kaptan, makinist ve gemi adamı kadrolarında görev yapan personele yılda iki adet tişört, bir adet kazak ile üç yılda bir adet baret ve bir adet tulum verilebilir.(1)
+14 – **(Ek sıra: 9/5/2014-2014/6382 K.)** Gümrük ve Ticaret Bakanlığı taşra teşkilatına ait kaptan, makinist ve gemi adamı kadrolarında görev yapan personele yılda iki adet tişört, bir adet kazak ile üç yılda bir adet baret ve bir adet tulum verilebilir.(1)
 
 –––––––––––––––––––––
 
-(1) Bu sıralar, 11/6/2014 tarihli ve 29027 sayılı Resmî Gazete’de yayımlanmış olup yayımını izleyen yılın başı olan 1/1/2015 tarihinde yürürlüğe girecektir.
+<i>(1) Bu sıralar, 11/6/2014 tarihli ve 29027 sayılı Resmî Gazete’de yayımlanmış olup yayımını izleyen yılın başı olan 1/1/2015 tarihinde yürürlüğe girecektir.</i>
 
-(2) 1/7/2021 tarihli ve 31528 sayılı Resmî Gazete’de yayımlanan 4210 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle bu fıkrada yer alan “başlık” ibaresi “başörtüsü” şeklinde değiştirilmiştir.
+<i>(2) 1/7/2021 tarihli ve 31528 sayılı Resmî Gazete’de yayımlanan 4210 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle bu fıkrada yer alan “başlık” ibaresi “başörtüsü” şeklinde değiştirilmiştir.</i>
 
 2826
 
-15 – (Ek sıra: 8/2/2016-2016/8542 K.) Orman muhafaza memurlarına yapacakları görevler gereği iki yılda bir, iki adet (yazlık, kışlık) pantolon, iki yılda bir, bir adet kazak ve yelek verilebilir. Motosikletli olarak görev yapan orman muhafaza memurlarına ise bu giyim eşyaları ile (I) sayılı Cetvelin (21) numaralı sırasında sayılan giyim eşyalarının dışında giymeleri zorunlu olan giyim eşyaları ayrıca verilir.
+15 – **(Ek sıra: 8/2/2016-2016/8542 K.)** Orman muhafaza memurlarına yapacakları görevler gereği iki yılda bir, iki adet (yazlık, kışlık) pantolon, iki yılda bir, bir adet kazak ve yelek verilebilir. Motosikletli olarak görev yapan orman muhafaza memurlarına ise bu giyim eşyaları ile (I) sayılı Cetvelin (21) numaralı sırasında sayılan giyim eşyalarının dışında giymeleri zorunlu olan giyim eşyaları ayrıca verilir.
 
 Motosikletli olarak görev yapan orman muhafaza memurlarının zorunlu olarak giyecekleri giyim eşyaları ile bunlara bu giyim eşyaları dikkate alınmak suretiyle bu Yönetmelik kapsamında verilecek giyim eşyalarından hangilerinin verileceğini belirlemeye Orman ve Su İşleri Bakanlığı yetkilidir.
 
-16 – (Ek sıra: 6/6/2016-2016/8888 K.) Gümrük ve Ticaret Bakanlığında Dedektör Köpek Eğitmeni ve İdarecisi olarak görev yapan muhafaza amir ve memurlarına yılda (2) adet tulum verilir.
+16 – **(Ek sıra: 6/6/2016-2016/8888 K.)** Gümrük ve Ticaret Bakanlığında Dedektör Köpek Eğitmeni ve İdarecisi olarak görev yapan muhafaza amir ve memurlarına yılda (2) adet tulum verilir.
 
 B) Bu Yönetmeliğe ekli II sayılı Cetvelin Teknik Hizmetler Sınıfına ait bölümünün 2 nci sırasında belirtilen (Arazide çalışanlar) ibaresi, yıllık çalışma programları çerçevesinde aynı yıl içerisinde en az toplam 3 ay süre ile fiilen arazide görev yapılmasını ifade eder.
 

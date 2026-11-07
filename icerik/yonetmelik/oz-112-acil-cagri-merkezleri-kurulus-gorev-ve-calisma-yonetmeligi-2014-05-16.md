@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -74,7 +74,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Kuruluş, Görev, Yetki ve Sorumluluklar
+**Kuruluş, Görev, Yetki ve Sorumluluklar**
 
 #### 112 acil çağrı merkezi müdürlüğünün kuruluşu
 
@@ -366,7 +366,7 @@ e) Afet ve acil durum çağrı yönlendiricileri:
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Çağrı Hizmetlerinin Koordinasyonu ve Değerlendirilmesi
+**Çağrı Hizmetlerinin Koordinasyonu ve Değerlendirilmesi**
 
 #### Acil Çağrı Hizmetleri Merkez Koordinasyon Komisyonu
 
@@ -416,7 +416,7 @@ e) Afet ve acil durum çağrı yönlendiricileri:
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Personel İstihdamı, Hizmet İçi Eğitim ve Mali Hükümler
+**Personel İstihdamı, Hizmet İçi Eğitim ve Mali Hükümler**
 
 #### Personel istihdamı
 
@@ -444,7 +444,7 @@ c) Çağrı merkezinde, çağrı yönlendirici olarak görev yapacak olan person
 
 ### BEŞİNCİ BÖLÜM
 
-Veri Paylaşımı Güvenliği ve Yaptırımlar
+**Veri Paylaşımı Güvenliği ve Yaptırımlar**
 
 #### Veri paylaşımı ve güvenliği
 
@@ -462,7 +462,7 @@ Veri Paylaşımı Güvenliği ve Yaptırımlar
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Bildirim
 

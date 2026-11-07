@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -52,7 +52,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Hukuki Yardımın Mahiyeti
+**Hukuki Yardımın Mahiyeti**
 
 #### Hukuki yardım yapılacak haller
 
@@ -72,7 +72,7 @@ c) İlgili personelin soruşturma safhasında şüpheli, kovuşturma safhasında
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Hukuki Yardım Usulü
+**Hukuki Yardım Usulü**
 
 #### Bildirim ve kayıt sistemi
 
@@ -102,7 +102,7 @@ Hukuki Yardım Usulü
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Hukuki yardımın sona ermesi
 

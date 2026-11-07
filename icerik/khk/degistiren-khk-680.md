@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2017/01/20170106M1-2.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-HÜKMÜNDE KARARNAME OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
-Karar Sayısı: KHK/680 Olağanüstü hal kapsamında bazı düzenlemeler yapılması; Anayasanın 121 inci maddesi ile 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununun 4 üncü maddesine göre, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu’nca 2/1/2017 tarihinde kararlaştırılmıştır.
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**HÜKMÜNDE KARARNAME** OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME
+**Karar Sayısı: KHK/680** Olağanüstü hal kapsamında bazı düzenlemeler yapılması; Anayasanın 121 inci maddesi ile 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanununun 4 üncü maddesine göre, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu’nca 2/1/2017 tarihinde kararlaştırılmıştır.
 BİRİNCİ BÖLÜM
 Yargı ile İlgili Düzenlemeler
 
@@ -56,15 +56,15 @@ MADDE 14- 11/12/2010 tarihli ve 6087 sayılı Hâkimler ve Savcılar Yüksek Kur
 “(8) Yargıtay Cumhuriyet Başsavcısı iddianamesini düzenleyerek evrakı, görevle ilgili suçlarda Yüce Divan sıfatıyla yargılama yapmak üzere Anayasa Mahkemesine, kişisel suçlarda ise Yargıtay ilgili ceza dairesine gönderir.”
 
 MADDE 15- 30/3/2011 tarihli ve 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanunun 17 nci maddesinin ikinci fıkrasında yer alan “Yargıtay Ceza Genel Kurulunca” ibaresi “Yargıtay ilgili ceza dairesince” şeklinde ve aynı maddenin dördüncü fıkrasında yer alan “Yargıtay Ceza Genel Kuruluna” ibaresi “Yargıtay ilgili ceza dairesine” şeklinde değiştirilmiştir.
-İKİNCİ BÖLÜM
-Medya Hizmet Sağlayıcılara İlişkin Hükümler
+**İKİNCİ BÖLÜM**
+**Medya Hizmet Sağlayıcılara İlişkin Hükümler**
 
 MADDE 16- 11/11/1983 tarihli ve 2954 sayılı Türkiye Radyo ve Televizyon Kanununun 50 nci maddesinin birinci fıkrasının (g) bendinin birinci paragrafı ile aynı fıkranın (ı) bendi aşağıdaki şekilde değiştirilmiştir.
 “Kurumda kadro karşılığı sözleşmeli personel çalıştırılabilir. Bu personelin unvanları, sayısı, kadro iptal ve ihdasları, ücretleri, kadrolara uygulanacak ek göstergeler, özel hizmet tazminatı, fazla çalışma ücreti gibi personele sağlanacak her türlü mali ve sosyal haklar, Yönetim Kurulunun teklifi üzerine Bakanlar Kurulunca belirlenir. Kurum personeline sağlanan mali ve sosyal ödemeler ile ücretlerin toplamı, 4/7/2001 tarihli ve 631 sayılı Memurlar ve Diğer Kamu Görevlilerinin Mali ve Sosyal Haklarında Düzenlemeler ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname ve bu Kanun Hükmünde Kararnameye dayanılarak yürürlüğe konulan Bakanlar Kurulu kararları kapsamında tespit edilen ortalama ücret toplamı üst sınırını geçemez.”
 “ı) Sözleşmeli personel; Kurumda radyo-televizyon yayın, yapım, teknik ve bilişim hizmetlerini yürütmek üzere Kurumca yapılacak sınavla istihdam edilen, istihdama ve sözleşmeye ilişkin usul ve esasları Yönetim Kurulunca belirlenen yerli veya yabancı uyruklu personeldir. Bu suretle çalıştırılacaklar, sosyal güvenlikleri bakımından 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi hükümlerine tabidir. Sözleşmeli personelin ücreti Genel Müdürün teklifi ve Yönetim Kurulu kararı ile tespit edilir. Kurumun yabancı dilde yayın yapan televizyon kanallarında fiilen çalışanlar hariç, sözleşmeli personelin ücretleri 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrasına göre istihdam edilenlere uygulanan sözleşme ücreti tavanının dört katını geçemez ve bu ücret dışında herhangi bir ödeme yapılamaz. Bu şekilde istihdam edilecek personel sayısı 300’ü geçemez.
 Ancak, Kurumun yabancı dilde yayın yapan televizyon kanallarında fiilen çalıştırılmak üzere bu sayıya ilaveten 450’yi geçmemek üzere sözleşmeli personel istihdam edilebilir. Bu bentte belirtilen sözleşmeli personel sayıları Bakanlar Kurulu kararı ile artırılabilir. Yabancı uyruklular dışında kalan sözleşmeli personel yönetici kadrolarında görevlendirilebilir.”
 
-MADDE 17- 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanunun 7 nci maddesine aşağıdaki fıkra eklenmiştir.
+**MADDE 17-** 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanunun 7 nci maddesine aşağıdaki fıkra eklenmiştir.
 “(4) Bu madde ile 9/6/2004 tarihli ve 5187 sayılı Basın Kanunu uyarınca getirilen yayın yasak ve kısıtlamalarına aykırı olarak yayın yapılması hâlinde, Üst Kurul tarafından medya hizmet sağlayıcı kuruluşun programlarının yayını bir gün durdurulur ve bu halde 32 nci maddenin dördüncü fıkrası uygulanır. Bir yıl içinde; aykırılığın tekrarı halinde medya hizmet sağlayıcı kuruluşun yayınlarının beş güne kadar, ikinci kez tekrar edilmesi halinde onbeş güne kadar durdurulmasına, üçüncü kez tekrar edilmesi halinde ise yayın lisansının iptaline karar verilir.”
 
 MADDE 18- 6112 sayılı Kanunun 8 inci maddesinin birinci fıkrasının (d) bendinin ikinci cümlesi yürürlükten kaldırılmış ve aynı fıkraya aşağıdaki bent eklenmiştir.
@@ -102,15 +102,15 @@ MADDE 13/A- Kaybolan çocukların bulunması amacıyla, polis, sulh ceza hâkimi
 ancak bu süre, bir defaya mahsus olmak üzere bir ay daha uzatılabilir.
 Mülki idare amirinin kararı, derhal mahkemenin onayına sunulur. Mahkeme kararını en geç yirmidört saat içinde verir.”
 
-MADDE 27- 2559 sayılı Kanunun ek 6 ncı maddesine aşağıdaki fıkra eklenmiştir.
+MADDE 27- **2559 sayılı Kanunun ek 6 ncı maddesine aşağıdaki fıkra eklenmiştir.**
 “Polis, sanal ortamda işlenen suçlarda, yetkili Cumhuriyet başsavcılığının tespiti amacıyla, internet abonelerine ait kimlik bilgilerine ulaşmaya, sanal ortamda araştırma yapmaya yetkilidir.
 Erişim sağlayıcıları, yer sağlayıcıları ve içerik sağlayıcıları talep edilen bu bilgileri kolluğun bu suçlarla mücadele için oluşturduğu birimine bildirir.”
 
-MADDE 28- 2559 sayılı Kanunun ek 7 nci maddesinin;
-a) Birinci fıkrasına “ülke seviyesinde” ibaresinden sonra gelmek üzere “ve sanal ortamda” ibaresi eklenmiştir.
-b) İkinci fıkrasında yer alan “yazılı suçların işlenmesinin önlenmesi amacıyla, hâkim kararı veya gecikmesinde sakınca bulunan hallerde Emniyet Genel Müdürünün veya İstihbarat Dairesi Başkanının” ibaresi “yazılı suçlar ile bilişim suçlarının işlenmesinin önlenmesi amacıyla hâkim kararı veya gecikmesinde sakınca bulunan hallerde Emniyet Genel Müdürünün, Emniyet Genel Müdürlüğü İstihbarat Dairesi Başkanının veya bilişim suçlarıyla sınırlı olmak üzere bilişim suçları ile ilgili daire başkanının” şeklinde değiştirilmiş, aynı fıkraya “telekomünikasyon yoluyla yapılan iletişim” ibaresinden sonra gelmek üzere “veya internet bağlantı adresleriyle internet kaynakları arasındaki veri trafiği ile iletilen veriler” ibaresi eklenmiştir.
-c) Dördüncü fıkrasında yer alan “veya iletişim bağlantısını” ibaresi “, ilgili internet bağlantı adresi veya bağlantıyı” şeklinde değiştirilmiştir.
-ç) Sekizinci fıkrasında yer alan “görevlilerince” ibaresi “görevlileri ile bilişim suçlarıyla sınırlı olmak üzere bilişim suçlarıyla ilgili daire başkanlığı görevlilerince” şeklinde değiştirilmiştir.
+MADDE 28- **2559 sayılı Kanunun ek 7 nci maddesinin;**
+**a) Birinci fıkrasına “ülke seviyesinde” ibaresinden sonra gelmek üzere “ve sanal ortamda” ibaresi eklenmiştir.**
+**b) İkinci fıkrasında yer alan “**yazılı suçların işlenmesinin önlenmesi amacıyla, hâkim kararı veya gecikmesinde sakınca bulunan hallerde Emniyet Genel Müdürünün veya İstihbarat Dairesi Başkanının” ibaresi “yazılı suçlar ile bilişim suçlarının işlenmesinin önlenmesi amacıyla hâkim kararı veya gecikmesinde sakınca bulunan hallerde Emniyet Genel Müdürünün, Emniyet Genel Müdürlüğü İstihbarat Dairesi Başkanının veya bilişim suçlarıyla sınırlı olmak üzere bilişim suçları ile ilgili daire başkanının” şeklinde değiştirilmiş, aynı fıkraya “telekomünikasyon yoluyla yapılan iletişim” ibaresinden sonra gelmek üzere “veya **internet bağlantı adresleriyle internet kaynakları arasındaki veri trafiği ile iletilen veriler” ibaresi eklenmiştir.**
+**c) Dördüncü fıkrasında yer alan “veya iletişim bağlantısını” ibaresi “, ilgili internet bağlantı adresi veya bağlantıyı” şeklinde değiştirilmiştir.**
+**ç) Sekizinci fıkrasında yer alan “görevlilerince” ibaresi “**görevlileri ile bilişim suçlarıyla sınırlı olmak üzere bilişim suçlarıyla ilgili daire başkanlığı görevlilerince” şeklinde değiştirilmiştir.
 
 MADDE 29- 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 56 ncı maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Harp okulları ve astsubay meslek yüksekokullarında okuyanlar, Jandarma ve Sahil Güvenlik Akademisi fakülte ve yüksekokullarında okuyanlar, üniversitelerin fakülte ve yüksekokullarında Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı adına öğrenim görenler ya da kendi hesabına öğrenim görmekte iken Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı nam ve hesabına okumaya devam edenler, Polis Akademisi ile Polis Meslek Eğitim Merkezlerinde veya üniversitelerin fakülte ve yüksekokullarında Emniyet Genel Müdürlüğü hesabına öğrenim görenler veya kendi hesabına öğrenim görmekte iken Emniyet Genel Müdürlüğü hesabına öğrenim görmeye devam edenler, Emniyet Genel Müdürlüğü veya Millî İstihbarat Teşkilatı hesabına açılan okullarda öğrenim görenler ile Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı veya Emniyet Genel Müdürlüğü adına öğrenim görmek üzere temel ve intibak eğitimine tabi tutulanlardan;
@@ -128,7 +128,7 @@ MADDE 33- 6245 sayılı Kanunun 17 nci maddesinin başlığına “Türk Silahl�
 
 MADDE 34- 6245 sayılı Kanunun 33 üncü maddesinin birinci fıkrasının (b) bendine “Silahlı Kuvvetler Denetleme ve Tetkik Kurulları Başkan ve Üyeleri,” ibaresinden sonra gelmek üzere “Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Denetleme, Teftiş ve Tetkik Başkan ve Üyeleri ile Müfettiş ve Müfettiş Yardımcıları,” ibaresi eklenmiştir.
 
-MADDE 35- 21/2/1963 tarihli ve 210 sayılı Değerli Kağıtlar Kanununa bağlı “Değerli Kağıtlar Tablosu”nun (11) numaralı sırası yürürlükten kaldırılmıştır.
+**MADDE 35-** 21/2/1963 tarihli ve 210 sayılı Değerli Kağıtlar Kanununa bağlı “Değerli Kağıtlar Tablosu”nun (11) numaralı sırası yürürlükten kaldırılmıştır.
 
 MADDE 36- 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 122 nci maddesinin birinci fıkrasında yer alan “(Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı hariç)” ibaresi yürürlükten kaldırılmıştır.
 
@@ -195,7 +195,7 @@ EK MADDE 12- Jandarma Genel Komutanlığına mensup sözleşmeli subay ve astsub
 Yüzbaşılık ve astsubay kıdemli üstçavuşluk normal bekleme süresinin bitiminden sonra muvazzaf subay ve astsubay olanlar, geçmişe yönelik herhangi bir hak talebinde bulunamaz.”
 
 MADDE 48- 2803 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
-“Mecburi hizmet süresi
+**“Mecburi hizmet süresi**
 
 GEÇİCİ MADDE 9- Bu maddenin yayımı tarihi itibarıyla Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığında muvazzaf subay ve astsubay olanlar için mecburi hizmet yükümlülükleri aşağıda belirtilmiştir:
 a) Subay veya astsubay nasbedildikleri tarihten itibaren fiilen 10 yıl hizmet esas alınmak suretiyle mecburi hizmetlerinin kalan kısmı aynen devam eder.
@@ -219,32 +219,32 @@ MADDE 50 – 6/10/1983 tarihli ve 2911 sayılı Toplantı ve Gösteri Yürüyü�
 “d) Mahallin güvenlik amirleri;
 illerde il emniyet müdürü ve il jandarma komutanını, ilçelerde ilçe emniyet amiri veya komiseri ve ilçe jandarma komutanını, Sahil Güvenlik Komutanlığı için Sahil Güvenlik Bölge Komutanını, Sahil Güvenlik Grup Komutanını ve Sahil Güvenlik Karakol Komutanı ile Sahil Güvenlik Gemi/Bot Komutanını,”
 
-MADDE 51- 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun Dördüncü Kısım başlığı ile aynı Kısmın Birinci Bölüm başlığında yer alan “ve Trafik” ibareleri yürürlükten kaldırılmış, 21 inci maddesinin başlığında yer alan “Trafik belgesi” ibaresi “Tescil belgesi” şeklinde, birinci fıkrasının birinci cümlesinde yer alan “Trafik Belgesi” ibaresi “Tescil Belgesi” şeklinde, aynı fıkranın ikinci cümlesinde yer alan “trafik belgesi” ibaresi “tescil belgesi” şeklinde ve dördüncü fıkrasında yer alan “Trafik belgesi, tescil” ibaresi “Tescil” şeklinde değiştirilmiştir.
+<i>MADDE 51- 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun Dördüncü Kısım başlığı ile aynı Kısmın Birinci Bölüm başlığında yer alan “ve Trafik” ibareleri yürürlükten kaldırılmış, 21 inci maddesinin başlığında yer alan “Trafik belgesi” ibaresi “Tescil belgesi” şeklinde, birinci fıkrasının birinci cümlesinde yer alan “Trafik Belgesi” ibaresi “Tescil Belgesi” şeklinde, aynı fıkranın ikinci cümlesinde yer alan “trafik belgesi” ibaresi “tescil belgesi” şeklinde ve dördüncü fıkrasında yer alan “Trafik belgesi, tescil” ibaresi “Tescil” şeklinde değiştirilmiştir.</i>
 
-MADDE 52- 2918 sayılı Kanunun 22 nci maddesinin birinci fıkrasının mülga (e) bendi aşağıdaki şekilde yeniden düzenlenmiştir.
-“e) Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığına ait bütün araçların tescilleri Emniyet Genel Müdürlüğünce,”
+<i>MADDE 52- 2918 sayılı Kanunun 22 nci maddesinin birinci fıkrasının mülga (e) bendi aşağıdaki şekilde yeniden düzenlenmiştir.</i>
+<i>“e) Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığına ait bütün araçların tescilleri Emniyet Genel Müdürlüğünce,”</i>
 
-MADDE 53- 2918 sayılı Kanunun 24 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
-“Araç muayene raporu:
+**MADDE 53-** 2918 sayılı Kanunun 24 üncü maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+**“Araç muayene raporu:**
 
-MADDE 24- Bu Kanunun 35 inci maddesiyle yetkilendirilen kuruluşlarca araç muayene raporu tanzim edilebilmesi için araç tescil belgesi veya sahiplik belgesi ile zorunlu mali sorumluluk sigortasının ibrazı zorunludur.
-Tescil belgesi ve tescil plakalarının verilmesi şartları, geçerlilikleri, süreleri, nitelik ve nicelikleri ile diğer esaslar yönetmelikte gösterilir.”
+**MADDE 24- Bu Kanunun 35 inci maddesiyle yetkilendirilen kuruluşlarca araç muayene raporu tanzim edilebilmesi için araç tescil belgesi veya sahiplik belgesi ile zorunlu mali sorumluluk sigortasının ibrazı zorunludur.**
+**Tescil belgesi ve tescil plakalarının verilmesi şartları, geçerlilikleri, süreleri, nitelik ve nicelikleri ile diğer esaslar yönetmelikte gösterilir.”**
 
-MADDE 54- 2918 sayılı Kanunun 27 nci maddesinin birinci fıkrasında yer alan “trafik belgesi” ibaresi “tescil belgesi” şeklinde değiştirilmiştir.
+<i>MADDE 54- 2918 sayılı Kanunun 27 nci maddesinin birinci fıkrasında yer alan “trafik belgesi” ibaresi “tescil belgesi” şeklinde değiştirilmiştir.</i>
 
-MADDE 55- 2918 sayılı Kanunun 28 inci maddesinin ikinci fıkrasına “Emniyet” ibaresinden sonra gelmek üzere “, Jandarma ve Sahil Güvenlik” ibaresi eklenmiştir.
+<i>MADDE 55- 2918 sayılı Kanunun 28 inci maddesinin ikinci fıkrasına “Emniyet” ibaresinden sonra gelmek üzere “</i>, Jandarma ve Sahil Güvenlik” ibaresi eklenmiştir.
 
-MADDE 56- 2918 sayılı Kanunun 32 nci maddesinin üçüncü fıkrasında yer alan “trafik belgesine” ibaresi “tescil belgesine” şeklinde değiştirilmiştir.
+<i>MADDE 56- 2918 sayılı Kanunun 32 nci maddesinin üçüncü fıkrasında yer alan “trafik belgesine” ibaresi “tescil belgesine” şeklinde değiştirilmiştir.</i>
 
-MADDE 57- 2918 sayılı Kanunun 35 inci maddesinin beşinci fıkrasına aşağıdaki cümle eklenmiştir.
-“Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına ait taşıtların muayeneleri ilgisine göre Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından yapılır.”
+<i>MADDE 57- 2918 sayılı Kanunun 35 inci maddesinin beşinci fıkrasına aşağıdaki cümle eklenmiştir.</i>
+<i>“Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına ait taşıtların</i> muayeneleri <i>ilgisine göre Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından yapılır.”</i>
 
 MADDE 58- 2918 sayılı Kanunun 81 inci maddesinin birinci fıkrasının (c) bendinde yer alan “trafik belgesi” ibaresi “tescil belgesi” şeklinde değiştirilmiştir.
 
-MADDE 59- 2918 sayılı Kanunun 115 inci maddesinin sekizinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-“Sürücüsünün Türk vatandaşı olup olmadığına bakılmaksızın yabancı plakalı araçlara uygulanacak olan trafik idari para cezaları, tebligat şartı aranmaksızın sürücüsü bilgilendirilmek suretiyle tahsil edilir. Trafik cezaları tahsil edilmeden yabancı plakalı aracın ülkeyi terk etmesine izin verilmez. Türk plakalı araç kullanan yabancı sürücülerin trafik cezaları, cezanın yazıldığı araç sahibinden tahsil edilir. Bu fıkra hükümlerinin uygulanmasına ilişkin usul ve esaslar Gümrük ve Ticaret Bakanlığı, İçişleri Bakanlığı ve Maliye Bakanlığı ile Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca müştereken çıkarılan yönetmelikle belirlenir. Uluslararası sözleşme hükümleri saklıdır.”
+**MADDE 59-** 2918 sayılı Kanunun 115 inci maddesinin sekizinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+**“Sürücüsünün Türk vatandaşı olup olmadığına bakılmaksızın yabancı plakalı araçlara uygulanacak olan trafik idari para cezaları, tebligat şartı aranmaksızın sürücüsü bilgilendirilmek suretiyle tahsil edilir. Trafik cezaları tahsil edilmeden yabancı plakalı aracın ülkeyi terk etmesine izin verilmez. Türk plakalı araç kullanan yabancı sürücülerin trafik cezaları, cezanın yazıldığı araç sahibinden tahsil edilir. Bu fıkra hükümlerinin uygulanmasına ilişkin usul ve esaslar Gümrük ve Ticaret Bakanlığı, İçişleri Bakanlığı ve Maliye Bakanlığı ile Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca müştereken çıkarılan yönetmelikle belirlenir. Uluslararası sözleşme hükümleri saklıdır.”**
 
-MADDE 60- 2918 sayılı Kanunun ek 2 nci maddesinin birinci fıkrasında yer alan “ve trafik” ibaresi yürürlükten kaldırılmıştır.
+<i>MADDE 60- 2918 sayılı Kanunun ek 2 nci maddesinin birinci fıkrasında yer alan “ve trafik” ibaresi yürürlükten kaldırılmıştır.</i>
 
 MADDE 61- 2918 sayılı Kanuna aşağıdaki ek madde eklenmiştir.
 “Noterliklere devir
@@ -258,10 +258,10 @@ c) Araç tescil işlemi karşılığında, noterler tarafından alınacak ücret
 Araç sicilleri ve bu sicillerin tutulmasına dayanak olan belgeler gizlidir. Bunlar, yetkili ve sorumlular ile teftiş ve denetim yetkisi olanlar dışında kimse tarafından görülüp incelenemez. Mahkemeler bu hükmün dışındadır. Bu bilgileri işleyen görevliler ve araç kayıtlarından faydalanan diğer görevliler de bu gizliliğe uymak zorundadırlar.
 Birinci fıkrada devre ilişkin öngörülen hükümler istihbarat, gizlilik veya güvenlik gerektiren hizmetlerde kullanılan araçların her türlü tescil işlemi ile belge ve plakalarını verme ve sivil plaka işlemleri hakkında uygulanmaz.”
 
-MADDE 62- 2918 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
-“GEÇİCİ MADDE 23- Mevcut araçları için Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca bu Kanunun 22 nci maddesinin birinci fıkrasının (e) bendine göre yapılacak tescil işlemleri bu maddenin yayımı tarihinden itibaren üç ay içinde tamamlanır.
+<i>MADDE 62- 2918 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.</i>
+<i>“GEÇİCİ MADDE 23- Mevcut araçları için Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca bu Kanunun 22 nci maddesinin birinci fıkrasının (e) bendine göre yapılacak tescil işlemleri bu maddenin yayımı tarihinden itibaren üç ay içinde tamamlanır.</i>
 
-GEÇİCİ MADDE 24- Bu Kanunun 115 inci maddesinin sekizinci fıkrasının uygulanmasına ilişkin yönetmelik, bu maddenin yayımı tarihinden itibaren altı ay içinde yürürlüğe konulur.”
+**GEÇİCİ MADDE 24- Bu Kanunun 115 inci maddesinin sekizinci fıkrasının uygulanmasına ilişkin yönetmelik, bu maddenin yayımı tarihinden itibaren altı ay içinde yürürlüğe konulur.”**
 
 MADDE 63- 28/5/1988 tarihli ve 3466 sayılı Uzman Jandarma Kanununun 18 inci maddesinin birinci fıkrasının (a) bendinin (3) numaralı alt bendinde yer alan “28” ibaresi “31” şeklinde değiştirilmiştir.
 
@@ -271,17 +271,17 @@ MADDE 64- 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun 21 inc
 MADDE 65- 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 11 inci maddesinin beşinci fıkrasına aşağıdaki cümleler eklenmiştir.
 “Aynı bent kapsamındaki işlemlerin yürütülmesinde görev alan kamu görevlilerinin, yaptıkları iş ve işlemler nedeniyle hukuki, idari, mali ve cezai sorumluluğu doğmaz. Söz konusu bent hükümlerine göre yürütülen faaliyetler çerçevesinde elde edilen bilgi ve kayıtları, hukuka aykırı olarak kullanan, bir başkasına veren, yayan veya ele geçiren kişi, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu hükümlerine göre cezalandırılır.”
 
-MADDE 66- 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanunun 5 inci maddesinin başlığı “Faaliyet izni” şeklinde, üçüncü fıkrası aşağıdaki şekilde değiştirilmiş, aynı maddeye üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve mevcut dördüncü fıkrasında yer alan “Kurucu” ibarelerinden sonra gelmek üzere “, temsilci” ibareleri eklenmiştir.
+MADDE 66- **10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanunun** 5 inci maddesinin başlığı “Faaliyet izni” şeklinde, üçüncü fıkrası aşağıdaki şekilde değiştirilmiş, aynı maddeye üçüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiş ve mevcut dördüncü fıkrasında yer alan “Kurucu” ibarelerinden sonra gelmek üzere “, temsilci” ibareleri eklenmiştir.
 “Kurucu, yönetici, eğitici ile şirket tüzel kişi ortağının yetkilendirdiği temsilcilerde de 10 uncu maddenin birinci fıkrasının (a), (d), ve (h) bentlerinde belirtilen şartlar aranır.
 Yöneticilerin ayrıca lisans mezunu olmaları ve 14 üncü maddede belirtilen özel güvenlik temel eğitimini başarıyla tamamlamış olmaları gerekir.
 Yöneticiler sadece bir faaliyet izin belgesinde yönetici unvanı alabilirler. Özel güvenlik birimleri veya özel güvenlik şirketlerinin şubelerinde veya onbeş kişi ve üzerinde özel güvenlik görevlisi istihdam edilen yerlerde en az bir güvenlik sorumlusu belirlenir. Güvenlik sorumlularında 10 uncu maddede belirtilen şartlara ilave olarak en az önlisans mezunu olma şartı aranır.”
 
-MADDE 67- 5188 sayılı Kanunun 6 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-“Mülki idare amirleri; kamu güvenliğinin gerektirdiği hallerde özel güvenlik izni verilen yerlerde alınan özel güvenlik tedbirlerini denetlemeye ve yetersiz bulduğu takdirde ek önlemler aldırmaya yetkilidir.”
+**MADDE 67- 5188 sayılı Kanunun 6 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.**
+“**Mülki idare amirleri; kamu güvenliğinin gerektirdiği hallerde özel güvenlik izni verilen yerlerde alınan özel güvenlik tedbirlerini denetlemeye ve yetersiz bulduğu takdirde ek önlemler aldırmaya yetkilidir.”**
 
-MADDE 68- 5188 sayılı Kanunun 9 uncu maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.
+**MADDE 68- 5188 sayılı Kanunun 9 uncu maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.**
 “Özel güvenlik görevlileri 7 nci maddede sayılan yetkileri sadece görevli oldukları süre içinde ve görev alanlarında kullanabilirler.
-Özel güvenlik görevlileri silahlarını görev alanı dışına çıkaramazlar. İşlenmiş bir suçun sanığı veya suç işleyeceğinden kuvvetle şüphe edilen kişinin takibi, dışarıdan yapılan saldırılara karşı tedbir alınması, para ve değerli eşya nakli ve cenaze töreni gibi güzergâh ifade eden durumlarda güzergâh boyu görev alanı sayılır. Görev alanı, zorunlu hallerde Komisyon kararıyla genişletilebilir. Kişi korumasında çalışan özel güvenlik görevlilerinin görev alanı; koruduğu kişi ile birlikte olduğunda ülke geneli, koruduğu kişi olmaksızın kişi koruma izni verilen ilin sınırlarıdır.”
+**Özel güvenlik görevlileri silahlarını görev alanı dışına çıkaramazlar. İşlenmiş bir suçun sanığı veya suç işleyeceğinden kuvvetle şüphe edilen kişinin takibi, dışarıdan yapılan saldırılara karşı tedbir alınması, para ve değerli eşya nakli ve cenaze töreni gibi güzergâh ifade eden durumlarda güzergâh boyu görev alanı sayılır. Görev alanı, zorunlu hallerde Komisyon kararıyla genişletilebilir. Kişi korumasında çalışan özel güvenlik görevlilerinin görev alanı; koruduğu kişi ile birlikte olduğunda ülke geneli, koruduğu kişi olmaksızın kişi koruma izni verilen ilin sınırlarıdır.”**
 
 MADDE 69- 5188 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (d) bendi aşağıdaki şekilde değiştirilmiş ve aynı fıkraya (g) bendinden sonra gelmek üzere aşağıdaki bent eklenmiştir.
 “d) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş veya hükmün açıklanmasının geri bırakılmasına karar verilmiş olsa bile;
@@ -290,7 +290,7 @@ MADDE 69- 5188 sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (d) ben
 3) Anayasal düzene ve bu düzenin işleyişine, özel hayata ve hayatın gizli alanına, cinsel dokunulmazlığa karşı suçlar ile uyuşturucu veya uyarıcı madde suçlarından dolayı hakkında devam etmekte olan bir soruşturma veya kovuşturma bulunmamak.”
 “h) Güvenlik soruşturması olumlu olmak.”
 
-MADDE 70- 5188 sayılı Kanunun 11 inci maddesinin birinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
+**MADDE 70-** 5188 sayılı Kanunun 11 inci maddesinin birinci ve dördüncü fıkraları aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
 “Özel güvenlik görevlisi olarak istihdam edilecekler ile özel güvenlik şirketlerinde, alarm izleme merkezlerinde ve özel güvenlik eğitimi verecek kurumlarda kurucu ve/veya yönetici olarak çalışacaklar hakkında valilikçe güvenlik soruşturması ve arşiv araştırması yapılır. Soruşturma sonucu olumlu olanlara, bu Kanunun 14 üncü maddesinde belirtilen özel güvenlik temel eğitimini başarıyla bitirmiş olmak şartıyla, valilikçe çalışma izni verilir.
 Güvenlik soruşturması ve arşiv araştırması bir ay içinde tamamlanır.
 Güvenlik soruşturması ve arşiv araştırması her kimlik verilmesi veya ihtiyaç duyulması halinde yenilenir. Şirketlerde eğitici ve temsilci olacaklar ile şirket ortağı tüzel kişi ortaklarında da kurucularda aranan şartlar aranır ve güvenlik soruşturması ve arşiv araştırması yapılır.”
@@ -298,20 +298,20 @@ Güvenlik soruşturması ve arşiv araştırması her kimlik verilmesi veya ihti
 “Terör örgütlerine veya Milli Güvenlik Kurulunca Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara iltisakı veya irtibatı olduğu tespit edilen kişiler, özel güvenlik alanında faaliyet yürüten şirket veya birimlerde çalışamazlar.”
 
 MADDE 71- 5188 sayılı Kanunun 20 nci maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
-“İdari para cezası veya yaptırım gerektiren fiiller
+**“İdari para cezası veya yaptırım gerektiren fiiller**
 
 
 MADDE 20 – Bu Kanunda öngörülen idari para cezasını veya yaptırımı gerektiren fiiller şunlardır:
-a) Özel güvenlik kimlik kartını başkasına kullandıran özel güvenlik yöneticisi ve görevlisine üçbin Türk Lirası idari para cezası verilir ve bu kişilerin özel güvenlik kimlik kartı valilikçe iptal edilir. Bu kişiler bir daha özel güvenlik alanında çalışamazlar.
-b) Diğer kişi, kurum ve kuruluşlara sağlanacak özel güvenlik hizmetini 5 inci maddede belirtilen süre içinde ilgili valiliğe bildirmeyen özel güvenlik şirketlerine her bildirim için üçbin Türk Lirası idari para cezası verilir.
-c) 6 ncı madde uyarınca mülki idare amirlerince istenen ilave tedbirleri almayan kişi, kurum, kuruluş veya şirketlerin yöneticilerine altıbin Türk Lirası idari para cezası verilir.
-d) Mülki idare amirinin veya birlikte görev yapılan yetkili genel kolluk amirinin verdiği emirleri yerine getirmeyen veya bir suçun işlendiğini göreviyle bağlantılı olarak öğrenip de bu suç ile ilgili yetkili genel kolluğa bilgi vermeyen özel güvenlik yöneticisi ve görevlileri ile bu emrin yerine getirilmemesi eylemine sebep olan özel güvenlik yöneticisi ve görevlisinin bağlı oldukları kişi, kurum, kuruluş veya şirket yetkilileri bir yıl süreyle özel güvenlik alanında görev alamazlar.
-e) Geçerli mazereti olmadan denetim esnasında güvenlik sorumlusunu veya yöneticiyi bulundurmayan, denetim kapsamındaki bilgi, belge ve kayıtları vermeyen kişi, kurum, kuruluş ve şirketlere beşbin Türk lirası, denetimlerde tespit edilip giderilmesi istenen eksiklikleri gidermeyen kişi, kurum, kuruluş veya şirketlerin yöneticilerine altıbin Türk Lirası idari para cezası verilir.
-f) Özel güvenlik görevlisini koruma ve güvenlik hizmetleri dışında başka bir işte çalıştıran, üniforma giydirmeyen veya izin verilen dışında teçhizat giydirerek çalıştıran kişi, kurum ve kuruluşlara her tespit için üçbin Türk Lirası idari para cezası verilir.
-g) 11 inci maddenin ikinci fıkrası ile 12 nci maddenin üçüncü fıkrasında belirtilen bildirimleri süresinde yerine getirmeyenlere üçbin Türk Lirası idari para cezası verilir.
-h) Yetkili genel kolluk kuvvetlerine karşı görevini yapmasını engellemek amacıyla direnen veya cebir kullanan ya da tehdit eden özel güvenlik yöneticisi ve görevlisi ile ateşli silâhını bu Kanuna aykırı veya görev alanı dışında kullanan, görevi dışında üniforması ile toplantı ve gösteri yürüyüşlerine katıldığı tespit edilen özel güvenlik görevlilerinin özel güvenlik kimlik kartı valilikçe iptal edilir. Bu kişiler bir daha özel güvenlik alanında çalışamazlar.
-ı) Grev yasağına uymayan özel güvenlik görevlileri altı ay süreyle özel güvenlik alanında görev alamazlar.
-Bu maddede öngörülen cezalar mahalli mülki amir tarafından verilir.”
+**a) Özel güvenlik kimlik kartını başkasına kullandıran özel güvenlik yöneticisi ve görevlisine üçbin Türk Lirası idari para cezası verilir ve bu kişilerin özel güvenlik kimlik kartı valilikçe iptal edilir. Bu kişiler bir daha özel güvenlik alanında çalışamazlar.**
+**b) Diğer kişi, kurum ve kuruluşlara sağlanacak özel güvenlik hizmetini 5 inci maddede belirtilen süre içinde ilgili valiliğe bildirmeyen özel güvenlik şirketlerine her bildirim için üçbin Türk Lirası idari para cezası verilir.**
+**c) 6 ncı madde uyarınca mülki idare amirlerince istenen ilave tedbirleri almayan kişi, kurum, kuruluş veya şirketlerin yöneticilerine altıbin Türk Lirası idari para cezası verilir.**
+**d) Mülki idare amirinin veya birlikte görev yapılan yetkili genel kolluk amirinin verdiği emirleri yerine getirmeyen veya bir suçun işlendiğini göreviyle bağlantılı olarak öğrenip de bu suç ile ilgili yetkili genel kolluğa bilgi vermeyen özel güvenlik yöneticisi ve görevlileri ile bu emrin yerine getirilmemesi eylemine sebep olan özel güvenlik yöneticisi ve görevlisinin bağlı oldukları kişi, kurum, kuruluş veya şirket yetkilileri bir yıl süreyle özel güvenlik alanında görev alamazlar.**
+**e) Geçerli mazereti olmadan denetim esnasında güvenlik sorumlusunu veya yöneticiyi bulundurmayan, denetim kapsamındaki bilgi, belge ve kayıtları vermeyen kişi, kurum, kuruluş ve şirketlere beşbin Türk lirası, denetimlerde tespit edilip giderilmesi istenen eksiklikleri gidermeyen kişi, kurum, kuruluş veya şirketlerin yöneticilerine altıbin Türk Lirası idari para cezası verilir.**
+**f) Özel güvenlik görevlisini koruma ve güvenlik hizmetleri dışında başka bir işte çalıştıran, üniforma giydirmeyen veya izin verilen dışında teçhizat giydirerek çalıştıran kişi, kurum ve kuruluşlara her tespit için üçbin Türk Lirası idari para cezası verilir.**
+**g) 11 inci maddenin ikinci fıkrası ile 12 nci maddenin üçüncü fıkrasında belirtilen bildirimleri süresinde yerine getirmeyenlere üçbin Türk Lirası idari para cezası verilir.**
+**h) Yetkili genel kolluk kuvvetlerine karşı görevini yapmasını engellemek amacıyla direnen veya cebir kullanan ya da tehdit eden özel güvenlik yöneticisi ve görevlisi ile ateşli silâhını bu Kanuna aykırı veya görev alanı dışında kullanan, görevi dışında üniforması ile toplantı ve gösteri yürüyüşlerine katıldığı tespit edilen özel güvenlik görevlilerinin özel güvenlik kimlik kartı valilikçe iptal edilir. Bu kişiler bir daha özel güvenlik alanında çalışamazlar.**
+**ı) Grev yasağına uymayan özel güvenlik görevlileri altı ay süreyle özel güvenlik alanında görev alamazlar.**
+**Bu maddede öngörülen cezalar mahalli mülki amir tarafından verilir.”**
 
 MADDE 72- 5188 sayılı Kanunun 22 nci maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 “Amacı dışında faaliyet gösterdiği veya suç kaynağına dönüştüğü ya da terör örgütlerine aidiyeti, irtibatı ya da iltisakı bulunduğu tespit edilen şirketlerin faaliyet izni iptal edilir. Bu şekilde faaliyet izni iptal edilen şirketlerin kurucu, temsilci ve yöneticileri özel güvenlik alanında faaliyette bulunamazlar.”
@@ -340,7 +340,7 @@ MADDE 78- 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 
 MADDE 79- 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun ek 1 inci maddesinin beşinci fıkrasına aşağıdaki cümle eklenmiştir.
 “Üçüncü fıkranın (a), (b), (c) ve (ç) bentlerinde sayılan maluller ile 15/8/2016 tarihli ve 670 sayılı Olağanüstü Hal Kapsamında Alınması Gereken Tedbirler Hakkında Kanun Hükmünde Kararnamenin 9 uncu maddesine göre tazminat hakkından yararlandırılanların kendileri kırkbeş yaşını bitirmiş olsalar bile istihdam hakkından faydalanabilirler.”
 
-MADDE 80- 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununun 49 uncu maddesinin mülga üçüncü fıkrası aşağıdaki şekilde yeniden düzenlenmiştir.
+**MADDE 80-** 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununun 49 uncu maddesinin mülga üçüncü fıkrası aşağıdaki şekilde yeniden düzenlenmiştir.
 “(3) Yerleşim yeri adresi yurt dışında olan Türk vatandaşlarının adres kayıtları, yaşadıkları ülkede kullanılan adres verilerine veya o ülke ve bağlı olduğu temsilcilik bilgisine göre tutulur.”
 
 MADDE 81- 10/11/2016 tarihli ve 6758 sayılı Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanunun 19 uncu maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.

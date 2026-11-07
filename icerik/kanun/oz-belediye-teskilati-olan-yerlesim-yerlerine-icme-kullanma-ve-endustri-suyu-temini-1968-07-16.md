@@ -14,11 +14,11 @@ durum: "yürürlükte"
 
 ### BELEDİYE TEŞKİLÂTI OLAN YERLEŞİM YERLERİNE İÇME, KULLANMA VE ENDÜSTRİ SUYU TEMİNİ HAKKINDA KANUN[1]
 
-Kanunu Numarası : 1053
+**Kanunu Numarası : 1053**
 
-Kabul Tarihi : 3/7/1968
+**Kabul Tarihi : 3/7/1968**
 
-Yayımlandığı Resmî Gazete : Tarih: 16/7/1968 Sayı: 12951
+**Yayımlandığı Resmî Gazete : Tarih: 16/7/1968 Sayı: 12951**
 
 #### Yayımlandığı Düstur : Tertip: 5 Cilt: 7 Sayfa: 2603
 
@@ -40,7 +40,7 @@ Taksit süresi, ilk ödeme tarihi tesislerin işletmeye açılış tarihinden ba
 
 Belediyeler tarafından protokol esaslarına göre yapılacak ödemeler Devlet Su İşleri Genel Müdürlüğü bütçesine gelir kaydolunur.
 
-(Ek fıkra: 19/4/2018-7139/22 md.) Bu Kanun kapsamında Devlet Su İşleri Genel Müdürlüğü tarafından yapılan işler dolayısıyla Devlet Su İşleri Genel Müdürlüğü ile belediyeler arasında imzalanan protokol uyarınca belediyeler tarafından borçlanılan tutarlara karşılık, bu belediyeler adına her ay genel bütçe vergi gelirleri tahsilatı toplamı üzerinden ayrılan paylardan 2/7/2008 tarihli ve 5779 sayılı İl Özel İdarelerine ve Belediyelere Genel Bütçe Vergi Gelirlerinden Pay Verilmesi Hakkında Kanunun 7 nci maddesinin dördüncü fıkrasında belirtilen kesintilerden sonra kalan kısımdan, Devlet Su İşleri Genel Müdürlüğünün talebi üzerine, ilgisine göre Maliye Bakanlığı veya İller Bankası Anonim Şirketi tarafından kesinti yapılarak Devlet Su İşleri Genel Müdürlüğü hesabına takip eden ayın sonuna kadar aktarılır. Aktarılacak bu tutar, kesintiler düşüldükten sonra ilgili belediyeye gönderilecek tutarın %10’unu aşamaz.
+**(Ek fıkra: 19/4/2018-7139/22 md.)** Bu Kanun kapsamında Devlet Su İşleri Genel Müdürlüğü tarafından yapılan işler dolayısıyla Devlet Su İşleri Genel Müdürlüğü ile belediyeler arasında imzalanan protokol uyarınca belediyeler tarafından borçlanılan tutarlara karşılık, bu belediyeler adına her ay genel bütçe vergi gelirleri tahsilatı toplamı üzerinden ayrılan paylardan 2/7/2008 tarihli ve 5779 sayılı İl Özel İdarelerine ve Belediyelere Genel Bütçe Vergi Gelirlerinden Pay Verilmesi Hakkında Kanunun 7 nci maddesinin dördüncü fıkrasında belirtilen kesintilerden sonra kalan kısımdan, Devlet Su İşleri Genel Müdürlüğünün talebi üzerine, ilgisine göre Maliye Bakanlığı veya İller Bankası Anonim Şirketi tarafından kesinti yapılarak Devlet Su İşleri Genel Müdürlüğü hesabına takip eden ayın sonuna kadar aktarılır. Aktarılacak bu tutar, kesintiler düşüldükten sonra ilgili belediyeye gönderilecek tutarın %10’unu aşamaz.
 
 **Madde 5 –** Devlet Su İşleri Genel Müdürlüğünce meydana getirilecek isale hatları ve tasfiye tesisleri bir protokol ile ilgili belediyelere devredilir ve belediyelerce işletilir.
 
@@ -87,8 +87,8 @@ Barajlarda ve/veya tesislerde bu Kanunun 4 üncü maddesine göre veya diğer ka
 | KHK/698 | Ek Madde 1 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte |
 | 7153 | 4 | 10/12/2018 |
 
-<small>[1] 18/4/2007 tarihli ve 5625 sayılı Kanunun 4 üncü maddesiyle bu Kanunun adı “ Ankara, İstanbul ve Nüfusu Yüzbinden Yukarı Olan Şehirlerde İçme, Kullanma ve Endüstri Suyu Temini Hakkında Kanun” iken, metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[1] <i>18/4/2007 tarihli ve 5625 sayılı Kanunun 4 üncü maddesiyle bu Kanunun adı “ Ankara, İstanbul ve Nüfusu Yüzbinden Yukarı Olan Şehirlerde İçme, Kullanma ve Endüstri Suyu Temini Hakkında Kanun” iken, metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[2] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] 2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 29 uncu maddesi ile bu fıkrada yer alan “Devlet Su İşleri Genel Müdürlüğünün bağlı olduğu Bakanlığın teklifi ve Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>2/7/2018 tarihli ve 698 sayılı Kanun Hükmünde Kararnamenin 29 uncu maddesi ile bu fıkrada yer alan “Devlet Su İşleri Genel Müdürlüğünün bağlı olduğu Bakanlığın teklifi ve Başbakanın” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.</i></small>

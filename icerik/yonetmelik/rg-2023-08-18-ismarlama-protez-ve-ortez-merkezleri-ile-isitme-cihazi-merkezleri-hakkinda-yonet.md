@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİ İLE İŞİTME CİHAZI MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ISMARLAMA PROTEZ VE ORTEZ MERKEZLERİ İLE İŞİTME CİHAZI MERKEZLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 24/9/2011 tarihli ve 28064 sayılı Resmî Gazete’de yayımlanan Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmeliğin 24/A maddesinin başlığı aşağıdaki şekilde değiştirilmiş ve aynı maddeye aşağıdaki fıkra eklenmiştir.
 “İstisnai hükümler” “(2) Dünya Sağlık Örgütü veya Avrupa Birliği tarafından tanınan veya Bakanlıkça kabul edilen pandemi, biyolojik tehdit ile deprem, sel, yangın gibi doğal afet durumlarında veya toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ciddi halk sağlığı sorunlarında ısmarlama protez ve ortez merkezleri ile işitme cihazı merkezlerine ve bu merkezlerin reklam veya tanıtım faaliyetlerine ilişkin olarak Türkiye İlaç ve Tıbbî Cihaz Kurumu tarafından geçici olarak istisnalar getirilebilir.”

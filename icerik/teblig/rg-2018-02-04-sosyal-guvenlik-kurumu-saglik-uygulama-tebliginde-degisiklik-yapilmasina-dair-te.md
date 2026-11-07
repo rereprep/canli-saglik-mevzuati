@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Sosyal Güvenlik Kurumu Başkanlığından:
-SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+**SOSYAL GÜVENLİK KURUMU SAĞLIK UYGULAMA TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ**
 
 MADDE 1 – 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinin 1.5.1.C-1 numaralı maddesinin birinci fıkrasının (a) bendinde yer alan “belediyelere ait hastanelerce” ibaresi “ve belediyelere ait sağlık hizmeti sunucularınca” şeklinde değiştirilmiştir.
 
@@ -69,7 +69,7 @@ c) Onuncu fıkrasına aşağıdaki bent eklenmiştir.
 
 MADDE 16 – Aynı Tebliğin 4.2.14.C numaralı maddesinde aşağıdaki düzenlemeler yapılmıştır.
 a) Üçüncü fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiştir.
-“c) BCG canlı intravezikal; Tıbbi onkoloji veya üroloji uzman hekimlerinden birinin yer aldığı, tedavi protokolü ve teşhise esas teşkil eden radyoloji, patoloji veya sitoloji raporu ile hastalığın evresi veya risk grubunu gösterir en fazla bir yıl süreli sağlık kurulu raporuna dayanılarak üroloji uzman hekimleri tarafından reçete edilmesi halinde bedeli ödenir.”
+“**c) BCG canlı intravezikal;** Tıbbi onkoloji veya üroloji uzman hekimlerinden birinin yer aldığı, tedavi protokolü ve teşhise esas teşkil eden radyoloji, patoloji veya sitoloji raporu ile hastalığın evresi veya risk grubunu gösterir en fazla bir yıl süreli sağlık kurulu raporuna dayanılarak üroloji uzman hekimleri tarafından reçete edilmesi halinde bedeli ödenir.”
 b) Üçüncü fıkrasına aşağıdaki bentler eklenmiştir.
 “kk) Blinatumomab; Relaps/refrakter prekürsor B hücreli ALL tanısı konulan ve CD19 pozitifliği histopatolojik veya akım sitometrik olarak gösterilen Philadelphia kromozomu negatif olan ve aşağıdaki kriterlerin tümünü karşılayan relaps/refrakter olgularda;
 1) En az bir kurtarma tedavisi (FLAG+antrasiklin, yüksek doz sitozin arabinozid tabanlı kombine tedaviyi; yüksek doz metotreksat tabanlı kombine tedaviyi; klofarabin tabanlı kombine tedaviyi tam süre ve dozda) almış ve yanıt alınmamış,
@@ -104,7 +104,7 @@ MADDE 18 – Aynı Tebliğin 4.2.49 numaralı maddesinden sonra gelmek üzere a�
 (1) Xanthomatosis Cerebrotendinous hastalığının tedavisinde “CYP27A1 genindeki mutasyonun belgelendirilmesi ve en az bir çocuk metabolizma veya çocuk endokrinoloji ve metabolizma hastalıkları uzman hekiminin yer aldığı sağlık kurulu raporuna dayanılarak, çocuk metabolizma, çocuk endokrinoloji ve metabolizma veya çocuk/erişkin nöroloji uzman hekimleri tarafından reçete edilmesi halinde bedeli ödenir.”
 
 MADDE 19 – Aynı Tebliğin beşinci bölümü aşağıdaki şekilde değiştirilmiştir.
-“BEŞİNCİ BÖLÜM Faturalandırma ve Ödeme İşlemleri 5.1– MEDULA sistemi
+**“BEŞİNCİ BÖLÜM Faturalandırma ve Ödeme İşlemleri** 5.1– MEDULA sistemi
 (1) Kurumla protokollü/sözleşmeli sağlık hizmeti sunucularına, sundukları sağlık hizmetlerine ilişkin bedellerin ödenebilmesi için Kurum mevzuatı gereği istenilen bilgilerin belirlenen istisnalar hariç olmak üzere MEDULA sistemine girilmesi zorunludur.
 (2) Kurumca “MEDULA Web Servisleri Kullanım Kılavuzu” ayrıca yayımlanmakta olup sağlık hizmeti sunucularının MEDULA entegrasyonu için yapacakları yazılımlar Kılavuzdaki açıklamalara göre gerçekleştirilir.
 (3) Ayrıca Kurumla protokollü/sözleşmeli sağlık hizmeti sunucularının, sundukları sağlık hizmetlerine ilişkin bedellerin ödenebilmesi için, Kurumca belirlenecek sağlık hizmetlerine ait oluşturulan ulusal kayıt formlarını ve MEDULA sistemine girilmesi gerekli görülen geri ödemeye esas teşkil edecek diğer bilgi/belgelerini MEDULA sistemine girmesi zorunludur. Sağlık hizmeti ulusal kayıt formları ve MEDULA sistemine girilmesi gerekli görülen geri ödemeye esas teşkil edecek diğer bilgi/belgeler ile ilgili uyulması gereken kurallar Kurumca ayrıca duyurulur.

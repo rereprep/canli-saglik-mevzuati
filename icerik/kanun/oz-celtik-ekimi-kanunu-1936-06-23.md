@@ -14,13 +14,13 @@ durum: "yürürlükte"
 
 ### ÇELTİK EKİMİ KANUNU
 
-Kanun Numarası : 3039
+**Kanun Numarası : 3039**
 
-Kabul Tarihi : 11/6/1936
+**Kabul Tarihi : 11/6/1936**
 
-Yayımlandığı Resmî Gazete : Tarih: 23/6/1936 Sayı: 3337
+**Yayımlandığı Resmî Gazete : Tarih: 23/6/1936 Sayı: 3337**
 
-Yayımlandığı Düstur : Tertip: 3 Cilt: 17 Sayfa: 601
+**Yayımlandığı Düstur : Tertip: 3 Cilt: 17 Sayfa: 601**
 
 ### BÖLÜM : I
 
@@ -76,7 +76,7 @@ Dilekçelerin komisyona verildiği tarihten itibaren iki ay içinde dilek sahibl
 
 ### BÖLÜM :III
 
-Çeltik ekenlerin yapmakla mükellef oldukları hükümler ve bu hükümlere
+**Çeltik ekenlerin yapmakla mükellef oldukları hükümler ve bu hükümlere**
 
 #### aykırı gidenlere verilecek cezalar
 
@@ -90,7 +90,7 @@ Tabii su membalarından, nehirlerden mihaniki vasıtalarla ve masraf ederek araz
 
 **Madde 11 –** Çeltikliklerde kullanılacak su kime aid olursa olsun yukarıda yazılı şekilde izin kağıdı almadan hiç kimse çeltik ekemez.
 
-(Değişik ikinci fıkra: 23/1/2008-5728/83 md.) İzinsiz ve fakat kanunun hükümlerine uygun olarak çeltik ekenlere ektikleri her dekar için elli Türk Lirası idarî para cezası verilir. İzinsiz yapılan çeltik ekimi aynı zamanda bu Kanunun ve bu Kanuna göre yapılacak idarî ve fenni talimatların hükümlerine uygun olmazsa, ekilen her dekar için yüz Türk Lirası idarî para cezası verilir. Ayrıca, komisyonca gerek görülmesi ve karar verilmesi hâlinde zabıta kuvvetleriyle bu gibi çeltikliklerin suyu da kesilir.
+**(Değişik ikinci fıkra: 23/1/2008-5728/83 md.)** İzinsiz ve fakat kanunun hükümlerine uygun olarak çeltik ekenlere ektikleri her dekar için elli Türk Lirası idarî para cezası verilir. İzinsiz yapılan çeltik ekimi aynı zamanda bu Kanunun ve bu Kanuna göre yapılacak idarî ve fenni talimatların hükümlerine uygun olmazsa, ekilen her dekar için yüz Türk Lirası idarî para cezası verilir. Ayrıca, komisyonca gerek görülmesi ve karar verilmesi hâlinde zabıta kuvvetleriyle bu gibi çeltikliklerin suyu da kesilir.
 
 **Madde 12 –** Kurumu yapılmış çeltiklik suları; Devletin veya hususi idarelerin yahut Evkafın ise bunların bakım ve masrafları bu idarelerce görülür. Sular kime aid olursa olsun çeltiklikler için yeniden yapılacak akıtma ve boşaltma arkları çeltik komisyonunun çizeceği krokiye göre yapılır.
 
@@ -122,7 +122,7 @@ Tabii su membalarından, nehirlerden mihaniki vasıtalarla ve masraf ederek araz
 
 Çeltik tarlalarına ırmak, çay ve derelerden su ayırmak için yapılacak su bendlerinden dolayı, sıhhi mazarratı varsa bu bendlerin ve bunlardan baş gösterecek su durgunluklarının şehir,kasaba ve köylere olan uzaklığı üç kilometreden daha az olamaz.
 
-(Değişik üçüncü fıkra: 23/1/2008-5728/84 md.) Sıhhi zararı olduğu hâlde istenildiği zaman sularının tamamen ve az zamanda boşaltılmasını temin edecek savakları olan bendlerin uzaklığı kesik sulama usulünde olduğu gibidir. Bu bendlerin çeltik arkları gibi muayyen zamanlarda açılıp sulara serbest akıntı verilmesi gerekir. Bu hükümlere aykırı hareket edenlere, ikiyüz Türk Lirası idarî para cezası verilir. Çeltik biçildikten sonra ertesi yıl ekim hazırlıklarına başlanıncaya kadar çeltikliklerin yine su altında bırakılması yasaktır. Ancak milleme, zararlı hayvanların öldürülmesi gibi maksadlarla sıtma sürfelerinin yaşamayacağı kış ayları içinde bu yerlerin su altında bırakılmasına komisyonca izin verilebilir. Başka zamanlarda ise bir haftaya kadar izin verilebilir. Bunun aksini yapanlara her dekar için on Türk Lirası idarî para cezası verilir.
+**(Değişik üçüncü fıkra: 23/1/2008-5728/84 md.)** Sıhhi zararı olduğu hâlde istenildiği zaman sularının tamamen ve az zamanda boşaltılmasını temin edecek savakları olan bendlerin uzaklığı kesik sulama usulünde olduğu gibidir. Bu bendlerin çeltik arkları gibi muayyen zamanlarda açılıp sulara serbest akıntı verilmesi gerekir. Bu hükümlere aykırı hareket edenlere, ikiyüz Türk Lirası idarî para cezası verilir. Çeltik biçildikten sonra ertesi yıl ekim hazırlıklarına başlanıncaya kadar çeltikliklerin yine su altında bırakılması yasaktır. Ancak milleme, zararlı hayvanların öldürülmesi gibi maksadlarla sıtma sürfelerinin yaşamayacağı kış ayları içinde bu yerlerin su altında bırakılmasına komisyonca izin verilebilir. Başka zamanlarda ise bir haftaya kadar izin verilebilir. Bunun aksini yapanlara her dekar için on Türk Lirası idarî para cezası verilir.
 
 **Madde 22 –** (Değişik: 23/1/2008-5728/85 md.)
 

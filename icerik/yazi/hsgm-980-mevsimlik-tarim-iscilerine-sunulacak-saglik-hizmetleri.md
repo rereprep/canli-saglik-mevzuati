@@ -39,7 +39,7 @@ b) Göç alan ve veren illerdeki aile hekimliklerinin konu hakkındaki farkında
 
 c) Göç alan iller, göç veren illerin halk sağlığı müdürlüklerinden gelen verilerin yanı sıra, illerinin gıda tarım ve hayvancılık il müdürlüğü ile işbirliğiyle çiftçi üzerinden, tarım sezonunda ise kolluk kuvvetlerinin kimlik bildirim kayıtlarından faydalanarak mevsimsel gezici tarım işçilerinin sayısını ve yaşam alanlarını tespit edeceklerdir.
 
-d) Tarım iş aracıları, 27/05/2010 tarih ve 27593 sayılı Resmî Gazete'de yayımlanan “Tarımda İş Aracılığı Yönetmeliği” doğrultusunda, çalışmaya götürecekleri işçilerin sözleşme bilgilerini Türkiye İş Kurumu İl Müdürlüklerine bildirmekle yükümlü olduklarından bahse konu müdürlüğün verilerinden de yararlanılacaktır.
+d) Tarım iş aracıları, 27/05/2010 tarih ve 27593 sayılı Resmî Gazete'de yayımlanan “Tarımda İş Aracılığı Yönetmeliği” **doğrultusunda, çalışmaya götürecekleri işçilerin sözleşme bilgilerini Türkiye İş Kurumu İl Müdürlüklerine bildirmekle yükümlü** olduklarından bahse konu müdürlüğün verilerinden de yararlanılacaktır.
 
 5) Mevsimsel gezici tarım işçileri ve ailelerine, birinci basamak sağlık hizmetleri, toplum sağlığı merkezi ve aile hekimliği personeli tarafından sunulacaktır. Buna göre;
 

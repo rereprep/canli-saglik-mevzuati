@@ -12,8 +12,8 @@ durum: "yürürlükte"
 ---
 
 Adalet Bakanlığından:
-ADLÎ TIP KURUMU KANUNU UYGULAMA YÖNETMELİĞİNDE
-DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**ADLÎ TIP KURUMU KANUNU UYGULAMA YÖNETMELİĞİNDE**
+**DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1 – 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete’de yayımlanan Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinin 10 uncu maddesinin üçüncü fıkrasının (c) bendinde yer alan “belediyeye teslim edilir.” ibaresi “belediyeye veya mülki idare amirliğine teslim edilir. Kimliği tespit edilmiş olmasına rağmen ailesi veya yakınları tarafından üç gün içinde teslim alınmayan cesetler de belediyeye veya mülki idare amirliğine gömülmek üzere teslim edilir.” şeklinde değiştirilmiş ve aynı bende “cevap verilmeyen” ibaresinden sonra gelmek üzere “veya cevap verilmesine rağmen ailesi, yakınları veya yetkili temsilciliklerce üç gün içinde teslim alınmayan” ibaresi eklenmiştir.
 

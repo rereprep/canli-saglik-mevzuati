@@ -12,11 +12,11 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2008/07/20080726-1.htm"
 durum: "yürürlükte"
 ---
 
-Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü KANUN
-ELEKTRİK PİYASASI KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 5784 Kabul Tarihi: 9/7/2008
+Başbakanlık Mevzuatı Geliştirme ve Yayın Genel Müdürlüğü **KANUN**
+**ELEKTRİK PİYASASI KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+**Kanun No. 5784 Kabul Tarihi: 9/7/2008**
 
-MADDE 1 – 20/2/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanununun 1 inci maddesinin üçüncü fıkrasında yer alan (10), (18), (32), (37), (38), (39) ve (42) numaralı bentler aşağıdaki şekilde değiştirilmiş ve fıkraya aşağıdaki (53) numaralı bent eklenmiştir.
+**MADDE 1 –** 20/2/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanununun 1 inci maddesinin üçüncü fıkrasında yer alan (10), (18), (32), (37), (38), (39) ve (42) numaralı bentler aşağıdaki şekilde değiştirilmiş ve fıkraya aşağıdaki (53) numaralı bent eklenmiştir.
 "10.
 Kontrol: Bir tüzel kişi üzerinde ayrı ayrı ya da birlikte, fiilen ya da hukuken belirleyici etki uygulama olanağını sağlayan hakları, sözleşmeler veya başka araçlarla ve özellikle bir tüzel kişinin malvarlığının tamamı veya bir kısmı üzerinde mülkiyet veya işletilmeye müsait bir kullanma hakkıyla veya bir tüzel kişinin organlarının oluşumunda veya kararları üzerinde belirleyici etki sağlayan hakları veya sözleşmelerle meydana getirilen hakları," "18. Tedarikçi: Elektrik enerjisi ve/veya kapasite sağlayan üretim şirketleri, otoprodüktörler, otoprodüktör grupları, toptan satış şirketleri ve perakende satış lisansına sahip şirketleri," "32. Dağıtım tesisi:
 İletim tesislerinin ve dağıtım gerilim seviyesinden bağlı üretim tesislerine ait şalt sahalarının bittiği noktadan itibaren elektrik dağıtımı için tesis edilmiş tesis ve şebekeyi," "37. Yan Hizmetler Yönetmeliği: Türkiye Elektrik İletim Anonim Şirketi tarafından hazırlanacak ve Kurul tarafından onaylanarak yürürlüğe girecek, iletim lisansı hükümleri uyarınca iletim sistemine veya dağıtım lisansı hükümleri uyarınca dağıtım sistemine bağlı ilgili tüzel kişilere uygulanacak, yan hizmetlerin tanımlarını ve yan hizmetlerin temin edilmesi ile ilgili usul ve esasları kapsayan kuralları,
@@ -71,12 +71,12 @@ Bakanlık, her yıl 31 Aralık tarihine kadar, yukarıda belirtilen çalışmala
 Elektrik üretim yatırımlarının elektrik enerjisi talebini karşılayamaması ve/veya puant gücün belirli bir yedekle karşılanmasında yetersiz kalınacağının tespiti halinde, tedarikçilerin talebini karşılamak üzere Bakanlar Kurulu kararıyla merkezi bir yarışma düzenlenebilir. Bu yöntemlere ilişkin usul ve esaslar bu Kanunun yürürlüğe girmesinden itibaren 6 ay içerisinde Kurum görüşü alınmak suretiyle Bakanlık tarafından hazırlanacak ve Bakanlar Kurulu kararı ile yürürlüğe girecek yönetmelikle belirlenir.
 Yukarıda öngörülen tedbirlerle de arz güvenliğinin sağlanamayacağının Bakanlık tarafından tespit edilmesi halinde, kamu elektrik üretim şirketlerine gerekli üretim tesisi yapma görevi de dahil arz güvenliği bakımından gerekli görülen tedbirleri almaya Bakanlar Kurulu yetkilidir."
 
-MADDE 7 – 4628 sayılı Kanunun geçici 9 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 7 –** 4628 sayılı Kanunun geçici 9 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 "GEÇİCİ MADDE 9 – 31/12/2012 tarihinde sona erecek geçiş döneminde düzenlemeye tâbi tarifeler üzerinden elektrik enerjisi satın alan tüketicileri, dağıtım bölgeleri arası maliyet farklılıkları nedeniyle var olan fiyat farklılıklarından kısmen veya tamamen koruyacak şekilde tesis edilmiş ve uygulamaya ilişkin hususları tebliğle düzenlenmiş olan fiyat eşitleme mekanizması uygulanır. Tüm kamu ve özel dağıtım şirketleri fiyat eşitleme mekanizması içerisinde yer alır.
 Geçiş dönemi süresince ulusal tarife uygulamasının gerekleri esas alınır ve ulusal tarifede çapraz sübvansiyon uygulanır. Ulusal tarife Kurumca hazırlanır ve Kurul onayıyla yürürlüğe girer. Kurul onaylı çapraz sübvansiyon ancak Bakanlar Kurulu kararı ile değiştirilebilir.
 Geçiş dönemi süresince tüm hesaplar ilgili mevzuata göre ayrıştırılarak tutulur."
 
-MADDE 8 – 4628 sayılı Kanunun geçici 10 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 8 –** 4628 sayılı Kanunun geçici 10 uncu maddesi aşağıdaki şekilde değiştirilmiştir.
 "GEÇİCİ
 
 MADDE 10 – Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketi, Elektrik Üretim Anonim Şirketi, perakende satış lisansı sahibi dağıtım şirketleri, Elektrik Üretim Anonim Şirketinin yeniden yapılandırılmasıyla oluşan gruplar adına Elektrik Üretim Anonim Şirketi veya kamu üretim şirketleri arasında, süresi beş yılı aşmamak kaydıyla enerji alım-satımına ilişkin geçiş dönemi anlaşmaları imzalanır. Bu süre, Bakanlık görüşü alınarak Kurul kararı ile en fazla iki yıl uzatılabilir. Söz konusu anlaşmalara ilişkin hak ve yükümlülükler, üretim ve dağıtım varlıklarının özelleştirilmesine paralel olarak lisans sahiplerine ait olur. Bu anlaşmalar damga vergisinden müstesnadır."
@@ -113,10 +113,10 @@ MADDE 10 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa a
 numaralı malların yalnızca elektrik üretiminde kullanılmak üzere teslimi ile birincil yakıtı doğalgaz ve ikincil yakıtı akaryakıt olan santrallara Enerji ve Tabii Kaynaklar Bakanlığı talimatı veya onayı ile Kanuna ekli (I) sayılı listenin (A) cetvelinde yer alan 2710.19.41.00.11, 2710.19.41.00.18, 2710.19.45.00.11, 2710.19.45.00.12 ve 2710.19.49.00.11 G.T.İ.P. numaralı malların aynı amaçla kullanılmak üzere teslimi vergiden müstesnadır.
 Bu maddenin uygulanmasına ilişkin usul ve esasları Maliye Bakanlığı belirlemeye yetkilidir."
 
-MADDE 11 – 4/12/1984 tarihli ve 3093 sayılı Türkiye Radyo-Televizyon Gelirleri Kanununun 4 üncü maddesinin (c) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 11 –** 4/12/1984 tarihli ve 3093 sayılı Türkiye Radyo-Televizyon Gelirleri Kanununun 4 üncü maddesinin (c) bendi aşağıdaki şekilde değiştirilmiştir.
 "c) Nihai tüketiciye elektrik enerjisi satışı yapan lisans sahibi tüzel kişiler, iletim, dağıtım ve perakende satış hizmetlerine ilişkin bedeller hariç olmak üzere, elektrik enerjisi satış bedelinin yüzde ikisi tutarındaki payı (Katma Değer Vergisi, diğer vergiler, fon ve paylar ile benzeri kesintiler hariç) faturalarında ayrıca gösterir ve bu kapsamdaki bedelleri Türkiye Radyo-Televizyon Kurumuna intikal ettirirler. Organize sanayi bölgeleri tüzel kişilikleri, serbest tüketici olarak tedarikçilerden katılımcıları için temin ettikleri enerjiye ilişkin olarak Türkiye Radyo-Televizyon Kurumuna ayrıca pay yatırmaz."
 
-MADDE 12 – 3093 sayılı Kanunun 5 inci maddesinin (c) bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 12 –** 3093 sayılı Kanunun 5 inci maddesinin (c) bendi aşağıdaki şekilde değiştirilmiştir.
 "c) Nihai tüketiciye elektrik enerjisi satışı yapan lisans sahibi tüzel kişilerce, bu Kanunun 4 üncü maddesinin (c) bendine göre hesaplanacak bedeller en geç tahakkuku takip eden ikinci ayın yirmibeşinde Türkiye Radyo-Televizyon Kurumunun göstereceği banka hesabına ödenir ve tahakkuk cetvelleri aynı süre içinde Türkiye Radyo-Televizyon Kurumuna gönderilir.
 Nihai tüketiciye elektrik enerjisi satışı yapan lisans sahibi tüzel kişiler üçer aylık dönem bilânçoları kesinleştiğinde, o dönemin ödemeleri ile bilançoya göre ortaya çıkacak farklar müteakip ayın sonuna kadar taraflarca mutabakatı yapılarak tasfiye edilir.
 Ödemelerin geciktirilmesi halinde, her geçen ay ve kesri için, nihai tüketiciye elektrik enerjisi satışı yapan lisans sahibi tüzel kişilere 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunda öngörülen gecikme zammı oranında gecikme faizi uygulanır. Kurum alacağı 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu hükümlerince takip ve tahsil olunur."

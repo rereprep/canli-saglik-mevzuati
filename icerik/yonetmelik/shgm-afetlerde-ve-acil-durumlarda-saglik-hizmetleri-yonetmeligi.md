@@ -16,7 +16,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -98,9 +98,9 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Afetlerde ve Acil Durumlarda Sağlık Hizmetlerinin
+**Afetlerde ve Acil Durumlarda Sağlık Hizmetlerinin**
 
-Planlaması, Koordinasyonu ve Yürütülmesi
+**Planlaması, Koordinasyonu ve Yürütülmesi**
 
 #### Planlama, koordinasyon ve yürütme
 
@@ -118,9 +118,9 @@ Planlaması, Koordinasyonu ve Yürütülmesi
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Afetlerde ve Acil Durumlarda Bakanlık Merkez Teşkilatı ve
+**Afetlerde ve Acil Durumlarda Bakanlık Merkez Teşkilatı ve**
 
-Bağlı Kuruluşların Görev ve Sorumlulukları
+**Bağlı Kuruluşların Görev ve Sorumlulukları**
 
 #### Genel Müdürlüğün görev ve sorumlulukları
 
@@ -300,9 +300,9 @@ c) Uluslararası giriş noktalarında göçmenlerin ilk sağlık denetimi ve son
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Afetlerde ve Acil Durumlarda Bakanlık ve Bağlı Kuruluşların Taşra Teşkilatları
+**Afetlerde ve Acil Durumlarda Bakanlık ve Bağlı Kuruluşların Taşra Teşkilatları**
 
-ile Üniversite ve Özel Hastanelerin Görev ve Sorumlulukları
+**ile Üniversite ve Özel Hastanelerin Görev ve Sorumlulukları**
 
 #### Müdürlüğün görev ve sorumlulukları
 
@@ -368,7 +368,7 @@ e) Afetlerin ve acil durumların sonlanmasını takiben hazırlanan değerlendir
 
 ### BEŞİNCİ BÖLÜM
 
-Ulusal Medikal Kurtarma Ekipleri ve Afetlerde Sağlık Hizmetleri Birimi
+**Ulusal Medikal Kurtarma Ekipleri ve Afetlerde Sağlık Hizmetleri Birimi**
 
 #### Ulusal medikal kurtarma ekipleri (UMKE)
 
@@ -454,7 +454,7 @@ d) Bilgi işlem ve arşiv ile ilgili görevler;
 
 ### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Acil sağlık hizmetleri bölgeleri
 

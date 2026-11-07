@@ -12,11 +12,11 @@ durum: "yürürlükte"
 
 ### BİRİNCİ DÖLÜM
 
-Amaç, Kapsam, Dayanak, Tanımlar ve Deyimler
+**Amaç, Kapsam, Dayanak, Tanımlar ve Deyimler**
 
-Amaç
+**Amaç**
 
-Madde l - Bu Yönetmeliğin amacı; 3816 sayılı Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun'dan yararlanmak üzere başvuran Türk vatandaşlarının aylık gelir veya gelir paylarının belirlenmesi,bu başvuruların değerlendirilmesi ve karara bağlanması, Yeşil Kartın şekli, hak sahiplerine dağıtılması, Yeşil Kart sahiplerinin sağlık kurumlarına sevki ve bunlara tedavi hizmeti veril­mesi, bu konularda kullanılacak belgelerin şekil ve içeriği, Yeşil Kart uygulaması ile sağlanan tedavi hizmetlerinin bedellerinin ödenmesi hakkındaki usul ve esasları ve zikredilen Kanun'un uygulanması ile ilgili diğer hususları düzenlemektir.
+**Madde l** - Bu Yönetmeliğin amacı; 3816 sayılı Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun'dan yararlanmak üzere başvuran Türk vatandaşlarının aylık gelir veya gelir paylarının belirlenmesi,bu başvuruların değerlendirilmesi ve karara bağlanması, Yeşil Kartın şekli, hak sahiplerine dağıtılması, Yeşil Kart sahiplerinin sağlık kurumlarına sevki ve bunlara tedavi hizmeti veril­mesi, bu konularda kullanılacak belgelerin şekil ve içeriği, Yeşil Kart uygulaması ile sağlanan tedavi hizmetlerinin bedellerinin ödenmesi hakkındaki usul ve esasları ve zikredilen Kanun'un uygulanması ile ilgili diğer hususları düzenlemektir.
 
 #### Kapsam
 
@@ -48,35 +48,35 @@ Kanunlar ile veya kanunların verdiği yetkiye dayanılarak kurulmuş sosyal gü
 
 **Madde 4 –** Aksi belirtilmedikçe, bu Yönetmelik'te geçen deyimlerden;
 
-a) Kanun : 18.6.1992 tarih ve 3816 sayılı Ödeme Gücü Olmayan Vatandaşların Teda vi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun'u,
+**a) Kanun :** 18.6.1992 tarih ve 3816 sayılı Ödeme Gücü Olmayan Vatandaşların Teda vi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun'u,
 
-b) Bakanlık : Sağlık Bakanlığı'nı,
+**b) Bakanlık** : Sağlık Bakanlığı'nı,
 
-c) Yeşil Kart: Kanun gereğince verilecek olan ve şekil ve içeriği bu Yönetmeliğin 13 üncü maddesinde belirtilen sağlık kartını,
+**c) Yeşil Kart:** Kanun gereğince verilecek olan ve şekil ve içeriği bu Yönetmeliğin 13 üncü maddesinde belirtilen sağlık kartını,
 
-d) Kurul: Yeşil Kart talep edenin ikametgahına göre, bu talebi karara bağlayacak olan il veya ilçe idare kurulunu,
+**d) Kurul:** Yeşil Kart talep edenin ikametgahına göre, bu talebi karara bağlayacak olan il veya ilçe idare kurulunu,
 
-e) Hane halkı: Sosyal teamüllere göre, mutad olarak, bir hane reisinin geçindirme so­rumluluğu altında ve aynı hanede belirli bir ortak geliri bölüşerek yaşayan ve hane halkı reisi ile aralarında üçüncü dereceye kadar (bu derece de dahil) kan hısımlığı veya sıhri hısımlık bağı bulunan kimselerden meydana gelen topluluğu,
+**e) Hane halkı:** Sosyal teamüllere göre, mutad olarak, bir hane reisinin geçindirme so­rumluluğu altında ve aynı hanede belirli bir ortak geliri bölüşerek yaşayan ve hane halkı reisi ile aralarında üçüncü dereceye kadar (bu derece de dahil) kan hısımlığı veya sıhri hısımlık bağı bulunan kimselerden meydana gelen topluluğu,
 
-f ) Hane halkı reisi: Sosyal teamüllere göre, hane halkının geçimine önderlik eden ve bundan sorumlu olan kimseyi, ifade eder.
+**f ) Hane halkı reisi:** Sosyal teamüllere göre, hane halkının geçimine önderlik eden ve bundan sorumlu olan kimseyi, ifade eder.
 
-g) (Ek:RG-22/12/2004 -25678) Birinci Basamak Sağlık Tesisi: Sağlık ocağı, verem savaş dispanseri, ana-çocuk sağlığı ve aile planlaması merkezi, sağlık merkezi, Sosyal Sigortalar Kurumu sağlık istasyonu ve dispanseri ile aynı kapsamda hizmet veren Belediyeler ile diğer resmi sağlık kurumlarını,
+**g) (Ek:RG-22/12/2004 -25678)** Birinci Basamak Sağlık Tesisi: Sağlık ocağı, verem savaş dispanseri, ana-çocuk sağlığı ve aile planlaması merkezi, sağlık merkezi, Sosyal Sigortalar Kurumu sağlık istasyonu ve dispanseri ile aynı kapsamda hizmet veren Belediyeler ile diğer resmi sağlık kurumlarını,
 
-h) (Ek:RG -22/12/2004 -25678) İkinci Basamak Sağlık Tesisi: Eğitim ve araştırma hastanesi olmayan Devlet hastaneleri, özel dal hastaneleri, Sosyal Sigortalar Kurumu hastaneleri, belediyeler ile diğer resmi kurum hastaneleri ve tıp merkezlerini,
+**h) (Ek:RG -22/12/2004 -25678)** İkinci Basamak Sağlık Tesisi: Eğitim ve araştırma hastanesi olmayan Devlet hastaneleri, özel dal hastaneleri, Sosyal Sigortalar Kurumu hastaneleri, belediyeler ile diğer resmi kurum hastaneleri ve tıp merkezlerini,
 
-i) (Ek:RG-22/12/2004 -25678) Üçüncü Basamak Sağlık Tesisi: Sağlık Bakanlığı ve Sosyal Sigortalar Kurumuna bağlı eğitim ve araştırma hastaneleri, özel dal eğitim ve araştırma hastaneleri ile üniversite hastanelerini,
+**i) (Ek:RG-22/12/2004 -25678)** Üçüncü Basamak Sağlık Tesisi: Sağlık Bakanlığı ve Sosyal Sigortalar Kurumuna bağlı eğitim ve araştırma hastaneleri, özel dal eğitim ve araştırma hastaneleri ile üniversite hastanelerini,
 
-j) (Ek:RG-1/7/2011-27981) Müdürlük: İl sağlık müdürlüklerini,
+**j) (Ek:RG-1/7/2011-27981)** Müdürlük: İl sağlık müdürlüklerini,
 
-k) (Ek:RG-1/7/2011-27981) Tebliğ: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğini,
+**k) (Ek:RG-1/7/2011-27981)** Tebliğ: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğini,
 
 ### İKİNCİ BÖLÜM
 
-Başvuru, Değerlendirme, Yeşil Kartın Verilişi ve Kayıt işlemleri
+**Başvuru**, Değerlendirme, Yeşil Kartın Verilişi ve Kayıt işlemleri
 
 #### Başvuru
 
-**Madde 5 –** Kanun'dan yararlanmak isteyenler: şekli ekte (EK: I) gösterilen Yeşil Kart Başvuru ve Bilgi Formu'nu doldurup imzalayarak, ikametgahları merkez ilçede ise valiliğe, diğer ilerlerde ise kaymakamlığa başvururlar.
+**Madde 5 –** Kanun'dan yararlanmak isteyenler: şekli ekte (EK: I) gösterilen Yeşil Kart **Başvuru ve Bilgi Formu**'nu doldurup imzalayarak, ikametgahları merkez ilçede ise valiliğe, diğer ilerlerde ise kaymakamlığa başvururlar.
 
 Aynı hane halkından Yeşil Kart talep edenlerin aynı Form ile başvuruda bulunmaları asıldır.
 
@@ -114,11 +114,11 @@ h) Yeşil Kart verilip verilmemesi hususundaki kurul kararına ilişkin valilik 
 
 bulunur.
 
-Bu Form'un;
+**Bu Form'un;**
 
-a ) Hane Halkı Bildirimi Bölümü'nde : Başvuruda bulunan kimse veya kimseler ile hane halkı reisinin ve aynı hanede yaşayan diğer kişilerin adı, soyadı, ana ve baba adları, doğum yerleri ve yılları, nüfusa kayıtlı oldukları yer, hane halkı reisine yakınlık dereceleri, iş veya meslekleri, sosyal güvenceleri mevcut ise kurum ve sicil numaraları,
+**a ) Hane Halkı Bildirimi Bölümü'nde** : Başvuruda bulunan kimse veya kimseler ile hane halkı reisinin ve aynı hanede yaşayan diğer kişilerin adı, soyadı, ana ve baba adları, doğum yerleri ve yılları, nüfusa kayıtlı oldukları yer, hane halkı reisine yakınlık dereceleri, iş veya meslekleri, sosyal güvenceleri mevcut ise kurum ve sicil numaraları,
 
-b) Gelir ve Mali Durum Bildirimi Bölümü'nde : Hane halkı fertlerinin her birine ait net gelir, gelir kaynağı, paraya çevrilebilen menkul kıymet ve değeri, gayrimenkullerin cinsi, tapuya kayıtlı olduğu yer, ada, pafta ve parsel numarası, yüzölçümü ve vergi değeri, hane hal­kının Sosyal Yardımlaşma ve Dayanışma Vakıflarından yardım alıp almadıkları, almakta ise­ler kimlere ne tür ve tutarda yardım yapıldığı,
+**b) Gelir ve Mali Durum Bildirimi Bölümü'nde** : Hane halkı fertlerinin her birine ait net gelir, gelir kaynağı, paraya çevrilebilen menkul kıymet ve değeri, gayrimenkullerin cinsi, tapuya kayıtlı olduğu yer, ada, pafta ve parsel numarası, yüzölçümü ve vergi değeri, hane hal­kının Sosyal Yardımlaşma ve Dayanışma Vakıflarından yardım alıp almadıkları, almakta ise­ler kimlere ne tür ve tutarda yardım yapıldığı,
 
 belirtilir.
 
@@ -158,13 +158,13 @@ Hane halkı gelirinin hesaplanmasında ve hane halkından her bir kişinin gelir
 
 Sosyal teamüller gereğince belge ve isbatı mümkün veya teamülden olmayan gelirler, talep sahibi tarafından beyan edilmedikçe, hesaplama sırasında nazara alınmaz.
 
-Hesaplanan gelir payları, (Değişik ibare:RG-22/12/2004 - 25678) 4857 sayılı İş Kanununa göre sanayide çalışan 16 yaşından büyük işçiler için belirlenen yürürlükteki asgari Ücretin, eşi gelir getirici bir işte çalışmayan, evli ve bir çocuklu bir mükellefin ödemesi gereken en düşük gelir vergisi ve sosyal sigorta pri­mi düşüldükten sonra geriye kalan miktarının 1/3 ünden (Bakanlar Kurulu'nca artırılması ha­linde belirtilen oranından) az olduğu takdirde, o hanede yaşayan ve sağlık güvencesi bulunmayan talep sahiplerine Yeşil Kart verilmesi kararlaştırılır.
+Hesaplanan gelir payları, **(Değişik ibare:RG-22/12/2004 - 25678)** 4857 sayılı İş Kanununa göre sanayide çalışan 16 yaşından büyük işçiler için belirlenen yürürlükteki asgari Ücretin, eşi gelir getirici bir işte çalışmayan, evli ve bir çocuklu bir mükellefin ödemesi gereken en düşük gelir vergisi ve sosyal sigorta pri­mi düşüldükten sonra geriye kalan miktarının 1/3 ünden (Bakanlar Kurulu'nca artırılması ha­linde belirtilen oranından) az olduğu takdirde, o hanede yaşayan ve sağlık güvencesi bulunmayan talep sahiplerine Yeşil Kart verilmesi kararlaştırılır.
 
 Kurul'un bu kararı üzerine, valilik veya kaymakamlıkca hak sahiplerinin sağlık ku­rum ve kuruluşlarına başvurularında kullanılmak üzere tanzim edılen Yeşil Kartları ve Yeşil Kart Sağlık Cüzdanları imza karşılığında verilir.
 
 Kayıp veya zayi edilmesi halinde yahut sevk zincirinin değişmesini gerektiren hallerde, Yeşil Kart ve Yeşil Kart Sağlık Cüzdanı, ilgililerin talebi üzerine, Yeşil Kart Uygulaması Kayıt Defteri ve Yeşil Kart Bilgi ve işlem Dosyasındaki bilgiler esas alınarak, tekrar verilir. Verilen sağlık hizmetleri sebebiyle sayfalarının tükenmesi halinde, Yeşil Kart'ın ibrazı ve Cüzdan'ın geri verilmesi şartı ile, yeniden verilmiş olduğu Cüzdan'ın fotoğraflı sayfasına içlenerek ve il­gilinin Yesil Kart numarası aynen korunarak yeni Cüzdan tanzim edilir.
 
-(Ek:RG-13/6/2003-25137) Yeşil Kart verilmesi uygun görülmeyen başvuru sahiplerine bu karar gerekçeleri ile bildirilir.
+**(Ek:RG-13/6/2003-25137)** Yeşil Kart verilmesi uygun görülmeyen başvuru sahiplerine bu karar gerekçeleri ile bildirilir.
 
 #### Kurul Kararlarının Sosyal Yardımlaşma ve Dayanışma Vakfına Bildirilmesi
 
@@ -174,7 +174,7 @@ Kayıp veya zayi edilmesi halinde yahut sevk zincirinin değişmesini gerektiren
 
 **Madde 11 –** Kendilerine Yeşil Kart verilenler, valilik veya kaymakamlık tarafından kayıtlı bulundukları nüfus idaresine bildirilir ve nüfus idaresince kaydedilirler.Bunlardan, nüfus kaydını bilahare başka yere nakledenler, nüfus idaresince valilik veya kaymakamlığa derhal, bildirilirler.
 
-(Değişik:RG-13/6/2003-25137) Yeşil Kart verilen kimsenin ölümü, boşanması, evlenmesi veya vatandaşlık hakkının sona ermesi halinde de, ilgili nüfus idaresi, bu değişiklikleri Yeşil Kartın verildiği valilik veya kaymakamlığa bildirmek zorundadır.
+**(Değişik:RG-13/6/2003-25137)** Yeşil Kart verilen kimsenin ölümü, boşanması, evlenmesi veya vatandaşlık hakkının sona ermesi halinde de, ilgili nüfus idaresi, bu değişiklikleri Yeşil Kartın verildiği valilik veya kaymakamlığa bildirmek zorundadır.
 
 #### Yeşil Kart Uygulaması Kayıt Defteri
 
@@ -198,13 +198,13 @@ Cüzdanın 1-50 nci sayfalarında; EK:III-5 sayfa no, Yeşil Kart sahibine sunul
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Sağlık Kuruluşlarına Başvuru ve Hizmet Bedellerinin Karşılanması
+**Sağlık Kuruluşlarına Başvuru ve Hizmet Bedellerinin Karşılanması**
 
 #### Sağlık Kuruluşlarına Başvuru ve Sevk
 
 **Madde 15 –** (Değişik fıkra:RG-17/3/2004 - 25405) Yeşil kart ve sağlık cüzdanı sahipleri, yeşil kart verilmesine esas alınan ikamet yerlerinde;
 
-a) (Degişik:RG-22/12/2004 - 25678) Sağlık Bakanlığı, Sosyal Sigortalar Kurumu, Belediyeler ile diğer resmi kurumlara ait birinci basamak sağlık tesislerine doğrudan,
+a) **(Degişik:RG-22/12/2004 - 25678)** Sağlık Bakanlığı, Sosyal Sigortalar Kurumu, Belediyeler ile diğer resmi kurumlara ait birinci basamak sağlık tesislerine doğrudan,
 
 b) Sağlık Bakanlığı ve Sosyal Sigortalar Kurumuna ait ikinci basamak sağlık tesislerine birinci basamak sağlık tesislerinden sevkle veya doğrudan,
 
@@ -214,17 +214,17 @@ başvurabilirler.
 
 İkamet yerleri dışında rahatsızlanmaları halinde yine bulundukları mahalde yukarıdaki esaslara uymak kaydıyla kart sahiplerine sağlık hizmeti verilir.
 
-(Değişik fıkra:RG-22/12/2004 - 25678) Tıbbi gerekliliğe bağlı olarak gerektiğinde yeşil kart ve sağlık cüzdanı sahipleri tedavisinin devam ettiği ikinci veya üçüncü basamak sağlık tesisinden en yakın üniversite hastaneleri ile diğer kamu kurum ve kuruluşlarına ait sağlık tesislerine sevk edilir. Sosyal Sigortalar Kurumu, Belediyeler ve diğer resmi kurum hastanelerinde tedavi gören ancak bu madde hükmü gereği üniversite hastanesine sevki gereken yeşil kartlı kimsenin sevki, bu kurum hastanelerince hazırlanacak hasta epikrizindeki gerekliliğe göre en yakın Devlet Hastanesi tarafından sevk işlemi yapılacaktır."
+**(Değişik fıkra:RG-22/12/2004 - 25678)** Tıbbi gerekliliğe bağlı olarak gerektiğinde yeşil kart ve sağlık cüzdanı sahipleri tedavisinin devam ettiği ikinci veya üçüncü basamak sağlık tesisinden en yakın üniversite hastaneleri ile diğer kamu kurum ve kuruluşlarına ait sağlık tesislerine sevk edilir. Sosyal Sigortalar Kurumu, Belediyeler ve diğer resmi kurum hastanelerinde tedavi gören ancak bu madde hükmü gereği üniversite hastanesine sevki gereken yeşil kartlı kimsenin sevki, bu kurum hastanelerince hazırlanacak hasta epikrizindeki gerekliliğe göre en yakın Devlet Hastanesi tarafından sevk işlemi yapılacaktır."
 
-(Değişik fıkra:RG-22/12/2004 - 25678) Acil hallerde, sevk zinciri dışında (Sosyal Sigortalar Kurumu hastaneleri sevk zinciri kapsamındadır) üniversiteler ile diğer kamu kurum ve kuruluşlarına ait hastanelere başvurulabilir. Ancak, sağlık hizmeti bedellerinin Kanuna ve bu Yönetmeliğe göre ödenebilmesi için, acil halin varlığının başvurulan sağlık tesisinin yetkili hekimince kabul edilmesi ve durumun sevk zinciri kapsamında olan Sosyal Sigortalar Kurumu sağlık tesisleri hariç olmak üzere, başvuru yapılan sağlık tesisi tarafından başvuru tarihi dahil olmak kaydıyla en geç 5 (beş) iş günü içinde en yakın Devlet hastanesine bildirilmesi suretiyle konsültasyon için hekim çağrılması ve tedaviye burada devam edilmesinin konsültan hekimce uygun görülmüş olması gerekir.
+**(Değişik fıkra:RG-22/12/2004 - 25678)** Acil hallerde, sevk zinciri dışında (Sosyal Sigortalar Kurumu hastaneleri sevk zinciri kapsamındadır) üniversiteler ile diğer kamu kurum ve kuruluşlarına ait hastanelere başvurulabilir. Ancak, sağlık hizmeti bedellerinin Kanuna ve bu Yönetmeliğe göre ödenebilmesi için, acil halin varlığının başvurulan sağlık tesisinin yetkili hekimince kabul edilmesi ve durumun sevk zinciri kapsamında olan Sosyal Sigortalar Kurumu sağlık tesisleri hariç olmak üzere, başvuru yapılan sağlık tesisi tarafından başvuru tarihi dahil olmak kaydıyla en geç 5 (beş) iş günü içinde en yakın Devlet hastanesine bildirilmesi suretiyle konsültasyon için hekim çağrılması ve tedaviye burada devam edilmesinin konsültan hekimce uygun görülmüş olması gerekir.
 
-(Değişik fıkra:RG-22/12/2004 - 25678) Tıbbi gerekliliğe bağlı olarak gerektiğinde yeşil kart ve sağlık cüzdanı sahipleri tedavisinin devam ettiği ikinci veya üçüncü basamak sağlık kuruluşundan en yakın üniversite hastaneleri ile diğer kamu kurum ve kuruluşlarına ait sağlık kurumlarına sevk edilir.
+**(Değişik fıkra:RG-22/12/2004 - 25678)** Tıbbi gerekliliğe bağlı olarak gerektiğinde yeşil kart ve sağlık cüzdanı sahipleri tedavisinin devam ettiği ikinci veya üçüncü basamak sağlık kuruluşundan en yakın üniversite hastaneleri ile diğer kamu kurum ve kuruluşlarına ait sağlık kurumlarına sevk edilir.
 
-(Değişik fıkra:RG-1/7/2011-27981) Sürekli hastane tedavisi gerektiren kronik hastalar ile hastanelerden tedavi ve kontrol için çağrılı olanlar, üniversite hastanesi de dahil tedavi gördükleri veya çağrılı oldukları hastaneye yeni sevk alınmaksızın çağrı evrakı ile başvurabilirler.
+**(Değişik fıkra:RG-1/7/2011-27981)** Sürekli hastane tedavisi gerektiren kronik hastalar ile hastanelerden tedavi ve kontrol için çağrılı olanlar, üniversite hastanesi de dahil tedavi gördükleri veya çağrılı oldukları hastaneye yeni sevk alınmaksızın çağrı evrakı ile başvurabilirler.
 
-(Ek fıkra:RG-13/10/2010-27728) (Değişik fıkra:RG-1/7/2011-27981) Acil müdahale edilememesi halinde hastanın uzuv kaybı ve/veya tüm vücut fonksiyonunu kaybetmesine sebep olacak reimplantasyon ihtiyacı, yanık, ağır travma gibi durumlar ile yoğun bakım tedavisine ihtiyacı olan yeşil kartlı hastaların ikinci ve üçüncü basamak sağlık tesislerinde tedavisinin sağlanamaması ve uygun yoğun bakım yatağı bulunmaması halinde bu durumun sağlık tesisi ve 112 Komuta Kontrol Merkezi tarafından belgelendirilmesi kaydıyla hastanın tedavi edilebileceği ve uygun yoğun bakım yatağı bulunan özel sağlık tesisine hasta sevk edilir. Sevk işlemi Bakanlığa ait sağlık tesisince, hasta nakli ise 112 sistemi ile yapılır. Bu şekilde özel sağlık tesisinde verilecek sağlık hizmetlerinin ücretlendirilmesi 16 ncı madde hükümlerine göre, tahakkuk işlemleri de 17 nci madde hükümlerine göre yapılır. Tahakkuk eden tutar sağlık hizmetini sunan ilgili özel sağlık tesisinin banka hesabına aktarılır.
+**(Ek fıkra:RG-13/10/2010-27728) (Değişik fıkra:RG-1/7/2011-27981)** Acil müdahale edilememesi halinde hastanın uzuv kaybı ve/veya tüm vücut fonksiyonunu kaybetmesine sebep olacak reimplantasyon ihtiyacı, yanık, ağır travma gibi durumlar ile yoğun bakım tedavisine ihtiyacı olan yeşil kartlı hastaların ikinci ve üçüncü basamak sağlık tesislerinde tedavisinin sağlanamaması ve uygun yoğun bakım yatağı bulunmaması halinde bu durumun sağlık tesisi ve 112 Komuta Kontrol Merkezi tarafından belgelendirilmesi kaydıyla hastanın tedavi edilebileceği ve uygun yoğun bakım yatağı bulunan özel sağlık tesisine hasta sevk edilir. Sevk işlemi Bakanlığa ait sağlık tesisince, hasta nakli ise 112 sistemi ile yapılır. Bu şekilde özel sağlık tesisinde verilecek sağlık hizmetlerinin ücretlendirilmesi 16 ncı madde hükümlerine göre, tahakkuk işlemleri de 17 nci madde hükümlerine göre yapılır. Tahakkuk eden tutar sağlık hizmetini sunan ilgili özel sağlık tesisinin banka hesabına aktarılır.
 
-(Ek fıkra:RG-1/7/2011-27981) Radyoterapi tedavisine ihtiyacı olduğu sağlık kurulu raporu ile belgelendirilen Yeşil Kartlı hastaların, Yeşil Kart verilmesine esas alınan ikamet yerlerinde ikinci ve üçüncü basamak sağlık tesislerinde radyoterapi merkezi bulunmaması halinde, bu durumun sağlık tesisi tarafından belgelendirilmesi kaydıyla aynı il içinde hastanın tedavi edilebileceği radyoterapi merkezi bulunan özel sağlık tesisine hasta sevk edilir. Sevk işlemi Bakanlığa ait sağlık tesisince yapılır. Bu şekilde özel sağlık tesisinde verilecek sağlık hizmetlerinin ücretlendirilmesi 16 ncı madde hükümlerine göre, tahakkuk işlemleri de 17 nci madde hükümlerine göre yapılır. Tahakkuk edecek tutar sağlık hizmetini sunan ilgili özel sağlık tesisinin banka hesabına aktarılır.
+**(Ek fıkra:RG-1/7/2011-27981)** Radyoterapi tedavisine ihtiyacı olduğu sağlık kurulu raporu ile belgelendirilen Yeşil Kartlı hastaların, Yeşil Kart verilmesine esas alınan ikamet yerlerinde ikinci ve üçüncü basamak sağlık tesislerinde radyoterapi merkezi bulunmaması halinde, bu durumun sağlık tesisi tarafından belgelendirilmesi kaydıyla aynı il içinde hastanın tedavi edilebileceği radyoterapi merkezi bulunan özel sağlık tesisine hasta sevk edilir. Sevk işlemi Bakanlığa ait sağlık tesisince yapılır. Bu şekilde özel sağlık tesisinde verilecek sağlık hizmetlerinin ücretlendirilmesi 16 ncı madde hükümlerine göre, tahakkuk işlemleri de 17 nci madde hükümlerine göre yapılır. Tahakkuk edecek tutar sağlık hizmetini sunan ilgili özel sağlık tesisinin banka hesabına aktarılır.
 
 #### Yesil Kart Sahiplerine Verilen Hizmetler için Fatura Tanzimi
 
@@ -270,7 +270,7 @@ Ayakta tedavi kapsamında yazılan ilaç ve gözlük reçete bedelleri ilgili ec
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Bilgi işlem Sistemi
 
@@ -290,13 +290,13 @@ Yeşil Kartın verilişinde talep sahiplerinin verdikleri bilgileri onaylayan mu
 
 Durum bildirim veya başka bir yol ile öğrenildiği takdirde, geçersiz hale gelmiş Yeşil Kartlar, kurul kararı üzerine valilik veya kaymakamlıkça geri alınır.
 
-(Ek fıkra:RG-1/7/2011-27981) 1/7/1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanuna göre aylık bağlanmış olanlar hariç olmak üzere yeşil kart verilen kişilerden 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi veya (b) bendinin (2) ve (4) numaralı alt bentlerine tabi sigortalı olarak çalışan ve bu çalışmalarından dolayı genel sağlık sigortası kapsamında olanlar ile bunların bakmakla yükümlü oldukları kişilerin, 5510 sayılı Kanuna göre genel sağlık sigortası kapsamında sağlık hizmetlerinden yararlanmaya hak kazanma tarihinden sağlık hizmetlerinden yararlanma şartlarının sona erdiği tarihe kadar bu çalışmalardan dolayı elde edecekleri gelirlerine bakılmaksızın Yeşil Kartları askıya alınır. Bu kişilerin Yeşil Kartları 5510 sayılı Kanuna göre genel sağlık sigortası sağlık hizmetlerinden yararlanma hakkının sona erdiği tarihi takip eden gün itibarıyla başvuru veya başka bir işleme gerek olmaksızın aktif hale getirilir. Aynı hanede bulunmakla birlikte bakmakla yükümlü olunan kişiler dışında kalan kişilerin Yeşil Kart hak sahipliği devam eder ve bu hak sahipliğinin sürdürülmesinde bu fıkra kapsamındaki çalışmalardan elde edilecek gelirler dikkate alınmaz. Yeşil Kartları askıya alınanlardan 5510 sayılı Kanuna göre bakmakla yükümlü olunan kişi sıfatını yitirenlerin ise bu fıkra kapsamındaki çalışmalardan elde edilecek gelirler dikkate alınmaksızın Yeşil Kartları aktif hale getirilir. Ayrıca, 5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (e) bendi kapsamında sayılanlar ile kamu kaynaklı meslek edindirme kurslarına katılanların kurs sürelerince Yeşil Kartları devam eder.
+**(Ek fıkra:RG-1/7/2011-27981)** 1/7/1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanuna göre aylık bağlanmış olanlar hariç olmak üzere yeşil kart verilen kişilerden 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi veya (b) bendinin (2) ve (4) numaralı alt bentlerine tabi sigortalı olarak çalışan ve bu çalışmalarından dolayı genel sağlık sigortası kapsamında olanlar ile bunların bakmakla yükümlü oldukları kişilerin, 5510 sayılı Kanuna göre genel sağlık sigortası kapsamında sağlık hizmetlerinden yararlanmaya hak kazanma tarihinden sağlık hizmetlerinden yararlanma şartlarının sona erdiği tarihe kadar bu çalışmalardan dolayı elde edecekleri gelirlerine bakılmaksızın Yeşil Kartları askıya alınır. Bu kişilerin Yeşil Kartları 5510 sayılı Kanuna göre genel sağlık sigortası sağlık hizmetlerinden yararlanma hakkının sona erdiği tarihi takip eden gün itibarıyla başvuru veya başka bir işleme gerek olmaksızın aktif hale getirilir. Aynı hanede bulunmakla birlikte bakmakla yükümlü olunan kişiler dışında kalan kişilerin Yeşil Kart hak sahipliği devam eder ve bu hak sahipliğinin sürdürülmesinde bu fıkra kapsamındaki çalışmalardan elde edilecek gelirler dikkate alınmaz. Yeşil Kartları askıya alınanlardan 5510 sayılı Kanuna göre bakmakla yükümlü olunan kişi sıfatını yitirenlerin ise bu fıkra kapsamındaki çalışmalardan elde edilecek gelirler dikkate alınmaksızın Yeşil Kartları aktif hale getirilir. Ayrıca, 5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (e) bendi kapsamında sayılanlar ile kamu kaynaklı meslek edindirme kurslarına katılanların kurs sürelerince Yeşil Kartları devam eder.
 
 #### Yersiz ödenen Meblağın Geri Alınması ve Cezai Kovuşturma
 
 **Madde 23 –** Yeşil Kartın düzenlenmesine esas alınan hususların gerçeğe uymadığı tes­pit edildiği takdirde, Yeşil Karta dayanılarak ödenmiş olan meblağ, iki katı olarak genel hü­kümlere göre sorumlularından (Yeşil Karta ilişkin hizmetlerden yararlananlardan, bunların velilerinden, vasilerinden veya kanunen bakmakla yükümlü bulunan yakınlarından) tahsil edil­mek üzere muhakemat veva malmûdürlüklerine bildirilir.
 
-(Ek Fıkra:RG-22/12/2004 - 25678) Yeşil Kart sahibine verilen tedavi hizmet bedellerini gösteren fatura ve benzeri belgelerin gerçeğe aykırı olarak düzenlenmesi suretiyle fazladan ödemeye sebebiyet verilmesi halinde, fazladan ödenen meblağ, fatura veya belgeyi tanzim edenlerden iki misli olarak geri alınır.
+**(Ek Fıkra:RG-22/12/2004 - 25678)** Yeşil Kart sahibine verilen tedavi hizmet bedellerini gösteren fatura ve benzeri belgelerin gerçeğe aykırı olarak düzenlenmesi suretiyle fazladan ödemeye sebebiyet verilmesi halinde, fazladan ödenen meblağ, fatura veya belgeyi tanzim edenlerden iki misli olarak geri alınır.
 
 Gerçeğe uygun olmayan belgeleri düzenleyen ve kullananlar, haklarında genel hüküm­lere göre ceza kovuşturması yapılmak üzere, cumhuriyet savcılığına bildirilirler.
 
@@ -308,11 +308,11 @@ Gerçeğe uygun olmayan belgeleri düzenleyen ve kullananlar, haklarında genel 
 
 **Madde 25 –** Bakanlık, Kanun'un süratli bir şekilde uygulanması amacı ile, bu Yönet melik'te belirtilen esaslar çerçevesinde yeni düzenlemeler getirecek tebliğler yayımlayabilir.
 
-BEŞiNCi BÖLÜM
+**BEŞiNCi BÖLÜM**
 
-Son Hükümler
+**Son Hükümler**
 
-Geçici Madde l - 3816 sayılı Kanun'un yürürlüğe girmesinden önce verilmiş bulunan Yeşil Kartlar hakkındaki işlemlere ait evrak, valilik veya kaymakamlıklara devredilir. Veril­miş bulunan Yeşil Kartlar ve Yeşil Kart Sağlık Cüzdanları ise, Kanun'un Geçici 3 üncü mad­desi gereğince, Kanun'un yürürlüğe girmesini takiben 3 ay içinde ilgililerin başvuruda bulunmaları halinde bu Yönetmelikle öngörülen Yeşil Kart Uygulaması Kayıt Defteri'ne kaydedilir ve bu Yönetmelik ile belirlenen şekle göre düzenlenecekler ile değiştirilirler.
+**Geçici Madde l -** 3816 sayılı Kanun'un yürürlüğe girmesinden önce verilmiş bulunan Yeşil Kartlar hakkındaki işlemlere ait evrak, valilik veya kaymakamlıklara devredilir. Veril­miş bulunan Yeşil Kartlar ve Yeşil Kart Sağlık Cüzdanları ise, Kanun'un Geçici 3 üncü mad­desi gereğince, Kanun'un yürürlüğe girmesini takiben 3 ay içinde ilgililerin başvuruda bulunmaları halinde bu Yönetmelikle öngörülen Yeşil Kart Uygulaması Kayıt Defteri'ne kaydedilir ve bu Yönetmelik ile belirlenen şekle göre düzenlenecekler ile değiştirilirler.
 
 **Geçici Madde 2 –** 3816 sayılı Kanun'un yürürlüğe girmesinden önce verilmiş bulunan Yeşil Kartların sahiplerine Kanun'un yürürlüğe girmesinden sonra sunulmuş ve henüz bedel­ leri ödenmemiş olan sağlık hizmetleri de, bu Yönetmelik ile belirlenen esaslara göre fatura edilir ve bedelleri ödenir.
 

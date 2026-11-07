@@ -12,8 +12,8 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2019/01/20190130-6.htm"
 durum: "yürürlükte"
 ---
 
-KANUN GELİR VERGİSİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN
-Kanun No. 7162 Kabul Tarihi: 18/1/2019
+**KANUN GELİR VERGİSİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
+Kanun No. 7162 **Kabul Tarihi: 18/1/2019**
 
 MADDE 1 – 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 9 uncu maddesinin birinci fıkrasının (6) numaralı bendine “işyeri açmaksızın” ibaresinden sonra gelmek üzere “veya yıl içinde gerçekleştirilen satış tutarı, ilgili yıl için geçerli olan asgari ücretin yıllık brüt tutarından fazla olmamak üzere, internet ve benzeri elektronik ortamlar üzerinden” ibaresi eklenmiştir.
 

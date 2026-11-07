@@ -13,11 +13,11 @@ durum: "yürürlükte"
 
 ## -263- BİYOLOJİ VE TIBBIN UYGULANMASI BAKIMINDAN İNSAN HAKLARI VE İNSAN HAYSİYETİNİN KORUNMASI SÖZLEŞMESİ : İNSAN HAKLARI VE BİYOTIP SÖZLEŞMESİNİN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN (Resmi Gazete ileyayımı: 9.12.2003 Sayı: 25311) Kanun No Kabul Tarihi 5013 3.12.2003
 
-MADDE 1. - Avrupa Konseyi çerçevesinde 4 Nisan 1997 tarihinde imzaya açılmış olan "Biyoloji ve Tıbbın Uygulanması Bakımından İnsan Hakları ve İnsan Haysiyetinin Korunması Sözleşmesi : İnsan Hakları ve Biyotıp Sözleşmesinin onaylanması uygun bulunmuştur.
+**MADDE 1. -** Avrupa Konseyi çerçevesinde 4 Nisan 1997 tarihinde imzaya açılmış olan "Biyoloji ve Tıbbın Uygulanması Bakımından İnsan Hakları ve İnsan Haysiyetinin Korunması Sözleşmesi : İnsan Hakları ve Biyotıp Sözleşmesinin onaylanması uygun bulunmuştur.
 
-MADDE 2. - Bu Kanun yayımı tarihinde yürürlüğe girer.
+**MADDE 2. -** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-MADDE 3. - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**MADDE 3. -** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 ### BİYOLOJİ VE TIBBIN UYGULANMASI BAKIMINDAN İNSAN HAKLARI VE İNSAN HAYSİYETİNİN KORUNMASI SÖZLEŞMESİ : İNSAN HAKLARI VE BİYOTIP SÖZLEŞMESİ BAŞLANGIÇ
 
@@ -45,7 +45,7 @@ Biyoloji ve tıbbın kötüye kullanılmasının, insan onurunu tehlikeye sokaca
 
 ### -264-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
 Biyoloji ve tıptaki ilerlemenin, şimdiki ve gelecek kuşakların yararı için kullanılması gerektiği fikrini onaylayarak;
 
@@ -63,27 +63,27 @@ Aşağıdaki hususları kabul etmişlerdir :
 
 ### BÖLÜM I Genel Hükümler
 
-Madde 1. (Amaç ve konu)
+**Madde 1. (Amaç ve konu)**
 
 Bu Sözleşmenin Tarafları, tüm insanların haysiyetini ve kimliğini koruyacak ve biyoloji ve tıbbın uygulanmasında, ayırım yapmadan herkesin, bütünlüğüne ve diğer hak ve özgürlüklerine saygı gösterilmesini güvence altına alacaklardır.
 
 Tarafların her biri, bu Sözleşme hükümlerinin yürürlüğe sokulması bakımından kendi iç hukuklarında gerekli tedbirleri alacaklardır.
 
-Madde 2. (İnsanın önceliği)
+**Madde 2. (İnsanın önceliği)**
 
 İnsanın menfaatleri ve refahı, bilim veya toplumun menfaatlerinin üstünde tutulacaktır.
 
-Madde 3. (Sağlık hizmetlerinden adil şekilde yararlanma)
+**Madde 3. (Sağlık hizmetlerinden adil şekilde yararlanma)**
 
 Taraflar, sağlığa duyulan ihtiyaçları ve kullanılabilir kaynakları gözönüne alarak, kendi egemenlik alanlarında, uygun nitelikteki sağlık hizmetlerinden adil bir şekilde yararlanılmasını sağlayacak uygun önlemleri alacaklardır.
 
-Madde 4. (Meslekî standartlar)
+**Madde 4. (Meslekî standartlar)**
 
 Araştırma dahil, sağlık alanında herhangi bir müdahelenin, ilgili meslekî yükümlülükler ve standartlara uygun olarak yapılması gerekir.
 
 ### BÖLÜM II Muvafakat
 
-Madde 5. (Genel Kural)
+**Madde 5. (Genel Kural)**
 
 Sağlık alanında herhangi bir müdahale, ilgili kişinin bu müdahaleye özgürce ve bilgilendirilmiş bir şekilde muvafakat etmesinden sonra yapılabilir.
 
@@ -93,9 +93,9 @@ Bu kişiye, önceden, müdahalenin amacı ve niteliği ile sonuçları ve tehlik
 
 ### -265-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
-Madde 6. (Muvafakat verme yeteneği bulunmayan kişilerin korunması)
+**Madde 6. (Muvafakat verme yeteneği bulunmayan kişilerin korunması)**
 
 1. Aşağıda, 17 ve 20. maddelere tâbi olmak koşuluyla, muvafakat verme yeteneği bulunmayan bir kimse üzerinde tıbbî müdahale, sadece onun doğrudan yararı için yapılabilir.
 
@@ -111,21 +111,21 @@ Küçüğün görüşü, yaşı ve olgunluk derecesiyle orantılı bir şekilde,
 
 5. Yukarıda 2 ve 3. paragraflarda belirtilen izin, ilgili kişinin en fazla yararı bakımından her zaman geri çekilebilir.
 
-Madde 7. (Akıl hastalığı olan kişilerin korunması)
+**Madde 7. (Akıl hastalığı olan kişilerin korunması)**
 
 Gözetim, denetim ve başka bir makama başvurma süreçleri dahil, kanun tarafından öngörülen koruyucu şartlarla bağlı olmak üzere, ciddî nitelikli bir akıl hastalığı olan kişi, yalnızca böyle bir tedavi yapılmadığı takdirde sağlığına ciddî bir zarar gelmesinin muhtemel olduğu durumlarda, muvafakati olmaksızın, akıl hastalığının tedavi edilmesini amaçlayan bir müdahaleye tâbi tutulabilir.
 
-Madde 8. (Acil durum)
+**Madde 8. (Acil durum)**
 
 Acil bir durum nedeniyle uygun muvafakatin alınamaması halinde, ilgili bireyin sağlığı için tıbbî bakımdan gerekli olan herhangi bir müdahale derhal yapılabilir.
 
-Madde 9. (Önceden açıklanmış istek)
+**Madde 9. (Önceden açıklanmış istek)**
 
 Müdahale sırasında isteğini açıklayabilecek bir durumda bulunmayan bir hastanın, tıbbî müdahale ile ilgili olarak önceden açıklamış olduğu istekler gözönüne alınacaktır.
 
 ### BÖLÜM III Özel yaşam ve bilgilendirilme hakkı
 
-Madde 10. (Özel yaşam ve bilgilendirilme hakkı)
+**Madde 10. (Özel yaşam ve bilgilendirilme hakkı)**
 
 1. Herkes, kendi sağlığıyla ilgili bilgiler bakımından, özel yaşamına saygı gösterilmesini isteme hakkına sahiptir.
 
@@ -135,33 +135,33 @@ Madde 10. (Özel yaşam ve bilgilendirilme hakkı)
 
 ### -266-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
 ### BÖLÜM IV İnsan genomu
 
-Madde 11. (Ayırım yapmama)
+**Madde 11. (Ayırım yapmama)**
 
 Bir kimseye, genetik kalıtımı nedeniyle herhangi bir ayrımcılık uygulanması yasaktır.
 
-Madde 12. (Genetik teşhise yönelik testler)
+**Madde 12. (Genetik teşhise yönelik testler)**
 
 Genetik hastalıkları teşhise yönelik veya ya kişinin bir hastalığa neden olan bir geni taşıdığını belirlemeye ya da genetik bir yatkınlığı veya bir hastalığa eğilimi ortaya çıkarmaya yönelik testler, sadece sağlık amaçlarıyla veya sağlık amaçlı bilimsel araştırma için ve uygun genetik danışmada bulunmak şartıyla yapılabilir.
 
-Madde 13. (İnsan genomu üzerinde müdahaleler)
+**Madde 13. (İnsan genomu üzerinde müdahaleler)**
 
 İnsan genomu değiştirmeye yönelik bir müdahale, yalnızca, önleme, teşhis ve tedavi gayeleriyle ve sadece, amacının, herhangi bir altsoyun genomunda değişiklik yapılması olmaması halinde yapılabilir.
 
-Madde 14. (Cinsiyet seçememe)
+**Madde 14. (Cinsiyet seçememe)**
 
 Cinsiyetle ilgili ciddî bir kalıtsal hastalıktan kaçınma hali hariç, doğacak çocuğun cinsiyetini seçmek amacıyla suni döllenme tekniklerinin kullanımından kaçınılacaktır.
 
 ### BÖLÜM V Bilimsel araştırma
 
-Madde 15. (Genel kural)
+**Madde 15. (Genel kural)**
 
 Biyoloji ve tıp alanında bilimsel araştırma, bu Sözleşme hükümlerine ve insan varlığının korunmasını güvence altına alan diğer yasal hükümlere bağlı kalmak kaydıyla,serbestçe yapılabilir.
 
-Madde 16. (Üzerinde araştırma yapılan kişilerin korunması)
+**Madde 16. (Üzerinde araştırma yapılan kişilerin korunması)**
 
 Bir kimse üzerinde araştırma, ancak aşağıdaki şartların tümünün yerine getirilmesi halinde yapılabilir:
 
@@ -175,9 +175,9 @@ v) 5. Maddede öngörülmüş bulunan muvafakatin açıkça ve belirli bir şeki
 
 ### -267-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
-Madde 17. (Araştırmaya muvafakat etme yeteneği olmayan kişilerin korunması)
+**Madde 17. (Araştırmaya muvafakat etme yeteneği olmayan kişilerin korunması)**
 
 1.5. Maddede belirtildiği şekilde muvafakatini açıklama yeteneği bulunmayan bir kimse üzerinde araştırma ancak, aşağıdaki şartların tümünün yerine getirilmesi halinde yapılabilir:
 
@@ -197,7 +197,7 @@ i) araştırmanın, hastanm sağlık durumu, hastalığı veya rahatsızlığı 
 
 ii) araştırmanın, ilgili kişi bakımından sadece asgarî bir tehlike ve asgarî bir külfeti gerektirmesi
 
-Madde 18. (Tüpte embriyonlar üzerinde araştırma)
+**Madde 18. (Tüpte embriyonlar üzerinde araştırma)**
 
 1. Hukukun embriyon üzerinde tüpte araştırmaya izin vermesi halinde, embriyon için uygun koruma sağlanacaktır.
 
@@ -205,19 +205,19 @@ Madde 18. (Tüpte embriyonlar üzerinde araştırma)
 
 ### BÖLÜM VI Nakil amaçlarıyla canlı vericilerden organ ve doku alınması
 
-Madde 19. (Genel kural)
+**Madde 19. (Genel kural)**
 
 1. Yaşayan bir kimseden nakil amaçlarıyla organ veya doku alınması, sadece alıcının tedaviye ilişkin istifadesi için ve ölmüş bir kimseden uygun organ veya doku bulunmadığı ve karşılaştırılabilir etkinlikte başka bir tedavi yönteminin olmadığı durumlarda gerçekleştirilebilir.
 
 2. Gerekli muvafakat, Madde 5'te öngörüldüğü üzere, açıkça ve belirli bir şekilde, yazılı olarak veya resmî bir makam önünde verilmiş olmalıdır.
 
-Madde 20. (Organ alınmasına muvafakat verme yeteneği olmayan kişilerin korunması)
+**Madde 20. (Organ alınmasına muvafakat verme yeteneği olmayan kişilerin korunması)**
 
 1. 5. Maddeye göre muvafakatini açıklama yeteneği bulunmayan bir kimseden organ veya doku alınamaz.
 
 ### -268-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
 2. İstisnai olarak ve kanun tarafından öngörülmüş koruyucu şartlar altında, muvafakat verme yeteneği olmayan bir kimseden kendisini yenileyen dokuların alınmasına aşağıdaki şartların gerçekleşmesi halinde izin verilebilir: i)muvafakat verme yeteneği bulunan uygun bir vericinin bulunmaması;
 
@@ -231,53 +231,53 @@ v) muhtemel vericinin buna itirazda bulunmaması.
 
 ### BÖLÜM VII Ticarî kazanç yasağı ve insan vücudundan alınmış parçalar üzerinde tasarruf
 
-Madde 21. (Ticarî kazanç yasağı)
+**Madde 21. (Ticarî kazanç yasağı)**
 
 İnsan vücudu ve onun parçaları, bu nitelikleri dolayısıyla, ticarî kazanç sağlanmasına konu olmayacaktır.
 
-Madde 22. (İnsan vücudundan alınmış parçalar üzerinde tasarruf)
+**Madde 22. (İnsan vücudundan alınmış parçalar üzerinde tasarruf)**
 
 Bir müdahale sırasında insan vücudunun herhangi bir parçası alındığında, çıkarılan parça, yalnızca uygun bilgi verme ve muvafakat alma usullerine uyulduğu takdirde, çıkarılma amacından başka bir amaç için saklanabilir ve kullanılabilir.
 
 ### BÖLÜM VIII Sözleşme hükümlerinin ihlali
 
-Madde 23. (Hakların veya ilkelerin ihlali)
+**Madde 23. (Hakların veya ilkelerin ihlali)**
 
 Taraflar, bu Sözleşme'de öngörülen hakların ve ilkelerin hukuka aykırı bir şekilde ihlalinin en kısa sürede önlenmesi veya durdurulması için uygun yargısal korumayı sağlayacaklardır.
 
-Madde 24. (Uygun olmayan zararın tazmini)
+**Madde 24. (Uygun olmayan zararın tazmini)**
 
 Tıbbî bir müdahale sonucunda, uygun olmayan bir zarara uğrayan kişinin, kanun tarafından öngörülen koşullar ve usuller uyarınca, adil bir tazminat isteme hakkı vardır.
 
-Madde 25. (Yaptırımlar)
+**Madde 25. (Yaptırımlar)**
 
 Taraflar, bu Sözleşme'de yer alan hükümlerin ihlal edilmesi halinde uygulanacak uygun yaptırımları sağlayacaklardır.
 
 ### BÖLÜM IX Bu Sözleşme ve diğer hükümler arasındaki ilişki
 
-Madde 26. (Hakların kullanılmasının kısıtlanması)
+**Madde 26. (Hakların kullanılmasının kısıtlanması)**
 
 1. Bu Sözleşmede yer alan haklar ve koruyucu hükümlerin kullanılmasında, kamu güvenliği, suçun önlenmesi, kamu sağlığının korunması veya başkalarının hak ve özgürlüklerinin korunması için kanun tarafından öngörülen ve demokratik bir toplumda gerekli olanlardan başka kısıtlama konulmayacaktır.
 
 ### -269-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
 2. Yukarıdaki paragrafta sözü edilen kısıtlamalar, Madde 11, 13, 14, 16, 17, 19, 20 ve 21 'e uygulanmayacaktır.
 
-Madde 27. (Daha geniş koruma)
+**Madde 27. (Daha geniş koruma)**
 
 Bu Sözleşmedeki hükümlerden hiçbiri, Tarafların, biyoloji ve tıbbın uygulanmasında bu Sözleşmede belirtilenden daha geniş bir koruma sağlama imkânını kısıtlayacak veya etkileyecek şekilde yorumlanmayacaktır.
 
 ### BÖLÜM X Kamuoyu tartışması
 
-Madde 28. (Kamuya açık tartışma)
+**Madde 28. (Kamuya açık tartışma)**
 
 Bu Sözleşmenin Tarafları, biyoloji ve tıp alanındaki gelişmelerin doğurduğu temel soruların, özellikle ilgili tıbbî, sosyal, ekonomik, ahlakî ve hukukî yansımaların ışığında, uygun şekilde kamusal tartışmaya konu olmasını ve bunların muhtemel uygulamalarının, uygun istişarelere konu olmasını sağlayacaklardır.
 
 ### BÖLÜM XI Sözleşmenin yorumu ve izlenmesi
 
-Madde 29. (Sözleşmenin yorumu)
+**Madde 29. (Sözleşmenin yorumu)**
 
 Avrupa İnsan Hakları Divanı,
 
@@ -285,13 +285,13 @@ Avrupa İnsan Hakları Divanı,
 
 - 32. Maddeye göre, Sözleşme Taraflarının temsilcileriyle kısıtlı bir şekilde oluşturulan Komitenin, kullanılan oyların üçte iki çoğunluğuyla alacağı karara dayalı talepler üzerine, bir mahkemede görülmekte olan herhangi belirli bir davaya doğrudan atıfta bulunulmaksızın, işbu Sözleşmenin yorumuna ilişkin hukukî sorunlar hakkında istişari nitelikte görüş bildirilebilir.
 
-Madde 30. (Sözleşmenin uygulanması hakkında raporlar)
+**Madde 30. (Sözleşmenin uygulanması hakkında raporlar)**
 
 Avrupa Konseyi Genel Sekreteri'nden alman bir talep üzerine, Taraflardan herhangi biri, iç hukukunun, Sözleşme hükümlerinden herhangi birinin etkin şekilde uygulanmasını sağlama tarzı hakkında açıklamada bulunacaktır.
 
 ### BÖLÜM XII Protokoller
 
-Madde 31. (Protokoller)
+**Madde 31. (Protokoller)**
 
 Bu Sözleşmede yer alan ilkelerin geliştirilmesi amacıyla belirli alanlarda, 32. Madde uyarınca protokoller aktedilebilir.
 
@@ -299,11 +299,11 @@ Protokoller, Sözleşmeyi imzalayan Devletlerin imzasına açılacaktır. Protok
 
 ### -270-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
 ### BÖLÜM XIII Sözleşmede değişiklik yapılması
 
-Madde 32. (Sözleşmede değişiklik yapılması)
+**Madde 32. (Sözleşmede değişiklik yapılması)**
 
 1. İşbu Madde ve 29. Madde ile Komite'ye verilen görevler, Biyoetik Yürütme Kurulu (CDBİ) veya Bakanlar Komitesi tarafından tayin edilecek herhangi başka bir komite tarafından yerine getirilecektir.
 
@@ -323,13 +323,13 @@ Sonradan kabul eden Taraf bakımından değişiklik, bu Tarafın, kabul keyfiyet
 
 ### BÖLÜM XIV Son hükümler
 
-Madde 33. (İmza, onay ve yürürlüğe girme)
+**Madde 33. (İmza, onay ve yürürlüğe girme)**
 
 1. Bu Sözleşme, Avrupa Konseyi'ne üye Devletler, Sözleşme'nin oluşumuna katkıda bulunan üye olmayan Devletler ve Avrupa Topluluğu'nun imzasına açık olacaktır.
 
 ### -271-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
 2. Bu Sözleşme, onay, kabul veya uygun bulmaya tabidir. Onay, kabul veya uygun bulma belgeleri, Avrupa Konseyi Genel Sekreteri'ne tevdi edilecektir.
 
@@ -337,13 +337,13 @@ Madde 33. (İmza, onay ve yürürlüğe girme)
 
 4. Sözleşmeyle bağlılık iradesini sonradan açıklayan herhangi bir İmzacı Devlet bakımından Sözleşme, bu Devletin, onay, kabul veya uygun bulma belgesini tevdii tarihini izleyen üç aylık sürenin geçmesinden sonra gelen ayın ilk günü yürürlüğe girecektir.
 
-Madde 34. (Üye olmayan Devletler)
+**Madde 34.** (Üye **olmayan Devletler)**
 
 1. İşbu Sözleşmenin yürürlüğe girmesinden sonra, Avrupa Konseyi Bakanlar Komitesi, Taraflara danıştıktan sonra, Avrupa Konseyi Statüsü'nün 20. Maddesi (d) alt paragrafında belirlenen çoğunlukla ve Bakanlar Komitesine katılmaya yetkili olan Akit Devletler temsilcilerinin oybirliğiyle Avrupa Konseyine üye olmayan herhangi bir Devleti bu Sözleşmeye katılmaya davet edebilir.
 
 2. Katılan herhangi bir Devlet bakımından Sözleşme, katılma belgesinin Avrupa Konseyi Genel Sekreteri'ne tevdii tarihini izleyen üç aylık sürenin geçmesinden sonra gelen ayın ilk günü yürürlüğe girecektir.
 
-Madde 35. (Bölgeler)
+**Madde 35. (Bölgeler)**
 
 1. Herhangi bir İmzacı Devlet, Sözleşmeyi imzalama aşamasında veya onay, kabul veya uygun bulma belgelerini tevdi ettiği sırada, bu Sözleşmenin uygulanacağı bölge veya bölgeleri belirleyebilir. Diğer herhangi bir Devlet, katılma belgesini tevdi ettiği zaman aynı beyanda bulunabilir.
 
@@ -351,13 +351,13 @@ Madde 35. (Bölgeler)
 
 3. Yukarıdaki iki paragrafta istinaden yapılmış herhangi bir beyan, sözkonusu beyanda belirtilen bölge bakımından, Genel Sekreter'e yönelik bir bildirimle geri alınabilir. Geri alma, sözkonusu bildirimin Genel Sekreter tarafından alındığı tarihi izleyen üç aylık sürenin geçmesinden sonra gelen ayın ilk günü yürürlüğe girer.
 
-Madde 36. (Çekinceler)
+**Madde 36. (Çekinceler)**
 
 1. Herhangi bir Devlet ve Avrupa Topluluğu, imza aşamasında veya onay, kabul veya uygun bulma belgesini tevdi ederken, o sırada ülkesinde yürürlükte bulunan herhangi bir kanunun, bu Sözleşmenin herhangi bir hükmü ile uyum halinde olmaması nedeniyle, herhangi bir hüküm için çekince koyabilir. Genel nitelikteki çekincelere, bu madde uyarınca izin verilmeyecektir.
 
 ### -272-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
 2. Bu madde uyarınca konulacak çekince, ilgili kanun hakkında kısa bir açıklama içerecektir.
 
@@ -365,13 +365,13 @@ Madde 36. (Çekinceler)
 
 4. Bu maddede zikredilen çekinceye koyan herhangi bir Taraf, Avrupa Konseyi Genel Sekreteri'ne muhatap bir beyanla çekinceyi geri alabilir. Geri alma, sözkonusu beyanın Genel Sekreter tarafından alındığı tarihi izleyen bir aylık sürenin geçmesinden sonra gelen ayın ilk günü yürürlüğe girer.
 
-Madde 37. (Fesih)
+**Madde 37. (Fesih)**
 
 1. Herhangi bir Taraf, Avrupa Konseyi Genel Sekreteri'ne yönelik bir bildirimde bulunmak suretiyle, her zaman, bu Sözleşmeden ayrılabilir.
 
 2. Sözkonusu fesih, buna ilişkin bildirimin Genel Sekreter tarafından alındığı tarihi izleyen üç aylık sürenin geçmesinden sonra gelen ayın ilk günü yürürlüğe girer.
 
-Madde 38. (Bildirimler)
+**Madde 38. (Bildirimler)**
 
 1. Avrupa Konseyi Genel Sekreteri, Konsey üyesi Devletlere, Avrupa Topluluğuna, herhangi bir İmzacı Devlete, herhangi bir Tarafa ve bu Sözleşmeye katılmaya davet edilmiş diğer herhangi bir Devlete :
 
@@ -397,7 +397,7 @@ Oviedo'da, 4 Nisan 1997 tarihinde, her ikisi de eşit şekilde resmiyet taşıya
 
 ### -273-
 
-5013 3.12.2003
+**5013 3.12.2003**
 
 ### ÇEKİNCE METNİ
 

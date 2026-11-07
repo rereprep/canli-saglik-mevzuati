@@ -12,7 +12,7 @@ durum: "yürürlükte"
 ---
 
 Türkiye İlaç ve Tıbbî Cihaz Kurumundan:
-İN VİTRO TANI AMAÇLI TIBBİ CİHAZ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+**İN VİTRO TANI AMAÇLI TIBBİ CİHAZ YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK**
 
 MADDE 1- 2/6/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de yayımlanan İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliğinin 18 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
 “(1) AB uygunluk beyanı, kapsamındaki cihazla ilgili olarak bu Yönetmelikte belirtilen gerekliliklerin yerine getirildiğini belirtir. İmalatçı, AB uygunluk beyanını güncel tutar. AB uygunluk beyanı, asgari olarak Ek IV’te belirtilen bilgileri içerir ve yurt içinde piyasaya arz edilen cihazlar için söz konusu beyanın başka dillerde düzenlenmesi halinde beyanın Türkçe tercümesi eklenir. Aynı zamanda AB piyasasına arz edilen cihazlar için AB uygunluk beyanı cihazın piyasada bulundurulduğu AB üyesi ülkenin/ülkelerin talep ettiği dilde sunulur.”

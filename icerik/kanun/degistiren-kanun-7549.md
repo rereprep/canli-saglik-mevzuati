@@ -12,9 +12,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2025/06/20250604-1.htm"
 durum: "yürürlükte"
 ---
 
-KANUN
-BAZI KANUNLARDA VE 660 SAYILI KANUN HÜKMÜNDE
-KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+**KANUN**
+**BAZI KANUNLARDA VE 660 SAYILI KANUN HÜKMÜNDE**
+**KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN**
 Kanun No. 7549 Kabul Tarihi: 29/5/2025
 
 MADDE 1- 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 5 inci maddesinin beşinci fıkrasının (e) bendi yürürlükten kaldırılmış, Anayasa Mahkemesi tarafından iptal edilen (ğ), (h) ve (ı) bentleri ile altıncı ve yedinci fıkraları aşağıdaki şekilde yeniden düzenlenmiştir.
@@ -61,7 +61,7 @@ MADDE 8- 633 sayılı Kanunun 33 üncü maddesinin birinci fıkrasında yer alan
 MADDE 9- 633 sayılı Kanunun ek 6 ncı maddesi aşağıdaki şekilde değiştirilmiştir.
 “EK MADDE 6- Başkanlıkça yapılan sınavlarda soru hazırlama komisyonu üyesi, sınav komisyonu üyesi ve sınav görevlisi olarak görevlendirilen personele sınav ücreti ödenir.
 Sınav ücreti, sınavda görevlendirilenlere her bir gün için aşağıdaki gösterge rakamlarının 657 sayılı Kanuna göre aylıklar için belirlenen memur maaş katsayısının çarpımından oluşur.
-Sınav Görevi Gösterge Rakamı Soru Hazırlama Komisyonu Üyesi Sınav Komisyonu Üyesi Sınav Görevlisi Sınav görevlendirmelerinde;
+**Sınav Görevi Gösterge Rakamı** Soru Hazırlama Komisyonu Üyesi Sınav Komisyonu Üyesi Sınav Görevlisi Sınav görevlendirmelerinde;
 bir kişi bir bütçe yılı döneminde en fazla on defa görevlendirilebilir.
 Bir sınavda aynı kişiye günlük bir sınav ücreti ödenir.
 Bu madde kapsamında sınav ücreti ödenenlere, 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümleri saklı kalmak kaydıyla başka bir ücret ödenmez.”

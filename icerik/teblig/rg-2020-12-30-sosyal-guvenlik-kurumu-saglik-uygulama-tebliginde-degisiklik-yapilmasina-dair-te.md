@@ -11,22 +11,22 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2020/12/20201230M2-3.pdf"
 durum: "yürürlükte"
 ---
 
-Sayfa : 18 RESMÎ GAZETE 30 Aralık 2020 – Sayı : 31350 (2. Mükerrer) Sayfa : 20 RESMÎ GAZETE 30 Aralık 2020 – Sayı : 31350 (2. Mükerrer) Sayfa :
+Sayfa : 18 RESMÎ GAZETE 30 Aralık 2020 – Sayı : 31350 **(2. Mükerrer)** Sayfa : 20 RESMÎ GAZETE 30 Aralık 2020 – Sayı : 31350 **(2. Mükerrer)** Sayfa :
 RESMÎ
 GAZETE
 Aralık 2020 – Sayı :
-31350 (2.
-Mükerrer) Aralık 2020 – Sayı :
-31350 (2.
-Mükerrer) RESMÎ
+31350 **(2.**
+**Mükerrer)** Aralık 2020 – Sayı :
+31350 **(2.**
+**Mükerrer)** RESMÎ
 GAZETE
 Sayfa :
 Sayfa :
 RESMÎ
 GAZETE
 Aralık 2020 – Sayı :
-31350 (2.
-Mükerrer) Aralık 2020 – Sayı :
+31350 **(2.**
+**Mükerrer)** Aralık 2020 – Sayı :
 31350 (2.
 Mükerrer) RESMÎ
 GAZETE

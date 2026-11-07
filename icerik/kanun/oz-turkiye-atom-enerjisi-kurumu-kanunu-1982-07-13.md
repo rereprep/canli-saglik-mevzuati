@@ -14,17 +14,17 @@ durum: "yürürlükte"
 
 ### TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU İLE İLGİLİ BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN [1][2][3][4]
 
-Kanun Numarası : 2690
+**Kanun Numarası : 2690**
 
-Kabul Tarihi : 9/7/1982
+**Kabul Tarihi : 9/7/1982**
 
-Yayımlandığı Resmî Gazete : Tarih: 13/7/1982 Sayı: 17753
+**Yayımlandığı Resmî Gazete : Tarih: 13/7/1982 Sayı: 17753**
 
-Yayımlandığı Düstur : Tertip: 5 Cilt: 21 Sayfa: 370
+**Yayımlandığı Düstur : Tertip: 5 Cilt: 21 Sayfa: 370**
 
 ### BÖLÜM – I
 
-Amaç, Kapsam ve Kuruluş
+**Amaç, Kapsam ve Kuruluş**
 
 #### Amaç
 
@@ -40,7 +40,7 @@ Amaç, Kapsam ve Kuruluş
 
 ### BÖLÜM- II
 
-Görev, Yetki ve Sorumluluklar
+**Görev, Yetki ve Sorumluluklar**
 
 #### Görev, Yetki ve Sorumluluklar
 
@@ -48,7 +48,7 @@ Görev, Yetki ve Sorumluluklar
 
 ### BÖLÜM – III
 
-Organlar, Görev ve Yetkileri
+**Organlar, Görev ve Yetkileri**
 
 #### Türkiye Atom Enerjisi Kurumu başkanı
 
@@ -72,7 +72,7 @@ Organlar, Görev ve Yetkileri
 
 ### BÖLÜM – IV
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Çevre Sağlığı
 
@@ -164,7 +164,7 @@ Kurum tarafından desteklenen projelere ilişkin tutarlar, Kurum bütçesine gid
 
 **Madde 19 –** (Mülga: 2/7/2018 - KHK/703/119 md.)
 
-Ek Madde - (Ek: 23/2/1995 – KHK – 547/18 md.; Mülga: 11/10/2011-KHK-666/1 md.)[7]
+**Ek Madde - (Ek: 23/2/1995 – KHK – 547/18 md.; Mülga: 11/10/2011-KHK-666/1 md.)[7]**
 
 #### Yapı denetimi
 
@@ -256,16 +256,16 @@ Bu maddeye göre atananların yardımcılık veya stajyerlik kadro veya pozisyon
 | 7524 | 14, Ek Madde 4 | 2/8/2024 |
 | 7549 | Kanunun Adı, 15, Ek Madde 2, Ek Madde 3, Ek Madde 6, Ek Madde 8, Geçici Madde 7 | 4/6/2025 |
 
-<small>[1] Bu Kurum, 27/11/2002 tarihli ve 24949 sayılı Resmi Gazete’de yayımlanan, Cumhurbaşkanlığının 26/11/2002 tarihli ve D-1-2002-792 sayılı Onayı ile Enerji ve Tabii Kaynaklar Bakanlığına bağlanmıştır.</small>
+<small>[1] <i>Bu Kurum, 27/11/2002 tarihli ve 24949 sayılı Resmi Gazete’de yayımlanan, Cumhurbaşkanlığının 26/11/2002 tarihli ve D-1-2002-792 sayılı Onayı ile Enerji ve Tabii Kaynaklar Bakanlığına bağlanmıştır.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 119 uncu maddesiyle, bu Kanunun adı “Türkiye Atom Enerjisi Kurumu Kanunu” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 703 sayılı KHK’nin 119 uncu maddesiyle, bu Kanunun adı “Türkiye Atom Enerjisi Kurumu Kanunu” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[3] Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu Kanunun 1 ila 14., 16 ila 19., ek 1. ve geçici 1 ila geçici 4. Maddelerinin yürürlükten kaldırılması iptal edilmiştir.</small>
+<small>[3] <i>Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu Kanunun 1 ila 14., 16 ila 19., ek 1. ve geçici 1 ila geçici 4. Maddelerinin yürürlükten kaldırılması iptal edilmiştir.</i></small>
 
-<small>[4] 29/5/2025 tarihli ve 7549 sayılı Kanunun 10 uncu maddesiyle, bu Kanunun adı “Türkiye Atom Enerjisi Kurumunun Muafiyetleri ve Bazı Düzenlemeler Yapılması Hakkında Kanun” iken metne işlendiği şekilde değiştirilmiştir.</small>
+<small>[4] <i>29/5/2025 tarihli ve 7549 sayılı Kanunun 10 uncu maddesiyle, bu Kanunun adı “Türkiye Atom Enerjisi Kurumunun Muafiyetleri ve Bazı Düzenlemeler Yapılması Hakkında Kanun” iken metne işlendiği şekilde değiştirilmiştir.</i></small>
 
-<small>[5] Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine ve 28/12/2004 tarihli ve 5277 sayılı 2005 Mali Yılı Bütçe Kanununun 37 nci maddesine bakınız.</small>
+<small>[5] <i>Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine ve 28/12/2004 tarihli ve 5277 sayılı 2005 Mali Yılı Bütçe Kanununun 37 nci maddesine bakınız.</i></small>
 
-<small>[6] İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri,6/5/1986 tarih ve 3283 sayılı Kanunun 1 nci maddesi ile yürürlükten kaldırılmıştır.</small>
+<small>[6] <i>İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri,6/5/1986 tarih ve 3283 sayılı Kanunun 1 nci maddesi ile yürürlükten kaldırılmıştır.</i></small>
 
-<small>[7] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</small>
+<small>[7] <i>11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.</i></small>

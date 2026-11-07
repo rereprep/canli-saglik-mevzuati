@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## 6 OCAK 1994 GÜN VE 21810 SAYILI RESMİ GAZETEDE YAYINLANAN
 
-Sağlık Bakanlığına Bağlı Eğitim Kurumlarını Hizmete Açma ,Kapatma ve Bunlara Ad Verme Usul ve Esaslarına
+Sağlık Bakanlığına Bağlı Eğitim Kurumlarını **Hizmete** Açma ,Kapatma ve Bunlara Ad Verme Usul ve Esaslarına
 
 ### Dair Yönetmelik
 
@@ -84,13 +84,13 @@ derecedeki amirlerden oluşan kurulu, ifade eder
 
 #### (17 Eylül 1994/22054 sayılı Resmi Gazetede yayınlanan değişiklik)
 
-**Madde 8 –** Bakanlık yetkili elemanlarının gözetim ve denetimi veya İnceleme Kurulu Raporları ile Yönetmelikte belirtilen şartları taşımadığı eğitim-öğretimin istenilen seviyede yürütülemediği ve mevcut şartların iyileştirilmesinin mümkün olamayacağı tespit edilen eğitim kurumları Değerlendirme Kurulu Kararı üzerine Bakanlık Onayı ile kapatılır.
+**Madde 8 –** Bakanlık yetkili elemanlarının gözetim ve denetimi veya İnceleme Kurulu Raporları **<i>ile Yönetmelikte belirtilen</i>** şartları taşımadığı eğitim-öğretimin istenilen seviyede yürütülemediği ve mevcut şartların iyileştirilmesinin mümkün olamayacağı **<i>tespit edilen</i>** eğitim kurumları Değerlendirme Kurulu Kararı üzerine Bakanlık Onayı ile kapatılır.
 
 Teklif ve Değerlendirme Zamanı
 
 #### (15.05.1997/22990 sayılı Resmi Gazete yayınlanan değişiklik)
 
-**Madde 9 –** 6 ve 8 inci madde hükümleri uyarınca hazırlanarak Bakanlığa intikal eden eğitim merkezi ve okulları açılma veya kapatılma teklifleri her yıl Mayıs ayı içerisinde Değerlendirme Kurulu’nda görüşülerek karara bağlanır.
+**Madde 9 –** 6 ve 8 inci madde hükümleri uyarınca hazırlanarak Bakanlığa intikal eden eğitim merkezi ve okulları açılma veya kapatılma teklifleri her yıl Mayıs ayı **<i>içerisinde</i>** Değerlendirme Kurulu’nda görüşülerek karara bağlanır.
 
 Değerlendirme Kurulu, Bakanlıkça ihtiyaç duyulduğu takdirde olağanüstü olarak da toplanıp karar alabilir.
 
@@ -102,13 +102,13 @@ Sağlık Meslek Okulları Açılma Standardı
 
 **Madde 10 –** Sağlık meslek okulları açılmasında okul binası ile ilgili olarak aranması gereken asgari şartlar Ek (1) sayılı cetvelde gösterilmiştir.
 
-Bölümlere Göre Standartlar
+**Bölümlere Göre Standartlar**
 
-Madde 11) Bölümlere Göre Bulunması Gereken Uygulama Alanları Standardı Ek:(2) sayılı cetvelde gösterilmiştir.
+**Madde 11)** Bölümlere Göre Bulunması Gereken Uygulama Alanları Standardı Ek:(2) sayılı cetvelde gösterilmiştir.
 
 ## DÖRDÜNCÜ BÖLÜM
 
-Kurumlara Ad Verme
+**Kurumlara Ad Verme**
 
 #### Kuruma Ad Verme
 
@@ -150,11 +150,11 @@ Gerektiğinde açma ve kapatma teklifleri, Bakanlık yetkili elemanlarına yerin
 
 **Madde 18 –** Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-EK:1
+**EK:1**
 
 ### SAĞLIK MESLEK OKULU BİNSAINDA BULUNMASI GEREKEN ASGARİ ŞARTLAR
 
-A) Genel Şartlar:
+**A) Genel** Şartlar:
 
 1) Okul binası müstakil olmalıdır.
 
@@ -202,11 +202,11 @@ lavabolar ,
 
 500 kişilik spor ve konferans salonu bulunanlar tercih edilecektir.
 
-EK: 2
+**EK: 2**
 
 ### BÖLÜMLERE GÖRE BULUNMASI GEREKEN UYGULAMA ALANLARI
 
-A) Genel Olarak: Ebelik, Hemşirelik, Sağlık Memurluğu, Radyoloji, Laboratuar, Çevre Sağlığı, Anestezi, Diş, Ortopedi Teknisyenliği ile Bakanlıkça ihtiyaç duyularak açılacak bölümlerde eğitimin gerçekleştirileceği sağlık meslek okullarının açılabilmesi için, mahallen bulunması gerekli uygulamalı eğitim alanlarının asgari şartları aşağıda belirtilmiştir.Uygulama alanları hususunda okulun açılacağı merkez dışında, olup da ulaşım imkanı bulunan ve yeterli seviyede uygulamalı eğitim fırsatı bulunabilecek tedavi kurumları da dikkate alınabilir. B) Ebelik Eğitimi İçin Bulunması Gereken Uygulama Alanları:
+**A) Genel Olarak:** Ebelik, Hemşirelik, Sağlık Memurluğu, Radyoloji, Laboratuar, Çevre Sağlığı, Anestezi, Diş, Ortopedi Teknisyenliği ile Bakanlıkça ihtiyaç duyularak açılacak bölümlerde eğitimin gerçekleştirileceği sağlık meslek okullarının açılabilmesi için, mahallen bulunması gerekli uygulamalı eğitim alanlarının asgari şartları aşağıda belirtilmiştir.Uygulama alanları hususunda okulun açılacağı merkez dışında, olup da ulaşım imkanı bulunan ve yeterli seviyede uygulamalı eğitim fırsatı bulunabilecek tedavi kurumları da dikkate alınabilir. B) Ebelik Eğitimi İçin Bulunması **Gereken Uygulama** Alanları:
 
 1) Doğumevi
 
@@ -224,7 +224,7 @@ A) Genel Olarak: Ebelik, Hemşirelik, Sağlık Memurluğu, Radyoloji, Laboratuar
 
 5) Sağlık grup başkanlıkları ve sağlık ocakları,
 
-6) Sağlık evleri. C) Hemşirelik ve Sağlık Memurluğu Eğitimi için Bulunması Gereken Uygulama Alanları:
+6) Sağlık evleri. C) Hemşirelik ve Sağlık Memurluğu Eğitimi için Bulunması **Gereken Uygulama** Alanları:
 
 1) Devlet hastanesi veya diğer kurumlara bağlı hastaneler,
 

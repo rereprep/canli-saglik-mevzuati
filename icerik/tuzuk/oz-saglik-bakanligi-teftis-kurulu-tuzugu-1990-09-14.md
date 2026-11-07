@@ -12,17 +12,17 @@ durum: "yürürlükte"
 
 ### SAĞLIK BAKANLIĞI TEFTİŞ KURULU TÜZÜĞÜ
 
-Bakanlar Kurulu Kararının Tarihi : 18/7/1990 No : 90/671
+**Bakanlar Kurulu Kararının Tarihi : 18/7/1990 No : 90/671**
 
-Dayandığı KHK'nin Tarihi : 13/12/1983 No : 181
+**Dayandığı KHK'nin Tarihi : 13/12/1983 No : 181**
 
-Yayımlandığı Resmî Gazetenin Tarihi : 14/9/1990 No : 20635
+**Yayımlandığı Resmî Gazetenin Tarihi : 14/9/1990 No : 20635**
 
-Yayımlandığı Düsturun Tertibi : 5 Cildi : 30 S.: 1327
+**Yayımlandığı Düsturun Tertibi : 5 Cildi : 30 S.: 1327**
 
 ### BİRİNCİ BÖLÜM
 
-Kapsam, Deyimler, Kuruluş
+**Kapsam, Deyimler, Kuruluş**
 
 #### Kapsam
 
@@ -60,7 +60,7 @@ Bu çalışma merkezlerinde, Bakanca verilen emirlerin yerine getirilmesi, büro
 
 ### İKİNCİ BÖLÜM
 
-Görev, Yetki ve Sorumluluklar
+**Görev, Yetki ve Sorumluluklar**
 
 #### Teftiş Kurulunun Görev ve Yetkileri
 
@@ -204,7 +204,7 @@ Kurulun teftişine tabi daire ve kuruluşlarda teftiş defter ve dosyası tutulu
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Atama, Yetiştirme ve Diğer Özlük İşleri
+**Atama, Yetiştirme ve Diğer Özlük İşleri**
 
 #### Başkanlığa Atanma
 
@@ -218,7 +218,7 @@ Başkanın herhangi bir nedenle görevden ayrılması veya Başkanlığın boşa
 
 A) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel koşulları taşımak,
 
-B) (Değişik: 22/10/1993 - 93/4947 K.) Tabib, diştabibi, eczacı, kimya mühendisi, kimyager olmak veya hukuk, siyasal bilgiler, iktisat, işletme, idari bilimler, iktisadi ve idari bilimler fakültelerinden, sağlık idaresi yüksek okulundan veya bunlara denkliği kabul edilmiş yurt içi ve dışındaki öğretim kurumlarından mezun olmak,
+B) **(Değişik: 22/10/1993 - 93/4947 K.)** Tabib, diştabibi, eczacı, kimya mühendisi, kimyager olmak veya hukuk, siyasal bilgiler, iktisat, işletme, idari bilimler, iktisadi ve idari bilimler fakültelerinden, sağlık idaresi yüksek okulundan veya bunlara denkliği kabul edilmiş yurt içi ve dışındaki öğretim kurumlarından mezun olmak,
 
 C) Yazılı sınav tarihinde 30 yaşını doldurmamış olmak,
 
@@ -230,7 +230,7 @@ gerekir.
 
 Müfettiş yardımcılığı giriş sınavına iki kez girdiği halde kazanamayanlar bir daha sınava giremezler.
 
-(Ek: 11/4/1996 - 96/8044 K.) Giriş sınavlarına girecekleri belirlemek üzere, gerektiğinde, Bakanlıkça, müfettiş yardımcılığı için Yönetmeliğinde belirtilen usul ve esaslara uygun biçimde ön eleme sınavı yapılabilir.
+**(Ek: 11/4/1996 - 96/8044 K.)** Giriş sınavlarına girecekleri belirlemek üzere, gerektiğinde, Bakanlıkça, müfettiş yardımcılığı için Yönetmeliğinde belirtilen usul ve esaslara uygun biçimde ön eleme sınavı yapılabilir.
 
 Giriş sınavının ayrıntılarıyla istenecek bilgi ve belgeler, sınav konuları ve bu işle ilgili diğer hususlar yönetmelikte gösterilir.
 
@@ -274,7 +274,7 @@ Geçerli bir özürü olmadan sınava katılmayanlar, sınava katılması sicil 
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Raporlar
+**Raporlar**
 
 #### Raporlar
 
@@ -298,7 +298,7 @@ Raporların cevaplanma süreleri, izlenmesi ve diğer hususlar Yönetmelikle dü
 
 ### BEŞİNCİ BÖLÜM
 
-Çeşitli Hükümler
+**Çeşitli Hükümler**
 
 #### Kimlik Belgesi
 

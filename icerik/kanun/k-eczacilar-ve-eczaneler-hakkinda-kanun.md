@@ -18,13 +18,13 @@ durum: "yürürlükte"
 
 ### KANUN
 
-Kanun Numarası : 6197
+**Kanun Numarası : 6197**
 
-Kabul Tarihi : 18/12/1953
+**Kabul Tarihi : 18/12/1953**
 
-Yayımlandığı Resmî Gazete: Tarih: 24/12/1953 Sayı: 8591
+**Yayımlandığı Resmî Gazete: Tarih: 24/12/1953 Sayı: 8591**
 
-Yayımlandığı Düstur : Tertip: 3 Cilt: 35 Sayfa: 83
+**Yayımlandığı Düstur : Tertip: 3 Cilt: 35 Sayfa: 83**
 
 ### BİRİNCİ BÖLÜM
 
@@ -74,7 +74,7 @@ C) Sanatını yapmasına mani iyileşmez bir hastalığı bulunmak;
 
 Serbest eczaneler, eczacılık yapma hakkını haiz bir eczacının sahip ve mesul müdürlüğünde yönetmelikte belirlenen belgelerle il sağlık müdürlüğünce düzenlenmiş ve valilikçe onaylanmış bir ruhsatname ile açılır. Ruhsatname konusunda meydana gelecek sorunların çözüm yeri Türkiye İlaç ve Tıbbî Cihaz Kurumudur.
 
-Eczane açmak, devretmek veya başka bir yere nakletmek isteyen eczacılar, bulunduğu ilin sağlık müdürlüğüne dilekçe ile başvurur. Eczane açmak isteyenlerin belgelerinin tam olması hâlinde ruhsatname düzenlenir. Düzenlenen ruhsatnameler Sağlık Bakanlığına, Türkiye İlaç ve Tıbbî Cihaz Kurumuna ve Türk Eczacıları Birliğine bildirilir. Eczaneler için belediyeden ayrıca bir iş yeri ruhsatı alınması ve belediyeye harç ödenmesi gerekmez. (Ek cümle: 2/1/2014-6514/35 md.) Eczaneler için ayrıca başka herhangi bir kurum veya kuruluştan kayıt veya onay belgesi aranmaz.
+Eczane açmak, devretmek veya başka bir yere nakletmek isteyen eczacılar, bulunduğu ilin sağlık müdürlüğüne dilekçe ile başvurur. Eczane açmak isteyenlerin belgelerinin tam olması hâlinde ruhsatname düzenlenir. Düzenlenen ruhsatnameler Sağlık Bakanlığına, Türkiye İlaç ve Tıbbî Cihaz Kurumuna ve Türk Eczacıları Birliğine bildirilir. Eczaneler için belediyeden ayrıca bir iş yeri ruhsatı alınması ve belediyeye harç ödenmesi gerekmez. **(Ek cümle: 2/1/2014-6514/35 md.)** Eczaneler için ayrıca başka herhangi bir kurum veya kuruluştan kayıt veya onay belgesi aranmaz.
 
 Serbest eczane sayıları, ilçe sınırları içindeki nüfusa göre en az üç bin beş yüz kişiye bir eczane olacak şekilde düzenlenir. Hiç eczanesi olmayan yerleşim birimlerinde nüfus kriterine bakılmaksızın bir eczanenin açılmasına müsaade edilir. Ancak bu şekilde açılan eczanelerin başka yerlere naklinde nüfus kriteri işletilir. Eczanelerin aynı ilçe içerisindeki nakillerinde nüfusa göre eczane açılması kriteri uygulanmaz.
 
@@ -98,7 +98,7 @@ A) Ruhsatname almak için ibraz edilen evrakın hilafı hakikat olduğu ve biday
 
 B) 4 üncü maddedeki haller vukubulursa.
 
-(Ek fıkra: 17/5/2012-6308/3 md.) Muvazaalı olarak eczane açıldığının tespiti hâlinde, ruhsatname iptal edilir ve eczacı beş yıl süreyle eczane açamaz. Muvazaanın eczacılar arasında yapılmış olması hâlinde, eczane açma yasağı hepsi hakkında uygulanır.
+**(Ek fıkra: 17/5/2012-6308/3 md.)** Muvazaalı olarak eczane açıldığının tespiti hâlinde, ruhsatname iptal edilir ve eczacı beş yıl süreyle eczane açamaz. Muvazaanın eczacılar arasında yapılmış olması hâlinde, eczane açma yasağı hepsi hakkında uygulanır.
 
 **Madde 7 –** Bir eczacı almış olduğu müsaadeden sarfınazar eder veya iflasına yahut hacrine hükmolunur veya vefat eylerse ruhsatname sakıt olur.
 
@@ -244,7 +244,7 @@ Bu tarifeler en az senede bir defa tetkik edilerek lüzum görülürse tadil ve 
 
 **Madde 40 –** (Değişik birinci fıkra: 23/1/2008-5728/168 md.) Bu Kanunda yazılı usullere uygun olarak ruhsatname almaksızın eczane açanlar üç aydan bir seneye kadar hapis ve yüz günden az olmamak üzere adlî para cezasıyla cezalandırılır.[6]
 
-(Değişik ikinci fıkra: 23/1/2008-5728/168 md.) Eğer fiil eczacılık yapmak hakkını haiz olmayanlar tarafından işlenirse, verilecek cezalar yarı oranında artırılır.
+**(Değişik ikinci fıkra: 23/1/2008-5728/168 md.)** Eğer fiil eczacılık yapmak hakkını haiz olmayanlar tarafından işlenirse, verilecek cezalar yarı oranında artırılır.
 
 Her iki halde de mahkeme kararına hacet kalmaksızın bu gibi yerler mahallin en yüksek sağlık amiri tarafından derhal kapatılır.
 
@@ -264,9 +264,9 @@ Ancak eczanesi bulunmıyan yerlere munhasır olmak üzere Sağlık ve Sosyal Yar
 
 Bu Kanunda yazılı olan yasaklara ve mecburiyetlere muhalif hareket edenlere, fiilleri suç oluşturmadığı takdirde ve bu Kanunda özel hüküm bulunmayan hallerde ikiyüz Türk Lirası idarî para cezası verilir.
 
-(Ek fıkra: 21/7/2025-7557/11 md.) 24 üncü maddenin birinci fıkrasının birinci veya ikinci cümlesine aykırı hareket edenlere, aykırılığa konu tüm ürünlerin aykırılığın tespit tarihindeki eczacı satış fiyatları toplamının iki katı tutarında idari para cezası verilir.
+**(Ek fıkra: 21/7/2025-7557/11 md.)** 24 üncü maddenin birinci fıkrasının birinci veya ikinci cümlesine aykırı hareket edenlere, aykırılığa konu tüm ürünlerin aykırılığın tespit tarihindeki eczacı satış fiyatları toplamının iki katı tutarında idari para cezası verilir.
 
-(Ek fıkra: 21/7/2025-7557/11 md.) Bu madde kapsamında verilen idari para cezaları, aynı fiilin bir yıl içindeki tekerrüründe bir kat artırılarak uygulanır.
+**(Ek fıkra: 21/7/2025-7557/11 md.)** Bu madde kapsamında verilen idari para cezaları, aynı fiilin bir yıl içindeki tekerrüründe bir kat artırılarak uygulanır.
 
 **Madde 45 –** (Değişik: 23/1/2008-5728/173 md.)
 
@@ -306,17 +306,17 @@ Kurulun çalışmasına, uzmanlık eğitimine ve uzmanlık belgelerinin alınmas
 
 **Geçici Madde 2 –** Lozan Sulh Muahedesine göre Türkiye'de eczacılık etmek müsaadesini almış olan eczane sahibi yabancı eczacılar bu kanun hükümlerine riayet etmek şartiyle sanatlarını icraya devam ederler.
 
-**Geçici Madde 3 –** (Ek: 17/5/2012-6308/9 md.)
+**Geçici Madde 3 –** **(Ek: 17/5/2012-6308/9 md.)**
 
 Bu maddenin yürürlüğe girdiği takvim yılında eczacılık yapma hakkını haiz eczacılar ile eczacılık fakültelerinde okumakta olan ve okumaya hak kazanmış bulunanlar hakkında, bir defaya mahsus olmak üzere nüfusa göre eczane açılmasına ve nakline dair sınırlamalara ve yardımcı eczacı olarak çalışma zorunluluğuna ilişkin hükümler uygulanmaz. Bu kimseler, sahip ve mesul müdürlüğünü yaptıkları eczaneleri bir sefere mahsus olmak üzere devredebilirler.
 
 Bu maddenin yürürlüğe girdiği tarihte serbest eczanesi bulunan eczacılar, bir defaya mahsus olmak üzere herhangi bir kısıtlamaya tabi olmaksızın eczanesini bulunduğu ilçe dışına nakledebilir ve devredebilir.
 
-**Geçici Madde 4 –** (Ek: 17/5/2012-6308/9 md.)
+**Geçici Madde 4 –** **(Ek: 17/5/2012-6308/9 md.)**
 
 Bu Kanunun uygulanmasına ilişkin yönetmelik, Kanunun yürürlüğe girmesinden itibaren altı ay içinde Sağlık Bakanlığınca hazırlanarak yürürlüğe konulur.
 
-**Geçici Madde 5 –** (Ek: 6/11/2014-6566/2 md.)
+**Geçici Madde 5 –** **(Ek: 6/11/2014-6566/2 md.)**
 
 Eczacılıkta Uzmanlık Kurulu üyeleri, bu maddenin yayımından itibaren iki ay içinde seçilerek Kurul teşkil olunur. Kurulun ilk teşkilinde, Bakanlık dışındaki kurumlar tarafından seçilecek üyelerde uzman olma ve eğitim kurumlarında en az üç yıl eğitimci olarak görev yapmış bulunma şartı aranmaz. Ancak seçilecek üyelerin, eczacılık alanında profesör veya doçent olmaları şarttır.
 
@@ -330,9 +330,9 @@ Bu Kanunun ek 1 inci maddesinin ikinci fıkrasıyla getirilen uzman klinik eczac
 
 ### I SAYILI ÇİZELGE
 
-(Bu çizelge 6/11/2014 tarihli ve 6566 sayılı Kanunun 1 inci maddesiyle düzenlenmiştir.)
+**(Bu çizelge 6/11/2014 tarihli ve 6566 sayılı Kanunun 1 inci maddesiyle düzenlenmiştir.)**
 
-Eczacılıkta Uzmanlık Dalları ve Eğitim Süreleri
+**Eczacılıkta Uzmanlık Dalları ve Eğitim Süreleri**
 
 | Uzmanlık Dalları | Eğitim Süresi |
 | 1-Klinik Eczacılık | 3 yıl |
@@ -357,16 +357,16 @@ Eczacılıkta Uzmanlık Dalları ve Eğitim Süreleri
 | 7496 | 31 | 1/3/2024 |
 | 7557 | 24, 44 | 24/7/2025 |
 
-<small>[1] Bu maddenin (A) fıkrasında yer alan “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, kamunun sağlığına karşı suçlar, …” bölümü, Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile iptal edilmiştir.</small>
+<small>[1] <i>Bu maddenin (A) fıkrasında yer alan “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, kamunun sağlığına karşı suçlar, …” bölümü, Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile iptal edilmiştir.</i></small>
 
-<small>[2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 29 uncu maddesiyle, bu bentte yer alan “İcra Vekilleri Heyetince” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</small>
+<small>[2] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 29 uncu maddesiyle, bu bentte yer alan “İcra Vekilleri Heyetince” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.</i></small>
 
-<small>[3] 2/1/2014 tarihli ve 6514 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “çarpımı sonucu” ibaresi “toplamı sonucu” şeklinde değiştirilmiştir.</small>
+<small>[3] <i>2/1/2014 tarihli ve 6514 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “çarpımı sonucu” ibaresi “toplamı sonucu” şeklinde değiştirilmiştir.</i></small>
 
-<small>[4] 21/7/2025 tarihli ve 7557 sayılı Kanunun 10 uncu maddesiyle bu fıkranın ikinci cümlesine “ilaçların” ibaresinden sonra gelmek üzere “ve özel tıbbi amaçlı gıdaların” ibaresi eklenmiştir.</small>
+<small>[4] <i>21/7/2025 tarihli ve 7557 sayılı Kanunun 10 uncu maddesiyle bu fıkranın ikinci cümlesine “ilaçların” ibaresinden sonra gelmek üzere “ve özel tıbbi amaçlı gıdaların” ibaresi eklenmiştir.</i></small>
 
-<small>[5] 21/2/2024 tarihli ve 7496 sayılı Kanunun 14 üncü maddesiyle bu maddede yer alan “ve Sosyal Yardım Vekaleti” ibaresi “Bakanlığı” şeklinde değiştirilmiş ve “resmi tabipler” ibaresinden sonra gelmek üzere “veya eczacılar” ibaresi eklenmiştir.</small>
+<small>[5] <i>21/2/2024 tarihli ve 7496 sayılı Kanunun 14 üncü maddesiyle bu maddede yer alan “ve Sosyal Yardım Vekaleti” ibaresi “Bakanlığı” şeklinde değiştirilmiş ve “resmi tabipler” ibaresinden sonra gelmek üzere “veya eczacılar” ibaresi eklenmiştir.</i></small>
 
-<small>[6] 17/5/2012 tarihli ve 6308 sayılı Kanunun 8 inci maddesi ile bu fıkrada yer alan “1 inci maddede sayılı yerleri” ibaresi “eczane” olarak değiştirilmiştir.</small>
+<small>[6] <i>17/5/2012 tarihli ve 6308 sayılı Kanunun 8 inci maddesi ile bu fıkrada yer alan “1 inci maddede sayılı yerleri” ibaresi “eczane” olarak değiştirilmiştir.</i></small>
 
-<small>[7] Bu maddede yer alan I sayılı çizelge için Kanun metninin sonuna bakınız.</small>
+<small>[7] <i>Bu maddede yer alan I sayılı çizelge için Kanun metninin sonuna bakınız.</i></small>

@@ -13,13 +13,13 @@ not: "Ekler (formlar) Bakanlık sitesindeki Excel ekinden (ayniyatislemleriekler
 
 ### SAĞLIK BAKANLIĞI
 
-İdari ve Mali İşler Dairesi Başkanlığı
+**İdari ve Mali İşler Dairesi Başkanlığı**
 
 ### SAYI : B100İMİ0000011/
 
-KONU: Ayniyat İşlemlerinde
+**KONU:** Ayniyat İşlemlerinde
 
-Uyulması gereken esaslar
+**Uyulması gereken esaslar**
 
 Bilindiği gibi, Bakanlığımız merkez teşkilatı birimlerinin hizmet sunumunda kullanılmak üzere satın alma veya hibe yoluyla temin edilen her türlü demirbaş, kullanıma ve tüketime mahsus malzemelerin, 832 Sayılı Sayıştay Kanunu, 1050 Sayılı Muhasebe-i Umumiye Kanunu ve Ayniyat Yönetmeliği kapsamında, ayniyat hesaplarına kaydetme, depolama, koruma, tahsis, sevk ve kontrol işlemleri Bakanlığımız İdari ve Mali İşler Dairesi Başkanlığı Merkez Ayniyat Saymanlığı tarafından yürütülmektedir.
 

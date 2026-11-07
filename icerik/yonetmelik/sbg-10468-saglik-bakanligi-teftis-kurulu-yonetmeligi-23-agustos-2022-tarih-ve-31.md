@@ -13,7 +13,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Başlangıç Hükümleri
+**Başlangıç Hükümleri**
 
 #### Amaç ve kapsam
 
@@ -45,13 +45,13 @@ f) Müfettiş: Bakanlık başmüfettişlerini ve müfettişlerini,
 
 g) Müfettiş yardımcısı: Bakanlık müfettiş yardımcılarını,
 
-ğ) (Ek:RG-8/10/2025-33041) Yetkili müfettiş yardımcısı: Tek başına göreve gidebilmesi için Başkanlıkça yetki verilen müfettiş yardımcılarını,
+ğ) **(Ek:RG-8/10/2025-33041)** Yetkili müfettiş yardımcısı: Tek başına göreve gidebilmesi için Başkanlıkça yetki verilen müfettiş yardımcılarını,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Başkanlığın Kuruluş, Bağlılık ile Görev ve Yetkileri
+**Başkanlığın Kuruluş, Bağlılık ile Görev ve Yetkileri**
 
 #### Kuruluş ve bağlılık
 
@@ -109,9 +109,9 @@ f) Bakanın gerekli gördüğü hallerde bizzat teftiş, denetleme, inceleme, ar
 
 g) İnceleme yapmak ve mesleki bilgilerini geliştirmek amacıyla dış ülkelere gönderilecek müfettişleri ilgili mevzuatta belirtilen esaslara göre belirlemek.
 
-ğ) (Değişik ibare :RG-8/10/2025-33041) Yarışma ve yeterlik sınavlarının yapılmasını ve yürütülmesini sağlamak, bu kapsamda oluşturulacak sınav komisyonlarını belirlemek, Bakan onayına sunmak.
+ğ) **(Değişik ibare :RG-8/10/2025-33041)** Yarışma ve yeterlik sınavlarının yapılmasını ve yürütülmesini sağlamak, bu kapsamda oluşturulacak sınav komisyonlarını belirlemek, Bakan onayına sunmak.
 
-h) (Değişik:RG-8/10/2025-33041) Müfettiş yardımcılarının yetişmelerini sağlayıcı tedbirler almak ve müfettiş yardımcılarına yetki verilmesine ilişkin süreçleri yürütmek.
+h) **(Değişik:RG-8/10/2025-33041)** Müfettiş yardımcılarının yetişmelerini sağlayıcı tedbirler almak ve müfettiş yardımcılarına yetki verilmesine ilişkin süreçleri yürütmek.
 
 ı) Müfettiş ve müfettiş yardımcılarının yetişme ve hizmet içi eğitimlerini düzenlemek ve buna ilişkin komisyonları görevlendirmek.
 
@@ -133,9 +133,9 @@ n) Bakan tarafından verilecek görevler ile mevzuatta öngörülen diğer göre
 
 #### Başkan yardımcısı
 
-**MADDE 8 –** (1) (Değişik:RG-8/10/2025-33041) Görevlerin yürütülmesinde, Başkanlıkta görevli müfettişler arasından en çok 4 başkan yardımcısı Bakan onayıyla görevlendirilebilir.
+**MADDE 8 –** (1) **(Değişik:RG-8/10/2025-33041)** Görevlerin yürütülmesinde, Başkanlıkta görevli müfettişler arasından en çok 4 başkan yardımcısı Bakan onayıyla görevlendirilebilir.
 
-(2) Başkan yardımcıları, Başkanın görevlendirmesi doğrultusunda iş ve işlemlerin yürütülmesini sağlar. (Ek cümleler:RG-8/10/2025-33041) Başkan yardımcıları, kurul bünyesinde yürütülen teftiş, inceleme, soruşturma ve rehberlik faaliyetlerinin; mevzuata, etik ilkelere ve diğer denetim standartlarına uygun olarak icra edilmesi için gerekli çalışmaları yaparlar. Teftiş hizmetlerinin yürütülmesine yönelik olarak uygulamada ortaya çıkan aksaklıkları tespit ederek çözüm önerilerini Başkana sunarlar. Kurulun bilgi ve belge yönetiminin, arşiv sistemi ile dijital raporlama süreçlerinin düzgün ve geçerli olan mevzuata uygun bir şekilde yürütülmesi için gerekli tedbirleri alırlar.
+(2) Başkan yardımcıları, Başkanın görevlendirmesi doğrultusunda iş ve işlemlerin yürütülmesini sağlar. **(Ek cümleler:RG-8/10/2025-33041)** Başkan yardımcıları, kurul bünyesinde yürütülen teftiş, inceleme, soruşturma ve rehberlik faaliyetlerinin; mevzuata, etik ilkelere ve diğer denetim standartlarına uygun olarak icra edilmesi için gerekli çalışmaları yaparlar. Teftiş hizmetlerinin yürütülmesine yönelik olarak uygulamada ortaya çıkan aksaklıkları tespit ederek çözüm önerilerini Başkana sunarlar. Kurulun bilgi ve belge yönetiminin, arşiv sistemi ile dijital raporlama süreçlerinin düzgün ve geçerli olan mevzuata uygun bir şekilde yürütülmesi için gerekli tedbirleri alırlar.
 
 (3) Başkan yardımcıları, kendilerine verilen görev ve yetkilerin mevzuatla belirlenmiş usul ve esaslara uygun bir biçimde yerine getirilmesinden ve kullanılmasından Başkana karşı sorumludur.
 
@@ -157,7 +157,7 @@ n) Bakan tarafından verilecek görevler ile mevzuatta öngörülen diğer göre
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Müfettişlerin Görev, Yetki ve Sorumlulukları ile Çalışma Usul ve Esasları
+**Müfettişlerin Görev, Yetki ve Sorumlulukları ile Çalışma Usul ve Esasları**
 
 #### Müfettişlerin görev ve yetkileri
 
@@ -263,7 +263,7 @@ her kademe ve unvandaki görevliler hakkında 14/7/1965 tarihli ve 657 sayılı 
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Müfettiş Yardımcılığına Giriş ve Sınavlar
+**Müfettiş Yardımcılığına Giriş ve Sınavlar**
 
 #### Müfettiş yardımcılığına giriş
 
@@ -481,7 +481,7 @@ yönlerinden değerlendirmeye tabi tutulur.
 
 ### BEŞİNCİ BÖLÜM
 
-Müfettiş Yardımcılarının Yetiştirilmesi ve Tez Süreci
+**Müfettiş Yardımcılarının Yetiştirilmesi ve Tez Süreci**
 
 #### Müfettiş yardımcılarının yetiştirilmesi
 
@@ -515,9 +515,9 @@ h) Bilimsel çalışma ve teknolojinin getirdiği yeniliklerden yararlanma alı�
 
 yönelik çalışmalarda bulunurlar.
 
-(5) (Ek:RG-8/10/2025-33041) Müfettiş yardımcıları en az iki ayrı müfettiş refakatinde teftiş, denetim, inceleme ve soruşturma usulleri hakkında bilgi ve deneyimlerini geliştirme ve müstakil olarak görev yapabilecek duruma gelmelerini sağlamak üzere eğitim alırlar. Müfettiş yardımcıları, refakatinde bulundukları müfettişin denetim ve gözetimi altındadır.
+(5) **(Ek:RG-8/10/2025-33041)** Müfettiş yardımcıları en az iki ayrı müfettiş refakatinde teftiş, denetim, inceleme ve soruşturma usulleri hakkında bilgi ve deneyimlerini geliştirme ve müstakil olarak görev yapabilecek duruma gelmelerini sağlamak üzere eğitim alırlar. Müfettiş yardımcıları, refakatinde bulundukları müfettişin denetim ve gözetimi altındadır.
 
-(6) (Ek:RG-8/10/2025-33041) On sekiz aylık yetiştirilme sürecini tamamlayan ve 36 ncı maddeye göre yeterli yetişme notunu alan müfettiş yardımcıları, Başkanın teklifi, Bakanın onayı ile teftiş, denetim, inceleme ve soruşturmaları bağımsız olarak yürütmekle yetkili kılınabilir. On sekiz aylık sürenin hesabında temel ve hazırlayıcı eğitimde geçen süreler de dikkate alınır. Aylıksız izin ve toplamı üç ayı aşan hastalık ve refakat izinleri bu sürenin hesabında dikkate alınmaz.
+(6) **(Ek:RG-8/10/2025-33041)** On sekiz aylık yetiştirilme sürecini tamamlayan ve 36 ncı maddeye göre yeterli yetişme notunu alan müfettiş yardımcıları, Başkanın teklifi, Bakanın onayı ile teftiş, denetim, inceleme ve soruşturmaları bağımsız olarak yürütmekle yetkili kılınabilir. On sekiz aylık sürenin hesabında temel ve hazırlayıcı eğitimde geçen süreler de dikkate alınır. Aylıksız izin ve toplamı üç ayı aşan hastalık ve refakat izinleri bu sürenin hesabında dikkate alınmaz.
 
 #### Yetki verilmesine dair esaslar
 
@@ -579,7 +579,7 @@ b) Kanaat notu: Müfettiş yardımcılarının refakatinde çalıştıkları mü
 
 ### ALTINCI BÖLÜM
 
-Yeterlik Sınavı ve Müfettişliğe Atama
+**Yeterlik Sınavı ve Müfettişliğe Atama**
 
 #### Yeterlik sınav komisyonu
 
@@ -587,7 +587,7 @@ Yeterlik Sınavı ve Müfettişliğe Atama
 
 #### Yeterlik sınavı
 
-**MADDE 44 –** (1) Tezi başarılı kabul edilen müfettiş yardımcısı, aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri hariç en az üç yıl fiilen çalışması kaydıyla yeterlik sınavına girmeye hak kazanır. (Ek cümle:RG-8/10/2025-33041) Yeterlik sınavına girmeye hak kazananların sınavı en geç altı ay içinde yapılır.
+**MADDE 44 –** (1) Tezi başarılı kabul edilen müfettiş yardımcısı, aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri hariç en az üç yıl fiilen çalışması kaydıyla yeterlik sınavına girmeye hak kazanır. **(Ek cümle:RG-8/10/2025-33041)** Yeterlik sınavına girmeye hak kazananların sınavı en geç altı ay içinde yapılır.
 
 (2) Yeterlik sınavı, sınav tarihinden en az iki ay önce ilan edilen konularda yazılı ve sözlü olarak yapılır. Sınav soruları yeterlik sınav komisyonunca hazırlanır. Yazılı ve sözlü sınav puanlarının aritmetik ortalaması alınarak 100 tam puan üzerinden en az 70 puan alanlar başarılı sayılır. Yeterlik sınavında başarılı sayılmak için yazılı sınav puanının 60 puandan aşağı olmaması gerekir.
 
@@ -605,7 +605,7 @@ Yeterlik Sınavı ve Müfettişliğe Atama
 
 ### YEDİNCİ BÖLÜM
 
-Teftişe Tabi Olanların Yükümlülükleri
+**Teftişe Tabi Olanların Yükümlülükleri**
 
 #### Teftişe tabi olanların yükümlülükleri
 
@@ -619,11 +619,11 @@ Teftişe Tabi Olanların Yükümlülükleri
 
 ### SEKİZİNCİ BÖLÜM(1)
 
-Başmüfettişliğe Atanma, Kıdem, Mesleki Eğitim ve Müfettiş Güvencesi
+**Başmüfettişliğe Atanma, Kıdem, Mesleki Eğitim ve Müfettiş Güvencesi**
 
 #### Başmüfettişliğe atanma ve kıdem (Değişik başlık:RG-8/10/2025-33041)
 
-**MADDE 48 –** (1) (Değişik:RG-8/10/2025-33041) Müfettiş yardımcılığında geçirilen süreler dahil en az on yıl çalışmış olan müfettişler, ilgili mevzuatına göre Başmüfettişliğe atanabilir.
+**MADDE 48 –** (1) **(Değişik:RG-8/10/2025-33041)** Müfettiş yardımcılığında geçirilen süreler dahil en az on yıl çalışmış olan müfettişler, ilgili mevzuatına göre Başmüfettişliğe atanabilir.
 
 (2) Müfettişlik kıdemine esas süre, müfettiş yardımcılığı ile müfettişlikte, müfettişlik sıfat ve kadrosu muhafaza edilmek şartıyla idari görevlerde ve ücretli izinlerde geçirilen süredir.
 
@@ -657,7 +657,7 @@ Başmüfettişliğe Atanma, Kıdem, Mesleki Eğitim ve Müfettiş Güvencesi
 
 ### DOKUZUNCU BÖLÜM
 
-Teftiş ve Denetim Türlerine İlişkin Esaslar
+**Teftiş ve Denetim Türlerine İlişkin Esaslar**
 
 #### Genel teftiş ve düzenlilik denetimi
 
@@ -685,7 +685,7 @@ Teftiş ve Denetim Türlerine İlişkin Esaslar
 
 ### ONUNCU BÖLÜM
 
-Raporlar
+**Raporlar**
 
 #### Raporların kapsamı
 
@@ -699,15 +699,15 @@ Raporlar
 
 **MADDE 57 –** (1) Müfettişler çalışmaları sonunda işin özelliğine göre;
 
-a) Genel teftiş raporu,
+a) **Genel teftiş raporu**,
 
-b) İnceleme raporu,
+b) **İnceleme raporu**,
 
-c) Soruşturma raporu,
+c) **Soruşturma raporu**,
 
-ç) Araştırma raporu,
+ç) **Araştırma raporu**,
 
-d) Ön inceleme raporu,
+d) **Ön inceleme raporu**,
 
 düzenler.
 
@@ -757,7 +757,7 @@ bildirilmesi amacıyla düzenlen rapordur.
 
 ### ON BİRİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Müfettiş kimlik belgesi, mühür ve demirbaşlar
 
@@ -807,9 +807,9 @@ bildirilmesi amacıyla düzenlen rapordur.
 
 **MADDE 71 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-_________________
+<i>_________________</i>
 
-(1) 8/10/2025 tarihli ve 33041 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bölüm başlığı “Yükselme, Kıdem, Mesleki Eğitim ve Müfettiş Güvencesi” iken metne işlendiği şekilde değiştirilmiştir.
+<i>(1) 8/10/2025 tarihli ve 33041 sayılı Resmî Gazete’de yayımlanan değişiklikle bu bölüm başlığı “Yükselme, Kıdem, Mesleki Eğitim ve Müfettiş Güvencesi” iken metne işlendiği şekilde değiştirilmiştir.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

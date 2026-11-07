@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -62,9 +62,9 @@ h) Türkiye'nin deniz yetki alanlarında bulunan gemilerin ürettiği atıklar i
 
 kapsamaz.
 
-(3) (Değişik:RG-23/3/2017-30016) Madenlerin aranması, çıkarılması, işleme tabi tutulması veya depolanması sonucu oluşan atıklar ile inşaat ve yıkıntı atıklarının tanımlanmasında EK-4 atık listesi, tehlikelilik özelliklerinin belirlenmesinde EK-3/A’da verilen tehlikelilik özellikleri ve EK-3/B’de verilen sınır değerler ile bu atıkların yönetiminde EK-2/A ve EK-2/B’de belirtilen atık işleme yöntemleri kullanılır; ancak bu Yönetmeliğin diğer hükümleri uygulanmaz.
+(3) **(Değişik:RG-23/3/2017-30016)** Madenlerin aranması, çıkarılması, işleme tabi tutulması veya depolanması sonucu oluşan atıklar ile inşaat ve yıkıntı atıklarının tanımlanmasında EK-4 atık listesi, tehlikelilik özelliklerinin belirlenmesinde EK-3/A’da verilen tehlikelilik özellikleri ve EK-3/B’de verilen sınır değerler ile bu atıkların yönetiminde EK-2/A ve EK-2/B’de belirtilen atık işleme yöntemleri kullanılır; ancak bu Yönetmeliğin diğer hükümleri uygulanmaz.
 
-(4) (Ek:RG-23/3/2017-30016) Kontamine olmamış hafriyat toprağı bu maddenin ikinci fıkrası uyarınca Yönetmeliğin kapsamı dışındadır. Ancak, hafriyat toprağının çevre ve insan sağlığına zarar vermeyecek şekilde yönetimi 18/3/2004 tarihli ve 25406 sayılı Resmî Gazete’de yayımlanan Hafriyat Toprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliğine göre gerçekleştirilir.
+(4) **(Ek:RG-23/3/2017-30016)** Kontamine olmamış hafriyat toprağı bu maddenin ikinci fıkrası uyarınca Yönetmeliğin kapsamı dışındadır. Ancak, hafriyat toprağının çevre ve insan sağlığına zarar vermeyecek şekilde yönetimi 18/3/2004 tarihli ve 25406 sayılı Resmî Gazete’de yayımlanan Hafriyat Toprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliğine göre gerçekleştirilir.
 
 #### Dayanak
 
@@ -124,7 +124,7 @@ t) Çevre lisansı: Çevre İzin ve Lisans Yönetmeliğinde düzenlenen geçici 
 
 u) Elektrikli ve elektronik eşya (EEE): 22/5/2012 tarihli ve 28300 sayılı Resmî Gazete’de yayımlanan Atık Elektrikli ve Elektronik Eşyaların Kontrolü Yönetmeliğinin ek-1/A’sında yer alan kategorilere dâhil olan ve alternatif akımla 1000 Volt’u, doğru akımla da 1500 Volt’u geçmeyecek şekildeki kullanımlar maksadıyla tasarlanmış olan, uygun bir biçimde çalışması için elektrik akımına veya elektromanyetik alana bağımlı olan eşyaları ve bu akım ve alanların üretimi, transferi ve ölçümüne yarayan eşyaları,
 
-ü) (Değişik:RG-23/3/2017-30016) Geçici depolama: Atıkların, atık üreticisi tarafından işleme tesislerine ulaştırılmadan önce güvenli bir şekilde bekletilmesini,
+ü) **(Değişik:RG-23/3/2017-30016)** Geçici depolama: Atıkların, atık üreticisi tarafından işleme tesislerine ulaştırılmadan önce güvenli bir şekilde bekletilmesini,
 
 v) Geçici faaliyet belgesi: Çevre İzin ve Lisans Yönetmeliğinde düzenlenen belgeyi,
 
@@ -140,7 +140,7 @@ cc) İkili toplama sistemi: Biyo-bozunur atıklar ile geri kazanılabilir atıkl
 
 çç) İl müdürlüğü: Çevre ve Şehircilik İl Müdürlüğünü,
 
-dd) (Değişik:RG-23/3/2017-30016) İnşaat ve yıkıntı atıkları: Her türlü alt ve üst yapının; tamiratı, tadilâtı, yenilenmesi, yıktırılması veya herhangi bir afet sebebiyle yıkılması sonucu ortaya çıkan atıkları,
+dd) **(Değişik:RG-23/3/2017-30016)** İnşaat ve yıkıntı atıkları: Her türlü alt ve üst yapının; tamiratı, tadilâtı, yenilenmesi, yıktırılması veya herhangi bir afet sebebiyle yıkılması sonucu ortaya çıkan atıkları,
 
 ee) Kirleten öder ilkesi: Kirlenme ve bozulmanın önlenmesi, sınırlandırılması, giderilmesi ve çevrenin iyileştirilmesi için yapılan harcamaların kirleten veya bozulmaya neden olanlar tarafından karşılanmasını,
 
@@ -182,19 +182,19 @@ pp) Yeniden kullanıma hazırlama: Atık olan ürün veya ürün bileşenlerinin
 
 rr) Yetkilendirilmiş kuruluş: Üretici, ithalatçı ve piyasaya sürenlerin sorumluluğu kapsamında yükümlülük getirilen üreticiler, ithalatçılar ve piyasaya sürenler, ürünlerinin faydalı kullanım ömrü sonucunda oluşan atıklarının toplanması, taşınması, geri kazanımı, geri dönüşümü ve bertaraf edilmelerine dair yükümlülüklerinin yerine getirilmesi ve bunlara yönelik gerekli harcamalarının karşılanması, eğitim faaliyetlerinin gerçekleştirilmesi amacıyla Bakanlığın koordinasyonunda bir araya gelerek oluşturdukları tüzel kişiliği haiz birlikleri,
 
-ss) (Ek:RG-23/3/2017-30016) Atık taşıma aracı: Atıkların taşınması amacıyla kullanılan, teknik kriterleri Bakanlıkça belirlenen aracı,
+ss) **(Ek:RG-23/3/2017-30016)** Atık taşıma aracı: Atıkların taşınması amacıyla kullanılan, teknik kriterleri Bakanlıkça belirlenen aracı,
 
-şş) (Ek:RG-23/3/2017-30016) Ön bildirim (notifikasyon): Atıkların sınırlar ötesi hareketinde, EK-5’te yer alan bilgi, beyan ve formlar kullanılarak yapılan başvuruyu,
+şş) **(Ek:RG-23/3/2017-30016)** Ön bildirim (notifikasyon): Atıkların sınırlar ötesi hareketinde, EK-5’te yer alan bilgi, beyan ve formlar kullanılarak yapılan başvuruyu,
 
-tt) (Ek:RG-23/3/2017-30016) Yetkili otorite: Basel sözleşmesi kapsamında atıkların ithalat ve ihracatı ile ilgili olarak işlemleri yürüten ilgili ülkenin yetkili kurumunu,
+tt) **(Ek:RG-23/3/2017-30016)** Yetkili otorite: Basel sözleşmesi kapsamında atıkların ithalat ve ihracatı ile ilgili olarak işlemleri yürüten ilgili ülkenin yetkili kurumunu,
 
-uu) (Ek:RG-23/3/2017-30016) Çevre Bilgi Sistemi: Çevre yönetimiyle ilgili olarak yapılan beyan ve bildirimlerin toplandığı ve değerlendirildiği Bakanlıkça oluşturulmuş olan çevrimiçi sistemi,
+uu) **(Ek:RG-23/3/2017-30016)** Çevre Bilgi Sistemi: Çevre yönetimiyle ilgili olarak yapılan beyan ve bildirimlerin toplandığı ve değerlendirildiği Bakanlıkça oluşturulmuş olan çevrimiçi sistemi,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Genel İlkeler, Görev, Yetki ve Yükümlülükler
+**Genel İlkeler, Görev, Yetki ve Yükümlülükler**
 
 #### Genel ilkeler
 
@@ -226,9 +226,9 @@ g) Mevzuatta lisans alma zorunluluğu getirilen atık türlerini taşıyacak ara
 
 ğ) Serbest bölgelerde kurulu bulunanlar da dâhil olmak üzere, ek-2/A’da ve ek-2/B’de belirtilen faaliyetleri yapan gerçek ve/veya tüzel kişiler Çevre İzin ve Lisans Yönetmeliği doğrultusunda Bakanlık/il müdürlüğünden geçici faaliyet belgesi/çevre izin ve lisansı belgesi almakla, tehlikesiz atık toplama-ayırma tesisi için ise il müdürlüğünden izin almakla yükümlüdürler.
 
-h) (Değişik:RG-23/3/2017-30016) Atıklar, bu maddenin birinci fıkrasının (ç) bendinde belirtilen şartlara uyulmak kaydıyla üretildikleri yerde geri kazanılabilir. Bakanlık, kendi atıklarını, üretildiği yerde, kendi tesisinde enerji geri kazanımı hariç geri kazanan tesisleri çevre lisansı uygulamasından muaf tutmaya yetkilidir. Çevre lisansı uygulamasından Bakanlıkça muaf tutulan tesislerin atık yönetim planında miktar ve türe ilişkin bilgileri vermesi, Çevre Bilgi Sistemi üzerinden gerekli bildirimleri yapması ve atık yönetimi ile ilgili mevzuat hükümlerine uyması gerekmektedir. Çevre lisansı muafiyetine ilişkin Bakanlığa başvuru yapılır ve Bakanlıkça atık ve tesis bazında değerlendirme yapılır.
+h) **(Değişik:RG-23/3/2017-30016)** Atıklar, bu maddenin birinci fıkrasının (ç) bendinde belirtilen şartlara uyulmak kaydıyla üretildikleri yerde geri kazanılabilir. Bakanlık, kendi atıklarını, üretildiği yerde, kendi tesisinde enerji geri kazanımı hariç geri kazanan tesisleri çevre lisansı uygulamasından muaf tutmaya yetkilidir. Çevre lisansı uygulamasından Bakanlıkça muaf tutulan tesislerin atık yönetim planında miktar ve türe ilişkin bilgileri vermesi, Çevre Bilgi Sistemi üzerinden gerekli bildirimleri yapması ve atık yönetimi ile ilgili mevzuat hükümlerine uyması gerekmektedir. Çevre lisansı muafiyetine ilişkin Bakanlığa başvuru yapılır ve Bakanlıkça atık ve tesis bazında değerlendirme yapılır.
 
-ı) (Değişik:RG-23/3/2017-30016) Atıkların toplanması, taşınması, geri kazanılması ve/veya bertaraf edilmesi işlemleri, Bakanlık ve/veya il müdürlüğünden gerekli izin ve/veya çevre lisansı almış tesisler, üretici/yetkilendirilmiş kuruluşlar, atık taşımaya yetkili/lisanslı taşıyıcılar tarafından izinleri/lisansları kapsamında gerçekleştirilir. Atıkların bu firmalar/tesisler dışında üçüncü kişiler tarafından toplama, taşıma, geri kazanım ve/veya bertaraf faaliyetlerinin gerçekleştirilmesi, diğer maddelerle ve yakıtlara karıştırılarak yakılması yasaktır.
+ı) **(Değişik:RG-23/3/2017-30016)** Atıkların toplanması, taşınması, geri kazanılması ve/veya bertaraf edilmesi işlemleri, Bakanlık ve/veya il müdürlüğünden gerekli izin ve/veya çevre lisansı almış tesisler, üretici/yetkilendirilmiş kuruluşlar, atık taşımaya yetkili/lisanslı taşıyıcılar tarafından izinleri/lisansları kapsamında gerçekleştirilir. Atıkların bu firmalar/tesisler dışında üçüncü kişiler tarafından toplama, taşıma, geri kazanım ve/veya bertaraf faaliyetlerinin gerçekleştirilmesi, diğer maddelerle ve yakıtlara karıştırılarak yakılması yasaktır.
 
 i) Atıkların üretildikleri/bulundukları yere en yakın ve en uygun tesise en hızlı şekilde ulaştırılarak, uygun yöntem ve teknolojiler kullanılarak işlenmesi esastır.
 
@@ -236,9 +236,9 @@ j) Atıkların yakılarak bertaraf edilmesinde 6/10/2010 tarihli ve 27721 sayıl
 
 k) Atıkların düzenli depolama yöntemi ile bertaraf edilmesinde, 26/3/2010 tarihli ve 27533 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Atıkların Düzenli Depolanmasına Dair Yönetmelik hükümleri uygulanır.
 
-l) (Değişik:RG-23/3/2017-30016) Atık işleme tesislerinde yapılan faaliyetler hariç, atıklar fiziksel, kimyasal ve biyolojik ön işlemler haricinde kesinlikle doğrudan başka bir madde veya atıkla karıştırılamaz ve/veya seyreltilemez.
+l) **(Değişik:RG-23/3/2017-30016)** Atık işleme tesislerinde yapılan faaliyetler hariç, atıklar fiziksel, kimyasal ve biyolojik ön işlemler haricinde kesinlikle doğrudan başka bir madde veya atıkla karıştırılamaz ve/veya seyreltilemez.
 
-m) (Değişik:RG-23/3/2017-30016) Atıkların geçici depolanması 13 üncü madde hükümlerine göre gerçekleştirilir.
+m) **(Değişik:RG-23/3/2017-30016)** Atıkların geçici depolanması 13 üncü madde hükümlerine göre gerçekleştirilir.
 
 n) Atıkların üretiminden ve yönetiminden sorumlu kişi, kurum ve kuruluşlar, atık yönetiminin her aşamasında atıkların çevre ve insan sağlığına zarar vermesini önleyecek tedbirleri almakla yükümlüdür.
 
@@ -256,7 +256,7 @@ s) Biyo-bozunur atıklar, geri kazanılabilir atıklarla karıştırılmadan iki
 
 t) Belediyelerin, kuracakları ve/veya kurdurtacakları atık işleme tesislerine ait teknoloji ve projelerin uygulanmasına ilişkin Bakanlıktan uygun görüş alması zorunludur.
 
-u) (Değişik:RG-23/3/2017-30016) Belediye atıklarının taşınmasının ekonomik olmasının sağlanması amacıyla taşıma hattında trafik yüküne neden olmayacak şekilde çevresel önlemler alınarak uygun yerlerde aktarma istasyonları kurulabilir. Bu istasyonlarda toplanan atıkların atık işleme tesislerine taşınması sağlanır. Aktarma istasyonlarının sızıntı suyu, koku, toz, gürültü ve görünüş yönünden çevreyi kirletmemesi için boşaltma işleminin yapıldığı yerlerin, araç giriş çıkışı hariç diğer tarafları kapalı olarak inşa edilmesi zorunludur.
+u) **(Değişik:RG-23/3/2017-30016)** Belediye atıklarının taşınmasının ekonomik olmasının sağlanması amacıyla taşıma hattında trafik yüküne neden olmayacak şekilde çevresel önlemler alınarak uygun yerlerde aktarma istasyonları kurulabilir. Bu istasyonlarda toplanan atıkların atık işleme tesislerine taşınması sağlanır. Aktarma istasyonlarının sızıntı suyu, koku, toz, gürültü ve görünüş yönünden çevreyi kirletmemesi için boşaltma işleminin yapıldığı yerlerin, araç giriş çıkışı hariç diğer tarafları kapalı olarak inşa edilmesi zorunludur.
 
 ü) Tehlikeli atıkların neden olduğu çevresel kirlenme ve bozulmadan kaynaklanan zararlardan dolayı tehlikeli atığın toplanması, taşınması, geçici ve ara depolanması, geri kazanımı, yeniden kullanılması ve bertarafı faaliyetlerinde bulunanlar müteselsilen sorumludurlar. Sorumluların bu faaliyetler sonucu meydana gelen zararlardan dolayı genel hükümlere göre de tazminat sorumluluğu saklıdır. Atıkların yönetiminden sorumlu kişilerin çevresel zararı durdurmak, gidermek ve azaltmak için gerekli önlemleri almaması veya bu önlemlerin yetkili makamlarca doğrudan alınması nedeniyle kamu kurum ve kuruluşlarınca yapılan ve/veya yapılması gereken harcamalar, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre atıkların yönetiminden sorumlu olanlardan tahsil edilir.
 
@@ -376,7 +376,7 @@ c) İlçe belediyeleri tarafından bu Yönetmelik kapsamında yürütülen çal�
 
 d) Yönetiminden sorumlu olduğu atıkların yetkili olmayan kişiler tarafından aktarma istasyonundan taşınmasını ve işlenmesini önlemek amacıyla gerekli tedbirleri almakla,
 
-e) (Ek:RG-23/3/2017-30016) İhtiyaç olması durumunda, belediye atıkları için aktarma istasyonu kurmak/kurdurtmak, işletmek/işlettirmekle
+e) **(Ek:RG-23/3/2017-30016)** İhtiyaç olması durumunda, belediye atıkları için aktarma istasyonu kurmak/kurdurtmak, işletmek/işlettirmekle
 
 yükümlüdürler.
 
@@ -418,7 +418,7 @@ a) Atık üretimini en az düzeye indirecek şekilde gerekli tedbirleri almakla,
 
 b) Atıklarını ayrı toplamak ve geçici depolamakla,
 
-c) (Değişik:RG-23/3/2017-30016) Ürettiği atıklara ve atıkların önlenmesi ile azaltılmasına yönelik olarak hazırlamakla yükümlü olduğu atık yönetim planını hazırlayarak il müdürlüğüne sunmakla ve onay almakla,
+c) **(Değişik:RG-23/3/2017-30016)** Ürettiği atıklara ve atıkların önlenmesi ile azaltılmasına yönelik olarak hazırlamakla yükümlü olduğu atık yönetim planını hazırlayarak il müdürlüğüne sunmakla ve onay almakla,
 
 ç) Ürettiği atıklar için Bakanlıkça belirlenen esaslar doğrultusunda kayıt tutmak ve uygun ambalajlama ve etiketleme yapmakla,
 
@@ -440,7 +440,7 @@ i) Ürettikleri atıkların toplanması, taşınması ve geçici depolanması gi
 
 j) Kaza sonucu veya kasti olarak atıkların dökülmesi ve benzeri olaylar sonucu meydana gelen kirliliğin önlenmesi amacıyla, atığın türüne bağlı olarak olayın vuku bulduğu andan itibaren en geç bir ay içinde olay yerinin eski haline getirilmesi ve tüm harcamaların karşılanmasıyla,
 
-k) (Değişik:RG-23/3/2017-30016) Kaza sonucu veya kasti olarak atıkların dökülmesi ve benzeri olaylar vuku bulduğunda 24 saat içerisinde il müdürlüğünü bilgilendirmek ve kaza tarihi, kaza yeri, atığın türü ve miktarı, kaza sebebi, atık işleme türü ve kaza yerinin rehabilitasyonuna ilişkin bilgileri içeren raporu il müdürlüğüne en geç 30 takvim günü içinde sunmakla,
+k) **(Değişik:RG-23/3/2017-30016)** Kaza sonucu veya kasti olarak atıkların dökülmesi ve benzeri olaylar vuku bulduğunda 24 saat içerisinde il müdürlüğünü bilgilendirmek ve kaza tarihi, kaza yeri, atığın türü ve miktarı, kaza sebebi, atık işleme türü ve kaza yerinin rehabilitasyonuna ilişkin bilgileri içeren raporu il müdürlüğüne en geç 30 takvim günü içinde sunmakla,
 
 l) Yan ürün olarak değerlendirilebilecek bu Yönetmeliğin 19 uncu maddesinin birinci fıkrasında tanımlanan özelliklere haiz atıklar için uygunluk almak üzere Bakanlığa başvurmakla,
 
@@ -464,7 +464,7 @@ c) Tesisin risk taşıyan bölümlerinde çalışan personelin işle ilgili sağ
 
 d) Tesisin faaliyetleri sonucu oluşan atıklar ile bakiye atıklarının bu Yönetmelikte belirtilen hükümlere uygun olarak yönetimini sağlamakla,
 
-e) (Değişik:RG-23/3/2017-30016) UATF kullanılması zorunlu olan atıklar için, tesisine kabul edeceği atığın UATF’de belirtilen atık tanımına uygunluğunu tesise girişte tespit etmekle, kabul ettiği atığın taşıma formunu imzalamak ve en geç otuz gün içinde atık üreticisine göndermekle, UATF ile ilgili olarak atık üreticisi ile arasında uyuşmazlık çıkması halinde, bu uyuşmazlık giderilemezse on beş gün içinde, uyuşmazlığı Bakanlığa bildirmekle, taşıma formu olmaksızın atık kabul etmesi halinde Bakanlığa ve il müdürlüğüne bilgi vermekle,
+e) **(Değişik:RG-23/3/2017-30016)** UATF kullanılması zorunlu olan atıklar için, tesisine kabul edeceği atığın UATF’de belirtilen atık tanımına uygunluğunu tesise girişte tespit etmekle, kabul ettiği atığın taşıma formunu imzalamak ve en geç otuz gün içinde atık üreticisine göndermekle, UATF ile ilgili olarak atık üreticisi ile arasında uyuşmazlık çıkması halinde, bu uyuşmazlık giderilemezse on beş gün içinde, uyuşmazlığı Bakanlığa bildirmekle, taşıma formu olmaksızın atık kabul etmesi halinde Bakanlığa ve il müdürlüğüne bilgi vermekle,
 
 f) Çevrimiçi programlara kayıt olmak ve tesisine kabul ettiği, işlediği, bakiye olarak oluşturduğu atıklar ile atık işleme faaliyeti neticesinde oluşturduğu/ürettiği ürünlerin bilgisini içeren kütle-denge bilgisini hazırlamak ve çevrimiçi programı kullanarak bildirim yapmakla,
 
@@ -472,7 +472,7 @@ g) Bakiye atıkları ile ilgili olarak Yönetmelikte atık üreticilerine verile
 
 ğ) Kapatılmadan önce, kapatma sonrası gereken çevre koruma işlemlerini gerçekleştireceğine ve tesisteki tüm atıkların ne şekilde değerlendirileceğine ilişkin bilgi ve taahhütname vermekle,
 
-h) (Değişik:RG-23/3/2017-30016) Tesisin kapatılması için kapatma planı hazırlayarak Bakanlığa başvurmak ve onay almakla, onaylı kapatma planında belirtilen termine uygun olarak çalışmaların tamamlandığına ilişkin onaydan sonra tesisi kapatmakla,
+h) **(Değişik:RG-23/3/2017-30016)** Tesisin kapatılması için kapatma planı hazırlayarak Bakanlığa başvurmak ve onay almakla, onaylı kapatma planında belirtilen termine uygun olarak çalışmaların tamamlandığına ilişkin onaydan sonra tesisi kapatmakla,
 
 ı) Yangına karşı güvenlik önlemlerine yönelik bağlı olduğu belediyeden itfaiye raporu almakla,
 
@@ -484,7 +484,7 @@ yükümlüdür.
 
 a) Bu maddenin birinci fıkrasının (a), (b), (c), (ç), (d), (f), (g), (ğ) ve (h) bentlerinde belirtilen hükümlere uymakla,
 
-b) (Mülga:RG-23/3/2017-30016)
+b) **(Mülga:RG-23/3/2017-30016)**
 
 c) Tesisten kaynaklanabilecek koku, toz, sızıntı suyu, gaz ve benzeri olumsuz etkileri asgari düzeye indirmek için her türlü önleyici tedbir almakla,
 
@@ -494,7 +494,7 @@ d) İşletme planını Bakanlığa sunmakla, uygun görüş almakla, planda değ
 
 e) İşletme sürecinde sera etkisi de dâhil olmak üzere tesisten kaynaklanabilecek gazların toplanması, işlenmesi ve kullanılması işlemlerini çevre ve insan sağlığına zarar vermeyecek şekilde yapmakla,
 
-f) (Mülga:RG-23/3/2017-30016)
+f) **(Mülga:RG-23/3/2017-30016)**
 
 g) Tesise gelen ve işlenmeye uygun olmayan atıklar ile tesisten çıkan ve kullanıma uygun olmayan ürünleri ilgili mevzuata uygun olarak bertaraf etmekle,
 
@@ -502,7 +502,7 @@ yükümlüdür.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Atık Listesi, Atığın Listede Tanımlanması ve Geçici Depolama
+**Atık Listesi, Atığın Listede Tanımlanması ve Geçici Depolama**
 
 #### Atık listesi ve atığın listede tanımlanması
 
@@ -524,7 +524,7 @@ Atık Listesi, Atığın Listede Tanımlanması ve Geçici Depolama
 
 (2) Altı haneli atık kodunun son iki hanesi 99 olan atık kodları Bakanlığın onayı olmaksızın kullanılmaz. 99 ile biten atıkların tehlikeli olup olmadığının ek-3/B’de yer alan konsantrasyon değerleri esas alınarak yapılacak analiz ile belgelenmesi zorunludur.
 
-(3) (Değişik:RG-23/3/2017-30016) Atık kodu 99 ile biten atıklar için kod kullanımına Bakanlıkça onay verilmesi ve atığın gönderilebileceği uygun çevre lisansına sahip tesis bulunamaması halinde, söz konusu atık, Bakanlıktan, benzer sektörden kaynaklanan atıklar için atık işleme konusunda çevre lisansı almış ve prosesinde işlemesi uygun olan tesislerde Bakanlığın onayı alınarak işlenebilir. Atığın tesise kabul edilebilmesi amacıyla atık işleme tesisi atık üreticisinin talebi doğrultusunda Bakanlığa başvuru yapar. Atığın yapılacak çalışma sonucunda tehlikeli olduğunun tespiti halinde, atığı taşıyacak olan lisanslı taşıma firması da atık üreticisinin talebi doğrultusunda Bakanlığa başvuru yapar.
+(3) **(Değişik:RG-23/3/2017-30016)** Atık kodu 99 ile biten atıklar için kod kullanımına Bakanlıkça onay verilmesi ve atığın gönderilebileceği uygun çevre lisansına sahip tesis bulunamaması halinde, söz konusu atık, Bakanlıktan, benzer sektörden kaynaklanan atıklar için atık işleme konusunda çevre lisansı almış ve prosesinde işlemesi uygun olan tesislerde Bakanlığın onayı alınarak işlenebilir. Atığın tesise kabul edilebilmesi amacıyla atık işleme tesisi atık üreticisinin talebi doğrultusunda Bakanlığa başvuru yapar. Atığın yapılacak çalışma sonucunda tehlikeli olduğunun tespiti halinde, atığı taşıyacak olan lisanslı taşıma firması da atık üreticisinin talebi doğrultusunda Bakanlığa başvuru yapar.
 
 #### Geçici depolama
 
@@ -532,21 +532,21 @@ Atık Listesi, Atığın Listede Tanımlanması ve Geçici Depolama
 
 (2) Özelliğine göre sınıflandırılarak geçici depolanan atığın üzerinde tehlikeli ya da tehlikesiz atık ibaresi, atık kodu, depolanan atık miktarı ve depolama tarihi bulunur.
 
-(3) (Değişik:RG-23/3/2017-30016) Atıklar birbirleriyle reaksiyona girmeyecek şekilde geçici depolanır. Tıbbi atıklar hariç olmak üzere, tehlikeli atıklar geçici depolama alanında en fazla 6 ay, tehlikesiz atıklar ise en fazla 1 yıl süreyle geçici depolanır.
+(3) **(Değişik:RG-23/3/2017-30016)** Atıklar birbirleriyle reaksiyona girmeyecek şekilde geçici depolanır. Tıbbi atıklar hariç olmak üzere, tehlikeli atıklar geçici depolama alanında en fazla 6 ay, tehlikesiz atıklar ise en fazla 1 yıl süreyle geçici depolanır.
 
-(4) (Değişik:RG-23/3/2017-30016) Atıkların geçici depolanması işlemi atığın üretildiği tesis/kuruluş sınırları içinde yapılır. Tıbbi atıklar ile ambalaj atıkları hariç olmak üzere, tesis/kuruluş sınırları içinde uygun yer bulunmadığının il müdürlüğü tarafından tespiti durumunda üreticiye ait il sınırları içerisinde il müdürlüğünden uygunluk alınmış olan bir alanda güvenli bir şekilde geçici depolama yapılabilir. Bu alan için miktara bakılmaksızın geçici depolama izni alınır. Geçici depolama alanına atıkların taşınmasında lisanslı araç şartı aranmaz. Tıbbi atıkların geçici depolanmasında 22/7/2005 tarihli ve 25883 sayılı Resmî Gazete’de yayımlanan Tıbbi Atıkların Kontrolü Yönetmeliği hükümleri uygulanır.
+(4) **(Değişik:RG-23/3/2017-30016)** Atıkların geçici depolanması işlemi atığın üretildiği tesis/kuruluş sınırları içinde yapılır. Tıbbi atıklar ile ambalaj atıkları hariç olmak üzere, tesis/kuruluş sınırları içinde uygun yer bulunmadığının il müdürlüğü tarafından tespiti durumunda üreticiye ait il sınırları içerisinde il müdürlüğünden uygunluk alınmış olan bir alanda güvenli bir şekilde geçici depolama yapılabilir. Bu alan için miktara bakılmaksızın geçici depolama izni alınır. Geçici depolama alanına atıkların taşınmasında lisanslı araç şartı aranmaz. Tıbbi atıkların geçici depolanmasında 22/7/2005 tarihli ve 25883 sayılı Resmî Gazete’de yayımlanan Tıbbi Atıkların Kontrolü Yönetmeliği hükümleri uygulanır.
 
-(5) (Değişik:RG-23/3/2017-30016) Ayda bin kilogramdan daha az tehlikeli atık üreten atık üreticilerinin, tehlikeli atıklarını geçici olarak depoladığı/depolayacağı alanları/konteynerleri geçici depolama izninden muaftır. Ayda bin kilogram veya daha fazla tehlikeli atık üreten atık üreticileri tehlikeli atıklarını geçici depoladığı alanları/konteynerleri için il müdürlüğünden geçici depolama izni alır. Geçici depolama alanı/konteyneri için izin süresiz olarak verilir. Geçici depolama alanında değişiklik olması halinde geçici depolama izni yenilenir.
+(5) **(Değişik:RG-23/3/2017-30016)** Ayda bin kilogramdan daha az tehlikeli atık üreten atık üreticilerinin, tehlikeli atıklarını geçici olarak depoladığı/depolayacağı alanları/konteynerleri geçici depolama izninden muaftır. Ayda bin kilogram veya daha fazla tehlikeli atık üreten atık üreticileri tehlikeli atıklarını geçici depoladığı alanları/konteynerleri için il müdürlüğünden geçici depolama izni alır. Geçici depolama alanı/konteyneri için izin süresiz olarak verilir. Geçici depolama alanında değişiklik olması halinde geçici depolama izni yenilenir.
 
-(6) (Değişik:RG-23/3/2017-30016) Belediye atığı biriktirme ekipmanları/konteynerleri ile ambalaj atığı, tehlikesiz atık ve tıbbi atık geçici depolama alanı/konteynerleri geçici depolama izninden muaftır.
+(6) **(Değişik:RG-23/3/2017-30016)** Belediye atığı biriktirme ekipmanları/konteynerleri ile ambalaj atığı, tehlikesiz atık ve tıbbi atık geçici depolama alanı/konteynerleri geçici depolama izninden muaftır.
 
-(7) (Değişik:RG-23/3/2017-30016) Tehlikeli atık geçici depolama alanları/konteynerleri için miktara bakılmaksızın 16 ncı madde hükümlerine uygun olarak Tehlikeli Maddeler ve Tehlikeli Atık Zorunlu Mali Sorumluluk Sigortası yaptırılır.
+(7) **(Değişik:RG-23/3/2017-30016)** Tehlikeli atık geçici depolama alanları/konteynerleri için miktara bakılmaksızın 16 ncı madde hükümlerine uygun olarak Tehlikeli Maddeler ve Tehlikeli Atık Zorunlu Mali Sorumluluk Sigortası yaptırılır.
 
-(8) (Ek:RG-23/3/2017-30016) Geçici depolama alanlarına ilişkin esaslar Bakanlıkça belirlenir.
+(8) **(Ek:RG-23/3/2017-30016)** Geçici depolama alanlarına ilişkin esaslar Bakanlıkça belirlenir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Ulusal Atık Yönetim Planı, Bildirim ve Kayıt Tutma
+**Ulusal Atık Yönetim Planı, Bildirim ve Kayıt Tutma**
 
 #### Ulusal atık yönetim planı hazırlanması
 
@@ -568,7 +568,7 @@ c) Ekonomik ve yönetimsel planlama, orta ve uzun vadedeki hedefleri kapsar.
 
 ### BEŞİNCİ BÖLÜM
 
-Sigorta ve Maliyetlerin Karşılanması
+**Sigorta ve Maliyetlerin Karşılanması**
 
 #### Mali sorumluluk sigortası yaptırma yükümlülüğü
 
@@ -582,7 +582,7 @@ Sigorta ve Maliyetlerin Karşılanması
 
 ### ALTINCI BÖLÜM
 
-Genişletilmiş Üretici Sorumluluğu, Yan Ürün, Yeniden Kullanım
+**Genişletilmiş Üretici Sorumluluğu, Yan Ürün, Yeniden Kullanım**
 
 #### Genişletilmiş üretici sorumluluğu
 
@@ -614,7 +614,7 @@ d) Kullanımında çevre ve insan sağlığına zarar vermeyecek tedbirler alın
 
 atık olarak addedilmeyerek, yan ürün olarak kabul edilebilecektir.
 
-(2) (Değişik:RG-23/3/2017-30016) Yan ürün olarak değerlendirilebilecek, bu maddenin birinci fıkrasındaki özelliklere haiz atıklar için uygunluk almak üzere Bakanlığa başvurulur. Yan ürün olarak değerlendirmesi talep edilen atıklara ilişkin yapılacak başvurularda istenilecek bilgi ve belgeler Bakanlıkça belirlenir.
+(2) **(Değişik:RG-23/3/2017-30016)** Yan ürün olarak değerlendirilebilecek, bu maddenin birinci fıkrasındaki özelliklere haiz atıklar için uygunluk almak üzere Bakanlığa başvurulur. Yan ürün olarak değerlendirmesi talep edilen atıklara ilişkin yapılacak başvurularda istenilecek bilgi ve belgeler Bakanlıkça belirlenir.
 
 #### Yeniden kullanıma hazırlama
 
@@ -626,7 +626,7 @@ atık olarak addedilmeyerek, yan ürün olarak kabul edilebilecektir.
 
 ### YEDİNCİ BÖLÜM
 
-Yetkilendirilmiş Kuruluş
+**Yetkilendirilmiş Kuruluş**
 
 #### Yetkilendirilmiş kuruluşun yükümlülükleri ve yetkilendirme
 
@@ -644,7 +644,7 @@ yükümlüdürler.
 
 (3) Yetki süresi on yıldır. Yetkilendirmenin yenilenmesi için, yetki süresinin bitiminden altı ay önce yetkilendirilmiş kuruluş Bakanlığa başvurur.
 
-(4) (Değişik:RG-23/3/2017-30016) Bakanlık, yetkilendirdiği kuruluşu denetler, kuruluşun toplama ve geri kazanım hedeflerine ilişkin göstergelerini izler ve yayımlar. Ayrıca, yetkilendirilmiş kuruluş, bağımsız denetim kuruluşu tarafından iki yılda bir denetlenir ve denetim raporları Bakanlığa sunulur.
+(4) **(Değişik:RG-23/3/2017-30016)** Bakanlık, yetkilendirdiği kuruluşu denetler, kuruluşun toplama ve geri kazanım hedeflerine ilişkin göstergelerini izler ve yayımlar. Ayrıca, yetkilendirilmiş kuruluş, bağımsız denetim kuruluşu tarafından iki yılda bir denetlenir ve denetim raporları Bakanlığa sunulur.
 
 (5) Bakanlık, yetkilendirilmiş kuruluşu, temsiliyet payını sağlayamaması ve/veya yükümlülüklerden herhangi birini yerine getirmemesi halinde ihtar eder ve temsiliyet payını yeniden sağlaması ve/veya yükümlülüklerini yerine getirmesi için en fazla bir yıla kadar süre verir. Bakanlık, bu durumu söz konusu yetkilendirilmiş kuruluşun üyelerine bildirir veya duyurur.
 
@@ -652,11 +652,11 @@ yükümlüdürler.
 
 ### SEKİZİNCİ BÖLÜM
 
-Atıkların Sınırlar Ötesi Hareketi
+**Atıkların Sınırlar Ötesi Hareketi**
 
 #### Atıkların ithalatı
 
-**MADDE 22 –** (1) (Değişik:RG-23/3/2017-30016) Tehlikeli atıkların, serbest bölgeler dâhil Türkiye Cumhuriyeti Gümrük Bölgesine girişi yasaktır. Bazı tehlikesiz atıkların, kontrole tabi olarak ithalatına izin verilebilir. Bu izinlere ilişkin esaslar, Bakanlık görüşü doğrultusunda Ekonomi Bakanlığınca yayımlanacak düzenlemelerle belirlenir.
+**MADDE 22 –** (1) **(Değişik:RG-23/3/2017-30016)** Tehlikeli atıkların, serbest bölgeler dâhil Türkiye Cumhuriyeti Gümrük Bölgesine girişi yasaktır. Bazı tehlikesiz atıkların, kontrole tabi olarak ithalatına izin verilebilir. Bu izinlere ilişkin esaslar, Bakanlık görüşü doğrultusunda Ekonomi Bakanlığınca yayımlanacak düzenlemelerle belirlenir.
 
 (2) Serbest bölgelerdeki faaliyetler sonucu ortaya çıkan atıkların işlenmesi amacıyla bölgede uygun tesis bulunmaması veya atık üreticisi firma tarafından atıkların bu tesislere verilmemesi durumunda atık üreticisinin talebi üzerine serbest bölge müdürlüğü başkanlığında gümrük ve gümrük muhafaza müdürlüğü, işletici veya bölge kurucu ve işleticisi ve atık üreticisi temsilcilerinden oluşan bir komisyonun uygun görüşünü müteakip serbest bölge müdürlüğünce il müdürlüğünden alınacak onaya istinaden bu atıklar bölgeden çıkarılır. Serbest Bölge Komisyonuna aşağıda belirtilen bilgi ve belgeler sunulacaktır.
 
@@ -674,7 +674,7 @@ d) İl müdürlüğünce gerekli görülen diğer bilgi ve belgeler.
 
 #### Atıkların ihracatı ve transit geçişi
 
-**MADDE 23 –** (1) (Değişik:RG-23/3/2017-30016) Tehlikeli atıklar;
+**MADDE 23 –** (1) **(Değişik:RG-23/3/2017-30016)** Tehlikeli atıklar;
 
 a) Ülkemizde atıkların geri kazanımı/bertarafı için gerekli teknik kapasiteye sahip tesislerin bulunmaması,
 
@@ -694,7 +694,7 @@ b) AB ve/veya OECD üyesi ülkeler ile Liechtenstein haricindeki ülkelere ihrac
 
 ### DOKUZUNCU BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Avrupa Birliği mevzuatına uyum
 
@@ -734,7 +734,7 @@ yürürlüğe girer.
 
 **MADDE 29 –** (1) Bu Yönetmelik hükümlerini Çevre ve Şehircilik Bakanı yürütür.
 
-Ekleri için tıklayınız.
+**Ekleri için tıklayınız.**
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

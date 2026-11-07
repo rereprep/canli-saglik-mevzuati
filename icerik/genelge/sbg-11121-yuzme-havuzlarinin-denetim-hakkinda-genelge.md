@@ -10,7 +10,7 @@ durum: "yürürlükte"
 
 ## SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B.10.0.TSH.0.10.00.04/121.99 15.05.2008/15653 Konu: Yüzme havuzlarının denetimi hk.
+Sayı : B.10.0.TSH.0.10.00.04/121.99 **15.05.2008/15653** Konu: Yüzme havuzlarının denetimi hk.
 
 ### ………………VALİLİĞİNE (İl Sağlık Müdürlüğü)
 
@@ -97,9 +97,9 @@ Ek: 3 sayfa …./…./2008 Hukuk Müşaviri H. ġEN
 
 ### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü EK-1
 
-Kimyasal özellikler
+**Kimyasal özellikler**
 
-Parametre Örnek alma sıklığı Birim Minimum Maksimum pH Havuz suyunun Tatlı su 6,5 7,6
+**Parametre Örnek alma sıklığı Birim Minimum Maksimum** pH Havuz suyunun Tatlı su 6,5 7,6
 
 kullanımından önce
 
@@ -121,9 +121,9 @@ en az 3 defa
 
 ### EK-2
 
-Fiziksel özellikler
+**Fiziksel özellikler**
 
-Parametre Bulunabilecek miktarı Sıklığı Renk Renksiz olacaktır. Haftada bir defa Tortu Bulunmayacaktır. Bulanıklık Berrak olacak ve havuz dibi net olarak görülecektir. Sıcaklık 26-28 C olacak, hava sıcaklığı ile su sıcaklığı arasında
+**Parametre Bulunabilecek miktarı Sıklığı** Renk Renksiz olacaktır. Haftada bir defa Tortu Bulunmayacaktır. Bulanıklık Berrak olacak ve havuz dibi net olarak görülecektir. Sıcaklık 26-28 C olacak, hava sıcaklığı ile su sıcaklığı arasında
 
 fazla fark olmayacaktır. Çocuk havuzlarında su sıcaklığı
 
@@ -131,7 +131,7 @@ fazla fark olmayacaktır. Çocuk havuzlarında su sıcaklığı
 
 ### SAĞLIK BAKANLIĞI Temel Sağlık Hizmetleri Genel Müdürlüğü EK-3
 
-Mikrobiyolojik özellikler
+**Mikrobiyolojik özellikler**
 
 Parametreler Sınır Değerlerler Önerilen Metot Önerilen Analiz Sıklığı Toplam Koloni (jerm) Sayısı 22 °C’ de toplam koloni sayısı 72 saatte en fazla 100 CFU /ml olacaktır. 36 °C’ de toplam koloni sayısı 48 saatte en fazla 100 CFU /ml olacaktır. TS EN ISO 6222 Toplam koliform bakteri 0/100 ml Ayda bir defa
 
@@ -143,17 +143,17 @@ E. coli 0/100 ml
 
 Pseudomonas aeruginosa 0/100 ml
 
-1. Laboratuvarlar önerilen metot dışında, referanslarını göstermek şartı ile başka bir metodu da kullanabilirler.
+**1. Laboratuvarlar önerilen metot dışında, referanslarını göstermek şartı ile başka bir metodu da kullanabilirler.**
 
-2. Yüzme havuzu kullanımının yoğun olduğu dönemlerde analiz sıklığı ayda iki defa da olabilir.
+**2. Yüzme havuzu kullanımının yoğun olduğu dönemlerde analiz sıklığı ayda iki defa da olabilir.**
 
-3. CFU: Colony Forming Unit (koloni oluşturan birim). Not 1: Ek-1, Ek-2 ve Ek-3’te yer alan kimyasal, fiziksel ve mikrobiyolojik kalite standartlarının belirlenmesi için İl Sağlık Müdürlüklerince belirtilen sıklıklarda su numunesi alınarak analizleri yaptırılacak ve analiz ücretleri havuz suyu işleticileri tarafından karşılanacaktır.
+**3. CFU: Colony Forming Unit (koloni oluşturan birim). Not 1: Ek-1, Ek-2 ve Ek-3’te yer alan kimyasal, fiziksel ve mikrobiyolojik kalite standartlarının belirlenmesi için İl Sağlık Müdürlüklerince belirtilen sıklıklarda su numunesi alınarak analizleri yaptırılacak ve analiz ücretleri havuz suyu işleticileri tarafından karşılanacaktır.**
 
 ### EK–4
 
-İşletmeci tarafından yapılacak analizler
+**İşletmeci tarafından yapılacak analizler**
 
-Parametre Örnek alma sıklığı Birim Minimum Maksimum pH Havuz suyunun kullanımından Tatlı su 6,5 7,6
+**Parametre Örnek alma sıklığı Birim Minimum Maksimum** pH Havuz suyunun kullanımından Tatlı su 6,5 7,6
 
 önce başlanmak üzere günde en
 

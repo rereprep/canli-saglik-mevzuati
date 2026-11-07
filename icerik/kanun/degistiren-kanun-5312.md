@@ -11,9 +11,9 @@ kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2005/03/20050311-1.htm"
 durum: "yürürlükte"
 ---
 
-Kanun Kanun Deniz Çevresinin Petrol ve Diğer Zararlı Maddelerle Kirlenmesinde Acil Durumlarda Müdahale ve Zararların Tazmini Esaslarına Dair Kanun Kanun No. 5312 Kabul Tarihi: 3.3.2005
+Kanun Kanun Deniz Çevresinin Petrol ve Diğer Zararlı Maddelerle Kirlenmesinde Acil Durumlarda Müdahale ve Zararların Tazmini Esaslarına Dair Kanun **Kanun No. 5312** Kabul Tarihi: 3.3.2005
 BİRİNCİ BÖLÜM
-Genel Hükümler Amaç
+Genel Hükümler **Amaç**
 
 
 MADDE 1 – Bu Kanunun amacı, deniz emniyetinin sağlanması ve deniz kirliliğinin önlenmesi konusundaki uluslararası hukuk ve iç hukuktan doğan hak ve yükümlülükler göz önünde bulundurularak;
@@ -26,7 +26,7 @@ Kapsam
 
 MADDE 2 – Bu Kanun, uygulama alanlarında bulunan veya herhangi bir nedenle uygulama alanlarına girmek isteyen, beşyüz groston ve daha büyük petrol ve diğer zararlı maddeleri taşıyan gemiler ile petrol ve diğer zararlı maddelerle kirlenmeye neden olabilecek faaliyetleri icra eden kıyı tesislerinin sorumlu taraflarının, bakanlıkların ve kamu kurum ve kuruluşlarının yetki, görev ve sorumluluklarını kapsar.
 Savaş gemileri ve yardımcı savaş gemileri ile herhangi bir devlete ait veya devlet tarafından işletilen ve ticarî faaliyetler dışında kullanılan gemiler Kanun kapsamı dışındadır.
-Tanımlar
+**Tanımlar**
 
 
 MADDE 3 – Bu Kanunda geçen;
@@ -54,12 +54,12 @@ Bu Kanunun uygulanması bakımından, Türkiye'nin iç suları, karasuları, kı
 r) Zarar: Bu Kanunun 6 ncı maddesinde belirtilenler ile zararın tespit, tazmin ve uyuşmazlıkların giderilmesine ilişkin masrafları,
 s) Zararsız geçiş: Türk iç sularına girmeksizin veya iç sular dışında bulunan bir demirleme yerine veya liman tesisine uğramaksızın karasularını katetme amacıyla veya Türk iç sularına ulaşmak veya ayrılmak, iç sular dışında bulunan bir demirleme yerinde veya liman tesisinde durmak veya bunlardan ayrılmak amacıyla Türk karasularında seyretmeyi, İfade eder.
 İKİNCİ BÖLÜM
-Yetki, Görev ve Sorumluluklar Kuruluşların yetki, görev ve sorumlulukları
+Yetki, Görev ve Sorumluluklar **Kuruluşların yetki, görev ve sorumlulukları**
 
 
 MADDE 4 – Bu Kanunun uygulanması bakımından genel koordinasyon görevi Bakanlığa aittir. Bu Kanunla yetkili kılınan kurum ve kuruluşlar, bu Kanun kapsamında elde ettikleri bilgiler ile yapılan işlemleri gecikmeksizin Bakanlığa bildirmekle yükümlüdürler.
 Acil müdahale plânlarının hazırlanması, kıyı alanlarında acil müdahale plânlarının uygulanması, kirlenmenin türü ve etkilerinin belirlenmesi, çevreye olan zararların tespiti ve olay sonrası kirlilikten etkilenen alanların rehabilitasyonuna ilişkin yetki, görev ve sorumluluklar Bakanlığa; deniz araçlarından kaynaklanan deniz kirliliğinin önlenmesine yönelik acil müdahale plânlarının uygulanması, hazırlıklı olma, kirliliğe müdahale, zararların tazmini ve malî sorumluluk garantilerinin bildirimi konularında icraya ilişkin yetki, görev ve sorumluluklar Müsteşarlığa; asayiş ve kolluk görevlerine ilişkin yetki, görev ve sorumluluklar Sahil Güvenlik Komutanlığına aittir.
-Seyir, can, mal ve çevre emniyetinin sağlanması
+**Seyir, can, mal ve çevre emniyetinin sağlanması**
 
 
 MADDE 5 – Bu Kanun kapsamındaki tüm gemi ve kıyı tesislerinin sorumlu tarafları; olayın meydana gelmesinin önlenmesi, olayın meydana geldiği durumlarda ise zararın azaltılması, giderilmesi, sınırlandırılması amacıyla hazırlıklı olma ve koruyucu önlemler de dahil uluslararası hukukun öngördüğü ve seyir, can, mal ve çevre emniyetinin gerektirdiği yükümlülüklere ilişkin tüm tedbirleri almakla yükümlüdürler.
@@ -69,7 +69,7 @@ Bu Kanun kapsamındaki gemiler, Türk iç sularına veya iç sular dışındaki 
 Seyir, can, mal ve çevre emniyetini sağlamak amacıyla alınan tedbirler, bu Kanun, ilgili mevzuat ve uluslararası düzenlemelerde belirtilen usûl ve esaslara göre, yetkili kuruluşlar tarafından denetlenir. Denetim ile ilgili usûl ve esaslar yönetmelikle belirlenir.
 Kıyı tesislerinin, muhtemel kirliliğe müdahale etmek üzere bulundurmak zorunda oldukları personel, malzeme ve ekipmanlar ile ilgili usûl ve esaslar yönetmelikle belirlenir. Bulundurmak zorunda oldukları personel, malzeme ve ekipmanlar tamamlanıncaya kadar, yeni kurulacak kıyı tesislerinin faaliyetlerine izin verilmez.
 ÜÇÜNCÜ BÖLÜM
-Zararların Tazmini Zarardan dolayı sorumluluk
+Zararların Tazmini **Zarardan dolayı sorumluluk**
 
 
 MADDE 6 – Bu Kanun kapsamına giren gemi ve kıyı tesislerinin sorumlu tarafları, uygulama alanlarında gemi ve kıyı tesislerinden kaynaklanan olay sonucu ortaya çıkan kirlenmenin veya kirlenme tehlikesinin neden olduğu; temizleme masraflarını, koruyucu önlemlere ilişkin masrafları, canlı kaynaklar ve deniz yaşamına verilen zararları, bozulan çevrenin yeniden oluşturulması, toplanan atıkların taşınması ve bertarafı için yapılacak masrafları, geçim için kullanılan doğal ve canlı kaynaklarda meydana gelen zararları, özel mallardaki zararları, şahısların yaralanması ve ölümünden kaynaklanan zararları, gelir kayıplarını, gelir ve kazanç kapasitelerine verilen zararları ve diğer kamu zararlarını tazmin etmekle müteselsilen sorumludur.
@@ -80,7 +80,7 @@ Sorumluluğun sınırı
 
 
 MADDE 7 – Gemi başına sorumlu taraf yükümlülüğünün toplamı ve sorumlu tarafa yüklenecek azamî tazminat miktarı konusunda Türkiye'nin taraf olduğu uluslararası sözleşme hükümleri saklıdır.
-Malî sorumluluk garantileri
+**Malî sorumluluk garantileri**
 
 
 MADDE 8 – Uygulama alanlarına girmek isteyen petrol ve/veya diğer zararlı maddeleri taşıyan gemiler, Türkiye'nin taraf olduğu uluslararası sözleşmeler uyarınca kendilerinden istenen malî sorumluluk belgelerine sahip olmak, bunları ilgili makamlara bildirmek ve talep edildiğinde göstermek zorundadırlar.
@@ -96,33 +96,33 @@ Malî sorumluluk garantilerinin bildirimi
 MADDE 9 – Herhangi bir Türk limanına gitmek üzere Türkiye'nin karasularına girmek isteyen ve bu Kanuna göre malî sorumluluk garantileri bulundurmakla yükümlü gemilerin 8 inci maddede belirtilen belgelerinin sureti, gidecekleri liman başkanlıklarına, Türk karasularına girişten önce, Türkiye'de mukim bir acente vasıtası ile ulaştırılır.
 Türk boğazlarından uğraksız geçiş amacıyla Türkiye'nin karasularına girmek isteyen gemiler için bildirim yükümlülükleri Türk Boğazları Deniz Trafik Düzeni Tüzüğü ile belirlenir.
 Zararsız geçiş amacıyla Türkiye'nin karasularını kullanacak gemiler, her türlü muhabere aracı ve malî sorumluluk belgelerindeki bilgiler ile geminin adı, çağrı adı, bayrağı, tescil limanı, geminin sahibinin adı ve idare merkezinin yeri, geminin Uluslararası Denizcilik Örgütü numarası (IMO No), teminat türü, teminat geçerlilik süresi, sigortacının adı ve merkezinin bulunduğu yer, tazmin limitleri ve geminin yükü ve miktarı, geminin tipi, kalkış ve varış limanına ilişkin bilgi ve belgeleri en yakın liman yetkilisine bildirmek zorundadır.
-Zararların belirlenmesi
+**Zararların belirlenmesi**
 
 
 MADDE 10 – Bakanlık temsilcisinin başkanlığında; Müsteşarlık, Sahil Güvenlik Komutanlığı, Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğü ile ilgili valilik ve belediyelerin temsilcilerinden zarar tespit komisyonu oluşturulur. Komisyon gerek görürse ilgili diğer kurum ve kuruluşların temsilcilerini ve uzmanlarını da komisyona çağırabilir. Komisyonun çalışmalarına ilişkin usûl ve esaslar yönetmelikle belirlenir.
 Komisyon, zararların tamamının veya bir kısmının tespitini, bu konuda uzman Türk veya yabancı kişi ve kuruluşlara yaptırabilir. Bu şekilde tespit edilen zarar miktarı, komisyon tarafından onaylanması üzerine geçerlilik kazanır.
-Tazminat ve ücret talepleri ve ödenmesi
+**Tazminat ve ücret talepleri ve ödenmesi**
 
 
 MADDE 11 – Olaydan zarar görenlerin tazminat talepleri ile kirliliğe müdahale ve kirliliği bertaraf edenlerin ücret talepleri Müsteşarlığa bildirilir. Müsteşarlık, zararların tespitine ve uyuşmazlıkların giderilmesine bağlı olarak zararların sorumlu taraflarca tazminini ve ücretlerin ödenmesini sağlar. Komisyon tarafından belirlenen zarar miktarı üzerinde taraflarca uzlaşma sağlanması durumunda Müsteşarlık, zararların sorumlu taraf veya garantöründen talep ve tahsiline ve zarar görenlere dağıtılmasına yetkilidir.
 Kirletenin tespit edilememesi halinde Müsteşarlık tarafından kirliliğe müdahale edilir veya ettirilir.
 Müsteşarlık, Bakanlığın ve Dışişleri Bakanlığının görüşlerini alarak bu Kanun kapsamında kirliliğe neden olan ancak, sorumlu tarafları bulunamayan yabancı bayraklı gemilerin Türkiye'de neden oldukları zararların tazmini konusunda bayrak devletinden yardım talep edebilir.
 Tazmin ve ödemelere ilişkin usûl ve esaslar yönetmelikle belirlenir.
-Zamanaşımı
+**Zamanaşımı**
 
 
 MADDE 12 – Bu Kanun kapsamındaki olaylar nedeniyle tazminat taleplerinde zamanaşımı süresi, diğer kanunlarda daha uzun bir süre öngörülmedikçe, zararın öğrenildiği ve sorumlu tarafın tespit edildiği tarihten itibaren beş yıl, her hâlde olayın meydana geldiği tarihten veya olay, olaylar zincirinden meydana geliyorsa son olayın meydana geldiği tarihten itibaren on yıldır. Zamanaşımı süresine ilişkin olarak Türkiye'nin taraf olduğu uluslararası sözleşme hükümleri saklıdır.
 DÖRDÜNCÜ BÖLÜM
-Müdahale Esasları Bildirim
+Müdahale Esasları **Bildirim**
 
 
 MADDE 13 – Olaya karışan, olayı gören, duyan veya olaydan haberdar olan herkes, kirlenme veya kirlenme tehlikesini ilgili makam ve acil müdahale birimlerine bildirmekle yükümlüdür.
 Bildirilecek makamlar ve bildirime ilişkin usûl ve esaslar yönetmelikle belirlenir.
-Kirlenmenin tespiti
+**Kirlenmenin tespiti**
 
 
 MADDE 14 – Bakanlık, bir olay sonucu meydana gelen kirlenmenin türü, kapsamı, miktarı, yayılma yönü ve hızı, muhtemel sonuçları ve bertaraf yöntemleri konularında gerekli çalışmaları yapar veya yaptırır ve ilgili acil müdahale birimine bildirir.
-Müdahale
+**Müdahale**
 
 
 MADDE 15 – Olay sonucunda ortaya çıkan kirlenmeye ve kirlenme tehlikesine müdahale etme yetkisi Müsteşarlığa aittir. Müsteşarlık bu görevi, Bakanlığın görüşlerini alarak, diğer kamu kurum ve kuruluşlarına ve bu alanda meslek icra eden veya bu amaçla kurulmuş olan ve merkezi Türkiye'de bulunan şirketlere yaptırabilir. Bu durum, Müsteşarlığın sorumluluğunu ortadan kaldırmaz ve görevlendirilen kamu kurum ve kuruluşlarına ve şirketlere, sorumlu taraftan doğrudan tazminat talep etme yetkisi vermez. Kıyı Emniyeti ve Gemi Kurtarma İşletmeleri Genel Müdürlüğünün kurtarma ve yardıma ilişkin hakları saklıdır.
@@ -131,64 +131,64 @@ Gemilerin veya kıyı tesislerinin neden olduğu kirlenmede, olaya karışan gem
 Türkiye'nin taraf olduğu uluslararası sözleşmeler ve bu çerçevede hazırlanmış acil müdahale plânlarında belirtilen uluslararası işbirliği hükümlerine göre, Türkiye'ye yabancı acil müdahale unsurlarını davet etmeye veya yabancı ülkelere Türk acil müdahale ekibi göndermeye ve bunlara ait harcamaları ödemeye veya talep etmeye, Bakanlığın ve Dışişleri Bakanlığının görüşlerini alarak, Müsteşarlık yetkilidir.
 Acil müdahale birimi olarak görev yapacak özel kuruluşlar ile kamu kurum ve kuruluşları ve uluslararası işbirliği çerçevesinde davet edilmiş yabancı ülke acil müdahale unsurlarının müdahale yetkisine ilişkin usûl ve esaslar yönetmelikle belirlenir.
 Müdahale faaliyetlerinin etkinliğini artırmak amacıyla Müsteşarlık, olay bölgesinde veya olayla ilgili uygun gördüğü deniz alanlarında deniz trafiğini geçici olarak askıya alabilir veya değiştirebilir.
-Atıkların taşınması ve bertarafı
+**Atıkların taşınması ve bertarafı**
 
 
 MADDE 16 – Olay bölgesinde toplanan atıkların uygun bertaraf tesisine taşınması ve bertarafı, acil müdahale plânlarında belirlenen esaslara göre yapılır.
-Kirlilikten etkilenen alanların tespiti ve rehabilitasyonu
+**Kirlilikten etkilenen alanların tespiti ve rehabilitasyonu**
 
 
 MADDE 17 – Müdahale işlemleri sonrasında, kirlilikten etkilenen alanların tespiti ve rehabilitasyonu çalışmaları ile kirliliğin insan sağlığı, bitki ve hayvan varlığı ile doğal ve tarihsel değerler üzerinde uzun dönemli etkilerinin tespiti amacıyla Bakanlıkça izleme programları yürütülür.
-Acil müdahale plânları
+**Acil müdahale plânları**
 
 
 MADDE 18 – Deniz çevresinin petrol ve diğer zararlı maddelerden kirlenmesinde acil durumlarda müdahaleye ilişkin faaliyetleri ve uluslararası işbirliğine ilişkin esasları içeren ulusal acil müdahale plânı, Türkiye Acil Durum Yönetimi Genel Müdürlüğü ve ilgili kuruluşların görüşü alınmak suretiyle Müsteşarlıkla koordinasyon sağlanarak Bakanlıkça hazırlanır. Ulusal acil müdahale plânı ile bölgesel ve yerel düzeydeki acil müdahale plânlarının hazırlanmasına ilişkin usûl ve esaslar yönetmelikle belirlenir.
-Acil durum yönetimine geçilmesi halinde koordinasyon
+**Acil durum yönetimine geçilmesi halinde koordinasyon**
 
 
 MADDE 19 – Bu Kanun kapsamındaki bir olay nedeniyle 10.10.1984 tarihli ve 3056 sayılı Kanunun 11/A maddesi uyarınca Bakanlığın talebi üzerine acil durum yönetimine geçilmesi durumunda, bu Kanun kapsamında yetkilendirilecek acil müdahale birimi, oluşturulacak merkezlerin birer unsuru olarak görev yapar.
 Acil durum yönetimine geçilmesini gerektirmemekle birlikte bu Kanun kapsamında yer alan bir olayın karayı da etkilemesi durumunda, bu Kanun kapsamında yetkilendirilecek acil müdahale birimi, birinci fıkrada belirtilen hükümler uyarınca oluşturulacak merkezlerin birer unsuru olarak görev yapar.
 Birinci ve ikinci fıkralarda öngörülen durumlarda, 10 uncu maddede belirtilen komisyona Türkiye Acil Durum Yönetimi Genel Müdürlüğü temsilcileri de katılır.
 BEŞİNCİ BÖLÜM
-Çeşitli Hükümler Uyuşmazlıkların çözümü için hakem tayini
+Çeşitli Hükümler **Uyuşmazlıkların çözümü için hakem tayini**
 
 
 MADDE 20 – Müsteşarlık ile sorumlu taraf veya garantörünün uzlaşması halinde bu Kanunun uygulanmasından doğacak uyuşmazlıkların çözümü için hakem veya hakem heyeti tayin edilebilir. Tayin edilen hakemler Türk hukukunu uygular. Tahkim, ilgisine göre 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu veya 4686 sayılı Milletlerarası Tahkim Kanunu hükümlerine tabidir.
-Tehlike altındaki gemilerin uygun, güvenli deniz alanlarına kabulü
+**Tehlike altındaki gemilerin uygun, güvenli deniz alanlarına kabulü**
 
 
 MADDE 21 – Tehlike altındaki bir geminin, talebi halinde, uygun, güvenli deniz alanlarına kabulüne Müsteşarlık yetkilidir. Kabule ilişkin usûl ve esaslar yönetmelikle belirlenir.
-Geminin denetimi ve kolluk görevleri
+**Geminin denetimi ve kolluk görevleri**
 
 
 MADDE 22 – Bir geminin bu Kanun kapsamında bir olaya veya kirliliğe neden olacağı veya böyle bir risk oluşturacağı yönünde ciddi şüphelerin bulunduğu durumlarda, Müsteşarlık kesin tespit için gemiyi denetime tâbi tutabilir. Müsteşarlık, bu yetkisini gerekli gördüğü hâllerde ilgili kurum ve kuruluşlara devredebilir.
 Bu Kanunun uygulanmasına ilişkin tüm asayiş ve kolluk görevleri Sahil Güvenlik Komutanlığı tarafından yerine getirilir.
-Gemi yakıtlarından ve yüklerden kaynaklanan kirlilik
+**Gemi yakıtlarından ve yüklerden kaynaklanan kirlilik**
 
 
 MADDE 23 – Bir olayda, bu Kanuna tâbi olan veya olmayan bir geminin yakıt olarak taşıdığı petrol veya türevlerinden veya bu Kanuna tâbi olmayan geminin taşıdığı diğer zararlı maddelerden/yüklerden meydana gelen kirliliğe veya kirlilik tehlikesine müdahale ve zararların tespit ve tazmininde, bu Kanunun 5 inci maddesinin üçüncü fıkrası ile 8 inci ve 9 uncu maddeleri dışındaki hükümleri uygulanır.
 Türkiye'nin taraf olduğu uluslararası sözleşme hükümleri saklıdır.
-Yönetmelikler
+**Yönetmelikler**
 
 
 MADDE 24 – Bu Kanunun uygulanmasına ilişkin yönetmelikler, ilgili bakanlık ve kuruluşların görüşü alınmak suretiyle Bakanlık ve Müsteşarlık tarafından müştereken hazırlanır.
-Değiştirilen hükümler
+**Değiştirilen hükümler**
 
 
 MADDE 25 – 4.1.2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü maddesine aşağıdaki (j) bendi eklenmiştir.
 j) Deniz Çevresinin Petrol ve Diğer Zararlı Maddelerle Kirlenmesinde Acil Durumlarda Müdahale ve Zararların Tazmini Esaslarına Dair Kanun hükümleri kapsamında, acil müdahale plânlarının hazırlanması ve bir olay meydana geldikten sonra kirliliğe müdahale ve acil müdahale plânlarının icrası için acil olarak ihtiyaç duyulabilecek hizmet alımı ile araç, gereç ve malzeme alımı,
 
-MADDE 26. — 4734 sayılı Kanunun geçici 4 üncü maddesine son fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+**MADDE 26. —** 4734 sayılı Kanunun geçici 4 üncü maddesine son fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
 Bu Kanunun 3 üncü maddesinin (j) bendine ilişkin esas ve usûller, Maliye Bakanlığı, Kamu İhale Kurumu ve Denizcilik Müsteşarlığının görüşleri alınarak Çevre ve Orman Bakanlığı tarafından çıkarılacak bir yönetmelikle belirlenir.
 
-GEÇİCİ MADDE 1. — Bu Kanunda öngörülen yönetmelikler, Kanunun yürürlüğe girdiği tarihten itibaren en geç bir yıl; malî sorumluluk sigortasına ilişkin genel şartlar ile tarife ve talimatlar bu Kanunun yürürlüğe girdiği tarihten itibaren en geç altı ay içinde hazırlanır ve Resmi Gazetede yayımlanır.
+**GEÇİCİ MADDE 1. —** Bu Kanunda öngörülen yönetmelikler, Kanunun yürürlüğe girdiği tarihten itibaren en geç bir yıl; malî sorumluluk sigortasına ilişkin genel şartlar ile tarife ve talimatlar bu Kanunun yürürlüğe girdiği tarihten itibaren en geç altı ay içinde hazırlanır ve Resmi Gazetede yayımlanır.
 
-GEÇİCİ MADDE 2. — Bu Kanunun yürürlüğe girdiği tarihte faal durumda bulunan tesislerden, bu Kanunun 5 inci maddesinin son fıkrasına göre bulundurmak zorunda oldukları personel, malzeme ve ekipmanlara ilişkin eksiklerini yönetmelikte belirtilen süre içinde tamamlamayanların faaliyetleri Bakanlık tarafından durdurulur.
-Yürürlük
+**GEÇİCİ MADDE 2. —** Bu Kanunun yürürlüğe girdiği tarihte faal durumda bulunan tesislerden, bu Kanunun 5 inci maddesinin son fıkrasına göre bulundurmak zorunda oldukları personel, malzeme ve ekipmanlara ilişkin eksiklerini yönetmelikte belirtilen süre içinde tamamlamayanların faaliyetleri Bakanlık tarafından durdurulur.
+**Yürürlük**
 
 
 MADDE 27 – Bu Kanun yayımı tarihinden itibaren üç ay sonra yürürlüğe girer.
-Yürütme
+**Yürütme**
 
 
 MADDE 28 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

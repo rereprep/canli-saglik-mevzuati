@@ -14,7 +14,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+**Amaç, Kapsam, Dayanak ve Tanımlar**
 
 #### Amaç
 
@@ -54,9 +54,9 @@ g) Enfekte Bölgeler: Epidemiyolojik Bültende yer alan, Tüzükte belirtilen bu
 
 h) Etkilenmiş Bölge: DSÖ tarafından, bu Tüzük kapsamında, sağlık önlemlerinin alınmasının özellikle tavsiye edildiği coğrafi bölgeyi,
 
-ı) Genel Müdür: (Değişik ibare:RG-17/8/2019-30861) Türkiye Hudut ve Sahiller Sağlık Genel Müdürünü,
+ı) Genel Müdür: **(Değişik ibare:RG-17/8/2019-30861)** Türkiye Hudut ve Sahiller Sağlık Genel Müdürünü,
 
-i) Genel Müdürlük: (Değişik ibare:RG-17/8/2019-30861) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü,
+i) Genel Müdürlük: **(Değişik ibare:RG-17/8/2019-30861)** Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünü,
 
 j) Halk Sağlığı Riski: Uluslararası düzeyde yayılabilecek veya ciddi ve doğrudan bir tehlike gösterebilecek olay başta olmak üzere, insan nüfusunun sağlığını olumsuz yönde etkileyebilecek bir olay ihtimalini,
 
@@ -66,7 +66,7 @@ l) Hastalık: Kökeni veya kaynağı ne olursa olsun, insanlarda dikkate değer 
 
 m) Havaalanı: Karada ve su üzerinde içerisindeki bina tesis ve donatımlar dahil hava araçlarının kalkması, inmesi ve yer manevraları için hazırlanmış, hava araçlarının bakım ve diğer ihtiyaçlarının karşılanmasına, yük ve yolcu indirilip bindirilmesine elverişli tesisleri bulunan yerleri,
 
-n) Havaalanı Sağlık Denetleme Merkezi: (Değişik ibare:RG-17/8/2019-30861) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün, havaalanındaki sağlık birimlerinden her birini,
+n) Havaalanı Sağlık Denetleme Merkezi: **(Değişik ibare:RG-17/8/2019-30861)** Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün, havaalanındaki sağlık birimlerinden her birini,
 
 o) ICAO: Uluslararası Sivil Havacılık Örgütünü,
 
@@ -100,7 +100,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Sağlık Denetleme Merkezlerinin Çalışma Şekli, Görev ve Sorumlulukları
+**Sağlık Denetleme Merkezlerinin Çalışma Şekli, Görev ve Sorumlulukları**
 
 #### Sağlık denetimlerinin önceliği ve çalışma şekli
 
@@ -148,7 +148,7 @@ i) Gıda üreten-satan ve servis yapılan yerlerde çalışan personelin periyod
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Havaalanlarında Giriş ve Çıkışta Alınacak Sağlık Tedbirleri
+**Havaalanlarında Giriş ve Çıkışta Alınacak Sağlık Tedbirleri**
 
 #### Enfekte bölgeler ve uygulanacak sağlık önlemlerinin duyurulması
 
@@ -168,7 +168,7 @@ Havaalanlarında Giriş ve Çıkışta Alınacak Sağlık Tedbirleri
 
 ### DÖRDÜNCÜ BÖLÜM
 
-Sağlık Açısından Uçakların Denetimi
+**Sağlık Açısından Uçakların Denetimi**
 
 #### Havaalanına inen uçakların denetimi
 
@@ -194,7 +194,7 @@ Sağlık Açısından Uçakların Denetimi
 
 a) Uçak içerisinde bulaşıcı ve salgın hastalıklar açısından genel hijyen kurallarına uyulup uyulmadığını,
 
-b) (Mülga:RG-17/8/2019-30861)
+b) **(Mülga:RG-17/8/2019-30861)**
 
 c) Hastalıklara sebep olabilecek vektörlerin girmesini önlemek için gerekli önlemlerin alınıp alınmadığını,
 
@@ -212,7 +212,7 @@ denetler.
 
 ### BEŞİNCİ BÖLÜM
 
-Uluslararası Uçuşlarda Sağlık Açısından Şüpheli Kişiler ve Alınacak Önlemler
+**Uluslararası Uçuşlarda Sağlık Açısından Şüpheli Kişiler ve Alınacak Önlemler**
 
 #### Ülkeye girişte şüpheli kişiler ve alınacak önlemler
 
@@ -252,7 +252,7 @@ f) Sağlık açısından ülkeye girmelerine bir engel olmayan göçmenlere diğ
 
 ### ALTINCI BÖLÜM
 
-Havaalanlarından Giren Cenazeler
+**Havaalanlarından Giren Cenazeler**
 
 #### Cenaze giriş izni ve nakli
 
@@ -264,7 +264,7 @@ Havaalanlarından Giren Cenazeler
 
 ### YEDİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+**Çeşitli ve Son Hükümler**
 
 #### Sağlık mevzuatına uyma zorunluluğu
 
@@ -294,7 +294,7 @@ Havaalanlarından Giren Cenazeler
 
 ___________
 
-(1) Bu değişiklik 1/1/2012 tarihinde yürürlüğe girer.
+<i>(1) Bu değişiklik 1/1/2012 tarihinde yürürlüğe girer.</i>
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |

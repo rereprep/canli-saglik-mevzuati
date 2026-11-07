@@ -23,17 +23,17 @@ DAĞITIM YERLERİNE
 
 Aile Hekimliği Kanunu’nun “Hizmetin esasları” başlıklı 5 inci maddesinde yer alan “Yabancılara sunulan hizmetler, sertifikası olan aile hekimlerince mesai dışında sunulan akupunktur ve fitoterapi uygulamaları ile özel amaçlı raporlardan Bakanlıkça belirlenenler hariç olmak üzere aile hekimliği hizmetleri ücretsizdir.” Hükümleri çerçevesinde 11.06.2025 tarihli ve E-11045126-278634427 sayılı Makam Oluru ile “Aile Hekimliğinde Ücretli Hizmetler İlişkin Usul ve Esaslar” yürürlüğe konulmuş, ilgi yazı ile Aile Hekimliğinde Ücretli Hizmetler İlişkin Usul ve Esaslar ve yapılacak işlemlere ilişkin olarak 81 İl Sağlık Müdürlüğü talimatlandırılmış, 15.06.2025 tarihi itibarıyla yapılan düzenlemeler devreye alınmıştır.
 
-Aile Hekimliğinde Ücret Karşılığı Sunulacak Hizmetlere İlişkin Usul Ve Esaslar’ın “Akupuntur ve Fitoterapi Uygulamaları” başlıklı 5 inci maddesinde “1) Aile hekimliği birimlerinde bu Usul ve Esaslara konu akupunktur ve fitoterapi uygulamalarında aşağıdaki hususlara uyulur:
+Aile Hekimliğinde Ücret Karşılığı Sunulacak Hizmetlere İlişkin Usul Ve Esaslar’ın “<i>Akupuntur ve</i> <i>Fitoterapi Uygulamaları”</i> başlıklı 5 inci maddesinde “<i>1) Aile hekimliği birimlerinde bu Usul ve Esaslara konu</i> <i>akupunktur ve fitoterapi uygulamalarında aşağıdaki hususlara uyulur:</i>
 
-a) Sertifika sahibi aile hekiminin talebi üzerine il sağlık müdürlüğünce ilgili aile hekimliği birimi akupunktur ve fitoterapi uygulamalarını sunmak üzere yetkilendirilir.
+<i>a) Sertifika sahibi aile hekiminin talebi üzerine il sağlık müdürlüğünce ilgili aile hekimliği birimi</i> <i>akupunktur ve fitoterapi uygulamalarını sunmak üzere yetkilendirilir.</i>
 
-b) Aile hekimliği birimlerindeki akupunktur ve fitoterapi uygulamaları mesaı saatleri dışında olmak üzere hafta sonları ve genel tatil günlerinde sunulur.
+<i>b) Aile hekimliği birimlerindeki akupunktur ve fitoterapi uygulamaları mesaı saatleri dışında olmak üzere</i> <i>hafta sonları ve genel tatil günlerinde sunulur.</i>
 
-c) Uygulamalarda kullanılacak malzemeler, ilgili standartlara uygun olarak aile hekimi tarafından temin edilir.
+<i>c) Uygulamalarda kullanılacak malzemeler, ilgili standartlara uygun olarak aile hekimi tarafından temin</i> <i>edilir.</i>
 
-ç) Aile hekimince uygulamalar kapsamında sunulan hizmetler aile hekimliği bilgi sistemleri vasıtasıyla Sağlık Bakanlığına bildirilir.
+<i>ç) Aile hekimince uygulamalar kapsamında sunulan hizmetler aile hekimliği bilgi sistemleri vasıtasıyla</i> <i>Sağlık Bakanlığına bildirilir.</i>
 
-(2) Aile hekimliğinde sunulan akupuntur ve fitoterapi hizmetlerinin bedeli, Sağlık Bakanlığınca belirlenen Kamu Sağlık Hizmetleri Fiyat Tarifesinin EK-2'sinde yer alan aile hekimliği akupunktur ve fitoterapi için belirlenen tutardır.” hükmü yer almaktadır.
+<i>(2) Aile hekimliğinde sunulan akupuntur ve fitoterapi hizmetlerinin bedeli, Sağlık Bakanlığınca belirlenen</i> <i>Kamu Sağlık Hizmetleri Fiyat Tarifesinin EK-2'sinde yer alan aile hekimliği akupunktur ve fitoterapi için</i> <i>belirlenen tutardır.”</i> hükmü yer almaktadır.
 
 Bu kapsamda Bakanlığımıza veri gönderen sistemlerde düzenlemeler yapılmış olup 15 Ekim 2025 tarihi itibariyle akupunktur ve fitoterapi uygulamalarına ilişkin işlemlerde aşağıda yer alan usul ve esaslara göre işlem tesis edilmesi gerekmektedir.
 
