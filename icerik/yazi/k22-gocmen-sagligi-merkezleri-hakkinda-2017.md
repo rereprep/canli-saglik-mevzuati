@@ -50,5 +50,5 @@ Bilgi için: Özlem KAHRAMAN — Sosyal Çalışmacı
 Telefon No: (0312) 565 5887
 Internet Adresi: www.thsk.gov.tr  E-posta: ozlem.kahraman3@saglik.gov.tr
 
-Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden [?].
+Evrakın elektronik imzalı suretine http://e-belge.saglik.gov.tr adresinden erişebilirsiniz.
 Bu belge 5070 sayılı elektronik imza kanuna göre güvenli elektronik imza ile imzalanmıştır.

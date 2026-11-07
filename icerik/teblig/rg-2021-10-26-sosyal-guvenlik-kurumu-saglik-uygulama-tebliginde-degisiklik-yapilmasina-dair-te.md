@@ -179,7 +179,7 @@ MADDE 17- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 
 | Kanun No | Global Barkod | Ürün Adı | İlaç Barkodu | Kayıtlı Ürün Grubu | Referans Fiyat Grubu | Liste Giriş Tarihi | Aktüelleştirme Tarihi | Pasifleştirme Tarihi | Orijinal / Jenerik / Yerli Yabancı | Depo/eczacı satış fiyatı (KDV hariç) | Depo/eczacı satış fiyatı (KDV dahil) | Depo/eczacı satış fiyatı + iskonto | Depo/eczacı satış fiyatı altındaki iskonto | Özel iskonto |
 |---|---|---|---|---|---|---|---|---|---|---:|---:|---:|---:|---:|
-| A?397 | 8699[?] | %9 DEXTRAN SODYUM KLORÜR GÖZ D[?] | E219C | 23.02.2016 |  |  |  |  | YERLİ Y. | 57,00 | 27,00 | 17,00 | 17,00 | 17,00 |
+| A?397 | 8699[?] | %9 DEXTRAN SODYUM KLORÜR GÖZ SOL. (SETLİ ŞİŞE) | E219C | 23.02.2016 |  |  |  |  | YERLİ Y. | 57,00 | 27,00 | 17,00 | 17,00 | 17,00 |
 | A?570 | 8699[?] | %9 DEXTRAN SODYUM KLORÜR GÖZ SOL. (SETLİ) | E210F | 12.05.2015 |  |  |  |  | YERLİ Y. | 71,00 | 41,00 | 31,00 | 31,00 | 31,00 |
 | A?562 | 8699[?] | %9 DEXTRAN SODYUM KLORÜR GÖZ SOL. (SETLİ) | E210F | 28.01.2016 |  |  |  |  | YERLİ Y. | 68,00 | 38,00 | 28,00 | 28,00 | 28,00 |
 | A?571 | 8699[?] | %9 DEXTRAN SODYUM KLORÜR GÖZ SOL. (SETLİ) | E210F | 12.05.2015 |  |  |  |  | YERLİ Y. | 72,00 | 42,00 | 32,00 | 32,00 | 32,00 |
@@ -202,10 +202,10 @@ MADDE 17- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 | Kanun No | Global Barkod | Ürün Adı | İlaç Barkodu | Kayıtlı Ürün Grubu | Referans Fiyat Grubu | Liste Giriş Tarihi | Aktüelleştirme Tarihi | Pasifleştirme Tarihi | Orijinal / Jenerik / Yerli Yabancı | Fiyat/iskonto bilgisi |
 |---|---|---|---|---|---|---|---|---|---|---|
 | A?661 | 8699[?] | %3 SODYUM KLORÜR 30 ML SOL. (POLİFARMA SETSİZ ŞİŞE) | E?91F |  | 19.08.2008 |  |  |  | YERLİ Y. | 43,00 / 10,00 / 0,00 / 0,00 / 0,00 |
-| A?613 | 8699[?] | %3 SODYUM KLORÜR 30 ML SOL. (POLİFARMA SETLİ) | E?91F |  |  |  |  |  | YERLİ Y. | 43,00 / 10,00 / 0,00 / 0,00 / 0,00 |
+| A?613 | 8699[?] | %3 SODYUM KLORÜR 500 ML SOL. (POLİFLEKS SETLİ) | E?91F |  |  |  |  |  | YERLİ Y. | 43,00 / 10,00 / 0,00 / 0,00 / 0,00 |
 | A?634 | 8699[?] | %3 SODYUM KLORÜR 500 ML SOL. (POLİFLEKS TORBA SETLİ) | E?91F |  |  |  |  |  | YERLİ Y. | 43,00 / 10,00 / 0,00 / 0,00 / 0,00 |
-| A?646 | 8699[?] | %3 SODYUM KLORÜR 100 ML SOL. (POLİFARMA PVC SETLİ) | E?91F | 05.12.2008 |  |  |  | YERLİ Y. | 39,00 / 10,00 / 0,00 / 0,00 / 0,00 |
-| A?647 | 8699[?] | %3 SODYUM KLORÜR HİPERTONİK 500 ML SOL. (POLİFARMA PVC SETLİ) | E?11 | 05.12.2008 |  |  |  | YERLİ Y. | 39,00 / 10,00 / 0,00 / 0,00 / 0,00 |
+| A?646 | 8699[?] | %3 SODYUM KLORÜR HİPERTONİK 100 ML SOL. (POLİFARMA PVC SETLİ) | E?91F | 05.12.2008 |  |  |  | YERLİ Y. | 39,00 / 10,00 / 0,00 / 0,00 / 0,00 |
+| A?647 | 8699[?] | %3 SODYUM KLORÜR HİPERTONİK 500 ML SOL. (POLİFARMA PVC SETSİZ) | E?11 | 05.12.2008 |  |  |  | YERLİ Y. | 39,00 / 10,00 / 0,00 / 0,00 / 0,00 |
 | A?908 | 8699[?] | %3 DEKSTROZ 100 ML SOL. (POLİFLEKS TORBA) | E?16 |  |  |  |  |  | YERLİ Y. | 40,00 / 10,00 / 0,00 / 0,00 / 0,00 |
 | A?907 | 8699[?] | %3 DEKSTROZ 100 ML SOL. (POLİFLEKS SETLİ TORBA) | E?16 |  |  |  |  |  | YERLİ Y. | 40,00 / 10,00 / 0,00 / 0,00 / 0,00 |
 | A?908 | 8699[?] | %3 DEKSTROZ 250 ML SOL. (POLİFLEKS SETLİ TORBA) | E?16 |  |  |  |  |  | YERLİ Y. | 40,00 / 10,00 / 0,00 / 0,00 / 0,00 |
@@ -224,4 +224,4 @@ MADDE 17- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 | A?542 | 8699[?] | %5 DEKSTROZ 250 ML SOL. (SETLİ TORBA) | E?31B | 01.04.2016 |  |  |  | YERLİ Y. | 76,00 / 46,00 / 36,00 / 36,00 / 36,00 |
 | A?541 | 8699[?] | %5 DEKSTROZ 500 ML SOL. (SETLİ TORBA) | E?31B | 14.04.2016 |  |  |  | YERLİ Y. | 64,00 / 34,00 / 24,00 / 24,00 / 24,00 |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 99 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 99 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.

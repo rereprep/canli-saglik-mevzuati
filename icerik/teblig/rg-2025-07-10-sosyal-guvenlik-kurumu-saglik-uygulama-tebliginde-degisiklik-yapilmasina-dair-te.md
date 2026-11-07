@@ -210,4 +210,4 @@ MADDE 7- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 | A09738 | 8699788692652 | %5 DEKSTROZ %0.45 NaCl 1000 ML SOL (POLİFARMA CAM ŞİŞE SETLİ) |  | E319L |  |  |  |  | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% | 0-2,5% |
 | A09741 | 8699606962645 | %5 DEKSTROZ %0.45 NaCl 500 ML SOL (POLİFARMA CAM ŞİŞE SETSİZ) |  | E319I |  |  |  |  | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% | 0-2,5% |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 219 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 219 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.

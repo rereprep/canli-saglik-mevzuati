@@ -320,4 +320,4 @@ MADDE 29- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 | A10561 | 8699660693048 | %3 SODYUM KLORÜR 500 ML SOL (POLİFARMA SETSİZ ŞİŞE) |  | E391F |  |  |  | 19.08.2008 | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 | A09933 | 8699660691518 | %3 SODYUM KLORÜR 500 ML SOL (POLİFLEKS SETLİ) |  | E391E |  |  |  |  | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 255 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 255 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.

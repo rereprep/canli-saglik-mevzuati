@@ -325,4 +325,4 @@ yürürlüğe girer.
 | A00019 | 8699600690863 | %10 DEKSTROZ 250 ML SOL (POLİFARMA SETLİ TORBA) |  | E208H |  |  |  |  | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 | A00020 | 8699600690856 | %10 DEKSTROZ 250 ML SOL (POLİFARMA SETSİZ TORBA) |  | E208G |  |  |  |  | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 249 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 249 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.

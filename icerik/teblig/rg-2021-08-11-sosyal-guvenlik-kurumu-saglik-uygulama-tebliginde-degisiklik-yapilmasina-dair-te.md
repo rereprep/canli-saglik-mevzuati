@@ -224,4 +224,4 @@ MADDE 17- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 | A16408 | 8699828691884 | %10 DEKSTROZ SUDAKİ ÇÖZELTİSİ 100 ML (MEDİFLEKS-SETSİZ) |  |  | E208L |  |  |  | YİRMİ YIL | 40,00% | 10,00% | 0,00% | 0,00% | |
 | … | … | [Sayfa 7 ve 8’deki kalan satırlar: görüntüdeki küçük baskıda hücre metinleri güvenilir biçimde ayırt edilemiyor.] |  |  |  |  |  |  |  |  |  |  |  |  |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 145 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 145 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.

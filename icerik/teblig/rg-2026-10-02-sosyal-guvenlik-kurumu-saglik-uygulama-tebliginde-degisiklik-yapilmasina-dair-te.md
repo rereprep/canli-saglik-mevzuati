@@ -289,4 +289,4 @@ MADDE 9- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 | A10082 | 8699606691945 | %5 DEKSTROZ+%0,45 NaCl 250 ML SOL (POLİFLEKS SETSİZ TORBA) | E319G |  | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 | A08788 | 86997788698053 | %5 DEKSTROZ+%0,45 NaCl 500 ML SOL (BIOSEL SETSİZ TORBA) | E319I |  | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 219 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 219 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.

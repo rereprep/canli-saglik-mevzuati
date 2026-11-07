@@ -322,4 +322,4 @@ MADDE 21- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 | A00059 | 8699828040665 | %0,9 DEKSTROZ 500 ML SOL. (SETSIZ TORBA) |  | E315G |  |  |  |  | FIYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 | A00089 | 8699828040665 | %0,9 DEKSTROZ 500 ML SOL. (SETSIZ SIS) |  | E315G |  |  |  |  | FIYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 156 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 156 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.

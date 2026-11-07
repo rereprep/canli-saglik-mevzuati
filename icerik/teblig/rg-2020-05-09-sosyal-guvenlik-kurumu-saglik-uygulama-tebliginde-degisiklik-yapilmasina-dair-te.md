@@ -375,4 +375,4 @@ MADDE 10- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 | A00177 | 8699660690788 | %5 DEKSTROZ 500 ML SOL (POLİ SETLİ TORBA) |  | E318J |  |  |  |  | YERLİ YIL | 40,00% | 10,00% | 0,00% | 0,00% |  |
 | A00178 | 8699660690191 | %5 DEKSTROZ 500 ML (POLİ SETLİ) |  | E318J |  |  |  |  | YERLİ YIL | 40,00% | 10,00% | 0,00% | 0,00% |  |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 157 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 157 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.

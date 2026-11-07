@@ -25,7 +25,7 @@ BAŞKANLIĞI
 [barkod]
 00054542844
 
-Sayı: [?]
+Sayı: 81595070-020-901
 Konu: Obezite Cerrahisi Uygulamaları
 
 GENELGE

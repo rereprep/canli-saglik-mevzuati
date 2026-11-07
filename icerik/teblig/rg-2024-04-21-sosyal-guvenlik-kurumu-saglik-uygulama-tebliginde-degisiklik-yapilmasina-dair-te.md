@@ -224,4 +224,4 @@ e) Listede yer alan “704680”, “704870”, “800640”, “800661”, “8
 | G101830 | Yeni Nesil DNA Dizileme, somatik mutasyon analizi, 1 Gen | Ayda bir adet faturalandırılır. G101830, G101840, G101850, G101860, G101870 Yeni Nesil DNA Dizileme, somatik mutasyon analizi işlemlerinden herhangi biri çalışıldığında aynı hasta için 1 ay boyunca bu işlemler tekrar fatura edilemez. Tanı ve çalışılan genin adı belirtilmelidir. G100370, G100380, G100390, G100400, G100410, G100420, G100430, G101010, G101020, G101030, G101040 ve bu başlık altında yer alan diğer işlemler ile birlikte faturalandırılmaz. | 2.154,03 |
 | G101840 | Yeni Nesil DNA Dizileme Paneli, somatik mutasyon analizi, 2-4 Gen | Ayda bir adet faturalandırılır. G101830, G101840, G101850, G101860, G101870 Yeni Nesil DNA Dizileme, somatik mutasyon analizi işlemlerinden herhangi biri çalışıldığında | 3.220,35 |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 206 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 206 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.

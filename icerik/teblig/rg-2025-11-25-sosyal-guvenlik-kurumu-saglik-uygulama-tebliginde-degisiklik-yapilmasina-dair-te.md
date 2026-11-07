@@ -290,4 +290,4 @@ MADDE 24- Bu Tebliğ hükümlerini Sosyal Güvenlik Kurumu Başkanı yürütür.
 | A00080 | 8699828690481 | %20 MANNİTOL 500 ML SOL. (SETSİZ TORBA) |  | E216I |  |  |  |  | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 | A09919 | 8699606691556 | %20 MANNİTOL SUDAKİ 100 ML SOL. (POLİFLEKS PVC TORBA SETLİ) |  | E216D |  |  |  |  | FİYAT KORUMALI | 40,00% | 10,00% | 0,00% | 0,00% |  | 0-2,5% |
 
-> Not: Bu sayfada tebliğin/yönetmeliğin ilk 8 sayfası yer almaktadır. Toplam 229 sayfalık metnin ekleri için resmî kaynağa bakınız.
+> Not: Bu sayfada tebliğin ilk 8 sayfası (madde metni) yer almaktadır. Toplam 229 sayfalık metnin ekleri (ilaç ve fiyat listeleri) için resmî kaynağa bakınız.
