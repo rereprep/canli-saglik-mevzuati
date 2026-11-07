@@ -927,11 +927,17 @@ def pdf_uret(b, hedef):
                            ("BACKGROUND", (0, 0), (0, -1), colors.HexColor("#eef2f7")),
                            ("VALIGN", (0, 0), (-1, -1), "TOP")]))
     akis += [t, Spacer(1, 10)]
-    onceki = None
+    onceki = None; hitap = False
     for tip, metin in duz_bloklar(b["govde"]):
         IMZALAR = ("p-imza", "p-onay", "p-olur")
         if onceki is not None and (tip in IMZALAR or onceki in IMZALAR) and tip != onceki:
-            akis.append(Spacer(1, 12))
+            akis.append(Spacer(1, 22))
+        elif tip == "p-orta" and onceki in ("p-sol", "p-sayi"):
+            akis.append(Spacer(1, 18)); hitap = True
+        elif tip in ("p-sol", "p-sayi") and onceki == "p-orta":
+            akis.append(Spacer(1, 10))
+        elif onceki == "p-orta" and tip != "p-orta" and hitap:
+            akis.append(Spacer(1, 12)); hitap = False
         onceki = tip
         if tip == "hr":
             akis.append(HRFlowable(width="100%", thickness=0.5, color=colors.grey, spaceBefore=6, spaceAfter=6))

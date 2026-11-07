@@ -29,7 +29,11 @@ Tütün kullanımının izlenmesine yönelik uygulamaların Bakanlığımıza ba
 
 Bu doğrultuda;
 
-1. Sağlık tesislerinde hasta muayene sürecinde bireylerin sigara kullanım durumunun hasta muayenesinde kullanılan bilgi sistemleri üzerinden zorunlu veri alanı olarak sorgulanması ve kayıt altına alınması, 2. Uygulamanın, sağlık hizmet sunumunun tüm birimlerinde (acil tıp servisi ve aynı gün içinde ilk muayene sonrasındaki muayeneler ile konsültasyonlar hariç, Merkezi Hekim Randevu Sistemine esas poliklinik hizmeti veren diğer branşlarda) standart şekilde yürütülmesinin sağlanması, 3. Sağlık personelinin konu hakkında bilgilendirilmesi ve gerekli teknik düzenlemelerin yapılması hususlarında gerekli çalışmaların yürütülmesi gerekmektedir.
+1. Sağlık tesislerinde hasta muayene sürecinde bireylerin sigara kullanım durumunun hasta muayenesinde kullanılan bilgi sistemleri üzerinden zorunlu veri alanı olarak sorgulanması ve kayıt altına alınması,
+
+2. Uygulamanın, sağlık hizmet sunumunun tüm birimlerinde (acil tıp servisi ve aynı gün içinde ilk muayene sonrasındaki muayeneler ile konsültasyonlar hariç, Merkezi Hekim Randevu Sistemine esas poliklinik hizmeti veren diğer branşlarda) standart şekilde yürütülmesinin sağlanması,
+
+3. Sağlık personelinin konu hakkında bilgilendirilmesi ve gerekli teknik düzenlemelerin yapılması hususlarında gerekli çalışmaların yürütülmesi gerekmektedir.
 
 Bilgilerini ve konunun ilinizdeki tüm kamu, üniversite ve özel sağlık tesislerine duyurularak uygulamanın hayata geçirilmesi için gerekli koordinasyonun sağlanması hususunda;
 

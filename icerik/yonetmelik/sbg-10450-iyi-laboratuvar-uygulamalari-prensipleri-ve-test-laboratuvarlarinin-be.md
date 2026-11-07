@@ -72,13 +72,23 @@ Baş Uzman görevlendirildiği çalışma aşamalarının İLU prensiplerine uyg
 
 1.4. Çalışma Personelinin Sorumlulukları
 
-1. Çalışmanın yürütülmesinde görevli tüm personel İLU prensiplerini bilir ve çalışmalarında uygular, 2. Çalışma personeli, ilgili çalışma planına ve uygun standart çalışma prosedürlerine sahip olur. Bu dokümanlarda belirtilen talimatlara uyar. Talimatlarda oluşabilecek sapmalar dokümante edilir ve çalışma yöneticisine ve / veya uygunsa baş uzmana iletilir, 3. Tüm çalışma personeli, ham verileri anında ve tam olarak İLU prensiplerine uygun şekilde kaydeder ve verilerin kalitesinden sorumlu olur, 4. Çalışma personeli, sağlık önlemlerini uygulayarak kendileri için oluşan riski en aza indirir ve çalışmanın bütünlüğünü sağlar. Çalışmayı olumsuz yönde etkileyen sağlık ve tıbbi şartları ilgili kişiye bildirerek çalışmalarda gerekli önlemlerin alınması sağlar,
+1. Çalışmanın yürütülmesinde görevli tüm personel İLU prensiplerini bilir ve çalışmalarında uygular,
+
+2. Çalışma personeli, ilgili çalışma planına ve uygun standart çalışma prosedürlerine sahip olur. Bu dokümanlarda belirtilen talimatlara uyar. Talimatlarda oluşabilecek sapmalar dokümante edilir ve çalışma yöneticisine ve / veya uygunsa baş uzmana iletilir,
+
+3. Tüm çalışma personeli, ham verileri anında ve tam olarak İLU prensiplerine uygun şekilde kaydeder ve verilerin kalitesinden sorumlu olur,
+
+4. Çalışma personeli, sağlık önlemlerini uygulayarak kendileri için oluşan riski en aza indirir ve çalışmanın bütünlüğünü sağlar. Çalışmayı olumsuz yönde etkileyen sağlık ve tıbbi şartları ilgili kişiye bildirerek çalışmalarda gerekli önlemlerin alınması sağlar,
 
 2. Kalite Güvence Programı
 
 2.1. Genel
 
-1. Test laboratuvarları, çalışmaların İLU prensiplerine uygun olarak gerçekleşmesini sağlamak için dokümante edilmiş kalite güvence programına sahip olur, 2. Kalite güvence programı, yönetim tarafından görevlendirilen ve doğrudan yönetime karşı sorumlu olan, test prosedürlerini bilen kişi ya da kişilerce yürütülür, 3. Bu kişi veya kişiler çalışmaların yürütülmesinde görevlendirilemez.
+1. Test laboratuvarları, çalışmaların İLU prensiplerine uygun olarak gerçekleşmesini sağlamak için dokümante edilmiş kalite güvence programına sahip olur,
+
+2. Kalite güvence programı, yönetim tarafından görevlendirilen ve doğrudan yönetime karşı sorumlu olan, test prosedürlerini bilen kişi ya da kişilerce yürütülür,
+
+3. Bu kişi veya kişiler çalışmaların yürütülmesinde görevlendirilemez.
 
 2.2. Kalite Güvence Personelinin Sorumlulukları
 
@@ -98,15 +108,23 @@ d) Metodların, prosedürlerin ve gözlemlerin tam olarak açıklandığını, r
 
 3.1. Genel
 
-1. Test laboratuvarları, çalışmanın geçerliliğini bozucu etkileri en aza indirgeyecek ve çalışmanın gereksinimlerini karşılayacak uygun büyüklüğe, yapıya ve yerleşime sahip olur. 2. Çalışmaların uygun olarak yürütülmesini sağlamak üzere farklı faaliyetler için test laboratuvarları uygun şekilde planlanır.
+1. Test laboratuvarları, çalışmanın geçerliliğini bozucu etkileri en aza indirgeyecek ve çalışmanın gereksinimlerini karşılayacak uygun büyüklüğe, yapıya ve yerleşime sahip olur.
+
+2. Çalışmaların uygun olarak yürütülmesini sağlamak üzere farklı faaliyetler için test laboratuvarları uygun şekilde planlanır.
 
 3.2.Test Sistemi
 
-1. Test laboratuvarları, tehlikeli olduğu bilinen veya şüphelenilen madde ve organizmalarla ilgili test sistemlerinin ve projelerin izolasyonunu sağlamak için, yeterli sayıda oda veya alanlara sahip olur. 2. Test sistemlerinin bozulması kabul edilebilir seviyede tutmak amacıyla, hastalıkların teşhisi, tedavisi ve kontrolü için uygun odalar veya alanlar olur. 3. Malzemelerin ve teçhizatların muhafazası için uygun depolar olur. Bu depolar, test sistemleri için ayrılan odalar veya alanlardan ayrı olur ve kirlenmeye ve/veya bozulmaya karşı uygun koruma sağlayacak şekilde düzenlenir.
+1. Test laboratuvarları, tehlikeli olduğu bilinen veya şüphelenilen madde ve organizmalarla ilgili test sistemlerinin ve projelerin izolasyonunu sağlamak için, yeterli sayıda oda veya alanlara sahip olur.
+
+2. Test sistemlerinin bozulması kabul edilebilir seviyede tutmak amacıyla, hastalıkların teşhisi, tedavisi ve kontrolü için uygun odalar veya alanlar olur.
+
+3. Malzemelerin ve teçhizatların muhafazası için uygun depolar olur. Bu depolar, test sistemleri için ayrılan odalar veya alanlardan ayrı olur ve kirlenmeye ve/veya bozulmaya karşı uygun koruma sağlayacak şekilde düzenlenir.
 
 3.3. Test ve Referans Maddeleri
 
-1. Test ve referans maddelerinin kabulü, depolanması ve test maddelerinin bir taşıyıcı ile karıştırılması için ayrı odalar ve/veya alanlar olur. 2. Test maddelerinin depolandığı odalar veya alanlar test sistemlerinin bulunduğu oda veya alanlardan ayrı olur. Depolar tehlikeli maddelerin güvenli muhafazasının temini ve kimliğinin, derişiminin, saflık ve kararlılığının korunmasını sağlayacak şekilde düzenlenir.
+1. Test ve referans maddelerinin kabulü, depolanması ve test maddelerinin bir taşıyıcı ile karıştırılması için ayrı odalar ve/veya alanlar olur.
+
+2. Test maddelerinin depolandığı odalar veya alanlar test sistemlerinin bulunduğu oda veya alanlardan ayrı olur. Depolar tehlikeli maddelerin güvenli muhafazasının temini ve kimliğinin, derişiminin, saflık ve kararlılığının korunmasını sağlayacak şekilde düzenlenir.
 
 3.4. Arşiv
 
@@ -118,31 +136,75 @@ Atık bertarafı ve muamelesi, çalışmaların bütünlüğünü tehlikeye atma
 
 4. Cihazlar, Malzemeler ve Reaktifler
 
-1. Çalışmalarla ilgili çevresel faktörlerin kontrolü, verilerin elde edilmesi, saklanması ve tekrar kullanılması için kullanılan cihazlar, bilgisayarlı sistemler dahil, uygun şekilde yerleştirilir, yeterli kapasite ve tasarıma da sahip olacak şekilde planlanır. 2. Çalışmalarda kullanılan cihazlar standart çalışma prosedürlerine göre periyodik olarak denetlenir, temizlenir, bakımı ve kalibrasyonu yapılır. Bu faaliyetlerin kayıtları muhafaza edilir. Eğer mümkünse kalibrasyon, ulusal ve uluslar arası ölçüm standartlarıyla izlenebilirliği sağlayacak şekilde olur. 3. Çalışmada kullanılan cihazların ve malzemelerin test sistemini olumsuz yönde etkilememesi sağlanır. 4. Kimyasallar, reaktifler ve çözeltiler, mümkünse derişimi de belirtilerek, son kullanma tarihi ve özel depolama şartlarını içerecek şekilde tanımlanır ve etiketlenir. Kaynağı, hazırlanma tarihi ve kararlılığı ile ilgili bilgilerin mevcut olması sağlanır. Son kullanma tarihi dokümante edilen değerlendirme ve analiz sonuçlarına dayalı olarak uzatılabilir.
+1. Çalışmalarla ilgili çevresel faktörlerin kontrolü, verilerin elde edilmesi, saklanması ve tekrar kullanılması için kullanılan cihazlar, bilgisayarlı sistemler dahil, uygun şekilde yerleştirilir, yeterli kapasite ve tasarıma da sahip olacak şekilde planlanır.
+
+2. Çalışmalarda kullanılan cihazlar standart çalışma prosedürlerine göre periyodik olarak denetlenir, temizlenir, bakımı ve kalibrasyonu yapılır. Bu faaliyetlerin kayıtları muhafaza edilir. Eğer mümkünse kalibrasyon, ulusal ve uluslar arası ölçüm standartlarıyla izlenebilirliği sağlayacak şekilde olur.
+
+3. Çalışmada kullanılan cihazların ve malzemelerin test sistemini olumsuz yönde etkilememesi sağlanır.
+
+4. Kimyasallar, reaktifler ve çözeltiler, mümkünse derişimi de belirtilerek, son kullanma tarihi ve özel depolama şartlarını içerecek şekilde tanımlanır ve etiketlenir. Kaynağı, hazırlanma tarihi ve kararlılığı ile ilgili bilgilerin mevcut olması sağlanır. Son kullanma tarihi dokümante edilen değerlendirme ve analiz sonuçlarına dayalı olarak uzatılabilir.
 
 5.Test Sistemleri
 
 5.1. Fiziksel / Kimyasal
 
-1. Fiziksel ve kimyasal verilerin elde edilmesinde kullanılan cihazlar uygun şekilde yerleştirilir, yeterli kapasite ve uygun tasarıma sahip olması sağlanır. 2. Fiziksel ve kimyasal testlerin bütünlüğü sağlanır.
+1. Fiziksel ve kimyasal verilerin elde edilmesinde kullanılan cihazlar uygun şekilde yerleştirilir, yeterli kapasite ve uygun tasarıma sahip olması sağlanır.
+
+2. Fiziksel ve kimyasal testlerin bütünlüğü sağlanır.
 
 5.2. Biyolojik
 
-1. Verilerin kalitesini sağlamak için biyolojik test sistemlerinin bakımı, kontrolü, muhafazası ve depolanması için uygun şartlar oluşturulur ve sürdürülür. 2. Yeni alınan hayvan ve bitki test sistemleri, sağlık durumları değerlendirilene kadar mevcut sistemlerden ayrı yerlerde tutulur. Eğer normal olmayan ölüm veya hastalıklar olursa bu sistemler çalışmalarda kullanılmaz ve mümkünse insancıl yollardan yok edilir. Test başlama tarihinde, test sistemlerinde çalışmanın gerçekleştirilmesini olumsuz etkileyebilecek koşulların ve hastalıkların olmaması sağlanır. Çalışma süresince test sisteminde meydana gelen hastalıklar veya yaralanmalar, eğer çalışmaların bütünlüğünün sürdürülebilmesi için gerekli ise izole edilir ve tedavisi yapılır. Çalışmadan önce ve çalışma süresince, meydana gelen hastalıkların teşhis ve tedavisi kayıt edilir. 3. Test sistemlerinin kaynağı, geliş tarihi, geliş koşulları kayıt ve muhafaza edilir. 4. Biyolojik test sistemleri, test ve referans maddelerine ilk uygulamadan önce uygun bir süre test çevresine uyum sağlaması için bekletilir. 5. Test sistemlerini uygun bir şekilde tanımlamak için, gerekli bütün bilgiler test sisteminin barınak veya konteynırlar üzerinde bulunur. Çalışma süresince barınak veya konteynırlardan alınan test sistemlerinin uygun kimliği taşıması sağlanır. 6. Kullanım süresince test sistemlerine ait, barınaklar veya konteynırlar uygun aralıklarla temizlenir ve sağlık koruma tedbirleri alınır. Test sistemi ile temas eden bütün malzemelerin çalışmaya engel olacak seviyede kirlilik taşımaması sağlanır. Hayvan yatakları uygun tarım uygulamalarına göre değiştirilir. Kullanılan haşere ilaçları dokümante edilir. 7. Sahada kullanılan test sistemleri çalışmaları engelleyebilecek, önceden kullanılmış pestisit ve toz sürüklenmesine maruz kalmayacak şekilde yerleştirilir.
+1. Verilerin kalitesini sağlamak için biyolojik test sistemlerinin bakımı, kontrolü, muhafazası ve depolanması için uygun şartlar oluşturulur ve sürdürülür.
+
+2. Yeni alınan hayvan ve bitki test sistemleri, sağlık durumları değerlendirilene kadar mevcut sistemlerden ayrı yerlerde tutulur. Eğer normal olmayan ölüm veya hastalıklar olursa bu sistemler çalışmalarda kullanılmaz ve mümkünse insancıl yollardan yok edilir. Test başlama tarihinde, test sistemlerinde çalışmanın gerçekleştirilmesini olumsuz etkileyebilecek koşulların ve hastalıkların olmaması sağlanır. Çalışma süresince test sisteminde meydana gelen hastalıklar veya yaralanmalar, eğer çalışmaların bütünlüğünün sürdürülebilmesi için gerekli ise izole edilir ve tedavisi yapılır. Çalışmadan önce ve çalışma süresince, meydana gelen hastalıkların teşhis ve tedavisi kayıt edilir.
+
+3. Test sistemlerinin kaynağı, geliş tarihi, geliş koşulları kayıt ve muhafaza edilir.
+
+4. Biyolojik test sistemleri, test ve referans maddelerine ilk uygulamadan önce uygun bir süre test çevresine uyum sağlaması için bekletilir.
+
+5. Test sistemlerini uygun bir şekilde tanımlamak için, gerekli bütün bilgiler test sisteminin barınak veya konteynırlar üzerinde bulunur. Çalışma süresince barınak veya konteynırlardan alınan test sistemlerinin uygun kimliği taşıması sağlanır.
+
+6. Kullanım süresince test sistemlerine ait, barınaklar veya konteynırlar uygun aralıklarla temizlenir ve sağlık koruma tedbirleri alınır. Test sistemi ile temas eden bütün malzemelerin çalışmaya engel olacak seviyede kirlilik taşımaması sağlanır. Hayvan yatakları uygun tarım uygulamalarına göre değiştirilir. Kullanılan haşere ilaçları dokümante edilir.
+
+7. Sahada kullanılan test sistemleri çalışmaları engelleyebilecek, önceden kullanılmış pestisit ve toz sürüklenmesine maruz kalmayacak şekilde yerleştirilir.
 
 6. Test ve Referans Maddeleri
 
 6.1. Kabul, Muamele, Örnekleme ve Depolama
 
-1. Test ve referans maddelerinin özellikleri, kabul tarihi, son kullanma tarihi, alınan orjinal miktarı, çalışmalarda kullanılan miktarı kayıt edilir ve kayıtlar muhafaza edilir. 2. Test ve referans maddelerinin saflığını ve kararlılığını temin etmek kirlenmeye ve karışmaya meydan vermemek için muamele, örnekleme ve depolama şartları tanımlanır. 3. Depolama kaplarında kimlik bilgileri, son kullanma tarihi ve özel depolama talimatları bulundurulur.
+1. Test ve referans maddelerinin özellikleri, kabul tarihi, son kullanma tarihi, alınan orjinal miktarı, çalışmalarda kullanılan miktarı kayıt edilir ve kayıtlar muhafaza edilir.
+
+2. Test ve referans maddelerinin saflığını ve kararlılığını temin etmek kirlenmeye ve karışmaya meydan vermemek için muamele, örnekleme ve depolama şartları tanımlanır.
+
+3. Depolama kaplarında kimlik bilgileri, son kullanma tarihi ve özel depolama talimatları bulundurulur.
 
 6.2. Karakterizasyon
 
-1. Bütün test ve referans maddeleri uygun şekilde tanımlanır. (Örneğin, kod, Kimyasal Abstract Numarası (CAS No), adı ve biyolojik parametreler). 2. Her çalışmada, her bir test veya referans maddesi için tanım seri numarası, saflık, bileşim, derişim ve diğer belirleyici özellikleri içerir. 3. Test maddelerinin sponsor tarafından sağlanması durumunda, çalışmaya konu olan test maddesinin kimliğinin doğrulanması için test laboratuvarları ve sponsor arasında işbirliği ile oluşturulan bir mekanizma oluşturulur. 4. Tüm çalışmalar için test ve referans maddelerinin test koşullarında ve depolama şartlarında kararlılığının bilinmesi sağlanır. 5. Eğer test maddesi bir taşıyıcı ile uygulanıyorsa bu taşıyıcı içindeki kararlılığı, derişimi ve homojenliği belirlenir. Saha çalışmalarında test maddelerinin ( örneğin: tank karışımı) kararlılığı, derişimi ve homojenliği, laboratuvar deneyleriyle belirlenebilir. 6. Her bir test maddesi serisinden analitik amaçlarla alınan örnekler kısa süreli çalışmalar hariç bütün çalışmalar için muhafaza edilir. 7. Standart Çalışma Prosedürleri
+1. Bütün test ve referans maddeleri uygun şekilde tanımlanır. (Örneğin, kod, Kimyasal Abstract Numarası (CAS No), adı ve biyolojik parametreler).
 
-1. Test laboratuvarları tarafından üretilen verilerin kalitesini ve bütünlüğünü temin etmek için test laboratuvarları yönetimi tarafından onaylanmış yazılı SÇP bulundurulur. SÇP’nde yapılan güncelleştirmeler test laboratuvarları yönetimi tarafından onaylanır. 2. Her bir test laboratuvarı birimi veya alanında, laboratuvarda gerçekleştirilen faaliyetlerle ilgili geçerli SÇP’leri bulundurur. SÇP’ne ilave olarak, basılı test kitapları, analitik metodlar, makale ve kullanım kitapçıkları kullanılabilir. 3. Yapılan çalışma ile ilgili SÇP’nde meydana gelen sapmalar dokümante edilir ve çalışma yöneticisi, varsa baş uzman tarafından kabul edilir. 4. Aşağıda belirtilen test laboratuvarları faaliyet kategorileri ile ilgili SÇP’nin mevcut olması sağlanır, ancak sınırlandırılamaz. Aşağıda her bir başlıkta verilen ayrıntılar açıklayıcı örnek olarak düşünülebilir.
+2. Her çalışmada, her bir test veya referans maddesi için tanım seri numarası, saflık, bileşim, derişim ve diğer belirleyici özellikleri içerir.
 
-1. Test ve referans maddeleri; Kabul, kimlik, etiketleme, muamele, örnekleme ve depolama. 2. Cihazlar, malzemeler ve reaktifler,
+3. Test maddelerinin sponsor tarafından sağlanması durumunda, çalışmaya konu olan test maddesinin kimliğinin doğrulanması için test laboratuvarları ve sponsor arasında işbirliği ile oluşturulan bir mekanizma oluşturulur.
+
+4. Tüm çalışmalar için test ve referans maddelerinin test koşullarında ve depolama şartlarında kararlılığının bilinmesi sağlanır.
+
+5. Eğer test maddesi bir taşıyıcı ile uygulanıyorsa bu taşıyıcı içindeki kararlılığı, derişimi ve homojenliği belirlenir. Saha çalışmalarında test maddelerinin ( örneğin: tank karışımı) kararlılığı, derişimi ve homojenliği, laboratuvar deneyleriyle belirlenebilir.
+
+6. Her bir test maddesi serisinden analitik amaçlarla alınan örnekler kısa süreli çalışmalar hariç bütün çalışmalar için muhafaza edilir.
+
+7. Standart Çalışma Prosedürleri
+
+1. Test laboratuvarları tarafından üretilen verilerin kalitesini ve bütünlüğünü temin etmek için test laboratuvarları yönetimi tarafından onaylanmış yazılı SÇP bulundurulur. SÇP’nde yapılan güncelleştirmeler test laboratuvarları yönetimi tarafından onaylanır.
+
+2. Her bir test laboratuvarı birimi veya alanında, laboratuvarda gerçekleştirilen faaliyetlerle ilgili geçerli SÇP’leri bulundurur. SÇP’ne ilave olarak, basılı test kitapları, analitik metodlar, makale ve kullanım kitapçıkları kullanılabilir.
+
+3. Yapılan çalışma ile ilgili SÇP’nde meydana gelen sapmalar dokümante edilir ve çalışma yöneticisi, varsa baş uzman tarafından kabul edilir.
+
+4. Aşağıda belirtilen test laboratuvarları faaliyet kategorileri ile ilgili SÇP’nin mevcut olması sağlanır, ancak sınırlandırılamaz. Aşağıda her bir başlıkta verilen ayrıntılar açıklayıcı örnek olarak düşünülebilir.
+
+1. Test ve referans maddeleri; Kabul, kimlik, etiketleme, muamele, örnekleme ve depolama.
+
+2. Cihazlar, malzemeler ve reaktifler,
 
 a) Cihazlar: Kullanma, bakım, temizlik ve kalibrasyon, b) Bilgisayarlı sistemler: geçerlilik, çalıştırma, bakım, güvenlik, değişiklik kontrolü ve yedekleme, c) Malzemeler, reaktifler ve çözeltiler: Hazırlama ve etiketleme,
 
@@ -160,7 +222,11 @@ Kalite güvence personelinin, planlama, program yapma, yerine getirme, döküman
 
 8.1. Çalışma Planı
 
-1. Her çalışma için, çalışma başlama tarihinden önce yazılmış çalışma planı bulundurulur. Çalışma planı çalışma yöneticisi tarafından onaylanır ve Bölüm II, 2.2 ( b) de açıklandığı gibi kalite güvence personeli tarafından İLU’na uygunluğu doğrulanır. 2. (a) Çalışma planında yapılan değişiklikler, çalışma yöneticisi tarafından doğrulanır, onaylanırı ve çalışma planı ile birlikte muhafaza edilir. (b) Çalışma planında olan sapmalar çalışma yöneticisi ve/veya baş uzman tarafından tanımlanır, açıklanır, kabul edilir ve tarihi belirtilerek çalışma ham verileri ile birlikte muhafaza edilir. 3. Kısa süreli çalışmalarda, genel çalışma planını desteklemek için çalışmaya özgü ilaveler kullanılabilir.
+1. Her çalışma için, çalışma başlama tarihinden önce yazılmış çalışma planı bulundurulur. Çalışma planı çalışma yöneticisi tarafından onaylanır ve Bölüm II, 2.2 ( b) de açıklandığı gibi kalite güvence personeli tarafından İLU’na uygunluğu doğrulanır.
+
+2. (a) Çalışma planında yapılan değişiklikler, çalışma yöneticisi tarafından doğrulanır, onaylanırı ve çalışma planı ile birlikte muhafaza edilir. (b) Çalışma planında olan sapmalar çalışma yöneticisi ve/veya baş uzman tarafından tanımlanır, açıklanır, kabul edilir ve tarihi belirtilerek çalışma ham verileri ile birlikte muhafaza edilir.
+
+3. Kısa süreli çalışmalarda, genel çalışma planını desteklemek için çalışmaya özgü ilaveler kullanılabilir.
 
 8.2. Çalışma Planının İçeriği
 
@@ -190,13 +256,29 @@ Muhafazası gereken kayıtların listesi.
 
 8.3. Çalışmaların Yürütülmesi
 
-1. Her çalışma farklı tanımlanır. Çalışma ile ilgili bütün maddeler bu tanımı taşır. Çalışmalardan alınan örnekler orjinin doğrulanması için tanımlanır. Bu tanım, çalışma ve örnek için izlenebilirliği sağlayacak şekilde olur. 2. Çalışma, çalışma planına uygun olarak yürütülür. 3. Çalışmalar süresince üretilen veriler anında, doğru ve okunaklı olarak kayıt edilir. Bu veriler imzalanır veya paraflanır ve tarih atılır. 4. Ham verilerde yapılan herhangi bir değişiklik önceki kaydın okunmasını engellemeyecek şekilde yapılır değişikliği yapan kişi tarafından değişikliğin nedeni belirtilerek tarihi atılır, imzalanır veya paraflanır. 5. Bilgisayarlı sistemlerde üretilen veriler, veriyi girmekten sorumlu kişi tarafından, veri girişi sırasında tanımlanır. Tasarımı verilerde yapılan değişikliklerin orjinal verilerin okunmasını engellemeyecek şekilde verilerin, muhafazasına, izlenmesine ve denetlenmesine olanak sağlayacak bilgisayarlı sistemler seçilir. Sistemler, verilerde yapılan değişikliklerin, değişikliği yapan kişi tarafından örneğin tarih, elektronik imza, kod vb. ile belirtilmesine olanak sağlar. Yapılan değişikliklerin nedenleri açıklanır.
+1. Her çalışma farklı tanımlanır. Çalışma ile ilgili bütün maddeler bu tanımı taşır. Çalışmalardan alınan örnekler orjinin doğrulanması için tanımlanır. Bu tanım, çalışma ve örnek için izlenebilirliği sağlayacak şekilde olur.
+
+2. Çalışma, çalışma planına uygun olarak yürütülür.
+
+3. Çalışmalar süresince üretilen veriler anında, doğru ve okunaklı olarak kayıt edilir. Bu veriler imzalanır veya paraflanır ve tarih atılır.
+
+4. Ham verilerde yapılan herhangi bir değişiklik önceki kaydın okunmasını engellemeyecek şekilde yapılır değişikliği yapan kişi tarafından değişikliğin nedeni belirtilerek tarihi atılır, imzalanır veya paraflanır.
+
+5. Bilgisayarlı sistemlerde üretilen veriler, veriyi girmekten sorumlu kişi tarafından, veri girişi sırasında tanımlanır. Tasarımı verilerde yapılan değişikliklerin orjinal verilerin okunmasını engellemeyecek şekilde verilerin, muhafazasına, izlenmesine ve denetlenmesine olanak sağlayacak bilgisayarlı sistemler seçilir. Sistemler, verilerde yapılan değişikliklerin, değişikliği yapan kişi tarafından örneğin tarih, elektronik imza, kod vb. ile belirtilmesine olanak sağlar. Yapılan değişikliklerin nedenleri açıklanır.
 
 9. Çalışma Sonuçlarının Rapor Edilmesi
 
 9.1. Genel
 
-1. Her bir çalışma için sonuç raporu hazırlanır. Kısa süreli çalışmalarda, standart sonuç raporuna çalışmaya özgü özel eklemeler yapılabilir. 2. Çalışmada görevli baş uzmanlar veya araştırmacılar, raporlarını imzalar ve tarihini atar. 3. Verilerin geçerliliğinin sorumluluğunun kabul edildiğini belirtmek için sonuç raporu çalışma yöneticisi tarafından imzalanır ve tarihi atılır. İLU prensiplerine uygunluk derecesi belirtilir. 4. Sonuç raporunda yapılan ilave ve değişiklikler, nedenleri açık bir şekilde düzeltme formunda belirtilerek çalışma yöneticisi tarafından imzalanır, tarihi atılır ve rapora dahil edilir. 5. Ulusal tescil veya düzenleyici otoritenin istekleri ile uyumlu bir sonuç raporu yeniden düzenlenirken, yetkililer sonuç raporunda değişiklik, ekleme ve düzeltme yapamazlar.
+1. Her bir çalışma için sonuç raporu hazırlanır. Kısa süreli çalışmalarda, standart sonuç raporuna çalışmaya özgü özel eklemeler yapılabilir.
+
+2. Çalışmada görevli baş uzmanlar veya araştırmacılar, raporlarını imzalar ve tarihini atar.
+
+3. Verilerin geçerliliğinin sorumluluğunun kabul edildiğini belirtmek için sonuç raporu çalışma yöneticisi tarafından imzalanır ve tarihi atılır. İLU prensiplerine uygunluk derecesi belirtilir.
+
+4. Sonuç raporunda yapılan ilave ve değişiklikler, nedenleri açık bir şekilde düzeltme formunda belirtilerek çalışma yöneticisi tarafından imzalanır, tarihi atılır ve rapora dahil edilir.
+
+5. Ulusal tescil veya düzenleyici otoritenin istekleri ile uyumlu bir sonuç raporu yeniden düzenlenirken, yetkililer sonuç raporunda değişiklik, ekleme ve düzeltme yapamazlar.
 
 9.2. Sonuç Raporunun İçeriği
 

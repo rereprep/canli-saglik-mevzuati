@@ -31,7 +31,11 @@ Uzaktan sağlık hizmetlerinin aile hekimliği uygulaması içerisinde etkin ve 
 
 Bu doğrultuda;
 
-1. Uzaktan sağlık hizmetlerinin sunulabilmesi için aile hekimliği birimlerinde gerekli teknik altyapının (kamera, mikrofon, bilgisayar, yeterli internet altyapısı vb.) aile hekimlerince hazır ve çalışır durumda bulundurulması, 2. 1 Kasım 2026 tarihi itibarıyla, mevcut randevu cetvellerine ilave olarak sistem üzerinden otomatik şekilde açılacak günlük en az 3 (üç) uzaktan sağlık hizmeti randevusuna başvuran kişilere, Bakanlığımız Uzaktan Hasta Değerlendirme Sistemi üzerinden ilgili mevzuat hükümleri doğrultusunda sağlık hizmeti sunulması, 3. Uygulamanın başlayacağı 1 Kasım 2026 tarihi öncesinde, il sağlık müdürlükleri tarafından aile hekimlerinin uygulamanın kapsamı ve işleyişi hakkında bilgilendirilmesi, uzaktan sağlık hizmeti sunumuna yönelik gerekli teknik hazırlıkların tamamlanmasının sağlanması ve uygulamanın il genelinde etkin ve koordineli şekilde yürütülmesine yönelik gerekli tedbirlerin alınması hususlarında;
+1. Uzaktan sağlık hizmetlerinin sunulabilmesi için aile hekimliği birimlerinde gerekli teknik altyapının (kamera, mikrofon, bilgisayar, yeterli internet altyapısı vb.) aile hekimlerince hazır ve çalışır durumda bulundurulması,
+
+2. 1 Kasım 2026 tarihi itibarıyla, mevcut randevu cetvellerine ilave olarak sistem üzerinden otomatik şekilde açılacak günlük en az 3 (üç) uzaktan sağlık hizmeti randevusuna başvuran kişilere, Bakanlığımız Uzaktan Hasta Değerlendirme Sistemi üzerinden ilgili mevzuat hükümleri doğrultusunda sağlık hizmeti sunulması,
+
+3. Uygulamanın başlayacağı 1 Kasım 2026 tarihi öncesinde, il sağlık müdürlükleri tarafından aile hekimlerinin uygulamanın kapsamı ve işleyişi hakkında bilgilendirilmesi, uzaktan sağlık hizmeti sunumuna yönelik gerekli teknik hazırlıkların tamamlanmasının sağlanması ve uygulamanın il genelinde etkin ve koordineli şekilde yürütülmesine yönelik gerekli tedbirlerin alınması hususlarında;
 
 Bilgilerinizi ve gereğini arz/rica ederim.
 

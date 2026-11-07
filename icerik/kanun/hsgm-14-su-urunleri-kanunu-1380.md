@@ -409,7 +409,15 @@ Bu Kanundaki ve bu Kanuna göre çıkarılacak yönetmeliklerdeki yasak, sınır
 
 a) 3 üncü maddenin;
 
-1. İkinci fıkrasına göre ruhsat tezkeresi almadan su ürünleri istihsal edenler ikiyüzelli milyon lira, 2. Üçüncü fıkrası gereğince, gemisi için ruhsat tezkeresi almayan gemi sahipleri veya donatanları bir milyar lira, 3. Beşinci fıkrası gereğince, ruhsat tezkerelerini ilgililere göstermeyenler ikiyüzelli milyon lira, 4. Altıncı fıkrası gereğince ruhsat tezkerelerini yetkili mercilere vize ettirmeden fıkrada gösterilen yerlerde su ürünleri istihsal edenler yüzelli milyon lira, 5. Yedinci fıkrasına göre çıkarılacak yönetmelikteki usul ve esaslara aykırı hareket edenler yüzelli milyon lira idarî para cezası ile cezalandırılır.
+1. İkinci fıkrasına göre ruhsat tezkeresi almadan su ürünleri istihsal edenler ikiyüzelli milyon lira,
+
+2. Üçüncü fıkrası gereğince, gemisi için ruhsat tezkeresi almayan gemi sahipleri veya donatanları bir milyar lira,
+
+3. Beşinci fıkrası gereğince, ruhsat tezkerelerini ilgililere göstermeyenler ikiyüzelli milyon lira,
+
+4. Altıncı fıkrası gereğince ruhsat tezkerelerini yetkili mercilere vize ettirmeden fıkrada gösterilen yerlerde su ürünleri istihsal edenler yüzelli milyon lira,
+
+5. Yedinci fıkrasına göre çıkarılacak yönetmelikteki usul ve esaslara aykırı hareket edenler yüzelli milyon lira idarî para cezası ile cezalandırılır.
 
 Ayrıca üçüncü madde ile zorunlu kılınan ruhsat tezkeresini almadan elde edilen su ürünleri zapt ve mahkemece müsadere edilir. Yedinci fıkraya göre çıkarılan yönetmelik hükümlerine aykırılık durumunda da aynı işlem uygulanır.
 

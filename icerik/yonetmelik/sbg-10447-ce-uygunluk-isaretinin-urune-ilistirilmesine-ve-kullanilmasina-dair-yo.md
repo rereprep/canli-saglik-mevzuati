@@ -21,7 +21,13 @@ a) Piyasaya arz edilen ürünlerin, ilgili teknik düzenleme hükümlerine, öze
 
 **"CE" uygunluk işaretinin ürüne iliştirilmesine ve kullanılmasına dair genel esaslar Madde 5-** "CE" uygunluk işaretinin iliştirilmesi ve kullanılmasına dair genel esaslar aşağıda belirtilmiştir: a) "CE" uygunluk işareti, bir ürüne bu işaretin iliştirilmesini öngören teknik düzenleme veya düzenlemeler kapsamında üretici tarafından uyulması zorunlu olan bütün şartlara uygunluğu gösterir. İlgili teknik düzenlemenin temel gerekler dışındaki hususlara da uyulmasını öngördüğü durumlarda, "CE" uygunluk işareti, bu hususlara uyulduğunu gösterir. b) "CE" uygunluk işareti, ürünün ilgili teknik düzenlemelerin tüm hükümlerine uygun olduğunun üretici tarafından teyit edildiğini ve ürünün gerekli uygunluk değerlendirme işlemlerine tabi tutulduğunu gösterir. c) Bir ürünün, "CE" uygunluk işaretinin iliştirilmesini gerektiren birden fazla teknik düzenlemeye tabi olması durumunda, "CE" uygunluk işareti, ürünün, ilgili tüm teknik düzenlemelerin hükümlerine uygun olduğunu gösterir. Bu teknik düzenlemelerden biri veya birkaçının, bir geçiş dönemi boyunca, üreticiye uygulama konusunda bir seçme hakkı tanıdığı durumlarda, "CE" uygunluk işareti, sadece uygulanan teknik düzenleme veya düzenlemelerin hükümlerine uygunluğu gösterir. Bu durumda, uygulanan teknik düzenlemelerin ilgili hükümleri, ürün beraberindeki belge, uyarı ve kullanma kılavuzu veya mümkünse bilgi plakasında belirtilmelidir. d) "CE" uygunluk işareti;
 
-1) Ekte belirtilen şekle uygun olarak "CE" harflerinden oluşur ve gerektiğinde, çizimdeki oranlara sadık kalmak kaydıyla büyültülebilir veya küçültülebilir, 2) İlgili teknik düzenlemede aksi belirtilmedikçe, asgari 5 mm yüksekliğinde olmalıdır, 3) Ürüne veya bilgi plakasına, ürünün yapısı gereği bunun mümkün olmadığı ya da istenmediği durumlarda varsa ambalajına ve ilgili teknik düzenlemenin öngörmesi halinde ürün beraberindeki belgelere iliştirilir, 4) Görünür, okunabilir ve silinmeyecek şekilde iliştirilir.
+1) Ekte belirtilen şekle uygun olarak "CE" harflerinden oluşur ve gerektiğinde, çizimdeki oranlara sadık kalmak kaydıyla büyültülebilir veya küçültülebilir,
+
+2) İlgili teknik düzenlemede aksi belirtilmedikçe, asgari 5 mm yüksekliğinde olmalıdır,
+
+3) Ürüne veya bilgi plakasına, ürünün yapısı gereği bunun mümkün olmadığı ya da istenmediği durumlarda varsa ambalajına ve ilgili teknik düzenlemenin öngörmesi halinde ürün beraberindeki belgelere iliştirilir,
+
+4) Görünür, okunabilir ve silinmeyecek şekilde iliştirilir.
 
 e) Ürüne "CE" uygunluk işareti iliştirilmesini öngören teknik düzenlemelerin tüm hükümlerine uygunluğu göstermek açısından, "CE" uygunluk işareti dışında başka bir uygunluk işareti kullanılamaz. f) "CE" uygunluk işareti, üretim kontrol safhasının sonunda iliştirilir. g) "CE" uygunluk işareti, üretici tarafından iliştirilir. İlgili teknik düzenlemenin gerektirdiği durumlarda, "CE" uygunluk işaretinin yanında, üretim kontrol safhasında yer alan onaylanmış kuruluşun Komisyon tarafından verilen kimlik kayıt numarası da yer alır. Onaylanmış kuruluşun kimlik kayıt numarası, kendi sorumluluğu altında, kendisi veya üretici tarafından iliştirilir. h) Belirli ürünlerin kullanımına ilişkin özelliklerin belirtilmesinin gerektiği durumlarda, "CE" uygunluk işareti ve onaylanmış kuruluşun kimlik kayıt numarasından sonra bir piktogram veya kullanım özelliklerini gösteren başka işaretler yer alabilir. ı) Ürüne, "CE" uygunluk işaretinin anlamı ve şekli hakkında üçüncü şahısları yanıltacak başka işaretler iliştirilemez. j) Ulusal veya uluslararası standartlara ya da başka düzenlemelere uygunluğu belirten işaretler, "CE" uygunluk işaretinin görünebilirliğini ve okunabilirliğini engellemeyecek şekilde ürüne, ambalajına veya ürün beraberindeki belgelere iliştirilebilir.
 
@@ -167,11 +173,15 @@ Onaylanmış kuruluş, tasarlanan değişiklikleri değerlendirir ve değiştiri
 
 a) Üretici, tasarım muayene başvurusunu tek bir onaylanmış kuruluşa yapar, b) Başvuru belgesi, ürünün tasarım, üretim ve çalışmasının anlaşılmasını sağlayacak şekilde hazırlanır. Bu belge ilgili teknik düzenlemede belirtilen gereklere uygunluğun denetlenmesini temin eder ve aşağıdakileri içerir;
 
-1) Standartlar dahil, uygulanmış olan teknik tasarım özellikleri, 2) Özellikle ilgili teknik düzenlemede belirtilen standartların tam olarak uygulanmadığı durumda, teknik tasarım özelliklerinin yeterliliklerini kanıtlayacak, üreticinin uygun laboratuvarı tarafından veya üretici adına yapılan testlerin sonuçlarını içeren gerekli destekleyici deliller.
+1) Standartlar dahil, uygulanmış olan teknik tasarım özellikleri,
+
+2) Özellikle ilgili teknik düzenlemede belirtilen standartların tam olarak uygulanmadığı durumda, teknik tasarım özelliklerinin yeterliliklerini kanıtlayacak, üreticinin uygun laboratuvarı tarafından veya üretici adına yapılan testlerin sonuçlarını içeren gerekli destekleyici deliller.
 
 c) Onaylanmış kuruluş, başvuruyu inceler ve tasarımın ilgili teknik düzenleme hükümlerini karşılaması durumunda başvurana tasarım muayene belgesi verir. Bu belge, muayene sonuçlarını, geçerlilik koşullarını, onaylanan tasarımın tanınması için gerekli bilgiyi ve gerektiğinde ürünün fonksiyonunun tanımını kapsar, d) Başvuru sahibi, onaylanan tasarımda yapmayı planladığı herhangi bir değişiklik hakkında tasarım muayene belgesini veren onaylanmış kuruluşu bilgilendirir. İlgili teknik düzenlemede belirtilen temel gereklere uygunluğu veya ürünün tanımlanan kullanım şartlarını etkileyen değişikliklerin olması durumunda, onaylanan tasarımdaki bu değişiklikler için, tasarım muayene belgesini veren onaylanmış kuruluştan ilave onay alınır. Bu ek onay, önceki asıl tasarım onay belgesinin eki olarak verilir. e) Onaylanmış kuruluşlar, diğer onaylanmış kuruluşlara aşağıdaki konularla ilgili bilgileri iletir;
 
-1) Tasarım muayene belgeleri ve ilaveleri, 2) Geri çekilen tasarım onayları ve ek onaylar.
+1) Tasarım muayene belgeleri ve ilaveleri,
+
+2) Geri çekilen tasarım onayları ve ek onaylar.
 
 **DÖRDÜNCÜ BÖLÜM Çeşitli Hükümler**
 

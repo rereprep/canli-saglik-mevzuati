@@ -235,7 +235,17 @@ Fon Kurulması
 
 a) Fonun gelirleri şunlardır:
 
-1. Uygulamanın gereği olarak yapılacak yatırım ve harcamalarla gerekli araç, gereç ve malzeme alımları, 2. Mera, yaylak ve kışlakların ıslahı, bakımı ve geliştirilmesi ile ilgili-giderler, 3. Yem bitkileri ekilişlerinin geliştirilmesi amacıyla uygulanacak proje giderleri, 4. Uygulama gereği olarak yapılacak eğitim giderleri, 5. Uygulamanın gerektirdiği cari giderler, 6. Bu Kanunun uygulanmasında gerekli olan diğer giderler.
+1. Uygulamanın gereği olarak yapılacak yatırım ve harcamalarla gerekli araç, gereç ve malzeme alımları,
+
+2. Mera, yaylak ve kışlakların ıslahı, bakımı ve geliştirilmesi ile ilgili-giderler,
+
+3. Yem bitkileri ekilişlerinin geliştirilmesi amacıyla uygulanacak proje giderleri,
+
+4. Uygulama gereği olarak yapılacak eğitim giderleri,
+
+5. Uygulamanın gerektirdiği cari giderler,
+
+6. Bu Kanunun uygulanmasında gerekli olan diğer giderler.
 
 Bu maddenin birinci fıkrasının (a) bendinin 1 numaralı alt bendinde belirtilen pay, ilgili kurum tarafından yıllık bütçesinin hazırlanması sırasında hesaplanarak, bütçesinin transfer tertibine ödenek olarak konur. Transfer tertibine konan bu ödenek, bütçenin başlangıcını takip eden 1 ay içinde Mera Fonu gider hesabına aktarılır.
 

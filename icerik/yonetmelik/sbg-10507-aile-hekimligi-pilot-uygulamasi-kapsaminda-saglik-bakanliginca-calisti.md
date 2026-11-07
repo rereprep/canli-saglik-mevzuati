@@ -204,7 +204,15 @@ esas alınır.
 
 **D) Gezici sağlık hizmetleri giderleri:** Sözleşmeyle çalıştırılan aile hekimine kırsalda verdiği gezici sağlık hizmeti giderleri için yapılacak ödemelerde gezici sağlık hizmeti kapsamındaki nüfus;
 
-1) 500 den az ise tavan ücretin % 0’ı, 2) 500 ila1000 kişi ise tavan ücretin ’u, 3) 1001 ila 1500 kişi ise tavan ücretin ’si, 4) 1501 ila 2000 kişi ise tavan ücretin 0’u, 5) 2001 kişiden fazla ise tavan ücretin @’ı,
+1) 500 den az ise tavan ücretin % 0’ı,
+
+2) 500 ila1000 kişi ise tavan ücretin ’u,
+
+3) 1001 ila 1500 kişi ise tavan ücretin ’si,
+
+4) 1501 ila 2000 kişi ise tavan ücretin 0’u,
+
+5) 2001 kişiden fazla ise tavan ücretin @’ı,
 
 esas alınır.
 

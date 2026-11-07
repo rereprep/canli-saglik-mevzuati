@@ -54,12 +54,12 @@ table.liste th[aria-sort=descending]::after{content:" ▼";font-size:.75em}
 .metin p.h-sol{text-align:left;margin-bottom:4px}
 .metin p.h-sag{text-align:right}
 .metin .sayi-satir{display:flex;justify-content:space-between;gap:16px}
-.metin .imza{width:fit-content;max-width:60%;margin:22px 0 18px auto;text-align:center}
+.metin .imza{width:fit-content;max-width:60%;margin:2.6em 0 2em auto;text-align:center}
 .metin .imza p{margin:0}
-.metin .onay{width:fit-content;max-width:60%;margin:22px auto 18px 0;text-align:center}
-.metin .olur{width:fit-content;max-width:60%;margin:22px auto 18px;text-align:center}
+.metin .onay{width:fit-content;max-width:60%;margin:2em auto 1.6em 0;text-align:center}
+.metin .olur{width:fit-content;max-width:60%;margin:2em auto 1.6em;text-align:center}
 .metin .onay p,.metin .olur p{margin:0}
-.metin .iki-sutun{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:9px}
+.metin .iki-sutun{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:0 0 9px}
 .metin .iki-sutun p{margin:0}
 @media (max-width:640px){.metin .iki-sutun{grid-template-columns:1fr;gap:9px}}
 .metin small{color:#4b5560;font-size:.82rem}
@@ -85,3 +85,8 @@ table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 @media (max-width:700px){.menu a{margin:0 14px 0 0}.ana-ara{flex-direction:column}table.liste th:nth-child(n+3),table.liste td:nth-child(n+3){display:none}table.kunye th{width:38%}table.kunye td,table.kunye th{padding:6px 8px;word-break:normal;overflow-wrap:anywhere}}
 @media print{.ust,.alt,.indir,.metin-ara,.yol,.etiketler{display:none}main{box-shadow:none}}
 
+
+/* resmî yazı boşlukları (PDF ölçüleri): başlık→Sayı 1 satır, Konu→hitap 2 satır, hitap→metin 1,5 satır, Dağıtım→Gereği/Bilgi boşluksuz */
+.metin p.h-orta + p.h-sol{margin-top:1.2em}
+.metin p.h-sol + p.h-orta{margin-top:2em;margin-bottom:1.5em}
+.metin p.h-sol:has(+ .iki-sutun){margin-bottom:0}

@@ -79,7 +79,13 @@ a) Genel idare hizmetleri sınıfına dahil kadrolarda bulunanlarla üst yöneti
 
 1. B i r i n ci derece kadrolarda bulunanlar için % 100' üne, 2. i k i n ci derece kadrolarda bulunanlar için % 52'sine, 3. üçüncü derece kadrolarda bulunanlar için % 37'sine, 4. Dördüncü derece kadrolarda bulunanlar için % 22'sine, b) Teknik ve sağlık hizmetleri sınıflarına dahil kadrolarda görev yapanlardan;
 
-1. Dört yıl ve daha f a z la süreli yüksek öğrenim veren okul mezunları için 7. 75 ine, 2. Dört yıldan asağı yükseköğrenim veren okul mezunları için % 55' ine, 3. Lise dengi mesleki öğrenim veren okul mezunları için % 48' ine, 4. Yalnızca Sağlık Hizmetleri Sınıfına dahil kadrolarda görev yapan ortaokul dengi mesleki okul mezunları için % 29' una Yürütme ve İdare Bölümü Sayfa : 4 Ancak,kurumların teknik ve s a ğ l ık hizmetleri s ı n ı f l a r ı na a it k a d r o l a r ı n da g ö r e v li olup da, bu g ö r e v l e ri i le i l g i li olmayan bir üst öğrenimi b i t i r e n l er i ç in önceki ögrenim durumlarına a it tazminat n i s b e t l e ri esas a l ı n ı r.
+1. Dört yıl ve daha f a z la süreli yüksek öğrenim veren okul mezunları için 7. 75 ine,
+
+2. Dört yıldan asağı yükseköğrenim veren okul mezunları için % 55' ine,
+
+3. Lise dengi mesleki öğrenim veren okul mezunları için % 48' ine,
+
+4. Yalnızca Sağlık Hizmetleri Sınıfına dahil kadrolarda görev yapan ortaokul dengi mesleki okul mezunları için % 29' una Yürütme ve İdare Bölümü Sayfa : 4 Ancak,kurumların teknik ve s a ğ l ık hizmetleri s ı n ı f l a r ı na a it k a d r o l a r ı n da g ö r e v li olup da, bu g ö r e v l e ri i le i l g i li olmayan bir üst öğrenimi b i t i r e n l er i ç in önceki ögrenim durumlarına a it tazminat n i s b e t l e ri esas a l ı n ı r.
 
 S a ğ l ık Hizmetleri S ı n ı f ı na dahil kadrolarda görev yapmakta olan Uzman Tabip kariyerine haiz olanlara 5 puana kadar, Teknik ve S a ğ l ık Hizmetleri S ı n ı f ı na dahil kadrolarda bulunan personelden kalkınmada ö n c e l i k li y ö r e l e r de ç a l ı ş a n l a ra a y r ı ca 10 puana kadar, ilave y a p ı l a b i l i r.
 

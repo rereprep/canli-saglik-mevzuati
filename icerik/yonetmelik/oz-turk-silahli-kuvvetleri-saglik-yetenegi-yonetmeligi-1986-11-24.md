@@ -315,7 +315,13 @@ Sıhhi izin süresini doldurmak durumuna girenler, sıhhi izin sürelerini doldu
 
 **Madde 32 –** Sıhhi izin süreleri aşağıda gösterilmiştir.
 
-1) Her tür tüberküloz için üç yıl, 2) Her tür kanser, kötü huylu tümörler için üç yıl, 3) Her tür akıl ve ruh hastalıkları için üç yıl, 4) Hastalık ve arızalar listesinde açıklanmayan ve bu maddenin 1, 2 ve 3 üncü bentleri dışında kalan hastalıklar ve arızalar için sıhhi izin süresi iki yıldır.
+1) Her tür tüberküloz için üç yıl,
+
+2) Her tür kanser, kötü huylu tümörler için üç yıl,
+
+3) Her tür akıl ve ruh hastalıkları için üç yıl,
+
+4) Hastalık ve arızalar listesinde açıklanmayan ve bu maddenin 1, 2 ve 3 üncü bentleri dışında kalan hastalıklar ve arızalar için sıhhi izin süresi iki yıldır.
 
 5) Hastalık ve arızalardan dolayı tedavi için hastanede yatarak geçen günlerle ayaktan tanı ve kontrol için geçen günler sıhhi izin süresinden sayılmaz.
 
@@ -1135,7 +1141,15 @@ SEKİZİNCİ BÖLÜM Yedek Subay Adayları ile öğrencilerin ve Yedek Subaylar�
 
 **Madde 78 –** 1076 sayılı Kanuna göre yedek subay yetiştirilecek adaylar şevklerinden önce askerlik şubelerinde kurulan Askerlik Meclisindeki çifte tabibe, bu muayenelere yetişemiyenler ise sevk edildikleri Askeri Hastanelerdeki, baştabipçe tefrik edilecek çifte tabibe muayene ettirilir. Bu muayeneler sonucunda adaylar hakkında "Sağlam-Askerliğe Elverişlidir" veya "Askeri Hastane Sağlık Kurulunca Muayenesi Uygundur" kararı verilir. Çifte tabip tarafından sağlam kararı verilen adaylardan;
 
-1) Tam sağlam olanlar, 2) Kas ve iskelet sistemi gelişmiş ve çevik olanlar, 3) Yargılama ve kavrama yeteneği süratli bulunanlar, 4) Refleksleri kuvvetli olanlar, 5) Görme derecesi düzeltmesiz tam olanlar, ayrılarak "Komando olabilir" şeklinde rapor alabilmeleri için, Askeri Hastane sağlık kuruluna sevk edilir.
+1) Tam sağlam olanlar,
+
+2) Kas ve iskelet sistemi gelişmiş ve çevik olanlar,
+
+3) Yargılama ve kavrama yeteneği süratli bulunanlar,
+
+4) Refleksleri kuvvetli olanlar,
+
+5) Görme derecesi düzeltmesiz tam olanlar, ayrılarak "Komando olabilir" şeklinde rapor alabilmeleri için, Askeri Hastane sağlık kuruluna sevk edilir.
 
 Askerliğe elverişli olma veya askerliğe elverişli olmama durumu aşağıdaki esaslara göre tesbit edilir.
 

@@ -29,7 +29,11 @@ Aile Hekimliği Uygulama Yönetmeliği’nin “<i>Tetkik ve tahlil işlemleri�
 
 Birinci basamak teşhis ve tedavi edici sağlık hizmetleri ile aile hekimliği hizmetlerinde önemli bir yeri olan kronik hastalık tarama ve takibine yönelik hizmetlerin daha nitelikli ve etkin sunulması, yapılan analizlerin doğru, güvenilir ve zamanında sonuçlandırılması ve sahada uygulama birliğinin sağlanması amacıyla aile sağlığı merkezlerinde yapılacak tetkiklere ilişkin olarak aşağıdaki hususlara uyulacaktır. Buna göre;
 
-1. Hizmet yeri fark etmeksizin; İlinizdeki tüm aile sağlığı merkezlerinde ekli listede yer alan tetkiklerin aile hekimleri tarafından istem yapılarak ilgili laboratuvarlarda çalışılabilmesinin sağlanması, tetkiklerin aynı anda hepsinin topluca işaretlenmemesine yönelik tedbirlerin alınması, 2. Aile sağlığı merkezlerinde yalnızca haftanın belirli günlerinde değil haftanın her mesai günü tetkik isteminin yapılabilmesi, örneklerin ise aile sağlığı merkezinden en erken saat 11:00’de alınacak şekilde ring sisteminin oluşturulması, 3. Tetkik sonucunun mümkün olduğunca aynı gün içinde verilmesi (ancak zorunlu hallerde en geç ertesi gün saat 12.00’ye kadar verilmesi),
+1. Hizmet yeri fark etmeksizin; İlinizdeki tüm aile sağlığı merkezlerinde ekli listede yer alan tetkiklerin aile hekimleri tarafından istem yapılarak ilgili laboratuvarlarda çalışılabilmesinin sağlanması, tetkiklerin aynı anda hepsinin topluca işaretlenmemesine yönelik tedbirlerin alınması,
+
+2. Aile sağlığı merkezlerinde yalnızca haftanın belirli günlerinde değil haftanın her mesai günü tetkik isteminin yapılabilmesi, örneklerin ise aile sağlığı merkezinden en erken saat 11:00’de alınacak şekilde ring sisteminin oluşturulması,
+
+3. Tetkik sonucunun mümkün olduğunca aynı gün içinde verilmesi (ancak zorunlu hallerde en geç ertesi gün saat 12.00’ye kadar verilmesi),
 
 Tetkik hizmetlerine ilişkin iş bu yazıdaki güncellemelerin uygulamaya konulması hususunda;
 

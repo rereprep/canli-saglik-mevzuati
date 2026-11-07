@@ -380,7 +380,9 @@ Su/ Sterilizasyon Suyu bildirimi/Özel mL Yönergesi Numuneleri başvuru Yüzme 
 
 **Şekil 2. KUYU VE BENZERİ YERLERDEN NUMUNE ALMA**
 
-1. Spiral kavrama, Yarım kavrama ile taş alınır. 2. Bir parça ip kullanarak temiz bir ağırlığı numune alınacak şişeye bağlanır 3. 20 metre uzunluğunda, bir sopanın etrafına dolanmış, temiz 4. Ağırlık bağlanmış şişeyi ve ipi yavaş yavaş açarak kuyuya bir ip alınır ve şişeye bağlanır indirilir. Şişenin kuyu duvarlarına değmesine izin verilmez.
+1. Spiral kavrama, Yarım kavrama ile taş alınır.
+
+2. Bir parça ip kullanarak temiz bir ağırlığı numune alınacak şişeye bağlanır 3. 20 metre uzunluğunda, bir sopanın etrafına dolanmış, temiz 4. Ağırlık bağlanmış şişeyi ve ipi yavaş yavaş açarak kuyuya bir ip alınır ve şişeye bağlanır indirilir. Şişenin kuyu duvarlarına değmesine izin verilmez.
 
 5. Şişeyi tümüyle suyun içine batırılır ve kuyunun dibine 6. Şişenin dolduğuna kanaat getirdikten sonra ipi tekrar sopaya vurmadan veya herhangi bir tortu kaldırmadan yüzeyin iyice sararak şişeyi yukarıya çekilir. Şişe tamamen dolmuşsa, hava altına indirilir. dolu bir hacim açmak için birazı dökülür. Daha önce belirtildiği gibi şişenin tıpası veya kapağı kapatılır.
 

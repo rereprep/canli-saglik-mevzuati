@@ -23,7 +23,15 @@ R.G. Tarihi:01.12.1999 R.G. Sayısı:23893
 
 A) Genel Şartlar:
 
-1) Atama yapılacak boş kadro bulunması, 2) Dört veya daha yukarı derecedeki kadrolara atanacaklar için asgari olarak 657 sayılı Devlet Memurları Kanunu’nun değişik 68 inci maddesinin (B) bendinde belirtilen şartları taşımak, 3) Görevde yükselme eğitimi sonunda yapılacak değerlendirme sonucu başarılı bulunmak ve yapılacak sınavdan en az 70 puan almış olmak, 4) Son sicil notunun olumlu ve son üç yıllık sicil notu ortalamasının en az 70 puan olması, 5) Şef, uzman, müdür yardımcısı, müdür ve şube müdürü kadrolarına atanacakların hizmet süresi içerisinde aylıktan kesme cezasından daha ağır bir ceza almamış olması, şarttır.
+1) Atama yapılacak boş kadro bulunması,
+
+2) Dört veya daha yukarı derecedeki kadrolara atanacaklar için asgari olarak 657 sayılı Devlet Memurları Kanunu’nun değişik 68 inci maddesinin (B) bendinde belirtilen şartları taşımak,
+
+3) Görevde yükselme eğitimi sonunda yapılacak değerlendirme sonucu başarılı bulunmak ve yapılacak sınavdan en az 70 puan almış olmak,
+
+4) Son sicil notunun olumlu ve son üç yıllık sicil notu ortalamasının en az 70 puan olması,
+
+5) Şef, uzman, müdür yardımcısı, müdür ve şube müdürü kadrolarına atanacakların hizmet süresi içerisinde aylıktan kesme cezasından daha ağır bir ceza almamış olması, şarttır.
 
 B) Özel Şartlar:
 

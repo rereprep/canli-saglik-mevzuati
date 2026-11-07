@@ -104,7 +104,19 @@ MADDE 2- Bu Protokolün konusu, Genel Müdürlük ile Belediye arasında HIV/AID
 
 **MADDE 3- Protokol kapsamında Genel Müdürlüğün yükümlülükleri şunlardır;**
 
-1. Protokol kapsamındaki işlerin koordinasyonunun sağlanması, 2. Riskli davranışta bulunan kişilere uygulanacak testlerin temin edilmesi, 3. Anonim test sonucu pozitif tespit edilen kişilerin yönlendirileceği merkezlerin ve hekimlerin belirlenmesi, 4. Test ve yönlendirme algoritmasının hazırlanması, 5. Merkeze başvuran kişilere ait bilgilerin toplanması için veri tabanı hazırlanması, 6. Danışmanlık ve Test Merkezinde çalışan personelin eğitimine destek verilmesi, 7. Hastalığın bulaşının önlenmesine yönelik koruyucu malzeme sağlanması hususunda girişimlerde bulunulması.
+1. Protokol kapsamındaki işlerin koordinasyonunun sağlanması,
+
+2. Riskli davranışta bulunan kişilere uygulanacak testlerin temin edilmesi,
+
+3. Anonim test sonucu pozitif tespit edilen kişilerin yönlendirileceği merkezlerin ve hekimlerin belirlenmesi,
+
+4. Test ve yönlendirme algoritmasının hazırlanması,
+
+5. Merkeze başvuran kişilere ait bilgilerin toplanması için veri tabanı hazırlanması,
+
+6. Danışmanlık ve Test Merkezinde çalışan personelin eğitimine destek verilmesi,
+
+7. Hastalığın bulaşının önlenmesine yönelik koruyucu malzeme sağlanması hususunda girişimlerde bulunulması.
 
 **Belediyenin yükümlülükleri**
 

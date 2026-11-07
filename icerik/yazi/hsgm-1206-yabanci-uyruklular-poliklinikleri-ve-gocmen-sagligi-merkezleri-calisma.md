@@ -33,7 +33,15 @@ YUP ve GSM’lerde “6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu�
 
 Bu kapsamda il sağlık müdürlüklerince;
 
-1) İl Göç İdaresi Müdürlüğü ile iş birliği halinde, bölgedeki nüfus hareketleri ve yabancı nüfusun dağılımı ve hizmete erişimde dikkate alınarak güncel planlamaların yapılması, 2) Yabancı nüfusun yoğun olduğu bölgelerde, sağlık hizmeti sunumuna uygun mekânda, her il ve ilçede 1.000–4.000 arası kişiye en az bir (1) adet YUP açılması, 3) Aynı adreste birden fazla birim açılması durumunda üst birimin “Yabancı Uyruklular Polikliniği (YUP)”, alt birimin ise “Yabancı Uyruklular Birimi (YUB)” olarak tanımlanması, 4) Nüfusun düşük olması nedeniyle GSM/YUP açılamayan yerlerde söz konusu kişilere birinci basamak sağlık hizmetlerinin ilçe sağlık müdürlüğü/TSM’lerce sunulması, 5) Açma, kapatma ve adres değişikliği işlemlerinin, il sağlık müdürlüğünün talebi üzerine Halk Sağlığı Genel Müdürlüğünce gerçekleştirilmesi,
+1) İl Göç İdaresi Müdürlüğü ile iş birliği halinde, bölgedeki nüfus hareketleri ve yabancı nüfusun dağılımı ve hizmete erişimde dikkate alınarak güncel planlamaların yapılması,
+
+2) Yabancı nüfusun yoğun olduğu bölgelerde, sağlık hizmeti sunumuna uygun mekânda, her il ve ilçede 1.000–4.000 arası kişiye en az bir (1) adet YUP açılması,
+
+3) Aynı adreste birden fazla birim açılması durumunda üst birimin “Yabancı Uyruklular Polikliniği (YUP)”, alt birimin ise “Yabancı Uyruklular Birimi (YUB)” olarak tanımlanması,
+
+4) Nüfusun düşük olması nedeniyle GSM/YUP açılamayan yerlerde söz konusu kişilere birinci basamak sağlık hizmetlerinin ilçe sağlık müdürlüğü/TSM’lerce sunulması,
+
+5) Açma, kapatma ve adres değişikliği işlemlerinin, il sağlık müdürlüğünün talebi üzerine Halk Sağlığı Genel Müdürlüğünce gerçekleştirilmesi,
 
 6) Merkezlerin, ilin imkanları doğrultusunda asgari düzeyde bir aile sağlığı merkezi, birimlerin ise aile hekimliği birimi standartlarına (mekân, teknik donanım, tıbbi sarf malzemesi vb.) göre yapılandırılması, 7) Sağlık hizmet sunumunda, tam gün esasına göre, her bir birimde en az bir (1) hekim ile bir (1) ebe veya hemşire görevlendirilmesi, personelin hizmet içi eğitim planlarına dahil edilmesi, 8) GSM’lere sorumlusu hekim olarak Bakanlığımız personelinin görevlendirilmesi, hekim sayısının yetersiz olduğu durumlarda bir (1) hekimin birden fazla merkezde sorumluluk görevini yürütmesinin sağlanması, 9) İmkân dahilinde sağlık personeli ve başvuru sahiplerinin tercüme hizmetleri ile desteklenmesi,
 

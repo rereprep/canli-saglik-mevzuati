@@ -38,6 +38,10 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## Bilinen eksikler / sonraki adımlar
 
+### 2026-11-07 — Resmî yazı boşlukları ve numaralı bentler
+- stil.css (PDF ölçüleri): kurum başlığı→Sayı 1,2em; Konu→hitap 2em, hitap→metin 1,5em (p.h-sol + p.h-orta); metin→imza 2,6em, imza→Dağıtım 2em; Dağıtım:→Gereği/Bilgi boşluksuz (:has). PDF üreticide karşılık gelen Spacer'lar.
+- Tek paragrafa birleşmiş sıralı numaralı bentler ("1. …, 2. …, 3. …" / "1) …") ayrı paragraflara bölündü: 23 belge, 41 paragraf (yalnız satır sonu değişti).
+
 ### 2026-11-07 — Olur yazılarında imza blokları
 - hizalar(): "Uygun görüşle arz (ve teklif) ederim" ile başlayan blok → onay (solda, kendi içinde ortalı); "OLUR/O L U R/Olur" satırı içeren blok → olur (ortada). Ardından gelen en çok 3 satırlık kısa bloklar (tarih, ad, unvan) aynı gruba katılır. Yazıyı yazanın imzası imza (sağda) olarak kalır. CSS .onay/.olur; Word ve PDF'te de ayrı hizalama.
 - Stil dosyası bağlantısına içerik özetli sürüm eki (stil.css?v=...) eklendi; stil değişince tarayıcı önbelleği yenilenir.

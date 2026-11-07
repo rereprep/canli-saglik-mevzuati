@@ -29,7 +29,15 @@ Bakanlar Kurulu, özel indirim tutarlarını, sanayi kesiminde çalışan 16 ya�
 
 Mükerrer Madde 39. — Ticarî faaliyete bağlı olarak elde edilen aşağıda yazılı gelirler ticarî kazançtan indirilir :
 
-1. Geliri vergiden müstesna bulunan menkul kıymetlerin iratları, 2. Devlet tahvili ve Hazine bonosu faizleri, 3. Kurumlardan elde edilen ve Türkiye'de kurumlar vergisine veya 94 üncü maddenin (A) fıkrasının 8 ve 15 numaralı bentlerine göre vergi tevkifatına tabi tutulmuş kâr payları, 4. Yatırım fonları katılma belgelerine ve yatırım ortaklıkları hisse senetlerine ödenen kâr payları, 5. Toplu Konut idaresi ile Kamu Ortaklığı idaresince çıkarılan, Gelir Vergisi Kanununun 75 inci maddesinin 5 numaralı bendinde yer alan menkul kıymetlerden sağlanan iratlar.
+1. Geliri vergiden müstesna bulunan menkul kıymetlerin iratları,
+
+2. Devlet tahvili ve Hazine bonosu faizleri,
+
+3. Kurumlardan elde edilen ve Türkiye'de kurumlar vergisine veya 94 üncü maddenin (A) fıkrasının 8 ve 15 numaralı bentlerine göre vergi tevkifatına tabi tutulmuş kâr payları,
+
+4. Yatırım fonları katılma belgelerine ve yatırım ortaklıkları hisse senetlerine ödenen kâr payları,
+
+5. Toplu Konut idaresi ile Kamu Ortaklığı idaresince çıkarılan, Gelir Vergisi Kanununun 75 inci maddesinin 5 numaralı bendinde yer alan menkul kıymetlerden sağlanan iratlar.
 
 **MADDE 4 –** 31.12.1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun değişik 75 inci maddesinin ikinci fıkrasının değişik 1 numaralı bendinde yer alan "....Menkul Kıymetler Yatırım Fonları...." ifadesi, "....Sermaye Piyasası Kanununa göre kurulan yatırım fonları...." şeklinde, aynı fıkranın 5 numaralı bendi de aşağıdaki şekilde değiştirilmiştir.
 

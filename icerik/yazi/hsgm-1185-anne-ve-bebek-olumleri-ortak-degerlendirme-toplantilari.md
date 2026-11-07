@@ -25,7 +25,15 @@ Anne ve bebek sağlığı göstergeleri birbiriyle yakından ilişkili olup, geb
 
 Bu çerçevede;
 
-1. Anne Ölümleri İl İnceleme Komisyonları ile Bebek Ölümleri İnceleme Kurulları çalışmalarında tespit edilen sistemsel sorunların, hizmet sunumuna ilişkin aksaklıkların, sevk zinciri uygulamalarının, riskli gebelik yönetiminin, doğum hizmetlerinin, yenidoğan bakım süreçlerinin ve benzeri ortak konuların karşılıklı olarak değerlendirilmesi, 2. İhtiyaç duyulması halinde veya yılda en az iki kez Anne Ölümleri İl İnceleme Komisyonu ile Bebek Ölümleri İnceleme Kurulu üyelerinin katılımıyla ortak değerlendirme toplantıları düzenlenmesi, 3. Söz konusu toplantılarda il düzeyindeki anne ve bebek ölüm eğilimlerinin, önlenebilir ölüm nedenlerinin, üç gecikme modeli kapsamında değerlendirilen hususların ve alınması gereken iyileştirme tedbirlerinin görüşülmesi, 4. Toplantılarda alınan kararların ilgili birimler tarafından izlenmesi, değerlendirilmesi ve il düzeyindeki sağlık hizmeti planlamalarına yansıtılması, 5. Ortak değerlendirme toplantılarında alınan kararları, tespit edilen öncelikli risk alanlarını, planlanan ve uygulanan iyileştirme faaliyetlerini içeren sonuç raporlarının altı aylık dönemler halinde hazırlanarak Bakanlığımız Halk Sağlığı Genel Müdürlüğüne gönderilmesi, hususlarında gerekli hassasiyetin gösterilmesi ve çalışmaların bu doğrultuda yürütülmesi konusunda;
+1. Anne Ölümleri İl İnceleme Komisyonları ile Bebek Ölümleri İnceleme Kurulları çalışmalarında tespit edilen sistemsel sorunların, hizmet sunumuna ilişkin aksaklıkların, sevk zinciri uygulamalarının, riskli gebelik yönetiminin, doğum hizmetlerinin, yenidoğan bakım süreçlerinin ve benzeri ortak konuların karşılıklı olarak değerlendirilmesi,
+
+2. İhtiyaç duyulması halinde veya yılda en az iki kez Anne Ölümleri İl İnceleme Komisyonu ile Bebek Ölümleri İnceleme Kurulu üyelerinin katılımıyla ortak değerlendirme toplantıları düzenlenmesi,
+
+3. Söz konusu toplantılarda il düzeyindeki anne ve bebek ölüm eğilimlerinin, önlenebilir ölüm nedenlerinin, üç gecikme modeli kapsamında değerlendirilen hususların ve alınması gereken iyileştirme tedbirlerinin görüşülmesi,
+
+4. Toplantılarda alınan kararların ilgili birimler tarafından izlenmesi, değerlendirilmesi ve il düzeyindeki sağlık hizmeti planlamalarına yansıtılması,
+
+5. Ortak değerlendirme toplantılarında alınan kararları, tespit edilen öncelikli risk alanlarını, planlanan ve uygulanan iyileştirme faaliyetlerini içeren sonuç raporlarının altı aylık dönemler halinde hazırlanarak Bakanlığımız Halk Sağlığı Genel Müdürlüğüne gönderilmesi, hususlarında gerekli hassasiyetin gösterilmesi ve çalışmaların bu doğrultuda yürütülmesi konusunda;
 
 Gereğini rica ederim.
 

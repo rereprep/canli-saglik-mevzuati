@@ -163,7 +163,11 @@ C- Fizyoterapist, diyetisyen, psikolog ve sosyal çalışmacı: Evde sağlık hi
 
 D- Ekipte görevlendirilen diğer personelin görev, yetki ve sorumlulukları şunlardır:
 
-1) Evde sağlık hizmetleri ekibinde yer alan şoför; ekibin hizmet yerine güvenli bir şekilde götürülüp getirilmesinden, aracın her zaman harekete hazır ve faal tutulmasından, aracın temizlik, bakım ve onarımlarının zamanında yaptırılmasından, 2) Kayıt ve arşivleme işlemleri için görevlendirilen personel; evde bakım hizmetleri ile ilgili kayıtların doğru, okunaklı ve noksansız tutulmasından muhafazasından, kayıtlara ilişkin bilgi, belge ve dokümanların arşivlenmesinden ve muhafazasından, 3) Haberleşme ve iletişimin sağlanması amacıyla görevlendirilen personel;
+1) Evde sağlık hizmetleri ekibinde yer alan şoför; ekibin hizmet yerine güvenli bir şekilde götürülüp getirilmesinden, aracın her zaman harekete hazır ve faal tutulmasından, aracın temizlik, bakım ve onarımlarının zamanında yaptırılmasından,
+
+2) Kayıt ve arşivleme işlemleri için görevlendirilen personel; evde bakım hizmetleri ile ilgili kayıtların doğru, okunaklı ve noksansız tutulmasından muhafazasından, kayıtlara ilişkin bilgi, belge ve dokümanların arşivlenmesinden ve muhafazasından,
+
+3) Haberleşme ve iletişimin sağlanması amacıyla görevlendirilen personel;
 
 evde sağlık hizmeti ekibinin birbirleriyle olan iletişimini ve evde sağlık hizmeti alacak kişi ve aile bireyleri ile iletişimlerini, randevu ve danışma hizmetlerini düzenler, yürüttüğü hizmetlerin kayıt altına alınması ve muhafazasından, görevli ve sorumludur.
 

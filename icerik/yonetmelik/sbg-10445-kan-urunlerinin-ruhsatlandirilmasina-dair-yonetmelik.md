@@ -209,4 +209,16 @@ Her çalışmayla ilgili olarak aşağıdakiler sağlanmalıdır. 1.1. Bir özet
 
 Kan Ürünlerinin Satış İzninin Alınması İçin Bakanlığa Sunulacak Dosyada Bulunması Gereken Bilgi ve Belgeler Satış İzni İçin İstenilen Bilgi ve Belgeler
 
-1. Ürünün adı ve içeriği, 2. Her seri için akridite edilmiş milli veya uluslararası laboratuvar tarafından verilen Batch/Lot Release Sertifikası (Ulusal Sağlık Otoritesi tasdikli), 3. Analiz Sertifikası (Her seri için üretim merkezinin teknik müdürü tarafından onaylanmış ve noter tarafından tasdik edilmiş), 4. Her serinin bir Avrupa Birliği Ülkesinde veya ABD’de üretilen bir ürünün aynı seriden olmak üzere kendi ülkesinde veya başka bir AB ülkesinde satıldığını gösteren üretici firma tarafından düzenlenmiş belge (apostil onaylı), 5. Plazma bağışında esas alınan kurallar, plazmanın toplanma tarihi ve donör tipi (gönüllü, paralı) ve gerekli durumlarda donörlerin listesi, 6. Her bir donörün Hepatit B, Hepatit C ve HIV ½ yönünden test edildiği ve plazma havuzunda ve üretim aşamasında viral testlerin tekrarlandığını ve ayrıca plazma havuzunda HCV RNA testin uygulandığını ve neticelerini belirten belgenin yukarıda belirtilen laboratuvar tarafından verilmesi, 7. Her seri için donörlerin Creutzfeld-Jacob (CJ) hastalığı ile ilgili olarak hastalık veya hastalık şüphesi yönünden güvenli olduğuna ve donörler arasında CJ hastalığı tanısı olmadığına dair üretici firma tarafından verilecek orijinal belge (apostil onaylı).
+1. Ürünün adı ve içeriği,
+
+2. Her seri için akridite edilmiş milli veya uluslararası laboratuvar tarafından verilen Batch/Lot Release Sertifikası (Ulusal Sağlık Otoritesi tasdikli),
+
+3. Analiz Sertifikası (Her seri için üretim merkezinin teknik müdürü tarafından onaylanmış ve noter tarafından tasdik edilmiş),
+
+4. Her serinin bir Avrupa Birliği Ülkesinde veya ABD’de üretilen bir ürünün aynı seriden olmak üzere kendi ülkesinde veya başka bir AB ülkesinde satıldığını gösteren üretici firma tarafından düzenlenmiş belge (apostil onaylı),
+
+5. Plazma bağışında esas alınan kurallar, plazmanın toplanma tarihi ve donör tipi (gönüllü, paralı) ve gerekli durumlarda donörlerin listesi,
+
+6. Her bir donörün Hepatit B, Hepatit C ve HIV ½ yönünden test edildiği ve plazma havuzunda ve üretim aşamasında viral testlerin tekrarlandığını ve ayrıca plazma havuzunda HCV RNA testin uygulandığını ve neticelerini belirten belgenin yukarıda belirtilen laboratuvar tarafından verilmesi,
+
+7. Her seri için donörlerin Creutzfeld-Jacob (CJ) hastalığı ile ilgili olarak hastalık veya hastalık şüphesi yönünden güvenli olduğuna ve donörler arasında CJ hastalığı tanısı olmadığına dair üretici firma tarafından verilecek orijinal belge (apostil onaylı).

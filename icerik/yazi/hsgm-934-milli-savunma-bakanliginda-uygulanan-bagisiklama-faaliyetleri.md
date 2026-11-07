@@ -30,7 +30,13 @@ Bağışıklama Danışma Kurulu tavsiye kararları doğrultusunda, askeri birli
 
 Bu kapsamda;
 
-1) Askeri birliğe katılacak olan yükümlülere uygulanacak olan aşılar ile gerekli görülen diğer aşıları içeren aşı uygulamasının yükümlülerin ''askerlik yoklaması sağlık muayenesi'' sırasında öncelikli olarak aile hekimliği birimlerince yapılması, 2) Herhangi bir sebeple aile hekimliği birimlerince aşı uygulamasının yapılamadığı durumlarda, yükümlülerin başvurması halinde aşı uygulamasının toplum sağlığı merkezleri / ilçe sağlık müdürlükleri tarafından yapılması, 3) İl sağlık müdürlükleri ve MSB’ye bağlı birliklerin koordinasyonunda, birliğe katılış muayeneleri esnasında herhangi bir sebeple birliğe katılış öncesinde aşılanmamış olan yükümlülerin tespiti durumunda aşı uygulamalarının, tespit edildiği birliklerde toplum sağlığı merkezleri/ilçe sağlık müdürlükleri tarafından yapılması, 4) Aşılama hizmetlerinin il sağlık müdürlükleri koordinasyonunda aile hekimliği birimleri, toplum sağlığı merkezleri, ilçe sağlık müdürlükleri tarafından etkin bir şekilde yürütülmesi, hususunda;
+1) Askeri birliğe katılacak olan yükümlülere uygulanacak olan aşılar ile gerekli görülen diğer aşıları içeren aşı uygulamasının yükümlülerin ''askerlik yoklaması sağlık muayenesi'' sırasında öncelikli olarak aile hekimliği birimlerince yapılması,
+
+2) Herhangi bir sebeple aile hekimliği birimlerince aşı uygulamasının yapılamadığı durumlarda, yükümlülerin başvurması halinde aşı uygulamasının toplum sağlığı merkezleri / ilçe sağlık müdürlükleri tarafından yapılması,
+
+3) İl sağlık müdürlükleri ve MSB’ye bağlı birliklerin koordinasyonunda, birliğe katılış muayeneleri esnasında herhangi bir sebeple birliğe katılış öncesinde aşılanmamış olan yükümlülerin tespiti durumunda aşı uygulamalarının, tespit edildiği birliklerde toplum sağlığı merkezleri/ilçe sağlık müdürlükleri tarafından yapılması,
+
+4) Aşılama hizmetlerinin il sağlık müdürlükleri koordinasyonunda aile hekimliği birimleri, toplum sağlığı merkezleri, ilçe sağlık müdürlükleri tarafından etkin bir şekilde yürütülmesi, hususunda;
 
 Bilgilerinizi ve gereğini rica ederim.
 

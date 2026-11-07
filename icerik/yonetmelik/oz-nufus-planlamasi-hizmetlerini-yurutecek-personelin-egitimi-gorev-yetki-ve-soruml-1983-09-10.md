@@ -66,7 +66,9 @@ E- Bakanlık Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürü, Tedavi 
 
 **MADDE 6.-** Komisyon her 4 ayda bir Bakanlığın çağrısı üzerine toplanır. Bakanlık gerektiğinde Komisyonu olağanüstü toplantıya çağırabilir.
 
-1) Komisyonun gündemi, Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü tarafından tespit edilerek toplantı çağrısı ile birlikte 15 gün önce üyelere bildirilir. 2) Komisyon ilk toplantısında kendi içinden bir başkan seçer.
+1) Komisyonun gündemi, Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü tarafından tespit edilerek toplantı çağrısı ile birlikte 15 gün önce üyelere bildirilir.
+
+2) Komisyon ilk toplantısında kendi içinden bir başkan seçer.
 
 3) Komisyon, kararlarını salt çoğunlukla alır.
 

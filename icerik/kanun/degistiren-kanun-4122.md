@@ -105,13 +105,21 @@ a) İthal edilen asli ve tali, gayrimamul, yarımamul ve mamul orman ürünleri 
 
 b) Tahsisli orman emvali satışlarından;
 
-1. Tah sisen satılan yakacak odun ve köylü pazar satışlarından satış bedelinin % l'i, 2. Lif-yonga sanayinin ihtiyacı için tahsisen verilen lif-yonga odunları tahsis bedelinin % 2'si, 3. Kamu kurum ve kuruluşlarına tahsisen verilen tomruk, direk, kâğıtlık ve sanayii odunlarının tahsis bedelinin % 21si, Oranında alınacak paylar.
+1. Tah sisen satılan yakacak odun ve köylü pazar satışlarından satış bedelinin % l'i,
+
+2. Lif-yonga sanayinin ihtiyacı için tahsisen verilen lif-yonga odunları tahsis bedelinin % 2'si,
+
+3. Kamu kurum ve kuruluşlarına tahsisen verilen tomruk, direk, kâğıtlık ve sanayii odunlarının tahsis bedelinin % 21si, Oranında alınacak paylar.
 
 c) 6831 sayılı Orman Kanununun 52 nci maddesi hükmüne göre, özel orman alanlarında % 6 oranında verilen yapılaşma izinlerinde, yetkili birimce onaylı yol, bina ve tesis proje bedellerinin % l'i oranında alınacak paylar.
 
 d) Orman Genel Müdürlüğü Döner Sermaye Yönetmeliği hükümlerine göre yapılan satışlardan;
 
-1. Satış gelirlerinin % 6'sı oranında, 2. Orman Genel Müdürlüğünce hesaplanan kurumlar vergisi üzerinden ayrıca ödenecek % 2'si oranında, 3. Artırmalı orman emvali satışlarında, alıcıdan tahsil edilecek % 3 oranında, Alınacak paylar.
+1. Satış gelirlerinin % 6'sı oranında,
+
+2. Orman Genel Müdürlüğünce hesaplanan kurumlar vergisi üzerinden ayrıca ödenecek % 2'si oranında,
+
+3. Artırmalı orman emvali satışlarında, alıcıdan tahsil edilecek % 3 oranında, Alınacak paylar.
 
 f) 9.8.1983 tarihli 2872 sayılı Çevre Kanunu gereğince oluşturulan "Çevre Kirliliğini Önleme Fona" gelirlerinin % 5'i.
 
