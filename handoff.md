@@ -38,6 +38,13 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## Bilinen eksikler / sonraki adımlar
 
+### 2026-11-07 — Resmî Yazışma Yönetmeliği ve Kılavuzu'na göre biçim
+- Kaynak: Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik (sitede: resmi-yazismalarda-uygulanacak-usul-ve-esaslar-hakkinda-yonetmelik) md. 11-20 ve CB Resmî Yazışma Kılavuzu.
+- stil.css: --satir=1.55em; başlık→Sayı 2 satır; Konu→muhatap 2; muhatap→metin/İlgi 2; İlgi→metin 1; metin→imza 3 (2-4); imza→Ek/Dağıtım 2; Ek/Dağıtım öncesi 1; Dağıtım→Gereği 0; paragraf arası 0, girinti 1,25 cm.
+- Sayı/Konu/İlgi "etiket : değer" ızgarası (kunye_html), devam satırları değerin hizasında. bloklari_duzenle: ayrı paragrafa düşmüş Konu devamını ve İlgi b), c)… maddelerini birleştirir. sol bloklara ilgi/ek/dagitim sınıfı.
+- PDF: aynı satır ölçüleri (SATIR=14 pt), paragraf arası 0, girinti 1,25 cm.
+- Kalan veri kusuru: bazı taranmış yazılarda paragraflar satır sonlarında bölünmüş ("… Sevk" / "Ediniz” …"); genel birleştirme kuralı riskli olduğu için uygulanmadı.
+
 ### 2026-11-07 — Resmî yazı boşlukları ve numaralı bentler
 - stil.css (PDF ölçüleri): kurum başlığı→Sayı 1,2em; Konu→hitap 2em, hitap→metin 1,5em (p.h-sol + p.h-orta); metin→imza 2,6em, imza→Dağıtım 2em; Dağıtım:→Gereği/Bilgi boşluksuz (:has). PDF üreticide karşılık gelen Spacer'lar.
 - Tek paragrafa birleşmiş sıralı numaralı bentler ("1. …, 2. …, 3. …" / "1) …") ayrı paragraflara bölündü: 23 belge, 41 paragraf (yalnız satır sonu değişti).

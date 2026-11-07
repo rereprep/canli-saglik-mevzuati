@@ -48,18 +48,19 @@ table.liste th[aria-sort=descending]::after{content:" ▼";font-size:.75em}
 .metin{max-width:900px;margin:0 auto;font-family:"Times New Roman",Georgia,serif;font-size:1.07rem;text-align:justify}
 .metin h2,.metin h3{text-align:center;font-size:1.05rem;margin:22px 0 8px}
 .metin h4{margin:16px 0 2px;font-size:1rem}
-.metin p{margin:0 0 9px}
-.metin > p:not([class]),.metin > p.madde{text-indent:2.5em}
-.metin p.h-orta{text-align:center;margin-bottom:4px}
-.metin p.h-sol{text-align:left;margin-bottom:4px}
+.metin{--satir:1.55em}
+.metin p{margin:0}
+.metin > p:not([class]),.metin > p.madde{text-indent:1.25cm}
+.metin p.h-orta{text-align:center}
+.metin p.h-sol{text-align:left}
 .metin p.h-sag{text-align:right}
 .metin .sayi-satir{display:flex;justify-content:space-between;gap:16px}
-.metin .imza{width:fit-content;max-width:60%;margin:2.6em 0 2em auto;text-align:center}
+.metin .imza{width:fit-content;max-width:60%;margin:calc(3 * var(--satir)) 0 calc(2 * var(--satir)) auto;text-align:center}
 .metin .imza p{margin:0}
-.metin .onay{width:fit-content;max-width:60%;margin:2em auto 1.6em 0;text-align:center}
-.metin .olur{width:fit-content;max-width:60%;margin:2em auto 1.6em;text-align:center}
+.metin .onay{width:fit-content;max-width:60%;margin:calc(2 * var(--satir)) auto calc(2 * var(--satir)) 0;text-align:center}
+.metin .olur{width:fit-content;max-width:60%;margin:calc(2 * var(--satir)) auto;text-align:center}
 .metin .onay p,.metin .olur p{margin:0}
-.metin .iki-sutun{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:0 0 9px}
+.metin .iki-sutun{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:0}
 .metin .iki-sutun p{margin:0}
 @media (max-width:640px){.metin .iki-sutun{grid-template-columns:1fr;gap:9px}}
 .metin small{color:#4b5560;font-size:.82rem}
@@ -86,7 +87,13 @@ table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 @media print{.ust,.alt,.indir,.metin-ara,.yol,.etiketler{display:none}main{box-shadow:none}}
 
 
-/* resmî yazı boşlukları (PDF ölçüleri): başlık→Sayı 1 satır, Konu→hitap 2 satır, hitap→metin 1,5 satır, Dağıtım→Gereği/Bilgi boşluksuz */
-.metin p.h-orta + p.h-sol{margin-top:1.2em}
-.metin p.h-sol + p.h-orta{margin-top:2em;margin-bottom:1.5em}
+/* Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik (md. 11-20) ölçüleri; 1 satır = --satir */
+.metin h2,.metin h3,.metin h4,.metin .tablo-kap{margin-top:var(--satir)}
+.metin p.h-orta + p.h-sol{margin-top:calc(2 * var(--satir))}                 /* başlık → Sayı: 2 satır */
+.metin p.h-sol + p.h-orta{margin-top:calc(2 * var(--satir));margin-bottom:calc(2 * var(--satir))} /* Konu → muhatap → metin/İlgi: 2'şer satır */
+.metin p.ilgi{margin-bottom:var(--satir)}                                      /* İlgi → metin: 1 satır */
+.metin p.ek,.metin p.dagitim{margin-top:var(--satir)}                          /* Ek / Dağıtım öncesi uygun boşluk */
 .metin p.h-sol:has(+ .iki-sutun){margin-bottom:0}
+.metin .kunye{display:grid;grid-template-columns:3.6em .9em 1fr}
+.metin .kunye .dg{min-width:0}
+.metin .kunye-duz{display:block}

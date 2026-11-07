@@ -512,12 +512,66 @@ def bloklari_duzenle(govde):
     for j, b in enumerate(out):
         if re.match(r"^# ", b):
             out[j] = "#" + b
+    # Konu'nun ayrı paragrafa düşmüş devam satırı ve İlgi'nin b), c) … maddeleri kendi bloğuna katılır
+    birlesik = []
+    for b in out:
+        if birlesik:
+            onc = birlesik[-1]; ilk = re.sub(r"\*\*", "", onc.split("\n")[0])
+            sade = re.sub(r"\*\*", "", b)
+            if (re.match(r"^(Konu|KONU)\s*[:：]", re.sub(r"\*\*", "", onc.split("\n")[-1])) and "\n" not in b
+                    and len(sade) <= 60 and not re.search(r"[:：]", sade) and not _buyuk(sade)):
+                birlesik[-1] = onc + "\n" + b; continue
+            if (re.match(r"^(İlgi|İLGİ)\s*[:：]", ilk) and re.match(r"^[b-hçğ]\)\s", sade)
+                    and len(sade) <= 300 and re.search(r"tarih|sayılı|yazı|dilekçe|Genelge|Yönetmelik|Kanun|tutanak", sade)):
+                birlesik[-1] = onc + "\n" + b; continue
+        birlesik.append(b)
+    out = birlesik
     for j, b in enumerate(out[:-1]):
         m = re.match(r"^#{3,4} (.{1,90})$", b)
         if m and re.match(r"^\*\*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)", out[j + 1]) and not re.search(r"BÖLÜM|KISIM", m.group(1)):
             out[j] = "**" + m.group(1).strip().strip("*") + "**"
     return "\n\n".join(out)
 
+
+
+KUNYE_ETIKET = re.compile(r"^(?:\*\*)?(Sayı|SAYI|Konu|KONU|İlgi|İLGİ|Tarih|TARİH)(?:\*\*)?\s*[:：]\s*(?:\*\*)?\s*(.*)$")
+
+
+def kunye_html(satirlar):
+    """Sayı/Konu/İlgi satırlarını etiket | : | değer düzeninde yazar; devam satırları değerin hizasından sürer (Yön. md. 13, 15)."""
+    rows = []
+    for s in satirlar:
+        t = s.strip()
+        m = KUNYE_ETIKET.match(t)
+        if m:
+            rows.append([m.group(1), [m.group(2)]])
+        elif rows and rows[-1][0] and not re.match(r"^\S[^:]{0,15}:", _duz(t)):
+            rows[-1][1].append(t)
+        else:
+            rows.append([None, [t]])
+    if not any(r[0] for r in rows):
+        return None
+    out = []
+    for et, vals in rows:
+        if et is None:
+            out.append(f'<span class="kunye-duz">{satir_ici(vals[0])}</span>')
+            continue
+        deger = "<br>".join(satir_ici(v) for v in vals)
+        if et.lower().startswith("say") and len(vals) == 1:
+            ss = _sayi_satiri(f"Sayı: {vals[0]}")
+            if ss:
+                no = re.sub(r"^Sayı\s*:\s*", "", ss[0])
+                deger = f'<span class="sayi-satir"><span>{satir_ici(no)}</span><span>{satir_ici(ss[1])}</span></span>'
+        out.append(f'<span class="kunye"><span class="et">{e(et)}</span><span>:</span><span class="dg">{deger}</span></span>')
+    return "".join(out)
+
+
+def sol_sinif(blok):
+    t = _duz(blok.split("\n")[0])
+    if re.match(r"^(İlgi|İLGİ)\b", t): return " ilgi"
+    if re.match(r"^(Ekler|EKLER|Ek|EK)\b", t): return " ek"
+    if re.match(r"^(Dağıtım|DAĞITIM)\b", t): return " dagitim"
+    return ""
 
 def md_html(govde):
     parcalar, sayac = [], 0
@@ -551,8 +605,9 @@ def md_html(govde):
         for s in (satirlara_bol(blok, hz) if hz else blok.split("\n")):
             ss = _sayi_satiri(s)
             satir_html.append(f'<span class="sayi-satir"><span>{satir_ici(ss[0])}</span><span>{satir_ici(ss[1])}</span></span>' if ss else satir_ici(s))
-        sinif = f' class="h-{hz}"' if hz else ""
-        parcalar.append(f"<p{sinif}>" + "<br>".join(satir_html) + "</p>")
+        sinif = f' class="h-{hz}{sol_sinif(blok) if hz == "sol" else ""}"' if hz else ""
+        kh = kunye_html(satirlara_bol(blok, hz)) if hz == "sol" else None
+        parcalar.append(f"<p{sinif}>" + (kh if kh else "<br>".join(satir_html)) + "</p>")
     # ardışık imza paragraflarını tek blokta topla
     html_metin = "\n".join(parcalar)
     for sinif in ("imza", "onay", "olur"):
@@ -905,7 +960,7 @@ def pdf_uret(b, hedef):
 
     f = font_kaydet()
     duz = ParagraphStyle("g0", fontName=f, fontSize=10.5, leading=14, alignment=TA_JUSTIFY, spaceAfter=5)
-    govde = ParagraphStyle("g", parent=duz, firstLineIndent=28)
+    govde = ParagraphStyle("g", parent=duz, firstLineIndent=1.25 * cm, spaceAfter=0)
     baslik = ParagraphStyle("b", parent=duz, fontName=f + "-Kalin", fontSize=13, leading=17, alignment=TA_CENTER, spaceAfter=10)
     ara = ParagraphStyle("a", parent=duz, fontName=f + "-Kalin", alignment=TA_CENTER, spaceBefore=6)
     alt = ParagraphStyle("h4", parent=duz, fontName=f + "-Kalin", spaceAfter=1, spaceBefore=4)
@@ -927,17 +982,23 @@ def pdf_uret(b, hedef):
                            ("BACKGROUND", (0, 0), (0, -1), colors.HexColor("#eef2f7")),
                            ("VALIGN", (0, 0), (-1, -1), "TOP")]))
     akis += [t, Spacer(1, 10)]
-    onceki = None; hitap = False
+    onceki = None; hitap = False; ilgi_son = False
     for tip, metin in duz_bloklar(b["govde"]):
+        SATIR = 14  # 1 satır (10,5 pt yazı, 14 pt satır aralığı)
         IMZALAR = ("p-imza", "p-onay", "p-olur")
-        if onceki is not None and (tip in IMZALAR or onceki in IMZALAR) and tip != onceki:
-            akis.append(Spacer(1, 22))
+        if onceki is not None and tip in IMZALAR and onceki not in IMZALAR:
+            akis.append(Spacer(1, 3 * SATIR))
+        elif onceki is not None and (tip in IMZALAR or onceki in IMZALAR) and tip != onceki:
+            akis.append(Spacer(1, 2 * SATIR))
         elif tip == "p-orta" and onceki in ("p-sol", "p-sayi"):
-            akis.append(Spacer(1, 18)); hitap = True
+            akis.append(Spacer(1, 2 * SATIR)); hitap = True
         elif tip in ("p-sol", "p-sayi") and onceki == "p-orta":
-            akis.append(Spacer(1, 10))
+            akis.append(Spacer(1, 2 * SATIR))
         elif onceki == "p-orta" and tip != "p-orta" and hitap:
-            akis.append(Spacer(1, 12)); hitap = False
+            akis.append(Spacer(1, 2 * SATIR)); hitap = False
+        elif onceki == "p-sol" and tip not in ("p-sol", "p-sayi") and ilgi_son:
+            akis.append(Spacer(1, SATIR))
+        ilgi_son = tip == "p-sol" and bool(re.match(r"^(İlgi|İLGİ)\b", metin if isinstance(metin, str) else "")) or (ilgi_son and tip == "p-sol")
         onceki = tip
         if tip == "hr":
             akis.append(HRFlowable(width="100%", thickness=0.5, color=colors.grey, spaceBefore=6, spaceAfter=6))
