@@ -37,21 +37,26 @@ Bakan
 
 Ek: Sağlıklı Hayat Merkezleri Hakkında Yönerge
 
-# SAĞLIKLI HAYAT MERKEZLERİ HAKKINDA YÖNERGE
+## SAĞLIKLI HAYAT MERKEZLERİ HAKKINDA YÖNERGE
 
 ## BİRİNCİ BÖLÜM
+
 ### Başlangıç Hükümleri
 
-### Amaç
+**Amaç**
+
 **MADDE 1-** (1) Bu Yönergenin amacı, sağlıklı hayat merkezlerinin kuruluşu ve standartları ile sağlıklı hayat merkezi personelinin görev, yetki ve sorumluluklarını belirlemektir.
 
-### Kapsam
+**Kapsam**
+
 **MADDE 2-** (1) Bu Yönerge, sağlıklı hayat merkezlerini ve personelini kapsar.
 
-### Dayanak
+**Dayanak**
+
 **MADDE 3-** (1) Bu Yönerge, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü ve 9 uncu maddelerine, 22/5/2014 tarihli ve 29007 sayılı Resmî Gazete’de yayımlanan Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelik hükümlerine ve 5/2/2015 tarihli ve 29258 sayılı Resmî Gazete’de yayımlanan Toplum Sağlığı Merkezi ve Bağlı Birimler Yönetmeliğinin 5 inci ve 38 inci maddelerine dayanılarak hazırlanmıştır.
 
-### Tanımlar
+**Tanımlar**
+
 **MADDE 4-** (1) Bu Yönergede geçen;
 
 a) Bağlı birim: İlçe sağlık müdürlüğü ya da toplum sağlığı merkezleri bünyesinde belirli bir hizmeti yoğun olarak sunmak üzere kurulan birimi,
@@ -66,12 +71,16 @@ d) Sağlıklı hayat birimi: Fiziki alan yetersizliğinden dolayı tam teşekkü
 
 e) Sağlıklı hayat merkezi: Aile sağlığı merkezi ve toplum sağlığı merkezlerinin sunmuş olduğu birinci basamak sağlık hizmetlerini güçlendirmek, bu hizmetlere ulaşımı kolaylaştırmak, sağlığa yönelik risklerden birey ve toplumu korumak ve sağlıklı yaşam tarzını teşvik etmek amacıyla oluşturulan merkezi,
 
-f) Toplum sağlığı merkezi: Bölgesinde yaşayan toplumun sağlığını korumak ve geliştirmek maksadıyla sağlıkla ilgili risk ve sorunları belirleyen, bunlarla ilgili düzeltici ve önleyici faaliyetleri gerçekleştiren; birinci basamak koruyucu, iyileştirici ve rehabilite edici sağlık hizmetlerini koordine eden ve bu hizmetlerin etkin ve verimli bir şekilde sunulmasını izleyen, değerlendiren, denetleyen ve destekleyen; bölgesinde bulunan sağlık kuruluşları ile diğer kurum ve kuruluşlar arasındaki koordinasyonu sağlayan sağlık kuruluşunu, ifade eder.
+f) Toplum sağlığı merkezi: Bölgesinde yaşayan toplumun sağlığını korumak ve geliştirmek maksadıyla sağlıkla ilgili risk ve sorunları belirleyen, bunlarla ilgili düzeltici ve önleyici faaliyetleri gerçekleştiren; birinci basamak koruyucu, iyileştirici ve rehabilite edici sağlık hizmetlerini koordine eden ve bu hizmetlerin etkin ve verimli bir şekilde sunulmasını izleyen, değerlendiren, denetleyen ve destekleyen; bölgesinde bulunan sağlık kuruluşları ile diğer kurum ve kuruluşlar arasındaki koordinasyonu sağlayan sağlık kuruluşunu,
+
+ifade eder.
 
 ## İKİNCİ BÖLÜM
+
 ### Sağlıklı Hayat Merkezlerinin Açılması
 
-### Sağlıklı hayat merkezlerinin açılması
+**Sağlıklı hayat merkezlerinin açılması**
+
 **MADDE 5-** (1) Sağlıklı hayat merkezleri, Toplum Sağlığı Merkezi ve Bağlı Birimler Yönetmeliğinin 38 inci maddesine göre ilçe sağlık müdürlüğü ya da toplum sağlığı merkezi bağlı birimi olarak açılır.
 
 (2) 4/1/2012 tarihli ve 28163 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinin Ek-1’ine göre;
@@ -89,9 +98,11 @@ planlanır ve il sağlık müdürlüğünün teklifi ve Bakanlığın onayı ile
 (4) Sağlıklı hayat birimleri de bu maddede belirlenen usule göre açılır.
 
 ## ÜÇÜNCÜ BÖLÜM
+
 ### Fiziki Standart ve Malzeme Standardı
 
-### Fiziki standart
+**Fiziki standart**
+
 **MADDE 6-** (1) Sağlıklı hayat merkezleri aşağıda sayılan fiziki standartlara sahiptir:
 
 a) Sağlıklı hayat merkezleri öncelikle Bakanlığa tahsisli binalarda, Bakanlığa tahsisli bina bulunmaması halinde ise diğer kamu kurum ve kuruluşlarına ait ya da tahsisli binalarda kurulur.
@@ -116,20 +127,24 @@ h) Sağlıklı hayat merkezleri Bakanlıkça çıkarılan kurumsal kimlik kılav
 
 ı) Fiziki alan yetersizliğinden dolayı tam teşekküllü sağlıklı hayat merkezi standardını taşımayan mekanlarda; Bakanlıkça çıkarılan alt düzenlemelerde belirtilen zorunlu alanlara yer verilmesi kaydıyla, il sağlık müdürlüğünün teklifi ve Bakanlığın onayıyla, ilçe sağlık müdürlüğü ya da toplum sağlığı merkezine bağlı sağlıklı hayat birimi açılır.
 
-### Malzeme standardı
+**Malzeme standardı**
+
 **MADDE 7-** (1) Sağlıklı hayat merkezlerinde kullanılan asgari ekipman, demirbaş, tıbbi cihaz ve malzeme ihtiyaçlarına ilişkin malzeme standardı, Bakanlıkça çıkarılan alt düzenlemelerle belirlenir.
 
 ## DÖRDÜNCÜ BÖLÜM
+
 ### Hizmet Standardı
 
-### Hizmet sunumu
+**Hizmet sunumu**
+
 **MADDE 8-** (1) Sunulan hizmetler, hizmetin niteliğine uygun olarak ve hizmetin esasını değiştirmeyecek şekilde yerinde, uzaktan veya gezici sağlık hizmeti olarak verilir.
 
 (2) Sağlıklı hayat merkezleri, Toplum Sağlığı Merkezi ve Bağlı Birimler Yönetmeliğinin 41 inci maddesinde belirlenen görevler doğrultusunda hizmet verir.
 
 (3) Sağlıklı hayat merkezi ya da sağlıklı hayat birimi olmayan yerlerde bu hizmetler ilçe sağlık müdürlüğü ya da toplum sağlığı merkezi tarafından verilir.
 
-### Başvuru, kayıt ve takip
+**Başvuru, kayıt ve takip**
+
 **MADDE 9-** (1) Başvurular; aile hekimleri tarafından, hastanelerden ya da kişilerce doğrudan Merkezi Hekim Randevu Sistemi üzerinden yapılabilir. Kişinin sağlıklı hayat merkezine randevusu olmaksızın başvurması halinde ise aynı gün, yoksa uygun olan en kısa sürede vaka sorumlusu tarafından Merkezi Hekim Randevu Sistemi üzerinden randevusu oluşturulur.
 
 (2) Kişilerin sonraki başvuru randevuları da Merkezi Hekim Randevu Sistemi üzerinden oluşturulur. Sağlıklı hayat merkezlerinde kişilere verilen hizmetler hakkındaki gerekli bilgilerin dijital entegrasyon kapsamında yazılım vasıtasıyla kişinin aile hekimi ve hastane hekimi tarafından görünürlüğü sağlanır.
@@ -144,10 +159,11 @@ h) Sağlıklı hayat merkezleri Bakanlıkça çıkarılan kurumsal kimlik kılav
 
 (7) Sağlıklı hayat merkezine ilişkin Bakanlıkça belirlenen iş ve işleyişin takibinden sırasıyla sorumlu hekim, toplum sağlığı merkezi başkanı/ilçe sağlık müdürü, halk sağlığı başkanı ve il sağlık müdürü sorumludur.
 
-### Hizmet türleri
+**Hizmet türleri**
+
 **MADDE 10-** (1) Sağlıklı hayat merkezlerinde aşağıda sayılan hizmetler verilir:
 
-a) **Beslenme ve diyetetik hizmetleri**.
+a) Beslenme ve diyetetik hizmetleri.
 
 b) Çocuk ve ergen sağlığı hizmetleri.
 
@@ -183,7 +199,8 @@ n) Görüntüleme hizmetleri.
 
 (2) İhtiyaca göre Bakanlıkça belirlenen hedeflere uygun olarak Halk Sağlığı Genel Müdürlüğü tarafından yeni hizmet türleri oluşturulabilir.
 
-### Beslenme ve diyetetik hizmetleri
+**Beslenme ve diyetetik hizmetleri**
+
 **MADDE 11-** (1) Beslenme ve diyetetik hizmetleri diyetisyen tarafından verilir.
 
 (2) Beslenme ve diyetetik hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
@@ -194,7 +211,8 @@ b) Obezite ve beslenme ile ilişkili hastalıklarda bireysel değerlendirme yapa
 
 c) Sağlıklı hayat merkezi bölgesinde yer alan nüfusun beslenme durumu değerlendirilir ve gerekli eğitim-farkındalık çalışmaları yürütülür.
 
-### Çocuk ve ergen sağlığı hizmetleri
+**Çocuk ve ergen sağlığı hizmetleri**
+
 **MADDE 12-** (1) Çocuk ve ergen sağlığı hizmetleri çocuk gelişimci tarafından verilir.
 
 (2) Çocuk ve ergen sağlığı hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
@@ -209,7 +227,8 @@ c) Ailelere, çocuklara ve gençlere yönelik güçlendirilmiş bir eğitim mode
 
 d) İhtiyaç duyulan durumlarda ilgili kurum ve kuruluşlar ile iş birliği halinde çalışılır.
 
-### Okul sağlığı hizmetleri
+**Okul sağlığı hizmetleri**
+
 **MADDE 13-** (1) Okul sağlığı hizmetleri; hekim, diş hekimi, hemşire, sağlık memuru ve ebeler tarafından verilir.
 
 (2) Okul sağlığı hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
@@ -220,16 +239,22 @@ b) Okul sağlığı çalışmaları kapsamında okul kantin ve yemekhaneleri de�
 
 c) İlçe sağlık müdürlüğü ve toplum sağlığı merkezi ile birlikte tarama faaliyetleri yürütülür.
 
-### Psikolojik destek hizmetleri
+**Psikolojik destek hizmetleri**
+
 **MADDE 14-** (1) Psikolojik destek hizmetleri psikolog tarafından verilir.
 
 (2) Psikolojik destek hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Bireysel görüşme ve aile görüşmesi kapsamında; bireyin ruhsal veya fiziksel sağlık sorunları ile evlilik veya çift ilişkisi, aile ve çocuklarla iletişim, iş veya okul yaşamı ve özel yaşamı gibi konularda başvuran kişilere destek hizmeti verilir.
+
 b) Bireyin istenmedik sonuçlara yol açabilecek duygu, düşünce ve davranışları tanımlayabilmesine yardım edilir.
+
 c) Psikososyal risk faktörleri (şiddet, istismar, aile içi ruhsal sorunlar, yoksulluk ve benzeri) ile başa çıkmaya yönelik eğitim ve destek hizmeti verilir.
+
 ç) Obezite olgularında ve yeme bozukluklarında psikolojik destek hizmeti verilir.
+
 d) Kriz durumları yaşayan (ölüm, yas, boşanma, kadına yönelik şiddet, ihmal/istismar, afet, intihar ve benzeri) birey ve aileye yönelik görüşme ve destek hizmetleri verilir.
+
 e) Tedavi veya psikiyatrik değerlendirme gerektiren kişiler, ilgili sağlık tesisine yönlendirilir.
 
 **Sosyal destek hizmetleri**
@@ -239,10 +264,15 @@ e) Tedavi veya psikiyatrik değerlendirme gerektiren kişiler, ilgili sağlık t
 (2) Sosyal destek hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) İhtiyaç duyan bireylere yönelik birey, aile, grup ve toplum düzeyinde sosyal hizmet müdahalesi gerçekleştirilir.
+
 b) Hizmet bölgesindeki çevresel kaynaklar (sosyal, maddi, sağlık, spor ve benzeri) ve olası riskler araştırılır, kamu kurum ve kuruluşları başta olmak üzere ilgili diğer kuruluşlarla birlikte il düzeyinde psikososyal destek haritası çıkarılır.
+
 c) Bireysel görüşmelerin yanı sıra benzer durumları yaşamış ya da ortak sorunları olan kişilere yönelik grup odaklı sosyal hizmet uygulamaları gerçekleştirilir.
+
 ç) Ailelerin psikososyal ve ekonomik sorunlar nedeniyle yaşamış oldukları çatışmaları önlemek ve ihtiyaç duyulan kurumlararası koordinasyonu sağlamak için aile görüşmeleri yapılır.
+
 d) Kriz durumları yaşayan (ölüm, yas, boşanma, kadına yönelik şiddet, ihmal/istismar, afet, intihar ve benzeri) birey ve aileye yönelik sosyal hizmet müdahalesi gerçekleştirilir.
+
 e) Çocuklara yönelik olası risklerin önlenebilmesi için alınan sağlık tedbirlerinin uygulanmasında veya sağlık tedbiri alınması ihtiyacı duyulan durumlarda (ihmal, istismar, madde bağımlılığı, aşı ve topuk kanı reddi ve benzeri) gerekli müdahaleler yapılır.
 
 **Fiziksel aktivite hizmetleri**
@@ -252,9 +282,13 @@ e) Çocuklara yönelik olası risklerin önlenebilmesi için alınan sağlık te
 (2) Fiziksel aktivite hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Sağlıklı bireylerde kişilerin fiziksel aktiviteleri düzenlenir ve hareket kabiliyetlerini artırarak statik ve çalışma postür bozukluklarının oluşmaması için bireye özel fiziksel aktivite ve egzersiz programları planlanarak uygulanır.
+
 b) Aile hekimlerince yönlendirilen ya da doğrudan başvuran bireylere fiziksel aktivite konusunda destek hizmeti verilir.
+
 c) Egzersiz ve fiziksel aktivite alışkanlığının erken dönemde kazandırılması ve davranış değişikliği oluşturulması için çocukluktan yaşlılığa kadar tüm yaş dönemlerinde fiziksel aktivitenin önemi konusunda eğitim ve bilinçlendirme çalışmaları yapılır. Büyüme çağı çocukları başta olmak üzere tüm yaş gruplarına sağlıkla ilgili fiziksel uygunluk kapasitesinin artırılmasına yönelik egzersizler öğretilir.
+
 ç) Engelli bireylerin egzersizlerle yaşam kalitesinin artırılması hedeflenir.
+
 d) Koruyucu ve destekleyici rehabilitasyon cihaz ve teknolojilerinin kullanımına yönelik hasta ve ailesine gerekli eğitimler verilir.
 
 **Sigara bırakma polikliniği hizmetleri**
@@ -264,6 +298,7 @@ d) Koruyucu ve destekleyici rehabilitasyon cihaz ve teknolojilerinin kullanımı
 (2) Sigara bırakma polikliniği hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) ALO 171 Sigara Bırakma Danışma Hattı aracılığıyla yönlendirilen, Merkezi Hekim Randevu Sistemi üzerinden randevu alan ya da doğrudan başvuran kişilere sigara bırakma hizmeti verilir.
+
 b) Sigara kullanan ve bırakmak isteyen vatandaşlara psikososyal destek tedavisi ve uygun olgularda destek tedavisine ek olarak ilaç tedavisi planlanır.
 
 **Bağımlılıkla mücadele hizmetleri**
@@ -273,7 +308,9 @@ b) Sigara kullanan ve bırakmak isteyen vatandaşlara psikososyal destek tedavis
 (2) Bağımlılıkla mücadele hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Sağlıklı hayat merkezlerine doğrudan başvuran, Merkezi Hekim Randevu Sistemi üzerinden veya ALO 191 Uyuşturucu ile Mücadele Danışma ve Destek Hattı aracılığıyla randevu alınan, diğer kamu kurum ve kuruluşlarından yönlendirilen kişilere alkol, uyuşturucu ve davranışsal bağımlılık konularında destek hizmeti verilir.
+
 b) Madde bağımlılığı ile ilgili olarak, madde kullanan kişi ve yakınlarına sorunlarının çözümü ile ilgili psikolojik destek verilirken ihtiyaç olması durumunda gerekli kurumlara yönlendirilmesi sağlanır.
+
 c) Davranışsal bağımlılıklarda (sanal kumar, dijital bağımlılık ve benzeri) destek hizmeti verilir.
 
 **KETEM hizmetleri**
@@ -283,10 +320,15 @@ c) Davranışsal bağımlılıklarda (sanal kumar, dijital bağımlılık ve ben
 (2) KETEM hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Kanser hastalığının risk faktörleri, korunma yolları ve erken teşhisine yönelik eğitim, bilgilendirme ve destek hizmetleri yürütülür.
+
 b) Aile hekimliği birimleri ile iş birliği içinde ulusal kanser tarama standartlarına uygun olarak toplum tabanlı kanser taramaları planlanır ve uygulanır. Yürütülen taramalar sonucunda şüpheli olarak tespit edilen vakaların ileri tetkik, teşhis ve tedavi süreçleri kayıt altına alınır, kanser açısından riskli olduğu bilinen veya riskli olduğu saptanan kişilerin izlem ve takibi yapılır.
+
 c) Gerekli görülmesi hâlinde riskli bölge ve gruplara yönelik tarama hizmetleri öncelikle kamu kurum ve kuruluşları olmak üzere ilgili paydaşlarla iş birliği içerisinde sunulur.
+
 ç) Korunma ve erken tanı öncelikli olmak üzere grup ve bireysel halk eğitimleri gerçekleştirilir. Tarama sonucu şüpheli veya pozitif bulunan vatandaşlar bilgilendirilir, Merkezi Hekim Randevu Sistemi üzerinden randevu alınması sağlanarak teşhis merkezlerine yönlendirilir ve takip edilir.
+
 d) Kanser tanısı alan kişilere ve gerektiğinde hasta yakınlarına psikososyal ve tıbbi destek hizmeti verilir.
+
 e) Mobil kanser tarama hizmetlerinin planlanması ve yürütülmesi sağlanır.
 
 **Kronik hastalıklar ve yaşlı sağlığı hizmetleri**
@@ -296,8 +338,11 @@ e) Mobil kanser tarama hizmetlerinin planlanması ve yürütülmesi sağlanır.
 (2) Kronik hastalıklar ve yaşlı sağlığı hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Sağlıklı hayat merkezlerinde kronik hastalıklara yönelik hasta ya da sağlıklı başvurana, konuya ilişkin bilgilendirme hizmeti verilir, kronik hastalıkların yönetimine yönelik tavsiye ve motivasyon görüşmeleri yapılır.
+
 b) Yaşlı sağlığı hizmetleri kapsamında yaşlılıkta sık karşılaşılan sorunlar; düşmenin önlenmesi, güvenli fiziksel çevre, depresyon, Alzheimer ve demans önleme ve benzeri yaşlıların yararlanacağı konularda farkındalık eğitimleri yürütülür.
+
 c) Yaşlıların fiziksel ve ruhsal iyilik halini engelleyen fiziksel, psikososyal, ailesel, kültürel faktörlerin ve hizmet sunumuna etki eden engellerin kaldırılması için eğitim ve destek hizmeti sunulur.
+
 ç) Yaşlının çevresinden sosyal destek alması amacı ile aile üyeleri arasında iletişimin düzenlenmesi, yaşamı kolaylaştırıcı önlemlerin alınması, ailenin ve diğer sosyal desteklerin sağlanması için gerekli bilgilendirmeler yapılır.
 
 **Kadın ve üreme sağlığı hizmetleri**
@@ -307,7 +352,9 @@ c) Yaşlıların fiziksel ve ruhsal iyilik halini engelleyen fiziksel, psikososy
 (2) Kadın ve üreme sağlığı hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Ağırlıklı olarak kadınlar olmak üzere başvuran bireylere üreme sağlığı hizmeti ve eğitimi verilir.
+
 b) Evlilik öncesi bilgilendirme ve gebe okulu eğitimleri düzenlenerek emzirme ve bebek bakımı eğitimi paketler üzerinde uygulamalı olarak verilir. Gerekirse bu konularda merkez dışında halk eğitimleri düzenlenir.
+
 c) Gebelik dönemi ile bebeklik ve çocukluk çağı aşılamaları konusunda eğitimler verilir.
 
 **Bulaşıcı hastalıklar ve enfeksiyon kontrol hizmetleri**
@@ -317,8 +364,11 @@ c) Gebelik dönemi ile bebeklik ve çocukluk çağı aşılamaları konusunda e�
 (2) Bulaşıcı hastalıklar ve enfeksiyon kontrol hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Başta tüberküloz olmak üzere tüm bulaşıcı hastalıklar ve korunma ile ilgili halk eğitimleri ve okul eğitimleri yapılır.
+
 b) Bulaşıcı hastalıklar konusunda bilgilendirme yapılarak özel günler ve haftalarda etkinlikler düzenlenir.
+
 c) Gerekli durumlarda saha inceleme ve salgın inceleme çalışmalarında sağlık müdürlüğü bulaşıcı hastalıklar birimine destek verilir.
+
 ç) Tüberküloz kontrol hizmetleri, Toplum Sağlığı Merkezleri ve Bağlı Birimler Yönetmeliği ve ilgili mevzuat ile belirlenmiş usul ve esaslara göre yürütülür.
 
 **Koruyucu ağız ve diş sağlığı hizmetleri**
@@ -328,9 +378,11 @@ c) Gerekli durumlarda saha inceleme ve salgın inceleme çalışmalarında sağl
 (2) Koruyucu ağız ve diş sağlığı hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Birinci basamak sağlık hizmetleri kapsamında toplumda ağız ve diş sağlığı bilincinin geliştirilmesine yönelik faaliyetler yürütülür.
+
 b) Tüm yaş gruplarında diş çürüklerinin önlenmesi amacıyla ağız ve diş bakımı, ağız hijyeni ve koruyucu uygulamalara ilişkin hizmetler sunulur.
 
 c) İlköğretim çağındaki çocuklar başta olmak üzere öğretmenlere, velilere ve başvuran bireylere yönelik ağız ve diş sağlığına ilişkin farkındalık ve eğitim faaliyetleri yürütülür.
+
 ç) Bakanlık tarafından planlanan ağız ve diş sağlığı tarama faaliyetleri gerçekleştirilir; tarama öncesi ve sonrası süreçlerde ilgili kurum ve kuruluşlarla koordinasyon sağlanır. Tarama sonrası tedavi ihtiyacı belirlenen bireylerin randevu planlamaları yapılır.
 
 **Sağlıklı hayat merkezi akademi programları**
@@ -340,6 +392,7 @@ c) İlköğretim çağındaki çocuklar başta olmak üzere öğretmenlere, veli
 (2) Sağlıklı hayat merkezi akademi programları kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Bireylerin sağlık okuryazarlığı düzeyini artırmak, yaşam kalitesini yükseltmek, sağlıklı şekilde yaş almalarını sağlamak, sağlıklı hayat tarzını teşvik etmek ve sağlık hizmetlerinden daha etkin yararlanmalarını sağlamak için Sağlıklı Hayat Akademisi, SAHA Elçileri Akademisi, Bebek, Çocuk ve Genç Akademisi, Menopoz Okulu ve Sağlıklı Yaş Alma Atölyesi gibi akademi programları ilçe sağlık müdürlüğü ve toplum sağlığı merkezleri ile iş birliği içinde yürütülür.
+
 b) Kişilere; koruyucu sağlık hizmetleri ve aile hekimliği, koruyucu ağız ve diş sağlığı, sağlıklı beslenme ve fazla kilo ile mücadele, fiziksel aktivite ve doğru egzersiz, kanser taramaları ve erken teşhis, akılcı ilaç kullanımı, sağlıklı yaşam ve kronik hastalıklar, sağlıklı kadın ve sağlıklı nesil, ruh sağlığı ve mutlu bireyler, bağımlılıkla mücadele ve sağlıklı alışkanlıklar, sağlıklı yaş alma ve yaşlı sağlığı ve benzeri konularda eğitimler verilir. Verilen bu eğitimler ile aile hekimliği hizmetleri desteklenir.
 
 **Enjeksiyon-pansuman hizmetleri**
@@ -361,13 +414,14 @@ b) Kişilere; koruyucu sağlık hizmetleri ve aile hekimliği, koruyucu ağız v
 (2) Görüntüleme hizmetleri kapsamında aşağıda sayılan faaliyetler yürütülür:
 
 a) Aile sağlığı merkezlerince yönlendirilen ya da tarama programları kapsamında doğrudan başvuran bireylerin röntgen veya varsa mamografi çekim talebini karşılamak ve sağlıklı hayat merkezi bünyesinde var olan hizmetlerin gereksinimlerine göre tarama-tanı ve gerekirse tedavi süreçlerine destek olmak üzere olanaklar dâhilinde radyolojik tetkik hizmetleri verilir.
+
 b) Bulaşıcı hastalıklar ve enfeksiyon kontrol hizmeti sunuluyorsa, görüntüleme hizmetlerinin bulunduğu alanlarda tüberkülozla ilgili enfeksiyon kontrol önlemleri alınır.
 
 (3) Görüntüleme hizmetlerinde görevli röntgen teknisyenleri/teknikerleri dönüşümlü çalışır.
 
-**BEŞİNCİ BÖLÜM**
+## BEŞİNCİ BÖLÜM
 
-**Personel Standardı**
+### Personel Standardı
 
 **Personel görevlendirilmesi**
 
@@ -382,16 +436,27 @@ b) Bulaşıcı hastalıklar ve enfeksiyon kontrol hizmeti sunuluyorsa, görünt�
 (5) Sağlıklı hayat merkezinde asgari olarak aşağıda belirlenen unvan ve sayıda personelin bulunması esastır:
 
 a) Uzman hekim veya hekim sayısı üç.
+
 b) Diş hekimi sayısı bir.
+
 c) Psikolog/klinik psikolog sayısı bir.
+
 ç) Sosyal çalışmacı sayısı bir.
+
 d) Diyetisyen sayısı bir.
+
 e) Fizyoterapist sayısı bir.
+
 f) Çocuk gelişimci sayısı bir.
+
 g) Ebe veya hemşire sayısı beş.
+
 ğ) Sağlık memuru sayısı bir.
+
 h) Tıbbi sekreter sayısı üç.
+
 ı) Veri hazırlama kontrol işletmeni veya memur sayısı bir.
+
 i) Hizmetli sayısı iki.
 
 (6) İhtiyaç halinde, podolog, ergoterapist, odyolog, dil konuşma terapisti, yaşlı bakım teknikeri ve benzeri branşlarda personel görevlendirilir.
@@ -632,9 +697,9 @@ n) Sorumlu hekim tarafından hizmet ile ilgili verilen diğer görevleri yapar.
 
 **MADDE 36-** (1) Görevlendirilen diğer personel, Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelik hükümlerine uygun olarak ve konu hakkında almış oldukları özel eğitimler doğrultusunda görevlerini yerine getirir.
 
-**ALTINCI BÖLÜM**
+## ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+### Çeşitli ve Son Hükümler
 
 **Sağlıklı hayat birimleri**
 
