@@ -1,6 +1,6 @@
 ---
 id: "oz-11-06-1936-ve-3039-sayili-celtik-ekimi-kanunun-sureti-tatbikatina-dair-talimatna-1936-10-12"
-baslik: "11.06.1936 ve 3039 Sayılı Çeltik Ekimi Kanunun Sureti Tatbikatına Dair Talimatname"
+baslik: "3039 Sayılı Çeltik Ekimi Kanununun Sureti Tatbikatına Dair Talimatname"
 tur: "yonetmelik"
 rg_tarih: "1936-10-12"
 rg_sayi: "3432"

@@ -2,7 +2,7 @@
 tur: "genelge"
 not: "Başlık kaynak listede kısaltılmış."
 id: "sbg-10723-12-05-2009-tarih-ve-32-sayili-hizmet-alimlarinda-calistirilacak-isci-s"
-baslik: "12.05.2009 Tarih ve 32 Sayılı Hizmet Alımlarında Çalıştırılacak İşçi Sayısının Tespiti ve Öngörülecek"
+baslik: "Hizmet Alımlarında Çalıştırılacak İşçi Sayısının Tespiti ve Öngörülecek Ücretler Hakkında Genelge (2009/32)"
 birim: "Strateji Geliştirme Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10723/12052009-tarih-ve-32-sayili-hizmet-alimlarinda-calistirilacak-isci-sayisinin-tespiti-ve-ongorulecek-ucretler-ile-ilgili-200932-genelge-strateji-gelistirme-baskanligi.html"

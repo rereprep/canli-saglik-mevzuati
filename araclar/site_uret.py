@@ -160,6 +160,9 @@ def no_sade(s):
 
 
 def alanlari_duzelt(b):
+    # "Tarihi:07.06.1935 Sayısı:2767 R.G. Tarihi:… R.G. Sayısı:… Kanun Adı" -> yalnız ad (künye tabloda gösteriliyor)
+    if b.get("baslik"):
+        b["baslik"] = re.sub(r"^(?:\s*(?:Tarihi?|Sayısı|R\.\s*G\.\s*(?:Tarihi|Sayısı))\s*:\s*[\d./]+)+\s*", "", b["baslik"]) or b["baslik"]
     for alan in ("tarih", "rg_tarih"):
         if b.get(alan):
             b[alan] = tarih_iso(b[alan])

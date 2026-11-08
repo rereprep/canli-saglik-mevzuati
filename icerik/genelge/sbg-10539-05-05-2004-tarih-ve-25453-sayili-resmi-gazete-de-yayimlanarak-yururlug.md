@@ -2,7 +2,7 @@
 tur: "genelge"
 not: "Başlık kaynak listede kısaltılmış."
 id: "sbg-10539-05-05-2004-tarih-ve-25453-sayili-resmi-gazete-de-yayimlanarak-yururlug"
-baslik: "05.05.2004 Tarih ve 25453 Sayılı Resmi Gazete’de Yayımlanarak Yürürlüğe Giren Sağlık ve Yardımcı Sağlık"
+baslik: "Sağlık ve Yardımcı Sağlık Personeli Tarafından Yerine Getirilmesi Gereken Hizmetlerin Satın Alma Yoluyla Gördürülmesine İlişkin Esas ve Usullerin Tatbiki Hakkında Uygulama Talimatı"
 birim: "Hukuk Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10539/05052004-tarih-ve-25453-sayili-resmi-gazetede-yayimlanarak-yururluge-giren-saglik-ve-yardimci-saglik-personeli-tarafindan-yerine-getirilmesi-gereken-hizmetlerin-satin-alma-yoluyla-gordurulmesine-iliskin-esas-ve-usullerin-tatbiki-hakkinda-uygulama-talim.html"

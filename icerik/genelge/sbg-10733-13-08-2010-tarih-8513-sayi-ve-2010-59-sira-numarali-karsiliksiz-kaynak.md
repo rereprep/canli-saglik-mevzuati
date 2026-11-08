@@ -1,6 +1,6 @@
 ---
 id: "sbg-10733-13-08-2010-tarih-8513-sayi-ve-2010-59-sira-numarali-karsiliksiz-kaynak"
-baslik: "13.08.2010 Tarih 8513 Sayı ve (2010/59) Sıra Numaralı Karşılıksız Kaynak Aktarımı Hakkında Genelge"
+baslik: "Karşılıksız Kaynak Aktarımı Hakkında Genelge (2010/59)"
 tur: "genelge"
 birim: "Strateji Geliştirme Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"

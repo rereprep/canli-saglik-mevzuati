@@ -2,7 +2,7 @@
 tur: "genelge"
 not: "Başlık kaynak listede kısaltılmış."
 id: "sbg-10540-05-05-2004-tarih-ve-25453-sayili-resmi-gazete-de-yayimlanarak-yururlug"
-baslik: "05.05.2004 Tarih Ve 25453 Sayılı Resmi Gazete’de Yayımlanarak Yürürlüğe Giren Sağlık Ve Yardımcı Sağlık"
+baslik: "Açık Teklif Usulü ile Hizmet Alımlarında Uygulanacak İdari Şartname (Sağlık ve Yardımcı Sağlık Personeli Hizmet Alımları Uygulama Talimatı Eki)"
 birim: "Hukuk Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10540/05052004-tarih-ve-25453-sayili-resmi-gazetede-yayimlanarak-yururluge-giren-saglik-ve-yardimci-saglik-personeli-tarafindan-yerine-getirilmesi-gereken-hizmetlerin-satin-alma-yoluyla-gordurulmesine-iliskin-esas-ve-usuller-geregince-yapilacak-acik-teklif-u.html"
