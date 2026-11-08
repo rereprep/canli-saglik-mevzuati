@@ -2,7 +2,7 @@
 tur: "kanun"
 not: "Başlık kaynak listede kısaltılmış."
 id: "sbg-10364-tarihi-18-06-1992-sayisi-3816-r-g-tarihi-03-07-1992-r-g-sayisi-21273-o"
-baslik: "Tarihi:18.06.1992 Sayısı:3816 R.G. Tarihi:03.07.1992 R.G. Sayısı:21273 Ödeme Gücü Olmayan Vatandaşların"
+baslik: "Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10364/tarihi18061992--sayisi3816--rg-tarihi03071992--rg-sayisi21273-odeme-gucu-olmayan-vatandaslarin-tedavi-giderlerinin-yesil-kart-verilerek-devlet-tarafindan-karsilanmasi-hakkinda-kanun.html"
 durum: "yürürlükte"
