@@ -153,3 +153,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-08: Detaylı arama düzeltildi: ara.js kök yolu stil.css?v= eki yüzünden bozuktu (dizin yanlış adresten isteniyordu). Tam metinler assets/metin/N.json parçalarına bölündü (parca.json), ara.js parçaları ilerleme bilgisiyle tarıyor, hata mesajı veriyor; ara.js?v= sürüm eki eklendi.
 
 - 2026-11-08: Tüzükler bölümü Özcan Ek II + Ek IV ile birebir (30 tüzük). Belediye Mezarlıkları Nizamnamesi ve Tıbbi Deontoloji Tüzüğü kopyaları yedek/cift-tuzuk/ altında. Site: 1750 kayıt, 1737 tam metin.
+
+- 2026-11-08: hsgm-1021 Tütün Bağımlılığı Tedavisi Eğitimi kaynak PDF (12 sf, taranmış) Vision OCR ile yeniden okunup düzenlendi: yazı + Ek-1 (2013 olur, usul-esaslar) + Ek-2 yönetmelik (2011 ilk metin) + Ek-3 bilgilendirme + 23.06.2025 koordinatör yazısı. hizalar(): belge içindeki "T.C." ile başlayan kurum başlıkları da ortalanıyor (34 sayfa etkilendi). Not: swiftc SDK uyumsuz; OCR için araclar/ocr_vision.js (osascript, escalated) kullan.

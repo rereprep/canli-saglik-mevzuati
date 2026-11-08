@@ -8,146 +8,108 @@ birim: "Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/tutun_bagimliligi_tedavisi_egitimi.pdf"
 durum: "yürürlükte"
+ocr: true
+duzeltildi: true
 kontrol_edildi: true
 ---
 
 T.C.
-
 SAĞLIK BAKANLIĞI
-
 Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-86696344-770-274240587 22.04.2025
-
 Konu : Tütün Bağımlılığı Tedavisi Eğitimi
 
 DAĞITIM YERLERİNE
 
-Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik 23 Kasım 2011 tarihli ve 28121 sayılı
+Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik 23 Kasım 2011 tarihli ve 28121 sayılı Resmî Gazetede yayımlanmıştır. Mezkûr yönetmelikte Tütün Bağımlılığı Tedavi ve Eğitim Birimlerinde görev yapacak hekimlerin, tütün bağımlılığı eğitimlerini almış olma zorunluluğu yer almaktadır.
 
-Resmî Gazetede yayımlanmıştır. Mezkûr yönetmelikte Tütün Bağımlılığı Tedavi ve Eğitim Birimlerinde görev yapacak hekimlerin, tütün bağımlılığı eğitimlerini almış olma zorunluluğu yer almaktadır.
-
-Söz konusu eğitimler Bakanlığımızca uzaktan ve yerinde olmak üzere iki aşamalı olarak verilmekte olup eğitim programını başarıyla tamamlayanlar katılımcı belgesi almaya hak kazanmaktadır. Söz konusu eğitimler, ekte yer alan Tütün Bağımlılığı Tedavisi Eğitimi Usul ve Esasları’na uygun olarak Bakanlığımız tarafından uygun görülmesi halinde uzmanlık dernekleri veya üniversiteler tarafından da Bakanlığımız adına verilebilmektedir.
+Söz konusu eğitimler Bakanlığımızca uzaktan ve yerinde olmak üzere iki aşamalı olarak verilmekte olup eğitim programını başarıyla tamamlayanlar katılımcı belgesi almaya hak kazanmaktadır. Söz konusu eğitimler, ekte yer alan Tütün Bağımlılığı Tedavisi Eğitimi Usul ve Esasları'na uygun olarak Bakanlığımız tarafından uygun görülmesi halinde uzmanlık dernekleri veya üniversiteler tarafından da Bakanlığımız adına verilebilmektedir.
 
 Bu kapsamda Tütün Bağımlılığı tedavisi eğitimini bundan sonraki süreçte Bakanlığımız adına iller kendileri planlayacaktır. Eğitime öncelik sırası ile sağlıklı hayat merkezi, aile hekimliği biriminde çalışan aile hekimleri, sigara bırakma polikliniği bulunmayan ilçe devlet hastaneleri ile il merkezinde bulunan devlet hastaneleri bünyesinde görev yapan ve sigara bırakma polikliniği eğitimi almak isteyen tüm hekimler katılım sağlayacaktır.
 
-Tütün Bağımlılığı Tedavisi Eğitiminin il sağlık müdürlüklerince Ek-1’de yer alan Tütün Bağımlılığı Tedavisi Eğitimi Usul ve Esasları’na uygun olarak yapılması gerekmektedir.
+Tütün Bağımlılığı Tedavisi Eğitiminin il sağlık müdürlüklerince Ek-1'de yer alan Tütün Bağımlılığı Tedavisi Eğitimi Usul ve Esasları'na uygun olarak yapılması gerekmektedir.
 
-Ayrıca Ek-2’de yer alan Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik kapsamında il bünyesinde açılması planlanan sigara bırakma polikliniklerine ait süreçlerin hızlandırılması, öncelikli olarak il merkezinde sonrasında ilçe merkezlerinde ve sağlıklı hayat merkezlerinde hizmet verecek polikliniklerin ilgili yönetmelik hükümlerince açılmasının sağlanması hususunda,
+Ayrıca Ek-2'de yer alan Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik kapsamında il bünyesinde açılması planlanan sigara bırakma polikliniklerine ait süreçlerin hızlandırılması, öncelikli olarak il merkezinde sonrasında ilçe merkezlerinde ve sağlıklı hayat merkezlerinde hizmet verecek polikliniklerin ilgili yönetmelik hükümlerince açılmasının sağlanması hususunda,
 
 Bilgilerini ve gereğini rica ederim.
 
 Doç. Dr. Muhammed Emin DEMİRKOL
-
 Bakan a.
-
 Halk Sağlığı Genel Müdürü
 
 Ek:
-
 1 - Tütün Bağımlılığı Tedavisi Eğitimi Usul ve Esasları
-
-2 - Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik 3 - Eğitime İlişkin Bilgilendirme 4 - Eğitim Programı 5 - İmza Föyü 6 - Eğitim-Eğitimci Değerlendirme Formu
-
+2 - Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik
+3 - Eğitime İlişkin Bilgilendirme
+4 - Eğitim Programı
+5 - İmza Föyü
+6 - Eğitim-Eğitimci Değerlendirme Formu
 7 - Dilekçe Örneği
-
 8 - Katılımcı Listesi
 
 Dağıtım:
-
 81 İl Sağlık Müdürlüğü
 
-T.c. sAdLrx BA(aN!t6l
+<small>Kaynak PDF'te 4-8 numaralı ekler (form ve listeler) yer almamaktadır.</small>
 
-TiiRKiyE HAIK sadLt6t xuRuru - THsl
+## EK-1: TÜTÜN BAĞIMLILIĞI TEDAVİSİ EĞİTİMİ USUL VE ESASLARI
 
-riiTriN vE DidER BAGIMLtItK YAPrcr
+T.C.
+SAĞLIK BAKANLIĞI
+Türkiye Halk Sağlığı Kurumu Başkanlığı
 
-nAoDEr.€RLE MiicADELE oaiRE
+Sayı : 86696344-020/23798 27.02.2013
+Konu : Tütün Bağımlılığı Tedavisi Eğitimi
 
-BAST.ANLtEt
+MÜSTEŞARLIK MAKAMINA
 
-+
+Tütün Bağımlılığı Tedavi ve Eğitim Birimleri, 23 Kasım 2011 tarih ve 28121 sayılı Resmi Gazetede yayımlanan "Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik" kapsamında faaliyetlerini sürdürmektedir. Bu birimlerde çalışacak tabip, hemşire ve psikolog unvanını haiz sağlık personelinin alması gereken eğitim ve eğitim sonunda başarılı olanlara verilecek katılım belgelerinin Ekte yer alan usul ve esaslara uygun olarak düzenlenmesi hususunu tensiplerinize arz ederim.
 
-T.C. 27,O2.2013 - 10:O1:52 _
+Yrd. Doç. Dr. Mustafa AKSOY
+Kurum Başkanı
 
-a6696344 | O20I 23794
-
-SAGLIK BAKANLIGI
-
-(, Tiirkiye Halk Salhg Kurumu Bagkanlgr | ililr ililillil llilflil] lllllllll lllil llllllll
-
-'qiH...F
-
-Sayt :86696344-020
-
-Konu: Tiiti.in Balmhhlr
-
-Tedavisi Elitimi
-
-MUSTESARLIK MAKAMTNA
-
-Tiitiin Balmhhlr Tedavi ve Elitim Birimleri,23 Kasrm 2011 tarih ve 28121 sayh Resmi Gazetede yayrmlanan "Tiitiin Balrmhhgr Tedavi ve Egitim Birimleri Hakkrnda
-
-Ydnetmelik" kapsam-rnda faaliyetlerini siirdiirmektedir. Bu birimlerde gah$acak tabip, hemqire ve psikolog unvanlnt haiz sa[hk personelinin almasr gereken e[itim ve elitim sonunda baganh olanlara verilecek katrhm belgelerinin Ekte yer alan usul ve esaslara uygun olarak dtizenlenmesi hususunu tensiplerinize arz ederim.
-
-Yrd. Dog. .M AKSOY
-
-Bagkam
-
-Mtistegar
+OLUR
+…/…/2013
+Prof. Dr. Nihat TOSUN
+Müsteşar
 
 EKLER:
+1- Tütün Bağımlılığı Tedavisi Eğitimi Usul ve Esasları (1 sayfa)
+2- Katılım Belgesi Örneği (1 sayfa)
 
-I -Tiitiin Balrmhhg Tedavisi Egitimi Usul ve Esaslan (1 sayfa)
+### Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik Kapsamında Yapılacak Tütün Bağımlılığı Tedavisi Eğitimi Usul ve Esasları
 
-2-Katrhm Belgesi Ome[i (l sayfa)
+1- Tütün bağımlılığı tedavisi eğitimi programı başlangıç, bitiş tarihleri ve yeri Türkiye Halk Sağlığı Kurumu Başkanlığınca belirlenip Halk Sağlığı Müdürlüğünce ilan edilir. Eğitim programı uzaktan ve yerinde eğitim olacak şekilde iki aşamadan oluşur.
 
-Tiltun ve Diger Bagrmhhk Yaprcr Maddelerl€ Miicadele Daire Ba$kanhgl T€l | (312) 565 61 0l
+- **Uzaktan eğitim**; Türkiye Halk Sağlığı Kurumu Başkanlığınca ilan edilen uzaktan eğitim merkezi internet adresine katılımcıların tanımlanan kullanıcı isim ve parolayı kullanarak giriş yapması suretiyle,
+- **Yerinde eğitim** ise; içeriği ve eğiticileri Türkiye Halk Sağlığı Kurumu Başkanlığınca onaylanmış, 8 saati teorik ders ve 4 saati hasta başı pratik uygulama eğitimi olacak şekilde en az 12 saat olarak verilir.
 
-Saglk I Sokak Nor 38 Kat 5 Sfthiye /ANKARA Faksr (312) 565 61 53
+Uzaktan eğitimi tamamlayarak yapılacak sınavda yüz üzerinden en az yetmiş puan alanlar yerinde eğitime katılmaya hak kazanır. Yerinde eğitim programına katılan kursiyer, teorik ders süresinin %5'inden daha fazla devamsızlık yapmamış ve eğitim sonunda soruları Türkiye Halk Sağlığı Kurumu Başkanlığınca hazırlanmış teorik sınavdan en az 70 puan alması halinde başarılı kabul edilir.
 
-EK 1:
+2- Katılımcılardan herhangi bir ücret talebi olmadan, Bakanlık adına yerinde eğitim vermek isteyen meslek örgütleri, kamu veya özel kurum veya kuruluşlar eğitim taleplerine ilişkin dilekçeleri ile birlikte eğitim sorumlusu ve eğiticilerin unvan ve iletişim bilgilerini, eğitim programını, eğitimin yapılacağı adresi eğitim tarihinden en az 20 gün önce Türkiye Halk Sağlığı Kurumu Başkanlığına gönderir.
 
-Tiitiin Balunlilrlr Tedavi ve Elitim Birimleri Hakkrnda Ydnetrnelik Kapsamrnda Yaprlacak
+Türkiye Halk Sağlığı Kurumu Başkanlığınca değerlendirilen talebin uygun görülmesi halinde 15 gün içerisinde eğitimin takip ve koordinasyonundan sorumlu olacak en az bir Bakanlık personeli Başkanlıkça görevlendirilir.
 
-Tiitiin BaSmhhlr Tedavisi Efiitimi Usul ve Esaslan
+Başkanlıktan onay alınarak yapılan eğitim programı sonunda;
 
-l- Tiitiin balrmhhlt tedavisi elitimi programr baqlangrg, bitig tarihleri ve yeri Tiirkiye Halk Sa[ltlt Kurumu Bagkanhlrnca belirlenip Halk Salhlr Miidi.irliifiiLnce ilan edilir. E[itim programr uzaktan ve yerinde e[itim olacak qekilde iki aqamadan oluqur.
+a) Kurum veya kuruluşun eğitim sorumlusu ve Başkanlıkça eğitim için görevlendirilmiş Bakanlık personeli tarafından imzalanmış, devam ve not durumlarını gösterir tutanak,
 
-Uzaktan efitim; Titkiye Halk Salhg Kurumu Bagkanhlrnca ilan edilen uzaktan elitim merkezi intemet adresine katrhmcrlarrn tarumlanan kullamcr isim ve parolayr kullanarak girig yapmasr suretiyle,
+b) Eğitim programı sonunda başarılı olan katılımcılar için eğitimi düzenleyen kurum veya kuruluşlar tarafından hazırlanan ve bir örneği Ek-2'de yer alan katılımcı belgeleri,
 
-Yerinde egitim ise; igerigi ve eliticileri Tiirkiye Halk Saghlr Kurumu Bagkanhlrnca onaylanmrq, 8 saati teorik ders ve 4 saati hasta bagr pratik uygulama elitimi olacak gekilde en az 12 saat olarak verilir.
+eğitimin bitiş tarihini takip eden 15 gün içerisinde eğitimi yapan ilgili kurum veya kuruluş tarafından Başkanlığa gönderilir.
 
-Uzaktan elitimi tamamlayarak yaprlacak srnavda yiiz tizerinden en az yetmiq puan alanlar yerinde elitime katrlmaya hak kazanr. Yerinde elitim programma katrlan kursiyer, teorik ders si.iresinin o/ol'inden daha fazla devamsrzhk yapmamlg ve elitim sonunda sorulan
+3- Tütün bağımlılığı tedavisi eğitimi programında başarılı olanlara Türkiye Halk Sağlığı Kurumu Başkanlığınca onaylanmış Katılımcı Belgesi verilir.
 
-Tiirkiye Halk Sa$hg Kurumu Bagkanhlrnca hazrrlanmrg teorik srnavdan en az 70 puan almasr halinde baganh kabul edilir.
+## EK-2: TÜTÜN BAĞIMLILIĞI TEDAVİ VE EĞİTİM BİRİMLERİ HAKKINDA YÖNETMELİK
 
-2- Katrhmcrlardan herhangi bir iicret talebi olmadan, Bakanhk adrna yerinde elitim vermek isteyen meslek drgiitleri, kamu veya Szel kurum veya kuruluglar egitim taleplerine iliqkin dilekgeleri ile birlikte epitim sorumlusu ve eliticilerin unvan ve iletiqim bilgilerini, elitim programrm, egitimin yaprlacalr adresi elitim tarihinden en az 20 giin 6nce Tiirkiye Halk
+<small>Ekte yönetmeliğin 23.11.2011 tarihli ilk yayımlanan metni yer almaktadır. Güncel metin için sitedeki yönetmelik sayfasına bakınız.</small>
 
-Salhg Kurumu Ba.gkanhlna gdnderir.
+### BİRİNCİ BÖLÜM
 
-Tiirkiye Halk Salhlr Kurumu Baqkanhlrnca delerlendirilen talebin uygun gdriilmesi halinde 15 gtin igerisinde egitimin takip ve koordinasyonundan sorumlu olacak en az bir Bakanhk personeli Baqkanhkga gdrevlendirilir.
+### Amaç, Kapsam, Dayanak ve Tanımlar
 
-Bagkanlktan onay ahnarak yaprlan e$itim programr sonunda;
-
-a) Kurum veya kurulugun efitim sorumlusu ve Bagkanhkga elitim igin gdrevlendirilmiq
-
-Bakanlk personeli tarafindan imzalanmrg, devam ve not durumlanm gdsterir tutanak, b) Egitim programr sonunda baganh olan katrhmcrlar igin egitimi diizenleyen kurum veya kuruluglar tarafindan hazrrlanan ve bir 6me!i Ek-2’de yer alan katrhmct belgeleri,
-
-Elitimin bitig tarihini takip eden 15 gitur igerisinde elitimi yapan ilgili kurum veya kuruluq tarafindan Bagkanhla gdnderilir.
-
-3- Tiitiin balrmhhlr tedavisi elitimi programrnda baqanh olanlara Ttirkiye Halk Salhlr
-
-Kurumu Baqkanhlrnca onaylanmrg Katrhmcr Belgesi verilir.
-
-TÜTÜN BAĞIMLILIĞI TEDAVİ VE EĞİTİM BİRİMLERİ HAKKINDA YÖNETMELİK
-
-BİRİNCİ BÖLÜM
-
-**Amaç**, Kapsam, Dayanak ve Tanımlar
-
-Amaç
+**Amaç**
 
 **MADDE 1 –** (1) Bu Yönetmeliğin amacı; sağlık, sosyal ve ekonomik açıdan zararlı olan tütün ve tütün ürünleri hakkında halkın bilinçlendirildiği, tütün bağımlılarının modern tıbbın bir gereği olarak tedavi ve eğitimlerinin yapıldığı tütün bağımlılığı tedavi ve eğitim birimlerinin tesis, hizmet, personel kıstas ve standartlarının tespit edilmesine, bunların açılmalarına, faaliyetlerine ve denetlenmelerine ilişkin usul ve esasları düzenlemektir.
 
@@ -165,11 +127,21 @@ Amaç
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) Birim: Tütün bağımlılarına yönelik ilaçla, ilaçsız veya her iki usulle de yapılan, bilimsel kanıta dayalı ve Bakanlık tarafından kabul edilen tedavi ve eğitim usullerinin uygulandığı kamu ve özel sağlık kurum ve kuruluşları bünyesinde faaliyet gösteren birimleri, c) Genel Müdürlük: Temel Sağlık Hizmetleri Genel Müdürlüğünü, ç) Katılımcı belgesi: Tütün bağımlılığı tedavisi eğitimi programı sonunda Bakanlıkça verilen katılımcı belgesini veya meslek örgütleri, kamu veya özel kurum ve kuruluşlarınca bu Yönetmeliğin yayım tarihinden önce verilmiş ve Bakanlıkça onaylanmış katılımcı belgesini, d) Komisyon: Tütün Bağımlılığı Tedavi Usulleri Bilim Komisyonunu, e) Müdürlük: İl Sağlık Müdürlüğünü, ifade eder.
+b) Birim: Tütün bağımlılarına yönelik ilaçla, ilaçsız veya her iki usulle de yapılan, bilimsel kanıta dayalı ve Bakanlık tarafından kabul edilen tedavi ve eğitim usullerinin uygulandığı kamu ve özel sağlık kurum ve kuruluşları bünyesinde faaliyet gösteren birimleri,
 
-İKİNCİ BÖLÜM
+c) Genel Müdürlük: Temel Sağlık Hizmetleri Genel Müdürlüğünü,
 
-Tütün Bağımlılığı Tedavi Usulleri Bilim Komisyonu
+ç) Katılımcı belgesi: Tütün bağımlılığı tedavisi eğitimi programı sonunda Bakanlıkça verilen katılımcı belgesini veya meslek örgütleri, kamu veya özel kurum ve kuruluşlarınca bu Yönetmeliğin yayım tarihinden önce verilmiş ve Bakanlıkça onaylanmış katılımcı belgesini,
+
+d) Komisyon: Tütün Bağımlılığı Tedavi Usulleri Bilim Komisyonunu,
+
+e) Müdürlük: İl Sağlık Müdürlüğünü,
+
+ifade eder.
+
+### İKİNCİ BÖLÜM
+
+### Tütün Bağımlılığı Tedavi Usulleri Bilim Komisyonu
 
 **Komisyonun teşkili**
 
@@ -177,15 +149,25 @@ Tütün Bağımlılığı Tedavi Usulleri Bilim Komisyonu
 
 (2) Komisyon, Bakanlık Müsteşarı veya görevlendireceği bir müsteşar yardımcısının başkanlığında;
 
-a) Temel Sağlık Hizmetleri Genel Müdürü, Tedavi Hizmetleri Genel Müdürü, İlaç ve Eczacılık Genel Müdürü ve Kanserle Savaş Dairesi Başkanı veya görevlendirecekleri bir yardımcıları, b) Tıp Fakültelerinin Halk Sağlığı Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki halk sağlığı uzmanı, c) Tıp Fakültelerinin Ruh Sağlığı ve Hastalıkları Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki ruh sağlığı ve hastalıkları uzmanı, ç) Tıp Fakültelerinin Farmakoloji Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki farmakoloji uzmanı, d) Tıp Fakültelerinin Göğüs Hastalıkları Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki göğüs hastalıkları uzmanı, e) Tıp Fakültelerinin Aile Hekimliği Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki aile hekimliği uzmanı, olmak üzere toplam on beş kişiden oluşur.
+a) Temel Sağlık Hizmetleri Genel Müdürü, Tedavi Hizmetleri Genel Müdürü, İlaç ve Eczacılık Genel Müdürü ve Kanserle Savaş Dairesi Başkanı veya görevlendirecekleri bir yardımcıları,
+
+b) Tıp Fakültelerinin Halk Sağlığı Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki halk sağlığı uzmanı,
+
+c) Tıp Fakültelerinin Ruh Sağlığı ve Hastalıkları Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki ruh sağlığı ve hastalıkları uzmanı,
+
+ç) Tıp Fakültelerinin Farmakoloji Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki farmakoloji uzmanı,
+
+d) Tıp Fakültelerinin Göğüs Hastalıkları Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki göğüs hastalıkları uzmanı,
+
+e) Tıp Fakültelerinin Aile Hekimliği Anabilim Dalı öğretim üyelerinden veya Bakanlığa bağlı kurum ve kuruluşlardan iki aile hekimliği uzmanı,
+
+olmak üzere toplam on beş kişiden oluşur.
 
 (3) Komisyonun, ikinci fıkranın (a) bendi dışındaki bentlerinde yer alan üyeleri, Genel Müdürün teklif ettiği aynı nitelikteki kişiler arasından Bakan tarafından seçilir. Komisyonun seçilmiş üyeleri iki yıl süre ile görev yaparlar. Seçilmiş üyelerden kabul edilebilir bir mazereti olmaksızın iki defa üst üste toplantılara katılmayan üyenin üyeliği düşer. Yerine bir ay içerisinde Bakanlıkça aynı nitelikleri taşıyan yeni bir üye seçilir. Üyeliğe tekrar seçilmek mümkündür.
 
 **Komisyonun çalışma usul ve esasları**
 
-**MADDE 6 –** (1) Komisyon; Bakanlığın daveti üzerine, komisyon başkanı tarafından önceden belirlenmiş toplantı gündemine göre yılda en az iki defa toplanır.
-
-Toplantı daveti; toplantı tarihi, yeri ve gündemi ile birlikte en az on beş gün önce üyelere yazılı olarak bildirilir.
+**MADDE 6 –** (1) Komisyon; Bakanlığın daveti üzerine, komisyon başkanı tarafından önceden belirlenmiş toplantı gündemine göre yılda en az iki defa toplanır. Toplantı daveti; toplantı tarihi, yeri ve gündemi ile birlikte en az on beş gün önce üyelere yazılı olarak bildirilir.
 
 (2) Komisyon, en az on üyenin katılımı ile toplanır ve toplantı katılımcı sayısının salt çoğunluğu ile karar alır. Oylarda eşitlik olması hâlinde, komisyon başkanının taraf olduğu görüş kararlaştırılmış sayılır.
 
@@ -207,9 +189,9 @@ c) Tütün bağımlılığı tedavi usulleri ile ilgili tanı ve tedavi protokol
 
 ç) Bu Yönetmelik kapsamında Bakanlıkça belirlenecek konularda görüş bildirmek.
 
-ÜÇÜNCÜ BÖLÜM
+### ÜÇÜNCÜ BÖLÜM
 
-Tütün Bağımlılığı Tedavisi Usulleri ve Birimlerin Açılması
+### Tütün Bağımlılığı Tedavisi Usulleri ve Birimlerin Açılması
 
 **Tütün bağımlılığı tedavisi usulleri**
 
@@ -237,9 +219,7 @@ b) Farmakolojik tedaviler:
 
 3) Bupropion hidroklorür.
 
-(2) Yeni tedavi usulleri uygulamak ve bu usullerde kullanılabilecek yeni ürünler ile ilgili görüş bildirmek isteyenler; her türlü bilimsel doküman, bilgi ve belgeleriyle ilgili mevzuat çerçevesinde müracaatlarını Bakanlığa yaparlar. Bakanlık, ihtiyaç duyulması hâlinde müracaatları Komisyona yönlendirebilir. Müracaatlar Komisyonda değerlendirilir. Komisyon gerektiğinde üniversitelerden, ilgili kamu kurum ve kuruluş, dernek, vakıf ve meslek kuruluşlarından yazılı görüş talep edebilir.
-
-Komisyon, değerlendirme neticesinde yeni tedavi usulünün uygulanıp uygulanamayacağı hususunda Bakanlığa görüş sunar. Belirtilen tedavi uygulamalarıyla ilgili protokoller, Komisyonun kararı üzerine belirlenir ve Bakanlıkça yayımlanır.
+(2) Yeni tedavi usulleri uygulamak ve bu usullerde kullanılabilecek yeni ürünler ile ilgili görüş bildirmek isteyenler; her türlü bilimsel doküman, bilgi ve belgeleriyle ilgili mevzuat çerçevesinde müracaatlarını Bakanlığa yaparlar. Bakanlık, ihtiyaç duyulması hâlinde müracaatları Komisyona yönlendirebilir. Müracaatlar Komisyonda değerlendirilir. Komisyon gerektiğinde üniversitelerden, ilgili kamu kurum ve kuruluş, dernek, vakıf ve meslek kuruluşlarından yazılı görüş talep edebilir. Komisyon, değerlendirme neticesinde yeni tedavi usulünün uygulanıp uygulanamayacağı hususunda Bakanlığa görüş sunar. Belirtilen tedavi uygulamalarıyla ilgili protokoller, Komisyonun kararı üzerine belirlenir ve Bakanlıkça yayımlanır.
 
 **Birimlerin kurulması**
 
@@ -261,13 +241,9 @@ c) Özel sağlık kurum ve kuruluşları bünyesindeki birimlerde görev yapacak
 
 **MADDE 11 –** (1) Birim açma ön izni alan ve 10 uncu maddeye göre yapılan başvuruyu değerlendirmek üzere Müdürlük nezdinde bir il değerlendirme komisyonu oluşturulur. İl değerlendirme komisyonu, il sağlık müdürü veya görevlendireceği bir müdür yardımcısının başkanlığında, Tıp Meslekleri Şube Müdürlüğü ve Tütün ve Madde Bağımlılığı İşleri Şube Müdürlüğü/Biriminden birer teknik personel olmak üzere en az üç üyeden oluşur. İhtiyaç duyulması hâlinde il değerlendirme komisyonuna ayrıca inşaat mühendisi gibi teknik personel ilave edilebilir.
 
-(2) Başvuru, il değerlendirme komisyonu tarafından öncelikle dosya bazında incelenir ve noksanlıklar varsa, Müdürlükçe birim talebinde bulunanlara bildirilir.
+(2) Başvuru, il değerlendirme komisyonu tarafından öncelikle dosya bazında incelenir ve noksanlıklar varsa, Müdürlükçe birim talebinde bulunanlara bildirilir. Başvuru dosyasında noksanlık yoksa, il değerlendirme komisyonu tarafından personel, bina, tıbbi donanım ve araç-gereçler ile bu Yönetmeliğin öngördüğü diğer hususlara uygunluk yönünden yerinde inceleme yapılarak, sonuçları bir rapor hâlinde düzenlenir.
 
-Başvuru dosyasında noksanlık yoksa, il değerlendirme komisyonu tarafından personel, bina, tıbbi donanım ve araç-gereçler ile bu Yönetmeliğin öngördüğü diğer hususlara uygunluk yönünden yerinde inceleme yapılarak, sonuçları bir rapor hâlinde düzenlenir.
-
-(3) Başvuru belgeleri noksan olan veya durumu ilgili mevzuata uygun bulunmayan başvuru dosyası ret gerekçeleriyle birlikte başvuru sahibine iade edilir.
-
-Müdürlüğe yapılan başvuru işlemleri, başvuru tarihinden itibaren en geç on beş işgünü içerisinde sonuçlandırılır.
+(3) Başvuru belgeleri noksan olan veya durumu ilgili mevzuata uygun bulunmayan başvuru dosyası ret gerekçeleriyle birlikte başvuru sahibine iade edilir. Müdürlüğe yapılan başvuru işlemleri, başvuru tarihinden itibaren en geç on beş işgünü içerisinde sonuçlandırılır.
 
 **Açılma izni**
 
@@ -275,9 +251,9 @@ Müdürlüğe yapılan başvuru işlemleri, başvuru tarihinden itibaren en geç
 
 (2) Başvuru sahibi, düzenlenen izin belgesi ile faaliyete başlar ve faaliyet/uygunluk belgesine eklenmesi için en geç on işgünü içinde müdürlüğe müracaat eder.
 
-DÖRDÜNCÜ BÖLÜM
+### DÖRDÜNCÜ BÖLÜM
 
-Birimlerin Asgari Personel ve Fiziki Standartları
+### Birimlerin Asgari Personel ve Fiziki Standartları
 
 **Personel standardı**
 
@@ -301,21 +277,19 @@ a) Hasta kayıt bölümü, birime müracaat eden tütün bağımlılarının ran
 
 b) Bekleme salonu, yeterli güç ve büyüklükte havalandırma, ısıtma ve aydınlatma sistemlerine sahip, duvarlarında tütün ve ürünlerinin zararlarını gösterir afiş ve panoların asılı olduğu, broşür-video gibi görsel yayınlarla tütün ve ürünlerinin zararlarının anlatıldığı, hastaların randevu saatlerini bekleyebileceği ve yeterli büyüklükte alana sahip kapısı ile ana giriş ve koridordan ayrılmış olan kısımdır.
 
-c) Poliklinik muayene odaları iki bölümden oluşur. Bu bölümlerden birinde EK-1’in (A) bölümünde poliklinikler için belirlenen araç ve gereçler bulunur. Diğer bölüm ise, hasta ile görüşme odası olarak düzenlenir ve EK-1’in (B) bölümündeki malzemeleri ihtiva eder.
+c) Poliklinik muayene odaları iki bölümden oluşur. Bu bölümlerden birinde EK-1'in (A) bölümünde poliklinikler için belirlenen araç ve gereçler bulunur. Diğer bölüm ise, hasta ile görüşme odası olarak düzenlenir ve EK-1'in (B) bölümündeki malzemeleri ihtiva eder.
 
 ç) Hemşire istasyonu; koridor, bekleme salonu ve muayene odalarına hâkim bir konumda ve koridorun genişliğini etkilemeyecek şekilde, banko veya masa ve sandalyeden oluşmuş hemşirelerin boş zamanlarında oturabileceği kısmı ifade eder.
 
 d) Numune alma odası, tabip tarafından istenilen tetkik ve tahliller için hastadan kan veya idrar alınmasına uygun, poliklinik ve laboratuvarlara yakın, hijyen şartlarına sahip lavabosu olan kısmı ifade eder. Bu bölüm sağlık kurum ve kuruluşlarında mevcut bulunması hâlinde ayrıca istenmez. Kurulu laboratuvarı bulunmayan birimler hizmet alımı ile başka bir laboratuvardan karşılayabilirler.
 
-BEŞİNCİ BÖLÜM
+### BEŞİNCİ BÖLÜM
 
-Birimlerin Çalışma Usul ve Esasları,
-
-Birim Personelinin Görevleri ile Tütün Bağımlılığı Tedavisi Eğitimi
+### Birimlerin Çalışma Usul ve Esasları, Birim Personelinin Görevleri ile Tütün Bağımlılığı Tedavisi Eğitimi
 
 **Birimlerin çalışma usul ve esasları**
 
-**MADDE 15 –** (1) Birimler, EK-2’de yer alan iş akış şemasına uygun olarak hasta kabul, muayene ve takiplerini; EK-3’teki iş akış şemasına göre de tedavilerini düzenlerler.
+**MADDE 15 –** (1) Birimler, EK-2'de yer alan iş akış şemasına uygun olarak hasta kabul, muayene ve takiplerini; EK-3'teki iş akış şemasına göre de tedavilerini düzenlerler.
 
 **Birim personelinin görevleri**
 
@@ -331,9 +305,7 @@ Birim Personelinin Görevleri ile Tütün Bağımlılığı Tedavisi Eğitimi
 
 **Eğitime başvuru**
 
-**MADDE 17 –** (1) Kamu ve özel sağlık kurum ve kuruluşlarında görev yapan tabip, hemşire ve psikolog unvanını haiz sağlık personeli, görev yaptıkları özel veya resmî kurumlar aracılığı ile tütün bağımlılığı tedavisi eğitimi programına müracaat edebilir. Herhangi bir kurumda görev yapmayanlar şahsen müracaat edebilirler.
-
-Başvuru dilekçeleri ve ilgili kurumun uygunluk yazıları Müdürlükçe Bakanlığa gönderilir. Bakanlıkça değerlendirme yapılır ve talebin uygun bulunması hâlinde aday, Bakanlıkça belirlenen eğitim grup ve tarihlerinde tütün bağımlılığı tedavisi eğitimi programına başlatılır.
+**MADDE 17 –** (1) Kamu ve özel sağlık kurum ve kuruluşlarında görev yapan tabip, hemşire ve psikolog unvanını haiz sağlık personeli, görev yaptıkları özel veya resmî kurumlar aracılığı ile tütün bağımlılığı tedavisi eğitimi programına müracaat edebilir. Herhangi bir kurumda görev yapmayanlar şahsen müracaat edebilirler. Başvuru dilekçeleri ve ilgili kurumun uygunluk yazıları Müdürlükçe Bakanlığa gönderilir. Bakanlıkça değerlendirme yapılır ve talebin uygun bulunması hâlinde aday, Bakanlıkça belirlenen eğitim grup ve tarihlerinde tütün bağımlılığı tedavisi eğitimi programına başlatılır.
 
 **Eğitim ve katılımcı belgesi**
 
@@ -341,23 +313,21 @@ Başvuru dilekçeleri ve ilgili kurumun uygunluk yazıları Müdürlükçe Bakan
 
 (2) Eğitim programına katılan kursiyerin başarılı sayılması için, uzaktan eğitim merkezince yapılacak teorik sınavda yüz üzerinden en az yetmiş puan alması gerekir.
 
-(3) Yerinde eğitim programı toplam süresinin, saat olarak %5’inden fazla devamsızlık yapmış olanlar başarısız kabul edilirler.
+(3) Yerinde eğitim programı toplam süresinin, saat olarak %5'inden fazla devamsızlık yapmış olanlar başarısız kabul edilirler.
 
 (4) Tütün bağımlılığı tedavisi eğitimi programında başarılı olanlara Bakanlıkça düzenlenmiş katılımcı belgesi verilir.
 
-(5) Tütün bağımlılığı tedavisi eğitimleri 21/8/2010 tarihli ve 27679 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği çerçevesinde verilir.
+(5) Tütün bağımlılığı tedavisi eğitimleri 21/8/2010 tarihli ve 27679 sayılı Resmî Gazete'de yayımlanan Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği çerçevesinde verilir.
 
-ALTINCI BÖLÜM
+### ALTINCI BÖLÜM
 
-Çeşitli ve Son Hükümler
+### Çeşitli ve Son Hükümler
 
 **Denetim**
 
 **MADDE 19 –** (1) Birim, Müdürlük ekipleri tarafından, şikâyet ve soruşturma ile Bakanlığın Komisyona yaptırdığı veya Bakanlıkça yapılan olağandışı denetimler hariç olmak üzere, en az yılda bir defa yerinde denetlenir.
 
-(2) Denetleme ekibi; Tıp Meslekleri Şube Müdürlüğü ve Tütün ve Madde Bağımlılığı İşleri Şube Müdürlüğü/Biriminde görevli en az iki personelden oluşur.
-
-Denetleme ekibince denetim sonucunda düzenlenen denetim raporu Bakanlığa gönderilir.
+(2) Denetleme ekibi; Tıp Meslekleri Şube Müdürlüğü ve Tütün ve Madde Bağımlılığı İşleri Şube Müdürlüğü/Biriminde görevli en az iki personelden oluşur. Denetleme ekibince denetim sonucunda düzenlenen denetim raporu Bakanlığa gönderilir.
 
 (3) Birimlerin teknik, idari ve tıbbi verileri ile periyodik denetleme formlarındaki hususlar, gerektiğinde Komisyonun görüşü de alınarak, Bakanlıkça değerlendirilir.
 
@@ -391,7 +361,19 @@ b) Tütün bağımlılığı tedavisi eğitimleri sonunda verilmiş katılımcı
 
 **GEÇİCİ MADDE 2 –** (1) Bakanlık ve bağlı kuruluşlarının teşkilat ve kadrolarının 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye uygun hâle getirilmesinden sonra bu Yönetmelikte geçen;
 
-a) Temel Sağlık Hizmetleri Genel Müdürlüğünün görevleri, Türkiye Halk Sağlığı Kurumunca, b) Tedavi Hizmetleri Genel Müdürünün görevleri, Sağlık Hizmetleri Genel Müdürünce, c) İlaç ve Eczacılık Genel Müdürünün görevleri, Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanınca, ç) Kanserle Savaş Dairesi Başkanının görevleri, Türkiye Halk Sağlığı Kurumunun ilgili daire başkanınca, d) Tıp Meslekleri Şube Müdürlüğünün görevleri, Sağlık Hizmetleri Genel Müdürlüğünün ilgili birimince, e) Tütün ve Madde Bağımlılığı İşleri Şube Müdürlüğü/Biriminin görevleri, Türkiye Halk Sağlığı Kurumunun ilgili birimince, yerine getirilir.
+a) Temel Sağlık Hizmetleri Genel Müdürlüğünün görevleri, Türkiye Halk Sağlığı Kurumunca,
+
+b) Tedavi Hizmetleri Genel Müdürünün görevleri, Sağlık Hizmetleri Genel Müdürünce,
+
+c) İlaç ve Eczacılık Genel Müdürünün görevleri, Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanınca,
+
+ç) Kanserle Savaş Dairesi Başkanının görevleri, Türkiye Halk Sağlığı Kurumunun ilgili daire başkanınca,
+
+d) Tıp Meslekleri Şube Müdürlüğünün görevleri, Sağlık Hizmetleri Genel Müdürlüğünün ilgili birimince,
+
+e) Tütün ve Madde Bağımlılığı İşleri Şube Müdürlüğü/Biriminin görevleri, Türkiye Halk Sağlığı Kurumunun ilgili birimince,
+
+yerine getirilir.
 
 **Yürürlük**
 
@@ -401,89 +383,55 @@ a) Temel Sağlık Hizmetleri Genel Müdürlüğünün görevleri, Türkiye Halk 
 
 **MADDE 23 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-**Ekleri için tıklayınız.**
-
-**Tütün Bağımlılığı Tedavisi Eğitimine İlişkin Bilgilendirme**
+## EK-3: TÜTÜN BAĞIMLILIĞI TEDAVİSİ EĞİTİMİNE İLİŞKİN BİLGİLENDİRME
 
 **1. Başvuru ve Katılımcı Listesi**
 
-• Tütün Bağımlılığı Tedavisi Eğitimi almak isteyen personelin dilekçeleri ve Excel listesi, İl
-
-Sağlık Müdürlüğü tarafından toplanacaktır.
-
-• Bu formlar, oluşturulacak eğitim programına dahil edilebilmeleri amacıyla Genel
-
-Müdürlüğümüz Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığına iletilecektir.
+- Tütün Bağımlılığı Tedavisi Eğitimi almak isteyen personelin dilekçeleri ve Excel listesi, İl Sağlık Müdürlüğü tarafından toplanacaktır.
+- Bu formlar, oluşturulacak eğitim programına dahil edilebilmeleri amacıyla Genel Müdürlüğümüz Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığına iletilecektir.
 
 **2. Eğitimcilerin Belirlenmesi ve Program Hazırlığı**
 
-• Eğitim konularına yönelik daha önce Tütün Bağımlılığı Tedavisi Eğitimi almış personeller arasından eğitimleri verecek kişiler belirlenecek, ardından eğitim programı oluşturulacaktır.
-
-• Hazırlanan program ve dilekçeler birlikte değerlendirilmek üzere Genel Müdürlüğümüz Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığına gönderilecektir.
+- Eğitim konularına yönelik daha önce Tütün Bağımlılığı Tedavisi Eğitimi almış personeller arasından eğitimleri verecek kişiler belirlenecek, ardından eğitim programı oluşturulacaktır.
+- Hazırlanan program ve dilekçeler birlikte değerlendirilmek üzere Genel Müdürlüğümüz Tütün ve Madde Bağımlılığı ile Mücadele Dairesi Başkanlığına gönderilecektir.
 
 **3. USES Üzerinden TUBATEB Eğitimi**
 
-• Eğitime katılacak personelin, Uzaktan Sağlık Eğitim Sistemi (USES) üzerinden tanımlanmış olan TUBATEB eğitimini tamamlaması gerekmektedir.
-
-• Katılımcıların eğitimi tamamlama durumu, USES Koordinatörleri tarafından takip edilecektir.
-
-• Katılımcılar, son testten en az 70 puan almak zorundadır. (<i>Bu test, 70 puan alıncaya kadar</i> <i>sınırsız sayıda tekrar edilebilir.)</i>
+- Eğitime katılacak personelin, Uzaktan Sağlık Eğitim Sistemi (USES) üzerinden tanımlanmış olan TUBATEB eğitimini tamamlaması gerekmektedir.
+- Katılımcıların eğitimi tamamlama durumu, USES Koordinatörleri tarafından takip edilecektir.
+- Katılımcılar, son testten en az 70 puan almak zorundadır. (Bu test, 70 puan alıncaya kadar sınırsız sayıda tekrar edilebilir.)
 
 **4. Eğitim Materyalleri ve Değerlendirme Süreci**
 
-• Eğitim programına ait sunumlar ve sınav soruları, eğitim öncesinde Bakanlığımız tarafından İl
-
-Sağlık Müdürlüklerine gönderilecektir.
-
-• Yerinde eğitim sırasında;
-
-o İmza föyü katılımcılar tarafından imzalanacaktır.
-
-o Eğitim ve eğitimci değerlendirme formları da katılımcılarca doldurulacaktır.
-
-• Eğitimin ardından, sınav kağıtları, imza föyü ve değerlendirme formları, Daire Başkanlığımıza gönderilecektir.
+- Eğitim programına ait sunumlar ve sınav soruları, eğitim öncesinde Bakanlığımız tarafından İl Sağlık Müdürlüklerine gönderilecektir.
+- Yerinde eğitim sırasında; imza föyü katılımcılar tarafından imzalanacaktır. Eğitim ve eğitimci değerlendirme formları da katılımcılarca doldurulacaktır.
+- Eğitimin ardından, sınav kağıtları, imza föyü ve değerlendirme formları, Daire Başkanlığımıza gönderilecektir.
 
 **5. Sertifika Süreci**
 
-• Eğitim sonunda yapılan sınavlar tarafımızca değerlendirilecek, 70 ve üzeri puan alan katılımcılar için pratik eğitime geçilmesi amacıyla İl Sağlık Müdürlüğüne resmi yazı yazılacaktır.
+- Eğitim sonunda yapılan sınavlar tarafımızca değerlendirilecek, 70 ve üzeri puan alan katılımcılar için pratik eğitime geçilmesi amacıyla İl Sağlık Müdürlüğüne resmi yazı yazılacaktır.
+- Tüm aşamaları başarıyla tamamlayan katılımcılara Tütün Bağımlılığı Tedavisi Eğitimi Katılım Belgesi düzenlenerek gönderilecektir.
 
-• Tüm aşamaları başarıyla tamamlayan katılımcılara Tütün Bağımlılığı Tedavisi Eğitimi Katılım
+**Özel Sağlık Kurumlarında Çalışan Personele Yönelik TUBATEB (USES) Tanımlamaları**
 
-Belgesi düzenlenerek gönderilecektir.
+- Kamu kurum ve kuruluşlarında görev yapan sağlık personeli, doğrudan USES sistemi üzerinden eğitime giriş yapabilecektir.
+- Özel sağlık kurumlarında çalışan personelin sisteme tanımlamaları, görevlendirilen koordinatörler tarafından yapılacaktır.
+- Koordinatörler, özel sağlık çalışanlarının T.C. kimlik numaralarını temin ederek https://egitimadmin.saglik.gov.tr/ adresinden tanımlama işlemlerini gerçekleştirecektir.
+- Eğitime tanımlanan personel, https://egitim.saglik.gov.tr/ adresinden e-Devlet girişi yaparak önce profil bilgilerini güncelleyecek, ardından TUBATEB eğitimine erişim sağlayacaktır.
+- Tüm katılımcıların, durum raporlarında ve eğitim katılımcı listelerinde görünebilmeleri için profil güncelleme işlemini tamamlamış ve eğitime giriş yapmış olmaları gerekmektedir.
 
-**Özel Sağlık Kurumlarında Çalışan Personele Yönelik TUBATEB (USES)**
-
-**Tanımlamaları**
-
-• Kamu kurum ve kuruluşlarında görev yapan sağlık personeli, doğrudan USES sistemi üzerinden eğitime giriş yapabilecektir.
-
-• Özel sağlık kurumlarında çalışan personelin sisteme tanımlamaları, görevlendirilen koordinatörler tarafından yapılacaktır.
-
-• Koordinatörler, özel sağlık çalışanlarının T.C. kimlik numaralarını temin ederek **https://egitimadmin.saglik.gov.tr/** adresinden tanımlama işlemlerini gerçekleştirecektir.
-
-• Eğitime tanımlanan personel, **https://egitim.saglik.gov.tr/** adresinden e-Devlet girişi yaparak:
-
-o Önce profil bilgilerini güncelleyecek,
-
-o Ardından TUBATEB eğitimine erişim sağlayacaktır.
-
-• Tüm katılımcıların, durum raporlarında ve eğitim katılımcı listelerinde görünebilmeleri için profil güncelleme işlemini tamamlamış ve eğitime giriş yapmış olmaları gerekmektedir.
+## İLGİLİ YAZI: KOORDİNATÖR LİSTESİ (23.06.2025)
 
 T.C.
-
 SAĞLIK BAKANLIĞI
-
 Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-86696344-770-279705904 23.06.2025
-
 Konu : Koordinatör Listesi
 
 DAĞITIM YERLERİNE
 
-Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik 23 Kasım 2011 tarihli ve 28121 sayılı
-
-Resmî Gazetede yayımlanmıştır. Mezkûr yönetmelikte Tütün Bağımlılığı Tedavi ve Eğitim Birimlerinde görev yapacak hekimlerin, tütün bağımlılığı eğitimlerini almış olma zorunluluğu yer almaktadır.
+Tütün Bağımlılığı Tedavi ve Eğitim Birimleri Hakkında Yönetmelik 23 Kasım 2011 tarihli ve 28121 sayılı Resmî Gazetede yayımlanmıştır. Mezkûr yönetmelikte Tütün Bağımlılığı Tedavi ve Eğitim Birimlerinde görev yapacak hekimlerin, tütün bağımlılığı eğitimlerini almış olma zorunluluğu yer almaktadır.
 
 Eğitimler Bakanlığımızca uzaktan ve yerinde olmak üzere iki aşamalı olarak verilmekte olup eğitim programını başarıyla tamamlayanlar katılımcı belgesi almaya hak kazanmaktadır. Söz konusu uzaktan aşamalı olan eğitim programının Uzaktan Sağlık Eğitim Sistemine (USES) aktarılması planlanmaktadır. Bundan sonraki süreçte uzaktan eğitim sisteminin il bünyesinde koordinasyonunu sağlayacak her ilden üç personele ait bilgilerin ekte yer alan excel formuna işlenerek 27.06.2025 tarihine kadar tarafımıza iletilmesi gerekmektedir.
 
@@ -494,13 +442,10 @@ Sisteme tanımlanan katılımcı ise https://egitim.saglik.gov.tr/ adresine gire
 Bilgilerini ve gereğini rica ederim.
 
 Uzm. Dr. Hamit Harun BAĞCI
-
 Bakan a.
-
 Halk Sağlığı Genel Müdür Yardımcısı
 
 Ek: Koordinatör Listesi
 
 Dağıtım:
-
 81 İl Valiliğine (İl Sağlık Müdürlüğü)

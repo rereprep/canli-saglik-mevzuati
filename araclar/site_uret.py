@@ -455,7 +455,8 @@ def hizalar(bloklar):
             h = "sag"
         elif durum == "imza" and kisa and len(t) <= 160:
             h = "imza"
-        elif not uzun_goruldu and i < 8 and all(_KURUM.match(s) or _buyuk(s) for s in satirlar) and kisa:
+        elif kisa and (not uzun_goruldu and i < 8 or re.fullmatch(r"T\.\s?C\.?", satirlar[0])) and all(_KURUM.match(s) or _buyuk(s) for s in satirlar):
+            # belge başındaki kurum başlığı; ekteki ayrı yazılarda "T.C." ile başlayan başlık da
             h = "orta"
         elif kisa and len(t) <= 110 and any(_buyuk(s) for s in satirlar) and all(_buyuk(s) or re.fullmatch(r"[\d/.\- ]+", s) for s in satirlar) and not t.endswith((":", ";", ",")):
             h = "orta"
