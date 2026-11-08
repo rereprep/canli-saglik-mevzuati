@@ -146,7 +146,175 @@ def belgeleri_oku():
     sonuc = ciftleri_birlestir(belgeler)
     for b in sonuc.values():
         b["baslik"] = ad_temizle(b)
+        degisiklik_listesi_ekle(b)
     return sonuc
+
+
+# ---------------------------------------------------------------- değişiklik listesi
+# Kanun/KHK/CBK/tüzük/yönetmelik sayfalarının sonuna değişiklik listesi tablosu eklenir:
+# mevzuat.gov.tr'deki resmî liste varsa o (kaynak-isleme/mevzuat-gov/degisiklik-listeleri.json),
+# yoksa metindeki "(Değişik: …)", "(Ek: RG-…)" notlarından derlenen liste.
+_DL = None
+_LISTE_TURLER = ("kanun", "khk", "cbk", "tuzuk", "yonetmelik")
+_NOT = re.compile(r"\(([^()]{0,70}?)\s*:\s*(RG\s*[-–]\s*)?(\d{1,2})\s*/\s*(\d{1,2})\s*/\s*(\d{4})\s*[-–]\s*([^()]{1,80}?)\)")
+_GOVDE_LISTE = re.compile(r"(?im)^[^\n]*(?:GÖSTERİR\s+(?:LİSTE|TABLO|CETVEL)|YÜRÜRLÜĞE\s+GİRİŞ\s+TARİH(?:LERİNİ|İNİ))[^\n]*$")
+
+
+def _hucre(s):
+    return " ".join(str(s).replace("|", "/").split())
+
+
+def _md_tablo(satirlar):
+    n = max(len(r) for r in satirlar)
+    return "\n".join("| " + " | ".join(_hucre(h) for h in (r + [""] * (n - len(r)))) + " |" for r in satirlar)
+
+
+def _govdeden_liste(b):
+    """Metindeki değişiklik notlarından (değiştiren, tarih) -> maddeler listesi."""
+    yon = b["tur"] in ("yonetmelik", "tuzuk")
+    gruplar, madde = {}, ""
+    for satir in b["govde"].split("\n"):
+        m = re.match(r"^\W*(GEÇİCİ MADDE|Geçici Madde|EK MADDE|Ek Madde|MADDE|Madde)\s*[-–]?\s*(\d+[/A-Za-z]*)", satir)
+        if m:
+            on = m[1].lower()
+            madde = ("Geçici Madde " if on.startswith("geçici") else "Ek Madde " if on.startswith("ek") else "") + m[2]
+        for n in _NOT.finditer(satir):
+            if not re.search(r"Değişik|Ek|Mülga|İptal|Yürürlükten|Kaldırıl", n[1]):
+                continue
+            g, d, a, y = n[6], int(n[3]), int(n[4]), n[5]
+            if re.search(r"C[KB]K?\s*[-/]\s*(\d+)", g):
+                kim = "CBK/" + re.search(r"C[KB]K?\s*[-/]\s*(\d+)", g)[1]
+            elif re.search(r"KHK\s*[-/]\s*(\d+)", g):
+                kim = "KHK/" + re.search(r"KHK\s*[-/]\s*(\d+)", g)[1]
+            else:
+                ilk = re.match(r"\s*(\d+)", g)
+                if not ilk:
+                    continue
+                kim = ("RG " if (n[2] or yon) else "") + ilk[1]
+            anahtar = (y, a, d, kim)
+            gruplar.setdefault(anahtar, [])
+            if madde and madde not in gruplar[anahtar]:
+                gruplar[anahtar].append(madde)
+    if not gruplar:
+        return None
+    if yon:
+        bas = ["Resmî Gazete tarihi", "Resmî Gazete sayısı", "Değişen maddeler"]
+        satirlar = [[f"{d}/{a}/{y}", kim.replace("RG ", ""), ", ".join(sorted(m, key=_madde_sirasi)) or "–"] for (y, a, d, kim), m in sorted(gruplar.items())]
+        rt = re.match(r"(\d{4})-(\d{2})-(\d{2})", b.get("rg_tarih", "") or "")
+        if rt:
+            satirlar.insert(0, [f"{int(rt[3])}/{int(rt[2])}/{rt[1]}", b.get("rg_sayi", "") or "–", "İlk yayım"])
+    else:
+        bas = ["Değiştiren mevzuat", "Değişen veya eklenen maddeler", "Tarih"]
+        satirlar = [[kim, ", ".join(sorted(m, key=_madde_sirasi)) or "–", f"{d}/{a}/{y}"] for (y, a, d, kim), m in sorted(gruplar.items())]
+    return [bas] + satirlar
+
+
+def _govde_listesini_sil(govde):
+    """Metnin içindeki eski değişiklik listesini (başlık + tablo/satırlar) çıkarır; öncesi ve sonrası korunur."""
+    bloklar = re.split(r"\n{2,}", govde)
+    for i, bl in enumerate(bloklar):
+        duz = re.sub(r"[#*|]", " ", bl)
+        yon = re.search(r"(?:Yönetmeliğin|Tüzüğün|YÖNETMELİĞİN|TÜZÜĞÜN)\s+Yayımlandığı\s+Resm[iî]\s+Gazete|YAYIMLANDIĞI\s+RESM[İÎ]\s+GAZETE", duz)
+        if len(duz) < 400 and (yon or re.search(r"GÖSTERİR\s+(?:LİSTE|TABLO|CETVEL)|YÜRÜRLÜĞE\s+GİRİŞ\s+TARİH", duz) and duz.upper() == duz):
+            bas = i
+            while bas > 0 and i - bas < 4 and bloklar[bas - 1].lstrip().startswith("#") and bloklar[bas - 1].upper() == bloklar[bas - 1] \
+                    and re.search(r"SAYILI|MEVZUAT|DEĞİŞİKLİK|HÜKÜM|İPTAL|EDİLEN|YÜRÜRLÜĞE|ANAYASA|KARAR", bloklar[bas - 1]):
+                bas -= 1
+            son = i + 1
+            while son < len(bloklar):
+                b2 = bloklar[son].strip()
+                if b2.startswith("|") or (b2.startswith("#") and b2.upper() == b2) or \
+                        (len(b2) < 300 and not re.match(r"^(\**(MADDE|Madde|EK MADDE|GEÇİCİ)|<small>)", b2)):
+                    son += 1
+                else:
+                    break
+            return "\n\n".join(bloklar[:bas] + bloklar[son:])
+    return None
+
+
+def _tablo_korunur(govde, yeni):
+    """Silinecek kısımda en az üç satırlık markdown tablo varsa metindeki liste düzgündür."""
+    silinen = set(govde.split("\n")) - set(yeni.split("\n"))
+    return sum(1 for x in silinen if x.strip().startswith("|")) >= 3
+
+
+def _madde_sirasi(m):
+    n = re.match(r"(?:(Ek|Geçici) Madde )?(\d+)", m)
+    return ({None: 0, "Ek": 1, "Geçici": 2}[n[1]] if n else 3, int(n[2]) if n else 0, m)
+
+
+def _yonetmelik_tablosu(b, govde, yeni):
+    """Metindeki düzensiz 'Yönetmeliğin Yayımlandığı Resmî Gazete' tablosunu temiz satırlara çevirir."""
+    kalan = set(yeni.split("\n"))
+    rg = []
+    for ln in govde.split("\n"):
+        if ln in kalan or not ln.strip().startswith("|"):
+            continue
+        h = [c.strip() for c in ln.strip().strip("|").split("|")]
+        for j, c in enumerate(h):
+            if re.fullmatch(r"\d{1,2}/\d{1,2}/\d{4}", c):
+                rg.append((c, h[j + 1] if j + 1 < len(h) else ""))
+                break
+    if not rg:
+        return None
+    maddeler = {}
+    tur = _govdeden_liste(dict(b, govde=govde)) or []
+    for r in tur[1:]:
+        if r[2] != "İlk yayım":
+            maddeler[re.sub(r"\D.*", "", r[1])] = r[2]
+    satirlar = [[rg[0][0], rg[0][1], "İlk yayım"]]
+    gorulen = set()
+    for t, n in rg[1:]:
+        anahtar = re.sub(r"\D.*", "", n)
+        gorulen.add(anahtar)
+        satirlar.append([t, n, maddeler.get(anahtar, "–")])
+    for r in tur[1:]:  # tabloda olmayan ama metinde notu bulunan değişiklikler
+        anahtar = re.sub(r"\D.*", "", r[1])
+        if r[2] != "İlk yayım" and anahtar not in gorulen and anahtar != re.sub(r"\D.*", "", rg[0][1]):
+            satirlar.append(r)
+    def tarih(r):
+        g, a, y = (int(x) for x in r[0].split("/"))
+        return (y, a, g)
+    satirlar = [satirlar[0]] + sorted(satirlar[1:], key=tarih)
+    return [["Resmî Gazete tarihi", "Resmî Gazete sayısı", "Değişen maddeler"]] + satirlar
+
+
+def degisiklik_listesi_ekle(b):
+    global _DL
+    if b.get("tur") not in _LISTE_TURLER or not b.get("tam_metin"):
+        return
+    if _DL is None:
+        yol = KOK / "kaynak-isleme" / "mevzuat-gov" / "degisiklik-listeleri.json"
+        _DL = json.loads(yol.read_text(encoding="utf-8")) if yol.exists() else {}
+    resmi = None
+    for i in [b["id"]] + [i for _, i in b.get("eski_kimlikler", [])]:
+        if _DL.get(i, {}).get("satirlar"):
+            resmi = _DL[i]
+            break
+    govde = b["govde"]
+    yeni = _govde_listesini_sil(govde)
+    if resmi:
+        if yeni is not None:  # metindeki (çoğu zaman bozuk) listeyi kaldır, yerine resmî tabloyu koy
+            govde = yeni
+        ek = (f"\n\n## DEĞİŞİKLİK LİSTESİ\n\n<small>Kaynak: mevzuat.gov.tr</small>\n\n### {_hucre(resmi.get('baslik') or '')}\n\n"
+              + _md_tablo(resmi["satirlar"]))
+    else:
+        if yeni is not None:
+            if b["tur"] in ("yonetmelik", "tuzuk"):
+                liste = _yonetmelik_tablosu(b, govde, yeni)
+                if liste:
+                    b["govde"] = yeni.rstrip() + ("\n\n## DEĞİŞİKLİK LİSTESİ\n\n<small>Resmî Gazete bilgileri mevzuat.gov.tr metninden, "
+                                                  "değişen maddeler metindeki değişiklik notlarından derlenmiştir.</small>\n\n") + _md_tablo(liste) + "\n"
+                    return
+            if _tablo_korunur(govde, yeni):
+                return  # metinde düzgün tablo halinde liste var
+            govde = yeni
+        liste = _govdeden_liste(b)
+        if not liste:
+            return
+        ek = ("\n\n## DEĞİŞİKLİK LİSTESİ\n\n<small>Bu liste metindeki değişiklik notlarından derlenmiştir.</small>\n\n"
+              + _md_tablo(liste))
+    b["govde"] = govde.rstrip() + ek + "\n"
 
 
 def ad_temizle(b):
