@@ -143,3 +143,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - saglik.gov.tr'de 62 genelge kaydı alt liste sayfası (ör. devredilen birimlerin genelgeleri) olarak kaldı; ayrıca taranmadı.
 - Künye tarih/sayı eksikleri için araclar/zenginlestirme_listesi.py + kaynak-isleme/zenginlestirme/*.json katmanı hazır, henüz kullanılmadı.
 
+
+- 2026-11-08: Başka kanun/KHK değiştiren 28 KHK siteden çıkarıldı, yedek/cikarilan-khk/ altında (BENIOKU.md listeli). 443, 524, 560, 633, 663 sitede. Genel Tıbbi İşlemler 2023 PDF (E-42516296-030.02) metni sbg-103768 kaydına eklenecek; 2025 kaydı (TR-110034) ayrı belge.
