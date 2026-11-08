@@ -32,3 +32,13 @@ Geri eklemek için dosyayı icerik/khk/ altına taşıyıp siteyi yeniden oluşt
 - 700 sayılı KHK (2018-07-02): Anayasada Yapilan Deği̇şi̇kli̇klere Uyum Sağlanmasi Amaciyla Bazi Kanun Ve Kanun Hükmünde Kararnamelerde Deği̇şi̇kli̇k Yapilmasi Hakkinda Kanun Hükmünde Kararname
 - 702 sayılı KHK (2018-07-02): Nükleer Düzenleme Kurumunun Teşkilat ve Görevleri ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname
 - 703 sayılı KHK (2018-07-02): Anayasada Yapilan Deği̇şi̇kli̇klere Uyum Sağlanmasi Amaciyla Bazi Kanun Ve Kanun Hükmünde Kararnamelerde Deği̇şi̇kli̇k Yapilmasi Hakkinda Kanun Hükmünde Kararname
+
+## İkinci aşama (2026-11-08)
+
+Kendi kurumunu/konusunu düzenleyen şu KHKler de site sahibinin isteğiyle çıkarıldı:
+
+- 443 sayılı KHK: Çevre Bakanlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname
+- 524 sayılı KHK: Ceza İnfaz Kurumları ile Tutukevlerinin Kuruluş ve İdaresine Dair Kanun Hükmünde Kararname
+- 560 sayılı KHK: Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararname
+- 633 sayılı KHK: Sosyal Hi̇zmetler Alaninda Bazi Düzenlemeler Hakkinda Kanun Hükmünde Kararname
+- 663 sayılı KHK: Sağlık Alanında Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararname

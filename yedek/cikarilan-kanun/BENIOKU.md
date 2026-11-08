@@ -1,0 +1,259 @@
+# Siteden çıkarılan değiştirici kanunlar (2026-11-08)
+
+Başka kanun veya KHKleri değiştiren 253 kanun, site sahibinin isteğiyle siteden çıkarılıp buraya taşındı. Bu klasör sitede yayımlanmaz. Geri eklemek için dosyayı icerik/kanun/ altına taşıyıp siteyi yeniden oluşturun.
+
+- 1051 sayılı Kanun (1968-07-02): Umumî Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara dair 15/5/1959 gün ve 7269 sayılı Kanunun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesi hakkında Kanun
+- 2236 sayılı Kanun (1979-05-22): Uyuşturucu Maddelerin Murakabesi Hakkındaki Kanunun 3, 23 ve 28 İnci Maddelerinin Değiştirilmesi Hakkında Kanun
+- 243 sayılı Kanun (1963-05-30): Sağlık Hizmetlerinin Sosyalleştirilmesi Hakkındaki 224 Sayılı Kanunun 29 uncu Maddesinin Değiştirilmesine Dair Kanun
+- 2562 sayılı Kanun (1981-12-11): 6245 Sayılı Harcırah Kanununda Değişiklik Yapılması Hakkında Kanun
+- 2594 sayılı Kanun (1982-01-21): 2238 Sayılı Organ ve Doku Alınması, Saklanması, Aşılanması ve Nakli Hakkında Kanunun 14 ncü Maddesinin Matlabı ile Son Fıkrasının Değiştirilmesi ve Bu Maddeye Yeni Bir Fıkra Eklenmesine ilişkin Kanun
+- 2824 sayılı Kanun (1983-05-24): 9/5/1960 Tarihli ve 7478 Sayılı Köy İçme Suları Hakkında Kanunun 15 inci Maddesinin Yürürlükten Kaldırılması ve Bu Kanuna Bir Geçici Madde Eklenmesi Hakkında Kanun
+- 2851 sayılı Kanun (1983-06-16): 6245 Sayılı Harcırah Kanununun Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun
+- 2858 sayılı Kanun (1983-06-23): 5.1.1961 Tarih ve 224 Sayılı Sağlık Hizmetlerinin Sosyalleştirilmesi Hakkında Kanunun 8.5.1969 Tarih ve 1175 Sayılı Kanunla Değişik 20 nci Maddesinin Değiştirilmesine Dair Kanun
+- 2890 sayılı Kanun (1983-09-22): 24.4.1930 Tarihli ve 1593 Sayılı Umumi Hıfzıssıhha Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bir Ek Madde Eklenmesine İlişkin Kanun
+- 2928 sayılı Kanun (1983-10-19): 6.11.1981 Tarihli ve 2548 Sayılı Gemi Sağlık Resmi Kanununun Bazı Maddelerinin Değiştirilmesi Hakkında Kanun
+- 2993 sayılı Kanun (1984-04-03): 6343 Sayılı Veteriner Hekimliği Mesleğinin İcrasına, Veteriner Hekimleri Birliği ile Odalarının Teşekkül Tarzına ve Göreceği İşlere Dair Kanunun Bazı Maddelerinin Değiştirilmesi Hakkında 68 ve 86 Sayılı Kanun Hükmünde Kararnamelerin Değiştirilerek Kabulü Hakkında Kanun
+- 3144 sayılı Kanun (1985-01-08): 6023 Sayılı Türk Tabipleri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi Hakkında 65 Sayılı Kanun Hükmünde Kararname ile Buna İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun
+- 3145 sayılı Kanun (1985-01-08): 25/1/1956 Tarih ve 6643 Sayılı Türk Eczacıları Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Ek Madde Eklenmesi Hakkında Kanun Hükmünde Kararname ile 25/1/1956 Tarihli ve 6643 Sayılı Türk Eczacıları Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Ek Madde Eklenmesi Hakkında 16/5/1983 Tarihli ve 69 Sayılı Kanun Hükmünde Kararnamenin Bazı Hükümleri ile 6643 Sayılı Kanunun Bazı Hükümlerinin Değiştirilmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun
+- 3175 sayılı Kanun (1985-03-26): Köy Kanununun 74 üncü Maddesine İki Fıkra Eklenmesine Dair Kanun
+- 3177 sayılı Kanun (1985-04-04): 15/5/1959 Tarihli ve 7269 Sayılı Umumî Hayata Müessir Afetler Dolayısı ile Alınacak Tedbirler ile Yapılacak Yardımlara Dair Kanunun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna 4 Geçici Madde Eklenmesi Hakkında Kanun
+- 3204 sayılı Kanun (1985-05-14): 2828 Sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununa Bir Geçici Madde Eklenmesine Dair Kanun
+- 3288 sayılı Kanun (1986-05-15): 1380 Sayılı Su Ürünleri Kanununda Değişiklik Yapılmasına Dair Kanun
+- 3301 sayılı Kanun (1986-06-04): 2872 Sayılı Çevre Kanununun Bazı Maddelerinin Değiştirilmesi Hakkında Kanun
+- 3325 sayılı Kanun (1938-01-17): Muhasebei Umumiye Kanununa ek kanun
+- 3371 sayılı Kanun (1987-05-21): 10.2.1954 Tarih ve 6245 Sayılı Harcırah Kanununun 20 nci Maddesinin Değiştirilmesi Hakkında Kanun
+- 3413 sayılı Kanun (1988-02-25): 24.5.1983 Tarih ve 2828 Sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununa Bir Ek Madde Eklenmesi Hakkında Kanun
+- 3416 sayılı Kanun (1988-03-03): 2872 Sayılı Çevre Kanununun Bazı Maddelerinin Değiştirilmesi Hakkında Kanun
+- 3483 sayılı Kanun (1988-10-26): 1050 Sayılı Muhasebei Umumiye Kanununun Bazı Maddelerinin Değiştirilmesine ve Bu Kanunun Bir Maddesinin Yürürlükten Kaldırılmasına İlişkin 24 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun
+- 3571 sayılı Kanun (1989-06-14): 827 Sayılı Rıhtım Resmi Kanunu, 5422 Sayılı Kurumlar Vergisi Kanunu, 193 Sayılı Gelir Vergisi Kanunu, 3065 Sayılı Katma Değer Vergisi Kanunu, 3074 Sayılı Akaryakıt Tüketim Vergisi Kanunu ve 79 Sayılı Kanunun Bazı Maddelerinde Değişiklik Yapılması ile Bazı Kanunların Bazı Maddelerinin Yürürlükten Kaldırılması Hakkında Kanun
+- 3582 sayılı Kanun (1989-06-16): 3294 Sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanununda Değişiklik Yapılması Hakkında Kanun
+- 3652 sayılı Kanun (1990-05-23): 12.6.1933 Tarihli ve 2313 Sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanunun Bir Maddesinin Değiştirilmesine Dair Kanun
+- 3703 sayılı Kanun (1991-03-14): 2828 Sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanunu, 3289 Sayılı Beden Terbiyesi ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile 179 ve 181 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değişlirilerek Kabulüne Dair Kanun
+- 3824 sayılı Kanun (1992-06-25): Bazı Vergi Kanunlarında Değişiklik Yapılması Hakkında Kanun
+- 3838 sayılı Kanun (1992-08-28): Erzincan, Gümüşhane ve Tunceli İllerinde Vuku Bulan Deprem Afeti ile Şırnak ve Çukurca'da Meydana Gelen Hasar ve Tahribata İlişkin Hizmetlerin Yürütülmesi Hakkında Kanun
+- 3913 sayılı Kanun (1993-07-08): 2709 Sayılı Türkiye Cumhuriyeti Anayasasının 133 üncü Maddesinin Değiştirilmesi ile İlgili Kanun
+- 4078 sayılı Kanun (1995-02-23): Türk Eczacıları Birliği Kanununda Değişiklik Yapılmasına Dair Kanun
+- 4122 sayılı Kanun (1995-07-23): Milli Ağaçlandırma ve Erozyon Kontrolü Seferberlik Kanunu
+- 4133 sayılı Kanun (1995-11-16): 4123 Sayılı Tabiî Afet Nedeniyle Meydana Gelen Hasar ve Tahribata İlişkin Hizmetlerin Yürütülmesine Dair Kanun ile 7269 Sayılı Umumî Hayata Müessir Afetler Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunun Bazı Maddelerinin Değiştirilmesi ve Bu Kanunlara Ek Maddeler Eklenmesine Dair Kanun
+- 4206 sayılı Kanun (1996-11-07): 375 Sayılı Kanun Hükmünde Kararnamenin 28 inci Maddesinde Değişiklik Yapılmasına İlişkin Kanun
+- 4208 sayılı Kanun (1996-11-13): Karaparanın Aklanmasının Önlenmesine, 2313 Sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanunda, 657 Sayılı Devlet Memurları Kanununda ve 178 Sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 4276 sayılı Kanun (1997-06-18): Kamu Kurumu Niteliğindeki Meslek Kuruluşlarına İlişkin Kanunların Bazı Maddelerinin Değiştirilmesine Dair Kanun
+- 4342 sayılı Kanun (1998-02-25): Mera Kanunu
+- 4353 sayılı Kanun (1943-01-08): Maliye Vekâleti Başhukuk Müşavirliğinin ve Muhakemat Umum Müdürlüğünün Vazifelerine, Devlet Dâvalarının Takibi Usullerine ve Merkez ve Vilâyetler Kadrolarında Bazı Değişiklikler Yapılmasına Dair Kanun
+- 4397 sayılı Kanun (1999-07-06): Radyo ve Televizyon Verici Tesislerinin Türkiye Radyo-Televizyon Kurumu Genel Müdürlüğüne Devredilmesi ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 4446 sayılı Kanun (1999-08-13): Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılmasına İlişkin Kanun
+- 4565 sayılı Kanun (2000-04-19): Türk Silâhlı Kuvvetleri İç Hizmet Kanunu, Devlet Memurları Kanunu ve Türkiye Cumhuriyeti Emekli Sandığı Kanununda Değişiklik Yapılmasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun
+- 4568 sayılı Kanun (2000-05-23): Bazı Kanunların Değiştirilmesi ve Yürürlükten Kaldırılması Hakkında Kanun (Sağlık Hizmetleri Temel Kanunu dahil)
+- 4618 sayılı Kanun (2001-01-11): Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun Bazı Maddeleri ile 190 Sayılı Kanun Hükmünde Kararnamenin Eki Cetvellerde Değişiklik Yapılması Hakkında Kanun
+- 4629 sayılı Kanun (2001-02-21): Bazı Fonların Tasfiyesi Hakkında Kanun
+- 4649 sayılı Kanun (2001-04-19): Umum
+- 4684 sayılı Kanun (2001-06-20): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 4701 sayılı Kanun (2001-06-28): Millî Müdafaa Mükellefiyeti Kanununun Bazı Maddelerinde Değişiklik Yapılmasına Dair Kanun
+- 4720 sayılı Kanun (2001-11-21): T
+- 4747 sayılı Kanun (2002-03-20): İstihdamın Teşviki Amacıyla Ücret Dışı Yüklerden Bazılarının Ödenmesinin Ertelenmesi ile Sosyal Sigortalar Kanunu, Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanunu ve 631 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 4761 sayılı Kanun (2002-06-12): Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 4817 sayılı Kanun (2003-02-27): Yabancıların Çalışma İzinleri Hakkında Kanun
+- 4819 sayılı Kanun (2003-02-27): Uyuşturucu Maddelerin Murakabesi Hakkında Kanunun Bazı Maddelerinde Değişiklik Yapılmasına Dair Kanun
+- 4842 sayılı Kanun (2003-04-09): Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 4854 sayılı Kanun (2003-04-24): Bazı Kanunlardaki Cezaların İdari Para Cezasına Dönüştürülmesine Dair Kanun
+- 4864 sayılı Kanun (2003-05-29): Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 4916 sayılı Kanun (2003-07-03): Çeşitli Kanunlarda ve Maliye Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun
+- 4950 sayılı Kanun (2003-07-22): Su Ürünleri Kanununda Değişiklik Yapılmasına Dair Kanun
+- 4964 sayılı Kanun (2003-07-30): Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 4969 sayılı Kanun (2003-08-12): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 5020 sayılı Kanun (2003-12-12): Bankalar Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanun
+- 5148 sayılı Kanun (2004-04-27): Özelleştirme Uygulamalarının Düzenlenmesine ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun ile Kamu İhale Kanununda Değişiklik Yapılması Hakkında Kanun
+- 5185 sayılı Kanun (2004-06-03): Yalova Termal Kaplıcalarının İşletilmesi ve Kaplıcaların İnkişafı İşlerinin Sı
+- 5217 sayılı Kanun (2004-07-14): Özel Gelir ve Özel Ödeneklerin Düzenlenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun
+- 5220 sayılı Kanun (2004-07-14): Sağlık Hizmetleri Temel Kanununda Değişiklik Yapılmasına Dair Kanun
+- 5222 sayılı Kanun (2004-07-14): Ödeme
+- 5226 sayılı Kanun (2004-07-14): Kültür ve Tabiat Varlıklarını Koruma Kanunu ile Çeşitli Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 5234 sayılı Kanun (2004-09-17): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına
+- 5255 sayılı Kanun (2004-11-10): İzmir Kentinde Yapılacak Dünya Üniversitelerarası Spor Oyunları (Universiade)
+- 5263 sayılı Kanun (2004-12-01): Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü Teşkilât ve Görevleri Hakkında Kanun
+- 5272 sayılı Kanun (2004-12-07): Belediye Kanunu
+- 5312 sayılı Kanun (2005-03-03): Deniz Çevresinin Petrol ve Diğer Zararlı Maddelerle Kirlenmesinde Acil Durum-larda Müdahale ve Zararların Tazmini Esaslarına Dair Kanun
+- 5327 sayılı Kanun (2005-03-30): Denizli-Buldan ve Çevresinde, Hakkari'de, Bingöl-Karlıova ve Çevresi ile Erzurum-Çat'da Meydana Gelen Deprem Afetlerine ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 5335 sayılı Kanun (2005-04-21): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 5371 sayılı Kanun (2005-06-21): Sağlık Hizmetleri Temel Kanunu, Sağlık Personelinin Tazminat ve Çalışma Esaslarına Dair Kanun, Devlet Memurları Kanunu ve Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanun ile Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 5393 sayılı Kanun (2005-07-03): Belediye Kanunu
+- 5413 sayılı Kanun (2005-10-20): Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun, Sağlık
+- 5436 sayılı Kanun (2005-12-22): Kamu Malî Yönetimi ve Kontrol Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun
+- 5443 sayılı Kanun (2005-12-28): Köy Kanununda Değişiklik Yapılmasına Dair Kanun
+- 5473 sayılı Kanun (2006-03-21): Değişik Adlar Altında İlave Ödemesi Bulunmayan Memurlara ve Sözleşmeli Personele Ek Ödeme Yapılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun
+- 5477 sayılı Kanun (2006-03-23): Türk Tabipleri Birliği Kanununda Değişiklik Yapılmasına Dair Kanun
+- 5491 sayılı Kanun (2006-04-26): Çevre Kanununda Değişiklik Yapılmasına Dair Kanun
+- 5511 sayılı Kanun (2006-05-31): Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunda Değişiklik Yapılmasına İlişkin Kanun
+- 5538 sayılı Kanun (2006-07-01): Bütçe Kanunlarında Yer Alan Bazı Hükümlerin İlgili Kanun ve Kanun Hükmünde Kararnamelere Eklenmesi ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 5560 sayılı Kanun (2006-12-06): Çeşitli Kanunlarda Değişiklik Yapılmasına İlişkin Kanun
+- 5579 sayılı Kanun (2007-02-01): Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununda Değişiklik Yapılması Hakkında Kanun
+- 5583 sayılı Kanun (2007-02-22): Futbol Müsabakalarında Müşterek Bahisler Tertibi Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 5602 sayılı Kanun (2007-03-14): Şans Oyunları Hasılatından Alınan Vergi, Fon ve Payların Düzenlenmesi Hakkında Kanun
+- 5614 sayılı Kanun (2007-03-28): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 5615 sayılı Kanun (2007-03-28): Gelir Vergisi Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 5625 sayılı Kanun (2007-04-18): Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 5634 sayılı Kanun (2007-04-25): Hemşirelik Kanununda Değişiklik Yapılmasına Dair Kanun
+- 5673 sayılı Kanun (2007-05-27): Köy Kanununda ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 5680 sayılı Kanun (2007-06-01): Kamu İhale Kanunu ve Kamu İhale Sözleşmeleri Kanununda Değişiklik Yapılmasına Dair Kanun
+- 5726 sayılı Kanun (2007-12-27): Tanık Koruma Kanunu
+- 5727 sayılı Kanun (2008-01-03): Tütün Mamullerinin Zararlarının Önlenmesine Dair Kanunda Değişiklik Yapılması Hakkında Kanun
+- 5737 sayılı Kanun (2008-02-20): Vakıflar Kanunu
+- 5739 sayılı Kanun (2008-02-26): Çeşitli Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 5745 sayılı Kanun (2008-02-27): 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 5752 sayılı Kanun (2008-04-03): Tütün, Tütün Mamülleri, Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun
+- 5754 sayılı Kanun (2008-04-17): Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 5766 sayılı Kanun (2008-06-04): Amme Alacaklarının Tahsil Usulü Hakkında Kanunda ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 5784 sayılı Kanun (2008-07-09): Elektrik Piyasası Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 5797 sayılı Kanun (2008-07-31): Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 5812 sayılı Kanun (2008-11-20): Kamu İhale Kanunu ile Kamu İhale Sözleşmeleri Kanununda Değişiklik Yapılmasına Dair Kanun
+- 5838 sayılı Kanun (2009-02-18): Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 5917 sayılı Kanun (2009-06-25): Bütçe Kanunlarında Yer Alan Bazı Hükümlerin İlgili Kanun ve Kanun Hükmünde Kararnamelere Eklenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına İlişkin Kanun
+- 5921 sayılı Kanun (2009-08-11): İşsizlik Sigortası Kanunu ile Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına Dair Kanun
+- 5947 sayılı Kanun (2010-01-21): Üniversite ve Sağlık Personelinin Tam Gün Çalışmasına ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 5951 sayılı Kanun (2010-01-28): Amme Alacaklarının Tahsil Usulü Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 5957 sayılı Kanun (2010-03-11): Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanun
+- 5996 sayılı Kanun (2010-06-11): Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu
+- 5997 sayılı Kanun (2010-06-16): Bazı Kanunlarda ve 190 sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 6009 sayılı Kanun (2010-07-23): Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6088 sayılı Kanun (2010-12-11): Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun
+- 6110 sayılı Kanun (2011-02-09): Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6111 sayılı Kanun (2011-02-13): Bazı Alacakların Yeniden Yapılandırılması ile Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun
+- 6225 sayılı Kanun (2011-04-06): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6253 sayılı Kanun (2011-12-01): Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı Kanunu
+- 6266 sayılı Kanun (2012-01-12): 375 Sayılı Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 6270 sayılı Kanun (2012-01-17): Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6287 sayılı Kanun (2012-03-30): İlköğretim ve Eğitim Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6288 sayılı Kanun (2012-03-31): Katma De ğ er Vergisi Kanunu ile Baz ı Yat ı r ı m ve Hizmetlerin Yap- İş let-Devret Modeli Ç er ç evesinde Yapt ı r ı lmas ı Hakk ı nda Kanunda ve Kamu İ hale Kanununda De ğ i ş iklik Yap ı lmas ı na Dair Kanun
+- 6289 sayılı Kanun (2012-04-04): Kamu Görevlileri Sendikaları Kanununda Değişiklik Yapılmasına Dair Kanun
+- 6304 sayılı Kanun (2012-05-09): Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6305 sayılı Kanun (2012-05-09): Afet Sigortaları Kanunu
+- 6306 sayılı Kanun (2012-05-16): Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun
+- 6308 sayılı Kanun (2012-05-17): Eczacılar ve Eczaneler Hakkında Kanun ile Uyuşturucu Maddelerin Murakabesi Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun
+- 6322 sayılı Kanun (2012-05-31): Amme Alacaklar ı n ı n Tahsil Usul ü Hakk ı nda Kanun ile Baz ı Kanunlarda De ğ i ş iklik Yap ı lmas ı na Dair Kanun
+- 6327 sayılı Kanun (2012-06-13): Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6353 sayılı Kanun (2012-07-04): Baz ı Kanun ve Kanun H ü km ü nde Kararnamelerde De ğ i ş iklik Yap ı lmas ı na Dair Kanun
+- 6354 sayılı Kanun (2012-07-04): Sa ğ l ı k Bakanl ığı ve Ba ğ l ı Kurulu ş lar ı n ı n Te ş kilat ve G ö revleri Hakk ı nda Kanun H ü km ü nde Kararname ile Baz ı Kanun ve Kanun H ü km ü nde Kararnamelerde De ğ i ş iklik Yap ı lmas ı na Dair Kanun
+- 6385 sayılı Kanun (2013-01-10): Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6458 sayılı Kanun (2013-04-04): Yabancılar ve Uluslararası Koruma Kanunu
+- 6462 sayılı Kanun (2013-04-25): Kanun ve Kanun Hükmünde Kararnamelerde Yer Alan Engelli Bireylere Yönelik İbarelerin Değiştirilmesi Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6486 sayılı Kanun (2013-05-21): Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6487 sayılı Kanun (2013-05-24): Bazı Kanunlar ile 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun
+- 6494 sayılı Kanun (2013-06-27): Yargı Hizmetleri ile İlgili Olarak Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6495 sayılı Kanun (2013-07-12): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6514 sayılı Kanun (2014-01-02): Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6518 sayılı Kanun (2014-02-06): Aile ve Sosyal Politikalar Bakanl ığı n ı n Te ş kilat ve G ö revleri Hakk ı nda Kanun H ü km ü nde Kararname ile Baz ı Kanun ve Kanun H ü km ü nde Kararnamelerde De ğ i ş iklik Yap ı lmas ı na Dair Kanun
+- 6525 sayılı Kanun (2014-02-20): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun
+- 6527 sayılı Kanun (2014-02-26): Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 6529 sayılı Kanun (2014-03-02): Temel Hak ve Hürriyetlerin Geliştirilmesi Amacıyla Çeşitli Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6545 sayılı Kanun (2014-06-18): Türk Ceza Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6552 sayılı Kanun (2014-09-10): İş Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması ile Bazı Alacakların Yeniden Yapılandırılmasına Dair Kanun
+- 6566 sayılı Kanun (2014-11-06): Eczacılar ve Eczaneler Hakkında Kanun ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6567 sayılı Kanun (2014-11-18): Engelliler Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun
+- 6637 sayılı Kanun (2015-03-27): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6639 sayılı Kanun (2015-03-27): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun
+- 6645 sayılı Kanun (2015-04-04): İş Sağlığı ve Güvenliği Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6655 sayılı Kanun (2015-12-25): Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6661 sayılı Kanun (2016-01-14): Askerlik Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6663 sayılı Kanun (2016-01-29): Gelir Vergisi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6698 sayılı Kanun (2016-03-24): Kişisel Verilerin Korunması Kanunu
+- 6704 sayılı Kanun (2016-04-14): 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanun ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6719 sayılı Kanun (2016-06-04): Elektrik Piyasası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6728 sayılı Kanun (2016-07-15): Yatırım Ortamının İyileştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 6745 sayılı Kanun (2016-08-20): Yatırımların Proje Bazında Desteklenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6754 sayılı Kanun (2016-11-03): Bilirkişilik Kanunu
+- 6758 sayılı Kanun (2016-11-10): Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun
+- 6764 sayılı Kanun (2016-12-02): Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6770 sayılı Kanun (2017-01-18): Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 6824 sayılı Kanun (2017-02-23): Bazı Alacakların Yeniden Yapılandırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7020 sayılı Kanun (2017-05-18): Bazı Alacakların Yeniden Yapılandırılması ile Bazı Kanunlarda ve Bir Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7033 sayılı Kanun (2017-06-18): Sanayinin Geliştirilmesi ve Üretimin Desteklenmesi Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7060 sayılı Kanun (2017-11-01): Helal Akreditasyon Kurumu Kuruluş ve Görevleri Hakkında Kanun
+- 7061 sayılı Kanun (2017-11-28): Bazı Vergi Kanunları ile Diğer Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7063 sayılı Kanun (2017-12-06): Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7070 sayılı Kanun (2018-02-01): Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun
+- 7072 sayılı Kanun (2018-02-01): Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun
+- 7073 sayılı Kanun (2018-02-01): Olağanüstü Hal Kapsamında Milli Savunma ile İlgili Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun
+- 7074 sayılı Kanun (2018-02-01): Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun
+- 7078 sayılı Kanun (2018-02-01): Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair Kanun
+- 7099 sayılı Kanun (2018-02-15): Yatırım Ortamının İyileştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7103 sayılı Kanun (2018-03-21): Vergi Kanunları ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun
+- 7104 sayılı Kanun (2018-03-29): Katma Değer Vergisi Kanunu ve Bazı Kanunlar ile 178 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7139 sayılı Kanun (2018-04-19): Devlet Su İşleri Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile Bazı Kanunlarda ve Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7143 sayılı Kanun (2018-05-11): Vergi ve Diğer Bazı Alacakların Yeniden Yapılandırılması ile Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanun
+- 7144 sayılı Kanun (2018-05-16): Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 7146 sayılı Kanun (2018-07-26): Askerlik Kanunu ile Diğer Bazı Kanunlarda ve 663 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7151 sayılı Kanun (2018-11-15): Sağlıkla İlgili Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7153 sayılı Kanun (2018-11-29): Çevre Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7161 sayılı Kanun (2019-01-17): Vergi Kanunları ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7162 sayılı Kanun (2019-01-18): Gelir Vergisi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7164 sayılı Kanun (2019-02-14): Maden Kanunu ile Bazı Kanunlarda ve Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7166 sayılı Kanun (2019-02-21): S osyal Hizmetler Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7186 sayılı Kanun (2019-07-17): Gelir Vergisi Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 7194 sayılı Kanun (2019-12-05): Dijital Hizmet Vergisi ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun
+- 7196 sayılı Kanun (2019-12-06): Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7201 sayılı Kanun (2019-12-21): Kamulaştırma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7226 sayılı Kanun (2020-03-25): Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7243 sayılı Kanun (2020-04-15): Yükseköğretim Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7244 sayılı Kanun (2020-04-16): Yeni Koronavirüs (COVID-19) Salgınının Ekonomik ve Sosyal Hayata Etkilerinin Azaltılması Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7247 sayılı Kanun (2020-06-18): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun
+- 7256 sayılı Kanun (2020-11-11): Bazı Alacakların Yeniden Yapılandırılması ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+- 7261 sayılı Kanun (2020-12-24): Türkiye Çevre Ajansının Kurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7263 sayılı Kanun (2021-01-28): Teknoloji Geliştirme Bölgeleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7281 sayılı Kanun (2021-02-18): Türk Silâhlı Kuvvetleri Personel Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7316 sayılı Kanun (2021-04-15): Amme Alacaklarının Tahsil Usulü Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7326 sayılı Kanun (2021-06-03): Bazı Alacakların Yeniden Yapılandırılması ile Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanun
+- 7333 sayılı Kanun (2021-07-18): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7346 sayılı Kanun (2021-12-21): Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7349 sayılı Kanun (2021-12-22): Gelir Vergisi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7351 sayılı Kanun (2022-01-19): Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7381 sayılı Kanun (2022-03-05): Nükleer Düzenleme Kanunu
+- 7383 sayılı Kanun (2022-03-16): Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanun ile Devlet Memurları Kanununda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7394 sayılı Kanun (2022-04-08): Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun ile Bazı Kanunlarda ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7405 sayılı Kanun (2022-04-22): Spor Kulüpleri ve Spor Federasyonları Kanunu
+- 7406 sayılı Kanun (2022-05-12): Türk Ceza Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7410 sayılı Kanun (2022-06-10): Çevre Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7411 sayılı Kanun (2022-06-16): Sağlıkla İlgili Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7417 sayılı Kanun (2022-07-01): Devlet Memurları Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7418 sayılı Kanun (2022-10-13): Basın Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7420 sayılı Kanun (2022-11-03): Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7421 sayılı Kanun (2022-11-16): Vergi Usul Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7422 sayılı Kanun (2022-11-23): Polis Yüksek Öğretim Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7429 sayılı Kanun (2022-12-22): Elektrik Piyasası Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7431 sayılı Kanun (2023-01-12): Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7433 sayılı Kanun (2023-01-19): Devlet Memurları Kanunu ve Bazı Kanunlar ile 663 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7438 sayılı Kanun (2023-03-01): Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7442 sayılı Kanun (2023-03-23): Orman Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7445 sayılı Kanun (2023-03-28): İcra ve İflas Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7446 sayılı Kanun (2023-03-30): Çevre Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7447 sayılı Kanun (2023-03-30): İstiklal Madalyası Verilmiş Bulunanlara Vatani Hizmet Tertibinden Şeref Aylığı Bağlanması Hakkında Kanun ile Bazı Kanunlarda ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7451 sayılı Kanun (2023-04-04): Organize Sanayi Bölgeleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7456 sayılı Kanun (2023-07-14): 6/2/2023 Tarihinde Meydana Gelen Depremlerin Yol Açtığı Ekonomik Kayıpların Telafisi İçin Ek Motorlu Taşıtlar Vergisi İhdası ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun
+- 7464 sayılı Kanun (2023-10-25): Konutların Turizm Amaçlı Kiralanmasına ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7491 sayılı Kanun (2023-12-27): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun
+- 7495 sayılı Kanun (2024-01-25): İşsizlik Sigortası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7496 sayılı Kanun (2024-02-21): Sağlıkla İlgili Bazı Kanunlarda ve 663 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7517 sayılı Kanun (2024-06-12): Türk Silâhlı Kuvvetleri Personel Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7521 sayılı Kanun (2024-07-18): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7524 sayılı Kanun (2024-07-28): Vergi Kanunları ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7528 sayılı Kanun (2024-10-10): Öğretmenlik Mesleği Kanunu
+- 7537 sayılı Kanun (2024-12-25): Devlet Memurları Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7538 sayılı Kanun (2025-01-09): Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7546 sayılı Kanun (2025-03-27): Gençlik ve Spor Hizmetleri Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7548 sayılı Kanun (2025-05-21): Bazı Kanunlar ile 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7549 sayılı Kanun (2025-05-29): Bazı Kanunlarda ve 660 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7552 sayılı Kanun (2025-07-02): İklim Kanunu
+- 7553 sayılı Kanun (2025-07-10): Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7554 sayılı Kanun (2025-07-19): Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7555 sayılı Kanun (2025-07-20): Türk Parasının Kıymetini Koruma Hakkında Kanun ile Bazı Kanunlarda ve 635 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7557 sayılı Kanun (2025-07-21): Sağlıkla İlgili Bazı Kanunlarda ve 663 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7566 sayılı Kanun (2025-12-04): Vergi Kanunları ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- 7571 sayılı Kanun (2025-12-24): Türk Ceza Kanunu ile Bazı Kanunlarda ve 631 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7573 sayılı Kanun (2026-01-23): Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7576 sayılı Kanun (2026-03-11): Milli Parklar Kanunu ve Bazı Kanunlar ile 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7577 sayılı Kanun (2026-04-02): Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7578 sayılı Kanun (2026-04-22): Sosyal Hizmetler Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7579 sayılı Kanun (2026-05-07): Tapu Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun
+- 7584 sayılı Kanun (2026-06-11): Toprak Koruma ve Arazi Kullanımı Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+- 7590 sayılı Kanun (2026-07-24): Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun
+- (KHK değiştirerek kabul) Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun
+- (KHK değiştirerek kabul) İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun

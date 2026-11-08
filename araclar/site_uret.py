@@ -89,6 +89,17 @@ def belgeleri_oku():
     sahip.update(belgeler)
     for b in belgeler.values():
         bilinen.update(i for _, i in b.get("eski_kimlikler", []))
+    # Site sahibinin isteğiyle yedek/ klasörüne taşınan belgeler katalogdan künye olarak geri gelmesin
+    yedek_id, yedek_anahtar, yedek_no = set(), set(), set()
+    for md in sorted((KOK / "yedek").rglob("*.md")):
+        y, _ = on_bilgi_ayir(md.read_text(encoding="utf-8"))
+        if not y.get("baslik"):
+            continue
+        y.setdefault("id", md.stem)
+        yedek_id.add(y["id"])
+        yedek_anahtar.add(baslik_anahtari(y))
+        if y.get("tur") in ("kanun", "khk") and y.get("sayi"):
+            yedek_no.add((y["tur"], str(y["sayi"])))
     for js in sorted((KOK / "kaynak-isleme" / "katalog").glob("*.json")):
         for k in json.loads(js.read_text(encoding="utf-8")):
             if k.get("tur") not in TUR_ADLARI or not k.get("baslik"):
@@ -121,6 +132,9 @@ def belgeleri_oku():
                     es.setdefault("diger_kaynaklar", []).append(k["kaynak"])
                 if k.get("durum") and k["durum"] != "yürürlükte":
                     es["durum"] = k["durum"]
+                continue
+            if (k["id"] in yedek_id or baslik_anahtari(k) in yedek_anahtar
+                    or (k.get("tur") in ("kanun", "khk") and (k["tur"], str(k.get("sayi", ""))) in yedek_no)):
                 continue
             k["tam_metin"] = False
             k.setdefault("durum", "yürürlükte")

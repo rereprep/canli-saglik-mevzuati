@@ -145,3 +145,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 
 - 2026-11-08: Başka kanun/KHK değiştiren 28 KHK siteden çıkarıldı, yedek/cikarilan-khk/ altında (BENIOKU.md listeli). 443, 524, 560, 633, 663 sitede. Genel Tıbbi İşlemler 2023 PDF (E-42516296-030.02) metni sbg-103768 kaydına eklenecek; 2025 kaydı (TR-110034) ayrı belge.
+
+- 2026-11-08: 253 değiştiren kanun + KHKyi değiştirerek kabul eden 2 kanun yedek/cikarilan-kanun/ altına; 443, 524, 560, 633, 663 KHKleri de yedek/cikarilan-khk/ altına taşındı. Sitede KHK olarak yalnız 383 kaldı. site_uret.py artık yedek/ altındaki belgeleri katalogdan künye olarak geri getirmiyor. 4924, 6428 ve TÜSEB kanunu (asıl kanunlar) sitede. Site: 1789 kayıt, 1776 tam metin.
