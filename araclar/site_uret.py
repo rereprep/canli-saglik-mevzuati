@@ -13,6 +13,9 @@ KOK = Path(__file__).resolve().parent.parent
 CIKTI = KOK / "_site"
 import hashlib as _hl
 STIL_SURUM = _hl.md5((KOK / "site" / "assets" / "stil.css").read_bytes()).hexdigest()[:8]
+ARA_SURUM = _hl.md5((KOK / "site" / "assets" / "ara.js").read_bytes()).hexdigest()[:8]
+import time as _time
+SITE_SURUM = str(int(_time.time()))
 SITE_ADI = "Canlı Sağlık Mevzuatı"
 
 TUR_ADLARI = {
@@ -780,7 +783,7 @@ def sayfa(baslik, icerik, kok="", aciklama=""):
     <p class="ithaf"><em>Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla.</em></p>
   </div>
 </footer>
-<script src="{kok}assets/ara.js" defer></script>
+<script src="{kok}assets/ara.js?v={ARA_SURUM}" defer></script>
 </body>
 </html>
 """
@@ -1147,12 +1150,27 @@ def main():
                       "e": b.get("etiketler", []), "m": 1 if b["tam_metin"] else 0})
         if b["tam_metin"]:
             duz = re.sub(r"[*#<>/]|small", " ", re.sub(r"</?i>", "", b["govde"]))
+            duz = re.sub(r"([.…_\-=])\1{3,}", r"\1\1\1", duz)  # nokta/çizgi dizilerini kısalt
             metin_dizin.append({"i": b["id"], "x": re.sub(r"\s+", " ", duz)})
         if (i + 1) % 50 == 0:
             print(f"  {i + 1} belge işlendi", flush=True)
 
     (CIKTI / "assets" / "dizin.json").write_text(json.dumps(dizin, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    (CIKTI / "assets" / "metinler.json").write_text(json.dumps(metin_dizin, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    # Tam metin araması için metinler ~2 MB'lık parçalara bölünür; tarayıcı parçaları sırayla indirip tarar
+    parca_klasor = CIKTI / "assets" / "metin"
+    parca_klasor.mkdir(parents=True, exist_ok=True)
+    parcalar, simdiki, boyut = [], [], 0
+    for m in metin_dizin:
+        simdiki.append(m)
+        boyut += len(m["x"].encode("utf-8"))
+        if boyut > 2_000_000:
+            parcalar.append(simdiki)
+            simdiki, boyut = [], 0
+    if simdiki:
+        parcalar.append(simdiki)
+    for n, p in enumerate(parcalar):
+        (parca_klasor / f"{n}.json").write_text(json.dumps(p, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    (parca_klasor / "parca.json").write_text(json.dumps({"n": len(parcalar), "s": SITE_SURUM}), encoding="utf-8")
     (CIKTI / "index.html").write_text(ana_sayfa(belgeler), encoding="utf-8")
     (CIKTI / "ara.html").write_text(ara_sayfasi(), encoding="utf-8")
     (CIKTI / "hakkinda.html").write_text(hakkinda_sayfasi(belgeler), encoding="utf-8")

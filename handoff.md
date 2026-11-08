@@ -149,3 +149,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-08: 253 değiştiren kanun + KHKyi değiştirerek kabul eden 2 kanun yedek/cikarilan-kanun/ altına; 443, 524, 560, 633, 663 KHKleri de yedek/cikarilan-khk/ altına taşındı. Sitede KHK olarak yalnız 383 kaldı. site_uret.py artık yedek/ altındaki belgeleri katalogdan künye olarak geri getirmiyor. 4924, 6428 ve TÜSEB kanunu (asıl kanunlar) sitede. Site: 1789 kayıt, 1776 tam metin.
 
 - 2026-11-08: Kanun ve KHK bölümü Cemil Özcan Ek I + Ek III ile birebir (57 kanun + 3 KHK). Ek dışı 36 kanun yedek/ozcan-disi-kanun/, çiftler yedek/cift-kanun/ altında. KHK değiştirerek kabul eden 2 kanun ekte olduğu için icerik/khk/ altına geri alındı. Site: 1752 kayıt, 1739 tam metin.
+
+- 2026-11-08: Detaylı arama düzeltildi: ara.js kök yolu stil.css?v= eki yüzünden bozuktu (dizin yanlış adresten isteniyordu). Tam metinler assets/metin/N.json parçalarına bölündü (parca.json), ara.js parçaları ilerleme bilgisiyle tarıyor, hata mesajı veriyor; ara.js?v= sürüm eki eklendi.

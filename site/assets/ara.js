@@ -1,6 +1,6 @@
 (function(){
   "use strict";
-  var kok = (document.querySelector('link[rel=stylesheet]').getAttribute('href')||'').replace('assets/stil.css','');
+  var kok = (document.querySelector('link[rel=stylesheet]').getAttribute('href')||'').split('assets/stil.css')[0];
   var TUR = {kanun:"Kanun",cbk:"Cumhurbaşkanlığı Kararnamesi",khk:"Kanun Hükmünde Kararname",bkk:"Bakanlar Kurulu Kararı",tuzuk:"Tüzük",yonetmelik:"Yönetmelik",yonerge:"Yönerge",genelge:"Genelge",teblig:"Tebliğ",protokol:"Protokol",yazi:"Resmî Yazı"};
   var HARF = {"ç":"c","ğ":"g","ı":"i","ö":"o","ş":"s","ü":"u","â":"a","î":"i","û":"u"};
   function sade(s){return (s||"").toLocaleLowerCase("tr").replace(/[çğıöşüâîû]/g,function(c){return HARF[c];}).normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^0-9a-z]+/g," ").trim();}
@@ -52,17 +52,32 @@
 
   var form=document.getElementById("arama-formu");
   if(!form)return;
-  var dizin=null, metinler=null;
+  var dizin=null, metinler={}, parcaSay=null, yuklenen=0, metinSoz=null, metinHata=false, calismaNo=0, aktifGoster=null;
   var p=new URLSearchParams(location.search); var qEl=document.getElementById("q"); qEl.value=p.get("q")||"";
   if(p.get("kapsam")==="metin")form.querySelector("input[value=metin]").checked=true;
-  function yukle(ad){return fetch(kok+"assets/"+ad).then(function(r){return r.json();});}
+  function yukle(ad){return fetch(kok+"assets/"+ad).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();});}
+  // Tam metinler parça parça indirilir; her parça gelince sonuçlar güncellenir. Sadeleştirilmiş metin bellekte tutulur.
+  function metinleriYukle(){
+    var ilerle=function(){if(aktifGoster)aktifGoster();};
+    if(metinSoz)return metinSoz;
+    metinHata=false; yuklenen=0;
+    metinSoz=yukle("metin/parca.json?t="+Date.now()).then(function(pm){parcaSay=pm.n;
+      var sira=Promise.resolve(), i;
+      var al=function(n){return yukle("metin/"+n+".json?v="+pm.s).then(function(m){m.forEach(function(x){metinler[x.i]={x:x.x,s:sade(x.x)};});yuklenen++;ilerle();});};
+      var esz=[];for(i=0;i<pm.n;i++)esz.push(al(i));
+      return Promise.all(esz);
+    }).catch(function(){metinHata=true;metinSoz=null;ilerle();});
+    return metinSoz;
+  }
   function calistir(){
+    var benim=++calismaNo;
     var q=sade(qEl.value), kapsam=form.querySelector("input[name=kapsam]:checked").value;
     var sayi=document.getElementById("sayi").value.trim(), y1=+document.getElementById("yil1").value||0, y2=+document.getElementById("yil2").value||9999;
     var turler={}; form.querySelectorAll("input[name=tur]:checked").forEach(function(c){turler[c.value]=1;});
-    var gerek = kapsam==="metin" && q && !metinler ? yukle("metinler.json").then(function(m){metinler={};m.forEach(function(x){metinler[x.i]=x.x;});}) : Promise.resolve();
+    var metinAra = kapsam==="metin" && q;
     document.getElementById("sonuc-bilgi").textContent="Aranıyor…";
-    Promise.all([dizin?null:yukle("dizin.json").then(function(d){dizin=d;}),gerek]).then(function(){
+    var goster=aktifGoster=function(){
+      if(benim!==calismaNo||!dizin)return;
       var kelimeler=q?q.split(" "):[], sonuc=[];
       dizin.forEach(function(b){
         if(!turler[b.t])return;
@@ -72,8 +87,8 @@
         if(kelimeler.length){
           var hedef=sade(b.b+" "+b.k+" "+(b.e||[]).join(" ")+" "+b.s);
           var tamam=kelimeler.every(function(k){return hedef.indexOf(k)>=0;});
-          if(!tamam&&kapsam==="metin"&&metinler&&metinler[b.i]){var sm=sade(metinler[b.i]);tamam=kelimeler.every(function(k){return sm.indexOf(k)>=0;});
-            if(tamam){var ham=metinler[b.i],ilk=qEl.value.trim().split(/\s+/)[0],ix=ham.toLocaleLowerCase("tr").indexOf(ilk.toLocaleLowerCase("tr"));if(ix<0)ix=0;parca=ham.slice(Math.max(0,ix-120),ix+220);}}
+          if(!tamam&&metinAra&&metinler[b.i]){var sm=metinler[b.i].s;tamam=kelimeler.every(function(k){return sm.indexOf(k)>=0;});
+            if(tamam){var ham=metinler[b.i].x,ilk=qEl.value.trim().split(/\s+/)[0],ix=ham.toLocaleLowerCase("tr").indexOf(ilk.toLocaleLowerCase("tr"));if(ix<0)ix=0;parca=ham.slice(Math.max(0,ix-120),ix+220);}}
           if(!tamam)return;
         }
         sonuc.push({b:b,p:parca});
@@ -81,12 +96,19 @@
       var ssir=document.getElementById("sonuc-sirala"), stur=ssir?ssir.value:"yeni";
       var kars=karsilastir(stur);
       sonuc.sort(function(a,b){return kars({ad:sade(a.b.b),t:a.b.d||a.b.r||""},{ad:sade(b.b.b),t:b.b.d||b.b.r||""});});
-      document.getElementById("sonuc-bilgi").textContent=sonuc.length+" sonuç bulundu"+(sonuc.length>300?" (ilk 300 gösteriliyor)":"");
+      var durum="";
+      if(metinAra){ if(metinHata)durum=" — tam metinler indirilemedi, yalnız başlık ve künyede arandı. Sayfayı yenileyip tekrar deneyin.";
+        else if(parcaSay===null||yuklenen<parcaSay)durum=" — tam metinler taranıyor"+(parcaSay?" ("+yuklenen+"/"+parcaSay+")":"")+"…"; }
+      document.getElementById("sonuc-bilgi").textContent=sonuc.length+" sonuç bulundu"+(sonuc.length>300?" (ilk 300 gösteriliyor)":"")+durum;
       var isaretle=function(s){var x=e(s);qEl.value.trim().split(/\s+/).filter(function(k){return k.length>1;}).forEach(function(k){x=x.replace(new RegExp("("+kacis(e(k))+")","gi"),"<mark>$1</mark>");});return x;};
       document.getElementById("sonuclar").innerHTML=sonuc.slice(0,300).map(function(s){var b=s.b;
         var ust=[TUR[b.t],b.d&&("Tarih: "+tr(b.d)),b.s&&("Sayı: "+b.s),b.r&&("RG: "+tr(b.r)+(b.rs?" / "+b.rs:"")),b.m?"Tam metin":"Künye"].filter(Boolean).join(" · ");
         return '<div class="sonuc"><a href="'+kok+'mevzuat/'+b.t+'/'+b.i+'.html">'+isaretle(b.b)+'</a><div class="ust-bilgi">'+e(ust)+'</div>'+(s.p?'<div class="parca">…'+isaretle(s.p)+'…</div>':(b.k?'<div class="parca">'+e(b.k)+'</div>':''))+'</div>';}).join("");
-    });
+    };
+    (dizin?Promise.resolve():yukle("dizin.json?t="+Date.now()).then(function(d){dizin=d;})).then(function(){
+      goster();
+      if(metinAra&&(parcaSay===null||yuklenen<parcaSay))metinleriYukle();
+    }).catch(function(){if(benim===calismaNo)document.getElementById("sonuc-bilgi").textContent="Arama dizini yüklenemedi. Sayfayı yenileyip tekrar deneyin.";});
   }
   form.addEventListener("submit",function(ev){ev.preventDefault();history.replaceState(null,"","?q="+encodeURIComponent(qEl.value));calistir();});
   var ssir2=document.getElementById("sonuc-sirala"); if(ssir2)ssir2.addEventListener("change",calistir);
