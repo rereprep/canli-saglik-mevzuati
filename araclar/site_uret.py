@@ -143,7 +143,33 @@ def belgeleri_oku():
             k.setdefault("durum", "yürürlükte")
             belgeler.setdefault(k["id"], k)
             _ES_DIZIN = None
-    return ciftleri_birlestir(belgeler)
+    sonuc = ciftleri_birlestir(belgeler)
+    for b in sonuc.values():
+        b["baslik"] = ad_temizle(b)
+    return sonuc
+
+
+def ad_temizle(b):
+    """Görünen addan sondaki tarih/sayı eklerini siler; tarih ve sayı künye tablosunda ayrıca gösterilir.
+    (Kayıt eşleştirmesi ham adla yapıldığı için bu yalnız gösterimde uygulanır.)"""
+    ilk = t = b.get("baslik", "")
+    if b.get("tur") == "genelge":
+        return t
+    onceki = None
+    while onceki != t:  # "(Karar Sayısı: 477) (19.12.2018)" gibi üst üste ekler
+        onceki = t
+        m = re.search(r"\s*\((?:Karar Sayısı|No)\s*:\s*([\d/]+)\)\s*$", t)
+        if m:
+            b.setdefault("sayi", "") or b.update(sayi=m[1])
+            t = t[:m.start()]
+        t = re.sub(r"\s*\((?:\d{1,2}[.\-/]\d{1,2}[.\-/]\d{4}[^)]*|\d{4}|[^)]*Makam Onayı[^)]*|\d{1,2} \w+ \d{4} tarih[^)]*Resm[iî] Gazete)\)\s*$", "", t)
+        if b.get("tur") in ("teblig", "yonerge"):
+            m = re.search(r"\s*\(?(\d{4}\s*/\s*\d+)(?:\s*-\s*\d+)?\)?\s*$", t)
+            if m:
+                if not b.get("sayi"):
+                    b["sayi"] = re.sub(r"\s", "", m[1])
+                t = t[:m.start()]
+    return t.strip() or ilk
 
 
 def tarih_iso(t):

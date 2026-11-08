@@ -1,6 +1,6 @@
 ---
 id: "sbg-11263-strateji-gelistirme-baskanligi-nin-gorev-calisma-usul-ve-esaslari-hakk"
-baslik: "Strateji Geliştirme Başkanlığı'nın Görev Çalışma Usul ve Esasları Hakkındaki 13.11.2009 tarih ve 11319"
+baslik: "Sağlık Bakanlığı Strateji Geliştirme Başkanlığının Görev Çalışma Usul ve Esasları Hakkında Yönerge"
 tur: "yonerge"
 birim: "Strateji Geliştirme Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"

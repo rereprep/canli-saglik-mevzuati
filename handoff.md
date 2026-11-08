@@ -157,3 +157,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-08: hsgm-1021 Tütün Bağımlılığı Tedavisi Eğitimi kaynak PDF (12 sf, taranmış) Vision OCR ile yeniden okunup düzenlendi: yazı + Ek-1 (2013 olur, usul-esaslar) + Ek-2 yönetmelik (2011 ilk metin) + Ek-3 bilgilendirme + 23.06.2025 koordinatör yazısı. hizalar(): belge içindeki "T.C." ile başlayan kurum başlıkları da ortalanıyor (34 sayfa etkilendi). Not: swiftc SDK uyumsuz; OCR için araclar/ocr_vision.js (osascript, escalated) kullan.
 
 - 2026-11-08: Başlıklardaki "Tarihi:.. Sayısı:.. R.G. .." öneki site_uret.alanlari_duzelt ile siliniyor (5 kanun). 4 genelge + Çeltik talimatnamesi adları elle düzeltildi; sbg-10539 (uygulama talimatı) ve sbg-10540 (idari şartname) artık ayrı kayıt. Site: 1751 kayıt.
+
+- 2026-11-08: site_uret.ad_temizle: genelge dışındaki türlerde görünen addan sondaki (gg.aa.yyyy), (yyyy), (Karar Sayısı: n), (No: x), Makam Onayı, "... tarih ve ... sayılı Resmi Gazete" ekleri ve tebliğ/yönergede sondaki yyyy/n siliniyor; sayı boşsa Sayı alanına taşınıyor. Yalnız gösterimde (eşleştirme ham adla). sbg-11288 ve sbg-11263 yönerge adları elle düzeltildi.

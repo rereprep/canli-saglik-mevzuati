@@ -1,6 +1,6 @@
 ---
 id: "sbg-11288-gecici-koruma-altina-alinanlara-verilecek-saglik-hizmetlerine-dair-esa"
-baslik: "Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslar Hakkında 22.10.2014 Tarihli"
+baslik: "Geçici Koruma Altına Alınanlara Verilecek Sağlık Hizmetlerine Dair Esaslar"
 tur: "yonerge"
 birim: "Acil Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
