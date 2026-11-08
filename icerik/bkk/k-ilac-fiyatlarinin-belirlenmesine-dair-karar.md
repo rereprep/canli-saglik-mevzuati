@@ -1,7 +1,7 @@
 ---
 id: "k-ilac-fiyatlarinin-belirlenmesine-dair-karar"
 baslik: "Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına Dair Karar"
-tur: "cbk"
+tur: "bkk"
 tarih: "2017-02-06"
 rg_tarih: "2017-02-24"
 rg_sayi: "29989"

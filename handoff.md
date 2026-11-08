@@ -159,3 +159,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-08: Başlıklardaki "Tarihi:.. Sayısı:.. R.G. .." öneki site_uret.alanlari_duzelt ile siliniyor (5 kanun). 4 genelge + Çeltik talimatnamesi adları elle düzeltildi; sbg-10539 (uygulama talimatı) ve sbg-10540 (idari şartname) artık ayrı kayıt. Site: 1751 kayıt.
 
 - 2026-11-08: site_uret.ad_temizle: genelge dışındaki türlerde görünen addan sondaki (gg.aa.yyyy), (yyyy), (Karar Sayısı: n), (No: x), Makam Onayı, "... tarih ve ... sayılı Resmi Gazete" ekleri ve tebliğ/yönergede sondaki yyyy/n siliniyor; sayı boşsa Sayı alanına taşınıyor. Yalnız gösterimde (eşleştirme ham adla). sbg-11288 ve sbg-11263 yönerge adları elle düzeltildi.
+
+- 2026-11-08: CBK bölümündeki 477/483 yönetmelik kopyaları yedek/cift-cbk/ altına (yönetmelik kayıtları duruyor); Beşeri Tıbbi Ürünlerin Fiyatlandırılmasına Dair Karar icerik/bkk/ altına taşındı (tur bkk). ad_temizle "(Kararname Numarası: n)" ekini de siliyor. Site: 1748 kayıt.

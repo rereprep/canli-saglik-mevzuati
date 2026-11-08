@@ -158,7 +158,7 @@ def ad_temizle(b):
     onceki = None
     while onceki != t:  # "(Karar Sayısı: 477) (19.12.2018)" gibi üst üste ekler
         onceki = t
-        m = re.search(r"\s*\((?:Karar Sayısı|No)\s*:\s*([\d/]+)\)\s*$", t)
+        m = re.search(r"\s*\((?:Karar Sayısı|Kararname Numarası|No)\s*:\s*([\d/]+)\)\s*$", t)
         if m:
             b.setdefault("sayi", "") or b.update(sayi=m[1])
             t = t[:m.start()]
