@@ -175,3 +175,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-10: PR #2 (RG takip ajanı) birleştirildi: Peynir Tebliği 2026/24 temizlendi ve künyesi tamamlandı; TÜSEB Bilim Kurulları değişiklik yönetmeliği yedeğe, ana yönetmelik mevzuat.gov.tr güncel metniyle eklendi (MevzuatNo 21287). 663 KHK ve 4924 Kanun yedekten geri alındı. Not: sistem python3 için SSL_CERT_FILE=/tmp/pylib/certifi/cacert.pem gerekiyor.
 
 - 2026-11-11: HSGM yayın listesindeki 9 eksik belge eklendi: genelge cb-2019-2, cb-2019-12, bb-2015-1 (RG künyeli); yazı hsgm-liste-224/276/28/26; değiştirici yönerge hsgm-liste-104 (Madde 20/A, Ek-2 şema özeti) ve hsgm-liste-333 (OCR). 2015/1 tarihinde yalnız yıl (imza tarihi yok). Site: 1433 kayıt, 1421 tam metin.
+
+- 2026-11-11: 5179 sayılı Kanun durumu "yürürlükten kaldırıldı" yapıldı; konu alanına 5996 sayılı Kanun md. 47/1 (RG 13.06.2010/27610, yürürlük 13.12.2010) notu eklendi (TBMM kanun metninden doğrulandı: kanunun tamamı kaldırılmış).

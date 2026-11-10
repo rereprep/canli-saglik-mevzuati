@@ -8,7 +8,8 @@ rg_tarih: "2004-06-05"
 rg_sayi: "25483"
 etiketler: ["sağlıkla ilgili genel mevzuat"]
 not: "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler."
-durum: "yürürlükte"
+konu: "11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 47 nci maddesinin birinci fıkrasıyla tamamen yürürlükten kaldırılmıştır (13/6/2010 tarihli ve 27610 sayılı Resmî Gazete; 5996 sayılı Kanunun 49 uncu maddesi uyarınca 13/12/2010 tarihinde yürürlüğe girmiştir)."
+durum: "yürürlükten kaldırıldı"
 kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2004/06/20040605.htm#2"
 duzeltildi: true
