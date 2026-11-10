@@ -171,3 +171,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-10: 5179 ve 3572 (KHKyi değiştirerek kabul eden kanunlar) icerik/kanun/ altına taşındı (eski_tur: khk ile eski adres yönlendirmesi; site_uret eski_tur alanını destekliyor). 5179 metni RG sayısının tamamını içeriyordu; yalnız 5179 bölümü bırakıldı, 32 bölünmüş sözcük birleştirildi. 3572 mevzuat.gov.tr ile karşılaştırıldı, farklar sonraki değişiklikler.
 
 - 2026-11-10: KHK bölümü Kanunlar bölümüyle birleştirildi: site_uret GRUP={"khk":"kanun"}; tur/kanun.html "Kanunlar ve Kanun Hükmünde Kararnameler" (60 kayıt), tur/khk.html yönlendirme; KHK belgelerinin türü khk olarak kalır. ara.js khk kayıtlarını kanun kutusuyla süzer.
+
+- 2026-11-10: PR #2 (RG takip ajanı) birleştirildi: Peynir Tebliği 2026/24 temizlendi ve künyesi tamamlandı; TÜSEB Bilim Kurulları değişiklik yönetmeliği yedeğe, ana yönetmelik mevzuat.gov.tr güncel metniyle eklendi (MevzuatNo 21287). 663 KHK ve 4924 Kanun yedekten geri alındı. Not: sistem python3 için SSL_CERT_FILE=/tmp/pylib/certifi/cacert.pem gerekiyor.

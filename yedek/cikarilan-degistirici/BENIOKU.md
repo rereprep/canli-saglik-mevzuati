@@ -338,3 +338,4 @@ Site sahibinin isteğiyle başka bir yönetmeliği, tebliği veya Cumhurbaşkanl
 - 2020-03-28: Bazı Cumhurbaşkanlığı Kararnamelerinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi
 - 2024-05-25: Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi
 - 2024-10-04: Bazı Cumhurbaşkanlığı Kararnamelerinde Değişiklik Yapılması Hakkında Cumhurbaşkanlığı Kararnamesi
+- 2026-11-10: Türkiye Sağlık Enstitüleri Başkanlığı Bünyesinde Oluşturulacak Bilim Kurulları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Resmî Gazete takip ajanı PR #2; ana yönetmeliğe işlendi)
