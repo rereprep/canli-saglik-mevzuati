@@ -169,3 +169,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-10: Yönetmelik, tebliğ ve CBK bölümlerindeki "... Değişiklik Yapılmasına ..." başlıklı 328 kayıt (329 dosya) yedek/cikarilan-degistirici/ altına taşındı (BENIOKU.md listeli). Ana metinlerdeki değişiklik listeleri duruyor. Site: 1420 kayıt, 1408 tam metin. Not: paketli Python ortamı kayboldu; yerel üretim sistem python3 ile yapıldı.
 
 - 2026-11-10: 5179 ve 3572 (KHKyi değiştirerek kabul eden kanunlar) icerik/kanun/ altına taşındı (eski_tur: khk ile eski adres yönlendirmesi; site_uret eski_tur alanını destekliyor). 5179 metni RG sayısının tamamını içeriyordu; yalnız 5179 bölümü bırakıldı, 32 bölünmüş sözcük birleştirildi. 3572 mevzuat.gov.tr ile karşılaştırıldı, farklar sonraki değişiklikler.
+
+- 2026-11-10: KHK bölümü Kanunlar bölümüyle birleştirildi: site_uret GRUP={"khk":"kanun"}; tur/kanun.html "Kanunlar ve Kanun Hükmünde Kararnameler" (60 kayıt), tur/khk.html yönlendirme; KHK belgelerinin türü khk olarak kalır. ara.js khk kayıtlarını kanun kutusuyla süzer.

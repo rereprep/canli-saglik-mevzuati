@@ -19,7 +19,7 @@ SITE_SURUM = str(int(_time.time()))
 SITE_ADI = "Canlı Sağlık Mevzuatı"
 
 TUR_ADLARI = {
-    "kanun": "Kanunlar",
+    "kanun": "Kanunlar ve Kanun Hükmünde Kararnameler",
     "cbk": "Cumhurbaşkanlığı Kararnameleri",
     "khk": "Kanun Hükmünde Kararnameler",
     "bkk": "Bakanlar Kurulu Kararları",
@@ -31,6 +31,14 @@ TUR_ADLARI = {
     "protokol": "Protokoller",
     "yazi": "Resmî Yazılar ve Talimatlar",
 }
+# Listede/menüde birlikte gösterilen türler: KHK'ler Kanunlar bölümünde listelenir
+GRUP = {"khk": "kanun"}
+
+
+def grup(t):
+    return GRUP.get(t, t)
+
+
 TUR_TEKIL = {
     "kanun": "Kanun", "cbk": "Cumhurbaşkanlığı Kararnamesi", "khk": "Kanun Hükmünde Kararname", "bkk": "Bakanlar Kurulu Kararı",
     "tuzuk": "Tüzük", "yonetmelik": "Yönetmelik", "yonerge": "Yönerge", "genelge": "Genelge",
@@ -1024,7 +1032,7 @@ def belge_sayfasi(b):
             indir = f'<div class="indir"><a class="dugme" href="{e(b["kaynak_url"])}" target="_blank" rel="noopener">Resmî kaynakta görüntüle</a></div>'
         govde = '<p class="bilgi">Bu mevzuatın tam metni henüz sisteme eklenmedi. Künye bilgileri ve resmî kaynağa bağlantı aşağıdadır.</p>'
         ara = ""
-    icerik = f"""<nav class="yol"><a href="{kok}index.html">Ana Sayfa</a> › <a href="{kok}tur/{b['tur']}.html">{e(TUR_ADLARI[b['tur']])}</a></nav>
+    icerik = f"""<nav class="yol"><a href="{kok}index.html">Ana Sayfa</a> › <a href="{kok}tur/{grup(b['tur'])}.html">{e(TUR_ADLARI[grup(b['tur'])])}</a></nav>
 <h1 class="belge-baslik">{e(b['baslik'])}</h1>
 {indir}
 <table class="kunye">{k}</table>
@@ -1055,7 +1063,7 @@ def tablo(belgeler, kok):
 def ana_sayfa(belgeler):
     sayac = {t: 0 for t in TUR_ADLARI}
     for b in belgeler.values():
-        sayac[b["tur"]] += 1
+        sayac[grup(b["tur"])] += 1
     kartlar = "".join(
         f'<a class="kart" href="tur/{t}.html"><span class="sayi">{sayac[t]}</span><span>{e(ad)}</span></a>'
         for t, ad in TUR_ADLARI.items() if sayac[t])
@@ -1075,7 +1083,7 @@ def ana_sayfa(belgeler):
 
 
 def tur_sayfasi(tur, belgeler):
-    liste = sorted((b for b in belgeler.values() if b["tur"] == tur), key=lambda b: sade(b["baslik"]))
+    liste = sorted((b for b in belgeler.values() if grup(b["tur"]) == tur), key=lambda b: sade(b["baslik"]))
     icerik = f"""<nav class="yol"><a href="../index.html">Ana Sayfa</a> › {e(TUR_ADLARI[tur])}</nav>
 <h1>{e(TUR_ADLARI[tur])} <small>({len(liste)})</small></h1>
 <div class="metin-ara"><input type="search" id="liste-suz" placeholder="Bu listede süz…" aria-label="Listede süz">
@@ -1087,7 +1095,7 @@ def tur_sayfasi(tur, belgeler):
 
 
 def ara_sayfasi():
-    turler = "".join(f'<label><input type="checkbox" name="tur" value="{t}" checked> {e(ad)}</label>' for t, ad in TUR_ADLARI.items())
+    turler = "".join(f'<label><input type="checkbox" name="tur" value="{t}" checked> {e(ad)}</label>' for t, ad in TUR_ADLARI.items() if t not in GRUP)
     icerik = f"""<nav class="yol"><a href="index.html">Ana Sayfa</a> › Detaylı Arama</nav>
 <h1>Detaylı Arama</h1>
 <form id="arama-formu" class="detayli">
@@ -1376,7 +1384,11 @@ def main():
     (CIKTI / "ara.html").write_text(ara_sayfasi(), encoding="utf-8")
     (CIKTI / "hakkinda.html").write_text(hakkinda_sayfasi(belgeler), encoding="utf-8")
     for t in TUR_ADLARI:
-        if any(b["tur"] == t for b in belgeler.values()):
+        if t in GRUP:  # eski liste adresi birleşik listeye yönlensin
+            hedef = f"{GRUP[t]}.html"
+            (CIKTI / "tur" / f"{t}.html").write_text(
+                f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={hedef}"><a href="{hedef}">{e(TUR_ADLARI[GRUP[t]])}</a>', encoding="utf-8")
+        elif any(grup(b["tur"]) == t for b in belgeler.values()):
             (CIKTI / "tur" / f"{t}.html").write_text(tur_sayfasi(t, belgeler), encoding="utf-8")
     print(f"{len(belgeler)} kayıt ({len(metin_dizin)} tam metin) -> {CIKTI}")
     for h in hatalar:

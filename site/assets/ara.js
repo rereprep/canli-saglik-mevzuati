@@ -80,7 +80,7 @@
       if(benim!==calismaNo||!dizin)return;
       var kelimeler=q?q.split(" "):[], sonuc=[];
       dizin.forEach(function(b){
-        if(!turler[b.t])return;
+        if(!turler[b.t==="khk"?"kanun":b.t])return;
         var yil=+((b.r||b.d||"").slice(0,4))||0; if((y1>0||y2<9999)&&(yil<y1||yil>y2))return;
         if(sayi&&String(b.s).indexOf(sayi)<0&&String(b.rs).indexOf(sayi)<0)return;
         var parca="";
