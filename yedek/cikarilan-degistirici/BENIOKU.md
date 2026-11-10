@@ -1,0 +1,340 @@
+# Siteden çıkarılan değişiklik yapan düzenlemeler (2026-11-10)
+
+Site sahibinin isteğiyle başka bir yönetmeliği, tebliği veya Cumhurbaşkanlığı kararnamesini değiştiren düzenlemeler siteden çıkarılıp buraya taşındı. Ana metinler ve sayfalarının sonundaki değişiklik listeleri sitede duruyor. Geri eklemek için dosyayı aynı tür klasörüyle icerik/<tür>/ altına taşıyıp siteyi yeniden oluşturun.
+
+## Yönetmelikler (242)
+
+- 2003-06-30: Kaplıcalar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2004-01-27: Sağlık Bakanlığı-Eğitim Personelinin Nitelik ve Seçim Esasları Hakkında Yönetmeliğin 8 ve 10 uncu Maddelerinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2004-03-24: Acil Sağlık Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2004-09-29: Radyasyon Güvenliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2005-07-05: Kordon Kanı Bankacılığı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2005-07-24: Doğal Mineralli Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2005-07-24: İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2006-02-28: Kaplıca Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2006-07-28: Aile Hekimliği Pilot Uygulaması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2006-09-15: Doğal Mineralli Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2006-09-15: İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2006-12-05: Aile Hekimliği Pilot Uygulaması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2007-03-15: Acil Sağlık Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2007-03-24: Aile Hekimliği Pilot Uygulaması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2007-05-18: Karayolları Trafik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2007-11-06: Hiberbarik Oksijen Tedavisi Uygulanan Özel Sağlık Kuruluşları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2008-04-05: Sağlık Bakanlığınca Yapılacak Piyasa Gözetimi ve Denetiminin Usul ve Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2008-06-05: Kanser Erken Teşhis ve Tarama Merkezleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2008-06-05: Kanser Kayıt Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2008-10-17: Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2008-10-17: Hiperbarik Oksijen Tedavisi Uygulanan Özel Sağlık Kuruluşları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2009-05-05: Hava Kalitesi Değerlendirme ve Yönetimi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2009-06-27: Adli Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2009-07-22: Merkezi Yönetim Harcama Belgeleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2009-12-04: Kan ve Kan Ürünleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2009-12-08: Ortez-Protezleri Ismarlama Olarak Üreten ve/veya Uygulayan Merkezler ile İşitme Cihazı Satış ve Uygulaması Yapan Merkezler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2010-01-17: Uluslararası Birimler Sistemine Dair Yönetmelikte (80/181/AT) Değişiklik Yapılmasına Dair Yönetmelik
+- 2010-04-16: Kaplıcalar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2010-11-29: Doğal Mineralli Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-04-14: Özel Hastaneler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-04-19: Hemşirelik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-06-17: Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-07-01: Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Devlet Tarafından Karşılanması ve Yeşil Kart Uygulaması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-10-09: Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-10-30: Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-10-30: Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-12-02: Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-12-17: Adli Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-12-21: Biyosidal Ürünler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2011-12-31: Diş Protez Laboratuvarları Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik
+- 2012-01-19: Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2012-05-02: Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2012-05-20: Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2012-05-25: Karayolları Trafik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2012-07-19: Sağlık Bakanlığı Eğitim ve Araştırma Hastanelerinde Başasistanlık Kadrolarına Yapılacak Atamalarda Uygulanacak Sınavlara İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2012-12-05: Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-01-19: Mezarlık Yerlerinin İnşaası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-01-27: Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-01-31: İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-01-31: İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-02-10: Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-03-07: Doğal Mineralli Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-03-07: İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-07-16: Yabancı Sağlık Meslek Mensuplarının Türkiye’de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-09-18: Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-09-24: Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-10-11: İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-11-16: Merkezî Yönetim Harcama Belgeleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-12-03: Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2013-12-26: Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-01-16: Asbestle Çalışmalarda Sağlık ve Güvenlik Önlemleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-02-19: Karayolları Trafik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-03-12: Biyosidal Ürünler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-04-11: İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-04-29: Acil Sağlık Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-05-02: İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-05-08: Hasta Hakları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-08-23: Eczacılar ve Eczaneler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-12-18: İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2014-12-18: İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2015-02-07: Eczacılar ve Eczaneler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2015-02-12: Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2015-02-19: İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2015-03-11: Aile Hekimliği Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2015-04-04: Sağlık Bakanlığı ve Bağlı Kuruluşları Atama ve Yer Değiştirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2015-04-30: İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2015-07-25: Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2015-11-19: İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2015-11-19: İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-01-07: Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-01-12: Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-01-16: Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-01-16: Mezarlık Yerlerinin İnşaası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-02-15: İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-04-20: Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-06-16: Yabancı Sağlık Meslek Mensuplarının Türkiye’de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-06-30: İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-07-23: İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-09-22: Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-09-30: Sağlık Bakanlığı ve Bağlı Kuruluşları Atama ve Yer Değiştirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-11-05: Merkezî Yönetim Harcama Belgeleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-11-25: Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2016-12-23: Hasta Hakları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-03-11: Eczacılar ve Eczaneler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-03-23: Atık Yönetimi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-04-01: Yabancı Sağlık Meslek Mensuplarının Türkiye’de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-05-16: Aile Hekimliği Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-06-03: Sağlık Bakanlığı ve Bağlı Kuruluşları Atama ve Yer Değiştirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-08-04: Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-09-24: Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-10-07: Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-10-11: Merkezî Yönetim Harcama Belgeleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2017-12-31: Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik
+- 2018-02-22: Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2018-02-25: Kamu Kurum ve Kuruluşlarına Açıktan Kura ile Atanacak Sağlık Personelinin Atama Usûl ve Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2018-03-02: Sağlık Bakanlığı ve Bağlı Kuruluşları Atama ve Yer Değiştirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2018-04-14: Üremeye Yardımcı Tedavi Uygulamaları ve Üremeye Yardımcı Tedavi Merkezleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2018-05-10: Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2018-05-25: Toplum Sağlığı Merkezi ve Bağlı Birimler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2018-05-27: Emniyet Teşkilatı Sağlık Şartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2018-12-19: Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2018-12-20: Memurlara Yapılacak Giyecek Yardımı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-01-16: Hasta Hakları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-02-09: Kamu Kurum ve Kuruluşlarına Açıktan Kura ile Atanacak Sağlık Personelinin Atama Usûl ve Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-02-09: Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-02-09: Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-03-01: Diyaliz Merkezleri Hakkında Yönetmelik'te Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-04-13: Sahil Sağlık Denetleme Merkezleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-04-19: İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-05-02: Sağlık Bakanlığı Döner Sermaye İşletmeleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-05-03: Memurlara Yapılacak Giyecek Yardımı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-05-04: Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-05-23: Mezarlık Yerlerinin İnşaası ile Cenaze Nakil ve Defin İşlemleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-06-15: Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-06-18: Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-06-29: Eczacılar ve Eczaneler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-08-17: Havaalanı Sağlık Denetleme Merkezleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-08-17: Hudut Kapılarında Uygulanacak Sağlık İşlemleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-08-17: Uluslararası Giriş Noktalarında Uygulanacak Çevre Sağlığı İşlemlerine Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-09-24: Diyaliz Merkezleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-09-29: Emniyet Teşkilatı Sağlık Şartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-10-19: Türk Gıda Kodeksi Bebek Formülleri ve Devam Formülleri Tebliği (Tebliğ No: 2019/14)’nde Değişiklik Yapılmasına Dair Tebliğ
+- 2019-11-16: Beşerî Tıbbi Ürünlerin Tanıtım Faaliyetleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-12-25: Geçici Koruma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2019-12-31: Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik
+- 2020-01-16: Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-01-25: Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınmasına Dair Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-01-25: İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-02-28: İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-02-28: İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-02-28: İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-03-21: Karayolları Trafik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-04-16: İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-04-16: İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-04-22: Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-04-28: Sağlık Bakanlığı Döner Sermaye İşletmeleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-06-13: Sürücü Adayları ve Sürücülerde Aranacak Sağlık Şartları ile Muayenelerine Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-08-27: İlkyardım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-10-22: Sağlık Bakanlığı Taşra Teşkilatı İdari ve Hizmet Birimleri Kadro Standartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-12-17: Radyasyon Güvenliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2020-12-25: İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-03-18: Emniyet Teşkilatı Sağlık Şartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-03-24: Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-04-17: İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-06-03: Optisyenlik Müesseseleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-07-01: Memurlara Yapılacak Giyecek Yardımı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-07-15: Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-07-29: Merkezî Yönetim Harcama Belgeleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-09-10: Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-09-10: Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-09-10: Tıbbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-09-25: Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-09-30: Sürücü Adayları ve Sürücülerde Aranacak Sağlık Şartları ile Muayenelerine Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-11-01: Uluslararası Sağlık Turizmi ve Turistin Sağlığı Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-11-20: Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2021-12-10: Tıbbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-02-02: Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-04-14: Sağlık Hizmet Sunucularının Basamaklandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik
+- 2022-07-20: Üremeye Yardımcı Tedavi Uygulamaları ve Üremeye Yardımcı Tedavi Merkezleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-07-29: İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-07-30: Sağlık Hizmet Sunucularının Basamaklandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-08-18: Tıbbi Atıkların Kontrolü Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-09-24: Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-10-30: Türk Gıda Kodeksi Bebek Formülleri ve Devam Formülleri Tebliği (Tebliğ No: 2019/14)’nde Değişiklik Yapılmasına Dair Tebliğ
+- 2022-11-08: Diş Protez Laboratuvarları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-11-16: Gıda Kontrol Laboratuvarları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-12-10: Diyaliz Merkezleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2022-12-14: Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-02-22: Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-03-14: Eczacılar ve Eczaneler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-04-02: İn Vitro Tanı Amaçlı Tıbbi Cihaz Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-04-05: Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-04-07: Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelikte Değişiklik Yapılmasına
+- 2023-05-26: Sağlıkta Kalitenin Geliştirilmesi ve Değerlendirilmesine Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-05-27: Üremeye Yardımcı Tedavi Uygulamaları ve Üremeye Yardımcı Tedavi Merkezleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-06-01: Ecza Ticarethaneleri ve Ecza Ticarethanelerinde Bulundurulan Ürünler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-06-03: Yurt Dışından İlaç Temini Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-07-13: Kamu Kurum ve Kuruluşlarına Açıktan Kura ile Atanacak Sağlık Personelinin Atama Usûl ve Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-08-17: Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-08-18: Eczacılar ve Eczaneler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-08-18: Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-08-18: Optisyenlik Müesseseleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-09-20: Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-10-07: Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-10-28: Radyasyon Güvenliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-11-02: Türk Gıda Kodeksi Bebek Formülleri ve Devam Formülleri Tebliği (Tebliğ No: 2019/14)’nde Değişiklik Yapılmasına Dair Tebliğ
+- 2023-11-03: Saç Ekimi Birimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-12-26: Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-12-29: Beşeri Tıbbi Ürünlerin Klinik Araştırmaları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2023-12-31: Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-02-04: İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-02-04: İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-02-04: İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-02-04: İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-04-02: Kamu Sağlık Tesisleri Ruhsatlandırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-05-16: Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-08-01: Gıda Kontrol Laboratuvarları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-10-26: Merkezî Yönetim Harcama Belgeleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-10-30: Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-11-27: Sağlık Bakanlığı Atama ve Yer Değiştirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-11-28: Sosyal Güvenlik Kurumu İlaç Geri Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-12-15: Ağız ve Diş Sağlığı Hizmeti Sunulan Özel Sağlık Kuruluşları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2024-12-27: İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-01-07: Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-01-29: Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-02-21: Aile Hekimliği Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-03-27: Gıda Kontrol Laboratuvarları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-05-01: Seferberlik ve Savaş Hâli Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-06-05: Sağlık Meslek Mensuplarının Tıbbî İşlem ve Uygulamaları Nedeniyle Soruşturulmasına ve İdarece Ödenen Tazminatın Rücu Edilmesine Dair Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-06-24: Ambulanslar ve Acil Sağlık Araçları ile Ambulans Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-06-26: Türk Gıda Kodeksi Bebek Formülleri ve Devam Formülleri Tebliği (Tebliğ No: 2019/14)’nde Değişiklik Yapılmasına Dair Tebliğ
+- 2025-06-26: Çevresel Etki Değerlendirmesi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-08-15: Sağlık Meslek Mensuplarının Serbest Meslek İcrası Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-09-06: Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelikte Değişiklik Yapılması Hakkında Yönetmelik
+- 2025-09-12: Saç Ekimi Birimleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-09-26: Organ Nakli Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-10-08: Sağlık Bakanlığı Teftiş Kurulu Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-10-20: Özel Sağlık Sigortaları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-12-13: Sağlık Bakanlığı Ek Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-12-16: Nükleer Tıp Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-12-16: Radyoloji Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2025-12-27: İlkyardım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-01-10: İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-02-26: Sağlık Bakanlığına Ait Kurum ve Kuruluşlar ile Devlet Üniversitelerinin İlgili Birimlerinin Birlikte Kullanımı ile İşbirliği Usul ve Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-03-05: Çevresel Etki Değerlendirmesi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-04-02: Terapötik Aferez Merkezleri ve Üniteleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-04-17: Ecza Ticarethaneleri ve Ecza Ticarethanelerinde Bulundurulan Ürünler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-07-02: Geleneksel Bitkisel Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-07-04: Kişisel Sağlık Verileri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-08-29: Özel Hastaneler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-10-03: Sosyal Güvenlik Kurumu İlaç Geri Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+- 2026-10-24: Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik
+
+## Tebliğler (79)
+
+- 2005-02-19: Kurum Tabipliklerinin Standardına Dair Tebliğde Değişiklik Yapılmasına Dair Tebliğ
+- 2005-04-28: Beşeri Tıbbi Ürünlerin Fiyatları Hakkında Tebliğ’in Bazı Maddelerinde Değişiklik Yapılmasına Dair Tebliğ
+- 2006-03-31: Oyuncaklar Hakkında Yönetmelik İle İlgili UyumlaştırılmışStandardlara Dair Tebliğ’de Değişiklik Yapılmasına
+- 2006-12-21: Enfeksiyon Kontrol Hemşirelerinin Eğitimine ve Sertifikalandırılmasına Dair Tebliğ’de Değişiklik Yapılmasına Dair Tebliğ
+- 2008-07-17: Enfeksiyon Kontrol Hemşirelerinin Eğitimine ve Sertifikalandırılmasına Dair Tebliğ’de Değişiklik Yapılmasına Dair Tebliğ
+- 2009-01-31: Peloidlerin Üretimi ve Satışı Hakkındaki Tebliğde Değişiklik Yapılmasına Dair Tebliğ
+- 2013-03-29: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2013-05-04: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2013-08-01: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2013-11-12: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2013-12-24: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2014-03-18: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2014-04-10: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2014-04-18: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2014-07-25: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2014-08-30: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2014-10-01: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2014-12-24: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2015-02-18: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2015-02-19: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2015-08-05: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2016-01-18: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2016-02-20: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2016-04-30: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2016-06-18: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2016-10-07: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2016-11-26: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2017-02-18: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2017-02-27: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2017-03-25: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2017-06-08: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2017-09-09: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2017-10-11: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2018-02-04: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2018-03-21: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2018-05-10: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2018-07-05: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2018-12-28: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2019-02-01: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2019-03-12: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2019-09-04: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2020-01-11: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2020-03-08: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2020-04-09: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2020-05-09: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2020-12-30: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2021-02-24: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2021-08-11: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2021-09-08: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2021-10-26: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2021-12-10: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2022-03-18: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2022-04-21: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2023-03-16: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2023-08-11: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2023-10-19: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2023-12-29: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2024-04-21: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2024-05-18: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2024-08-05: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2024-09-02: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2024-09-25: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2024-10-11: Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ
+- 2024-11-02: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2024-12-12: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2025-03-08: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2025-03-25: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2025-05-24: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2025-06-26: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2025-07-10: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2025-09-06: Yataklı Sağlık Tesislerinde Yoğun Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ
+- 2025-11-25: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2025-12-10: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2026-01-17: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2026-04-01: İş Sağlığı ve Güvenliğine İlişkin İşyeri Tehlike Sınıfları Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2026-05-23: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2026-07-01: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+- 2026-08-25: Ambulans ve Acil Bakım Teknikerleri ile Acil Tıp Teknisyenlerinin Çalışma Usul ve Esaslarına Dair Tebliğde Değişiklik Yapılmasına İlişkin Tebliğ
+- 2026-10-02: Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ
+
+## Cumhurbaşkanlığı Kararnameleri (7)
+
+- 2019-01-10: Bazı Cumhurbaşkanlığı Kararnamelerinde Değişiklik Yapılması Hakkında Cumhurbaşkanlığı Kararnamesi
+- 2019-01-18: Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi
+- 2019-02-05: Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi
+- 2019-09-13: Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi
+- 2020-03-28: Bazı Cumhurbaşkanlığı Kararnamelerinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi
+- 2024-05-25: Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi
+- 2024-10-04: Bazı Cumhurbaşkanlığı Kararnamelerinde Değişiklik Yapılması Hakkında Cumhurbaşkanlığı Kararnamesi
