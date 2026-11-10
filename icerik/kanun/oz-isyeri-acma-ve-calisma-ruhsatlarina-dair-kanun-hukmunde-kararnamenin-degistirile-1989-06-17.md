@@ -1,7 +1,8 @@
 ---
 id: "oz-isyeri-acma-ve-calisma-ruhsatlarina-dair-kanun-hukmunde-kararnamenin-degistirile-1989-06-17"
 baslik: "İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun"
-tur: "khk"
+tur: "kanun"
+eski_tur: "khk"
 sayi: "3572"
 rg_tarih: "1989-06-17"
 rg_sayi: "20198"

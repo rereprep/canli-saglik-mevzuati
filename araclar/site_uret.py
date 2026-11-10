@@ -1329,7 +1329,10 @@ def main():
         klasor = CIKTI / "mevzuat" / b["tur"]
         klasor.mkdir(parents=True, exist_ok=True)
         (klasor / f"{b['id']}.html").write_text(belge_sayfasi(b), encoding="utf-8")
-        for eski_tur, eski_id in b.get("eski_kimlikler", []):
+        eskiler = list(b.get("eski_kimlikler", []))
+        if b.get("eski_tur") and b["eski_tur"] != b["tur"]:  # türü değiştirilen kaydın eski adresi
+            eskiler.append((b["eski_tur"], b["id"]))
+        for eski_tur, eski_id in eskiler:
             # Birleştirilen kopyaların adresleri çalışmaya devam etsin
             hedef_klasor = CIKTI / "mevzuat" / eski_tur
             hedef_klasor.mkdir(parents=True, exist_ok=True)
