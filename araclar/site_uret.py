@@ -155,7 +155,31 @@ def belgeleri_oku():
     for b in sonuc.values():
         b["baslik"] = ad_temizle(b)
         degisiklik_listesi_ekle(b)
+        son_degisiklik_bul(b)
     return sonuc
+
+
+SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "tuzuk", "yonetmelik"}
+
+
+def son_degisiklik_bul(b):
+    """Kanun/KHK/CBK/BKK/tüzük/yönetmelik için son değişikliğin tarihi: sayfa sonundaki değişiklik listesindeki
+    ve metindeki (Değişik/Ek/Mülga: … RG-g/a/yyyy) notlarındaki en yeni tarih; değişiklik yoksa mevzuatın tarihi."""
+    if b.get("tur") not in SD_TURLERI:
+        return
+    taban = b.get("tarih") or b.get("rg_tarih") or ""
+    bugun = dt.date.today().isoformat()
+    tarihler = []
+    govde = b.get("govde") or ""
+    i = govde.find("## DEĞİŞİKLİK LİSTESİ")
+    if i >= 0:
+        for g, a, y in re.findall(r"(?<![\d/.])(\d{1,2})[./](\d{1,2})[./](\d{4})(?![\d/.])", govde[i:]):
+            tarihler.append(f"{y}-{int(a):02d}-{int(g):02d}")
+    for n in _NOT.finditer(govde):
+        if re.search(r"Değişik|Ek|Mülga|İptal|Yürürlükten|Kaldırıl", n[1]):
+            tarihler.append(f"{n[5]}-{int(n[4]):02d}-{int(n[3]):02d}")
+    tarihler = [x for x in tarihler if "1900" <= x <= bugun and x > (b.get("rg_tarih") or taban or "0")]
+    b["son_degisiklik"] = max(tarihler) if tarihler else taban
 
 
 # ---------------------------------------------------------------- değişiklik listesi
@@ -1058,7 +1082,7 @@ def belge_sayfasi(b):
 
 
 def sirala_anahtar(b):
-    return (b.get("rg_tarih") or b.get("tarih") or "0000")
+    return (b.get("son_degisiklik") or b.get("rg_tarih") or b.get("tarih") or "0000")
 
 
 RG_TURLERI = {"kanun", "khk", "cbk", "yonetmelik", "teblig", "tuzuk", "bkk"}
@@ -1069,6 +1093,7 @@ def tablo(belgeler, kok):
     # tüzük ve yönetmelik listelerinde Sayı sütunu gösterilmez
     rg_sutun = any(b["tur"] in RG_TURLERI and b.get("rg_tarih") for b in belgeler)
     sayi_sutun = not belgeler or any(b["tur"] not in ("tuzuk", "yonetmelik") for b in belgeler)
+    sd_sutun = any(b["tur"] in SD_TURLERI for b in belgeler)
     satirlar = []
     for b in belgeler:
         isaret = "" if b["tam_metin"] else ' <span class="rozet">künye</span>'
@@ -1076,11 +1101,14 @@ def tablo(belgeler, kok):
         rg_metin = " / ".join(x for x in [tarih_tr(b.get("rg_tarih")), b.get("rg_sayi")] if x)
         rg = f"<td>{e(rg_metin)}</td>" if rg_sutun else ""
         sayi = f'<td>{e(b.get("sayi"))}</td>' if sayi_sutun else ""
+        sd = b.get("son_degisiklik", "")
+        sdh = f"<td>{e(tarih_tr(sd))}</td>" if sd_sutun else ""
         satirlar.append(
-            f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}">'
+            f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}" data-son="{e(sd)}">'
             f'<td><a href="{kok}mevzuat/{b["tur"]}/{e(b["id"])}.html">{e(b["baslik"])}</a>{isaret}</td>'
-            f'<td>{e(TUR_TEKIL[b["tur"]])}</td><td>{e(tarih_tr(b.get("tarih")))}</td>{sayi}{rg}</tr>')
-    bas = "<th>Mevzuat Adı</th><th>Tür</th><th>Tarih</th>" + ("<th>Sayı</th>" if sayi_sutun else "") + ("<th>Resmî Gazete</th>" if rg_sutun else "")
+            f'<td>{e(TUR_TEKIL[b["tur"]])}</td><td>{e(tarih_tr(b.get("tarih")))}</td>{sdh}{sayi}{rg}</tr>')
+    bas = ("<th>Mevzuat Adı</th><th>Tür</th><th>Tarih</th>" + ('<th data-kolon="son">Son Değişiklik</th>' if sd_sutun else "")
+           + ("<th>Sayı</th>" if sayi_sutun else "") + ("<th>Resmî Gazete</th>" if rg_sutun else ""))
     return (f'<table class="liste"><thead><tr>{bas}</tr></thead><tbody>'
             + "".join(satirlar) + "</tbody></table>")
 
@@ -1109,11 +1137,13 @@ def ana_sayfa(belgeler):
 
 def tur_sayfasi(tur, belgeler):
     liste = sorted((b for b in belgeler.values() if grup(b["tur"]) == tur), key=lambda b: sade(b["baslik"]))
+    sd_secenek = ('<option value="son-yeni">Son değişikliğe göre (yeniden eskiye)</option><option value="son-eski">Son değişikliğe göre (eskiden yeniye)</option>'
+                  if any(b["tur"] in SD_TURLERI for b in liste) else "")
     icerik = f"""<nav class="yol"><a href="../index.html">Ana Sayfa</a> › {e(TUR_ADLARI[tur])}</nav>
 <h1>{e(TUR_ADLARI[tur])} <small>({len(liste)})</small></h1>
 <div class="metin-ara"><input type="search" id="liste-suz" placeholder="Bu listede süz…" aria-label="Listede süz">
 <label class="sirala">Sırala <select id="liste-sirala" aria-label="Sıralama">
-<option value="ad">Ada göre (A–Z)</option><option value="yeni">Tarihe göre (yeniden eskiye)</option><option value="eski">Tarihe göre (eskiden yeniye)</option>
+<option value="ad">Ada göre (A–Z)</option><option value="yeni">Tarihe göre (yeniden eskiye)</option><option value="eski">Tarihe göre (eskiden yeniye)</option>{sd_secenek}
 </select></label></div>
 {tablo(liste, "../")}"""
     return sayfa(TUR_ADLARI[tur], icerik, "../")

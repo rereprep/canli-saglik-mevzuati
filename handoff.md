@@ -195,3 +195,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-11: hsgm-444 4207 İzleme Formu PDFden tablo olarak yeniden yazıldı. md tablolarında "^^" hücresi üstteki hücreyle birleşir (rowspan); hücre içinde <br> destekleniyor.
 
 - 2026-11-11: Yönetmelik listesinde de Sayı sütunu kaldırıldı.
+
+- 2026-11-11: Kanun/KHK/CBK/BKK/tüzük/yönetmelik için "Son Değişiklik" sütunu (site_uret.son_degisiklik_bul: değişiklik listesi + metin notlarındaki en yeni tarih ≤ bugün; yoksa Tarih). Liste sıralamasına "Son değişikliğe göre" seçenekleri ve sütun başlığı tıklaması eklendi (ara.js data-son). Ana sayfa Son düzenlemeler son değişiklik tarihine göre sıralanıyor.

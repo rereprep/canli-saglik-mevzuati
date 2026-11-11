@@ -14,6 +14,7 @@
   // Liste sıralama: ada göre ya da tarihe göre (tarihi olmayanlar her zaman sonda)
   function karsilastir(tur){return function(a,b){
     if(tur==="ad")return a.ad.localeCompare(b.ad,"tr");
+    if(tur.indexOf("son-")===0){a={ad:a.ad,t:a.s||""};b={ad:b.ad,t:b.s||""};tur=tur.slice(4);}
     if(!a.t!==!b.t)return a.t?-1:1;
     var f=tur==="yeni"?b.t.localeCompare(a.t):a.t.localeCompare(b.t);
     return f||a.ad.localeCompare(b.ad,"tr");};}
@@ -21,15 +22,16 @@
   if(sir){
     var tbody=document.querySelector("table.liste tbody");
     var uygula=function(){var tur=sir.value;try{localStorage.setItem("csm-sirala",tur);}catch(x){}
-      Array.prototype.map.call(tbody.rows,function(r){return {r:r,ad:r.getAttribute("data-ad")||"",t:r.getAttribute("data-tarih")||""};})
+      Array.prototype.map.call(tbody.rows,function(r){return {r:r,ad:r.getAttribute("data-ad")||"",t:r.getAttribute("data-tarih")||"",s:r.getAttribute("data-son")||""};})
         .sort(karsilastir(tur)).forEach(function(x){tbody.appendChild(x.r);});
-      document.querySelectorAll("table.liste th[data-sirala]").forEach(function(th){th.setAttribute("aria-sort",th.getAttribute("data-sirala")==="ad"?(tur==="ad"?"ascending":"none"):(tur==="yeni"?"descending":tur==="eski"?"ascending":"none"));});};
+      document.querySelectorAll("table.liste th[data-sirala]").forEach(function(th){var k=th.getAttribute("data-sirala"),on=k==="son"?"son-":"";th.setAttribute("aria-sort",k==="ad"?(tur==="ad"?"ascending":"none"):(tur===on+"yeni"?"descending":tur===on+"eski"?"ascending":"none"));});};
     var ths=document.querySelectorAll("table.liste thead th");
-    [[0,"ad"],[2,"tarih"]].forEach(function(x){var th=ths[x[0]];if(!th)return;th.setAttribute("data-sirala",x[1]);th.setAttribute("tabindex","0");th.title="Sıralamak için tıklayın";
-      var tik=function(){sir.value=x[1]==="ad"?"ad":(sir.value==="yeni"?"eski":"yeni");uygula();};
+    var sonTh=-1;Array.prototype.forEach.call(ths,function(th,i){if(th.getAttribute("data-kolon")==="son")sonTh=i;});
+    [[0,"ad"],[2,"tarih"],[sonTh,"son"]].forEach(function(x){var th=ths[x[0]];if(!th)return;th.setAttribute("data-sirala",x[1]);th.setAttribute("tabindex","0");th.title="Sıralamak için tıklayın";
+      var tik=function(){sir.value=x[1]==="ad"?"ad":x[1]==="son"?(sir.value==="son-yeni"?"son-eski":"son-yeni"):(sir.value==="yeni"?"eski":"yeni");uygula();};
       th.addEventListener("click",tik);th.addEventListener("keydown",function(ev){if(ev.key==="Enter"||ev.key===" "){ev.preventDefault();tik();}});});
     var kayitli=null;try{kayitli=localStorage.getItem("csm-sirala");}catch(x){}
-    if(kayitli&&/^(ad|yeni|eski)$/.test(kayitli))sir.value=kayitli;
+    if(kayitli&&/^(ad|yeni|eski|son-yeni|son-eski)$/.test(kayitli)&&sir.querySelector('option[value="'+kayitli+'"]'))sir.value=kayitli;
     uygula();
     sir.addEventListener("change",uygula);
   }
