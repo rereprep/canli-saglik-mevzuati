@@ -181,3 +181,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-11: Türk Gıda Kodeksi Peynir Tebliği 2026/24 sağlık dışı sayılarak yedek/saglik-disi/teblig/ altına taşındı. rg_takip.py: yedek/ altındaki rg-*.md kaynakları yeniden önerilmiyor; Türk Gıda Kodeksi ürün standartları (takviye, bebek, katkı, bulaşan, etiketleme vb. sağlık anahtarı yoksa) atlanıyor. Site: 1432 kayıt, 1420 tam metin.
 
 - 2026-11-11: Kullanıcı isteğiyle Peynir Tebliği yedekten de silindi (yedek/saglik-disi kaldırıldı). Yeniden eklenmesini rg_takip.py içindeki Gıda Kodeksi ürün standardı süzgeci engelliyor.
+
+- 2026-11-11: rg_takip.py artık hiçbir Türk Gıda Kodeksi düzenlemesini almıyor (kullanıcı kararı).
