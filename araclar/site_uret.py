@@ -577,6 +577,7 @@ def satir_ici(s):
     s = re.sub(r"&lt;sup&gt;(\[\d+\])&lt;/sup&gt;", r"<sup>\1</sup>", s)
     s = re.sub(r"&lt;i&gt;(.+?)&lt;/i&gt;", r"<em>\1</em>", s)
     s = s.replace("&lt;i&gt;", "").replace("&lt;/i&gt;", "")
+    s = s.replace("&lt;br&gt;", "<br>")
     return s
 
 
@@ -871,9 +872,23 @@ def md_html(govde):
         satirlar = [s.strip() for s in blok.split("\n")]
         if len(satirlar) >= 1 and all(s.startswith("|") for s in satirlar):
             govde_satir = [s for s in satirlar if not re.fullmatch(r"\|[\s:|-]+\|?", s)]
-            hucreler = [[satir_ici(h.strip()) for h in s.strip("|").split("|")] for s in govde_satir]
-            parcalar.append('<div class="tablo-kap"><table class="metin-tablo">' + "".join(
-                "<tr>" + "".join(f"<td>{h}</td>" for h in r) + "</tr>" for r in hucreler) + "</table></div>")
+            ham = [[h.strip() for h in s.strip("|").split("|")] for s in govde_satir]
+            # "^^" içeren hücre üstteki hücreyle birleşir (rowspan)
+            span = [[1] * len(r) for r in ham]
+            for i, r in enumerate(ham):
+                for j, h in enumerate(r):
+                    if h == "^^":
+                        k = i - 1
+                        while k >= 0 and (j >= len(ham[k]) or ham[k][j] == "^^"):
+                            k -= 1
+                        if k >= 0:
+                            span[k][j] += 1
+            satir_html = []
+            for i, r in enumerate(ham):
+                hucre = "".join((f'<td rowspan="{span[i][j]}">' if span[i][j] > 1 else "<td>") + satir_ici(h) + "</td>"
+                                for j, h in enumerate(r) if h != "^^")
+                satir_html.append(f"<tr>{hucre}</tr>")
+            parcalar.append('<div class="tablo-kap"><table class="metin-tablo">' + "".join(satir_html) + "</table></div>")
             continue
         m = re.match(r"^(#{2,4}) (.*)$", blok, re.S)
         if m:
