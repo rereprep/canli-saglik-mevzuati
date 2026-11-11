@@ -12,11 +12,11 @@
   if(suz){suz.addEventListener("input",function(){var q=sade(suz.value);document.querySelectorAll("table.liste tbody tr").forEach(function(tr){tr.style.display=!q||sade(tr.textContent).indexOf(q)>=0?"":"none";});});}
 
   // Liste sıralama: ada göre ya da tarihe göre (tarihi olmayanlar her zaman sonda)
-  function karsilastir(tur){return function(a,b){
+  function karsilastir(tur){var son=tur.indexOf("son-")===0,yon=son?tur.slice(4):tur;return function(a,b){
     if(tur==="ad")return a.ad.localeCompare(b.ad,"tr");
-    if(tur.indexOf("son-")===0){a={ad:a.ad,t:a.s||""};b={ad:b.ad,t:b.s||""};tur=tur.slice(4);}
+    if(son){a={ad:a.ad,t:a.s||""};b={ad:b.ad,t:b.s||""};}
     if(!a.t!==!b.t)return a.t?-1:1;
-    var f=tur==="yeni"?b.t.localeCompare(a.t):a.t.localeCompare(b.t);
+    var f=yon==="yeni"?b.t.localeCompare(a.t):a.t.localeCompare(b.t);
     return f||a.ad.localeCompare(b.ad,"tr");};}
   var sir=document.getElementById("liste-sirala");
   if(sir){
