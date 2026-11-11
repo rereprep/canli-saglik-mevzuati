@@ -1,6 +1,6 @@
 ---
 id: "oz-adli-tip-kurumu-kanunu-1982-04-20"
-baslik: "Adli Tıp Kurumu Kanunu"
+baslik: "Adli Tıp Kurumu ile İlgili Bazı Düzenlemeler Hakkında Kanun"
 tur: "kanun"
 sayi: "2659"
 rg_tarih: "1982-04-20"
@@ -8,7 +8,7 @@ rg_sayi: "17670"
 etiketler: ["sağlıkla ilgili genel mevzuat"]
 kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
 kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2659&MevzuatTur=1&MevzuatTertip=5"
-not: "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler."
+not: "Ek III: Sağlıkla ilgili kanunlar ve kanun hükmünde kararnameler. Kanunun adı “Adlî Tıp Kurumu Kanunu” iken 2/7/2018 tarihli ve 703 sayılı KHK’nin 61 inci maddesiyle “Adli Tıp Kurumu ile İlgili Bazı Düzenlemeler Hakkında Kanun” olarak değiştirilmiştir."
 durum: "yürürlükte"
 ---
 
