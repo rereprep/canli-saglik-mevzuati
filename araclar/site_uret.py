@@ -90,8 +90,9 @@ def belgeleri_oku():
                 veri[alan] = deger
         veri.update({a: d for a, d in elle.get(veri["id"], {}).items() if a != "gizle"})
         alanlari_duzelt(veri)
-        veri["govde"] = govde
-        veri["tam_metin"] = True
+        veri["govde"] = govde_temizle(govde, veri)
+        # Yalnız başlık satırı kalmış (metni aktarılamamış) kayıt künye olarak gösterilir
+        veri["tam_metin"] = len(re.sub(r"[\W_]+", "", veri["govde"])) >= 150
         tam.append(veri)
     belgeler = tekillestir(tam)
     # Tam metni olan (ya da tam metne birleştirilmiş) kimlikler katalogda yeniden künye olarak görünmesin
@@ -156,7 +157,15 @@ def belgeleri_oku():
         b["baslik"] = ad_temizle(b)
         degisiklik_listesi_ekle(b)
         son_degisiklik_bul(b)
+    _KIMLIK.clear()
+    for b in sonuc.values():
+        _KIMLIK[b["id"]] = (b["tur"], b["id"])
+        for _, eski in b.get("eski_kimlikler", []):
+            _KIMLIK.setdefault(eski, (b["tur"], b["id"]))
     return sonuc
+
+
+_KIMLIK = {}  # her (güncel ya da eski) kimlik -> sayfası olan (tür, kimlik)
 
 
 SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "tuzuk", "yonetmelik", "teblig"}
@@ -186,6 +195,40 @@ def son_degisiklik_bul(b):
             tarihler.append(f"{n[5]}-{int(n[4]):02d}-{int(n[3]):02d}")
     tarihler = [x for x in tarihler if "1900" <= x <= bugun and x > (b.get("rg_tarih") or taban or "0")]
     b["son_degisiklik"] = max(tarihler) if tarihler else taban
+
+
+_EIMZA = re.compile(
+    r"Bu belge,?\s*(?:5070 sayılı .{0,60}?)?güvenli elektronik imza ile imzalanmıştır\.?"
+    r"(?:\s*(?:Evrakın )?[Ee]lektronik imzalı suretine [^\n]{0,260}?(?:erişebilirsiniz|ulaşabilirsiniz)\.?)?")
+_EIMZA_SATIR = re.compile(r"(?m)^(?:Evrakın )?[Ee]lektronik imzalı suretine [^\n]{0,260}$|^Belge [Dd]oğrulama (?:[Kk]odu|[Aa]dresi)\s*:[^\n]{0,300}$")
+_PUA = "[\ue000-\uf8ff]"
+
+
+def govde_temizle(govde, veri):
+    """Aktarım artıkları: görünmez tire, PDF madde imi karakterleri, e-imza altbilgileri, sayfa numaraları,
+    paragrafa yapışmış başlıklar ve mevzuat.gov.tr'nin çalışmayan 'tıklayınız' bağlantıları."""
+    g = govde.replace("\xad", "")
+    g = re.sub(r"(?:\(cid:\d+\)\s*)+", "", g)
+    g = re.sub(r"(?m)^(?!\|)(.*?)$", lambda m: re.sub(r"[-_]{10,}", " ", m[1]) if re.search(r"[-_]{10,}", m[1]) and not re.fullmatch(r"\s*[-_]+\s*", m[1]) else m[1], g)
+    g = re.sub(_PUA + r"[ \t]*\n+[ \t]*(?=\S)", "• ", g)   # tek başına satıra düşmüş madde imi
+    g = re.sub(r"(?m)^([ \t]*)" + _PUA + r"[ \t]*", r"\1• ", g)
+    g = re.sub(_PUA, "•", g)
+    if "resmi-yazismalar" not in veri.get("id", ""):  # o yönetmelikte bu ifadeler örnek belge içeriğidir
+        g = _EIMZA_SATIR.sub("", _EIMZA.sub("", g))
+    # "3 / 48" biçiminde tek başına kalmış sayfa numaraları (aynı toplamla en az üç kez geçiyorsa)
+    sayfalar = re.findall(r"(?m)^[ \t]*\d{1,3}[ \t]*/[ \t]*(\d{1,3})[ \t]*$", g)
+    for toplam in {s for s in sayfalar if sayfalar.count(s) >= 3}:
+        g = re.sub(r"(?m)^[ \t]*\d{1,3}[ \t]*/[ \t]*" + toplam + r"[ \t]*$", "", g)
+    # Başlık satırı kendi bloğunda olmalı
+    g = re.sub(r"(?m)([^\n])\n(#{2,4} \S)", r"\1\n\n\2", g)
+    g = re.sub(r"(?m)^(#{2,4} [^\n]+)\n(?=[^\n#])", r"\1\n\n", g)
+    url = veri.get("kaynak_url") or ""
+    if "mevzuat.gov.tr" in url:
+        g = re.sub(r"(?<!\[)\btıklayınız\b(?!\])", f"[tıklayınız]({url})", g)
+    g = re.sub(r"\n{3,}", "\n\n", g)
+    # Altı boş kalan "Dipnotlar" başlığı
+    g = re.sub(r"(?:\n---)?\n+\**Dipnotlar\**\s*$", "\n", g.rstrip() + "\n")
+    return g
 
 
 # ---------------------------------------------------------------- değişiklik listesi
@@ -502,6 +545,12 @@ def ciftleri_birlestir(belgeler):
             for diger in kume[1:]:
                 birlestir(kume[0], diger)
                 silinen.add(diger["id"])
+    # elle-duzeltme.json içindeki "ayni": "<kimlik>" alanı: metni aynı olan kopya, gösterilen kayda katılır
+    for b in list(belgeler.values()):
+        hedef = belgeler.get(b.get("ayni") or "")
+        if hedef and hedef["id"] not in silinen and b["id"] not in silinen and hedef is not b:
+            birlestir(hedef, b)
+            silinen.add(b["id"])
     return {i: b for i, b in belgeler.items() if i not in silinen}
 
 
@@ -600,6 +649,9 @@ def tarih_tr(iso):
     return f"{m.group(3)}.{m.group(2)}.{m.group(1)}" if m else iso
 
 
+_MD_BAG = re.compile(r"\[([^\]\[]{1,120})\]\((https?://[^)\s]+)\)")
+
+
 def satir_ici(s):
     s = e(s)
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
@@ -608,11 +660,13 @@ def satir_ici(s):
     s = re.sub(r"&lt;i&gt;(.+?)&lt;/i&gt;", r"<em>\1</em>", s)
     s = s.replace("&lt;i&gt;", "").replace("&lt;/i&gt;", "")
     s = s.replace("&lt;br&gt;", "<br>")
+    s = _MD_BAG.sub(lambda m: f'<a href="{m[2]}" target="_blank" rel="noopener">{m[1]}</a>', s)
     return s
 
 
 def bicim_parcala(s):
     """'**koyu**' ve '<i>italik</i>' işaretli metni (metin, koyu, italik) parçalarına ayırır."""
+    s = _MD_BAG.sub(r"\1", s).replace("<br>", " ")
     parcalar, koyu, italik = [], False, False
     for t in re.split(r"(\*\*|</?i>)", s):
         if t == "**":
@@ -672,6 +726,8 @@ def hizalar(bloklar):
         if re.match(r"^(#{2,4} |\||---$|\*\*(GEÇİCİ |Geçici |EK |Ek )?(MADDE|Madde))", blok) or blok.startswith("<small>"):
             sonuc.append(None); durum = None if durum == "imza" else durum; continue
         satirlar = [_duz(s) for s in blok.split("\n") if _duz(s)]
+        if not satirlar:
+            sonuc.append(None); continue
         t = " ".join(satirlar)
         kisa = all(len(s) <= 75 for s in satirlar) and len(satirlar) <= 6
         h = None
@@ -837,7 +893,7 @@ def bloklari_duzenle(govde):
             onc = birlesik[-1]; ilk = re.sub(r"\*\*", "", onc.split("\n")[0])
             sade = re.sub(r"\*\*", "", b)
             if (re.match(r"^(Konu|KONU)\s*[:：]", re.sub(r"\*\*", "", onc.split("\n")[-1])) and "\n" not in b
-                    and len(sade) <= 60 and not re.search(r"[:：]", sade) and not _buyuk(sade)):
+                    and len(sade) <= 60 and not re.search(r"[:：]", sade) and not _buyuk(sade) and not b.startswith("#")):
                 birlesik[-1] = onc + "\n" + b; continue
             if (re.match(r"^(İlgi|İLGİ)\s*[:：]", ilk) and re.match(r"^[b-hçğ]\)\s", sade)
                     and len(sade) <= 300 and re.search(r"tarih|sayılı|yazı|dilekçe|Genelge|Yönetmelik|Kanun|tutanak", sade)):
@@ -1052,9 +1108,9 @@ def belge_sayfasi(b):
         satir = []
         for d in b["degistirdigi"]:
             ad = e(d.get("ad", ""))
-            if d.get("id"):
-                tur_ = d.get("tur") or b["tur"]
-                ad = f'<a href="{kok}mevzuat/{e(tur_)}/{e(d["id"])}.html">{ad}</a>'
+            if d.get("id") in _KIMLIK:
+                tur_, kimlik = _KIMLIK[d["id"]]
+                ad = f'<a href="{kok}mevzuat/{e(tur_)}/{e(kimlik)}.html">{ad}</a>'
             if d.get("url"):
                 ad += f' — <a href="{e(d["url"])}" rel="noopener" target="_blank">mevzuat.gov.tr</a>'
             satir.append(f"<li>{ad}</li>")

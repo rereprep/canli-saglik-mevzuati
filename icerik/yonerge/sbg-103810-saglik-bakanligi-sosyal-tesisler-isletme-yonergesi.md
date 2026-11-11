@@ -43,7 +43,7 @@ f) Kamu Harcama ve Muhasebe Bilişim Sistemi (KBS) : Verilerin Hazine ve Maliye 
 
 g) KTS Sosyal Tesis: Milli Emlak Otomasyon Projesi sisteminde oluşturulan
 
-#### #### Yönetim Kurulu ve Çalışma Esasları
+#### Yönetim Kurulu ve Çalışma Esasları
 
 **MADDE 6 –** (1) Yönetim Kurulu bir başkan ve 2 üyeden oluşur. Üye sayısı kadar yedek üye belirlenir. Yönetim Kurulu Başkanını ve üyelerini üst yönetici belirler. Görevlendirmeler bir yıl süre ile yapılır. Görev süresi sona erenler, aynı usülle tekrar görevlendirilebilir.
 

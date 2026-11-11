@@ -124,7 +124,7 @@ Bakan Yardımcısı
 
 Değerlendirme Merkezleri Isim Listesi (Ek-6)
 
-### ### DAĞITIM:
+### DAĞITIM:
 
 Gereği:
 81 İl Valiliği (II Sağlık Müdürlüğü)

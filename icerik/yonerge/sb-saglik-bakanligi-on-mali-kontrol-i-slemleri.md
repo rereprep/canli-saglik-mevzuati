@@ -96,7 +96,7 @@ i) Görüş Yazısı: Ön mall kontrol sorunda mali karar ve işlemlerin uygun b
 
 **MADDE 11 –** Aynı Yönergenin ekinde yer alan Ek-1 Taahhüt Evrakı ve Sözleşme Tasarısı Kontrol Formu değiştirilmiştir.
 
-### ## SAĞLIK BAKANLIĞI ÖN MALİ KONTROL İŞLEMLERİ YÖNERGESİ
+## SAĞLIK BAKANLIĞI ÖN MALİ KONTROL İŞLEMLERİ YÖNERGESİ
 
 ## BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar
 
@@ -144,7 +144,7 @@ Onaya/Gårtę Varısı: Ön mali kontrol sonucunda mali karar ve işlemlerin uyg
 
 j) EBYS: Sağlık Bakanlığının kullandığı Elektronik Belge Yönetim Sistemi'ni, ifade eder.
 
-### ## İKİNCİ BÖLÜM
+## İKİNCİ BÖLÜM
 
 ### Ön Mali Kontrol
 
