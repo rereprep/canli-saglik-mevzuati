@@ -83,7 +83,7 @@ table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 .alt .ithaf{color:#fff;margin-top:16px;padding-top:12px;border-top:1px solid rgba(255,255,255,.25);text-align:center}
 .ithaf-buyuk{font-size:1.1rem;border-left:4px solid var(--kirmizi);padding:10px 16px;background:var(--vurgu);border-radius:6px}
 .kucuk{font-size:.85rem;color:var(--soluk)}
-@media (max-width:700px){.menu a{margin:0 14px 0 0}.ana-ara{flex-direction:column}table.liste th:nth-child(n+3),table.liste td:nth-child(n+3){display:none}table.kunye th{width:38%}table.kunye td,table.kunye th{padding:6px 8px;word-break:normal;overflow-wrap:anywhere}}
+@media (max-width:700px){.menu a{margin:0 14px 0 0}.ana-ara{flex-direction:column}table.liste th:nth-child(2),table.liste td:nth-child(2),table.liste th:nth-child(n+4),table.liste td:nth-child(n+4){display:none}table.liste td:nth-child(3){white-space:nowrap}table.kunye th{width:38%}table.kunye td,table.kunye th{padding:6px 8px;word-break:normal;overflow-wrap:anywhere}}
 @media print{.ust,.alt,.indir,.metin-ara,.yol,.etiketler,.yukari,.atla{display:none}main{box-shadow:none}}
 
 
@@ -111,3 +111,5 @@ table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 .yazi-boyu button:hover{background:var(--vurgu)}
 .metin{font-size:calc(1.07rem * var(--yazi-olcek,1))}
 .madde-vurgu{background:#fff6cc;transition:background 1.5s}
+.metin h2,.metin h3{font-size:.98em}
+.metin h4{font-size:.94em}

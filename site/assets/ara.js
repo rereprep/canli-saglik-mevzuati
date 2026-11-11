@@ -60,7 +60,7 @@
   // Yazı boyutu (tercih tarayıcıda saklanır)
   var yb=document.getElementById("yazi-buyut"), yc=document.getElementById("yazi-kucult"), mt=document.getElementById("metin");
   if(yb&&yc&&mt){var olcek=1;try{olcek=parseFloat(localStorage.getItem("csm-yazi"))||1;}catch(x){}
-    var olcekUygula=function(){olcek=Math.min(1.6,Math.max(0.8,olcek));mt.style.setProperty("--yazi-olcek",olcek);try{localStorage.setItem("csm-yazi",olcek);}catch(x){}};
+    var olcekUygula=function(){olcek=Math.round(Math.min(1.6,Math.max(0.8,olcek))*10)/10;mt.style.setProperty("--yazi-olcek",olcek);try{localStorage.setItem("csm-yazi",olcek);}catch(x){}};
     olcekUygula();yb.addEventListener("click",function(){olcek+=0.1;olcekUygula();});yc.addEventListener("click",function(){olcek-=0.1;olcekUygula();});}
 
   // Madde numarasına git

@@ -848,6 +848,15 @@ def bloklari_duzenle(govde):
     for j, b in enumerate(out):
         if re.match(r"^# ", b):
             out[j] = "#" + b
+    # Belge başında iki satıra bölünmüş ad ("### … DÜZENLEMELER" + "### HAKKINDA KANUN") tek başlıkta birleşir
+    ilk = next((j for j, b in enumerate(out) if b.startswith("#")), None)
+    while (ilk is not None and ilk + 1 < len(out) and ilk <= 2
+           and all(re.match(r"^### \S", x) and "\n" not in x and _buyuk(x) and not re.search(r"\b(BÖLÜM|KISIM|KİTAP)\b|^### (EK|TEBLİĞ|YÖNETMELİK|GENELGE|KANUN)\b", x)
+                   for x in out[ilk:ilk + 2])
+           and len(out[ilk]) + len(out[ilk + 1]) < 260
+           and re.search(r"(KANUN[U]?|YÖNETMELİ[KĞ]İ?|TÜZÜ[KĞ]Ü?|TEBLİ[ĞG]İ?|YÖNERGE(Sİ)?|KARARNAME(Sİ)?|NİZAMNAME(Sİ)?|KARAR|\))(\s*\[\d+\])*\s*$|^### \(", out[ilk + 1])
+           and not re.search(r"(KANUN[U]?|YÖNETMELİ[KĞ]İ?|TÜZÜ[KĞ]Ü?|TEBLİ[ĞG]İ?|YÖNERGESİ?|NİZAMNAMESİ?)(\s*\[\d+\])*\s*$", out[ilk])):
+        out[ilk:ilk + 2] = [out[ilk] + " " + out[ilk + 1][4:]]
     # "BİRİNCİ BÖLÜM Başlangıç Hükümleri" -> bölüm numarası ve adı ayrı satırlarda (mevzuat.gov.tr düzeni)
     ayrik = []
     for b in out:
