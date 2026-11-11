@@ -13,9 +13,61 @@ kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmem
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/07/20100721-17-1.htm"
 ---
 
-| 21 Temmuz 2010 ÇARŞAMBA | Resmî Gazete | Sayı : 27648 |
-| TEBLİĞ |
-| Devlet Bakanlığı ve Başbakan Yardımcılığı ile Sağlık Bakanlığından: TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASINDA KURUM KATKISINA İLİŞKİN USUL VE ESASLARA DAİR TEBLİĞ (2010/1) Amaç MAD­DE 1- (1) Bu Tebliğin amacı , Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası primine yapılacak kurum katkısına ilişkin usul ve esasların belirlenmesidir. Kapsam MADDE 2- (1) Bu Tebliğ doğrudan sağlık hizmeti sunan , k amu veya özel sağlık kurum ve kuruluşları ile sağlık birimlerinde çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar ile ilgili kurum ve kuruluşları kapsar. Primlerin Ödenmesi ve Kurum Katkılarının Tahsili ile İadesi MADDE 3- (1) Kamu kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar, yaptıracakları sigorta sözleşmesinin primlerini sigortacıya veya sigorta acentesine ödedikten sonra, ödedikleri prim tutarının yarısını döner sermayesi bulunan kurumlarda döner sermayeden, döner sermayesi bulunmayan kurumlarda kurum bütçesinden geri alır. Geri ödemeler, sigortaya ilişkin poliçe veya sigorta şirketi ya da sigorta acentesinin kaşesini taşıyan prim ödeme makbuzunun bir örneğinin ibrazı üzerine ilgili kurum tarafından en geç otuz gün içinde yapılır. (2) Özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olan sigortalılar için yapılacak sigorta sözleşmesinin primleri, kurum ve kuruluşları tarafından sigortacıya veya sigorta acentesine ödenir. Ödenen primin yarısı sigortalıya yansıtılır. (3) Mesleklerini serbest olarak icra eden tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar ile sözleşmeli aile hekimlerinin sigorta primlerinin tamamı kendileri tarafından ödenir. (4) Kamu kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların, herhangi bir nedenle sigorta sözleşmesinin sona ermesi durumunda, sona erme tarihinden sonraki günlere ait iade edilen primin kurum katkısına karşılık gelen kısmı otuz gün içinde sigorta ettiren tarafından ilgili kamu kurum veya kuruluşuna ödenir. (5) Kamu kurum ve kuruluşunda çalışan sigorta ettirenin, kurum katkı yükümlüsünü değiştirecek şekilde iş değişikliği yapması durumunda, sigorta sözleşmesi sona erdirilmemişse, değişiklik tarihinden sonraki günlere ait primdeki kurum katkısı otuz gün içinde sigorta ettiren tarafından ilgili kuruma geri ödenir. (6) Özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların, herhangi bir nedenle sigorta sözleşmesinin sona ermesi durumunda, sona erme tarihinden sonraki günlere ait iade edilen primin sigortalının katkısına karşılık gelen kısmı otuz gün içinde sigorta ettiren tarafından sigortalıya ödenir. Yürürlük MADDE 4– (1) Bu Tebliğ 30.07.2010 tarihinde yürürlüğe girer. Yürütme MADDE 5 – (1) Bu Tebliğ hükümlerini Hazine Müsteşarlığının bağlı olduğu Bakan ile Sağlık Bakanı yürütür. TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI TARİFE VE TALİMATI Bu tarife ve talimat ile 1219 sayılı Kanunun Ek 12 nci maddesi uyarınca yapılan “Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası”nın uygulanmasına ilişkin esaslar belirlenmiştir. A. TARİFE 1. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasında her bir olay için azami teminat tutarı 300.000 TL’dir. 2. Teminat tutarı maddi, manevi tazminat ve yargılama giderleri için geçerlidir. 3. Risk gerçekleşmiş olsa dahi, olay başı azami teminat miktarı sözleşme süresi boyunca aynı kalır. 4. EK-1’de yer alan risk gruplarına göre hazırlanmış olan Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası primlerine ilişkin tarife aşağıdadır. İlk kez yapılacak sigortalarda bu prim tutarları uygulanır. Prim Tutarları (4. Basamak) Risk Grubu | Prim Miktarı (TL) |
+### TEBLİĞ
+
+Devlet Bakanlığı ve Başbakan Yardımcılığı ile Sağlık Bakanlığından:
+
+### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASINDA KURUM KATKISINA İLİŞKİN USUL VE ESASLARA DAİR TEBLİĞ
+
+(2010/1)
+
+#### Amaç
+
+**MADDE 1 –** (1) Bu Tebliğin amacı, Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası primine yapılacak kurum katkısına ilişkin usul ve esasların belirlenmesidir.
+
+#### Kapsam
+
+**MADDE 2 –** (1) Bu Tebliğ doğrudan sağlık hizmeti sunan, kamu veya özel sağlık kurum ve kuruluşları ile sağlık birimlerinde çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar ile ilgili kurum ve kuruluşları kapsar.
+
+#### Primlerin Ödenmesi ve Kurum Katkılarının Tahsili ile İadesi
+
+**MADDE 3 –** (1) Kamu kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar, yaptıracakları sigorta sözleşmesinin primlerini sigortacıya veya sigorta acentesine ödedikten sonra, ödedikleri prim tutarının yarısını döner sermayesi bulunan kurumlarda döner sermayeden, döner sermayesi bulunmayan kurumlarda kurum bütçesinden geri alır. Geri ödemeler, sigortaya ilişkin poliçe veya sigorta şirketi ya da sigorta acentesinin kaşesini taşıyan prim ödeme makbuzunun bir örneğinin ibrazı üzerine ilgili kurum tarafından en geç otuz gün içinde yapılır.
+
+(2) Özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olan sigortalılar için yapılacak sigorta sözleşmesinin primleri, kurum ve kuruluşları tarafından sigortacıya veya sigorta acentesine ödenir. Ödenen primin yarısı sigortalıya yansıtılır.
+
+(3) Mesleklerini serbest olarak icra eden tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar ile sözleşmeli aile hekimlerinin sigorta primlerinin tamamı kendileri tarafından ödenir.
+
+(4) Kamu kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların, herhangi bir nedenle sigorta sözleşmesinin sona ermesi durumunda, sona erme tarihinden sonraki günlere ait iade edilen primin kurum katkısına karşılık gelen kısmı otuz gün içinde sigorta ettiren tarafından ilgili kamu kurum veya kuruluşuna ödenir.
+
+(5) Kamu kurum ve kuruluşunda çalışan sigorta ettirenin, kurum katkı yükümlüsünü değiştirecek şekilde iş değişikliği yapması durumunda, sigorta sözleşmesi sona erdirilmemişse, değişiklik tarihinden sonraki günlere ait primdeki kurum katkısı otuz gün içinde sigorta ettiren tarafından ilgili kuruma geri ödenir.
+
+(6) Özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların, herhangi bir nedenle sigorta sözleşmesinin sona ermesi durumunda, sona erme tarihinden sonraki günlere ait iade edilen primin sigortalının katkısına karşılık gelen kısmı otuz gün içinde sigorta ettiren tarafından sigortalıya ödenir.
+
+#### Yürürlük
+
+**MADDE 4 –** (1) Bu Tebliğ 30.07.2010 tarihinde yürürlüğe girer.
+
+#### Yürütme
+
+**MADDE 5 –** (1) Bu Tebliğ hükümlerini Hazine Müsteşarlığının bağlı olduğu Bakan ile Sağlık Bakanı yürütür.
+
+### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI TARİFE VE TALİMATI
+
+Bu tarife ve talimat ile 1219 sayılı Kanunun Ek 12 nci maddesi uyarınca yapılan “Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası”nın uygulanmasına ilişkin esaslar belirlenmiştir.
+
+### A. TARİFE
+
+1. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasında her bir olay için azami teminat tutarı 300.000 TL’dir.
+
+2. Teminat tutarı maddi, manevi tazminat ve yargılama giderleri için geçerlidir.
+
+3. Risk gerçekleşmiş olsa dahi, olay başı azami teminat miktarı sözleşme süresi boyunca aynı kalır.
+
+4. EK-1’de yer alan risk gruplarına göre hazırlanmış olan Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası primlerine ilişkin tarife aşağıdadır. İlk kez yapılacak sigortalarda bu prim tutarları uygulanır.
+
+Prim Tutarları (4. Basamak)
+
+| Risk Grubu | Prim Miktarı (TL) |
 | I. Grup | 150 |
 | II. Grup | 300 |
 | III. Grup | 500 |
@@ -42,11 +94,11 @@ Bir önceki yıl ya da bir önceki sözleşme süresi içinde herhangi bir tazmi
 
 a) Kamu sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar için, sigorta ettiren sıfatıyla kendileri tarafından,
 
-b) Özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların her biri için ayrı ayrı , sigorta ettiren sıfatıyla kurumları tarafından,
+b) Özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların her biri için ayrı ayrı, sigorta ettiren sıfatıyla kurumları tarafından,
 
 c) Mesleklerini serbest olarak icra eden tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar ile sözleşmeli aile hekimleri için kendileri tarafından,
 
-yaptırılır .
+yaptırılır.
 
 2. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası grup sigortası şeklinde yapılamaz.
 
@@ -58,7 +110,7 @@ yaptırılır .
 
 6. Süresinden önce sona eren sözleşmelerde işlemeyen günlere ait primler, sigorta şirketi tarafından gün esası üzerinden sigorta ettirene iade edilir.
 
-7. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasına dair sözleşmenin yapılması, sona ermesi, risk değişikliği gibi tüm bilgiler sözleşme bazında en geç yirmidört saat içinde Sigorta Bilgi Merkezine iletilir. İletilen bilgilerin formatı Sigorta Bilgi Merkezi tarafından belirlenir. Sigorta Bilgi Merkezi , kendisine iletilen sigortalı bazındaki sözleşme bilgileri ile Sağlık Bakanlığı nezdindeki ilgili listeleri karşılaştırır . Bu sigortayı yaptırmamış olanların listesini çıkararak Sağlık Bakanlığına ve Hazine Müsteşarlığına iletir . Gereken altyapıyı kurmamış olan sigorta şirketleri gerekli bilişim altyapısını oluşturana kadar bu sigortayı yapamaz .
+7. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasına dair sözleşmenin yapılması, sona ermesi, risk değişikliği gibi tüm bilgiler sözleşme bazında en geç yirmidört saat içinde Sigorta Bilgi Merkezine iletilir. İletilen bilgilerin formatı Sigorta Bilgi Merkezi tarafından belirlenir. Sigorta Bilgi Merkezi, kendisine iletilen sigortalı bazındaki sözleşme bilgileri ile Sağlık Bakanlığı nezdindeki ilgili listeleri karşılaştırır. Bu sigortayı yaptırmamış olanların listesini çıkararak Sağlık Bakanlığına ve Hazine Müsteşarlığına iletir. Gereken altyapıyı kurmamış olan sigorta şirketleri gerekli bilişim altyapısını oluşturana kadar bu sigortayı yapamaz.
 
 8. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası’na ilişkin poliçeler tüm sigorta şirketleri tarafından ekteki (EK-2) formata göre düzenlenir.
 
@@ -66,9 +118,7 @@ yaptırılır .
 
 Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 
-### EK 1
-
-### RİSK GRUPLARI TABLOSU
+### EK 1 RİSK GRUPLARI TABLOSU
 
 | A- |  | RİSK GRUBU |
 | Kod |  | 1.GRUP | 2.GRUP | 3.GRUP | 4.GRUP |
@@ -93,11 +143,11 @@ Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 | 15 | Çocuk Cerrahisi |  |  | x |  |
 | 16 | Çocuk Endokrinolojisi (Çocuk endokrinolojisi ve metabolizma hastalıkları) |  | x |  |  |
 | 17 | Çocuk Enfeksiyon Hastalıkları |  |  | x |  |
-| 18 | Çocuk Gastroenterolojisi ( Çocuk Gastro . Hepatoloji ve Beslenme ) |  |  | x |  |
+| 18 | Çocuk Gastroenterolojisi (Çocuk Gastro. Hepatoloji ve Beslenme) |  |  | x |  |
 | 19 | Çocuk Genetik Hastalıkları |  | x |  |  |
 | 20 | Çocuk Göğüs Hastalıkları |  |  | x |  |
 | 21 | Çocuk Hematolojisi ve Onkolojisi (Çocuk Hematolojisi) (Çocuk Onkolojisi) |  |  | x |  |
-| 22 | Çocuk İmmünolojisi ve Alerji Hastalıkları (Çocuk İmmünolojisi) (Çocuk Alerjisi) (Çocuk allerjisi ) |  | x |  |  |
+| 22 | Çocuk İmmünolojisi ve Alerji Hastalıkları (Çocuk İmmünolojisi) (Çocuk Alerjisi) (Çocuk allerjisi) |  | x |  |  |
 | 23 | Çocuk Kalp ve Damar Cerrahisi |  |  |  | x |
 | 24 | Çocuk Kardiyolojisi |  |  | x |  |
 | 25 | Çocuk Metabolizma Hastalıkları (Çocuk endokrinolojisi ve metabolizma hastalıkları) |  | x |  |  |
@@ -115,12 +165,12 @@ Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 | 37 | Endokrinoloji ve Metabolizma Hastalıkları |  | x |  |  |
 | 38 | Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji (Enfeksiyon Hastalıkları) (Bakteriyoloji ve infeksiyon hastalıkları) |  |  | x |  |
 | 39 | Epidemiyoloji | x |  |  |  |
-| 40 | Fiziksel Tıp ve Rehabilitasyon (Fizik tedavi ve rehabilitasyon ) |  | x |  |  |
+| 40 | Fiziksel Tıp ve Rehabilitasyon (Fizik tedavi ve rehabilitasyon) |  | x |  |  |
 | 41 | Fizyoloji | x |  |  |  |
 | 42 | Gastroenteroloji |  |  | x |  |
 | 43 | Gastroenteroloji Cerrahisi |  |  |  | x |
 | 44 | Genel Cerrahi (Genel şirürji) |  |  |  | x |
-| 45 | Geriatri ( Geriyatri ) |  | x |  |  |
+| 45 | Geriatri (Geriyatri) |  | x |  |  |
 | 46 | Göğüs Cerrahisi (Göğüs kalp ve damar şirürjisi) |  |  |  | x |
 | 47 | Göğüs Hastalıkları (Göğüs hastalıkları ve tüberküloz) |  |  | x |  |
 | 48 | Göz Hastalıkları |  |  | x |  |
@@ -128,9 +178,9 @@ Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 | 50 | Harp Cerrahisi |  |  | x |  |
 | 51 | Hava ve Uzay Hekimliği (Hava hekimliği) |  | x |  |  |
 | 52 | Hematoloji |  |  | x |  |
-| 53 | Histoloji ve Embriyoloji (Embriyoloji ve histoloji) (Tıbbi histoloji ve embriyoloji) (Histoloji ve ambriyoloji ) | x |  |  |  |
+| 53 | Histoloji ve Embriyoloji (Embriyoloji ve histoloji) (Tıbbi histoloji ve embriyoloji) (Histoloji ve ambriyoloji) | x |  |  |  |
 | 54 | İç Hastalıkları |  |  | x |  |
-| 55 | İmmünoloji ve Alerji Hastalıkları (İmmünoloji) (Alerjik Göğüs Hastalıkları) (Alerji Hastalıkları) ( Allerjik hastalıklar) |  | x |  |  |
+| 55 | İmmünoloji ve Alerji Hastalıkları (İmmünoloji) (Alerjik Göğüs Hastalıkları) (Alerji Hastalıkları) (Allerjik hastalıklar) |  | x |  |  |
 | 56 | İş ve Meslek Hastalıkları (İşçi sağlığı ve iş güvenliği) |  | x |  |  |
 | 57 | Jinekolojik Onkoloji Cerrahisi |  |  |  | x |
 | 58 | Kadın Hastalıkları ve Doğum |  |  |  | x |
@@ -151,15 +201,15 @@ Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 | 73 | Plastik, Rekonstrüktif ve Estetik Cerrahi |  |  |  | x |
 | 74 | Protetik Diş Tedavisi |  |  | x |  |
 | 75 | Radyasyon Onkolojisi |  | x |  |  |
-| 76 | Radyoloji ( Radyodiyagnostik ) |  |  | x |  |
-| 77 | Romatoloji ( Rumatoloji ) |  | x |  |  |
+| 76 | Radyoloji (Radyodiyagnostik) |  |  | x |  |
+| 77 | Romatoloji (Rumatoloji) |  | x |  |  |
 | 78 | Ruh Sağlığı ve Hastalıkları (Psikiyatri) |  |  | x |  |
 | 79 | Sitopatoloji (Sitoloji) |  | x |  |  |
 | 80 | Spor Hekimliği |  | x |  |  |
 | 81 | Sualtı Hekimliği ve Hiperbarik Tıp (Deniz ve sualtı hekimliği) (Deniz hekimliği) |  | x |  |  |
 | 82 | Temel İmmünoloji (İmmünoloji) | x |  |  |  |
 | 83 | Tıbbi Biyokimya (Biyokimya ve klinik biyokimya) | x |  |  |  |
-| 84 | Tıbbi Ekoloji ve Hidroklimatoloji ( Hidroklimatoloji ) | x |  |  |  |
+| 84 | Tıbbi Ekoloji ve Hidroklimatoloji (Hidroklimatoloji) | x |  |  |  |
 | 85 | Tıbbi Farmakoloji | x |  |  |  |
 | 86 | Tıbbi Genetik |  | x |  |  |
 | 87 | Tıbbi Mikoloji (Mikoloji) | x |  |  |  |
@@ -174,9 +224,7 @@ Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 
 * Uzmanlık öğrencileri (asistanlar) devam ettikleri uzmanlık eğitimleri süresince, eğitimlerini bitirdiklerinde elde edecekleri uzmanlık dalı unvanına göre risk grubuna dahil edileceklerdir. Örneğin Acil Tıp uzmanlık öğrencisi, uzmanlık eğitimine başladığı andan itibaren “risk grubu 4” olarak değerlendirilecektir.
 
-### EK 2
-
-### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI POLİÇESİ
+### EK 2 TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI POLİÇESİ
 
 Sigorta Şirketi Adı, Adresi:
 
@@ -184,13 +232,13 @@ Sözleşme
 
 Aracı Adı, Adresi: Poliçe No: Tanzim Tarihi: Başlama: Bitiş:
 
-Sigorta Ettirenin Adı, Soyadı/ Ünvanı ve Adresi:
+Sigorta Ettirenin Adı, Soyadı/Ünvanı ve Adresi:
 
 T.C. Kimlik/Vergi No:
 
 Adresi:
 
-Sigortalının Adı, Soyadı/ Ünvanı ve Adresi:
+Sigortalının Adı, Soyadı/Ünvanı ve Adresi:
 
 T.C.Kimlik/Vergi No:
 
@@ -206,13 +254,9 @@ Prim İndirim/Artırım Türü ve Oranı:
 
 Prim Ödeme Yeri ve Zamanı:
 
-### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK
+### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI GENEL ŞARTLARI A. SİGORTANIN KAPSAMI
 
-### SİGORTASI GENEL ŞARTLARI
-
-### A. SİGORTANIN KAPSAMI
-
-**A.1. Sigortanın Konusu**
+A.1. Sigortanın Konusu
 
 Bu sigorta sözleşmesi ile 1219 sayılı Kanunun Ek 12 nci maddesi çerçevesinde, serbest ya da kamu veya özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların; poliçede belirtilen mesleki faaliyeti ifa ederken;
 
@@ -224,11 +268,11 @@ c) Bu zarar veya taleple bağlantılı yargılama giderlerine
 
 karşı belirlenen sigorta limitlerine kadar teminat verilir.
 
-**A.2. Sigortanın Coğrafi Sınırı**
+A.2. Sigortanın Coğrafi Sınırı
 
 Bu sigorta, sigortalının Türkiye Cumhuriyeti sınırları içinde ifa ettiği mesleki faaliyetler için geçerlidir.
 
-**A.3. Teminat Dışında Kalan Haller**
+A.3. Teminat Dışında Kalan Haller
 
 Aşağıdaki hâller teminat kapsamı dışındadır:
 
@@ -240,19 +284,19 @@ c) Sigortalı veya çalıştırdığı kişilerin, poliçede belirtilen mesleki 
 
 ç) İdarî ve adlî para cezaları dahil her tür ceza ve cezai şartlar;
 
-**A.4. Sigortanın Başlangıcı ve Sonu**
+A.4. Sigortanın Başlangıcı ve Sonu
 
 Sigorta, poliçede başlama ve sona erme tarihleri olarak yazılan günlerde, aksi kararlaştırılmadıkça, Türkiye saati ile öğlen saat 12.00’de başlar ve öğlen saat 12.00’de sona erer.
 
 ### B. ZARAR VE TAZMİNAT
 
-**B.1. Rizikonun Gerçekleşmesi**
+B.1. Rizikonun Gerçekleşmesi
 
 Sözleşmenin;
 
-- A .1.’in (a) bendinde belirtilen şekilde yapılması hâlinde, sigortalının, sözleşme süresi içinde yürüttüğü mesleki faaliyeti dolayısıyla, gerek sözleşme döneminde gerekse sözleşmenin bitiminden itibaren iki yıl içinde başkalarının zarara uğraması sonucunda,
+- A.1.’in (a) bendinde belirtilen şekilde yapılması hâlinde, sigortalının, sözleşme süresi içinde yürüttüğü mesleki faaliyeti dolayısıyla, gerek sözleşme döneminde gerekse sözleşmenin bitiminden itibaren iki yıl içinde başkalarının zarara uğraması sonucunda,
 
-- A .1.’in (b) bendinde belirtilen şekilde yapılması hâlinde sözleşme yapılmasından önceki bir yıl içinde veya sözleşme yürürlükteyken meydana gelen olaya bağlı olarak;
+- A.1.’in (b) bendinde belirtilen şekilde yapılması hâlinde sözleşme yapılmasından önceki bir yıl içinde veya sözleşme yürürlükteyken meydana gelen olaya bağlı olarak;
 
 a) Sigortacının bilgisi ve yazılı muvafakatı dâhilinde olmak koşuluyla sigortalı tarafından ödeme yapılması veya,
 
@@ -262,7 +306,7 @@ c) Zararın gerçekleştiğinin ve bu zararın sigortalının sorumluluğundan k
 
 riziko gerçekleşmiş olur.
 
-**B.2. Rizikoya İlişkin Olarak Sigorta Ettirenin ve Sigortalının Yükümlülükleri**
+B.2. Rizikoya İlişkin Olarak Sigorta Ettirenin ve Sigortalının Yükümlülükleri
 
 Sigortalı ve sigorta ettiren, aşağıdaki hususları yerine getirmekle yükümlüdür:
 
@@ -278,23 +322,23 @@ d) Zarardan dolayı, dava yolu ile veya başka yollarla bir tazminat talebi kar�
 
 e) Sigorta konusu ile ilgili başka sigorta sözleşmesi varsa bunları sigortacıya bildirmek.
 
-**B.3. Tazminat ve Ödenmesi**
+B.3. Tazminat ve Ödenmesi
 
 Rizikonun gerçekleşmesi hâlinde, özel durumlar hariç olmak üzere, hangi belgelerin istenileceği poliçe ekinde açık ve anlaşılır şekilde yer almak zorundadır. Sigortacı, talep edilen tazminat ve giderleri, hak sahibinin tazminata konu olay ve zarara ilişkin tespit tutanağını veya bilirkişi raporunu ve poliçe ekinde de yer alan diğer gerekli belgeleri eksiksiz olarak şirketin merkez veya kuruluşlarına ilettiği tarihten itibaren on beş iş günü içinde gerekli incelemeleri tamamlayıp sözleşmeye aykırı olmayan zararlara ilişkin tazminatı öder.
 
-**B.4. Halefiyet**
+B.4. Halefiyet
 
 Sigortacı, ödediği tazminat tutarınca, hukuken sigortalının yerine geçer.
 
 ### C. ÇEŞİTLİ HÜKÜMLER
 
-**C.1. Sigorta Priminin Ödenmesi ve Sigortacının Sorumluluğunun Başlaması**
+C.1. Sigorta Priminin Ödenmesi ve Sigortacının Sorumluluğunun Başlaması
 
 Sigortacının sorumluluğu, primin ödenmesi ile başlar. Aksi kararlaştırılmadıkça, primin ödenmemesi hâlinde, poliçe teslim edilmiş olsa dahi sigortacının sorumluluğu başlamaz ve bu şart poliçeye yazılır.
 
 Prim ödemede temerrüde düşülmesi hâlinde Borçlar Kanunu hükümleri uygulanır.
 
-**C.2. Sigortalı ve Sigorta Ettirenin Sözleşme Yapıldığı Sırada Beyan Yükümlülüğü**
+C.2. Sigortalı ve Sigorta Ettirenin Sözleşme Yapıldığı Sırada Beyan Yükümlülüğü
 
 Sigortacı sigorta sözleşmesini, sigorta ettirenin veya bilgisinin olması durumunda sigortalının beyanı ve varsa teklifname ve eklerinde yazılı sorulara verdiği cevaplara dayanarak yapar.
 
@@ -304,7 +348,7 @@ Sigorta ettiren, talep edilen prim farkını kabul ettiğini sekiz gün içinde 
 
 Sigortalı ve sigorta ettirenin kasıtlı davrandığının anlaşılması hâlinde sigortacı, sözleşmeden cayabilir ve gün esasına dayanarak hesap edilen prime hak kazanır.
 
-**C.3. Sözleşmenin Devamı Sırasındaki Beyan Yükümlülüğü**
+C.3. Sözleşmenin Devamı Sırasındaki Beyan Yükümlülüğü
 
 Sözleşmenin devamı sırasında sigortacının izni olmadan rizikoya etki edici nitelikte değişiklik yapılması hâlinde sigorta ettiren veya sigortalı durumu sekiz gün içinde sigortacıya bildirmekle yükümlüdür.
 
@@ -326,7 +370,7 @@ b) Sigortacının fesih ihbarında bulunabileceği süre içinde,
 
 c) Fesih ihbarının hüküm ifade etmesi için geçecek süre içinde, riziko gerçekleşirse, sigortacı, tazminatı tahakkuk ettirilen prim ile tahakkuk ettirilmesi gereken prim arasındaki orana göre öder.
 
-**C.4. Sigorta Ettirenin ve Sigortalının Durumu**
+C.4. Sigorta Ettirenin ve Sigortalının Durumu
 
 Bu genel şartlarda düzenlenen sigorta ettirenin borç ve yükümlülüklerinin sigortalı tarafından veya sigortalıya yüklenen yükümlülüklerin sigorta ettiren tarafından yerine getirilmesi hâllerinde, borç ve yükümlülükler, ifa edilmiş sayılır. Ancak sigortacının sırf bu nedenle durumunun ağırlaştığını ileri sürerek itiraz etme hakkı saklıdır.
 
@@ -340,22 +384,22 @@ Taraflara imza karşılığı elden verilen mektup veya telgrafla yapılan bildi
 
 Güvenli elektronik imza kullanılarak elektronik ortamda yapılan ve sigortacıya, sigortalıya ve sigorta ettirene ulaştığı kanıtlanabilen bildirimler de geçerli sayılır.
 
-**C.6. Mesleki Faaliyete Son Verilmesi**
+C.6. Mesleki Faaliyete Son Verilmesi
 
 Poliçede tanımlanan mesleki faaliyete son verilmesi hâlinde sigorta sözleşmesi sona erer ve işlemeyen günlere ait prim sigorta ettirene iade edilir.
 
-**C.7. Ticari ve Mesleki Sırların Saklı Tutulması**
+C.7. Ticari ve Mesleki Sırların Saklı Tutulması
 
 Sigortacı ve sigortacı adına hareket edenler bu sözleşmenin yapılması dolayısıyla sigortalıya ve sigorta ettirene ilişkin öğreneceği sırların saklı tutulmamasından doğacak zararlardan sorumludur.
 
-**C.8. Yetkili Mahkeme**
+C.8. Yetkili Mahkeme
 
 Sigorta sözleşmesinden doğan anlaşmazlıklar nedeniyle sigortacı aleyhine açılacak davalarda yetkili mahkeme, sigorta şirketinin merkezinin veya sigorta sözleşmesine aracılık yapan acentenin ikametgahının bulunduğu yerdeki, sigortalı veya sigorta ettiren aleyhine açılacak davalarda ise davalının ikametgahının bulunduğu yerdeki mahkemedir.
 
-**C.9. Zaman aşımı**
+C.9. Zaman aşımı
 
 Sigorta sözleşmesinden doğan bütün talepler iki yılda zaman aşımına uğrar.
 
-**C.10. Özel Şartlar**
+C.10. Özel Şartlar
 
 Taraflar, sigorta ettiren ve sigortalının aleyhine olmamak üzere özel şartlar kararlaştırabilir.

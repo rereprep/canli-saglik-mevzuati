@@ -145,7 +145,17 @@ def duzen_tablolarini_ac(sayfa):
     for _ in range(50):
         def ac(m):
             t = m.group(0)
-            hucreler = re.findall(r"(?is)<t[dh][^>]*>(.*?)</t[dh]>", t)
+            # Korunan iç tabloların hücreleri dış tablonun hücresini erken kapatmasın
+            sakla = []
+            ic_korunan = re.compile("(?is)<\x01table(?:(?!<\x01table).)*?</\x01table>")
+            while ic_korunan.search(t):
+                t = ic_korunan.sub(lambda x: sakla.append(x.group(0)) or f"\x02{len(sakla) - 1}\x02", t)
+            def geri(s):
+                while "\x02" in s:
+                    s = re.sub("\x02(\\d+)\x02", lambda x: sakla[int(x.group(1))], s)
+                return s
+            hucreler = [geri(h) for h in re.findall(r"(?is)<t[dh][^>]*>(.*?)</t[dh]>", t)]
+            t = geri(t)
             uzun = any(len(temiz(h)) > 400 for h in hucreler)
             if not (uzun or "\x00" in t):
                 return t.replace("<table", "<\x01table", 1).replace("</table>", "</\x01table>")
