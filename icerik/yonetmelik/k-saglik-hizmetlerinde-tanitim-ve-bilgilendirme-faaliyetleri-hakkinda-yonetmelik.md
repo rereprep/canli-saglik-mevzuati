@@ -2,18 +2,20 @@
 id: "k-saglik-hizmetlerinde-tanitim-ve-bilgilendirme-faaliyetleri-hakkinda-yonetmelik"
 baslik: "Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik"
 tur: "yonetmelik"
-rg_tarih: "2023-07-29"
+tarih: "2025-11-12"
+rg_tarih: "2025-11-12"
 rg_sayi: "33075"
 birim: "Sağlık Bakanlığı"
-konu: "Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik ile ilgili usul ve esaslar."
 etiketler: ["yonetmelik", "saglik mevzuati"]
 kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
 kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42694&MevzuatTur=7&MevzuatTertip=5"
-not: "Önceki RG: RG: 29.07.2023 / 32263"
+not: "Cemil Özcan, Halk Sağlığı (2. baskı), Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
 ---
 
-### SAĞLIK HİZMETLERİNDE TANITIM VE BİLGİLENDİRME FAALİYETLERİ HAKKINDA YÖNETMELİK
+### SAĞLIK HİZMETLERİNDE TANITIM VE BİLGİLENDİRME
+
+### FAALİYETLERİ HAKKINDA YÖNETMELİK
 
 ### BİRİNCİ BÖLÜM
 
@@ -237,4 +239,4 @@ e) Sosyal paylaşım ve internet siteleri üzerinden yapılan sağlıkla ilgili 
 
 **MADDE 15 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için [tıklayınız](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42694&MevzuatTur=7&MevzuatTertip=5)
+Ekleri için tıklayınız

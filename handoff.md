@@ -211,3 +211,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-11: Belge başında iki satıra bölünmüş adlar tek başlıkta birleşiyor (58 sayfa); mobil listede Tür yerine Tarih sütunu görünüyor; metin başlıkları yazı boyutu ayarıyla ölçekleniyor.
 
 - 2026-11-11: Adli Tıp Kurumu Kanunu güncel adıyla (… ile İlgili Bazı Düzenlemeler Hakkında Kanun) listeleniyor; ad değişikliği künyedeki Not alanında (KHK 703/61). Adres aynı.
+
+- 2026-11-11: Özcan 2. baskı Ek V (2025-2026 yönetmelikleri) ile karşılaştırma: 7 yeni yönetmelik mevzuat.gov.tr metniyle eklendi (Kenevir, TÜGETAT Enstitüsü, SGK Klinik Araştırma Ödemeleri, Aromaterapötik Ürünler, Tıbbi Bitki Çayları, Esenlik Hizmetleri, Elektronik Bilgilendirilmiş Rıza); 4 kayıt yeni yönetmelik metniyle değiştirildi (Tanıtım ve Bilgilendirme 2025, Radyasyon Onkolojisi 2025, Disiplin Amirleri 2026, GETAT 2026), eski metinler yedek/eski-surum/ altında. sbg-10481 Fizyoterapi Nizamnamesi tüzük kaydına birleşti (ayni). Yeniden Kurulacak Köyler Talimatnamesi tarihi 1938 (elle-duzeltme). Not: mevzuat.gov.tr araması için SSL_CERT_FILE=/etc/ssl/cert.pem. Site: 1433 kayıt, 1420 tam metin.

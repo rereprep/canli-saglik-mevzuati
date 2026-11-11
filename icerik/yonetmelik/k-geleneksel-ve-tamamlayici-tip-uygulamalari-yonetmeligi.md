@@ -2,14 +2,14 @@
 id: "k-geleneksel-ve-tamamlayici-tip-uygulamalari-yonetmeligi"
 baslik: "Geleneksel ve Tamamlayıcı Tıp Uygulamaları Yönetmeliği"
 tur: "yonetmelik"
-tarih: "2014-10-27"
-rg_tarih: "2014-10-27"
-rg_sayi: "29158"
+tarih: "2026-04-28"
+rg_tarih: "2026-04-28"
+rg_sayi: "33237"
 birim: "Sağlık Bakanlığı"
-konu: "Akupunktur, hacamat, sülük, mezoterapi gibi tamamlayıcı tıp uygulamaları ve merkezleri."
 etiketler: ["getat", "akupunktur", "tamamlayici tip", "uygulama merkezi"]
 kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
 kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=45117&MevzuatTur=7&MevzuatTertip=5"
+not: "Cemil Özcan, Halk Sağlığı (2. baskı), Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
 ---
 
@@ -17,7 +17,7 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-**Başlangıç Hükümleri**
+Başlangıç Hükümleri
 
 #### Amaç
 
@@ -65,7 +65,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Bilim Komisyonunun Kuruluşu, Görevleri ve Çalışma Usulü**
+Bilim Komisyonunun Kuruluşu, Görevleri ve Çalışma Usulü
 
 #### Bilim Komisyonunun kuruluşu
 
@@ -109,7 +109,7 @@ d) 9/3/2019 tarihli ve 30709 sayılı Resmî Gazete’de yayımlanan Geleneksel 
 
 ### ÜÇÜNCÜ BÖLÜM
 
-**Uygulama Alanları, Uygulama Yerleri, Uygulamaya Yetkililer ve Eğitim**
+Uygulama Alanları, Uygulama Yerleri, Uygulamaya Yetkililer ve Eğitim
 
 #### Uygulama alanları
 
@@ -143,7 +143,7 @@ d) 9/3/2019 tarihli ve 30709 sayılı Resmî Gazete’de yayımlanan Geleneksel 
 
 ### DÖRDÜNCÜ BÖLÜM
 
-**Çalışma Usul ve Esasları ve Ücretlendirme**
+Çalışma Usul ve Esasları ve Ücretlendirme
 
 #### Uygulama merkezi ve uygulama ünitelerinin çalışma usul ve esasları
 
@@ -181,7 +181,7 @@ d) 9/3/2019 tarihli ve 30709 sayılı Resmî Gazete’de yayımlanan Geleneksel 
 
 ### BEŞİNCİ BÖLÜM
 
-**Uygulama Merkezi ve Uygulama Ünitelerinin Asgari Şartları**
+Uygulama Merkezi ve Uygulama Ünitelerinin Asgari Şartları
 
 #### Fiziki şartlar
 
@@ -197,7 +197,7 @@ d) 9/3/2019 tarihli ve 30709 sayılı Resmî Gazete’de yayımlanan Geleneksel 
 
 ### ALTINCI BÖLÜM
 
-**Denetimler, İdari Müeyyideler ve Yasaklar**
+Denetimler, İdari Müeyyideler ve Yasaklar
 
 #### Denetimler ve idari müeyyideler
 
@@ -221,7 +221,7 @@ d) 9/3/2019 tarihli ve 30709 sayılı Resmî Gazete’de yayımlanan Geleneksel 
 
 ### YEDİNCİ BÖLÜM
 
-**Çeşitli ve Son Hükümler**
+Çeşitli ve Son Hükümler
 
 #### Tanıtım ve bilgilendirme
 
@@ -245,4 +245,4 @@ d) 9/3/2019 tarihli ve 30709 sayılı Resmî Gazete’de yayımlanan Geleneksel 
 
 **MADDE 21 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-**Ekleri için tıklayınız**
+Ekleri için tıklayınız
