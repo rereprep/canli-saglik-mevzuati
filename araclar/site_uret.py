@@ -1066,9 +1066,9 @@ RG_TURLERI = {"kanun", "khk", "cbk", "yonetmelik", "teblig", "tuzuk", "bkk"}
 
 def tablo(belgeler, kok):
     # Resmî Gazete sütunu yalnız Resmî Gazete'de yayımlanan türlerin listelerinde görünür (tarih / sayı);
-    # tüzük listelerinde Sayı sütunu gösterilmez
+    # tüzük ve yönetmelik listelerinde Sayı sütunu gösterilmez
     rg_sutun = any(b["tur"] in RG_TURLERI and b.get("rg_tarih") for b in belgeler)
-    sayi_sutun = not belgeler or any(b["tur"] != "tuzuk" for b in belgeler)
+    sayi_sutun = not belgeler or any(b["tur"] not in ("tuzuk", "yonetmelik") for b in belgeler)
     satirlar = []
     for b in belgeler:
         isaret = "" if b["tam_metin"] else ' <span class="rozet">künye</span>'

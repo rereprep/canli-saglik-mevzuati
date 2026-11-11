@@ -193,3 +193,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-11: Liste tablolarında RG sütunu yeniden tarih / sayı gösteriyor; tüzük listesinde Sayı sütunu yok.
 
 - 2026-11-11: hsgm-444 4207 İzleme Formu PDFden tablo olarak yeniden yazıldı. md tablolarında "^^" hücresi üstteki hücreyle birleşir (rowspan); hücre içinde <br> destekleniyor.
+
+- 2026-11-11: Yönetmelik listesinde de Sayı sütunu kaldırıldı.
