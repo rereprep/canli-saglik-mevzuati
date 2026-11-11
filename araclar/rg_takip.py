@@ -23,6 +23,12 @@ ANAHTAR = re.compile(
     r"diş hekim|ağız ve diş|biyosidal|tütün|organ ve doku|organ nakli|kan ve kan ürün|tıbbi laboratuvar|ambulans|"
     r"hıfzıssıhha|gıda|beslenme|engelli|radyasyon|uyuşturucu|bağımlılık|genel sağlık sigortası|tıbbi cihaz|klinik|"
     r"veteriner|zehir|psikolog|fizyoterap|diyetisyen|optisyen|odyolog", re.I)
+# Türk Gıda Kodeksi ürün standartları (peynir, bal, yoğurt vb.) sağlıkla ilgili sayılmaz;
+# yalnız sağlığı doğrudan ilgilendiren kodeks düzenlemeleri alınır.
+KODEKS = re.compile(r"gıda kodeksi", re.I)
+KODEKS_SAGLIK = re.compile(
+    r"takviye|bebek|çocuk|özel tıbbi|tıbbi amaçlı|beslenme|katkı|bulaşan|mikrobiyolojik|kalıntı|"
+    r"etiketleme|hijyen|temas eden|alerjen|aroma|enzim|zenginleştir|diyet|sağlık beyan|besin öğesi", re.I)
 ILAN = re.compile(r"ilan|ilân|ilanlar", re.I)
 
 BOLUM_TUR = [
@@ -129,6 +135,8 @@ def gun_tara(gun, mevcut):
         # Yalnızca başlığa bakılır; gövdede geçen "sağlık" sözcüğü ilgisiz düzenlemeleri de yakalıyordu
         if not ANAHTAR.search(oge["metin"]):
             continue
+        if KODEKS.search(oge["metin"]) and not KODEKS_SAGLIK.search(oge["metin"]):
+            continue
         karar = {"tur": tur, "baslik": re.sub(r"^[–\-–\s]+", "", oge["metin"]), "birim": "", "konu": "", "etiketler": []}
         kayit = {
             "id": "rg-" + g + "-" + sade_id(karar.get("baslik") or oge["metin"]),
@@ -183,7 +191,8 @@ def main():
     bitis = dt.date.fromisoformat(a.tarih) if a.tarih else dt.date.today()
     katalog = json.loads(TAKIP.read_text(encoding="utf-8")) if TAKIP.exists() else []
     mevcut = {k.get("kaynak_url") for k in katalog}
-    for md in (KOK / "icerik").glob("*/rg-*.md"):
+    # Siteden çıkarılıp yedek/ altına alınan kayıtlar yeniden önerilmez
+    for md in [*(KOK / "icerik").glob("*/rg-*.md"), *(KOK / "yedek").rglob("rg-*.md")]:
         m = re.search(r'^kaynak_url: "(.*)"$', md.read_text(encoding="utf-8"), re.M)
         if m:
             mevcut.add(m.group(1))
