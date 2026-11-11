@@ -2,6 +2,8 @@
 id: "hsgm-1029-saglikli-hayat-merkezleri-hakkinda-yonerge"
 baslik: "Sağlıklı Hayat Merkezleri Hakkında Yönerge"
 tur: "yonerge"
+tarih: "2026-03-13"
+sayi: "E-11045126-010.04-308272123"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Yonergeler/shm_hakkinda_yonerge.pdf"

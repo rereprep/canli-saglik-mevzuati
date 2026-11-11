@@ -187,3 +187,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-11: Kullanıcı isteğiyle Peynir Tebliği 2026/24 geri eklendi (ac9fba6 hali) ve rg_takip.py Gıda Kodeksi süzgeci kaldırıldı; yalnız yedek/ altındaki kayıtları yeniden önermeme kuralı kaldı. Site: 1433 kayıt.
 
 - 2026-11-11: Tek hücreli tabloya sıkışmış 4 metin (Bebek Formülleri ve Devam Formülleri Tebliği 2019/14 [künye düzeltildi], Bağlı Kuruluşlar Hizmet Birimleri Yönetmeliği, Kordon Kanı Bankacılığı Yönetmeliği, Tıbbi Kötü Uygulama Sigortası Tebliği) kaynaktan yeniden aktarıldı. mevzuat_gov_aktar.duzen_tablolarini_ac iç içe tablo hatası düzeltildi. Liste tablolarında RG sütunu yalnız RG türlerinde (kanun, khk, cbk, yönetmelik, tebliğ, tüzük, bkk) ve yalnız tarihle gösteriliyor.
+
+- 2026-11-11: hsgm-1029 SHM Yönergesi künyesine PDF e-imza barkodundan tarih 13.03.2026 ve sayı E-11045126-010.04-308272123 eklendi.
