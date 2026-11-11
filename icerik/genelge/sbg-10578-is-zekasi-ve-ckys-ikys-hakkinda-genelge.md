@@ -1,4 +1,5 @@
 ---
+tarih: "2007"
 tur: "genelge"
 id: "sbg-10578-is-zekasi-ve-ckys-ikys-hakkinda-genelge"
 baslik: "İş-Zekası ve CKYS/IKYS Hakkında Genelge"

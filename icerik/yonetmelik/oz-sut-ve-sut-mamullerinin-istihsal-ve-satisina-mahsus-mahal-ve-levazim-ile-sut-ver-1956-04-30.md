@@ -1,6 +1,6 @@
 ---
 id: "oz-sut-ve-sut-mamullerinin-istihsal-ve-satisina-mahsus-mahal-ve-levazim-ile-sut-ver-1956-04-30"
-baslik: "Süt ve Süt Mamullerinin istihsal ve Satışına Mahsus Mahal ve Levazım ile Süt Veren Hayvanların Yaşadıkları ve dağıldıkları Yerlerin Sıhhi Şartlarının Tesbitine Dair Yönetmelik"
+baslik: "Süt ve Süt Mamullerinin İstihsal ve Satışına Mahsus Mahal ve Levazım ile Süt Veren Hayvanların Yaşadıkları ve Dağıldıkları Yerlerin Sıhhi Şartlarının Tesbitine Dair Yönetmelik"
 tur: "yonetmelik"
 rg_tarih: "1956-04-30"
 rg_sayi: "9297"

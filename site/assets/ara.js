@@ -52,6 +52,25 @@
     },250);});
   }
 
+  // Sayfa başına dön düğmesi
+  var yk=document.getElementById("yukari");
+  if(yk){var ykGor=function(){yk.hidden=window.scrollY<600;};window.addEventListener("scroll",ykGor,{passive:true});ykGor();
+    yk.addEventListener("click",function(){window.scrollTo({top:0,behavior:"smooth"});});}
+
+  // Yazı boyutu (tercih tarayıcıda saklanır)
+  var yb=document.getElementById("yazi-buyut"), yc=document.getElementById("yazi-kucult"), mt=document.getElementById("metin");
+  if(yb&&yc&&mt){var olcek=1;try{olcek=parseFloat(localStorage.getItem("csm-yazi"))||1;}catch(x){}
+    var olcekUygula=function(){olcek=Math.min(1.6,Math.max(0.8,olcek));mt.style.setProperty("--yazi-olcek",olcek);try{localStorage.setItem("csm-yazi",olcek);}catch(x){}};
+    olcekUygula();yb.addEventListener("click",function(){olcek+=0.1;olcekUygula();});yc.addEventListener("click",function(){olcek-=0.1;olcekUygula();});}
+
+  // Madde numarasına git
+  var mg=document.getElementById("madde-git");
+  if(mg){var git=function(){var h=document.getElementById("madde-"+parseInt(mg.value,10));
+      if(!h){mg.setCustomValidity("Bu numarada madde bulunamadı");mg.reportValidity();return;}
+      mg.setCustomValidity("");h.scrollIntoView({block:"start",behavior:"smooth"});h.classList.add("madde-vurgu");setTimeout(function(){h.classList.remove("madde-vurgu");},1800);};
+    mg.addEventListener("change",git);mg.addEventListener("input",function(){mg.setCustomValidity("");});
+    mg.addEventListener("keydown",function(ev){if(ev.key==="Enter"){ev.preventDefault();git();}});}
+
   var form=document.getElementById("arama-formu");
   if(!form)return;
   var dizin=null, metinler={}, parcaSay=null, yuklenen=0, metinSoz=null, metinHata=false, calismaNo=0, aktifGoster=null;

@@ -1,6 +1,6 @@
 ---
 id: "hsgm-1159-tuberkuloz-referans-hastanelerinde-kullanilan-ikinci-secenek-antituber"
-baslik: "Tüberküloz Referans Hastanelerinde Kullanılan İkinci Seçenek AntiTüberküloz İlaçların İkmali"
+baslik: "Tüberküloz Referans Hastanelerinde Kullanılan İkinci Seçenek Antitüberküloz İlaçların İkmali"
 tur: "yazi"
 tarih: "2026-02-12"
 sayi: "E-60949272-139.03.99-304933760"

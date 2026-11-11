@@ -1,6 +1,6 @@
 ---
 id: "oz-cenaze-nakline-mahsus-beynelmilel-itilafnameye-iltihakimiz-hakkinda-kanun-1939-02-07"
-baslik: "Cenaze Nakline Mahsus Beynelmilel Itilafnameye Iltihakimiz Hakkında Kanun"
+baslik: "Cenaze Nakline Mahsus Beynelmilel İtilafnameye İltihakımız Hakkında Kanun"
 tur: "kanun"
 sayi: "3584"
 rg_tarih: "1939-02-07"

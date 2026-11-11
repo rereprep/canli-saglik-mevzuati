@@ -1,6 +1,6 @@
 ---
 id: "hsgm-949-kizamik-kizamikcik-ve-konjenital-kizamikcik-sendromu-surveyansi-ortak"
-baslik: "Kızamık, Kızamıkçık ve Konjenital Kızamıkçık Sendromu sürveyansı Ortak E-posta Hesabı Hk."
+baslik: "Kızamık, Kızamıkçık ve Konjenital Kızamıkçık Sendromu Sürveyansı Ortak E-posta Hesabı Hk."
 tur: "yazi"
 tarih: "2025-12-11"
 sayi: "E-21001706-131.10.02-297703366"

@@ -84,7 +84,7 @@ table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 .ithaf-buyuk{font-size:1.1rem;border-left:4px solid var(--kirmizi);padding:10px 16px;background:var(--vurgu);border-radius:6px}
 .kucuk{font-size:.85rem;color:var(--soluk)}
 @media (max-width:700px){.menu a{margin:0 14px 0 0}.ana-ara{flex-direction:column}table.liste th:nth-child(n+3),table.liste td:nth-child(n+3){display:none}table.kunye th{width:38%}table.kunye td,table.kunye th{padding:6px 8px;word-break:normal;overflow-wrap:anywhere}}
-@media print{.ust,.alt,.indir,.metin-ara,.yol,.etiketler{display:none}main{box-shadow:none}}
+@media print{.ust,.alt,.indir,.metin-ara,.yol,.etiketler,.yukari,.atla{display:none}main{box-shadow:none}}
 
 
 /* Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik (md. 11-20) ölçüleri; 1 satır = --satir */
@@ -98,3 +98,16 @@ table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 .metin .kunye .dg{min-width:0}
 .metin .kunye-duz{display:block}
 .metin h2 + h3{margin-top:0}
+
+.atla{position:absolute;left:-9999px;top:0;background:#fff;color:var(--lacivert);padding:8px 14px;border-radius:0 0 6px 0;z-index:20}
+.atla:focus{left:0}
+.yukari{position:fixed;right:18px;bottom:18px;width:44px;height:44px;border-radius:50%;border:0;background:var(--lacivert);color:#fff;font-size:1.3rem;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.25);z-index:15}
+.yukari:hover{background:#0c2744}
+.yukari[hidden]{display:none}
+.madde-git{display:inline-flex;gap:6px;align-items:center;font-size:.92rem;color:#444;white-space:nowrap}
+.metin-ara .madde-git input{flex:none;width:76px;max-width:76px;padding:8px 8px}
+.yazi-boyu{display:inline-flex;gap:4px;margin-left:auto}
+.yazi-boyu button{padding:6px 10px;border:1px solid var(--cizgi);border-radius:6px;background:#fff;font:inherit;font-weight:600;cursor:pointer;color:var(--lacivert)}
+.yazi-boyu button:hover{background:var(--vurgu)}
+.metin{font-size:calc(1.07rem * var(--yazi-olcek,1))}
+.madde-vurgu{background:#fff6cc;transition:background 1.5s}

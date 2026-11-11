@@ -2,7 +2,7 @@
 tur: "genelge"
 sayi: "2006/123"
 id: "sbg-10951-sspe-hastaliginda-inosine-pranobex-etken-maddeli-ilacin-temini-2006-12"
-baslik: "SSPE Hastalığında“ Inosine Pranobex” Etken Maddeli İlacın Temini (2006/123)"
+baslik: "SSPE Hastalığında “Inosine Pranobex” Etken Maddeli İlacın Temini (2006/123)"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-10951/sspe-hastaliginda-inosine-pranobex-etken-maddeli-ilacin-temini-2006123.html"

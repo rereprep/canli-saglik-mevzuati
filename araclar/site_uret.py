@@ -12,11 +12,13 @@ from pathlib import Path
 KOK = Path(__file__).resolve().parent.parent
 CIKTI = KOK / "_site"
 import hashlib as _hl
+import urllib.parse as _ub
 STIL_SURUM = _hl.md5((KOK / "site" / "assets" / "stil.css").read_bytes()).hexdigest()[:8]
 ARA_SURUM = _hl.md5((KOK / "site" / "assets" / "ara.js").read_bytes()).hexdigest()[:8]
 import time as _time
 SITE_SURUM = str(int(_time.time()))
 SITE_ADI = "Canlı Sağlık Mevzuatı"
+SITE_URL = "https://rereprep.github.io/canli-saglik-mevzuati/"
 
 TUR_ADLARI = {
     "kanun": "Kanunlar ve Kanun Hükmünde Kararnameler",
@@ -402,6 +404,11 @@ def ad_temizle(b):
     """Görünen addan sondaki tarih/sayı eklerini siler; tarih ve sayı künye tablosunda ayrıca gösterilir.
     (Kayıt eşleştirmesi ham adla yapıldığı için bu yalnız gösterimde uygulanır.)"""
     ilk = t = b.get("baslik", "")
+    # Yazım düzeltmeleri (her türde): yapışık parantez, sondaki nokta ve "Hk." kısaltması, çift boşluk
+    t = re.sub(r"(?<=[^\s(])\((?=\S)", " (", t)
+    t = re.sub(r"\s+[Hh]k\.?\s*$", "", t)
+    t = re.sub(r"(?<![.A-ZÇĞİÖŞÜ])\.\s*$", "", t)
+    t = re.sub(r"\s{2,}", " ", t).strip()
     if b.get("tur") == "genelge":
         return t
     onceki = None
@@ -1016,6 +1023,13 @@ def duz_bloklar(govde):
                 ss = _sayi_satiri(s)
                 yield ("p-sayi", ss) if ss else ("p-" + hz, _duz(s))
             continue
+        satirlar = [s.strip() for s in blok.split("\n")]
+        if all(s.startswith("|") for s in satirlar):
+            hucreler = [[re.sub(r"\s*<br>\s*", " ", _MD_BAG.sub(r"\1", h.strip())) for h in s.strip("|").split("|")]
+                        for s in satirlar if not re.fullmatch(r"\|[\s:|-]+\|?", s)]
+            if hucreler:
+                yield ("tablo", hucreler)
+            continue
         if blok == "---":
             yield ("hr", "")
         elif blok.startswith("**Dipnotlar**"):
@@ -1058,18 +1072,26 @@ def kunye(b):
 
 
 # ---------------------------------------------------------------- şablon
-def sayfa(baslik, icerik, kok="", aciklama=""):
+def sayfa(baslik, icerik, kok="", aciklama="", yol=None):
+    aciklama = aciklama or "Sağlık mevzuatı: kanun, yönetmelik, yönerge, genelge ve Sağlık Bakanlığı yazışmaları"
+    ust_bilgi = ""
+    if yol is not None:
+        adres = SITE_URL + yol
+        ust_bilgi = (f'\n<link rel="canonical" href="{e(adres)}">\n<meta property="og:type" content="article">\n'
+                     f'<meta property="og:site_name" content="{SITE_ADI}">\n<meta property="og:title" content="{e(baslik)}">\n'
+                     f'<meta property="og:description" content="{e(aciklama)}">\n<meta property="og:url" content="{e(adres)}">\n<meta property="og:locale" content="tr_TR">')
     return f"""<!doctype html>
 <html lang="tr">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(baslik)} | {SITE_ADI}</title>
-<meta name="description" content="{e(aciklama or 'Sağlık mevzuatı: kanun, yönetmelik, yönerge, genelge ve Sağlık Bakanlığı yazışmaları')}">
+<meta name="description" content="{e(aciklama)}">{ust_bilgi}
 <link rel="stylesheet" href="{kok}assets/stil.css?v={STIL_SURUM}">
 <link rel="icon" href="{kok}assets/simge.svg" type="image/svg+xml">
 </head>
 <body>
+<a class="atla" href="#icerik">İçeriğe geç</a>
 <header class="ust">
   <div class="kap ust-ic">
     <a class="logo" href="{kok}index.html"><img src="{kok}assets/simge.svg" alt="" width="40" height="40"><span><strong>Canlı Sağlık Mevzuatı</strong><small>Sağlık mevzuatı bilgi sistemi</small></span></a>
@@ -1080,9 +1102,10 @@ def sayfa(baslik, icerik, kok="", aciklama=""):
     </nav>
   </div>
 </header>
-<main class="kap">
+<main class="kap" id="icerik">
 {icerik}
 </main>
+<button type="button" id="yukari" class="yukari" aria-label="Sayfa başına dön" title="Sayfa başına dön" hidden>↑</button>
 <footer class="alt">
   <div class="kap">
     <p><strong>{SITE_ADI}</strong> — sağlıkla ilgili kanun, yönetmelik, yönerge, genelge ve Sağlık Bakanlığı yazışmalarını tek yerde toplar.</p>
@@ -1118,7 +1141,7 @@ def belge_sayfasi(b):
     if b.get("degisiklikler"):
         lis = "".join(f"<li>{e(tarih_tr(d.get('rg_tarih')))} {('RG ' + e(d.get('rg_sayi'))) if d.get('rg_sayi') else ''} {e(d.get('aciklama'))}</li>" for d in b["degisiklikler"])
         k += f"<tr><th>Değişiklikler</th><td><ul>{lis}</ul></td></tr>"
-    etiket = "".join(f'<a class="etiket" href="{kok}ara.html?q={e(t)}">{e(t)}</a>' for t in b.get("etiketler", []))
+    etiket = "".join(f'<a class="etiket" href="{kok}ara.html?q={e(_ub.quote(t))}">{e(t)}</a>' for t in b.get("etiketler", []))
     if b["tam_metin"]:
         indir = f"""<div class="indir">
   <a class="dugme word" href="{e(b['id'])}.docx" download>Word olarak indir</a>
@@ -1126,7 +1149,12 @@ def belge_sayfasi(b):
   <button class="dugme yazdir" onclick="window.print()">Yazdır</button>
 </div>"""
         govde = f'<article class="metin" id="metin">{md_html(b["govde"])}</article>'
-        ara = '<div class="metin-ara"><input type="search" id="metinde-ara" placeholder="Metin içinde ara…" aria-label="Metin içinde ara"><span id="metinde-sonuc"></span></div>'
+        madde_git = ('<label class="madde-git">Madde <input type="number" id="madde-git" min="1" placeholder="no" aria-label="Madde numarasına git"></label>'
+                     if len(re.findall(r'id="madde-\d+"', govde)) >= 5 else "")
+        ara = ('<div class="metin-ara"><input type="search" id="metinde-ara" placeholder="Metin içinde ara…" aria-label="Metin içinde ara">'
+               f'<span id="metinde-sonuc"></span>{madde_git}'
+               '<span class="yazi-boyu" role="group" aria-label="Yazı boyutu"><button type="button" id="yazi-kucult" title="Yazıyı küçült" aria-label="Yazıyı küçült">A−</button>'
+               '<button type="button" id="yazi-buyut" title="Yazıyı büyüt" aria-label="Yazıyı büyüt">A+</button></span></div>')
     else:
         indir = ""
         if b.get("kaynak_url"):
@@ -1140,7 +1168,22 @@ def belge_sayfasi(b):
 <div class="etiketler">{etiket}</div>
 {ara}
 {govde}"""
-    return sayfa(b["baslik"], icerik, kok, b.get("konu", ""))
+    return sayfa(b["baslik"], icerik, kok, belge_aciklamasi(b), yol=f"mevzuat/{b['tur']}/{b['id']}.html")
+
+
+def belge_aciklamasi(b):
+    """Arama motorları ve paylaşım önizlemeleri için kısa açıklama."""
+    if b.get("konu"):
+        return b["konu"][:300]
+    parca = [TUR_TEKIL[b["tur"]]]
+    if b.get("sayi"):
+        parca.append(f"Sayı: {b['sayi']}")
+    if b.get("tarih"):
+        parca.append(f"Tarih: {tarih_tr(b['tarih'])}")
+    if b.get("rg_tarih"):
+        parca.append(f"Resmî Gazete: {tarih_tr(b['rg_tarih'])}" + (f"/{b['rg_sayi']}" if b.get("rg_sayi") else ""))
+    son = "Tam metin, Word ve PDF." if b.get("tam_metin") else "Künye ve resmî kaynak bağlantısı."
+    return f"{b['baslik']} — {' · '.join(parca)}. {son}"[:300]
 
 
 def sirala_anahtar(b):
@@ -1293,6 +1336,24 @@ def word_uret(b, hedef):
             word_ekle(p, metin[0] + " ", koyu_hep=True)
             word_ekle(p, metin[1])
             p.paragraph_format.first_line_indent = Pt(28)
+        elif tip == "tablo":
+            n = max(len(r) for r in metin)
+            tb = d.add_table(rows=len(metin), cols=n)
+            tb.style = "Table Grid"
+            for i, satir in enumerate(metin):
+                for j in range(n):
+                    h = satir[j] if j < len(satir) else ""
+                    if h == "^^" and i > 0:   # üstteki hücreyle birleşik
+                        try:
+                            tb.cell(i - 1, j).merge(tb.cell(i, j))
+                        except Exception:
+                            pass
+                        continue
+                    hp = tb.cell(i, j).paragraphs[0]
+                    word_ekle(hp, "" if h == "^^" else h, koyu_hep=(i == 0))
+                    for r in hp.runs:
+                        r.font.size = Pt(8.5 if n <= 5 else 7)
+            d.add_paragraph()
         elif tip == "dipnot":
             p = d.add_paragraph()
             r = p.add_run(metin)
@@ -1412,6 +1473,33 @@ def pdf_uret(b, hedef):
             akis.append(Paragraph(x(metin), alt))
         elif tip == "madde":
             akis.append(Paragraph(f"<b>{pdf_bicim(metin[0])}</b> {pdf_bicim(metin[1])}", govde))
+        elif tip == "tablo":
+            n = max(len(r) for r in metin)
+            hst = ParagraphStyle("th", parent=kucuk, fontSize=8.5 if n <= 5 else 6.5, leading=10.5 if n <= 5 else 8)
+            veri, birlesim = [], []
+            for i, satir in enumerate(metin):
+                sira = []
+                for j in range(n):
+                    h = satir[j] if j < len(satir) else ""
+                    if h == "^^":
+                        k = i - 1
+                        while k > 0 and (j < len(metin[k]) and metin[k][j] == "^^"):
+                            k -= 1
+                        birlesim.append(("SPAN", (j, k), (j, i)))
+                        h = ""
+                    sira.append(Paragraph(("<b>%s</b>" % pdf_bicim(h)) if i == 0 else pdf_bicim(h), hst))
+                veri.append(sira)
+            # sütun genişlikleri içerik uzunluğuna göre (en az 1,2 cm)
+            uzunluk = [max(8, max(min(len(r[j]) if j < len(r) else 0, 60) for r in metin)) for j in range(n)]
+            toplam = sum(uzunluk)
+            gen = [max(1.2 * cm, 16.5 * cm * u / toplam) for u in uzunluk]
+            olcek = 16.5 * cm / sum(gen)
+            tb = Table(veri, colWidths=[g * olcek for g in gen], repeatRows=1 if len(veri) > 1 else 0, splitByRow=1)
+            tb.setStyle(TableStyle([("GRID", (0, 0), (-1, -1), 0.4, colors.HexColor("#999999")),
+                                    ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#eef2f7")),
+                                    ("VALIGN", (0, 0), (-1, -1), "TOP"),
+                                    ("LEFTPADDING", (0, 0), (-1, -1), 3), ("RIGHTPADDING", (0, 0), (-1, -1), 3)] + birlesim))
+            akis += [tb, Spacer(1, 6)]
         elif tip == "dipnot":
             akis.append(Paragraph(x(metin), dip))
         elif tip == "p-sayi":
@@ -1500,6 +1588,21 @@ def main():
     (CIKTI / "index.html").write_text(ana_sayfa(belgeler), encoding="utf-8")
     (CIKTI / "ara.html").write_text(ara_sayfasi(), encoding="utf-8")
     (CIKTI / "hakkinda.html").write_text(hakkinda_sayfasi(belgeler), encoding="utf-8")
+    # 404 sayfası, site haritası ve robots.txt
+    kok404 = "/" + SITE_URL.rstrip("/").split("/")[-1] + "/"
+    (CIKTI / "404.html").write_text(sayfa("Sayfa bulunamadı", f"""<h1>Sayfa bulunamadı</h1>
+<p>Aradığınız sayfa taşınmış ya da kaldırılmış olabilir. Mevzuatı adına, sayısına ya da içeriğine göre arayabilirsiniz.</p>
+<form class="ana-ara" action="{kok404}ara.html" method="get"><input type="search" name="q" placeholder="Mevzuat adı, sayısı veya konu…" aria-label="Mevzuat ara"><button type="submit">Ara</button></form>
+<p><a href="{kok404}index.html">Ana sayfaya dön</a></p>""", kok404), encoding="utf-8")
+    adresler = ["", "ara.html", "hakkinda.html"] + [f"tur/{t}.html" for t in TUR_ADLARI if t not in GRUP and any(grup(b["tur"]) == t for b in belgeler.values())]
+    satirlar = [f"<url><loc>{e(SITE_URL + u)}</loc></url>" for u in adresler]
+    for b in belgeler.values():
+        son = b.get("son_degisiklik") or b.get("tarih") or b.get("rg_tarih") or ""
+        son = f"<lastmod>{son}</lastmod>" if re.fullmatch(r"\d{4}-\d{2}-\d{2}", son) else ""
+        satirlar.append(f"<url><loc>{e(SITE_URL)}mevzuat/{b['tur']}/{e(_ub.quote(b['id']))}.html</loc>{son}</url>")
+    (CIKTI / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+                                       + "\n".join(satirlar) + "\n</urlset>\n", encoding="utf-8")
+    (CIKTI / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}sitemap.xml\n", encoding="utf-8")
     for t in TUR_ADLARI:
         if t in GRUP:  # eski liste adresi birleşik listeye yönlensin
             hedef = f"{GRUP[t]}.html"

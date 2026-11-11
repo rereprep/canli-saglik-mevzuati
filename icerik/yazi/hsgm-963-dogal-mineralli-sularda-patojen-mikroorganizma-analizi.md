@@ -1,6 +1,7 @@
 ---
 id: "hsgm-963-dogal-mineralli-sularda-patojen-mikroorganizma-analizi"
 baslik: "Doğal Mineralli Sularda Patojen Mikroorganizma Analizi"
+tarih: "2015"
 tur: "yazi"
 birim: "Halk Sağlığı Referans Laboratuvarları Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
