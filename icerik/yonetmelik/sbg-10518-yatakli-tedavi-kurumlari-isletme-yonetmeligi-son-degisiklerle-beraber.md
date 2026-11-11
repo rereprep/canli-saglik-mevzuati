@@ -1,6 +1,6 @@
 ---
 id: "sbg-10518-yatakli-tedavi-kurumlari-isletme-yonetmeligi-son-degisiklerle-beraber"
-baslik: "Yataklı Tedavi Kurumları İşletme Yönetmeliği (Son Değişiklerle Beraber)"
+baslik: "Yataklı Tedavi Kurumları İşletme Yönetmeliği"
 tur: "yonetmelik"
 rg_tarih: "1983-01-13"
 rg_sayi: "17927 (Mükerrer)"

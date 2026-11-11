@@ -203,3 +203,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-11: ara.js son değişiklik sıralama hatası düzeltildi (karsilastir içinde tur değişkeni ilk karşılaştırmada değiştiriliyordu).
 
 - 2026-11-11: Son Değişiklik sütunu tebliğlere de uygulandı; son_degisiklik_bul metindeki "Yayımlandığı Resmî Gazete" tablolarını da tarıyor (35 tebliğden 9u değişmiş).
+
+- 2026-11-11: Yataklı Tedavi Kurumları İşletme Yönetmeliği adından "(Son Değişiklerle Beraber)" silindi (adres aynı).
