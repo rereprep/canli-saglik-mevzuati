@@ -1050,19 +1050,23 @@ RG_TURLERI = {"kanun", "khk", "cbk", "yonetmelik", "teblig", "tuzuk", "bkk"}
 
 
 def tablo(belgeler, kok):
-    # Resmî Gazete sütunu yalnız Resmî Gazete'de yayımlanan türlerin listelerinde görünür; yalnız tarih yazılır
+    # Resmî Gazete sütunu yalnız Resmî Gazete'de yayımlanan türlerin listelerinde görünür (tarih / sayı);
+    # tüzük listelerinde Sayı sütunu gösterilmez
     rg_sutun = any(b["tur"] in RG_TURLERI and b.get("rg_tarih") for b in belgeler)
+    sayi_sutun = not belgeler or any(b["tur"] != "tuzuk" for b in belgeler)
     satirlar = []
     for b in belgeler:
         isaret = "" if b["tam_metin"] else ' <span class="rozet">künye</span>'
         siralama_tarihi = b.get("tarih") or b.get("rg_tarih") or ""
-        rg = f'<td>{e(tarih_tr(b.get("rg_tarih")))}</td>' if rg_sutun else ""
+        rg_metin = " / ".join(x for x in [tarih_tr(b.get("rg_tarih")), b.get("rg_sayi")] if x)
+        rg = f"<td>{e(rg_metin)}</td>" if rg_sutun else ""
+        sayi = f'<td>{e(b.get("sayi"))}</td>' if sayi_sutun else ""
         satirlar.append(
             f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}">'
             f'<td><a href="{kok}mevzuat/{b["tur"]}/{e(b["id"])}.html">{e(b["baslik"])}</a>{isaret}</td>'
-            f'<td>{e(TUR_TEKIL[b["tur"]])}</td><td>{e(tarih_tr(b.get("tarih")))}</td><td>{e(b.get("sayi"))}</td>{rg}</tr>')
-    rg_bas = "<th>Resmî Gazete</th>" if rg_sutun else ""
-    return (f'<table class="liste"><thead><tr><th>Mevzuat Adı</th><th>Tür</th><th>Tarih</th><th>Sayı</th>{rg_bas}</tr></thead><tbody>'
+            f'<td>{e(TUR_TEKIL[b["tur"]])}</td><td>{e(tarih_tr(b.get("tarih")))}</td>{sayi}{rg}</tr>')
+    bas = "<th>Mevzuat Adı</th><th>Tür</th><th>Tarih</th>" + ("<th>Sayı</th>" if sayi_sutun else "") + ("<th>Resmî Gazete</th>" if rg_sutun else "")
+    return (f'<table class="liste"><thead><tr>{bas}</tr></thead><tbody>'
             + "".join(satirlar) + "</tbody></table>")
 
 
