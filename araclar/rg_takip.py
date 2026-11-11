@@ -23,8 +23,6 @@ ANAHTAR = re.compile(
     r"diş hekim|ağız ve diş|biyosidal|tütün|organ ve doku|organ nakli|kan ve kan ürün|tıbbi laboratuvar|ambulans|"
     r"hıfzıssıhha|gıda|beslenme|engelli|radyasyon|uyuşturucu|bağımlılık|genel sağlık sigortası|tıbbi cihaz|klinik|"
     r"veteriner|zehir|psikolog|fizyoterap|diyetisyen|optisyen|odyolog", re.I)
-# Türk Gıda Kodeksi düzenlemeleri siteye alınmaz (site sahibinin kararı).
-KODEKS = re.compile(r"gıda kodeks", re.I)
 ILAN = re.compile(r"ilan|ilân|ilanlar", re.I)
 
 BOLUM_TUR = [
@@ -130,8 +128,6 @@ def gun_tara(gun, mevcut):
                 metin = ""
         # Yalnızca başlığa bakılır; gövdede geçen "sağlık" sözcüğü ilgisiz düzenlemeleri de yakalıyordu
         if not ANAHTAR.search(oge["metin"]):
-            continue
-        if KODEKS.search(oge["metin"]):
             continue
         karar = {"tur": tur, "baslik": re.sub(r"^[–\-–\s]+", "", oge["metin"]), "birim": "", "konu": "", "etiketler": []}
         kayit = {
