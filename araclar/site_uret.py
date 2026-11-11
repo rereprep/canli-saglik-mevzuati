@@ -159,11 +159,11 @@ def belgeleri_oku():
     return sonuc
 
 
-SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "tuzuk", "yonetmelik"}
+SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "tuzuk", "yonetmelik", "teblig"}
 
 
 def son_degisiklik_bul(b):
-    """Kanun/KHK/CBK/BKK/tüzük/yönetmelik için son değişikliğin tarihi: sayfa sonundaki değişiklik listesindeki
+    """Kanun/KHK/CBK/BKK/tüzük/yönetmelik/tebliğ için son değişikliğin tarihi: sayfa sonundaki değişiklik listesindeki
     ve metindeki (Değişik/Ek/Mülga: … RG-g/a/yyyy) notlarındaki en yeni tarih; değişiklik yoksa mevzuatın tarihi."""
     if b.get("tur") not in SD_TURLERI:
         return
@@ -175,6 +175,12 @@ def son_degisiklik_bul(b):
     if i >= 0:
         for g, a, y in re.findall(r"(?<![\d/.])(\d{1,2})[./](\d{1,2})[./](\d{4})(?![\d/.])", govde[i:]):
             tarihler.append(f"{y}-{int(a):02d}-{int(g):02d}")
+    # Metindeki "... Yayımlandığı Resmî Gazete" tablosu (özellikle tebliğlerde) da taranır
+    for m in re.finditer(r"Yayımlandığı\s+Resm[iî]\s+Gazete", govde):
+        for ln in govde[m.start():].split("\n")[:60]:
+            if ln.strip().startswith("|"):
+                for g, a, y in re.findall(r"(?<![\d/.])(\d{1,2})[./](\d{1,2})[./](\d{4})(?![\d/.])", ln):
+                    tarihler.append(f"{y}-{int(a):02d}-{int(g):02d}")
     for n in _NOT.finditer(govde):
         if re.search(r"Değişik|Ek|Mülga|İptal|Yürürlükten|Kaldırıl", n[1]):
             tarihler.append(f"{n[5]}-{int(n[4]):02d}-{int(n[3]):02d}")

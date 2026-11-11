@@ -201,3 +201,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-11: Çift kayıt hsgm-1190 (SHM UHDS yazısı) silindi; aynı metin hsgm-1211 olarak duruyor (başlık yazının Konu satırıyla aynı).
 
 - 2026-11-11: ara.js son değişiklik sıralama hatası düzeltildi (karsilastir içinde tur değişkeni ilk karşılaştırmada değiştiriliyordu).
+
+- 2026-11-11: Son Değişiklik sütunu tebliğlere de uygulandı; son_degisiklik_bul metindeki "Yayımlandığı Resmî Gazete" tablolarını da tarıyor (35 tebliğden 9u değişmiş).
