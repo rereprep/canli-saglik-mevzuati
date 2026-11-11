@@ -179,3 +179,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-11: 5179 sayılı Kanun durumu "yürürlükten kaldırıldı" yapıldı; konu alanına 5996 sayılı Kanun md. 47/1 (RG 13.06.2010/27610, yürürlük 13.12.2010) notu eklendi (TBMM kanun metninden doğrulandı: kanunun tamamı kaldırılmış).
 
 - 2026-11-11: Türk Gıda Kodeksi Peynir Tebliği 2026/24 sağlık dışı sayılarak yedek/saglik-disi/teblig/ altına taşındı. rg_takip.py: yedek/ altındaki rg-*.md kaynakları yeniden önerilmiyor; Türk Gıda Kodeksi ürün standartları (takviye, bebek, katkı, bulaşan, etiketleme vb. sağlık anahtarı yoksa) atlanıyor. Site: 1432 kayıt, 1420 tam metin.
+
+- 2026-11-11: Kullanıcı isteğiyle Peynir Tebliği yedekten de silindi (yedek/saglik-disi kaldırıldı). Yeniden eklenmesini rg_takip.py içindeki Gıda Kodeksi ürün standardı süzgeci engelliyor.
