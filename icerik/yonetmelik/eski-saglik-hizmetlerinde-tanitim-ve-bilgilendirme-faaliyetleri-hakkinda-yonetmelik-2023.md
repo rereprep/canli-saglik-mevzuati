@@ -6,15 +6,18 @@ rg_tarih: "2023-07-29"
 rg_sayi: "32263"
 birim: "Sağlık Bakanlığı"
 etiketler: ["yonetmelik", "saglik mevzuati"]
-kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
-kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42694&MevzuatTur=7&MevzuatTertip=5"
-not: "Önceki RG: RG: 29.07.2023 / 32263"
+kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiştir)"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/07/20230729-29.htm"
 konu: "12/11/2025 tarihli ve 33075 sayılı Resmî Gazete’de yayımlanan aynı adlı Yönetmeliğin 13 üncü maddesiyle yürürlükten kaldırılmıştır."
 durum: "yürürlükten kaldırıldı"
 kaldiran: "k-saglik-hizmetlerinde-tanitim-ve-bilgilendirme-faaliyetleri-hakkinda-yonetmelik"
 ---
 
-### SAĞLIK HİZMETLERİNDE TANITIM VE BİLGİLENDİRME FAALİYETLERİ HAKKINDA YÖNETMELİK
+Sağlık Bakanlığından:
+
+### SAĞLIK HİZMETLERİNDE TANITIM VE BİLGİLENDİRME
+
+### FAALİYETLERİ HAKKINDA YÖNETMELİK
 
 ### BİRİNCİ BÖLÜM
 
@@ -26,13 +29,13 @@ Başlangıç Hükümleri
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönetmelik; sağlık meslek mensupları, özel sağlık kuruluşları ve uluslararası sağlık turizmi aracı kuruluşlarınca yapılan tanıtım ve bilgilendirme faaliyetlerini kapsar.
+**MADDE 2 –** (1) Bu Yönetmelik; sağlık meslek mensuplarını, sağlık hizmeti sunan gerçek ve özel hukuk tüzel kişilerine ait olup ilgili mevzuatı uyarınca Sağlık Bakanlığı tarafından verilen izin, uygunluk belgesi veya ruhsat ile faaliyet gösteren tüm sağlık kurum, kuruluş, müesseseleri ve uluslararası sağlık turizmi aracı kuruluşları tarafından yapılan tanıtım ve bilgilendirme faaliyetleri ile sağlık hizmet sunumu alanında yetkisi, izni ya da ruhsatı bulunmayan kişi, kurum ve kuruluşlar tarafından yapılan tanıtım ve bilgilendirme faaliyetlerini kapsar.
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik; 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanuna, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (c) bendi ile ek 11 inci ve ek 19 uncu maddelerine ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (e) bendine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik; 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanuna, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (c) bendi ile ek 11 inci maddesine ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (e) bendine ve 508 inci maddesine dayanılarak hazırlanmıştır.
 
-#### Tanımlar ve kısaltmalar
+#### Tanımlar
 
 **MADDE 4 –** (1) Bu Yönetmelikte geçen;
 
@@ -44,81 +47,77 @@ c) Komisyon: Sağlıkta Tanıtım ve Bilgilendirme Faaliyetleri İl Değerlendir
 
 ç) Müdürlük: İl sağlık müdürlüğünü,
 
-d) Reklam: Sağlık alanındaki özel sağlık tesisleri, sağlık hizmet sunumu veya tıp meslekleri ile bağlantılı olarak; bir ürünü, hizmeti, kişi, kurum veya kuruluşu ön plana çıkaran ve tanıtım ve bilgilendirmenin sınırını aşan her türlü faaliyeti,
+d) Reklam: Sağlık alanındaki özel sağlık tesisleri, sağlık hizmet sunumu veya tıp meslekleri ile bağlantılı olarak; bir ürün veya hizmete talep yaratmak veya talebi artırmak ve kişileri ikna etmek amacıyla herhangi bir mecrada yazılı, görsel, işitsel ve benzeri yollarla gerçekleştirilen ticari amaçlı pazarlama iletişimi niteliğindeki duyuruları,
 
-e) Sağlığı koruyucu ve geliştirici nitelikteki bilgiler: Kişilerin kendi sağlıkları üzerindeki kontrollerini artırmalarını ve sağlıklarını geliştirmelerini destekleyen yazılı veya görsel içerikli tanıtım ve bilgilendirme faaliyetlerini,
+e) Sağlık meslek mensubu: Hekim, diş hekimi, eczacı, hemşire, ebe ve optisyen ile 1219 sayılı Kanunun ek 13 üncü maddesinde tanımlanan diğer meslek mensuplarını,
 
-f) Sağlık meslek mensubu: Hekim, diş hekimi, eczacı, hemşire, ebe ve optisyen ile 1219 sayılı Kanunun ek 13 üncü maddesinde tanımlanan diğer meslek mensuplarını,
+f) Sağlık tesisi: Sağlık hizmeti sunulan, gerçek kişiler ile özel hukuk tüzel kişilerine ait tüm sağlık kurum, kuruluş ve müesseselerini,
 
-g) Sağlık tesisi: Özel sağlık kuruluşlarını,
-
-ğ) Tanıtım ve bilgilendirme faaliyetleri;
-
-1) Sağlık tesisleri için; adres ve iletişim bilgileri, çalışma gün ve saatleri, hasta kabul edilen uzmanlık dalları, çalıştırılan sağlık meslek mensuplarının mesleki ve akademik ünvanları ve hizmet verilen sağlık alanıyla ilgili sağlığı koruyucu ve geliştirici nitelikteki bilgileri,
-
-2) Sağlık meslek mensupları için; ana dal ve yan dal uzmanlıkları, akademik ünvanları, hasta kabul ettikleri zaman ve mahal bilgisi ve hizmet verilen sağlık alanıyla ilgili sağlığı koruyucu ve geliştirici nitelikteki bilgileri,
+g) Tanıtım ve bilgilendirme faaliyetleri: Özel sağlık tesisleri için hasta kabul ve tedavi edilen uzmanlık dalları, adres ve iletişim bilgileri ile hizmet verilen sağlık alanıyla ilgili sağlığı koruyucu ve geliştirici nitelikteki bilgileri, hekimler için ise mesleki ve akademik unvanı ile 1219 sayılı Kanunda belirlenen ana dal ve yan dal uzmanlıklarını, muayene gün ve saatlerini, hasta kabul ettiği zaman ve mahal bilgisini ve sunmaya yetkili oldukları sağlık hizmetiyle ilgili sağlığı koruyucu ve geliştirici nitelikteki bilgileri içeren; yanıltıcı ve aldatıcı olmayan, insan sağlığını tehlikeye düşürmeyen, talep ve haksız rekabet ortamı yaratmayan ve reklam tanımı kapsamına girmeyen faaliyetlerini,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Tanıtım ve Bilgilendirme Faaliyetleri
+Tanıtım ve Bilgilendirmede Temel İlkeler, Mahremiyete Saygı ve Bilgilerin
 
-#### Tanıtım ve bilgilendirmede temel ilkeler
+Gizli Tutulması, Görsel İçeriklerin Kullanılması
+
+#### Sağlık alanında tanıtım ve bilgilendirmede temel ilkeler
 
 **MADDE 5 –** (1) Sağlık hizmet sunumunda örtülü veya açık reklam yapılması ve yaptırılması yasaktır. Aşağıdaki ilke ve esaslara uyulması kaydıyla tanıtım ve bilgilendirme yapılabilir:
 
 a) Tanıtım ve bilgilendirmelerde, genel ahlaka, tıbbi deontoloji ve meslek etiği kurallarına uyulması zorunludur.
 
-b) Sağlık hizmet sunumu ile ilgili bilgilendirmeler, sadece konusunda yetkili sağlık meslek mensupları tarafından yapılabilir.
+b) Sağlık hizmet sunumu ile ilgili bilgilendirmeler, sadece konusunda hukuken yetkili sağlık meslek mensupları tarafından yapılabilir.
 
-c) Sağlık tesislerinin hasta tedavi ettiği uzmanlık dallarından başka hastaları kabul ve tedavi ettiği intibaını uyandıracak şekilde halkı yanıltan, yanlış yönlendiren ve diğer kuruluşlar aleyhine kendi hizmetlerini ön plana çıkaran tanıtım ve bilgilendirme yapılamaz.
+c) Sağlık tesislerinin hasta tedavi ettiği uzmanlık dallarından başka hastaları kabul ve tedavi ettiği intibaını uyandıracak şekilde halkı yanıltan, yanlış yönlendiren, kişi ve toplum sağlığını tehlikeye düşüren, talep ve haksız rekabet ortamı yaratan tanıtım ve bilgilendirme yapılamaz.
 
-ç) Tanıtım ve bilgilendirmelerde; sağlık meslek mensubu tarafından yapılsa dahi, doğruluğu bilimsel ve klinik olarak kanıtlanmamış, yerleşik tıbbi metot haline gelmemiş veya Bakanlıkça tıbbi işlem olarak tanımlanıp düzenlenmemiş tıbbi ve tedavi yöntemleri hakkında açıklamalara yer verilemez, bu yöntemlerle hastalıkların tedavi edildiği veya tedaviye yardımcı olunduğuna dair ifadeler kullanılamaz.
+ç) Tanıtım ve bilgilendirmelerde; sağlık meslek mensubu tarafından yapılsa dahi, doğruluğu bilimsel ve klinik olarak kanıtlanmamış, yerleşik tıbbi metot haline gelmemiş, Bakanlıkça tıbbi işlem olarak tanımlanıp düzenlenmemiş tıbbi ve tedavi yöntemleri hakkında açıklamalara yer verilemez, bu yöntemlerle hastalıkların tedavi edildiği veya tedaviye yardımcı olunduğuna dair ifadeler kullanılamaz.
 
-d) 1219 sayılı Kanun ile belirlenen ana dal ve yan dal uzmanlıkları dışında, herhangi bir ad altında sertifika ve benzeri eğitim belgelerine dayalı uzmanlık ünvanı yazılamaz ve kullanılamaz. Bakanlıkça tescil edilmiş diplomasında yazılı uzmanlık alanında olmak kaydıyla, aldığı eğitimlere, Bakanlıkça tescili yapılmış sertifikalara, bilimsel yayınlarına, düzenlediği toplantılara, akademik ödüllerine, idari ve danışmanlık görevlerine, yerli ve yabancı uzmanlık dernek ve kuruluş üyeliklerine ait kişisel bilgilere yer verilebilir.
+d) Tanıtım ve bilgilendirmeler; sağlık tesisleri için hasta kabul ve tedavi edilen uzmanlık dalları, adres ve iletişim bilgileri ile hizmet verilen sağlık alanıyla ilgili sağlığı koruyucu ve geliştirici nitelikteki bilgiler, hekim ve diş hekimleri için ise 1219 sayılı Kanun ile belirlenen ana dal ve yan dal uzmanlıkları, akademik unvan, muayene gün ve saatleri, hasta kabul ettiği zaman ve mahal bilgisi ve hizmet verilen sağlık alanıyla ilgili sağlığı koruyucu ve geliştirici nitelikteki bilgiler ile sınırlıdır.
 
-e) Yazılı, görsel, işitsel basın ve yayın organları, sosyal medya platformları, internet siteleri gibi mecralarda hasta veya yakınlarının sağlık hizmetine yönelik teşekkür veya memnuniyet ifadeleri üzerinden reklam mahiyetinde paylaşım yapılamaz.
+e) Tanıtım ve bilgilendirmelerde; 1219 sayılı Kanunda yer alan ana dal ve yan dal uzmanlığı dışında uzmanlık unvanı yazılamaz ve kullanılamaz.
 
-f) Tanıtım ve bilgilendirmeler, hastayı sağlık meslek mensubuna veya sağlık kuruluşuna doğrudan veya dolaylı biçimde yönlendirecek içerikte olamaz.
+f) Hastaların sağlık hizmetine yönelik teşekkür ilanında bulunduğuna dair izlenim oluşturacak faaliyetlerde bulunulamaz.
 
-g) Tıbbi yardım hizmetleri, genel sağlık kontrolü (check-up), sağlık taraması, danışmanlık, bilgilendirme gibi sebeplerle yayın ve iletişim kanalları vasıtasıyla belirli bir sağlık meslek mensubuna ve sağlık tesisine yönlendirme yapılamaz.
+g) Tanıtım ve bilgilendirmeler, hastayı sağlık meslek mensubuna veya sağlık kuruluşuna doğrudan veya dolaylı biçimde yönlendirecek içerikte olamaz.
 
-ğ) Bilimsel terimler, araştırma sonuçları veya bilimsel yayınlardan yapılan alıntı ve istatistiki veriler gerçekte olduklarından farklı sonuçlar doğuracak biçimde sunulamaz.
+ğ) Tıbbi yardım hizmetleri, genel sağlık kontrolü (check-up), sağlık taraması, danışmanlık, bilgilendirme gibi sebeplerle aracı kuruluş, yayın ve iletişim kanalları vasıtasıyla belirli bir sağlık meslek mensubuna ve sağlık kuruluşuna yönlendirme yapılamaz.
 
-h) Sağlık meslek mensubu veya sağlık tesisi tarafından, sağlık hizmetine konu olan cihaz, ürün veya hizmetin diğerlerinden farklı ya da daha üstün olduğu algısı oluşturacak biçimde insanların güvenini kötüye kullanan ya da bilgi eksikliğini istismar eden tanıtım ve bilgilendirme yapılamaz, örtülü veya açık olarak firma, ürün veya marka tanıtımı yapılamaz, internet bağlantısı verilemez.
+h) Bilimsel terimler, araştırma sonuçları veya bilimsel yayınlardan yapılan alıntı ve istatistiki veriler gerçekte olduklarından farklı sonuçlar doğuracak biçimde sunulamaz.
 
-ı) İnternet sitelerindeki bilgilendirmenin son güncelleme tarihi ile internet sitesi editörüne ulaşılabilecek iletişim bilgileri açıkça belirtilir.
+ı) Sağlık hizmetine konu olan mal veya hizmetin diğerlerinden farklı ya da daha üstün olduğu algısı oluşturacak biçimde insanların güvenini kötüye kullanan ya da bilgi eksikliğini istismar eden tanıtım ve bilgilendirme yapılamaz.
 
-i) Sağlık tesisleri ve sağlık meslek mensupları, ücretli sponsorlu ve öne çıkmaya yönelik olmamak şartıyla sosyal medya platformları veya internet arama motorlarında kayıt yaptırabilir. Arama motorlarında kullanılacak anahtar kelimeler ve çıkan sonuç sayfasındaki bilgiler bu Yönetmelikteki ilkelere aykırı olamaz.
+i) İnternet sitelerindeki bilgilendirmenin son güncelleme tarihi ile internet sitesi editörüne ulaşılabilecek iletişim bilgileri açıkça belirtilir.
 
-j) Sağlık tesisleri, açılış tarihini takip eden ilk bir ay süresince tüm platformlarda bu Yönetmelik hükümlerine uygun olmak kaydıyla sponsorlu tanıtım ve bilgilendirme yapabilir. Bakanlıkça tıbben kabul edilen yeni tıp teknolojisi ve tıbbi yöntemlere ilişkin tanıtım ve bilgilendirmelere de bu bent kapsamında izin verilebilir.
+j) İnternet arama motorlarına sağlık tesisleri ve hekimler tarafından kayıt yaptırılabilir. Ancak, kullanılacak anahtar kelimeler ve arama motorlarında çıkan sonuç sayfasında yer alan tüm bilgiler bu Yönetmelikteki ilkelere aykırı olamaz.
 
-k) Kişilerin bilgi ve rızaları olmaksızın kişisel telefonları aranamaz, mektup, kısa ileti, elektronik posta ve sosyal paylaşım araçları vasıtasıyla ileti gönderilerek tanıtım ve bilgilendirme yapılamaz.
+k) Kişilerin bilgi ve rızaları olmaksızın kişisel telefonları aranamaz, mektup, kısa ileti, elektronik posta ve sosyal paylaşım araçları vasıtasıyla ileti gönderilerek reklam ve tanıtım yapılamaz.
 
-l) Sağlık hizmetleri; özendirme, çekiliş ve hediye gibi pazarlama faaliyetlerine konu edilemez ve bu nitelikte tanıtım ve bilgilendirme yapılamaz.
-
-m) Tanıtım ve bilgilendirme faaliyetlerinde ücret, indirim, kampanya veya promosyon bilgilerine yer verilemez.
+l) Sağlık hizmetleri; özendirme, çekiliş ve hediye gibi pazarlama amaçlı sunulamaz ve bu amaca yönelik reklam, tanıtım ve bilgilendirme yapılamaz.
 
 (2) Sosyal paylaşım ve internet sitelerinde yapılan tanıtım ve bilgilendirmelerde bu Yönetmelikte öngörülen ilkelere uyulması zorunludur. Bu ilkelere aykırı olarak tanıtım ve bilgilendirme faaliyetlerinde bulunanlar ile paylaşanlar aynı derecede sorumludur.
 
-(3) Sağlık hizmetlerine yönelik sosyal sorumluluk projeleri ve kampanyalar ancak Bakanlık izni ile ve 1 sayılı Cumhurbaşkanlığı Kararnamesinin 382 nci maddesi hükümlerine göre yürütülür. Tanıtım ve bilgilendirmeler; sosyal sorumluluk projesinin kapsamı, süresi ve sadece projeden faydalanacak kişi veya kuruluşlar ile sınırlıdır.
+(3) Sağlık hizmetlerine yönelik olarak yürütülecek sosyal sorumluluk projeleri ve kampanyalar kapsamında yapılacak tanıtım ve bilgilendirme faaliyetleri öncesinde Bakanlıktan izin alınması zorunludur. Tanıtım ve bilgilendirmeler; sosyal sorumluluk projesinin kapsamı, süresi ve sadece projeden faydalanacak kişi veya kuruluşlar ile sınırlıdır.
 
-(4) Bilimsel, istatistiki ve haber niteliğindeki bilgi dağıtımı halleri ayrık olmak üzere, organ ve doku alınması ve verilmesine ilişkin her türlü reklam, tanıtım ve benzeri etkinlikler yasaktır.
+(4) Uluslararası sağlık turizmi kapsamındaki tanıtım ve bilgilendirme faaliyetleri 13/7/2017 tarihli ve 30123 sayılı Resmî Gazete’de yayımlanan Uluslararası Sağlık Turizmi ve Turistin Sağlığı Hakkında Yönetmelik hükümlerine uygun olarak yürütülür.
 
-#### Mahremiyete saygı
+(5) Bilimsel, istatistiki ve haber niteliğindeki bilgi dağıtımı halleri ayrık olmak üzere, organ ve doku alınması ve verilmesine ilişkin her türlü reklam, tanıtım ve benzeri etkinlikler yasaktır.
+
+#### Mahremiyete saygı ve bilgilerin gizli tutulması
 
 **MADDE 6 –** (1) Tanıtım ve bilgilendirme faaliyetlerinde, hasta hakları ihlâlleri ile bunlara bağlı ortaya çıkan sorunların önlenmesi ve gerektiğinde hukukî korunma yollarının fiilen kullanılabilmesi için 1/8/1998 tarihli ve 23420 sayılı Resmî Gazete’de yayımlanan Hasta Hakları Yönetmeliği hükümlerine uyulması zorunludur.
 
-(2) Tanıtım ve bilgilendirme faaliyetleri 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununa, 3359 sayılı Kanunun ek 19 uncu maddesine ve 21/6/2019 tarihli ve 30808 sayılı Resmî Gazete’de yayımlanan Kişisel Sağlık Verileri Hakkında Yönetmelik hükümlerine uygun şekilde yürütülür.
+(2) Tanıtım ve bilgilendirme faaliyetleri 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununa ve 21/6/2019 tarihli ve 30808 sayılı Resmî Gazete’de yayımlanan Kişisel Sağlık Verileri Hakkında Yönetmelik hükümlerine uygun şekilde yürütülür.
 
 #### Tanıtım ve bilgilendirmelerde görsel içerik kullanımı
 
-**MADDE 7 –** (1) Sağlık meslek mensupları ve sağlık tesisleri, sağlığı koruyucu ve geliştirici nitelikteki görsel içerikleri aşağıdaki ilke ve esaslara uygun olarak tanıtım ve bilgilendirmelerinde kullanabilir:
+**MADDE 7 –** (1) Sağlık meslek mensupları ve sağlık tesislerinin, sundukları sağlık hizmetleri ile ilgili yapacakları tanıtım ve bilgilendirmelerinde; tedavinin etkilerini kıyaslayıcı ve talep oluşturan nitelikte öncesi ve/veya sonrası görsellerin bulunması yasaktır. Aşağıdaki ilke ve esaslara uyulması şartıyla görsel içerik kullanılabilir:
 
-a) Paylaşılacak görsel içeriklerde; sağlık tesisi veya sağlık meslek mensubunu tanıtım ve bilgilendirme sınırını aşacak şekilde ön plana çıkaran ve yanıltıcı, gerçeğe ve genel ahlak kurallarına aykırı, kamu sağlığı ile esenliğine tehdit oluşturan, kişi hak ve hürriyetini zedeleyen, hastanın özel ya da sosyal yaşamını istismar edici, toplumu endişeye sevk edici biçimde görüntü ve ifadelere yer verilemez.
+a) Paylaşılacak görsel içeriklerde; genel ahlak kurallarına aykırı, kamu sağlığı ile esenliğine tehdit oluşturan, kişi hak ve hürriyetlerini zedeleyen, hastanın özel ya da sosyal yaşamını istismar edici, toplumu endişeye sevk edici veya yanıltıcı biçimde görüntü ve ifadelere yer verilemez.
 
-b) Hastaya ait görsel içeriklerin kullanılabilmesi için hastanın kendisinin, küçük veya mahcur ise veli veya vasisinin açık rızasının alınması ve Hasta Hakları Yönetmeliğine uyulması şarttır. Açık rıza, Ek-1’de yer alan Görsel İçerik Kaydetme ve İşleme Onam Formu kullanılarak yazılı veya elektronik ortamda alınabilir.
+b) Hastaya ait görsel içeriklerin kullanılabilmesi için hastanın kendisinin, küçük veya mahcur ise veli veya vasisinin açık rızasının alınması ve Hasta Hakları Yönetmeliğine uyulması şarttır. Açık rıza alınırken EK-1 de yer alan Görsel İçerik Kaydetme ve İşleme Onam Formu kullanılır.
 
 c) Hasta, paylaşılacak görsel içeriği önceden görme hakkına sahiptir. Görsel paylaşım izni, hastanın kendisinin, küçük veya mahcur ise veli veya vasisinin isteği üzerine herhangi bir usul ve şarta bağlanmaksızın her zaman geri çekilebilir. Hastanın geri çekme talebini sağlık tesisi veya ilgili sağlık meslek mensubu derhal işleme almak ve sonuçlandırmakla yükümlüdür.
 
@@ -126,116 +125,88 @@ c) Hasta, paylaşılacak görsel içeriği önceden görme hakkına sahiptir. G�
 
 d) Görsel içeriklerinin kullanılabilmesi için alınan izin karşılığında hastaya herhangi bir ödeme ya da indirim yapılamaz, hediye verilemez.
 
-e) Tanıtım ve bilgilendirmede kullanılacak video ve fotoğraflara ait ortamların, kullanılan tekniklerin gerçeğine aykırı olmaması, yanıltıcı makyaj olmaksızın görüntülenmesi zorunludur. Görsel içerikler üzerinde sonradan teknolojik değişiklik veya düzeltme uygulanamaz.
+e) Tanıtım ve bilgilendirmede kullanılacak video ve fotoğraflara ait ortamların, kullanılan tekniklerin gerçeğine aykırı olmaması, yanıltıcı makyaj olmaksızın görüntülenmesi zorunludur. Görsel içerikler üzerinde sonradan teknolojik değişiklik veya düzeltme uygulanamaz. Görsel içeriklerde işlem tarihi ve görselin görüntülendiği tarihin belirtilmesi zorunludur.
 
-f) Tıbbi işlem öncesi ve sonrası görsellerin aynı ortam ve teknik şartlarda görüntülenmesi ve görsel içeriklerde işlem tarihi ve görselin görüntülendiği tarihlerin belirtilmesi zorunludur.
+f) Başka mecralarda yapılmış olsa dahi görsel içeriklere ilişkin yapılan hasta yorumları veya teşekkür ilanı anlamına gelecek ifadeler paylaşılamaz. Görsel içeriklere ait paylaşımların tamamen yoruma kapatılması zorunludur.
 
-g) Paylaşılan görsellerin ilgili sağlık meslek mensubuna ve gerçek hastaya ait veya alıntı olup olmadığının, alıntı ise kaynağının belirtilmesi zorunludur.
+g) Ameliyat veya tıbbi girişim esnasında ve ameliyathanede hasta görüntüsü paylaşılamaz.
 
-ğ) Başka mecralarda yapılmış olsa dahi yazılı veya görsel basın ve yayın organları, sosyal medya platformları, internet siteleri gibi mecralarda hasta veya yakınlarının sağlık hizmetine yönelik teşekkür veya memnuniyet ifadeleri üzerinden reklam mahiyetinde görsel paylaşım yapılamaz. Görsel içeriklere ait paylaşımların yorum, beğeni ve yeniden paylaşım gibi kullanıcı etkileşimlerine kapatılması zorunludur.
+ğ) Genel ahlak kurallarına aykırılık teşkil edecek şekilde vücudun mahrem bölgelerine ait görsel içerikler paylaşılamaz.
 
-h) Tıbbi müdahale ve girişim veya ameliyat esnasındaki hasta görüntüsü paylaşılamaz.
+h) Görsel içerikli paylaşımlar, sağlık tesisi veya ilgili sağlık meslek mensubunun kendisi tarafından yapılmak zorundadır. Bu paylaşımların başkaları tarafından yapılmış olması ilgili sağlık tesisi veya sağlık meslek mensubunun sorumluluğunu ortadan kaldırmaz.
 
-ı) Genel ahlak kurallarına aykırılık teşkil edecek şekilde vücudun mahrem bölgelerine ait görsel içerikler paylaşılamaz. Yapılan işlemin detayları ve işlem yapılan vücut bölgesi ile ilgisi olmayan hiçbir görüntü ve ifade görsele dahil edilemez.
+ı) Paylaşılan görsel içerikler; yazılı, görsel basın, sosyal medya platformları, internet siteleri gibi mecralarda sponsorlu olarak ya da ücret verilerek yayınlatılamaz.
 
-i) Görsel içerikli paylaşımlar, sağlık tesisi veya ilgili sağlık meslek mensubunun kendisi tarafından yapılmak zorundadır. Bu paylaşımların başkaları tarafından yapılmış olması ilgili sağlık tesisi veya sağlık meslek mensubunun sorumluluğunu ortadan kaldırmaz.
-
-j) Paylaşılan görsel içerikler; yazılı, görsel basın, sosyal medya platformları, internet siteleri gibi mecralarda sponsorlu olarak ya da ücret verilerek yayınlatılamaz.
-
-k) Yurt içi tanıtım ve bilgilendirme faaliyetlerinde kullanılan görsel içeriklerde uyarı ve bilgilendirme amaçlı ve kolay okunabilir görünürlükteki "Her cerrahi veya girişimsel işlemde sonuçlar kişiden kişiye değişiklik gösterebilir. İşlem öncesinde hekiminizden detaylı görüş almanız önerilir." ifadesine yer verilmesi zorunludur.
-
-#### Uluslararası sağlık turizmi tanıtım ve bilgilendirme faaliyetleri
-
-**MADDE 8 –** (1) 26/4/2025 tarihli ve 32882 sayılı Resmî Gazete’de yayımlanan Uluslararası Sağlık Turizmi ve Turistin Sağlığı Hakkında Yönetmelik uyarınca Bakanlıkça verilen yetki belgesi kapsamında uluslararası sağlık hizmeti sunan sağlık tesisleri ile aracı kuruluşlar tarafından aşağıdaki ilke ve esaslara uymak kaydıyla tanıtım ve bilgilendirme faaliyetlerinde bulunulabilir:
-
-a) Uluslararası sağlık turizmi alanında tanıtım ve bilgilendirme faaliyetlerinin yurt dışına yönelik ayrı bir sosyal medya platformu veya internet sitesi üzerinden yürütülmesi ve bu platformlarda sağlık turizmi kapsamında hizmet sunulduğunun açıkça beyan edilmesi kaydıyla, Türkçe hariç diğer resmî dillerde sponsorlu tanıtım ve bilgilendirme faaliyeti yapılabilir.
-
-b) Sağlık turizmi yetki belgesinin, uluslararası sağlık turizmi hizmeti sunan sağlık tesisine veya aracı kuruluşa ait internet sitesinde veya sosyal medya platformunda yayınlanması zorunludur.
-
-c) Türkiye’de yaşayan kişiler nezdinde talep oluşturmaya yönelik tanıtım ve bilgilendirme faaliyeti gösterilmesi yasaktır. Sosyal medya platformlarında hedef kitle olarak yurt içi seçilemez ve otomatik hedef kitle tanımlamalarının devre dışı bırakılması zorunludur.
-
-ç) Uluslararası sağlık turizmi hizmeti sunan sağlık tesisi; yurt dışına yönelik oluşturulan internet sitesi veya sosyal medya platformunda, hasta mahremiyeti, genel ahlak kuralları ve hasta haklarına riayet etmek ve hastanın açık rızasının alındığını belgelendirmek şartıyla; tedavi gören hastaların hikâyelerine, hasta yorumlarına veya teşekkür mahiyetindeki ifadelere yer verebilir.
-
-d) Uluslararası sağlık turizmi hizmeti sunan sağlık tesisi, yurt dışına yönelik oluşturulan internet sitesi veya sosyal medya platformunda hedef kitlenin yurt dışı olarak seçilmesi, genel ahlaka aykırı olmaması ve otomatik hedef kitle tanımlamalarının kapatılması kaydıyla Türkçe hariç tüm resmi dillerde sponsorlu olarak görsel içerik yayınlayabilir.
-
-e) Uluslararası sağlık turizmi hizmeti sunan sağlık tesisi; sağlık turisti ve turistin sağlığı hastasına yönelik yürütülen tanıtım ve bilgilendirme faaliyetlerinde “HealthTürkiye” logosunu tüm mecralarda kullanmakla yükümlüdür.
-
-f) Uluslararası sağlık turizmi hizmeti sunan sağlık tesisine ait internet sitesinde yer alan sağlık tesisi ismi ve ünvanı ile URL adresinin, sağlık tesisinin Bakanlıkça verilmiş ruhsatında yazan ünvan ve sahiplik adı ile uyumlu olması zorunludur.
-
-g) Aracı kuruluş; ilgili mevzuatında tanımlanan aracı kuruluş hizmetleriyle sınırlı olmak, sağlık hizmet sunumuna yönelik faaliyetleri çağrıştırmamak veya sağlık tesisi izlenimi vermemek kaydıyla sponsorlu tanıtım ve bilgilendirme yapabilir ve görsel içerik paylaşabilir.
-
-ğ) Aracı kuruluş, protokol imzaladığı sağlık hizmetinin ilgili sağlık tesisi tarafından verildiğini ve kendisinin sağlık tesisi olmadığını belirtmek kaydıyla aracılık ettiği sağlık hizmetini, sağlık tesisi isimlerini ve bu tesise ait resmî internet sitesini bilgi amaçlı olarak paylaşabilir.
-
-h) Aracı kuruluşa ait internet siteleri URL adreslerinin, ticari ünvan, işletme adı veya bunların kısaltmalarını taşıması zorunludur.
-
-ı) Marka tescilini URL adresinde kullanmak isteyen uluslararası sağlık turizmi hizmeti sunan sağlık tesisi ve aracı kuruluş, tescil belgelerini Bakanlığa bildirmekle yükümlüdür.
-
-(2) Türkiye’de uygulanması Bakanlıkça yasaklanan veya uygulama izni bulunmayan tıbbi işlem ve tedavi yöntemlerine uluslararası sağlık turizmi tanıtım ve bilgilendirme faaliyetlerinde yer verilemez.
-
-(3) Birinci fıkranın (a) ve (g) bentleri kapsamında, uluslararası sağlık turizmi hizmeti sunan sağlık tesisi ve aracı kuruluş tarafından indirim, kampanya ve rekabetçi fiyat duyuruları yapılabilir.
-
-(4) Bu madde kapsamı dışında kalan hususlarda bu Yönetmeliğin ilgili diğer hükümleri uluslararası sağlık turizmi hizmeti sunan sağlık tesisleri ve aracı kuruluşlar için de uygulanır.
-
-#### Radyo ve televizyon kanallarında sağlık alanında yapılan tanıtım ve bilgilendirme faaliyetleri
-
-**MADDE 9 –** (1) Kablo, uydu, karasal ve benzeri iletim ortamlarından yayın yapan radyo ve televizyon kanallarında yapılan tanıtım ve bilgilendirme programlarına katılan, konuşma ve açıklama yapan sağlık meslek mensupları programdan önce Ek-3’te yer alan Taahhütnameyi iki nüsha olarak imzalamakla yükümlüdür. Taahhütnamenin bir örneği ilgili yayın kuruluşunda en az beş yıl muhafaza edilir ve talep edilmesi halinde bir nüshası Bakanlığa veya müdürlüğe gönderilir.
-
-(2) Resen veya şikâyet üzerine radyo ve televizyon kanallarında yapılan tanıtım ve bilgilendirme faaliyetleri ile bu kapsamda yapılan açıklama ve konuşmaların bu Yönetmelik ile belirlenen ilke ve esaslara uygun olup olmadığı ilgili uzmanlık alanında tercihen akademisyen olan meslek mensuplarından Bakanlık veya müdürlükçe ilgili sağlık alanına münhasıran oluşturulan en az üç kişilik Komisyon marifetiyle incelenir. Aykırılığı tespit ve tevsik edilen hususlar olması halinde, bu hususlar gerekçeli olarak raporlanır ve ilgililer hakkında ilgili mevzuatı çerçevesinde gerekli idari yaptırımlar uygulanır. Ayrıca, ilgili yayın kuruluşu hakkında 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanun kapsamında inceleme ve işlem yapılması talebiyle Radyo ve Televizyon Üst Kuruluna gerekli bildirimler yapılır.
+i) Sağlık meslek mensubu veya sağlık kuruluşunun, diğer sağlık meslek mensuplarından veya sağlık kuruluşlarından daha üstün veya daha iyi olduğu izlenimini vermeye yönelik olarak bölge, mekân, tıbbi cihaz, donanım, araç, gereç veya personel yahut benzeri herhangi bir unsur ile ilgili görsel paylaşılamaz.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-Komisyon, Denetim ve Yaptırımlar
+Tanıtım ve Bilgilendirme Faaliyetlerinin Denetimi ve Değerlendirilmesi, Radyo ve
 
-#### Komisyon kurulması
+Televizyon Kanallarında Yapılan Tanıtım ve Bilgilendirme
 
-**MADDE 10 –** (1) İllerde, tanıtım ve bilgilendirme faaliyetlerinin bu Yönetmelik hükümlerine ve ilgili diğer mevzuata uygunluğunu değerlendirmek üzere valilik onayı ile Sağlıkta Bilgilendirme Tanıtım Faaliyetleri İl Değerlendirme Komisyonu kurulur. Komisyon, sağlık hizmetleri başkanının başkanlığında, bir başkan yardımcısı, ilgisine göre ilgili birim sorumlusu, değerlendirmeye konu olan sağlık alanından kamuda görevli iki uzman hekim, Ticaret İl Müdürlüğünden bir temsilci ve ilgisine göre kanunla kurulmuş meslek kuruluşlarından bir temsilci olmak üzere toplam yedi üyeden oluşturulur. Komisyon, Müdürün yazılı daveti üzerine en az beş üyenin katılımı ile toplanır ve toplantıya katılanların oy çokluğu ile karar alır. Komisyonun sekretaryası Müdürlükçe yürütülür.
+Faaliyetlerinin Denetimi ve Faaliyet Raporu
 
-(2) Müdürlükte görevli bir avukat, Komisyona hukuki konularda danışmanlık yapmak üzere toplantılara davet edilir. Komisyon, ihtiyaç duyulması durumunda konu ile ilgili diğer uzman kişilerden de bir alt komite oluşturabilir ya da bu kişileri danışman olarak toplantıya davet edebilir. Bu kişilerin kararları tavsiye niteliğindedir ve bu kişiler oylamaya katılamazlar.
+#### Sağlık alanında tanıtım ve bilgilendirme faaliyetlerinin denetimi ve değerlendirilmesi
 
-(3) Değerlendirilmek üzere Komisyona sevk edilen bildirim dosyalarında; yapılan inceleme veya denetim sonucunda düzenlenen denetim tutanağı, denetimde elde edilen delil niteliğindeki bilgi ve belgeler, tanıtım veya bilgilendirmelere ait üzerinde tarihlerin ve internet sitelerinin URL adreslerinin bulunduğu basılı örnek veya görseller, tanıtımlarda yer verilen hangi ifadelerin, ilgili mevzuatın hangi hükmüne aykırılık teşkil ettiğine ilişkin detaylı, açıklayıcı ve ayırt edici bilgiler yer alır.
+**MADDE 8 –** (1) Tanıtım ve bilgilendirme faaliyetleri; Genel Müdürlük ve Müdürlükler tarafından basın ve yayın organları, internet siteleri üzerinden düzenli olarak taranır. Müdürlükler; Bakanlık talimatı, resen tespit, ihbar veya şikâyet üzerine sosyal paylaşım ve internet siteleri, afiş, ilan, yazılı ve görsel basın ve benzeri mecralarda bu Yönetmelik hükümlerine aykırı olarak yürütüldüğü tespit edilen tanıtım ve bilgilendirme faaliyetleri hakkında yapılan iş ve işlemleri EK-2’de yer alan Tanıtım ve Bilgilendirme Faaliyet Raporu Formuna uygun olarak Bakanlığın Sağlık Tesisleri Denetim ve İzleme Sistemi üzerinden gerçekleştirir.
 
-(4) Tanıtım ve bilgilendirme faaliyetlerine ait bildirim dosyaları Komisyona sevk edildiği tarihten itibaren en geç kırk beş gün içerisinde değerlendirilerek karara bağlanır.
+(2) İllerde, tanıtım ve bilgilendirme faaliyetlerinin bu Yönetmelik hükümlerine ve ilgili diğer mevzuata uygunluğunu değerlendirmek üzere Valilik onayı ile Sağlıkta Bilgilendirme Tanıtım Faaliyetleri İl Değerlendirme Komisyonu kurulur. Komisyon, sağlık hizmetleri başkanının başkanlığında, bir başkan yardımcısı, ilgisine göre ilgili birim sorumlusu, değerlendirmeye konu olan sağlık alanından kamuda görevli bir uzman hekim var ise Müdürlükte görevli bir avukat, bulunmaması halinde ilde kamuda görevli bir avukat, Ticaret İl Müdürlüğünden bir temsilci ve ilgisine göre kanunla kurulmuş meslek kuruluşlarından bir temsilci olmak üzere toplam yedi üyeden oluşturulur. Komisyon; birinci fıkra kapsamında aykırılığı tespit edilen tanıtım ve bilgilendirme faaliyetlerini incelemenin sonuçlandırılarak Komisyona sevk edildiği tarihten itibaren en geç otuz gün içerisinde değerlendirir ve karara bağlar. Komisyon, Müdürün yazılı daveti üzerine en az beş üyenin katılımı ile toplanır ve toplantıya katılanların salt çoğunluğu ile karar alır. Komisyonun sekretaryası Müdürlükçe yürütülür.
 
-#### Denetim ve değerlendirme
+(3) Aykırılığı tevsik edilen tanıtım ve bilgilendirme faaliyetleri hakkında 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun çerçevesinde Reklam Kurulunca değerlendirilmek üzere Ticaret Bakanlığına veya Ticaret İl Müdürlüklerine gerekli bildirimler yapılır.
 
-**MADDE 11 –** (1) Tanıtım ve bilgilendirme faaliyetleri; Genel Müdürlük ve Müdürlükler tarafından basın ve yayın organları, sosyal medya platformları ve internet siteleri üzerinden düzenli olarak taranır.
+(4) Bu Yönetmelik kapsamında yer alan kişi ve sağlık tesislerinin reklam, tanıtım ve bilgilendirme faaliyetlerine ilişkin bildirim dosyalarının Bakanlıkça Ticaret Bakanlığına, Müdürlüklerce Ticaret İl Müdürlüklerine iletilmesi aşamasında bildirim dosyalarında;
 
-(2) Bakanlık talimatı, resen tespit, ihbar veya şikâyet üzerine sosyal paylaşım ve internet siteleri, afiş, ilan, yazılı ve görsel basın ve benzeri mecralarda bu Yönetmelik hükümlerine aykırı olarak yürütüldüğü tespit edilen tanıtım ve bilgilendirme faaliyetleri, Müdürlükler tarafından 17/11/2023 tarihli ve 32372 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Tesislerinin Denetimi Hakkında Yönetmelikte belirlenen usul ve esaslara uygun olarak Sağlık Tesisleri Denetim ve İzleme Sistemi üzerinden denetime tabi tutulur ve bu Yönetmeliğin 10 uncu maddesinde düzenlenen usul ve esaslar uyarınca Komisyonda değerlendirilerek karara bağlanır. Yapılan iş ve işlemler Sağlık Tesisleri Denetim ve İzleme Sistemine girilir.
+a) Sağlıkta Bilgilendirme Tanıtım Faaliyetleri İl Değerlendirme Komisyonunun kararı,
 
-#### Yaptırımlar
+b) Şikâyete konu olan reklam, tanıtım veya bilgilendirmelere ait üzerinde tarihlerin ve internet sitelerinin URL adreslerinin bulunduğu basılı örnekler, tanıtımlarda yer verilen hangi ifadelerin, ilgili mevzuatın hangi hükmüne aykırılık teşkil ettiğine ilişkin detaylı, açıklayıcı ve ayırt edici bilgiler,
 
-**MADDE 12 –** (1) Bu Yönetmelik hükümlerine aykırı olarak tanıtım ve bilgilendirme faaliyetlerinde bulunduğu tespit edilenler hakkında aşağıdaki idari yaptırımlar uygulanır:
+c) Reklam veren, aykırı tanıtım ve bilgilendirme yapan sağlık tesisi ve kuruluşlar hakkında Müdürlükler tarafından yapılan inceleme veya denetim sonucuna göre ilgili mevzuatı çerçevesinde yapılan iş ve işlemlere ait bilgi ve belgeler,
 
-a) Sağlık tesisleri ve uluslararası sağlık turizmi aracı kuruluşları hakkında 3359 sayılı Kanunun ek 11 inci maddesinin beşinci fıkrasına istinaden Ek-2’de yer alan Tanıtım ve Bilgilendirme Faaliyetleri İdari Yaptırım Formunda belirtilen idari yaptırımlar uygulanır.
+ç) Şikâyete konu edilen sağlık tesisi veya reklamı yapılan hizmete ait var ise ruhsat, bildirim, kayıt veya benzeri izin belgeleri,
 
-b) Belli bir çıkar karşılığında organ veya doku teminine yönelik olarak ilan veya reklam veren veya yayınlayan kişiler hakkında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uyarınca Cumhuriyet başsavcılığına suç duyurusunda bulunulur.
+bulunur.
 
-c) Mesleğini serbest olarak icra etmeyen hekim veya diş hekimlerine ilgilisine göre 1219 sayılı Kanunun 27 nci ve 44 üncü madde hükümleri uygulanır. Ayrıca ilgili mevzuatı kapsamında değerlendirilmek ve disiplin işlemi uygulanmak üzere görev yapılan kamu kurumu ile bağlı bulundukları meslek kuruluşuna gerekli bildirimler yapılır.
+#### Radyo ve televizyon kanallarında sağlık alanında yapılan tanıtım ve bilgilendirme faaliyetlerinin denetimi
 
-ç) Hekim, diş hekimi hariç mesleğini serbest olarak icra etmeyen sağlık meslek mensuplarına 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun çerçevesinde Reklam Kurulunca değerlendirilmek üzere Ticaret Bakanlığına veya Ticaret İl Müdürlüklerine gerekli bildirimler yapılır.
+**MADDE 9 –** (1) Kablo, uydu, karasal ve benzeri iletim ortamlarından yayın yapan radyo ve televizyon kanallarında yapılan tanıtım ve bilgilendirme programlarına katılan, konuşma ve açıklama yapan sağlık meslek mensupları programdan önce EK-3’te yer alan Taahhütnameyi iki nüsha olarak imzalamakla yükümlüdür. Taahhütnamenin bir örneği ilgili yayın kuruluşunda muhafaza edilir ve ayrıca, bir nüshası da Bakanlığa gönderilir.
 
-d) İlgili mevzuata ve Bakanlık düzenlemelerine aykırı olarak yetkisiz, izinsiz veya ruhsatsız sağlık hizmeti sunumuna konu olan kişi, kurum ve kuruluşlar tarafından tanıtım ve bilgilendirme faaliyetleri yapıldığının tespiti halinde, ilgililer hakkında 6502 sayılı Kanun çerçevesinde Reklam Kurulunca değerlendirilmek üzere Ticaret Bakanlığına veya Ticaret İl Müdürlüklerine gerekli bildirimler yapılır ve Cumhuriyet başsavcılığına suç duyurusunda bulunulur.
-
-e) Sosyal paylaşım ve internet siteleri üzerinden yapılan sağlıkla ilgili tanıtım ve bilgilendirmelerde insan sağlığını tehlikeye düşüren veya tanı ve tedavi sürecini olumsuz olarak etkileyen veya bu süreci engelleyici nitelikteki içerikler hakkında, gecikmesinde sakınca bulunan hallere ilişkin hükümler saklı kalmak üzere, 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun hükümleri uyarınca erişimin engellenmesi için yetkili merciye başvurulur. Fiilin suç unsuru içermesi halinde ayrıca suç duyurusunda bulunulur.
-
-(2) Tanıtım ve bilgilendirme faaliyetlerini 6 ncı madde hükmüne aykırı şekilde yürütenler hakkında 6698 sayılı Kanunun 17 nci ve 18 inci maddeleri ile Kişisel Sağlık Verileri Hakkında Yönetmeliğin 21 inci maddesi doğrultusunda işlem tesis edilir.
+(2) Radyo ve televizyon kanallarında yapılan tanıtım ve bilgilendirme faaliyetleri ile bu kapsamda yapılan açıklama ve konuşmaların bu Yönetmelik ile belirlenen ilke ve esaslara uygun olup olmadığı; ilgili uzmanlık alanında akademisyen olan meslek mensuplarından Bakanlıkça her seferinde ilgili sağlık alanına münhasıran oluşturulan en az üç kişilik Sağlıkta Tanıtım ve Bilgilendirme Faaliyetlerini İnceleme ve Değerlendirme Komisyonu marifetiyle incelenir ve gerekçeli olarak raporlanır. Gerekçeli raporda; toplum ve kişi sağlığına aykırı bilgilendirme, konuşma veya açıklama yaptığı tespit edilenler hakkında ilgili mevzuatı çerçevesinde gerekli idari yaptırımlar uygulanır ve ayrıca 15/2/2011 tarihli ve 6112 Sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanun kapsamında inceleme ve işlem yapılması talebiyle Radyo ve Televizyon Üst Kuruluna gönderilir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
 Çeşitli ve Son Hükümler
 
-#### Yürürlükten kaldırılan yönetmelik
+#### Yaptırımlar
 
-**MADDE 13 –** (1) 29/7/2023 tarihli ve 32263 sayılı Resmî Gazete’de yayımlanan Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik yürürlükten kaldırılmıştır.
+**MADDE 10 –** (1) Hekim veya diş hekimleri tarafından, bu Yönetmelik hükümlerine aykırı olarak tanıtım ve bilgilendirme yapıldığının tespit edilmesi halinde, 1219 sayılı Kanunun ilgilisine göre 27 nci veya 44 üncü madde hükümleri uyarınca idari para cezası uygulanır. Verilen idari para cezaları, tebliğinden itibaren bir ay içinde ödenir. İlgililer hakkında ilgili mevzuatı kapsamında değerlendirilmek ve işlem yapılmak üzere bağlı bulundukları meslek kuruluşuna gerekli bildirimler yapılır.
 
-(2) Birinci fıkra ile yürürlükten kaldırılan Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmeliğe yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+(2) Bu Yönetmelik hükümlerine aykırı olarak tanıtım ve bilgilendirme faaliyetlerinin yapıldığı tespit edilen sağlık tesisi iki kez uyarılır. Bir yıl içerisinde üçüncü kez bu Yönetmelik hükümlerine aykırı tanıtım ve bilgilendirme faaliyetleri yapıldığının tespit edilmesi halinde üç gün süreyle ilgili tıp veya uzmanlık dalındaki birimin faaliyeti durdurulur.
+
+(3) Bu Yönetmelik hükümlerine aykırı olarak tanıtım ve bilgilendirme yapıldığı tespit edilen uluslararası sağlık turizmi sağlık tesisi veya uluslararası sağlık turizmi aracı kuruluşu uyarılır. Bir yıl içerisinde ikinci kez tespit edilmesi halinde bir ay, üçüncü kez tespit edilmesi halinde üç ay süreyle kuruluşun ve tesisin sağlık turizmi faaliyeti durdurulur.
+
+(4) Organ nakillerinin uygulandığı tıbbi tedavi merkezlerinde bu Yönetmelik hükümlerine aykırı olarak tanıtım ve bilgilendirme yapıldığının tespit edilmesi halinde, ilk tespitinde organ nakillerinin uygulandığı tıbbi tedavi merkezlerinin kadavra organ dağıtımı üç ay süreyle durdurulur. İkinci tespitte ise nakil türüne göre üç ay süre ile faaliyet izni iptal edilir.
+
+(5) Organ veya doku teminine yönelik olarak ilan veya reklam veren veya yayınlayan kişiler hakkında suç duyurusunda bulunulur.
+
+(6) İlgili mevzuata ve Bakanlık düzenlemelerine aykırı olarak yetkisiz, izinsiz veya ruhsatsız sağlık hizmeti sunumuna konu olan kişi, kurum ve kuruluşlar tarafından yapılan tanıtım ve bilgilendirme faaliyetleri yapıldığının tespiti halinde, yetkisiz sağlık hizmeti sunulan yerlerin faaliyeti derhal durdurulur ve ilgililer hakkında 1219 sayılı Kanun ve 3359 sayılı Kanun hükümleri uyarınca Cumhuriyet savcılığına suç duyurusunda bulunulur.
+
+(7) 14/7/2005 tarihli ve 2005/9207 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik kapsamında serbest olarak çalışan, hekim ve diş hekimi dışındaki sağlık meslek mensupları ile sağlık hizmetlerinde çalışan diğer meslek mensupları sağlık beyanı içermemek, tanı ve tedaviye yönelik olmamak kaydıyla mesleki yetki alanlarında tanıtım ve bilgilendirme yapabilir. Ancak bu kişiler tarafından yapılan mesleki yetki ihlalleri, sağlık beyanı içeren tıbbi tedaviye yönelik faaliyetler ile bu Yönetmelik hükümlerine aykırı olarak yapılan tanıtım ve bilgilendirme faaliyetleri yetkisiz sağlık hizmeti sunumu olarak değerlendirilir ve ilgililer hakkında 1219 sayılı Kanun ile 3359 sayılı Kanun hükümleri uyarınca Cumhuriyet savcılığına suç duyurusunda bulunulur.
+
+(8) Sosyal paylaşım ve İnternet siteleri üzerinden yapılan sağlıkla ilgili tanıtım ve bilgilendirmelerde insan sağlığını tehlikeye düşüren veya tanı ve tedavi sürecini olumsuz olarak etkileyen veya bu süreci engelleyici nitelikte suç unsurunun bulunduğu tespit edilen ilgililer hakkında 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun hükümleri uyarınca ilgili içeriklerin erişime engellenmesi için suç duyurusunda bulunulur.
+
+(9) Bu Yönetmelik hükümlerine aykırı olarak tanıtım ve bilgilendirme yaptığı tespit edilen sağlık meslek mensupları ve diğer gerçek kişilerin kamu görevlisi olması halinde haklarında tabi oldukları ilgili mevzuat hükümleri uyarınca işlem yapılır.
+
+#### Hüküm bulunmayan haller
+
+**MADDE 11 –** (1) Bu Yönetmelikte hüküm bulunmayan hallerde; ilgili diğer mevzuat hükümleri uygulanır.
 
 #### Yürürlük
 
-**MADDE 14 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+**MADDE 12 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
 #### Yürütme
 
-**MADDE 15 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+**MADDE 13 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için [tıklayınız](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42694&MevzuatTur=7&MevzuatTertip=5)
+Ekleri için Resmî Gazete sayfasına bakınız.

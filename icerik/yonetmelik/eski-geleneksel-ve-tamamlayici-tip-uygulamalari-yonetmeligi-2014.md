@@ -7,32 +7,34 @@ rg_tarih: "2014-10-27"
 rg_sayi: "29158"
 birim: "Sağlık Bakanlığı"
 etiketler: ["getat", "akupunktur", "tamamlayici tip", "uygulama merkezi"]
-kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
-kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=45117&MevzuatTur=7&MevzuatTertip=5"
+kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiştir)"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2014/10/20141027-3.htm"
 konu: "28/4/2026 tarihli ve 33237 sayılı Resmî Gazete’de yayımlanan aynı adlı Yönetmeliğin 19 uncu maddesiyle yürürlükten kaldırılmıştır."
 durum: "yürürlükten kaldırıldı"
 kaldiran: "k-geleneksel-ve-tamamlayici-tip-uygulamalari-yonetmeligi"
 ---
 
+Sağlık Bakanlığından:
+
 ### GELENEKSEL VE TAMAMLAYICI TIP UYGULAMALARI YÖNETMELİĞİ
 
 ### BİRİNCİ BÖLÜM
 
-**Başlangıç Hükümleri**
+Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönetmeliğin amacı, insan sağlığına yönelik geleneksel ve tamamlayıcı tıp uygulama yöntemlerini belirlemek, bu yöntemleri uygulayacak kişilerin yetkilendirilmeleri ile bu yöntemlerin uygulanacağı sağlık kuruluşlarının çalışma ve denetlenmesine ilişkin usul ve esasları düzenlemektir.
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı, insan sağlığına yönelik geleneksel ve tamamlayıcı tıp uygulama yöntemlerini belirlemek, bu yöntemleri uygulayacak kişilerin eğitimi ve yetkilendirilmeleri ile bu yöntemlerin uygulanacağı sağlık kuruluşlarının çalışma usul ve esaslarını düzenlemektir.
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönetmelik, geleneksel ve tamamlayıcı tıp uygulamalarının yapıldığı sağlık tesislerini ve bu tesislerdeki geleneksel ve tamamlayıcı tıp uygulayıcılarını kapsar.
+**MADDE 2 –** (1) Bu Yönetmelik, geleneksel ve tamamlayıcı tıp uygulamalarının yapıldığı kamu ve özel hukuk tüzel kişileri ile gerçek kişilere ait sağlık kuruluşları ve bu kuruluşlarda yöntemleri uygulayacak kişileri kapsar.
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun ek 13 üncü maddesine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (c) bendi ile ek 11 inci maddesine ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (ğ) bendi ile 508 inci maddesine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun Ek 13 üncü maddesine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (c) bendine ve Ek 11 inci maddesine, 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 8 inci maddesinin birinci fıkrasının (f) ve (ğ) bentlerine ve 40 ıncı maddesine dayanılarak hazırlanmıştır.
 
-#### Tanımlar ve kısaltmalar
+#### Tanımlar
 
 **MADDE 4 –** (1) Bu Yönetmelikte geçen;
 
@@ -40,210 +42,208 @@ a) Bakanlık: Sağlık Bakanlığını,
 
 b) Bilim Komisyonu: Bakanlıkça oluşturulan Geleneksel ve Tamamlayıcı Tıp Uygulamaları Bilim Komisyonunu,
 
-c) EKİP: Entegre Kurumsal İşlem Platformunu,
+c) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
-ç) Genel Müdür: Sağlık Hizmetleri Genel Müdürünü,
+ç) Müdürlük: İl Sağlık Müdürlüğünü,
 
-d) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
+d) Sağlık kuruluşu: Kamu kurum ve kuruluşlarına bağlı hastaneler, tıp fakültesi veya diş hekimliği fakültesi sağlık uygulama ve araştırma merkezi, 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliğine göre ruhsatlandırılmış özel hastaneler ile 15/2/2008 tarihli ve 26788 sayılı Resmî Gazete’de yayımlanan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik hükümlerine göre ruhsatlandırılmış sağlık kuruluşlarını,
 
-e) GETAT: Geleneksel ve tamamlayıcı tıbbı,
+e) Sertifikalı tabip: Geleneksel ve tamamlayıcı tıp uygulamaları ile ilgili olarak Bakanlıkça tescil edilmiş sertifikaya sahip tabibi,
 
-f) GETAT uygulayıcısı: Bakanlıkça tescilli sertifikaya ve ilgili alanda uygulama yapma yetkisine sahip olan kişiyi,
+f) Sertifikalı diş tabibi: Geleneksel ve tamamlayıcı tıp uygulamaları ile ilgili olarak Bakanlıkça tescil edilmiş sertifikaya sahip diş tabibi,
 
-g) Müdürlük: İl sağlık müdürlüğünü,
+g) Uygulama: Geleneksel ve tamamlayıcı tıp uygulamalarını,
 
-ğ) Sağlık tesisi: Kamu kurum ve kuruluşlarına bağlı birinci, ikinci ve üçüncü basamak sağlık tesisleri, tıp fakültesi veya diş hekimliği fakültesi sağlık uygulama ve araştırma merkezi, özel hastaneler, ayakta teşhis ve tedavi yapılan özel sağlık kuruluşları, ağız ve diş sağlığı hizmeti sunulan özel sağlık kuruluşları, sağlık meslek hizmet birimleri, konaklamalı fizik tedavi ve rehabilitasyon merkezleri, evde bakım merkezi ve birimini, evde sağlık hizmet birimini,
+ğ) Uygulama merkezi: İlgili alanda sertifikası bulunan tabip ve/veya diş tabibi sorumluluğunda ve bu Yönetmelikte belirlenen uygulamaları yapmak üzere eğitim ve araştırma hastanesi ve tıp fakültesi veya diş hekimliği fakültesi sağlık uygulama ve araştırma merkezi bünyesinde kurulan ve Bakanlıkça yetkilendirilmesi halinde eğitim verilebilecek merkezi,
 
-h) Uygulama: GETAT uygulamalarını,
-
-ı) Uygulama kılavuzu: Ek-2’de yer alan uygulama alanları ile ilgili Bakanlığın resmî internet sayfasında yayımlanan kılavuzları,
-
-i) Uygulama merkezi: İlgili alanda Bakanlıkça tescilli sertifikası bulunan tabip veya diş tabibi sorumluluğunda Ek-4’te yer alan sağlık tesisleri bünyesinde kurulan GETAT uygulama merkezini,
-
-j) Uygulama ünitesi: İlgili alanda Bakanlıkça tescilli sertifikası bulunan GETAT uygulayıcısının sorumluluğunda Bakanlıkça uygun görüldüğü takdirde, kamu ve özel hukuk tüzel kişileri ile gerçek kişilere ait tedavi hizmeti sunan birinci, ikinci ve üçüncü basamak sağlık tesisleri bünyesinde kurulan GETAT uygulama ünitesini,
+h) Ünite: İlgili alanda sertifikası bulunan tabip ve/veya diş tabibi sorumluluğunda ve bu Yönetmelikte belirlenen uygulamaları yapmak üzere, kamu ve özel hukuk tüzel kişileri ile gerçek kişilere ait sağlık kuruluşları bünyesinde kurulan birimleri,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Bilim Komisyonunun Kuruluşu, Görevleri ve Çalışma Usulü**
+Bilim Komisyonu, Görevleri ve Çalışma Usulü
 
-#### Bilim Komisyonunun kuruluşu
+#### Bilim komisyonunun kuruluşu
 
-**MADDE 5 –** (1) Bakanlıkça bu Yönetmelikte belirtilen uygulamalar hususunda görüş vermek üzere Bilim Komisyonu oluşturulur. Bakanlık ihtiyaç duyduğu çalışmalar için alt komisyonlar veya çalışma grupları kurabilir.
+**MADDE 5 –** (1) Bu Yönetmelikte öngörülen uygulamalar, uygulamaları yapacak kişiler, ünite ve uygulama merkezlerinin standartları ile ilgili görüş vermek üzere, Bakanlıkça Geleneksel ve Tamamlayıcı Tıp Uygulamaları Bilim Komisyonu oluşturulur.
 
-(2) Bilim Komisyonu aşağıdaki üyelerden oluşur:
+(2) Bilim komisyonu:
 
-a) Genel Müdür veya uygun gördüğü yetkili.
+a) Sağlık Hizmetleri Genel Müdürü veya görevlendireceği yetkilinin başkanlığında,
 
-b) Sağlık Hizmetleri Genel Müdürlüğü Geleneksel, Tamamlayıcı ve Fonksiyonel Tıp Daire Başkanı.
+b) Sağlık Hizmetleri Genel Müdürlüğünden ilgili daire başkanı,
 
-c) Türkiye Sağlık Enstitüleri Başkanlığı Geleneksel ve Tamamlayıcı Tıp Enstitüsü Başkanı veya ilgili enstitü başkanlığında görevli bir araştırmacı.
+c) İlgili alanlarda bilimsel çalışması bulunan üniversite öğretim üyesi veya Türkiye Kamu Hastaneleri Kurumuna bağlı eğitim ve araştırma hastanelerinde uzmanlık eğitimi verme yetkisine sahip tabipler arasından seçilecek üç üye,
 
-ç) En az üçü öğretim elemanı olmak üzere ilgili alanlarda çalışan ve Bakanlıkça belirlenen altı üye.
+ç) Eczacılık fakültelerinin farmakognozi alanından bir üye,
 
-(3) Bilim Komisyonuna Genel Müdür veya uygun gördüğü yetkili başkanlık eder. Bakanlıkça belirlenen üyelerin görev süresi iki yıldır. Süresi sona erenler aynı usulle yeniden görevlendirilebilir. Yeni üyeler belirlenene kadar mevcut üyeler görevlerine devam eder.
+d) Tıp fakültelerinin farmakoloji alanından bir üye,
 
-#### Bilim Komisyonunun görevleri
+e) Sertifikalı iki tabip üye,
 
-**MADDE 6 –** (1) Bilim Komisyonunun görevleri şunlardır:
+f) Öğretim üyesi veya eğitim görevlisi tıbbi onkoloji uzmanı bir üye,
 
-a) Uygulama alanlarının belirlenmesi yanında uygulamaların endikasyon ve oluşabilecek yan etkilerine ilişkin görüş vermek.
+g) Tıbbi etik veya tıp tarihi ve deontoloji alanlarında uzmanlık veya doktora eğitimi almış bir üye,
 
-b) Bakanlıkça yayımlanan bilimsel yayınlarla ilgili gerektiğinde akademik ve teknik destek sağlamak.
+olmak üzere 11 üyeden teşekkül eder.
 
-c) Bu Yönetmelikte tanımlanmamış yeni GETAT uygulama alanları ile ilgili bilimsel ve teknik çalışmaları yapmak ve görüş vermek.
+(3) Bilim komisyonu üyeleri Bakan tarafından belirlenir. Üyeler iki yıl süreyle görev yapar.
 
-ç) İhtiyaç duyulan konularda çalışma yapmak üzere alt komisyonlar kurulmasını tavsiye etmek.
+#### Bilim komisyonunun çalışma usulü
 
-d) 9/3/2019 tarihli ve 30709 sayılı Resmî Gazete’de yayımlanan Geleneksel ve Tamamlayıcı Tıp Uygulamalarının Klinik Araştırmaları Hakkında Yönetmelik kapsamında değerlendirilen araştırma başvuruları hakkında gerektiğinde görüş bildirmek.
+**MADDE 6 –** (1) Bilim Komisyonu, Genel Müdürlüğün daveti üzerine yılda en az iki defa toplanır. Bakanlık gerektiğinde Bilim Komisyonunu toplantıya çağırabilir.
 
-#### Bilim Komisyonunun çalışma usulü
+(2) Bilim Komisyonu, gündem maddelerini görüşerek raporunu hazırlar. Toplantı gündemi genel müdürlükçe en az yedi gün önceden üyelere bildirilir.
 
-**MADDE 7 –** (1) Bilim Komisyonu, başkanın daveti üzerine yılda en az bir kez toplanır.
-
-(2) Toplantı gündemi sekretarya tarafından toplantı öncesinde üyelere bildirilir. Bilim Komisyonu, gündem maddelerini görüşerek raporunu hazırlar.
-
-(3) Bilim Komisyonu, üye tam sayısının salt çoğunluğu ile toplanır ve katılanların oy çokluğu ile karar alır. Oyların eşitliği halinde başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+(3) Bilim Komisyonu, en az dokuz üye ile toplanır ve salt çoğunlukla karar alır. Oylarda eşitlik halinde Başkanın tarafı olduğu görüş geçerli sayılır.
 
 (4) Bilim Komisyonunun sekretarya hizmetlerini Genel Müdürlük yürütür.
 
+#### Bilim komisyonunun görevleri
+
+**MADDE 7 –** (1) Bilim komisyonunun görevleri şunlardır:
+
+a) Uygulama alanlarının belirlenmesine, uygulamaların endikasyon ve oluşabilecek yan etkilerine ilişkin görüş vermek,
+
+b) Uygulama yapılan ünite ve merkezlerde bulunması gerekli tıbbi araç ve gereç, personel, fiziki standartların oluşturulması hususunda görüş bildirmek,
+
+c) Ünite ve uygulama merkezi başvurularını bilimsel, teknik alt yapı ve personel yönünden değerlendirerek, uygunluğu hususunda görüş vermek,
+
+ç) Bu Yönetmelikte tanımlanmamış uygulamalarla ilgili bilimsel ve teknik çalışmaları yapmak,
+
+d) Uygulamalar ile ilgili yönlendirici, aydınlatıcı ve bilimsel çalışmalar yapmak ve yaptırmak,
+
+e) İhtiyaç duyulan konularda çalışma yapmak üzere alt komisyonlar kurmak.
+
 ### ÜÇÜNCÜ BÖLÜM
 
-**Uygulama Alanları, Uygulama Yerleri, Uygulamaya Yetkililer ve Eğitim**
+Uygulama Esasları, Sağlık Kuruluşlarının Türleri
 
-#### Uygulama alanları
+ve Çalışma Esasları, Eğitim
 
-**MADDE 8 –** (1) Uygulamalar Ek-2’de belirlenen alanlarla sınırlıdır.
+#### Uygulamaların genel esasları
 
-(2) Ek-2’de yer alan GETAT uygulamalarına yönelik bilimsel çalışmalar, Geleneksel ve Tamamlayıcı Tıp Uygulamalarının Klinik Araştırmaları Hakkında Yönetmelik hükümlerine tabidir. GETAT uygulamalarına yönelik yapılan girişimsel olmayan GETAT araştırmaları da dahil olmak üzere tüm araştırma sonuçları Genel Müdürlüğe bildirilir. Gönderilen bu veri ve çalışmalar, kişisel veriler anonimleştirilmeden ilgilinin bilgi ve izni olmaksızın kullanılamaz.
+**MADDE 8 –** (1) Uygulamalar bu Yönetmelikte belirlenen alanlarla sınırlıdır. Bakanlık gerektiğinde ünite ve uygulama merkezinde yapılan ve yapılabilecek yeni uygulamaların bilimsel yönden bilim komisyonunda değerlendirilmesini isteyebilir. Bilim komisyonu, uygulamaların bilimsel kanıtlarını inceleyerek kişilere uygulanıp uygulanmayacağı ve uygun görülenlerden hangilerinin ünite veya uygulama merkezinde uygulanabileceği hususunda Bakanlığa görüş verir.
 
-(3) Uygulama merkezleri ve uygulama ünitelerinde, uygulama kılavuzlarında belirtilen endikasyonlar dâhilindeki işlemler gerçekleştirilir. Uygulama üniteleri için belirlenen endikasyonlar dahilindeki işlemler uygulama merkezlerinde de gerçekleştirilebilir.
+(2) Bu Yönetmelik ekinde bulunmayan uygulamalar için 13/4/2013 tarihli ve 28617 sayılı Resmî Gazete’de yayımlanan İlaç ve Biyolojik Ürünlerin Klinik Araştırmaları Hakkında Yönetmelik kapsamında sadece uygulama merkezlerinde araştırma yapılabilir ve yapılan araştırmaya ilişkin dosyaların bir örneği de Genel Müdürlüğe gönderilir. Gönderilen bu çalışmalar uygulamaların ülke genelindeki gelişimi, etkinliği ve kanıt düzeyi açısından Bilim Komisyonu tarafından değerlendirilir. Gönderilen bu veri ve çalışmalar kişilerin bilgi ve izni olmaksızın kişisel bilgileri belli edecek şekilde kullanılamaz.
 
-(4) Uygulama kılavuzları hazırlanırken Bilim Komisyonunun görüşü alınır.
+(3) Ünitelerde, Ek-3’de sayılı listede, ünitelerde yapılabileceği belirtilen uygulamalardan başka işlem yapılamaz. Uygulama merkezi, ünite için belirlenen uygulamaları da yapabilir.
+
+(4) Uygulamalar hastalığın standart tedavisinin yerine geçecek ve devam eden tedaviyi aksatacak şekilde yapılamaz. Bu husus bireylere açık bir şekilde anlatılır ve onaylanmış rıza formunda belirtilir.
+
+(5) Tabip ve diş tabibi olmayan uygulama alanında temel eğitimi bulunan sağlık meslek mensupları sertifikalı tabip ve diş tabiplerinin gözetimi ve denetimi altında uygulamalara katılırlar.
 
 #### Uygulamaların yapılabileceği yerler ve yetkili kişiler
 
-**MADDE 9 –** (1) Uygulamalar, Bakanlıkça yetkilendirilmiş uygulama merkezi veya uygulama ünitelerinde, ilgili uygulama alanında Bakanlıkça tescil edilmiş sertifikaya sahip olan GETAT uygulayıcıları tarafından yapılır.
+**MADDE 9 –** (1) Uygulamalar, Bakanlıkça yetkilendirilmiş ünite ile uygulama merkezlerinde ve ilgili alanda “uygulama sertifikası” bulunan tabip ve sadece diş hekimliği alanında olmak üzere diş tabibi tarafından yapılabilir. Uygulama alanında temel eğitimi bulunan sağlık meslek mensupları merkez ve ünitelerde sertifikalı tabiplere uygulamada yardımcı olabilirler.
 
-(2) Diş hekimleri; diş hekimliği uygulama ve araştırma merkezlerinde, diş hastanelerinde, ağız ve diş sağlığı merkezlerinde, ağız ve diş sağlığı polikliniklerinde, sağlık tesisleri bünyesindeki diş polikliniklerinde, ağız ve diş sağlığı muayenehanelerinde, sadece diş hekimliği mesleğinin icrası kapsamında sertifikalı oldukları GETAT uygulamalarını yapabilirler.
+(2) Diş hekimliği uygulama ve araştırma merkezlerinde, diş hastanelerinde ve ağız ve diş sağlığı merkezleri ile diş polikliniklerinde sadece diş hekimliği alanında uygulama yapılabilir.
 
-(3) Uygulama merkezleri ve uygulama üniteleri Ek-4’te belirtilen sağlık tesisleri bünyesinde açılabilir.
+#### Uygulama merkezi ve ünitelerin çalışma usul ve esasları
 
-(4) Uygulama merkezi veya uygulama ünitesi açmak isteyen sağlık tesisleri, Ek-1’de yer alan belgelerle birlikte Bakanlıkça belirlenen elektronik sistem üzerinden müdürlüğe başvurur. Başvurular Bakanlığa bildirilir ve standartlara uygunluk ile başvuru yapılan ilde ihtiyaç bulunup bulunmadığı bakımından Bakanlıkça değerlendirilerek uygun bulunması hâlinde sağlık tesislerine izin verilir. Uygulama merkezi veya uygulama ünitesi yetki belgeleri ile buralarda yapılacak uygulamalar, müdürlükçe EKİP’e girilir. Uygulama merkezi veya uygulama ünitesi sağlık tesisinin ruhsatına veya faaliyet izin belgesine işlenir. Uygulama merkezi veya uygulama ünitesi açılması veya ilavesi, yeni bir özel sağlık kuruluşu açılması, kadro veya kapasite artışı için ayrıca hak oluşturmaz.
+**MADDE 10 –** (1) Uygulama merkezi veya ünite, Bakanlığın sağlık kuruluşu/tesisi planlaması kapsamında açılabilir, bu yöndeki izinler yeni bir özel sağlık kuruluşu açılması veya kapasite artışı için ayrıca hak oluşturmaz. Uygulama merkezi veya ünite açmak isteyen kamu ve özel hukuk tüzel kişileri ile gerçek kişilere ait sağlık kuruluşları Ek-1’de yer alan belgelerle birlikte Bakanlığa başvurur. Uygulama merkezi ve/veya ünite açma başvuruları, standartlara uygunluk ve başvuru yapılan ilde ihtiyaç bulunup bulunmadığı bakımından Bilim Komisyonunca değerlendirilir. Bilim Komisyonunca uygun görülen başvuruların Bakanlıkça da uygun görülmesi halinde uygulama merkezi ve/veya ünite açma izni verilir. Ünite ve uygulama merkezi ile buralarda yapılacak uygulamalar, sağlık kuruluşunun ruhsatına veya faaliyet izin belgesine işlenir.
 
-(5) Uygulama merkezi veya uygulama ünitesi yetkisi bulunan sağlık tesisleri, yetkili oldukları GETAT uygulamalarını ayaktan fizik tedavi ve rehabilitasyon ünitelerinde de gerçekleştirebilir.
+(2) Kültür ve Turizm Bakanlığından belgeli konaklama tesislerinde, tesiste konaklayan ve sadece akut tedavisi tamamlanmış kişilere uygulanmak kaydıyla Bakanlıkça uygun görülen uygulamalara yönelik birim, planlama kapsamında kurulabilir. Konaklama tesisinin bulunduğu ildeki özel hastaneler ile Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik kapsamındaki özel sağlık kuruluşları tarafından kendi kadro ve kapasitesinin kullanılması kaydıyla planlamadan istisna olarak konaklama tesislerinde birim olarak açılabilir. Bu birim başvuruları özel sağlık kuruluşunun mesul müdürünce müdürlüğe yapılır ve faaliyetlerinden bağlı oldukları özel sağlık kuruluşu sorumludur.
 
-(6) Uygulama merkezi ve uygulama ünitesinde, yetkilendirilen alan dışında uygulama yapılamaz. Hizmet sunumuna eklenmesi istenen GETAT uygulamaları için yetki belgesinin yenilenmesi zorunludur.
+(3) Ünite ve uygulama merkezinde, yapılan tüm uygulamalar ile ilgili olarak hastalara ait hasta dosyası hazırlanır. Hastaya ve uygulamalara ilişkin verilerin elektronik ortamda talep edilmesi halinde, kişisel sağlık verilerinin mahremiyeti gözetilerek, Bakanlığa gönderilmesi zorunludur.
 
-(7) Faaliyet konusu münhasıran tıbbi laboratuvar hizmetleri veya radyolojik görüntüleme hizmetleri olan sağlık tesisleri, 20/1/2022 tarihli ve 31725 sayılı Resmî Gazete’de yayımlanan Çalışanların Sağlık Gözetimine Yönelik Tıbbi Tetkiklerin Usul ve Esasları Hakkında Yönetmelik kapsamındaki ortak sağlık ve güvenlik birimleri, iş yeri sağlık ve güvenlik birimleri, çalışan sağlığı merkezleri ve gezici iş sağlığı araçları bünyesinde uygulama merkezi veya uygulama ünitesi açılamaz.
+(4) Yapılan uygulamalara bağlı olarak hastalarda ortaya çıkan her türlü istenmeyen etki, her ay düzenli olarak müdürlüğe bildirilir ve bu bilgiler Bakanlığa gönderilir.
 
-#### Eğitim
-
-**MADDE 10 –** (1) Bu Yönetmelik kapsamındaki uygulamalara ilişkin sertifikalı eğitimler, ilgili mevzuat kapsamında, ilgili alanda Bakanlıkça eğitim vermek üzere yetkilendirilmiş merkezler tarafından verilir. Eğitim programları, ilgili alanın sertifikalı eğitim programı standardına göre yürütülür.
-
-### DÖRDÜNCÜ BÖLÜM
-
-**Çalışma Usul ve Esasları ve Ücretlendirme**
-
-#### Uygulama merkezi ve uygulama ünitelerinin çalışma usul ve esasları
-
-**MADDE 11 –** (1) Hastalık durumunda tanı konulması ve tedavi planının oluşturulması, 1219 sayılı Kanun hükümleri uyarınca yalnızca tabip veya diş tabibi tarafından gerçekleştirilir; tabip veya diş tabibi dışındaki GETAT uygulayıcıları, ilgili mevzuatta belirtilen iş ve görev tanımları çerçevesinde uygulama yapabilir.
-
-(2) Uygulama merkezleri ve uygulama ünitelerinde gerçekleştirilecek işlemler, Ek-2’de tanımlanan uygulama alanları ile GETAT uygulayıcısının sahip olduğu güncel ve tescilli sertifikalarla uyumlu olmak zorundadır.
-
-(3) Uygulamalar diğer tıbbi tedavileri aksatacak veya geciktirecek şekilde yapılamaz. GETAT uygulayıcısı, uygulamanın mevcut tıbbi tedavinin bir alternatifi değil tamamlayıcısı olduğu ve hastalığın devam eden tedavisinin yerine geçmeyeceği hususunu hastaya açık ve anlaşılır bir dille sözlü olarak anlatmak ve yaptığı bilgilendirmeyi hasta bilgilendirme formu ile kayıt altına almakla yükümlüdür.
-
-(4) Uygulamalarda, uygulama kılavuzlarında belirtilen hususlara, standartlara, hijyen kurallarına ve etik ilkelere uyulur.
-
-(5) Uygulama merkezleri ve uygulama ünitelerindeki uygulamalar ilgili sağlık tesisinin enfeksiyon kontrol programına ve enfeksiyonların önlenmesine ilişkin mevzuat hükümlerine uygun olarak yürütülür.
-
-(6) Uygulama merkezi ve uygulama ünitesinde yapılan tüm uygulamalar ile ilgili olarak hastalara ait hasta dosyası hazırlanır. Yapılan uygulamalara ait veriler 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununa, bu Kanuna dayanılarak yürürlüğe konulan mevzuata ve Bakanlıkça belirlenen standartlara uygun bir şekilde, Bakanlıkça belirlenen elektronik sisteme kaydedilir ve Bakanlığa gönderilir. Tüm hasta kayıtları, ilgili mevzuat hükümlerine uygun şekilde muhafaza edilir. Hasta bilgilerinin gizliliği ilkeleri ihlal edilmez.
-
-(7) Uygulama öncesinde hasta bilgilendirme formu hazırlanır ve uygulama yapılacak tüm hastalardan rıza alınır. Bu form, hastanın eğitim ve kültür düzeyine uygun, tıbbi terimlerden arındırılmış, uygulanacak yöntemin risklerini ve alternatiflerini bildirir şekilde düzenlenir. Form, ilgili mevzuat kapsamında arşivlenerek muhafaza altına alınır ve formun bir nüshası hastaya verilir.
-
-(8) Uygulama merkezi ve uygulama ünitelerinde yapılan uygulamalara bağlı olarak hastalarda istenmeyen etkilerin ortaya çıkması durumunda Ek-5’te yer alan istenmeyen etki bildirim formu elektronik ortamda doldurularak yirmi dört saat içinde Bakanlığa bildirilir.
-
-(9) Sağlık tesisinin yetki aldığı bir uygulama ile ilgili yetkisini kaybetmesi veya uygulama merkezinin ya da uygulama ünitesinin kapatılması gibi durumlarda mesul müdür veya sağlık tesisi yetkilisi tarafından beş iş günü içinde müdürlüğe bildirim yapılması zorunludur.
-
-(10) GETAT uygulayıcısının görev yaptığı sağlık tesisinden ayrılması ve sağlık tesisinde başka GETAT uygulayıcısının bulunmaması hâlinde, üç ay içinde yeni GETAT uygulayıcısının göreve başladığı bildirilmez ise uygulama merkezi veya uygulama ünitesinin yetki belgesi iptal edilir. Uygulama merkezi veya uygulama ünitesinin kapanış işlemleri müdürlükçe yürütülür ve EKİP’e girilir. Kapanış işlemlerinin tamamlanması üzerine müdürlükçe Bakanlığa bilgi verilir.
-
-(11) Sağlık kuruluşlarında GETAT uygulayıcısının ayrılış ve başlayış işlemleri müdürlükçe takip edilir ve yapılan işlemler Bakanlığa bildirilir.
-
-(12) Uygulama merkezi veya uygulama ünitesi yetkisi bulunan sağlık tesisleri, yataklı servislerinde yatan hastalar için yetkili olunan uygulama alanlarında hizmet sunabilir. Bu hastalara uygulanabilecek GETAT uygulamaları, hastanın tedavisinden sorumlu tabibin kararı doğrultusunda ilgili GETAT uygulayıcısı tarafından gerçekleştirilir.
+(5) Uygulamalar için 1/8/1998 tarihli ve 23420 sayılı Resmî Gazete’de yayımlanan Hasta Hakları Yönetmeliğine uygun “Bilgilendirme ve Rıza Formu” hazırlanır ve uygulama yapılacak tüm hastalardan rıza alınır.
 
 #### Ücretlendirme
 
-**MADDE 12 –** (1) Kamu sağlık tesislerinde yapılacak uygulamaların sağlık hizmet ücret tarifesi Bakanlıkça belirlenerek ilan edilir. Yataklı servislerde, uygulama alanında sunulan hizmetler için ilgili mevzuata göre ücretlendirme yapılır. Özel sağlık tesislerinde uygulama ücretlerinin uygulama öncesinde hastaya yazılı olarak bildirilmesi zorunludur.
-
-(2) Özel sağlık tesislerinde yapılacak uygulamalar için gerek görülmesi hâlinde, uygulamaya ilişkin sağlık hizmetlerinin taban ve tavan ücretleri Bakanlıkça belirlenerek ilan edilir.
-
-(3) 24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Kanununun 5 inci maddesinin ikinci fıkrasına göre belirlenen ücrete ilişkin hükümler saklıdır.
-
-### BEŞİNCİ BÖLÜM
-
-**Uygulama Merkezi ve Uygulama Ünitelerinin Asgari Şartları**
-
-#### Fiziki şartlar
-
-**MADDE 13 –** (1) Uygulamalar hekimin hasta muayene ettiği odada veya sağlık meslek mensubunun meslek icrasında bulunduğu uygulama odasında yapılabilir.
-
-(2) Sağlık tesislerinin hasta kabul ve bekleme alanı ile arşiv alanı ortak olarak kullanılabilir.
-
-#### Tıbbi cihaz ve malzemeler
-
-**MADDE 14 –** (1) Uygulama merkezi ve uygulama ünitesinde, ilgili uygulama için uygulama kılavuzlarında belirtilen cihaz ve malzemelerin bulundurulması zorunludur.
-
-(2) Uygulamalarda kullanılacak aromaterapötik ürünler, geleneksel bitkisel tıbbi ürünler ve tıbbi bitki çaylarının Türkiye İlaç ve Tıbbî Cihaz Kurumu tarafından ruhsatlandırılmış olması gerekir.
-
-### ALTINCI BÖLÜM
-
-**Denetimler, İdari Müeyyideler ve Yasaklar**
-
-#### Denetimler ve idari müeyyideler
-
-**MADDE 15 –** (1) Uygulama merkezi veya uygulama ünitesi 17/11/2023 tarihli ve 32372 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Tesislerinin Denetimi Hakkında Yönetmelik ile belirlenen usul ve esaslara uygun olarak denetlenir. Olağan denetimler, aralarında en az bir GETAT uygulayıcısı tabibin, GETAT uygulayıcısı tabibin bulunamadığı durumlarda ise tabibin bulunduğu en az üç kişilik bir ekip tarafından, sağlık tesisinin olağan denetimi ile eş zamanlı olarak gerçekleştirilir. Denetimlerde Ek-3’te yer alan form kullanılır.
-
-(2) Gerçek kişiler ve özel hukuk tüzel kişileri tarafından açılan uygulama merkezleri veya uygulama ünitelerinde bu Yönetmeliğe aykırılık tespit edilmesi hâlinde, Ek-3’te yer alan yaptırımlar uygulanır.
-
-(3) Kamu kurum ve kuruluşları tarafından açılan uygulama merkezleri veya uygulama ünitelerinde bu Yönetmeliğe aykırılık tespit edilmesi hâlinde; birinci ve ikinci tespitte eksikliğin giderilmesi için otuz gün süre verilerek yazılı uyarı yapılır, üçüncü tespitte kasıt, ihmal veya kusur şüphesi bulunan ilgililer hakkında ilgili mevzuat kapsamında disiplin hükümleri uygulanır.
-
-(4) Bu Yönetmelik veya ilgili mevzuatında uygunsuzluk olarak belirlenen ancak idari yaptırımı bulunmayan fiiller hakkında 3359 sayılı Kanunun ek 11 inci maddesi ve ilgili diğer mevzuat hükümleri uygulanır.
-
-#### Yasaklar
-
-**MADDE 16 –** (1) Uygulama merkezi ve uygulama ünitesi Bakanlıktan izin almadan hizmet veremez.
-
-(2) Uygulama merkezi ve uygulama ünitesi amacı dışında faaliyet gösteremez.
-
-(3) Uygulama merkezi ve uygulama ünitesindeki herhangi bir faaliyet alanı, yetkisi olmayan kişiler tarafından kullanılamaz.
-
-(4) İlgili alanda uygulama yetkisi ve çalışma izni bulunmayanlar uygulama merkezi ve uygulama ünitesinde uygulama yapamaz.
-
-### YEDİNCİ BÖLÜM
-
-**Çeşitli ve Son Hükümler**
+**MADDE 11 –** (1) Kamuya bağlı sağlık kuruluşlarınca yapılacak uygulamaların sağlık hizmet ücret tarifesi Bakanlıkça belirlenerek ilan edilir.
 
 #### Tanıtım ve bilgilendirme
 
-**MADDE 17 –** (1) Sağlık hizmetlerinde tanıtım ve bilgilendirme faaliyetlerinin denetlenmesi ve uygulanacak yaptırımlara ilişkin usul ve esaslar 12/11/2025 tarihli ve 33075 sayılı Resmî Gazete’de yayımlanan Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik hükümlerine göre yürütülür.
+**MADDE 12 –** (1) Bu Yönetmelik kapsamında faaliyet gösteren ünite ve uygulama merkezleri Bakanlıkça belirlenen bilgilendirme ve tanıtım mevzuatına uymak zorundadır. Bakanlıkça belirlenen bilgilendirme ve tanıtım hükümlerinin ihlali halinde sağlık kuruluşunun tabi olduğu ilgili mevzuat hükümleri uygulanır.
 
-(2) Bu Yönetmelik kapsamındaki uygulamalara ilişkin ürünler ve tıbbi cihazlar hakkındaki tanıtımlarda ilgili ürün veya tıbbi cihazın tabi olduğu mevzuat hükümleri uygulanır.
+(2) Bu Yönetmelik kapsamındaki uygulamalara ilişkin tıbbi ürünler hakkındaki tanıtımlarda tıbbi ürün tanıtımına ilişkin mevzuat hükümleri uygulanır.
+
+#### Eğitim
+
+**MADDE 13 –** (1) Bu Yönetmelik kapsamındaki sertifikalı eğitimler, 4/2/2014 tarihli ve 28903 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği kapsamında, Bakanlıkça eğitim vermek üzere yetkilendirilmiş merkezler tarafından verilir.
+
+### DÖRDÜNCÜ BÖLÜM
+
+Ünite ve Uygulama Merkezinde Bulundurulması Zorunlu Asgari Birimler,
+
+Tıbbi Cihaz, Malzeme ve İlaçlar
+
+#### Ünite ve uygulama merkezinde bulundurulması zorunlu asgari birimler
+
+**MADDE 14 –** (1) Ünite ve uygulama merkezinde asgari olarak aşağıda belirtilen bölümler bulunur:
+
+a) Asgari 12 metrekare yüzölçümünde muayene ve uygulama için gerekli asgari tıbbi malzemenin ve donanımın bulunduğu muayene ve uygulama odası.
+
+b) Hasta kabul ve bekleme alanı.
+
+c) Arşiv.
+
+(2) Sağlık kuruluşlarında hasta kabul ve bekleme alanı ile arşiv alanı ortak olarak kullanılabilir.
+
+(3) Sağlık kuruluşu bünyesindeki ünite veya uygulama merkezinin kuruluşun hizmet binası dışında farklı bir alanda oluşturulması halinde hasta kabul ve bekleme alanı, arşiv gibi alanlar Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkındaki Yönetmelikte sağlık kuruluşları için belirlenen asgari fiziki şartlara uygun şekilde hazırlanır.
+
+(4) Bakanlıkça açma izni verilen ünite ve uygulama merkezleri Ek-3’te yer alan uygulamaları Bakanlıktan izin almak kaydıyla yapabilirler. Ünite ve uygulama merkezleri Ek-3’te yer alan her yeni uygulama için Bakanlıktan izin almak zorundadır. Bu Yönetmelik kapsamında faaliyet gösterilecek yerlerde, ilgili mevzuatlarına göre zorunlu ilaç, cihaz ve malzemelerin bulundurulması gerekir.
+
+#### Tıbbi cihaz, malzeme ve ilaçlar
+
+**MADDE 15 –** (1) Ünite ve uygulama merkezinde Ek-2’de yer alan asgari tıbbi cihaz, araç gereç ve ilaçlar ile ayrıca her uygulama için gerekli olan tıbbi cihaz, araç ve gereç ile ilaçların bulundurulması zorunludur.
+
+### BEŞİNCİ BÖLÜM
+
+Denetim, Uyulması Gereken Diğer Hususlar, Yasaklar ve İdari Müeyyideler
+
+#### Denetim
+
+**MADDE 16 –** (1) Ünite ve uygulama merkezleri, şikâyet, soruşturma veya Bakanlıkça yapılacak olağan dışı denetimler hariç olmak üzere, Müdürlükçe en az bir dahili branşlardan uzman ve bir cerrahi branşlardan uzman tabibin yer aldığı en az 3 kişilik bir ekip tarafından yılda en az bir defa denetlenir. Denetim, Ek-5’te yer alan denetim formu kullanılarak yapılır. İki nüsha olarak düzenlenecek formun bir nüshası denetlenen ünite veya uygulama merkezinin bulunduğu kurum veya kuruluşta muhafaza edilmek üzere bırakılır.
+
+#### Uyulması gereken diğer hususlar ve yasaklar
+
+**MADDE 17 –** (1) Ünite ve uygulama merkezlerinde, aşağıda belirtilen hususlara uyulmak zorundadır:
+
+a) Ünite ve uygulama merkezi Bakanlıktan izin almadan hizmet veremez.
+
+b) Ünite ve uygulama merkezinde bu Yönetmelik ve eklerinde yer alan bulundurulması zorunlu asgari birimler yer almak zorundadır.
+
+c) Ünite ve uygulama merkezleri amacı dışında faaliyet gösteremez.
+
+ç) Ünite ve uygulama merkezlerinde herhangi bir faaliyet alanının veya biriminin, yetkisi olmayan kişiler tarafından kullanılması yasaktır.
+
+d) Ünite ve uygulama merkezlerinde Bakanlıkça ilgili mevzuat hükümlerine göre ilgili alanda sertifikaları bulunmayan ve gerekli çalışma izinleri olmayan tabip, diş tabibi ve diğer sağlık personeli çalıştırılamaz.
+
+e) Tabip ve diş tabipleri uygulama sertifikası ile yetkilendirildikleri alan dışında uygulama yapamazlar.
+
+#### İdari müeyyideler
+
+**MADDE 18 –** (1) Bu Yönetmelikte belirlenen usul ve esaslara uymayanlar hakkında, Ek-4’te yer alan idari müeyyideler uygulanır.
+
+(2) Ünite ve uygulama merkezlerine ilişkin hüküm bulunmayan hallerde, uygulamanın yapıldığı ilgili sağlık kuruluşunun tabi olduğu mevzuatta yer alan idari müeyyideler ile ilgili mevzuatta belirlenen diğer idarî müeyyideler uygulanır.
+
+### ALTINCI BÖLÜM
+
+Çeşitli ve Son Hükümler
 
 #### Hüküm bulunmayan haller
 
-**MADDE 18 –** (1) Uygulama merkezi veya uygulama ünitelerinin hizmet sunumuna ve idari müeyyidelerine ilişkin bu Yönetmelikte hüküm bulunmayan hallerde ilgili mevzuat hükümleri uygulanır.
+**MADDE 19 –** (1) Ünite ve merkezlerin fiziki standartlarına, hizmet sunumuna ve idari müeyyidelerine ilişkin bu Yönetmelikte hüküm bulunmayan hallerde diğer ilgili mevzuat hükümleri uygulanır.
 
 #### Yürürlükten kaldırılan yönetmelik
 
-**MADDE 19 –** (1) 27/10/2014 tarihli ve 29158 sayılı Resmî Gazete’de yayımlanan Geleneksel ve Tamamlayıcı Tıp Uygulamaları Yönetmeliği yürürlükten kaldırılmıştır.
+**MADDE 20 –** (1) 17/9/2002 tarihli ve 24879 sayılı Resmî Gazete’de yayımlanan Akupunktur Tedavisi Uygulanan Özel Sağlık Kuruluşları ile Bu Tedavinin Uygulanması Hakkında Yönetmelik yürürlükten kaldırılmıştır.
+
+#### Akupunktur uygulaması için uyum süreci
+
+**GEÇİCİ MADDE 1 –** (1) Akupunktur uygulaması için Bakanlıkça yetkilendirilmiş olan kurum ve kuruluşlar 1/1/2016 tarihine kadar bu Yönetmeliğe uyum sağlamak zorundadır. Bu süre sonunda uyum sağlamayan kurum ve kuruluşların yetki belgesi geçersiz sayılır.
 
 #### Yürürlük
 
-**MADDE 20 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+**MADDE 21 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
 #### Yürütme
 
-**MADDE 21 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+**MADDE 22 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-**Ekleri için tıklayınız**
+Ekleri için Resmî Gazete sayfasına bakınız.

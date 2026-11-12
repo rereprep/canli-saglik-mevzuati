@@ -7,80 +7,80 @@ rg_tarih: "2023-04-25"
 rg_sayi: "32171"
 birim: "Sağlık Bakanlığı"
 etiketler: ["yonetmelik", "saglik mevzuati"]
-kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
-kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42765&MevzuatTur=7&MevzuatTertip=5"
+kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiştir)"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/04/20230425-9.htm"
 konu: "16/12/2025 tarihli ve 33109 sayılı Resmî Gazete’de yayımlanan aynı adlı Yönetmeliğin 21 inci maddesiyle yürürlükten kaldırılmıştır."
 durum: "yürürlükten kaldırıldı"
 kaldiran: "k-radyasyon-onkolojisi-hizmetleri-yonetmeligi"
 ---
 
+Sağlık Bakanlığından:
+
 ### RADYASYON ONKOLOJİSİ HİZMETLERİ YÖNETMELİĞİ
 
 ### BİRİNCİ BÖLÜM
 
-**Başlangıç Hükümleri**
+Başlangıç Hükümleri
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönetmeliğin amacı, sağlık hizmet sunumu kapsamında tetkik, teşhis ve tedavi amaçlı uygulanan radyasyon onkolojisi klinik hizmetlerinin planlanması, sınıflandırılması ile bu hizmetlerin sunulduğu sağlık tesislerinin faaliyetlerine, standartlarına ve denetlenmesine ilişkin usul ve esasları düzenlemektir.
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı, sağlık hizmet sunumu kapsamında tetkik, teşhis ve tedavi amaçlı uygulanan radyasyon onkolojisi klinik hizmetlerinin planlanması, sınıflandırılması ile bu hizmetlerin sunulduğu sağlık kurum ve kuruluşlarının faaliyetlerine, standartlarına ve denetlenmesine ilişkin usul ve esasları düzenlemektir.
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönetmelik, Sağlık Bakanlığına, üniversitelere ve özel hukuk tüzel kişilerine ait radyasyon onkolojisi hizmeti sunulan sağlık tesisleri ile buralarda görev yapan personeli kapsar.
+**MADDE 2 –** (1) Bu Yönetmelik, Sağlık Bakanlığına, üniversitelere ve özel hukuk tüzel kişilerine ait radyasyon onkolojisi hizmeti sunulan sağlık kurum ve kuruluşları ile buralarda görev yapan personeli kapsar.
 
 #### Dayanak
 
 **MADDE 3 –** (1) Bu Yönetmelik; 19/4/1937 tarihli ve 3153 sayılı Radiyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanunun 10 uncu, 11 inci, 12 nci, 13 üncü ve ek 1 inci maddelerine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü, 9 uncu ve ek 11 inci maddelerine, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci, 506 ncı ve 508 inci maddelerine dayanılarak hazırlanmıştır.
 
-#### Tanımlar
+#### Tanımlar ve kısaltmalar
 
 **MADDE 4 –** (1) Bu Yönetmelikte geçen;
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) Faaliyet izin belgesi: Sağlık tesisleri bünyesinde açılan radyasyon onkolojisi merkezlerine Bakanlık tarafından düzenlenen belgeyi,
+b) Faaliyet izin belgesi: Sağlık kurum ve kuruluşları bünyesinde açılan radyasyon onkolojisi merkezlerine Bakanlıkça düzenlenen belgeyi,
 
 c) Gözetimli alan: Kontrollü (Denetimli) alan olarak değerlendirilmeyen ancak radyasyonla çalışanların radyasyona maruz kalma potansiyelinin bulunması nedeniyle, kişisel doz ölçümünü gerektirmeyen ancak radyasyon seviyelerinin düzenli olarak izlenmesini gerektiren ve radyasyon görevlileri için yıllık doz sınırlarının 1/20’sinin aşılma olasılığı olup, 3/10’unun aşılması beklenmeyen alanları,
 
 ç) Kontrollü (Denetimli) alan: Radyasyondan korunmayı sağlamak veya radyoaktif kirliliğin yayılmasını önlemek amacı ile özel kuralların uygulandığı, radyasyonla çalışanların kişisel doz izlemelerinin yapıldığı, giriş çıkışların kontrole tabi olduğu ve görevi gereği radyasyon ile çalışan kişilerin ardışık beş yılın ortalama yıllık doz sınırlarının 3/10’undan fazla radyasyon dozuna maruz kalabilecekleri alanları,
 
-d) Lisans: İyonlaştırıcı radyasyona ilişkin bir faaliyetin yürütülmesi için tüzel kişiye Nükleer Düzenleme Kurumu tarafından verilen yetkiyi,
+d) Lisans: İyonlaştırıcı radyasyona ilişkin bir faaliyetin yürütülmesi için tüzel kişiye NDK tarafından verilen yetkiyi,
 
-e) Merkez sorumlusu: Merkezlerde 12 nci maddenin üçüncü fıkrasında belirtilen görevleri yerine getirmekle sorumlu olan radyasyon onkolojisi uzmanını,
+e) Merkez: Sağlık kurum ve kuruluşu bünyesinde açılan radyasyon onkolojisi merkezini,
 
-f) Mesul müdür: Bakanlığa ve üniversitelere ait hastanelerde, hastane başhekimini veya sağlık uygulama ve araştırma merkezi müdürünü; tıp merkezleri ve özel hastanelerde mesul müdürü, mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezlerde radyasyon onkolojisi uzmanını veya bir hekimi,
+f) Merkez sorumlusu: Bakanlıkça faaliyet izin belgesi verilecek merkezlerde 11 inci maddenin ikinci fıkrasında belirtilen görevleri yerine getirmekle sorumlu olan radyasyon onkolojisi uzmanını,
 
-g) Müdürlük: İl sağlık müdürlüklerini,
+g) Mesul müdür: Bakanlığa ve üniversitelere ait hastanelerde, hastane baştabibini veya sağlık uygulama ve araştırma merkezi baştabibini; özel hastanelerde mesul müdürünü,
 
-ğ) NDK: Nükleer Düzenleme Kurumunu,
+ğ) Müdürlük: İl sağlık müdürlüklerini,
 
-h) Radyasyon alanı: Planlanmış ışınlanmalar nedeniyle halk için belirlenen yıllık doz sınırlarının üzerinde ışınlanma olasılığı olan alanları,
+h) NDK: Nükleer Düzenleme Kurumunu,
 
-ı) Radyasyondan korunma sorumlusu: Radyasyon uygulamasının türüne göre NDK tarafından belirlenmiş nitelikleri taşıyan, yetkilendirilen kişi veya yetkilendirilmek üzere başvuran kişi tarafından yükümlülüklerinin yerine getirilmesini teminen görevlendirilen ve NDK tarafından yetkilendirilen kişiye verilen yetki kapsamında uygun görülen kişiyi,
+ı) Radyasyon alanı: Planlanmış ışınlanmalar nedeniyle halk için belirlenen yıllık doz sınırlarının üzerinde ışınlanma olasılığı olan alanları,
 
-i) Radyasyonla çalışan: İyonlaştırıcı radyasyon kaynaklarıyla yürütülen faaliyetlerde görevi gereği halk için belirlenen doz sınırlarının üzerinde ışınlanma olasılığı olan kişiyi,
+i) Radyasyondan korunma sorumlusu: Radyasyon uygulamasının türüne göre NDK tarafından belirlenmiş nitelikleri taşıyan, yetkilendirilen kişi veya yetkilendirilmek üzere başvuran kişi tarafından yükümlülüklerinin yerine getirilmesini teminen görevlendirilen ve NDK tarafından yetkilendirilen kişiye verilen yetki kapsamında uygun görülen kişiyi,
 
-j) Radyasyon kaynağı: Radyasyon üreten veya yayan cihazlar ile radyoaktif kaynakları,
+j) Radyasyonla çalışan: İyonlaştırıcı radyasyon kaynaklarıyla yürütülen faaliyetlerde görevi gereği halk için belirlenen doz sınırlarının üzerinde ışınlanma olasılığı olan kişiyi,
 
-k) Radyasyon onkolojisi hizmetleri: İyonlaştırıcı radyasyon kullanarak hastalıkların tedavisini amaçlayan, uygulanacak tedavi yöntemlerini, radyasyonun etkilerini ve tümörlerin davranışlarını inceleyen, görüntüleme işlemleri, radyoterapi, kemoradyoterapi, hormonal tedavi, eş zamanlı hedefe yönelik ilaçlar veya immunoterapi, destek tedaviler, hipertermi, klinik araştırma, kan ve kan ürünleri ışınlamaları kapsamındaki uygulama hizmetlerini,
+k) Radyasyon kaynağı: Radyasyon üreten veya yayan cihazlar ile radyoaktif kaynakları,
 
-l) Radyasyon onkolojisi merkezi (Merkez): Sağlık tesisleri bünyesinde bir radyasyon onkolojisi uzmanının sorumluluğunda veya mesleğini serbest olarak icra etme yetkisine sahip en az %51 hissesi radyasyon onkolojisi uzmanına ait olan özel hukuk tüzel kişileri tarafından 5 inci maddenin birinci fıkrasında yer alan tedavi cihazlarından en az bir tanesini bünyesinde bulundurarak ruhsatlandırılan veya faaliyet izni verilen, radyasyon onkolojisi hizmetleri sunulan merkezi,
+l) Radyasyon onkolojisi hizmetleri: İyonlaştırıcı radyasyon kullanarak hastalıkların tedavisini amaçlayan, uygulanacak tedavi yöntemlerini, radyasyonun etkilerini ve tümörlerin davranışlarını inceleyen, görüntüleme işlemleri, radyoterapi, kemoradyoterapi, hormonal tedavi, eş zamanlı hedefe yönelik ilaçlar veya immunoterapi, destek tedaviler, hipertermi, klinik araştırma, kan ve kan ürünleri ışınlamaları kapsamındaki uygulama hizmetlerini,
 
-m) Radyoaktif kaynak: İçeriğindeki radyoaktif maddeden faydalanılarak radyasyon uygulamalarında kullanılmak üzere üretilen açık veya kapalı kaynakları,
+m) Radyasyon onkolojisi merkezi: Sağlık kurum ve kuruluşları bünyesinde bir radyasyon onkolojisi uzmanının sorumluluğunda 5 inci maddenin birinci fıkrasında yer alan tedavi cihazlarından en az bir tanesiyle radyasyon onkolojisi hizmetleri sunulan merkezi,
 
-n) Radyoaktif madde: Nükleer madde, radyoaktif kaynak ile radyoaktif atıklar da dâhil olmak üzere, çekirdekleri kendiliğinden bozunmaya uğrayarak radyasyon yayan izotop veya izotopları içeren maddeleri,
+n) Radyoaktif kaynak: İçeriğindeki radyoaktif maddeden faydalanılarak radyasyon uygulamalarında kullanılmak üzere üretilen kaynakları,
 
-o) Ruhsat: Mesleğini serbest olarak icra etmeye yetkili radyasyon onkolojisi uzmanı tarafından açılan radyasyon onkolojisi merkezine Bakanlık tarafından düzenlenen belgeyi,
+o) Radyoaktif madde: Radyoaktif kaynaklar ile radyoaktif atıklar da dahil olmak üzere çekirdekleri kendiliğinden bozunmaya uğrayarak radyasyon yayan izotop ve izotopları içeren maddeleri,
 
-ö) Sağlık tesisi: Bu Yönetmelik kapsamında radyasyon onkolojisi hizmeti sunulan Bakanlığa, üniversitelere ve özel hukuk tüzel kişilerine ait sağlık kurum ve kuruluşunu,
-
-p) Simülasyon: Fiziksel ve geometrik özelliklere sahip tanısal bir X-ışını cihazı olan simülatör aygıtı ile hastanın tedavi öncesi immobilizasyonu ve tedavi amaçlı görüntülemenin yapılması ile tümör lokalizasyonunun yapıldığı işlemi,
+ö) Simülasyon: Fiziksel ve geometrik özelliklere sahip tanısal bir X-ışını cihazı olan simülatör aygıtı ile hastanın tedavi öncesi immobilizasyonu ve tedavi amaçlı görüntülemenin yapılması ile tümör lokalizasyonunun yapıldığı işlemi,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Radyasyon Onkolojisi Merkezlerinin Çalışma Esasları**
+Radyasyon Onkolojisi Merkezlerinin Çalışma Esasları
 
 #### Cihazların ve radyoaktif kaynak uygulamaların sınıflandırılması
 
@@ -100,7 +100,7 @@ e) Brakiterapi tedavi cihazları.
 
 f) İntraoperatif radyoterapi (IORT) tedavi cihazları.
 
-g) Parçacık radyoterapi tedavi sistemleri (Proton, karbon, ağır iyon ve benzeri).
+g) Parçacık radyoterapi tedavi sistemleri (Proton, karbon, ağır iyon ve benzeri.).
 
 ğ) Hipertermi tedavi cihazları (Yüzeysel, derin, görüntü takipli cihazlar).
 
@@ -130,67 +130,51 @@ c) Hasta takip sistemi (Yüzey takip, ultrasonlu takip ve benzeri sistemleri).
 
 d) Hibrit tedavi sistemleri.
 
-#### Merkezlerin planlanması, açılışı ve ön izin
+#### Radyasyon onkolojisi merkezlerinin planlanması, açılışı ve ön izin
 
-**MADDE 6 –** (1) Radyasyon onkolojisi hizmetlerinin, kaliteli ve verimli şekilde sunulması, sağlık insan gücü ve nitelikleri ile teknoloji yoğunluklu radyasyon onkolojisi merkezi cihazlarının ülke düzeyinde dengeli dağılımının sağlanması, kaynak israfı ve âtıl kapasiteye yol açılmaması amacıyla bu Yönetmelik kapsamında faaliyetine ihtiyaç duyulan radyasyon onkolojisi merkezleri Bakanlıkça planlanır ve faaliyetlerini yürütür. Merkezlerin sadece hastane bünyesinde açılmasına izin verilir.
+**MADDE 6 –** (1) Bu Yönetmelik kapsamındaki merkezlerin açılışı ve merkezlerde kullanılacak cihazlar Bakanlıkça planlanır. Yeni açılacak merkezlerin sadece hastane bünyesinde açılmasına izin verilir.
 
 (2) Merkez açılmadan veya yeni cihaz eklenmeden önce Bakanlıktan ön izin alınması şarttır. Ön izin başvurusu mesul müdür tarafından yapılır.
 
-(3) Ön izin başvurusu, Bakanlıkça planlama kapsamında sonuçlandırılarak uygun görülenlere Ek-1’de yer alan ön izin belgesi verilir.
+(3) Ön izin başvurusu, Bakanlıkça planlama kapsamında sonuçlandırılarak uygun görülenlere EK-1’de yer alan ön izin belgesi verilir.
 
-(4) Ön izin belgesi, alındığı tarihten itibaren iki yıl içerisinde faaliyet izin belgesi/ruhsat alınmaması hâlinde iptal edilir. Ön izin belgesi, faaliyet izin belgesi/ruhsat yerine geçmez ve devredilemez.
+(4) Ön izin belgesi, alındığı tarihten itibaren iki yıl içerisinde faaliyet izin belgesi alınmaması hâlinde iptal edilir. Ön izin belgesi, faaliyet izin belgesi yerine geçmez ve devredilemez.
 
 (5) Bakanlıktan ön izin belgesi alınmadan NDK’ye bu Yönetmelik kapsamındaki radyasyon kaynaklarıyla radyasyon onkolojisi hizmetlerinin yürütülmesi için yetkilendirme başvurusu yapılamaz.
 
-#### Başvuru, ruhsat veya faaliyet izin belgesi
+#### Başvuru ve faaliyet izin belgesi
 
-**MADDE 7 –** (1) Merkezler, Bakanlık tarafından düzenlenen faaliyet izin belgesi/ruhsat ile açılır.
+**MADDE 7 –** (1) Merkezler, Bakanlıkça düzenlenen faaliyet izin belgesi ile açılır.
 
-(2) Mesul müdür tarafından, faaliyet izin belgesi/ruhsat düzenlenmesi talebiyle Ek-2’de yer alan başvuru formu ve Ek-3’te yer alan belgeler ile müdürlüğe başvurulur.
+(2) Mesul müdür tarafından, faaliyet izin belgesi düzenlenmesi talebiyle Ek-2’de yer alan başvuru formu ve Ek-3’te yer alan belgeler ile Müdürlüğe başvurulur.
 
-(3) Dosyada eksiklik veya uygunsuzluk olmaması hâlinde, müdürlükçe oluşturulacak ekip tarafından Ek-7’ye göre faaliyet izin belgesi/ruhsata esas yerinde inceleme ve değerlendirme yapılır. İnceleme ve değerlendirmede eksiklik bulunmaması hâlinde, inceleme ve değerlendirme raporu ve başvuru dosyası Bakanlığa gönderilir.
+(3) Dosyada eksiklik veya uygunsuzluk olmaması halinde, Müdürlükçe oluşturulacak ekip tarafından Ek-6’ya göre faaliyet izin belgesine esas yerinde inceleme ve değerlendirme yapılır. İnceleme ve değerlendirmede eksiklik bulunmaması halinde, inceleme ve değerlendirme raporu ve başvuru dosyası Bakanlığa gönderilir.
 
-(4) Bakanlık tarafından incelenen faaliyet izin belgesi/ruhsat başvuru dosyasının uygun bulunması hâlinde, merkez adına Ek-4a’da yer alan radyasyon onkolojisi merkezi faaliyet izin belgesi/ruhsatı ile Ek-4b’de yer alan merkez sorumlusu belgesi düzenlenir ve müdürlüğe gönderilir. Mesleğini serbest olarak icra eden radyasyon onkolojisi uzmanı tarafından açılan merkezler için Ek-5’te yer alan mesul müdür belgesi müdürlükçe düzenlenir.
+(4) Bakanlıkça incelenen faaliyet izin belgesi başvuru dosyasının uygun bulunması halinde, merkez adına EK-4a’da yer alan radyasyon onkolojisi merkezi faaliyet izin belgesi ve EK-4b’de yer alan merkez sorumlusu belgesi düzenlenir ve Müdürlüğe gönderilir.
 
-(5) Düzenlenen belgelerin bir örneği ve başvuru dosyası müdürlük tarafından muhafaza edilir. Faaliyet izin belgesi/ruhsat, merkez sorumlusu belgesi ve mesul müdür belgesi aslı mesul müdüre imza karşılığında teslim edilir.
+(5) Düzenlenen belgelerin bir örneği ve başvuru dosyası Müdürlük tarafından muhafaza edilir. Faaliyet izin belgesi ile merkez sorumlusu belgesi aslı mesul müdüre imza karşılığında teslim edilir.
 
-(6) Ruhsatın/faaliyet izin belgesinin tanzim edilmesinden itibaren iki yıl içinde fiilen faaliyete geçmeyen merkezin ruhsatı/faaliyet izin belgesi iptal edilir.
+(6) Faaliyet izin belgesinin tanzim edilmesinden itibaren iki yıl içinde fiilen faaliyete geçmeyen merkezin faaliyet izin belgesi iptal edilir.
 
-(7) Doğal afet, genel salgın hastalık, kısmi veya genel seferberlik ilanı durumlarında merkezin faaliyeti en fazla beş yıl süreyle Bakanlığın kararı üzerine Valilikçe askıya alınabilir.
+#### Faaliyet izin belgesi yenileme
 
-#### Ruhsat veya faaliyet izin belgesi yenileme
+**MADDE 8 –** (1) Cihaz eklenmesi, taşınma, mekânsal tasarım değişikliği, cihaz çıkarılması, adres değişikliği veya kuruluş sahiplik değişikliği hallerinde faaliyet izin belgesi yenilenir.
 
-**MADDE 8 –** (1) Taşınma, mekânsal tasarım değişikliği, cihaz eklenmesi, cihaz çıkarılması, merkez adı değişikliği, adres değişikliği, merkez sahiplik değişikliği ile mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezin birleşme veya devri hâllerinde faaliyet izin belgesi/ruhsat yenilenir.
+(2) Cihazların eklenmesi, taşınması ve cihazların bulunduğu alanların mekansal tasarım değişikliği gibi radyasyon kaynaklarıyla faaliyet gösterilen radyasyon uygulamalarına yönelik olarak NDK tarafından yetki verilen koşullarda değişiklik olması halinde NDK’den gerekli yetkinin alınması için başvuruların yapılması zorunludur.
 
-(2) Mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezler, Bakanlıkça belirlenen planlama kriterlerine uygun olmak kaydıyla yalnızca bulunduğu il içinde taşınabilir. Mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanları tarafından açılan merkezlerin taşınmalarında, Bakanlık tarafından uygun görülmesi ve izin verilmesi kaydıyla taşınma işlemlerinin iki yıl içinde tamamlanması zorunludur. Bu süre içerisinde merkez, faaliyetine mevcut kapasitesi ile devam edebilir veya faaliyetini askıya alabilir ve müdürlüğe tebligat adresi bildirerek merkez binasını boşaltabilir.
+(3) Birinci fıkrada belirtilen koşulların gerçekleşmesi halinde, EK-2’ye uygun olarak faaliyet izin belgesi başvuru formu ve EK-3’te yer alan ilgili belgelerle birlikte Müdürlüğe başvuru yapılır. Müdürlükçe oluşturulacak ekip tarafından EK-6’ya göre faaliyet izin belgesine esas yerinde inceleme ve değerlendirme yapılır. İnceleme ve değerlendirme raporu ile başvuru dosyası Bakanlığa gönderilir. Başvurunun uygun bulunması halinde faaliyet izin belgesi yenilenir.
 
-(3) Cihaz eklenmesi, mekânsal tasarım değişikliği ve radyasyon onkolojisi uzmanları tarafından açılan merkezin taşınma durumlarında Bakanlıktan izin alınması zorunludur. Bakanlık tarafından izin verilmesi hâlinde, Ek-2’ye uygun olarak ruhsat veya faaliyet izin belgesi başvuru formu ve Ek-3’te yer alan ilgili belgelerle birlikte müdürlüğe başvuru yapılır. Müdürlükçe oluşturulacak inceleme ve değerlendirme ekibi tarafından Ek-7’ye göre ruhsata, faaliyet izin belgesine veya izin belgesine esas yerinde inceleme ve değerlendirme yapılır. İnceleme ve değerlendirmede eksiklik bulunmaması hâlinde, inceleme ve değerlendirme raporu ve başvuru dosyası Bakanlığa gönderilir. Başvurunun uygun bulunması hâlinde ruhsat veya faaliyet izin belgesi yenilenir.
-
-(4) Cihaz çıkarılması, adres değişikliği ve merkez adı değişikliği ve merkez sahipliği değişikliği durumlarında, Ek-2’ye uygun olarak faaliyet izin belgesi/ruhsat başvuru formu ve Ek-3’te yer alan ilgili belgelerle birlikte müdürlüğe başvuru yapılır. Müdürlük tarafından dosyada eksiklik bulunmadığının tespit edilmesi üzerine başvuru dosyası Bakanlığa gönderilir. Başvurunun uygun bulunması hâlinde faaliyet izin belgesi/ruhsat yenilenir.
-
-(5) Cihazların eklenmesi, taşınması ve cihazların bulunduğu alanların mekânsal tasarım değişikliği gibi radyasyon kaynaklarıyla faaliyet gösterilen radyasyon uygulamalarına yönelik olarak NDK tarafından yetki verilen koşullarda değişiklik olması hâlinde NDK’den gerekli yetkinin alınması için başvuruların yapılması zorunludur.
-
-#### Merkezlerin birleşmesi ve devri
-
-**MADDE 9 –** (1) Mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkez Bakanlıkça belirlenen planlama kriterlerine uygun olmak kaydıyla yalnızca aynı il içinde bulunan özel hastane veya mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan bir başka merkez ile birleşebilir. Birleşen merkezin ruhsatı iptal edilerek birleştiği sağlık tesisine ait varsa faaliyet izin belgesine/ruhsata eklenir. Birleşilen merkeze ait faaliyet izin belgesi/ruhsat bulunmaması hâlinde, yeni faaliyet izin belgesi/ruhsat düzenlenir. Birleşen merkez ruhsatı ayrılamaz.
-
-(2) Mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezlerin birleşme veya devrinde; birleşme/devir sözleşmesi imzalanmadan önce Bakanlıktan izin alınması zorunludur. Bakanlık tarafından uygun görülmesi hâlinde, Ek-2’ye uygun olarak ruhsat başvuru formu ve Ek-3’te yer alan ilgili belgelerle birlikte müdürlüğe başvuru yapılır. Müdürlük tarafından dosyada eksiklik bulunmaması hâlinde başvuru dosyası Bakanlığa gönderilir. Başvurunun uygun bulunması hâlinde ruhsat yenilenir.
-
-(3) Bu madde kapsamında devredilen merkezin incelenmesi ve değerlendirilmesi sırasında tespit edilen eksiklik ve uygunsuzluklardan dolayı devralan, devredenin sorumluluklarını da almış sayılır. Denetim sırasında tespit edilen eksiklik veya uygunsuzluklardan dolayı devredene verilen süre, devralanın talebi hâlinde yeniden verilir. Sağlık tesisinin faaliyetinin durdurulması hâlinde devralan, faaliyet durdurma süresinin tamamlanmasını beklemek zorundadır.
-
-(4) Merkezin devir işlemlerinde devralan adına Bakanlık tarafından faaliyet izin belgesi/ruhsat düzenleninceye kadar eski sahipliğinde ve mesul müdürünün sorumluluğunda merkez faaliyetine devam edebilir.
-
-(5) Mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanları tarafından açılan ve ruhsatı askıda olan merkezlerin ruhsatları askı süresince sadece bir kez devredilebilir.
+(4) Cihaz çıkarılması, adres değişikliği ve kuruluş sahipliği değişikliği durumlarında, EK-2’ye uygun olarak faaliyet izin belgesi başvuru formu ve EK-3’te yer alan ilgili belgelerle birlikte Müdürlüğe başvuru yapılır. Müdürlük tarafından dosyada eksiklik bulunmadığının tespit edilmesi üzerine başvuru dosyası Bakanlığa gönderilir. Başvurunun uygun bulunması halinde faaliyet izin belgesi yenilenir.
 
 #### Merkezlerin çalışma esasları
 
-**MADDE 10 –** (1) Merkezlerde Bakanlık tarafından kabul edilmiş ulusal ve uluslararası standartlara uygun yöntemler kullanılarak çalışılması esastır.
+**MADDE 9 –** (1) Merkezlerde Bakanlıkça kabul edilmiş ulusal ve uluslararası standartlara uygun yöntemler kullanılarak çalışılması esastır.
 
-(2) Radyasyon onkolojisi hizmetlerinin yeni teknoloji ürünü radyasyon kaynaklarıyla yürütülmek istenmesi ve ulusal veya uluslararası yöntem bulunmaması durumunda merkez tarafından radyasyon güvenliği açısından NDK’den uygun görüş alınarak gerekçelendirmesi ile birlikte Bakanlığa başvuru yapılır. Bakanlık tarafından uygun görülen yöntem merkez tarafından kullanılabilir.
+(2) Radyasyon onkolojisi hizmetlerinin yürütülmesinde ulusal veya uluslararası yöntem bulunmadığında veya bu hizmetlerin yeni teknoloji ürünü radyasyon kaynaklarıyla yürütülmesi durumunda radyasyon uygulamalarına yönelik gerekçelendirilmesi yapılan, radyasyon güvenliği açısından NDK’den uygun görüş alınan ve bilimsel geçerliliği Bakanlıkça uygun görülen yöntemler kullanılır.
 
-(3) Radyasyon uygulamalarını yürütmek için NDK’den gerekli yetkilerin alınması zorunludur.
+(3) Merkezde radyasyon uygulamalarını yürütmek için NDK’den gerekli yetkilerin alınması zorunludur.
 
-(4) Radyasyon uygulamaları; radyasyondan korunmanın, radyasyon güvenliğinin ve radyoaktif kaynakların emniyetinin teminine ilişkin NDK tarafından belirlenen düzenlemelere uygun olarak yürütülür. Bu kapsamda NDK tarafından uygun bulunan radyasyondan korunma programının uygulanması sağlanır.
+(4) Merkezde radyasyondan korunmanın, radyasyon güvenliğinin ve radyoaktif kaynakların emniyetinin teminine ilişkin NDK tarafından çıkarılan mevzuat kapsamında radyasyon uygulamaları yürütülür. Bu kapsamda NDK tarafından uygun bulunan radyasyondan korunma programının uygulanması sağlanır.
 
 (5) Merkezde radyasyonla çalışan personelin NDK tarafından belirlenen doz sınırları altında olmak üzere mümkün olan en düşük düzeyde radyasyona maruz kalınması için gerekli önlemlerin alınması sağlanır.
 
@@ -198,7 +182,7 @@ d) Hibrit tedavi sistemleri.
 
 (7) Personelin sağlığı ve iş güvenliği ile radyasyondan korunmasını sağlamak için işin niteliğine uygun koruyucu giysi ve teçhizatın eksiksiz olarak bulundurulması, kullanılması ve uygun şartlarda muhafaza edilmesi sağlanır.
 
-(8) Merkezde uygun dedektöre sahip, geçerli kalibrasyon sertifikası olan radyasyon ölçüm cihazı ile radyasyon ölçümü yapılması, ölçüm sonuçlarının kayıt altına alınması ve radyasyon ölçüm cihazlarının kalibrasyonlarının belirlenen periyotlarda ilgili mevzuat kapsamında yaptırılması sağlanır. Radyasyon ölçümleri için uygun cihazların temin edilmesi, bakımlarının yapılarak çalışır halde bulundurulması ve çalışmalarda kullanılması, kalibrasyonlarının düzenli olarak alanında akredite edilmiş olan ve varsa NDK tarafından belirlenen ek şartları sağlayan kuruluşlardan yapılması sağlanır.
+(8) Merkezde uygun dedektöre sahip, geçerli kalibrasyon sertifikası olan radyasyon ölçüm cihazı ile radyasyon ölçümü yapılması, ölçüm sonuçlarının kayıt altına alınması ve radyasyon ölçüm cihazlarının kalibrasyonlarının belirlenen periyotlarda ilgili mevzuat kapsamında yaptırılması sağlanır. Radyasyon ölçümleri için uygun cihazların temin edilmesi, bakımlarının yapılarak çalışır halde bulundurulması ve çalışmalarda kullanılması, kalibrasyonlarının düzenli olarak metrolojik izlenebilirlik zincirinde Uluslararası Atom Enerjisi Ajansı/Dünya Sağlık Örgütü İkincil Standart Dozimetri Laboratuvarları Ağına üye olan ikincil standart dozimetri laboratuvarlarında yapılması sağlanır.
 
 (9) Merkezde ilaçların ve radyoaktif maddelerin yanlış kullanılmasına ve tahrip edilmesine karşı gerekli önlemler alınır.
 
@@ -208,87 +192,57 @@ d) Hibrit tedavi sistemleri.
 
 (12) Radyasyondan korunma sorumlusunun bilgisi olmadan radyasyon kaynakları ile çalışanlar hariç kontrollü ve gözetimli alanlara giriş yapılamaz.
 
-(13) Merkezde cihaz odalarının havalandırılması ilgili mevzuata uygun şekilde yapılır.
+(13) Radyasyon onkolojisi merkezlerinde cihaz odalarının havalandırmaları, hava değiştirme ve temiz hava verme havalandırma tertibatı sağlanması amacıyla ilgili mevzuata uygun havalandırma sistemi kurulur.
 
-(14) Merkezde ruhsata/faaliyet izin belgesine esas tıbbi cihaz envanteri ve her bir cihaz için cihaz yönetim dosyası bulundurulur.
+(14) Merkezde faaliyet izin belgesine esas tıbbi cihaz envanteri ve her bir cihaz için cihaz yönetim dosyası bulundurulur.
 
 (15) Radyasyon onkolojisi hizmetlerine ait simülasyon işlemlerinde veya uygulama formlarında; uygulanan radyoopak/radyoaktif madde ve uygulama dozu, çekim protokolü ve saati ile diğer tıbbi bilgiler yer alır.
 
-(16) Adlî vakalara ve adlî raporlara ait kayıtların gizliliği ve güvenliği açısından, vakayı takip eden hekim haricinde vaka hakkında veri girişi veya adlî raporu tanzim eden hekim onayından sonra raporda değişiklik yapılamaması için gerekli tedbirler alınır. Adlî vaka kayıtlarına, mesul müdür veya yetkilendirdiği kişiler ile merkez sorumlusu erişebilir. Adlî kayıt veya raporların resmî mercilerden istenmesi hâlinde, yeni çıktı alınarak suret olduğu belirtilir ve tasdiklenir. Bu raporlar ile ilgili sorumluluk, merkez sorumlusu ve mesul müdüre aittir.
+(16) Adlî vakalara ve adlî raporlara ait kayıtların gizliliği ve güvenliği açısından, vakayı takip eden tabip haricinde vaka hakkında veri girişi veya adlî raporu tanzim eden tabibin onayından sonra raporda değişiklik yapılamaması için gerekli tedbirler alınır. Adlî vaka kayıtlarına, mesul müdür veya yetkilendirdiği kişiler ile merkez sorumlusu erişebilir. Adlî kayıt veya raporların resmî mercilerden istenmesi halinde, yeni çıktı alınarak suret olduğu belirtilir ve tasdiklenir. Bu raporlar ile ilgili sorumluluk, merkez sorumlusu ve mesul müdüre aittir.
 
 (17) Merkezde bulunan cihazlar, radyasyon onkolojisi alanında eğitim alması gereken sağlık meslek mensuplarının yetiştirilmesi amacıyla ilgili mevzuat uyarınca ilave önlemler alınarak kullanılabilir.
 
-(18) Tıbbi ışınlanmaların, teşhis ve tedaviyi gerçekleştiren hekim tarafından alternatif tekniklerle karşılaştırılarak ve radyasyonla yapılacak teşhis ve tedavinin hastada oluşturabileceği zararlı etkiler ile faydalar göz önünde bulundurularak gerekçelendirilmesi esastır.
+(18) Tıbbi ışınlanmaların, teşhis ve tedaviyi gerçekleştiren hekim tarafından alternatif tekniklerle karşılaştırılarak, radyasyonla yapılacak teşhis ve tedavinin hastada oluşturabileceği zararlı etkilere karşılık sağlayacağı fayda göz önünde bulundurularak gerekçelendirilmesi esastır.
 
 (19) Merkeze ait atıkların yönetimi, tıbbi atıkların kontrolüne ve radyoaktif atıkların yönetimine ilişkin mevzuata uygun olarak gerçekleştirilir.
 
-(20) Merkez, ilgili mevzuat hükümlerine göre uluslararası sağlık turizmi yetki belgesi alarak uluslararası sağlık turizmi faaliyeti gösterebilir.
-
 ### ÜÇÜNCÜ BÖLÜM
 
-**Personel Durumu**
+Personel Durumu
 
 #### Genel esaslar
 
-**MADDE 11 –** (1) Merkezlerde merkez sorumlusu tam zamanlı olarak görev yapar.
+**MADDE 10 –** (1) Merkezlerde adına faaliyet izin belgesi düzenlenen merkez sorumlusu tam zamanlı olarak görev yapar.
 
-(2) Merkez sorumlusu aynı ilde olmak şartıyla bir başka merkezde de merkez sorumlusu görevi üstlenmeden çalışabilir. Merkez sorumlusu dışındaki radyasyon onkolojisi uzmanları aynı ilde olmak şartıyla en fazla iki merkezde çalışabilir.
+(2) Kesintisiz sağlık hizmeti sunulan özel sağlık kuruluşları bünyesindeki merkezlerde merkez sorumlusu olarak çalışan hekim başka bir özel sağlık kuruluşunda çalışamaz.
 
-(3) Merkez sorumlusunun izin alması veya hastalık durumlarında, merkezde birden fazla radyasyon onkolojisi uzmanı varsa bu uzman hekimlerden birinin merkez sorumlusuna vekâlet etmesine müdürlük tarafından izin verilir.
+(3) Merkez sorumlusunun izin alması veya hastalık durumlarında, merkezde birden fazla radyasyon onkolojisi uzmanı varsa bu uzman hekimlerden birinin merkez sorumlusuna vekâlet etmesine Müdürlük tarafından izin verilir.
 
-(4) Özel sağlık tesisleri bünyesindeki merkezlerde Bakanlık tarafından izin verilmesi kaydıyla Türkiye’de çalışma izni almış yabancı hekim ve hekim dışı sağlık meslek mensubu çalışabilir. Ancak bu şekilde verilecek izin, sağlık tesisine planlama kapsamında cihaz ekleme veya radyoaktif kaynak uygulama hakkı vermez.
+(4) Radyasyon onkolojisi merkezlerinde en az bir sağlık fizikçisi ve en az iki radyoterapi teknikeri görevlendirilir.
 
-(5) 60 yaşını dolduran radyasyon onkolojisi uzmanları ile engellilik oranı en az yüzde 60 olan radyasyon onkolojisi uzmanları merkezlerde kadro şartı aranmaksızın aynı ilde olmak koşuluyla iki özel sağlık tesisinde çalışabilir. Kadro dışı geçici çalışma hakkı radyasyon onkolojisi uzmanlarına yönelik bir hak olup sağlık tesisine müktesep kadro hakkı vermez. Kadro dışı geçici çalışma gün ve saatleri, sağlık tesisiyle yapılan sözleşmede açıkça belirtilir.
+(5) Merkezde NDK tarafından belirlenmiş nitelikleri taşıyan, mesul müdür tarafından en az bir kişi radyasyondan korunma sorumlusu olarak görevlendirilir ve bu kişi sadece bir merkezde bu görevi yürütür.
 
-(6) Bakanlık tarafından verilen kadrolar, kadro devri yoluyla devredilemez. Ancak sağlık tesislerinin devri ve birleşmeleri istisnadır.
+(6) Merkezin sağlık kurum/kuruluş bünyesinde açılabilmesi için kurumun/kuruluşun uzmanlık dalları arasında en az bir radyasyon onkolojisi uzman kadrosu bulunması zorunludur.
 
-(7) Ücretli veya ücretsiz izinli sayılarak yurt dışına gönderilen kamu görevlisi radyasyon onkolojisi uzmanları ile ilgili mevzuattan kaynaklanan yükümlülükleri bulunanlar hariç olmak üzere yurt dışında en az iki yıl süreyle mesleğini icra eden radyasyon onkolojisi uzmanları, yurt dışından döndükten sonra Türkiye’de çalışmak üzere tercih edecekleri planlama kapsamındaki mevcut merkezlerde bir kereye mahsus olmak üzere planlamadan istisna tutularak kadro dışı geçici olarak çalışabilir.
-
-(8) Merkezlerde en az bir sağlık fizikçisi ve en az iki radyoterapi teknikeri görevlendirilir.
-
-(9) Merkezde NDK tarafından belirlenmiş nitelikleri taşıyan en az bir kişi mesul müdür tarafından radyasyondan korunma sorumlusu olarak görevlendirilir ve bu kişi sadece bir merkezde bu görevi yürütür.
-
-(10) Merkezin sağlık tesisi bünyesinde açılabilmesi için sağlık tesisinin uzmanlık dalları arasında en az bir radyasyon onkolojisi uzman kadrosu bulunması zorunludur.
-
-(11) Radyasyon kaynakları ile çalışacak personelin çalışma şekli, 3153 sayılı Kanunda öngörülen çalışma süresini aşmamak kaydıyla, hizmetin etkinlik ve sürekliliğinin sağlanması bakımından vardiya veya nöbet şeklinde düzenlenebilir.
+(7) Radyasyon kaynakları ile çalışacak personelin çalışma şekli, 3153 sayılı Kanunda öngörülen çalışma süresini aşmamak kaydıyla, hizmetin etkinlik ve sürekliliğinin sağlanması bakımından vardiya veya nöbet şeklinde düzenlenebilir.
 
 #### Personelin görev ve sorumlulukları
 
-**MADDE 12 –** (1) Mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanları tarafından açılan merkezlerde mesul müdür olarak görevlendirilecek kişilerin aşağıdaki nitelikleri taşıması şarttır:
+**MADDE 11 –** (1) Mesul müdür, merkezin faaliyeti, inceleme ve değerlendirme ile ilgili her türlü işlemde Bakanlığın birinci derecede muhatabıdır. Mesul müdürün görev, yetki ve sorumlulukları şunlardır:
 
-a) 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun uyarınca Türkiye’de mesleğini yapma hak ve yetkisine sahip olmak.
+a) Özel sağlık kurum ve kuruluşu bünyesinde çalışan/çalışacak olan sağlık meslek mensubuna Ek-5’te yer alan çalışma belgesi düzenlenmesi için Müdürlüğe başvurmak.
 
-b) Türk vatandaşı olmak.
-
-c) Mesleğini sadece mesul müdürlük yaptığı sağlık tesisinde serbest olarak yürütmek ve muayenehane de dahil olmak üzere, başka bir sağlık tesisinde çalışmamak.
-
-(2) Mesul müdür, merkezin faaliyeti, inceleme ve değerlendirme ile ilgili her türlü işlemde Bakanlığın birinci derecede muhatabıdır. Mesul müdürün görev, yetki ve sorumlulukları şunlardır:
-
-a) Özel sağlık tesisi bünyesinde çalışacak olan sağlık meslek mensubuna Ek-6’da yer alan çalışma belgesi düzenlenmesi için müdürlüğe başvurmak.
-
-b) Herhangi bir sebeple görevinden ayrılan sağlık meslek mensubunun çalışma belgesini en geç beş iş günü içerisinde müdürlüğe iade etmek.
+b) Herhangi bir sebeple görevinden ayrılan sağlık meslek mensubunun çalışma belgesini en geç beş iş günü içerisinde Müdürlüğe iade etmek.
 
 c) Merkeze ait verilerin Bakanlığa gönderilmesini sağlamak.
 
-ç) Merkezin faaliyetleri sırasında, faaliyet izin belgesi/ruhsat veya yetki koşullarında meydana gelen değişikliklerin olması durumunda müdürlüğe bildirim yapılmasını ve yetkilendirmeye ilişkin işlemler için NDK’ye başvurulmasını sağlamak.
+ç) Merkezin faaliyetleri sırasında, faaliyet izin belgesi veya yetki koşullarında meydana gelen değişikliklerin olması durumunda Müdürlüğe bildirim yapılmasını ve yetkilendirmeye ilişkin işlemler için NDK’ye başvurulmasını sağlamak.
 
 d) Merkezde radyasyondan korunma sorumlusu görevlendirmek.
 
-e) Herhangi bir sebeple belirli bir süreyle merkez sorumlusunun görevinden ayrılması durumunda, merkezde çalışan diğer bir radyasyon onkolojisi uzmanını, merkez sorumlusunun görevlerini yürütmek üzere en geç beş iş günü içerisinde müdürlüğe bildirmek.
+e) Herhangi bir sebeple belirli bir süreyle merkez sorumlusunun görevinden ayrılması durumunda, merkezde çalışan diğer bir radyasyon onkolojisi uzmanını, merkez sorumlusunun görevlerini yürütmek üzere en geç beş iş günü içerisinde Müdürlüğe bildirmek.
 
-f) Bu Yönetmelikte ve iç hizmet işleyişinde tanımlanmış altyapı ve hizmet kalite standartlarının korunmasını ve sürdürülmesini sağlamak.
-
-g) Bu Yönetmeliğe, tâbi olunan diğer ilgili mevzuata ve merkezin iç işleyişi konusunda hazırlanıp çalışanlara duyurulan düzenlemelere, personel tarafından uyulmasını sağlamak ve bunun için gerekli iç denetimleri yürütmek.
-
-ğ) Faaliyet izin belgesi/ruhsata esas yerinde inceleme ve değerlendirmeler ile denetimler sırasında yetkililere gereken bilgi ve belgeleri sunmak.
-
-h) Merkez çalışanlarının iş sağlığı ve güvenliği kapsamında bulaşıcı hastalıklar yönünden gerekli görülen tetkiklerini ve muayenelerini yılda en az bir defa yaptırmak.
-
-ı) Mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanları tarafından açılan merkezin ortaklık yapısında meydana gelen değişiklikleri on beş iş günü içinde müdürlüğe bildirmek.
-
-i) Merkezin faaliyeti ile ilgili her türlü idari işlemleri yürütmek.
-
-(3) Merkez sorumlusunun görevleri şunlardır:
+(2) Merkez sorumlusunun görevleri şunlardır:
 
 a) Radyasyon kaynaklarına ilişkin faaliyetlerin, radyasyondan korunma, radyasyon güvenliği, radyoaktif kaynakların emniyetinin temini konusunda NDK mevzuatına ve NDK tarafından belirlenen yetki koşullarına uygun olarak yürütülmesini sağlamak.
 
@@ -296,166 +250,150 @@ b) Merkezin ihtiyaçlarını tespit etmek ve hizmetlerin maliyet etkin yürütü
 
 c) Merkezde faaliyetlerin mevzuata uygun yürütülmesini sağlamak ve bu faaliyetlerin yürütülmesi için iş bölümü yapmak.
 
-ç) Bakanlık tarafından belirlenen kalite standartlarına uygun çalışılmasını sağlamak ve gerekli düzeltici, önleyici faaliyetleri yapmak ya da yaptırmak.
+ç) Bakanlıkça belirlenen kalite standartlarına uygun çalışılmasını sağlamak ve gerekli düzeltici, önleyici faaliyetleri yapmak ya da yaptırmak.
 
-d) Tıbbi görüntüleme teknisyenine/teknikerine, sağlık fizikçisine ve radyoterapi teknikerine kalite kontrol ve standartları ile cihazların bakım ve kalibrasyonları konusunda eğitim vermek veya eğitim almalarını sağlamak.
+d) Tıbbi görüntüleme teknisyenine/teknikerine ve sağlık fizikçisine veya radyoterapi teknikerine kalite kontrol ve standartları ile cihazların bakım ve kalibrasyonları konusunda eğitim vermek veya eğitim almalarını sağlamak.
 
 e) Personelin mesleki becerilerinin geliştirilmesini, radyasyondan korunma ve radyasyon güvenliğinin sağlanması ile radyasyon acil durumlarının yönetimine ilişkin NDK tarafından belirlenen gerekliliklerin yerine getirilmesini, teknolojik gelişmelerden haberdar olmasını ve hizmet standartlarını yerine getirmesini sağlamak amacıyla yılda en az bir hizmet içi eğitime katılımını sağlamak.
 
 f) Merkezde yapılan işlemlere ait tetkik ve tedavi protokollerini belirlemek, tedavi verilen hastaların takiplerini yapmak ve ilgili çalışanlara eğitim vermek veya verilmesini sağlamak.
 
-g) Tıpta uzmanlık eğitimi veren kurumlarda radyasyon onkolojisi uzmanlık eğitimi ile ilgili faaliyetleri, eğitim sorumlusunun gözetiminde yürütmek.
+g) Tıpta uzmanlık eğitimi veren kurumlarda radyasyon onkolojisi uzmanlık eğitimi ile ilgili faaliyetleri eğitim sorumlusunun gözetiminde yürütmek.
 
 ğ) Cihazların yapılması gereken test, kontrol ve kalibrasyonlarını, kalite kontrol testlerini ve kalite uygunluk testlerini ilgili mevzuat hükümleri doğrultusunda yaptırmak, sonuçları değerlendirmek ve kayıt altına almak.
 
-h) Veri girişlerini Bakanlık tarafından belirlenen sistem üzerinden zamanında yapmak veya yaptırmak.
+h) Merkezin faaliyetleri ile ilgili verilerin Bakanlıkça belirlenen sistem üzerinden girişlerini zamanında yapmak veya yaptırmak.
 
-ı) Simülasyon işlemlerini ve uygulama formlarını hazırlamak.
+ı) Radyasyon onkolojisi merkezlerinde simülasyon işlemlerini ve uygulama formlarını hazırlamak.
 
 i) Radyasyon kaynakları ile çalışanlar için merkezde bulunan tedavi, simülasyon, dozimetrik, tedavi planlama sistemi, hasta yönetim sistemi, cihazlar ve ekipmanların kullanımı, kalite kontrolü, kalibrasyonu konularında gerekli eğitimleri aldırmak.
 
-j) Radyasyon ölçümleri için uygun cihazların kalibrasyonlarının ve bakımlarının düzenli olarak yapılmasını ve çalışır halde bulundurulmasını sağlamak.
+j) Radyasyon ölçümleri için uygun cihazların kalibrasyonlarının düzenli olarak yapılmasını, bakımlarının yapılarak çalışır halde bulundurulmasını sağlamak.
 
 k) Radyasyon kaynaklarının bakım ve onarımına ilişkin programların yürütülmesini sağlamak.
 
-(4) Radyasyondan korunma sorumlusunun iş ve görev tanımları NDK’nin ilgili mevzuat hükümleri doğrultusunda yürütülür.
+(3) Radyasyondan korunma sorumlusu olarak görev yapacak personelin sorumlulukları için NDK’nın ilgili mevzuat hükümleri uygulanır.
 
-(5) Merkezlerde çalışan personel gerekli hâllerde sağlık tesisinde planlamalar yapılarak eğitim verilen merkezlere görevlendirilebilir.
+(4) Merkezlerde çalışan personel gerekli hallerde sağlık kurum ve kuruluşunda planlamalar yapılarak eğitim verilen merkezlere görevlendirilebilir.
 
-(6) Bakanlığa ait merkezlerde görevli radyasyon onkolojisi uzmanlarından biri, hizmetin devamlılığı açısından Bakanlığa ait başka bir merkeze geçici olarak müdürlükçe görevlendirilebilir.
-
-(7) Merkezde görev yapan sağlık çalışanları, hizmetlerine uygun önlük veya üniforma giymek zorundadırlar. Merkezde görev yapan bütün personelin yakasına; personelin adını, soyadını, mesleğini ve ünvanını belirten ve mesul müdürlükçe onaylanmış olan fotoğraflı bir kimlik kartı takması şarttır. Kimlik kartlarının, Bakanlığın elektronik sistemi ile uyumlu karekod içermesi zorunludur.
+(5) Bakanlığa ait merkezlerde görevli radyasyon onkolojisi uzmanlarından biri, hizmetin devamlılığı açısından Bakanlığa ait başka bir merkeze geçici olarak Müdürlükçe görevlendirilebilir.
 
 #### Radyasyon doz sınırları
 
-**MADDE 13 –** (1) Bu Yönetmeliğe uygun olarak kontrollü alanlarda iyonlaştırıcı radyasyon kaynakları ile çalışan personel, kişisel dozimetre kullanmak zorundadır.
+**MADDE 12 –** (1) Bu Yönetmeliğe uygun olarak kontrollü alanlarda iyonlaştırıcı radyasyon kaynakları ile çalışan personel, kişisel dozimetre kullanmak zorundadır.
 
-(2) Radyasyon doz sınırları ile ilgili hususlarda NDK tarafından yapılan düzenlemeler esas alınır.
+(2) Radyasyonla çalışanlar için etkin doz sınırı yıllık 20 mSv’tir. Ancak ardışık beş yılın ortalaması 20 mSv’i geçmemek üzere tek bir yılda en fazla 50 mSv’e kadar izin verilebilir.
 
-(3) Kişisel dozimetri hizmeti, bu hizmeti vermek üzere NDK tarafından yetkilendirilen kuruluşlardan alınır.
+(3) El, kol, ayak ve cilt için yıllık eşdeğer doz sınırı 500 mSv, göz merceği için ardışık beş yılın ortalaması 20 mSv’i geçmemek üzere tek bir yılda en fazla 50 mSv’dir.
 
-(4) Kişisel dozimetre sonuçları NDK bünyesindeki Ulusal Merkezi Doz Kayıt Sistemine gönderilir.
+(4) 18 yaşını doldurmamış olanlar radyasyon kaynağı ile çalışılan işlerde görev alamazlar. Eğitim amaçlı olmak kaydıyla, eğitimleri radyasyon kaynaklarının kullanılmasını gerektiren 16-18 yaş arası stajyer ve öğrenciler bu eğitimlerini sadece kontrollü alan dışında kalan alanlarda alabilir. Mesleki eğitimleri gereği radyasyon kaynağı ile çalışması zorunlu 16 ile 18 yaş arasındaki stajyerler ve öğrenciler için etkin doz sınırı yıllık 6 mSv’tir. Bu doz sınırı geçerli olmak koşuluyla, yıllık eşdeğer doz sınırları göz merceği için 20 mSv; el, kol, ayak ve cilt için 150 mSv’tir.
 
-(5) Kişisel dozimetre sonuçlarında doz sınırlarının aşıldığının tespit edilmesi hâlinde kişisel dozimetri hizmeti alınan kuruluş tarafından derhal merkeze bildirimde bulunulur.
+(5) Hamilelik şüphesi olan, hamile veya emziren personelin çalışma koşulları; embriyonun, fetüsün veya emzirilen çocuğun radyasyondan korunmasını sağlayacak ve halk için belirlenen doz sınırlarına uyulacak şekilde yeniden düzenlenir. Çalışma koşulları hamilelik şüphesi olan ve hamile personel için hamileliğinin geri kalan süresinde radyasyon alanlarında çalışmayacak şekilde, emzirme döneminde olan personel için radyoaktif kirlilik riski bulunan radyasyon alanlarında çalışmayacak şekilde düzenlenir.
 
-(6) Kişisel dozimetre sonuçlarında NDK tarafından belirlenen radyasyon doz sınırlarının aşılması durumunda merkez sorumlusu ve radyasyondan korunma sorumlusu sorunun kaynağını inceleyip değerlendirir, varsa eksiklik ve aksaklıkların düzeltilmesi için gerekli tedbirleri alır ve NDK mevzuatı kapsamında işlem yapılır.
+(6) Yıllık doz sınırları ile ilgili hususlarda NDK tarafından yapılan düzenlemeler esas alınır.
 
-(7) Hamilelik şüphesi olan, hamile veya emziren personelin çalışma koşulları; embriyonun, fetüsün veya emzirilen çocuğun radyasyondan korunmasını sağlayacak ve halk için belirlenen doz sınırlarına uyulacak şekilde düzenlenir. Çalışma koşulları hamilelik şüphesi olan ve hamile personel için hamileliğinin geri kalan süresinde radyasyon alanlarında çalışmayacak şekilde, emzirme döneminde olan personel için radyoaktif kirlilik riski bulunan radyasyon alanlarında çalışmayacak şekilde düzenlenir.
+(7) Kişisel dozimetri hizmeti, bu hizmeti vermek üzere NDK tarafından yetkilendirilen kuruluşlardan alınır.
+
+(8) Kişisel dozimetre sonuçları NDK bünyesindeki Ulusal Merkezi Doz Kayıt Sistemine gönderilir.
+
+(9) Kişisel dozimetre sonuçlarında doz sınırlarının aşıldığının tespit edilmesi halinde kişisel dozimetri hizmeti alınan kuruluş tarafından derhal merkeze bildirimde bulunulur.
+
+(10) Kişisel dozimetre sonuçlarında aylık 2 mSv değerinin aşılması durumunda merkez sorumlusu ve radyasyondan korunma sorumlusu sorunun kaynağını inceleyip değerlendirir, varsa eksiklik ve aksaklıkların düzeltilmesi için gerekli tedbirleri alır ve NDK mevzuatı kapsamında işlem yapılır.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-**Denetim ve Yaptırım, Yasaklar**
+Denetim ve Yaptırım, Yasaklar
 
 #### Denetim ve yaptırım
 
-**MADDE 14 –** (1) Merkezler, 17/11/2023 tarihli ve 32372 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Tesislerinin Denetimi hakkında Yönetmelik hükümlerine uygun olarak Ek-8’de yer alan Radyasyon Onkolojisi Merkezleri Denetim Sorgu ve İdari Yaptırım Formunda belirlenen kriterlere göre denetlenir.
+**MADDE 13 –** (1) Faaliyet izin belgesi verilen merkezler Bakanlık veya Müdürlükçe yapılacak olağan dışı denetimler hariç, Müdürlük tarafından Ek-7’de yer alan Denetim Sorgu ve İdari Yaptırım Uygulama Formunda belirtilen kriterlere göre yılda en az bir defa denetlenir. Denetim ekibi, en az bir radyasyon onkolojisi uzmanı olmak üzere en az üç kişiden oluşur. İlde görevlendirilebilecek radyasyon onkolojisi uzmanı bulunmaması halinde Bakanlıkça radyasyon onkolojisi uzmanı görevlendirmesi yapılarak denetim ekibi oluşturulabilir.
 
-(2) Denetim ekibi, biri radyasyon onkolojisi uzmanı olmak üzere en az üç kişiden oluşur. İlde görevlendirilebilecek radyasyon onkolojisi uzmanı bulunmaması hâlinde, Bakanlık tarafından radyasyon onkolojisi uzmanı görevlendirmesi yapılarak denetim ekibi oluşturulabilir.
-
-(3) Özel hukuk tüzel kişileri tarafından açılan merkezler hakkında, bu Yönetmeliğe aykırılık tespit edilmesi hâlinde, Ek-8’de yer alan Radyasyon Onkolojisi Merkezleri Denetim Sorgu ve İdari Yaptırım Formunda belirlenen yaptırımlar uygulanır.
-
-(4) Kamu kurum ve kuruluşları tarafından açılan merkezlerde, bu Yönetmeliğe aykırılık tespit edilmesi hâlinde, kasıt, ihmal veya kusur şüphesi bulunanlar hakkında ilgili mevzuata göre disiplin hükümleri uygulanır.
+(2) Kamu kurum ve kuruluşları tarafından açılan merkezlerde, bu Yönetmeliğe aykırılık tespit edilmesi hâlinde, kasıt, ihmal veya kusur şüphesi bulunan ilgililer hakkında ilgili mevzuata göre disiplin hükümleri uygulanır. Özel hukuk tüzel kişileri tarafından açılan merkezler hakkında, bu Yönetmeliğe aykırılık tespit edilmesi hâlinde, Ek-7’de yer alan Denetim Sorgu ve İdari Yaptırım Uygulama Formunda belirlenen yaptırımlar uygulanır.
 
 #### Yasaklar
 
-**MADDE 15 –** (1) Aşağıdaki durumlarda merkez/cihazın faaliyeti durdurulur, faaliyet izin belgesi/ruhsat iptal edilir:
+**MADDE 14 –** (1) Aşağıdaki durumlarda merkezin faaliyeti durdurulur, faaliyet izin belgesi iptal edilir:
 
-a) NDK tarafından verilen lisansın sona ermesi, askıya alınması, kısıtlanması, sonlandırılması veya iptali hâlinde en geç beş iş günü içinde müdürlüğe bilgi verilir ve söz konusu cihazın faaliyeti durdurulur. Üç aya kadar merkezin NDK mevzuatına uygun olarak gerekli işlemleri gerçekleştirememesi ve NDK’den lisans alamaması hâlinde, ilgili cihaz ruhsattan/faaliyet izin belgesinden çıkarılır. Merkez, faaliyetine mevcut cihazlarıyla devam eder. Ancak tüm cihazlar için lisans alınamadığı takdirde faaliyet izin belgesi/ruhsat Bakanlık tarafından iptal edilir.
+a) NDK tarafından verilen lisansın sona ermesi, askıya alınması, kısıtlanması, sonlandırılması veya iptali halinde en geç beş iş günü içinde Müdürlüğe bilgi verilir. Merkezin faaliyeti, üç ay süreyle durdurulur. Bu süre içinde merkezin NDK mevzuatına uygun olarak gerekli işlemleri gerçekleştirememesi ve NDK’den lisans alamaması halinde, ilgili cihaz faaliyet izin belgesinden çıkarılır. Merkez, faaliyetine mevcut cihazlarıyla devam eder. Ancak tüm cihazlar için lisans alınamadığı takdirde faaliyet izin belgesi Bakanlıkça iptal edilir.
 
-b) Merkezde bulunması zorunlu personelin herhangi bir sebeple görevinden ayrılması hâlinde, merkezin faaliyeti fiilen durdurulur, en geç beş iş günü içinde müdürlüğe bilgi verilir ve faaliyeti iki yıla kadar askıya alınır. Merkezde bulunması zorunlu personelin çalışmaya başlaması üzerine merkez faaliyetlerine devam eder. Ancak iki yıl içinde faaliyete başlanamaması hâlinde, merkezin faaliyet izin belgesi/ruhsat Bakanlık tarafından iptal edilir.
+b) Faaliyet izin belgesinin değiştirilmesini gerekli kılan tadilat durumlarında merkezin faaliyeti en fazla altı aya kadar durdurulur. Altı aylık sürenin sonunda faaliyete başlanılmaması halinde merkezin faaliyet izin belgesi Bakanlıkça iptal edilir.
 
-c) Faaliyet izin belgesi/ruhsatın değiştirilmesini gerekli kılan tadilat durumlarında merkezin faaliyeti en fazla bir yıla kadar askıya alınabilir. Bu sürenin sonunda faaliyete başlanamaması hâlinde, merkezin faaliyet izin belgesi/ruhsatı Bakanlık tarafından iptal edilir.
+(2) Bu Yönetmelik kapsamında yasak olan fiil ve davranışlar ile yaptırımlar aşağıda belirtilmiştir:
 
-(2) Hizmeti geçici olarak kısmen veya tamamen durdurulduğu hâlde faaliyetine devam eden merkezin faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti iki kat süreyle durdurulmasına rağmen faaliyetine devam eden merkezin ruhsatı/faaliyet izin belgesi Bakanlık tarafından iptal edilir. Ancak merkezin birden fazla cihaz ile hizmet sunması durumunda, sadece ilgili cihaz faaliyet izin belgesinden/ruhsatından çıkarılarak faaliyet izin belgesi/ruhsat yenilenir. Mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanları tarafından açılan merkezin iptal edilen ruhsatı yeniden düzenlenemez.
+a) Faaliyet izin belgesi almadan radyasyon onkolojisi hizmeti verilemez.
 
-(3) Bu Yönetmelik kapsamında yasak olan fiil ve davranışlar ile yaptırımlar aşağıda belirtilmiştir:
-
-a) Faaliyet izin belgesi/ruhsat almadan radyasyon onkolojisi hizmeti verilemez.
-
-b) Faaliyet izin belgesi/ruhsatında belirtilen adres dışında başka bir yerde radyasyon onkolojisi hizmeti verilemez.
+b) Faaliyet izin belgesinde belirtilen adres dışında başka bir yerde radyasyon onkolojisi hizmeti verilemez.
 
 c) Merkezde yer alan cihazlar ve radyasyon kaynakları, yetkisi olmayan kişiler tarafından kullanılamaz.
 
-ç) Faaliyeti durdurulan veya askıya alınan merkez tarafından bu süre içinde hizmet verilemez.
+ç) Faaliyeti durdurulan veya askıya alınan merkez tarafından bu süre içerisinde hizmet verilemez.
 
-d) Radyasyon onkolojisi uzmanı, tıp diplomasının veya uzmanlık belgesinin kendisine verdiği yetkiler haricinde mesleğini yürütemez. Sertifika, yüksek lisans veya doktora belgesine dayanılarak bir başka tıp dalının görev alanına giren işlerin uzmanı olunduğu ilan edilerek meslek yürütülemez ve bu tür belgeler mesleğin icrasında uzmanlık belgesi olarak kullanılamaz.
+d) Bu Yönetmelikte müeyyide öngörülmemekle birlikte fiilin niteliğine göre ilgili diğer mevzuatta belirlenen idarî ve cezaî müeyyideler uygulanır.
 
-e) Radyasyon onkolojisi uzmanı dışındaki sağlık meslek mensupları, ilk yardım ve acil tıbbi müdahaleler hariç olmak üzere hangi surette olursa olsun radyasyon onkolojisi uzmanı yetkisini kullanamaz.
+e) Özel sağlık kuruluşları bünyesinde açılan merkez ismi dışında başka bir isim kullanılamaz ve faaliyet izin belgesinde belirtilen uzmanlık dalları haricinde başka uzmanlık dalı ve/veya başka ibareler yazılamaz.
 
-f) Özel sağlık tesisleri bünyesinde veya mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezler, üniversite ve kamu sağlık tesislerinin isimleri ile benzer ya da aynı şekilde isimlendirilemez.
+(3) Radyasyon onkolojisi uygulamaları yürütülürken Bakanlığın ve NDK’nın ilgili mevzuatına veya yetki koşullarına, kararlarına ve talimatlarına aykırı hareket edildiğinin tespit edilmesi halinde idari yaptırımların uygulanması hususunda, bu Yönetmelikte bulunmayan idari ve cezai müeyyidelerde ilgili mevzuat hükümleri uygulanır.
 
-g) Özel sağlık tesisleri bünyesinde veya mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkez tabelalarında, basılı ve elektronik ortam materyallerinde aynı yazı karakterinde olmak şartıyla “özel” ibaresi, sağlık tesisinin isminde kullanılan yazı puntolarının yarı değerinden az olamaz. Tabelalar ile basılı ve elektronik ortam materyallerinde, ruhsatta kayıtlı özel sağlık tesisleri bünyesinde veya mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkez ismi dışında başka bir isim kullanılamaz ve ruhsatta belirtilen uzmanlık dalları haricinde başka uzmanlık dalı veya başka ibareler yazılamaz.
-
-(4) Merkezlerde, tanıtım ve bilgilendirme konusunda 12/11/2025 tarihli ve 33075 sayılı Resmî Gazete’de yayımlanan Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik hükümleri uygulanır.
-
-(5) Merkezde çalışan ve hasta sağlığını olumsuz etkileyecek uygunsuzluğun tespiti hâlinde uygunsuzluk giderilinceye kadar merkezin faaliyeti Bakanlığın kararı üzerine Valilikçe durdurulur.
+(4) Merkezlerde, tanıtım ve bilgilendirme konusunda ilgili mevzuat hükümleri uygulanır.
 
 ### BEŞİNCİ BÖLÜM
 
-**Çeşitli ve Son Hükümler**
+Çeşitli ve Son Hükümler
 
 #### Kalite yönetimi ve değerlendirme sistemi
 
-**MADDE 16 –** (1) Merkezde, Bakanlık tarafından belirlenen tetkik ve tedavi uygulamalarına yönelik kalite standartlarını sağlamak üzere kalite yönetim sistemi oluşturulur, uygulanır, sürdürülür ve sürekli iyileştirilir.
+**MADDE 15 –** (1) Merkezde Bakanlıkça belirlenen tetkik ve tedavi uygulamalarına yönelik kalite standartlarını sağlamak üzere kalite yönetim sistemi oluşturulur, uygulanır, sürdürülür ve sürekli iyileştirilir.
 
-(2) Merkezler, hizmet kalitesini izlemeye yönelik program oluşturur ve buna ilişkin kayıtları tutar. Radyasyon onkolojisi merkez sorumlusu sorumluluğunda hizmet kalitesine ilişkin değerlendirmeler yapılır ve kaydı tutulur.
+(2) Radyasyon onkolojisi merkezleri, hizmet kalitesini izlemeye yönelik program oluşturur ve buna ilişkin kayıtları tutar. Radyasyon onkolojisi merkez sorumlusu sorumluluğunda hizmet kalitesine ilişkin değerlendirmeler yapılır ve kaydı tutulur.
 
 #### Bilgi sistemi, verilerin korunması ve saklanması
 
-**MADDE 17 –** (1) Merkezde kişisel verilerin gizliliğini ve güvenliğini sağlamak üzere bilgi sistemi kurulur.
+**MADDE 16 –** (1) Merkezde kişisel verilerin gizliliğini ve güvenliğini sağlamak üzere bilgi sistemi kurulur.
 
 (2) Bilgi sisteminde yer alan görüntüler dahil tüm tıbbi kayıtların ilgili mevzuata göre yedekleme ve arşivlemesi yapılır.
 
 (3) 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanunu hükümlerine uygun elektronik imza ile imzalanmış tıbbi kayıtlar, resmi kayıt olarak kabul edilir ve ilgili mevzuata göre yedekleme ve arşivlemesi yapılır.
 
-(4) Faaliyeti sona eren veya sonlandırılan merkezler, yazılı veya elektronik kayıtlarını, defterlerini ve diğer belgelerini saklanmak üzere müdürlüğe devreder.
+(4) Faaliyeti sona eren veya sonlandırılan merkezler, yazılı ve/veya elektronik kayıtlarını, defterlerini ve diğer belgelerini saklanmak üzere Müdürlüğe devreder.
 
 (5) Merkez tarafından kayıt altına alınan kişisel sağlık verileri, ilgili mevzuata uygun bir şekilde işlenir ve Bakanlık tarafından kurulan kayıt ve bildirim sistemine aktarılır.
 
-(6) Bakanlık tarafından yapılacak iş ve işlemlere esas olmak üzere, istenen bilgi ve belgelerin Bakanlığa gönderilmesi zorunludur.
+(6) Bakanlıkça yapılacak iş ve işlemlere esas olmak üzere, istenilen bilgi ve belgelerin Bakanlığa gönderilmesi zorunludur.
 
-(7) Merkezde; kalite uygunluk, kalite kontrol değerlendirme sonuçları, bakım onarım faaliyetlerine ait raporlar, izleme ve ölçüm cihazlarının kayıtları en az on yıl, radyasyon kaynaklarına ve radyoaktif atıklara ilişkin kayıtlar en az yirmi yıl, iyonlaştırıcı radyasyon kaynakları ile çalışanların tıbbi gözetim ve kişisel dozlarına ilişkin belge ve kayıtlar ise radyasyona maruz kalmayı gerektiren işin sona ermesinden sonra otuz yıldan az olmamak kaydıyla korunur ve saklanır. Radyasyonla çalışanın görevi bırakması ve başka yerde çalışmaya başlaması durumunda doz kayıtlarının bir kopyası çalışana teslim edilir.
+(7) Merkezde; kalite uygunluk, kalite kontrol değerlendirme sonuçları, bakım onarım faaliyetlerine ait raporlar, izleme ve ölçüm cihazlarının kayıtları en az 10 yıl; radyasyon kaynaklarına ve radyoaktif atıklara ilişkin kayıtlar en az 20 yıl; iyonlaştırıcı radyasyon kaynakları ile çalışanların tıbbi gözetim ve kişisel dozlarına ilişkin belge ve kayıtlar ise radyasyona maruz kalmayı gerektiren işin sona ermesinden sonra 30 yıldan az olmamak kaydıyla korunur ve saklanır. Radyasyonla çalışanın görevi bırakması ve başka yerde çalışmaya başlaması durumunda doz kayıtlarının bir kopyası çalışana teslim edilir.
 
 #### Hizmet alımı
 
-**MADDE 18 –** (1) Kamu kurum ve kuruluşları bünyesinde faaliyet gösteren merkezler, ilgili mevzuatı uyarınca birbirlerinden ve özel sağlık tesisleri bünyesindeki veya mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezlerden hizmet alımı yapabilirler.
+**MADDE 17 –** (1) Kamu kurum ve kuruluşları bünyesinde faaliyet gösteren merkezler, ilgili mevzuat uyarınca birbirlerinden ve özel sağlık kuruluşları bünyesindeki radyasyon onkolojisi merkezlerinden hizmet alımı yapabilirler.
 
-(2) Özel sağlık tesisleri bünyesindeki veya mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezler, diğer özel sağlık tesisleri bünyesindeki veya mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezlerden hizmet alımı yapabilirler.
+(2) Özel sağlık kuruluşları bünyesindeki radyasyon onkolojisi merkezleri, diğer özel sağlık kuruluşları bünyesindeki radyasyon onkolojisi merkezlerinden hizmet alımı yapabilirler.
 
-(3) Radyasyon onkolojisi hizmet alımı yapılması hâlinde, hizmet alımı yapılan özel sağlık tesisleri bünyesindeki veya mesleğini serbest olarak icra etme yetkisine sahip radyasyon onkolojisi uzmanı tarafından açılan merkezin ve özel hukuk tüzel kişisinin adı ve adresi tedavi sonuç raporunda yer alır.
+(3) Radyasyon onkolojisi hizmet alımı yapılması halinde, hizmet alımı yapılan özel sağlık kuruluşları bünyesindeki merkezin, tüzel kişinin adı ve adresi tedavi sonuç raporunda yer alır.
 
-(4) Radyasyon onkolojisi hizmetini hizmet alımı yoluyla gerçekleştiren merkez, hastadan tetkik veya tedavi için ayrıca bir ücret talep edemez.
+(4) Radyasyon onkolojisi hizmetini hizmet alımı yoluyla gerçekleştiren merkez hastadan tetkik/tedavi için ayrıca bir ücret talep edemez.
 
-(5) Radyasyon onkolojisi hizmetinin hizmet alımı yoluyla sunulması hâlinde, hizmeti alan ve veren kamu sağlık tesisleri, özel sağlık tesisleri ile özel hukuk tüzel kişileri radyasyon onkolojisi hizmetinden müştereken sorumludur.
+(5) Radyasyon onkolojisi hizmetinin hizmet alımı yoluyla sunulması halinde, hizmeti alan ve veren kamu sağlık kurum ve kuruluşları, özel sağlık kuruluşları radyasyon onkolojisi hizmetinden müştereken sorumludur.
 
-(6) Radyasyon onkolojisi hizmet alımı yapılması hâlinde 3/9/2022 tarihli ve 31942 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği kapsamında radyasyon onkolojisi uzmanlık eğitimi veren kurumlar, uzmanlık eğitiminin verilmesine yönelik olarak eğiticilerin alanları ile ilgili araştırma yapmalarını ve uzmanlık öğrencilerinin uzmanlık eğitimi çekirdek müfredatı çerçevesinde eğitim almasını sağlar.
+(6) Radyasyon onkolojisi hizmet alımı yapılması halinde 3/9/2022 tarihli ve 31942 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği kapsamında radyasyon onkolojisi uzmanlık eğitimi veren kurumlar, uzmanlık eğitiminin verilmesine yönelik olarak eğiticilerin alanları ile ilgili araştırma yapmalarını ve uzmanlık öğrencilerinin uzmanlık eğitimi çekirdek müfredatı çerçevesinde eğitim almasını sağlar.
 
 #### Yetki devri
 
-**MADDE 19 –** (1) Bakanlık, bu Yönetmelikteki yetkilerinden bir kısmını valiliklere devredebilir.
+**MADDE 18 –** (1) Bakanlık, bu Yönetmelikteki yetkilerinden bir kısmını valiliklere devredebilir.
 
 #### Hüküm bulunmayan hâller
 
-**MADDE 20 –** (1) Bu Yönetmelikte hüküm bulunmayan hâllerde, sağlık tesisleri bünyesinde faaliyet gösteren radyasyon onkolojisi merkezleri hakkında faaliyet gösterdikleri sağlık tesislerinin tabi olduğu mevzuat ve ilgili diğer mevzuat hükümleri uygulanır.
+**MADDE 19 –** (1) Bu Yönetmelikte hüküm bulunmayan hâllerde, sağlık kurum ve kuruluşları bünyesinde faaliyet gösteren radyasyon onkolojisi merkezleri hakkında faaliyet gösterdikleri sağlık kurum ve kuruluşunun tabi olduğu mevzuat ve ilgili diğer mevzuat hükümleri uygulanır.
 
-#### Yürürlükten kaldırılan yönetmelik
+#### Mevcut merkezlerin uyumu
 
-**MADDE 21 –** (1) 25/4/2023 tarihli ve 32171 sayılı Resmî Gazete’de yayımlanan Radyasyon Onkolojisi Hizmetleri Yönetmeliği yürürlükten kaldırılmıştır.
-
-#### Devam eden işlemler
-
-**GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapılan başvurular, 21 inci madde ile yürürlükten kaldırılan Radyasyon Onkolojisi Hizmetleri Yönetmeliği hükümleri çerçevesinde tamamlanır.
-
-(2) 21 inci madde ile yürürlükten kaldırılan Radyasyon Onkolojisi Hizmetleri Yönetmeliği hükümlerine göre merkezlere verilmiş faaliyet izin belgesi/ruhsatın askı süreleri korunur.
-
-(3) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce faaliyet izin belgesi/ruhsat düzenlenmiş merkezler mevcut hâliyle faaliyetine devam eder. Bu Yönetmelikte belirtilen şartları taşımayan merkezlere yeni cihaz ilavesine izin verilmez.
+**GEÇİCİ MADDE 1 –** (1) Mevcut radyasyon onkolojisi merkezleri, bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla iki yıl içerisinde bu Yönetmelik hükümlerine uyum sağlayarak faaliyet izin belgesini yenilemek zorundadır.
 
 #### Yürürlük
 
-**MADDE 22 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+**MADDE 20 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
 #### Yürütme
 
-**MADDE 23 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+**MADDE 21 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-**Ekleri için tıklayınız**
+Ekleri için Resmî Gazete sayfasına bakınız.
