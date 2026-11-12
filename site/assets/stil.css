@@ -113,3 +113,4 @@ table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 .madde-vurgu{background:#fff6cc;transition:background 1.5s}
 .metin h2,.metin h3{font-size:.98em}
 .metin h4{font-size:.94em}
+.rozet.mulga{background:#fbe9e7;color:#9a2c20}

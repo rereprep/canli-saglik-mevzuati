@@ -2,9 +2,9 @@
 id: "k-diyaliz-merkezleri-hakkinda-yonetmelik"
 baslik: "Diyaliz Merkezleri Hakkında Yönetmelik"
 tur: "yonetmelik"
-tarih: "2010-06-18"
-rg_tarih: "2010-06-18"
-rg_sayi: "27615"
+tarih: "2019-03-01"
+rg_tarih: "2019-03-01"
+rg_sayi: "30701"
 birim: "Sağlık Bakanlığı"
 konu: "Hemodiyaliz ve periton diyalizi merkezlerinin açılması, faaliyetleri, personel ve tıbbi cihaz standartları."
 etiketler: ["diyaliz", "hemodiyaliz", "ozel saglik", "tibbi cihaz"]

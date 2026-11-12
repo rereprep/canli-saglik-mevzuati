@@ -1,16 +1,17 @@
 ---
-id: "k-radyasyon-onkolojisi-hizmetleri-yonetmeligi"
+id: "eski-radyasyon-onkolojisi-hizmetleri-yonetmeligi-2023"
 baslik: "Radyasyon Onkolojisi Hizmetleri Yönetmeliği"
 tur: "yonetmelik"
 tarih: "2023-04-25"
 rg_tarih: "2023-04-25"
 rg_sayi: "32171"
 birim: "Sağlık Bakanlığı"
-konu: "Radyasyon Onkolojisi Hizmetleri Yönetmeliği ile ilgili usul ve esaslar."
 etiketler: ["yonetmelik", "saglik mevzuati"]
 kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
 kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42765&MevzuatTur=7&MevzuatTertip=5"
-durum: "yürürlükte"
+konu: "16/12/2025 tarihli ve 33109 sayılı Resmî Gazete’de yayımlanan aynı adlı Yönetmeliğin 21 inci maddesiyle yürürlükten kaldırılmıştır."
+durum: "yürürlükten kaldırıldı"
+kaldiran: "k-radyasyon-onkolojisi-hizmetleri-yonetmeligi"
 ---
 
 ### RADYASYON ONKOLOJİSİ HİZMETLERİ YÖNETMELİĞİ

@@ -10,6 +10,7 @@ konu: "6/5/2023 tarihli ve 32182 sayılı Resmî Gazete’de yayımlanan yönetm
 kaynak: "Resmî Gazete (SHGM internet sitesi aracılığıyla)"
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2023/05/20230506.htm"
 durum: "yürürlükten kaldırıldı"
+kaldiran: "shgm-obezite-uniteleri-ve-obezite-cerrahisi-uygulama-uniteleri-hakkinda-yonetmelik"
 ---
 
 OBEZİTE MERKEZLERİ VE OBEZİTE CERRAHİ UYGULAMALARI HAKKINDA YÖNETMELİK BİRİNCİ BÖLÜM

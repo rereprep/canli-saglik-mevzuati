@@ -1,16 +1,17 @@
 ---
-id: "k-geleneksel-ve-tamamlayici-tip-uygulamalari-yonetmeligi"
+id: "eski-geleneksel-ve-tamamlayici-tip-uygulamalari-yonetmeligi-2014"
 baslik: "Geleneksel ve Tamamlayıcı Tıp Uygulamaları Yönetmeliği"
 tur: "yonetmelik"
 tarih: "2014-10-27"
 rg_tarih: "2014-10-27"
 rg_sayi: "29158"
 birim: "Sağlık Bakanlığı"
-konu: "Akupunktur, hacamat, sülük, mezoterapi gibi tamamlayıcı tıp uygulamaları ve merkezleri."
 etiketler: ["getat", "akupunktur", "tamamlayici tip", "uygulama merkezi"]
 kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
 kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=45117&MevzuatTur=7&MevzuatTertip=5"
-durum: "yürürlükte"
+konu: "28/4/2026 tarihli ve 33237 sayılı Resmî Gazete’de yayımlanan aynı adlı Yönetmeliğin 19 uncu maddesiyle yürürlükten kaldırılmıştır."
+durum: "yürürlükten kaldırıldı"
+kaldiran: "k-geleneksel-ve-tamamlayici-tip-uygulamalari-yonetmeligi"
 ---
 
 ### GELENEKSEL VE TAMAMLAYICI TIP UYGULAMALARI YÖNETMELİĞİ

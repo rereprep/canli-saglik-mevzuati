@@ -1,14 +1,15 @@
 ---
-id: "saglik-bakanligi-disiplin-amirleri-yonetmeligi"
+id: "eski-saglik-bakanligi-disiplin-amirleri-yonetmeligi-2012"
 baslik: "Sağlık Bakanlığı Disiplin Amirleri Yönetmeliği"
 tur: "yonetmelik"
 rg_tarih: "2012-12-19"
 rg_sayi: "28502"
 birim: "Sağlık Bakanlığı"
-konu: "Sağlık Bakanlığı Disiplin Amirleri Yönetmeliği kapsamında yürütülen hizmetlerin usul ve esasları."
 etiketler: ["mevzuat", "birinci-basamak"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 180-183"
-durum: "yürürlükte"
+konu: "31/3/2026 tarihli ve 33210 sayılı Resmî Gazete’de yayımlanan aynı adlı Yönetmeliğin 6 ncı maddesiyle yürürlükten kaldırılmıştır."
+durum: "yürürlükten kaldırıldı"
+kaldiran: "saglik-bakanligi-disiplin-amirleri-yonetmeligi"
 ---
 
 Resmi Gazete Tarihi: 19.12.2012 Resmi Gazete Sayısı: 28502

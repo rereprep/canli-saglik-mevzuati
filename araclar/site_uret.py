@@ -160,13 +160,16 @@ def belgeleri_oku():
         degisiklik_listesi_ekle(b)
         son_degisiklik_bul(b)
     _KIMLIK.clear()
+    _BELGE.clear()
     for b in sonuc.values():
         _KIMLIK[b["id"]] = (b["tur"], b["id"])
+        _BELGE[b["id"]] = b
         for _, eski in b.get("eski_kimlikler", []):
             _KIMLIK.setdefault(eski, (b["tur"], b["id"]))
     return sonuc
 
 
+_BELGE = {}
 _KIMLIK = {}  # her (güncel ya da eski) kimlik -> sayfası olan (tür, kimlik)
 
 
@@ -514,7 +517,7 @@ def ciftleri_birlestir(belgeler):
     tercih = lambda b: (b["tam_metin"], oncelik(b) if b["tam_metin"] else 0, len(b.get("baslik", "")))
     gruplar = {}
     for b in belgeler.values():
-        if b["tur"] == "yazi":
+        if b["tur"] == "yazi" or mulga(b):
             continue
         anahtarlar = [("oz", b["tur"], baslik_ozu(b))]
         if re.fullmatch(r"\d{4}-\d{2}-\d{2}", b.get("tarih", "")) and len(no_sade(b.get("sayi"))) >= 3:
@@ -566,7 +569,13 @@ def baslik_anahtari(b):
     if b.get("tur") == "genelge" and re.fullmatch(r"\d{4}/\d+", b.get("sayi", "")):
         return ("genelge", "no:" + b["sayi"])
     s = re.sub(r"\(\s*\d{4}\s*/\s*\d+\s*\)", "", s)
+    if mulga(b):  # yürürlükten kalkmış eski metin, aynı adlı yeni metinle birleştirilmez
+        return ("mulga", b.get("id"))
     return (b.get("tur"), sade(s))
+
+
+def mulga(b):
+    return bool(b.get("kaldiran") or b.get("yerine")) or str(b.get("durum", "")).startswith("yürürlükten kald")
 
 
 def oncelik(b):
@@ -1136,6 +1145,20 @@ def belge_sayfasi(b):
     if kaynaklar:
         baglar = "<br>".join(f'<a href="{e(u)}" rel="noopener" target="_blank">{e(u)}</a>' for u in kaynaklar)
         k += f'<tr><th>Resmî Kaynak</th><td>{baglar}</td></tr>'
+    def _bag(kimlik):
+        if kimlik not in _KIMLIK:
+            return ""
+        tur_, k2 = _KIMLIK[kimlik]
+        h = _BELGE.get(k2, {})
+        ek = " / ".join(x for x in [tarih_tr(h.get("rg_tarih") or h.get("tarih")), h.get("rg_sayi")] if x)
+        return f'<a href="{kok}mevzuat/{e(tur_)}/{e(k2)}.html">{e(h.get("baslik", k2))}</a>' + (f" (RG {e(ek)})" if ek else "")
+    if b.get("kaldiran") and _bag(b["kaldiran"]):
+        k += f'<tr><th>Yürürlükten Kaldıran</th><td>{_bag(b["kaldiran"])}</td></tr>'
+    if b.get("yerine") and _bag(b["yerine"]):
+        k += f'<tr><th>Yerine Geçen</th><td>{_bag(b["yerine"])}</td></tr>'
+    onceki = [x["id"] for x in _BELGE.values() if b["id"] in (_KIMLIK.get(x.get("yerine") or "", (0, 0))[1], _KIMLIK.get(x.get("kaldiran") or "", (0, 0))[1])]
+    if onceki:
+        k += ('<tr><th>Yürürlükten Kaldırdığı</th><td>' + "<br>".join(_bag(i) for i in onceki) + '</td></tr>')
     if b.get("degistirdigi"):
         satir = []
         for d in b["degistirdigi"]:
@@ -1211,6 +1234,8 @@ def tablo(belgeler, kok):
     satirlar = []
     for b in belgeler:
         isaret = "" if b["tam_metin"] else ' <span class="rozet">künye</span>'
+        if mulga(b):
+            isaret += ' <span class="rozet mulga">mülga</span>'
         siralama_tarihi = b.get("tarih") or b.get("rg_tarih") or ""
         rg_metin = " / ".join(x for x in [tarih_tr(b.get("rg_tarih")), b.get("rg_sayi")] if x)
         rg = f"<td>{e(rg_metin)}</td>" if rg_sutun else ""
@@ -1569,7 +1594,7 @@ def main():
                 except Exception as hata:  # tek belge yüzünden yayın durmasın
                     hatalar.append(f"{b['id']}.{ad}: {hata}")
         dizin.append({"i": b["id"], "b": b["baslik"], "t": b["tur"], "d": b.get("tarih", ""), "s": b.get("sayi", ""),
-                      "r": b.get("rg_tarih", ""), "rs": b.get("rg_sayi", ""), "k": b.get("konu", ""),
+                      "r": b.get("rg_tarih", ""), "rs": b.get("rg_sayi", ""), "k": b.get("konu", ""), "x": 1 if mulga(b) else 0,
                       "e": b.get("etiketler", []), "m": 1 if b["tam_metin"] else 0})
         if b["tam_metin"]:
             duz = re.sub(r"[*#<>/]|small", " ", re.sub(r"</?i>", "", b["govde"]))

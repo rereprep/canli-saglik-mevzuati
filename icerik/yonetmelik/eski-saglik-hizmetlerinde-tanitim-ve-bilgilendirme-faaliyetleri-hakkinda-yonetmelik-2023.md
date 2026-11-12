@@ -1,16 +1,17 @@
 ---
-id: "k-saglik-hizmetlerinde-tanitim-ve-bilgilendirme-faaliyetleri-hakkinda-yonetmelik"
+id: "eski-saglik-hizmetlerinde-tanitim-ve-bilgilendirme-faaliyetleri-hakkinda-yonetmelik-2023"
 baslik: "Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik"
 tur: "yonetmelik"
 rg_tarih: "2023-07-29"
-rg_sayi: "33075"
+rg_sayi: "32263"
 birim: "Sağlık Bakanlığı"
-konu: "Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik ile ilgili usul ve esaslar."
 etiketler: ["yonetmelik", "saglik mevzuati"]
 kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
 kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42694&MevzuatTur=7&MevzuatTertip=5"
 not: "Önceki RG: RG: 29.07.2023 / 32263"
-durum: "yürürlükte"
+konu: "12/11/2025 tarihli ve 33075 sayılı Resmî Gazete’de yayımlanan aynı adlı Yönetmeliğin 13 üncü maddesiyle yürürlükten kaldırılmıştır."
+durum: "yürürlükten kaldırıldı"
+kaldiran: "k-saglik-hizmetlerinde-tanitim-ve-bilgilendirme-faaliyetleri-hakkinda-yonetmelik"
 ---
 
 ### SAĞLIK HİZMETLERİNDE TANITIM VE BİLGİLENDİRME FAALİYETLERİ HAKKINDA YÖNETMELİK
