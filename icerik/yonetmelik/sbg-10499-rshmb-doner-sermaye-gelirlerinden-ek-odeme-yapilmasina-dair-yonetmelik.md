@@ -9,33 +9,29 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-YÖNETMELİK
-
 Sağlık Bakanlığından:
 
-REFİK SAYDAM HIFZISSIHHA MERKEZİ BAŞKANLIĞI MERKEZ VE
-TAŞRA TEŞKİLATINDA GÖREVLİ PERSONELE DÖNER SERMAYE
-GELİRLERİNDEN EK ÖDEME YAPILMASINA
-DAİR YÖNETMELİK
+### REFİK SAYDAM HIFZISSIHHA MERKEZİ BAŞKANLIĞI MERKEZ VE TAŞRA TEŞKİLATINDA GÖREVLİ PERSONELE DÖNER SERMAYE GELİRLERİNDEN EK ÖDEME YAPILMASINA DAİR YÖNETMELİK
 
-BİRİNCİ BÖLÜM
+### BİRİNCİ BÖLÜM
+
 Amaç, Kapsam, Dayanak ve Tanımlar
 
-Amaç
+**Amaç**
 
-MADDE 1 – (1) Bu Yönetmeliğin amacı, 30/12/1940 tarihli ve 3959 sayılı Türkiye Cumhuriyeti Refik Saydam Merkez Hıfzıssıhha Müessesesi Teşkiline Dair Kanunla Refik Saydam Hıfzıssıhha Merkezi Başkanlığına tevdi edilen görevlerin verimli, süratli, etkin ve kaliteli bir şekilde yerine getirilmesi, koruyucu sağlık hizmetlerinin iyileştirilmesi ve geliştirilmesi amacıyla; Refik Saydam Hıfzıssıhha Merkezi Başkanlığı Merkez ve Taşra Teşkilatında çalışan personelin; niteliği, kadro unvanı, görevi, hizmete katkısı, bilimsel çalışma yapıp yapmadığı, çalışma şartları ve süresi, performansı ile serbest çalışıp çalışmaması gibi hususlar dikkate alınarak döner sermaye gelirlerinden personele yapılacak ek ödemenin oran, usul ve esaslarını belirlemektir.
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı, 30/12/1940 tarihli ve 3959 sayılı Türkiye Cumhuriyeti Refik Saydam Merkez Hıfzıssıhha Müessesesi Teşkiline Dair Kanunla Refik Saydam Hıfzıssıhha Merkezi Başkanlığına tevdi edilen görevlerin verimli, süratli, etkin ve kaliteli bir şekilde yerine getirilmesi, koruyucu sağlık hizmetlerinin iyileştirilmesi ve geliştirilmesi amacıyla; Refik Saydam Hıfzıssıhha Merkezi Başkanlığı Merkez ve Taşra Teşkilatında çalışan personelin; niteliği, kadro unvanı, görevi, hizmete katkısı, bilimsel çalışma yapıp yapmadığı, çalışma şartları ve süresi, performansı ile serbest çalışıp çalışmaması gibi hususlar dikkate alınarak döner sermaye gelirlerinden personele yapılacak ek ödemenin oran, usul ve esaslarını belirlemektir.
 
-Kapsam
+**Kapsam**
 
-MADDE 2 – (1) Bu Yönetmelik, döner sermayeli Refik Saydam Hıfzıssıhha Merkezi Başkanlığı Merkez ve Taşra Teşkilatında görevli olan personeli, 10/7/2003 tarihli ve 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun uyarınca sözleşmeli olarak istihdam edilen personeli, kadrosu Maliye Bakanlığına ait olup döner sermaye işletmelerinin muhasebe birimlerinde görev yapan personel ile 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 38 inci maddesine göre Başkanlıkta görevlendirilen personeli kapsar.
+**MADDE 2 –** (1) Bu Yönetmelik, döner sermayeli Refik Saydam Hıfzıssıhha Merkezi Başkanlığı Merkez ve Taşra Teşkilatında görevli olan personeli, 10/7/2003 tarihli ve 4924 sayılı Eleman Temininde Güçlük Çekilen Yerlerde Sözleşmeli Sağlık Personeli Çalıştırılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun uyarınca sözleşmeli olarak istihdam edilen personeli, kadrosu Maliye Bakanlığına ait olup döner sermaye işletmelerinin muhasebe birimlerinde görev yapan personel ile 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 38 inci maddesine göre Başkanlıkta görevlendirilen personeli kapsar.
 
-Dayanak
+**Dayanak**
 
-MADDE 3 – (1) Bu Yönetmelik; 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesi hükümlerine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik; 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5 inci maddesi hükümlerine dayanılarak hazırlanmıştır.
 
-Tanımlar
+**Tanımlar**
 
-MADDE 4 – (1) Bu Yönetmelikte geçen;
+**MADDE 4 –** (1) Bu Yönetmelikte geçen;
 
 a) Bakanlık: Sağlık Bakanlığını,
 
@@ -63,12 +59,13 @@ j) Serbest Çalışma Katsayısı (SÇK): Mesleğini serbest olarak icra eden sa
 
 ifade eder.
 
-İKİNCİ BÖLÜM
+### İKİNCİ BÖLÜM
+
 Ek Ödemede Uygulanacak Temel Esaslar
 
-Temel esaslar
+**Temel esaslar**
 
-MADDE 5 – (1) Başkanlık Merkez ve Taşra Teşkilatında uygulanacak temel esaslar aşağıda belirtilmiştir.
+**MADDE 5 –** (1) Başkanlık Merkez ve Taşra Teşkilatında uygulanacak temel esaslar aşağıda belirtilmiştir.
 
 a) Başkanlığın sağlık hizmetlerinden elde edilen gelirleri ile diğer gelirlerin tamamı döner sermayeye irad kaydedilir. Başkanlığın cari yılda elde ettiği gayri safi hasılattan öncelikle Hazine payı, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu payı ve Bakanlık merkez payı ayrıldıktan sonra kalan miktarın asgari %50’si, 9/1/1961 tarihli ve 10702 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkındaki 209 sayılı Kanun Gereğince İşletme, İdare ve Muhasebe İşlerine Dair Yönetmelik hükümleri doğrultusunda Başkanlık ihtiyaçlarının karşılanması için ayrılır.
 
@@ -106,12 +103,13 @@ l) Kadrosu Maliye Bakanlığında olup Başkanlığın döner sermaye işletmele
 
 m) 2547 sayılı Yükseköğretim Kanununun 38 inci maddesine göre Başkanlıkta görevlendirilenlere, aynı maddede belirtilen ilave ödemelerden yararlanmamak kaydıyla, görev yaptıkları unvan dikkate alınarak ek ödeme yapılır.
 
-ÜÇÜNCÜ BÖLÜM
+### ÜÇÜNCÜ BÖLÜM
+
 Puan Çeşitleri, Personele Yapılacak Ek Ödeme Tutarının Hesaplanması, Ek Ödemenin Zamanı
 
-Puan çeşitleri
+**Puan çeşitleri**
 
-MADDE 6 – (1) Personele ek ödeme yapılmasında aşağıdaki puanlar dikkate alınır.
+**MADDE 6 –** (1) Personele ek ödeme yapılmasında aşağıdaki puanlar dikkate alınır.
 
 a) Kadro Puanı (KP): Personelin bulunduğu kadro unvanı dikkate alınarak aşağıdaki puanlar verilir.
 
@@ -176,9 +174,9 @@ f) Bilimsel Çalışma Puanı (BÇP): Başkanlığın görev alanıyla ilgili ol
 | Kitap | - | - | 30 | 15 |
 | Kitap Bölümü | - | - | 10 | 5 |
 
-Personele yapılacak ek ödeme tutarının hesaplanması
+**Personele yapılacak ek ödeme tutarının hesaplanması**
 
-MADDE 7 – (1) Personele yapılacak ek ödeme tutarının hesaplanmasında dikkate alınan puanlar ile hesaplama yöntemi aşağıda gösterilmiştir.
+**MADDE 7 –** (1) Personele yapılacak ek ödeme tutarının hesaplanmasında dikkate alınan puanlar ile hesaplama yöntemi aşağıda gösterilmiştir.
 
 a) Ek Ödemeye Esas Personel Puanı (EÖEPP): Ek ödeme tutarının hesaplanmasında, bu Yönetmeliğin 6 ncı maddesinin birinci fıkrasının (a), (b), (c), (ç) ve (d) bentlerinde yer alan puanlar toplanarak her bir personel için Ek Ödemeye Esas Personel Puanı bulunur.
 
@@ -194,16 +192,17 @@ e) Malî Durum Yüzdesi (MDY): Bu maddenin birinci fıkrasının (d) bendinde a�
 
 f) Personel Net Ek Ödeme Tutarı (PNEÖT): Bu maddenin birinci fıkrasının (c) bendinde yer alan Personel Ek Ödeme Tutarıyla, (e) bendinde yer alan Malî Durum Yüzdesi’nin çarpımı sonucu bulunan tutardan; ödenecek ek ödeme tutarı, ek ödeme tavanlarını geçmemek kaydıyla gelir vergisi ile damga vergisinin kesilmesi sonucunda bulunur.
 
-Ek ödemenin zamanı
+**Ek ödemenin zamanı**
 
-MADDE 8 – (1) Ek ödeme, aylık dönemler halinde yapılır. Döner Sermaye Komisyonu tarafından belirlenen dağıtılacak ek ödeme tutarı, o dönemin bitiminden sonraki yirmi gün içinde hak sahiplerine ödenir. Ancak, döner sermaye gelirlerinin tahsilinde gecikme olması halinde, ilgili ödeme dönemine ait ek ödemeler, mali yılın sonunu geçmemek üzere döner sermaye gelirlerinin tahsil edildiği tarihten sonraki ilk on günde ve biriken ek ödemelerin toptan ödenmesi suretiyle yapılır.
+**MADDE 8 –** (1) Ek ödeme, aylık dönemler halinde yapılır. Döner Sermaye Komisyonu tarafından belirlenen dağıtılacak ek ödeme tutarı, o dönemin bitiminden sonraki yirmi gün içinde hak sahiplerine ödenir. Ancak, döner sermaye gelirlerinin tahsilinde gecikme olması halinde, ilgili ödeme dönemine ait ek ödemeler, mali yılın sonunu geçmemek üzere döner sermaye gelirlerinin tahsil edildiği tarihten sonraki ilk on günde ve biriken ek ödemelerin toptan ödenmesi suretiyle yapılır.
 
-DÖRDÜNCÜ BÖLÜM
+### DÖRDÜNCÜ BÖLÜM
+
 Döner Sermaye Komisyonları
 
-Döner sermaye komisyonlarının teşkili
+**Döner sermaye komisyonlarının teşkili**
 
-MADDE 9 – (1) Başkanlık merkez teşkilatında döner sermaye komisyonu; döner sermayeden sorumlu Başkan Yardımcısının başkanlığında aşağıdaki üyelerden kurulur. Ancak, Başkan gerek gördüğü hallerde komisyona başkanlık yapabileceği gibi, gündem konularını dikkate alarak ilgili birim müdürünün ve/veya Başkan Yardımcısının da toplantılara katılımını sağlayabilir.
+**MADDE 9 –** (1) Başkanlık merkez teşkilatında döner sermaye komisyonu; döner sermayeden sorumlu Başkan Yardımcısının başkanlığında aşağıdaki üyelerden kurulur. Ancak, Başkan gerek gördüğü hallerde komisyona başkanlık yapabileceği gibi, gündem konularını dikkate alarak ilgili birim müdürünün ve/veya Başkan Yardımcısının da toplantılara katılımını sağlayabilir.
 
 a) İdari ve Mali İşler Müdürlüğü temsilcisi.
 
@@ -235,13 +234,13 @@ e) Çalışma ve Sosyal Güvenlik Bakanlığı tarafından o kurum için yetki v
 
 (5) Döner Sermaye Komisyonlarının sekretarya hizmetleri, İdari ve Mali İşler Müdürlüğü veya bu işlerden sorumlu birim tarafından yürütülür.
 
-Döner sermaye komisyonlarının çalışma usûl ve esasları
+**Döner sermaye komisyonlarının çalışma usûl ve esasları**
 
-MADDE 10 – (1) Döner Sermaye Komisyonları, önceden komisyon üyelerine bildirilen gündemi görüşmek üzere komisyon başkanının davetiyle olağan veya olağanüstü toplanabilir. Olağan toplantı, her ödeme dönemini takip eden on iş günü içinde yapılır. Komisyonlar, en az 2/3 çoğunlukla toplanır ve katılanların salt çoğunluğu ile karar alır. Oylarda eşitlik olması halinde, komisyon başkanının taraf olduğu görüş kabul edilmiş sayılır. Komisyon kararları toplantıya katılan üyelerce imzalanır.
+**MADDE 10 –** (1) Döner Sermaye Komisyonları, önceden komisyon üyelerine bildirilen gündemi görüşmek üzere komisyon başkanının davetiyle olağan veya olağanüstü toplanabilir. Olağan toplantı, her ödeme dönemini takip eden on iş günü içinde yapılır. Komisyonlar, en az 2/3 çoğunlukla toplanır ve katılanların salt çoğunluğu ile karar alır. Oylarda eşitlik olması halinde, komisyon başkanının taraf olduğu görüş kabul edilmiş sayılır. Komisyon kararları toplantıya katılan üyelerce imzalanır.
 
-Döner sermaye komisyonlarının görevleri
+**Döner sermaye komisyonlarının görevleri**
 
-MADDE 11 – (1) Başkanlık döner sermaye komisyonlarının görevleri aşağıda belirtilmiştir.
+**MADDE 11 –** (1) Başkanlık döner sermaye komisyonlarının görevleri aşağıda belirtilmiştir.
 
 a) Döner sermaye gelir ve giderleri, Başkanlıkça yürütülen görev ve hizmetler ile personelin motivasyonunun arttırılması hususları çerçevesinde; her ödeme dönemi öncesinde personele dağıtılabilecek döner sermaye tutarı hakkında rapor hazırlamak ve Başkana sunmak.
 
@@ -255,16 +254,17 @@ d) Uygulamada karşılaşılan sorunlar ile Başkanlığın genel politikaları 
 
 e) Başkan tarafından verilecek diğer görevleri yapmak.
 
-BEŞİNCİ BÖLÜM
+### BEŞİNCİ BÖLÜM
+
 Son Hükümler
 
-Yürürlük
+**Yürürlük**
 
-MADDE 12 – (1) Bu Yönetmelik, 1/4/2006 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+**MADDE 12 –** (1) Bu Yönetmelik, 1/4/2006 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
 
-Yürütme
+**Yürütme**
 
-MADDE 13 – (1) Bu Yönetmelik hükümlerini Başkan yürütür.
+**MADDE 13 –** (1) Bu Yönetmelik hükümlerini Başkan yürütür.
 
 Ek-1
 
