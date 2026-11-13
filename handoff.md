@@ -237,3 +237,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-13: Üç iş sağlığı tüzüğü (Parlayıcı-Patlayıcı 1973, Yapı İşleri 1974, Maden ve Taş Ocakları 1984) mülga olarak işaretlendi; kaldıran 2014/6574, 2014/6572, 2014/6573 sayılı tüzükler RGden doğrulandı (17, 26, 25 Temmuz 2014). Özcan ekinde oldukları için sitede kalıyorlar.
 
 - 2026-11-13: Üç tüzük daha mülga (İş Teftişi 5433/2022, Radyasyon Güvenliği 7742/2023, Nükleer Tesislere Lisans 6973/2023; kararlar RG PDFlerinden doğrulandı). KÖİ Uygulama Yönetmeliği (2014) ve TSK-JGK-SGK Sağlık Yeteneği Yönetmeliği (2016) güncel metinle eklendi; 2006 Kiralama Yönetmeliği ve 1986 TSK Sağlık Yeteneği Yönetmeliği mülga.
+
+- 2026-11-14: Yeni tür ck (Cumhurbaşkanı Kararı); bkk grubunda listelenir, bölüm adı "Bakanlar Kurulu ve Cumhurbaşkanı Kararları". 11684 sayılı karar icerik/ck/ altına taşındı (eski_tur: bkk ile eski adres yönleniyor). rg_takip.py: "(Karar Sayısı: n)" içeren başlıklar ck türüyle alınır.

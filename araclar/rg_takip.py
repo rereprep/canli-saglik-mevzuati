@@ -26,7 +26,7 @@ ANAHTAR = re.compile(
 ILAN = re.compile(r"ilan|ilân|ilanlar", re.I)
 
 BOLUM_TUR = [
-    ("KANUN", "kanun"), ("CUMHURBAŞKANLIĞI KARARNAMES", "cbk"), ("YÖNETMELİK", "yonetmelik"),
+    ("CUMHURBAŞKANI KARAR", "ck"), ("KANUN", "kanun"), ("CUMHURBAŞKANLIĞI KARARNAMES", "cbk"), ("YÖNETMELİK", "yonetmelik"),
     ("TEBLİĞ", "teblig"), ("GENELGE", "genelge"), ("TÜZÜK", "tuzuk"),
 ]
 
@@ -76,6 +76,8 @@ def tur_bul(bolum, metin):
         if anahtar in bolum.upper():
             return tur
     m = metin.lower()
+    if re.search(r"\(karar sayısı: ?\d+\)", m):  # Cumhurbaşkanı kararı (adında "kanun" geçse de)
+        return "ck"
     if "yönetmeli" in m:
         return "yonetmelik"
     if "tebliğ" in m:
@@ -133,7 +135,7 @@ def gun_tara(gun, mevcut):
         kayit = {
             "id": "rg-" + g + "-" + sade_id(karar.get("baslik") or oge["metin"]),
             "baslik": karar.get("baslik") or oge["metin"],
-            "tur": karar.get("tur") if karar.get("tur") in {"kanun", "cbk", "yonetmelik", "teblig", "genelge", "tuzuk"} else tur,
+            "tur": karar.get("tur") if karar.get("tur") in {"kanun", "cbk", "ck", "yonetmelik", "teblig", "genelge", "tuzuk"} else tur,
             "rg_tarih": gun.isoformat(),
             "rg_sayi": sayi.group(1) if sayi else "",
             "birim": karar.get("birim", ""),

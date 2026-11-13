@@ -24,7 +24,8 @@ TUR_ADLARI = {
     "kanun": "Kanunlar ve Kanun Hükmünde Kararnameler",
     "cbk": "Cumhurbaşkanlığı Kararnameleri",
     "khk": "Kanun Hükmünde Kararnameler",
-    "bkk": "Bakanlar Kurulu Kararları",
+    "bkk": "Bakanlar Kurulu ve Cumhurbaşkanı Kararları",
+    "ck": "Cumhurbaşkanı Kararları",
     "tuzuk": "Tüzükler",
     "yonetmelik": "Yönetmelikler",
     "yonerge": "Yönergeler",
@@ -34,7 +35,7 @@ TUR_ADLARI = {
     "yazi": "Resmî Yazılar ve Talimatlar",
 }
 # Listede/menüde birlikte gösterilen türler: KHK'ler Kanunlar bölümünde listelenir
-GRUP = {"khk": "kanun"}
+GRUP = {"khk": "kanun", "ck": "bkk"}
 
 
 def grup(t):
@@ -42,7 +43,7 @@ def grup(t):
 
 
 TUR_TEKIL = {
-    "kanun": "Kanun", "cbk": "Cumhurbaşkanlığı Kararnamesi", "khk": "Kanun Hükmünde Kararname", "bkk": "Bakanlar Kurulu Kararı",
+    "kanun": "Kanun", "cbk": "Cumhurbaşkanlığı Kararnamesi", "khk": "Kanun Hükmünde Kararname", "bkk": "Bakanlar Kurulu Kararı", "ck": "Cumhurbaşkanı Kararı",
     "tuzuk": "Tüzük", "yonetmelik": "Yönetmelik", "yonerge": "Yönerge", "genelge": "Genelge",
     "teblig": "Tebliğ", "protokol": "Protokol", "yazi": "Resmî Yazı",
 }
@@ -182,7 +183,7 @@ def yururluk_denetimi(belgeler):
             dizin.setdefault((b["rg_tarih"], re.sub(r"\D.*", "", b["rg_sayi"])), []).append(b)
     for b in belgeler.values():
         govde = b.get("govde") or ""
-        if "yürürlükten kaldırılmıştır" not in govde or b.get("tur") not in ("yonetmelik", "teblig", "tuzuk", "kanun", "khk", "cbk", "bkk"):
+        if "yürürlükten kaldırılmıştır" not in govde or b.get("tur") not in ("yonetmelik", "teblig", "tuzuk", "kanun", "khk", "cbk", "bkk", "ck"):
             continue
         for m in re.finditer("yürürlükten kaldırılmıştır", govde):
             bas = max(govde.rfind("\n", 0, m.start()) + 1, m.start() - 1500)
@@ -207,7 +208,7 @@ _BELGE = {}
 _KIMLIK = {}  # her (güncel ya da eski) kimlik -> sayfası olan (tür, kimlik)
 
 
-SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "tuzuk", "yonetmelik", "teblig"}
+SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "ck", "tuzuk", "yonetmelik", "teblig"}
 
 
 def son_degisiklik_bul(b):
@@ -1285,7 +1286,7 @@ def sirala_anahtar(b):
     return (b.get("son_degisiklik") or b.get("rg_tarih") or b.get("tarih") or "0000")
 
 
-RG_TURLERI = {"kanun", "khk", "cbk", "yonetmelik", "teblig", "tuzuk", "bkk"}
+RG_TURLERI = {"kanun", "khk", "cbk", "yonetmelik", "teblig", "tuzuk", "bkk", "ck"}
 
 
 def tablo(belgeler, kok):

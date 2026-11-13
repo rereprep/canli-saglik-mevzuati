@@ -1,7 +1,7 @@
 (function(){
   "use strict";
   var kok = (document.querySelector('link[rel=stylesheet]').getAttribute('href')||'').split('assets/stil.css')[0];
-  var TUR = {kanun:"Kanun",cbk:"Cumhurbaşkanlığı Kararnamesi",khk:"Kanun Hükmünde Kararname",bkk:"Bakanlar Kurulu Kararı",tuzuk:"Tüzük",yonetmelik:"Yönetmelik",yonerge:"Yönerge",genelge:"Genelge",teblig:"Tebliğ",protokol:"Protokol",yazi:"Resmî Yazı"};
+  var TUR = {kanun:"Kanun",cbk:"Cumhurbaşkanlığı Kararnamesi",khk:"Kanun Hükmünde Kararname",bkk:"Bakanlar Kurulu Kararı",ck:"Cumhurbaşkanı Kararı",tuzuk:"Tüzük",yonetmelik:"Yönetmelik",yonerge:"Yönerge",genelge:"Genelge",teblig:"Tebliğ",protokol:"Protokol",yazi:"Resmî Yazı"};
   var HARF = {"ç":"c","ğ":"g","ı":"i","ö":"o","ş":"s","ü":"u","â":"a","î":"i","û":"u"};
   function sade(s){return (s||"").toLocaleLowerCase("tr").replace(/[çğıöşüâîû]/g,function(c){return HARF[c];}).normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^0-9a-z]+/g," ").trim();}
   function e(s){return String(s||"").replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
@@ -105,7 +105,7 @@
       if(benim!==calismaNo||!dizin)return;
       var kelimeler=q?q.split(" "):[], sonuc=[];
       dizin.forEach(function(b){
-        if(!turler[b.t==="khk"?"kanun":b.t])return;
+        if(!turler[b.t==="khk"?"kanun":b.t==="ck"?"bkk":b.t])return;
         var yil=+((b.r||b.d||"").slice(0,4))||0; if((y1>0||y2<9999)&&(yil<y1||yil>y2))return;
         if(sayi&&String(b.s).indexOf(sayi)<0&&String(b.rs).indexOf(sayi)<0)return;
         var ma=document.getElementById("mulga-ara");if(ma&&!ma.checked&&b.x)return;

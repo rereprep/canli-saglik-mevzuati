@@ -1,7 +1,8 @@
 ---
 id: "rg-20260831-bazi-maddelerin-2313-sayili-uyusturucu-maddelerin-murakabesi-hakkinda-"
 baslik: "Bazı Maddelerin 2313 Sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanun Hükümlerine Tabi Tutulması Hakkında Karar"
-tur: "bkk"
+tur: "ck"
+eski_tur: "bkk"
 tarih: "2026-08-30"
 sayi: "11684"
 rg_tarih: "2026-08-31"
