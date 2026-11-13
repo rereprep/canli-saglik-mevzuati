@@ -7,8 +7,9 @@ kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-11112/verem-savasi-hizmetleri-genelgesi.html"
 durum: "yürürlükte"
 ocr: true
-duzeltildi: true
-kontrol_edildi: true
+duzeltildi: false
+kontrol_edildi: false
+konu: "1990 tarihli Verem Savaşı Hizmetleri ile İlgili Genelgeler derlemesi. Kaynak belge çok düşük kaliteli bir taramadır; buradaki metin yer yer kaynağı tam yansıtmamaktadır. Alıntı yapmadan önce mutlaka kaynak belgeye bakınız."
 ---
 
 T. C.

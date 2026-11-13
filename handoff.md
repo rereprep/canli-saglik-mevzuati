@@ -243,3 +243,9 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 ## 2026-11-14 — 11684 sayılı CK metni
 - 11684 sayılı Cumhurbaşkanı Kararı ve eki liste (14 madde) RG görüntüsünden yazıldı. 7 genelge OCR düzeltmesi, Doğum Öncesi Bakım rehberi eki ve araclar/kalite_tara.py aynı commitle gönderildi.
 - Bekleyen: Verem Savaşı Genelgesi (calisma/sg/06, out_a.md eksik olabilir), künye tarihleri, kalan OCR.
+
+## 2026-11-14 (2)
+- Mülga 2015 Evde Sağlık Yönetmeliği (RG 29280) eski- kaydı olarak eklendi.
+- Verem Savaşı Genelgesi (sbg-11112): luna çıktıları (calisma/sg/06/out_*.md) görüntüyle karşılaştırıldı, uydurma/yanlış okuma içeriyor → UYGULANMADI. Mevcut metin de güvenilmez; künyeye uyarı kondu, kontrol_edildi false. Tarama çok bozuk; güvenilir çözüm için daha iyi bir kaynak gerek.
+- Sitede tarihsiz 27 kayıt kaldı; metinlerinden tarih çıkarılamıyor.
+- UYARI: luna ajanlarının düşük kaliteli taramalardan yazdığı metinler uygulanmadan önce görüntüyle örnek karşılaştırma yapılmalı.
