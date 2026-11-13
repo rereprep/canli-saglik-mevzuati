@@ -1,0 +1,26 @@
+name: Bağlantı denetimi
+
+# Her ayın 1'inde kaynak bağlantılarını dener; açılmayan varsa bir konu (issue) açar.
+on:
+  schedule:
+    - cron: "0 5 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  denetle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: denetle
+        run: python araclar/baglanti_denetle.py
+      - if: steps.denetle.outputs.sorun != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Bağlantı denetimi: ${{ steps.denetle.outputs.sorun }} sorunlu kaynak bağlantısı" --body-file baglanti-raporu.md

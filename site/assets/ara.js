@@ -9,7 +9,11 @@
   function tr(iso){var m=/(\d{4})-(\d{2})-(\d{2})/.exec(iso||"");return m?m[3]+"."+m[2]+"."+m[1]:(iso||"");}
 
   var suz=document.getElementById("liste-suz");
-  if(suz){suz.addEventListener("input",function(){var q=sade(suz.value);document.querySelectorAll("table.liste tbody tr").forEach(function(tr){tr.style.display=!q||sade(tr.textContent).indexOf(q)>=0?"":"none";});});}
+  var mg0=document.getElementById("mulga-goster");
+  var suzUygula=function(){var q=suz?sade(suz.value):"",mul=!mg0||mg0.checked;document.querySelectorAll("table.liste tbody tr").forEach(function(tr){tr.style.display=((!q||sade(tr.textContent).indexOf(q)>=0)&&(mul||!tr.hasAttribute("data-mulga")))?"":"none";});};
+  if(suz)suz.addEventListener("input",suzUygula);
+  if(mg0){try{if(localStorage.getItem("csm-mulga")==="0")mg0.checked=false;}catch(x){}
+    mg0.addEventListener("change",function(){try{localStorage.setItem("csm-mulga",mg0.checked?"1":"0");}catch(x){}suzUygula();});suzUygula();}
 
   // Liste sıralama: ada göre ya da tarihe göre (tarihi olmayanlar her zaman sonda)
   function karsilastir(tur){var son=tur.indexOf("son-")===0,yon=son?tur.slice(4):tur;return function(a,b){
@@ -104,6 +108,7 @@
         if(!turler[b.t==="khk"?"kanun":b.t])return;
         var yil=+((b.r||b.d||"").slice(0,4))||0; if((y1>0||y2<9999)&&(yil<y1||yil>y2))return;
         if(sayi&&String(b.s).indexOf(sayi)<0&&String(b.rs).indexOf(sayi)<0)return;
+        var ma=document.getElementById("mulga-ara");if(ma&&!ma.checked&&b.x)return;
         var parca="";
         if(kelimeler.length){
           var hedef=sade(b.b+" "+b.k+" "+(b.e||[]).join(" ")+" "+b.s);
@@ -123,7 +128,7 @@
       document.getElementById("sonuc-bilgi").textContent=sonuc.length+" sonuç bulundu"+(sonuc.length>300?" (ilk 300 gösteriliyor)":"")+durum;
       var isaretle=function(s){var x=e(s);qEl.value.trim().split(/\s+/).filter(function(k){return k.length>1;}).forEach(function(k){x=x.replace(new RegExp("("+kacis(e(k))+")","gi"),"<mark>$1</mark>");});return x;};
       document.getElementById("sonuclar").innerHTML=sonuc.slice(0,300).map(function(s){var b=s.b;
-        var ust=[TUR[b.t],b.d&&("Tarih: "+tr(b.d)),b.s&&("Sayı: "+b.s),b.r&&("RG: "+tr(b.r)+(b.rs?" / "+b.rs:"")),b.m?"Tam metin":"Künye"].filter(Boolean).join(" · ");
+        var ust=[TUR[b.t],b.d&&("Tarih: "+tr(b.d)),b.s&&("Sayı: "+b.s),b.r&&("RG: "+tr(b.r)+(b.rs?" / "+b.rs:"")),b.m?"Tam metin":"Künye",b.x?"Mülga":""].filter(Boolean).join(" · ");
         return '<div class="sonuc"><a href="'+kok+'mevzuat/'+b.t+'/'+b.i+'.html">'+isaretle(b.b)+'</a><div class="ust-bilgi">'+e(ust)+'</div>'+(s.p?'<div class="parca">…'+isaretle(s.p)+'…</div>':(b.k?'<div class="parca">'+e(b.k)+'</div>':''))+'</div>';}).join("");
     };
     (dizin?Promise.resolve():yukle("dizin.json?t="+Date.now()).then(function(d){dizin=d;})).then(function(){
@@ -133,6 +138,7 @@
   }
   form.addEventListener("submit",function(ev){ev.preventDefault();history.replaceState(null,"","?q="+encodeURIComponent(qEl.value));calistir();});
   var ssir2=document.getElementById("sonuc-sirala"); if(ssir2)ssir2.addEventListener("change",calistir);
+  var ma2=document.getElementById("mulga-ara"); if(ma2)ma2.addEventListener("change",calistir);
   calistir();
 })();
 

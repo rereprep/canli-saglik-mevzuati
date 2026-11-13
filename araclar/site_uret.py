@@ -1193,14 +1193,41 @@ def belge_sayfasi(b):
             indir = f'<div class="indir"><a class="dugme" href="{e(b["kaynak_url"])}" target="_blank" rel="noopener">Resmî kaynakta görüntüle</a></div>'
         govde = '<p class="bilgi">Bu mevzuatın tam metni henüz sisteme eklenmedi. Künye bilgileri ve resmî kaynağa bağlantı aşağıdadır.</p>'
         ara = ""
+    mulga_serit = ""
+    if mulga(b):
+        yeni = _bag(b.get("yerine") or "") or _bag(b.get("kaldiran") or "")
+        mulga_serit = ('<p class="mulga-serit"><strong>Bu düzenleme yürürlükte değildir.</strong>'
+                       + (f" Yerine geçen ya da yürürlükten kaldıran düzenleme: {yeni}" if yeni else "") + "</p>\n")
+    guven = metin_turu(b)
+    if guven:
+        k += f'<tr><th>Metin</th><td><span class="guven {guven[0]}">{e(guven[1])}</span> — {e(guven[2])}</td></tr>'
+    hata_url = ("https://github.com/rereprep/canli-saglik-mevzuati/issues/new?title=" + _ub.quote("Hata bildirimi: " + b["baslik"][:120])
+                + "&body=" + _ub.quote(f"Sayfa: {SITE_URL}mevzuat/{b['tur']}/{b['id']}.html\n\nHatanın yeri ve doğrusu:\n"))
+    k += f'<tr><th>Hata bildir</th><td><a href="{e(hata_url)}" target="_blank" rel="noopener">Bu sayfadaki bir hatayı bildirin</a></td></tr>'
     icerik = f"""<nav class="yol"><a href="{kok}index.html">Ana Sayfa</a> › <a href="{kok}tur/{grup(b['tur'])}.html">{e(TUR_ADLARI[grup(b['tur'])])}</a></nav>
 <h1 class="belge-baslik">{e(b['baslik'])}</h1>
-{indir}
+{mulga_serit}{indir}
 <table class="kunye">{k}</table>
 <div class="etiketler">{etiket}</div>
 {ara}
 {govde}"""
     return sayfa(b["baslik"], icerik, kok, belge_aciklamasi(b), yol=f"mevzuat/{b['tur']}/{b['id']}.html")
+
+
+def metin_turu(b):
+    """Okuyucuya metnin ne kadar güvenilir olduğunu söyleyen etiket: (sınıf, etiket, açıklama)."""
+    if not b.get("tam_metin"):
+        return None
+    kay = b.get("kaynak", "")
+    if b.get("ocr"):
+        return ("ocr", "Taranmış belgeden okundu", "yazım hataları içerebilir; kaynak belgeyle karşılaştırınız.")
+    if "mevzuat.gov.tr" in kay and "güncel" in kay:
+        return ("guncel", "Güncel resmî metin", "mevzuat.gov.tr'den alınmıştır; değişiklikler işlenmiştir.")
+    if "ilk yayımlanan" in kay:
+        return ("ilk", "İlk yayım metni", "Resmî Gazete'de yayımlandığı hâlidir; sonraki değişiklikler işlenmemiş olabilir.")
+    if "Resmî Gazete" in kay or "resmigazete" in (b.get("kaynak_url") or ""):
+        return ("ilk", "Resmî Gazete metni", "yayımlandığı hâlidir.")
+    return ("kurum", "Kurum yayını", "ilgili kurumun yayımladığı metinden aktarılmıştır.")
 
 
 def belge_aciklamasi(b):
@@ -1243,7 +1270,7 @@ def tablo(belgeler, kok):
         sd = b.get("son_degisiklik", "")
         sdh = f"<td>{e(tarih_tr(sd))}</td>" if sd_sutun else ""
         satirlar.append(
-            f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}" data-son="{e(sd)}">'
+            f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}" data-son="{e(sd)}"{" data-mulga" if mulga(b) else ""}>'
             f'<td><a href="{kok}mevzuat/{b["tur"]}/{e(b["id"])}.html">{e(b["baslik"])}</a>{isaret}</td>'
             f'<td>{e(TUR_TEKIL[b["tur"]])}</td><td>{e(tarih_tr(b.get("tarih")))}</td>{sdh}{sayi}{rg}</tr>')
     bas = ("<th>Mevzuat Adı</th><th>Tür</th><th>Tarih</th>" + ('<th data-kolon="son">Son Değişiklik</th>' if sd_sutun else "")
@@ -1276,6 +1303,8 @@ def ana_sayfa(belgeler):
 
 def tur_sayfasi(tur, belgeler):
     liste = sorted((b for b in belgeler.values() if grup(b["tur"]) == tur), key=lambda b: sade(b["baslik"]))
+    mulga_kutu = (' <label class="mulga-sec"><input type="checkbox" id="mulga-goster" checked> Mülga olanları göster</label>'
+                  if any(mulga(b) for b in liste) else "")
     sd_secenek = ('<option value="son-yeni">Son değişikliğe göre (yeniden eskiye)</option><option value="son-eski">Son değişikliğe göre (eskiden yeniye)</option>'
                   if any(b["tur"] in SD_TURLERI for b in liste) else "")
     icerik = f"""<nav class="yol"><a href="../index.html">Ana Sayfa</a> › {e(TUR_ADLARI[tur])}</nav>
@@ -1283,7 +1312,7 @@ def tur_sayfasi(tur, belgeler):
 <div class="metin-ara"><input type="search" id="liste-suz" placeholder="Bu listede süz…" aria-label="Listede süz">
 <label class="sirala">Sırala <select id="liste-sirala" aria-label="Sıralama">
 <option value="ad">Ada göre (A–Z)</option><option value="yeni">Tarihe göre (yeniden eskiye)</option><option value="eski">Tarihe göre (eskiden yeniye)</option>{sd_secenek}
-</select></label></div>
+</select></label>{mulga_kutu}</div>
 {tablo(liste, "../")}"""
     return sayfa(TUR_ADLARI[tur], icerik, "../")
 
@@ -1299,6 +1328,7 @@ def ara_sayfasi():
     <label><input type="radio" name="kapsam" value="baslik" checked> Mevzuat adında</label>
     <label><input type="radio" name="kapsam" value="metin"> Tam metinde</label>
     <label>Sayı <input type="text" id="sayi" size="10"></label>
+    <label><input type="checkbox" id="mulga-ara" checked> Mülga olanlar dahil</label>
     <label>Yıl <input type="number" id="yil1" min="1900" max="2100" placeholder="başlangıç"> – <input type="number" id="yil2" min="1900" max="2100" placeholder="bitiş"></label>
   </div>
   <fieldset class="turler"><legend>Mevzuat türü</legend>{turler}</fieldset>
