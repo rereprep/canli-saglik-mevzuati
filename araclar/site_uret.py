@@ -159,6 +159,7 @@ def belgeleri_oku():
         b["baslik"] = ad_temizle(b)
         degisiklik_listesi_ekle(b)
         son_degisiklik_bul(b)
+    yururluk_denetimi(sonuc)
     _KIMLIK.clear()
     _BELGE.clear()
     for b in sonuc.values():
@@ -167,6 +168,39 @@ def belgeleri_oku():
         for _, eski in b.get("eski_kimlikler", []):
             _KIMLIK.setdefault(eski, (b["tur"], b["id"]))
     return sonuc
+
+
+_KALDIRMA = re.compile(r"(\d{1,2})/(\d{1,2})/(\d{4}) tarihli ve (\d{4,5}) (?:mükerrer |\d\.? ?mükerrer )?sayılı Resm[iî] Gazete[’']?\s?[dt]e yayımlanan ([^.;]{5,400}?)(?=,? ?(?:\d{1,2}/\d{1,2}/\d{4} tarihli)|yürürlükten kaldırılmıştır)")
+
+
+def yururluk_denetimi(belgeler):
+    """Bir düzenlemenin metnindeki "… tarihli ve … sayılı Resmî Gazete'de yayımlanan X yürürlükten kaldırılmıştır"
+    hükmü sitedeki bir kaydı gösteriyorsa o kayıt kendiliğinden mülga sayılır ve kaldıran düzenlemeye bağlanır."""
+    dizin = {}
+    for b in belgeler.values():
+        if b.get("rg_sayi") and re.fullmatch(r"\d{4}-\d{2}-\d{2}", b.get("rg_tarih") or ""):
+            dizin.setdefault((b["rg_tarih"], re.sub(r"\D.*", "", b["rg_sayi"])), []).append(b)
+    for b in belgeler.values():
+        govde = b.get("govde") or ""
+        if "yürürlükten kaldırılmıştır" not in govde or b.get("tur") not in ("yonetmelik", "teblig", "tuzuk", "kanun", "khk", "cbk", "bkk"):
+            continue
+        for m in re.finditer("yürürlükten kaldırılmıştır", govde):
+            bas = max(govde.rfind("\n", 0, m.start()) + 1, m.start() - 1500)
+            cumle = govde[bas:m.end()]
+            if re.search(r"madde|fıkra|bent|ibare|cümle|hüküm", cumle[-260:].split("yayımlanan")[-1]):
+                continue  # yalnız bir maddenin/ibarenin kaldırılması
+            for g, a, y, sayi, ad in _KALDIRMA.findall(cumle):
+                for hedef in dizin.get((f"{y}-{int(a):02d}-{int(g):02d}", sayi), []):
+                    if hedef is b or hedef.get("kaldiran") or mulga(hedef):
+                        continue
+                    k1 = {w[:6] for w in sade(hedef["baslik"]).split() if len(w) > 3}
+                    k2 = {w[:6] for w in sade(ad).split() if len(w) > 3}
+                    tam_ad = re.search(r"(Yönetmeli[kğ]i?|Tebliğ[iî]?|Tüzü[kğ]ü?|Nizamname(si)?|Talimatname(si)?|Kararı?|Kanunu?|Esasları?|Yönerge(si)?)(\s*\([^)]*\))?\s*(ile|ve)?\s*$", ad)
+                    if k1 and tam_ad and len(k1 & k2) / len(k1) >= 0.7:
+                        hedef["durum"] = "yürürlükten kaldırıldı"
+                        hedef["kaldiran"] = b["id"]
+                        hedef.setdefault("konu_ek", f"{tarih_tr(b.get('rg_tarih'))} tarihli ve {b.get('rg_sayi')} sayılı Resmî Gazete’de yayımlanan {b['baslik']} ile yürürlükten kaldırılmıştır.")
+                        print(f"  mülga: {hedef['baslik'][:60]} ({hedef['rg_tarih']}) <- {b['baslik'][:50]}")
 
 
 _BELGE = {}
@@ -1078,8 +1112,8 @@ def kunye(b):
         satirlar.append(("Yayımlayan Birim", b["birim"]))
     if b.get("durum"):
         satirlar.append(("Durum", b["durum"].capitalize()))
-    if b.get("konu"):
-        satirlar.append(("Açıklama", b["konu"]))
+    if b.get("konu") or b.get("konu_ek"):
+        satirlar.append(("Açıklama", b.get("konu_ek") or b["konu"]))
     if b.get("kaynak"):
         satirlar.append(("Kaynak", b["kaynak"]))
     for k in b.get("diger_kaynaklar", []):

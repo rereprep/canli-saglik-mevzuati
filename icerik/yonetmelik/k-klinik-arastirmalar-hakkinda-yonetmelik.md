@@ -6,9 +6,9 @@ tarih: "2011-08-19"
 rg_tarih: "2011-08-19"
 rg_sayi: "28030"
 birim: "Sağlık Bakanlığı"
-konu: "İnsanlar üzerinde yapılacak klinik araştırmalar, etik kurullar ve izin prosedürleri."
+konu: "19/8/2011 tarihli ve 28030 sayılı Resmî Gazete’de yayımlanan yönetmelik; 13/4/2013 tarihli ve 28617 sayılı Resmî Gazete’de yayımlanan Klinik Araştırmalar Hakkında Yönetmeliğin 35 inci maddesiyle yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2013/04/20130413-7.htm)."
 etiketler: ["klinik arastirma", "etik kurul", "arastirma", "ilac arastirmalari"]
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/08/20110819-9.htm"
 ---

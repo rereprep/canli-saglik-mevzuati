@@ -6,19 +6,9 @@ rg_tarih: "2020-03-18"
 rg_sayi: "31072"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2020/03/20200318-2.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34368&MevzuatTur=7&MevzuatTertip=5"
 ---
-
-18 Mart 2020 ÇARŞAMBA
-
-Resmî Gazete
-
-Sayı : 31072
-
-### YÖNETMELİK
-
-Sağlık Bakanlığından:
 
 ### HASTANE AFET VE ACİL DURUM PLANLARI (HAP)
 
@@ -26,7 +16,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-**Amaç, Kapsam, Dayanak ve Tanımlar**
+Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç
 
@@ -90,7 +80,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Görev, Yetki ve Sorumluluklar**
+Görev, Yetki ve Sorumluluklar
 
 #### Hastane afet ve acil durum planları
 
@@ -342,7 +332,7 @@ d) Belediye hastanelerinde;
 
 ### ÜÇÜNCÜ BÖLÜM
 
-**Hastane Afet ve Acil Durum Planlarının Güncellenmesi ve Tatbikatlar**
+Hastane Afet ve Acil Durum Planlarının Güncellenmesi ve Tatbikatlar
 
 #### Hastane afet ve acil durum planlarının güncellenmesi
 
@@ -372,7 +362,7 @@ yetkilidir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-**HAP Eğitimleri**
+HAP Eğitimleri
 
 #### Hastane afet ve acil durum plan eğitimleri
 
@@ -394,7 +384,7 @@ c) Üniversite, belediye ve EII ve EIII grubu ilçe devlet hastaneleri için: Bi
 
 ### BEŞİNCİ BÖLÜM
 
-**Çeşitli ve Son Hükümler**
+Çeşitli ve Son Hükümler
 
 #### Kayıtların tutulması
 
