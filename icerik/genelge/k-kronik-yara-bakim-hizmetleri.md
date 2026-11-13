@@ -15,14 +15,15 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-## T.C. SAĞLIK BAKANLIĞI
-### Sağlık Hizmetleri Genel Müdürlüğü
+T.C.
+SAĞLIK BAKANLIĞI
+Sağlık Hizmetleri Genel Müdürlüğü
 
 Sayı : 83913885-
 Konu : Kronik Yara Bakım Hizmetleri
 
-### GENELGE
-### 2021/4
+GENELGE
+2021/4
 
 Tedavileri zor ve uzun süren, multidisipliner bir çalışmayı gerektiren kronik yaralar gerek hastalarda oluşturdukları olumsuz etkiler, gerekse sağlık çalışanları ve sağlık sistemine getirdiği külfet açısından tüm gelişmiş ve gelişmekte olan toplumlar için büyük bir sorun olup başvuran hastaların teşhis ve tedavi sürecini gerçekleştirmek, oluşabilecek komplikasyonları önlemek/azaltmak, kronik yara bakımı verecek sağlık tesislerinde klinikler arasında koordinasyonu sağlamak amacıyla; kronik yara hizmetleri ile ilgili iş ve işlemlerin düzenlenmesi ihtiyacı doğmuştur.
 
@@ -33,16 +34,14 @@ Genelgenin ilinizde bulunan kamu ve özel tüm sağlık tesislerine duyurulması
 Bilgilerinizi ve gereğini önemle arz/rica ederim.
 
 Prof. Dr. Sabahattin AYDIN
-
 Bakan a.
-
 Bakan Yardımcısı
 
 EK-1: Kronik Yara Bakım Hizmetlerine İlişkin Usul ve Esaslar (10 sayfa)
 
 **Dağıtım:**
-
-Gereği: 81 İl Valiliği (İl Sağlık Müdürlüğü)
+Gereği:
+81 İl Valiliği (İl Sağlık Müdürlüğü)
 
 Bilgi:
 Cumhurbaşkanlığı
@@ -51,35 +50,35 @@ Sosyal Güvenlik Kurumu
 Yükseköğretim Kurulu Başkanlığı
 A Planı
 
-## KRONİK YARA BAKIM HİZMETLERİNE İLİŞKİN USUL VE ESASLAR
+KRONİK YARA BAKIM HİZMETLERİNE İLİŞKİN USUL VE ESASLAR
 
-### A- TANIMLAR
+**A- TANIMLAR**
 
 1. Bu usul ve esaslarda geçen;
 
-a) Bakan: Sağlık Bakanını,
+a) **Bakan:** Sağlık Bakanını,
 
-b) Bakanlık: Sağlık Bakanlığını,
+b) **Bakanlık:** Sağlık Bakanlığını,
 
-c) Bilimsel komisyon: Kronik yara bakım hizmetlerinin planlanması, geliştirilmesi ve ülke genelinde etkin bir şekilde sunulması amacıyla Bakanlıkça oluşturulan Kronik Yara Bakım Hizmetleri Bilimsel Komisyonunu,
+c) **Bilimsel komisyon:** Kronik yara bakım hizmetlerinin planlanması, geliştirilmesi ve ülke genelinde etkin bir şekilde sunulması amacıyla Bakanlıkça oluşturulan Kronik Yara Bakım Hizmetleri Bilimsel Komisyonunu,
 
-ç) Birinci basamak kronik yara bakımı: Sadece cilt (dermis ve epidermis) ve cilt altının etkilendiği, yağ ve derin dokuların etkilenmediği yaraların tedavisi için sunulan hizmeti,
+ç) **Birinci basamak kronik yara bakımı:** Sadece cilt (dermis ve epidermis) ve cilt altının etkilendiği, yağ ve derin dokuların etkilenmediği yaraların tedavisi için sunulan hizmeti,
 
-d) Genel müdür: Sağlık Hizmetleri Genel Müdürünü,
+d) **Genel müdür:** Sağlık Hizmetleri Genel Müdürünü,
 
-e) İkinci basamak kronik yara bakımı: Yumuşak dokuların etkilendiği, basit cerrahi girişimler (debridman, apse drenajı, minör amputasyonlar) ile enfeksiyon ve nekrozun kontrol edilmesini takiben yine basit cerrahi işlemler ile veya medikal olarak kapanabilecek yaraların takip ve tedavisinin yapıldığı hizmeti,
+e) **İkinci basamak kronik yara bakımı:** Yumuşak dokuların etkilendiği, basit cerrahi girişimler (debridman, apse drenajı, minör amputasyonlar) ile enfeksiyon ve nekrozun kontrol edilmesini takiben yine basit cerrahi işlemler ile veya medikal olarak kapanabilecek yaraların takip ve tedavisinin yapıldığı hizmeti,
 
-f) Kronik yara: Altta yatan birtakım problemlerden dolayı iyileşmesi geciken, normal iyileşme safhalarını göstermeyen çoğu zaman iyileşmek için uzun süre gerektiren, standart tedaviye iyi yanıt vermeyen yaralardır.
+f) **Kronik yara:** Altta yatan birtakım problemlerden dolayı iyileşmesi geciken, normal iyileşme safhalarını göstermeyen çoğu zaman iyileşmek için uzun süre gerektiren, standart tedaviye iyi yanıt vermeyen yaralardır.
 
-g) Kronik yara bakım ünitesi: Bakanlıkça tescil edilen ve kronik yara bakım alanlarında sunulan tedavilerle iyileşmeyen yaralar dahil olmak üzere bu Genelge kapsamında tanımlanan yaraların tümüne ve eşlik eden hastalıkların basit cerrahi müdahalelere izin vermediği hastaların tedavi edildiği üniteyi,
+g) **Kronik yara bakım ünitesi:** Bakanlıkça tescil edilen ve kronik yara bakım alanlarında sunulan tedavilerle iyileşmeyen yaralar dahil olmak üzere bu Genelge kapsamında tanımlanan yaraların tümüne ve eşlik eden hastalıkların basit cerrahi müdahalelere izin vermediği hastaların tedavi edildiği üniteyi,
 
-ğ) Müdürlük: İl Sağlık Müdürlüğünü,
+ğ) **Müdürlük:** İl Sağlık Müdürlüğünü,
 
-h) Sorumlu tabip: Kronik yara ünitesinde hizmetin koordinasyonu ve organizasyonundan, bir bütün olarak planlanıp yürütülmesinden ve ekibinde görevli tüm personelden ilgili sağlık tesisi yönetimine karşı sorumlu olan genel cerrahi uzmanı, ortopedi ve travmatoloji uzmanı, Plastik, Rekonstrüktif ve Estetik Cerrahi Uzmanı veya çocuk cerrahisi uzmanları arasından görevlendirilen tabibini,
+h) **Sorumlu tabip:** Kronik yara ünitesinde hizmetin koordinasyonu ve organizasyonundan, bir bütün olarak planlanıp yürütülmesinden ve ekibinde görevli tüm personelden ilgili sağlık tesisi yönetimine karşı sorumlu olan genel cerrahi uzmanı, ortopedi ve travmatoloji uzmanı, Plastik, Rekonstrüktif ve Estetik Cerrahi Uzmanı veya çocuk cerrahisi uzmanları arasından görevlendirilen tabibini,
 
 ifade eder.
 
-### B- KRONİK YARA BAKIM HİZMETLERİNE İLİŞKİN GENEL ESASLAR
+**B- KRONİK YARA BAKIM HİZMETLERİNE İLİŞKİN GENEL ESASLAR**
 
 1. Bu Genelge, bünyesinde kronik yara ünitesi bulunan Bakanlığa, üniversitelere, gerçek kişilere ve özel hukuk tüzel kişilerine ait sağlık tesisleri ile bu birimlerde veya ünitede görev yapan personeli kapsar.
 
@@ -93,13 +92,13 @@ ifade eder.
 
 6. Kronik yara bakım ünitelerinde yoğun bakım hizmetleri, 20/07/2011 tarihli ve 28000 sayılı Resmî Gazete’de yayımlanan Yataklı Sağlık Tesislerinde Yoğun Bakım Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ kapsamında yürütülür.
 
-7. Bakanlıkça istenilen bilgilerin, Bakanlığın belirlediği formata uygun şekilde elektronik sistem üzerinde kayıt altına alınmasından, bilgisayar ortamında tutulan kayıtların yetkisiz olarak değiştirilmemesine ve silinmemesine yönelik gerekli idari ve teknik tedbirlerin alınmasından, Bakanlığın zamanında iletilmesinden ilgisine göre il sağlık müdürlüğü ile sorumlu tabip birinci derecede sorumludur.
+7. Bakanlıkça istenilen bilgilerin, Bakanlığın belirlediği formata uygun şekilde elektronik sistem üzerinde kayıt altına alınmasından, bilgisayar ortamında tutulan kayıtların yetkisiz olarak değiştirilmemesine ve silinmemesine yönelik gerekli idari ve teknik tedbirlerin alınmasından, bilgilerin Bakanlığa zamanında iletilmesinden ilgisine göre il sağlık müdürlüğü ile sorumlu tabip birinci derecede sorumludur.
 
 8. Bu Genelgede hüküm bulunmayan hâllerde, kronik yara bakım ünitesi bulunan sağlık tesisinin tabi olduğu mevzuat hükümleri ile ilgili diğer mevzuat hükümleri uygulanır.
 
-### C- KOMİSYONUN KURULMASI VE GÖREVLERİ
+**C- KOMİSYONUN KURULMASI VE GÖREVLERİ**
 
-1. Kronik yara bakımı konusunda, birimlerin faaliyetleri ve geliştirilmesi konularında gerekli eğitimleri planlanmak, eğitim merkezlerini belirlemek, yapılacak eğitimlerin müfredatını belirlemek, bu birimlerin faaliyet ve hizmetleri ile ilgili Bakanlığa intikal eden şikâyetleri incelemek ve kronik yara bakım hizmetleri ve faaliyetleri konusunda tıbbi ve teknolojik gelişmeleri izlemek ve gerektiğinde uygulanmasını sağlamak amacıyla genel müdürlük bünyesinde, Bakanlıkça Kronik Yara Bakım Bilimsel Komisyonu oluşturulur.
+1. Kronik yara bakımı konusunda, birimlerin faaliyetleri ve geliştirilmesi konularında gerekli eğitimleri planlamak, eğitim merkezlerini belirlemek, yapılacak eğitimlerin müfredatını belirlemek, bu birimlerin faaliyet ve hizmetleri ile ilgili Bakanlığa intikal eden şikâyetleri incelemek ve kronik yara bakım hizmetleri ve faaliyetleri konusunda tıbbi ve teknolojik gelişmeleri izlemek ve gerektiğinde uygulanmasını sağlamak amacıyla genel müdürlük bünyesinde, Bakanlıkça Kronik Yara Bakım Bilimsel Komisyonu oluşturulur.
 
 2. Komisyon, Genel Müdür veya görevlendireceği bir yetkilinin başkanlığında, bir genel cerrahi uzmanı, bir ortopedi ve travmatoloji uzmanı, bir Plastik, Rekonstrüktif ve Estetik Cerrahi Uzmanı olmak üzere en az 5 (beş) üyeden oluşur.
 
@@ -107,7 +106,7 @@ ifade eder.
 
 4. Seçilmiş üyelerden mazeretsiz olarak üst üste iki toplantıya katılmayanların üyelikleri sona erer.
 
-5. Komisyon başkanı tarafından gerek görülmesi halinde yurt içinden veya yurt dışından uzmanlar toplantıya davet edilebilir veya görüşleri alınabilir. Toplantıya davet edilen uzmanlar Komisyon çalışmalarına ile ilgili oylamaya katılamaz.
+5. Komisyon başkanı tarafından gerek görülmesi halinde yurt içinden veya yurt dışından uzmanlar toplantıya davet edilebilir veya görüşleri alınabilir. Toplantıya davet edilen uzmanlar Komisyon çalışmaları ile ilgili oylamaya katılamaz.
 
 6. Komisyon, Genel Müdürlüğün daveti üzerine en az 3 (üç) üyenin katılımı ile toplanır ve salt çoğunluk ile karar alır. Oylarda eşitlik olması halinde Komisyon başkanının taraf olduğu karar geçerli sayılır. Komisyonun sekretaryası Genel Müdürlük tarafından yürütülür.
 
@@ -115,7 +114,7 @@ ifade eder.
 
 9. Komisyon kararları tavsiye niteliğindedir.
 
-### Ç- KRONİK YARA BAKIM ÜNİTESİ FAALİYET İZNİ USUL VE ESASLARI
+**Ç- KRONİK YARA BAKIM ÜNİTESİ FAALİYET İZNİ USUL VE ESASLARI**
 
 1. Kronik yara bakım ünitesi, Ek-1’de belirtilen asgari standartlara göre Bakanlıkça verilen faaliyet izni ile kurulur.
 
@@ -131,7 +130,7 @@ ifade eder.
 
 7. Bakanlıkça faaliyet izni verilen kronik yara bakım üniteleri, bünyesinde bulunduğu sağlık tesisine ait faaliyet izin belgesine ilgili mevzuat kapsamında bağlı birim olarak eklenir.
 
-### D- KRONİK YARA BAKIM BİRİMLERİ VE ÜNİTESİNİN DENETİM USUL VE ESASLARI
+**D- KRONİK YARA BAKIM BİRİMLERİ VE ÜNİTESİNİN DENETİM USUL VE ESASLARI**
 
 1. Kronik yara bakım ünitesinin işleyişi ve verilen hizmetlerin bu Genelge hükümlerine uygun olarak etkili bir şekilde yürütülmesinden, sorumlu tabip, sağlık tesisi yönetimi ve müdürlükler birinci derecede ve müteselsilen sorumludur.
 
@@ -141,7 +140,7 @@ ifade eder.
 
 4. Müdürlük, denetimlerin gerçeğe uygun olarak düzenlenmesinden sorumludur.
 
-### E- KONSEY KURULMASI VE ÇALIŞMA PRENSİBİ
+**E- KONSEY KURULMASI VE ÇALIŞMA PRENSİBİ**
 
 1. Konsey sorumlu tabibin başkanlığında ilgili uzmanların katılımı ile oluşturulur.
 
@@ -153,13 +152,13 @@ ifade eder.
 
 5. Diğer kliniklerdeki yatış sürecinde kronik yarası ortaya çıkmış hastalar sorumlu tabibe yönlendirilerek konseye çıkarılmaları sağlanır.
 
-### F- EĞİTİM VE SERTİFİKASYON
+**F- EĞİTİM VE SERTİFİKASYON**
 
 1. Kronik yara bakımı ünitesi olan sağlık tesislerinde çalışacak hemşirelerin, Bakanlıkça onaylanan Stoma ve Yara Bakım Hemşireliği Sertifikasyon Eğitimi almaları zorunludur.
 
 2. Bakanlıkça gerektiğinde komisyon öncülüğünde sağlık tesislerinde görev yapan tabip, uzman tabip ve ilgili sağlık personeline eğitim düzenlenir.
 
-### G- MEVCUT KRONİK YARA BAKIM BİRİM VE ÜNİTELERİNİN UYUMU
+**G- MEVCUT KRONİK YARA BAKIM BİRİM VE ÜNİTELERİNİN UYUMU**
 
 1. Bu Genelgenin yürürlük tarihinden önce birinci ve ikinci basamak kronik yara bakımı hizmeti sunan sağlık tesisleri bu hizmeti verdiklerinin Bakanlıkça kayıt altına alınması için 1 (bir) yıl içerisinde bağlı bulundukları müdürlük aracılığı ile Bakanlığa müracaat etmek zorundadır.
 
@@ -169,8 +168,8 @@ a) Bu Genelge kapsamında faaliyet izni almak için fiziki şartlar, personel, a
 
 b) Kronik yara bakım üniteleri tarafından Ek-1’de diğer personel standartlarında yer alan sertifikalı stoma ve yara bakım hemşiresi bulundurma durumu 2 (iki) yıl içerisinde sağlanmak zorundadır.
 
-### EK-1
-## ASGARİ STANDARTLAR
+**EK-1**
+**ASGARİ STANDARTLAR**
 
 |  | Kronik yara bakımı ünitesi |
 |---|---|
@@ -179,8 +178,8 @@ b) Kronik yara bakım üniteleri tarafından Ek-1’de diğer personel standartl
 | DİĞER PERSONEL | Diyetisyen<br>Fizyoterapist<br>Psikolog veya sosyal çalışmacı<br>Podolog (zorunlu değildir)<br>Stoma ve Yara Bakım Hemşireliği sertifikası bulunan hemşire |
 | DİĞER STANDARTLAR | Kronik yara bakım polikliniği tercihen poliklinik katında ve cerrahi branşlara yakın, kolay ulaşılabilir bir yerde yapılandırılır.<br>Yaraların yıkanabilmesi için tercihen akım-ısı ayarlı su sistemi ve tek kişilik duş teknesi bulunur.<br>Pansuman arabası ve tromellerde, gerekli tüm pansuman ve tıbbi sarf malzemesi ile araç ve gereç 24 saat steril ve kullanıma hazır durumda bulundurulur. |
 
-### EK-2
-## FAALİYET İZNİ BAŞVURU FORMU
+**EK-2**
+**FAALİYET İZNİ BAŞVURU FORMU**
 
 ......................... İL SAĞLIK MÜDÜRLÜĞÜNE
 
@@ -202,41 +201,35 @@ Sağlık Tesisi Yönetimi
 Adı-Soyadı
 İmza
 
-### EK-3
-## BAŞVURU DOSYASINDA OLMASI GEREKEN BİLGİ VE BELGELER
+**EK-3**
+**BAŞVURU DOSYASINDA OLMASI GEREKEN BİLGİ VE BELGELER**
 
 | No | Bilgi ve belge |
 |---|---|
 | 1 | Sağlık tesisi bünyesinde fiilen görev yapan uzman sayısı ve listesi, (Özel sağlık tesisleri için çalışma belgeleri) |
 | 2 | Sağlık tesisi bünyesinde ayrıca bulunması zorunlu olan diğer uzmanlık ve yan dal uzmanlık dallarını ve sayısını gösterir liste |
-| 3 | Bulunması zorunlu tabip dışı sağlık personelinin listesi, Bakanlık onaylı sertifika veya eğitim belgeleri, görev tanımına ilişkin belgeleri içeren personel ait bilgi ve belgeler. |
+| 3 | Bulunması zorunlu tabip dışı sağlık personelinin listesi, Bakanlık onaylı sertifika veya eğitim belgeleri, öğrenim durumuna ilişkin belgeleri içeren personele ait bilgi ve belgeler. |
 | 4 | Sağlık tesisi bünyesinde bulundurulması zorunlu tıbbi hizmet birimlerinin listesi ve bu birimlerden izin veya ruhsata tabi olanlara ait mevzuatına göre alınmış faaliyet izin, tescil, ruhsat vb. belgeler |
 | 5 | Bulundurulması zorunlu araç-gereç, tıbbi cihaz ve donanım listesi |
 | 6 | Ek-4’de bulunan “Yerinde İnceleme ve Denetim Formu” |
 
-### EK-4
-## KRONİK YARA BAKIM ÜNİTELERİ YERİNDE İNCELEME VE DENETİM FORMU
+**EK-4**
+**KRONİK YARA BAKIM ÜNİTELERİ YERİNDE İNCELEME VE DENETİM FORMU**
 
-Sağlık Tesisinin Adı:
-
-Sağlık Tesisinin Hizmet Rolü:
-
-Sağlık Tesisinin Türü: Bakanlığa ait sağlık tesisi □　Devlet üniversitesi □　Vakıf üniversitesi □　Özel sağlık tesisi □
-
-Sağlık Tesisinin Adresi:
-
-Faaliyet İzin Tarihi: ………/………/………
-
-Başhekimin Adı Soyadı:
-
-Sorumlu Tabip Unvanı-Adı Soyadı:
-
-Yerinde Denetim Türü: Faaliyet İzni Denetimi □　Yıllık Olağan Denetim □
-
-Yerinde Denetim Tarihi: ………/………/………
+| Alan | Bilgi |
+|---|---|
+| Sağlık Tesisinin Adı: | |
+| Sağlık Tesisinin Hizmet Rolü: | |
+| Sağlık Tesisinin Türü: | Bakanlığa ait sağlık tesisi □　Devlet üniversitesi □　Vakıf üniversitesi □　Özel sağlık tesisi □ |
+| Sağlık Tesisinin Adresi: | |
+| Faaliyet İzin Tarihi: | ………/………/……… |
+| Başhekimin Adı Soyadı: | |
+| Sorumlu Tabip Unvanı-Adı Soyadı: | |
+| Yerinde Denetim Türü: | Faaliyet İzni Denetimi □　Yıllık Olağan Denetim □ |
+| Yerinde Denetim Tarihi: | ………/………/……… |
 
 | Soru No | Yerinde Denetim Soruları | Uygun | Uygun Değil | Açıklama |
-|---:|---|---|---|---|
+|---|---|---|---|---|
 | 1 | Kronik yara bakım ünitesinin faaliyet izni var mı? (Faaliyet izni yerinde denetimi sırasında ilgili alan doldurulmaz.) | | | |
 | 2 | Bu Genelge kapsamında tanımlanan yaraların tümüne ve eşlik eden hastalıklarının basit cerrahi müdahalelere izin vermediği hastaların tedavi edildiği üniteyi, | | | |
 | 3 | İkinci veya üçüncü seviye erişkin ve/veya çocuk yoğun bakım ünitesi var mı? | | | |
@@ -252,9 +245,9 @@ Yerinde Denetim Tarihi: ………/………/………
 | 13 | Yaraların yıkanabilmesi için tercihen akım-ısı ayarlı su sistemi ve tek kişilik duş teknesi bulunuyor mu? | | | |
 | 14 | Sağlık tesisi yönetiminin onayı ile konsey kurulmuş mu? | | | |
 
-### DENETİM EKİBİ GÖRÜŞÜ
+**DENETİM EKİBİ GÖRÜŞÜ**
 
-### DENETİM EKİBİ
+**DENETİM EKİBİ**
 
 | Denetim Tarihi | Denetim Tarihi | Denetim Tarihi |
 |---|---|---|

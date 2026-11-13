@@ -8,20 +8,17 @@ birim: "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Ust_Yazi_2._-_3._Basamak_Basvuru_Tesvik_Odemesine_Iliskin_Bilgilendirme.pdf"
 durum: "yürürlükte"
+ocr: true
+duzeltildi: true
 kontrol_edildi: true
 ---
 
 T.C.
-
 SAĞLIK BAKANLIĞI
-
 Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-99858683-719-293554603 24.11.2025
-
-Konu : 2. - 3. Basamak Başvuru Teşvik
-
-Ödemesine İlişkin Bilgilendirme
+Konu : 2. - 3. Basamak Başvuru Teşvik Ödemesine İlişkin Bilgilendirme
 
 DAĞITIM YERLERİNE
 
@@ -34,13 +31,10 @@ Konuya ilişkin gerekli teknik düzenlemeler yapılmış olup, aile hekimliği p
 Bilgilerinizi ve gereğini arz/rica ederim.
 
 Doç. Dr. Muhammed Emin DEMİRKOL
-
 Bakan a.
-
 Halk Sağlığı Genel Müdürü
 
 Dağıtım:
-
 Gereği:
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
 

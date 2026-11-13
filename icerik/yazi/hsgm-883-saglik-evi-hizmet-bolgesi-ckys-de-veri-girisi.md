@@ -8,6 +8,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Saglik_Evi
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
 ---
 
 T.C.
@@ -15,11 +16,10 @@ T.C.
 **Türkiye Halk Sağlığı Kurumu**
 
 Sayı : 58271140/605.01
-Konu : Sağlık Evi Hizmet Bölgesi
-       ÇKYS’de Veri Girişi
+Konu : Sağlık Evi Hizmet Bölgesi ÇKYS’de Veri Girişi
 
-.................... VALİLİĞİNE
-(Halk Sağlık Müdürlüğü)
+VALİLİĞİNE
+(Halk Sağlığı Müdürlüğü)
 
 Bakanlığımız ve bağlı kuruluşlarınca halen aktif olarak kullanılmakta olan Çekirdek Kaynak Yönetim Sisteminde (ÇKYS) Kurumumuzca birinci basamak sağlık kuruluşlarının tanımlanması yapılmaktadır.
 
@@ -30,91 +30,46 @@ Bu sebeple bir çalışma başlatılmış olup Türkiye İstatistik Kurumundan t
 Müdürlüğünüzce belirlenecek yetkili bir personelin sağlık evleri hizmet bölgesi veri girişini yapmak üzere görevlendirilmesi ve adı, soyadı, TC kimlik numarası ile e-mail adresinin 21/08/2015 tarihine kadar planlamaorganizasyon@hotmail.com adresine bildirilmesine müteakip veri girişlerinin 18/09/2015 tarihine kadar bitirilmesi gerekmektedir.
 
 Söz konusu sağlık evlerinin hizmet bölgesine ait ÇKYS veri tabanındaki girişlerinin tamamlanarak tarafımıza bilgi verilmesi hususunda;
+
 Bilginizi ve gereğini rica ederim.
 
 Prof. Dr. İrfan ŞENCAN
 Bakan a.
 Kurum Başkanı
 
-Ek :
+Ek:
 5 Sayfa
 
-DAĞITIM:
-
+Dağıtım:
 Gereği:
 81 İl Valiliği
-(Halk Sağlık Müdürlüğü)
+(Halk Sağlığı Müdürlüğü)
 
-# Birim Bilgileri Değişikliği ekranını açmak için iki kere tıklayınız.
+Birim Bilgileri Değişikliği ekranını açmak için iki kere tıklayınız.
 
-# EKRAN
+Form/ekran görüntüsü: Birim Bilgileri ekranında sorgu, kurum ve faaliyet alanları gösterilmiştir; yönergeler okla ilgili alanları işaret etmektedir.
 
-CÜMELER ARASI ORTAK VERİLER BİLGİ SİSTEMİ
-**Sorgula  Engelle  Kayıt  Alan  Yardım  Pencere**
-[?]NLİĞİ BİRİM BİLGİLERİ
+Bir butonuna bir kere tıklayınız. Bir kere yeterlidir. Bir kere [?] sonra.
 
-**Kuruma Özgü Bilgiler** | Faaliyetler | Yan Birimler | Kurum Sorgulama | Bina Bilgileri | Servis Seviyeleri
+İl karşısındaki bu oka basın [?] seçin. Daha sonra ilçeyi seç[?]. Daha sonra Kurum Türü bölümünden ise “Sağlık Evi”ni bulup seçin. Kurum tipi de sağlık evi seçilmiş olmalıdır.
 
-Bu buton sorgu ba[?]
-butonudur Bir kere [?]
-yeterlidir Bir kere [?]
-sonra
+Faaliyet Durumu bölümünde “FAAL” seçiniz ve klavyeniz üzerinde bulunan “F” [?] basarak sorguyu çalıştırın. Ekranınıza ilinizde faal olan sağlık evinin ilk kaydı gelecektir [?].
 
-İl karşısındaki bu oka basın [?]
-seçin  Daha sonra ilçeyi se[?]
-Daha sonra Kurum Türü
-bölümünden ise “Sağlık Ev[?]
-bulup seçin
-Kurum tipide sağlık evi se[?]
-olmalıdır.
+Form/ekran görüntüsü: Uşak Merkez Toplum Sağlığı Merkezi Susuzören Sağlık Evi kaydı. Faaliyet Durumu: 0 FAAL; Açılış Trh./No.: 23/07/2009 9073. Bağlı olduğu birim: Sicil bakımından 732682 Uşak Halk Sağlığı Müdürlüğü; Döner Sermaye Saymanlığı 14500 Uşak Sağlık Kurumları Döner Sermaye [?].
 
-Faaliyet Durumu bölümünde “FAAL” seçiniz ve klavyeniz üzerinde bulunan [?]
-basarak sorguyu çalıştırın. Ekranınıza ilinizde faal olan sağlık evinin ilk kaydı ge[?]
+Ekrana ilimizdeki faal olan ilk sağlık evi geldiğinde hizmet verdiği nüfusun [?] karşısındaki **KÖYLER butonuna** [?].
 
-# EKRAN-3
-
-UŞAK MERKEZ TOPLUM SAĞLIĞI MERKEZİ SUSUZÖREN SAĞLIK EVİ
-UŞAK
-MERKEZ
-SAĞLIK EVİ
-SAĞLIK EVİ
-UZÖREN SAĞLIK EVİ
-UZÖREN UŞAK
-
-**Faaliyet Durumu**: 0  FAAL
-Açılış Trh./No.: 23/07/2009  9073
-
-**Bağlı Olduğu Birim**
-Sicil Bakımından ..: 732682  UŞAK HALK SAĞLIĞI MÜDÜRLÜĞÜ
-Dön. Ser. Saymanlığı 14500 UŞAK SAĞLIK KURUMLARI DÖNER SERMAY[?]
-
-Ekrana ilimizdeki faal olan ilk s[?]
-geldiğinde Hizmet verdiği Nüf[?]
-**karşısındaki KÖYLER butonuna** [?]
-
-# EKRAN
-
-BİRİMLER ARASI ORTAK VERİLER BİLGİ SİSTEMİ
-Sorgula  Engelle  Kayıt  Alan  Yardım  Pencere
-
-SAĞLIK EVİ KÖY BİLGİLERİ
-
-| Köy Kod | Köy Adı | Köy Nüfus | Baş Tar | Bit Tar |
-|---|---|---|---|---|
-| | | | | |
-
-Nüfus Toplamı
+Form/ekran görüntüsü: Sağlık Evi Köy Bilgileri formu; sütunlar Köy Kod, Köy Adı, Köy Nüfus, Baş Tar, Bit Tar ve Nüfus Toplamı.
 
 Mevcutta TÜİK kayıtlarından temin edilen nüfus bilgilerinden sağlık evi toplam nüfusunu işaretleyebilmek için gösterilen butona bir kere tıklayınız ve sağlık evinin bulunduğu yerleşim yerini bularak tıklayınız.
-NOT: İLK SEÇİLEN YERLEŞİM YERİ İSMİ MUTLAKA SAĞLIK EVİNİN BULUNDUĞU (BİNANIN BULUNDUĞU) YERLEŞİM YERİNİN İSMİ OLMALIDIR
 
-Daha sonraki satırlarda sağlık evi bölgesindeki yerleşim yerleri aynı şekilde işaretlenmelidir
-Baş.Tarih satırına ise sağlık evinin açılış tarihi yazılmalıdır.
+NOT: İLK SEÇİLEN YERLEŞİM YERİ İSMİ MUTLAKA SAĞLIK EVİNİN BULUNDUĞU (BİNANIN BULUNDUĞU) YERLEŞİM YERİNİN İSMİ OLMALIDIR.
+
+Daha sonraki satırlarda sağlık evi bölgesindeki yerleşim yerleri aynı şekilde işaretlenmelidir. Baş. Tarih satırına ise sağlık evinin açılış tarihi yazılmalıdır.
 
 SAĞLIK EVİ KÖY BİLGİLERİ
 
 | Köy Kod | Köy Adı | Köy Nüfus | Baş Tar | Bit Tar |
-|---:|---|---:|---|---|
 | 32876 | SUSUZÖREN | 569 | 23/07/2009 | |
 | 32885 | AKBULAK | 185 | 23/07/2009 | |
 
@@ -123,7 +78,6 @@ KÖY BİLGİLERİ
 Bul: 32%
 
 | Köy_Kod | Köy_Ad | Köy_Nufus |
-|---:|---|---:|
 | 32885 | AKBULAK | 185 |
 | 32886 | AKTAŞ | 158 |
 | 32887 | ALANYURT | 222 |
@@ -149,15 +103,13 @@ Bul: 32%
 | 32837 | DEMİRÖREN | 44 |
 | 32838 | DERBENT | 892 |
 
-Sağlık hizmet bölgesindeki tü[?]
-işaretlendikten sonra çarpı ([?])
-**kapatınız.**
+Sağlık hizmet bölgesindeki tüm [?] işaretlendikten sonra çarpı (X) [?] kapatınız.
 
-**Her bir sağlık evi hizmet verd**[?]
-**F10 veya kayıt ikonuna basara**[?]
+**Her bir sağlık evi hizmet verdiği [?]**
+**F10 veya kayıt ikonuna basarak [?]**
 
 Faaliyet Durumu: 0 — FAAL
 Açılış Trh./No.: 23/07/2009 — 9073
-**Kapatılma Trh./No.**:
+**Kapatılma Trh./No.:**
 
-**Tamam** İptal Bul
+Tamam İptal Bul

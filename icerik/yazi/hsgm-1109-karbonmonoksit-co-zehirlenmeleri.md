@@ -8,14 +8,16 @@ birim: "Çevre Sağlığı Dairesi Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Genel_Nitelikli_Yazi_ve_Gorusler/Karbonmonoksit_CO_Zehirlenmeleri.pdf"
 durum: "yürürlükte"
+ocr: true
+duzeltildi: true
 kontrol_edildi: true
 ---
 
-T.C. Sağlık Bakanlığı
+T.C.
+SAĞLIK BAKANLIĞI
 Halk Sağlığı Genel Müdürlüğü
 
 Sayı : E-19020089-129-291484480 15.10.2025
-
 Konu : Karbonmonoksit (CO) Zehirlenmeleri
 
 DAĞITIM YERLERİNE
@@ -29,13 +31,8 @@ Yerel yönetimlerle işbirliğine gidilerek özellikle lodosun estiği rüzgârl
 Bilgilerinizi ve gereğini rica ederim.
 
 Doç. Dr. Erdoğan ÖZ
-
 Bakan a.
-
 Halk Sağlığı Genel Müdür Yardımcısı
 
 Dağıtım:
-
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-
