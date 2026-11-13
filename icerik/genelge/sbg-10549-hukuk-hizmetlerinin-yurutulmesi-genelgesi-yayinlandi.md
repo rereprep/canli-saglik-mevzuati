@@ -14,13 +14,14 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI – Hukuk Müşâvirliği
+T.C.
+SAĞLIK BAKANLIĞI
+Hukuk Müşâvirliği
 
-Sayı: 11045126-010.06-E.6869  
-Konu: Hukuk Hizmetlerinin Yürütülmesi  
-Tarih: 16/03/2016
+Sayı : 11045126-010.06-E.6869
+Konu : Hukuk Hizmetlerinin Yürütülmesi
 
-### GENELGE 2016/4
+GENELGE 2016/4
 
 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 15 inci maddesi ile 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname kapsamında muhakemat hizmetlerinin yürütülmesinde uyulması gereken hususlar aşağıda belirtilmiştir.
 
@@ -28,19 +29,19 @@ Tarih: 16/03/2016
 
 1) Bakanlık ve bağlı kuruluşları muhakemat hizmetlerinin müştereken yürütülmesi durumunda, kadrosunun bulunduğu yere bakılmaksızın bir ildeki bütün avukatlar, il avukatlık hizmetleri birimlerinde ve iş bakımından kurum farkı gözetilmeksizin müştereken çalışacaklardır.
 
-2) İlde görev yapan avukatların pozisyonu
+**MADDE 2 –** İlde görev yapan avukatların pozisyonu
 
 İllerde görev yapan avukatlar, Bakanlık Hukuk Müşâvirliğinin taşra teşkilatındaki çalışanlarıdır. İş ve işlemlerin yürütülmesinde, yazışma ve iş ilişkilerinde buna uygun davranılacaktır.
 
-3) **Avukatlara tâlimat verme**
+**MADDE 3 –** **Avukatlara tâlimat verme**
 
 659 sayılı KHK hükümleri saklı kalmak kaydıyla il sağlık müdürlüğünde görev yapan avukatlara, vâli ve il sağlık müdürü dışında tâlimat verilmeyecek ve başka herhangi bir yönetim birimi ve yönetici ile bağlılık ilişkisi kurulmayacaktır.
 
-4) **Sorumlu avukat**
+**MADDE 4 –** **Sorumlu avukat**
 
 Birden fazla avukatın görev yaptığı illerde avukatlardan birisi, il sağlık müdürünün teklifi ve Bakanlık I. Hukuk Müşâvirinin onayı ile sorumlu avukat olarak belirlenecektir.
 
-5) Sorumlu avukatın görev ve yetkileri
+**MADDE 5 –** Sorumlu avukatın görev ve yetkileri
 
 a) Sorumlu avukat, görev yaptığı ildeki muhakemat hizmetlerinin, mevzuata ve verilen talimatlara uygun olarak hukukî ve idarî bakımdan yürütülmesinden sorumludur.
 
@@ -58,7 +59,7 @@ ad) Hukuk e-posta sistemini sabah saat 10:00 ve öğleden sonra saat 14:00'de d�
 
 b) Sorumlu avukat da, diğer avukatlarla birlikte dâvâ ve icrâ işlerini tâkiple görevlidir.
 
-6) Avukatların görev ve yetkileri ile usûlî iş ve işlemler
+**MADDE 6 –** Avukatların görev ve yetkileri ile usûlî iş ve işlemler
 
 a) 663 ve 659 sayılı KHK'lar çerçevesinde Bakanlık hukuk müşâvirleri ve avukatlar, yer ve konu sınırlaması olmaksızın Bakanlığımız aleyhine açılan veya Bakanlığımızca açılan her türlü dâvâ ve tâkipleri vekil sıfatı ile tâkip yetkisini hâizdir. Dolayısı ile her bir hukuk müşâviri ve avukat, Türkiye'nin her yerinde açılan ve Bakanlığın taraf olduğu her türlü dâvâ ve icrâ işlemlerini takibe yetkilidir.
 
@@ -74,29 +75,29 @@ e) İşlemin tesis edildiği yer ile dâvânın açıldığı yerin farklı ille
 
 f) Bakanlığımız aleyhine açılmakla birlikte, doğrudan il sağlık müdürlüklerine tebliğ olunan her türlü dâvâ, tâkip ve sâir hukûkî evrak yukarıdaki görev ve yetki kuralına uygun olarak ilgili mercie intikal ettirilecektir.
 
-7) **Avukat bulunmayan iller**
+**MADDE 7 –** **Avukat bulunmayan iller**
 
 Bir ilde avukat bulunmaması hâlinde, o ildeki dâvâ veya tâkipler, Hukuk Müşâvirliğince merkezden tâkip edilebileceği gibi, o ile avukat ataması yapılıncaya kadar bir başka il avukatlık hizmetleri birimi de Hukuk Müşâvirliğince görevli kılınabilir.
 
-8) Temsil yetkisi
+**MADDE 8 –** Temsil yetkisi
 
 a) Bir ilde avukat olmaması durumunda, âcil durumlara münhasır olmak üzere, adli ve idârî dâvâlar ile icrâ tâkiplerini yürütmek üzere taşra birim âmirlerine Bakanlık I. Hukuk Müşâviri tarafından temsil yetkisi verilebilir.
 
 b) Bu durumda, temsil yetkisi verilen ilgili birim âmiri, gerekli iş ve işlemleri Bakanlık Hukuk Müşâvirliği ile istişare ederek ve ihtiyaç duyduğunda hukûkî yardım alarak bizzat yapacak ve neticeyi Bakanlık Hukuk Müşâvirliğine bildirecektir.
 
-9) Hak kaybına sebep olabilecek durumlarda işlem yapma
+**MADDE 9 –** Hak kaybına sebep olabilecek durumlarda işlem yapma
 
 a) Bakanlığımız ve bağlı kuruluşları aleyhine açılan ve doğrudan il sağlık müdürlüklerine tebliğ olunan hukûkî evrakın bir başka il'e gönderilmesi iktiza ediyorsa, âciliyet gösteren usûli iş ve işlemler tebligatın yapıldığı yerdeki avukatlarca icrâ olunacak ve evrak bundan sonra gönderilecektir.
 
 b) Hiçbir görev ve yetki kuralı bir hakkın kaybolmasına, bir zararın doğmasına sebep olacak şekilde uygulanmayacaktır.
 
-c) Dâvâ veyâ tâkiplerle alâkalı usûlî iş ve işlemlerin dosya hakkında yeterli bilgisi olmayan avukatlarca yapılması hak kayıplarına sebep olabileceğinden, zorunlu ve acil hâller dışında iş ve işlemler mutlaka ilgili dâvâ dosyasını tâkiple görevli avukat tarafından yapılacakdır.
+c) Dâvâ veyâ tâkiplerle alâkalı usûlî iş ve işlemlerin dosya hakkında yeterli bilgisi olmayan avukatlarca yapılması hak kayıplarına sebep olabileceğinden, zorunlu ve acil hâller dışında iş ve işlemler mutlaka ilgili dâvâ dosyasını tâkiple görevli avukat tarafından yapılacaktır.
 
-10) Avukatlara çalışma mekânı ve ekipman temîni
+**MADDE 10 –** Avukatlara çalışma mekânı ve ekipman temîni
 
 a) İlde görev yapan avukatlar için çalışabilecekleri uygun bir mekân ve gerekli donanım temin edilecektir. Bu kapsamda, muhakemat ve danışmanlık hizmetleri zihnî faaliyet olduğu ve sükünet gerektirdiği cihetle, avukatlara mümkün ise müstakil değil ise en az kişinin çalışacağı şekilde odalar tahsis olunacaktır.
 
-b) İldeki avukatların sayısına uygun olarak Bakanlık Hukuk Müşâvirliği ve mahkemeler ile görüşmelerini sağlamak üzere yeterli sayıda telefon hattı tahsis edilecek; bu hatlardan en az birisi belgeçeçer (faks), birisi de sesli görüşmeler için mutlaka şehirlerarası görüşmelere açık olacaktır.
+b) İldeki avukatların sayısına uygun olarak Bakanlık Hukuk Müşâvirliği ve mahkemeler ile görüşmelerini sağlamak üzere yeterli sayıda telefon hattı tahsis edilecek; bu hatlardan en az birisi belgegeçer (faks), birisi de sesli görüşmeler için mutlaka şehirlerarası görüşmelere açık olacaktır.
 
 c) İş ve işlemlerin gecikmeksizin yapılabilmesi bakımından, adliyeye veya hizmet için gidilmesi gerekli olan diğer yerlere ulaşım sağlanacak; bu amaçla iş hacmine ve çalışma plânına uygun olarak hizmet aracı tahsis olunacakdır.
 
@@ -104,7 +105,7 @@ c) İş ve işlemlerin gecikmeksizin yapılabilmesi bakımından, adliyeye veya 
 
 d) Bu maddede belirtilen ihtiyaçlar, il sağlık müdürlüğü ile bağlı kuruluşların taşra teşkilatlarınca müştereken karşılanacaktır.
 
-11) Bilgi belge talebi ve sorumluluk
+**MADDE 11 –** Bilgi belge talebi ve sorumluluk
 
 a) Bir dâvâ veya tâkiple alâkalı bilgi ve belgeler avukatlık hizmetleri biriminde dâvâyı takip eden avukat tarafından, işlemin tesis edildiği kurum veya kuruluştan doğrudan temin edilecektir. Bu maksatla dâvâya bakan avukat ilgili mercilerle doğrudan yazışma yapabilecektir. Bu kapsamda istenilen bilgi ve belgeler mutlaka bildirilen süre içinde ilgili avukatlık hizmetleri birimine intikal ettirilecektir.
 
@@ -112,11 +113,11 @@ b) İlgili avukat, gerekli gördüğünde bir dâvâ veya tâkiple alakalı olar
 
 c) Hukukî bilgi ve belgelerin süresinde ve tam olarak verilmemesinden veya gönderilmemesinden doğacak sorumluluk, bilgi ve belgeyi süresinde vermeyen kurum ve kuruluşunun idârecisine ait olacaktır.
 
-12) Elektronik imzâ
+**MADDE 12 –** Elektronik imzâ
 
 Merkezle iller ve illerin kendi aralarında yapacağı evrak gönderme işlemlerinde - özellikle süreli evrakda- hak kayıpları yaşanmaması için her avukatın elektronik imzâ kullanabilmesi gerekmektedir. Bu itibarla, her il sağlık müdürlüğü, o ilde görev yapan avukatlar için elektronik imzâ temininden sorumludur.
 
-13) Resmi yazışma, numaralandırma ve arşiv kuralları
+**MADDE 13 –** Resmi yazışma, numaralandırma ve arşiv kuralları
 
 a) Her türlü yazışmalarda Resmî Yazışmalarda Uygulanacak Usûl ve Esaslar Hakkında Yönetmelik kurallarına uyulacaktır.
 
@@ -128,21 +129,21 @@ bb) YY, iki rakamdan oluşan avukat kodu olup; evvelce tamim edildiği şekilde 
 
 bc) Daha sonra o ile yeni bir avukat geldiğinde, geliş târihine göre numara verilmeye devam olunacak; verilecek numaraların kime ait olduğu bilgisi Bakanlık Hukuk Müşâvirliğine bildirilecektir.
 
-bç) Kişi numaraları sâbit olup; ilgili avukat o ilde görev yapdığı süre boyunca değişmeyecektir. Bir başka ile atanma hâlinde atandığı ilde avukata yukarıdaki esaslara göre yeni bir numara verilecekdir.
+bç) Kişi numaraları sâbit olup; ilgili avukat o ilde görev yapdığı süre boyunca değişmeyecektir. Bir başka ile atanma hâlinde atandığı ilde avukata yukarıdaki esaslara göre yeni bir numara verilecektir.
 
-bd) Herhangi bir sebeple bir avukat kadrosu boşaldığında, boşalan avukata ait kişi numarası -dosya tâkibinin kolaylığı bakımından- bir başka avukata verilmeyecek; numara sisteminin yetmediği durumlarda, evvelce bir başka avukata ait olmakla beraber 10 yıldan beri kullanılmayan bir kişi numarası bir başka avukata verilebilecekdir.
+bd) Herhangi bir sebeple bir avukat kadrosu boşaldığında, boşalan avukata ait kişi numarası (dosya tâkibinin kolaylığı bakımından- bir başka avukata verilmeyecek; numara sisteminin yetmediği durumlarda, evvelce bir başka avukata ait olmakla beraber 10 yıldan beri kullanılmayan bir kişi numarası bir başka avukata verilebilecekdir.
 
 c) Arşiv iş ve işlemlerinde de Başbakanlık Devlet Arşivleri Genel Müdürlüğü'nce belirlenen kurallara uygun hareket olunacak; Bakanlığımız menfaatleri bakımından ehemmiyeti haiz olan hukukî evrakın arşivlenmesinde her türlü tedbir alınacaktır.
 
-14) Mevzuat ve içtihat yazılımı
+**MADDE 14 –** Mevzuat ve içtihat yazılımı
 
-a) Mevzuat ve içtihat bilgi bankası kullanılması isteğe bağlı olmakla birlikte, bu kaynakların kullanılması ilgilinin sorumluluğunu kaldırmayacak; mevzuat veya içtihat konusunda hatalı bilgilere güvenilerek bir hak kaybına sebep olunması durumunda, ilgili hukuk müşâviri ve avukatın hukükî sorumluluğu doğacaktır.
+a) Mevzuat ve içtihat bilgi bankası kullanılması isteğe bağlı olmakla birlikte, bu kaynakların kullanılması ilgilinin sorumluluğunu kaldırmayacak; mevzuat veya içtihat konusunda hatalı bilgilere güvenilerek bir hak kaybına sebep olunması durumunda, ilgili hukuk müşâviri ve avukatın hukukî sorumluluğu doğacaktır.
 
-b) Zaman içerisinde mevzuat yazılımlarında, kimi mevzuat hükümlerinin noksan ve/veya yanlış aktarıldığı görüldüğü gibi, mevzuat metinlerinin güncellenmesinde gecikmeler ve aksamalar yaşandığı da müşahede olunmuşdur. Bu itibarla, mevzuat tâkibi Resmî Gazete üzerinden yapılacak ve ayrıca Başbakanlıkça hazırlanan ve http://www.mevzuat.gov.tr internet adresinden erişilebilen "e-Mevzuat Mevzuat Bilgi Sistemi" referans alınacaktır.
+b) Zaman içerisinde mevzuat yazılımlarında, kimi mevzuat hükümlerinin noksan ve/veya yanlış aktarıldığı görüldüğü gibi, mevzuat metinlerinin güncellenmesinde gecikmeler ve aksamalar yaşandığı da müşahede olunmuştur. Bu itibarla, mevzuat tâkibi Resmî Gazete üzerinden yapılacak ve ayrıca Başbakanlıkça hazırlanan ve http://www.mevzuat.gov.tr internet adresinden erişilebilen "e-Mevzuat Mevzuat Bilgi Sistemi" referans alınacaktır.
 
 ### B) MÂLÎ HUSUSLAR
 
-15) Vekâlet ücreti ile ilgili hususlar
+**MADDE 15 –** Vekâlet ücreti ile ilgili hususlar
 
 a) Her türlü dâvâ ve tâkip sebebiyle lehe hükmolunan vekâlet ücretinin, Sağlık Bakanlığı Merkez Saymanlık Müdürlüğüne gönderilmek üzere il veya İlçe Muhasebe Müdürlüğü veya Mal Müdürlüğü'ne yatırılması kararın tebliği tarihinden itibaren (15) gün içerisinde talep olunacaktır. Bu maksatla vekalet ücreti yatıran tarafa yazılacak yazıda şu hususlar muhakkak belirtilecektir:
 
@@ -160,7 +161,7 @@ c) Vekâlet ücretinin dağıtılması, Bakanlık Hukuk Müşâvirliğinin belir
 
 ### C) HUKUKİ İŞ VE İŞLEMLER
 
-16) İlde hukukî görüş talebi
+**MADDE 16 –** İlde hukukî görüş talebi
 
 a) Görülmekte olan bir dâvâ veya icra tâkibi ile ilgili olarak veya rutin hukukî konularda il avukatlık hizmetleri biriminden hukukî görüş sorulması mümkündür. Âciliyeti olan ve hak düşürücü hâller müstesna olmak üzere bu talep (15) gün içerisinde yerine getirilecektir.
 
@@ -168,23 +169,23 @@ b) İl avukatlık hizmetleri biriminden görüş sorulması için, hangi hususta
 
 c) Görüş bildirme yazısı, ilgili avukatça paraflanacak ve sorumlu avukatça imzalanacaktır.
 
-17) Bakanlıktan hukuki görüş talebi
+**MADDE 17 –** Bakanlıktan hukuki görüş talebi
 
 a) Bütün ülke çapında uygulanması gereken işlem ve konular hakkında hukukan bir tereddüt doğması hâlinde, Bakanlık Hukuk Müşâvirliğinden veya ilgisine göre bağlı kuruluş hukuk müşâvirliklerinden hukukî görüş talebinde bulunulabilecektir. Bunun için:
 
 aa) Hakkında görüş sorulan maddî mes'elenin önce ilgili icrâcı dairece ve il sağlık müdürlüğü avukatlık hizmetleri birimince etraflıca değerlendirilmesi;
 
-ab) Bu değerlendirmeye rağmen bir hukükî meselede tereddüde düşülmesi;
+ab) Bu değerlendirmeye rağmen bir hukukî meselede tereddüde düşülmesi;
 
 ac) İlgili icrâcı birimce ve avukatlık hizmetleri birimlerince, yapılan değerlendirmenin ne olduğunun anlatılması ve hangi hukûkî konuda neden dolayı tereddüde düşüldüğünün açıkça ortaya konulması,
 
-Gereklidir.
+gereklidir.
 
 b) Bakanlıktan görüş talebi yazısı, ilgili il imza yetkileri yönergesine uygun olarak imzalanacaktır.
 
 c) Görüş talep edilen husus, 663 sayılı KHK ile verilen görevler dikkate alınarak, Bakanlık ve bağlı kuruluşlar merkez teşkilatının hangi icrâcı birimi alâkadar ediyor ise, görüş talebi o birime tevcih olunacaktır.
 
-18) Muhakemat hizmetlerinin yürütülmesinde dikkat olunacak hususlar
+**MADDE 18 –** Muhakemat hizmetlerinin yürütülmesinde dikkat olunacak hususlar
 
 a) İl sorumlu avukatınca her hafta ildeki avukatlarla bir istişare toplantısı yapılarak ilde yürütülen muhakemat hizmetleri konusunda karşılıklı bilgi alış verişinde bulunulacaktır.
 
@@ -194,7 +195,7 @@ c) İldeki avukatlık hizmetlerinin yürütülmesinde, Bakanlık Hukuk Müşâvi
 
 ç) Hukuk hizmetlerinin yürütülmesinde yaşanan aksaklıklar ve bunlara ilişkin çözüm önerileri yazılı olarak Bakanlık Hukuk Müşâvirliğine bildirilecektir.
 
-19) 659 sayılı KHK çerçevesinde devredilen üst yönetici yetkisinin kullanılması
+**MADDE 19 –** 659 sayılı KHK çerçevesinde devredilen üst yönetici yetkisinin kullanılması
 
 659 sayılı KHK ile, uyuşmazlıkların sulh yoluyla halli, uzlaşma, dâvâ açılması, temsil yetkisi verilmesi, dâvâdan ve kanun yollarından vazgeçme gibi hususlarda yetkili merciîler belirlenmiş ve bu mercilere sınırlarını belirlemek sûretiyle yetkilerini alt kademelere devredebilmesine imkan tanınmıştır.
 
@@ -208,7 +209,7 @@ c) 11 inci maddesinin ikinci fıkrasında,
 
 belirtilen hususlarda konusu veya miktarlarına göre üst yöneticiye tanınan yetkiler, 14/11/2013 tarihli ve 4486 sayılı Makam Onayı ile Harcama Yetkilisi, 1. Hukuk Müşaviri veya Müsteşar Yardımcısına devredilmiş, mezkûr Onay ve form örnekleri de 18/11/2013 tarihli ve 23786 sayılı yazımız ile 81 İl Valiliğine gönderilmiştir. Yetki devri yapılan hususlarla ilgili olarak, mezkür Onay' da belirtilen düzenlemelere göre hareket edilecektir.
 
-20) Karar düzeltme yolundan vazgeçme
+**MADDE 20 –** Karar düzeltme yolundan vazgeçme
 
 a) 659 sayılı KHK'nın vazgeçmeye ilişkin 11 inci maddesinin üçüncü fıkrası mucibince açılmasında ve tâkibinde Hazine veya idâreye ait herhangi bir hak ve menfaat bulunmayan, yanlışlıkla açılan veya konusu kalmayan dâvâ ve icrâ tâkipleri ile her türlü dâvada karar düzeltme yoluna başvurulmasından vazgeçmeye, dâvâyı tâkip eden hukuk müşaviri veya avukatın gerekçeli teklifi üzerine I. Hukuk Müşâviri yetkilidir.
 
@@ -216,19 +217,17 @@ b) Bu yetki, birden fazla avukatın bulunduğu illerde, tutara ilişkin olmayanl
 
 c) Tek avukat bulunan iller bakımından bu yetki bizzat I. Hukuk Müşâvirince kullanılmaya devam olunacaktır. Bu maksatla, karar tashihinden vazgeçmek üzere gerekçeli olarak hazırlanan onay teklifi, geciktirilmeksizin Bakanlık Hukuk Müşavirliğine intikal ettirilecektir.
 
-21) Genelgenin uygulanması
+**MADDE 21 –** Genelgenin uygulanması
 
 Bu Genelgede belirtilen hususlarda ve hizmetlerin yürütülmesinde tereddüt hasıl olduğu takdirde Bakanlık Hukuk Müşâvirliğinin talimatına göre hareket edilecektir.
 
 Bilgilerini ve gereğini rica ederim.
 
 Prof. Dr. Eyüp GÜMÜŞ
-
 Bakan a.
-
 Müsteşar
 
-### DAĞITIM:
+DAĞITIM:
 
 Bağlı Kuruluşlar (Hukuk Müşâvirliği)
 
@@ -236,46 +235,44 @@ Bağlı Kuruluşlar (Hukuk Müşâvirliği)
 
 ### İL KODLARI
 
-| İl | Kod | İl | Kod |
-| --- | --- | --- | --- |
-| Adana | ADN | Kocaeli | KOC |
-| Adıyaman | ADY | Konya | KON |
-| Afyon | AFY | Kütahya | KUT |
-| Ağrı | AGR | Malatya | MAL |
-| Amasya | AMS | Manisa | MAN |
-| Ankara | ANK | Kahramanmaraş | KMR |
-| Antalya | ANT | Mardin | MRD |
-| Artvin | ART | Muğla | MUG |
-| Aydın | AYD | Muş | MUS |
-| Balıkesir | BLK | Nevşehir | NEV |
-| Bilecik | BLC | Niğde | NIG |
-| Bingöl | BNG | Ordu | ORD |
-| Bitlis | BTL | Rize | RZE |
-| Bolu | BOL | Sakarya | SKR |
-| Burdur | BRD | Samsun | SAM |
-| Bursa | BRS | Siirt | SRT |
-| Çanakkale | CNK | Sinop | SNP |
-| Çankırı | CKR | Sivas | SVS |
-| Çorum | CRM | Tekirdağ | TKR |
-| Denizli | DNZ | Tokat | TOK |
-| Diyarbakır | DYB | Trabzon | TRB |
-| Edirne | EDR | Tunceli | TUN |
-| Elazığ | ELZ | Şanlıurfa | SUF |
-| Erzincan | ERC | Uşak | USK |
-| Erzurum | ERZ | Van | VAN |
-| Eskişehir | ESK | Yozgat | YOZ |
-| Gaziantep | GAN | Zonguldak | ZON |
-| Giresun | GRS | Aksaray | AKS |
-| Gümüşhane | GMS | Bayburt | BAY |
-| Hakkari | HKR | Karaman | KAR |
-| Hatay | HTY | Kırıkkale | KKL |
-| Isparta | ISP | Batman | BAT |
-| Mersin | MER | Şırnak | SRN |
-| İstanbul | IST | Bartın | BRT |
-| İzmir | IZM | Ardahan | ARD |
-| Kars | KRS | Iğdır | IGD |
-| Kastamonu | KAS | Yalova | YLV |
-| Kayseri | KAY | Karabük | KBK |
-| Kırklareli | KRK | Kilis | KLS |
-| Kırşehir | KIR | Osmaniye | OSM |
-| Düzce | DUZ |  |  |
+| **Adana** | **ADN** | **Kocaeli** | **KOC** |
+| **Adıyaman** | **ADY** | **Konya** | **KON** |
+| **Afyon** | **AFY** | **Kütahya** | **KUT** |
+| **Ağrı** | **AGR** | **Malatya** | **MAL** |
+| **Amasya** | **AMS** | **Manisa** | **MAN** |
+| **Ankara** | **ANK** | **Kahramanmaraş** | **KMR** |
+| **Antalya** | **ANT** | **Mardin** | **MRD** |
+| **Artvin** | **ART** | **Muğla** | **MUG** |
+| **Aydın** | **AYD** | **Muş** | **MUS** |
+| **Balıkesir** | **BLK** | **Nevşehir** | **NEV** |
+| **Bilecik** | **BLC** | **Niğde** | **NIG** |
+| **Bingöl** | **BNG** | **Ordu** | **ORD** |
+| **Bitlis** | **BTL** | **Rize** | **RZE** |
+| **Bolu** | **BOL** | **Sakarya** | **SKR** |
+| **Burdur** | **BRD** | **Samsun** | **SAM** |
+| **Bursa** | **BRS** | **Siirt** | **SRT** |
+| **Çanakkale** | **CNK** | **Sinop** | **SNP** |
+| **Çankırı** | **CKR** | **Sivas** | **SVS** |
+| **Çorum** | **CRM** | **Tekirdağ** | **TKR** |
+| **Denizli** | **DNZ** | **Tokat** | **TOK** |
+| **Diyarbakır** | **DYB** | **Trabzon** | **TRB** |
+| **Edirne** | **EDR** | **Tunceli** | **TUN** |
+| **Elazığ** | **ELZ** | **Şanlıurfa** | **SUF** |
+| **Erzincan** | **ERC** | **Uşak** | **USK** |
+| **Erzurum** | **ERZ** | **Van** | **VAN** |
+| **Eskişehir** | **ESK** | **Yozgat** | **YOZ** |
+| **Gaziantep** | **GAN** | **Zonguldak** | **ZON** |
+| **Giresun** | **GRS** | **Aksaray** | **AKS** |
+| **Gümüşhane** | **GMS** | **Bayburt** | **BAY** |
+| **Hakkari** | **HKR** | **Karaman** | **KAR** |
+| **Hatay** | **HTY** | **Kırıkkale** | **KKL** |
+| **Isparta** | **ISP** | **Batman** | **BAT** |
+| **Mersin** | **MER** | **Şırnak** | **SRN** |
+| **İstanbul** | **IST** | **Bartın** | **BRT** |
+| **İzmir** | **IZM** | **Ardahan** | **ARD** |
+| **Kars** | **KRS** | **Iğdır** | **IGD** |
+| **Kastamonu** | **KAS** | **Yalova** | **YLV** |
+| **Kayseri** | **KAY** | **Karabük** | **KBK** |
+| **Kırklareli** | **KRK** | **Kilis** | **KLS** |
+| **Kırşehir** | **KIR** | **Osmaniye** | **OSM** |
+| **Düzce** | **DUZ** |  |  |

@@ -239,3 +239,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-13: Üç tüzük daha mülga (İş Teftişi 5433/2022, Radyasyon Güvenliği 7742/2023, Nükleer Tesislere Lisans 6973/2023; kararlar RG PDFlerinden doğrulandı). KÖİ Uygulama Yönetmeliği (2014) ve TSK-JGK-SGK Sağlık Yeteneği Yönetmeliği (2016) güncel metinle eklendi; 2006 Kiralama Yönetmeliği ve 1986 TSK Sağlık Yeteneği Yönetmeliği mülga.
 
 - 2026-11-14: Yeni tür ck (Cumhurbaşkanı Kararı); bkk grubunda listelenir, bölüm adı "Bakanlar Kurulu ve Cumhurbaşkanı Kararları". 11684 sayılı karar icerik/ck/ altına taşındı (eski_tur: bkk ile eski adres yönleniyor). rg_takip.py: "(Karar Sayısı: n)" içeren başlıklar ck türüyle alınır.
+
+## 2026-11-14 — 11684 sayılı CK metni
+- 11684 sayılı Cumhurbaşkanı Kararı ve eki liste (14 madde) RG görüntüsünden yazıldı. 7 genelge OCR düzeltmesi, Doğum Öncesi Bakım rehberi eki ve araclar/kalite_tara.py aynı commitle gönderildi.
+- Bekleyen: Verem Savaşı Genelgesi (calisma/sg/06, out_a.md eksik olabilir), künye tarihleri, kalan OCR.

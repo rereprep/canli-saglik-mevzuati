@@ -12,19 +12,16 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-### T.C. SAĞLIK BAKANLIĞI
-
+T.C.
+SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı: B100TSH0110002
+Sayı : B100TSH0110002
+Konu : Kuduz ve Kuduz Riskli Temas Durumlarında Yaklaşım
 
-Konu: Kuduz ve Kuduz Riskli Temas Durumlarında Yaklaşım
+Sayı : 11798
 
-Tarih: 17.08.2003
-
-Sayı: 11798 Ilgi: 09/05/2001 tarihli ve B100TSH0110002 / 7755 sayılı Kuduz Korunma ve Kontrol
-
-Yönergesi.
+İlgi: 09/05/2001 tarihli ve B100TSH0110002 / 7755 sayılı Kuduz Korunma ve Kontrol Yönergesi.
 
 Kuduz hastalığı, etkeni ve patogenezi yaklaşık yüz yıl önce belirlenmiş olmasına rağmen, bugün için de öldürücü olan ve ülkemizde halen önemli bir halk sağlığı problemi olmaya devam eden bir hastalıktır.
 
@@ -35,13 +32,8 @@ Kuduzla ilgili bütün uygulamaların ilgi Yönerge doğrultusunda yapılması i
 Aşı tedarikinde dışa bağımlı olmamız ve kuduz aşısının da bütün aşı maliyeti içinde oldukça önemli bir kalemi oluşturması yanında, yapılan bazı uygulamaların bir mantık çerçevesine dahil edilememesi ve nihayet bilimselliğinin de bulunmaması sebebiyle, kuduzla alâkalı bütün işlemlerde ve özellikle de profilaksi uygulamalarında ilgi Yönerge hükümlerine titizlikle uyulması hususlarında bilgilerinizi, keyfiyetin, konunun muhataplarına ulaştırılması için de ilgililere emirlerinizi rica ederim.
 
 Uzm. Dr. Turan BUZGAN
-
 Bakan a.
-
 Genel Müdür V.
 
-### DAĞITIM :
-
-81 İl Valiliğine Bulaşıcı ve Salgın Hastalıklar Kontrolü Daire Başkanlığı Elektronik Ağ: www.saglik.gov.tr Zoonoz ve Paraziter Hastalıklar Şube Müdürlüğü Elektronik Mektup: zoonoz.paraziter@saglik.gov.tr Tel: 0 312 433 23 31-435 64 40-60 / 1253 Belgegeçer: 0 312 432 29 94
-
-###
+DAĞITIM:
+81 İl Valiliğine
