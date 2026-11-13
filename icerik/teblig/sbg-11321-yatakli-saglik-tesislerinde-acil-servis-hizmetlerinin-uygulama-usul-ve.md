@@ -4,14 +4,12 @@ baslik: "Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul 
 tur: "teblig"
 birim: "Tedavi Hizmetleri Genel Müdürlüğü"
 durum: "yürürlükte"
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2009/10/20091016-16.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39719&MevzuatTur=9&MevzuatTertip=5"
+tarih: "2022-09-13"
+rg_tarih: "2022-09-13"
+rg_sayi: "31952"
 ---
-
-| 16 Ekim 2009 CUMA | Resmî Gazete | Sayı : 27378 |
-| TEBLİĞ |
-
-Sağlık Bakanlığından:
 
 ### YATAKLI SAĞLIK TESİSLERİNDE ACİL SERVİS HİZMETLERİNİN
 
@@ -19,250 +17,422 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-**Amaç, Kapsam, Dayanak ve Tanımlar**
+Başlangıç Hükümleri
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Tebliğin amacı; yataklı sağlık tesislerinde sunulmakta olan acil servis hizmetlerinin çağın gereklerine, günümüz ihtiyaç ve beklentilerine uygun olarak geliştirilmesi maksadıyla, acil servislerin personel ve hizmet kıstasları, fiziki şartları, ulaşım, her türlü malzeme ve tıbbi teknolojik imkânları bakımından asgari standartlarını belirlemek, 112 Acil Sağlık Hizmetleri ile etkin bir koordinasyon sağlamak, acil servisleri yataklı sağlık tesisinin statüsü, hizmetin yoğunluğu ve hizmet verdiği bölgenin şartlarına göre seviyelendirerek yeniden yapılandırılmalarını sağlamak, hasta triyajı ve renk kodu sisteminin uygulama esaslarını göstermek ve bu birimlerde yürütülecek nöbet hizmetlerine ilişkin uygulama usul ve esaslarını belirlemektir.
+**MADDE 1 –** (1) Bu Tebliğin amacı; yataklı sağlık tesislerinde acil servislerin; çağın gerekleri ile günümüz ihtiyaç ve beklentilerine uygun olarak geliştirilmesi, personel ve hizmet kıstasları ile fiziki şartların, tıbbi teknoloji ve donanımın asgari standartlarının belirlenmesi, hastane öncesi acil sağlık hizmetleriyle etkin olarak koordinasyonun sağlanması, yataklı sağlık tesisinin statüsüne, hizmet verilen bölgenin ihtiyaç ve şartlarına göre seviyelendirilmesi, triyaj işlemleri, tedavi süreçleri ile konsültasyon, yatış, sevk ve nöbet hizmetlerine ilişkin usul ve esasların belirlenmesidir.
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Tebliğ, Sağlık Bakanlığına, üniversitelere, belediyelere ve diğer kamu kuruluşlarına ait, bünyesinde acil sağlık hizmeti verilen tüm yataklı sağlık tesisleri ile buralarda görev yapan personeli kapsar.
+**MADDE 2 –** (1) Bu Tebliğ, ağız ve diş sağlığı hastaneleri ve merkezleri hariç olmak üzere kamu, özel ve üniversitelere ait tüm yataklı sağlık tesisleri ile buralarda görev yapan personeli kapsar.
 
-(2) Özel sağlık tesisleri, 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliğinin acil servislere ilişkin hükümleri saklı kalmak kaydıyla bu Tebliğ hükümlerine tâbidir.
+(2) Özel sağlık tesisleri ile vakıf üniversitelerine ait hastaneler, 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliğinin acil ünite ve servislere ilişkin hükümleri saklı kalmak kaydıyla bu Tebliğ hükümlerine tâbidir.
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Tebliğ, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesine, 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesine, 13/1/1983 tarihli ve 17927 sayılı Resmî Gazete’de yayımlanan Yataklı Tedavi Kurumları İşletme Yönetmeliğine, 11/5/2000 tarihli ve 24046 sayılı Resmî Gazete’de yayımlanan Acil Sağlık Hizmetleri Yönetmeliğinin 15 inci maddesine, 26/6/2008 tarihli ve 26918 sayılı Resmî Gazete’de yayımlanan 2008/13 sayılı Başbakanlık Genelgesine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Tebliğ, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesine, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (a) ve (e) bentleri ile 508 inci maddesine, 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliğine ve 11/5/2000 tarihli ve 24046 sayılı Resmî Gazete’de yayımlanan Acil Sağlık Hizmetleri Yönetmeliğinin 15 inci maddesine dayanılarak hazırlanmıştır.
 
-#### Tanımlar
+#### Tanımlar ve kısaltmalar
 
 **MADDE 4 –** (1) Bu Tebliğde geçen;
 
-a) Acil servis: Sağlık hizmeti sunan kamu kurum ve kuruluşları ile özel hukuk tüzel kişileri ve gerçek kişiler tarafından kurulmuş yataklı sağlık tesisleri bünyesinde yer alan acil servisleri,
+a) Acil servis: Kamu, üniversite ve özel yataklı sağlık tesisleri bünyesinde yer alan ve acil sağlık hizmeti ihtiyacı olan hastalara sağlık hizmeti sunulan poliklinik ve yataklı servis işlevi görebilen sağlık tesisi bölümünü,
 
-b) Acil servis hizmetleri: Ani gelişen hastalık, kaza, yaralanma ve benzeri beklenmeyen durumlarda oluşan sağlık sorunlarında sakatlık ya da ölümden korunması amacıyla hastanın, acil serviste görevli sağlık personeli tarafından tıbbi araç ve gereç desteği ile değerlendirilmesi, tanısının konulması, tıbbi müdahale ve tedavisinin yapılması için yataklı sağlık tesislerinde sunulan acil sağlık hizmetlerini,
+b) Acil servis hizmetleri: Ani gelişen hastalık, kaza, yaralanma ve benzeri durumlarda hastaların sakatlık ya da ölümden korunması amacıyla yapılması gereken müdahale veya tedaviye yönelik acil serviste yapılan tıbbi hizmetleri,
 
-c) Acil ünitesi: Acil hastalara ilk yardım, temel yaşam desteği ve ileri kardiyak yaşam desteği hizmetlerinin verilebildiği, en az bir odadan oluşan acil sağlık birimini,
+c) Acil sağlık hizmetleri koordinasyon komisyonu (ASKOM): Acil sağlık hizmetleri ile bu sürece katkı veren özellikli sağlık hizmetleri, yoğun bakım üniteleri, 112 hasta nakilleri gibi benzeri hizmetlerin, ilgili kurum ve kuruluşlar arasındaki koordinasyonunu, iş birliğini planlamasını ve takibini gerçekleştirmek üzere kurulmuş olan komisyonu,
 
-ç) ASKOM: İl genelinde acil sağlık hizmeti ile ilgili kurum ve kuruluşlar arasındaki koordinasyon ve işbirliğini sağlamak üzere kurulan il Acil Sağlık Hizmetleri Koordinasyon Komisyonunu,
+ç) Acil servis seviyesi: Bu Tebliğin Ek-1’inde yer alan kriterlere göre oluşturulan acil servisin, müdürlük tarafından belirlenip Genel Müdürlük tarafından onaylanan tescil işlemi yapılmış seviyesini,
 
-d) Bakan: Sağlık Bakanını,
+d) Acil servis sorumlu tabibi: Acil servis işleyişinin bir bütün halinde yürütülebilmesi amacıyla gerekli koordinasyon ile denetim işlemlerini gerçekleştiren tabibi,
 
-e) Bakanlık: Sağlık Bakanlığını,
+e) Acil servis tipi: Karma, erişkin, çocuk, kadın-doğum veya dal acil servisi şeklinde tescil edilen acil servisleri,
 
-f) Baştabip: Bünyesinde acil servis hizmetleri verilen yataklı sağlık tesislerinin baştabibini,
+f) Acil ünitesi: Acil hastalara acil yardım hizmetleri ile kesin tedavisinin yapılacağı merkeze nakline kadar temel yaşam desteği ve ileri yaşam desteği hizmetlerinin verilebildiği, en az bir odadan oluşan acil sağlık birimini,
 
-g) Grup Başkanlığı: İlçe sağlık grup başkanlıklarını,
+g) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
-ğ) Komisyon: Müdürlük bünyesinde acil servislerin seviyelerini belirlemek üzere bu Tebliğin 6 ncı maddesine göre oluşturulan değerlendirme komisyonunu,
+ğ) İcapçı tabip: Uzman sayısı nöbet tutacak miktardan az olan kurumlarda ev nöbeti tutan uzman tabibi,
 
-h) 112 KKM: 112 İl Ambulans Servisi Baştabipliğine bağlı Komuta Kontrol Merkezini,
+h) Kritik bakım: Hayati tehlike arz eden hastalıkları ya da yaralanmaları olan kişilere uygulanan yaşamsal tanı ve tedavi girişimleri ile tıbbi bakımı,
 
-ı) Müdürlük: İl sağlık müdürlüklerini,
+ı) Kritik bakım ünitesi: Yaşamsal tanı, tedavi girişimleri ve tıbbi bakımın yapıldığı odayı,
 
-i) Renk kodlaması: Acil servislerde, triyaj işlemi sırasında acil hastaların öncelik sırasının belirlenmesi amacıyla kırmızı, sarı ve yeşil renk şeklinde uygulanan kodlamayı,
+i) Konsültan tabip: Müdavi tabibin hastanın tanı, tedavi ve takibinde görüş istediği uzman tabibi,
 
-j) Sağlık tesisi: Sağlık Bakanlığına, üniversitelere, belediyelere, diğer kamu kuruluşlarına ve özel sektöre ait, bünyesinde acil sağlık hizmeti verilen tüm yataklı tedavi kurumlarını,
+j) Konsültasyon işlemi: Müdavi tabibin hastanın tanı, tedavi ve takibinde gerekli gördüğü branş uzmanlarından yazılı görüş istemi,
 
-k) Triyaj: Acil servislere başvuran hastaların, hastalıkları ile ilgili şikâyetleri, belirtilerin şiddeti ve tıbbi durumlarının aciliyeti göz önüne alınarak tabip veya bu konuda eğitim almış sağlık personeli tarafından yapılan öncelik belirleme işlemini,
+k) Müdavi tabip: Acil serviste hastayı ilk muayene eden ya da hastanın bakımını resmî olarak devir alan ve fiilen acil serviste görev yapan tabibi,
+
+l) Müdürlük: İl sağlık müdürlüğünü,
+
+m) Nöbetçi tabip: Nöbetini hastanede fiilen tutan tabibi,
+
+n) (Değişik:RG-11/10/2024-32689) Sağlık personeli: Tabip, hemşire, acil tıp teknikeri, acil tıp teknisyeni, ebe, eczacı, eczane teknikeri, tıbbi protez ve ortez teknisyeni/teknikeri, hemşire yardımcısı, ebe yardımcısı, sağlık bakım teknisyeni, tıbbi sekreter ünvan ve branşındaki personeli,
+
+o) SBYS: Sağlık Bilgi Yönetim Sistemini,
+
+ö) Tescil komisyonu: Müdürlük bünyesinde acil servislerin seviyelerini belirlemek üzere oluşturulan komisyonu,
+
+p) Triyaj: Acil servislere başvuran hastaların, görevli sağlık personeli tarafından hastalıkları ile ilgili şikâyetleri ile belirtilerinin şiddeti ve tıbbi durumlarının aciliyeti gözetilerek, tıbbi önceliklerinin ve yönlendirilecekleri tedavi birimlerinin belirlenmesi işlemini,
+
+r) (Değişik:RG-11/10/2024-32689) Sağlık Komuta Kontrol Merkezi (SKKM): İllerde 112 acil çağrı merkezi bünyesinde acil sağlık çağrılarının karşılandığı ve ambulansların sevk ve idare edildiği birimi,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Acil Servislerin Fiziki Şartları, Ulaşım, Hizmet ve Malzeme Standartları,**
+Acil Servislerin Hizmet Seviyesi ve Tipinin
 
-**Seviyelendirme ve İstisnalar**
+Belirlenmesi, Fiziki ve Tıbbi Donanım Şartları
 
-#### Acil servislerin fiziki şartları ve ulaşıma ilişkin asgari standartlar
+#### Acil servis hizmet seviyesi ve tipinin belirlenmesi
 
-**MADDE 5 –** (1) Acil servislerin, fiziki konum, altyapı ve ulaşım şartları bakımından sahip olması gereken asgari standartlar şunlardır:
+**MADDE 5 –** (1) İl veya sağlık tesisi özelinde mevcut olan acil sağlık hizmet ihtiyacı ile sağlık tesisi tarafından sunulabilecek acil sağlık hizmeti arasında mümkün olan en yüksek düzeyde eşleşme ve koordinasyonun sağlanması ve etkin hizmet verilebilmesi amacıyla müdürlük tarafından bu Tebliğ hükümlerine göre, bu Tebliğ kapsamındaki tüm sağlık tesislerinde bulunan acil servislerin hizmet seviyesi belirlenir ve Genel Müdürlüğe bildirilir. Genel Müdürlük, bildirilen acil seviyesini aynen veya değiştirerek onaylar. Hizmet seviyesinde Genel Müdürlük tarafından değişiklik yapılması halinde durum müdürlüğe bildirilir ve nihai acil seviyesi belirlenmiş olur.
 
-a) Acil servisler, hastanenin ana girişinden ayrı, anayola yakın ve araç trafiği bakımından kolay ulaşılabilir, ambulansların kolaylıkla giriş ve çıkış yapabilecekleri, en fazla % 8 eğimli sedye rampası bulunan ve giriş katında; görüntüleme, laboratuar, ameliyathane, yoğun bakım ünitesi ve morga ulaşıma uygun bağlantısı olan bir konumda kurulur.
+(2) Sağlık tesislerinin acil servis hizmeti sunulan veya sunulması planlanan yerleşke, blok, ana bina, ek bina, semt polikliniği ve benzeri tüm hizmet birimleri için ayrı ayrı, hizmet seviyesi ve acil tipi belirlenerek Genel Müdürlüğe bildirilir. Bu işlem esnasında hizmet birimine ait açık adres ile varsa adres kodu bilgisi ve çekirdek kaynak yönetim sistemi kurum kodu gibi sayısal mahal bilgiler belirtilir.
 
-b) Aynı alanda birden fazla binada hizmet veren hastanelerde; ameliyathane, yoğun bakım, laboratuar ve görüntüleme birimleri ile acil servis arasındaki hasta nakli kapalı ortamda yapılacak şekilde fiziki bağlantı sağlanır.
+(3) Sağlık tesislerinde kurulacak acil servis tipleri aşağıda belirtilmiştir:
 
-c) Acil servis giriş ve çıkışlarında; ambulans veya araçtan acil servis girişine kadar olan mesafede hastaların olumsuz hava koşullarından etkilenmemesi için üstü kapalı olacak şekilde, sedye ile hasta nakline uygun alan oluşturulur.
+a) Üniversite hastaneleri ile çocuk sağlığı ve hastalıkları eğitim kliniği olan şehir hastaneleri ve A-I genel rol grubu kamu hastanelerinde erişkin ve çocuk hastalara ayrı ayrı hizmet verecek şekilde erişkin ve çocuk acil servisler kurulabilir, fiziki imkânların elverişli olması halinde bunların ayaktan hasta girişleri de ayrılır. Bu hastanelerde acil durumdaki kadın-doğum vakalarına müdahale etmek için kadın-doğum acil servisleri de kurulabilir. Aynı hastane binasında erişkin, çocuk ve kadın-doğum acil servislerinin ayrı ayrı kurulması halinde her biri için ayrı ayrı tescil işlemi gerçekleştirilir fakat bu acil servisler için bu Tebliğ hükümlerinde öngörülmüş olan fizik mekan kıstasları ayrı ayrı kurulmuş olsalar dahi tüm acil servislerin toplamı fizik mekanı üzerinden değerlendirilir, hizmet kıstasları ise acil servis tip ve seviyesine göre ayrı ayrı belirlenir.
 
-ç) Acil servislerde, acil servisin seviyesine göre Ek-1’de belirtilen asgari standarda uygun olarak yeterli sayı ve nitelikte ilk muayene, müdahale ve müşahede odaları ile bekleme salonu; acil servis yanında, acil servis işleyişini aksatmayacak şekilde konumlandırılmış, hasta yakınlarına 24 saat hizmet verebilen kafeterya, anons sistemi, hasta yakını bilgilendirme panosu, personel soyunma-giyinme ve personel dinlenme odası, güvenlik odası, kadın ve erkekler için bekleme yeri ile bağlantılı, engellilerin de yararlanacağı şekilde düzenlenmiş tuvalet ve lavabo bulunur.
+b) A-I genel rol grubu dışındaki kamu hastaneleri acil servislerinde de esas olarak tüm yaş ve branş hastalarına hizmet verecek şekilde tek bir karma acil servis olarak kurulur ve tescil edilir. Fiziki mekanı uygun olan ve hizmet gereği açısından ihtiyaç duyulan hastanelerde ayrı ayrı erişkin ve çocuk acil servis kurulabilir. Bu durumda tescil işlemleri ve hasta girişleri için (a) bendi hükümleri uygulanır.
 
-d) Acil servis girişinde tekerlekli sandalye ve sedyelerin muhafazası için uygun bir alan ayrılır.
+c) Özel sağlık tesislerinde kurulan acil servisler seviyelerine göre tescil edilir. Özel hastaneler karma acil servis veya bu fıkranın diğer bentlerindeki hükümlere uygun olarak erişkin ve çocuk ve/veya kadın-doğum acil servisleri de kurabilirler. Özel hastaneler için Genel Müdürlük bu Tebliğ hükümlerine aykırı olmamak şartıyla asgari seviye düzenlemesi yapabilir.
 
-e) Acil servislerde zeminlerin, kolay kırılmaz, yüzeyi mat ve kaymayı önleyen, girintisiz ve kolay temizlenebilir malzemelerden olması gerekir.
+ç) Dal rol grubundaki hastanelerin acil servis tipi, dal acil servisidir. Dal hastanesi birden çok branş içeriyor ve ihtiyaç var ise her branş için ayrı ayrı dal acil servisleri kurulup tescil edilebilir, bu durumda her branş acil servisi için ayrı ayrı hizmet seviyesi belirlenir fakat bu Tebliğdeki fiziki mekana dair kıstaslar tüm branşlardaki acil servislerin toplamı üzerinden değerlendirilir.
 
-f) Acil servislerde, ambulans ve hasta nakil aracı ile nakledilen hasta girişi ile ayaktan hasta girişi ayrılır. Bu alanda, ambulans ve hasta nakli yapılan araç trafiği için kolay manevraya uygun bir ulaşım altyapısı oluşturulur.
+(4) Acil servisler üçüncü fıkrada sayılan tipler haricinde farklı isimlerle tescil edilemezler.
 
-g) Acil servise yakın ve acil ulaşımını aksatmayacak şekilde, hasta nakil araçları, engelli hasta araçları ve resmi araçlar, personel ve hasta yakınları için uygun ve yeterli genişlikte otopark alanı ayrılır. Ambulans otoparkı ayrı olarak belirlenir ve her an çıkış yapabilecek şekilde önünün açık olması sağlanır.
+(5) Hastane rol grubu değiştirilen sağlık tesislerindeki veya hizmet seviyesi ve tipi değiştirilen acil servisler ile yeni açılan veya hizmete giren acil servisler için hizmet seviye tespiti ve tip belirlemesi değişiklik veya hizmet başlangıcını takip eden ay içerisinde gerçekleştirilir.
 
-ğ) Hastane yakınındaki cadde ve sokaklara hastane acil servisini gösteren işaret ve yönlendirme levhaları konulur.
+#### Acil servis seviye tespit ve tescil işlemleri
 
-h) Hastane girişinde acil servisin yerini gösteren, yeteri kadar büyüklükte ve geceleri de okunabilecek şekilde ışıklandırılmış, yönlendirme levhaları bulunur. Lüzumu hâlinde bu levhalara ek olarak uluslararası kabul gören yabancı bir dilde de yönlendirme tabelaları eklenebilir.
+**MADDE 6 –** (1) Acil servisler, bünyesinde faaliyet gösterdiği sağlık tesisinin statüsü, fiziki şartları, gereken tıbbi cihaz, donanım ve asgari ilaç standardı, personel sayısı, yatak sayısı gibi ölçütler dikkate alınarak I., II. ve III. seviye olarak seviyelendirilir. Müdürlük tarafından görevlendirilen tescil komisyonu, Ek-5’te yer alan Acil Servis Seviye Tespit ve Denetim Formuna göre inceleme yapar. Tescil komisyonu tarafından düzenlenen rapor Ek-1, Ek-2, Ek-3 ve Ek-4 formlarında yer alan standartlara istinaden valilik onayı alınarak acil servis seviyesi tescil edilir. Tescil edilen kurumlar Genel Müdürlüğe bildirilir.
 
-ı) Acil servis girişlerinin belirlenmesi amacıyla uygun yerlere, beyaz zemin üzerine ters "C" harfi şeklinde kırmızı hilal ve altında koyu mavi harflerle "ACİL" ibaresinin yer aldığı yönlendirme tabelası asılır.
+(2) Tescil komisyonu seviyelendirme işlemleri esnasında, Genel Müdürlük tarafından belirlenmiş nihai hizmet seviyesi ve tip listesinde yer almayan acil servis tespit eder ise veya belirlenmiş hizmet seviyesi ve tip için değişiklik yapılması gerektiğini değerlendirir ise kendisi seviye tespit işlemini tesis eder fakat hazırladığı raporda durumu belirtir. Bu durumda müdürlük yeniden değerlendirme yaparak nihai kararın verilmesi için Genel Müdürlüğe iletir.
 
-i) Acil servis binalarında, ışıklandırmalı ve en az 20 (yirmi) metreden okunabilecek büyüklükte “ACİL SERVİS” yazılı tabela bulunur.
+(3) Müdürlük tarafından tip ve hizmet seviyesi belirleme işlemi yapılan ve acil servis hizmeti sunulan tesiste; ana bina, blok, ek bina, semt polikliniği gibi her birim ve yerleşke için ayrı ayrı tescil işlemi gerçekleştirilir.
 
-j) Nöbetçi uzman tabip, tabip ve diğer personelin branş, unvan ve isimlerinin yer aldığı, tercihen ışıklandırmalı bir levha ile nöbetçi eczaneleri gösterir liste acil servislerin kolaylıkla görülebilecek bir yerine asılır.
+(4) Acil servislerin seviye tespiti, bu Tebliğde yer alan standartlara göre yerinde inceleme yapılarak müdürlük tarafından oluşturulacak tescil komisyonları ile yapılır. Bu amaçla müdürlükler tarafından basılı formlar oluşturabileceği gibi Genel Müdürlük tarafından SBYS üzerinden veri akışı ve takibi yapılabilecek şekilde elektronik formlar da oluşturulabilir. Tescil işlemleri bahse konu forma istinaden valilik onayı alınarak gerçekleştirilir ve en geç valilik onayını takip eden ay içerisinde (elektronik form kullanılması halinde elektronik ortamda işlenerek) Genel Müdürlüğe iletilir.
 
-#### Seviyelendirme
+(5) Tescil komisyonu; biri başkan olan en az 5 üyeden oluşur. İhtiyaç duyulması halinde altıncı fıkrada belirtilen nitelikte kişiler arasından üye sayısı arttırılabilir. Komisyon başkanı sağlık tesisinin türüne göre müdürlükteki başkan veya başkan yardımcıları arasından görevlendirilir.
 
-**MADDE 6 –** (1) Acil servisler, acil hasta kapasitesi, acil vakaların özelliği ve vakanın branşlara göre ağırlıklı oranı, fiziki şartları, bulundurduğu malzeme, tıbbi donanım ve personelin niteliği, hizmet verdiği bölgenin özellikleri, bulunduğu konum, bünyesinde faaliyet gösterdiği sağlık tesisinin statüsü gibi ölçütler dikkate alınarak I., II. ve III. Seviye olarak seviyelendirilir. Acil servislerin seviyelerine göre tanımları, seviyelerine uygun olarak bulundurulması gereken birim ve alanlar, bunların asgari alan genişlikleri, verilmesi gereken hizmetin kapsamı, asgari yatak ve personel standardı Ek-1’de, tıbbî cihaz ve donanıma ilişkin asgari standartları Ek-2’de, bulundurulması zorunlu asgari ilaç listesi Ek-3’te, acil servislerde bulundurulması gereken birim ve alanlar ise Ek-4’de gösterilmiştir.
+(6) Komisyon üyesi olarak;
 
-(2) Seviye tespiti; bu Tebliğ hükümlerine ve Ek-1, Ek-2 ve Ek-3’teki asgari standartlar çerçevesinde müdürlük bünyesinde oluşturulacak komisyon marifetiyle yerinde inceleme ve raporlama yöntemiyle, Ek-5’deki Acil Servis Seviye Tespit ve Denetleme Formuna göre yapılır. Komisyon tarafından düzenlenen rapor ve ekinde yer alan Ek-5’deki Forma istinaden Valilik onayı alınarak tescil için Bakanlığa gönderilir.
+a) Sağlık tesisinin türüne göre müdürlükteki ilgili hizmet başkanlığında görevli olanlar,
 
-(3) Komisyon, müdürlüğün yetkilendireceği bir müdür yardımcısı başkanlığında, acil sağlık hizmetleri şube müdürlüğünden ve yataklı tedavi kurumları şube müdürlüğünden birer kişi, il ambulans servisi baştabibi veya görevlendireceği bir kişi ile bir mimar veya inşaat mühendisi, varsa acil tıp uzmanı, bulunmaması hâlinde acil servis sorumlusu bir tabip olmak üzere en az altı kişiden oluşur. Üniversite bulunan illerde ilgili ana bilim dalı başkanlığından bir temsilci de komisyona dahil edilir. Komisyon oy çokluğu ile karar alır. Oylarda eşitlik olması hâlinde Başkanın taraf olduğu karar geçerlidir. Komisyon sekretaryası müdürlükçe yürütülür.
+b) İl ambulans servisinde görev yapan tabipler,
 
-(4) Seviyelendirme ve tescil işlemi yapılan acil servislerin sonradan seviyesinin yükseltilmesi veya yeniden değerlendirilmesine ilişkin başvurular kurum baştabibince ilgili müdürlüğe resmi yazı ile yapılır. Başvurular, müdürlüğe intikal ettiği tarihten itibaren 1 (bir) ay içerisinde sonuçlandırılır. Sağlık tesisi sayısı fazla olan illerde birden çok komisyon kurulabilir.
+c) Acil servis sorumlusu tabipler,
 
-#### Seviyelendirmenin istisnaları
+ç) Acil servis sorumlusu hemşireler,
 
-**MADDE 7 –** (1) Dal hastaneleri, özel hastaneler ve entegre ilçe hastaneleri bünyesindeki acil servisler veya acil üniteleri, komisyon tarafından aşağıdaki ölçütlere uygun olarak inceleme ve değerlendirmeye tâbi tutulur ve raporlanarak tescil için Bakanlığa bildirilir.
+d) Mimar, mühendis gibi teknik unvanı haiz kişiler,
 
-a) Göz hastalıkları, fizik tedavi ve rehabilitasyon, ağız ve diş sağlığı, lepra, deri ve zührevi hastalıkları branşlarında faaliyet gösteren ve acil sağlık hizmeti yoğunluğu bulunmayan dal hastanelerinde sadece ilgili uzmanlık dalının gerektirdiği branşta acil ünitesi oluşturulur.
+e) Eczane veya depo görevlileri,
 
-b) Acil ünitesinin fiziki şartlar, tıbbi donanım, ilaç ve personel bakımından Ek-6’daki asgari standartları taşıması zorunludur.
+görevlendirilebilir.
 
-c) Faaliyet gösterdiği branşların özelliği gereği acil başvuru yoğunluğu bulunan, kadın hastalıkları ve doğum, çocuk sağlığı ve hastalıkları, kalp ve damar cerrahisi, acil yardım ve travmatoloji, göğüs cerrahisi, onkoloji ve kemik hastalıkları, meslek hastalıkları, ruh sağlığı ve hastalıkları ile göğüs hastalıkları alanında faaliyet gösteren dal hastaneleri acil servislerinin; fiziki şartları bakımından en az I. Seviye’nin asgari standartlarını, diğer şartlar bakımından III. Seviye’nin asgari standartlarını taşıması gerekir.
+(7) Dal hastanelerinin acil servis tescillerinde ilgili klinik branştan bir uzman tabibin, çocuk acil servis tescillerinde ise mümkünse çocuk acil tıp yan dal uzmanı yoksa acil serviste görev yapmakta olan bir çocuk sağlığı ve hastalıkları uzmanı tabibin komisyon üyesi olarak görev alması sağlanır.
 
-ç) Dal hastaneleri haricindeki özel sağlık tesislerinin acil servislerini, ilgili mevzuatındaki hükümler saklı kalmak kaydıyla, bu Tebliğde belirtilen süre ve şartlar dahilinde en az I. Seviye acil servis asgari standartlarına uygun hâle getirmesi zorunludur.
+(8) Sağlık tesisi sayısı fazla olan illerde birden çok komisyon kurulabilir ve oy çokluğu ile karar alır. Oylarda eşitlik olması hâlinde başkanın taraf olduğu karar geçerlidir.
 
-d) Entegre ilçe hastanelerinde acil sağlık hizmetleri, hasta yoğunluğuna ve kurumun fiziki şartlarına göre, acil muayene ve tıbbi müdahale hizmetlerinin verilebildiği, en az bir odadan oluşan, acil ünitesi yapılanması içerisinde verilebilir.
+(9) Seviye tescil işlemi yapılan acil servislerin sonradan seviyesinin yükseltilmesi veya yeniden değerlendirilmesine ilişkin talepler, baştabip tarafından müdürlüğe resmî yazı ile yapılır. Başvurular, yazının müdürlüğe intikal ettiği tarihten itibaren 1 ay içerisinde sonuçlandırılır.
+
+(10) Hizmet seviyesine uygun şekilde tescil edilmiş olan acil servislerin tekrar tescil edilmesi zorunluluğu yoktur bununla beraber yapılan yıllık denetimlerde bu Tebliğdeki tescil seviye kriterlerine uygun olmadığı tespit edilen acil servisler bu Tebliğ hükümlerine göre yeniden değerlendirilir.
+
+(11) Yeni açılan acil servisler için 5 inci madde gereğince yapılması gereken işlemler acil servis hizmet başlangıcını takip eden 1 ay içerisinde gerçekleştirilerek Genel Müdürlüğe bildirilir. Tescil işlemi ise en geç Genel Müdürlük onayını takip eden ay içerisinde tamamlanır. Müdürlük veya Genel Müdürlük tarafından hizmet seviyesi ya da tip değişikliği yapılan acil servislerle ilgili işlem ve tesciller için de bu fıkra hükümleri uygulanır.
+
+(12) (Ek:RG-11/10/2024-32689) Müdürlükler, ildeki sağlık hizmetlerinin etkin ve verimli bir şekilde sunulmasını sağlamak amacıyla, kalp merkezi, III. seviye yoğun bakım, inme merkezi, organ nakli merkezi gibi özellikli hizmetleri de değerlendirerek fiziki mekân kriterlerine bakılmaksızın acil servis seviyelerini değiştirebilir.
+
+#### Acil servis fiziki yapısına dair şartlar
+
+**MADDE 7 –** (1) Acil servisteki fiziki yapılar ve güvenlik hizmetlerine ilişkin aşağıdaki şartlar bulunur:
+
+a) Sağlık tesisi çevresindeki cadde ve sokaklara acil servisi gösteren işaret ve yönlendirme levhaları konulur.
+
+b) Sağlık tesisi yerleşkesinde, acil servis girişine yönlendirme yapılması amacıyla uygun yerlere, beyaz zemin üzerine kırmızı hilal “ters C harfi şeklinde” ve altında koyu mavi harflerle "ACİL" ibaresinin ve yön işaretinin yer aldığı tabela veya levhalar bulunur. Lüzumu hâlinde bu levhalara ek olarak uluslararası kabul gören yabancı bir dilde de yönlendirme tabelaları eklenebilir.
+
+c) Acil servislerin bulunduğu bina veya bloklarda, bina cephesinde ışıklandırmalı ve en az 20 metreden okunabilecek büyüklükte, lüzumu halinde erişkin, çocuk, kadın doğum ve benzeri ayrımları içerecek şekilde kırmızı renkle yazılı “ACİL SERVİS” ibareli tabela bulunur, tabela yerine ışıklı pano ve benzeri sistemler de kullanılabilir. Acil servisin bulunduğu bina veya blok çatısında uygun büyüklükte ve ışıklandırmalı “ACİL SERVİS” yazı veya tabela bulundurulabilir.
+
+ç) Acil servis ayaktan ve ambulans hasta girişlerine yakın konumda, acil ulaşımını aksatmayacak şekilde, ambulans, engelli ve resmî araçlar ile hasta ve yakınları için yeterli otopark alanı oluşturulur. Bu alanlarda yeterli ışıklandırma, gözetleme kameraları ve güvenlik personeli ile gerekli güvenlik önlemleri alınır.
+
+d) Acil servisler, hastanenin ana girişinden ayrı, ana yola yakın ve araç trafiği bakımından kolay ulaşılabilecek şekilde giriş katında oluşturulur, kot farkı ve benzeri nedenlerle giriş katında oluşturulamayan acil servisler ambulans ile ulaşılabilir olan katta kurulur. Acil servis girişlerinde veya acil servis içerisinde sedye ve tekerlekli sandalye kullanımına uygun şekilde düzenlemeler yapılır. Bu kapsamda bina giriş veya içerisinde kullanılacak rampalar en fazla %8 eğimli olarak kurulurlar. Engelliler için ilgili mevzuatta öngörülen düzenlemeler gerçekleştirilir.
+
+e) Hastanenin dışından idare, poliklinik ve benzeri girişlerinden farklı olacak şekilde direkt olarak acil servise ulaşılması sağlanır. Acil serviste birbirinden ayrı olarak ayaktan hasta girişi ile ambulans girişi bulunur. Varsa KBRN dekontaminasyon ünitesi ve benzeri birim girişleri de ayrı ayrı düzenlenir. Bu giriş alanlarında araç veya ambulans trafiği için kolay manevra yapılmasını sağlamak üzere gerekli düzenlemeler yapılır. Ambulans girişinden kırmızı veya sarı alana hastaların direkt geçişini sağlayacak düzenlemeler yapılır.
+
+f) Azami ölçüde araç parkından acil servis girişine kadar olan mesafede, hastaların olumsuz hava koşullarından etkilenmemesi için gerekli önlemler alınır. Bunun mümkün olmadığı durumlarda acil servis önünde hasta nakline engel olmayacak şekilde ve tercihen girişin önündeki yolun kenarından başlamak üzere fakat her hâlükârda girişin önünü ve yanlarını en az 2 metre nispetinde olumsuz her türlü hava koşullarından koruyacak sundurma bulunur. Acil servis girişlerinde tekerlekli sandalye ve sedyelerin muhafazası için uygun bir alan ayrılır. Hasta yoğunluğuna göre yeterli sayı ve nitelikte tekerlekli sandalye ve sedye bulundurulur.
+
+g) Acil servisler görüntüleme, laboratuvar, morg, ameliyathane ve yoğun bakım ünitesi gibi ihtiyaç duyulan tüm hizmet birimlerine uygun bağlantısı olan bir konumda kurulur veya bu birimlere uygun bir bağlantı tesis edilir.
+
+ğ) Acil servislerde ihtiyaç ve başvuru yoğunluğuna göre yeterli sayı ve nitelikte kayıt, tıbbi sekreter, karşılama, yönlendirme, taşıma, danışma personeli görevlendirilir ve görevli personel için uygun mekanlar oluşturulur.
+
+h) Fiziki şartları uygun olan ve gerekli olduğu değerlendirilen acil servislerde, işleyişi aksatmayacak şekilde acil servis yakınında konumlandırılmış, 24 saat hizmet verebilen kafeterya bulunur.
+
+ı) Hasta ve yakınlarının beklemeleri için gün ışığı alan, sıcak ve soğuktan korunaklı, havalandırması yeterli, ergonomik oturma düzeninin olduğu, bilgilendirme ekranlarının bulunduğu alanlar oluşturulur. Tescil işlemi gerçekleştirilen her acil servis için ayrı bir bekleme alanı oluşturulur.
+
+i) Acil servislerde başta hasta bekleme alanları olmak üzere ihtiyaç duyulan tüm alanlarda, hasta ve yakınları için engellilerin de yararlanacağı şekilde yeterli sayıda, kadın ve erkek tuvaleti ile lavabosu bulunması sağlanır.
+
+j) Acil servislerde yeterli sayı ve büyüklükte personel soyunma-giyinme oda ve dolapları, tuvalet, lavabo ve tercihen duş içeren dinlenme odaları oluşturulur. Fiziki şartları uygun olmayan kurumlarda hastane bünyesinde farklı birimlerde yeterli sayı ve büyüklükte soyunma-giyinme odaları oluşturulabilir.
+
+k) Acil servislerde, acil servis hizmetine dahil olmayan tıbbi veya idari hizmet birimlerine tahsis edilen mekanlar bulunmaz. Acil servisteki tüm taşınır ve taşınmazın standartlara uygun ve kullanıma elverişli durumda bulundurulması gerekir.
+
+l) Acil servis genel temizlik ve enfeksiyon kontrol planları, enfeksiyon kontrol komitesinin görüşü alınarak yapılır. Bu kapsamda temizlik odası, temiz depo/dolap, kirli depo/dolap gibi destek alanları ve ihtiyaç halinde izolasyon odası oluşturulur, personel için kişisel koruyucu ekipmanlar bulundurulur, acil servislerdeki tüm alanlarda yeterli ve uygun havalandırma sağlanır.
+
+m) Acil servislerde nöbetçi eczaneleri gösterir ışıklı pano veya levha hastalar tarafından kolaylıkla görülebilecek bir yere asılır.
+
+n) Nöbetçi personel ile icapçı ve konsültan çalışma listeleri elektronik ortamda ilgililerin ulaşabileceği şekilde ilan edilir.
+
+o) Nöbetçi personelin icap ve konsültan personel taleplerinde, görüşmelerin kayıt altına alınmasını ve en az (Değişik ibare:RG-11/10/2024-32689) 2 ay süre ile saklanmasını sağlayacak santrale entegre donanım oluşturulur ve görüşmelerin kayıt altına alındığı ibaresi görüşme öncesi otomatik olarak taraflara bildirilir.
+
+ö) Acil servislerde çalışanların, hasta ve hasta yakınlarının güvenliğini sağlamak üzere sağlık tesis yöneticileri tarafından gerekli güvenlik önlemlerinin alınması zorunludur. Acil servislerde güvenlik hizmeti, güvenlik personeli ve/veya resmî kolluk kuvveti vasıtasıyla yeterli sayıda güvenlik kamerası desteğiyle sağlanır. Acil servislerde görev yapan güvenlik personelinin görünür olması sağlanır. Güvenlik kameraları, mahremiyeti ihlal edecek şekilde konumlandırılamaz. Acil servislerde mahremiyet gözetilerek güvenlik kamerası ile izlenemeyen kör alan bulunmaması sağlanır. Güvenlik kamerasıyla izleme sistemi ses kaydını da içerir şekilde yapılır. Kayıtlar en az (Değişik ibare:RG-11/10/2024-32689) 2 ay süre ile saklanır, uygun yerlere “sesli ve görüntülü kayıt yapılmaktadır” uyarı levhaları asılır. İlgililerin yazılı talebi üzerine şüpheli olaylar için kayıtlar silinmeden yedeklenme işlemi yapılır.
+
+p) Sağlık personelinin alternatif çıkış yolları konusunda gerekli fiziki düzenlemeler yapılır. Acil servislerde hastanenin diğer hizmet birimlerine açılan geçişleri ve kapıları kontrollü olacak şekilde düzenlenir. Bu kapsamda kontrollü kapı ve benzeri uygulamaların acil durumlardaki sağlık hizmet sunumunu engellememesi amacıyla gerekli önlemler alınır.
+
+r) Acil servis girişinde veya yakın konumda, acil servis asayişinde görevlendirilmiş emniyet veya güvenlik personelinin kullanması amacıyla uygun bir oda ile hastaların kıymetli eşyalarının muhafaza edileceği bir emanet odası veya kilitli dolap teşkil edilir. Kişilerin emanete alınması gereken her türlü eşyası tutanak eşliğinde usulüne uygun olarak kayıt altına alınır.
+
+(2) Acil servisteki tıbbi hizmet alanlarına ilişkin aşağıdaki şartlar bulunur:
+
+a) Acil servislerde, hastalar için gerekli muayene, teşhis ve basit tedavi uygulamalarının gerçekleştirildiği müstakil oda ya da paravan ve benzeri bölünmüş alanlar şeklinde, yeterli sayıda muayene odası/alanı bulunur.
+
+b) Acil servislerde, hastalar için gerekli takip ve tedavi işlemlerinin gerçekleştirildiği müstakil oda ya da paravan ve benzeri bölünmüş alanlar şeklinde, yeterli sayıda müşahede odası/alanı bulunur.
+
+c) Acil servislerde müdahale veya tıbbi işlemlerin yapıldığı müstakil oda ya da paravan ve benzeri bölünmüş alanlar şeklinde, yeterli sayıda müdahale odası/alanı bulunur.
+
+ç) Bu Tebliğin Ek-1’inde belirtilen acil servislerde travma hastalarının ilk muayene, stabilizasyon veya tedavi ile bakımlarının yapıldığı müstakil oda ya da paravan ve benzeri bölünmüş alanlar şeklinde, yeterli sayıda travma müdahale odası veya alanı bulunur.
+
+d) Acil servislerde, kardiyopulmoner resüsitasyon gereken hastaların stabilizasyon, takip ve tedavilerinin yapıldığı müstakil oda ya da paravan ve benzeri alanlar şeklinde yeterli sayıda resüsitasyon odası/alanı bulunur.
+
+e) İhtiyaca göre acil servis ameliyathaneleri kurulabilir. Acil servislerde ameliyathane kurulmamış olması halinde sağlık tesislerinde ameliyathanenin en az bir odası acil ameliyathane olarak belirlenir.
+
+f) III. seviye acil servisler ile Bakanlıkça uygun görülen II. seviye acil servislerde, kritik bakım ihtiyacı olan hastaların tıbbi tedavi ve takiplerini gerçekleştirmek üzere kritik bakım üniteleri oluşturulabilir. Kritik bakım ünitelerinin sorumluluğu acil servis uhdesindedir. Bu ünitelerde takip edilen hastaların stabilizasyon ve müdahalelerini takiben klinik durumlarına göre ilgili yoğun bakım üniteleri veya yataklı servislerine mümkün olan en kısa sürede nakilleri sağlanır. Hastane yoğun bakım ünitelerindeki boş yataklar öncelikle acil servis kritik bakım ünitelerinde takip edilmekte olan hastalar için kullanılır.
+
+g) Acil servislerde, acil servis laboratuvarı kurulabilir. Bu husustaki karar acil servis ve laboratuvar sorumlularının görüşü alınarak baştabip tarafından verilir. Acil laboratuvarı kurulmamış olması halinde genel laboratuvarlarda acil servis hastaları için talep edilen tahlil ve tetkikler öncelikli olarak gerçekleştirilir.
+
+ğ) Acil servislerde ihtiyaç halinde muayene alanlarına yakın konumda, kan, idrar ve benzeri numunelerin alınması ve teslimi amacıyla uygun şekilde düzenlenmiş numune alma oda veya alanlar oluşturulur.
+
+h) Röntgen, bilgisayarlı tomografi, manyetik rezonans görüntüleme, ultrasonografi ve benzeri tıbbi donanımlı görüntüleme birimleri acil servis içerisinde veya acil servise yakın alanlarda oluşturulur.
+
+ı) Bu Tebliğin Ek-1’inde belirlenen acil servislerde muayene alanlarına yakın konumda, içinde alçı atığı lavabosu ve gerekli diğer donanımı bulunan, alçı, atel ve benzeri işlemlerin yapıldığı alçı odaları bulunur.
+
+i) Acil servislerde mümkünse ayaktan hasta girişine yakın konumda, acil müdahale arabası ve benzeri donanıma sahip, lavabosu olan pansuman-enjeksiyon odası bulunur. Bu odalarda merkezi gaz ve aspirasyon sistemi yoksa oksijen tüpü ve mobil aspiratör cihazı bulunmalıdır.
+
+j) Acil servislerde hasta veya yakınları ile yapılacak görüşmelerde kullanılması amacıyla psikodestek odası bulunabilir ve bu birimde lüzumu halinde hasta veya yakınlarının teskin edilmesi amacıyla manevi destek personeli dahil ilgili diğer personel arasından görevlendirme yapılabilir.
+
+k) Acil servislerde hastanın kendine zarar vermesini önleyecek şekilde tefriş edilmiş, oda kapısında hastanın takibine uygun, mahremiyeti bozmayacak şekilde gözlem imkanı bulunan ve gerekli diğer donanıma sahip acil psikiyatri odası bulunabilir.
+
+l) Acil servis içinde veya yakın komşuluğunda, gözaltındaki, tutuklu veya mahkûm hastaların acil muayene ve basit tedavi ve takip işlemlerinin yapılabileceği, uygun şekilde tedbirleri sağlanmış tutuklu muayene odası bulunabilir.
+
+m) Bu Tebliğin Ek-1’inde belirlenen acil servislerde bulaşıcılığı yüksek hastalar için izolasyon odaları bulundurulur.
+
+n) Bu Tebliğin Ek-1’inde belirlenen acil servislerde KBRN ajanlarına maruz kalanların arındırma vb. işlemlerinin yapıldığı KBRN dekontaminasyon üniteleri bulunur.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-**Renk Kodlaması ve Triyaj Uygulaması, Muayene, Müdahale,**
+Triyaj Uygulaması ve Renk Kodlaması, Muayene ve Refakat Esasları
 
-**Refakat Esasları ve Güvenlik Önlemleri**
+#### Triyaj uygulaması ve renk kodlaması
 
-#### Renk kodlaması ve triyaj uygulaması
+**MADDE 8 –** (1) Triyaj işlemi; acil servis yoğunluğuna bağlı olarak hastaların zarar görmesini engellemek, ihtiyaç duydukları tıbbi bakıma gecikmeksizin ulaşmalarını sağlamak amacıyla bu Tebliğin Ek-4’ünde belirtilen hükümler çerçevesinde uygun sayıda personel ile yapılır.
 
-**MADDE 8 –** (1) Acil servislerde etkin bir hizmet sunumu için renk kodlaması uygulanır. Triyaj işlemi başvuru sırasında yapılır. Triyaj uygulaması için muayene, tetkik, tedavi, tıbbi ve cerrahi girişimler bakımından öncelik sırasına göre kırmızı, sarı ve yeşil renkler kullanılır. Renk kodlamasına ilişkin uygulama esasları Ek-7’de gösterilmiştir.
+(2) Triyaj işlemi Ek-4’te belirtilen tablo kullanılarak yapılabileceği gibi uluslararası kabul görmüş başka triyaj yöntemi ile de yapılabilir. Triyaj yapacak personele hizmet içi eğitim verilmiş olmalıdır. Triyaj eğitimleri acil servis sorumlu tabibi tarafından verilir veya verdirilir. Acil servisteki hastalara farklı triyaj sistemi uygulansa dahi veri takibinin doğru şekilde takip edilebilmesi amacıyla uygulanan sistemin skorlarının, Ek-4’te belirtilen renk kodlamasına en yakın olacak şekilde belirtilerek SBYS kaydı sağlanır.
 
-(2) Dal hastaneleri ve bünyesinde I. Seviye acil servisi bulunan sağlık tesislerinde triyaj uygulaması yapılması zorunlu değildir. 112 Acil ambulanslarıyla sağlık tesisine getirilen hastalara triyaj uygulaması yapılmaz. Ambulansla getirilen acil vakaların sağlık tesisine kabul işlemleri en kısa sürede tamamlanır.
+(3) Triyaj işlemi yapılması gereken acil servislerde ayaktan hasta girişlerinde, mümkün olması halinde kayıt ve triyaj işleminin aynı anda yapılması esastır. Kayıt ve triyaj işleminin aynı anda yapılamaması halinde bu işlemler uygun bir ortamda, yeterli bir alan ayrılarak, önce triyaj sonra kayıt işlemi şeklinde gerçekleştirilir. Ayaktan başvurduğu halde hayati tehlikesi olduğu değerlendirilen hastalar için kayıt ve triyaj işlemi yapılmaksızın sağlık personeli eşliğinde uygun görülen alana yönlendirilir. Kayıt işlemleri uygun zamanda gerçekleştirilir.
 
-(3) Acil serviste ilk kayıt, güvenlik ve triyaj uygulaması için yeterli alan ayrılır. Triyaj uygulaması tabip veya acil tıp teknisyeni, hemşire, sağlık memuru (toplum sağlığı) ve benzeri nitelikteki sağlık personeli tarafından yapılır. Acil bakım ve triyaj uygulamasına ilişkin verilmesi gereken eğitimler, eğitimlerin müfredatı ve süresi ile eğitim verilecek merkezler Yükseköğretim Kurulu Başkanlığının ve ilgili diğer kurumların da görüşü alınarak Bakanlıkça belirlenir.
+(4) Hasta yoğunluğu yaşanan veya ihtiyaç duyulan yerlerde hasta bekleme alanındaki hastaların aciliyet durumlarının değişmesi ihtimaline karşı sağlık personeli tarafından sabit bir noktadan gözlem yöntemiyle veya dolaşarak triyaj/takip işlemi de yapılabilir. Bu şekilde yapılacak triyaj işlemi, vital bulgu alınmadan, gözlem ve/veya basit şikayet sorgusu ile gerçekleştirilir.
 
-#### Muayene, müdahale ve refakat esasları
+(5) 112 acil ambulanslarıyla sağlık tesisine getirilen hastalara ayrıca triyaj uygulaması yapılmaz. Yapılan değerlendirme neticesinde hasta, ihtiyacına göre kırmızı veya sarı alana alınır. 112 acil ambulansı ile getirilen hastaların triyaj ve diğer SBYS kayıtları, ambulans bekletilmeksizin yataklı sağlık kurumu tarafından yapılır.
 
-**MADDE 9 –** (1) Acil servise başvuran tüm hastaların triyaj işlemleri en kısa sürede tamamlanır. Bunu takiben tıbbi durumları dikkate alınarak tanı ve tedavi işlemleri için sıraya konulur ve triyaj koduna uygun olan alana alınırlar. Acil muayene, tıbbi müdahale ve tedavi gerektiren kritik hastalara kayıt işleminin yapılıp yapılmadığına bakılmaksızın derhal gerekli tıbbi işlemler uygulanır. Kritik hastaların kayıt işlemlerinin öncelikle yapılabilmesi için otomasyon sistemi ile ilgili gerekli düzenlemeler yapılır.
+(6) (Değişik cümle:RG-11/10/2024-32689) Ambulans vakası karşılayan III. seviye acil servislerde ambulans girişleri için ayrı kayıt kabul ve değerlendirme bankosu oluşturulur. Hemen gözlem altına alınması gereken ayaktan veya ambulans ile başvuran hastalar ile yanında yakını olmayan veya kimliği olmayan bilinci kapalı hastaların kayıt işlemleri kayıt bankosundan farklı olarak gözlem alanı gibi yerlerde yapılır.
 
-(2) Acil servislerde hastaların ruh sağlığını olumsuz etkileyecek travmatik görüntülerden uzak tutulması için gerekli düzenlemeler yapılır. Acil serviste hastalar ilgili tabip tarafından, hemşire ve tabibin lüzum görmesi hâlinde hasta refakatçisi eşliğinde muayene edilir. Hasta yakını, hastanın kimlik bilgileri ve anamnez alımı gibi işlemler için refakat edebilir. Tetkik ve tahliller için gerekli numuneler hastanın bulunduğu yerde alınır ve görevli personel tarafından ilgili birimine ulaştırılır. Görüntüleme ve benzeri işlemler görevli hostesler refakatinde gerçekleştirilir. Durumu kritik olan hastalara, bu işlemleri sırasında tıbbi durumunun gerektirdiği bir sağlık personelinin refakat etmesi sağlanır. Hasta veya yakınları hastanın tıbbi durumu ve yapılacak tıbbi uygulamalar konusunda ilgili tabip tarafından bilgilendirilir ve lüzumu hâlinde hasta hakkında yapılacak özel görüşmeler için ayrı bir oda tahsis edilebilir.
+(7) Acil servise başvuran hastanın kabul edilmesi esastır. Acil servise başvuran hasta sayısında artış olması ve bu durumun acil servis imkânları ile yönetilemeyecek hale gelmesi durumunda hastanede görev yapmakta olan personel ile diğer birimlerin imkânlarından yararlanılır. Bu durumda hastane genelinde acil servis yoğunluğunu azaltmak amacıyla acil servis sorumlu tabibi tarafından öngörülen önlemler baştabip onayıyla uygulanabilir, bu kapsamda yazılı protokoller oluşturulabilir, ihtiyaç halinde hastane afet ve acil durum planları aktive edilebilir.
 
-(3) Acil servislerde yapılan her türlü tıbbi işlem sırasında hasta mahremiyetine, tıbbi etik kurallara ve hasta hakları ilkelerine riayet edilmesi zorunludur.
+#### Muayene ve refakat esasları
 
-#### Acil servislerde güvenlik önlemleri
+**MADDE 9 –** (1) Kırmızı ve sarı alanda hasta refakatçisi kabulü yapılmaması esastır ancak istisnai durumlarda tabip onayı ile refakatçı kabul edilir.
 
-**MADDE 10 –** (1) Acil servislerde hasta, hasta yakınları ve çalışanların güvenliği için sağlık tesisi yönetimlerince gerekli önlemlerin alınması zorunludur. Acil servislerde güvenlik, resmi kolluk kuvveti veya özel güvenlik personeli vasıtası ile ve yeterli sayıda güvenlik kamerası desteği ile sağlanır. Tıbbi işlemlerin gerçekleştirildiği alanlar ile cerrahi müdahale, ameliyathane, yoğun bakım gibi kritik birimlere görevli personel dışında ilgisi olmayan kişilerin girmesi ilgilisine göre açılma özelliği olan kapılar konulmak suretiyle engellenir. Görevli personel, hasta, hasta yakını, ziyaretçi, ambulans, hasta nakil aracı veya sedye ile getirilen acil hastaların alındığı girişler gerekli idari ve teknik önlemler alınarak kontrol altında tutulur. Acil servisle bağlantılı otopark alanlarında da yeterli ışıklandırma, gözetleme kameraları ve güvenlik personeli ile gerekli güvenlik önlemleri alınır.
+(2) Hasta yakını, hastanın açık onayı halinde anamnez alımı gibi işlemlere refakat edebilir.
+
+(3) Acil servislerde hasta yakınlarına numune örnekleri veya benzeri taşıma işlemi yaptırılmaz. Hastaların görüntüleme ve benzeri işlemler için yönlendirme personeli tarafından bilgi verilmesi sağlanır, yönlendirme işaret ve uyarıları kullanılır. İhtiyacı olan hastaların nakil işlemleri taşıma personeli tarafından gerçekleştirilir. Tabibin lüzum görmesi halinde hastalara bu işlemleri sırasında bir sağlık personelinin refakat etmesi sağlanır.
+
+(4) Hasta veya öncelikle velisi ya da vasisi, yoksa birinci derece yakınına veya yakınlarından birine hastanın tıbbi durumu ve yapılacak tıbbi uygulamalar konusunda ilgili tabip veya personel tarafından mahremiyet gözetilerek bilgilendirme yapılır. Acil servislerde yapılan her türlü tıbbi işlem sırasında hasta mahremiyetine, tıbbi etik kurallara ve hasta hakları ilkelerine riayet edilmesi zorunludur.
+
+(5) İhtiyaç duyulan durumlarda hasta ve yakınları ile yapılacak görüşmelere eşlik etmesi amacıyla sosyal hizmet uzmanı ve psikolog çağrılır veya görevlendirilir.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-**Acil Servis Personel Standartları, Nöbetler, Hasta Kabulü ve Sevk Esasları**
+Acil Servis Nöbet Usul ve Esasları, Hasta Kabul, Yatış ve
 
-#### Acil servis sorumlusu ve personel standartları
+Konsültasyon İşlemleri ve Diğer Sağlık Tesislerine Sevk ve Nakil Esasları
 
-**MADDE 11 –** (1) Acil servislerde var ise acil tıp uzmanı, bulunmaması hâlinde baştabibin görevlendireceği bir baştabip yardımcısı veya bir uzman tabip ya da bir tabip acil servis sorumlu tabibi olarak görev yapar. Yeterli sayıda acil tıp uzmanı bulunan sağlık tesislerinde acil servise başvuran vakaların, bu uzmanların denetim ve sorumluluğunda değerlendirilmesi gerekir. Sağlık tesisinde tek acil tıp uzmanının bulunması hâlinde bu değerlendirme mesai saatleri ile sınırlıdır. Acil serviste Ek-1’de gösterilen uzman tabip, tabip ve hemşire asgari standardına ilave olarak hizmetin yoğunluğu ve vakaların niteliğine göre acil servisin bu Tebliğ uyarınca belirlenen seviyesinin gerektirdiği, acil sağlık hizmetleri ihtiyacını karşılayacak nitelik ve nicelikte sağlık ve diğer personel planlaması yapılır.
+#### Acil servis nöbet usul ve esasları
 
-#### Acil servis nöbetleri
+**MADDE 10 –** (1) Acil servis hizmetlerinin 24 saat kesintisiz hizmet esasına dayalı olarak aksatılmadan yürütülmesi esastır.
 
-**MADDE 12 –** (1) Acil servis hizmetlerinin, yeterli sayıda uzman tabip bulunması hâlinde uzman düzeyinde, sayının yetersiz olması durumunda bir uzman tabibin denetim ve sorumluluğunda tabip tarafından verilmesi esastır.
+(2) (Değişik:RG-11/10/2024-32689) E rolündeki ilçe Devlet hastanelerinde, aile hekimliği mevzuatına göre nöbet görevi düzenlenir.
 
-(2) Kadrosunda beş ve daha fazla acil tıp uzmanı bulunan sağlık tesislerinde 24 saat kesintisiz hizmet esasına dayalı acil servis sorumlu tabip nöbeti tutulur.
+(3) Özel hastanelerde, ilgili mevzuatına göre nöbet görevi düzenlenir.
 
-(3) Acil servisin kurulu bulunduğu sağlık tesisinde aynı uzmanlık dalından 6 (altı) ve üzeri sayıda uzman tabibin görev yaptığı branşlarda 24 saat kesintisiz hizmet esasına dayalı olarak her bir uzmanlık dalı için müstakil acil branş nöbeti düzenlenir.
+(4) Kadrosunda 5 ve daha fazla acil tıp uzmanı veya çocuk acil tıp yan dal uzmanı bulunan sağlık tesislerinde acil serviste 24 saat esasına göre bu uzman tabiplerden en az birinin görev yapması esastır. Acil tıp uzmanı veya çocuk acil tıp yan dal uzman sayısının yeterli olması halinde aynı anda birden çok uzmana nöbet görevi verilir.
 
-(4) Müstakil acil branş nöbetleri, öncelikle iç hastalıkları, genel cerrahi, kadın hastalıkları ve doğum, çocuk sağlığı ve hastalıkları, beyin cerrahi ile ortopedi ve travmatoloji, kardiyoloji, nöroloji, anestezi ve reanimasyon branşlarında düzenlenir. Bu branşlarla birlikte, ilave olarak, hasta yoğunluğuna göre uzman tabip sayısı yeterli olan klinisyen branşlarda müstakil acil branş nöbeti düzenlenebilir. Acil uzman tabip nöbeti gerektirmeyen fizik tedavi ve rehabilitasyon, cildiye gibi klinik branşlar ile biyokimya ve patoloji gibi diğer branşlardaki klinisyen olmayan uzman tabipler idari uzman tabip nöbetine dahil edilir.
+(5) Acil tıp uzmanı veya çocuk acil tıp yan dal uzman sayısı yeterli olmayan hastanelerde tüm uzman tabipler, acil servis sorumlu tabibinin teklifi baştabibin onayı ile acil servis nöbet görevine dahil edilebilirler.
 
-(5) Branş nöbetlerinin acil servis bünyesinde tutulması esastır. Bu amaçla acil servis bünyesinde branş nöbeti ile yükümlendirilen her bir uzman tabip için ilgili branşın gerektirdiği şartları haiz uygun bir acil muayene odası ayrılır.
+(6) Acil servisin kurulu bulunduğu sağlık tesisinde aynı uzmanlık dalından 6 ve üzeri sayıda uzman tabibin görev yaptığı branşlarda 24 saat kesintisiz hizmet esasına dayalı olarak her bir uzmanlık dalı için branş nöbeti düzenlenir. Branş nöbetleri; iç hastalıkları, genel cerrahi, kadın hastalıkları ve doğum, çocuk sağlığı ve hastalıkları, anestezi ve reanimasyon, ortopedi ve travmatoloji, kardiyoloji, nöroloji, göğüs hastalıkları, beyin cerrahi, kulak burun boğaz hastalıkları, kalp-damar cerrahisi, göğüs cerrahisi, üroloji, göz hastalıkları, çocuk cerrahisi, plastik cerrahi, enfeksiyon hastalıkları, psikiyatri, dermatoloji, radyoloji, aile hekimliği branşlarından tabiplere öncelikli olarak nöbet listeleri düzenlenir. Bu branşlarla birlikte, ilave olarak ihtiyaca göre uzman tabip sayısı yeterli olan diğer branşlara da baştabip kararıyla nöbet düzenlenebilir.
 
-(6) Dal hastanesi bulunan yerlerde ilgili uzmanlık dalındaki acil branş nöbeti hizmetleri bu hastanelerde planlanır ve genel hastaneler bu branşlar için kapsam dışı tutulur.
+(7) Uzmanlık dalında tabip sayısı müstakil acil nöbeti tutmaya yeterli ise baştabip tarafınca uzmanlık dalı için müstakil acil branş nöbeti düzenlenebilir. Müstakil acil branş nöbeti tutan tabiplere elektif iş planlarında veya idari başka birimlerde, ilgili nöbet günü için ek bir görev verilemez.
 
-(7) Uzman tabip sayısının yetersiz olması ve her bir branş için müstakil acil branş nöbeti düzenlenememesi hâlinde, sağlık tesisi bünyesindeki mevcut klinisyen uzman tabipler arasında dahili branş acil havuz nöbeti ve cerrahi branş acil havuz nöbeti düzenlenir. Dahili ve cerrahi branş acil havuz nöbeti düzenlenebilmesi için; tüm dahili ve cerrahi klinisyen branşların her ikisinde de toplam 6 (altı) ve üzeri sayıda uzman tabip bulunması gerekir.
+(8) Uzman tabip sayısının altıncı fıkrada belirtilen sayıdan az olması durumunda her bir uzmanlık dalı için branş nöbeti düzenlenememesi hâlinde, sağlık tesisi bünyesindeki mevcut klinisyen uzman tabipler arasında dahili branş havuz nöbeti ve cerrahi branş havuz nöbeti düzenlenir. Dahili ve cerrahi branş havuz nöbeti düzenlenebilmesi için; tüm dahili ve cerrahi klinisyen branşların her ikisinde de ayrı ayrı toplam 6 ve üzeri sayıda uzman tabip bulunması gerekir. Dahili ve cerrahi branş havuz nöbeti tutulan hastanelerde, nöbetçi tabiplerin branşları dışında hasta kabulü ve konsültasyon ihtiyaçları için her branşın acil icapçı tabip nöbet listesi düzenlenir.
 
-(8) Yan dal uzmanlıklarında görevli uzman tabip sayısının birden fazla olması durumunda bunlar ilgili ana dalda müstakil acil branş nöbetine veya ilgisine göre dahili veya cerrahi acil branş havuz nöbetine dahil edilebilir.
+(9) Ana daldaki uzman tabip sayısı hastanede branş nöbeti tutmak için yeterli değilse yan dal uzmanları ilgili ana daldaki nöbet görevine dahil edilebilirler. Yan dal uzman tabiplere hasta yoğunluğu ve benzeri sebeplerle ihtiyaç duyulması halinde yan dal icap nöbet görevi de verilebilir. Bu hususlar ile ilgili kararı baştabip verir.
 
-(9) Ana dal ve yan dal branşlarından uzman tabip mevcudu 1 (bir) olan branşlar acil branş nöbetlerine dahil edilmez. Bunlar için ihtiyaç hâlinde çağrı yöntemi ile sağlık tesisine davet edilmek üzere icap nöbeti tutturulur. İcap nöbetçisi uzman tabibin sağlık tesisine davet edilip edilmeyeceğine, gerekli tıbbi değerlendirmeler yapıldıktan sonra, acil servis sorumlu tabibi veya nöbetçi uzman tabibince karar verilir. Sağlık tesisine davetin bizzat bu tabiplerden birisi tarafından yapılması esastır.
+(10) Dal hastanesi bulunan yerlerde ilgili uzmanlık dalındaki acil branş nöbet hizmetleri bu hastanelerde planlanır, genel hastanelerin bu branşları için hasta yoğunluğu, klinik uzman tabip sayısı ile dal hastanesine uzaklık ve benzeri kriterler gözetilerek acil servis nöbet hizmeti düzenlenmeyebilir. Dal hastanelerinde görev yapan uzman tabipler ihtiyaç halinde genel hastane nöbetlerine dahil edilebilirler. Bu hususlardaki planlama müdürlük tarafından gerçekleştirilir.
 
-(10) Müstakil acil branş nöbeti ile yükümlendirilen uzman tabipler ayrıca icap nöbetine dahil edilmez. Dahili ve cerrahi acil branş havuz nöbetine dahil edilen uzman tabiplere, ayrıca icap nöbeti tutturulur. Hangi branşlarda icap nöbeti düzenleneceğine, hizmetin gereği ve personel mevcudu çerçevesinde baştabip karar verir.
+(11) Dal hastaneleri için; hizmet verdiği uzmanlık alanının gerektirdiği bir veya birden fazla branşta bu maddede belirtilen esaslara uygun olarak 24 saat kesintisiz hizmet esasına dayalı acil branş nöbeti düzenlenir. Uzman tabip sayısının branş nöbeti için yeterli olmaması hâlinde personel durumuna ve iş yoğunluğuna göre acil servis nöbetlerinin ne şekilde yürütüleceğine yine bu Tebliğde belirtilen esaslara uygun olarak baştabip karar verir.
 
-(11) Dal hastaneleri için; hizmet verdiği uzmanlık alanının gerektirdiği bir veya birden fazla branşta bu maddede belirtilen esaslara uygun olarak 24 saat kesintisiz hizmet esasına dayalı acil branş nöbeti düzenlenir. Uzman tabip sayısının branş nöbeti için yeterli olmaması hâlinde personel durumuna ve iş yoğunluğuna göre acil servis nöbetlerinin ne şekilde yürütüleceğine yine bu Tebliğde belirtilen esaslara uygun olarak baştabip karar verir. Acil branş havuz nöbeti tutan uzman tabiplerden biri aynı zamanda idari uzman tabip nöbetçisi olarak baştabipçe görevlendirilebilir.
+(12) (Değişik:RG-11/10/2024-32689) Üniversite hastaneleri hariç olmak üzere kamu sağlık tesislerinde görevli uzman tabipler; il geneli nöbet ve acil sağlık hizmet sunumunun sürekliliğinin sağlanması adına, görevlendirilecekleri birimlerde yeterli sayıda uzman hekimin bulunmadığı durumlarda, kendi kurumlarındaki görevlerini aksatmayacak şekilde müdürlük tarafından; ilin nüfusu, coğrafi özellikleri ve hastanenin uzaklığı gibi kriterler dikkate alınarak yapılacak planlamaya göre diğer kamu sağlık tesislerine görevlendirilebilirler.
 
-(12) Müstakil acil branş nöbeti veya acil branş havuz nöbeti tutulan sağlık tesislerinde; branş nöbeti ile yükümlü olan uzman tabiplerden biri, gerektiğinde branş nöbetine ilave olarak mesai saatleri dışındaki yoğun bakım ünitesi hizmetlerini de yürütmek üzere baştabip tarafından görevlendirilebilir.
+(13) Sağlık tesislerinde branş nöbeti ile yükümlü olan uzman tabiplerden biri gerektiğinde branş nöbetine ilave olarak mesai saatleri dışındaki yoğun bakım ünitesi hizmetlerini de yürütmek üzere baştabip tarafından görevlendirilebilir.
 
-(13) Acil tıp uzmanlık eğitimi veren üniversite hastaneleri ile eğitim ve araştırma hastanelerinde acil servis nöbetleri, acil tıp uzmanlık asistanları ve bu birime rotasyona gelen asistan tabipler tarafından, acil tıp uzmanlık dalı öğretim üyeleri veya acil tıp klinik şefleri gözetiminde bir bütün olarak planlanır ve yürütülür.
+(14) Kamu ve özel sağlık tesisleri bünyesindeki I. seviye acil servislerde, acil sağlık hizmetleri en az 1 tabip ve her vardiyada en az 2 sağlık personeli ile yürütülür ve ihtiyaç halinde ilgili dal uzmanı kuruma davet edilir. II. seviye acil servislerde, acil servis hizmetleri uzman tabiplerin denetim ve sorumluluğunda tabipler tarafından verilir ve ihtiyaç halinde tüm branşlardaki uzman tabipler de dâhil edilecek şekilde en az 2 tabibe acil servis nöbet görevi verilir. Genel hastanelerde dahili ve cerrahi klinikler için birer uzman tabibe branş nöbet görevi verilir. Her vardiyada tabipler haricinde en az 4 sağlık personeli görev yapar. III. seviye acil servislerde ise faaliyet izin belgesinde yazılı olması kaydıyla iç hastalıkları, genel cerrahi, kadın hastalıkları ve doğum ile çocuk sağlığı ve hastalıkları branşlarında acil branş nöbeti tutulması zorunludur. Uzman tabip sayısının yeterli olması halinde, bu branşlara ilave olarak diğer branşlarda da acil branş nöbeti tutulabilir. Karma, erişkin, çocuk acil servislerde tabipler haricinde her vardiyada en az 8 sağlık personeli görev yapar.
 
-(14) Özel sağlık tesislerinde acil servis hizmetlerinin 24 saat kesintisiz hizmet esasına dayalı olarak verilmesi esastır. Özel sağlık tesisleri bünyesindeki I. Seviye acil servislerde acil sağlık hizmetleri tabipler veya var ise aile hekimi uzmanı veya acil tıp uzmanı tarafından yürütülür ve ihtiyaç halinde ilgili dal uzmanı kuruma davet edilir. II. Seviye acil servislerde biri dahili ve diğeri cerrahi branşta olmak üzere en az 2 (iki) uzman tabibin günün her saatinde sağlık tesisinde bulunması zorunlu olup acil servis hizmetleri bu uzman tabiplerin denetim ve sorumluluğunda tabipler tarafından verilir. III. Seviye acil servislerde ise faaliyet izin belgesinde yazılı olması kaydıyla iç hastalıkları, genel cerrahi, kadın hastalıkları ve doğum ile çocuk sağlığı ve hastalıkları branşlarında müstakil acil branş nöbeti tutulması zorunludur. Uzman tabip sayısının yeterli olması halinde, bu branşlara ilave olarak diğer branşlarda da müstakil acil branş nöbeti tutulabilir.
+(15) I. seviye acil servislerde hastanenin acil servis haricindeki birimleri için nöbet hizmetleri, acil servis nöbetçi tabipleri tarafından yürütülebileceği gibi, acil servis hasta başvurusu fazla olan hastanelerde acil servis haricindeki birimlerin işleyişinin yürütülmesi amacıyla tüm hastane tabiplerini kapsayacak şekilde ayrı nöbet listesi düzenlenir. II. ve III. seviye acil servislerde, hastanede acil servis nöbetleri dışında verilen hastane genelindeki diğer nöbet ve benzeri hizmetlere acil servis nöbetçi tabipleri görevlendirilemez.
 
-#### Acil servislerin 112 KKM ile koordinasyonu
+(16) İcap nöbet esasları aşağıdaki şekildedir:
 
-**MADDE 13 –** (1) Kamu ve özel bütün sağlık tesisleri, acil servis hizmetlerinin etkin ve koordineli yürütülmesi ve hastaya ait bilgi paylaşımı için ortak kayıt sistemi kurmak zorundadır. Ortak kayıt sistemi, müdürlüğün denetim ve kontrolünde, Bakanlık bilgi sistemine entegre olacak şekilde ASKOM tarafından organize edilir.
+a) (Değişik:RG-11/10/2024-32689) E rolündeki ilçe Devlet hastanelerinde aile hekimliği mevzuatı, özel hastanelerde ise ilgili mevzuat hükümlerine göre icap nöbet görevi düzenlenir.
 
-(2) Sağlık tesisleri acil servislerine getirilen vakalara ait bilgileri her istendiğinde Bakanlığa, müdürlüğe ve 112 KKM’ ne bildirmek zorundadır.
+b) İcap nöbetleri, hasta yoğunluğu bulunmayan veya tabip sayısı hastanede nöbet tutmaya elverişli olmayan sağlık tesisleri ile klinik branşlar için hizmet gereği gözetilerek baştabip tarafınca düzenlenir.
 
-(3) Kamu ve özel tüm sağlık tesisleri, Hastane Afet Planlarını (HAP) hazırlamak ve bu planları, olağandışı ve afet hallerinde müdürlük afet birimi ve 112 KKM’nin bilgisi dahilinde uygulamakla yükümlüdür. Afet ve olağandışı durumlarda sağlık tesislerinin geçeceği alarm seviyesi ve yerine getireceği yükümlülükler il afet planı ve hastane afet planları doğrultusunda 112 KKM tarafından belirlenir.
+c) Gerekli tıbbi değerlendirmeler yapıldıktan sonra acil servis tabibi tarafından icap nöbetçisi uzman tabibin sağlık tesisine davet edilip edilmeyeceğine karar verilir. İcap nöbetçisinin sağlık tesisine daveti acil servise tahsis edilmiş görüşmeleri ilgili mevzuat hükümleri kapsamında kayda alınan bir telefon üzerinden gerçekleştirilir. Davet çağrısı esnasında davete konu olan hastaların açık isimleri ve/veya dosya numaraları, davet gerekçeleri beyan edilmelidir. Acil servis davetlerine en kısa zamanda icabet edilmesi gerekir. İcabet edilen davetlerde hastanın mevcut klinik durumu ve tıbbi gereksinimlerini açıkça belirten yazılı not konulması zorunludur. İcap sürecinin mutlaka takip, yatış, taburculuk şeklinde kesin bir sonuca bağlanması gereklidir. Bu işlemler SBYS üzerinden geri alınması mümkün olmayacak şekilde yapılır. İcaba davet, geliş/başlangıç ve sonuçlandırma gibi işlemlere dair süreler kayıt altına alınır.
 
-#### Acil servislerde hasta kabul ve yatış işlemleri
+ç) İcapçı tabibin müdahil olduğu hastanın acil servisten ilgili birime yatış süresinin geciktirilmemesi ve acil serviste bekletilmemesi amacıyla acil servis tedavi sürecinde gerekli olmayan tetkik, tedavi, konsültasyon işlemlerinin, hastanın ilgili birime yatırılmasını müteakip yapılması gereklidir.
 
-**MADDE 14 –** (1) Kamu ve özel tüm sağlık tesisleri ve kuruluşları kendilerine başvuran veya ambulans ve sevkle getirilen tüm acil vakaları sağlık güvencesi ve ödeme gücü olup olmadığına bakmaksızın kabul etmek, 112 acil ambulansları tarafından getirilecek vakalar için KKM talimatlarına göre acil servislerini hazırlamak, ilk değerlendirme ve gerekli tıbbi müdahaleyi yapmak ve stabilizasyonu sağlamakla yükümlüdür. İleri tetkik ve tedavisi gereken hastaların diğer sağlık tesislerine sevki, sevk edilecek hastanın tıbbi durumuna uygun nihai tedavisinin sağlanabileceği sağlık tesisinin belirlenmesi ve nakil işlemlerinin 112 KKM’nin yönetim ve koordinasyonunda, 112 KKM tarafından verilen talimatlara uygun olarak yapılması zorunludur.
+d) İcapçı tabibin hastaları acil servis içerisinde değerlendirmesi esas olmakla beraber stabil hastalarla sınırlı olarak, imkânların elvermediği, acil servisteki fiziki alanların yetersiz olduğu durumlarda veya istisnai şekilde kadın doğum ve göz hastalıkları gibi özellikli teçhizat ve mekânlara ihtiyaç duyan durumlarda muayene işlemlerinin acil servis alanı dışında farklı bir birimde gerçekleştirilmesi mümkündür.
 
-(2) Acil servislere müracaat eden ancak herhangi bir nedenle geçerli kimlik belgesi, sağlık karnesi veya hasta sevk evrakı ibraz edemeyen hastaların kimlik bilgilerinin ve adresinin belirlenmesi, hasta ve yakınlarının bilgilendirilmesi amacıyla Ek-8’deki Hasta Bilgilendirme Formu doldurulur. Bu hastalardan hiçbir surette senet veya taahhütname alınmaz.
+e) İcap nöbeti süreçlerinde yaşanan aksaklık ve tespit edilen sorunlar müdavi tabipler tarafından sağlık tesisi yönetimine bildirilir ve gerekli düzenlemeler gerçekleştirilir.
 
-(3) Acil servislerde hasta takibinin 24 saati geçmemesi esastır. Bu süre içerisinde kesin tanısı konulamamış veya yatış endikasyonu belirlenememiş hastalar ile yatış endikasyonu bulunan ve birden fazla kliniği ilgilendiren hastalar acil servis sorumlu tabibi veya nöbetçi uzman tabibince değerlendirilir ve tıbbi durumunun gerektirdiği en uygun uzmanlık dalına ait kliniğe yatışı yapılarak ilgili klinik şefi veya sorumlu uzman tabibine bilgi verilir. Yatışına karar verilen klinikte boş yatak bulunmaması hâlinde boş yatak bulunan uygun kliniklerden birisine yatırılarak hastanın takibi, bakım ve tedavisi ilgili olduğu klinik tarafından yapılır. Acil serviste kliniklere yatış bekleyen acil hastalara yatış önceliği verilir.
+#### Acil servislerde hasta kabul, yatış ve konsültasyon işlemleri
 
-(4) Tanısı konulmuş ve tedavi planı belirlenmiş, acil müdahale gerektirmeyen, durumu stabil olan ancak ileri tetkik ve tedavisinin sağlanması amacıyla önceden koordinasyon sağlanarak başka sağlık tesisinden sevkle gönderilen ve nakil sırasında acil müdahaleyi gerektirecek akut tıbbi sorun gelişmemiş hastalar gerekmedikçe acil serviste yeniden değerlendirilmez. Bu tür hastalar, acil serviste bekletilmeksizin, yatış işlemleri derhal tamamlanır ve ilgili uzmanlık dalına ait kliniğe yatırılır.
+**MADDE 11 –** (1) Sağlık tesisleri kendilerine başvuran veya ambulansla getirilen tüm acil vakaları sağlık güvencesi ve ödeme gücü olup olmadığına bakmaksızın kabul etmek, ilk değerlendirme ve gerekli tıbbi müdahaleyi yapmakla yükümlüdür.
+
+(2) Acil servislere müracaat eden ancak herhangi bir nedenle geçerli kimlik belgesi veya talep edilen diğer evrakları ibraz edemeyen hastalar için acil durumda olduklarının kabulü halinde müdahalede bulunulması zorunludur. Müdahale sonrasında bu hastalar için ilgili mevzuata göre işlem tesis edilir.
+
+(3) Acil servislerde hasta takibinin 8 saati geçmemesi esastır. Hastaların en geç 8 saat içerisinde ilgili kliniğe nakli sağlanmalıdır. Bu süre içerisinde kesin tanısı konulamamış veya birden fazla kliniği ilgilendiren hastalar acil servis sorumlu tabibi tarafından değerlendirilir ve ihtiyaç duyulduğu öngörülür ise tıbbi durumunun gerektirdiği en uygun uzmanlık dalına ait klinik veya tabip adına yatışı verilir. 8 saati geçen takiplerde hasta bazında baştabipliğe ve ilgili kliniklere ulaşacak şekilde SBYS’de uyarı ekranları ve raporlama sistemi oluşturulur. Bu işlemler acil servis sorumlu tabibi tarafından yapılır veya ilgili personel aracılığıyla yaptırılır. Acil servis sorumlu tabibi tarafından ilgili klinik ya da tabip adına yatırılmak durumunda kalınan hastalar ile ilgili hastane baştabipliği aylık olarak değerlendirme yapar, sorunların tespiti ve çözümüne yönelik tedbirleri alır.
+
+(4) Yatış işlemi tesis edilen hastalar hastanede uygun yatak olması durumunda en geç 2 saat içerisinde ilgili kliniğe nakil edilir. Bu sürelerin aşılması halinde ilgililer hakkında idari işlem başlatılır. Acil servis tabibi tarafından yatışı verilen hastanın ayrıca yatırıldığı klinik tarafından yatış reddi yapılamaz, yatış kararı uyarınca yatış verilen klinik/servis/tabip adına direkt olarak kabul edilirler. Acil servisten bu madde hükmünce yapılan yatışlar için her türlü tıbbi ve hukuki sorumluluk ilgili klinik/tabip uhdesinde olmak kaydıyla ancak taburculuk işlemi yapılabilir. Bu amaçla acil servis sorumlu tabibine veya acil servis nöbetçi tabibine ilgili klinik veya diğer tabipler adına hasta yatış yapma yetkisi tanımlanır.
+
+(5) Bir ila dördüncü fıkra hükümleri çerçevesinde yapılan yatışlarda, yatış işlemi ile ilgili klinik sorumlusu veya tabibe ve mesai saatleri içerisinde baştabip ya da acilden sorumlu baştabip yardımcısına, mesai saatleri dışında da idari nöbetçi uzman tabibe bilgi verilmesi esastır.
+
+(6) Acil serviste gerek bir ila beşinci fıkradaki hükümler çerçevesinde gerekse ilgili klinisyen tabip tarafından yatışı yapılan tüm hastaların ilgili kliniğe nakli sağlanana kadar poliklinik ve benzeri elektif hizmet veren başka birimlerden ilgili kliniğe hasta yatışı SBYS tarafından engellenir. Hastanın ilgili birime naklinin sağlanmasını müteakip acil servis sorumlu veya nöbetçi tabibi tarafından yatış işlemlerinden sorumlu birime haber verilerek bahse konu blokaj kaldırılır.
+
+(7) Acil servisten yapılan hasta yatışlarında ilgili klinikte uygun yatak bulunmaması hâlinde hasta uygun yatak bulunan diğer servislere yatırılır. Hastanede uygun yatak bulunmaması durumunda hastanın yatışı ilgili klinik/tabip üzerine verilerek, hasta uygun servise nakil olana kadar takipleri acil serviste gerçekleştirilir. Bu durumda gereken takip, tedavi ve bakım işlemleri ilgili klinik tarafından yapılır. Hastanın takibi hastanın fiilen yatırıldığı klinik personelince gerçekleştirilebileceği gibi adına yatış yapılan klinik personelince de gerçekleştirilebilir. Bu hususta ihtilaf oluşması durumunda karar baştabip tarafından verilir. Acil servislerden ilgili klinik dışında başka bir kliniğe yatış yapılan hastalar için lüzumu halinde en kısa sürede ilgili klinikte durumu daha stabil olan hastalar ile yer değiştirme işlemi yapılabilir.
+
+(8) Sağlık tesisleri arasında ilgili birimlerin kendi aralarındaki koordinasyonları neticesinde başka bir sağlık tesisinin yoğun bakım veya yataklı klinik ve benzeri birimlerine sevk edilmiş olan hastalar, herhangi bir gerekçeyle sevki kabul eden tabip tarafından reddedilemez veya acil servise yönlendirilemezler. Bu şekilde gerçekleştirilen sevkler için gerekli olması halinde il düzeyinde SBYS’ye entegre bir otomasyon sistemi kurgulanır. Bu şekilde kabulü sağlanan hastaların kayıt ve servise yatış işlemleri için acil servis işleyişini aksatmayacak idari düzenleme yapılır. Bu şekilde sevk yapılmak istenilen hastalar için ilgili birim veya tabip tarafından acil serviste değerlendirmek üzere hasta kabulü yapılamaz.
+
+(9) Acil servis konsültasyon sürecinin, müdavi ve konsültan tabipler tarafından tam bir iş birliği içerisinde yürütülmesi esastır. Acil servislerde tüm alanlarda konsültasyon davetlerine mümkün olan en kısa süre içerisinde icabet edilmesi sağlanır.
+
+(10) Acil servisler için icap nöbeti haricinde ihtiyaç duyulan klinik branşlar için tabip sayısı, hasta yoğunluğu ve benzeri kıstaslar çerçevesinde mümkün olması halinde en az bir tabip sadece acil servis konsültasyon hizmeti sunumu ile görevlendirilebilir. Bu amaçla görev listesi hazırlanır ve ilgililere tebliğ edilir.
+
+(11) Mesai saatleri dışındaki acil servis konsültasyon hizmetleri öncelikle ilgili branşın varsa sağlık tesisi içinde bulunan nöbetçi tabibi tarafından yoksa icap nöbetçisi tabip tarafından sağlanır. Konsültasyon daveti ve konsültan görüşü yazılı olarak gerçekleştirilir. Bu işlem SBYS üzerinden geri alınması mümkün olmayacak şekilde elektronik imza veya ilgili tabibe ait şifreyle yapılır, yazılı olarak gerçekleştirilen konsültasyonlarda mutlaka kaşe ve imza bulunur. Acil servis konsültasyon davetlerinde, diğer konsültasyonlardan ayrılacak şekilde “acil servis” ve/veya “kırmızı alan” ibaresi bulunması sağlanır. Konsültasyon davetleri çağrı cihazı, telefon mesajı gibi yöntemlerle idare tarafından kaydedilip saklanabilecek şekilde gerçekleştirilir ve davet, geliş/başlangıç ve sonuçlandırma gibi işlemlere dair süreler ile telefon görüşmeleri ilgili mevzuat hükümleri kapsamında kayıt altına alınır.
+
+(12) Konsültasyon taleplerinde ihtiyaç duyulan tıbbi gereksinimlerin net biçimde açıklanması, konsültan tarafından ise hastanın mevcut klinik durumunun net bir şekilde belirtilmesi ve mutlaka takip, yatış, taburculuk şeklinde kesin bir sonuca bağlanması gereklidir. Konsültasyonlarda tekrarlayan tetkik ve ardışık tedavi önerisinde bulunulamaz. Böylesi durumlarda hastanın o branş tarafından yatırılması gereklidir.
+
+(13) Hastanın acil servisten ilgili birime yatış süresinin geciktirilmemesi ve acil serviste bekletilmemesi amacıyla acil servis tedavi sürecinde gerekli olmayan tetkik, tedavi, konsültasyon işlemleri, hastanın ilgili birime yatırılmasını müteakip yatırıldığı klinik tarafından gerçekleştirilir. İlgili branş tabibi tarafından girişimsel işlem öngörülmesi halinde hastanın o kliniğe yatırılarak ilgili birim tarafından girişimsel işlem yapılması sağlanır.
+
+(14) Konsültasyon süreçlerinde yaşanan aksaklık ve tespit edilen sorunlar müdavi ve konsültan tabipler tarafından baştabipliğe bildirilir ve Baştabip tarafından gerekli düzenlemeler gerçekleştirilir.
 
 #### Acil servisten diğer sağlık tesislerine sevk ve nakil esasları
 
-**MADDE 15 –** (1) Acil servise başvuran hastaların ilk değerlendirmesi yapıldıktan sonra, ilgili sağlık tesisinin uzman tabip, tıbbi donanım ve boş yatak bakımından hastanın tıbbi durumunun gerektirdiği tetkik, müdahale, bakım ve tedaviyi sağlayabilecek şartları taşıması hâlinde hastanın başka bir sağlık tesisine sevk edilmemesi ve gerekli sağlık hizmetinin ilgili sağlık tesisinde verilmesi esastır.
+**MADDE 12 –** (1) Acil servise başvuran hastaların ilk değerlendirmesi yapıldıktan sonra, ilgili sağlık tesisinin; uzman tabip, tıbbi donanım, yatak kapasitesi, hastanın tıbbi durumunun gerektirdiği tetkik, müdahale, bakım ve tedavi kapasitesinin uygun olması hâlinde hastanın başka bir sağlık tesisine sevk edilmemesi ve gerekli sağlık hizmetinin ilgili sağlık tesisinde verilmesi esastır.
 
-(2) Durumu stabil olmayan hastalar, nakil şartlarında, hemodinamik durumlarını sabit tutacak düzeye gelmedikleri sürece sevk edilmez. Ancak hastanın acil tedavi işlemleri kurumca sağlanamıyor ve mutlak surette sevki gerekiyor ise uygun koşullar sağlanarak ilgili sağlık tesisine sevki sağlanır. Hasta sevk ve nakil kararının ilgili dal uzmanı veya acil servis sorumlu tabibi veya nöbetçi uzman tabibince verilmesi ve onaylanması zorunludur.
+(2) Hastaların durumu stabil oluncaya kadar sevk edilmemesi esastır. Bununla beraber hastanın stabilizasyonu ve acil tedavi işlemleri sağlık tesisinde sağlanamıyor ve mutlak surette sevki gerekiyor ise uygun koşullar sağlanarak sevki gerçekleştirilir. Hastanın sevk edildiği sağlık tesisi, hastanın kabulü için gerekli tedbirleri almak ve gecikmeksizin tedavisini başlatmak ile yükümlüdür.
 
-(3) Yeterli şartların sağlanamadığı ve ileri tetkik ve tedavi için başka bir sağlık tesisine sevk gerektiren hâllerde hastanın sevk edileceği sağlık tesisinin belirlenmesi, sağlık tesisleri arasındaki hasta sevk ve nakil işlemlerinin koordinasyonundan ve yürütülmesinden 112 KKM yetkili ve sorumludur. Sağlık tesisleri arasındaki hasta sevk ve nakil işlemlerinde Ek-9’daki Sağlık Tesisleri Arası Vaka Nakil Talep Formu kullanılır.
+(3) Sevki yapılan hastanın sorumluluğu, tedavisinin gerçekleştirileceği bir sağlık tesisine kabulü sağlanana kadar sevki yapan sağlık tesisindedir. Hastanın sevk edildiği sağlık tesisi, hastanın kabulü için gerekli tedbirleri almak ve bekletmeksizin tedavisini başlatmak ile yükümlüdür. Acil serviste sevk için bekleyen hastanın sorumluluğu, sevk kararı veren branşın acil servis nöbeti tutması halinde ilgili nöbetçi tabibe, nöbetçi tabip bulunmayan durumlarda ise konsültan tabibe aittir. Hastanın başka bir sağlık kuruluşuna sevki ile ilgili karar ilgili branştaki nöbetçi tabip, acil servis sorumlu tabibi, acil tıp uzmanı tarafından alınabilir. Bu hastaların sevk formu nöbetçi idari uzman tabip veya sevk kararı veren tabip, acil servis sorumlu tabibi, acil tıp uzmanı tabiplerinden birisi tarafından onaylanır. Sevk kararını veren tabip sevk gerekçelerini net bir şekilde belirtmelidir.
 
-(4) Sevki yapılan hasta, hastanın tedavisinin gerçekleştirileceği bir sağlık tesisine kabulü sağlanana kadar sevki yapan sağlık tesisinin sorumluluğundadır. Hastanın sevk edildiği sağlık tesisi, hastanın kabulü için gerekli tedbirleri almak ve bekletmeksizin tedavisini başlatmak ile yükümlüdür.
+(4) Sağlık tesisinin kapasitesini aşan hallerde ilgili kliniğe yatırılmak üzere acil serviste bekleyen hastalar, aynı il içerisinde ilgili branşta icap/nöbet tutulan ve uygun servis yatağı bulunan kamu sağlık tesislerine, 112 Komuta Kontrol Merkezi aracılığıyla iletişim kurularak, müdürlük koordinasyonunda sevk edilir.
 
-#### Uygunsuz sevklerin önlenmesi için komisyon kurulması
+(5) (Değişik:RG-11/10/2024-32689) Hastaların ambulans ile sevk işlemlerinde mevcut otomasyon sistemi üzerinden SKKM ve acil servis/hastane yönetimi arasında tam ve etkin bir iletişim kurulması zorunludur. Uygunsuz sevklerin önlenmesi amacıyla sağlık tesisleri özelinde acil servisten yapılan sevk talepleri acil servis sorumlusu ve/veya acil servisten sorumlu baştabip yardımcısı tarafından onaylanır. İl dışı sevk taleplerine ise il sağlık müdürünün görevlendireceği hizmet başkanı veya başkan yardımcısı tarafından onay verilir.
 
-**MADDE 16 –** (1) İllerde üçüncü basamak sağlık tesislerine diğer illerden ve il içinden, gerekli koordinasyon sağlanmadan ve uygun şartlar oluşturulmadan, uygunsuz olarak yapılan sevklerin önüne geçilebilmesi ve acil vakayı kabul etmeyen sağlık tesisleri için; müdürlükçe ASKOM bünyesinde Sevk Değerlendirme ve Denetleme Komisyonu oluşturulur. Bu komisyon il sağlık müdürünün başkanlığında, ildeki kamuya ait mevcut sağlık kurumlarının baştabipleri, acilden sorumlu tabipler ve il ambulans servisi baştabibinin de katılımıyla ayda en az bir defa toplanır.
+#### Uygunsuz sevklerin önlenmesi ve hizmet kalitesinin geliştirilmesi için komisyon kurulması
 
-(2) Komisyon il dışına ve il içinde yapılan sevkler ile acil vakayı kabul etmeyen ve ambulansta bekleten sağlık tesislerini değerlendirir ve endikasyon dışı yapılan uygunsuz ve gereksiz sevkler ile endikasyonu olduğu halde kabul edilmeyen vakaları tespit eder, sebeplerini sorgular ve çözüme kavuşturur. Alınan kararlar tutanak altına alınır ve ilgili sağlık tesisi baştabibine yazılı olarak bildirilerek gerekli önlemleri alması istenir. Tekrarı hâlinde ilgili baştabip ve diğer sorumlular hakkında ilgili mevzuat hükümlerine göre idari soruşturma başlatılır. Komisyonun sekretaryası ASKOM tarafından yürütülür. Gerektiğinde bu işlemler müdürlüğün uygun göreceği ilçelerde, sağlık grup başkanları başkanlığında oluşturulacak alt komisyonlar marifetiyle aynı usulle yürütülebilir.
+**MADDE 13 –** (1) ASKOM başkanlığı, il sağlık müdürü veya görevlendireceği bir başkan tarafından, sekretarya görevi ise il sağlık müdürünce belirlenen başkanlık tarafından yürütülür. ASKOM toplantılarında alınan kararlar, il sağlık müdürü tarafından onaylanınca yürürlüğe girer. Onaylanan kararlar ilgili müdürlüklere ve taşra teşkilatındaki ilgililere iletilir.
+
+(2) ASKOM sağlık hizmetleri, kamu hastaneleri ve acil sağlık hizmetleri başkanı veya yardımcıları, sağlık tesisi baştabipleri/mesul müdürleri veya baştabip yardımcıları, acil servis ve yoğun bakım sorumlu tabipleri, il ambulans servisi baştabibi ve ihtiyaç halinde davet edilmesi uygun görülen kişilerin katılımıyla teşekkül ettirilir.
+
+(3) ASKOM, il ve sağlık hizmet bölgeleri genelinde yürütülecek olan acil sağlık hizmetlerinin koordinasyonu, hasta sevk akışı, uygunsuz sevklerin tespit ve denetim süreçlerindeki karar ve iş birliği gerçekleştirmek amacıyla kurulur. Süreçte oluşabilecek aksaklıkların önlenmesi amacıyla ilgili tedbirleri alır ve bu amaçla gereken disiplin soruşturmalarını yürütür.
+
+(4) ASKOM toplantıları, il veya sağlık hizmet bölgeleri genelinde bütün sağlık tesislerinden ve il yönetiminden ilgililerin katılımıyla yapılabileceği gibi hastane rol gruplarına, acil servis tescil seviyelerine, sağlık tesisi statülerine göre seçilmiş sağlık tesisleri veya inme, replantasyon ve benzeri hizmet başlığı özelinde yapılabilir. Bu durumda ilgili klinik veya tesis yöneticilerinin de toplantılara iştiraki sağlanır.
+
+(5) ASKOM toplantı sıklığı müdürlük tarafından belirlenir. Bununla beraber ihtiyaç halinde sekretarya tarafından toplantı çağrısı yapılabilir.
+
+(6) Uygunsuz, gereksiz veya endikasyon dışı sevkler ile usulüne uygun sevk edildiği halde kabul edilmeyen sevklerin, denetimi, sebeplerinin anlaşılması, çözüme kavuşturulması ve raporlama yapılması amacıyla ASKOM bünyesinde sevk değerlendirme komisyonları kurulur. Komisyonlar en az 3 üyeden oluşur.
+
+(7) ASKOM bünyesindeki sevk denetim komisyonlarının görevlerini yürütmek üzere, ilçe sağlık müdürlükleri ve sağlık tesisleri bünyesinde alt komisyonlar oluşturulabilir. Bu komisyonlar tarafından hazırlanan raporlar değerlendirilmek üzere ASKOM’a gönderilir.
+
+#### Acil servislerin 112 Komuta Kontrol Merkezi ile koordinasyonu
+
+**MADDE 14 –** (1) Tüm sağlık tesisleri, acil servis hizmetlerinin etkin ve koordineli yürütülmesi ve hastaya ait bilgi paylaşımı için ortak kayıt sistemi kurmak zorundadır. Ortak kayıt sistemi, müdürlüğün ve/veya Bakanlığın denetim ve kontrolünde, mevcut bilgi sistemlerine entegre olacak şekilde organize edilir.
+
+(2) İleri tetkik ve tedavisi gereken hastaların diğer sağlık tesislerine acil nakil işlemleri hastanın tıbbi durumuna uygun nihai tedavisinin sağlanabileceği sağlık tesisinin belirlenmesi dahil 112 Komuta Kontrol Merkezinin yönetim ve koordinasyonunda yürütülür. Nakil edilecek hastalar ilgili diğer mevzuatta belirtilen ve 112 Komuta Kontrol Merkezi tarafından belirlenen elektronik sistemler veya nakil formları doldurularak gerekli işlemler tamamlanır. Sağlık tesisleri bahse konu elektronik işlemlerin gerçekleştirilebilmesi için gerekli düzenlemeleri yaparlar. Sevk için bekleyen hastanın tedavi reddi imzalayarak ya da izinsiz terk ederek sağlık kuruluşundan ayrılması durumunda acil servis müdavi tabibi veya konsültan tabip tarafından 112 Komuta Kontrol Merkezine bilgi verilir.
+
+(3) (Değişik:RG-11/10/2024-32689) Acil servis tabibi tarafından; hastanın aciliyet durumu ve servisin yoğunluğu dikkate alınarak ambulans ekibinin görevine dönmesi amacıyla, sağlık tesisine ambulansla getirilen vakaların ivedilikle teslim alınması sağlanır. Ambulans ekipleri hastayı teslim etmeden acil servisten ayrılmaz. Ambulans ekipleri tarafından getirilen hastalara ait kayıt işlemleri sağlık tesisi personeli tarafından öncelikli olarak gerçekleştirilir.
+
+(4) 11 inci maddenin sekizinci fıkrası kapsamında yataklı klinikler arası sevk veya konsültasyon amacıyla yönlendirilen hastaların ilgili klinik veya tabip tarafından kabul işlemleri yapılıncaya kadar sorumluluk sevk eden sağlık tesisine ait olup bu hastalar acil servis tabibine teslim edilemezler. 112 ekipleri nakil amacıyla getirdikleri bu hastaları ilgili servise veya yoğun bakıma teslim eder.
+
+(5) 112 Komuta Kontrol Merkezi tarafından olağandışı durumlar ile durumu kritik olan hastalar için ilgili acil servise bilgi verilir.
 
 ### BEŞİNCİ BÖLÜM
 
-**Çeşitli Hükümler**
+Çeşitli ve Son Hükümler
 
-#### Denetim ve sorumluluk
+#### Denetim ve sorumluluklar
 
-**MADDE 17 –** (1) Acil servis standartlarının oluşturulması ile acil sağlık hizmetlerinin koordinasyonu ve bu Tebliğ hükümlerine uygun olarak etkili bir şekilde yürütülmesinden müdürlükler, ilgili sağlık tesislerinin baştabipleri, acil servis sorumlu tabipleri birinci derecede ve müteselsilen sorumludur.
+**MADDE 15 –** (1) Acil servis hizmetlerinin bu Tebliğe uygun olarak yürütülmesi ve koordinasyonunda müdürlükler, baştabipler, acil servisten sorumlu baştabip yardımcıları ile acil servis sorumlu tabipleri birinci derecede ve müteselsilen sorumludur.
 
-(2) Müdürlükler işleyiş ile alakalı periyodik olarak denetim yapar, sonuçları değerlendirir ve tespit edilen sorun ve aksaklıklarla ilgili gerekli tedbirleri alır ve lüzumu hâlinde denetim sonuçlarını raporlayarak Bakanlığa bildirir.
+(2) Müdürlükler bu Tebliğde belirtilen kriterlere göre acil servis işleyişini denetler, sonuçları değerlendirir ve tespit edilen sorun ve aksaklıklarla ilgili gerekli tedbirleri alır, lüzumu hâlinde denetim sonuçlarını raporlayarak Genel Müdürlüğe bildirir.
 
-#### Hüküm bulunmayan haller
+(3) Denetimler müdürlük tarafından belirlenecek bir ekip tarafından gerçekleştirilir, ekip içerisinde sağlık tesisinin türüne göre müdürlükteki ilgili hizmet başkanlığında görev yapan personel de bulunur. İhtiyaç halinde birden çok ekip kurulabilir. Denetim neticesinde müdürlük tarafından acil servis hizmet seviyesi, tipi ve tescil seviyesinde değişiklik yapılmasına yönelik işlem başlatılabilir. Genel Müdürlük her zaman resen denetim veya inceleme yapabilir.
 
-**MADDE 18 –** (1) Bu Tebliğde hüküm bulunmayan hâllerde 24/1/2005 tarihli ve 872 sayılı İl Ambulans Servisi Çalışma Yönergesi ile 26/6/2008 tarih ve 26918 sayılı Resmî Gazete’de yayımlanan 2008/13 sayılı Başbakanlık Genelgesi uygulanır.
+(4) Kamu kurum ve kuruluşları bünyesindeki acil servislerde, bu Tebliğe aykırılık tespit edilmesi halinde; kasıt, ihmal veya kusur şüphesi bulunan ilgililer hakkında tabi oldukları ilgili mevzuata göre disiplin hükümleri uygulanır. Özel sağlık tesisleri bünyesindeki acil servislerde, bu Tebliğe aykırılık tespit edilmesi halinde, 3359 sayılı Kanunun ek 11 inci maddesi hükümleri uygulanır.
 
-#### Mevcut acil servislerin seviyelendirilmesi
+(5) Sağlık tesisinde baştabip yardımcılarından biri acil servislerden sorumlu baştabip yardımcısı olarak görevlendirilir.
 
-**GEÇİCİ MADDE 1 –** (1) Mevcut acil servislerin seviyelendirme işlemleri bu Tebliğin yürürlük tarihinden itibaren 2 (iki) ay içerisinde tamamlanır, valilik onayı alınarak tescil için Bakanlığa bildirilir.
+(6) Bünyesinde acil tıp eğitim kliniği bulunan hastanelerde klinik idari sorumlusu acil servis sorumlu tabibidir. Sorumlu tabip mevzuatta kendisine verilen görevler ile baştabip tarafından verilen görevleri yerine getirir.
 
-#### Mevcut acil servislerin durumu ve uyumu
+(7) Bünyesinde acil tıp eğitim kliniği bulunmayan hastanelerde ilgili mevzuat gereğince aşağıda belirtilen şekilde baştabip tarafından acil servis sorumlu tabibi görevlendirilir:
 
-**GEÇİCİ MADDE 2 –** (1) Tebliğin yürürlük tarihinden önce faaliyette olan acil servislerden tedavi alanı ve bekleme alanlarına ilişkin Ek-1’de belirlenen asgari ölçülerini, bina, fiziki alan, genişleme sahası yetersizliği gibi şartlara bağlı olarak sağlayamayacak durumda olanlar, bu durumları komisyon tarafından veya komisyonun talebi üzerine il bayındırlık müdürlüğünce düzenlenecek teknik raporla belgelendirilmek kaydıyla bu fiziki standartlardan muaf tutulur. Ancak, bunlar, fiziki şartlar dışında kalan, seviyesinin gerektirdiği diğer asgari standartları taşımak zorundadırlar.
+a) Acil servislerde varsa acil tıp uzmanı tabibe, yoksa acil serviste yoğun hizmet veren klinik branş uzman tabipleri arasından bir tabibe, bu şekilde de bir tabip bulunmaması halinde acil serviste görevli bir tabibe acil servis sorumlu tabipliği görevi verilir.
 
-#### 112 KKM hastane entegrasyon programına dahil olma
+b) Çocuk acil servislerde ise varsa çocuk acil yan dal uzmanı yoksa çocuk sağlığı ve hastalıkları uzman tabibine acil servis sorumlusu görevi verilir.
 
-**GEÇİCİ MADDE 3 –** (1) Kamu ve özel tüm sağlık tesisleri, bu Tebliğin yürürlüğe girdiği tarihten sonraki 24 saat içerisinde 112 KKM’de bulunan hastane entegrasyon programına dahil olmak ve en geç 1 (bir) ay içerisinde de on-line bağlantılarını tamamlamakla yükümlüdür.
+c) Dal hastanelerinde acil servis sorumlu tabibi ilgili branş uzman tabipleri arasından seçilir.
 
-### ALTINCI BÖLÜM
+ç) Mesai dışındaki nöbet hizmeti süresince ihtiyaç duyulması halinde nöbet görevini yürüten tabiplerden birine görevine ilave olarak sorumlu tabibe vekalet etme yetkisi verilebilir, bu yetkinin verilmesi halinde durum nöbet listesinde belirtilir.
 
-**Son Hükümler**
+#### Yürürlükten kaldırılan tebliğ
+
+**MADDE 16 –** (1) 16/10/2009 tarihli ve 27378 sayılı Resmî Gazete’de yayımlanan Yataklı Sağlık Tesislerinde Acil Servis Hizmetlerinin Uygulama Usul ve Esasları Hakkında Tebliğ yürürlükten kaldırılmıştır.
+
+#### Mevcut acil servislerin durumu
+
+**GEÇİCİ MADDE 1 –** (1) Bu Tebliğin yayımından önce mevcut olan acil servislerin seviyelendirme ve tescil işlemleri bu Tebliğin yayımı tarihinden itibaren 2 yıl içerisinde tamamlanır. Sağlık tesislerinin acil servisleri, bu maddede belirtilen işlemler tamamlanıncaya kadar mevcut tescil seviyelerine göre hizmet vermeye devam eder.
 
 #### Yürürlük
 
-**MADDE 19 –** (1) Bu Tebliğ, yayımı tarihinde yürürlüğe girer.
+**MADDE 17 –** (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
 
 #### Yürütme
 
-**MADDE 20 –** (1) Bu Tebliğ hükümlerini Sağlık Bakanı yürütür.
+**MADDE 18 –** (1) Bu Tebliğ hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız.
+Ekleri için [tıklayınız](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39719&MevzuatTur=9&MevzuatTertip=5).
+
+|  | Tebliğin Yayımlandığı Resmî Gazete’nin |
+| Tarihi | Sayısı |
+| 13/9/2022 | 31952 |
+| Tebliğde Değişiklik Yapan Tebliğlerin Yayımlandığı Resmî Gazetelerin |
+| Tarihi | Sayısı |
+| 1. | 13/5/2023 | 32189 |
+| 2. | 11/10/2024 | 32689 |

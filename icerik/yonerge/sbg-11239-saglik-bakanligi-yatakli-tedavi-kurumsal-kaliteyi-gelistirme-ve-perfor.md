@@ -4,8 +4,7 @@ baslik: "Sağlık Bakanlığı Yataklı Tedavi Kurumsal Kaliteyi Geliştirme ve 
 tur: "yonerge"
 birim: "Hukuk Hizmetleri Genel Müdürlüğü"
 durum: "yürürlükte"
-kaynak: "ttb.org.tr (resmî yayın değildir; metnin aktarıldığı ikincil kaynak)"
-kaynak_url: "https://ttb.org.tr/mevzuat_goster.php?Guid=617ad1e6-a285-11e7-9205-300896da83fe"
+kaynak: "ttb.org.tr (resmî yayın değildir; metnin aktarıldığı ikincil kaynak) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://ttb.org.tr/mevzuat_goster.php?Guid=617ad1e6-a285-11e7-9205-300896da83fe)"
 ---
 
 ### SAĞLIK BAKANLIĞI YATAKLI TEDAVİ KURUMLARI KURUMSAL KALİTEYİ GELİŞTİRME VE PERFORMANS DEĞERLENDİRME YÖNERGESİ

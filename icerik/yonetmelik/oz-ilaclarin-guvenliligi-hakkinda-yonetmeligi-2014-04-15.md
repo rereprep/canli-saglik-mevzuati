@@ -6,29 +6,21 @@ rg_tarih: "2014-04-15"
 rg_sayi: "28973"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2014/04/20140415-6.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19578&MevzuatTur=7&MevzuatTertip=5"
 ---
-
-15 Nisan 2014 SALI
-
-Resmî Gazete
-
-Sayı : 28973
-
-### YÖNETMELİK
-
-Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
 
 ### İLAÇLARIN GÜVENLİLİĞİ HAKKINDA YÖNETMELİK
 
 ### BİRİNCİ BÖLÜM
 
-**Amaç, Kapsam, Dayanak ve Tanımlar**
+Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönetmeliğin amacı, ilaçların güvenli bir şekilde kullanımlarının sağlanması amacıyla advers reaksiyonların ve yarar/risk dengelerinin sistematik bir şekilde izlenmesi, bu hususta bilgi toplanması, kayıt altına alınması, değerlendirilmesi, arşivlenmesi, taraflar arasında irtibat kurulması ve ilaçların yol açabileceği zararın en az düzeye indirilebilmesi için gerekli tedbirlerin alınması ile ilgili usul ve esasları belirlemektir.
+**MADDE 1 –** (Değişik:RG-21/7/2022-31899)
+
+(1) Bu Yönetmeliğin amacı; ilaçların güvenli bir şekilde kullanımlarının sağlanması ve kamu sağlığının korunmasına katkıda bulunulması amacıyla advers reaksiyonların ve yarar/risk dengelerinin sistematik bir şekilde izlenmesi, bu hususta bilgi toplanması, kayıt altına alınması, değerlendirilmesi, arşivlenmesi, taraflar arasında irtibat kurulması ve ilaçların yol açabileceği zararın en az düzeye indirilebilmesi için gerekli tedbirlerin alınması ile ilgili usul ve esasları belirlemektir.
 
 #### Kapsam
 
@@ -38,7 +30,7 @@ Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
 
 **MADDE 3 –** (1) Bu Yönetmelik;
 
-a) 14/5/1928 tarihli ve 1262 sayılı İspençiyari ve Tıbbi Müstahzarlar Kanununa, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin (k) bendine ve 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye dayanılarak,
+a) (Değişik:RG-21/7/2022-31899) 14/5/1928 tarihli ve 1262 sayılı İspençiyari ve Tıbbi Müstahzarlar Kanununa, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin birinci fıkrasının (k) bendi ile 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 508 inci ve 796 ncı maddeleri hükümlerine dayanılarak hazırlanmıştır.
 
 b) Avrupa Birliğinin ilaçlarla ilgili mevzuatının 2010/84/EC sayılı direktifine paralel olarak,
 
@@ -60,7 +52,7 @@ d) Ciddi advers reaksiyon: Ölüme, hayati tehlikeye, hastaneye yatmaya veya has
 
 e) Farmakovijilans: Advers reaksiyonların ve ilaçla ilgili diğer sorunların tespit edilmesi, değerlendirilmesi, anlaşılması ve önlenmesine yönelik yürütülen faaliyetler ve bilimsel çalışmaları,
 
-f) Farmakovijilans il sorumlusu: Görev yaptığı ildeki farmakovijilans irtibat noktalarının koordinasyonundan, eğitiminden, yürüttükleri çalışmaların kontrolünden sorumlu olan ve çalışmalarını Türkiye Halk Sağlığı Kurumu il halk sağlığı müdür yardımcısı, Kamu Hastaneleri Kurumu Genel Sekreterliği Tıbbi Hizmetler Başkanı ile koordineli olarak yürüten Bakanlık il sağlık müdür yardımcısını,
+f) (Değişik:RG-21/7/2022-31899) Farmakovijilans il sorumlusu: Görev yaptığı ildeki farmakovijilans irtibat noktalarının koordinasyonundan, eğitiminden, yürüttükleri çalışmaların kontrolünden sorumlu olan il sağlık müdürlüğünün ilgili başkanı ya da başkan yardımcısını,
 
 g) Farmakovijilans irtibat noktası: Görev yaptığı sağlık kuruluşunda advers reaksiyonların bildirilmesini teşvik etmekten, eğitim ve bilgilendirme çalışmaları yapmaktan, kendisine ulaşan advers reaksiyon bildirimlerini TÜFAM’a iletmekten sorumlu hekim, eczacı, bunların bulunmadığı yerlerde diş hekimini,
 
@@ -70,7 +62,13 @@ h) Farmakovijilans sistemi ana dosyası: Bir veya birden fazla ilaca ilişkin ol
 
 ı) Farmakovijilans yetkilisi: Ruhsat sahibinin veya sözleşmeli farmakovijilans hizmet kuruluşunun bu Yönetmeliğin gereklerini yerine getirmek üzere ulusal düzeyde istihdam ettiği hekim veya eczacıyı,
 
-i) İlaç: İnsanlarda bir hastalığı teşhis etme, tedavi etme ya da önleme özelliğine sahip olduğu belirtilerek sunulan ya da farmakolojik, immünolojik ya da metabolik bir etki yoluyla bir fizyolojik fonksiyonu eski haline döndürmek, düzeltmek, değiştirmek amacıyla insanlarda kullanılan madde veya maddeler kombinasyonunu,
+i) (Değişik:RG-21/7/2022-31899) İlaç (Beşeri tıbbi ürün):
+
+1) İnsanlardaki hastalığı tedavi edici veya önleyici özelliklere sahip olarak sunulan veya,
+
+2) Farmakolojik, immünolojik veya metabolik etki göstererek fizyolojik fonksiyonları düzeltmek, iyileştirmek, değiştirmek veya tıbbi teşhis amacıyla insanlarda kullanılan veya insana uygulanan,
+
+madde veya maddeler kombinasyonunu,
 
 j) İlaç suistimali: Zararlı fiziksel veya psikolojik etkilerin eşlik ettiği, sürekli veya aralıklı olarak kasıtlı aşırı ilaç kullanımını,
 
@@ -108,7 +106,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Tarafların Sorumlulukları**
+Tarafların Sorumlulukları
 
 #### Ruhsat sahibinin sorumlulukları
 
@@ -160,7 +158,7 @@ g) Risk yönetim planı kapsamında alınan tedbirlerin sonuçlarını izler.
 
 #### Sağlık kurum ve kuruluşlarının sorumlulukları
 
-**MADDE 7 –** (1) İl sağlık müdürü farmakovijilans il sorumlusu olarak, il sağlık müdür yardımcısını görevlendirir ve bu kişinin isim ve iletişim bilgilerini Kuruma bildirir. Hastaneler, advers ilaç reaksiyonlarının en doğru şekilde ve en kısa zamanda TÜFAM’a bildirilmesini sağlamak amacıyla, kuruluş içi farmakovijilans sistemini kurar ve bu Yönetmeliğe göre faaliyet gösterirler.
+**MADDE 7 –** (1) (Değişik cümle:RG-21/7/2022-31899) İl sağlık müdürü farmakovijilans il sorumlusu olarak, il sağlık müdürlüğünün ilgili başkanını ya da başkan yardımcısını görevlendirir ve bu kişinin isim ve iletişim bilgilerini Kuruma bildirir. Hastaneler, advers ilaç reaksiyonlarının en doğru şekilde ve en kısa zamanda TÜFAM’a bildirilmesini sağlamak amacıyla, kuruluş içi farmakovijilans sistemini kurar ve bu Yönetmeliğe göre faaliyet gösterirler.
 
 (2) TÜFAM’a bilgi akışını sağlamak üzere; hastane yönetimi tarafından farmakovijilans irtibat noktası görevlendirilir ve bu kişinin ismi, mesleki özgeçmişi ile iletişim bilgileri Kuruma ve farmakovijilans il sorumlusuna bildirilir.
 
@@ -192,17 +190,17 @@ g) Risk yönetim planı kapsamında alınan tedbirlerin sonuçlarını izler.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-**Ruhsat Başvurusu Sırasında Sunulması Gereken Farmakovijilansla İlgili Belgeler,**
+Ruhsat Başvurusu Sırasında Sunulması Gereken Farmakovijilansla İlgili Belgeler,
 
-**Farmakovijilans Sistemi Ana Dosyası**
+Farmakovijilans Sistemi Ana Dosyası
 
 #### Ruhsat başvurusu sırasında sunulması gereken farmakovijilansla ilgili belgeler
 
-**MADDE 9 –** (1) Başvuru sahibi, ruhsat başvurusu yaparken farmakovijilans sisteminin bir özetini sunar. **Farmakovijilans** sisteminin özeti aşağıdakilerden oluşur:
+**MADDE 9 –** (1) Başvuru sahibi, ruhsat başvurusu yaparken farmakovijilans sisteminin bir özetini sunar. Farmakovijilans sisteminin özeti aşağıdakilerden oluşur:
 
 a) Başvuru sahibinin farmakovijilans yetkilisi görevlendirdiğine dair belge.
 
-b) **Farmakovijilans** yetkilisinin iletişim bilgileri.
+b) Farmakovijilans yetkilisinin iletişim bilgileri.
 
 c) Başvuru sahibinin farmakovijilansla ilgili görev ve sorumlulukları yerine getirmek üzere gerekli donanıma sahip olduğuna ilişkin imzalı beyanı.
 
@@ -212,7 +210,7 @@ c) Başvuru sahibinin farmakovijilansla ilgili görev ve sorumlulukları yerine 
 
 #### Farmakovijilans sistemi ana dosyasının yapısı
 
-**MADDE 10 –** (1) **Farmakovijilans** sistemi ana dosyasında yer alan bilgiler uygulanmakta olan farmakovijilans sistemini eksiksiz ve doğru olarak yansıtır.
+**MADDE 10 –** (1) Farmakovijilans sistemi ana dosyasında yer alan bilgiler uygulanmakta olan farmakovijilans sistemini eksiksiz ve doğru olarak yansıtır.
 
 (2) Ruhsat sahibi, gereken durumlarda farklı kategorilerdeki ilaçlar için ayrı farmakovijilans sistemleri uygulayabilir. Bu sistemlerin hepsi, ayrı birer farmakovijilans sistemi ana dosyasında tanımlanır.
 
@@ -302,7 +300,7 @@ e) Elektronik kayıt defteri.
 
 ### DÖRDÜNCÜ BÖLÜM
 
-**Şüpheli Advers Reaksiyon Raporları**
+Şüpheli Advers Reaksiyon Raporları
 
 #### Şüpheli advers reaksiyon raporlarının içeriği
 
@@ -316,7 +314,7 @@ e) Elektronik kayıt defteri.
 
 a) Raporun türü, tarihi ve olgu referans numarası, raporun kaynaktan alındığı ilk tarih ve son bilgi alınan tarih, varsa diğer ek belgeler.
 
-b) Raportörün adresi ve mesleki bilgilerini içeren profesyonel vasıfları.
+b) (Değişik:RG-21/7/2022-31899) Profesyonel vasıfları da dâhil olmak üzere raportörü tanımlayıcı bilgi.
 
 c) Hastanın reaksiyon ortaya çıktığı tarihteki yaşı, yaş grubu, ağırlığı, boyu ya da cinsiyeti, eğer reaksiyon fetüste geliştiyse, annenin son menstürasyon tarihi ve/veya maruziyet anındaki gestasyon dönemi, fetüsün gestasyon yaşını da içeren, hastayı ve ebeveyn-çocuk raporu ise ayrıca ebeveyni de tanımlayan bilgiler.
 
@@ -326,7 +324,7 @@ d) Advers reaksiyonun gelişmesiyle ilgili olduğundan şüphelenilen ilaç veya
 
 e) Kullanılan ilacın kalitesi ile ilgili bir sorundan şüphe ediliyor ise, şüphe edilen ilacın seri numarası ve son kullanma tarihi ile birlikte kalite sorunu.
 
-f) Plazma kaynaklı biyolojik ürünler ve aşıların seri numaraları.
+f) (Değişik:RG-21/7/2022-31899) Biyolojik ve biyoteknolojik ürünler için seri numaraları.
 
 g) Advers reaksiyonun oluşumuyla ilgili olduğu şüphesi bulunmayan eşzamanlı olarak kullanılan ilaçlar ve hastaya veya ebeveynine geçmişte uygulanmış ilgili tıbbi tedaviler.
 
@@ -346,7 +344,7 @@ j) Advers reaksiyon raporunu iptal etme ya da değişiklik yapma nedenleri.
 
 ### BEŞİNCİ BÖLÜM
 
-**Periyodik Yarar/Risk Değerlendirme Raporu**
+Periyodik Yarar/Risk Değerlendirme Raporu
 
 #### Periyodik yarar/risk değerlendirme raporunun içeriği
 
@@ -368,7 +366,7 @@ j) Advers reaksiyon raporunu iptal etme ya da değişiklik yapma nedenleri.
 
 ### ALTINCI BÖLÜM
 
-**Risk Yönetim Planları**
+Risk Yönetim Planları
 
 #### Risk yönetim planının formatı ve içeriği
 
@@ -388,11 +386,13 @@ c) İlaçla ilişkilendirilen riskleri önlemeye ya da en aza indirmeye yönelik
 
 #### Risk yönetim planının güncellenmesi
 
-**MADDE 20 –** (1) Ruhsat sahibi, risk yönetim planını güncellediğinde, risk yönetim planının güncellenmiş haline ayrı bir versiyon numarası ve tarih vererek Kuruma sunar.
+**MADDE 20 –** (Değişik:RG-21/7/2022-31899)
+
+(1) Ruhsat sahibi, risk yönetim planını güncellediğinde, risk yönetim planının güncellenmiş haline ayrı bir versiyon numarası ve tarih vererek arşivler. Yapılan güncellemeler ilâve farmakovijilans veya ilâve risk minimizasyon faaliyeti ya da mevcut faaliyetlerde değişiklik gerektiriyorsa Kuruma derhal sunar.
 
 ### YEDİNCİ BÖLÜM
 
-**Kuruma Yapılacak Bildirimler ve Bildirimlerin Değerlendirilmesi**
+Kuruma Yapılacak Bildirimler ve Bildirimlerin Değerlendirilmesi
 
 #### Sağlık mesleği mensuplarının yapacağı bildirimler
 
@@ -424,9 +424,9 @@ c) Ruhsat öncesi veya ruhsat sonrası Kurum tarafından istenmesi halinde,
 
 risk yönetim planı sunar.
 
-(8) Periyodik yarar/risk değerlendirme raporlarını Türkiye’de ruhsat almasını takiben iki yıl boyunca altı ayda bir, sonraki iki yıl için yılda bir kez, ayrıca ruhsat geçerlilik süresinin uzatılmasından sonra üç yılda bir hazırlar ve Kurumun talebi halinde derhal sunar.
+(8) (Değişik:RG-21/7/2022-31899) Periyodik yarar/risk değerlendirme raporlarını Türkiye’de ruhsat almasını takiben Avrupa Birliği referans tarih ve sunum sıklıkları listesi ile uyumlu olarak hazırlar. İlacın etkin maddesinin bu listede yer almaması durumunda ise ilk iki yıl boyunca altı ayda bir, sonraki iki yıl için yılda bir kez, ruhsat geçerlilik süresinin uzatılmasını takiben üç yılda bir hazırlar ve Kurumun talebi halinde derhal sunar.
 
-(9) Periyodik yarar/risk değerlendirme raporlarını ilaç piyasaya çıktıktan 18 ay sonra veya ilacı kullanan hasta sayısı 10.000’e ulaştığı zaman ve ayrıca ruhsat geçerlilik süresinin uzatılması sırasında Kuruma sunar.
+(9) (Değişik:RG-21/7/2022-31899) Periyodik yarar/risk değerlendirme raporlarını, ilaçların ruhsat geçerlilik süresinin uzatılması sırasında 11/12/2021 tarihli ve 31686 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinde belirtilen sunum takvimi ile ilgili hüküm doğrultusunda Kuruma sunar.
 
 (10) Kurum tarafından daha önce ruhsatlandırılan bir ilaç için ruhsat sahibi değişikliği yapıldığında farmakovijilans verilerinin sunum periyotları ilk ruhsat tarihi esas alınarak devam eder.
 
@@ -454,6 +454,8 @@ c) Yeni risklerin olup olmadığını veya bu risklerin değişip değişmediği
 
 (4) Kurum ve ruhsat sahibi, yeni risklerin meydana gelmesi halinde veya yarar/risk dengesinde değişiklik olması durumunda birbirlerini bilgilendirir.
 
+(5) (Ek:RG-21/7/2022-31899) Kurum, ilaç güvenliliği ile ilgili kendi kararlarını alırken, karşılaştırılabilir standartlara sahip diğer ilaç otoriteleri veya bölgesel veya uluslararası kuruluşlar tarafından yapılan değerlendirmeleri güven kapsamında dikkâte alabilir ve bilgi paylaşımında bulunabilir.
+
 #### Değerlendirme sonrası yapılacak işlemler
 
 **MADDE 24 –** (1) Yapılan değerlendirmenin ardından Kurum farmakovijilansla ilgili durumlarda aşağıdaki işlemlerden uygun olanları başlatır ve bunu ruhsat sahibine bildirir:
@@ -470,9 +472,9 @@ d) Yeni kontrendikasyon ilavesi, önerilen dozun azaltılması ve endikasyon kı
 
 ### SEKİZİNCİ BÖLÜM
 
-**Farmakovijilans Faaliyetlerinin Yürütülmesi için Kullanılacak**
+Farmakovijilans Faaliyetlerinin Yürütülmesi için Kullanılacak
 
-**Kalite Sistemlerine İlişkin Gereklilikler**
+Kalite Sistemlerine İlişkin Gereklilikler
 
 #### Kalite sistemine ilişkin genel esaslar
 
@@ -540,7 +542,7 @@ f) İlgili güvenlilik bilgilerinin sağlık mesleği mensuplarına ve hastalara
 
 ### DOKUZUNCU BÖLÜM
 
-**Çeşitli ve Son Hükümler**
+Çeşitli ve Son Hükümler
 
 #### Endikasyon dışı kullanım ve mesleki maruziyet
 
@@ -562,7 +564,13 @@ f) İlgili güvenlilik bilgilerinin sağlık mesleği mensuplarına ve hastalara
 
 #### İdari yaptırım
 
-**MADDE 33 –** (1) Kurum tarafından yapılan incelemeler ve denetimler sonucunda; bu Yönetmelik hükümlerine aykırılığın tespit edilmesi durumunda Kurum, ruhsat sahibine aykırılığın niteliğine göre on beş gün ile üç ay arasında bir süre verir. Verilen bu süre içerisinde aykırılığın giderilmemesi halinde bu durum giderilinceye kadar ruhsat askıya alınır ve gerekçesiyle birlikte Kurumun internet sitesinde ilan edilir.
+**MADDE 33 –** (1) (Değişik:RG-21/7/2022-31899) Kurum tarafından yapılan inceleme ve denetimler sonucunda, bu Yönetmelik hükümlerine aykırı davranış gösterdiği tespit edilen ruhsat sahiplerine ve sözleşmeli farmakovijilans hizmet kuruluşlarına tespit edilen aykırılığın niteliğine uygun olarak eksikliklerin giderilmesi için süre verilir. Verilen süre sonunda aykırılığın giderilmemesi durumunda;
+
+a) Sözleşmeli farmakovijilans hizmet kuruluşları için aykırılığın niteliğine bağlı olarak faaliyetlerin kısıtlanması, izin belgesinin askıya alınması veya iptali,
+
+b) Ruhsat sahipleri için aykırılığın niteliğine bağlı olarak ilaç takip sistemi bildirimi yapılmasının engellenmesi, ürün hareketlerinin durdurulması, ilacın ruhsatının askıya alınması veya iptali,
+
+yaptırımları uygulanabilir.
 
 (2) Sağlık kurum ve kuruluşlarında denetimler sonucunda tespit edilen eksiklikler, Kurum talimatları doğrultusunda giderilir.
 
@@ -593,6 +601,14 @@ yürürlüğe girer.
 #### Yürütme
 
 **MADDE 37 –** (1) Bu Yönetmelik hükümlerini Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı yürütür.
+
+|  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
+| Tarihi | Sayısı |
+| 15/4/2014 | 28973 |
+| Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin |
+| Tarihi | Sayısı |
+| 1. | 21/7/2022 | 31899 |
+| 2. |  |  |
 
 Ek 1
 
@@ -708,19 +724,19 @@ II. Bölüm:
 
 Güvenlilik spesifikasyonu.
 
-Modül I: Endikasyonların ve hedef popülasyonların epidemiyolojisi.
+Modül I:Endikasyonların ve hedef popülasyonların epidemiyolojisi.
 
 Modül II: Güvenlilik spesifikasyonunun klinik dışı bölümü.
 
-Modül III: Klinik araştırmalarda maruziyet.
+Modül III:Klinik araştırmalarda maruziyet.
 
-Modül IV: Klinik araştırmalarda araştırılmayan popülasyon.
+Modül IV:Klinik araştırmalarda araştırılmayan popülasyon.
 
-Modül V: Ruhsatlandırma sonrası deneyim.
+Modül V:Ruhsatlandırma sonrası deneyim.
 
-Modül VI: Güvenlilik spesifikasyonuna ilişkin diğer sağlık otoriteleri tarafından istenen ilave gereklilikler.
+Modül VI:Güvenlilik spesifikasyonuna ilişkin diğer sağlık otoriteleri tarafından istenen ilave gereklilikler.
 
-Modül VII: Tanımlanan ve potansiyel riskler.
+Modül VII:Tanımlanan ve potansiyel riskler.
 
 Modül VIII: Güvenlilik sorunlarının özeti.
 

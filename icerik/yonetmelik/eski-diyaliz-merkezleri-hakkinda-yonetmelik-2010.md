@@ -10,7 +10,7 @@ konu: "18/6/2010 tarihli ve 27615 sayılı Resmî Gazete’de yayımlanan yönet
 kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiştir)"
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/06/20100618-4.htm"
 durum: "yürürlükten kaldırıldı"
-kaldiran: "k-diyaliz-merkezleri-hakkinda-yonetmelik"
+kaldiran: "eski-diyaliz-merkezleri-hakkinda-yonetmelik-2019"
 ---
 
 Sağlık Bakanlığından:

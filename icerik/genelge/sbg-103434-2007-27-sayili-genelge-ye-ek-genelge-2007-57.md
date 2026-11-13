@@ -6,8 +6,7 @@ tarih: "2007-07-31"
 sayi: "2007/57"
 birim: "Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğü"
 konu: "Anne Ölümleri Veri Sistemi uygulamasına ilişkin usul ve esaslar ile bildirim formlarının doldurulmasında uyulacak kuralları düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103434/2007-27-sayili-genelge-ye-ek-genelge-2007-57.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103434/2007-27-sayili-genelge-ye-ek-genelge-2007-57.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

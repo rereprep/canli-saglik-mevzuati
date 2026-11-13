@@ -2,9 +2,9 @@
 id: "k-ozel-hastaneler-yonetmeligi"
 baslik: "Özel Hastaneler Yönetmeliği"
 tur: "yonetmelik"
-tarih: "2002-03-27"
-rg_tarih: "2002-03-27"
-rg_sayi: "24708"
+tarih: "2025-01-30"
+rg_tarih: "2025-01-30"
+rg_sayi: "32798"
 birim: "Sağlık Bakanlığı"
 konu: "Özel hastanelerin açılması, ruhsatlandırılması, faaliyetleri ve denetlenmesi."
 etiketler: ["ozel hastaneler", "ruhsatlandirma", "saglik kurulusu", "ozel saglik"]

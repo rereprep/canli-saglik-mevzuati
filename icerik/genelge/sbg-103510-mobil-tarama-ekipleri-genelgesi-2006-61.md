@@ -6,8 +6,7 @@ tarih: "2006-05-22"
 sayi: "2006/61"
 birim: "Verem Savaşı Dairesi Başkanlığı"
 konu: "Verem savaşı mobil tarama ekiplerinin çalışma esasları, toplu yaşam alanlarında radyolojik taramalar ve il düzeyinde koordinasyonunu düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103510/mobil-tarama-ekipleri-genelgesi-2006-61.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103510/mobil-tarama-ekipleri-genelgesi-2006-61.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

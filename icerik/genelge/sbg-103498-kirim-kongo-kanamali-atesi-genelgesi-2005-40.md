@@ -6,8 +6,7 @@ tarih: "2005-03-11"
 sayi: "2005/40"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kırım-Kongo Kanamalı Ateşi (KKKA) hastalığının epidemiyolojisi, korunma tedbirleri, vaka yönetimi ve bildirim usullerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103498/kirim-kongo-kanamali-atesi-genelgesi-2005-40.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103498/kirim-kongo-kanamali-atesi-genelgesi-2005-40.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

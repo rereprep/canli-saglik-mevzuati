@@ -6,8 +6,7 @@ tarih: "2019-03-14"
 sayi: "2019/04"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Kuduz şüpheli temas durumlarında yara bakımı, aşı ve immünglobulin profilaksisi ile Kuduz Profilaksi Rehberi ilkelerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103505/kuduzla-mucadele-ve-profilaksi-uygulamalari-genelgesi-2019-04.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103505/kuduzla-mucadele-ve-profilaksi-uygulamalari-genelgesi-2019-04.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

@@ -4,101 +4,127 @@ baslik: "İthal Edilecek İlaç Ham, Başlangıç Maddeleri, İspençiyari ve T�
 tur: "yonetmelik"
 rg_tarih: "1984-11-01"
 rg_sayi: "18562"
-kaynak: "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/arsiv/18562.pdf"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4915&MevzuatTur=7&MevzuatTertip=5"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
-ocr: true
-duzeltildi: true
 kontrol_edildi: true
 ---
 
-Sağlık ve Sosyal Yardım Bakanlığından :
+### İTHAL EDİLECEK İLAÇ HAM, BAŞLANGIÇ MADDELERİ İSPENÇİYARİ VE
 
-İthal Edilecek İlaç Ham, Başlangıç Maddeleri, İspençiyari ve Tıbbi Müstahzarlar Yönetmeliği
+### TIBBİ MÜSTAHZARLAR YÖNETMELİĞİ
 
-### Amaç
+#### Amaç
 
-**Madde 1 –** Bu Yönetmeliğin amacı, insan ve hayvan sağlığında kullanılan ilaçların, istenilen kalitede üretimi, formüllerinde yer alan ilaç başlangıç maddeleri ile ispençiyari ve tıbbi müstahzarların ithalinde uyulacak kurallar ve kontrol esaslarını tespit etmektir.
+**Madde 1 –** Bu Yönetmeliğin amacı insan ve hayvan sağlığında kullanılan ilaçların, istenilen kalitede üretimi, formüllerinde yer alan ilaç başlangıç maddeleri ile ispençiyari ve tıbbi müstahzarların ithalinde uyulacak kurallar ve kontrol esaslarını tespit etmektir.
 
-### Kapsam
+#### Kapsamı
 
-**Madde 2 –** Bu yönetmelik, Türkiye'de üretilen müstahzarlarda kullanılan İlaç başlangıç maddeleri, İspençiyari ve Tıbbi Müstahzarların yurt dışından ithalinde uyulacak standartların tespiti ile kontrol esaslarını kapsar.
+**Madde 2 –** Bu yönetmelik, Türkiye’de üretilen müstahzarlarda kullanılan ilaç başlangıç maddeleri, İspençiyari ve Tıbbi Müstahzarların yurt dışından ithalinde uyulacak standartların tespiti ile kontrol esaslarını kapsar.
 
-### Tanımlar
+#### Tanımlar
 
-**Madde 3 –** Bu yönetmelikte geçen :
+**Madde 3 –** Bu yönetmelikte geçen:
 
-a) Bakanlık: Beşeri müstahzarlar için Sağlık ve Sosyal Yardım Bakanlığı, veteriner müstahzarlar için Tarım Orman ve Köyişleri Bakanlığı.
+a) Bakanlık : Beşeri müstahzarlar için Sağlık ve Sosyal Yardım bakanlığı, veteriner müstahzarlar için Tarım Orman ve Köyişleri Bakanlığı,
 
-b) Kanun : 6243 sayılı Kanunla değişik 1262 sayılı İspençiyari ve Tıbbi Müstahzarlar Kanunu, c) İlaç: İspençiyari ve Tıbbi Müstahzar,
+b) Kanun: 6243 sayılı Kanunla değişik 1262 sayılı İspençiyari ve Tıbbi Müstahzarlar Kanunu,
 
-d) Üretim: Muamele, birleştirme, formüle etme, doldurma, paketleme ve etiketleme dahil, bir ilacın üretimindeki bütün işlemler, e) Başlangıç Maddeleri: Aktif, aktif olmayan, değişmeyen veya değişen bir ilacın üretiminde kullanılan ambalaj malzemeleri dışındaki diğer maddeler, f) Seri: Bir üretim devresinde üretilen İlacın, miktarı, seri üretimi ve homojenliğidir, g) Seri numarası: üretim ve kontrolün her kademesinde bir serinin üretiminin takibi veya yeniden incelenmesine İmkan verecek ve seriyi tanımlayacak bir işaret, h) Spesifikasyon : Bir ilacın veya bir başlangıç maddesinin kalitatif ve kantitatif özelliğini tarif için tesbit edilmiş fiziksel, kimyasal ve biyolojik vasıflarının toplamını, ifade eder.
+c) İlaç: İspençiyari ve Tıbbi Müstahzar
 
-### Başlangıç maddeleri için spesifikasyonlar
+d) Üretim: Muamele, birleştirme, formüle etme, doldurma, paketleme ve etiketleme dahil, bir ilacın üretimindeki bütün işlemler,
 
-**Madde 4 –** İlaç üretiminde kullanılan her türlü başlangıç maddesinin spesifikasyonlan, üretimi yapacak ilgili ıkişl veya firma tarafından üretilecek ilaç için ruhsata esas olan müracaatta belirtilmek ve Bakanlıkça tescil edilmek şartı ile tesbit edilir, Ancak bu spesifikasyonlar Türk Farmakopesi veya Avrupa Farmakopesi, British Farmakope (B. P.), (International Farmakope) ve Amerikan Farmakopesi (U.S.P.) Speslfikasyonlarından daha düşük kaliteyi tesbit edemez.
+e) Başlangıç Maddeleri: Aktif, aktif olmayan, değişmeyen, veya değişen bir ilacın üretiminde kullanılan ambalaj malzemeleri dışındaki diğer maddeler,
 
-Kişi ve firmalar ruhsata esas spesifikasyonlarım gerektiğinde yukarıda belirtilen farmakopeler gibi resmi farmakopelerde bulunmaları şartıyla değiştirir. Hiçbir resmi farmakopeye girmemiş maddeler için en az menşei ülkenin ruhsatlandırmada kendi ülkesi için tescil etmiş olduğu veya üretici ülkenin bu başlangıç aktif maddesi için sağlık otoritelerince tasdik edilmiş speslflkasyonlardan daha düşük kaliteyi tesbit edemez, İthalatı yapacak ilgililerin ithalat rejimi kararına göre verecekleri dilekçe ve proforma faturalara bu spesifikasyonlar eklenir.
+f) Seri: Bir üretim devresinde üretilen ilacın miktarı,seri üretimi ve homojenliğidir.
 
-### İlaç spesifikasyonları
+g) Seri numarası : Üretim ve kontrolün her kademesinde bir serinin üretiminin takibi veya yeniden incelenmesine imkan verecek ve seriyi tanımlayacak bir işaret,
 
-**Madde 5 –** ithal edilecek ilaçların spesifikasyonları, Menşe ülkenin kendi ülkesi için ruhsata esas olarak tescil ettiği spesifikasyonlar olup Bakanlıkça uygun bulunmuş olmalıdır.
+h) Spesifikasyon : Bir ilacın veya bir başlangıç maddesinin kalitatif ve kantitatif özelliğini tarif için tespit edilmiş fiziksel, kimyasal, ve biyolojik vasıflarının toplamını,
 
-### Başlangıç madde üreticilerinin sertifikalandırılması
+ifade eder.
 
-**Madde 6 –** Başlangıç ilaç maddesi ithal edilecek ülkenin sağlık otoritesinden her ilaç başlangıç maddesinin uygun spesifikasyonlarda üretildiğini tevsik eden belge istenir. Ancak ilk ithalattaki orijinali verilmek şartıyla spesiflkasyon değişmediği takdirde aynı başlangıç maddesinin müteakip ithalatlarında (Bakanlıkça gerekli görüldüğünde bu belgenin fotokopisi yeterli sayılır.
+#### Başlangıç Maddeleri İçin Spesifikasyonlar
+
+**Madde 4 –** İlaç üretiminde kullanılan her türlü başlangıç maddesinin spesifikasyonları, üretimi yapacak ilgili kişi veya firma tarafından üretilecek ilaç için ruhsata esas olan müracaata belirtilmek ve Bakanlıkça tescil edilmek şartı ile tespit edilir.
+
+Ancak bu spesifikasyonlar, Türk Farmakopesi veya Avrupa Farmakopesi British Farmakope (B.P.) (İnternational Farmakope) ve Amerikan Farmakopesi (U.S.P.) Spesifikasyonlarından daha düşük kaliteyi tespit edemez.
+
+Kişi ve firmalar ruhsata esas spesifikasyonlarını gerektiğinde yukarıda belirtilen farmakopeler gibi resmi farmakopelerde bulunmaları şartıyla değiştirir.Hiçbir resmi farmakopeye girmemiş maddeler için en az menşei ülkenin ruhsatlandırmada kendi ülkesi için tescil etmiş olduğu veya üretici ülkenin bu başlangıç aktif maddesi ,için sağlık otoritelerince tasdik edilmiş spesifikasyonlardan daha düşük kaliteyi tespit edemez. İthalatı yapacak ilgililerin ithalat rejimi kararına göre verecekleri dilekçe ve proforma faturalara bu spesifikasyonlar eklenir.
+
+#### İlaç Spesifikasyonları
+
+**Madde 5 –** İthal edilecek ilaçların spesifikasyonları Menşe Ülkenin kendi ülkesi için ruhsata esas olarak tescil ettiği spesifikasyonlar olup Bakanlıkça uygun bulunmuş olmalıdır.
+
+#### Başlangıç Madde Üreticilerinin Sertifikalandırılması
+
+**Madde 6 –** Başlangıç ilaç maddesi ithal edilecek ülkenin sağlık otoritesinden her ilaç başlangıç maddesinin uygun spesifikasyonda üretildiğini teşvik eden belge istenir. Ancak ilk ithalatdaki orijinali verilmek şartıyla spesifikasyon değişmediği takdirde aynı başlangıç maddesinin müteakip ithalatlarında Bakanlıkça gerekli görüldüğünde bu belgenin fotokopisi yeterli sayılır.
 
 İthalat gerçekleştikten sonra Bakanlık gerekli gördüğü takdirde her seri için üretici firmanın analiz sertifikasını ister.
 
-### Direkt üreticisinden ithal edilmeyen hammaddeler için kontrol
+#### Direkt Üreticisinden İthal Edilmeyen Hammaddeler İçin Kontrol
 
-**Madde 7 –** İlaç başlangıç maddeleri, aracıdan ithal ediliyor ise madde 6 ve 7'deki hususları kapsayan belge istenir. Bu belge sağlanamazsa kalite uygunluk belgesini. Bakanlık, menşe ülkenin veya aracının bulunduğu ülkenin sağlık otoriteleri ya da resmi kalite kontrol laboratuarı tarafından tasdik edilmiş analiz sertifikasının fiili ithalden önce ibraz edilmesi şartı ile tasdik eder.
+**Madde 7 –** İlaç başlangıç maddeleri, aracıdan ithal ediliyor ise Madde 6 ve 7’deki hususları kapsayan belge istenir. Bu belge sağlanamazsa kalite uygunluk belgesini, Bakanlık Menşe Ülkenin veya aracının bulunduğu ülkenin sağlık otoriteleri yada resmi kalite kontrol laboratuarı tarafından tasdik edilmiş analiz sertifikasının fiili ithalden önce ibraz edilmesi şartı ile tasdik eder.
 
-Bu belge şartlı tasdiklenmiş kalite uygunluk belgesiyle beraber Bakanlığa ibraz edilerek şart kaldırılır.
+Bu belge şartlı tasdiklenmiş kalite uygunluk belgesi ile beraber Bakanlığa ibraz edilerek şart kaldırılır.
 
-Bütün bunların hiçbiri sağlanamazsa başlangıç maddelerinin aktif olanlarının fiilen ithal edilebilmesi için Bakanlığın görevli personeli tarafından Madde 11'e göre alınacak numunelerin Bakanlığın ilaç kontrol laboratuarında yapılan kontrolünde uygun vasıflarda bulunduğunun belgelenmesi gerekir.
+Bütün bunların hiçbiri sağlanamazsa başlangıç maddelerinin aktif olanlarının fiilen ithal edilebilmesi için Bakanlığın görevli personeli tarafından Madde 1’e göre alınacak numunelerin Bakanlığın ilaç kontrol laboratuarında yapılan kontrolünde uygun vasıflarda bulunduğunun belgelenmesi gerekir.
 
-Bakanlığın bu kontrolü ilaç üreticisinin «İspençiyari ve Tıbbi Müstahzarlar İmalathaneleri Yönetmeliği» ne göre üretime sokacağı ilaç başlangıç maddelerinin kalitesinden sorumludur.
+Bakanlığın bu kontrolü ilaç üreticisinin “İspençiyari ve Tıbbi müstahzarlar İmalathaneleri Yönetmeliği”ne göre üretime sokacağı ilaç başlangıç maddelerinin kalitesinden sorumludur.
 
-### İthal edilen ilaçlar için sertifika
+#### İthal Edilen İlaçlar İçin sertifika
 
-**Madde 8 –** İthal edilecek ilacın her serisi için üreticisi tarafından düzenlenmiş Menşe Ülkenin sağlık otoritesince tasdikli seri sertifikası Bakanlığa verilir.
+**Madde 8 –** İthal edilecek için her serisi için üreticisi tarafından düzenlenmiş Menşe Ülkenin sağlık otoritesince tasdikli seri sertifikası Bakanlığa verilir.
 
-Bu sertifika yürürlükteki sağlık teşkilatının «Uluslararası Ticarette Seyreden Farmasötik Ürünlerin Kalitesi Hakkında Sertifikasyon Planı» çerçevesinde yürütülür. Bu sertifikada şu hususlar bulunur.
+Bu sertifika yürürlükteki sağlık teşkilatının “Uluslararası Ticarette Seyreden Farmasötik Ürünlerin Kalitesi Hakkında Sertifikasyon Planı” çerçevesinde yürütülür. Bu sertifikada şu hususlar bulunur.
 
-a) İlâcın, ismi ve dozaj şekli, b) Seri numarası, c) İmâl ve son kullanma tarihi, d) Saklama koşulları, e) Spesifikasyonlar ve kaynağı, f) Ambalajlama, etiketleme ve ambalajın yapısı, g) Test sonuçlan, h) Serinin spesifikasyonlara uygunluğunu bildirir karar.
+a) İlacın ismi ve dozaj şekli,
 
-### Sertifikaların değerlendirilmesi
+b) Seri numarası,
 
-**Madde 9 –** Bakanlıkça gerekli görülen hallerde sertifikalardaki spesifikasyonların 4 üncü maddede belirtilen formuna eklediği spesifikasyonlara uygunluğunu kontrol eder. Bu durumda uygun görülen maddeye kalite uygunluk belgesi verilir.
+c) İmal ve son kullanma tarihi,
 
-İlaç üreticisinin İspençiyari ve Tıbbi Müstahzarlar İmalathaneleri Yönetmeliğine göre imalata sokmadan önce her başlangıç maddesini mevcut spesifikasyonlara göre kontrol etmek zorundadır.
+d) Saklama koşulları,
 
-### Analiz sertifikası ile beyan edilen kalitenin doğruluğunun kontrolü
+e) Spefikasyonlar ve kaynağı,
 
-**Madde 10 –** Bakanlık her türlü ilaç başlangıç maddesinin ve ilacın beyan edilen kalitesinin kontrolü için üretim yerlerinden, dağıtım ve satışının yapıldığı depolandığı yerlerden numune alma ve kontrol etmede yetkilidir.
+f) Ambalajlama, etiketleme ve ambalajın yapısı,
 
-**Yürütme ve İdare Bölümü Sayfa : 21** Spesifikasyonlara uygun bulunmayan maddenin ilaç üretiminde kullanılmasına izin verilmez. Şayet üretim yapılmış ise o seri ile üretilmiş ilaç serilerinin satışı menedilir.
+g) Test sonuçları,
 
-Kanuni takibat yapılır. İthal edilen ilaçların kontrol amacı ile alınan numunelerinin analizinde standart dışı bulunanlar hakkında da kanuni işlem yapılır.
+h) Serinin spefikasyonlara uygunluğunu bildirir karar.
 
-### Kontrol için numune alınması
+#### Sertifikaların Değerlendirilmesi
+
+**Madde 9 –** Bakanlıkça (gerekli) doğru görülen hallerde sertifikalardaki spefikasyonların 4 ncü maddede belirtilen forma eklediği spefikasyonlara uygunluğunu kontrol eder. Bu durumda uygun görülen maddeye kalite uygunluk belgesi verilir.
+
+İlaç üreticisinin İspençiyari ve Tıbbi Müstahzarlar İmalathaneleri Yönetmeliğine göre imalata sokmadan önce her başlangıç maddesini mevcut spefikasyonlara göre kontrol etmek zorundadır.
+
+#### Analiz Sertifikası İle Beyan Edilen Kalitenin Doğruluğunun Kontrolü
+
+**Madde 10 –** Bakanlık her türlü ilaç başlangıç maddesinin ve ilacın beyan edilen kalitesinin kontrolü için üretim yerlerinden, dağıtım ve satışının yapıldığı depolandığı yerden numune alma ve kontrol etmede yetkilidir.
+
+Spefikasyonlara uygun bulunmayan maddenin ilaç üretiminde kullanılmasına izin verilmez.Şayet üretim yapılmış ise o seri ile üretilmiş ilaç serilerinin satışı menedilir.
+
+Kanuni tatbikat yapılır. İthal edilen ilaçların kontrol amacı ile alınan numunelerinin analizinde standart dışı bulunanlar hakkında da Kanuni işlem yapılır.
+
+#### Kontrol İçin Numune Alınması
 
 **Madde 11 –** Bakanlık hammadde numunelerini, ilaç üretim ve kalite kontrolü konusunda eğitim ve tecrübeye sahip ve yetkilendireceği personeli vasıtası ile aldırır.
 
 Numune alma sırasında başlangıç maddelerinin bulaşmasının (kontaminasyonunun) önlenmesi esastır. Numune alma sırasında ithal eden firmanın kalite kontrolünden sorumlu personeli veya yetkilisi hazır bulunur.
 
-Bakanlık numune alma kurallarını bir yönerge ile tesbit eder.
+Bakanlık numune alma kurallarını bir yönerge ile tespit eder.
 
-### Geçici Hükümler
+Geçici Hükümler
 
-**Geçici Madde 1 –** Bu yönetmeliğin yürürlüğe girdiği tarihten itibaren 6 ay içinde verilecek kalite uygunluk belgelerinin verilmesinde, bu yönetmelikteki belgeler aranmaz. Ancak; ilaç ham, başlangıç maddelerini ilaç üretiminde kullanacak kişi ve kurumlar bu maddelerin standartlara uygunluğu açısından sorumludur.
+Geçici Madde : Bu yönetmeliğin yürürlüğe girdiği tarihten itibaren 6 ay içinde verilecek kalite uygunluk belgelerinin verilmesinde, bu yönetmelikteki belgeler aranmaz. Ancak; ilaç ham, başlangıç maddelerini ilaç üretiminde kullanacak kişi ve kurumlar bu maddelerin standartlara uygunluğu açısından sorumludur.
 
-### Yürürlük
+#### Yürürlük
 
 **Madde 12 –** Bu yönetmelik yayım tarihinde yürürlüğe girer.
 
-### Yürütme
+#### Yürütme
 
-**Madde 13 –** Bu Yönetmelik hükümlerini Sağlık ve Sosyal Yardım ile Tarım Orman ve Köyişleri Bakanları yürütür.
+**Madde 13 –** Bu yönetmelik hükümlerini Sağlık ve Sosyal Yardım ile Tarım Orman Köyişleri Bakanları yürütür.

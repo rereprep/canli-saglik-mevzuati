@@ -9,25 +9,15 @@ birim: "Türk Eczacıları Birliği"
 konu: "Türk Eczacılar Birliği Disiplin Yönetmeliği ile ilgili usul ve esaslar."
 etiketler: ["yonetmelik", "saglik mevzuati"]
 durum: "yürürlükte"
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/12/20241210-12.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41096&MevzuatTur=7&MevzuatTertip=5"
 ---
-
-10 Aralık 2024 SALI
-
-Resmî Gazete
-
-Sayı : 32748
-
-### YÖNETMELİK
-
-Türk Eczacıları Birliğinden:
 
 ### TÜRK ECZACILARI BİRLİĞİ DİSİPLİN YÖNETMELİĞİ
 
 ### BİRİNCİ BÖLÜM
 
-**Başlangıç Hükümleri**
+Başlangıç Hükümleri
 
 #### Amaç
 
@@ -59,7 +49,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Disiplin Soruşturmasının Yürütülmesi**
+Disiplin Soruşturmasının Yürütülmesi
 
 #### Genel ilkeler
 
@@ -75,7 +65,7 @@ ifade eder.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-**Haysiyet Divanının Kuruluşu, Çalışma Esasları, Kararları ve Kararlara İtiraz**
+Haysiyet Divanının Kuruluşu, Çalışma Esasları, Kararları ve Kararlara İtiraz
 
 #### Kuruluşu
 
@@ -253,7 +243,7 @@ c) Üç günden yüz seksen güne kadar sanat icrasından men cezası gerektiren
 
 ### DÖRDÜNCÜ BÖLÜM
 
-**Çeşitli ve Son Hükümler**
+Çeşitli ve Son Hükümler
 
 #### Yüksek Haysiyet Divanı toplantıları
 

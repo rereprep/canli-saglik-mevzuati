@@ -5,8 +5,7 @@ tur: "genelge"
 sayi: "2021/7"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Ölüm ve defin işlemlerinin elektronik ortamda Ölüm Bildirim Sistemi (ÖBS) üzerinden yürütümesi, ölüm belgesi tanzimi ve defin ruhsatı süreçlerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103513/olum-bildirim-sistemi-obs-genelgesi-2021-7.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103513/olum-bildirim-sistemi-obs-genelgesi-2021-7.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

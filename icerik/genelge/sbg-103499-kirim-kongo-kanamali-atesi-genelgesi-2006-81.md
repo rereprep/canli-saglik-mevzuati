@@ -6,8 +6,7 @@ tarih: "2006-07-14"
 sayi: "2006/81"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kırım-Kongo Kanamalı Ateşi (KKKA) vakalarının erken tanısı, tedavisi, sevk kriterleri ve sürveyansına ilişkin usulleri düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103499/kirim-kongo-kanamali-atesi-genelgesi-2006-81.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103499/kirim-kongo-kanamali-atesi-genelgesi-2006-81.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

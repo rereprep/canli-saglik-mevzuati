@@ -6,8 +6,7 @@ tarih: "2023-02-02"
 sayi: "2023/03"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Aşı uygulamaları sonrasında gelişen istenmeyen etkilerin (ASİE) tespiti, bildirimi, incelenmesi ve izlenmesi süreçlerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103449/asi-sonrasi-istenmeyen-etkiler-asie-genelgesi-2023-03.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103449/asi-sonrasi-istenmeyen-etkiler-asie-genelgesi-2023-03.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

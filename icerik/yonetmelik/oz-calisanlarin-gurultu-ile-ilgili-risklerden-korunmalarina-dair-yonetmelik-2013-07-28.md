@@ -6,27 +6,15 @@ rg_tarih: "2013-07-28"
 rg_sayi: "28721"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/07/20130728-11.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18647&MevzuatTur=7&MevzuatTertip=5"
 ---
 
-28 Temmuz 2013 PAZAR
-
-Resmî Gazete
-
-Sayı : 28721
-
-### YÖNETMELİK
-
-Çalışma ve Sosyal Güvenlik Bakanlığından:
-
-### ÇALIŞANLARIN GÜRÜLTÜ İLE İLGİLİ RİSKLERDEN
-
-### KORUNMALARINA DAİR YÖNETMELİK
+### ÇALIŞANLARIN GÜRÜLTÜ İLE İLGİLİ RİSKLERDEN KORUNMALARINA DAİR YÖNETMELİK
 
 ### BİRİNCİ BÖLÜM
 
-**Amaç, Kapsam, Dayanak ve Tanımlar**
+Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç
 
@@ -56,7 +44,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Maruziyet Değerleri ve İşverenlerin Yükümlülükleri**
+Maruziyet Değerleri ve İşverenlerin Yükümlülükleri
 
 #### Maruziyet eylem değerleri ve maruziyet sınır değerleri
 
@@ -256,7 +244,7 @@ b) İşveren;
 
 ### ÜÇÜNCÜ BÖLÜM
 
-**Çeşitli ve Son Hükümler**
+Çeşitli ve Son Hükümler
 
 #### Yürürlükten kaldırılan yönetmelik
 

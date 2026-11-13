@@ -3,8 +3,7 @@ id: "hsgm-962-calisan-sagligina-yonelik-klinik-analizler"
 baslik: "Çalışan Sağlığına Yönelik Klinik Analizler"
 tur: "yazi"
 birim: "Halk Sağlığı Referans Laboratuvarları Dairesi Başkanlığı"
-kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
-kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/G_Yazi_Gorusler/Calisan_Sagligi_Yonelik_Klinik_Analizler.pdf"
+kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://hsgm.saglik.gov.tr/depo/Mevzuat/G_Yazi_Gorusler/Calisan_Sagligi_Yonelik_Klinik_Analizler.pdf)"
 durum: "yürürlükte"
 kontrol_edildi: true
 ---

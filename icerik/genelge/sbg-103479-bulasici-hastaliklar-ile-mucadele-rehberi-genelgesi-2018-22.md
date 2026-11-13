@@ -6,8 +6,7 @@ tarih: "2018-09-11"
 sayi: "2018/22"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Bulaşıcı hastalıklarla mücadelede güncellenen rehberin sağlık kurum ve kuruluşlarında uygulamaya konulmasını düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103479/bulasici-hastaliklar-ile-mucadele-rehberi-genelgesi-2018-22.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103479/bulasici-hastaliklar-ile-mucadele-rehberi-genelgesi-2018-22.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

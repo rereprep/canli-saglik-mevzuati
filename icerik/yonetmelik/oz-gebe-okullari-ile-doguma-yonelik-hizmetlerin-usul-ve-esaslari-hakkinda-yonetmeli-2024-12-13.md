@@ -6,19 +6,9 @@ rg_tarih: "2024-12-13"
 rg_sayi: "32751"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur."
 durum: "yürürlükte"
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2024/12/20241213-2.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41098&MevzuatTur=7&MevzuatTertip=5"
 ---
-
-13 Aralık 2024 CUMA
-
-Resmî Gazete
-
-Sayı : 32751
-
-### YÖNETMELİK
-
-Sağlık Bakanlığından:
 
 ### GEBE OKULLARI İLE DOĞUMA YÖNELİK HİZMETLERİN
 
@@ -26,7 +16,7 @@ Sağlık Bakanlığından:
 
 ### BİRİNCİ BÖLÜM
 
-**Başlangıç Hükümleri**
+Başlangıç Hükümleri
 
 #### Amaç
 
@@ -68,7 +58,7 @@ ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Temel Esaslar, Gebe Okullarının Açılması ve Tescil İşlemleri ile Asgari Standartlar**
+Temel Esaslar, Gebe Okullarının Açılması ve Tescil İşlemleri ile Asgari Standartlar
 
 #### Temel esaslar
 
@@ -150,7 +140,7 @@ ifade eder.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-**Görev, Yetki ve Sorumluluklar**
+Görev, Yetki ve Sorumluluklar
 
 #### Sorumlu hekim
 
@@ -236,7 +226,7 @@ s) Gebe ve çalışan güvenliği açısından gerekli tedbirleri almak, meydana
 
 ### DÖRDÜNCÜ BÖLÜM
 
-**Eğitim ve Denetim**
+Eğitim ve Denetim
 
 #### Eğitim
 
@@ -262,7 +252,7 @@ c) Gebe adaylarına verilecek gebeliğe hazırlık eğitimleri ile babalara yön
 
 ### BEŞİNCİ BÖLÜM
 
-**Çeşitli ve Son Hükümler**
+Çeşitli ve Son Hükümler
 
 #### Hüküm bulunmayan haller
 
@@ -282,4 +272,4 @@ c) Gebe adaylarına verilecek gebeliğe hazırlık eğitimleri ile babalara yön
 
 **MADDE 16 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için tıklayınız
+Ekleri için [tıklayınız](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41098&MevzuatTur=7&MevzuatTertip=5)

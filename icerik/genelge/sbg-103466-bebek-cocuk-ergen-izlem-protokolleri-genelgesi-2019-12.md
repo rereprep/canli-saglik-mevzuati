@@ -6,8 +6,7 @@ tarih: "2019-06-26"
 sayi: "2019/12"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Bebek, çocuk ve ergen izlem protokollerinin aile hekimlikleri ve sağlık kuruluşlarında uygulanma aralıkları ve usullerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103466/bebek-cocuk-ergen-izlem-protokolleri-genelgesi-2019-12.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103466/bebek-cocuk-ergen-izlem-protokolleri-genelgesi-2019-12.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

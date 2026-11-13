@@ -6,8 +6,7 @@ tarih: "2012-06-13"
 sayi: "2012/02"
 birim: "Türkiye Halk Sağlığı Kurumu Başkanlığı"
 konu: "Halk sağlığı birimlerinin kira, su, elektrik, doğalgaz ve telefon aboneliklerinin devri ve giderlerinin karşılanmasını düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103497/kiralar-ve-abonelikler-genelgesi-2012-02.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103497/kiralar-ve-abonelikler-genelgesi-2012-02.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

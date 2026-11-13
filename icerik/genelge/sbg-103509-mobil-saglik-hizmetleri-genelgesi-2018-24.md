@@ -6,8 +6,7 @@ tarih: "2018-10-11"
 sayi: "2018/24"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Sağlık hizmetlerine erişimi kısıtlı kırsal ve dezavantajlı yerleşimlerde sunulacak mobil sağlık hizmetlerinin planlanması ve yürütülmesini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103509/mobil-saglik-hizmetleri-genelgesi-2018-24.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103509/mobil-saglik-hizmetleri-genelgesi-2018-24.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

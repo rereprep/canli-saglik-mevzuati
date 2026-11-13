@@ -6,8 +6,7 @@ tarih: "2014-08-04"
 sayi: "2014/24"
 birim: "Türkiye Halk Sağlığı Kurumu"
 konu: "Evlenecek çiftlere yönelik evlilik öncesi danışmanlık hizmetleri, sağlık raporu düzenlenmesi ve tarama testlerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103486/evlilik-oncesi-danismanlik-genelgesi-2014-24.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103486/evlilik-oncesi-danismanlik-genelgesi-2014-24.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

@@ -6,8 +6,7 @@ tarih: "2015-10-23"
 sayi: "2015/18"
 birim: "Türkiye Halk Sağlığı Kurumu"
 konu: "Bulaşıcı hastalıkların ihbar ve bildirimi sisteminde A, B, C, D grubu hastalıkların bildirim usulleri ve standart formlarını düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103477/bulasici-hastaliklarin-ihbar-ve-bildirim-sistemi-genelgesi-2015-18.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103477/bulasici-hastaliklarin-ihbar-ve-bildirim-sistemi-genelgesi-2015-18.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

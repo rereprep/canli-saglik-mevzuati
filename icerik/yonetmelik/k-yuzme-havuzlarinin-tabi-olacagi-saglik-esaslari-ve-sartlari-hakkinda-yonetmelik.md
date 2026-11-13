@@ -9,27 +9,15 @@ birim: "Sağlık Bakanlığı"
 konu: "Açık ve kapalı yüzme havuzlarının hijyenik şartları, su kalitesi standartları ve denetimi."
 etiketler: ["yuzme havuzu", "cevre sagligi", "halk sagligi", "su kalitesi"]
 durum: "yürürlükte"
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2011/03/20110306-3.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14777&MevzuatTur=7&MevzuatTertip=5"
 ---
 
-6 Mart 2011 PAZAR
-
-Resmî Gazete
-
-Sayı : 27866
-
-### YÖNETMELİK
-
-Sağlık Bakanlığından:
-
-### YÜZME HAVUZLARININ TABİ OLACAĞI SAĞLIK ESASLARI
-
-### VE ŞARTLARI HAKKINDA YÖNETMELİK
+### YÜZME HAVUZLARININ TABİ OLACAĞI SAĞLIK ESASLARI HAKKINDA YÖNETMELİK (1)
 
 ### BİRİNCİ BÖLÜM
 
-**Amaç, Kapsam, Dayanak ve Tanımlar**
+Amaç, Kapsam, Dayanak ve Tanımlar
 
 Amaç
 
@@ -59,7 +47,7 @@ c) Bakanlık: Sağlık Bakanlığını,
 
 d) Dezenfektan: İnsanlarda hastalık yapma özelliği olan bakteri, virüs ve mantar gibi mikroorganizmaların sudan uzaklaştırılması veya yok edilmesi amacıyla kullanılan organik ve inorganik katı, sıvı ve gaz maddeleri,
 
-e) Havuz suyu operatörü: Yüzme havuzlarında kullanılan suyu kimyasal, fiziksel ve mikrobiyolojik yönden kullanıma hazırlayan ve bu konuda eğitim almış kişiyi,
+e) (Değişik:RG-15/12/2011-28143) Havuz suyu operatörü: Yüzme havuzlarında kullanılan suyu kimyasal, fiziksel ve mikrobiyolojik yönden kullanıma hazırlayan, bu konuda eğitim almış ve en az lise mezunu kişiyi,
 
 f) Havuz suyu kimyasalları: Havuz suyunun pH’sini ayarlamak, askıdaki katı maddeleri çöktürmek, küf, maya ve yosun gibi canlıların oluşumunu engellemek ve bazı kimyasal parametreleri dengelemek amacıyla kullanılan maddeleri,
 
@@ -75,11 +63,13 @@ i) Yüzme havuzu: Yüzme, serinleme, eğlenme veya spor amaçlı kullanılan; ta
 
 j) Yüzme havuzu işleticisi: Yüzme, serinleme, eğlenme veya spor amaçlı kullanılan yüzme havuzlarını işletenleri,
 
+k) (Ek:RG-15/12/2011-28143) Mesul müdür: Teknik işler ve havuzun uygun şekilde işletilmesinden sorumlu kimya veya sağlık eğitimi almış, en az lise mezunu kişiyi,
+
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Havuz Suyunun Nitelikleri, Numune Alma ve Analiz Sıklığı**
+Havuz Suyunun Nitelikleri, Numune Alma ve Analiz Sıklığı
 
 Kimyasal, fiziksel ve mikrobiyolojik nitelikleri ve analiz sıklığı
 
@@ -99,11 +89,11 @@ MADDE 6 − (1) Numuneler su akımının en düşük olduğu veya kullanıcılar
 
 (3) Havuz suyundan alınan her bir numune için ikişer adet Ek-6’da yer alan “Havuz Suyu Numune Alma Formu” düzenlenir ve formlardan biri numune ile birlikte laboratuvara verilir, diğeri ise numuneyi alan kurum veya kuruluşta kalır.
 
-(4) Mikrobiyolojik analizler için en az 500 mililitre su numunesi, sodyum tiyosülfatlı steril cam veya suyun niteliğini değiştirmeyen plastik şişelere alınır. Mikrobiyolojik analizler için alınan numuneler, güneş ışınlarından korunarak (5±3) °C’de ısıyı muhafaza edebilen taşıma kapları ile en kısa zamanda laboratuvara gönderilir. Numunelerin alımından laboratuvara ulaştırılması arasındaki süre on iki saati geçemez.
+(4) (Değişik:RG-15/12/2011-28143) Mikrobiyolojik analizler için en az 500 mililitre su numunesi, steril cam veya suyun niteliğini değiştirmeyen plastik şişelere alınır. Havuz suyu dezenfeksiyonunda klor ya da klorlu bileşiklerin kullanılması durumunda sodyum tiyosülfatlı şişe kullanılır. Mikrobiyolojik analizler için alınan numuneler, güneş ışınlarından korunarak (5±3) °C’de ısıyı muhafaza edebilen taşıma kapları ile en kısa zamanda laboratuvara gönderilir. Numunelerin alımından laboratuvara ulaştırılması arasındaki süre on iki saati geçemez.
 
 (5) Kimyasal analizler için en az 1000 ml su numunesi temiz cam veya suyun niteliğini etkilemeyen plastik şişelere alınır. Kimyasal analizler için alınan numuneler, (5±3) °C’de ısıyı muhafaza edebilen taşıma kapları ile en kısa sürede laboratuvara gönderilir. Numunelerin alımından laboratuvara ulaştırılması arasındaki süre 24 saati geçemez.
 
-(6) Havuz suyundan numune alma işi Müdürlük tarafından veya numune alma konusunda akredite olmuş ve Bakanlıkça yetkilendirilmiş kurum veya kuruluşça yapılır. Ancak, bu durum Bakanlık ve Müdürlüğün denetim, izleme ve numune alma yetkisini ortadan kaldırmaz. Analizler, aşağıda belirtilen hükümler çerçevesinde, Bakanlık laboratuvarlarında veya diğer kamu, kurum ve kuruluş laboratuvarlarında veya 7 nci maddede belirtilen şartları taşıyan ve Bakanlıkça yetkilendirmiş özel laboratuvarlarda yaptırılır.
+(6) (Değişik:RG-15/12/2011-28143) Havuz suyundan numune alma işi Müdürlük veya numune alma konusunda akredite olmuş ve Bakanlıkça yetkilendirilmiş kamu kurum veya kuruluşları ile özel laboratuvarlar tarafından yapılır. Ancak, bu durum Bakanlık ve Müdürlüğün denetim, izleme ve numune alma yetkisini ortadan kaldırmaz. Analizler, aşağıda belirtilen hükümler çerçevesinde, Bakanlık laboratuvarlarında veya 7 nci maddede belirtilen şartları taşıyan ve Bakanlıkça yetkilendirilmiş diğer kamu, kurum ve kuruluş laboratuvarları veya özel laboratuvarlarda yaptırılır.
 
 a) Her türlü numune alma ve analiz ücretleri yüzme havuzu işleticisi tarafından ödenir.
 
@@ -119,23 +109,25 @@ b) Ek-1, Ek-2 ve Ek-3’te belirtilen parametrelerde yöntem akreditasyonu belge
 
 c) En az iki kimya, çevre, su ürünleri mühendisi veya kimyager ile iki biyolog veya mikrobiyoloji uzmanının tam zamanlı istihdam edilmeleri,
 
-ç) Mikrobiyolojik analizler için alınan numunelerin, güneş ışınlarından korunarak (5±3) °C de ısıyı muhafaza edebilen taşıma kapları ile en fazla 6 saat içinde laboratuvara taşınabilecek düzenlemeyi sağlamaları,
+ç) (Değişik:RG-15/12/2011-28143) Mikrobiyolojik analizler için alınan numunelerin, güneş ışınlarından korunarak (5±3) °C de ısıyı muhafaza edebilen taşıma kapları ile en fazla oniki saat içinde laboratuvara taşınabilecek düzenlemeyi sağlamaları,
+
+d) (Ek:RG-15/12/2011-28143) Özel laboratuvarların işyeri açma ve çalışma ruhsatına sahip olmaları,
 
 halinde Bakanlıkça yetkilendirilir.
 
 ### ÜÇÜNCÜ BÖLÜM
 
-**Yüzme Havuzu İşletilmesine Ait Hükümler**
+Yüzme Havuzu İşletilmesine Ait Hükümler
 
 Yüzme havuzunun işletilmesi
 
 MADDE 8 − (1) Yüzme havuzunun teknik özellikleri ile yüzme havuzu suyunun, sıhhi kurallara uygun olması esastır. Yüzme havuzunun işletilmesinde aşağıdaki şartlara uyulur:
 
-a) Yüzme havuzu işleticisi, teknik işler ve havuzun uygun şekilde işletilmesinden sorumlu kimya veya sağlık eğitimi almış, en az lise mezunu bir kişi ve sertifikalı bir cankurtaran istihdam etmek zorundadır.
+a) (Değişik:RG-15/12/2011-28143) Yüzme havuzu işleticisi, mesul müdür, havuz suyu operatörü ve sertifikalı cankurtaran istihdam etmek zorundadır. 4 üncü maddenin birinci fıkrasının (e) ve (k) bentlerindeki şartları birlikte haiz olmak kaydıyla, mesul müdür ve havuz suyu operatörü aynı kişi olabilir.
 
 b) Yüzme havuzunda ip, yüzer duba, simit gibi can kurtarmaya mahsus malzemeler ile ilkyardım malzemeleri hazır bulundurulur.
 
-c) Kullanıcıların temiz mayolarla yüzme havuzuna girmeleri sağlanır. Tesisler, bütün kullanıcıların soyunma odaları için ayrılan mekana girmeden önce ayak dezenfeksiyonu yapmalarını, soyunma odalarından yüzme havuzuna geçişlerinden önce de duş almalarını sağlayacak şekilde düzenlenir.
+c) (Değişik:RG-15/12/2011-28143) Kullanıcıların yüzme havuzuna mayoyla girmeleri sağlanır. Tesislerde, bütün kullanıcıların, yüzme havuzuna girmeden önce duş alabilmelerini ve ayak dezenfeksiyonu yapabilmelerini sağlayacak düzenleme yapılır.
 
 ç) Yüzme havuzunda hayvanların insanlarla birlikte bulunmalarına hiçbir şekilde izin verilmez.
 
@@ -159,7 +151,7 @@ MADDE 9 − (1) Çocuk yüzme havuzunun derinliği 50 santimetreden fazla olamaz
 
 ### DÖRDÜNCÜ BÖLÜM
 
-**Muhtelif Hükümler**
+Muhtelif Hükümler
 
 Fiziki mekanlar
 
@@ -215,13 +207,13 @@ MADDE 14 − (1) Yüzme havuzu ve suyunun dezenfeksiyonu işletici tarafınca ya
 
 Havuz suyu operatörlerinin eğitimi
 
-MADDE 15 − (1) Yüzme havuzu suyu hazırlamasından sorumlu havuz suyu operatörlerine yönelik eğitimler Müdürlükçe yetkilendirilen kamu, kurum ve kuruluşları ile ilgili meslek odalarınca düzenlenir.
+MADDE 15 − (1) (Değişik:RG-15/12/2011-28143) Yüzme havuzlarında çalışan ve yüzme suyu hazırlamasından sorumlu havuz suyu operatörlerine yönelik eğitimler Halk Eğitim Müdürlükleri ve/veya Türkiye İş Kurumu (İŞKUR) tarafından düzenlenir.
 
 (2) Eğitimler havuz suyunun hazırlanması bakımı ve işletilmesi, genel hijyen, su ile bulaşabilecek hastalıklar, havuz suyunda kullanılan kimyasalların insan ve çevre sağlığı üzerine etkileri ile ilkyardım konularını kapsar.
 
 ### BEŞİNCİ BÖLÜM
 
-**Düzenleme Yetkisi ve Müeyyideler**
+Düzenleme Yetkisi ve Müeyyideler
 
 Düzenleme yetkisi
 
@@ -233,11 +225,19 @@ MADDE 17 − (1) Bu Yönetmelik hükümlerine aykırı hareket eden işletme sah
 
 ### ALTINCI BÖLÜM
 
-**Geçici ve Son Hükümler**
+Geçici ve Son Hükümler
 
 Mevcut havuzlara ilişkin geçici hükümler
 
-GEÇİCİ **MADDE 1 −** Bu Yönetmeliğin yayımı tarihinden önce izin almak için başvurusu yapılmış yüzme havuzları ile halen faaliyette olan yüzme havuzları fiziki koşullarını bu Yönetmeliğin yayımı tarihinden itibaren bir yıl içinde 8 inci maddenin (c) bendi ile 9 ve 10 uncu maddelere uygun hale getirir.
+GEÇİCİ MADDE 1 − Bu Yönetmeliğin yayımı tarihinden önce izin almak için başvurusu yapılmış yüzme havuzları ile halen faaliyette olan yüzme havuzları fiziki koşullarını bu Yönetmeliğin yayımı tarihinden itibaren bir yıl içinde 8 inci maddenin (c) bendi ile 9 ve 10 uncu maddelere uygun hale getirir.
+
+#### Havuz suyu operatörü ve mesul müdür ile ilgili geçiş hükümleri
+
+**GEÇİCİ MADDE 2 –** (Ek:RG-15/12/2011-28143)
+
+(1) Bu maddenin yayımı tarihinden önce havuz suyu operatörlerine yönelik düzenlenen eğitimleri aldığını ve hâlihazırda en az bir yıl havuz suyu operatörlüğü yaptığını belgelendirenler, havuz suyu operatörlüğüne devam edebilirler.
+
+(2) Bu maddenin yürürlüğe girdiği tarihten itibaren şartları haiz ancak, havuz suyu operatörü ve mesul müdürü bulunmayan havuzlar, 31/5/2012 tarihine kadar gerekli düzenlemeleri yapar.
 
 Yürürlük
 
@@ -247,4 +247,15 @@ Yürütme
 
 MADDE 19 − (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Yönetmeliğin eklerini görmek için tıklayınız
+___________
+
+(1) 15/12/2011 tarihli ve 28143 sayılı Resmi Gazete’de yayımlanan Yönetmelik değişikliği ile Yönetmeliğin adı “Yüzme Havuzlarının Tabi Olacağı Sağlık Esasları ve Şartları Hakkında Yönetmelik” iken “Yüzme Havuzlarının Tabi Olacağı Sağlık Esasları Hakkında Yönetmelik” şeklinde değiştirilmiştir.
+
+Yönetmeliğin eklerini görmek için [tıklayınız](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14777&MevzuatTur=7&MevzuatTertip=5)
+
+|  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
+| Tarihi | Sayısı |
+| 6/3/2011 | 27866 |
+| Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazete’lerin |
+| Tarihi | Sayısı |
+| 1. | 15/12/2011 | 28143 |

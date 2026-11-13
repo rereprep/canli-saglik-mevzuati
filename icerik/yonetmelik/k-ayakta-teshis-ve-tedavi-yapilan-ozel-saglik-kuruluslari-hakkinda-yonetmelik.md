@@ -2,9 +2,9 @@
 id: "k-ayakta-teshis-ve-tedavi-yapilan-ozel-saglik-kuruluslari-hakkinda-yonetmelik"
 baslik: "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik"
 tur: "yonetmelik"
-tarih: "2008-02-15"
-rg_tarih: "2008-02-15"
-rg_sayi: "26788"
+tarih: "2025-04-19"
+rg_tarih: "2025-04-19"
+rg_sayi: "32875"
 birim: "Sağlık Bakanlığı"
 konu: "Tıp merkezleri, poliklinikler ve muayenehanelerin açılması, çalışma usulleri ve denetimi."
 etiketler: ["ayakta tedavi", "tip merkezi", "muayenehane", "ozel saglik"]

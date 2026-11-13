@@ -6,8 +6,7 @@ tarih: "2005-09-22"
 sayi: "2005/143"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Sağlık Bakanlığına bağlı sağlık kuruluşlarında adli tabiplik, adli muayene, otopsi ve raporlama hizmetlerinin yürütülmesinde uyulacak usul ve esasları düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103436/adli-tabiplik-hizmetlerinin-yurutulmesinde-uyulacak-esaslar-genelgesi.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103436/adli-tabiplik-hizmetlerinin-yurutulmesinde-uyulacak-esaslar-genelgesi.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

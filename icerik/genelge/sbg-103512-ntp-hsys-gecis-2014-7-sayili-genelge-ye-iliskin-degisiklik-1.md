@@ -5,8 +5,7 @@ tur: "genelge"
 sayi: "2014/7 Değişiklik-1"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Ulusal Yenidoğan Tarama Programı veri girişlerinin Halk Sağlığı Yönetim Sistemi (HSYS) üzerinden yapılmasına ilişkin değişiklikleri düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103512/ntp-hsys-gecis-2014-7-sayili-genelge-ye-iliskin-degisiklik-1.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103512/ntp-hsys-gecis-2014-7-sayili-genelge-ye-iliskin-degisiklik-1.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

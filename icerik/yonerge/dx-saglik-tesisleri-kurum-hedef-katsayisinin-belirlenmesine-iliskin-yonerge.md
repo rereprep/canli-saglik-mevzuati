@@ -6,8 +6,7 @@ tarih: "2025-05-23"
 sayi: "277164646"
 birim: "Kamu Hastaneleri Genel Müdürlüğü (KHGM)"
 konu: "Sağlık Tesisleri Kurum Hedef Katsayısının Belirlenmesine İlişkin Yönerge"
-kaynak_url: "https://khgmdegerlendirmegelistirmedb.saglik.gov.tr/TR-109151/saglik-tesisleri-kurum-hedef-katsayisinin-belirlenmesine-iliskin-yonerge-2025.html"
-kaynak: "Sağlık Bakanlığı yönerge metni (Word)"
+kaynak: "Sağlık Bakanlığı yönerge metni (Word) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://khgmdegerlendirmegelistirmedb.saglik.gov.tr/TR-109151/saglik-tesisleri-kurum-hedef-katsayisinin-belirlenmesine-iliskin-yonerge-2025.html)"
 durum: "yürürlükte"
 ---
 

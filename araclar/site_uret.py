@@ -1078,6 +1078,8 @@ def kunye(b):
         satirlar.append(("Yayımlayan Birim", b["birim"]))
     if b.get("durum"):
         satirlar.append(("Durum", b["durum"].capitalize()))
+    if b.get("konu"):
+        satirlar.append(("Açıklama", b["konu"]))
     if b.get("kaynak"):
         satirlar.append(("Kaynak", b["kaynak"]))
     for k in b.get("diger_kaynaklar", []):

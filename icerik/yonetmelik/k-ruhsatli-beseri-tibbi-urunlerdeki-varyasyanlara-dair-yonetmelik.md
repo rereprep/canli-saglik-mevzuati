@@ -10,19 +10,9 @@ konu: "Ruhsatlı Beşeri Tıbbi Ürünlerdeki Varyasyanlara Dair Yönetmelik ile
 etiketler: ["yonetmelik", "saglik mevzuati"]
 not: "Yürürlükten kaldırılan önceki düzenleme: Ruhsatlandırılmış\nveya Ruhsatlandırma Başvurusu Yapılmış Beşeri Tıbbi Ürünlerdeki Değişikliklere Dair\nYönetmelik | Önceki RG: RG: 23.05.2005 / 25823"
 durum: "yürürlükte"
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2021/12/20211218-10.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39115&MevzuatTur=7&MevzuatTertip=5"
 ---
-
-18 Aralık 2021 CUMARTESİ
-
-Resmî Gazete
-
-Sayı : 31693
-
-### YÖNETMELİK
-
-Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
 
 ### RUHSATLI BEŞERİ TIBBİ ÜRÜNLERDEKİ
 
@@ -30,7 +20,7 @@ Türkiye İlaç ve Tıbbi Cihaz Kurumundan:
 
 ### BİRİNCİ BÖLÜM
 
-**Amaç, Kapsam, Dayanak ve Tanımlar**
+Amaç, Kapsam, Dayanak ve Tanımlar
 
 #### Amaç
 
@@ -74,7 +64,9 @@ g) Tip IB küçük varyasyon: Tip IA küçük varyasyon veya Tip II büyük vary
 
 ğ) Tip II büyük varyasyon: Çeşitleme kapsamına girmeyen ve ilgili beşeri tıbbi ürünün kalitesi, güvenliliği ya da etkililiği üzerinde önemli etkisi olabilecek varyasyonu,
 
-h) Varyasyon:
+h) (Ek:RG-26/12/2023-32411)(1) Üretim yeri: Ülkemizde bulunmayan veya az bulunan teknolojiler ile üretilen beşeri tıbbi ürünlerin Kurum tarafından başvuru bazında değerlendirildiği haller dışında beşeri tıbbi ürünün iç ambalajlama öncesi farmasötik şeklinin (bulk ürünün) üretildiği yeri,
+
+ı) Varyasyon:
 
 1) Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğinin 8 inci, 9 uncu, 10 uncu, 33 üncü, 34 üncü, 35 inci ve 36 ncı maddelerinde ve Ek-1’inde bahsedilen bilgilerin içeriklerinde veya,
 
@@ -84,7 +76,7 @@ yapılan değişiklikleri ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-**Varyasyonların Türleri ve Prosedürleri**
+Varyasyonların Türleri ve Prosedürleri
 
 #### Varyasyonların sınıflandırılması
 
@@ -168,6 +160,8 @@ b) Varyasyonun reddedildiği durumlarda, bu reddin gerekçeleri ruhsat sahibine 
 
 c) Uygulanabilir olduğu durumlarda, ruhsatname ya da ruhsat sertifikası onaylanan varyasyona uygun olarak Kurum tarafından tadil edilir.
 
+ç) (Ek:RG-26/12/2023-32411) Bir beşeri tıbbi ürün için üretim yerinin yurt dışından yurt içine veya yurt içinden yurt dışına değiştirilmesi talebi ile Kuruma sunulan varyasyonların uygun bulunması halinde söz konusu beşeri tıbbi ürün için yeni ruhsat düzenlenir.
+
 #### Grip aşıları
 
 **MADDE 12 –** (1) 10 uncu maddedeki hükümlerin istisnası olarak, yıllık güncelleme amacıyla bir grip aşısının etkin maddesinde yapılan değişikliklere ilişkin varyasyonların incelenmesinde ikinci, üçüncü ve dördüncü fıkralardaki prosedür uygulanır:
@@ -180,13 +174,15 @@ c) Uygulanabilir olduğu durumlarda, ruhsatname ya da ruhsat sertifikası onayla
 
 ### ÜÇÜNCÜ BÖLÜM
 
-**Özel Prosedürler**
+Özel Prosedürler
 
 #### Çeşitleme
 
 **MADDE 13 –** (1) Çeşitleme başvurusu için Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliğine uygun olarak yeni bir ruhsat başvurusu yapılır.
 
 (2) Çeşitleme başvurusu, yeni bir ruhsat başvurusu gibi değerlendirilir. Değerlendirme sonucu uygun bulunan başvurular için ayrı bir ruhsat düzenlenir.
+
+(3) (Ek:RG-26/12/2023-32411) Çeşitleme başvurusunda bulunulan beşeri tıbbi ürün için çeşitleme başvurusuna ilgi mevcut ruhsatın iptal edilmesinin talep edildiği durumlarda, çeşitleme başvurusunun ruhsatlandırma süreci, ruhsat başvurusunun ön değerlendirmesinin kabulünün başvuru sahibine resmi olarak bildirilmesi ile birlikte başlatılır.
 
 #### İnfluenza (grip) ile ilgili pandemik durum
 
@@ -204,7 +200,7 @@ c) Uygulanabilir olduğu durumlarda, ruhsatname ya da ruhsat sertifikası onayla
 
 ### DÖRDÜNCÜ BÖLÜM
 
-**Varyasyonların Uygulamaya Geçilmesi**
+Varyasyonların Uygulamaya Geçilmesi
 
 #### Varyasyonların uygulamaya geçilmesi
 
@@ -220,7 +216,7 @@ c) Uygulanabilir olduğu durumlarda, ruhsatname ya da ruhsat sertifikası onayla
 
 ### BEŞİNCİ BÖLÜM
 
-**Çeşitli ve Son Hükümler**
+Çeşitli ve Son Hükümler
 
 #### Kılavuz
 
@@ -238,9 +234,11 @@ hakkında uyulacak genel ilkeleri kılavuz halinde yayımlar.
 
 **MADDE 18 –** (1) Karşılaştırılabilir standartlara sahip diğer ilaç otoriteleri veya bölgesel veya uluslararası kuruluşlar tarafından yapılan önceki değerlendirmeler dikkate alınabilir.
 
-#### Barkod değişikliğinde piyasaya sunum
+#### Onay sonrası piyasaya sunum (Değişik başlık:RG-26/12/2023-32411)
 
 **MADDE 19 –** (1) Barkod değişikliğine neden olan varyasyonlarda ruhsat sahibinin talebi olması halinde; barkod değişikliğine neden olan varyasyonun onaylandığı tarihten sonra altı ay süre ile eski barkodlu ürünlerin üretilmesine ve piyasaya sunulmasına izin verilir. Bu durumdaki ürünlerin üretim bildirimlerine ilişkin kontrol işlemleri İlaç Takip Sistemi üzerinden gerçekleştirilir. Bu ürünler, miatları doluncaya kadar piyasada bulunabilir.
+
+(2) (Ek:RG-26/12/2023-32411) Çeşitleme başvurusunda bulunulan beşeri tıbbi ürün için çeşitlemesi yapılan mevcut ruhsatın iptal edilerek yeni ruhsatın düzenlendiği durumlarda ruhsatın düzenlendiği tarihten sonra altı ay süre ile eski ruhsata ait barkodlu ürünlerin aynı barkod ile üretilmesine ve piyasaya sunulmasına izin verilir. Bu durumdaki ürünlerin üretim bildirimlerine ilişkin kontrol işlemleri İlaç Takip Sistemi üzerinden gerçekleştirilir. Bu ürünler, miatları doluncaya kadar piyasada bulunabilir.
 
 #### Gizlilik
 
@@ -280,4 +278,15 @@ hakkında uyulacak genel ilkeleri kılavuz halinde yayımlar.
 
 **MADDE 27 –** (1) Bu Yönetmelik hükümlerini Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı yürütür.
 
-Ekleri için tıklayınız
+________
+
+(1) 26/12/2023 tarihli ve 32411 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 4 üncü maddesinin birinci fıkrasına (ğ) bendinden sonra gelmek üzere (h) bendi eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.
+
+Ekleri için [tıklayınız](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39115&MevzuatTur=7&MevzuatTertip=5)
+
+|  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
+| Tarihi | Sayısı |
+| 18/12/2021 | 31693 |
+| Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin |
+| Tarihi | Sayısı |
+| 1. | 26/12/2023 | 32411 |

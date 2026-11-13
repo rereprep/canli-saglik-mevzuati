@@ -6,8 +6,7 @@ tarih: "2018-06-06"
 sayi: "2018/19"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 konu: "Geçici koruma altındaki yabancılara yönelik gönüllü sağlık tesislerinin açılması, işletilmesi, denetimi ve personel çalışma esaslarını düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103489/gonullu-saglik-tesisleri-genelgesi-2018-19.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103489/gonullu-saglik-tesisleri-genelgesi-2018-19.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

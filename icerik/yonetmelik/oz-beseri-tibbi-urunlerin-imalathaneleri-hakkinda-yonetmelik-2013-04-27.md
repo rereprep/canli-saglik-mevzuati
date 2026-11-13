@@ -5,9 +5,11 @@ tur: "yonetmelik"
 rg_tarih: "2013-04-27"
 rg_sayi: "28630"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2013/04/20130427-22.htm"
+kaldiran: "oz-beseri-tibbi-urunler-imalathaneleri-yonetmeligi-2017-10-21"
+konu: "27/4/2013 tarihli ve 28630 sayılı Resmî Gazete’de yayımlanan yönetmelik; 21/10/2017 tarihli ve 30217 sayılı Resmî Gazete’de yayımlanan Beşeri Tıbbi Ürünler İmalathaneleri Yönetmeliği ile yürürlükten kaldırılmıştır."
 ---
 
 27 Nisan 2013 CUMARTESİ

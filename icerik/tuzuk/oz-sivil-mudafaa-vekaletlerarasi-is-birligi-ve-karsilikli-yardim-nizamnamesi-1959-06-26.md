@@ -7,8 +7,7 @@ rg_sayi: "10237"
 etiketler: ["sağlıkla ilgili genel mevzuat"]
 not: "Ek IV: Sağlıkla ilgili tüzükler."
 durum: "yürürlükte"
-kaynak: "mevzuat.wiki (resmî yayın değildir; Mevzuat Bilgi Sistemi nüshasının aktarımı)"
-kaynak_url: "https://mevzuat.wiki/sivil-mudafaa-vekaletlerarasi-isbirligi-ve-karsilikli-yardim-nizamnamesi"
+kaynak: "mevzuat.wiki (resmî yayın değildir; Mevzuat Bilgi Sistemi nüshasının aktarımı) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://mevzuat.wiki/sivil-mudafaa-vekaletlerarasi-isbirligi-ve-karsilikli-yardim-nizamnamesi)"
 ---
 
 ## Sivil Müdafaa Vekaletlerarası İşbirliği ve Karşılıklı Yardım Nizamnamesi

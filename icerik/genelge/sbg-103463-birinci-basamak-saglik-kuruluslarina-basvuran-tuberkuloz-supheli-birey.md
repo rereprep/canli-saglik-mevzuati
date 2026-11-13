@@ -6,8 +6,7 @@ tarih: "2009-08-31"
 sayi: "2009/52"
 birim: "Verem Savaşı Dairesi Başkanlığı"
 konu: "Birinci basamak sağlık kuruluşlarına başvuran tüberküloz şüphelilerinden balgam numunelerinin toplanması ve nakil usullerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103463/birinci-basamak-saglik-kuruluslarina-basvuran-tuberkuloz-supheli-birey.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103463/birinci-basamak-saglik-kuruluslarina-basvuran-tuberkuloz-supheli-birey.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

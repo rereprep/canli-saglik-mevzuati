@@ -5,9 +5,11 @@ tur: "yonetmelik"
 rg_tarih: "2015-01-22"
 rg_sayi: "29244"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2015/01/20150122-7.htm"
+kaldiran: "oz-halk-sagligi-hizmetlerine-yonelik-laboratuvarlarin-calisma-usul-ve-esaslari-hakk-2019-03-09"
+konu: "22/1/2015 tarihli ve 29244 sayılı Resmî Gazete’de yayımlanan yönetmelik; 9/3/2019 tarihli ve 30709 sayılı Resmî Gazete’de yayımlanan Halk Sağlığı Hizmetlerine Yönelik Laboratuvarların Çalışma Usul ve Esasları Hakkında Yönetmelik ile yürürlükten kaldırılmıştır."
 ---
 
 22 Ocak 2015 PERŞEMBE

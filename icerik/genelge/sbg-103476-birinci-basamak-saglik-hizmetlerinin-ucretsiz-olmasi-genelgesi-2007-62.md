@@ -6,8 +6,7 @@ tarih: "2007-07-24"
 sayi: "2007/62"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Birinci basamak sağlık kuruluşlarında verilen sağlık hizmetleri ile hekim tarafından istenen tarama tetkiklerinin ücretsiz sunulmasını düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103476/birinci-basamak-saglik-hizmetlerinin-ucretsiz-olmasi-genelgesi-2007-62.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103476/birinci-basamak-saglik-hizmetlerinin-ucretsiz-olmasi-genelgesi-2007-62.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

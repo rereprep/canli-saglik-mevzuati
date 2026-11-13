@@ -6,8 +6,7 @@ tarih: "2004-03-31"
 sayi: "2004/46"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kırım-Kongo Kanamalı Ateşi salgınlarının önlenmesi, bulaşma yolları, hastane enfeksiyon kontrol önlemleri ve halk eğitimi kurallarını düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103501/kirim-kongo-kanamali-atesi-genelgesi-2004-46.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103501/kirim-kongo-kanamali-atesi-genelgesi-2004-46.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

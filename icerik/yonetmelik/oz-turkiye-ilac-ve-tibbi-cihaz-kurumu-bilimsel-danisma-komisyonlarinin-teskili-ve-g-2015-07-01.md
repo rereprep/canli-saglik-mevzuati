@@ -1,13 +1,15 @@
 ---
 id: "oz-turkiye-ilac-ve-tibbi-cihaz-kurumu-bilimsel-danisma-komisyonlarinin-teskili-ve-g-2015-07-01"
-baslik: "Türkiye İlaç ve Tıbbi Cihaz Kurumu Bilimsel Danışma Komisyonlarının Teşkili ve Görevleri Hakkında Yönetmelik"
+baslik: "Türkiye İlaç ve Tıbbi Cihaz Kurumu Bilimsel Danışma Komisyonları ile Kurullarının Teşkili ve Görevleri Hakkında Yönetmelik"
 tur: "yonetmelik"
 rg_tarih: "2015-07-01"
 rg_sayi: "29403"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2015/07/20150701-4.htm"
+kaldiran: "oz-turkiye-ilac-ve-tibbi-cihaz-kurumu-bilimsel-danisma-komisyonlari-ile-kurullarini-2019-08-01"
+konu: "1/7/2015 tarihli ve 29403 sayılı Resmî Gazete’de yayımlanan yönetmelik; 1/8/2019 tarihli ve 30849 sayılı Resmî Gazete’de yayımlanan Türkiye İlaç ve Tıbbi Cihaz Kurumu Bilimsel Danışma Komisyonları ile Kurullarının Teşkili ve Görevleri Hakkında Yönetmelik ile yürürlükten kaldırılmıştır."
 ---
 
 1 Temmuz 2015 ÇARŞAMBA

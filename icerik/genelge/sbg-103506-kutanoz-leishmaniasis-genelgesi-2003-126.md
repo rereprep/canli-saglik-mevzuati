@@ -6,8 +6,7 @@ tarih: "2003-10-24"
 sayi: "2003/126"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kutanöz Leishmaniasis (şark çıbanı) hastalığının tespiti, tedavisi, ilaç temini ve vektör mücadelesi usullerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103506/kutanoz-leishmaniasis-genelgesi-2003-126.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103506/kutanoz-leishmaniasis-genelgesi-2003-126.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

@@ -2,14 +2,14 @@
 id: "k-diyaliz-merkezleri-hakkinda-yonetmelik"
 baslik: "Diyaliz Merkezleri Hakkında Yönetmelik"
 tur: "yonetmelik"
-tarih: "2019-03-01"
-rg_tarih: "2019-03-01"
-rg_sayi: "30701"
+tarih: "2026-11-13"
+rg_tarih: "2026-11-13"
+rg_sayi: "33429"
 birim: "Sağlık Bakanlığı"
 konu: "Hemodiyaliz ve periton diyalizi merkezlerinin açılması, faaliyetleri, personel ve tıbbi cihaz standartları."
 etiketler: ["diyaliz", "hemodiyaliz", "ozel saglik", "tibbi cihaz"]
 kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
-kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31297&MevzuatTur=7&MevzuatTertip=5"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46381&MevzuatTur=7&MevzuatTertip=5"
 durum: "yürürlükte"
 ---
 
@@ -17,19 +17,19 @@ durum: "yürürlükte"
 
 ### BİRİNCİ BÖLÜM
 
-Amaç, Kapsam, Dayanak ve Tanımlar
+Başlangıç Hükümleri
 
 #### Amaç
 
-**MADDE 1 –** (1) Bu Yönetmeliğin amacı; akut ve kronik böbrek yetmezliği bulunan hastalarda ve gerekli diğer tıbbi durumlarda diyaliz tedavi yöntemlerini uygulayacak ünite ve merkezlerin planlamalarına, açılmalarına, faaliyetlerine, denetlenmelerine, ünite ve merkezde görev alacak sağlık personelinin eğitimi ve sertifikalandırılmasını sağlayacak diyaliz eğitim merkezlerine ve diyaliz tedavi yöntemlerinin uygulamasına ilişkin usul ve esasları belirlemektir.
+**MADDE 1 –** (1) Bu Yönetmeliğin amacı; akut ve kronik böbrek yetmezliği bulunan hastalarda ve gerekli diğer tıbbi durumlarda diyaliz tedavi yöntemlerini uygulayacak merkez ve ünitelerin planlamalarına, açılmalarına, faaliyetlerine, denetlenmelerine, diyaliz tedavi yöntemlerinin uygulamasına ilişkin usul ve esasları belirlemektir.
 
 #### Kapsam
 
-**MADDE 2 –** (1) Bu Yönetmelik; üniversiteler, kamu kurum ve kuruluşları ile gerçek ve özel hukuk tüzel kişileri tarafından diyaliz hizmeti sunmak amacı ile açılan ünite ve merkezleri, buralarda görev alacak personeli ve diyaliz hizmeti ile ilgili faaliyetleri kapsar.
+**MADDE 2 –** (1) Bu Yönetmelik; üniversiteler, kamu kurum ve kuruluşları ile gerçek kişiler ve özel hukuk tüzel kişileri tarafından diyaliz hizmeti sunmak amacı ile açılan merkez ve üniteleri, buralarda görev alacak personeli ve diyaliz hizmeti ile ilgili faaliyetleri kapsar.
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik; 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesi ve 9 uncu maddesinin birinci fıkrasının (c) bendi ile 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 numaralı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (b), (c) ve (f) bentleri ile 508 inci maddesine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönetmelik; 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesine, 9 uncu maddesinin birinci fıkrasının (c) bendine, ek 11 inci ve ek 19 uncu maddelerine ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (b), (c) ve (f) bentleri ile 508 inci maddesine dayanılarak hazırlanmıştır.
 
 #### Tanımlar
 
@@ -37,459 +37,281 @@ Amaç, Kapsam, Dayanak ve Tanımlar
 
 a) Bakanlık: Sağlık Bakanlığını,
 
-b) Diyaliz: Böbrek yetmezliği veya başka sebeplerle insan vücudunda biriken toksik maddelerin ve fazla sıvının vücuttan uzaklaştırılması amacı ile uygulanan tedavi yöntemlerinin genelini,
+b) Bakanlık dijital kayıt sistemi: Merkezlerin/ünitelerin ve hastaların demografik ve tıbbi verilerinin kaydedilmesi, toplanması, izlenmesi, analizi ve raporlanmasını kapsayan internet tabanlı veri kayıt sistemini,
 
-c) Diyaliz eğitim merkezi: Bu Yönetmelikte belirlenen eğitim şartlarını haiz olup, diyaliz merkezlerinde ve ünitelerinde çalışacak personelin eğitim faaliyetlerini yürüten ve sertifikalarını düzenleyen Bakanlıkça bu konularda yetkilendirilmiş diyaliz merkezlerini,
+c) Diyaliz: Böbrek yetmezliği veya başka sebeplerle insan vücudunda biriken toksik maddelerin ve fazla sıvının vücuttan uzaklaştırılması amacı ile uygulanan tedavi yöntemlerinin genelini,
 
-ç) Hemodiyaliz: Hemodiyaliz ve/veya hemofiltrasyon cihazı vasıtasıyla yapay membran kullanılarak ünite ve merkezlerde, hastanede veya evde yapılan hemodiyaliz, hemoperfüzyon, hemofiltrasyon ve hemodiafiltrasyon gibi sürekli yavaş hemodiyaliz yöntemleri ve Bakanlıkça kabul edilecek diğer alternatif diyaliz tedavi yöntemlerini,
+ç) Entegre Kurumsal İşlem Platformu (EKİP Portal): Bakanlık personeli ve sağlık kuruluşları için geliştirilen; özlük verilerinin takip edildiği, kurum içi iletişim ve sosyal ağ özelliklerinin yer aldığı dijital bir platformu,
 
 d) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,
 
-e) Merkez: Genel olarak, erişkin ve pediatrik diyaliz hastalarına hemodiyaliz ve/veya periton diyalizi uygulandığı, bu Yönetmeliğe göre üniversiteler, kamu kurum ve kuruluşları ile gerçek veya özel hukuk tüzel kişileri tarafından kurulup işletilen günübirlik diyaliz merkezini,
+e) Hemodiyaliz: Hemodiyaliz veya hemofiltrasyon cihazı vasıtasıyla yapay membran kullanılarak merkez ve ünitelerde, hastanede veya evde yapılan hemodiyaliz, hemoperfüzyon, hemofiltrasyon ve hemodiafiltrasyon gibi sürekli yavaş hemodiyaliz yöntemleri ve Bakanlıkça kabul edilecek diğer alternatif diyaliz tedavi yöntemlerini,
 
-f) Müdürlük: İl sağlık müdürlüklerini,
+f) Merkez: Erişkin ve pediatrik diyaliz hastalarına hemodiyaliz veya periton diyalizi uygulanan üniversiteler, kamu kurum ve kuruluşları ile gerçek kişiler veya özel hukuk tüzel kişileri tarafından kurulup işletilen günübirlik diyaliz merkezini,
 
-g) Özel merkez: Bu Yönetmeliğe göre, gerçek kişiler veya özel hukuk tüzel kişileri tarafından kurulup işletilen merkezi,
+g) Müdürlük: İl sağlık müdürlüklerini,
 
-ğ) Periton diyalizi: Periton boşluğu ve periton zarı kullanılarak uygulanan sürekli ayaktan periton diyalizi, aletli periton diyalizi veya bunların kombinasyonundan oluşan diyaliz tedavi yöntemlerini,
+ğ) Özel merkez: Gerçek kişiler veya özel hukuk tüzel kişileri tarafından kurulup işletilen merkezi,
 
-h) Reuse: Diyaliz filtrelerinin sterilizasyon işlemine tabi tutulduktan sonra aynı hastaya olmak kaydıyla birden fazla kullanılmasını,
+h) Periton diyalizi: Periton boşluğu ve periton zarı kullanılarak uygulanan sürekli ayaktan periton diyalizi, aletli periton diyalizi veya bunların kombinasyonundan oluşan diyaliz tedavi yöntemlerini,
 
-ı) (Mülga:RG-10/12/2022-32039)
+ı) Reuse: Diyaliz filtrelerinin sterilizasyon işlemine tabi tutulduktan sonra aynı hastaya olmak kaydıyla birden fazla kullanılmasını,
 
-i) Sertifikalı hemşire: Hemodiyaliz veya periton diyalizi uygulamalarıyla ilgili Bakanlıkça yetkilendirilen diyaliz eğitim merkezleri tarafından verilen diyaliz eğitimi sonucu sertifikalandırılan hemşireyi,
+i) Sertifikalı hemşire: Hemodiyaliz veya periton diyalizi uygulamalarıyla ilgili Bakanlıkça yetkilendirilen diyaliz eğitim merkezleri tarafından yapılan diyaliz sertifika programını başarı ile tamamlayan hemşireyi,
 
-j) (Değişik:RG-10/12/2022-32039) Uzman tabip: İç hastalıkları uzmanı ile çocuk sağlığı ve hastalıkları uzmanını,
+j) Sertifikalı tabip: Hemodiyaliz uygulamalarıyla ilgili Bakanlıkça yetkilendirilen diyaliz eğitim merkezleri tarafından verilen diyaliz sertifika programını başarı ile tamamlayan tabibi,
 
-k) Sertifikalı tabip: Hemodiyaliz uygulamalarıyla ilgili Bakanlıkça yetkilendirilen diyaliz eğitim merkezleri tarafından verilen diyaliz eğitimi sonucu sertifikalandırılan tabibi,
+k) Sertifikalı uzman tabip: Hemodiyaliz veya periton diyalizi uygulamalarıyla ilgili Bakanlıkça yetkilendirilen diyaliz eğitim merkezleri tarafından yapılan diyaliz sertifika programını başarı ile tamamlayan uzman tabibi,
 
-l) Türkiye Diyaliz Veri Sistemi (TÜRKDİVES): Merkezlerin/ünitelerin ve hastaların demografik ve tıbbi verilerinin kaydedilmesi, toplanması, izlenmesi, analizi ve raporlanmasını kapsayan web tabanlı veri kayıt sistemini,
+l) Uzman tabip: İç hastalıkları uzmanı ile çocuk sağlığı ve hastalıkları uzmanını,
 
-m) (Değişik:RG-10/12/2022-32039) Ünite: Kamuya ait hastaneler ile nefroloji uzmanı bulunan devlet üniversite hastaneleri ve eğitim araştırma hastaneleri bünyesindeki yedek cihaz hariç toplam en fazla on cihaz kapasitesinde olan diyaliz tedavi yöntemlerinin uygulandığı diyaliz ünitesini,
+m) Ünite: Kamuya ait hastaneler ve nefroloji uzmanı bulunan üniversite hastaneleri bünyesindeki yedek cihaz hariç toplam en fazla on cihaz kapasitesinde olan diyaliz tedavi yöntemlerinin uygulandığı diyaliz ünitesini,
 
 ifade eder.
 
 ### İKİNCİ BÖLÜM
 
-Diyaliz Bilimsel Danışma Komisyonu, Diyaliz Hizmetleri İzlem, Denetim ve
+Diyaliz Merkezlerinin Kurulması ve Cihaz Temini
 
-Değerlendirme Komisyonu
+#### Merkezlerin kurulması
 
-#### Diyaliz Bilimsel Danışma Komisyonunun teşkili
-
-**MADDE 5 –** (1) Diyaliz Bilimsel Danışma Komisyonu; Sağlık Hizmetleri Genel Müdürünün veya görevlendireceği en az daire başkanı düzeyindeki bir idari amir başkanlığında, nefroloji alanında doçent ve profesörler arasından Bakanlıkça seçilen altı üye olmak üzere toplam yedi kişiden oluşur.
-
-(2) Diyaliz Bilimsel Danışma Komisyonu üyeleri, bir yıl süreyle görev yaparlar. Yeni komisyon üyeleri seçilinceye kadar mevcut üyelerin görevi devam eder.
-
-(3) Herhangi bir sebeple üyeliğin boşalması halinde, kalan süreyi tamamlamak üzere yeni üye seçilir. Üyeliğe aynı usulle tekrar seçilmek mümkündür. Diyaliz Bilimsel Danışma Komisyonu toplantılarına kabul edilebilir bir mazereti olmaksızın iki defa üst üste veya bir üyelik döneminde toplam üç defa katılmayan üyenin üyeliği sona erer.
-
-(4) Bakanlık, gerekli durumlarda veya Diyaliz Bilimsel Danışma Komisyonunun teklifi halinde toplantının gündemine göre halk sağlığı, farmakoloji, biyomedikal ve diğer uzmanlık dallarından uygun göreceği sayıdaki uzmanı, komisyonun faaliyetlerine yardımcı olmak üzere görevlendirebilir veya bu uzmanlardan müteşekkil çalışma grupları oluşturabilir.
-
-(5) Bakanlıkça fiziken toplantıya gerek duyulmayan acil durumlarda elektronik ortamda gündem belirlenip gündeme ilişkin görüş istenebilir. Bu durumda veri gizliliğine ilişkin güvenlik tedbirlerine riayet edilerek görüş verilebilir.
-
-#### Diyaliz Bilimsel Danışma Komisyonunun görevleri
-
-**MADDE 6 –** (1) Diyaliz Bilimsel Danışma Komisyonu;
-
-a) Ülke genelinde diyaliz hizmetlerinin gelişimini izleyerek, alınacak tedbirleri ve ulusal stratejileri belirlemek için ihtiyaç duyulan konularda,
-
-b) İhtiyaç halinde diyaliz merkezlerinin ve ünitelerinin faaliyetleri ve alınacak tedbirler konusunda,
-
-c) Diyaliz merkezlerine eğitim yetkisi verilmesine veya yetkinin kaldırılmasına esas olmak üzere,
-
-ç) Diyaliz eğitim merkezlerinin ve bu merkezlerin uygulayacağı eğitim müfredatının temel esaslarının ve konularının belirlenmesi ve tıbbî gelişmelere paralel olarak güncelleştirilmesi ile eğitim ve sınavlar hakkında,
-
-d) Gerek görüldüğünde, diyaliz tedavisinde kullanılan ilaçlar, solüsyonlar, araç ve gereçler ile ilgili standartların belirlenmesinde,
-
-e) Diyaliz ile ilgili ulusal tanı, kayıt ve tedavi protokolleri konusunda,
-
-f) Bu Yönetmeliğin uygulanması ile ilgili olarak Bakanlığın gerekli gördüğü diğer konularda,
-
-Bakanlığa görüş bildirir.
-
-#### Diyaliz Bilimsel Danışma Komisyonunun çalışma usul ve esasları
-
-**MADDE 7 –** (1) Diyaliz Bilimsel Danışma Komisyonu, yılda en az dört kez toplanır. Bakanlık gerekli hallerde, komisyonu olağan toplantıları dışında da toplantıya davet edebilir. Toplantı tarihi, yeri ve gündemi, olağan dışı toplantılar hariç olmak üzere, en az yedi gün önce üyelere yazılı olarak bildirilir.
-
-(2) Diyaliz Bilimsel Danışma Komisyonu, en az dört üye ve başkanın katılımı ile toplanır ve katılanların salt çoğunluğu ile karar alır. Oylarda eşitlik olması halinde, başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
-
-(3) Diyaliz Bilimsel Danışma Komisyonunun kararları, karar defterine yazılır ve toplantıya katılan üyelerce imzalanır. Karara muhalif olanlar, şerh koymak suretiyle kararları imza ederler. Muhalif görüş gerekçesi, karar altında veya ekinde belirtilir.
-
-(4) Diyaliz Bilimsel Danışma Komisyonunun sekreterya hizmetleri Genel Müdürlükçe yürütülür.
-
-(5) Diyaliz Bilimsel Danışma Komisyonu, gerekli gördüğü hallerde diyaliz ile ilgili sivil toplum kuruluşları ve özel sektör temsilcilerini, tüm masrafları kendilerine ait olmak üzere toplantıya davet edebilir.
-
-#### Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu
-
-**MADDE 8 –** (1) Bakanlıktan merkez açmak üzere yatırım izni almış yatırımcıların merkez açılıncaya kadar yapacakları başvuru işlemleri, ünite kurulması işlemleri, diyaliz hizmetleri izlem, denetim ve değerlendirmeleri ile merkezlerin cihaz artırımı konusunun değerlendirilmesi için müdürlük nezdinde Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu oluşturulur.
-
-(2) Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu, il sağlık müdürü veya görevlendireceği ilgili başkanın başkanlığında; ilgili başkan yardımcısı, kamu kurumlarına ait hastaneler bünyesinde çalışan iki nefroloji uzmanı yoksa (Değişik ibare:RG-10/12/2022-32039) uzman tabip ya da en fazla biri sertifikalı pratisyen tabip olmak üzere toplam dört kişiden oluşur. Bu komisyon en az iki üye ve başkanın katılımı ile toplanır ve katılanların salt çoğunluğu ile karar alır. Oyların eşitliği halinde başkanın oyu yönünde karar verilmiş sayılır. Başkan oyunu en son açıklar. Diyaliz merkezleri/üniteleri ile ilgili yeni açılma, tadilat ya da proje değişikliği gibi görev alanları ile ilgili konularda müdürlükten yoksa il çevre ve şehircilik müdürlüğünden bir mühendis veya mimar komisyona dâhil edilir. Bu komisyona gerektiğinde müdürlüğün daveti veya Bakanlıkça re’sen Diyaliz Bilimsel Danışma Komisyonu üyesi katılabilir.
-
-(3) O il sınırları içerisinde kamu kurumlarına ait hastaneler bünyesinde çalışan nefroloji uzmanı veya (Mülga ibare:RG-10/12/2022-32039) uzman tabip yok ise bir başka ildeki kamu kurumlarına ait hastaneler bünyesinde çalışan aynı nitelikteki tabipler görevlendirilebilir.
-
-### ÜÇÜNCÜ BÖLÜM
-
-Diyaliz Merkezlerinin ve Ünitelerin Kurulması, Planlanması ve Cihaz Artırımı
-
-#### Merkezlerin ve ünitelerin kurulması ve planlanması
-
-**MADDE 9 –** (1) Merkezler, üniversiteler, kamu kurum ve kuruluşları ile gerçek ve özel hukuk tüzel kişileri tarafından, sadece diyaliz uygulamak amacıyla ayrı bir merkez olarak kurulabileceği gibi bunlara ait olan hastane ve tıp merkezleri bünyesinde ayrı bir bölüm olarak da kurulabilir.
-
-(2) Merkez açılacak ilin demografik yapısı, son dönem böbrek yetmezlikli hastaların bölgesel dağılımı, kurulu tüm cihazlar ve diğer epidemiyolojik özellikleri dikkate alınarak, ülke genelinde planlama yapılır. Bu planlamada, kaynakların etkin kullanımına ve atıl kapasiteye yol açılmamasına dikkat edilir. Diyaliz hizmetlerinin değerlendirilmesi açısından Bakanlıkça iller bir veya birden fazla bölge olarak belirlenerek ilan edilir. Bakanlıkça diyaliz hizmet bölgeleri, iki yılda bir Kasım ve Aralık ayı içerisinde yeniden gözden geçirilir. Bu gözden geçirmelerde, bölgelendirme ile ilgili değişiklik önerileri altı ay öncesinden müdürlükten alınır. Değişiklik talepleri, Diyaliz Bilimsel Danışma Komisyonunun görüşü de alınarak Bakanlıkça değerlendirilir. Bu süre içerisinde, il bazında öngörülemeyen sebeplerle yeni ihtiyaç doğması durumunda, kurulacak komisyonlarca hazırlanan raporlar, Valilik tarafından Bakanlığa gerekçeleri ile birlikte bildirilir. Değerlendirme sonucu bölgelendirmede yapılacak değişiklikler Bakanlık internet sitesinde ilan edilir. Bakanlıkça, Ekim ayı sonu verileri dikkate alınarak her yıl Kasım ve Aralık ayında bir sonraki yılın planlaması yapılarak ülke genelinde yeni merkez açılmasına ihtiyaç duyulan hizmet bölgeleri ve ihtiyaç kapasitesi belirlenerek Bakanlık internet sitesinde ilan edilir.
-
-(3) Bir bölgede yeni bir merkez açabilmek için o bölgenin hedef doluluk oranı hemodiyaliz cihazı başına düşen hasta sayısı (hasta/cihaz oranının) beş veya üstü olarak kabul edilir. Bölgedeki toplam hasta/cihaz oranı bu sayının altında ise yeni merkez açılmasına izin verilmez. Bölgede hasta/cihaz oranı beşin üzerinde ise öncelikle cihaz artırım talepleri değerlendirmeye alınır. Cihaz artırım talebi olmazsa merkez açma talebi dikkate alınır. Ancak bu orana; hepatitli hasta ve bunlar için kullanılan cihazlar, hastanelerin rutin hemodiyaliz hizmeti dışındaki acil hizmetler için kullandıkları cihazlar, Bakanlıkça yetkilendirilmiş kamuya ait Bakanlıkça yetkilendirilmiş diyaliz eğitim merkezleri ile (Danıştay Onuncu Dairesinin 17/10/2023 tarihli ve E.:2019/7873; K.:2023/5660 sayılı kararı ile iptal ibare; nefroloji yan dal eğitimi olan devlet üniversiteleri) ve eğitim araştırma hastaneleri toplam yirmi beş cihaz sayısına ulaşana kadar, altıncı fıkrada bahsedilen ünitelerdeki hasta ve cihazlar dâhil edilmez.
-
-(4) Yeni açılacak merkezin cihaz sayısı başlangıçta, on beşten az, yirmi beşten fazla olamaz.
-
-(5) Akut ve/veya acil durumlarda, planlamadan istisna olarak kullanılabilecek hemodiyaliz cihazı ilgili olarak;
-
-a) Yatak sayısı en az elli olan hastaneler bünyesinde en fazla iki hemodiyaliz cihazı bulundurulabilir.
-
-b) Daha fazla cihaz gerekliliğinin ortaya çıkması halinde, ek cihaz talepleri, yoğun bakım sayısı, yatak sayısı, yatan hasta sayısı, yapılan ameliyatların niteliği gibi hususlar göz önünde bulundurularak Bakanlıkça değerlendirilir.
-
-c) Akut ve/veya acil durumlarda kullanılan hemodiyaliz ve hemodiyafiltrasyon cihazları müdürlük tarafından kayıt altına alınır ve kullanılan su numune kontrolleri yapılır.
-
-ç) Bu cihazlar, ilgili uzman tabip nezaretinde diyaliz teknikeri veya sertifikalı hemşire tarafından kullanılır.
-
-(6) (Değişik:RG-10/12/2022-32039) Halkın ihtiyaç duyacağı zorunlu sağlık hizmetlerinin yerinde, en çabuk ve kolay ulaştırılmasının sağlanması kamuya ait sağlık kurumlarının öncelikli görevi olması diyaliz alanında hizmet verecek uzman tabipler dikkate alınarak;
-
-a) Merkez bulunmayan kamuya ait hastaneler bünyesinde,
-
-b) Nefroloji uzmanı bulunan devlet üniversitesi hastaneleri veya eğitim ve araştırma hastaneleri bünyesinde,
-
-Bakanlıktan izin almak kaydı ile planlamadan muaf olarak en fazla on cihaz kapasitesinde üniteler kurulabilir. İl bazında yeni ünite kurulması ihtiyacı olması durumunda talepler, Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu tarafından değerlendirilir, komisyonca hazırlanan rapor gerekçeleri ile birlikte müdürlük tarafından Bakanlığa gönderilir. Bakanlıkça uygun bulunarak izin belgesi verilen ünitelerin ruhsatlandırma işlemleri müdürlükçe yürütülür. (a) bendi kapsamında kurulan ünite müdürlüğün uygun gördüğü kamuya ait bir diyaliz merkezine tıbbi işleyiş açısından bağlı olarak, kurulan hastanenin başhekiminin görevlendireceği sertifikalı bir hekim, sertifikalı hekim bulunmaması durumunda, hastanede görevli herhangi bir hekimin gözetiminde, (b) bendi kapsamında kurulan ünitede, ilgili klinik yetkilisi sorumluluğunda, beş cihaza kadar en az bir diyaliz teknikeri veya sertifikalı hemşire ile diyaliz hizmeti verilebilir. Ünitelerde her tedavi seansında beş hastaya kadar en az bir; daha sonraki her beş hasta için ilâve bir diyaliz teknikeri veya sertifikalı hemşire bulunur. Diyaliz tedavisi gören her hastanın ayda en az bir defa uzman tabip değerlendirmesi yapılır. Bu ünitelerin durumları ile ilgili bilgiler, düzenli olarak TÜRKDİVES’e girilir. Üniteler bünyesinde bulundukları hastanelerin Bakanlıkça belirlenen bölgeler içinde taşınması ve/veya başka bir hastane ile birleşmesi durumunda taşınabilir ve/veya birleşebilir. Birleşme durumunda ünite kapasitesi, birleşilen hastanedeki merkez veya ünite kapasitesine ilave edilir. On cihazın altında kapasite ile kurulan ünitelerde, ünitenin hasta cihaz oranının dört ve üstü olması durumu gibi zaman içerisinde ihtiyaç doğması halinde kaynak israfı ve atıl kapasiteye neden olmayacak şekilde (a) bendi kapsamında kurulan ünitelerde planlamadan muaf olarak cihaz sayısı 10’a ulaşana kadar, (b) bendi kapsamında kurulan ünitelerde ise cihaz sayısı 25’e ulaşana kadar cihaz artırımı ilin Diyaliz Hizmetleri, İzlem, Denetim ve Değerlendirme Komisyonu onayı ile yapılabilir. Üniteler, cihaz sayısının 10’a ulaşması ve hemodiyaliz cihazı başına düşen hasta sayısının dört ve üstü olması durumunda üç yıl içerisinde merkeze dönüştürülerek merkez olarak ruhsatlandırılır. Bu Yönetmeliğin yürürlüğe girdiği tarihten önce planlamadan muaf olarak açılan üniteler de bu madde kapsamında değerlendirilir.
-
-(7) İlde HCV (+) ve/veya HBsAg (+) hastaların olası mağduriyetlerinin engellenmesi açısından müdürlük hemodiyaliz yapan merkezlere/ünitelere seropozitif cihazları bulundurma zorunluluğu getirebilir.
-
-(8) Periton diyalizi uygulamaları planlamadan muaftır.
-
-(9) Ruhsatlandırılan özel merkezlere uzman tabip ve tabip kadrosu ilavesi de planlamaya tabidir.
-
-a) Merkezin cihaz sayısı, seans sayısı ve ildeki aktif çalışan tabip sayısı, merkezde uygulanan diyaliz yöntemi dikkate alınarak Müdürlüğün teklifi üzerine merkeze Bakanlıkça ilave kadro tahsisi yapılabilir.
-
-b) Merkezde kısmî zamanlı çalışan uzman tabip ve tabipler merkezin tabip kadrosuna dâhil edilmez.
-
-c) Merkezden ayrılan kadrolu uzman tabip ve tabip yerine aynı statüde uzman tabip ve tabip başlatılabilir.
-
-ç) Emekli olan ve 60 yaşını dolduran tabipler diyaliz merkezlerinde kadrodışı geçici çalışabilirler.
-
-(10) Deprem, göç, savaş, terör gibi olağandışı mücbir sebebler ve taşınma veya birleşme gibi kamu hastanelerine özgü sebepler ile Bakanlık ilgili illerde özel planlama yapabilir.
-
-(11) (Ek:RG-10/12/2022-32039) Kaynakların etkin kullanımı ve atıl kapasiteye yol açılmaması için üç yıl boyunca hasta/cihaz oranı 3’ün altında olan merkezin cihaz sayısı müdürlüğün teklifi üzerine Bakanlıkça azaltılabilir.
-
-#### Yatırım izni
-
-**MADDE 10 –** (1) 9 uncu maddeye uygun olmak kaydıyla merkez açmak isteyenler öncelikle Bakanlıktan bu madde kapsamında yatırım izni alır. Planlama kapsamında yeni merkez açılmasına ihtiyaç duyulan hizmet bölgeleri ve ihtiyaç kapasitesine göre Bakanlıkça ilan edilen yerler için merkez açma talebinde bulunanlar müdürlük aracılığı ile Bakanlığa müracaat ederler. Özel merkez başvurularında aşağıdaki belgelerin aslı veya müdürlük tasdikli sureti istenir:
-
-a) Kurulacak merkezin kapasite durumuna göre ekonomik ve mali yeterliliğinin olduğunu gösteren belgeler,
-
-b) Hak sahipliğini başkasına devretmeyeceğine dair taahhütname,
-
-c) Yatırım izninin alındığı tarihten itibaren, bir yıl içinde merkez ruhsatnamesi alarak işletmeye başlayacağına; ayrıca, merkezi açtıktan sonra işletme hakkını bir yıl süreyle başkasına devretmeyeceğine dair taahhütname,
-
-ç) Yapılacak ilanda belirtilen diğer belgeler.
-
-(2) Aynı bölgede birden fazla yeni merkez açma başvurusu yapılması durumunda öncelik sırası şu şekilde belirlenir:
-
-a) Kamu kurum ve kuruluşlarına bağlı Devlet hastaneleri ile eğitim ve araştırma hastaneleri bünyesinde kurulacak merkezler,
-
-b) Devlet üniversite hastaneleri bünyesinde kurulacak merkezler,
-
-c) Vakıf üniversite hastaneleri bünyesinde kurulacak merkezler,
-
-ç) Bölgede kendisine ait daha önceden açılmış bir diyaliz merkezi olmayanlar,
-
-d) Müstakil binada kurulacak olanlar.
-
-(3) İkinci fıkradaki sıralamaya göre aynı önceliğe sahip birden fazla müracaat olması halinde, müracaat edenler arasında noter huzurunda kura çekilerek hak sahibi belirlenir.
-
-(4) Değerlendirme sonucu hak sahibi olanlar en geç altı ay içerisinde merkez kurmak üzere inşaata başlar ve bir yıl içerisinde merkezi hasta kabulüne hazır hale getirir. Bir yılın sonunda merkezin hasta kabulüne hazır hale getirilememesi durumunda, toplam yatırım maliyetinin %50’nin üzerinde gerçekleşmişse müdürlük tarafından dört aylık ek süre verilebilir. Verilen ek süreye rağmen şartları yerine getirmeyen başvuru sahibi ülke genelinde beş yıl süreyle merkez açmak için tekrar başvuruda bulunamaz. Merkez açmak için başvuranlara müdürlükçe bu madde hükümleri hakkında ayrıca yazılı bilgilendirme yapılır. Hak sahibinin, verilen sürelerde merkezi açmayacağı veya açamayacağının tespit edilmesi halinde bir ay içerisinde yeni hak sahibi belirleme işlemleri başlatılır.
-
-(5) Özel hastaneler ve tıp merkezleri bünyesinde açılacak merkezlerin öncelikle kendi ruhsatlandırma mevzuatına uygunluğu aranır. İlgili mevzuatına göre bünyesinde merkez açabilecek olanların işlemleri bu Yönetmelik hükümlerine göre yapılır. Bu şekilde açılacak merkezler bakımından sağlık kuruluşunun Bakanlıkça onaylanan ön izin projesinde diyaliz merkezi yeri gösterilmiş olması 9 uncu madde kapsamında yapılacak planlamadan istisna bir hak vermez.
-
-(6) Kamu kurum ve kuruluşlarına merkez ön izin belgesi Bakanlıkça verilir.
-
-#### Klinik konukevi ve konaklama tesislerinde açılacak diyaliz merkezleri
-
-**MADDE 11 –** (1) 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliğinin Ek 9 uncu ve Ek 10 uncu maddeleri ile 15/2/2008 tarihli ve 26788 sayılı Resmî Gazete’de yayımlanan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin Ek 2 nci maddesi kapsamında klinik konukevi ve konaklama tesislerinde kurulacak diyaliz merkezleri;
-
-a) Planlamadan istisna olarak bir diyaliz merkezine bağlı veya müstakilen açılabilir. Merkezin cihaz sayısı işletenin talebi de dikkate alınarak müdürlüğün teklifi üzerine Bakanlıkça belirlenir.
-
-b) Faaliyet ve personel durumu bakımından bu Yönetmelikteki şartları taşır. Aynı ilde olmak kaydıyla bir diyaliz merkezine bağlı olarak faaliyet gösterecek merkezin mesul müdürü aynı kişi olabilir.
-
-c) Acil durumlarda hastalarını transfer edebileceği bir hastaneden hizmet satın alır veya protokol yapar. Buna dair belgeler müdürlüğe ibraz edilir.
-
-ç) Münhasıran klinik konukevi ve konaklama tesisinde konaklayan diyaliz hastalarına hizmet verir.
-
-d) Baktıkları diyaliz hasta sayılarını her yıl sonunda geldikleri ülke veya ili belirtmek kaydıyla müdürlüğe bildirmek zorundadırlar. Bu hastalar epikrizle merkeze kabul edilir ve tedaviden sonra da epikriz verilir. Bu epikrizin bir nüshası hasta dosyasında saklanır.
-
-(2) Bu maddede hüküm bulunmayan hallerde ilgili mevzuat hükümleri uygulanır.
-
-#### Merkezlerin taşınması, birleşmesi, devri ve askıya alma
-
-**MADDE 12 –** (1) Bakanlıkça belirlenen bölgeler içinde merkezlerin mevcut cihaz kapasiteleri ile taşınma veya birleşmeleri planlama kapsamı dışında tutulur. Taşınma ve birleşme müdürlük izni ile yapılır. Bu birleşmelerde toplam cihaz sayısı altmışı geçemez. Bölge dışına taşınma ve birleşmeler ise planlama hükümlerine tabidir. Hemodiyaliz merkezlerine, birleşme ve taşınma durumlarında tadilat, inşaat ve alt yapının hazırlanması gibi işlemler için müdürlük tarafından en fazla altı aylık süre verilir.
-
-(2) Merkezlerin devri mümkündür. Devirde merkezi devir alan ve devir eden gerçek veya tüzel kişiler arasında merkezin devrine ilişkin yapılacak sözleşme örneği ile devir alana ait belgeler müdürlüğe ibraz edilir. Müdürlükçe devir alan adına yeni ruhsatname ve faaliyet izni belgesi düzenlenir.
-
-(3) Personel eksikliği, tadilat, ekonomik ve benzeri sebeplerle işletenin kendi talebi ile merkezin faaliyetini askıya alma talebi halinde müdürlükçe en fazla altı aylık süre ile faaliyet izni askıya alınabilir. Bu durumda, hastaların mağdur edilmemesi için müdürlükçe gerekli tedbirler alınır. Süre sonunda faaliyetine başlamayan merkezin ruhsat ve faaliyet izin belgesi iptal edilir.
-
-(4) Aynı diyaliz hizmet bölgesi içerisinde bulunan diyaliz merkezleri kendi aralarında cihaz devri yapabilir. Ancak cihaz devreden merkez onbeş cihazın altına düşemez ve beş yıl süre ile planlamadan cihaz artırımı talebinde bulunamaz.
-
-#### Tatil diyalizi
-
-**MADDE 13 –** (1) Merkezler/üniteler diyaliz hastalarına tatil dönemi olarak kabul edilen Haziran ayından başlayarak Ekim ayı sonuna kadar, su sistemi kapasitelerinin yeterli olması ve Yönetmeliğin 17 nci maddesinin birinci fıkrasının (ç) bendine uygun olması kaydıyla merkeze/üniteye 15 inci maddenin üçüncü fıkrasına uygun cihaz eklemek suretiyle hizmet verebilir. Tatil diyalizi için cihaz artırmadaki bölgesel hedef doluluk oranı üç olarak kabul edilir.
-
-(2) Bu durumdaki merkezler/üniteler için her tedavi seansı için bulundurulması gereken 22 nci maddedeki personel şartına uygunluk aranır. Merkez/ünite, bu durumu bir dilekçe ile müdürlüğe bildirmekle yükümlüdür.
-
-(3) Bu maddeye göre faaliyet gösterecek merkez/ünite, faaliyet izin belgesi yenilenmeden faaliyetine devam eder.
-
-(4) Tatil diyalizi kapsamında olan iller Bakanlıkça belirlenerek, Bakanlık internet sayfasında duyurulur.
+**MADDE 5 –** (1) Merkezler, üniversiteler, kamu kurum ve kuruluşları ile gerçek kişiler veya özel hukuk tüzel kişileri tarafından, sadece diyaliz uygulamak amacıyla müstakilen kurulabileceği gibi bunlara ait olan hastanede ayrı bir bölüm olarak da kurulabilir.
 
 #### Ev hemodiyalizi ve merkezde uzun süreli diyaliz
 
-**MADDE 14 –** (1) Müdürlük tarafından ev hemodiyalizi uygulama izni verilen Merkezler, hastanın talebi ve yazılı onayı ile tıbbi kontrollerini de yapmak kaydıyla hastanın evinde diyaliz uygulamasını yapabilir. Bu uygulama için her hastaya bir cihaz tahsis edilir. Ev hemodiyalizi uygulamasının esas ve usulleri Bakanlıkça belirlenerek yayımlanır.
+**MADDE 6 –** (1) Müdürlük tarafından ev hemodiyalizi uygulama izni verilen merkezler, hastanın talebi ve yazılı onayı ile tıbbi kontrollerini de yapmak kaydıyla hastanın evinde diyaliz uygulamasını yapabilir. Bu uygulama için her hastaya bir cihaz tahsis edilir. Ev hemodiyalizi uygulamasının usul ve esasları, Bakanlıkça belirlenir.
 
-(2) Müdürlük tarafından merkezde uzun süreli hemodiyaliz uygulama izni verilen Merkezler, hastanın talebi ve yazılı onayı ile tıbbi kontrollerini de yapmak ve merkezde yedi saatten az olmamak kaydı ile uzun süreli diyaliz yapabilir. Merkezde uzun süreli diyaliz uygulamasının esas ve usulleri Bakanlıkça belirlenerek yayımlanır.
+(2) Müdürlük tarafından merkezde uzun süreli hemodiyaliz uygulama izni verilen merkezler, hastanın talebi ve yazılı onayı ile tıbbi kontrollerini de yapmak ve merkezde yedi saatten az olmamak kaydı ile uzun süreli diyaliz yapabilir. Merkezde uzun süreli diyaliz uygulamasının usul ve esasları, Bakanlıkça belirlenir.
 
-#### Merkezlerin cihaz arttırması
+#### Cihaz temini
 
-**MADDE 15 –** (1) Faaliyette olan merkezlerin hasta sayılarının artmasına paralel olarak cihaz arttırma gerekliliği ortaya çıkması halinde buna yönelik talepler Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu tarafından aşağıdaki kriterler esas alınarak değerlendirilir:
+**MADDE 7 –** (1) Planlama uygunluk belgesi alan merkezler aşağıdaki özellikleri taşıyan cihazları temin edebilir:
 
-a) Bir bölgede cihaz artırımı yapabilmek için o bölgenin hedef doluluk oranı hemodiyaliz cihazı başına düşen hasta sayısı (hasta/cihaz oranının) dört veya üstü olarak kabul edilir. Bölgedeki toplam hasta/cihaz oranları bu sayıların altında ise cihaz artırımına izin verilmez. Bu orana; hepatitli hasta ve cihazlar, hastanelerin rutin diyaliz hizmeti dışındaki acil hizmetler için kullandıkları cihazlar ile kamuya ait diyaliz eğitim merkezleri ile (Değişik ibare:RG-10/12/2022-32039) nefroloji uzmanı bulunan devlet üniversiteleri ve eğitim araştırma hastaneleri yirmibeş cihaz sayısına ulaşana kadar, Yönetmeliğin 9 uncu maddesinin altıncı fıkrasına uygun açılan üniteler on cihaz sayısına ulaşana kadar hasta ve cihaz dâhil edilmez.
-
-b) Cihaz artırımı için hedef doluluk oranları yukarıda belirtilen değerlerin üzerinde ise bölge toplamında artırılabilecek cihaz sayısı değerlendirmeye tabi tutularak altı ayda bir defa (her yıl Ocak ve Temmuz ayı içinde) müdürlük tarafından ilan edilir. Merkezler, ilanı takiben otuz gün içerisinde taleplerini müdürlüğe iletir, müdürlük de bu talepleri başvuru bitiminden sonra otuz gün içinde bu Yönetmelik kapsamında değerlendirerek sonuçlandırır.
-
-c) Cihaz artırımı başvurusunda bulunan merkeze bir defasında en fazla beş olmak üzere cihaz arttırma izni verilir. Cihaz artırımları en fazla altmışa kadar yapılabilir. Altmışın üzerinde cihazı bulunan mevcut merkezlere cihaz artırma izni verilmez. Bir bölgede birden fazla sayıda cihaz artırım başvurusu olması durumunda sırasıyla devlet hastaneleri, eğitim araştırma hastaneleri, devlet üniversiteleri, vakıf üniversiteleri, gerçek ve tüzel kişiliklere ait diyaliz merkezlerinin talepleri aşağıda belirtilen öncelik sırasına göre değerlendirilir:
-
-1) Yirmi beşten az olmak kaydıyla cihaz sayısı düşük olan merkez,
-
-2) Cihaz sayısı yirmi beş ve yirmi beşten fazla olmak kaydıyla hasta/cihaz oranı yüksek merkez,
-
-3) Daha önce cihaz artırımı yapmamış merkez,
-
-4) Müstakil binada kurulu merkez.
-
-(2) Birinci fıkradaki sıralamaya göre aynı önceliğe sahip birden fazla müracaat olması halinde, müracaat edenler arasında en fazla önceliğe sahip olmak tercih sebebidir. Aynı sayıda önceliğe sahip olanlar arasında noter huzurunda kura çekilerek hak sahibi belirlenir.
-
-(3) Cihaz artırımı izni alan merkezler aşağıdaki özellikleri taşıyan cihazları ekleyebilir:
-
-a) İlgili mevzuata ve alınacağı tarihteki standartlara uygun üretilmiş, orijin ülkede kullanımı devam eden ve üretici veya yetkili temsilci firma tarafından performans yeterliliği kanıtlanmış olan cihazlar,
+a) İlgili mevzuata ve alınacağı tarihteki standartlara uygun üretilmiş, orijin ülkede kullanımı devam eden ve üretici veya yetkili temsilci firma tarafından performans yeterliliği kanıtlanmış olan cihazlar.
 
 b) İkinci el cihazlar için on yaşını geçmemiş olan cihazlar.
 
-#### Bina durumu
+#### Fiziki şartlar
 
-**MADDE 16 –** (1) Merkezler/üniteler;
+**MADDE 8 –** (1) Merkezler/üniteler hastane bünyesinde ve ilgili mevzuat hükümlerine göre yapı kullanma izni almış binalarda kurulur. Merkezler ve ünitelerde diyaliz tedavi salonları bodrum katında bulunamaz. Binanın merkez/ünite olarak kullanılan kısımlarında, laboratuvar dışında başka amaçlı oda veya birimler bulunamaz.
 
-a) Hastane ve tıp merkezi bünyesinde,
+(2) Ruhsatname alındıktan sonra binada esasa yönelik kapsamlı değişiklikler ve tadilatlar, tadilata başlamadan önce tadilat projesinin Bakanlıkça onaylanması ile başlar. Binada statiği etkileyen esaslı tadilat yapılmışsa yangına ve depreme uygunluk açısından ilgili kurumlardan alınan belgelerin ibrazı gerekir.
 
-b) İmar mevzuatı hükümlerine göre yapı kullanma izni almış ve müstakil olarak bu işe ayrılmış binalarda,
-
-c) Kat mülkiyeti ve ilgili diğer mevzuatına göre gerekli izinleri alınmış, çok katlı binaların ayrı girişi olan müstakil bölümlerinde,
-
-kurulur. Merkezler ve ünitelerde diyaliz tedavi salonları bodrum katında bulunamaz. Binanın merkez/ünite olarak kullanılan kısımlarında, laboratuvar dışında başka amaçlı oda veya birimler bulunamaz.
-
-(2) Merkezin/ünitenin bulunduğu bina için birinci fıkrada belirtilen yapı kullanma izin belgesinin yanında;
-
-a) Çok katlı binalarda faaliyette olan merkezlerde/ünitelerde, giriş katı haricindeki katlarda da hasta tedavi ve kullanım alanı mevcut ise sedye/katlanabilir sedye taşımaya müsait ve merkezin/ünitenin jeneratörüne bağlı olan asansör,
-
-b) Yangına karşı güvenlik tedbirlerinin alındığını gösteren ve yetkili merciden verilen rapor,
-
-c) Merkezin/ünitenin, sıcak mevsimlerde uygun klima sistemiyle soğutulmasını, merkezî veya kat kaloriferi sistemi ile ısıtılmasını sağlayacak sistemi,
-
-ç) Merkezlerde/ünitelerde, elektrik kesilmesi halinde en kısa süre içinde otomatik olarak devreye girebilecek ve elektrik projesinde hesaplanan kurulu gücün en az % 70’i oranında uygun güç ve nitelikte bir jeneratör,
-
-bulunur.
-
-(3) Ruhsatname alındıktan sonra binada esasa yönelik değişiklikler, ancak müdürlüğün izni ile yapılabilir.
+(3) Bakanlıkça ruhsatlandırılmış binalarında imar mevzuatına uygun olarak taşıyıcı unsuru etkilemeyen tadilat ve tamirat gibi işlerin yapılmak istenmesi halinde, binanın kullanımına izin verilen toplam brüt alanını değiştirmemek ve gerektiğinde yangın ile deprem yönünden uygunluğunun da sağlanması kaydıyla ilgili belediyeden proje onayı aranmaksızın Bakanlığın izni alınarak ruhsata esas son proje üzerinde değişiklik yapılmasına izin verilir.
 
 #### Merkezin ve ünitenin bölümleri
 
-**MADDE 17 –** (1) Hemodiyaliz uygulaması yapılacak merkezlerde/ünitelerde, aşağıda belirtilen bölümler bulunur:
+**MADDE 9 –** (1) Merkezlerde ve ünitelerde, sunulacak hizmetin niteliğine uygun olarak EK-7’de belirtilen asgari fiziki şartların ve bölümlerin bulunması zorunludur.
 
-a) Toplam alanı en az yirmi metrekare olan hasta kabul ve dinlenme bölümü,
+#### Merkezde/ünitede bulunması gerekli cihaz, tıbbi donanım, araç ve gereçler
 
-b) Kadın ve erkek hastalar için ayrı olmak üzere hasta giyinme ve soyunma bölümü ile cihaz sayısı kadar hasta dolapları ile personel giyinme dolapları,
+**MADDE 10 –** (1) Merkezlerde ve ünitelerde bulundurulacak tıbbi cihaz, donanım, araç ve gereçlerin asgari sayıları ve türleri EK-8’de yer alır.
 
-c) Su sistemi odası,
+(2) Merkez/ünite, sodyum ve potasyum seviyesi bakmak için iyonometri cihazı bulundurmak zorundadır.
 
-ç) Yatak başına en az yedi metrekare düşecek şekilde diyaliz alanları; HBs Ag (+) hastalar için ayrı bir bölüm ve ayrı cihaz, HCV (+) hastalar için ayrı cihazlar,
+(3) Müstakil diyaliz merkezleri, 8/1/2025 tarihli ve 32776 sayılı Resmî Gazete’de yayımlanan Ambulanslar ve Acil Sağlık Araçları ile Ambulans Hizmetleri Yönetmeliğine uygun olarak hasta naklinde kullanılmak üzere ambulans bulundurabilir.
 
-d) Acil bakım ve tedavi odası,
+(4) Merkez/ünite sadece diyaliz hastalarına yönelik olmak ve EK-3’teki tetkikleri yapmak üzere ilgili mevzuat uyarınca ruhsatlandırılmış bir laboratuvar kurar veya bu nitelikleri haiz bir laboratuvar ile anlaşır.
 
-e) İdarî oda ve büro,
+(5) Merkezde/ünitede bulundurulması zorunlu ilaçlar ve asgarî/azami miktarları, EK-6’da yer alır. EK-6’da gösterilen etken maddenin bulundurulacak asgari ve azami mg miktarı, cc miktarı veya kutu adedi ya da aynı etkiye sahip başka muadil etken maddeleri belirtilen miktarlarda bulundurulabilir.
 
-f) Kadın ve erkek hastalar için ayrı olmak üzere özürlülerin de yararlanabileceği şekilde düzenlenmiş, kapısı dışarı doğru açılan en az iki adet hasta tuvaleti ve iki adet lavabo; personel için ayrı bir tuvalet ve lavabo,
+(6) İlde HCV(+) ve HBsAg(+) hastaların olası mağduriyetlerinin engellenmesi açısından gereklilik halinde müdürlük hemodiyaliz yapan merkezlere/ünitelere seropozitif cihazları bulundurma zorunluluğu getirebilir.
 
-g) Depo olarak kullanılabilecek uygun bir alan.
+### ÜÇÜNCÜ BÖLÜM
 
-(2) Periton diyalizi uygulanacak merkezlerde, aşağıda belirtilen bölümler bulunur:
+Diyaliz Merkezlerinin ve Ünitelerinin Planlanması ve Ruhsatlandırılması
 
-a) Toplam olarak en az on beş metrekare alana sahip hasta kabul ve dinlenme bölümü,
+#### Planlama
 
-b) Toplam olarak en az dokuz metrekare alana sahip hasta eğitimi odası,
+**MADDE 11 –** (1) Merkez açılacak ilin demografik yapısı, son dönem böbrek yetmezliği olan hastaların bölgesel dağılımı, kurulu tüm cihazlar ve diğer epidemiyolojik özellikler dikkate alınarak ülke genelinde planlama yapılır. Bu planlamada, kaynakların etkin kullanımına ve atıl kapasiteye yol açılmamasına dikkat edilir. Diyaliz hizmetlerinin değerlendirilmesi açısından Bakanlıkça iller bir veya birden fazla bölge olarak belirlenerek ilan edilir. Bakanlıkça diyaliz hizmet bölgeleri, iki yılda bir yeniden gözden geçirilir. Bu gözden geçirmelerde, bölgelendirme ile ilgili değişiklik önerileri altı ay öncesinden müdürlük tarafından Bakanlığa iletilir. Değişiklik talepleri Bakanlıkça değerlendirilir. Bu süre içerisinde, il bazında öngörülemeyen sebeplerle yeni ihtiyaç doğması durumunda, kurulacak komisyonlarca hazırlanan raporlar, Valilik tarafından Bakanlığa gerekçeleri ile birlikte bildirilir. Değerlendirme sonucu bölgelendirmede yapılacak değişiklikler, Bakanlık internet sitesinde ilan edilir.
 
-c) Toplam olarak en az on iki metrekare alana sahip ve lavabosu bulunan tıbbî bakım ve solüsyon değişimi odası,
+(2) Faaliyette olan merkezlerde cihaz artırımları ve bir bölgede yeni merkez açılması, Bakanlıkça hedef doluluk oranı dikkate alınarak her yıl ilan edilen planlama metni doğrultusunda gerçekleştirilir.
 
-ç) En az iki tuvalet,
+(3) Bölgenin hedef doluluk oranı dört veya üstü ise cihaz artırımı planlanır. Cihaz artırımı yapacak merkez bir defasında en fazla beş olmak üzere ve en fazla seksen cihaza kadar artırım yapabilir. Seksenin üzerinde cihazı bulunan mevcut merkezlere cihaz artırma izni verilmez.
 
-d) Depo olarak kullanılabilecek uygun bir alan.
+(4) Bölgenin hedef doluluk oranı beş veya üstü ise öncelikle cihaz artırımı planlaması yapılır. Cihaz artırımı ilanı sonrası ihtiyaç karşılanmaması durumunda yeni merkez planlaması yapılır. Hedef doluluk oranı beşin altında ise yeni merkez açılmasına izin verilmez.
 
-(3) Hastane veya tıp merkezi bünyesinde açılacak merkezde veya hemodiyaliz uygulaması ile periton diyalizinin birlikte yapılacağı merkezlerde ikinci fıkranın (a), (ç) ve (d) bentlerinde belirtilen bölümlerin bulunması istenmez.
+(5) Hedef doluluk oranı hesabına; hepatitli hasta ve kullandıkları cihazlar, hastanelerin rutin diyaliz hizmeti dışındaki acil hizmetler için kullandıkları cihazlar ile kamuya ait diyaliz eğitim merkezleri ile nefroloji uzmanı bulunan üniversiteler ve eğitim araştırma hastaneleri ve şehir hastaneleri yirmi beş cihaz sayısına ulaşana kadar, sekizinci fıkraya uygun açılan üniteler on cihaz sayısına ulaşana kadar hasta ve cihaz dâhil edilmez.
 
-#### Merkezde/ünitede bulunması gerekli cihaz, tıbbî donanım, araç ve gereçler
+(6) Yeni açılacak merkezin cihaz sayısı başlangıçta, on beşten az, yirmi beşten fazla olamaz. Mevcut diyaliz merkezleri için diyaliz cihazı ilavesine Bakanlık planlamaları kapsamında izin verilir.
 
-**MADDE 18 –** (1) Merkezlerde/ünitelerde aşağıdaki cihazlar, tıbbî donanım, araç ve gereçler bulundurulur:
+(7) Akut ve/veya acil durumlarda, planlamadan istisna olarak kullanılabilecek hemodiyaliz cihazı ile ilgili olarak aşağıdaki hususlar aranır:
 
-a) Hemodiyaliz uygulaması yapacak merkezler için ilgili mevzuata ve alınacağı tarihteki standartlara uygun üretilmiş, orijin ülkede kullanımı devam eden ve üretici veya yetkili temsilci firma tarafından performans yeterliliği kanıtlanmış olan, en az on beş hemodiyaliz cihazı; üniteler için en fazla on hemodiyaliz cihazı,
+a) Yatak sayısı en az elli olan hastaneler bünyesinde en fazla iki hemodiyaliz cihazı bulundurulabilir.
 
-1) Merkezler/üniteler olası cihaz arızalarında hastaların mağdur olmalarının önlenmesi açısından bir hemodiyaliz cihazını yedek olarak bulundurur. Cihaz sayısı yirmi beş ve üzeri olan merkezler ikinci bir yedek cihazı bulundurabilir.
+b) Organ nakli merkezi olan kurumlarda yatak sayısından bağımsız olarak talep durumunda en fazla iki tane daha ilave diyaliz cihazı verilebilir.
 
-2) Merkezlere/ünitelere alınacak ikinci el cihazlar on yaşını geçemez.
+c) Daha fazla cihaz gerekliliğinin ortaya çıkması halinde, ek cihaz talepleri, yoğun bakım sayısı, yatak sayısı, yatan hasta sayısı, yapılan ameliyatların niteliği gibi hususlar göz önünde bulundurularak Bakanlıkça değerlendirilir.
 
-b) Hemodiyaliz yapılacak merkezlerde/ünitelerde hemodiyaliz cihazları için su sistemi; kullanılan diyaliz cihazı sayısı ile orantılı kapasitede ve hemodiyaliz tedavisi için uygun suyu üreten; Bakanlıkça hazırlanan Diyaliz Su Arıtma Sistemi Rehberinde belirtilen kurallara uygun hemodiyaliz kum filtresi, aktif karbon filtresi, yumuşatıcı filtreler, mikropartikül tutucu, sterilizasyon amaçlı ultraviyole veya ultrafiltre sistemini de kapsayan reverse-ozmos sistemi,
+ç) Akut ve/veya acil durumlarda kullanılan hemodiyaliz ve hemodiyafiltrasyon cihazları müdürlük tarafından kayıt altına alınır ve kullanılan su numune kontrolleri yapılır.
 
-c) Hemodiyaliz yapılacak merkezlerde/ünitelerde kullanılan diyaliz cihazı sayısı kadar hareketli hasta yatağı veya koltuğu,
+d) Bu cihazlar, ilgili uzman tabip nezaretinde diyaliz teknikeri ve/veya sertifikalı hemşire tarafından kullanılır.
 
-ç) Periton diyalizi yapılacak merkezler en az bir adet aletli periton diyalizi cihazı, en az iki adet hasta yatağı veya koltuğu,
+(8) İhtiyaç duyulacak zorunlu sağlık hizmetlerinin yerinde, en hızlı ve kolay ulaştırılmasının sağlanması kamuya ait sağlık kurumlarının öncelikli görevi olması sebebiyle diyaliz alanında hizmet verecek uzman tabipler dikkate alınarak aşağıdaki hususları taşıması gerekir:
 
-d) Taşınabilir monitörlü elektrokardiyografi cihazı ve defibrilatör,
+a) Merkez bulunmayan kamuya ait hastaneler bünyesinde, Bakanlıktan izin almak kaydı ile planlamadan muaf olarak en fazla on cihaz kapasitesinde ünite kurulabilir.
 
-e) Ambu ve airway de içeren tam donanımlı acil müdahale kiti,
+b) Nefroloji uzmanı bulunan üniversite hastaneleri bünyesinde, Bakanlıktan izin almak kaydı ile planlamadan muaf olarak en fazla on cihaz kapasitesinde ünite kurulabilir.
 
-f) İhtiyaç anında birden fazla hastaya yetecek kapasitede olan oksijen desteği,
+c) (a) bendi kapsamında kurulan ünite müdürlüğün uygun gördüğü kamuya ait bir diyaliz merkezine tıbbi işleyiş açısından bağlı olarak, kurulan hastanenin başhekiminin görevlendireceği varsa nefroloji uzmanı, bulunmaması halinde sertifikalı bir uzman tabip, sertifikalı tabip bulunmaması durumunda, hastanede görevli herhangi bir uzman tabip gözetiminde faaliyet gösterir.
 
-g) Birisi enfekte hastalar için olmak üzere en az iki adet aspiratör,
+ç) (b) bendi kapsamında kurulan ünitede, ilgili klinik yetkilisi sorumluluğunda, beş cihaza kadar en az bir diyaliz teknikeri ve/veya sertifikalı hemşire ile diyaliz hizmeti verilebilir. Ünitelerde her tedavi seansında beş hastaya kadar en az bir; daha sonraki her beş hasta için ilave bir diyaliz teknikeri ve/veya sertifikalı hemşire bulunur.
 
-ğ) Hasta hassas tartı sistemi,
+d) Diyaliz tedavisi (hemodiyaliz, periton diyalizi, ev hemodiyalizi) gören her hasta ayda en az bir defa ilgili uzman tabibi (nefroloji uzmanı, diyaliz sertifikalı uzman tabip veya o ilde nefroloji uzmanı ve diyaliz sertifikalı uzman tabip yok ise uzman tabip) tarafından diyaliz tedavisi değerlendirmesi-muayenesi yapılır ve diyaliz uygulama protokolü ile diyaliz ilaç reçetesi yazılır.
 
-h) Yeterli havalandırma sistemi,
+e) Ünitelerin durumları ile ilgili bilgiler, düzenli olarak Bakanlık dijital kayıt sistemine girilir.
 
-ı) Hastalar ile ilgili tıbbî kayıtları tutacak bellek kapasitesinde ve internet bağlantısı olan bilgi işlem sistemi,
+f) Üniteler, bünyesinde bulundukları hastanelerin Bakanlıkça belirlenen bölgeler içinde taşınması ve/veya başka bir hastane ile birleşmesi durumunda taşınabilir ve/veya birleşebilir. Birleşme durumunda ünite kapasitesi, birleşilen hastanedeki merkez veya ünite kapasitesine ilave edilir.
 
-i) Hastane/tıp merkezi bünyesinde bulunmayan merkezler/üniteler için sterilizasyonun temini,
+g) Ünitenin hasta cihaz oranının dört ve üstü olması durumu gibi zaman içerisinde ihtiyaç doğması halinde kaynak israfı ve atıl kapasiteye neden olmayacak şekilde; (a) bendi kapsamında on cihazın altında kapasite ile kurulan ünitelerde planlamadan muaf olarak cihaz sayısı ona ulaşana kadar, (b) bendi kapsamında kurulan ünitelerde ise cihaz sayısı yirmi beşe ulaşana kadar cihaz artırımı ilin Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonun önerisi Bakanlığın planlamalar çerçevesinde değerlendirip onayı ile yapılabilir.
 
-j) Sedye/katlanabilir sedye ve tekerlekli sandalye.
+ğ) Üniteler, cihaz sayısının ona ulaşması ve hemodiyaliz cihazı başına düşen hasta sayısının dört ve üstü olması durumunda üç yıl içerisinde merkeze dönüştürülerek merkez olarak ruhsatlandırılır. Bu Yönetmeliğin yürürlüğe girdiği tarihten önce planlamadan muaf olarak açılan üniteler de bu madde kapsamında değerlendirilir.
 
-(2) Merkez/ünite, hastalarına acil durumlarda sodyum ve potasyum seviyesi bakmak için iyonometri cihazı, hastalarına acil durumda hizmet vermek üzere bir ambulans bulundurabilir.
+(9) Periton diyalizi uygulamaları planlamadan muaftır.
 
-(3) Merkez/ünite sadece diyaliz hastalarına yönelik olmak ve bu Yönetmeliğin eki Ek-3’teki tetkikleri yapmak üzere ilgili mevzuat uyarınca ruhsatlandırılmış bir laboratuvar kurar veya bu nitelikleri haiz bir laboratuvar ile anlaşır. Merkezin/ünitenin kendi bünyesinde kuracağı laboratuvar ile diyaliz hastaları haricindeki hastalara laboratuvar hizmeti vermek istemesi halinde müstakil girişli laboratuvar oluşturur ve diyaliz hastaları ile doğrudan teması engeller.
+(10) Deprem, göç, savaş, terör ve afet olayları gibi olağan dışı mücbir sebepler ve taşınma veya birleşme gibi kamu hastanelerine özgü sebepler ile Bakanlık ilgili illerde özel planlama yapabilir.
 
-(4) Merkezde/ünitede bulundurulması zorunlu ilaçlar ve asgarî miktarları bu Yönetmeliğin eki Ek-7’de gösterilmiştir. Bu Yönetmeliğin eki Ek-7’de gösterilen ilaçların yerine aynı bileşimde veya aynı etkiye sahip başka muadil ilaçlar bulundurulabilir.
+(11) Kaynakların etkin kullanımı ve âtıl kapasiteye yol açılmaması için üç yıl boyunca hasta/cihaz oranı üçün altında olan merkezin cihaz sayısı müdürlüğün teklifi üzerine Bakanlıkça azaltılabilir.
 
-### DÖRDÜNCÜ BÖLÜM
+#### Tatil diyalizi
 
-Diyaliz Merkezlerinin ve Ünitelerinin Ruhsatlandırılması
+**MADDE 12 –** (1) Merkez ve üniteler; su sistemi kapasitelerinin yeterli olması ve EK-7’nin ikinci maddesinin (ç) fıkrasına uyulması kaydıyla mayıs ayından başlayarak kasım ayı sonuna kadar 7 nci maddeye uygun şekilde cihaz artırabilir. Bu hâlde bölgesel hedef doluluk oranı üç kabul edilir.
+
+(2) Cihaz artırımı yapan merkez ve üniteler 18 inci maddede belirtilen personel sayısına uymak ve müdürlüğe bildirim yapmakla yükümlüdür.
+
+(3) Merkez ve üniteler, faaliyet izin belgesi yenilenmeden faaliyetine devam eder.
+
+(4) Tatil diyalizi kapsamında olan iller, Bakanlıkça belirlenerek Bakanlık internet sayfasında duyurulur.
 
 #### Başvuru ve ruhsata esas belgeler
 
-**MADDE 19 –** (1) Yatırım izni alan hak sahibi, merkez/ünite ruhsatlandırılması için aşağıdaki belgelerle müdürlüğe başvurur:
-
-a) Bakanlıktan alınan yatırım izin belgesi, üniteler için Bakanlıktan alınan izin belgesi,
-
-b) Özel merkezler için mesul müdüre ait belgeler;
-
-1) Merkezde mesul müdür olarak çalışacaklarına dair mesul müdürün adı, soyadı, T.C. Kimlik numarası ve mesul müdür sözleşmesi tarihinin yazılı beyanı,
-
-2) T.C. kimlik numarası beyanı,
-
-3) Diploması ve var ise uzmanlık belgesinin veya sertifikasının müdürlük tasdikli birer örneği,
-
-4) Başvuru sırasında son altı ay içinde ve tanınmasına engel olmayacak şekilde çekilmiş iki adet vesikalık fotoğrafı,
-
-5) Tabip odası kayıt belgesi,
-
-c) Merkezin/ünitenin her katı için ayrı olmak üzere mimar tarafından düzenlenmiş, yerleşim ve kullanım alanlarını gösteren 1/100 ölçekli planlar,
-
-ç) Merkezin/ünitenin kurulacağı binanın yapı kullanma izni belgesi,
-
-d) Yangına yönelik tedbirlerin alındığına dair yetkili merciden alınmış olan rapor,
-
-e) 18 inci maddede belirtilen asgari cihaz, araç ve gereçler için diyaliz merkezinin kullanım hakkı olduğunu gösteren belge ile merkez yetkilisi tarafından onaylanan cihaz listesi,
-
-f) Kurucu gerçek kişi ise, T.C. kimlik numarası beyanı; vakıf ise, vakıf senedinin ve ticaret sicil gazetesi kaydının; şirket ise, sermaye durumunun ve şirket ortaklarını da gösteren ticaret unvanı, kayıtlı olunan ticaret sicil memurluğunun adı ve ticaret sicil numarası beyanı (Şirketin kuruluş statüsünü ve son yönetimini gösterir Ticaret Sicil Gazetesi 1/10/2003 tarihinden önce yayınlanmışsa Ticaret Sicil Gazetesinin aslı veya müdürlükçe onaylı örneği).
+**MADDE 13 –** (1) Merkez veya ünite açmak ve ruhsatlandırmak amacıyla yapılacak başvurularda, EK-9’da yer alan belgelerle birlikte müdürlüğe müracaat edilir.
 
 #### Başvurunun değerlendirilmesi ve ruhsatlandırma
 
-**MADDE 20 –** (1) Başvuru; Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu tarafından öncelikle dosya üzerinden incelenir ve noksanlıklar var ise, başvuru sahibine yazı ile bildirilir. Başvuru dosyasında noksanlık yok ise komisyon üyelerinin tamamının iştirakı ile personel, bina, tıbbî donanım ve cihaz, araç ve gereçler ile Yönetmeliğin öngördüğü diğer hususlara uygunluk yönünden merkez/ünite yerinde incelenerek sonuçları bir rapor halinde müdürlüğe sunulur. Başvuru belgeleri noksan veya inceleme sonucunda durumu mevzuata uygun olmayan başvuru dosyası, ret gerekçeleriyle birlikte başvuru sahibine resmî bir yazı ile iade edilir.
+**MADDE 14 –** (1) Başvuru; Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu tarafından öncelikle dosya üzerinden incelenir ve noksanlıklar varsa başvuru sahibine yazı ile bildirilir. Başvuru dosyasında noksanlık yoksa komisyon üyelerinin tamamının iştiraki ile personel, bina, tıbbi donanım ve cihaz, araç ve gereçler ile bu Yönetmeliğin öngördüğü diğer hususlara uygunluk yönünden merkez/ünite yerinde incelenerek sonuçları bir rapor halinde müdürlüğe sunulur. Başvuru belgeleri noksan veya inceleme sonucunda durumu mevzuata uygun olmayan başvuru dosyası, ret gerekçeleriyle birlikte başvuru sahibine resmî yazıyla yedi iş günü içinde iade edilir.
 
-(2) Müdürlüğe yapılan başvuru üzerine gerekli işlemler, başvuru tarihinden itibaren en geç onbeş iş günü içerisinde sonuçlandırılır. Başvuru dosyası noksansız ve yerinde yapılan incelemede uygun görülen merkezler/üniteler için merkez/ünite sahibi adına, müdürlükçe bu Yönetmeliğin eki Ek-6’daki Diyaliz Merkezi/Ünitesi Ruhsatnamesi, mesul müdür adına Mesul Müdürlük Belgesi düzenlenir. Ruhsatnamenin müdürlük tasdikli bir örneği Bakanlığa gönderilir.
+(2) Müdürlüğe yapılan başvuru üzerine gerekli işlemler, başvuru tarihinden itibaren en geç on beş iş günü içerisinde sonuçlandırılır. Başvuru dosyası noksansız ve yerinde yapılan incelemede uygun görülenler için merkez/ünite sahibi adına, müdürlükçe EK-5’teki diyaliz merkezi/ünitesi ruhsatnamesi, mesul müdür adına mesul müdürlük belgesi düzenlenir. Ruhsatnamenin müdürlük tasdikli bir örneği, Bakanlığa gönderilir.
 
-(3) Ruhsatnamenin müdürlükçe düzenlendiği tarihten itibaren üç ay içerisinde faaliyet izni alarak faaliyete geçmeyen merkezin/ünitenin ruhsatnamesi müdürlükçe iptal edilir. Ruhsatnamede, merkezde/ünitede hemodiyaliz ve/veya periton diyalizi yapıldığı açıkça belirtilir. Merkez/ünite sahipliği, adres değişikliği ve merkezin/ünitenin kayıtlı cihaz kapasitesinin değiştirilmesi hallerinde, müdürlüğe sadece değişen hususlar ile ilgili belgeler sunulur ve yeni ruhsatname düzenlenir, değişen hususlarla ilgili yenilenen belgelerin müdürlük tasdikli bir örneği Bakanlığa gönderilir.
+(3) Ruhsatnamenin müdürlükçe düzenlendiği tarihten itibaren altı ay içerisinde faaliyet izni alarak faaliyete geçmeyen merkezin/ünitenin ruhsatnamesi müdürlükçe iptal edilir. Ruhsatnamede, merkezde/ünitede hemodiyaliz ve/veya periton diyalizi yapıldığı açıkça belirtilir. Merkez/ünite sahipliği, adres değişikliği ve merkezin/ünitenin kayıtlı cihaz kapasitesinin değiştirilmesi hallerinde, müdürlüğe sadece değişen hususlar ile ilgili belgeler sunulur ve yeni ruhsatname düzenlenir, değişen hususlarla ilgili yenilenen belgelerin müdürlük tasdikli bir örneği, Bakanlığa gönderilir.
 
-(4) Merkezin/ünitenin planlamaya uygun olarak başka bir yere nakli ve ruhsatında kayıtlı cihaz kapasitesinin artırılması durumlarında, komisyon tarafından yerinde inceleme yapılır ve yukarıdaki fıkralara göre ruhsatlandırma işlemleri yürütülür.
+(4) Merkezin/ünitenin planlamaya uygun olarak başka bir yere nakli ve ruhsatında kayıtlı cihaz kapasitesinin artırılması durumlarında, komisyon tarafından yerinde inceleme yapılır ve birinci, ikinci ve üçüncü fıkralara göre ruhsatlandırma işlemleri yürütülür.
 
 #### Faaliyet izni
 
-**MADDE 21 –** (1) Ruhsat alan merkez/ünite aşağıdaki belgelerle birlikte faaliyet izni için müdürlüğe başvurur:
+**MADDE 15 –** (1) Ruhsat alan merkez/ünite aşağıdaki belgelerle birlikte faaliyet izni için müdürlüğe başvurur:
 
-a) Diyaliz merkezinde/ünitesinde görev yapacak tüm personelin bu Yönetmelik uyarınca istenilen meslekî sertifikaları ile diplomalarının ve uzmanlık belgelerinin müdürlük tasdikli örnekleri; kamu kurum ve kuruluşlarından yapılan başvurularda ise, bu belgelerin kurum amirinden tasdikli örnekleri,
+a) Diyaliz merkezinde/ünitesinde görev yapacak tüm personelin bu Yönetmelik uyarınca istenilen meslekî sertifikaları ile diplomalarının ve uzmanlık belgelerinin müdürlük tasdikli örnekleri; kamu kurum ve kuruluşlarından yapılan başvurularda ise, bu belgelerin kurum amirinden tasdikli örnekleri.
 
-b) Nefroloji uzmanı veya (Mülga ibare:RG-10/12/2022-32039) uzman tabip, merkezin kadrosunda görev yapacak ise uzmanlık belgeleri veya sertifikaları, bu hizmet dışarıdan hizmet alımı ile gördürülecek ise hizmet alım sözleşmesi örneği veya kamu kurumları ile yapılacak protokol örneği,
+b) Nefroloji uzmanı veya sertifikalı uzman tabip veya uzman tabip merkezin kadrosunda görev yapacak ise uzmanlık belgeleri veya sertifikaları.
 
-c) Özel merkezde, görev yapacak personelin tamamı ile yapılan sözleşmeler,
+c) Özel merkezde, görev yapacak personelin tamamı ile yapılan sözleşmeler.
 
-ç) Hizmet alım yolu ile gördürülecek diğer hizmetlere ilişkin sözleşme örnekleri,
+ç) Hizmet alım yolu ile gördürülecek diğer hizmetlere ilişkin sözleşme örnekleri.
 
-d) Yeterli nitelikte ve kapasitedeki su sisteminin yaptığı arıtma sonrasında elde edilen suyun, bakteriyolojik ve kimyasal analiz sonuçlarının Avrupa Birliği Farmakopesisindeki standartlara uygun olduğunu gösterir belge,
+d) Yeterli nitelikte ve kapasitedeki su sisteminin yaptığı arıtma sonrasında elde edilen suyun, bakteriyolojik ve kimyasal analiz sonuçlarının Avrupa Farmakopesindeki standartlara uygun olduğunu gösterir belge.
 
 e) Merkezde/ünitede kullanılacak diyaliz cihazlarının marka, imâl tarihi, imâl edildiği ülkeyi belirten liste.
 
-(2) Başvuru dosyası müdürlükçe incelenir. Başvurunun uygun bulunması halinde müdürlükçe bu Yönetmeliğin eki Ek-6’daki “Faaliyet İzin Belgesi” yedi iş günü içinde düzenlenir ve bu belgenin verilmesi ile merkez/ünite hasta kabul ve tedavisine başlar. Faaliyet izin belgesinde merkezde/ünitede yapılacak hemodiyaliz ve/veya periton diyalizi uygulaması açıkça belirtilir.
+(2) Başvuru dosyası müdürlükçe incelenir. Başvurunun uygun bulunması halinde müdürlükçe EK-5’te yer alan diyaliz merkezi/ünitesi faaliyet izin belgesi on iş günü içinde düzenlenir ve bu belgenin verilmesi ile merkez/ünite hasta kabul ve tedavisine başlar. Faaliyet izin belgesinde, merkezde/ünitede yapılacak hemodiyaliz ve/veya periton diyalizi uygulaması açıkça belirtilir.
 
-(3) Özel merkezlerde görev yapacak tüm sağlık personeline mesul müdür tarafından hazırlanıp müdürlükçe onaylanacak bu Yönetmeliğin eki Ek-4’teki “Çalışma Belgesi” düzenlenir. Bu belge düzenlenmeden merkezde personel çalışamaz.
+(3) Özel merkezlerde görev yapacak tüm sağlık personeline mesul müdür tarafından hazırlanıp müdürlükçe onaylanacak EK-4’teki çalışma belgesi düzenlenir. Bu belge düzenlenmeden merkezde personel çalışamaz.
 
-### BEŞİNCİ BÖLÜM
+#### Ön izin
+
+**MADDE 16 –** (1) Bakanlıkça ilan edilen planlamalar neticesinde, merkez, kadro ve cihaz talebi uygun görülenler için planlama uygunluk belgesi düzenlenir. Kuruluş amacıyla planlama uygunluk belgesi düzenlenen özel diyaliz merkezleri için en geç iki yıl içinde Bakanlıktan ön izin alınması zorunludur. Bu süre içinde ön izin alamayanların planlama uygunluk belgeleri iptal edilir. Ön izin alan özel diyaliz merkezleri, ön izin aldıkları tarihten itibaren iki yıl içinde ruhsat almak zorundadır. Planlama uygunluk belgesi devredilemez.
+
+(2) Özel hastaneler bünyesinde açılacak merkezlerin, öncelikle ilgili mevzuatına uygunluğu aranır. İlgili mevzuatına göre bünyesinde merkez açabilecek olanların işlemleri bu Yönetmelik hükümlerine göre yapılır. Bu şekilde açılacak merkezler bakımından sağlık kuruluşunun Bakanlıkça onaylanan ön izin projesinde diyaliz merkezi yeri gösterilmiş olması 11 inci madde kapsamında yapılacak planlamadan istisna bir hak vermez.
+
+#### Merkezlerin taşınması, birleşmesi, devri ve askıya alma
+
+**MADDE 17 –** (1) Merkezlerin mevcut cihaz kapasiteleri ile Bakanlıkça belirlenen bölgeler içinde taşınma veya birleşmeleri planlama kapsamı dışında tutularak müdürlük izni ile yapılır. Bölge dışı taşınma ve birleşmeler ise yalnızca o il içinde ve planlama hükümlerine tabi olarak Bakanlık izniyle gerçekleştirilebilir. Bu fıkra kapsamındaki birleşmelerde toplam cihaz sayısı sekseni geçemez. Hemodiyaliz merkezlerine, birleşme ve taşınma durumlarında tadilat, inşaat ve alt yapının hazırlanması gibi işlemler için müdürlük tarafından en fazla on iki aylık süre verilir.
+
+(2) Merkezler devredilebilir. Devirde merkezi devir alan ve devir eden gerçek veya tüzel kişiler arasında merkezin devrine ilişkin yapılacak sözleşme örneği ile devir alana ait belgeler müdürlüğe ibraz edilir. Müdürlükçe devir alan adına yeni ruhsatname ve faaliyet izni belgesi düzenlenir.
+
+(3) Personel eksikliği, tadilat, ekonomik ve benzeri sebeplerle işletenin talebi halinde merkez/ünitenin faaliyet izin belgesi, Bakanlıkça askıya alınabilir. Bu durumda, hastaların mağdur edilmemesi için müdürlükçe gerekli tedbirler alınır. Faaliyetin askıya alınma tarihinden itibaren en geç on iki ay içinde eksiklikler giderilmezse faaliyete geçemeyen merkez/ünitenin ruhsat ve faaliyet izin belgesi Bakanlıkça iptal edilir.
+
+(4) Aynı diyaliz hizmet bölgesi içerisinde bulunan diyaliz merkezleri kendi aralarında planlama kapsamında Bakanlık izni ile cihaz kullanım hakkı devri yapabilir. Ancak cihaz devreden merkez on beş cihazın altına düşemez ve beş yıl süre ile planlamadan cihaz artırımı talebinde bulunamaz.
+
+### DÖRDÜNCÜ BÖLÜM
 
 Merkezlerin Personel Durumu
 
 #### Faaliyet iznine esas personel
 
-**MADDE 22 –** (1) Merkezlerde bulunması gereken faaliyet iznine esas personel şunlardır:
+**MADDE 18 –** (1) Merkezlerde bulunması gereken faaliyet iznine esas personelin taşıması gereken özellikler şunlardır:
 
-a) Merkezin tıbbî, idarî ve teknik hizmetleri tabip bir mesul müdür sorumluluğunda yürütülür. Üniteler için mesul müdür açıldığı hastanenin Başhekimi ya da Başhekimin görevlendireceği Başhekim yardımcısıdır. Mesul müdür, hemodiyaliz sertifikası sahibi tabipse aynı zamanda merkezin hemodiyaliz sertifikalı tabiplik görevini, nefroloji uzmanı ya da (Değişik ibare:RG-10/12/2022-32039) uzman tabip olması halinde ise merkezin mesul müdürlüğü yanında uzmanlık hizmetini de yürütür. Merkezde genel çalışma saatleri dışındaki zamanda ve kabul edilebilir mazeret hallerinde mesul müdürün yerine, mesul müdürün yazılı şekilde yetki devri yaptığı bir tabibin bulunması zorunludur. Mesul müdür, ilde valilikçe belirlenen genel çalışma saatleri dışında, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun 12 nci maddesine uygun olmak kaydıyla başka bir özel sağlık kuruluşunda da çalışabilir. Özel kanununa göre geçici olarak meslekten men edilenler, bu yasakları süresince merkezde mesul müdürlük yapamazlar. Hastane ve tıp merkezi bünyesinde faaliyet gösterecek merkezler için ayrı mesul müdür görevlendirmesi istenmez.
+a) Merkezin tıbbi, idarî ve teknik hizmetleri tabip bir mesul müdür sorumluluğunda yürütülür. Üniteler için mesul müdür, açıldığı hastanenin başhekimi ya da başhekimin görevlendireceği başhekim yardımcısıdır. Mesul müdür, hemodiyaliz sertifikası sahibi tabipse aynı zamanda merkezin hemodiyaliz sertifikalı tabiplik görevini, nefroloji uzmanı ya da sertifikalı uzman tabip ya da uzman tabip olması halinde ise merkezin mesul müdürlüğü yanında uzmanlık hizmetini de yürütür.
 
-b) Merkezlerde asgari bulunması gerekli sertifikalı tabip sayısı, aktif hemodiyaliz cihazı sayısına göre belirlenir. Merkez kadrolu uzman tabip bulunduruyorsa, uzman tabip sertifikalı tabip görevini de yürütebilir. İlk (Değişik ibare:RG-10/12/2022-32039) elli cihaza kadar bir kadrolu, (Değişik ibare:RG-10/12/2022-32039) elliden fazla cihazı olan merkezler için her (Değişik ibare:RG-10/12/2022-32039) elli cihaza kadrolu veya kısmi zamanlı ilave bir sertifikalı tabip bulunur. Ancak, her tedavi seansı için, elli hastaya kadar bir sertifikalı tabibin bulunması yeterlidir. Merkezde kadrolu çalışan sertifikalı tabip çalışma belgesinde belirtilen merkezdeki çalışma saatleri dışında 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun 12 nci maddesine uygun olmak kaydıyla başka bir özel sağlık kuruluşunda da çalışabilir.
+b) Merkezde; genel çalışma saatleri dışındaki zamanda ve kabul edilebilir mazeret hallerinde mesul müdürün yerine, mesul müdürün yazılı şekilde yetki devri yaptığı bir tabibin bulunması zorunludur. Mesul müdür, ilde valilikçe belirlenen genel çalışma saatleri dışında, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun 12 nci maddesine uygun olmak kaydıyla en fazla ikinci bir özel sağlık kuruluşunda daha çalışabilir. Anılan Kanuna göre geçici olarak meslekten men edilenler, bu yasakları süresince merkezde mesul müdürlük yapamazlar. Hastane bünyesinde faaliyet gösterecek merkezler için ayrı mesul müdür görevlendirmesi istenmez.
 
-c) Hemodiyaliz tedavisi gören her hasta, en az ayda bir kez tercihen nefroloji uzmanı veya (Değişik ibare:RG-10/12/2022-32039) uzman tabip tarafından muayene edilerek değerlendirilir, her türlü ilaç ve diyaliz tedavisi düzenlenir. Bir uzman tabip aylık en fazla altıyüz hemodiyaliz hastası değerlendirebilir. Bu değerlendirme, merkezde kadrolu veya kısmi zamanlı görev yapan uzman tabipler tarafından yapılabileceği gibi ücreti hasta adına merkez tarafından karşılanmak kaydıyla özel hastane veya tıp merkezinden hizmet satın alma yolu ile yaptırılabilir veya bu hizmetlerin kamuya ait hastanelerde yapılabilmesi için merkez gerekli tedbirleri alır. Merkezin bulunduğu ilde uzman tabip hizmeti sağlanamıyorsa aynı şartlarda diğer illerden bu hizmet sağlanır. Merkezde tedavi gören 18 yaşından küçük diyaliz hastalarının sayısı 10’dan fazla ise, bu hastaların uzman değerlendirmesini çocuk nefroloji uzmanı veya (Değişik ibare:RG-10/12/2022-32039) çocuk sağlığı ve hastalıkları uzmanı yapar. Periton diyalizi ve ev hemodiyalizi hastalarının uzman tabip değerlendirmesi yalnızca nefroloji uzmanları tarafından yapılır. Merkezde kadrolu çalışan uzman tabip çalışma belgesinde belirtilen merkezdeki çalışma saatleri dışında 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunun 12 nci maddesine uygun olmak kaydıyla başka bir özel sağlık kuruluşunda da çalışabilir.
+c) Sağlık personeli özel merkez kadrosunda sözleşme ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı olarak çalışır. Merkezde çalışacak sağlık personeline EKİP Portal üzerinden personel çalışma belgesi düzenlenir. Personel çalışma belgesi gerektiğinde EKİP Portal üzerinden kontrol edilir.
 
-ç) Merkezlerde/ünitelerde diyaliz işlemini uygulayacak; hemodiyaliz uygulaması için üniversitelerin sağlık hizmetleri meslek yüksekokulu diyaliz bölümlerinden mezun diyaliz teknikeri ve sertifikalı hemşire, periton diyalizi için ise periton diyalizi sertifikalı hemşireler ve (Değişik ibare:RG-10/12/2022-32039) diyaliz teknikerleri tabip dışı sağlık personeli olarak görevlendirilir. Bu branşın dışında tabip dışı sağlık personeli çalıştırılamaz. Tabip dışı sağlık personeli aşağıda belirtilen sayıda bulundurulur:
+ç) Merkezlerde asgari bulunması gerekli sertifikalı tabip sayısı, aktif hemodiyaliz cihazı sayısına göre belirlenir. İlk elli cihaza kadar bir kadrolu, elliden fazla cihazı olan merkezler için kadrolu veya kısmi zamanlı ilave bir sertifikalı tabip bulunur.
 
-1) Hemodiyaliz yapılan merkezlerde/ünitelerde faaliyet iznine esas tabip dışı sağlık personeli sayısı, merkezdeki/ünitedeki hemodiyaliz cihazının sayısına göre belirlenir. İlk on cihaza kadar iki, bu sayının üzerinde ilâve her beş cihaz için ilâve bir tabip dışı sağlık personeli bulunur.
+d) Merkez kadrolu uzman tabip bulunduruyorsa, uzman tabip faaliyet iznine esas sertifikalı tabip görevini de yürütebilir.
 
-2) Merkezlerde/ünitelerde her tedavi seansında beş hastaya kadar en az bir; daha sonraki her beş hasta için ilâve bir tabip dışı sağlık personeli bulunur. Ancak ilk on cihaz için gerekli faaliyet iznine esas personel haricinde, tabip dışı sağlık personeli bulunmaması hallerinde, her tedavi seansında ön görülen sayının yarısını aşmayacak şekilde bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren en fazla bir yıl boyunca sertifikasız hemşire çalıştırılabilir. Bu durumda çalışacak personelin gözetiminden sorumlu, o seans için en az bir diyaliz teknikeri veya sertifikalı hemşire bulunur.
+e) Her tedavi seansı için, elli hastaya kadar en az bir sertifikalı tabibin, elliden fazla hasta için en az iki sertifikalı tabip bulunması yeterlidir.
 
-3) Periton diyalizi yapılacak merkezde tabip dışı personel sayısı merkezdeki hasta sayısına göre belirlenir. İlk elli hasta için bir; ilâve her elli hasta için bir sertifikalı hemşire veya (Değişik ibare:RG-10/12/2022-32039) diyaliz teknikeri çalıştırılır. Hemodiyaliz ve periton diyalizinin birlikte yapıldığı merkezde, sertifikalı hemşire veya (Değişik ibare:RG-10/12/2022-32039) diyaliz teknikeri hem hemodiyaliz hem de periton diyalizi bakımından faaliyet iznine esas personel olarak kabul edilir. Ancak bu durumdaki sertifikalı hemşireler ve (Değişik ibare:RG-10/12/2022-32039) diyaliz teknikerleri eş zamanlı mesai yapamaz.
+f) Merkezde kadrolu çalışan sertifikalı tabip ve uzman tabipler çalışma belgesinde belirtilen merkezdeki çalışma saatleri dışında aynı ilde en fazla ikinci bir özel sağlık kuruluşunda daha kadro dışı geçici çalışabilir.
 
-d) Merkezde/ünitede, diyaliz cihazları ve müştemilatı ile su sistemi konusunda en az üç ay süre ile eğitim gördüğüne dair belge veya diplomayı haiz bir teknisyen veya tekniker bulundurulur veya teknik servis ile bakım anlaşması yapılır.
+g) Diyaliz tedavisi (hemodiyaliz, periton diyalizi, ev hemodiyalizi) gören her hastaya ayda en az bir defa ilgili uzman tabip (nefroloji uzmanı, diyaliz sertifikalı uzman tabip veya o ilde nefroloji uzmanı ve diyaliz sertifikalı uzman yok ise uzman tabip) tarafından diyaliz değerlendirmesi-muayenesi yapılır ve diyaliz reçetesi yazılır. Diyaliz hastasının aylık muayenesi merkezde görevli uzman tabipler tarafından yapılır. Ancak diyaliz hastası, aylık muayenesini tedavi gördüğü merkez dışında da yaptırabilir ve tedavisine yönelik reçete yazılır. Düzenlenen reçete doğrultusunda merkez/ünite tarafından tedavi yapılır.
+
+ğ) Merkezde tedavi gören 18 yaşından küçük diyaliz hastalarının sayısı ondan fazla ise, bu hastaların uzman değerlendirmesini çocuk nefroloji uzmanı veya sertifikalı çocuk sağlığı ve hastalıkları uzmanı, bu da yoksa çocuk sağlığı ve hastalıkları uzmanı yapar.
+
+h) Merkezde kadrolu çalışan uzman tabip çalışma belgesinde belirtilen merkezdeki çalışma saatleri dışında 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla en fazla ikinci bir özel sağlık kuruluşunda daha çalışabilir.
+
+ı) Merkezden ayrılan kadrolu uzman tabip ve tabip yerine aynı statüde uzman tabip ve tabip başlatılabilir.
+
+i) Emekli olan, 60 yaşını dolduran tabipler ve engellilik oranı en az yüzde altmış olan tabipler, diyaliz merkezlerinde kadrolu çalışma şartı ve boş kadro şartı aranmadan iki özel sağlık kuruluşunda kadro dışı geçici çalışabilir.
+
+j) Yurt dışında en az iki yıl süreyle mesleğini icra eden tabipler, yurt dışından döndükten sonra kadrolu çalışma şartı ve boş kadro şartı aranmadan diyaliz merkezi ve ikinci özel sağlık kuruluşunda bir defaya mahsus olmak üzere kadro dışı geçici çalışabilir.
+
+k) Merkezlerde/ünitelerde diyaliz işlemini uygulayacak; hemodiyaliz uygulaması için üniversitelerin sağlık hizmetleri meslek yüksekokulu diyaliz bölümlerinden mezun diyaliz teknikeri ve/veya sertifikalı hemşire, periton diyalizi için ise periton diyalizi sertifikalı hemşireler ve/veya diyaliz teknikerleri tabip dışı sağlık personeli olarak görevlendirilir. Bu branşın dışında tabip dışı sağlık personeli çalıştırılamaz.
+
+l) Tabip dışı sağlık personeli aşağıda belirtilen sayıda bulundurulur:
+
+1) Hemodiyaliz yapılan merkezlerde/ünitelerde faaliyet iznine esas tabip dışı sağlık personeli sayısı, merkezdeki/ünitedeki hemodiyaliz cihazının sayısına göre belirlenir.
+
+2) İlk on cihaza kadar iki, bu sayının üzerinde ilave her beş cihaz için ilave bir tabip dışı sağlık personeli bulunur.
+
+3) Merkezlerde/ünitelerde her tedavi seansında beş hastaya kadar en az bir, daha sonraki her beş hasta için ilave bir tabip dışı sağlık personeli bulunur.
+
+4) Periton diyalizi yapılacak merkezde tabip dışı personel sayısı merkezdeki hasta sayısına göre belirlenir. İlk elli hasta için bir, sonraki her yirmi beş hasta için bir ilave sertifikalı hemşire ve/veya diyaliz teknikeri çalıştırılır. Hemodiyaliz ve periton diyalizinin birlikte yapıldığı merkezde, sertifikalı hemşire ve/veya diyaliz teknikeri hem hemodiyaliz hem de periton diyalizi bakımından faaliyet iznine esas personel olarak kabul edilir.
+
+m) Merkezde/ünitede, diyaliz cihazları ve müştemilatı ile su sistemi konusunda en az üç ay süre ile eğitim gördüğüne dair belge alan diyaliz teknikeri veya aynı belgeye sahip teknisyen/tekniker bulundurulur veya teknik servis ile bakım anlaşması yapılır.
+
+n) Bütün personelin yakasına; personelin adını, soyadını, mesleğini ve ünvanını belirten ve mesul müdürlükçe onaylanmış olan fotoğraflı bir kimlik kartı takması şarttır. Kimlik kartlarının Bakanlığın elektronik sistemi ile uyumlu karekod içermesi zorunludur.
+
+o) Merkezde çalışan tüm sağlık personelinin, hizmetin gereklerine uygun olarak önlük veya üniforma giymesi zorunludur. Merkez yönetimi önlük veya üniforma seçimi ile ilgili sağlık meslek mensuplarının birbiri ile karışmasını önleyecek şekilde düzenleme yapmak zorundadır. Her merkezin kurumsal kimliğini yansıtan üniforması bulunur.
 
 #### Diğer personel
 
-**MADDE 23 –** (1) Her hemodiyaliz merkezi, hastalarına programlı diyalizin başlangıcında ve daha sonra uzman hekimin denetiminde olmak üzere bir diyetisyenle danışmanlık hizmeti almak üzere sözleşme yapar veya ücreti hasta adına merkez tarafından karşılanmak kaydıyla hizmet satın alır. Yeni açılan merkez, faaliyet izin belgesi tarihinden itibaren en fazla üç ay içerisinde diyetisyen ile sözleşme yapar veya hizmet satın alır. Diyaliz merkezleri, ihtiyaç duymaları halinde psikiyatri uzmanı, psikolog, sosyal hizmet uzmanı unvanını haiz personeli, mesleklerine uygun görevlerde istihdam edebilir veya bunlardan hizmet satın alabilir.
+**MADDE 19 –** (1) Her hemodiyaliz merkezi, hastalarına programlı diyalizin başlangıcında ve daha sonra uzman hekimin denetiminde diyetisyen hizmeti almak için sözleşme yapar veya ücreti hasta adına merkez tarafından karşılanmak kaydıyla hizmet satın alır. Yeni açılan merkez, faaliyet izin belgesi tarihinden itibaren en fazla üç ay içerisinde diyetisyen ile sözleşme yapar veya hizmet satın alır. Diyaliz merkezleri, ihtiyaç duymaları halinde psikiyatri uzmanı, psikolog, sosyal hizmet uzmanı ünvanını haiz personeli, mesleklerine uygun görevlerde istihdam edebilir veya bunlardan hizmet satın alabilir.
 
-(2) Hemodiyaliz yapılan merkezlerde her sekiz hemodiyaliz cihazı için bir yardımcı personel; yalnızca periton diyalizi yapılan merkezlerde ise en az bir yardımcı personel bulunur.
+(2) Hemodiyaliz yapılan merkezlerde her tedavi seansında sekiz hastaya kadar en az bir, daha sonraki her sekiz hasta için ilave bir yardımcı personel bulunur. Yalnızca periton diyalizi yapılan merkezlerde ise en az bir yardımcı personel bulunur.
 
 #### Personelin görevden ayrılması, hastalık hali ve izinler
 
-**MADDE 24 –** (1) Özel merkezde görev yapan faaliyet iznine esas personel, çalıştığı merkezden ayrılmak istemesi halinde en az bir ay önceden görev yaptığı merkeze bir dilekçe ile başvurarak ayrılacağını bildirir.
+**MADDE 20 –** (1) Özel merkezde görev yapan faaliyet iznine esas personel, çalıştığı merkezden ayrılmak isterse en az bir ay önceden görev yaptığı merkeze bir dilekçe ile başvurarak ayrılmak istediğini bildirir.
 
-(2) Merkezde mesul müdür ve asgariyi teşkil eden kadrolu diyaliz sertifikalı tabibin görevden ayrılması, hastalık hali ve yasal izin durumlarında bu görevler en fazla üç aylık süre için başka bir tabip tarafından yürütülür. Mesul müdürün ve sertifikalı tabibin çeşitli nedenlerle otuz günü geçmeyen kısa süreli merkezden ayrılması durumunda yerine başka bir tabip vekâlet edebilir. Bu durum en geç bir hafta içerisinde müdürlüğe bildirilir. Ancak otuz günü geçen ayrılık durumunda üç aya kadar mesul müdürlük görevini yürütecek tabibe müdürlükçe geçici mesul müdürlük belgesi düzenlenir. Üç aylık süre sonunda merkez, yeni bir mesul müdür ile sözleşme yaparak müdürlüğe bildirir. Bu süre sonunda mesul müdür ve sertifikalı tabip bulunamaması halinde diyaliz merkezinin valilikçe faaliyeti durdurularak en fazla altı aylık süre ile faaliyet izin belgesi askıya alınır. Bu süre sonunda da eksiklik giderilememesi durumunda merkezin ruhsat ve faaliyet izin belgesi iptal edilir. Bu durumda, hastaların mağdur edilmemesi için müdürlükçe gerekli tedbirler alınır.
+(2) Merkezde mesul müdür ve asgariyi teşkil eden kadrolu diyaliz sertifikalı tabibin görevden ayrılması, hastalık hali ve yasal izin durumlarında bu görevler, en fazla üç aylık süre için başka bir tabip tarafından yürütülür. Mesul müdürün ve sertifikalı tabibin çeşitli sebeplerle otuz günü geçmeyen kısa süreli merkezden ayrılması durumunda yerine başka bir tabip vekâlet edebilir. Bu durum en geç bir hafta içerisinde müdürlüğe bildirilir. Ancak otuz günü geçen ayrılık durumunda üç aya kadar mesul müdürlük görevini yürütecek tabibe müdürlükçe geçici mesul müdürlük belgesi düzenlenir. Üç aylık süre sonunda merkez, yeni bir mesul müdür ile sözleşme yaparak müdürlüğe bildirir. Bu süre sonunda mesul müdür ve sertifikalı tabip bulunamaması halinde diyaliz merkezinin valilikçe faaliyeti durdurularak en fazla altı aylık süre ile faaliyet izin belgesi askıya alınır. Bu süre sonunda da eksiklik giderilememesi durumunda merkezin ruhsat ve faaliyet izin belgesi iptal edilir. Bu durumda, hastaların mağdur edilmemesi için müdürlükçe gerekli tedbirler alınır.
 
-(3) Merkezde görev yapan uzman tabibin görevinden ayrılması veya merkez tarafından alınan uzman tabiplik hizmetine ilişkin sözleşmenin bitmesi durumunda derhal müdürlüğe bildirimde bulunulur. Bir aylık süre sonunda merkez yeni uzman tabiple sözleşme yaparak uzman tabiplik hizmet sözleşmesini müdürlüğe bildirir. Bu bir aylık süre sonunda uzman tabip bulunmaması halinde diyaliz merkezinin valilikçe faaliyeti durdurularak en fazla altı aylık süre ile faaliyet izin belgesi askıya alınır. Bu süre sonunda da eksikliğin giderilememesi durumunda merkezin ruhsat ve faaliyet izin belgesi iptal edilir. Böyle bir durumda hastaların mağdur edilmemesi için müdürlükçe gerekli tedbirler alınır.
+(3) Merkezde görev yapan kadrolu veya geçici kadrolu uzman tabibin görevinden ayrılması durumunda derhal müdürlüğe bildirimde bulunulur. Uzman tabip bulunması için bir ay süre verilir. Bu bir aylık süre sonunda uzman tabip bulunmaması halinde diyaliz merkezinin valilikçe faaliyeti durdurularak en fazla altı aylık süre ile faaliyet izin belgesi askıya alınır. Bu süre sonunda da eksikliğin giderilememesi durumunda merkezin ruhsat ve faaliyet izin belgesi iptal edilir. Böyle bir durumda hastaların mağdur edilmemesi için müdürlükçe gerekli tedbirler alınır.
 
-(4) Merkezde tabip dışı sağlık personeli sayısı bu Yönetmelikte seans başına belirlenen asgarî sayının altına düştüğü takdirde, diyaliz merkezine müdürlük tarafından kırkbeş günlük süre verilerek uygunluğun sağlanması yazılı olarak ihtar edilir ve bu süre sonunda personel eksikliğini gidermeyen merkezin hasta sayısı mevcut personel sayısına uygun olacak şekilde azaltılır. Bu durumdaki kamuya ait diyaliz merkezlerinde/ünitelerinde tabip dışı sağlık personeli sayısı bu Yönetmelikte seans başına belirlenen asgarî sayının altına düştüğü takdirde, diyaliz teknikeri kadro ihdası yapılana kadar her tedavi seansında ön görülen sayının yarısını aşmayacak şekilde sertifikasız hemşire çalıştırabilir. Bu durumda çalışacak personelin gözetiminden sorumlu, o seans için en az bir diyaliz teknikeri veya sertifikalı hemşire bulunur.
+(4) Merkezde tabip dışı sağlık personeli sayısı, bu Yönetmelikte seans başına belirlenen asgari sayının altına düştüğü takdirde, diyaliz merkezine müdürlük tarafından kırk beş günlük süre verilerek uygunluğun sağlanması yazılı olarak ihtar edilir ve bu süre sonunda personel eksikliğini gidermeyen merkezin hasta sayısı mevcut personel sayısına uygun olacak şekilde azaltılır. Bu durumdaki kamuya ait diyaliz merkezlerinde/ünitelerinde tabip dışı sağlık personeli sayısı bu Yönetmelikte seans başına belirlenen asgari sayının altına düştüğü takdirde, diyaliz teknikeri ve/veya sertifikalı diyaliz hemşiresi kadro ihdası yapılana kadar her tedavi seansında ön görülen sayının yarısını aşmayacak şekilde sertifikasız hemşire çalıştırabilir. Bu durumda çalışacak personelin gözetiminden sorumlu, o seans için en az bir diyaliz teknikeri ve/veya sertifikalı hemşire bulunur.
 
 #### Personelin görev, yetki ve sorumlulukları
 
-**MADDE 25 –** (1) Mesul müdür; merkezin tıbbî, idarî ve teknik hizmetlerini mevzuata uygun olarak idare etmek ve denetlemekten sorumludur. Mesul müdürün görev, yetki ve sorumlulukları şunlardır:
+**MADDE 21 –** (1) Mesul müdür; merkezin tıbbi, idarî ve teknik hizmetlerini mevzuata uygun olarak idare etmek ve denetlemekten sorumludur. Mesul müdürün görev, yetki ve sorumlulukları şunlardır:
 
 a) Ruhsatlandırma ile ilgili her türlü işlemleri yürütür.
 
-b) Diyaliz merkezinin ruhsatlandırılmasından sonra, her türlü personel, bina, tesis, cihaz ve diğer tıbbî ve fiziki şartlardaki herhangi bir değişikliği ilgili müdürlüğe bildirir.
+b) Diyaliz merkezinin ruhsatlandırılmasından sonra, her türlü personel, bina, tesis, cihaz ve diğer tıbbi ve fiziki şartlardaki herhangi bir değişikliği ilgili müdürlüğe bildirir.
 
 c) Bakanlık ve müdürlük ile ilgili olan her türlü yazışmaları yürütür.
 
-ç) Merkezin bilgi işlem sistemi aracılığıyla günlük olarak kaydedeceği ve kaydettiği hasta ve seans sayılarını, hasta mortalitesini, Yönetmelik uyarınca yapılması gereken tıbbî muayene ve tetkiklerin kayıtlarını ve Bakanlıkça talep edilen diğer bilgileri, Bakanlığın bu bilgilere her an ulaşabileceği şekilde hazır tutar.
+ç) Merkezin bilgi işlem sistemi aracılığıyla günlük olarak kaydedeceği ve kaydettiği hasta ve seans sayılarını, hasta mortalitesini, bu Yönetmelik uyarınca yapılması gereken tıbbi muayene ve tetkiklerin kayıtlarını Bakanlıkça talep edilen diğer bilgileri, Bakanlığın bu bilgilere her an ulaşabileceği şekilde hazır tutar.
 
 d) Mazeret sebebiyle görev yerini terk etmesi halinde yerine başka bir tabibi vekâleten bırakır.
 
@@ -499,41 +321,95 @@ f) Merkezin sterilizasyon ve dezenfeksiyon işlerinin düzenli bir şekilde yap�
 
 g) Su sisteminden elde edilen suyun bakteriyolojik ve kimyasal analizleri ile su sisteminin günlük takibini yaptırır.
 
-ğ) Yönetmelikte belirtilen; “tıbbî takip ve tetkikler”, “hastaların izlenmesi ve eğitimi”, “personelin tıbbî kontrolü”, “organ ve doku nakli merkezleri ile ilişki”, “hastaların ve cihazların kayıtları”, “su sisteminin kontrolü”, “atıkların imhası” hususlarının yürütülmesini sağlar.
+ğ) Bu Yönetmelikte belirtilen; tıbbi takip ve tetkikler, hastaların izlenmesi ve eğitimi, personelin tıbbi kontrolü, organ ve doku nakli merkezleri ile ilişki, hastaların ve cihazların kayıtları, su sisteminin kontrolü, atıkların imhası hususlarının yürütülmesini sağlar.
 
-h) Hemodiyaliz ve periton diyalizi uygulamaları ile ilgili gerek Yönetmelikte öngörülen gerekse Bakanlığın istediği tüm formları ve bilgileri TÜRKDİVES’e girişini sağlar ve düzenli olarak Bakanlığa bildirir.
+h) Hemodiyaliz ve periton diyalizi uygulamaları ile ilgili bu Yönetmelikte öngörülen ve Bakanlığın istediği tüm formları ve bilgileri, Bakanlık dijital kayıt sistemine girişini sağlar ve düzenli olarak Bakanlığa bildirir.
 
-(2) Nefroloji uzmanı veya (Değişik ibare:RG-10/12/2022-32039) uzman tabip tarafından yapılacak değerlendirme, hastaların tıbbî açıdan tedavilerinin düzenlenmesi, izlenmesi, faydalı olacak tedbirlerin belirlenmesini içerir. Uzman tabip ayda en az bir defa olmak kaydıyla, hastaların klinik ve laboratuvar değerlendirmelerini yapmak, diyaliz ve ilaç tedavilerini düzenlemekle yükümlüdür. Gerektiği durumlarda tıbbi uygulamalar ile ilgili sertifikalı tabibi yönlendirir.
+(2) Nefroloji uzmanı veya sertifikalı uzman tabip veya uzman tabip tarafından yapılacak değerlendirmenin aşağıdaki hususları taşıması gerekir:
 
-(3) Sertifikalı tabip; uzman tabibin muayene ve değerlendirmesine göre belirlenen tedavi şemasına göre hastalara hemodiyaliz ve ilaç tedavisi uygulanması, tedavi seansı sırasında hastaların tıbbî yönden izlenmesi, her diyaliz seansında hastanın dosyasına gözlem notunun kaydedilmesi ve ortaya çıkabilecek akut komplikasyonlarda hastaya ilk müdahalenin yapılmasından sorumludur.
+a) Uygulanacak tedaviye ilişkin Bakanlıkça hazırlanan kılavuza uygun şekilde bilgilendirme yapılır. Bakanlığın dijital kayıt sistemine yüklenir. Kronik diyaliz tedavisine başlandıktan sonra en geç üç ay içerisinde hasta, böbrek nakli konusunda ayrıntılı bilgilendirilmek üzere kendisine en yakın kamuya ait böbrek nakli merkezine gönderilir. Böbrek nakli merkezi yetkilisi tarafından hastaya böbrek nakli süreci, uygunluk şartları, canlı ve kadavra vericiden nakil seçenekleri ile naklin yararları ve riskleri hakkında sözlü ve yazılı bilgilendirme yapılır; bilgilendirme formu hasta ve yetkili tarafından imzalanarak hastanın dosyasına konulur ve Bakanlığın dijital kayıt sistemine yüklenir. Hem diyaliz tedavisini reçete eden tabip tarafından düzenlenen renal replasman tedavi seçenekleri bilgilendirme formunun hem de böbrek nakli merkezi tarafından düzenlenen organ nakli bilgilendirme formunun kayıt altına alınması zorunludur.
 
-(4) Tabip dışı sağlık personeli; hemodiyaliz seansı öncesinde, hemodiyaliz sırasında ve sonrasında hastanın her türlü tıbbî bakımını, (Değişik ibare:RG-10/12/2022-32039) nefroloji uzmanı; uzman tabip ve sertifikalı tabibin direktiflerine göre yapmak, hemodiyaliz hastalarına eğitim vermek, rutin hasta takiplerini yapmak, tedavilere ilişkin kayıtları tutmak, hemodiyaliz cihazlarını diyalize hazırlamak, diyaliz setlerini hazırlamak, hastanın damar yolunu açmak, sterilizasyon ve yüzey dezenfeksiyon işlerini yürütmekle görevlidir. Periton diyalizi için nefroloji uzmanının direktifleri doğrultusunda rutin hasta takiplerini yapmak, hastalara eğitim vermek, takip ve tedavilere ilişkin kayıtları tutmak ve tedavinin gerektirdiği uygulamaları ve testleri yapmakla görevlidir. Ayrıca, hastaların sağlık durumunun gerektirdiği hallerde ve nefroloji uzmanının tespit edeceği kurallar çerçevesinde periton diyalizi hastalarının ev ziyaretlerini yapar. Bu ziyaretlerin programlanması ve uygulanması sırasındaki ihtiyaçlar, merkez tarafından temin edilir.
+b) Hastaların tıbbi açıdan tedavilerinin düzenlenmesi, izlenmesi, faydalı olacak tedbirlerin belirlenmesini içerir. Nefroloji uzmanı veya sertifikalı uzman tabip veya uzman tabip ayda en az bir defa olmak kaydıyla hastaların klinik ve laboratuvar değerlendirmelerini yapmak, diyaliz ve ilaç tedavilerini düzenlemekle yükümlüdür. Gerektiği durumlarda tıbbi uygulamalar ile ilgili sertifikalı tabibi yönlendirir.
 
-(5) Tekniker/teknisyen; diyaliz merkezinin/ünitesinin teknik alt yapısı ile ilgili her türlü problemlerin çözülmesi, teknik hizmet ve takibi yapmakla, diyaliz cihazlarını hizmeti aksatmayacak şekilde hazır vaziyette bulundurmakla ve görev alanına giren diğer problemleri mesul müdür ve sertifikalı tabibe bildirmekle görevlidir. Ayrıca, su sisteminin bakımının yapılması ve hemodiyaliz cihazının diyalize hazırlanması işlerini yürütür.
+(3) Sertifikalı tabip; uzman tabibin muayene ve değerlendirmesine göre belirlenen tedavi şemasına göre hastalara hemodiyaliz ve ilaç tedavisi uygulanması, tedavi seansı sırasında hastaların tıbbi yönden izlenmesi, her diyaliz seansında hastanın dosyasına gözlem notunun kaydedilmesi ve ortaya çıkabilecek akut komplikasyonlarda hastaya ilk müdahalenin yapılmasından sorumludur.
 
-(6) Ünitelerin kurulduğu hastane başhekimi ünitenin tıbbi ve idari işleyişi ile ilgili olarak ünitenin bağlı bulunduğu diyaliz merkezine karşı sorumludur.
+(4) Tabip dışı sağlık personeli; hemodiyaliz seansı öncesinde, hemodiyaliz sırasında ve sonrasında hastanın her türlü tıbbi bakımını nefroloji uzmanı, sertifikalı uzman tabip ve uzman tabip ve sertifikalı tabibin direktiflerine göre yapmak, hemodiyaliz hastalarına eğitim vermek, hasta takiplerini yapmak, tedavilere ilişkin kayıtları tutmak, hemodiyaliz cihazlarını diyalize hazırlamak, diyaliz setlerini hazırlamak, hastanın damar yolunu açmak, sterilizasyon ve yüzey dezenfeksiyon işlerini yürütmekle görevlidir. Periton diyalizi için nefroloji uzmanının veya periton diyalizi sertifikalı uzmanın direktifleri doğrultusunda hasta takiplerini yapmak, hastalara eğitim vermek, takip ve tedavilere ilişkin kayıtları tutmak ve tedavinin gerektirdiği uygulamaları ve testleri yapmakla görevlidir. Ayrıca, hastaların sağlık durumunun gerektirdiği hallerde nefroloji uzmanının veya sertifikalı uzman tabibin, bu tabibin de bulunmaması hâlinde uzman tabibin tespit edeceği kurallar çerçevesinde hem periton diyalizi hem de ev hemodiyaliz hastalarının ev ziyaretlerini yapar. Bu ziyaretlerin programlanması ve uygulanması sırasındaki ihtiyaçlar, merkez tarafından temin edilir.
 
-### ALTINCI BÖLÜM
+(5) Tekniker/teknisyen; diyaliz merkezinin/ünitesinin teknik altyapısı ile ilgili her türlü problemlerin çözülmesi, teknik hizmet ve takibi yapmakla, diyaliz cihazlarını hizmeti aksatmayacak şekilde hazır vaziyette bulundurmakla ve görev alanına giren diğer problemleri mesul müdür ve sertifikalı tabibe bildirmekle görevlidir. Ayrıca, su sisteminin bakımının yapılması ve hemodiyaliz cihazının diyalize hazırlanması işlerini yürütür.
 
-Diyaliz Merkezlerinde ve Ünitelerinde Tıbbî Takip, Tetkik ve Kontroller
+(6) Ünitelerin kurulduğu hastane başhekimi, ünitenin tıbbi ve idari işleyişi ile ilgili olarak ünitenin bağlı bulunduğu diyaliz merkezine karşı sorumludur.
+
+### BEŞİNCİ BÖLÜM
+
+Diyaliz Merkezlerinde ve Ünitelerinde Tıbbi Takip, Tetkik ve Kontroller
 
 #### Hastaların diyalize alınma kararı, hasta raporları ve reçete düzenlenmesi
 
-**MADDE 26 –** (1) Hastaların programlı hemodiyaliz ya da periton diyalizine alınması için nefroloji uzmanı tarafından hazırlanmış diyaliz raporunun olması gerekir. Periton diyalizi raporları sadece nefroloji uzmanı tarafından düzenlenir, hemodiyaliz raporları, hastanın bulunduğu ilde nefroloji uzmanı bulunmaması durumunda (Mülga ibare:RG-10/12/2022-32039) uzman tabip tarafından da düzenlenebilir. Raporda hastanın hangi süreyle ve haftada kaç defa hemodiyalize gireceği, periton diyalizi yapılacak ise uygulanacak periton diyalizi yöntemi, günlük değişim sayısı, kullanılacak solüsyonların içeriği ve hacmi belirtilir.
+**MADDE 22 –** (1) Hastaların programlı hemodiyaliz raporları; varsa nefroloji uzmanı tarafından düzenlenir, nefroloji uzmanının bulunmaması halinde sertifikalı uzman tabip tarafından; sertifikalı uzman tabibin de bulunmaması halinde uzman tabip tarafından düzenlenir. Hastaların programlı periton diyalizi raporları, nefroloji uzmanı veya sertifikalı uzman tarafından düzenlenir. Raporda hastanın hangi süreyle ve haftada kaç defa hemodiyalize gireceği, periton diyalizi yapılacak ise uygulanacak periton diyalizi yöntemi, günlük değişim sayısı, kullanılacak solüsyonların içeriği ve hacmi belirtilir. Periton diyalizinin uygulanmama gerekçeleri raporda belirtilir.
 
 (2) Ortaya çıkabilecek acil durumlar hariç hastanın diyaliz ve hastalık ile ilgili uzmanın düzenlediği tedavide değişiklik yapılamaz.
 
-(3) Diyaliz tedavisine başlamadan önce her hasta renal replasman tedavi seçenekleri (hemodiyaliz, periton diyalizi, organ nakli) hakkında yazılı ve sözlü olarak bilgilendirilir. Bilgilendirme formu TÜRKDİVES’e yüklenir.
+#### Hastaların tıbbi takibi, personelin tıbbi kontrolü
 
-#### Hastaların tıbbi takibi, personelin tıbbî kontrolü
-
-**MADDE 27 –** (1) Merkezde/ünitede diyaliz tedavisi gören her hasta için ayrı bir hasta takip dosyası tutulur. Merkezler/üniteler, tedavilerini üstlendikleri hastaların bu Yönetmeliğin öngördüğü tetkiklerini yaptırır ve tedavilerini titizlikle takip eder. Merkezde/ünitede, diyaliz tedavisi gören hastaların ayda en az bir defa yapılacak uzman tabip değerlendirmesi ile nefroloji uzmanı veya (Mülga ibare:RG-10/12/2022-32039) uzman tabip tarafından düzenlenecek tedavisi kaydedilir ve uygulanması sağlanır.
+**MADDE 23 –** (1) Merkezde/ünitede diyaliz tedavisi gören her hasta için ayrı bir hasta takip dosyası tutulur. Merkez/ünite, tedavilerini üstlendikleri hastaların bu Yönetmeliğin öngördüğü tetkiklerini yaptırır ve tedavilerini titizlikle takip eder. Merkezde/ünitede, diyaliz tedavisi gören hastaların ayda en az bir defa yapılacak uzman tabip değerlendirmesi ile nefroloji uzmanı veya sertifikalı uzman tabip ya da uzman tabip tarafından düzenlenecek tedavisi kaydedilir ve uygulanması sağlanır.
 
 (2) Diyaliz merkezlerinde/ünitelerde çalışan personel, işe başlarken ve daha sonra yılda bir kez rutin olarak HCV antikoru, HbsAg ve Hbs Ab, HIV 1+2 antikoru tayin testleri taramasından geçirilir ve lazım gelen koruyucu tedbirler alınır, gerektiğinde tedavileri yaptırılır.
 
 (3) Enfeksiyon kontrolüne yönelik hizmet içi eğitimler yeni başlayan her personele ve yılda bir kez de tüm personele olmak üzere uzman tabip tarafından verilir. Düzenlenen eğitimlere yönelik kayıtlar tutulur.
 
-(4) Diyaliz ünite/merkezlerinde enfeksiyon kontrolüne yönelik standartlar Diyaliz Bilimsel Danışma Komisyonunun görüşü alınarak Bakanlıkça belirlenerek yayımlanır.
+(4) Diyaliz ünite/merkezlerinde enfeksiyon kontrolüne yönelik standartlar, Diyaliz Bilimsel Danışma Komisyonunun da görüşü alınarak Bakanlıkça tedbirler belirlenerek yayımlanır.
+
+### ALTINCI BÖLÜM
+
+Diyaliz Bilimsel Danışma Komisyonu, Diyaliz Hizmetleri İzlem,
+
+Denetim ve Değerlendirme Komisyonu
+
+#### Diyaliz Bilimsel Danışma Komisyonunun teşkili
+
+**MADDE 24 –** (1) Diyaliz Bilimsel Danışma Komisyonu; Sağlık Hizmetleri Genel Müdürünün veya görevlendireceği ilgili genel müdür yardımcısı ya da ilgili daire başkanı başkanlığında, nefroloji alanında doçent ve profesörler arasından Bakanlıkça seçilen altı üye olmak üzere toplam yedi kişiden oluşur.
+
+(2) Diyaliz Bilimsel Danışma Komisyonu üyeleri iki yıl süreyle görev yaparlar. Yeni komisyon üyeleri seçilinceye kadar mevcut üyelerin görevi devam eder.
+
+(3) Herhangi bir sebeple üyeliğin boşalması halinde, kalan süreyi tamamlamak üzere yeni üye seçilir. Üyeliğe aynı usulle tekrar seçilmek mümkündür. Diyaliz Bilimsel Danışma Komisyonu toplantılarına kabul edilebilir bir mazereti olmaksızın iki defa üst üste veya bir üyelik döneminde toplam üç defa katılmayan üyenin üyeliği sona erer.
+
+(4) Bakanlık, gerekli durumlarda veya Diyaliz Bilimsel Danışma Komisyonunun teklifi halinde toplantının gündemine göre halk sağlığı, farmakoloji, biyomedikal ve diğer uzmanlık dallarından uygun göreceği sayıdaki uzmanı, komisyonun faaliyetlerine yardımcı olmak üzere görevlendirebilir veya bu uzmanlardan müteşekkil çalışma grupları oluşturabilir.
+
+(5) Bakanlıkça fiziken toplantıya gerek duyulmayan acil durumlarda elektronik ortamda gündem belirlenip gündeme ilişkin görüş istenebilir. Bu durumda veri gizliliğine ilişkin güvenlik tedbirlerine riayet edilerek görüş verilebilir.
+
+#### Diyaliz Bilimsel Danışma Komisyonunun görevleri
+
+**MADDE 25 –** (1) Diyaliz Bilimsel Danışma Komisyonu aşağıdaki durumlarda Bakanlığa görüş bildirir:
+
+a) Ülke genelinde diyaliz hizmetlerinin gelişimini izleyerek, alınacak tedbirleri ve ulusal stratejileri belirlemek için ihtiyaç duyulan konularda.
+
+b) İhtiyaç halinde diyaliz merkezlerinin ve ünitelerinin faaliyetleri ve alınacak tedbirler konusunda.
+
+c) Gerek görüldüğünde, diyaliz tedavisinde kullanılan ilaçlar, solüsyonlar, araç ve gereçler ile ilgili standartların belirlenmesinde.
+
+ç) Diyaliz ile ilgili ulusal tanı, kayıt ve tedavi protokolleri konusunda.
+
+d) Bu Yönetmeliğin uygulanması ile ilgili olarak Bakanlığın gerekli gördüğü diğer konularda.
+
+#### Diyaliz Bilimsel Danışma Komisyonunun çalışma usul ve esasları
+
+**MADDE 26 –** (1) Diyaliz Bilimsel Danışma Komisyonu, Bakanlığın talebi ile yılda en az bir kez olağan şekilde toplanır. Bakanlık gerekli hallerde, komisyonu olağan toplantıları dışında da toplantıya davet edebilir. Toplantı tarihi, yeri ve gündemi, olağan dışı toplantılar hariç olmak üzere, en az yedi gün önce üyelere yazılı olarak bildirilir.
+
+(2) Diyaliz Bilimsel Danışma Komisyonu, en az dört üye ve başkanın katılımı ile toplanır ve katılanların salt çoğunluğu ile karar alır. Oylarda eşitlik olması halinde, başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+
+(3) Diyaliz Bilimsel Danışma Komisyonunun kararları, ıslak imza veya e-imza gibi elektronik tabanlı yöntemlerle imza altına alınır. Karara muhalif olanlar, şerh koymak suretiyle kararları imza ederler. Muhalif görüş gerekçesi, karar altında veya ekinde belirtilir.
+
+(4) Diyaliz Bilimsel Danışma Komisyonunun sekretarya hizmetleri Genel Müdürlükçe yürütülür.
+
+(5) Diyaliz Bilimsel Danışma Komisyonu, gerekli gördüğü hallerde diyaliz ile ilgili sivil toplum kuruluşları ve özel sektör temsilcilerini, tüm masrafları kendilerine ait olmak üzere toplantıya davet edebilir.
+
+#### Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu
+
+**MADDE 27 –** (1) Bakanlıktan merkez açmak üzere yatırım izni almış yatırımcıların merkez açılıncaya kadar yapacakları başvuru işlemleri, ünite kurulması işlemleri, diyaliz hizmetleri izlem, denetim ve değerlendirmeleri ile merkezlerin cihaz artırımı konusunun değerlendirilmesi için müdürlük nezdinde Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu oluşturulur.
+
+(2) Diyaliz Hizmetleri İzlem, Denetim ve Değerlendirme Komisyonu; il sağlık müdürü veya görevlendireceği ilgili başkanın başkanlığında, ilgili başkan yardımcısı ve il sınırları içerisinde öncelikle kamu kurumlarına ait hastanelerde görev yapan iki tabip olmak üzere toplam dört kişiden oluşur. Görevlendirilecek tabip üyelerden en az birinin nefroloji uzmanı olması zorunludur. Nefroloji uzmanı bulunmaması hâlinde sırasıyla; diyaliz sertifikalı uzman tabip veya diğer uzman tabipler görevlendirilir. Tabip üyelerden en fazla biri diyaliz sertifikalı pratisyen tabip olabilir. Zorunlu üyeler il sağlık müdürü veya yerine görevlendireceği ilgili başkan ve ilgili başkan yardımcısı olup bu kişiler haricindeki diğer üyeler uzman tabipler arasından seçilebilir. Bu komisyon en az iki üye ve başkanın katılımı ile toplanır ve katılanların salt çoğunluğu ile karar alır. Oyların eşitliği halinde başkanın oyu yönünde karar verilmiş sayılır. Başkan oyunu en son açıklar. Diyaliz merkezleri/üniteleri ile ilgili yeni açılma, tadilat ya da proje değişikliği gibi görev alanları ile ilgili konularda müdürlükten yoksa il çevre, şehircilik ve iklim değişikliği müdürlüğünden bir mühendis veya mimar komisyona dâhil edilir. Bu komisyona gerektiğinde müdürlüğün daveti veya Bakanlıkça resen Diyaliz Bilimsel Danışma Komisyonu üyesi katılabilir.
+
+(3) O il sınırları içerisinde çalışan nefroloji uzmanı veya sertifikalı uzman tabip yok ise bir başka ildeki kamu kurumlarına ait hastaneler bünyesinde çalışan aynı nitelikteki tabipler görevlendirilebilir.
 
 ### YEDİNCİ BÖLÜM
 
@@ -543,178 +419,88 @@ Merkezlerin ve Ünitelerin İzlenmesi, Denetlenmesi, Yasaklar,
 
 #### Merkezlerin ve ünitelerin izlenmesi
 
-**MADDE 28 –** (1) Merkezler/üniteler, bilgi işlem sistemi aracılığıyla günlük olarak kaydettiği hasta ve seans sayılarını, diyaliz tedavisine yeni başlayan ve başka merkezden/üniteden gelen hasta sayılarını, hasta mortalitesini, başka merkeze/üniteye giden veya diğer renal replasman tedavilerine geçen hasta sayılarını, Yönetmelik uyarınca yapılması gereken tıbbî tetkiklerin kayıtlarını ve Bakanlıkça talep edilen diğer bilgileri, Bakanlığın ve müdürlüğün her an ulaşabileceği şekilde hazır bulundurur. TÜRKDİVES’e girişini sağlar.
+**MADDE 28 –** (1) Merkez/ünite, bilgi işlem sistemi aracılığıyla günlük olarak kaydettiği hasta ve seans sayılarını, diyaliz tedavisine yeni başlayan ve başka merkezden/üniteden gelen hasta sayılarını, hasta mortalitesini, başka merkeze/üniteye giden veya diğer renal replasman tedavilerine geçen hasta sayılarını, bu Yönetmelik uyarınca yapılması gereken tıbbi tetkiklerin kayıtlarını ve Bakanlıkça talep edilen diğer bilgileri, Bakanlığın ve müdürlüğün her an ulaşabileceği şekilde hazır bulundurur ve Bakanlık dijital kayıt sistemine girişini sağlar.
 
-(2) Bakanlıkça kurulan TÜRKDİVES veri girişini yapmayan, gerçeğe aykırı veya eksik giren merkezler/üniteler iki defa uyarılır, uyarıya uymayanların yeni hasta alımı üç ay durdurulur.
+(2) Merkezlerin/ünitelerin faaliyetlerine ilişkin veriler ve ihtiyaç duyulan yeni formlar, Bakanlıkça düzenlenir ve Bakanlık internet sitesinde yayınlanır. Müdürlükler, bu formların dışında ayrı form düzenleyemez ve merkezlerden/ünitelerden isteyemezler.
 
-(3) Merkezlerin/ünitelerin faaliyetlerine ilişkin veriler ve ihtiyaç duyulan yeni formlar, Diyaliz Bilimsel Danışma Komisyonunun görüşü alınarak Bakanlıkça düzenlenir ve Bakanlık internet sitesinde yayınlanır. Müdürlükler, bu formların dışında ayrı form düzenleyemez ve merkezlerden/ünitelerden isteyemezler.
+(3) Bakanlık, merkezlerin/ünitelerin ve hastaların bilgilerini elektronik ortamda izleyebileceği bilgi işlem sistemlerini kurabilir. Bu durumda tüm merkez/ünite ve hastaların bilgileri bu sisteme kaydedilir.
 
-(4) Bakanlık, merkezlerin/ünitelerin ve hastaların bilgilerini elektronik ortamda izleyebileceği bilgi işlem sistemlerini kurabilir. Bu durumda tüm merkezler/üniteler ve hastaların bilgileri bu sisteme kaydedilir.
+#### Denetim ve yaptırım
 
-#### Merkezlerin ve ünitelerin denetlenmesi
+**MADDE 29 –** (1) Merkez/ünite, 17/11/2023 tarihli ve 32372 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Tesislerinin Denetimi Hakkında Yönetmelik ile belirlenen usul ve esaslara uygun olarak, EK-1 ve EK-2’de yer alan denetim, sorgu ve idari yaptırım formu kullanılarak denetime tabi tutulur.
 
-**MADDE 29 –** (1) Merkezler/üniteler; şikâyet veya ihbar üzerine yapılan olağan dışı denetimler hariç olmak üzere müdürlük tarafından oluşturulan komisyon veya denetleme ekibi vasıtasıyla, bu Yönetmeliğin eki Ek-1 ve Ek-2’deki denetim formlarına göre altı ayda bir defa olağan olarak denetlenir. Denetimlerde tespit edilen eksiklik ve aksaklıkların yine denetim formunda belirlenen sürelerde giderilmesi merkezden/üniteden yazılı olarak istenir. Eksiklik ve uygunsuzlukların belirlenen süre içerisinde giderilmemesi halinde formda öngörülen idarî yaptırım uygulanır.
+(2) Kamu kurum ve kuruluşları tarafından açılan merkez/ünitede, bu Yönetmeliğe aykırılık tespit edilmesi hâlinde, birinci ve ikinci tespitlerde eksikliğin giderilmesi için süre verilerek yazılı olarak uyarıda bulunulur; üçüncü tespitte kasıt, ihmal veya kusuru bulunan ilgililer hakkında ilgili mevzuat hükümlerine göre disiplin hükümleri uygulanır.
 
-(2) Denetleme ekibi, merkezin/ünitenin bulunduğu ilin sağlık müdürü veya görevlendireceği bir başkan, diyaliz hizmetleri ile ilgili başkan yardımcısı, kamuda çalışan bir nefroloji uzmanı yoksa (Mülga ibare:RG-10/12/2022-32039) uzman tabip ve enfeksiyon hastalıkları uzmanı veya enfeksiyon kontrol hemşiresi olmak üzere toplam dört kişiden oluşur. Bakanlık lüzumu halinde başka ilden denetim ekibi görevlendirir.
-
-(3) Merkezlerin/ünitelerin tıbbî denetiminde aşağıdaki parametreler değerlendirilir:
-
-a) Yıllık mortalite oranı,
-
-b) Yeni hepatit B ve C bulaş oranları,
-
-c) Kt/V üre değeri veya üre azalma oranı,
-
-ç) Serum albümin düzeyi,
-
-d) Hemoglobin değeri,
-
-e) Serum fosfor düzeyi.
-
-(4) Diyalize yeni alınan hastalar (diyaliz süresi üç aydan kısa olan) hariç yıllık mortalite oranı % 25’in üzerinde olan merkez/ünite, düzeltici eylemlerin uygulanması için yazılı olarak uyarılır. Uyarıya rağmen sonraki yıl mortalite oranı % 25’ten fazla olmaya devam eden merkezin/ünitenin yeni hasta alımı durdurulur ve müdürlük veya Bakanlık tarafından görevlendirilen en az iki nefroloji uzmanı tarafından merkezde/ünitede inceleme yapılır. İnceleme sonucu düzenlenecek rapora göre faaliyeti uygun görülmeyen merkezin/ünitenin faaliyetine son verilerek belgeleri iptal edilir. Kaza, yangın, deprem, doğal afet durumları hariç yıllık mortalite oranı % 50’nin üzerinde olan merkezin/ünitenin faaliyetine, Diyaliz Bilimsel Danışma Komisyonunun görüşü alınarak herhangi bir uyarı yapılmaksızın son verilebilir. Diyaliz Bilimsel Danışma Komisyonu bu konudaki değerlendirmelerini hastanın yaşı, eşlik eden durumlar ve risk faktörleri, böbrek yetmezliğinin süresi, diyaliz süresi ve hastanın durumuna göre beklenen mortalite oranlarını da dikkate alarak karar verir.
-
-(5) Tıbbi yeterlilik ile ilgili bu Yönetmeliğin eki Ek-2 Tıbbi Denetim Formunda belirtilen ölçütler çerçevesinde merkezler/üniteler denetlenir. Bu denetimde ilgili formda belirtilen ölçütlerin altı aylık izlemdeki tüm ölçümlerin ortalaması alınır. Bu ölçütlerden birden fazlası hedefin dışında olan merkez/ünite, düzeltici eylemleri planlaması için yazılı olarak uyarılır. Altı ay sonraki değerlendirmede iki parametrede yetersizliği devam eden merkezin/ünitenin yeni hasta alımı üç ay, üç veya daha fazla parametrede yetersizliği devam eden merkezin/ünitenin ise altı ay süreyle yeni hasta kabulü durdurulur.
-
-(6) Değerlendirmeye alınacak ölçüt ve standartlarda Diyaliz Bilimsel Danışma Komisyonunun görüşü alınarak Bakanlık tarafından değişiklik yapılabilir. Müdürlükler belirlenmiş ölçüt ve standartlarda değişiklik yapamazlar.
-
-#### Yasaklar ve idari yaptırım
+#### Yasaklar
 
 **MADDE 30 –** (1) Bu Yönetmelik kapsamındaki uygulamalar bakımından yasak olan fiiller ile idarî yaptırımlar şunlardır:
 
-a) Müdürlükten, Yönetmeliğe göre ruhsat ve faaliyet izin belgesi alınmaksızın diyaliz tedavisi yapmak amacıyla özel yerler açılması yasaktır. Bu tür yerlerin tespiti halinde valilikçe derhal faaliyetleri durdurularak 3359 sayılı Sağlık Hizmetleri Temel Kanununun Ek 11 inci maddesi hükümleri uygulanır.
+a) Ruhsat veya faaliyet izin belgesi olmadan diyaliz tedavisi hizmeti verilemez.
 
-b) Merkezlerin/ünitelerin Yönetmeliğe aykırı olarak ruhsat ve faaliyete esas olan bina, cihaz ve personel değişikliği yapmaları halinde Ek-1 denetim formundaki idari müeyyide uygulanır.
+b) Bu Yönetmeliğe aykırı olarak ruhsat ve faaliyete esas olan bina, cihaz ve personel değişikliği yapılamaz.
 
-c) Endikasyon dışı diyaliz uygulaması yapan, diyaliz uygulaması için uygunsuz rapor düzenlenmesini sağlayan merkezlerin, ilk tespitinde üç ay süreyle faaliyeti durdurulur. Aynı fiillerin tekrarı halinde merkezin faaliyet izin belgesi iptal edilir. Bu merkezlerin sahipleri bir daha diyaliz merkezi açamaz veya merkez sahipliği ortağı olamazlar.
+c) Endikasyon dışı diyaliz uygulaması yapılamaz. Diyaliz uygulaması için uygunsuz rapor düzenlenemez.
 
-ç) Hastalara veya üçüncü kişilere maddi çıkar temin ederek veya etik dışı diğer yöntemlerle kendisine hasta yönlendiren merkezlerin/ünitelerin, birinci tespitte üç ay, ikinci tespitte altı ay süreyle yeni hasta kabulü yasaklanır. Üçüncüsünde ruhsat ve faaliyet izni iptal edilir.
+ç) Hastalara veya üçüncü kişilere maddi çıkar temin ederek veya etik dışı diğer yöntemlerle kendisine hasta yönlendiremez.
 
-d) Hemodiyaliz ve periton diyalizi uygulamaları ile ilgili Yönetmelikte belirtilen kayıtları düzenli ve kolay ulaşılabilir şekilde tutmayan, gerçeğe aykırı veya eksik tutan, TÜRKDİVES’e girmeyen, istenilen bilgileri müdürlüğe göndermeyen merkezlere/ünitelere bu Yönetmeliğin eki Ek-1 denetim formundaki idari müeyyide uygulanır.
-
-e) Hemodiyaliz çözeltilerinin dilüsyonunda kullanılan suyun Avrupa Farmakopisinde belirtilen kimyasal ve bakteriyolojik limitlerle uyumlu arıtılmış su olması gerekir. Bu kapsamda Bakanlıkça yürürlüğe konulan Diyaliz Su Arıtma Sistemi Rehberine uygun olmayan suyun kullanıldığının tespiti durumunda, su numunesi tahlilleri tekrarlanır. Tekrarlanan sonuçlara göre bakteriyolojik açıdan uygun olmayan su numunesi kullandığı saptanan merkezin/ünitenin faaliyeti mevzuata uygun su sonucu gelene kadar durdurulur. Endotoksin açısından uygun olmayan su numunesi kullandığı saptanan merkez/ünite bir ay içerisinde endotoksin açısından uygun hale getirilir. Uygun hale getirilemeyen merkezin/ünitenin, uygun su sonucu gelene kadar yeni hasta kabulü durdurulur.
-
-f) Kamu kurum ve kuruluşları tarafından diyaliz hizmeti sunmak amacı ile açılan ünite ve merkezlerde bu Yönetmeliğe aykırılık durumlarında, kasıt, ihmal veya kusur şüphesi bulunan ilgililer hakkında kendi mevzuatına göre disiplin hükümleri uygulanır.
-
-g) Gerçek ve özel hukuk tüzel kişileri tarafından açılan merkezlerde, bu Yönetmeliğe aykırılık teşkil ettiği hâlde, müeyyidesi bulunmayan durumların tespiti hâlinde, merkezin mesul müdürü uyarılır; aykırılığın durumuna göre bir ayı geçmemek üzere süre verilir. Bu süre sonunda, aykırılığın giderilmemesinin tespiti hâlinde, bir önceki aya ait brüt hizmet gelirinin yüzde birinden yüzde üçüne kadar idari para cezası uygulanır.
-
-ğ) Herhangi bir sebeple faaliyeti durdurulan veya ruhsat ve faaliyet izin belgesi iptal edilen merkezlerde/ünitelerde tedavi gören hastaların tedavilerinin idamesi için müdürlük gerekli tedbirleri alır.
+d) Hemodiyaliz çözeltilerinin dilüsyonunda kullanılan suyun Avrupa Farmakopesinde belirtilen kimyasal ve bakteriyolojik limitlerle uyumlu arıtılmış su olması gerekir. Bu kapsamda Bakanlıkça yürürlüğe konulan Diyaliz Su Arıtma Sistemi Rehberine uygun olmayan suyun kullanıldığının tespiti durumunda, su numunesi tahlilleri tekrarlanır. Tekrarlanan sonuçlara göre bakteriyolojik açıdan uygun olmayan su numunesi kullandığı saptanan merkezin/ünitenin faaliyeti mevzuata uygun su sonucu gelene kadar durdurulur. Endotoksin açısından uygun olmayan su numunesi kullandığı saptanan merkez/ünite bir ay içerisinde endotoksin açısından uygun hale getirilir. Uygun hale getirilemeyen merkezin/ünitenin, uygun su sonucu gelene kadar yeni hasta kabulü durdurulur.
 
 #### Organ ve doku nakli merkezleri ile ilişki
 
-**MADDE 31 –** (1) Merkezler/üniteler; programlı olarak diyalize aldıkları her hastayı organ nakil merkezine başvurması için bilgilendirmek, organ nakli merkezleri de, nakle uygun hastaları Ulusal Bekleme Listesine kayıt ettirmekle mükelleftir.
+**MADDE 31 –** (1) Merkez/ünite; programlı olarak diyalize ilk kez aldıkları her yeni hastayı diyalize başladıktan sonraki en geç üç ay içinde böbrek nakli açısından değerlendirilmek üzere en yakın kamuya ait organ nakil merkezine başvurması için bilgilendirip göndermekle organ nakli merkezleri de nakle uygun hastaları ulusal bekleme listesine kayıt ettirmekle mükelleftir.
 
 #### Hasta ve cihaz kayıtları, su sisteminin kontrolü
 
-**MADDE 32 –** (1) Merkezde/ünitede, diyalize giren, takip edilen hastalar için, tetkik kayıtlarının da yer aldığı ayrı şahsî takip dosyaları tutulur. Bu kayıtlar, ayrıca bilgisayar ortamında da tutulabilir. Ayrıca her cihaz için, o cihazla ilgili periyodik teknik bakım, kalibrasyon ve onarım bilgilerine ilişkin kayıtlar tutulur.
+**MADDE 32 –** (1) Merkezde/ünitede, diyalize giren, takip edilen hastalar için, tetkik kayıtlarının da yer aldığı ayrı şahsî takip dosyaları tutulur. Bu kayıtlar, ayrıca bilgisayar ortamında da tutulabilir. Ayrıca her cihaz için o cihazla ilgili periyodik teknik bakım, kalibrasyon/validasyon ve onarım bilgilerine ilişkin kayıtlar tutulur.
 
-(2) Merkezlerin/ünitelerin kullandıkları Diyaliz Su Arıtma Sistemine ilişkin Rehber Bakanlıkça yayımlanır. Rehberde belirtilen usul ve esaslarda Diyaliz Bilimsel Danışma Komisyonunun görüşü alınarak Bakanlık tarafından değişiklik yapılabilir.
-
-(3) Merkezler/üniteler kullandıkları suların, arıtma sonrası örneklerinin bakteriyolojik ve kimyasal analizlerini Bakanlıkça hazırlanarak yayımlanan Diyaliz Su Arıtma Sistemi Rehberinde belirtilen sıklıkta, ilgili mevzuata göre ruhsatı bulunan özel laboratuvarlarda veya kamuya ait laboratuvarlarda yaptırmak zorundadır. Bu sonuçların standartlara uygun olduğunu gösterir belge, merkezde/ünitede bulundurulur.
+(2) Merkezler/üniteler kullandıkları suların, arıtma sonrası örneklerinin bakteriyolojik ve kimyasal analizlerini Bakanlıkça hazırlanarak yayımlanan Diyaliz Su Arıtma Sistemi Rehberinde belirtilen sıklıkta, ilgili mevzuata göre ruhsatı bulunan özel laboratuvarlarda veya kamuya ait laboratuvarlarda yaptırmak zorundadır. Bu sonuçların standartlara uygun olduğunu gösterir belge, merkezde/ünitede bulundurulur.
 
 #### Atıkların imhası
 
-**MADDE 33 –** (1) Kullanılan diyaliz sarf malzemesinin, diğer tıbbî atıkların insan ve çevre sağlığını olumsuz etkilemeyecek şekilde, kesici ve delici atıkların da sert plastik kutularda muhafaza edilmeleri ve imhaları 25/1/2017 tarihli ve 29959 sayılı Resmî Gazete’de yayımlanan Tıbbi Atıkların Kontrolü Yönetmeliğine uygun yöntemlerle sağlanır. Diyaliz solüsyon bidonları ve kuru birkarbonat kartuşları ve diyaliz işlemi ile beraber diyaliz makinelerinden çıkan sıvılar tıbbi atık kapsamında değerlendirilmez.
+**MADDE 33 –** (1) Kullanılan diyaliz sarf malzemesinin, diğer tıbbi atıkların insan ve çevre sağlığını olumsuz etkilemeyecek şekilde, kesici ve delici atıkların da sert plastik kutularda muhafaza edilmeleri ve imhaları 25/1/2017 tarihli ve 29959 sayılı Resmî Gazete’de yayımlanan Tıbbi Atıkların Kontrolü Yönetmeliğine uygun yöntemlerle sağlanır.
+
+(2) Diyaliz solüsyon bidonları ve kuru bikarbonat kartuşları ve diyaliz işlemi ile beraber diyaliz makinelerinden çıkan sıvılar tıbbi atık kapsamında değerlendirilmez.
 
 #### Reuse
 
 **MADDE 34 –** (1) Reuse uygulaması, hastanın anlayabileceği şekilde izah edilmek ve hastadan bilgilendirilmiş onay formu alınmak kaydıyla Bakanlıkça izin verilmiş merkezlerde/ünitelerde yapılır. Bu konudaki başvuruların değerlendirilmesi Bakanlıkça belirlenen esaslara göre yapılır.
 
-(2) Bakanlık izni olmaksızın reuse uygulaması yaptığı tespit edilen veya reuse izni olmakla birlikte Bakanlıkça belirlenen esaslara aykırı uygulama yapan merkezin/ünitenin üç ay süre ile yeni hasta kabulü durdurulur.
-
 #### Hasta taşıma hizmeti
 
-**MADDE 35 –** (1) Merkezler/üniteler yalnızca kendilerinde tedavi gören hastaların diyaliz öncesi merkeze/üniteye geliş ve diyaliz sonrası evine gidişini sağlamak amaçlı olarak hasta taşıma hizmeti verebilirler veya taşıma şirketlerinden hizmet satın alabilirler. Bu araçlar Ulaştırma ve Altyapı Bakanlığının konuyla ilgili mevzuatı kapsamında sayılır.
+**MADDE 35 –** (1) Merkez/ünite yalnızca kendilerinde tedavi gören hastaların diyaliz öncesi merkeze/üniteye geliş ve diyaliz sonrası evine gidişini sağlamak zorundadır. Bu amaçla hasta taşıma hizmeti verebilirler veya taşıma şirketlerinden hizmet satın alabilirler. Bu araçlar Ulaştırma ve Altyapı Bakanlığının konuyla ilgili mevzuatı kapsamında sayılır.
 
 ### SEKİZİNCİ BÖLÜM
-
-Eğitim Merkezleri, Eğitim ve Sertifikalandırma
-
-#### Eğitim merkezleri
-
-**MADDE 36 –** (1) Diyaliz merkezlerinde görev alacak personelin eğitimleri, ikinci fıkrada belirtilen şartları haiz ve Bakanlıkça eğitim vermek üzere yetkilendirilmiş diyaliz merkezlerince yürütülür.
-
-(2) Nefroloji yan dal uzmanlık eğitimi verme yetkisi olan tıp fakülteleri ile Bakanlığa ait eğitim ve araştırma hastanelerine aşağıdaki belgelerin bulunması halinde Bakanlıkça eğitim yetkisi verilir:
-
-a) Hemodiyaliz ve periton diyalizi konusunda eğitim ile yetkilendirilecek merkezlerin bu Yönetmelikte öngörülen merkez şartlarını taşıması ve ilgili müdürlükçe düzenlenmiş faaliyet izin belgesi,
-
-b) Merkezin Kurulu olduğu hastanede teorik eğitime imkân sağlayacak bir toplantı salonu veya derslikle birlikte gerekli eğitim materyali olduğunu gösteren belge,
-
-c) Hemodiyaliz merkezlerinin aktif olarak kullanılmakta olan en az on adet, pediatrik hemodiyaliz merkezlerinin en az beş adet hemodiyaliz cihazı olduğunu, periton diyalizi eğitimi yetkisi verilecek merkezin ise izlemde olan en az otuz hastası olduğunu gösteren belge,
-
-ç) Vereceği eğitimin niteliğine göre en az bir yıldır hemodiyaliz veya periton diyalizi uygulaması yaptığını ispatlayan belge,
-
-d) Eğitim yetkisi verilecek merkezlerin yılda en az bir defa eğitim programı açma taahhüdü ile bu programların her birisi için, toplam on personeli eğitime alma kapasite ve yeterliliğine dair belge.
-
-(3) Diyaliz eğitim merkezi olarak yetkilendirilmeyi talep eden merkez; eğitim sorumluluğunu üstlenecek nefroloji uzmanının ve diğer eğiticilerin isim ve unvanlarını, bir yıl içerisinde kaç dönem kurs düzenleyeceğini, her eğitim döneminde eğitim verilebilecek personel sayısını, eğitim yeri ve eğitim materyallerini haiz olduğunu bildiren yazıları ile birlikte müdürlük aracılığı ile Bakanlığa başvurur.
-
-(4) Başvurular Diyaliz Bilimsel Danışma Komisyonunun görüşü alınarak değerlendirilir, bu Yönetmelikte öngörülen şartları taşıyan diyaliz merkezlerine Bakanlıkça eğitim yetkisi verilir ve buna dair yetki belgesi düzenlenir. Yetki belgesi düzenlenen eğitim merkezleri Bakanlık internet sitesinde yayınlanır. Nefroloji yan dal uzmanlık eğitimi verme yetkisini kaybeden merkezin, diyaliz eğitim verme yetki belgesi altı ay içerisinde iptal edilir.
-
-(5) Diyaliz sertifikasyon eğitimleri, sertifikasyon ve resertifikasyon sınavına ilişkin iş ve işlemler 4/2/2014 tarihli ve 28903 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği kapsamında hazırlanan eğitim standartları doğrultusunda yürütülür.
-
-#### Diyaliz eğitimine alınacak personel
-
-**MADDE 37 –** (1) Hemodiyaliz eğitimine aşağıdaki sıralamaya göre;
-
-a) Kamu veya özel hemodiyaliz merkezlerinde/ünitelerinde çalışan,
-
-b) Yeni açılacak hemodiyaliz merkezlerinde/ünitelerinde çalışacağı müdürlük tarafından bildirilen,
-
-c) Herhangi bir resmî veya özel kurum ve kuruluşta çalışmayan,
-
-ç) Diyaliz merkezlerinin/ünitelerin denetimlerinde yer alacak,
-
-d) Kamu veya özel sağlık kuruluşunda diyaliz merkezi dışında görevli,
-
-(Mülga ibare:RG-10/12/2022-32039) tabip unvanını haiz kişiler başvurabilir.
-
-(2) (Mülga:RG-10/12/2022-32039)
-
-(3) Devlet hizmeti yükümlülüğü bulunan tabipler ve aile hekimliği yapan tabiplerin diyaliz eğitimine başvurması durumunda, öncelikle tabi oldukları mevzuat hükümleri geçerlidir.
-
-(4) Eğitim başvuruları bu Yönetmelik eki Ek-8’de yer alan eğitim başvuru evrakları ile birlikte doğrudan eğitim merkezlerine yapılır.
-
-(5) İnceleme ve denetimlerde görev almak üzere Bakanlık ilgili biriminde çalışan ve bu Yönetmeliğe göre eğitim alma şartını haiz bulunan personel, asli idari görevlerini aksatmayacak şekilde Bakanlıkça düzenleme yapılmak kaydıyla ve eğitim kontenjanı nispetine bağlı kalmaksızın eğitime alınır. Söz konusu personelin eğitim başvuru işlemleri Genel Müdürlükçe yapılır.
-
-(6) Eğitim başvurularında, eğitim merkezlerince ihtiyacın önceliği göz önüne alınarak eğitim planlaması yapılır.
-
-(7) Eğitim sonunda başarılı olanlara ilgili eğitim merkezince sertifikası düzenlenir. Eğitim merkezince düzenlenecek sertifikalar için, eğitim merkezinin bulunduğu ilde bulunan Müdürlük aracılığıyla liste halinde Bakanlıktan sertifika numarası talep edilir. Bakanlıkça sertifika numaraları belirlenerek ilgili müdürlüğe bildirilir.
-
-(8) Yabancı ülke vatandaşı olarak diyaliz eğitimi talebinde bulunup, sağlık alanında işbirliği anlaşmaları çerçevesinde bu eğitime alınan uzman tabip ve tabiplere sadece eğitim gördüğü yerden katılım yazısı verilebilir, sertifika düzenlenmez.
-
-(9) Diyaliz sertifikalandırma eğitimleri ve resertifikasyon sınavına ilişkin iş ve işlemler 4/2/2014 tarihli ve 28903 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği kapsamında hazırlanan eğitim standartları doğrultusunda yürütülür.
-
-### DOKUZUNCU BÖLÜM
 
 Çeşitli ve Son Hükümler
 
 #### Hüküm bulunmayan hâller
 
-**MADDE 38 –** (1) Bu Yönetmelikte hüküm bulunmayan hâllerde, ünite ve merkezin açıldığı yere göre, 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliği, 15/2/2008 tarihli ve 26788 sayılı Resmî Gazete’de yayımlanan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik, 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliği ve ilgili diğer mevzuat hükümleri uygulanır.
+**MADDE 36 –** (1) Bu Yönetmelikte hüküm bulunmayan hâllerde, ünite ve merkezin açıldığı yere göre, 30/1/2025 tarihli ve 32798 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliği, 19/4/2025 tarihli ve 32875 sayılı Resmî Gazete’de yayımlanan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik, 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliği ve ilgili diğer mevzuat hükümleri uygulanır.
 
 #### Yürürlükten kaldırılan yönetmelik
 
-**MADDE 39 –** (1) 18/6/2010 tarihli ve 27615 sayılı Resmî Gazete’de yayımlanan Diyaliz Merkezleri Hakkında Yönetmelik yürürlükten kaldırılmıştır.
+**MADDE 37 –** (1) 1/3/2019 tarihli ve 30701 sayılı Resmî Gazete’de yayımlanan Diyaliz Merkezleri Hakkında Yönetmelik yürürlükten kaldırılmıştır.
 
-#### Sertifika almış personel ile ilgili muafiyetler
+#### Ruhsatlandırılmış merkezler
 
-**GEÇİCİ MADDE 1 –** (Değişik:RG-24/9/2019-30898)
+**GEÇİCİ MADDE 1 –** (1) Bu Yönetmeliğin yayımı tarihinden önce ruhsatlandırılmış merkezler mevcut halleri ile çalışmaya devam ederler.
 
-(1) 1/3/2019 tarihinden önce diyaliz sertifikası almış ve geçerli sertifikası bulunan tabip dışı sağlık meslek mensupları diyaliz hizmetlerinde görevlendirilebilir. Bu sağlık meslek mensuplarının resertifikasyon hakları saklıdır.
+#### Organ ve doku nakli merkezleri ile ilişki
+
+**GEÇİCİ MADDE 2 –** (1) Bu Yönetmeliğin yayımı tarihinden önce tanı almış diyaliz hastalarına bir yıl içinde 31 inci maddeye göre işlem gerçekleştirilir.
+
+(2) Bu Yönetmeliğin yayımı tarihinden önce tanı almış diyaliz hasta raporunda 22 nci maddenin birinci fıkrasında ifade edilen periton diyalizinin uygulanmama gerekçelerini belirtme şartı aranmaz.
+
+#### Geçiş hükmü
+
+**GEÇİCİ MADDE 3 –** (1) 1/6/2026 tarihi ile bu Yönetmeliğin yayımı tarihi arasında ev hemodiyalizi ve periton diyalizine dair hususlarda da bu Yönetmelik hükümleri uygulanır.
 
 #### Yürürlük
 
-**MADDE 40 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+**MADDE 38 –** (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
 
 #### Yürütme
 
-**MADDE 41 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
+**MADDE 39 –** (1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.
 
-Ekleri için [tıklayınız](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31297&MevzuatTur=7&MevzuatTertip=5).
-
-|  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
-| Tarihi | Sayısı |
-| 1/3/2019 | 30701 |
-| Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin |
-| Tarihi | Sayısı |
-| 1. | 24/9/2019 | 30898 |
-| 2. | 10/12/2022 | 32039 |
+Ekleri için [tıklayınız](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46381&MevzuatTur=7&MevzuatTertip=5).

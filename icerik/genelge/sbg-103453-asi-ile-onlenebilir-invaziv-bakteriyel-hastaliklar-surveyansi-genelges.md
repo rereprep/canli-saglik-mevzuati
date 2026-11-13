@@ -6,8 +6,7 @@ tarih: "2016-12-15"
 sayi: "2016/23"
 birim: "Türkiye Halk Sağlığı Kurumu"
 konu: "Aşı ile önlenebilir invaziv bakteriyel hastalıkların sürveyansı, vaka tanımları ve bildirim süreçlerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103453/asi-ile-onlenebilir-invaziv-bakteriyel-hastaliklar-surveyansi-genelges.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103453/asi-ile-onlenebilir-invaziv-bakteriyel-hastaliklar-surveyansi-genelges.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

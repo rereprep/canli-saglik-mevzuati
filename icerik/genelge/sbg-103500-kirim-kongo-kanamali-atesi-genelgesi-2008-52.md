@@ -6,8 +6,7 @@ tarih: "2008-07-09"
 sayi: "2008/52"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Kırım-Kongo Kanamalı Ateşi (KKKA) vakalarında risk değerlendirmesi, kene tutunması sonrası yapılacak işlemler ve izlem ilkelerini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103500/kirim-kongo-kanamali-atesi-genelgesi-2008-52.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103500/kirim-kongo-kanamali-atesi-genelgesi-2008-52.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

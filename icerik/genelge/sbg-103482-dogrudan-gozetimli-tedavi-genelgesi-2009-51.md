@@ -6,8 +6,7 @@ tarih: "2009-08-28"
 sayi: "2009/51"
 birim: "Verem Savaşı Dairesi Başkanlığı"
 konu: "Tüberküloz hastalarında Doğrudan Gözetimli Tedavi (DGT) uygulamasının yaygınlaştırılması, uygulanış usulü ve takibini düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103482/dogrudan-gozetimli-tedavi-genelgesi-2009-51.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103482/dogrudan-gozetimli-tedavi-genelgesi-2009-51.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true

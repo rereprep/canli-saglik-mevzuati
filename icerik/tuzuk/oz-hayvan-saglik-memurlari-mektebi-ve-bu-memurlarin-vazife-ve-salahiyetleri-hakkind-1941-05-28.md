@@ -5,208 +5,348 @@ tur: "tuzuk"
 rg_tarih: "1941-05-28"
 rg_sayi: "4819"
 etiketler: ["sağlıkla ilgili genel mevzuat"]
-kaynak: "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/arsiv/4819.pdf"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=215799&MevzuatTur=6&MevzuatTertip=3"
 not: "Ek IV: Sağlıkla ilgili tüzükler."
 durum: "yürürlükte"
-ocr: true
-duzeltildi: true
 kontrol_edildi: true
 ---
 
-Hayvan Sağlık Memurları Mektebi ve bu memurların vazife ve selâhiyetleri hakkında- Nizamname
+### HAYVAN SAĞLIK MEMURLARI MEKTEBİ VE BU
 
-**<i>BİRİNCİ FASIL</i>** Mektebler
+### MEMURLARIN VAZİFE VE SALAHİYETLERİ
 
-BİRİNCİ KISIM Teşkilât ve tedrisat
+### HAKKINDA NİZAMNAME[1]
 
-**Madde 1 –** Ziraat Vekâleti hayvan sağlık memurları yetiştirmek maksadile lüzum göreceği yerlerde (hayvan sağlık memurları mektebi) açar ve bunlardan dilediğini kapar yahut yerlerini değiştirir.
+Bakanlar Kurulu Kararının Tarihi : 14.5.1941 No : 2/15799
 
-**Madde 2 –** Hayvan Sağlık Memurları Mektebi bütçede mevcud tahsisata ve bu tahsisatın ne yolda sarfolunacağmı gösteren Bütçe Kanunu hükümlerine ve (sarih hüküm bulunmadığı takdirde) Ziraat Vekilinin vereceği direktiflere göre idare edilir.
+İlgili Kanunun Tarihi : 6.3.1985 No : 3161
 
-### .C.
+Yayımlandığı Resmî Gazetenin Tarihi : 28.5.1941 No : 4819
 
-Gazete rinievvel 1336 - 1920
+Yayımlandığı Düsturun Tertibi : 3 Cildi : 22 Sayfa : 336
 
-### Y IS 1941
+### BİRİNCİ FASIL
 
-### SS AA YY II:: 44881199
+Mektepler
 
-### AMBA
+### BİRİNCİ KISIM
 
-### A M E L ER
+#### Teşkilat ve tedrisat
 
-**Madde 3 –** Bu mekteb'lerin tahsil müddeti iki sene ve her ders yılı 9 aydır. Mahallî icab ve ihtiyaçlara göre tedrisata hangi aylarda başlanılacağı ve ne zaman nihayet verileceği Vekâletçe tesbit olunur.
+**Madde 1 –** Ziraat Vekaleti hayvan sağlık memurları yetiştirmek maksadiyle lüzum göreceği yerlerde (Hayvan sağlık memurları mektebi) açar ve bunlardan dilediğini kapar yahut yerlerini değiştirir.
 
-**Madde 4 –** Tedrisat nazarî, amelî ve tatbikî esaslar dahilinde yapılır :
+**Madde 2 –** Hayvan Sağlık Memurları Mektebi bütçede mevcut tahsisata ve bu tahsisatın ne yolda sarfolunacağını gösteren Bütçe Kanunu hükümlerine ve (Sarih hüküm bulunmadığı takdirde) Ziraat Vekilinin vereceği direktiflere göre idare edilir.
 
-A) Nazarî tedrisat: Vekâletçe bir talimatname ile tesbit edilecek meslekî derslerin muallimler tarafından dershanelerde izahı suretile icra olunur.
+**Madde 3 –** (Değişik: 20.12.1965 - 6/5749 K.)
 
-B) Amelî tedrisat, nazarî derslerin dershanelerde veya lâboratuvarlarda bir de amelî olarak gösterilmesidir.
+Bu okulların öğrenim süresi üç yıl olup her ders yılı 9 aydır. Mahalli icap ve ihtiyaçlara göre, öğretime hangi aylarda başlanılacağı ve ne zaman son verileceği Bakanlıkça tespit olunur.
 
-C) Tatbikî tedrisat muallimlerile birlikte kısmen mektebte ve kısmen hastalık ve zootekni sahalarında ve müesseselerinde icra edilir.
+**Madde 4 –** Tedrisat nazari, ameli ve tatbiki esaslar dahilinde yapılır:
 
-Bu nevi tedrisata bilhassa son sınıfta ehemmiyet verilir.
+A) Nazari tedrisat: Vekaletçe bir talimatname ile tesbit edilecek mesleki derslerin muallimler tarafından dershanelerde izahı suretiyle icra olunur.
 
-**Madde 5 –** Hayvan sağlık memurları mekteplerinin idare ve talim kadroları talebe miktarına ve tahsisatın kifayetine göre vekâletçe tesbit olunur.
+B) Ameli tedrisat, nazari derslerin dershanelerde veya laboratuvarlarda bir de ameli olarak gösterilmesidir.
 
-**Madde 6 –** Mekteb müdürü, mektebin idari, malî ve fennî işlerini kanun, nizamname ve talimatnamelere göre yapar. Ders programlarının aynı ile tatbikini temin eder. Uhdesine tevdi edilen dersleri programı mucibince verir. Bütün bu işler için doğrudan doğruya Ziraat Vekâletile muhabere eder.
+C) Tatbiki tedrisat muallimleriyle birlikte kısmen mektepte ve kısmen hastalık ve zootekni sahalarında ve müesseselerinde icra edilir. Bu nevi tedrisata bilhassa son sınıfta ehemmiyet verilir.
 
-**Madde 7 –** Muallim veterinerler kendilerine ayrılan dersleri program mucibince talebeye öğretirler. Mektebin diğer memur ve müstahdemleri kanun, nizamname ve talimatnameleri mucibince ve müdürün nezareti altında iş görürler.
+**Madde 5 –** Hayvan sağlık memurları mekteplerinin idare ve talim kadroları talebe miktarına ve tahsisatın kifayetine göre Vekaletçe tesbit olunur.
 
-İKİNCİ KISIM Mektebe kabul şartları ve muameleleri
+**Madde 6 –** Mektep müdürü, mektebin idari, mali ve fenni işlerini kanun, nizamname ve talimatnamelere göre yapar. Ders programlarının aynı ile tatbikını temin eder. Uhdesine tevdi edilen dersleri programı mucibince verir. Bütün bu işler için doğrudan doğruya Ziraat Vekaletiyle muhabere eder.
 
-**Madde 8 –** Hayvan sağlık memurları mekteblerine girebilmek için :
+**Madde 7 –** - (Değişik: 20.12.1965 - 6/5749 K.)
 
-A) Türk olmak, B) Orta mektep mezunu bulunmak, C) Yaşları 18 den aşağı ve 25 den yukarı olmamak ve 20 yaşından yukarı olanlar için askerliklerini yapmış bulunmak, Ç) İkamet ettiği mahallin polis idaresinden iyi hal sahibi olduğuna dair vesika göstermek, D) Sıhhî vaziyetinin mektebde okumağa, at üzerinde ve icabında yaya olarak seyir ve sefere ve memleketin her tarafında vazife ifasına elverişli olduğuna dair tam teşekküllü hastahanelerin birinden rapor getirmek şarttır.
+Öğretmen veteriner hekimlerle diğer öğretmenler kendilerine ayrılan dersleri program gereğince öğrenciye öğretirler. Okulun diğer memur ve müstahtemleri kanun, tüzük ve yönetmelikleri uyarınca ve müdürün gözetimi altında işgörürler.
 
-**Madde 9 –** Yukarıki maddede gösterilen şartları haiz olmak üzere müracaat edenlerin mikdarı kadrodan fazla bulunduğu takdirde talip-
+### İKİNCİ KISIM
 
-İçlerinden en ehliyetlileri seçilir. Müsavi ehliyet gösterenler arasında yabancı garp lisanı bilenler tercih olunur.
+#### Mektebe kabul şartları ve muameleleri
 
-**Madde 10 –** Müsabaka imtihanlarının hangi derslerden ve ne suretle yapılacağı Ziraat Vekâletince bir talimatname ile tesbit olunur.
+**Madde 8 –** (Değişik: 20.12.1965 - 6/5749 K.)
 
-**Madde 11 –** Mektebe parasız yatılı talebe alındığı takdirde onlardan tahsili terk ettiği yahut her hangi bir sebeble cezaen mektepten çıkarıldığı veya tahsilini bitirdikten sonra mecburî hizmetini yapmaktan imtina ettiği veyahut memuriyette kullanılmasına mâni olacak bir vaziyet ihdas eylediği takdirde mektebin kendisine yaptığı bütün masrafları nizamî faizile birlikte ödeyeceğine dair noterden tasdikli birer kefaletname alınır.
+Hayvan Sağlık Memurları Okullarına girebilmek için;
 
-**Madde 12 –** Mektebe girmek için müracaatta bulunanların vesikaları ve icabında müsabaka imtihanı yapıldığı takdirde kâğıtları mekteb müdürünün reisliği altında muallimlerden teşekkül edecek bir komisyon tarafından tetkik olunarak kabulleri muvafık görülen talebenin listesi bir mazbata ile vekâletin tasdikına gönderilir. Tasdik muamelesinin ikmalinden sonra keyfiyet talebeye tebliğ olunur.
+A) Türk olmak,
 
-**Madde 13 –** Mektebe kayıt ve kabul şartlarile hangi zamanlarda nereye ve ne suretle müracaat olunacağı ve derslere başlama günü mekteb müdürleri tarafından mutad vasıtalarla ilân olunur.
+B) Ortaokul veya muadili bir okul mezunu bulunmak,
 
-ÜÇÜNCÜ KISIM İmtihan ve sınıf geçme usulleri ve neticeleri
+C) Yaşları 15 den aşağı 19 dan yukarı olmamak,
+
+Ç) (Mülga: 27.1.1968 - 6/9501 K.)
+
+D) Sağlık durumunun okulda okumağa, at üzerinde ve gerektiğinde yaya olarak seyir ve sefere ve memleketin her tarafında görev yapmağa elverişli olduğuna dair tam teşekküllü hastahanelerin birinden rapor getirmek,
+
+şarttır.
+
+**Madde 9 –** Yukarıki maddede gösterilen şartları haiz olmak üzere müracaat edenlerin miktarı kadrodan fazla bulunduğu takdirde talipler arasında müsabaka imtihanı yapılarak içlerinden en ehliyetlileri seçilir. Müsavi ehliyet gösterenler arasında yabancı garp lisanı bilenler tercih olunur.
+
+**Madde 10 –** Müsabaka imtihanlarının hangi derslerden ve ne suretle yapılacağı Ziraat Vekaletince bir talimatname ile tesbit olunur.
+
+**Madde 11 –** Mektebe parasız yatılı talebe alındığı takdirde onlardan tahsili terk ettiği yahut herhangi bir sebeple cezaen mektepten çıkarıldığı veya tahsilini bitirdikten sonra mecburi hizmetini yapmaktan imtina ettiği veyahut memuriyette kullanılmasına mani olacak bir vaziyet ihdas eylediği takdirde mektebin kendisine yaptığı bütün masrafları nizami faiziyle birlikte ödeyeceğine dair noterden tasdikli birer kefaletname alınır.
+
+**Madde 12 –** Mektebe girmek için müracaatta bulunanların vesikaları ve icabında müsabaka imtihanı yapıldığı takdirde kağıtları mektep müdürünün reisliği altında muallimlerden teşekkül edecek bir komisyon tarafından tetkik olunarak kabulleri muvafık görülen talebenin listesi bir mazbata ile Vekaletin tasdikına gönderilir. Tasdik muamelesinin ikmalinden sonra keyfiyet talebeye tebliğ olunur.
+
+**Madde 13 –** Mektebe kayıt ve kabul şartlariyle hangi zamanlarda nereye ve ne suretle müracaat olunacağı ve derslere başlama günü mektep müdürleri tarafından mütüt vasıtalarla ilan olunur.
+
+### ÜÇÜNCÜ KISIM
+
+#### İmtihan ve sınıf geçme usulleri ve neticeleri
 
 **Madde 14 –** Her sene biri yazılı diğeri sözlü olmak üzere iki imtihan yapılır. İmtihanlarda tam numara ondur. 10 ve 9 pek iyi, 8, 7 iyi, 6, 5 orta daha aşağı numaralar zayıf derece sayılır. İmtihanlarda kesirli numara verilmez.
 
-**Madde 15 –** Sınıf geçebilmek için yazılı ve sözlü imtihanlarda her bir dersden kazanılan numaraların vasatisi 5 den aşağı düşmemek şarttır. Vasatilerde yarım numaralar talebe lehine 1 numaraya iblâğ olunur. Meselâ her hangi bir dersten yazılı imtihanda 7, sözlü imtihanda 8 numara kazanılmış olduğu takdirde bunların vasatisi olan 7,5 numara 8 sayılır.
+**Madde 15 –** Sınıf geçebilmek için yazılı ve sözlü imtihanlarda her bir dersten kazanılan numaraların vasatisi 5 den aşağı düşmemek şarttır. Vasatilerde yarım numaralar talebe lehine 1 numaraya iblağ olunur. Mesela herhangi bir dersten yazılı imtihanda 7, sözlü imtihanda 8 numara kazanılmış olduğu takdirde bunların vasatisi olan 7,5 numara 8 sayılır.
 
-**Madde 16 –** Diğer derslerden geçecek kadar numara almış olup da yalnız bir veya iki dersten zayıf numara alanlar ile bütün derslerden kazandığı numaralar mecmuunun vasatisi 5 den yukarı olduğu halde 3 dersten zayıf numara alanlar ders başlangıcına yakın yalnız bu derslerden bütünleme imtihanına tâbi tutulurlar.
+**Madde 16 –** Diğer derslerden geçecek kadar numara almış olup da yalnız bir veya iki dersten zayıf numara alanlar ile bütün derslerden kazandığı numaralar mecmuunun vasatisi 5 den yukarı olduğu halde 3 dersten zayıf numara alanlar ders başlangıcına yakın yalnız bu derslerden bütünleme imtihanına tabi tutulurlar.
 
-Bu imtihanda derslerin her hangi birisinden 5 den aşağı numara alanlar sınıfta kalırlar.
+Bu imtihanda derslerin herhangi birisinden 5 den aşağı numara alanlar sınıfta kalırlar.
 
-**Madde 17 –** Hastalık gibi makbul bir mazeret sebebile girilemiyen derslerin imtihanları da bütünleme imtihanlarile birlikte icra edilir. Ancak bu derslerden ikinci bir bütünleme imtihanı yapılamaz.
+**Madde 17 –** Hastalık gibi makbul bir mazeret sebebiyle girilemiyen derslerin imtihanları da bütünleme imtihanlariyle birlikte icra edilir. Ancak bu derslerden ikinci bir bütünleme imtihanı yapılamaz.
 
-**Madde 18 –** Aynı sınıfta veyahut mektebin bütün tedris müddeti içinde iki kerre sınıfta kalanlar mektebden çıkarılır, imtihanlara girmemek de sınıfda kalmayı mucib olur. Hastalık ve askerlik gibi makbul sebeplerle ders senesinin yarısından ziyade müddetle mektepde bulunamamaktan dolayı iki defa sınıfta kalanlar Ziraat Vekilinin tasvibile tahsillerine devam edebilirler.
+**Madde 18 –** Aynı sınıfta veyahut mektebin bütün tedris müddeti içinde iki kere sınıfta kalanlar mektepten çıkarılır. İmtihanlara girmemek de sınıfta kalmayı mucip olur. Hastalık ve askerlik gibi makbul sebeplerle ders senesinin yarısından ziyade müddetle mektepte bulunamamaktan dolayı iki defa sınıfta kalanlar Ziraat Vekilinin tasvibiyle tahsillerine devam edebilirler.
 
-**Madde 19 –** Tahsilini ikmal edenlere mektepçe tanzim ve Ziraat Vekâletince tescil ve tasdik olunmak üzere birer şahadetname verilir.
+**Madde 19 –** Tahsilini ikmal edenlere mektepçe tanzim ve Ziraat Vekaletince tescil ve tasdik olunmak üzere birer şahadetname verilir.
 
-**Madde 20 –** Mekteblerde dahilî işlerin ne yolda yürütüleceği nazarî, amelî ve tatbikî derslerin ne kadar müddette ve hangi müfredatla tedris olunacağı Vekâletçe hazırlanacak bir talimatname ile tesbit olunur.
+**Madde 20 –** Mekteplerde dahili işlerin ne yolda yürütüleceği nazari, ameli ve tatbiki derslerin ne kadar müddette ve hangi müfredatla tedris olunacağı Vekaletçe hazırlanacak bir talimatname ile tesbit olunur.
 
-İKİNCİ FASIL Hayvan sağlık memurlarının vazife ve salâhiyetleri
+### İKİNCİ FASIL
 
-**Madde 21 –** Hayvan sağlık memurları seyyar veya sabit olmak üzere ikiye ayrılırlar.
+### HAYVAN SAĞLIĞI MEMURLARl[2]
 
-BİRİNCİ KISIM Seyyar memurlar
+**Madde 21 –** (Mülga: 26.1.1973 - 7/5680 K.)
 
-**Madde 22 –** Seyyar memurlar birer at tedarikine mecburdurlar.
+**Madde 22 –** (Mülga: 26.1.1973 - 7/5680 K.)
 
-**Madde 23 –** Seyyar memurların hayvan sağlık zabıtasındaki vazifeleri :
+**Madde 23 –** (Değişik: 26.1.1973 - 7/5680 K.)
 
-A) Kara hudud mıntakalarına, B) İthalât ve ihracat kapıları ve iskelelerile istasyon ve tahaffuzhanelere, C) İç memleket hayvan hareketlerine aid olmak üzere başlıca üçe ayrılır. Bunlardan başka müteferrik vazifeleri de vardır.
+Hayvan sağlığı memurları:
 
-(I) Kara hudud mıntakalarındaki vazifeler
+A - Kara sınırları bölgelerinde,
 
-**Madde 24 –** Kara hudud mıntakalarına tayin edilen hayvan sağlık memurları kendi iş mıntakası dahilinde ve hududun 15 kilometre derinliğindeki sahada mevcud büyük ve küçük baş hayvanları sağlık zabıtası kanununa dahil hastalıklar bakımından daimî murakabe altında bulundururlar. Bu maksatla:
+B - İthalat ve ihracat kapıları ve iskeleleri ile istasyon ve tahaffuzhanelerde,
 
-A) Hayvanları serirî ve icabında termometre tatbiki suretile muayene ederler, B) Komşu hükümetlerle yapılmış olan mukaveleler ve hayvan sağlık zabıtası nizamnamesinin 36 ncı maddesi hükümlerine göre hudud, mıntıkası dahilinde hayvanlarla daimî olarak kalmak üzere bu mıntakaya giren hayvanların damga, kayıt ve tescil işlerini yapmakla mükellef bulunan memurlara bu hususlarda yardım ederler, C) Hudut, kapı, iskele veya istasyonlarda muamelesi ikmal edildikten sonra Türkiyeye giren veyahut hayvan hareketleri talimatnameleri mucibince ecnebi memleketlere ihraç edilmek üzere hinterlanttan hudut mıntakasına dahil olan hayvanların bu mıntakadaki seyir ve hareketlerini takip hususunda bağlı bulundukları makamlardan verilecek emirlere göre iş yaparlar, Ç) Bağlı bulundukları teknik makamın vereceği emir ve program dahilinde her ayın on beş gününü yukarıdaki fıkralarda yazılı işlerin ifasına tahsis ederler. Bu program dahilinde hangi tarihlerde nerelerde ne iş gördüklerini kendilerine verilen bir iş cüzdanına kaydederek usulüne göre salahiyetli makamlara tasdik ettirirler, D) Muayene ve kontrol esnasında sıhhat alâmetlerinde görecekleri her değişikliği ve hastalık veya hastalıktan şüpheli halleri bağlı bulundukları veteriner teşkiâtına en seri vasıta ile haber verirler ve icrasına salahiyetli bulundukları ilk tedbirleri alırlar.
+C - Yurtiçi hayvan hareketlerinde,
 
-(II) İthalât ve ihracatta kapı, iskele, istasyon mevkilerinde ve tahaffuzhanelerdeki vazifeler
+Ç - Mezbahalarda ve et kombinalarında,
 
-**Madde 25 –** Hayvan sağlık memurlarının kapı, iskele, istasyon mevkilerinden yapılacak ithalât ve ihracat ile tahaffuzhanelere aid vazifeleri aşağıda gösterilmiştir :
+D - Veteriner kurumlarında ve hayvan hastanelerinde,
 
-A) İthalâtta tahliyeden evvel ve deniz ve kara vasıtaları dahilinde yapılacak muayenelerde Veterinerlere refakat ve hayvanların muayenesi esnasında zabt ve raptın temini, derecelerinin alınması, muayenelerin kolaylaştırılması, vesikaların tetkiki gibi kanun ve nizamların ihtiva ettiği ve fennin lüzum gösterdiği esaslar dahilinde veterinerin emirlerini aynen yapmak, B) Hastalık veya hastalıktan şüpheli hallerde kanun ve nizamname mucibince hayvanların reddi, itlafı, defni ve imhası, tathir ve dezenfeksiyon gibi tâbi olacakları bütün muameleleri hakkında veteriner tarafından verilecek emirleri yapmak, C) Nakil vasıtalarından tahliye sırasında ve sahilden yahut kara kapı ve istasyonlarından Son muayene mevkiine veya tahaffuzhaneye şevkleri esnasında hayvanlara nezaret; eşkâlinin alınması, numaralanması, kayıt ve tescilleri gibi nihaî muayenin icap ettirdiği bütün hazırlıkları ve hayvanların bu mevkilerde bulundukları müddetçe her bakımdan nizam ve intizamı temin etmek, Ç) Son muayene mevkilerinde veteriner tarafından yapılacak muayenelerde hararet derecelerine bakmak, tetkikat icrası için kan ve süt gibi lâboratuvara gönderilecek maddeleri almak ve ambalajlarını yaması, kayıt ve tescilleri gibi nihaî muayenenin icap ettirdiği bütün hazırlıkları ve hayvanların bu mevkilerde bulundukları müddetçe her bakımdan nizam ve intizamı temin etmek, D) Hayvanların ecnebi memleketlere ihracı Veya sahillerde bil iskeleden diğer bir iskeleye geçirilmesi esnasında kanun, nizamname ve hayvan hareketleri talimatnameleri mucibince zapturaptın teminine, tescil muamelesinin yapılmasına ve intizamın muhafazasına müteallik hususlarda veterinere yardım ve ondan alacakları emirler dahilinde hareket etmek, E) Türkiyeye sokulacak ve Türkiyeden çıkarılacak hayvan maddelerinin muayenesi ve vesikalarının kontrolü ve bilhassa balyelerin veya parçaların numaralanması ve lâboratuvar muayenesi için parça alınması ve bunların ambalajı ve lâboratuvara gönderilmesi ve neticelerin takibi hususlarında veterinerin direktiflerine göre iş yapmak, F) Hudud ve savahil mıntakasındaki ithal, ihraç mevkilerile iskele, rıhtım, istasyon gibi hayvan irkâb ve tahlife edilen yerlerin hayvan hareketlerini müteakib temizlenmesini dez enfeksiyonu işlerini yapmak ve yaptırmak.
+E - Hayvan ıslah ve üretim işlerinde,
 
-(III) İç memleket hayvan hareketlerindeki vazifeler
+F - Müteferrik işlerde görev alırlar.
 
-**Madde 26 –** Hayvan sağlık memurlarının iç memleket hayvan hareketlerine aid vazifeleri aşağıda gösterilmiştir:
+### (I)
 
-A) Münferiden hizmet gördükleri her hangi bir mevkiden hareket edecek veya muayene istasyonundan geçecek olan hayvanların birer birer muayenelerini yapar ve vesikalarını kontrol ederler. Bu muayenelerde Hayvan Sağlık Zabıtası Kanununa dahil hastalıklardan, birisini buldukları Veya şüphe ettikleri takdirde salâhiyetleri dahilindeki ilk tedbirleri alır ve keyfiyeti bağlı bulundukları veterinere veyahut mahallin mülkiye âmirine en seri vasıta ile bildirirler, B) Hayvanların vesikaları tam, uygun ve hayvanlar salim bulunduğu takdirde menşe şahadetnamelerini veya sağlık raporlarını (hayvanlar ve vesikalar muayene edilmiş ve tam bulunmuştur) kaydile vize ederler, ve altına sarih adreslerini yazdıktan sonra resmî mühürle ve imzalarile tasdik ederek hayvanların geçmesine müsaade ve keyfiyeti yine en seri vasıta ile mafevk veterinere veyahut mülkiye amirine bildirirler, C) Hayvan Sağlık Zabıtası Nizamnamesinin 40 ve 41 inci maddelerile muhtelif mıntakalar için tanzim ve ilân edilmiş bulunan hayvan hareketleri talimatnameleri hükmünce aşiretlerin ve süreklerin menşelerinde, geçecekleri ve son varacakları yerlerde, demir ve deniz yollan nakliye vasıtalarına aid irkâp, seyrüsefer ve tahliye sıralarında gerek hayvanların, gerek nakil vasıtalarının tâbi olacakları bütün fennî ve idarî muamelelerde bağlı bulundukları veteriner teşkilâtının veya mülkiye âmirinin direktifleri dahilinde hareket ederler.
+#### Kara hudut mıntakalarındaki vazifeler
 
-(IV) Müteferrik vazifeler
+**Madde 24 –** Kara hudut mıntakalarına tayin edilen hayvan sağlık memurları kendi iş mıntakası dahilinde ve hududun 15 kilometre derinliğindeki sahada mevcut büyük ve küçük baş hayvanları Sağlık Zabıtası Kanununa dahil hastalıklar bamından daimi murakabe altında bulundururlar. Bu maksatla :
 
-**Madde 27 –** Veteriner teşkilâtının daimî murakabesi altında bulundurulması icap eden pazar, panayır gibi hayvan alım satımı yapılan yerlerin, süthane, inekhane, hanlar, caribaz, arabacı ve kiracı ahırları ve menzilhane gibi toplu hayvan bulundurulan mevkilerin ve buralarda kullanılan bütün vasıtaların intizamı, temizliği, dezenfeksiyonu hususlarında ve sair teknik hususlarda belediyelere ve halka aid mükellefiyetlerin tatbikatını kontrol ederek neticelerini bağlı bulundukları veteriner teşkilâtına bildirirler.
+A) Hayvanları seriri ve icabında termometre tatbikı suretiyle muayene ederler.
 
-**Madde 28 –** Müstakilen vazife gördükleri mevkilerde Hayvan Sağlık Zabıtası Kanununa dahil hastalıklardan şüphe veya bunlardan birini tesbit ettikleri takdirde derhal salâhiyetleri dahilindeki ilk tedbirleri alırlar ve keyfiyeti en seri vasıta ile mafevk teknik veya idarî makama bildirirler.
+B) Komşu hükümetlere yapılmış olan mukaveleler ve Hayvan Sağlık Zabıtası Nizamnamesinin 36 ncı maddesi hükümlerine göre hudut mıntakası dahilinde hayvanlarla daimi olarak kalmak üzere bu mıntakaya giren hayvanların damga, kayıt ve tescil işlerini yapmakla mükellef bulunan memurlara bu hususlarda yardım ederler,
 
-**Madde 29 –** Nakliyat yapan arabacıların ve jandarma eratının Hayvan Sağlık Nizamnamesinin 45 inci maddesile mücadele talimatnameleri mucibince tâbi bulundukları mükellefiyetleri tatbik etmelerini temin ve aksi harekette bulunanlardan alâkalı makamları haberdar ederler.
+C) Hudut, kapı, iskele veya istasyonlarda muamelesi ikmal edildikten sonra Türkiye'ye giren veyahut Hayvan Hareketleri Talimatnameleri mucibince ecnebi memleketlere ihraç edilmek üzere hinterlanttan hudut mıntakasına dahil olan hayvanların bu mıntakadaki seyir ve hareketlerini takip hususunda bağlı bulundukları makamlardan verilecek emirlere göre iş yaparlar,
 
-**Madde 30 –** Kendi mıntakalarındaki hayvan hastalıklarının ihbar, istihbar ve filyasyon (hastalığın nereden geldiğini araştırma) işlerinde Hayvan Sağlık Zabıtası Nizamnamesile vazifeli kılman kimseler gibi vazifeli ve mesuldürler. Ve haber aldıkları hastalık mahalline hiç bir emir beklemeden giderek salahiyetli bulundukları ilk tedbirleri almağa mecburdurlar.
+Ç) Bağlı bulundukları teknik makamın vereceği emir ve program dahilinde her ayın on beş gününü yukarıdaki fıkralarda yazılı işlerin ifasına tahsis ederler. Bu program dahilinde hangi tarihlerde nerelerde ne iş gördüklerini kendilerine verilen bir iş cüzdanına kaydederek usulüne göre salahiyetli makamlara tasdik ettirirler,
 
-**Madde 31 –** Kendi mıntakaları dahilindeki köylerin ve çiftliklerin yalaklarını, sulaklarını, mer'alarını, ağıllarını, süt sağılan yerlerini ve süt sağım kaplarını ve güğümlerini kendisine verilen program dahilinde muayene ve evvelce ihtiyar heyetlerine ve diğer ilgililere bu hususda verilen emirlerin tatbik edilip edilmediğini kontrol ederek neticesini üst makama bildirir ve ayrıca köy defterine de kayıt ve imza ederler.
+D) Muayene ve kontrol esnasında sıhhat alametlerinde görecekleri her değişikliği ve hastalık veya hastalıktan şüpheli halleri bağlı bulundukları veteriner teşkilata en seri vasıta ile haber verirler ve icrasına salahiyetli bulundukları ilk tedbirleri alırlar.
 
-**Madde 32 –** Kendilerine verilecek program dahilinde hayvanların bakımı, hayvan barındırılan yerlerin sıhhî icaplara uydurulması ve hayvanların sıhhî durumlarının tetkik ve takibi hususlarında köylüyü tenvir ederler.
+### (II)
 
-**Madde 33 –** Muayenelerde köyün veya çiftliğin büyük ve küçük baş tek ve çift tırnaklı hayvanlarını ve kanatlılarını elden geçirirler. ve icabına göre termometre tatbik etmek suretile serirî muayene yaparak Hayvan Sağlık Zabıtası Kanununa dahil hastalıkları araştırırlar.
+İthalat ve ihracatta kapı, iskele, istasyon mevkilerinde ve
 
-**Madde 34 –** Mıntakayı teşkil eden köylerin çiftliklerin münferid ağılların sayısı topoğrafik vaziyetleri, yolları ve mevsim de göz önünde tutulmak şartile sağlık memurlarının kendi mıntakalarını hiç olmazsa senede üç defa devir ve teftiş etmeleri mecburidir. Kendilerine verilecek iş programı bu esasa göre hazırlanır.
+#### tahaffuzhanelerdeki vazifeler
 
-İKİNCİ KISIM Hastalık zuhurunda veya şüphe halinde hayvan sağlık memurlarının tatbikına salahiyetli bulundukları tedbirler ve yapacakları işler
+**Madde 25 –** Hayvan sağlık memurlarının kapı, iskele, istasyon mevkilerinden yapılacak ithalat ve ihracat ile tahaffuzhanelere ait vazifeleri aşağıda gösterilmiştir:
 
-**Madde 35 –** Tarama veya mıntaka muayeneleri esnasında tesadüf edilen hastalık ocaklarına veya her hangi ihbarla yahud üst makamdan verilen emirle hastalık mahalline giden sağlık memuru ilk iş olarak :
+A) İthalatta tahliyeden evvel ve deniz ve kara vasıtaları dahilinde yapılacak muayenelerde veterinerlere refakat ve hayvanların muayenesi esnasında zabt ve raptın temini, derecelerinin alınması, muayenelerin kolaylaştırılması, vesikaların tetkikı gibi kanun ve nizamların ihtiva ettiği ve fennin lüzum gösterdiği esaslar dahilinde veterinerin emirlerini aynen yapmak,
 
-A) Haber verilen hastalığın hangi yerden çıktığını ve kimin tarafından haber verildiğini, B) Hastalık zuhur eden hayvanların nevini, C) Hastalığın hangi tarihte çıktığını ve hasta hayvanların sahibini, Ç) Mevcut hasta hayvanlarla hastalık haber alınıncaya kadar ölenlerin sayısını, D) Hastalığın görünen alâmetlerini, E) Hastalığın intişar dairesini ve civar köy, çiftlik ve mer'adaki hayvanlar arasında yayılma derecesini tahkik ve tesbit ederek en seri vasıta ile mafevk teknik veya idarî makama bildirirler.
+B) Hastalık veya hastalıktan şüpheli hallerde kanun ve nizamname mucibince hayvanların reddi, itlafı, defni ve imhası, tathir ve dezenfeksiyon gibi tabi olacakları bütün muameleler hakkında veteriner tarafından verilecek emirleri yapmak,
 
-**Madde 36 –** Hayvan sağlık zabıtası nizamnamesinin 53 üncü maddesinin muhtelif fıkralarında gösterilmiş olup hastalık zuhurunda zabıta, köy ihtiyar heyetleri ve hayvan sahipleri tarafından yapılacak mükellefiyetleri ve alınacak tedbirleri noksansız olarak tatbik ettirirler.
+C) Nakil vasıtalarından tahliye sırasında ve sahilden yahut kara kapı ve istasyonlarından son muayene mevkiine veya tahaffuzhaneye sevkleri esnasında hayvanlara nezaret; eşkalinin alınması, numaralanması, kayıt ve tescilleri gibi nihai muayenenin icap ettirdiği bütün hazırlıkları ve hayvanların bu mevkilerde bulundukları müddetçe her bakımdan nizam ve intizamı temin etmek,
 
-**Madde 37 –** Hastalık çıkan veya şüphe edilen mahalle muvasalat eden veterinere 35 ve 36 ncı maddelerdeki hususlardan neler yapılmış olduğunu bildirmekle beraber hayvan Sağlık Zabıtası Nizamnamesinin 54, 55, 56, 58, 59, 61, 62, 64 ve 65 inci maddeleri hükümlerinin tatbikında veterinerin vereceği direktiflere göre hareket ederler.
+Ç) Son muayene mevkilerinde veteriner tarafından yapılacak muayenelerde hararet derecelerine bakmak, tetkikat icrası için kan ve süt gibi laboratuvara gönderilecek maddeleri almak ve ambalajlarını yaparak göndermek, veteriner tarafından tatbik edilecek reaktiflerin tatbikında zapturaptı temin ve her türlü karışıklığı bertaraf etmek üzere verilecek direktifler dairesinde tedbirler almak,
 
-**Madde 38 –** Hayvan sağlık memurları, sığır vebası, şarbon, yanıkara ve barbon aşılarile tüberkülin ve mallein gibi reaktifler tatbiki hariç olmak üzere Hükümet müesseseleri tarafından hazırlanan aşıları; seromları ve şap hastalığında telkihi billüzumu, uyuz ve kene tedavi banyolarını, kelebek ve strongiloz gibi tufeyli hastalıklara karşı dahilen verilecek ilâçların tatbikatını, hipodermoz mücadelesini veterinerlerin nezaret ve direktifi altında bizzat yaparlar ve neticelerini takib ederler.
+D) Hayvanların ecnebi memleketlere ihracı veya sahillerde bir iskeleden diğer bir iskeleye geçirilmesi esnasında kanun, nizamname ve hayvan hareketleri talimatnameleri mucibince zapturaptın teminine, tescil muamelesinin yapılmasına ve intizamın muhafazasına mütaallik hususlarda veterinere yardım ve ondan alacakları emirler dahilinde hareket etmek,
 
-**Madde 39 –** Veteriner tarafından teşhis vaz'ı için yapılacak otopsilerde gerek kadavralardan parça, gerek aktif veya pasif mücadelelerde canlı hayvanlardan kan ve süt gibi marazı madde alınmasında ve ambalajında veterinerlerin direktifleri dairesinde hareket ederler.
+E) Türkiye'ye sokulacak ve Türkiye'den çıkarılacak hayvan maddelerinin muayenesi ve vesikalarının kontrolü ve bilhassa balyelerin veya parçaların numaralanması ve laboratuvar muayenesi için parça alınması ve bunların ambalajı ve laboratuvara gönderilmesi ve neticelerin takibi hususlarında veterinerin direktiflerine göre iş yapmak.
+
+F) Hudut ve savahil mıntakasındaki ithal, ihraç mevkileriyle iskele, rıhtım, istasyon gibi hayvan irkap ve tahliye edilen yerlerin hayvan hareketlerini mütakıp temizlenmesini dezenfeksiyonu işlerini yapmak ve yaptırmak.
+
+### (III)
+
+#### İç memleket hayvan hareketlerindeki vazifeler
+
+**Madde 26 –** Hayvan sağlık memurlarının iç memleket hayvan hareketlerine ait vazifeleri aşağıda gösterilmiştir:
+
+A) Münferiden hizmet gördükleri herhangi bir mevkiden hareket edecek veya muayene istasyonundan geçecek olan hayvanların birer birer muayenelerini yapar ve vesikalarını kontrol ederler. Bu muayenelerde Hayvan Sağlık Zabıtası Kanununa dahil hastalıklardan, birisini buldukları veya şüphe ettikleri takdirde salahiyetleri dahilindeki ilk tedbirleri alır ve keyfiyeti bağlı bulundukları veterinere veyahut mahallin mülkiye amirine en seri vasıta ile bildirirler.
+
+B) (Değişik: 26.1.1973 - 7/5680 K.) Hayvanların belgeleri tam, uygun ve hayvanlar sağlam bulunduğu takdirde, menşe şahadetnamelerini veya sağlık raporlarını (Hayvanlar ve belgeler muayene edilmiş, tam ve sağlam bulunmuştur.) kaydiyle vize ederler, altlarına açık adreslerini yazdıktan sonra resmi mühürle ve imzalariyle tasdik ederek hayvanların geçmesine izin verirler ve durumu en seri vasıta ile bağlı bulundukları veterinere, veteriner yoksa mülkiye amirine bildirirler.
+
+Ç) (Ek: 26.1.1973 - 7/5680 K.) Hayvan park ve pazar kurumlarında, yönetmeliği gereğince idare amirliğince verilecek direktifler dairesinde hizmet görürler.
+
+### (IV)
+
+#### Müteferrik vazifeler
+
+**Madde 27 –** Veteriner teşkilatının daimi murakabesi altında bulundurulması icap eden pazar, panayır gibi hayvan alım satımı yapılan yerlerin, süthane, inekhane, hanlar, canbaz, arabacı ve kiracı ahırları ve menzilhane gibi toplu hayvan bulundurulan mevkilerin ve buralarda kullanılan bütün vasıtaların intizamı, temizliği, dezenfeksiyonu hususlarında ve sair teknik hususlarda belediyelere ve halka ait mükellefiyetlerin tatbikını kontrol ederek neticelerini bağlı bulundukları veteriner teşkilatına bildirirler.
+
+**Madde 28 –** Müstakillen vazife gördükleri mevkilerde Hayvan Sağlık Zabıtası Kanununa dahil hastalıklardan şüphe veya bunlardan birini tesbit ettikleri takdirde derhal salahiyetleri dahilindeki ilk tedbirleri alırlar ve keyfiyeti en seri vasıta ile mafevk teknik veya idari makama bildirirler.
+
+**Madde 29 –** Nakliyat yapan arabacıların ve jandarma eratının Hayvan Sağlık Nizamnamesinin 45 inci maddesiyle Mücadele Talimatnameleri mucibince tabi bulundukları mükellefiyetleri tatbik etmelerini temin ve aksi harekette bulunanlardan alakalı makamları haberdar ederler.
+
+**Madde 30 –** Kendi mıntakalarındaki hayvan hastalıklarının ihbar, istihbar ve filyasyon (Hastalığın nereden geldiğini araştırma) işlerinde Hayvan Sağlık Zabıtası Nizamnamesiyle vazifeli kılınan kimseler gibi vazifeli ve mesuldürler. Ve haber aldıkları hastalık mahalline hiç bir emir beklemeden giderek salahiyetli bulundukları ilk tedbirleri almağa mecburdurlar.
+
+**Madde 31 –** Kendi mıntakaları dahilindeki köylerin ve çiftliklerin yalaklarını, sulaklarını, mer'alarını, ağıllarını, süt sağılan yerlerini ve süt sağım kablarını ve güğümlerini kendisine verilen program dahilinde muayene ve evvelce ihtiyar heyetlerine ve diğer ilgililere bu hususta verilen emirlerin tatbik edilip edilmediğini kontrol ederek neticesini üst makama bildirir ve ayrıca köy defterine de kayıt ve imza ederler.
+
+**Madde 32 –** Kendilerine verilecek program dahilinde hayvanların bakımı, hayvan barındırılan yerlerin sıhhi icaplara uydurulması ve hayvanların sıhhi durumlarının tetkik ve takibi hususlarında köylüyü tenvir ederler.
+
+**Madde 33 –** Muayenelerde köyün veya çiftliğin büyük ve küçükbaş tek ve çift tırnaklı hayvanlarını ve kanatlılarını elden geçirirler. Ve icabına göre termometre tatbik etmek suretiyle seriri muayene yaparak Hayvan Sağlık Zabıtası Kanununa dahil hastalıkları araştırırlar.
+
+**Madde 34 –** Mıntakayı teşkil eden köylerin çiftliklerin münferit ağılların sayısı topoğrafik vaziyetleri yolları ve mevsim de gözönünde tutulmak şartiyle sağlık memurlarının kendi mıntakalarını hiç olmazsa senede üç defa devir ve teftiş etmeleri mecburidir. Kendilerine verilecek iş programı bu esasa göre hazırlanır.
+
+### İKİNCİ KISIM
+
+Hastalık zuhurunda veya şüphe halinde hayvan sağlık memurlarının tatbikına
+
+#### salahiyetli bulundukları tedbirler ve yapacakları işler
+
+**Madde 35 –** Tarama veya mıntaka muayeneleri esnasında tesadüf edilen hastalık ocaklarına veya herhangi ihbarla yahut üst makamdan verilen emirle hastalık mahalline giden sağlık memuru ilk iş olarak:
+
+A) Haber verilen hastalığın hangi yerden çıktığını ve kimin tarafından haber verildiğini,
+
+B) Hastalık zuhur eden hayvanların nevini,
+
+C) Hastalığın hangi tarihte çıktığını ve hasta hayvanların sahibini,
+
+Ç) Mevcut hasta hayvanlarla hastalık haber alınıncaya kadar ölenlerin sayısını,
+
+D) (Değişik: 26.1.1973 - 7/5680 K.) Hastalığın belirtilerini ve şüphe ettiği hastalığın adını.
+
+E) Hastalığın intişar dairesini ve civar köy, çiftlik ve meradaki hayvanlar arasında yayılma derecesini tahkik ve tesbit ederek en seri vasıta ile mafevk teknik veya idari makama bildirirler.
+
+**Madde 36 –** Hayvan Sağlık Zabıtası Nizamnamesinin 53 üncü maddesinin muhtelif fıkralarında gösterilmiş olup hastalık zuhurunda zabıta, köy ihtiyar heyetleri ve hayvan sahipleri tarafından yapılacak mükellefiyetleri ve alınacak tedbirleri noksansız olarak tatbik ettirirler.
+
+**Madde 37 –** Hastalık çıkan veya şüphe edilen mahalle muvasalat eden veterinere 35 ve 36 ncı maddelerdeki hususlardan neler yapılmış olduğunu bildirmekle beraber Hayvan Sağlık Zabıtası Nizamnamesinin 54, 55, 56, 58, 59, 61, 62, 64 ve 65 inci maddeleri hükümlerinin tatbikında veterinerin vereceği direktiflere göre hareket ederler.
+
+(Ek: 26.1.1973 - 7/5680 K.) Veteriner hekim olmayan yerlerde, yetkileri içinde ilk tedbirleri alırlar ve durumu en seri vasıta ile bağlı bulundukları veteriner teşkilatına bildirirler.
+
+**Madde 38 –** (Değişik: 26.1.1973 - 7/5680 K.)
+
+İhbarı mecburi salgın ve paraziter hastalıklara karşı tedavi ve koruma makmaksadiyle yapılacak aşılama, seromlama ve ilaçlama işlerinde veteriner hekimlere yardım ederler.
+
+**Madde 39 –** Veteriner tarafından teşhis vazı için yapılacak otopsilerde gerek kadavralardan parça, gerek aktif veya pasif mücadelelerde canlı hayvanlardan kan ve süt gibi marazi madde alınmasında ve ambalajında veterinerlerin direktifleri dairesinde hareket ederler.
+
+(Ek: 26.1.1973 - 7/5680 K.)
+
+Veteriner hekim olmayan yerlerde, gecikmelere meydan vermemek üzere, gerekli marazi maddeleri usulüne göre alırlar ve bağlı olduğu veteriner teşkilatından alacağı direktife göre hareket ederler.
 
 **Madde 40 –** Gerek hudut ve sevahilde, gerek iç memlekette hayvan sağlık zabıtasının istihdaf ettiği hastalıklara karşı kanun, nizam ve talimatnamelerle tesbit olunan mücadele tekniklerinde:
 
-A) Hayvanların kayıt ve tescili, B) Derecelerinin alınması, C) Tefrit, tecrit, itlaf, imha ve meraların tahdidi, Ç) Kordonların tesis ve ilgası, D) Kendilerine verilen salâhiyetler dairesinde aşı ve seromların tatbikı, E) Tathir ve dezenfeksiyon icrası, gibi işleri veterinerin nezareti altında yaparlar.
+A) Hayvanların kayıt ve tescili,
 
-ÜÇÜNCÜ KISIM Sabit memurların vazifeleri
+B) Derecelerinin alınması,
 
-**Madde 41 –** Sabit sağlık memurları :
+C) Tefrit, tecrit, itlaf, imha ve meraların tahdidi,
 
-1 - Mezbahalarda, 2 - Müesseselerde ve hayvan hastahanelerinde, 3 - Hayvan ıslah ve teksir işlerinde çalışırlar.
+Ç) Kordonların tesis ve ilgası,
 
-(I) Mezbahalardaki vazifeler
+D) Kendilerine verilen salahiyetler dairesinde aşı ve seromların tatbikı,
 
-**Madde 42 –** Hayvan kesilmeden evvel ve kesildikten sonra etlerin muayenesile mükellef veteriner veya hekimler bulunan mezbahalarda sağlık memurları:
+E) Tathir ve dezenfeksiyon icrası,
 
-A) Kasaplık hayvanların mezbahaya şevklerini ve şahadetnamelerini ve ayakta muayenelerini, B) Hayvanların kesimden evvel tabi oldukları muayyen bekleme ve karantina müddetinde sıhhî durumlarının tetkik ve takibini ve mezbaha salonuna sokulmalarını, bu salonda nizam ve intizamın murakabesini, kesme ve yüzme esnasında derilerin zedelenmemesini, C) Etlerin veteriner veya hekim tarafından teftişinden evvel ve teftiş esnasında muayeneyi kolaylaştıracak şekilde mezbuhun ve maktaların ihzarını, Ç) Etlerin damgalanmasını, D) Fennî muameleye tabi tutulmak şartile veteriner veya hekim tarafından istihlâkine müsaade edilecek müntin etlerin ayıklanmasını, parçalara ayrılmasını ve muhtelif usullerle takımını, E) İstihlâkten men edilen etlerin imhasını, F) Türkiyeye ithal veya iç memlekette bir taraftan diğer tarafa nakledilecek et ve müstahzaratile sakatatın ambalajı bakımından nizamname ve et teftişi talimatnamesindeki hükümlere uygun olup olmadığını veterinerin veya hekimin nezareti altında ve vereceği direktifler dairesinde icra, tetkik ve temin ederler.
+gibi işleri veterinerin nezareti altında yaparlar.
 
-**Madde 43 –** Veteriner ve hekim bulunmıyan yerlerdeki hayvan sağlık memurları hayvan sağlık zabıtası nizamnamesinin hükümleri dahilinde ancak kendilerine verilen direktifler dairesinde et muayenelerini yaparlar.
+### ÜÇÜNCÜ KISIM
 
-**Madde 44 –** Mezbahaların ve müştemilâtının faaliyetten evvel ve sonra temizlenmesi ve dezenfeksiyonlarının yapılması ve yaptırılması sağlık memurlarının esas vazifelerindendir.
+**Madde 41 –** (Mülga: 26.1.1973 - 7/5680 K.)
 
-(II) Müesseselerde ve hayvan hastahanelerindeki vazifeler
+### (I)
 
-**Madde 45 –** Hayvan sağlık memurları bakteriyoloji enstitülerile lâboratuvarlarda takim, kültür vasatları, kan alma, otopsi, serom dekantasyonu, viruz zerki, defterlerin kayıt ve tescili.
+#### Mezbahalardaki vazifeler
 
-Serom ve aşı istihzaratına ait fennî kayıtların tanzimi, fennî alât ve edevatın iyi muhafazası, cam aletler yapılması, mikrop boyaması ve mikrotom işlerinde tecrübeye tâbi hayvanlarla tecrübe hayvanlarının umumî hallerinin takibi hususunda lâboratuvar şeflerinin vereceği direktifler dahilinde çalışırlar.
+**Madde 42 –** Hayvan kesilmeden evvel ve kesildikten sonra etlerin muayenesiyle mükellef veteriner veya hekimler bulunan mezbahalarda sağlık memurları:
 
-**Madde 46 –** Memleket hayvan hastahanelerinde veterinerlere yardım ve onların verecekleri emir dahilinde vazife ifa ederler.
+A) Kasaplık hayvanların mezbahaya sevklerini ve şahadetnamelerini ve ayakta muayenelerini,
 
-**Madde 47 –** Kadavralardan istifade müesseselerinde talimat hükümlerine göre başlı başlarına çalışırlar.
+B) Hayvanların kesimden evvel tabi oldukları muayyen bekleme ve karantina müddetinde sıhhi durumlarının tetkik ve takibini ve mezbaha salonuna sokulmalarını, bu salonda nizam ve intizamın mürakabesini, kesme ve yüzme esnasında derilerin zedelenmemesini,
 
-**(III)** Hayvan ıslah ve teksir işlerindeki vazifeler
+C) Etlerin veteriner veya hekim tarafından teftişinden evvel ve teftiş esnasında muayeneyi kolaylaştıracak şekilde mezbuhun ve maktaların ihzarını,
 
-**Madde 48 –** Kurs gören hayvan sağlık memurları veterinerin direktifi dairesinde sun'î tohumlama ve nezareti altında tabiî tohumlama işlerinde sifat istasyonlarında çalışırlar.
+Ç) Etlerin damgalanmasını,
 
-**Madde 49 –** Köylerde sifat yapan halk aygırlarının ve köy boğalarının damızlık şahadetnamesi olup olmadığını tetkik ederek neticesini amirlerine bildirirler.
+D) Fenni muameleye tabi tutulmak şartiyle veteriner veya hekim tarafından istihlakine müsaade edilecek müntin etlerin ayıklanmasını, parçalara ayrılmasını ve muhtelif usullerle takımini,
 
-**Madde 50 –** Devlet damızlıklarından gebe kısrakların doğum neticelerini takip ve tesbit ederler.
+E) İstihlakten men edilen etlerin imhasını,
 
-**Madde 51 –** At ve sığır ıslahı teşkilâtı mıntakalarında:
+F) Türkiye'ye ithal veya iç memlekette bir taraftan diğer tarafa nakledilecek et, ve müstahzaratiyle sakatatın ambalajı bakımından nizamname ve et teftişi talimatnamesindeki hükümlere uygun olup olmadığını veterinerin veya hekimin nezareti altında ve vereceği direktifler dairesinde icra, tetkik ve temin ederler.
 
-A) Veteriner tarafından damızlık derecelerine tasnif edilen aygır, kısrak ve taylarla boğa ve ineklere damga tatbik ve defterlere kaydederler, B) Teşkilât mıntakasında ve müesseselerde ineklere tatbik edilecek süt ve yağ kontrollerinde tarifnamesine göre sütlerin kesafetini ve yağ miktarını tetkik ederler,
+**Madde 43 –** Veteriner ve hekim bulunmıyan yerlerdeki hayvan sağlık memurları Hayvan Sağlık Zabıtası Nizamnamesinin hükümleri dahilinde ancak kendilerine verilen direktifler dairesinde et muayenelerini yaparlar
 
-**Madde 52 –** Hara, aygır deposu, inekhane ve diğer yetiştirme müesseselerinde hayvanların yem rasyonlarının tesbit edilen tayinat formüllerine göre ve zamanında verilmesine nezaret ederler. Bütün zootekni kayıtlarını defterlerine geçirirler. Eczahane ve hastahane işlerinde çalışırlar. Teşhis edilen hastalıkların tedavisinde ve ilâç tatbikatında ve veteriner tarafından damızlıktan çıkarılan atlarla boğa, koç ve tekelerin enenmesinde veterinerlerin nezareti altında çalışırlar.
+**Madde 44 –** Mezbahaların ve müştemilatının faaliyetten evvel ve sonra temizlenmesi ve dezenfeksiyonlarının yapılması ve yaptırılması sağlık memurlarının esas vazifelerindendir
 
+### (II)
 
+#### Müesseselerde ve hayvan hastahanelerindeki vazifeler
 
-**<i>ÜÇÜNCÜ FASIL</i>** Umumî ve usulî hükümler
+**Madde 45 –** (Değişik : 26.1.1973 - 7/5680 K.)
 
-**Madde 53 –** Hayvan sağlık memurları her ne maksatla olursa olsun münferit veya müçtemi hayvanlar için menşe şahadetnamesi ve sağlık raporu gibi vesikalar veremezler.
+Hayvan sağlığı memurları, bakteriyoloji enstitüsüyle laboratuvarlarda takim, kültür vasatları, kan alma , otopsi, serom dekantasyonu, virus zerki, dil epiteli alınması, defterlerin kayıt ve tescili, serom ve aşı hazırlanmasına ait fenni kayıtların düzenlenmesi, fenn' alet ve edevatın iyi muhafazası, cam aletler yapılması, mikrop boyanması ve mikrotom işlerinde tecrübeye tabi hayvanlarla tecrübe hayvanlarının umumi hallerinin takibi hususunda laboratuvar şeflerinin vereceği direktifler dahilinde çalışırlar.
+
+**Madde 46 –** Memleket hayvan hastahanelerinde veterinerlere yardım ve onların verecekleri emir dahilinde vazife ifa ederler
+
+**Madde 47 –** (Değişik: 26.1.1973 - 7/5680 K.)
+
+Mezbaha yan ürünü işleyen ve bunlardan istihsal yapan müesseselerde veteriner hekim nezaretinde, rendering ve benzeri tesislerde özel talimatına göre müstakilen görev yaparlar.
+
+### (III)
+
+#### Hayvan ıslah ve teksir işlerindeki vazifeler
+
+**Madde 48 –** (Değişik: 26.1.1973 - 7/5680 K.)
+
+Kurs gören hayvan sağlığı memurları, verilecek program ve direktif gereğince hayvanlarda suni tohumlama uygulaması yaparlar ve suni tohumlama istasyon ve laboratuvarlarında teknik hizmetlerde görev alırlar. Tabii tohumlama uygulamasında verilecek program ve direktif gereğince görev yaparlar.
+
+**Madde 49 –** Köylerde sifad yapan halk aygırlarının ve köy boğalarının damızlık şahadetnamesi olup olmadığını tetkik ederek neticesini amirlerine bildirirler.
+
+**Madde 50 –** (Değişik: 26.1.1973 - 7/5680 K.)
+
+Devlet ve halk damızlıklarından gebe kalan hayvanların doğum neticelerini takip ve tespit ederler.
+
+**Madde 51 –** (Değişik: 26.1.1973 - 7/5680 K.)
+
+At, sığır, koyun, keçi ve kümes hayvanlarının üretim ve ıslah işlerinde:
+
+A) (Değişik: 26.1.1973 - 7/5680 K.) Veteriner hekim tarafından damızlık derecelerine tasnif edilen her nevi hayvanlara damga tatbik ve defterlerine kayıt işlerini yaparlar.
+
+B) Teşkilat mıntıkasında ve müesseselerde ineklere tatbik edilecek süt ve yağ kontrollarında tarifnamesine göre sütlerin kesafetini ve yağ miktarlarını tetkik ederler.
+
+**Madde 52 –** Hara, aygır deposu, inekhane ve diğer yetiştirme müesseselerinde hayvanların yem rasyonlarının tesbit edilen tayinat formüllerine göre ve zamanında verilmesine nezaret ederler. Bütün zootekni kayıtlarını defterlerine geçirirler. Eczahane ve hastahane işlerinde çalışırlar. Teşhis edilen hastalıkların tedavisinde ve ilaç tatbikatında ve veteriner tarafından damızlıktan çıkarılan atlarla boğa, koç ve tekelerin enenmesinde veterinerlerin nezareti altında çalışırlar.
+
+(Ek: 26.1.1973 - 7/5680 K.) Fuar, sergi ve at yarışlarında veterinerlerin göstereceği görevleri yaparlar.
+
+### ÜÇÜNCÜ FASIL
+
+#### Umumi ve usuli hükümler
+
+**Madde 53 –** Hayvan sağlık memurları her ne maksatla olursa olsun münferit veya müçtemi hayvanlar için menşeşahadetnamesi ve sağlık raporu gibi vesikalar veremezler.
 
 **Madde 54 –** Hayvan sağlık memurları sığır vebası, şarbon, yanıkara ve barbon aşılarını ve tüberkülin, mallein gibi reaktifleri tatbik edemezler.
 
 **Madde 55 –** Hayvan sağlık memurlarının hayvan sağlık memurları mektebinden şahadetname almış olmaları şarttır.
 
-**Madde 56 –** Ziraat Vekâleti Vazife ve Teşkilâtı Kanununun 9 uncu ve 25 inci maddelerine dayanılarak hazırlanmış ve Devlet Şûrasınca tetkik edilmiş olan bu nizamname hükümleri Resmî Gazete ile neşri tarihinin ertesi gününden yürümeğe başlar.
+**Geçici Madde 1 –** (Ek: 20.12.1965 - 6/5749 K.)
 
-**Madde 57 –** Bu nizamname hükümlerini Ziraat Vekili yürütür.
+Bu tüzük hükümleri 1965 - 1966 ders yılı için birinci sınıf öğrencilerine de uygulanır. İkinci sınıf öğrencileri eski hükümlere tabidirler.
 
+**Madde 56 –** Ziraat Vekaleti Vazife ve Teşkilatı Kanununun 9 uncu ve 25 inci maddelerine dayanılarak hazırlanmış ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri Resmi Gazete ile neşri tarihinin ertesi gününden yürümeğe başlar.
+
+**Madde 57 –** Bu Nizamname hükümlerini Ziraat Vekili yürütür.
+
+| 14/5/1941 TARİH VE 2/15799 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN TÜZÜĞE EK VE DEĞİŞİKLİK GETİREN TÜZÜKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE |
+| Ek ve Değişiklik Getiren Tüzüğü Yürürlüğe Koyan Kararnamenin |
+| Tarihi | Numarası | Farklı Tarihte Yürürlüğe Giren Maddeler | Yürürlüğe Giriş Tarihi |
+| 20/12/1965 27/1/1968 26/1/1973 | 6/5749 6/9501 7/5680 | — — — | 12/1/1966 2/3/1968 8/2/1973 |
+
+<small>[1] Hernekadar, bu tüzüğün dayanağını teşkil eden 3203 sayılı Kanun yürürlükten kalkmış ise de, 6.3.1985 tarih ve 3161 sayılı Kanunun geçici 4 üncü maddesi gereğince bu konuda yeni tüzük çıkıncaya kadar bu tüzüğün sözkonusu kanuna aykırı olmayan hükümleri uygulanacaktır.</small>
+
+<small>[2] 26.1.1973 tarih ve 7/5680 sayılı kararname ile yürürlüğe konulan Tüzükle, bu faslın başlığı "Hayvan Sağlığı Memurları" şeklinde değiştirilmiş ve bu faslın 22. maddesinden önce gelen "BİRİNCİ KISIM"ın (seyyar memurlar) şeklindeki başlığı ile yine aynı faslın ÜÇÜNCÜ KISMININ (Sabit Memurların Vazifeleri) şeklindeki başlığı metinden çıkarılmıştır.</small>

@@ -9,17 +9,13 @@ birim: "Hazine Müsteşarlığı / Sağlık Bakanlığı"
 konu: "Hekimlerin mesleki sorumluluk sigortası primleri ve kamu kurum katkısı esasları."
 etiketler: ["malpraktis", "mesleki sorumluluk", "sigorta", "hekimlik"]
 durum: "yürürlükte"
-kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2010/07/20100721-17-1.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14124&MevzuatTur=9&MevzuatTertip=5"
 ---
 
-### TEBLİĞ
+### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASINDA KURUM KATKISINA İLİŞKİN
 
-Devlet Bakanlığı ve Başbakan Yardımcılığı ile Sağlık Bakanlığından:
-
-### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASINDA KURUM KATKISINA İLİŞKİN USUL VE ESASLARA DAİR TEBLİĞ
-
-(2010/1)
+### USUL VE ESASLARA DAİR TEBLİĞ (2010/1)
 
 #### Amaç
 
@@ -31,11 +27,11 @@ Devlet Bakanlığı ve Başbakan Yardımcılığı ile Sağlık Bakanlığından
 
 #### Primlerin Ödenmesi ve Kurum Katkılarının Tahsili ile İadesi
 
-**MADDE 3 –** (1) Kamu kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar, yaptıracakları sigorta sözleşmesinin primlerini sigortacıya veya sigorta acentesine ödedikten sonra, ödedikleri prim tutarının yarısını döner sermayesi bulunan kurumlarda döner sermayeden, döner sermayesi bulunmayan kurumlarda kurum bütçesinden geri alır. Geri ödemeler, sigortaya ilişkin poliçe veya sigorta şirketi ya da sigorta acentesinin kaşesini taşıyan prim ödeme makbuzunun bir örneğinin ibrazı üzerine ilgili kurum tarafından en geç otuz gün içinde yapılır.
+**MADDE 3 –** (1) (Değişik:RG-23/5/2015-29364) Kamu kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar ile sözleşmeli aile hekimleri, yaptıracakları sigorta sözleşmesinin primlerini sigortacıya veya sigorta acentesine ödedikten sonra, ödedikleri prim tutarının yarısını döner sermayesi bulunan kurumlarda döner sermayeden, döner sermayesi bulunmayan kurumlarda kurum bütçesinden geri alır. Geri ödemeler, sigortaya ilişkin poliçe veya sigorta şirketi ya da sigorta acentesinin kaşesini taşıyan prim ödeme makbuzunun bir örneğinin ibrazı üzerine ilgili kurum tarafından en geç otuz gün içinde yapılır.
 
 (2) Özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olan sigortalılar için yapılacak sigorta sözleşmesinin primleri, kurum ve kuruluşları tarafından sigortacıya veya sigorta acentesine ödenir. Ödenen primin yarısı sigortalıya yansıtılır.
 
-(3) Mesleklerini serbest olarak icra eden tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlar ile sözleşmeli aile hekimlerinin sigorta primlerinin tamamı kendileri tarafından ödenir.
+(3) (Değişik:RG-23/5/2015-29364) Mesleklerini serbest olarak icra eden tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların sigorta primlerinin tamamı kendileri tarafından ödenir.
 
 (4) Kamu kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların, herhangi bir nedenle sigorta sözleşmesinin sona ermesi durumunda, sona erme tarihinden sonraki günlere ait iade edilen primin kurum katkısına karşılık gelen kısmı otuz gün içinde sigorta ettiren tarafından ilgili kamu kurum veya kuruluşuna ödenir.
 
@@ -43,35 +39,55 @@ Devlet Bakanlığı ve Başbakan Yardımcılığı ile Sağlık Bakanlığından
 
 (6) Özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların, herhangi bir nedenle sigorta sözleşmesinin sona ermesi durumunda, sona erme tarihinden sonraki günlere ait iade edilen primin sigortalının katkısına karşılık gelen kısmı otuz gün içinde sigorta ettiren tarafından sigortalıya ödenir.
 
+#### Aile hekimlerine ait poliçelere ilişkin prim ödemeleri
+
+**GEÇİCİ MADDE 1 –** (Ek:RG-23/5/2015-29364)
+
+(1) 21/7/2010 tarihinden bu maddenin yürürlüğe girdiği tarihe kadar bu Tebliğ hükümlerine göre sigorta primlerinin tamamını kendileri ödeyen sözleşmeli aile hekimlerine, sigortaya ilişkin poliçe veya sigorta şirketi ya da sigorta acentesinin kaşesini taşıyan prim ödeme makbuzunun bir örneği ile birlikte son olarak görev yaptıkları ilin halk sağlığı müdürlüğüne bu maddenin yayımı tarihinden itibaren altı ay içinde başvurmaları halinde, ödedikleri sigorta prim tutarının yarısı döner sermaye bütçesinden ödenir.
+
 #### Yürürlük
 
 **MADDE 4 –** (1) Bu Tebliğ 30.07.2010 tarihinde yürürlüğe girer.
 
 #### Yürütme
 
-**MADDE 5 –** (1) Bu Tebliğ hükümlerini Hazine Müsteşarlığının bağlı olduğu Bakan ile Sağlık Bakanı yürütür.
+**MADDE 5 –** (Değişik:RG-26/7/2014-29072)
 
-### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI TARİFE VE TALİMATI
+(1) Bu Tebliğ hükümlerini Hazine Müsteşarlığının bağlı olduğu Bakan yürütür.
+
+### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK
+
+### SİGORTASI TARİFE VE TALİMATI
 
 Bu tarife ve talimat ile 1219 sayılı Kanunun Ek 12 nci maddesi uyarınca yapılan “Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası”nın uygulanmasına ilişkin esaslar belirlenmiştir.
 
 ### A. TARİFE
 
-1. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasında her bir olay için azami teminat tutarı 300.000 TL’dir.
+1. (Değişik:RG-7/8/2025-32979)(5) Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasında her bir olay için azami teminat tutarları aşağıdaki tabloda yer almaktadır. Her durumda sözleşme kapsamında ödenecek tazminat miktarı 9.000.000 TL’yi aşamaz.
 
-2. Teminat tutarı maddi, manevi tazminat ve yargılama giderleri için geçerlidir.
+| Risk Grubu | Azami Teminat Tutarı (TL) |
+| I. Grup | 1.000.000 |
+| II. Grup | 2.000.000 |
+| III. Grup | 3.000.000 |
+| IV. Grup | 4.000.000 |
 
-3. Risk gerçekleşmiş olsa dahi, olay başı azami teminat miktarı sözleşme süresi boyunca aynı kalır.
+2. (Ek:RG-23/5/2020-31135)(3)(4) Kamu ve özel sağlık kurum ve kuruluşları ile bu kurum ve kuruluşların bağlı, ilgili veya ilişkili birimlerinde pandemi sebebiyle yapılan görevlendirmeler kapsamındaki tüm iş ve işlemler III. Risk Grubu kapsamında değerlendirilir.
 
-4. EK-1’de yer alan risk gruplarına göre hazırlanmış olan Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası primlerine ilişkin tarife aşağıdadır. İlk kez yapılacak sigortalarda bu prim tutarları uygulanır.
+3. Teminat tutarı maddi, manevi tazminat ve yargılama giderleri için geçerlidir.
+
+4. Risk gerçekleşmiş olsa dahi, olay başı azami teminat miktarı sözleşme süresi boyunca aynı kalır.
+
+5. (Değişik:RG-26/7/2014-29072) EK-1’de yer alan risk gruplarına göre hazırlanmış olan Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası primlerine ilişkin tarife aşağıdadır. İlk kez yapılacak sigortalarda bu prim tutarları uygulanır. (Ek cümle:RG-28/10/2015-29516)(2) Bu prim tutarlarına, acente komisyon bedeli ve üretim giderleri dâhildir.
 
 Prim Tutarları (4. Basamak)
 
-| Risk Grubu | Prim Miktarı (TL) |
-| I. Grup | 150 |
-| II. Grup | 300 |
-| III. Grup | 500 |
-| IV. Grup | 750 |
+(Değişik:RG-7/8/2025-32979)(5)
+
+| Risk Grubu | Prim Tutarı (TL) |
+| I. Grup | 750 |
+| II. Grup | 1.500 |
+| III. Grup | 2.500 |
+| IV. Grup | 3.750 |
 
 Prim indirimi ve prim artırımı aşağıdaki tabloda yer alan basamak esasına göre uygulanır.
 
@@ -84,9 +100,15 @@ Prim indirimi ve prim artırımı aşağıdaki tabloda yer alan basamak esasına
 | 2 |  | % 30 |
 | 1 |  | % 50 |
 
-Bir önceki yıl ya da bir önceki sözleşme süresi içinde herhangi bir tazminat ödemesi yapılmaması durumunda, sonraki sigorta sözleşmesinde uygulanacak prim indirimi oranı bir üst basamağa göre belirlenir. Eğer bir önceki yıl ya da bir önceki sözleşme süresi içinde tazminat ödenmişse, sonraki sözleşme süresi içinde tazminat ödeme sayısı kadar aşağı basamak tarife uygulanır. Üç ve daha fazla tazminat ödemesi için azami zamlı prim % 50, üç ya da daha fazla yıl tazminat ödenmemesi durumunda azami indirim % 20’dir. Sigorta süresinin bir yıldan kısa olduğu sigorta sözleşmelerinde prim indirimi uygulanmaz.
+Bir önceki yıl ya da bir önceki sözleşme süresi içinde herhangi bir ihbar ya da tazminat ödemesi yapılmaması durumunda, sonraki sigorta sözleşmesinde uygulanacak prim indirimi oranı bir üst basamağa göre belirlenir. Eğer bir önceki yıl ya da bir önceki sözleşme süresi içinde tazminat ödenmişse, sonraki sözleşme süresi içinde tazminat ödeme sayısı kadar aşağı basamak tarife uygulanır. Üç ve daha fazla tazminat ödemesi için azami zamlı prim % 50, üç ya da daha fazla yıl tazminat ödenmemesi durumunda azami indirim % 20’dir. Sigorta süresinin bir yıldan kısa olduğu sigorta sözleşmelerinde prim indirimi uygulanmaz.
 
-5. Sigorta primleri peşin olarak ödenir.
+Düzenlenen poliçelerde prim hesaplanmasında ödenen hasar dikkate alınır. Ancak, muallak hasarların prim basamak hesabında dikkate alınması halinde, bu şekilde tespit edilen prim ve prim basamağı ilgili muallak verisinin nihai durumuna göre ilgili sigorta şirketince kendiliğinden düzeltilecektir. Bu çerçevede kişi lehine doğan prim farkı nihai durumun belli olmasından itibaren 3 iş günü içinde sigorta ettirene iade edilecektir.
+
+İlgili mevzuata göre izinli sayılması nedeniyle mesleklerini ifa edemeyen tabip, diş tabibi ve tıpta uzmanlık mevzuatına göre uzman olanların yeniden mesleki faaliyete başlamaları durumunda izinli sayıldıkları anda mevcut poliçelerindeki basamak esas alınır.
+
+6. Sigorta primleri peşin olarak ödenir.
+
+7. (Ek:RG-28/10/2015-29516)(2) Acente komisyon bedeli, bu Tarife ve Talimatın A. TARİFE başlıklı bölümünün 4 üncü maddesinde belirtilen esaslara göre belirlenen primin %10’undan aşağı olmamak üzere sigorta şirketlerince serbestçe belirlenir.
 
 ### B. TALİMAT
 
@@ -100,7 +122,9 @@ c) Mesleklerini serbest olarak icra eden tabipler, diş tabipleri ve tıpta uzma
 
 yaptırılır.
 
-2. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası grup sigortası şeklinde yapılamaz.
+ç) (Ek:RG-26/7/2014-29072) (a), (b) ve (c) bentleri kapsamındaki mesleki faaliyetlerin beraber yürütülmesi durumunda tüm faaliyetler için düzenlenecek poliçede sigorta ettiren sıfatı, tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanlara aittir.
+
+2. (Mülga:RG-23/5/2015-29364)
 
 3. Özel sağlık kurum ve kuruluşları için, sigortalının kurumlar arasında iş değişikliği yapması durumunda, önceki kurum tarafından yaptırılan sigorta sözleşmesinin teminatı devam ediyorsa, yeni kurumun sözleşme süresi sonuna kadar sigorta yaptırma sorumluluğu kalkar.
 
@@ -110,15 +134,48 @@ yaptırılır.
 
 6. Süresinden önce sona eren sözleşmelerde işlemeyen günlere ait primler, sigorta şirketi tarafından gün esası üzerinden sigorta ettirene iade edilir.
 
-7. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasına dair sözleşmenin yapılması, sona ermesi, risk değişikliği gibi tüm bilgiler sözleşme bazında en geç yirmidört saat içinde Sigorta Bilgi Merkezine iletilir. İletilen bilgilerin formatı Sigorta Bilgi Merkezi tarafından belirlenir. Sigorta Bilgi Merkezi, kendisine iletilen sigortalı bazındaki sözleşme bilgileri ile Sağlık Bakanlığı nezdindeki ilgili listeleri karşılaştırır. Bu sigortayı yaptırmamış olanların listesini çıkararak Sağlık Bakanlığına ve Hazine Müsteşarlığına iletir. Gereken altyapıyı kurmamış olan sigorta şirketleri gerekli bilişim altyapısını oluşturana kadar bu sigortayı yapamaz.
+7. (Değişik:RG-26/7/2014-29072) Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasına dair sözleşmenin yapılması, sona ermesi, risk değişikliği gibi tüm bilgiler sözleşme bazında en geç yirmi dört saat içinde Sigorta Bilgi Merkezine iletilir. İletilen bilgilerin formatı Sigorta Bilgi Merkezi tarafından belirlenir. Gereken altyapıyı kurmamış olan sigorta şirketleri gerekli bilişim altyapısını oluşturana kadar bu sigortayı yapamaz. Sigorta Bilgi Merkezi, sigortasını yaptırmamış olanların tespitini teminen elektronik ortamda Sağlık Bakanlığına erişim sağlar.
 
 8. Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası’na ilişkin poliçeler tüm sigorta şirketleri tarafından ekteki (EK-2) formata göre düzenlenir.
+
+9. (Ek:RG-26/7/2014-29072) Kamu sağlık kurum ve kuruluşunda görev yapan sigortalının özel sağlık kurum ve kuruluşunda ve/veya mesleğini serbest olarak icra etmesi halinde bu husus poliçe başlangıcında biliniyor ise poliçe kişinin tüm mesleki faaliyetini kapsayacak şekilde düzenlenir. Bu durumda poliçe primi bu Tarife ve Talimat ile belirlenen prime %35’ten fazla olmamak üzere eklenen tutara göre belirlenir.
+
+Kamu sağlık kurum ve kuruluşlarında görev yapan sigortalının poliçe yürürlükteyken ilgili mevzuata göre özel sağlık kurum ve kuruluşunda ve/veya mesleğini serbest olarak icra etmesi halinde tüm meslek faaliyetini içerecek şekilde tek zeyilname düzenlenir. Bu durumda nihai poliçe primi, bu Tarife ve Talimat ile belirlenen prime %35 tutarında kalan gün esasına göre ilave edilmek suretiyle belirlenir.
+
+10. (Ek:RG-26/7/2014-29072) Özel sağlık kurum ve kuruluşunda çalışan sigortalılar ile mesleğini serbest icra eden sigortalıların, anılan faaliyetleri beraber yürütmesi veya anılan faaliyetlerin birden fazla özel sağlık kuruluşunda yürütülmesi halinde 9 uncu maddedeki hükümler uygulanır.
+
+11. (Ek:RG-26/7/2014-29072) Yukarıdaki 9 uncu maddenin 1 inci paragrafına göre poliçe tanzimi halinde kurumların prime katkısı, poliçe priminin istihdam eden kurum sayısına bölünmesi suretiyle belirlenir.
+
+Yukarıdaki 9 uncu maddenin 2 nci paragrafına göre zeyilname tanzimi halinde ilgili kuruluşların prime katkısı, kalan gün esasına göre hesaplanacak primin istihdam eden kurum sayısına bölünmesi suretiyle belirlenir ve hesaplanan bu prim tutarına göre ilgili sağlık kurumları arasında aktarım yapılır.
+
+Yukarıdaki 10 uncu maddeye göre tanzim edilen poliçelerde istihdam eden kurumların prime katkısı, ilgisine göre bu maddenin 1 inci veya 2 nci paragraflarında yer alan esaslara göre kıyasen uygulanır.
+
+9 uncu veya 10 uncu maddeye göre poliçe tanzim edildiği durumda poliçe konusu mesleki faaliyetlerde poliçenin sonlanmasını gerektirmeyecek şekilde azalma olması halinde poliçeden herhangi bir prim iadesi yapılmaz, kuruluşlar arasında iade aktarım yapılır.
+
+12. (Ek:RG-7/10/2017-30203) Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasına dair prim ve hasar paylaşımı, Ek-3’te yer alan esaslar çerçevesinde Hazine Müsteşarlığının bağlı olduğu Bakan tarafından belirlenen sigorta şirketi tarafından gerçekleştirilir.
 
 ### C. YÜRÜRLÜK
 
 Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 
-### EK 1 RİSK GRUPLARI TABLOSU
+|  | Tebliğin Yayımlandığı Resmî Gazete’nin |
+| Tarihi | Sayısı |
+| 21/7/2010 | 27648 |
+| Tebliğde Değişiklik Yapan Tebliğlerin Yayımlandığı Resmî Gazetelerin |
+| Tarihi | Sayısı |
+| 1. | 19/7/2011 | 27999 |
+| 2. | 26/7/2014 | 29072 |
+| 3. | 23/5/2015 | 29364 |
+| 4. | 28/10/2015 | 29516 |
+| 5. | 16/4/2016 | 29686 |
+| 6. | 7/10/2017 | 30203 |
+| 7. | 18/6/2018 | 30452 |
+| 8. | 23/5/2020 | 31135 |
+| 9. | 7/8/2025 | 32979 |
+
+### EK 1
+
+### RİSK GRUPLARI TABLOSU
 
 | A- |  | RİSK GRUBU |
 | Kod |  | 1.GRUP | 2.GRUP | 3.GRUP | 4.GRUP |
@@ -147,7 +204,7 @@ Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 | 19 | Çocuk Genetik Hastalıkları |  | x |  |  |
 | 20 | Çocuk Göğüs Hastalıkları |  |  | x |  |
 | 21 | Çocuk Hematolojisi ve Onkolojisi (Çocuk Hematolojisi) (Çocuk Onkolojisi) |  |  | x |  |
-| 22 | Çocuk İmmünolojisi ve Alerji Hastalıkları (Çocuk İmmünolojisi) (Çocuk Alerjisi) (Çocuk allerjisi) |  | x |  |  |
+| 22 | Çocuk İmmünolojisi ve Alerji Hastalıkları (Çocukİmmünolojisi) (Çocuk Alerjisi) (Çocuk allerjisi) |  | x |  |  |
 | 23 | Çocuk Kalp ve Damar Cerrahisi |  |  |  | x |
 | 24 | Çocuk Kardiyolojisi |  |  | x |  |
 | 25 | Çocuk Metabolizma Hastalıkları (Çocuk endokrinolojisi ve metabolizma hastalıkları) |  | x |  |  |
@@ -194,7 +251,7 @@ Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 | 66 | Nükleer Tıp |  | x |  |  |
 | 67 | Ortodonti |  |  | x |  |
 | 68 | Ortopedi ve Travmatoloji |  |  |  | x |
-| 69 | Pedodonti |  | x |  |  |
+| 69 | (Değişik:RG-19/7/2011-27999) (1) Çocuk Diş Hekimliği |  | x |  |  |
 | 70 | Periferik Damar Cerrahisi |  |  |  | x |
 | 71 | Perinatoloji |  |  |  | x |
 | 72 | Periodontoloji |  | x |  |  |
@@ -204,7 +261,7 @@ Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 | 76 | Radyoloji (Radyodiyagnostik) |  |  | x |  |
 | 77 | Romatoloji (Rumatoloji) |  | x |  |  |
 | 78 | Ruh Sağlığı ve Hastalıkları (Psikiyatri) |  |  | x |  |
-| 79 | Sitopatoloji (Sitoloji) |  | x |  |  |
+| 79 | (Değişik:RG-19/7/2011-27999) (1) Sitopatoloji (Sitoloji) | x |  |  |  |
 | 80 | Spor Hekimliği |  | x |  |  |
 | 81 | Sualtı Hekimliği ve Hiperbarik Tıp (Deniz ve sualtı hekimliği) (Deniz hekimliği) |  | x |  |  |
 | 82 | Temel İmmünoloji (İmmünoloji) | x |  |  |  |
@@ -215,22 +272,29 @@ Bu Tarife ve Talimat 30.07.2010 tarihinde yürürlüğe girer.
 | 87 | Tıbbi Mikoloji (Mikoloji) | x |  |  |  |
 | 88 | Tıbbi Mikrobiyoloji (Mikrobiyoloji ve klinik mikrobiyoloji) (Mikrobiyoloji) | x |  |  |  |
 | 89 | Tıbbi Onkoloji |  |  | x |  |
-| 90 | Tıbbi Parazitoloji (Parazitoloji) |  | x |  |  |
+| 90 | (Değişik:RG-19/7/2011-27999) (1) Tıbbi Parazitoloji (Parazitoloji) | x |  |  |  |
 | 91 | Tıbbi Patoloji (Patoloji) | x |  |  |  |
 | 92 | Tıbbi Viroloji (Viroloji) | x |  |  |  |
 | 93 | Üroloji |  |  | x |  |
 | 94 | Yoğun Bakım |  |  |  | x |
 | 95 | Diş Tabibi |  | x |  |  |
+| 96 | (Ek:RG-19/7/2011-27999) (1) Restoratif Diş Tedavisi |  |  | x |  |
+| 97 | (Ek:RG-19/7/2011-27999) (1) Ağız Diş ve Çene Radyolojisi |  | x |  |  |
+| 98 | (Ek:RG-19/7/2011-27999) (1) Gelişimsel Pediatri |  | x |  |  |
 
 * Uzmanlık öğrencileri (asistanlar) devam ettikleri uzmanlık eğitimleri süresince, eğitimlerini bitirdiklerinde elde edecekleri uzmanlık dalı unvanına göre risk grubuna dahil edileceklerdir. Örneğin Acil Tıp uzmanlık öğrencisi, uzmanlık eğitimine başladığı andan itibaren “risk grubu 4” olarak değerlendirilecektir.
 
-### EK 2 TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI POLİÇESİ
+(Ek:RG-26/7/2014-29072) (Değişik:RG-23/5/2015-29364) ** İlgili mevzuat uyarınca, il ve ilçe sağlık müdürlüğü, 112 acil sağlık hizmetleri başhekimliği ve bağlı istasyonları, halk sağlığı müdürlüğü, toplum sağlığı merkezleri ve kamu hastaneleri genel sekreterliklerinde görev yapan hekimler dahil olmak üzere acil sağlık hizmeti sunmak üzere hastanelerde görevlendirilenlerin (uzmanlık dalı acil tıp olanlar hariç) poliçeleri yukarıdaki tabloda düzenlenen kendi risk gruplarına göre tanzim edilir.
+
+(Ek:RG-23/5/2015-29364) *** Birinci risk grubunda yer alan ve kurum hekimi veya işyeri hekimi olarak hizmet verenlerin poliçeleri 2. risk grubu üzerinden düzenlenir, diğer risk gruplarına dahil olanların poliçeleri yukarıdaki tabloda düzenlenen kendi risk gruplarına göre tanzim edilir.
+
+### EK 2
+
+### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI POLİÇESİ
 
 Sigorta Şirketi Adı, Adresi:
 
-Sözleşme
-
-Aracı Adı, Adresi: Poliçe No: Tanzim Tarihi: Başlama: Bitiş:
+Sözleşme Aracı Adı, Adresi: Poliçe No: Tanzim Tarihi: Başlama: Bitiş:
 
 Sigorta Ettirenin Adı, Soyadı/Ünvanı ve Adresi:
 
@@ -254,35 +318,45 @@ Prim İndirim/Artırım Türü ve Oranı:
 
 Prim Ödeme Yeri ve Zamanı:
 
-### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI GENEL ŞARTLARI A. SİGORTANIN KAPSAMI
+### TIBBİ KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI GENEL ŞARTLARI
+
+(Değişik:RG-28/8/2012-28395)
+
+### A. SİGORTANIN KAPSAMI
 
 A.1. Sigortanın Konusu
 
-Bu sigorta sözleşmesi ile 1219 sayılı Kanunun Ek 12 nci maddesi çerçevesinde, serbest ya da kamu veya özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların; poliçede belirtilen mesleki faaliyeti ifa ederken;
+Bu sigorta sözleşmesi, 1219 sayılı Kanunun Ek 12 nci maddesi çerçevesinde, serbest ya da kamu veya özel sağlık kurum ve kuruluşlarında çalışan tabipler, diş tabipleri ve tıpta uzmanlık mevzuatına göre uzman olanların (Değişik ibare:RG-26/7/2014-29072) poliçe kapsamındaki mesleki faaliyeti ifa ederken, sözleşme tarihinden önceki on yıllık dönemdeki veya sözleşme süresi içinde mesleki faaliyeti nedeniyle verdiği zararlara bağlı olarak sözleşme süresi içinde kendisine yapılan tazminat taleplerine, bu taleple bağlantılı yargılama giderleri ile hükmolunacak faize ve sigortalı aleyhine ileri sürülen tazminat talebine ilişkin makul giderlere karşı poliçede belirlenen limitler dahilinde teminat sağlar. Ancak on yıllık dönemin başlangıcı 30 Temmuz 2009’u geçemez ve bir aydan fazla sigortasız kalınan dönemlerde meydana gelen olaylara bağlı olarak sigortalı dönemlerde yapılan ihbarlar için sigorta koruması yoktur.
 
-a) Sözleşme süresi içinde meydana gelen olay sonucu doğan ve sorumluluk hükümleri uyarınca tazmini sözleşme süresi içinde ya da sonrasında talep edilen zararlara,
+Sigortalının mesleki faaliyete son vermesi halinde, birinci paragraftaki teminata ek olarak, son sigorta sözleşmesi dönemindeki mesleki faaliyetinden dolayı sözleşmenin bitiş tarihinden iki yıl sonrasına kadar ortaya çıkabilecek talepler de teminat dahilindedir.
 
-b) Sözleşme yapılmadan önce veya sözleşme yürürlükteyken meydana gelen bir olay nedeniyle, sadece sözleşme süresi içinde sigortalıya karşı doğabilecek taleplere,
+(Ek:RG-16/4/2016-29686) Bu sigorta, sigortalının savunmasını üstlenen avukata ilişkin harcamaları Genel Şartların Sigortalıya Yardım başlıklı B.3.4 maddesi kapsamında temin eder.
 
-c) Bu zarar veya taleple bağlantılı yargılama giderlerine
+(Ek:RG-26/7/2014-29072) Bu sigorta sözleşmesi Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası Tarife ve Talimatının 9, 10 ve 11 inci maddeleri çerçevesinde sigortalının tüm mesleki faaliyetini kapsar. Poliçede mesleki faaliyetin yerinin belirtilmemesi veya eksik belirtilmiş olması poliçe kapsamını etkilemez.
 
-karşı belirlenen sigorta limitlerine kadar teminat verilir.
+(Ek:RG-26/7/2014-29072) Bu Genel Şartların uygulamasında kamu sağlık kurum ve kuruluşları 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununa ekli cetveller kapsamındaki idare, kurum ve kuruluşlar nezdindeki sağlık kuruluşlarını kapsar. Kamu sağlık kurum ve kuruluşları için tümünü kapsayacak tek poliçe düzenlenir. Bu kuruluşlar bünyesinde görevli sigortalının naklen atama, geçici görevlendirme ve sair sebeplerle anılan kuruluşlar içinde mesleğini yürütmesi halinde ilave sözleşme düzenlenmez veya prim talep edilmez.
 
-A.2. Sigortanın Coğrafi Sınırı
+(Ek:RG-26/7/2014-29072) Bu poliçe, kamu sağlık kurum ve kuruluşunda çalışan sigortalının kendi görev yeri ve branşı dışında da olsa ilgili mevzuat çerçevesinde görevlendirildiği yer ve branş(Ek:RG-26/7/2014-29072) lardaki faaliyetlerini de ilave sözleşme düzenlenmeksizin veya prim tahsil edilmeksizin kapsar.
 
-Bu sigorta, sigortalının Türkiye Cumhuriyeti sınırları içinde ifa ettiği mesleki faaliyetler için geçerlidir.
+(Ek:RG-26/7/2014-29072) Ayrıca, ilgili mevzuat uyarınca, aile hekimlerinin acil sağlık hizmeti sunmak üzere görevlendirilmeleri durumunda sigortalının mevcut poliçesi, söz konusu mesleki faaliyetleri ilave sözleşme düzenlenmeksizin veya prim tahsil edilmeksizin kapsar.
+
+(Ek:RG-23/5/2020-31135)(5) Buna ek olarak, özel sağlık kurum ve kuruluşlarında çalışan ve mesleklerini serbest olarak icra eden sigortalıların kendi görev yeri ve branşı dışında da olsa ilgili mevzuat çerçevesinde kamu ve özel sağlık kurum ve kuruluşları ile bu kurum ve kuruluşların bağlı, ilgili veya ilişkili birimlerinde pandemi sebebiyle görevlendirilmeleri nedeniyle yürüttükleri faaliyetleri, ilave sözleşme düzenlenmeksizin veya prim tahsil edilmeksizin poliçenin kapsamına dahildir.
+
+A.2. Sigortanın Coğrafi Sınırı (Değişik:RG-18/6/2018-30452)
+
+Bu sigorta, sigortalının Türkiye Cumhuriyeti sınırları içinde ifa ettiği mesleki faaliyetleri için geçerlidir. Türk Silahlı Kuvvetlerinin kadrosunda görev yapan sigortalının yurt dışındaki mesleki faaliyetleri teminat kapsamındadır.
 
 A.3. Teminat Dışında Kalan Haller
 
-Aşağıdaki hâller teminat kapsamı dışındadır:
+(Değişik:RG-26/7/2014-29072) Aşağıdaki hâller teminat kapsamı dışındadır:
 
-a) Sigortalının, poliçede belirlenmiş ve sınırları hukuk kuralları veya etik kurallar ile tespit edilen mesleki faaliyeti dışındaki faaliyetlerinden kaynaklanan tazminat talepleri,
+a) Sigortalının, poliçe kapsamında yer alan ve sınırları hukuk kuralları veya etik kurallar ile tespit edilen mesleki faaliyeti dışındaki faaliyetlerinden kaynaklanan tazminat talepleri.
 
-b) Mesleki faaliyetin ifası sırasında sigortalı tarafından kasten sebep olunan her tür olay ile davranışları,
+b) İnsani görevin yerine getirilmesi hariç, sigortalının, poliçe kapsamındaki kuruluşların sorumluluk alanı dışındaki faaliyetlerinden kaynaklanan tazminat talepleri.
 
-c) Sigortalı veya çalıştırdığı kişilerin, poliçede belirtilen mesleki faaliyeti ifa ederken alkol, uyuşturucu ya da narkotik maddelerin tesiri altında bulunması sonucunda meydana gelen olaylar,
+c) İdarî ve adlî para cezaları dahil her tür ceza ve cezai şartlar.
 
-ç) İdarî ve adlî para cezaları dahil her tür ceza ve cezai şartlar;
+ç) İlgili mevzuatla belirlenen çerçevede tıbbi mesleki faaliyet gereği yapılanlar hariç her türlü deneyden kaynaklanan tazminat talepleri.
 
 A.4. Sigortanın Başlangıcı ve Sonu
 
@@ -292,43 +366,85 @@ Sigorta, poliçede başlama ve sona erme tarihleri olarak yazılan günlerde, ak
 
 B.1. Rizikonun Gerçekleşmesi
 
-Sözleşmenin;
+Sigorta sözleşmesinin konusuna ilişkin olarak sigortalının kendisine tazminat talebinde bulunulduğunu öğrendiği ya da zarar görenin doğrudan doğruya sigortacıya başvurduğu anda riziko gerçekleşmiş sayılır.
 
-- A.1.’in (a) bendinde belirtilen şekilde yapılması hâlinde, sigortalının, sözleşme süresi içinde yürüttüğü mesleki faaliyeti dolayısıyla, gerek sözleşme döneminde gerekse sözleşmenin bitiminden itibaren iki yıl içinde başkalarının zarara uğraması sonucunda,
+B.2. Rizikoya İlişkin Olarak Sigorta Ettirenin Yükümlülükleri
 
-- A.1.’in (b) bendinde belirtilen şekilde yapılması hâlinde sözleşme yapılmasından önceki bir yıl içinde veya sözleşme yürürlükteyken meydana gelen olaya bağlı olarak;
+Sigorta ettiren, aşağıdaki hususları yerine getirmekle yükümlüdür:
 
-a) Sigortacının bilgisi ve yazılı muvafakatı dâhilinde olmak koşuluyla sigortalı tarafından ödeme yapılması veya,
+a) Haberdar olduğu andan itibaren rizikonun gerçekleştiğini derhal sigortacıya bildirmek,
 
-b) Sigortalıya karşı yapılan tebligat sonucu davanın veya hukuki takibin öğrenilmesiyle,
+b) Sigortalının sorumluluğunu gerektirecek olayları, on gün içinde, sigortacıya bildirmek,
 
-c) Zararın gerçekleştiğinin ve bu zararın sigortalının sorumluluğundan kaynaklandığının mahkeme tarafından karar altına alınması hallerinde
+c) Sigorta sözleşmesi yokmuş gibi, imkanları ölçüsünde zararın önlenmesi, azaltılması ve artmasının önlenmesi için gerekli her türlü önlemi almak ve bu amaçla sigortacı tarafından verilecek mesleki faaliyet dışındaki sigortacılıkla ilgili makul talimatlara uymak,
 
-riziko gerçekleşmiş olur.
-
-B.2. Rizikoya İlişkin Olarak Sigorta Ettirenin ve Sigortalının Yükümlülükleri
-
-Sigortalı ve sigorta ettiren, aşağıdaki hususları yerine getirmekle yükümlüdür:
-
-a) Haberdar olduğu andan itibaren rizikonun gerçekleştiğini, beş gün içinde sigortacıya ihbar etmek,
-
-b) Sigorta sözleşmesi yokmuş gibi gerekli her türlü önlemi almak ve bu amaçla sigortacı tarafından verilecek mesleki faaliyet dışındaki sigortacılıkla ilgili makul talimatlara uymak,
-
-c) Sigortacının talebi üzerine, olayın ve zararın nedeni ile hangi hâl ve şartlar altında gerçekleştiğinin ve sonuçlarının tespitine; tazminat yükümlülüğü ve miktarı ile rücu hakkının kullanılmasına yarayacak, elde edilmesi mümkün bilgi ve belgeleri gecikmeksizin vermek,
-
-ç) Sigortacının yazılı onayı olmadıkça, sorumluluğu veya tazminat talebini kısmen veya tamamen kabul etmemek, ödeme taahhüdünde bulunmamak, zarar görenlere herhangi bir tazminat ödemesinde bulunmamak;
+ç) Sigortacının talebi üzerine, olayın ve zararın nedeni ile hangi hâl ve şartlar altında gerçekleştiğinin ve sonuçlarının tespitine; tazminat yükümlülüğü ve miktarı ile rücu hakkının kullanılmasına yarayacak, elde edilmesi mümkün bilgi ve belgeleri makul sürede vermek,
 
 d) Zarardan dolayı, dava yolu ile veya başka yollarla bir tazminat talebi karşısında kaldığı veya aleyhine cezai kovuşturmaya geçildiği hâllerde, durumdan sigortacıyı derhal haberdar etmek ve tazminat talebine ve cezai kovuşturmaya ilişkin olarak almış olduğu ihbarname, davetiye ve benzeri tüm belgeleri gecikmeksizin sigortacıya vermek,
 
 e) Sigorta konusu ile ilgili başka sigorta sözleşmesi varsa bunları sigortacıya bildirmek.
 
-B.3. Tazminat ve Ödenmesi
+B.3. Rizikoya İlişkin Olarak Sigortacının Hak, Borç ve Yükümlülükleri
 
-Rizikonun gerçekleşmesi hâlinde, özel durumlar hariç olmak üzere, hangi belgelerin istenileceği poliçe ekinde açık ve anlaşılır şekilde yer almak zorundadır. Sigortacı, talep edilen tazminat ve giderleri, hak sahibinin tazminata konu olay ve zarara ilişkin tespit tutanağını veya bilirkişi raporunu ve poliçe ekinde de yer alan diğer gerekli belgeleri eksiksiz olarak şirketin merkez veya kuruluşlarına ilettiği tarihten itibaren on beş iş günü içinde gerekli incelemeleri tamamlayıp sözleşmeye aykırı olmayan zararlara ilişkin tazminatı öder.
+B.3.1. Giderlerin Ödenmesi
+
+Sigortacı, zararı önleme, azaltma, artmasına engel olma ve rücu haklarının korunmasına yönelik sigortalının yaptığı makul giderleri, bunlar faydasız kalmış olsalar bile, sigorta tazminatından ayrı olarak tazmin eder.
+
+Sigortacı, sigorta ettirenin istemi üzerine giderlerin karşılanması amacıyla gerekli tutarı avans olarak ödemek zorundadır.
+
+B.3.2. Tazminata İlişkin Avans Verilmesi
+
+Sigortacı, sigortalının talebi üzerine, tazminat talebine ilişkin giderler için avans vermek zorundadır.
+
+B.3.3. Tazminatın Ödenmesi
+
+Rizikonun gerçekleşmesi hâlinde, özel durumlar hariç olmak üzere, hangi belgelerin istenileceği poliçe ekinde açık ve anlaşılır şekilde yer almak zorundadır.
+
+Sigorta tazminatı, rizikonun gerçekleşmesini müteakip ve rizikoyla ilgili belgelerin sigortacıya verilmesinden sonra sigortacının edimine ilişkin araştırmaları bitince ve her hâlde rizikonun gerçekleştiğine ilişkin bildirimin yapılmasından kırkbeş gün sonra muaccel olur. Sigortacıya yüklenemeyen bir kusurdan dolayı inceleme gecikmişse süre işlemez.
+
+Araştırmalar, rizikonun gerçekleştiğine ilişkin bildirimin yapılmasından ya da zarar görenin doğrudan sigortacıya başvurmasından başlayarak üç ay içinde tamamlanamamışsa; sigortacı, tazminattan mahsup edilmek üzere, tarafların mutabakatı veya anlaşmazlık hâlinde mahkemece yaptırılacak ön ekspertiz sonucuna göre süratle tespit edilecek hasar miktarının en az yüzde ellisini avans olarak öder.
+
+Borç muaccel olunca, sigortacı ihtara gerek kalmaksızın temerrüde düşer.
+
+Sigortacının temerrüt faizi ödeme borcundan kurtulmasını öngören sözleşme hükümleri geçersizdir.
+
+B.3.4. Sigortalıya Yardım
+
+(Değişik:RG-16/4/2016-29686) Dava açılması halinde (idari davalar dahil), sigortalının ihbarı ile sigortacı takip (Danıştay Onuncu Dairesinin 21/11/2019 tarihli ve E.:2019/7032; K.:2019/8575 sayılı kararı ile iptal ibare; Danıştay İdari Dava Daireleri Kurulunun 7/6/2021 tarihli ve E.:2020/1440 ve K.:2021/1177 sayılı Onama kararı ile kesinleşmiştir.) etmek üzere davaya her aşamada dahil olur. (Danıştay Onuncu Dairesinin 21/11/2019 tarihli ve E.:2019/7032; K.:2019/8575 sayılı kararı ile iptal ikinci cümle: Danıştay İdari Dava Daireleri Kurulunun 7/6/2021 tarihli ve E.:2020/1440 ve K.:2021/1177 sayılı Onama kararı ile kesinleşmiştir.) Sigortacı dava sonucuna göre yargılama giderlerini ve avukatlık ücretlerini genel hükümler çerçevesinde ödemekle yükümlüdür. Şu kadar ki, hükmolunan tazminat sigorta bedelini geçerse, sigortacı bu masrafları sigorta bedelinin tazminata oranı dahilinde öder.
+
+Sigortalı aleyhine cezai kovuşturmaya geçilmesi halinde, sanığın izni ile sigortacı da savunmaya iştirak eder. (Danıştay Onuncu Dairesinin 21/11/2019 tarihli ve E.:2019/7032; K.:2019/8575 sayılı kararı ile iptal ikinci cümle: Danıştay İdari Dava Daireleri Kurulunun 7/6/2021 tarihli ve E.:2020/1440 ve K.:2021/1177 sayılı Onama kararı ile kesinleşmiştir.)
+
+Sigortalının sigortacının onayını almadan yaptığı sulh sözleşmesi, bildirimden itibaren onbeş gün içinde onay verilmemişse, sigortacıya karşı geçersizdir; sigortacı haklı olmayan sebeplerle sulhe onay vermekten kaçınamaz. Sigortacı, sulhe bağlı usulüne uygun yapılmış giderleri ödemekle yükümlüdür.
+
+B.3.5. Sigortacının Zarar Görenden Bilgi Alma Hakkı
+
+Sigortacı, zarara sebep olan olayın ve zarar miktarının belirlenmesi amacıyla, zarar görenden bilgi isteyebilir. Zarar gören, sağlanması ihtimali bulunan ve istenilmesi haklı görülebilecek ilgili tüm belgeleri sigortacıya vermek zorundadır. Zarar görenin bu zorunluluğa uymaması hâlinde, durumun zarar görene yazılı bildirilmiş olması kaydıyla, sigortacının sorumluluğu, zorunluluk yerine getirilmiş olsaydı ödemek zorunda kalacağı miktarla sınırlıdır.
+
+B.3.6. Zarar Görenle İlişkide İfa Yükümlülüğü
+
+Sigortacı, sigortalıya karşı ifa borcundan tamamen veya kısmen kurtulmuş olsa da, zarar gören bakımından ifa borcu, zorunlu sigorta miktarına kadar devam eder.
+
+Sigorta ilişkisinin sona ermesi, zarar görene karşı ancak, sigortacının sözleşmenin sona erdiğini veya ereceğini yetkili mercilere bildirmesinden bir ay sonra hüküm doğurur.
+
+Zarar, sosyal güvenlik kurumları tarafından karşılandığı ölçüde sigortacının sorumluluğu sona erer.
 
 B.4. Halefiyet
 
 Sigortacı, ödediği tazminat tutarınca, hukuken sigortalının yerine geçer.
+
+B.5. Doğrudan Dava Hakkı
+
+Zarar gören, uğradığı zararın sigorta bedeline kadar olan kısmının tazminini, sigorta sözleşmesi için geçerli zamanaşımı süresi içinde kalmak şartıyla, doğrudan sigortacıdan isteyebilir.
+
+(Ek:RG-26/7/2014-29072) B.6. Sigortacının Sigortalıya Rücu Hakkı
+
+Sigorta ettirene başlıca şu nedenlerle rücu edilir:
+
+a) Mesleki faaliyetin ifası sırasında sigortalı tarafından kasten sebep olunan her tür olay ile davranışları,
+
+b) Sigortalı veya çalıştırdığı kişilerin, poliçe kapsamındaki mesleki faaliyeti ifa ederken alkol, uyuşturucu ya da narkotik maddelerin tesiri altında bulunması sonucunda meydana gelen olaylar,
+
+c) Sigortalının talebi üzerine zeyilname yapılması gereken durumlarda sigortalının bu talepte bulunmaması halinde ödenen tazminatın eksik prim oranına denk gelen kısmı sigortalıya rücu edilir.
 
 ### C. ÇEŞİTLİ HÜKÜMLER
 
@@ -336,47 +452,27 @@ C.1. Sigorta Priminin Ödenmesi ve Sigortacının Sorumluluğunun Başlaması
 
 Sigortacının sorumluluğu, primin ödenmesi ile başlar. Aksi kararlaştırılmadıkça, primin ödenmemesi hâlinde, poliçe teslim edilmiş olsa dahi sigortacının sorumluluğu başlamaz ve bu şart poliçeye yazılır.
 
-Prim ödemede temerrüde düşülmesi hâlinde Borçlar Kanunu hükümleri uygulanır.
+(Değişik:RG-26/7/2014-29072) C.2. Sigortalı ve Sigorta Ettirenin Sözleşme Yapıldığı Sırada Beyan Yükümlülüğü
 
-C.2. Sigortalı ve Sigorta Ettirenin Sözleşme Yapıldığı Sırada Beyan Yükümlülüğü
+Sigorta ettiren sözleşmenin yapılması sırasında bildiği veya bilmesi gereken tüm önemli hususları sigortacıya bildirmekle yükümlüdür. Sigortacıya bildirilmeyen, eksik veya yanlış bildirilen hususlar, sözleşmenin değişik şartlarda yapılmasını gerektirecek nitelikte ise önemli kabul edilir. Sigortacı tarafından yazılı veya sözlü olarak sorulan hususlar, aksi ispat edilinceye kadar önemli sayılır.
 
-Sigortacı sigorta sözleşmesini, sigorta ettirenin veya bilgisinin olması durumunda sigortalının beyanı ve varsa teklifname ve eklerinde yazılı sorulara verdiği cevaplara dayanarak yapar.
+Sigortacı sigorta ettirene, cevaplaması için sorular içeren bir liste vermişse, sunulan listede yer alan sorular dışında kalan hususlara ilişkin olarak sigorta ettirene hiçbir sorumluluk yüklenemez; meğerki, sigorta ettiren önemli bir hususu kötü niyetle saklamış olsun. Sigortacı için önemli olan bir husus bildirilmemiş veya yanlış bildirilmiş olduğu takdirde, sigortacı onbeş gün içinde prim farkı isteyebilir. Önemli hususun sigorta ettirenin kusuru sonucu öğrenilememiş olması veya sigorta ettiren tarafından önemli sayılmaması durumu değiştirmez.
 
-Sigortalı ve sigorta ettirenin beyanı yanlış veya eksik ise ve bu durum, sigortacının sözleşmeyi yapmaması veya daha ağır şartlarla yapmasına neden oluyorsa, sigortacı durumu öğrendiği tarihten itibaren bir ay içinde sözleşmeden cayabilir veya sözleşmeyi yürürlükte tutarak aynı süre içinde prim farkını talep edebilir.
+(Değişik:RG-26/7/2014-29072) C.3. Sözleşmenin Devamı Sırasındaki Beyan Yükümlülüğü
 
-Sigorta ettiren, talep edilen prim farkını kabul ettiğini sekiz gün içinde bildirmediği takdirde sözleşmeden cayılmış olur. Ancak, prim farkının kabul edilmemesi nedeniyle sözleşmeden cayılması, sigortacının gerçeğe aykırı veya eksik beyanı öğrendiği tarihten itibaren bir aylık süre içinde gerçekleşmek durumundadır.
+Sigorta ettiren, sözleşmenin yapılmasından sonra, sigortacının izni olmadan rizikoyu veya mevcut durumu ağırlaştırarak tazminat tutarının artmasını etkileyici davranış ve işlemlerde bulunamaz.
 
-Sigortalı ve sigorta ettirenin kasıtlı davrandığının anlaşılması hâlinde sigortacı, sözleşmeden cayabilir ve gün esasına dayanarak hesap edilen prime hak kazanır.
+Sigorta ettiren veya onun izniyle başkası, rizikonun gerçekleşme ihtimalini artırıcı veya mevcut durumu ağırlaştırıcı işlemlerde bulunursa yahut sözleşme yapılırken açıkça riziko ağırlaşması olarak kabul edilmiş bulunan hususlardan biri gerçekleşirse derhâl; bu işlemler bilgisi dışında yapılmışsa, bu hususu öğrendiği tarihten itibaren en geç on gün içinde durumu sigortacıya bildirir.
 
-C.3. Sözleşmenin Devamı Sırasındaki Beyan Yükümlülüğü
-
-Sözleşmenin devamı sırasında sigortacının izni olmadan rizikoya etki edici nitelikte değişiklik yapılması hâlinde sigorta ettiren veya sigortalı durumu sekiz gün içinde sigortacıya bildirmekle yükümlüdür.
-
-Durumun sigortacı tarafından öğrenilmesinden sonra, değişiklik, sigortacının sözleşmeyi yapmamasını veya daha ağır şartlarla yapmasını gerektiren hâllerden ise sigortacı, sekiz gün içinde sözleşmeyi fesheder veya prim farkını talep etmek suretiyle sözleşmeyi yürürlükte tutar. Sigorta ettiren, talep edilen prim farkını kabul ettiğini sekiz gün içinde bildirmediği takdirde sözleşme feshedilmiş olur.
-
-Feshin hüküm ifade ettiği tarihe kadar geçen sürenin primi, gün esası üzerinden hesap edilir ve fazlası geri verilir.
-
-Süresinde kullanılmayan fesih veya prim farkını talep etme hakkı düşer.
-
-Rizikodaki değişikliği öğrenen sigortacı, sigorta hükmünün devamına razı olduğunu gösteren bir harekette bulunursa fesih ve prim talep hakkı düşer.
-
-Değişiklik, rizikoyu hafifletici nitelikte ve daha az prim uygulamasını gerektirir hâllerden ise; sigortacı, bu değişikliğin yapıldığı tarihten sözleşmenin sona ermesine kadar geçecek süre için gün esasına göre hesap edilecek prim farkını sigorta ettirene geri verir.
-
-Sigortacının sözleşmeyi bu değişiklere göre yapmamasını veya daha ağır şartlarla yapmasını gerektiren hâllerde:
-
-a) Sigortacı durumu öğrenmeden önce,
-
-b) Sigortacının fesih ihbarında bulunabileceği süre içinde,
-
-c) Fesih ihbarının hüküm ifade etmesi için geçecek süre içinde, riziko gerçekleşirse, sigortacı, tazminatı tahakkuk ettirilen prim ile tahakkuk ettirilmesi gereken prim arasındaki orana göre öder.
+Sigortacı sözleşmenin süresi içinde, rizikonun gerçekleşmesi veya mevcut durumun ağırlaşması ihtimalini ya da sözleşmede riziko ağırlaşması olarak kabul edilebilecek olayların varlığını öğrendiği takdirde prim farkı isteyebilir.
 
 C.4. Sigorta Ettirenin ve Sigortalının Durumu
 
-Bu genel şartlarda düzenlenen sigorta ettirenin borç ve yükümlülüklerinin sigortalı tarafından veya sigortalıya yüklenen yükümlülüklerin sigorta ettiren tarafından yerine getirilmesi hâllerinde, borç ve yükümlülükler, ifa edilmiş sayılır. Ancak sigortacının sırf bu nedenle durumunun ağırlaştığını ileri sürerek itiraz etme hakkı saklıdır.
+Sigorta ettirenin bilgisine ve davranışına hukuki sonuç bağlanan durumlarda, sigortadan haberi olması şartı ile sigortalının da lehtarın bilgisi ve davranışı da dikkate alınır.
 
 C.5. Tebliğ ve İhbarlar
 
-Sigortalının ve sigorta ettirenin bildirimleri, sigorta şirketinin merkezine veya sigorta sözleşmesine aracılık eden acenteye yapılır.
+Sigortalının ve sigorta ettirenin bildirimleri, sigorta şirketinin merkezine veya sigorta sözleşmesi yapan ya da yapılmasına aracılık eden acenteye yapılır.
 
 Sigortacının bildirimleri de sigortalıya karşı yapılacaksa sigortalının, sigorta ettirene karşı yapılacaksa sigorta ettirenin son bildirilen adresine noter eliyle veya taahhütlü mektupla yapılır.
 
@@ -384,22 +480,126 @@ Taraflara imza karşılığı elden verilen mektup veya telgrafla yapılan bildi
 
 Güvenli elektronik imza kullanılarak elektronik ortamda yapılan ve sigortacıya, sigortalıya ve sigorta ettirene ulaştığı kanıtlanabilen bildirimler de geçerli sayılır.
 
-C.6. Mesleki Faaliyete Son Verilmesi
+C.6. Sigorta Sözleşmesinin Son Bulması
 
-Poliçede tanımlanan mesleki faaliyete son verilmesi hâlinde sigorta sözleşmesi sona erer ve işlemeyen günlere ait prim sigorta ettirene iade edilir.
+Sigorta sözleşmesi; poliçede tanımlanan mesleki faaliyete son verilmesi, sigortacının iflası, sözleşmenin feshi ve sözleşmeden cayılma hâllerinde son bulur.
 
-C.7. Ticari ve Mesleki Sırların Saklı Tutulması
+Mevzuattan kaynaklanan özel hükümler saklı kalmak kaydıyla sözleşmenin son bulması durumunda işlemeyen günlere ait prim sigorta ettirene iade olunur.
+
+(Değişik:RG-26/7/2014-29072) C.7. Özel Fesih Nedenleri
+
+Sigortacının iflası, konkordato ilan etmesi, ilgili sigorta dalına ilişkin ruhsatının iptal edilmesi veya sözleşme yapma yetkisinin kaldırılması gibi hâllerde; sigorta ettiren, bu olguları öğrendiği tarihten itibaren bir ay içinde, teminatsızlığa yol açmayacak şekilde yeni bir poliçe yapmak şartıyla sigorta sözleşmesini feshedebilir.
+
+Sigorta ettiren, aciz hâline düşen veya hakkında yapılan takip semeresiz kalan sigortacıdan, taahhüdünün yerine getirileceğine ilişkin teminat isteyebilir. Bu istemden itibaren bir hafta içinde teminat verilmemiş ise sigorta ettiren, teminatsızlığa yol açmayacak şekilde yeni bir poliçe yapmak şartıyla sözleşmeyi feshedebilir.
+
+C.8. Ticari ve Mesleki Sırların Saklı Tutulması
 
 Sigortacı ve sigortacı adına hareket edenler bu sözleşmenin yapılması dolayısıyla sigortalıya ve sigorta ettirene ilişkin öğreneceği sırların saklı tutulmamasından doğacak zararlardan sorumludur.
 
-C.8. Yetkili Mahkeme
+C.9. Zamanaşımı
 
-Sigorta sözleşmesinden doğan anlaşmazlıklar nedeniyle sigortacı aleyhine açılacak davalarda yetkili mahkeme, sigorta şirketinin merkezinin veya sigorta sözleşmesine aracılık yapan acentenin ikametgahının bulunduğu yerdeki, sigortalı veya sigorta ettiren aleyhine açılacak davalarda ise davalının ikametgahının bulunduğu yerdeki mahkemedir.
-
-C.9. Zaman aşımı
-
-Sigorta sözleşmesinden doğan bütün talepler iki yılda zaman aşımına uğrar.
+Sigorta sözleşmesinden doğan bütün istemler, alacağın muaccel olduğu tarihten başlayarak iki yıl ve sigorta tazminatına ilişkin istemler her hâlde rizikonun gerçekleştiği tarihten itibaren on yıl geçmekle zamanaşımına uğrar.
 
 C.10. Özel Şartlar
 
 Taraflar, sigorta ettiren ve sigortalının aleyhine olmamak üzere özel şartlar kararlaştırabilir.
+
+### EK-3
+
+(Ek:RG-7/10/2017-30203)
+
+### TIBBI KÖTÜ UYGULAMAYA İLİŞKİN ZORUNLU MALİ SORUMLULUK SİGORTASI
+
+### PRİM VE HASAR PAYLAŞIMI ESASLARI
+
+Amaç ve Kapsam
+
+(1) Bu esasların amacı, Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasına ilişkin prim ve hasar paylaşımına dair kuralları düzenlemektir.
+
+(2) Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasına ilişkin 1.7.2017 tarihinden itibaren düzenlenen poliçeler kapsam dahilindedir. Bu esaslara ilişkin işlemler, Hazine Müsteşarlığı, Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği ile prim ve hasar paylaşım sürecini yönetmekle Görevlendirilen Şirket yetkilisinden oluşan üç kişilik bir “Değerlendirme Komitesi” tarafından yürütülür.
+
+(3) Bu süreçte ortaya çıkabilecek ihtilaflı konular, Değerlendirme Komitesince Müsteşarlığın uygun görüşü alınarak çözüme kavuşturulur.
+
+Çalışma Prensibi
+
+(1) Prim ve ödenen hasarın şirketler arasında paylaşımı şirket, Birlik ve Sigorta Bilgi ve Gözetim Merkezi (SBM) verileri dikkate alınarak Görevlendirilen Şirket tarafından yapılır.
+
+(2) Prim ve ödenen hasarın %50’si şirketler arasında eşit olarak, kalan %50 ise şirketlerin Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası primlerinden son 3 yıllık dönemde aldıkları paya göre paylaştırılır. Bu oranların 20 puana kadar artırılması veya azaltılması Müsteşarlığın yetkisindedir. Paylaşım oranı her yılın başı itibarıyla hesaplanır. 2017 yılı için bu pay, 01.01.2014-30.06.2017 tarihleri arasındaki dönem primleri alınarak hesaplanır.
+
+(3) Genel Sorumluluk Sigortası Branşında yeni ruhsat alan şirket, yeni ruhsat aldığı yıl eşit olarak paylaştırılan %50’lik kısımdan pay alır. Yeni ruhsat alan şirket için paylaşım ruhsat aldığı tarih itibarıyla başlar.
+
+(4) Ruhsatını iade eden şirket ruhsatını iade ettiği tarih itibarıyla paylaşımdan çıkar.
+
+(5) Şirket ödemede geciktiği takdirde, ticarî işlerde uygulanan oran üzerinden hesaplanacak gecikme faizini ödemekle yükümlüdür. Şirketin ödemiş olduğu faiz tutarı, Görevlendirilen Şirket tarafından geç ödeme yapılan alacaklı şirketler arasında dağıtılır.
+
+Prim devri
+
+(1) Şirket prim üzerinden yapılan aktarımlar (vergi ve diğer yükümlülükler) ile aracı komisyonu ve operasyon maliyetinin karşılanması amacıyla Değerlendirme Komitesince belirlenecek komisyonu düşerek kalan tutarı devir hesabına alacak kaydeder.
+
+(2) İptal edilen poliçelerin kayıt işlemlerinde de aynı esaslar uygulanır.
+
+(3) Değerlendirme Komitesi;
+
+a) Primin taksitle tahsil edilmesi durumunda paylaşım kapsamında devredilecek primi,
+
+b) Görevlendirilen Şirkete ödenecek yönetim ücretini,
+
+c) Sigorta şirketine ait herhangi bir reasürans anlaşmasının bulunması durumunda, ilgili reasürans anlaşmasının özelliğini dikkate alarak devredilecek prime ve paylaşıma konu olacak hasara ilişkin usul ve esasları
+
+belirlemeye yetkilidir.
+
+Hasar Devri
+
+(1)Şirket düzenlediği poliçenin hasar sürecini kendi yönetir. Ödenen hasar devir hesabına borç kaydedilir.
+
+Hasar Sürecinin İzlenmesi
+
+(1) Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliğinin ilgili komiteleri tarafından oluşturulacak veri deseni esas alınarak, şirketin hasar yönetimine ilişkin verilerini gösteren raporlar SBM üzerinden temin edilir. Değerlendirme Komitesi söz konusu raporları esas alarak, hasar dosyalarının ve bunlara ilişkin süreçlerin incelenmesini Görevlendirilen Şirket’ten talep edebilir. Görevlendirilen Şirket, inceleme sonuçlarını içeren raporu Değerlendirme Komitesine iletir.
+
+Şirket ve Görevlendirilen Şirket Arasındaki Hesap İşlemleri
+
+(1) Şirket, devir hesabı kayıtlarını, düzenlediği poliçelerin aylık istihsal ve iptal bordroları ile ödenen tazminatları (maddi ve manevi) gösterir özet (icmal) bordrolarını izleyen ayın yirminci gününe kadar Görevlendirilen Şirket’e gönderir.
+
+(2) Değerlendirme Komitesi, bu maddeye göre düzenlenecek bordroların içeriğini belirlemeye yetkilidir.
+
+(3) Görevlendirilen Şirket, şirketin paylaşım kapsamındaki borcunu veya alacağını gösteren hesap belgesini takip eden ay on beş gün içinde şirkete gönderir.
+
+(4) Borçlu şirket hesap belgesinin kendisine gönderiminden itibaren on iş günü içinde Görevlendirilen Şirket hesabına borcunu nakden öder.
+
+(5) Görevlendirilen Şirket, borçlu şirketlere tanınan sürenin bitimini takip eden on iş günü içinde alacaklı şirketlere gerekli ödemeleri yapar.
+
+Hesap
+
+(1) Her bir şirket için ayrı bir hesap tanzim yılı esasına göre Görevlendirilen Şirket’te tutulur.
+
+(2) Hesapta;
+
+a) Devredilecek prim,
+
+b) Ödenen hasar,
+
+c) Paylaşım oranlarına göre şirket için hesaplanan prim tutarı,
+
+ç) Paylaşım oranlarına göre şirket için hesaplanan hasar tutarı,
+
+d) Geç ödemeler nedeniyle oluşan gecikme faizi borcu,
+
+e) Geç ödemeler nedeniyle oluşan gecikme faizi alacağı
+
+bilgileri yer alır.
+
+Denetim
+
+(1) Bu esaslara ilişkin tüm iş ve işlemler Müsteşarlığın denetimine tabidir.
+
+_________
+
+(1) Bu değişiklik 30/7/2011 tarihinde yürürlüğe girer.
+
+(2) Bu değişiklik 1/1/2016 tarihinde yürürlüğe girer.
+
+(3) 23/5/2020 tarihli ve 31135 sayılı Resmî Gazete’ de yayımlanan değişiklik ile bu Bölüme 1 inci maddeden sonra gelmek üzere 2 nci madde eklenmiş ve diğer maddeler buna göre teselsül ettirilmiştir.
+
+(4) Bu değişiklik 1/1/2020 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+
+(5) Bu değişiklik 1/11/2025 tarihinde yürürlüğe girer.

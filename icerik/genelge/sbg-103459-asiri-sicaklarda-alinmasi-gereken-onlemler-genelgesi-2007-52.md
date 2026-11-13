@@ -6,8 +6,7 @@ tarih: "2007-06-25"
 sayi: "2007/52"
 birim: "Temel Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Aşırı sıcak havalarda halk sağlığının korunması, risk gruplarına yönelik uyarılar ve alınacak koruyucu tedbirleri düzenler."
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103459/asiri-sicaklarda-alinmasi-gereken-onlemler-genelgesi-2007-52.html"
+kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr) — kaynak sayfa 13.11.2026 itibarıyla erişilemiyor (https://www.saglik.gov.tr/TR-103459/asiri-sicaklarda-alinmasi-gereken-onlemler-genelgesi-2007-52.html)"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
