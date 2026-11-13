@@ -23,4 +23,5 @@ jobs:
       - if: steps.denetle.outputs.sorun != '0'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh issue create --title "Bağlantı denetimi: ${{ steps.denetle.outputs.sorun }} sorunlu kaynak bağlantısı" --body-file baglanti-raporu.md
+        run: |
+          gh issue create --title "Bağlantı denetimi - ${{ steps.denetle.outputs.sorun }} sorunlu kaynak bağlantısı" --body-file baglanti-raporu.md
