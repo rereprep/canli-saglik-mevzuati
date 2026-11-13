@@ -233,3 +233,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-13: site_uret.yururluk_denetimi: metinlerdeki "… tarihli ve … sayılı RGde yayımlanan X yürürlükten kaldırılmıştır" hükmü sitedeki bir kaydı (RG tarih+sayı ve ad eşleşmesiyle) gösteriyorsa o kayıt üretim sırasında kendiliğinden mülga olur ve kaldırana bağlanır (şu an 15 kayıt; md dosyaları değişmez, künyede Açıklama=konu_ek). Klinik Araştırmalar 2011 elle mülga (kaldıran 13.04.2013/28617 sitede yok). HAP Yönetmeliği ve 3572 sayılı Kanun mevzuat.gov.tr güncel metnine geçirildi.
 
 - 2026-11-13: Kaldıran dört yönetmelik eklendi (Çevresel Gürültü Kontrol 2022, İn Vitro Tanı Amaçlı Tıbbi Cihaz 2021, Yüzme Suyu Kalitesinin Yönetimine Dair 2019, Maden İşyerlerinde İSG 2013); yürürlük denetimi bunlarla 6 kaydı daha mülga yaptı (toplam 21). Kordon Kanı Yön. RG sayısı 25866 olarak düzeltildi.
+
+- 2026-11-13: Üç iş sağlığı tüzüğü (Parlayıcı-Patlayıcı 1973, Yapı İşleri 1974, Maden ve Taş Ocakları 1984) mülga olarak işaretlendi; kaldıran 2014/6574, 2014/6572, 2014/6573 sayılı tüzükler RGden doğrulandı (17, 26, 25 Temmuz 2014). Özcan ekinde oldukları için sitede kalıyorlar.

@@ -8,10 +8,11 @@ etiketler: ["sağlıkla ilgili genel mevzuat"]
 kaynak: "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/arsiv/14752.pdf"
 not: "Ek IV: Sağlıkla ilgili tüzükler."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+konu: "17/7/2014 tarihli ve 29063 sayılı Resmî Gazete’de yayımlanan 2014/6574 sayılı Bakanlar Kurulu Kararı eki “Parlayıcı, Patlayıcı, Tehlikeli ve Zararlı Maddelerle Çalışılan İşyerlerinde ve İşlerde Alınacak Tedbirler Hakkında Tüzüğün Yürürlükten Kaldırılmasına Dair Tüzük” ile yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2014/07/20140717-1.htm)."
 ---
 
 Karar Sayısı: 7/7551

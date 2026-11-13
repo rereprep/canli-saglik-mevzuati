@@ -8,10 +8,11 @@ etiketler: ["sağlıkla ilgili genel mevzuat"]
 kaynak: "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/arsiv/15004.pdf"
 not: "Ek IV: Sağlıkla ilgili tüzükler."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+konu: "26/7/2014 tarihli ve 29072 sayılı Resmî Gazete’de yayımlanan 2014/6572 sayılı Bakanlar Kurulu Kararı eki “2014/6572 Yapı İşlerinde İşçi Sağlığı ve İş Güvenliği Tüzüğünün Yürürlükten Kaldırılmasına Dair Tüzük” ile yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2014/07/20140726-20.htm)."
 ---
 
 ### KARARNAME
