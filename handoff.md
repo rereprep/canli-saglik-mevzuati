@@ -259,3 +259,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - GBP 2009/17: sitede kitap taraması (sb-…2009-17) gösteriliyordu; Bakanlık .doc kaynaklı temiz sürüm (sbg-11137) elle-duzeltme tercih:true ile ana kayıt yapıldı, boru paragrafları gerçek tabloya çevrildi (25 tablo). Aşı takvimi ızgarası hücre konumları kaybolduğu için çıkarıldı (liste hâli metinde var).
 - ciftleri_birlestir: tarih+sayı eşleşmesinde başlık örtüşme eşiği 0.8→0.9; yanlış birleşen Organ ve Doku Nakli Koordinatörlüğü Eğitim Yönergesi ayrıldı. Kurum Hedef Katsayısı çifti elle ayni ile korundu.
 - Denendi/geri alındı: taranmamış kopyaya genel öncelik (kısa/eksik kurum kopyaları öne geçiyordu). İleride: benzer uzunluktaki çiftlerde temiz kopya tercih edilebilir (liste: bu oturum kaydı).
+
+## 2026-11-14 (5)
+- 8 çiftte taranmamış kopya elle tercih:true ile öne alındı (sbg-103558, 103541, 11156, 103551, sb-…seker-ve-tuz-2014-4, sbg-11128, sbg-11015, k-egitim-planlama-kurulunun); kelime karşılaştırmasıyla eksiksiz oldukları doğrulandı, tarih/sayı korunuyor. Kimlik Paylaşımı Yönergesi değişmedi (taranmış kopyada onay yazısı var).
+- Açık: temiz kopyası belirgin kısa olan 6 çift (hastane yatak 2008/65, lab biyolojik materyal, kontrol programı 2018/25, K vitamini 2021/11, su arıtma) — kısa kopya özet/eksik mi bakılmadı.

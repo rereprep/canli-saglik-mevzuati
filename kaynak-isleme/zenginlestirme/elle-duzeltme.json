@@ -1,6 +1,7 @@
 {
  "k-egitim-planlama-kurulunun": {
-  "baslik": "Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönerge"
+  "baslik": "Eğitim Planlama Kurulunun (EPK) Görevlerine Dair Yönerge",
+  "tercih": true
  },
  "sbg-11108-ozurlu-kisilere-yonelik-saglik-hizmetlerinin-sunumu-hakkinda-genelge": {
   "tarih": "2008-06-05",
@@ -231,5 +232,26 @@
  },
  "sb-saglik-bakanligina-bagli-saglik-tesislerinin-kurum-hedef": {
   "ayni": "dx-saglik-tesisleri-kurum-hedef-katsayisinin-belirlenmesine-iliskin-yonerge"
+ },
+ "sbg-103558-2018-30-sayili-genelgede-pratisyen-tabiplerin-hasta-yatirmalari-ve-uzm": {
+  "tercih": true
+ },
+ "sbg-103541-bakim-onarim-tadilat-isleri-genelge-revizyonu": {
+  "tercih": true
+ },
+ "sbg-11156-ureme-sagligi-hizmet-ici-egitimleri-hakkinda-genelge": {
+  "tercih": true
+ },
+ "sbg-103551-uzmanlik-ogrencilerinin-uzmanlik-tezi-ve-bilimsel-calismalari-genelges": {
+  "tercih": true
+ },
+ "sb-kamu-kurum-ve-kuruluslarinda-seker-ve-tuz-2014-4": {
+  "tercih": true
+ },
+ "sbg-11128-silikozis-hakkinda-genelge": {
+  "tercih": true
+ },
+ "sbg-11015-ozel-hasta-odalari-ucretleri-hakkinda-genelge-2010-18": {
+  "tercih": true
  }
 }
