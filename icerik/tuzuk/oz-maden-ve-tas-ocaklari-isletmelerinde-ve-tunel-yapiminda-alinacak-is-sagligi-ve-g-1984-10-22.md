@@ -12,7 +12,7 @@ durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
-konu: "25/7/2014 tarihli ve 29071 sayılı Resmî Gazete’de yayımlanan 2014/6573 sayılı Bakanlar Kurulu Kararı eki “2014/6573 Maden ve Taş Ocakları İşletmelerinde ve Tünel Yapımında Alınacak İşçi Sağlığı ve İş Güvenliği Önlemlerine İlişkin Tüzüğün Yürürlükten Kaldırılmasına Dair Tüzük” ile yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2014/07/20140725-25.htm)."
+konu: "25/7/2014 tarihli ve 29071 sayılı Resmî Gazete’de yayımlanan 2014/6573 sayılı Bakanlar Kurulu Kararı eki “Maden ve Taş Ocakları İşletmelerinde ve Tünel Yapımında Alınacak İşçi Sağlığı ve İş Güvenliği Önlemlerine İlişkin Tüzüğün Yürürlükten Kaldırılmasına Dair Tüzük” ile yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2014/07/20140725-25.htm)."
 ---
 
 Maden ve Taş Ocakları İşletmelerinde ve Tünel Yapımında Alınacak İşçi Sağlığı ve İş Güvenliği Önlemlerine ilişkin Tüzük

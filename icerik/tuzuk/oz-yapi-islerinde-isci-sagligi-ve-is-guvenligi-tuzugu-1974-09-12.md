@@ -12,7 +12,7 @@ durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
-konu: "26/7/2014 tarihli ve 29072 sayılı Resmî Gazete’de yayımlanan 2014/6572 sayılı Bakanlar Kurulu Kararı eki “2014/6572 Yapı İşlerinde İşçi Sağlığı ve İş Güvenliği Tüzüğünün Yürürlükten Kaldırılmasına Dair Tüzük” ile yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2014/07/20140726-20.htm)."
+konu: "26/7/2014 tarihli ve 29072 sayılı Resmî Gazete’de yayımlanan 2014/6572 sayılı Bakanlar Kurulu Kararı eki “Yapı İşlerinde İşçi Sağlığı ve İş Güvenliği Tüzüğünün Yürürlükten Kaldırılmasına Dair Tüzük” ile yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2014/07/20140726-20.htm)."
 ---
 
 ### KARARNAME
