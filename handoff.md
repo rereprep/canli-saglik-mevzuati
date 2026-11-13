@@ -249,3 +249,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Verem Savaşı Genelgesi (sbg-11112): luna çıktıları (calisma/sg/06/out_*.md) görüntüyle karşılaştırıldı, uydurma/yanlış okuma içeriyor → UYGULANMADI. Mevcut metin de güvenilmez; künyeye uyarı kondu, kontrol_edildi false. Tarama çok bozuk; güvenilir çözüm için daha iyi bir kaynak gerek.
 - Sitede tarihsiz 27 kayıt kaldı; metinlerinden tarih çıkarılamıyor.
 - UYARI: luna ajanlarının düşük kaliteli taramalardan yazdığı metinler uygulanmadan önce görüntüyle örnek karşılaştırma yapılmalı.
+
+## 2026-11-14 (3)
+- 7 genelgenin luna metni Apple Vision OCR ile kelime bazında karşılaştırıldı (calisma/sg/NN/j): farklar yalnız üst/alt bilgi → güvenilir.
+- sbg-10714 (Döner Sermaye İhaleleri 2008/42): 48 sayfanın yinelenen üst bilgileri ve sayfa numaraları temizlendi, sayfa sonunda bölünen paragraflar birleştirildi, madde imleri düzeltildi. EK-2 listesi hâlâ düz metin (tablo değil).
+- sbg-11137 (GBP 2009): mevcut metinde tablolar eksik; Bakanlık .doc eki (calisma/sg/11/e00.doc.txt) tabloları düz metin veriyor → henüz uygulanmadı.
