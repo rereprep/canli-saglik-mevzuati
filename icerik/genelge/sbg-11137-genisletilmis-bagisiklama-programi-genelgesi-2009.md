@@ -138,6 +138,14 @@ Aşı takviminde belirtilen aralıklara göre aşıları tamamlanamamış çocuk
 
 Doğurganlık Çağı (15- 49 Yaş) /Gebe Kadınlardaki Tetanoz Aşı Takvimi
 
+| Doz sayısı | Uygulama zamanı | Koruma süresi |
+| --- | --- | --- |
+| Td 1 | Gebeliğin 4. ayında - İlk karşılaşmada | Yok |
+| Td 2 | Td 1’den en az 4 hafta sonra | 1-3 yıl |
+| Td 3 | Td 2’den en az 6 ay sonra | 5 yıl |
+| Td 4 | Td 3’den en az 1 yıl sonra ya da bir sonraki gebelikte | 10 yıl |
+| Td 5 | Td 4’den en az 1 yıl sonra ya da bir sonraki gebelikte | Doğurganlık çağı boyunca |
+
 Hiç aşılanmamış gebelerin en az iki doz Td aşısı almaları sağlanmalıdır. İkinci doz doğumdan en az iki hafta önce tamamlanmalıdır. Yeterli süre sağlanamadıysa tek doz Td almış gebenin ve bebeğinin tetanoz hastalığı açısından risk altında olduğu dikkate alınmalıdır. Temiz doğum şartlarının sağlanması ve bebeğin göbek bakımının doğru yapılması daha da önem kazanmaktadır.
 
 Kayıtlı tetanoz toksoid dozu olanlar: GBP kapsamında 1980 yılı ve sonrasında doğan kişilerin büyük bölümüne erken çocukluk döneminde veya okul çağında tetanoz aşısı uygulaması yapılmış ve bu çocukların bir kısmı doğurganlık çağına ulaşmıştır. 1980’den sonra doğan kadınların aşı kayıtlarının bulunması durumunda, uygun aralıklarla yapılmış en az 3 doz DBT/Td/TT, doğurganlık çağında yapılmış 2 doz TT/Td dozu yerine sayılır ve aşı takvimine kalındığı yerden devam edilir.
@@ -259,6 +267,11 @@ Bu forma diğer sağlık birimleri ve özel hekimler tarafından yapılan aşıl
 Form 012A’da bulunan “doğumda neonatal tetanoza karşı korunmuş çocuk” bölümü aşağıdaki bilgiler doğrultusunda doldurulur:
 
 Yeni doğan veya tespit edilen her bebek, Form 012A’ya kaydedilirken annenin tetanoz aşılanma durumu sorgulanır. Yeni doğanın doğumda tetanoza karşı korunup korunmadığı aşağıdaki tabloda belirtilen aşı dozları arasındaki minimum aralıklara ve yapılan dozdan sonraki koruma sürelerine göre değerlendirilir. Eğer çocuk son geçerli doz tarafından sağlanan korunma döneminde doğduysa, neonatal tetanoza karşı korunmuş olarak işaretlenir. Çocuk doğduğunda korunma dönemi başlamamışsa, bitmişse veya anne hiç aşılanmamış ise doğumda neonatal tetanoza karşı korunmamış olarak işaretlenir.
+
+| Anneye yapılmış dozlar | Koruma süresi |
+| --- | --- |
+| Bir geçerli doz İki geçerli doz (Td1’den en az 4 hafta sonra) | Yok Aşıdan 15 gün sonra başlayan, 3 yıllık koruma |
+| Üç geçerli doz (Td2’den en az 6 ay sonra) Dört geçerli doz (Td3’den en az 1 yıl sonra) Beş geçerli doz (Td4’den en az 1 yıl sonra) | Aşıdan 15 gün sonra başlayan, 5 yıllık korunma Aşıdan 15 gün sonra başlayan, 10 yıllık korunma Doğurganlık çağı boyunca korunma |
 
 Form 012B (5 yaş üzeri aşı kayıt fişi): 012A gibi temel aşı kayıt formudur. Bu formda kurum tarafından uygulanan tüm kamu aşıları siyah kalemle kaydedilir. 5 yaşını geçen kişilere yapılan GBP aşıları bu forma tarih, gün-ay-yıl olarak belirtilerek aşının ve varsa sulandırıcısının lot no’su ile kaydedilmelidir. Bu forma ayrıca, diğer sağlık birimleri ve özel hekimler tarafından yapılan aşılar da tarihleri belirtilerek farklı renkte bir kalemle kaydedilir (Kamu aşıları için mavi, özel aşılar için kırmızı renkli kalem kullanılmalıdır). Form 012A ile birlikte, Form 013 ve Form 013B’nin veri kaynağıdır. Okul çağı ve erişkin dönem aşılamalarının da bu forma kaydedilmesi gerektiği unutulmamalıdır.
 
@@ -604,6 +617,12 @@ BCG aşısı 0 yaşta 0,05 ml, 1 yaş üzerinde 0,1 ml uygulanır.
 
 #### 7. Test yapıldıktan 48–72 saat sonra (2–3 gün) endurasyon çapı şeffaf bir cetvelle milimetrik olarak ölçülür.
 
+| TCT ölçümü* | Değerlendirme |
+| --- | --- |
+| 0–5 mm | Negatif kabul edilir ve aşılanır. |
+| 6–9 mm | Şüpheli kabul edilir, 1 hafta sonra TCT tekrarlanır, yine 6–9 mm bulunursa negatif kabul edilip aşılanır. 10 mm ve üzeri ise pozitif kabul edilir. |
+| 10 mm ve üstü | Pozitif kabul edilir, enfeksiyon olarak değerlendirilir ve ailesi ile birlikte incelenir, hasta bulunmazsa koruyucu tedaviye alınır. |
+
 * Endurasyonun (oluşan sertliğin) çapı ölçülmeli, kızarıklık ölçülmemelidir.
 
 #### c) DaBT-İPA-Hib/DT/Td/Hep B/Hib/ KPA aşısı uygulaması:
@@ -640,7 +659,21 @@ BCG aşısı 0 yaşta 0,05 ml, 1 yaş üzerinde 0,1 ml uygulanır.
 
 GBP için gerekli aşı ve malzemeler sevk dönemlerinde ve düzenli aralıklarla dağıtılırlar. Aşağıda yer alan tabloda aşı depolaması yapılan ve kullanılan merkezlere ne kadar süre için aşı sevkiyatı yapılması gerektiği belirtilmektedir.
 
+| Aşının depolandığı yer | Sevk dönemleri |
+| --- | --- |
+| Bölge deposu ve İl deposu | Üç ayda bir |
+| İlçe deposu / TSM | Ayda bir |
+| Sağlık Ocağı / Aile Hekimi | Ayda bir |
+| Sağlık Evi | Haftada bir |
+
 Kurumların aşı, antiserum ve malzeme ihtiyaçları bu sevk dönemi süreleri dikkate alınarak hesaplanır. Sağlık Bakanlığı merkez deposundan İl Sağlık Müdürlüklerine aşı ve antiserum dağıtımı aşağıda belirtilen dönemler için, ilgili dönemin ilk ayında il deposunda olacak şekilde yapılmaktadır.
+
+| Sevk dönemi | Aylar |
+| --- | --- |
+| 1 | Ocak – Şubat – Mart |
+| 2 | Nisan - Mayıs – Haziran |
+| 3 | Temmuz – Ağustos – Eylül |
+| 4 | Ekim – Kasım – Aralık |
 
 ### 2) AŞI İHTİYACININ BELİRLENMESİ
 
@@ -1418,6 +1451,10 @@ Uygulanacak olan formül = [(Hedef nüfus x doz sayısı) x (1+ fire yüzdesi) x
 
 Fire yüzdesi = 1+ fire yüzdesi; fire payınızın %20 olduğunu düşünüyorsanız bunu 0.20 olarak düşünüp bu basamağa, 1 + 0.20 = 1.20 yazılması gerekir.
 
+| Açılmamış Flakonda Zayi Nedenleri | Açılmış Flakonda Fire Nedenleri |
+| --- | --- |
+| Miadının geçmesi Aşı flakon izlemcisinde “kullanılamaz” durumu Sıcağa maruz kalma Donma Flakonlarda kırılma Hatalı sayım Çalınma vs. | Sahadan dönen sulandırılmış/açılmış aşılar Enjektörlerdeki ölü boşluklar Yanlış sulandırma Flakon kapaklarının ıslanması gibi nedenlerle kontaminasyon şüphesi Uygulama sırasında meydana gelen kazalar Kullanım süresinin dolması Soğuk zincirde kırılma vs. |
+
 Aylık kullanılması planlanan OPA sayısı = Aylık hedef nüfus x Uygulanacak doz sayısı
 
 = 1140 x 2 (rapel doz dahil)
@@ -1558,337 +1595,147 @@ Formu en kısa sürede (24 saati geçmeyecek şekilde) İl ASİE İzlem Sorumlus
 
 *Ciddi ASİE: Ölüm, sakatlık, konjenital anomali ile sonuçlanan veya hastanede yatma gerektiren ASİE dir.
 
- | Doğumda | 1.ayın sonu | 2.ayın sonu | 4.ayın sonu | 6.ayın sonu | 12. ay | 18–24 ay | İlköğretim 1.sınıf | İlköğretim 8.sınıf
-
-Hep B | I | II |  | III | 
-
-BCG |  | I | 
-
-DaBT-İPA-Hib |  | I | II | III |  | R | 
-
-KPA |  | I | II | III | R | 
-
-KKK |  | I |  | R | 
-
-OPA | 
-
-Td | 
-
-Doz sayısı | Uygulama zamanı | Koruma süresi
-
-Td 1 | Gebeliğin 4. ayında - İlk karşılaşmada | Yok
-
-Td 2 | Td 1’den en az 4 hafta sonra | 1-3 yıl
-
-Td 3 | Td 2’den en az 6 ay sonra | 5 yıl
-
-Td 4 | Td 3’den en az 1 yıl sonra ya da bir sonraki gebelikte | 10 yıl
-
-Td 5 | Td 4’den en az 1 yıl sonra ya da bir sonraki gebelikte | Doğurganlık çağı boyunca
-
-Anneye yapılmış dozlar | Koruma süresi
-
-Bir geçerli doz İki geçerli doz (Td1’den en az 4 hafta sonra) | Yok Aşıdan 15 gün sonra başlayan, 3 yıllık koruma
-
-Üç geçerli doz (Td2’den en az 6 ay sonra) Dört geçerli doz (Td3’den en az 1 yıl sonra) Beş geçerli doz (Td4’den en az 1 yıl sonra) | Aşıdan 15 gün sonra başlayan, 5 yıllık korunma Aşıdan 15 gün sonra başlayan, 10 yıllık korunma Doğurganlık çağı boyunca korunma
-
-TCT ölçümü* | Değerlendirme
-
-0–5 mm | Negatif kabul edilir ve aşılanır.
-
-6–9 mm | Şüpheli kabul edilir, 1 hafta sonra TCT tekrarlanır, yine 6–9 mm bulunursa negatif kabul edilip aşılanır. 10 mm ve üzeri ise pozitif kabul edilir.
-
-10 mm ve üstü | Pozitif kabul edilir, enfeksiyon olarak değerlendirilir ve ailesi ile birlikte incelenir, hasta bulunmazsa koruyucu tedaviye alınır.
-
-Aşının depolandığı yer | Sevk dönemleri
-
-Bölge deposu ve İl deposu | Üç ayda bir
-
-İlçe deposu / TSM | Ayda bir
-
-Sağlık Ocağı / Aile Hekimi | Ayda bir
-
-Sağlık Evi | Haftada bir
-
-Sevk dönemi | Aylar
-
-1 | Ocak – Şubat – Mart
-
-2 | Nisan - Mayıs – Haziran
-
-3 | Temmuz – Ağustos – Eylül
-
-4 | Ekim – Kasım – Aralık
-
 Uygulanacak yaklaşık doz sayısı = (Hedef nüfus / 12) x Aşı takvimindeki doz sayısı
 
 Fire yüzdesi = (Açılan flakon doz sayısı – Uygulanan doz sayısı) x 100 Açılan flakon doz sayısı
 
-Açılmamış Flakonda Zayi Nedenleri | Açılmış Flakonda Fire Nedenleri
-
-Miadının geçmesi Aşı flakon izlemcisinde “kullanılamaz” durumu Sıcağa maruz kalma Donma Flakonlarda kırılma Hatalı sayım Çalınma vs. | Sahadan dönen sulandırılmış/açılmış aşılar Enjektörlerdeki ölü boşluklar Yanlış sulandırma Flakon kapaklarının ıslanması gibi nedenlerle kontaminasyon şüphesi Uygulama sırasında meydana gelen kazalar Kullanım süresinin dolması Soğuk zincirde kırılma vs.
-
-T.C. SAĞLIK BAKANLIĞI Form no: 013 | AŞI SONUÇLARI ÇİZELGESİ | YIL:______________
-
-T.C. SAĞLIK BAKANLIĞI Form no: 013 | AŞI SONUÇLARI ÇİZELGESİ | AY:______________
-
-T.C. SAĞLIK BAKANLIĞI Form no: 013 | 
-
-İL:__________________________ |  | TOPLAM NÜFUS:___________________________
-
-İLÇE/TSM:____________________ |  | 0-11 AY BEBEK NÜFUSU:_____________________
-
-KURUM/AH:__________________ |  | AYLIK 0-11 AY BEBEK NÜFUSU:_______________
-
-AŞI | YAŞ GRUPLARINA GÖRE YAPILAN AŞI DOZLARI
-
-AŞI | Uygu-lama | 0 YAŞ (0-11 ay) | 1 YAŞ (12-23 ay) | 2-4 YAŞ (24-59 ay) | 5-9 YAŞ | 10-14 YAŞ | 15 YAŞ ve Üzeri | TOPLAM
-
-DaBT-İPA-Hib AŞISI | I | 
-
-DaBT-İPA-Hib AŞISI | II | 
-
-DaBT-İPA-Hib AŞISI | III | 
-
-DaBT-İPA-Hib AŞISI | R | 
-
-TOPLAM DaBT-İPA-Hib | 
-
-Hib AŞISI | I | 
-
-TOPLAM Hib | 
-
-KONJUGE PNÖMOKOK AŞISI | I | 
-
-KONJUGE PNÖMOKOK AŞISI | II | 
-
-KONJUGE PNÖMOKOK AŞISI | III | 
-
-KONJUGE PNÖMOKOK AŞISI | R | 
-
-TOPLAM KPA | 
-
-ORAL POLİO AŞISI | I | 
-
-ORAL POLİO AŞISI | II | 
-
-ORAL POLİO AŞISI | III | 
-
-ORAL POLİO AŞISI | R | 
-
-TOPLAM POLİO | 
-
-KIZAMIK KIZAMIKÇIK KABAKULAK AŞISI | I | 
-
-KIZAMIK KIZAMIKÇIK KABAKULAK AŞISI | R | 
-
-TOPLAM KKK | 
-
-PPD | 
-
-BCG AŞISI | 
-
-HEPATİT B AŞISI | I | BD | Bİ | T | 
-
-HEPATİT B AŞISI | I | 
-
-HEPATİT B AŞISI | II | 
-
-HEPATİT B AŞISI | III | 
-
-TOPLAM Hep B | 
-
-KIZAMIKÇIK AŞISI | 
-
-Okul Td AŞISI | 
-
-DİĞER Td | 
-
-15-49 YAŞ KADIN Td AŞISI |  | GEBE | GEBE DEĞİL | 
-
-15-49 YAŞ KADIN Td AŞISI | Td1 | 
-
-15-49 YAŞ KADIN Td AŞISI | Td2 | 
-
-15-49 YAŞ KADIN Td AŞISI | Td3 | 
-
-15-49 YAŞ KADIN Td AŞISI | Td4 | 
-
-15-49 YAŞ KADIN Td AŞISI | Td5 | 
-
-TOPLAM Td | 
+| T.C. SAĞLIK BAKANLIĞI Form no: 013 | AŞI SONUÇLARI ÇİZELGESİ | YIL:______________ |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| T.C. SAĞLIK BAKANLIĞI Form no: 013 | AŞI SONUÇLARI ÇİZELGESİ | AY:______________ |  |  |  |  |  |  |
+| T.C. SAĞLIK BAKANLIĞI Form no: 013 |  |  |  |  |  |  |  |  |
+| İL:__________________________ |  | TOPLAM NÜFUS:___________________________ |  |  |  |  |  |  |
+| İLÇE/TSM:____________________ |  | 0-11 AY BEBEK NÜFUSU:_____________________ |  |  |  |  |  |  |
+| KURUM/AH:__________________ |  | AYLIK 0-11 AY BEBEK NÜFUSU:_______________ |  |  |  |  |  |  |
+| AŞI | YAŞ GRUPLARINA GÖRE YAPILAN AŞI DOZLARI |  |  |  |  |  |  |  |
+| AŞI | Uygu-lama | 0 YAŞ (0-11 ay) | 1 YAŞ (12-23 ay) | 2-4 YAŞ (24-59 ay) | 5-9 YAŞ | 10-14 YAŞ | 15 YAŞ ve Üzeri | TOPLAM |
+| DaBT-İPA-Hib AŞISI | I |  |  |  |  |  |  |  |
+| DaBT-İPA-Hib AŞISI | II |  |  |  |  |  |  |  |
+| DaBT-İPA-Hib AŞISI | III |  |  |  |  |  |  |  |
+| DaBT-İPA-Hib AŞISI | R |  |  |  |  |  |  |  |
+| TOPLAM DaBT-İPA-Hib |  |  |  |  |  |  |  |  |
+| Hib AŞISI | I |  |  |  |  |  |  |  |
+| TOPLAM Hib |  |  |  |  |  |  |  |  |
+| KONJUGE PNÖMOKOK AŞISI | I |  |  |  |  |  |  |  |
+| KONJUGE PNÖMOKOK AŞISI | II |  |  |  |  |  |  |  |
+| KONJUGE PNÖMOKOK AŞISI | III |  |  |  |  |  |  |  |
+| KONJUGE PNÖMOKOK AŞISI | R |  |  |  |  |  |  |  |
+| TOPLAM KPA |  |  |  |  |  |  |  |  |
+| ORAL POLİO AŞISI | I |  |  |  |  |  |  |  |
+| ORAL POLİO AŞISI | II |  |  |  |  |  |  |  |
+| ORAL POLİO AŞISI | III |  |  |  |  |  |  |  |
+| ORAL POLİO AŞISI | R |  |  |  |  |  |  |  |
+| TOPLAM POLİO |  |  |  |  |  |  |  |  |
+| KIZAMIK KIZAMIKÇIK KABAKULAK AŞISI | I |  |  |  |  |  |  |  |
+| KIZAMIK KIZAMIKÇIK KABAKULAK AŞISI | R |  |  |  |  |  |  |  |
+| TOPLAM KKK |  |  |  |  |  |  |  |  |
+| PPD |  |  |  |  |  |  |  |  |
+| BCG AŞISI |  |  |  |  |  |  |  |  |
+| HEPATİT B AŞISI | I | BD | Bİ | T |  |  |  |  |
+| HEPATİT B AŞISI | I |  |  |  |  |  |  |  |
+| HEPATİT B AŞISI | II |  |  |  |  |  |  |  |
+| HEPATİT B AŞISI | III |  |  |  |  |  |  |  |
+| TOPLAM Hep B |  |  |  |  |  |  |  |  |
+| KIZAMIKÇIK AŞISI |  |  |  |  |  |  |  |  |
+| Okul Td AŞISI |  |  |  |  |  |  |  |  |
+| DİĞER Td |  |  |  |  |  |  |  |  |
+| 15-49 YAŞ KADIN Td AŞISI |  | GEBE | GEBE DEĞİL |  |  |  |  |  |
+| 15-49 YAŞ KADIN Td AŞISI | Td1 |  |  |  |  |  |  |  |
+| 15-49 YAŞ KADIN Td AŞISI | Td2 |  |  |  |  |  |  |  |
+| 15-49 YAŞ KADIN Td AŞISI | Td3 |  |  |  |  |  |  |  |
+| 15-49 YAŞ KADIN Td AŞISI | Td4 |  |  |  |  |  |  |  |
+| 15-49 YAŞ KADIN Td AŞISI | Td5 |  |  |  |  |  |  |  |
+| TOPLAM Td |  |  |  |  |  |  |  |  |
 
 AŞILARIN ve SERUMLARIN TÜKETİM, STOK VE İHTİYAÇ DURUMU
 
- | CİNSİ | Ampul yada Şişedeki Doz Sayısı | Geçen Dönemden Devreden | Bu Dönem İçinde Gelen | Bu Dönem İçinde Açılan | Bu Dönem İçinde İmha Edilen | Fire Yüzdesi | Gelecek Döneme Devreden (G) | İhtiyaç
-
- | CİNSİ | (A) | (B) | (C) | (D) | (E) | (F) | S.O. | S.M. | (H)
-
-AŞILAR | DaBT-İPA-Hib | 
-
-AŞILAR | Hib | 
-
-AŞILAR | KPA | 
-
-AŞILAR | OPA | 
-
-AŞILAR | OPA | 
-
-AŞILAR | KKK | 
-
-AŞILAR | Kızamık | 
-
-AŞILAR | Kızamık | 
-
-AŞILAR | Kızamıkçık | 
-
-AŞILAR | Kızamıkçık | 
-
-AŞILAR | PPD | 
-
-AŞILAR | PPD | 
-
-AŞILAR | BCG | 
-
-AŞILAR | BCG | 
-
-AŞILAR | Hepatit B | 
-
-AŞILAR | Hepatit B | 
-
-AŞILAR | DT | 
-
-AŞILAR | DT | 
-
-AŞILAR | Td | 
-
-AŞILAR | Td | 
-
-AŞILAR | Kuduz | 
-
-SERUMLAR | Tetanoz | 
-
-SERUMLAR | Difteri | 
-
-SERUMLAR | Kuduz | 
-
-SERUMLAR | Akrep | 
-
-SERUMLAR | Yılan | 
-
- | 1 cc enj. | 
-
- | 2 cc enj. | 
-
- | Enjektör Atık Kutusu | 
-
- | (A) sütununa eldeki aşıların her bir ampul ya da şişesinde kaç doz olduğu yazılacaktır. | 
-
- | (B),(C),(D),(E),(G) ve (H) sütunları doz sayısı değil, ampul ya da şişe sayısı olarak doldurulacakır. | 
-
- | (E) sütununa yalnızca soğuk zincirde kırılma, miyadın dolması vb. nedenlerle imha edilen ampul ya da şişe sayısı yazılacaktır. | 
-
- | (D),(F) ve (H) sütunları aşağıdaki şekilde hesaplanarak doldurulacaktır. | 
-
- | - Dönem içinde açılan (D) = (B) +(C) – (E)+(G) | 
-
- | (D) x (A) - Uygulanan doz sayısı | 
-
- | - Fire yüzdesi (F) =-------------------------------------------------------------x100 | 
-
- | (D) x (A) | 
-
- | (Aylık 0-11 ay hedef nüfus x doz sayısı ) x ( 1+ fire yüzdesi) x rezerv stok (1.25) | 
-
- | - GBP Aşı İhtiyacı (H) =---------------------------------------------------------------------------------------------------------------------- - Depo mevcudu(G)
-
- | 1/10/20 (A) | 
-
- | - GBP Dışı İhtiyaç (H) = (D) x 1.25 – G | 
-
- | Formu Düzenleyen/Tarih |  | Onaylayan/Tarih | 
-
-T.C. | 
-
-SAĞLIK BAKANLIĞI | 
-
-Form no: 013/B | 
-
- | ÖZEL HEKİM AŞI UYGULAMALARI | 
-
-İL:__________________________ | 
-
-İLÇE/TSM:____________________ |  | YIL:______________
-
-KURUM/AH:__________________ |  | AY:______________
-
- | YAŞ GRUPLARINA GÖRE YAPILAN AŞI DOZLARI
-
- | Uygu-lama | 0 YAŞ (0-11 ay) | 1 YAŞ (12-23 ay) | 2-4 YAŞ (24-59 ay) | 5-9 YAŞ | 10-14 YAŞ | 15 YAŞ ve Üzeri | TOPLAM
-
-DaBT-İPA-Hib AŞISI | I | 
-
-DaBT-İPA-Hib AŞISI | II | 
-
-DaBT-İPA-Hib AŞISI | III | 
-
-DaBT-İPA-Hib AŞISI | R | 
-
-TOPLAM | 
-
-KONJUGE PNÖMOKOK AŞISI | I | 
-
-KONJUGE PNÖMOKOK AŞISI | II | 
-
-KONJUGE PNÖMOKOK AŞISI | III | 
-
-KONJUGE PNÖMOKOK AŞISI | R | 
-
-TOPLAM | 
-
-KIZAMIK KIZAMIKCIK KABAKULAK AŞISI | I | 
-
-KIZAMIK KIZAMIKCIK KABAKULAK AŞISI | R | 
-
-TOPLAM | 
-
-HEPATİT B AŞISI | I | 
-
-HEPATİT B AŞISI | II | 
-
-HEPATİT B AŞISI | III | 
-
-TOPLAM | 
-
-Formu Düzenleyen/Tarih |  | Onaylayan/Tarih | 
-
-Adı Soyadı: | 
-
-T.C. Kimlik no: | 
-
-Doğum tarihi: | 
-
-Baba adı: | 
-
-Anne adı: | 
-
-**Adres:** Tlf no: | 
-
-Bağlı olduğu Sağlık Ocağı/Aile Hekimi: | 
-
-AŞI | DOZU | TARİH | AŞI LOT NO | SULANDIRICI LOT NO
-
-**T.C. SAĞLIK BAKANLIĞI** ERİŞKİN DİFTERİ-TETANOZ AŞI KARTI | 
-
-ADI |  | SOYADI | 
-
-BABA ADI |  | Evli ise önceki soyadı | 
-
-DOĞUM TARİHİ | GÜN/AY/YIL | TC Kimlik no:
-
-ADRES | 
-
-SAĞLIK KURUMU |  | 012 B sıra no
+|  | CİNSİ | Ampul yada Şişedeki Doz Sayısı | Geçen Dönemden Devreden | Bu Dönem İçinde Gelen | Bu Dönem İçinde Açılan | Bu Dönem İçinde İmha Edilen | Fire Yüzdesi | Gelecek Döneme Devreden (G) | İhtiyaç |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | CİNSİ | (A) | (B) | (C) | (D) | (E) | (F) | S.O. | S.M. | (H) |
+| AŞILAR | DaBT-İPA-Hib |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Hib |  |  |  |  |  |  |  |  |  |
+| AŞILAR | KPA |  |  |  |  |  |  |  |  |  |
+| AŞILAR | OPA |  |  |  |  |  |  |  |  |  |
+| AŞILAR | OPA |  |  |  |  |  |  |  |  |  |
+| AŞILAR | KKK |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Kızamık |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Kızamık |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Kızamıkçık |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Kızamıkçık |  |  |  |  |  |  |  |  |  |
+| AŞILAR | PPD |  |  |  |  |  |  |  |  |  |
+| AŞILAR | PPD |  |  |  |  |  |  |  |  |  |
+| AŞILAR | BCG |  |  |  |  |  |  |  |  |  |
+| AŞILAR | BCG |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Hepatit B |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Hepatit B |  |  |  |  |  |  |  |  |  |
+| AŞILAR | DT |  |  |  |  |  |  |  |  |  |
+| AŞILAR | DT |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Td |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Td |  |  |  |  |  |  |  |  |  |
+| AŞILAR | Kuduz |  |  |  |  |  |  |  |  |  |
+| SERUMLAR | Tetanoz |  |  |  |  |  |  |  |  |  |
+| SERUMLAR | Difteri |  |  |  |  |  |  |  |  |  |
+| SERUMLAR | Kuduz |  |  |  |  |  |  |  |  |  |
+| SERUMLAR | Akrep |  |  |  |  |  |  |  |  |  |
+| SERUMLAR | Yılan |  |  |  |  |  |  |  |  |  |
+|  | 1 cc enj. |  |  |  |  |  |  |  |  |  |
+|  | 2 cc enj. |  |  |  |  |  |  |  |  |  |
+|  | Enjektör Atık Kutusu |  |  |  |  |  |  |  |  |  |
+|  | (A) sütununa eldeki aşıların her bir ampul ya da şişesinde kaç doz olduğu yazılacaktır. |  |  |  |  |  |  |  |  |  |
+|  | (B),(C),(D),(E),(G) ve (H) sütunları doz sayısı değil, ampul ya da şişe sayısı olarak doldurulacakır. |  |  |  |  |  |  |  |  |  |
+|  | (E) sütununa yalnızca soğuk zincirde kırılma, miyadın dolması vb. nedenlerle imha edilen ampul ya da şişe sayısı yazılacaktır. |  |  |  |  |  |  |  |  |  |
+|  | (D),(F) ve (H) sütunları aşağıdaki şekilde hesaplanarak doldurulacaktır. |  |  |  |  |  |  |  |  |  |
+|  | - Dönem içinde açılan (D) = (B) +(C) – (E)+(G) |  |  |  |  |  |  |  |  |  |
+|  | (D) x (A) - Uygulanan doz sayısı |  |  |  |  |  |  |  |  |  |
+|  | - Fire yüzdesi (F) =-------------------------------------------------------------x100 |  |  |  |  |  |  |  |  |  |
+|  | (D) x (A) |  |  |  |  |  |  |  |  |  |
+|  | (Aylık 0-11 ay hedef nüfus x doz sayısı ) x ( 1+ fire yüzdesi) x rezerv stok (1.25) |  |  |  |  |  |  |  |  |  |
+|  | - GBP Aşı İhtiyacı (H) =---------------------------------------------------------------------------------------------------------------------- - Depo mevcudu(G) |  |  |  |  |  |  |  |  |  |
+|  | 1/10/20 (A) |  |  |  |  |  |  |  |  |  |
+|  | - GBP Dışı İhtiyaç (H) = (D) x 1.25 – G |  |  |  |  |  |  |  |  |  |
+|  | Formu Düzenleyen/Tarih |  | Onaylayan/Tarih |  |  |  |  |  |  |  |
+| T.C. |  |  |  |  |  |  |  |  |  |  |
+| SAĞLIK BAKANLIĞI |  |  |  |  |  |  |  |  |  |  |
+| Form no: 013/B |  |  |  |  |  |  |  |  |  |  |
+|  | ÖZEL HEKİM AŞI UYGULAMALARI |  |  |  |  |  |  |  |  |  |
+| İL:__________________________ |  |  |  |  |  |  |  |  |  |  |
+| İLÇE/TSM:____________________ |  | YIL:______________ |  |  |  |  |  |  |  |  |
+| KURUM/AH:__________________ |  | AY:______________ |  |  |  |  |  |  |  |  |
+|  | YAŞ GRUPLARINA GÖRE YAPILAN AŞI DOZLARI |  |  |  |  |  |  |  |  |  |
+|  | Uygu-lama | 0 YAŞ (0-11 ay) | 1 YAŞ (12-23 ay) | 2-4 YAŞ (24-59 ay) | 5-9 YAŞ | 10-14 YAŞ | 15 YAŞ ve Üzeri | TOPLAM |  |  |
+| DaBT-İPA-Hib AŞISI | I |  |  |  |  |  |  |  |  |  |
+| DaBT-İPA-Hib AŞISI | II |  |  |  |  |  |  |  |  |  |
+| DaBT-İPA-Hib AŞISI | III |  |  |  |  |  |  |  |  |  |
+| DaBT-İPA-Hib AŞISI | R |  |  |  |  |  |  |  |  |  |
+| TOPLAM |  |  |  |  |  |  |  |  |  |  |
+| KONJUGE PNÖMOKOK AŞISI | I |  |  |  |  |  |  |  |  |  |
+| KONJUGE PNÖMOKOK AŞISI | II |  |  |  |  |  |  |  |  |  |
+| KONJUGE PNÖMOKOK AŞISI | III |  |  |  |  |  |  |  |  |  |
+| KONJUGE PNÖMOKOK AŞISI | R |  |  |  |  |  |  |  |  |  |
+| TOPLAM |  |  |  |  |  |  |  |  |  |  |
+| KIZAMIK KIZAMIKCIK KABAKULAK AŞISI | I |  |  |  |  |  |  |  |  |  |
+| KIZAMIK KIZAMIKCIK KABAKULAK AŞISI | R |  |  |  |  |  |  |  |  |  |
+| TOPLAM |  |  |  |  |  |  |  |  |  |  |
+| HEPATİT B AŞISI | I |  |  |  |  |  |  |  |  |  |
+| HEPATİT B AŞISI | II |  |  |  |  |  |  |  |  |  |
+| HEPATİT B AŞISI | III |  |  |  |  |  |  |  |  |  |
+| TOPLAM |  |  |  |  |  |  |  |  |  |  |
+| Formu Düzenleyen/Tarih |  | Onaylayan/Tarih |  |  |  |  |  |  |  |  |
+| Adı Soyadı: |  |  |  |  |  |  |  |  |  |  |
+| T.C. Kimlik no: |  |  |  |  |  |  |  |  |  |  |
+| Doğum tarihi: |  |  |  |  |  |  |  |  |  |  |
+| Baba adı: |  |  |  |  |  |  |  |  |  |  |
+| Anne adı: |  |  |  |  |  |  |  |  |  |  |
+| **Adres:** Tlf no: |  |  |  |  |  |  |  |  |  |  |
+| Bağlı olduğu Sağlık Ocağı/Aile Hekimi: |  |  |  |  |  |  |  |  |  |  |
+| AŞI | DOZU | TARİH | AŞI LOT NO | SULANDIRICI LOT NO |  |  |  |  |  |  |
+
+| **T.C. SAĞLIK BAKANLIĞI** ERİŞKİN DİFTERİ-TETANOZ AŞI KARTI |  |  |  |
+| --- | --- | --- | --- |
+| ADI |  | SOYADI |  |
+| BABA ADI |  | Evli ise önceki soyadı |  |
+| DOĞUM TARİHİ | GÜN/AY/YIL | TC Kimlik no: |  |
+| ADRES |  |  |  |
+| SAĞLIK KURUMU |  | 012 B sıra no |  |
 
 *Lütfen bu kartı saklayınız her gelişinizde getiriniz.
 
@@ -1896,103 +1743,76 @@ AŞILI KADIN SAĞLIKLI BEBEK
 
 ERİŞKİN DİFTERİ-TETANOZ AŞILAMA TAKVİMİ
 
-Doz | Zamanı | Uygulama tarihi | Tekrar geleceği tarih
-
-Td 1 | İlk karşılaşma | ...../...../.......
-
-Td 2 | Td 1’den en az 4 hafta sonra | ...../...../.......
-
-Td 3 | Td 2’ den en az 6 ay sonra | ...../...../.......
-
-Td 4 | Td 3’ten en az 1 yıl sonra | ...../...../...... | ...../...../.......
-
-Td 5 | Td 4’ten en az 1 yıl sonra | ...../...../.......
+| Doz | Zamanı | Uygulama tarihi | Tekrar geleceği tarih |
+| --- | --- | --- | --- |
+| Td 1 | İlk karşılaşma | ...../...../....... |  |
+| Td 2 | Td 1’den en az 4 hafta sonra | ...../...../....... |  |
+| Td 3 | Td 2’ den en az 6 ay sonra | ...../...../....... |  |
+| Td 4 | Td 3’ten en az 1 yıl sonra | ...../...../...... | ...../...../....... |
+| Td 5 | Td 4’ten en az 1 yıl sonra | ...../...../....... |  |
 
 AŞI HASTALIKLARDAN KORUR
 
-T.C. SAĞLIK BAKANLIĞI OKUL AŞI KARTI | 
-
-ADI |  | SOYADI | 
-
-BABA ADI |  | ANNE ADI | 
-
-DOĞUM TARİHİ | GÜN/AY/YIL | TC Kimlik no:
-
-ADRES | 
-
-SAĞLIK KURUMU |  | 012 B sıra no
+| T.C. SAĞLIK BAKANLIĞI OKUL AŞI KARTI |  |  |  |
+| --- | --- | --- | --- |
+| ADI |  | SOYADI |  |
+| BABA ADI |  | ANNE ADI |  |
+| DOĞUM TARİHİ | GÜN/AY/YIL | TC Kimlik no: |  |
+| ADRES |  |  |  |
+| SAĞLIK KURUMU |  | 012 B sıra no |  |
 
 Lütfen bu kartı saklayınız, aşılama günlerinde yanınızda bulundurunuz.
 
 AKILLI ÇOCUK, AŞILI ÇOCUK
 
-İlköğretim 1. sınıf | İlköğretim 8. sınıf
-
-Yapılan aşı | Uygulama tarihi | Yapılan aşı | Uygulama tarihi
-
-Tetanoz difteri(Td) | ...../...../....... | Tetanoz difteri | ...../...../.......
-
-Polio (OPA) | ...../...../....... | 
-
-KKK (Kızamık, Kızamıkçık, Kabakulak) | ...../...../....... | 
-
-İl: | Bildirimi Yapan Sağlık Kuruluşunun Adı:
+| İlköğretim 1. sınıf | İlköğretim 8. sınıf |  |  |
+| --- | --- | --- | --- |
+| Yapılan aşı | Uygulama tarihi | Yapılan aşı | Uygulama tarihi |
+| Tetanoz difteri(Td) | ...../...../....... | Tetanoz difteri | ...../...../....... |
+| Polio (OPA) | ...../...../....... |  |  |
+| KKK (Kızamık, Kızamıkçık, Kabakulak) | ...../...../....... |  |  |
+| İl: | Bildirimi Yapan Sağlık Kuruluşunun Adı: |  |  |
 
 Vakanın
 
-Adı-Soyadı: | Adresi:
-
-Doğum Tarihi: Cinsiyeti: ⁪□ E □ K Baba Adı: TC Kimlik No: | Adresi:
-
-Doğum Tarihi: Cinsiyeti: ⁪□ E □ K Baba Adı: TC Kimlik No: | Tel:
-
-Bilinen bir kronik hastalığı var mı? □Hayır ⁪ □Evet (yazınız).................... | Aşılama sırasında bir hastalığı var mıydı? □Hayır ⁪□Evet (yazınız).................... | Aşılama sırasında kullandığı ilaç var mıydı? □Hayır ⁪ □Evet (yazınız).................... | Allerji öyküsü var mı? □Hayır ⁪ □Evet (yazınız)....................
+| Adı-Soyadı: | Adresi: |  |  |
+| --- | --- | --- | --- |
+| Doğum Tarihi: Cinsiyeti: ⁪□ E □ K Baba Adı: TC Kimlik No: | Adresi: |  |  |
+| Doğum Tarihi: Cinsiyeti: ⁪□ E □ K Baba Adı: TC Kimlik No: | Tel: |  |  |
+| Bilinen bir kronik hastalığı var mı? □Hayır ⁪ □Evet (yazınız).................... | Aşılama sırasında bir hastalığı var mıydı? □Hayır ⁪□Evet (yazınız).................... | Aşılama sırasında kullandığı ilaç var mıydı? □Hayır ⁪ □Evet (yazınız).................... | Allerji öyküsü var mı? □Hayır ⁪ □Evet (yazınız).................... |
 
 Daha Önce Aşılanma Hikayesi (Form 012A/B kaydı eklenebilir)
 
-DBT I | ../../…. | OPA I | ../../…. | Hep B I | ../../…. | Hib I | ../../…. | Td 1 | ../../….
-
-DBT II | ../../…. | OPA II | ../../…. | Hep B II | ../../…. | Hib II | ../../…. | Td 2 | ../../….
-
-DBT III | ../../…. | OPA III | ../../…. | Hep B III | ../../…. | Hib III | ../../…. | Td 3 | ../../….
-
-DBT R | ../../…. | OPA R | ../../…. | BCG | ../../…. | Hib R | ../../…. | Td 4 | ../../….
-
- | OPA Okul | ../../…. |  | Td 5 | ../../….
-
-DaBT-İPA-Hib I | ../../… | KPA I | ../../… | KKK I | ../../…. | Diğer | ../../….
-
-DaBT-İPA-Hib II | ./../…. | KPA II | ./../…. | KKK II | ../../…. | ........ | ../../….
-
-DaBT-İPA-Hib III | ../../…. | KPA III | ../../…. | Kızamık | ../../…. | ........ | ../../….
-
-DaBT-İPA-Hib R | ../../…. | KPA R | ../../…. | Kızamıkçık | ../../…. | ........ | ../../….
+| DBT I | ../../…. | OPA I | ../../…. | Hep B I | ../../…. | Hib I | ../../…. | Td 1 | ../../…. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DBT II | ../../…. | OPA II | ../../…. | Hep B II | ../../…. | Hib II | ../../…. | Td 2 | ../../…. |
+| DBT III | ../../…. | OPA III | ../../…. | Hep B III | ../../…. | Hib III | ../../…. | Td 3 | ../../…. |
+| DBT R | ../../…. | OPA R | ../../…. | BCG | ../../…. | Hib R | ../../…. | Td 4 | ../../…. |
+|  | OPA Okul | ../../…. |  | Td 5 | ../../…. |  |  |  |  |
+| DaBT-İPA-Hib I | ../../… | KPA I | ../../… | KKK I | ../../…. | Diğer | ../../…. |  |  |
+| DaBT-İPA-Hib II | ./../…. | KPA II | ./../…. | KKK II | ../../…. | ........ | ../../…. |  |  |
+| DaBT-İPA-Hib III | ../../…. | KPA III | ../../…. | Kızamık | ../../…. | ........ | ../../…. |  |  |
+| DaBT-İPA-Hib R | ../../…. | KPA R | ../../…. | Kızamıkçık | ../../…. | ........ | ../../…. |  |  |
 
 Daha önce uygulanan aşılardan sonra benzer bir tablo görülmüş mü? ⁪ □ Hayır □ Evet (Açıklayınız)..................
 
 ASİE Görüldüğü Dönemde Yapılan Aşı(lar)
 
-Adı- kaçıncı doz olduğu (örn.DaBT-İPA-Hib I) | Aşının Uygulanma Şekli | Uygulanan Vücut Bölgesi | Üretici Firma | Lot Numarası* | Son Kullanma Tarihi*
-
-1. | 
-
-2. | 
-
-3. | 
-
-4. | 
-
-5. | 
+| Adı- kaçıncı doz olduğu (örn.DaBT-İPA-Hib I) | Aşının Uygulanma Şekli | Uygulanan Vücut Bölgesi | Üretici Firma | Lot Numarası* | Son Kullanma Tarihi* |
+| --- | --- | --- | --- | --- | --- |
+| 1. |  |  |  |  |  |
+| 2. |  |  |  |  |  |
+| 3. |  |  |  |  |  |
+| 4. |  |  |  |  |  |
+| 5. |  |  |  |  |  |
 
 Kullanılan Sulandırıcı(lar)
 
-Adı | Üretici Firma | Lot Numarası* | Son Kullanma Tarihi*
-
-1. | 
-
-2. | 
-
-3. | 
+| Adı | Üretici Firma | Lot Numarası* | Son Kullanma Tarihi* |
+| --- | --- | --- | --- |
+| 1. |  |  |  |
+| 2. |  |  |  |
+| 3. |  |  |  |
 
 * Formu dolduran hekim aşının uygulandığı birimde çalışmıyorsa, İl ASİE İzlem sorumlusu tarafından ilgili sağlık ocağı /sağlık kuruluşu ile görüşülerek doldurulacaktır.
 
@@ -2004,17 +1824,13 @@ Aşı(lar)nın uygulandığı yer (isim ve yer belirtiniz):
 
 Aşı Sonrası İstenmeyen Etki
 
-□ Bakteriyel abse | □ Lenfadenit | □ Ensefalopati / Ensefalit
-
-□ Steril abse | □ Yaygın BCG Enfeksiyonu | □ Konvülsiyon
-
-□ Ciddi lokal reaksiyon | □ BCG Osteiti | □ Akut paralizi
-
-□ Akut allerjik reaksiyon | □ Sepsis | □ Trombositopeni
-
-□ Anafilaksi | □ Toksik Şok Sendromu | □ Hipotonik-Hiporesponsif Atak
-
-□ Artrit | □ Aseptik Menenjit | □ Apne -Bradikardi
+| □ Bakteriyel abse | □ Lenfadenit | □ Ensefalopati / Ensefalit |
+| --- | --- | --- |
+| □ Steril abse | □ Yaygın BCG Enfeksiyonu | □ Konvülsiyon |
+| □ Ciddi lokal reaksiyon | □ BCG Osteiti | □ Akut paralizi |
+| □ Akut allerjik reaksiyon | □ Sepsis | □ Trombositopeni |
+| □ Anafilaksi | □ Toksik Şok Sendromu | □ Hipotonik-Hiporesponsif Atak |
+| □ Artrit | □ Aseptik Menenjit | □ Apne -Bradikardi |
 
 □ Diğer (.....................................)
 
@@ -2024,21 +1840,18 @@ Yukarıda işaretlenen İstenmeyen Etkiyi(leri) tarif ediniz (klinik gidiş, var
 
 İstenmeyen Etki Nedeniyle
 
-Vaka sevk edildi mi? | □ Hayır □ Evet (hangi sağlık kuruluşuna?) …………......................
-
-Vakaya tedavi gerekti mi? | □ Hayır □ Evet (nerede?) ……………………………......................
-
-Vaka hastaneye yattı mı? | □ Hayır □ Evet (hangi hastane?) ……………………......................
-
-Vaka öldü mü? | □ Hayır □ Evet (nerede?) ………………………………..................
+| Vaka sevk edildi mi? | □ Hayır □ Evet (hangi sağlık kuruluşuna?) …………...................... |
+| --- | --- |
+| Vakaya tedavi gerekti mi? | □ Hayır □ Evet (nerede?) ……………………………...................... |
+| Vaka hastaneye yattı mı? | □ Hayır □ Evet (hangi hastane?) ……………………...................... |
+| Vaka öldü mü? | □ Hayır □ Evet (nerede?) ……………………………….................. |
 
 Formu Düzenleyen Kişinin:
 
-Adı- Soyadı, Ünvanı: | Çalıştığı yer:
-
-Adresi: | Tel: | e-posta:
-
-Tarih: | İmza:
+| Adı- Soyadı, Ünvanı: | Çalıştığı yer: |  |
+| --- | --- | --- |
+| Adresi: | Tel: | e-posta: |
+| Tarih: | İmza: |  |
 
 İl Sağlık Müdürlüğü (İl ASİE İzlem Sistemi Sorumlusu) Tarafından Doldurulacaktır
 
@@ -2046,13 +1859,11 @@ Bildirimin ulaştığı tarih: __/__/____ İncelemenin başlatıldığı tarih: 
 
 Aşı/ Sulandırıcı/Enjektör Numunesi alındı ise
 
-Numunenin tipi | Alınış tarihi | Gönderilme tarihi | Gönderildiği yer | Sonuç
-
-1. | 
-
-2. | 
-
-3. | 
+| Numunenin tipi | Alınış tarihi | Gönderilme tarihi | Gönderildiği yer | Sonuç |
+| --- | --- | --- | --- | --- |
+| 1. |  |  |  |  |
+| 2. |  |  |  |  |
+| 3. |  |  |  |  |
 
 İnceleme sonucu konulan tanı:
 
@@ -2070,58 +1881,41 @@ Herhangi bir önlem alındı mı? □ Hayır □Evet (açıklayınız)..........
 
 ASİE’nin tekrarlamaması için yapılanlar:
 
-İl ASİE İzlem Sorumlusunun: | 
-
-Adı- Soyadı, Ünvanı: | Çalıştığı yer:
-
-Adresi: | Tel: | e-posta:
-
-Tarih: | İmza:
+| İl ASİE İzlem Sorumlusunun: |  |  |
+| --- | --- | --- |
+| Adı- Soyadı, Ünvanı: | Çalıştığı yer: |  |
+| Adresi: | Tel: | e-posta: |
+| Tarih: | İmza: |  |
 
 1. Lokal reaksiyonlar
 
-Aşıdan sonra 48 saat içinde ortaya çıkan | Ciddi Lokal Reaksiyon
-
-Aşıdan sonra 2-7 gün içinde ortaya çıkan | Enjeksiyon yerinde abse (Bakteriyel /steril)
-
-Aşıdan sonra 2 hafta – 6 ay içinde ortaya çıkan | Lenfadenit
+| Aşıdan sonra 48 saat içinde ortaya çıkan | Ciddi Lokal Reaksiyon |
+| --- | --- |
+| Aşıdan sonra 2-7 gün içinde ortaya çıkan | Enjeksiyon yerinde abse (Bakteriyel /steril) |
+| Aşıdan sonra 2 hafta – 6 ay içinde ortaya çıkan | Lenfadenit |
 
 2. Sinir Sistemi ile İlgili İstenmeyen Etkiler
 
-OPA’dan sonra 4-30 gün (temaslılarda 4 -75 gün) içinde ortaya çıkan | Paralitik poliomiyelit
-
-Kızamık bileşenli aşıları takiben 5-12 gün, DaBT-İPA-Hib, KPA aşılarını takiben 72 saat içinde ortaya çıkan | Konvülsiyon
-
-Kızamık bileşenli aşıları takiben 5-15 gün içinde ortaya çıkan | Ensefalopati/Ensefalit
-
-DaBT-İPA-Hib aşısını takiben 7 gün içinde ortaya çıkan | Ensefalopati
-
-Tetanoz bileşenli aşılardan sonra 2-28 gün içinde ortaya çıkan | Brakial nevrit
-
-Aşıdan sonra 0-6 hafta içinde ortaya çıkan | Diğer paraliziler
-
-Kabakulak bileşenli aşıları takiben 15-21 gün içinde ortaya çıkan | Aseptik menenjit
+| OPA’dan sonra 4-30 gün (temaslılarda 4 -75 gün) içinde ortaya çıkan | Paralitik poliomiyelit |
+| --- | --- |
+| Kızamık bileşenli aşıları takiben 5-12 gün, DaBT-İPA-Hib, KPA aşılarını takiben 72 saat içinde ortaya çıkan | Konvülsiyon |
+| Kızamık bileşenli aşıları takiben 5-15 gün içinde ortaya çıkan | Ensefalopati/Ensefalit |
+| DaBT-İPA-Hib aşısını takiben 7 gün içinde ortaya çıkan | Ensefalopati |
+| Tetanoz bileşenli aşılardan sonra 2-28 gün içinde ortaya çıkan | Brakial nevrit |
+| Aşıdan sonra 0-6 hafta içinde ortaya çıkan | Diğer paraliziler |
+| Kabakulak bileşenli aşıları takiben 15-21 gün içinde ortaya çıkan | Aseptik menenjit |
 
 3. Diğer İstenmeyen Etkiler
 
-Aşıdan sonra 1 saat içinde ortaya çıkan | Anafilaksi
-
-Aşıdan sonra birkaç saat içinde ortaya çıkan | Toksik Şok Sendromu
-
-Aşıdan sonra 4 saat içinde ortaya çıkan (deri bulguları daha geç görülebilir) | Akut allerjik reaksiyonlar
-
-DaBT-İPA-Hib aşısından sonra 24 saat içinde ortaya çıkan | Hipotonik-hiporesponsif atak
-
-Aşıdan sonra 1 hafta içinde ortaya çıkan | Sepsis
-
-Kızamıkçık bileşenli aşılarlardan sonra 1-3 hafta içinde ortaya çıkan | Artrit
-
-Kızamık bileşenli aşılardan sonra 1-6 hafta içinde ortaya çıkan | Trombositopeni
-
-DaBT-İPA-Hib aşısından sonra 24 saat içinde ortaya çıkan | Apne - Bradikardi
-
-BCG aşısından sonra 1 – 12 ay içinde ortaya çıkan | Yaygın BCG enfeksiyonu
-
-BCG aşısından sonra 1-12 ay içinde ortaya çıkan | BCG Osteiti
-
-Zaman sınırı olmaksızın | Yukarıda sunulan hastalıklar haricinde sağlık personeli ya da toplum tarafından aşılamayla ilgisi olduğu düşünülen; a) *Ciddi olgular b) Kümelenme, c) Toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar ASİE kapsamında incelenmelidir.
+| Aşıdan sonra 1 saat içinde ortaya çıkan | Anafilaksi |
+| --- | --- |
+| Aşıdan sonra birkaç saat içinde ortaya çıkan | Toksik Şok Sendromu |
+| Aşıdan sonra 4 saat içinde ortaya çıkan (deri bulguları daha geç görülebilir) | Akut allerjik reaksiyonlar |
+| DaBT-İPA-Hib aşısından sonra 24 saat içinde ortaya çıkan | Hipotonik-hiporesponsif atak |
+| Aşıdan sonra 1 hafta içinde ortaya çıkan | Sepsis |
+| Kızamıkçık bileşenli aşılarlardan sonra 1-3 hafta içinde ortaya çıkan | Artrit |
+| Kızamık bileşenli aşılardan sonra 1-6 hafta içinde ortaya çıkan | Trombositopeni |
+| DaBT-İPA-Hib aşısından sonra 24 saat içinde ortaya çıkan | Apne - Bradikardi |
+| BCG aşısından sonra 1 – 12 ay içinde ortaya çıkan | Yaygın BCG enfeksiyonu |
+| BCG aşısından sonra 1-12 ay içinde ortaya çıkan | BCG Osteiti |
+| Zaman sınırı olmaksızın | Yukarıda sunulan hastalıklar haricinde sağlık personeli ya da toplum tarafından aşılamayla ilgisi olduğu düşünülen; a) *Ciddi olgular b) Kümelenme, c) Toplumda ciddi kaygı ya da olumsuz propaganda nedeni olan durumlar ASİE kapsamında incelenmelidir. |

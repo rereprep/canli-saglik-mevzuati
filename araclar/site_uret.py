@@ -575,7 +575,7 @@ def ciftleri_birlestir(belgeler):
                         k1 = {w[:6] for w in baslik_ozu(b).split() if len(w) > 2}
                         k2 = {w[:6] for w in baslik_ozu(bas).split() if len(w) > 2}
                         ortusme = len(k1 & k2) / max(1, min(len(k1), len(k2)))
-                        uygun = metin_benzer(b, bas) or ortusme >= 0.8
+                        uygun = metin_benzer(b, bas) or ortusme >= 0.9
                     else:
                         uygun = difflib.SequenceMatcher(None, baslik_ozu(b), baslik_ozu(bas)).ratio() >= 0.6
                 else:

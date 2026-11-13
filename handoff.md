@@ -254,3 +254,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 7 genelgenin luna metni Apple Vision OCR ile kelime bazında karşılaştırıldı (calisma/sg/NN/j): farklar yalnız üst/alt bilgi → güvenilir.
 - sbg-10714 (Döner Sermaye İhaleleri 2008/42): 48 sayfanın yinelenen üst bilgileri ve sayfa numaraları temizlendi, sayfa sonunda bölünen paragraflar birleştirildi, madde imleri düzeltildi. EK-2 listesi hâlâ düz metin (tablo değil).
 - sbg-11137 (GBP 2009): mevcut metinde tablolar eksik; Bakanlık .doc eki (calisma/sg/11/e00.doc.txt) tabloları düz metin veriyor → henüz uygulanmadı.
+
+## 2026-11-14 (4)
+- GBP 2009/17: sitede kitap taraması (sb-…2009-17) gösteriliyordu; Bakanlık .doc kaynaklı temiz sürüm (sbg-11137) elle-duzeltme tercih:true ile ana kayıt yapıldı, boru paragrafları gerçek tabloya çevrildi (25 tablo). Aşı takvimi ızgarası hücre konumları kaybolduğu için çıkarıldı (liste hâli metinde var).
+- ciftleri_birlestir: tarih+sayı eşleşmesinde başlık örtüşme eşiği 0.8→0.9; yanlış birleşen Organ ve Doku Nakli Koordinatörlüğü Eğitim Yönergesi ayrıldı. Kurum Hedef Katsayısı çifti elle ayni ile korundu.
+- Denendi/geri alındı: taranmamış kopyaya genel öncelik (kısa/eksik kurum kopyaları öne geçiyordu). İleride: benzer uzunluktaki çiftlerde temiz kopya tercih edilebilir (liste: bu oturum kaydı).
