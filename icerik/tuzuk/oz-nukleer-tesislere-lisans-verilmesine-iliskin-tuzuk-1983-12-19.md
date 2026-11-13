@@ -8,10 +8,11 @@ etiketler: ["sağlıkla ilgili genel mevzuat"]
 kaynak: "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/arsiv/18256.pdf"
 not: "Ek IV: Sağlıkla ilgili tüzükler."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+konu: "17/3/2023 tarihli ve 32135 sayılı Resmî Gazete’de yayımlanan 6973 sayılı Cumhurbaşkanı Kararı ile yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2023/03/20230317-2.pdf)."
 ---
 
 **Karar Sayısı**: 83/7405

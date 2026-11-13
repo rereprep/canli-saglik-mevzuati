@@ -8,10 +8,11 @@ etiketler: ["sağlıkla ilgili genel mevzuat"]
 kaynak: "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/arsiv/18861.pdf"
 not: "Ek IV: Sağlıkla ilgili tüzükler."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+konu: "28/10/2023 tarihli ve 32353 sayılı Resmî Gazete’de yayımlanan 7742 sayılı Cumhurbaşkanı Kararı ile yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2023/10/20231028-1.pdf)."
 ---
 
 ### RADYASYON GÜVENLİĞİ TÜZÜĞÜ

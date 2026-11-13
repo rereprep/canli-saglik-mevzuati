@@ -235,3 +235,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2026-11-13: Kaldıran dört yönetmelik eklendi (Çevresel Gürültü Kontrol 2022, İn Vitro Tanı Amaçlı Tıbbi Cihaz 2021, Yüzme Suyu Kalitesinin Yönetimine Dair 2019, Maden İşyerlerinde İSG 2013); yürürlük denetimi bunlarla 6 kaydı daha mülga yaptı (toplam 21). Kordon Kanı Yön. RG sayısı 25866 olarak düzeltildi.
 
 - 2026-11-13: Üç iş sağlığı tüzüğü (Parlayıcı-Patlayıcı 1973, Yapı İşleri 1974, Maden ve Taş Ocakları 1984) mülga olarak işaretlendi; kaldıran 2014/6574, 2014/6572, 2014/6573 sayılı tüzükler RGden doğrulandı (17, 26, 25 Temmuz 2014). Özcan ekinde oldukları için sitede kalıyorlar.
+
+- 2026-11-13: Üç tüzük daha mülga (İş Teftişi 5433/2022, Radyasyon Güvenliği 7742/2023, Nükleer Tesislere Lisans 6973/2023; kararlar RG PDFlerinden doğrulandı). KÖİ Uygulama Yönetmeliği (2014) ve TSK-JGK-SGK Sağlık Yeteneği Yönetmeliği (2016) güncel metinle eklendi; 2006 Kiralama Yönetmeliği ve 1986 TSK Sağlık Yeteneği Yönetmeliği mülga.

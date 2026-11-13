@@ -8,10 +8,11 @@ etiketler: ["sağlıkla ilgili genel mevzuat"]
 kaynak: "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/arsiv/16738.pdf"
 not: "Ek IV: Sağlıkla ilgili tüzükler."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+konu: "19/4/2022 tarihli ve 31814 sayılı Resmî Gazete’de yayımlanan 5433 sayılı Cumhurbaşkanı Kararı ile yürürlükten kaldırılmıştır (https://www.resmigazete.gov.tr/eskiler/2022/04/20220419-19.pdf)."
 ---
 
 İş Teftişi Tüzüğü

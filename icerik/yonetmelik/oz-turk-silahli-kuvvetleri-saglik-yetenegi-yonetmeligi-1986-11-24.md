@@ -7,10 +7,12 @@ rg_sayi: "19291"
 kaynak: "Resmî Gazete arşivi (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/arsiv/19291.pdf"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+yerine: "oz-turk-silahli-kuvvetleri-jandarma-genel-komutanligi-ve-sahil-guvenlik-komutanligi-2016-11-11"
+konu: "Aynı adlı yönetmelik 12/10/2015 tarihli ve 2015/8136 sayılı Bakanlar Kurulu Kararı ile yeniden yürürlüğe konulmuş; o yönetmelik de 11/11/2016 tarihli ve 29885 sayılı Resmî Gazete’de yayımlanan Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinin 86 ncı maddesiyle yürürlükten kaldırılmıştır. Güncel düzenleme 2016 tarihli yönetmeliktir."
 ---
 
 Türk Silahlı Kuvvetleri Sağlık Yeteneği Yönetmeliği

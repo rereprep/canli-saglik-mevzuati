@@ -5,9 +5,11 @@ tur: "yonetmelik"
 rg_tarih: "2006-07-22"
 rg_sayi: "26236"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler. Bakanlar Kurulu / Cumhurbaşkanlığı kararıyla yürürlüğe konulmuştur."
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 kaynak: "Resmî Gazete (ilk yayımlanan metin; sonraki değişiklikler işlenmemiş olabilir)"
 kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2006/07/20060722-2.htm"
+kaldiran: "oz-saglik-bakanliginca-kamu-ozel-is-birligi-modeli-ile-tesis-yaptirilmasi-yenilenme-2014-05-09"
+konu: "3/7/2006 tarihli ve 2006/10655 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan yönetmelik; 9/5/2014 tarihli ve 28995 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınmasına Dair Uygulama Yönetmeliğinin 69 uncu maddesiyle yürürlükten kaldırılmıştır."
 ---
 
 | 22 Temmuz 2006 CUMARTESİ | Resmî Gazete | Sayı : 26236 |
