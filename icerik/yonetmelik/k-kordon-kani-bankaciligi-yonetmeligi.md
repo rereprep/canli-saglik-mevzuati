@@ -4,7 +4,7 @@ baslik: "Kordon Kanı Bankacılığı Yönetmeliği"
 tur: "yonetmelik"
 tarih: "2005-07-05"
 rg_tarih: "2005-07-05"
-rg_sayi: "25886"
+rg_sayi: "25866"
 birim: "Sağlık Bakanlığı"
 konu: "Kordon kanının toplanması, işlenmesi, saklanması ve bankacılık hizmetleri standartları."
 etiketler: ["kordon kani", "doku hucre", "laboratuvar", "saglik kurulusu"]
