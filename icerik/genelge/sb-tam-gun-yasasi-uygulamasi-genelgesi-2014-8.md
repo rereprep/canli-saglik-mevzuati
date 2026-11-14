@@ -74,10 +74,4 @@ Gereği :
 2) Çalışma ve Sosyal Güvenlik Bakanlığı  
 3) Yükseköğretim Kurulu Başkanlığı  
 4) Sosyal Güvenlik Kurumu Başkanlığı  
-5) 81 İl Valiliği (İl Sağlık Müdürlüğü)EOF
-python3 - <<'PY'
-from pathlib import Path
-p=Path('calisma/yeniden/tam-gun-yasasi-uygulam_1.md')
-s=p.read_text()
-print('chars',len(s),'[?]',s.count('[?]'))
-PY
+5) 81 İl Valiliği (İl Sağlık Müdürlüğü)
