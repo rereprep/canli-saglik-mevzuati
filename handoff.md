@@ -288,3 +288,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Denetim tamamlananlar: saglik.gov.tr/hsgm PDFleri (252 belge, medyan 0.97), 2025 Yönerge-Genelge kitabı (229, 0.95), HSH Mevzuat Kitabı 2025 (80, 0.97; mevzuat-kitabi.pdf, pdf sayfa = kitap sayfa+6, calisma/q4), RG arşiv (31, 0.95; PDFlerin kendi metin katmanı, calisma/q5), 2026/2022/2024/2020 kitapları (22 belge, calisma/q6_*; kaynak_pdf_sayfa alanı doğrudan pdf sayfası). Bu gruplarda yeni uydurma bulunmadı.
 - Denetlenmeyen: kaynak bağlantısı olmayan 9 sbg-1034xx/1035xx belgesi, cb-2019 (2), ilaç fiyat kararı, aifd kaynaklı yönerge, PDFi bulunamayan 13 saglik.gov.tr belgesi.
 - Araç: araclar/denetle_kaynak.py (calisma/denetle.py kopyası; yollar calisma/ klasörüne göre).
+
+## 2026-11-14 (11)
+- SHFK Kararları 2026/4 (8 sayfa) ve 2026/5 (2 sayfa) RG görüntüsünden yazıldı; tüm sayılar Vision okumasıyla sayım olarak karşılaştırıldı (fark yok). Aile Hekimliği Tarama ve Takip Katsayısı değişiklik yönergesi (sbg-103722) kaynaktan yazıldı.
+- TİTCK Teşkilat ve Görevleri Yönetmeliği: mevzuat.gov.tr No 31825 404 veriyor, RG 05.04.2019 fihristinde yok → künye doğrulanamadı notu kondu.
+- Tam metni olmayan 12 kayıt kaldı (kaynak bağlantısı yok ya da RG arşivinde aranmadı: Köy Sağlık Memurları 1946, Vilayet Sıhhat Müdür 1958, Yeniden Kurulacak Köyler 1938, 6 genelge/yönerge künyesi, Verem genelgesi).
