@@ -62,7 +62,7 @@ ifade eder.
 
 #### Özel Sağlık Kuruluşlarına Hizmet Satışı Değerlendirme Komisyonlarının Teşkili
 
-**MADDE 6 –** (1) Müdürlük Özel Sağlık Kuruluşlarına Hizmet Satışı Degerlendirme Komisyonu, Il Sağlık Müdürü başkanlığında, Kamu Hastaneleri Hizmetleri Başkanı, ilgili Kamu Hastaneleri Hizmetleri Başkan Yardımcısı, Sağlık Hizmetleri Başkanı ve ilgili sağlık tesisinin başhekimi olmak üzere 5 (beş) üyeden oluşur. Komisyon, İl Sağlık Müdürünün daveti üzerine müracaat tarihinden itibaren bir ay içerisinde eksiksiz olarak toplanır ve oy çokluğuyla karar alır. Komisyon kararları bir tutanakla tespit edilir ve Müdürlük bünyesinde [?]
+**MADDE 6 –** (1) Müdürlük Özel Sağlık Kuruluşlarına Hizmet Satışı Degerlendirme Komisyonu, Il Sağlık Müdürü başkanlığında, Kamu Hastaneleri Hizmetleri Başkanı, ilgili Kamu Hastaneleri Hizmetleri Başkan Yardımcısı, Sağlık Hizmetleri Başkanı ve ilgili sağlık tesisinin başhekimi olmak üzere 5 (beş) üyeden oluşur. Komisyon, İl Sağlık Müdürünün daveti üzerine müracaat tarihinden itibaren bir ay içerisinde eksiksiz olarak toplanır ve oy çokluğuyla karar alır. Komisyon kararları bir tutanakla tespit edilir ve Müdürlük bünyesinde tutulur.
 
 (2) Genel Müdürlük Özel Sağlık Kuruluşlarına Hizmet Satışı Değerlendirme Komisyonu, Finansal Analiz ve Faturalandırma Dairesi Başkanlığının bağlı bulunduğu Genel Müdür Yardımcısının başkanlığında, Sağlık Hizmetleri Genel Müdürlüğünü temsilen 1 (bir) Daire Başkanı, Strateji Geliştirme Başkanlığınu temsilen 1 (bir) Daire Başkam, Kamu Hastaneleri Genel Müdürlüğü'nden Finansal Analiz ve Faturalandırma Dairesi Başkanı, Sağlık Hizmetleri Dairesi Başkanı, Tedarik Yöntemleri ve Satın Alma Dairesi Başkam, Tedarik Planlama Stok ve Lojistik Dairesi Başkanı, Hukuk ve Mevzuat Dairesi Başkanı ve Tıbbi Cihaz ve Tıbbi Hizmet Alımları Planlama Dairesi Başkanı olmak üzere 9 (Dokuz) üyeden oluşur. Komisyon başkanın daveti üzerine eksiksiz olarak toplanır ve oy çokluğuyla karar alır. Komisyonun sekretarya işlemlerini Finansal Analiz ve Faturalandırma Dairesi yürütür.
 
@@ -100,11 +100,11 @@ c. İmza Sirküleri (Yetki Belgesi).
 
 (2) Tıbbi laboratuvar test hizmet alımlannda aşağıdakilere uyulması zorunludur:
 
-a. Hastadan, laboratuvar testini talep eden özel sağlık kuruluşu tarafından numune [?]
+a. Hastadan, laboratuvar testini talep eden özel sağlık kuruluşu tarafından numune alınmalıdır.
 
 b. Numunelerin transferi; 25/09/2010 tarihli ve 27710 sayalı Resmi Gazete'de yayımlanan Enfeksiyöz Madde ile Enfeksiyöz Tanı ve Klinik Örneği Taşıma Yönetmeliği'ne uygun olarak özel sağhk kuruluşu tarafından sağlanır. Numunenin transferinin sağlanması ve somunun alınması hasta/hasta yakınlanından istenilemez.
 
-c. Tetkiki çalışan kamu sağlık tesisinin adı ve adresi tetkik sonuç raporunda yer [?]
+c. Tetkiki çalışan kamu sağlık tesisinin adı ve adresi tetkik sonuç raporunda yer alacaktır.
 
 (3) Görüntüleme vb. hizmet alımlarında tüm hastaların transferi özel saghk kuruluşu tarafından yapılacaktır
 
@@ -118,7 +118,7 @@ c. Tetkiki çalışan kamu sağlık tesisinin adı ve adresi tetkik sonuç rapor
 
 (2) Sözleşme, özel sağlık kuruluşu yetkilisi ve kamu sağhk tesisi başhekimi tarafından imzalanır, il sağlık müdürü tarafından onaylamı.
 
-(3) Sözleşmede, asgari olarak yönerge ekinde yer alan (Ek-2) tip sözleşme hükümleri yer [?]
+(3) Sözleşmede, asgari olarak yönerge ekinde yer alan (Ek-2) tip sözleşme hükümleri yer almalıdır.
 
 (4) Bildirimde bulunulmasına rağmen, özel saglık kuruluşunun sözleşmeyi imzalamaması halinde, bir yıl süreyle kamu sağlık tesislerinden Yönerge kapsumında hizmet alamaz. Sözleşme imzalamayan özel sağlık kuruluşlarını listesi müdürlüklerde güncel olarak bulundurulur ve süre takibi yapılır.
 

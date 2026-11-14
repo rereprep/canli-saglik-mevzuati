@@ -57,5 +57,3 @@ HSGM Aile Hekimliği Dairesi Başkanlığı
 HSGM İzleme Değerlendirme Ve İstatistik Daire Başkanlığı
 Sağlık Bilgi Sistemleri Genel Müdürlüğü
 
-Bu belge, güvenli elektronik imza ile imzalanmıştır.
-Belge Doğrulama Kodu: [?]    Belge Doğrulama Adresi: [?]

@@ -62,7 +62,7 @@ Bilgi: Bayındırlık ve İskan Bakanlığı (Yapı İşleri Genel Müdürlüğ�
 
 ### T.C. BAYINDIRLIK VE İSKAN BAKANLIĞI – Yapı İşleri Genel Müdürlüğü
 
-Sayı: B.09.0.YİG.0.11.00.00-932.02/1675 [?]  
+Sayı: B.09.0.YİG.0.11.00.00-932.02/1675
 Konu: İnceleme Komisyonu  
 Sistem Kayıt Numarası: 4457  
 Tarih: 12/10/2009
@@ -79,7 +79,7 @@ Valiliklerde oluşturulacak teknik komisyona Bayındırlık ve İskan Müdürlü
 
 Bilgilerinizi rica ve gereğini arz ederim.
 
-A. Enver YAYLALI [?]  
+A. Enver YAYLALI
 Bakan a.  
 Genel Müdür Yardımcısı
 
@@ -93,7 +93,7 @@ Bilgi: Tüm Valiliklere (Bayındırlık ve İskan Müdürlüğü)
 
 ### T.C. İÇİŞLERİ BAKANLIĞI – Mahalli İdareler Genel Müdürlüğü
 
-Sayı: B.05.0.MAH.0.07.01.00/3034 [?]  
+Sayı: B.05.0.MAH.0.07.01.00/3034
 Konu: Yangın Önleme ve Söndürme Yönergesi  
 Tarih: 02.12.2009
 

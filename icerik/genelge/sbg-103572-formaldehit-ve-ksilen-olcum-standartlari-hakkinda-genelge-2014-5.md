@@ -18,7 +18,7 @@ kontrol_edildi: true
 #### Sağlık Hizmetleri Genel Müdürlüğü
 ##### Tıbbi Laboratuvar Hizmetleri Daire Başkanlığı
 
-**Sayı:** 95966346-[?]
+**Sayı:** 95966346-
 **Konu:** Formaldehit ve Ksilen Ölçüm Standartları Hakkında Genelge
 
 ### GENELGE

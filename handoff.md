@@ -272,3 +272,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## 2026-11-14 (7)
 - [?] temizliği: 2025 kitabının ilgili 258 sayfası (pdf sayfa = kitap sayfa + 14) calisma/q altına çıkarılıp Vision ile okundu (calisma/q/j, aday.json). 10 gerçek eksik kaynak sayfadan dolduruldu; onay bloklarındaki boş tarih yerleri (…/…/yyyy) [?] yerine … ile yazıldı (~55 yer). Kalan [?] çoğunlukla el yazısı evrak sayıları, şema/ek görselleri ve Verem genelgesi.
+
+## 2026-11-14 (8)
+- [?] ikinci tur: saglik.gov.tr sayfa adresleri doğrudan PDF döndürüyor (calisma/q2/<id>/e0.pdf + png + j OCR). Her [?] için sayfa kesiti (calisma/q2/kes, calisma/q/kes) görüntüden okundu: kesik cümle sonları, evrak sayıları, tablo değerleri dolduruldu (sbg-103624 poliklinik oda sayıları 0/2/4/7/9; 201-400 değeri 9 yazılmıştı, 7 olarak düzeltildi). İmza/damga/barkod yerine konmuş [?] işaretleri kaldırıldı. hsgm-883: kaynak taramada ekran görüntüsü yazılarının sağ kenarı kesik; [?] yerine […] ve açıklama notu.
+- Kalan görünen [?]: Verem genelgesi (49), sbg-10729 (2, okunamayan form), sbg-11131 (1), oz-gida plastik (1; PDF s.40 sonrası), sbg-103527/103632.. kalanlar listede.

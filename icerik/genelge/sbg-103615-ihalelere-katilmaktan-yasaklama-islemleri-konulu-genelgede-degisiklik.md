@@ -21,7 +21,7 @@ kontrol_edildi: true
 ### GENELGE
 **2020/06**
 
-**İlgi:** 11/04/2020 tarihli ve 2018/12 sayılı Genelge [?]
+**İlgi:** 11/04/2020 tarihli ve 2018/12 sayılı Genelge
 
 Bilindiği üzere Bakanlığımız taşra teşkilatında ihalelere katılmaktan yasaklama iş ve işlemleri Bakanlığımızın ilgide kayıtlı "İhalelere Katılmaktan Yasaklama İşlemleri" konulu Genelgesi kapsamında yürütülmektedir.
 
@@ -38,4 +38,4 @@ Bakan Yardımcısı
 ### DAĞITIM
 
 **Bilgi:** 81 İl Valiliği (İl Sağlık Müdürlüğü)
-**B Planı** [?]
+**B Planı**

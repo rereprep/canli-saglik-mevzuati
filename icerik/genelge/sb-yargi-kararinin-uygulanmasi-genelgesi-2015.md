@@ -20,11 +20,11 @@ T.C.
 **SAĞLIK BAKANLIĞI**
 **Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı : 54567092/[?]
+Sayı : 54567092/
 Konu : Yargı kararının uygulanması
 
 **GENELGE**
-**2015/**[?]
+**2015/**
 
 İlgi: 26/09/2013 tarihli ve 32742 sayılı 2013/18 No.lu Genelge.
 

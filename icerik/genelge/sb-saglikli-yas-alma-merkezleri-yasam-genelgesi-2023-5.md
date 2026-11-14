@@ -50,11 +50,11 @@ Hem Anayasa hem de 3359 sayılı Sağlık Hizmetleri Kanunu ve diğer kanunlar i
 
 7- Ekibin yaşlı bireyi yerinde veya evinde ziyaret etmesi amacıyla YAŞAM ekip aracını kullanması için şoför görevlendirilir. Ekip içerisinde sürücü belgesi olanlardan ilgili mevzuatı çerçevesinde gerekli yetkilendirme yapılanlar da araçları kullanabilir.
 
-8- Her bir ekip, en fazla 300 yaşlı bireyin takibinden sorumludur. Personel mesai günlerinde ve mesai saatleri içinde hizmet sunar. YAŞAM'da takipli olan yaşlı bireyin hafta içi mesai saatleri haricinde ve hafta sonu herhangi bir kamu sağlık tesisine başvurması veya sağlık tesisine yatışı olması durumunda YAŞAM ekibine Bakanlıkça belirlenen sistem üzerinden bildirim yapılır. YAŞAM'da görevli personele evde sağlık hizmet birimleri haricinde başka bir [?]
+8- Her bir ekip, en fazla 300 yaşlı bireyin takibinden sorumludur. Personel mesai günlerinde ve mesai saatleri içinde hizmet sunar. YAŞAM'da takipli olan yaşlı bireyin hafta içi mesai saatleri haricinde ve hafta sonu herhangi bir kamu sağlık tesisine başvurması veya sağlık tesisine yatışı olması durumunda YAŞAM ekibine Bakanlıkça belirlenen sistem üzerinden bildirim yapılır. YAŞAM'da görevli personele evde sağlık hizmet birimleri haricinde başka bir birimde görev verilemez.
 
 9- YAŞAM ekipleri, yaşlı bireyi bağımlılık durumuna göre hem yerinde hem de uzaktan sağlık hizmeti ile değerlendirir. Bağımlı yaşlı bireyler için asgari ayda bir kez, bağımsız yaşlı bireyler için ise asgari üç ayda bir kez değerlendirme yapılması gerekir. İlk değerlendirme yaşlı bireyin yerinde veya evde ziyareti şeklinde yapılır. Diğer ziyaretlerin de tercihen yerinde yüz yüze yapılması esastır. Ancak, yerinde veya evde ziyareti yapılamayacak durumlarda (Pandemi gibi zorunlu hallerde, insan gücü ve/veya teknik ulaşım araçlarında planlamaların değişmesi halinde, coğrafi ve iklim şartları gibi) uzaktan sağlık hizmet sunumu ile de görüntülü değerlendirme yapılabilir. Ekip sorumlusu hekim tarafından, yaşlı bireyin periyodik ziyaret süreleri dışında gereksinim olması halinde de yerinde veya evde veya görüntülü olarak uzaktan sağlık hizmeti şeklinde ek değerlendirmeler yapılabilir. Periyodik ziyaretlere ek olarak uzaktan sağlık hizmet sunumu yaşlı bireyin talebi ve/veya ekip üyelerinden birinin gerekli görmesi halinde de yapılabilir.
 
-10- YAŞAM'da görevli sağlık personelinin hizmet içi eğitimleri Bakanlıkça belirlenen [?]
+10- YAŞAM'da görevli sağlık personelinin hizmet içi eğitimleri Bakanlıkça belirlenen programlar doğrultusunda gerçekleşir.
 
 ### B) YAŞAM EKİBİ ÜYELERİNİN GÖREV VE SORUMLULUKLARI
 

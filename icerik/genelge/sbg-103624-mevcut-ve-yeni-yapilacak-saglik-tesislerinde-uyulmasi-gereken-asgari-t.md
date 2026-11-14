@@ -23,7 +23,7 @@ kontrol_edildi: true
 **Konu:** Mevcut ve Yeni Yapılacak Sağlık Tesislerinde Uyulması Gereken Asgari Teknik Standartlar
 
 ### GENELGE
-**2012/[?]**
+**2012/…**
 
 Bakanlığımızca "Sağlıkta Dönüşüm Projesi Kapsamında Yapılacak Sağlık Tesisleri İçin Proje Aşamasında Uyulması Gereken Hususlar" ile ilgili ihtiyaç ve fonksiyon yönünden uygulanması gereken şartlar aşağıda belirtilmiştir.
 
@@ -31,11 +31,11 @@ Bakanlığımızca "Sağlıkta Dönüşüm Projesi Kapsamında Yapılacak Sağl�
 
 1- Acil servis bekleme bölümünde, triajda ön muayenesi yapıldıktan sonra ciddi bir durum olmadığı tespit edilen hastaların tespit ve tedavisi için poliklinik odaları planlanacaktır. Poliklinik oda sayısı aksi belirtilmediği sürece aşağıdaki sayılar dikkate alınarak yapılacaktır.
 
-0 - 50 yatak: [?]
-51 - 100 yatak: [?]
-101 - 200 yatak: [?]
-201 - 400 yatak: 9
-**401** - 600 yatak: [?]
+0 - 50 yatak: 0
+51 - 100 yatak: 2
+101 - 200 yatak: 4
+201 - 400 yatak: 7
+401 - 600 yatak: 9
 601 - 900 yatak: 13
 901 - ve üzeri yatak: 16
 

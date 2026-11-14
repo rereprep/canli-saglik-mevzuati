@@ -24,10 +24,10 @@ Konu: Sağlık Yapıları Yönetimi Usul ve Esasları
 ### DAĞITIM YERLERİNE
 
 İlgi:
-(a) Bakan Yardımcılığı Makamının 16.03.2023 tarih ve 211496714 [?] sayılı yazısı.
-(b) Sağlık Yatırımları Genel Müdürlüğünün 30.03.2021 [?] tarih ve 212990232 sayılı yazısı.
-(c) Bakan Yardımcılığı Makamının 21.11.2022 tarih ve 178742172 [?] sayılı yazısı.
-(d) Sağlık Yatırımları Genel Müdürlüğünün 22.12.2022 tarih ve 154850441 [?] sayılı yazısı.
+(a) Bakan Yardımcılığı Makamının 16.03.2023 tarih ve 211496714 sayılı yazısı.
+(b) Sağlık Yatırımları Genel Müdürlüğünün 30.03.2021 tarih ve 212990232 sayılı yazısı.
+(c) Bakan Yardımcılığı Makamının 21.11.2022 tarih ve 178742172 sayılı yazısı.
+(d) Sağlık Yatırımları Genel Müdürlüğünün 22.12.2022 tarih ve 154850441 sayılı yazısı.
 
 Bilindiği üzere ülkemiz genelinde sağlık hizmet binalarının risk tespitlerinin yapılarak, deprem dayanıklılığının ölçülmesi ve sonuçlarının değerlendirilmesine yönelik ilgi (a) yazı ve ekleri merkez ve taşra teşkilatımıza gönderilmiştir. Ancak mevcut yazıda belirlenen uygulama esasları yürürlükten kaldırılarak aşağıdaki hükümler doğrultusunda yenilenmiştir.
 

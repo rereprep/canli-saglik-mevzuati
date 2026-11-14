@@ -24,7 +24,7 @@ Sayı : 98878870/63
 Konu : Mesai saatleri harici işyeri hekimliği
 
 GENELGE
-2014/1[?]
+2014/1
 
 30/06/2012 tarihli ve 28339 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 6331 sayılı İş Sağlığı ve Güvenliği Kanunu ile; ülke çapında iş sağlığı ve güvenliği (İSG) hizmetlerinin yaygınlaştırılması, bu hizmetlerden tüm çalışanların etkin ve verimli şekilde yararlanması amaçlanmıştır.
 

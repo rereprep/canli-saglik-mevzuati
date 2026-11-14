@@ -13,7 +13,6 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-
 **11.3.2. Kamu Zararı Genelgesi (2020/5)**
 
 ### T.C. SAĞLIK BAKANLIĞI
@@ -27,7 +26,7 @@ kontrol_edildi: true
 
 Bilindiği üzere, Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik 19/10/2006 tarihli ve 26324 sayılı Resmi Gazetede yayımlanarak 01/01/2006 tarihinden geçerli olmak üzere yürürlüğe girerek uygulanmaktaydı ancak, 15/06/2019 tarihli ve 30802 sayılı Resmi Gazetede yayımlanan "Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik" ile Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelikte değişiklik yapıldığından Yönetmeliğin uygulanmasında iş ve işlemlerin daha etkin ve hızlı bir şekilde yürütülmesi ve uygulama birliğinin sağlanması için Bakanlığımız merkez ve taşra teşkilatında aşağıdaki hususlara riayet edilecektir.
 
-1) Kamu zararlarından kaynaklanan alacaklarda takibe yetkili birim merkez teşkilatında Strateji Geliştirme Başkanlığıdır. Taşra teşkilatında ise İlçe Sağlık Müdürlüğü kurulmayan yerler ile İl Sağlık Müdürlüğünde İl Sağlık Müdürünün sorumluluğunda destek hizmetlerine ilişkin görev, yetki ve sorumlulukların yerine getirildiği Başkanlıkta; İlçe Sağlık Müdürlüğü kurulan yerlerde İlçe Sağlık Müdürlüğünde; Hastaneler ile Ağız ve Diş Sağlığı Merkezlerinde Başhekimin sorumluluğunda İdari ve Mali Hizmetler Müdürlüğü bünyesinde, kamu zararlarının takip ve [?]
+1) Kamu zararlarından kaynaklanan alacaklarda takibe yetkili birim merkez teşkilatında Strateji Geliştirme Başkanlığıdır. Taşra teşkilatında ise İlçe Sağlık Müdürlüğü kurulmayan yerler ile İl Sağlık Müdürlüğünde İl Sağlık Müdürünün sorumluluğunda destek hizmetlerine ilişkin görev, yetki ve sorumlulukların yerine getirildiği Başkanlıkta; İlçe Sağlık Müdürlüğü kurulan yerlerde İlçe Sağlık Müdürlüğünde; Hastaneler ile Ağız ve Diş Sağlığı Merkezlerinde Başhekimin sorumluluğunda İdari ve Mali Hizmetler Müdürlüğü bünyesinde, kamu zararlarının takip ve tahsili ile ilgili iş ve işlemler yürütülecektir.
 
 2) Bakanlık taşra teşkilatında gerçekleştirilen kontrol, denetim veya inceleme sonucunda tespit edilen zarara ilişkin hususlar, ilgili harcama yetkilisinin görüşünü de içeren ve harcama birimi tarafından düzenlenen Yönetmeliğin eki Ek-1'de yer alan Değerlendirme Formu ile birlikte İl Sağlık Müdürünün (idarenin taşrada bulunan en üst yöneticisi) değerlendirmesine sunulacaktır. İl Sağlık Müdürünün harcama yetkilisi olduğu ancak tespit edilen zararın harcama yetkilisinin (İl Sağlık Müdürünün) karar veya onayı ile meydana gelmediği durumda değerlendirme, İl Sağlık Müdürü tarafından yapılacaktır. İl Sağlık Müdürünün gerek görmesi halinde hukuk biriminin görüşüne, sorumluların ve/veya ilgililerin bilgisine başvurabilir ve değerlendirme altmış gün içerisinde sonuçlandırılır.
 

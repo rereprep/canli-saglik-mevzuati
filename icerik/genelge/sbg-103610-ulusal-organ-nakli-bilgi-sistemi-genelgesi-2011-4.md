@@ -17,7 +17,7 @@ kontrol_edildi: true
 ##### Eğitim, Tanıtım ve Ulusal Koordinasyon Şubesi
 
 **24 Ocak 2011**
-**Sayı:** B-10-0-THG-0-06-00-02-708/ [?]
+**Sayı:** B-10-0-THG-0-06-00-02-708/
 **Konu:** Ulusal Organ Nakli Bilgi Sistemi
 
 ### GENELGE

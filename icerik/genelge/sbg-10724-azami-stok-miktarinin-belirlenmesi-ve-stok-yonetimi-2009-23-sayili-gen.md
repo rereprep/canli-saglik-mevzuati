@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 ### T.C. SAĞLIK BAKANLIĞI – Strateji Geliştirme Başkanlığı
 
-Sayı: B.10.0.SGB.0.73.00-07/809.99 – 3214 [?]  
+Sayı: B.10.0.SGB.0.73.00-07/809.99 – 3214 27 Mart 2009  
 Konu: Azami Stok Miktarının Belirlenmesi ve Stok Yönetimi.  
 Tarih: 27 Mart 2009
 

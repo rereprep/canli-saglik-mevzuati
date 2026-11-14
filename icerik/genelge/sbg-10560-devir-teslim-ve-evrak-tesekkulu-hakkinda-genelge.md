@@ -16,7 +16,7 @@ kontrol_edildi: true
 
 Sayı: B100İMİ0000010/0148  
 Konu: Devir Teslim ve Evrak Teşekkülü  
-Ankara, 10 Ocak 2002 [?]
+Ankara, 10 Ocak 2002
 
 Bildiğiniz gibi, Bakanlığımız bünyesinde ve bağlı Sağlık Kurum ve Kuruluşlarımızda Kurum Arşivi'nin Kanun ve Yönetmeliklerde tanımlanan niteliklere uygun hale getirilmesi ile, işin rastgele yapılmasının önüne geçilerek belli bir sisteme kavuşturulması bakımından, 2001 yılı içerisinde yoğun çalışma ve eğitim programları yapılmış, olumlu ve bilgilendirici koordinasyonlar kurulmuştur.
 

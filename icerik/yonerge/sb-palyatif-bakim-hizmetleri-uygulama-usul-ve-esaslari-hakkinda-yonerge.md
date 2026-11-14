@@ -223,7 +223,7 @@ Hasta hakları, hizmetin sonlandırılması, eğitim, denetim ve sorumluluk
 
 **MADDE 17 –** (1) Palyatif bakım hizmeti aşağıdaki hallerde sonlandırılır:
 
-[?] hizmetleri birimine yönlendirilen sonlandırılmasında, evde sağlık hizmetlerine ilişkin mevzuat esas alınır.
+a) Evde sağlık hizmetleri birimine yönlendirilen sonlandırılmasında, evde sağlık hizmetlerine ilişkin mevzuat esas alınır.
 
 b) Hastanın kendisi veya kanuni temsilcilerinin hizmeti sonlandırmayı talep etmesi, hasta veya aile bireylerinin tedaviye uyumsuz davranış sergilemeleri, önerilere uymayarak direnç göstermeleri halinde, hizmetin faydası sorumlu uzman tabip tarafından sorgulanır, hasta ve aile bireyleri ile görüşülerek hizmetin sonlandırılmasına ilişkin karar tutanak altına
 

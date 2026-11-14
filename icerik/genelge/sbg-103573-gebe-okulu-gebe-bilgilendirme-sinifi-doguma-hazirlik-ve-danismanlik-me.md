@@ -43,8 +43,6 @@ Sağlık hizmetleri yürütülmesinde yer alan gebe bilgilendirme sınıfları, 
 
 6) Gebe bilgilendirme sınıfı, gebe okulu ve doğuma hazırlık ve danışmanlık merkezlerinde verilecek eğitimler Ek 1'de yer alan Sağlık Hizmetlerinde Gebe Bilgilendirme Sınıfı, Gebe Okulu ve Doğuma Hazırlık ve Danışmanlık Merkezlerinin Çalışma Usul ve Esaslarına uygun olarak Ek 8 Gebe Adayı/Gebe/Yakını Eğitim Planı ile belirlenen konu, amaç ve kazanımlar kapsamında hazırlanacak ve içerikleri Müdürlük tarafından onaylanacaktır.
 
-[?]
-
 Prof. Dr. Muhammet GÜVEN
 Bakan a.
 Bakan Yardımcısı

@@ -38,7 +38,7 @@ Başkan
 
 EKLER:
 
-1- Yönerge ([?] Sayfa)
+1- Yönerge (4 Sayfa)
 
 Uygun görüşle arz ederim. …/…/…
 

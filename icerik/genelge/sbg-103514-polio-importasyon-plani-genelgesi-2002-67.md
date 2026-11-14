@@ -34,7 +34,9 @@ TANIMLAR:
 
 a-İmporte poliomyelit vakası/virüsü:
 
-• Vahşi virüsle Türkiye dışında karşılaşmış veya poliomyelitin görüldüğü bir ülkeye yakın Paralizi başlangıcı ülke içinde veya dışında olan ve [?] seyahat hikayesi veren bir kişi ile teması olan vakadır.
+• Paralizi başlangıcı ülke içinde veya dışında olan ve
+
+• Vahşi virüsle Türkiye dışında karşılaşmış veya poliomyelitin görüldüğü bir ülkeye yakın zamanda seyahat hikayesi veren bir kişi ile teması olan vakadır.
 
 • Böyle bir vakanın laboratuvar olarak konfirmasyonu gereklidir. Ayrıca diğer hastalıklar veya sağlam çocuk taramaları gibi nedenlerle alınan numunelerde de vahşi poliovirüs üretilebilir. Her iki durumda da genetik inceleme ile tespit edilen virüsün kökeni belirlenerek importasyon kesinleştirilir.
 

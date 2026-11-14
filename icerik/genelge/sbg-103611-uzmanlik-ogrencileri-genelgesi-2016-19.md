@@ -17,7 +17,7 @@ kontrol_edildi: true
 ##### Mevzuat İşleri Daire Başkanlığı
 
 **21/10/2016**
-**Sayı:** 54567092-[?]
+**Sayı:** 54567092-010.06.02-E.02-4523
 **Konu:** Uzmanlık öğrencileri
 
 ### GENELGE

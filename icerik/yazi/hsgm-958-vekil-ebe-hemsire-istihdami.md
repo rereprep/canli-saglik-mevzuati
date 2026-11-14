@@ -172,7 +172,7 @@ Bakan a.
 | 26 | Görev yeri sınırları içinde herhangi bir yeri toplantı, tören ve benzeri amaçlarla izinsiz kullanmak veya kullandırmak, | 50 |
 | 27 | Gerçeğe aykırı rapor ve belge düzenlemek, | 50 |
 | 28 | Ticaret yapmak veya Devlet memurlarına yasaklanan diğer kazanç getirici faaliyetlerde bulunmak, | 50 |
-| 29 | Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin [?] hedef tutan davranışlarda bulunmak, | 50 |
+| 29 | Görevin yerine getirilmesinde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin zararını hedef tutan davranışlarda bulunmak, | 50 |
 | 30 | Belirlenen durum ve sürelerde mal bildiriminde bulunmamak, | 50 |
 | 31 | Açıklanması yasaklanan bilgileri açıklamak, | 50 |
 | 32 | Verilen görev ve emirleri kasten yapmamak, | 50 |

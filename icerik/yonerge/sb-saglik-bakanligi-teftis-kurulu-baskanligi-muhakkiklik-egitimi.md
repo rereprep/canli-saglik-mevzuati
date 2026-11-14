@@ -34,7 +34,7 @@ Teftiş Kurulu Başkanlığının düzenlemiş olduğu Muhakkiklik eğitimlerini
 
 İlişikte sunulan nihai taslağın yürürlüğe konulmasını takdir ve tensiplerinize arz ederim.
 
-[?]
+Av. Ülker KÜÇÜK
 
 Hukuk Hizmetleri Genel Müdürü
 

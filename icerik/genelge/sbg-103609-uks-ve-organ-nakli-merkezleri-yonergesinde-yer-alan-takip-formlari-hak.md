@@ -16,7 +16,7 @@ kontrol_edildi: true
 #### Sağlık Hizmetleri Genel Müdürlüğü
 
 **05.06.2012**
-**Sayı:** B.10.0.SHG.0.10.00.00 [?]
+**Sayı:** B.10.0.SHG.0.10.00.00/9889
 **Konu:** UKS ve Organ Nakli Merkezleri Yönergesi'nde Yer Alan Takip Formları Hakkında
 
 ### GENELGE

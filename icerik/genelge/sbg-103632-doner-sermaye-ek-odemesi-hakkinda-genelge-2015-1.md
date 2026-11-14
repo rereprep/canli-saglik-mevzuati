@@ -13,12 +13,11 @@ konu: "Döner sermaye ek ödemesi uygulamasına ilişkin açıklamaları düzenl
 kontrol_edildi: true
 ---
 
-
 **9.3.12. Döner Sermaye Ek Ödemesi Hakkında Genelge (2015/1)**
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Yönetim Hizmetleri Genel Müdürlüğü
-##### İnsan Kaynakları Planlama ve İstatistik İşleri [?]
+##### İnsan Kaynakları Planlama ve İstatistik İşleri
 
 **Sayı:** 76219013
 **Konu:** Döner Sermaye Ek Ödemesi hk.
@@ -47,8 +46,6 @@ Konu : Döner Sermaye Ek Ödemesi hk.
 
 ### GENELGE
 ### 2015/1
-
-
 
 2) "Tanımlar" başlıklı 4 üncü maddesinin birinci fıkrasının "h" bendinde "Çalışılmayan günler; Resmi tatil günleri, nöbet izinleri ve görevin yapılması esnasında meydana gelebilecek yaralanma ve hastalık hâlinin sağlık raporuyla belgelendirilmesi sonucu kullanılan hastalık izin süreleri hariç olmak üzere tüm çalışılmayan günleri ifade eder." tanımı yer almaktadır. Tanımda yer alan, görevin yapılması esnasında meydana gelebilecek yaralanma ve hastalık hâlinin sağlık raporuyla belgelendirilmesi sonucu kullanılan hastalık izin süreleri hesaplanırken, 657 sayılı Devlet Memurları Kanunu'nun, "Hastalık ve Refakat İzni" başlıkh 105'inci maddesinin beşinci fikrasında yer alan "Görevi sırasında veya görevinden dolayı bir kazaya veya saldırıya uğrayan veya bir meslek hastalığına tutulan memur, iyileşinceye kadar izinli sayılır." hükmü çerçevesinde, görevi sırasında veya görevinden dolayı bir kazaya veya saldırıya uğrayan veya bir meslek hastalığına tutulan personelin sağlık raporuyla belgelendirdiği hastalık izin süreleri dikkate alınacaktır. Bunun dışındaki hastalık izinleri mezkur hükümdeki çalışılmayan günler kapsamında değerlendirilecektir.
 

@@ -207,7 +207,7 @@ Haritada bölgelere göre gösterilen nüfuslar:
 | 18. Bölge | 2.968.561 |
 | 19. Bölge | 4.775.585 |
 | 20. Bölge | 3.541.634 |
-| 21. Bölge | 2.360.195 [?] |
+| 21. Bölge | 2.360.195 |
 | 22. Bölge | 2.955.825 |
 | 23. Bölge | 1.687.420 |
 | 24 (Anadolu Güney). Bölge | 2.198.350 |

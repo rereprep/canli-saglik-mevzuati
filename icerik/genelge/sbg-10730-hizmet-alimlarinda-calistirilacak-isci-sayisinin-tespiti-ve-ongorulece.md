@@ -18,7 +18,7 @@ kontrol_edildi: true
 
 Sayı: B.10.0.SGB.0.81.00.05/10-06/10194  
 Konu: Hizmet alımlarında çalıştırılacak işçi sayısının tespiti ve öngörülecek ücretler-2  
-Tarih: 09 … 2009 [?]
+Tarih: 09 … 2009
 
 #### …… VALİLİĞİNE (İl Sağlık Müdürlüğü)
 
@@ -64,7 +64,7 @@ d) Bu genelgede yer alan düzenlemelerin, 4734 sayılı Kamu İhale Kanunu ve 47
 
 Bilgilerinizi ve konunun iliniz dâhilindeki Bakanlığımıza bağlı tüm döner sermayeli kurum ve kuruluşlarına duyurulması hususunda gereğini önemle rica ederim.
 
-Prof. Dr. Nihat TOSUN [?]  
+Prof. Dr. Nihat TOSUN
 Bakan a.  
 **Müsteşar**
 

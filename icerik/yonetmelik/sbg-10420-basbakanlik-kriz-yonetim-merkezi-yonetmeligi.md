@@ -16,7 +16,7 @@ tarih: "1996-09-30"
 
 ## BAŞBAKANLIK KRİZ YÖNETİM MERKEZİ YÖNETMELİĞİ
 
-**Bakanlar Kurulu Kararının Tarihi :30/9/1996 No: 96/8716** Dayandığı Kanunun Tarihi : [?] No: Yayımlandığı R.Gazetenin Tarihi : 9/1/1997 No: 22872 Yayımlandığı Düsturun Tertibi : 5, Cildi: 26, Sayfa: [?]
+**Bakanlar Kurulu Kararının Tarihi :30/9/1996 No: 96/8716** Dayandığı Kanunun Tarihi : – No: Yayımlandığı R.Gazetenin Tarihi : 9/1/1997 No: 22872 Yayımlandığı Düsturun Tertibi : 5, Cildi: 26, Sayfa: –
 
 #### Amaç
 
@@ -322,25 +322,25 @@ EK-A
 
 ### Kriz Hâllerinde Yönetim
 
-[?]
+(Bu ek, kaynak metinde yer almamaktadır.)
 
 EK-B
 
 ### Kriz Koordinasyon Kurulunda Görev Alacak Bakanlık, Kurum ve Kuruluşlar
 
-[?]
+(Bu ek, kaynak metinde yer almamaktadır.)
 
 EK-C
 
 ### Kriz Değerlendirme ve Takip Kurulunda Görev Alacak Bakanlık, Kurum ve Kuruluşlar
 
-[?]
+(Bu ek, kaynak metinde yer almamaktadır.)
 
 EK-D
 
 ### Sekretaryada Görev Alacak Bakanlık, Kurum ve Kuruluşlar
 
-[?]
+(Bu ek, kaynak metinde yer almamaktadır.)
 
 ### 30/9/1996 TARİH VE 96/8716 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN ÇİZELGE
 

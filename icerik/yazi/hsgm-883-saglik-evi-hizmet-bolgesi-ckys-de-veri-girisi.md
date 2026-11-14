@@ -45,19 +45,21 @@ Gereği:
 81 İl Valiliği
 (Halk Sağlığı Müdürlüğü)
 
+*(Ekteki ekran görüntülerinde açıklama yazılarının sağ kenarı kaynak belgede kesik taranmıştır; kesik yerler […] ile gösterilmiştir.)*
+
 Birim Bilgileri Değişikliği ekranını açmak için iki kere tıklayınız.
 
 Form/ekran görüntüsü: Birim Bilgileri ekranında sorgu, kurum ve faaliyet alanları gösterilmiştir; yönergeler okla ilgili alanları işaret etmektedir.
 
-Bir butonuna bir kere tıklayınız. Bir kere yeterlidir. Bir kere [?] sonra.
+Bir butonuna bir kere tıklayınız. Bir kere yeterlidir. Bir kere […] sonra.
 
-İl karşısındaki bu oka basın [?] seçin. Daha sonra ilçeyi seç[?]. Daha sonra Kurum Türü bölümünden ise “Sağlık Evi”ni bulup seçin. Kurum tipi de sağlık evi seçilmiş olmalıdır.
+İl karşısındaki bu oka basın […] seçin. Daha sonra ilçeyi seç[…]. Daha sonra Kurum Türü bölümünden ise “Sağlık Evi”ni bulup seçin. Kurum tipi de sağlık evi seçilmiş olmalıdır.
 
-Faaliyet Durumu bölümünde “FAAL” seçiniz ve klavyeniz üzerinde bulunan “F” [?] basarak sorguyu çalıştırın. Ekranınıza ilinizde faal olan sağlık evinin ilk kaydı gelecektir [?].
+Faaliyet Durumu bölümünde “FAAL” seçiniz ve klavyeniz üzerinde bulunan “F” […] basarak sorguyu çalıştırın. Ekranınıza ilinizde faal olan sağlık evinin ilk kaydı gelecektir […].
 
-Form/ekran görüntüsü: Uşak Merkez Toplum Sağlığı Merkezi Susuzören Sağlık Evi kaydı. Faaliyet Durumu: 0 FAAL; Açılış Trh./No.: 23/07/2009 9073. Bağlı olduğu birim: Sicil bakımından 732682 Uşak Halk Sağlığı Müdürlüğü; Döner Sermaye Saymanlığı 14500 Uşak Sağlık Kurumları Döner Sermaye [?].
+Form/ekran görüntüsü: Uşak Merkez Toplum Sağlığı Merkezi Susuzören Sağlık Evi kaydı. Faaliyet Durumu: 0 FAAL; Açılış Trh./No.: 23/07/2009 9073. Bağlı olduğu birim: Sicil bakımından 732682 Uşak Halk Sağlığı Müdürlüğü; Döner Sermaye Saymanlığı 14500 Uşak Sağlık Kurumları Döner Sermaye […].
 
-Ekrana ilimizdeki faal olan ilk sağlık evi geldiğinde hizmet verdiği nüfusun [?] karşısındaki **KÖYLER butonuna** [?].
+Ekrana ilimizdeki faal olan ilk sağlık evi geldiğinde hizmet verdiği nüfusun […] karşısındaki **KÖYLER butonuna** […].
 
 Form/ekran görüntüsü: Sağlık Evi Köy Bilgileri formu; sütunlar Köy Kod, Köy Adı, Köy Nüfus, Baş Tar, Bit Tar ve Nüfus Toplamı.
 
@@ -103,10 +105,10 @@ Bul: 32%
 | 32837 | DEMİRÖREN | 44 |
 | 32838 | DERBENT | 892 |
 
-Sağlık hizmet bölgesindeki tüm [?] işaretlendikten sonra çarpı (X) [?] kapatınız.
+Sağlık hizmet bölgesindeki tüm […] işaretlendikten sonra çarpı (X) […] kapatınız.
 
-**Her bir sağlık evi hizmet verdiği [?]**
-**F10 veya kayıt ikonuna basarak [?]**
+**Her bir sağlık evi hizmet verdiği […]**
+**F10 veya kayıt ikonuna basarak […]**
 
 Faaliyet Durumu: 0 — FAAL
 Açılış Trh./No.: 23/07/2009 — 9073

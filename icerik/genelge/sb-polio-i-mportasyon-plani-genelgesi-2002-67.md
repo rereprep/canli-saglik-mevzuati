@@ -262,10 +262,10 @@ Hedef nüfus ve aşılama cevabının büyüklüğü;
 - Devam eden virüs dolaşımının kanıtlarına,
 - Dolaşımın yaygınlığına,
 - Genel popülasyonda veya aşısız belli bir grupta ortaya çıkmasına,
-- Yaygın dolaşım potansiyeline (altyapı koşullarının kötü olduğu yerler, kalabalık kentsel bölgeler ve bağışıklama oranlarının düşük olduğu alanlarda poliovirüsün hızlı yayılım potansiyeli [?]
+- Yaygın dolaşım potansiyeline (altyapı koşullarının kötü olduğu yerler, kalabalık kentsel bölgeler ve bağışıklama oranlarının düşük olduğu alanlarda poliovirüsün hızlı yayılım potansiyeli fazladır),
 - Lokal veya uzak yayılıma,
 - Vakanın epidemiyolojik özelliğine göre belirlenecektir.
-- Yüksek riskli bölgelere öncelik verilerek ve ev ev dolaşılacak şekilde detaylı planlama [?]
+- Yüksek riskli bölgelere öncelik verilerek ve ev ev dolaşılacak şekilde detaylı planlama yapılacaktır.
 
 ### GEREKLİ DOKÜMANTASYON
 

@@ -41,7 +41,7 @@ Bu yeni yapılanma doğrultusunda;
 
 3- İl Sağlık Müdürlükleri döner sermaye işletmeleri ile diğer kamu idarelerine bağlı sağlık kurum ve kuruluşları arasında,
 
-Anılan Yönetmelik hükümleri doğrultusunda yapılacak teşhis ve tedaviye yönelik mal ve hizmet alımlarında uyulması gereken usul ve esaslar bu Genelgeyle yeniden düzenlenmiştir. [?]
+Anılan Yönetmelik hükümleri doğrultusunda yapılacak teşhis ve tedaviye yönelik mal ve hizmet alımlarında uyulması gereken usul ve esaslar bu Genelgeyle yeniden düzenlenmiştir.
 
 ---
 

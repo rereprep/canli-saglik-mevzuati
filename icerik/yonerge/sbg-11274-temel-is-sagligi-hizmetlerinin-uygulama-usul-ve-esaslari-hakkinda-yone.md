@@ -554,7 +554,7 @@ Tehlike sınıfı:
 | Tam İdrar Tetkiki | 3,00 |
 | PA Akciğer Filmi Çekimi ve Değerlendirilmesi | 7,00 |
 | Hbs Ag (kemolumınesans veya benzeri) | 7,50 |
-| Antı Hbs (mikropartıkül Assay-Meia veya benzeri) [?] | 8,00 |
+| Antı Hbs (mikropartıkül Assay-Meia veya benzeri) | 8,00 |
 | Antı Hcv (elisa) | 5,00 |
 | Antı Hıv (kemolumınesans veya benzeri) | 7,50 |
 | Vdrl-Rpr | 5,00 |

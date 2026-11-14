@@ -13,12 +13,11 @@ konu: "İdari hizmet binası kiralama işlemlerinin usul ve esaslarını belirle
 kontrol_edildi: true
 ---
 
-
 **9.3.4. İdari Hizmet Binası Kiralama İşlemleri Hakkında Genelge** (2022/5)
 
 ### T.C. SAĞLIK BAKANLIĞI
 #### Yönetim Hizmetleri Genel Müdürlüğü
-##### İdari Hizmetler Dairesi Başkanlığı [?]
+##### İdari Hizmetler Dairesi Başkanlığı
 
 **Sayı:** 57955685
 **Konu:** İdari Hizmet Binası Kiralama İşlemleri
@@ -55,8 +54,6 @@ Konu : İdari Hizmet Binası Kiralama İşlemleri
 
 ### GENELGE
 ### 2022/5
-
-
 
 2021/14 sayılı Tasarruf Tedbirleri konulu Cumhurbaşkanlığı Genelgesi kapsamında merkez teşkilatça Cumhurbaşkanlığı izni alınmaksızın taşra teşkilatınca hizmet binası ve taşınmaz kiralama işlemleri yapılamaz.
 

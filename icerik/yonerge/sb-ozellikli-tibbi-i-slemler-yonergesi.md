@@ -16,7 +16,9 @@ kontrol_edildi: true
 
 ### ÖZELLİKLİ TIBBİ İŞLEMLER YÖNERGESİ
 
-[?] yapılan özellikli tıbbi işlemlerin tanımlanması ve bu işlemlere ilişkin puanların belirlenmesidir.
+#### Amaç
+
+**Madde 1-** (1) Bu Yönergenin amacı, Sağlık Bakanlığına bağlı ikinci ve üçüncü basamak sağlık tesislerinde görev yapan personelin özellikli tıbbi işlemlere esas ek ödeme tutarlarını belirleyen özellikli tıbbi işlemler net teşvik puanlarının tespiti amacıyla tabipler tarafından yapılan özellikli tıbbi işlemlerin tanımlanması ve bu işlemlere ilişkin puanların belirlenmesidir.
 
 #### Kapsam
 

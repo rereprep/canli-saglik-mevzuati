@@ -230,9 +230,9 @@ c) Sertifika ve/veya eğitim belgeleri,
 
 #### Denetim, sorumluluk ve yaptırımlar
 
-**MADDE 16 –** (1) İnme birimlerinin bu Yönerge hükümlerine uygun olarak yapılandırılması ve işleyişinden sağlık tesisi yöneticileri ve müdürlükler birinci derecede [?]
+**MADDE 16 –** (1) İnme birimlerinin bu Yönerge hükümlerine uygun olarak yapılandırılması ve işleyişinden sağlık tesisi yöneticileri ve müdürlükler birinci derecede sorumludur.
 
-(2) Birimler, Bakanlıkça gerekli hallerde Bakanlık denetim birimlerine yaptırılacak olağan ve olağan dışı denetimler haricinde, işleyiş ile alakalı yılda en az bir kere Ek-[?]’deki forma uygun olarak müdürlükler tarafından yerinde denetlenir.
+(2) Birimler, Bakanlıkça gerekli hallerde Bakanlık denetim birimlerine yaptırılacak olağan ve olağan dışı denetimler haricinde, işleyiş ile alakalı yılda en az bir kere Ek-7’deki forma uygun olarak müdürlükler tarafından yerinde denetlenir.
 
 (3) Bu Yönergede belirtilen usul ve esaslara göre yapılacak denetim sonuçlarına göre, tespit edilen eksiklik veya uygunsuzluklar giderilinceye kadar birimlere en fazla 6 (altı) aya kadar süre verilir. Süre sonunda eksiklik veya uygunsuzluğu giderilemeyen birimlerin tescili Bakanlıkça iptal edilir.
 

@@ -18,7 +18,7 @@ kontrol_edildi: true
 ## Genelge yazısı
 
 T.C. Sağlık Bakanlığı — Türkiye Halk Sağlığı Kurumu Başkanlığı
-**Sayı**: 90611027/[?]
+**Sayı**: 90611027/664
 Konu: Genelge
 09.07.2013
 
@@ -31,7 +31,7 @@ Konu: Genelge
 Bu hüküm gereği Sağlık Bakanlığı ve Çalışma ve Sosyal Güvenlik Bakanlığınca yayımlanan 2013/11 sayılı Genelge ekte yer almakta olup ilgili tüm kurumlara duyurulması, ilinizde iş sağlığı ve güvenliği hizmetlerini sunacak OSGB'lerin genelgede belirlenen usul ve esaslar çerçevesinde hızla kurularak hizmet sunumuna başlamasının sağlanması hususlarında bilgilerini ve gereğini arz ve rica ederim.
 
 **Bakan a. — Kurum Başkanı**
-İmza/isim: [?]
+İmza/isim:
 
 **Ek:** Genelge (2 sayfa)
 

@@ -36,7 +36,9 @@ Bilindiği üzere Bakanlığımız ön mali kontrol işlemleri, 5018 Sayılı Ka
 
 Olurlarınıza arz ederim.
 
-[?]
+Engin KARABAŞ
+
+Strateji Geliştirme Başkanı
 
 Uygun görüşle arz ederim. … / 2023
 
