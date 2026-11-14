@@ -20,10 +20,9 @@ T.C.
 SAĞLIK BAKANLIĞI
 Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : 11613162/010.06 - 00064130730
+Sayı : 11613162/010.06
 Konu : Yoğun Bakım Servislerinde Hasta Ziyareti Uygulamaları
 
-25/04/2019
 
 **GENELGE**
 2019/09
@@ -36,15 +35,13 @@ Hasta hakları mevzuatı gereği hasta yakınlarının, hastalarının sağlık 
 
 Bakanlığımızın sağlık alanındaki uygulamaları ve etkin düzenlemeleri neticesinde, aşağıda belirtilen usul ve esaslara riayet edilmesi ve gerekli şartların sağlanması kaydıyla, yoğun bakım servislerinin de hastane ziyaretleri kapsamına dâhil edilmesi uygun ve gerekli görülmektedir.
 
-Her hastanenin yapılacak değişiklikler için hızla kendi talimatlarını hazırlaması ve uygulamaya koyması gerekmektedir. Sağlık çalışanlarının ve hastane yönetimlerinin, yoğun bakım servislerinde hasta ziyaretinin hastaların iyileşme sürecine katkı sağladığını ve hasta yakınlarının en doğal hakkı olduğunu unutmaması esastır.
+Her hastanenin yapılacak değişiklikler için hızla kendi talimatlarını hazırlaması ve uygulamaya koyması, ayrıca sağlık çalışanlarını ve hasta yakınlarını uygulama değişikliği konusunda bilgilendirmesi gerekmektedir. Bu kapsamda aşağıda yer alan esaslara uyulmalıdır.
 
-Bu kapsamda;
+**(1) Yoğun Bakım Servislerine Ziyaretçi Kabulünde Uyulması Gereken Esaslar**
 
-(1) Yoğun Bakım Servislerinde Ziyaret Esasları
+a) Yeni doğan yoğun bakım servisleri dâhil, tüm yoğun bakım servislerine hasta ziyaretçisi kabul edilebilir. Ancak hastanın sağlık durumu dikkate alınarak, hekim tarafından ziyaret kısıtlaması getirilebilir. Aynı anda çok sayıda ziyaretçinin kabulü, hasta sağlığı ve güvenliği açısından risk oluşturabileceği için, ziyaretçi sayısına, servis bazında hekim tarafından karar verilir.
 
-a) Yoğun bakımda yatan hastaların birinci derece yakınlarının (anne, baba, eş, çocuk) ve hastanın belirlediği kişilerin ziyareti esastır.
-
-b) Ziyaret süresi ve zamanı, hastanın durumu, kliniğin uygunluğu ve hekimin değerlendirmesine göre belirlenir. Ancak ziyaret süresi kural olarak 15 dakikadan az olmamalıdır.
+b) Ziyaretlerde yoğun bakım hastalarının takip ve tedavisini aksatmamak ve hasta güvenliğini sağlamak için gerekli tedbirlerin alınması esastır. Bu nedenle, ziyaretçiler yoğun bakım servislerine, görevli sağlık personelinin refakatinde, diğer hastaları tedirgin ve rahatsız etmeyecek şekilde ve belirli bir düzen içerisinde alınmalıdır. Ziyaret süresi makul ve mümkün olan en kısa süreyle sınırlandırılmalıdır. Bu esnada ilgili sağlık personeli tarafından hasta yakınına, hastasının durumu hakkında anlaşılabilir şekilde gerekli bilgilendirmeler yapılmalıdır.
 
 c) Ziyaret öncesi ziyaretçilere, servis hekimi tarafından belirlenen sağlık personelince, eğitim verilmelidir. Ziyaretçi kendi hastası dışında başka hastaya ve hasta bakım malzemelerine temas etmemelidir.
 
@@ -58,7 +55,7 @@ f) Ziyaretçiler, izolasyon önlemlerinin alındığı hastaların bulunduğu al
 
 g) Toplumda bulaşıcı hastalık sıklığında artış olduğu durumlarda, hastane idaresi tarafından ziyaretçi kısıtlaması yapılabilir.
 
-(2) Yoğun Bakım Servisine Girerken Kişisel Koruyucu Malzemelerin Kullanımı
+**(2) Yoğun Bakım Servisine Girerken Kişisel Koruyucu Malzemelerin Kullanımı**
 
 a) Yoğun bakım servisine girişte (sağlık çalışanı, ziyaretçi vb.) mutlaka el hijyeni sağlanmalıdır. Bunun için yoğun bakım servisine girişte alkollü el antiseptiği veya el yıkama için gerekli olan lavabo, sıvı sabun ve kâğıt havlu bulundurulmalıdır.
 

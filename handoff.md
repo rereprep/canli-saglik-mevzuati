@@ -293,3 +293,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - SHFK Kararları 2026/4 (8 sayfa) ve 2026/5 (2 sayfa) RG görüntüsünden yazıldı; tüm sayılar Vision okumasıyla sayım olarak karşılaştırıldı (fark yok). Aile Hekimliği Tarama ve Takip Katsayısı değişiklik yönergesi (sbg-103722) kaynaktan yazıldı.
 - TİTCK Teşkilat ve Görevleri Yönetmeliği: mevzuat.gov.tr No 31825 404 veriyor, RG 05.04.2019 fihristinde yok → künye doğrulanamadı notu kondu.
 - Tam metni olmayan 12 kayıt kaldı (kaynak bağlantısı yok ya da RG arşivinde aranmadı: Köy Sağlık Memurları 1946, Vilayet Sıhhat Müdür 1958, Yeniden Kurulacak Köyler 1938, 6 genelge/yönerge künyesi, Verem genelgesi).
+
+## 2026-11-14 (12) — ÖNEMLİ BULGU: eski ajan metinlerinde atlama/uydurma
+- 2025 Yönerge-Genelge kitabından (sb-…) ve bazı saglik.gov.tr PDFlerinden eski ajanların aktardığı metinlerde cümle/paragraf ATLAMA, yeniden yazma ve yer yer UYDURMA var (kontrol_edildi true olsa da). Düzeltilenler: UHD Genelgesi 2024/8 (3,5 sayfa eksikti + uydurma bölüm + yanlış imza), Yoğun Bakım Ziyaret 2019/09 (iki paragraf uydurma).
+- Araçlar (calisma/): denetle.py (sözcük hizalama puanı), paragraf_denetle.py (kaynakta karşılığı olmayan paragraflar; yanlış alarmı çok), eksik_denetle.py / eksik_denetle14.py (kaynakta olup metinde olmayan parçalar — GÜVENİLİR), bosluk.py → bosluklar.json (60 boşluk, bağlamıyla), goster.py, kes.py (sayfa kesiti).
+- Yeniden yazım: calisma/yeniden.json listesindeki 11 belge luna ajanlarına sayfa görüntülerinden baştan yazdırılıyor (çıktı calisma/yeniden/*.md); kabul ölçütü: eksik_denetle ile boşluk kalmaması + paragraf denetimi.
