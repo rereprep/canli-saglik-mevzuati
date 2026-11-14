@@ -105,7 +105,9 @@ yazısı ile Müdürlüğe başvuruda bulunur.
 
 8) Birimler, Ayakta Teşhis Ve Tedavi Yapılan Ozel Sağlık Kuruluşları Hakkında Yönetmelikte yer alan müessese veya poliklinik fiziki şartlarını ile tıbbi donanımı taşımak ve ilgili hekim gözetimi ve kontrolünde bulunmak zorundadır. Konaklama tesisinde açılacak diyaliz birimleri Diyaliz Merkezleri Hakkında Yönetmeliğine göre açılır, işletilir ve denetlenir.
 
-D. Konaklama tesislerinde açılacak sağlık ünitesi ile birimler için ortak uygulamalar dışındakilere bu kapsamda hizmet verilemez.
+D. Konaklama tesislerinde açılacak sağlık ünitesi ile birimler için ortak uygulamalar
+
+1) Konaklama tesisinde açılacak sağlık ünitesi ve birimler, sadece konaklama tesisinde konaklayanlara sağlık hizmeti sunar. Konaklama tesisinde konaklayan kişiler dışındakilere bu kapsamda hizmet verilemez.
 
 2) Sağlık ünitesinde ve birimlerde çalışacak hekimlerin listesi ve çalışma programları her ayın başında aylık olarak Müdürlüğe bildirilir ve çalışma listeleri Müdürlüğe onaylatıhır.
 

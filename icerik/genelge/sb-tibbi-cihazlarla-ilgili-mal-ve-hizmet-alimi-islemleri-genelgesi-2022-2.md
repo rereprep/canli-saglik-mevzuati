@@ -108,7 +108,7 @@ http://www.titck.gov.tr adresinde yer alan "Sağlık Kuruluşları Olumsuz Olay 
 
 2.12. Şartnamelerde alnacak olan ürün ve cihazların Tıbbi Cihaz Yönetmeliginin Tanımlar başlıklı 3. maddesinin (o) bendinde belirtilen Tıbbi Cihaz tanımında belirtilen uygun olan en az bir kullanım amacı belirtilecektir.
 
-2.13. Tıbbi Cihaz Yönetmelikleri kapsamındaki ürün veya cihazların tedarik süreçlerinin yûrütülür.
+2.13. Tıbbi Cihaz Yönetmelikleri kapsamındaki ürün veya cihazların tedarik süreçlerinin malzeme ve tedarikçilerine ilişkin kayıt, tescil, satış yetki belgesi ve uyarı sistemi takip ve kontrolleri ile Türkiye İlaç ve Tıbbi Cihaz Kurumu görüş bildirimlerine ilişkin iş ve işlemler İl Sağlık Müdürlüklerinin bünyesindeki İlaç ve Tıbbi Cihaz Hizmetleri Başkanlığı tarafından yürütülür.
 
 2.14. Tıbbi Cihaz Yönetmelikleri kapsamındaki ürün ve cihazların tedarik süreçlerinde terminoloji birliğini sağlamak esastır. Tıbbi cihaz alımlannda tüm ürün, cihaz, yedek parça, aksesuar, sarf ve sistemlere ilişkin tedarik zinciri içerisinde (planlama, ihtiyaç tespit, ihale, teklif, belge kontrol, sözleşme, fatura, muhasebe, stok, satış sonrası hizmetler gibi) tüm doküman ve kayıt işlemlerinde ÇKYS / MKYS'de belirtilen malzeme tamımları kullamlacakuır. Malzeme tamımlarının değerlendirilmesi ve kontrolleri ile Kamu Hastaneleri Genel Müdürlüğü görüş bildirimlerine ilişkin iş ve işlemler İl Sağlık Müdürlüklerinin bünyesindeki Kamu Hastaneleri Hizmetleri Başkanlığı tarafından yürütülür.
 

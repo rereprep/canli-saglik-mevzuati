@@ -557,6 +557,8 @@ b) Çevre sağlığı ile ilgili yazışma, raporlama, dosyalama, arşiv ve ista
 
 c) Çevre sağlığı ile ilgili kayıt ve formları tutar,
 
+ç) Her türlü içme ve kullanma sularının sağlıklı olup olmadıklarının kontrolünü yapar, numune alarak ilgili birime gönderir, kirli suların ıslahı için gerekli önlemleri alır, bakiye klor tespiti yapar,
+
 d) Toplumun yiyip içmesine, konaklamasına, eğlenmesine özgü yerler, konutlar, iş yerleri ve okulların sağlık koşullarına uygun olup olmadığını ilgili mevzuat hükümlerine göre denetler; sağlığa zararlı hususların düzeltilmesi amacıyla ilgililere bilgi verir ve sonuçlarını izler,
 
 e) Cezaevleri, havaalanları, limanlar ve kara nakil vasıtalarını çevre sağlığı yönünden
