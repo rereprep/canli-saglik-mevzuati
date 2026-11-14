@@ -283,3 +283,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - sbg-11112 Verem Savaşı Genelgesi: tarama makineyle de okunamıyor; metin yedeğe alındı, sayfa künye + kaynak bağlantısı.
 - Polio İmportasyon 2002/67: sb- kopyası öne alındı, şemalar görüntüden yazıldı. Ticari Alanlar 2011/43: sbg-103525 öne alındı (sb- kopyası ham OCR).
 - Denetim küçük değişiklikleri (tek cümle) her zaman yakalamaz; düşük çözünürlüklü taramalarda puan 0.5-0.7 olur ama metin doğru olabilir. HSH Mevzuat Kitabı 2025 (63 belge), hsgm pdf (40), RG arşiv (30) HENÜZ denetlenmedi.
+
+## 2026-11-14 (10)
+- Denetim tamamlananlar: saglik.gov.tr/hsgm PDFleri (252 belge, medyan 0.97), 2025 Yönerge-Genelge kitabı (229, 0.95), HSH Mevzuat Kitabı 2025 (80, 0.97; mevzuat-kitabi.pdf, pdf sayfa = kitap sayfa+6, calisma/q4), RG arşiv (31, 0.95; PDFlerin kendi metin katmanı, calisma/q5), 2026/2022/2024/2020 kitapları (22 belge, calisma/q6_*; kaynak_pdf_sayfa alanı doğrudan pdf sayfası). Bu gruplarda yeni uydurma bulunmadı.
+- Denetlenmeyen: kaynak bağlantısı olmayan 9 sbg-1034xx/1035xx belgesi, cb-2019 (2), ilaç fiyat kararı, aifd kaynaklı yönerge, PDFi bulunamayan 13 saglik.gov.tr belgesi.
+- Araç: araclar/denetle_kaynak.py (calisma/denetle.py kopyası; yollar calisma/ klasörüne göre).
