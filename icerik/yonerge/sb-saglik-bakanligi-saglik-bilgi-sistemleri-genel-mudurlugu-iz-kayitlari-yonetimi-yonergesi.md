@@ -40,13 +40,13 @@ Standart ve Akreditasyon Dairesi Başkanı
 
 Uygun Görüşle Arz Ederim:
 
-04/ [?] /2021
+04/ … /2021
 
 Şahin AYDIN
 
 Sağlık Bilgi Sistemleri Genel Müdür Yardımcısı V.
 
-OLUR [?] / 2021
+OLUR … / 2021
 
 Dr. Mustafa Mahir ÜLGÜ
 

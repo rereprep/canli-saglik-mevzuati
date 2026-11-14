@@ -36,13 +36,13 @@ Mehmet İSLAMOĞLU
 
 Genel Müdür
 
-Uygun görüşle arz ederim. [?]
+Uygun görüşle arz ederim. …/…/…
 
 Prof. Dr. Muhammet GÜVEN
 
 Bakan Yardımcısı
 
-OLUR [?] / 2019
+OLUR … / 2019
 
 Dr. Fahrettin KOCA
 

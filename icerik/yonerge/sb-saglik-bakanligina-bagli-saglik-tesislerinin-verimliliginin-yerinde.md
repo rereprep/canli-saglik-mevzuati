@@ -36,19 +36,19 @@ Prof. Dr. Murat ALPER
 
 Genel Müdür
 
-Uygun görüşle arz ederim. [?]
+Uygun görüşle arz ederim. …/…/…
 
 Dr. Şuayip BİRİNCİ
 
 Müsteşar Yardımcısı
 
-Uygun görüşle arz ederim. [?] / 2018
+Uygun görüşle arz ederim. … / 2018
 
 Prof. Dr. Eyüp GÜMÜŞ
 
 Müsteşar
 
-OLUR [?] / 2018
+OLUR … / 2018
 
 Dr. Ahmet DEMİRCAN
 

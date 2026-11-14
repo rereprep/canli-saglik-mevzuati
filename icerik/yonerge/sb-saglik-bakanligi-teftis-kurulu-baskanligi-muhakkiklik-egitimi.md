@@ -38,13 +38,13 @@ Teftiş Kurulu Başkanlığının düzenlemiş olduğu Muhakkiklik eğitimlerini
 
 Hukuk Hizmetleri Genel Müdürü
 
-Uygun görüşle arz ederim. [?] /11/2024
+Uygun görüşle arz ederim. … /11/2024
 
 Hüseyin Kürşat KIRBIYIK
 
 Bakan Yardımcısı
 
-OLUR [?] / 2024
+OLUR … / 2024
 
 Ek: Sağlık Bakanlığı Teftiş Kurulu Başkanlığı Muhakkiklik Eğitimi Yönergesi Taslağı (7 sayfa)
 

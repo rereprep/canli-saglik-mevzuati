@@ -40,13 +40,13 @@ EKLER:
 
 1- Yönerge ([?] Sayfa)
 
-Uygun görüşle arz ederim. [?]
+Uygun görüşle arz ederim. …/…/…
 
 Prof. Dr. Nihat TOSUN
 
 **Müsteşar**
 
-OLUR [?]
+OLUR …/…/…
 
 **Dr. Mehmet MÜEZZİNOĞLU**
 

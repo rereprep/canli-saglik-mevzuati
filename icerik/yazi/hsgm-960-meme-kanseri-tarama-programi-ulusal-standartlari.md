@@ -59,7 +59,7 @@ Doç. Dr. Murat GÜLTEKİN
 Daire Başkanı
 
 OLUR
-[?]/[?]/2012
+…/…/2012
 
 Yrd. Doç. Dr. Mustafa AKSOY
 Kurum Başkanı

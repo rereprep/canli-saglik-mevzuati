@@ -50,7 +50,7 @@ Prof. Dr. Emine ALP MEŞE
 
 Bakan Yardımcısı
 
-OLUR [?] / 2019
+OLUR … / 2019
 
 Dr. Fahrettin KOCA
 

@@ -40,7 +40,7 @@ Prof. Dr. İrfan ŞENCAN
 
 Genel Müdür
 
-Uygun görüşle arz ederim. [?] / 2010
+Uygun görüşle arz ederim. … / 2010
 
 Prof. Dr. Nihat TOSUN
 

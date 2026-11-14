@@ -36,7 +36,7 @@ Dr. Mehmet KOCA
 
 Yönetim Hizmetleri Genel Müdürü
 
-OLUR [?] / 2023
+OLUR … / 2023
 
 Dr. Fahrettin KOCA
 

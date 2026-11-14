@@ -36,25 +36,25 @@ BAKANLIK MAKAMINA
 
 Teknolojik gelişmeler, uygulamadan doğan ihtiyaçlar ve 694 sayılı Kanun Hükmünde Kararname ile değişen Bakanlık merkez ve taşra teşkilatının yeni yapısı dikkate alınarak güncellenen Bilgi Güvenliği Politikaları Yönergesi ekte bilgilerinize sunulmaktadır. Bu çerçevede güncellenen Yönerge'nin yürürlüğe konulması için gereğini takdir ve tensiplerinize arz ederim.
 
-[?] Mahir ÜLĞÜ
+…/…/… Mahir ÜLĞÜ
 
 Genel Müdür
 
 Ek: Yönerge (7 sayfa)
 
-Uygun görüşle arz ederim. [?] / 2018
+Uygun görüşle arz ederim. … / 2018
 
 Dr. Şuayip BİRİNCİ
 
 Müsteşar Yardımcısı
 
-Uygun görüşle arz ederim. [?] / 2018
+Uygun görüşle arz ederim. … / 2018
 
 Prof. Dr. Eyüp GÜMÜŞ
 
 Müsteşar
 
-OLUR [?] / 2018
+OLUR … / 2018
 
 Dr. Ahmet DEMİRCAN
 

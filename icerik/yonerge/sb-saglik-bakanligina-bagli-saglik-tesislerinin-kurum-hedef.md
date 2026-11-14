@@ -40,13 +40,13 @@ Doç. Dr. A. Zülfikar AKELMA
 
 Genel Müdür
 
-Uygun görüşle arz ederim. [?] / 01 / 2023
+Uygun görüşle arz ederim. … / 01 / 2023
 
 Doç. Dr. Tolga TOLUNAY
 
 Bakan Yardımcısı
 
-OLUR [?] / 01 / 2023
+OLUR … / 01 / 2023
 
 Dr. Fahrettin KOCA
 

@@ -36,13 +36,13 @@ Dr. M. Mahir ÜLGÜ
 
 Sağlık Bilgi Sistemleri Genel Müdürü V.
 
-Uygun görüşle arz ederim. [?] / 2022
+Uygun görüşle arz ederim. … / 2022
 
 Dr. Şuayip BİRİNCİ
 
 Bakan Yardımcısı
 
-OLUR [?] / 2022
+OLUR … / 2022
 
 Dr. Fahrettin KOCA
 

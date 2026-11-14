@@ -34,13 +34,13 @@ Mehmet İSLAMOĞLU
 
 Genel Müdür
 
-Uygun görüşle arz ederim. [?] / 2021
+Uygun görüşle arz ederim. … / 2021
 
 Halil ELDEMİR
 
 Bakan Yardımcısı
 
-OLUR [?] / 2021
+OLUR … / 2021
 
 Dr. Fahrettin KOCA
 
@@ -78,7 +78,7 @@ Genel Müdür
 
 OLUR
 
-[?] / 2019
+… / 2019
 
 Dr. Fahrettin KOCA
 

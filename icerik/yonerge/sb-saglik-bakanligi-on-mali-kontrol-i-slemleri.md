@@ -38,13 +38,13 @@ Olurlarınıza arz ederim.
 
 [?]
 
-Uygun görüşle arz ederim. [?] / 2023
+Uygun görüşle arz ederim. … / 2023
 
 Prof. Dr. Sabahattin AYDIN
 
 **Bakan** Yardımcısı
 
-OLUR [?] / 2023
+OLUR … / 2023
 
 Dr. Fahrettin KOCA
 

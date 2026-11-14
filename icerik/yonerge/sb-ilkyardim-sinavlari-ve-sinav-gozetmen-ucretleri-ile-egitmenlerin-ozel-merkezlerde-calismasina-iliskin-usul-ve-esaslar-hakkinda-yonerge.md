@@ -36,12 +36,12 @@ Tarkan ALKAN
 Müsteşar Yardımcısı
 
 Uygun Görüşle Arz Ederim
-[?]
+…/…/…
 Prof. Dr. Eyüp GÜMÜŞ
 Müsteşar
 
 OLUR
-[?]
+…/…/…
 Dr. Mehmet MÜEZZİNOĞLU
 Bakan
 

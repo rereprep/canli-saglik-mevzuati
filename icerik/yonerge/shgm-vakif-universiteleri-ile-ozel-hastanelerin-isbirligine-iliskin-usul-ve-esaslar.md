@@ -29,17 +29,17 @@ Prof. Dr. Nurullah OKUMUŞ
 Genel Müdür
 
 Uygun Görüşle Arz Ederim
-[?]/[?]/2017
+…/…/2017
 Uzm. Dr. İsmail DEMİRTAŞ
 **Müsteşar** Yardımcısı
 
 Uygun Görüşle Arz Ederim
-[?]/[?]/2017
+…/…/2017
 Prof. Dr. Eyüp GÜMÜŞ
 Müsteşar
 
 OLUR
-[?]/[?]/2017
+…/…/2017
 Prof. Dr. Recep AKDAĞ
 Bakan
 

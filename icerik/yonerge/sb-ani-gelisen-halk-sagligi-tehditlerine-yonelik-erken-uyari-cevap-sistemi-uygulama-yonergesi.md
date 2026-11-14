@@ -33,12 +33,12 @@ Doç. Dr. [?]
 Halk Sağlığı Genel Müdürü
 
 Uygun görüşle arz ederim.
-[?]
+…/…/…
 Prof. Dr. Emine ALP MEŞE
 Bakan Yardımcısı
 
 OLUR
-[?]
+…/…/…
 Dr. Fahrettin KOCA
 Bakan
 

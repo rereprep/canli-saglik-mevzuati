@@ -35,13 +35,13 @@ Av. Ülker KUĞU
 Hukuk Hizmetleri Genel Müdürü
 
 Uygun görüşle arz ederim.
-[?]/[?]/2025
+…/…/2025
 
 Hüseyin Kürşat KIRBIYIK
 Bakan Yardımcısı
 
 OLUR
-[?]/[?]/2025
+…/…/2025
 
 Prof. Dr. Kemal MEMİŞOĞLU
 Bakan

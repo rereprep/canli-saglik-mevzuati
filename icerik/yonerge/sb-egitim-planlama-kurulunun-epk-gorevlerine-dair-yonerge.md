@@ -31,12 +31,12 @@ Prof. Dr. Ahmet TEKİN
 Sağlık Hizmetleri Genel Müdürü
 
 Uygun görüşle arz ederim.
-[?]
+…/…/…
 Prof. Dr. Sabahattin AYDIN
 Bakan Yardımcısı
 
 OLUR
-[?]
+…/…/…
 Uzm. Dr. Fahrettin KOCA
 Bakan
 

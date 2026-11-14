@@ -121,7 +121,7 @@ b-Destek aşılama çalışmaları:
 
 - Poliomyelit açısından yüksek riskli bölgelerde destek aşılama çalışmalarına (sNIDs ve mop-up) devam edilerek bireysel ve toplumsal bağışıklık yüksek düzeyde tutulmalıdır.
 - Yürütülecek destek aşılama çalışmalarında (sNIDs ve mop-up) yüksek aşılama oranlarına ulaşılmalı ve aşısız çocuk kalmamalıdır.
-- Sınır kapılarında aşılama: Özellikle vahşi poliovirüs dolaşımının olduğu ülkelerden ülkemize olan girişlerin gerçekleştiği sınır kapılarında Hudut ve Sahiller Sağlık Genel [?] ve eksik aşılı 0-59 aylık çocuklara bir doz OPV uygulanmalıdır.
+- Sınır kapılarında aşılama: Özellikle vahşi poliovirüs dolaşımının olduğu ülkelerden ülkemize olan girişlerin gerçekleştiği sınır kapılarında Hudut ve Sahiller Sağlık Genel Müdürlüğü birimleri ile işbirliği içinde 0-59 ay çocukların aşılanma durumları sorgulanmalı ve eksik aşılı 0-59 aylık çocuklara bir doz OPV uygulanmalıdır.
 - İl Sağlık Müdürlükleri mülteci olarak veya kaçak girişle ülkemize giriş yapan özellikle 0-59 aylık çocuklara bir doz OPV uygulamalı ve rutin aşılama şemasına göre eksik aşılarını tamamlamalıdır.
 
 ### OLASI İMPORTE VAHŞİ POLİOVİRÜS VE AŞI TÜREVİ POLİOVİRÜS TESPİTİ VE İZLENMESİ
@@ -191,7 +191,7 @@ Bir vahşi poliovirüsün izole edilmesi ulusal bir acil durum olarak değerlend
 
 Böyle bir durum gerçekleştiğinde laboratuvar tarafından 24 saat içinde TSHGM haberdar edilecek ve TSHGM tarafından en geç 24 saat içinde tüm iller ve DSÖ bilgilendirilecektir.
 
-Her vahşi poliovirüs izolasyonu derhal araştırılacaktır. Virüsün kaynağının tespiti amacıyla derhal tam bir klinik, virolojik ve epidemiyolojik araştırma başlatılacaktır. Vaka araştırması, kişinin veya temaslısının virüsle endemik bir ülkede karşılaşıp karşılaşmadığını ortaya çıkarmak amacıyla tüm seyahat ve temas öyküsünü, ilgili diğer bilgileri ve epidemiyolojik verileri kapsayacak şekilde olacaktır. Bölge referans laboratuvarında genetik inceleme yoluyla virüsün coğrafik kökeni [?] 48 saat içinde güçlendirilmiş aktif sürveyans çalışmaları paralitik ve non paralitik vakaları da kapsayacak şekilde başlatılacaktır.
+Her vahşi poliovirüs izolasyonu derhal araştırılacaktır. Virüsün kaynağının tespiti amacıyla derhal tam bir klinik, virolojik ve epidemiyolojik araştırma başlatılacaktır. Vaka araştırması, kişinin veya temaslısının virüsle endemik bir ülkede karşılaşıp karşılaşmadığını ortaya çıkarmak amacıyla tüm seyahat ve temas öyküsünü, ilgili diğer bilgileri ve epidemiyolojik verileri kapsayacak şekilde olacaktır. Bölge referans laboratuvarında genetik inceleme yoluyla virüsün coğrafik kökeni belirlenecektir. 48 saat içinde güçlendirilmiş aktif sürveyans çalışmaları paralitik ve non paralitik vakaları da kapsayacak şekilde başlatılacaktır.
 
 Bu kapsamda;
 
@@ -213,7 +213,7 @@ Risk altındaki bölge ve grupların aşılama oranları hızla gözden geçiril
 
 Laboratuvarda polio virüslerin kontrolü ve yok edilmesi (containment) Ulusal faaliyet planı yeniden gözden geçirilecektir.
 
-Kapsamlı bir araştırmadan sonra, vakalar importe ve yerli olarak sınıflandırılacaktır. Eğer genetik inceleme verileri virüsün başka bir ülkede dolaşan virüs olduğunu gösterirse virüs importe olarak kabul edilecektir. Eğer genetik inceleme verileri virüsün ilk kez saptanan bir genotip veya ülkede daha önce de varolan virüs olduğunu gösterirse, bunun tersini ispatlayacak inandırıcı epidemiyolojik kanıt ve bölgede yüksek kaliteli AFP sürveyansı olmadıkça virüs yerli olarak kabul [?]
+Kapsamlı bir araştırmadan sonra, vakalar importe ve yerli olarak sınıflandırılacaktır. Eğer genetik inceleme verileri virüsün başka bir ülkede dolaşan virüs olduğunu gösterirse virüs importe olarak kabul edilecektir. Eğer genetik inceleme verileri virüsün ilk kez saptanan bir genotip veya ülkede daha önce de varolan virüs olduğunu gösterirse, bunun tersini ispatlayacak inandırıcı epidemiyolojik kanıt ve bölgede yüksek kaliteli AFP sürveyansı olmadıkça virüs yerli olarak kabul edilecektir.
 
 **Yapılacak Aktiviteler:**
 
@@ -235,7 +235,7 @@ Kapsamlı bir araştırmadan sonra, vakalar importe ve yerli olarak sınıfland�
 - Planlanan ve yürütülen faaliyetlerle ilgili ilçelerden günlük rapor alınacak ve Bakanlık merkezine günlük olarak iletilecektir. Merkez ekibin belirleyeceği tarihten sonra günlük raporlar haftalık olarak bildirilecektir.
 - AFP vakalarının aktif araştırılması için derhal güçlendirilmiş aktif sürveyansa başlanacaktır. AFP vakalarının tespitine yönelik sahada aktif vaka araştırmasına başlanılacaktır.
 - Aşılama çalışmalarına başlamadan önce vakanın ev halkı ve yakın temaslılarından gaita numuneleri alınacaktır.
-- Derhal salgın kontrol önlemi olarak aşılama cevabı başlatılacaktır. Aşılama tek doz olarak en az bir il düzeyinde (vakayı çevreleyen ilçeler) geniş kapsamlı, 5 yaş altındaki tüm çocukları kapsayacak şekilde hemen gerçekleştirilecektir. Yaş sınırı epidemiyolojik bulgulara göre yükseltilebilir. Ulusal düzeyde planlanacak aşılama cevabının (mop-up, sNID, UAG) planlanıp başlatılması ile de aynı bölgelerde aşısız çocuk kalmayacak şekilde 2 tur halinde tekrar aşılama [?]
+- Derhal salgın kontrol önlemi olarak aşılama cevabı başlatılacaktır. Aşılama tek doz olarak en az bir il düzeyinde (vakayı çevreleyen ilçeler) geniş kapsamlı, 5 yaş altındaki tüm çocukları kapsayacak şekilde hemen gerçekleştirilecektir. Yaş sınırı epidemiyolojik bulgulara göre yükseltilebilir. Ulusal düzeyde planlanacak aşılama cevabının (mop-up, sNID, UAG) planlanıp başlatılması ile de aynı bölgelerde aşısız çocuk kalmayacak şekilde 2 tur halinde tekrar aşılama yapılacaktır.
 - Olası virüs dolaşımının tespitine yönelik ek sürveyans çalışmaları ve aşılama sonrası dolaşımın durduğunun belgelenmesine yönelik faaliyetler merkez ekiple koordineli bir şekilde yürütülecektir.
 
 3.c VAKANIN SAPTANDIĞI BÖLGE İLE KOMŞULUĞU OLMAYAN DİĞER İLLERDE YÜRÜTÜLECEK AKTİVİTELER

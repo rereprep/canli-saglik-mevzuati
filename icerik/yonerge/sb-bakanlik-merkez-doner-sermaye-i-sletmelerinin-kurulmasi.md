@@ -31,12 +31,12 @@ Mehmet ATASEVER
 Başkan
 
 Uygun görüşle arz ederim.
-[?]
+…/…/…
 Prof. Dr. Eyüp GÜMÜŞ
 Müsteşar
 
 **OLUR**
-[?]
+…/…/…
 Dr. Mehmet MÜEZZİNOĞLU
 Bakan
 

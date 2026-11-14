@@ -34,7 +34,7 @@ kontrol_edildi: true
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
-a) [?]
+a) Bakanlık: Sağlık Bakanlığını,
 
 b) Başarı oranı: Aylık olarak yapılan tarama ve takip sayısı ile var ise önceki dönemde hedefin (%100) üzerinde yapılan sayının toplamının, ilgili ayda yapılması gereken sayıya oranının yüzde cinsinden değerini ve takip sonucunda ilgili kriterler için amaçlanan sonuca ulaşma oranını,
 
@@ -46,9 +46,9 @@ d) Kriter katsayısı: Her kriter için başarı oranına göre belirlenen katsa
 
 e) Periyod: Her hastalık için hedef nüfusa yönelik olarak ilgili kılavuzlarda belirlenen tarama, takip ve sonuca yönelik işlemlerinin ay cinsinden yapılma sıklığını,
 
-f) Sonuç: Hastaların tarama ve takip süreçlerinde yapılacak olan iş ve işlemlerin [?],
+f) Sonuç: Hastaların tarama ve takip süreçlerinde yapılacak olan iş ve işlemlerin neticesinde meydana gelecek değişimleri,
 
-g) Süreç Yönetimi: Kişilerin, kayıtlı olduğu aile hekimliği biriminde sağlık hizmeti alma [?],
+g) Süreç Yönetimi: Kişilerin, kayıtlı olduğu aile hekimliği biriminde sağlık hizmeti alma yoğunluğunu,
 
 ğ) Takip: Hastalar için yapılması gereken iş ve işlemleri,
 

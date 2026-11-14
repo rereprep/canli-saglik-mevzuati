@@ -222,11 +222,11 @@ c) Sertifika ve/veya eğitim belgeleri,
 
 **MADDE 15 –** (1) İnme birimlerinde görevlendirilen uzman tabip, hemşire ve diğer sağlık personelinin Bakanlıkça belirlenen usul ve esaslar doğrultusunda genel yoğun bakım ve nöroloji yoğun bakım ve resüsitasyon eğitimleri almaları sağlanır. Nöroloji uzmanı tabipler ile beyin ve sinir cerrahisi uzmanı tabipler yoğun bakım konusundaki eğitimden muaftır.
 
-(2) Akut inmeli hastalara girişimsel işlem uygulayacak uzman tabipler, nörogirişim uygulamaları konusunda Bakanlıkça belirlenen usul ve esaslar dahilinde eğitime tabi tutulur. Bu Yönergenin 8 inci maddesinde belirtilen kriterleri haiz olduğunu belgeleyen uzman [?]
+(2) Akut inmeli hastalara girişimsel işlem uygulayacak uzman tabipler, nörogirişim uygulamaları konusunda Bakanlıkça belirlenen usul ve esaslar dahilinde eğitime tabi tutulur. Bu Yönergenin 8 inci maddesinde belirtilen kriterleri haiz olduğunu belgeleyen uzman tabipler bu eğitimden muaftır.
 
-(3) Müdürlükçe görevlendirilecek en az bir nöroloji uzmanı tarafindan 112 İl Ambulans Servisinde çalışan tabip ve personele bu Yönergeye ilişkin eğitim verilir. Eğitimin müfredatı, bilim komisyonu marifetiyle hazırlanır. Eğitim alamayan personel için yılda en az [?]
+(3) Müdürlükçe görevlendirilecek en az bir nöroloji uzmanı tarafindan 112 İl Ambulans Servisinde çalışan tabip ve personele bu Yönergeye ilişkin eğitim verilir. Eğitimin müfredatı, bilim komisyonu marifetiyle hazırlanır. Eğitim alamayan personel için yılda en az bir kez eğitim düzenlenir.
 
-(4) Akut inme konusunda, müdürlüklerin koordinasyonunda ilgili kurum ve kuruluşlarla işbirliği yapılarak ulusal ve yerel iletişim kanalları aracılığıyla ve bilgilendirici broşür ve posterler kullanılarak halka, hastalara ve hasta yakınlarına yönelik eğitim [?]
+(4) Akut inme konusunda, müdürlüklerin koordinasyonunda ilgili kurum ve kuruluşlarla işbirliği yapılarak ulusal ve yerel iletişim kanalları aracılığıyla ve bilgilendirici broşür ve posterler kullanılarak halka, hastalara ve hasta yakınlarına yönelik eğitim faaliyetleri yürütülür.
 
 #### Denetim, sorumluluk ve yaptırımlar
 

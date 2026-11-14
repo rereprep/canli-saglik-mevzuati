@@ -36,13 +36,13 @@ Av. Ülker KUGU
 
 Hukuk Hizmetleri Genel Müdürü
 
-Uygun görüşle arz ederim. [?] / 11 / 2024
+Uygun görüşle arz ederim. … / 11 / 2024
 
 Hüseyin Kürşat KIRBIYIK
 
 Bakan Yardımcısı
 
-OLUR [?] / 2024
+OLUR … / 2024
 
 Prof. Dr. Kemal MEMİŞOĞLU
 

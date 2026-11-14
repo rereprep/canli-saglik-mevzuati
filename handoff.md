@@ -269,3 +269,6 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - ASHGM Afetlerde Sağlık Hizmetleri/UMKE Yönergesi: kelime ortasındaki 331 büyük Ş düzeltildi.
 - Temiz kopyası kısa olan 5 çift incelendi: uzun (taranmış) kopya daha eksiksiz (ek/form içeriyor) → değişiklik yok.
 - Kalan gerçek iş: [?] işaretleri (kalite.json soru alanı), Verem Savaşı Genelgesi için daha iyi kaynak.
+
+## 2026-11-14 (7)
+- [?] temizliği: 2025 kitabının ilgili 258 sayfası (pdf sayfa = kitap sayfa + 14) calisma/q altına çıkarılıp Vision ile okundu (calisma/q/j, aday.json). 10 gerçek eksik kaynak sayfadan dolduruldu; onay bloklarındaki boş tarih yerleri (…/…/yyyy) [?] yerine … ile yazıldı (~55 yer). Kalan [?] çoğunlukla el yazısı evrak sayıları, şema/ek görselleri ve Verem genelgesi.

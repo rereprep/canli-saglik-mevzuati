@@ -40,13 +40,13 @@ Genel Müdür
 
 Ek: Yönerge Metni (6 sayfa)
 
-Uygun görüşle arz ederim. [?] / 2020
+Uygun görüşle arz ederim. … / 2020
 
 Prof. Dr. Muhammet GÜVEN
 
 Bakan Yardımcısı
 
-OLUR [?] / 2020
+OLUR … / 2020
 
 Dr. Fahrettin KOCA
 

@@ -38,13 +38,13 @@ Doç. Dr. Eray ÇINAR
 
 Genel Müdür
 
-Uygun görüşle arz ederim. [?]
+Uygun görüşle arz ederim. …/…/…
 
 Dr. Şuayip BİRİNCİ
 
 Bakan Yardımcısı
 
-OLUR [?]
+OLUR …/…/…
 
 Dr. Fahrettin KOCA
 

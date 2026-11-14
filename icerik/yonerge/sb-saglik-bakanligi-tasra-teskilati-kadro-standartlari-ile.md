@@ -38,13 +38,13 @@ Müsteşar Yardımcısı
 
 Ek: Yönerge
 
-Uygun Görüşle Arz Ederim. [?] / 2017
+Uygun Görüşle Arz Ederim. … / 2017
 
 Prof. Dr. Eyüp GÜMÜŞ
 
 Müsteşar
 
-OLUR [?] / 2017
+OLUR … / 2017
 
 Dr. Ahmet DEMİRCAN
 
