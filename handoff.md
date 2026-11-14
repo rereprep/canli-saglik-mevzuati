@@ -304,3 +304,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Elle yama: sbg-11275 (ç bendi), Tıbbi Cihaz 2022/2 (2.13), Konaklama Tesisleri 2013/18 (D.1).
 - Kalan boşluklu belgeler (luna 429 verdi, yeniden denenecek): Tam Gün 2014/8 (q 205-207), Ticari Alanlar 2025/3 (q 902-906), sbg-25603 (tablo hücreleri), sbg-10730 (tablo), sb-tsm 2013/11 (kaynak sayfa aralığı fazladan belge içeriyor olabilir), Yiyecek Yardımı 2013/13 ve Geçici Koruma (tarama bozuk; OCR karşılaştırması sonuç vermiyor).
 - Ajan notu: luna bazen görüntüyü açmadan \"yapamadım/yanlış sayfa\" diyor; parçayı ≤7 sayfa tut, view_image kullanmasını açıkça yaz.
+
+## 2026-11-14 (14)
+- 11971 sayılı CK (Üniversite Hastaneleri Koordinasyon Komitesi, RG 14.11.2026/33430) görüntüden yazılarak eklendi.
+- TSM Genelgesi 2013/11 boşluğu yanlış alarm: kitap sayfası 516 sonraki belgeye (ASM Kiralama) ait.
