@@ -314,3 +314,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Yeniden yazım denenip KULLANILMAYANLAR (aday mevcut metinden iyi çıkmadı; fark tablo/ekran görüntüsü/bozuk tarama kaynaklı): sbg-10730, sbg-34666, sb-saglik-yapilari.
 - YARIM: sbg-103624 (26 s.; parça 04-05 hazır, 01-03 luna 429/takılma) ve sbg-25603 (28 s.; 01,02,04,05 hazır, 03 eksik). Parçalar calisma/yeniden/; iş listesi calisma/yeniden2.json. Eksik parçalar gelince calisma/kabul2.py ile kıyaslayıp uygula.
 - Kalan bosluklar.json kayıtlarının çoğu şema, e-imza altbilgisi, form/tablo sıralaması kaynaklı yanlış alarm.
+
+## 2026-11-14 (16)
+- sbg-103624 (Asgari Teknik Standartlar 2012/…): 26 sayfa görüntüden yeniden aktarıldı (calisma/yeniden/sbg-103624_TUM.md); eski metinde iki sütunlu karşılaştırma sayfaları iç içe geçmişti, şimdi tablo. s.7 teknik çizim → not. 01a parçası sayfa aşımı yapmıştı, örtüşme kesildi.
+- sbg-25603 (Klinik Kalite Rehberi): yeniden yazım mevcut metinle eşdeğer çıktı (şüpheli parçaların hepsi mevcut metinde var; fark tablo hücre sırası) → DEĞİŞTİRİLMEDİ.
+- Kaynak denetimi işi tamam; açık kalan: Yiyecek Yardımı 2013/13 ve Geçici Koruma yönergesi (tarama bozuk, doğrulanamıyor).
