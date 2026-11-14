@@ -308,3 +308,9 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 ## 2026-11-14 (14)
 - 11971 sayılı CK (Üniversite Hastaneleri Koordinasyon Komitesi, RG 14.11.2026/33430) görüntüden yazılarak eklendi.
 - TSM Genelgesi 2013/11 boşluğu yanlış alarm: kitap sayfası 516 sonraki belgeye (ASM Kiralama) ait.
+
+## 2026-11-14 (15)
+- sbg-103633 (İdari Hizmet Binası Kiralama 2022/5) görüntüden yeniden aktarıldı (kabul: eksik 0, fazla 0).
+- Yeniden yazım denenip KULLANILMAYANLAR (aday mevcut metinden iyi çıkmadı; fark tablo/ekran görüntüsü/bozuk tarama kaynaklı): sbg-10730, sbg-34666, sb-saglik-yapilari.
+- YARIM: sbg-103624 (26 s.; parça 04-05 hazır, 01-03 luna 429/takılma) ve sbg-25603 (28 s.; 01,02,04,05 hazır, 03 eksik). Parçalar calisma/yeniden/; iş listesi calisma/yeniden2.json. Eksik parçalar gelince calisma/kabul2.py ile kıyaslayıp uygula.
+- Kalan bosluklar.json kayıtlarının çoğu şema, e-imza altbilgisi, form/tablo sıralaması kaynaklı yanlış alarm.
