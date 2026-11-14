@@ -263,3 +263,9 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 ## 2026-11-14 (5)
 - 8 çiftte taranmamış kopya elle tercih:true ile öne alındı (sbg-103558, 103541, 11156, 103551, sb-…seker-ve-tuz-2014-4, sbg-11128, sbg-11015, k-egitim-planlama-kurulunun); kelime karşılaştırmasıyla eksiksiz oldukları doğrulandı, tarih/sayı korunuyor. Kimlik Paylaşımı Yönergesi değişmedi (taranmış kopyada onay yazısı var).
 - Açık: temiz kopyası belirgin kısa olan 6 çift (hastane yatak 2008/65, lab biyolojik materyal, kontrol programı 2018/25, K vitamini 2021/11, su arıtma) — kısa kopya özet/eksik mi bakılmadı.
+
+## 2026-11-14 (6)
+- kalite_tara.py düzeltildi: şapkalı harfler (â, û, î vb.) hata sayılıyordu; gerçek liste 103 değil 18 belge (çoğu form kutucuğu □). Önceki \"106 belge kötü OCR\" tespiti yanlış alarmdı.
+- ASHGM Afetlerde Sağlık Hizmetleri/UMKE Yönergesi: kelime ortasındaki 331 büyük Ş düzeltildi.
+- Temiz kopyası kısa olan 5 çift incelendi: uzun (taranmış) kopya daha eksiksiz (ek/form içeriyor) → değişiklik yok.
+- Kalan gerçek iş: [?] işaretleri (kalite.json soru alanı), Verem Savaşı Genelgesi için daha iyi kaynak.

@@ -9,7 +9,7 @@ from pathlib import Path
 
 KOK = Path(__file__).resolve().parent.parent
 HATA = re.compile(r"\b(lle|nei|olarsk|içln|bllg|ıle|Için|Ilgili|Iş|hlz|tarlh|sayıh|bır|ıçin|Yönetmel[ıl]k)\b"
-                  r"|\b[a-zçğıöşü]+[A-ZÇĞİÖŞÜ][a-zçğıöşü]+\b|\w[ỈỎÕỦẢẾắằúùàáèéêôûâ]\w")
+                  r"|\b[a-zçğıöşü]+[A-ZÇĞİÖŞÜ][a-zçğıöşü]+\b|\w[ỈỎÕỦẢẾắằ]\w")
 
 
 def tara():
