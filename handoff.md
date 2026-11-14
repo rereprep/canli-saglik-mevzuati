@@ -276,3 +276,10 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 ## 2026-11-14 (8)
 - [?] ikinci tur: saglik.gov.tr sayfa adresleri doğrudan PDF döndürüyor (calisma/q2/<id>/e0.pdf + png + j OCR). Her [?] için sayfa kesiti (calisma/q2/kes, calisma/q/kes) görüntüden okundu: kesik cümle sonları, evrak sayıları, tablo değerleri dolduruldu (sbg-103624 poliklinik oda sayıları 0/2/4/7/9; 201-400 değeri 9 yazılmıştı, 7 olarak düzeltildi). İmza/damga/barkod yerine konmuş [?] işaretleri kaldırıldı. hsgm-883: kaynak taramada ekran görüntüsü yazılarının sağ kenarı kesik; [?] yerine […] ve açıklama notu.
 - Kalan görünen [?]: Verem genelgesi (49), sbg-10729 (2, okunamayan form), sbg-11131 (1), oz-gida plastik (1; PDF s.40 sonrası), sbg-103527/103632.. kalanlar listede.
+
+## 2026-11-14 (9) — UYDURMA METİN DENETİMİ
+- Yöntem: taranmış kaynaklı her belge, kaynak PDF sayfalarının Apple Vision okumasıyla sözcük dizisi olarak hizalandı (calisma/q3/<id>/ = saglik.gov.tr PDFleri, 252 belge; calisma/q/ = 2025 kitabı, pdf sayfa = kitap sayfa+14, 229 belge). Sonuçlar: calisma/q3/denetim.json, aday_uydurma.json, aday_degisim.json; calisma/q/denetim2025b.json.
+- Doğrulanan uydurmalar (eski ajanlar yazmış, kontrol_edildi true idi), kaynak görüntüden düzeltildi; eski hâlleri yedek/guvenilmez-metin/: sbg-103600 Seyahat Sigortası 2013/9 (ilk sayfa tümüyle uydurma), sbg-103437 Aile Hekimliği Formları 2010/48 (son paragraflar, imza, dağıtım), sbg-103508 Mezotelyoma 2010/77 (bir cümle sonu).
+- sbg-11112 Verem Savaşı Genelgesi: tarama makineyle de okunamıyor; metin yedeğe alındı, sayfa künye + kaynak bağlantısı.
+- Polio İmportasyon 2002/67: sb- kopyası öne alındı, şemalar görüntüden yazıldı. Ticari Alanlar 2011/43: sbg-103525 öne alındı (sb- kopyası ham OCR).
+- Denetim küçük değişiklikleri (tek cümle) her zaman yakalamaz; düşük çözünürlüklü taramalarda puan 0.5-0.7 olur ama metin doğru olabilir. HSH Mevzuat Kitabı 2025 (63 belge), hsgm pdf (40), RG arşiv (30) HENÜZ denetlenmedi.

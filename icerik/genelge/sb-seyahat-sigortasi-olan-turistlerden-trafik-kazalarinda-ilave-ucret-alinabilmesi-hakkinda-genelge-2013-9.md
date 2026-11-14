@@ -14,37 +14,44 @@ duzeltildi: true
 kontrol_edildi: true
 ---
 
-**2.3.26. Seyahat Sigortası Olan Turistlerden Trafik Kazalarında** İlave Ücret Alınabilmesi Hakkında Genelge (2013/9)
-
 T.C.
-**SAĞLIK BAKANLIĞI**
-**Sağlık Hizmetleri Genel Müdürlüğü**
 
-Sayı : 54567092-010-06 / 7935
-Konu : Seyahat Sigortası Olan Turistlerden Trafik Kazalarında İlave Ücret Alınabilmesi
+SAĞLIK BAKANLIĞI
+
+Sağlık Hizmetleri Genel Müdürlüğü
+
+Sayı : 54567092/010.06/19553 03.06.2013
+
+Konu : Seyahat Sigortası Olan Turistlerden Trafik Kazalarında İlave Ücret Alınabilmesi Hk.
+
+........................VALİLİĞİNE
+
+(İl Sağlık Müdürlüğü)
 
 **GENELGE**
-<i>2013/9</i>
 
-İlgi: a) 15/09/2011 tarihli ve 2011/50 sayılı Genelge.
-b) Sosyal Güvenlik Kurumu Başkanlığı Genel Sağlık Sigortası Genel Müdürlüğünün 20/02/2013 tarih ve 3.738.384 sayılı yazısı.
+**2013/9**
 
-Bilindiği üzere; 25/02/2011 tarih ve 27857 (Mükerrer) sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 6111 sayılı Kanunun 59 uncu maddesi ile 2918 sayılı Karayolları Trafik Kanununun 98 inci maddesi değiştirilmiş olup, trafik kazaları sebebiyle üniversitelere bağlı hastaneler ve diğer bütün resmi ve özel sağlık kurum ve kuruluşlarının sundukları sağlık hizmet bedellerinin, ilgililerin sigortalı olup olmadığına bakılmaksızın Sosyal Güvenlik Kurumu tarafından Sağlık Uygulama Tebliği (SUT) hükümlerine göre karşılanacağı hüküm altına alınmıştır.
+İlgi : 30/03/2012 tarihli ve 715 sayılı Genel Yazı
 
-Söz konusu Kanun hükmünün uygulanmasına ilişkin usul ve esaslar ilgi (a) Genelgemiz ile belirlenerek teşkilatımıza duyurulmuş idi.
+Başbakanlık tarafından yayımlanan 2008/13 Nolu Genelgede; “8) Acil vakalarda acil sağlık hizmetinden yararlananlardan sosyal güvencesi bulunan kişilerin hizmet bedeli ilgili sosyal güvenlik kurumundan tahsil edilecek ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 73 üncü maddesinin yedinci fıkrası gereğince hastadan ayrıca ücret farkı talep edilmeyecektir. 9) Herhangi bir sağlık güvencesi olmayan vatandaşlarımızdan ödeme gücü bulunmayanların acil sağlık hizmeti bedelleri kendilerinden talep edilmeyecektir. Bunlardan kamuya ait sağlık kuruluşlarından ve ayakta teşhis ve tedavi yapan özel sağlık kuruluşlarından acil sağlık hizmeti alanların hizmet bedelleri 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanunu hükümleri çerçevesinde sağlık kuruluşunun bulunduğu yer sosyal yardımlaşma ve dayanışma vakfından talep edilecektir. Bu konuda gerekli tedbirler ilgili vakıf başkanlıklarınca alınacaktır.” düzenlemesine yer verilmiştir.
 
-Uygulamada ortaya çıkan tereddütlerin giderilmesi amacıyla Sosyal Güvenlik Kurumu Başkanlığı ile yapılan yazışma neticesinde alınan ilgi (b) yazıda özetle;
+Başbakanlık tarafından yayımlanan 2008/13 Nolu ve 2010/16 Nolu Genelgelerde, acil sağlık hizmetlerinin düzenli bir şekilde sunumu ve hasta mağduriyetine sebebiyet verecek herhangi bir aksaklığa ve duraksamaya mahal verilmemesine yönelik düzenleme yapılmış bulunmaktadır.
 
-Yurtdışında ikamet edip ülkemizde geçici süreyle bulunan yabancı uyrukluların trafik kazası geçirmeleri halinde, bunlara sunulan acil sağlık hizmeti bedellerinin genel hükümler çerçevesinde SUT fiyatları üzerinden Kurumca karşılanacağı,
+Anılan Genelgede yukarıda belirtildiği üzere, Genel Sağlık Sigortası kapsamında bulunanlara sunulacak acil sağlık hizmetlerinde Sağlık Uygulama Tebliğinde belirtilen ücretlerin hizmet bedeli olarak ödeneceği ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 73 üncü maddesinin yedinci fıkrası gereğince farklı ücret uygulanmayacağı belirtilmiştir.
 
-Diğer taraftan yurtdışında ikamet edip ülkemize geçici süreyle gelen ve isteğe bağlı özel sigortası veya seyahat sigortası olan yabancı uyrukluların, trafik kazası nedeniyle oluşan sağlık hizmet bedelinden Sosyal Güvenlik Kurumunun ödeme yükümlülüğünü aşan hizmet bedeli özel sigorta veya seyahat sigortasından, sigorta poliçesi kapsamında talep edilebilecektir. Ancak trafik kazası geçiren yabancı uyrukluların kendilerinden hiçbir surette ücret talep edilmeyecektir.
+Bu itibarla anılan Genelgenin Genel Sağlık Sigortalısı olanlara uygulanacağı, özel sigortalar ve sandıkların tüm sağlık hizmet sunucularından sağladığı (acil hizmetler dahil) hizmetlerin aralarında yapılan sözleşmeler kapsamında ücretlendirilmesi ancak acil hizmetler için özel sigorta ve sandık mensuplarından sözleşmede belirlenen ücret dışında ilave ücret talep edilmemesi gerekmektedir.
+
+Diğer taraftan yurtdışında ikamet edip ülkemize geçici süreyle gelen ve isteğe bağlı özel sigortası veya seyahat sigortası olan yabancı uyrukluların, trafik kazası nedeniyle oluşan sağlık hizmet bedelinden Sosyal Güvenlik Kurumunun ödeme yükümlülüğünü aşan hizmet bedeli, özel sigorta veya seyahat sigortasından, sigorta poliçesi kapsamında talep edilebilecektir. Ancak trafik kazası geçiren yabancı uyrukluların kendilerinden hiçbir surette ücret talep edilmeyecektir.
 
 Gereğini rica ederim.
 
 Prof. Dr. Nihat TOSUN
+
 Bakan a.
+
 Müsteşar
 
-DAĞITIM:
-81 İl Valiliğine
+DAĞITIM
 
+81 İl Valiliği

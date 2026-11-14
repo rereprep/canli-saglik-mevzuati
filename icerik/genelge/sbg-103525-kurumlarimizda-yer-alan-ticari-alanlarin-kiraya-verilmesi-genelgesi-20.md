@@ -18,10 +18,10 @@ kontrol_edildi: true
 T.C. SAĞLIK BAKANLIĞI
 **Strateji Geliştirme Başkanlığı**
 
-Sayı: B.10.0.SGB.0.84.00.01/10-06-[?]
+Sayı: B.10.0.SGB.0.84.00.01/10-06-
 Konu: Kurumlarımızda yer alan ticari alanların kiraya verilmesi.
 
-[?] VALİLİĞİNE
+…… VALİLİĞİNE
 (İl Sağlık Müdürlüğü)
 
 **GENELGE**
@@ -90,7 +90,6 @@ Kurumlarımız arasında uygulama birliğinin sağlanması amacıyla protokol h�
 
 Bilgilerinizi ve konunun iliniz dâhilindeki Bakanlığımıza bağlı tüm döner sermayeli kurum ve kuruluşlar ile Milli Emlak birimlerine duyurulması hususunda gereğini önemle rica ederim.
 
-[?]
 Prof. Dr. Nihat TOSUN
 Bakan a.
 Müsteşar

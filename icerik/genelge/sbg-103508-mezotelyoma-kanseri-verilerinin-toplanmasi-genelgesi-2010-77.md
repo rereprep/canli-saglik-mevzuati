@@ -21,7 +21,7 @@ T.C.
 **SAĞLIK BAKANLIĞI**
 **Kanserle Savaş Dairesi Başkanlığı**
 
-Sayı : B.10.0.KSD.0.00.00.07-445.042 / 2916 - 8474085
+Sayı : B.10.0.KSD.0.00.00.07-445.042/2916
 Konu : Mezotelyoma Kanseri Verilerinin Toplanması
 
 26 Ekim 2010
@@ -38,7 +38,7 @@ Mezotelyomanın ülke genelinde oldukça yüksek değerlerde olduğu düşünül
 Daha sağlıklı kanser verisi ve mezotelyoma verilerinin eksiksiz toplanması ile ilgili şu noktalara dikkat edilmesi gerekmektedir:
 
 - Aktif kanser kayıtçılık yapan illerimizde mezotelyoma vakalarında adres bilgilerinin Kimlik Paylaşım Sisteminden tekrar teyidinin yapılarak hasta ikametlerinin netliği sağlanması.
-- Pasif kanser kayıtçılık yapan illerimizde kanser bildirimine gereken önemin gösterilmesi ve mezotelyoma verilerindeki kaçağı önlemek için özellikle ildeki Göğüs Hastalıkları Hastanelerinde ve Göğüs Hastalıkları Kliniklerindeki kanser vakalarının bildirimlerinin yapılıp yapılmadığının kontrol edilmesi gerekmektedir.
+- Pasif kanser kayıtçılık yapan illerimizde kanser bildirimine gereken önemin gösterilmesi ve mezotelyoma verilerindeki kaçağı önlemek için özellikle ildeki Göğüs Hastalıkları Hastanelerinde ve Göğüs Hastalıkları Kliniklerindeki kanser kaydı için görevlendirilen personelin konuya gerekli hassasiyeti göstermesinin sağlanması ayrıca mezotelyomanın ayırıcı tanısı açısından uzman hekimlerin bilgilendirilmesi (jinekoloji, üroloji ve göğüs hastalıkları), hususlarına dikkat edilmesi gerekmektedir.
 
 Bilgilerinizi, iş bu genelgenin ilgili kurum ve baştabipliklerine imza karşılığında tebliğini ve uygulamanın aksaksız yürütülebilmesi için takibini önemle rica ederim.
 
@@ -49,4 +49,4 @@ Müsteşar
 DAĞITIM:
 
 Gereği:
-81 İl Valiliğine
+81 İl V.

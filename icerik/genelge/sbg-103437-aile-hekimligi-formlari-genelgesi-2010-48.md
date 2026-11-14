@@ -21,7 +21,7 @@ T.C.
 SAĞLIK BAKANLIĞI
 Temel Sağlık Hizmetleri Genel Müdürlüğü
 
-Sayı : B.10.0.TSH.0.20.00.01 / 29222
+Sayı : B.10.0.TSH.0.20.00.01/29222
 Konu : Aile hekimliği formları
 
 30 Haziran 2010
@@ -35,19 +35,18 @@ Aile hekimliği uygulamasında standart veri toplanması ve Bakanlığımıza g�
 
 Yukarıda değinildiği üzere Bakanlığımızın yapmış olduğu çalışmalar sonucunda söz konusu verilerin aile hekimliği bilgi sistemi aracılığıyla toplanması için gerekli olan bilişim ve donanım alt yapısı oluşturulmuştur. Aile hekimlerinin yapmış olduğu tüm iş ve işlemler ile uygulamaları Aile Hekimliği Bilgi Sistemine girmeleri nedeniyle, 01.07.2010 tarihinden itibaren aile hekimlerinden ayrıca basılı veya elektronik ortamda (form) herhangi bir bilgi istenmeyecektir.
 
-Bakanlığımız birimleri, il sağlık müdürlükleri, sağlık grup başkanlıkları ve toplum sağlığı merkezleri ihtiyaçları olan bilgileri, Sağlık Bakanlığı internet sayfası web uygulamaları linkinden ulaşılabilen Aile Hekimliği Bilgi Sistemi (AHBS) ve Karar Destek Sistemi (KDS - İş Zekası)'nden temin edeceklerdir. İl Sağlık Müdürlüklerine bu sistemlerin kullanımı için gerekli kullanıcı yetkileri tanımlanmıştır.
+Bakanlığımız birimleri, il sağlık müdürlükleri, sağlık grup başkanlıkları ve toplum sağlığı merkezleri ihtiyaçları olan bilgileri, Sağlık Bakanlığı internet sayfası web uygulamaları linkinden ulaşılabilen Aile Hekimliği Bilgi Sistemi (AHBS) ve Karar Destek Sistemi (KDS - İş Zekası)'nden temin edeceklerdir. İl Sağlık Müdürlüklerine bu sistemlerin kullanım yetkisini Bakanlığımız İdari Mali İşler Daire Başkanlığı verecektir.
 
-Söz konusu web uygulamaları üzerinden temin edilemeyen ve ihtiyaç duyulan verilerin toplanabilmesi için veri giriş ekranlarının hazırlanması ve güncellenmesi Bakanlığımızca yapılacaktır.
+Bu genelgenin yayımı tarihinden evvel yürürlükte bulunan genelgelerdeki aile hekimlerinden yazılı veya elektronik olarak verilerin toplanacağına dair hükümler 1.7.2010 tarihi itibariyle uygulanmayacaktır.
 
-Bu itibarla; aile hekimliği uygulamasının aksamadan yürütülmesi ve amaç dışı bürokrasiye mahal verilmemesi için bu Genelge hükümlerine hassasiyetle uyulması, bu Genelge hilafına aile hekimlerinden herhangi bir form veya belge talep eden ilgililer hakkında gerekli yasal işlemlerin yapılacağı hususunda;
+Bilgilerinizi ve gereğini rica ederim.
 
-Bilgilerinizi ve gereğini önemle rica ederim.
+Prof. Dr. Recep AKDAĞ
 
-Prof. Dr. Nihat TOSUN
-Bakan a.
-Müsteşar
+Bakan
 
-DAĞITIM:
+Dağıtım:
 
 Gereği:
-81 İl Valiliğine (İl Sağlık Müdürlüğü)
+
+A Planı

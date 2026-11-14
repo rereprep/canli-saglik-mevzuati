@@ -271,15 +271,80 @@ Hedef nüfus ve aşılama cevabının büyüklüğü;
 
 Merkez Koordinasyon Ekibi tarafından belirlenen güçlendirilmiş sürveyans aktiviteleri Ulusal Sertifikasyon Komitesi tarafından dolaşımın durduğu belgelenene kadar sürdürülecektir. Bir vahşi poliovirüsün tespit edilmesi ulusal bir acil durum olarak değerlendirildiğinden, detaylı ve kapsamlı bir dokümantasyon hazırlanarak epidemiyolojik zemin, laboratuvar sonuçlarını da içeren vaka araştırma bulguları, aşılama cevabının tanımlanması ve güçlendirilmiş sürveyans sonuçları anlatılmalıdır. Uzmanlar grubu koordinasyonu ile hazırlanan son rapor Sağlık Bakanına ve Temel Sağlık Hizmetleri Genel Müdürüne sunulacaktır. Konu hakkında DSÖ de bilgilendirilecektir.
 
-### ŞEMA 1 — İL PEP SORUMLUSUNUN GÖREVLERİ
+### ŞEMA 1
 
-[?]
+**AKUT FLASK PARALİZİ VAKASI**
 
-### ŞEMA 2 — POLİOVİRÜS ÜREMİŞ SICAK AFP VAKASI, İL PEP SORUMLUSUNUN GÖREVLERİ
+• Poliomyelit benzeri klinik tablo (ateş+ani paralizi+asimetri+ekstremite tutulumu)
 
-[?]
+• 3 dozdan az OPV aşısı almış
 
-### AKUT FLASK PARALİZİ VAKASI, SICAK VAKA AYRIMI YAPILARAK POLİO İMPORTASYON PLANI GENELGESİ UYGULANACAK
+• Kendisi veya temaslısının poliomyelitin endemik olduğu ülkeye seyahat öyküsü
 
-[?]
+• Vahşi poliovirüsün son dönemde görüldüğü bölgelere komşuluğu olan yüksek riskli bölgelerden bildirim
 
+• Herhangi yaştaki bir kişide poliomyelit benzeri klinik tablo ve klinisyenin poliomyelitten şüphelenmesi
+
+• Eksik aşılı, endemik bölgeye seyahat öyküsü olan veya yüksek riskli bir bölgeden bildirilen kişide paralizi olmasa bile poliovirüs izole edilmesi
+
+→ **SICAK VAKA**
+
+**İL PEP SORUMLUSUNUN GÖREVLERİ**
+
+• Belirlenen AFP vakasının SICAK VAKA olup olmadığına karar verecek ve sıcak vakalar hızla incelenecek ve sonuçlandırılacaktır.
+
+• Sıcak vaka saptanması halinde Vaka Bildirim Formu derhal Temel Sağlık Hizmetleri Genel Müdürlüğüne faks (0312 432 29 94) ile gönderilecek ve telefon (0312 435 29 71) ile de bildirim teyid edilecektir.
+
+• Sıcak vakalarda, vakanın yanı sıra en az 5 temaslısından da numune alınacak, numuneler derhal laboratuvara gönderilecek, bildirim ve laboratuvar formunda vakanın SICAK VAKA olduğu belirtilecektir.
+
+• Sıcak vakadan ve temaslılarından numune alındıktan sonra vakanın yakın temaslılarının aşılanma durumları hızla gözden geçirilecek, vaka ve aşısız/eksik aşılı temaslılarına OPV aşısı yapılacaktır.
+
+• Eğer vakanın bulunduğu bölgede rutin aşı oranı %80’in altında ise 0-59 ay grubundaki çocukların eksik aşılarını tamamlamaya yönelik, bölge çevresini de içeren, rutin aşılama çalışmaları başlatılacaktır.
+
+### ŞEMA 2
+
+Herhangi bir yaşta belirlenen ve poliovirüs izole edilen ama henüz intra tipik ayırımı tamamlanmamış sıcak AFP vakası
+
+→ **POLİOVİRÜS ÜREMİŞ SICAK AFP VAKASI**
+
+**İL PEP SORUMLUSUNUN GÖREVLERİ**
+
+• Vaka ve temaslılarının çevresini de içeren ayrıntılı bir inceleme ile başka AFP vakası olup olmadığı araştırılacaktır.
+
+• Eğer daha önce alınmamışsa vakanın en az 5 yakın temaslısından aşılama öncesi numuneler alınacaktır. Alınan numuneler hiç bekletilmeden laboratuvara iletilecektir.
+
+• Vaka ve yakın temaslıları önceki aşılanma durumlarına bakılmaksızın tek doz aşı ile aşılanacaktır.
+
+• 48 saat içinde paralitik poliomyelit enfeksiyonunu içeren güçlendirilmiş aktif sürveyans çalışması başlatılacaktır.
+
+• Klinisyenler ve laboratuvarlar durum hakkında bilgilendirilecektir,
+
+• İl düzeyinde öncelikli hastanelerden günlük AFP raporu istenecektir,
+
+• Öncelikli hastanelerde 5 yaş altı çocuklarda (yüksek riskli bölgelerden başvuranlar veya hastaneye yatırılan çocuklar gibi) veya sağlıklı çocuklarda gaita araştırması ve çevresel sürveyans düzenlenmesi TSHGM ile değerlendirilecektir.
+
+• Güçlendirilmiş aktif sürveyans çalışmaları intratipik ayrım ile vahşi virüs olmadığı gösterilene kadar sürdürülecektir.
+
+• Risk altındaki populasyon ve vakanın bulunduğu bölgenin çevresini de kapsayan alanın aşı oranları TSHGM ile hızla gözden geçirilecek ve gerekli olan bölgelerde belirlenen yaş grubundaki çocuklara mop-up stratejisi ile ev ev gezilerek aşılama çalışması yürütülecektir.
+
+### AKUT FLASK PARALİZİ VAKASI
+
+→ SICAK VAKA AYRIMI YAPILARAK POLİO İMPORTASYON PLANI GENELGESİ UYGULANACAK
+
+→ BAŞKA BİR İLE AİT VAKA SAPTANMIŞSA İLGİLİ İLE HABER VERİLECEK
+
+**UYGUN NUMUNE:** Paralizi başlangıcından itibaren ilk 14 gün içinde en az 24 saat aralıkla iki gaita numunesi (geç vakalarda ilk 6 hafta içinde saptanmışsa numune alınır)
+
+**UYGUN NUMUNE ALINAMADIYSA:** Tercihen 5 yaş altı, yoksa 15 yaş altı 5 temaslıdan birer numune (uygun numune alınan vakalar sıcak vaka değilse, temaslı numunesine gerek yoktur*)
+
+Numuneler +2 +8°C’de korunarak en geç 3 gün içinde soğuk şartlarda laboratuvara ulaştırılacak
+
+3 gün içinde ulaştırılamıyorsa -20°C’de saklanacak
+
+Vaka izleme alınarak 60 gün boyunca izlenecek ve 60. gün sonunda vaka inceleme formunda vakanın son durumu ve tanısı belirtilecektir.
+
+Uygun numune alınamamış ve 60. gün sonunda kalıcı paralizisi olan/ölen vakalarda uzman kuruluna sunulabilmesi için, hastane dosyası da vaka inceleme formu ile birlikte gönderilecektir.
+
+\* İzmir Bölge Hıfzıssıhha Enstitüsü Viroloji Laboratuvarına numune gönderen iller tüm AFP vakalarından temaslı numunesi almaya devam edecektir.
+
+*(Şemalar kaynakta akış çizelgesi olarak yer almaktadır; burada kutulardaki yazılar sırasıyla aktarılmıştır.)*
