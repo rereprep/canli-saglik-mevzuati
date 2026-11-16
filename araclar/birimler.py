@@ -48,6 +48,12 @@ HALEF = {
     "İlaç ve Eczacılık Genel Müdürlüğü": [TITCK],
 }
 
+# Aynı birimin eski ya da farklı adı -> listede kullanılan ad
+ES_AD = {
+    "Aile Hekimliği İzleme ve Değerlendirme Dairesi Başkanlığı": "Aile Hekimliği Eğitim ve İzleme Dairesi Başkanlığı",
+    "Aile Hekimliği Uygulama Şube Müdürlüğü": "Aile Hekimliği Uygulama ve Geliştirme Dairesi Başkanlığı",
+}
+
 # Antette görülse de Sağlık Bakanlığı birimi olmayanlar (yalnız künyedeki birim alanından etiket olur)
 DIS = ("cumhurbaskanligi", "sosyal guvenlik kurumu", "afet ve acil durum", "is sagligi ve guvenligi genel",
        "butce ve mali kontrol", "basbakanlik", "yuksekogretim", "maliye")
@@ -163,7 +169,7 @@ class Birimler:
                 ad = duzgun_ad(parca)
                 kunyeler.append(self.eslestir(ad) or (ad if re.search(r"(Müdürlüğü|Başkanlığı|Kurumu)$", ad) else parca))
         kunye = kunyeler[0] if kunyeler else ""
-        ham = antet + kunyeler
+        ham = [ES_AD.get(x, x) for x in antet + kunyeler]
         ust, daire = [], []
         antet_ust = [x for x in antet if x in UST_BIRIMLER]
         for ad in ham:

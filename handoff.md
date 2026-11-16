@@ -324,3 +324,6 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Genelge ve resmî yazılara ilgili genel müdürlük / daire başkanlığı etiketi üretimde otomatik eklenir: araclar/birimler.py (antet + künye birim alanı; yazım farkları tek ada; HSGM daireleri → HSGM; kapatılan birim → halef, HALEF tablosu). site_uret.birim_etiketle → b[birimler], etiketlerin başına; dizin.json alanı u.
 - Arayüz: belge sayfasında mavi birim etiketi → ara.html?birim=…; genelge ve yazı listelerinde Birim süzgeci (?birim= ile de açılır); detaylı aramada Birim seçimi.
 - origin/resmi-gazete/otomatik dalındaki 15.11.2026 önerileri (iki üniversite merkezi yönetmeliğinin kaldırılması) sağlıkla ilgisiz → alınmadı.
+
+## 2026-11-16 (2)
+- birimler.py ES_AD: Aile Hekimliği İzleme ve Değerlendirme Dairesi → Aile Hekimliği Eğitim ve İzleme Dairesi; Aile Hekimliği Uygulama Şube Müdürlüğü → Aile Hekimliği Uygulama ve Geliştirme Dairesi. Künyedeki birim alanı değişmedi, yalnız etiket birleşti.
