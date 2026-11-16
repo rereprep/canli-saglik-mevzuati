@@ -1210,7 +1210,10 @@ def belge_sayfasi(b):
     if b.get("degisiklikler"):
         lis = "".join(f"<li>{e(tarih_tr(d.get('rg_tarih')))} {('RG ' + e(d.get('rg_sayi'))) if d.get('rg_sayi') else ''} {e(d.get('aciklama'))}</li>" for d in b["degisiklikler"])
         k += f"<tr><th>Değişiklikler</th><td><ul>{lis}</ul></td></tr>"
-    etiket = "".join(f'<a class="etiket" href="{kok}ara.html?q={e(_ub.quote(t))}">{e(t)}</a>' for t in b.get("etiketler", []))
+    birimler = b.get("birimler", [])
+    etiket = "".join(
+        (f'<a class="etiket birim" title="Bu birimin genelge ve yazıları" href="{kok}ara.html?birim={e(_ub.quote(t))}">{e(t)}</a>' if t in birimler
+         else f'<a class="etiket" href="{kok}ara.html?q={e(_ub.quote(t))}">{e(t)}</a>') for t in b.get("etiketler", []))
     if b["tam_metin"]:
         indir = f"""<div class="indir">
   <a class="dugme word" href="{e(b['id'])}.docx" download>Word olarak indir</a>
@@ -1282,6 +1285,20 @@ def belge_aciklamasi(b):
     return f"{b['baslik']} — {' · '.join(parca)}. {son}"[:300]
 
 
+def birim_etiketle(belgeler):
+    """Genelge ve resmî yazılara ilgili genel müdürlük / daire başkanlığı etiketlerini ekler (bkz. birimler.py)."""
+    import sys
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from birimler import Birimler
+    bulucu = Birimler(belgeler)
+    for b in belgeler.values():
+        if b["tur"] not in ("genelge", "yazi"):
+            continue
+        b["birimler"] = bulucu.etiketler(b)
+        var = {sade(x) for x in b["birimler"]}
+        b["etiketler"] = b["birimler"] + [t for t in b.get("etiketler", []) if sade(t) not in var]
+
+
 def sirala_anahtar(b):
     return (b.get("son_degisiklik") or b.get("rg_tarih") or b.get("tarih") or "0000")
 
@@ -1306,8 +1323,9 @@ def tablo(belgeler, kok):
         sayi = f'<td>{e(b.get("sayi"))}</td>' if sayi_sutun else ""
         sd = b.get("son_degisiklik", "")
         sdh = f"<td>{e(tarih_tr(sd))}</td>" if sd_sutun else ""
+        birim_oz = f' data-birim="{e("|".join(b["birimler"]))}"' if b.get("birimler") else ""
         satirlar.append(
-            f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}" data-son="{e(sd)}"{" data-mulga" if mulga(b) else ""}>'
+            f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}" data-son="{e(sd)}"{" data-mulga" if mulga(b) else ""}{birim_oz}>'
             f'<td><a href="{kok}mevzuat/{b["tur"]}/{e(b["id"])}.html">{e(b["baslik"])}</a>{isaret}</td>'
             f'<td>{e(TUR_TEKIL[b["tur"]])}</td><td>{e(tarih_tr(b.get("tarih")))}</td>{sdh}{sayi}{rg}</tr>')
     bas = ("<th>Mevzuat Adı</th><th>Tür</th><th>Tarih</th>" + ('<th data-kolon="son">Son Değişiklik</th>' if sd_sutun else "")
@@ -1344,12 +1362,25 @@ def tur_sayfasi(tur, belgeler):
                   if any(mulga(b) for b in liste) else "")
     sd_secenek = ('<option value="son-yeni">Son değişikliğe göre (yeniden eskiye)</option><option value="son-eski">Son değişikliğe göre (eskiden yeniye)</option>'
                   if any(b["tur"] in SD_TURLERI for b in liste) else "")
+    birim_say = {}
+    for b in liste:
+        for x in b.get("birimler", []):
+            birim_say[x] = birim_say.get(x, 0) + 1
+    birim_kutu = ""
+    if birim_say:
+        gm = sorted((x for x in birim_say if not x.endswith("Dairesi Başkanlığı")), key=sade)
+        da = sorted((x for x in birim_say if x.endswith("Dairesi Başkanlığı")), key=sade)
+        sec = lambda xs: "".join(f'<option value="{e(x)}">{e(x)} ({birim_say[x]})</option>' for x in xs)
+        birim_kutu = ('<label class="sirala birim-sec">Birim <select id="liste-birim" aria-label="Birime göre süz"><option value="">Tümü</option>'
+                      f'<optgroup label="Genel müdürlükler ve başkanlıklar">{sec(gm)}</optgroup>'
+                      + (f'<optgroup label="Daire başkanlıkları">{sec(da)}</optgroup>' if da else "") + "</select></label>")
     icerik = f"""<nav class="yol"><a href="../index.html">Ana Sayfa</a> › {e(TUR_ADLARI[tur])}</nav>
 <h1>{e(TUR_ADLARI[tur])} <small>({len(liste)})</small></h1>
 <div class="metin-ara"><input type="search" id="liste-suz" placeholder="Bu listede süz…" aria-label="Listede süz">
 <label class="sirala">Sırala <select id="liste-sirala" aria-label="Sıralama">
 <option value="ad">Ada göre (A–Z)</option><option value="yeni">Tarihe göre (yeniden eskiye)</option><option value="eski">Tarihe göre (eskiden yeniye)</option>{sd_secenek}
-</select></label>{mulga_kutu}</div>
+</select></label>{birim_kutu}{mulga_kutu}</div>
+<p id="liste-bilgi" aria-live="polite"></p>
 {tablo(liste, "../")}"""
     return sayfa(TUR_ADLARI[tur], icerik, "../")
 
@@ -1366,6 +1397,7 @@ def ara_sayfasi():
     <label><input type="radio" name="kapsam" value="metin"> Tam metinde</label>
     <label>Sayı <input type="text" id="sayi" size="10"></label>
     <label><input type="checkbox" id="mulga-ara" checked> Mülga olanlar dahil</label>
+    <label class="birim-sec">Birim <select id="birim-ara" aria-label="Birime göre süz"><option value="">Tümü</option></select></label>
     <label>Yıl <input type="number" id="yil1" min="1900" max="2100" placeholder="başlangıç"> – <input type="number" id="yil2" min="1900" max="2100" placeholder="bitiş"></label>
   </div>
   <fieldset class="turler"><legend>Mevzuat türü</legend>{turler}</fieldset>
@@ -1631,6 +1663,7 @@ def main():
     ap.add_argument("--hizli", action="store_true", help="Word/PDF dosyalarını üretme")
     a = ap.parse_args()
     belgeler = belgeleri_oku()
+    birim_etiketle(belgeler)
     if CIKTI.exists():
         shutil.rmtree(CIKTI)
     (CIKTI / "tur").mkdir(parents=True)
@@ -1662,7 +1695,7 @@ def main():
                     hatalar.append(f"{b['id']}.{ad}: {hata}")
         dizin.append({"i": b["id"], "b": b["baslik"], "t": b["tur"], "d": b.get("tarih", ""), "s": b.get("sayi", ""),
                       "r": b.get("rg_tarih", ""), "rs": b.get("rg_sayi", ""), "k": b.get("konu", ""), "x": 1 if mulga(b) else 0,
-                      "e": b.get("etiketler", []), "m": 1 if b["tam_metin"] else 0})
+                      "e": b.get("etiketler", []), "m": 1 if b["tam_metin"] else 0, **({"u": b["birimler"]} if b.get("birimler") else {})})
         if b["tam_metin"]:
             duz = re.sub(r"[*#<>/]|small", " ", re.sub(r"</?i>", "", b["govde"]))
             duz = re.sub(r"([.…_\-=])\1{3,}", r"\1\1\1", duz)  # nokta/çizgi dizilerini kısalt

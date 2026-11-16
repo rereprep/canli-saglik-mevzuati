@@ -10,7 +10,13 @@
 
   var suz=document.getElementById("liste-suz");
   var mg0=document.getElementById("mulga-goster");
-  var suzUygula=function(){var q=suz?sade(suz.value):"",mul=!mg0||mg0.checked;document.querySelectorAll("table.liste tbody tr").forEach(function(tr){tr.style.display=((!q||sade(tr.textContent).indexOf(q)>=0)&&(mul||!tr.hasAttribute("data-mulga")))?"":"none";});};
+  var lb=document.getElementById("liste-birim");
+  var suzUygula=function(){var q=suz?sade(suz.value):"",mul=!mg0||mg0.checked,br=lb?lb.value:"",say=0,tum=0;document.querySelectorAll("table.liste tbody tr").forEach(function(tr){tum++;
+    var gor=(!q||sade(tr.textContent).indexOf(q)>=0)&&(mul||!tr.hasAttribute("data-mulga"))&&(!br||("|"+(tr.getAttribute("data-birim")||"")+"|").indexOf("|"+br+"|")>=0);
+    tr.style.display=gor?"":"none";if(gor)say++;});
+    var bl=document.getElementById("liste-bilgi");if(bl)bl.textContent=(q||br||!mul)?(say+" / "+tum+" kayıt gösteriliyor"):"";};
+  if(lb){var bp=new URLSearchParams(location.search).get("birim");if(bp){for(var bi=0;bi<lb.options.length;bi++)if(lb.options[bi].value===bp)lb.value=bp;}
+    lb.addEventListener("change",function(){history.replaceState(null,"",lb.value?"?birim="+encodeURIComponent(lb.value):location.pathname);suzUygula();});if(lb.value)suzUygula();}
   if(suz)suz.addEventListener("input",suzUygula);
   if(mg0){try{if(localStorage.getItem("csm-mulga")==="0")mg0.checked=false;}catch(x){}
     mg0.addEventListener("change",function(){try{localStorage.setItem("csm-mulga",mg0.checked?"1":"0");}catch(x){}suzUygula();});suzUygula();}
@@ -80,6 +86,12 @@
   var dizin=null, metinler={}, parcaSay=null, yuklenen=0, metinSoz=null, metinHata=false, calismaNo=0, aktifGoster=null;
   var p=new URLSearchParams(location.search); var qEl=document.getElementById("q"); qEl.value=p.get("q")||"";
   if(p.get("kapsam")==="metin")form.querySelector("input[value=metin]").checked=true;
+  var birimEl=document.getElementById("birim-ara"), birimIlk=p.get("birim")||"";
+  function birimDoldur(){if(!birimEl||birimEl.options.length>1||!dizin)return;var say={};dizin.forEach(function(b){(b.u||[]).forEach(function(u){say[u]=(say[u]||0)+1;});});
+    var ad=Object.keys(say).sort(function(a,b){return a.localeCompare(b,"tr");}),daire=function(u){return /Dairesi Başkanlığı$/.test(u);};
+    [["Genel müdürlükler ve başkanlıklar",ad.filter(function(u){return !daire(u);})],["Daire başkanlıkları",ad.filter(daire)]].forEach(function(g){var og=document.createElement("optgroup");og.label=g[0];
+      g[1].forEach(function(u){var o=document.createElement("option");o.value=u;o.textContent=u+" ("+say[u]+")";og.appendChild(o);});birimEl.appendChild(og);});
+    if(birimIlk){birimEl.value=birimIlk;birimIlk="";}}
   function yukle(ad){return fetch(kok+"assets/"+ad).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();});}
   // Tam metinler parça parça indirilir; her parça gelince sonuçlar güncellenir. Sadeleştirilmiş metin bellekte tutulur.
   function metinleriYukle(){
@@ -109,6 +121,7 @@
         var yil=+((b.r||b.d||"").slice(0,4))||0; if((y1>0||y2<9999)&&(yil<y1||yil>y2))return;
         if(sayi&&String(b.s).indexOf(sayi)<0&&String(b.rs).indexOf(sayi)<0)return;
         var ma=document.getElementById("mulga-ara");if(ma&&!ma.checked&&b.x)return;
+        if(birimEl&&birimEl.value&&(b.u||[]).indexOf(birimEl.value)<0)return;
         var parca="";
         if(kelimeler.length){
           var hedef=sade(b.b+" "+b.k+" "+(b.e||[]).join(" ")+" "+b.s);
@@ -132,11 +145,13 @@
         return '<div class="sonuc"><a href="'+kok+'mevzuat/'+b.t+'/'+b.i+'.html">'+isaretle(b.b)+'</a><div class="ust-bilgi">'+e(ust)+'</div>'+(s.p?'<div class="parca">…'+isaretle(s.p)+'…</div>':(b.k?'<div class="parca">'+e(b.k)+'</div>':''))+'</div>';}).join("");
     };
     (dizin?Promise.resolve():yukle("dizin.json?t="+Date.now()).then(function(d){dizin=d;})).then(function(){
+      birimDoldur();
       goster();
       if(metinAra&&(parcaSay===null||yuklenen<parcaSay))metinleriYukle();
     }).catch(function(){if(benim===calismaNo)document.getElementById("sonuc-bilgi").textContent="Arama dizini yüklenemedi. Sayfayı yenileyip tekrar deneyin.";});
   }
-  form.addEventListener("submit",function(ev){ev.preventDefault();history.replaceState(null,"","?q="+encodeURIComponent(qEl.value));calistir();});
+  form.addEventListener("submit",function(ev){ev.preventDefault();history.replaceState(null,"","?q="+encodeURIComponent(qEl.value)+(birimEl&&birimEl.value?"&birim="+encodeURIComponent(birimEl.value):""));calistir();});
+  if(birimEl)birimEl.addEventListener("change",function(){history.replaceState(null,"","?q="+encodeURIComponent(qEl.value)+(birimEl.value?"&birim="+encodeURIComponent(birimEl.value):""));calistir();});
   var ssir2=document.getElementById("sonuc-sirala"); if(ssir2)ssir2.addEventListener("change",calistir);
   var ma2=document.getElementById("mulga-ara"); if(ma2)ma2.addEventListener("change",calistir);
   calistir();

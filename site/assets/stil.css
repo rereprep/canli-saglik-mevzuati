@@ -119,3 +119,8 @@ table.metin-tablo tr:first-child td{background:var(--vurgu);font-weight:600}
 .guven{display:inline-block;font-size:.8rem;font-weight:600;border-radius:10px;padding:1px 9px}
 .guven.guncel{background:#e3f4ea;color:#17603a}.guven.ilk{background:#fff3d6;color:#7a5200}.guven.ocr{background:#fbe9e7;color:#9a2c20}.guven.kurum{background:#e8f0fa;color:#12355b}
 @media print{.mulga-sec{display:none}}
+
+.etiket.birim{background:#e3eef9;border:1px solid #b9d2ea;color:#123f6b;font-weight:600}
+.birim-sec select{max-width:22em}
+#liste-bilgi{font-size:.9rem;color:#555;margin:4px 0 8px;min-height:1.2em}
+@media print{.birim-sec,#liste-bilgi{display:none}}

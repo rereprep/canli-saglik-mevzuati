@@ -319,3 +319,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - sbg-103624 (Asgari Teknik Standartlar 2012/…): 26 sayfa görüntüden yeniden aktarıldı (calisma/yeniden/sbg-103624_TUM.md); eski metinde iki sütunlu karşılaştırma sayfaları iç içe geçmişti, şimdi tablo. s.7 teknik çizim → not. 01a parçası sayfa aşımı yapmıştı, örtüşme kesildi.
 - sbg-25603 (Klinik Kalite Rehberi): yeniden yazım mevcut metinle eşdeğer çıktı (şüpheli parçaların hepsi mevcut metinde var; fark tablo hücre sırası) → DEĞİŞTİRİLMEDİ.
 - Kaynak denetimi işi tamam; açık kalan: Yiyecek Yardımı 2013/13 ve Geçici Koruma yönergesi (tarama bozuk, doğrulanamıyor).
+
+## 2026-11-16 — Birim etiketleri
+- Genelge ve resmî yazılara ilgili genel müdürlük / daire başkanlığı etiketi üretimde otomatik eklenir: araclar/birimler.py (antet + künye birim alanı; yazım farkları tek ada; HSGM daireleri → HSGM; kapatılan birim → halef, HALEF tablosu). site_uret.birim_etiketle → b[birimler], etiketlerin başına; dizin.json alanı u.
+- Arayüz: belge sayfasında mavi birim etiketi → ara.html?birim=…; genelge ve yazı listelerinde Birim süzgeci (?birim= ile de açılır); detaylı aramada Birim seçimi.
+- origin/resmi-gazete/otomatik dalındaki 15.11.2026 önerileri (iki üniversite merkezi yönetmeliğinin kaldırılması) sağlıkla ilgisiz → alınmadı.
