@@ -327,3 +327,6 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## 2026-11-16 (2)
 - birimler.py ES_AD: Aile Hekimliği İzleme ve Değerlendirme Dairesi → Aile Hekimliği Eğitim ve İzleme Dairesi; Aile Hekimliği Uygulama Şube Müdürlüğü → Aile Hekimliği Uygulama ve Geliştirme Dairesi. Künyedeki birim alanı değişmedi, yalnız etiket birleşti.
+
+## 2026-11-17
+- Tüzük adı düzeltildi: "Mezarlıklar hakkında Nizamname" → "Belediye Mezarlıkları Nizamnamesi" (md + elle-duzeltme.json; kimlik/adres aynı kaldı).

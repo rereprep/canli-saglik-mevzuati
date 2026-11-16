@@ -1,6 +1,6 @@
 ---
 id: "oz-mezarliklar-hakkinda-nizamname-1931-08-09"
-baslik: "Mezarlıklar hakkında Nizamname"
+baslik: "Belediye Mezarlıkları Nizamnamesi"
 tur: "tuzuk"
 rg_tarih: "1931-08-09"
 rg_sayi: "1868"
