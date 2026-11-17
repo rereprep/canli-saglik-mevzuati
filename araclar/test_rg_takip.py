@@ -46,6 +46,12 @@ class GuncellemeTest(unittest.TestCase):
         b['govde'] = '**MADDE 1 –** (Ek:RG-1/1/2026-33124-CBK-200/1 md.) Metin.'
         self.assertIn('CBK/200', str(site._govdeden_liste(b)))
 
+    def test_ana_sayfa_gorunen_tarih_son_degisikliktir(self):
+        b = {'id': 'adli', 'baslik': 'Adli Tıp', 'tur': 'yonetmelik', 'tam_metin': True,
+             'tarih': '2015-03-28', 'rg_tarih': '2015-03-28', 'son_degisiklik': '2026-11-17'}
+        self.assertIn('<td>17.11.2026</td>', site.tablo([b], '', son_tarih=True))
+        self.assertIn('<td>28.03.2015</td>', site.tablo([b], ''))
+
 
 if __name__ == '__main__':
     unittest.main()

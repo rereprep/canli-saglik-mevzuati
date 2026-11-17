@@ -189,7 +189,7 @@ g) Bağışıklama programında kullanılan aşı ve biyolojik ürünlerde arz s
 
 h) Aşıların saha koşullarındaki koruyuculuğu ve toplumdaki bağışıklık düzeyine ilişkin çalışmaları izlemek, sonuçlarını bağışıklama programının geliştirilmesinde değerlendirmek.
 
-ı) Genişletilmiş Bağışıklama Programı kapsamındaki hastalıklar ile görev alanına giren diğer hastalıkların sürveyansını yürütmek, bildirim süreçlerini, geliştirmek, vaka tanımı, sürveyans standartları, vaka araştırması ve temaslı takibine ilişkin kriterleri belirlemek.
+ı) Genişletilmiş Bağışıklama Programı kapsamındaki hastalıklar ile görev alanına giren diğer hastalıkların sürveyansını yürütmek, bildirim süreçlerini geliştirmek, vaka tanımı, sürveyans standartları, vaka araştırması ve temaslı takibine ilişkin kriterleri belirlemek.
 
 i) Görev alanına giren hastalıklarda vaka artışları ile salgın risklerini laboratuvar verileriyle birlikte izlemek, salgınların kontrolüne yönelik faaliyetleri yürütmek ve gerekli müdahaleleri ilgili daire başkanlıkları ile koordineli olarak planlamak.
 
@@ -206,7 +206,7 @@ m) Genişletilmiş Bağışıklama Programı kapsamında oluşturulan bilim kuru
 
 a) Birinci basamak sağlık kuruluşlarının coğrafi erişim ve nüfus kapsayıcılığı göstergelerini belirlemek, nüfus ve hizmet ihtiyacı öngörülerine dayalı orta ve uzun vadeli tesis gereksinimini değerlendirmek.
 
-b) Hizmet binası ihtiyacı olan sağlıklı hayat merkezleri, aile sağlığı merkezleri, sağlık evleri gibi birinci basamak sağlık kuruluşlarının yerlerinin tespitini yapmak, illerden gelen yatırım taleplerini değerlendirerek oluşturulacak Genel Müdürlük görüşünü Bakanlığın ilgili birimlerine bildirmek.
+b) Hizmet binası ihtiyacı olan sağlıklı hayat merkezleri, aile sağlığı merkezleri, sağlık evleri gibi birinci basamak sağlık kuruluşlarının yerlerinin tespitini yapmak, illerden gelen yatırım taleplerini değerlendirerek oluşturulacak Genel Müdürlük görüşünü Bakanlığın ilgili birimine bildirmek.
 
 c) Birinci basamak sağlık kuruluşlarının hizmet sunumuna ilişkin asgari fiziki ve işlevsel ihtiyaçları ile erişilebilirlik ve enfeksiyon kontrolüne uygun tasarım ölçütlerini belirlemek, yapı teknik standartlarına ilişkin Genel Müdürlük görüşünü ilgili hizmet birimleri ile koordineli olarak oluşturmak, uygulanmasını izlemek.
 
@@ -255,7 +255,7 @@ h) Tüberkülozun önlenmesi ve kontrolüne yönelik plan, program ve politika t
 
 ı) Tüberküloz vakalarının tanı, tedavi, izlem ve vaka yönetimi süreçleri ile tarama faaliyetlerine ilişkin kriterleri belirlemek, uygulanmasını izlemek ve değerlendirmek; klinik tanı ve tedaviye ilişkin hususlarda ilgili hizmet birimleri ile koordineli çalışmak.
 
-i) Tüberküloz alanında epidemiyolojik ve bilimsel çalışmaları yapmak veya desteklemek, .
+i) Tüberküloz alanında epidemiyolojik ve bilimsel çalışmaları yapmak veya desteklemek, sonuçlarını ulusal ve uluslararası düzeyde raporlamak.
 
 j) Tüberküloz alanında oluşturulan bilim kurullarının sekretarya işlemlerini yürütmek.
 
@@ -286,23 +286,23 @@ g) Yenidoğan tarama programlarına katılım durumların yaygınlığını değ
 
 h) Hemoglobinopati tanı merkezlerinin hizmet standartlarını belirlemek, hizmet sonuçlarını izlemek ve değerlendirmek, bu merkezlerin açılması, kapatılması, yer değiştirmesi ve adlandırılmasına ilişkin talepleri hizmet ihtiyacı yönünden değerlendirerek karara bağlamak ve gerekli işlemleri yürütmek.
 
-ENE' 1) Bebek ve çocuk izlemlerinin ulusal standartları ile büyüme, gelişme ve gelişimsel risklerin erken fark edilmesine ilişkin ölçütleri belirlemek, uygulanmasını izlemek ve değerlendirmek.
+ı) Bebek ve çocuk izlemlerinin ulusal standartları ile büyüme, gelişme ve gelişimsel risklerin erken fark edilmesine ilişkin ölçütleri belirlemek, uygulanmasını izlemek ve değerlendirmek.
 
-ı) Özel gereksinimli çocukların erken fark edilmesi ve uygun sağlık hizmetlerine yönlendirilmesine ilişkin kriterleri ilgili kamu kurum ve kuruluşları ile iş birliği içinde belirlemek ve uygulanmasını izlemek.
+i) Özel gereksinimli çocukların erken fark edilmesi ve uygun sağlık hizmetlerine yönlendirilmesine ilişkin kriterleri ilgili kamu kurum ve kuruluşları ile iş birliği içinde belirlemek ve uygulanmasını izlemek.
 
-i) Anne sütü ile emzirmenin teşviki, tamamlayıcı beslenme ile bebek ve çocuklarda yeterli ve dengeli beslenmenin geliştirilmesine yönelik yaş grubuna özgü programları ilgili daire başkanlıkları ve ilgili kamu kurum ve kuruluşları ile iş birliği içinde yürütmek, sonuçlarını izlemek ve değerlendirmek.
+j) Anne sütü ile emzirmenin teşviki, tamamlayıcı beslenme ile bebek ve çocuklarda yeterli ve dengeli beslenmenin geliştirilmesine yönelik yaş grubuna özgü programları ilgili daire başkanlıkları ve ilgili kamu kurum ve kuruluşları ile iş birliği içinde yürütmek, sonuçlarını izlemek ve değerlendirmek.
 
-j) Çocukluk çağında görülen kronik hastalıkların birinci basamakta izlenmesi ve bakım sürekliliğine yönelik programlar geliştirmek, uygulanmasını sağlamak ve değerlendirmek.
+k) Çocukluk çağında görülen kronik hastalıkların birinci basamakta izlenmesi ve bakım sürekliliğine yönelik programlar geliştirmek, uygulanmasını sağlamak ve değerlendirmek.
 
-k) Ergen sağlığının geliştirilmesi ve riskli davranışların önlenmesine yönelik hizmet ve program standartlarını ilgili daire başkanlıkları ile koordineli olarak belirlemek, uygulanmasını izlemek ve değerlendirmek.
+l) Ergen sağlığının geliştirilmesi ve riskli davranışların önlenmesine yönelik hizmet ve program standartlarını ilgili daire başkanlıkları ile koordineli olarak belirlemek, uygulanmasını izlemek ve değerlendirmek.
 
-l) Çocukluk ve ergenlik çağına özgü kaza ve yaralanmaların önlenmesine yönelik program ve farkındalık çalışmalarını ilgili daire başkanlıkları ile koordineli olarak yürütmek ve sonuçlarını değerlendirmek.
+m) Çocukluk ve ergenlik çağına özgü kaza ve yaralanmaların önlenmesine yönelik program ve farkındalık çalışmalarını ilgili daire başkanlıkları ile koordineli olarak yürütmek ve sonuçlarını değerlendirmek.
 
-m) Çocuk ihmal ve istismarının sağlık hizmeti sunumu sırasında erken fark edilmesi, bildirilmesi ve güvenli yönlendirilmesine ilişkin uygulama kriterlerini ilgili daire başkanlıkları ve ilgili kamu kurum ve kuruluşları ile koordineli olarak belirlemek, sağlık çalışanlarının bu alandaki yetkinliğinin artırılmasına katkı sağlamak.
+n) Çocuk ihmal ve istismarının sağlık hizmeti sunumu sırasında erken fark edilmesi, bildirilmesi ve güvenli yönlendirilmesine ilişkin uygulama kriterlerini ilgili daire başkanlıkları ve ilgili kamu kurum ve kuruluşları ile koordineli olarak belirlemek, sağlık çalışanlarının bu alandaki yetkinliğinin artırılmasına katkı sağlamak.
 
-n) Okul sağlığı hizmetlerine ilişkin program ve standartları belirlemek, uygulanmasına ilgili daire başkanlıkları ve kamu kurum ve kuruluşları ile iş birliği içinde katkı sağlamak, uygulamayı izlemek ve değerlendirmek.
+o) Okul sağlığı hizmetlerine ilişkin program ve standartları belirlemek, uygulanmasına ilgili daire başkanlıkları ve kamu kurum ve kuruluşları ile iş birliği içinde katkı sağlamak, uygulamayı izlemek ve değerlendirmek.
 
-o) Çocuk ve ergen sağlığına ilişkin istatistikî bilgileri derlemek, hizmet ihtiyacı, eğilim tahminleri ve göstergeleri ile araştırma ve incelemeleri yürütmek, sonuçlarına göre alınacak tedbirleri belirlemek.
+ö) Çocuk ve ergen sağlığına ilişkin istatistikî bilgileri derlemek, hizmet ihtiyacı, eğilim tahminleri ve göstergeleri ile araştırma ve incelemeleri yürütmek, sonuçlarına göre alınacak tedbirleri belirlemek.
 
 #### Destek Hizmetleri Daire Başkanlığı
 **MADDE 11 –** (1) Destek Hizmetleri Daire Başkanlığının görevleri şunlardır:
@@ -374,7 +374,7 @@ j) Çalışan sağlığı merkezlerinin işleyiş ve standardizasyonuna ilişkin
 
 k) Birinci basamak sağlık çalışanlarının çalışan hakları ve güvenliğine ilişkin iş ve işlemleri ilgili birimlerle koordineli olarak yürütmek.
 
-1) İş yeri hekimliği ve gezici iş sağlığı ve güvenliği hizmetlerinin birinci basamak sağlık hizmetleri kapsamındaki boyutuna ilişkin iş ve işlemleri ilgili mevzuatı çerçevesinde yürütmek, ilçe sağlık müdürlüğü ile toplum sağlığı merkezlerinde çalışan sağlığı merkezlerince sunulan sağlık gözetimi hizmetlerinin teknik standart ve rehberlerini ilgili kamu kurum ve kuruluşları ile iş birliği içinde hazırlamak.
+l) İş yeri hekimliği ve gezici iş sağlığı ve güvenliği hizmetlerinin birinci basamak sağlık hizmetleri kapsamındaki boyutuna ilişkin iş ve işlemleri ilgili mevzuatı çerçevesinde yürütmek, ilçe sağlık müdürlüğü ile toplum sağlığı merkezlerinde çalışan sağlığı merkezlerince sunulan sağlık gözetimi hizmetlerinin teknik standart ve rehberlerini ilgili kamu kurum ve kuruluşları ile iş birliği içinde hazırlamak.
 
 #### İzleme, Değerlendirme ve İletişim Daire Başkanlığı
 **MADDE 13 –** (1) İzleme, Değerlendirme ve İletişim Daire Başkanlığının görevleri şunlardır:
@@ -613,13 +613,13 @@ d) Halk sağlığı hizmetlerinin sunumuna yönelik yeni modellerin geliştirilm
 
 e) Bilimsel araştırma ve proje sonuçları ile ulusal ve uluslararası iyi uygulama örneklerini değerlendirmek; ülke koşullarına uyarlanabilir bulunanların program tasarımına ve sahaya aktarılmasını ve yaygınlaştırılmasını ilgili daire başkanlıkları ile koordineli olarak yürütmek.
 
-1) Genel Müdürlüğün halk sağlığı araştırma önceliklerini ve gündemini ilgili daire başkanlıkları ile koordineli olarak belirlemek; üniversiteler ve araştırma kuruluşlarıyla ortak bilimsel çalışmalar geliştirmek.
+f) Genel Müdürlüğün halk sağlığı araştırma önceliklerini ve gündemini ilgili daire başkanlıkları ile koordineli olarak belirlemek; üniversiteler ve araştırma kuruluşlarıyla ortak bilimsel çalışmalar geliştirmek.
 
-f) Yerli tıbbi ürün, kit, cihaz ve aşı geliştirilmesine yönelik projelere hastalık yükü, kullanım senaryosu ve araştırma gereksinimleri yönünden teknik girdi sağlamak; bu projelerin ilgili daire başkanlıkları ile kurum ve kuruluşlar nezdindeki teknik koordinasyonuna katkıda bulunmak ve sonuçlarını izlemek.
+g) Yerli tıbbi ürün, kit, cihaz ve aşı geliştirilmesine yönelik projelere hastalık yükü, kullanım senaryosu ve araştırma gereksinimleri yönünden teknik girdi sağlamak; bu projelerin ilgili daire başkanlıkları ile kurum ve kuruluşlar nezdindeki teknik koordinasyonuna katkıda bulunmak ve sonuçlarını izlemek.
 
-g) Halk sağlığı program ve müdahalelerinin maliyet-etkililiğini, bütçe etkisini ve ekonomik sonuçlarını değerlendirmeye yönelik sağlık ekonomisi analizlerini yapmak veya yaptırmak; bu çalışmalara ilişkin standartları belirlemek ve sonuçlarını ilgili daire başkanlıklarına sunmak.
+ğ) Halk sağlığı program ve müdahalelerinin maliyet-etkililiğini, bütçe etkisini ve ekonomik sonuçlarını değerlendirmeye yönelik sağlık ekonomisi analizlerini yapmak veya yaptırmak; bu çalışmalara ilişkin standartları belirlemek ve sonuçlarını ilgili daire başkanlıklarına sunmak.
 
-ğ) Hibe, kredi ve teknik iş birliği belgelerinin Genel Müdürlüğün görev alanına giren bölümlerine ilişkin teknik hazırlıkları ilgili daire başkanlıklarıyla koordineli olarak yürütmek, Genel Müdürlüğe verilen yetki çerçevesinde müzakereleri yürütmek veya müzakerelere katılmak, Genel Müdürlüğün sorumluluğundaki proje, bileşen veya faaliyetlere ilişkin fon sağlayıcıya karşı üstlenilen yükümlülüklerin yerine getirilmesini, bütçe gerçekleşmelerini ve raporlama takvimini izlemek.
+h) Hibe, kredi ve teknik iş birliği belgelerinin Genel Müdürlüğün görev alanına giren bölümlerine ilişkin teknik hazırlıkları ilgili daire başkanlıklarıyla koordineli olarak yürütmek, Genel Müdürlüğe verilen yetki çerçevesinde müzakereleri yürütmek veya müzakerelere katılmak, Genel Müdürlüğün sorumluluğundaki proje, bileşen veya faaliyetlere ilişkin fon sağlayıcıya karşı üstlenilen yükümlülüklerin yerine getirilmesini, bütçe gerçekleşmelerini ve raporlama takvimini izlemek.
 
 #### Ruh Sağlığı Daire Başkanlığı
 
@@ -647,7 +647,7 @@ h) Görev alanına giren konularda ulusal ve uluslararası bilimsel gelişmeleri
 
 #### Sağlık Hizmetlerinde Koordinasyon ve Eğitim Daire Başkanlığı
 
-**MADDE 21**- (1) Sağlık Hizmetlerinde Koordinasyon ve Eğitim Daire Başkanlığının görevleri şunlardır:
+**MADDE 21 –** (1) Sağlık Hizmetlerinde Koordinasyon ve Eğitim Daire Başkanlığının görevleri şunlardır:
 
 a) Birinci basamak ile ikinci ve üçüncü basamak sağlık hizmetleri arasında randevu ve sevk zincirinin işletilmesi, uçtan uca hasta takibinin sürekliliği, basamaklar arası geri bildirim, taburculuk sonrası izlemin aktarılması, öncelikli grupların yönlendirilmesi ve veri paylaşımına ilişkin süreçlerin geliştirilmesine ilgili hizmet birimleri ile koordineli olarak katkı sağlamak, uygulanmasını izlemek.
 
@@ -689,7 +689,7 @@ o) Genel Müdürlüğün görev alanında yürütülen eğitim faaliyetlerine il
 
 #### Tek Sağlık Daire Başkanlığı
 
-**MADDE 22**- (1) Tek Sağlık Daire Başkanlığının görevleri şunlardır:
+**MADDE 22 –** (1) Tek Sağlık Daire Başkanlığının görevleri şunlardır:
 
 a) Tek sağlık yaklaşımı çerçevesinde insan, hayvan ve çevre sağlığı arasındaki etkileşimden kaynaklanan halk sağlığı risklerinin belirlenmesi ve yönetilmesine yönelik sektörler arası politika, strateji ve koordinasyon mekanizmalarını ilgili kamu kurum ve kuruluşları ile iş birliği içinde geliştirmek ve uygulanmasını koordine etmek.
 
@@ -725,7 +725,7 @@ m) Danışmanlık verilen vakalara ilişkin verileri analiz ederek ülke zehirle
 
 #### Toplum Sağlığı ve Göç Daire Başkanlığı
 
-**MADDE 23**- (1) Toplum Sağlığı ve Göç Daire Başkanlığının görevleri şunlardır:
+**MADDE 23 –** (1) Toplum Sağlığı ve Göç Daire Başkanlığının görevleri şunlardır:
 
 a) Toplum sağlığı hizmetlerini Genel Müdürlüğün hedefleri doğrultusunda ilgili daire başkanlıkları ile koordineli olarak yürütmek, bu kapsamdaki programların uygulanmasında iş birliğini sağlamak.
 
@@ -771,7 +771,7 @@ r) Görev alanına ilişkin verileri toplamak, analiz ve raporlama çalışmalar
 
 #### Tütün ve Madde Bağımlılığı ile Mücadele Daire Başkanlığı
 
-**MADDE 24**- (1) Tütün ve Madde Bağımlılığı ile Mücadele Daire Başkanlığının görevleri şunlardır:
+**MADDE 24 –** (1) Tütün ve Madde Bağımlılığı ile Mücadele Daire Başkanlığının görevleri şunlardır:
 
 a) Tütün ve madde bağımlılığıyla mücadeleye yönelik hizmet planı ve programları, ilgili mevzuat ile Tütün Kontrolü Çerçeve Sözleşmesinden doğan yükümlülükleri de gözeterek hazırlamak, uygulanmasını koordine etmek, izlemek ve değerlendirmek.
 
@@ -793,7 +793,7 @@ g) Görev alanına ilişkin araştırma ihtiyaçlarını belirlemek, tütün ve 
 
 #### Zoonotik ve Vektörel Hastalıklar Daire Başkanlığı
 
-**MADDE 25**- (1) Zoonotik ve Vektörel Hastalıklar Daire Başkanlığının görevleri şunlardır:
+**MADDE 25 –** (1) Zoonotik ve Vektörel Hastalıklar Daire Başkanlığının görevleri şunlardır:
 
 a) Zoonotik ve vektörel hastalıklara yönelik kontrol programlarını hazırlamak, yürütmek ve sonuçlarına göre güncellemek.
 
@@ -821,14 +821,14 @@ h) Sıtma savaş dispanserlerinin hizmet standartlarını belirlemek, hizmet son
 
 ### Çeşitli ve Son Hükümler
 
-##### Yürürlükten kaldırılan yönerge
+#### Yürürlükten kaldırılan yönerge
 
-**MADDE 26**- (1) 2/10/2017 tarihli ve 1957 sayılı Bakan Oluru ile yürürlüğe konulan Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönerge yürürlükten kaldırılmıştır.
+**MADDE 26 –** (1) 2/10/2017 tarihli ve 1957 sayılı Bakan Oluru ile yürürlüğe konulan Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönerge yürürlükten kaldırılmıştır.
 
-##### Yürürlük
+#### Yürürlük
 
-**MADDE 27**- (1) Bu Yönerge Bakan Oluru ile yürürlüğe girer.
+**MADDE 27 –** (1) Bu Yönerge Bakan Oluru ile yürürlüğe girer.
 
-##### Yürütme
+#### Yürütme
 
-**MADDE 28**- (1) Bu Yönerge hükümlerini Bakan yürütür.
+**MADDE 28 –** (1) Bu Yönerge hükümlerini Bakan yürütür.

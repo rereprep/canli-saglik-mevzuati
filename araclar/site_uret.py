@@ -1189,7 +1189,8 @@ def belge_sayfasi(b):
         tur_, k2 = _KIMLIK[kimlik]
         h = _BELGE.get(k2, {})
         ek = " / ".join(x for x in [tarih_tr(h.get("rg_tarih") or h.get("tarih")), h.get("rg_sayi")] if x)
-        return f'<a href="{kok}mevzuat/{e(tur_)}/{e(k2)}.html">{e(h.get("baslik", k2))}</a>' + (f" (RG {e(ek)})" if ek else "")
+        onek = "RG " if h.get("rg_tarih") or h.get("rg_sayi") else ""
+        return f'<a href="{kok}mevzuat/{e(tur_)}/{e(k2)}.html">{e(h.get("baslik", k2))}</a>' + (f" ({onek}{e(ek)})" if ek else "")
     if b.get("kaldiran") and _bag(b["kaldiran"]):
         k += f'<tr><th>Yürürlükten Kaldıran</th><td>{_bag(b["kaldiran"])}</td></tr>'
     if b.get("yerine") and _bag(b["yerine"]):
@@ -1307,12 +1308,12 @@ def sirala_anahtar(b):
 RG_TURLERI = {"kanun", "khk", "cbk", "yonetmelik", "teblig", "tuzuk", "bkk", "ck"}
 
 
-def tablo(belgeler, kok):
+def tablo(belgeler, kok, son_tarih=False):
     # Resmî Gazete sütunu yalnız Resmî Gazete'de yayımlanan türlerin listelerinde görünür (tarih / sayı);
     # tüzük ve yönetmelik listelerinde Sayı sütunu gösterilmez
     rg_sutun = any(b["tur"] in RG_TURLERI and b.get("rg_tarih") for b in belgeler)
     sayi_sutun = not belgeler or any(b["tur"] not in ("tuzuk", "yonetmelik") for b in belgeler)
-    sd_sutun = any(b["tur"] in SD_TURLERI for b in belgeler)
+    sd_sutun = not son_tarih and any(b["tur"] in SD_TURLERI for b in belgeler)
     satirlar = []
     for b in belgeler:
         isaret = "" if b["tam_metin"] else ' <span class="rozet">künye</span>'
@@ -1323,13 +1324,15 @@ def tablo(belgeler, kok):
         rg = f"<td>{e(rg_metin)}</td>" if rg_sutun else ""
         sayi = f'<td>{e(b.get("sayi"))}</td>' if sayi_sutun else ""
         sd = b.get("son_degisiklik", "")
+        gorunen_tarih = sirala_anahtar(b) if son_tarih else b.get("tarih")
         sdh = f"<td>{e(tarih_tr(sd))}</td>" if sd_sutun else ""
         birim_oz = f' data-birim="{e("|".join(b["birimler"]))}"' if b.get("birimler") else ""
         satirlar.append(
             f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}" data-son="{e(sd)}"{" data-mulga" if mulga(b) else ""}{birim_oz}>'
             f'<td><a href="{kok}mevzuat/{b["tur"]}/{e(b["id"])}.html">{e(b["baslik"])}</a>{isaret}</td>'
-            f'<td>{e(TUR_TEKIL[b["tur"]])}</td><td>{e(tarih_tr(b.get("tarih")))}</td>{sdh}{sayi}{rg}</tr>')
-    bas = ("<th>Mevzuat Adı</th><th>Tür</th><th>Tarih</th>" + ('<th data-kolon="son">Son Değişiklik</th>' if sd_sutun else "")
+            f'<td>{e(TUR_TEKIL[b["tur"]])}</td><td>{e(tarih_tr(gorunen_tarih))}</td>{sdh}{sayi}{rg}</tr>')
+    tarih_baslik = "Son değişiklik / yayım" if son_tarih else "Tarih"
+    bas = (f"<th>Mevzuat Adı</th><th>Tür</th><th>{tarih_baslik}</th>" + ('<th data-kolon="son">Son Değişiklik</th>' if sd_sutun else "")
            + ("<th>Sayı</th>" if sayi_sutun else "") + ("<th>Resmî Gazete</th>" if rg_sutun else ""))
     return (f'<table class="liste"><thead><tr>{bas}</tr></thead><tbody>'
             + "".join(satirlar) + "</tbody></table>")
@@ -1353,7 +1356,7 @@ def ana_sayfa(belgeler):
   </form>
 </section>
 <section><h2>Mevzuat türleri</h2><div class="kartlar">{kartlar}</div></section>
-<section><h2>Son düzenlemeler</h2>{tablo(son, "")}</section>"""
+<section><h2>Son düzenlemeler</h2>{tablo(son, "", son_tarih=True)}</section>"""
     return sayfa("Ana Sayfa", icerik, "")
 
 
