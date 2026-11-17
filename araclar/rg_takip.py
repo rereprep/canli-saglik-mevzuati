@@ -22,7 +22,7 @@ ANAHTAR = re.compile(
     r"sağlık|saglik|tıbb|\btıp\b|tıpta|hekim|hasta|ilaç|eczac|eczane|kozmetik|\başı|bulaşıcı|hemşire|\bebe(lik)?\b|"
     r"diş hekim|ağız ve diş|biyosidal|tütün|organ ve doku|organ nakli|kan ve kan ürün|tıbbi laboratuvar|ambulans|"
     r"hıfzıssıhha|gıda|beslenme|engelli|radyasyon|uyuşturucu|bağımlılık|genel sağlık sigortası|tıbbi cihaz|klinik|"
-    r"veteriner|zehir|psikolog|fizyoterap|diyetisyen|optisyen|odyolog", re.I)
+    r"veteriner|zehir|psikolog|fizyoterap|diyetisyen|optisyen|odyolog|diyaliz|aile danışma|ruh sağlığı", re.I)
 ILAN = re.compile(r"ilan|ilân|ilanlar", re.I)
 
 BOLUM_TUR = [
@@ -101,7 +101,14 @@ def html_metin(sayfa):
     return "\n\n".join(s for s in satirlar if s)
 
 
-def gun_tara(gun, mevcut):
+def rg_sayisi(sayfa):
+    """Eski 'Sayı : 12345' ve yeni '12345 Sayılı' fihrist başlıkları."""
+    metin = html.unescape(re.sub(r"<[^>]+>", " ", sayfa))
+    m = re.search(r"Sayı\s*:\s*(\d{5})|\b(\d{5})\s+Sayılı\b", metin, re.I)
+    return (m.group(1) or m.group(2)) if m else ""
+
+
+def gun_tara(gun, mevcut, mevcut_kunye=None):
     yil, ay, g = gun.strftime("%Y"), gun.strftime("%m"), gun.strftime("%Y%m%d")
     fihrist = f"https://www.resmigazete.gov.tr/eskiler/{yil}/{ay}/{g}.htm"
     try:
@@ -109,7 +116,7 @@ def gun_tara(gun, mevcut):
     except Exception as hata:
         print(f"{gun}: fihrist alınamadı ({hata})")
         return []
-    sayi = re.search(r"Sayı\s*:\s*(\d{5})", html.unescape(re.sub(r"<[^>]+>", " ", sayfa)))
+    sayi = rg_sayisi(sayfa)
     p = FihristAyristirici()
     p.feed(sayfa)
     yeni = []
@@ -121,6 +128,13 @@ def gun_tara(gun, mevcut):
             continue
         tur = tur_bul(oge["bolum"], oge["metin"])
         if not tur:
+            continue
+        # Güncel ana metin başka bir resmî URL ile kayıtlı olabilir.
+        baslik = re.sub(r"^[–\-\s]+", "", oge["metin"])
+        if (sade_id(baslik), gun.isoformat()) in (mevcut_kunye or set()):
+            continue
+        # Gövdeyi indirmeden önce ilgisiz başlıkları ele.
+        if not ANAHTAR.search(oge["metin"]):
             continue
         metin = ""
         if url.lower().endswith((".htm", ".html")):
@@ -137,12 +151,12 @@ def gun_tara(gun, mevcut):
             "baslik": karar.get("baslik") or oge["metin"],
             "tur": karar.get("tur") if karar.get("tur") in {"kanun", "cbk", "ck", "yonetmelik", "teblig", "genelge", "tuzuk"} else tur,
             "rg_tarih": gun.isoformat(),
-            "rg_sayi": sayi.group(1) if sayi else "",
+            "rg_sayi": sayi,
             "birim": karar.get("birim", ""),
             "konu": karar.get("konu", ""),
             "etiketler": karar.get("etiketler", []),
             "kaynak_url": url,
-            "kaynak": f"Resmî Gazete, {gun.strftime('%d.%m.%Y')}" + (f", Sayı {sayi.group(1)}" if sayi else ""),
+            "kaynak": f"Resmî Gazete, {gun.strftime('%d.%m.%Y')}" + (f", Sayı {sayi}" if sayi else ""),
             "durum": "yürürlükte",
         }
         if metin:
@@ -185,16 +199,25 @@ def main():
     bitis = dt.date.fromisoformat(a.tarih) if a.tarih else dt.date.today()
     katalog = json.loads(TAKIP.read_text(encoding="utf-8")) if TAKIP.exists() else []
     mevcut = {k.get("kaynak_url") for k in katalog}
+    mevcut_kunye = {(sade_id(k.get("baslik", "")), k.get("rg_tarih", "")) for k in katalog}
     # Siteden çıkarılıp yedek/ altına alınan kayıtlar yeniden önerilmez
-    for md in [*(KOK / "icerik").glob("*/rg-*.md"), *(KOK / "yedek").rglob("rg-*.md")]:
-        m = re.search(r'^kaynak_url: "(.*)"$', md.read_text(encoding="utf-8"), re.M)
+    for md in [*(KOK / "icerik").glob("*/*.md"), *(KOK / "yedek").rglob("*.md")]:
+        metin = md.read_text(encoding="utf-8").split("---", 2)
+        fm = metin[1] if len(metin) > 2 else ""
+        m = re.search(r'^kaynak_url: "(.*)"$', fm, re.M)
         if m:
             mevcut.add(m.group(1))
+        ad = re.search(r'^baslik: "(.*)"$', fm, re.M)
+        tarih = re.search(r'^rg_tarih: "(.*)"$', fm, re.M)
+        if ad and tarih:
+            mevcut_kunye.add((sade_id(ad[1]), tarih[1]))
     eklenen = 0
     for i in range(a.gun - 1, -1, -1):
         gun = bitis - dt.timedelta(days=i)
         print(f"Resmî Gazete {gun.isoformat()} taranıyor…")
-        for kayit in gun_tara(gun, mevcut):
+        for kayit in gun_tara(gun, mevcut, mevcut_kunye):
+            mevcut.add(kayit["kaynak_url"])
+            mevcut_kunye.add((sade_id(kayit["baslik"]), kayit["rg_tarih"]))
             if not icerige_yaz(kayit):
                 katalog.append(kayit)
             eklenen += 1

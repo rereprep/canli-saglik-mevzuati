@@ -8,10 +8,11 @@ tur: "yonerge"
 birim: "Kamu Hastaneleri Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103769/genel-tibbi-islemler-yonergesi.html"
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+kaldiran: "k-genel-tibbi-islemler-yonergesi-2025"
 ---
 
 # GENEL TIBBİ İŞLEMLER YÖNERGESİ
@@ -128,4 +129,3 @@ c) Yukarıdaki işlemler farklı branşlarda yapılmışsa, yüzdelik oranların
 **Madde 8 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
 
 Ek- Genel Tıbbi İşlemler Listesi
-

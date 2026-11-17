@@ -330,3 +330,15 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## 2026-11-17
 - Tüzük adı düzeltildi: "Mezarlıklar hakkında Nizamname" → "Belediye Mezarlıkları Nizamnamesi" (md + elle-duzeltme.json; kimlik/adres aynı kaldı).
+
+
+## 2026-11-17 — Kaynak güncellemesi
+- HSGM 485 yayın ve RG 07–17.11.2026 fihristleri karşılaştırıldı; SHGM/ASHGM/Bakanlık/KHGM listeleri ayrıca incelendi. Kanıtlar: calisma/guncelleme-2026-11-17/.
+- Yeni: Aile Danışma Merkezleri Yönetmeliği; Adli Tıp Kurumu personel yönetmeliği (17.11.2026 değişikliği işlenmiş); HSGM gruplandırma yazısı 01.09.2026 ve form ekleri. 2017 yazısına mülga bağı.
+- Sözleşmeli Personel Esasları eski HSGM sürümü yerine mevzuat.gov.tr güncel metin ve ekler; ÇED eksik 07.11.2026 değişiklik satırı. TÜSEB güncel kaynakla zaten aynı, değiştirilmedi.
+- Genel Tıbbi İşlemler Yönergesi 2024 onayı ve 30.07.2026 değişikliği işlenmiş resmî Word metniyle yenilendi. Onay tarihindeki Word/PDF çelişkisi not edildi; 2022 metni mülga.
+- Eski sürümler yedek/guncelleme-2026-11-17/. Yayın henüz yapılmadı. HSGM yeni görev yönergesinin OCR son kontrolü devam ediyor.
+
+- HSGM Görev Tanımımız bölümünde bulunan yeni 28 sayfalık Daire Başkanlıkları ve Görevleri Yönergesi eklendi; eski Hizmet Birimleri yönergesi 26 ncı maddeye göre mülga ve yeni kayda bağlı. Yeni PDF’de onay tarih/sayısı yok: uydurulmadı, erişim tarihi ayrı kaynak notunda. 5 luna parçası OCR sözcük hizalamasıyla denetlendi; ilk parçada atlanan Çocuk ve Ergen Sağlığı Dairesi ve değiştirilen cümleler görüntüden düzeltildi.
+
+- Son kontroller: 1472 kayıt / 1459 tam metin. RG takip sayı biçimi + diyaliz/aile danışma taraması + başka URL ile kayıtlı ana metin kopyası önleme düzeltildi; 4 regresyon testi geçti. CK/CBK ayrımı düzeltildi; BKK/CK değişiklik tabloları açıldı. Dört değişen belgede Word/PDF üretimi başarılı (22/11/10/41 sayfa). Ayrıntılı kaynak raporu: kaynak-isleme/guncelleme-2026-11-17.md.

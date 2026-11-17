@@ -9,10 +9,11 @@ konu: "Aile sağlığı merkezi giderlerine esas aile hekimliği birimi gruplar�
 etiketler: ["aile-hekimligi", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 508-516"
 kaynak_pdf_sayfa: "514-522"
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+kaldiran: "hsgm-1202-aile-hekimligi-birimlerinin-gruplandirma-islemleri-2026"
 ---
 
 ## AİLE HEKİMLİĞİ BİRİMLERİNİN GRUPLANDIRMA İŞLEMLERİ

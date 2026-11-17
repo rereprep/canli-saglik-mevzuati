@@ -276,7 +276,7 @@ def govde_temizle(govde, veri):
 # mevzuat.gov.tr'deki resmî liste varsa o (kaynak-isleme/mevzuat-gov/degisiklik-listeleri.json),
 # yoksa metindeki "(Değişik: …)", "(Ek: RG-…)" notlarından derlenen liste.
 _DL = None
-_LISTE_TURLER = ("kanun", "khk", "cbk", "tuzuk", "yonetmelik")
+_LISTE_TURLER = ("kanun", "khk", "cbk", "bkk", "ck", "tuzuk", "yonetmelik")
 _NOT = re.compile(r"\(([^()]{0,70}?)\s*:\s*(RG\s*[-–]\s*)?(\d{1,2})\s*/\s*(\d{1,2})\s*/\s*(\d{4})\s*[-–]\s*([^()]{1,80}?)\)")
 _GOVDE_LISTE = re.compile(r"(?im)^[^\n]*(?:GÖSTERİR\s+(?:LİSTE|TABLO|CETVEL)|YÜRÜRLÜĞE\s+GİRİŞ\s+TARİH(?:LERİNİ|İNİ))[^\n]*$")
 
@@ -303,8 +303,9 @@ def _govdeden_liste(b):
             if not re.search(r"Değişik|Ek|Mülga|İptal|Yürürlükten|Kaldırıl", n[1]):
                 continue
             g, d, a, y = n[6], int(n[3]), int(n[4]), n[5]
-            if re.search(r"C[KB]K?\s*[-/]\s*(\d+)", g):
-                kim = "CBK/" + re.search(r"C[KB]K?\s*[-/]\s*(\d+)", g)[1]
+            karar = re.search(r"\b(CK|CBK)\s*[-/]\s*(\d+)", g)
+            if karar:
+                kim = karar[1] + "/" + karar[2]
             elif re.search(r"KHK\s*[-/]\s*(\d+)", g):
                 kim = "KHK/" + re.search(r"KHK\s*[-/]\s*(\d+)", g)[1]
             else:

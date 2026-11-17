@@ -3,15 +3,17 @@ id: "halk-sagligi-genel-mudurlugu-hizmet-birimleri-ve-gorevleri-hakkinda-yonerge
 baslik: "Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönerge"
 tur: "yonerge"
 konu: "Halk Sağlığı Genel Müdürlüğü bünyesindeki daire başkanlıklarının görevleri ile çalışma usul ve esasları."
-sayi: "43252159"
+sayi: "1957"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 etiketler: ["halk-sagligi", "mevzuat"]
 kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 329-346"
 kaynak_pdf_sayfa: "335-352"
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+tarih: "2017-10-02"
+kaldiran: "hsgm-daire-baskanliklari-ve-gorevleri-hakkinda-yonerge"
 ---
 
 ## HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ HİZMET BİRİMLERİ VE GÖREVLERİ HAKKINDA YÖNERGE

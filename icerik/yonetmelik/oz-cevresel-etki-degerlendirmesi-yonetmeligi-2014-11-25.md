@@ -2,12 +2,14 @@
 id: "oz-cevresel-etki-degerlendirmesi-yonetmeligi-2014-11-25"
 baslik: "Çevresel Etki Değerlendirmesi Yönetmeliği"
 tur: "yonetmelik"
+tarih: "2022-07-29"
 rg_tarih: "2022-07-29"
 rg_sayi: "31907"
 kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
 kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39647&MevzuatTur=7&MevzuatTertip=5"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
+ek_kaynaklar: ["https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-3.htm"]
 ---
 
 ### ÇEVRESEL ETKİ DEĞERLENDİRMESİ YÖNETMELİĞİ
@@ -440,7 +442,7 @@ g) **(Ek:RG-5/3/2026-33187)** “ÇED Olumlu” kararı verilmiş olan ve karara
 
 **MADDE 31 –** (1) Bu Yönetmelik hükümlerini Çevre, Şehircilik ve İklim Değişikliği Bakanı yürütür.
 
-**Ekleri için tıklayın.**
+[Ekler ve güncel resmî metin](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39647&MevzuatTur=7&MevzuatTertip=5)
 
 |  | Yönetmeliğin Yayımlandığı Resmî Gazete’nin |
 | Tarihi | Sayısı |
@@ -449,3 +451,4 @@ g) **(Ek:RG-5/3/2026-33187)** “ÇED Olumlu” kararı verilmiş olan ve karara
 | Tarihi | Sayısı |
 | 1. | 26/6/2025 | 32938 |
 | 2. | 5/3/2026 | 33187 |
+| 3. | 7/11/2026 | 33423 |
