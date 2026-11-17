@@ -344,3 +344,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Son kontroller: 1472 kayıt / 1459 tam metin. RG takip sayı biçimi + diyaliz/aile danışma taraması + başka URL ile kayıtlı ana metin kopyası önleme düzeltildi; 4 regresyon testi geçti. CK/CBK ayrımı düzeltildi; BKK/CK değişiklik tabloları açıldı. Dört değişen belgede Word/PDF üretimi başarılı (22/11/10/41 sayfa). Ayrıntılı kaynak raporu: kaynak-isleme/guncelleme-2026-11-17.md.
 
 - Yayın c62a1a4 canlıda doğrulandı (1472/1459). Canlı son kontrolde ana sayfanın tarih sütunu mobilde ilk yayımı gösteriyordu: son değişiklik/yayım gösterecek şekilde düzeltildi; yeni test eklendi. Resmî Gazete dışı yürürlük bağına yanlış RG öneki kaldırıldı. Yeni yönergedeki h5 başlıkları ve bent harfi OCR pürüzleri görüntüden düzeltildi; s.7 damgası yüzünden OCR eşleştirmesinin yanlış alarm verdiği gerçek cümle korundu.
+
+## 2026-11-17 — Yayın tamamlandı
+- İçerik commitleri c62a1a4 ve f289920 yayımlandı. Actions 44147872541 ve 44150736606 success. Canlı tarayıcıda 1472 kayıt/1459 tam metin ve ana sayfada Son değişiklik/yayım 17.11.2026, 14.11.2026 vb. doğrulandı.
+- Yeni HSGM yönergesi canlıda 28 madde, düzeltilmiş başlıklar/bentler; eski yönerge bağlantısı RG dışı doğru tarih gösteriyor. Canlı PDF 22 sayfa ve gruplandırma Word dosyası indirilip yapısal kontrol edildi. Güncellenen sayfalardaki 53 iç bağlantıda eksik yok; 5 regresyon testi geçti.
+- Bu kaynak güncellemesi tamamlandı. Yeni görev yönergesinin resmî PDF’sinde onay tarihi/sayısı bulunmuyor; künye bilinçli boş ve notlu. Önceden kalan 13 tam metin eksiği bu turda bulunmuş kabul edilmedi. Kaynak kanıtları calisma/guncelleme-2026-11-17/; özet kaynak-isleme/guncelleme-2026-11-17.md.
