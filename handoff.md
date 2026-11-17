@@ -363,3 +363,4 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Ani Gelişen HS Tehditleri EUCS Yönergesi (sbg-103725): 19.11.2025 değişikliği işlendi (20/A maddesi + Ek-2), sayı 44773052-010.04-106; değişiklik yönergesi (hsgm-liste-104) degistirdigi ile bağlandı.
 - Yedekler: yedek/hsgm-yonerge-iliski-2026-11-18/. Kaynak PDF’ler calisma/hsgm-yonerge-iliski/. 6 regresyon testi geçti.
 - Canlı kontrol (484c9ed): künye, değişiklik tablosu ve ilişki bağlantıları doğru. Ek düzeltme: değişiklik notuyla uzayan madde başlıkları (“(Değişik …) İdari İşler Dairesi Başkanlığı”) diğerleri gibi kalın başlık; metin içi markdown bağlantılar artık sitedeki göreli sayfaları da (../tur/kimlik.html) bağlantıya çeviriyor. Word/PDF üretimi 3 belgede denendi.
+- Yayın 3d1d2aa success; canlıda değişiklik tablosu, 18.11.2022 bağlantısı, İdari İşler başlığı ve yönerge listesinde Son Değişiklik sıralaması doğrulandı.
