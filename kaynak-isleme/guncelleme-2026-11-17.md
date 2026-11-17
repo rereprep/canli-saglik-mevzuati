@@ -22,3 +22,7 @@ TÜSEB bilim kurulları metni 10.11.2026 değişikliğini, Diyaliz Merkezleri me
 Taranmış yeni yönerge parça aktarımları bağımsız OCR ile sözcük düzeyinde karşılaştırıldı; atlanan Çocuk ve Ergen Sağlığı Dairesi ve kaynakla uyuşmayan ifadeler görüntüden düzeltildi. Dört örnekte Word/PDF üretimi denendi. Resmî Gazete takip aracında yeni fihrist sayı biçimi, diyaliz/aile danışma başlıkları ve farklı URL'deki mevcut ana metni yeniden eklememe kuralları düzeltildi; dört regresyon testi geçti.
 
 Ara dosyalar ve kaynak görüntüleri proje üst klasöründe `calisma/guncelleme-2026-11-17/` konumundadır.
+
+## Sonradan teyit edilen tarih
+
+Kullanıcı, yeni HSGM Daire Başkanlıkları ve Görevleri Yönergesinin tarihini **17.11.2026** olarak teyit etti. Künye tarihi bu teyitle `2026-11-17` olarak kaydedildi; tarihin daha önce boş bırakılma gerekçesi yerine teyit açıklaması yazıldı. Onay sayısı bildirilmediğinden sayı alanı boş bırakıldı.

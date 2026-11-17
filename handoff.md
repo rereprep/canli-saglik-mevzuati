@@ -349,3 +349,6 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - İçerik commitleri c62a1a4 ve f289920 yayımlandı. Actions 44147872541 ve 44150736606 success. Canlı tarayıcıda 1472 kayıt/1459 tam metin ve ana sayfada Son değişiklik/yayım 17.11.2026, 14.11.2026 vb. doğrulandı.
 - Yeni HSGM yönergesi canlıda 28 madde, düzeltilmiş başlıklar/bentler; eski yönerge bağlantısı RG dışı doğru tarih gösteriyor. Canlı PDF 22 sayfa ve gruplandırma Word dosyası indirilip yapısal kontrol edildi. Güncellenen sayfalardaki 53 iç bağlantıda eksik yok; 5 regresyon testi geçti.
 - Bu kaynak güncellemesi tamamlandı. Yeni görev yönergesinin resmî PDF’sinde onay tarihi/sayısı bulunmuyor; künye bilinçli boş ve notlu. Önceden kalan 13 tam metin eksiği bu turda bulunmuş kabul edilmedi. Kaynak kanıtları calisma/guncelleme-2026-11-17/; özet kaynak-isleme/guncelleme-2026-11-17.md.
+
+## 2026-11-17 — HSGM yönerge tarihi kullanıcı teyidi
+- Kullanıcı yeni HSGM Daire Başkanlıkları ve Görevleri Yönergesinin 17.11.2026 tarihli olduğunu teyit etti. `tarih: "2026-11-17"` eklendi; eski “tarih belirtilmemiştir” notu kullanıcı teyidi açıklamasıyla değiştirildi. Onay sayısı bildirilmedi, sayı boş. Kaynak güncelleme raporuna teyit kaydı eklendi.
