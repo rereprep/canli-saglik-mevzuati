@@ -352,3 +352,4 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## 2026-11-17 — HSGM yönerge tarihi kullanıcı teyidi
 - Kullanıcı yeni HSGM Daire Başkanlıkları ve Görevleri Yönergesinin 17.11.2026 tarihli olduğunu teyit etti. `tarih: "2026-11-17"` eklendi; eski “tarih belirtilmemiştir” notu kullanıcı teyidi açıklamasıyla değiştirildi. Onay sayısı bildirilmedi, sayı boş. Kaynak güncelleme raporuna teyit kaydı eklendi.
+- Yayın tamamlandı: a810dd3, Actions 44161981285 success. Canlı belge künyesinde Tarih 17.11.2026 ve kullanıcı teyidi notu doğrulandı; eski tarihsizlik notu yok.
