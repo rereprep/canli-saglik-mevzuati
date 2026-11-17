@@ -811,7 +811,8 @@ def tarih_tr(iso):
     return f"{m.group(3)}.{m.group(2)}.{m.group(1)}" if m else iso
 
 
-_MD_BAG = re.compile(r"\[([^\]\[]{1,120})\]\((https?://[^)\s]+)\)")
+# Dış bağlantılar ve sitedeki başka mevzuata göreli bağlantılar (../tur/kimlik.html)
+_MD_BAG = re.compile(r"\[([^\]\[]{1,120})\]\((https?://[^)\s]+|\.\./[a-z]+/[\w.\-]+\.html)\)")
 
 
 def satir_ici(s):
@@ -822,7 +823,8 @@ def satir_ici(s):
     s = re.sub(r"&lt;i&gt;(.+?)&lt;/i&gt;", r"<em>\1</em>", s)
     s = s.replace("&lt;i&gt;", "").replace("&lt;/i&gt;", "")
     s = s.replace("&lt;br&gt;", "<br>")
-    s = _MD_BAG.sub(lambda m: f'<a href="{m[2]}" target="_blank" rel="noopener">{m[1]}</a>', s)
+    s = _MD_BAG.sub(lambda m: f'<a href="{m[2]}" target="_blank" rel="noopener">{m[1]}</a>' if m[2].startswith("http")
+                    else f'<a href="{m[2]}">{m[1]}</a>', s)
     return s
 
 
@@ -1072,7 +1074,8 @@ def bloklari_duzenle(govde):
         birlesik.append(b)
     out = birlesik
     for j, b in enumerate(out[:-1]):
-        m = re.match(r"^#{3,4} (.{1,90})$", b)
+        # Madde başlığı; yönergelerde başına "(Değişik … onay)" notu eklenmiş başlıklar daha uzundur
+        m = re.match(r"^#{3,4} (.{1,90}|\((?:Değişik|Ek|Mülga)[^)]{0,90}\) .{1,90})$", b)
         if m and re.match(r"^\*\*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)", out[j + 1]) and not re.search(r"BÖLÜM|KISIM", m.group(1)):
             out[j] = "**" + m.group(1).strip().strip("*") + "**"
     return "\n\n".join(out)
