@@ -4,7 +4,7 @@ baslik: "Ani Gelişen Halk Sağlığı Tehditlerine Yönelik Erken Uyarı Cevap 
 konu: "Ani gelişen halk sağlığı tehditlerine yönelik Erken Uyarı ve Cevap Sistemi'ne (EUCS) ilişkin temel ilke, bileşen, veri toplama, risk yönetimi ve koordinasyon usul ve esasları."
 tur: "yonerge"
 tarih: "2019-03-14"
-sayi: "44773052"
+sayi: "44773052-010.04-106"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
 kaynak_url: "https://www.saglik.gov.tr/TR-103725/ani-gelisen-halk-sagligi-tehditlerine-yonelik-erken-uyari-cevap-sistemi-uygulama-yonergesi.html"
@@ -12,6 +12,7 @@ durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+not: "Metne 19.11.2025 tarihli ve E-11045126-010.04-295293388 sayılı Bakan Oluru ile yürürlüğe konulan değişiklik (20/A maddesi ve Ek-2) işlenmiştir."
 ---
 
 **T.C.**  
@@ -267,6 +268,22 @@ k) İhtiyaç halinde 7/24 aktif hale getirilen il kriz merkezinde görevini yür
 
 (4) Gerekli görüldüğü takdirde erken uyarının tanımı kapsamındaki risk tipine göre ilgili birimler ile diğer kamu kurum ve kuruluşlarının temsilcileri ve konunun uzmanlarının katılımı ile il risk değerlendirme grupları oluşturulur.
 
+#### Halk sağlığı müdahale ekipleri
+
+**MADDE 20/A –** (Ek: 19/11/2025 tarihli ve E-11045126-010.04-295293388 sayılı Bakan Oluru) (1) Ani gelişen halk sağlığı acil durumlarına öncesinde, sırasında ve sonrasında hazırlık için Genel Müdürlük merkezinde ve İl Sağlık Müdürlüklerinde halk sağlığı müdahale ekipleri kurulur.
+
+a) Her ilde en az bir tane halk sağlığı müdahale ekibi bulunur. İl Sağlık Müdürlüklerinde oluşturulacak halk sağlığı müdahale ekipleri Halk Sağlığı Başkanlığı tarafından kurulur ve koordine edilir. Ancak İl Sağlık Müdürlüğünün gerekli görmesi halinde görevlendireceği başkanlık tarafından da iş ve işlemleri yürütülebilir.
+
+b) İlin coğrafi yapısı, nüfus yoğunluğu, afetlerle karşılaşma riski, personel sayısı ve benzeri durumlar göz önünde bulundurularak birden fazla halk sağlığı müdahale ekibi kurulacaksa İl Sağlık Müdürlüğünün teklifi ve Genel Müdürlüğün onayı ile kurulur.
+
+c) Halk sağlığı müdahale ekiplerinin görevlendirilmesi il sınırları içinde İl Sağlık Müdürlüğü, iller arasında Genel Müdürlük, yurt dışında Bakanlık makamı tarafından yapılır.
+
+ç) Halk sağlığı müdahale ekiplerinin görev sırasında ihtiyaç duydukları lojistik malzeme, kişisel koruyucu kıyafet ve diğer ekipmanlar Genel Müdürlük veya İl Sağlık Müdürlüğü tarafından temin edilir.
+
+d) Halk sağlığı müdahale ekiplerinde görev alan personel halk sağlığı acili olmayan durumlarda mevcut görevine devam eder.
+
+e) Halk sağlığı müdahale ekipleri çalışma usul ve esasları ile diğer hususlar Genel Müdürlük tarafından belirlenir.
+
 ## DÖRDÜNCÜ BÖLÜM
 ### Yürürlük ve Yürütme
 
@@ -275,3 +292,15 @@ k) İhtiyaç halinde 7/24 aktif hale getirilen il kriz merkezinde görevini yür
 
 #### Yürütme
 **MADDE 22 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.
+
+## Ek-2. Erken uyarı ve cevap sistemi merkez ve il düzeyinde iletişim şeması
+
+<small>(Değişik: 19/11/2025 tarihli ve E-11045126-010.04-295293388 sayılı Bakan Oluru) Şema görsel olduğundan içeriği yazıyla özetlenmiştir; asıl şema için değişiklik yönergesinin resmî PDF’sine bakınız.</small>
+
+Ek-2, merkez ve il düzeyindeki iletişim akışını gösteren bir şemadır. Şemada Sağlık Bakanlığı HSGM Bulaşıcı Hastalıklar ve Erken Uyarı Dairesi Başkanlığı ile ASHGM SAKOM merkez düzeyinde; Valilik (İl Afet ve Acil Durum Yönetim Merkezi), İl Afet ve Acil Durum Müdürlüğü, İl Sağlık Müdürlüğü SAKOM ve Halk Sağlığı Hizmetleri Başkanlığı il düzeyinde yer alır. İl Sağlık Müdürlüğünde Halk Sağlığı Hizmetleri Başkanı odak kişi olup Erken Uyarı ve Cevap Sistemini Bulaşıcı Hastalıklar Birimi yürütür; komşu illerin erken uyarı ve cevap odak kişileriyle iletişim kurulur.
+
+Şemada yer alan diğer birimler: Bulaşıcı Hastalıklar, Aşı Programları, Tüberküloz ve Çevre Sağlığı birimleri; Halk Sağlığı Laboratuvarı; Kamu Hastaneleri Hizmetleri Başkanlığı; özel sağlık kuruluşları (hastaneler, tıp merkezleri, dal merkezleri); serbest hekimler; THSSGM Sağlık Denetleme Merkezleri; İl Sağlık Müdürlüğünün Aile Hekimliği, İstatistik ve Bilgi İşlem, Göç Sağlığı, Eğitim birimleri; İlçe Sağlık Müdürlüğü/TSM EUC ekipleri; İl Ambulans Servisi Başhekimliği; Afetlerde Sağlık Hizmetleri; İl Uzman Havuzu.
+
+Sektörler arası iş birliği sağlanacak kurum ve kuruluşlar: İl Tarım ve Orman Müdürlüğü; Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü; İl Milli Eğitim Müdürlüğü; Büyükşehir Belediye Başkanlığı (Afet Koordinasyon Merkezleri, Su ve Kanalizasyon İdaresi, Su Arıtma Dairesi Başkanlığı, Çevre Koruma ve Su Havzaları Dairesi Başkanlığı, Atıksu Arıtma Dairesi Başkanlığı, Abone İşleri Dairesi Başkanlığı, İtfaiye Müdürlüğü); İl Garnizon Komutanlığı; İl Emniyet Müdürlüğü; Gençlik ve Spor İl Müdürlüğü; İl Kültür ve Turizm Müdürlüğü; Meteoroloji Bölge Müdürlüğü; İl Müftülüğü; ilgili diğer kurum ve kuruluşlar. (* işaretli birimler teşkilat yapısında mevcut ise yer alır.)
+
+Şemanın görüntüsü için kaynak PDF’ye bakınız.

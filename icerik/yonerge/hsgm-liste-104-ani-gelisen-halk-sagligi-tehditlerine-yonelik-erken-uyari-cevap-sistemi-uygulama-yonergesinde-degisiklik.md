@@ -10,6 +10,8 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Yonergeler/Ani_Gelisen_HS_T
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
+degistirdigi: [{"id": "sbg-103725-ani-gelisen-halk-sagligi-tehditlerine-yonelik-erken-uyari-cevap-sistem", "ad": "Ani Gelişen Halk Sağlığı Tehditlerine Yönelik Erken Uyarı Cevap Sistemi Uygulama Yönergesi (14.03.2019, 44773052-010.04-106 sayılı Bakan Oluru)"}]
+not: "Onay belgesinde gün ve ay boş bırakılmıştır (…/…/2025). Hükümleri ana yönergeye işlenmiştir."
 ---
 
 T.C.

@@ -2,14 +2,17 @@
 id: "hsgm-liste-333-hsgm-hizmet-birimleri-ve-gorevleri-hakkinda-yonergede-degisiklik"
 baslik: "Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönergede Değişiklik Yapılmasına Dair Yönerge"
 tur: "yonerge"
-tarih: "2022"
-sayi: "43252159"
+tarih: "2022-11-18"
+sayi: "E-43252159-020-2915"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Yonergeler/HSGM_Hizmet_Birimleri_ve_Gorevleri_Hakkinda_Yonergede_Degisiklik_Yapilmasina_Dair_Yonerge.pdf"
-durum: "yürürlükte"
+durum: "yürürlükten kaldırıldı"
 ocr: true
 duzeltildi: true
+kontrol_edildi: true
+degistirdigi: [{"id": "halk-sagligi-genel-mudurlugu-hizmet-birimleri-ve-gorevleri-hakkinda-yonerge", "ad": "Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönerge (02.10.2017, 1957 sayılı Bakan Oluru)"}]
+not: "Taranmış onay belgesinde gün ve ay boş bırakılmıştır (…/…/2022). Onay tarihi ve sayısı, değiştirdiği yönergenin Halk Sağlığı Genel Müdürlüğünce yayımlanan güncel metnindeki “(Değişik 18/11/2022 tarihli ve E-43252159-020-2915)” notlarından alınmıştır. Hükümleri değiştirdiği yönergeye işlenmiştir; o yönerge Daire Başkanlıkları ve Görevleri Hakkında Yönergenin 26 ncı maddesiyle yürürlükten kaldırıldığından bu değişiklik de uygulanmaz."
 ---
 
 T.C.
@@ -40,7 +43,7 @@ OLUR
 Dr. Fahrettin KOCA
 Bakan
 
-Ek: Yönerge Değişiklik Metni
+Ek: Yönerge Değişiklik Metni (… sayfa)
 
 ## HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ HİZMET BİRİMLERİ VE GÖREVLERİ HAKKINDA YÖNERGEDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNERGE
 

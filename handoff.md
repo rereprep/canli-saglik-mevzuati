@@ -353,3 +353,12 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 ## 2026-11-17 — HSGM yönerge tarihi kullanıcı teyidi
 - Kullanıcı yeni HSGM Daire Başkanlıkları ve Görevleri Yönergesinin 17.11.2026 tarihli olduğunu teyit etti. `tarih: "2026-11-17"` eklendi; eski “tarih belirtilmemiştir” notu kullanıcı teyidi açıklamasıyla değiştirildi. Onay sayısı bildirilmedi, sayı boş. Kaynak güncelleme raporuna teyit kaydı eklendi.
 - Yayın tamamlandı: a810dd3, Actions 44161981285 success. Canlı belge künyesinde Tarih 17.11.2026 ve kullanıcı teyidi notu doğrulandı; eski tarihsizlik notu yok.
+
+## 2026-11-18 — HSGM yönerge ilişkileri ve yönerge değişiklik sistemi
+- Kullanıcı kararı: Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar Bakanlar Kurulu Kararı olarak kalır (CK 11982 onu değiştiriyor).
+- Eski HSGM Hizmet Birimleri Yönergesi: başındaki 2022 değişiklik üst yazısı (yanlış “…/…/2023”) çıkarıldı; metin HSGM’nin 17 sayfalık güncel PDF’siyle karşılaştırıldı (sözcük benzerliği %99,9; farklar PDF yazım hatası). Kaynak HSGM PDF’si, not: 4 değişiklik işlenmiş, yeni yönergenin 26. maddesiyle mülga. Bozuk yerleşmiş İdari İşler başlığı ayrıldı.
+- 2022 değişiklik yönergesi (hsgm-liste-333): tarih 18.11.2022, sayı E-43252159-020-2915, mülga, degistirdigi=eski yönerge. Lexpera 23.11.2022 diyor; resmî HSGM notu esas.
+- 16.04.2021, 24.03.2023, 19.07.2023 onaylarının ayrı metni bulunamadı; değişiklik tablosunda yalnız tarih/sayı.
+- Yönergeler artık SD_TURLERI içinde: listede Son Değişiklik sütunu ve sıralama. site_uret._yonerge_listesi: (Değişik/Ek/Mülga … tarih … onay sayısı) notlarından “Onay tarihi | Onay sayısı | Değişen maddeler” tablosu; başlıktaki not izleyen maddeye, Ek-n başlıkları Ek-n olarak; aynı uzun onay sayısının OCR’lı farklı tarihleri birleşir; değiştiren yönerge sitede varsa sayıya bağlantı. Künyede “Değiştiren Yönerge” satırı. 13 yönergede tablo oluştu.
+- Ani Gelişen HS Tehditleri EUCS Yönergesi (sbg-103725): 19.11.2025 değişikliği işlendi (20/A maddesi + Ek-2), sayı 44773052-010.04-106; değişiklik yönergesi (hsgm-liste-104) degistirdigi ile bağlandı.
+- Yedekler: yedek/hsgm-yonerge-iliski-2026-11-18/. Kaynak PDF’ler calisma/hsgm-yonerge-iliski/. 6 regresyon testi geçti.

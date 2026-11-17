@@ -52,6 +52,26 @@ class GuncellemeTest(unittest.TestCase):
         self.assertIn('<td>17.11.2026</td>', site.tablo([b], '', son_tarih=True))
         self.assertIn('<td>28.03.2015</td>', site.tablo([b], ''))
 
+    def test_yonerge_degisiklik_listesi_ve_son_degisiklik(self):
+        govde = ('#### (Değişik 19/07/2023- E-20986060-010.04-220260953) İdari İşler Dairesi Başkanlığı\n\n'
+                 '**MADDE 27 –** (1) Görevler:\n\n'
+                 'a) **(Değişik 18/11/2022 tarihli ve E-43252159-020-2915)** Metin.\n\n'
+                 'b) (Degişik: 14.01.2023 tarihli ve E-39434888-612.02-207119253 sayılı Bakan Onayı) OCR\n\n'
+                 'c) (Değişik: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayılı Bakan Onayı) Metin.\n\n'
+                 'ç) (Ek: 16.01.2023 tarihli ve E-39434888-612.02-207119253 sayılı Bakan Onayı) Metin.\n\n'
+                 '## Ek-2. Şema\n\n(Değişik: 19/11/2025 tarihli ve E-11045126-010.04-295293388 sayılı Bakan Oluru)\n')
+        b = {'id': 'y', 'tur': 'yonerge', 'tam_metin': True, 'tarih': '2017-10-02', 'sayi': '1957', 'govde': govde}
+        tablo = site._yonerge_listesi(b)
+        self.assertEqual(tablo[1], ['02.10.2017', '1957', 'İlk onay'])
+        satirlar = {r[0]: r for r in tablo[2:]}
+        self.assertEqual(set(satirlar), {'18.11.2022', '16.01.2023', '19.07.2023', '19.11.2025'})  # OCR'lı 14.01 birleşti
+        self.assertEqual(satirlar['19.07.2023'][2], '27')  # başlıktaki not izleyen maddeye
+        self.assertEqual(satirlar['19.11.2025'][2], 'Ek-2')
+        site.degisiklik_listesi_ekle(b)
+        site.son_degisiklik_bul(b)
+        self.assertIn('## DEĞİŞİKLİK LİSTESİ', b['govde'])
+        self.assertEqual(b['son_degisiklik'], '2025-11-19')
+
 
 if __name__ == '__main__':
     unittest.main()

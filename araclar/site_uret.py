@@ -156,6 +156,11 @@ def belgeleri_oku():
             belgeler.setdefault(k["id"], k)
             _ES_DIZIN = None
     sonuc = ciftleri_birlestir(belgeler)
+    _YON_DEGISTIREN.clear()
+    for b in sonuc.values():  # yönergeyi değiştiren yönergeler: değişiklik tablosunda bağlantı için
+        for d in b.get("degistirdigi") or []:
+            if d.get("id"):
+                _YON_DEGISTIREN.setdefault(d["id"], []).append(b)
     for b in sonuc.values():
         b["baslik"] = ad_temizle(b)
         degisiklik_listesi_ekle(b)
@@ -208,7 +213,104 @@ _BELGE = {}
 _KIMLIK = {}  # her (güncel ya da eski) kimlik -> sayfası olan (tür, kimlik)
 
 
-SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "ck", "tuzuk", "yonetmelik", "teblig"}
+SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "ck", "tuzuk", "yonetmelik", "teblig", "yonerge"}
+
+# Yönergelerdeki değişiklik notları Resmî Gazete'ye değil Bakan/Makam onayına dayanır; yazımları çok çeşitlidir:
+# "(Değişik 18/11/2022 tarihli ve E-43252159-020-2915)", "(Değişiklik: 28.02.2020/1234)",
+# "(Ek: Makam Onayı 31.07.2026 - E-11045126-010.04-323375018)", "(Mülga ibare 24/03/2023 tarihli ve E-…)".
+_YON_NOT = re.compile(r"\((De[gğb][iı][sşș]i?k(?:lik)?|Ek|Mülga|İptal)\b([^()]{0,160}?)\)")
+_YON_TARIH = re.compile(r"(?<![\d/.])(\d{1,2})\s*[./]\s*(\d{1,2})\s*[./]\s*((?:19|20)\d{2})(?![\d])")
+_YON_DEGISTIREN = {}
+
+
+def _yonerge_notu(n):
+    """Bir değişiklik notundan (onay tarihi ISO, onay sayısı) çıkarır; tarih yoksa None."""
+    ic = n[2].replace("€", "E")
+    t = _YON_TARIH.search(ic)
+    if not t:
+        return None
+    g, a, y = int(t[1]), int(t[2]), t[3]
+    if not (1 <= a <= 12 and 1 <= g <= 31):
+        return None
+    kalan, once = ic[t.end():], ic[:t.start()]
+    m = re.search(r"E\s*-\s*\d[\d.\-\s]*\d", kalan) or re.search(r"E\s*-\s*\d[\d.\-\s]*\d", once)
+    if m:
+        sayi = re.sub(r"\s+", "", m[0])
+    else:
+        m = (re.match(r"\s*[-/]\s*(\d[\d/]*)", kalan) or re.search(r"(?:ve|tarih)\s+(\d[\d/]*)\s+sayı", kalan)
+             or re.search(r"(\d{3,})", kalan))
+        sayi = m[1] if m else ""
+    return f"{y}-{a:02d}-{g:02d}", sayi
+
+
+def _yonerge_listesi(b):
+    """Yönerge metnindeki değişiklik notlarından onay tarihi/sayısı ve değişen maddeler tablosu."""
+    gruplar, madde = {}, ""
+    bekleyen = []  # madde başlığındaki (#### …) notlar bir sonraki maddeye aittir
+    sayac = {}  # (tarih, sayı) görülme sayısı: OCR'da yanlış okunmuş tarihleri birleştirmek için
+
+    def ekle(tarih, sayi, md):
+        sayac[(tarih, sayi)] = sayac.get((tarih, sayi), 0) + 1
+        g = gruplar.setdefault(tarih, {"sayi": "", "maddeler": []})
+        if len(sayi) > len(g["sayi"]):
+            g["sayi"] = sayi
+        if md and md not in g["maddeler"]:
+            g["maddeler"].append(md)
+    for satir in (b.get("govde") or "").split("\n"):
+        m = re.match(r"^\W*(GEÇİCİ MADDE|Geçici Madde|EK MADDE|Ek Madde|MADDE|Madde)\s*[-–]?\s*(\d+[/A-Za-z]*)", satir)
+        if m:
+            on = m[1].lower()
+            madde = ("Geçici Madde " if on.startswith("geçici") else "Ek Madde " if on.startswith("ek") else "") + m[2]
+            for tarih, sayi in bekleyen:
+                ekle(tarih, sayi, madde)
+            bekleyen = []
+        ek_bas = re.match(r"^#{1,4}\s*(?:EK|Ek)\s*[-–]?\s*(\d+)", satir.strip())
+        if ek_bas:
+            madde = f"Ek-{ek_bas[1]}"
+        baslik_satiri = satir.lstrip().startswith("#") and not m
+        for n in _YON_NOT.finditer(satir):
+            not_ = _yonerge_notu(n)
+            if not not_:
+                continue
+            tarih, sayi = not_
+            if tarih <= (b.get("tarih") or "0"):
+                continue
+            # Aynı onay farklı satırlarda sayı eksik/OCR'lı yazılmış olabilir: tarih anahtar, en uzun sayı korunur
+            if baslik_satiri:
+                bekleyen.append((tarih, sayi))
+            else:
+                ekle(tarih, sayi, madde)
+    for tarih, sayi in bekleyen:
+        ekle(tarih, sayi, "")
+    if not gruplar:
+        return None
+    # Aynı uzun onay sayısı birden çok tarihle geçiyorsa (OCR hatası) en sık geçen tarihte topla
+    tarihleri = {}
+    for (t, s), n in sayac.items():
+        if len(re.sub(r"\D", "", s)) >= 8:
+            tarihleri.setdefault(re.sub(r"\D", "", s)[-9:], {}).setdefault(t, 0)
+            tarihleri[re.sub(r"\D", "", s)[-9:]][t] += n
+    for es in tarihleri.values():
+        if len(es) > 1:
+            asil = max(es, key=lambda t: (es[t], t))
+            for t in es:
+                if t != asil and t in gruplar:
+                    g = gruplar.pop(t)
+                    hedef = gruplar.setdefault(asil, {"sayi": g["sayi"], "maddeler": []})
+                    hedef["maddeler"] += [m for m in g["maddeler"] if m not in hedef["maddeler"]]
+    degistirenler = _YON_DEGISTIREN.get(b["id"], [])
+
+    def sayi_hucre(tarih, sayi):
+        for d in degistirenler:
+            if d.get("tarih") == tarih or (sayi and no_sade(d.get("sayi")) == no_sade(sayi)):
+                return f"[{_hucre(sayi or d.get('sayi') or 'değişiklik yönergesi')}](../{d['tur']}/{d['id']}.html)"
+        return _hucre(sayi) or "–"
+    satirlar = [["Onay tarihi", "Onay sayısı", "Değişen maddeler"]]
+    if b.get("tarih"):
+        satirlar.append([tarih_tr(b["tarih"]), _hucre(b.get("sayi") or "") or "–", "İlk onay"])
+    for tarih, g in sorted(gruplar.items()):
+        satirlar.append([tarih_tr(tarih), sayi_hucre(tarih, g["sayi"]), ", ".join(sorted(g["maddeler"], key=_madde_sirasi)) or "–"])
+    return satirlar
 
 
 def son_degisiklik_bul(b):
@@ -403,6 +505,14 @@ def _yonetmelik_tablosu(b, govde, yeni):
 
 def degisiklik_listesi_ekle(b):
     global _DL
+    if b.get("tur") == "yonerge" and b.get("tam_metin"):
+        if "## DEĞİŞİKLİK LİSTESİ" in (b.get("govde") or ""):
+            return
+        liste = _yonerge_listesi(b)
+        if liste:
+            b["govde"] = (b["govde"].rstrip() + "\n\n## DEĞİŞİKLİK LİSTESİ\n\n<small>Bu liste metindeki değişiklik notlarından "
+                          "derlenmiştir; yönergelerde tarih ve sayı Bakan/Makam onayına aittir.</small>\n\n" + _md_tablo(liste) + "\n")
+        return
     if b.get("tur") not in _LISTE_TURLER or not b.get("tam_metin"):
         return
     if _DL is None:
@@ -1212,6 +1322,8 @@ def belge_sayfasi(b):
     if b.get("degisiklikler"):
         lis = "".join(f"<li>{e(tarih_tr(d.get('rg_tarih')))} {('RG ' + e(d.get('rg_sayi'))) if d.get('rg_sayi') else ''} {e(d.get('aciklama'))}</li>" for d in b["degisiklikler"])
         k += f"<tr><th>Değişiklikler</th><td><ul>{lis}</ul></td></tr>"
+    if b.get("tur") == "yonerge" and _YON_DEGISTIREN.get(b["id"]):
+        k += ('<tr><th>Değiştiren Yönerge</th><td>' + "<br>".join(_bag(d["id"]) for d in _YON_DEGISTIREN[b["id"]]) + '</td></tr>')
     birimler = b.get("birimler", [])
     etiket = "".join(
         (f'<a class="etiket birim" title="Bu birimin genelge ve yazıları" href="{kok}ara.html?birim={e(_ub.quote(t))}">{e(t)}</a>' if t in birimler

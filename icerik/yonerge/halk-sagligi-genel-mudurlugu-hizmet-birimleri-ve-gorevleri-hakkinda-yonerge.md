@@ -6,59 +6,15 @@ konu: "Halk Sağlığı Genel Müdürlüğü bünyesindeki daire başkanlıklar�
 sayi: "1957"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 etiketler: ["halk-sagligi", "mevzuat"]
-kaynak: "Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 329-346"
-kaynak_pdf_sayfa: "335-352"
+kaynak: "Halk Sağlığı Genel Müdürlüğü, değişiklikler işlenmiş resmî metin (17 sayfa); ayrıca Halk Sağlığı Hizmetleri Mevzuat Kitabı (2025), s. 329-346"
 durum: "yürürlükten kaldırıldı"
-ocr: true
 duzeltildi: true
 kontrol_edildi: true
 tarih: "2017-10-02"
 kaldiran: "hsgm-daire-baskanliklari-ve-gorevleri-hakkinda-yonerge"
+kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Yonergeler/Halk_Sagligi_Genel_Mudurlugu_Hizmet_Birimleri_ve_Gorevleri_Hakkinda_Yonerge.pdf"
+not: "02.10.2017 tarihli ve 1957 sayılı Bakan Oluru ile yürürlüğe girmiştir. Metin 16.04.2021, 18.11.2022, 24.03.2023 ve 19.07.2023 tarihli değişiklikler işlenmiş hâlidir. Halk Sağlığı Genel Müdürlüğü Daire Başkanlıkları ve Görevleri Hakkında Yönergenin 26 ncı maddesiyle yürürlükten kaldırılmıştır."
 ---
-
-## HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ HİZMET BİRİMLERİ VE GÖREVLERİ HAKKINDA YÖNERGE
-
-T.C.
-
-SAĞLIK BAKANLIĞI
-
-Halk Sağlığı Genel Müdürlüğü
-
-Sayı: 43252159
-
-Konu: Yönerge Değişikliği
-
-### BAKANLIK MAKAMINA
-
-Genel Müdürlüğümüz bünyesinde yer alan Daire Başkanlıklarının görev, yetki ve sorumlulukları 02/10/2017 tarihli Makam Olur’u ile yürürlüğe giren *“Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönerge”* ile düzenlenmiştir.
-
-10/07/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi’nin 361 inci maddesinde Genel Müdürlüğümüze verilen görevlerin yürütülmesine esas olarak ve güncelleme ihtiyacına binaen mezkûr Yönerge’de değişiklik yapılmış olup bu kapsamda hazırlanan *“Halk Sağlığı Genel Müdürlüğü Hizmet Birimleri ve Görevleri Hakkında Yönergede Değişiklik Yapılmasına Dair Yönerge”* yürürlüğe konulması hususunu;
-
-Tensiplerinize arz ederim.
-
-Prof. Dr. Sedat KAYGUSUZ
-
-Halk Sağlığı Genel Müdürü
-
-Uygun görüşle arz ederim.
-
-.../.../2023
-
-Doç. Dr. Tolga TOLUNAY
-
-Bakan Yardımcısı
-
-OLUR
-
-.../.../2023
-
-Dr. Fahrettin KOCA
-
-Bakan
-
-Ek: Yönerge Değişiklik Metni (2 sayfa)
-
-Hukuk ve Mevzuat Daire Başkanlığı, Sağlık Mah. A.Adnan Saygun 2 Cad. No:55 Sıhhiye/ANKARA. İrtibat için: Sağlık Uzmanı Çiğdem GÜNERİ AYDIN. Tel: (0312) 565 5851
 
 ### HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ HİZMET BİRİMLERİ VE GÖREVLERİ HAKKINDA YÖNERGE
 
@@ -836,7 +792,9 @@ r) Laboratuvarların çalışma konularına yönelik rehber dökümanlar hazırl
 s) Faaliyet alanlarıyla ilgili eğitim, sempozyum, panel, çalıştay, seminer vs. etkinlikleri
 
 
-düzenlemek ve düzenlenen ulusal ve uluslararası etkinliklere katkı sağlamak. (Değişik 19/07/2023- E-20986060-010.04-220260953) İdari İşler Dairesi Başkanlığı
+düzenlemek ve düzenlenen ulusal ve uluslararası etkinliklere katkı sağlamak.
+
+#### (Değişik 19/07/2023- E-20986060-010.04-220260953) İdari İşler Dairesi Başkanlığı
 
 **MADDE 27 –** (1) (Değişik 19/07/2023- E-20986060-010.04-220260953) İdari İşler Dairesi Başkanlığının görevleri şunlardır:
 
