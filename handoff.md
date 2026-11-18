@@ -392,3 +392,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - erisilebilir.saglik.gov.tr/TR-53581 alt listeleri (217 kayıt) tarandı (calisma/ustyazi-2026/). Gerçek eksik 2: Yoğun Bakım Hizmetleri Tebliği (mevzuat.gov.tr 15146, 7 değişiklik işli güncel metin; RG 20.07.2011/28000) ve İl Sağlık Müdürlükleri Performans Değerlendirme Yönergesi (21.04.2017/149 Bakan Oluru; Ek-1 tablo, Ek-2..5 bağlantı; kaynakta md.13 yok). Diğerleri sitede başka adla var ya da çıkarılan değişiklik yapan mevzuat / Anayasa (Özcan dışı yedek).
 - 2026 İkinci Güncelleme kitabı (../saglik-bakanligi-yonergeler-ve-genelgeler-kitabi---2026-ikinci-guncellemepdf.pdf, 1180 s.): 245 içindekiler girdisinin hepsi sitede eşleşti (calisma/ustyazi-2026/eslesme.json). kaynak-isleme/kitap-2026-ikinci-guncelleme.json → ilgili kayıtlara "… 2026 (İkinci Güncelleme) (PDF s. N)" ek kaynak; Hakkında'da URL (dosyamerkez 55445).
 
+
+- Yayın d1df011 success; canlıda yeni 4 sayfa, mülga künye, 2025/3 ve Hakkında 2026 İkinci Güncelleme bağlantısı doğrulandı (1509 kayıt / 1461 tam metin).
