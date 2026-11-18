@@ -373,3 +373,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Bağlanmayanlar: 2010/17 K vitamini (sitede yok), 2011/67 (yeni yıl planlaması, değişiklik değil), metinde geçen ama sitede olmayan/konusu farklı hedefler (2006/23, 2010/6, 2013/04, 2007/18, 2014/6, 2013/6 vb.).
 - Düzeltmeler: 2012/31 İkamet genelgesinin sayısı (otomatik eşleşme 2012/34 yazmıştı); 2021/6 Kamu Zararı tarihi metindeki 28/05/2021; 2014/7 Değişiklik-1/-2 tarihi kesin gün yok → 2022. 2022 HSGM değişiklik yönergesi kaldiran = yeni HSGM yönergesi.
 - 7 regresyon testi geçti. Yedek: yedek/genelge-iliski-2026-11-18/.
+
+- Yayın ab56a48 success; canlıda 128 iptal notu, AYM tablo satırı, genelge değişiklik listesi, Yürürlükten Kaldıran bağı ve genelge Son Değişiklik sütunu doğrulandı.
