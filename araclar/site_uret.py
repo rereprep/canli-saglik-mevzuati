@@ -138,7 +138,7 @@ def belgeleri_oku():
             k.update({a: d for a, d in elle.get(k["id"], {}).items() if a != "gizle"})
             alanlari_duzelt(k)
             # Tam metni olan belgeyle aynıysa yalnızca eksik alanları tamamla
-            es = esini_bul(belgeler, k)
+            es = None if k.get("ayri") else esini_bul(belgeler, k)  # ayri: aynı numaralı başka belge
             if es:
                 for alan in ("kaynak_url", "rg_tarih", "rg_sayi", "degisiklikler", "tarih", "sayi", "birim", "konu"):
                     if k.get(alan) and not es.get(alan):

@@ -103,7 +103,9 @@
   "sayi": "2024/5"
  },
  "k-kronik-yara-bakim-hizmetleri": {
-  "tarih": "2021-07-06"
+  "tarih": "2021-07-06",
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103589-kronik-yara-bakim-hizmetleri-genelgesi-2022-8"
  },
  "k-tibbi-cihaz-yonetmeliklerine-iliskin-genelge": {
   "tarih": "2022-09-30"
@@ -468,5 +470,44 @@
  "sbg-103550-ticari-alanlarin-kiraya-verilmesi-genelgesi-2012-49": {
   "durum": "yürürlükten kaldırıldı",
   "kaldiran": "sb-ticari-alanlarin-kiraya-verilmesi-genelgesi-2025-3"
+ },
+ "sbg-11094-surucu-davranislarini-gelistirme-egitimi-genelgesi": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sb-yetki-devri-genelgesi-2010-9",
+  "sayi": "2007/18"
+ },
+ "sbg-11170-mesai-saatleri-harici-isyeri-hekimligi": {
+  "sayi": "2014/1"
+ },
+ "sbg-11167-olum-bildirim-sistemi-obs-genelgesi": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103513-olum-bildirim-sistemi-obs-genelgesi-2021-7"
+ },
+ "sbg-10558-kontrole-tabi-madde-ve-mustahzarlarin-sarflari-hakkinda-genelge": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-10553-kontrole-tabi-mustahzarlarin-satis-sarf-hareketlerinin-yerinden-takibi"
+ },
+ "sbg-103627-aile-hekimligine-geciste-muvafakat-islemleri-hakkinda-genelgesi-2020-1": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "aile-hekimligine-geciste-muvafakat-islemleri-genelgesi"
+ },
+ "sbg-103628-aile-hekimligine-geciste-muvafakat-islemleri-hakkinda-genelgesi-2021-8": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "aile-hekimligine-geciste-muvafakat-islemleri-genelgesi",
+  "degistirdigi": [
+   {
+    "id": "sbg-103627-aile-hekimligine-geciste-muvafakat-islemleri-hakkinda-genelgesi-2020-1",
+    "ad": "Aile Hekimliğine Geçişte Muvafakat İşlemleri Hakkında Genelgesi (2020/1)",
+    "aciklama": "3 üncü maddenin (b) bendi değiştirildi"
+   }
+  ]
+ },
+ "sbg-103605-tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri-genelgesi-2022-2": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "k26-tibbi-cihazlarin-planlanmasi-ve-teminine-iliskin-usul-ve-esaslar-genelgesi-2025-8"
+ },
+ "sb-tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri-genelgesi-2022-2": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "k26-tibbi-cihazlarin-planlanmasi-ve-teminine-iliskin-usul-ve-esaslar-genelgesi-2025-8"
  }
 }

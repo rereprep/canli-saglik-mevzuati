@@ -379,3 +379,10 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 ## 2026-11-18 — 2025/3 Ticari Alanlar ve Hakkında kaynak bağlantısı
 - 2025/3 Ticari Alanların Kiraya Verilmesi Genelgesi: 2004/32 (sbg-10541), 2011/2 (sbg-11030), 2011/43 (iki kopya), 2012/49 mülga ve 2025/3e bağlı (elle-duzeltme.json). Yedek: yedek/ticari-alan-2025-3/.
 - Hakkında sayfasında Yönergeler ve Genelgeler Kitabı (2026) kaynağına dosyamerkez.saglik.gov.tr PDF bağlantısı (site_uret.hakkinda_sayfasi kaynak_url).
+
+## 2026-11-18 — Sitede olmayan mülga genelgeler (künye) ve ek kaldırma ilişkileri
+- kaynak-isleme/katalog/mulga-genelgeler.json: başka genelgelerin tamamen kaldırdığı, sitede metni olmayan 36 genelge künye olarak; durum mülga, kaldiran=kaldıran genelge, kaynak "Kaldıran genelgedeki atıf: …". Ad numarasız "<Konu> Konulu Genelge"; tarih atıftaki tarih, yoksa yıl. "ayri": true → esini_bul ile aynı numaralı başka kayda birleşmez (2006/23, 2010/6 Başbakanlık; 2013/4 TKHK/THSK; 2014/6 sitedekinden farklı).
+- Geniş tarama (iptal edildi/hükümsüz/yerine geçer dahil) ile eklenen mülgalar: 2021/4 Kronik Yara (2022/8), 2012/5 ÖBS (2021/7), 2003/15 Kontrole Tabi (2003/137), 2020/1 ve 2021/8 Muvafakat (2025/1; 2021/8 ayrıca 2020/1'i değiştirir), 2022/2 Tıbbi Cihaz (2025/8), 2007/18 Sürücü Davranışları (2010/9 Yetki Devri; metin SÜDGE). Yalnız madde/ek/bölüm kaldıranlar (2014/4, 2000/93, 1997/3, 2006/77, 2005/79, 2006/104 ekleri) ve yalnız atıflar bağlanmadı.
+- sbg-11170 Mesai Saatleri Harici İşyeri Hekimliği sayısı 2014/1 (metin) → sbg-103507 ile birleşti (tam metin sayısı bu yüzden -1).
+- site_uret: katalog künyesinde "ayri" alanı.
+
