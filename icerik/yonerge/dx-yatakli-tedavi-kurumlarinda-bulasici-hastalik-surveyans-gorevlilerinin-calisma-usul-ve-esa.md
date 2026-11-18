@@ -4,6 +4,8 @@ baslik: "Yataklı Tedavi Kurumlarında Bulaşıcı Hastalık Sürveyans Görevli
 tur: "yonerge"
 kaynak: "Sağlık Bakanlığı yönerge metni (Word)"
 durum: "yürürlükte"
+tarih: "2025-11-19"
+not: "Bakanlık Makamının 19.11.2025 tarihli Oluru ile yürürlüğe konulmuş; Halk Sağlığı Genel Müdürlüğünün 02.12.2025 tarihli ve E-13588366-010.04-296222442 sayılı yazısıyla duyurulmuştur (SB Yönergeler ve Genelgeler Kitabı 2026 İkinci Güncelleme, PDF s. 502)."
 ---
 
 ### YATAKLI TEDAVİ KURUMLARINDA BULAŞICI HASTALIK SÜRVEYANS GÖREVLİLERİNİN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNERGE

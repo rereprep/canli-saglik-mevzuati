@@ -5,16 +5,16 @@ tur: "yonerge"
 birim: "Sağlık Hizmetleri Genel Müdürlüğü"
 konu: "Sağlık kurum ve kuruluşlarınca düzenlenecek tek hekim ve sağlık kurulu raporlarının usul ve esaslarını düzenler."
 etiketler: ["sağlık raporu", "sağlık kurulu", "tek hekim raporu"]
-kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 39-59"
 durum: "yürürlükte"
 ocr: true
 tarih: "2019-09-30"
 sayi: "1618"
 duzeltildi: true
 kontrol_edildi: true
+kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı 2026 (İkinci Güncelleme), PDF s. 64-82"
+kaynak_url: "https://dosyamerkez.saglik.gov.tr/Eklenti/55445/0/saglik-bakanligi-yonergeler-ve-genelgeler-kitabi---2026-ikinci-guncellemepdf.pdf"
+not: "Danıştay 10. Dairesinin 31.10.2024 tarihli ve E. 2020/4936, K. 2024/4404 sayılı kararıyla iptal edilen hükümler ile 10.03.2025 tarihli ve 270855722 sayılı Onayla yapılan değişiklikler işlenmiştir."
 ---
-
-**2.2.6. Sağlık Raporları Usul ve Esasları Hakkında Yönerge** 30.09.2019 tarih ve 23642684-010.04-1618 sayılı Makam Olur'u ile aynı tarihte yürürlüğe konulan;
 
 ### Bakanlık Makamına sunuş yazısı (kitap s. 39)
 
@@ -80,7 +80,7 @@ s) Tek hekim raporları: Kişilerin sağlık durumları hakkında karanın tek h
 
 t) Yükümlü: Yoklama ve sevke tabi er ile yoklama ve sevke tabi yedek subay aday adayları, silah altındaki er-erbaş, yedek subay adayı ve yedek subayları,
 
-### İKİNCI BÖLÜM
+## İKİNCİ BÖLÜM
 
 **Başvuru Esasları**
 
@@ -90,7 +90,7 @@ t) Yükümlü: Yoklama ve sevke tabi er ile yoklama ve sevke tabi yedek subay ad
 
 (2) Kimlik tespitinin doğru şekilde yapılabilmesi için sağlık hizmet sunumunda görevli tüm personel, sorumluluklarını yerine getirmekle yükümlüdür.
 
-(3) Kişilerce ibraz edilen her türlü form, beyanname, kimlik kartı, vergi kimlik kartı, sürücü belgesi, pasaport gibi bütün tanıtıcı belgeler, Türkiye Cumhuriyeti kimlik numarası ve güncel fotoğraf bulunması halinde kimlik tespitinde kullanılır. Kimlik tespiti için kullanılacak belgelerde hiçbir şekilde silinti, kazıntı ve düzeltme yapılmamış olmalıdır.
+(3) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (4) İlgili mevzuatında on beş yaşından küçüklerin kimlik kartında fotoğraf bulunma zorunluluğu bulunmadığından görevli personelin çocuğun doğru kişi olduğuna dair gerekli incelemeleri yapma yetkisi vardır.
 
@@ -98,7 +98,7 @@ t) Yükümlü: Yoklama ve sevke tabi er ile yoklama ve sevke tabi yedek subay ad
 
 (6) Öğrenciler e-Devlet kapısını kullanarak aldıkları belgeler ile resmi, özel kurum ve kuruluşlara başvuru yapabilecektir. E-Devlet kapısını kullanarak alınan bu belgeler sağlık hizmet sunucularında kimlik tespiti ve sağlık raporlarında öğrencilik işlemlerine esas işlemlerde kabul edilecektir. Ancak bu belgeler e-Devlet kapısı internet sitesi üzerinde bulunan belge doğrulama sekmesinden, belge sahibinin T.C. kimlik numarası ve belge üzerindeki barkod numarası girilerek doğrulanacaktır.
 
-## ÜÇÜNCÜ BÖLÜM Istirahat ve Iş Göremezlik Raporları
+## ÜÇÜNCÜ BÖLÜM İstirahat ve İş Göremezlik Raporları
 
 #### Raporların düzenlenmesi, tasdiki ve rapor formatına ilişkin açıklamalar
 
@@ -110,13 +110,13 @@ t) Yükümlü: Yoklama ve sevke tabi er ile yoklama ve sevke tabi yedek subay ad
 
 (4) Kurum hekimleri ve sözleşmeli aile hekimleri hariç birinci basamak resmi sağlık hizmet sunucularında görevli hekimler Iş Göremezlik Uygulamasına dâhil olana kadar Ek-1 İstirahat Rapor Formatı' na uygun şekilde manuel rapor düzenleyebilir.
 
-(5) Memurların hastalık raporlarının, 5510 sayılı Kanun ve ilgili mevzuatında belirtilen usul ve esaslar çerçevesinde kendilerini tedavi eden kurum tabipliği, aile hekimliği veya SGK ile sözleşmeli sağlık hizmeti sunucuları tarafından düzenlenmesi esastır. SGK ile sözleşmesi bulunmayan sağlık hizmeti sunucuları tarafindan verilen ve istirahat süresi on günü geçmeyen raporlar, SGK ile sözleşmeli sağlık hizmeti sunucusu hekim tarafindan, istirahat süresi on günü aşan raporlar ise SGK ile sözleşmeli sağlık hizmeti sunucusu sağlık kurulunca onandığı takdirde geçerli olur.
+(5) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (6) Iş Göremezlik Belgesi, Sosyal Güvenlik Kurumu Başkanlığınca belirtilen usul, esas ve formata göre düzenlenecektir.
 
-(7) Tek hekim raporu ile bir defada en çok on gün rapor verilebilir. Raporda kontrol muayenesi öngörülmüş ise kontrol muayenesi sonrasında tek hekim tarafından en çok on gün daha rapor verilebilir. Kontrol muayenesi sonrası hastalığın devam etmesi sebebiyle verilecek hastalık raporlarının on günü aşması durumunda bu raporun sağlık kurulunca verilmesi zorunludur.
+(7) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
-(8) Bir takvim yılı içinde tek hekim tarafından aynı kişiye verilecek raporların toplamı kırk günü geçemez.
+(8) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (9) İstirahat raporlarının usule ve fenne uygun düzenlenmesi konusunda gerekli hassasiyet gösterilir
 
@@ -138,13 +138,13 @@ b) Raporun açıklama kısmına manuel vitesli bir taşıtın hareket ettirici a
 
 c) Engellinin sürekli olarak tekerlekli sandalye veya sedye kullanmasının gerektiği durumlarda raporun açıklama kısmına, "Sürekli olarak tekerlekli sandalye veya sedye kullanması gerekir" açıklaması yazılır.
 
-g) Raporun Zihinsel, Ruhsal, Davranışsal Bozukluklar bölümünde engelli puanı verilen kişilerde konulan tanılara açıklama olarak "vasi tayininin gerekip gerekmediği" ayrıca
+ç) Raporun Zihinsel, Ruhsal, Davranışsal Bozukluklar bölümünde engelli puanı verilen kişilerde konulan tanılara açıklama olarak "vasi tayininin gerekip gerekmediği" ayrıca belirtilir.
 
 d) Engelli raporlarına sürücü belge sınıfi, özel tertibat kodu, sürücü olunup olunamayacağına dair bir hüküm kesinlikle yazılmaz.
 
 e) Terör, kaza, maluliyet raporları hariç olmak üzere 3 (üç) aydan kısa süreli hastanede yatarak tedavisi devam eden kişiler ile yoğun bakımda tedavisi devam eden kişiler için engelli sağlık raporu düzenlenmez. Ancak yatarak tedavisi sonrası taburculuğu planlanan hastalara taburculuk öncesinde talep halinde engelli sağlık kurulu raporu düzenlenir.
 
-### BEŞINCI BOLUM Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı Personelinin Sağlık Raporları
+## BEŞİNCİ BÖLÜM Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı Personelinin Sağlık Raporları
 
 #### Raporların düzenlenmesi, tasdiki ve rapor formatına ilişkin açıklamalar
 
@@ -222,7 +222,7 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflar.
 
 **MADDE 14 –** (1) Sağlık tesısleri, aile sağlığı merkezleri veya özel sağlık kuruluşlarında görevli pratisyen/aile hekimi tarafından doldurulacak kısımdır.
 
-(2) Hekimler tarafindan raporda yer alan sürücü belgesi sınıf ve grupları kesinlikle belirtilmez.
+(2) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (3) "Sürücü olabilir" kutucuğu işaretlenmiş ise karar kısmının doldurulması zorunlu değildir.
 
@@ -268,11 +268,11 @@ b) Ikinci grup: C1, CIE, C, CE, DI, DIE, D, DE ve G sinıflar.
 
 #### Diğer hususlar
 
-**MADDE 17 –** (1) Sürücünün /sürücü adayının ilk muayenesi genel muayene yapmaya yönelik tıbbi donanım ve araç-gereçleri bulunduran uzman hekimler tarafindan da yapılabilir. Bu durumda raporların ikinci kısmı veya sadece üçüncü kısmı doldurularak düzenlenen raporlarda pratisyen hekim/aile hekimi (aile hekimliği uzmanı dâhil) imzasının bulunması şartı
+**MADDE 17 –** (1) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (2) Sürücü belgesine sahip herhangi bir kişinin sağlık muayeneleri esnasında sürücü belgesinin geçici süreyle geri alınmasını gerektiren ve bildirim yükümlüğü olan durumlarda kişiye ait kimlik bilgileri ve hastalığın tanısı hekimin görevli olduğu kurum/özel sağlık kuruluşu tarafindan Emniyet Genel Müdürlüğüne/II Emniyet Müdürlüğüne bildirilir.
 
-(3) Sürücü/sürücü adayının motorlu bir aracı kullanmak için gerekli olan yeterli görme keskinliğine sahip olduğundan emin olunması için uygun değerlendirme yapılır. Kişilerin görme keskinliğinin yetersiz olduğuna ve/veya göze ait hastalığa dair şüphe söz konusu olduğunda, uzman hekim tarafindan muayene edilir. Sürücü/sürücü adaylarından iki gözü de gören ve beyan formunda belirtilen renk körlüğü, gece körlüğü (tavukkarası), göz kapağında düşme, çift görme veya şaşılık, blefarospazm, katarakt, afaki veya progresif göz hastalığı bulunmayan kişilerin pratisyen hekim/aile hekimi tarafindan görme keskinliği yönünden mezkůr hüküm kapsamında muayenesi yapılır. Göz muayenesinde gözlükle görme keskinliğinin sağlanması halinde "gözlük kullanmak kaydıyla" sürücü belgesi alabileceğine dair sağlık raporu düzenlenir. Pratisyen hekim/aile hekimi tarafından kod tablosunda belirtilen kod numaralarından yalnızca gözlük (01.01), gözlük veya kontakt lensle (01.06) kod numaraları kullanılabilir. Mezkür hüküm kapsamında görme keskinliğine karar verilememesi veya yukarıda belirtilen durum/durumların olması halinde sürücü/sürücü adayı, göz muayenesi yönünden değerlendirilmek üzere göz hastalıkları uzmanına sevk edilir.
+(3) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (4) Sürücü Adayı ve Sürücü Sağlık Raporları sadece sürücü belgesi alınabilmesi amacıyla
 
@@ -394,13 +394,13 @@ e) Madde veya alkol bağımlılığı, ę) Organik mental bozukluklar,
 
 (2) Silahın güvenli bir şekilde kullanıma hazır hale getirilmesi, güvenli olarak kullanılması, silahın tam olarak kavranabilmesi için baskın kullanılan ekstremite ayrımı olmaksızın her iki üst ekstremite de kavrama yapabilme ve güç kullanabilme hareket kabiliyeti olması gerekir.
 
-(3) Yivsiz av tüfeği kullanımı sırasında atış yapılan hedefin görülebilmesi için görme kabiliyetinin olması gerekir.
+(3) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (4) Yivsız av tüfeği kullanımı sırasında atış yapılan hedeften veya etraftan gelen seslerin, duyulabilmesi, işitme ve yön tayini kabiliyetinin olması gerekir.
 
-(5) Psikiyatrik yönden iyilik halinde olmadığı değerlendirilenler ilgili uzmana sevk edilir.
+(5) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
-(6) Şuur durumunu etkileyen, vücutta aşırı düşkünlük yapmış herhangi bir dâhili hastalığı olanlara silah bulundurma ve tașıma ruhsatı verilmez.
+(6) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (7) Yivsiz av tüfeği almak isteyen kişinin muayenesi mevcut durumuna göre yapılır. Hastalıkları bulunan fakat silah ruhsatı verilmesine esas teşkil edecek sağlık raporu alabilecek düzeyde yeterli görülenlerden, zamanla hastalığının kötüleşebilme ihtimali bulunanlara, doktor tarafindan kontrol muayenesi zorunluluğu getirilebilir. Belirli zaman sonra kontrol şartı ile verilen sağlık raporlarının takibi, kişiye ruhsatı veren birim tarafından yapılır. Ongörülen kontrol muayenesinin sonunda, doktor görüşlerini içeren sağlık raporu düzenlenir.
 
@@ -412,23 +412,23 @@ e) Madde veya alkol bağımlılığı, ę) Organik mental bozukluklar,
 
 #### Maluliyet ve Çalışma Gücü Kaybı Tespit İşlemleri
 
-**MADDE 33 –** (09/09/2021/1662 Yürürlük: 09/09/2021) (1) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre sigortalı sayılanların, maluliyet, çalışma gücü kaybı ve erken yaşlanma durumlarının tespite yönelik düzenlenecek sağlık raporlanı Yönerge eki Ek- 14 Maluliyet ve Çalışma Gücü Kaybına Esas Sağlık Kurulu Rapor Formatına uygun olarak düzenlenir.
+**MADDE 33 –** (09/09/2021/1662 Yürürlük: 09/09/2021) (1) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre sigortalı sayılanların, maluliyet, çalışma gücü kaybı ve erken yaşlanma durumlarının tespite yönelik düzenlenecek sağlık raporları Yönerge eki Ek-14 Maluliyet ve Çalışma Gücü Kaybına Esas Sağlık Kurulu Rapor Formatına uygun olarak düzenlenir. (10/03/2025/270855722 Yürürlük: 10/03/2025) Sosyal Güvenlik Kurumu MEDULA e-rapor sisteminde düzenlenir.
 
 ## ONUNCU BÖLÜM Özel Düzenleme Bulunmayan Raporlar
 
 #### Raporların düzenlenmesine ve formatına ilişkin açıklamalar
 
-**MADDE 34 –** (1) Bu Yönerge' de; özel rapor formatı belirtilen durumlar dışında tüm raporların düzenlenmesinde aşağıdaki kriterlere uyulur. Sağlık Bakanlığına bağlı hastaneler, üniversite hastaneleri, diğer kamu kurumlarına ait sağlık kurum ve kuruluşları ile Sağlık Bakanlığınca ruhsatlandırılmış özel hastaneler, özel tıp merkezleri ve birinci basamak sağlık hizmet sunucuları;
+**MADDE 34 –** (1) Bu Yönerge'de; özel rapor formatı belirtilen durumlar dışında tüm raporların düzenlenmesinde aşağıdaki kriterlere uyulur. Sağlık Bakanlığına bağlı hastaneler, üniversite hastaneleri, diğer kamu kurumlarına ait sağlık kurum ve kuruluşları ile Sağlık Bakanlığınca ruhsatlandırılmış özel hastaneler, özel tıp merkezleri ve birinci basamak sağlık hizmet sunucuları;
 
-a) Istirahat Raporlarını Ek-l' de yer alan rapor formatına,
+a) İstirahat Raporlarını Ek-1'de yer alan rapor formatına,
 
-b) Ilaç Kullanım Raporlarını Ek-2' te yer alan rapor formatına,
+b) İlaç Kullanım Raporlarını Ek-2'de yer alan rapor formatına,
 
-c) Tıbbi Malzeme Raporlarını Ek-3' te yer alan rapor formatına,
+c) Tıbbi Malzeme Raporlarını Ek-3'te yer alan rapor formatına,
 
-ș) Durum Bildirir Sağlık Kurulu Raporlarını Ek-4' te yer alan rapor formatına,
+ç) Durum Bildirir Sağlık Kurulu Raporlarını Ek-4'te yer alan rapor formatına,
 
-d) Durum Bildirir Tek Hekim Sağlık Raporlarını Ek-5' de yer alan rapor formatına, uygun olarak düzenler.
+d) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 e) (20/10/2020/4959 Yürürlük: 20/10/2020) Belirlenen rapor formatları dışında Sağlık Bakanlığı e-Rapor Sisteminde yer alan rapor formatları geçerli kabul edilir.
 
@@ -438,17 +438,17 @@ a) Durum Bildirir Tek Hekim Sağlık Raporu almak için birinci basamak sağlık
 
 b) e-Devlet üzerinden düzenlenenler hariç "Kişisel Sağlık Bilgi Formu" aile hekimleri tarafindan aile hekimliğı biriminde muhafaza edılir.
 
-c) Sağlık Bakanlığına bağlı birinci basamak sağlık hizmet sunucularında düzenlenen raporlar için kişilerden ücret talep edilmez.
+c) (10/03/2025/270855722 Yürürlük: 10/03/2025) Mülga
 
 ç) Birinci basamak sağlık hizmet sunucuları tarafindan düzenlenen tek hekim raporları, Aile Hekimliği Bilgi Sistemi üzerinden elektronik olarak düzenlenir.
 
-d) Aile hekimliği sözleşmesi imzalayan aile hekimliği uzmanı ve diğer uzman hekimler aldıkları eğıtım dähilinde ilaç ve tıbbi malzeme kullanım raporları düzenleyebılir.
+d) (10/03/2025/270855722 Yürürlük: 10/03/2025) Hekimler ilaç ve tıbbi malzeme kullanım raporlarını düzenleyebilir.
 
-### ONBIRINCI BOLUM Özel Sağlık Hizmet Sunucularında Sağlık Raporu Düzenlenmesi
+## ONBİRİNCİ BÖLÜM Özel Sağlık Hizmet Sunucularında Sağlık Raporu Düzenlenmesi
 
 #### Genel hükümler
 
-**MADDE 35 –** (1) Özel sağlık hizmet sunucuları tedavi ettiği hastaların; istirahat/iş göremezlik raporlarını, tedavilerinde kullanılan ilaç, tıbbi cihaz ve malzeme kullanımına yönelik sağlık raporları ile sürücü/sürücü adayı sağlık raporlarını düzenleyebilirler.
+**MADDE 35 –** (1) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (2) Sağlık Bakanlığınca izin verilen haller hariç olmak üzere; usulüne uygun olarak teşekkül ettirilmiş olsa bile özel sağlık hizmet sunucuları; birinci fikrada belirtilenler dışında durum bildirir raporları düzenleyemezler. (20/10/2020/4959 Yürürlük: 20/10/2020) Durum bildirir sağlık raporu düzenleme izninin verilebilmesi için özel sağlık hizmet sunucularında Iç Hastalıkları, Kulak Burun Boğaz, Genel Cerrahi, Göz Hastalıkları, Ortopedi ve Travmatoloji veya Fizik Tedavi ve Rehabilitasyon, Nöroloji veya Ruh Sağlığı ve Hastalıkları uzmanlık dallarının hastane ruhsatında kayıtlı bulunması ve bu branştaki kurul üyesi hekimin de hastanede tam gün esasına göre çalışması zorunludur.
 
@@ -584,17 +584,21 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 (8) Rapora itiraz eden kişi, itiraz muayenesi işlemlerinin hangi aşamasında olursa olsun itirazından vazgeçerse veya itiraz merciine başvurmaz ya da işlemleri tamamlamaz ise ilgili makama resmi yazı ile bildirilir. Itirazda bulunan makam bu dilekçe ile kontrol muayenesi işlemini sonlandırabilir. Bu durumda raporun teslim edileceği kurum talebi olmadan yeniden hakem hastane görevlendirmesi yapılmaz.
 
+
+
+(9) (10/03/2025/270855722 Yürürlük: 10/03/2025) Gemi adamı sağlık raporlarına yapılan itiraz başvuruları sevk ve işlemleri, Gemiadamları Sağlık Yönergesinin hükümlerine göre yetkilendirilen merkezlerce yürütülür. İtiraz başvuruları bu merkezlerce Ek-12 Hakem Hastane Listesinde yer alan ve gemi adamı sağlık raporu vermeye yetkili olan sağlık hizmet sunucularına sevk edilir. Rapor kararları aynı yönde ise rapor kesinleşir. Rapor kararları arasında çelişki olması halinde Ek-13 Bölge Hakem Hastaneler Listesinde yer alan ve gemi adamı sağlık raporu vermeye yetkili sağlık hizmet sunucularına sevki yapılır. Bölge Hakem Hastanesi kararı kesindir ve itiraz edilemez.
+
 ## ONÜÇÜNCÜ BÖLÜM
 
 **Ortak ve Son Hükümler**
 
 #### Ortak hükümler
 
-**MADDE 44 –** (1) Başvuru sahibi tarafindan beyan edilmeyen ya da hekimin fiziki muayenesi sırasında belirti ve bulgusuna rastlanmayan çeşitli hastalık ve rahatsızlıkların saptanması için ileri laboratuvar, görüntüleme tetkiklerinin yapılması gerekli değildir. Muayene tarihinde başvuru sahiplerinin haricen sağlam bulunmaları, tam sağlıklı olduklarını göstermez ve raporun düzenlenmesi sonrasında saptanabilecek hastalık ve rahatsızlıkların raporun düzenlendıği tarıhte ortaya çıktığının kanıtı sayılamaz. Ayrıca, kışılerin beyan ettığı ya da fızık muayene ile saptanan hastalık veya rahatsızlıkların ileri tetkik ve tedavi gerektirmesi durumunda kişiler ilgili sağlık kurum/kuruluşlarına yönlendirilir.
+**MADDE 44 –** (1) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (2) Sağlık kurulu raporlarında hekimlerce veya ilgili mevzuatında aksine bir tarih belirtilmediği durumlarda raporlar 2 (iki) yıl geçerlidir.
 
-(3) Yönerge'de özel düzenlemesi bulunduğu belirtilen raporlar dışında birinci basamak sağlık tesislerinde Yönerge eki Ek-5 Durum Bildirir Tek Hekim Sağlık Raporu Formatı dışında başka bir formatta rapor düzenlenemez. Birinci basamak sağlık tesislerinde düzenlenen raporlar hekimlerce aksine bir tarih belirtilmediği durumlarda 1 (bir) yıl boyunca geçerlidir. Bu süre içinde farklı nedenle ile tekrar rapor düzenlenmesine gerek yoktur. Rapor formatında belirtilen ifadeler dışında başvuruya özel ifade istenemez.
+(3) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (4) e-Rapor Sistemi üzerinden düzenlenen raporların çıktı alınarak arşivlenmesine gerek yoktur. E-Rapor Sistemi dışında düzenlenen raporların bir çıktısı alınarak düzenleyen hekim/hekimlerin ıslak imza ve kaşesinden sonra arşivlenecek ve istenilmesi halinde kişiye verilecektir. Ancak Yönerge ve ilgili mevzuatında kişiye teslim edilmeyeceği belirtilen raporlar kişıye teslım edılmez.
 
@@ -602,11 +606,11 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 (6) İlaç kullanım raporları, Sağlık Uygulama Tebliği'nin "İlaç kullanımına esas sağlık raporlarının düzenlenmesi" maddesinde belirtilen hükümler çerçevesinde elektronik ortamda düzenlenecek ve başhekimlik tarafından elektronik ortamda onaylanacaktır. Aile hekimliği sözleşmesi imzalayan aile hekimliği uzmanı ve diğer uzman hekimlerin aldıklanı eğitim dâhilinde düzenledikleri ilaç ve tıbbi malzeme kullanım raporlanı için başhekimlik onay şartı aranmaz.
 
-(7) Sporcu lisansı için sağlık raporu almak üzere başvuran kişiler Gençlik ve Spor Bakanlığı birimlerinden aldıkları sevk belgesi ile sağlık hizmet sunucularına başvurur. Sporcu lisansı dışında sosyal faaliyet amaçhı spor faaliyeti için sağlık raporu alınması zorunlu değildir. Kişilerden alınacak beyan formu ile spor faaliyetlerine katılım sağlanabılir.
+(7) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (8) Bu Yönergenin 43 üncü maddesiyle yürürlükten kaldırılan Sağlık Raporlarına İlişkin Usul ve Esaslar uyarınca, bu Yönergenin yürürlüğe girdiği tarihten önce ve önceki rapor formatlarına göre düzenlenmiş raporlar süresi bitimine kadar geçerlidir.
 
-(9) 50'den az çalışanı bulunan ve az tehlikeli işyerlerinde çalışacak olan kişilerin işe giriş raporları, iş yeri hekimliği belgesi aranmaksızın aile hekimleri ve kamu sağlık hizmet sunucularında görevli tüm hekimlerce düzenlenebilir. Işe giriş raporu almak isteyen kişiler 50'den az çalışanı bulunan ve az tehlikeli işyerlerinde çalışacaklarına dair bir belgeyi başvuru yaptıkları hekime ibraz etmek zorundadır.
+(9) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (10) Devlet memurlarına ve kamu görevlilerine sağlık hizmet sunucularında yatarak tedavilerinden sonra "İş Göremezlik Uygulaması" üzerinden düzenlenen istirahat raporlarında Personel Bilgi Sistemlerine girildiğinde gün boşluğu ya da gün atlaması gibi sorunlar yaşanmaması için; personelin tedavi merkezinden taburcu edildiği tarihin "hastanede yatış" olarak kabul edilmesi ve sisteme işlenirken de taburcu tarihinden sonraki ilk iş günü göreve başlaması gerekmektedir. Sistem kayıtlarına da taburcu edildiği günün ertesi iş günü işe başlama kaydı yapılacaktır.
 
@@ -614,11 +618,13 @@ Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komuta
 
 (12) Rapor formatlarında yer alan durumlar dışında raporlarda mühür ve başhekim onayı aranmayacaktır.
 
-(13) Tüm sağlık hizmet sunucuları eklerde yer verilen rapor formatlarının içerik ve şekil şartlarına aynen uymak zorundadır. Rapor formatlarında istenilen bilgiler eksiksiz doldurulacaktır.
+(13) (İptal: Danıştay 10. Dairesi’nin 31.10.2024 tarihli ve E. 2020/4936 - K. 2024/4404 sayılı kararıyla.)
 
 (14) Yönerge eki yetkili hastane listelerinde, rapor formatlarında yapılan değişikliklerin Sağlık Bakanlığı resmi internet adresinde duyurulmasından itibaren güncel yetkili hastane listeleri veya rapor formatları esas alınır.
 
 (15) (20/10/2020/4959 Yürürlük: 20/10/2020) Adli merciler tarafindan istenen durum bildirir raporlar ile mevzuatta kişiler ile doğrudan paylaşılmayacağı hüküm altına alınan raporlar kişilerin e-Devlet kapısında görüntülenemez.
+
+(16) (10/03/2025/270855722 Yürürlük: 10/03/2025) Bakanlığımız e-Rapor sisteminde uygulamaya konulan raporların sistem üzerinden düzenlenmesi zorunludur. e-Rapor sisteminde entegrasyon sağlanıncaya kadar Kimlik Paylaşım Sisteminde kayıtlı olmayan yabancı uyruklu kişiler için istenilen raporlar ıslak imzalı düzenlenerek “Kimlik Paylaşım Sisteminde kaydı yoktur.” ibaresi raporun açıklama kısmına yazılır.
 
 #### Yürürlükten kaldırılan mevzuat
 

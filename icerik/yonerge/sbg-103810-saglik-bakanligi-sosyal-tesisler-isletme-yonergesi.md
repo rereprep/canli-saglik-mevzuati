@@ -3,15 +3,16 @@ id: "sbg-103810-saglik-bakanligi-sosyal-tesisler-isletme-yonergesi"
 baslik: "Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi"
 tur: "yonerge"
 birim: "Yönetim Hizmetleri Genel Müdürlüğü"
-kaynak: "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr)"
-kaynak_url: "https://www.saglik.gov.tr/TR-103810/saglik-bakanligi-sosyal-tesisler-isletme-yonergesi.html"
 durum: "yürürlükte"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true
+kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı 2026 (İkinci Güncelleme), PDF s. 1002-1010"
+kaynak_url: "https://dosyamerkez.saglik.gov.tr/Eklenti/55445/0/saglik-bakanligi-yonergeler-ve-genelgeler-kitabi---2026-ikinci-guncellemepdf.pdf"
+tarih: "2020-01-24"
+sayi: "955"
+not: "14.01.2025 tarihli ve 265512999 sayılı Bakan Onayı ile yapılan değişiklikler işlenmiştir."
 ---
-
-**9.2.3. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi**
 
 ### SAĞLIK BAKANLIĞI SOSYAL TESİSLER İŞLETME YÖNERGESİ
 
@@ -21,9 +22,9 @@ kontrol_edildi: true
 
 **MADDE 1 –** (1) Bu Yönergenin amacı; Sağlık Bakanlığı merkez ve taşra teşkilatına ait sosyal tesislerin kurulmasına, yönetilmesine, işletilmesine ve sosyal tesis hizmetlerinden yararlanılmasına, ilgili mevzuat kapsamında muhasebe, defter ve kayıtların tutulmasına, hesap verilebilirlik açısından denetim birimlerine ve diğer bilgi kullanıcılarına sunulmasına dair usûl ve esasları düzenlemektir.
 
-**MADDE 2 –** (1) Bu Yönerge; Bakanlık personeli ve emeklilerinin, eşi, çocukları ile kanunen bakmakla yükümlü oldukları aile bireylerinin Bakanlık merkez teşkilatı yemekhanesi hariç olmak üzere yemekhane, kafeterya, eğitim ve dinlenme tesisi, hekim evi, kreş gibi sosyal tesislerin yönetimini, işletilmesini, kapatılmasını, açılmasını ve buralarda verilecek hizmetleri kapsar.
+**MADDE 2 –** (1) Bu Yönerge; Bakanlık personeli ve emeklilerinin, eşi, çocukları ile kanunen bakmakla yükümlü oldukları aile bireylerinin yemekhane, kafeterya, eğitim ve dinlenme tesisi, hekim evi, kreş gibi sosyal tesislerin yönetimini, işletilmesini, kapatılmasını, açılmasını ve buralarda verilecek hizmetleri kapsar.
 
-**MADDE 3 –** (1) Bu Yönerge, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu'nun 191 inci maddesi, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 379 uncu maddesi, Kamu Kurum ve Kuruluşlarınca İşletilen Sosyal Tesislerin Muhasebe Uygulamalarina Dair Esas ve Usuller ile Kamu Sosyal Tesislerine İlişkin Tebliğlere dayanılarak hazırlanmıştır.
+**MADDE 3 –** (1) Bu Yönerge, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu'nun 191 inci maddesi, 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 379 uncu maddesi, 11/12/1986 tarihli ve 19308 sayılı Resmî Gazete'de yayımlanan Devlet Memurları Yiyecek Yardımı Yönetmeliği, Kamu Kurum ve Kuruluşlarınca İşletilen Sosyal Tesislerin Muhasebe Uygulamalarina Dair Esas ve Usuller ile Kamu Sosyal Tesislerine İlişkin Tebliğlere dayanılarak hazırlanmıştır.
 
 **MADDE 4 –** (1) Bu Yönergede geçen;
 
@@ -45,7 +46,7 @@ g) KTS Sosyal Tesis: Milli Emlak Otomasyon Projesi sisteminde oluşturulan
 
 #### Yönetim Kurulu ve Çalışma Esasları
 
-**MADDE 6 –** (1) Yönetim Kurulu bir başkan ve 2 üyeden oluşur. Üye sayısı kadar yedek üye belirlenir. Yönetim Kurulu Başkanını ve üyelerini üst yönetici belirler. Görevlendirmeler bir yıl süre ile yapılır. Görev süresi sona erenler, aynı usülle tekrar görevlendirilebilir.
+**MADDE 6 –** (1) Yönetim Kurulu bir başkan ve dört üyeden oluşur. Üye sayısı kadar yedek üye belirlenir. Yönetim Kurulu Başkanını ve üyelerini üst yönetici belirler. Görevlendirmeler iki yıl süre ile yapılır. Görev süresi sona erenler, aynı usülle tekrar görevlendirilebilir.
 
 (2) Yönetim Kurulu, toplantı gündemindeki konuları görüşmek üzere her yıl Ocak ayında toplanır. Kurul, gerektiğinde Yönetim Kurulu Başkanının çağrısı üzerine ayrıca toplanabilir. Kurulda alınan kararlar, karar defterine yazılır. Karar defteri başkan tarafından onaylanır.
 
@@ -277,7 +278,9 @@ e) Satın alınan her mal veya hizmetin, fatura veya fatura yerine geçen belges
 
 f) Satın alma görevlisi, görevi esnasında kendisi veya başkası hesabına kişisel alışveriște bulunamaz.
 
-## ALTINCI BÖLÜM Son Hükümler
+### ALTINCI BÖLÜM
+
+#### Son Hükümler
 
 #### Personel İstihdamı
 
@@ -291,28 +294,34 @@ f) Satın alma görevlisi, görevi esnasında kendisi veya başkası hesabına k
 
 #### Tesis Açılması ve Kapatılması
 
-**MADDE 16 –** (1) İlin/bölgenin ihtiyaç durumu, personelin yoğunluğu, sosyal tesisin kuruluş amacını gerçekleştirememesi, beklenen faydayı sağlayamaması, idareye gereksiz yük getirmesi, mali sürdürülebilirlik gibi hususlar değerlendirilerek; taşra teşkilatında İl Sağlık Müdürünün, merkez teşkilatında İlgili Daire Başkanının teklifi Genel Müdürün Onayı ile yeni sosyal tesis açılır veya mevcut sosyal tesis kapatılır.
+**MADDE 16 –** (1) İlin/bölgenin ihtiyaç durumu, personelin yoğunluğu, sosyal tesisin kuruluş amacını gerçekleştirememesi, beklenen faydayı sağlayamaması, idareye gereksiz yük getirmesi, malî sürdürülebilirlik gibi hususlar değerlendirilerek; taşra teşkilatında İl Sağlık Müdürünün, merkez teşkilatında ilgili Daire Başkanının teklifi ve Genel Müdürün onayı ile yeni sosyal tesis açılır veya mevcut sosyal tesis kapatılır.
 
-(2) Sosyal tesislerin alacakları tahsil edildikten, borçları ise (elektrik, su, vergi borçları gibi) ödendikten sonra kapatma onayı alımır.
+(2) Sosyal tesislerin alacakları tahsil edildikten, borçları ise (elektrik, su, vergi borçları gibi) ödendikten sonra kapatma onayı alınır.
 
-(3) Kapatılan sosyal tesisin varsa nakdi gelirleri (hazır değerler) Bakanlık Merkez Teşkilatı Sosyal Tesisler hesabına aktarılacaktır.
+(3) Kapatılan sosyal tesisin varsa nakdî gelirleri (hazır değerler) Bakanlık Merkez Teşkilatı Sosyal Tesisler hesabına aktarılır.
 
-(4) Kamu kaynaklarının etkin ve verimli kullanılması amacıyla, kapatılan veya mevcut sosyal tesislerde ihtiyaç fazlası ve kullanılabilir durumda olan mal ve malzemeler tanzim edilecek bir tutanakla üst yöneticinin onayı ile Bakanlığımız bünyeşindeki diğer sosyal tesislere devredilebilir.
+(4) Kamu kaynaklarının etkin ve verimli kullanılması amacıyla, kapatılan veya mevcut sosyal tesislerde ihtiyaç fazlası ve kullanılabilir durumda olan mal ve malzemeler, tanzim edilecek bir tutanakla üst yöneticinin onayı ile Bakanlığımız bünyesindeki diğer sosyal tesislere devredilebilir.
 
 #### Sorumluluk
 
-**MADDE 17 –** (1) Mali ve idari karar ve işlemlere ilişkin her türlü kayıt, bilgi ve
+**MADDE 17 –** (1) Malî ve idarî karar ve işlemlere ilişkin her türlü kayıt, bilgi ve belgeler, yetkililerce düzenli olarak kanunî süresince muhafaza edilir.
 
-(2) Mali iş ve işlemlerin hazırlanması, uygulanması, sonuçlandırılması, muhasebeleștirilmesi, raporlanması işlemlerine ait bilgi ve belgeleri denetimle görevlendirilmiş olanlara ibraz etmek, görevin sağlıklı yapılmasını sağlayacak önlemleri
+(2) Malî iş ve işlemlerin hazırlanması, uygulanması, sonuçlandırılması, muhasebeleştirilmesi ve raporlanması işlemlerine ait bilgi ve belgeleri denetimle görevlendirilmiş olanlara ibraz etmek, görevin sağlıklı yapılmasını sağlayacak önlemleri almak ve her türlü yardım ve kolaylığı göstermek zorunludur.
 
-(3) Bakanlık merkez teşkilatındaki yetkililer, Ek-I Sayılı Merkez Teşkilatı Cetveli'nde yer alan belgeleri; taşra teşkilatındaki yetkililer ise Ek-lI Sayılı Taşra Teşkilatı Cetveli'nde yer alan belgeleri doldurup süresinde ilgili mercilere sunmakla
+(3) Bakanlık merkez teşkilatındaki yetkililer, Ek-I Sayılı Merkez Teşkilatı Cetveli'nde yer alan belgeleri; taşra teşkilatındaki yetkililer ise Ek-II Sayılı Taşra Teşkilatı Cetveli'nde yer alan belgeleri doldurup süresinde ilgili mercilere sunmakla yükümlüdür.
 
-(4) Kamu kaynaklarının kullanılmasında veya yönetiminde kamu zararına sebebiyet verilmesi hålinde sorumlu ve ilgililer hakkında idari, malf ve cezai hükümler Hüküm Bulunmayan Håller
+(4) Kamu kaynaklarının kullanılmasında veya yönetiminde kamu zararına sebebiyet verilmesi hâlinde sorumlu ve ilgililer hakkında idarî, malî ve cezaî hükümler uygulanır.
+
+#### Hüküm Bulunmayan Hâller
 
 **MADDE 18 –** (1) Bu Yönergede yer almayan hususlarda yürürlükte bulunan mevzuat hükümleri uygulanır.
 
-#### (2) Bu Yönergenin uygulanmasında ortaya çıkan tereddütleri gidermeye Genel Müdürlük yetkilidir. Yürürlük
+(2) Bu Yönergenin uygulanmasında ortaya çıkan tereddütleri gidermeye Genel Müdürlük yetkilidir.
 
-**MADDE 19 –** (1) Bu Yönerge Bakan Onayına müteakip yürürlüğe girer. Yürütme
+#### Yürürlük
 
-**MADDE 20 –** (1) Bu Yönerge hükümlerini Sağlık Bakamı yürütür. Ekler: Ek-I Sayılı Merkez Teşkilati Cetveli Ek-II Sayılı Taşra Teşkilatı Cetveli
+**MADDE 19 –** (1) Bu Yönerge Bakan Onayına müteakip yürürlüğe girer.
+
+#### Yürütme
+
+**MADDE 20 –** (1) Bu Yönerge hükümlerini Sağlık Bakanı yürütür.

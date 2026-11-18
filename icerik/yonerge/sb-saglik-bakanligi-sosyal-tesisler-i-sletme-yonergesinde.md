@@ -8,6 +8,9 @@ etiketler: ["personel", "sosyal tesisler", "işletme"]
 kaynak: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2025), s. 940-940"
 durum: "yürürlükte"
 kontrol_edildi: true
+degistirdigi: [{"id": "sbg-103810-saglik-bakanligi-sosyal-tesisler-isletme-yonergesi", "ad": "Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesi (24.01.2020, 955)"}]
+tarih: "2025-01-14"
+sayi: "265512999"
 ---
 
 9.2.3. Sağlık Bakanlığı Sosyal Tesisler İşletme Yönergesinde Değişiklik Yapılmasına Dair Yönerge

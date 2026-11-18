@@ -268,6 +268,9 @@ def _yonerge_notu(n):
     if not (1 <= a <= 12 and 1 <= g <= 31):
         return None
     kalan, once = ic[t.end():], ic[:t.start()]
+    dk = re.search(r"E\.\s*\d{4}/\d+\s*[-–,;]?\s*K\.\s*\d{4}/\d+", ic)
+    if "Danıştay" in ic and dk:  # yargı kararıyla iptal
+        return f"{y}-{a:02d}-{g:02d}", "Danıştay " + re.sub(r"\s+", " ", dk[0])
     m = re.search(r"E\s*-\s*\d[\d.\-\s]*\d", kalan) or re.search(r"E\s*-\s*\d[\d.\-\s]*\d", once)
     if m:
         sayi = re.sub(r"\s+", "", m[0])
@@ -292,6 +295,8 @@ def _yonerge_listesi(b):
         if md and md not in g["maddeler"]:
             g["maddeler"].append(md)
     for satir in (b.get("govde") or "").split("\n"):
+        # "(20/10/2020/4959 Yürürlük: 20/10/2020)" biçimindeki onay notları
+        satir = re.sub(r"\((\d{1,2}/\d{1,2}/\d{4})/(\d+)\s+Yürürlük:[^)]*\)", r"(Değişik: \1 tarihli ve \2 sayılı)", satir)
         m = re.match(r"^\W*(GEÇİCİ MADDE|Geçici Madde|EK MADDE|Ek Madde|MADDE|Madde)\s*[-–]?\s*(\d+[/A-Za-z]*)", satir)
         if m:
             on = m[1].lower()
@@ -317,8 +322,13 @@ def _yonerge_listesi(b):
                 ekle(tarih, sayi, madde)
     for tarih, sayi in bekleyen:
         ekle(tarih, sayi, "")
-    if not gruplar:
+    degistirenler = _YON_DEGISTIREN.get(b["id"], [])
+    if not gruplar and not degistirenler:
         return None
+    for d in degistirenler:  # metinde notu olmayan, sitede kayıtlı değiştiren yönergeler
+        if d.get("tarih") and d["tarih"] not in gruplar and d["tarih"] > (b.get("tarih") or "0"):
+            ac = next((x.get("aciklama") for x in d.get("degistirdigi") or [] if x.get("aciklama")), "")
+            gruplar[d["tarih"]] = {"sayi": d.get("sayi") or "", "maddeler": [ac] if ac else []}
     # Aynı uzun onay sayısı birden çok tarihle geçiyorsa (OCR hatası) en sık geçen tarihte topla
     tarihleri = {}
     for (t, s), n in sayac.items():

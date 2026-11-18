@@ -591,5 +591,28 @@
  "sbg-11239-saglik-bakanligi-yatakli-tedavi-kurumsal-kaliteyi-gelistirme-ve-perfor": {
   "durum": "yürürlükten kaldırıldı",
   "kaldiran": "sbg-11237-kaliteyi-gelistirme-ve-performans-degerlendirme-yonergesi"
+ },
+ "sb-saglik-raporlari-usul-ve-esaslari-hakkinda-yonerge": {
+  "tercih": true
+ },
+ "sbg-11289-merkezi-hekim-randevu-sistemi-calisma-usul-ve-esaslari-hakkinda-yonerg": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "k26b-merkezi-hekim-randevu-sistemi-calisma-usul-ve-esaslari-hakkinda-yonerge-2026"
+ },
+ "sb-merkezi-hekim-randevu-sistemi-mhrs-calisma-usul-ve-esaslari-hakkinda-yonerge": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "k26b-merkezi-hekim-randevu-sistemi-calisma-usul-ve-esaslari-hakkinda-yonerge-2026"
+ },
+ "sbg-11252-saglik-bakanligi-izin-yonergesi": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "k26b-saglik-bakanligi-izin-yonergesi-2025"
+ },
+ "sbg-103773-ozellikli-tibbi-islemler-yonergesi": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "k26b-ozellikli-tibbi-islemler-yonergesi-2024"
+ },
+ "sbg-103807-il-saglik-mudurlugu-ve-birimleri-kurum-hizmet-ve-tesvik-ek-odeme-yoner": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "k26b-il-saglik-mudurlukleri-ve-birimleri-kurum-hizmet-ve-tesvik-ek-odeme-yonergesi-2024"
  }
 }

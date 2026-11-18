@@ -402,3 +402,11 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 2008/42'ye 2018/12'nin kaldırdığı VII. bölüm satırı. Künyede "Değiştiren …" etiketi değiştirenin türüne göre.
 - 2026 kitap üst yazısı (17.02.2026) zaten vardı (hsgm-1023): birim Strateji Geliştirme Başkanlığı, adres artıkları silindi. Yedek: yedek/kitap-yazi-2026/.
 
+
+## 2026-11-18 — 2026 İkinci Güncelleme kitabı sürüm karşılaştırması
+- Klasördeki ../sb-yonergevegenelge2026pdf.pdf de İkinci Güncelleme (aynı 245 başlık, 1180 s.). 7 Kasım karşılaştırması yalnız adlara bakmıştı.
+- Yöntem: her başlığın ilk/son sayfaları Vision OCR (calisma/kitap26-ocr), metin örtüşmesi + sitede geçmeyen yeni tarih/onay sayısı → 9 aday (calisma/kitap26-ocr/yeni-surum-aday.json). Tam sayfalar calisma/kitap26-surum{,-ocr}, ara çıktılar calisma/kitap26-surum-cikti; /private/tmp/bicimle26.py (konumdan paragraf/başlık) + duzelt26.py (site sözlüğüyle ı/i vb.) + luna ajan son okuması.
+- Yeni sürüm kayıtları (k26b-*): MHRS Çalışma Usul ve Esasları Yön. (18.06.2026, E-11045126-010.04-318340972), İzin Yön. (27.03.2025, E-11045126-010.04-272592613), Özellikli Tıbbi İşlemler Yön. (07.08.2024, E-49022165-020-250744371) + değişikliği (14.07.2025, E-11045126-010.04-281994536; Ek-1 listesi kitapta yok), İSM ve Birimleri Kurum Hizmet ve Teşvik Ek Ödeme Yön. (2024, E-49635782-010.04-251348942; 08.01.2026 değişikliği işli). Eski sürümler (sbg-11289 ve kopyası, sbg-11252, sbg-103773, sbg-103807) kendi kaldırma maddelerine göre mülga.
+- Güncellenen metinler: Sağlık Raporları Usul ve Esasları Yön. (Danıştay 10. D. 31.10.2024 E.2020/4936 K.2024/4404 iptalleri 17 yer + 10.03.2025/270855722 değişiklikleri 5 yer; sb- kopyası tercih), Sosyal Tesisler İşletme Yön. (14.01.2025/265512999 değişikliği; değişiklik kaydı bağlandı), Taşra Teşkilatı Kadro Standartları Yön. (2019/2020 değişiklikli metin + 2020-2025 değişiklik onayları), Sürveyans Görevlileri Yön. tarih 19.11.2025 ve duyuru yazısı notu. Yedek: yedek/kitap26-surum-2026-11-18/.
+- site_uret: yönerge değişiklik tablosu "(gg/aa/yyyy/NNNN Yürürlük: …)" notlarını ve Danıştay iptallerini tanıyor; metinde notu olmayan ama sitede kayıtlı değiştiren yönergeleri tabloya ekliyor.
+
