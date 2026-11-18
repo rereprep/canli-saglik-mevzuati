@@ -8,6 +8,7 @@ birim: "Halk Sağlığı Genel Müdürlüğü"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Yonergeler/HSGM_Hizmet_Birimleri_ve_Gorevleri_Hakkinda_Yonergede_Degisiklik_Yapilmasina_Dair_Yonerge.pdf"
 durum: "yürürlükten kaldırıldı"
+kaldiran: "hsgm-daire-baskanliklari-ve-gorevleri-hakkinda-yonerge"
 ocr: true
 duzeltildi: true
 kontrol_edildi: true

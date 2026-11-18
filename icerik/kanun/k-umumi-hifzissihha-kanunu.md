@@ -484,7 +484,7 @@ Bulaşıcı bir hastalığı olduğu belgelenenler ile iş yerinin faaliyet ve h
 
 #### Umumi kadınlar hakkında ahkam
 
-**Madde 128 –** Sıhhat ve İçtimai Muavenet ve Dahiliye Vekaletleri müştereken bir yönetmelik neşrederek umumi kadınlar ve evlerin tabi olacakları hükümler ve bu fuhuş yüzünden intişar eden hastalıkların ve bilhassa zührevi hastalıkların sirayetine mani olacak tedbirleri tesbit ve yine müştereken tatbik ederler.Umumi kadınlarla umumi evler ve bunlara benzer mahaller bu yönetmelikte tarif ve tahdit olunacaktır.[19]
+**Madde 128 –** (İptal: Anayasa Mahkemesinin 16/7/2026 tarihli ve E.: 2025/144; K.: 2026/164 sayılı Kararı ile.)[19]
 
 **Madde 129 –** Fuhşu, sanat ve maişet vasıtası ittihaz eden kadınlardan zührevi hastalıkların her türlü eşkaline, cüzzam, cerp, empetigo, entertrigo, müterakki verem veya Sıhhat ve İçtimai Muavenet Vekaletinin fennen lüzum göreceği sair hastalıklara musap olanların sanatlarının icrasına icap ederse kuvvei cebriye istimali ile mümanaat olunur. Bunlar lüzum görülürse bir müessesede tecrit ve tedavi edilir.
 
@@ -1076,6 +1076,7 @@ Bu Kanun kapsamına giren ve umumun sıhhatine (…) 33 ilişkin davalara, mahke
 | 6745 | 216 | 7/9/2016 |
 | KHK/700 | 6, 7, 19, 30, 50, 52, 55, 87, 88, 122, 128, 131, 141, 211, 294 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018) |
 | 7153 | 127 | 10/12/2018 |
+| AYM E.2025/144, K.2026/164 (İptal) | 128 | 17/11/2026 |
 
 <small>[1] <i>Bu Kanunda, il özel idaresinin sorumlu ve yetkili kılındığı görev ve hizmetlerle ilgili olarak, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm altına alınmıştır.</i></small>
 
@@ -1113,7 +1114,7 @@ Bu Kanun kapsamına giren ve umumun sıhhatine (…) 33 ilişkin davalara, mahke
 
 <small>[18] <i>29/11/2018 tarihli ve 7153 sayılı Kanunun 28 nci maddesiyle bu fıkraya “İçişleri” ibaresinden sonra gelmek üzere “, Çevre ve Şehircilik” ibaresi eklenmiştir.</i></small>
 
-<small>[19] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” ve “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</i></small>
+<small>[19] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamname” ibaresi “yönetmelik” ve “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir. Anayasa Mahkemesinin 16/7/2026 tarihli ve E.: 2025/144; K.: 2026/164 sayılı Kararı ile bu maddenin birinci fıkrasının birinci cümlesi Anayasa’ya aykırı bulunarak, ikinci cümlesi ise 6216 sayılı Kanunun 43 üncü maddesinin (4) numaralı fıkrası gereğince iptal edilmiştir. Karar 17/11/2026 tarihli ve 33433 sayılı Resmî Gazete’de yayımlanmış; iptal hükmünün yürürlüğü için ayrıca süre öngörülmemiştir. İptalden önceki metin: “Sıhhat ve İçtimai Muavenet ve Dahiliye Vekaletleri müştereken bir yönetmelik neşrederek umumi kadınlar ve evlerin tabi olacakları hükümler ve bu fuhuş yüzünden intişar eden hastalıkların ve bilhassa zührevi hastalıkların sirayetine mani olacak tedbirleri tesbit ve yine müştereken tatbik ederler. Umumi kadınlarla umumi evler ve bunlara benzer mahaller bu yönetmelikte tarif ve tahdit olunacaktır.”</i></small>
 
 <small>[20] <i>2/7/2018 tarihli ve 700 sayılı KHK’nin 9 uncu maddesiyle, bu maddede yer alan “nizamnamede” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.</i></small>
 

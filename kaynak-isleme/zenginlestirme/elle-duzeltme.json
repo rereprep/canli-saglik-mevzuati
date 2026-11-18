@@ -153,7 +153,9 @@
  },
  "k-tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri": {
   "tarih": "2021-03-19",
-  "sayi": "2021/1"
+  "sayi": "2021/1",
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sb-tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri-genelgesi-2022-2"
  },
  "sb-olum-bildirim-sistemi-obs-genelgesi-2021-7": {
   "tarih": "2021-08-02"
@@ -165,7 +167,9 @@
   "tarih": "2020-07-23"
  },
  "sbg-11028-poliklinik-hizmetlerinde-oncelik-sirasi-hakkinda-genelge-2010-73-80": {
-  "tarih": "2010-10-20"
+  "tarih": "2010-10-20",
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "poliklinik-hizmetlerinde-oncelik-sirasi-genelge-degisikligi"
  },
  "sbg-11067-ishalli-hastaliklarin-kontrolu-genelgesi-2004-52": {
   "tarih": "2004-04-12"
@@ -234,7 +238,14 @@
   "ayni": "dx-saglik-tesisleri-kurum-hedef-katsayisinin-belirlenmesine-iliskin-yonerge"
  },
  "sbg-103558-2018-30-sayili-genelgede-pratisyen-tabiplerin-hasta-yatirmalari-ve-uzm": {
-  "tercih": true
+  "tercih": true,
+  "degistirdigi": [
+   {
+    "id": "sbg-103596-pratisyen-tabiplerin-hasta-yatirmalari-ve-uzman-tabiplerin-hasta-bakma",
+    "ad": "Pratisyen Tabiplerin Hasta Yatırmaları ve Uzman Tabiplerin Hasta Bakma Yaş Sınırı Genelgesi (2018/30)",
+    "aciklama": "Hasta yatırma ve hasta bakma yaş sınırı hükümleri değiştirildi"
+   }
+  ]
  },
  "sbg-103541-bakim-onarim-tadilat-isleri-genelge-revizyonu": {
   "tercih": true
@@ -268,5 +279,176 @@
  },
  "oz-mezarliklar-hakkinda-nizamname-1931-08-09": {
   "baslik": "Belediye Mezarlıkları Nizamnamesi"
+ },
+ "sbg-11109-bebek-ve-cocuk-izlem-protokolu-genelgesi-2008-45": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103466-bebek-cocuk-ergen-izlem-protokolleri-genelgesi-2019-12"
+ },
+ "sbg-11068-demir-gibi-turkiye-projesi-genelgesi-2004-21": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103481-cocuklara-yonelik-mikrobesin-destek-programlari-genelgesi-2020-03"
+ },
+ "sbg-11100-gebelerde-demir-destek-programi-uygulumasi-genelgesi-2007-6": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103487-gebelere-demir-ve-d-vitamini-destek-uygulamalari-genelgesi-2020-4"
+ },
+ "sbg-11158-gebelere-d-vitamini-destek-programi": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103487-gebelere-demir-ve-d-vitamini-destek-uygulamalari-genelgesi-2020-4"
+ },
+ "sbg-103510-mobil-tarama-ekipleri-genelgesi-2006-61": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "hsgm-871-2025-7-mobil-tarama-ekipleri"
+ },
+ "sbg-11092-2006-61-mobil-tarama-ekiplerinin-idari-mali-ve-calisma-usullerinin-bel": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "hsgm-871-2025-7-mobil-tarama-ekipleri"
+ },
+ "sbg-11140-bebek-olumleri-izlemi-sistemi-genelgesi-2009-31": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103467-bebek-olumleri-izleme-sistemi-genelgesi-2018-7"
+ },
+ "sbg-10722-kamu-idarelerine-bagli-saglik-kurum-ve-kuruluslarinin-birbirlerinden-m": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103616-kamu-idarelerine-bagli-saglik-kurum-ve-kuruluslarinin-birbirlerinden-y"
+ },
+ "sbg-11127-4207-sayili-kanun-hukumlerinin-uygulanmasi": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103495-4207-sayili-kanun-hukumlerinin-uygulanmasi-genelgesi-2009-44"
+ },
+ "sbg-11097-illerde-tutun-kontrol-kurulu-kurulmasi": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103495-4207-sayili-kanun-hukumlerinin-uygulanmasi-genelgesi-2009-44"
+ },
+ "sbg-11136-asi-sonrasi-istenmeyen-etkiler-genelgesi-2009": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-103449-asi-sonrasi-istenmeyen-etkiler-asie-genelgesi-2023-03"
+ },
+ "sbg-11080-genisletilmis-bagisiklama-programi-genelgesi": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-11137-genisletilmis-bagisiklama-programi-genelgesi-2009"
+ },
+ "sbg-11050-saglik-personelinin-ikametine-iliskin-genelge-2012-31": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "shgm-ikamet-mecburiyeti-genelgesinin-yururlukten-kaldirilmasi-2013-16",
+  "sayi": "2012/31"
+ },
+ "sbg-103594-poliklinik-hizmetlerinde-oncelik-sirasi-genelgesi-2010-73-80": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "poliklinik-hizmetlerinde-oncelik-sirasi-genelge-degisikligi"
+ },
+ "sbg-103593-poliklinik-hizmetlerinde-oncelik-sirasi-genelge-degisikligi-2017-10": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "poliklinik-hizmetlerinde-oncelik-sirasi-genelge-degisikligi",
+  "degistirdigi": [
+   {
+    "id": "sbg-103594-poliklinik-hizmetlerinde-oncelik-sirasi-genelgesi-2010-73-80",
+    "ad": "Poliklinik Hizmetlerinde Öncelik Sırası Genelgesi (2016/22)",
+    "aciklama": "Poliklinik muayene öncelik sırası değiştirildi"
+   }
+  ]
+ },
+ "sbg-103618-kamu-zarari-genelgesi-2021-6": {
+  "degistirdigi": [
+   {
+    "id": "sbg-103617-kamu-zarari-genelgesi-2020-5",
+    "ad": "Kamu Zararı Genelgesi (2020/5)",
+    "aciklama": "10 uncu madde yürürlükten kaldırıldı"
+   }
+  ],
+  "tarih": "2021-05-28"
+ },
+ "sb-kamu-zarari-genelgesi-2021-6": {
+  "degistirdigi": [
+   {
+    "id": "sbg-103617-kamu-zarari-genelgesi-2020-5",
+    "ad": "Kamu Zararı Genelgesi (2020/5)",
+    "aciklama": "10 uncu madde yürürlükten kaldırıldı"
+   }
+  ],
+  "tarih": "2021-05-28"
+ },
+ "sb-2018-30-sayili-genelgede-pratisyen-tabiplerin-hasta-yatirmalari-ve-uzman-tabiplerin-hasta-bakma-yas-siniri-degisiklik-yapilmasina-dair-genelge-2020-2": {
+  "degistirdigi": [
+   {
+    "id": "sbg-103596-pratisyen-tabiplerin-hasta-yatirmalari-ve-uzman-tabiplerin-hasta-bakma",
+    "ad": "Pratisyen Tabiplerin Hasta Yatırmaları ve Uzman Tabiplerin Hasta Bakma Yaş Sınırı Genelgesi (2018/30)",
+    "aciklama": "Hasta yatırma ve hasta bakma yaş sınırı hükümleri değiştirildi"
+   }
+  ]
+ },
+ "sbg-103621-tasra-teskilati-isleyisi-genelgesi-2017-18": {
+  "degistirdigi": [
+   {
+    "id": "sbg-25667-tasra-teskilati-isleyisine-yonelik-2017-17-sayili-genelge",
+    "ad": "Taşra Teşkilatı işleyişine yönelik 2017/17 sayılı Genelge",
+    "aciklama": "6 ncı madde değiştirildi"
+   }
+  ]
+ },
+ "sb-tasra-teskilati-i-sleyisi-genelgesi-2017-18": {
+  "degistirdigi": [
+   {
+    "id": "sbg-25667-tasra-teskilati-isleyisine-yonelik-2017-17-sayili-genelge",
+    "ad": "Taşra Teşkilatı işleyişine yönelik 2017/17 sayılı Genelge",
+    "aciklama": "6 ncı madde değiştirildi"
+   }
+  ]
+ },
+ "sbg-103549-tibbi-cihaz-hizmet-ve-tibbi-hizmet-alimlarinda-yaklasik-maliyet-tespit": {
+  "degistirdigi": [
+   {
+    "id": "sbg-10714-doner-sermaye-kaynaklarindan-yapilacak-olan-ihalelerde-uyulmasi-gereke",
+    "ad": "Döner Sermaye Kaynaklarından Yapılacak Olan İhalelerde Uyulması Gereken Usul ve Esaslar Hakkında Genelge(2008-42)",
+    "aciklama": "Tıbbi cihaz hizmet alımlarında fiyat farkı bölümü yürürlükten kaldırıldı"
+   }
+  ]
+ },
+ "sb-tibbi-cihaz-hizmet-ve-tibbi-hizmet-alimlarinda-2011-56": {
+  "degistirdigi": [
+   {
+    "id": "sbg-10714-doner-sermaye-kaynaklarindan-yapilacak-olan-ihalelerde-uyulmasi-gereke",
+    "ad": "Döner Sermaye Kaynaklarından Yapılacak Olan İhalelerde Uyulması Gereken Usul ve Esaslar Hakkında Genelge(2008-42)",
+    "aciklama": "Tıbbi cihaz hizmet alımlarında fiyat farkı bölümü yürürlükten kaldırıldı"
+   }
+  ]
+ },
+ "sbg-11013-tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri-hakkinda-genelge": {
+  "degistirdigi": [
+   {
+    "id": "sbg-10714-doner-sermaye-kaynaklarindan-yapilacak-olan-ihalelerde-uyulmasi-gereke",
+    "ad": "Döner Sermaye Kaynaklarından Yapılacak Olan İhalelerde Uyulması Gereken Usul ve Esaslar Hakkında Genelge(2008-42)",
+    "aciklama": "Tıbbi cihaz hizmet alımları bölümü yürürlükten kaldırıldı"
+   }
+  ]
+ },
+ "sbg-103512-ntp-hsys-gecis-2014-7-sayili-genelge-ye-iliskin-degisiklik-1": {
+  "degistirdigi": [
+   {
+    "id": "sbg-103538-yenidogan-tarama-programi-genelgesi-2014-7",
+    "ad": "Yenidoğan Tarama Programı Genelgesi (2014/7)",
+    "aciklama": "Değişiklik-1: NTP HSYS geçişi"
+   }
+  ],
+  "tarih": "2022"
+ },
+ "sbg-103537-yenidogan-sma-taramasi-2014-7-sayili-genelge-ye-iliskin-degisiklik-2": {
+  "degistirdigi": [
+   {
+    "id": "sbg-103538-yenidogan-tarama-programi-genelgesi-2014-7",
+    "ad": "Yenidoğan Tarama Programı Genelgesi (2014/7)",
+    "aciklama": "Değişiklik-2: SMA taraması eklendi"
+   }
+  ],
+  "tarih": "2022"
+ },
+ "sbg-11157-tutun-kontrolu-calismalarinda-kullanilan-2009-44-sayili-genelge-ekinde": {
+  "degistirdigi": [
+   {
+    "id": "sbg-103495-4207-sayili-kanun-hukumlerinin-uygulanmasi-genelgesi-2009-44",
+    "ad": "4207 Sayılı Kanun Hükümlerinin Uygulanması Genelgesi (2009/44)",
+    "aciklama": "Genelge ekinde değişiklik"
+   }
+  ]
  }
 }

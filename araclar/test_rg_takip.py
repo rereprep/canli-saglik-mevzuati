@@ -72,6 +72,27 @@ class GuncellemeTest(unittest.TestCase):
         self.assertIn('## DEĞİŞİKLİK LİSTESİ', b['govde'])
         self.assertEqual(b['son_degisiklik'], '2025-11-19')
 
+    def test_genelge_degisiklik_ve_mulga_son_degisiklik(self):
+        hedef = {'id': 'g1', 'tur': 'genelge', 'tam_metin': True, 'tarih': '2008-06-05', 'sayi': '2008/42',
+                 'govde': 'Metin (Değişik: RG-12/3/2020-31066) kanun alıntısı.'}
+        degistiren = {'id': 'g2', 'tur': 'genelge', 'tarih': '2011-10-19', 'sayi': '2011/56',
+                      'degistirdigi': [{'id': 'g1', 'aciklama': 'Bölüm kaldırıldı'}]}
+        kaldiran = {'id': 'g3', 'tur': 'genelge', 'tarih': '2024-12-04', 'sayi': '2024/11'}
+        mulga = {'id': 'g4', 'tur': 'genelge', 'tarih': '2016-01-01', 'kaldiran': 'g3', 'durum': 'yürürlükten kaldırıldı'}
+        notlu = {'id': 't1', 'tur': 'tuzuk', 'rg_tarih': '1985-09-07', 'durum': 'yürürlükten kaldırıldı',
+                 'konu': '28/10/2023 tarihli ve 32353 sayılı Resmî Gazete’de yayımlanan Karar ile yürürlükten kaldırılmıştır.'}
+        with patch.dict(site._YON_DEGISTIREN, {'g1': [degistiren]}, clear=True):
+            site.degisiklik_listesi_ekle(hedef)
+            site.son_degisiklik_bul(hedef)
+        self.assertIn('Bölüm kaldırıldı', hedef['govde'])
+        self.assertEqual(hedef['son_degisiklik'], '2011-10-19')  # metindeki kanun alıntısı sayılmaz
+        belgeler = {b['id']: b for b in (kaldiran, mulga, notlu)}
+        with patch.dict(site._KIMLIK, {i: (b['tur'], i) for i, b in belgeler.items()}, clear=True), \
+                patch.dict(site._BELGE, belgeler, clear=True):
+            site.mulga_son_degisiklik(belgeler)
+        self.assertEqual(mulga['son_degisiklik'], '2024-12-04')
+        self.assertEqual(notlu['son_degisiklik'], '2023-10-28')
+
 
 if __name__ == '__main__':
     unittest.main()

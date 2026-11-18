@@ -157,10 +157,11 @@ def belgeleri_oku():
             _ES_DIZIN = None
     sonuc = ciftleri_birlestir(belgeler)
     _YON_DEGISTIREN.clear()
-    for b in sonuc.values():  # yönergeyi değiştiren yönergeler: değişiklik tablosunda bağlantı için
+    takma = {eski: b["id"] for b in sonuc.values() for _, eski in b.get("eski_kimlikler", [])}
+    for b in sonuc.values():  # yönergeyi/genelgeyi değiştirenler: değişiklik tablosunda bağlantı için
         for d in b.get("degistirdigi") or []:
             if d.get("id"):
-                _YON_DEGISTIREN.setdefault(d["id"], []).append(b)
+                _YON_DEGISTIREN.setdefault(takma.get(d["id"], d["id"]), []).append(b)
     for b in sonuc.values():
         b["baslik"] = ad_temizle(b)
         degisiklik_listesi_ekle(b)
@@ -173,7 +174,30 @@ def belgeleri_oku():
         _BELGE[b["id"]] = b
         for _, eski in b.get("eski_kimlikler", []):
             _KIMLIK.setdefault(eski, (b["tur"], b["id"]))
+    mulga_son_degisiklik(sonuc)
     return sonuc
+
+
+def mulga_son_degisiklik(belgeler):
+    """Yürürlükten kaldırılmış kaydın son değişikliği, onu kaldıran mevzuatın (yayım) tarihidir."""
+    for b in belgeler.values():
+        k = b.get("kaldiran") or b.get("yerine")
+        if k and k in _KIMLIK:
+            h = _BELGE.get(_KIMLIK[k][1]) or {}
+            t = h.get("rg_tarih") or h.get("tarih") or ""
+        elif mulga(b):  # kaldıran sitede yok: künye notundaki kaldırma tarihi (RG tarihi öncelikli)
+            yazi = " ".join(str(b.get(a) or "") for a in ("konu_ek", "konu", "not"))
+            if "yürürlükten kaldır" not in yazi:
+                continue
+            bul = (re.findall(r"(\d{1,2})/(\d{1,2})/(\d{4}) tarihli ve \d+ (?:mükerrer )?sayılı Resm[iî] Gazete", yazi)
+                   or re.findall(r"(\d{1,2})[./](\d{1,2})[./](\d{4}) tarihli", yazi))
+            if not bul:
+                continue
+            t = max(f"{y}-{int(a):02d}-{int(g):02d}" for g, a, y in bul)  # kendi yayım tarihi de geçebilir
+        else:
+            continue
+        if re.fullmatch(r"\d{4}(-\d{2}-\d{2})?", t) and t > (b.get("rg_tarih") or b.get("tarih") or "0"):
+            b["son_degisiklik"] = t
 
 
 _KALDIRMA = re.compile(r"(\d{1,2})/(\d{1,2})/(\d{4}) tarihli ve (\d{4,5}) (?:mükerrer |\d\.? ?mükerrer )?sayılı Resm[iî] Gazete[’']?\s?[dt]e yayımlanan ([^.;]{5,400}?)(?=,? ?(?:\d{1,2}/\d{1,2}/\d{4} tarihli)|yürürlükten kaldırılmıştır)")
@@ -213,7 +237,7 @@ _BELGE = {}
 _KIMLIK = {}  # her (güncel ya da eski) kimlik -> sayfası olan (tür, kimlik)
 
 
-SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "ck", "tuzuk", "yonetmelik", "teblig", "yonerge"}
+SD_TURLERI = {"kanun", "khk", "cbk", "bkk", "ck", "tuzuk", "yonetmelik", "teblig", "yonerge", "genelge"}
 
 # Yönergelerdeki değişiklik notları Resmî Gazete'ye değil Bakan/Makam onayına dayanır; yazımları çok çeşitlidir:
 # "(Değişik 18/11/2022 tarihli ve E-43252159-020-2915)", "(Değişiklik: 28.02.2020/1234)",
@@ -327,14 +351,15 @@ def son_degisiklik_bul(b):
         for g, a, y in re.findall(r"(?<![\d/.])(\d{1,2})[./](\d{1,2})[./](\d{4})(?![\d/.])", govde[i:]):
             tarihler.append(f"{y}-{int(a):02d}-{int(g):02d}")
     # Metindeki "... Yayımlandığı Resmî Gazete" tablosu (özellikle tebliğlerde) da taranır
-    for m in re.finditer(r"Yayımlandığı\s+Resm[iî]\s+Gazete", govde):
+    for m in ([] if b["tur"] == "genelge" else re.finditer(r"Yayımlandığı\s+Resm[iî]\s+Gazete", govde)):
         for ln in govde[m.start():].split("\n")[:60]:
             if ln.strip().startswith("|"):
                 for g, a, y in re.findall(r"(?<![\d/.])(\d{1,2})[./](\d{1,2})[./](\d{4})(?![\d/.])", ln):
                     tarihler.append(f"{y}-{int(a):02d}-{int(g):02d}")
-    for n in _NOT.finditer(govde):
+    for n in ([] if b["tur"] == "genelge" else _NOT.finditer(govde)):
         if re.search(r"Değişik|Ek|Mülga|İptal|Yürürlükten|Kaldırıl", n[1]):
             tarihler.append(f"{n[5]}-{int(n[4]):02d}-{int(n[3]):02d}")
+    tarihler += [d["tarih"] for d in _YON_DEGISTIREN.get(b.get("id"), []) if re.fullmatch(r"\d{4}(-\d{2}-\d{2})?", d.get("tarih") or "")]
     tarihler = [x for x in tarihler if "1900" <= x <= bugun and x > (b.get("rg_tarih") or taban or "0")]
     b["son_degisiklik"] = max(tarihler) if tarihler else taban
 
@@ -503,8 +528,31 @@ def _yonetmelik_tablosu(b, govde, yeni):
     return [["Resmî Gazete tarihi", "Resmî Gazete sayısı", "Değişen maddeler"]] + satirlar
 
 
+def _genelge_listesi(b):
+    """Genelgeyi değiştiren (sitede kayıtlı) genelgelerden tarih, sayı ve değişiklik tablosu."""
+    degistirenler = _YON_DEGISTIREN.get(b["id"], [])
+    if not degistirenler:
+        return None
+    satirlar = [["Tarih", "Sayı", "Değişiklik"]]
+    if b.get("tarih") or b.get("sayi"):
+        satirlar.append([tarih_tr(b.get("tarih")) or "–", _hucre(b.get("sayi") or "") or "–", "İlk yayım"])
+    for d in sorted(degistirenler, key=lambda x: x.get("tarih") or "9"):
+        ac = next((x.get("aciklama") for x in d.get("degistirdigi") or [] if x.get("aciklama")), "") or "Değişiklik"
+        sayi = _hucre(d.get("sayi") or "") or "değiştiren genelge"
+        satirlar.append([tarih_tr(d.get("tarih")) or "–", f"[{sayi}](../{d['tur']}/{d['id']}.html)", _hucre(ac)])
+    return satirlar
+
+
 def degisiklik_listesi_ekle(b):
     global _DL
+    if b.get("tur") == "genelge" and b.get("tam_metin"):
+        if "## DEĞİŞİKLİK LİSTESİ" in (b.get("govde") or ""):
+            return
+        liste = _genelge_listesi(b)
+        if liste:
+            b["govde"] = (b["govde"].rstrip() + "\n\n## DEĞİŞİKLİK LİSTESİ\n\n<small>Bu liste, bu genelgeyi değiştiren ve sitede "
+                          "yer alan genelgelerden derlenmiştir.</small>\n\n" + _md_tablo(liste) + "\n")
+        return
     if b.get("tur") == "yonerge" and b.get("tam_metin"):
         if "## DEĞİŞİKLİK LİSTESİ" in (b.get("govde") or ""):
             return
@@ -1325,8 +1373,8 @@ def belge_sayfasi(b):
     if b.get("degisiklikler"):
         lis = "".join(f"<li>{e(tarih_tr(d.get('rg_tarih')))} {('RG ' + e(d.get('rg_sayi'))) if d.get('rg_sayi') else ''} {e(d.get('aciklama'))}</li>" for d in b["degisiklikler"])
         k += f"<tr><th>Değişiklikler</th><td><ul>{lis}</ul></td></tr>"
-    if b.get("tur") == "yonerge" and _YON_DEGISTIREN.get(b["id"]):
-        k += ('<tr><th>Değiştiren Yönerge</th><td>' + "<br>".join(_bag(d["id"]) for d in _YON_DEGISTIREN[b["id"]]) + '</td></tr>')
+    if b.get("tur") in ("yonerge", "genelge") and _YON_DEGISTIREN.get(b["id"]):
+        k += (f'<tr><th>Değiştiren {"Yönerge" if b["tur"] == "yonerge" else "Genelge"}</th><td>' + "<br>".join(_bag(d["id"]) for d in _YON_DEGISTIREN[b["id"]]) + '</td></tr>')
     birimler = b.get("birimler", [])
     etiket = "".join(
         (f'<a class="etiket birim" title="Bu birimin genelge ve yazıları" href="{kok}ara.html?birim={e(_ub.quote(t))}">{e(t)}</a>' if t in birimler

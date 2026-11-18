@@ -7,7 +7,7 @@ rg_sayi: "10786"
 etiketler: ["sağlıkla ilgili genel mevzuat"]
 kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
 kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5984&MevzuatTur=2&MevzuatTertip=4"
-not: "Ek IV: Sağlıkla ilgili tüzükler."
+not: "Ek IV: Sağlıkla ilgili tüzükler. Bu Tüzüğün dayanağı olan 1593 sayılı Umumi Hıfzıssıhha Kanununun 128 inci maddesi, Anayasa Mahkemesinin 16/7/2026 tarihli ve E.: 2025/144; K.: 2026/164 sayılı Kararı ile iptal edilmiştir (RG 17/11/2026, 33433; iptal için erteleme süresi yok). Kararda Tüzük hakkında ayrıca hüküm kurulmamıştır."
 durum: "yürürlükte"
 ---
 
