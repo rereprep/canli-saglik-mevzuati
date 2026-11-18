@@ -410,3 +410,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Güncellenen metinler: Sağlık Raporları Usul ve Esasları Yön. (Danıştay 10. D. 31.10.2024 E.2020/4936 K.2024/4404 iptalleri 17 yer + 10.03.2025/270855722 değişiklikleri 5 yer; sb- kopyası tercih), Sosyal Tesisler İşletme Yön. (14.01.2025/265512999 değişikliği; değişiklik kaydı bağlandı), Taşra Teşkilatı Kadro Standartları Yön. (2019/2020 değişiklikli metin + 2020-2025 değişiklik onayları), Sürveyans Görevlileri Yön. tarih 19.11.2025 ve duyuru yazısı notu. Yedek: yedek/kitap26-surum-2026-11-18/.
 - site_uret: yönerge değişiklik tablosu "(gg/aa/yyyy/NNNN Yürürlük: …)" notlarını ve Danıştay iptallerini tanıyor; metinde notu olmayan ama sitede kayıtlı değiştiren yönergeleri tabloya ekliyor.
 
+
+- Yayın 3c64b5f success; canlıda 4 yeni/güncel yönerge sayfası 200, Sağlık Raporları Danıştay notları görünüyor (1525 kayıt / 1467 tam metin).
