@@ -412,7 +412,7 @@ c) Işçi sağlığı ve güvenliği ile ilgili analizleri yapmak.
 
 ç) Gıda, yakıt, temizlik ürünleri, oyuncak gibi tüketime sunulan her türlü ürünün halk sağlığı açısından gerekli analizlerini yapmak.
 
-d) Bakanlık politikaları doğrultusunda farklı analiz parametrelerinin yapılabilirliğini sağlamak. 
+d) Bakanlık politikaları doğrultusunda farklı analiz parametrelerinin yapılabilirliğini sağlamak.
 
 e) Klinik laboratuvar hizmeti vermek, beşerî (her türlü kan, idrar ve bunun gibi insani) numunelerin mikrobiyolojik, virolojik, toksikolojik ve biyokimyasal testleri ve analizlerini yapmak.
 
@@ -484,7 +484,7 @@ GEÇICİ MADDE 1- (1) Bu Yönerge ile belirlenen standartların üstünde veya b
 
 GEÇİCİ MADDE 2- (Ek madde: 09/10/2019 tarihli ve 13461 sayılı Bakan Onayı)
 
-(1) Bu Yönergede yapılan değişiklik sonucu pozisyonu iptal edilenlerin sözleşmeleri, sözleşme süresinin bitimine kadar devam eder. Bunların görev, yetki ve sorumlulukları Yönergede belirtilen hususlar çerçevesinde İl Sağlık Müdürü/Başhekim tarafından belirlenir. 
+(1) Bu Yönergede yapılan değişiklik sonucu pozisyonu iptal edilenlerin sözleşmeleri, sözleşme süresinin bitimine kadar devam eder. Bunların görev, yetki ve sorumlulukları Yönergede belirtilen hususlar çerçevesinde İl Sağlık Müdürü/Başhekim tarafından belirlenir.
 
 #### Yürürlükten kaldırılan yönerge
 
