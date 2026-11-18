@@ -112,7 +112,14 @@
  },
  "sb-sunnet-islemi-genelgesi": {
   "tarih": "2015-03-23",
-  "sayi": "2015/7"
+  "sayi": "2015/7",
+  "degistirdigi": [
+   {
+    "id": "kismi-genelge-1997-3-saglik-kabinleri",
+    "ad": "Sağlık Kabinlerinin Açılışı ve Denetimi Hakkında Genelge (6091 (1997/3))",
+    "aciklama": "Ek-4 listesindeki \"10. Sünnet için kullanılacak malzemeler\" ve Ek-5 listesindeki \"4. Sünnet\" ibareleri yürürlükten kaldırıldı"
+   }
+  ]
  },
  "yetkilendirilmis-aile-hekimligi-birimi-izleme-ve-degerlendirme-faaliyeti": {
   "tarih": "2023-07-24"
@@ -171,7 +178,24 @@
  "sbg-11028-poliklinik-hizmetlerinde-oncelik-sirasi-hakkinda-genelge-2010-73-80": {
   "tarih": "2010-10-20",
   "durum": "yürürlükten kaldırıldı",
-  "kaldiran": "poliklinik-hizmetlerinde-oncelik-sirasi-genelge-degisikligi"
+  "kaldiran": "poliklinik-hizmetlerinde-oncelik-sirasi-genelge-degisikligi",
+  "degistirdigi": [
+   {
+    "id": "kismi-genelge-2006-113",
+    "ad": "Poliklinik Hizmetlerinde Öncelik Sırasına İlişkin Hükümler İçeren Genelge (2006/113)",
+    "aciklama": "6 ncı madde yürürlükten kaldırıldı"
+   },
+   {
+    "id": "kismi-genelge-2003-123",
+    "ad": "Poliklinik Hizmetlerinde Öncelik Sırasına İlişkin Hükümler İçeren Genelge (2003/123)",
+    "aciklama": "2 nci madde yürürlükten kaldırıldı"
+   },
+   {
+    "id": "kismi-genelge-2005-79",
+    "ad": "Poliklinik Hizmetlerinde Öncelik Sırasına İlişkin Hükümler İçeren Genelge (2005/79)",
+    "aciklama": "1 inci madde yürürlükten kaldırıldı"
+   }
+  ]
  },
  "sbg-11067-ishalli-hastaliklarin-kontrolu-genelgesi-2004-52": {
   "tarih": "2004-04-12"
@@ -509,5 +533,63 @@
  "sb-tibbi-cihazlarla-ilgili-mal-ve-hizmet-alimi-islemleri-genelgesi-2022-2": {
   "durum": "yürürlükten kaldırıldı",
   "kaldiran": "k26-tibbi-cihazlarin-planlanmasi-ve-teminine-iliskin-usul-ve-esaslar-genelgesi-2025-8"
+ },
+ "k22-gecici-koruma-altindaki-yabancilara-iliskin-saglik-hizmetlerinin-yurutulmesi-genelgesi-2015-8": {
+  "degistirdigi": [
+   {
+    "id": "kismi-genelge-2014-4-gecici-koruma",
+    "ad": "Geçici Koruma Altındaki Yabancılara İlişkin Hizmetlerin Yürütülmesi Hakkında Genelge (2014/4)",
+    "aciklama": "\"Sağlık Hizmetleri\" başlığı altındaki hükümler yürürlükten kaldırıldı"
+   }
+  ]
+ },
+ "sbg-103436-adli-tabiplik-hizmetlerinin-yurutulmesinde-uyulacak-esaslar-genelgesi": {
+  "degistirdigi": [
+   {
+    "id": "kismi-yonerge-2001-saglik-hizmetlerinin-yurutulmesi",
+    "ad": "Sağlık Hizmetlerinin Yürütülmesi Hakkında Yönerge (B100TSH01300002-8597)",
+    "aciklama": "Adli Hekimlik Hizmetleri başlıklı 106 ncı madde yürürlükten kaldırıldı"
+   }
+  ]
+ },
+ "sbg-103602-sunnet-islemi-genelgesi": {
+  "degistirdigi": [
+   {
+    "id": "kismi-genelge-1997-3-saglik-kabinleri",
+    "ad": "Sağlık Kabinlerinin Açılışı ve Denetimi Hakkında Genelge (6091 (1997/3))",
+    "aciklama": "Ek-4 listesindeki \"10. Sünnet için kullanılacak malzemeler\" ve Ek-5 listesindeki \"4. Sünnet\" ibareleri yürürlükten kaldırıldı"
+   }
+  ]
+ },
+ "sbg-10721-sosyal-guvenlik-kurumu-mensuplarina-goturu-bedel-hizmet-sunumu-19-02-2": {
+  "degistirdigi": [
+   {
+    "id": "kismi-genelge-2006-77",
+    "ad": "Gelir (Fatura) Tahakkukları ile İlgili Hükümler İçeren Genelge (2006/77)",
+    "aciklama": "Gelir (fatura) tahakkuklarıyla ilgili hükümler yürürlükten kaldırıldı"
+   }
+  ]
+ },
+ "sbg-10998-cerrahi-mudahale-birimlerinde-uygulanacak-cerrahi-mudahale-listesi-hak": {
+  "degistirdigi": [
+   {
+    "id": "kismi-genelge-2006-104",
+    "ad": "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Genelge (2006/104)",
+    "aciklama": "Ek-2 ve Ek-3 değiştirildi"
+   }
+  ]
+ },
+ "sb-i-halelere-katilmaktan-yasaklama-i-slemleri-genelgesi-2018-12": {
+  "degistirdigi": [
+   {
+    "id": "sbg-10714-doner-sermaye-kaynaklarindan-yapilacak-olan-ihalelerde-uyulmasi-gereke",
+    "ad": "Döner Sermaye Kaynaklarından Yapılacak Olan İhalelerde Uyulması Gereken Usul ve Esaslar Hakkında Genelge(2008-42)",
+    "aciklama": "\"VII- İhalelere Katılmaktan Yasaklama\" bölümü yürürlükten kaldırıldı"
+   }
+  ]
+ },
+ "sbg-11239-saglik-bakanligi-yatakli-tedavi-kurumsal-kaliteyi-gelistirme-ve-perfor": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sbg-11237-kaliteyi-gelistirme-ve-performans-degerlendirme-yonergesi"
  }
 }

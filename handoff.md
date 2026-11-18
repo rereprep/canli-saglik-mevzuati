@@ -394,3 +394,11 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 
 - Yayın d1df011 success; canlıda yeni 4 sayfa, mülga künye, 2025/3 ve Hakkında 2026 İkinci Güncelleme bağlantısı doğrulandı (1509 kayıt / 1461 tam metin).
+
+## 2026-11-18 — Kısmi değişiklikler, Hakkında 2024 kitabı, 2026 kitap yazısı
+- Hakkında: Yönergeler ve Genelgeler Kitabı (2024) → ohsad.org PDF bağlantısı.
+- Yalnız bir kısmı kaldırılan, sitede metni olmayan 8 düzenleme "kısmen değiştirildi" künyesi (mulga-genelgeler.json, kismi-*): 2014/4 Geçici Koruma (2015/8), 2001 Sağlık Hizmetlerinin Yürütülmesi Yönergesi md.106 (2005/143), 1997/3 Sağlık Kabinleri (2015/7 Sünnet), 2006/77 (2009/11), 2006/113, 2003/123, 2005/79 (2010/73-80), 2006/104 Ek-2/3 (2009/42). Değiştirenlere degistirdigi bağı. Durum yürürlükte, geri kalanının durumu doğrulanmadı notlu.
+- Tam kaldırılan künyeler: 2000/93 (2005/143), 2005/50 (Kaliteyi Geliştirme ve Performans Değerlendirme Yönergesi 2006). sbg-11239 (17.03.2005/1831 yönerge) aynı yönergeyle mülga.
+- 2008/42'ye 2018/12'nin kaldırdığı VII. bölüm satırı. Künyede "Değiştiren …" etiketi değiştirenin türüne göre.
+- 2026 kitap üst yazısı (17.02.2026) zaten vardı (hsgm-1023): birim Strateji Geliştirme Başkanlığı, adres artıkları silindi. Yedek: yedek/kitap-yazi-2026/.
+

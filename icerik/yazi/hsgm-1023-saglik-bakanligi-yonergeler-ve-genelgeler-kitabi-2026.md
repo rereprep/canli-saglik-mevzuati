@@ -4,7 +4,7 @@ baslik: "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı 2026"
 tur: "yazi"
 tarih: "2026-02-17"
 sayi: "E-39434888-612.01-304211852"
-birim: "Halk Sağlığı Genel Müdürlüğü"
+birim: "Strateji Geliştirme Başkanlığı"
 kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
 kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/GN_Yazi_Gorusler/Saglik_Bakanligi_Yonergeler_ve_Genelgeler_Kitabi_2026.pdf"
 durum: "yürürlükte"
@@ -37,8 +37,6 @@ Bakan a.
 
 Bakan Yardımcısı
 
-Cad. No:9 Çankaya/Ankara 06800 06000 Mali Hizmetler Uzman Yard.
-
 Ek: Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı 2026 (1158 Sayfa)
 
 Dağıtım:
@@ -46,5 +44,3 @@ Dağıtım:
 A PLANI (Merkez Teşkilat ve Bağlı Kuruluşlar)
 
 81 İl Valiliğine (İl Sağlık Müdürlüğü)
-
-Cad. No:9 Çankaya/Ankara 06800 06000 Mali Hizmetler Uzman Yard.

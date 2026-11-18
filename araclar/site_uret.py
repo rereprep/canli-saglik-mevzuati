@@ -1385,7 +1385,8 @@ def belge_sayfasi(b):
         lis = "".join(f"<li>{e(tarih_tr(d.get('rg_tarih')))} {('RG ' + e(d.get('rg_sayi'))) if d.get('rg_sayi') else ''} {e(d.get('aciklama'))}</li>" for d in b["degisiklikler"])
         k += f"<tr><th>Değişiklikler</th><td><ul>{lis}</ul></td></tr>"
     if b.get("tur") in ("yonerge", "genelge") and _YON_DEGISTIREN.get(b["id"]):
-        k += (f'<tr><th>Değiştiren {"Yönerge" if b["tur"] == "yonerge" else "Genelge"}</th><td>' + "<br>".join(_bag(d["id"]) for d in _YON_DEGISTIREN[b["id"]]) + '</td></tr>')
+        _turler = {d["tur"] for d in _YON_DEGISTIREN[b["id"]]}
+        k += (f'<tr><th>Değiştiren {TUR_TEKIL[_turler.pop()] if len(_turler) == 1 else "Düzenleme"}</th><td>' + "<br>".join(_bag(d["id"]) for d in _YON_DEGISTIREN[b["id"]]) + '</td></tr>')
     birimler = b.get("birimler", [])
     etiket = "".join(
         (f'<a class="etiket birim" title="Bu birimin genelge ve yazıları" href="{kok}ara.html?birim={e(_ub.quote(t))}">{e(t)}</a>' if t in birimler
@@ -1592,7 +1593,9 @@ def hakkinda_sayfasi(belgeler):
     kaynaklar = sorted({b.get("kaynak", "").split(", s.")[0] for b in belgeler.values() if b.get("kaynak")})
     kaynak_url = {"Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2026)":
                   "https://dosyamerkez.saglik.gov.tr/Eklenti/53936/0/sb-yonergevegenelge2026pdf.pdf",
-                  KITAP_2026_2: KITAP_2026_2_URL}
+                  KITAP_2026_2: KITAP_2026_2_URL,
+                  "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2024)":
+                  "https://ohsad.org/wp-content/uploads/2024/10/sb-yonerge-ve-genelge-kitabi-2024.pdf"}
     if any(str(x).startswith(KITAP_2026_2) for b in belgeler.values() for x in b.get("diger_kaynaklar", [])):
         kaynaklar = sorted(set(kaynaklar) | {KITAP_2026_2})
 
