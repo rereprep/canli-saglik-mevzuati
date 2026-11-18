@@ -386,3 +386,9 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - sbg-11170 Mesai Saatleri Harici İşyeri Hekimliği sayısı 2014/1 (metin) → sbg-103507 ile birleşti (tam metin sayısı bu yüzden -1).
 - site_uret: katalog künyesinde "ayri" alanı.
 
+
+## 2026-11-18 — Erişilebilir saglik.gov.tr, üst yazı ve 2026 İkinci Güncelleme kitabı
+- SGB üst yazısı (24.07.2026, E-39434888-612.01-322522901) icerik/yazi/sgb-2026-yonergeler-ve-genelgeler-kitabi-ikinci-guncelleme.md.
+- erisilebilir.saglik.gov.tr/TR-53581 alt listeleri (217 kayıt) tarandı (calisma/ustyazi-2026/). Gerçek eksik 2: Yoğun Bakım Hizmetleri Tebliği (mevzuat.gov.tr 15146, 7 değişiklik işli güncel metin; RG 20.07.2011/28000) ve İl Sağlık Müdürlükleri Performans Değerlendirme Yönergesi (21.04.2017/149 Bakan Oluru; Ek-1 tablo, Ek-2..5 bağlantı; kaynakta md.13 yok). Diğerleri sitede başka adla var ya da çıkarılan değişiklik yapan mevzuat / Anayasa (Özcan dışı yedek).
+- 2026 İkinci Güncelleme kitabı (../saglik-bakanligi-yonergeler-ve-genelgeler-kitabi---2026-ikinci-guncellemepdf.pdf, 1180 s.): 245 içindekiler girdisinin hepsi sitede eşleşti (calisma/ustyazi-2026/eslesme.json). kaynak-isleme/kitap-2026-ikinci-guncelleme.json → ilgili kayıtlara "… 2026 (İkinci Güncelleme) (PDF s. N)" ek kaynak; Hakkında'da URL (dosyamerkez 55445).
+

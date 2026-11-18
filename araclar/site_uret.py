@@ -175,7 +175,18 @@ def belgeleri_oku():
         for _, eski in b.get("eski_kimlikler", []):
             _KIMLIK.setdefault(eski, (b["tur"], b["id"]))
     mulga_son_degisiklik(sonuc)
+    kitap = KOK / "kaynak-isleme" / "kitap-2026-ikinci-guncelleme.json"
+    if kitap.exists():  # SB Yönergeler ve Genelgeler Kitabı 2026 İkinci Güncelleme: ek kaynak (PDF sayfası)
+        for kimlik, sayfa in json.loads(kitap.read_text(encoding="utf-8")).items():
+            h = _BELGE.get(_KIMLIK.get(kimlik, (0, kimlik))[1])
+            ad = f"{KITAP_2026_2} (PDF s. {sayfa})"
+            if h and not any(str(x).startswith(KITAP_2026_2) for x in [h.get("kaynak")] + h.get("diger_kaynaklar", [])):
+                h.setdefault("diger_kaynaklar", []).append(ad)
     return sonuc
+
+
+KITAP_2026_2 = "Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı 2026 (İkinci Güncelleme)"
+KITAP_2026_2_URL = "https://dosyamerkez.saglik.gov.tr/Eklenti/55445/0/saglik-bakanligi-yonergeler-ve-genelgeler-kitabi---2026-ikinci-guncellemepdf.pdf"
 
 
 def mulga_son_degisiklik(belgeler):
@@ -1580,7 +1591,10 @@ def ara_sayfasi():
 def hakkinda_sayfasi(belgeler):
     kaynaklar = sorted({b.get("kaynak", "").split(", s.")[0] for b in belgeler.values() if b.get("kaynak")})
     kaynak_url = {"Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2026)":
-                  "https://dosyamerkez.saglik.gov.tr/Eklenti/53936/0/sb-yonergevegenelge2026pdf.pdf"}
+                  "https://dosyamerkez.saglik.gov.tr/Eklenti/53936/0/sb-yonergevegenelge2026pdf.pdf",
+                  KITAP_2026_2: KITAP_2026_2_URL}
+    if any(str(x).startswith(KITAP_2026_2) for b in belgeler.values() for x in b.get("diger_kaynaklar", [])):
+        kaynaklar = sorted(set(kaynaklar) | {KITAP_2026_2})
 
     def kaynak_li(k):
         u = next((u for ad, u in kaynak_url.items() if k.startswith(ad)), "")
