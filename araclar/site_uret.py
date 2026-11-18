@@ -1579,7 +1579,13 @@ def ara_sayfasi():
 
 def hakkinda_sayfasi(belgeler):
     kaynaklar = sorted({b.get("kaynak", "").split(", s.")[0] for b in belgeler.values() if b.get("kaynak")})
-    lis = "".join(f"<li>{e(k)}</li>" for k in kaynaklar if k)
+    kaynak_url = {"Sağlık Bakanlığı Yönergeler ve Genelgeler Kitabı (2026)":
+                  "https://dosyamerkez.saglik.gov.tr/Eklenti/53936/0/sb-yonergevegenelge2026pdf.pdf"}
+
+    def kaynak_li(k):
+        u = next((u for ad, u in kaynak_url.items() if k.startswith(ad)), "")
+        return f'<li>{e(k)} — <a href="{e(u)}" rel="noopener" target="_blank">{e(u)}</a></li>' if u else f"<li>{e(k)}</li>"
+    lis = "".join(kaynak_li(k) for k in kaynaklar if k)
     icerik = f"""<h1>Hakkında</h1>
 <p class="ithaf-buyuk"><em>Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla.</em></p>
 <p>Siteyi düzenleyen: <strong>Mithat Temizer</strong></p>

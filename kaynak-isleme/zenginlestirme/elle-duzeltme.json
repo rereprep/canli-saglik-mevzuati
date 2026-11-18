@@ -269,7 +269,9 @@
   "tercih": true
  },
  "sbg-103525-kurumlarimizda-yer-alan-ticari-alanlarin-kiraya-verilmesi-genelgesi-20": {
-  "tercih": true
+  "tercih": true,
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sb-ticari-alanlarin-kiraya-verilmesi-genelgesi-2025-3"
  },
  "sbg-11112-verem-savasi-hizmetleri-genelgesi": {
   "tarih": "1990"
@@ -450,5 +452,21 @@
     "aciklama": "Genelge ekinde değişiklik"
    }
   ]
+ },
+ "sbg-10541-bakanligimiza-tahsisli-tasinmazlardaki-bufe-kantin-cay-ocagi-gibi-yerl": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sb-ticari-alanlarin-kiraya-verilmesi-genelgesi-2025-3"
+ },
+ "sbg-11030-bakanligimiza-tahsisli-tasinmazlardaki-bufe-kantin-cay-ocagi-gibi-yerl": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sb-ticari-alanlarin-kiraya-verilmesi-genelgesi-2025-3"
+ },
+ "sb-kurumlarimizda-yer-alan-ticari-alanlarin-kiraya-verilmesi-genelgesi-2011-43": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sb-ticari-alanlarin-kiraya-verilmesi-genelgesi-2025-3"
+ },
+ "sbg-103550-ticari-alanlarin-kiraya-verilmesi-genelgesi-2012-49": {
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sb-ticari-alanlarin-kiraya-verilmesi-genelgesi-2025-3"
  }
 }

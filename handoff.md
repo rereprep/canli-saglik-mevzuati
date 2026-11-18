@@ -375,3 +375,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 7 regresyon testi geçti. Yedek: yedek/genelge-iliski-2026-11-18/.
 
 - Yayın ab56a48 success; canlıda 128 iptal notu, AYM tablo satırı, genelge değişiklik listesi, Yürürlükten Kaldıran bağı ve genelge Son Değişiklik sütunu doğrulandı.
+
+## 2026-11-18 — 2025/3 Ticari Alanlar ve Hakkında kaynak bağlantısı
+- 2025/3 Ticari Alanların Kiraya Verilmesi Genelgesi: 2004/32 (sbg-10541), 2011/2 (sbg-11030), 2011/43 (iki kopya), 2012/49 mülga ve 2025/3e bağlı (elle-duzeltme.json). Yedek: yedek/ticari-alan-2025-3/.
+- Hakkında sayfasında Yönergeler ve Genelgeler Kitabı (2026) kaynağına dosyamerkez.saglik.gov.tr PDF bağlantısı (site_uret.hakkinda_sayfasi kaynak_url).
