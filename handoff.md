@@ -412,3 +412,6 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 
 - Yayın 3c64b5f success; canlıda 4 yeni/güncel yönerge sayfası 200, Sağlık Raporları Danıştay notları görünüyor (1525 kayıt / 1467 tam metin).
+
+## 2026-11-18 — HSGM Daire Başkanlıkları Yönergesi onayı
+- Kullanıcı bildirdi: 16.11.2026 tarihli ve E-11045126-010.04-336286164 sayılı Bakan Oluru. tarih 2026-11-16, sayi eklendi; eski 17.11.2026 notu değiştirildi. Yedek: yedek/hsgm-yonerge-onay-2026-11-18/.

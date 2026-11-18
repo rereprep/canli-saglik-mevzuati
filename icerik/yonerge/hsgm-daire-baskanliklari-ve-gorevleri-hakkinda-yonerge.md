@@ -2,7 +2,8 @@
 id: "hsgm-daire-baskanliklari-ve-gorevleri-hakkinda-yonerge"
 baslik: "Halk Sağlığı Genel Müdürlüğü Daire Başkanlıkları ve Görevleri Hakkında Yönerge"
 tur: "yonerge"
-tarih: "2026-11-17"
+tarih: "2026-11-16"
+sayi: "E-11045126-010.04-336286164"
 birim: "Halk Sağlığı Genel Müdürlüğü"
 etiketler: ["halk sağlığı", "teşkilat", "daire başkanlıkları"]
 kaynak: "Halk Sağlığı Genel Müdürlüğü, Görev Tanımımız bölümündeki resmî PDF (28 sayfa); erişim: 17.11.2026"
@@ -10,7 +11,7 @@ kaynak_url: "https://hsgm.saglik.gov.tr/depo/Mevzuat/Yonergeler/hsgm_db_ve_Gorev
 durum: "yürürlükte"
 ocr: true
 kontrol_edildi: true
-not: "Yönergenin tarihi, kullanıcı teyidiyle 17.11.2026 olarak kaydedilmiştir. Kaynak PDF’de Bakan Olurunun sayısı görünmemektedir. 26 ncı madde, 02.10.2017 tarihli ve 1957 sayılı önceki yönergeyi yürürlükten kaldırır."
+not: "16.11.2026 tarihli ve E-11045126-010.04-336286164 sayılı Bakan Oluru ile yürürlüğe konulmuştur (onay bilgisi site sahibince bildirilmiştir; kaynak PDF’de görünmemektedir). 26 ncı madde, 02.10.2017 tarihli ve 1957 sayılı önceki yönergeyi yürürlükten kaldırır."
 ---
 
 ### HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜ DAİRE BAŞKANLIKLARI VE GÖREVLERİ HAKKINDA YÖNERGE
