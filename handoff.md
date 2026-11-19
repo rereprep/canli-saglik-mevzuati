@@ -455,3 +455,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - surum_olustur.py: "MADDE 1. —" biçimi, düz tırnaklı yük, "son fıkra", kanun künyeli govde_al düzeltildi; belge.no ile başka kanuna ait talimatlar atlanıyor.
 - Sonuç (madde doğrulama): Optisyenlik 25/25, Kozmetik 11/11, CMK 247/349, Belediye 76/101, 5510 116/244, TCK 116/349, Büyükşehir 13/39. Toplam (tüm türler) 2522/3428. Doğrulanamayanlar sitede mor işaretli.
 - Eksik: 5283 ve Biyogüvenlik için değişiklik metni bulunamadı; 1997 öncesi kanunlar kapsam dışı. Kanun talimat dilinin (uygula2/yollari_coz) daha iyi işlenmesi açık iş.
+- RG mükerrer sayılarda bulunan ilk metinler: Harcama Belgeleri (20051231M3-2) 64/73, Biyosidal (20091231M4-11) 56/74, İlaç Geri Ödeme (20220825M1-1) 19/19.
+- Hâlâ sürümsüz: İVD 2021 ve Tıbbi Cihaz 2021 (RG PDF'leri taranmış görüntü, 142 sayfa), Hasta Hakları 1998 ve Radyasyon Güvenliği 2000 (RG'de yalnız taranmış PDF). OCR ile yapılabilir.
