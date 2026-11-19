@@ -434,3 +434,10 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Site: site_uret.surumleri_yukle → _site/surum/<kimlik>.json (her sürüm için HTML); panelde "O tarihteki metni göster" (varsayılan açık) seçilen tarihteki metni gösterir, kaynak RG sayılarını bağlar. İlk metni okunamayan (yalnız PDF: Tıbbi Cihaz 2021) ve RG'de bulunamayan 6 belge (Hasta Hakları, Radyasyon Güvenliği 2000, Biyosidal, İVD, Harcama Belgeleri, İlaç Geri Ödeme) eski işaretleme görünümünde.
 - Kalan: kanunlar (değişiklikler başka kanunların içinde), RG'de olmayan yönerge/genelge eski hâlleri (kitap baskıları vb.).
 
+
+## 2026-11-19 — Zaman çizelgesinde yürürlük tarihleri
+- site_uret: _z_yururluk_haritasi/_z_yur. Değişiklik notu ve dipnotlardaki tarih (kabul/KHK/AYM karar tarihi) yerine, sayfadaki "yürürlüğe giriş" tablosunda değiştiren numaranın tarihi kullanılıyor; AYM iptallerinde tablo yoksa kararın yayımlandığı RG tarihi (erteleme yoksa).
+- Tablo hücresinde parantez içindeki tarih öncelikli (ör. KHK/700: 9/7/2018).
+- 1593 sayılı Kanunda iki parçalı değişiklik tablosu birleştirildi; sayfa numarası artıkları (1100-1104, 2827-2871) silindi.
+- Md. 127: 663 KHK → 2/11/2011, 7153 → 10/12/2018. Md. 128: 700 KHK → 9/7/2018, AYM iptali → 17/11/2026.
+- surum_kanun.py arka planda (log /private/tmp/sk.log); yürürlük tablosundaki tarihten RG araması yapıyor.

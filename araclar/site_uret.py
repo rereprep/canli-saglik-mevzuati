@@ -1465,6 +1465,61 @@ def _z_duz(ic):
     return " ".join(html.unescape(re.sub(r"<[^>]+>", "", ic)).split())
 
 
+def _z_hucre_tarih(h):
+    """Yürürlük hücresindeki tarih: parantez içindeki tarih öncelikli; birden çok belirsiz tarih varsa None."""
+    m = re.search(r"\(([^()]*)\)", h)
+    if m and _z_tarih(m.group(1)):
+        return _z_tarih(m.group(1))
+    t = [x for x in (_z_tarih(" ".join(y)) for y in [[g + "/" + a + "/" + yy] for g, a, yy in _Z_TARIH.findall(h)]) if x]
+    return t[0] if len(set(t)) == 1 else None
+
+
+def _z_yururluk_haritasi(govde_html):
+    """Değişiklik listesi tablosundan değiştiren kanun/KHK/AYM kararı → yürürlük tarihi."""
+    har = {}
+    for tb in re.finditer(r'<table class="metin-tablo">(.*?)</table>', govde_html, re.S):
+        for r in re.findall(r"<tr>(.*?)</tr>", tb.group(1), re.S):
+            h = [_z_duz(x) for x in re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", r, re.S)]
+            if len(h) < 2 or not re.search(r"Yürürlü", " ".join(_z_duz(x) for x in re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", tb.group(1)[:3000], re.S)[:4])):
+                continue
+            t = _z_hucre_tarih(h[-1])
+            if not t:
+                continue
+            if "AYM" in h[0] or "Anayasa" in h[0]:
+                k = re.search(r"K\.?\s*:?\s*(\d{4}/\d+)", h[0])
+                anahtar = "AYM" + k.group(1) if k else None
+            elif re.search(r"KHK|Kanun Hükmünde", h[0]):
+                k = re.search(r"(\d{2,4})", h[0])
+                anahtar = "KHK" + k.group(1) if k else None
+            else:
+                k = re.match(r"\s*(\d{2,4})\s*$", h[0])
+                anahtar = "K" + k.group(1) if k else None
+            if anahtar:
+                har[anahtar] = t
+    return har
+
+
+def _z_yur(metin, t, har):
+    """Değişiklik notundaki/dipnottaki tarih kabul ya da karar tarihidir; yürürlük tarihi biliniyorsa onu döndürür."""
+    if "Anayasa Mahkemesi" in metin:
+        k = re.search(r"K\.?\s*:?\s*(\d{4}/\d+)", metin)
+        if k and "AYM" + k.group(1) in har:
+            return har["AYM" + k.group(1)]
+        rg = re.search(r"(\d{1,2}/\d{1,2}/\d{4})\s*tarihli\s*ve\s*\d+\s*sayılı\s*Resm[îi]\s*Gazete", metin)
+        if rg and not re.search(r"ay\s+sonra|yürürlüğe\s+girmek\s+üzere", metin):
+            return _z_tarih(rg.group(1)) or t
+        return t
+    m = re.search(r"\d{4}\s*[-–]\s*(KHK[-/–\s]*)?(\d{3,4})\s*/\s*\d+", metin)
+    if m:
+        anahtar = ("KHK" if m.group(1) else "K") + m.group(2)
+    else:
+        m = re.search(r"(\d{3,4})\s*sayılı\s*(.{0,40})", metin)
+        if not m or re.match(r"\s*Resm", m.group(2)):
+            return t
+        anahtar = ("KHK" if re.search(r"KHK|Kanun Hükmünde", m.group(2)) else "K") + m.group(1)
+    return har.get(anahtar, t)
+
+
 def zaman_isle(b, govde_html):
     """Metindeki değişiklik notlarını (Değişik/Ek/Mülga/İptal …) ve dipnotlardaki değişiklik açıklamalarını
     bloklara data-z olarak yazar; sayfadaki zaman çizelgesi için belge düzeyindeki veriyi döndürür."""
@@ -1472,6 +1527,7 @@ def zaman_isle(b, govde_html):
     bugun = dt.date.today().isoformat()
     bas = b.get("tarih") or b.get("rg_tarih") or ""
     bloklar = list(_Z_BLOK.finditer(govde_html))
+    har = _z_yururluk_haritasi(govde_html)
     # dipnotlar: <small>[n] … </small>
     dipnot = {}
     for m in bloklar:
@@ -1490,6 +1546,9 @@ def zaman_isle(b, govde_html):
                     olaylar.append([t, k, "ibare" if "ibare" in cumle else "", 0, cumle])
                 elif olaylar:
                     olaylar[-1][4] += " " + cumle
+            for o in olaylar:
+                o[0] = _z_yur(o[4], o[0], har)
+            olaylar = [o for o in olaylar if bas[:4] <= o[0] <= bugun]
             if olaylar:
                 dipnot[n] = olaylar
     cikti, son, hepsi = [], 0, set()
@@ -1513,6 +1572,7 @@ def zaman_isle(b, govde_html):
                 for x in parcalar:
                     tm = _Z_TUR.match(x)
                     t = _z_tarih(tm.group(3)) or _z_tarih(tm.group(2))
+                    t = t and _z_yur(n.group(1) if "Anayasa" in x else x, t, har)
                     if not t or not (bas[:4] <= t <= bugun):
                         continue
                     k = {"E": "e", "M": "m", "İ": "i"}.get(tm.group(1)[0], "d")
@@ -1548,7 +1608,7 @@ def zaman_isle(b, govde_html):
         if not satirlar or not re.search(r"Yürürlüğe Giriş|Onay tarihi|Değişen|Değişiklik|Resmî Gazete|Yayımlandığı", " ".join(satirlar[0] + (satirlar[1] if len(satirlar) > 1 else [])), re.I):
             continue
         for r in satirlar:
-            tarihler = [x for x in (_z_tarih(h) for h in r[::-1]) if x]
+            tarihler = [x for x in (_z_hucre_tarih(h) or _z_tarih(h) for h in r[::-1]) if x]
             if not tarihler or "İlk" in " ".join(r):
                 continue
             t = tarihler[0]

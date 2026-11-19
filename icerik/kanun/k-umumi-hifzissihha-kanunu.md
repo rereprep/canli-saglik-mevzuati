@@ -1061,14 +1061,6 @@ Bu Kanun kapsamına giren ve umumun sıhhatine (…) 33 ilişkin davalara, mahke
 | KHK/560 | – | 28/6/1995 |
 | 4854 | – | 6/5/2003 |
 | 5179 | 3, 20, 170, 171, 172, 181,182, 183, 184, 188, 189, 190, 191, 192, 195, 198,199, 297 ve Ek Madde 3 | 5/6/2004 |
-
-1100-1104
-
-### 1593 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
-
-### YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
-
-| Değiştiren Kanunun/ KHK’nin Numarası | 1593 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi |
 | 5728 | 110, 282, 283, 284, 285, 287, 288, 289, 290, 291, 292, 294, 295, 296, 297, 298, 299, 301, 302 | 8/2/2008 |
 | KHK/663 | 10, 11, 12, 13, 14, 15, 17, 126, 127, 180, Geçici Madde 1 | 2/11/2011 |
 | 6354 | 153 | 12/7/2012 |

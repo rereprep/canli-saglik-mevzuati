@@ -725,8 +725,6 @@ Yukarıda cins, miktar ve süresi ile nitelikleri yazılı giyim eşyasını tam
 
 ### İMZASI :
 
-2827-2871
-
 |  | 14/9/1991 TARİHLİ VE 91/2268 SAYILI BAKANLAR KURULU KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN TABLO |
 | Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Kararnamenin | 91/2268 Sayılı Bakanlar Kurulu Kararı ile Yürürlüğe Konulan Yönetmeliğin Değişen Maddeleri | Yürürlüğe Giriş Tarihi |  |
 | Tarihi | Numarası |  |
