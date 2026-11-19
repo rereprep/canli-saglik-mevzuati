@@ -77,6 +77,20 @@
       d.addEventListener("click",function(){sec(i===tum.length-1?"":t);});cizgi.appendChild(d);dugmeler.push(d);});
     var u0=document.createElement("span");u0.className="zn-uc";u0.textContent=tr(tum[0]);cizgi.appendChild(u0);
     var u1=document.createElement("span");u1.className="zn-uc sag";u1.textContent="Bugün";cizgi.appendChild(u1);
+    // RG değişiklik metinlerinden kurulmuş tarihli sürümler
+    var surumler=null, surumSoz=null, asilHtml=zm.innerHTML, gsec=document.getElementById("zaman-goster");
+    function surumYukle(){if(!V.v)return Promise.resolve(null);if(surumSoz)return surumSoz;
+      var ad=location.pathname.split("/").pop().replace(/\.html$/,"");
+      surumSoz=fetch("../../surum/"+ad+".json").then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(x){surumler=x;return x;}).catch(function(){surumSoz=null;return null;});return surumSoz;}
+    function surumGoster(D){var v=null;(surumler||[]).forEach(function(x){if(x.t<=D)v=x;});if(!v)return false;
+      zm.innerHTML=v.h;var i=surumler.indexOf(v),son=i===surumler.length-1;
+      var kay=surumler.slice(0,i+1).map(function(x){return (x.url?'<a href="'+e(x.url)+'" target="_blank" rel="noopener">':"")+tr(x.t)+(x.ilk?" (ilk yayım)":"")+(x.url?"</a>":" (metni bulunamadı)");}).join(", ");
+      durum.innerHTML="<p><strong>"+tr(D)+" tarihindeki metin gösteriliyor.</strong> "+(v.ilk?"Bu, Resmî Gazete'de ilk yayımlanan metindir.":"İlk yayım metnine "+tr(v.t)+" tarihine kadarki değişiklikler Resmî Gazete'deki değişiklik metinlerinden işlenerek oluşturulmuştur.")
+        +(v.belirsiz?" "+v.belirsiz+" maddenin metni kesinleştirilemedi; bu maddeler işaretlidir.":"")
+        +(surumler.slice(0,i+1).some(function(x){return x.eksik;})?" Bazı değişiklik metinleri bulunamadığı için ilgili maddeler eksik kalmış olabilir.":"")
+        +(son?"":" Bu tarihten sonra "+(surumler.length-1-i)+" değişiklik daha yapılmıştır.")
+        +"</p><p class=\"zaman-kaynak\">Kaynak Resmî Gazete sayıları: "+kay+"</p>";
+      return true;}
     function sinif(o){var k=o[1],s=(o[2]||"").toLocaleLowerCase("tr"),bas=o[3]>0&&!/ibare|cümle|kelime|başlık|tanım/.test(s);
       if(k==="e")return bas?"yok":"farkli";
       if(k==="m"||k==="i")return bas?"kalkti":"farkli";
@@ -91,9 +105,12 @@
       var d=document.createElement("div");d.className="zn "+cls;d.innerHTML="<strong>"+e(m)+"</strong>"+ayr.map(function(x){return "<br><small>"+e(x)+"</small>";}).join("");return d;}
     function temizle(){zm.querySelectorAll(".zn").forEach(function(x){x.remove();});
       zm.querySelectorAll(".z-yok,.z-farkli,.z-kalkti,.z-gizli").forEach(function(x){x.classList.remove("z-yok","z-farkli","z-kalkti","z-gizli");});}
-    function uygula(){temizle();var D=secili;
+    function uygula(){if(zm.querySelector(".zn.belirsiz")||zm.getAttribute("data-surum")){zm.innerHTML=asilHtml;zm.removeAttribute("data-surum");}temizle();var D=secili;
       dugmeler.forEach(function(d,i){d.classList.toggle("aktif",D?(tum[i]<=D&&(i===tum.length-1||tum[i+1]>D)):i===tum.length-1);});
       if(!D){durum.innerHTML="";return;}
+      if(V.v&&(!gsec||gsec.checked)&&(!V.b||D>=V.b)&&!(V.s&&V.s.t&&D>=V.s.t)){
+        if(surumler){if(surumGoster(D)){zm.setAttribute("data-surum","1");return;}}
+        else{durum.innerHTML="<p>Bu tarihteki metin yükleniyor…</p>";surumYukle().then(function(){if(secili===D)uygula();});return;}}
       var h="<p><strong>"+tr(D)+" tarihindeki durum.</strong> ";
       if(V.b&&D<V.b){var o=(V.o||[]).filter(function(x){return !x.b||x.b<=D;});
         durum.innerHTML=h+"Bu "+e(V.tur).toLocaleLowerCase("tr")+" o tarihte henüz yürürlükte değildi (tarihi: "+tr(V.b)+")."+(o.length?" O tarihte yürürlükte olan önceki düzenleme: "+o.map(function(x){return '<a href="'+e(x.u)+'?tarih='+D+'">'+e(x.a)+"</a>";}).join(", ")+".":" Önceki düzenlemenin metni sitede bulunmuyor.")+"</p>";return;}
@@ -123,7 +140,7 @@
     kay.addEventListener("input",function(){var i=+kay.value;sec(i===tum.length-1?"":tum[i]);});
     ti.addEventListener("change",function(){sec(ti.value);});
     document.getElementById("zaman-guncel").addEventListener("click",function(){sec("");});
-    yal.addEventListener("change",uygula);
+    yal.addEventListener("change",uygula);if(gsec)gsec.addEventListener("change",uygula);
     window.csmZaman=uygula;
     var ilkT=new URLSearchParams(location.search).get("tarih");
     if(ilkT&&/^\d{4}-\d{2}-\d{2}$/.test(ilkT)){pan.open=true;sec(ilkT);}

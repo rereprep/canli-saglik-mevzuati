@@ -425,3 +425,12 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 
 - Yayın 949cfa2 success; canlıda Umumi Hıfzıssıhha, Sağlık Raporları, Radyoloji, MHRS sayfalarında ?tarih= işaretleri ve uyarıları doğrulandı, JS hatası yok.
+
+## 2026-11-19 — Tarihli sürümler (RG değişiklik metinlerinden)
+- araclar/surum_indir.py: mevzuat.gov.tr metinlerinin sonundaki RG tablosundan (ilk yayım + değişiklikler) RG fihristinde eşleşen sayfaları indirir (mükerrer M1..M5, "Bazı Yönetmeliklerde Değişiklik" toplu metinleri, fihrist sayfası gelirse içinden eşleştirme). Önbellek kaynak-isleme/indirilen/rg-surum/ (git dışı), indeks kaynak-isleme/surum/indeks.json. 83 yönetmelik/tebliğ, 263 değişiklik metninden 261'i bulundu.
+- araclar/surum_olustur.py: ilk metne değişiklik talimatlarını sırayla uygular (uygula2: Türkçe hal ekleriyle madde→fıkra→bent→alt bent yolu, çoklu yol/fiil, ibare/ifade değiştir-ekle-çıkar, cümle, madde/fıkra/bent ekleme, mülga, başlık, bölüm başlığı, başka yönetmeliğe ait talimatı atlama). Son hâl güncel metinle madde madde karşılaştırılır (dogrulama). Çıktı kaynak-isleme/surum/<kimlik>.json.
+- Doğrulanamayan maddeler ajanlara (3 terra, 3 luna) verildi: calisma/surum-is/<kimlik>/ (git dışı), araclar/surum_kontrol.py ile denetim; araclar/surum_duzeltme_al.py yalnız son metni güncelle ≥%97 tutan maddeleri kaynak-isleme/surum/duzeltme/ altına alır (259/287 madde).
+- Sonuç: 77 belgede 2.291 maddenin 2.082'si (%91) tarihli geçmişi doğrulanmış. Kalan maddeler sitede "kesinleştirilemedi" diye işaretli (mor).
+- Site: site_uret.surumleri_yukle → _site/surum/<kimlik>.json (her sürüm için HTML); panelde "O tarihteki metni göster" (varsayılan açık) seçilen tarihteki metni gösterir, kaynak RG sayılarını bağlar. İlk metni okunamayan (yalnız PDF: Tıbbi Cihaz 2021) ve RG'de bulunamayan 6 belge (Hasta Hakları, Radyasyon Güvenliği 2000, Biyosidal, İVD, Harcama Belgeleri, İlaç Geri Ödeme) eski işaretleme görünümünde.
+- Kalan: kanunlar (değişiklikler başka kanunların içinde), RG'de olmayan yönerge/genelge eski hâlleri (kitap baskıları vb.).
+

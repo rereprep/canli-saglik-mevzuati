@@ -110,5 +110,20 @@ class GuncellemeTest(unittest.TestCase):
         self.assertIn('2018-07-26', veri['n'])
 
 
+    def test_surum_talimat_cozumleme(self):
+        import surum_olustur as so
+        ilk = ("**MADDE 5 –** (1) Giriş.\n\n(2) Kadrolar:\n\na) Yönetim;\n\n1) Eski bir.\n\nç) İdari;\n\n1) Ayniyat.\n\n2) Eski iki.\n\n"
+               "(3) Unvan:\n\na) Eski a.\n\n**GEÇİCİ MADDE 1 –** (1) Geçici.")
+        b = so.Belge(ilk)
+        ok, etk, _ = so.uygula2(b, "Aynı Yönetmeliğin 5 inci maddesinin ikinci fıkrasının (ç) bendinin (2) numaralı alt bendi ile "
+                                   "üçüncü fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.", ["“2) Yeni iki.”", "“a) Yeni a.”"], "1/1/2020-1", {})
+        metin = "\n".join(b.p)
+        self.assertTrue(ok)
+        self.assertIn("2) (Değişik:RG-1/1/2020-1) Yeni iki.", metin)
+        self.assertIn("a) (Değişik:RG-1/1/2020-1) Yeni a.", metin)
+        self.assertIn("1) Eski bir.", metin)
+        self.assertEqual([m[0] for m in b.maddeler()], ["5", "gecici-1"])
+
+
 if __name__ == '__main__':
     unittest.main()

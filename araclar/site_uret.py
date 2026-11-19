@@ -1443,6 +1443,7 @@ def belge_sayfasi(b):
 
 
 # ---------------------------------------------------------------- tarihe göre görüntüleme
+SURUM_CIKTI = {}
 _Z_NOT = re.compile(r"\((Değişik(?:lik)?|Degişik|Ek|Mülga|İptal)\b([^():]{0,60}?)(?::|(?=\s*\d))\s*([^()]{0,260}?)\)")
 _Z_PAR = re.compile(r"\(([^()]{3,400})\)")
 _Z_TUR = re.compile(r"^\s*(Değişik(?:lik)?|Degişik|Ek|Mülga|İptal|Yeniden düzenleme)\b([^():]{0,60}?)(?::|(?=\s*\d))\s*(.{0,260})$", re.S)
@@ -1566,9 +1567,65 @@ def zaman_isle(b, govde_html):
         sonraki = {"a": h.get("baslik", ""), "u": f"../{_KIMLIK[k][0]}/{_KIMLIK[k][1]}.html", "t": b.get("son_degisiklik") or h.get("rg_tarih") or h.get("tarih") or ""}
     noktalar = sorted({t for t in hepsi if t > bas} | ({bas} if bas else set()) | {o["b"] for o in onceki if o["b"]}
                       | ({sonraki["t"]} if sonraki and sonraki["t"] else set()))
+    sv = surumleri_yukle(b) if b.get("tam_metin") else None
+    if sv:
+        SURUM_CIKTI[b["id"]] = sv
+        noktalar = sorted(set(noktalar) | {x["t"] for x in sv})
     if len(noktalar) < 2 and not onceki and not sonraki:
         return govde_html, None
-    return govde_html, {"b": bas, "n": noktalar[-250:], "l": sorted(liste)[-300:], "o": onceki, "s": sonraki, "tur": TUR_TEKIL[tur]}
+    return govde_html, {"v": 1 if sv else 0, "b": bas, "n": noktalar[-250:], "l": sorted(liste)[-300:], "o": onceki, "s": sonraki, "tur": TUR_TEKIL[tur]}
+
+
+# ---------------------------------------------------------------- tarihli sürümler (RG değişiklik metinlerinden)
+def surumleri_yukle(b):
+    """kaynak-isleme/surum/<kimlik>.json + varsa ajan düzeltmesi (calisma/surum-is/<kimlik>/duzeltme.json)."""
+    for kimlik in [b["id"]] + [i for _, i in b.get("eski_kimlikler", [])]:
+        yol = KOK / "kaynak-isleme" / "surum" / f"{kimlik}.json"
+        if yol.exists():
+            break
+    else:
+        return None
+    s = json.loads(yol.read_text(encoding="utf-8"))
+    if len(s.get("surumler") or []) < 2:
+        return None
+    sys.path.insert(0, str(KOK / "araclar"))
+    import surum_olustur as so
+    if len(so.Belge(s["surumler"][0]["md"]).maddeler()) < 2:
+        return None  # ilk metin okunamadı (ör. yalnız PDF yayımlanmış)
+    dog = dict(s.get("dogrulama") or {})
+    duz_yol = KOK / "kaynak-isleme" / "surum" / "duzeltme" / f"{kimlik}.json"
+    duz = json.loads(duz_yol.read_text(encoding="utf-8")).get("maddeler", {}) if duz_yol.exists() else {}
+    cikti = []
+    for v in s["surumler"]:
+        belge = so.Belge(v["md"])
+        for k, kayitlar in duz.items():
+            gecerli = [x for x in kayitlar if x["t"] <= v["t"]]
+            if not gecerli:
+                continue
+            yeni = [so.temiz_p(p) for p in so.paragraflar(gecerli[-1]["md"])] if gecerli[-1]["md"] else []
+            r = belge.madde(k)
+            if r:
+                belge.p[r[0]:r[1]] = yeni
+            elif yeni:
+                yer = so._ek_yeri(belge, k)
+                belge.p[yer:yer] = yeni
+        sirali = [m[0] for m in belge.maddeler()]
+        belirsiz = set() if v.get("tur") == "ilk" else {k for k in sirali if not dog.get(k) and k not in duz}
+        govde = "\n\n".join(("#### " + p) if so._baslik_mi(p) and not p.startswith("#") and len(p) < 120 else p for p in belge.p)
+        h = md_html(govde)
+        parcalar, n = [], 0
+        for m in re.finditer(r'<p class="madde"', h):
+            parcalar.append(m.start())
+        for idx in reversed(range(min(len(parcalar), len(sirali)))):
+            if sirali[idx] in belirsiz:
+                yer = parcalar[idx]
+                h = (h[:yer] + '<div class="zn belirsiz"><strong>Bu maddenin bu tarihteki metni kesinleştirilemedi.</strong> '
+                     'Değişiklik metinleri otomatik uygulandı ancak sonuç bugünkü resmî metinle doğrulanamadı; yanlış olabilir.</div>'
+                     + h[yer:].replace('<p class="madde"', '<p class="madde z-belirsiz"', 1))
+        cikti.append({"t": v["t"], "sayi": v.get("sayi"), "url": v.get("url"), "ad": v.get("ad") or "",
+                      "ilk": v.get("tur") == "ilk", "eksik": not v.get("url"), "belirsiz": len(belirsiz), "h": h})
+    return cikti
+
 
 
 def zaman_paneli(zv):
@@ -1578,12 +1635,13 @@ def zaman_paneli(zv):
     veri = json.dumps(zv, ensure_ascii=False).replace("</", "<\\/")
     return f"""<details class="zaman" id="zaman"><summary>Tarihe göre görüntüle <span class="zaman-say">{sayi} değişiklik tarihi</span></summary>
 <div class="zaman-ic">
-<p class="zaman-acik">Bir tarih seçin: metin o tarihteki durumuna göre işaretlenir. Sonradan eklenen hükümler soluk, değişenler sarı, sonradan kaldırılanlar kırmızı çizgiyle gösterilir. Sitede yalnız güncel metin bulunduğundan, seçilen tarihteki eski metin ancak dipnotta yazılıysa ya da eski sürüm sitede ayrı kayıt olarak varsa görülebilir.</p>
+<p class="zaman-acik">{"Bir tarih seçin: Resmî Gazete'deki ilk metin ve değişiklik metinlerinden kurulan, o tarihte yürürlükte olan metin gösterilir. Kutu kaldırılırsa güncel metin üzerinde sonradan değişen hükümler işaretlenir." if zv.get("v") else ""}{"" if zv.get("v") else "Bir tarih seçin: metin o tarihteki durumuna göre işaretlenir. Sonradan eklenen hükümler soluk, değişenler sarı, sonradan kaldırılanlar kırmızı çizgiyle gösterilir. Sitede yalnız güncel metin bulunduğundan, seçilen tarihteki eski metin ancak dipnotta yazılıysa ya da eski sürüm sitede ayrı kayıt olarak varsa görülebilir."}</p>
 <div class="zaman-cizgi" id="zaman-cizgi" aria-hidden="true"></div>
 <div class="zaman-denetim"><input type="range" id="zaman-kaydir" aria-label="Değişiklik tarihleri arasında gez">
 <label>Tarih <input type="date" id="zaman-tarih"></label>
 <button type="button" class="dugme" id="zaman-guncel">Güncel metin</button>
-<label class="zaman-yalniz"><input type="checkbox" id="zaman-yalniz"> Yalnız işaretli hükümler</label></div>
+<label class="zaman-yalniz"><input type="checkbox" id="zaman-yalniz"> Yalnız işaretli hükümler</label>
+{'<label class="zaman-yalniz"><input type="checkbox" id="zaman-goster" checked> O tarihteki metni göster</label>' if zv.get("v") else ""}</div>
 <div id="zaman-durum" class="zaman-durum" aria-live="polite"></div>
 <p class="zaman-not">Tarihler değişiklik notlarındaki tarihlerdir; kanunlarda çoğu zaman değiştiren kanunun kabul tarihi yazar, yürürlük tarihi farklı olabilir. Hukuki işlemlerde resmî metne bakınız.</p>
 </div></details>
@@ -2026,6 +2084,9 @@ def main():
         klasor = CIKTI / "mevzuat" / b["tur"]
         klasor.mkdir(parents=True, exist_ok=True)
         (klasor / f"{b['id']}.html").write_text(belge_sayfasi(b), encoding="utf-8")
+        if b["id"] in SURUM_CIKTI:
+            (CIKTI / "surum").mkdir(exist_ok=True)
+            (CIKTI / "surum" / f"{b['id']}.json").write_text(json.dumps(SURUM_CIKTI.pop(b["id"]), ensure_ascii=False), encoding="utf-8")
         eskiler = list(b.get("eski_kimlikler", []))
         if b.get("eski_tur") and b["eski_tur"] != b["tur"]:  # türü değiştirilen kaydın eski adresi
             eskiler.append((b["eski_tur"], b["id"]))
