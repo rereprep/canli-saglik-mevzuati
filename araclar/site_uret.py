@@ -628,7 +628,7 @@ def ad_temizle(b):
     t = re.sub(r"(?<![.A-ZÇĞİÖŞÜ])\.\s*$", "", t)
     t = re.sub(r"\s{2,}", " ", t).strip()
     if b.get("tur") == "genelge":
-        return t
+        return genelge_ad_temizle(t, b) or ilk
     onceki = None
     while onceki != t:  # "(Karar Sayısı: 477) (19.12.2018)" gibi üst üste ekler
         onceki = t
@@ -644,6 +644,44 @@ def ad_temizle(b):
                     b["sayi"] = re.sub(r"\s", "", m[1])
                 t = t[:m.start()]
     return t.strip() or ilk
+
+
+_GNO = r"(\d{4})\s*[/-]\s*0*(\d{1,3})"
+
+
+def genelge_ad_temizle(t, b):
+    """Genelge adındaki numara sayı sütunuyla aynıysa addan çıkarılır (başta "2004-66 …", sonda "(2014/26)",
+    "… 2004 / 52"). "2006/79 Sayılı Genelgenin …" gibi adın parçası olan numaralar kalır."""
+    sayi = no_sade(b.get("sayi"))
+    def ayni(y, n):
+        no = f"{y}/{int(n)}"
+        if not sayi:
+            b["sayi"] = no
+            return True
+        return sayi.split("-")[0] == no or sayi.startswith(no + "-") or sayi == no
+    def esit(y, n):  # sayı alanı doluysa ve aynıysa (sayı alanı boşken yalnız kesin kalıplarda doldurulur)
+        no = f"{y}/{int(n)}"
+        return bool(sayi) and (sayi.split("-")[0] == no or sayi == no)
+    m = re.search(r"\s*\(\s*Genelge\s*[-–:]?\s*" + _GNO + r"\s*\)\s*$", t)
+    if m and esit(m[1], m[2]):
+        t = t[:m.start()]
+    m = re.search(r"\s*\(\s*" + _GNO + r"(?:\s*[-–]\s*\d+)?\s*\)\s*$", t)
+    if m and ayni(m[1], m[2]):
+        t = t[:m.start()]
+    else:
+        m = re.search(r"(?<!Sayılı)\s+" + _GNO + r"\s*$", t)
+        if m and re.search(r"Genelge", t[:m.start()], re.I) and ayni(m[1], m[2]):
+            t = t[:m.start()]
+        else:
+            m = re.search(r"[\s.\-–]+" + _GNO + r"\s*$", t)
+            if m and esit(m[1], m[2]) and not re.search(r"(?:sayılı|Sayılı|No'?lu|nolu)\s*$", t[:m.start()]):
+                t = t[:m.start()]
+    m = re.match(r"^\s*" + _GNO + r"\s+(?!sayılı|Sayılı|SAYILI|No|nolu|Nolu|'?[lN]o)", t)
+    if m and ayni(m[1], m[2]):
+        t = t[m.end():]
+    if t.count('"') % 2:
+        t = t.strip('"')
+    return re.sub(r"\s{2,}", " ", t).strip(" -–,")
 
 
 def tarih_iso(t):

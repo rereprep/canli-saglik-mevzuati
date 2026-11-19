@@ -486,3 +486,7 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - site_uret.surumleri_yukle: doğrulama oranı %25'in altındaysa eski metin gösterilmez.
 - Toplam 3973/4901 (%81); 114 belgenin tarihli sürümü sitede. Kalan: SUT; 1 ve 4 sayılı CBK; 2000 öncesi RG'si taranmış belgeler (Acil Sağlık Hizmetleri, Yataklı Tedavi vb.).
 - Canlı doğrulama: e95ac82 yayında; yeni sürüm dosyaları ve yeni iki belge erişilebilir.
+
+## 2026-11-20 — Genelge adlarından numaralar
+- site_uret.genelge_ad_temizle (yalnız gösterim): sayı sütunuyla aynı olan baştaki "2004-66 …", sondaki "(2014/26)", "… 2009 / 5", "(Genelge 2010/71)" kaldırılır; "2006/79 Sayılı Genelgenin…" gibi adın parçası olan numaralar kalır. 310 genelge adı değişti.
+- Kullanıcı kararı: SUT, 1 ve 4 sayılı CBK ile 2000 öncesi RG'si taranmış eski yönetmeliklerin tarihli sürümleri yapılmayacak.
