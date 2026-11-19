@@ -832,13 +832,13 @@ bulunan vakadır. İmporte vakayla ilişkili tüm vakalar yerli vaka olarak kabu
 
 · İmportasyonla İlişkili Olmayan Vaka: İmportasyonun veya importe vakayla ilişkinin kanıtlanamadığı veya enfeksiyon kaynağı bilinmeyen sporadik vakadır. Yerli vaka olarak
 
-kabul edilir. 6.5.1. Aşılanma Öyküsü Durumunda Yaklaşım (cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127) Kızamık ve/veya kızamıkçık aşısı uygulanmış olan kişilerde, aşılamadan sonra IgM
+kabul edilir. 6.5.1. Aşılanma Öyküsü Durumunda Yaklaşım • Kızamık ve/veya kızamıkçık aşısı uygulanmış olan kişilerde, aşılamadan sonra IgM
 
 saptanması beklenir. Serolojik yöntemler doğal enfeksiyon ve aşılama ile ortaya çıkan
 
 bağışıklık yanıtını ayıramaz; bu nedenle, sadece virüsün izolasyonu ve genetik
 
-tiplendirilmesi ile doğal enfeksiyon ve aşı ile oluşan IgM yanıtı ayırt edilebilir. (cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127) Virüs izolasyonu veya tespiti yapılamamış IgM pozitif bir vakada yakın zamanda (döküntü
+tiplendirilmesi ile doğal enfeksiyon ve aşı ile oluşan IgM yanıtı ayırt edilebilir. • Virüs izolasyonu veya tespiti yapılamamış IgM pozitif bir vakada yakın zamanda (döküntü
 
 başlangıcından önceki 6 hafta içinde) aşılanma öyküsü olması durumunda yaklaşım aşağıda
 
@@ -1296,23 +1296,23 @@ değerlendiriniz.
 
 □ Yaşlara göre atak hızlarını saptayarak hassas nüfus birikimini hızla değerlendirmeye çalışınız.
 
-(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127) Yüksek oranda aşısız vaka: Aşı kapsayıcılığı düşük bölge.
+• Yüksek oranda aşısız vaka: Aşı kapsayıcılığı düşük bölge.
 
-(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127) Yüksek oranda aşılı vaka: Yüksek aşı kapsayıcılığı olan bölge. Kızamık aşısının etkinliği
+• Yüksek oranda aşılı vaka: Yüksek aşı kapsayıcılığı olan bölge. Kızamık aşısının etkinliği
 
 %100 olmadığı için, bazı aşılı vakalar duyarlı kalarak kızamık geçirebilirler. Ancak aşılı vaka
 
 sayısı hızla artıyorsa, aşı etkililiğini değerlendiriniz.
 
-(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127) Yüksek oranda 1-5 yaş arası vaka: Aşı kapsayıcılığı düşük bölge. Aşısız bölgede virüs
+• Yüksek oranda 1-5 yaş arası vaka: Aşı kapsayıcılığı düşük bölge. Aşısız bölgede virüs
 
 ### dolaşımı yoğun olduğu için okul çağına gelmeden çocuklar kızamık ile karşılaşırlar.
 
-(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127) Yüksek oranda 6-14 yaş arası vaka: Orta ve yüksek düzeyde aşı kapsayıcılığı olan bölge. Aşı
+• Yüksek oranda 6-14 yaş arası vaka: Orta ve yüksek düzeyde aşı kapsayıcılığı olan bölge. Aşı
 
 ### oranı yükseldikçe, kızamık insidansı düşer, kızamık görülme yaşı ileriye kayar.
 
-(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127)(cid:127) Yüksek oranda erişkin yaşta vaka: Erişkin yaşa kadar kızamık hastalığı geçirmemiş ya da
+• Yüksek oranda erişkin yaşta vaka: Erişkin yaşa kadar kızamık hastalığı geçirmemiş ya da
 
 aşılanmamış kişiler (örneğin, izole kırsal alanda yaşayıp yakın zamanda kentsel alanlara göç
 

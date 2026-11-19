@@ -468,3 +468,12 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Uyarı: surum_kanun.py indeks.json'u baştan yazar; aynı anda elle indeks düzenleme yapma.
 - 7 dosyada satıra bölünmüş değişiklik notları birleştirildi (zaman çizelgesinde atlanıyordu).
 - Canlı doğrulama: f57e6c9 yayında; dört yönetmeliğin sürüm dosyaları erişilebilir.
+
+## 2026-11-19 — Genel denetim ve güncelleme taraması
+- İç bağlantı denetimi: kırık hedef yok (Word/PDF --hizli üretimde yok, normal). Canlı tam metin arama "psikolog": 86 sonuç / 2,3 sn.
+- Kalite: 3 genelgede PDF "(cid:…)" artıkları temizlendi (KKS sürveyansı, GBP). ISBT 2012/42 (sbg-103228) kaynak PDF'ten yeniden yazıldı (14.11.2012, 30187); ayrı görünen bozuk kopya artık temiz kopyayla birleşiyor.
+- RG 17–19.11.2026: sağlıkla ilgili yeni düzenleme yok (Pilot Lisans SHY-1 değişikliği kapsam dışı). PR #3 (Adli Tıp görevde yükselme değişikliği; ana metne zaten işli) yorumla kapatıldı.
+- HSGM mevzuat: 486 yayın; yeni olan Daire Başkanlıkları Yönergesi zaten sitede.
+- Bakanlık birim sayfaları (76) tarandı. Eklenen: 2011/56 Sayılı Genelgenin Yürürlükten Kaldırılmasına Dair Genelge (2026/1, 19.01.2026; 2011/56 mülga bağlandı) ve Yurt Dışı Sağlık Tesislerinde Personel Görevlendirilmesine Dair Usul ve Esaslar Hakkında Yönerge (2018 Bakan Oluru, gün okunamadı → 2018).
+- Eklenmeyen: Hazine ve Maliye Bakanlığı "Kamu İdarelerinin Taşınmaz Kiralamalarına İlişkin Genelge" (sağlık mevzuatı değil).
+- Açık soru: genelge adlarındaki "(2014/26)" gibi numaralar ad_temizle'de bilerek bırakılıyor (304 genelge).
