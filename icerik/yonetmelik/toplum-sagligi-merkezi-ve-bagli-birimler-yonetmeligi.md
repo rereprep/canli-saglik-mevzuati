@@ -107,9 +107,7 @@ Açılması ve kapatılması,
 
 **MADDE 6 –** (1) Toplum sağlığı merkezlerinde görev yapacak personelin niteliği ve sayısı (Değişik ibare:RG-25/5/2018-30431)Bakanlık tarafından belirlenir.
 
-(2) Toplum sağlığı merkezine, müdürlüğün teklifi ve (Değişik ibare:RG-25/5/2018-
-
-30431) Bakanlığın onayı ile bir hekim, TSM başkanı olarak görevlendirilir. Görevlendirme, tercihen aşağıdaki kişiler arasından, sıralamaya uyularak yapılır;
+(2) Toplum sağlığı merkezine, müdürlüğün teklifi ve (Değişik ibare:RG-25/5/2018-30431) Bakanlığın onayı ile bir hekim, TSM başkanı olarak görevlendirilir. Görevlendirme, tercihen aşağıdaki kişiler arasından, sıralamaya uyularak yapılır;
 
 a) Halk sağlığı uzmanı ya da epidemiyoloji uzmanı hekimler,
 
@@ -127,9 +125,7 @@ d) Bakanlıkça (Mülga ibare:RG-25/5/2018-30431) (…) onaylanmış toplum sağ
 
 #### Eğitim
 
-**MADDE 7 –** (1) Toplum sağlığı merkezi personeline, (Değişik ibare:RG-25/5/2018-
-
-30431) Bakanlıkça belirlenen usul ve esaslar çerçevesinde, toplum sağlığı merkezlerinin çalışmaları ve toplum sağlığı hizmetlerinin geliştirilmesine yönelik hizmet içi eğitimler verilir.
+**MADDE 7 –** (1) Toplum sağlığı merkezi personeline, (Değişik ibare:RG-25/5/2018-30431) Bakanlıkça belirlenen usul ve esaslar çerçevesinde, toplum sağlığı merkezlerinin çalışmaları ve toplum sağlığı hizmetlerinin geliştirilmesine yönelik hizmet içi eğitimler verilir.
 
 ## ÜÇÜNCÜ BÖLÜM Toplum Sağlığı Merkezinin Görev ve Yetkileri ile Çalışma Usul ve Esasları
 
@@ -537,9 +533,7 @@ e) Bakanlık tarafından belirlenen sağlıklı beslenme, fiziksel aktivite gibi
 
 a) Mevsimlik tarım işçilerine yönelik birinci basamak sağlık hizmetlerini planlamak, sunmak veya sunulmasını sağlamak ve bu hizmetleri koordine etmek,
 
-b) Mevsimsel tarım işçilerine sunulan sağlık hizmetlerinin kayıtlarını, (Değişik ibare:RG-25/5/2018-
-
-30431) Bakanlığın belirlediği standartlar doğrultusunda tutmak; bu kayıtları ilgili mevzuat hükümleri doğrultusunda kişinin kayıtlı olduğu aile hekimliği birimi ve TSM ile paylaşmak,
+b) Mevsimsel tarım işçilerine sunulan sağlık hizmetlerinin kayıtlarını, (Değişik ibare:RG-25/5/2018-30431) Bakanlığın belirlediği standartlar doğrultusunda tutmak; bu kayıtları ilgili mevzuat hükümleri doğrultusunda kişinin kayıtlı olduğu aile hekimliği birimi ve TSM ile paylaşmak,
 
 c) Mevsimlik tarım işçilerine yönelik sağlık hizmetleri konusunda personel farkındalığı oluşturmak ve gerekli eğitimleri vermek,
 
@@ -577,9 +571,7 @@ c) İlgili mevzuatı doğrultusunda evde sağlık hizmetleri ile ilgili iş ve i
 
 #### Kanser erken teşhis, tarama ve eğitim hizmetleri
 
-**MADDE 35 –** (1) Kanser kontrolü kapsamında (Değişik ibare:RG-25/5/2018-
-
-30431) Bakanlığın planladığı programları aile sağlığı merkezleri ile birlikte yürütür ve/veya yürütülmesini sağlar.
+**MADDE 35 –** (1) Kanser kontrolü kapsamında (Değişik ibare:RG-25/5/2018-30431) Bakanlığın planladığı programları aile sağlığı merkezleri ile birlikte yürütür ve/veya yürütülmesini sağlar.
 
 #### Ruh sağlığı programları
 

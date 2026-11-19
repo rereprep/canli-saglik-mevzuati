@@ -327,9 +327,7 @@ c) Üçüncü basamak sağlık tesisleri için, sağlık tesisinin hizmet verece
 
 oluşturulur. İldeki sağlık tesislerinin sayısı dikkate alınarak Müdürlük bünyesinde birden çok komisyon kurulabilir.
 
-(3) Komisyona asıl üye sayısı kadar yedek üye belirlenir. Asıl üyenin bulunmadığı durumlarda aynı alanlardaki yedek üyeler komisyonda görevlendirilir. Komisyon üye sayısının artırıldığı durumlarda toplam üye sayısının tek sayıdan oluşması sağlanır. Komisyon üyeleri bir yıl süre ile görev yapar. Herhangi bir sebeple üyeliği sona eren veya sonlandırılan asıl ve yedek üyenin yerine kalan sürede görev yapmak üzere aynı şartları haiz yeni üye görevlendirilir. Üyelik süresi sona erenler tekrar görevlendirilebilir. (Ek cümleler:RG-2/4/2024-
-
-32508) Komisyon üyeleri birden çok komisyonda görevlendirilebilir. Aynı ilde başka bir üniversite hastanesi ya da eğitim ve araştırma hastanesi bulunmadığı takdirde, aynı üniversiteden veya aynı eğitim ve araştırma hastanesinden ilgili mevzuatına göre öğretim üyesi/eğitim görevlisi görevlendirilebilir.
+(3) Komisyona asıl üye sayısı kadar yedek üye belirlenir. Asıl üyenin bulunmadığı durumlarda aynı alanlardaki yedek üyeler komisyonda görevlendirilir. Komisyon üye sayısının artırıldığı durumlarda toplam üye sayısının tek sayıdan oluşması sağlanır. Komisyon üyeleri bir yıl süre ile görev yapar. Herhangi bir sebeple üyeliği sona eren veya sonlandırılan asıl ve yedek üyenin yerine kalan sürede görev yapmak üzere aynı şartları haiz yeni üye görevlendirilir. Üyelik süresi sona erenler tekrar görevlendirilebilir. (Ek cümleler:RG-2/4/2024-32508) Komisyon üyeleri birden çok komisyonda görevlendirilebilir. Aynı ilde başka bir üniversite hastanesi ya da eğitim ve araştırma hastanesi bulunmadığı takdirde, aynı üniversiteden veya aynı eğitim ve araştırma hastanesinden ilgili mevzuatına göre öğretim üyesi/eğitim görevlisi görevlendirilebilir.
 
 (4) Müdürlük tarafından, ihtiyaç durumunda komisyona, tıbbi ve teknik konularda bilgisinden faydalanılmak üzere, farklı uzmanlık alanlarından uzman tabip veya diş tabibi ile teknik personel görevlendirilebilir. Komisyona diğer kamu kurum ve kuruluşlarından personel görevlendirilmesi de yapılabilir.
 
@@ -343,9 +341,7 @@ oluşturulur. İldeki sağlık tesislerinin sayısı dikkate alınarak Müdürl�
 
 (2) Komisyon, toplam üye sayısının asgari üçte iki çoğunluğu ile toplanır ve oy çokluğuyla karar alır. Oylamalarda çekimser oy kullanılamaz. Oyların eşitliği halinde başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
 
-(3) Komisyon kararları rapor haline getirilir ve üyelerce imzalanır. (Değişik cümle:RG-2/4/2024-
-
-32508) Karşı oy kullanan üyeler, karşı oy gerekçesini kararda belirtir.
+(3) Komisyon kararları rapor haline getirilir ve üyelerce imzalanır. (Değişik cümle:RG-2/4/2024-32508) Karşı oy kullanan üyeler, karşı oy gerekçesini kararda belirtir.
 
 (4) (Değişik:RG-2/4/2024-32508) Bakanlıkça gerekli görülmesi halinde karşı oy kullanan üyelerin gerekçeleri, uzman kişilere incelettirilebilir. Bakanlık bu incelemenin sonucunda, karşı oy kullanan üyelerin ve inceleme yapan uzmanın görüşleri doğrultusunda ruhsat verilip verilmeyeceğine karar verir.
 

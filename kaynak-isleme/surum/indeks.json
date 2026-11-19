@@ -420,7 +420,9 @@
   "tur": "yonetmelik",
   "ilk": {
    "t": "1998-08-01",
-   "sayi": "23420"
+   "sayi": "23420",
+   "url": "https://www.resmigazete.gov.tr/arsiv/23420.pdf",
+   "md": "kaynak-isleme/surum/ocr/k-hasta-haklari-yonetmeligi.md"
   },
   "deg": [
    {
@@ -1569,7 +1571,9 @@
   "tur": "yonetmelik",
   "ilk": {
    "t": "2021-06-02",
-   "sayi": "31499"
+   "sayi": "31499",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210602M1-1.pdf",
+   "md": "kaynak-isleme/surum/ocr/oz-in-vitro-tani-amacli-tibbi-cihaz-yonetmeligi-2021-06-02.md"
   },
   "deg": [
    {
@@ -1799,7 +1803,9 @@
   "tur": "yonetmelik",
   "ilk": {
    "t": "2000-03-24",
-   "sayi": "23999"
+   "sayi": "23999",
+   "url": "https://www.resmigazete.gov.tr/arsiv/23999.pdf",
+   "md": "kaynak-isleme/surum/ocr/oz-radyasyon-guvenligi-yonetmeligi-2000-03-24.md"
   },
   "deg": [
    {
@@ -1960,8 +1966,8 @@
   "ilk": {
    "t": "2021-06-02",
    "sayi": "31499",
-   "url": "http://www.resmigazete.gov.tr/eskiler/2021/06/20210602M1.htm",
-   "ad": "02/06/2021 tarihli ve 31499 mükerrer sayılı Resmî Gazete’de, Türkiye İlaç ve Tıbbi Cihaz Kurumuna Ait Yönetmelikler ile Tebliğ yayımlanmıştır."
+   "url": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210602M1-2.pdf",
+   "md": "kaynak-isleme/surum/ocr/oz-tibbi-cihaz-yonetmeligi-2011-06-07.md"
   },
   "deg": [
    {
@@ -2855,16 +2861,6 @@
     "sayi": ""
    },
    {
-    "kanun": "KHK-665",
-    "kabul": "2011-10-11",
-    "maddeler": [
-     29,
-     30
-    ],
-    "t": "2011-10-11",
-    "sayi": ""
-   },
-   {
     "kanun": "KHK-666",
     "kabul": "2011-10-11",
     "maddeler": [
@@ -2872,6 +2868,18 @@
     ],
     "t": "2011-10-11",
     "sayi": ""
+   },
+   {
+    "kanun": "KHK-665",
+    "kabul": "2011-10-11",
+    "maddeler": [
+     29,
+     30
+    ],
+    "t": "2011-11-02",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111102M1-5.htm",
+    "ad": "KHK/665 Çalışma ve Sosyal Güvenlik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname"
    },
    {
     "kanun": "6270",
@@ -3171,8 +3179,10 @@
     "maddeler": [
      73
     ],
-    "t": "2017-01-02",
-    "sayi": ""
+    "t": "2017-01-06",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170106M1-2.htm",
+    "ad": "KHK/680 Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname"
    },
    {
     "kanun": "KHK-681",
@@ -3187,8 +3197,10 @@
      80,
      85
     ],
-    "t": "2017-01-02",
-    "sayi": ""
+    "t": "2017-01-06",
+    "sayi": "",
+    "url": "http://www.resmigazete.gov.tr/eskiler/2017/01/20170106M1.htm",
+    "ad": "6/1/2017 tarihli ve 29940 mükerrer sayılı Resmî Gazete'de, 679, 680 ve 681 Sayılı Kanun Hükmünde Kararnameler yayımlanmıştır."
    },
    {
     "kanun": "6770",
@@ -3227,8 +3239,10 @@
      48,
      49
     ],
-    "t": "2017-04-17",
-    "sayi": ""
+    "t": "2017-04-29",
+    "sayi": "",
+    "url": "http://www.resmigazete.gov.tr/eskiler/2017/04/20170429M1.htm",
+    "ad": "29/4/2017 tarihli ve 30052 mükerrer sayılı Resmî Gazete’de, 689 ve 690 Sayılı Kanun Hükmünde Kararnameler yayımlanmıştır."
    },
    {
     "kanun": "7020",
@@ -3247,8 +3261,10 @@
     "maddeler": [
      153
     ],
-    "t": "2017-08-15",
-    "sayi": ""
+    "t": "2017-08-25",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170825-13.pdf",
+    "ad": "KHK/694 Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname"
    },
    {
     "kanun": "7061",
@@ -3317,8 +3333,10 @@
     "maddeler": [
      203
     ],
-    "t": "2018-07-02",
-    "sayi": ""
+    "t": "2018-07-09",
+    "sayi": "",
+    "url": "http://www.resmigazete.gov.tr/eskiler/2018/07/20180709M3.htm",
+    "ad": "9/7/2018 tarihli ve 30473 3. mükerrer sayılı Resmî Gazete’de, 703 sayılı Kanun Hükmünde Kararname yayımlanmıştır."
    },
    {
     "kanun": "7146",
@@ -3368,15 +3386,6 @@
     "ad": "7162 Gelir Vergisi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
    },
    {
-    "kanun": "7196",
-    "kabul": "2019-12-06",
-    "maddeler": [
-     62
-    ],
-    "t": "2019-12-06",
-    "sayi": ""
-   },
-   {
     "kanun": "7194",
     "kabul": "2019-12-05",
     "maddeler": [
@@ -3386,6 +3395,17 @@
     "sayi": "",
     "url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191207-1.htm",
     "ad": "7194 Dijital Hizmet Vergisi ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun"
+   },
+   {
+    "kanun": "7196",
+    "kabul": "2019-12-06",
+    "maddeler": [
+     62
+    ],
+    "t": "2019-12-24",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224-1.htm",
+    "ad": "7196 Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun"
    },
    {
     "kanun": "7226",
@@ -3927,8 +3947,10 @@
      39,
      40
     ],
-    "t": "2016-08-15",
-    "sayi": ""
+    "t": "2016-09-01",
+    "sayi": "",
+    "url": "http://www.resmigazete.gov.tr/eskiler/2016/09/20160901M2.htm",
+    "ad": "1/9/2016 tarihli ve 29818 2. mükerrer sayılı Resmî Gazete'de, 673 ve 674 Sayılı Kanun Hükmünde Kararnameler yayımlanmıştır."
    },
    {
     "kanun": "KHK-678",
@@ -3936,8 +3958,10 @@
     "maddeler": [
      11
     ],
-    "t": "2016-10-31",
-    "sayi": ""
+    "t": "2016-11-22",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161122-2.htm",
+    "ad": "KHK/678 Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname"
    },
    {
     "kanun": "7061",
@@ -4059,8 +4083,10 @@
     "maddeler": [
      206
     ],
-    "t": "2018-07-02",
-    "sayi": ""
+    "t": "2018-07-09",
+    "sayi": "",
+    "url": "http://www.resmigazete.gov.tr/eskiler/2018/07/20180709M3.htm",
+    "ad": "9/7/2018 tarihli ve 30473 3. mükerrer sayılı Resmî Gazete’de, 703 sayılı Kanun Hükmünde Kararname yayımlanmıştır."
    }
   ]
  },
@@ -4200,8 +4226,10 @@
      59,
      60
     ],
-    "t": "2011-10-24",
-    "sayi": ""
+    "t": "2011-11-02",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111102M1-1.htm",
+    "ad": "KHK/661 Avrupa Birliği Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname"
    },
    {
     "kanun": "6360",
@@ -4520,8 +4548,10 @@
      13,
      14
     ],
-    "t": "2016-08-15",
-    "sayi": ""
+    "t": "2016-09-01",
+    "sayi": "",
+    "url": "http://www.resmigazete.gov.tr/eskiler/2016/09/20160901M2.htm",
+    "ad": "1/9/2016 tarihli ve 29818 2. mükerrer sayılı Resmî Gazete'de, 673 ve 674 Sayılı Kanun Hükmünde Kararnameler yayımlanmıştır."
    },
    {
     "kanun": "KHK-676",
@@ -4532,8 +4562,10 @@
      4,
      5
     ],
-    "t": "2016-10-03",
-    "sayi": ""
+    "t": "2016-10-29",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161029-5.htm",
+    "ad": "KHK/676 Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname"
    },
    {
     "kanun": "6754",
@@ -4580,8 +4612,10 @@
      10,
      11
     ],
-    "t": "2017-01-02",
-    "sayi": ""
+    "t": "2017-01-06",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170106M1-2.htm",
+    "ad": "KHK/680 Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname"
    },
    {
     "kanun": "7035",
@@ -4609,8 +4643,10 @@
      148,
      149
     ],
-    "t": "2017-08-15",
-    "sayi": ""
+    "t": "2017-08-25",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170825-13.pdf",
+    "ad": "KHK/694 Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname"
    },
    {
     "kanun": "KHK-696",
@@ -4619,8 +4655,10 @@
      94,
      95
     ],
-    "t": "2017-11-20",
-    "sayi": ""
+    "t": "2017-12-24",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171224-22.htm",
+    "ad": "KHK/696 Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname"
    },
    {
     "kanun": "7145",
@@ -5140,8 +5178,10 @@
     "maddeler": [
      139
     ],
-    "t": "2017-08-15",
-    "sayi": ""
+    "t": "2017-08-25",
+    "sayi": "",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170825-13.pdf",
+    "ad": "KHK/694 Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararname"
    },
    {
     "kanun": "7188",

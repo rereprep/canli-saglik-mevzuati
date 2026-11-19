@@ -130,7 +130,7 @@ Taşra Teşkilatı Hizmet Birimleri
 
 (2) Müdürlükte kurulacak başkanlıklar ile başkan ve başkan yardımcıları sayıları Ekl'de belirtilmiștir.
 
-(3) Müdürlük bünyesinde, Ek-2'de belirtilen iş ve işlemleri yürütmek üzere Ek-3'te belirtilen birim isimleri ve birim sayıları esas alınarak birimler kurulur. Ek-3'te belirtilen birimler dışında birimler kurulamaz. Şehir Hastaneleri Birimi, şehir hastaneleri kurulan/planlanan illerde kurulur. (Değişik dördüncü cümle: 23/12/2020 tarihli ve 11739
+(3) Müdürlük bünyesinde, Ek-2'de belirtilen iş ve işlemleri yürütmek üzere Ek-3'te belirtilen birim isimleri ve birim sayıları esas alınarak birimler kurulur. Ek-3'te belirtilen birimler dışında birimler kurulamaz. Şehir Hastaneleri Birimi, şehir hastaneleri kurulan/planlanan illerde kurulur. (Değişik dördüncü cümle: 23/12/2020 tarihli ve 11739)
 
 sayılı Bakan Onayı) Birimlerin sorumluluğu, öncelik sırasına göre şube müdürleri, uzmanlar ve en az yüksek öğrenim görmüş diğer personel tarafından yerine getirilir.
 

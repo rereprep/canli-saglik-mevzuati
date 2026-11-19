@@ -440,9 +440,7 @@ g) Özel sağlık kuruluşları bünyesinde veya mesleğini serbest olarak icra 
 
 (4) Nükleer tıp hizmetini hizmet alımı yoluyla gerçekleştiren merkez hastadan tetkik/tedavi için ayrıca bir ücret talep edemez.
 
-(5) Nükleer tıp hizmetinin hizmet alımı yoluyla sunulması halinde, hizmeti alan ve veren kamu sağlık kurum ve kuruluşları, özel sağlık kuruluşları ile (Değişik ibare:RG-16/12/2025-
-
-33109) özel hukuk tüzel kişileri nükleer tıp hizmetinden müştereken sorumludur.
+(5) Nükleer tıp hizmetinin hizmet alımı yoluyla sunulması halinde, hizmeti alan ve veren kamu sağlık kurum ve kuruluşları, özel sağlık kuruluşları ile (Değişik ibare:RG-16/12/2025-33109) özel hukuk tüzel kişileri nükleer tıp hizmetinden müştereken sorumludur.
 
 (6) Nükleer tıp hizmet alımı yapılması halinde 3/9/2022 tarihli ve 31942 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği kapsamında nükleer tıp uzmanlık eğitimi veren kurumlar, uzmanlık eğitiminin verilmesine yönelik olarak eğiticilerin alanları ile ilgili araştırma yapmalarını ve uzmanlık öğrencilerinin uzmanlık eğitimi çekirdek müfredatı çerçevesinde eğitim almasını sağlar.
 

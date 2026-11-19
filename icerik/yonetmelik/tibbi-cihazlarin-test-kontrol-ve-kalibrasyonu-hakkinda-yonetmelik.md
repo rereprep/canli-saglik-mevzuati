@@ -296,9 +296,7 @@ f) (Ek:RG-10/12/2021-31685) Uzmanın görevden ayrılması, uzman çalışma bel
 
 #### Sorumlu müdür çalışma belgesinin askıya alınması
 
-**MADDE 15 –** (1) Aşağıdaki hallerde sorumlu müdür çalışma belgesi (Değişik ibare:RG-10/12/2021-
-
-31685) yirmi günden az olmayacak şekilde doksan güne kadar askıya alınır;
+**MADDE 15 –** (1) Aşağıdaki hallerde sorumlu müdür çalışma belgesi (Değişik ibare:RG-10/12/2021-31685) yirmi günden az olmayacak şekilde doksan güne kadar askıya alınır;
 
 a) Kurumca belirlenen içeriğe uygun olmayan test, kontrol ve kalibrasyon raporu düzenlenmesi durumunda,
 

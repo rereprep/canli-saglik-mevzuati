@@ -1,0 +1,1202 @@
+[
+ {
+  "i": 5,
+  "madde": "2",
+  "metin": "Madde 2 - Bu Yönetmelik, radyasyon güvenliğinin sağlanmasını gerektiren her türlü tesis ve radyasyon kaynağının zararlı etkilerinden kişileri ve çevreyi korumak için alınması gereken her türlü tedbiri ve yapılması gereken faaliyetlerle ilgili hususları kapsar."
+ },
+ {
+  "i": 9,
+  "madde": "4",
+  "metin": "Madde 4 - Bu Yonetmelik'te geçen tanımtardan;"
+ },
+ {
+  "i": 10,
+  "madde": "4",
+  "metin": "a) Eşdeğer doz; birimi Sicvert (Sv) olup, radyasyonun türüne ve enerjisine bağlı olarak doku veya organda soğurulmuş dozun, radyasyon ağırlık faktorü ite çarpılmış halini,"
+ },
+ {
+  "i": 11,
+  "madde": "4",
+  "metin": "b) Etkin doz; birimi Sievert (Sv) olup, insan vucudunda ışınlanan bütün doku ve organlar için hesaplanmış eşdeğer dozun, her doku ve organın doku ağırlık faktörleri ile çarpılması sonucunda elde edilen dozların toplamını,"
+ },
+ {
+  "i": 12,
+  "madde": "4",
+  "metin": "c) Kuruluş veya Tesis; bu Yönetmelik kapsamına giren radyasyon kaynaklarıyla ilgili faaliyet gösterilen yerleri,"
+ },
+ {
+  "i": 13,
+  "madde": "4",
+  "metin": "d) Kurum; Turkiye Atom Enerjisi Kurumu'nu,"
+ },
+ {
+  "i": 14,
+  "madde": "4",
+  "metin": "e) Lisans Sahibi; bu Yönetmelik hükümlerine göre verilen lisans belgesinde ismi belirtilen ve radyasyon güvenliği mevzuatının uygulanmasında Kuruma karşı sorumlu olan kişiyi,"
+ },
+ {
+  "i": 15,
+  "madde": "4",
+  "metin": "f) Ücret, Kurum'un “Mal ve Hizmet Üretim ve Yayın Satışları Genelgesi”nde belirtilen ve her yıl Başbakan ve/veya yetkili Bakan tarafından onaylanan ücretleri,"
+ },
+ {
+  "i": 16,
+  "madde": "4",
+  "metin": "g) Radyasyon; iyonlaştırıcı radyasyonu,"
+ },
+ {
+  "i": 17,
+  "madde": "4",
+  "metin": "h) Radyasyon Görevlisi; bu Yönetmeliğin 10uncu maddesinde belirtilen yıllık doza maruz kalma olasılığı bulunan ve bu Yonetmeliğin 1Sinci maddesinde belirtilen denetimli ve gözetimli alanlarda gorevi gereği radyasyon kaynağı ile çalışan kişiyi,"
+ },
+ {
+  "i": 18,
+  "madde": "4",
+  "metin": "1) Radyasyon Güvenliği Uzmanı; muhendislik veya fen bilimleri atanında aldığı temel eğitim üzerine radyasyon güvenliği alanında lisans üstu eğitimi veya radyasyon güvenliği ile ilgili olarak katıldığı yurt içi ve/veya yurt dışı eğitimi Kurum tarafindan uygun gorulüp onaylanan ve radyasyon güvenliği konusunda en az 4 (dört) yıllık deneyime sahip kişiyi,"
+ },
+ {
+  "i": 19,
+  "madde": "4",
+  "metin": "i) Radyasyon Korunması Sorumlusu; radyasyon korunmasında temel güvenlik standartlarını yapılan işin niteliklerine göre uygulayacak, ve bu alanda eğitim ve deneyimi belgelenmiş ve Kurum tarafindan onaylanmış kişiyi, j)) Radyofarmasötik Yönetmeliği; 23/12/1993 tarihli ve 21797 sayılı Resmi Gazetede yayımlanan “Radyofarmasötik Yönetmeliğini”,"
+ },
+ {
+  "i": 20,
+  "madde": "4",
+  "metin": "k) Tıbbi Fizik Uzmanları; Kurum tarafindan aranacak koşulları ozel yönetmeliklerinde belirtilen ve tıbbi uygulama alanlarına gore radyoterapi, radyoloji ve nükleer tıp fizikçisi olarak isimlendirilen kişileri,"
+ },
+ {
+  "i": 21,
+  "madde": "4",
+  "metin": "i) Tahribatsız Muayene Metotları uzmanı; TS7477EN473 standardı kapsamında belirtilen esaslara göre vasıflandırılmış kişileri,"
+ },
+ {
+  "i": 22,
+  "madde": "4",
+  "metin": "Yürütme ve İdare Bölümü Sayfa :6"
+ },
+ {
+  "i": 23,
+  "madde": "4",
+  "metin": "MMC M.İ f€ia ın uh alııaııııa vi"
+ },
+ {
+  "i": 24,
+  "madde": "4",
+  "metin": "m) Toplum etkin dozu; ışınlamaya maruz kalan çeşitli grupların ortalama etkin dozu ile bu grubu oluşturan kişi sayısının çarpımının toplamını,"
+ },
+ {
+  "i": 25,
+  "madde": "4",
+  "metin": "n) Tüzük; 24/7/1985 tarihli ve 85/9727 sayılı Bakanlar Kurulu karan ile yürürlüğe konulan Radyasyon Güvenliği Tüzüğü'dür."
+ },
+ {
+  "i": 26,
+  "madde": "4",
+  "metin": "0) Yüklenmiş eşdeğer doz; birimi Sievert (Sv) olup, radyoaktif maddenin alınmasını takiben, doku veya organda kaldığı sürede (süre belirtilmemiş ise, yetişkinler için 50 yıl, çocuklar için 70 yıl alınır) vermiş olduğu eşdeğer doz toplam dozu,"
+ },
+ {
+  "i": 27,
+  "madde": "4",
+  "metin": "ö) Yüklenmiş etkin doz; yüklenmiş eşdeğer dozun, her doku ve organın doku ağırlık faktörleri ile çarpılması sonucunda elde edilen toplamı, ifade eder."
+ },
+ {
+  "i": 28,
+  "madde": "4",
+  "metin": "Bu Yönetmelikte geçen diğer teknik tanımların anlamları 9/9/1991 tarihli ve 20286 sayılı Resmi Gazete'de yayımlanan Nukleer Tanımlar Yonetmeliği'nde verilmiştir"
+ },
+ {
+  "i": 29,
+  "madde": "4",
+  "metin": "Muafiyetler"
+ },
+ {
+  "i": 30,
+  "madde": "4",
+  "metin": "Madde $ - Radyoaktivite miktarları ve radyoaktivite konsantrasyonları aşağıda verilen değerleri aşmayan radyoaktif maddeler ile doz tuzları aşağıda verilen sınır değerlerini aşmayan radyasyon ureten cihazların ithali, ihracı, imali, depolanması, bulundurulması, kullarılması ve bu kaynaklarla çalıştlabilmesi, Kuruma bildirim yukumluluğu ve Kurum tarafindan toplam miktara sınır koyma hakkı saklı kalmak kaydıyla bu Yonetmelik hukumlerinden muaftır."
+ },
+ {
+  "i": 31,
+  "madde": "4",
+  "metin": "a) Radyoaktiviteleri toplamı Ek-I'in 2nci sutununda belirtilen miktarları aşmayan radyoaktif maddeler,"
+ },
+ {
+  "i": 32,
+  "madde": "4",
+  "metin": "b) Radyoaktivite konsantrasyonları Ek-i1'in 3uncu sutununda belirtilen miktarları aşmayan radyoaktif maddeler,"
+ },
+ {
+  "i": 33,
+  "madde": "4",
+  "metin": "c) Radyasyon yayan ve Ek-I dekı değerleri aşan miktarlarda radyoaktif madde içeren düzenekler, aşağıdaki hususların sağlanması halinde,"
+ },
+ {
+  "i": 34,
+  "madde": "4",
+  "metin": "1) Kurum tarafindan olası .zararlarına karşı, ustunlukleri goz onunde bulundurularak, kullanılması uygun gorulen duzenekler,"
+ },
+ {
+  "i": 35,
+  "madde": "4",
+  "metin": "2) Radyoaktif maddenin herhangi bir sızıntı ve bulaşmasına karşı etkin bir şekilde korunması sağlanmış olan kapalı kaynaklar,"
+ },
+ {
+  "i": 36,
+  "madde": "4",
+  "metin": "3) Normal çalışma koşullarında, yuzeyinden 10 cm uzaklıkta herhangi bir noktadaki doz hızı 1 uSv/h (0 1 mrem/h) değerini aşmayan duzenekler,"
+ },
+ {
+  "i": 37,
+  "madde": "4",
+  "metin": "d) Normal çalışma koşullarında ulaşılabilen herhangi bir yüzeyinden 10 cm mesafedeki herhangi bir noktada doz hizi | uSvwh (0 1 mrem/h) değerini aşmayan, gorüntu veren (televizyon, monitör gibi) katot ışını tupler veya 30 k V'un altında genlimle çalışan dığer elektrikli cıhazlar,"
+ },
+ {
+  "i": 38,
+  "madde": "4",
+  "metin": "e) (d) bendinde belirtilen koşullar dışında kalan ve radyoaktif madde içermeyen fakat iyonlaştırıcı radyasyon yayan, X-ışım, katot ışını tupu ve benzen duzenekler aşağıdaki hususların sağlanması halinde,"
+ },
+ {
+  "i": 39,
+  "madde": "4",
+  "metin": "1) Muhtemel zararlarına karşı Kurum tarafından ustunlukleri gözönünde bulundurularak, kullanılması uygun görülen duzenekler,"
+ },
+ {
+  "i": 40,
+  "madde": "4",
+  "metin": "2) Normal çalışma koşullarında, yuzeyinden 40 cm uzaklıkta herhangi bir noktadaki doz hızı 1 ySwh (0.1 mrem/h) değerini aşmayan duzenekler"
+ },
+ {
+  "i": 41,
+  "madde": "4",
+  "metin": "Radyoaktif madde içeren gıda maddeleri, tıbbi malzemeler, ilaçlar ve benzeri tüketici ürünleri, muafiyet sınırları içinde olsa bile Kurum tarafından gerekli görülen hallerde izin yükümlüluğu aranır"
+ },
+ {
+  "i": 48,
+  "madde": "7",
+  "metin": "Madde 7 - Radyasyon korunmasında kullanılan, doz sınırlama sisteminin uç temel ilkesi aşağıda verilmiştir."
+ },
+ {
+  "i": 49,
+  "madde": "7",
+  "metin": "a) Uygulamaların Gerekliliği: Işınlanmanın zararlı sonuçlan gözönünde bulundurularak, net bir fayda sağlamayan hiçbir radyasyon uygulamasına izin verilemez."
+ },
+ {
+  "i": 50,
+  "madde": "7",
+  "metin": "b) Radyasyon Korunmasının Optimizasyonu; Tedavi amaçlı tibbi ışınlamalar hariç, radyasyon ışınlanması gerektiren uygulamalarda bireysel dozların buyuklüğü), ışınlanacak kişilerin sayısı, olası tüm ışınlanmalar için, ekonomik ve sosyal faktorler gozönunde bulundurularak mümkün olan en düşük dozun alınması sağlanmalıdır"
+ },
+ {
+  "i": 51,
+  "madde": "7",
+  "metin": "ce) Doz Sınırlaması: Bireylerin normal ışınlanmaları, izin verilen tüm ışınlamaların neden olduğu ilgili organ ya da dokudaki eşdeğer doz ile etkin doz, bu Yönetmeliğin 10uncu maddesinde belirtilen yıllık doz sınırlannı aşamaz"
+ },
+ {
+  "i": 54,
+  "madde": "8",
+  "metin": "Madde 8 - Radyasyon korunmasında kullanılan doz sınırlarına ilişkin kavramlar aşağıda belirtilmiştir"
+ },
+ {
+  "i": 55,
+  "madde": "8",
+  "metin": "a) Birincil Sınırlar: Radyasyon gorevlilerinin veya toplum bireylerinin alabileceği yıllık “eşdeğer doz”, “etkin doz”, “yüklenmiş eşdeğer doz”, “yüklenmiş etkin doz” veya belirlenen bireyler topluluğunun “toplum etkin dozu” sınırlarıdır."
+ },
+ {
+  "i": 56,
+  "madde": "8",
+  "metin": "b) İkincil Sınırlar ; Birincil doz sınırlarının doğrudan uygulanamadığı durumlarda kullanılan doz sınırlarıdır. Tkincil sınırlar, dış ışınlanma durumunda “eşdeğer doz indeksi” ile iç ışınlanma durumunda ise, “yıllık vucuda alınma sınırları” (ALI) cinsinden ifade edilir"
+ },
+ {
+  "i": 57,
+  "madde": "8",
+  "metin": "e) Türetilmiş Sınırlar: Belirli bir modele gore birincil sınırlardan türetilmiş sınırlar olup, bunlara uyulduğu takdirde, birincil sınırlara da uyulduğu kabul edilir."
+ },
+ {
+  "i": 58,
+  "madde": "8",
+  "metin": "d) İzin Verilen Sınırlar: Kurum tarafindan saptanan ve genellikle birincil ve ikincil sınırlardan daha düşuk olan sınırlardır"
+ },
+ {
+  "i": 59,
+  "madde": "8",
+  "metin": "e) İşletme Sınırları: Hangi turden olursa olsun, bütün radyasyon kaynakları için Kurum tarafindan saptanan birincil ve ikincil sınırları aşmamak koşulu ile Lisans Sahibi tarafından belirlenen sınırlardır"
+ },
+ {
+  "i": 61,
+  "madde": "9",
+  "metin": "Madde 9 - Radyasyon korunması programlarında kullanılan herhangi bir büyükluk için özci bir uygulamanın başlatılması amacıyla belirlenen duzeylerdir Kurum tarafından tespit edilen referans duzeyleri aşağıda verilmiştir"
+ },
+ {
+  "i": 62,
+  "madde": "9",
+  "metin": "a) Kayıt Düzeyi: Radyasyon korunmasını sağlamak amacı ile, eşdeğer doz, etkin doz veya vücuda alınma miktarlarının kayıtlarının tutulması ve saklanması gerekmektedir Bu Yönetmeliğin 10uncu maddesinde verilen yıllık doz sınırlarının aylık dönemlerde radyasyon görevlileri için O 2 mSv, halk için ise 0.0) mSv'i aşması durumlarında kayıtlar tutulmaya başlanır."
+ },
+ {
+  "i": 63,
+  "madde": "9",
+  "metin": "b) İnceleme Düzeyi: Uzerinde daha fazla inceleme yapılmasını gerektiren eşdeğer doz, etkin doz veya vücuda alınma miktarlarıdır. Bu duzey, bir ay için bu Yönetmeliğin lOuncu maddesinde werilen yıllık eşdeğer doz sınırının 1/10'udur"
+ },
+ {
+  "i": 64,
+  "madde": "9",
+  "metin": "Yurutme ve İdare Bölümü Sayfa 8 m RA Nİ.  .h LL m İİİ"
+ },
+ {
+  "i": 65,
+  "madde": "9",
+  "metin": "€) Müdahele Düzeyi: Olağan dışı durumlar için Kurum tarafından önceden belirlenen ve aşılması durumunda mudahaleyi gerektiren eşdeğer doz, etkin doz veya vücuda alınma miktarlarını gösteren değerler olup, bu Yonetmeliğin !Ouncu maddesinde verilen yıllık eşdeğer doz sınırının bir defada alınması ve aynı yıl suresince bu değerin aşılması halidir Nukleer veya radyolojik tehlike durumunda öngorulen mudahale duzeyleri “TAEK Nükleer ve Radyolojik Tehlike Durumu Uygulama Planında” detaylı olarak verilmiştir Mudahale düzeylerinden,"
+ },
+ {
+  "i": 66,
+  "madde": "9",
+  "metin": "1) Eylem düzeyi; sürekli ışınlanmalar veya tehlike durumunda, iyileştirici veya koruyucu eylemlerin yapılacağı, eşdeğer doz hizı veya radyoaktivite konsantrasyon düzeyidir. Mudahale gerektiren bir durumun ortaya çıkması beklendiğinde, eylem düzeyi bu Yönetmeliğin ani ışınlamalar için 4$inci maddesinde, sürekli ışınlamalar içinse 49uncu maddesinde verilmektedir."
+ },
+ {
+  "i": 67,
+  "madde": "9",
+  "metin": "2) Rehber düzey; aşılması halinde önlem alınmasını gerektirebilen doz düzeyi olup, kronik ışınlamalarda öngörulen relhiber düzeyler bu Yönetmeliğin 37nci maddesinde, tıbbi uygulamalarda öngörülen rehber duzeyler bu Yönetmeliğin 28inci maddesinde belirtilmektedir."
+ },
+ {
+  "i": 70,
+  "madde": "10",
+  "metin": "a) Radyasyon görevlileri için etkin doz herhangi bir yılda 50 mSv'i, ardışık beş yılın ortalaması ise 20 mSv'i geçemez El ayak veya deri için yıllık eşdeğer doz sının 500 mSv, göz merceği için 150 mSv'dir byToplumı üyesi kişiler için etkin doz herhangi bir yılda 5 mSv'i, ardışık beş yılın ortalaması ise | m$vwi geçemez El, ayak veya deri için yıllık eşdeğer doz sınırı 50 mSv, göz merceği için 15 mSv'dir."
+ },
+ {
+  "i": 72,
+  "madde": "10",
+  "metin": "Özel durumlar için planlanan ışınlanmalar"
+ },
+ {
+  "i": 73,
+  "madde": "10",
+  "metin": "Madde il - Normal uygulamalarda ortaya çıkan ve yıllık doz sınırları üzerinde etkin doza maruz kalmayı gerektiren, fakat ışınlanmanın dışında başka yöntemlerin bulunmadığı özel durumlarda Kurum'un izniyle yapılan ışınlanmalardır Özel durumlarda ışınlamaya maruz kalacak radyasyon görevlileri için doz sınırları herhangi bir yılda 50 mSv'i, birbirini takip eden 10 yıl içinde ortalama yıllık 20 mSv'i ve toplamda 100 mSv'i geçemez"
+ },
+ {
+  "i": 74,
+  "madde": "10",
+  "metin": "Yıllık etkin dozun beş katından fazla radyasyon dozu almış radyasyon görevlileri ile çocuk doğurma çağındaki radyasyon görevlileri özel bir durum için planlanmış ışınlanmalarda görevlendinlemezler"
+ },
+ {
+  "i": 76,
+  "madde": "12",
+  "metin": "Madde 12 - Çocuk doğurma çağındaki radyasyon gorevlilerinin maruz kaldıkları radyasyon dozunun mümkün olduğu kadar duşuk duzeyde tutulması için gerekli önlemlerin alınması zorunludur Hamileliği belirlenmiş olan radyasyon goörevhleri ancak gozetimli alanlarda çalıştırılır"
+ },
+ {
+  "i": 77,
+  "madde": "12",
+  "metin": "Fetusu korumak amacıyla, hamile radyasyon görevlisinin balın yüzeyi için hamilelik boyunca ilave eşdeğer doz sınırı | mS$v'dir"
+ },
+ {
+  "i": 86,
+  "madde": "15",
+  "metin": "a) Denetimli Alanlar: Radyasyon görevlilerinin giriş ve çıkışlarının özel denetime, çalışmalarının radyasyon korunması bakımından özel kurallara bağlı olduğu ve görevi gereği radyasyon ile çalışan kişilerin ardışık beş yılın ortalama yıllık doz sınırlarının 3/10'undan fazla radyasyon dozuna maruz kalabilecekleri alanlardır"
+ },
+ {
+  "i": 88,
+  "madde": "15",
+  "metin": "1) Radyasyon alanı olduğunu gösteren temel radyasyon simgeleri (Ek-3)"
+ },
+ {
+  "i": 93,
+  "madde": "16",
+  "metin": "Madde 16 - Radyasyon alanlarının izlenmesinde uygun radyasyon ölçüm cihazları ve dozimetreler kullanılır Radyasyon alanlarının radyasyon/radyoaktivite düzeyi ölçümleri Kurum tarafından belirtilen sıklık ve yöntemlere uygun olarak yapılır. Bu ölçümlerde kullanılan cihazların kalibrasyonları Kurum tarafından uygun görulen aralıklarla, Kurumun İkincil Standart Dozimetre Laboratuvarı'nda yapılır"
+ },
+ {
+  "i": 97,
+  "madde": "18",
+  "metin": "Madde 18 - Ziyaretçiler denetimli alanlara kesinlikle, gözetimli alanlara ise radyasyon korunması sorumlusundan izin almadan giremezler İzin verilen ziyaretçilerin giriş ve çıkış saatlerinin kayıtlarının tutulması radyasyon korunması sorumlusu tarafindan sağlanır."
+ },
+ {
+  "i": 108,
+  "madde": "21",
+  "metin": "Madde 21 - Yıllık dozun, izin verilen duzeyin 3/10'unu aşma olasılığı bulunan Çalışma Koşulu A durumunda görev yapan kişilerin, kişisel dozimetre kullanması zorunludur. Kurum tarafından belirlenen donemlerde değerlendirmek uzere bu dozimetreler Kuruma gönderilir. Bu değerlendirmeler radyasyon guvenliği uzmanları tarafından değerlendirilir ve sonuçları ilgililere bildirilir. Kurum tarafından gerekli gorülduğü hallerde diğer dozimetrik yöntemler de kullanılır, yapılan hizmete ilişkin ucretler her yıl ucret listesine göre tahsil edilir."
+ },
+ {
+  "i": 112,
+  "madde": "23",
+  "metin": "Madde 23 - Radyasyon gorevlilerinin bu Yönetmeliğin 15inci maddesinde belirtilen alanlarda işe başlamadan önce bu Yonetmeliğin 5linci maddesinin (d) bendinde belirtilen sağlık raporu istenir, ayrıca hematolojik, dermatolojik ve hekim tarafından gerekli görülmesi halinde radyolojik tetkikleri yapılır."
+ },
+ {
+  "i": 113,
+  "madde": "23",
+  "metin": "Denetimli alanlarda gorev yapanların hematolojik tetkikleri yılda en az bir kez yapılır Kurum tarafindan gerekli görulduğu hallerde ise bu sure kısaltılır ve raporlan saklanır"
+ },
+ {
+  "i": 116,
+  "madde": "24",
+  "metin": "Madde 24 - Tanı ve tedavi amacıyla radyasyon uygulamalarının amacına ulaşması öncelikli olmak üzere hastanın radyasyon guvenliğin sağlamak uzere aşağıdaki hususlara uyulur."
+ },
+ {
+  "i": 117,
+  "madde": "24",
+  "metin": "a) Hekimin yazılı kararı olmayan hiçbir ışınlama yapılamaz"
+ },
+ {
+  "i": 119,
+  "madde": "24",
+  "metin": "c) Görevli tüm personel, tam ve tedavinin gerektirdiği radyasyon güvenliği konularında eğitilmiş olmalıdır"
+ },
+ {
+  "i": 120,
+  "madde": "24",
+  "metin": "Yürütme ve Idare Bolumu Sayfa * 11"
+ },
+ {
+  "i": 121,
+  "madde": "24",
+  "metin": "d) Hastanın radyasyon guvenliğinin sağlanması ile ilgili her türlü denetim Kurum tarafindan yapılır."
+ },
+ {
+  "i": 122,
+  "madde": "24",
+  "metin": "e) Kalibrasyon, dozimetri ve cihazların kalite kontrolu bu konuda yetkili kişilerin denetimi altında yapılır"
+ },
+ {
+  "i": 130,
+  "madde": "26",
+  "metin": "Madde 26 - Tıbbi ışınlanmalarda optimizasyonu sağlamak üzere bu Ydnetmeliğin Taci maddesinde belirtilen optimizasyon kuralına ilaveten aşağıdaki hususlar sağlanır."
+ },
+ {
+  "i": 131,
+  "madde": "26",
+  "metin": "a) Cihaz, planlanmamış bir ışınlanma durumunda hasta dozunu en düşük düzeyde tutmak üzere sistemin tek bir bileşenin hatasını anında belirlemelidir."
+ },
+ {
+  "i": 132,
+  "madde": "26",
+  "metin": "b) Cihaz, insan hataları nedeniyle ortaya çıkacak planlanmamış ışınlanmaları en düşük düzeyde tutabilecek özelliklere sahip olmalıdır"
+ },
+ {
+  "i": 133,
+  "madde": "26",
+  "metin": "c) (a) ve (b) bendlerinde belirtilen hususlara neden olacak bilgiler üretici firmadan temin edilmelidir."
+ },
+ {
+  "i": 134,
+  "madde": "26",
+  "metin": "d) Cihazların özellikleri Türk Standartlarına (TS), bulunmaması halinde Uluslararası Standardizasyon Organizasyonu (1SO), Uluslararası Elektroteknik Komisyonu (EC), Avrupa Birliği (EU) standartlarına veya bunlara eşdeğer ulusal standartlara uygun olmalıdır."
+ },
+ {
+  "i": 135,
+  "madde": "26",
+  "metin": "e) Cihazların performans özellikleri ile kullanma ve bakım talimatları, Radyasyondan Korunma ve Güvenlik Tatimatların: da içermelidir."
+ },
+ {
+  "i": 136,
+  "madde": "26",
+  "metin": "f) Cihazların teknik ozelliklerine ilişkin hükümler konu ile ilgili özel yönetmelik hükümlerine uymalıdır."
+ },
+ {
+  "i": 138,
+  "madde": "27",
+  "metin": "Madde 27 - Tıbbi ışınlamaların yapıldığı tesislerde uygulanacak kalite temini programları özellikle aşağıdaki hususları içermelidir"
+ },
+ {
+  "i": 139,
+  "madde": "27",
+  "metin": "a) Cihazların kalite kontrollerini içeren kalite denetimleri, Kurum ve/veya Kutumun yetkilendirdiği kuruluşlar tarafindan yapılır Kurum yetkilendirdiği kuruluşları denetler ve gerektiğinde yetkilerini iptal eder,"
+ },
+ {
+  "i": 140,
+  "madde": "27",
+  "metin": "b) Yetkili kuruluşlar radyasyon kaynaklarının, tanı ve tedaviye etki eden fiziksel parametreleri ilk kurulduklarında ve daha sonra düzenli olarak ölçmelidir,"
+ },
+ {
+  "i": 141,
+  "madde": "27",
+  "metin": "c) Ölçülen parametrelerin ulusal veya uluslararası mevzuata uygunluğu doğrulanmalıdır,"
+ },
+ {
+  "i": 142,
+  "madde": "27",
+  "metin": "d) Radyasyon olçüm cihazlarının kalibrasyonları ile dozimetrik verilerin uygunluğu doğrulanmalıdır"
+ },
+ {
+  "i": 143,
+  "madde": "27",
+  "metin": "e) Kalite temini program sonuçları kayıt edilmeli ve sonuçlardan Kurum bilgilendirilmelidir."
+ },
+ {
+  "i": 144,
+  "madde": "27",
+  "metin": "Kurum kalite temin proyramları uygulamalarını denetler. Denetim sonuçları yetersiz olan cihazlar yeterliliği belueleninceye kadar kullanılamaz, aksi takdirde bu Yonetmeliğin 75 inci maddesi hukumleri uygulanır m Yürütme ve İdare Bölumü Sayfa : 12"
+ },
+ {
+  "i": 152,
+  "madde": "31",
+  "metin": "Madde 31 — 1 - 131 radyoaktif maddesi verilen hastalar vücuttaki radyoaktivite miktarının 400 MBg'e düşmesi halinde taburcu edilir. Taburcu edilen hastaya diğer kişilerle temasları ve radyasyon korunması ile ilgili alınacak önlemlerle ilgili yazılı talimatlar verilir. 100 MBg''in altındaki radyoaktivite ile taburcu edilen hastalar için özel önlem alınması gerekmez."
+ },
+ {
+  "i": 154,
+  "madde": "32",
+  "metin": "Madde 32 - Radyasyon ile tedavinin yanlış hastaya veya yanlış dokuya uygulanması, yanlış radyofarmasotik kullanılması, tedavinin belirlenenden farklı uygulanması durumlarında veya tanı amaçlı uygulamalarda dozun rehber duzeyin belirgin şekilde uzerine çıkması veya cihaz arızası, kaza, hata gibi nedenlerle hastanın beklenenden fazla doz alması durumunda,"
+ },
+ {
+  "i": 155,
+  "madde": "32",
+  "metin": "a) Hasta dozu belirlenir,"
+ },
+ {
+  "i": 156,
+  "madde": "32",
+  "metin": "b) Durum hakkında Kurum bilgilendirilir,"
+ },
+ {
+  "i": 157,
+  "madde": "32",
+  "metin": "€) Durum hastaya, radyasyon korunması sorumlusuna ve ilgili doktoruna bildirilir,"
+ },
+ {
+  "i": 158,
+  "madde": "32",
+  "metin": "d) Önlemler ve hastanın durumuna göre yapılması gerekenler belirlenerek, uygulanması sağlanır"
+ },
+ {
+  "i": 159,
+  "madde": "32",
+  "metin": "e) Tekrarlanmaması için önlemler alınır, gerekli görülen hallerde bu Yönetmeliğin 59uncu ve 7Sinci maddeleri hukümleri uygulanır."
+ },
+ {
+  "i": 169,
+  "madde": "34",
+  "metin": "Yürütme ve İdare Bolumu Sayfa * 13 a a A YY VR e rr, >>> —ş>şğş—şşğğşğ— m —xş<ğx—x>.>.>.şğjğğ"
+ },
+ {
+  "i": 170,
+  "madde": "34",
+  "metin": "Raporda yer alan hususlar radyasyon güvenliği ve çevre sağlığı bakımından uygun görüldüğü takdirde; belirli tür ve miktarlarda radyoaktif maddelerin çevreye verilmelerine Kurum tarafından izin verilir. Kurum uzmanları tarafından raporda eksiklikler bulunması halinde, bu eksikliklerin belirlenen süre içerisinde tamamlanması istenir ve bu süre içerisinde çevreye radyoaktif madde verilmesine izin verilmez."
+ },
+ {
+  "i": 174,
+  "madde": "36",
+  "metin": "Madde 36 - Radyoaktif atıklarla ilgih düzenlemeler 2690 sayılı Kurum Kanunu'nun 4 üncü maddesi (f) bendi çerçevesinde yapılır. Ayrıca;"
+ },
+ {
+  "i": 175,
+  "madde": "36",
+  "metin": "a) Kapalı radyasyon kaynakları hiç bir şekilde radyoaktif atık olarak çevreye verilemez ve lisans sahibi tarafindan Kuruma önceden yazılı olarak bilgi verilmeden bir başka resmi veya özel kişi yada kuruluşa devredemez. Kapalı radyasyon kaynaklarını lisans sahibinden devralmak isteyen kişi veya kuruluşlar bu Yönetmeliğin SOnci maddesi hükmü uyarınca Kuruma yazılı başvurmak zorundadır."
+ },
+ {
+  "i": 176,
+  "madde": "36",
+  "metin": "b) Lisans sahibi radyoaktif madde içeren radyasyon kaynaklarının bakımı, onarımı, kurulması, sökülmesi ve değiştirilmesi için bu Yönetmeliğin 5linci maddesinde belirtilen evraklar ile Kuruma yazılı olarak başvurur ve Kurumun onayı alınır. Gerekirse bu işlemler radyasyon güvenliği uzmanları gözetiminde yapılır. Bu amaçlar dışında, hiç bir şekilde radyoaktif kaynağı açığa çıkaracak şekilde sökme, değiştirme ve benzeri işlemler yapılamaz, Aykırı durumlarda bu Yönetmeliğin 75 inci maddesi hükümleri uygulanır."
+ },
+ {
+  "i": 178,
+  "madde": "37",
+  "metin": "Madde 37 - Doğal radyasyon kaynaklarından maruz kalınan ışınlanmalara doz sırırlaması uygulanmaz. Ancak, ilk durumu değiştirilmiş olan doğal radyasyon kaynaklarından meydana gelen ışınlarımalara, bu Yönetmeliğin 7nci maddesindeki radyasyon korunma sistemi uygulanır."
+ },
+ {
+  "i": 179,
+  "madde": "37",
+  "metin": "Bu kaynaklardan radon için solumun yoluyla izin verilen konsantrasyon değerleri yıllık ortalama olarak evlerde 400 Bg/m”, işyerlerinde 1000 Bag/m' değerlörini aşamaz. İşyerlerinde bu değerin aşılması durumunda, görevi gereği ışınlanmalar için bu Yönetmeliğin 10uncu maddesinde verilen doz sınırları uygulanır."
+ },
+ {
+  "i": 181,
+  "madde": "38",
+  "metin": "Madde 38 - Görevi gereği radyasyon kaynaklarıyla çalışmamakla birlikte yaptığı iş nedeniyle doğal radyasyona maruz kalan uçuş personeli ile maden ocakları gibi yerlerde çalışan kişiler radyasyon görevlisi sayılmazlar."
+ },
+ {
+  "i": 182,
+  "madde": "38",
+  "metin": "DÖRDÜNCÜ BÖLÜM Kaza veya Tehlike Durumunda Işınlanma"
+ },
+ {
+  "i": 183,
+  "madde": "38",
+  "metin": "Tehlike durumu planı ,"
+ },
+ {
+  "i": 184,
+  "madde": "39",
+  "metin": "Madde 39 - Lisans sahibi tarafından tesislerde kullamlan radyoaktif kaynakların özelliklerine göre tehlike durumu veya kaza durumlarında uygulanmak üzere bu Yönetmeliğin 40ıncı maddesine göre bir Tehlike Durumu Planı” hazırlanır."
+ },
+ {
+  "i": 186,
+  "madde": "40",
+  "metin": "Madde 40 - “Tehlike Durumu Planı”nda yer alması gereken hususlar aşağıda belirtilmiştir."
+ },
+ {
+  "i": 187,
+  "madde": "40",
+  "metin": "m.  ———— Yürütme ve İdare Bölümü Sayfa : 14 hd A A mi"
+ },
+ {
+  "i": 188,
+  "madde": "40",
+  "metin": "a) Tehlike durumu veya kaza ile ilgili olarak görevlendirilen kişiler, unvanlar, adres ve telefon numaraları,"
+ },
+ {
+  "i": 189,
+  "madde": "40",
+  "metin": "b) Tesis içindeki ve dışındaki sorumlu kişilerle haberleşme sistemi,"
+ },
+ {
+  "i": 190,
+  "madde": "40",
+  "metin": "c) Uygulanacak radyasyon ölçüm programları,"
+ },
+ {
+  "i": 191,
+  "madde": "40",
+  "metin": "d) Muhtemel kaza senaryoları ve alınacak önlemler,"
+ },
+ {
+  "i": 192,
+  "madde": "40",
+  "metin": "e) Gerekli ekipman ile araç ve gereçler."
+ },
+ {
+  "i": 194,
+  "madde": "41",
+  "metin": "Madde 41 — Lisans sahibi tarafindan hazırlanan plan uygun bulunursa Kurum tarafindan onaylanır."
+ },
+ {
+  "i": 196,
+  "madde": "42",
+  "metin": "Madde 42 - Tehlike durumu veya kaza halinde Tüzüğün 22nci maddesi gereğince alınması gerekli önlemler derhal yerine getirilir ve durum en hızlı haberleşme aracı ile Kuruma bildirilir. Radyasyon Güvenliği uzmanları tarafindan olay yerinde yapılan inceleme sonucu radyasyon güvenliği açısından alınması gereken önlemler, lisans sahibi tarafından hemen yerine getirilir."
+ },
+ {
+  "i": 197,
+  "madde": "42",
+  "metin": "Kurumun “Nükleer ve Radyolojik Tehlike Durumu Uygulama Planı” çerçevesinde ilgili bakanlık, kurum ve kuruluşlar haberdar edilir."
+ },
+ {
+  "i": 206,
+  "madde": "46",
+  "metin": "Radyasyon kaynaklarının kaybolması, çalınması veya hasar görmesi"
+ },
+ {
+  "i": 207,
+  "madde": "46",
+  "metin": "Msedde 47 - Radyasyon kaynaklarının kaybı, çalınması veya hasar görmesi halinde, lisans sahibi tarafindan ivedilikle gerekli önlemler alınır ve durum en hızlı haberleşme aracı ile Kuruma bildirilir. Kurumun radyasyon korunması uzmanları tarafindan yerinde yapılan inceleme sonucu, radyasyon güvenliği açısından gerekli hususlar ivedilikle yerine getirilir Gerekirse ilgili kuruluşların yardımı istenir ve bu kuruluşlarla işbirliği yapılır"
+ },
+ {
+  "i": 210,
+  "madde": "48",
+  "metin": "Madde 48 — Ani ışınlanmalar için 2 günden daha az sürede organ veya dokuda soğurulması beklenen dozlar için mudahaleye ilişkin eylem düzeyleri Çizelge- |*de verilmiştir e. Çizelge 1 - Ani Işınlamalar İçin Eylem Düzeyleri Organ veya doku Doz m. G Tüm vücut (kemik iliği) Akciğer Deri Tiroid Go, merceği Gonadlar"
+ },
+ {
+  "i": 215,
+  "madde": "49",
+  "metin": "Organ veya doku Eşdeğer dez hızı (Gy/iyu) Gonadlar 02 Göz merceği Ol Kenik iliği 0.4 DÖRDÜNCÜ KISIM Lisans, İzin, Denetim, Kayıtlar BİRİNÇİ BÖLÜM Lisans"
+ },
+ {
+  "i": 217,
+  "madde": "50",
+  "metin": "Madde 50 - Radyasyon Güvenliği Tuzuğu ve bu Yönetmelik kapsamına giren radyasyon kaynaklarının imal, ithal ve ihraç edilmesi, alınması, satılması, taşınması, depolanması, bakımı, onarımı, kurulması, sokulmesi, değiştirilmesi, radyasyon kaynaklarıyla çalışılabilmesi ve her türlü amaçla bulundurulması ve kullanması için Kurum'dan Hisans alınması zorunludur Bu lisans, başvurusu yapılan kaynakların Kurum tarafindan onaylanan kişilerin sorumluluğu altında ve başvuruda belirtilen adresteki faaliyetini kapsar Bu işler, diğer bakanlık ve/veya kuruluşlardan da izin, ruhsat veya bir belge alınmasını gerektiriyorsa, bunların verilmesi Kurum tarafindan İisans verilmesi önkoşuluna bağlıdır. 7/2/1993 tarihli 21489 sayılı Resmi Gazete'de yayımlanan Çevresel Etki Değerlendirmesi (ÇED) Yönetmeliğine tabi olan faaliyetler için Çevre Bakanlığı'nın olumlu kararı alınmadan lisans işlemi başlatılamaz."
+ },
+ {
+  "i": 219,
+  "madde": "51",
+  "metin": "Madde 51 — Bu Yonetmeliğin Sönci maddesi kapsamına giren faaliyetler için lisans almak uzere aşağıda verilen bilgi ve belgelerden gerekli olanlar ve ekleriyle birlikte yazılı olarak Kuruma başvurulur;"
+ },
+ {
+  "i": 220,
+  "madde": "51",
+  "metin": "a) Lisans Başvuru Formları"
+ },
+ {
+  "i": 221,
+  "madde": "51",
+  "metin": "Yürütme ve Idare Bolumu Sayfa . 16"
+ },
+ {
+  "i": 222,
+  "madde": "51",
+  "metin": "b) Radyasyon korunması, tıbbi fizik, tahribatsız muayene (radyasyon kaynağı kullanan), ve benzerluzmanlar ile radyasyon konunmaşı sorumlusunun uygulama alanlarına ilişkin aldıkları eğitim ve deneyimlerini gostenr belgeler,"
+ },
+ {
+  "i": 223,
+  "madde": "51",
+  "metin": "c) Radyasyon görevlilerinin kısa eğitim ve deneyim durumlarını gösteren özgeçmişleri ve konuya ilişkin aldıkları belgeler, referanslar,"
+ },
+ {
+  "i": 224,
+  "madde": "51",
+  "metin": "d) Gerek görülen hallerde radyasyon gorevlilerinin sağlık durumlarının yapacakları göreve uygun olduğuna dair sağlık raporu,"
+ },
+ {
+  "i": 225,
+  "madde": "51",
+  "metin": "e) Lisansa bağlı faaliyetlerin ozel ve kamu tüzel kişi veya kuruluşları tarafından yürutulmesi halinde, kayıt ve tescillerinin bulunduğu Ticaret Sicili Gazetesi'nin bir kopyası, veya tüzel kişinin ana kuruluşunu gosteren belgenin kopyası, Şirket yetkilisinin imza sirkuleri ve mifus cuzdanı örneği, ozel kişiler için nüfus cuzdanı örneği, vergi levhası ve benzeri belgeler,"
+ },
+ {
+  "i": 226,
+  "madde": "51",
+  "metin": "( Lisanslanması istenen radyasyon kaynağının kullanılacağı yere ilişkin ve yerleşimi ile ilgili bilgileri içeren form ve radyoaktif kaynağın bulunduğu yerin, alt ve ust katlarının temiz ve okunaklı mimari projesi / ölçekli krokisi (en az 1/100),"
+ },
+ {
+  "i": 227,
+  "madde": "51",
+  "metin": "g) Ücretlerin Kurum tesâbına yatırıldığını gosterir banka dekontları,"
+ },
+ {
+  "i": 228,
+  "madde": "51",
+  "metin": "h) Kurum tarafından hazırlamış olan taahhutnameler,"
+ },
+ {
+  "i": 229,
+  "madde": "51",
+  "metin": "1) Bu Yönetmeliğin 15inci maddesinde belirtilen denetimli alanlarda görev yapan personelin kullandığı radyasyon olçme cihazları ile kişisel dozimetrelerin marka, model ve seri numaraları,"
+ },
+ {
+  "i": 230,
+  "madde": "51",
+  "metin": "i) Radyasyon kaynağı veya cihazın teknik özellikleri ve kullarım amacını belirten açıklayıcı bilgi, teknik katalog ve/veya broşur,"
+ },
+ {
+  "i": 231,
+  "madde": "51",
+  "metin": "j) Radyasyon kaynağı üretim tesisleri ve ithal edilecek cihazlar için bu Yönetmeliğin 26ncı maddesi (d) bendinde belirtilen standartlara uygunluk belgesi,"
+ },
+ {
+  "i": 232,
+  "madde": "51",
+  "metin": "k) Kullanılmış cihazların ithalatı için bu konuda üretici firma, üretici firmanın yetkili temsilcisi veya Kurumca onaylanmış yaş tespit belgesi (bu belge ithal izni başvuru aşamasında verilir),"
+ },
+ {
+  "i": 233,
+  "madde": "51",
+  "metin": "i) Radyofarmasotik -Yonetmeliği'nde belirtilen radyoaktif maddelerin ithalatı için, ithal edilecek urunün niteliğine uygun olarak alınacak Urun Tescil Belgesi,"
+ },
+ {
+  "i": 234,
+  "madde": "51",
+  "metin": "m) İthalatı yapılacak radyoaktif kaynakların “Radyoaktif Kaynak Kalibrasyon Sertifikası”,"
+ },
+ {
+  "i": 235,
+  "madde": "51",
+  "metin": "n) Daha önce radyasyon kaynakları ile çalışmış olan kişilerin gerekli görülen hallerde işe başlamadan önce maruz kaldıkları radyasyon dozlarını saptamak uzere Çekmece Nükleer Araştırma ve Eğitim Merkezi bunyesindeki Radyobiyoloji Bolümu'nde yapılacak kromozom aberasyonu test sonuçları,"
+ },
+ {
+  "i": 236,
+  "madde": "51",
+  "metin": "o) Radyasyon kaynaklarının kara yolu ile taşınmasında kullanılacak aracın turü, plaka numarası, surücu, taşıma işlemlerini yapan ve araçta bulunacak diğer kişilerin isimleri ve dozimetre numaraları ile radyasyon ölçum cihazlarının marka, model ve seri numaraları,"
+ },
+ {
+  "i": 237,
+  "madde": "51",
+  "metin": "ö) Radyasyon kaynaklarının bakım, onanm; kurulması, sökülmesi ve değişimini yapacak kişilerin kısa eğitim biyografileri ve bu işleri yapmak için eğitim ve deneyiminin yeterliliğine dair üretici firma veya yetkili kuruluşlardan alınan belge veya referanslar,"
+ },
+ {
+  "i": 238,
+  "madde": "51",
+  "metin": "p) Tehlike durumu ve kaza için “Tehlike Durum Planı”,"
+ },
+ {
+  "i": 239,
+  "madde": "51",
+  "metin": "r) Verilecek lisansın turüne gore Kurum tarafindan gerek görüldüğünde istenecek diğer belgeler"
+ },
+ {
+  "i": 241,
+  "madde": "52",
+  "metin": "Madde 52 - Başvuru belgeleri, Kurum'un Radyasyon Sağlığı ve Guvenliği Dairesi tarafindan incelenir, başvuru belgelerinde eksiklik varsa başvuru kabul edilmez ve başvurana eksiklikleri bildirilerek tamamlanması istenir Eksikliklerin en fazla uç ay içinde tamamlanmaması durumunda, bu Yönetmeliğin 75Sinci maddesinde belirtilen hukumler uygulanır ve lisans başvunu ücreti Kurum'a gelir olarak kayıt edilir"
+ },
+ {
+  "i": 244,
+  "madde": "53",
+  "metin": "Madde 53 - Başvuru belgelerinin yeterli olması halinde, Kurumun radyasyon güvenliği uzmanları tarafından yerinde radyasyon kontrolu yapılarak, kontrol raporu düzenlenir. Rapordaki bilgiler ile başvuru belgeleri değerlendirilir. Uygun bulunması durumunda Kurum Başkanlığı tarafından onaylı lisans belgesi verilir. Bu belge herkes tarafindan kolayca görülebilecek bir yere asılır. Lisansın geçerlilik suresi Tüzukte verilmiştir Lisans belgesinin kayıp edilmesi durumunda, kayıp belgelenir, Kuruma bildirilir ve ücreti karşılığında yeni belge tekrar düzenlenir."
+ },
+ {
+  "i": 245,
+  "madde": "53",
+  "metin": "Kontrol raporunda eksik hususların belirtilmesi halinde, eksikliklerin giderilmesi için kontrol tarihinden itibaren uç ay süre verilerek başvuru sahibine bildirilir. Kuruma yazılı olarak yapılan ve mazereti içeren başvurunun Kurum tarafindan uygun görülmesi halinde bu süre uzatılabilir. Bildirilen sure içerisinde eksikliklerin giderildiğinin yazılı olarak bildirilmesi durumunda, yapılacak değerlendirme sonucu, gerekirse tekrar radyasyon kontrolu yapılır ve eksikliklerin giderildiği belirlenirse, lisans belgesi verilir Aksi taktirde lisans başvurusu iptal edilerek, Yönetmeliğin 75inci maddesinde belirtilen hukümler uygulanır ve yatırılan ucret Kurum'a gelir kayıt edilir."
+ },
+ {
+  "i": 247,
+  "madde": "54",
+  "metin": "Madde 54 - Lisans sahibi, radyasyon kaynağının bulunduğu ve kullanıldığı yerde veya lisans koşullarında herhangi bir değişiklik olması halinde, değişiklik yapılmadan önce'en az 15 (onbeş) gün içerisinde Kuruma yazılı başvuruda bulunmak zorundadır Aksi takdirde bu Yönetmeliğin 59uncu ve 75inci maddelerinde belirtilen hukumler uygulanır"
+ },
+ {
+  "i": 249,
+  "madde": "55",
+  "metin": "Madde 55 - Lisans suresi içinde lisans sahibinin değişmesi halinde aşağıdaki belgeler ile Kuruma başvurulur,"
+ },
+ {
+  "i": 250,
+  "madde": "55",
+  "metin": "a) Kurumdan alınan lisans belgesinin aslı,"
+ },
+ {
+  "i": 251,
+  "madde": "55",
+  "metin": "b) Yeni sorumlu için gerekli belgeler,"
+ },
+ {
+  "i": 252,
+  "madde": "55",
+  "metin": "e) İlgili ucretin Kurum hesabına yatırıldığına dair makbuz veya banka dekontu."
+ },
+ {
+  "i": 253,
+  "madde": "55",
+  "metin": "Belgelerin yeterli olması durumunda, Hsans belgesinde isim değişikliği yapılır. Lisansın geçerlilik süresi değişmez Belge uzerinde değişiklik gerektiren ve lisansın esasına ait olmayan konularda benzer işlem yapılır"
+ },
+ {
+  "i": 255,
+  "madde": "56",
+  "metin": "Madde 56 - Lisans süresi içerisinde kullanılan radyasyon kaynağında veya bulunduğu yerde değişiklik olması halinde, bu Yönetmeliğin 5Slinci maddesinde belirtilen bilgi ve belgelerden gerekli olanlar ile Kuruma başvurulur Lisans yenileme işlemleri bu Yönetmeliğin S3üncü maddesine göre yapılır."
+ },
+ {
+  "i": 257,
+  "madde": "57",
+  "metin": "Madde 57 - Lisans sahibi tarafından lisans koşullarında değişiklik olmadığının bildirilerek lisansın vize edilmesi için sure bitiminden onceki 6 (altı) ay içerisinde aşağıda belirtilen belgelerle birlikte Kuruma yazılı olarak başvurulur"
+ },
+ {
+  "i": 258,
+  "madde": "57",
+  "metin": "a) Kurumdan alınan İKksans belgesinin aslı,"
+ },
+ {
+  "i": 259,
+  "madde": "57",
+  "metin": "b) Lisanslama ücretinin 9650 sinin Kurum hesabına yatırıldığına dair makbuz veya banka dekontu,"
+ },
+ {
+  "i": 260,
+  "madde": "57",
+  "metin": "<) Gerek gorulduğunde istenecek diğer belgeler"
+ },
+ {
+  "i": 261,
+  "madde": "57",
+  "metin": "Süresi içinde yapılan başvurular, Kurum tarafindan incelendikten sonra gerekirse yapılacak bir denetim sonucunda lisans belgesi vize edilir"
+ },
+ {
+  "i": 263,
+  "madde": "58",
+  "metin": "Madde 58 - Suresi içinde vize edilmeyen lisans geçersizdir Lisans vize edilinceye kadar tesis faaliyet gösteremez. Aksi takdirde bu Yonetmeliğin 75inci maddesinde belirtilen hükümler uygulanır."
+ },
+ {
+  "i": 266,
+  "madde": "59",
+  "metin": "Madde 59 - Tüzüğün Büncu maddesi hükümlerine ilaveten bu Yönetmelikte yer alan ve insan sağlığını etkileyen diğer hususlara uyulmadığının saptandığı hallerde lisans belgesi iptal edilir."
+ },
+ {
+  "i": 267,
+  "madde": "59",
+  "metin": "Lisansı sürekli iptal edilmiş olan kişi ve kuruluşlar bu alanda faaliyet göstermek üzere lisans başvurusunda bulunamazlar."
+ },
+ {
+  "i": 269,
+  "madde": "60",
+  "metin": "Madde 60 - Lisans sahibinin kendi isteğiyle Kurumdan almış olduğu lisans belgesi için iptal talebinde bulunması durumunda radyasyon kaynağının devredildiği kişi ve kuruluşlar ile bunların adresleri hakkında açıklayıcı yazılı bilgi verilmesi ve lisans belgesinin aslının Kuruma iade edilmesi zonunludur."
+ },
+ {
+  "i": 270,
+  "madde": "60",
+  "metin": "İKİNCİ BÖLÜM İzin"
+ },
+ {
+  "i": 271,
+  "madde": "60",
+  "metin": "İthal - ihraç izni"
+ },
+ {
+  "i": 272,
+  "madde": "60",
+  "metin": "Madde 6i - Radyasyon kaynaklarının ithali, ihracı ve taşınması için bu Yönetmeliğin 58öncü maddesine göre lisans almış kişi ve kuruluşlar, ayrıca her ithal, ihraç ve taşıma için de izin almakla yükümlüdür."
+ },
+ {
+  "i": 274,
+  "madde": "62",
+  "metin": "Madde 62 - Lisans almış kuruluşlar ithalat işlemleri için, ithalattan en az 10 (on) gün önce (ancak aciliyetin belgelendiği durumlarda bu süre kısaltılabilir) ithalatın yapılacağı gümrük istui belirtilerek, ithalata ait proforma fatura veya fatura Ve ithal izni ücretinin yatırıldığını gösterir belge ile Kuruma yazılı olarak başvurur. Yukarda belirtilen belgelerle birlikte, kullanım amaçlarının ortadan kalkması halinde üretici veya yurt dışında bulunan ilgili firması tarafından radyasyon kaynağının geri alınacağına dair taahhütname veya kabul belgesi ile Kurum tarafından ihtiyaç duyulması halinde bu Yönetmeliğin 5linci maddesinde belirtilen belgelerden gerekli görülenler istenir. Tıbbi amaçlı 3 (üç) yaşın üzerinde olan cihazlara ve görüntü şiddetlendirici sistemi bulunmayan floroskopi cihazlarına ithal izni verilmez."
+ },
+ {
+  "i": 276,
+  "madde": "63",
+  "metin": "Madde 63 - Radyasyon kaynakların ticari amaç dışında sadece kendi çalışmalarında kullanmak üzere yapılacak ithalata izin verilebilmesi için lisans sahibi, Kurum tarafindan istenilen bilgi ve belgeleri eksiksiz tamamlayarak yazılı olarak Kuruma başvurur."
+ },
+ {
+  "i": 277,
+  "madde": "63",
+  "metin": "Ancak bu çerçevede izin verilen kaynaklar hiçbir şekilde, radyasyon yayıcı cihazlar ise bir yıl içerisinde “satılamaz veya devredilemez. Aksi takdirde bu Yönetmeliğin 7Sinci maddesi hükümleri uygulanır."
+ },
+ {
+  "i": 279,
+  "madde": "64",
+  "metin": "Madde 64 - Radyoaktif maddeleri diğer kişi ve kuruluşlara satış yapmak üzere ithal lisansı almış olan firmalar, bu kaynakları yalnız Kurumdan İisans almış olan kişi ve kuruluşlara dağıtmak zorundadır."
+ },
+ {
+  "i": 281,
+  "madde": "65",
+  "metin": "Madde 65 - Radyoaktif maddelerin ithal, ihraç ve transit geçiş izinlerini takiben Kurum tarafindan gerek görülen hallerde, gümrüklerde veya (taşımanın başlayacağı noktada, taşımanın 10/9/1997 tarihli ve 23106 sayılı Resmi Gazete'de yayımlanan Radyoaktif Maddenin Güvenli Taşınması Yönetmeliği'ne uygunluğu Kurumun radyasyon güvenliği uzmanları tarafından incelenerek İzin Belgesi düzenlenir. Taşıma izni adı geçen Yönetmelik hükümlerine gdre verilir."
+ },
+ {
+  "i": 284,
+  "madde": "66",
+  "metin": "Madde 66 - Lisans sahibi radyasyon kaynaklarına, yurt dışına çıkış izni verilebilmesi için, kaynağın son kullanıcısı ile gönderildiği yer, gönderilen kuruluşun açık isim ve adresi ile bu kuruluşun kaynağı kabul ettiğine dair belge, kaynağın cinsi, radyoaktivitesi ve gerek duyulan diğer bilgi ve belgeler ve ihraç izni ücretinin yatırıldığını gösteren belge ile Kuruma yazılı olarak başvurur. Kurum tarafından taşıma kabının Radyoaktif Maddenin Güvenli Taşınması Yönetmeliği” ne uygunluğu tespit edilerek izin verilir. Yurt dışına gönderme işlemlerinin fiili olarak gerçekleşmesine kadar radyoaktif kaynağın bulunduğu adres ile sorumlu kişi hakkında Kuruma yazılı bilgi verilir. Radyoaktif kaynağın yurt dışına gönderilmesini takiben er geç 15 (onbeş) gün içinde, gönderen firma tarafından gönderme işleminin tamamlandığını belgeleyen resmi evrakın (konişmento, gümrük çıkış beyannamesi ve benzeri) birer sureti Kuruma teslim edilir Takiben yurt dışı firmasının radyoaktif kaynağı aldığına dair belge lisans sahibi tarafindan Kuruma gönderilir, Aksi taktirde lisans iptal edilerek, Yönetmeliğin 7Sinci maddesinde belirtilen hükümler uygulanır."
+ },
+ {
+  "i": 288,
+  "madde": "67",
+  "metin": "Madde 67 - Denetimin genel esasları, Tüzüğün ilgili maddeleri hükümlerine göre yapılır ve ilaveten aşağıdaki hususları kapsar"
+ },
+ {
+  "i": 289,
+  "madde": "67",
+  "metin": "a) Radyasyon kaynaklarının bulundurulduğu yerlerin fiziksel yönden incelenmesi,"
+ },
+ {
+  "i": 290,
+  "madde": "67",
+  "metin": "b) Çeşitli yer ve noktalarda, radyasyon düzeyleri, radyoaktivite miktarları ve/veya konsantrasyonlarının belirlenmesi,"
+ },
+ {
+  "i": 291,
+  "madde": "67",
+  "metin": "c) Lisansın koşulları ile lisans türüne göre ilgili bölümlerde verilen özel koşullara uyulup uyulmadığının tespiti,"
+ },
+ {
+  "i": 292,
+  "madde": "67",
+  "metin": "d) Kayıtların bu Yönetmeliğin 69uncu maddesinde öngörülen şekilde ve usulüne uygun olarak tutulup tutulmadığının incelenmesi,"
+ },
+ {
+  "i": 293,
+  "madde": "67",
+  "metin": "€) Radyasyonla çalışanların, toplumun ve çevrenin radyasyon güvenliğini korumak üzere Tüzuk ve bu Yönetmelikle ongorulen önlemlerin alınıp alınmadığının incelenmesi,"
+ },
+ {
+  "i": 294,
+  "madde": "67",
+  "metin": "f) Radyasyon kaynaklarının ulkeye giriş, çıkış, taşıma ve transit geçişi sırasında, Tüzuk ve bu Yönetmelik hükümleri ile radyasyon güvenliğine ilişkin diğer mevzuat hükümlerine uyulup uyulmadığının incelenmesi"
+ },
+ {
+  "i": 296,
+  "madde": "68",
+  "metin": "Madde 68 - Kurumun radyasyon güvenliği uzmarları tarafından yapılan denetimler sonucu düzenlenen denetim raporu, Radyasyon Sağlığı ve Güvenliği Dairesi tarafindan değerlendirilir. Bu değerlendirme sonucu, lisans koşulları ve radyasyon güvenliği mevzuat hükümlerine uyulmadığının belirlenmesi halinde, eksiklik ve sakıncaların giderilmesi için denetim tarihinden itibaren en fazla 3 (uç) ay süre verilir ve lisans sahibine yazılı olarak bildirilir. Eksikliklerin giderilmemesi halinde yapılan değerlendirme sonucuna gore Kurum Başkanlığı tarafindan onaylanan lisansın geçici olarak durdurulması kararı, lisans sahibine ve ilgili mercilere yazılı olarak bildirilir. Belirlenen eksiklik ve sakıncaların verilen süreden sonra giderilmesi halinde lisansın geçici durdurulma kararı kaldırılır. Bu süre içerisinde tesis faaliyet gösteremez. Eksiklikler giderilmediği taktirde fisans iptal edilir."
+ },
+ {
+  "i": 299,
+  "madde": "69",
+  "metin": "Madde 69 - Bu Yönetmelik kapsamına giren gerçek kişiler, resmi, öze! kurum veya kuruluşlar aşağıda belirtilen esaslara uygun olarak kayıt tutmakla yükümludurler. Bu kayıtlar 30 yıl süre ile saklanır."
+ },
+ {
+  "i": 300,
+  "madde": "69",
+  "metin": "Yürütme ve İdare Bölümü Sayfa : 20"
+ },
+ {
+  "i": 301,
+  "madde": "69",
+  "metin": "EE LL LE LL LL LL İL İL LL LL LİL LİLİ LİLİ LİLİ LL"
+ },
+ {
+  "i": 302,
+  "madde": "69",
+  "metin": "a) Personele Ilişkin Kayıtlar:"
+ },
+ {
+  "i": 303,
+  "madde": "69",
+  "metin": "1) Verilen lisans belgelerinin tarih, sayı ve içeriği ile lisans belgesi üzerinde ismi belirtilen kişiler,"
+ },
+ {
+  "i": 304,
+  "madde": "69",
+  "metin": "2) Radyasyon gorevlilerinin isimleri ile işe giriş ve işten ayrılış tarihleri,"
+ },
+ {
+  "i": 305,
+  "madde": "69",
+  "metin": "3) Radyasyon görevlilerinin kişisel dozimetri rapotları,"
+ },
+ {
+  "i": 306,
+  "madde": "69",
+  "metin": "4) Radyasyon görevlilerinin ilk defa işe başlamadan önce bu Yönetmeliğin 23üncü maddesine göre yapılan tüm tıbbi muayene sonuçları,"
+ },
+ {
+  "i": 307,
+  "madde": "69",
+  "metin": "5) Radyasyon görevlilerinin bu Yönetmeliğin 23üncü maddesine göre yaptırılan periyodik tibbi muayeneleri ile Kurum tarafından gerekli görülen durumlarda yaptırılan tıbbi muayenelerin sonuçları ve varsa diğer tıbbi ışınlanma sonuçları"
+ },
+ {
+  "i": 308,
+  "madde": "69",
+  "metin": "b) Radyasyon Kaynaklarına İlişkin Kayıtlar"
+ },
+ {
+  "i": 309,
+  "madde": "69",
+  "metin": "1) Verilen lisans belgelerinin tarih, sayı ve kullanım amaçları ile lisans belgesi üzerinde belirtilen radyasyon kaynaklarının cinsi ve radyoaktiviteleri,"
+ },
+ {
+  "i": 310,
+  "madde": "69",
+  "metin": "2) Radyasyon kaynağınin yurda girişi, satın alınması, kurulması ve kalibrasyonuna ilişkin tarih ve işlemler ile konu ile ilgili kişilerin isimleri,"
+ },
+ {
+  "i": 311,
+  "madde": "69",
+  "metin": "3) Radyasyon kaynağının bakımı, onarımı, sızıntı testi, tüp ve kaynak değişimi gibi işlemlerinin tarihleri, yapılan işlerin içeriği ve konu ile ilgili kişilerin isimleri."
+ },
+ {
+  "i": 312,
+  "madde": "69",
+  "metin": "e) Radyoaktif Atıklara İlişkin Kayıtlar"
+ },
+ {
+  "i": 313,
+  "madde": "69",
+  "metin": "1) Meydana gelen radyoaktif atığın cinsi, miktarı, radyoaktivitesi ve tarihleri,"
+ },
+ {
+  "i": 314,
+  "madde": "69",
+  "metin": "2) Depolanmak ve işlenmek uzere Kuruma gönderilen veya çevreye verilen radyoaktif atıkların miktarları"
+ },
+ {
+  "i": 315,
+  "madde": "69",
+  "metin": "d) Kazaya İlişkin Kayıtlar\""
+ },
+ {
+  "i": 316,
+  "madde": "69",
+  "metin": "1) Kazanın yeri ve tarihi,"
+ },
+ {
+  "i": 317,
+  "madde": "69",
+  "metin": "2) Kazanın oluş şekli,"
+ },
+ {
+  "i": 318,
+  "madde": "69",
+  "metin": "3) Kazaya neden olan radyasyon kaynağının cinsi ve radyoaktivitesi,"
+ },
+ {
+  "i": 319,
+  "madde": "69",
+  "metin": "4) Vücuda alınan radyoaktif maddeler ve alınış nedenleri,"
+ },
+ {
+  "i": 320,
+  "madde": "69",
+  "metin": "5) Maruz kalınan süre ve radyasyon dozları,"
+ },
+ {
+  "i": 321,
+  "madde": "69",
+  "metin": "6) Kazaya maruz kalan kişilerin tibbi muayene sonuçları ve yapılan tıbbi uygulamalar,"
+ },
+ {
+  "i": 324,
+  "madde": "70",
+  "metin": "Madde 70 - Bu “Yönetmeliğin 69uncu maddesinde belirtilen kayıtlar Kurum uzmanları tarafından yapılan denetimler sırasında ve Kurum tarafindan gerekli görülen durumlarda incelenebilir."
+ },
+ {
+  "i": 327,
+  "madde": "71",
+  "metin": "Madde 71 - Lisans sahibinin sorumlulukları aşağıda belirtilmiştir"
+ },
+ {
+  "i": 328,
+  "madde": "71",
+  "metin": "a) Bu Yonetmelikte belirtilen radyasyon güvenliğine ilişkin standart ve mevzuatın uygulanmasını sağlamak,"
+ },
+ {
+  "i": 329,
+  "madde": "71",
+  "metin": "b) İşe alınacak radyasyon görevlilerinin sağlık durumunun yapacağı işe uygun olduğu hakkında sağlık raporu alınmasını sağlamak ve çalıştıkları süre içinde bu Yönetmeliğin 23üncü maddesine göre tıbbi muayenelerini yaptırmak."
+ },
+ {
+  "i": 330,
+  "madde": "71",
+  "metin": "e) Daha önce veya halen zehirli kimyasal ve biyolojik maddeler veya diğer tehlikeli koşullara maruz kalarak çalıştırılan kişileri, radyasyona maruz kalmayı gerektirecek görevlerde çalıştırmameak,"
+ },
+ {
+  "i": 331,
+  "madde": "71",
+  "metin": "d) Bu Yönetmeliğin 1 liaci maddesi ile ilgili uygulamalarda ışınlanacak kişileri korumak üzere her türlü önlemi almak ve ışınlanmaya maruz kalacak radyasyon görevlisine, bu önlemler ile uygulamanın otası tehlikeleri hakkında bilgi vermek.,"
+ },
+ {
+  "i": 332,
+  "madde": "71",
+  "metin": "Yunitme ve İdare Bolumü Sayfa * 21"
+ },
+ {
+  "i": 333,
+  "madde": "71",
+  "metin": "İı LAM — mi"
+ },
+ {
+  "i": 334,
+  "madde": "71",
+  "metin": "e) Radyasyon görevlilerinin istifa, emeklilik ve sağlık gibi nedenlerle görevlerinden ayrılmaları halinde, muayene sonucunda hekim tarafından gerekli görüldüğü takdirde radyasyon etkisi ile ortaya çıkabilecek durumların takibi veya tedavisine devam edilmesini sağlamak,"
+ },
+ {
+  "i": 335,
+  "madde": "71",
+  "metin": "( Kurum tarafından belirlenen referans seviyeleri veya doz seviyelerinin aşılması veya aşılmasından şüphe duyulması halinde Kuruma haber vermek ve Kurum tarafindan önerilen önlemleri almak,"
+ },
+ {
+  "i": 336,
+  "madde": "71",
+  "metin": "g) Radyoaktif maddelerin çevreye verilmesinin söz konusu olduğu hallerde bu Yönetmeliğin 34uncü maddesinde belirtilen bilgi ve belgeleri tamamlayarak izin almak ve Kuruma bilgi vermek,"
+ },
+ {
+  "i": 337,
+  "madde": "71",
+  "metin": "h) Radyasyon Korunması Sorumlusu ile birlikte tesisin Kaza ve Tehlike Durumu Planı'nı hazırlayarak Kuruma onaylatmak ve böyle bir durumun ortaya çıkması halinde bu Yönetmeliğin 42nci maddesinde belirtilen hususları yerine getirmek,"
+ },
+ {
+  "i": 338,
+  "madde": "71",
+  "metin": "ı) Kullanılan radyasyon kaynak ve cihazlarının sayısı ve cinsine, çalışan radyasyon görevlilerinin eğitim durumlarına ve yapılan çalışmaların riskine göre Radyasyon Korunması Uzmanı, Radyasyondan Korunma Sorumlusu, Tıbbi Fizik Uzmanı, Tahribatsız Muayene Metotları Uzmanı, Reaktör Sağlık Fizikçisi, Kalite Kontrol Uzmanı gibi elemanları çalıştırmak,"
+ },
+ {
+  "i": 339,
+  "madde": "71",
+  "metin": "i) Radyasyon gorevlilerinin Radyasyondan Korunma ile ilgili eğitiminin yapılmasını ve/veya yaptırılmasını sağlamak,"
+ },
+ {
+  "i": 340,
+  "madde": "71",
+  "metin": "j) Tesiste bulunan radyasyon kaynaklarının bakım, onarım ve kaynak değişim işlemlerinin Kurumdan lisans/izin almış kişi ve kuruluşlar tarafından yapılmasını sağlamak,"
+ },
+ {
+  "i": 341,
+  "madde": "71",
+  "metin": "k) Bu Yönetmeliğin 69uncu maddesinde belirtilen kayıtların tutulmasını sağlamak,"
+ },
+ {
+  "i": 342,
+  "madde": "71",
+  "metin": "Iy Kurum tarafından yayımlanmış olan radyasyon güvenliğine ilişkin tüzük ve yönetmelikleri tesiste bulundurmak"
+ },
+ {
+  "i": 344,
+  "madde": "72",
+  "metin": "Madde 72 - Lisans sahibi ve tesis sahibinin farklı olması durumunda, tesis sahibi bu Yönetmeliğin 7linci maddesinde belirtilen hususları yerine getirmekle yükümlüdür."
+ },
+ {
+  "i": 346,
+  "madde": "73",
+  "metin": "Madde 73 - Radyasyon Korunması Sorumlusunun görevleri aşağıda belirtilmiştir."
+ },
+ {
+  "i": 347,
+  "madde": "73",
+  "metin": "a) Tesisin, sistemlerin, çalışanların ve hastaların radyasyon ölçümleri için uygun cihazların bulundurulmasını ve kullanılmasını sağlamak,"
+ },
+ {
+  "i": 348,
+  "madde": "73",
+  "metin": "b) Tesiste radyasyondan korunma ile ilgili ölçum programlarını hazırlamak ve uygulamak, e Tehlike durumu planlarını hazırlamak ve gerektiğinde planda belirtilen hususların yerine getirilmesini sağlamak ve kaza durumunun yönetilmesinin sorumluluğunu üstlenmek,"
+ },
+ {
+  "i": 349,
+  "madde": "73",
+  "metin": "d) Radyasyon alanlarına uygun ikaz etiketleri, çalışma talimatları ve kaza durumu müdahale planını kolayca görülecek yerlere asmak,"
+ },
+ {
+  "i": 350,
+  "madde": "73",
+  "metin": "e) Yeni radyasyon kaynakları ve/veya cihazların seçimi ile radyasyon alanlarının planlanmasında radyasyon güvenliği kriterlerinin uygulanmasını sağlamak,"
+ },
+ {
+  "i": 351,
+  "madde": "73",
+  "metin": "f) Radyasyon kaynaklarının sızıntı testini, depolanmasını ve takibini yapmak,"
+ },
+ {
+  "i": 352,
+  "madde": "73",
+  "metin": "g) Radyoaktif atıkların yönetimi için gerekli işlemleri yurütmek,"
+ },
+ {
+  "i": 353,
+  "madde": "73",
+  "metin": "h) Radyasyon görevlileri ve ziyaretçiler için radyasyon güvenliği ile ilgili önlemler almak,"
+ },
+ {
+  "i": 354,
+  "madde": "73",
+  "metin": "1) Radyasyon görevlilerinin radyasyondan korunma konusunda eğitiminde görev almak,"
+ },
+ {
+  "i": 355,
+  "madde": "73",
+  "metin": "i) Bu Yönetmeliğin 69uncu maddesinde belirtilen kayıtları tutmak"
+ },
+ {
+  "i": 357,
+  "madde": "74",
+  "metin": "Madde 74 - Radyasyon Guvenliği Uzmanının gorevleri aşağıda belirtilmiştir."
+ },
+ {
+  "i": 358,
+  "madde": "74",
+  "metin": "a) Radyasyon görevlilerinin, halkın ve çevrenin radyasyon korunması ile radyasyon kaynaklarının güvenliğini sağlamak uzere gerekli önlemleri almak,"
+ },
+ {
+  "i": 359,
+  "madde": "74",
+  "metin": "b) Radyasyon kaynaklarının kullanıldığı tesislerın planlama ve zırhlama hesaplarını ve projelerini yapmak ve kontrol etmek,"
+ },
+ {
+  "i": 360,
+  "madde": "74",
+  "metin": "Yürütme ve İdare Bulumü Sayfa * 22"
+ },
+ {
+  "i": 361,
+  "madde": "74",
+  "metin": "e) Radyasyon kaynaklarının kullanıldığı tesislerde radyasyon seviyesini duzenli olarak izlemek,"
+ },
+ {
+  "i": 362,
+  "madde": "74",
+  "metin": "d) Radyasyon kaynakları ile çalışılan tesislerde radyoaktif bulaşmayı önleyici tedbirleri almak, alınmasını sağlamak,"
+ },
+ {
+  "i": 363,
+  "madde": "74",
+  "metin": "e) Radyoaktif kaynaklarla çalışılan tesislerde meydana gelen radyoaktif atıkların yonetimi ile ilgili tedbirleri almak, alınmasını sağlamak,"
+ },
+ {
+  "i": 364,
+  "madde": "74",
+  "metin": "f) Radyoaktif maddenin guvenli taşınmasını sağlamak için gerekli onlemleri almak, alınmasını sağlamak,"
+ },
+ {
+  "i": 365,
+  "madde": "74",
+  "metin": "g) Bu Yonetmeliğin 69uncu maddesinde belirtilen kayıtların tutulmasını sağlamak,"
+ },
+ {
+  "i": 366,
+  "madde": "74",
+  "metin": "h) Radyasyon gorevlilerinın kişiset doz ve risk değerlendirmelerini yapmak,"
+ },
+ {
+  "i": 367,
+  "madde": "74",
+  "metin": "i) Yurt içinde veya dışında meydana gelebilecek nukleer ve radyolojik kaza veya tehlike durumlarında, kişilerin, halkın ve çevrenin Olası radyasyon ve radyoaktif bulaşma tehlikelerinden etkilenmesini en az duzeye indirmek uzere gerekli önlemleri almak, alınmasını sağlamak, tehlike durumunda yapılacak faaliyetleri belirlemek,"
+ },
+ {
+  "i": 368,
+  "madde": "74",
+  "metin": "i) Radyasyon kaynakları ile çalışan gorevlilerin radyasyondan korunması ile ilgili eğitimlerini yapmak, Kurum tarafindan duzenlenecek kurs ve seminerlerde eğitmenlik yapmak,"
+ },
+ {
+  "i": 371,
+  "madde": "75",
+  "metin": "Madde 75 - Lisanssız çalıştığı veya lisans koşullarına aykırı hususların tespit edildiği ve bu Yonetmelikte yer alan diğer hukumlere uyulmadığı belirlenen durumlarda hukuki işlem yapılmak uzere Kurum tarafından genel hukuk esasları dahilinde kanuni kovuşturmaya geçilmesini sağlamak uzere yetkili mercilere başvurulur"
+ },
+ {
+  "i": 373,
+  "madde": "76",
+  "metin": "Madde 76 - Bu Yönetmelikte belirtilen faaliyetlerin yerine getirilmesi sırasında Kurum tarafından Kanun'da belirtilen sigorta yukumluluğu aranır i"
+ },
+ {
+  "i": 379,
+  "madde": "79",
+  "metin": "Madde 79- Bu Yönetmelik hukumlerini Başbakan yurutur"
+ }
+]

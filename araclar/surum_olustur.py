@@ -117,10 +117,17 @@ def birimler(par, i, j):
 def degisiklik_maddeleri(md):
     """[(talimat, [yuk paragrafları])] — 'Bu Yönetmelik yayımı tarihinde yürürlüğe girer' gibi maddeler dahil."""
     par = [temiz_p(x) for x in paragraflar(md)]
-    out = []
+    out, tirnak = [], 0
     for p in par:
         d = p.replace("**", "")
-        if re.match(r"^(MADDE|Madde)\s*\d+\s*\.?\s*[-–—]", d) and not d.lstrip().startswith("“"):
+        mb = re.match(r"^(MADDE|Madde)\s*(\d+)\s*\.?\s*[-–—]", d)
+        # Yalnız başlıkla birlikte değiştirilen ve tırnaklı başlığın hemen
+        # ardından gelen hedef madde, değişiklik kanununun maddesi değildir.
+        yuk_madde = (mb and tirnak and out and len(out[-1][1]) == 1
+                     and "başlığı ile birlikte" in out[-1][0].lower()
+                     and hedef_madde(out[-1][0], None) == str(int(mb.group(2))))
+        if mb and not yuk_madde:
+            tirnak = 0
             out.append([re.sub(r"^(MADDE|Madde)\s*\d+\s*\.?\s*[-–—]\s*", "", d), [], int(re.match(r"^(?:MADDE|Madde)\s*(\d+)", d).group(1))])
         elif out:
             # eski RG metinlerinde düz tırnak: "…" → “…”
@@ -128,6 +135,8 @@ def degisiklik_maddeleri(md):
                 p = re.sub(r'^(\**\s*)"', r"\1“", p)
                 p = re.sub(r'"(\s*(?:\**)?\s*)$', r"”\1", p)
             out[-1][1].append(p)
+            if tirnak or re.match(r"^\**\s*“", p):
+                tirnak = max(0, tirnak + p.count("“") - p.count("”"))
     return out
 
 
@@ -381,7 +390,7 @@ def _not_ekle(ps, not_, madde=False):
     if not ps:
         return ps
     p = ps[0]
-    m = re.match(r"^(\**\s*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)\s*\d+\s*(?:/\s*[A-Za-z])?\s*\**\s*[-–—]\s*\**\s*)", p)
+    m = re.match(r"^(\**\s*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)\s*\d+\s*(?:/\s*[A-Za-z])?\s*\.?\s*\**\s*[-–—]\s*\**\s*)", p)
     if m:
         ps[0] = m.group(1) + not_ + " " + p[m.end():]
     else:
@@ -410,7 +419,7 @@ _TOK = re.compile(
     r"(?P<bo>(?P<bon>" + SIRA_RE + r")\s*bölümünün\s*başlığı)"
     r"|(?P<m>(?:(?P<mt>geçici|ek)\s+)?(?P<mliste>(?:\d+\s*(?:['’]?\s*(?:inci|nci|ncı|ıncı|üncü|uncu|ncü))?\s*(?:,\s*|\s+ve\s+|,\s*ve\s+))*)(?P<mn>\d+)\s*(?:/\s*(?P<mh>[A-Za-z])\s*)?['’]?\s*(?:inci|nci|ncı|ıncı|üncü|uncu|ncü|nıcı)?\s*madde(?P<ms>\w*))"
     r"|(?P<am>aynı madde\w*)|(?P<af>aynı fıkra\w*)|(?P<ab>aynı ben[dt]\w*)"
-    r"|(?P<f>(?:(?:" + SIRA_RE + r"|\(\d+\)\s*numaralı)" + _AY + r")*(?:" + SIRA_RE + r"|\(\d+\)\s*numaralı)\s*fıkra(?P<fs>\w*))"
+    r"|(?P<f>(?:(?:" + SIRA_RE + r"|son|\(\d+\)\s*numaralı)" + _AY + r")*(?:" + SIRA_RE + r"|son|\(\d+\)\s*numaralı)\s*fıkra(?P<fs>\w*))"
     r"|(?P<a>(?:\(\d+\)(?:\s*numaralı)?" + _AY + r")*\(\d+\)\s*numaralı\s*alt\s*ben[dt](?P<as>\w*))"
     r"|(?P<b>(?:\([a-zçğıöşü]{1,2}\)" + _AY + r")*\([a-zçğıöşü]{1,2}\)\s*ben[dt](?P<bs>\w*))"
     r"|(?P<c>(?P<cl>(?:(?:" + SIRA_RE + r")" + _AY + r")*)(?P<cn>" + SIRA_RE + r"|son)\s*cümle(?P<cs>\w*))"
@@ -476,6 +485,8 @@ def yollari_coz(metin, bag):
             cur = {"m": cur.get("m"), "f": cur.get("f"), "b": cur.get("b") or bag.get("b")}
         elif g == "f":
             nolar = _sayilar(tk.group("f"))
+            if re.search(r"\bson\s+fıkra", tk.group("f"), re.I):
+                nolar.append("son")
             et = _ek_tur(tk.group("fs"))
             base = {"m": cur.get("m")}
             if et in ("n", "y"):
@@ -529,7 +540,10 @@ def birim_bul(belge, yol):
     bl = birimler(belge.p, i, j)
     aday = bl
     if yol.get("f") is not None:
-        aday = [u for u in aday if u[4] == yol["f"]]
+        f = yol["f"]
+        if f == "son":
+            f = next((u[1] for u in reversed(bl) if u[0] == "f"), None)
+        aday = [u for u in aday if u[4] == f]
         if yol.get("b") is None and yol.get("a") is None:
             aday = [u for u in aday if u[0] == "f"]
     if yol.get("b") is not None:
@@ -543,7 +557,7 @@ def birim_bul(belge, yol):
     return aday[0][2], aday[0][3], i
 
 
-_ONEK = re.compile(r"^(\**\s*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)\s*\d+\s*(?:/\s*[A-Za-z])?\s*\**\s*[-–—]\s*\**\s*)")
+_ONEK = re.compile(r"^(\**\s*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)\s*\d+\s*(?:/\s*[A-Za-z])?\s*\.?\s*\**\s*[-–—]\s*\**\s*)")
 
 
 def _degistir(belge, bas, son, mbas, yeni):
@@ -636,6 +650,10 @@ def uygula2(belge, talimat, yuk, kunye, bag):
         ibare = re.findall(r"“([^”]*)”\s*(?:ibare|ifade|kelime|sözcük|rakam)(?:si|leri|ı|i|leri)\s*“([^”]*)”\s*şeklinde", parca)
         ek_ib = re.findall(r"“([^”]+)”\s*(?:ibare|ifade|kelime|sözcük|rakam)\w*\s*(önce|sonra)\s*gelmek üzere\s*“([^”]*)”\s*(?:ibare|ifade|kelime|sözcük|rakam)", parca)
         sil_ib = re.findall(r"“([^”]+)”\s*(?:ibare|ifade|kelime|sözcük|rakam)(?:si|leri|ı|i|leri)\s*(?:yürürlükten kaldırıl|madde metninden çıkarıl|metinden çıkarıl|çıkarıl)", parca)
+        if fiil == "cikar" and not (ibare or ek_ib or sil_ib) and re.search(r"madde metinlerinden\s+çıkarıl", parca) and re.search(r"[“\"]", parca) and re.search(r"ibare|ifade|kelime|sözcük|rakam", parca):
+            # İbare hedefi çözülemediyse madde veya fıkranın tamamını silme.
+            tamam = False
+            continue
         if ibare or ek_ib or sil_ib:
             if genel and not kapsam.get("m") if kapsam else genel:
                 alan = (0, len(belge.p))
@@ -843,6 +861,10 @@ def uygula2(belge, talimat, yuk, kunye, bag):
 
 # ---------------------------------------------------------------- karşılaştırma
 def norm(s):
+    # Aynı dipnot numarası bazen köşeli atıfla birlikte üç noktanın
+    # ardından düz metin olarak da aktarılır; hukuk metnindeki sayıları koru.
+    for n in set(re.findall(r"\[(\d+)\]", s)):
+        s = re.sub(r"(\(\s*(?:…|\.{3})\s*\))\s*" + re.escape(n) + r"\s*(?=[,.;:])", r"\1", s)
     s = NOT.sub(" ", s)
     s = re.sub(r"\[\d+\]|\*\*|#+|[“”\"'’‘]|<[^>]+>", " ", s)
     return sade(s)
@@ -929,13 +951,28 @@ def ilk_metni_kirp(md, baslik, no=None):
     return "\n\n".join(par[iyi[1]:]) if iyi[1] is not None and iyi[0] >= 0.6 else md
 
 
+def ilk_madde_basliklarini_ayir(md):
+    """Bazı eski RG metinlerinde madde başlığı ve MADDE aynı paragraftadır."""
+    out = []
+    for p in paragraflar(md):
+        m = re.match(r"^([^\n]{1,120}?)\s+((?:(?:GEÇİCİ|Geçici|EK|Ek)\s+)?(?:MADDE|Madde)\s*\d+\s*(?:/\s*[A-Za-z])?\s*\.?\s*[-–—])", p)
+        if m and not re.search(r"(?:^|\s)(?:GEÇİCİ|Geçici|EK|Ek)$", m.group(1).strip('* "“')) and not re.search(r"[.;:!?]", m.group(1)):
+            out.extend([m.group(1), p[m.start(2):]])
+        else:
+            out.append(p)
+    return "\n\n".join(out)
+
+
 def isle(kimlik, kayit, dosya):
     sonuc = {"baslik": kayit["baslik"], "surumler": [], "uyari": []}
     if not kayit["ilk"].get("url"):
         sonuc["uyari"].append("İlk yayım metni Resmî Gazete'de bulunamadı.")
         return sonuc
-    ilk = ilk_metni_kirp(rg_md(kayit["ilk"]["url"], kayit["baslik"]), kayit["baslik"])
-    belge = Belge(ilk)
+    if kayit["ilk"].get("md"):  # RG'de yalnız taranmış PDF: görüntüden okunmuş ilk metin
+        ilk = ilk_metni_kirp((KOK / kayit["ilk"]["md"]).read_text(encoding="utf-8"), kayit["baslik"])
+    else:
+        ilk = ilk_metni_kirp(rg_md(kayit["ilk"]["url"], kayit["baslik"]), kayit["baslik"])
+    belge = Belge(ilk_madde_basliklarini_ayir(ilk))
     belge.baslik = kayit["baslik"]
     belge.no = kayit.get("no")
     sonuc["surumler"].append({"t": kayit["ilk"]["t"], "sayi": kayit["ilk"]["sayi"], "url": kayit["ilk"]["url"], "tur": "ilk",

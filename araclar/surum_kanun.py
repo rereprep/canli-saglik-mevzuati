@@ -24,9 +24,16 @@ def rg_bul(no, khk, kabul, gun=60):
             baglar = fihrist(t)
         except Exception:
             continue
+        if khk:  # KHK'ler çoğunlukla mükerrer sayılarda yayımlanır
+            y, a, g = t.split("-")
+            for n in range(1, 5):
+                try:
+                    baglar = baglar + fihrist_url(f"https://www.resmigazete.gov.tr/eskiler/{y}/{a}/{y}{a}{g}M{n}.htm")
+                except Exception:
+                    break
         for u, m in baglar:
             mm = m.strip("—–- ")
-            if re.match(rf"^{no}\b", mm) and ("Kanun" in mm or "Kararname" in mm or khk):
+            if (re.match(rf"^{no}\b", mm) or (khk and re.search(rf"\b{no}\s*[Ss]ayılı\b|\bKHK[/-]?{no}\b|\(KHK[/-]?{no}\)", mm))) and ("Kanun" in mm or "Kararname" in mm or khk):
                 return t, u, mm
     return None
 
@@ -70,7 +77,7 @@ def main():
             r = None
             if yur.get(k, "") >= v["kabul"]:
                 r = rg_bul(v["no"], v["khk"], yur[k], 1)
-            r = r or rg_bul(v["no"], v["khk"], v["kabul"], 3 if v["khk"] else 60)
+            r = r or rg_bul(v["no"], v["khk"], v["kabul"], 10 if v["khk"] else 60)
             d = {"kanun": k, "kabul": v["kabul"], "maddeler": sorted(v["maddeler"]), "t": r[0] if r else v["kabul"], "sayi": ""}
             if r:
                 d.update(url=r[1], ad=r[2])

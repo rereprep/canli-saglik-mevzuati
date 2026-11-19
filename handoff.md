@@ -458,3 +458,12 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - RG mükerrer sayılarda bulunan ilk metinler: Harcama Belgeleri (20051231M3-2) 64/73, Biyosidal (20091231M4-11) 56/74, İlaç Geri Ödeme (20220825M1-1) 19/19.
 - Hâlâ sürümsüz: İVD 2021 ve Tıbbi Cihaz 2021 (RG PDF'leri taranmış görüntü, 142 sayfa), Hasta Hakları 1998 ve Radyasyon Güvenliği 2000 (RG'de yalnız taranmış PDF). OCR ile yapılabilir.
 - Canlı doğrulama: 193e67a yayında; kanun ve yeni yönetmelik sürüm dosyaları erişilebilir.
+
+## 2026-11-19 — Taranmış RG ilk metinleri ve kanun iyileştirmeleri
+- Vision OCR bu makinede (neural motor) takılıyor; hızlı/CPU modu Türkçede bozuk. Tesseract (brew, tur) kuruldu: tesseract <png> - -l tur --psm 1.
+- araclar/ocr_ilk_metin.py: OCR sayfalarını paragraflara çevirir; değişiklik notu olmayan paragrafları güncel metinle eşler; kalanları <kimlik>.denetim.json'a yazar. Çıktı kaynak-isleme/surum/ocr/<kimlik>.md; indeks ilk.md alanı ile surum_olustur kullanır. Sayfa görüntüleri calisma/ocr-ilk/ (git dışı).
+- Ajanlar denetim paragraflarını görüntüyle düzeltti. Sonuç: Hasta Hakları 48/54, Radyasyon Güvenliği 2000 43/79, İVD 2021 101/111 (denetim kısmen), Tıbbi Cihaz 2021 95/114.
+- surum_kanun: KHK için 10 gün + mükerrer sayılar; eksik değiştiren metinler yeniden arandı (5510 74/80, CMK 34/40, TCK 26/28, Biyogüvenlik 1/1).
+- Ajan (terra) surum_olustur kanun iyileştirmeleri: TCK 281/349, CMK 264/349, 5510 120/244, Büyükşehir 19/39. Toplam 3156/3838.
+- Uyarı: surum_kanun.py indeks.json'u baştan yazar; aynı anda elle indeks düzenleme yapma.
+- 7 dosyada satıra bölünmüş değişiklik notları birleştirildi (zaman çizelgesinde atlanıyordu).

@@ -287,9 +287,7 @@ b) Diğer adli tabiplik hizmetleri, beşinci fıkradaki usul ve esaslara göre a
 
 **MADDE 14 –** (1) Aile sağlığı merkezinin fiziki yapısı, donanımı, fonksiyonelliği, personel durumu ve hizmetin niteliği gibi hizmet sunumunu doğrudan etkileyen unsurlar hizmet kalite standartlarını oluşturur.
 
-(2) Hizmet kalite standartlarının yükseltilmesinin sağlanması için aile hekimi ve (Değişik ibare:RG-21/2/2025-
-
-32820) aile sağlığı çalışanı; Kurumca belirlenen birinci ve ikinci aşama eğitimleri ile aile hekimliğine yönelik diğer eğitimlerin en az %80 ine devam etmekle yükümlüdür.
+(2) Hizmet kalite standartlarının yükseltilmesinin sağlanması için aile hekimi ve (Değişik ibare:RG-21/2/2025-32820) aile sağlığı çalışanı; Kurumca belirlenen birinci ve ikinci aşama eğitimleri ile aile hekimliğine yönelik diğer eğitimlerin en az %80 ine devam etmekle yükümlüdür.
 
 ## DÖRDÜNCÜ BÖLÜM Atamalarda ve Görevlendirmelerde Öncelik Sıralaması, Ölçütler ile Atama ve Nakillere İlişkin Esaslar
 

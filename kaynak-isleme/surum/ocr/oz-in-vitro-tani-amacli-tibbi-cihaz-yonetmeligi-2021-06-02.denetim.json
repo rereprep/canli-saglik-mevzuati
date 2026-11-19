@@ -1,0 +1,762 @@
+[
+ {
+  "i": 53,
+  "madde": "3",
+  "metin": "2) Tedavi öncesinde ve/veya sırasında, ilgili tıbbi ürünle tedavi neticesinde, ciddi advers reaksiyon riski altında olma ihtimali yüksek hastaları tanımlamak, üzere ilgili tıbbi ürünün güvenli ve etkili kullanımı için gerekli olan cihazı,"
+ },
+ {
+  "i": 81,
+  "madde": "3",
+  "metin": "İf) Komisyon: Avrupa Birliği Komisyonunu,"
+ },
+ {
+  "i": 103,
+  "madde": "3",
+  "metin": "zz) Piyasaya arz: Performans çalışmasına yönelik cihazlar hariç olmak üzere bir cihazın Türkiye pazarında ilk kez bulundurulmasını, aaa) Piyasaya arz sonrası gözetim: İmalatçıların; gerekli düzeltici veya önleyici faaliyetleri ivedilikle uygulamaya ilişkin her türlü gereksinimi tanımlamak amacıyla; piyasaya arz ettikleri, piyasada bulundurdukları veya hizmete sundukları cihazlardan kazanılan deneyimleri proaktif olarak toplamak ve gözden geçirmek üzere sistematik bir prosedür kurmaya ve güncel tutmaya yönelik diğer iktisadi işletmecilerle iş birliği içerisinde yürüttükleri tüm faaliyetleri, bbb) Risk: Zararın oluşma olasılığı ile şiddetinin kombinasyonunu, cce) Sağlık kuruluşu: Asli amacı, hastaların bakımı veya tedavisi ya da kamu sağlığının iyileştirilmesi olan kuruluşu, ççç) Saha güvenliği bildirimi: Bir saha güvenliği düzeltici faaliyetiyle ilgili olarak imalatçı tarafından kullanıcılara veya müşterilere gönderilen iletiyi, ddd) Saha güvenliği düzeltici faaliyeti: Piyasada bulundurulan bir cihazla ilgili ciddi olumsuz olay riskini önlemek ya da azaltmak amacıyla teknik veya tıbbi nedenlerle imalatçı tarafından yürütülen düzeltici faaliyeti, ece) Sahtecilik yapılmış cihaz: Fikri mülkiyet hakkı ihlalleri ve kasıtlı olmayan uygunsuzluklar hariç olmak üzere, kimliği ve/veya menşesi ve/veya CE işareti sertifikaları veya CE işaretleme prosedürleriyle ilgili dokümanlarında sahtecilik yapılmış cihazı, fff) Tahmini (prediktif) değer: Cihazın tanı testine pozitif sonuç veren bir kişinin, araştırılan sağlık durumunda olması olasılığı ya da negatif sonuç veren bir kişinin, araştırılan sağlık durumunda olmaması olasılığını, ggg) Tahmini negatif değer: Bir cihazın, belirli bir popülasyondaki belirli bir özellik için, doğru negatif sonuçları yanlış negatif sonuçlardan ayırabilme kabiliyetini, gEE) Tahmini pozitif değer: Bir cihazın, belirli bir popülasyondaki belirli bir özellik için, doğru pozitif sonuçları yanlış pozitif sonuçlardan ayırabilme kabiliyetini, hhh) Tamamen yenileştirme: İmalatçı tanımının amaçları doğrultusunda, yenileştirilen cihaza yeni bir kullanım ömrü belirlemek suretiyle, hâlihazırda piyasaya arz edilmiş veya hizmete sunulmuş bir cihazın, bu Yönetmeliğe uygunluğunu sağlamak için tamamen yeniden yapılmasını veya kullanılmış cihazlardan yeni bir cihaz yapılmasını,"
+ },
+ {
+  "i": 104,
+  "madde": "3",
+  "metin": "mw) Tanısal duyarlılık: Bir cihazın, belirli bir hastalık veya durumla ilişkili bir hedef belirtecin (marker) varlığını belirleyebilme kabiliyetini, ili) Tanısal seçicilik: Bir cihazın, belirli bir hastalık veya durumla ilişkili bir hedef belirtecin yokluğunu saptayabilme kabiliyetini,"
+ },
+ {
+  "i": 106,
+  "madde": "3",
+  "metin": "1) Tıbbi cihaz: Tıbbi Cihaz Yönetmeliğinin 3 üncü maddesinin birinci fikrasının (eee) bendinde tanımlandığı şekilde tıbbi cihazı, mınm) Uygunluk değerlendirme kuruluşu: Kalibrasyon, test, belgelendirme ve muayene dâhil olmak üzere, üçüncü taraf uygunluk değerlendirme faaliyetlerini yürüten kuruluşu, ann) Uygunluk değerlendirmesi: Bir cihazla ilgili bu Yönetmeliğin gerekliliklerinin yerine getirilip getirilmediğini gösteren süreci,"
+ },
+ {
+  "i": 107,
+  "madde": "3",
+  "metin": "000) Uyumlaştırılmış standart: Uyumlaştırılmış Avrupa Birliği Mevzuatını uygulamak amacıyla Komisyonun talebine istinaden kabul edilen bir Avrupa standardını, ööö) Uyumluluk: Yazılım dâhil olmak üzere bir cihazın, kullanım amacına uygun olarak başka bir veya birden fazla cihaz ile birlikte kullanıldığında;"
+ },
+ {
+  "i": 110,
+  "madde": "3",
+  "metin": "3) Çatışma/etkileşim ya da advers reaksiyon olmadan birlikte kullanılma, kabiliyetini, ppp) Yetkili otorite: Türkiye'de Kurumu, Avrupa Birliği (AB) üyesi ülkelerde ise tıbbi cihazlar alanındaki yetkili kuruluşları,"
+ },
+ {
+  "i": 155,
+  "madde": "9",
+  "metin": "(2) Bu Yönetmelikte uyumlaştırılmış standartlara yapılan atıflar, Avrupa Farmakopesi monograflarını, referanslarının Avrupa Birliği Resmi Gazetesi'nde yayımlanmış olması şartıyla, Avrupa Farmakopesi monograflarını da içerir."
+ },
+ {
+  "i": 187,
+  "madde": "11",
+  "metin": "(10) İmalatçılar; Ek Pin 20 numaralı maddesinde belirtilen bilgilerin Türkçe ve uygulanabildiği durumlarda cihazın kullanıcıya ya da hastaya sunulduğu AB üyesi ülkenin belirlediği AB resmi dil(ler)inde olacak şekilde cihazın beraberinde bulunmasını sağlar. Etiket üzerindeki detaylar, silinemez, kolayca okunabilir ve hedeflenen kullanıcı veya hasta için açık bir şekilde anlaşılabilir olur. Ek Vin 20 vumaralı maddesi uyarınca, kişisel test veya hastabaşı test cihazları ile birlikte verilen bilgiler; kolayca anlaşılabilir olur, Türkçe ve/veya uygulanabildiği durumlarda cihazın kullanıcıya ya da hastaya sunulduğu AB üyesi ülkenin belirlediği AB resmi dil(ler)inde sağlanır."
+ },
+ {
+  "i": 269,
+  "madde": "17",
+  "metin": "<) Uygulanabilir gerekliliklere uygunluğu etkileyebilecek şekilde, hâlihazırda piyasaya az edilmiş veya hizmete sunulmuş olan bir cihazı modifiye ederse, imalatçılara düşen yükümlülükleri üstlenir. 3 üncü maddenin (u) bendinde tanımlandığı şekilde bir imalatçı olarak kabul edilmemekle birlikte hâlihazırda piyasadaki bir cihazı, kullanım amacını değiştirmeden rmünferit bir hasta için birleştiren veya uyarlayan herhangi bir kişi için bu fikra uygulanmaz."
+ },
+ {
+  "i": 278,
+  "madde": "18",
+  "metin": "MADDE 18 - (1) AB uygunluk beyanı, kapsamındaki cihazla ilgili olarak bu Yönetmelikte belirtilen gerekliliklerin yerine getirildiğini belirtir. İmalatçı, AB uygunluk beyanını güncel tutar. AB uygunluk beyanı, asgari olarak Ek IV'te belirtilen bilgileri içerir ve yurt içinde piyasaya arz edilen cihazlar için söz konusu beyanın başka dillerde düzenlenmesi halinde beyanın Türkçe tercümesi eklenir Aynı zamanda AB piyasasına arz edilen cihazlar için AB uygunluk beyanı cihazın piyasada bulundurulduğu AB üyesi ülkenir/ülkelerin talep ettiği dilde sunulur."
+ },
+ {
+  "i": 279,
+  "madde": "18",
+  "metin": "(2) Bu Yönetmeliğin kapsamadığı konulara ilişkin olarak, cihazların AB uygunluk beyanı gerektiren diğer bir mevzuata da tabi olduğu durumda, cihaza uygulanabilir bütün mevzuata uygunluğa ilişkin tek bir AB uygunluk beyanı hazırlanır. Beyan, ilgili olduğu tüm mevzuatı tanımlayacak şekilde gerekli tüm bilgileri içerir."
+ },
+ {
+  "i": 280,
+  "madde": "18",
+  "metin": "(3) İmalatçı, AB uygunluk beyanını hazırlayarak bu Yönetmelik gerekliliklerine ve cihaza uygulanabilir diğer tüm mevzuat gerekliliklerine uygunluğa ilişkin sorumluluğu üstlenir."
+ },
+ {
+  "i": 284,
+  "madde": "19",
+  "metin": "(3) CE işareti, cihaza veya sterilliğini koruyan ambalajına, görünür, okunaklı ve silinemez bir durumda, CE işareti ambalaja iliştirilir. CE işareti, ayrıca her bir kullanım talimatında ve her bir satış ambalajı üzerinde yer alır."
+ },
+ {
+  "i": 295,
+  "madde": "21",
+  "metin": "Serbest dolaşım"
+ },
+ {
+  "i": 296,
+  "madde": "21",
+  "metin": "MADDE 2? - (1) Bu Yönetmelikte aksi belirtilmediği sürece, bu Yönetmeliğin gerekliliklerini karşılayan cihazların piyasada bulundurulması veya hizmete sunulması reddedilmez, yasaklanmaz veya kısıtlanmaz."
+ },
+ {
+  "i": 306,
+  "madde": "24",
+  "metin": "MADDE 24 - (1) Bu Yönetmelik ile EUDAMED'i kullanması gerekli kılınan imalatçılar ve diğer gerçek veya tüzel kişiler Komisyon tarafından bedelsiz sağlanan terminolojiyi kullanır."
+ },
+ {
+  "i": 331,
+  "madde": "27",
+  "metin": "(2) 50 nci maddenin üçüncü ve dördüncü fıkralarında, yedinci fıkrasının (b) bendinde, sekizinci fıkrasında ve dokuzuncu fıkrasının ikinci cümlesinde atıfta bulunulan bir uygunluk değerlendirmesine tabi olan cihazlar için birinci fıkrada atıfta bulunulan Temel UDI-DI tahsisi, imalatçının bir onaylanmış kuruluşa bu değerlendirme için başvurusundan önce gerçekleştirilir. Söz konusu cihazlar için onaylanmış kuruluş, Ek XII'nin 1. Bölümünün 4 numaralı maddesinin (a) bendi uyarınca düzenlenen sertifika üzerinde Temel UDI-DV'ya atıf yapar ve Ek VI Kısım A'nın 2.2 numaralı maddesinde atıfta bulunulan bilgilerin doğruluğunu tıbbi cihazlara ilişkin Avrupa veri tabanında (EUDAMED) teyit eder. İmalatçı, ilgili sertifikanın düzenlenmesinden sonra ve cihazın piyasaya arzından önce, Temel UDI- DP'yı o cihazla ilgili Ek VI Kısım B'de atıfta bulunulan diğer temel veri öğeleriyle birlikte UDI veri tabana girer."
+ },
+ {
+  "i": 458,
+  "madde": "42",
+  "metin": "(10) Bir onaylanmış kuruluşun bildiriminden 3 yıl sonra ve bundan sonraki her 4 yılda bir, onaylanmış kuruluşun Ek VI'de belirtilen gereklilikleri karşılamaya devam edip etmediğini belirlemeye yönelik tam bir yeniden değerlendirme yürütülür. Bu değerlendirme, Kurum ile 36 ncı ve 37 nci maddelerde tanımlanan prosedürün amacı doğrultusunda atanan bir ortak değerlendirme ekibi tarafından gerçekleştirilir."
+ },
+ {
+  "i": 483,
+  "madde": "44",
+  "metin": "b) Bir başka onaylanmış kuruluşun, bu cihazlarla ilgili acil sorumlulukları üstleneceğini ve atamanın geri çekilmesinden itibaren 12 ay içerisinde bu cihazların değerlendirilmesinin tamamlanacağını yazılı olarak teyit etmesi, şartıyla 9 aylık bir süre boyunca geçerli kalır. Bu şartlarda, sertifikanın kapsadığı cihazın imalatçısının kayıtlı iş yerinin bulunduğu ülkeye göre Kurum veya AB üyesi ülkenin in vitro tanı cihazlarıyla ilgili yetkili otoritesi, toplamı 12 ayı geçmeyen 3 aylık ilave sürelerle sertifikaların geçici olarak geçerliliklerini uzatabilir. Kurum veya atama değişikliğinden etkilenen onaylanmış kuruluşun görevlerini üstlenecek olan onaylanmış kuruluş; Komisyon ile AB üyesi ülkeleri ve bununla ilgili diğer onaylanmış kuruluşları ivedilikle bilgilendirir."
+ },
+ {
+  "i": 505,
+  "madde": "50",
+  "metin": "(2) İmalatçılar, 6 ncı maddenin beşinci fikrası uyarınca sağlık kuruluşları bünyesinde imal edilen cihazlar hariç olmak üzere piyasaya arz edilmeyen bir cihazı hizmete sunmadan önce, Ek IX ila Ek"
+ },
+ {
+  "i": 506,
+  "madde": "50",
+  "metin": "XP'de belirtilen ilgili uygunluk değerlendirme prosedürleri uyarınca söz konusu cihazın uygunluğunun değerlendirmesini gerçekleştirir."
+ },
+ {
+  "i": 507,
+  "madde": "50",
+  "metin": "(3) Performans çalışmasına yönelik cihazlar hariç olmak üzere sınıf D cihaz imalatçıları, Ek DW'un 1. Bölümde, 5 numaralı maddesi hariç 11. Bölümünde ve Il. Bölümünde belirtildiği şekilde bir uygunluk değerlendirmesine tabi olur. Kişisel test ve hastabaşı test cihazları söz konusu olduğu durumda imalatçılar, bu prosedürlere ilaveten Ek IX'un 5.1 numaralı maddesinde belirtilen teknik dokümantasyon değerlendirme prosedürünü takip eder. Destek tanı cihazları söz konusu olduğu durumda ise onaylanmış kuruluş, ilaveten Ek YX'un 5.2 numaralı maddesinde belirtilen prosedür uyarınca Kuruma ve/veya Beşeri Tıbbi Ürünler alanında AB üyesi ülkeler tarafindan atanan yetkili otoritelerin birine ya da EMA 'ya danışır."
+ },
+ {
+  "i": 510,
+  "madde": "50",
+  "metin": "(6) Üçüncü ve dördüncü fikralar uyarınca uygulanabilir prosedüre ilaveten, sınıf D cihazlar için ortak spesifikasyonların mevcut olmaması ve aynı zamanda bu cihaz tipi için ilk sertifikalandırma olması durumunda onaylanmış kuruluş; imalatçının performans değerlendirme raporu hakkında, Komisyonca teşkil edilen uzman heyetlerde yer alan ilgili uzmanlara danışır. Bu amaçla onaylanmış kuruluş, imalatçının performans değerlendirme raporunu almasını müteakip 5 gün içerisinde uzman heyetine sunar, Ek IXun 4.9 numaralı maddesinde veya Ek X'un 3 numaralı maddesinin (h) bendinde belirtildiği şekilde verilen görüşleri onaylanmış kuruluş dikkate alır."
+ },
+ {
+  "i": 526,
+  "madde": "51",
+  "metin": "Sınıf D cihazların uygunluk değerlendirmesini detaylı inceleme mekanizması"
+ },
+ {
+  "i": 527,
+  "madde": "51",
+  "metin": "MADDE 5? — (1) Onaylanmış kuruluş; mevcut sertifikalara ekleme yapmaya veya onları yenilemeye yönelik başvurular hariç olmak üzere Sınıf D cihazlara verdiği sertifikaları yetkili otoritelere bildirir. Bu tür bildirimler, 54 üncü maddede atıfta bulunulan elektronik sistem vasıtasıyla gerçekleşir ve Ek Vin 20.4 numaralı maddesinde atıfta bulunulan kullanım talimatını, 30 uncu maddede atıfta bulunulan güvenlilik ve performans özetini, onaylanmış kuruluşun değerlendirme raporunu ve gerektiği hallerde 50 nci maddenin üçüncü fikrasının ikinci cümlesi uyarınca AB referans laboratuvarının laboratuvar testlerini ve bilimsel görüşünü ve uygulanabildiği hallerde, Komisyonca teşkil edilen uzman heyetlerde yer alan uzmanların 50 nci maddenin dördüncü fıkrası uyarınca verdiği görüşleri içerir."
+ },
+ {
+  "i": 528,
+  "madde": "51",
+  "metin": "Onaylanmış kuruluş ile uzmanlar arasında farklı görüşlerin olması durumunda, tam bir gerekçelendirme de bildirime dâhil edilir."
+ },
+ {
+  "i": 529,
+  "madde": "51",
+  "metin": "(2) Kurum ve gerektiği hallerde Komisyon; makul endişelere dayanarak 42 ila 45 inci veya 8$ inci maddeler uyarınca ilave prosedürler uygulayabilir ve gerekli görüldüğünde 89 uncu ve 91 inci maddeler uyarınca gerekli tedbirleri alabilir."
+ },
+ {
+  "i": 533,
+  "madde": "53",
+  "metin": "(3) Onaylanmış kuruluşlar, belirli hasta veya kullanıcı grupları için bir cihazın kullanım amacına kısıtlamalar getirebilir veya imalatçılardan Ek XII'ün Kısım B uyarınca spesifik piyasaya arz sonrası performans takip çalışmaları yürütmesini talep edebilir."
+ },
+ {
+  "i": 537,
+  "madde": "54",
+  "metin": "MADDE 54 — (1) Komisyon tarafından kurulan onaylanmış kuruluşlara ve uygunluk sertifikalarına ilişki kurulan elektronik sistem aşağıdaki bilgileri içerir:"
+ },
+ {
+  "i": 538,
+  "madde": "54",
+  "metin": "a) 35 inci maddenin üçüncü fıkrasında atıfta bulunulan şube/temsilciliklerin listesi,"
+ },
+ {
+  "i": 539,
+  "madde": "54",
+  "metin": "b) Komisyon tarafından ortak değerlendirme için tayin edilen uzmanların listesi,"
+ },
+ {
+  "i": 540,
+  "madde": "54",
+  "metin": "©) 40 ıncı maddenin dokuzuncu fikrasında atıfta bulunuler bildirimle ilgili ve 44 üncü maddenin ikinci fikrasında atıfta bulunulan değiştirilen bildirimlerle ilgili bilgiler,"
+ },
+ {
+  "i": 541,
+  "madde": "54",
+  "metin": "4) 41 inci maddede belirtilen onaylanmış kuruluşlara ait liste,"
+ },
+ {
+  "i": 542,
+  "madde": "54",
+  "metin": "d) 42 nci maddenin on birinci fikrasında atıfta bulunulan raporun özeti,"
+ },
+ {
+  "i": 543,
+  "madde": "54",
+  "metin": "€) 52 nci maddenin birinci fıkrasında atıfta bulunulan uygunluk değerlendirmelerine ve sertifikalara yönelik bildirimler,"
+ },
+ {
+  "i": 544,
+  "madde": "54",
+  "metin": "f) 51 inci maddenin ikinci fıkrasında ve Ek Vil'nin 4.3 numaralı maddesinde atıfta bulunulduğu üzere sertifikalara yönelik başvuruların geri çekilmesi veya reddedilmesi ile ilgili bilgiler,"
+ },
+ {
+  "i": 545,
+  "madde": "54",
+  "metin": "B) 53 üncü maddenin beşinci fıkrasında atıfta bulunulan sertifikalarla ilgili bilgiler,"
+ },
+ {
+  "i": 546,
+  "madde": "54",
+  "metin": "E) 30 uncu maddede atıfta bulunulan güvenlilik ve performans özeti."
+ },
+ {
+  "i": 578,
+  "madde": "60",
+  "metin": "MADDE 60 —(1) Bu Yönetmelik uyarınca;"
+ },
+ {
+  "i": 579,
+  "madde": "60",
+  "metin": "a) Cerrahi invaziv prosedürler yoluyla numune alımının yalnızca performans çalışması amacıyla yapıldığı,"
+ },
+ {
+  "i": 580,
+  "madde": "60",
+  "metin": "b) 3 üncü maddenin (ll) bendinde tanımlandığı şekilde bir müdahaleli klinik performans çalışması olan veya"
+ },
+ {
+  "i": 581,
+  "madde": "60",
+  "metin": "<) Çalışmanın yürütülmesinde ilave invaziv prosedürler veya gönüllüler için başka risklerin bulunduğu, performans çalışmaları; 59 uncu maddede ve Ek XIW”te belirtilen gereklilikleri karşılamalarının yanı sıra, bu madde ile birlikte 61 ila 77 nci maddeler, Komisyonca kabul edilen tasarruflar ve Ek XIV uyarınca tasarlanır, yetkilendirilir, yürütülür, kaydedilir ve raporlanır."
+ },
+ {
+  "i": 582,
+  "madde": "60",
+  "metin": "(2) Destek tanı cihazları içeren performans çalışmaları, birinci fıkrada belirtilen çalışmalar ile aynı gerekliliklere tabi olur. Sadece artık numune kullanılan çalışmalarda, birinci fıkra hükümleri uygulanmaz; ancak Kuruma bildirim yapılır."
+ },
+ {
+  "i": 583,
+  "madde": "60",
+  "metin": "(3) Performans çalışmaları, bilimsel ve etik incelemeye tabi olur. Etik inceleme, Kurum onayı ile kurularak Kurum web sayfasında yayımlanan listede yer alan bir etik kurul tarafindan gerçekleştirilir. Kurum, performans çalışması izin başvurusu incelemesine yönelik etik kurul prosedürlerinin, bu Yönetmeliğe uygun olmasını sağlar."
+ },
+ {
+  "i": 584,
+  "madde": "60",
+  "metin": "(4) Bir performans çalışmasının sponsorunun yurt içinde yerleşik olmaması durumunda sponsor, yurt içinde yerleşik gerçek veya tüzel bir kişinin, kendisinin yasal temsilcisi olmasını sağlar. Bu yasal temsilci, bu Yönetmelik uyarınca sponsorun yükümlülüklerine uygunluğun sağlanmasından sorumlu olur ve bu Yönetmelikte sponsorla yapılması öngörülen bütün iletişimlerin muhatabı olur. Bu yasal temsilci ile yapılan her türlü iletişim, sponsorla yapılan iletişim olarak kabul edilir."
+ },
+ {
+  "i": 585,
+  "madde": "60",
+  "metin": "(5) Birinci fıkrada atıfta bulunulduğu şekliyle bir performans çalışması, yalnızca aşağıdaki koşulların tamamı karşılandığında yürütülebilir:"
+ },
+ {
+  "i": 586,
+  "madde": "60",
+  "metin": "a) Kurum tarafından bu Yönetmelik uyarınca performans çalışmasına izin verilmiş olması."
+ },
+ {
+  "i": 587,
+  "madde": "60",
+  "metin": "b) Etik kurulun, performans çalışmasına ilişkin olarak ilgili mevzuat kapsamında olumsuz bir görüş vermemesi."
+ },
+ {
+  "i": 588,
+  "madde": "60",
+  "metin": "©) Dördüncü fikra uyarınca sponsorun veya yasal temsilcisinin yurt içinde yerleşik olması."
+ },
+ {
+  "i": 589,
+  "madde": "60",
+  "metin": "ç) 61 ila 66 ncı maddeler uyarınca etkilenebilir öznelerin ve gönüllülerin uygun bir şekilde korunması."
+ },
+ {
+  "i": 590,
+  "madde": "60",
+  "metin": "d) Gönüllüler veya kamu sağlığı için beklenen faydaların, öngörülebilir riskleri ve dezavantajları makul kılması ve bu koşula uygunluğun sürekli olarak izlenmesi."
+ },
+ {
+  "i": 591,
+  "madde": "60",
+  "metin": "e) Gönüllünün veya bilgilendirilmiş gönüllü olurunu gönüllünün veremediği durumda yasal vasisinin, 61 inci madde uyarınca bilgilendirilmiş gönüllü olurunu vermesi."
+ },
+ {
+  "i": 592,
+  "madde": "60",
+  "metin": "İ) Gönüllüye veya bilgilendirilmiş gönüllü olurunu gönüllünün veremediği durumda yasal vasisine, ihtiyaç halinde ilave bilgiler verebilecek bir kişinin iletişim bilgilerinin sağlanması."
+ },
+ {
+  "i": 593,
+  "madde": "60",
+  "metin": "g) Gönüllülerin fiziksel ve zihinsel bütünlük, gizlilik ve 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca gönüllüyle ilgili verilerin korunmasına dair haklarının güvenceye alınması."
+ },
+ {
+  "i": 594,
+  "madde": "60",
+  "metin": "&) Performans çalışmasının, gönüllüler için acı, rahatsızlık, korku ve diğer öngörülebilir riskleri mümkün olduğu kadar az içerecek şekilde tasarlanmış olması ve hem risk eşiğinin hem de distres seviyesinin performans çalışması planında özellikle tanımlanması ve sürekli olarak izlenmesi,"
+ },
+ {
+  "i": 595,
+  "madde": "60",
+  "metin": "h) Gönüllülere sunular tıbbi bakımın, performans çalışması koşulları altında ilgili hasta bakımını sağlamak için 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun uyarınca yetkilendirilmiş; uygun nitelikli bir tıp doktorunun ya da diğer bir kişinin sorumluluğunda olması."
+ },
+ {
+  "i": 596,
+  "madde": "60",
+  "metin": "1) Performans çalışmasına iştirak etmesi için, gönüllü veya gerektiği hallerde gönüllünün yasal vasisi üzerinde, mali nitelikte olanlar da dâhil olmak üzere nüfuzun kötüye kullanılmaması,"
+ },
+ {
+  "i": 597,
+  "madde": "60",
+  "metin": "i) Uygun olduğu hallerde, en son bilimsel bilgiyi yansıtan biyolojik güvenlik testlerinin veya cihazın kullanım amacı doğrultusunda gerekli görülen diğer testlerin yürütülmüş olması."
+ },
+ {
+  "i": 598,
+  "madde": "60",
+  "metin": ")) Klinik performans çalışmaları söz konusu olduğunda, en son teknolojik gelişmeler göz önünde bulundurularak, analitik performansın gösterilmiş olması."
+ },
+ {
+  "i": 599,
+  "madde": "60",
+  "metin": "k) Müdahaleli klinik performans çalışmaları söz konusu olduğunda, en son teknolojik gelişmeler göz önünde bulundurularak, analitik performansın ve bilimsel geçerliliğin gösterilmiş olması. Destek tanı cihazları için, bilimsel geçerliliği sağlanamaması durumunda, biyobelirteç kullanımına yönelik bilimsel gerekçe sunulması."
+ },
+ {
+  "i": 600,
+  "madde": "60",
+  "metin": "Dİş güvenliği ve kaza önleme alanındaki hükümler ve en son teknolojik gelişmeler göz önünde bulundurularak, cihazın kullanımıyla ilgili teknik güvenliğin kanıtlanmış olması."
+ },
+ {
+  "i": 601,
+  "madde": "60",
+  "metin": "m) Ek XIV'ün gerekliliklerinin yerine getirilmesi."
+ },
+ {
+  "i": 602,
+  "madde": "60",
+  "metin": "(6) Gönüllü veya gönüllünün bilgilendirilmiş gönüllü olurunu veremediği durumlarda yasal vasisi, herhangi bir zarar ortaya çıkmadan ve bir gerekçe sunmadan, bilgilendirilmiş gönüllü olurunu iptal ederek herhangi bir zamanda performans çalışmasından geri çekilebilir. Kişisel Verilerin Korunması Kanunu ve kişisel verilerin korunması ile ilgili diğer mevzuata halel gelmeksizin, bilgilendirilmiş gönüllü olurunun geri çekilmesi, hâlihazırda yürütülen faaliyetleri ve geri çekilmesinden önce bilgilendirilmiş gönüllü oluruna dayalı olarak elde edilen verilerin kullanımını etkilemez."
+ },
+ {
+  "i": 603,
+  "madde": "60",
+  "metin": "(7) Araştırmacı; hasta bakımında ya da laboratuvar tıbbında gerekli bilimsel bilgi ve deneyime sahip olması sebebiyle araştırmacı rolü için nitelikli olduğu Kurum tarafından kabul edilen bir mesleği icra eden kişidir. Bir performans çalışmasının yürütülmesine dâhil olan diğer personel, görevlerini gerçekleştirmek için ilgili tibbi alanda ve klinik araştırma metodolojisinde öğrenim, eğitim veya tecrübe yoluyla uygun bir şekilde kalifiye olur."
+ },
+ {
+  "i": 604,
+  "madde": "60",
+  "metin": "(8) Gönüllülerin dâhil olduğu performans çalışması ilgili mevzuata halel gelmeksizin, uygun olduğu hallerde, cihazın kullanılmasının amaçlandığı tesislere benzer ve klinik araştırma için uygun olan tesislerde yürütülür."
+ },
+ {
+  "i": 628,
+  "madde": "62",
+  "metin": "d) Kısıtlılar bakımından performans çalışmasınının zorunlu olması ve bilgilendirilmiş gönüllü oluru verebilecek kişilere yönelik performans çalışmalarından veya diğer araştırma yöntemlerinden karşılaştırlabilir geçerliliğe ilişkin verilerin elde edilememesi."
+ },
+ {
+  "i": 676,
+  "madde": "68",
+  "metin": "MADDE 68 — (1) 60 ıncı maddenin birinci ve ikinci fikrasında belirtilen bir performans çalışmasının sponsoru, Ek XIll'ün 2 ve 3 numaralı maddelerinde ve Ek XIWte atıfta bulunulan dokümantasyonla birlikte bir başvuru yapar. Başvuru, performans çalışması ile ilgili her türlü iletişimde kullanılmak üzere Türkiye ve AB genelinde benzersiz tek bir kimlik numarası oluşturan ve 71 inci maddede atıfta bulunulan elektronik sistem aracılığıyla yapılır. Kurum, başvuruyu aldıktan sonra 10 gün içerisinde, performans çalışmasının bu Yönetmeliğin kapsamına girip girmediğini ve başvuru dosyasının Ek XIWün 1. Bölümü uyarınca tam olup olmadığını sponsora bildirir."
+ },
+ {
+  "i": 677,
+  "madde": "68",
+  "metin": "(2) Sponsor, Ek XIV'ün 1. Bölümünde atıfta bulunulan dokümantasyona ilişkin meydana gelen herhangi bir değişiklikten itibaren 1 hafta içerisinde, 71 inci maddede atıfta bulunulan elektronik sistemdeki ilgili verileri günceller ve dokümantasyondaki bu değişikliğin açıkça fark edilebilir olmasını sağlar. Kurum, bu elektronik sistem vasıtasıyla güncelleme hakkında bilgilendirilir."
+ },
+ {
+  "i": 678,
+  "madde": "68",
+  "metin": "(3) Bu Yönetmelik uyarınca:"
+ },
+ {
+  "i": 679,
+  "madde": "68",
+  "metin": "a) Kurum, başvuru yapılan performans çalışmasının bu Yönetmelik kapsamına girmediğini veya başvurunun tam olmadığını tespit ettiğinde, bunu sponsora bildirir ve sponsorun 71 inci maddede atıfta bulunulan elektronik sistem vasıtasıyla açıklama yapması ya da başvuruyu tamamlaması için en fazla 10 günlük süre verir. Kurum, uygun olduğu hallerde, bu süreyi en fazla 20 günlük ek süreyle uzatabilir."
+ },
+ {
+  "i": 680,
+  "madde": "68",
+  "metin": "b) Sponsorun (a) bendinde atıfta bulunuları süre sınırı içerisinde açıklama yapmaması veya başvuruyu tamamlamaması durumunda, başvuru geçersiz sayılır. Sponsor, başvurunun bu Yönetmelik kapsamına girdiğini ve/veya tamamlandığını düşünse dahi Kurum bu görüşte değilse başvuru reddedilmiş sayılır. Sponsor, Kurumca oluşturulan itiraz prosedürü kapsamında bu karara itirazda bulunabilir."
+ },
+ {
+  "i": 681,
+  "madde": "68",
+  "metin": "c) Kurum, açıklamaların veya talep edilen ilave bilgilerin alınmasından itibaren 5 gün içerisinde, performans çalışmasının bu Yönetmelik kapsamına girip girmediğini ve başvurunun tamamlanıp tamamlanmadığını sponsora bildirir."
+ },
+ {
+  "i": 682,
+  "madde": "68",
+  "metin": "(4) Kurum ayrıca, birinci ve üçüncü fikralarda atıfta bulunulan sürelerin her birini beşer gün daha uzatabilir."
+ },
+ {
+  "i": 683,
+  "madde": "68",
+  "metin": "(5) Bu Kısmın amaçları doğrultusunda, sponsorun birinci veya üçüncü fıkralar uyarınca bilgilendirildiği tarih, başvurunun geçerlilik tarihi olur. Sponsorun bilgilendirilmediği durumda, geçerlilik tarihi sırasıyla birinci, üçüncü ve dördüncü fikralarda atıfta bulunulan sürelerin son günü olur."
+ },
+ {
+  "i": 684,
+  "madde": "68",
+  "metin": "(6) Kurum, başvurunun değerlendirildiği süre boyunca, sponsordan ilave bilgiler talep edebilir. Yedinci fıkranın (b) bendinde belirtilen sürenin bitişi, ilk talep tarihinden itibaren ilave bilgilerin alınmış olduğu zamana kadar dondurulur."
+ },
+ {
+  "i": 685,
+  "madde": "68",
+  "metin": "(7) Sponsor;"
+ },
+ {
+  "i": 686,
+  "madde": "68",
+  "metin": "4) 60 ıncı maddenin birinci fıkrasının (a) bendi uyarınca yürütülen performans çalışmaları söz konusu olduğunda ve numune toplamanın gönüllüye majör bir klinik risk teşkil etmediği durumda, beşinci fıkra uyarınca başvurunun geçerlilik tarihinden sonra ivedilikle ve etik kurulun çalışmaya ilişkin olarak ilgili mevzuat kapsamında olumsuz bir görüş vermemesi şartıyla,"
+ },
+ {
+  "i": 687,
+  "madde": "68",
+  "metin": "b) 60 ıncı maddenin birinci fıkrasının (b) ve (c) bentleri ile ikinci fıkrası uyarınca yürütülen performans çalışmaları veya bu fıkranın (a) bendinde atıfta bulunulanlar haricindeki performans çalışmaları söz konusu olduğunda, Kurum çalışma iznini sponsora bildirir bildirmez ve etik kurulun çalışmaya ilişkin olarak ilgili mevzuat kapsamında olumsuz bir görüş vermemesi şartıyla, performans çalışmasına başlayabilir. Kurum beşinci fıkrada atıfta bulunulan geçerlilik tarihinden itibaren 45 gün içerisinde izni sponsora bildirir. Kurum, uzmanlara danışmak amacıyla, bu süreyi 20 gün daha uzatabilir."
+ },
+ {
+  "i": 707,
+  "madde": "70",
+  "metin": "(3) Performans çalışmasına ilişkin tüm bilgiler; kişisel verilerin korunmasına ilişkin mevzuat uyarınca kayıtların gizliliğin ve gönüllülerin kişisel verilerinin korunmasına halel gelmeksizin uygulanabilir olduğunda söz konusu bilgilerin doğru olarak raporlanabileceği, yorumlanabileceği ve doğrulanabileceği bir şekilde sponsor veya araştırmacı tarafından kaydedilir, işlenir, kullanılır ve saklanır."
+ },
+ {
+  "i": 747,
+  "madde": "75",
+  "metin": "2.3.2 numaralı maddesinde atıfta bulunulan performans çalışması planı, gerekçeyle birlikte çalışma sonuçlarının ne zaman mevcut olacağını belirtir."
+ },
+ {
+  "i": 769,
+  "madde": "76",
+  "metin": "a) Yedinci fıkranın (b) bendinde atıfta bulunulan gerekçelerden herhangi birine göre koordinatör ülkenin kararına katılmazsa,"
+ },
+ {
+  "i": 772,
+  "madde": "76",
+  "metin": "(10) İlgili her ülke, 71 inci maddede atıfta bulunulan elektronik sistem vasıtasıyla performans çalışması için izin verilip verilmediğini, koşullu olarak izin verilip verilmediğini ya da iznin reddedilmiş olup olmadığını sponsora bildirir. Bildirim, nihai değerlendirme raporunun koordinatör ülke tarafından dördüncü fıkranın (ç) bendi uyarınca iletiminden itibaren 5 gün içerisinde tek bir karar yoluyla yapılır. Bir performans çalışmasına koşullu olarak izin verilmesi, ancak bu koşullar izin verme sırasında yerine yerine getirilemeyecekse mümkün olur."
+ },
+ {
+  "i": 773,
+  "madde": "76",
+  "metin": "(11) 73 üncü maddede atıfta bulunulduğu üzere önemli değişiklikler, 71 inci maddede atıfta bulunulan elektronik sistem vasıtasıyla ilgili ülkelere bildirilir. İlgili her ülke tarafından ayrı ayrı değerlendirilen Ek XIV?ün 1. Bölümünün 1,13, 4.2, 4.3 ve 4.4 numaralı maddelerine ve Ek XII Kısım A'nın 2.3.2 numaralı maddesinin (c) bendine ilişkin önemli değişiklikler hariç olmak üzere, yedinci fıkranın (b) bendinde atıfta bulunulan ihtilaflara yönelik dayanakların varlığına ilişkin her bir değerlendirme, koordinatör ülkenin yönlendirmesi altında yürütülür,"
+ },
+ {
+  "i": 791,
+  "madde": "77",
+  "metin": "c) Kurum, kamu sağlığının ve hasta güvenliğinin korunmasını sağlamak amacıyla, bu Yönetmelik uyarınca kendi değerlendirmelerini yapar ve gerektiğinde ilave tedbirler alır. Koordinatör ülke ve Komisyon, bu tür değerlendirmelerin sonucu ve bu tür tedbirlerin alınması hakkında daima bilgilendirilir."
+ },
+ {
+  "i": 799,
+  "madde": "78",
+  "metin": "b) Gerekli sonuçları çıkarmak, ©) Düzeltici ve önleyici faaliyetleri belirlemek, uygulamak ve izlemek için elverişli olur."
+ },
+ {
+  "i": 808,
+  "madde": "78",
+  "metin": "g) 83 üncü madde uyarınca trendleri tespit etmek ve raporlamak için kullanılır. Teknik dokümantasyon, bu doğrultuda güncellenir."
+ },
+ {
+  "i": 814,
+  "madde": "80",
+  "metin": "Periyodik güvenlilik güncelleme raporu"
+ },
+ {
+  "i": 815,
+  "madde": "80",
+  "metin": "MADDE $1 — (1) Bu Yönetmelik uyarınca:"
+ },
+ {
+  "i": 816,
+  "madde": "80",
+  "metin": "a) Sınıf C ve sınıf D cihazların imalatçıları; her bir cihaz ve ilgili olduğu yerde her bir cihaz kategorisi veya grubu için, yapılan her düzeltici ve önleyici faaliyetin gerekçesi ve açıklaması ile birlikte 79 uncu maddede atıfta bulunulan piyasaya arz sonrası gözetim planının bir sonucu olarak toplanan piyasaya arz sonrası gözetim verilerinin analiz sonuçları ve değerlendirmelerini özetleyen bir periyodik güvenlilik güncelleme raporu (PSUR) hazırlar. İlgili cihazın kullanım ömrü boyunca, periyodik güvenlilik güncelleme raporu aşağıdakileri belirtir:"
+ },
+ {
+  "i": 817,
+  "madde": "80",
+  "metin": "1) Fayda-risk tespitinin sonuçlarını."
+ },
+ {
+  "i": 818,
+  "madde": "80",
+  "metin": "2) Piyasaya arz sonrası performans takibinin ana bulgularını ve"
+ },
+ {
+  "i": 819,
+  "madde": "80",
+  "metin": "3) Cihazın satış hacmi, cihazı kullanan popülasyonun büyüklüğü ile diğer özelliklerinin tahmini bir değerlendirmesi ve uygulanabildiği hallerde cibazın kullanım sıklığını."
+ },
+ {
+  "i": 820,
+  "madde": "80",
+  "metin": "b) Sınıf C ve sınıf D cihazların imalatçıları, periyodik güvenlilik güncelleme raporunu asgari olarak yılda 1 kez günceller. Bu rapor, Ek Il ve Ek TIte belirtildiği şekilde teknik dokümantasyonun bir parçası olur."
+ },
+ {
+  "i": 821,
+  "madde": "80",
+  "metin": "(2) Sınıf D cihazlar için imalatçılar, 50 nci madde uyarınca uygunluk değerlendirmesine dâhil olan onaylanmış kuruluşa 86 ncı maddede atıfta bulunulan elektronik sistem vasıtasıyla periyodik güvenlilik güncelleme raporlarını sunar, Onaylanmış kuruluş, raporu inceler ve yapılan her faaliyetin ayrıntılarıyla birlikte kendi değerlendirmesini bu elektronik sisteme ekler. Bu tür periyodik güvenlilik güncelleme raporları ve onaylanmış kuruluş değerlendirmeleri, söz konusu elektronik sistem vasıtasıyla Kurum ve diğer yetkili otoriteler için erişilebilir olur."
+ },
+ {
+  "i": 822,
+  "madde": "80",
+  "metin": "(3) Sınıf C cihazlar için imalatçılar, periyodik güvenlilik güncelleme raporlarını uygunluk değerlendirmesine dâhil olan onaylanmış kuruluşa ve talebi halinde Kuruma ve diğer yetkili otoritelere sunar,"
+ },
+ {
+  "i": 839,
+  "madde": "82",
+  "metin": "(10) Birinci fikranın (a) bendinde atıfta bulunulan şüpheli ciddi olumsuz olaylar; sağlık profesyonelleri, kullanıcılar ve hastalar tarafından Kuruma raporlanır. Kurum, bu raporları merkezi olarak kaydeder."
+ },
+ {
+  "i": 853,
+  "madde": "84",
+  "metin": "(6) Kurum veya dokuzuncu fikrada atıfta bulunulan koordinatör yetkili otorite; destek tanı cihazları söz konusu olduğunda, Ek IX*un 5.2 numaralı maddesinde ve Ek X'un 3 numaralı maddesinin"
+ },
+ {
+  "i": 854,
+  "madde": "84",
+  "metin": "(0) bendinde belirtilen prosedürler uyarınca onaylanmış kuruluş tarafından hangisine danışıldığına bağlı olarak tıbbi ürünü ruhsatlandıran ilgili yetkili otoriteyi veya Avrupa İlaç Ajansı (EMA)'nu ciddi olumsuz olay veya saha güvenliği düzeltici faaliyeti hakkında bilgilendirir."
+ },
+ {
+  "i": 862,
+  "madde": "84",
+  "metin": "b) Bir imalatçı tarafından önerilen bir saha güvenliği düzeltici faaliyetinin uygunluğu hakkında birden fazla ülkede şüphe duyulması durumunda, üçüncü fıkrada atıfta bulunulan değerlendirmelerini AB üyesi ülkeler ile koordine edeceği bir prosedüre katılım sağlar."
+ },
+ {
+  "i": 870,
+  "madde": "86",
+  "metin": "b) İmalatçıların 82 nci maddenin dokuzuncu fikrasında atıfta bulunulan periyodik özet raporları,"
+ },
+ {
+  "i": 880,
+  "madde": "86",
+  "metin": "(7) 82 nci maddenin dokuzuncu fıkrasında atıfta bulunulan periyodik özet raporları, alındıktan sonra birinci fıkrada atıfta bulunulan elektronik sistem vasıtasıyla Kuruma ve/veya 84 üncü maddenin dokuzuncu ve onuncu fikraları uyarınca koordinasyon prosedürüne katılan ve periyodik özet raporu üzerinde anlaşan diğer yetkili otoritelere otomatik olarak iletilir."
+ },
+ {
+  "i": 902,
+  "madde": "89",
+  "metin": "b) Riskin yapısıyla orantılı bir şekilde, cihazın piyasada bulundurulmasını kısıtlamaya, cihazın piyasada bulundurulmasını belirli gerekliliklere tabi kılmaya, cihazı piyasadan çekmeye veya geri çağırmaya, yönelik uygun ve usulünce gerekçelendirilmiş bütün düzeltici faaliyetleri yapmasını gecikmeksizin talep eder."
+ },
+ {
+  "i": 945,
+  "madde": "98",
+  "metin": "b) Ek un 4.12 numaralı maddesinde ve Ek XPin 5.1 numaralı maddesinde belirtildiği üzere, imal edilmiş sınıf D cihazların veya sınıf D cihaz partilerinin örnekleri üzerinde uygun testleri yapmak,"
+ },
+ {
+  "i": 973,
+  "madde": "100",
+  "metin": "b) Kamu yararı bakımından açıklanması gerekmedikçe, fikri mülkiyet hakları dâhil olmak üzere,"
+ },
+ {
+  "i": 974,
+  "madde": "100",
+  "metin": "©) Özellikle incelemeler, araştırmalar veya denetimlerle ilgili amaçlar doğrultusunda bu Yönetmeliğin etkili uygulanmasını sağlamak, için görevlerini yerine getirirken elde edilen bilgilerin ve verilerin gizliliğine riayet eder."
+ },
+ {
+  "i": 990,
+  "madde": "106",
+  "metin": "©) İn vitro tanı tıbbi cihazlarına ilişkin 5/4/2017 tarihli ve (AB) 2017/746 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü tadil tarihli 27/12/2019 Düzeltici Kararı, dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır."
+ },
+ {
+  "i": 995,
+  "madde": "gecici-1",
+  "metin": "GEÇİCİ MADDE 1 — (1) 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğinin;"
+ },
+ {
+  "i": 996,
+  "madde": "gecici-1",
+  "metin": "a) 14 üncü maddesi, 18 inci maddenin birinci fikrasının (c) bendi ve ilgili eklerinde belirtilen vijilans ve performans çalışmalarıyla ilgili yükümlülükler, on üçüncü fıkrasında atıfta bulunulan tarihlerden hangisi geç ise o tarihe kadar uygulanmaya devam eder."
+ },
+ {
+  "i": 997,
+  "madde": "gecici-1",
+  "metin": "b) 11 inci maddesinin birinci fıkrasının (d) bendi, 13 üncü maddesi, 18 inci maddesinin birinci fıkrasının (a) ve (b) bentleri ve ilgili eklerinde belirtilen cihazların ve iktisadi işletmecilerin kaydına ve sertifika bildirimlerine ilişkin yükümlülükler, on üçüncü fıkrasında atıfta bulunulan tarihlerden hangisi geç İse o tarihten itibaren 18 ay uygulanmaya devam eder."
+ },
+ {
+  "i": 998,
+  "madde": "gecici-1",
+  "metin": "(2) 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanıları (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliği uyarınca atanan onaylanmış kuruluşlara ilişkin NANDO'da yayımlanan bildirimler, 26/5/2022 tarihinden itibaren geçersiz olur."
+ },
+ {
+  "i": 999,
+  "madde": "gecici-1",
+  "metin": "(3) Onaylanmış kuruluşlar tarafından 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliği uyarınca;"
+ },
+ {
+  "i": 1000,
+  "madde": "gecici-1",
+  "metin": "a) 25/5/2017 tarihinden önce düzenlenen sertifikalar; sertifika üzerinde belirtilen sürenin sonuna kadar geçerli kalır. Ancak söz konusu Yönetmeliğin Ek VI'sı kapsamında düzenlenen sertifikalar 27/5/2024 tarihinden itibaren geçersiz olur."
+ },
+ {
+  "i": 1001,
+  "madde": "gecici-1",
+  "metin": "b) 25/5/2017 tarihinden itibaren düzenlenen sertifikalar; 27/5/2024 tarihinden itibaren geçersiz olur."
+ },
+ {
+  "i": 1002,
+  "madde": "gecici-1",
+  "metin": "(4) Bu Yönetmelik uyarınca;"
+ },
+ {
+  "i": 1003,
+  "madde": "gecici-1",
+  "metin": "a) 6 ncı maddeye istisna olarak, 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliği uyarınca düzenlenen ve üçüncü fikra uyarınca geçerli olan bir sertifikaya sahip olan bir cihaz; yalnızca, bu Yönetmeliğin uygulanma tarihinden itibaren 107 nci madde ile yürürlükten kaldırılan Yönetmeliğe uygun olmaya devam etmesi ve bu cihazın tasarımında ve kullanım amacında önemli bir değişiklik olmaması şartıyla piyasaya arz edilebilir ya da hizmete sunulabilir."
+ },
+ {
+  "i": 1004,
+  "madde": "gecici-1",
+  "metin": "b) Bu Yönetmeliğin piyasaya arz sonrası gözetim, piyasa gözetimi ve denetimi, vijilans, iktisadi işletmecilerin ve cihazların kaydı ile ilgili gereklilikleri; 107 nci madde ile yürürlükten kaldırılan Yönetmelikteki ilgili gerekliliklerin yerine uygulanır."
+ },
+ {
+  "i": 1005,
+  "madde": "gecici-1",
+  "metin": "©) Dördüncü Kısma ve ikinci fikraya halel gelmeksizin, (a) bendinde atıfta bulunulan sertifikayı düzenleyen onaylanmış kuruluş; sertifikalandırdığı cihazlarla ilgili uygulanabilir gerekliliklerin tümüne yönelik gerekli gözetimden sorumlu olmaya devam eder."
+ },
+ {
+  "i": 1006,
+  "madde": "gecici-1",
+  "metin": "(9) 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliği uyarınca 26/5/2022 tarihinden önce yasal olarak piyasaya arz edilen cihazlar ile üçüncü fıkrada atıfta bulunulduğu şekilde bir sertifikaya uygun olarak 26/5/2022 tarihinden itibaren piyasaya arz edilen cihazlar; 27/5/2025 tarihine kadar piyasada bulundurulmaya veya hizmete sunulmaya devam edilebilir."
+ },
+ {
+  "i": 1007,
+  "madde": "gecici-1",
+  "metin": "(6) Dördüncü ve beşinci fıkralarda atıfta bulunulan cihazlar ile ilgili olarak; 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliği 27/5/2025 tarihine kadar uygulanmaya devam eder."
+ },
+ {
+  "i": 1008,
+  "madde": "gecici-1",
+  "metin": "(7) 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğine istisna olarak, bu Yönetmeliğe uygun olan cihazlar 26/5/2022 tarihinden önce piyasaya arz edilebilir."
+ },
+ {
+  "i": 1009,
+  "madde": "gecici-1",
+  "metin": "(8) 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğine istisna olarak, bu Yönetmeliğe uygun olan uygunluk değerlendirme kuruluşları, 26/5/2022 tarihinden önce atanabilir ve bildirilebilir. Bu Yönetmelik uyarınca atanan ve bildirilen onaylanmış kuruluşlar; bu Yönetmelikte belirtilen uygunluk değerlendirme prosedürlerini yürütebilir ve 26/5/2022 tarihinden önce bu Yönetmelik uyarınca sertifika düzenleyebilir."
+ },
+ {
+  "i": 1010,
+  "madde": "gecici-1",
+  "metin": "(9) 50 nci maddenin üçüncü ve dördüncü fıkralarında belirtilen prosedürlere tabi olan cihazlarla ilgili olarak yedinci fikra, MDCG'ye, uzman heyetlere ve AB referans laboratuvarlarına gerekli başvuruların yapılmış olması şartıyla uygulanır."
+ },
+ {
+  "i": 1011,
+  "madde": "gecici-1",
+  "metin": "(10) 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğinin 11 inci maddesinin birinci fıkrasının (d) bendine, 13 üncü maddesine ve 18 inci maddesinin birinci fikrasının (a) ve (b) bentlerine istisna olarak, on üçüncü fıkrasında atıfta bulunulan tarihlerden hangisi geç ise o tarihten başlayan ve 18 ay sonra biten bir süre boyunca, 27 nci maddenin üçüncü fıkrası, 29 uncu maddenin birinci fikrası ve 53 üncü maddenin beşinci fıkrasına uyarı imalatçılar, yetkili temsilciler, ithalatçılar ve onaylanmış kuruluşların; 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğinin 11 inci maddesinin birinci fıkrasının (d) bendi, 13 üncü maddesi ve 1$ inci maddesinin birinci fıkrasının (a) ve (b) bentleri uyarınca Kurum tarafından kabul edilen mevzuat ve uygulamalara uyduğu kabul edilir."
+ },
+ {
+  "i": 1012,
+  "madde": "gecici-1",
+  "metin": "(11) 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğinin 7 nci maddesinin birinci fıkrasının (i) bendi uyarınca Kurum tarafından verilen izinler; izinlerde belirtilen geçerliliği korur."
+ },
+ {
+  "i": 1013,
+  "madde": "gecici-1",
+  "metin": "(12) EUDAMED tamamen işlevsel olana kadar 107 nci madde ile yürürlükten kaldırılan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğinin ilgili hükümleri; özellikle vijilans raporlaması, performans çalışmaları, cihazların ve iktisadi işletmecilerin kaydı ve sertifika bildirimleri ile ilgili bilgiler dâhil olmak üzere bilgi alışverişi hakkında on üçüncü fikrada yer alan hükümlerde belirtilen yükümlülükleri karşılamak amacıyla uygulanmaya devam eder."
+ },
+ {
+  "i": 1014,
+  "madde": "gecici-1",
+  "metin": "(13) 27 nci maddesi, 29 uncu maddesi, 30 uncu maddesi, 42 nci maddesinin on birinci fikrası, 44 üncü maddesinin yedinci fıkrasının (ç) ve (d) bentleri, 51 inci maddesinin ikinci fikrası, 52 nci maddesinin birinci fıkrası, 68 ila 75 inci maddeleri, 77 nci maddesi, 81 inci maddesinin ikinci fikrası, 82 nci ve 83 üncü maddeleri, 84 üncü maddesinin beşinci ve yedinci fikraları ile 84 üncü maddesinin sekizinci fikrasının (c) bendi, 85 inci maddesi, $7 nci maddesinin dördüncü, yedinci ve sekizinci fıkraları, 89 uncu maddesinin ikinci ve dördüncü fikraları, 91 inci maddesinin ikinci fıkrasının ikinci cümlesi, 93 üncü maddesinin dördüncü fıkrası ve bu maddenin dördüncü fikrasının (b) bendi EUDAMED”in 26/5/2022 tarihinde tamamen işlevsel olmaması durumunda, EUDAMED ile ilişkili yükümlülükler ve gereklilikler, Komisyonun, Avrupa Birliği Resmi Gazetesi'nde EUDAMED'in tam işlevselliği ulaştığını ve işlevsel özelliklerini karşıladığını belirten bir bildiri yayımladığı tarihten 6 ay sonra uygulanır."
+ },
+ {
+  "i": 1015,
+  "madde": "gecici-1",
+  "metin": "(14) 33 ila 48 inci maddeler uyarınca onaylanmış kuruluşlara ilişkin yükümlülükler, 26/5/2022 tarihine kadar yalnızca 36 ncı madde uyarınca atanma başvurusu yapan onaylanmış kuruluşlara uygulanır."
+ },
+ {
+  "i": 1020,
+  "madde": "108",
+  "metin": "b) 27 nci maddesinin üçüncü fikrası ve 53 üncü maddesinin beşinci fıkrası, geçici birinci maddesinin on üçüncü fıkrasında atıfta bulunulan tarihlerden hangisi geç ise o tarihten 18 ay sonra,"
+ },
+ {
+  "i": 1022,
+  "madde": "108",
+  "metin": "©) 76 ncı maddesi 26/5/2029 tarihinde,"
+ },
+ {
+  "i": 1023,
+  "madde": "108",
+  "metin": "d) Diğer hükümleri 26/5/2022 tarihinde, yürürlüğe girer."
+ },
+ {
+  "i": 1026,
+  "madde": "109",
+  "metin": "Ekl GENEL GÜVENLİLİK VE PERFORMANS GEREKLİLİKLERİ"
+ },
+ {
+  "i": 1027,
+  "madde": "109",
+  "metin": "I. BÖLÜM"
+ },
+ {
+  "i": 1028,
+  "madde": "109",
+  "metin": "GENEL GEREKLİLİKLER"
+ },
+ {
+  "i": 1029,
+  "madde": "109",
+  "metin": "1. Cihazlar; imalatçıları tarafından amaçlanan performansı gerçekleştirir ve normal kullanım koşulları altında kullanım amaçlarına uygun olacak şekilde tasarlanır ve imal edilir. Genel olarak kabul görmüş en son teknolojik gelişmeler dikkate alınmak suretiyle; cihazlar güvenli ve etkili olur, cihazların kullanımıyla ilişkili olabilecek risklerin hastaya sağlanan yararlar ile kıyaslandığında kabul edilebilir olması ve sağlık ile güvenliğin yüksek seviyede korunmasına uygun olması sağlanarak, cihazlar hastaların ya da kullanıcıların veya uygun olduğu hallerde diğer kişilerin sağlık ve güvenliğini tehlikeye atmaz."
+ },
+ {
+  "i": 1030,
+  "madde": "109",
+  "metin": "2. Riskleri mümkün olduğunca azaltmaya yönelik olarak bu Ekte belirtilen gereklilik; faydarisk oranını olumsuz bir şekilde etkilemeksizin risklerin mümkün olduğu kadar azaltılması anlamına gelir."
+ },
+ {
+  "i": 1031,
+  "madde": "109",
+  "metin": "3. İmalatçılar, bir risk yönetim sistemi kurar, uygular, dokümante eder ve sürdürür, Risk yönetimi, düzenli sistematik güncelleme gerektiren, cihazın tüm yaşam döngüsü boyunca sürekli tekrarlanan bir süreç olarak anlaşılır. İmalatçılar, risk yönetimini yürütürken:"
+ },
+ {
+  "i": 1032,
+  "madde": "109",
+  "metin": "a) Her cihaz için bir risk yönetim planı oluşturur ve dokümante eder,"
+ },
+ {
+  "i": 1033,
+  "madde": "109",
+  "metin": "b) Her cihazla ilişkili bilinen ve öngörülebilir tehlikeleri tanımlar ve analiz eder,"
+ },
+ {
+  "i": 1034,
+  "madde": "109",
+  "metin": "c) Amaçlanan kullanım esnasında ve makul bir şekilde öngörülebilir hatalı kullanım sırasında ortaya çıkan ve amaçlanan kullanımla ilişkili olan riskleri tahmin eder ve değerlendirir,"
+ },
+ {
+  "i": 1035,
+  "madde": "109",
+  "metin": "ç) Bu Ekin 4 numaralı maddesinde belirtilen gereklilikler uyarınca (c) bendinde atıfta bulunulan riskleri ortadan kaldırır veya kontrol eder,"
+ },
+ {
+  "i": 1036,
+  "madde": "109",
+  "metin": "d) Üretim aşamasından ve özellikle piyasaya arz sonrası gözetim sisteminden elde edilen bilgilerin; tehlikeler ve bunların meydana gelme sıklığı üzerindeki etkisini, tehlikelerle ilişkili risklerin tahmini üzerindeki etkisini ve toplam risk, fayda-risk oranı ve riskin kabul edilebilirliği üzerindeki etkisini değerlendirir ve"
+ },
+ {
+  "i": 1037,
+  "madde": "109",
+  "metin": "€) (d) bendinde atıfta bulunulan bilgilerin etkisiyle ilgili değerlendirmeye dayanarak, gerektiğinde bu Ekin 4 numaralı maddesinde belirtilen gereklilikler doğrultusunda kontrol tedbirlerini tadil eder."
+ },
+ {
+  "i": 1038,
+  "madde": "109",
+  "metin": "4. Cihazların tasarımına ve imalatına yönelik imalatçılar tarafından kabul edilen risk kontrol tedbirleri, genel kabul görmüş en son teknolojik gelişmeler dikkate alınmak suretiyle güvenlilik ilkelerine uygun olur. Riskleri azaltmak amacıyla, toplam artık riskin yanı sıra her bir tehlikeyle ilişkili artık riskin kabul edilebilir olarak değerlendirilmesi için imalatçılar riskleri yönetir. İmalatçılar; en uygun çözümleri seçerken, aşağıdaki öncelik sırasına uymak suretiyle:"
+ },
+ {
+  "i": 1039,
+  "madde": "109",
+  "metin": "a) Güvenli tasarım ve imalat yoluyla riskleri mümkün olduğu kadar ortadan kaldırır veya azaltır,"
+ },
+ {
+  "i": 1040,
+  "madde": "109",
+  "metin": "b) Uygun olduğu hallerde, ortadan kaldırılamayan risklere ilişkin olarak gerektiğinde alarmlar dâhil olmak üzere yeterli koruma tedbirleri alır ve"
+ },
+ {
+  "i": 1041,
+  "madde": "109",
+  "metin": "©) Güvenliliğe yönelik bilgiler (uyarılar/önlemler/kontrendikasyonlar) ile uygun olduğu hallerde kullanıcılara eğitim sağlar."
+ },
+ {
+  "i": 1042,
+  "madde": "109",
+  "metin": "İmalatçılar, kullanıcıları artık riskler hakkında bilgilendirir."
+ },
+ {
+  "i": 1043,
+  "madde": "109",
+  "metin": "5. İmalatçılar; kullanım hatasıyla ilgili riskleri ortadan kaldırırken veya azaltırken;"
+ },
+ {
+  "i": 1044,
+  "madde": "109",
+  "metin": "a) Cihazın ergonomik özellikleriyle ve cihazın kullanılmasının amaçlandığı ortamla ilgili riskleri mümkün olduğu kadar azaltır (hasta güvenliğine yönelik tasarım) ve"
+ },
+ {
+  "i": 1045,
+  "madde": "109",
+  "metin": "b) Hedeflenen kullanıcıların; teknik bilgisini, deneyimini, öğrenimini, eğitimini, uygulanabildiği hallerde kullanım ortamını ve tıbbi ve fiziksel koşullarını göz önünde bulundurur (meslekten olmayan, profesyonel, engelli veya diğer kullanıcılara yönelik tasarım)."
+ },
+ {
+  "i": 1046,
+  "madde": "109",
+  "metin": "6. İmalatçı tarafından belirtildiği şekilde bir cihazın karakteristikleri ve performansı; cihaz normal kullanım koşulları altında meydana gelebilen zorlamalara tabi tutulduğunda ve cihazın"
+ }
+]
