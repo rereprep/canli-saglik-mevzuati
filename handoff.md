@@ -415,3 +415,11 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 
 ## 2026-11-18 — HSGM Daire Başkanlıkları Yönergesi onayı
 - Kullanıcı bildirdi: 16.11.2026 tarihli ve E-11045126-010.04-336286164 sayılı Bakan Oluru. tarih 2026-11-16, sayi eklendi; eski 17.11.2026 notu değiştirildi. Yedek: yedek/hsgm-yonerge-onay-2026-11-18/.
+
+## 2026-11-19 — Tarihe göre görüntüleme (zaman çizelgesi)
+- site_uret.zaman_isle: md_html çıktısındaki <p>/<h2-4> bloklarına data-z=[[tarih,tür(e/d/m/i),kapsam,w,not]] yazar. Kaynaklar: parantez içi notlar (Değişik/Ek/Mülga/İptal/Yeniden düzenleme; ";" ile birden çok olay), yönerge "(gg/aa/yyyy/NNN Yürürlük: …) [Mülga]" notları, değişiklik içeren [n] dipnot cümleleri (açık "… tarihinde yürürlüğe/geçerli" varsa o tarih; çıkarıldı/kaldırıldı=m). w=1 madde başı (ardışık notlar dahil) → tüm madde; w=2 paragraf/bent başı; 0 kısmi. Genelgelerde metin notları sayılmaz (alıntı).
+- Belge verisi (script#zaman-veri): b başlangıç, n tarih noktaları, l değişiklik listesi tablo satırları, o önceki sürümler (kaldiran/yerine ile bu kayda bağlananlar), s sonraki sürüm. Panel: details#zaman (çizelge noktaları, kaydırıcı, tarih kutusu, Güncel metin, Yalnız işaretli hükümler). 382 sayfada.
+- ara.js: seçilen tarihten sonraki ilk belirleyici olaya göre yok/farklı/kalktı işaret + açıklama (dipnot/eski ibare varsa gösterir, yoksa "metni sitede bulunmuyor"); tarih başlangıçtan önceyse önceki sürüme, kaldırmadan sonraysa yerine geçene bağlantı; ?tarih=YYYY-MM-DD paylaşılabilir; metin içi aramada yeniden uygulanır.
+- terra denetimi (calisma/zaman-denetim.md): 6 bulgu düzeltildi; kalan: dipnotun alt bende değil madde girişine bağlanması, kapanmayan parantezli notların atlanması.
+- MHRS 2018 yönergesi kopyalarına tarih 30.04.2018 / 67523305-045.02-2043 (2026 yönergesinin 12. maddesinden). Test: test_zaman_isle_notlari.
+

@@ -94,5 +94,21 @@ class GuncellemeTest(unittest.TestCase):
         self.assertEqual(notlu['son_degisiklik'], '2023-10-28')
 
 
+    def test_zaman_isle_notlari(self):
+        b = {'id': 'z', 'tur': 'kanun', 'tarih': '2008-01-01', 'govde': ''}
+        h = ('<p class="madde" id="madde-2"><strong>EK MADDE 2 –</strong> (Ek: 11/8/2009-5921/3 md.; Değişik: 31/5/2012-6322/32 md.)</p>\n'
+             '<p class="madde" id="madde-3"><strong>EK MADDE 3 –</strong> (Ek: 21/1/2010-5947/14 md.) (Mülga:26/7/2018-7146/12 md.)</p>\n'
+             '<p>n) (Ek fıkra: 29/1/2016-6663/23 md.) Metin.</p>\n<p>Bir (Değişik ibare:RG-25/4/2023-32171) ibare ve (Ek-1) atfı.</p>')
+        with patch.dict(site._BELGE, {}, clear=True), patch.dict(site._KIMLIK, {}, clear=True):
+            cikti, veri = site.zaman_isle(b, h)
+        import html as _h, json as _j, re as _re
+        z = [[o[:4] for o in _j.loads(_h.unescape(x))] for x in _re.findall(r'data-z="([^"]*)"', cikti)]
+        self.assertEqual(z[0], [['2009-08-11', 'e', '', 1], ['2012-05-31', 'd', '', 1]])
+        self.assertEqual(z[1], [['2010-01-21', 'e', '', 1], ['2018-07-26', 'm', '', 1]])
+        self.assertEqual(z[2], [['2016-01-29', 'e', 'fıkra', 2]])
+        self.assertEqual(z[3], [['2023-04-25', 'd', 'ibare', 0]])
+        self.assertIn('2018-07-26', veri['n'])
+
+
 if __name__ == '__main__':
     unittest.main()

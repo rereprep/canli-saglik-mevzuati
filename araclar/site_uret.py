@@ -1407,7 +1407,8 @@ def belge_sayfasi(b):
   <a class="dugme pdf" href="{e(b['id'])}.pdf" download>PDF olarak indir</a>
   <button class="dugme yazdir" onclick="window.print()">Yazdır</button>
 </div>"""
-        govde = f'<article class="metin" id="metin">{md_html(b["govde"])}</article>'
+        _gh, _zv = zaman_isle(b, md_html(b["govde"]))
+        govde = zaman_paneli(_zv) + f'<article class="metin" id="metin">{_gh}</article>'
         madde_git = ('<label class="madde-git">Madde <input type="number" id="madde-git" min="1" placeholder="no" aria-label="Madde numarasına git"></label>'
                      if len(re.findall(r'id="madde-\d+"', govde)) >= 5 else "")
         ara = ('<div class="metin-ara"><input type="search" id="metinde-ara" placeholder="Metin içinde ara…" aria-label="Metin içinde ara">'
@@ -1439,6 +1440,155 @@ def belge_sayfasi(b):
 {ara}
 {govde}"""
     return sayfa(b["baslik"], icerik, kok, belge_aciklamasi(b), yol=f"mevzuat/{b['tur']}/{b['id']}.html")
+
+
+# ---------------------------------------------------------------- tarihe göre görüntüleme
+_Z_NOT = re.compile(r"\((Değişik(?:lik)?|Degişik|Ek|Mülga|İptal)\b([^():]{0,60}?)(?::|(?=\s*\d))\s*([^()]{0,260}?)\)")
+_Z_PAR = re.compile(r"\(([^()]{3,400})\)")
+_Z_TUR = re.compile(r"^\s*(Değişik(?:lik)?|Degişik|Ek|Mülga|İptal|Yeniden düzenleme)\b([^():]{0,60}?)(?::|(?=\s*\d))\s*(.{0,260})$", re.S)
+_Z_YNOT = re.compile(r"\((\d{1,2}/\d{1,2}/\d{4})/\d+\s+Yürürlük\s*:\s*(\d{1,2}/\d{1,2}/\d{4})\s*\)\s*(Mülga)?")
+_Z_TARIH = re.compile(r"(?<![\d/.])(\d{1,2})\s*[./]\s*(\d{1,2})\s*[./]\s*((?:18|19|20)\d{2})(?!\d)")
+_Z_BLOK = re.compile(r'<(p|h[2-4])((?: [^>]*)?)>(.*?)</\1>', re.S)
+_Z_MADDE = re.compile(r"^\s*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)\s*\d+[/A-Za-z]*(?:\s*(?:ila|ve|-)\s*\d+)?\s*[-–—.:]?\s*")
+_Z_FIIL = re.compile(r"değiştiril|eklenmiş|eklenerek|çıkarıl|kaldırıl|iptal edil|ilga edil|mülga", re.I)
+
+
+def _z_tarih(metin):
+    for g, a, y in _Z_TARIH.findall(metin or ""):
+        if 1 <= int(a) <= 12 and 1 <= int(g) <= 31:
+            return f"{y}-{int(a):02d}-{int(g):02d}"
+    return ""
+
+
+def _z_duz(ic):
+    return " ".join(html.unescape(re.sub(r"<[^>]+>", "", ic)).split())
+
+
+def zaman_isle(b, govde_html):
+    """Metindeki değişiklik notlarını (Değişik/Ek/Mülga/İptal …) ve dipnotlardaki değişiklik açıklamalarını
+    bloklara data-z olarak yazar; sayfadaki zaman çizelgesi için belge düzeyindeki veriyi döndürür."""
+    tur = b.get("tur")
+    bugun = dt.date.today().isoformat()
+    bas = b.get("tarih") or b.get("rg_tarih") or ""
+    bloklar = list(_Z_BLOK.finditer(govde_html))
+    # dipnotlar: <small>[n] … </small>
+    dipnot = {}
+    for m in bloklar:
+        if not m.group(3).lstrip().startswith("<small>"):
+            continue
+        for n, metin in re.findall(r"\[(\d{1,3})\]\s*(.*?)(?=\[\d{1,3}\]\s|$)", _z_duz(m.group(3))):
+            olaylar = []
+            for cumle in re.split(r"(?<=[.)])\s+(?=[A-ZÇĞİÖŞÜ0-9“\"])", metin):
+                t = _z_tarih(cumle)
+                yt = re.search(r"(\d{1,2}\s*[./]\s*\d{1,2}\s*[./]\s*\d{4})\s*tarihin(?:de|den)\s*(?:itibaren\s*)?(?:geçerli|yürürlüğe)", cumle)
+                if yt and _z_tarih(yt.group(1)):
+                    t = _z_tarih(yt.group(1))
+                if t and _Z_FIIL.search(cumle) and bas[:4] <= t <= bugun:
+                    k = "e" if re.search(r"eklen", cumle) and not re.search(r"değiştiril", cumle) else (
+                        "i" if re.search(r"iptal edil", cumle) else "m" if re.search(r"çıkarıl|yürürlükten kaldırıl|ilga edil", cumle) else "d")
+                    olaylar.append([t, k, "ibare" if "ibare" in cumle else "", 0, cumle])
+                elif olaylar:
+                    olaylar[-1][4] += " " + cumle
+            if olaylar:
+                dipnot[n] = olaylar
+    cikti, son, hepsi = [], 0, set()
+    for m in bloklar:
+        ic = m.group(3)
+        duz = _z_duz(ic)
+        if ic.lstrip().startswith("<small>"):
+            continue
+        olay = []
+        if tur != "genelge":
+            etiket = _Z_MADDE.match(duz) if 'class="madde"' in m.group(2) else None
+            bent = re.match(r"^\s*(?:\(\d+\)|[a-zçğıöşü]{1,3}\)|\d+[.)-]|[IVX]+[.-])?\s*", duz)
+            sinir_m = etiket.end() if etiket else -9
+            sinir_p = bent.end() if bent else 0
+            for n in _Z_PAR.finditer(duz):
+                parcalar = [x for x in n.group(1).split(";") if _Z_TUR.match(x)]
+                if not parcalar:
+                    continue
+                bas_m, bas_p = n.start() <= sinir_m + 2, n.start() <= sinir_p + 2
+                eklendi = False
+                for x in parcalar:
+                    tm = _Z_TUR.match(x)
+                    t = _z_tarih(tm.group(3)) or _z_tarih(tm.group(2))
+                    if not t or not (bas[:4] <= t <= bugun):
+                        continue
+                    k = {"E": "e", "M": "m", "İ": "i"}.get(tm.group(1)[0], "d")
+                    kap = tm.group(2).strip().lower()
+                    tam = not kap or kap.startswith("madde") or "başlığı ile" in kap
+                    w = 1 if (bas_m and tam) else (2 if bas_p and not re.search(r"ibare|cümle|kelime", kap) else 0)
+                    olay.append([t, k, kap, w, "(" + x.strip() + ")"])
+                    eklendi = True
+                if eklendi:  # ardışık notlar da madde/paragraf başındadır
+                    if bas_m:
+                        sinir_m = n.end()
+                    if bas_p:
+                        sinir_p = n.end()
+            for n in _Z_YNOT.finditer(duz):
+                t = _z_tarih(n.group(2)) or _z_tarih(n.group(1))
+                if t and bas[:4] <= t <= bugun:
+                    olay.append([t, "m" if n.group(3) else "d", "", 2 if n.start() <= sinir_p + 2 else 0, n.group(0)])
+        for n in dict.fromkeys(re.findall(r"\[(\d{1,3})\]", duz)):
+            olay += dipnot.get(n, [])
+        if not olay:
+            continue
+        hepsi.update(o[0] for o in olay)
+        veri = e(json.dumps([o[:4] + [o[4][:1500]] for o in olay], ensure_ascii=False))
+        cikti.append(govde_html[son:m.start()])
+        cikti.append(f"<{m.group(1)}{m.group(2)} data-z=\"{veri}\">{ic}</{m.group(1)}>")
+        son = m.end()
+    cikti.append(govde_html[son:])
+    govde_html = "".join(cikti)
+    # değişiklik listesi tabloları (mevzuat.gov.tr listesi, onay tabloları)
+    liste = []
+    for tb in re.finditer(r'<table class="metin-tablo">(.*?)</table>', govde_html, re.S):
+        satirlar = [[_z_duz(h) for h in re.findall(r"<td[^>]*>(.*?)</td>", r, re.S)] for r in re.findall(r"<tr>(.*?)</tr>", tb.group(1), re.S)]
+        if not satirlar or not re.search(r"Yürürlüğe Giriş|Onay tarihi|Değişen|Değişiklik|Resmî Gazete|Yayımlandığı", " ".join(satirlar[0] + (satirlar[1] if len(satirlar) > 1 else [])), re.I):
+            continue
+        for r in satirlar:
+            tarihler = [x for x in (_z_tarih(h) for h in r[::-1]) if x]
+            if not tarihler or "İlk" in " ".join(r):
+                continue
+            t = tarihler[0]
+            if bas[:4] <= t <= bugun and t != bas:
+                liste.append([t, " – ".join(h for h in r if h and not _Z_TARIH.fullmatch(h.strip()) and not re.fullmatch(r"\d+\.", h))[:300]])
+    hepsi.update(x[0] for x in liste)
+    # önceki ve sonraki sürümler (sitede ayrı kayıt olarak)
+    onceki = []
+    for x in _BELGE.values():
+        if b["id"] in (_KIMLIK.get(x.get("yerine") or "", (0, 0))[1], _KIMLIK.get(x.get("kaldiran") or "", (0, 0))[1]) and x["id"] != b["id"]:
+            onceki.append({"a": x["baslik"], "u": f"../{x['tur']}/{x['id']}.html", "b": x.get("tarih") or x.get("rg_tarih") or ""})
+    sonraki = None
+    k = b.get("yerine") or b.get("kaldiran")
+    if k and k in _KIMLIK and mulga(b):
+        h = _BELGE.get(_KIMLIK[k][1]) or {}
+        sonraki = {"a": h.get("baslik", ""), "u": f"../{_KIMLIK[k][0]}/{_KIMLIK[k][1]}.html", "t": b.get("son_degisiklik") or h.get("rg_tarih") or h.get("tarih") or ""}
+    noktalar = sorted({t for t in hepsi if t > bas} | ({bas} if bas else set()) | {o["b"] for o in onceki if o["b"]}
+                      | ({sonraki["t"]} if sonraki and sonraki["t"] else set()))
+    if len(noktalar) < 2 and not onceki and not sonraki:
+        return govde_html, None
+    return govde_html, {"b": bas, "n": noktalar[-250:], "l": sorted(liste)[-300:], "o": onceki, "s": sonraki, "tur": TUR_TEKIL[tur]}
+
+
+def zaman_paneli(zv):
+    if not zv:
+        return ""
+    sayi = len([t for t in zv["n"] if t > zv["b"]])
+    veri = json.dumps(zv, ensure_ascii=False).replace("</", "<\\/")
+    return f"""<details class="zaman" id="zaman"><summary>Tarihe göre görüntüle <span class="zaman-say">{sayi} değişiklik tarihi</span></summary>
+<div class="zaman-ic">
+<p class="zaman-acik">Bir tarih seçin: metin o tarihteki durumuna göre işaretlenir. Sonradan eklenen hükümler soluk, değişenler sarı, sonradan kaldırılanlar kırmızı çizgiyle gösterilir. Sitede yalnız güncel metin bulunduğundan, seçilen tarihteki eski metin ancak dipnotta yazılıysa ya da eski sürüm sitede ayrı kayıt olarak varsa görülebilir.</p>
+<div class="zaman-cizgi" id="zaman-cizgi" aria-hidden="true"></div>
+<div class="zaman-denetim"><input type="range" id="zaman-kaydir" aria-label="Değişiklik tarihleri arasında gez">
+<label>Tarih <input type="date" id="zaman-tarih"></label>
+<button type="button" class="dugme" id="zaman-guncel">Güncel metin</button>
+<label class="zaman-yalniz"><input type="checkbox" id="zaman-yalniz"> Yalnız işaretli hükümler</label></div>
+<div id="zaman-durum" class="zaman-durum" aria-live="polite"></div>
+<p class="zaman-not">Tarihler değişiklik notlarındaki tarihlerdir; kanunlarda çoğu zaman değiştiren kanunun kabul tarihi yazar, yürürlük tarihi farklı olabilir. Hukuki işlemlerde resmî metne bakınız.</p>
+</div></details>
+<script type="application/json" id="zaman-veri">{veri}</script>
+"""
 
 
 def metin_turu(b):

@@ -50,7 +50,7 @@
   if(mAra){
     var metin=document.getElementById("metin"), asil=metin.innerHTML, zaman;
     mAra.addEventListener("input",function(){clearTimeout(zaman);zaman=setTimeout(function(){
-      metin.innerHTML=asil; var q=mAra.value.trim(); var bilgi=document.getElementById("metinde-sonuc");
+      metin.innerHTML=asil; if(window.csmZaman)window.csmZaman(); var q=mAra.value.trim(); var bilgi=document.getElementById("metinde-sonuc");
       if(q.length<2){bilgi.textContent="";return;}
       var re=new RegExp(kacis(q),"gi"), say=0;
       var w=document.createTreeWalker(metin,NodeFilter.SHOW_TEXT), dugumler=[];
@@ -61,6 +61,73 @@
       bilgi.textContent=say+" eşleşme"; var ilk=metin.querySelector("mark"); if(ilk)ilk.scrollIntoView({block:"center"});
     },250);});
   }
+
+  // Tarihe göre görüntüleme: seçilen tarihten sonra eklenen/değişen/kaldırılan hükümler işaretlenir
+  var zv=document.getElementById("zaman-veri"), zm=document.getElementById("metin");
+  if(zv&&zm){(function(){
+    var V; try{V=JSON.parse(zv.textContent);}catch(x){return;}
+    var kay=document.getElementById("zaman-kaydir"), ti=document.getElementById("zaman-tarih"), durum=document.getElementById("zaman-durum"),
+        cizgi=document.getElementById("zaman-cizgi"), yal=document.getElementById("zaman-yalniz"), pan=document.getElementById("zaman"), secili="";
+    var bugun=new Date().toISOString().slice(0,10), tum=V.n.concat([bugun]);
+    var ms=function(t){return Date.parse((t+"-01-01").slice(0,10));};
+    kay.min=0; kay.max=tum.length-1; kay.step=1; kay.value=tum.length-1;
+    var t0=ms(tum[0]), t1=ms(bugun), dugmeler=[];
+    tum.forEach(function(t,i){var d=document.createElement("button");d.type="button";d.className="zn-nokta"+(i===tum.length-1?" son":"");
+      d.style.left=(t1>t0?(ms(t)-t0)/(t1-t0)*100:0)+"%";d.title=i===tum.length-1?"Güncel metin":tr(t);d.tabIndex=-1;
+      d.addEventListener("click",function(){sec(i===tum.length-1?"":t);});cizgi.appendChild(d);dugmeler.push(d);});
+    var u0=document.createElement("span");u0.className="zn-uc";u0.textContent=tr(tum[0]);cizgi.appendChild(u0);
+    var u1=document.createElement("span");u1.className="zn-uc sag";u1.textContent="Bugün";cizgi.appendChild(u1);
+    function sinif(o){var k=o[1],s=(o[2]||"").toLocaleLowerCase("tr"),bas=o[3]>0&&!/ibare|cümle|kelime|başlık|tanım/.test(s);
+      if(k==="e")return bas?"yok":"farkli";
+      if(k==="m"||k==="i")return bas?"kalkti":"farkli";
+      return "farkli";}
+    var METIN={yok:"Seçilen tarihte bu hüküm yoktu; {t} tarihinde eklendi.",farkli:"Seçilen tarihte bu hükmün metni farklıydı; {t} tarihinde değiştirildi.",kalkti:"Seçilen tarihte bu hüküm yürürlükteydi; {t} tarihinde {f}."};
+    function etiket(cls,ev,o){var m=METIN[cls].replace("{t}",tr(o[0])).replace("{f}",o[1]==="i"?"iptal edildi":"yürürlükten kaldırıldı");
+      var ayr=ev.map(function(x){return x[4];}).filter(function(x,i,a){return x&&a.indexOf(x)===i;}).slice(0,4);
+      var eski=ayr.some(function(x){return /ibaresi|önceki metin/i.test(x);});
+      if(cls!=="yok")m+=eski?" Değişikliğin ayrıntısı aşağıda.":" Seçilen tarihteki metni sitede bulunmuyor.";
+      var diger=ev.filter(function(x){return x[0]!==o[0];}).map(function(x){return tr(x[0]);}).filter(function(x,i,a){return a.indexOf(x)===i;});
+      if(diger.length)m+=" Bu hükümde ayrıca "+diger.join(", ")+" tarihli değişiklik var.";
+      var d=document.createElement("div");d.className="zn "+cls;d.innerHTML="<strong>"+e(m)+"</strong>"+ayr.map(function(x){return "<br><small>"+e(x)+"</small>";}).join("");return d;}
+    function temizle(){zm.querySelectorAll(".zn").forEach(function(x){x.remove();});
+      zm.querySelectorAll(".z-yok,.z-farkli,.z-kalkti,.z-gizli").forEach(function(x){x.classList.remove("z-yok","z-farkli","z-kalkti","z-gizli");});}
+    function uygula(){temizle();var D=secili;
+      dugmeler.forEach(function(d,i){d.classList.toggle("aktif",D?(tum[i]<=D&&(i===tum.length-1||tum[i+1]>D)):i===tum.length-1);});
+      if(!D){durum.innerHTML="";return;}
+      var h="<p><strong>"+tr(D)+" tarihindeki durum.</strong> ";
+      if(V.b&&D<V.b){var o=(V.o||[]).filter(function(x){return !x.b||x.b<=D;});
+        durum.innerHTML=h+"Bu "+e(V.tur).toLocaleLowerCase("tr")+" o tarihte henüz yürürlükte değildi (tarihi: "+tr(V.b)+")."+(o.length?" O tarihte yürürlükte olan önceki düzenleme: "+o.map(function(x){return '<a href="'+e(x.u)+'?tarih='+D+'">'+e(x.a)+"</a>";}).join(", ")+".":" Önceki düzenlemenin metni sitede bulunmuyor.")+"</p>";return;}
+      if(V.s&&V.s.t&&D>=V.s.t){durum.innerHTML=h+"Bu düzenleme o tarihte yürürlükten kalkmıştı ("+tr(V.s.t)+"). Yerine geçen ya da kaldıran düzenleme: <a href=\""+e(V.s.u)+"?tarih="+D+"\">"+e(V.s.a)+"</a>.</p>";return;}
+      var say={yok:0,farkli:0,kalkti:0}, ilk=null, isaretli=new Set();
+      var els=Array.prototype.slice.call(zm.querySelectorAll("[data-z]"));
+      els.forEach(function(el){var ev;try{ev=JSON.parse(el.getAttribute("data-z"));}catch(x){return;}
+        ev=ev.filter(function(o){return o[0]>D;}).sort(function(a,b){return a[0]<b[0]?-1:1;});
+        if(!ev.length||isaretli.has(el))return;
+        var tumu=ev.filter(function(o){return o[3]===1;}), karar=tumu.length?tumu[0]:ev[0], cls=sinif(karar);
+        var grup=[el];
+        if(tumu.length&&el.classList.contains("madde")){var n=el.nextElementSibling;while(n&&!n.classList.contains("madde")&&!/^H[1-4]$/.test(n.tagName)){grup.push(n);n=n.nextElementSibling;}}
+        grup.forEach(function(g){g.classList.add("z-"+cls);isaretli.add(g);});
+        el.parentNode.insertBefore(etiket(cls,ev,karar),el);say[cls]++;if(!ilk)ilk=el;});
+      var parca=[];if(say.yok)parca.push(say.yok+" hüküm o tarihte yoktu");if(say.farkli)parca.push(say.farkli+" hükmün metni farklıydı");if(say.kalkti)parca.push(say.kalkti+" hüküm sonradan kaldırıldı");
+      h+=parca.length?"Bu tarihten sonraki değişiklikler işaretlendi: "+parca.join(", ")+". ":((V.l||[]).some(function(x){return x[0]>D;})?"Bu tarihten sonra değişiklik yapılmış, ancak değişen yerler metinde işaretli değil; değişiklikler aşağıdaki listede. ":"Metinde bu tarihten sonraki bir değişiklik notu bulunmuyor. ");
+      if(ilk)h+='<button type="button" class="zaman-ilk" id="zaman-ilk">İlk işarete git ↓</button>';
+      h+="</p>";
+      var l=(V.l||[]).filter(function(x){return x[0]>D;});
+      if(l.length)h+="<details"+(parca.length?"":" open")+"><summary>Değişiklik listesine göre bu tarihten sonraki "+l.length+" değişiklik</summary><ul>"+l.map(function(x){return "<li>"+tr(x[0])+(x[1]?" — "+e(x[1]):"")+"</li>";}).join("")+"</ul></details>";
+      durum.innerHTML=h;var ig=document.getElementById("zaman-ilk");if(ig)ig.addEventListener("click",function(){ilk.previousElementSibling.scrollIntoView({block:"center",behavior:"smooth"});});
+      if(yal.checked)Array.prototype.forEach.call(zm.children,function(c){if(!isaretli.has(c)&&!c.classList.contains("zn")&&!/^H[1-3]$/.test(c.tagName))c.classList.add("z-gizli");});}
+    function sec(D){if(D&&D>=bugun)D="";secili=D||"";ti.value=secili;
+      var i=tum.length-1;if(secili){i=0;tum.forEach(function(t,j){if(j<tum.length-1&&t<=secili)i=j;});}kay.value=i;
+      try{var q=new URLSearchParams(location.search);if(secili)q.set("tarih",secili);else q.delete("tarih");history.replaceState(null,"",location.pathname+(q.toString()?"?"+q:"")+location.hash);}catch(x){}
+      uygula();}
+    kay.addEventListener("input",function(){var i=+kay.value;sec(i===tum.length-1?"":tum[i]);});
+    ti.addEventListener("change",function(){sec(ti.value);});
+    document.getElementById("zaman-guncel").addEventListener("click",function(){sec("");});
+    yal.addEventListener("change",uygula);
+    window.csmZaman=uygula;
+    var ilkT=new URLSearchParams(location.search).get("tarih");
+    if(ilkT&&/^\d{4}-\d{2}-\d{2}$/.test(ilkT)){pan.open=true;sec(ilkT);}
+  })();}
 
   // Sayfa başına dön düğmesi
   var yk=document.getElementById("yukari");
