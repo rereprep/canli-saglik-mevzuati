@@ -1657,6 +1657,8 @@ def surumleri_yukle(b):
     if len(so.Belge(s["surumler"][0]["md"]).maddeler()) < 2:
         return None  # ilk metin okunamadı (ör. yalnız PDF yayımlanmış)
     dog = dict(s.get("dogrulama") or {})
+    if len(dog) >= 3 and sum(dog.values()) / len(dog) < 0.25:
+        return None  # ilk metin güvenilir biçimde kurulamadı (doğrulama çok düşük): eski metin gösterilmez
     duz_yol = KOK / "kaynak-isleme" / "surum" / "duzeltme" / f"{kimlik}.json"
     duz = json.loads(duz_yol.read_text(encoding="utf-8")).get("maddeler", {}) if duz_yol.exists() else {}
     cikti = []

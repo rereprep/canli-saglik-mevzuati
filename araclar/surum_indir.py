@@ -140,17 +140,36 @@ def fihrist_url(url):
     return out
 
 
+def notlardan(s):
+    """Değişiklik tablosu olmayan metinler (kitap, saglik.gov.tr): künyedeki RG tarihi/sayısı ilk metin,
+    metindeki "(Değişik:RG-g/a/yyyy-sayı)" notları değişiklikler."""
+    fm = s[:2500]
+    rt = re.search(r'^rg_tarih: "(\d{4}-\d{2}-\d{2})"', fm, re.M)
+    if not rt:
+        return None, []
+    rs = re.search(r'^rg_sayi: "(\d+)', fm, re.M)
+    deg = set()
+    for g, a, y, n in re.findall(r"\((?:Değişik|Ek|Mülga|Yeniden düzenleme)[^():]{0,40}:\s*RG\s*-\s*(\d{1,2})/(\d{1,2})/(\d{4})\s*-\s*(\d+)", s):
+        t = f"{y}-{int(a):02d}-{int(g):02d}"
+        if t > rt.group(1):
+            deg.add((t, n))
+    return (rt.group(1), rs.group(1) if rs else ""), sorted(deg)
+
+
 def main():
     turler = ("yonetmelik", "teblig", "tuzuk")
     if "--tur" in sys.argv:
         turler = tuple(sys.argv[sys.argv.index("--tur") + 1].split(","))
     indeks = json.loads(INDEKS.read_text()) if INDEKS.exists() else {}
     dosyalar = [f for t in turler for f in sorted((KOK / "icerik" / t).glob("*.md"))]
+    atla = set(sys.argv[sys.argv.index("--atla") + 1].split(",")) if "--atla" in sys.argv else set()
     for f in dosyalar:
         s = f.read_text(encoding="utf-8")
-        if "mevzuat.gov.tr" not in s[:2000]:
+        if f.stem in atla:
             continue
-        ilk, deg = tablo(s)
+        ilk, deg = tablo(s) if "mevzuat.gov.tr" in s[:2000] else (None, [])
+        if not deg or not ilk:
+            ilk, deg = notlardan(s)
         if not deg or not ilk:
             continue
         kimlik = re.search(r'^id: "([^"]+)"', s, re.M).group(1)

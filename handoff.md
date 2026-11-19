@@ -477,3 +477,11 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Bakanlık birim sayfaları (76) tarandı. Eklenen: 2011/56 Sayılı Genelgenin Yürürlükten Kaldırılmasına Dair Genelge (2026/1, 19.01.2026; 2011/56 mülga bağlandı) ve Yurt Dışı Sağlık Tesislerinde Personel Görevlendirilmesine Dair Usul ve Esaslar Hakkında Yönerge (2018 Bakan Oluru, gün okunamadı → 2018).
 - Eklenmeyen: Hazine ve Maliye Bakanlığı "Kamu İdarelerinin Taşınmaz Kiralamalarına İlişkin Genelge" (sağlık mevzuatı değil).
 - Açık soru: genelge adlarındaki "(2014/26)" gibi numaralar ad_temizle'de bilerek bırakılıyor (304 genelge).
+
+## 2026-11-20 — Eski hâller: kitap/Bakanlık kaynaklı metinler ve PDF değişiklik metinleri
+- surum_indir.notlardan: değişiklik tablosu olmayan metinlerde (kitap, saglik.gov.tr) ilk metin künyedeki rg_tarih/rg_sayi, değişiklikler "(Değişik:RG-g/a/yyyy-sayı)" notlarından. --atla ile SUT dışarıda (çok büyük). İndeks 92 → 128 belge.
+- surum_olustur.pdf_md: RG PDF'leri ve Cumhurbaşkanı Kararı ekli PDF'leri okur (araclar/pdf_sayfa_metin.py; metin katmanı yoksa Tesseract). Önbellek kaynak-isleme/indirilen/rg-surum-pdf/. PYTHONPATH=/private/tmp/pylib (pdfplumber, pypdfium2 pip --target). 89 değişiklik metni bu yolla okunuyor. HTML'de hiç "Madde n" yoksa ek PDF'e geçer.
+- govde_al: "Yayımlandığı Resmî Gazete" yalnız ilk maddeden sonra aranıyor (künyedeki satır metni kesiyordu).
+- PDF/OCR ilk metinler (ajan denetimli): Geçici Koruma 46/66, KÖİ Uygulama 66/73 (iki kayıt), AH Sözleşme ve Ödeme 19/32, TSK Sağlık Yeteneği 32/93.
+- site_uret.surumleri_yukle: doğrulama oranı %25'in altındaysa eski metin gösterilmez.
+- Toplam 3973/4901 (%81); 114 belgenin tarihli sürümü sitede. Kalan: SUT; 1 ve 4 sayılı CBK; 2000 öncesi RG'si taranmış belgeler (Acil Sağlık Hizmetleri, Yataklı Tedavi vb.).

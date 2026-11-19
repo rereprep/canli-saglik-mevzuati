@@ -1,0 +1,777 @@
+[
+ {
+  "i": 25,
+  "madde": "3",
+  "metin": "a) Öğrenci adaylarının boy ve ağırlık sınırları ile vücut kitle indeks değerlerini gösteren tablolar (EK-A)."
+ },
+ {
+  "i": 29,
+  "madde": "3",
+  "metin": "d) Türk Silahlı Kuvvetleri/Jandarma Genel Komutanlığı/Sahil Güvenlik Komutanlığı Sağlık Raporu ve Sağlık Kurulu Muayene Fişi (EK-D)."
+ },
+ {
+  "i": 34,
+  "madde": "4",
+  "metin": "b) Hakkında karar verilemeyenler ile beyan ettiği hastalığı ya da fiziki muayene bulguları nedeniyle ileri tetkik yapılarak değerlendirilmesi gereken yükümlüler en yakın Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşunun ilgili birimine doğrudan sevk edilir,"
+ },
+ {
+  "i": 35,
+  "madde": "4",
+  "metin": "(2) Muayene sırasında yükümlünün sağlık durumuna ilişkin ibraz ettiği belge sureti muayene belgesine eklenir. Ayrıca, yükümlülere yoklamada uygulanacak sağlık durumu hakkında bilgi (ormunda yer alan “Aile (ekimi/Tek Tabip Değerlendirmesi” bölümündeki sorgu ve değerlendirmelere ilişkin bilgiler muayeneyi yapan tabip tarafından doldurulur."
+ },
+ {
+  "i": 36,
+  "madde": "4",
+  "metin": "(3) Yükümlüler hakkında “Ertesi Yıla Bırakma”, “Sevk Geciktirmesi” veya “Askerliğe Elverişli Değildir” kararlı sağlık raporlarını tanzim etmeye yetkili makam, Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşları sağlık kuruludur. Ancak, yatalaklar ile gözle görülür rahatsızlığı bulunanlar hakkında “Ertesi Yıla Birakma”, “Sevk Geciktirmesi” veya “Askerliğe Elverişli Değildir” kararlı sağlık raporları, askerlik şubesi başkanı veya vekili ile mülki amirliklerce görevlendirilen resmi iki sivil (varsa biri ilgilinin kayıtlı olduğu aile hekimi) tabipten teşkil edilecek geçici sağlık kurulunca verilebilir. Geçici sağlık kurulunca hakkında karar verilemeyen yükümlüler askerlik şubelerince en yakın Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşuna sevk edilir."
+ },
+ {
+  "i": 39,
+  "madde": "4",
+  "metin": "(6) TITI sayılı Kanun kapsamında, aile hekimi, tek tabip veya Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarmda yapılan muayene ve düzenlenen raporlar için herhangi bir ücret ve katkı payı alınmaz."
+ },
+ {
+  "i": 45,
+  "madde": "6",
+  "metin": "MADDE 6- (1) Yoklamada hastalıkları tespit edilememiş olup sevki sırasında rahatsızlığını beyan edenler ile yoklama kaçağı ve bakaya yükümlülerin muayeneleri, askerlik şubesinin bulunduğu yerde öncelikle varsa kayıtlı olduğu aile hekimi tarafından, yoksa en yakın resmi sağlık kuruluşunda tek tabip tarafından yapılır. Askerlik şubelerince, sağlık kuruluşlarına sevkten önce yoklamada uygulanacak muayene belgesinin doldurulması sağlanır. Aile hekimleri veya tek tabip tarafından hakkında karar verilemeyenler ile beyan ettiği hastalığı ya da fiziki muayene bulguları nedeniyle ileri tetkik yapılarak değerlendirilmesi gereken yükümlüler vapor tanzim etmeye yetkili en yakın Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşunun ilgili birimine doğrudan sevk edilir."
+ },
+ {
+  "i": 46,
+  "madde": "6",
+  "metin": "(2) Askerlik işlemleri için hastanelere sevk edilenlerm işlemleri en kısa sürede sonuçlandırılır. Yoklama kaçağı ve bakayaların muayeneleri sevk edildikleri hastaneler tarafından aynı gün içerisinde sonuçlandırılır ve bunlar randevu sistemine dahil edilmezler."
+ },
+ {
+  "i": 48,
+  "madde": "7",
+  "metin": "MADDE 7- (1) Yurtdışında yaşayan askerlikle yükümlü vatandaşlardan herhangi bir hastalığı olmayanların sağlık muayeneleri, yükümlünün bulunduğu yabancı ülke sağlık mevzuatına uygun şekilde resmi sağlık kuruluşlarında yaptırılır ve düzenlenecek yoklama formları doğrudan valandaşın kayıtlı olduğu askerlik şubesine konsolosluklarca gönderilir. Yurtdışında yoklaması yapılanlar için yükümlülere yoklamada uygulanacak sağlık durumu hakkında bilgi formu düzenlenmez. Ancak, bu yükümlülerden 4 üncü fıkranın (d) bendi kapsamına girenler ile haklarında Milli Savunma Bakanlığınca verilen kararlara karşı yapılan itrazlar sonucunda yurtiçindeki Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarına sevki gerekenler için sevkten önce sevki yapan askerlik şubesince yükümlülere yoklamada uygulanacak sağlık durumu hakkında bilgi fonu düzenlenir."
+ },
+ {
+  "i": 49,
+  "madde": "7",
+  "metin": "(2) Askerlik hizmetini yapmakta olanlar ile firar, izin veya hava değişimi aşımında bulunanların sağlık muayenciceri yapılmaz."
+ },
+ {
+  "i": 50,
+  "madde": "7",
+  "metin": "(3) Askerlik yükümlülüğünü fiilen silâhaltına alınmayı gerekürmeyen askerlik hizmet çeşitlerinden biri ile yerine getirecek olanların yoklamaları yaptırılmaz."
+ },
+ {
+  "i": 51,
+  "madde": "7",
+  "metin": "(4) Askerlik hizmetini yerine gelirmeye enge! sağlık sorunu olduğunu beyan edenlerin sağlık muaycneleri, bulundukları yabancı ülke sağlık mevzuatına uygun şekilde resmi sağlık kuruluşlarında yaptırılır, alacakları muayene ve tetkik sonuçları veya sağlık raporları Türkçe tercümeleri ile birlikte konsolosluklarca Milli Savunma Bakanlığına gönderilir. Bu raporlar incelenir ve aşağıdaki kararlardan biri ile onaylanarak yükümlünün kayıtlı olduğu askerlik şubesinin bağlı olduğu askeralma bölge başkanlığına gönderilir."
+ },
+ {
+  "i": 52,
+  "madde": "7",
+  "metin": "a) Askerliğe Elverişlidir."
+ },
+ {
+  "i": 53,
+  "madde": "7",
+  "metin": "b) Askerliğe Elverişli Değildir."
+ },
+ {
+  "i": 54,
+  "madde": "7",
+  "metin": "c) Ertesi Yıla Bırakma."
+ },
+ {
+  "i": 55,
+  "madde": "7",
+  "metin": "ç) Sevk Geciktirmesi."
+ },
+ {
+  "i": 56,
+  "madde": "7",
+  "metin": "d) Yurtiçinde Rapor Tanzim Etmeye Yetkili Hastanede Muayenesi Uygundur."
+ },
+ {
+  "i": 57,
+  "madde": "7",
+  "metin": "(5) Yükümlülerin sağlık durumlarına ilişkin itirazları Millt Savunma Bakanlığınca yurtiçindeki hastanelerde sonuçlandırılır."
+ },
+ {
+  "i": 59,
+  "madde": "8",
+  "metin": "MADDE 8- (1) Askerliğe elverişli olmadığı tespit edilen yükümlüler askere alınmazlar. Yoklama veya sevki esnasında askerlik şubesi geçici sağlık kurulları veya Sağlı Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarınca haklarında “Askerliğe Elverişli Değildir” kararı verilenler için ilgili hastane tarafından üç nüsha rapor tanzim edilir. Bu raporlar Milli Savunma Bakanlığının onayını müteaki kesinleşir ve bir nüshası yükümlüye verilir, bir nüshası hastane kayıtlarında muhafaza edilir ve bir nüshası da yükümlünün kayıtlı bulunduğu askerlik şubesine gönderilir,"
+ },
+ {
+  "i": 60,
+  "madde": "8",
+  "metin": "(2) Hastalıklarının tedavi ve nekahet hallerinde olması nedeniyle geçici olarak askerliğe elverişli olmayan yoklamaya tabi yükümlüler hakkında “Ertesi Yıla Bırakma”, sevke tabi olanlar hakkında “Sevk Geciktirmesi” kararı verilir ve düzenlenen rapor ilgili askerlik şubesine gönderilir."
+ },
+ {
+  "i": 63,
+  "madde": "9",
+  "metin": "MADDE 9- (1) Askerlik hizmetine alındıktan sonra hakkında “Askerliğe Elverişli Değildir” kararı verilen erbaş ve erler rapor tarihi itibarıyla terhis edilirler ve bunlar raporları onaylanıp kesinlik kazanıncaya kadar sıhhi izinli sayılır. Terhis işlemleri, raporlar ilgili makamlarca onaylandıktan sonra rapor tarihi esas alınarak askerlik şubesince yapılır. Haklarında “Askerliğe Elverişli Değildir” kararı verilenler için ilgili hastane tarafından dört nüsha rapor tanzim edilir. Bu raporlardan bir nüshası yükümlüyce verilir, bir nüshası hastane kayıtlarında muhafaza edilir, birer nüshası da yükümlünün kayıtlı bulunduğu askerlik şubesine ve birliğine gönderilir. TTaklarında “Askerliğe Elverişli Değildir” kararı verilenler, gerektiğinde Milli Savunma Bakanlığınca yeniden Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarına sevk edilerek düzenlenen son sağlık kurulu rapor kararına göre ilgili mevzuat gereğince işlem görürler."
+ },
+ {
+  "i": 73,
+  "madde": "14",
+  "metin": "MADDE 14- (1) Yoklamada, sevki esnasında ya da silâhaltında yapılan muayeneleri neticesinde haklarında aile hekimi veya tek tabip tarafından verilen sağlık raporlarına itiraz halinde, yükümlü, sağlık kurulu raporu aldırılmak üzere Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarına sevk edilir. Muayenesi neticesinde hakkında verilen sağlık kurulu kararına itirazı halinde ise konüol muayenesi için askerlik Şubesince o yerin en büyük mülki amirliğince belirlenecek en yakın başka bir sağlık kuruluna sevk edilir. İlk sağlık kurulu raporundaki karar ile kontrol muayenesi kararı arasında uyumsuzluk bulunmazsa karar kesinlik kazanır, uyumsuzluk halinde yükümlü rapor tanzim elmeye yetkili hakem hastaneye gönderilir ve bu muayene sonucuna göre hakkında işlem tesis edilir."
+ },
+ {
+  "i": 79,
+  "madde": "17",
+  "metin": "MADDE 17- (1) Hastalıklar Listesinde tam karşılığı bulunmayan sınır vakalarda ihtisas hastanelerince düzenlenen rapora göre işlem yapılır."
+ },
+ {
+  "i": 81,
+  "madde": "18",
+  "metin": "MADDE 18- (1) Geçici hastalıkları olan yükümlü, erbaş ve erler hakkında, hastalıkları geçinceye kadar veya sekel haline gelinceye kadar sevk geciktirmesi, ertesi yıla bırakma veya hava değişimi işlemi yapılır. Ertesi yıla bırakma, sevk geciktirmesi ve hava değişimi süreleri ilk işlem tarihinden itibaren üç yılı geçemez. Sabilleşmiş hastalıklarda üç yıllık süre beklenmeden Hastalıklar Listesine göre kesin işlem yapılır."
+ },
+ {
+  "i": 82,
+  "madde": "18",
+  "metin": "Yükümlü, erbaş ve erlerin sağlık yeteneğine göre sınıflandırılmaları veya branşlarının belirlenmesi"
+ },
+ {
+  "i": 84,
+  "madde": "19",
+  "metin": "a) İstihkâm ve Ulaştırma: Diskromatopsi bulunmamalıdır."
+ },
+ {
+  "i": 98,
+  "madde": "19",
+  "metin": "6) Denizaltı özel ihtisasına seçilecek erbaş ve erlerde bu Yönetmeliğin 55 inci maddesinde belirtilen sağlık yetenekleri, dalgıç (birinci sınıf dalgıç, SAT, SAS, mayın harbi dalgıcı) ve kurbağa adam özel ihtisaslarına seçilecek erbaş ve erlerde ise 5$ inci maddesinde belirtilen sağlık yetenekleri aranır."
+ },
+ {
+  "i": 102,
+  "madde": "19",
+  "metin": "Piyade: Hizmet sınıfına ayrılacaklar haricinde boyları 165 cım'den uzun olmalıdır. Ulaştırma: Sürücü olarak ayrılacaklar, sürücü adayları ve sürücülerde aranacak sağlık şartları ile muayenelerine ilişkin mevzuatta belirtilen kriterlere ilave olarak nörolojik ve psikiyatrik açıdan tam sağlam olmalıdır."
+ },
+ {
+  "i": 112,
+  "madde": "22",
+  "metin": "MADDE 22- (1) Yedek subay aday adayları, yedek subay adayları ve yedek subaylar sağlık yetenekleri bakımından aşağıdaki şekilde gruplandırılır."
+ },
+ {
+  "i": 120,
+  "madde": "23",
+  "metin": "MADDE 23- (1) Uzman erbaş, sözleşmeli erbaş ve er adaylarının sağlık muayeneleri Sağlık Bakanlığına bağlı engelli sağlık kurulu yaporu vermeye yetkili sağlık kuruluşlarında yapılır."
+ },
+ {
+  "i": 121,
+  "madde": "23",
+  "metin": "(2) Uzman erbaş, sözleşmeli erbaş ve er adaylarında hepatit B, hepatit C, HIV, yaygın sekelle iyileşmiş veya aktif tüberküloz ile kronikleşebilecek ya da zamanla ariabilecek nitelikte herhangi bir hastalık ve diskromatopsi bulunmamalı, tashihli görme tam olmalı ve bunlar ruh sağlığı ve hastalıkları açısından tam sağlam olmalıdır."
+ },
+ {
+  "i": 122,
+  "madde": "23",
+  "metin": "(3) İkinci fıkradaki şartları taşıması koşuluyla adaylar için tanzim edilen raporlarda, sağlam olanlar ile hastalığının Kara Kuvvetleri Komutanlığı"
+ },
+ {
+  "i": 123,
+  "madde": "23",
+  "metin": "(1) Numaralı Sınıflandırma Çizelgesinin piyade sınıfına ait “TĞM.-YZB.” sütunundaki karşılığı Hastalıklar Listesinin (A) diliminde (1) işareti olanlar hakkında “Uzman Erbaş veya Sözleşmeli Erbaş/Fr Olur” kararı, (A) diliminde (<) ve (x) işareti olanlar ile (8) ve (D) diliminde olanlar hakkında ise “Uzman Erbaş veya Sözleşmeli Erbaş/Er Olamaz” karan verilir."
+ },
+ {
+  "i": 124,
+  "madde": "23",
+  "metin": "(4) Adaylarda tespit edilen ikiden fazla hastalık sekelileri ayrı ayrı olarak Hastalıklar Listesinin (A) dilimleri kapsamında ve karşılıkları (1) işareti olduğu halde, bu hastalıkların birarada bulunması kişinin uzman erbaş veya sözleşmeli erbaş veya er görevini yapmasına engel olacak nitelikte ise bu kişi hakkında “Uzman Erbaş veya Sözleşmeli İ#rbaş/Er Olamaz” kararı verilir."
+ },
+ {
+  "i": 125,
+  "madde": "23",
+  "metin": "(5) Uzman erbaş, sözleşmeli erbaş ve er alımlarında boy ve ağırlık sınırları ile ilgili değerlendirmeler ck-A'da yer alan tablolara göre yapılır. Alumı yapacak komutanlıklar, ek-A'da yer alan tablolarda belirtilen alt sınırların daha aşağısında veya üst sınırların daha yukarısında olmamak kaydıyla, adaylarda arayacaklar boy ve ağırlık ali ve üst sınırlarını kendileri tespit edebilir (Sözleşmeli erbaş ve cr adaylarında ağırlık üst sınırı ek-A'da yer alan tablolardaki üst sınırdan 10 kg fazla olabilir.). Tespit edilen bu sınırlar broşürlerde yayımlanır."
+ },
+ {
+  "i": 126,
+  "madde": "23",
+  "metin": "(6) Uzman erbaş, sözleşmeli erbaş ve er adaylarına aşağıdaki İaboratuvar tetkikleri ve tadyolojik tetkikler yapılır."
+ },
+ {
+  "i": 127,
+  "madde": "23",
+  "metin": "a) Akciğer grafisi, direkt üriner sistem grafisi."
+ },
+ {
+  "i": 128,
+  "madde": "23",
+  "metin": "b) HBsAg, Anti-HCV, Anli-HIV."
+ },
+ {
+  "i": 129,
+  "madde": "23",
+  "metin": "c) Tam kan sayımı ve sedimantasyon."
+ },
+ {
+  "i": 130,
+  "madde": "23",
+  "metin": "ç) Tam idrar muayenesi,"
+ },
+ {
+  "i": 131,
+  "madde": "23",
+  "metin": "d) Kanda üre ve kreatinin, AST, ALT, ALP, bilirubinler, TSH, LDH, total kolesterol, trigliserit."
+ },
+ {
+  "i": 132,
+  "madde": "23",
+  "metin": "c) Açlık kan şekeri."
+ },
+ {
+  "i": 133,
+  "madde": "23",
+  "metin": "f) Ultrasonografi."
+ },
+ {
+  "i": 134,
+  "madde": "23",
+  "metin": "g) EKG, ekokardiografi,"
+ },
+ {
+  "i": 135,
+  "madde": "23",
+  "metin": "& Lüzum görülen diğer laboratuvar tetkikleri."
+ },
+ {
+  "i": 136,
+  "madde": "23",
+  "metin": "Komando, paraşüt, özel harekât, özel kuvvetler ve arama kurtarma, dalgıç (birinci sınıf dalgıç, SAT, SAS, mayın harbi dalgıcı) ve kurbağa adam özel ihtisasları ve kurtarma yüzücülüğü ile ilgili sağlık yetenekleri"
+ },
+ {
+  "i": 137,
+  "madde": "24",
+  "metin": "MADDE 24- (1) Uzman erbaş, sözleşmeli erbaş ve er adayları ile uzman erbaş, sözleşmeli erbaş ve erlerden komando, paraşüt, özel harekât, özel kuvvetler ve arama kurtarma özel ihüsasları ile kurtarma yüzücülüğüne seçilecekler veya bu görevlere devam edecekler tam sağlam olmalı veya hastalıkları, Hastalıklar Listesinin (A) diliminde bulunmalıdır. Ancak bunlardan;"
+ },
+ {
+  "i": 138,
+  "madde": "24",
+  "metin": "a) Göz hastalıklar: Hastalıklar Listesinin (A) dilimine giren ve -3 diyoptriyi aşan hipermetropi, miyopi ve eksenler arasındaki farkı 1 diyoptüyi aşan muhtelif cins estigmetizması olanlar,"
+ },
+ {
+  "i": 139,
+  "madde": "24",
+  "metin": "b) Astım hastalığı olanlar,"
+ },
+ {
+  "i": 140,
+  "madde": "24",
+  "metin": "c) Psikiyatrik hastalığı olanlar,"
+ },
+ {
+  "i": 141,
+  "madde": "24",
+  "metin": "ç) Hastalıkları, Hastalıklar Listesinin (A) dilimine girenlerden, bağlı bulunduğu Kuvvet Komutanlığı sınıflandırma çizelgesinin piyade sınıfına, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı (1) Numaralı Branş Belirleme Çizelgesinin Jandarma ve Sahil Güvenlik branşlarma âit “TĞM.-YZB.” rütbe sütununda karşılığı (-) veya (X) işareti bulunanlar, komando, paraşüt, özel harekât, özel kuvvetler ve arama kurtarma özel ihtisaslarına seçilemezler."
+ },
+ {
+  "i": 142,
+  "madde": "24",
+  "metin": "(2) Denizaltı özel ihtisasına seçilecek uzman erbaşlarda bu Yönetmeliğin 56 ncı, denizaltı özel ihtisaslı uzman erbaşlarda ise 57 nci maddesinde belirtilen sağlık yetenekleri aranır,"
+ },
+ {
+  "i": 143,
+  "madde": "24",
+  "metin": "(3) Dalgıç (birinci sınıf dalgıç, SAT, SAS, mayın harbi dalgıcı) ve kurbağa adam özel ihtisaslarına seçilecek uzman erbaşlarda bu Yönetmeliğin 54 üncü, dalgıç ve kurbağa adam özel ihtisaslı uzman erbaşlarda ise 55 inci maddesinde belirtilen sağlık yetenekleri aranır."
+ },
+ {
+  "i": 144,
+  "madde": "24",
+  "metin": "(4) Kurlarma yüzücüsü uzman erbaşlar üç yılda bir periyodik muayeneye fabi tutulur."
+ },
+ {
+  "i": 146,
+  "madde": "25",
+  "metin": "MADDE 25- (1) Sözleşme yenileme muayeneleri sırasında Hastalıklar Listesinin (A) dilimlerinde belirtilen rahatsızlıklara sahip olduğu tespit edilen uzman erbaşlar sınıfı veya branşı görevlerine devam eder. Sözleşmeli erbaş ve erler için, amirin gerekli gördükleri ile rahatsızlığını beyan edenler hariç, sözleşme yenileme muayenesine gerek yoktur. Muayene edilenlerden Hastalıklar Listesinin (A) dilimlerinde belirtilen rahatsızlıklara sahip olanlar sınıfı veya branşı görevlerine devamı eder."
+ },
+ {
+  "i": 153,
+  "madde": "28",
+  "metin": "MADDE 28- (1) Astsubay olmak için başvuranlar hakkında müracaat ettiği sınılın veya branşın astsubay çavuş ve astsubay üstçavuş rütbelerindeki sağlık yetenekleri aranır. Bu kararlar sağlık kurulu tarafından verilir."
+ },
+ {
+  "i": 158,
+  "madde": "30",
+  "metin": "MADDE 30- (1) Uzman jandarma çavuş ile uzman jandarma üçüncü kademeli çavuş rütbelerindeki uzman jandarmalarda, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı (1) Numaralı Branş Belirleme Çizelgesinde buluman Jandarma branşının astsubay çavuş ve asisubay üstçavuş; uzman jandarma dördüncü kademeli çavuş ve daha üst rütbedeki uzman jandarmalarda ise astsubay kıdemli üstçavuş ve astsubay kıdemli başçavuş rütbelerindeki astsubayların sağlık nitelikleri uygulanır. Ancak bunlardan söz konusu rütbelerde branşı görevini yapamayacak derecede hastalığı olup da Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı (2) Numaralı Branş Belirleme Çizelgesinde Personel, Maliye, İkmal ve Bakım branşlarında görev yapabilecek durumda bulunan uzman jandarmalar hakkında branş değişikliği işlemi yapılmayıp branşlarının geri hizmetlerinde veya karargâh ve kurumlarda görev yapma karar verilir. Belirtilen branşlarda da görev yapamayacak derecede hastalığı bulunanlar hakkında “Jandarma Genel Komutanlığında Görev Yapamaz” kararı verilir. Bu fikra gereğince branşları değiştiriimeyen uzman jandarmaların 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ve 5510 sayılı Kanun uyarınca malullük haklan saklıdır."
+ },
+ {
+  "i": 163,
+  "madde": "31",
+  "metin": "MADDE 31- (1) Vazıfenm sebep ve tesiriyle haklarında “Jandarma Genel"
+ },
+ {
+  "i": 170,
+  "madde": "32",
+  "metin": "MADDE 32- (1) Astsubay olmak için başvuran uzman jandarmalarda, jandarma asisubay çavuş ve jandarma astsubay üslçavuş rütbelerindeki sağlık yetenekleri aranır. Buna göre “Branşı Görevini Yapar” sağlık yeteneğine sahip olanlar hakkında “Astsubay Olur” kararlı, “Branşınm Uygun Kadro Görev Yerlerinde Görev Yapar” veya “Branşı Görevini Yapamaz” sağlık yeteneğine sahip olanlar hakkında “Astsubay Olamaz” kararlı sağlık kurulu raporu verilir."
+ },
+ {
+  "i": 175,
+  "madde": "34",
+  "metin": "MADDE 34- (1) Öğrenci ve adaylarının sağlık muayeneleri, Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarınca yapılır."
+ },
+ {
+  "i": 176,
+  "madde": "34",
+  "metin": "(2) Öğrencilerin uçucu sağlık kurulu muayeneleri uçucu ve dalgıç sınıf raporları vermeye yetkili hastaneler tarafmdan yapılır. Bu muayenclerde bu Yönetmeliğin 36 ncı maddesinde belirtilen tetkikler yapılır ve bunlar hakkında 64 üncü maddede yer alan hükümlere göre karar verilir."
+ },
+ {
+  "i": 179,
+  "madde": "35",
+  "metin": "(2) Öğrenci adaylarının boy ve ağırlık sınırları ile vücut kitle indeks değerleri ek-A?da yer alan tablolarda gösterilmiştir. Öğrenci alımı yapacak komutanlıklar, bu tablolarda belirtilen boy ve ağırlık sınırlarını broşürlerinde yayımlar. Kız öğrenci adayları için tabip lüzum gördüğünde pelvik ulhttasonografi ve laboratuvar muayenesi yapabilir. Hafif cilt lezyonları (depigmente nevüs, Becker nevüs, lokalize hipertrikoz, akne vulgaris, hiperhidroz), solunun sıkıntısı yapmayan nasal septum deviasyonları, hafif diş sıra bozuklukları ve hafif kulak şekil bozuklukları sağlam kabul edilir."
+ },
+ {
+  "i": 188,
+  "madde": "36",
+  "metin": "0) Ultrasonograli (tüm batın)."
+ },
+ {
+  "i": 189,
+  "madde": "36",
+  "metin": "g) EKG, ekokardiografi."
+ },
+ {
+  "i": 190,
+  "madde": "36",
+  "metin": "ö) Lüzum görülen diğer laboratuvar tetkikleri."
+ },
+ {
+  "i": 191,
+  "madde": "36",
+  "metin": "(2) Düzeltme ile her iki gözde görmeler ayrı ayrı tam olmak şartıyla | diyoptriye (1 dahil) kadar miyopi ve hipermetropi ile 90 derecelik iki eksen arasındaki kırılma kusuru farkı i diyoptriyi geçmeyen aslişmalizmalar öğrenciliğe engel değildir. Türk Silahlı Kuvvetleri, Jandarma Genc! Komutanlığı ve Sahil Güvenlik Komutanlığı adına diğer fakültelerde eğitim gören öğrenci adaylarında düzeltme ile her iki gözde görmeler ayrı ayrı tam olmak şartıyla 3 diyoptriye (3 dahil) kadar miyopi ve hipermetropi ile 90 derecelik iki eksen arasındaki kırılma kusuru farkı 3 diyoptriyi geçmeyen astigmatizmalar öğrenci adaylığına engel değildir."
+ },
+ {
+  "i": 196,
+  "madde": "38",
+  "metin": "MADDE 38- (1) Öğrencilere aynı ya da farklı hastalıklardan verilen sıhhi izin süresi, okulun normal öğrenim süresinin her üç yılı için toplamda bir yılı geçemez. Bu süre tüberküloz için iki yıldır. Öğrenci, sıhhi izin süresini doldurduğu ayın son haftasında hakkında kesin işlem yapılmak üzere sağlık muayenesine gönderilir ve hastalığı öğrenciliğe devamına engel ise hakkında kesin işlem yapılır. Psikiyatrik ve nörolojik muayenesi neticesinde silahlı görev yapamayacakları ya da tedavisi mümkün olmayan hastalıkları nedeniyle beden eğitimi ile askeri veya mesleki eğitim derslerine devamlı şekilde katılamayacakları (miyopatiler, diabet, kanser, atrofik böbrek ve benzeri) Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarınca tespit edilen öğrenciler hakkında “Öğrenciliğe Devam Edemez” kararlı sağlık kurulu raporu verilir. Bu öğrenciler sağlık izin süresi beklenilmeden okuldan çıkarılır."
+ },
+ {
+  "i": 197,
+  "madde": "38",
+  "metin": "(2) Herhangi bir sebeple yapılan muayene sonucunda öğrencinin sağlık yeteneği, Hastalıklar Listesinin (A) ve (B) dilimlerine uyuyorsa ve bunların (1) ve (2) Numaralı Sınıflandırma (o veya (Branş (Belirleme (o Çizelgelerinde (o bulunan o “TĞM/YZB. ASB.ÇV$JÜÇVŞ.” sütununda (4) işaretli uygun sınıflar veya branşlar varsa öğrenci okuldan çıkarılmaz, bu sınıflardan veya branşlardan birinde yetiştirilmek üzere öğrenimine devam eder. Öğrencinin sağlık yeteneği (A) veya (B) dilimine uyduğu halde (1) ve (2) Numaralı Sınıflandırma veya Branş Belirleme Çizelgelerinde uygun sınıflar veya branşlar yoksa veya üç ve daha fazla (B) dilimine uyan hastalık tespit edilirse veya sağlık yeteneği (D) dilimine uyuyorsa, sıhhi izin süresini doldurmasını beklemeksizin öğrenci hakkında “Öğrenciliğe Devam Edemez” kararı verilir."
+ },
+ {
+  "i": 207,
+  "madde": "41",
+  "metin": "a) Göz hastalıkları; Hastalıklar Listesinin (A) dilimine giren ve -3 diyoptriyi aşan hipermetropi, miyopi ve eksenler arasındaki farkı 1 diyopüiyi aşan muhtelif cins aslügmalizması olanlar,"
+ },
+ {
+  "i": 208,
+  "madde": "41",
+  "metin": "b) Astım hastalığı olanlar,"
+ },
+ {
+  "i": 214,
+  "madde": "42",
+  "metin": "(3) İstirahat sonucunda klinik olarak iyileştiği veya tam remisyon içinde olduğu saptanan kanser ya da kötü huylu tümör tarusı almış olan general, amiral, subay ve astsubaylar (uçucular dahil) hakkında, ilgili uzman tabibin gerekli gördüğü aralıklarla kontrol muayenesi yapılmak kaydıyla veya en fazla üç yıl izlendikten sonra yetkili sağlık teşkillerince kepdi sınıllarında veya branşlarında veya uygun görülecek diğer sınıflarda veya branşlarda görev yapma kararı venlir. Uçucular aşağıdaki küiterleri karşılaması koşuluyla kalegori-1 haricindeki hava araçlarında uçuculuk görevlerine devam ettirilir."
+ },
+ {
+  "i": 238,
+  "madde": "44",
+  "metin": "MADDE 44- (1) Komando, paraşütçü, özel kuvvetler veya özel harekât ve arama kurtarma özel ihtisasları ile kurtarma yüzücülüğüne seçilecek veya bu görevlere devam edecek subay ve astsubaylar tam sağlam olmalı veya hastalıkları, Hastalıklar Listesinin (A) diliminde bulunmalıdır. Ancak bunlardan;"
+ },
+ {
+  "i": 239,
+  "madde": "44",
+  "metin": "a) Göz hastalıkları; Hastalıklar Listesinin (A) dilimine giren ve -3 diyoptriyi aşan hipermetropi, miyopi ve eksenler arasındaki farkı | diyoptiyi aşan muhtelif cins astigmatizması olanlar,"
+ },
+ {
+  "i": 240,
+  "madde": "44",
+  "metin": "b) Astım hastalığı olanlar,"
+ },
+ {
+  "i": 241,
+  "madde": "44",
+  "metin": "c) Psikiyatrik hastalığı olanlar,"
+ },
+ {
+  "i": 242,
+  "madde": "44",
+  "metin": "ç) Kara Kuvvetleri Komutanlığı ve Hava Kuvvetleri Komutanlığı ile Jandarma Genet Komutanlığı ve Sahil Güvenlik Komutanlığı (1) Numaralı Sınıflandırma ve Branş Belirleme Çizelgelerinde hastalıkları, Hastalıklar Listesinin (A) dilimine girmesine rağmen ilgili kuvvetin piyade sınıfının Jandarma Genel Komutanlığı ve Sahi! Güvenlik Komutanlığında Jandarma veya Sahil Güvenlik branşının kendi rütbe sütununda karşılığında (-) veya (x) işareti bulunanlar, bu görevlere seçilemez ve görevlerine devam edemez."
+ },
+ {
+  "i": 243,
+  "madde": "44",
+  "metin": "(2) Yıllık zorunlu tazeleme atlayışlarına katılacak paraşütçü subay ve astsubaylar yönerge ile belirlenen esaslara göre her yıl birliklerinde birlik tabibi tarafından muayene ve kontrol edilir."
+ },
+ {
+  "i": 244,
+  "madde": "44",
+  "metin": "(3) Subay ve astsubaylara üç yılda bir yapılan periyodik muayenelerde, paraşütçü personelin paraşütle atlayıp atlayamayacağına da karar verilir ve bu karar periyodik muayene raporuna yazılır."
+ },
+ {
+  "i": 245,
+  "madde": "44",
+  "metin": "(4) Paraşütçü subay ve astsubaylardan paraşüt atlayışına iki yıl ve daha uzun süre ara vermiş olanlara, sağlık sebebiyle sınıf veya branş değişikliği raporu verilenlere, hastalık, ameliyat veya kaza geçirenlere ya da birlik tabibinin gerekli gördüğü personele paraşütle atlayışlarından önce yeniden yetkili sağlık kuruluşundan “Paraşütle Atlar” kararlı sağlık kurulu raporu aldırılır."
+ },
+ {
+  "i": 253,
+  "madde": "47",
+  "metin": "(2) Subay ve astsubaylardan yeniden göreve dönmek isteyenler bağlı bulunduğu Kuvvet Komutanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığına başvurur. . İlgili OKuvvet o Komutanlıklarınca göreve dönmesinin uygun olacağı değerlendirilenlerin dosyaları yetkili sağlık kuruluşuna sevk edilmek üzere Milli Savunma Bakanlığı Sağlık Dairesi Başkanlığına gönderilir. Jandarma Genel Komutanlığı veya Sahil"
+ },
+ {
+  "i": 254,
+  "madde": "47",
+  "metin": "Güvenlik Komutanlığınca göreve dönmesinin uygun olacağı değerlendirilenlerin dosyaları ise bu Komutanlıklarm ilgili birimleri tarafından yetkili sağlık kuruluşuna sevk edilir, Sevk yazısında bu kişilerin görevlendirilecekleri yerlerde çalışmaya uygun olup olmadığının tayin edilmesi istenir. Yetkili sağlık kuruluşundan bu kişiler hakkında “Belirtilen Görevleri Yapar” veya “Belirtilen Görevleri Yapamaz” şeklinde karar verilmesi ve kontrol muayenelerinin hangi aralıklarla yapılacağının belirtilmesi istenir. “Belirtilen Görevleri Yapar” kararı alanlar, raporları Sosyal Güvenlik Kurumunca onaylandıktan sonra ilgisine göre Milli Savunma Bâkanlığı veya İçişleri Bakanlığı onayını müteakip ilgili komulanlık tarafından uygun göreve atanır ve bu durum Sosyal Güvenlik Kurumuna bildirilir."
+ },
+ {
+  "i": 256,
+  "madde": "47",
+  "metin": "(4) Göreve dönen personel göreve devam edip elmeyeceğinin belirlenmesi için daha kısa bir süre belirtilmemişse üç yılda bir yetkili sağlık kuruluşuna kontrol muayenesi maksadıyla sevk edilir. Yapılan muayenesi sonucunda tekrar göreve başlayan subay ve astsubaylardan, belirtilen çalışma süresinin dörüe birinden daha fazla süre istirahat alanlar, tekrar kontrol muayenesine gönderilmez ve Türk Silahlı Kuvvetleri, Jandanma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı ile ilişiği kesilir."
+ },
+ {
+  "i": 263,
+  "madde": "48",
+  "metin": "d) Astsubayların subay olmak için başvurması (Bu adaylarda istihdam edileceği subay sınıfının veya branşınm teğmen-yüzbaşı rütbelerinin sağlık niteliklerini taşıma şartı aranır.)."
+ },
+ {
+  "i": 270,
+  "madde": "50",
+  "metin": "(2) Bu Yönetmeliğin 47 nci maddesi gereğince göreve devam edenlerden geçici veya sürekli görev, eğitim, kurs ve staj nedeniyle yurtdışına gönderilmek üzere seçilenler yetkili sağlık kuruluşularına sevk edilir. Yetkili sağlık kuruluşu tarafından, sevk yazısında özellikleri açıkça belirtilen görevleri yapıp yapamayacağı konusunda rapor verilir."
+ },
+ {
+  "i": 272,
+  "madde": "51",
+  "metin": "MADDE 51- (1) Kendisi ve bakmakla yükümlü olduğu aile fertlerinden birisinin tedaviyi gerektiren bir hastalığı tespit edilen subay ve astsubaylar atamaya esas sağlık raporu almak için müracaat edebilir. Acil durumlar hariç olmak üzere seferberliğe hazırlık döneminde ve seferberlik sırasındaki atamaya esas sağlık raporu müracaatları kabul edilmez."
+ },
+ {
+  "i": 273,
+  "madde": "51",
+  "metin": "(2) Bir alama dönemi içerisinde aynı tanı ile ancak bir kez atamaya esas sağlık raporu verilebilir. Ancak, çeşitli nedenlerle atama dönemi içerisinde aynı yetkili sağlık kuruluşu veya bir başka yetkili sağlık kuruluşu tarafından ikinci rapor düzenlenmiş ve iki rapor arasında tamı ve karar bakımından farklılık mevcut ise ilgili mevzuat hükümleri uygulanır."
+ },
+ {
+  "i": 274,
+  "madde": "51",
+  "metin": "(3) Tıpta ve Diş Hekimliğinde Uzmanlık Liğitimi Yönetmeliğine göre yan dal branşı olarak kabul edilmeyen branşlar için atamaya csas sağlık raporu düzenlenemez."
+ },
+ {
+  "i": 275,
+  "madde": "51",
+  "metin": "(4) Atamaya esas sağlık raporunun karar hanesinde “Hayati Öneme Haizdir” ibaresi, ilgili personelin atamasının derhal yapılması gereken durumlarda kullanılır. Ayrıca bu ibarenin rutin olarak kullanıldığı devamlı ilaç raporları, özel eğilim raporları ve benzeri raporlar ile atamaya esas sağlık raporları aynı raporda birlikte düzenlenemez."
+ },
+ {
+  "i": 276,
+  "madde": "51",
+  "metin": "(5) Atamaya esas sağlık raporlarının karar hanesinde *,...... Sürede Takip ve Kontrolü Gereklidir” veya “İlgili Uzman ve/veya Sağlık Merkezinin Bulunduğu Yerde İkameti Uygundur” kararı bulunan raporlar personelin atanmasında dikkate alınır. Takip sürelerinin belirlenmesinde, aynı hastalık için bilimsel olarak. kabul edilmiş standart süreler öngörülür, Aynı hastalık olmasına rağmen, farklı sürelerle takibi gereken ve özellik arz eden durumlar rapor içeriğinde belirtilir,"
+ },
+ {
+  "i": 277,
+  "madde": "51",
+  "metin": "(6) Atamaya esas sağlık raporlarının karar hanelerinde hastalığın gerektirdiği mevzuata uygun iklim ya da çalışma şartları, branş, özel eğitim merkezi ya da İaborutuvar imkânları belirtilir, garnizon ya da hizmet bölgesi veya hastane adı belirtilmez."
+ },
+ {
+  "i": 278,
+  "madde": "51",
+  "metin": "(7) Atamaya csas sağlık raporu düzenlenmesinde, raporu düzenleyen uzman tabip ancak kendi uzmanlık dalı ile ilgili branşları karar hanesinde belirtebilir. Diğer branşlardan uzman tabiplerin ya da laboratuvar branşlarının bulunması öngörülüyor ise mutlaka ilgili branştan sağlık kurulu muayene fişi yazılmak suretiyle görüş alını, Ana dalların uzman tabipleri, bu ana dala ait yan dalların uzman tabiplerinin görüşü olmadan subay ve asisubayların herhangi bir yan dal uzman tabibinin bulunduğu gamizonlara ya da hizmet bölgelerine atanmasının uygun olduğunu karar hanesine yazamaz."
+ },
+ {
+  "i": 279,
+  "madde": "51",
+  "metin": "(8) Hastalığın niteliğine göre subay ve astsubayların hangi uzman tabiplerin bulunduğu garmmizonlarda ya da hizmet bölgelerinde görev yapacağı ya da ikamet edeceği belirlenirken, aynı rahatsızlık için bulunması öngörülen uzman tabiplerin aynı olmasına dikkat edilir. Durumu özellik arz eden hastaların konu ile ilgili ayrıntılı değerlendirmesi rapor içeriğinde belirtilir."
+ },
+ {
+  "i": 280,
+  "madde": "51",
+  "metin": "YEDİNCİ BÖLÜM ği Deniz Kuvvetleri Komutanlığı ve Sahil Güvenlik Komutanlığına Ait Özel Hükümler"
+ },
+ {
+  "i": 281,
+  "madde": "51",
+  "metin": "Deniz Kuvvetleri Komutanlığı ve Sahil Güvenlik Komutanlığında görev yapanlar hakkında yapılacak işlemler"
+ },
+ {
+  "i": 282,
+  "madde": "52",
+  "metin": "MADDE 52- (1) Denizde görev yapmaya engel hastalığı tespit edilen veya hastalığının deniz şartlarından olumsuz etkileneceği değerlendirilen subay ve aslsubaylar, sağlık kurulu kararıyla deniz görevlerinden geçici olarak alınır. Düzenlenen raporlarda denizde görev yapmasına engel olan bilimsel gerekçeler belirtilir. Bu personel hakkında, Deniz Kuvvetleri Komutanlığı ve Sahil Güvenlik Komutanlığı birliklerinin kıyı teşkillerinde geçici olarak en çok iki yıl (ruh sağlığı ve hastalıkları için en çok bir yıl) süreyle “Denizin Kıyı Teşkillerinde Görev Yapması Uygundur” kararlı sağlık kurulu raporu düzenlenir. Bunlar süre sonunda yeniden sağlık kurulu muayenesine gönderilir ve alacakları raporlara göre haklarında kesin işlem yapılır."
+ },
+ {
+  "i": 298,
+  "madde": "55",
+  "metin": "a) Ruh sağlığı: Ruhsal fonksiyonları ve sinir sistemleri tam sağlam olmalıdır."
+ },
+ {
+  "i": 300,
+  "madde": "55",
+  "metin": "c) Kulak burun boğaz: Subay ve astsubaylara ön sinüslerin radyografik muayenesi yapılır. Personelde kronik ve sık nüks eden sinüzit, atrofik rinit ve nefes almaya engel olan ve ıbbi veya cerrahi tedavi ile giderilemeyen üst solunum yolu hastalığı bulunmamalıdır. Kronik dış, orta ve iç kulak hastalıkları ve kulak zarı perforasyonu bulunmamalıdır. Hastalıklar Listesinin 21 inci maddesinin (A) diliminin (1), (2), (3) ve (4) numaralı fıkraları kapsamında herhangi bir hastalığı bulunanlar denizaltıcılığa devam edemez. Her iki kulağın işitme kuvveti birbirine yakın olmalıdır. Denizaltı özel ihtisaslı subay ve astsubaylar beş yılda bir, daha önceki muayenelerinde işitme kaybı bulunan subay ve astsubaylar ise her periyodik muayenede odiomeirik incelemeye tabi tutulur. Denizalıu gemilerinde görevli Sonar astsubaylarında, bir kulağın sağlam olması durumunda (0-25 dB arası), diğer kulağın işitme kaybı 40 dB; aşmamalıdır."
+ },
+ {
+  "i": 307,
+  "madde": "55",
+  "metin": "o"
+ },
+ {
+  "i": 308,
+  "madde": "55",
+  "metin": "h) Boy ve ağırlık: Hastalıklar Listesinin 32 nci maddesinde yer alan Boya Göre Standart Ağırlık Çizelgesinde belirlenen alt sınırın ?010*undan az. ve ösl sınırın 420'sinden fazla olamaz."
+ },
+ {
+  "i": 313,
+  "madde": "56",
+  "metin": "Dalgıç (birinci suuf dalgıç, sualtı taarruz, sualtı savunma, maym harbi dalgıcı) ve kurbağa adam özel ihtisas adayı ile dalış tabibi ve basınç odası operatörü adaylarının sağlık yetenekleri"
+ },
+ {
+  "i": 317,
+  "madde": "57",
+  "metin": "Dalgıç (birinci smıf dalgıç, sualtı taarruz, sualü savunma, mayın harbi dalgıcı) ve kurbağa adam özel ihtisaslı personelin periyodik muayeneleri"
+ },
+ {
+  "i": 322,
+  "madde": "58",
+  "metin": "ç) İç hastalıkları: Hastalıklar Listesinin 35 inci ve 37 nci maddelerinin (A) dilimi kapsamında tedavi görenler iki yıla kadar dalıştan alıkonulabilir, Bu süre içerisinde idame tedavisi tamamlananlar dalış görevine döner. Aksi durumda bu Yönetmeliğin diğer hükümlerine göre karar verilir. Sistolik arteriyel kan basıncı 150 mmHg, diyastolik kan basıncı 90 mmHg'nin üzerinde bulunmamalıdır, Aritmi, kalp kapak hastalıkları ve kalp damar hastalıkları bulunmamalıdır. Dalgıç ve kurbağa adam özel ihtisaslı subay ve astsubaylara her beş yılda bir transtorasik ekokardiografi yapılır. Hastalıklar Listesinin 42 nci maddesinin (B) ve (D) dilimlerine giren hastalıkların bulunması dalışa engeldir. Aynı maddenin (A) diliminin"
+ },
+ {
+  "i": 323,
+  "madde": "58",
+  "metin": "(2) numaralı fıkrası kapsamında tamı alanlar bir yıla. kadar dalıştan alıkonulabilir. Bu süre içerisinde tedavisi tamamlananlar görevlerine döner. Aksi halde bu Yönetmeliğin diğer hükümlerine göre karar verilir."
+ },
+ {
+  "i": 324,
+  "madde": "58",
+  "metin": "d) Gastroenteroloji: Hastalıklar Listesinin 45 inci maddesinin (A) diliminin (12) numaralı fikrası kapsamında tanı alanlar dalıştan alıkonulur. Tedavileri sonrası durumu düzelenler dalgıç ve kurbağa adam özel ihtisaslarına devam edebilir,"
+ },
+ {
+  "i": 334,
+  "madde": "60",
+  "metin": "MADDE 60- (1) Kırk yaş ve üstü dalgıç ve kurbağa adam özel ihtisaslı subay ve astsubaylar dolaşım, solunum, sindirim, göz, kulak burun boğaz ve nörolojik hastalıklar ile ruh sağlığı ve hastalıkları açısından muayene edilir. Yaşa bağlı gelişen fizyolojik değişiklikler gözönüne alınarak mutlak dalış kontrendikasyonu yaratmayan durumlarda personelin dalışa devamı uygun görülebilir."
+ },
+ {
+  "i": 335,
+  "madde": "60",
+  "metin": "Denizaltı, dalgıç (birinci sınıf dalgıç, SAT, SAS, mayın harbi dalgıcı) ve kurbağa adam özel ihtisaslı personel ile dalış tabibi ve basınç odası operatörü personelin periyodik muayeneleri, aday muayeneleri ve itiraz muayenelerinin yapılacağı yerler"
+ },
+ {
+  "i": 345,
+  "madde": "63",
+  "metin": "ç) Kâtegori-3 hava aracı: Aksclerasyon (G) kuvvetleri kapasitesi düşük olup, yüksek ve alçak irtifada manevra kapasitesi sınırlı olan düşük performanslı hava araçlarıdır (Örnek; C-130, CN-235, ATR-72, TB-20, S-70B Seahawk, AB-212, KC-I135R, E-7T ve benzeri),"
+ },
+ {
+  "i": 348,
+  "madde": "64",
+  "metin": "MADDE 64- (1) Hava Harp Okulu eğitimi sonrasında pilot adaylığına ayrılacaklar ile Hava Kuvvetleri Komutanlığı uçuş okulunda eğitime başlayacak Deniz Kuvvetleri Komutanlığı, Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığı uçucu adaylarında tam sağlam olma şartı aranmaz. Uçucu adayları hakkında başlangıç uçuş eğitimi ve temel uçuş eğitimi birinci safha öncesi ve süresince Hava Kuvvetleri Komutanlığı (1) Numaralı Sınıflandırma Çizelgesindeki kategori-| hava aracı uçucularının sağlık yetenekleri ile ilgili hükümler uygulanır. Adayın sağlık yeteneklerinin kategori-1 hava aracı uçucularının sağlık yeteneklerini karşılamadığı durumlarda kategori-2 veya kategori-3 hava aracı pilotuna ilişkin sağlık yetenekleri hükümleri uygulanır ve aday uçuşa elverişli kabul edilir."
+ },
+ {
+  "i": 349,
+  "madde": "64",
+  "metin": "(2) Temel uçuş eğitimi ikinci safha ve tekâmül uçuş eğitimi süresince uçuculara, uçulan uçak tipinin, sınıflandırma çizelgesinde karşılığı olan hava aracı kategorisindeki sağlık yetenekleri ile ilgili hükümler uygulanır. Ancak sağlık yeteneklerinin azaldığı durumlarda uçucunun mevcut sağlık durumuna göre (uçluğu hava aracı kategorisi değiştirilmek üzere) kalegori-2 hava aracı veya kalegori-3 hava aracı pilotuna ilişkin sağlık yetenekleri hükümleri uygulanır."
+ },
+ {
+  "i": 350,
+  "madde": "64",
+  "metin": "(3) Kara Kuvvetleri Komutanlığı uçucu adayları ile Kara Kuvvetleri Komutanlığında eğilim alacak Deniz Kuvvetleri Komutanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı uçucu adayları hakkında Hava Kuvvetleri Komulanlığı (1) Numaralı Sınıflandırma Çizelgesindeki kategori-2 ve kategori-3 hava aracı uçucularının sağlık yetenekleri ile ilgili hükümler uygulanır."
+ },
+ {
+  "i": 351,
+  "madde": "64",
+  "metin": "(9) Uçucu adayları uçuculuk sağlık yeteneğini kaybettiğinde, haklarında hava sağlık ve muayene merkezleri tarafından “Uçucu Yetiştirilmeye Elverişli Değildir” kararı verilir ve"
+ },
+ {
+  "i": 352,
+  "madde": "64",
+  "metin": "(1) ve (2) Numaralı Sınıflandırma Çizelgelerine göre işlem yapılır."
+ },
+ {
+  "i": 353,
+  "madde": "64",
+  "metin": "(5) İlk defa uçuşa başlayacak uçuş ekibi adaylarının muayenelerinde, Hava Kuvvetleri Komutanlığı (1) Numaralı Sınıflandırma Çizelgesindeki seyrüsefer sınıfı personelinin sağlık yetenekleri uygulanır."
+ },
+ {
+  "i": 358,
+  "madde": "65",
+  "metin": "2) Uçucu personelin dört yıllık periyodik kontrol muayeneleri Eskişehir Yunus Emre Devlet Hastanesi 2 Eylül Hizmet Binasında, fizyolojik eğitimleri ise Uçucu Sağlığı Araştırma ve Eğitim Merkezinde yönerge ile belirlenen esaslara göre yapılır. Fizyolojik eğitimlerini tamamlamış olanlara fizyolojik eğitim kartı verilir."
+ },
+ {
+  "i": 363,
+  "madde": "65",
+  "metin": ") Herhangi bir nedenle bulunduğu kategorinin sağlık yeteneğini karşılayamadığı tespit edilen uçucunun, uçtuğu hava aracı kategorisi değiştirilmek üzere kategori-2 veya kategori-3 hava aracı pilotu ya da kalegor-4 uçuş sağlık yeteneklerini karşılayıp karşılamadığına bakılır."
+ },
+ {
+  "i": 380,
+  "madde": "67",
+  "metin": "(1) ve (2) Numaralı Branş Belirleme Çizelgesinde (1) İşaretli Branşlarda Yeniden Branşının Belirlenmesi Uygundur” kararları verilir. Daha düşük performanslı hava araçlarında risk oluşturmayacak hastalıkların bulunması halinde raporun karar hanesinde uçuşa elverişli olduğu hava aracı kategorisi belirtilir."
+ },
+ {
+  "i": 398,
+  "madde": "67",
+  "metin": "2) Görme fonksiyonunu bozmayan, irritasyon yapmayan, ilerleme göstermeyen, Ubbi ve cerrahi tedavi ile iyileşmiş kirpik ve kapak hastalıkları olmayanlar."
+ },
+ {
+  "i": 399,
+  "madde": "67",
+  "metin": "3) Görme keskinliğini bozmayan, ilerleme göstermeyen komca, konjonktiva hastalıkları ve sekelleri olmayanlar."
+ },
+ {
+  "i": 400,
+  "madde": "67",
+  "metin": "4) Tıbbi ve cerrahi tedavi ile iyileşmiş gözyaşı sistemi hastalıkları olmayanlar."
+ },
+ {
+  "i": 401,
+  "madde": "67",
+  "metin": "5) Binoküler görmeyi ve derinlik hissini bozmayan, 10 prizma dereceyi geçmeyen esoforyalar, 6 prizma dereceyi geçmeyen ekzoloryalar, 1,5 prizma dereceyi geçmeyen hiperloryalar, mikrotopiya da dahil olmak üzere heterotropiyası olmayanlar, ekstraoküler kas cerrahi geçirenlerde rezidüel heteroforya, heterotropi (mikrotopiya dahil) ve motor duyu problemi olmayanlar."
+ },
+ {
+  "i": 403,
+  "madde": "67",
+  "metin": "7) Her iki gözün görmeleri düzeltmeden sonra ayrı ayrı 20/20 (10/10) olmak şartıyla *3.00 diyoptri (dahil) hipermetropi, -2.00 diyoptri (dahil) miyopi ve diyoptrisi en fazla olan eksendeki refraksiyon bozukluğu 12.00 diyoplri veya -2.00 diyoptriyi geçmeyen çeşitli astigmatizmalar |Kategori-2 ve kategori-3 hava aracı pilotları ile seyrüsefer sınıfı için -3.00 diyoptri (dahil) miyopi ve *3.00 diyoptri veya -3.00 diyoptriyi geçmeyen çeşitli astigmatizmalar; kategori-4 uçuş için ise -4.00 diyoptriyi geçmeyen miyopi ve #/-4.00 çeşitli astigmatizmalar elverişli kabul edilir.)."
+ },
+ {
+  "i": 404,
+  "madde": "67",
+  "metin": "8) Tashihli görmesi 10/10 (20/20)'den aşağı olmayan */-4.00 diyoplriyi geçmeyen miyopi, hipermetropi ya da yüksek eksende */-4.00 çeşitli asligmatik kusuru olan ve başka bir göz hastalığı olmayan uçucu personelden kendi talebi ve uçucu ve dalgıç sınıfı raporları vermeye yetkili hastane kararıyla, bu hastane tarafından uygun görülecek yöntemle (PRK, LASEK veya LASİK) ameliyat olup, yeterli süre (en az 3 ay) takipten sonra görme kaybı ve komplikasyon gelişmemiş olanlar."
+ },
+ {
+  "i": 458,
+  "madde": "67",
+  "metin": "1) Hastalıklar Listesinin 16 ncı maddesinin (A) diliminin (2) veya"
+ },
+ {
+  "i": 466,
+  "madde": "67",
+  "metin": "h) Boy, ağırlık ve vücut yapısı: Uçucu personel ile uçucu olarak yetiştirileceklerin vücut kitle indeksleri 19 kg/m? ila 29 kg/m? (19 kg/m? ve 29 kg/m? dahil) olmalıdır. Bu personelin boyu ise 165 cm ila 190 cm (165 em ve 190 em dahil) olmalıdır. Vücut kitle indeksi 29 kg/m” ila 33 kg/m? (29 kg/m? ve 33 kg/m? dahil) olanlar kategori-4 uçuşu için elverişlidir."
+ },
+ {
+  "i": 478,
+  "madde": "70",
+  "metin": "MADDE 70- (1) Hidrazin, korozyon, akü şarj, yakıt sistemi ve uçak yıkama gibi görevleri yapan porsonel göreve ilk başladıklarında ve yılda bir kez ilgili yönergelerde belirlen tetkiklerin yapılabildiği en yakın Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşunda muayeneye tabi tutulur. Bunların sağlık yetenekleri ilgili yönergede gösterilir."
+ },
+ {
+  "i": 481,
+  "madde": "71",
+  "metin": "MADDE 71- (1) Dış kaynaklan alınan subay ve astsubay adaylarının muayeneleri Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarında yapılır."
+ },
+ {
+  "i": 482,
+  "madde": "71",
+  "metin": "(2) Adaylarda hepatit B, hepatit C, HIV, yaygın sekelle iyileşmiş veya aktif tüberküloz ile kronikleşebilecek ya da zamanla arta diskromatopsi bulunmamalı, bunlar ruh sağlığı"
+ },
+ {
+  "i": 483,
+  "madde": "71",
+  "metin": "(3) İkinci fıkrada yer alan şartları taş raporlarda sağlam olanlar ile hastalığının bilecek nitelikte herhangi bir hastalık ve ve hastalıkları açısından tam sağlam olmalıdır. ması koşuluyla adaylar için tanzim edilecek Kara Kuvvetleri Komutanlığı (1) Numaralı"
+ },
+ {
+  "i": 484,
+  "madde": "71",
+  "metin": "Sınıflandırma Çizelgesinin piyade sınıfına ail “İĞM.-YZB.” sütunundaki karşılığı"
+ },
+ {
+  "i": 485,
+  "madde": "71",
+  "metin": "(A) diliminde (4) işareti olanlar hakkında * kararı, (A) diliminde (-) ve (x) işareti olanlar “Sözleşm birlikte | yapılmak üzere ertelenir."
+ },
+ {
+  "i": 486,
+  "madde": "71",
+  "metin": "(4) Dış ka ağırlık $ yapacak"
+ },
+ {
+  "i": 487,
+  "madde": "71",
+  "metin": "Komutan"
+ },
+ {
+  "i": 488,
+  "madde": "71",
+  "metin": "“Sözleşmeli/Muvazzaf Subay/Astsubay Olur” ile (B) ve (9) diliminde olanlar hakkında ise eli/Muvazzaf Subay/Astsubay Olamaz” kararı verilir. Bu özellikleri haiz olmakla amile olanların muayeneleri, hamilelik sonlandıktan sonra doksan gün içerisinde ynaktan sözleşmeli veya muvazzaf subay ve astsubay alımlarında boy ve nırları ile ilgili değerlendirmeler ek-A'da yer alan tablolara göre yapılır. Alımı ıklar ek-A'da yer alan tablolarda belirtilen alt sınırın daha aşağısında veya üst sınırın daha yukarısında olmamak kaydıyla, adaylarda arayacakları boy ve ağırlık ali ve üst sınırlarını tespit edebilir. Tespit edilen sınırlar broşürlerde yayımlanır."
+ },
+ {
+  "i": 492,
+  "madde": "73",
+  "metin": "MADDE 73- (1) Muvazzaf olmak üzeve başvuran sözleşmeli subay ve astsubaylara, ruh sağlığı ve hastalıkları açısından tam sağlam olmaları şartıyla geçmek istedikleri muvazzal subay ve astsubay rütbelerinin sağlık yetenekleri aranır, Buna göre sınıfı veya branşı görevini yapacak sağlık yeteneklerine sahip olanlar hakkında “Muvazzaf Subay/Astsubay Olur” kararlı sağlık kurulu raporu verilir, “Sınıfının veya Branşının Uygun Kadro Görev Yerlerinde Görev Yapar” veya “Sınıfi veya Branşı Görevini Yapamaz” kararlı vapor verilenler hakkında “Muvazzaf Subay/Astsubay Olamaz” kararı verilir,"
+ },
+ {
+  "i": 497,
+  "madde": "74",
+  "metin": "MADDE DİLİM FIKRA | SİLAH TAŞIMA VE SİLAHLI | GÖREV YAPMA DURUMU B. I ği A 12,3 | B 1 Silah Taşıyabilir/Silahlı Görev Yapabilir A 12.3 | 18 A . 1,2,3,4 15 CD | i 16 o CB - 17 B |, 2 Silah Taşıyamaz/Silahlı Görev Yapamaz i 17. C.D in , 8 B i 1 18 GDO: |"
+ },
+ {
+  "i": 505,
+  "madde": "75",
+  "metin": "MADDE 75- (1) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığından ayrılarak yedekliğe geçmiş bulunanlardan sefer görev emri verilenler, sağlık durumlarının tespitini istediklerinde, Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşuna Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığından ayrıldıkları rütbeleri belirtilerek sevk edilir. Haklarında verilen sağlık kurulu raporlarında, bu Yönetmeliğin ilgili hükümlerine göre Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığından ayrıldıkları sınıf veya branş ve rütbenin sağlık yeteneklerini taşıdıkları tespit edilenlere (Sınıfı veya Branşı Görevini Yapar” kararı venlenler) sefer görev emri verilir. Sağlık kurulu tarafından haklarında “Sınıfı veya Branşı Görevini Yapamaz”, “Sınıfının veya Branşının Uygun Kadro Görev Yerlerinde Görev Yapar”, “Türk Silahlı Kuvvetlerinde Görev Yapamaz”, “Jandarma Genel Komutanlığında Görev Yapamaz” veya “Sahil Güvenlik Komutanlığında Görev Yapamaz” kararı verilenlere sefer görev emxi verilmez."
+ },
+ {
+  "i": 508,
+  "madde": "76",
+  "metin": "MADDE 76- (1) Açıktan veya naklen atanacak sivil personelde hepatit B, hepatit C, HIV, yaygın sekelle iyileşmiş veya aktif tüberküloz ile kronikleşebilecek ya da zamanla artabilecek nitelikte herhangi bir hastalık ve diskromatopsi bulunmamalı, bunlar ruh sağlığı ve hastalıkları açısından tam sağlam olmalıdır. Bunların refraksiyon değerleri Hastalıklar Listesinin (A) dilimi sınırlarını geçmemek şartıyla tashihli görmeleri tam olmalıdır."
+ },
+ {
+  "i": 509,
+  "madde": "76",
+  "metin": "(2) Birinci fıkrada belirtilen şartları taşıyan sivil personelin sağlık yetenekleri Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşunca Hastalıklar Listesinin ilgili maddeleri çerçevesinde belirlenir. Sivil personelin rapor kararları; personel fikir ağırlıklı işlerde görev yapacaksa Kara Kuvvetleri Komutanlığı (2) Numaralı Sınıflandırma Çizelgesinde Personel sınıfının “TĞM/YZB.” sütununa göre, beden ağırlıklı işlerde görev yapacaksa aynı Çizelgenin Bakım sınıfının Teknisyen branşının “TĞM./YZB.» sütununa göre değerlendirilir. Buna göre sağlam olanlar ile hastalığının karşılığı (A) ve (B) dilimlerinde (*) işareti olanlar göreve alınır, (B) diliminde (-) ve (x) işareti olanlar ile (D) dilimine girenler göreve alınmaz."
+ },
+ {
+  "i": 510,
+  "madde": "76",
+  "metin": "(3) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı veya Sahi! Güvenlik Komutanlığına alınacak engelli sivil personelde, engelli raporu verilmesine esas teşkil eden hastalıklar, ruh sağlığı ve hastalıkları hariç, rapor kararlarında dikkate alınmaz. Bunların dışındaki hastalıklar hakkında birinci ve ikinci fıkra hükümleri uygulanır,"
+ },
+ {
+  "i": 511,
+  "madde": "76",
+  "metin": "(4) Sivil personel adaylarının hamile olmaları durumunda sağlık muayeneleri, hamilelik sonlandıktan sonra doksan gün içerisinde yapılmak üzere ertelenir,"
+ },
+ {
+  "i": 513,
+  "madde": "77",
+  "metin": "MADDE 77- (1) Sivil personel hastalıkları nedeniyle ilgili mevzuatta belirtilen süreler kadar sıhhi izin kullanır. Sıhhi izin süresi sonunda veya sabitleşmiş olan hastalıklarda sıhhi izin süresi bitimini beklemeden muayeneye gönderilir. Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarınca, bu personelin Devlet memurluğuna devam cdip etmeyeceğine karar verilir, Rapor kararları, personel fikir ağırlıklı işlerde görev yapıyorsa Kara Kuvvetleri Komutanlığı (2) Numaralı Sınıflandırma Çizelgesinde Persone sınıfının üstsubay sütununa göre, beden ağulıkdı işlerde görev yapıyorsa aynı Çizelgenin Bakım sınıfının teknisyen branşının üstsubay sütununa göre değerlendirilir. Buna göre hastalığı, Hastalıklar Listesinin (B) ve (D) dilimlerine girenlerden sınıflandırma çizelgelerindeki karşılığı (4) işaretli olanlar hakkında “Göreve Devam Eder”, (9) ve (x) işaretli olanlar hakkında ise “Göreve Devam demez” kararı verilir."
+ },
+ {
+  "i": 514,
+  "madde": "77",
+  "metin": "(2) İstirahatı sonunda klinik olarak iyileştiği veya tam remisyon içinde olduğu saptanan kanser ya da kötü huylu tümör tanısı almış olan sivil personelden göreve devam elmek isteyenler hakkında, ilgili uzman tabibin gerekli gördüğü aralıklarla kontrol muayenesi yapılmak kaydıyla veya belirli bir süre izlendikten sonra sağlık kurullarınca kendi görevlerinde veya uygun görülecek diğer görevlerde “Göreve Devam Eder” kararı verilir."
+ },
+ {
+  "i": 515,
+  "madde": "77",
+  "metin": "(3) Bu Yönetmeliğin 76 ncı maddesinin üçüncü fıkrasına göre engelli olarak göreve alınan personel hakkında sonradan başka bir hastalığa yakalanmaları halinde bu madde hükümleri uygulanır."
+ },
+ {
+  "i": 519,
+  "madde": "79",
+  "metin": "MADDE 79- (1) Yurtdışına gönderilecek sivil personel hakkında fikir ağırlıklı işlerde görev yapacaksa Kara Kuvvetleri Komutanlığı (2) Numaralı Sınıflandırma Çizelgesinde Personel sınıfının “GM /Y7B.” sütununa göre, beden ağırlıklı işlerde görev yapacaksa aynı Çizelgenin Bakım sınıfının teknisyen branşının “TĞM./YZB.” sütununa göre işlem yapılır."
+ },
+ {
+  "i": 522,
+  "madde": "80",
+  "metin": "ONİKİNCİ BÖLÜM Çeşitli ve Son Hükümler"
+ },
+ {
+  "i": 523,
+  "madde": "80",
+  "metin": "Rapor kararlarına yapılacak itirazlar ile ihbar ve kontrol muayeneleri"
+ },
+ {
+  "i": 524,
+  "madde": "80",
+  "metin": "MADDE $1- (1) Rapor kararlarına yapılacak itirazlar ile ihbar ve konrol muayenelerine ilişkin işlemler 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Karat ile yürürlüğe konulan Yataklı Tedavi Kurumları İşleime Yönetmeliği hükümlerine göre yürütülür."
+ },
+ {
+  "i": 525,
+  "madde": "80",
+  "metin": "(2) Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarınca verilen raporlara tebliğ tarihinden itibaren otuz gün içinde, bu kuruluşlarca temin sürecinde bulunan adaylara ilişkin vetilen raporlara ise tebliğ tarihinden itibaren üç işgünü içinde itiraz edilebilir."
+ },
+ {
+  "i": 526,
+  "madde": "80",
+  "metin": "Raporların onayı"
+ },
+ {
+  "i": 527,
+  "madde": "80",
+  "metin": "MADDE $62- (1) Sağlık kurulu raporları, düzenleyen hastanelerin baştabiplikderi tarafından onaylanır. Onaylanmayan raporlar kesinlik kazanmaz ve bu raporlar uyarınca, sıhhi izinli sayılma halleri hariç, herhangi bir işlem yapılamaz. Yoklama döneminde düzenlenen her türlü sağlık kurulu raporu, Miili Savunma Bakanlığının onayını müteakip kesinleşir. Diğer raporlardan Kuvvet Komutanlıklarına ait olanlar Milli Savunma Bakanlığı Sağlık Dairesi Başkanlığma, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına ait olanlar bu Komutanlıklara Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşları ve uçucu ve dalgıç sınıfı raporları vermeye yetkili sağlık kuruluşlarınca gönderilir, Raporlar Milli Savunma Bakanlığı Sağlık Dairesi Başkanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından bu Yönetmeliğe uygunluk açısından incelenir. Bu inceleme sonuçlanmadan raporlar geçerlik kazanmaz."
+ },
+ {
+  "i": 530,
+  "madde": "83",
+  "metin": "(2) Kesinleşen sağlık kurulu raporlar ve bu raporlar gereğince tesis edilen işlemler aleyhine açılan davalarda bu raporların yeniden değerlendirilmesi mahkeme tarafından Sağlık Bakanlığına bağlı engelli sağlık kurulu raporu vermeye yetkili sağlık kuruluşlarından istenir,"
+ },
+ {
+  "i": 532,
+  "madde": "83",
+  "metin": "MADDE $4- (1) Türk Silahlı Kuvvetleri, Jandanna Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personeli, bu Yönetmeliğin ilgili Bölümlerindeki sağlık kurulu muayeneleri hariç aşağıdaki durumlarda sağlık kurulu muayenesine tabi tutulabilir."
+ },
+ {
+  "i": 533,
+  "madde": "83",
+  "metin": "a) Son sağlık durumlarının saplanmasını yazılı olarak isteyenler,"
+ },
+ {
+  "i": 534,
+  "madde": "83",
+  "metin": "b) Amirin veya tabibin gerekli gördüğü hallerde."
+ },
+ {
+  "i": 544,
+  "madde": "88",
+  "metin": "MADDE 88- (1) Bu Yönetmelik hükümlerini Bakanlar Kurulu yürütür."
+ }
+]

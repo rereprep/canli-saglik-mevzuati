@@ -165,14 +165,14 @@
     "ad": "Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
    },
    {
-    "t": "2011-11-30",
-    "sayi": "28100"
-   },
-   {
     "t": "2012-12-31",
     "sayi": "28514 (4.mükerrer)",
     "url": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121231M4-5.htm",
     "ad": "— Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2011-11-30",
+    "sayi": "28100"
    }
   ]
  },
@@ -5320,6 +5320,1245 @@
     "sayi": "",
     "url": "https://www.resmigazete.gov.tr/eskiler/2026/08/20260818-1.htm",
     "ad": "7593 Çocuk Koruma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+   }
+  ]
+ },
+ "aile-hekimligi-sozlesme-ve-odeme-yonetmeligi": {
+  "baslik": "Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2021-06-30",
+   "sayi": "31527",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210630-8.pdf",
+   "ad": "Aile Hekimliği Sözleşme ve Ödeme Yönetmeliği (Karar Sayısı: 4198)",
+   "md": "kaynak-isleme/surum/ocr/aile-hekimligi-sozlesme-ve-odeme-yonetmeligi.md"
+  },
+  "deg": [
+   {
+    "t": "2021-07-15",
+    "sayi": "31542",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210715-20.pdf",
+    "ad": "Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 4301)"
+   },
+   {
+    "t": "2022-08-25",
+    "sayi": "31934",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/08/20220825-18.pdf",
+    "ad": "Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 5988)"
+   },
+   {
+    "t": "2023-04-05",
+    "sayi": "32154",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2023/04/20230405-16.pdf",
+    "ad": "Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 7036)"
+   },
+   {
+    "t": "2023-07-29",
+    "sayi": "32263",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2023/07/20230729-27.pdf",
+    "ad": "Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 7432)"
+   },
+   {
+    "t": "2024-10-30",
+    "sayi": "32707",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241030-9.pdf",
+    "ad": "Aile Hekimliği Sözleşme ve Ödeme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 9073)"
+   }
+  ]
+ },
+ "aile-hekimligi-uygulama-yonetmeligi": {
+  "baslik": "Aile Hekimliği Uygulama Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2013-01-25",
+   "sayi": "28539",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130125-26.htm",
+   "ad": "— Aile Hekimliği Uygulama Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2013-07-19",
+    "sayi": "28712"
+   },
+   {
+    "t": "2015-03-11",
+    "sayi": "29292",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150311-4.htm",
+    "ad": "— Aile Hekimliği Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2017-05-16",
+    "sayi": "30068",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2017/05/20170516-1.htm",
+    "ad": "— Aile Hekimliği Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2023-04-28",
+    "sayi": "32174"
+   },
+   {
+    "t": "2025-02-21",
+    "sayi": "32820",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2025/02/20250221-1.htm",
+    "ad": "Aile Hekimliği Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "bulasici-hastaliklar-surveyans-ve-kontrol-esaslari-yonetmeligi": {
+  "baslik": "Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2007-05-30",
+   "sayi": "26537",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070530-9.htm",
+   "ad": "— Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2019-05-04",
+    "sayi": "30764",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/05/20190504-1.htm",
+    "ad": "Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2020-04-22",
+    "sayi": "31107",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200422-7.htm",
+    "ad": "Bulaşıcı Hastalıklar Sürveyans ve Kontrol Esasları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "eski-saglik-bakanligi-disiplin-amirleri-yonetmeligi-2012": {
+  "baslik": "Sağlık Bakanlığı Disiplin Amirleri Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2012-12-19",
+   "sayi": "28502",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121219-11.htm",
+   "ad": "— Sağlık Bakanlığı Disiplin Amirleri Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2013-12-26",
+    "sayi": "28863",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131226-4.htm",
+    "ad": "— Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2018-02-22",
+    "sayi": "30340",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180222-9.htm",
+    "ad": "— Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2019-02-09",
+    "sayi": "30681",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190209-8.htm",
+    "ad": "Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2019-06-18",
+    "sayi": "30805",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/06/20190618-1.htm",
+    "ad": "Sağlık Bakanlığı Disiplin Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "gecici-koruma-yonetmeligi": {
+  "baslik": "Geçici Koruma Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2014-10-22",
+   "sayi": "29153",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141022-15.htm",
+   "ad": "2014/6883 Geçici Koruma Yönetmeliği",
+   "md": "kaynak-isleme/surum/ocr/gecici-koruma-yonetmeligi.md"
+  },
+  "deg": [
+   {
+    "t": "2019-12-25",
+    "sayi": "30989",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191225-38.pdf",
+    "ad": "Geçici Koruma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 1851)"
+   }
+  ]
+ },
+ "k-acil-saglik-hizmetleri-yonetmeligi": {
+  "baslik": "Acil Sağlık Hizmetleri Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2000-05-11",
+   "sayi": "24046"
+  },
+  "deg": [
+   {
+    "t": "2004-03-24",
+    "sayi": "25412",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2004/03/20040324.htm#7",
+    "ad": "— Acil Sağlık Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2007-03-15",
+    "sayi": "26463",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070315-6.htm",
+    "ad": "— Acil Sağlık Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2014-04-29",
+    "sayi": "28986",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140429-5.htm",
+    "ad": "— Acil Sağlık Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "k-agiz-ve-dis-sagligi-hizmeti-sunulan-ozel-saglik-kuruluslari-hakkinda-yonetmelik": {
+  "baslik": "Ağız ve Diş Sağlığı Hizmeti Sunulan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2022-10-06",
+   "sayi": "31975",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221006-1.htm",
+   "ad": "Ağız ve Diş Sağlığı Hizmeti Sunulan Özel Sağlık Kuruluşları Hakkında Yönetmelik"
+  },
+  "deg": [
+   {
+    "t": "2024-03-05",
+    "sayi": "32480",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/03/20240305-3.htm",
+    "ad": "Ağız ve Diş Sağlığı Hizmeti Sunulan Özel Sağlık Kuruluşları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2024-12-15",
+    "sayi": "32753",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241215-1.htm",
+    "ad": "Ağız ve Diş Sağlığı Hizmeti Sunulan Özel Sağlık Kuruluşları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "k-dogal-mineralli-sular-hakkinda-yonetmelik": {
+  "baslik": "Doğal Mineralli Sular Hakkında Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2004-12-01",
+   "sayi": "25657",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041201.htm#5",
+   "ad": "— Doğal Mineralli Sular Hakkında Yöne"
+  },
+  "deg": [
+   {
+    "t": "2005-07-24",
+    "sayi": "25885",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050724-3.htm",
+    "ad": "Doğal Mineralli Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2009-07-31",
+    "sayi": "27305",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090731-2.htm",
+    "ad": "— Bürokrasinin Azaltılması ve İşlemlerin Basitleştirilmesine Yönelik Başbakanlık, Bakanlıklar ile Bazı Bağlı ve İlgili Kuruluşlara Ait 170 Adet Yönetmelik"
+   },
+   {
+    "t": "2010-11-29",
+    "sayi": "27770",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101129-1.htm",
+    "ad": "— Doğal Mineralli Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2013-03-07",
+    "sayi": "28580",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130307-6.htm",
+    "ad": "— Doğal Mineralli Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2014-04-17",
+    "sayi": "28975",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140417-10.htm",
+    "ad": "— Doğal Mineralli Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2016-10-20",
+    "sayi": "29863",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161020-2.htm",
+    "ad": "— Doğal Mineralli Sular Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "k-kaplicalar-yonetmeligi": {
+  "baslik": "Kaplıcalar Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2001-07-24",
+   "sayi": "24472",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2001/07/20010724.htm#8",
+   "ad": "— Kaplıcalar Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2003-06-30",
+    "sayi": "25154",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030630.htm#2",
+    "ad": "— Kaplıcalar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2004-12-09",
+    "sayi": "25665",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041209.htm#12",
+    "ad": "— Kaplıcalar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2006-02-28",
+    "sayi": "26094",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060228-14.htm",
+    "ad": "— Kaplıca Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2010-04-16",
+    "sayi": "27554",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100416-1.htm",
+    "ad": "— Kaplıcalar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2012-04-04",
+    "sayi": "28254",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120404-1.htm",
+    "ad": "— Bürokrasinin Azaltılması ve İşlemlerin Basitleştirilmesine Yönelik Bazı Bakanlıklara Ait Yönetmelikler"
+   },
+   {
+    "t": "2012-11-14",
+    "sayi": "28467",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121114-4.htm",
+    "ad": "— Kaplıcalar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "k-ozel-hastaneler-yonetmeligi": {
+  "baslik": "Özel Hastaneler Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2025-01-30",
+   "sayi": "32798",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2025/01/20250130-9.htm",
+   "ad": "Özel Hastaneler Yönetmeliği̇"
+  },
+  "deg": [
+   {
+    "t": "2026-08-29",
+    "sayi": "33355",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/08/20260829-4.htm",
+    "ad": "Özel Hastaneler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "k-yatakli-tedavi-kurumlari-isletme-yonetmeligi": {
+  "baslik": "Yataklı Tedavi Kurumları İşletme Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "1983-01-13",
+   "sayi": "17927"
+  },
+  "deg": [
+   {
+    "t": "2018-12-19",
+    "sayi": "30630",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181219-8.pdf",
+    "ad": "Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 477)"
+   },
+   {
+    "t": "2021-03-24",
+    "sayi": "31433",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210324-28.pdf",
+    "ad": "Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 3739)"
+   },
+   {
+    "t": "2026-10-24",
+    "sayi": "33410",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-9.pdf",
+    "ad": "Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11928)"
+   }
+  ]
+ },
+ "kamu-saglik-tesisleri-ruhsatlandirma-yonetmeligi": {
+  "baslik": "Kamu Sağlık Tesisleri Ruhsatlandırma Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2019-09-20",
+   "sayi": "30894",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190920-2.htm",
+   "ad": "— Kamu Sağlık Tesisleri Ruhsatlandırma Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2024-04-02",
+    "sayi": "32508",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/04/20240402-1.htm",
+    "ad": "Kamu Sağlık Tesisleri Ruhsatlandırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "karayollari-trafik-yonetmeligi-surucu-belgesi-saglik-muayenesi-esaslari": {
+  "baslik": "Karayolları Trafik Yönetmeliği (Sürücü Belgesi Alacakların Sağlık Muayenelerine Ait Esaslar Bölümü)",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "1997-07-18",
+   "sayi": "23053"
+  },
+  "deg": [
+   {
+    "t": "2007-05-18",
+    "sayi": "26526",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070518-8.htm",
+    "ad": "— Karayolları Trafik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2012-05-25",
+    "sayi": "28303",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120525-6.htm",
+    "ad": "— Karayolları Trafik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2014-02-19",
+    "sayi": "28918",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140219-8.htm",
+    "ad": "— Karayolları Trafik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2020-03-21",
+    "sayi": "31075",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200321-2.htm",
+    "ad": "Karayolları Trafik Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "khgm-kamu-ozel-is-birligi-modeli-uygulama-yonetmeligi": {
+  "baslik": "Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli İle Tesis Yaptırılması, Yenilenmesi Ve Hizmet Alınmasına Dair Uygulama Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2014-05-09",
+   "sayi": "28995",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140509-26.htm",
+   "ad": "2014/6282 Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınmasına Dair Uygulama Yönetmeliği",
+   "md": "kaynak-isleme/surum/ocr/khgm-kamu-ozel-is-birligi-modeli-uygulama-yonetmeligi.md"
+  },
+  "deg": [
+   {
+    "t": "2020-01-25",
+    "sayi": "31019",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200125-23.pdf",
+    "ad": "Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınmasına Dair Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 2049)"
+   }
+  ]
+ },
+ "oz-2313-sayili-uyusturucu-maddelerin-murakabesi-hakkinda-kanunun-uygulamasina-ilisk-1982-11-21": {
+  "baslik": "2313 Sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanunun Uygulamasına İlişkin Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "1982-11-21",
+   "sayi": "17875"
+  },
+  "deg": [
+   {
+    "t": "2020-10-07",
+    "sayi": "31267",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201007-2.htm",
+    "ad": "2313 Sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanunun Uygulanmasına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "oz-adli-tip-kurumu-kanunu-uygulama-yonetmeligi-2004-07-31": {
+  "baslik": "Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2004-07-31",
+   "sayi": "25539",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040731.htm#9",
+   "ad": "— Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2007-06-08",
+    "sayi": "26546",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070608-2.htm",
+    "ad": "— Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2009-06-27",
+    "sayi": "27271",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090627-11.htm",
+    "ad": "— Adli Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2011-10-30",
+    "sayi": "28100",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111030-6.htm",
+    "ad": "— Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2011-12-17",
+    "sayi": "28145",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111217-1.htm",
+    "ad": "— Adli Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2012-01-19",
+    "sayi": "28178",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120119-5.htm",
+    "ad": "— Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2016-01-07",
+    "sayi": "29586",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2016/01/20160107-9.htm",
+    "ad": "— Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2016-01-16",
+    "sayi": "29595",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2016/01/20160116-4.htm",
+    "ad": "Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2016-04-20",
+    "sayi": "29690",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160420-15.htm",
+    "ad": "— Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2016-11-25",
+    "sayi": "29899",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161125-23.htm",
+    "ad": "— Adlî Tıp Kurumu Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "oz-dis-protez-laboratuvarlari-yonetmeligi-2005-12-07": {
+  "baslik": "Diş Protez Laboratuvarları Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2005-12-07",
+   "sayi": "26016",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051207-4.htm",
+   "ad": "— Diş Protez Laboratuvarları Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2011-12-31",
+    "sayi": "28159",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111231-6.htm",
+    "ad": "— Diş Protez Laboratuvarları Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik"
+   },
+   {
+    "t": "2012-04-04",
+    "sayi": "28254"
+   },
+   {
+    "t": "2022-11-08",
+    "sayi": "32007",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/11/20221108-2.htm",
+    "ad": "Diş Protez Laboratuvarları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "oz-evde-bakim-hizmetleri-sunumu-hakkinda-yonetmelik-2005-03-10": {
+  "baslik": "Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2005-03-10",
+   "sayi": "25751",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050310-5.htm",
+   "ad": "— Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelik"
+  },
+  "deg": [
+   {
+    "t": "2008-10-17",
+    "sayi": "27027",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2008/10/20081017-6.htm",
+    "ad": "— Evde Bakım Hizmetleri Sunumu Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2012-04-04",
+    "sayi": "28254"
+   }
+  ]
+ },
+ "oz-hashasin-ekimi-kontrolu-toplanmasi-degerlendirilmesi-imhasi-satin-alinmasi-satil-1988-05-04": {
+  "baslik": "Haşhaşın Ekimi, Kontrolü, Toplanması, Değerlendirilmesi, İmhası, Satın Alınması, Satılması, İhracı ve İthali Hakkında Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "1988-05-04",
+   "sayi": "19804"
+  },
+  "deg": [
+   {
+    "t": "2019-07-10",
+    "sayi": "30827",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190710-5.pdf",
+    "ad": "Haşhaşın Ekimi, Kontrolu, Toplanması, Değerlendirilmesi, İmhası, Satınalınması, Satılması, İhracı ve İthali Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 1303)"
+   }
+  ]
+ },
+ "oz-hava-kalitesi-degerlendirme-ve-yonetimi-yonetmeligi-2008-06-06": {
+  "baslik": "Hava Kalitesi Değerlendirme ve Yönetimi Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2008-06-06",
+   "sayi": "26898",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080606-6.htm",
+   "ad": "— Hava Kalitesi Değerlendirme ve Yönetimi Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2009-05-05",
+    "sayi": "27219",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090505-5.htm",
+    "ad": "— Hava Kalitesi Değerlendirme ve Yönetimi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "oz-hiperbarik-oksijen-tedavisi-uygulanan-ozel-saglik-kuruluslari-hakkinda-yonetmeli-2001-08-01": {
+  "baslik": "Hiperbarik Oksijen Tedavisi Uygulanan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2001-08-01",
+   "sayi": "24480",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2001/08/20010801.htm#12",
+   "ad": "rbarik Oksijen Tedavisi Uygulanan Özel Sağlık Kuruluşları Hakkında Yönetmelik"
+  },
+  "deg": [
+   {
+    "t": "2007-11-06",
+    "sayi": "26692",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071106-10.htm",
+    "ad": "— Hiberbarik Oksijen Tedavisi Uygulanan Özel Sağlık Kuruluşları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2008-10-17",
+    "sayi": "27027",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2008/10/20081017-7.htm",
+    "ad": "— Hiperbarik Oksijen Tedavisi Uygulanan Özel Sağlık Kuruluşları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2012-04-03",
+    "sayi": "28253",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120403-18.htm",
+    "ad": "— Bürokrasinin Azaltılması ve İşlemlerin Basitleştirilmesine Yönelik Başbakanlık, Bakanlıklar, Bazı Bağlı ve İlgili Kuruluşlar ve Üniversitelere Ait 84 Adet Yönetmelik"
+   }
+  ]
+ },
+ "oz-isyeri-acma-ve-calisma-ruhsatlarina-iliskin-yonetmelik-2005-08-10": {
+  "baslik": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2005-08-10",
+   "sayi": "25902",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2005/08/20050810-4.htm",
+   "ad": "2005/9207 İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik"
+  },
+  "deg": [
+   {
+    "t": "2019-04-19",
+    "sayi": "30750",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/04/20190419-20.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 1003)"
+   },
+   {
+    "t": "2020-01-25",
+    "sayi": "31019",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200125-22.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 2048)"
+   },
+   {
+    "t": "2020-06-09",
+    "sayi": "31150",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/06/20200609-22.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 2626)"
+   },
+   {
+    "t": "2020-12-25",
+    "sayi": "31345",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201225-8.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 3327)"
+   },
+   {
+    "t": "2021-04-17",
+    "sayi": "31457",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210417-2.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 3835)"
+   },
+   {
+    "t": "2022-08-25",
+    "sayi": "31934",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/08/20220825-17.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 5987)"
+   },
+   {
+    "t": "2023-07-29",
+    "sayi": "32263",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2023/07/20230729-28.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 7433)"
+   },
+   {
+    "t": "2024-10-10",
+    "sayi": "32688",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241010-21.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 9016)"
+   },
+   {
+    "t": "2025-12-11",
+    "sayi": "33104",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251211-8.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 10681)"
+   },
+   {
+    "t": "2026-01-10",
+    "sayi": "33133",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260110-8.pdf",
+    "ad": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 10852)"
+   }
+  ]
+ },
+ "oz-mezuniyet-belgesine-sahip-olmadan-mesleklerini-icra-etmekte-olan-dis-teknisyenle-1989-12-20": {
+  "baslik": "Mezuniyet Belgesine Sahip Olmadan Mesleklerini İcra Etmekte Olan Diş Teknisyenlerine Ehliyet Sınavı ile Diş Protez Teknisyeni Unvanı Kazandırılmasına Dair Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "1989-12-20",
+   "sayi": "20378"
+  },
+  "deg": [
+   {
+    "t": "1991-05-31",
+    "sayi": "20887"
+   }
+  ]
+ },
+ "oz-saglik-bakanliginca-kamu-ozel-is-birligi-modeli-ile-tesis-yaptirilmasi-yenilenme-2014-05-09": {
+  "baslik": "Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınmasına Dair Uygulama Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2014-05-09",
+   "sayi": "28995",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140509-26.htm",
+   "ad": "2014/6282 Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınmasına Dair Uygulama Yönetmeliği",
+   "md": "kaynak-isleme/surum/ocr/khgm-kamu-ozel-is-birligi-modeli-uygulama-yonetmeligi.md"
+  },
+  "deg": [
+   {
+    "t": "2020-01-25",
+    "sayi": "31019",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200125-23.pdf",
+    "ad": "Sağlık Bakanlığınca Kamu Özel İş Birliği Modeli ile Tesis Yaptırılması, Yenilenmesi ve Hizmet Alınmasına Dair Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 2049)"
+   }
+  ]
+ },
+ "oz-turk-silahli-kuvvetleri-jandarma-genel-komutanligi-ve-sahil-guvenlik-komutanligi-2016-11-11": {
+  "baslik": "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2016-11-11",
+   "sayi": "29885",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161111-26.pdf",
+   "ad": "2016/9431 Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliği",
+   "md": "kaynak-isleme/surum/ocr/oz-turk-silahli-kuvvetleri-jandarma-genel-komutanligi-ve-sahil-guvenlik-komutanligi-2016-11-11.md"
+  },
+  "deg": [
+   {
+    "t": "2019-05-10",
+    "sayi": "30770",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/05/20190510-21.pdf",
+    "ad": "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 1054)"
+   },
+   {
+    "t": "2020-04-15",
+    "sayi": "31100",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200415-7.pdf",
+    "ad": "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 2413)"
+   },
+   {
+    "t": "2020-10-16",
+    "sayi": "31276",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201016-11.pdf",
+    "ad": "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 3092)"
+   },
+   {
+    "t": "2023-02-24",
+    "sayi": "32114",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2023/02/20230224-7.pdf",
+    "ad": "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 6861)"
+   },
+   {
+    "t": "2024-10-10",
+    "sayi": "32688",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241010-20.pdf",
+    "ad": "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 9015)"
+   },
+   {
+    "t": "2025-09-13",
+    "sayi": "33016",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2025/09/20250913-19.pdf",
+    "ad": "Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 10392)"
+   }
+  ]
+ },
+ "saglik-hizmet-sunucularinin-basamaklandirilmasina-dair-yonetmelik": {
+  "baslik": "Sağlık Hizmet Sunucularının Basamaklandırılmasına Dair Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2022-02-10",
+   "sayi": "31746",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2022/02/20220210-1.htm",
+   "ad": "Sağlık Hizmet Sunucularının Basamaklandırılmasına Dair Yönetmelik"
+  },
+  "deg": [
+   {
+    "t": "2022-04-14",
+    "sayi": "31809",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220414-3.htm",
+    "ad": "Sağlık Hizmet Sunucularının Basamaklandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik"
+   },
+   {
+    "t": "2022-07-30",
+    "sayi": "31908",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/07/20220730-1.htm",
+    "ad": "Sağlık Hizmet Sunucularının Basamaklandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "saglik-meslek-mensuplari-ile-saglik-hizmetlerinde-calisan-diger-meslek-mensuplarinin-is-ve-gorev-tanimlarina-dair-yonetmelik": {
+  "baslik": "Sağlık Meslek Mensupları İle Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2014-05-22",
+   "sayi": "29007"
+  },
+  "deg": [
+   {
+    "t": "2021-11-20",
+    "sayi": "31665",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/11/20211120-15.htm",
+    "ad": "Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2024-12-03",
+    "sayi": "32741",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/12/20241203-4.htm",
+    "ad": "Sağlık Meslek Mensupları ile Sağlık Hizmetlerinde Çalışan Diğer Meslek Mensuplarının İş ve Görev Tanımlarına Dair Yönetmelikte Değişiklik Yapılması Hakkında Yönetmelik"
+   }
+  ]
+ },
+ "sbg-10460-egitim-personelinin-nitelik-ve-secim-esaslari-hakkinda-yonetmelik": {
+  "baslik": "Eğitim Personelinin Nitelik ve Seçim Esasları Hakkında Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2003-08-28",
+   "sayi": "25213",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2003/08/20030828.htm#8",
+   "ad": "— Sağlık Bakanlığı-Eğitim Personelinin Nitelik ve Seçim Esasları Hakkında"
+  },
+  "deg": [
+   {
+    "t": "2004-01-27",
+    "sayi": "25359",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040127.htm#6",
+    "ad": "— Sağlık Bakanlığı-Eğitim Personelinin Nitelik ve Seçim Esasları Hakkında Yönetmeliğin 8 ve 10 uncu Maddelerinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "sbg-10518-yatakli-tedavi-kurumlari-isletme-yonetmeligi-son-degisiklerle-beraber": {
+  "baslik": "Yataklı Tedavi Kurumları İşletme Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "1983-01-13",
+   "sayi": "17927"
+  },
+  "deg": [
+   {
+    "t": "2018-12-19",
+    "sayi": "30630",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181219-8.pdf",
+    "ad": "Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 477)"
+   },
+   {
+    "t": "2021-03-24",
+    "sayi": "31433",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210324-28.pdf",
+    "ad": "Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 3739)"
+   },
+   {
+    "t": "2026-10-24",
+    "sayi": "33410",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261024-9.pdf",
+    "ad": "Yataklı Tedavi Kurumları İşletme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (Karar Sayısı: 11928)"
+   }
+  ]
+ },
+ "tibbi-atiklarin-kontrolu-yonetmeligi": {
+  "baslik": "Tıbbi Atıkların Kontrolü Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2017-01-25",
+   "sayi": "29959",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170125-2.htm",
+   "ad": "Tıbbi Atıkların Kontrolü Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2022-08-18",
+    "sayi": "31927",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/08/20220818-2.htm",
+    "ad": "Tıbbi Atıkların Kontrolü Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "tibbi-cihazlarin-test-kontrol-ve-kalibrasyonu-hakkinda-yonetmelik": {
+  "baslik": "Tıbbi Cihazların Test, Kontrol Ve Kalibrasyonu Hakkında Yönetmelik",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2015-06-25",
+   "sayi": "29397",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150625-4.htm",
+   "ad": "— Tıbbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkında Yönetmelik"
+  },
+  "deg": [
+   {
+    "t": "2021-09-10",
+    "sayi": "31594",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210910-4.htm",
+    "ad": "Tıbbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   },
+   {
+    "t": "2021-12-10",
+    "sayi": "31685",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211210-3.htm",
+    "ad": "Tıbbi Cihazların Test, Kontrol ve Kalibrasyonu Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "toplum-sagligi-merkezi-ve-bagli-birimler-yonetmeligi": {
+  "baslik": "Toplum Sağlığı Merkezi ve Bağlı Birimler Yönetmeliği",
+  "tur": "yonetmelik",
+  "ilk": {
+   "t": "2015-02-05",
+   "sayi": "29258",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150205-5.htm",
+   "ad": "— Toplum Sağlığı Merkezi ve Bağlı Birimler Yönetmeliği"
+  },
+  "deg": [
+   {
+    "t": "2018-05-25",
+    "sayi": "30431",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2018/05/20180525-1.htm",
+    "ad": "Toplum Sağlığı Merkezi ve Bağlı Birimler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik"
+   }
+  ]
+ },
+ "sbg-11338-peloidlerin-uretimi-ve-satisi-hakkinda-teblig": {
+  "baslik": "Peloidlerin Üretimi ve Satışı Hakkında Tebliğ",
+  "tur": "teblig",
+  "ilk": {
+   "t": "2005-04-21",
+   "sayi": "25793",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050421-9.htm",
+   "ad": "— Peloidlerin Üretimi ve Satışı Hakkında Tebliğ"
+  },
+  "deg": [
+   {
+    "t": "2009-01-31",
+    "sayi": "27127",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090131-8.htm",
+    "ad": "— Peloidlerin Üretimi ve Satışı Hakkındaki Tebliğde Değişiklik Yapılmasına Dair Tebliğ"
+   }
+  ]
+ },
+ "hsgm-22-sozlesmeli-personel-calistirilmasina-iliskin-esaslar": {
+  "baslik": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar",
+  "tur": "bkk",
+  "ilk": {
+   "t": "1978-06-28",
+   "sayi": "16330"
+  },
+  "deg": [
+   {
+    "t": "2019-04-19",
+    "sayi": "30750",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/04/20190419-16.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 1004)"
+   },
+   {
+    "t": "2019-05-03",
+    "sayi": "30763",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/05/20190503-10.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 1024)"
+   },
+   {
+    "t": "2019-11-13",
+    "sayi": "30947",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191113-2.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 1807)"
+   },
+   {
+    "t": "2019-12-26",
+    "sayi": "30990",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191226-5.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 1927)"
+   },
+   {
+    "t": "2020-02-20",
+    "sayi": "31045",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200220-5.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 2118)"
+   },
+   {
+    "t": "2020-04-18",
+    "sayi": "31103",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200418-4.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar ile Sözleşmeli Personele Ek Ödeme Yapılmasına Dair Kararda Değişiklik Yapılmasına Dair Karar (Karar Sayısı: 2420)"
+   },
+   {
+    "t": "2020-05-09",
+    "sayi": "31122",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200509-23.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 2506)"
+   },
+   {
+    "t": "2020-07-09",
+    "sayi": "31180",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200709-3.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 2727)"
+   },
+   {
+    "t": "2020-09-24",
+    "sayi": "31254",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200924-1.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 2952)"
+   },
+   {
+    "t": "2021-02-06",
+    "sayi": "31387",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210206-9.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 3507)"
+   },
+   {
+    "t": "2021-03-04",
+    "sayi": "31413",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210304-1.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 3585)"
+   },
+   {
+    "t": "2021-03-21",
+    "sayi": "31430",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210321-13.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 3731)"
+   },
+   {
+    "t": "2021-07-16",
+    "sayi": "31543",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210716-5.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar ile Sözleşmeli Personele Ek Ödeme Yapılmasına Dair Kararda Değişiklik Yapılmasına Dair Karar (Karar Sayısı: 4308)"
+   },
+   {
+    "t": "2022-01-04",
+    "sayi": "31709",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220104-6.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 5060)"
+   },
+   {
+    "t": "2022-03-04",
+    "sayi": "31768",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/03/20220304-11.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 5254)"
+   },
+   {
+    "t": "2022-07-07",
+    "sayi": "31889",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/07/20220707-9.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar: 2022/310)"
+   },
+   {
+    "t": "2022-07-21",
+    "sayi": "31899",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/07/20220721-15.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 5815)"
+   },
+   {
+    "t": "2022-07-23",
+    "sayi": "31901",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/07/20220723-5.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 5854)"
+   },
+   {
+    "t": "2022-10-22",
+    "sayi": "31991",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221022-13.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 6255)"
+   },
+   {
+    "t": "2022-11-09",
+    "sayi": "32008",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2022/11/20221109-13.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 6364)"
+   },
+   {
+    "t": "2023-03-16",
+    "sayi": "32134",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2023/03/20230316-8.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 6966)"
+   },
+   {
+    "t": "2023-04-20",
+    "sayi": "32169",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2023/04/20230420-50.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 7138)"
+   },
+   {
+    "t": "2023-07-29",
+    "sayi": "32263",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2023/07/20230729-26.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 7431)"
+   },
+   {
+    "t": "2024-02-03",
+    "sayi": "32449",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/02/20240203-11.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 8154)"
+   },
+   {
+    "t": "2024-04-05",
+    "sayi": "32511",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/04/20240405-8.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar ile Sözleşmeli Personele Ek Ödeme Yapılmasına Dair Kararda Değişiklik Yapılmasına Dair Karar (Karar Sayısı: 8304)"
+   },
+   {
+    "t": "2024-04-27",
+    "sayi": "32529",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/04/20240427-10.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 8412)"
+   },
+   {
+    "t": "2024-10-04",
+    "sayi": "32682",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/10/20241004-12-1.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar ile Sözleşmeli Personele Ek Ödeme Yapılmasına Dair Kararda Değişiklik Yapılmasına Dair Karar (Karar Sayısı: 9002)"
+   },
+   {
+    "t": "2025-01-11",
+    "sayi": "32779",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2025/01/20250111-5.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 9399)"
+   },
+   {
+    "t": "2025-02-27",
+    "sayi": "32826",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2025/02/20250227-8.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar ile Sözleşmeli Personele Ek Ödeme Yapılmasına Dair Kararda Değişiklik Yapılmasına Dair Karar (Karar Sayısı: 9528)"
+   },
+   {
+    "t": "2025-06-01",
+    "sayi": "32917",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2025/06/20250601-10.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 9938)"
+   },
+   {
+    "t": "2025-08-27",
+    "sayi": "32999",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2025/08/20250827-5.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 10262)"
+   },
+   {
+    "t": "2026-01-22",
+    "sayi": "33145",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260122-11.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 10895)"
+   },
+   {
+    "t": "2026-03-19",
+    "sayi": "33201",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/03/20260319-32.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 11103)"
+   },
+   {
+    "t": "2026-05-08",
+    "sayi": "33247",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260508-11.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 11307)"
+   },
+   {
+    "t": "2026-07-31",
+    "sayi": "33326",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/07/20260731-5.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 11565)"
+   },
+   {
+    "t": "2026-10-01",
+    "sayi": "33387",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261001-14.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 11833)"
+   },
+   {
+    "t": "2026-11-14",
+    "sayi": "33430",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114-13.pdf",
+    "ad": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslarda Değişiklik Yapılmasına Dair Esaslar (Karar Sayısı: 11982)"
+   }
+  ]
+ },
+ "cumhurbaskanligi-teskilati-hakkinda-cumhurbaskanligi-kararnamesi": {
+  "baslik": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+  "tur": "cbk",
+  "ilk": {
+   "t": "2018-07-10",
+   "sayi": "30474",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2018/07/20180710-1.pdf",
+   "ad": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 1)"
+  },
+  "deg": [
+   {
+    "t": "2019-01-10",
+    "sayi": "30651"
+   },
+   {
+    "t": "2019-01-18",
+    "sayi": "30659",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190118-2.pdf",
+    "ad": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 28)"
+   },
+   {
+    "t": "2019-09-13",
+    "sayi": "30887",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190913-24.pdf",
+    "ad": "— Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 46)"
+   }
+  ]
+ },
+ "k-4-sayili-bakanliklara-bagli-ilgili-iliskili-kurum-ve-kuruluslar-ile-diger-kurum-ve-kuruluslarin-teskilati-hakkinda-cumhurbaskanligi-kararnamesi-tuseb-ve-titck-bolumleri": {
+  "baslik": "4 Sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi (TÜSEB ve TİTCK Bölümleri)",
+  "tur": "cbk",
+  "ilk": {
+   "t": "2018-07-15",
+   "sayi": "30479",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2018/07/20180715-1.pdf",
+   "ad": "Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 4)"
+  },
+  "deg": [
+   {
+    "t": "2019-02-05",
+    "sayi": "30677",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190205-7.pdf",
+    "ad": "Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 30)"
+   },
+   {
+    "t": "2019-09-13",
+    "sayi": "30887",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190913-24.pdf",
+    "ad": "— Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 46)"
+   },
+   {
+    "t": "2020-03-28",
+    "sayi": "31082"
+   },
+   {
+    "t": "2024-05-25",
+    "sayi": "32556",
+    "url": "https://www.resmigazete.gov.tr/eskiler/2024/05/20240525-33.htm",
+    "ad": "Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinde Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararnamesi (Kararname Numarası: 160)"
    }
   ]
  }

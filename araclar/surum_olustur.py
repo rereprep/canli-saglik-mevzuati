@@ -888,7 +888,15 @@ def madde_metinleri(belge):
 
 
 def rg_md(url, baslik=None):
+    if url.split("#")[0].lower().endswith(".pdf"):
+        return pdf_md(url)
     ham = coz(getir(url.split("#")[0]))
+    # Cumhurbaşkanı Kararı sayfası: yönetmelik metni ekli PDF'tedir
+    if not re.search(r"(?:MADDE|Madde)\s*\d+", html.unescape(re.sub(r"<[^>]+>", " ", ham))):
+        ek = re.findall(r'href="([^"]+-\d+\.pdf)"', ham)
+        if ek:
+            import urllib.parse
+            return pdf_md(urllib.parse.urljoin(url, ek[0]))
     # içindekiler (fihrist/mükerrer) sayfası geldiyse içinden doğru bağlantıyı bul
     if baslik and len(re.findall(r'href="[^"]*\d{8}[^"]*\.htm', ham)) >= 3 and not re.search(r"MADDE\s*1\s*[-–]", ham):
         from surum_indir import esles
@@ -913,6 +921,24 @@ def rg_md(url, baslik=None):
     return md
 
 
+def pdf_md(url):
+    """RG PDF'i (metin katmanlı ya da taranmış) → paragraflı metin. Sayfa metinleri
+    kaynak-isleme/indirilen/rg-surum-pdf/<ad>/ altında önbelleğe alınır (pdf_sayfa_metin.py; pdfplumber,
+    pypdfium2 ve Tesseract gerekir: PYTHONPATH ile)."""
+    import os, subprocess
+    getir(url)
+    from surum_indir import ON
+    ad = re.sub(r"[^A-Za-z0-9.-]+", "_", url.split("://", 1)[-1])[-150:]
+    klasor = ON.parent / "rg-surum-pdf" / ad
+    if not any(klasor.glob("p*.txt")):
+        subprocess.run([sys.executable, str(KOK / "araclar" / "pdf_sayfa_metin.py"), str(ON / ad), str(klasor)],
+                       env={**os.environ, "PYTHONPATH": os.environ.get("PYTHONPATH", "/private/tmp/pylib")}, capture_output=True)
+    from ocr_ilk_metin import paragraflar as ocr_par
+    md = "\n\n".join(ocr_par([f.read_text(encoding="utf-8") for f in sorted(klasor.glob("p*.txt"))]))
+    # okumada talimat ile tırnaklı metin aynı paragrafa düşmüşse ayır
+    return re.sub(r"((?:eklenmiş|değiştirilmiş|düzenlenmiş|kaldırılmış)(?:tir|tır)\.)\s+(“)", r"\1\n\n\2", md)
+
+
 def govde_al(dosya):
     s = Path(dosya).read_text(encoding="utf-8")
     s = s[s.index("\n---\n", 4) + 5:]
@@ -920,7 +946,11 @@ def govde_al(dosya):
     m = re.search(r"\n#+\s*\d+\s*SAYILI\s*(?:KANUN|KHK)\w*\s*EK VE DEĞİŞİKLİK", s)
     i = m.start() if m else -1
     if i < 0:
-        i = s.find("Yayımlandığı Resmî Gazete", 1500 if re.search(r"Kanun Numarası|KHK Numarası|Kararname Numarası", s[:1500]) else 0)
+        # yalnız ilk maddeden sonraki "Yayımlandığı Resmî Gazete" (baştaki künye satırları sayılmaz)
+        ilk_md = re.search(r"(?:MADDE|Madde)\s*1\s*\.?\s*\**\s*[-–—]", s)
+        bas = max(ilk_md.start() if ilk_md else 0,
+                  1500 if re.search(r"Kanun Numarası|KHK Numarası|Kararname Numarası", s[:1500]) else 0)
+        i = s.find("Yayımlandığı Resmî Gazete", bas)
     if i > 0:
         s = s[:s.rfind("\n", 0, i)]
     return s
