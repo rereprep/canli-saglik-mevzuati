@@ -467,3 +467,4 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Ajan (terra) surum_olustur kanun iyileştirmeleri: TCK 281/349, CMK 264/349, 5510 120/244, Büyükşehir 19/39. Toplam 3156/3838.
 - Uyarı: surum_kanun.py indeks.json'u baştan yazar; aynı anda elle indeks düzenleme yapma.
 - 7 dosyada satıra bölünmüş değişiklik notları birleştirildi (zaman çizelgesinde atlanıyordu).
+- Canlı doğrulama: f57e6c9 yayında; dört yönetmeliğin sürüm dosyaları erişilebilir.
