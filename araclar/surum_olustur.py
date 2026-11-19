@@ -18,7 +18,7 @@ for _o, _n in list(SIRA.items())[:9]:
     SIRA["yirmi " + _o] = 20 + _n
 SIRA["yirminci"] = 20
 SIRA_RE = "|".join(sorted(SIRA, key=len, reverse=True))
-MADDE_BAS = re.compile(r"^(?:#+\s*)?\**\s*“?\s*(GEÇİCİ MADDE|Geçici Madde|EK MADDE|Ek Madde|MADDE|Madde)\s*(\d+)\s*(?:/\s*([A-Za-z]))?\s*\**\s*[-–—]")
+MADDE_BAS = re.compile(r"^(?:#+\s*)?\**\s*“?\s*(GEÇİCİ MADDE|Geçici Madde|EK MADDE|Ek Madde|MADDE|Madde)\s*(\d+)\s*(?:/\s*([A-Za-z]))?\s*\.?\s*\**\s*[-–—]")
 NOT = re.compile(r"\((?:Değişik|Ek|Mülga|İptal|Yeniden düzenleme|Değişiklik)[^()]*\)")
 
 
@@ -69,7 +69,7 @@ def _baslik_mi(p):
             and not MADDE_BAS.match(d)) or bool(re.match(r"^[A-ZÇĞİÖŞÜ ]+BÖLÜM|^[A-ZÇĞİÖŞÜ]+ (KISIM|BÖLÜM)", d))
 
 
-ETIKET = re.compile(r"^(?:\**\s*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)\s*\d+\s*(?:/\s*[A-Za-z])?\s*\**\s*[-–—]\s*\**\s*)?(?:\((?:Değişik|Ek|Mülga)[^()]*\)\s*)*")
+ETIKET = re.compile(r"^(?:\**\s*(?:GEÇİCİ |Geçici |EK |Ek )?(?:MADDE|Madde)\s*\d+\s*(?:/\s*[A-Za-z])?\s*\.?\s*\**\s*[-–—]\s*\**\s*)?(?:\((?:Değişik|Ek|Mülga)[^()]*\)\s*)*")
 
 
 def etiket(p):
@@ -120,9 +120,13 @@ def degisiklik_maddeleri(md):
     out = []
     for p in par:
         d = p.replace("**", "")
-        if re.match(r"^(MADDE|Madde)\s*\d+\s*[-–—]", d) and not d.lstrip().startswith("“"):
-            out.append([re.sub(r"^(MADDE|Madde)\s*\d+\s*[-–—]\s*", "", d), []])
+        if re.match(r"^(MADDE|Madde)\s*\d+\s*\.?\s*[-–—]", d) and not d.lstrip().startswith("“"):
+            out.append([re.sub(r"^(MADDE|Madde)\s*\d+\s*\.?\s*[-–—]\s*", "", d), [], int(re.match(r"^(?:MADDE|Madde)\s*(\d+)", d).group(1))])
         elif out:
+            # eski RG metinlerinde düz tırnak: "…" → “…”
+            if re.match(r'^\**\s*"', p):
+                p = re.sub(r'^(\**\s*)"', r"\1“", p)
+                p = re.sub(r'"(\s*(?:\**)?\s*)$', r"”\1", p)
             out[-1][1].append(p)
     return out
 
@@ -148,7 +152,9 @@ def hedef_madde(t, onceki):
     return None
 
 
-def fikra_no(s):
+def fikra_no(s, bl=None):
+    if bl is not None and re.search(r"\bson\s*fıkra", s) and not re.search(r"(" + SIRA_RE + r")\s*fıkra", s):
+        return max((u[1] for u in bl if u[0] == "f"), default=None)
     m = re.search(r"\((\d+)\)\s*numaralı\s*fıkra", s)
     if m:
         return int(m.group(1))
@@ -239,7 +245,7 @@ def uygula(belge, talimat, yuk, kunye, onceki_madde, adim):
         return False, [k], k
     # ---- fıkra / bent / alt bent düzeyi
     bl = birimler(par, i, j)
-    f = fikra_no(t)
+    f = fikra_no(t, bl)
     bentler = re.findall(r"\(([a-zçğıöşü]{1,2})\)\s*(?:,|ve|bend|bentleri)", t)
     altlar = re.findall(r"\((\d+)\)\s*numaralı\s*alt\s*bent", t)
     if re.search(r"değiştirilmiştir", t) and yuk and not re.search(r"eklenmiş", t):
@@ -342,7 +348,7 @@ def uygula(belge, talimat, yuk, kunye, onceki_madde, adim):
 def kapsam_daralt(par, r, t):
     i, j = r
     bl = birimler(par, i, j)
-    f = fikra_no(t.split("“")[0])
+    f = fikra_no(t.split("“")[0], bl)
     b = re.findall(r"\(([a-zçğıöşü]{1,2})\)\s*bend", t.split("“")[0])
     if b:
         u = [x for x in bl if x[0] == "b" and x[1] == b[0] and (f is None or x[4] == f)]
@@ -608,6 +614,10 @@ def uygula2(belge, talimat, yuk, kunye, bag):
         belge.aktif = bool(k1) and len(k1 & k2) / len(k1) >= 0.6
     elif not re.match(r"Aynı\s", t) and re.search(r"Yönetmeliğin|Tebliğin", t) and not re.search(r"Bu Yönetmeli|Bu Tebli", t):
         pass
+    if getattr(belge, "no", None):
+        m2 = re.search(r"(\d{3,4})\s*sayılı", t)
+        if m2 and not re.match(r"Aynı\s", t):
+            belge.aktif = m2.group(1) == belge.no
     if getattr(belge, "aktif", True) is False:
         return None, [], bag
     if not re.search(r"maddes|madde\w*\s|fıkra|bend|bent|bölüm|ibare", t):
@@ -884,13 +894,17 @@ def rg_md(url, baslik=None):
 def govde_al(dosya):
     s = Path(dosya).read_text(encoding="utf-8")
     s = s[s.index("\n---\n", 4) + 5:]
-    i = s.find("Yayımlandığı Resmî Gazete")
+    # sondaki değişiklik listesini at (kanunlarda baştaki künyede de "Yayımlandığı Resmî Gazete" geçer)
+    m = re.search(r"\n#+\s*\d+\s*SAYILI\s*(?:KANUN|KHK)\w*\s*EK VE DEĞİŞİKLİK", s)
+    i = m.start() if m else -1
+    if i < 0:
+        i = s.find("Yayımlandığı Resmî Gazete", 1500 if re.search(r"Kanun Numarası|KHK Numarası|Kararname Numarası", s[:1500]) else 0)
     if i > 0:
         s = s[:s.rfind("\n", 0, i)]
     return s
 
 
-def ilk_metni_kirp(md, baslik):
+def ilk_metni_kirp(md, baslik, no=None):
     """RG sayfasından yönetmeliğin kendisi: başlığa en çok benzeyen ve ardından ilk madde olarak MADDE 1 gelen
     başlık satırı grubundan sonuna."""
     par = paragraflar(md)
@@ -923,6 +937,7 @@ def isle(kimlik, kayit, dosya):
     ilk = ilk_metni_kirp(rg_md(kayit["ilk"]["url"], kayit["baslik"]), kayit["baslik"])
     belge = Belge(ilk)
     belge.baslik = kayit["baslik"]
+    belge.no = kayit.get("no")
     sonuc["surumler"].append({"t": kayit["ilk"]["t"], "sayi": kayit["ilk"]["sayi"], "url": kayit["ilk"]["url"], "tur": "ilk",
                               "md": "\n\n".join(belge.p), "degisen": [], "basarisiz": []})
     for d in sorted(kayit["deg"], key=lambda x: x["t"]):
@@ -934,7 +949,9 @@ def isle(kimlik, kayit, dosya):
         else:
             onceki = {}
             belge.aktif = True
-            for talimat, yuk in degisiklik_maddeleri(rg_md(d["url"], kayit["baslik"])):
+            for talimat, yuk, mno in degisiklik_maddeleri(rg_md(d["url"], kayit["baslik"])):
+                if d.get("maddeler") and mno not in d["maddeler"]:
+                    continue
                 try:
                     ok, etk, onceki = uygula2(belge, talimat, yuk, kunye, onceki)
                 except Exception as h:  # noqa: BLE001

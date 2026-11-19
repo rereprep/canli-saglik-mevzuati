@@ -449,3 +449,9 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
   - 2014/11 Hukuki İşlem Ehliyeti çifti yalnız tarih farkı; birleşik bırakıldı.
 - tekillestir: aynı genelge numarasında biri ötekinin "yerine/kaldiran"ı ise birleştirilmez.
 - Ana sayfa "Son düzenlemeler": mülga kayıtlar gösterilmiyor.
+
+## 2026-11-19 — Kanunların tarihli sürümleri
+- araclar/surum_kanun.py: 1997+ kanunlar; metindeki "(Değişik: g/a/yyyy-NNNN/M md.)" notlarından değiştiren kanunu RG fihristinde bulur (önce değişiklik tablosundaki yürürlük gününe bakar). indeks.json deg[].maddeler = değiştiren kanunun ilgili maddeleri.
+- surum_olustur.py: "MADDE 1. —" biçimi, düz tırnaklı yük, "son fıkra", kanun künyeli govde_al düzeltildi; belge.no ile başka kanuna ait talimatlar atlanıyor.
+- Sonuç (madde doğrulama): Optisyenlik 25/25, Kozmetik 11/11, CMK 247/349, Belediye 76/101, 5510 116/244, TCK 116/349, Büyükşehir 13/39. Toplam (tüm türler) 2522/3428. Doğrulanamayanlar sitede mor işaretli.
+- Eksik: 5283 ve Biyogüvenlik için değişiklik metni bulunamadı; 1997 öncesi kanunlar kapsam dışı. Kanun talimat dilinin (uygula2/yollari_coz) daha iyi işlenmesi açık iş.
