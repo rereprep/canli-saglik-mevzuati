@@ -457,3 +457,4 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Eksik: 5283 ve Biyogüvenlik için değişiklik metni bulunamadı; 1997 öncesi kanunlar kapsam dışı. Kanun talimat dilinin (uygula2/yollari_coz) daha iyi işlenmesi açık iş.
 - RG mükerrer sayılarda bulunan ilk metinler: Harcama Belgeleri (20051231M3-2) 64/73, Biyosidal (20091231M4-11) 56/74, İlaç Geri Ödeme (20220825M1-1) 19/19.
 - Hâlâ sürümsüz: İVD 2021 ve Tıbbi Cihaz 2021 (RG PDF'leri taranmış görüntü, 142 sayfa), Hasta Hakları 1998 ve Radyasyon Güvenliği 2000 (RG'de yalnız taranmış PDF). OCR ile yapılabilir.
+- Canlı doğrulama: 193e67a yayında; kanun ve yeni yönetmelik sürüm dosyaları erişilebilir.
