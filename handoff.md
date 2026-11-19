@@ -423,3 +423,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - terra denetimi (calisma/zaman-denetim.md): 6 bulgu düzeltildi; kalan: dipnotun alt bende değil madde girişine bağlanması, kapanmayan parantezli notların atlanması.
 - MHRS 2018 yönergesi kopyalarına tarih 30.04.2018 / 67523305-045.02-2043 (2026 yönergesinin 12. maddesinden). Test: test_zaman_isle_notlari.
 
+
+- Yayın 949cfa2 success; canlıda Umumi Hıfzıssıhha, Sağlık Raporları, Radyoloji, MHRS sayfalarında ?tarih= işaretleri ve uyarıları doğrulandı, JS hatası yok.
