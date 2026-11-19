@@ -732,7 +732,7 @@ def ciftleri_birlestir(belgeler):
     tercih = lambda b: (b["tam_metin"], oncelik(b) if b["tam_metin"] else 0, len(b.get("baslik", "")))
     gruplar = {}
     for b in belgeler.values():
-        if b["tur"] == "yazi" or mulga(b):
+        if b["tur"] == "yazi" or mulga(b) or b.get("ayri"):
             continue
         anahtarlar = [("oz", b["tur"], baslik_ozu(b))]
         if re.fullmatch(r"\d{4}-\d{2}-\d{2}", b.get("tarih", "")) and len(no_sade(b.get("sayi"))) >= 3:
@@ -780,6 +780,8 @@ def ciftleri_birlestir(belgeler):
 
 
 def baslik_anahtari(b):
+    if b.get("ayri"):  # elle: aynı adlı/numaralı başka belge, birleştirilmez
+        return ("ayri", b.get("id"))
     s = re.sub(r"^\s*(\d+\.)+\d*\s*", "", b.get("baslik", ""))
     if b.get("tur") == "genelge" and re.fullmatch(r"\d{4}/\d+", b.get("sayi", "")):
         return ("genelge", "no:" + b["sayi"])
@@ -819,6 +821,8 @@ def tekillestir(liste):
                 # Aynı genelge numarası: başlık ya da metin de benzemeli (yanlış numara birleştirmesin)
                 import difflib
                 for kume in kumeler:
+                    if any(x.get(a) == y["id"] for x, y in ((b, kume[0]), (kume[0], b)) for a in ("yerine", "kaldiran")):
+                        continue  # elle: biri ötekinin eski metni
                     if difflib.SequenceMatcher(None, baslik_ozu(b), baslik_ozu(kume[0])).ratio() >= 0.55 \
                             or metin_benzer(b, kume[0]):
                         kume.append(b)
@@ -1798,7 +1802,7 @@ def ana_sayfa(belgeler):
     kartlar = "".join(
         f'<a class="kart" href="tur/{t}.html"><span class="sayi">{sayac[t]}</span><span>{e(ad)}</span></a>'
         for t, ad in TUR_ADLARI.items() if sayac[t])
-    son = sorted((b for b in belgeler.values() if b.get("rg_tarih") or b.get("tarih")), key=sirala_anahtar, reverse=True)[:15]
+    son = sorted((b for b in belgeler.values() if (b.get("rg_tarih") or b.get("tarih")) and not mulga(b)), key=sirala_anahtar, reverse=True)[:15]
     tam = sum(1 for b in belgeler.values() if b["tam_metin"])
     icerik = f"""<section class="kahraman">
   <h1>Sağlık mevzuatına tek noktadan ulaşın</h1>

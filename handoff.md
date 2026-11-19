@@ -441,3 +441,11 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - 1593 sayılı Kanunda iki parçalı değişiklik tablosu birleştirildi; sayfa numarası artıkları (1100-1104, 2827-2871) silindi.
 - Md. 127: 663 KHK → 2/11/2011, 7153 → 10/12/2018. Md. 128: 700 KHK → 9/7/2018, AYM iptali → 17/11/2026.
 - surum_kanun.py arka planda (log /private/tmp/sk.log); yürürlük tablosundaki tarihten RG araması yapıyor.
+
+## 2026-11-19 — Kopya çiftleri ve ana sayfa
+- Ajan sınıflandırması (calisma/kopya-surum/sonuc-*.json) uygulandı (elle-duzeltme.json):
+  - ayrı belge ("ayri": true; baslik_anahtari ayrı anahtar verir, ciftleri_birlestir atlar): 2008/64 bütçe çağrısı, mahalle sağlık evleri, anne ölümleri genelgesi (103445), Fiyatlandırma Komisyonu 2026/5.
+  - eski metin ("yerine" + durum): Ön Mali Kontrol 2020, AŞİE eski (11107→11136), Stok 2013/9 (01.02.2013), TRSM 2011, AH tarama katsayısı 2021, Genel Tıbbi İşlemler (2025 kitap metni).
+  - 2014/11 Hukuki İşlem Ehliyeti çifti yalnız tarih farkı; birleşik bırakıldı.
+- tekillestir: aynı genelge numarasında biri ötekinin "yerine/kaldiran"ı ise birleştirilmez.
+- Ana sayfa "Son düzenlemeler": mülga kayıtlar gösterilmiyor.

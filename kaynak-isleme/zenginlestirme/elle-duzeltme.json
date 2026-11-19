@@ -618,5 +618,45 @@
  "sbg-103807-il-saglik-mudurlugu-ve-birimleri-kurum-hizmet-ve-tesvik-ek-odeme-yoner": {
   "durum": "yürürlükten kaldırıldı",
   "kaldiran": "k26b-il-saglik-mudurlukleri-ve-birimleri-kurum-hizmet-ve-tesvik-ek-odeme-yonergesi-2024"
+ },
+ "sbg-10716-2009-2010-2011-yillari-doner-sermaye-butce-cagrisi-genelgesi-2008-64": {
+  "ayri": true
+ },
+ "sbg-11083-mahalle-saglik-evlerinin-saglik-ocagi-ebe-bolgesi-olarak-degistirilmes": {
+  "ayri": true
+ },
+ "sbg-103445-anne-olumleri-genelgesi": {
+  "ayri": true
+ },
+ "rg-20261002-saglik-hizmetleri-fiyatlandirma-komisyonu-karari-2026-5": {
+  "ayri": true
+ },
+ "sb-saglik-bakanligi-on-mali-kontrol-i-slemleri": {
+  "durum": "değişiklikten önceki metin",
+  "yerine": "sbg-103800-saglik-bakanligi-on-mali-kontrol-islemleri-yonergesi-degisiklikler-isl"
+ },
+ "sbg-103800-saglik-bakanligi-on-mali-kontrol-islemleri-yonergesi-degisiklikler-isl": {
+  "tarih": "2020-07-24",
+  "sayi": "356"
+ },
+ "sbg-11107-asi-sonrasi-istenmeyen-etkiler-genelgesi": {
+  "durum": "yürürlükten kaldırıldı",
+  "yerine": "sbg-11136-asi-sonrasi-istenmeyen-etkiler-genelgesi-2009"
+ },
+ "sb-stok-yonetimi-ve-tasinir-mal-uygulamalari-genelgesi-2013-9": {
+  "durum": "değişiklikten önceki metin",
+  "yerine": "sbg-103547-stok-yonetimi-ve-tasinir-mal-uygulamalari-genelgesi-2013-9"
+ },
+ "sbg-11269-toplum-ruh-sagligi-merkezleri-hakkinda-yonerge": {
+  "durum": "yürürlükten kaldırıldı",
+  "yerine": "sb-toplum-ruh-sagligi-merkezleri-hakkinda-yonerge"
+ },
+ "aile-hekimligi-tarama-ve-takip-katsayisina-iliskin-yonerge": {
+  "durum": "yürürlükten kaldırıldı",
+  "yerine": "dx-aile-hekimligi-tarama-ve-takip-katsayisina-iliskin-yonerge"
+ },
+ "sb-genel-tibbi-i-slemler-yonergesi": {
+  "durum": "değişiklikten önceki metin",
+  "yerine": "k-genel-tibbi-islemler-yonergesi-2025"
  }
 }
