@@ -485,3 +485,4 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - PDF/OCR ilk metinler (ajan denetimli): Geçici Koruma 46/66, KÖİ Uygulama 66/73 (iki kayıt), AH Sözleşme ve Ödeme 19/32, TSK Sağlık Yeteneği 32/93.
 - site_uret.surumleri_yukle: doğrulama oranı %25'in altındaysa eski metin gösterilmez.
 - Toplam 3973/4901 (%81); 114 belgenin tarihli sürümü sitede. Kalan: SUT; 1 ve 4 sayılı CBK; 2000 öncesi RG'si taranmış belgeler (Acil Sağlık Hizmetleri, Yataklı Tedavi vb.).
+- Canlı doğrulama: e95ac82 yayında; yeni sürüm dosyaları ve yeni iki belge erişilebilir.
