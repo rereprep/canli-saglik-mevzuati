@@ -4,7 +4,7 @@ baslik: "Beşerî Tıbbi Ürünlerin Tanıtım Faaliyetleri Hakkında Yönetmeli
 tur: "yonetmelik"
 rg_tarih: "2015-07-03"
 rg_sayi: "29405"
-kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin; 21.11.2026 değişikliği Resmî Gazete metninden işlendi"
 kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20880&MevzuatTur=7&MevzuatTertip=5"
 not: "Ek V: Sağlık ve sağlıkla ilgili yönetmelikler."
 durum: "yürürlükte"
@@ -28,7 +28,7 @@ durum: "yürürlükte"
 
 #### Dayanak
 
-**MADDE 3 –** (1) Bu Yönetmelik, 14/5/1928 tarihli ve 1262 sayılı İspençiyari ve Tıbbi Müstahzarlar Kanunu ile 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 27 ve 40 ıncı maddelerine dayanılarak hazırlanmıştır.
+**MADDE 3 –** (Değişik:RG-21/11/2026-33437) (1) Bu Yönetmelik, 14/5/1928 tarihli ve 1262 sayılı İspençiyari ve Tıbbi Müstahzarlar Kanununa, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun ek 13 üncü maddesine, 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanununa ve 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 506 ncı ve 508 inci maddelerine dayanılarak hazırlanmıştır.
 
 #### Tanımlar
 
@@ -84,7 +84,7 @@ ifade eder.
 
 a) Hekim, diş hekimi ve eczacıya tanıtım malzemeleri kullanılarak,
 
-b) Bilimsel toplantılar ve ürün tanıtım toplantıları düzenlenerek veya desteklenerek,
+b) (Değişik:RG-21/11/2026-33437) Bilimsel toplantılar desteklenerek ve ürün tanıtım toplantıları ile ruhsat veya izin sahiplerinin, ülkemizdeki üretim tesislerine ziyaret düzenlenerek,
 
 c) Hekim, diş hekimi ve eczacılara ürün tanıtım temsilcileri tarafından ziyaret yapılarak,
 
@@ -107,6 +107,8 @@ a) İlgili mevzuata göre ruhsatlandırılmamış ya da izin verilmemiş ürünl
 b) İlgili mevzuata göre ruhsatlandırılmış ya da izin verilmiş ürünlerin Kurumca onaylanan kullanım alanları dışında,
 
 c) Yurt dışı tedarikçiler aracılığıyla temin edilen ürünlerden Sosyal Güvenlik Kurumu tarafından alternatif geri ödeme modelleri kapsamında satın alınan ve Kuruma bildirilen ürünlerin farmakovijilansa yönelik yürüttükleri tanıtım faaliyetleri hariç olmak üzere ilgili mevzuata göre ruhsatlandırılmış ya da izin verilmiş ancak ülke piyasasında bulunamadığı için reçete karşılığında yurt dışından teminine Kurum tarafından izin verilen ürünlerin,
+
+ç) (Ek:RG-21/11/2026-33437) İlgili mevzuata göre ruhsatlandırılmış ya da izin verilmiş ancak ülke piyasasında bulunmayan ürünlerin,
 
 tanıtımı yapılamaz.
 
@@ -246,7 +248,7 @@ b) Ürün tanıtım temsilcileri ziyaretin başında hangi ruhsat/izin sahibini 
 
 (2) Ruhsat/izin sahibi, ruhsatlandırılan veya izin verilen ürünün piyasaya arz edildiğini sağlık meslek mensuplarına basın duyurusu ile ilân etmek istemesi durumunda, hazırladığı ilân metninin birebir örneğini Kuruma göndererek Kurumdan izin alır. Basın duyurusu bir kez yayımlanabilir. Gazetelerde yayımlanacak basın duyurusunun boyutu gazete tam sayfasının 1/8’ini geçemez.
 
-(3) Ruhsat/izin sahipleri tarafından düzenlenecek veya desteklenecek bilimsel toplantılar ve ürün tanıtım toplantıları Kuruma bildirilir. Yurt içi toplantılarda her toplantıdan en az on beş iş günü önce; yurt dışı toplantılarda ise en az otuz iş günü önce toplantının içeriği, muhtemel katılımcı listesi, yapılacak masraf kalemleri ve etkinliklerin Kuruma bildirilmesi zorunludur. Evrak girişi yapılmış bildirimler, Kurum tarafından on iş günü içerisinde sadece elektronik olarak cevaplandırılır, cevaplandırılmaması hâlinde başvuru için onay verilmiş sayılır.
+(3) Ruhsat/izin sahipleri tarafından düzenlenecek veya desteklenecek bilimsel toplantılar ve ürün tanıtım toplantıları Kuruma bildirilir. (Değişik cümle:RG-21/11/2026-33437) Yurt içi toplantılarda her toplantıdan en az beş iş günü önce; yurt dışı toplantılarda ise en az on iş günü önce toplantının içeriği, muhtemel katılımcı listesi, yapılacak masraf kalemleri ve etkinliklerin Kuruma bildirilmesi zorunludur. Evrak girişi yapılmış bildirimler, Kurum tarafından on iş günü içerisinde sadece elektronik olarak cevaplandırılır, cevaplandırılmaması hâlinde başvuru için onay verilmiş sayılır.
 
 (4) Ruhsat/izin sahibi, desteklediği toplantı gerçekleştikten sonra, katılımcı listesi, masraf kalemleri ve yapılan etkinlikleri, Kurum tarafından belirlenen formatta ve dijital ortamda ayrıntılı olarak en geç otuz gün içerisinde Kuruma bildirir. Katılımcılara verilen destekle ilgili bilgi ve belgelerin örnekleri ilgili ruhsat/izin sahibi tarafından beş yıl süreyle muhafaza edilir.
 
@@ -372,4 +374,4 @@ yürürlüğe girer.
 | Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin |
 | Tarihi | Sayısı |
 | 1. | 16/11/2019 | 30950 |
-| 2. |  |  |
+| 2. | 21/11/2026 | 33437 |

@@ -490,3 +490,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 ## 2026-11-20 — Genelge adlarından numaralar
 - site_uret.genelge_ad_temizle (yalnız gösterim): sayı sütunuyla aynı olan baştaki "2004-66 …", sondaki "(2014/26)", "… 2009 / 5", "(Genelge 2010/71)" kaldırılır; "2006/79 Sayılı Genelgenin…" gibi adın parçası olan numaralar kalır. 310 genelge adı değişti.
 - Kullanıcı kararı: SUT, 1 ve 4 sayılı CBK ile 2000 öncesi RG'si taranmış eski yönetmeliklerin tarihli sürümleri yapılmayacak.
+
+## 2026-11-22 — RG 20–22.11 ve kaynak taraması
+- RG 21.11.2026/33437: Beşerî Tıbbi Ürünlerin Tanıtım Faaliyetleri Hakkında Yönetmelikte Değişiklik (md. 3, 5/2-b, 6/2-ç ek, 11/3 ikinci cümle) ana metne RG metninden işlendi (mevzuat.gov.tr henüz işlememişti); değişiklik tablosuna 2. satır, indeks.json'a sürüm eklendi (19/19). PR #4 yorumla kapatıldı; önerdiği Gaziantep Üniv./Suriye kararları sağlık mevzuatı değil.
+- RG 20 ve 22.11: sağlıkla ilgili yok. HSGM (486 kayıt) ve Bakanlık birim sayfalarında yeni belge yok. TİTCK/SHGM listeleri JS ile yükleniyor, düz indirmede liste gelmiyor.
+- Not: mevzuat.gov.tr 21.11 değişikliğini işleyince metin karşılaştırılmalı.
