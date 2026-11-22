@@ -513,3 +513,9 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - "Amacı metinde belirtilmemiştir" cümleleri kaldırıldı; Yataklı Tedavi notuna amaç (Sağlık Raporları Yönetmeliği ile örtüşme) eklendi.
 - YZ notları tamamlandı: 1476 sayfada not (1479 tam metin). Notsuz 3: Bebek Ölümleri İzlemi Genelgesi (metnin başı yalnız form), Sözleşmeli Aile Çalışanı Bulunmayan AH Birimleri (metin yetersiz), Ulusal Tüberküloz Tanı Laboratuvarları Ağı Tebliği — DİKKAT: bu kaydın metni tebliğ değil bir sunum (TULSA slaytları); doğru metin bulunmalı.
 - Canlı doğrulama: b72ba58 yayında; belge sayfalarında YZ kutusu, ana sayfada 15 YZ satırı.
+
+## 2026-11-22 — Üç bozuk kaydın düzeltilmesi
+- Bebek Ölümleri İzlemi Sistemi Genelgesi 2009/31: sitede yalnız Ek-1 formu vardı; genelge metni saglik.gov.tr sayfa gövdesinden alındı (04.05.2009, AÇSAP GM, B10.0.AÇS...-2473), form EK-1 olarak sonda. 2018/7 ile mülga bağlantısı zaten var.
+- Sözleşmeli Aile Sağlığı Çalışanı Bulunmayan AH Birimleri (14.08.2025): 1. madde, 2. maddenin başı ve sayı/tarih eksikti; HSGM PDF'inden tam yazıldı.
+- Ulusal Tüberküloz Tanı Laboratuvarları Ağı Tebliği: metin bir sempozyum sunumuydu (tmc-online.org). RG 22.02.2012/28212 metniyle değiştirildi; 25.10.2015/29513 Tüberküloz Laboratuvarlarının Çalışma Usul ve Esaslarına Dair Tebliğ (yeni kayıt, md.25 ile kaldırıyor) eklendi ve mülga bağlandı.
+- Dört belgenin YZ notu yazıldı (toplam 1480).

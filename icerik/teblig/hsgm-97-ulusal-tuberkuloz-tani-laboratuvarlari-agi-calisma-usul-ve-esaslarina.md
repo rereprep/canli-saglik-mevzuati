@@ -2,1362 +2,451 @@
 id: "hsgm-97-ulusal-tuberkuloz-tani-laboratuvarlari-agi-calisma-usul-ve-esaslarina"
 baslik: "Ulusal Tüberküloz Tanı Laboratuvarları Ağı Çalışma Usul ve Esaslarına Dair Tebliğ"
 tur: "teblig"
+tarih: "2012-02-22"
+rg_tarih: "2012-02-22"
+rg_sayi: "28212"
 birim: "Halk Sağlığı Genel Müdürlüğü"
-kaynak: "T.C. Sağlık Bakanlığı Halk Sağlığı Genel Müdürlüğü (hsgm.saglik.gov.tr)"
-kaynak_url: "https://www.tmc-online.org/pdf/Nurhan_ALBAYRAK.pdf"
-durum: "yürürlükte"
-kontrol_edildi: true
+kaynak: "Resmî Gazete, 22.02.2012, Sayı 28212"
+kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2012/02/20120222-20.htm"
+durum: "yürürlükten kaldırıldı"
+kaldiran: "rg-20151025-tuberkuloz-laboratuvarlarinin-calisma-usul-ve-esaslarina-dair-teblig"
 ---
 
-T.C. Sağlık Bakanlığı
+### ULUSAL TÜBERKÜLOZ TANI LABORATUVARLARI AĞI
 
-Türkiye Halk Sağlığı Kurumu
+### ÇALIŞMA USUL VE ESASLARINA DAİR TEBLİĞ
 
-TÜBERKÜLOZ LABORATUVAR
+### BİRİNCİ BÖLÜM
 
-SÜRVEYANS AĞI (TULSA)
+Amaç, Kapsam, Dayanak ve Tanımlar
 
-ÇALIŞMALARI
+#### Amaç
 
-NURHAN ALBAYRAK
+**MADDE 1 –** (1) Bu Tebliğin amacı, Ulusal Tüberküloz Tanı Laboratuvarları Ağının yapısını ve bu laboratuvarların çalışma usul ve esaslarını belirlemektir.
 
-Amaç;
+#### Kapsam
 
-Sürveyans nedir? daha fazla hayatın kurtarılması
+**MADDE 2 –** (1) Bu Tebliğ 25/8/2011 tarihli ve 28036 sayılı Resmî Gazete’de yayımlanan Tıbbi Laboratuvarlar Yönetmeliğinin kapsamında yer alan doping, adli tıp, veteriner hekimlik, doku tipleme, genetik ve araştırma amaçlı kurulmuş laboratuvarlar dışındaki, Devlet ve vakıf üniversiteleri, kamu kurum/kuruluşları ile özel hukuk tüzel kişilerine ve gerçek kişilere ait tıbbi laboratuvarları kapsar.
 
-Sistem
+#### Dayanak
 
-Bildirim
+**MADDE 3 –** (1) 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşların Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 26 ncı maddesine dayanılarak hazırlanmıştır.
 
-Olay Veri
+#### Tanımlar
 
-Analiz ve yorumlama
+**MADDE 4 –** (1) Bu Tebliğde geçen;
 
-Geri
+a) Bakan: Sağlık Bakanını,
 
-bildirim
+b) Bakanlık: Sağlık Bakanlığını,
 
-Eylem Bilgi
+c) Birinci Seçenek Antitüberküloz İlaç Duyarlılık Testi: İzoniazid (INH), rifampisin (RIF), etambutol (EMB), streptomisin (SM) ve mümkünse pirazinamid (PZA) duyarlılık testlerini,
 
-Eylem için bilgi…
+ç) Dış kalite kontrol: Laboratuvarların test sonuçlarının güvenilirliğini sağlamak veya yükseltmek amacıyla laboratuvarın dışındaki bir sistem/kurum/kuruluş tarafından düzenlenen içeriği veya konsantrasyonu bilinen örneklerle yapılan izleme ve değerlendirme çalışmasını,
 
-Sunum içeriği
+d) Düzey-I tüberküloz tanısı yapan laboratuvarlar: Tıbbi Laboratuvarlar Yönetmeliğinde belirtilen basit hizmet laboratuvarlarını,
 
-Tüberkülozda güncel durum
+e) Düzey-II tüberküloz tanısı yapan laboratuvarlar: Tıbbi Laboratuvarlar Yönetmeliğinde belirtilen kapsamlı hizmet laboratuvarlarını,
 
-
+f) Düzey-III tüberküloz tanısı yapan laboratuvarlar: Tıbbi Laboratuvarlar Yönetmeliğinde belirtilen ileri düzey hizmet laboratuvarlarını,
 
-Dünyada Tüberküloz
+g) İkinci Seçenek Antitüberküloz İlaç Duyarlılık Testi: Birinci seçenek antitüberküloz ilaç dışında kalan ve tüberküloz tedavisinde kullanılan ilaçlara (protionamid/etionamid, kanamisin/amikasin, kapreomisin, ofloksasin, PAS, moksifloksasin) uygulanan duyarlılık testlerini,
 
-
+ğ ) Klinik örnek: Tüberküloz şüpheli veya tüberküloz tanısı konulmuş bireylerden tanı veya takip amacıyla alınan akciğer ya da akciğer dışı (balgam, açlık mide suyu, bronkoalveolar lavaj sıvısı, bronş yıkama sıvısı, korunmuş fırçalama örneği, idrar, periton sıvısı, perikard sıvısı, plevra sıvısı, eklem sıvısı, beyin omurilik sıvısı, abse içeriği, pü, aspirasyon sıvısı, doku biyopsi örneği, kemik iliği, deri lezyonu, yara sürüntü örneği, lenf nodülü, gaita ve benzeri.) örnekleri,
 
-Tüberküloz ilaç direnci sürveyansı
+h) Rehber: Ulusal Tüberküloz Referans Laboratuvarı tarafından hazırlanan ve hazırlanacak konusuyla ilgili açıklayıcı rehberi,
 
-
+ı) Tüberküloz Referans Hizmet Laboratuvarları: Tıbbi Laboratuvarlar Yönetmeliğinde belirtilen Referans Hizmet laboratuvarlarını,
 
-Türkiye’de Tüberküloz İlaç Direnci
+i) Tüberküloz tanısı yapan laboratuvar: Tüberkülozun önlenmesi, tanısı ve tedavisinin izlenmesi amacı ile klinik örneklerin incelendiği ve ileri incelemeler için önerileri de içeren hizmetlerin sunulduğu klinik laboratuvarı,
 
-
+j) Ulusal Tüberküloz Referans Laboratuvarı (UTRL): Tıbbi Laboratuvarlar Yönetmeliğinde belirtilen Ulusal Referans laboratuvarlarını,
 
-Tüberküloz Laboratuvar Sürveyans Ağı (TuLSA)
+k) Ulusal Tüberküloz Tanı Laboratuvarları Ağı: Düzey-I tüberküloz tanısı yapan laboratuvarlar, Düzey-II tüberküloz tanısı yapan laboratuvarlar, Düzey-III tüberküloz tanısı yapan laboratuvarlar, Tüberküloz Referans Hizmet Laboratuvarları ve Ulusal Tüberküloz Referans Laboratuvarı’ndan oluşan Ulusal Tüberküloz Tanı Laboratuvarları Ağını,
 
-
+ifade eder.
 
-Amaç ve hedefleri
+### İKİNCİ BÖLÜM
 
-
+Ulusal Tüberküloz Tanı Laboratuvarları Ağı ve Görevleri
 
-Kapsamı
+#### Ulusal tüberküloz tanı laboratuvarları ağı
 
-
+**MADDE 5 –** (1) Ulusal tüberküloz tanı laboratuvarları ağı: Düzey-I tüberküloz tanısı yapan laboratuvarlar, Düzey-II tüberküloz tanısı yapan laboratuvarlar, Düzey-III tüberküloz tanısı yapan laboratuvarlar, Tüberküloz Referans Hizmet Laboratuvarları ve Ulusal Tüberküloz Referans Laboratuvarı’ndan oluşur.
 
-Sürveyans faaliyetleri
+(2) Ulusal Tüberküloz Tanı Laboratuvarları Ağı içersinde yer alan laboratuvarlar, ileri tanı testlerini çalışmak, kalite kontrolü, denetim ve personel eğitimini yapmak üzere aşağıda belirlenen şekilde sorumludurlar:
 
-
+a) Düzey-I tüberküloz tanısı yapan laboratuvarlar, Düzey-II tüberküloz tanısı yapan laboratuvarlara,
 
-İDT kontrolü
+b) Düzey-II tüberküloz tanısı yapan laboratuvarlar, Düzey-III tüberküloz tanısı yapan laboratuvarlara,
 
-
+c) Düzey-III tüberküloz tanısı yapan laboratuvarlar, Tüberküloz Referans Hizmet Laboratuvarlarına,
 
-Web sistemi
+ç) Tüberküloz Referans Hizmet Laboratuvarları, Ulusal Tüberküloz Referans Laboratuvarı’na karşı sorumludurlar.
 
-
+#### Tüberküloz tanısı yapan laboratuvarların görevleri
 
-Dış Kalite Değerlendirme
+**MADDE 6 –** (1) Düzey-I tüberküloz tanısı yapan laboratuvarların görevleri aşağıda belirtilmiştir:
 
-
+a) Klinik örneği doğrudan ARB ile boyayarak mikroskopik incelemesini yapar.
 
-Yerinde Değerlendirme
+b) Tetkikin sonucunu tetkik isteyen birime/hekime bildirmekten sorumludur.
 
-
+c) Klinik örnekleri kültür ve ilaç duyarlılık testleri için Düzey-II tüberküloz tanısı yapan laboratuvara gönderir.
 
-Tebliğ, Rehber
+(2) Düzey-II tüberküloz tanısı yapan laboratuvarların görevleri aşağıda belirtilmiştir:
 
-
+a) Klinik örnekleri işledikten sonra uygun ARB boyama yöntemleri ile boyayarak mikroskopik inceleme yapar.
 
-Eğitim
+b) Klinik örneklerin UTRL’nin uygun gördüğü uluslararası standartlara uygun mikobakteri kültürünü yapar.
 
-
+c) Üreyen kültürde Mycobacterium tuberculosis kompleks tanımlamasını ve birinci seçenek antitüberküloz ilaç duyarlılık testlerini yapar, ürettiği dirençli suşları UTRL’ye gönderir.
 
-Ağa dahil olma kriterleri
+ç) Mikroskopi, kültür, M. tuberculosis kompleks tanımlamasını ve ilaç duyarlılık test sonuçlarını testi talep eden hekime bu Tebliğ hükümlerine uygun olarak zamanında bildirir.
 
-
+d) Birinci seçenek ilaçlardan Rifampisine dirençli ve/veya diğer birinci seçenek antitüberküloz ilaçlarından en az ikisine direnç saptananlarda; ikinci seçenek ilaçların duyarlılık testini yapar veya yapılmak üzere Düzey-III tüberküloz tanısı yapan laboratuvara gönderir.
 
-Planlarımız
+e) ARB pozitif örneklerde M.tuberculosis kompleks tanımlanması ve Çoğul İlaç Direnci (ÇİD) şüphesi durumunda Rifampisin için hızlı ilaç duyarlılık testi yapabilir.
 
-
+f) Hekimin talebi ve sorumluluğunda, Ulusal Tüberküloz Kontrol Programı tarafından belirlenen endikasyonlar çerçevesinde interferon gama salınım testleri (İGST) yapabilir.
 
-Dünya’da Tüberküloz
+g) Gerektiğinde ileri analiz için suşları Düzey-III tüberküloz tanısı yapan laboratuvarlara gönderir.
 
-Tüberküloz (TB);
+ğ) Kültürde üremiş klinik önemi olan tüberküloz dışı mikobakterilerin ilaç duyarlılık testlerini yapar veya yapılmak üzere Düzey-III tüberküloz tanısı yapan laboratuvarlara gönderir.
 
-Dünyanın en ölümcül bulaşıcı hastalığı
+h) Kültürde üretilen mikobakteri suşlarını stoklar.
 
-
+ı) Birlikte çalıştıkları Düzey-I tüberküloz tanısı yapan laboratuvarların eğitimini, kalite kontrolü çalışmalarını ve denetimini UTRL’nin programı çerçevesinde yapar.
 
-2013 yılında;
+i) UTRL’nin Ulusal Tüberküloz Kontrol Programı kapsamında yapacağı eğitim ve çalışmalara katılır.
 
-
+j) Ulusal Tüberküloz Kontrol programı doğrultusunda verileri Ulusal Tüberküloz Referans Laboratuvarına iletir.
 
-9 milyon kişide hastalık gelişmiş
+(3) Düzey-III tüberküloz tanısı yapan laboratuvarların görevleri aşağıda belirtilmiştir:
 
-
+a) Klinik örnekleri işledikten sonra uygun ARB boyama yöntemleri ile boyayarak mikroskopik inceleme yapar.
 
- Ancak 5,7 milyon (%64) olgu tanı almış ya da bildirilmiş
+b) Klinik örneklerin UTRL’nin uygun gördüğü uluslararası standartlara uygun mikobakteri kültürünü yapar.
 
-1,5 milyon hasta ölmüş
+c) Üreyen kültürde M-tuberculosis kompleks tanımlamasını, birinci ve ikinci seçenek antitüberküloz ilaç duyarlılık testlerini yapar.
 
-
+ç) Düzey-II tüberküloz tanısı yapan laboratuvarından gelecek kültürde üremiş ve klinik önemi olan tüberküloz dışı mikobakterilerin tür belirlenmesi ve ilaç duyarlılık testlerini yapar.
 
-Tanı ve bildirim
+d) Mikroskopi, kültür, M.tuberculosis kompleks tanımlamasını ve ilaç duyarlılık test sonuçlarını testi talep eden hekime bu Tebliğ hükümlerine uygun olarak zamanında bildirir.
 
-yeterli değil
+e) ARB pozitif örneklerde M.tuberculosis kompleks tanımlanması ve ÇİD şüphesi durumunda Rifampisin için hızlı ilaç duyarlılık testi yapabilir.
 
-Global Tuberculosis Report, 2014
+f) Hekimin talebi ve sorumluluğunda, Ulusal Tüberküloz Kontrol Programı tarafından belirlenen endikasyonlar çerçevesinde İGST yapabilir.
 
-Dünya’da Tüberküloz
+g) Kültürde üretilen mikobakteri suşlarını stoklar, dirençli olanları UTRL’ye gönderir.
 
-2000-2013 yılları arasında;
+ğ) Düzey-II tüberküloz tanısı yapan laboratuvarların personelinin eğitimi, kalite kontrolü ve denetimini UTRL’nin programı çerçevesinde yapar.
 
-
+h) UTRL’nin Ulusal Tüberküloz Kontrol Programı kapsamında yapacağı eğitim ve kontrol çalışmalarına katılır.
 
-TB insidansı ortalama her yıl %1,5 azalmış,
+ı) Ulusal Tüberküloz Kontrol Programı doğrultusunda verileri Ulusal Tüberküloz Referans Laboratuvarına iletir.
 
-
+i) Ulusal Tüberküloz Kontrol Programı çerçevesinde UTRL’nin belirleyeceği ve/veya epidemiyolojik açıdan önemli olan örneklerde moleküler tiplendirme yapar ve sonuçlarını UTRL’ye bildirir.
 
- 37 milyon hayat etkin tanı ve tedavi sayesinde kurtarılmıştır.
+(4) Tüberküloz referans hizmet laboratuvarlarının görevleri aşağıda belirtilmiştir:
 
-1990-2013 yılları arasında;
+a) Düzey-III tüberküloz tanısı yapan laboratuvarının görevlerini yapar.
 
-
+b) Ulusal Tüberküloz Kontrol Programına yönelik operasyonel araştırmalar ve epidemiyolojik çalışmalar yapar, bu amaçla suş stoku ve moleküler yöntemlerle analiz yapar veya yapılmasını sağlar.
 
-TB ölüm oranı yaklaşık %45 oranında azalmış,
+c) Düzey-III tüberküloz tanısı yapan laboratuvarların dış kalite kontrollerinin yapılmasını, eğitim ve denetimlerini yapar.
 
-
+ç) Ulusal Tüberküloz Tanı Laboratuvarları Ağı içerisindeki laboratuvar çalışanlarının teknik eğitimlerini planlar ve yapılmasını sağlar.
 
-TB prevelansı yaklaşık %41 oranında azalmıştır.
+d) Tüberküloz kontrolü, tanısı ve tedavisine yönelik metotların geliştirilmesi, standardizasyonu ve bu tür çalışmaları Ulusal Tüberküloz Kontrol Programı çerçevesinde destekler, Ar-Ge çalışmalarını yapar, mümkünse yeni teknikler geliştirir ya da geliştirilen yeni tekniklerin laboratuvar adaptasyonlarını veya modifikasyonlarını yapar. Ayrıca, çalışma sonuçlarını ulusal otoritelere bildirir.
 
-
+e) Tüberküloz ile ilgili kit ve kimyasal müstahzarlar hakkında metodolojik çalışmalar yapıp sonuçlarını yayınlar.
 
-2013’de tedavi başarısı %86
+(5) Ulusal Tüberküloz Referans Laboratuvarının görevleri aşağıda belirtilmiştir:
 
-
+a) Tüberküloz Referans Hizmet Laboratuvarının görevlerini yapar.
 
-İnsidans halen
+b) Ulusal standartları belirler ve kuralların uygulandığını izler.
 
-100.000’de 126
+c) Ulusal Tüberküloz Kontrol Programı kapsamında yürütülen biyogüvenlik, mikroskopi, kültür, moleküler tanı, tür tayini, tip tayini, ilaç duyarlık testleri, kalite kontrolü gibi rutin laboratuvar hizmetlerinin standardizasyonunu, eğitimini ve uygulanabilirliğini sağlar.
 
-Global Tuberculosis Report, 2014
+ç) Ulusal Tüberküloz Tanı Laboratuvarları Ağının oluşturulması amacıyla ağ yapısını belirler, Düzey-I, Düzey-II, Düzey-III tüberküloz tanısı yapan laboratuvarları ve Tüberküloz Referans Hizmet Laboratuvarlarını koordine eder.
 
-Dünya’da Tüberküloz
+d) Düzey-I, Düzey-II, Düzey-III tüberküloz tanısı yapan laboratuvarları ve Tüberküloz Referans Hizmet laboratuvarlarının; kalite kontrol sistemi yönetimini veya denetimini yapar.
 
-Stop TB Stratejisi
+e) Tüberküloz Referans Hizmet Laboratuvarlarının eğitim ve denetlenmesi işlemini gerçekleştirir.
 
-Amaç;
+f) Ulusal antitüberküloz ilaç direnci sürvey veya sürveyansını yapar verilerini değerlendirir, sonuçları ulusal ve uluslararası otoritelere bildirir.
 
-
+g) Ulusal ve uluslararası teknik mevzuat uyumu ile ilgili konularda danışmanlık yapar, alt yapı (metot, cihaz, eğitim ve doküman vb.) ve uygulamalar ile ilgili çalışmalara katılır ve gerektiğinde bu konularda danışmanlık yapar. Laboratuvarların çalışmasında ve işletilmesinde esas alınacak ölçütlerin belirlenmesinde ve uygulanmasında Bakanlığa destek sağlar.
 
-TB yükünün azaltılması
+ğ) Kılavuz, kitap ve doküman hazırlar, sağlık çalışanlarına ve kurumlara tüberküloz ile ilgili konsültasyon, yönetim ve biyogüvenlik rehberliği yapar.
 
-
+h) Mikroskopi, kültür, ilaç duyarlılık testleriyle ilgili olarak standart uygulama prosedürleri hazırlar.
 
-Hedef;
+ı) Tüberküloz kontrolü, tanısı ve tedavisine yönelik metotların geliştirilmesi, standardizasyonu ve bu tür çalışmaları Ulusal Tüberküloz Kontrol Programı çerçevesinde destekler, Ar-Ge çalışmalarını yapar, mümkünse yeni teknikler geliştirir ya da geliştirilen yeni tekniklerin laboratuvar adaptasyonlarını veya modifikasyonlarını yapar. Ayrıca, çalışma sonuçlarını uluslararası kontrol otoritelerine bildirir.
 
-
+### ÜÇÜNCÜ BÖLÜM
 
-2015’e kadar
+Laboratuvarların Uygulama Prosedürlerine İlişkin Hususlar
 
-
+#### Laboratuvarlarının uygulama prosedürleri
 
-TB insidansını azaltmak
+**MADDE 7 –** (1) Klinik örnek aşağıdaki şekilde alınır:
 
-
+a) Toplam üç balgam örneği alınması önerilir; hastanın ilk muayenesinde iki balgam örneği alınabiliyorsa alınır, ertesi gün sabah bir balgam örneği daha alınır. Birinci gün tek örnek alınmış ise ikinci gün biri sabah olmak üzere 2 örnek daha alınır.
 
-TB prevelansı ve ölümlerini %50 azaltmak
+b) Balgam dışındaki diğer klinik örnekler için konuyla ilgili Bakanlıkça oluşturulan rehberlere başvurulur.
 
-
+c) Örnekler biyogüvenlik ve taşıma kurallarına uygun olarak en geç 48 saat içerisinde ilgili laboratuvara gönderilir.
 
-Akciğer TB olgularının %70’ine bakteriyolojik tanı
+ç) Klinik örnek laboratuvara ulaştığı gün işleme alınır.
 
-
+d) Örneğin kalitesi değerlendirilir ve uygun kalitedeki klinik örneğin kabulü yapılır. Uygun değilse örneği gönderen birime rapor düzenlenir ancak örnek çalışmaya alınır.
 
-Akciğer TB olgularının % 85’ini başarı ile tedavi etmek
+(2) Doğrudan mikroskopi aşağıdaki şekilde hazırlanır:
 
-
+a) Balgamın pürülan kısımlarından doğrudan yayma preparat hazırlanır.
 
-2050’de;
+b) Preparat ARB boyama yöntemleriyle boyanarak mikroskop ile incelenir.
 
-
+c) Sonuçlar klinik örnek laboratuvara ulaştıktan sonraki en geç 24 saat içinde verilir.
 
-TB’nin eradikasyonu (< 1/1.000.000)
+ç) Bu işlemden sonra tüm örnekler biyogüvenlik kurallarına uygun olarak verileriyle birlikte en geç 48 saat içinde gerekli testler yapılmak üzere Düzey-II tüberküloz tanısı yapan laboratuvara gönderilir.
 
-
+(3) Tüberküloz tanısı yapan laboratuvarda klinik örnekler aşağıdaki şekilde işlenir, incelenir ve bildirilirler:
 
-Dünya’da Tüberküloz
+a) Tüm klinik örnekler, mikroskopik inceleme, kültür ve moleküler yöntemler için standart uygulama prosedürlerine uygun olarak hazırlanır.
 
-ÇİD-TB
+b) Aerosol oluşturan işlemler için “Biyogüvenlik Sınıf-II” kabin kullanılır.
 
-(Çok ilaca dirençli-TB)
+c) Balgam örneği, NALC-NaOH yöntemiyle 15 dakika dekontaminasyon ve homojenizyon işlemine tabi tutulduktan sonra, nötralize edilip, tercihen soğutmalı santrifüjde 3000xg’de 15 dakika çevrilerek yoğunlaştırma işlemi uygulanır.
 
-Ulusal TB programları tarafından 2013 yılında tahmini olarak bildirilen ÇİD-TB olguları
+ç) Balgam dışındaki diğer örnekler için UTRL tarafından hazırlanan rehbere uygun olarak işleme alınır.
 
-ÇİD-TB olarak tespit edilen olgular
+d) Mikroskopik inceleme aşağıda belirtildiği şekilde uygulanır:
 
-İkinci seçenek İDT tedavisi başlanan
+1) İşlenmiş örneklerden, daha önce kullanılmamış rodajlı lam üzerinde preparat hazırlanır.
 
-ÇİD-TB olguları
+2) Hazırlanan preparatlar uygun ARB boyama yöntemiyle boyanır.
 
-Tedavisi başarı ile sonuçlanan
+3) Kullanılan boyama yöntemine bağlı olarak, floresan mikroskobu, tercihen LED veya ışık mikroskobu ile mikroskopik inceleme yapılır.
 
-ÇİD-TB olguları
+4) Florokrom boyama yöntemi ile pozitif saptanan örnekler EZN veya Kinyoun yöntemi ile doğrulanır.
 
-Global Tuberculosis Report, 2014
+5) Mikroskopi sonuçları en geç 24 saat içerisinde istemi yapan hekime/kuruma bildirilir.
 
-Tüberküloz İlaç Direnci Sürveyansı
+6) Mikroskopik inceleme sonuçları belli oluncaya kadar balgam örnekleri +4oC/+8oC’de saklanır.
 
-Küresel Proje - 3 temel prensip
+7) Yayma-pozitif ÇİD şüphesi olan balgam örneklerinde hızlı moleküler testler ile tüberküloz dışı mikobakteri olup olmadığının belirlenmesi ve rifampisin direnci tayini yapılabilir.
 
- Laboratuvar kalite güvence sistemi
+e) Kültür ve tür tayini işlemleri aşağıdaki şekilde yapılır:
 
- Kontrollü laboratuvar sonucu
+1) Tüm örnekler kültür için bir katı ve bir sıvı olmak üzere en az iki farklı besiyerine veya kültür sistemlerine ekilir. Kullanılan kültür sistemleri standardize edilmiş ve uluslararası kabul görmüş olmalıdır. Katı besiyeri olarak Lowenstein-Jensen, modifiye Lowenstein-Jensen veya Ogawa besiyeri kullanılır.
 
-Doğru ve zamanında tanı ve tedavi
+2) Kültürde üretilen izolatlara M. tuberculosis kompleks tanımlaması yapılır.
 
- Temsiliyetin sağlanması
+3) Yıllık pozitif kültür sayısının en az %90’ının sonuçlarının bildirimi; örneğin laboratuvara kabul edilmesinden itibaren en geç 21 gün içinde ve ilaç duyarlılık testleri sonuçları da; örneğin laboratuvara kabul edilmesinden itibaren en geç 30 gün içinde tetkik isteyen hekim, kurum veya kuruluşa yapılmalıdır.
 
- Örnek alınması, kültür ve ilaç duyarlılık yapılması
+4) Kültürde üreme olmayanların sonuçları da en geç 42 (kırk iki) gün içinde tetkik isteyen hekim, kurum veya kuruluşa bildirilmiş olmalıdır.
 
- Epidemiyolojik bilgi ile eşleştirme
+f) Birinci Seçenek Antitüberküloz İlaçlara Duyarlılık Testi aşağıdaki şekilde yapılır:
 
- Hasta dispanser kaydı bilgileri
+1) Her hastaya ait üremiş kültürlerden tetkike uygun ilk M. tuberculosis kompleks suşunun izoniazid (INH), rifampisin (RIF), etambutol (EMB), streptomisine (SM) ve mümkünse pirazinamid (PZA) duyarlılık testleri yapılır.
 
-Tüberküloz İlaç Direnci Sürveyansı
+2) M. tuberculosis kompleks suşlarının INH’a dirençli olanlar yüksek INH derişimlerinde test edilir.
 
-TB Supranasyonel Referans Laboratuvar Ağı
+g) İkinci Seçenek Antitüberküloz İlaçlara Duyarlılık Testi aşağıdaki şekilde yapılır:
 
-Global Tuberculosis Report, 2014
+1) Rifampisine dirençli veya diğer antitüberküloz ilaçlarından en az ikisine direnç saptananlarda ikinci seçenek ilaçlar (protionamid/etionamid, kanamisin/amikasin, kapreomisin, ofloksasin, PAS, moksifloksasin) için duyarlılık testi yapılır.
 
-Tüberküloz İlaç Direnci Sürveyansı
+2) Üç aylık tedaviye rağmen kültürü pozitif olan hastalara ait kültür örneklerinde; birinci ve ikinci seçenek ilaçlar için duyarlılık testleri birlikte yapılır.
 
-Global Tuberculosis Report, 2014
+3) Çok İlaca Dirençli/Yaygın İlaca Dirençli tüberkülozlu (ÇİD/YİD-TB) hastalar ile temaslı kişilerin klinik örneklerine, ÇİD/YİD-TB oranı yüksek olan bölgelerden gelen hastalara, tedavisinin üçüncü ayında hala yayma pozitif olan hastalara, yeni olgu dışındaki hastalara ait yayma pozitif örneklere M. tuberculosis kompleksi veya tüberküloz dışı mikobakteri olup olmadığının belirlenmesi amacıyla moleküler yöntemlerle tür tanımlaması yapılır. Bu örneklerde moleküler yöntemlerle RİF’e direnç tespit edilmesi halinde; birinci ve ikinci seçenek tüberküloz ilaçlarına karşı duyarlılık testleri yapılır.
 
-Tüberküloz İlaç Direnci Sürveyansı
+ğ) Tüberküloz dışı mikobakteri İlaç Duyarlılık Testi aşağıdaki şekilde yapılır: Tüberküloz dışı mikobakteri için; yalnızca klinik önemi olan izolatlarda duyarlılık testi yapılır.
 
-Tüm olgularda %5
+1) Mycobacterium avium İlaç Duyarlılık Testi: Klinik yanıt sadece makrolidler ile uyumludur. Mycobacterium avium İlaç Duyarlılık Testi hem yeni hem de tedavi başarısızlığı olmuş olgularda yapılır. İlaç Duyarlılık Testi’nde klaritromisin ve/veya azitromisin kullanılır.
 
-- Yeni olgularda %3,5
+2) Mycobacterium kansasii İlaç Duyarlılık Testi: Önceden tedavi görmüş M. kansasii suşlarına karşı sadece rifampisin direnci bakılmalıdır. Ancak rifampisine direnç saptandıktan sonra, amikasin, siprofloksasin, klaritromisin, etambutol, rifabutin, streptomisin, sulfonamid ve izoniazid test edilir.
 
-- Önceden tedavi görmüş olgularda %20,7
+3) Mycobacterium marinum için aylarca süren tedaviye yanıt yoksa ilaç duyarlılık testi yapılır.
 
-Global Tuberculosis Report, 2014
+4) Hızlı üreyen mikobakteriler için uygun yöntemle ilaç duyarlılık testi: Amikasin, sefoksitin, klaritromisin, siprofloksasin, doksisiklin, linezolid, TMP-SMX, imipenem, tobramisin, tigesiklin test edilecek ilaçlardır.
 
-Tüberküloz İlaç Direnci Sürveyansı
+h) Moleküler testler aşağıdaki şekilde yapılır:
 
-İlaç duyarlılık yapılma oranı
+1) Klinik olarak kuvvetle tüberküloz düşünülen; mikroskopi veya kültür negatif akciğer tüberkülozu ve akciğer dışı olgularda (BOS, kemik biyopsisi, eklem sıvısı vb. örneklerde) moleküler yöntemler kullanılabilir.
 
-Türkiye’de Tüberküloz İlaç Direnci
+2) Kültür pozitif örneklerde M. tuberculosis kompleksi ve tüberküloz dışı mikobakterilerin gerektiği hallerde tür ve tip düzeyinde belirlenmesi amacıyla moleküler yöntemler, diğer tanımlama testlerine yardımcı olarak kullanılabilir.
 
-Global Tuberculosis Report, 2011
+3) Mikroskopisi pozitif saptanan ÇİD şüpheli örneklerde moleküler yöntemler, M. tuberculosis kompleksi ayrımı ve RIF direncini belirlemede kullanılabilir.
 
-Tüberküloz Laboratuvar Sürveyans Ağı
+4) Tanı ve direnç tespiti için kullanılan moleküler testlerin sonuçları örnek laboratuvara ulaştıktan itibaren en geç 3 gün içinde istemi yapan hekim/kuruma bildirilir.
 
-(TuLSA)
+5) Moleküler Tiplendirme (Epidemiyolojik Tiplendirme) Spoligotipleme, IS6110-RFLP ve/veya MIRU-VNTR-24 yöntemleri, Düzey III tüberküloz tanısı yapan laboratuvar, Tüberküloz Referans hizmet laboratuvarı veya UTRL’de yapılır.
 
-TB kontrolüne laboratuvarın katkısı
+ı) Latent TB enfeksiyonu tanısında İGST yapılabilir. İGST endikasyonları Ulusal Tüberküloz Kontrol Programı tarafından belirlenir.
 
-
+i) İzolasyon, tür tanısı ve duyarlılık testleri; ulusal ve/veya uluslararası standartlara uygun olarak yapılır.
 
-Doğru ve zamanında tanı
+### DÖRDÜNCÜ BÖLÜM
 
-
+Laboratuvarların Fiziki Şartları, Cihaz ve Ekipmanlarına İlişkin Hususlar
 
-Doğru ve zamanında tedavi
+#### Laboratuvarların fiziki şartları
 
-
+**MADDE 8 –** (1) Düzey-I tüberküloz tanısı yapan laboratuvarların açılabilmeleri ve çalışabilmeleri için asgari oluşturmaları gerekli olan fiziki şartları aşağıda belirtilmiştir:
 
- TB kontrolüne laboratuvarın ağının katkısı
+a) Laboratuvarlar, biyolojik ve kimyasal risk değerlendirmesi temelinde uygun güvenlik düzeylerine göre, çalışanlar, hastalar ve ziyaretçiler için gerekli güvenlik koşullarını sağlayacak, koridorlar ve geçiş güzergâhları çıkışları engellemeyecek şekilde düzenlenir.
 
-Laboratuvar kapasitesinin değerlendirilmesi
+b) Laboratuvarlar, laboratuvar hizmetinin sürekliliğini sağlamak üzere gerekli enerji, güç kaynağı, su, iletişim, bilişim gibi ortam destek sistemlerini içerecek şekilde yapılandırılır.
 
-
+c) Tüberküloz laboratuvarları genel kullanım alanlarından ve klinik mikrobiyoloji laboratuvarlarından ayrı, aydınlatması iyi olan en az 10 m2 olarak oluşturulur, laboratuvarın teknik alanı işlevsel olarak bölümlendirilir.
 
-Laboratuvar kapasitesinin geliştirilmesi
+ç) Duvarlar ve tavan düzgün, kolaylıkla temizlenen, toz ve kir tutmayan, parlama ve yansıma yapmayan, su, kimyasal ve dezenfektanlara dayanıklı malzemeden yapılmış ya da bu tür bir madde ile kaplı ya da boyalı olmalıdır.
 
-
+d) Zemin kaygan olmamalı, temizlenmesi, yıkanması ve dezenfeksiyonu kolay olmalı,
 
-Sürveyans verisi ile bilginin eyleme geçmesi
+e) Kapı kendiliğinden kapanan ve kilitlenebilir özellikte olmalı, laboratuvar kapısı üzerine biyolojik tehlike işareti konulmalıdır.
 
-
+f) Laboratuvarda en az bir lavabo olmalı ve giderinin atık sistemine doğrudan karışmaması gerekir. Ayrı bir atık sistemi olmaması durumunda tüm tüberküloz şüpheli örneklere ait tıbbi atıkların ayrı bir kapta dezenfeksiyonu yapıldıktan sonra yine tıbbi atık olarak atılması sağlanır.
 
-TuLSA
+g) Nem, su ve kimyasallara dayanıklı malzemeden imal edilmiş çalışma masa ve dolapları kullanılır.
 
-Amaç;
+ğ) Mikroskopi için yapılan çalışmalar uygun havalandırma ile güçlendirilmiş açık bankolarda yapılır.
 
- Ülke genelinde kalite güvence sistemine dayalı, ilaca dirençli tüberküloz olgularının direnç yükünü ve seyrini belirlemek
+h) İş akışı hava akımı ile aynı yönde paralel olarak temiz alanlardan kirli alanlara doğru olması sağlanır.
 
-Hedef; 3 temel prensibi sağlamak
+ı) Laboratuvar; kayıt-kabul, çalışma alanı ve mikroskopi (temiz alan) olmak üzere üç bölüme ayrılır ve iş akışı materyal kabul, yayma, boyama, mikroskopi, kayıt ve raporlama şeklinde düzenlenir.
 
- Temsiliyet
+i) Laboratuvarda kontrolsüz sirkülasyon (klima, vantilatör ve benzeri cihaz gibi) yapan cihazlar çalışma sırasında kapatılır veya bu tür cihazlar laboratuvarda bulundurulmamalıdır.
 
- Epidemiyolojik veri ile eşleştirme
+j) Laboratuvar dezenfeksiyon açısından yeterli ve uygun ultraviyole (U.V.) lambalar ile desteklenir.
 
- Laboratuvar kalite güvence sistemi
+(2) Düzey-II tüberküloz tanısı yapan laboratuvarlarının fiziki şartları açılabilmeleri ve çalışabilmeleri için asgari oluşturmaları gerekli olan fiziki şartları aşağıda belirtilmiştir:
 
-TuLSA
+a) Düzey-II tüberküloz tanısı yapan laboratuvarların biyogüvenlik düzeyi TS EN 12128 standardında belirlenen “fiziksel korunma düzeyi 3” şartlarına uygun olmalıdır.
 
-Kapsam;
+b) Laboratuvar genel kullanım alanlarından ve klinik mikrobiyoloji laboratuvarlarından ayrı bir yerde konumlandırılır, laboratuvara giriş ve çıkışlar kontrollü olarak yalnızca sorumlu ve eğitim almış kişilerle sınırlandırılır.
 
- Tüm TB laboratuvarları
+c) Laboratuvar için kayıt-kabul, mikroskopi, örnek işleme ve kültür, ilaç duyarlılık, moleküler testler için ayrı alan/alanlar belirlenir.
 
- 154 Düzey I laboratuvar (mikroskopi)
+ç) Örnek işleme ve kültür işlemleri için en az 10m2’lik, ilaç duyarlılık testleri için en az 10m2’lik olmak üzere negatif hava basınçlı toplam 20 m² çalışma alanı olmalıdır.
 
- 157 Düzey II laboratuvar (mikroskopi ve kültür)
+d) Laboratuvar alanlarından atılan kirli hava tekrar laboratuvara veya genel kullanım alanlarına verilmez, temizlenmiş/dezenfekte edilmiş hava kullanılır.
 
- 75 Düzey III laboratuvar (+ MTBC-TDM ayrımı ve İDT)
+e) Kültür ve ilaç duyarlılık çalışma alanlarında en az birer sınıf II Biyogüvenlik Kabini bulunur, biyogüvenlik kabini/kabinleri dış ortama veya bina eksozuna bağlanması zorunludur,
 
- 2015 itibarı ile 41 ilden
+f) Besiyeri hazır olarak satın alınmıyor ise, besiyeri hazırlamak için en az 6 m2’lik bir alana sahip olunur.
 
- 22 Düzey II laboratuvar
+g) Bir sterilizasyon ünitesi bulunmalıdır.
 
- 50 Düzey III laboratuvar sisteme dahil
+(3) Düzey-III tüberküloz tanısı yapan laboratuvarların açılabilmeleri ve çalışabilmeleri için asgari oluşturmaları gerekli olan fiziki şartları aşağıda belirtilmiştir:
 
-TuLSA Faaliyetleri
+a) Düzey-II tüberküloz tanısı yapan laboratuvarın sağlaması gerekli tüm fiziki koşulları sağlar, buna ilave olarak bir eğitim laboratuvarı bulundurur.
 
- 2011
+(4) Tüberküloz Referans Hizmet Laboratuvarının açılabilmeleri ve çalışabilmeleri için asgari oluşturmaları gerekli olan fiziki şartları aşağıda belirtilmiştir:
 
- Ankara
+a) Düzey-III tüberküloz tanısı yapan laboratuvarın sağlaması gerekli tüm fiziki koşulları sağlar.
 
- 2012
+#### Cihaz ve ekipmanlar
 
- İstanbul
+**MADDE 9 –** (1) Tüberküloz tanısı yapan laboratuvarlarının seviyelerine göre açılabilmeleri ve çalışabilmeleri için asgari bulundurmaları gerekli olan cihaz ve ekipmanlar EK-1’de verilmiştir.
 
- 2013
+### BEŞİNCİ BÖLÜM
 
- Ankara, İstanbul, İzmir, Adana bölge laboratuvarlarının hizmet verdiği 25 il
+Çeşitli ve Son Hükümler
 
- 2015
+#### Bildirim
 
- Bursa, Denizli, Diyarbakır, Erzurum, Kayseri, Kocaeli, Samsun,
+**MADDE 10 –** (1) Tüm laboratuvarlar yayma (+) ve/veya kültür (+) bulunan vakaları testin sonucunun saptanmasından sonraki 24 saat içinde il sağlık müdürlüğüne bildirmekle yükümlüdür.
 
-Trabzon bölge laboratuvarlarının hizmet verdiği 16 il
+(2) Bildirimlerle ilgili olarak UTRL ve uygulamaları esas alınır.
 
- 72 TB laboratuvarının katılımı ile yürütülmektedir.
+#### Ulusal tüberküloz tanı laboratuvarları ağına başvuru
 
-TuLSA Faaliyetleri
+**MADDE 11 –** (1) Tüberküloz Tanı Laboratuvarı açmak isteyenler EK-2’teki Ulusal Tüberküloz Tanı Laboratuvarları Ağına Katılmak ve Tübeküloz Laboratuvar Düzeyini Belirleme Başvuru Formunu doldurarak UTRL’ye başvurarak Tıbbi Laboratuvarlar Yönetmeliği çerçevesinde laboratuvar açma işlemlerini yürütürler.
 
-Değerlendirme toplantıları
+#### Geçiş süreci
 
-Kapasitenin değerlendirilmesi
+**GEÇİCİ MADDE 1 –** (1) Mevcut tüberküloz tanısı yapan laboratuvarların düzeylerinin belirlenmesi ve Tebliğ hükümleri doğrultusunda tanımlandırılmaları için iş bu Tebliğin yürürlüğe girmesi tarihinden itibaren altı aylık süre verilir. Bu süre içinde Tıbbi Laboratuvarlar Yönetmeliği’nde tanımlanan Laboratuvar Sorumluları tarafından EK-2’teki Ulusal Tüberküloz Tanı Laboratuvarları Ağına Katılmak ve Tübeküloz Laboratuvar Düzeyini Belirleme Başvuru Formu ile UTRL’ye başvuruda bulunurlar.
 
-1. İlaç duyarlılık testlerinin kontrolü
+#### Yürürlük
 
-2. Dış kalite değerlendirme
+**MADDE 12 –** (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
 
-3. Yerinde değerlendirme ziyaretleri
+#### Yürütme
 
-Kapasitenin geliştirilmesi
+**MADDE 13 –** (1) Bu Tebliğ hükümlerini Sağlık Bakanı yürütür.
 
-1. Mevzuat
+### EK-1
 
-2. Ulusal Tüberküloz Tanı Rehberi
+(1) Düzey- I tüberküloz tanısı yapan laboratuvarın cihaz ve ekipmanları;
 
-3. Uygulamalı Tüberküloz Laboratuvar Eğitimleri
+| Adı | Özelliği |
+| Işık veya LED aydınlatmalı Mikroskop | Binoküler 100x immersiyon büyütmeli objektif ve 8x veya 10x oküler büyütmeli 2adet yedek ampulleri ile birlikte |
+| Buzdolabı | +2 ºC ile +8 ºC arasında soğutabilmeli |
+| Preparat kurutucusu | Isı ayarlı |
 
-Tamamlanan
+(2) Düzey- II tüberküloz tanısı yapan laboratuvarın cihaz ve ekipmanları;
 
-Kalan
+| Adı | Özelliği |
+| Işık veya LED aydınlatmalı Mikroskop | Binoküler 100x immersiyon büyütmeli objektif ve 8x veya 10x oküler büyütmeli 2 adet yedek ampulleri ile birlikte |
+| Floresan yada LED aydınlatmalı Floresan Mikroskobu (opsiyonel) | - |
+| Distile su cihazı (opsiyonel) | - |
+| Biyogüvenlik Kabini Sınıf II | Sertifiye edilmiş ve TS EN 12469 nolu standarda uygun |
+| Otoklav | En az 121 ºC’de sterilizasyonu sağlayan |
+| Santrifüj | Bioaerosol korumalı, kilitli kapaklı 3000xg açılabilir salıncak model, tercihen soğutmalı |
+| Buzdolabı | +2 ºC ile +8 ºC arasında soğutabilmeli |
+| Derin dondurucu | En az -40 ºC(±10 ºC) hassasiyet olmalı |
+| Etüv | En az 25ºC-45ºC (±1.0ºC) hassasiyet olmalı |
+| Vortex | Dakikada en az 800 devirli |
+| Preparat kurutucusu | En az 65-75 ºC arasında sıcaklık ayarı yapılabilen |
+| NA amplifikasyon cihazı (opsiyonel) | - |
+| Mikrosantrifüj (opsiyonel) | - |
 
-TuLSA - İDT kontrolü
+(3) Düzey- III tüberküloz tanısı yapan laboratuvarın ve referans hizmet laboratuvarı cihaz ve ekipmanları;
 
-Her hastanın en az iki akciğer örneğine kültür yapılır
+| Adı | Özeliği |
+| Işık veya LED aydınlatmalı Mikroskop | Binoküler 100x immersiyon büyütmeli objektif ve 8x veya 10x oküler büyütmeli 2 adet yedek ampulleri ile birlikte |
+| Floresan yada LED aydınlatmalı Floresan Mikroskobu | Dakikada en az 800 devirli |
+| Eğitim Mikroskobu | Standardına uygun, en az 2 kişinin birlikte değerlendirme yapabilecekleri şekilde |
+| Biyogüvenlik Kabini Sınıf II | Sertifiye edilmiş ve TS EN 12469 nolu standarda uygun |
+| Otoklav | En az 121 ºC’de sterilizasyonu sağlayan |
+| Santrifüj | Bioaerosol korumalı, kilitli kapaklı 3000xg açılabilir salıncak model, tercihen soğutmalı |
+| Buzdolabı | +2 ºC ile +6 ºC arasında soğutabilmeli |
+| Derin dondurucu | En az -40 ºC(±10 ºC) hassasiyet olmalı |
+| Etüv | En az 25ºC-45ºC (±1.0ºC) hassasiyet olmalı |
+| Vortex | Dakikada en az 800 devirli |
+| Preparat kurutucusu | En az 65-75 ºC arasında sıcaklık ayarı yapılabilen |
+| NA amplifikasyon cihazı | - |
+| Mikrosantrifüj | - |
 
-Her hastanın en az bir MTBC izolatına İDT yapılır
+### EK-2
 
-Her hastaya ait akciğer ve akciğer dışı izolat ve İDT sonuçları
+### ULUSAL TÜBERKÜLOZ TANI LABORATUVARLARI AĞINA KATILMAK VE TÜBERKÜLOZ LABORATUVAR DÜZEYİNİ BELİRLEME BAŞVURU FORMU
 
-UTRL’ye yollanır
+Ulusal Tüberküloz Referans Laboratuvarı SORUMLUSUNA
 
-(HR uyumu %95’in üzerinde olan laboratuvarlar sadece veri yollar)
+|  | Kuruluşun Adı |
+| Başvuru yapılan Kurum/Kuruluşun Adı | Tıp Fakültesi Hastanesi |  | ……………………………….. |
+| Eğitim Araştırma Hastanesi |  | ……………………………….. |
+| Göğüs Hastalıkları Hastanesi |  | ……………………………….. |
+| Devlet Hastanesi |  | ……………………………….. |
+| Özel Hastane |  | ……………………………….. |
+| Özel Laboratuvar |  | ……………………………….. |
+| Dispanser TB Laboratuvarı |  | ……………………………….. |
+| Diğer |  | ……………………………….. |
+| Adresi | ………………………………..……………………………………………………………………………………………………... ………………………………………………………………….. |
+| Çalışmak İstenen Laboratuvar Düzeyi | Düzey-I tüberküloz tanısı yapan laboratuvar |  |
+| Düzey-II tüberküloz tanısı yapan laboratuvar |  |
+| Düzey-III tüberküloz tanısı yapan laboratuvar |  |
+| Tüberküloz Referans Hizmet Laboratuvarı |  |
+| Başvuru tarihi | …../… /………. |
+| Laboratuvar Sorumlusu * | Kurum Yetkilisi** |
+| Adı Soyadı: ……………………………….. Ünvanı: ……………………………………. Tarih: ……………………………………… İmza: ………………………………………. | Adı Soyadı: ……………………………….. Ünvanı: ……………………………………. Tarih: ……………………………………… İmza: ………………………………………. |
 
-UTRL’de genotipik ve fenotipik İDT ile kontrol yapılır
+*Birden fazla uzmanın bulunduğu dallarda başhekim tarafından görevlendirilen, Eğitim araştırma hastaneleri ve üniversitelerde ise, anabilim dalı başkanı veya klinik şefi tarafından görevlendirilen, dispanser laboratuvarında tüberküloz konusunda 1 yıl veya daha fazla laboratuvar deneyimine sahip teknik açıdan sorumlu dispanser sorumlu hekimi tarafından görevlendirilen kişidir.
 
-R dirençlilere 2. seçenek İDT ve moleküler epidemiyolojik analiz yapılır
-
-Sonuçlar web üzerinden raporlanır
-
-Ankara, 2011
-
- Olgularının olgu tipine göre dağılımı
-
-(tüm akciğer olguları)
-
-Ankara, 2011
-
- Olguların tanı tipine göre dağılımı
-
-Ankara, 2011
-
- Direnç dağılımı
-
-Yeni olgu Önceden tedavi görmüş olgu
-
-Sayı Yüzde Sayı Yüzde
-
-İDT yapılan 213 100 16 100
-
-Tek ilaca H 5 2,4 – –
-
-direnç R – – – –
-
-S 6 2,8 – –
-
-E – – – –
-
-Z 2 0,9 – –
-
-Toplam 13 6,1 – –
-
-Çok ilaca HRS 1 0,5 - –
-
-direnç HRE – – 1 6,25
-
-HRZ 1 0,5 1 6,25
-
-HRSZ – – 1 6,25
-
-%3,5
-
-HRSEZ – – 3 18,75
-
-Toplam 2 1,0 6 37,5
-
-DSÖ TB Raporu 2012
-
-Ankara ve İstanbul, 2012
-
-Direnç durumlarına göre risk faktörleri
-
-%5,4
-
-%18,3
-
-Ankara, İstanbul, İzmir ve Adana, 2013
-
- 25 il 35 Düzey III, 20 Düzey II laboratuvarı
-
- 2034 hastaya ait 3349 izolat
-
- 1723 hastaya ait 2826 veri
-
- Toplam 3757 hasta
-
- 134 (%3,6) ÇİD-TB
-
- 3 (%2,2) YİD-TB
-
-Ankara, İstanbul, İzmir ve Adana, 2013
-
- Dispanser (TUTSA) verilerine göre bölge bakteriyolojik verileri
-
-Bölge TB olgu sayısı Akciğer TB sayısı İDT yapılan (%)
-
-Ankara 792 404 231 (57,2)
-
-İstanbul 4497 3057 2111 (69,1)
-
-İzmir 1185 833 599 (71,9)
-
-Adana 1309 853 500 (58,6)
-
-Toplam 7783 5167 3441 (66,6)
-
-Türkiye toplamı (2013) 8655 5255 (60,7)
-
-Türkiye toplamı (2010) 10740 4734 (44,1)
-
-M. tuberculosis’in rifampisin direnci tespitinde
-
-MGIT-960 otomatik sistemi ile moleküler direnç sonuçlarının karşılaştırılması (n=4824)
-
-Genotipik (MtbDRplus)
-
-Toplam
-
-Duyarlı (n,%) Dirençli (n,%)
-
-Fenotipik
-
-Duyarlı (n, %) 4309 (99,4) 25 (0,6) 4334
-
-Dirençli (n, %) 16 (3,3) 474 (96,7) 490
-
-Toplam 4325 499 4824
-
-M. tuberculosis’in izoniyazid direnci tespitinde
-
-MGIT-960 otomatik sistemi ile moleküler direnç sonuçlarının karşılaştırılması (n=4824)
-
-Genotipik (MtbDRplus)
-
-Toplam
-
-Duyarlı (n,%) Dirençli (n,%)
-
-Fenotipik
-
-Duyarlı (n, %) 3670 (99,7) 11 (0,3) 3681
-
-Dirençli (n, %) 143 (12,5) 1000 (87,5) 1143
-
-Toplam 3813 1011 4824
-
-M. tuberculosis’in florokinolon direnci tespitinde
-
-MGIT-960 otomatik sistemi ile moleküler direnç sonuçlarının karşılaştırılması (n=340)
-
-Genotipik (MtbDRsL)
-
-Toplam
-
-Duyarlı (n,%) Dirençli (n,%)
-
-Fenotipik
-
-Duyarlı (n, %) 299 (97,4) 8 (2,6) 307
-
-Dirençli (n, %) 3 (9) 30 (91) 33
-
-Toplam 302 38 340
-
-M. tuberculosis’in AG/CP direnci tespitinde
-
-MGIT-960 otomatik sistemi ile moleküler direnç sonuçlarının karşılaştırılması (n=340)
-
-Genotipik (MtbDRsL)
-
-Toplam
-
-Duyarlı (n,%) Dirençli (n,%)
-
-Fenotipik
-
-Duyarlı (n, %) 321 (99,4) 2 (0,6) 323
-
-Dirençli (n, %) 4 (23,5) 13 (76,5) 17
-
-Toplam 325 15 340
-
-2012 – 2013 ÇİD-TB izolatlarının MGIT 960 ile
-
-2. seçenek ilaçlara direnç dağılımı (n=381)
-
-Ankara, 2011
-
- Dirençli izolatlarda moleküler epidemiyoloji (n=221)
-
-SPOLIGO OKTAL İzolat sayısı
-
-KOD SPOLIGOAİLESİ SIT (%) MIRU/VNTR
-
-20 suş/5 küme
-
-777777404760771 LAM7_TUR (Turkey family) 41 105 (%47,5)
-
-85 suş özgü profil
-
-12 suş/3 küme
-
-777777777760771 T1 53 41 (%18,5)
-
-29 suş özgü profil
-
-037637777760771 T1 284 26 (%11,8)
-
-26 suş özgü profil
-
-777777777720771 H3 50 21 (%9,5)
-
-21 suş özgü profil
-
-4 suş/1 küme
-
-777777404760731 LAM7_TUR (Turkey family) 1261 11 (%5)
-
-7 suş özgü profil
-
-000000007760771 T1 4 5 (%2,3)
-
-5 suş özgü profil
-
-477777661760371 YENİ - 5 (%2,3)
-
-5 suş özgü profil
-
-776177770000000 U 608 4 (%1,8)
-
-4 suş özgü profil
-
-000000000003771 BEIJING 1 3 (%1,4)
-
-3 suş özgü profil
-
-%16,3 (36)
-
-Kümeleşme oranı %100
-
-Ankara - İstanbul, 2012
-
- ÇİD-TB izolatlarında moleküler epidemiyoloji (n=221)
-
-SPOLIGO OKTAL KOD SPOLIGOAİLESİ SIT İzolat sayısı (%)
-
-777777404760771 LAM7_TUR (Turkey family) 41 92 (%41,7)
-
-777777777760771 T1 53 54 (%24,4)
-
-037637777760771 T1 284 23 (%10,4)
-
-777777777720771 H3 50 22 (%9,9)
-
-777777404760731 LAM7_TUR (Turkey family) 1261 16 (%7,2)
-
-000000007760771 T1 4 8 (%3,6)
-
-477777661760371 YENİ - -
-
-776177770000000 U 608 3 (%1,4)
-
-000000000003771 BEIJING 1 3 (%1,4)
-
-Kümeleşme oranı %100
-
-TuLSA Faaliyetleri – Web Sistemi tb.thsk.gov.tr
-
-TuLSA Faaliyetleri – Web Sistemi
-
-Tüberküloz Tanı Laboratuvarları
-
-UTRL’ye yolladıkları izolatlara ait tüm sonuçları
-
-Verem Birimleri (Dispanser)
-
-TC ile kültür pozitif hasta sonuçlarını
-
-İl TB koordinatörleri
-
-İllerine ait laboratuvarlar tarafından kaydedilen hasta sonuçlarını
-
-Ulusal Tüberküloz Referans Laboratuvarı
-
-Tüm verileri görebilmektedir.
-
-kültür pozitif TB hasta verilerinin paylaşıldığı web tabanlı bir sistemdir.
-
-TuLSA Faaliyetleri – Web Sistemi
-
-Laboratuvar modülleri
-
-TuLSA Faaliyetleri – Web Sistemi
-
-Rapor
-
-TuLSA Faaliyetleri – Web Sistemi
-
-Genel Raporlama
-
-TuLSA Faaliyetleri - DKD Programı
-
-ISO 17043
-
-TuLSA Faaliyetleri - DKD Programı
-
- 4 panel, laboratuvar düzeylerine göre
-
- Mikroskopi - 5 boyasız yayma preperat
-
- Kültür ve MTBC-TDM ayrımı - 6 simüle balgam örneği
-
- İlaç Duyarlılık Testi -MTBC tespit esilenlerden
-
- Tür tanımlama - 4 üremiş kültür
-
- 2011’de 13 laboratuvar
-
- 2012’de 46 laboratuvar
-
- 2013’de 70 laboratuvar
-
- 2014’de 72 laboratuvar
-
-TuLSA Faaliyetleri - DKD Programı
-
- Gizlilik
-
- Ücretsiz / ücretli
-
- Zorunlu / gönüllü
-
- Yılda 1 kez
-
- Web sistemi üzerinden
-
-TuLSA Faaliyetleri - Yerinde Değerlendirme
-
-Amaç;
-
- Tüberküloz laboratuvarlarının
-
- hem teknik açıdan
-
- hem de yönetimsel olarak
-
-standartlara uygun olarak işleyip işlemediğini gözlemleyerek kontrol etmektir.
-
- Organizasyon ve yönetim
-
- Kaynak Yönetimi
-
- Laboratuvar tasarımı ve güvenlik
-
- Örnek Yönetimi
-
- Analiz ve analiz sonrası prosedürleri
-
- Sürveyans
-
-TuLSA Faaliyetleri - Yerinde Değerlendirme
-
-Sürveyans Kapsamında (2011-2013);
-
- 24 Laboratuvar ziyaret edildi
-
- İstanbul
-
- Ankara
-
- İzmir
-
- Manisa
-
- Aydın
-
- 22.02.2012 / 28212 sayılı Resmi Gazete’de yayımlanan
-
-‘Ulusal Tüberküloz Tanı Laboratuvarları Ağı Çalışma Usul ve Esaslarına Dair Tebliğ’e göre değerlendirme yapılmaktadır.
-
-2011 – 2013 YDZ Sonuçları
-
-2011 – 2013 YDZ Sonuçları
-
-TuLSA Faaliyetleri - Yerinde Değerlendirme
-
-Laboratuvar değerlendirmelerinde standardizasyon
-
-Laboratuvar Değerlendirme Aracı (LDA)
-
- Laboratuvarın resmini çekebilen
-
- Kolay uygulanır
-
- Güvenilir
-
-TuLSA Faaliyetleri - Yerinde Değerlendirme
-
-BÖLÜM | Ruhsata esas | Yetkiye esas | PERFORMANS GÖSTERGELERİ | Değerlendirme | EVET | KISMEN | HAYIR | YORUM | AÇIKLAMA
-
-1. ORGANİZASYON ve YÖNETİM
-
-D 1.1. Organizasyon şeması var mı? K X Laboratuvarın diğer birimlerle ilişkisini gösteren şema olmalı.
-
-1.2. Kalite Yönetim Sistemi
-
-D a. Laboratuvar Kalite Yönetim Sistemi politika ve prosedürlerini içeren Kalite El Kitabı var mı? K X
-
-D b. Çalışanlar tarafından kapsamı biliniyor mu? G X
-
-D c. Yetkilendirilmiş bir kalite yöneticisi var mı? K X
-
-1.3. Bilgi ve belgeler (a) Bilgiler (personel, hasta verisi vb her türlü bilgi) herkesin ulaşabileceği yerlerde mi gözlemlenmeli, ayrıca bilgi gizliliğine ilişkin prosedür var mı kontrol edilmeli; (b) Laboratuvar sorumlusu ve çalışanların belgelere hızlıca ulaşıp ulaşamadığı değerlendirilir.
-
-D a. Bilginin gizliliği korunuyor mu? P X
-
-D R b. Belgeler ve kayıtlar düzgün saklanıyor ve istendiğinde kolayca erişilebiliyor mu? G X 1.4. Dökümantasyon Prosedürler ayrı ayrı da olabilir, bir prosedürün parçası da olabilir. Var olan prosedürlerin "Ulusal Tüberküloz Tanı Rehberi"ne uygunluğu değerlendirilmeli. Uygunsa "Evet", uygun değilse "Kısmen" işaretlenmeli; (b) Standart çalışma talimatları, laboratuvara örnek nakli ve kabul-reddi, örnek / izolat saklama koşulları, analiz basamakları, raporlama süreleri, bildirim yapılması gereken durumları
-
-D F x a. Biyogüvenlik (KKD kullanımı, giriş-çıkış, atık imhası, laboratuvar kazaları, dezenfeksiyon) prosedürü var mı? P X içermelidir.
-
-D F x b. Güncel standart çalışma talimatları (örneğin kabulünden raporlamaya kadar) var mı? P X 1.5. Uygunsuzluk (a) Laboratuvara ilişkin geri bildirimler toplanmalı, kök-neden analizi yapılmalı ve olayların gerçek nedenlerini belirlemeye odaklı yapılandırılmış incelemeler yapılmalı, uygunsuzlukları gidermeye yönelik işlemler yapılmalı, bu işlemler prosedür ile tanımlı mı sorgulanmalı; (b) Örnek red oranı takip ediliyor mu? Oran değerlendirilip gerekli düzeltmeler hem laboratuvar içinde hem de örnek
-
-D F a. Örnek gönderen klinik / kurumlardan gelen geri bildirimler değerlendiriliyor mu? K X gönderen birimlerle paylaşılıyor mu?
-
-D F b. Örneğin takibinde oluşan aksaklıkları tespit ve gidermeye yönelik çalışmalar var mı? K X 1.6. Dış kalite değerlendirme (DKD) (a) Hangi DKD programına katılınıyor sorulmalı ve belgeleri kontrol edilmeli; Düzey I mikrokopi, Düzey II mikroskopi ve besiyerleri, Düzey III bunlara ek olarak tür tanımı ve ilaç duyarlılık için katılmalı;
-
-(b) DKD sonuçlarının uygunsuzluğunda ne yapıldığı tartışılmalıdır.
-
-D F x a. Tüm testler için DKD’ye katılınıyor mu? K X
-
-D F x b. DKD sonuçlarında yeterli olunmaması durumunda düzeltici faaliyet yapılıyor mu? K X 2. KAYNAK YÖNETİMİ 2.1. İnsan Kaynağı (1) İş tanımları (b) Tüm işlem basamakları, numune kabul ve sonuçları onaylama ile ilgili yetkililer tanımlı olmalı; (c) Kilit iş; yapılmadığı anda diğer işlerin aksadığı veya sonuçlanma süresini etkileyen iştir. Bu işleri ve
-
-D a. Çalışanların görev tanımları var mı? K X yedeklerin tanımlı olduğu çalışma listesi olmalı; (d) Yetkinlik; personelin testi doğru çalıştığının doğrulanması yapılmalı, nasıl yapıldığı gösterilmeli; (e) Laboratuvar sorumlusunun görüşü alınmalı.
-
-D b. Günlük işler tanımlı ve sorumluları belirli mi? K X
-
-D c. Kilit işler için yedek kişiler tanımlı mı? K X
-
-D d. Çalışanlar yaptıkları işte yetkin mi? K X
-
-D e. Çalışan sayısı yeterli mi? G X
-
-(2) Çalışan Eğitimi Eğitimler ayrı ayrı da olabilir, bir eğitimin parçası olarak da düzenlenmiş olabilir; (a) TB için özel eğitim alınmış olmalı; (b) KKD kullanımı, ekipman kullanırken dikkat edilecekler, laboratuvara giriş
-
-D F x a. İş başlangıcında uyum eğitimi var mı? K X çıkış, iyi lab uygulamaları, laboratuvar kazaları, Santrifüj, vorteks, homojenizatör, çalkalayıcı, pipetler vb.nin güvenli kullanımı, atıkların imhası eğitimi var mı?
-
-D x b. Biyogüvenlik eğitimi var mı? K X
-
-D F c. Laboratuvar çalışanlarına ve hizmet alanlara yönelik eğitim fırsatları oluşturuluyor mu? G X 2.2. Donanım (1) Cihaz bakımı (a) Cihaz dosyasında, cihaz bakım planı ve formları, kullanım ve bakım talimatlatı ve kalibrasyon sertifikaları yer almalı. (b) Kritik cihazlar için değerlendirilmeli (Kritik cihazlar; biyogüvenlik kabini,
-
-D F a. Cihaz dosyası var mı? P X santrifüj, otoklav, inkübatör, soğutucular, disile su cihazı, otomatik pipet), cihazların kalibrasyon etiketleri olmalı.
-
-D F x b. Cihazların kalibrasyon / performans testleri yetkili kuruluşlarca düzenli olarak yapılıyor mu? K X 2.3. Malzeme / Sarf (1) Depo kaydı (a) Laba giren tüm malzemenin kaydı tutulmalı (miktar, özellik, tedarikçi, lot numarası, laba giriş tarihi, uygun saklama koşulu, son kullanma tarihi, kullanıma girme tarihi);(c)Kritik stok; tüketim hızı
-
-D RF a. Malzeme envanter kayıtları var mı? K X ve tedarik süresine göre hizmette kesintiye neden olmayacak stok sınırı tanımı laboratuvar sorumlusuna sorulmalı.
-
-D F b. Depo giriş – çıkışı takip ediliyor mu? K X
-
-D F c. Kritik stok uyarısı tanımlı mı? G X
-
-(2) Depolama (a) Temiz, iyi havalandırılan, kilitlenebilir, doğrudan güneş ışığı almayan, dayanıklı raflar, malzemelere kolay erişilebilen, güvenlik önlemleri alınmış; (b) Tarihi geçen malzeme depoda olmamalı.
-
-D R a. Uygun depo alanları var mı? G X
-
-D F b. Tarihi geçen malzeme izleniyor mu? G X
-
-TuLSA Faaliyetleri - Yerinde Değerlendirme
-
-ANALİZ SONUÇLARI
-
-PERFORMANS GÖSTERGESİ BAŞARI YÜZDESİ YORUM
-
-1. ORGANİZASYON ve YÖNETİM 66,7
-
-1.1. Organizasyon şeması var mı? 100,0
-
-1.2. Kalite Yönetim Sistemi 100,0
-
-1.3. Bilgi ve belgeler 100,0
-
-1.4. Dökümantasyon 33,3
-
-1.5. Uygunsuzluk 33,3
-
-1.6. Dış kalite değerlendirme (DKD) 70,4
-
-2. KAYNAK YÖNETİMİ 85,3
-
-2.1. İnsan Kaynağı 80,6
-
-2.2. Donanım 70,4
-
-2.3. Malzeme / Sarf 100,0
-
-3. FİZİKİ ŞARTLAR ve GÜVENLİK 71,7
-
-3.1. Tesis Güvenliği 70,4
-
-3.2. Kişisel Koruyucu Donanım 69,7
-
-3.3. Donanım Kullanımı 80,2
-
-3.4. Atık Yönetimi 82,4
-
-3.5. Çalışan Sağlığı 33,3
-
-4. ÖRNEK YÖNETİMİ 100,0
-
-4.1. Örnek alma 100,0
-
-4.2. Örnek izlenebilirliği 100,0
-
-4.3. Örnek nakli 100,0
-
-4.4. Örnek işleme 100,0
-
-4.5. Örnek saklama 100,0
-
-5. ANALİZ ve ANALİZ SONRASI 61,5
-
-5.1. Analiz prosedürleri 100,0
-
-5.2. Kalite göstergeleri 33,3
-
-5.3. İç kalite kontrol (İKK) 0,0
-
-5.4. Preperat / izolat saklama 100,0
-
-5.5. Raporlama 100,0
-
-5.6. Hekime Bildirim 33,3
-
-6. SÜRVEYANS 85,7
-
-6.1. Müdürlüğe Bildirim 0,0
-
-6.2. Laboratuvar Sürveyansına Katılım 100,0
-
-6.3. Kapasite varlığı 100,0
-
-TOTAL SKOR 76,9
-
-TuLSA Faaliyetleri – Tebliğ
-
-TuLSA Faaliyetleri – Tebliğ revizyonu
-
-Başlıklar;
-
- TB Laboratuvarların Düzeylendirilmesi ve Görevleri
-
- Tüberküloz Laboratuvarlarının Risk Düzeyleri,
-
-Biyogüvenlik Şartları, Tıbbi Atıklar
-
- Laboratuvar Ağı, Laboratuvar Ağına Dahil Olma Kriterleri ve Tüberküloz Laboratuvarlarının Ağdan Kaynaklı
-
-Görevleri
-
- Personel ve Personel Eğitimi
-
- Yetkilendirme
-
-TuLSA Faaliyetleri – Tebliğ revizyonu
-
-Düzeylendirme;
-
- Düzey 1;
-
- klinik örnekten direkt mikroskopi yapan laboratuvar
-
- Düzey 2;
-
- klinik örneği işleyip mikroskopi ve kültür yapan laboratuvar
-
- Düzey 3;
-
- üremiş kültürden tanımlama ve ilaç duyarlılık testi yapan laboratuvarlardır.
-
-TuLSA Faaliyetleri – Tebliğ revizyonu
-
-Laboratuvarların görevleri;
-
- İşlemleri Rehber’e uygun olarak yapar
-
- Tüm analizler için iç kalite kontrol uygulanması
-
- DKD’ye katılım
-
- Testlerin raporlanması
-
- Bildirim
-
- Örnek - izolat saklama
-
-TuLSA Faaliyetleri – Tebliğ revizyonu
-
-Risk Düzeyleri ve biyogüvenlik;
-
- Düşük riskli TB laboratuvarı;
-
- balgamdan direkt yayma mikroskopisi yapar.
-
- Orta riskli TB laboratuvarı;
-
- örneği işledikten sonra mikroskopi ve kültür işlemine alır.
-
- Yüksek riskli TB laboratuvarı;
-
- üremiş kültürden tür tayini, ilaç duyarlılık testleri veya moleküler testler yapar.
-
-TuLSA Faaliyetleri – Tebliğ revizyonu
-
-Yetkilendirme;
-
- Mikrobiyoloji ruhsatı
-
- TB yetkisi;
-
-İHSM’ye başvuru
-
-Başvuru dosyası incelemesi
-
-Denetim (THSK)
-
-Yetkilendirme (THSK)
-
-TuLSA Faaliyetleri – Rehber
-
-TuLSA Faaliyetleri – Rehber
-
-Amaç ve hedefler;
-
- Her düzey tüberküloz laboratuvarında kullanılabilecek
-
- Uzman ve teknik personele yönelik
-
- Kanıta dayalı
-
- Uygulamalara yönelik
-
- Kullanımı kolay
-
- Herkesin anlayabileceği bir başvuru dökümanı hazırlamaktı.
-
-Kapsam;
-
- Biyogüvenlik uygulamaları
-
- Analiz öncesi  analiz sonrası süreç standartları
-
- Kalite kontrol uygulamaları
-
-TuLSA Faaliyetleri – Eğitim Programı
-
-TuLSA Faaliyetleri – Eğitim Programı
-
-Amaç;
-
- TB laboratuvarlarının tanı kapasitesinin güçlendirilmesi ve
-
- Laboratuvarlar arası standardizasyonun sağlanması
-
-Hedef;
-
- TB laboratuvarlarında kalite güvence sisteminin sağlanması
-
- Kapasitenin geliştirilmesi için standartların ve deneyimlerin laboratuvar çalışanları ile paylaşımı
-
-TuLSA Faaliyetleri – Eğitim Programı
-
- Ulusal Tüberküloz Tanı Rehberin basımı Nisan 2014
-
- Eğitim müfredatının hazırlanması Mayıs 2014
-
- Eğitimci grupların oluşturulması Eylül 2014
-
- Eğitim programının izlenmesi ve değerlendirilmesi Kasım 2014
-
- Bölgesel Eğitim Programı
-
- Nisan 2015 Malatya √
-
- Mayıs 2015 Mersin √
-
- Eylül 2015 Samsun
-
- Kasım 2015 Bursa
-
- Kasım 2015 İzmir
-
-TuLSA Faaliyetleri – Eğitim Programı
-
-Eğitim programı; 4 günlük uygulamalı eğitim
-
- Giriş (TB epidemiyolojisi, immünpatogenez ve klinik)
-
- Modül 1. Biyogüvenlik
-
- Modül 2. Donanım
-
- Modül 3. Örnek yönetimi
-
- Modül 4. Mikroskopi
-
- Modül 5. Kültür
-
- Modül 6. MTB / TDM ayrımı
-
- Modül 7. Moleküler testler
-
- Modül 8. İlaç duyarlılık testleri
-
- Modül 9. Kalite Kontrol
-
- Modül 10. Sürveyans
-
-TuLSA Faaliyetleri – Eğitim Programı
-
-Eğitim geri bildirimleri
-
-TuLSA Faaliyetleri – Eğitim Programı
-
-Eğitim geri bildirimleri
-
-TuLSA Faaliyetleri – Eğitim Programı
-
-Eğitim geri bildirimleri
-
-TuLSA Faaliyetleri – Eğitim Programı
-
-Eğitim geri bildirimleri
-
-Eğitimin zayıf yönleri Eğitimin güçlü yönleri
-
-• Uygulama az • Uygulamalar
-
-• Süre yetersiz • Biyogüvenlik, kalite
-
-• Uygulamaya geçirmek zor • Eğitimciler
-
-• Yoğun program • Deneyim paylaşımı
-
-• Sertifika yok • Tartışma ortamı
-
-• Samimi ortam
-
-• Standartların farkına varma
-
-• Her soruya defalarca yanıt
-
-verilmesi
-
-• İletişim
-
-Ağa dahil olma kriterleri
-
-Sürveyans rehberi ve tebliğde tanımlanmıştır;
-
- Ulusal veya uluslararası standartları kullanma
-
- Eğitim programına katılım
-
- DKD programına katılım
-
- Yerinde değerlendirme ziyareti programına katılım
-
- İDT sonuçlarının kontrolü
-
- Düzenli veri ve izolat yollama
-
-TuLSA Çıktıları
-
- Tebliğ ve rehber
-
- DKD
-
- Eğitim programı
-
- LDA
-
- Web tabanlı sistem
-
- İletişim ve iş birliği
-
- Sürveyans verisi
-
-Planlarımız
-
-Ülke çapında temsiliyet
-
- Düzey III laboratuvarların sisteme katılması 2015
-
- Bölge laboratuvarlarının güçlendirilmesi 2016
-
- Halk Sağlığı Laboratuvarları 2017
-
- Düzey II Laboratuvarları (~100 adet) 2018
-
- Düzey I Laboratuvarları (~150 adet) 2019
-
- TULSA
-
-(Tüberküloz Ulusal Laboratuvar Sürveyans Ağı)
-
-Özetle…
-
-Sistem
-
-Bildirim
-
-Olay Veri
-
-Analiz ve yorumlama
-
-TB ailesi - Eğitim
-
-- Yerinde
-
-değerlendirme
-
-- DKD
-
-Geri
-
-bildirim
-Bilgi
-
-Eylem için bilgi… Eylem
-
-Bilgi
-
-Teşekkürler
-
-Sürveyans Ekibi
-
-•Halk Sağlığı Müdürlükleri, TB koor, VSD
-•AGHH; Melike Atasever, İsmail Ceyhan, Şeref Özkara
-•Ankara Bölge Lab; Tuğba Müderris
-•HÜTF; Dolunay Gülmez, Alpaslan Alp, Zeynep Sarıbaş
-•AÜTF; Devran Gerçeker
-•GÜTF; Birgül Kaçmaz, Gülendam Bozdayı
-•BÜTF; Özlem Kurt Azap
-•GATA; Özgul Kısa, Ali Albay
-•NEAH; Şenol Kurşun
-•At.EAH; Nevreste Çelikbilek
-•AEAH; Ufuk Önde
-•DEAH; Zeynep Dansuk
-•AÇHOHH; Hülya Oskovi
-•YGHH; Hatice Yazısız, Derya Cenger
-•SGHH; Mualla Partal
-•İst Bölge Lab; Nagihan Özlü
-•Taksim VSD; Engin Seber
-•İÜTF; Dilek Şatana
-•İÜCTF; Nuri Kiraz
-•DETAE; Kaya Köksalan
-•GATA Haydarpaşa; Mustafa Özyurt
-•ŞEEAH; Banu Bayraktar
-•OEAH; Elvin Dinç
-•Düzen Lab; Görkem Yaman
-•YÜTF; Çağatay Acuner
-•Acıbadem Lab; Işın Akyar
-
-•DEÜTF; N.Esen, A.Özkütük
-•EÜTF; Cengiz Çavuşoğlu
-•İzmir Bölge Lab; Zehra Ünal
-•SSGHH; Can Biçmen
-•AMÜTF; Murat Telli
-•CBÜTF; Nuri Özkütük
-•Manisa DH; Sema Paçacı
-•BÜTF; Eda Çalışkan
-•ÇÜTF; Fatih Köksal
-•MÜTF; Gönül Aslan
-•TÜTF; Şafak Özmen
-•KÜTF; Teoman Apan
-
-Rehber ekibi
-
-Ali ALBAY
-Ahmet ARSLANTÜRK
-Gönül ASLAN
-Orhan BAYLAN
-Can BİÇMEN
-İsmail CEYHAN
-Rıza DURMAZ
-Nuran ESEN
-Özgül KISA
-Aydan ÖZKÜTÜK
-Nuri ÖZKÜTÜK
-Mustafa ÖZYURT
-Zeynep SARIBAŞ
-Engin SEBER
-Dilek ŞATANA
-Hülya ŞİMŞEK
-Gülnur TARHAN
-S. Nilay UÇARMAN
-
-LDA ekibi UTRL ekibi
-TEŞEKKÜRLER
-
-«Tüberküloz Eğitim Programı ve Materyali Hazırlama Çalıştayı» 5-9 Mayıs 2014
-
-Aydan Özkütük Modül 1. Biyogüvenlik
-
-Nurhan Albayrak
-
-Hulya Şimşek Modül 2. Donanım
-
-Nilay Uçarman Modül 3. Örnek Yönetimi
-
-Sultan Yolbakan
-
-Ahmet Arslantürk Modül 4. Mikroskopi
-
-Ali Albay Modül 5. Mikobakteri Kültürü
-
-Gönül Arslan Modül 6. MTBC-TDM Tür Tanımı
-
-Nuri Özkütük Modül 7. İlaç Duyarlılık Testleri
-
-Nuran Esen Modül 8. Moleküler Testler
-
-Hulya Şimşek Modül 9. Kalite Kontrol
-
-Nurhan Albayrak Modül 10. Sürveyans
-
-Laboratuvar Güvenliği Rehberi Çalışma Grubu
-
-TEŞEKKÜRLER
-
-«Tüberküloz Eğitim Programı ve Materyali Değerlendirme Çalıştayı» 22-26 Kasım 2014
-
-Nezahat AKPOLAT Barış OTLU
-
-Ayşe Esin AKTAŞ Cüneyt ÖZAKIN
-
-Ali ALBAY Nevgün ÖZEN
-
-Nurhan ALBAYRAK Burçin ÖZER
-
-Ahmet ARSLANTÜRK Aydan ÖZKÜTÜK
-
-Gönül ASLAN Nuri ÖZKÜTÜK
-
-Melek AYAZ Alper SARIBAŞ
-
-Can BİÇMEN Melda SINIRTAŞ
-
-İsmail CEYHAN Dilek ŞATANA
-
-Cengiz ÇAVUŞOĞLU Hülya ŞİMŞEK
-
-Yeliz ÇETİNKOL S. Nilay UÇARMAN
-
-Ahmet Yılmaz Görkem YAMAN
-
-ÇOBAN Nurhan ALBAYRAK
-
-Nuran ESEN Keramettin YANIK Ahmet ARSLANTÜRK
-
-«Moleküler Test
-
-Tekin KARSLIGİL Sultan YOLBAKAN Cengiz ÇAVUŞOĞLU
-
-Algoritmalarının
-
-Ahmet Yılmaz ÇOBAN
-
-Nedret KOÇ
-
-Hazırlanması Çalıştayı»
-
-Barış OTLU
-
-27 Şubat 2014
-
-Nuri ÖZKÜTÜK
+**Hastanelerde başhekim, özel laboratuvarlarda laboratuvar sorumlusu, dispanserlerde sorumlu hekimdir.

@@ -7378,5 +7378,25 @@
   "tur": "ozet",
   "tarih": "",
   "not": "Halk sağlığı laboratuvarlarında ruhsat, denetim izleme, kontrol izleme ve piyasa gözetimi amacıyla alınan su numunelerinin kabul kriterlerini günceller; laboratuvarların iç prosedürlerini bu kriterlere göre oluşturması istenir."
+ },
+ "hsgm-926-sozlesmeli-aile-calisani-bulunmayan-aile-hekimligi-birimleri": {
+  "tur": "ozet",
+  "tarih": "",
+  "not": "İl sağlık müdürlüklerinden, sözleşmeli aile sağlığı çalışanı bulunmayan aile hekimliği birimlerini her ay internet sitelerinde ilan etmelerini ister. İlanda başvuruların 2025/1 sayılı Muvafakat Genelgesi şartlarına göre alınacağı, sözleşmenin iki mali yıl sürdüğü ve birimin temel bilgileri yer alacak; mekânı hazır olmayan ve KHK 45/A görevlendirmesi süren birimler ilan edilmeyecek. Amaç, boş pozisyonlara hızla personel sağlamaktır."
+ },
+ "sbg-11140-bebek-olumleri-izlemi-sistemi-genelgesi-2009-31": {
+  "tur": "ozet",
+  "tarih": "",
+  "not": "0–365 günlük bebek ölümlerinin tamamını tespit edip nedenlerini incelemek için yeni bir izlem sistemi kurar. İl ve ilçe izleme sorumluları ile bildirim yükümlüleri (sağlık kuruluşları, belediye tabipleri, muhtarlar, 112) belirlenir; her ilde Bebek Ölümlerini İnceleme Kurulu oluşturulur. Ölümler tespit, inceleme ve sonuçların analizi aşamalarında, ekteki formlarla izlenir."
+ },
+ "hsgm-97-ulusal-tuberkuloz-tani-laboratuvarlari-agi-calisma-usul-ve-esaslarina": {
+  "tur": "ozet",
+  "tarih": "",
+  "not": "Ulusal Tüberküloz Tanı Laboratuvarları Ağının yapısını; tüberküloz tanısı yapan laboratuvarların düzeylere göre sınıflandırılmasını, görevlerini, kalite kontrolünü ve ağa katılım başvurusunu düzenliyordu. 25.10.2015 tarihli Tüberküloz Laboratuvarlarının Çalışma Usul ve Esaslarına Dair Tebliğ ile yürürlükten kaldırılmıştır."
+ },
+ "rg-20151025-tuberkuloz-laboratuvarlarinin-calisma-usul-ve-esaslarina-dair-teblig": {
+  "tur": "ozet",
+  "tarih": "",
+  "not": "Tıbbi laboratuvarlar bünyesindeki tüberküloz laboratuvarlarının düzeylerine göre sınıflandırılmasını, yapabilecekleri testleri, fiziki ve personel koşullarını, kalite kontrolünü, bildirimlerini ve izlenmesini düzenler. 2012 tarihli Ulusal Tüberküloz Tanı Laboratuvarları Ağı Tebliğini yürürlükten kaldırır."
  }
 }
