@@ -509,3 +509,5 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - İlk 15 not (son düzenlemeler, 22.11.2026) terra ajanlarıyla metinden yazıldı (calisma/yz/sonuc-*.json). Değişiklikte özet + amaç; amaç metinde yoksa "amacı metinde belirtilmemiştir".
 - KURAL: Bundan sonra her yeni eklenen ya da değişikliği işlenen mevzuat için yz-not.json'a not ekle (≤450 karakter, uydurma yok). RG takip iş akışı (Actions) not yazamaz; önerileri işlerken notu ekle.
 - HSGM (486) ve saglik.gov.tr birim/mevzuat sayfaları 22.11 tarandı: yeni belge yok.
+- 22.11 (devam): Tüm tam metinli mevzuata özet notu (tur: "ozet", tarih boş; kutuda "Düzenlemenin özeti"). İş partileri calisma/yz/is/p00–p29 (50'şer, metnin ilk 3200 karakteri), çıktılar calisma/yz/cikti/. 1193 not eklendi (toplam 1208 belge). p24–p29 (271 belge) terra ve luna 429 kota hatası nedeniyle bekliyor; kota açılınca aynı talimatla tamamla ve yz-not.json'a ekle.
+- "Amacı metinde belirtilmemiştir" cümleleri kaldırıldı; Yataklı Tedavi notuna amaç (Sağlık Raporları Yönetmeliği ile örtüşme) eklendi.
