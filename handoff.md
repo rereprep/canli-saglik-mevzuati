@@ -496,3 +496,8 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - RG 20 ve 22.11: sağlıkla ilgili yok. HSGM (486 kayıt) ve Bakanlık birim sayfalarında yeni belge yok. TİTCK/SHGM listeleri JS ile yükleniyor, düz indirmede liste gelmiyor.
 - Not: mevzuat.gov.tr 21.11 değişikliğini işleyince metin karşılaştırılmalı.
 - Canlı doğrulama: 49e7112 yayında; 21.11 değişikliği ve numarasız genelge adları canlıda.
+
+## 2026-11-22 — Gelişmiş arama (Boolean)
+- site/assets/ara.js sorguCoz: "tam ifade", AND/VE, OR/VEYA, NOT/DEĞİL/-kelime, ayraç; işleçsiz kelimeler AND. İşleçler yalnız BÜYÜK harfle. Eşleşme artık kelime başından (önceden metin içi alt dizgi: "aşı" "kampanyası"nı buluyordu). Başlık+künye ile tam metin birlikte değerlendirilir. URL'de kapsam=metin korunuyor.
+- ara.html'de "Gelişmiş arama işleçleri" açılır yardım kutusu. Test: /private/tmp/sorgu_test.js (birim), /private/tmp/zb.js (tarayıcı).
+- İletişim önerisi kullanıcıya soruldu (mailto bağlantısı önerildi); karar bekleniyor.

@@ -6,6 +6,35 @@
   function sade(s){return (s||"").toLocaleLowerCase("tr").replace(/[çğıöşüâîû]/g,function(c){return HARF[c];}).normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^0-9a-z]+/g," ").trim();}
   function e(s){return String(s||"").replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
   function kacis(s){return s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");}
+  // Arama ifadesi: "tam ifade", AND/VE, OR/VEYA, NOT/DEĞİL/-kelime, ayraç. Operatörler büyük harfle yazılır;
+  // operatörsüz yan yana kelimeler AND sayılır. Dönen: {f: function(metin)->bool, pos: [aranan parçalar], bos}
+  function sorguCoz(ham){
+    var t=[], re=/\s*(?:"([^"]*)"?|(\()|(\))|([^\s()"]+))/g, m;
+    ham=(ham||"").replace(/[“”„]/g,'"');
+    while((m=re.exec(ham))&&m[0]){
+      if(m[1]!==undefined){var ph=sade(m[1]);if(ph)t.push({k:"t",v:ph,i:m[1]});}
+      else if(m[2])t.push({k:"("});else if(m[3])t.push({k:")"});
+      else{var w=m[4];
+        if(/^(AND|VE|&&)$/.test(w))t.push({k:"and"});
+        else if(/^(OR|VEYA|\|\|)$/.test(w))t.push({k:"or"});
+        else if(/^(NOT|DEĞİL|DEGIL)$/.test(w))t.push({k:"not"});
+        else{var neg=/^[-!]/.test(w)&&w.length>1;if(neg){t.push({k:"not"});w=w.slice(1);}
+          var s=sade(w);if(s)s.split(" ").forEach(function(p,j){if(j)t.push({k:"and"});t.push({k:"t",v:p,i:w});});}}
+    }
+    var i=0,pos=[],neg={};
+    function bak(){return t[i]&&t[i].k;}
+    function veya(){var a=ve();while(bak()==="or"){i++;var b=ve();a=(function(x,y){return function(s){return x(s)||y(s);};})(a,b);}return a;}
+    function ve(){var a=degil();while(bak()&&bak()!=="or"&&bak()!==")"){if(bak()==="and"){i++;if(!bak()||bak()==="or"||bak()===")")break;}var b=degil();a=(function(x,y){return function(s){return x(s)&&y(s);};})(a,b);}return a;}
+    function degil(){if(bak()==="not"){i++;if(t[i]&&t[i].k==="t")neg[t[i].v]=1;var a=degil();return function(s){return !a(s);};}return oge();}
+    function oge(){var x=t[i];if(!x)return function(){return true;};
+      if(x.k==="("){i++;var a=veya();if(bak()===")")i++;return a;}
+      if(x.k==="t"){i++;pos.push(x);var v=" "+x.v,tek=x.v.indexOf(" ")<0;
+        // kelime başından eşleşir (ekler serbest): "aşı" → "aşılama" evet, "kampanyası" hayır; tırnaklı ifade tam kelimelerle
+        return tek?function(s){return (" "+s).indexOf(v)>=0;}:function(s){return (" "+s+" ").indexOf(v+" ")>=0;};}
+      i++;return oge();}
+    var f=t.some(function(x){return x.k==="t";})?veya():null;
+    return {f:f,pos:pos.filter(function(x){return !neg[x.v];}),bos:!f};
+  }
   function tr(iso){var m=/(\d{4})-(\d{2})-(\d{2})/.exec(iso||"");return m?m[3]+"."+m[2]+"."+m[1]:(iso||"");}
 
   var suz=document.getElementById("liste-suz");
@@ -192,14 +221,14 @@
   }
   function calistir(){
     var benim=++calismaNo;
-    var q=sade(qEl.value), kapsam=form.querySelector("input[name=kapsam]:checked").value;
+    var sorgu=sorguCoz(qEl.value), q=sorgu.bos?"":"x", kapsam=form.querySelector("input[name=kapsam]:checked").value;
     var sayi=document.getElementById("sayi").value.trim(), y1=+document.getElementById("yil1").value||0, y2=+document.getElementById("yil2").value||9999;
     var turler={}; form.querySelectorAll("input[name=tur]:checked").forEach(function(c){turler[c.value]=1;});
     var metinAra = kapsam==="metin" && q;
     document.getElementById("sonuc-bilgi").textContent="Aranıyor…";
     var goster=aktifGoster=function(){
       if(benim!==calismaNo||!dizin)return;
-      var kelimeler=q?q.split(" "):[], sonuc=[];
+      var sonuc=[];
       dizin.forEach(function(b){
         if(!turler[b.t==="khk"?"kanun":b.t==="ck"?"bkk":b.t])return;
         var yil=+((b.r||b.d||"").slice(0,4))||0; if((y1>0||y2<9999)&&(yil<y1||yil>y2))return;
@@ -207,11 +236,13 @@
         var ma=document.getElementById("mulga-ara");if(ma&&!ma.checked&&b.x)return;
         if(birimEl&&birimEl.value&&(b.u||[]).indexOf(birimEl.value)<0)return;
         var parca="";
-        if(kelimeler.length){
+        if(!sorgu.bos){
           var hedef=sade(b.b+" "+b.k+" "+(b.e||[]).join(" ")+" "+b.s);
-          var tamam=kelimeler.every(function(k){return hedef.indexOf(k)>=0;});
-          if(!tamam&&metinAra&&metinler[b.i]){var sm=metinler[b.i].s;tamam=kelimeler.every(function(k){return sm.indexOf(k)>=0;});
-            if(tamam){var ham=metinler[b.i].x,ilk=qEl.value.trim().split(/\s+/)[0],ix=ham.toLocaleLowerCase("tr").indexOf(ilk.toLocaleLowerCase("tr"));if(ix<0)ix=0;parca=ham.slice(Math.max(0,ix-120),ix+220);}}
+          var tamam=sorgu.f(hedef);
+          if(!tamam&&metinAra&&metinler[b.i]){tamam=sorgu.f(hedef+" "+metinler[b.i].s);
+            if(tamam){var ham=metinler[b.i].x,hk=ham.toLocaleLowerCase("tr"),ix=-1;
+              sorgu.pos.some(function(x){ix=hk.indexOf(x.i.toLocaleLowerCase("tr"));return ix>=0;});
+              if(ix<0)ix=0;parca=ham.slice(Math.max(0,ix-120),ix+220);}}
           if(!tamam)return;
         }
         sonuc.push({b:b,p:parca});
@@ -223,7 +254,7 @@
       if(metinAra){ if(metinHata)durum=" — tam metinler indirilemedi, yalnız başlık ve künyede arandı. Sayfayı yenileyip tekrar deneyin.";
         else if(parcaSay===null||yuklenen<parcaSay)durum=" — tam metinler taranıyor"+(parcaSay?" ("+yuklenen+"/"+parcaSay+")":"")+"…"; }
       document.getElementById("sonuc-bilgi").textContent=sonuc.length+" sonuç bulundu"+(sonuc.length>300?" (ilk 300 gösteriliyor)":"")+durum;
-      var isaretle=function(s){var x=e(s);qEl.value.trim().split(/\s+/).filter(function(k){return k.length>1;}).forEach(function(k){x=x.replace(new RegExp("("+kacis(e(k))+")","gi"),"<mark>$1</mark>");});return x;};
+      var isaretle=function(s){var x=e(s);sorgu.pos.map(function(k){return k.i;}).filter(function(k,j,a){return k.length>1&&a.indexOf(k)===j;}).forEach(function(k){x=x.replace(new RegExp("("+kacis(e(k))+")","gi"),"<mark>$1</mark>");});return x;};
       document.getElementById("sonuclar").innerHTML=sonuc.slice(0,300).map(function(s){var b=s.b;
         var ust=[TUR[b.t],b.d&&("Tarih: "+tr(b.d)),b.s&&("Sayı: "+b.s),b.r&&("RG: "+tr(b.r)+(b.rs?" / "+b.rs:"")),b.m?"Tam metin":"Künye",b.x?"Mülga":""].filter(Boolean).join(" · ");
         return '<div class="sonuc"><a href="'+kok+'mevzuat/'+b.t+'/'+b.i+'.html">'+isaretle(b.b)+'</a><div class="ust-bilgi">'+e(ust)+'</div>'+(s.p?'<div class="parca">…'+isaretle(s.p)+'…</div>':(b.k?'<div class="parca">'+e(b.k)+'</div>':''))+'</div>';}).join("");
@@ -234,7 +265,7 @@
       if(metinAra&&(parcaSay===null||yuklenen<parcaSay))metinleriYukle();
     }).catch(function(){if(benim===calismaNo)document.getElementById("sonuc-bilgi").textContent="Arama dizini yüklenemedi. Sayfayı yenileyip tekrar deneyin.";});
   }
-  form.addEventListener("submit",function(ev){ev.preventDefault();history.replaceState(null,"","?q="+encodeURIComponent(qEl.value)+(birimEl&&birimEl.value?"&birim="+encodeURIComponent(birimEl.value):""));calistir();});
+  form.addEventListener("submit",function(ev){ev.preventDefault();history.replaceState(null,"","?q="+encodeURIComponent(qEl.value)+(form.querySelector("input[value=metin]").checked?"&kapsam=metin":"")+(birimEl&&birimEl.value?"&birim="+encodeURIComponent(birimEl.value):""));calistir();});
   if(birimEl)birimEl.addEventListener("change",function(){history.replaceState(null,"","?q="+encodeURIComponent(qEl.value)+(birimEl.value?"&birim="+encodeURIComponent(birimEl.value):""));calistir();});
   var ssir2=document.getElementById("sonuc-sirala"); if(ssir2)ssir2.addEventListener("change",calistir);
   var ma2=document.getElementById("mulga-ara"); if(ma2)ma2.addEventListener("change",calistir);

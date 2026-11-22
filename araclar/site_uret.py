@@ -1891,8 +1891,16 @@ def ara_sayfasi():
     icerik = f"""<nav class="yol"><a href="index.html">Ana Sayfa</a> › Detaylı Arama</nav>
 <h1>Detaylı Arama</h1>
 <form id="arama-formu" class="detayli">
-  <div class="satir"><input type="search" id="q" name="q" placeholder="Aranacak ifade" aria-label="Aranacak ifade">
+  <div class="satir"><input type="search" id="q" name="q" placeholder='Aranacak ifade, ör. "aile hekimi" AND (sözleşme OR ödeme) NOT mülga' aria-label="Aranacak ifade">
   <button type="submit">Ara</button></div>
+  <details class="arama-yardim"><summary>Gelişmiş arama işleçleri</summary>
+  <ul>
+    <li><code>"aile hekimi"</code> — tırnak içindeki ifade aynen ve bu sırayla aranır.</li>
+    <li><code>aşı AND çocuk</code> (ya da <code>VE</code>) — iki kelime birlikte geçmeli. Kelimeler arasına işleç yazılmazsa da AND sayılır.</li>
+    <li><code>aşı OR bağışıklama</code> (ya da <code>VEYA</code>) — kelimelerden biri geçmesi yeterli.</li>
+    <li><code>psikolog NOT klinik</code> (ya da <code>DEĞİL</code>, <code>-klinik</code>) — ikinci kelime geçmeyenler.</li>
+    <li><code>(aşı OR bağışıklama) AND takvim</code> — ayraçla gruplanır. İşleçler BÜYÜK harfle yazılır; küçük harfli “ve”, “veya” sıradan kelime sayılır. Kelimeler başından eşleşir: “hekim” araması “hekimliği”ni de bulur.</li>
+  </ul></details>
   <div class="satir secenek">
     <label><input type="radio" name="kapsam" value="baslik" checked> Mevzuat adında</label>
     <label><input type="radio" name="kapsam" value="metin"> Tam metinde</label>
