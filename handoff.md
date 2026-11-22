@@ -503,3 +503,9 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - İletişim önerisi kullanıcıya soruldu (mailto bağlantısı önerildi); karar bekleniyor.
 - Hakkında: başlık 'Kaynaklar (her mevzuattaki kaynak kısmından derlenerek oluşturulmuştur)'.
 - İletişim: ILETISIM=mithat.temizer@cbu.edu.tr; Hakkında'da adres, her belgede 'Hata bildir / öneri gönder (e-posta)' mailto (konu: belge adı, gövde: sayfa adresi) + GitHub bağlantısı. Arama yardımında 'işleç' yerine 'mantıksal operatör/operatör'.
+
+## 2026-11-22 — YZ notları
+- kaynak-isleme/yz-not.json {kimlik: {tur: yeni|degisiklik, tarih, not}}. site_uret.yz_kutu: belge sayfasında başlığın altında mor "YZ" kutusu ("<tarih> değişikliğinin özeti" / "Düzenlemenin özeti") + uyarı. Ana sayfa "Son düzenlemeler"de not, yalnız notun tarihi o kaydın son değişiklik tarihiyle aynıysa satır altında gösterilir.
+- İlk 15 not (son düzenlemeler, 22.11.2026) terra ajanlarıyla metinden yazıldı (calisma/yz/sonuc-*.json). Değişiklikte özet + amaç; amaç metinde yoksa "amacı metinde belirtilmemiştir".
+- KURAL: Bundan sonra her yeni eklenen ya da değişikliği işlenen mevzuat için yz-not.json'a not ekle (≤450 karakter, uydurma yok). RG takip iş akışı (Actions) not yazamaz; önerileri işlerken notu ekle.
+- HSGM (486) ve saglik.gov.tr birim/mevzuat sayfaları 22.11 tarandı: yeni belge yok.

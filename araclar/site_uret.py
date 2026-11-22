@@ -21,6 +21,28 @@ SITE_ADI = "Canlı Sağlık Mevzuatı"
 SITE_URL = "https://rereprep.github.io/canli-saglik-mevzuati/"
 ILETISIM = "mithat.temizer@cbu.edu.tr"
 
+
+def _yz_yukle():
+    """kaynak-isleme/yz-not.json: {kimlik: {"tur": "yeni"|"degisiklik", "tarih": "YYYY-MM-DD", "not": "..."}}
+    Son eklenen/değişen mevzuat için yapay zekâ ile yazılmış kısa özet (değişiklikte özet ve amaç)."""
+    import json as _j
+    yol = Path(__file__).resolve().parent.parent / "kaynak-isleme" / "yz-not.json"
+    return _j.loads(yol.read_text(encoding="utf-8")) if yol.exists() else {}
+
+
+YZ_NOT = _yz_yukle()
+YZ_UYARI = "Yapay zekâ ile hazırlanmıştır; hata ya da eksik içerebilir. Esas olan mevzuat metnidir."
+
+
+def yz_kutu(b):
+    n = YZ_NOT.get(b["id"])
+    if not n:
+        return ""
+    etiket = (f"{tarih_tr(n.get('tarih'))} değişikliğinin özeti" if n.get("tur") == "degisiklik"
+              else "Düzenlemenin özeti")
+    return (f'<aside class="yz-not"><p class="yz-baslik"><span class="yz-rozet" title="Yapay zekâ notu">YZ</span> {e(etiket)}</p>'
+            f'<p>{e(n["not"])}</p><p class="yz-uyari">{YZ_UYARI}</p></aside>\n')
+
 TUR_ADLARI = {
     "kanun": "Kanunlar ve Kanun Hükmünde Kararnameler",
     "cbk": "Cumhurbaşkanlığı Kararnameleri",
@@ -1480,7 +1502,7 @@ def belge_sayfasi(b):
           f' <span class="kucuk">· <a href="{e(hata_url)}" target="_blank" rel="noopener">GitHub üzerinden</a></span></td></tr>')
     icerik = f"""<nav class="yol"><a href="{kok}index.html">Ana Sayfa</a> › <a href="{kok}tur/{grup(b['tur'])}.html">{e(TUR_ADLARI[grup(b['tur'])])}</a></nav>
 <h1 class="belge-baslik">{e(b['baslik'])}</h1>
-{mulga_serit}{indir}
+{mulga_serit}{yz_kutu(b)}{indir}
 <table class="kunye">{k}</table>
 <div class="etiketler">{etiket}</div>
 {ara}
@@ -1828,6 +1850,9 @@ def tablo(belgeler, kok, son_tarih=False):
         gorunen_tarih = sirala_anahtar(b) if son_tarih else b.get("tarih")
         sdh = f"<td>{e(tarih_tr(sd))}</td>" if sd_sutun else ""
         birim_oz = f' data-birim="{e("|".join(b["birimler"]))}"' if b.get("birimler") else ""
+        yz = YZ_NOT.get(b["id"]) if son_tarih else None
+        if yz and yz.get("tarih") == sirala_anahtar(b):
+            isaret += f'<div class="yz-satir"><span class="yz-rozet" title="Yapay zekâ notu">YZ</span> {e(yz["not"])}</div>'
         satirlar.append(
             f'<tr data-ad="{e(sade(b["baslik"]))}" data-tarih="{e(siralama_tarihi)}" data-son="{e(sd)}"{" data-mulga" if mulga(b) else ""}{birim_oz}>'
             f'<td><a href="{kok}mevzuat/{b["tur"]}/{e(b["id"])}.html">{e(b["baslik"])}</a>{isaret}</td>'
