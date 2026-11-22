@@ -520,3 +520,4 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - Ulusal Tüberküloz Tanı Laboratuvarları Ağı Tebliği: metin bir sempozyum sunumuydu (tmc-online.org). RG 22.02.2012/28212 metniyle değiştirildi; 25.10.2015/29513 Tüberküloz Laboratuvarlarının Çalışma Usul ve Esaslarına Dair Tebliğ (yeni kayıt, md.25 ile kaldırıyor) eklendi ve mülga bağlandı.
 - Dört belgenin YZ notu yazıldı (toplam 1480).
 - Canlı doğrulama: 9f1480a yayında; dört sayfa kontrol edildi.
+- Doğrulama: 2015 Tüberküloz Laboratuvarları Tebliği mevzuat.gov.tr'de yürürlükteki tebliğler arasında (MevzuatNo 21199); güncel metinde değişiklik notu yok, 28 madde satırı RG metniyle aynı. Kaynak mevzuat.gov.tr'ye çevrildi.

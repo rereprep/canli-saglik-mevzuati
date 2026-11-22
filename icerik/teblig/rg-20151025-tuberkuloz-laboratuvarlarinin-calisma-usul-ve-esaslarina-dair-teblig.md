@@ -6,8 +6,8 @@ tarih: "2015-10-25"
 rg_tarih: "2015-10-25"
 rg_sayi: "29513"
 birim: "Halk Sağlığı Genel Müdürlüğü"
-kaynak: "Resmî Gazete, 25.10.2015, Sayı 29513"
-kaynak_url: "https://www.resmigazete.gov.tr/eskiler/2015/10/20151025-3.htm"
+kaynak: "Mevzuat Bilgi Sistemi (mevzuat.gov.tr), güncel metin; Resmî Gazete 25.10.2015/29513 metniyle aynı"
+kaynak_url: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=21199&MevzuatTur=9&MevzuatTertip=5"
 durum: "yürürlükte"
 ---
 
