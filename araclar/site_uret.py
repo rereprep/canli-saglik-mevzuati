@@ -1938,7 +1938,7 @@ def hakkinda_sayfasi(belgeler):
 <p>Siteyi düzenleyen: <strong>Mithat Temizer</strong></p>
 <p>Canlı Sağlık Mevzuatı, mevzuat.gov.tr örneğinde olduğu gibi sağlık alanındaki düzenlemeleri tek yerde toplamayı amaçlar. Resmî Gazete'de yayımlanan kanun ve yönetmeliklerin yanında, Resmî Gazete'de yayımlanmadığı için ulaşılması güç olan yönerge, genelge ve Sağlık Bakanlığı yazışmalarını da içerir.</p>
 <p>Her tam metinli belge Word (.docx) ve PDF olarak indirilebilir. Tam metni henüz eklenmemiş kayıtlarda künye ve resmî kaynağa bağlantı yer alır.</p>
-<h2>Kaynaklar</h2><ul>{lis}<li>mevzuat.gov.tr, saglik.gov.tr ve resmigazete.gov.tr</li></ul>
+<h2>Kaynaklar <span class="h2-not">(her mevzuattaki kaynak kısmından derlenerek oluşturulmuştur)</span></h2><ul>{lis}<li>mevzuat.gov.tr, saglik.gov.tr ve resmigazete.gov.tr</li></ul>
 <h2>Uyarı</h2><p>Metinler basılı derlemelerden otomatik olarak aktarılmıştır ve aktarım hataları içerebilir. Güncel ve bağlayıcı metin için Resmî Gazete ve ilgili kurumun yayını esas alınmalıdır. Hata bildirimi için GitHub deposunda konu (issue) açabilirsiniz.</p>
 <p class="kucuk">Son güncelleme: {dt.date.today().strftime('%d.%m.%Y')}</p>"""
     return sayfa("Hakkında", icerik, "")

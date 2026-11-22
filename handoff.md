@@ -501,3 +501,4 @@ mevzuat.gov.tr benzeri sağlık mevzuatı sitesi: kanun, CBK, KHK, tüzük, yön
 - site/assets/ara.js sorguCoz: "tam ifade", AND/VE, OR/VEYA, NOT/DEĞİL/-kelime, ayraç; işleçsiz kelimeler AND. İşleçler yalnız BÜYÜK harfle. Eşleşme artık kelime başından (önceden metin içi alt dizgi: "aşı" "kampanyası"nı buluyordu). Başlık+künye ile tam metin birlikte değerlendirilir. URL'de kapsam=metin korunuyor.
 - ara.html'de "Gelişmiş arama işleçleri" açılır yardım kutusu. Test: /private/tmp/sorgu_test.js (birim), /private/tmp/zb.js (tarayıcı).
 - İletişim önerisi kullanıcıya soruldu (mailto bağlantısı önerildi); karar bekleniyor.
+- Hakkında: başlık 'Kaynaklar (her mevzuattaki kaynak kısmından derlenerek oluşturulmuştur)'.
