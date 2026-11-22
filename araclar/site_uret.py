@@ -19,6 +19,7 @@ import time as _time
 SITE_SURUM = str(int(_time.time()))
 SITE_ADI = "Canlı Sağlık Mevzuatı"
 SITE_URL = "https://rereprep.github.io/canli-saglik-mevzuati/"
+ILETISIM = "mithat.temizer@cbu.edu.tr"
 
 TUR_ADLARI = {
     "kanun": "Kanunlar ve Kanun Hükmünde Kararnameler",
@@ -1473,7 +1474,10 @@ def belge_sayfasi(b):
         k += f'<tr><th>Metin</th><td><span class="guven {guven[0]}">{e(guven[1])}</span> — {e(guven[2])}</td></tr>'
     hata_url = ("https://github.com/rereprep/canli-saglik-mevzuati/issues/new?title=" + _ub.quote("Hata bildirimi: " + b["baslik"][:120])
                 + "&body=" + _ub.quote(f"Sayfa: {SITE_URL}mevzuat/{b['tur']}/{b['id']}.html\n\nHatanın yeri ve doğrusu:\n"))
-    k += f'<tr><th>Hata bildir</th><td><a href="{e(hata_url)}" target="_blank" rel="noopener">Bu sayfadaki bir hatayı bildirin</a></td></tr>'
+    eposta_url = ("mailto:" + ILETISIM + "?subject=" + _ub.quote("Canlı Sağlık Mevzuatı – Hata/öneri: " + b["baslik"][:120])
+                  + "&body=" + _ub.quote(f"Sayfa: {SITE_URL}mevzuat/{b['tur']}/{b['id']}.html\n\nHatanın yeri ve doğrusu / önerim:\n"))
+    k += (f'<tr><th>Hata bildir</th><td><a href="{e(eposta_url)}">Hata bildir / öneri gönder (e-posta)</a>'
+          f' <span class="kucuk">· <a href="{e(hata_url)}" target="_blank" rel="noopener">GitHub üzerinden</a></span></td></tr>')
     icerik = f"""<nav class="yol"><a href="{kok}index.html">Ana Sayfa</a> › <a href="{kok}tur/{grup(b['tur'])}.html">{e(TUR_ADLARI[grup(b['tur'])])}</a></nav>
 <h1 class="belge-baslik">{e(b['baslik'])}</h1>
 {mulga_serit}{indir}
@@ -1893,13 +1897,13 @@ def ara_sayfasi():
 <form id="arama-formu" class="detayli">
   <div class="satir"><input type="search" id="q" name="q" placeholder='Aranacak ifade, ör. "aile hekimi" AND (sözleşme OR ödeme) NOT mülga' aria-label="Aranacak ifade">
   <button type="submit">Ara</button></div>
-  <details class="arama-yardim"><summary>Gelişmiş arama işleçleri</summary>
+  <details class="arama-yardim"><summary>Gelişmiş arama: mantıksal operatörler</summary>
   <ul>
     <li><code>"aile hekimi"</code> — tırnak içindeki ifade aynen ve bu sırayla aranır.</li>
-    <li><code>aşı AND çocuk</code> (ya da <code>VE</code>) — iki kelime birlikte geçmeli. Kelimeler arasına işleç yazılmazsa da AND sayılır.</li>
+    <li><code>aşı AND çocuk</code> (ya da <code>VE</code>) — iki kelime birlikte geçmeli. Kelimeler arasına operatör yazılmazsa da AND sayılır.</li>
     <li><code>aşı OR bağışıklama</code> (ya da <code>VEYA</code>) — kelimelerden biri geçmesi yeterli.</li>
     <li><code>psikolog NOT klinik</code> (ya da <code>DEĞİL</code>, <code>-klinik</code>) — ikinci kelime geçmeyenler.</li>
-    <li><code>(aşı OR bağışıklama) AND takvim</code> — ayraçla gruplanır. İşleçler BÜYÜK harfle yazılır; küçük harfli “ve”, “veya” sıradan kelime sayılır. Kelimeler başından eşleşir: “hekim” araması “hekimliği”ni de bulur.</li>
+    <li><code>(aşı OR bağışıklama) AND takvim</code> — ayraçla gruplanır. Operatörler BÜYÜK harfle yazılır; küçük harfli “ve”, “veya” sıradan kelime sayılır. Kelimeler başından eşleşir: “hekim” araması “hekimliği”ni de bulur.</li>
   </ul></details>
   <div class="satir secenek">
     <label><input type="radio" name="kapsam" value="baslik" checked> Mevzuat adında</label>
@@ -1935,11 +1939,11 @@ def hakkinda_sayfasi(belgeler):
     lis = "".join(kaynak_li(k) for k in kaynaklar if k)
     icerik = f"""<h1>Hakkında</h1>
 <p class="ithaf-buyuk"><em>Her zaman ufkumu açan Prof. Dr. Cemil Özcan'a en derin saygılarımla.</em></p>
-<p>Siteyi düzenleyen: <strong>Mithat Temizer</strong></p>
+<p>Siteyi düzenleyen: <strong>Mithat Temizer</strong> — <a href="mailto:{ILETISIM}">{ILETISIM}</a></p>
 <p>Canlı Sağlık Mevzuatı, mevzuat.gov.tr örneğinde olduğu gibi sağlık alanındaki düzenlemeleri tek yerde toplamayı amaçlar. Resmî Gazete'de yayımlanan kanun ve yönetmeliklerin yanında, Resmî Gazete'de yayımlanmadığı için ulaşılması güç olan yönerge, genelge ve Sağlık Bakanlığı yazışmalarını da içerir.</p>
 <p>Her tam metinli belge Word (.docx) ve PDF olarak indirilebilir. Tam metni henüz eklenmemiş kayıtlarda künye ve resmî kaynağa bağlantı yer alır.</p>
 <h2>Kaynaklar <span class="h2-not">(her mevzuattaki kaynak kısmından derlenerek oluşturulmuştur)</span></h2><ul>{lis}<li>mevzuat.gov.tr, saglik.gov.tr ve resmigazete.gov.tr</li></ul>
-<h2>Uyarı</h2><p>Metinler basılı derlemelerden otomatik olarak aktarılmıştır ve aktarım hataları içerebilir. Güncel ve bağlayıcı metin için Resmî Gazete ve ilgili kurumun yayını esas alınmalıdır. Hata bildirimi için GitHub deposunda konu (issue) açabilirsiniz.</p>
+<h2>Uyarı</h2><p>Metinler basılı derlemelerden otomatik olarak aktarılmıştır ve aktarım hataları içerebilir. Güncel ve bağlayıcı metin için Resmî Gazete ve ilgili kurumun yayını esas alınmalıdır. Gözden kaçan bir mevzuatı, hatayı ya da önerinizi <a href="mailto:{ILETISIM}?subject=Canl%C4%B1%20Sa%C4%9Fl%C4%B1k%20Mevzuat%C4%B1%20%E2%80%93%20Bildirim">{ILETISIM}</a> adresine yazabilirsiniz. Her mevzuat sayfasındaki “Hata bildir / öneri gönder” bağlantısı, e-postayı o sayfanın adıyla birlikte hazırlar. GitHub kullananlar depoda konu (issue) da açabilir.</p>
 <p class="kucuk">Son güncelleme: {dt.date.today().strftime('%d.%m.%Y')}</p>"""
     return sayfa("Hakkında", icerik, "")
 
