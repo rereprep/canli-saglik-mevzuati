@@ -30,37 +30,5 @@
    "mulga yonerge"
   ],
   "ayri": true
- },
- {
-  "id": "mulga-yonerge-saglik-bakanligi-ic-denetim-yonergesi-2017",
-  "baslik": "Sağlık Bakanlığı İç Denetim Yönergesi (2017)",
-  "tur": "yonerge",
-  "tarih": "2017-02-07",
-  "birim": "İç Denetim Birimi Başkanlığı",
-  "konu": "Tam metni sitede yok. 12.12.2023 tarihli Sağlık Bakanlığı İç Denetim Yönergesi md. 75 ile yürürlükten kalkmıştır (\"eski yönerge hükümleri yürürlükten kalkar\"). Önceki metin Bakanlık sitesindeki İç Denetim Yönergesi sayfasında PDF olarak yer almaktadır.",
-  "kaynak": "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr), İç Denetim Yönergesi sayfası",
-  "kaynak_url": "https://dosyamerkez.saglik.gov.tr/Eklenti/6366/0/ic-denetim-birim-yonergesi-yenipdf.pdf",
-  "durum": "yürürlükten kaldırıldı",
-  "kaldiran": "idb-saglik-bakanligi-ic-denetim-yonergesi",
-  "etiketler": [
-   "mulga yonerge"
-  ],
-  "ayri": true
- },
- {
-  "id": "mulga-yonerge-saglik-bakanligi-ic-denetim-birimi-yonergesi-2009",
-  "baslik": "Sağlık Bakanlığı İç Denetim Birimi Yönergesi",
-  "tur": "yonerge",
-  "tarih": "2009",
-  "birim": "İç Denetim Birimi Başkanlığı",
-  "konu": "Tam metni sitede yok. 07.02.2017 tarihli İç Denetim Yönergesi md. 75 ile yürürlükten kalkmıştır (\"eski yönerge hükümleri yürürlükten kalkar\"). Onay gün ve ayı belgede boş bırakıldığından yalnız yıl yazılmıştır.",
-  "kaynak": "T.C. Sağlık Bakanlığı internet sitesi (saglik.gov.tr), İç Denetim Yönergesi sayfası",
-  "kaynak_url": "https://dosyamerkez.saglik.gov.tr/Eklenti/2370/0/saglik-bakanligi-yonerge-sonnnnpdf.pdf",
-  "durum": "yürürlükten kaldırıldı",
-  "kaldiran": "mulga-yonerge-saglik-bakanligi-ic-denetim-yonergesi-2017",
-  "etiketler": [
-   "mulga yonerge"
-  ],
-  "ayri": true
  }
 ]
