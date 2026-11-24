@@ -641,7 +641,10 @@
  },
  "sbg-103800-saglik-bakanligi-on-mali-kontrol-islemleri-yonergesi-degisiklikler-isl": {
   "tarih": "2020-07-24",
-  "sayi": "356"
+  "sayi": "356",
+  "durum": "yürürlükten kaldırıldı",
+  "kaldiran": "sb-saglik-bakanligi-on-mali-kontrol-yonergesi-2026",
+  "son_degisiklik": "2026-04-15"
  },
  "sbg-11107-asi-sonrasi-istenmeyen-etkiler-genelgesi": {
   "durum": "yürürlükten kaldırıldı",
@@ -662,5 +665,8 @@
  "sb-genel-tibbi-i-slemler-yonergesi": {
   "durum": "değişiklikten önceki metin",
   "yerine": "k-genel-tibbi-islemler-yonergesi-2025"
+ },
+ "hhgm-saglik-bakanligi-hukuk-hizmetleri-yonergesi": {
+  "son_degisiklik": "2026-11-04"
  }
 }

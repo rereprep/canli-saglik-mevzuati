@@ -386,6 +386,7 @@ def son_degisiklik_bul(b):
     ve metindeki (Değişik/Ek/Mülga: … RG-g/a/yyyy) notlarındaki en yeni tarih; değişiklik yoksa mevzuatın tarihi."""
     if b.get("tur") not in SD_TURLERI:
         return
+    elle_sd = b.get("son_degisiklik") or ""  # elle-duzeltme.json ile verilmiş olabilir
     taban = b.get("tarih") or b.get("rg_tarih") or ""
     bugun = dt.date.today().isoformat()
     tarihler = []
@@ -404,6 +405,11 @@ def son_degisiklik_bul(b):
         if re.search(r"Değişik|Ek|Mülga|İptal|Yürürlükten|Kaldırıl", n[1]):
             tarihler.append(f"{n[5]}-{int(n[4]):02d}-{int(n[3]):02d}")
     tarihler += [d["tarih"] for d in _YON_DEGISTIREN.get(b.get("id"), []) if re.fullmatch(r"\d{4}(-\d{2}-\d{2})?", d.get("tarih") or "")]
+    # Bakan Oluru ile yapılan değişiklik notları: "(Değişik: 4/11/2026 tarihli ve … sayılı Bakan Oluru)"
+    for g, a, y in re.findall(r"\((?:Değişik|Ek|Mülga)[^():]{0,20}:\s*(\d{1,2})/(\d{1,2})/(\d{4})\s*tarihli[^()]{0,120}Olur", govde):
+        tarihler.append(f"{y}-{int(a):02d}-{int(g):02d}")
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", elle_sd):
+        tarihler.append(elle_sd)
     tarihler = [x for x in tarihler if "1900" <= x <= bugun and x > (b.get("rg_tarih") or taban or "0")]
     b["son_degisiklik"] = max(tarihler) if tarihler else taban
 
